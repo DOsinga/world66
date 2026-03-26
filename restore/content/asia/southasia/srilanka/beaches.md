@@ -1,0 +1,36 @@
+# Beaches in Sri Lanka
+
+*Asia > Southasia > Srilanka > Beaches*
+
+Negombo Beach
+
+Bentota Beach
+
+Hikkaduwa Beach
+
+Koggala Beach
+
+Unawatuna Beach
+
+Mirissa Beach
+
+Polhena Beach
+
+Dickwella Beach
+
+Tangalle Beach
+
+Weligama Beach
+
+Nilaweli Beach
+
+Arugam Bay Beach
+
+Baticcolo
+
+Mannar
+
+**Contributors**
+August 24, 2010
+new
+by [rashintha](/member/rashintha)

@@ -1,0 +1,10 @@
+# Eating Out
+
+*Centralamericathecaribbean > Thecaribbean > Cuba > Vinales > Eating Out*
+
+There are nice places to eat in Vinales. Since most of these are unofficial you'd better pick up a hichhiker and ask him or here for a good address.
+
+**Contributors**
+December 27, 2004
+new
+by [hpharmsen](/member/hpharmsen) (1 point)

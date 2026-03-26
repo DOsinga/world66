@@ -1,0 +1,141 @@
+# Tour To Wadi Rum Jordan From Aqaba Port
+
+*Asia > Middleeast > Jordan > Day Trips > Tour To Wadi Rum J*
+
+Normal
+0
+
+false
+false
+false
+
+EN-US
+X-NONE
+AR-SA
+
+MicrosoftInternetExplorer4
+
+/* Style Definitions */
+table.MsoNormalTable
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+
+Join
+**tour** to **Wadi Rum** from **Aqaba
+port** and explore Wadi Um Eshreen, **Khazali**, Abu Aineh, Red Sand, Barragh Canyon and
+the **Seven Pillar of Wisdom** in **Jordan** desert.
+
+Normal
+0
+
+false
+false
+false
+
+EN-US
+X-NONE
+AR-SA
+
+MicrosoftInternetExplorer4
+
+/* Style Definitions */
+table.MsoNormalTable
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+
+**Tour Itinerary:**
+
+Our **Wadi Rum tour **will start
+with pick up service from your ship terminal in **Aqaba
+port**, where our REP will meet you with aboard reflecting your
+name, then from **Aqaba port** you will be
+transferred by air-conditioned vehicle with your private guide to the region
+known as **Wadi Rum**. It is actually a
+series of valleys about 2km wide stretching north to south for about 130km. The
+way will take only 1 hour. The local people in **Wadi Rum**
+are also incredibly friendly, their hospitality is part of their creed that no traveller
+is turned away. This is part of a **desert** code of survival.
+Once taken in, a guest will be offered the best of the available food and
+plenty of tea and coffee. By about the 4th century ВС, **Wadi Rum** was settled by the Nabataeans who built
+temples and wrote inscriptions on the rocks - many of which can still be seen.
+By jeep 4x4 enjoy visit to Wadi Um Eshreen, **Sand
+Dunes** has a small section of beautiful red sand up the slope of
+Jebel Umm Ulaydiyya. Next step in **Wadi Rum** will be **Al Khazali**, it is a narrow canyon with petroglyphs
+etched into the cave walls depicting humans and antelopes dating back to the
+Thamudic times, can be explored on foot for about 150m until you reach some
+rocks, Abu Aineh which has a spring, one of the impressive rock
+formations in **Wadi Rum** was named "**The Seven Pillars of Wisdom**" for its shape.
+Also you will see Barrah Siq is long (about 5km) canyon and it is worth to be
+explored. Lunch will be served at a local restaurant in **Wadi Rum**, then you will be transferred back to **Aqaba** to your ship terminal in **Aqaba port**.
+
+**Tour Includes:**
+
+- Pick up and drop off services from your ship in **Aqaba port**
+
+- All transfers by air-conditioned vehicle in **Aqaba port**
+
+- **Tour** by Jeep 4x4 in **Wadi Rum** **Jordan**
+
+- English speaking **tour** guide in **Wadi Rum** **Jordan**
+
+- Admission fees to the sights in **Wadi Rum** **Jordan**
+
+- Lunch at local restaurant in **Wadi Rum
+
+Tour Excludes:
+
+**- Optional **tours**
+
+- Personal expenses
+
+Normal
+0
+
+false
+false
+false
+
+EN-US
+X-NONE
+AR-SA
+
+MicrosoftInternetExplorer4
+
+/* Style Definitions */
+table.MsoNormalTable
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+
+**What
+to bring: **
+
+- Passport valid for 6 months
+
+- Comfortable shoes
+
+- Cotton clothes in summer
+
+- Warm clothes in winter
+
+- Sun block
+
+- Sunglasses
+
+- Hat
+
+- Photo/Video Camera
+
+**Email:** nataly@egypttravelhotdeals.com
+
+**Website:** www.egypttravelhotdeals.com
+
+World66 rating:
+
+Rate now:
+
+tel: 0020100850146
+
+url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
+
+address: Egypt, Hurghada
+
+email: nataly@egypttravelhotdeals.com
+
+[back to Day Trips](..)

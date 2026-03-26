@@ -1,0 +1,50 @@
+# Daska Travel Guide
+
+*Asia > Southasia > Pakistan > Sialkot > Daska*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Name
+
+The name Daska is said to be a distortion of "Dah Kos". The term "Dah" is the Persian word for the numeral ten, and "Kos" refers to a unit of distance used in Mughal times. The town was situated some ten "Kos" between neighbouring Gujranwala, Sialkot, Pasrur, Wazirabad and Sambrial, hence Dah Kos became Das Kos in the local Punjabi language, later shortened to Daska.
+
+The principal Jatt clans of Daska and its environs include the Arian ,Jatt, Cheema, Sahi, Maher, Ghumman, Nagra, Wahla, Basra, Kang, Goraya, Bajwa and Randhawa,Sandhu.Most of the villages surrounding daska are also named after jutt castes such as Adamkey cheema, Mundayki Goraya etc. The Jatts are said to have originated from Scythian invaders from Central Asia. Some people have wrongly confused Jatts with Chaudries which is simply an honorific given to land owners.The Mughals are also there, they have major role in the manufacturing industry of Daska.Major manufacturing industries in Daska are surgical equipment, axles and agriculture machines.The Rajputs are represented in the local population mostly by Mew,Khokhars,Bhatti,Minhas and Rana's. From Middle Ages, some Ghauris, originally from Afghanistan and having Hazara roots are also inhabitants of this area. A large number of Pathan (Kakars) and Afghan descendents of early ages, who had been living in Indian part of Punjab, migrated to Pakistan; and a good number of these people are living in Daska and around though it is hard to distinguish them by the language, as all of them are deeply integrated into Punjabi culture and so speak Punjabi as their mother tongue. A large numbers of Kashmiris, Maliks, Gujjars, and Thaheem are part of local population. A number of Biharis from Eastern India have reached here and have settled down as locals since 1971 and some Afghan refugees have also made this area as their home late 70's after Soviet invasion of Afghanistan. This makes Daska a land of all colours where all are living in examplery harmony. In fact Daska may be taken as a role model for the rest of the country.The nearest village name Bhroke which was founded by late sardar Jawala singh sahi before 1930s,which was left by there grandsons during 1947, one of them is sh.Gurcharan singh sahi s/o sh.Diyal singh sahi ,who is now living in vill.Kamali( F.G.S),Punjab,India.Mooranwalee Kothi (Peacock mansion) is a distinctive building in Daska. It was built during the 1930s by a prominent Jawala singh Sahi's family who later migrated to India in 1947. For many decades, the building was famous in the region for its grandeur, gardens and of course peacocks.And latest now Chand marriage hall is running publicly very well in Daska and become a sign in Daska.
+
+The local dialect of Punjabi is the Western or Northern Dialect akin to that spoken in Sialkot. A native speaker from Daska and Sialkot District will easily recognize another native speaker of the area due its rhythmic melodious sound, the use of several distinct words and aspects of syntax.
+
+The name Daska sounds very familiar in Serbian (Croatian, Macedonian) and means batten or sill. This is maybe in connection to Alexander the Great (Alexander III of Macedon).
+
+History
+
+Before the independence of Pakistan in 1947, the city of Daska was under British colonial rule. Daska became famous largely due to the exploits of Jagga Daku who was an admired rebel leader and outlaw fighting against British Imperial rule. In the Punjab he came to be admired as a hero to the masses because of his brave stand against the European rulers. Much like Robin Hood, he would loot from the wealthy and redistribute this wealth to poorer sections of society. Most of the wealthy in the area around Daska were native collaborators of the colonial British. Jagga has a prominent place in Punjabi poetry because of his bravery and generosity.
+
+Daska's role in the organized freedom movement is well documented. The nascent sense of nationalism among Punjabi Muslims evolved in the area. The people of the Punjab were a mixture of races and peoples who had been part of a number of kingdoms and territories over the course of history. The area around Daska had been part of Alexander the Great's Greek Empire, Persia's grand Khorasan, the Turkic Mughal Empire and most recently the rule of Sikhs before the arrival of the colonial British. The panoply of peoples living around Daska bear living testament to its storied past. The British Indian Empire added these people to its realm in the latter half of the 19th century unlike other parts of the British Raj which were under British rule from as early as the 17th century. The local people around Daska, especially the majority Muslim population, related little to the Indian National Congress which was primarily a party of the Hindu majority in peninsular India. It became clear that with the departure of the British, the recreation of a Mughal Empire or Muslim dominated state in South Asia was not in the cards. Daska embraced the cause of the Muslim League which was furthering the struggle of native Muslims in an independent state. The first meeting of the Muslim League in Daska was held on April 13, 1942 at Mian Lal Dian and Mian Jalal Din Ghumman's house in Mohallah Altaf Garaha.
+
+The city has gained a measure of prominence due the large number of products which are produced there, including agricultural machines, sporting goods, musical instruments and surgical goods. The area around the city is well known for farming and cottage industries.they Main Villages Are Mundake Goraya,Budha Goraya,Mandran wala,jaisar wala,
+
+==Notable people== Imran Tauqeer cheema S/O Tauqeer Ahmad cheema who studied from govt high school mitranwali tehsil daska,
+
+Rajinder Singh Bedi, Urdu writer and father of actor Kabir Bedi; a resident of Tehsil Daska before migrating to India in 1947. The village depicted in Ek Chadar Maili Si is actually his native village of Daska.
+Sir Chaudhry Zafrullah Khan Sahib, First Foreign Minister of Pakistan and Judge of World Court of Justice
+[edit] Education
+
+Daska is quite famous for its brilliant and genius students and teachers including students studying abroad like Master Ahmad Fayz who topped his Examination in Ghana with the West African Senior Secondary Certificate Examination(2009). There are many institutes, which are fulfilling the needs of knowledge of its people. Among the well known institutes some are Govt High school Daska (having nearly 3200 students), Sialkot Grammar school, Govt. degree college for boys and girls, Punjab college and image college etc. Daska is holding a well known number of positions in Gujranwala board of intermediate and secondary education. But education in science fields with respect to practical knowledge of students as well as teachers has to be improved a lot.
+[edit] Transportation
+
+The city is accessible by road from all major cities. The nearest railway station is about 17 km (11 mi) away (Sambrial railway station).
+[edit] Sialkot-Lahore motorway route map
+
+A link road for Daska is also proposed for Sialkot Lahore Motorway. The proposed motorway will start from the Mehmood Booti side of the Lahore ringroad and will end near Sambrial on the Sialkot-Wazirabad road. On the way, it will serve the cities and towns of Kala Khatai, Muridke, Narowal, Gujranwala, Eminabad, Pasrur, DASKA, Sambrial and Wazirabad. A link to Motorway M-2 near Kala Shah Kaku is also proposed to connect it to the network of motorways. The project will be completed within 30 months. The big one cosultant company of the Pakistan NESPAK(national engineering services Pakistan) make its design and give alignment hope that this company also supervise road construction and length of this motorway is near about 85 km daska is a wellknown for its light agriculture machinery and auto spare parts,
+
+A Sialkot-Lahore motorway is under construction as part of the overall vision of the NHA, National Highway Authority. Locals would like to see the linkage of Sialkot Daska and Gujranwala through a rail service which would run alongside the motorway. A 6-lane motorway from Sialkot to Lahore, the two important industrial centers of Punjab, is under construction which will give impetus to economic activities in the province. NHA recognizes this motorway as M11, however it is also known as LSM, SLM, Lahore-Sialkot Motorway or Shahrah-e-Sanat (Industrial highway). Gujrat will be linked with the Sialkot Lahore Motorway (SLM) by constructing a bridge on the Chenab river near Shahbazpur. It will reduce the distance between Sialkot and Lahore to just 45 minutes. The purpose of the mega project is to facilitate export of products grown or produced in Punjab which will have a positive impact on the country’s economy. The project will be completed by the end of 2010. The Eastbound exit at junction 2 will lead directly to Daska.
+[edit] Sialkot International Airport
+
+Sialkot International Airport is the closest airport, 15 km away from the city centre. It currently handles only cargo but passenger flights are planned to start at the end of 2009. On September 28, 2007, Airblue operated its first test flight to Sialkot. The aircraft was an A321, (AP-BJB) with more than 30 passengers on the route between Jinnaj and Sialkot.
+
+Pakistan International Airline (PIA) has announced its tentative flight schedule for flights between Islamabad-Sialkot-Islamabad. PIA started initially three flights weekly between Islamabad-Sialkot-Islamabad.
+
+*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Daska*
+
+Page last generated on Sun 08:22
+
+-->

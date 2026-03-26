@@ -1,0 +1,17 @@
+# Mihkli Trahter
+
+*Europe > Estonia > Tallinn > Nightlife > Mihklitrahter*
+
+90 seats, of which 10 in a private room. Open Mon-Thurs, Sun 12.00-23.00 Fri-Sat 12.00-24.00
+
+type: Bars
+
+World66 rating:
+
+Rate now:
+
+address: Endla 23
+
+tel: 6664807
+
+[back to Nightlife and Entertainment](..)

@@ -1,0 +1,9 @@
+# Beihan
+
+*Asia > Middleeast > Yemen > Beihan*
+
+We currently have no information about Beihan.
+
+If you do know any general information about Beihan, please [Edit this article].
+
+If you know any hotels in Beihan or restaurants in Beihan, please [[Add].](/destinations/addItemWizard?addwhere=asia/middleeast/yemen/beihan)

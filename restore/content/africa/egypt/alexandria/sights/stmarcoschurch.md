@@ -1,0 +1,13 @@
+# St. Marcos Church
+
+*Africa > Egypt > Alexandria > Sights > Stmarcoschurch*
+
+This church reputedly was established by St. Mark the Evangelist who brought Christianity to Egypt. The current church is built on the remains of an earlier church and is in the basilican style. The church has a large hall that leads to the 11th century cemetery of Coptic archbishops.
+
+type: Churches
+
+World66 rating:
+
+Rate now:
+
+[back to Sights](..)

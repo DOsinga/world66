@@ -1,0 +1,15 @@
+# Flavors
+
+*Asia > Southasia > India > Maharashtra > Mumbai > Bars And Cafes > Flavors*
+
+Flavors is located in Thane(W) near Suraj Water Park, Kanchanpushp society. It is also one of the good bar in Thane but again price is too high. Anyway you can give it a try. Non-Veg is good also.
+
+World66 rating: Rate now:
+
+accessibility: x
+
+tel: x
+
+address: x
+
+[back to Bars and Cafes](..)

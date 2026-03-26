@@ -1,0 +1,11 @@
+# tarangire Travel Guide
+
+*Africa > Tanzania > Moshi > Tarangire*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Tarangire
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Tue 09:46

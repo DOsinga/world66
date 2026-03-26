@@ -1,0 +1,5 @@
+# Angkor Thom
+
+*Asia > Southeastasia > Cambodia > Angkorwat > Sights > Angkorthom*
+
+Angkor Thom was built by Cambodia's greatest builder, Jayavarman VII. This ten square kilometer city is enclosed by an eight meter high wall and encircled by a hundred meter moat said to have been inhabited by fierce crocodiles. There are five twenty meter high gates in the wall in each of the North, West and South walls and two in the East Wall. Access is via causeways over the moat that are flanked by the statues of fifty four Gods on the left and fifty four devils on the right, all seemingly engaged in a game of tug of war.  Bayon is located in the geographical heart of Angkor Thom. The fifty four tower temple is a quite remarkable sight. Initially the temple seems to be a shapeless mass of grey and brown stone but as one approaches one realizes that each of the towers is in fact carved and there are over two hundred huge enigmatic faces of Avalokitesharva bearing down on you wherever you turn. The Bayon is easily the most popular sight after Angkor Wat and no visit is complete without a trip to see this amazing and unique temple.

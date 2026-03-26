@@ -1,0 +1,7 @@
+# Eating Out in Skardu
+
+*Asia > Southasia > Pakistan > Skardu > Eating Out*
+
+DEWANEKHAS THE BEST HOTEL AND RESTAURANT
+
+SERVING ENGLISH,CHINESE CONTINENTAL, PAKISTANI AND LOCAL FOODS

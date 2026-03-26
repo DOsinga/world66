@@ -1,0 +1,21 @@
+# Your loved Nokia products are now under a single link
+
+*Asia > Southasia > India > Westbengal > Calcutta > Shopping > Your Loved Nokia P*
+
+Mobiles with all the features, that keeps attracting all age people, is the
+success story for an established mobile brand. Nokia is the name to consider, and the features and specifications are the unmatched and unparalleled ones with the rest in the trade. From mobiles for simple call making to the
+wi-fi ones, collections that Nokia maintain are ever expanding, and **RightGadgets.In **is keeping a consistent track on them. Every time Nokia announces a new wonder, its **www.rightgadgets.in/items_subcat.asp?Category=Mobiles_India_Online&cid=1&brand=Nokia **is the address that brings it before the visitor straightaway.
+
+type: Antiques
+
+World66 rating: Rate now:
+
+tel: 9874090194
+
+url: [www.rightgadgets.in](http://www.rightgadgets.in/items_subcat.asp?Category=Mobiles_India_Online&cid=1&brand=Nokia)
+
+address: P-545 Lake Road Kolkata-700029
+
+email: rightnokia1@gmail.com
+
+[back to Shopping](..)

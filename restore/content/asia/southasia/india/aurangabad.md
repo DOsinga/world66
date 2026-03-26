@@ -1,0 +1,11 @@
+# Aurangabad Travel Guide
+
+*Asia > Southasia > India > Aurangabad*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Aurangabad
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Wed 06:23

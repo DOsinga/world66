@@ -1,0 +1,29 @@
+# Eating Out
+
+*Asia > Southeastasia > Indonesia > Java > Bogor > Eating Out*
+
+### [Fishing valley bogor](/asia/southeastasia/indonesia/java/bogor/eatingout/fishing_valley_bog)
+
+The city of Bogor in Indonesia is well known for it's Botanical Garden which has impressive colletions including the *Amorphophallus titanum* which is also known as the Biggest Flower in the World.
+
+Other activities that you can do in Bogor is Freshwater Fishing (Carp, Catfish, Nila etc) at Fishing Valley Bogor, which is the biggest Fishing Venue in Bogor.
+
+Fishing Valley is located on a Green Valley with Mount Salak View at the city of Bogor, complete with a Restaurant serving great Indonesian / Sundanese cuisine. Guests can eat [more..](/asia/southeastasia/indonesia/java/bogor/eatingout/fishing_valley_bog)
+
+type: Indonesian
+
+World66 rating:
+
+[[rate it]](/asia/southeastasia/indonesia/java/bogor/eatingout/fishing_valley_bog)
+
+accessibility: By car
+
+tel: (062)(0251) - 662808 / 7141606, 021-92930567
+
+url: [www.fishingvalley.net](http://www.fishingvalley.net)
+
+address: JL. Raya Pemda No. 107, Bogor, Indonesia
+
+PriceOfMenu: $1 - $5
+
+email: info@fishingvalley.net

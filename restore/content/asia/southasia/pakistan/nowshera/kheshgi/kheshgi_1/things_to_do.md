@@ -1,0 +1,29 @@
+# Things to do in kheshgi
+
+*Asia > Southasia > Pakistan > Nowshera > Kheshgi > Kheshgi 1 > Things To Do*
+
+**=======NOWSHERA PRESS CULB NOWSHERA CANTT N W F P PAKISTAN ===**
+
+**======PHONE & FAX 0092 923 610222 =================**
+
+** NOWSHERA PRESS CLUB IS SATUATED IN A SIDE OF RIVER KABUL IN A BEAUTIFUL LOCATION HAJI MUSHTAQ PARACHA IS CHAIRMAN OF NOWSHERA PRESS CLUB OTHER MEMBERS OF PRESS CULB AS UNDER , **
+
+**(1) HAHI MUSHTAQ PARACHA **
+
+**(2) ASIF ZERIK **
+
+**(3) JAWAID AHMED**
+
+**(4) WAJID ALI**
+
+** (5) NISAR AHMED KHAN **
+
+**(6) NAEEM WALI **
+
+**(7) NOOR KHALIQ **
+
+**(8) SADIQ DOUBLE SHAH **
+
+**(9) SHAHINSHAH**
+
+****

@@ -1,0 +1,22 @@
+# Shemoixede
+
+*Europe > Georgia > Batumi > Eatingout > Shemoixede*
+
+Restaurant is located in “Old Batumi”, near Batumi port. It is 2-storeyed building, equipped with 20 tables and 2 compartments. Here you can enjoy tasteful national dishes like: Khinkali, Kababi, etc. Wooden tables and chairs, lamp like illume make cozy and pleasant atmosphere.
+
+**Contributors**
+March 13, 2010
+new
+by [teona](/member/teona)
+
+type: Local
+
+World66 rating:
+
+Rate now:
+
+tel: +995 58 909 909
+
+address: 8, Jhordania str.
+
+[back to Eating Out](..)

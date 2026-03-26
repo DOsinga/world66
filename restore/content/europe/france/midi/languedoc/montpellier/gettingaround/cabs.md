@@ -1,0 +1,21 @@
+# CABS
+
+*Europe > France > Midi > Languedoc > Montpellier > Gettingaround > Cabs*
+
+ALLO TAXI D’OC - Phone : 0467472680 – 0608606036
+
+TAXI 2000 –Phone : 0467034545
+
+TAXI A MONTPELLIER – Phone : 0467203520 – 24/7
+
+TAXI BLEU ou 5 ACTM – Phone : 0467032000
+
+TAXI DU LANGUEDOC – Phone: 0467100304
+
+TAXI JEM – Phone : 0467450775
+
+TAXI RADIO DU MIDI – Phone: 0467100000 – 24/7
+
+TAXI TRAM –Phone : 0467581010 – 24/7  CAB STATIONS:  Train Station, Bd Victor Hugo, Airport 
+
+-->

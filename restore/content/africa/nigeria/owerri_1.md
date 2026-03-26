@@ -1,0 +1,13 @@
+# Owerri Travel Guide
+
+*Africa > Nigeria > Owerri 1*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Owerri
+
+*Part or or all of this text stems from the original article at: www.allseasonshotelnigeria.com*
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Tue 20:13

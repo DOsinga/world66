@@ -1,0 +1,12 @@
+# Sights in rahi
+
+*Asia > Southasia > India > Jammuandkashmir > Rahi > Sights*
+
+KULGAM
+AHARBAL
+MALWA/FOREST,RAKH,ABULPATHRI.TANGPATHRI,MALINAG,
+DAND WARD
+CHAMMER
+HOON HANG
+WAY TO PEERPANCHAL
+KOUNSAR NAG

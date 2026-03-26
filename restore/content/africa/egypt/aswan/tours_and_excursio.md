@@ -1,0 +1,14 @@
+# Tours and Excursions
+
+*Africa > Egypt > Aswan > Tours And Excursio*
+
+Practical advice for all travellers booking cruises and fellucca trips in Egypt is to confirm the itinerary dates and places to be visited in detail. If you are in any way unsatisfied please speak to the touris police or tourist authority when you reach your destination.
+
+**Contributors**
+June 15, 2005
+change
+by [hirankarunaratna](/member/hirankarunaratna)
+
+June 15, 2005
+change
+by [giorgio](/member/giorgio)

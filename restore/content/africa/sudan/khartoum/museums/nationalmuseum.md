@@ -1,0 +1,7 @@
+# National Museum
+
+*Africa > Sudan > Khartoum > Museums > Nationalmuseum*
+
+The museum exhibits antiquities and artefacts from several periods of Sudanese history and pre-history, including glassware, pottery, statuary and figurines from the ancient kingdom of Cush. 
+
+-->

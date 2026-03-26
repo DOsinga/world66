@@ -1,0 +1,14 @@
+# Shopping
+
+*Asia > Centralasia > Uzbekistan > Tashkent > Shopping*
+
+Tashkent is a Mecca for arts and crafts shopping and features an array of exotic carpets, exquisitely patterned textiles, fashionable skull caps and intricate ceramic designs. The city is as popular for its quaint old bazaars as its hip streets housing designer boutiques. Tashkent is also a budget shopper’s delight with several open air flea markets offering incredible bargains. If you want to experience inexpensive retail therapy, Tashkent beckons you with its eclectic wares. Here is a comprehensive shopping guide to this culturally and artistically rich Asian town.
+Human House
+Human House is a striking confluence of the modest and the grand. The slick shopping destination features loads of the most beautiful carpets, caps, drapes and fabrics of the region along with a host of stylish boutiques stocking contemporary fashions merged with local patterns and designs. The up market fashion hub also stages several fashion shows to showcase the work of avant-garde designers. A must visit for sampling the latest fads and fashion culture of Tashkent.
+Tezykovka
+This is the most popular flea market in the city and sells everything that can be bought under the Tashkent sun. Tezykovka sports a typical old style bazaar ambiance that has merchants and customers jostling for space and crying out hoarsely, while negotiating prices. Lay your hands on some of the finest pieces of fabrics, carpets, artificial jewelry, ceramic figurines, scarves, traditional footwear, bags and a whole lot of other local artifacts and souvenirs. Keep a vigilant watch on your wallet as the area is a notorious pick-pocketing zone and avoid wearing and carrying expensive items. The market is housed in the Khanza district and can be accessed via a bus from Mustaqikkil metro.
+Abulkasim Medressa
+This is actually an artisans training center and workshop that is located in Navoi Park. You can find a host of talented regional artisans, skilled painters and lacquer workers create the most magnificent pieces of art that can be witnessed in the region. The nimble-fingered potters shaping fresh pots out of wet earth is worth experiencing for its sheer craftsmanship. Visitors can buy everything that is made by the adroit artists and even pick up relics like rugs and ceramics from the in-house souvenir shop.
+Turkuaz Hypermarket
+Turkuaz is the largest hypermarket located in the heart of Tashkent in the Navoi area and features a huge range of Western-brand apparels in addition to travel accessories and a range of other handy, everyday stuff. A nice place to buy durable rucksacks and other travel baggage gear.
+Tashkent’s shopping scene caters brilliantly to an eclectic crowd of shoppers and offers its slick and artistic goods to visitors with a variety of budgets.

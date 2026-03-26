@@ -1,0 +1,13 @@
+# Nightlife and Entertainment
+
+*Europe > France > Nord > Bercksurmer > Nightlife*
+
+**all**
+
+**Casino**
+
+
+
+address: Place du 18 Juin
+
+tel: (33) 3.21.84.87.58

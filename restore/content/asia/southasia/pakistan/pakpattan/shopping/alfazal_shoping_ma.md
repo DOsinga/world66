@@ -1,0 +1,11 @@
+# ALFAZAL SHOPING MART
+
+*Asia > Southasia > Pakistan > Pakpattan > Shopping > Alfazal Shoping Ma*
+
+ALFAZAL MART IS THE LEADING DEPARTMENTAL STORE IN HEART OF PAKPATTAN.HERE YOU CAN PURCHASE EVERY SORT OF GROCERIES UNDER ONE ROOF.WE DEALS IN,
+
+1- GENERAL STORE
+
+type: Shopping centers and malls
+
+World66 rating:

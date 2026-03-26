@@ -1,0 +1,374 @@
+<html><!-- InstanceBegin template="/Templates/NewProductsTemplate.dwt" codeOutsideHTMLIsLocked="true" -->
+<head>
+
+<!-- #BeginEditable "doctitle" --> 
+<title>MamaAfrika Welcomes You</title>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+
+MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#993300" link="#660000" vlink="#CC3300" alink="#CCCCCC" background="pictures/backgroundweave-or.jpg">
+<br>
+<br>
+<table border="0" align="center">
+  <tr> 
+    <td><a href="index.php"><img src="pictures/logo-name.png" width="400" height="185" border="0"></a></td>
+    <td><a href="index.php"><img src="pictures/logo-mama.png" width="144" height="195" border="0"></a></td>
+  </tr>
+</table>
+<br>
+<br>
+<table border="0" width="100%">
+  <tr> 
+    <td width="200" valign="top"> 
+      <p><b><font face="Verdana" size="2" color="#990000">Proverb of the week:</font></b></p>
+      <p><font face="Verdana" color="#006633" size="2"><b> &quot;An elephant grows 
+        and becomes an adult, even if people do not like it.&quot; -Sierra Leone</b></font></p>
+      <table width="88%" border="0" height="433">
+        <tr> 
+          <td width="35"><a href="about.php"><img src="pictures/icon-mama.png" border="0"></a></td>
+          <td><b><a href="about.php"><font face="Verdana" size="2">Who is Mama?</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="Features/CoopStoryAug2002.php"><img src="pictures/icon_member.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="Features/CoopStoryAug2002.php"><font face="Verdana" size="2">Member 
+            of the month</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="Articles/list.php"><img src="pictures/icon_article.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="Articles/list.php"><font face="Verdana" size="2">Articles</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="faq.php"><img src="pictures/icon_faq.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="faq.php"><font face="Verdana" size="2">FAQ</font></a></b></td>
+        </tr>
+        <tr>
+          <td height="20"></td>
+        </tr>
+        <tr> 
+          <td><a href="products/basketry.php"><img src="pictures/icon_basket.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="products/basketry.php"><font face="Verdana" size="2">Basketry</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="products/carvings.php"><img src="pictures/icon_mask.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="products/carvings.php"><font face="Verdana" size="2">Carvings</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="products/clothing.php"><img src="pictures/icon_fabric.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="products/clothing.php"><font face="Verdana" size="2">Clothing</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="products/jewelry.php"><img src="pictures/icon_necklace.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="products/jewelry.php"><font face="Verdana" size="2">Jewelry</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="products/leather.php"><img src="pictures/icon_purse.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="products/leather.php"><font face="Verdana" size="2">Leather 
+            Goods</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="products/pottery.php"><img src="pictures/icon_pot.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="products/pottery.php"><font face="Verdana" size="2">Pottery</font></a></b></td>
+        </tr>
+        <tr> 
+          <td><a href="products/special.php"><img src="pictures/icon_special.png" border="0" width="30" height="30"></a></td>
+          <td><b><a href="products/special.php"><font face="Verdana" size="2">Special 
+            Finds</font></a></b></td>
+        </tr>
+        <tr> 
+          <td colspan=2 align="center"> <br> <form name="_xclick" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+              <input type="hidden" name="image_url" value="http://www.mamaafrika.com/pictures/logo-paypal.png">
+              <input type="hidden" name="cmd" value="_cart">
+              <input type="hidden" name="business" value="mamaafrika@online.fr">
+              <input type="image" onmouseover="changeText(11)" onmouseout="changeText(0)" src="pictures/viewbasket.png" border="0" name="submit" alt="Click here to view the content of your shopping basket">
+              <input type="hidden" name="display" value="1">
+            </form></td>
+        </tr>
+        <tr> 
+          <td colspan=2 align="center"> <form target="blop" name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+              <br>
+              <p><font face="Verdana" size="2"><b>Donations</b></font></p>
+              <input type="hidden" name="cmd" value="_xclick">
+              <input type="hidden" name="business" value="mamaafrika@online.fr">
+              <select style='width:162' name="item_name">
+                <option>Let Mama choose</option>
+                <option>Coop. Member for August</option>
+                <option>PWA (Ghana)</option>
+                <option>Mbwira Ndumva (Rwanda)</option>
+              </select>
+              <br>
+              <font face="Verdana" size="2">Amount:</font> 
+              <input style='width:100' type="text" name="amount">
+              <br>
+              <br>
+              <input type="image" src="pictures/donation.png" name="submit" border="0" alt="Click here to make a donation to one of Mama's partner NGOs">
+            </form></td>
+        </tr>
+      </table>
+    </td>
+    <td> <!-- #BeginEditable "Mamas News" --> 
+      <table width="512" border="0" height="354" bordercolor="#990000" align="center">
+        <tr> 
+          <td width="296" height="256" valign="top" bordercolor="#993300"><p align="center"><img src="pictures/Potpourri5.jpg" width="267" height="200"></p>
+            <p align="center"><font size="2" face="Verdana">Fill your pottery 
+              or basketry with the scent of the holidays...</font></p></td>
+          <td width="206" valign="top" bordercolor="#993300"><p align="center">&nbsp;</p>
+            <p align="center"><strong><font color="#993300" face="Verdana">ALL 
+              orders of $50 or more will get a FREE package of potpourri...</font></strong></p>
+            <p align="justify"><font color="#993300"><font size="2" face="Verdana">A 
+              nice way to bring the sweet smells of the holiday season into your 
+              home! </font></font></p></td>
+        </tr>
+        <tr> 
+          <td height="89" colspan="2" valign="top" bordercolor="#993300"><p align="center"><font color="#000000" size="2" face="Verdana"><strong><font color="#006633" size="4">Celebrate 
+              the Holidays with Mama...</font></strong></font><font color="#000000"><strong><font color="#006633" size="2" face="Verdana"> 
+              </font></strong></font></p>
+            <p align="center"><font color="#000000"><strong><font color="#006633" size="2" face="Verdana">Why 
+              not add an original African touch to your holiday decorating this 
+              year? </font><font color="#000000"><strong><font size="2" face="Verdana"><a href="products/special_holidays.php"> 
+              Click here to visit the holiday stand</a></font></strong></font></strong></font></p>
+            </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> <!-- #BeginEditable "Stand name" --> <br>
+      <br>
+      <table width="75%" border="0" height="63" align="center">
+        <tr> 
+          <td align="center"> <font size="+3" face="Verdana">Have a walk around 
+            the open market:</font> </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> <!-- #BeginEditable "Page index" --><!-- #EndEditable --> <!-- #BeginEditable "Products" --> <br>
+      <br>
+      <table width="639" border="0" bordercolor="#000000" height="908" align="center">
+        <tr> 
+          <td height="181" width="210" bordercolor="#993300"> 
+            <div align="left"><a href="products/basketry.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Basketry','','pictures/products/basketry/UG-01-47A.JPG',1)"><img src="pictures/products/basketry/UG-01-38A.JPG" name="Basketry" width="200" height="150" border="0"></a></div>
+          </td>
+          <td height="181" width="132" bordercolor="993300"> 
+            <div align="left"> 
+              <p><font face="Verdana" size="2"> Table mats</font></p>
+              <p><font face="Verdana" size="2">Pencil bags</font></p>
+            </div>
+            <div align="left"> 
+              <p><font face="Verdana" size="2"> Picnic baskets</font></p>
+              <p><font face="Verdana" size="2">Lots more...</font></p>
+              </div>
+          </td>
+          <td height="181" width="161" bordercolor="993300"><a href="products/carvings.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Carvings','','pictures/products/carvings/UG-01-32A.JPG',1)"><img src="pictures/products/carvings/GH-03-15A.JPG" name="Carvings" width="116" height="160" border="0" align="right"></a></td>
+          <td height="181" width="118" bordercolor="#993300"> 
+            <p><font size="2" face="Verdana"> Masks</font></p>
+            <p><font size="2" face="Verdana"> Statues</font></p>
+            <p><font size="2" face="Verdana"> Animal carvings</font></p>
+            <p><font size="2" face="Verdana"> </font><font face="Verdana" size="2">Stools</font></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="13" bordercolor="#993300" width="210"> 
+            <div align="center"><font face="Verdana"><b>Basketry</b></font></div>
+          </td>
+          <td height="13" width="132">&nbsp; </td>
+          <td height="13" bordercolor="#993300" width="161"> 
+            <div align="center"><font face="Verdana"><b>Carvings</b></font></div>
+          </td>
+          <td height="13" width="118">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="16" bordercolor="#993300" width="210">&nbsp;</td>
+          <td height="16" width="132">&nbsp; </td>
+          <td height="16" bordercolor="#993300" width="161">&nbsp;</td>
+          <td height="16" width="118">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="192" bordercolor="#993300" width="210"><a href="products/clothing.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Clothing','','pictures/products/clothing/Gh-Smock88.jpg',1)"><img name="Clothing" border="0" src="pictures/products/clothing/Gh-Smock86.jpg" width="210" height="150"></a></td>
+          <td height="192" bordercolor="#993300" width="132"> 
+            <div align="left"><font face="Verdana" size="2">Beautiful smocks from 
+              Ghana in the fabric of your choice!</font></div>
+          </td>
+          <td height="192" bordercolor="#993300" width="161"><b><a href="products/jewelry.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Jewelry','','pictures/products/jewelry/SA-02-04A.jpg',1)"><img src="pictures/products/jewelry/SA-01-09A.jpg" name="Jewelry" width="200" height="150" border="0" align="right"></a></b></td>
+          <td height="192" bordercolor="#993300" width="118"> 
+            <p><font size="2" face="Verdana"> Necklaces</font></p>
+            <p><font size="2" face="Verdana"> Bracelets</font></p>
+            <p><font size="2" face="Verdana"> Earrings</font></p>
+            <p><font size="2" face="Verdana"> Paired sets</font></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="24" bordercolor="#993300" width="210"> 
+            <div align="center"><b><font face="Verdana">Clothing</font></b></div>
+          </td>
+          <td height="24" width="132">&nbsp; </td>
+          <td height="24" bordercolor="#993300" width="161"> 
+            <div align="center"><b><font face="Verdana">Jewelry</font></b></div>
+          </td>
+          <td height="24" width="118">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="24" bordercolor="#993300" width="210">&nbsp;</td>
+          <td height="24" width="132">&nbsp; </td>
+          <td height="24" bordercolor="#993300" width="161">&nbsp;</td>
+          <td height="24" width="118">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="147" bordercolor="#993300" width="210"><a href="products/leather.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Leather','','pictures/products/leather/Gh-02-105A.JPG',1)"><img src="pictures/products/leather/Ma-01-01A.JPG" name="Leather" width="181" height="150" border="0"></a></td>
+          <td height="147" bordercolor="#993300" width="132"> 
+            <div align="left"> 
+              <p><font size="2" face="Verdana">Purses</font></p>
+              <p><font size="2" face="Verdana">Hats</font></p>
+              <p><font size="2" face="Verdana">Backpacks</font></p>
+              <p><font size="2" face="Verdana"> Briefcases</font></p>
+            </div>
+            <div align="left"><font size="2" face="Verdana"> Sandals</font></div>
+          </td>
+          <td height="147" bordercolor="#993300" width="161"><a href="products/pottery.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Pottery','','pictures/products/Pottery/TU-01-01A.JPG',1)"><img src="pictures/products/Pottery/SA-01-06A.jpg" name="Pottery" width="200" height="150" border="0" align="right"></a></td>
+          <td height="147" bordercolor="#993300" width="118"> 
+            <p><font size="2" face="Verdana">Incense burners</font></p>
+            <p><font size="2" face="Verdana"> Candle holders</font></p>
+            <p><font size="2" face="Verdana"> Tunisian bowls</font></p>
+          </td>
+        </tr>
+        <tr> 
+          <td height="24" bordercolor="#993300" width="210"> 
+            <div align="center"><font face="Verdana"><b>Leather goods</b></font></div>
+          </td>
+          <td height="24" width="132">&nbsp; </td>
+          <td height="24" bordercolor="#993300" width="161"> 
+            <div align="center"><font face="Verdana"><b>Pottery</b></font></div>
+          </td>
+          <td height="24" width="118">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="24" bordercolor="#993300" width="210">&nbsp;</td>
+          <td height="24" width="132">&nbsp; </td>
+          <td height="24" bordercolor="#993300" width="161">&nbsp;</td>
+          <td height="24" width="118">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="183" bordercolor="#993300" width="210"><a href="products/special.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Specialfinds','','pictures/products/special/SA-02-05A-2.jpg',1)"><img src="pictures/products/special/UG-01-24A.jpg" name="Specialfinds" width="209" height="150" border="0"></a></td>
+          <td height="183" bordercolor="#993300" width="132"> 
+            <div align="left"> 
+              <p><font face="Verdana" size="2"><i><b>Mama's wonderful collector 
+                items!!</b></i></font></p>
+            </div>
+          </td>
+          <td height="183" bordercolor="#993300" colspan="2"> <p align="center"><font size="2" face="Verdana"><strong><font color="#000000" size="3">Gifts 
+              from Mama keep on giving...</font></strong></font></p>
+            <ul>
+              <li><strong><font color="#000000" size="2" face="Verdana">Supporting 
+                Fair trade</font></strong></li>
+              <li><strong><font color="#000000" size="2" face="Verdana">A donation 
+                in your name to a local African NGO which helps women and children</font></strong></li>
+              <li><strong><font color="#000000" size="2" face="Verdana">A wonderful 
+                artpiece which is sure to please the person you are buying for!</font></strong></li>
+            </ul>
+            <p align="center">&nbsp;</p></td>
+        </tr>
+        <tr> 
+          <td height="32" bordercolor="#993300" width="210"> 
+            <div align="center"><font face="Verdana"><b>Special Finds!!</b></font></div>
+          </td>
+          <td height="32" width="132">&nbsp; </td>
+          <td height="32" bordercolor="#993300" colspan="2">&nbsp; </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> <br>
+      <br>
+      <br>
+      <table align="center" width="541" border="0" height="220">
+        <tr> 
+          <td width="292" height="74" align="center"> <font face="Verdana, Arial"><b>Find 
+            out more about how you can help Mama's friends around the continent.</b></font> 
+          </td>
+          <td width="239" rowspan="5" align="center"> <img src="pictures/smallmap.png" align="middle"><br>
+            <a href="pictures/bigmap.png">Click here to enlarge map</a> </td>
+        </tr>
+        <tr> 
+          <td align="center" height="30"> <b><font face="Verdana, Arial" size="3"><a href="ghana/pwa_ghana.php">Ghana</a></font></b> 
+          </td>
+        </tr>
+        <tr> 
+          <td align="center" height="30"> <b><font face="Verdana, Arial" size="3">Lesotho</font></b> 
+          </td>
+        </tr>
+        <tr> 
+          <td align="center" height="30"> <b><font face="Verdana, Arial" size="3"><a href="rwanda/mbwirandumva.php">Rwanda</a></font></b> 
+          </td>
+        </tr>
+        <tr> 
+          <td align="center" height="30"> <b><font face="Verdana, Arial" size="3">Zimbabwe</font></b> 
+          </td>
+        </tr>
+      </table>
+      <br>
+      <br>
+      <table width="55%" border="0" height="68" align="center">
+        <tr> 
+          <td width="20%"><a href="mailto:MamaAfrika@online.fr"><img border="0" src="pictures/mail.png"></a></td>
+          <td width="80%" align="center"> <font face="Verdana">Copyright&copy; 
+            2002 Ester La Pollo</font></td>
+        </tr>
+      </table>
+    </td>
+</table>
+</body>
+<!-- InstanceEnd --></html>

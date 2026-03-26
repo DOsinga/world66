@@ -1,0 +1,20 @@
+# Ferry
+
+*Centralamericathecaribbean > Thecaribbean > Trinidadandtobago > Getting Around > Ferry*
+
+There is a regular car/passenger service linking Trinidad ([Port of Spain](/centralamericathecaribbean/thecaribbean/trinidadandtobago/port_of_spain)) and Tobago (Scarborough). Sometimes this trip may be quite rough due to strong currents.
+
+Further information (prices, timetables, etc.) can be consulted in Trinidad & Tobago official tourist website.
+
+**Contributors**
+August 08, 2005
+change
+by [xonkas](/member/xonkas)
+
+World66 rating:
+
+Rate now:
+
+url: [www.visittnt.com](http://www.visittnt.com/General/misc/DomesticFerry.html)
+
+[back to Getting Around](..)

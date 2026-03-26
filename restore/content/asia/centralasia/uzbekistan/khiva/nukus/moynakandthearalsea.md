@@ -1,0 +1,5 @@
+# Moynak and the Aral Sea
+
+*Asia > Centralasia > Uzbekistan > Khiva > Nukus > Moynakandthearalsea*
+
+Moynak is the former fishing village on the former shores of the Aral Sea. One can either fly in to Nukus or arrange a taxi-bus (marshrutka) from Bukhara via Khiva/Urgench. Direct taxi-bus service doesn't really exist directly from Bukhara to Nukus. One can arrange the service, but it is not normal and therefore will be very expensive. From the large bazaar in Nukus, one can fairly easy arrange round trip transportation to Moynak and the nearby ships. As a rule, it is impossible to actually see the water. It is reported that one can hire a plane or helicopter, but only the most robust off road vehicle could make it overland. Once you get to the shore, it is said to go on for miles only a foot or so deep. My fantasy of swimming in the sea didn't happen. Bus service out of Nukus is difficult. It is possible to get a bus or taxi-bus to Khiva, but the one bus per day heading west fills daily with people paying full fair to Tashkent. It is impossible to get a ticket to Bukhara, for example.

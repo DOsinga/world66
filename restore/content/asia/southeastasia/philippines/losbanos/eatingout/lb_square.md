@@ -1,0 +1,25 @@
+# LB Square
+
+*Asia > Southeastasia > Philippines > Losbanos > Eatingout > Lb Square*
+
+LB Square is the place to go after office for a few rounds of drinks and also for dinner and another few rounds of drinks. :)
+
+The Square offers an array of food: Japanese, Thai, and some regional specialties: inasal, sisig, etc. An adjacent resto (may be I'll make an entry for that also) serves good pasta, sandwiches and grilled pizza.
+
+The Square is most alive during 6pm to 2am.
+
+Live bands play during thursdays (I think).
+
+type: Local
+
+World66 rating:
+
+Rate now:
+
+accessibility: walking distance from university gate
+
+address: Lopez Avenue, Los Baños
+
+PriceOfMenu: $2 - up
+
+[back to Eating Out](..)

@@ -1,0 +1,13 @@
+# mongolia Travel Guide
+
+*Asia > Centralasia > Mongolia > Saynshand > Mongolia*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+dalanzadgad,mongolia
+
+*Part or or all of this text stems from the original article at: city in south mongolia*
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Sun 04:54

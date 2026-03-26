@@ -1,0 +1,11 @@
+# Sights
+
+*Asia > Southasia > India > Tamilnadu > Chennai > Sights*
+
+Chennai has many sights you don't want to miss out on once you've arrived. Besides the fort St Georges, you can visit the temples and museums or relax a bit in one of the parks.
+
+### Display all
+or display just:
+
+[Gardens and Parks](/asia/southasia/india/tamilnadu/chennai/sights?subsection=Gardens%20and%20Parks)
+[Hotspots](/asia/southasia/india/tamilnadu/chennai/sights?subsection=Hotspots)

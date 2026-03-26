@@ -1,0 +1,17 @@
+# Folk Art Museum
+
+*Asia > Middleeast > Cyprus > Limassol > Sights > Folkartmuseum*
+
+This museum houses a large selection of authentic Cypriotic crafts. You will find the museum if you follow Agiou Andreou Street northwards.
+
+type: general
+
+World66 rating:
+
+Rate now:
+
+address: Agiou Andreou Street 253
+
+tel: (05) 362 303
+
+[back to Sights](..)

@@ -1,0 +1,11 @@
+# Bank
+
+*Africa > Mali > Gao > Usefuladdresses > Bank*
+
+There is one Bank (BDM) in Gao, but it is not easy to change TC's there. The bank is accross the street from the Grand Marche. The bank seems only to be open in the morning, from monday to friday.
+
+type: general
+
+World66 rating: Rate now:
+
+[back to Practical Information](..)

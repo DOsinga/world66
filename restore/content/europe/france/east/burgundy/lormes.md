@@ -1,0 +1,10 @@
+# Lormes
+
+*Europe > France > East > Burgundy > Lormes*
+
+Lormes is a small village near to Chateau-Chinon. Its 'Camping Municipal' is cheap with very hot water and ideal for a transit or two day stop allowing a visit to the [Morvan](/europe/france/east/burgundy/morvan), to [Vezelay](/europe/france/east/burgundy/vezelay) or both.
+
+*Change history*
+Orginal article by [davidx](/member/davidx) on 13 November 04
+
+-->

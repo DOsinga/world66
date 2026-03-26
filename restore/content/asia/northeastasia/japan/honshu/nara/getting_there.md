@@ -1,0 +1,10 @@
+# Getting There in Nara
+
+*Asia > Northeastasia > Japan > Honshu > Nara > Getting There*
+
+Most travellers will take the train to Nara. JR Rail Pass holders should take the JR service to Nara, from Kyoto.
+
+**Contributors**
+October 25, 2005
+new
+by [out of the grey](/member/out_of_the_grey)

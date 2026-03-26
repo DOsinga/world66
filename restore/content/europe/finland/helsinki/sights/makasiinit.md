@@ -1,0 +1,15 @@
+# Makasiinit
+
+*Europe > Finland > Helsinki > Sights > Makasiinit*
+
+Almost burned down on the first of may 2006. ( And finally week later someone burned southern wing.)
+
+The demolishing of these landmarks started May 8th 2006.
+
+type: Landmarks
+
+World66 rating:
+
+Rate now:
+
+[back to Sights](..)

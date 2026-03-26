@@ -1,0 +1,25 @@
+# Sahara Magic Tours Morocco
+
+*Africa > Morocco > Sports > Sahara Magic Tours*
+
+**Sahara Magic Tours** : is a Moroccain tour operator specialising in overland tours including, Sahara desert adventures, cultural tours, Imperial Cities , explorations and adventures in the Morocco Sahara. We carefully design the best flexible adventures and tours are tailored to your needs and your budget.
+
+We organize bivouacs into the desert Merzouga Erg Chebbi , and we accompany you in an unforgettable safari on the sahara
+
+..All of our tours use air-conditioned 4x4 Toyota & MiniBus .
+
+type: Trekking
+
+World66 rating:
+
+Rate now:
+
+tel: +212668078408
+
+url: [www.Sahara-Magic.Com](http://www.Sahara-Magic.Com)
+
+address: Marrakech , Medina
+
+email: info@sahara-magic.com
+
+[back to Things to do](..)

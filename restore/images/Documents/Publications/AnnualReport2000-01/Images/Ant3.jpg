@@ -1,0 +1,748 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Department of Environmental Affairs | </title>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+
+
+
+
+<link rel="shortcut icon" href="/themes/zeropoint/favicon.bmp" type="image/x-icon" />
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/zeropoint/css/ie6.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="/themes/zeropoint/css/ie7.css" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?J" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/zeropoint/custom/modules/ddblock/upright10/ddblock-cycle-upright10.css?J" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_20c02ed52a3a0b4d953e34e4b619b07c.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_e20b4f55039ffb5ba7051cafd2b46628.css" />
+<script type="text/javascript" src="/sites/default/files/js/js_ceb0a022ab6a83bed17f779af765f303.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": "siblings", "clone": "clone", "relativity": 0, "children": 0, "doubleclick": 0 }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "nice_menus_options": { "delay": 800, "speed": 1 }, "NoBlocks": 1, "quicktabs": { "qt_home_tabs": { "tabs": [ 0, 0 ] } }, "ddblockContent": { "4": { "block": "4", "contentContainer": "div.slide", "custom": "", "fx": "fade", "height": 195, "next": 0, "overflow": "hidden", "pager": "number-pager", "pagerEvent": "mouseover", "pagerContainer": ".custom-pager-item", "pause": 1, "setDimensions": "upright10", "slideTextPosition": "right", "slideTextContainer": ".custom-pager-item", "slideTextEffectBefore": "hide", "slideTextEffectBeforeSpeed": 500, "slideTextEffectAfter": "fadeIn", "slideTextEffectAfterSpeed": 1000, "speed": 3000, "timeOut": 3000, "width": 195 } } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-32253026-1";
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){
+ $('ul#superfish-2').supersubs({
+ minWidth: 12,
+ maxWidth: 27,
+ extraWidth: 1
+}).superfish({
+ delay: 1000,
+animation: {opacity:'show',height:'show'},
+ speed: 'normal',
+ autoArrows: false,
+ dropShadows: true
+})
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){
+ $('ul#superfish-3').supersubs({
+ minWidth: 10,
+ maxWidth: 27,
+ extraWidth: 1
+}).superfish({
+ delay: 1000,
+animation: {opacity:'show',height:'show'},
+ speed: 'normal',
+ autoArrows: false,
+ dropShadows: true
+})
+});
+//--><!]]>
+</script>
+<script type="text/javascript"> </script>
+</head>
+
+<body class="layout-left-main-right not-admin not-logged-in front full-node node-type-page nid-2 layout-fluid l-m-r-fix picons himg lg-en">
+<div id="skip-nav"><a href="#main">Skip to Content</a></div>
+
+<div id="bg1"><div id="bg2">
+
+<div id="top_bg" class="page0">
+<div class="sizer0">
+<div id="topex" class="expander0">
+<div id="top_left">
+<div id="top_right">
+<div id="headimg">
+
+
+<div id="header" class="clearfix">
+  <div id="top-elements">
+              <div id="user_links"></div>
+      </div><!-- /top-elements -->
+  <div id="logo">
+      <a href="/" title="Home">
+      <img src="/themes/zeropoint/logo.png" alt="Home" />
+    </a>
+    </div> <!-- /logo -->
+  <div id="name-and-slogan">
+    </div> <!-- /name-and-slogan -->
+
+<div class="brclear"></div>
+
+
+ <div id="section1">
+   <table class="sections" cellspacing="0" cellpadding="0">
+    <tr>
+    <td class="section u1"><!-- block --> 
+<div class="block-wrapper odd block_1">
+  <div id="block-superfish-2" class="block block-superfish themed-block">
+        <div class="content"><ul class="sf-menu sf-horizontal sf-style-default" id="superfish-2">
+<li id="menu-114-2" class="active-trail first odd sf-item-1"><a href="/content/home" title="" id="dhtml_menu-114" class="active">Home</a></li>
+<li id="menu-3929-2" class="even sf-item-2"><a href="/projectsprogrammes" title="Projects and programmes" id="dhtml_menu-3929">Projects and programmes</a></li>
+<li id="menu-1995-2" class="odd sf-item-3"><a href="/parliamentary_updates" title="Parliamentary updates" id="dhtml_menu-1995">Parliamentary updates</a></li>
+<li id="menu-124-2" class="even sf-item-4"><a href="/statutorybodies" title="" id="dhtml_menu-124">Statutory bodies</a></li>
+<li id="menu-123-2" class="last odd sf-item-5"><a href="/mapsgraphics" title="" id="dhtml_menu-123">Maps and graphics</a></li>
+</ul>
+</div>
+  </div>
+</div>
+<!-- /block --> </td>    <td class="section u4 divider"><!-- block --> 
+<div class="block-wrapper odd block_1">
+  <div id="block-search-0" class="block block-search themed-block">
+        <div class="content"><form action="/"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-462d72ccc08756f62816137e6c57a6fe" value="form-462d72ccc08756f62816137e6c57a6fe"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+</div>
+  </div>
+</div>
+<!-- /block --> </td>    </tr>
+  </table>
+  </div> 
+
+</div> <!-- /header -->
+
+</div>
+</div><!-- /top_right -->
+</div><!-- /top_left -->
+</div><!-- /expander0 -->
+</div><!-- /sizer0 -->
+</div><!-- /page0 -->
+
+<div id="body_bg" class="page0">
+<div class="sizer0">
+<div class="expander0">
+<div id="body_left">
+<div id="body_right">
+
+  <div class="navleft"></div>
+
+
+ 
+<div id="section2">
+  
+  </div> <table class="sections" cellspacing="0" cellpadding="0">
+    <tr>
+    <td class="section u5"><!-- block --> 
+<div class="block-wrapper odd block_1">
+  <div id="block-ddblock-4" class="block block-ddblock themed-block">
+        <div class="content"><!-- dynamic display block slideshow -->
+<div id="ddblock-4" class="ddblock-cycle-upright10 clear-block">
+ <div class="container clear-block border">
+  <div class="container-inner clear-block border">
+      <!-- slider content -->
+   <div class="slider clear-block border">
+    <div class="slider-inner clear-block border">
+                  <div class="slide clear-block border">
+        <div class="slide-inner clear-block border">
+         <img src="/sites/default/files/20yearsfreedom_celebration2.png" alt="Celebrating 20 Years of Democracy"/>         <div class="slide-text slide-text-vertical slide-text-right clear-block border">
+          <div class="slide-text-inner clear-block border">
+           <div class="slide-title slide-title-vertical clear-block border">
+            <div class="slide-title-inner clear-block border">
+             <h2>Celebrating 20 Years of Democracy</h2>
+            </div> <!-- slide-title-inner-->
+           </div>  <!-- slide-title-->
+           <div class="slide-body-vertical clear-block border">
+            <div class="slide-body-inner clear-block border">
+             <p><p>
+	&nbsp;</p>
+<p>
+	The past 20 years have seen a dramatic and sustained process of formation of environmental guiding principles, institution building and restructuring, legislation and policy development, and domestic and international engagement -&nbsp;all with the intention of addressing the historical legacy of inequality, international isolation and the fragmented structures of environmental governance.</p>
+<p class="rteright">
+	<strong><a href="https://www.environment.gov.za/20years_ofdemocracy">read more...</a></strong></p>
+</p>
+            </div> <!-- slide-body-inner-->
+           </div>  <!-- slide-body-->
+           <div class="slide-read-more slide-read-more-vertical clear-block border">
+            <p></p>
+	         </div><!-- slide-read-more-->
+          </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clear-block border">
+        <div class="slide-inner clear-block border">
+         <img src="/sites/default/files/reipppp_scrollbanner.png" alt="REIPPPP 4th bidding round submission deadline"/>         <div class="slide-text slide-text-vertical slide-text-right clear-block border">
+          <div class="slide-text-inner clear-block border">
+           <div class="slide-title slide-title-vertical clear-block border">
+            <div class="slide-title-inner clear-block border">
+             <h2>REIPPPP 4th bidding round submission deadline</h2>
+            </div> <!-- slide-title-inner-->
+           </div>  <!-- slide-title-->
+           <div class="slide-body-vertical clear-block border">
+            <div class="slide-body-inner clear-block border">
+             <p><p>
+	&nbsp;</p>
+<p>
+	The Department of Environmental Affairs (herein referred to as &quot;this Department&quot;) kindly requests Environmental Assessment Practitioners (EAPs) and Applicants to ensure that all reports for decision making (i.e. Final Basic Assessment Reports and Final Environmental impact Assessment Reports) are submitted.&nbsp;Follow the link below to see the submission dates...</p>
+<p class="rteright">
+	<a href="/sites/default/files/docs/reipppp_submission.pdf"><strong>read more...</strong></a></p>
+</p>
+            </div> <!-- slide-body-inner-->
+           </div>  <!-- slide-body-->
+           <div class="slide-read-more slide-read-more-vertical clear-block border">
+            <p></p>
+	         </div><!-- slide-read-more-->
+          </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clear-block border">
+        <div class="slide-inner clear-block border">
+         <img src="/sites/default/files/gudetorhinos_webbanner_0.png" alt="Guide to rhinos"/>         <div class="slide-text slide-text-vertical slide-text-right clear-block border">
+          <div class="slide-text-inner clear-block border">
+           <div class="slide-title slide-title-vertical clear-block border">
+            <div class="slide-title-inner clear-block border">
+             <h2>Guide to rhinos</h2>
+            </div> <!-- slide-title-inner-->
+           </div>  <!-- slide-title-->
+           <div class="slide-body-vertical clear-block border">
+            <div class="slide-body-inner clear-block border">
+             <p><p>
+	&nbsp;</p>
+<p>
+	South African government is aggressively implementing new and amended legislation and policies, reviewing existing programmes to ensure they meet the needs of those who fight the war on poaching on the ground, and constantly exploring new alternatives to end this scourge. Details of these initiatives are outlined in the pages of this booklet.</p>
+<p class="rteright">
+	<a href="/sites/default/files/legislations/guideto_rhino.pdf" target="_blank"><strong>read more...</strong></a></p>
+</p>
+            </div> <!-- slide-body-inner-->
+           </div>  <!-- slide-body-->
+           <div class="slide-read-more slide-read-more-vertical clear-block border">
+            <p></p>
+	         </div><!-- slide-read-more-->
+          </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clear-block border">
+        <div class="slide-inner clear-block border">
+         <img src="/sites/default/files/world_wildlife_day.png" alt="World Wildlife Day - 03 March 2014 "/>         <div class="slide-text slide-text-vertical slide-text-right clear-block border">
+          <div class="slide-text-inner clear-block border">
+           <div class="slide-title slide-title-vertical clear-block border">
+            <div class="slide-title-inner clear-block border">
+             <h2>World Wildlife Day - 03 March 2014 </h2>
+            </div> <!-- slide-title-inner-->
+           </div>  <!-- slide-title-->
+           <div class="slide-body-vertical clear-block border">
+            <div class="slide-body-inner clear-block border">
+             <p><p>
+	&nbsp;</p>
+<p>
+	On 20 December 2013, at its 68th session, the United Nations General Assembly decided to proclaim 3 March, the day of the adoption the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), as World Wildlife Day. Follow the link below for more information&nbsp;about the event...</p>
+<p class="rteright">
+	<strong><a href="/event/world_wildlife_day">read more...</a></strong></p>
+</p>
+            </div> <!-- slide-body-inner-->
+           </div>  <!-- slide-body-->
+           <div class="slide-read-more slide-read-more-vertical clear-block border">
+            <p></p>
+	         </div><!-- slide-read-more-->
+          </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+               </div> <!-- slider-inner-->
+   </div>  <!-- slider-->
+       <!-- number pager --> 
+     <div class="spacer-horizontal"><b></b></div>
+<!-- number pager -->
+<div id="ddblock-number-pager-4" class="number-pager ddblock-pager clear-block">
+</div> 
+<div class="number-pager-pre-bottom "></div>
+     </div> <!-- container-inner-->
+ </div> <!--container-->
+</div> <!--  template -->
+</div>
+  </div>
+</div>
+<!-- /block --> </td>                </tr>
+  </table> <!-- /section2 -->
+<div id="middlecontainer">
+  <div id="wrapper">
+    <div class="outer">
+    
+      <div class="float-wrap">
+        <div class="colmain">
+          <div id="main">
+          
+                        <div id="content-top"><!-- block --> 
+<div class="block-wrapper odd block_1">
+  <div id="block-quicktabs-home_tabs" class="block block-quicktabs ">
+        <div class="content"><div id="quicktabs-home_tabs" class="quicktabs_wrapper quicktabs-style-sky"><ul class="quicktabs_tabs quicktabs-style-sky"><li class="qtab-0 active first"><a href="/content/home?quicktabs_home_tabs=0#quicktabs-home_tabs" id="quicktabs-tab-home_tabs-0" class="qt_tab active">Speeches and Statements</a></li><li class="qtab-1 last"><a href="/content/home?quicktabs_home_tabs=1#quicktabs-home_tabs" id="quicktabs-tab-home_tabs-1" class="qt_tab active">Latest updates</a></li></ul><div id="quicktabs_container_home_tabs" class="quicktabs_main quicktabs-style-sky"><div id="quicktabs_tabpage_home_tabs_0" class="quicktabs_tabpage"><div class="view view-speeches-statements-home view-style-normal view-id-speeches_statements_home view-display-id-default">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/mediarelease/sa_hostcop11_abidjanconvention">SA to host 11th Conference of Parties (COP11) to the Abidjan Convention</a></span>
+  </div>
+  
+  <div class="views-field-field-synopsis-value">
+                <div class="field-content"><p>
+	<strong><img alt="" src="/sites/default/files/images/minister_molewa_addressingmediacop16.png" style="height: 100px; width: 95px; float: left; margin-left: 5px; margin-right: 5px" />21 February 2014</strong> - South Africa is set to host the 11th biennial Conference of Parties (COP11) to the Abidjan Convention from 17 to 21 March 2014, at the Cape Town International Convention Centre, under the theme - Promoting Blue Growth in Africa: Towards Sustainable Management of Marine Resources...</p></div>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/mediarelease/mabudafhasi_fundisaforchange">Deputy Minister Rejoice Mabudafhasi to lead Fundisa for Change Education for Sustainable Development (ESD) Teacher Education Conference</a></span>
+  </div>
+  
+  <div class="views-field-field-synopsis-value">
+                <div class="field-content"><p>
+	<img alt="" src="/sites/default/files/images/rejoice_mabudafhasi_nmle_warsar.png" style="height: 100px; width: 95px; float: left; margin-left: 5px; margin-right: 5px" /><strong>21 February 2014</strong> - The Deputy Minister of Water and Environmental Affairs, Ms Rejoice Mabudafhasi will officially launch the Fundisa for Change Education for Sustainable Development (ESD) Teacher Education Conference on the 28 February 2014, at Emperors Palace in Johannesburg, Gauteng...</p></div>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/mediarelease/molewa_feesforaviation_meteorologicalservices">Minister Edna Molewa gazettes the proposed fees for the provision of Aviation Meteorological Services to be applied by the aviation industry and invites public comments</a></span>
+  </div>
+  
+  <div class="views-field-field-synopsis-value">
+                <div class="field-content"><p>
+	<strong><img alt="" src="/sites/default/files/images/edna_molewa_minister.jpg" style="height: 100px; width: 95px; float: left; margin-left: 5px; margin-right: 5px" />20 February 2014 </strong>- The Minister of Water and Environmental Affairs, Ms Edna Molewa published under the South African Weather Services Act, (Act No. 8 of 2001) the proposed regulations regarding fees for the provision of aviation meteorological services in <em>Gazette No.37343</em> dated 14 February 2014...</p></div>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/mediarelease/molewa_gazettes_babsregulations">Minister Edna Molewa gazettes the draft Bioprospecting, Access and Benefit Sharing amendment regulations by notice in the Government Gazette for public participation in terms of the NEMBA, 2004 (Act No.10 of 2004)</a></span>
+  </div>
+  
+  <div class="views-field-field-synopsis-value">
+                <div class="field-content"><p>
+	<img alt="" src="/sites/default/files/images/molewa_bee.png" style="height: 100px; width: 95px; float: left; margin-left: 5px; margin-right: 5px" /><strong>20 February 2014</strong> - The Minister of Water and Environmental Affairs, Ms Edna Molewa published under section 100 of the National Environmental Management: Biodiversity Act, 2004 (Act No. 10 of 2004) (NEMBA), the draft amendment regulations on Bioprospecting, Access and Benefit Sharing (BABS) in <em>Gazette </em>No.37331 of 17 February 2014...</p></div>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="/mediarelease/molewa_london_declaration">Minister Edna Molewa welcomes some of the provisions of the London Declaration on illegal Wildlife Trade</a></span>
+  </div>
+  
+  <div class="views-field-field-synopsis-value">
+                <div class="field-content"><p>
+	<img alt="" src="/sites/default/files/images/minister_edna_addressingmedia.png" style="height: 100px; width: 95px; float: left; margin-left: 5px; margin-right: 5px" /><strong>18 February 2014</strong> - South Africa&rsquo;s Minister of Water and Environmental Affairs, Mrs Edna Molewa, welcomes some of the provisions contained in the London Declaration on Illegal Wildlife Trade, concluded last week. Unfortunately, South Africa could not be represented at a political level at the Conference due to the opening of Parliament...</p></div>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div><div id="quicktabs_tabpage_home_tabs_1" class="quicktabs_tabpage quicktabs-hide"><div class="view view-latest-updates-home view-style-normal view-id-latest_updates_home view-display-id-default">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/tenders/e1272_listofbidders.pdf" target="_blank">Appointment of a service provider to Train Case Officers from the 10 competent authorities in the review of applications submitted in terms of the Environmental Impact Assessment (EIA) regulations of 2013 promulgated in terms of the NEMA, No.108 of 1998, as amended</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/legislations/sawsa8of2001_aviationmeteorologicalservices_gn37343.pdf" target="_blank">South African Weather Service Act, 2001(Act No.8 of 2001): Proposed regulations regarding fees for the provision of Aviation Meteorological Services</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/legislations/nemba10of2004_draftregulations_bioprospecting_gn37331.pdf" target="_blank">National Environmental Management: Biodiversity Act (10/2004): Draft amendment regulations on bio-prospecting, access and benefit-sharing</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/tenders/e1275_peopleparks_toolkit.pdf" target="_blank">Appointment of the service provider to conduct People and Parks toolkit training and undertake a full review of the People and Parks toolkit manual</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/provincial_project_administrator_ep22_2013.pdf" target="_blank">Provincial Project Administrator</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/admin_officer_policycoordination_coo05_2014.pdf" target="_blank">Administrative Officer: Policy Coordination</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/senior_communications_officer_coo07_2014.pdf" target="_blank">Senior Communications Officer: Branding and Exhibitions</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-title">
+                <span class="field-content"><a href="https://www.environment.gov.za/sites/default/files/environmental_officer_production_EAS02_2014.pdf" target="_blank">Environmental Officer Production: Sustainability Reporting</a></span>
+  </div>
+  
+  <div class="views-field-nothing">
+                <span class="field-content"><hr></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div></div></div></div>
+  </div>
+</div>
+<!-- /block --> </div>                        <div class="tabs"></div>
+                                    <!-- node --> 
+
+<div id="node-2" class="node odd full-node node-type-page">
+
+  
+  
+  <div class="meta">
+      </div>
+
+  
+  
+  <div class="content">
+      </div>
+
+  
+  
+</div>
+<!-- /node-2 -->                                   </div>
+        </div> <!-- /colmain -->
+        
+                <div class="colleft">
+          <div id="sidebar-left"><!-- block --> 
+<div class="block-wrapper odd block_1">
+  <div id="block-menu-primary-links" class="block block-menu themed-block">
+        <div class="content"><ul class="menu"><li class="expanded first dhtml-menu  collapsed start-collapsed "><a href="/aboutus" title="" id="dhtml_menu-228">About us</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/aboutus/ministry" title="" id="dhtml_menu-253">Ministry</a></li>
+<li class="leaf  dhtml-menu "><a href="/aboutus/department" title="" id="dhtml_menu-252">Overview of the department</a></li>
+<li class="leaf  dhtml-menu "><a href="/aboutus/structure" title="" id="dhtml_menu-254">Structure</a></li>
+<li class="leaf last dhtml-menu "><a href="/aboutus/biographies" title="" id="dhtml_menu-255">Biographies</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/branches" title="" id="dhtml_menu-229">Branches</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/branches/biodiversity_conservation" title="" id="dhtml_menu-256">Biodiversity and Conservation</a></li>
+<li class="leaf  dhtml-menu "><a href="/branches/chiefoperating_officer" title="" id="dhtml_menu-258">Chief Operating Officer</a></li>
+<li class="leaf  dhtml-menu "><a href="/branches/climatechange_airquality" title="" id="dhtml_menu-257">Climate Change and Air Quality</a></li>
+<li class="leaf  dhtml-menu "><a href="/branches/financial_management_services" title="" id="dhtml_menu-259">Financial Management Services</a></li>
+<li class="leaf  dhtml-menu "><a href="/branches/chemiclas_wastemanagement" title="" id="dhtml_menu-260">Chemicals and Waste Management</a></li>
+<li class="leaf  dhtml-menu "><a href="/branches/environmental_advisoryservices" title="Environmental Advisory Services" id="dhtml_menu-4409">Environmental Advisory Services</a></li>
+<li class="leaf  dhtml-menu "><a href="/branches/environmental_programmes" title="Natural Resources Management" id="dhtml_menu-1707">Environmental Programmes</a></li>
+<li class="leaf  dhtml-menu "><a href="/branches/legalauthorisation_complianceinspectorate" title="" id="dhtml_menu-261">Legal Authorisations and Compliance Inspectorate</a></li>
+<li class="leaf last dhtml-menu "><a href="/branches/oceans_coast" title="" id="dhtml_menu-262">Oceans and Coasts</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/services" title="" id="dhtml_menu-230">Services</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/services/statutory_bodies" title="" id="dhtml_menu-264">By statutory bodies</a></li>
+<li class="leaf  dhtml-menu "><a href="/services/government_spheres" title="" id="dhtml_menu-263">To all government spheres</a></li>
+<li class="leaf  dhtml-menu "><a href="/services/provincial_authorities" title="By provincial authorities" id="dhtml_menu-2052">By provincial authorities</a></li>
+<li class="leaf last dhtml-menu "><a href="/services/public" title="" id="dhtml_menu-265">To the general public</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/strategic-issues" title="Strategic Issues" id="dhtml_menu-4310">Strategic Issues</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/strategicissues/jobcreation" title="Job creation" id="dhtml_menu-4311">Job creation</a></li>
+<li class="leaf  dhtml-menu "><a href="/strategicissues/education" title="Education" id="dhtml_menu-4322">Education</a></li>
+<li class="leaf  dhtml-menu "><a href="/strategicissues/health" title="Health" id="dhtml_menu-4323">Health</a></li>
+<li class="leaf  dhtml-menu "><a href="/strategicissues/fightingcrime" title="Fighting crime" id="dhtml_menu-4324">Fighting crime</a></li>
+<li class="leaf last dhtml-menu "><a href="/strategicissues/sustainablecommunities" title="Sustainable communities" id="dhtml_menu-4325">Sustainable development</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/documents" title="" id="dhtml_menu-231">Documents</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/documents/reports" title="" id="dhtml_menu-502">Annual reports and strategic plans</a></li>
+<li class="leaf  dhtml-menu "><a href="/documents/strategicdocuments" title="" id="dhtml_menu-503">Strategic documents</a></li>
+<li class="leaf  dhtml-menu "><a href="/documents/research" title="Research documents" id="dhtml_menu-4411">Research</a></li>
+<li class="leaf  dhtml-menu "><a href="/documents/other" title="" id="dhtml_menu-504">Other documents</a></li>
+<li class="leaf last dhtml-menu "><a href="/documents/forms" title="" id="dhtml_menu-505">Forms</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/procurement%20" title="Procurement" id="dhtml_menu-4308">Procurement</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/procurement/tenders" title="" id="dhtml_menu-501">Tenders</a></li>
+<li class="leaf last dhtml-menu "><a href="/procurement/supplychain_management" title="Supply chain management" id="dhtml_menu-4309">Supply chain</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/legislation" title="" id="dhtml_menu-232">Legislation</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/legislation/greenpapers" title="
+	Green papers
+" id="dhtml_menu-987">Green papers</a></li>
+<li class="leaf  dhtml-menu "><a href="/legislation/whitepapers" title="White papers" id="dhtml_menu-988">White papers</a></li>
+<li class="leaf  dhtml-menu "><a href="/legislation/bills" title="Bills" id="dhtml_menu-989">Bills</a></li>
+<li class="leaf  dhtml-menu "><a href="/legislation/actsregulations" title="Acts and regulations" id="dhtml_menu-4431">Acts and regulations</a></li>
+<li class="leaf  dhtml-menu "><a href="/legislation/international_agreements" title="
+	International Agreements and Obligations
+" id="dhtml_menu-991">International agreements and obligations</a></li>
+<li class="leaf  dhtml-menu "><a href="/legislation/guidelines" title="
+	Policies and Guidelines
+" id="dhtml_menu-992">Guidelines and policies</a></li>
+<li class="leaf last dhtml-menu "><a href="/legislation/gazetted_notices" title="
+	Notices
+" id="dhtml_menu-995">Gazetted notices</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/media" title="" id="dhtml_menu-233">Media</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/media/releases" title="
+	Media Releases
+" id="dhtml_menu-1490">Media releases</a></li>
+<li class="leaf  dhtml-menu "><a href="/media/speeches" title="Speeches" id="dhtml_menu-1491">Speeches</a></li>
+<li class="leaf  dhtml-menu "><a href="/media/publications" title="Publications" id="dhtml_menu-1493">Publications</a></li>
+<li class="leaf  dhtml-menu "><a href="/media/audioandvisual" title="Audio-visual" id="dhtml_menu-4394">Audio-visual</a></li>
+<li class="leaf last dhtml-menu "><a href="/media/gallery" title="
+	Image gallery
+" id="dhtml_menu-2603">Image gallery</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/events" title="" id="dhtml_menu-234">Events</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/events/international" title="Celebrations" id="dhtml_menu-1765">International events</a></li>
+<li class="leaf last dhtml-menu "><a href="/events/department_activities" title="
+	Departmental Activities
+" id="dhtml_menu-1768">Departmental activities</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/content/careers" title="" id="dhtml_menu-235">Careers</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/careers/vacancies" title="" id="dhtml_menu-506">Vacancies</a></li>
+<li class="leaf  dhtml-menu "><a href="/careers/internships" title="" id="dhtml_menu-507">Internships</a></li>
+<li class="leaf last dhtml-menu "><a href="/careers/bursaries" title="" id="dhtml_menu-508">Bursaries</a></li>
+</ul></li>
+<li class="expanded last dhtml-menu  collapsed start-collapsed "><a href="/content/contact-us" title="" id="dhtml_menu-236">Contact us</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/contacts/media" title="
+	Media Contacts
+" id="dhtml_menu-600">Media contacts</a></li>
+<li class="leaf  dhtml-menu "><a href="/contacts/national_office" title="
+	National Office
+" id="dhtml_menu-601">National office</a></li>
+<li class="leaf  dhtml-menu "><a href="/contacts/provincial_offices" title="
+	Provincial Offices
+" id="dhtml_menu-602">Provincial offices</a></li>
+<li class="leaf last dhtml-menu "><a href="/contacts/webmaster" title="Webmaster contacts" id="dhtml_menu-2604">Webmaster contacts</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<!-- /block --> <!-- block --> 
+<div class="block-wrapper even block_2">
+  <div id="block-block-6" class="block block-block themed-block">
+        <div class="content"><table border="0" cellpadding="2" cellspacing="0" style="width: 169px; height: 88px;">
+<tbody>
+<tr>
+<td class="rtecenter" style="background-color: rgb(255, 255, 255);">
+				<a href="http://www.gov.za" target="_blank"><img alt="" src="/sites/default/files/images/sa_online_logo_small_0.gif" /></a></td>
+<td style="background-color: rgb(255, 255, 255);">
+				<a href="http://www.gov.za" target="_blank">South Africa Government Online</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+  </div>
+</div>
+<!-- /block --> <!-- block --> 
+<div class="block-wrapper odd block_3">
+  <div id="block-block-7" class="block block-block themed-block">
+        <div class="content"><table border="0" cellpadding="1" cellspacing="1" style="width: 168px; height: 30px">
+<tbody>
+<tr>
+<td style="background-color: rgb(255,255,255)">
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+<tbody>
+<tr>
+<td align="left" style="width: 48px">
+								<a href="http://edms.environment.gov.za/" target="_blank" title="Access to EDMS - Link opens in new window"><img alt="" src="/sites/default/files/images/edms.png" style="width: 46px; height: 26px" /></a></td>
+<td align="left" style="width: 48px">
+								<a href="http://webmail.environment.gov.za/" target="_blank" title="Access your DEA GroupWise mail Account - Link opens in new window"><img alt="" src="/sites/default/files/images/novellgroupwise.png" style="width: 46px; height: 26px" /></a></td>
+<td align="left" style="width: 48px">
+								<a href="links"><img alt="" src="/sites/default/files/images/webglob.png" style="width: 46px; height: 26px" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+  </div>
+</div>
+<!-- /block --> </div>
+          </div>
+          
+                <br class="brclear" />
+      </div> <!-- /float-wrap -->
+              <div class="colright">
+          <div id="sidebar-right"><!-- block --> 
+<div class="block-wrapper odd block_1">
+  <div id="block-block-4" class="block block-block themed-block">
+              <div class="block-icon pngfix"></div>
+          <h2 class="title">DEA Corporate Video</h2>
+          <div class="content"><table align="center" background-color:="#ffffff" border="0" cellpadding="0" cellspacing="0" style="height: 150px; width: 230px">
+<tbody>
+<tr>
+<td class="rtecenter" style="background-color: rgb(0,0,0)">
+<!-- I frame starts here: --><!-- I frame starts here: --><p>				<iframe allowfullscreen="" frameborder="0" height="150" src="http://www.youtube.com/embed/ZwqMb_qCqo4" width="230"></iframe></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+  </div>
+</div>
+<!-- /block --> <!-- block --> 
+<div class="block-wrapper even block_2">
+  <div id="block-block-3" class="block block-block themed-block">
+              <div class="block-icon pngfix"></div>
+          <h2 class="title">In focus</h2>
+          <div class="content"><p class="rtecenter">
+<!-- starts here: --><!-- starts here: --></p><p>	<a href="http://www.climateaction.org.za" target="_blank" title="SA Government Online link - Opens in new window"><img alt="Climate Action Now!" src="/sites/default/files/images/climate_action_now_0.png" style="border: 0px solid; height: 164px; width: 239px;" /></a></p>
+<!-- ends here: --><!-- ends here: -->
+<p class="rtecenter">
+	<strong><a href="http://www.climateaction.org.za" target="_blank" title="Outside link - Opens in new window">Read more</a></strong></p>
+</div>
+  </div>
+</div>
+<!-- /block --> </div>
+        </div>
+           
+     <br class="brclear" />
+    </div><!-- /outer -->
+  </div><!-- /wrapper -->
+</div>
+
+<div id="bar"></div>
+<div id="footer-wrapper" class="clearfix">
+  <div id="footer">
+    <div class="legal">
+      Copyright &copy; Department of Environmental Affairs 2014 <a href="/"></a>.       <div id="brand"><div id="below"><!-- block --> 
+<div class="block-wrapper odd block_1">
+  <div id="block-superfish-3" class="block block-superfish ">
+        <div class="content"><ul class="sf-menu sf-horizontal sf-style-white" id="superfish-3">
+<li id="menu-2357-3" class="first odd sf-item-1"><a href="/aboutthe_deawebsite" title="
+	About the Website
+" id="dhtml_menu-2357">About the website</a></li>
+<li id="menu-2358-3" class="even sf-item-2"><a href="/termsofuse" title="
+	Terms of use
+" id="dhtml_menu-2358">Terms of use</a></li>
+<li id="menu-2359-3" class="odd sf-item-3"><a href="/sitemap" title="
+	Sitemap
+" id="dhtml_menu-2359">Sitemap</a></li>
+<li id="menu-2063-3" class="even sf-item-4"><a href="/links" title="Links" id="dhtml_menu-2063">Links</a></li>
+<li id="menu-4393-3" class="last odd sf-item-5"><a href="/promotionaccess_informationact" title="Promotion of Access to Information Act  (PAIA)" id="dhtml_menu-4393">PAIA</a></li>
+</ul>
+</div>
+  </div>
+</div>
+<!-- /block --> </div></div>
+    </div>
+  </div>
+</div>
+
+
+</div><!-- /body_right -->
+</div><!-- /body_left -->
+</div><!-- /expander0 -->
+</div><!-- /sizer0 -->
+</div><!-- /page0 -->
+
+<div class="eopage">
+<div id="bottom_bg" class="page0">
+<div class="sizer0">
+<div class="expander0">
+<div id="bottom_left">
+<div id="bottom_right">
+
+ <!-- /footer-wrapper -->
+
+<div id="belowme">
+</div>
+
+</div><!-- /bottom_right -->
+</div><!-- /bottom_left -->
+</div><!-- /expander0 -->
+</div><!-- /sizer0 -->
+</div><!-- /page0 -->
+</div>
+</div></div><!-- /bg# -->
+
+<script type="text/javascript" src="/sites/default/files/js/js_7a8219e47e79bccc061f4a85ec260df3.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-32253026-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+<div class="page0"><div class="sizer0"><div class="expander0"><div class="byy"><a href="http://www.radut.net">by Dr. Radut</a>.</div></div></div></div></body>
+</html>

@@ -1,0 +1,19 @@
+# Varun Jain
+
+*Asia > Southasia > India > Delhi > Shopping > Varun Jain*
+
+Send Gifts and flowers for Guaranteed and Same Day delivery to Delhi . Exclusive Range of Gifts is available for all kind of Occasions. http://www.delhiblossoms.com
+
+type: Shopping centers and malls
+
+World66 rating: Rate now:
+
+tel: 91-0124-25217117
+
+url: [www.delhiblossoms.com](http://www.delhiblossoms.com)
+
+address: G-51, Udyog Vihar, Gurgaon
+
+email: delhiblossoms@hotmail.com
+
+[back to Shopping](..)

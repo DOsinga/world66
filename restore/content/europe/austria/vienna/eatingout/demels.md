@@ -1,0 +1,20 @@
+# Demels
+
+*Europe > Austria > Vienna > Eatingout > Demels*
+
+The place to have afternoon tea and CAKE.
+
+Demels was the bakers to the Imperial Court and boy do they make the best chocolate cake in the world. Its just down the road from the main Palace Entrance is a great place to watch the world go by and relax over some fantastic cakes and coffee.
+
+**Contributors**
+June 03, 2006
+new
+by [goofy_boarder](/member/goofy_boarder)
+
+type: Local
+
+World66 rating:
+
+Rate now:
+
+[back to Eating Out](..)

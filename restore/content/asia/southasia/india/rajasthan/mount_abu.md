@@ -1,0 +1,15 @@
+# Mount Abu Travel Guide
+
+*Asia > Southasia > India > Rajasthan > Mount Abu*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+**Mount Abu** is the highest peak in the Aravalli Range of Rajasthan state in western India. It is located in Sirohi district. The mountain forms a distinct rocky plateau 22km long by 9 km wide. The highest peak on the mountain is Guru Shikhar, at 1722 meters above sea level. It is referred to as 'an oasis in the desert', as its heights are home to rivers, lakes, waterfalls and evergreen forests.
+
+#### Contributors
+
+November 15, 2006 change by [giorgio](/member/giorgio)
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Mon 18:23

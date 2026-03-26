@@ -1,0 +1,44 @@
+# Day trip to Giza Pyramids and Egyptian Museum
+
+*Africa > Egypt > Giza > Day Trips > Day Trip To Giza P*
+
+**Memphis Tours Egypt Since 1955
+http://www.memphistours.net**
+
+**Duration :** Approx.08 HRS
+**Type :** Daily private tour with personal guide
+**Schedule :** Tour valid year around with pick up and drop off from your hote
+**Price :** 45 EUR
+**Tour itinerary :**
+Morning time you will be accompanied by your own Egyptologist tour guide to visit the famous Giza Plateau, home of Egypt’s greatest attractions to visit The Great Pyramids, which is ONE of the Seven Wonders of the ancient world including the Great Pyramid of Cheops, middle pyramids of Chephren and the little one of Mykerinos and The Mysterious Sphinx, the Father of Terror for the ancient pharaohs, this tour includes visit to the valley temple facing the great sphinx. Then on the way you will have lunch at Hard – Rock of Grand Hyatt hotel. Later on you will be driven to see the world-renowned Museum of Egyptian Antiques that was built in neo-classical style designed by the French architect Marcel Dourgnon which exhibits a collection now over 120000 masterpieces ranges from pre-dynastic era, Pharaonic era to the Greco-roman period in Egypt including the treasures of the child King Tutankhamen, Pharaonic Gods and Goddess. Finally you will be escorted by your guide back to your hotel.
+
+**Tour includes :
+**• Assistance of our personal during the day tour
+• Academic Egyptologist speaking guide during tour
+• Transportation by private air-conditioned deluxe vehicle
+• Entrance fees to the mentioned sights in Cairo & Giza
+• Lunch meal at Hard Rock of Grand Hyatt in Cairo
+• Mineral water and soft drinks on board vehicle
+• Shopping tours during the tour in Giza famous bazaars
+• Service charges and taxes included in tour price
+
+For more info or booking please visit :
+http://www.memphistours.net
+
+OR
+contact us :
+tours@memphistours.net
+
+World66 rating:
+
+Rate now:
+
+tel: 0020101709105
+
+url: [www.memphistours.net](http://www.memphistours.net/hurghada_egypt/Excursions/Cairo_Excursions/Day_tour_to_Pyramids_of_Giza_and_Egyptian_museum.php)
+
+address: Egypt
+
+email: tours@memphistours.net
+
+[back to Day Trips](..)

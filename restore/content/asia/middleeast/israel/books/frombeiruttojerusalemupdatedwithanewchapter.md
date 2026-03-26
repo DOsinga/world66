@@ -1,0 +1,5 @@
+# From Beirut to Jerusalem:Updated with a New Chapter
+
+*Asia > Middleeast > Israel > Books > Frombeiruttojerusalemupdatedwithanewchapter*
+
+[](http://www.amazon.com/exec/obidos/ASIN/0385413726/osingacom?creative=125581&camp=2321&link_code=as1)

@@ -1,0 +1,7 @@
+# Manas
+
+*Asia > Centralasia > Kyrgyzstan > Books > Manas*
+
+The Manas is the great Epic story of Kyrgystan. (ISBN number 8804423471 refers to an Italian edition, and Barnes and Noble (buy the book link) doesn't presently carry it or an English edition)
+
+[](http://www.amazon.com/exec/obidos/ASIN/8804423471 /osingacom?creative=125581&camp=2321&link_code=as1)

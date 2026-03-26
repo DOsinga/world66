@@ -1,0 +1,17 @@
+# Franklin House
+
+*Australiaandpacific > Australia > Tasmania > Launceston > Sights > Franklinhouse*
+
+A Georgian house built in 1838 for a Launceston brewer and innkeeper called Britton Jones. All the interior woodwork is New South Wales cedar. A good example of domestic architecture of that time. At one time Franklin House was used as a school for boys. The National Trust has restored and furnished the house and recreated the stylish Georgian family home. Morning and afternoon teas are served.
+
+type: general
+
+World66 rating:
+
+Rate now:
+
+address: 413 Hobart Road
+
+openinghours: daily: 9.00 - 17.00 Sep. - May; 9.00 - 16.00 June - Aug.
+
+[back to Sights](..)

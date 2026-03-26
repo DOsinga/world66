@@ -1,0 +1,11 @@
+# boon Travel Guide
+
+*Africa > Somaliland > Borama > Boon*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Salal
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Sat 14:03

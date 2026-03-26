@@ -1,0 +1,13 @@
+# Day Trips in Vijayawada
+
+*Asia > Southasia > India > Andhrapradesh > Vijayawada > Day Trips*
+
+Apart from being a big junction, in Vijayawada there is a very
+famous temple of lordess kanaka Durga situated on Indrakeeladri hill.
+
+Not only that there are nice visiting places like Prakasam barriage and Bhavani islands.
+
+**Contributors**
+September 19, 2005
+change
+by [giorgio](/member/giorgio)

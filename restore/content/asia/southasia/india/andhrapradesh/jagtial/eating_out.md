@@ -1,0 +1,17 @@
+# Eating Out in Jagtial
+
+*Asia > Southasia > India > Andhrapradesh > Jagtial > Eating Out*
+
+Jagtial is a very great place because of its History & people are very friendly, celeberate each & every festival very wounderfully Like.. Dasserah, Holi, Eid-ul-Fitar & Eid-ul-Azha. Its very storng & well know place for concern Politics because from here so many good leaders came out. One very old fort in Jagtial which was built in the 1700 century and its in Star shape around it depth water is attract to people towards it. And good Play ground center of the city where people play cricket, wolley ball, Hockey & Use for Jogging.
+
+### [RAJA DELUX AC BAR AND RESTAURANT](/asia/southasia/india/andhrapradesh/jagtial/eating_out/raja_delux_ac_bar)
+
+Raja Delux is located near the new bus stand next to BSNL Exchange.
+
+type: First Class
+
+World66 rating: [[rate it]](/asia/southasia/india/andhrapradesh/jagtial/eating_out/raja_delux_ac_bar)
+
+tel: +918724222543
+
+address: H.NO-1/4/231

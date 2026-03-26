@@ -1,0 +1,9 @@
+# Ballarat
+
+*Australiaandpacific > Australia > Victoria > Ballarat*
+
+About 100 km west of Melbourne lies the charming town of Ballarat. Ballarat started to thrive after gold was found in the area arond 1850. After the gold was all mined, some really rich quartz fields were discovered, that were worked untill the end of WW I. Ballarat developed into a major provincial town, with a lot of matching Victorian architecture, much of which can be found along Lydiard Street. 
+
+Ballarat has a turbulent mining past. In 1854 the Ballarat miners rebelled against the hated licence hunts and the lack of political influence. Every gold digger had to have a licence, and local law enforcers would check regularly for these, often in a quite violent way. After increased licence hunts and the unpunished murder of a minder, about 150 gold diggers got themselves organised and started the Eureka rebellion. Although this did not last long, and was not very succesful at first, in the longer run it did help abolish the licence fee and give more political power. More on the Eureka Rebellion can be learned at the Eureka Stockade Centre, where multi-media galleries simulate the battle. For a more hands-on experience of the gold digging era you can visit the Sovereign Hill Historical Park, a living history museum recreating a gold-mining township of the 1860's.
+
+When you've had enough of all the mining sights, you can visit the Ballarat Fine Art Museum, the oldest provincial gallery in the country. Ballarat also features an exellent botanical garden, besides Lake Wendouree. This large artificial lake was used as the rowing course in the 1956 Olympics, and has a populat walking track around it. The Ballarat Wildlife Park (corner of York and Fussel street) covers the fauna of the area. For imported fauna you can visit the Great Southern Woolshed, where thare are shearing demos, trained dogs and other wool related activities.

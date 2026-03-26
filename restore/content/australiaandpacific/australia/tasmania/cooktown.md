@@ -1,0 +1,13 @@
+# Cooktown Travel Guide
+
+*Australiaandpacific > Australia > Tasmania > Cooktown*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Cooktown information coming soon.
+
+http://www.cook.qld.gov.au/
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Sun 15:37

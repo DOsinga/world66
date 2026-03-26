@@ -1,0 +1,97 @@
+<html>
+   <head>
+      <title>404 De pagina is niet gevonden</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <style>
+         body, td {font-family:tahoma,arial; font-size:10pt;background-repeat: no-repeat}
+      </style>
+   </head>
+   <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+      <div align="center">
+         <table width="799" height="352" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+               <td background="http://home.kpn.nl/images/logo.gif" height="64" width="799">&nbsp;</td>
+            </tr>
+            <tr valign="top">
+               <td background="http://home.kpn.nl/images/achtergrond.gif" height="481" width="799">
+                  <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+                     <tr>
+                        <td align="center">
+                           <table border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                 <td align="center">
+                                       <table width="90%">
+                                       	  <tr>
+                                       	  	<td colspan="3" align="center">
+                                              <h2>De pagina is niet gevonden</strong></h2>
+                                              <p>
+                                              De URL <u><script>document.write(location.href)</script></u> is niet gevonden op de webserver.<br />
+                                              Controleer of het pad in de URL juist is.
+                                              </p>
+                                       	  	</td>
+                                       	  </tr>
+                                          <tr>
+                                             <td colspan="3">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3"><hr />
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3"><b>Zoek je een URL die lijkt op ...</b></td>
+                                          </tr>
+                                          <tr>
+                                             <td>&nbsp;</td>
+                                             <td>&nbsp;</td>
+                                             <td>http://home.planet.nl/~gebruikersnaam/</td>
+                                          </tr>
+                                          <tr>
+                                             <td>&nbsp;</td>
+                                             <td>of</td>
+                                             <td>http://home.kpnplanet.nl/~gebruikersnaam@kpnplanet.nl/</td>
+                                          </tr>
+                                          <tr>
+                                             <td>&nbsp;</td>
+                                             <td>of</td>
+                                             <td>http://home.hetnet.nl/~gebruikersnaam/</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3"><b>Gebruik dan nu ...</b></td>
+                                          </tr>
+                                          <tr>
+                                             <td>&nbsp;</td>
+                                             <td>&nbsp;</td>
+                                             <td>http://home.kpn.nl/gebruikersnaam/</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3"><i>Let op het verschil, er is geen tilde "~" meer en de @kpnplanet.nl 
+                                                   extensie valt weg.</i></td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3"><i>NB: Het is helaas niet meer mogelijk om een homepage te bereiken 
+                                                   via de email alias variant.</i></td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3"><hr />
+                                             </td>
+                                          </tr>
+                                       </table>
+                                    </p>
+                                 </td>
+                              </tr>
+                           </table>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+         </table>
+      </div>
+   </body>
+</html>

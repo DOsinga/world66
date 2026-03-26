@@ -1,0 +1,27 @@
+# Coron Travel Guide
+
+*Asia > Southeastasia > Philippines > Coron*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Coron is both the name of the largest town on the island of Busuanga,
+and the name of a different, smaller island just offshore. The area is
+famous for its World War II wreck diving, and the site has been named in
+many lists of top dive spots in the world. In September 1944, a fleet
+of Japanese ships hiding in the harbor were sunk in a daring raid by the
+US navy. The result is around ten well preserved underwater shipwrecks
+surrounded with coral reef.
+
+There are also attractions on Coron Island itself. There are many
+beautiful bleach white sand beaches, mostly tiny and surrounded by
+large limestone cliffs and wildlife. Barracuda and Kayangan lakes are
+both stunning locations, and good for snorkeling, and the island is the
+ancestral domain of an indigenous tribe who are managing the island in a
+sustainable way and keeping outsiders at a distance and offshore at
+night.
+
+*Part or or all of this text stems from the original article at: http://wikitravel.org/en/Coron#Sleep*
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Wed 03:26

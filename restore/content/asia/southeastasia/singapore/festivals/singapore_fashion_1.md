@@ -1,0 +1,12 @@
+# Singapore Fashion Festival 2005
+
+*Asia > Southeastasia > Singapore > Festivals > Singapore Fashion 1*
+
+The festival was held from 23 Mar to 3 April at Orchard Road. It was one of the most glamour event of the year. It featured the latest local and international designer fashion. Come and see for yourself at the virtual tour of SFF at www.singaporesights.com.
+
+**Contributors**
+April 11, 2005
+new
+by [singaporesights](/member/singaporesights)
+
+World66 rating:

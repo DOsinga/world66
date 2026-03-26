@@ -1,0 +1,283 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<base href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin/jenin/" />
+
+  <title>Jenin travel guide - World66</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="http://www.world66.com/world66.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<script type="text/javascript">
+stdBrowser=(document.getElementById)?true:false
+
+function toggleMenu(currElem,nextPos) {
+    menuObj=(stdBrowser)?document.getElementById(currElem).style : eval("document." + currElem)
+    if (toggleMenu.arguments.length == 1) {
+        nextPos = (parseInt(menuObj.visiblity)=='visible')?'hidden' : 'visible' 
+    }
+    menuObj.visibility = nextPos;
+}
+</script>
+
+<div id="pagewidth" >
+  <div id="header" >
+    <div id="logoandlinks">
+      <div style="float:left">
+      <a href="/"><img src="http://www.world66.com/images/logo_beta_leftside.gif" style="border:0; position:relative; float:left" alt="World66"/></a><span style="float:left; font-size:14px; font-family:verdana; color:#666666; margin-top:5px;">the travel guide<br />you write</span>
+      </div>
+      <div id="contributinglinks">
+        <small><a href="/about/changes"><strong>Recent Changes</strong></a><br />
+        <div style="border-top:1px solid #999999; padding:7px 0px 0px 5px; margin-top:7px;">You are not logged in | <a href="/myworld66/login?returnurl=http%3A//www.world66.com/asia/middleeast/palestinianauthority/jenin/jenin/index_html">login</a> | <a href="/myworld66/register">register</a></div>
+        </small>
+      </div>
+    </div>
+    
+  <script type="text/javascript">  
+           function keyhandler(e) {
+              if (window.event.keyCode==13) {formSearch.submit()}
+           } 
+  </script>
+  <form name="formSearch" action="/world/search">
+  <input type="hidden" name="quicksearch" value="1">
+  <div id="tabbar">
+    <div id="tabs">
+      <ul>
+
+        <li><a href="/">Home</a></li>
+
+        <li><a style="color:white; background-color:#CC0000" href="http://www.world66.com/destinations">Destinations</a></li>
+
+        <li><a href="http://www.world66.com/travelwise">Travelwise</a></li>
+
+        <li><a href="http://www.world66.com/shop">Shop</a></li>
+
+        <li><a href="http://www.world66.com/community">My World66</a></li>
+
+        <li><a href="http://www.world66.com/about">About</a></li>
+
+      </ul>
+    </div>
+    <div id="subtabs" style="background:#E5A9A9; border-top:5px solid #CC0000; border-bottom:1px solid #CC0000"> 
+  <INPUT title="Quick Search" 
+                maxLength=256 
+                size=40 
+                name="searchfield"
+                onmouseout="window.status=''; return true;" 
+                onmouseover="window.status='Quick Search'; return true;"
+                onkeypress="keyhandler">
+         <a href="javascript:formSearch.submit()" class="searchlink" onmousedown="formSearch.submit()">Search</a>
+    </div>
+  </div>
+  </form>
+
+  
+</div>
+
+<div id=breadcrumbs>
+
+<span id="s_world" class="dropdownmenu" onMouseover="toggleMenu('s_world','visible')" onMouseout="toggleMenu('s_world','hidden')">
+
+<a href="http://www.world66.com/destinations" >World</a><br><div class="dropdownmenu">
+
+<table><tr>
+
+<td valign=top width=100%>
+<a href="http://www.world66.com/africa" >Africa</a><br>
+<a href="http://www.world66.com/antarctica" >Antarctica</a><br>
+<a href="http://www.world66.com/asia" >Asia</a><br>
+<a href="http://www.world66.com/australiaandpacific" >Australia and Pacific</a><br>
+<a href="http://www.world66.com/centralamericathecaribbean" >Central America</a><br>
+<a href="http://www.world66.com/europe" >Europe</a><br>
+<a href="http://www.world66.com/northamerica" >North America</a><br>
+<a href="http://www.world66.com/southamerica" >South America</a><br>
+
+</tr></table>
+
+  </div>
+
+</span>
+
+<a href="http://www.world66.com/destinations" onMouseover="toggleMenu('s_world','visible')">World</a>
+&nbsp;<b>&gt;</b>&nbsp;
+<span id="s_asia" class="dropdownmenu" onMouseover="toggleMenu('s_asia','visible')" onMouseout="toggleMenu('s_asia','hidden')">
+
+<a href="http://www.world66.com/asia" >Asia</a><br><div class="dropdownmenu">
+
+<table><tr>
+
+<td valign=top width=100%>
+<a href="http://www.world66.com/asia/britishindianoce" >British Indian Ocean Territory</a><br>
+<a href="http://www.world66.com/asia/centralasia" >Central Asia</a><br>
+<a href="http://www.world66.com/asia/middleeast" >Middle East</a><br>
+<a href="http://www.world66.com/asia/northeastasia" >North-East Asia</a><br>
+<a href="http://www.world66.com/asia/southasia" >South Asia</a><br>
+<a href="http://www.world66.com/asia/southeastasia" >South-East Asia</a><br>
+
+</tr></table>
+
+  </div>
+
+</span>
+
+<a href="http://www.world66.com/asia" onMouseover="toggleMenu('s_asia','visible')">Asia</a>
+&nbsp;<b>&gt;</b>&nbsp;
+<span id="s_middleeast" class="dropdownmenu" onMouseover="toggleMenu('s_middleeast','visible')" onMouseout="toggleMenu('s_middleeast','hidden')">
+
+<a href="http://www.world66.com/asia/middleeast" >Middle East</a><br><div class="dropdownmenu">
+
+<table><tr>
+
+<td valign=top width=100%>
+<a href="http://www.world66.com/asia/middleeast/bahrain" >Bahrain</a><br>
+<a href="http://www.world66.com/asia/middleeast/cyprus" >Cyprus</a><br>
+<a href="http://www.world66.com/africa/egypt" >Egypt</a><br>
+<a href="http://www.world66.com/asia/middleeast/iran" >Iran</a><br>
+<a href="http://www.world66.com/asia/middleeast/iraq" >Iraq</a><br>
+<a href="http://www.world66.com/asia/middleeast/israel" >Israel</a><br>
+<a href="http://www.world66.com/asia/middleeast/jordan" >Jordan</a><br>
+<a href="http://www.world66.com/asia/middleeast/kuwait" >Kuwait</a><br>
+<a href="http://www.world66.com/asia/middleeast/lebanon" >Lebanon</a><br>
+<a href="http://www.world66.com/asia/middleeast/oman" >Oman</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority" >Palestinian Authority</a><br>
+<a href="http://www.world66.com/asia/middleeast/qatar" >Qatar</a><br>
+<a href="http://www.world66.com/asia/middleeast/saudiarabia" >Saudi Arabia</a><br>
+<a href="http://www.world66.com/asia/middleeast/syria" >Syria</a><br>
+<a href="http://www.world66.com/asia/middleeast/turkey" >Turkey</a><br>
+<a href="http://www.world66.com/asia/middleeast/unitedarabemirates" >United Arab Emirates</a><br>
+<a href="http://www.world66.com/asia/middleeast/yemen" >Yemen</a><br>
+
+</tr></table>
+
+  </div>
+
+</span>
+
+<a href="http://www.world66.com/asia/middleeast" onMouseover="toggleMenu('s_middleeast','visible')">Middle East</a>
+&nbsp;<b>&gt;</b>&nbsp;
+<span id="s_palestinianauthority" class="dropdownmenu" onMouseover="toggleMenu('s_palestinianauthority','visible')" onMouseout="toggleMenu('s_palestinianauthority','hidden')">
+
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority" >Palestinian Authority</a><br><div class="dropdownmenu">
+
+<table><tr>
+
+<td valign=top width=100%>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/beitsahur" >Beit Sahur</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/bethlehem" >Bethlehem</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/gazastrip" >Gaza Strip</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/hebron" >Hebron</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin" >Jenin</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/nablus" >Nablus</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/ramallah" >Ramallah</a><br>
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority/beitjala" >beit-jala</a><br>
+
+</tr></table>
+
+  </div>
+
+</span>
+
+<a href="http://www.world66.com/asia/middleeast/palestinianauthority" onMouseover="toggleMenu('s_palestinianauthority','visible')">Palestinian Authority</a>
+&nbsp;<b>&gt;</b>&nbsp;<a href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin" >Jenin</a>&nbsp;<b>&gt;</b>&nbsp;<a href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin" >Jenin</a>
+</div>
+
+<table id=maintable border="0" cellspacing="0" cellpadding="0"><tr>
+<td id=colleft><table width="140" border="0" cellspacing="0" cellpadding="0">
+<tr><td class="sectable">
+<div class="title">Sections</div>
+<div class="navcontainer">
+<ul class="navlist">
+<li><a class="current" href=".">Jenin</a></li>
+
+<li><a href="./addNew?childType=wktSection">[Add Section]</a></li>
+</ul></div>
+</td></tr></table>
+</td>
+<td id=mainbody>
+<h1 style="margin-left:0px">Jenin</h1>
+&nbsp;&nbsp;<a href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin/modify">[edit this]</a>
+<p><imgurl val="http://www.world66.com/asia/middleeast/palestinianauthority/jenin/jenin <wktLocation at /world/asia/middleeast/palestinianauthority/jenin used for /world/asia/middleeast/palestinianauthority/jenin>"/>
+<div class="locationImage" >
+
+
+<img class="locationImage" src="http://www.world66.com/asia/middleeast/palestinianauthority/jenin/jenin" title="" border=0/>
+<span class="imageSubscript">Jenin<br></span>
+
+<span class="imageSubscript"><a class="imageSubscript" href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin/lib/image/change">[Change image]</a> | <a class="imageSubscript" href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin/lib/image/upload">[Upload image]</a></span>
+</div>
+Jenin is one of the major towns in the Palestinian Authority north of  <p><a href="http://www.world66.com/asia/middleeast/palestinianauthority/ramallah">Ramallah</a>. Although  <p><a href="http://www.world66.com/asia/middleeast/palestinianauthority/nablus">Nablus</a> is a bit more interesting, Jenin is well worth a visit too. It has a very busy market.  <p>  <p>The village of Burqin is located 3km west of Jenin. The Burqin church is a major draw. It lies on the northern slope of the hill overlooking Wadi Burqin. The church is still used by the Christian Greek Orthodox community of the village. The first church was in the cave where the miracle took place. During the 6th-9th centuries it was extended in front of the cave. The church was then rebuilt during the 12th century and enclosed by a wall. The present church is composed of the cave and the new hall and nave built during the 18th century.&nbsp;&nbsp;  <p> 
+<p class="attributions"><i>Change history</i><br/>Minor corrections by <a href="http://www.world66.com/member/hpharmsen">hpharmsen</a> on 30 June 04<br/>
+</p>
+
+<p><a href="http://www.world66.com/asia/middleeast/palestinianauthority/jenin/addNew?childType=wktLocation">[Add Region or City]</a></p>
+
+
+</td>
+<td id=colright>
+<div id="ad">
+         <script type="text/javascript">
+         <!--
+         google_ad_client = 'pub-4110115357033653';
+         google_ad_width = 120;
+         google_ad_height = 600;
+         google_ad_format = '120x600_as';
+         google_color_border = 'CC0000';
+         google_color_link = '003399';        
+         google_color_bg = 'EEEEEE';
+         google_color_url = '008000';
+         google_color_text = '333333';
+         google_ad_channel ="0619543550";
+         // --></script>
+         <script type="text/javascript"  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+         </script>
+</div>
+</td>
+</tr></table>
+
+<div id="footer" >
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+<!-- 
+var sc_project=354783; 
+var sc_partition=1; 
+//-->
+</script>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img  src="http://c2.statcounter.com/counter.php?sc_project=354783&amp;amp;java=0" alt="web counter" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+
+
+<!-- Creative Commons License -->
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/1.0/"><img src="http://www.world66.com/images/somerightscc.gif" alt="Some rights reserved" title="Some rights reserved" height="31" width="88" border="0" /></a><br />
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/1.0/">Creative Commons License</a>. For more information read our <a href="/about/copyright_policy">copyright policy</a> and our <a href="/about/disclaimer">disclaimer</a>.
+<!-- /Creative Commons License -->
+
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+   <license rdf:resource="http://creativecommons.org/licenses/by-sa/1.0/" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/by-sa/1.0/">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <requires rdf:resource="http://web.resource.org/cc/Notice" />
+   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+   <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+</License>
+
+</rdf:RDF>
+
+-->
+<br/>World66 is created and maintained by <a href="http://www.oberon.nl/en">Oberon Medialab B.V.</a>, <a href="http://www.world66.com/europe/netherlands/amsterdam">Amsterdam</a></small>
+</div>
+
+</div>
+</body></html>
+

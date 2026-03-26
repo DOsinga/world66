@@ -1,0 +1,13 @@
+# Patos Travel Guide
+
+*Europe > Albania > Patos*
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Located near the city of Fier.
+
+*Part or or all of this text stems from the original article at: resident for 38 years*
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Sat 23:28

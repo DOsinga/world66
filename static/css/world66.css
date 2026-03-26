@@ -64,17 +64,9 @@ img { max-width: 100%; height: auto; }
 }
 .logo:hover { text-decoration: none; }
 
-.logo-text {
-  font-family: "Trebuchet MS", "Lucida Grande", Arial, sans-serif;
-  font-size: 30px;
-  font-weight: bold;
-  color: var(--navy);
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
-.logo-66 {
-  color: var(--navy);
+.logo-img {
+  height: 40px;
+  width: auto;
 }
 
 .logo-ribbon {

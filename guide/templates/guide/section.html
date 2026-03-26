@@ -1,0 +1,50 @@
+{% extends "guide/base.html" %}
+
+{% block title %}{{ section.display_name }} in {{ location.name }} - World66{% endblock %}
+
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="/">World</a>
+  {% for name, path in breadcrumbs %}
+    <span class="sep">&rsaquo;</span>
+    <a href="/{{ path }}">{{ name }}</a>
+  {% endfor %}
+  <span class="sep">&rsaquo;</span>
+  <span class="current">{{ section.display_name }}</span>
+</nav>
+{% endblock %}
+
+{% block sidebar %}
+<aside id="sidebar">
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {{ location.name }}
+    </h3>
+    <ul class="sidebar-nav">
+      <li><a href="{{ location.get_absolute_url }}"><strong>Travel Guide</strong></a></li>
+      {% for s in all_sections %}
+      <li{% if s.id == section.id %} class="active"{% endif %}>
+        <a href="{{ s.get_absolute_url }}">{{ s.display_name }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</aside>
+{% endblock %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+
+{% if section.image %}
+<div class="content-image">
+  <img src="/media/{{ section.image }}" alt="{{ section.title }}">
+</div>
+{% endif %}
+
+{% if body_html %}
+<div class="body-text">
+  {{ body_html|safe }}
+</div>
+{% endif %}
+{% endblock %}

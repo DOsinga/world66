@@ -1,0 +1,80 @@
+{% extends "guide/base.html" %}
+
+{% block title %}{{ location.name }} Travel Guide - World66{% endblock %}
+
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="/">World</a>
+  {% for name, path in breadcrumbs %}
+    <span class="sep">&rsaquo;</span>
+    {% if forloop.last %}
+      <span class="current">{{ name }}</span>
+    {% else %}
+      <a href="/{{ path }}">{{ name }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>
+{% endblock %}
+
+{% block sidebar %}
+<aside id="sidebar">
+  {% if sections %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {{ location.name }}
+    </h3>
+    <ul class="sidebar-nav">
+      <li class="active"><a href="{{ location.get_absolute_url }}"><strong>Travel Guide</strong></a></li>
+      {% for section in sections %}
+      <li><a href="{{ section.get_absolute_url }}">{{ section.display_name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if children %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      Places in {{ location.name }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for child in children|slice:":30" %}
+      <li><a href="{{ child.get_absolute_url }}">{{ child.name }}</a></li>
+      {% endfor %}
+      {% if children.count > 30 %}
+      <li class="more"><a href="#">Show all {{ children.count }} &rarr;</a></li>
+      {% endif %}
+    </ul>
+  </div>
+  {% endif %}
+</aside>
+{% endblock %}
+
+{% block content %}
+<h1>{{ location.name }} <span class="title-sub">Travel Guide</span></h1>
+
+{% if location.image %}
+<div class="content-image">
+  <img src="/media/{{ location.image }}" alt="{{ location.name }}">
+</div>
+{% endif %}
+
+{% if body_html %}
+<div class="body-text">
+  {{ body_html|safe }}
+</div>
+{% endif %}
+
+{% if children %}
+<div class="destinations-section">
+  <h2>Destinations</h2>
+  <div class="destination-columns">
+    {% for child in children %}
+    <a href="{{ child.get_absolute_url }}">{{ child.name }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+{% endblock %}

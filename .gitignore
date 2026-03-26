@@ -1,0 +1,13 @@
+restore/raw/
+restore/inventory.jsonl
+restore/inventory_filtered.jsonl
+restore/download_progress.json
+restore/image_progress.json
+restore/site_index.json
+restore/*.tmp
+venv/
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

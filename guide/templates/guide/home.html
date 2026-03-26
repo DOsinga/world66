@@ -1,0 +1,30 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}World66 - the travel guide you write{% endblock %}
+{% block nav_home %}active{% endblock %}
+
+{% block content %}
+<div class="home-hero">
+  <h1>Explore <strong>Destinations</strong></h1>
+  <p>Travel information on over 20,000 destinations, written and updated by travelers since 1999.</p>
+</div>
+
+<div class="continent-grid">
+  {% for continent in continents %}
+  <div class="continent-card">
+    <h2><a href="{{ continent.get_absolute_url }}">{{ continent.name }}</a></h2>
+    {% if continent.children.count %}
+    <ul>
+      {% for child in continent.children.all|slice:":10" %}
+      <li><a href="{{ child.get_absolute_url }}">{{ child.name }}</a></li>
+      {% endfor %}
+    </ul>
+    {% if continent.children.count > 10 %}
+    <p class="more"><a href="{{ continent.get_absolute_url }}">All {{ continent.children.count }} destinations &rarr;</a></p>
+    {% endif %}
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

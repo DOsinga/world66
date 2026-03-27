@@ -24,7 +24,7 @@
     <ul class="sidebar-nav">
       <li><a href="{{ location.get_absolute_url }}"><strong>Travel Guide</strong></a></li>
       {% for s in all_sections %}
-      <li{% if s.id == section.id %} class="active"{% endif %}>
+      <li{% if s.slug == section.slug %} class="active"{% endif %}>
         <a href="{{ s.get_absolute_url }}">{{ s.display_name }}</a>
       </li>
       {% endfor %}
@@ -39,6 +39,19 @@
 {% if section.image %}
 <div class="content-image">
   <img src="/media/{{ section.image }}" alt="{{ section.title }}">
+</div>
+{% endif %}
+
+{% if section.properties %}
+<div class="info-box">
+  <table>
+    {% for key, value in section.properties.items %}
+    <tr>
+      <th>{{ key }}</th>
+      <td>{% if key == "url" %}<a href="http://{{ value }}">{{ value }}</a>{% elif key == "email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </table>
 </div>
 {% endif %}
 

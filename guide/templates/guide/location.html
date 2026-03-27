@@ -43,8 +43,8 @@
       {% for child in children|slice:":30" %}
       <li><a href="{{ child.get_absolute_url }}">{{ child.name }}</a></li>
       {% endfor %}
-      {% if children.count > 30 %}
-      <li class="more"><a href="#">Show all {{ children.count }} &rarr;</a></li>
+      {% if children|length > 30 %}
+      <li class="more"><a href="#">Show all {{ children|length }} &rarr;</a></li>
       {% endif %}
     </ul>
   </div>

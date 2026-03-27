@@ -1,42 +1,39 @@
-import markdown
+import markdown as md
 from django.http import Http404
-from django.shortcuts import get_object_or_404, render
+from django.shortcuts import render
 
-from .models import Location, Section
+from .models import load_continents, load_location, load_section
 
 
 def home(request):
-    continents = Location.objects.filter(depth=0).order_by("name")
+    continents = load_continents()
     return render(request, "guide/home.html", {"continents": continents})
 
 
 def location_or_section(request, path):
-    """Unified view: try location first, then section."""
-    # Try as a location
-    try:
-        location = Location.objects.get(path=path)
+    path = path.strip("/")
+
+    # Try as a location first
+    location = load_location(path)
+    if location:
         return location_view(request, location)
-    except Location.DoesNotExist:
-        pass
 
     # Try as a section (last segment is section slug)
-    parts = path.rsplit("/", 1)
-    if len(parts) == 2:
-        loc_path, section_slug = parts
-        try:
-            location = Location.objects.get(path=loc_path)
-            section = Section.objects.get(location=location, slug=section_slug)
-            return section_view(request, location, section)
-        except (Location.DoesNotExist, Section.DoesNotExist):
-            pass
+    if "/" in path:
+        loc_path, section_slug = path.rsplit("/", 1)
+        location = load_location(loc_path)
+        if location:
+            section = load_section(loc_path, section_slug)
+            if section:
+                return section_view(request, location, section)
 
     raise Http404
 
 
 def location_view(request, location):
-    children = location.children.order_by("name")
-    sections = location.sections.all()
-    body_html = markdown.markdown(location.body) if location.body else ""
+    children = location.children()
+    sections = location.sections()
+    body_html = md.markdown(location.body) if location.body else ""
 
     return render(request, "guide/location.html", {
         "location": location,
@@ -48,8 +45,8 @@ def location_view(request, location):
 
 
 def section_view(request, location, section):
-    body_html = markdown.markdown(section.body) if section.body else ""
-    all_sections = location.sections.all()
+    body_html = md.markdown(section.body) if section.body else ""
+    all_sections = location.sections()
 
     return render(request, "guide/section.html", {
         "location": location,

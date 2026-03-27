@@ -14,16 +14,18 @@
   {% for continent in continents %}
   <div class="continent-card">
     <h2><a href="{{ continent.get_absolute_url }}">{{ continent.name }}</a></h2>
-    {% if continent.children.count %}
+    {% with kids=continent.children %}
+    {% if kids %}
     <ul>
-      {% for child in continent.children.all|slice:":10" %}
+      {% for child in kids|slice:":10" %}
       <li><a href="{{ child.get_absolute_url }}">{{ child.name }}</a></li>
       {% endfor %}
     </ul>
-    {% if continent.children.count > 10 %}
-    <p class="more"><a href="{{ continent.get_absolute_url }}">All {{ continent.children.count }} destinations &rarr;</a></p>
+    {% if kids|length > 10 %}
+    <p class="more"><a href="{{ continent.get_absolute_url }}">All {{ kids|length }} destinations &rarr;</a></p>
     {% endif %}
     {% endif %}
+    {% endwith %}
   </div>
   {% endfor %}
 </div>

@@ -19,7 +19,9 @@ markdown==3.10.2
 python-dotenv==1.2.2
     # via uvicorn
 pyyaml==6.0.3
-    # via uvicorn
+    # via
+    #   -r requirements.in
+    #   uvicorn
 sqlparse==0.5.5
     # via django
 typing-extensions==4.15.0

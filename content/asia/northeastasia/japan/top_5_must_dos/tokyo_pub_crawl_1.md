@@ -1,0 +1,13 @@
+---
+title: "Tokyo Pub Crawl"
+type: poi
+url: "www.tokyopubcrawl.com"
+---
+
+One of the easiest and best ways to bar hop around Tokyo, while combining the feeling of safety and crazy fun at the same time. Its definitely a must do to get the full nightlife experience.
+
+
+
+url: [www.tokyopubcrawl.com](http://www.tokyopubcrawl.com)
+
+[back to Top 5 Must Do's](..)

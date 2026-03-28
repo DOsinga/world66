@@ -1,0 +1,6 @@
+---
+title: "People"
+type: section
+---
+
+**Population:** no indigenous inhabitants; notethere are seasonally staffed research stations; Summer (January) populationover 4 115 total; Argentina 207 Australia 268 Belgium 13 Brazil 80 Chile 256 China NA Ecuador NA Finland 11 France 78 Germany 32 Greenpeace 12 India 60 Italy 210 Japan 59 South Korea 14 Netherlands 10 NZ 264 Norway 23 Peru 39 Poland NA South Africa 79 Spain 43 Sweden 10 UK 116 Uruguay NA US 1 666 former USSR 565 (1989-90); Winter (July) populationover 1 046 total; Argentina 150 Australia 71 Brazil 12 Chile 73 China NA France 33 Germany 19 Greenpeace 5 India 1 Japan 38 South Korea 14 NZ 11 Poland NA South Africa 12 UK 69 Uruguay NA US 225 former USSR 313 (1989-90); Year-round stations42 total; Argentina 6 Australia 3 Brazil 1 Chile 3 China 2 Finland 1 France 1 Germany 1 India 1 Japan 2 South Korea 1 NZ 1 Poland 1 South Africa 3 UK 5 Uruguay 1 US 3 former USSR 6 (1990-91); Summer-only stationsover 38 total; Argentina 7 Australia 3 Chile 5 Germany 3 India 1 Italy 1 Japan 4 NZ 2 Norway 1 Peru 1 South Africa 1 Spain 1 Sweden 2 UK 1 US numerous former USSR 5 (1989-90); notethe disintegration of the former USSR has placed the status and future of its Antarctic facilities in doubt; stations may be subject to closings at any time because of ongoing economic difficulties

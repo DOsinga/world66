@@ -1,7 +1,0 @@
-# Books in Srinagar
-
-*Asia > Southasia > India > Jammuandkashmir > Srinagar > Books*
-
-SPEED NET CAFE
-R/O. CHEENI CHOWK ANANTNAG-192101
-(COME TO FEEL THE DIFFEREANCE U CAN'T SEE.)

@@ -1,0 +1,23 @@
+---
+title: "Made in Venezia"
+type: poi
+email: "play12345@gmail.com"
+type: "Antiques"
+url: "www.madeinvenice.it"
+latitude: 45.437356
+longitude: 12.327244
+---
+
+All official venetian websites: shopping, murrine, murano glass, venetian masks. Free website.
+
+type: Antiques
+
+
+
+
+
+url: [www.madeinvenice.it](http://www.madeinvenice.it)
+
+email: play12345@gmail.com
+
+[back to Shopping](..)

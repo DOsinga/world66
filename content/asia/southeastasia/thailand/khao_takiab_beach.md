@@ -1,0 +1,6 @@
+---
+title: "Khao Takiab Beach Bay"
+type: location
+---
+
+Khao Takiab Beach and Khao Takiab Bay are located in the Hua Hin area on the coast of the Gulf of Thailand. The surrounds offer beaches, elephant rides, boat trips, offshore fishing, horse riding, cycling and nearby Golf Courses. Ideal for those seeking a beach area that is quiet and relaxing and yet just minutes from the busy center of Hua Hin. At low tide during most of the day the beach is almost 100 metres wide and is several kms long. There are beach loungers and shades and also fern and palm trees along the beach. The water is clea and the waves are just gentle ripples. At the north end the rocky mountain of Khao Takiab is an amazing view. Ideal for jogging you also find people paying petanque and volley ball, even when busy at weekends there is plenty of room and beach space to find your own quiet area. Beach vendors to not bother anyone but are available for a cold drink, tropical fruit or food snacks. The area behind the beach has Bourganvillia lined quiet streets with vacation homes, small guesthouses, boutique accommodation. You will also find Elephant and also grazing cattle, this is a very nice area and under 10 minutes from the centre of Hua Hin.

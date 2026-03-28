@@ -1,7 +1,0 @@
-# Maletsunyane Falls, Lesotho
-
-*Africa > Lesotho > Maletsunyanefalls > Sights 2 > Maletsunyane Falls*
-
-MALETSUNYANE FALLS, LESOTHO 
-
-Lots of British Columbians love the waterfalls of Canada. The really beautiful waterfalls like Della Falls in British Columbia impress a lot of people. But Canada isn't the only place with really beautiful waterfalls. Lesotho, a rugged mountainous country of the Drakensburg Mtns has one that is really spectucular and high, Maletsunyane Falls. Maletsunyane Falls is 624 feet high making it the highest of the Lesothean waterfalls and the most beautiful. Its easy to think of Maletsunyane Falls as very thundering and raging. If you've ever been to Yosemite Nat'l Park in California, you might have seen Upper Yosemite Falls. When the water drops, it makes a big thundering sound. Maletsunyane Falls would for sure do that. It is on a river. Upper Yosemite Falls is on a creek and you can think of Maletsunyane Falls raging louder then a waterfall on a creek. It's fantastic. If you've been there, you would probably see the way the water just smoothly falls down the Maletsunyane River and then...down it goes 624 ft, three times the height of Niagara Falls. I'm not going to show you a picture but I am going to say that it is really beautiful. I have seen Brandywine Falls near Whistler, BC, which is gorgeous, and plunges down the same way Maletsunyane Falls does.

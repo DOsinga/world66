@@ -1,0 +1,13 @@
+---
+title: "Dolores Hidalgo"
+type: location
+---
+
+On the night of September 15, 1810, Miguel Hidalgo y Costillo, the 57-year-old parish priest of Dolores, and Ignacio Allende learned that their plans for insurrection against Spain had been discovered. They decided to act immediately and soon after dawn the next morning, September 16, Padre Hidalgo delivered his now famous Grito (Cry for Freedom) from the Parroquia of Dolores. This was the beginning of Mexico's struggle for freedom from Spanish rule which was to drag on until 1824 and take some 600,000 lives.
+
+Dolores of that time was a poor, largely Indian village, but the ragged army of Hidalgo and Allende marched from here to San Miguel, then to Celaya and Salamanca until finally, having grown to a force of some 20,000 men, they had their first real confrontation with royalist troops in Guanajuato.
+
+Hidalgo was captured after a final defeat in Guadalajara, then executed and beheaded on July 30, 1811. His head, along with those of Allende, Aldama and Jimenez, hung from one of the corners of the building in Guanajuato where that first battle had taken place. Today...As befits its place in the history of Mexico's fight for independence, visitors to the city are greeted at the outskirts by a colossal statue of the major heros of that fight. Today, Dolores Hidalgo is justly well known as a center for the design and fabrication of the popular Talavera ceramic pieces. Small factories and ceramic shops line the streets of Dolores Hidalgo. The ceramics industry of Dolores Hidalgo is yet another of the legacies left to his people by Padre Hidalgo, for it was he who started the tradition of making ceramics in this area. Other than its outstanding Talavera ceramics, there is one other thing for which Dolores Hidalgo is locally famous today - ice cream. Ice cream stands abound on all four corners of the main plaza and, in what seems to be a local tradition, each tries to outdo the other in their offerings of unusual flavors. Aside from the usual and more mundane flavors such as vanilla, chocolate, strawberry and pecan, how about something a bit less common, like avocado ice cream? No? Then try some corn ice cream. And if that doesn't appeal to you, how does fried pork skin ice cream strike you? Still no? Oh, maybe you're in the mood to imbibe at the same time as you eat your ice cream, then perhaps some tequila ice cream or, another popular fermented drink, pulque appeals to you. But the final word in unusual flavors, it would seem, must be shrimp ice cream. That's right, shrimp ice cream.
+
+*Change history*
+Orginal article by [memosma](/member/memosma) on 01 March 04

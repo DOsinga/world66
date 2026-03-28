@@ -1,9 +1,0 @@
-# Mt Elgon National Park
-
-*Africa > Kenya > Nationalparksandreserves > Mtelgonnationalpark*
-
-Mt. Elgon National Park is located on the Kenyan-Ugandan border. Mt Elgon is an extinct volcano. Its highest peak is Wagagai (4321 m), but it’s on the Ugandan side. The highest peak on the Kenyan side is Koitoboss. The main attraction of Mt Elgon is its spectacular caves in its slopes. These saline caverns are beautiful by themselves, and there’s a chance you could even see elephants inside them, getting their daily allowance of salt. The three caves open to tourists are called Kitum, Chepnyali, and Mackingeny.
-
-  You need a vehicle to enter the park. A ranger must accompany you on all hikes. Make sure to bring warm clothes, as it is quite cold at higher elevations, and it rains a lot on the mountain. The driest time to visit is from December through February, or August and September. Park entry is US$ 10 per day, and there’s a camping fee as well. There’s one lodge near the park, *Mt Elgon Lodge,* which is one km before the Chorlim Gate. Singles/Doubles here with full board run KSh 2750/4250.
-
-  Mt Elgon’s flora is incredible, and there are a few ways to experience Elgon’s beauty on foot. Most trekkers start from a town called Kimilili, 36 km south of Kitale on the road to Kisumu. From here get a matatu to Kapsakwany, then hike five km to Kaberua Forest Station. From here it’s another 20 km to Chepkitale Forest Station, which is abandoned. Seven km past this station is an ugly mountain hut. From this hut, it’s about a four hour walk to Lower Elgon Tarn, a small lake. From here you are close to Lower Elgon Peak, and around the crater rim lies Koitoboss peak and the Suam hot springs. Make sure to get a map, and follow the safety guidelines I have outlined in the Mt Kenya section.

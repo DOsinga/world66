@@ -1,0 +1,10 @@
+---
+title: "Ras shamra"
+type: location
+---
+
+We currently have no information about Ras shamra.
+
+If you do know any general information about Ras shamra, please [Edit this article].
+
+If you know any hotels in Ras shamra or restaurants in Ras shamra, please [[Add].](/destinations/addItemWizard?addwhere=asia/middleeast/syria/rasshamra)

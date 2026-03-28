@@ -1,0 +1,13 @@
+---
+title: "St. Nicolaaskerk"
+type: poi
+latitude: 52.376436
+longitude: 4.901165
+---
+
+The new church of St. Nicholas is among the better known of the ‘new’ Amsterdam churches. The tall and spacious building occupies a prominent place in the city centre, opposite the Central Station and is a rare example of the neo-Baroque style. Most ‘new’ Roman Catholic Churches, in Holland as well as in other European countries, were built in the neo-Gothic style promoted by Viollet-le-Duc in France, Pugin in England and Cuypers in Holland. Neo-Gothic architecture referred back to the heyday of medieval French Catholicism and its world-famous cathedrals. Therefore, it is all the more remarkable that the architects of the church of St. Nicholas based themselves largely on the international Baroque style.
+
+*Change history*
+Minor corrections by [giorgio](/member/giorgio) on 23 August 04
+
+-->

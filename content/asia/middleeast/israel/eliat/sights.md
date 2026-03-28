@@ -1,0 +1,17 @@
+---
+title: "Sights"
+type: section
+---
+
+The underwater observatory marine park, between Eilat and the Egyptian border.
+
+Snack bar and shops.
+
+*Change history*
+Orginal article by [Sir Malcolm](/member/sir_malcolm) on 06 January 05
+
+We currently have no Sights listed in Eilat.
+
+If you do know any Sights in Eilat, please [Add].
+
+-->

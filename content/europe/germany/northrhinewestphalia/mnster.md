@@ -1,0 +1,9 @@
+---
+title: "Munster"
+type: location
+---
+
+Münster (267.000 inhabitants) is an attractive city in the Münsterland (a flat green region with lots of charming little castles, great for cycling). If you arrive in Münster by train, don't be put off by the unattractive surroundings of the station, but move on to the city center. You would never guess that the center was almost completely destroyed in WW2 because it was rebuilt painstakingly, cobbled streets and all. You'll find lots of churches - most notably the impressive Dom with its treasury - , some interesting museums, the attractive city hall and (a short walk from the center) the palace (Schloss), which looks very nice from the outside. Don't bother to go in, though - these days, there are only functional rooms inside which are used for the university administration. With more than 40.000 students, the University of Münster is the third largest in Germany, and it's probably not a coincidence that Münster has a lively cultural scene - and a lot of nice bars and cafes. (However, if you get there on a Sunday, you might get a different impression, with all the shops closed, the students gone or asleep and hardly a sound can be heard except for the churchbells.) Most of the sights are in the center, within walking distance from each other and connected by shopping streets lined with nice shops and some excellent ice-cream parlours. In December, the center is pleasantly crowded because of the very popular christmas market (which actually consists of four small separate markets).
+
+*Change history*
+Orginal article by [Tonja Fabritz](/member/tonjafabritz) on 19 January 04

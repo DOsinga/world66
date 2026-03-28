@@ -1,0 +1,25 @@
+---
+title: "Lassithi plateau Travel Guide"
+type: location
+---
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+The Lassithi plateau is a large fertile plain in the NW part of Eastern Crete. People have lived here since Neolithic times (6000 B.C.)
+Soil fertility of the plateau is due to alluvial run-off, from times immemorial, when melting snow comes down from the surrounding mountains in spring.
+
+Vast and ingenious irrigation works were installed by the Venetian rulers in the early 15th century when they wanted to insure good harvests. During centuries, the plain was irrigated by white-sailed windmills, some 10.000 in all.
+
+Unfortunately (for travellers), in the last decennia of the 20th century, most if not all working windmills have been abandoned for the more efficient diesel and electrical pumps, the few remaining ones being relegated to signposting the many tavernas which line the main road that rings the plateau.
+
+It's astonishing, however, how many travel agencies still publish outdated pictures of the Lassithi plateau, crammed with white sails... don't believe them... those days are gone forever!
+
+#### Contributors
+
+May 03, 2005 change by [hollandtraveler](/member/hollandtraveler) (4 points)
+
+April 03, 2006 change by [giorgio](/member/giorgio)
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Sun 08:18

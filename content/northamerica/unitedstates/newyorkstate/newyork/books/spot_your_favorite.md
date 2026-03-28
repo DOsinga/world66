@@ -1,0 +1,13 @@
+---
+title: "Spot your favorite book in Gujarati at our catalogs"
+type: poi
+author: "Bappaditya Ghosh"
+---
+
+Service from RightBooks.In always put your satisfaction and benefits above everything else. We always kept ourselves busy in serving you better. We can't write books, but certainly can make sure that you get the quality stuffs. This has been the motto for RightBooks.In in it's business, and this time around, we decided to go language specific. In order to do that, we have chosen your tongue Gujarati as our staple segment, and a visit to www.rightbooks.in/Items.asp?cid=1&fc=Gujarati&pt=6 will bring you all the latest offerings that you always wished to have in your bookshelf. A click at www.rightbooks.in/Items.asp?cid=1&fc=Gujarati&pt=6 takes you to the genre of books you would simply love to have, all translated in Gujarati. If have knack for spirituality or interested to know the life story of the devoted spiritual personalities, or keen to practice Yoga in the right procedure, a visit to RightBooks.In will bring the books like Siksha Osho Ki Drashti Mein by Swami Anand Vairagya, Pranayam Rahasya, Yog Sadhna & Yog Chikitsa Rahasya by Swami Ramdev, Yog Se Aryogya Tak by yog guru Sunil Singh, translated in Gujarati right at your reading table. In this age of hardcore competitions, qualities like stress management, self-motivation always keeps you staying few steps ahead of the competition, and RightBooks.In has its offerings open with its purposeful book collections like You Can Win, Learn English In 30 Days Through Gujarati, Winners And Losers, Management Guru Bhagwan Shri Ram, Living with Honour (Gujarati), Aatmvishwas by Sirshree, Chinta Chchodo Sukh Se Jiyo (Hindi), Tips Of Success, Sunhare Kal Ki Aur and many more best selling books. RightBooks.In is concerned about your skill development process as well, and a click at www.rightbooks.in/Items.asp?cid=1&fc=Gujarati&pt=6 takes you to the galore of Dynamic Memory Methods, Dynamic Memory Internet & Email, GUJARATI-HINDI LEARNING COURSE (With CD), HINDI-GUJARATI LEARNING COURSE (With CD), SOLVE YOUR PROBLEMS - THE BIRBAL WAY, RAPIDEX COMPUTER COURSE (GUJARATI), Dynamic Memory Computer Course and many more, all at 10% discounted price. And finally, there is offer for your kids as well, and collections like Adventures Of Romeo & Friends, Hanuman, Roadside Romeo, Return Of Hanuman, Jumbo are the few of rich kid specific collections we have for you.
+
+
+
+author: Bappaditya Ghosh
+
+[back to Books](..)

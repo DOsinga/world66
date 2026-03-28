@@ -1,0 +1,6 @@
+---
+title: "Budget Travel Ideas in Kathmandu"
+type: section
+---
+
+Independent Trekking Guide in Nepal http://www.independenttrekguideinnepal.blogspot.com and My name is Krishna Adhikari. I am a register trekking guide in the http://www.trekshimalaya.com Nepalese Himalaya. http://www.adventurestrekking.com Before guide working several years as a porter, and becoming fluent in English I became a guide in 2001. I have spent the past ten years as a professional Trekking Guide in Nepal, I have been working 6 years in several company but now I am presently working as an independent guide. I was born in the West north of Nepal situated in Ganesh Himal which is well located of Nepal wilderness trekking region. I am a qualified guide with a government license. I obtain license in the year of 1998. I have been working in Nepalese Sustainable Eco Tourism for since begin my involving in this travel, tourism industry. Trekking, guiding experience for a range of clients from many diverse countries around the world. Travelers, trekkers hoping to climb high passes, peaks, I provide accommodation this demanding and gratifying adventure. My knowledge includes high adventure pass trekking, peak climbing like Island Peak, Mera Peak, Pisang Peak, more.

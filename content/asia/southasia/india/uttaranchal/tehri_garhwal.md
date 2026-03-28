@@ -1,0 +1,26 @@
+---
+title: "Tehri Garhwal Travel Guide"
+type: location
+---
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Lying on the southern slopes of outer Himalayas , Tehri Garhwal is on of the sacred hilly districts of Uttarakhand State . Before the creation of universe, Lord Brahma is said to have meditated on this sacred land. Muni-ki-Reti and Tapovan of the district are the places of penance for the ancient Rishis. Its hilly terrain and lack of easy communications have helped it to preserve its culture almost intact. Tehri and Garhwal are the two words combined for naming the district as Tehri Garhwal. While the prefix Tehri is the corrupted form of the word `Trihari` which signifies a place that washes away all the three types of sins, namely sins born out of thought (Mansa), word (Vacha) and deed (Karmana), the other part `Garh` means country fort. In fact during olden days possession of number of forts was considered as a significant measuring rod of the prosperity and power of their rulers. Prior to 888, the whole of the Garhwal region was divided into small `garhs` ruled by separate independent kings known as Rana, Rai or Thakur. It is said that the prince Kanakpal who hailed from Malwa visited Badrinath ji (presently in Chamoli district) where he met the then mightiest king Bhanu Pratap.
+
+King Bhanu Pratap was impressed with the prince and got his only daughter married to him and also handed over his kingdom. Gradually Kanakpal and his descendents extended their empire by conquering all the garhs. Thus up to 1803 i.e. for 915 years the whole of the Garhwal region remained under their control.
+
+During 19th century the most famous variour was Shri. Lal Singh Kaintura
+
+Mostly Kaintura's was very bravo & handling all tehri Garhwal but one week point was there. They was less temperd.
+
+During 1794-95 Garhwal was under the grip of severe famine and again in
+
+1883, the country was terribly shaken by an earthquake. Gorkhas had by then started invading this territory and heralded their influence over the region. The people of the region being already affected by natural calamities were in the deplorable condition and therefore could not resist Gorkhas invasion. On the other hand, Gorkhas whose several attempts for capturing the fort Langoor Garhi had earlier failed, were now in powerful position. In 1803, therefore, they again invaded Garhwal region when King Pradumn Shah was the ruler. King Pradumn Shah was killed in the battle in Dehra Dun but his only son (Sudarshan Shah was minor at that time) was cleverly saved by the trusted courtiers. With the victory of Gorkhas in this battle their dominion was established in Garhwal region. Later on their kingdom extended up to Kangara and they ruled
+
+over this region continuously for 12 years before they were thrown away from Kangara by Maharaja Ranjit Singh. On the other hand Sudarshan Shah could manage help from East India Company and got his kingdom freed from Gorkha rulers. The East India Company merged Kumaon, Dehra Dun and east Garhwal in the British Empire and the west Garhwal was given to Sudarshan Shah which was then known as Tehri Riyasat. King Sudarshan Shah established his capital at Tehri town and afterwards his successors Pratap Shah, Kirti Shah and Narendra Shah established their capital at Pratap Nagar, Kirti Nagar and Narendra Nagar respectively. Their dynasty ruled over this region from 1815 to 1949. During the Quit India Movement people of this region actively participated for the independence of the country. Ultimately when the country was declared independent in 1947, the inhabitants of Tehri Riyasat started their movement for getting themselves freed from the clutches of Maharaja. Due to the movement the situation became out of his control and was difficult for him to rule over the region. Consequently the 60th king of Pawar Vansh Manvendra Shah accepted the sovereignty of Indian Government. Thus in 1949 Tehri Riyasat was merged in Uttar Pradesh and was given the status of a new district. Being a scattered region it posed numerous problems for expediting development. Resultantly on 24th February 1960 the U.P. Government separated its’ one tehsil which was given status of a separate district named as Uttarkashi
+
+*Part or or all of this text stems from the original article at: http://tehri.nic.in/*
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Mon 18:19

@@ -1,0 +1,15 @@
+---
+title: "Shopping"
+type: section
+type: "Shopping centers and malls"
+---
+
+DEPARTMENTAL STORES
+
+### ALFAZAL SHOPING MART
+
+ALFAZAL MART IS THE LEADING DEPARTMENTAL STORE IN HEART OF PAKPATTAN.HERE YOU CAN PURCHASE EVERY SORT OF GROCERIES UNDER ONE ROOF.WE DEALS IN,
+
+1- GENERAL STORE
+
+type: Shopping centers and malls

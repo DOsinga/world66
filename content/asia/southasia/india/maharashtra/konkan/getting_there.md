@@ -1,0 +1,6 @@
+---
+title: "Getting There"
+type: section
+---
+
+The konkan region can be accessed from [M](/asia/southasia/india/bombay)umabi, [Pune](/asia/southasia/india/maharashtra/pune) and [Goa](/asia/southasia/india/goa). The Konkan region is now (since 1995) well connected with the rest of the country by rail. Trains run daily from Mumbai and Goa through this region to other parts of the country. There are also a large number of state-run (MSRTC) ST buses and private buses, which will take you to any part of the region. Private buses from [Pune](/asia/southasia/india/maharashtra/pune) & [Mumbai](/asia/southasia/india/bombay) will take you into this region with an overnight journey. Be careful about eating at the many unclean places, where these buses would stop for a late-night dinner and an early-morning breakfast.?Travelling by car is also an interesting experience. Make sure you are (or have) a good driver as the main highway that connects this region has a bend at almost every 500 meters (often every 50 meters in the ghat sections).

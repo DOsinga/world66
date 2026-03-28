@@ -1,0 +1,6 @@
+---
+title: "Bike Rental"
+type: poi
+---
+
+Rentabike 36b WATERPORT CIRCLE SHEPPARDS MARINA TEL 00 350 70420 FAX 00 350 73616 MOBILE 00 566 68000

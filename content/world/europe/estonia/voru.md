@@ -1,0 +1,10 @@
+---
+title: "Voru"
+type: location
+---
+
+We currently have no information about Voru.
+
+If you do know any general information about Voru, please [Edit this article].
+
+If you know any hotels in Voru or restaurants in Voru, please [[Add].](/destinations/addItemWizard?addwhere=europe/estonia/voru)

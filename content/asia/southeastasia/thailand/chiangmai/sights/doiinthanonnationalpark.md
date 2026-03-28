@@ -1,0 +1,9 @@
+---
+title: "Doi Inthanon National Park"
+type: poi
+type: "Daytrips"
+---
+
+The 1,005 - square - kilometre park covers Thailand's highest mountain (2,565 metres). The lovely Wachirathan, Siriphum and Mae Pan waterfalls share the mountain with Meo and Karen hilltribe settlements. Forest above 1,800 metres is covered with lichens and wild orchids.
+
+type: Daytrips

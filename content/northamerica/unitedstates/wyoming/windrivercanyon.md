@@ -1,0 +1,6 @@
+---
+title: "Wind River Canyon"
+type: location
+---
+
+Shoshoni, Wyoming is located near the center of the state, Which is located on the Wind River Indian Reservation. North of Shoshoni will take you up to Lake Boysen State Park a fairly large lake with clean beaches, camping, boating with great walleye fishing and up through the Wind River Canyon absolutely stunning scenery, The canyon is one of the oldest in the US. there are many many "huge" cliffs and rock that is dated from way back and is marked in places telling about the rock and how old it is and about it. Your eyes will be in heaven as you drive up through the Wind River Canyon on a paved winding road going through mountains "tunnels" on your way to Hot Springs State Park in Thermopolis. Thermopolis.. What can I say .. you will love it.. It is the home of the Largest hot springs in the world, Thermopolis has lodging available, as you visit the museums and relax in this beautiful country.. and don't forget if you like whitewater sports:-) Like I do.. do some white water rafting through the Wind River Canyon You won't regret it trust me .. you will see so much and feel so small compared to the huge cliffs that will surround you.

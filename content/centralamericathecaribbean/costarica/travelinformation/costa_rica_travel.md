@@ -1,0 +1,12 @@
+---
+title: "Costa Rica Travel Supplier Directory"
+type: location
+address: "6 de Diciembre y el Telegrafo, Edif. Garcia Ayala, 2do piso Suite 402"
+email: "editor@southamericatour.net"
+type: "Tourist information"
+url: "Costa Rica Travel Directory and Tour Supplier Index' rel='nofollow'>"
+---
+
+General information to help plan a better trip, country`s weather and what to pack currency, getting their, customs, visas & vaccinations, culture, wildlife and other tools to help prepare your vacation.
+
+type: Tourist information

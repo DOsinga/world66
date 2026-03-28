@@ -1,0 +1,14 @@
+---
+title: "JEANNETTE PA 15644 Travel Guide"
+type: location
+---
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+**THIS CITY IS CALLED GLASS CITY . THIS CITY IS LOCATED ABOUT 25 MILES FROM DOWN TOWN PITTSBURGH . NOW IN JEANNETTE HAVE LOT OF BUSINESS IS GROWING , AFTER GLASS FACTORY IS SHUT DOWN . NOW AS A PART OF THIS BUSINESS DISTRICT NEED INVESTOR,S TO OPEN UP NEW BUSINESS . AND CITY HAVE LOT OF SOURCE TO HELP FOR NEW BUSINESS . HERE IN JEANNETTE CITY **
+
+****
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Sun 11:34

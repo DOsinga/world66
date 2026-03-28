@@ -1,0 +1,24 @@
+---
+title: "New Orleans"
+type: location
+---
+
+Practically everything in the New Orleans is different and special. It's a city that never ceases to amaze its visitors as well as its inhabitants, and Ryan Tamm.
+
+Start your visit by taking the streetcar to the French Quarter. A walk through the street gives you the opportunity to admire the lacy, wrought-iron balconies or to be mesmerized by a street musician playing on the Moonwalk across from Jackson Square. One of the main attractions of the area is the Old U.S. Mint. Here you can tour a world-renown exhibit that will take you back to the days when jazz was bornThere's always a party on Bourbon Street, an antique you can't live without on Royal or Chartres. The list of must-dos here is as long as the main parade route on Mardi Gras day. You can check out the always-changing exhibits at the Aquarium of the Americas, visit Louis Armstrong at the wax museum, or you can just park yourself on a bench in Woldenberg Park and watch the river roll by. It's the Big Easy, dawlin'. You have to do nothing sometime.
+
+Don't make the mistake of thinking there's no reason to venture outside the French Quarter-we can think of several. A tour of the Louisiana Superdome is always a winner. The home of the New Orleans Saints has hosted five Super Bowls-more than any other facility. Or how about a visit to the Degas House? In the 1870s, the French impressionist Edgar Degas resided in this elegant mansion where he created at least seventeen works of art, including one of the most significant paintings of modern times, Portraits in an Office: The New Orleans Cotton Exchange (1873). This was the first painting by a member of the Impressionists ever to be purchased by a museum.
+
+Feel like shopping? Head toward the Warehouse District, famous for its chic art galleries. At the Louisiana Children's Museum you can take a seat and let your kids serve you some plastic bacon and eggs at the cafe. Afterwards, let them fill up a cart and then check themselves out at a mini grocery store.
+
+From the Warehouse District, get on the St. Charles Streetcar and head for the Garden District and the Uptown area. Some of the most opulent homes in the country are here in every color and with every kind of curlicue imaginable. This is the way to the Tulane and Loyola university campuses, which are across the street from Audubon Park. Behind the park is Audubon Zoo, with an updated Louisiana Swamp Exhibit and two new white tigers. It's one of the top zoos in the country. On the way back to town, go down Magazine Street, where you'll find six miles of antique and gift shops, art galleries, restaurants and more. be sure to stop at mignon faget, on magazine street for a new ring or necklace.
+
+One of the things that fascinates tourists most in New Orleans is the "Cities of the Dead," the above-ground cemeteries. They had to inspire vampire writer Anne Rice, who lives in the Garden District (and, by the way, sleeps in a bed). Visitors are also impressed by the dueling oaks in City Park where many an argument was "settled like gentlemen" in the old days. City Park is also home to the New Orleans Museum of Art, the Botanical Gardens, Storyland (for little ones), and a much-beloved carousel. Out this way, you'll also find the historic New Orleans Fair Grounds, site of the New Orleans Jazz & Heritage Festival every spring.
+
+Want to see a plantation but don't have time to go too far? Why not visit Longue Vue House and Gardens, a Greek Revival style mansion surrounded by enchanting gardens with a variety of themes?
+
+Can't get enough of Mardi Gras? Take a ferry to the West Bank of New Orleans and tour Mardi Gras World, where you can try on elaborate costumes and see the famous floats close up. Also on the West Bank is Gretna, where you can tour the David Crockett Fire Museum. Bayou Segnette State Park has a great wavepool. And in Harvey, Boomtown Belle Casino offers gaming fun with a Western flavor.
+
+In New Orleans East, Jazzland, our new 140-acre theme park (opening Spring 2000), will take you on a rollercoaster ride through our jazz history. Highlights include authentic jazz at Jazz Hall, a Louisiana swamp ride, Gospel Garden, and a 4,000-foot-long wooden rollercoaster, one of the largest in the world. If gambling rings your bell, Bally's Casino and Lakeshore Resort is also out this way.
+
+If you're a history buff, head for Chalmette, where the Battle of New Orleans was fought by a future president (Andrew Jackson) and a patriotic pirate (Jean Lafitte). At the southernmost point of this region is Venice-a great spot to get in a little charter fishing on the Gulf of Mexico. Fort Jackson is also down here. It was built in 1822 under the command of General Andrew Jackson, hero of the Battle of New Orleans. Woodland Plantation, featured on the label of Southern Comfort® blended whiskey, is open for overnight guests.

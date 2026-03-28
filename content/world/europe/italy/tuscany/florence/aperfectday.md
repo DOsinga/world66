@@ -1,0 +1,20 @@
+---
+title: "A perfect day"
+type: location
+---
+
+Upon arrival get a copy of Florence Concierge Information and Florence Today (Tourist Office) to see what’s happening during the week. Then walk to the Piazza del Duomo (Cathedral Square) to see the heart of Florence—the red white and green marble Duomo otherwise known as Santa Maria del Fiore. Before entering the cathedral take time to admire the bronze doors on the Baptistery (by Pisano and Ghiberti). 
+
+Once inside climb the 463 steps to the top of Brunelleschi’s magnificent cupola. Even by modern standards this massive dome built in the 1400s is an impressive engineering feat; from up high you’ll get a magnificent view of the city and countryside. As an added bonus the restorer’s scaffolding has finally come down in the cupola so that the glorious 16th-century frescoes that grace the walls can be clearly seen. You can also climb, to the top of the nearby campanile (bell tower) for a view of the Duomo. 
+
+Continue on to the ancient Piazza della Signoria (to see a copy of David—the original is in the Accademia Gallery). Afterward take the tour of the Palazzo Vecchio but avoid the area’s restaurants—compared with restaurants elsewhere in the city the food is overpriced and often mediocre. The most celebrated and important art museum in the city is the Uffizi Gallery which has reopened since it was damaged by a car bomb in 1993 (fortunately only three paintings were destroyed). The collection includes Italian and European masterworks from the 13th to the 18th century—paintings by Botticelli Hugo van der Goes Titian Rubens Caravaggio Raphael and Rembrandt among others. Like other major museums throughout Europe it is best seen in a series of shorter visits rather than all at once. 
+
+Just east of the Uffizi is the Church of Santa Croce which holds the graves of Galileo Machiavelli and Michelangelo. 
+
+Cross the Arno on the Ponte Vecchio (Old Bridge) which has spanned the river since 1345. The bridge still has shops and rooms jutting out over the sides a common feature in the Middle Ages although few examples remain today. End your walking tour on the other side of the river at the Piazzale Michelangelo; have an ice cream rest and enjoy the wonderful view of Florence. Other sites on that side of the Arno are the Boboli Gardens (with a magnificent view of the domes and tile rooftops across the river) and the Medicis’ Palazzo Pitti (with graceful Corinthian columns Roman statues and beautifully decorated rooms). 
+
+Leave some time just to stroll through the city. Allow at least half a day each to visit the Palatine Gallery (17th-century art) and the Accademia Gallery (magnificent sculptures). 
+
+On the way to the Accademia is the San Lorenzo district where you’ll find the boisterous Mercato Centrale with fresh produce and pasta surrounded by street stalls selling bags belts and shoes. The market sprawls all the way to the edge of the church of San Lorenzo and the Medici Chapels with their celebrated sculptures by Michelangelo. Ask for permission to enter the lavabo (washroom) located beneath the sacristy (only a few people can enter at a time) where there are stunning coal sketches on the walls done apparently by Michelangelo during his lunch breaks while working on the Medici tombs. 
+
+Also on the way to the Accademia is one of Florence’s lesser-known treasures: the Museo di San Marco the former Dominican convent that contains the starkly sublime paintings and frescoes of Fra Angelico the 15th-century friar whose work seems to anticipate centuries of artistic styles to follow. Also worthy of a visit in Florence are Santa Maria del Carmine (excellent frescoes in the Brancacci Chapel) the museum of the Bargello (an impressive colection of medieval and Renaissance sculpture including Donatello’s Marzocco—the lion symbol of Florence) Santa Maria Novella (beautiful exterior) and the Museum of the History of Science (which houses Galileo’s telescope compass and middle finger). There is excellent shopping for ultrachic clothing and shoes and designer goods along the Via Tornabuoni.

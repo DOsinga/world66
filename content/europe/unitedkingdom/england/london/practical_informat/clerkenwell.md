@@ -1,0 +1,20 @@
+---
+title: "Clerkenwell"
+type: poi
+type: "Quarter"
+---
+
+Clerkenwell (pronounced "clarkenwell") is a locality in the southermost part of the London Borough of Islington. Clerkenwell is also known as London's Little Italy due to its once extensive Italian population from the 1850's to the 1960's.
+
+**Contributors**
+February 15, 2006
+change
+by [giorgio](/member/giorgio)
+
+type: Quarter
+
+
+
+
+
+[back to Practical Information](..)

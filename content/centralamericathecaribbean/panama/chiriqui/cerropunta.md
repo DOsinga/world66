@@ -1,0 +1,8 @@
+---
+title: "Cerro Punta"
+type: location
+latitude: 8.851907
+longitude: -82.574914
+---
+
+***Hostal Cielito Sur Bed & Breakfast** is a quiet, private, country estate inn on 2*½* hectares at an altitude of 1,600 mts. Surrounded by trees, gardens, fruit & coffee orchards, the estate is a natural bird sanctuary nestled in the rustic landscape of the Chiriqui highlands. Enjoy our delicious breakfast in our dinning room by the brook and delight yourself with the many hummingbirds that visit our feeders. It’s conveniently located between the towns of Cerro Punta and Volcan, offering easy access to both the Volcan Baru National Park & the International Friendship Park. We offer a hot tub, a bohio for relaxing, ample lounging porch beside a stream with a small waterfall, a large living room with a fireplace and 4 spacious bedrooms which are named after the Indian tribes of Panama and are decorated with their respective handicrafts. Each bedroom has a private bathroom with a bathtub, hot water and a bathroom heater.*

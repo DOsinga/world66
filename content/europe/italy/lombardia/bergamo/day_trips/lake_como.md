@@ -1,0 +1,20 @@
+---
+title: "Lake Como"
+type: poi
+url: "www.lagodicomo.com"
+---
+
+Exhibitions, shows, markets and concerts are only some of the things to do and see at the Lake of Como. The town of Como is a business, art and tourist center for many events.
+
+**Contributors**
+June 10, 2005
+new
+by [karenbru](/member/karenbru) (1 point)
+
+
+
+
+
+url: [www.lagodicomo.com](http://www.lagodicomo.com/english/index.php)
+
+[back to Day Trips](..)

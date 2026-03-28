@@ -1,0 +1,9 @@
+---
+title: "Getting Around"
+type: section
+---
+
+There are a few things you should know about Tulum. There is Tulum, the ruins. Then there is Tulum, the pueblo. And finally, there is Tulum, the beach and the tiny tiny little town along the beach. The ruins of Tulum is what most people on tour buses visit. There are a lot of shops and restaurants there that cater to tourists, and a few nearby little hotels. The town of Tulum is south of the ruins along both sides of the highway that continues on south to Belize and points south. In the last year, this little town has begun to spruce itself up. You can now find lots of good restaurants, quite a bit of shopping, a bus station, grocery stores, hostels and hotels, real estate offices, banks and a police station there. The beach of Tulum can be found by taking a left (east) turn right before you go into town. Follow the signs to Boca Paila. The road goes toward the beach for about half a mile and dead ends at the shore. Turn left for the more "backpacker" style hostels and hotels (this is a gross generalization...) and turn right for everything else. The little tiny town along the beach is to the right. There you will find a few delicious restaurants, a few stores, lots of hotels, cabañas, palapas, etc. and of course, the beach!
+
+*Change history*
+Orginal article by [GypsyMoth](/member/gypsymoth) on 05 January 05

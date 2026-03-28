@@ -1,0 +1,27 @@
+---
+title: "Songkran"
+type: poi
+---
+
+Songkran
+The Thai New Year ( Thai : สงกรานต์ Songkran ) is celebrated every year on 13 April to 15 April . It is also celebrated in Laos (called Songkan in Lao), Cambodia , Myanmar (Burma where it is called Thingyan ), and by ethnic Dai in Yunnan , China . Sri Lanka also celebrates a similar festival called Sinhalese and Tamil New Year on the same dates.
+The date of the festival was originally set by astrological calculation, but it is now fixed . If these days fall on a weekend, the missed days off will be taken on the days immediately following (But Sri Lanka still uses an astrological calculation to set the dates and times based on the sun's positional change and those dates and times are used to start the festival events). Songkran falls in the hottest time of the year in Thailand , at the end of the dry season. Until 1888 the Thai New Year was the beginning of the year in Thailand ; thereafter 1 April was used until 1940 . 1 January is now the beginning of the year. The traditional Thai New Year has been a national holiday since then.
+** New year traditions **
+The most obvious celebration of Songkran is the throwing of water. People roam the streets with bowls of water, water guns or even a garden hose, and drench each other and passersby. This, however, is not the heart of this festival. Not many people, even the new generation of Thais, realize that Thai ancestors started this festival to teach their descendants some important things. This festival teaches people to come home to visit their parents, pay respect to them, and usually bring them a small gift. Mother and Father have given to their children so much, and this is the time that children show them that they recognize their parents' favor. People also visit their older neighbors to keep the good relationships and to pay respect to the elders around the neighborhood. For these reasons Songkran days are also considered the family days and the elderly days.
+People go to a wat to pray and give food to monks. They also clean Buddha images in temples with water and gentle Thai perfume ( น้ำอบไทย ), as it is believed that this will bring good luck and prosperity for the New Year. In many cities, such as Chiang Mai , the Buddha statues from all of the wats in the city are paraded through the streets so that people can wash them as they pass by. People carry handfuls of sand to their temple to in order to recompense the dirt that they carry away on their feet during the rest of the year. The sand is then piled into large, tiered piles and decorated with colorful flags. Later in the day, people also do community services. Going to wat and doing community service teach people to give, the most basic way to happiness in Buddhism.
+Some people make New Year resolutions - to refrain from bad behaviour and to do more good things. Songkran is a time for cleaning and renewal. Many Thais take this opportunity to give their home a thorough cleaning.
+The throwing water part was originated as a way to pay respect to people, by pouring a small amount of lustral water on other people’s hands as a sign of respect. The youths also do it in a more fun way. They splash others with water to relieve the heat, since April is the hottest month in Thailand (temperatures can rise to over 100°F or 40°C on some days). This has changed to water fights and splashing water to people on vehicles, a hallmark of Songkran as tourists know, as Thais assimilate more western cultures and technologies.
+
+The use of plaster is also very common having originated in the plaster used by monks to mark blessings
+Nowadays, the emphasis is placed on fun and water-throwing rather than on the festival's spiritual and religious aspects, which sometimes prompts complaints from traditionalists. In recent years there have been calls to moderate the festival as there are many road accidents and injuries attributed to some extreme behavior - water being thrown in the faces of travelling motorcyclists and elephant riding elders.
+** Astrological calculation **
+Even though the traditional calendar of Thailand like most of Southeast Asia uses a lunisolar calendar , the date of the new year was calculated on a purely solar basis. The term Songkran comes from Sanskrit "Sankranta" and means "a move or change" - in this case the move of the sun into the Aries zodiac . Originally this happened at the vernal equinox , but, as the Thai astrology did not know about precession , the date moved from March to April.
+There is a similar named Indian Festival called as Sankrant or Makar Sankranti [1] , celebrated on 14 January every year. Songkran as such has similarity to Indian festival of Holi.
+** Greetings **
+The traditional greeting is " สวัสดีปีใหม่ " (sa-wat-dee bee mai), basically "Happy New Year". "Sawatdee" = hello or good bye (Romanized spellings may vary, i.e. "sawadee" or "sawasdee"). "Bee" = year. "Mai" = new. There are other greetings that wish for health or prosperity.
+
+
+
+
+
+[back to Festivals](..)

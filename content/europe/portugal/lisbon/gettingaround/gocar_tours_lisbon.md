@@ -1,0 +1,44 @@
+---
+title: "Gocar Tours Lisbon"
+type: poi
+address: "www.gocartours.pt"
+email: "lisbon@gocartours.com"
+phone: "+351210965030"
+url: "www.gocartours.pt"
+---
+
+GoCar is an entirely new way to explore a city. These nifty yellow
+convertibles talk to you and take you on a city tour you'll never
+forget. The advanced navigational capabilities of the GPS deliver an
+informative tour, high-lighting specific locations throughout Lisbon as
+you drive. Just follow the friendly audio directions and relax.
+Unlike
+a traditional tour GoCar gives you complete autonomy over where, what
+and in what order you see sights and also how long you spend at any
+given point. The cars have a personality and a sense of humor, telling
+the stories that bring a city to life while guiding the way with clear
+driving directions.The GoCar takes you to spectacular places few
+visitors get to see. It's like having a local show you around and this
+little car can go where the tour buses can't. Hop into a GoCar and let
+this little yellow car take you on a guided tour of the city. Our Tours
+are available in English,French,German, Spanish and Portuguese.
+
+Come
+discover why Time Magazine considered us has one of " the most amazing
+inventions of the year" and why the Portuguese Institute of Tourism
+sponsors Gocar Tours.
+You will have pure fun while discovering all the corners that bring Lisbon to life.
+
+Gocar Tours is a worldwide awarded Carbon Neutral company from March 2011 until March 2012.
+
+
+
+tel: +351210965030
+
+url: [www.gocartours.pt](http://www.gocartours.pt)
+
+address: www.gocartours.pt
+
+email: lisbon@gocartours.com
+
+[back to Getting Around](..)

@@ -1,0 +1,531 @@
+---
+title: "When to Go in Ukraine"
+type: section
+---
+
+@font-face
+font-family: "Times";
+@font-face
+font-family: "ＭＳ 明朝";
+@font-face
+font-family: "Cambria Math";
+@font-face
+font-family: "Cambria";
+p.MsoNormal, li.MsoNormal, div.MsoNormal margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Cambria; h2 margin-right: 0cm; margin-left: 0cm; font-size: 18pt; font-family: Times; font-weight: bold; p margin-right: 0cm; margin-left: 0cm; font-size: 10pt; font-family: Times; .MsoChpDefault font-family: Cambria; div.WordSection1 page: WordSection1;
+
+**Travel Information About Lviv www.lviv.travel **
+
+This will be the second time that St. Nicholas brings “**Half Price Weekend
+in Lviv”** to her citizens and guests. The 50% discount on a range of
+services is a present that the tourist industry of Lviv is ready to offer from
+the 17th-19th of December, 2010 (this includes accommodation, food services,
+excursion services, visits to museums and leisure activities).
+
+More information about the “Half Price Weekend in Lviv”
+project is available in mass-media, internet news sources, and airline
+carriers. Photos and a list of discounted services and participants can be found
+at the following websites: www.lviv.travel, www.visitlviv.net and
+www.city-adm.lviv.ua.
+
+The first ones to bring you this gift from St. Nicholas are:
+
+Hotels: Lion's Castle, Dnister, Vintage, Leopolis, Hetman, Eurohotel, Sykhiv,
+Misterhostel, Citadel Inn Hotel and Resort
+
+Tourist Agencies: Dana K, Chudo Tour, Kyy Avia West, Mandry Plus, Vsesvit,
+Halitsiya-Tour, Halintour, Riturnel', Tango Travel, Krylos Kom
+(vidviday.com.ua), Inlviv, TurdeLviv.
+
+Additional benefits: “Yellow & Blue” Clothing Shop by Ukrainian
+Designers Saint Nicholas in Ukraine prepares pleasant surprises, not only for
+children but for adult participants of the festival.
+
+ On this page. you can see the institutions that give the feast day of
+St. Nicholas and to provide a great 50% discount. Not only tourist but
+residents of the city can also use this gift.
+
+Give yourself a gift: Come to Lviv!
+
+**Hotels **
+
+** 1. Lion's Castle **
+
+ Contact**:**Lviv, Glinky street, 7 (side street. Gvardiyska)  tel. +38
+(050) 3734295 Fax: +38 (032) 2378251  info@lioncastle.lviv.ua,
+www.lioncastlehotel.com  Accommodation: 50% discount on rooms in hotels of all
+categories of Lion's Castle.   Special menu: Green hills Park café: Cesar salad
+with chicken 150g - 17.5 UAH (2.20 USD), Farfale pesto sauce 250g -17.50 UAH
+(2.20 USD), with Penny pomidorovym Sauce 300g – 15.00 UAH (1.89 USD), with
+Spaghetti Bolognese Sauce 300g - 20 UAH (2.52 USD), with chicken broth 200g - 9
+UAH (1.13 USD), coffee - 4 UAH (0.5 USD), Tea – 7.5 UAH (0.94 USD),
+banana-apple pie 100g - 5 UAH (0.63 USD), vodka World Noble 50g - 5 UAH (0.63
+USD) (prices include 50% discount)
+
+ 2. Dnister Contact: Lviv, Mateyka st, 6  tel. +38 (032) 2974323, tel. / fax:
++38 (032) 2971017  reservation@dnister.lviv.ua
+
+ 3. Vintage Boutique Hotel  Contact: Lviv, Staroyevreyska st, 25-27  tel. +38
+(032) 235-68-34, +38 (032) 235-70-24  info@vintagehotel.com.ua
+  www.vintagehotel.com.ua  Accommodation: from 17th to 19th of December (2
+nights for half price)
+
+ 4. Leopolis Contact: 79008 Lviv, Theatral'na st, 16  tel. +38 (032) 2959500, +38
+(032) 2959503, fax + 38 (032) 2959599  sales@leopolishotel.com,
+hotel@leopolishotel.com  Accommodation: 19th, 20th and 21st of December
+(3 nights for half price)  Special meals: Breakfast Buffet
+
+**
+
+5. Getman**
+
+ Contact: Lviv,V.Velykoho st, 50 tel. 38 (032) 2399090 hetman.reservation @
+rambler.ru Accommodation: Accommodation in double rooms at half price. Special
+meals: Breakfast, lunch and dinner.
+
+ 6. Misterhostel Contact: Lviv,Bankivs’ka st, 5 tel. / Fax: 38 (032) 2720716,
+38 (067) 6708234 misterhostel@gmail.com,
+www.misterhostellviv.com Accommodation: 2 x double room on the floor – 60
+UAH/adult (7.55 USD). 3m Double room on the floor - 55 UAH/adult (6.92 USD). 4x
+double room on the floor - 50 UAH/adult (6.29 USD). 6ty bed room on the floor -
+45 UAH/adult (5.66 USD). 2x double room with facilities in the room - 75
+UAH/adult (9.43 USD). 3m Double room with amenities in the room - 65 UAH/adult
+(8.18 USD). 4x double room with facilities in the room - 60 UAH/adult (7.55
+USD). Others: kitchen with microwave, kettle, crockery, TV, refrigerator,
+computer, Internet, Wi-Fi, iron, ironing board. Bedclothes, towels as needed
+
+**7. Eurohotel  **
+
+Contact: 79005, Lviv,Tershakovciv st, 6 A
+
+tel. +38 (032) 2757214, 242 31 601 info@eurohotel.lviv.ua;
+www.eurohotel.lviv.ua
+
+Accommodation: 10 rooms Superior, price 350 UAH/day (44.03 USD).  
+
+8.Hotel “Sykhiv”
+
+Contact: 14 Morozna St. Lviv, 79066
+
+tel. +38 (032) 232-5015; +38 (032) 232-5005
+
+info@hotelsykhiv.com; www.hotelsykhiv.com
+
+Available accommodations: 30 deluxe and standard rooms, with prices from 160
+UAH to 190 UAH per night for standard rooms, and 425 UAH for deluxe rooms.
+
+**9.Citadel Inn Hotel & Resort**
+
+Contscts:: Lviv, 11 Hrabovskoho St. , вул. Грабовського,11
+
+tel:. +38 (032) 2957090, fax +38 (032)29590000
+
+resrvation@citadel-inn.com.ua; www.citadel-inn.com.ua
+
+Accomodation: 18th th , 19th and 20th of December (3 nights) грудня
+(3 ночі)MealsBreakfast “A-LA-CARTE”
+
+Other:Sauna- 50% off. — 50%.
+
+**
+
+10.NCP, Ecocollege **
+
+Contacts: Lviv, 7 Yana Rainisa St.
+
+Tel. +38 (032)2422646
+
+eklnau.ucoz.ru; wikgwo@bigmir.net
+
+Accommodation: Rooms in the dormitory of the college — 25 UAH per person.
+(Without a discount it's 50 UAH per person)
+
+ **Travel Agencies **
+
+** 1. Dana - K  **
+
+Contact: Lviv, Svobody avenue, 41  tel. +38 (032) 242-15-51, phone / fax +38
+(032) 225-58-97  svoboda-dana@mail.lviv.ua
+
+** 2. KY Palace West **
+
+ Contact: Lviv, Galycka square, 14  tel. +38 (032) 2975373
+ kawest@mail.lviv.ua, www.kawest.com.ua  Tours: All tours for half price
+
+** 3. Mandry Plus**
+
+ Contacts: 79014, Lviv, Muchna st, 47 / 4  Tours: All tours for half price
+  4. Vsesvit Contact: Lviv, F.Lista st, 3 / 3  tel. +38 (032) 297-05-68, +38
+(032) 297-15-58  mira@wseswit.lviv.ua, www.wseswit.lviv.ua  Travel route:
+18,12, 19.12 at 11:00
+
+Tour of "Old Lviv" (3 hours). – 20 UAH/adult (2.52 USD) Introduction
+to the history and architectural character of the city. Overview of the most
+interesting sights - old buildings, cathedrals, parks, fortifications, etc.
+Visit the “Vysokyy Zamok” and get the opportunity to see the city with a bird’s
+eye view! The passage of a unique medieval part of town, listed in the UNESCO
+World Heritage List: Rynok Square, Latin Cathedral, Boim Chapel, Kornyakta
+bell, Dominican Cathedral ... Exciting stories about famous people who lived
+and stayed in the Lion City, and created history. Visit unique places of the
+ancient city – the Italian and Armenian courts. Climbing the 65-meter Lviv city
+hall with a panoramic overview of downtown. Lviv legends, fables and historic
+curiosities. Architectural kaleidoscope: Gothic, Renaissance, Baroque,
+Classicism, Empire psevdostyli, art nouveau, eklevtyka ... Lviv var'yaty and
+cafes. And much more! During the tour you will see and hear about all the most
+... most ... most ... in. For those who are first time guests to the city, this
+tour will be an excellent introduction to the city, but even if you've been in
+our capital of Galicia, you may still discover a lot.  18.12 at 14:00
+
+Adventure "Fortification of the ancient city" (3 hours) – 20
+UAH/adult(2.52 USD) This tour offers the most complete information about the
+defensive system of the medieval city: the city walls, Vysokyy and Nyznkyy
+castles, towers, moats, ramparts, gates, underground tunnels ... You will see
+the remains of defensive structures, learn about their history, the siege and
+assaults on city, and the heroic defense of the city from the numerous enemies.
+Adventure introduces not only the fortifications of downtown and nearby
+monasteries that were part of the defense system of the city. You hear
+the story of the fraternity Rifle - a kind of “school of chivalry” in the
+medieval Lviv, which prepared the townspeople to defend the city.  18.12 at
+15:00 Tour “Lviv Austrian” (2 hours) – 15 UAH/adult (1.89 USD)  Walking tour of
+the Austrian quarter of the city: Prospectus Svobody, University of Iv. Franko,
+St.Yuriy Cathedral - seat of the Ukrainian Greek Catholic Church, National
+University Lviv Polytechnic, ensemble streets of Stepan Bandera and Kopernyka
+st, : Memo revival St. Lazarus, Citadel’na mountain, museum of the book
+"Mermaid Dnistrova", Lviv Scientific Library of Mr. Stefanyk, a
+modern art center of the city: art gallery, Art Palace, Palace of
+Potockyy.  18.12 at 18:00
+
+Adventure Lions mystical (2 hours) - 15 UAH/adult (1.89 USD)  Adventure is a
+novelty in the tourism market in Lviv! Tourists will learn about Lviv’s
+mysteries from ancient times to present day. Stories about ghosts, alchemists,
+vampires ... Visit the underground church of the Jesuit monk ghost or the
+Dominican church and the underground Pharmacy museum where you will visit the
+room of the eerie alchemist. Unsolved mysteries of the ancient city, suicide,
+and legends – all mystically themed tours of Lviv!  19.12 at 15:00 Adventure
+"Lviv cemetery" (2 hours) - 15 UAH/adult (1.89 USD)  The open air
+museum. Visit the oldest cemetery in Europe: Weeping Madonna, Franko’s Grave,
+Shashkevych, Ivasiuk, Krushelnytska, graves of the rebels of 1862, Orlyat,
+Sichovyh Strilciv and participants of the second St. War.  19.12 at 15:00 Tour
+“Lviv - City of Coffee” (2 hours) - 15 UAH/adult (1.89 USD)  During the tour,
+you will learn about the history of coffee consumption, its way to Europe and
+to the city. You will hear stories about the struggle of coffee in medieval
+Europe and Asia, its causes and consequences and a lot of different information
+about this popular drink and all that it is connected to. The first coffee houses
+in Europe and in Lviv. Traditions and old customers in Lviv’s coffee houses.
+Stories and funny incidents. Types of coffee and how to use them ... We welcome
+all Coffee-maniacs and supporters of this popular drink!  Each excursion
+participant
+
+will receive a free city card
+
+**5. Galicia TOUR**
+
+ Contact: Lviv, Sichovyh Stril'civ st 4, apt 23  tel. +38 (032) 2425474,
+tel. +38 (032) 248701  office@galicia-tour.lviv.ua,
+http://www.galicia-tour.lviv.ua  We offer two-day tours of collective "Oh,
+someone who loves St. Nicholas?"  Tour Dates: 18-19.12.2010  The tour
+program consists of the following:  Day 1: Arrive to Lviv, self check-in at
+hotel 10.00 - meet your guide at the Opera House, tour of the medieval streets
+of the city (3.30 hrs.) Excursion to the National Museum of A. Sheptytskoho. An
+overview of the Life and work St. Nicholas exhibition will enable you to learn
+more about the wonders and endless love and good works of St. Nicholas. Free
+time for walking around the city, visiting the Winter Fair.  Day 2: 10.00 -
+Tour of "City with the aroma of coffee" (1.30 hrs.), Visit the Lviv
+Historical Museum, the Historical Treasures exhibition, free time. Optional
+visit to the Organ Hall, theatres, museums of our city.  The tour:  550 * UAH.
+- 50% = 275 UAH (35 USD). Children under 12 years ext. place 150 UAH (18.87
+USD) 650 ** UAH -50% = 325UAH (40.88 USD)!  Children under 12 years ext. place
+200 UAH (25.16 USD)! Included:  1. Accommodation  2. Excursions  Not included:
+ 1. Admission to the program. 2. Insurance. 3. Food. 4. Personal
+expenses. Other: we also offer a variety of themed tours Lviv, Lviv tours in
+the Carpathians and Transcarpathian, organization corporative and other
+celebrations and more.
+
+**6. Galintur **
+
+Contact: Lviv, Oleny Stepanivny st, 2 tel. + 380987114557, fax 032 233 1934
+2009 galintour@mail.lviv.ua; www.galintour.lviv.ua Walking Tour
+"streets" - duration 2 hours. Defense building, monument of Danilo
+Galician, Bernardine monastery, Rynok Square, "black store”, Kornyakta
+house with the Italian yard, Armenian quarter, cultural and artistic center
+"Dzyga", City Hall (Ratusha), the pharmacy museum, Assumption Church,
+Boim Chapel, Churches: Cathedral, Dominican, the Opera House. Guided tour per
+person: 40UAH (5.03 USD). , during the action 20UAH (2.52 USD). Excursions are
+offered to: "Vysokyy Zamok", “Lychakiv cemetery“, " Davnoruskyy
+Lviv"," “Austrian Lviv”.
+
+**
+
+ 7. RITURNEL **
+
+Contact: Lviv, Vodoginna st, 2, apt. 101 tel. 0322422826, fax.
+0322422827 riturnet-info@ukr.net; www.riturnel.lviv.ua Travel route: "Little
+Paris for two", "City with a taste of coffee", "Beer Tour
+to the city", "Lviv for children" ... If it rains in Lviv
+"," Lion’s Golden Horseshoe”.
+
+**
+
+8. Tango Travel **
+
+Contact: 79 008 Lviv, Jaroslava Osmomysla square, 1 apt. 6 tel. 0322367563,
+380676763217, fax 0322367565 office@tangotravel.com.ua;
+http://tangotravel.com.ua Travel route: special 2 day tour called “With St.
+Nicholas to the Lviv”. 1 day in Lviv. Meeting tourists representative of the
+company Tango Travel. Transfer to hotel accommodation (complies with the rules
+of the hotel). 10:00 - Tour of Medieval Lviv. Lviv - the city that is at the
+crossroads of trade routes and geographical areas, which makes it unique. The
+city will never be on the sidelines of history, it was the center of the strategic
+plans of aggression authorities of different times and different peoples. Each
+left behind a monument. Tour departs the oldest part of town that survived to
+the present day: the Opera House - one of the most beautiful in Europe, Jesuit
+Church, Cathedral, Rynok Square, Assumption complex, Dominican Church, Pharmacy
+Museum (optional), and the Armenian Cathedral Square. Galician Square, square
+of A. Mickevych. 15.00 - Visit the Museum of Folk Architecture and Life
+"Shevchenkivskyy Grove" - ethno-park in Lviv, which represents life
+in Western Ukraine. Visiting the museum, you will become familiar with the
+architectural features of different construction zones in Western Ukraine. The
+museum is a residential building, household, wooden churches (some force), smithy,
+school, sawmill, fulling, water mill and windmill. Place to sleep Day 2
+Breakfast. Check out of room (things remain at a storage site). Free time.
+Recommended tour: the Golden “Horseshoe of Lviv” (150UAH, 18.87 USD). The
+territory of the Lviv region has always belonged to princes and noble families
+who built here with vigor their castles and family estates. During this tour,
+we offer an unforgettable journey to the castles of the Lviv region, which have
+survived to this day. “Pidgoretskyy Castle” was built in the 17th century led
+by architect Andrea del Aqua at the direction of the crown hetman Stanislav
+Konetspolskyy. It is one of Europe's best samples of Renaissance palace with
+fortified a bastion. Its decoration is also an Italian park and a family chapel
+“Geshovkyy”. “Oleskyy castle”- an eminent monument of architecture and history
+of the XIII-XVIII centuries. The history of the castle is extremely versatile,
+because at different times its owners fought different ideas and the castle
+remained a silent witness to all these events. “Zolochevskyy Castle” entrance
+tower, the Chinese Palace, and a large residential palace create a Renaissance
+ensemble that at various times was a fortress, royal residence, Mansion,
+prison, and educational institution. So the legends of the castle are lost.
+This tour will take you through the Middle Ages, royal charm atmosphere points,
+the king's house and castle walls. Farewell from Lviv. Transfer to the
+station. The price includes: * Meeting tourists’ representative of the Tango
+Travel company  * Tour escort * Tour: “Shevchenkivskyy Grove”, “Medieval
+Lviv” * Breakfast * Transfers * Gift for St. Nicholas Day from “Tango Travel”
+agency. * Hotel accommodation. Not included: * Personal expenses * Attendant *
+Tickets * Travel by public transport The program is conducted with a minimum of
+2 persons, price 400 UAH (50.31 USD) per person.
+
+**9. Krylos-Com**
+
+ Contacts: Lions Chornovil Ave ,7 (Hotel “Lviv”), 3 floor, apt 321. phone /
+fax (032) - 260-04-10, vidviday.com.ua @ gmail.com, www.vidviday.com.ua Travel
+route: Tour "Meeting Lviv" Duration: 3 hours. Tour days: Friday,
+December 17 and Saturday, December 18. Cost: 20 UAH (2.52 USD) per
+person. Route: Monument of King Danylo, Bernardine monastery, Hlynyanska Tower,
+City Arsenal, Powder Tower, Assumption Church, the Dominican church, “House of
+seasons”, Armenian Church, Rynok Square, Latin Cathedral, Boim Chapel, Svobody
+Avenue, the monument of Adam Mickevych, the monument of Taras Shevchenko, Opera
+House. Cost includes sightseeing tours. Advanced tickets are paid at the
+Armenian Cathedral Latin Cathedral and Boim Chapel. Tour “Lviv
+necropolis" Duration: 2 hrs. Promotional days: Friday, December 17 and
+Saturday, December 18. Cost: 15 UAH (1.98 USD) per person. During the tour, you
+can visit the Cemetery and see its most famous burial. Cost includes
+sightseeing tours. Advanced tickets are paid to the Cemetery. Tour "Golden
+Horseshoe" Duration: 8 hours (10:00-18:00). Promotion day: Sunday,
+December 19. Cost: 75 UAH (9.43 USD) per person.  During the tour you can see
+the three best castles of Ukraine: Oleskyy, Pidgoretskyy, Zolochevskyy. Price
+includes: transportation by comfortable bus, escort tour-guide, excursions to
+museums. Additional costs: entrance tickets to museums and meals.  Other: Each
+participant will receive a tour map of the "Tourist Region" of the
+200 natural and historic attractions of the region.
+
+** 10. INLVIV **
+
+Contact: Lviv, Brothers Rohatyntsiv st 30 apt 1,
+
+tel. / fax: 38 (032) 235763
+
+contact@inlviv.com; www.inlviv.info
+
+tours: city tours Ukrainian (50 UAH/hour) (6.29 USD/hour)
+
+German (100UAH/hour) (12.58 USD/hour)
+
+Russian (50UAH/hour) (6.29 USD/hour) languages by prior booking.
+
+Accommodation: rent (the second day at full cost)
+
+Other: transfers from airport / train station (45/55 UAH,(5.66/6.92 USD)
+depending on time)
+
+**11.TourdeLviv**
+
+Contact: Office 805, 63 Chornovola ave. (Prospect), Lviv
+
+tel. +38(032) 242-4303, 0979534502, fax (032) 244-5444
+
+mariya_tourdelviv@ua.fm, www.tourdelviv.lviv.ua
+
+The tourist route: Opera House – the Shevchenko Statue –Jesuit Church - the
+ruins of the hospital of the Holy spirit – the Horseshoe statue – the Entrance
+to the Old City: Rynok Square – the Latin Cathedral (discovering from the
+inside) – The Chapel of the Boim Family - coming back to Rynok Square – the
+City Tower (a chance to climb up a Tower) – The Black House (Chorna
+Kam'janytsja) – the Italian Yard – the Pharmacy Museum – the beauty of
+Armenian block architecture – the Armenian Church (discovering from the inside)
+– the House of Four Seasons – the Dominican Church (discovering from the
+inside) – the Dormition Church ensemble – the Bernardine Church – the Soborna
+Square – the Statue of King Dalyno.
+
+Duration: 3 hours
+
+Price: 30 UAH per person – 50% OFF = 15 UAH per person
+
+Timetable:
+
+18.12 – starts at 11:00 A.M.
+
+19.12 – starts at 11:00 A.M
+
+18.12.2010 – Out-of-city excursion “Following the Paths of Polish Kings” 50%
+OFF
+
+The trip to the Royal Zhovkva (the most ideal Renaissance town with its Żółkiew
+Castle, fortification, unique murals in the Vasilian church, the Jewish
+Synagogue, the former Dominican Church) and Krekhivskyi Monestery that sits in
+the midst of the beautiful landscape of the Roztochja National Park. In the
+city of Krekhov, we will also visit the holy water spring, so don't forget to
+bring along some empty containers for water. If we feel like we are able to
+continue our journeys, we will move on to the secluded cave monastery, where
+you will get a chance to pray for the health and happiness of your family
+and friends in the church that's hidden in the stone of a cave.
+
+Our royal path will lay through the Kulykiv village – the birthplace and
+homeland for the famous Ukrainain actor Bohdan Stupka.
+
+Price – 120 UAH per person- 50% = 60 UAH per person
+
+**12. Chudo Tur (Miracle Tour) **
+
+  Contact: 79008 Lviv, Rynok square, 7  tel.
++38 (032) 2367096, +38 (066) 9252384  dz.haliuk@gmail.com,; www.chudotour.com
+ Travel route: The Miracle of train trips to 50% off
+
+**
+
+13. Zakhid Show , 4REST Apartments**
+
+Contacts: Lviv, office 5, 1/3 Svobody Ave,
+
+tel:. +38(032) 2615097, fax +38(032) 2614197
+
+westshow@mail.lviv.ua, www.travel.lviv.ua
+
+We offer 5 economy class rooms for only 200 UAH per night!
+
+**
+
+14. Sonata**
+
+Contacts: Lviv, office 2, 62 Kopernika St.
+
+tel/fax +38(032)244-56-85; +38(032)244-56-86
+
+lviv@sonata.org.ua; sonata.lviv@gmail.com
+
+Our offer: One day trip to Lviv
+
+Day 1.
+
+Arrival. A guided tour in a medieval Lviv by foot (visiting Rynok Square with a
+chance to climb up a City Hall Tower, pharmacy-museum, the beauty of Armenian
+block architecture, the House of Four Seasons, the Italian Yard, the
+Dominican Church, The Boim Chapel, the Bernardine Church, The Jesuit
+Church, the Latin Cathedral, T. Shevchenko monument. Lunch (for additional
+price)
+
+Free time. If desired, more excursions can be offered. Departure.
+
+The price covers: excursions;
+
+Additional expenses: museum entrance tickets; personal expenses.
+
+Price for 1 person:
+
+if the the group size is: 10+1 – 20 UAH
+
+20+1 - 10 UAH
+
+30+2 -7 UAH
+
+40+2 - 5 UAH
+
+A Two-day stay in Lviv:
+
+Day 1.
+
+Arrival and transfer to the hotel. Check-in in the hotel. A guided tour in a
+medieval Lviv by foot (visiting Rynok Square with an opportunity to climb up a
+City Hall Tower, pharmacy-museum, the beauty of Armenian block architecture,
+the House of Four Seasons, the Italian Yard, the Dominican Church, The
+Boim Chapel, the Bernardine Church, The Jesuit Church, the Latin Cathedral, T.
+Shevchenko monument. Lunch. Free time.
+
+(On your choice: trip to Waterpark, to Vernisazh (the souvenir and art market)
+where you can purchase souvenirs, or a chance to see a play in the Opera
+House). Overnight.
+
+Day 2.
+
+Breakfast. A guided tour around Lviv (St. Yura Church – the main Greek-Catholic
+church, one of the oldest universities – Ivan Franko University, Pototsky
+Palace art museum, the High Castle, where you will have a wonderful overview of
+all the main sights in Lviv). Lunch. Free time.
+
+On your choice – additional excursions. Departure.
+
+The price includes: accommodation, excursions fees, transport, transfer to the
+hotel, meals.
+
+Additional expenses: museum entrance tickets; personal expenses.
+
+Price for 1 person:
+
+if the the group size is: 10+1 – 230 UAH
+
+20+1 – 200 UAH
+
+30+2 – 185 UAH
+
+40+2 – 180 UAH
+
+**
+
+1.The “Yellow & Blue” clothing shop by Ukrainian designers.**
+
+Contacts: 5 floor, “Magnus” Shopping Center, 1 Shpytal'na St. Lviv
+
+tel. +38 (032)245-2296
+
+zhukka@rambler.ru
+
+The offer: certain items 50% OFF
+
+1. From leading Ukrainian designer Olena
+Dats', an active participant of the UKRAINIAN FASHION WEEK , SHOWROOM at PARIS
+FASHION WEEK, Dubai Fashion Days.
+
+2. From leading Lvivian designer of the
+Mykytyuk –Jatsenyuk tandem, and active participant of LVIV FASHION WEEK.
+
+3. From fashionable designer Olena
+Molchanova, an active participant of the Fresh Fashion UKRAINIAN FASHION WEEK.
+
+**2. “Ravlyk” art gallery. (in the underground of the Jesuit Church)**
+
+1. 15, Svobody Ave,
+
+2. tel.: +38 (032) 243-35-99
+
+3. What we offer: On December 19th 2010,
+from 12:oo to 15:00 PM, a free master-class “Handmade Lviv Lions in Cholade”.
+You will re-create the most famous architectural monuments of Lviv and will be
+able to buy them with a discount!
+
+4. Sign up is in the “Ravlyk” art gallery.

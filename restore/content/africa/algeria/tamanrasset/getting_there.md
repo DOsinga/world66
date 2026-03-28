@@ -1,9 +1,0 @@
-# Getting There
-
-*Africa > Algeria > Tamanrasset > Getting There*
-
-Tamanrasset is the travel hub of the Algerian Sahara. Getting there involves a lot of driving through the desert. 
-
-We currently have no Getting There listed in Tamanrasset.
-
-If you do know any Getting There in Tamanrasset, please [[Add].](/africa/algeria/tamanrasset/gettingthere/addNew?childType=wktPOI)

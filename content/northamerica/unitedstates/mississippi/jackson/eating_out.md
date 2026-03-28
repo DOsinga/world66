@@ -1,0 +1,25 @@
+---
+title: "Eating Out"
+type: section
+---
+
+For a great food at a good price, the Jackson restaurant to go to is The Sportsman's Lounge at 1220 E. Northside Drive. Customers can dine on alligator tails, wings, nachos, fried pickles, cheesesticks, quesadillas, fried okra, soups, salads, roast beef & gravy, chicken sandwich, catfish po-boys, wraps, paninis, and burgers. They are known for their foot-long hot dogs that are named after Major League teams. For example, the Cubs' dog comes with relish, sauerkraut, & onions or the Braves' dog has bacon, bbq sauce, & onions. For directions, hours, and a full menu, visit their website at thesportsmanlodge.net.
+
+Southern, down home cooking can be healthy too. A Jackson restaurant that is proving this on a daily basis is Two Sisters' Kitchen. Located at 707 North Congress Street in a old Jackson home, this is the place to go for food that is good for you. There is something for everyone including vegans. For one small price, customers can dine at the buffet. It changes daily, but an example of past items include fried chicken, macaroni and cheese, cornbread, salad, greens, spaghetti, chicken and dumplings, and fried okra. Just so you know, at Two Sisters', there's always a crowd.
+
+If you have a taste for a steak, but don't feel like going to a steakhouse, a Jackson restaurant that will deliver it to you is Steak-Out Restaurant. For starters, try the grilled shrimp or loaded baked potato. Steaks come as ribeyes, New York strip, t-bone, or sirloin. Grilled chicken, salmon, steak tips, and surf & turf are available as well. If you want a sandwich, try the sirloin cheesesteak sandwich, or petite cheeseburger. Mushrooms and grilled onions can be added for an additional charge. You can place your order online at steakout.com for delivery or pick-up.
+
+If you like Italian, then the Jackson restaurant to stop by is Bravo I-55 North at Northside Drive. This eatery was voted to have the best wine selection in the city. Customers can enjoy lunch, dinner, and brunch which is offered Saturday & Sunday from 11-5. Certain items on their menu can be modified if you are on diets like low-carb, South Beach, Atkins, and sugar-free. There are also several vegetarian dishes. Popular dishes include shrimp and sweet peppers, fried polenta, grilled portobello mushrooms, chicken & eggplant, linguine with crawfish & andouille sausage, and fettuccine with jumbo scallops & shrimp.
+
+Just like steakhouses in Chicago, Char Restaurant offers the best in steak and seafood. This Jackson restaurant is located at 4500 I-55 North, Suite 142. Customers can relax and enjoy an elegant meal such as pecan-crusted blackfish with lump crabmeat, bbq shrimp, spice-crusted duckling, rack of lamb, NY strip, crab, fried crab claws, ahi tuna salad, country fried steak, and fresh catch of the day. Sides include collard greens, blackeyed peas, macaroni and cheese, grits, sweet potatoes, cornbread dressing, and creamed spinach. Be sure to check out their daily specials. Reservations are accepted and can be made online at charrestaurant.com.
+
+For a unique and wonderful dining experience, the Jackson restaurant to check out is Julep at I-55 at Northside Drive. They serve dinner, brunch, and a late night menu that is offered Thursday through Saturday from 10:30 p.m. to 1:00 a.m. There is a kids' menu as well. Customers can dine on crawfish egg rolls, eggplant fries, shrimp toast, stuffed chicken breast, grilled pork tenderloin, catfish taco, tuna burger, and strawberry pecan salad. USA Today named Julep one the nation's top ten places for fried chicken. To see a full menu and other information, visit their website at juleprestaurant.com.
+
+There are many Jackson restaurants offering great seafood. One of those is Penn's Seafood Restaurant at 2085 Lakeland Drive. For catfish lovers, they offer an all-you-can-eat plate that can be bought by itself or combined with chicken as well. Other entrees include fried pickles, chicken-on-a-stick, shrimp po-boy, fried oysters, fried okra, sweet corn nuggets, crawfish dinner, grilled catfish salad, burger, popcorn shrimp salad, and their seafood platter with catfish, shrimp, oysters, and crab. Be sure to leave room for dessert like pecan cobbler and apple pie. To check out their daily buffets, go to their website at http://www.pennsrestaurant.com.
+
+Classy and elegant fine dining at a Jackson restaurant will lead you to Elixir at 4800 Suite 6B I-55 North in LeFleur's Gallery. Relax and enjoy a cocktail such as cosmo, mockingbird, Mississippi martini, martinez, 401K, Lolita, and lifesaver. When you ready to eat, feast on entrees like crawfish wontons, redfish bruschetta, Elixir roll with ahi tuna, lobster risotto, miso style poached filet, gourmet sausage plate, seared duck breast, filet & lobster, grilled & tempura lobster, fried calamari, Malibu salad, and a cheese & fruit plate. For a complete drink list, visit their website at elixirms.com.
+
+**Contributors**
+July 06, 2009
+change
+by [annc](/member/annc)

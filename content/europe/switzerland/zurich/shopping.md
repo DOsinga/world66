@@ -1,0 +1,8 @@
+---
+title: "Shopping"
+type: section
+---
+
+Zurich is a shopping paradise! The main shopping area is concentrated within one square kilometer in the heart of the city. The best place to start is at the main railway station. Stroll down the famous 'Bahnhofstrasse' - one of the most beautiful shopping streets in Europe - towards 'Paradeplatz' and the lake. Here you will find elegant boutiques, department stores, specialist shops with a rich selection of high quality goods (shoes, furs, leather goods, accessories, porcelain, jewelry and watches), banks, confectioners and street cafes which tempt you to linger and relax for a while.Each season of the year has its special charm on 'Bahnhofstrasse': spring, when the air is filled with the perfume of the lime trees; summer, when visitors from all over the world throng the street; autumn, when the shop windows are especially tempting; and winter, when the Christmas lights bring an extra sparkle to this area.
+
+ You will find a myriad of small boutiques, antique shops, bars and cafes in the Old Town on the left bank of the Limmat. Another attractive shopping street is the 'Limmatquai' on the right bank of the river, with its guildhalls, fashionable boutiques and countless romantic, winding side-streets. Finish your tour with a stroll through the Old Town - the Oberdorf and Niederdorf areas - on the right bank of the Limmat. The 'Löwenstrasse' and the adjoining 'Bahnhofpassage' under the main railway station have also developed into a popular shopping area. The 'Langstrasse' with its exotic atmosphere offers anything your heart desires and at moderate prices.

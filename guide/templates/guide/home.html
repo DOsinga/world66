@@ -10,23 +10,29 @@
   <p>Travel information on over 20,000 destinations, written and updated by travelers since 1999.</p>
 </div>
 
+<div id="world-map" class="world-map"></div>
+
 <div class="continent-grid">
-  {% for continent in continents %}
+  {% for continent, kids in continents %}
   <div class="continent-card">
-    <h2><a href="{{ continent.get_absolute_url }}">{{ continent.name }}</a></h2>
-    {% with kids=continent.children %}
+    <h2><a href="{{ continent.get_absolute_url }}">{{ continent.title }}</a></h2>
     {% if kids %}
     <ul>
       {% for child in kids|slice:":10" %}
-      <li><a href="{{ child.get_absolute_url }}">{{ child.name }}</a></li>
+      <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
       {% endfor %}
     </ul>
     {% if kids|length > 10 %}
     <p class="more"><a href="{{ continent.get_absolute_url }}">All {{ kids|length }} destinations &rarr;</a></p>
     {% endif %}
     {% endif %}
-    {% endwith %}
   </div>
   {% endfor %}
 </div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+initContinentMap('world-map');
+</script>
 {% endblock %}

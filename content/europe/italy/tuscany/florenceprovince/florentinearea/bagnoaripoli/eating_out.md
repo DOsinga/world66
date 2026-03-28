@@ -1,0 +1,6 @@
+---
+title: "Eating Out"
+type: section
+---
+
+The early presence of olive trees growing in the hills around Florence, especially at Bagno a Ripoli, can be seen in a famous 16th century lunette painted by Giusto Utens, showing the olive groves on the Grand Ducal Farm of Lappeggi. Nowadays in fact only the olive trees growing in walled terraces on the slopes of the hills and certain selected vines have managed to survive in what can now be defined as an urbanized countryside. Moreover a careful selection among the various kinds of olive tree - "frantoio", "moraiolo", "leccino", "pendolino" and other local ecotypes - coupled with hand scorching methods, has now made it possible to obtain a quality product, especially when cold pressing methods are used. Some of the fascinating old fashioned tools used for pruning and cleaning the plants are still often used today, especially on small family-run farms: the gattuccioor special pruning shears, the rastino for removing the bark, the manaiola and the malempeggio which were used for more decisive operations. Today the cultivation of the grapevine is concentrated on farms growing selected vines that are tended by paid farm labourers, helped, in the period of the grape harvest, by seasonal workers. Table wines, Chianti d.o.c.g. and Colli Fiorentini are all grown in this area.

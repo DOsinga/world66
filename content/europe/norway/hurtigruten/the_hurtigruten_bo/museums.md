@@ -1,0 +1,13 @@
+---
+title: "Museums"
+type: section
+---
+
+Museums particularly worth thinking about during the trip include two described under [Trondheim](/europe/norway/trondheim) and one each under [Stokmarknes](/europe/norway/stokmarknes), [Hammerfest](/europe/norway/hammerfest) and [Kirkenes](/europe/norway/kirkenes).
+
+*Change history*
+Orginal article by [davidx](/member/davidx) on 19 November 04
+
+Minor corrections by [davidx](/member/davidx) on 19 November 04
+
+-->

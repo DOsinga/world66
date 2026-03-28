@@ -1,0 +1,13 @@
+---
+title: "Getting There in Kathmandu"
+type: section
+---
+
+Trekking in Nepal is part of world adventure tourism. Natures to renew once own identity regards, to relive one-self, to realize Nepal beauty, to interact with its generous, http://www.trekshimalaya.com friendly peoples are highlights of trekking in Nepal. Trekking is one long term activity that draws repeat visitors. So, Nepal is final purpose for trekking. Offers numerous options walking excursion to meet snowy peaks, their foot hills, valleys but however there is amazing for each who hope trek in Nepal hill, mountain http://www.adventurestrekking.com area. Most satisfying way to skill of Nepal strong mixture of natural beauty and cultural riches to walking through the extent, breadth and altitude of Nepal for tours trekking in Nepal as well as Himalaya trekking in Nepal is unique cultural skill of ultimate Himalayan adventure Nepal trekking tours for holiday and Nepal tour trekking offers best trekking option for Nepal travelers. Typical trekking and hiking in Nepal as unique combination of natural beauty, spectacular adventure trekking trips to hard climbing in Nepal Himalayas.
+
+The most rewarding way to skill Nepal natural beautification and cultural array is to walking, trekking, width and the height of country. Trekking in Himalaya is important of travel Nepal for trekking tours Himalaya on description of large range of ecological features. The country nurtures a variety of flora and scenery. Addition to natural atmosphere is rich Himalayan culture. Many of visitor trek to different part of Nepal every year to experience its rustic charm, nature and culture. Most treks through areas between 1000 to 5185 m, though some popular parts reach over 5648 meters. Trekking in Himalaya, while the climb of a Himalayan peaks and enjoy walking holiday in Nepal and trekking tours Nepal might be an attraction for travelers. Every traveler knows for the trekking in Nepal from all over the words an inspiring knowledge. Exacting attraction of Nepal lies in its stunning beauty and its excellent culture. http://www.youtube.com/watch?v=CmqBgfYdidY&feature=youtu.be watch Nepal trekking video further interested to adventure trekking with us. Walking through the Himalayas of Nepal, you will be appreciate to Nepalese High Himalaya has delightful hearts of trekking, discover high Himalaya (Mt. Everest 8848m.). Most well-known trekking Everest, Annapurna and Langtang region.
+
+**Contributors**
+February 21, 2012
+new
+by [adventuretrekking](/member/adventuretrekking)

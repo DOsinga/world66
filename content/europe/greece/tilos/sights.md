@@ -1,0 +1,53 @@
+---
+title: "Sights"
+type: section
+---
+
+The region of Tilos constitutes a relatively isolated island cluster in the southern Dodecanese Islands of Greece in the Aegean Sea. 
+
+Tilos is a relatively small island (63 square km) that presents unique features in topography, geology and landscape variety. The main island is characterized by intense bas-relief with autonomous semi-mountainous volumes, numerous bays, dozens of small capes and a plethora of small coastal plains. The main island is surrounded by 14 small islands and several small anonymous rocky islands. Because of the intense bas-relief and the varied geology, there are numerous natural springs that supply a network of small underground rivers of fresh water. 
+
+The biotic environment has been shaped by a human presence of long duration and by the geographic isolation of the island. Notwithstanding this long human presence on Tilos, the current ecological physiognomy of the island reflects a notable emigration of island residents in the 1950’s resulting in the abandonment of two village settlements and a significant portion of agricultural cultivation. 
+
+Observable evidence indicates that, following this abandonment of agricultural cultivation, natural vegetation reclaimed previously cultivated terraces and an extension of indigenous tree vegetation occurred in certain flat areas. As a result, the island currently supports a wide variety of vegetation. The variety of biotopes as well as the presence of different aviary species is remarkable. Sixteen (16) different types of biotopes recognized by the European Union Community Directive 92/43 have been recorded with three types of biotopes characterized as biotopes of priority for the protection of nature in the European Union. On the island of Tilos and the surrounding islands of Tilos, three hundred seventy-seven (377) native classified units of plants (types and subspecies) have been recorded. 
+
+Tilos has a remarkable aviary population. One hundred and two species of birds, of which forty-six (46) species are characterized as requiring protection by special arrangement, have been recorded on the island. Twenty-six (26) strictly protected aviary species have been recorded that are included in the annex of I of the European Union Community Directive 79/409. Certain aviary species, numbering at least eleven (11), maintain important populations on the island. Their presence inherently lends a significant value to the island, and lends a scientific importance with regard to the protection of these species in the southern Aegean. Remarkable are the populations of Phalacrocorax aristotelis, Hieraaetus fasciatus, Buteo rufinus, Falco eleonorae, Falco peregrinus, Laurus audouinii, Coracias garrulus, Hippolais olivetorum and Emberiza caesia. Tilos also maintains one of the densest populations of Islander Partridge in the southern Aegean. This is significant because this species is an important food source for threatened birds of prey. Because of the sixteen-year hunting ban on the island inaugurated in 1987, there is no hunting pressure. 
+
+In addition to its aviary importance, the Tilos cluster of islands presents a special scientific interest due to the presence of the Mediterranean Seal and certain species of reptiles that are rare on the European continent because they expand mainly into Asia Minor and Western Asia. 
+
+An abundance of natural dwellings and places of refuge, the natural and artificial collections of water (including small wetlands), the rocky protrusions, the isolation of the islands, the natural tree clusters including the recent extension of relatively young thinly forested areas into the abandoned agricultural fields, collectively serve to attract and create a domicile for numerous species of flora and fauna, resulting in cores of biodiversity. 
+
+The long duration of human activity on the island has left scattered and appreciable testimonies that are dated from prehistoric times to the recent past. The environment of Tilos presents a mosaic of cultural landscapes where anthropogenic elements are present throughout the island. Such elements primarily consist of the ancient, medieval and recent settlements; two existing, traditional settlements of habitation; various defensive constructions (small castles, fortresses, observatories etc); infrastructure developments (paths, etc.); temples, churches and monasteries; agricultural production and related facilities; livestock-farming and other evidence of human existence. Tilos demonstrates the presence of a complex ecosystem shaped by people where human activities have been harmonized with the natural environment. 
+
+The island of Tilos presents particular interest for the protection of nature in Greece. The region has been included in the List of Corine Biotopes Project, as an important region for the protection of nature in the European Union, the list of Important Regions for the Birds of Europe (IBA), and the new list of Areas of Special Protection (SPA), pursuant to the European Union Community Directive 79/409 “for the protection of birds”. Upon completion of the pending administrative procedures in accordance with EU regulations, the region of Tilos is expected to be characterized as an Area of Special Protection and included in the European Ecological Network "Natura 2000". 
+
+Compared to the other main islands of the south-eastern Dodecanese, Tilos is more isolated geographically, as much from the Asia Minor coast as from all other big islands (as Kos and Rhodes), resulting in a significant biological and geographical area of interest. 
+
+Tilos has many flat areas of land that have been abandoned or are not cultivated intensively. Here, the tree vegetation has been reborn' shaping thin forestry areas with a particular tree indigenous to Asia known as the Gramithia (Pistacia terebinthus palaestina). The resulting evolution of these new landscape areas predominantly populated by the presence of this Asian tree in what may be correctly characterized as “forests” is extremely significant because forested plains have almost disappeared on other islands of the Dodecanese and their presence in the Aegean islands is limited. As a result, these new “forests” on Tilos possess significant value for many aviary species. 
+
+According to Annex I of European Union Community Directive 92/43), Tilos is host to sixteen (16) different biotopes, of which three (3) are designated as biotopes of priority for the protection of nature in the European Union. The significance of this finding is that it represents a relatively large number of biotopes for only one island, notwithstanding the fact that the main island and surrounding islands are predominantly covered by one main biotope, i.e. bushes. 
+
+Tilos has dozens of small natural fresh water springs that are active during most of the year. Compared to other islands of proportional size in the southern Aegean, Tilos has an abundance of fresh spring water to support its natural landscape. 
+
+Tilos currently has a small permanent resident population living in two village settlements. Historically to the present, human activities that could adversely affect the natural environment of Tilos have been very limited. 
+
+Tilos has vast expanses of land with indigenous plant and animal life in good condition free from artificial interference. These areas are characterized by difficulty of access (absence of roads) as well as by lack of recent human interventions. These conditions give rise to a particular character that is called wild nature (wilderness). Areas of wild nature exist in significant coastal and abandoned landscapes of the island. The areas of wild nature have particular importance for the birds of prey. Most species of birds of prey nest and hunt in and around the inaccessible, rocky mountains. 
+
+Significant regions exist where the harmful effects of human activities on the natural environment have been limited. In some cases, these harmful effects have been obviated or reversed due to the mid-twentieth century population reduction and settlement abandonment, resulting in the progressive recovery of nature in these formerly occupied colonies and the previously cultivated regions visible in the terraced mountainsides. Such natural and semi natural areas exist to a limited extent on the main islands of the Dodecanese as a result of the relatively recent construction of new roads, public and private works, tourist accommodations, and related activities. In Tilos, the natural and semi natural areas contribute a significant ecological value, and they offer nourishing resources and habitat to threatened aviary species that depend on these areas for survival. 
+
+Tilos is characterized by the presence of mountains and coastal precipices that are the largest and most extensive in the Dodecanese. The mountains reach an altitude of hundreds of meters above sea level and constitute natural shelters for the threatened species of indigenous fauna and flora. 
+
+The structural portions of the ancient and medieval castles, towers, fortresses, stone walls, churches and towers as well as the two recently abandoned settlements contribute a significant ecological value to the natural environment. The stone masonries are important shelters for reptiles and birds, such as the Coracias garrulus that nests in the ruins. Consequently, these cultural and historical monuments of Tilos have been incorporated in the natural landscape of the island. 
+
+Tilos offers a significant aviary interest on an international level because of the presence of important populations of protected birds. Twenty-six (26) species of birds found on Tilos are included in Annex I of the European Union Community Directive 79/409 as threatened species. 
+
+Particularly important is the marine presence of the Mediterranean Seal recognized worldwide as an endangered species. This mammal has found refuge in the numerous underwater caves around the island. 
+
+Finally, the flora of the island consisting of certain rare and endemic types, provides a significant bio-geographic interest. 
+
+The geology of Tilos is rich. The Harkadio cavern, in which the fossilized pygmy elephants were discovered along with other ancient artifacts, has been proposed as a Monument of Geological Heritage. Important geological elements also include volcanic turf in the wider region of Messaria, the beach rocks along the seashore of San Antonios bay, and the strata visible along the imposing coastal precipices in the NW and SE parts of the island. 
+
+**Konstantinos Mentzelopoulos**
+
+*Change history*
+Orginal article by [Skipper](/member/skipper) on 15 April 04

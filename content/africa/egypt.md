@@ -1,0 +1,48 @@
+---
+title: "Egypt"
+type: location
+latitude: 26.254049
+longitude: 29.267547
+---
+
+Egypt does not need an introduction. It was the introduction to human civilization itself, and has all the evidence to show for it. 
+
+
+
+
+
+
+
+Tour Egypt from the lively Nile Valley , to the solitary deserts, to the diversity of the [Sinai desert](/africa/egypt/sinaidesert) , to the lush oases, to the exotic underwater life of the Red Sea , to the Mediterranean beaches. *"Now, let me talk more of Egypt for it has a lot of admirable things and what one sees there is superior to any other country."* - Herodotus, 500 BCE 
+
+*"...In Egypt all the operations of the powers which rule and work in heaven have been transferred to earth below...It should rather be said that the whole cosmos dwells in [Egypt] as in its sanctuary..." 
+
+"There will come a time when ... the gods will return from earth to heaven; Egypt will be forsaken, and the land which was once the home of religion will be left desolate, bereft of the presence of its deities."* 
+
+- Ascleptus III (25 BCE), Hermetic Texts 
+
+Even though much of what Herodotus witnessed has been ruined by the cruelty of later generations, his statement is still valid to this day. Today's Egyptians have abandoned their ancient heritage for a mostly Moslem Arabic-speaking nation. Happily, they have maintained their friendly, hospitable, and warm characteristics. 
+
+[Cairo](/africa/egypt/cairo) , the capital is the place to start. It has the Pyramids, th Sphinxs, the Egyptian Museum, many more sights and more than ten million cairenes to share the experience. [Alexandria](/northamerica/unitedstates/virginia/alexandria) , the second city of the country has its fair share of historic sights as well and with its location on the Mediterranean it is an ideal spot for your holidays. 
+
+The south of Egypt has many impressive temples and graves from Pharaonic times. [Luxor](/africa/egypt/luxor) , [Aswan](/africa/egypt/aswan) and [Abu Simbel](/africa/egypt/abusimbel) should all be on your to do list. 
+
+The Red Sea hs great scuba diving : [Hurghada](/africa/egypt/hurghada) is world famous for its under water world. 
+
+*Em Hetep* (*In Peace*, in ancient Egyptian language).
+
+## Destinations
+
+- [Abu Simbel](/africa/egypt/abusimbel)
+- [Alexandria](/africa/egypt/alexandria)
+- [Aswan](/africa/egypt/aswan)
+- [Cairo](/africa/egypt/cairo)
+- [Dahab](/africa/egypt/dahab)
+- [Hurghada](/africa/egypt/hurghada)
+- [Luxor](/africa/egypt/luxor)
+- [Mansoura](/africa/egypt/mansoura)
+- [Minya](/africa/egypt/minya)
+- [Port said](/africa/egypt/portsaid)
+- [Sharm el Sheikh](/africa/egypt/sharmelsheikh)
+- [Sinai desert](/africa/egypt/sinaidesert)
+- [Suez](/africa/egypt/suez)

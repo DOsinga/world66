@@ -1,0 +1,32 @@
+---
+title: "Osteria Incognito"
+type: poi
+address: "Via Vittorio Emanuele III, 48"
+phone: "+393497896343"
+price: "€25-35"
+type: "Italian"
+url: "www.prenotaristorante.com"
+latitude: 40.83915
+longitude: 14.251435
+---
+
+**A very good restaurant, with typical dish of Sicilian cuisine with fish!!!**
+
+**Contributors**
+August 11, 2008
+change
+by [nadsar](/member/nadsar)
+
+type: Italian
+
+
+
+tel: +393497896343
+
+url: www.prenotaristorante.com
+
+address: Via Vittorio Emanuele III, 48
+
+PriceOfMenu: €25-35
+
+[back to Eating Out](..)

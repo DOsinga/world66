@@ -1,0 +1,10 @@
+---
+title: "Castelfiorentino"
+type: location
+---
+
+From 1149 the name Castelfiorentino was given to the Castelvecchio built on the Via Francigena, in Timignano, a settlement of Roman Origin. The fortified castle on the hill contained the parish church of S. Ippolito, the ancient S. Biagio, and within a second fortified wall, Borgo d’Elsa and Borgo Nuovo. This town was a Feudal possession of the Cadolingi and later of the Alberti counts. It was later taken over progressively by the Bishop of Florence in the 12th century, and lived through an alternation of conflicts between Church and Emperor, Siena and Florence, of which it was an important outpost. It obtained the seat of the podesta, the privilege of a red lily on a white banner, and the integration of its name into Castelfiorentino. Today a visit should be paid to the large tree-lined Piazza Gramsci, where we can see the Teatro del Popolo, the only 19th century theatre left in Valdelsa.
+
+   Not far away is the church of S. Francesco, a notable example of 13th Century Franciscan architecture. The church of S. Verdiana, is also worth a visit, as it was completely rebuilt at the start of the 18th century on the ancient oratory of S. Antonio, and is one of the best preserved examples of early 18th century architecture and pictorial art in Tuscany. Next to the church there is an art gallery with some valuable pieces.
+
+  A visit should also be made to the Commune’s Cultural Centre and Library, and the Raccolta Comunale d’Arte in Via Tilli, which contains important frescoes and sinopites by Benozzo Gozzoli painted between 1484 and 1490. In the Castelfiorentino fresco cycle the artist, a student of Beato Angelico, brought about the invention of the sinopites and partial interventions in the laying of fresco pigments. His work in the smaller towns of the Province contain some notes of popular archaisms which, however, allowed him to develop an extraordinarily original poetic vein in the better works found in Valdelsa.

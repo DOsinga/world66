@@ -1,9 +1,0 @@
-# Kiffa
-
-*Africa > Mauritania > Kiffa*
-
-Kiffa has a nice market and is on your way from Nouakchott to Nema. It makes for a nice stop, although there is no hotel in town. Nearby is an interesting canyon you can visit. For this you’ll need an all-terrain vehicle. 
-
-
-
-Kiffa has quite a reputation nas a centre for beads. So if you are here, you could go to the market and get you some.

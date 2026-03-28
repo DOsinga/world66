@@ -1,0 +1,6 @@
+---
+title: "Billings"
+type: location
+---
+
+Billings is the largest city in Montana and is host to many interesting and historic events. You can experience a wide variety of things to do in Billings, anything from The world famous NILE rodeo to a quiet visit to the Yellowstone art museum. Billings is known as the "Magic City" due to it's rapid growth. Billings sits in the middle of the Yellowstone valley which was home to Native Americans as long as 10,000 years ago and later by trappers. Billings was established in 1882 by the Northern Pacific Railway and named for the president of the railway, Frederick Billings. The city's history includes the famous as well as the infamous. One of the more colorful charecters was cigar-smoking, gun toting Martha Cannary, better known as Calamity Jane, a pal of Wild Bill Hickok. There is a wealth of history to be found in and around Billings. If you love the western lifestyle you will like Billings. There is no shortage of sports and recreation either. Billings is home to it's own first rate hockey team, basketball and baseball teams. You will just not run out of things to do here in Billings. Billings is located in south central Montana at the junction of Interstate 90 and 94.

@@ -1,7 +1,0 @@
-# Getting There
-
-*Centralamericathecaribbean > Thecaribbean > Guadeloupe > Basseterre > Getting There*
-
-We currently have no Getting There listed in Basse-terre.
-
-If you do know any Getting There in Basse-terre, please [[Add].](/centralamericathecaribbean/thecaribbean/guadeloupe/basseterre/gettingthere/addNew?childType=wktPOI)

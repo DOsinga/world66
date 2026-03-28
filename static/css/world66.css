@@ -318,6 +318,108 @@ img { max-width: 100%; height: auto; }
   margin-bottom: 4px;
 }
 
+/* Info box — structured properties */
+.info-box {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--red);
+  margin: 16px 0;
+  padding: 10px 14px;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.info-box table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.info-box th {
+  text-align: left;
+  padding: 3px 12px 3px 0;
+  color: var(--text-light);
+  font-weight: normal;
+  text-transform: capitalize;
+  white-space: nowrap;
+  vertical-align: top;
+  width: 120px;
+}
+
+.info-box td {
+  padding: 3px 0;
+  vertical-align: top;
+}
+
+.info-box a {
+  color: var(--blue);
+}
+
+/* ==========================================================================
+   Maps
+   ========================================================================== */
+
+/* Home page world map */
+.world-map {
+  height: 360px;
+  margin: 0 0 24px 0;
+  border: 1px solid var(--border);
+  background: #f0f0ec;
+}
+
+/* Continent labels on the world map */
+.continent-label {
+  background: none;
+  border: none;
+  white-space: nowrap;
+}
+
+.continent-label a {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: var(--red);
+  text-shadow: 1px 1px 2px rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.continent-label a:hover {
+  color: var(--red-dark);
+  text-decoration: underline;
+}
+
+/* Country map on continent pages */
+.country-map {
+  height: 300px;
+  margin: 0 0 20px 0;
+  border: 1px solid var(--border);
+  background: #f0f0ec;
+}
+
+.country-tooltip {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* Small location map — click to expand */
+.location-map-small {
+  height: 150px;
+  margin: 0 0 16px 0;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--red);
+  cursor: pointer;
+  transition: height 0.3s ease;
+}
+
+.location-map-small.map-expanded {
+  height: 350px;
+}
+
+@media (max-width: 768px) {
+  .world-map { height: 220px; }
+  .country-map { height: 200px; }
+}
+
 /* Content image — float right like original */
 .content-image {
   float: right;

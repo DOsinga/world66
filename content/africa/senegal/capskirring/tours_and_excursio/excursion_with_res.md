@@ -1,0 +1,31 @@
+---
+title: "Excursions with Residences les Alizes"
+type: poi
+address: "Résidences Les Alizés, Plage du Cap Skirring, B.P 21"
+email: "info@residences-les-alizes.com"
+phone: "+221/33.993.52.88"
+url: "www.residence-les-alizes.com"
+---
+
+Residences les Alizes proposes 2 main excursions to discover the beauty, nature and specific culture of Casamance.
+
+These excursions are either by boat (Pirogue) either by car (4X4). The professional guides we put at your disposal will show you the most attractive places of the region. You'll have the pleasure to meet the locals and visit their houses and schools.
+You'll discover the beautiful beaches, birds and forests with their particular treas.
+
+During the boat excursion you'll stop at several islands very rich in history. Among these islands you'll visit Karabane, which was the first capital of Casamance. Today this Island welcomes many visitors for it's wealth in history regarding slavery of the time of the colonizations.
+
+Residences les Alizes are looking forward to welcome you and share with you the beauty of Casamance.
+
+
+
+
+
+tel: +221/33.993.52.88
+
+url: [www.residence-les-alizes.com](http://www.residence-les-alizes.com)
+
+address: Résidences Les Alizés, Plage du Cap Skirring, B.P 21
+
+email: info@residences-les-alizes.com
+
+[back to Tours and Excursions](..)

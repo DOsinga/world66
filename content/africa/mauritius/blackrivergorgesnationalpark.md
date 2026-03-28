@@ -1,0 +1,10 @@
+---
+title: "Black river gorges national park"
+type: location
+---
+
+From Plaine Champagne, the highest part of the central plateau of the island, there is a superb breathtaking view of the Black River Gorges and the sea lining the horizon. The Black River Gorges is a 6,574 hectare park proclaimed natural reserve in 1994. It protects much of the remaining indigenous forests of Mauritius and provides an excellent opportunity to visitors to enjoy a wonderful hiking with a spectacular scenery and also an occasion to appreciate some of the unique endemic plants and birdlife of Mauritius. The gorges have immensely contributed to the regeneration of some endangered endemic bird species like the Mauritian Kestrel and the Pink Pigeon. 
+
+ The National Park is easily accessible from Vacoas or Curepipe via La Marie and Mare aux Vacoas. A visitor information centre has been set up at Le Pétrin to welcome and direct visitors and also to provide picnic facilities. A boardwalk leads to the typical dwarf forest of the region and a fenced conservation management area (from which invasive non-native plants have been removed) protects a sample of the remaining heathland. From there, various hiking tracks are offered and visitors can choose to walk to Maccabée forest (7km return) or down through the Gorges to Black River (15km) from the road across Plaine Champagne towards Chamarel where there is easy access to viewpoints at Alexandra Falls, over Bel Ombre and over the spectacular Black River Gorges. There are also a number of longer walking trails including one to the island's highest point, Black River Peak ( 828m). Road access into the Black River Gorges from the coast road has been upgraded and offers a Visitor Centre as well as a camping area.  
+
+The forest-clad slopes of the gorges and the Maccabé Forest nearby contain some interesting specimens of indigenous timber, namely the Bois de Natte, Colophane, Ebony, Tatamaka or Tambalacoque, as well as fine plants peculiar to the island such as the Trochetia, the national flower of Mauritius.

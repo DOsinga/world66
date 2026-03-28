@@ -1,0 +1,8 @@
+---
+title: "Museums in Platja d'Aro"
+type: section
+---
+
+Dear Marsupial.I think I've had that before when I steayd over one night when you were both at Tempe! It was yuuummmm! Especially with a dollop of sour cream. Also, we now have one of those big pots that you cooked it in, the one where you can use it on the stove top and then pop it into the oven. My mother bought a bright red one from Mogo town on the South Coast this week and I'm dying to make boeuf bourguignon!On the subject of cheap (and non-pasta meals) I know someone who hosted a $5 a head dinner party because she also wanted to show that you can make amazing meals for low prices, plus she was a bit tight on cash at the time but still wanted a dinner party She and her husband invited 6 people, so they had 8 people to feed with $40, and with it produced a dip and cheese straws, soup for entree, chicken/leek pies with vegies for the main course and a sticky date pudding for dessert. AND they came in $1.20 UNDER budget!Anyway, it was fun reading your blog, and I also refer to your recipe book from time to time. I'll set aside time tomorrow to email you my hollandaise recipe finally. Hope to see you soon!Love, your now very hungry awe-inspired niece, Lauren xoxo.
+
+*Part or or all of this text stems from the original article at: ZkspGeMCjHogkOsmoWC*

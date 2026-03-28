@@ -1,0 +1,14 @@
+---
+title: "Bars and Cafes in Fortaleza"
+type: section
+---
+
+Fortaleza's year-round scorching temperatures mean that visitors would be wise not to stray too far from the nearest watering hole. Thankfully, the city is wise to the needs of sun-baked tourists, and an ice cold beer or refreshing fruit juice can be found on virtually every corner in Fortaleza. Tourists flock here for the beaches that can be found in and around the city, and the busier stretches of sand are lined with relaxed beach bars selling caipirinhas (cocktails made with lime, ice, sugar and sugar cane rum), cold beers and soft drinks as well as tasty nibbles. Forro , the musical style that dominates the music scene in Fortaleza, can be heard at bars and cafes, and it's not at all uncommon for diners to leap to their feet and start dancing once the music begins.
+
+**What to Eat and Drink in Fortaleza**
+
+The food of Northern Brazil is famous across the country, and there are ample opportunities to try the local cuisine in Fortaleza. From upscale restaurants to the simplest of corner cafes, you'll find excellent seafood, along with regional specialties that make much use of coconut milk, dende (palm oil) and very hot chili peppers. Meat eaters shouldn't miss the opportunity to try carne de sol - sundried meat. Aipim, or yucca, is another common menu staple, as are rice, farofa (seasoned yucca flour), pumpkin, and corn. Feijoada , the national dish made with beans and all manner of different meat cuts, is also present on many menus in Fortaleza. Along with the famous caipirinha cocktail, bars' biggest sellers are the many types of beer - the Brazilian brands Brahma and Antartica are very popular, as is Skol. Informal bars generally sell beer in large bottles for sharing, while in more upscale places drinkers will find draught beer (known as chopp) or smaller, individual bottles known as long necks. International dishes - from pizza and pasta to sushi - can be found with relative ease, but it would be a real shame to visit Fortaleza without at least sampling the local cuisine.
+
+**Where to Eat and Drink in Fortaleza**
+
+Fortaleza's drinking and dining scene takes in everything from high-end restaurants and chic bars to informal beach bars and simple pavement cafes with plastic tables and chairs. For live music and a party scene, Avenida Dom Luis, Avenida Beira Mar and Praia de Iracema are all good bets, with lots of bars lying in close proximity to each other. These are good spots to hear live forro. The Dragao do Mar area is also famous for its bars, but many of these are a little seedy. Cafe Friends, at Rua dos Tremembes 100, is a very popular spot with the international backpacker crowd, and a great place to meet other travelers. It's open every night of the year, and is always lively, with frequent live music performances.

@@ -1,0 +1,8 @@
+---
+title: "ARCHEOLOGICAL MUSEUM"
+type: poi
+---
+
+ARCHEOLOGICAL MUSEUM “DON CESARE QUEIROLO” - VADO LIGURE
+
+ In the Roman era Vada Sabatia, the old name for the present-day town of Vado Ligure, was of considerable importance, both politically as the seat of a Municipium and economically, in its role as a trade emporium. An echo of the splendor of Roman times still reverberates through the rooms of the Archeological Museum dedicated to Don Cesare Queirolo, the curious figure of a priest-cum- archeologist who carried out a great deal of research in the Vado area in the second half of the nineteenth century, building up an extensive collection of marble carvings, pottery and coins which he bequeathed to the community of Vado after his death. At present the museum houses a wide selection of Queirolo’s marbles, including a statue of a panther, evoking the Dionysian cult that was particularly widespread in the Vado region and which has become the symbol of the Roman town. Alongside them are displayed a number of other marble fragments uncovered during the excavations that Lamboglia carried out in the mid-fifties underneath the present town hall, bringing to light the remains of a Roman villa from the Imperial era. In addition to statues and epigraphs, there are some particularly significant examples of instrumenta domestica, household articles that offer us an insight into the everyday life of the Roman period. In the near future the display will be expanded to include numerous coins from the Queirolo collection, the subject of a very recent publication by the Archeological Service of Liguria.

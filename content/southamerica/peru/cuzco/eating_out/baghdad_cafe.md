@@ -1,0 +1,26 @@
+---
+title: "Baghdad Cafe"
+type: poi
+address: "plaza de armas"
+price: "$"
+type: "South American"
+---
+
+On the Plaza de Armas, next to the Cathedral. Excellent service; the alpaca steak and quinoa soup are "musts". Sit on the balcony and watch the cusque ñ os stroll by at luch or dinner.
+
+**Contributors**
+August 23, 2006
+change
+by [giorgio](/member/giorgio)
+
+type: South American
+
+
+
+
+
+address: plaza de armas
+
+PriceOfMenu: $
+
+[back to Eating Out](..)

@@ -1,0 +1,29 @@
+---
+title: "Kerry Park"
+type: poi
+address: "211 W Highland Dr"
+opening_hours: "24 hours"
+type: "Parks, Gardens and Zoos"
+url: "www.seattle.gov"
+---
+
+Offering some of the most beautiful views of the city, deep in the Queen Anne district, this is a must see for all tourists and locals.
+
+**Contributors**
+November 06, 2005
+change
+by [m0rbidm00n](/member/m0rbidm00n)
+
+type: Parks, Gardens and Zoos
+
+
+
+
+
+openingHours: 24 hours
+
+url: [www.seattle.gov](http://www.seattle.gov/parks/parkspaces/kerry.htm)
+
+address: 211 W Highland Dr
+
+[back to Sights](..)

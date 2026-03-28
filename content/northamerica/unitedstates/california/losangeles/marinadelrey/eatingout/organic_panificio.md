@@ -1,0 +1,29 @@
+---
+title: "Organic Panificio Cafe"
+type: poi
+address: "4211 Admiralty Way"
+phone: "310/448-8900"
+price: "$10 to $25"
+type: "Local"
+---
+
+Eat Organic at the Organic Panificio Cafe! Fresh, natural and locally grown/procured foods are prepared in a light, healthy and delicious manner. Many of the dishes are Italian and feature specialty sauces. Open for breakfast and lunch, and features a fine dinning room for dinner.
+
+**Contributors**
+June 09, 2008
+new
+by [marinagal](/member/marinagal) (1 point)
+
+type: Local
+
+
+
+
+
+tel: 310/448-8900
+
+address: 4211 Admiralty Way
+
+PriceOfMenu: $10 to $25
+
+[back to Eating Out](..)

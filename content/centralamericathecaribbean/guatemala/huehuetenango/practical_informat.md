@@ -1,0 +1,21 @@
+---
+title: "Practical Information"
+type: section
+---
+
+**Exchanging Money**, **Costs**... El Quetzal Q. is the national currency. Q. 7.77 * $ 1.00 Hotel Cascata is the only place in town that changes EUROS. Banks dont accept EUROS only USD, if you bring EUROS at your arrival in Guatemala city look for a bank there you can change EUROS easily. Banks: Banco Agro Mercantil 4a. Calle 5-00 Zona 1 764-2931 Banco Continental 5a. Ave. 5-15 zona 1 764-3007 Banco Corporativo 6a. Ave. 3-03 Zona 1 764-2363 Banco Credito Hipotecario Nacional de Guatemala 4a. Ave. 1-15 Zona 1 769-0030 Banco de Antigua, S.A. 2a. Calle 4-42 Zona 1 764-0885 Banco de Desarrollo Rural, S.A. (BANRURAL) 6a. Ave. 3-01 Zona 1 764-1266/2844/2840 Banco de la Construccion, S.A. 3a. Ave. 1-42 Zona 1 764-2737 Banco de la Republica, S.A. 2a. Calle 3-16 Zona 1 764-2868 Banco de Occidente, S.A. 4a. Ave. 3-21 Zona 1 764-3196 Banco del Cafe, S.A. 3a. Calle y 6a. Ave. esquina, Zona 1 764-1204 Banco del Ejercito, S.A. 6a. Ave. 3-21 Zona 1 764-1112 Banco del Quetzal, S.A. 2a. Calle 3-16 Zona 1 764-2079 Banco G&T 2a. Calle 4-66 Zona 1 764-1280 Banco Industrial, S.A. 6a. Ave. 1-26 zona 1 764-3128 Banco Inmobiliario, S.A. 6a. Ave. 4-84 zona 1 764-1369 Banco Internacional, S.A. 2a. Calle y 5a. Ave. esquina, Zona 1 Banco Metropolitano, S.A. 5a. Ave. 3-24 Zona 1 769-0219 Banco Reformador 3a. Ave. 1-57 Zona 1 769-0219 Also in Huehuetenango you can find Bancared and 5B ATM's for visa, master card, maestro, cirrus, etc. 
+
+Post Office: EL CORREO 2 Calle 3-51 Zona 1 Tel: 77641123 Internet Access: Cascata On Line Hotel Cascata Lote 4, 4-42 Zona 5 Colonia Alvarado, Calzada Kaibil Balam tel: 77690795 nearby Bus station. 
+
+Hospitals: Hospital Nacional de Huehuetenango Zona 10, Las Lagunas 764-1849 Hospital Privado López (varios médicos) En la calle del costado derecho de la Iglesia del Calvario, Zona 3 Hospital de Especialidades Sobre la 5a. Ave. cerca de la Policia Nacional Civil, Zona 1 Tel: 764-3980 / 82 y 83 Hospital Privado Sobre la 6a. Calle y 7a. Ave. Zona 1 Tel. 764-1203 Hospital Quirúrgico No. 1 Zona Militar No. 19 Zona 10 Aldea Las Lagunas, Tel: Hospital "San Rafael" 4a. Calle Final, Dr. Jorge Pérez Hospital "Hermano Pedro" Sobre la 5a. Ave. casi frente a la Policia Nacional Civil, Zona 1 Dr. Roberto Batres Hospital "Altuve" Entrada a Huehuetenango, Km. 260, cerca de la Entrada a la Terminal, Zona 5 Tel: 7764-1486 
+
+Embassies & Consulates in the city, offices for visa/immigration issues ... No visa is required if your stay for 3 months, if you are planning to stay longer or have other inmigration status contact inmigration services in Guatemala city or search their webpage. Most Embassies and Consulates are located in Guatemala City. Consulado Honorario de México Farmacia Del Cid, sobre la 4a. calle y 5a. Ave. Zona 1. A pocos pasos del Parque La Unión, Huehuetenango. 
+
+at your arrival in Guatemala city the guatemala tourist commission will give important info and what you can or cant do while your stay in Guatemala. any emergency contact: Police: Policía Nacional Civíl Sobre la 5a. Avenida, Zona 1 Tel: 7764-1475 Volunteer Fire Company: Bomberos Voluntarios Entrada a Huehuetenango, Zona 5 Tel: 7764-1553
+
+*Change history*
+Orginal article by [jurandirtje](/member/jurandirtje) on 07 January 05
+
+Minor corrections by [jurandirtje](/member/jurandirtje) on 07 January 05
+
+-->

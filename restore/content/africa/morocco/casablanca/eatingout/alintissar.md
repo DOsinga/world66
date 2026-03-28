@@ -1,9 +1,0 @@
-# al Intissar
-
-*Africa > Morocco > Casablanca > Eatingout > Alintissar*
-
-In the center, this restaurant does good Moroccan style cuisine. Good food and not expensive.
-
-address: 14 Rue Chaouia
-
--->

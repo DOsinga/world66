@@ -1,0 +1,12 @@
+---
+title: "New City in Italy Travel Guide"
+type: location
+---
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Positano in the southern coast of Italy
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Wed 01:28

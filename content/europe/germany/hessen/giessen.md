@@ -1,0 +1,19 @@
+---
+title: "Giessen"
+type: location
+latitude: 50.58088
+longitude: 8.693816
+---
+
+Giessen is a more than 850-years old city in the middle of Hessen, between [Frankfurt](/europe/germany/hessen/frankfurt) and [Marburg](/europe/germany/hessen/marburg). It is located on the River Lahn and has more than 73.000 inhabitants. Though the inner city was destroyed in World War 2, there are a few beautiful Sites as the Burgmannenhaus, The Old Castle and the Zeughaus. 
+
+Giessen is characterized by its University, the second oldest and second largest in Hesse. With more than 28.000 students the city has the highest *student density* in Germany. Famous Scientists like Roentgen and Liebig worked here in the 19th century. The exploration of science has tradition: the Liebig Museum in the original laboratory and the Mathematikum, a hands-on museum, invite the visitors until today. 
+
+The surrounding Region Middle Hassia has a strong nature attitude: green highlands with picturesque castles are connected by hiking routes. Canoeing on the River Lahn is very popular.
+
+*Change history*
+Orginal article by [mh](/member/mh) on 30 July 04
+
+Minor corrections by [mh](/member/mh) on 30 July 04
+
+-->

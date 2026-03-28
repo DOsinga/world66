@@ -1,0 +1,22 @@
+---
+title: "Train transfer Amsterdam <> Leeuwarden --> Harlingen"
+type: poi
+type: "By Air"
+---
+
+Departure/timetable and tariff information for **train** transfer to Leeuwarden and correspondence to Harlingen harbour (here soon)
+
+Take a direct train from Amsterdam to Leeuwarden.
+
+In Leeuwarden change train for the Harlingen harbour direct train to meet the ferry
+connection.
+
+Of course, you can take a train from ANY Railway station to Leeuwarden.
+Amsterdam, Rotterdam, Utrecht and Groningen have direct connections.
+
+**Change history**
+Orginal article by [HollandTraveler](/member/hollandtraveler) on 15 March 05
+
+Minor corrections by [HollandTraveler](/member/hollandtraveler) on 15 March 05
+
+type: By Air

@@ -1,0 +1,22 @@
+---
+title: "The Old Inn"
+type: poi
+address: "Enschotsestraat  115"
+phone: "+31 (0)13 543 8931"
+type: "Pubs"
+zipcode: "5014DD"
+latitude: 51.565348
+longitude: 5.099918
+---
+
+type: Pubs
+
+
+
+address: Enschotsestraat 115
+
+tel: +31 (0)13 543 8931
+
+zipcode: 5014DD
+
+[back to Nightlife and Entertainment](..)

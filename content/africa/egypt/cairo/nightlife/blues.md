@@ -1,0 +1,23 @@
+---
+title: "Blues"
+type: poi
+address: "60 El Nil St. Giza"
+phone: "3355552"
+type: "Bars and Pubs"
+latitude: 29.827659
+longitude: 31.299938
+---
+
+Piano bar in Giza that stays open until 2:30 am.
+
+type: Bars and Pubs
+
+
+
+
+
+address: 60 El Nil St. Giza
+
+tel: 3355552
+
+[back to Nightlife and Entertainment](..)

@@ -1,0 +1,21 @@
+---
+title: "Museums"
+type: section
+address: "Adress: Toyengate 53"
+email: "mm@munch.museum.no"
+opening_hours: "June - 15 Sept. daily 10am - 6pm. 15 Sept. - Apr. Tue/Wed/Fri/Sat 10am to 4pm. Thu/Sun 10am to 6pm, Mon closed."
+phone: "+47 23 - 24 14 00"
+type: "Museums"
+url: "www.munch.museum.no"
+---
+
+Here are a few museum you can find in Oslo.
+
+**Change history**
+Orginal article by [giorgio](/member/giorgio) on 18 March 05
+
+### [Munch Museum
+
+Edvard Munch's art is the most significant Norwegian contribution to the history of art, and he is the only Norwegian artist who has exercised a decisive influence on European art trends, above all as a pioneer of Expressionism in Germany and the Nordic countries. When Munch died in January 1944, it transpired that he had unconditionally bequeathed all his remaining works to the City of Oslo. The Munch Museum opened in 1963 and was purpose-built to house this unique collection of approximately 1000 paintings, 4500 drawings and 18 000 prints. Major works will always be on display in the museum. The selection is changed regularly. more..](/europe/norway/oslo/museums/munchmuseum)
+
+type: Museums

@@ -1,0 +1,25 @@
+---
+title: "Eating Out in Cheyenne"
+type: section
+---
+
+If you want a good and well cooked breakfast, a Cheyenne restaurant to try is The Egg & I at 2300 Carey Avenue. Customers can look forward to eating turkey sausage & eggs, Mediterranean crepe eggs, eggs petite, huevos rancheros, Mexican omelets, spinach & crab omelets, Greek frittata, and breakfast sandwiches. There are also breakfast skillets in such varieties as Mexican, cordon bleu, athena, nantucket, Wisconsin, and Colorado jack. If you don't eat eggs, they serve pancakes, french toast, waffles, and oatmeal. Lunch is served here as well. They offer turkey sandwiches, ruebens, cheeseburger, wraps, melts, salads, and soups.
+
+If you want great Chinese food, then a Cheyenne restaurant to check is Twin Dragon at 1809 Carey Avenue. The food is excellent and the service is great. Customers can either order from the menu or for a flat price, eat at the buffet. Dine on such items as Chinese chicken wings, fried rice, chicken chow mein, won tons, crab ragoons, Chinese bbq, chicken on-a-stick, general tso's chicken, dumplings, fried shrimp, beef and broccoli, egg rolls, pepper steak, sweet and sour chicken, grilled fish, crab legs, beef stir fry, chicken egg foo young, and teriyaki beef.
+
+For good Mexican food, one Cheyenne restaurant to stop at is Guadalajara Family Mexican Restaurant at 1745 Dell Range Boulevard. The food is some of the best in the city and the service is always friendly. The margaritas alone are worth the trip. Customers can enjoy such items as fajitas, burritos, enchiladas, tostadas, tacos, nachos, quesadillas, chili, chimichangas, soups, and salads. Some items can also be made into a combo plate. Also, there is seafood, appetizers, and children's plates. Not to mention that the servings are huge. Customers can either dine-in or carry-out.
+
+For a great All-American Cheyenne restaurant, be sure to visit The Albany on Capitol Avenue. Customers can dine on such treats as jalapeno poppers, mozzarella cheese sticks, fried mushrooms, fried zucchini, nachos with the works, chicken tenders, and beer battered onion rings. Oldies but goodies like cheeseburgers, bacon burgers, veggie burgers, prime rib sandwich, ruben, patty melt, club house, fish & chips, chili hot dog, corned beef, burritos, red & green chili, cobb salad, shrimp salad, and a hot turkey or hot beef open face sandwich. The Albany also offers numerous types of beer and has a liquormart as well.
+
+If you are traveling with your family, a Cheyenne restaurant to check out is Texas Roadhouse. This western steakhouse has something for everyone. For starters, try the grilled shrimp, onion cactus blossom, tater skins, cheese fries, and rattlesnack bites. Steaks comes in several cuts and varieties including ribeye, t-bone, sirloin, filet medallions, kabobs, and prime rib. Customers can order from six ounces to 16 ounces. Ribs, burgers, sandwiches, and salads are available as well. The kids' menu features such items as ribs, mini-cheeseburgers, hot dogs, sirloin steaks, chicken critters, macaroni & cheese, steak fries, baked beans, fresh vegetables, and applesauce.
+
+For fresh baked goods, the Cheyenne restaurant to visit is Bread Basket Bakery at 1819 Maxwell Avenue. Come in early in the morning when it opens at 6 a.m. to enjoy cinnamon rolls, coffee cakes, muffins, quick breads, scones, or a loaf of fresh bread in several varieties including jalapeno cheddar, cranberry orange, and sunflower wheat. They offer a lunch menu as well featuring such items as chicken salad sandwiches, cabbage burgers, homemade soups, and bow-tie pasta salad. Save room for desserts like pies, cookies, brownies, turnovers, and pound cakes. For hours and directions, check out their website at breadbasketbakery.com.
+
+You will find good Chinese food at a Cheyenne restaurant called China Wok at 111 Eastwood Shopping Center. Customers can enjoy one of their lunch specials of either chop suey or chow mein. Other items include fried shrimp, szechuan style shredded pork and pepper, pineapple chicken, cantonese low mein, barbequed ribs, chinese vegetable soup, mongolian chicken, moo goo gai pan, roasted pork with vegetables, and pork, ham, and shrimp combination fried rice. There is a vegetarian menu as well. Enjoy one of their cocktails, wine, or beer with your entree. For a full menu and hours, visit chinawokky.com.
+
+Great subs in Cheyenne can be found at Silver Mine Subs at 800 South Greeley Highway. This Cheyenne restaurant offers sandwiches in box lunches for individuals or family size. Popular menu favorites include georgetown (turkey breast, bacon, provolone, avocado, ranch, lettuce, tomato), cripple creek (chicken breast, bacon, provolone, lettuce, tomato, ranch), silver city (salami, ham, provolone, lettuce, tomato, oil, vinegar, onion, oregano, lettuce, tomato, mayo), and homestake (philly cheesesteak with onions and green peppers, provolone, lettuce, tomato). For those watching their weight, there are several subs available with six grams of fat or less as well as vegetarian subs.
+
+**Contributors**
+July 05, 2009
+change
+by [annc](/member/annc)

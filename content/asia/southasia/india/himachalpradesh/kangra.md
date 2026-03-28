@@ -1,0 +1,38 @@
+---
+title: "Kangra"
+type: location
+---
+
+Kangra one of Himachal's beautiful valleys rolls down the southern edge of the magnificent Dhauladhar range in gentle slopes covered with forests of pine, orchards, green tea gardens and terraced fields. 
+
+The Dhauladhars - the "white ranges" rise upto 14,000 ft. from the valley floor like a massive wall providing a dramatic back drop to this soothing landscape. 
+
+Kangra is a little town located just 18 km away from Dharamsala, in one of the prettiest valleys of Himachal with its lush green terraces and orchards, overlooking a gushing stream the Banganga. Once the ancient capital of a powerful hill state, Kangra was known for its magnificent temples and as a centre of the arts. At Kangra itself, a fort and some temples are the only remnants of its glorious past. 
+
+Popularly known as Nagarkot Dham or Kot Kangra, the temple dedicated to goddess Vajreshwari Devi was once the most renowned shrines of Northern India. It is a famous Shaktipeeth where the left breast of Pauranik Sati Parvati is stated to have fallen. The Devi is worshipped in the form of Pindi. A legend avers that the body of demon king Jalandhara is buried at this place. According to another legend, the Goddess Vajreshwari received injuries while killing the demon Mahishasur which were cured by applying butter. The tradition is still celebrated on Makar Sakranti every year. 
+
+Though the main temple was ravaged by foreign invaders and completely destroyed by the 1905 earthquake, it has been restored to its pristine glory. It was rebuilt by the Temple Restoration Committee in the existing form in 1930. The three domes of this temple depict the architecture of religions places of Hindu, Muslims and Sikhs which is quite rare. 
+
+Kangra Fort Kangra Kangra, the land of ancient Trigarta, occupying the lower valley of the fleas and its tributaries, was in ancient times, one of the leading hill states of Punjab and it was a part of the Kingdom of Jalandhara. When the plains of Punjab were subjugated by the Muslims, the Kings of that principality withdrew to their territories in the hills, retained in the Kangra Fort a strong hold of which more than once thwarted the attempts of the Muslim invaders. 
+
+
+
+The Fort, also known as the Nagarkot or Kot Kangra, is situated to the south-west of the old Kangra town (lat 32°, 5' Long 76°,15') and built on the top of the precipitious hill on the confluence of the Banganga and Manjhi or Patal Ganga rivers which also serve as the most of the Fort. Access to the Fort from the town at this place where the ridge of rock which separates the two rivers is narrowed to a mere neck of about 50 m across which a deep ditch has been hewn at the foot of the walls. The antiquity of the Fort is traced back to a much earlier period. The earliest extant remains inside the Fort are the Jaina and Brahmanical temples which could be dated to around the ninth-tenth century AD. In the annals of history, its first reference occurs at the time of invasions of Mahmud Ghazni in AD 1009. In 1337 AD it was captured by Muhammad Tughlaq and again in 1351 by his successor Firoz Shah. But it did not fall to the Muslims permanently until 1621, when after a siege of fourteen months it was conquered by Jahangir, who garrisoned it with his troops and appointed a Mughal Governor to keep the hill chief in the check. The surrounding states however, remained in the hands of the Katoch Rajas. In the second half of the eighteenth century, after the death of its Governor Nawab Alif Khan, the Mughal power rapidly declined and Raja Sansar Chand II succeeded in 1786 in recovering the ancient fortress of his ancestors. But by carrying his ambitious design he came into conflict first with the neighbouring hill chiefs then with the Gurkhas of Nepal, under Amar Singh Thapa and finally with the Sikh ruler Maharaja Ranjit Singh to whom he was compelled to surrender the Fort in 1809. It remained in the hands of the Sikhs till 1846 when it was made over to the British Government along with the hill States as far as Ravi. The Fort continued to be held by a garrison but was evacuated sometime before the great earthquake on 4th April 1905 in which extensive damage was sustained. The Fort, occupying a long strip of land is enclosed with high rampart and the walls cover a circuit of about four kilometres. The main entrance gate is called the Ranjit Singh Gate which is followed by a narrow path leading to Jahangir gate, through the Ahani and Amiri Darwaza, both attributed to Nawab Alif Khan, the first Mughal Governor of Kangra. Thereafter is the Andheri Darwaza from where the path is forked into two directions. The path to the left, through Darsani Darwaza, leads to the portion containing the Laxminarayan temple, datable to Circa ninth-tenth century AD and shrines of Sitala and Ambika Devi. To the north between the two last mentioned buildings is a staircase led up to the palace, known as Shish Mahal and further beyond to the south-west is the polygonal watch tower overlooking the valley. The other path leads to the portion containing the mihrab of a mosque built in Jahangir's time, the Kapoor Sagar tank and other structures. 
+
+The Fort, occupying a long strip of land is enclosed with high rampart and the walls cover a circuit of about four kilometres. The main entrance gate is called the Ranjit Singh Gate which is followed by a narrow path leading to Jahangir gate, through the Ahani and Amiri Darwaza, 
+
+
+
+both attributed to Nawab Alif Khan, the first Mughal Governor of Kangra. Thereafter is the Andheri Darwaza from where the path is forked into two directions. The path to the left, through Darsani Darwaza, leads to the portion containing the Laxminarayan temple, datable to Circa ninth-tenth century AD and shrines of Sitala and Ambika Devi. To the north between the two last mentioned buildings is a staircase led up to the palace, known as Shish Mahal and further beyond to the south-west is the polygonal watch tower overlooking the valley. The other path leads to the portion containing the mihrab of a mosque built in Jahangir's time, the Kapoor Sagar tank and other structures. 
+
+The most valuable monuments in the Kangra Fort are the so-called temples of Laxminarayan and Sitala, two square chambers profusely decorated with carvings. The ceilings of the Laxminarayan temple is remarkable for its elaborate decoration: The destruction of these two temples is due to earthquake and is perhaps great loss of an irreparable nature. The temple of Ambika Devi, still used for worship is much plainer structure evidently of no great age. The only ancient portion seams to be the pillars and architraves of the mandapa covered by a flat dome. To the south of the Ambika Devi temple are two small Jaina shrines facing west, one of them contains a plain pedestal and in the other is placed a seated image of Adinath, with partly obliterated inscription dated Samvat 1523 i.e.AD 1466 in the reign of Katoch Raja, Sansar Chand I. 
+
+The clearance and conservation work brought to light number of loose sculptures and architectural members of the monument which have been kept in a sculpture shed. The important ones, six in numbers have been exhibited in the Himachal State Museum, Shimla. There is a proposal to exhibit the remaining loose sculptures and architectural members by renovating and reconditioning the' existing portions of the monument. 
+
+
+
+
+
+It is advisable to bring warm flight clothing, wind proof jackets, winter flight suits, rough trousers, ankle support shoes since the weather tends to be chilly when one is air borne. Thick gloves/socks are also recommended.
+
+-->

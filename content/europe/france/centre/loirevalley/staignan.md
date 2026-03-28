@@ -1,0 +1,12 @@
+---
+title: "St. Aignan"
+type: location
+---
+
+Located on the banks of the Cher river, St.Aginan has a charming old centre and an impressive chateau which is not open to visitors. You can climb up and guess what you get when you are there - a great view over the Cher valley. 
+
+
+
+
+
+In the old town most of the hosues go back to the 16-th century. The Eglise Collegiale is worth a visit for its medieval murals.

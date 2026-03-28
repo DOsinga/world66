@@ -1,0 +1,15 @@
+---
+title: "Nightlife and Entertainment"
+type: section
+address: "Praza de Feixóo"
+type: "Dancing"
+latitude: 42.880066
+longitude: -8.542415
+---
+
+Besides a major pilgim destination, Santiago de Compostella is also a university town. This ensures a fairly lively nightlife. There is a good number of bars, dancings and places to listen to live music. Santiago is one of the best places to hear the local Breton music, played on gaita's (bagpipes). A good place to start looking for a place to go out at night is c/del Franco.
+
+### Display all
+or display just:
+
+[Bars & Pubs](/europe/spain/galicia/santiagodecompostela/nightlife?subsection=Bars%20%26%20Pubs)

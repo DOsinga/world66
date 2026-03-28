@@ -1,0 +1,28 @@
+---
+title: "Restaurant «Le Villageois»"
+type: poi
+address: "Praça da República, 94 - Vila do Conde - Portugal"
+phone: "+351 252 631 119"
+type: "French"
+latitude: 41.351835
+longitude: -8.741051
+---
+
+Cuisine: French and Portuguese Ambience. All debit and credit cards accepted. Closed Monday.
+
+**Contributors**
+April 08, 2006
+change
+by [giorgio](/member/giorgio)
+
+type: French
+
+
+
+
+
+address: Praça da República, 94 - Vila do Conde - Portugal
+
+tel: +351 252 631 119
+
+[back to Eating Out](..)

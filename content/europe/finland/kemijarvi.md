@@ -1,0 +1,12 @@
+---
+title: "Kemijarvi"
+type: location
+latitude: 66.716118
+longitude: 27.433353
+---
+
+We currently have no information about Kemijarvi.
+
+If you do know any general information about Kemijarvi, please [Edit this article].
+
+If you know any hotels in Kemijarvi or restaurants in Kemijarvi, please [[Add].](/destinations/addItemWizard?addwhere=europe/finland/kemijarvi)

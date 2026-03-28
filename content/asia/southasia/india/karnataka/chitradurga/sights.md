@@ -1,0 +1,6 @@
+---
+title: "Sights"
+type: section
+---
+
+SECULAR PEOPLE NO COMMUNALISM VERY FREINDLY CITIZENS

@@ -1,0 +1,16 @@
+---
+title: "The Ovens Bar"
+type: location
+address: "16/17 Oliver Plunkett St."
+phone: "(021) 4279663"
+latitude: 51.898188
+longitude: -8.469265
+---
+
+Located on Oliver Plunkett Street, 'The Ovens' is an ideal spot for a
+relaxed pint during the evening before it comes alive later on and
+transforms into one of Cork's busier bars. It is a comfortable pub with
+a blazing turf fire during the winter months.
+
+**Change history**
+Minor corrections by [giorgio](/member/giorgio) on 15 April 05

@@ -1,0 +1,15 @@
+---
+title: "Nuuk"
+type: location
+latitude: 64.176705
+longitude: -51.736144
+---
+
+Nuuk is the capital of Greenland and located on the southwest coast, some 300 km from [Qaqortoq](/northamerica/greenland/qaqortoq).
+
+The modern history of Greenland and Nuuk has its beginning in 1721, when Hans Egede, a Norwegian missionary founded the first European all-year colony and trading post. Hans Egede actually came to Greenland to convert the Catholic Norse into Lutherans and to re-establish contact, but soon realized that the Norse were no more. Instead he became the apostle of Greenland. Initially Egede's colony was situated on 'Haabets Ø' (Island of Hope), but it became obvious that the island wasn't suitable, so on the 29th August 1728 the town of Nuuk/Godthaab was founded, and the Danish colonization initiated. Life in the early colony was not easy. In the years 1733-34 a small pox epidemic killed most of the native population and Hans Egede's wife. Hans Egede went back to Norway shortly after, but his sons continued the mission in Greenland. In the old harbour in Nuuk Hans Egedes house still stands.
+
+By 1733 the Danish king issued a permit to the German mission, the Herrnhuts, to go to Greenland to assist Hans Egede in the conversion of the greenlanders. However it soon came to a conflict between different theological principles, and the Herrnhuts and the official protestant church became actual religious rivals until 1899, when the Herrnhuts finally gave up their commitment in Greenland. The most visible remnant of the Herrnhuts in Nuuk is the building now housing the University of Greenland, Ilisimatusarfik. Built in 1747 the beautiful wooden building constitutes an erudite atmosphere for the University…. And in the dark winternights the footsteps of the old herrnhut missionaries can still be heard!
+
+*Change history*
+Minor corrections by [joosts](/member/joosts) on 13 March 04

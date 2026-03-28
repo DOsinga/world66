@@ -1,0 +1,8 @@
+---
+title: "Day Trips in Azad Kashmir"
+type: section
+---
+
+I AM ABDUL WAHAB ABBASI FROM RAWLAKOT AZAD KASHMIR.
+
+VILLAGE JANDATHI JALOOTH P O PANIOLA B P O JANDATHI.

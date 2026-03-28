@@ -1,5 +1,0 @@
-# Lonely Planet Madagascar and the Comoros
-
-*Africa > Madagascar > Books > Lonelyplanetmadagascarandthecomoros*
-
-[](http://www.amazon.com/exec/obidos/ASIN/0864424965/osingacom?creative=125581&camp=2321&link_code=as1)

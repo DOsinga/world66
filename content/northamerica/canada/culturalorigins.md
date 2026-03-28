@@ -1,0 +1,6 @@
+---
+title: "Cultural Origins"
+type: location
+---
+
+As well as having a varied geography and demographics, nowhere seems to be as culturally diverse as Canada. Canada encourages its citizens to remember and to celebrate their cultural heritage, no matter where they or their ancestors came from. This means that Canada has a wonderful cultural mosaic from which to draw on. Canada features a great variety of cultural and ethnic events and festivals that occur throughout the year and throughout the country. Perhaps because Canadian citizens are encouraged to remember their origins, it is sometimes difficult for people who live within Canada to see themselves as purely Canadian, and a lot of people pose the question "What exactly is it that makes Canadians Canadian?" Some say Canada's true identity lies in its diversity, that it is this mosaic that makes Canada unique. In the last thirty years mass immigration has taken place from all over the world, rather than mainly from Europe and the United States as it had in the past. This has led to even more cultural diversity than before. Of course for the visitor, this only adds to the attraction of a trip to Canada. Plus the beer's really good.

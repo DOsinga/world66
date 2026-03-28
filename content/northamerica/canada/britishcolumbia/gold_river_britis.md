@@ -1,0 +1,28 @@
+---
+title: "Gold River Travel Guide"
+type: location
+---
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Sheer rock faces laced with misty cascading waterfalls and dotted with lush, green fiddle head ferns are on one side of you and a long series of inter-connected beautiful inky black lakes quietly lay on the other side of you. Stretched out before you is an 80km picturesque winding road. The view around the next corner is more beautiful than the last and you are compelled to follow this road to it's end. And you do.
+
+Rounding the last bend, still revelling about the beautiful scenery you witnessed while passing through Strathcona Provincial Park, you see a small hamlet of a town. Welcome to Gold River. Gold River is a jewel of a town and is a best kept secret for fishermen (and fisherlassies). A mountain range surrounds Gold River bringing with it not only spectacular scenery, but lakes, rivers and waterfalls too. All of which team with an abundance of wildlife including fish, deer, elk, black bears and many species of birds. The Pacific Ocean is short drive outside of town where people from all around the world who have learned the secret to our waters head every season just to catch a 30lb salmon and to soak in the mild climate and absorb the deep beauty of the West Coast.
+
+Adventure seekers already know of Gold River for its world class rock climbing. Strathcona boasts some of the more challenging rock to climb, but caters to all levels of climbers from beginners to those daring enough to climb 5.12+. White water kayakers paddle the rivers year round with dozens of rivers to chose from each promising the river to themselves and no one else. Traffic for kayakers thus far has remained low. No waiting for a wave to play on out here! Although the potential for outdoor pursuits exists, few are taken advantage of.
+
+The town of Gold River itself is small. With a population of just over 1000, this is a town where everyone knows everyone and everyone will go out of their way to say hello to a new face in town. There isn't a lot for touristy action in Gold River. The surrounding areas however are steeped in rich history. Captain Cook sailed his great ship in these area's discovering Nootka Island. Going to the government wharf (ask a local) is a beautiful 7km drive along the Heber River. After passing several large waterfalls seeming as though they are pouring directly onto the road around you, you will arrive at what was once a thriving pulp and paper mill, now defunct. Here you will find the Uchuck III. A cargo boat that still operates as a cargo ship, but also caters to the tourist. Taking a tour with the Uchuck can bring you out the the aforementioned Nootka Island where you can stay on the island in one of their isolated and self contained huts. Built in 2004 with the more adventerous tourist in mind, these huts are new and comfy, but rustic in the sense that no electricity is provided. If you are one to be content with ocean waves crashing mere feet from your hut, and a serene peaceful fresh water lake immediately on the other side of your hut as your tv and winds whispering through pine trees and birds chirping out their songs as your stereo, then this is definately the place for you. Walking down what seems like endless kilometers of polished rock beach, stopping to view colorful tidal pools thriving with life and eagles flying all around is truly an unforgettable experience.
+
+Other tourist options are caving, guided forest tours, whale watching and camping. Be careful though. All these options are there for anyone to do, and if you are there, you should make the best of your time and be sure to partake in some sort of fun activity. However, the town of Gold River has yet to clue into the possibilities of the adventure travel crowd and there seems to be a lack of tour places willing to help a visitor see the surrounding areas. With a little work and research from your end, you should be able to wrangle up some great times for your stay in Gold River. Do not show up and assume there are tour guides waiting to book you an adventure. There are no tourist companies set up with shops... planning ahead is vital.
+
+There are a few cozy bed and breakfasts available for booking as well as The RidgeView Motel, The Gold River Chalet and for the more upscale traveler there is The Lodge at Gold River. The latter is aimed primarily to more established person and their prices may seem steep, but the setting is stunning and most ammenities are included in the price and may make for a cheaper stay in the long run.
+
+Being such a small and remote village, Gold River may scare you off before you get comfortable. To make the most of this small, but very fun town, give yourself a few days to get comfortable and make the most of what is around you! Book that tour and see the forests, I promise there is something there for everyone.
+
+#### Contributors
+
+May 11, 2006 change by [giorgio](/member/giorgio)
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Thu 21:23

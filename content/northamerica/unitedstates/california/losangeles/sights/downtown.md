@@ -1,0 +1,17 @@
+---
+title: "Downtown"
+type: poi
+---
+
+Downtown is recognizable for the tallest building on the west coast – the Library Tower and many iconic buildings seen in countless TV shows and movies – including the round glass tower Bonaventure Hotel (TRUE LIES), the Arco Towers and the Wells Fargo Building (LA LAW). Even the streets in the area are often featured as they rise up and down on different tiers so a) the chase scene in a confined area can look different with every new shot and b) Downtown is pretty much deserted on the weekends. The Museum of Contemporary Art is here as is the new Frank Gehry Disney Symphony Hall. Other architectural showpieces are the Italianate Renaissance-style Biltmore Hotel, facing renewed Pershing Square, and the Beaux Arts-style Central Library, and the Mission-style Union Station captures the heyday of train travel. You can also catch the ANGEL’S FLIGHT cable car here – doesn’t really travel very far. LA DOWNTOWN is slowly evolving into more residential but for a huge massive metropolitan area, it’s essentially deserted past 6 PM and on the weekends. As it’s tilted towards financially related companies, they do tend to keep banker’s hours in DOWNTOWN. There are some hidden (night) clubs and other hangouts for artists but you have to know where to look.
+
+There are also dozens of great high-end business hotels in the area – if you’re conventioning here, staying downtown is the most convenience with the best hotels. If you’re doing the usual LA tourist thing, there’s no particularly reason to stay downtown. It’s really far from most of the action though the Metro Rail has shortened that distance somewhat. For people from other countries or cities, they usually think of downtown as the hub of the city – in LA, unless you’re at a convention or you have financial business – downtown is nearly an hour to two hours away from everything else during rush hour commute and frankly, the LA commute is almost longer than non-commute hours so be warned.
+
+**Downtown south**
+
+Going a few blocks is the Convention Center. While the Convention Center is nice, the blocks are VERY, VERY long around there so keep in mind once you’re at the convention center, you need a car or a cab to get out of there. For the adventurist, you can visit the Wholesale/Latino district a few blocks east. During the day, it is teeming with life, south of the border music, and crowded with food and color. It’s an amazing contrast to the sterility of the area around the convention center or the serious suits in downtown. There are some streets you swear that you are in Mexico City or Guatemala. You are expected to speak Spanish but everyone is friendly in the shops and restaurants if you’re a gringo :- ) … this is probably not a neigborhood to wander around along at night – like any big city at night but it’s great fun and good eating during the day.
+
+Further south is USC and the Coliseum.
+
+*Change history*
+Orginal article by [giorgio](/member/giorgio) on 18 March 04

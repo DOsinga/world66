@@ -1,13 +1,0 @@
-# Gelik Et Lokantasi
-
-*Asia > Middleeast > Turkey > Istanbul > Eatingout > Geliketlokantasi*
-
-ATAKOY: **The Gelik Et Restaurant**
-
- The Gelik Et Restaurant in Bakirköy is deservedly one of the most famous restaurants in all of Istanbul. There is no way to confuse this place with its sister fish restaurant nearby because as soon as you enter this huge, tastefully decorated and well-lit establishment the aroma of cooked meat simply transports you to a sensory heaven where vegetarians have never been.  
-
- Although usually crowded on weekends the place has a capacity of over eight hundred on two levels and has a delightful outdoor dining area and playground for several hundred more during the warmer months. Not that you'll really mind waiting a few minutes for a table, as the open kitchen displays a mouthwatering array of meat with a capital M! The Gelik döner is superb with its light yoghurt and tomato sauce and they have a whole selection of generously cut steaks, chops, and kebabs; however there are a couple of items that they're famous for and my favorite by far is the Gelik kebab, known as kuzu tandir. Almost impossible to find outside of Konya, these rich, fatty, and deliciously tender hunks of stone hearth-baked lamb are enough to clog your arteries with delight. Gelik is also renowned for their special rice, baked with mushrooms and currants. Definitely order a portion of kasarli köfte (a ground beef patty filled with cheese) for everyone to taste but don't waste your time on the ample selection of appetizers and salads - you can get them anywhere. Go straight to the kuzu tandir and you won't be disappointed! If you don't have time for a relaxing dinner, they do a brisk business at their high-volume fast food counter located next door which specializes in kuzu tandir sandwiches. The Gelik Et Restaurant is surprisingly easy to get to as it's near the water between the Crown Plaza Holiday Inn, the Galleria mall, and the waterfront marina in Ataköy. You can either catch a dolmus to Bakirköy or take the train from Sirkeci station to Bakirköy. Either way it's only a ten minute walk down to the water along a very pleasant pedestrian shopping street filled with upscale shops. Cross over the highway running alongside the Marmara Sea using the pedestrian walkway and turn left at the bottom of the stairs. It's about a hundred meters down the road, near a Mobil gas station. Not very expensive as nice restaurants go, you can expect to pay about $25 for dinner for two. I hear they have fabulous desserts but as I always stuff myself on baked lamb, anything else is just a friendly rumor!
-
-type: International Cuisine
-
-World66 rating:

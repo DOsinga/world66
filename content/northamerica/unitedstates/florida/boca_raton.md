@@ -1,0 +1,16 @@
+---
+title: "Boca Raton Travel Guide"
+type: location
+---
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Boca Raton (pronounced /ˈboʊkə rəˈtoʊn/) is a city in Palm Beach County, Florida, USA, incorporated in May 1925. In the 2000 census, the city had a total population of 74,764; the 2006 population recorded by the U.S. Census Bureau was 86,396.[4] However, the majority of the people under the postal address of Boca Raton, about 200,000[5] in total, are not actually within the City of Boca Raton's municipal boundaries. It is estimated that on any given day, there are roughly 350,000 people in the city itself.
+
+Source: http://en.wikipedia.org/wiki/Boca_Raton,_Florida
+
+*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Boca_Raton,_Florida*
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Wed 20:10

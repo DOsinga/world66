@@ -1,0 +1,6 @@
+---
+title: "Passaic County"
+type: location
+---
+
+If you like bowling, strip malls, diners, skating, and more! Then Passaic County is your home away from home!

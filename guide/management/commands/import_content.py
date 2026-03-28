@@ -70,23 +70,37 @@ def slug_to_name(slug):
 
 
 def parse_markdown(filepath):
-    """Read a markdown file and extract title and body."""
+    """Read a markdown file and extract title, body, and frontmatter properties."""
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
+    # Parse frontmatter
+    properties = {}
+    if content.startswith("---"):
+        end = content.find("---", 3)
+        if end != -1:
+            fm = content[3:end].strip()
+            for line in fm.split("\n"):
+                if ": " in line:
+                    key, val = line.split(": ", 1)
+                    val = val.strip().strip('"')
+                    properties[key.strip()] = val
+            content = content[end + 3:].strip()
+
     # Extract title from first # heading
-    title = ""
+    title = properties.pop("title", "")
     body = content
     m = re.match(r"^# (.+)\n", content)
     if m:
-        title = m.group(1).strip()
+        if not title:
+            title = m.group(1).strip()
         body = content[m.end():]
 
     # Strip breadcrumb line
     body = re.sub(r"^\*[^*]+\*\s*\n*", "", body)
 
     body = body.strip()
-    return title, body
+    return title, body, properties
 
 
 class Command(BaseCommand):
@@ -135,7 +149,7 @@ class Command(BaseCommand):
             if not parts:
                 continue
 
-            title, body = parse_markdown(filepath)
+            title, body, properties = parse_markdown(filepath)
 
             # Determine if last segment is a section
             last_segment = parts[-1]
@@ -192,6 +206,7 @@ class Command(BaseCommand):
                         "section_type": section_slug,
                         "title": section_title,
                         "body": body,
+                        "properties": properties,
                     },
                 )
                 if created:

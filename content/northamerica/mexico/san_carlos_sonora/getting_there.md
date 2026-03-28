@@ -1,0 +1,44 @@
+---
+title: "Getting There"
+type: section
+---
+
+From Guaymas north exit, take Federal Highway #15, after 6 miles take the intersection to San Carlos .
+
+From Hermosillo , by Federal Highway #15 after 80 miles take the intersection to the coast and San Carlos .
+
+**Contributors**
+March 06, 2005
+new
+by [afernandezk](/member/afernandezk)
+
+##
+
+-
+
+-
+
+-
+
+[](/lib/map/handle?loc=northamerica|mexico)
+
+[](/lib/map/handle?loc=northamerica|mexico|san_carlos_sonora)
+
+- partner sites:
+
+- [Wikitravel Press](http://wikitravelpress.com/)
+- |
+- [Adventure Travel](http://www.gapadventures.com)
+- |
+- [Cheap Airline Tickets](http://travel.yahoo.com)
+- |
+- [Cruises](http://www.cruise.com)
+- |
+- [Virtual Tours](http://www.3cim.com)
+
+[](http://creativecommons.org/licenses/by-sa/1.0/)
+
+This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
+For more information read our
+
+[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

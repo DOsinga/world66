@@ -1,0 +1,16 @@
+---
+title: "Beaches"
+type: section
+---
+
+### [Beachway Park, Burlington Ontario](/northamerica/canada/beaches/beachway_park_bur)
+
+Beachway Park is located in Burlington along the narrow sand strip at the eastern end of Lake Ontario on Lakeshore Rd. between the the downtown area and the Burlington Bay Canal. It is open to the public at no cost, has free parking, washrooms, changerooms, showers and has the finest sandy beach at the eastern end of Lake Ontario.
+
+A 6 metre (20 feet) wide paved trail ideal for walking, jogging, cycling, etc. runs parallel to the beach from the downtown all the way to the canal and connects to Hamilton's trail on the other side of the canal.
+
+A great [more..](/northamerica/canada/beaches/beachway_park_bur)
+
+
+
+[[rate it]](/northamerica/canada/beaches/beachway_park_bur)

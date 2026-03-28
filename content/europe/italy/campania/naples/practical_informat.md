@@ -1,0 +1,21 @@
+---
+title: "Practical Information"
+type: section
+address: "PRATELLA 43"
+email: "INFO@NAPOLIGUIDETURISTICHE.IT"
+phone: "+393397127416"
+type: "Tourist information"
+url: "WWW.NAPOLIGUIDETURISTICHE.IT"
+latitude: 41.405825
+longitude: 14.178097
+---
+
+IF YOU WANT TOURISTIC INFORMATION ABOUT NAPLES AND SURROUNDNG PLEASE CONTACT ME ANNA
+
+WWW.NAPOLIGUIDETURISTICHE.IT
+
+### ANNA LEVA
+
+OFFICIAL TOUR GUIDE IN CAMPANIA REGION.
+
+type: Tourist information

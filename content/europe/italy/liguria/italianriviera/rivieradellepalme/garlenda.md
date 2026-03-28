@@ -1,0 +1,6 @@
+---
+title: "Garlenda"
+type: location
+---
+
+A commune situated in the valley of the Lerrone upstream of its confluence with the Arroscia, in 1142 it came into the possession of the marchesi Del Carretto, who in 1385 became vassals of the republic of Genoa. Ceded to the Costa in 1594, it passed to the Del Carretto of Balestrino in 1717 and a few years later (1743) was annexed to the kingdom of Sardinia. The parish church of the Natività is an interesting seventeenth-century construction with an octagonal dome and campanile in the baroque style. Inside, it is decorated with carved marble and a seventeenth-century canvas attributed to Guercino. The castle of the marchesi of Balestrino at Pragliano, called the Castello della Meridiana, was rebuilt in the seventeenth century and modified by subsequent interventions. The ruins of another fortified settlement at the locality of Castelli date from the Middle Ages. Local agriculture, which produces wine grapes (Rossese and Pigato) and fruit, has recently been supplemented by development of the tourist industry, with the creation of first-rate sports facilities: a sports complex, an eighteen-hole golf course and the Club Horse, with a riding school, swimming pools, skating rink, soccer pitches and tennis courts.

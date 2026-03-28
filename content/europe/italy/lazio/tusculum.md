@@ -1,0 +1,12 @@
+---
+title: "Tusculum"
+type: location
+latitude: 41.797721
+longitude: 12.707404
+---
+
+We currently have no information about Tusculum.
+
+If you do know any general information about Tusculum, please [Edit this article].
+
+If you know any hotels in Tusculum or restaurants in Tusculum, please [[Add].](/destinations/addItemWizard?addwhere=europe/italy/lazio/tusculum)

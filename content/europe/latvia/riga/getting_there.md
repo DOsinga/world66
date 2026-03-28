@@ -1,0 +1,6 @@
+---
+title: "Getting There"
+type: section
+---
+
+The airport is eight kilometers far from the center of Riga. You can buy a 10-day visa on arrival. The currency exchange is opened 6 AM to 10 PM. There is a VISA/EC/MasterCard cash machine. The baggage room is opened 9 AM to 9 PM. Information bureau telephone is 7207136.You can get to town using a taxi (tel.7207509) or bus (N22). The train station is located in Riga's center. Currency exchange is opened 8:30 AM to 9:30 PM. There is a VISA/EC/MasterCard cash machine in the post office on the right and near McDonald's in front of stations building. Baggage room is opened 4 AM to 1 AM. The information bureau is opened 8 AM to 1:30 PM and 2:45 PM to 8 PM. You can get to town by taxi (not less, then 2 Ls) or by foot (free). Old Riga is left to you when you leave stations building.  The bus terminal is opened 5 AM to 0 AM. Currency exchange is opened 8 AM to 8 PM, baggage room- 5:30 AM to 11 PM. you can get to town using tram N7 or by foot (turn left and follow the signs "Vecriga-Valnu iela"). The ferry terminal also lies in the center of the city. Money exchange is opened 9 AM to 6 PM. You can get town using trams NN 7,5 or 9.  Business Map of Riga: http://www.hamilton.lv/

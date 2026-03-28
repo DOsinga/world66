@@ -1,0 +1,28 @@
+---
+title: "Ormond Beach Travel Guide"
+type: location
+---
+
+The best resource for sights, hotels, restaurants, bars, what to do and see
+
+Ormond Beach is located at the north end of the *Daytona Beach area*.
+Ormond Beach was once home to oil industry multi-millionaire, John D.
+Rockefeller and railroad magnate, Henry Flagler, as well as the early
+automotive pioneers who tested their inventions on the hard-packed
+beach.
+
+Today, Ormond Beach is known as the "Birthplace of Speed" and
+celebrates its racing heritage with annual events that reenact the
+early days of racing on the beach. Visitors to the area can enjoy a
+tour through the Casements, the former winter home of John D.
+Rockefeller, canoeing, fishing and viewing a vast array of wildlife at
+the Tomoka State Park. The area also boasts several beachfront and
+riverfront parks. Visitors seeking a quieter part of the beach can find
+it in the Ormond Beach area. In fact, beach driving is not allowed at
+the northern end of Ormond Beach.
+
+*Part or or all of this text stems from the original article at: http://wikitravel.org/en/Ormond_Beach*
+
+Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+
+Page last generated on Sun 09:56

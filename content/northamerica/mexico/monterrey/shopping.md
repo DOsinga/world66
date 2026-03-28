@@ -1,0 +1,14 @@
+---
+title: "Shopping in Monterrey"
+type: section
+---
+
+CARAPAN ARTS AND CRAFTS CENTER, FOUNDED IN 1950 IS ONE OF THE BEST PLACES TO BUY MEXICAN FOLK ART.
+
+HIDALGO OTE. 305
+
+MONTERREY N.L., 64000
+
+TEL. (52 81) 83454422
+
+www.carapangaleria.com

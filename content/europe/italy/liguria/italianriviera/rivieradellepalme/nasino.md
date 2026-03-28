@@ -1,0 +1,6 @@
+---
+title: "Nasino"
+type: location
+---
+
+An agricultural center spread out over the Pennavaire valley, it is located on the southern side of Monte Galero (1708 meters or 5604 feet) and faces the steep slopes of Monte Peso Grande (1092 meters or 3583 feet). The valley, divided between the provinces of Imperia, Cuneo and Savona), contains numerous caves that were inhabited, either permanently or seasonally, from the end of the Epigravettian period (about 9000 years ago) up until the Roman era. The finds made in those of the Savona region are conserved in the Civico Museo Inguano at Albenga. The area was a fief of the marchesi Del Carretto of Balestrino, who had a castle at the locality of Vignoletto, in an excellent strategic position. It is now in ruins. In 1202 the marchesi signed a pact with the republic of Genoa that remained in force until 1735, when the fief was placed under the rule of the kingdom of Sardinia. The parish church of San Giovanni Battista dates from the seventeenth century, while the shrine of the Madonna di Curagna was originally the principal church in the valley. The area has pleasant agricultural scenery, characterized by woods and pastures.

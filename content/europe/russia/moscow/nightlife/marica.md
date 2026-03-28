@@ -1,0 +1,36 @@
+---
+title: "Marica"
+type: poi
+address: "st. Petrovka, 21"
+closing_time: "6"
+phone: "+7(095) 924-03-58"
+type: "Clubs and dancing"
+url: "www.marica.ru"
+latitude: 45.489908
+longitude: 34.283117
+---
+
+Great place to party and one of the best club in Moscow. Music: best RnB.
+
+Face Control, Dress Code.
+
+**Contributors**
+May 05, 2005
+change
+by [giorgio](/member/giorgio)
+
+type: Clubs and dancing
+
+
+
+
+
+ClosingTime: 6
+
+url: [www.marica.ru](http://www.marica.ru)
+
+address: st. Petrovka, 21
+
+tel: +7(095) 924-03-58
+
+[back to Nightlife and Entertainment](..)

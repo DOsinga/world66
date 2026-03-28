@@ -1,0 +1,27 @@
+---
+title: "Italian Riviera"
+type: location
+latitude: 44.14828
+longitude: 8.271494
+---
+
+The Italian Riviera, an extension of the French Riviera, is dotted with mountains villages small and often secluded beaches (sandy to rocky) a wide range of hotels, entrancing scenery and remarkable culture. Visit several beaches and towns in the area: Each is different. If you are in the area, remember to visit [Sanremo](/europe/italy/liguria/italianriviera/sanremo) , the city of the flowers.
+
+A bathing and tourist resort set on the area comprised between **Andora** and [Varazze](/europe/italy/liguria/italianriviera/rivieradellepalme/varazze) is called [Riviera delle Palme](/europe/italy/liguria/italianriviera/rivieradellepalme) ": go to the detailed section for further information. South of [Genoa](/europe/italy/liguria/genoa) is an excellent hiking area with a trail that leads through Cinque Terre five traditional coastal villages not easily accessible by car (they’re best reached by train or boat if not by foot): [Riomaggiore](/europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore) , Manarola , Corniglia (which produces a fine white wine) Vernazza (a picturesque fishing village) and [Monterosso](/europe/italy/liguria/italianriviera/thecinqueterre/monterosso) (which fronts upon a long beach). The trail that links the villages hugs seaside cliffs and traverses vineyards and olive groves. You can always hop on the train that connects the region to La Spezia (to the south) and Levanto (to the north) if the hiking becomes too tiring. And if you have a little extra time there are a number of lovely small medieval churches on the hillsides overlooking the villages. 150 mi/250 km long from [Ventimiglia](/europe/italy/liguria/italianriviera/ventimiglia) on the French border to Livorno in [Tuscany](/europe/italy/tuscany) . The Ligurian Riviera is dotted with towns like [Ventimiglia](/europe/italy/liguria/italianriviera/ventimiglia) , [Sanremo](/europe/italy/liguria/italianriviera/sanremo) , [Alassio](/europe/italy/liguria/italianriviera/rivieradellepalme/alassio) , [Albenga](/europe/italy/liguria/albenga) , [Ceriale](/europe/italy/liguria/ceriale) , [Finale Ligure](/europe/italy/liguria/italianriviera/finaleligure) , [Spotorno](/europe/italy/liguria/italianriviera/spotorno) , [Noli](/europe/italy/liguria/italianriviera/noli) , [Savona](/europe/italy/liguria/savona) , [Albisola and Albissola](/europe/italy/liguria/italianriviera/albisolaandalbissola) , [Celle Ligure](/europe/italy/liguria/italianriviera/celleligure) , [Arenzano](/europe/italy/liguria/italianriviera/arenzano) , [Pegli](/europe/italy/liguria/italianriviera/pegli) , [Rapallo](/europe/italy/liguria/italianriviera/tigullio/rapallo) , S. Margherita in the [Paradise Gulf](/europe/italy/liguria/italianriviera/paradisegulf) , [Portofino](/europe/italy/liguria/portofino) , The Tigullio Gulf , [The Cinque Terre](/europe/italy/liguria/italianriviera/thecinqueterre) and [La Spezia](/europe/italy/liguria/laspezia) , all surrounded by mountains, villages, small and often s.
+
+## Top Destinations in Italian Riviera
+
+[Riviera delle Palme](/europe/italy/liguria/italianriviera/rivieradellepalme)
+[Sanremo](/europe/italy/liguria/italianriviera/sanremo)
+[Noli](/europe/italy/liguria/italianriviera/noli)
+[Ventimiglia](/europe/italy/liguria/italianriviera/ventimiglia)
+[Celle Ligure](/europe/italy/liguria/italianriviera/celleligure)
+[Albisola and Albissola](/europe/italy/liguria/italianriviera/albisolaandalbissola)
+[Arenzano](/europe/italy/liguria/italianriviera/arenzano)
+[Spotorno](/europe/italy/liguria/italianriviera/spotorno)
+[Finale Ligure](/europe/italy/liguria/italianriviera/finaleligure)
+[Paradise Gulf](/europe/italy/liguria/italianriviera/paradisegulf)
+[The Cinque Terre](/europe/italy/liguria/italianriviera/thecinqueterre)
+[Recco](/europe/italy/liguria/italianriviera/paradisegulf/recco)
+
+[**Show all destinations in Italian Riviera.**](/europe/italy/liguria/italianriviera/lib/alldestinations)

@@ -1,0 +1,29 @@
+---
+title: "Eating Out in Acireale"
+type: section
+address: "Via Vittorio Emanuele III, 48"
+phone: "+393497896343"
+price: "€25-35"
+type: "Italian"
+url: "www.prenotaristorante.com"
+latitude: 40.83915
+longitude: 14.251435
+---
+
+### [Osteria Incognito](/europe/italy/sicily/acireale/eatingout/osteria_incognito)
+
+**A very good restaurant, with typical dish of Sicilian cuisine with fish!!!**
+
+type: Italian
+
+
+
+[[rate it]](/europe/italy/sicily/acireale/eatingout/osteria_incognito)
+
+tel: +393497896343
+
+url: www.prenotaristorante.com
+
+address: Via Vittorio Emanuele III, 48
+
+PriceOfMenu: €25-35

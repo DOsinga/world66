@@ -1,0 +1,9 @@
+---
+title: "Rosslare"
+type: location
+---
+
+Rosslare is a small port town in the south. The town serves as an entrance to the continental Europe.
+
+*Change history*
+Orginal article by [hypeyoyo](/world/member/hypeyoyo) on 25 April 04

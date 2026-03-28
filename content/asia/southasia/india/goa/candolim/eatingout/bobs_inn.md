@@ -1,0 +1,27 @@
+---
+title: "Bobs Inn"
+type: poi
+address: "Calangute-Candolim Road, Goa"
+type: "Indian and Pakistani"
+latitude: 15.530177
+longitude: 73.765996
+---
+
+If authentic goan food is what your looking out for then Bobs Inn is probably the best place to find it in Candolim. A cheap value for money place, a meal here wont cost you more than 200-300 Rupees depending on what kind of seafood you order.
+
+It is an open air garden restaurant with a rustic ambience. I wont be able to single out any really good dish as whatever i have eaten here has been excellent. So go check it out for yourself!!
+
+**Contributors**
+April 21, 2005
+change
+by [rushabh](/member/rushabh) (1 point)
+
+type: Indian and Pakistani
+
+
+
+
+
+address: Calangute-Candolim Road, Goa
+
+[back to Eating Out](..)

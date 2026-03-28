@@ -1,0 +1,12 @@
+---
+title: "Bodo"
+type: location
+latitude: 67.284431
+longitude: 14.38175
+---
+
+**BODØ** 
+
+Bodø is the second biggest town in North Norway with more than 40 000 inhabitants. The railway ends here, and the town may be said to be the communication centre in North Norway. Bodø is the most important gate to the Lofoten islands with dayly ferry, coastal vessel (Hurtigruten) and airplane connection to this group of islands.
+
+-->

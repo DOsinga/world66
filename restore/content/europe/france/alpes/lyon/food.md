@@ -1,11 +1,0 @@
-# Eating Out
-
-*Europe > France > Alpes > Lyon > Food*
-
-Since the 16th century, Lyon's cuisine has delighted many a customer in its "bouchon" bistros and in its first restaurants. These palate-pleasers will never disappoint and the traditional tastes remain intact.  Lyon's cuisine owes its virtuosity first of all to the quality of local produce. The farms of the Bresse and Charolais regions, the wild game of the Dombes, the fish from the Savoy lakes, the fruits and vegetables of the Rhône valley and the Forez region are all within easy reach and supply the essential ingredients for Lyon's famed cuisine. The local culinary specialties are plentiful and varied: pork products and "cervelle de Canuts" soft cheese with herbs, "bugnes" beignets, fried pork fat, Lyonnais salad, "tablier de sapeur" tripes, "gras double" tripes, "petit salé" ham with lentils, "quenelles" dumplings (a mixture of butter, semolina and fish), black pudding, "andouillette" chitterling sausage, "paillasson" fried hashed potatoes, and more, if you're still hungry!  But cooking is promoted to the rank of gastronomy when man adds imagination and a master's touch.  
-
- Rather, we should say, woman, for in Lyon it is the "mothers", those famous robust cooks, who gave Lyonnais cuisine its very special character and who invented the 10 a.m. "mâchon" snack which was a welcome break when the working day had started at dawn. The first of these mothers was Mère Guy, followed by Mère Filloux and Mère Brazier, who practised their art at the beginning of this century, pleasing the palates of the most important personages of their time.  
-
- Today, men uphold the tradition and many local 3-star restaurants (awarded by the Michelin Guide) carry the banner of Lyonnais cuisine throughout France and the world. You'll have a meal to remember, be it with the great chefs or in the humble "bouchons", these small traditional restaurants with picturesque interiors, serving local pork dish specialties, copiously washed down with bottles of Beaujolais or Côtes du Rhône wine.  
-
- The immortality of Lyon's culinary know-how is guaranteed not only by the 1000 restaurants which contribute to the inviting and festive atmosphere of the city and the great chefs who are its ambassadors, but also by such initiatives as the Food Trade

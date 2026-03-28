@@ -1,0 +1,134 @@
+{% extends "guide/base.html" %}
+
+{% block title %}
+{% if page.page_type == "location" %}{{ page.title }} Travel Guide{% else %}{{ page.display_name }} in {{ parent.title }}{% endif %} - World66
+{% endblock %}
+
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="/">World</a>
+  {% for name, path in breadcrumbs %}
+    <span class="sep">&rsaquo;</span>
+    {% if forloop.last and not parent %}
+      <span class="current">{{ name }}</span>
+    {% else %}
+      <a href="/{{ path }}">{{ name }}</a>
+    {% endif %}
+  {% endfor %}
+  {% if parent %}
+    <span class="sep">&rsaquo;</span>
+    <span class="current">{{ page.display_name }}</span>
+  {% endif %}
+</nav>
+{% endblock %}
+
+{% block sidebar %}
+<aside id="sidebar">
+  {% if sections or parent_sections %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      Sections
+    </h3>
+    <ul class="sidebar-nav">
+      {% if parent %}
+      <li><a href="{{ parent.get_absolute_url }}"><strong>{{ parent.title }}</strong></a></li>
+      {% for s in parent_sections %}
+      <li{% if s.slug == page.slug %} class="active"{% endif %}>
+        <a href="{{ s.get_absolute_url }}">{{ s.display_name }}</a>
+      </li>
+      {% endfor %}
+      {% else %}
+      <li class="active"><a href="{{ page.get_absolute_url }}"><strong>Travel Guide</strong></a></li>
+      {% for s in sections %}
+      <li><a href="{{ s.get_absolute_url }}">{{ s.display_name }}</a></li>
+      {% endfor %}
+      {% endif %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if locations %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      Places in {{ page.title }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for child in locations|slice:":30" %}
+      <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
+      {% endfor %}
+      {% if locations|length > 30 %}
+      <li class="more"><a href="#">Show all {{ locations|length }} &rarr;</a></li>
+      {% endif %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if pois %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {% if page.page_type == "section" %}{{ page.display_name }}{% else %}Highlights{% endif %}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for poi in pois %}
+      <li><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</aside>
+{% endblock %}
+
+{% block content %}
+{% if is_continent %}
+<div id="country-map" class="country-map"></div>
+{% elif lat and lng %}
+<div id="location-map" class="location-map-small" title="Click to expand"></div>
+{% endif %}
+
+<h1>{% if page.page_type == "location" %}{{ page.title }} <span class="title-sub">Travel Guide</span>{% else %}{{ page.title }}{% endif %}</h1>
+
+{% if page.properties %}
+<div class="info-box">
+  <table>
+    {% for key, value in page.properties.items %}
+    <tr>
+      <th>{{ key }}</th>
+      <td>{% if key == "url" %}<a href="http://{{ value }}">{{ value }}</a>{% elif key == "email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endif %}
+
+{% if body_html %}
+<div class="body-text">
+  {{ body_html|safe }}
+</div>
+{% endif %}
+
+{% if locations and page.page_type == "location" %}
+<div class="destinations-section">
+  <h2>Destinations</h2>
+  <div class="destination-columns">
+    {% for child in locations %}
+    <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+{% endblock %}
+
+{% block extra_js %}
+{% if is_continent %}
+<script>
+initCountryMap('country-map', '{{ continent_slug }}');
+</script>
+{% elif lat and lng %}
+<script>
+initLocationMap('location-map', {{ lat }}, {{ lng }}, '{{ page.title|escapejs }}');
+</script>
+{% endif %}
+{% endblock %}

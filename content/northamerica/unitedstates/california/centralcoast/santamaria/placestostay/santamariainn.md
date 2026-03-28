@@ -1,0 +1,62 @@
+---
+title: "The Historic Santa Maria Inn"
+type: location
+address: "801 South Broadway, Santa Maria, California 93454"
+email: "innkeeper@santamariainn.com"
+phone: "805-928-7777"
+type: "Sleep Cheap"
+url: "www.santamariainn.com"
+latitude: 34.944366
+longitude: -120.435817
+---
+
+A Central Coast landmark since 1917, The
+Historic Santa Maria Inn blends the style of an old English
+country inn, the elegance of a bygone era and the gracious
+hospitality of the Santa Maria Valley. Located in the
+spectacular Central Coast Wine Country, The Inn is an
+oasis of charm and luxury, offering a unique hospitality
+experience and the sophisticated amenities travelers expect.
+Phone: 805/928-7777
+Fax: 805/928-5690
+
+Meeting Facilities, Shuttle Service, Pool, Restaurant, Non-Smoking Rooms, Exercise Facilities 166
+Rooms $69-$150
+
+**Contributors**
+May 27, 2007
+change
+by [mehul](/member/mehul)
+
+type: Sleep Cheap
+
+
+
+tel: 805-928-7777
+
+url: [www.santamariainn.com](http://www.santamariainn.com)
+
+address: 801 South Broadway, Santa Maria, California 93454
+
+email:
+
+[back to Accommodation](..)
+
+- partner sites:
+
+- [Wikitravel Press](http://wikitravelpress.com/)
+- |
+- [Adventure Travel](http://www.gapadventures.com)
+- |
+- [Cheap Airline Tickets](http://travel.yahoo.com)
+- |
+- [Cruises](http://www.cruise.com)
+- |
+- [Virtual Tours](http://www.3cim.com)
+
+[](http://creativecommons.org/licenses/by-sa/1.0/)
+
+This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
+For more information read our
+
+[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

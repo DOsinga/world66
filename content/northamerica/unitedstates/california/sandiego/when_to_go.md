@@ -1,0 +1,13 @@
+---
+title: "When to Go"
+type: section
+---
+
+**Weather Considerations**
+Weather-wise, there is no “bad” time to visit San Diego because the weather is pleasant year-round. As a tourist however, you probably are interested in particular activities so there are some factors to consider. The first recommendation may come as a surprise to people accustomed to the pleasures of early summer outside of California. If your priority during your visit to San Diego is the sun and sand, June is not the month to travel. In June, the California coast is most often swathed in a thick layer of fog and mist. This “marine layer” as the locals call it, does appear year-round in the later evening and early morning but in June it seems to hang around all day. It is such a prevalent occurrence, that it is called “June Gloom.” Its counterpart “May Gray” is less common (and not as predictable) but still does occur. September is often the warmest month of the summer. While coastal San Diego is not as susceptible to the dry, strong winds as other parts of Southern California, it still does get the high-pressure dry conditions that make it very warm. The warmest ocean temperatures occur in later August and September when the temperature usually hovers around 72 degrees Fahrenheit (22 degrees Celsius). In contrast, the average water temperature in May and June is only 64 degrees Fahrenheit (17.5 degrees Celsius).
+
+**Conventions**
+Overall weather is not a major incentive or deterrent in deciding when to visit San Diego but events and conventions can make the city very busy. The largest convention held in San Diego is Comic Con. The San Diego Convention Center and all hotels in the area are booked when the city is inundated with over 125,000 Comic-Con convention-goers. For those interested in comic books and pop culture, Comic Con is a unique opportunity but if you want to avoid crowds, check the convention’s website (www.comic-con.org) for dates and avoid the San Diego that week. 
+
+**Restaurant Weeks**
+The San Diego Restaurant Weeks happen a couple of times a year (in 2009, Restaurant Weeks were scheduled in January, June, and September) and provide an opportunity for locals and visitors alike to sample some of the city’s best eateries. Over 180 restaurants participate in the scheme which offers three-course prix-fixe meals (depending on the restaurant the price is either 20, 30 or 40 dollars). You can find dates and participating restaurants at www.sandiegorestaurantweek.com. Many restaurants post their Restaurant Week menus on the website as well. Early reservations are highly recommended.

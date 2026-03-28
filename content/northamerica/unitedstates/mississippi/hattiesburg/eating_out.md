@@ -1,0 +1,8 @@
+---
+title: "Eating Out"
+type: section
+---
+
+I am sure that there are cities where the food is better than in Hattiesburg, but you won't find it as good, as cheap, and as plentiful anywhere else. The confluence of Southern and Cajun cuisines, with a soupcon of other cultures (because of the influence of the universities, Hattiesburg is pretty cosmopolitan for its size), makes for outstanding restaurants - and the small size of the city makes for low prices. One of the best, only around since 1923, and only open for lunch, is downtown's Coney Island Cafe. A little greasy spoon on Main Street, just a couple of blocks from City Hall, Coney Island serves the best steak sandwiches on the planet - and their burgers should be served only under prescription. For dinner, a few places have opened up recently that really give the old standbys a run for their money. 206 Front, just down the street from Coney Island, is a swanky new place that is part of the city's efforts to revitalize the downtown district. Also, an old standby, Chesterfields, has recently reopened after a fire, and is better than ever. There are, of course, the usual plethora of chain restaurants, if you're looking for something more familiar, but even there Hattiesburg has its own ideas. For Mexican, although there is a Cuco's, and even some Taco Bells, most people either go to La Fiesta Brava, which is a local chain, or to La Cucina Mexicana, a local institution that's been around for thirty years. The best steakhouse in the world is not The Palm or even a Morton's. It's The Conestoga in Hattiesburg. When you taste their filet, you'll understand.
+
+-->

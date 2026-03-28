@@ -1,0 +1,9 @@
+---
+title: "Pontevedra City"
+type: location
+---
+
+The council of Pontevedra has 73,871 inhabitants who are spread around its 16 parishes. Its location at the end of the estuary; on the mouth of the river Lérez, defended by the sandy barriers from the attacks by the sea, marked this city and its inhabitants historically. Pontevedra has a central situation as regards the Rías Baixas. Few kilometres far from it, you can see the Castiñeiras Lake and the Cotoredondo viewpoint, the beaches of O Morrazo and San Xenxo, the nucleus of Combarro or the Toxa Island. There are four mountainous sectors in the council, divided by two faults among them, which converge around the capital. The first corresponds to a cavity that comprises from Carballo to Tui and it is used as the course of the axis of communication of western Galicia. The second one was used by the river Lérez to install its fluvial course. Thus, this council is expanded over the bottom of the estuary of the same name, occupying the fluvial valleys of the Lérez and the Tomeza towards the south and goes towards the mouth of the river Verdugo in Ponte Sampaio. The river Lérez is the axis of the hydrographic mains. This river carries much water and it is mixed with the sea in its mouth, being this factor the one that motivated the creation of the port, which gave origin to the city. The climate is warm and rainy, and the temperatures are pleasant throughout the whole year.
+
+*Change history*
+Orginal article by [EuroAdventures](/world/member/euroadventures) on 08 March 05

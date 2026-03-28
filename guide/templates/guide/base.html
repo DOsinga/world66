@@ -5,7 +5,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}World66{% endblock %}</title>
+  <link rel="icon" href="{% static 'favicon.ico' %}" type="image/x-icon">
   <link rel="stylesheet" href="{% static 'css/world66.css' %}">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 </head>
 <body>
 
@@ -54,11 +56,15 @@
 
 </div>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="{% static 'geo/mappings.js' %}"></script>
+<script src="{% static 'js/world66map.js' %}"></script>
 <script>
 document.querySelector('.mobile-menu-btn').addEventListener('click', function() {
   document.querySelector('.top-nav ul').classList.toggle('open');
 });
 </script>
+{% block extra_js %}{% endblock %}
 
 </body>
 </html>

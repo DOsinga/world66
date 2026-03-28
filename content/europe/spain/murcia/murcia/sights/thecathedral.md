@@ -1,0 +1,10 @@
+---
+title: "The Cathedral"
+type: poi
+latitude: 37.986248
+longitude: -1.129412
+---
+
+This is dedicated to Santa María. It is the monument which most represents Murcia and is surprising because of its originality and decorative richness. The main facade, which was built between 1736 and 1754, looks onto the Plaza del Cardenal Belluga. In this outstanding example of baroque stonemasonry, where architecture and sculpture are perfectly combined, the work resembles a huge altarpiece and among its columns, arches and niches many saints appear.
+ The interior of the Cathedral is Mediterranean Gothic style (similar to the Cathedral of Valencia) and was started towards the end of the 15th century. The choir El Coro and the main chapel La Capilla Mayor are dedicated to Santa María de Gracia and this area is sectioned off by magnificent wrought iron gates. Among the minor chapels within the Cathedral two of de most outstanding are: La Capilla de los Vélez - Gothic style, built between 1491 and 1505 - and La Capilla de los Junterones, Spanish renaissance, built between 1515 and 1529.
+ The steeple was started in 1519 yet unfinished until 1782. It reaches a height of 90 metres and from the top one can enjoy splendid views of the city and the surrounding Huerta.

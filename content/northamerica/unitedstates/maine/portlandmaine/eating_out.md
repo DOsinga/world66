@@ -1,0 +1,25 @@
+---
+title: "Eating Out in Portland Maine"
+type: section
+---
+
+A good choice in a Portland restaurant for sushi is Benkay Japanese Restaurant at 2 India Street. Customers can dine on excellent Japanese cuisine like miso soup, tofu dumpling soup, seaweed salad, or shiitake mushroom miso, and seafood soup. Favorites are the shrimp and vegetable tempura, soft shell crab, seafood pancake, and salmon ceviche. Sushi, maki, and sashimi rolls are served at both lunch and dinner, and there are many choices. Examples include Boston (cooked salmon and avocado), benkay (tempura fried spicy tuna with wasabi sauce), spicy scallop (scallops broiled with spicy sauce), and Phili (smoked salmon with cream cheese).
+
+Good thai food can be found at Bangkok Thai located at 671 Congress Street. This Portland restaurant offers good food and great service. Customers can enjoy thai cuisine like vegetable tempura, crispy dumplings, chicken satay, and fresh shrimp rolls. Popular menu items are shrimp pad thai, chicken drunken noodles, garlic chicken, ginger chicken, garlic & ginger beef, chicken red curry, garlic shrimp, bbq pork fried rice, spicy fried rice, seafood fried rice, bangkok chicken with peanuts, chicken with lemon grass, spicy duck curry, and hot meats combo. There is a vegetarian menu as well. Check out their website, bangkok-thai.com.
+
+To see a beautiful view of the water while dining on excellent food, a Portland restaurant to visit is DiMillo's Floating Restaurant. Customers can enjoy such items as lobster roll, scallop sandwich, Maine crab roll, beer battered fish & chips. Dinner offers jumbo shrimp, hot crab dip, calamari fritti, crab cakes, and steamed Maine clams. You will need to call at least 30 minutes ahead of time to see if there is room. If not, you will be put on a waiting list and given an estimate time of wait. For more information, check out their website at dimillos.com.
+
+For an elegant and classy dining experience, a Portland restaurant to try is 51 Wharf Restaurant & Ultra Lounge at 51 Wharf Street in The Old Port. Offering both lunch and dinner services, guests can enjoy such lunch entrees as baby spinach salad with duck confit, local mussels, fresh catch fish sandwich, lobster rolls, and fish & chips. For dinner, feast on lobster, seafood medley of shrimp, scallops, and catch of the day, duck, and NY strip steak. Small plates are offered as well. Reservations are recommended at can be made by phone, email, or online at their website, 51wharf.com.
+
+For excellent Mexican cuisine, check out Amigos Mexican Restaurant and Bar at 9 Dana Street. At this Portland restaurant, customers can dine on the likes of chips & pico de galla, taquitos, chips & guacamole, vegetarian black bean chili, roasted corn chowder, rice & beans, enchiladas, quesadillas, burritos, chimichangas, tacos, tostadas, chicken & scallion taco salad, habaneros, and fajitas. If there are two or three items you want to try, order a combination plate. Join them for happy hour for specials and live music from up and coming bands. For more information, visit their website at amigosportland.com.
+
+You need a drink? Then the Portland restaurant to stop by is The Armory Lounge located in the Portland Regency Hotel & Spa. Enjoy and relax while sipping a concoction like ruby slipper, tartini, chocolate raspberry truffle martini, key lime pie martini, red appletini, dirty bird, raz-lemontini, and blue suede shoe. When you are ready to soak up all that alcohol, dine on such delights as crab cakes, pork wings, lobster croissant sandwich, gorgonzola chicken, ahi tuna, and roasted pork tenderloin. For the weight watchers, there is turkey taco salad, veggie wrap, tuna salad plate, and a smoked bagel sandwich.
+
+For organic breads and other baked goods, check out Big Sky Bread Company at 28 Monument Square. This Portland restaurant uses fresh milled whole wheat flour and everything is made from scratch. Their lunch menu includes sandwiches like roasted turkey & smoked mozzarella, albacore tuna, veggie, roast beef & swiss, herbed chicken salad, turkey club, and peanut butter & preserves. There are turkey, roast beef, italian, and veggie paninis as well. If you want a salad, then go for the garden, mandarin chicken, or chicken caesar. For hours, directions, and other information, visit their website at mainebread.com.
+
+For a traditional Irish pub, stop by Brain Boru at 57 Center Street. This Portland restaurant offers real Irish grub as well as live music. Besides the Guinness beer, customers can enjoy roasted tomato soup, arugula salad, summer quesadilla, tostadas rancheros, buffalo wings, mac & cheese, and regular or garlic fries. If you can't decide what you want, order a mezze plate which lets you choose from hummus, olive tapanede, baba guanoush, chicken, beef, or calamari. All plates come with raisins, walnuts, grilled pita, and tahini yogurt. For more information, check out their website at brianboruportland.com.
+
+**Contributors**
+July 06, 2009
+change
+by [annc](/member/annc)

@@ -1,6 +1,6 @@
 # World66 — the travel guide you write
 
-Twenty-five years ago, World66 launched as one of the first open-content travel guides on the internet — and one of the first wikis where anyone could edit any page, two years before Wikipedia.
+Twenty-five years ago, World66 launched as the first open-content travel guide on the internet — and one of the first wikis where anyone could edit any page, two years before Wikipedia.
 
 The tagline was simple: *the travel guide you write*. 
 Thousands of travelers contributed articles about destinations around the world, all licensed 

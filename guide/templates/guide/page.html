@@ -124,11 +124,11 @@
 {% block extra_js %}
 {% if is_continent %}
 <script>
-initCountryMap('country-map', '{{ continent_slug }}');
+initCountryMap('country-map', '{{ continent_slug|escapejs }}');
 </script>
 {% elif lat and lng %}
 <script>
-initLocationMap('location-map', {{ lat }}, {{ lng }}, '{{ page.title|escapejs }}');
+initLocationMap('location-map', {{ lat|escapejs }}, {{ lng|escapejs }}, '{{ page.title|escapejs }}');
 </script>
 {% endif %}
 {% endblock %}

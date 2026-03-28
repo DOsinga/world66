@@ -1,10 +1,18 @@
 # World66 — the travel guide you write
 
-Twenty-five years ago, World66 launched as one of the first open-content travel guides on the internet. The tagline was simple: *the travel guide you write*. Thousands of travelers contributed articles about destinations around the world, all licensed under Creative Commons.
+Twenty-five years ago, World66 launched as the first open-content travel guides on the Internet.
+In fact it was the first public wiki, predating the Wikipedia. 
+
+The tagline was simple: *the travel guide you write*. 
+Thousands of travelers contributed articles about destinations around the world, all licensed 
+under Creative Commons.
 
 The site was acquired, then shut down. But the content survived in the Wayback Machine.
 
-This project restores World66 from those archives — and reimagines it for the age of AI. What was once *the travel guide you write* is now **the travel guide your agent writes**. Fork the repo, point your AI agent at a destination, and open a PR. The content is markdown with YAML frontmatter. It's that simple.
+This project restores World66 from those archives — and reimagines it for the age of AI. 
+What was once *the travel guide you write* is now **the travel guide your agent writes**. 
+Fork the repo, point your AI agent at a destination, and open a PR. 
+The content is markdown with YAML frontmatter. It's that simple.
 
 ## Getting started
 
@@ -108,10 +116,6 @@ The `tools/` directory contains the scripts used to restore and enrich the conte
 
 | Script | Purpose |
 |--------|---------|
-| `crawl_inventory.py` | Query the Wayback Machine CDX API for archived URLs |
-| `filter_inventory.py` | Filter to content pages, normalize section names |
-| `download_pages.py` | Download HTML pages (resumable) |
-| `extract_content.py` | Convert HTML to markdown with frontmatter |
 | `geocode.py` | Geocode locations using Nominatim/OpenStreetMap |
 | `apply_geocodes.py` | Write lat/lng into markdown frontmatter |
 | `download_images.py` | Download content images (separate pass) |
@@ -119,5 +123,3 @@ The `tools/` directory contains the scripts used to restore and enrich the conte
 ## License
 
 All World66 content is licensed under [Creative Commons Attribution-ShareAlike 1.0](https://creativecommons.org/licenses/by-sa/1.0/).
-
-Originally created by [Oberon Medialab](https://oberon.nl) in 1999. Restored from the [Wayback Machine](https://web.archive.org/web/*/world66.com) in 2026.

@@ -14,48 +14,30 @@ def location_or_section(request, path):
     path = path.strip("/")
 
     page = load_page(path)
-    if page:
-        return page_view(request, page)
+    if not page:
+        raise Http404
 
-    # Try as a section/poi (last segment is the page, parent is the location)
-    if "/" in path:
-        parent_path, slug = path.rsplit("/", 1)
+    # Derive parent for section/poi pages
+    parent = None
+    if page.page_type in ("section", "poi") and "/" in page.path:
+        parent_path = page.path.rsplit("/", 1)[0]
         parent = load_page(parent_path)
-        if parent:
-            # Look for slug.md in parent's directory
-            from .models import CONTENT_DIR, _load_page_from_file
-            md_file = CONTENT_DIR / parent_path / f"{slug}.md"
-            if md_file.is_file():
-                page = _load_page_from_file(md_file, path)
-                if page:
-                    return page_view(request, page, parent=parent)
-
-    raise Http404
-
-
-def page_view(request, page, parent=None):
-    body_html = md.markdown(page.body) if page.body else ""
-    sections, locations, pois = page.children()
-
-    # For section/poi pages, load parent's sections for the sidebar
-    if page.page_type in ("section", "poi") and not parent:
-        # Derive parent from path
-        if "/" in page.path:
-            parent_path = page.path.rsplit("/", 1)[0]
-            parent = load_page(parent_path)
 
     parent_sections = []
     if parent:
         parent_sections, _, _ = parent.children()
 
+    body_html = md.markdown(page.body) if page.body else ""
+    sections, locations, pois = page.children()
+
     # For section pages, load POIs
     if page.page_type == "section":
         pois = page.pois()
 
-    # Map context
-    lat = page.meta.get("latitude")
-    lng = page.meta.get("longitude")
-    # For continent pages, pass the slug for the country map
+    # Map context — validate lat/lng as floats
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+
     path_parts = page.path.split("/")
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
@@ -74,3 +56,13 @@ def page_view(request, page, parent=None):
         "continent_slug": continent_slug,
         "is_continent": is_continent,
     })
+
+
+def _safe_float(value):
+    """Return value as float, or None if invalid."""
+    if value is None:
+        return None
+    try:
+        return float(value)
+    except (ValueError, TypeError):
+        return None

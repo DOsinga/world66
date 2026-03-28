@@ -7,6 +7,7 @@ Uses the `type` field (location, section, poi) to classify pages.
 
 import re
 from dataclasses import dataclass, field
+from functools import lru_cache
 from pathlib import Path
 
 import yaml
@@ -42,6 +43,11 @@ SECTION_DISPLAY_NAMES = {
 }
 
 
+def _slug_to_name(slug):
+    """Convert a URL slug to a display name."""
+    return slug.replace("_", " ").replace("-", " ").title()
+
+
 def _parse_frontmatter(text):
     """Parse YAML frontmatter and body from a markdown file."""
     if text.startswith("---"):
@@ -61,6 +67,15 @@ def _load_md(path):
         return None
     text = path.read_text(encoding="utf-8", errors="replace")
     return _parse_frontmatter(text)
+
+
+def _get_page_type(file_path):
+    """Get the page type from a markdown file's frontmatter."""
+    result = _load_md(file_path)
+    if not result:
+        return None
+    meta, _ = result
+    return meta.get("type", "location")
 
 
 @dataclass
@@ -118,7 +133,7 @@ class Page:
             if ancestor:
                 crumbs.append((ancestor.title, ancestor.path))
             else:
-                crumbs.append((parts[i].replace("_", " ").title(), ancestor_path))
+                crumbs.append((_slug_to_name(parts[i]), ancestor_path))
         return crumbs
 
     def children(self):
@@ -151,14 +166,12 @@ class Page:
                 # A sub-location directory contains other directories too.
                 has_subdirs = any(f.is_dir() for f in entry.iterdir())
                 if not has_subdirs:
-                    # Pure .md directory — check if it's POIs
+                    # Pure .md directory — check if it's POIs via frontmatter
                     sample_md = next(
                         (f for f in entry.iterdir() if f.suffix == ".md"), None
                     )
-                    if sample_md:
-                        text = sample_md.read_text(encoding="utf-8", errors="replace")
-                        if "type: poi" in text:
-                            continue
+                    if sample_md and _get_page_type(sample_md) == "poi":
+                        continue
                 child = load_page(self.path + "/" + entry.name)
                 if child:
                     locations.append(child)
@@ -193,7 +206,7 @@ def _load_page_from_file(file_path, url_path):
         return None
     meta, body = result
     slug = file_path.stem
-    title = meta.get("title", slug.replace("_", " ").title())
+    title = meta.get("title", _slug_to_name(slug))
     page_type = meta.get("type", "location")
     return Page(
         slug=slug, path=url_path, title=title,
@@ -202,7 +215,8 @@ def _load_page_from_file(file_path, url_path):
 
 
 def load_page(path):
-    """Load a page by its URL path. Tries location .md files first."""
+    """Load a page by its URL path. Tries location .md files, then
+    falls back to section/poi .md inside a parent directory."""
     slug = path.rsplit("/", 1)[-1] if "/" in path else path
 
     # Location's own .md file lives inside its directory
@@ -217,12 +231,21 @@ def load_page(path):
     if (CONTENT_DIR / path).is_dir():
         return Page(
             slug=slug, path=path,
-            title=slug.replace("_", " ").title(),
+            title=_slug_to_name(slug),
             page_type="location",
         )
+
+    # Try as a section/poi: last segment is a .md inside the parent dir
+    if "/" in path:
+        parent_path, slug = path.rsplit("/", 1)
+        md_file = CONTENT_DIR / parent_path / f"{slug}.md"
+        if md_file.is_file():
+            return _load_page_from_file(md_file, path)
+
     return None
 
 
+@lru_cache(maxsize=1)
 def load_continents():
     """Load top-level locations with their children (countries)."""
     continents = []

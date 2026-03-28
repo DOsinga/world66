@@ -7,7 +7,6 @@ tools/locations.json
 tools/site_index.json
 tools/*.tmp
 venv/
-db.sqlite3
 staticfiles/
 __pycache__/
 *.pyc

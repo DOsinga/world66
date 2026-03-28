@@ -19,8 +19,6 @@ When you buy a beer you will receive a wodden nickel, collect 1000 and your name
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 type: American
 
@@ -33,5 +31,3 @@ url: [www.kelley-house.com](http://www.kelley-house.com/dining.shtml)
 address: 23 Kelley Street
 
 PriceOfMenu: $8-15
-
-[back to Eating Out](..)

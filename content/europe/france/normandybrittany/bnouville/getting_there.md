@@ -7,5 +7,3 @@ Between Ouistreham (ferry port) and Caen, on the main road. Connection to Cabour
 
 **Contributors**
 January 20, 2005
-new
-by [sir_malcolm](/member/sir_malcolm)

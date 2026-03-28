@@ -11,5 +11,3 @@ A Juneau restaurant for great pizza is Bullwinkle's on 318 Willoughby Avenue. Cu
 
 **Contributors**
 May 27, 2009
-change
-by [annc](/member/annc)

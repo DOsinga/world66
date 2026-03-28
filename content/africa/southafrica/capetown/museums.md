@@ -95,17 +95,7 @@ tel: ++27 (0)21 686 4939.
 
 **ARCHIVES**
 
-Contains collections of documents and pictures dating back to the earliest days of the Cape. Mon Tues Wed & Fri 08h00 - 16h00. Thurs 08h00 - 19h00. Closed on Sat and public holidays. Admission free.  
-
-address: 72 Roeland Street City
-
-tel: ++27 (0)21 462 4050.
-
-**GROOT CONSTANTIA**
-
-This is the oldest homestead in the Cape. The Manor House on the farm which was originally allocated to Governor Simon van der Stel portrays life on a farm in the 1800's. The collection consists of Cape furniture from the mid-1700's and Chinese, Japanese, Rhenish and Delft porcelain. The Wine [more..](/africa/southafrica/capetown/museums/grootconstantia)
-
-address: Off Constantia Road, Wynberg. M41
+Contains collections of documents and pictures dating address: Off Constantia Road, Wynberg. M41
 
 tel: ++27 (0)21 794 5067.
 
@@ -155,9 +145,7 @@ tel: ++27 (0)21 469 1111.
 
 **CITY HALL**
 
-Completed in 1905, the building overlooks the Grand Parade and houses the City Library and the Cape Town Symphony Orchestra. The Municipal Carillion in the tower which contains 39 bells and dates back to 1923is occasionally operated. The Carillon at Cape Town is the only one on the African conti [more..](/africa/southafrica/capetown/museums/cityhall)
-
-address: Darling Street, City,
+Completed in 1905, the building overlooks the Grand Parade and houses the City Library and the Cape Town Symphony Orchestra. The Municipal Carillion in the tower which contains 39 bells and dates address: Darling Street, City,
 
 tel: ++27 (0)21 400 2230 .
 
@@ -187,24 +175,6 @@ tel: ++27 (0)21 788 1816
 
 **RUGBY MUSEUM**
 
-The largest rugby museum in the world housing a valuable collection of momentos dating back to 1891. Open Mon - Fri 09h30-16h00. Admission charged. 
-
-address: Boundary Road, Newlands
-
-tel: ++27 (0)21 686 4532
-
-**RUST-EN-VREUGD**
-
-This 18th century house contains the William Fehr Collection of water-colours and valuable Africana. Admission charged. 
-
-address: 78 Buitekant Street.
-
-tel: ++27 (0)21 45 3628 .
-
-**SA AIR FORCE MUSEUM**
-
-Various rooms with permanent exhibitions on the 1914-18 1939-45 wars and an interesting and varied collection covering the full period of the SAAF's existence and its operational activities which dates back to 1920. In addition there is a small display of Royal Flying Corps memorabilia. Open Mo [more..](/africa/southafrica/capetown/museums/saairforcemuseum)
-
-address: Ysterplaat Airforce Base, Piet Grobler Street, Brooklyn
+The largest rugby museum in the world housing a valuable collection of momentos dating address: Ysterplaat Airforce Base, Piet Grobler Street, Brooklyn
 
 tel: ++27 (0)21 508 6377).

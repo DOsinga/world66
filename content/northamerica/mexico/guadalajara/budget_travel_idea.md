@@ -46,5 +46,3 @@ latest version of the Hostelling International booklet that lists all the places
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)

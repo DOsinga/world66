@@ -14,5 +14,3 @@ type: Thai
 
 
 PriceOfMenu: 3-8 euros
-
-[back to Eating Out](..)

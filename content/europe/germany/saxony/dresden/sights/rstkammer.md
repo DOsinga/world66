@@ -15,5 +15,3 @@ type: Museums
 address: Zwinger, Semperbau, 01067 Dresden
 
 tel: (0351) 491 46 19
-
-[back to Sights](..)

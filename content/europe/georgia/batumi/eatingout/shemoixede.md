@@ -10,8 +10,6 @@ Restaurant is located in “Old Batumi”, near Batumi port. It is 2-storeyed bu
 
 **Contributors**
 March 13, 2010
-new
-by [teona](/member/teona)
 
 type: Local
 
@@ -22,5 +20,3 @@ type: Local
 tel: +995 58 909 909
 
 address: 8, Jhordania str.
-
-[back to Eating Out](..)

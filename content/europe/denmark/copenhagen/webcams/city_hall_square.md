@@ -1,6 +1,6 @@
 ---
 title: "Town Hall Square"
-type: location
+type: poi
 url: "politiken.dk"
 ---
 

@@ -2,8 +2,6 @@
 title: "Golf"
 type: poi
 type: "general"
-latitude: 50.98593
-longitude: 2.405446
 ---
 
 The golf of Dunkerque is situated on a historic zone: the Fort Vallières. You can come to practise golf, whether you are a beginner or an expert, everything is provided for you to have good time. 
@@ -17,9 +15,3 @@ Lessons Beginner training of 10 hours : 800F Individual lesson (half an hour) : 
 Open in high season from 03/01/2001 to 11/15/2001 Open in low season from 01/01/2001 to 02/28/2001 and to 11/16/2001 from 12/31/2001 Open from 9.00 am to 5.00 pm in the week from 8.00 am to 5.00 pm the weekend See alos the web site
 
 type: general
-
-
-
-
-
-[back to Things to do](..)

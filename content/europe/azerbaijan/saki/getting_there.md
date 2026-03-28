@@ -53,5 +53,3 @@ Gence - 1:45 (AZN1.8)
 
 **Contributors**
 December 05, 2006
-new
-by [cupcakecommander](/member/cupcakecommander)

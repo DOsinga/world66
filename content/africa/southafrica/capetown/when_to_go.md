@@ -31,9 +31,5 @@ Highly popular among tourists, whale watching in Cape Town allows you to observe
 
 **Contributors**
 July 17, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas) (4 points)
 
 August 07, 2009
-change
-by [mike eaton](/member/mike_eaton)

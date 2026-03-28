@@ -5,8 +5,6 @@ address: "Kurfürstendamm 18-19"
 connections: "U + S Zoologischer Garten"
 opening_hours: "Daily 8am -midnight."
 type: "Bars & Cafes"
-latitude: 52.501278
-longitude: 13.31784
 ---
 
 Newly renovated classical café.
@@ -20,5 +18,3 @@ connection: U + S Zoologischer Garten
 address: Kurfürstendamm 18-19
 
 openings: Daily 8am -midnight.
-
-[back to Nightlife and Entertainment](..)

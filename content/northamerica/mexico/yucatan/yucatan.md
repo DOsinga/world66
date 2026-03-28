@@ -1,8 +1,6 @@
 ---
 title: "Yucatan"
 type: location
-latitude: 20.96568
-longitude: -89.631102
 ---
 
 The Yucatan peninsula is packed with history. This was the heartland of the Mayan civilization and you will find many temples in Yucatan: ranging from the small but romantic temple of [Tulum](/northamerica/mexico/tulum) - it is almost on a white beach -to the biggest Maya temple of Mexico of Chichen Itza (there is an even bigger one just accross the border in [Tikal](/centralamericathecaribbean/guatemala/tikal) in [Guatemala](/centralamericathecaribbean/guatemala).

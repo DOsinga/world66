@@ -8,13 +8,5 @@ On the bounders of the Coptic Quarter lies a huge cemetery. Most graves look lik
 
 **Contributors**
 December 10, 2005
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 type: Graves and Cemeteries
-
-
-
-
-
-[back to Sights](..)

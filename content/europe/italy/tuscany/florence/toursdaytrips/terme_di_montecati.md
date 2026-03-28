@@ -13,8 +13,6 @@ One of the Italy’s most popular spas is located roughly 19 miles northeast of 
 
 **Contributors**
 May 23, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -25,5 +23,3 @@ url: [www.termemontecatiniweb.it](http://www.termemontecatiniweb.it)
 address: Viale Verdi, 41 Pistoria - Italia
 
 email: info@termemontecatini.it
-
-[back to Day Trips](..)

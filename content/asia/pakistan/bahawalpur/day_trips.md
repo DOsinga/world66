@@ -16,3 +16,10 @@ Another must-visit place is the Shire of Jalaluddin Bukhari, who was a popular s
 **Lal Suhanra National Park**
 
 The Lal Suhanra National Park is situated 36 kilometers from Bahawalpur and sprawls over more than 77,480 acres on both the sides of the Bahawalpur canal. This park is an ideal tourist site if you want to just relax and enjoy the nature and also have some adventure. The park has tourist huts, camping grounds and rest houses. There are treks arranged for interested tourists and nature lovers. On your visit to Lal Suhanra National Park you can get to see ravine deer, black bucks, nilgai, jackals, larks, hawks and several endangered species. The Lal Suhanra National Park is a must-visit day trip spot on your visit to Bahawalpur. Tour operators in Bahawalpur can help you arrange for transport to reach Lal Suhanra National Park.
+
+**From Bahawalpur to Uch**
+
+Worth organising a car and driving the 2 hours from Bahawalpur to Uch. Uch is a small town/village with over 10 important shrines, including the beautiful Bibi Jawindi Shrine. Young guys from the village will come up to you once you arrive and volunteer to be a guide; its worth going with them as they are good at finding the ways around the backstreets of the town and they are friendly and helpful. You have to give them some money at the end if you enjoyed their assistance (100-200 rupees, say). Interesting history and nice to be in a village/town with its unchanging feeling and some quite beautiful buildings.
+
+**Contributors**
+January 09, 2006

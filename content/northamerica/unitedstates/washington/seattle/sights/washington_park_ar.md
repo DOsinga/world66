@@ -15,5 +15,3 @@ type: Gardens & Parks
 address: 2300 Arboretum Drive East
 
 url: [depts.washington.edu](http://depts.washington.edu/wpa/general.htm)
-
-[back to Sights](..)

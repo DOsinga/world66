@@ -8,13 +8,5 @@ Grand views, galleries, museums, and beautiful Venetian Gothic style palaces -- 
 
 **Contributors**
 May 25, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Sailing
-
-
-
-
-
-[back to Things to do](..)

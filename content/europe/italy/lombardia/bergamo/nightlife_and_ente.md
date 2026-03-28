@@ -5,8 +5,6 @@ address: "Via Cavour, 14"
 phone: "035 4 160 602"
 type: "Jazz"
 url: "www.teatrodonizetti.it"
-latitude: 41.900145
-longitude: 12.499283
 ---
 
 Concerts, Opera, and Theater are just some of the cultural entertainment. And depending on the date, you may run into culture in the streets in the form of puppet shows, Carnivale parades, processions, dancing, music and performances.
@@ -19,8 +17,6 @@ For dancing and discoteques you may go out of town or, best of all, to the lakes
 
 **Contributors**
 May 31, 2005
-change
-by [karenbru](/member/karenbru) (2 points)
 
 ### Display all
 or display just:
@@ -184,17 +180,10 @@ url: [www.sonorika.com](http://www.sonorika.com/site/aziende/prov11/1/discoteche
 
 address: Bergamo
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

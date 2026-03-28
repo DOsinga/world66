@@ -12,5 +12,3 @@ A real Dutch cafe in the downtown. Great food, friendly staff. The best meeting 
 tel: +3612664334
 
 address: PÃ¡rizyi u. 6
-
-[back to Bars and Cafes](..)

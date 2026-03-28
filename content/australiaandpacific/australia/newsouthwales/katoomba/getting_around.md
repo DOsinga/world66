@@ -1,16 +1,11 @@
 ---
 title: "Getting Around"
 type: section
-url: "www.explorerbus.com.au"
+url: "www.trolleytours.com.au"
 ---
 
 There are several individual bus companies that operate in Katoomba, saves you a lot of unnecessary walking!
 
-**Contributors**
-February 26, 2005
-new
-by [vilpponen](/member/vilpponen) (1 point)
+Trolley Tours
 
-### Blue Mountains Explorer Bus
-
-A double decker bus with 27 different destinations.
+Trolley Tours operates traditional style buses which have 29 stops around Katoomba and the surrounding area. A full day ticket costs 12 dollars.

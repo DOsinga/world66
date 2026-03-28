@@ -24,5 +24,3 @@ Mestre is home to a lot of hotels with courteous staffs. Many of them will work 
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

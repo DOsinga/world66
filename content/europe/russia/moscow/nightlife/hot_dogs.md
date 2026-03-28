@@ -28,5 +28,3 @@ url: [www.hotdogsbar.ru](http://www.hotdogsbar.ru)
 address: Zemlyanoy Val str., 26 (near Kurskaya subway station)
 
 email: hotdogs@hotdogsbar.ru
-
-[back to Nightlife and Entertainment](..)

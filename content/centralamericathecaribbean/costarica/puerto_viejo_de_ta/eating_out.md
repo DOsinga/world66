@@ -7,8 +7,6 @@ phone: "00 506 2750 0758"
 price: "From $ 15"
 type: "Italian"
 url: "www.totemsite.com"
-latitude: 9.649918
-longitude: -82.736344
 ---
 
 This two-storey **Restaurant Mediterraneo** has a spectacular terrace overlooking the sea, and is open for breakfast, lunch and dinner. Everything is homemade here, including bread, pasta, Romagnola piadina ( flat bread typical of Italy’s Emilia Romagna region ),and desserts. You will find a very friendly atmosphere where tropical elements combined all together create a nice environment for your dinner. Choose from the menu among the several salads, or different kind of pasta as spaghetti, ravioli, tagliatelle…seasoned with the seafood.
@@ -17,8 +15,6 @@ This two-storey **Restaurant Mediterraneo** has a spectacular terrace overlookin
 
 **Contributors**
 October 23, 2009
-new
-by [totem](/member/totem)
 
 ### [Totem Mediterraneo](/centralamericathecaribbean/costarica/puerto_viejo_de_ta/eating_out/totem_mediterraneo)
 

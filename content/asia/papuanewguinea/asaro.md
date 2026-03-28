@@ -1,0 +1,4 @@
+---
+title: "Asaro"
+type: location
+---

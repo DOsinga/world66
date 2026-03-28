@@ -12,8 +12,6 @@ It's true -- you can find fabulous pizza just about anywhere in Naples, but the 
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Italian
 
@@ -28,5 +26,3 @@ url: [www.brandi.it](http://www.brandi.it)
 address: Salita S. Anna Di Palazzo 1-2, Via Chiaia, Napoli Italy
 
 email: info@brandi.it
-
-[back to Eating Out](..)

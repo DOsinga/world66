@@ -24,5 +24,3 @@ Driving into Old Riga will cost you 3-5 Ls, Jurmala - 1 Ls. The speed limit is 5
 Citizens from Andorra, Austria, Belgium, Croatia, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Liechtenstein, Lithuania, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, UK, USA and Vatican City do not require a visa to enter Latvia. 
 
 (Citizenship and Migration Board tel.: 7219424, fax.: 7820306).
-
--->

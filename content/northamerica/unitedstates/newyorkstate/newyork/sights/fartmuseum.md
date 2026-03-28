@@ -23,5 +23,3 @@ openingHours: 9-19
 url: [www.world66.com](/northamerica/unitedstates/newyorkstate/newyork/sights/fartmuseum)
 
 address: Queensroad 24
-
-[back to Sights](..)

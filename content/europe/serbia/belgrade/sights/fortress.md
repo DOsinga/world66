@@ -2,8 +2,6 @@
 title: "Fortress"
 type: poi
 type: "Castles"
-latitude: 44.823502
-longitude: 20.449765
 ---
 
 The fortress is the most remarkable monument of history preserved in the city. This
@@ -17,9 +15,3 @@ surrounded by a city park, bearing the old Turkish name of this place -
 Kalemegdan.
 
 type: Castles
-
-
-
-
-
-[back to Sights](..)

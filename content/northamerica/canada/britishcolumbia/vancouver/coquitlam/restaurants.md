@@ -1,6 +1,6 @@
 ---
 title: "Eating Out in Coquitlam"
-type: location
+type: section
 type: "general"
 ---
 

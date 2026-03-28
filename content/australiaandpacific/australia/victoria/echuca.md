@@ -1,0 +1,4 @@
+---
+title: "Echuca"
+type: location
+---

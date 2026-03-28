@@ -26,11 +26,5 @@ But to finish, a note of caution: downhill the surrounding neighbourhoods are ro
 
 **Contributors**
 February 27, 2007
-change
-by [jimshady](/member/jimshady) (1 point)
 
 type: Streets
-
-
-
-[back to Sights](..)

@@ -7,5 +7,3 @@ If you decide to visit relatives in Louisville, it will be a breeze. Louisville 
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

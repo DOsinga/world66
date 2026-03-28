@@ -7,5 +7,3 @@ The Museum of Science and Discovery, right in Fort Lauderdale, offers over 200 f
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)

@@ -9,21 +9,7 @@ There are so many Casino's in Vegas that it is not worthwhile to try to mention 
 
 **Bally's**
 
-Offres a touch of class and goes back to 1973 
-
-address: 3645 Las Vegas Blvd. South
-
-**Bellagio**
-
-Casino and Hotel in European style. ** Jeremy J. Dyken:** Extremely elegant. Shopping is taken to new heights in Las Vegas with shops such as Tiffany's and Gucci enticing passerby's. Keep your eyes open as this tends to be where the rich and famous enjoy visiting!
-
-address: 3600 Las Vegas Blvd South
-
-**MGM Grand**
-
-Las Vegas has the Eiffel Tower, the Statue of Liberty and a reputation for all that is big, crazy and expensive. It comes as no surprise then that it hosts the world's largest hotel. With 5005 rooms, 14 restaurants, an extensive pool complex and a Lion enclosure the MGM Grand finds a perfect [more..](/northamerica/unitedstates/nevada/lasvegas/casinos/mgmgrand)
-
-address: 3799 Las Vegas Blvd
+Offres a touch of class and goes address: 3799 Las Vegas Blvd
 
 **New York-New York**
 

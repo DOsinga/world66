@@ -10,13 +10,5 @@ For international travellers, most relevant are scheduled flights by KLM from Am
 
 **Contributors**
 June 05, 2006
-new
-by [qlmatrix](/member/qlmatrix) (2 points)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

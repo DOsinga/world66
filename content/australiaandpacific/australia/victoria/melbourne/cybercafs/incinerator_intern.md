@@ -20,8 +20,6 @@ coffee, sweets. Friendly staff for assistance.
 
 **Contributors**
 March 21, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: general
 
@@ -40,5 +38,3 @@ price: casual $6/hr, members $5.50/hr
 tel: (03) 9510 1257
 
 zipcode: 24
-
-[back to Internet Cafes](..)

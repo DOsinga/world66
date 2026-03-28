@@ -25,9 +25,5 @@ Faro is an ideal family vacation spot with a nice mix of activities to keep you 
 
 **Contributors**
 February 03, 2010
-new
-by [kat99](/member/kat99)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

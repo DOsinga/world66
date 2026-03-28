@@ -8,13 +8,5 @@ There' i also the possibility of flying from Reykjavik, Iceland (REK) to Kulusuk
 
 **Contributors**
 February 25, 2008
-change
-by [ingvar](/member/ingvar) (1 point)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

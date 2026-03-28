@@ -7,8 +7,6 @@ phone: "+47 90689206 / +47 90793847"
 type: "Rafting"
 url: "www.lofoten-safari.no"
 zipcode: "Po. box 109 N-8300"
-latitude: 68.231156
-longitude: 14.564825
 ---
 
 *** ***
@@ -34,8 +32,6 @@ Welcome to the magic in the north!
 
 **Contributors**
 December 27, 2005
-change
-by [reen](/member/reen)
 
 type: Rafting
 
@@ -52,5 +48,3 @@ tel: +47 90689206 / +47 90793847
 email: explore@lofoten-safari.no
 
 address: Svolvær, Lofoten
-
-[back to Things to do](..)

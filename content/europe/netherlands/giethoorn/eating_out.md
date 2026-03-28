@@ -55,5 +55,3 @@ and is a great place to spend the evening with your family.
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

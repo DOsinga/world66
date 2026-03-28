@@ -12,5 +12,3 @@ type: Discos & Clubs
 
 
 address: Stab. Plinius - Lungomare Caio Duilio - Ostia lido
-
-[back to Nightlife and Entertainment](..)

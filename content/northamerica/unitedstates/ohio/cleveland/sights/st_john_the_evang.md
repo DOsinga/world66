@@ -11,8 +11,6 @@ This is Cleveland's beautiful gothic Catholic Cathedral, and a landmark building
 
 **Contributors**
 April 08, 2006
-new
-by [vulpster03](/member/vulpster03) (1 point)
 
 type: Churches and Cathedrals
 
@@ -23,5 +21,3 @@ tel: (216) 771-6666
 url: [www.dioceseofcleveland.org](http://www.dioceseofcleveland.org/stjohncathedral/)
 
 address: 1007 Superior Ave.
-
-[back to Sights](..)

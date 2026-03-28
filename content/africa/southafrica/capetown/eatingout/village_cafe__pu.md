@@ -24,5 +24,3 @@ tel: 0214610727
 address: Corner of De Villiers & Constitution Street
 
 email: deputy.gm@capesuites.co.za
-
-[back to Eating Out](..)

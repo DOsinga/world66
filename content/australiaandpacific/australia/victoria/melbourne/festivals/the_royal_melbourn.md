@@ -4,8 +4,6 @@ type: poi
 address: "Ascot Vale"
 date: "15th - 25th September"
 url: "www.royalshow.com.au"
-latitude: -37.775325
-longitude: 144.921825
 ---
 
 Animals, Rides and Showbags, Showbags, Showbags!!!
@@ -20,8 +18,6 @@ except without the big budget stuff you would get at those places.
 
 **Contributors**
 September 10, 2005
-new
-by [zan5hin](/member/zan5hin)
 
 
 
@@ -32,5 +28,3 @@ url: [www.royalshow.com.au](http://www.royalshow.com.au/)
 date: 15th - 25th September
 
 address: Ascot Vale
-
-[back to Festivals](..)

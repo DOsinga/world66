@@ -126,5 +126,3 @@ address: Louisville Road Hwy 60
 [general](/northamerica/unitedstates/kentucky/frankfort/sights?subsection=general)
 
 [Parks](/northamerica/unitedstates/kentucky/frankfort/sights?subsection=Parks)
-
--->

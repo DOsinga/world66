@@ -10,7 +10,3 @@ address: Reigerstraat
 tel: mij onbekend!
 
 zipcode: let ik nie
-
-[back to Nightlife and Entertainment](..)
-
--->

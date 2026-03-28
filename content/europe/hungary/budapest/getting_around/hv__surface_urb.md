@@ -16,11 +16,3 @@ distance without any problems.
 
 **Contributors**
 July 12, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
-
-
-
-
-
-[back to Getting Around](..)

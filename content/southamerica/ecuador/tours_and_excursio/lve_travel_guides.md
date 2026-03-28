@@ -23,5 +23,3 @@ address: 123 Mount Auburn St. Suite 200N
 tel: 970-744-4244
 
 email: info@vivatravelguides.com
-
-[back to Tours and Excursions](..)

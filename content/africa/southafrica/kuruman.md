@@ -1,0 +1,4 @@
+---
+title: "Kuruman"
+type: location
+---

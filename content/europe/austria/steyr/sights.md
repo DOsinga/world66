@@ -15,9 +15,7 @@ type: section
 
 **Court-Yard Castle Lamberg**
 
- The Lamberg Castle was first mendtioned as the "Styraburg" in 980, towers above the confluence of the rivers Enns and Steyr. Restored as a baroque castle in 1727 after an extensive town fire. The Schloss Lamberg castle/library owns more than 11,000 books, among them many prints dating back to t [more..](/europe/austria/steyr/sights/courtyardcastlelamberg)
-
-fax: +43 7252 53229 15
+ The Lamberg Castle was first mendtioned as the "Styraburg" in 980, towers above the confluence of the rivers Enns and Steyr. Restored as a baroque castle in 1727 after an extensive town fire. The Schloss Lamberg castle/library owns more than 11,000 books, among them many prints dating fax: +43 7252 53229 15
 
 email: steyr-info@ris.at
 

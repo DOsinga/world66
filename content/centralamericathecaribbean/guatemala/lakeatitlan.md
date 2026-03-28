@@ -1,8 +1,6 @@
 ---
 title: "Lake Atitlan"
 type: location
-latitude: 14.680146
-longitude: -91.186161
 ---
 
 When English novelist Aldous Huxley visited Guatemala, he referred to **Lake Atitlán** as "the most beautiful lake in the world" and this same phrase is often heard from the European and American visitors that constantly travel through the narrow winding road that leads to Lake Atitlán. The beautiful lake, as it is seen from Panajachel, Santa Catarina and San Antonio Palopó, has three volcanoes (Tolimán, Atitlán and San Pedro), as its backdrop. 

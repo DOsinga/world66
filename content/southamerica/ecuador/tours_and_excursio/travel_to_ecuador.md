@@ -24,5 +24,3 @@ email: info@colorbusline.com
 url: [www.colorbusline.com](http://www.colorbusline.com)
 
 zipcode: 00000
-
-[back to Tours and Excursions](..)

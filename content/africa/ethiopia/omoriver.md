@@ -1,8 +1,6 @@
 ---
 title: "Omo River"
 type: location
-latitude: 5.515121
-longitude: 36.176738
 ---
 
 The Omo river runs from the Highland of Ethiopia to the Nile in the lowland of Sudan.

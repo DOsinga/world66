@@ -7,5 +7,3 @@ A pleasant farming town in the Limpopo Province, Vaalwater is a jumping off poin
 
 **Contributors**
 June 11, 2005
-change
-by [worldbfree](/member/worldbfree)

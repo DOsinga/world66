@@ -1,9 +1,9 @@
 ---
-title: "Sturgis Travel Guide"
+title: "Sturgis"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Sturgis** is a small town of about 7000 in the beautiful Northern Black Hills of South Dakota, and is home to the world famous **Sturgis Motorcycle Rally**. Each August, almost half-a-million bikers descend on this quiet ranching community to take in concerts, races, bike shows, shop for leather, or maybe even get a tattoo!
 
@@ -16,11 +16,3 @@ The **Fort Meade Cavalry Museum** is one of the best small museums in the United
 There are several other annual events or things to see including rodeos, sheepdog trials, a thrashing bee, balloon rally, the **Poker Alice House**, the Annie Tallent Home, several outdoor sculptures, a thriving **community theater** scene, **Wonderland Cave**, scenic **Boulder and Vanocker Canyons**, the fantastic **Centennial Trail** which winds its way through the length of the Black Hills, or just a good high school sports match on a Friday night. Sturgis particularly is proud of its wrestling and **rodeo** history.
 
 Sturgis is centrally located on I-90 between Rapid City, Deadwood, Spearfish, Newell, and Belle Fourche, and should not be missed when visiting or passing through the Black Hills.
-
-#### Contributors
-
-March 05, 2007 change by [black hills boy](/member/black_hills_boy)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 13:36

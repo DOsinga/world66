@@ -23,13 +23,4 @@ Here are some ideas to make **Medellin family travel **easier.**
 
 **Safety
 
-**Medellin at night is still a little bit unsafe in certain areas, so make sure that if you go out to dinner, take a taxi back to your hotel instead of walking. Stay safe and enjoy your visit.
-
-**Contributors**
-February 12, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)
-
-February 26, 2010
-change
-by [schitti](/member/schitti)
+**Medellin at night is still a little bit unsafe in certain areas, so make sure that if you go out to dinner, take a taxi

@@ -16,8 +16,6 @@ The specialty in the area is seafood. Zihuatanejo has an active fleet of pangas,
 
 **Contributors**
 July 03, 2005
-new
-by [rickjacobson](/member/rickjacobson)
 
 ### [La Casa Cafe](/northamerica/mexico/ixtapazihuatanejo/eating_out/la_casa_cafe)
 

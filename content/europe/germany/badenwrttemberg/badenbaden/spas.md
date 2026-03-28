@@ -22,5 +22,3 @@ The remains of the Roman Baths prove that Baden-Baden was a spa in the old days 
 **Caracalla Therme**
 
 Modern bathing complex next to the roman baths. 25 Dm for three hours. Open daily from 8 am to 10 pm.
-
--->

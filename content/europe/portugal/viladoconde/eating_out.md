@@ -6,8 +6,6 @@ type: "general"
 
 **Contributors**
 September 09, 2004
-change
-by [mtl](/member/mtl)
 
 ### [Adega do Tijolo](/europe/portugal/viladoconde/eating_out/adega_do_tijolo)
 

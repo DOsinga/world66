@@ -1,8 +1,6 @@
 ---
 title: "MAC"
 type: location
-latitude: -22.881146
-longitude: -43.121377
 ---
 
 MAC - Museu de Arte Contemporanea
@@ -26,5 +24,3 @@ http://www.niteroi.com.br/mac_curiosidades.htm
 
 **Contributors**
 May 22, 2005
-change
-by [jst](/member/jst)

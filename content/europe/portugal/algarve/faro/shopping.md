@@ -52,9 +52,5 @@ a variety of shops.
 
 **Contributors**
 February 09, 2010
-change
-by [schitti](/member/schitti)
 
 February 02, 2010
-change
-by [robin_8000](/member/robin_8000)

@@ -19,5 +19,3 @@ type: section
 
 **Contributors**
 April 26, 2010
-new
-by [mbailin](/member/mbailin)

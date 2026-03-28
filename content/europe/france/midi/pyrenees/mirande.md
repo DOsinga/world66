@@ -1,0 +1,4 @@
+---
+title: "Mirande"
+type: location
+---

@@ -23,5 +23,3 @@ url: [www.rigaweekend.com](http://www.rigaweekend.com/nightlife/strip-club-vip-e
 address: Riga Weekend 6, Biekensalas str. Riga, LV-1004 Latvia
 
 email: info@rigaweekend.com
-
-[back to Nightlife and Entertainment](..)

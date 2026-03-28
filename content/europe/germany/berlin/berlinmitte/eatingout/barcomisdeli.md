@@ -20,5 +20,3 @@ connections: U Weinmeisterstr., S Hackescher Markt,
 openings: Mo-Sa 9am -10pm, Su 10am -10pm
 
 address: Sophiestr. 21 (2nd courtyard)
-
-[back to Eating Out](..)

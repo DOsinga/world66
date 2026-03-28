@@ -11,8 +11,6 @@ I fell in love with this store at first glance, especially this big piece I saw 
 
 **Contributors**
 September 04, 2007
-new
-by [nickyfoltz](/member/nickyfoltz)
 
 type: Speciality shops
 
@@ -25,5 +23,3 @@ tel: (21)2285-4395
 url: [www.pedeboi.com.br](http://www.pedeboi.com.br)
 
 address: Rua Ipiranga 55, Laranjeiras
-
-[back to Shopping](..)

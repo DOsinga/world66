@@ -1,8 +1,6 @@
 ---
 title: "Chachapoyas"
 type: location
-latitude: -6.371827
-longitude: -77.809338
 ---
 
 Chachapoyas (2,335 meters above sea level) 

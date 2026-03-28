@@ -17,5 +17,3 @@ type: Bars & Pubs
 address: 5, Rue Daunou, (2° Arr.) Paris
 
 tel: (01) 42.61.71.14
-
-[back to Nightlife and Entertainment](..)

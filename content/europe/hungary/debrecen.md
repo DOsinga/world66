@@ -1,0 +1,4 @@
+---
+title: "Debrecen"
+type: location
+---

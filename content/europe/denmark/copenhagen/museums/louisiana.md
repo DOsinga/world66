@@ -10,5 +10,3 @@ address: Gammel Strandvej 13, Humlebæk
 url: [www.louisiana.dk](http://www.louisiana.dk )
 
 tel: 4549190719
-
--->

@@ -60,5 +60,3 @@ only in the city of Washington, D.C.
 
 **Contributors**
 August 31, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

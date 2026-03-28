@@ -15,5 +15,3 @@ type: Tourist information
 url: [www.riaddreamer.com](http://www.riaddreamer.com)
 
 email: info@marocdreamer.com
-
-[back to Practical Information](..)

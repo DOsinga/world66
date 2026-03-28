@@ -57,5 +57,3 @@ hills and flat lands of Guinee Conakry is when to go during this season.
 
 **Contributors**
 February 25, 2010
-change
-by [gabriellet](/member/gabriellet)

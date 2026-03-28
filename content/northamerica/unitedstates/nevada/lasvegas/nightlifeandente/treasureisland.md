@@ -1,6 +1,6 @@
 ---
 title: "Treasure Island"
-type: location
+type: poi
 address: "3300 Las Vegas Blvd"
 type: "Casinos"
 ---
@@ -14,5 +14,3 @@ type: Casinos
 
 
 address: 3300 Las Vegas Blvd
-
-[back to Nightlife and Entertainment](..)

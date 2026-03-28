@@ -1,6 +1,6 @@
 ---
 title: "Osborne Village"
-type: location
+type: poi
 type: "African"
 ---
 
@@ -9,13 +9,5 @@ old houses and churches.
 
 **Contributors**
 September 09, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: African
-
-
-
-
-
-[back to Eating Out](..)

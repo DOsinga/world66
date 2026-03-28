@@ -26,5 +26,3 @@ tour would not remain a drop of indifference in people's hearts.
 
 **Contributors**
 October 13, 2006
-new
-by [amourclub](/member/amourclub) (2 points)

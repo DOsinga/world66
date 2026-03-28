@@ -8,5 +8,3 @@ Harrogate is a town with about 60,000 pop. A Victorian spa town that has today b
 
 
 And it's a jolly nice place.
-
--->

@@ -16,9 +16,5 @@ Looking to get away for the day in Florida? Then try one of these **Florida Day 
 
 **Contributors**
 March 15, 2010
-change
-by [suegabel](/member/suegabel)
 
 March 18, 2010
-change
-by [ctanios](/member/ctanios)

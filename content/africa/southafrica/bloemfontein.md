@@ -1,0 +1,4 @@
+---
+title: "Bloemfontein"
+type: location
+---

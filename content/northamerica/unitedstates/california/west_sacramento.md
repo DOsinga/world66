@@ -1,12 +1,8 @@
 ---
-title: "West Sacramento Travel Guide"
+title: "West Sacramento"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 we would like to add out city in your hotel.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

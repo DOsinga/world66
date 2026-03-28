@@ -7,8 +7,6 @@ Vushtrria 2008
 
 **Contributors**
 June 04, 2008
-change
-by [eksploruesi](/member/eksploruesi)
 
 We currently have no Sights listed in Vushtrri.
 

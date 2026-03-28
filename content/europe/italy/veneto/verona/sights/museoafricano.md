@@ -20,5 +20,3 @@ address: S. Giovanni in Valle, vic Pozzo 1
 openinghours: 9-12am/3-6pm
 
 tel: 045 596238
-
-[back to Sights](..)

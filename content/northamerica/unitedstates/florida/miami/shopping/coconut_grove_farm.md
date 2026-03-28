@@ -12,8 +12,6 @@ If you want the freshest foods produce the city of Miami has to offer, head over
 
 **Contributors**
 June 01, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Markets
 
@@ -26,5 +24,3 @@ url: [www.glaserorganicfarms.com](http://www.glaserorganicfarms.com)
 address: 3300 Grand Avenue
 
 email: Raw@GlaserOrganicFarms.com
-
-[back to Shopping](..)

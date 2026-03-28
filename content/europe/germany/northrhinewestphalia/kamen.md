@@ -1,0 +1,4 @@
+---
+title: "Kamen"
+type: location
+---

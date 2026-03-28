@@ -9,13 +9,9 @@ Macduff Marine Aquarium packed with fish and creatures native to the Moray Firth
 
 **Contributors**
 February 13, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 type: Other
 
 
 
 url: [www.marine-aquarium.com](http://www.marine-aquarium.com/)
-
-[back to Things to do](..)

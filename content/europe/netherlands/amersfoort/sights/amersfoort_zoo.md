@@ -13,5 +13,3 @@ type: Parks, Gardens and Zoos
 
 
 address: Road to Soest
-
-[back to Sights](..)

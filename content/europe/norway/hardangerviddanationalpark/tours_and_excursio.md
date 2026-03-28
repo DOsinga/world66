@@ -17,5 +17,3 @@ This was a trip well worth taking, if only for the beauty of the landscape and t
 
 **Contributors**
 May 03, 2005
-new
-by [carol](/member/carol) (1 point)

@@ -43,8 +43,4 @@ Vodickova 26, Praha 1. Some meals. Basic pub-restaurant. Beer: Branicke 10% (lig
 
 **U zlateho tygra **
 
-Husova 17, Praha 1. Unfortunately, Hrabal, the writer, is no longer one of the regulars in this noisy, busy pub. Good Czech atmosphere though. Beer: Pilsner Urquell. Pub snacks. 
-
-## Subsections
-
-[Nebe](/europe/czechrepublic/prague/nightlife/barspubs/nebe)
+Husova 17, Praha 1. Unfortunately, Hrabal, the writer, is no longer one of the regulars in this noisy, busy pub. Good Czech atmosphere though. Beer: Pilsner Urquell. Pub snacks.

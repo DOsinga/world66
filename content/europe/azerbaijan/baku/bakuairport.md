@@ -1,11 +1,9 @@
 ---
 title: "Baku Airport"
 type: location
-latitude: 40.472815
-longitude: 50.049147
 ---
 
-Bina international airport is the busiest in the Caucasus. Thanks to the EBRD and the German Government, it has had recent investment in upgrading navigation aids that have improved safety for air traffic (the airport was the scenario for several accidents, the last serious one with a B707 in 1995). The airport had a lot of construction work in the 1980's, but the collapse of the USSR resulted in the suspension of the works, with the two main terminals being left incomplete. Increased traffic led to a second runway being opened for wide-bodied aircraft in 1995. The current international terminal was opened in 1993 with precarious conditions. In June 1999, after construction work that seemed to eternalize, the renovated passenger facilities were finally inaugurated. 
+Heydar Aliyev Bina International airport is the busiest in the Caucasus. Thanks to the EBRD and the German Government, it has had recent investment in upgrading navigation aids that have improved safety for air traffic (the airport was the scenario for several accidents, the last serious one with a B707 in 1995). The airport had a lot of construction work in the 1980's, but the collapse of the USSR resulted in the suspension of the works, with the two main terminals being left incomplete. Increased traffic led to a second runway being opened for wide-bodied aircraft in 1995. The current international terminal was opened in 1993 with precarious conditions. In June 1999, after construction work that seemed to eternalize, the renovated passenger facilities were finally inaugurated. 
 
 The airport is approximately 25 kilometres east from downtown Baku (travel time: approx. 40 minutes), one kilometre off the Baku-Mardakan road. If you are coming from Baku you will see the access road on your left, in front of an open air market. The central building is the domestic and CIS terminal (use the left entrance for Nakhchivan flights). To the left side is located the international terminal, and in front of it, across the often chaotic parking lot, you'll find the airport hotel. 
 

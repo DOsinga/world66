@@ -13,8 +13,6 @@ With over 500 dealers, Great American Flea Market is one of the largest indoor f
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius)
 
 type: Antiques
 
@@ -29,5 +27,3 @@ url: [www.greatamericanfleamarket.com](http://www.greatamericanfleamarket.com/)
 address: 9210-9244 East Admiral Place
 
 email: greatfleamarket@aol.com
-
-[back to Shopping](..)

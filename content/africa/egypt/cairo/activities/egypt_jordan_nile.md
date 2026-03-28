@@ -6,8 +6,6 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Spa and Sauna"
 url: "egypttourinfo.com"
-latitude: 30.044388
-longitude: 31.235726
 ---
 
 Itinerary: Egypt Jordan Nile Cruise Holiday, 12 Days
@@ -65,5 +63,3 @@ url: [egypttourinfo.com](http://egypttourinfo.com/nile-river-cruise-holiday.html
 address: Cairo
 
 email: adsense@seoera.net
-
-[back to Things to do](..)

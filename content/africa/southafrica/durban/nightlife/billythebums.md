@@ -4,8 +4,6 @@ type: poi
 address: "504 Windermere Rd, Morningside"
 phone: "(031) 303-1988"
 type: "Casinos"
-latitude: -29.826064
-longitude: 31.022138
 ---
 
 Cocktail bar for Basic Upmarket Socialites (BUMs). Best cocktails in town. Tuesday ladies' night.
@@ -21,5 +19,3 @@ type: Casinos
 address: 504 Windermere Rd, Morningside
 
 tel: (031) 303-1988
-
-[back to Nightlife and Entertainment](..)

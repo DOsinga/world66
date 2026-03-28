@@ -8,3 +8,7 @@ A wonderful Jewel of Scotland in the North Sea, The Orkney Isles are by far some
 The Orkneys are a series of islands in the northernmost reaches of Scotland. The county to the south is Caithness with numerous ancient tombs, standing stones, and ancient dwellings called "brochs." The ferry to the main island in the Orkneys departs from and returns to Caithness. 
 
 Skara Brae the oldest human settlement in the world is located on South Ronaldsay, the main island on the Orkneys.
+
+## Destinations in Orkneys
+
+[Kirkwall](/world/europe/unitedkingdom/scotland/orkneys/kirkwall)

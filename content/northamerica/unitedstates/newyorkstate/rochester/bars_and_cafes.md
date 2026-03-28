@@ -8,8 +8,6 @@ Liquor licenses are until 2:00am, in the City of Rochester.
 
 **Contributors**
 February 13, 2006
-new
-by [allamericanbear](/member/allamericanbear)
 
 ### [Nasty D's (GLBT)](/northamerica/unitedstates/newyorkstate/rochester/bars_and_cafes/nasty_ds_glbt)
 

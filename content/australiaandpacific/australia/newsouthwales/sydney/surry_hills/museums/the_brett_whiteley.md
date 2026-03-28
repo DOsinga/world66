@@ -5,8 +5,6 @@ address: "2 Raper Street , Surry Hills, Sydney, 2010"
 email: "brettwhiteleystudio@ag.nsw.gov.au"
 phone: "02 9225 1881"
 url: "www.brettwhiteley.org"
-latitude: -33.888749
-longitude: 151.21466
 ---
 
 The Brett Whiteley Studio preserves the warehouse studio space of the 20th century artist and hosts exhibitions of his work.
@@ -22,5 +20,3 @@ url: [www.brettwhiteley.org](http://www.brettwhiteley.org)
 address: 2 Raper Street , Surry Hills, Sydney, 2010
 
 email: brettwhiteleystudio@ag.nsw.gov.au
-
-[back to Museums](..)

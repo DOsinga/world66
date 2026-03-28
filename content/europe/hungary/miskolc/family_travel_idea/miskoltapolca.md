@@ -12,5 +12,3 @@ It's a very good place to relax, explore the near mountin, Bükk, or just have a
 url: [miskolctapolca.hu](http://miskolctapolca.hu/main.php?pg=95&lg=1)
 
 address: IstvÃ¡n PazÃ¡r SétÃ¡ny 1
-
-[back to Family Travel Ideas](..)

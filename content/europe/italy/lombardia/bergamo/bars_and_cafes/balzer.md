@@ -10,8 +10,6 @@ An elegant traditional bar for coffee, ice cream, and sweets - also to take out 
 
 **Contributors**
 February 19, 2008
-change
-by [karenbru](/member/karenbru)
 
 
 
@@ -20,5 +18,3 @@ accessibility: Bus1
 tel: Tel: +39.035.234083 - Fax: +39.035.233412
 
 address: VIALE SENTIERONE, 41 - 24122 BERGAMO (BG
-
-[back to Bars and Cafes](..)

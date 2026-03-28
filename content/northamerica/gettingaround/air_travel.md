@@ -11,5 +11,3 @@ Both the USA and Canada have comprehensive airline systems to not only cities an
 
 
 url: [www.kooloola.com](http://www.kooloola.com/airfares.html)
-
-[back to Getting Around](..)

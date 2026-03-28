@@ -18,5 +18,3 @@ address: 5000 Jefferson St NE,
 tel: (505)884-2446
 
 zipcode: Albuquerque, NM
-
-[back to Nightlife and Entertainment](..)

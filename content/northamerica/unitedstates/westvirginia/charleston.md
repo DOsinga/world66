@@ -3,7 +3,8 @@ title: "Charleston"
 type: location
 ---
 
-Charleston is the capital city of [West Virginia](/northamerica/unitedstates/westvirginia). It is a small city with a population of just over 55,000 (depending on who you ask) in the city proper. The county is home to over 200,000. Charleston is also the regional hub for transportation, commerce, and healthcare--you will notice lots of banks, warehouses, and hospitals. 
+Charleston is the capital city of
+[West Virginia](/northamerica/unitedstates/westvirginia). It is a small city with a population of just over 55,000 (depending on who you ask) in the city proper. The county is home to over 200,000. Charleston is also the regional hub for transportation, commerce, and healthcare--you will notice lots of banks, warehouses, and hospitals. 
 
 Charleston was officially founded in 1789 (?) as a settlement at the confluence of the Kanawha (kuh-NAW-uh) and Elk rivers. Daniel Boone once lived here for a short period of time. Noting much happened for years...until salt mines were discovered a few miles away in Malden and Belle. Industry became the lifeblood of the valley; although the salt mines eventually stopped production, other industries kicked in. Chemical factories are abundant in the area (though declining) and sustained the area through the diaspora of the West Virginia youth in the 1970s and 1980s. 
 
@@ -19,6 +20,6 @@ If you've got kids, take them to the Sunrise Children's Museum. If you're lookin
 
 Charleston is conveniently located at the junction of three major interstate highways (64, 77, and 79) and has Amtrak service via the Cardinal line from Washington DC and Cincinnati/Chicago. You could also fly into the airport from most of the regional hubs, and there is a public bus system. Traffic is light and parking is rarely a problem, if you care to rent a car. Hotels are plentiful and range from budget to luxury in variety. Most major hotel chains have a property (or two) in Charleston.
 
-## Destinations
+## Destinations in Charleston
 
-- [East End](/northamerica/unitedstates/westvirginia/charleston/eastend)
+[East End](/world/northamerica/unitedstates/westvirginia/charleston/eastend)

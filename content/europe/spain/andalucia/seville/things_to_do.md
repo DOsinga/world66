@@ -9,5 +9,3 @@ Most of the staff can speak Spanish and English, so there shouldn´t be any lang
 
 **Contributors**
 June 28, 2007
-new
-by [cuesta sport](/member/cuesta_sport)

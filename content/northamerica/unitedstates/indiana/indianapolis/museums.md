@@ -7,5 +7,3 @@ If you are traveling with your children, make sure one of your Indianapolis acti
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

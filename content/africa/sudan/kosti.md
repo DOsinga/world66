@@ -1,0 +1,4 @@
+---
+title: "Kosti"
+type: location
+---

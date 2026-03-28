@@ -10,8 +10,6 @@ Phone: 702 363-5585
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Seafood
 
@@ -20,5 +18,3 @@ type: Seafood
 
 
 tel: 702 363-5585
-
-[back to Eating Out](..)

@@ -10,8 +10,6 @@ Some of the most interesting items are on display at Museo Storico Navale such a
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -20,5 +18,3 @@ type: Other
 tel: +39 041 5200276
 
 address: Campo San Biago, Castello 2148
-
-[back to Things to do](..)

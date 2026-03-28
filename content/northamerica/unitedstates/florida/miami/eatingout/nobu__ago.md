@@ -13,12 +13,8 @@ Overlooking the pools with rustic ambiance, experience Agostino Sciandri's tradi
 
 **Contributors**
 August 09, 2006
-new
-by [plin](/member/plin) (2 points)
 
 June 01, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Japanese
 
@@ -31,5 +27,3 @@ tel: 305 695 3100
 url: www.shoreclub.com
 
 address: 1901 Collins Avenue
-
-[back to Eating Out](..)

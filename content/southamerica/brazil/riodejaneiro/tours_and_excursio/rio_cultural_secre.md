@@ -22,5 +22,3 @@ url: [www.rioculturalsecrets.com](http://www.rioculturalsecrets.com)
 address: Prudente de Moraes Street 1398
 
 email: contato@rioculturalsecrets.com
-
-[back to Tours and Excursions](..)

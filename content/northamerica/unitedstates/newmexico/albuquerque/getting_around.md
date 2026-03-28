@@ -11,5 +11,3 @@ Also, if you are going off-road, be sure you drive the appropriate vehicle – a
 
 **Contributors**
 May 28, 2009
-new
-by [smkane](/member/smkane)

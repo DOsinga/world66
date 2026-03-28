@@ -13,9 +13,4 @@ Embassies & Consulates in the city, offices for visa/immigration issues ... No v
 
 at your arrival in Guatemala city the guatemala tourist commission will give important info and what you can or cant do while your stay in Guatemala. any emergency contact: Police: Policía Nacional Civíl Sobre la 5a. Avenida, Zona 1 Tel: 7764-1475 Volunteer Fire Company: Bomberos Voluntarios Entrada a Huehuetenango, Zona 5 Tel: 7764-1553
 
-*Change history*
-Orginal article by [jurandirtje](/member/jurandirtje) on 07 January 05
-
-Minor corrections by [jurandirtje](/member/jurandirtje) on 07 January 05
-
--->
+Minor corrections on 07 January 05

@@ -11,8 +11,6 @@ Old Paris Flea Market is one of those midwestern flea markets where one will fin
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Antiques
 
@@ -25,5 +23,3 @@ accessibility: Wheelchair accessible.
 tel: (405) 670-2611
 
 address: 1111 South Eastern
-
-[back to Shopping](..)

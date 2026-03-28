@@ -24,8 +24,6 @@ Africa begins right behind your hotel - discover it.
 
 **Contributors**
 October 18, 2006
-change
-by [oljua](/member/oljua) (2 points)
 
 type: Cycling
 
@@ -42,5 +40,3 @@ url: [BikeTheCoast.com](http://BikeTheCoast.com)
 address: near Mombasa Go-Kart
 
 email: info ät BikeTheCoast.com
-
-[back to Things to do](..)

@@ -8,6 +8,3 @@ Salt Lake City is the Capital of Utah and its most vibrant city. In the mountain
 Utah is a great destination for anyone who enjoys being outdoors -- from mountain biking to hiking, skiing, flyfishing and snowboarding. 
 
 Many of the historical sights in town have to do with the Church of Jesus Christ of Latter-Day Saints, whose members origially settled the valley in the mid 1800's. Within a lushly landscaped, ten-acre refuge in downtown Salt Lake City stands the multi-spired Salt Lake Temple; the Tabernacle, and other LDS historical buildings. There are also many historic houses of 19th century settlers to be seen. Other sights include the Olympic Cauldron Park at the University of Utah, Trolley Square, Red Butte Gardens, Clark Planetarium and the Gardner Mill.
-
-*Change history*
-Write up by [jrhall5150](/member/jrhall5150) on 06 August 04

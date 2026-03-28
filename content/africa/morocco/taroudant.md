@@ -1,8 +1,6 @@
 ---
 title: "Taroudant"
 type: location
-latitude: 30.470651
-longitude: -8.877922
 ---
 
 Taroudant is a beautiful place to stop-explore the enchanting souk, take in some of the best preserved walls in Morocco, and eat some of the best cooking in the south. The city is enclosed by medieval walls which look best at dusk, when the gold, pink and orange colors are brought out by the setting sun. 

@@ -15,5 +15,3 @@ type: Bouzouki
 address: 21 Andreou Georgiou st. Vilka
 
 tel: +30 31 - 523131
-
-[back to Nightlife and Entertainment](..)

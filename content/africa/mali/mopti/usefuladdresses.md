@@ -1,9 +1,9 @@
 ---
-title: "Useful addresses"
+title: "Practical Information"
 type: location
 ---
 
-**Points of Interest**
+**Practical addresss**
 
 **Banks**
 

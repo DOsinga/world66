@@ -12,5 +12,3 @@ This cathedral was built in 1885 and was intended to be the largest in South Ame
 **El Sagrario **
 
 El Sagrario (or Old Cathedral), is located on Plaza Abdon Calderon and dates from 1557 when the present Cuenca was founded.
-
--->

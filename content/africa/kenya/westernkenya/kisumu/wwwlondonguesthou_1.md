@@ -1,9 +1,9 @@
 ---
-title: "www.LondonGuestHouseKisumu.com Travel Guide"
+title: "www.LondonGuestHouseKisumu.com"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ***London Guest House*** is conveniently situated in the Kondele area of **Kisumu town, Kenya**. Family run and owned, the hotel carries an English themed decor whilst offering traditional Kenyan hospitality.
 
@@ -17,9 +17,3 @@ The Hotel is in an ideal location with easy airport transfer, ensuring that from
 
 *...**We welcome you.
 ***
-
-*Part or or all of this text stems from the original article at: www.LondonGuestHouseKisumu.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 20:20

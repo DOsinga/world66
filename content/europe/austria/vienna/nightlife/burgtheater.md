@@ -16,5 +16,3 @@ type: Theatres & Operas
 
 
 address: Dr. Karl-Lueger-Ring, 1. Bezirk
-
-[back to Nightlife and Entertainment](..)

@@ -1,6 +1,6 @@
 ---
 title: "Newschannel 20"
-type: location
+type: poi
 phone: "800-263-9720"
 url: "www.wics.com"
 ---
@@ -14,5 +14,3 @@ url: "www.wics.com"
 tel: 800-263-9720
 
 url: [www.wics.com](http://www.wics.com/weather/webcam.shtml)
-
-[back to Webcams](..)

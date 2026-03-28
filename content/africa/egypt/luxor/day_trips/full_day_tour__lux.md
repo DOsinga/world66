@@ -38,5 +38,3 @@ More Information :
 url: [www.egyptsunshine.net](http://www.egyptsunshine.net)
 
 email: luxor@egyptsunshine.com
-
-[back to Day Trips](..)

@@ -36,5 +36,3 @@ Christmas markets abound throughout German-speaking Europe and Switzerland is no
 
 **Contributors**
 February 26, 2010
-change
-by [piyushjain](/member/piyushjain_)

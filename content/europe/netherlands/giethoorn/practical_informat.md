@@ -27,5 +27,3 @@ Central Europe Time (CET), or Greenwich Mean Time plus 1 hour (GMT +1hr).
 
 **Contributors**
 February 19, 2010
-change
-by [ctanios](/member/ctanios)

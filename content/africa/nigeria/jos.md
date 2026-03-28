@@ -1,8 +1,6 @@
 ---
 title: "Jos"
 type: location
-latitude: 9.917513
-longitude: 8.89794
 ---
 
 Jos is one of the nicest places to visit in Nigeria. It's the capital of the Plateau State and is located at an elevation of 1200 metres above sea level, which means that it is cooler here than anywhere else in the country most of the time. 

@@ -1,8 +1,6 @@
 ---
 title: "Tromso"
 type: location
-latitude: 69.651635
-longitude: 18.955859
 ---
 
 Tromso is the capital of the region of Troms. It is a pleasnat city that is well worth a visit. Make sure to visit the Arctic Cathedral, which symbolises northern Norwegian heritage and culture. Its stained-glass windows are among the largest in Europe. The Tromsø Museum displays good insight into the Sami culture, while the Polar Museum shows activities related to arctic hunting, fishing, and research. The new experience centre Polaria presents nature, environment and environmental problems in the arctic region in an exciting way. 

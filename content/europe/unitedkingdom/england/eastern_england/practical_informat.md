@@ -64,5 +64,3 @@ Reasons For Embryonic Stem Cell Research
 http://lqkkkaiv.info/40g.html
 Teach Character Analysis
 http://lopkiwog.info/4ky.html
-
-*Part or or all of this text stems from the original article at: Jasper Chambers*

@@ -45,5 +45,3 @@ The town is now a graveyard and monument, still towered over by the biggest moun
 
 **Contributors**
 June 28, 2006
-new
-by [stuart starrs](/member/stuart_starrs) (2 points)

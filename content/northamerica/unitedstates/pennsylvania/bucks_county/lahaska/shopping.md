@@ -14,8 +14,6 @@ There are also 35 stores in the **Penn’s Purchase Factory Outlet Stores**, inc
 
 **Contributors**
 January 20, 2006
-change
-by [michael chapman](/member/michael_chapman)
 
 ### [Peddler's Village](/northamerica/unitedstates/pennsylvania/bucks_county/lahaska/shopping/peddlers_village)
 

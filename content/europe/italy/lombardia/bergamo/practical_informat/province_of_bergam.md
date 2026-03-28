@@ -9,13 +9,9 @@ The entire tourist, economical, cultural, natural and productive world of the Be
 
 **Contributors**
 December 10, 2007
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Tourist information
 
 
 
 url: [www.provincia.bergamo.it](http://www.provincia.bergamo.it)
-
-[back to Practical Information](..)

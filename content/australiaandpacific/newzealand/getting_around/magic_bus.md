@@ -12,8 +12,6 @@ You might notice that there is always some rivalry between the busses, especiall
 
 **Contributors**
 October 13, 2007
-new
-by [tournoy](/member/tournoy)
 
 
 
@@ -22,5 +20,3 @@ by [tournoy](/member/tournoy)
 url: [www.magicbus.co.nz](http://www.magicbus.co.nz)
 
 address: Backpacker world travel
-
-[back to Getting Around](..)

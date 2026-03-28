@@ -1,9 +1,9 @@
 ---
-title: "Grand Prairie Travel Guide"
+title: "Grand Prairie"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Grand Prairie** is a city in the Prairies and Lakes region of Texas.
 
@@ -30,7 +30,3 @@ enthusiast’s dream
 
 Fun amusement parks, scenic state parks and thoroughly entertaining thoroughbred
 racing parks are within 10 miles of our Grand Prairie, Texas hotel.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 10:40

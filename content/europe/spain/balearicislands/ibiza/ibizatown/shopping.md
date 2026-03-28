@@ -48,5 +48,3 @@ Classical brands, such as Lacoste, Florentino, Caramelo and Feuntecapala are sol
 address: Joan D'Austria 22
 
 tel: +34/971317428
-
--->

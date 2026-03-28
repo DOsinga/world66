@@ -1,9 +1,9 @@
 ---
-title: "Mingechevir Travel Guide"
+title: "Mingechevir"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mingechaur is an ancient town and since the 1940s a significant centre of light industry, including the production of cotton and woollen textiles, knitwear, household items, souvenirs, and assorted consumer goods.
 
@@ -18,13 +18,3 @@ The Mingechaur Reservoir, with an area of 605 square kilometers that makes it th
 The waters of the Kura river also submerged several important archaeological sites, although some of the findings can now be seen in Baku. The Kura River rises in Georgia and flows southeast towards the Caspian Sea. The lower 500km are navigable and prone to flooding. There is a network of canals linking the Kura to the Araz River
 
 (275 km west of Baku)
-
-*Part or or all of this text stems from the original article at: azerb.com*
-
-#### Contributors
-
-April 30, 2006 new by [azerbaijan08](/member/azerbaijan08) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 16:13

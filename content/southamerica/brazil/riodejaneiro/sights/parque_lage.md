@@ -31,5 +31,3 @@ openingHours: 9:00 - 17:30; weekends until 22:30
 url: [www.riodejaneirophotoguide.com](http://www.riodejaneirophotoguide.com)
 
 address: Escola de Artes Visuais do Parque Lage Rua Jardim Botânico, 414
-
-[back to Sights](..)

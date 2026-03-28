@@ -122,13 +122,7 @@ visually appealing holiday as they put up many decorative lights.
 
 **Contributors**
 February 07, 2010
-new
-by [robin_8000](/member/robin_8000)
 
 February 10, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

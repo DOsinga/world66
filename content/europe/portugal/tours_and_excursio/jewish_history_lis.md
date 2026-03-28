@@ -14,5 +14,3 @@ A short distance away is the Baixa, traditionally the financial and commercial c
 tel: +351963857776
 
 email: cristina.nbrito@gmail.com
-
-[back to Tours and Excursions](..)

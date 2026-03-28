@@ -52,5 +52,3 @@ around $40 U.S.
 
 **Contributors**
 January 08, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

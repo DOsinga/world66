@@ -55,9 +55,5 @@ During the summer there is a train to Lake Sevan, but the trip takes several hou
 
 **Contributors**
 January 23, 2010
-new
-by [huttongreen](/member/huttongreen)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

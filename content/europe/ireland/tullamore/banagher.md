@@ -1,9 +1,9 @@
 ---
-title: "Banagher Travel Guide"
+title: "Banagher"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 John and Marian invite you to rent the Chestnut or the Ashtree Cottage situated on the McDonald farm at Lusmagh, Banagher, Co. Offaly only 1 Km from the River Shannon. The Chestnut Cottage has been lovingly restored, keeping as much as possible of the 'Old World' character of the cottage while adding all the modern comforts. This property is Bord Failte (Irish Tourist Board) approved. It was the original home of the McDonald family for generations. It is located close to the main farmhouse, in a nice farm garden with an orchard.
 
@@ -14,9 +14,3 @@ Located on a farm only 2.5 miles from Banagher town in Co. Offaly, Ireland. The 
 Banagher is famous for its Irish music pubs, its river cruises, Bog walks and tours, great Fishing, ( coarse fishing - pike fishing is particularly rewarding). Its proximity to several golf courses, Excellent super markets and shops, Restaurants and Hotels make it a great holiday location . Most of the pubs serve really good food and creamy Guinness .
 
 Dogs welcome!
-
-*Part or or all of this text stems from the original article at: http://homepage.eircom.net/~mcdonaldsfarm/index.html*
-
-Page last generated on Wed 03:19
-
--->

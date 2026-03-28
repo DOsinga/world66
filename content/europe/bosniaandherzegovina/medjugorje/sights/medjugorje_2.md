@@ -26,5 +26,3 @@ type: Churches and Cathedrals
 
 
 url: [www.medjugorjemap.com](http://www.medjugorjemap.com)
-
-[back to Sights](..)

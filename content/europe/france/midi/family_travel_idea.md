@@ -52,5 +52,3 @@ activities, to make their stay in Provence memorable for all ages.
 
 **Contributors**
 October 30, 2009
-new
-by [kimerly](/member/kimerly)

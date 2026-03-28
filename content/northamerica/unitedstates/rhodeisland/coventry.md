@@ -1,9 +1,9 @@
 ---
-title: "Coventry Travel Guide"
+title: "Coventry"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Coventry was first settled in the early 18th century, when the town
 was part of Warwick. Since the area was so far away from the center of
@@ -49,7 +49,3 @@ Providence area. These new comers moved because of the large amount of
 land available to build on. The eastern part of the town became
 suburbanized. Currently, there is a movement in the town to limit new
 homes in order to keep the rural flavor of the western part of the town.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:08

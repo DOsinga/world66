@@ -14,13 +14,9 @@ www.vesuviana.it
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
 tel: +39 0 81 850 7255
 
 address: Tourist Office: Via Sacra 1
-
-[back to Day Trips](..)

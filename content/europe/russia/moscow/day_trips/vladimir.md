@@ -1,8 +1,6 @@
 ---
 title: "Vladimir"
 type: poi
-latitude: 55.753731
-longitude: 37.619902
 ---
 
 [Vladimir](/europe/russia/vladimir) is very nice one day trip from Moscow.
@@ -15,9 +13,3 @@ It is much more comfortable to go by bus. Buses to Vladimir run from the stop on
 
 **Contributors**
 July 16, 2006
-new
-by [svetico](/member/svetico)
-
-
-
-[back to Day Trips](..)

@@ -1,8 +1,6 @@
 ---
 title: "Estoril"
 type: poi
-latitude: 38.709571
-longitude: -9.390137
 ---
 
 Placed just a few miles from Sintra lays **Cascais** once a small fishing harbour this village together with **Estoril**

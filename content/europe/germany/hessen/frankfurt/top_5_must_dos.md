@@ -37,5 +37,3 @@ Metro: Hauptwache Station
 
 **Contributors**
 October 12, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

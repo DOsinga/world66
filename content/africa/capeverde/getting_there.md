@@ -3,12 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-There are two international airports on Cape Verde: on [Sal](/africa/capeverde/sal) and at [Praia](/africa/capeverde/saotiago/praia) on [Santiago](/africa/capeverde/saotiago).
-Flights from Africa: Cape Verde’s national air company TACV flies from [Dakar](/africa/senegal/dakar), [Banjul](/africa/gambia/banjul) and [Bissau](/africa/guineabissau/bissau) to Praia. Also Air Senegal flies from Dakar to Praia. The Angolan company TAAG flies from [Luanda](/africa/angola/luanda) and [Saõ Tome](/africa/saotomeandprincipe/saotome) to Sal. There seem to be no flights from South Africa at present.
-Flights from Europe: TACV flies from Lisbon, Paris, Amsterdam and Madrid to Sal, seasonally also from Munich and Rome. TACV also flies to Praia from Lisbon and Paris. There is also a weekly flight from [Las Palmas](/europe/spain/canaryislands/grancanaria/las_palmas), Gran Canaria. TAP flies from Lisbon to both Praia and Sal. In addition to these regular flights, there are charter flights to Sal from some European cities.
-Flights from America: TACV has flights from USA (Boston) and Brazil ([Fortaleza](/southamerica/brazil/fortaleza)).
+"/>
 
-**Contributors**
-August 03, 2008
-new
-by [ingvar](/member/ingvar) (2 points)
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

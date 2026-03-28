@@ -9,8 +9,6 @@ As many other Belgian places Mol has a number of bars and cafes
 
 **Contributors**
 July 08, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [Rubens](/europe/belgium/mol/bars_and_cafes/rubens)
 

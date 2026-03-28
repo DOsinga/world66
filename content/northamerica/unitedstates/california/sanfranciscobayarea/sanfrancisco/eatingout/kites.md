@@ -15,5 +15,3 @@ type: Italian
 address: 536 Golden Gate Ave
 
 tel: (415) 771-1997
-
-[back to Eating Out](..)

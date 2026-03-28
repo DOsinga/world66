@@ -23,13 +23,9 @@ have lots of time to explore, hike, sightsee, or shop.
 
 **Contributors**
 December 13, 2007
-change
-by [sentias](/member/sentias)
 
 
 
 address: http://amazingtours.rezgo.com/2007/12/mighty-rockies-canadian-must-see.html
 
 email: amazingtours@rezgo.com
-
-[back to Day Trips](..)

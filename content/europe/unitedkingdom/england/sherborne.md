@@ -1,0 +1,4 @@
+---
+title: "Sherborne"
+type: location
+---

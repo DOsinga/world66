@@ -14,5 +14,3 @@ type: Diving
 
 
 url: [www.divingonroatan.com](http://www.divingonroatan.com/)
-
-[back to Things to do](..)

@@ -5,9 +5,6 @@ type: section
 
 Here it is a list of the Museums in Cartegena.
 
-*Change history*
-Orginal article by [giorgio](/member/giorgio) on 14 February 05
-
 ## all
 
 Palace of the Inquisition

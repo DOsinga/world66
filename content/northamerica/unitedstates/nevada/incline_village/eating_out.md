@@ -8,8 +8,6 @@ Incline Village harbors a variety of eating establishments that range from the c
 
 **Contributors**
 June 15, 2005
-new
-by [hobobrother](/member/hobobrother)
 
 ### [T's Rotisserie](/northamerica/unitedstates/nevada/incline_village/eating_out/ts_rotisserie)
 

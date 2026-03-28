@@ -11,7 +11,3 @@ type: "By Air"
 **Our Airline**- Flies from Tarawa (Nauru)
 
 type: By Air
-
-
-
-[back to Getting There](..)

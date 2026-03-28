@@ -1,7 +1,9 @@
 ---
-title: "Matera Travel Guide"
+title: "Matera"
 type: location
 ---
+
+Travel Guide
 
 Matera is the city of the “**Sassi**”, the charming ancient districts, which are an example of a unique and complex urban structure and has been declared a World Heritage Site by **UNESCO**.
 Matera is also host to over **100 rock churches**, a testimony of the Greek-Byzantine Monastic civilizations which held a significant influence.
@@ -11,7 +13,3 @@ The Sassi were inhabited until the 50-ies, now some of them are being turned int
 
 **Contributors**
 January 06, 2007
-change
-by [ingvar](/member/ingvar)
-
-More information on Matera Travel at Wikitravel.org

@@ -15,5 +15,3 @@ type: Chinese
 address: Park End Street, south side
 
 tel: 01865 250181
-
-[back to Eating Out](..)

@@ -3,7 +3,7 @@ title: "Anguilla"
 type: location
 ---
 
-Still a bit off the beaten track, Anguilla is one of the most paradise like islands in the Caribbean. The northernmost of the Leeward Islands, 145 miles east of [Puerto Rico](/centralamericathecaribbean/thecaribbean/puertorico) , the island is 16 miles long and 3 miles wide. It has a population of only 10,000 souls. 
+Still a bit off the beaten track, Anguilla is one of the most paradise like islands in the Caribbean. The northernmost of the Leeward Islands, 145 miles east of Puerto Rico , the island is 16 miles long and 3 miles wide. It has a population of only 10,000 souls. 
 
 
 

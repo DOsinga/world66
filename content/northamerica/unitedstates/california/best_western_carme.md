@@ -1,9 +1,9 @@
 ---
-title: "Best Western Carmel Townhouse Inn Travel Guide"
+title: "Best Western Carmel Townhouse Inn"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ** Suggest a Link From World66**
 
@@ -29,9 +29,3 @@ Book
 hotel reservations at the Best Western Carmel Townhouse Lodge in
 Carmel, California now to experience its great services,
 accommodations, and convenient location to all Carmel, CA attractions
-
-*Part or or all of this text stems from the original article at: Corner of San Carlos Street and Fifth Avenue, Carmel, CA 93921 Phone: 831-624-1261 Fax: 831-625-6783 Email: bwtownhouse@gmail.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 20:07

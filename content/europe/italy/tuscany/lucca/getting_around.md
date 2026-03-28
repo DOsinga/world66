@@ -7,5 +7,3 @@ At about 30 kms from Lucca you can find one of Italy’s best kept secrets: the 
 
 **Contributors**
 September 23, 2007
-change
-by [ingarfagnana](/member/ingarfagnana) (1 point)

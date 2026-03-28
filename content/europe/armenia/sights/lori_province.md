@@ -2,8 +2,6 @@
 title: "Tavush Province (Marz)"
 type: poi
 type: "Hotspots"
-latitude: 40.739466
-longitude: 44.852009
 ---
 
 Tavush Province
@@ -41,9 +39,3 @@ pages are still under construction) is www.virtualarmenia.am.
 Check them out they have pictures, history, directions and e.t.c.
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

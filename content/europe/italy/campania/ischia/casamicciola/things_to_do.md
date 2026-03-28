@@ -13,8 +13,6 @@ Some of the best things to do is go to the hot thermal baths, get some good suns
 
 **Contributors**
 June 26, 2006
-new
-by [karenbru](/member/karenbru) (1 point)
 
 ### [Parco Thermale Castiglione](/europe/italy/campania/ischia/casamicciola/things_to_do/parco_thermale_cas)
 

@@ -12,8 +12,6 @@ Rocky Mountain decor with a cozy restaurant featuring Certified Black Angus beef
 
 **Contributors**
 July 23, 2007
-change
-by [real](/member/real)
 
 type: Casinos
 
@@ -24,5 +22,3 @@ type: Casinos
 url: [www.elkandoarsman.com](http://www.elkandoarsman.com )
 
 email: elkandoarsman@shaw.ca
-
-[back to Nightlife and Entertainment](..)

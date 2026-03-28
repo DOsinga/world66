@@ -1,0 +1,4 @@
+---
+title: "Ramsgate"
+type: location
+---

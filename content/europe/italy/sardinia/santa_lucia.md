@@ -1,8 +1,6 @@
 ---
 title: "Santa Lucia"
 type: location
-latitude: 40.581875
-longitude: 9.778151
 ---
 
 The tiny picturesque fishing village of Santa Lucia is in a stunning

@@ -1,9 +1,9 @@
 ---
-title: "Trevi Travel Guide"
+title: "Trevi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 On the lovely train journey from [Perugia](/europe/italy/umbria/perugia) to [Spoleto](/europe/italy/umbria/spoleto) via [Assisi](/europe/italy/umbria/assisi), two lesser known places are Spello and Trevi. As a generalisation Spello is treated by the guidebooks as a nice sort of place to stay for a couple of nights if you want to avoid the crowds and Trevi is only mentioned for the view of it, an inaccessible hilltop village.
 
@@ -11,14 +11,5 @@ Certainly accessibility can be a downside to this village, which is quite deligh
 
 OK - so why go there? The simple reason is that this really is the epitome of a hilltop village. Moreover, for the time being it's peaceful enough to stroll round its wonderful atmospheric streets without crowds. If you're lucky enough to be there when the organ is being played at San Francesco Church, don't miss going. <[see sights]
 
-#### Contributors
-
-June 21, 2006 change by [davidx](/member/davidx) (2 points)
-
 More information on
 *Trevi Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 14:53

@@ -9,5 +9,3 @@ A night of drinks, music and dancing awaits the visitor to the Market Street Sal
 
 **Contributors**
 May 26, 2009
-new
-by [harding](/member/harding)

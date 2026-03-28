@@ -6,8 +6,6 @@ email: "info@rbg.ca"
 phone: "1-800-694-4769"
 type: "Parks, Gardens and Zoos"
 url: "www.rbg.ca"
-latitude: 43.289901
-longitude: -79.876477
 ---
 
 Burlington is located on the shores of Lake Ontario between Hamilton and Oakville.

@@ -21,5 +21,3 @@ tel: 0037253415285
 openingHours: Tue - Sun 10-19 (1.may to 15. sept)
 
 address: tahkuna village, Hiiumaa
-
-[back to Sights](..)

@@ -46,5 +46,3 @@ and Petrovsky Park. You can see the coast of Black Sea from some of the city par
 
 **Contributors**
 February 24, 2010
-new
-by [amymc](/member/amymc)

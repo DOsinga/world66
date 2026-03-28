@@ -1,12 +1,11 @@
 ---
-title: "Eating out"
+title: "Eating Out"
 type: section
+address: "11011 NE 6Th Ave"
+phone: "305-758-8299"
 ---
 
-## Subsections
+**Display all** or display just...
 
-[Greek](/northamerica/unitedstates/florida/miami/eatingout/greek)
-
-[Italian](/northamerica/unitedstates/florida/miami/eatingout/italian)
-
-[Other](/northamerica/unitedstates/florida/miami/eatingout/other)
+[Greek](/world/northamerica/unitedstates/florida/miami/eatingout?subsection=Greek)
+[Indian and Pakistani](/world/northamerica/unitedstates/florida/miami/eatingout?subsection=Indian%20and%20Pakistani)

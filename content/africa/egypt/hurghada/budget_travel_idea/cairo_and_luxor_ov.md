@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Pick
 up place: **
@@ -54,7 +52,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary: **
 
@@ -77,69 +75,7 @@ Religions", because there also set he mosque of Amr Ibn al-Aas, erected in
 the year 642, and Ben Ezra Synagogue, dating from the tenth century. Free time
 in **Cairo** with many optional **tours**, then you will be driven to **Cairo** airport to fly to **Luxor**, with direct transfer to your hotel in **Luxor** for check in and overnight stay.
 
-**Day 2: Sights in Luxor, return back to Makadi****
-
-**After your breakfast in the hotel in **Luxor** you will continue
-second day of your **Cairo** and **Luxor trip** with your Egyptologist guide to visit
-the West Bank of the Nile River. You will start **Luxor
-trip** by visiting the Valley of the Kings - burial place of
-pharaohs, hidden in the rocks, decorated with scenes and funerary rituals of
-the period for afterlife of pharaohs. Valley of Kings is famous for Tutankhamen
-tomb and its treasures, discovered in 1922 by Howard Carter. Next **sightseeing** of your **Luxor
-trip** will be Hatshepsut temple at El Deir Al Bahari, dedicated
-to the queen Hatshepsut - famous female pharaoh, the temple with three layered
-terraces connected by long ramps which were once surrounded by gardens. Inside
-temple you can see text and picture of an expedition to exotic country calls
-Land of Punt. Then will visit the **Colossi of Memnon**, two
-colossal statues, was stayed guard at entrance of Amenhotep III temple in **ancient** times, and only remaining nowadays. Name
-means 'Ruler of the Dawn' and was probably given, because of 'singing' at dawn
-one of the statue. Lunch meal will be served during** Luxor** **trip** at a good quality
-restaurant in **Luxor**. Proceed the **trip** in **Luxor** to **Karnak** temple the biggest open-air museum in the
-World, the temple dedicated to the God Amon-Ra, his wife Mut and their son
-Khonsu. In **Karnak** Temple each pharaoh
-tried to perpetuate his name, so it is also known as the **Karnak** Temple Complex. One of the famous area in **Karnak** - Hypostyle hall with 134 massive columns
-with over three meters in diameter. Free time in **Luxor**, and then you return back to **Makadi Bay**.
-
-**Tour Includes:**
-
--Pick up service from your hotel in **Makadi Bay** by our REP
-
--All transportation by air-conditioned vehicle in **Makadi Bay**, **Cairo**
-and **Luxor**
-
--Admission fees to the **sightseeing** in **Luxor** and **Cairo** as
-per itinerary
-
--Lunch during the **trip** at a local restaurant in **Luxor**
-
--Professional Egyptologist English speaking tour guide
-
--Drop off service from your hotel in **Makadi Bay
-
-Tour Excludes:
-
-**- Optional tours
-
-- Personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Private
+**Day 2: Sights in Luxor, return **Private
 groups:****
 
 **We offer a private **trips** for Families and groups from 10 persons and
@@ -176,5 +112,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Budget Travel Ideas](..)

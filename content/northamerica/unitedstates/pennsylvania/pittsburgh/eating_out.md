@@ -11,5 +11,3 @@ If you are looking for a cozy, little Pittsburgh restaurant to take a date, chec
 
 **Contributors**
 July 06, 2009
-change
-by [annc](/member/annc)

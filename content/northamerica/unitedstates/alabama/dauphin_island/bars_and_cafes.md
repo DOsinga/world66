@@ -29,5 +29,3 @@ Dauphin Island is Alabama’s Family Beach ® with great fishing, great accommod
 
 **Contributors**
 June 01, 2008
-new
-by [baxwrtr](/member/baxwrtr) (1 point)

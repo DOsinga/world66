@@ -11,8 +11,6 @@ You simply cannot leave Italy without seeing one of the world's most recognizabl
 
 **Contributors**
 May 23, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -23,5 +21,3 @@ url: [www.pisa.turismo.toscana.it](http://www.pisa.turismo.toscana.it)
 address: Tourist Office: Galleria Gerace, 14 - Pisa
 
 email: aptpisa@pisa.turismo.toscana.it
-
-[back to Day Trips](..)

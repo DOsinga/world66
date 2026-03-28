@@ -54,9 +54,5 @@ communications skills in Spanish.
 
 **Contributors**
 February 16, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 February 17, 2010
-change
-by [ctanios](/member/ctanios)

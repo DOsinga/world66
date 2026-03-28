@@ -27,5 +27,3 @@ independence of our lands.
 
 **Contributors**
 April 16, 2006
-new
-by [azerbaijan08](/member/azerbaijan08)

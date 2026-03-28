@@ -15,6 +15,4 @@ The museum tells the story of the impact of the southwest Georgia movement on th
 
 **Thronateeska Heritage Center**
 
-Thronateeska Heritage Center, established in 1974, is a private, non-profit organization dedicated to the education of our community in the areas of cultural history and science. 
-
--->
+Thronateeska Heritage Center, established in 1974, is a private, non-profit organization dedicated to the education of our community in the areas of cultural history and science.

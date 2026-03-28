@@ -28,5 +28,3 @@ url: [www.aven-armand.com](http://www.aven-armand.com/)
 address: Hures La Parade - Aven Atmand - 48150 - France
 
 email: jblogs@relevanceweb.com
-
-[back to Day Trips](..)

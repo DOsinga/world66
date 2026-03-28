@@ -1,0 +1,4 @@
+---
+title: "Fremantle"
+type: location
+---

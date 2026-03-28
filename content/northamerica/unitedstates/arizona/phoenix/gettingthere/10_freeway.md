@@ -8,11 +8,5 @@ One of the easiest and most direct ways to get to phoenix from the west coast is
 
 **Contributors**
 April 14, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: By Road
-
-
-
-[back to Getting There](..)

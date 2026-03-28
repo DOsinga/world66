@@ -18,5 +18,3 @@ tel: 2717628
 address: cra.55 128b.30
 
 email: lucasdani@hotmail.com
-
-[back to Practical Information](..)

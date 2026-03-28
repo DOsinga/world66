@@ -8,18 +8,3 @@ Although German food sounds less inspiring than French Cuisine, Dusseldorf has q
 And if you happen to find **Flönz met Ölk** (black pudding with onion rings) or **Rievkooke** (grated potatoe fritters) on the menu, you are sure to be in one of Düsseldorf’s typical brewery restaurants. Here the waiters are called ‘Köbes’, sporting the typical long blue aprons and exercising a rather earthy type of cordiality. The menus of the metropolis on the Rhine are truly versatile, delicacies from the Near and Far East, Japanese chefs celebrate their art not only for their numerous fellow-countrymen living in Düsseldorf, Pizza and Paella, Tagliatelle and Tapas revive memories of Mediterranean holidays. 
 
 The Altstadt in particular, with its almost 260 restaurants, is ready to treat you to delicacies from all over the world. However, do follow the gourmets’ trails through the other parts of the city, with its trousers.
-
-## Subsections
-
-[Chinese](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/chinese)
-[French](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/french)
-[Indian](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/indian)
-[Italian](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/italian)
-
-[Japanese](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/japanese)
-[Lebanese](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/lebanese)
-[Local](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/local)
-
-[Lunch](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/lunch)
-[Mexican](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/mexican)
-[Thai](/europe/germany/northrhinewestphalia/dusseldorf/eatingout/thai)

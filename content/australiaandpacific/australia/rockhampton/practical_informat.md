@@ -12,5 +12,3 @@ Rockhampton is known as the Beef Capital of Australia and a gateway to adventure
 Rockhampton is located on the Tropic of Capricorn and is 40 kilometres drive inland from the Capricorn Coast and the Pacific Ocean.
 
 Come and explore the city coast and country. Visit the Tourist Information Centre in the Customs House on the riverbank. There is more to see and do than you ever imagined.
-
--->

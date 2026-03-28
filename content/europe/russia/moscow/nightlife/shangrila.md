@@ -17,5 +17,3 @@ type: Erotic clubs and bars
 ClosingTime: 24 hours a day
 
 address: Pushkinskaya pl., 2, Pushkinsky cinema
-
-[back to Nightlife and Entertainment](..)

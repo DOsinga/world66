@@ -1,0 +1,4 @@
+---
+title: "Tunja"
+type: location
+---

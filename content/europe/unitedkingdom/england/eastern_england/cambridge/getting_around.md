@@ -15,9 +15,6 @@ The most pleasant transport in the area is, of course, punting on the river. The
 
 The Duxford branch of the Imperial War Museum is located about 15 miles from Cambridge. A city bus leaving from the Cambridge railroad station can take you (45 minute ride - $4 one way) to the museum, which was a WWI RAF airfield and a WWII Battle of Britain fighter base/B17 base (think the movie Twelve O'Clock High).
 
-*Change history*
-Minor corrections by [Sarai](/member/sarai) on 25 September 04
-
 **all**
 
 **claus or claas**
@@ -43,5 +40,3 @@ Scudamore's is the largest punt hire company, based off Granta Place. The hire p
 **Cycles for Hire**
 
    Name Location Phone number [more..](/europe/unitedkingdom/england/eastern_england/cambridge/gettingaround/cyclesforhire1)
-
--->

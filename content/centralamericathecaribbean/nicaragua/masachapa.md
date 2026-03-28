@@ -1,0 +1,4 @@
+---
+title: "Masachapa"
+type: location
+---

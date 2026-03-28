@@ -17,5 +17,3 @@ type: Shopping centers and malls
 url: [www.okhot-ryad.ru](http://www.okhot-ryad.ru)
 
 address: Manegnaya square, 1
-
-[back to Shopping](..)

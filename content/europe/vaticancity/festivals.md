@@ -54,5 +54,3 @@ place in Saint Peter's Basilica. The Pope leads this mass.
 
 **Contributors**
 March 26, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

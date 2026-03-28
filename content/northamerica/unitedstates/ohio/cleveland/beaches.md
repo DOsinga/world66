@@ -7,5 +7,3 @@ There are few good beaches along Lake Erie. Its shoreline is more cliff-like tha
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (3 points)

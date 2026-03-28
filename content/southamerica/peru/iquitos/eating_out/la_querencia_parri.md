@@ -26,8 +26,6 @@ Dawn on the Amazon
 
 **Contributors**
 December 03, 2007
-new
-by [dawn on the amazon](/member/dawn_on_the_amazon) (1 point)
 
 type: South American
 
@@ -38,5 +36,3 @@ type: South American
 tel: 225785
 
 address: Napo # 138
-
-[back to Eating Out](..)

@@ -20,5 +20,3 @@ tel: 505-682-3338
 address: 90 James Canyon HWY Space B, Cloudcroft, New Mexico 88317
 
 email:
-
-[back to Shopping](..)

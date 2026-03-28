@@ -9,7 +9,5 @@ Located by the pier on the water front you can eat indoors or outdoors. Not too 
 
 **Contributors**
 January 16, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Mexican

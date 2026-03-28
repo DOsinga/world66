@@ -39,5 +39,3 @@ expect a 40-minute wait.
 
 **Contributors**
 March 26, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

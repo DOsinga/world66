@@ -40,11 +40,3 @@ In N.H. the land itself is beautiful. The terrain is widely diverse and varied, 
   White Mountains
 
   The White Mountains Region is by far the most mountainous area of the state. The Presidential Range looms over the towns and forests and it is home to Mt. Washington, the highest point east of the Mississippi. It is a must-experience for tourists, climbers, hikers and skiers. Also, there are many shops and quaint inns and B&Bs for those who aren't quite as adventurous.
-
-## Destinations
-
-- [Dartmouth-Lake Sunapee](/northamerica/unitedstates/newhampshire/dartmouthlakesunapee)
-- [Great North Woods](/northamerica/unitedstates/newhampshire/greatnorthwoods)
-- [Lakes](/northamerica/unitedstates/newhampshire/lakes)
-- [The Coast](/northamerica/unitedstates/newhampshire/thecoast)
-- [White Mountains](/northamerica/unitedstates/newhampshire/whitemountains)

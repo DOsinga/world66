@@ -14,13 +14,5 @@ Walkabout: For those Aussies who are missing home, Walkabout is the popular Aust
 
 **Contributors**
 June 25, 2007
-new
-by [mkimura](/member/mkimura) (4 points)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

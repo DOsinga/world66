@@ -15,9 +15,3 @@ All budgets are catered for with our wide range of accommodation. Apres-ski ente
 Our world famous snowfield resorts are Perisher Valley and Smiggin Holes, Thredbo, Charlotte Pass, Guthega, Mount Selwyn and Mount Blue Cow. All offer friendly hospitality, spectacular scenery and great skiing! **
 
 type: Skiing
-
-
-
-
-
-[back to Things to do](..)

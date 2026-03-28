@@ -7,5 +7,3 @@ Simply Kayaking is a local guided kayak eco-tour service in the [Palm Harbor](/n
 
 **Contributors**
 October 11, 2007
-new
-by [dink](/member/dink)

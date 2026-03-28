@@ -7,5 +7,3 @@ If you are traveling with your children, one of your Raleigh activities is to ta
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

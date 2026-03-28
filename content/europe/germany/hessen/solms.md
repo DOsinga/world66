@@ -1,0 +1,4 @@
+---
+title: "Solms"
+type: location
+---

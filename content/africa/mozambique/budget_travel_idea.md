@@ -66,5 +66,3 @@ Islands offers great sights and scenes to the tourists. ** ** From bird watching
 
 **Contributors**
 April 07, 2010
-change
-by [smitha](/member/smitha)

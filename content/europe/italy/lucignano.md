@@ -1,7 +1,9 @@
 ---
-title: "Lucignano Travel Guide"
+title: "Lucignano"
 type: location
 ---
+
+Travel Guide
 
 Lucignano,
 piccolo borgo della Toscana meridionale, rappresenta uno degli esempi
@@ -61,5 +63,3 @@ di ceramica all' oreficeria, dalla tradizionale lavorazione della pietra
 serena al travertino per giungere alla produzione di capi di abbigliamento
 di alta qualità, grazie alla capacità e all'esperienza di
 maestranze professionalmente preparate.
-
-*Part or or all of this text stems from the original article at: http://www.lucignano.net/lucignano.html*

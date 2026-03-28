@@ -1,0 +1,4 @@
+---
+title: "Jabbeke"
+type: location
+---

@@ -7,5 +7,3 @@ You may go to Vorokhta by train or by bus (or minibus). Buses are faster and mor
 
 **Contributors**
 July 07, 2006
-new
-by [svetico](/member/svetico) (1 point)

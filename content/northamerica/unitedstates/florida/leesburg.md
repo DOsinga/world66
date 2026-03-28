@@ -1,12 +1,8 @@
 ---
-title: "Leesburg Travel Guide"
+title: "Leesburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Leesburg is good city.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 06:03

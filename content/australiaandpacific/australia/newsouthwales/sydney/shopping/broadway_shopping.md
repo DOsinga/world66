@@ -11,7 +11,5 @@ This large 3 level shopping mall has pretty much everything you might want from 
 
 **Contributors**
 February 22, 2005
-new
-by [vilpponen](/member/vilpponen) (1 point)
 
 type: Shopping centers and malls

@@ -18,8 +18,6 @@ For your convinience, we also pack and post worldwide.
 
 **Contributors**
 August 05, 2006
-change
-by [melvin_nads](/member/melvin_nads)
 
 type: Speciality shops
 
@@ -34,5 +32,3 @@ url: [www.nadsfiji.com](http://www.nadsfiji.com)
 address: P.O Box 956 Nadi, Fiji
 
 email: nads@connect.com.fj
-
-[back to Shopping](..)

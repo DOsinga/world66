@@ -35,5 +35,3 @@ Nikolaev, and the southern Ukraine, have a mild continental climate. Winters are
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

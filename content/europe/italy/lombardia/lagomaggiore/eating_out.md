@@ -59,9 +59,5 @@ provides a soft-lit open-air dining experience when the weather is good.
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 13, 2010
-change
-by [kwalker](/member/kwalker)

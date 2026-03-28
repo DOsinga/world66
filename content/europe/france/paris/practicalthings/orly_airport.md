@@ -8,13 +8,5 @@ Orly Airport is located south of Paris and prior to the construction of Charles 
 
 **Contributors**
 February 07, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Airport
-
-
-
-
-
-[back to Practical Information](..)

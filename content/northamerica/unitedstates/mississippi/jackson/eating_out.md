@@ -21,5 +21,3 @@ Classy and elegant fine dining at a Jackson restaurant will lead you to Elixir a
 
 **Contributors**
 July 06, 2009
-change
-by [annc](/member/annc)

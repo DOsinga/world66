@@ -1,9 +1,9 @@
 ---
-title: "Nevada Travel Guide"
+title: "Nevada"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Nevada is a
 city in and the county seat of Story County, Iowa, United States. The
@@ -41,9 +41,3 @@ had a median income of $32,635 versus $24,680 for females. The per capita
 income for the city was $20,392. About 3.9% of families and 5.6% of the
 population were below the poverty line, including 4.4% of those under age 18
 and 3.2% of those age 65 or over.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Nevada,_IA*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 18:22

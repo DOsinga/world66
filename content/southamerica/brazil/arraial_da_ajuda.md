@@ -1,8 +1,6 @@
 ---
 title: "Arraial da Ajuda"
 type: location
-latitude: -16.489592
-longitude: -39.068752
 ---
 
 Arraial da Ajuda is located in the South of Bahia, a region with endless beaches, sweet coconut water, huge variety of food with African and Indian influences. The sun shines all year round and the people are very welcoming.
@@ -15,5 +13,3 @@ You can get to Porto Seguro from any city in Brazil, and then you would need to 
 
 **Contributors**
 November 23, 2005
-new
-by [tull](/member/tull)

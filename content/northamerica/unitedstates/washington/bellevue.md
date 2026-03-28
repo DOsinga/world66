@@ -3,8 +3,6 @@ title: "Bellevue"
 type: location
 ---
 
-Orginal article by [MinLee](/member/minlee) on 07 April 04
-
 We currently have no information about Bellevue.
 
 If you do know any general information about Bellevue, please [Edit this article].

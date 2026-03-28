@@ -21,5 +21,3 @@ address: Avenida Infante Dom Henrique, 85 – Aterro – Centro
 tel: 2102188
 
 url: [www.rio.rj.gov.br](http://www.rio.rj.gov.br/riotur/en/atracao/?CodAtr=1546)
-
-[back to Sights](..)

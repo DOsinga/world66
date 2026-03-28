@@ -29,5 +29,3 @@ address: 141 5th Avenue Brooklyn, NY 11217
 PriceOfMenu: $3-18
 
 email:
-
-[back to Eating Out](..)

@@ -10,8 +10,6 @@ Here are a few museums in Portland.
 
 **Contributors**
 March 31, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 ### [Oregon Museum of Science and Industry (OMSI)
 

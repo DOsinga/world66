@@ -57,7 +57,5 @@ www.aerlingus.com - 1 time per week (from 01.04.2006)
 
 **Contributors**
 January 16, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air

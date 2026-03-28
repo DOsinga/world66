@@ -1,0 +1,4 @@
+---
+title: "Kecskemet"
+type: location
+---

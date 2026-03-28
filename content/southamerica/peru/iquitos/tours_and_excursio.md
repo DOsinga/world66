@@ -32,5 +32,3 @@ address: Raymondi 378, Iquitos
 tel: (51-65) 234-128
 
 url: [www,pacayasamiria.com.pe](http://www,pacayasamiria.com.pe)
-
--->

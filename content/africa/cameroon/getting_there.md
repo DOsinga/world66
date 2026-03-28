@@ -3,32 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+"/>
 
-Cameroon's national airline is *Cameroon Airlines (UY)*. Other airlines serving Cameroon include *Air France* *Nigeria Airways* and *Air Afrique.* There are regular flights from Cameroon to Nigeria Côte d'Ivoire Benin and Togo.
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-Approximate flight time
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-From Paris to Douala is 6 hours.
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-International airports:
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-*Douala (DLA)* is 10km (6 miles) southeast of the city. Taxis to the city are available at a cost of approximately CFAfr1500. Facilities include a duty-free shop bar post office bank shops and buffet/restaurant.
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-*Nsimalen (NSI)* airport is situated 25km (15.5 miles) from the city. Taxis to the city are available at a cost of aproximately CFAfr3000 (journey time  20 minutes).
-
-Departure tax
-
-CFAfr10 000.
-
-Sea
-
-Irregular sailings from European ports to Douala take up to three weeks with stops in the Canary Islands and West African ports. There are also berths on some cargo boats for six to 12 passengers.
-
-Rail:
-
-There are plans to extend the rail network from Mbalmayo to Bangui in the Central African Republic.
-
-Road
-
-There are road connections to Chad Equatorial Guinea the Central African Republic Nigeria and Gabon. Travel on these routes is rough and should not be attempted in the rainy season. Four-wheel-drive vehicles are recommended. The Trans-Africa Highway from Kenya to Nigeria is under construction.
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

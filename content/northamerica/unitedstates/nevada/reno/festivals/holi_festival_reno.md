@@ -14,11 +14,3 @@ Holi was once a fertility festival of undetermined aboriginal origin, and still 
 
 **Contributors**
 March 23, 2006
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Festivals](..)

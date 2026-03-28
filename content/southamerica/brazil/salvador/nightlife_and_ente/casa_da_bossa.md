@@ -10,8 +10,6 @@ Casa da Bossa opened in 2006 and quickly became one of Salvador’s premier smal
 
 **Contributors**
 January 29, 2007
-new
-by [rani d.](/member/rani_d.) (2 points)
 
 type: Concerts
 
@@ -20,5 +18,3 @@ type: Concerts
 tel: 3334-8922
 
 address: Largo do Santana, Rio Vermelho, Salvador
-
-[back to Nightlife and Entertainment](..)

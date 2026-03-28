@@ -1,0 +1,4 @@
+---
+title: "Chinhoyi"
+type: location
+---

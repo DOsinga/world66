@@ -14,5 +14,3 @@ www.amsterdamalways.com
 author: Marcelo Bendahan
 
 isbn: 90-9017724-8
-
-[back to Books](..)

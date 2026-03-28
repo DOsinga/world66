@@ -5,8 +5,6 @@ address: "Isle of Skye, Scotland"
 email: "tours@goscotlandtours.com"
 phone: "(+44) (0) 750 466 1828"
 url: "www.goscotlandtours.com"
-latitude: 57.363018
-longitude: -6.302346
 ---
 
 Enjoy stunning natural beauty, unforgettable
@@ -25,8 +23,6 @@ Clan MacLeod** and the oldest inhabited castle in Britain.
 
 **Contributors**
 December 30, 2009
-new
-by [goscotlandtours](/member/goscotlandtours)
 
 
 
@@ -37,5 +33,3 @@ url: [www.goscotlandtours.com](http://www.goscotlandtours.com/timberbush-tours/s
 address: Isle of Skye, Scotland
 
 email: tours@goscotlandtours.com
-
-[back to Day Trips](..)

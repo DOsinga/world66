@@ -10,13 +10,5 @@ contemplate the cost of war in terms of lives lost.
 
 **Contributors**
 March 29, 2006
-new
-by [out of the grey](/member/out_of_the_grey) (1 point)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

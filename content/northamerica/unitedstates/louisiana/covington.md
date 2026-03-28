@@ -1,9 +1,9 @@
 ---
-title: "Covington Travel Guide"
+title: "Covington"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The city of Covington is the parish seat of St. Tammany Parish, in the
 US state of Louisiana. It is located at a fork of the Bogue Falaya and
@@ -18,11 +18,3 @@ Pontchartrain Causeway. Population continues to grow, bringing
 Covington ever more into the Greater New Orleans Metropolitan area. In
 2003, Covington elected its first female and first Republican, Candace
 Watkins, as Mayor.
-
-#### Contributors
-
-January 10, 2007 new by [mehul](/member/mehul) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 04:28

@@ -5,8 +5,6 @@ address: "1540 Stanford Place Charlotte NC 28207"
 email: "dcates2@carolina.rr.com"
 phone: "704-376-3867"
 type: "Speciality shops"
-latitude: 35.190714
-longitude: -80.83624
 ---
 
 The city center of Obermmergau is filled with all kinds of

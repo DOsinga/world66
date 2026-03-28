@@ -22,5 +22,3 @@ For listings on what's going on in the D.C. area right now, check out these news
 
 [Concerts](/northamerica/unitedstates/washingtondc/nightlife?subsection=Concerts)
 [Theatres](/northamerica/unitedstates/washingtondc/nightlife?subsection=Theatres)
-
--->

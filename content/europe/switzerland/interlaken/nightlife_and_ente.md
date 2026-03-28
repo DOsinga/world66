@@ -23,5 +23,3 @@ The Casino Kursall presents the Swiss folklore show which combines dinner and a 
 
 **Contributors**
 March 24, 2010
-new
-by [piyushjain](/member/piyushjain_)

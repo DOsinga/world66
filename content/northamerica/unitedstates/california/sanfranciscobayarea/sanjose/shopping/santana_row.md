@@ -36,8 +36,6 @@ ambiance.
 
 **Contributors**
 November 27, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Speciality shops
 
@@ -52,5 +50,3 @@ url: [www.santanarow.com](http://www.santanarow.com/)
 address: 68 Santana Row
 
 email: srconcierge@federalrealty.com
-
-[back to Shopping](..)

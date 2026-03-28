@@ -5,10 +5,7 @@ type: section
 
 Even though Syracuse isn't on the ocean, there are still beaches! Especially in suburban areas of Syracuse.
 
-*Change history*
-Orginal article by [Brokenme](/member/brokenme) on 06 May 04
-
-Write up by [Brokenme](/member/brokenme) on 06 May 04
+Write up on 06 May 04
 
 **all**
 

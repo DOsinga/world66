@@ -30,5 +30,3 @@ accessibility: 2nd floor of dharshan towers
 address: WOODVALE GROOVE,WESTLANDS
 
 email: crooked_q@yahoo.com
-
-[back to Nightlife and Entertainment](..)

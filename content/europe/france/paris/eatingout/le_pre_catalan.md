@@ -25,5 +25,3 @@ url: [leprecatelan.abemadi.com](http://leprecatelan.abemadi.com)
 address: Route de Suresnes – Bois de Boulogne - 75016 PARIS
 
 PriceOfMenu: Euro 100
-
-[back to Eating Out](..)

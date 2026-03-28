@@ -29,5 +29,3 @@ address: Schell 627
 PriceOfMenu: 20 soles
 
 email: irishpublima@yahoo.es
-
-[back to Eating Out](..)

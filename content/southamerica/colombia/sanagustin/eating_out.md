@@ -10,5 +10,3 @@ type: section
 Cheap vegetarian food.
 
 address: Calle 5 no 15-11
-
--->

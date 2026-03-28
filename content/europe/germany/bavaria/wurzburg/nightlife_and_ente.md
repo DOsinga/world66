@@ -25,5 +25,3 @@ For those looking for the alternative scene check out the AKW, or autonomies kul
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

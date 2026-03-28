@@ -1,0 +1,4 @@
+---
+title: "Asti"
+type: location
+---

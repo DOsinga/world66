@@ -27,8 +27,6 @@ email: damiani@damiani.it
 
 aJrFcW jsmomqscjasx
 
-*Part or or all of this text stems from the original article at: hblxJIeuEUzar*
-
 
 
 tel: sEIkHCWcbz

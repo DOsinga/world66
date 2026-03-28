@@ -1,0 +1,4 @@
+---
+title: "Banfora"
+type: location
+---

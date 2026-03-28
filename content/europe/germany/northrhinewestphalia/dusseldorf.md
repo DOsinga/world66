@@ -13,6 +13,6 @@ The city parks provide a pleasant haven when your feet get weary. End your wande
 
 **Parts of the information is courtesy of Duesseldorf.de**
 
-## Destinations
+## Destinations in Dusseldorf
 
-- [Insel Hombroich](/europe/germany/northrhinewestphalia/dusseldorf/inselhombroich)
+[Insel Hombroich](/europe/germany/northrhinewestphalia/dusseldorf/inselhombroich)

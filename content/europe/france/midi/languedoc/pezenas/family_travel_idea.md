@@ -28,5 +28,3 @@ Located in a pine tree forest, La Foret d'acrobate offers 4 acrobatic paths acce
 
 **Contributors**
 February 16, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)

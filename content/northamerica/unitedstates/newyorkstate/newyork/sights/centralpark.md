@@ -38,9 +38,3 @@ After both hotel of The Pierre and The Sherry-Netherland follow a lot of flatlet
 The US-American composer Charle Ives wrote in 1906 a tone poem under the title Central to park in the Dark. Moreover, the park finds mention in the piece of "New York" of the US-American singer kind of Garfunkel: New York, to that tall skyline I come, flying in from London to your door. New York, looking down on Central park where they say you should travelling after dark. As well as in "Bernadette" (1997) of Paul Simon: When the leaves are dark I've got a hiding place in Central park And the sky is a coat of diamonds in her world hit "Miss You" (1978) have proved the Rolling Stones to the Central park reverence: [2] I've been walking in Central park Singing after dark People think I'm crazy I've been stumbling on micron feet Shuffling through the street Asking people, what's the more weakly with you boy?
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

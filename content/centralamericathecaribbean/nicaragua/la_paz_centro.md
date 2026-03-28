@@ -1,7 +1,9 @@
 ---
-title: "La Paz Centro Travel Guide"
+title: "La Paz Centro"
 type: location
 ---
+
+Travel Guide
 
 La Paz Centro is Municipal of Leon. It is located in
 a hot dry northwest part of Nicaragua. This central region is home to
@@ -10,5 +12,3 @@ called comarcas. La Paz Centro straddles the continental divide. It is also know
 
 **Contributors**
 January 09, 2006
-change
-by [giorgio](/member/giorgio)

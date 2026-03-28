@@ -29,5 +29,3 @@ tel: +255 777 991576
 url: [www.tourtanzania-safaris.com](http://www.tourtanzania-safaris.com)
 
 email: info@tourtanzania-safaris.com
-
-[back to Tours and Excursions](..)

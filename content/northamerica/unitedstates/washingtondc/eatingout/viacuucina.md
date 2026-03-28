@@ -13,5 +13,3 @@ type: Italian
 address: 435 11th St NW
 
 tel: (202)783-1001
-
-[back to Eating Out](..)

@@ -1,0 +1,4 @@
+---
+title: "Lafayette"
+type: location
+---

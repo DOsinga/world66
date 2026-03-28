@@ -1,8 +1,6 @@
 ---
 title: "Durres"
 type: location
-latitude: 41.313255
-longitude: 19.446235
 ---
 
 Durres is one of the most important harbour towns of Albania, and quite an important industrial center as well. 

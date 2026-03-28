@@ -14,5 +14,3 @@ type: general
 
 
 email: cat_is_cat@hotmail.com
-
-[back to Beaches](..)

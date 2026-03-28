@@ -1,0 +1,4 @@
+---
+title: "Wattla"
+type: location
+---

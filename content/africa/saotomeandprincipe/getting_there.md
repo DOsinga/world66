@@ -3,22 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+"/>
 
-The national airline is *Air S&atilde;o Tom&eacute; e Pr&iacute;ncipe (GJ)*. It operates daily flights (except Wednesday) between S&atilde;o Tom&eacute; and Libreville (Gabon) where they connect with ingoing or outgoing long-haul flights to or from Europe. There are also scheduled flights from Portugal and Angola.
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-Approximate flight time
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-From S&atilde;o Tom&eacute; to *London *is 10 hours.
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-International airport
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-*S&atilde;o Tom&eacute; (TMS)* 5.5km (3.5 miles) from the town. Transportation to the city centre is by airport bus minibus or taxi. Airport facilities are fairly limited. Left luggage (0700-1900) first aid and tourist information available.
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-Departure tax:
-
-US$20 per adult payable in cash on departure for all international flights. US$10 must be paid for children except those under two years who are exempt.
-
-Sea
-
-The main port is S&atilde;o Tom&eacute; but this is not deep-water and few international cruise lines or other passenger ships call there.
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

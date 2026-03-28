@@ -28,20 +28,3 @@ Speaking of 5-star, the cultured jetset crowd shouldn't miss the Greenbrier, a 5
 Historic battle sites in the eastern part of the state, such as Droop Mountain, afford gorgeous views in the fall when the trees turn colors. Fireflies abound in the summer. Pearl Buck's birthplace is available for viewing in Hillsboro. The Monongahela & George Washington National Forests in the Allegheny Mountains are beautiful, especially close to the Greenbrier River. 
 
 To get to West Virginia, you can come by car, train, or airplane. Driving is the best option to see the sights; West Virginia has invested heavily in roads and bridges and now boasts one of the best highway networks in the country (and the roads are rarely congested, making for great driving. 70 mph speed limits in some areas.) Only the usual precautions are needed; crime is uncommon in West Virginia.
-
-## Top Destinations in West Virginia
-
-[Clarksburg](/northamerica/unitedstates/westvirginia/clarksburg)
-[Reedsville](/northamerica/unitedstates/westvirginia/reedsville)
-[Fayetteville](/northamerica/unitedstates/westvirginia/fayetteville)
-[Huntington](/northamerica/unitedstates/westvirginia/huntington)
-[Shenandoah](/northamerica/unitedstates/westvirginia/shenandoah)
-[Parkersburg](/northamerica/unitedstates/westvirginia/parkersburg)
-[Ski Resorts](/northamerica/unitedstates/westvirginia/skiresorts)
-[New River Gorge & Whitewater Rafting](/northamerica/unitedstates/westvirginia/newrivergorgewhitewaterrafting)
-[Wheeling](/northamerica/unitedstates/westvirginia/wheeling)
-[Yorktown](/northamerica/unitedstates/westvirginia/yorktown)
-[East End](/northamerica/unitedstates/westvirginia/charleston/eastend)
-[Charleston](/northamerica/unitedstates/westvirginia/charleston)
-
-[**Show all destinations in West Virginia.**](/northamerica/unitedstates/westvirginia/lib/alldestinations)

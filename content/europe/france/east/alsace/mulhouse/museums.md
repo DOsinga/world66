@@ -23,5 +23,3 @@ URL: http://www.citedutrain.com/fr/train/
 
 **Contributors**
 July 23, 2007
-new
-by [michel_galibert](/member/michel_galibert) (2 points)

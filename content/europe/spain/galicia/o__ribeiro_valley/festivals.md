@@ -12,7 +12,4 @@ becoming one of the most attractive cultural and festival meetings in
 the province. Also celebrated in this village is the Festa do Ribiero
 (Ribeiro wine festival), from April 28th to May 1st.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections on 11 March 05

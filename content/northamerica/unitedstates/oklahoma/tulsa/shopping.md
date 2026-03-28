@@ -11,8 +11,6 @@ One of the coolest things to do in the Tulsa area is to go to the flea markets. 
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius)
 
 ### [Tulsa Flea Market](/northamerica/unitedstates/oklahoma/tulsa/shopping/tulsa_flea_market)
 

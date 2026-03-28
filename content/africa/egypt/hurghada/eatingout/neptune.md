@@ -15,5 +15,3 @@ type: Seafood
 address: Boulos Hanna St.
 
 tel: 20 65 349640
-
-[back to Eating Out](..)

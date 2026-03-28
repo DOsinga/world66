@@ -12,8 +12,3 @@ Here there are a few choices:
 In both cases, its wise to pack your bag/backpack in plastic as it will most likely travel on deck and will be drenching wet by the time you reach Gorgona.
 
 Finally, diving centers in [Cali](/southamerica/colombia/cali), [Medellin](/southamerica/colombia/medellin) and Bogotá frequently organize diving trips to the island, and this is also an option if you’re short on time and/or would rather have an experienced agent take care of the logistics. However, the island is worth the long trip every bit. And the trip itself can be very fun, off the beaten track. Buena suerte!
-
-*Change history*
-Orginal article by [giorgio](/member/giorgio) on 06 January 05
-
--->

@@ -23,5 +23,3 @@ Though much of this area was destroyed during the Stalin’s reign, Dnepropetrov
 
 **Contributors**
 March 30, 2010
-new
-by [piyushjain](/member/piyushjain_)

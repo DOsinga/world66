@@ -18,5 +18,3 @@ The Nunavut Handbook is an essential travelers' guide to Canada's central and ea
 [](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
 
 subject: Artic Travel
-
--->

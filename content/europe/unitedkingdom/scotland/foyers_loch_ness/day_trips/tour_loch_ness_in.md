@@ -5,8 +5,6 @@ address: "Loch Ness, Scotland"
 email: "tours@goscotlandtours.com"
 phone: "(+44) (0) 750 466 1828"
 url: "www.goscotlandtours.com"
-latitude: 57.274122
-longitude: -4.484968
 ---
 
 Savour the delights of the **Scottish Highlands** with your **tour guide**;
@@ -22,8 +20,6 @@ whisky tasting at **Tomatin Distillery**.
 
 **Contributors**
 December 30, 2009
-new
-by [goscotlandtours](/member/goscotlandtours)
 
 
 
@@ -34,5 +30,3 @@ url: [www.goscotlandtours.com](http://www.goscotlandtours.com/timberbush-tours/s
 address: Loch Ness, Scotland
 
 email: tours@goscotlandtours.com
-
-[back to Day Trips](..)

@@ -5,8 +5,6 @@ accessibility: "There is full disabled access to the museum."
 address: "Royal Arsenal, Woolwich, London, SE18 6ST"
 phone: "020 8855 7755"
 url: "www.firepower.org.uk"
-latitude: 51.495037
-longitude: 0.070879
 ---
 
 Here you can see 600 years of artillery development.
@@ -44,8 +42,6 @@ Family ticket for 4 (2 adults
 
 **Contributors**
 July 19, 2006
-change
-by [giorgio](/member/giorgio) (1 point)
 
 
 
@@ -57,19 +53,10 @@ url: [www.firepower.org.uk](http://www.firepower.org.uk)
 
 address: Royal Arsenal, Woolwich, London, SE18 6ST
 
-[back to Museums](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

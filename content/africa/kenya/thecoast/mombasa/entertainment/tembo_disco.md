@@ -34,5 +34,3 @@ accessibility: over 18
 address: Mombasa-Malindi Road opp. Bamburi Nature Trail
 
 email: tembomsa@africaonline.co.ke
-
-[back to Nightlife and Entertainment](..)

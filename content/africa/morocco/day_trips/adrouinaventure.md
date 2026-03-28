@@ -5,8 +5,6 @@ address: "marrakech"
 email: "adrouinaventure@yahoo.com"
 phone: "00 212 671 185 787"
 url: "www.adrouinaventure.c.la"
-latitude: 31.625826
-longitude: -7.989161
 ---
 
 Morocco is very close to Europe, but despite its proximity has many differences, as Islamic country it is. So, say the fastest way for a European to enter a new world of Africa.
@@ -26,5 +24,3 @@ url: [www.adrouinaventure.c.la](http://www.adrouinaventure.c.la)
 address: marrakech
 
 email: adrouinaventure@yahoo.com
-
-[back to Day Trips](..)

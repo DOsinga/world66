@@ -12,8 +12,6 @@ Mombasa Motorsport Arena is the best family place at the coast. Beside racing th
 
 **Contributors**
 March 04, 2010
-new
-by [alexhurter](/member/alexhurter)
 
 type: Other
 
@@ -22,5 +20,3 @@ type: Other
 
 
 url: [www.mombasa-gokart.com](http://www.mombasa-gokart.com)
-
-[back to Things to do](..)

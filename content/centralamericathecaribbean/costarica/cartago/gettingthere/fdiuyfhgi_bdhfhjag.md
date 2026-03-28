@@ -7,8 +7,6 @@ phone: "d"
 type: "By Air"
 url: "d"
 zipcode: "d"
-latitude: 24.819687
-longitude: 84.634616
 ---
 
 type: By Air
@@ -24,5 +22,3 @@ address: rfj
 url: [d](http://d)
 
 tel: d
-
-[back to Getting There](..)

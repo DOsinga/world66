@@ -27,5 +27,3 @@ Beria Rio Football Stadium
 
 **Contributors**
 January 07, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

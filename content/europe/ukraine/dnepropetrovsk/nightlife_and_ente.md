@@ -27,5 +27,3 @@ You can also enjoy your evening at the casino playing the slots or other table g
 
 **Contributors**
 March 24, 2010
-new
-by [piyushjain](/member/piyushjain_)

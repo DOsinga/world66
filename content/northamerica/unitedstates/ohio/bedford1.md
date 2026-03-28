@@ -1,0 +1,4 @@
+---
+title: "Bedford"
+type: location
+---

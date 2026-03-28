@@ -7,5 +7,3 @@ For good Italian food, try Pesto's Italian Restaurant in downtown Louisville. It
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc) (2 points)

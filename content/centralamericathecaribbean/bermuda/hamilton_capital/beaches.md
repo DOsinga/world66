@@ -19,5 +19,3 @@ With vibrant pink sand, as on the other beaches, Horseshoe Bay is an exceptional
 
 **Contributors**
 February 10, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

@@ -23,5 +23,3 @@ Vila do Conde is another beautiful beach near Porto. The beach is located about 
 
 **Contributors**
 April 20, 2010
-new
-by [imran_m](/member/imran_m)

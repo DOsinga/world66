@@ -1,9 +1,9 @@
 ---
-title: "Puerto Aventuras - South of Playa del Carmen Travel Guide"
+title: "Puerto Aventuras - South of Playa del Carmen"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Puerto Aventuras is centrally located in the Mayan Riviera, Mexico's Caribbean coast south of Cancun. The region's highlights are easily accessible by rental car, tour or bus. Day trips are available to the Mayan ruins at Chichen Itza and Tulum. You can snorkel in tropical fish filled lagoons at the nearby Xcaret and Xel-Ha eco parks, or take a ferry directly from Puerto Aventuras to Cozumel
 
@@ -14,9 +14,3 @@ The Puerto Aventuras resort has all basic services on location. There is a selec
 Accomodations: The Omni hotel, ******[Puerto Aventuras villa and condo rentals](/northamerica/mexico/rivieramaya/accommodation)******, Hotel Catalonia,
 
 If you need to stay in touch with the rest of the world, Puerto Aventuras has internet, fax and telephone services. There is a doctor on call, 24 hour security patrol, and guarded gated entrance for your peace of mind.
-
-*Part or or all of this text stems from the original article at: http://www.PuertoAventurasRentals.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 00:00

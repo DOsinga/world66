@@ -21,5 +21,3 @@ COMPREHENSIVE LANGUAGE CHAPTER – includes Cyrillic script
 author: Simon Richmond , John Noble , Steve Kokker , Regis St. Louis , Robert Reid , Mara Vorhees , Mark Elliott , Patrick Horton
 
 isbn: 1741042917
-
-[back to Books](..)

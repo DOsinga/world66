@@ -120,5 +120,3 @@ tel: 01761 437722
 address: 40, Gay St, Bath Avon BA1 2NT
 
 tel: 01225 443000
-
--->

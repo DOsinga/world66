@@ -7,9 +7,7 @@ type: poi
 
 **Bredance -Sounds Of The City**
 
- **De Bredase partyorganisatie Bredance is terug !** ****  Na een afwezigheid van 2 jaar ,is de Bredase partyorganisatie Bredance weer helemaal Back To The Front. De bekende formule word weer opgepakt. Kansen voor regionaal talent in een mix met gevestig [more..](/europe/netherlands/breda/nightlife/dance/bredance_sounds_o)
-
-bookingurl: [www.bredance.nl](http://www.bredance.nl)
+ **De Bredase partyorganisatie Bredance is terug !** ****  Na een afwezigheid van 2 jaar ,is de Bredase partyorganisatie Bredance weer helemaal bookingurl: [www.bredance.nl](http://www.bredance.nl)
 
 fax: 00
 

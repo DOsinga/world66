@@ -1,9 +1,9 @@
 ---
-title: "Mithila Hotel - San Francisco, CA Travel Guide"
+title: "Mithila Hotel - San Francisco, CA"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Suggest a link from World66**
 
@@ -39,9 +39,3 @@ Address : 972 Sutter Street, San Francisco, CA 94109
 Phone: 415-441-9297 Fax: 415-441-2379
 
 Email: mithilahotel@aol.com
-
-*Part or or all of this text stems from the original article at: Mithila Hotel*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 15:27

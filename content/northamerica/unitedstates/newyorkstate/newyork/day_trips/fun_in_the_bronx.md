@@ -13,7 +13,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 For a day trip that is not too far from Manhattan,
 take a short train ride up to the Bronx and fun New
@@ -28,10 +28,3 @@ summer days). To finish your day trip,
 grab dinner on Arthur Avenue,
 the real Little Italy of New York City. The
 Fordham Metro North stop is near this Italian neighborhood and will bring you
-back to Manhattan.
-
-
-
-url: [www.mta.info; www.nybg.org; www.bronxzoo.com; www.arthuravenue.com](http://www.mta.info; www.nybg.org; www.bronxzoo.com; www.arthuravenue.com)
-
-[back to Day Trips](..)

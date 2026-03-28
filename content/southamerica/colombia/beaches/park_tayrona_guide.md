@@ -11,5 +11,3 @@ A guide to the idyllic beaches of Park Tayrona, and how to discover the empty on
 
 
 url: [www.bigtravelweb.com](http://www.bigtravelweb.com/colombia_tayrona.htm)
-
-[back to Beaches](..)

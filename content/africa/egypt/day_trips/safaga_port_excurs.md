@@ -5,8 +5,6 @@ address: "Red Sea Hurghada"
 email: "marketing3@albaraagroup.com"
 phone: "01062984442"
 url: "www.albaraagroup.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Two Days Trip to Luxor Valley of Kings from Safaga port***
@@ -38,58 +36,6 @@ into the desert rock, richly decorated and filled with treasures for the
 afterlife of the pharaohs, you will visit 3 tombs at **Valley of Kings**. Continue **Luxor tour** by visiting the **Hatshepsut temple** at El **Deir El Bahari**, this impressive temple dedicated to the **Queen Hatshepsut **the
 only female pharaoh rises out of the desert plain in a series of
 terraces and merges with the sheer limestone cliffs that surround it,
-free time during **Luxor tour** then return back to **Safaga port** with direct transfer to your ship in **Safaga port. ( End of Luxor tour in two days from Safaga port )
-
-**
-
-**Tour Includes : - **
-
-- Pick up and drop off services from your Cruise in Safaga Port
-
-- Admission fees to sightseeing in Luxor tour as per itinerary
-
-- Lunch during Luxor tour in local restaurant in Luxor
-
-- English speaking tour guide in Luxor
-
-- All transfer by air-conditioned vehicles in Safaga port and Luxor
-
-- 5 stars hotel accommodation in Luxor for 1 night with breakfast
-
-- Personal travel REP assistance during the **tour**
-
-- All hotel charges and taxes in **Luxor
-
-**
-
-**Tour Excludes : - **
-
-- Any item is not mentioned in Luxor tour
-* **
-**For more information and prices please visit
-***http://www.albaraagroup.com/Egypt/Shore-Excursions/Safaga-port/two-days-Luxor-Valley-of-kings-Karnak-temple/
-*** For More Excursions
-http://www.albaraagroup.com/Egypt/Shore-Excursions/Safaga-port/
-
-For hot deals and best offers please visit
-http://www.albaraagroup.com/
-**
-Or contact us
-Magdy Abdel ghany
-Call : -
-002 01062922290
-Email : -
-Info@albaraagroup.com
-*
-
-
-
-tel: 01062984442
-
-url: [www.albaraagroup.com](http://www.albaraagroup.com)
-
-address: Red Sea Hurghada
+free time during **Luxor tour** then return address: Red Sea Hurghada
 
 email: marketing3@albaraagroup.com
-
-[back to Day Trips](..)

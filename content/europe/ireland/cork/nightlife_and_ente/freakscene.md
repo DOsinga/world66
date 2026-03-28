@@ -1,8 +1,6 @@
 ---
 title: "Fy"
 type: poi
-latitude: 51.693445
-longitude: -8.451083
 ---
 
 Freakscene is Cork's longest running alternative club night, currently enjoying huge success in it's 4th home at **Club One** (near the GPO) on Wednesdays. 
@@ -24,5 +22,3 @@ ClosingTime: 2:00am
 closingtime: 2:00am
 
 zipcode: www.freakscene.com
-
--->

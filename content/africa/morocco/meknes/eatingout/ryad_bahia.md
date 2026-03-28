@@ -24,5 +24,3 @@ tel: 061815237 or 055554541
 priceofmenu: 110dh-170dh
 
 zipcode: 50000
-
--->

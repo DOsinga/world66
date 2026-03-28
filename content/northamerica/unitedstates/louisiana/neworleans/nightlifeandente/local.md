@@ -1,6 +1,6 @@
 ---
 title: "Razoo Club & Patio"
-type: location
+type: poi
 address: "Bourbon Street"
 type: "Clubs and dancing"
 ---
@@ -25,5 +25,3 @@ type: Clubs and dancing
 
 
 address: Bourbon Street
-
-[back to Nightlife and Entertainment](..)

@@ -17,9 +17,3 @@ The next crossroad of the Broadways with an avenue is in the 59th street with th
 There is beside the Broadway in Manhattan still a street with the name Broadway in four other parts of town of New York: in the Bronx (the continuation of the old path, or the Broadways of Manhattan), in queens, in Brooklyn and in Staten Iceland. Moreover, there are the short streets independent of the real Broadway on Manhattan which bear the name like East Broadway, west Broadway and Old Broadway.
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

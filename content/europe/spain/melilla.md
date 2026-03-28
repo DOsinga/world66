@@ -1,8 +1,8 @@
 ---
 title: "Melilla"
 type: location
-latitude: 35.29187
-longitude: -2.940903
 ---
 
-This Spanish enclave lies on the northern coast of Morocco. Although today it’s a backwater Melilla (pronounced may-LEE-ya) was founded as a Phoenician trading post and has been in Spanish hands since the late 15th century. Visit the older section called Medina Sidonia and the municipal museum. Ferries arrive from both Malaga and Almeria. 360 mi/580 km south of Madrid.
+Melilla is one of the two Spanish enclaves that lies on the coast of [Morocco](/africa/morocco). 
+
+It has been in Spanish hands since the late 15th century. There is not a lot to see but is is a convenient entry point into Morocco, there are ferries to [Malaga](/europe/spain/andalucia/malaga) and [Merida](/northamerica/mexico/merida). Among the major sights are the Medina Sidonia and the municipal museum.

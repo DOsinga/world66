@@ -14,5 +14,3 @@ night.
 
 **Contributors**
 March 17, 2005
-change
-by [giorgio](/member/giorgio) (1 point)

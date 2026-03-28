@@ -8,5 +8,3 @@ Outside the center, but the exquisite dishes are worth the detour. **Veronique 
 address: Laan van Roos en Doorn 51a
 
 tel: 070-3455866
-
--->

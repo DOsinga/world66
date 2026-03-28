@@ -9,13 +9,9 @@ At every quarter hour, two "quarter boys" hit the clock bells on the east facade
 
 **Contributors**
 June 08, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Climbing
 
 
 
 address: Junction of St. Aldates/Cornmarket Street and High Street/Queen Street, Oxford
-
-[back to Things to do](..)

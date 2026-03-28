@@ -1,14 +1,8 @@
 ---
-title: "regina Travel Guide"
+title: "regina"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **regina**
-
-*Part or or all of this text stems from the original article at: regina*
-
-Page last generated on Wed 17:51
-
--->

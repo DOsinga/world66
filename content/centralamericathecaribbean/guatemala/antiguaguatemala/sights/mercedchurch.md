@@ -9,9 +9,3 @@ The Mercedarian order was established in Guatemala in 1538, and the order had bu
 Today Mercedarian church is popular a among tourists and locals alike. It sits at the end of Fifth Avenue Norte, the main shopping street in Antigua. The masses seem to be well attended. The small park on the south side of the of the church many locals enjoy the afternoon sun from this park.
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

@@ -1,0 +1,4 @@
+---
+title: "Pordenone"
+type: location
+---

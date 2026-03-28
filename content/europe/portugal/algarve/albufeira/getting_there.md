@@ -17,9 +17,5 @@ For travelers coming from North America, their first port of call will likely be
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 January 10, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

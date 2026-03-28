@@ -16,5 +16,3 @@ type: Churches
 
 
 address: Piazza di Sant'Ignazio (near Pantheon)
-
-[back to Sights](..)

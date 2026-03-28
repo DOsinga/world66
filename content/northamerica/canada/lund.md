@@ -1,9 +1,9 @@
 ---
-title: "Lund Travel Guide"
+title: "Lund"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located at Mile 0 of Highway 101 on Western Canada's Sunshine Coast north of Vancouver, BC, the tiny fishing village of Lund is a popular destination for boaters, kayakers, hikers, bird watchers, scuba divers and sport fishers.
 
@@ -16,9 +16,3 @@ Lund is the gateway to world famous Desolation Sound, and many boats dock for th
 Oysters, clams and prawns are plentiful in the area, and salmon, cod, and halibut can still be caught in season.
 
 Lund is north of Powell River, BC. Contact Tourism Powell River for more information at tourism@discoverpowellriver.com.
-
-*Part or or all of this text stems from the original article at: original*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 22:14

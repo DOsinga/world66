@@ -11,11 +11,3 @@ Vlad Tepes.******
 
 **Contributors**
 August 22, 2006
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Day Trips](..)

@@ -10,8 +10,6 @@ Eating Out
 
 **Contributors**
 August 11, 2005
-new
-by [j wojtynski](/member/j_wojtynski)
 
 ### [Druskininkai Hotel restaurant](/europe/lithuania/druskininkai/eating_out/druskininkai_hotel)
 

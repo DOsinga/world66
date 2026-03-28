@@ -12,8 +12,6 @@ Lido is home to the only golf course in Venice - The Venice Golf Club (www.circo
 
 **Contributors**
 May 25, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Golf
 
@@ -26,5 +24,3 @@ url: [www.circologolfvenezia.it](http://www.circologolfvenezia.it)
 address: Indirizzo: Strada Vecchia, 1, 30126 - Alberoni, Lido di Venezia (VE)
 
 email: info@circologolfvenezia.it
-
-[back to Things to do](..)

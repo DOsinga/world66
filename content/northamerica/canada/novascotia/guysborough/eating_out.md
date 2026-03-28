@@ -7,14 +7,10 @@ phone: "902-533-2762"
 price: "4.00-12.00"
 type: "Cheap"
 url: "www.daysgoneby.ca"
-latitude: 45.393937
-longitude: -61.500412
 ---
 
 **Contributors**
 July 24, 2007
-change
-by [chedabucto](/member/chedabucto)
 
 ### [Days Gone By Bakery & Restaurant](/northamerica/canada/novascotia/guysborough/eating_out/days_gone_by_baker)
 

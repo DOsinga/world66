@@ -10,8 +10,6 @@ Starting in April 2006 the British company Megabus began providing low fare inte
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (1 point)
 
 type: By Road
 
@@ -22,5 +20,3 @@ type: By Road
 tel: 877-GO2-MEGA
 
 url: [www.megabus.com](http://www.megabus.com/us/)
-
-[back to Getting There](..)

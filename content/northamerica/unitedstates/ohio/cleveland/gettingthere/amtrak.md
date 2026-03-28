@@ -10,7 +10,3 @@ next to the station, located on E. 9th north of the city center. It can
 be a little tricky to find even with the signs.
 
 type: By Rail
-
-
-
-[back to Getting There](..)

@@ -51,9 +51,5 @@ heels. Ask about special orders for special-width feet.
 
 **Contributors**
 January 15, 2010
-new
-by [amymc](/member/amymc)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

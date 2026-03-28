@@ -35,13 +35,7 @@ Day Seven - A Night Out
 
 **Contributors**
 February 08, 2010
-new
-by [christina tilicki](/member/christina_tilicki)
 
 February 10, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

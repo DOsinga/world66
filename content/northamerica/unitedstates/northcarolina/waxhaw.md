@@ -1,0 +1,4 @@
+---
+title: "Waxhaw"
+type: location
+---

@@ -51,9 +51,5 @@ budget-priced lodging.
 
 **Contributors**
 February 02, 2010
-new
-by [kat99](/member/kat99)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

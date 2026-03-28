@@ -24,7 +24,3 @@ Each ticket lasts 45 minutes but, if you exit the underground station and then y
 Instead of the underground, you can get a bus or a tramway. The ticket is the same you use for the underground and you can reuse it on other buses, tramways or underground lines if the time of 45 minutes has not expired yet. The first time you use this ticket, you must obliterate it. The tickets are not sold on buses and tramways.address: Piazza Duomo 14 - Palazzo Reale, I - 20122 Milano
 
 openinghours: every day from 9.30 - 12.30 and from 15.00 - 18.00
-
-[back to Sights](..)
-
--->

@@ -13,8 +13,6 @@ Phone: 702 258-1554
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: American
 
@@ -23,5 +21,3 @@ type: American
 tel: 702 258-1554
 
 address: 3818 Meadows Lane
-
-[back to Eating Out](..)

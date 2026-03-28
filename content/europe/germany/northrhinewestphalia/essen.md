@@ -1,0 +1,4 @@
+---
+title: "Essen"
+type: location
+---

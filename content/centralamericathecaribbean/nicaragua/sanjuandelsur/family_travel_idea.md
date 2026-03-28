@@ -21,5 +21,3 @@ There are other fun activities like shopping in the central market, taking the c
 
 **Contributors**
 March 04, 2010
-new
-by [piyushjain](/member/piyushjain_)

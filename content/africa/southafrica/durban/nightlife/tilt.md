@@ -20,5 +20,3 @@ address: Walnut Rd, opp Hilton Hotel
 tel: (031) 306-9356
 
 email: misscandyn@gmail.com
-
-[back to Nightlife and Entertainment](..)

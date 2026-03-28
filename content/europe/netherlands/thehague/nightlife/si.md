@@ -19,9 +19,3 @@ There are two main coffee shops that i usually see, one is very close to central
 THe only other one i have ever seen in the hague is caled The Game, right next to the store The Sting, but its tucked away in an alleyway
 
 type: Casinos
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

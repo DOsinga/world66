@@ -4,8 +4,6 @@ type: poi
 address: "central Cambridge"
 type: "Public Buildings"
 zipcode: "all have urls"
-latitude: 45.741263
-longitude: -66.029589
 ---
 
 There may well be more than this - or one or more of these may start
@@ -20,5 +18,3 @@ type: Public Buildings
 address: central Cambridge
 
 zipcode: all have urls
-
-[back to Sights](..)

@@ -9,5 +9,3 @@ Each March Leprechauns rename the town to 'New Dublin' for a week of Irish festi
 
 **Contributors**
 May 11, 2007
-new
-by [nlw](/member/nlw)

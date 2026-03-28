@@ -27,5 +27,3 @@ Just a few miles outside of Northampton, you will experience the beautiful North
 Northampton boasts excellent communication links and is located almost halfway between Birmingham and London, both being about 50 miles or 1 hour drive away. The M1 motorway provides links with London and the North of England, this runs through Northampton and can be accessed from Junctions 15, 15A and 16. Train services to London Euston leave Northampton every 15 minutes throughout the day and every 30 minutes to Birmingham. National Express operate buses to many major towns /cities in the UK.
 
 There are direct train links to Birmingham International Airport and from there this provide direct air links to major UK and European cities, USA, Middle East, Pakistan and India. London Luton airport is only 30 minutes drive away and provides links to major European cities and is home to many low cost airline flights like easyJet, Ryanair and Wizz Air.
-
-*Part or or all of this text stems from the original article at: Giles Davies*

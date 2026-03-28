@@ -12,5 +12,3 @@ Have a long walk in the sand and enjoy the desert like atmosphere. The enormous 
 
 
 email: contact@jowolf.com
-
-[back to Beaches](..)

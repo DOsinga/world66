@@ -1,0 +1,4 @@
+---
+title: "Yass"
+type: location
+---

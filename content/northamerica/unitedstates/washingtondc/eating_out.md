@@ -13,5 +13,3 @@ type: section
 
 [Mexican](/northamerica/unitedstates/washingtondc/eatingout?subsection=Mexican)
 [Indian](/northamerica/unitedstates/washingtondc/eatingout?subsection=Indian)
-
--->

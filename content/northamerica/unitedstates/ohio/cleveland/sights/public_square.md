@@ -8,13 +8,5 @@ Public Square is the heart of downtown Cleveland. It is a park intersected by On
 
 **Contributors**
 April 06, 2006
-new
-by [vulpster03](/member/vulpster03) (4 points)
 
 type: Squares
-
-
-
-
-
-[back to Sights](..)

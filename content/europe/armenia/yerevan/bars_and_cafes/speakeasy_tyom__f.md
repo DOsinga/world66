@@ -4,8 +4,6 @@ type: poi
 accessibility: "Everyone"
 address: "6 Northern Ave."
 phone: "+37410500155"
-latitude: -37.902061
-longitude: 145.01649
 ---
 
 Located on Northern Avenue 6, SPEAKEASY Cocktail Bar & Grill is the FIRST specialized bar, which will surprise you with an extensive cocktail list. Whether it is an original Manhattan, the chosen drink of sophisticated business-men, or a Martini, we make our`s with your choice of vodka or gin and a slightly larger than normal dash of vermouth.
@@ -26,5 +24,3 @@ accessibility: Everyone
 tel: +37410500155
 
 address: 6 Northern Ave.
-
-[back to Bars and Cafes](..)

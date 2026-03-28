@@ -13,5 +13,3 @@ Another great bargain is the Swap Meet at the Orange County Fairgrounds on Satur
 
 **Contributors**
 February 21, 2006
-change
-by [giorgio](/member/giorgio)

@@ -17,5 +17,3 @@ tel: 18007993080
 url: [www.travel-tomorocco.com](http://www.travel-tomorocco.com)
 
 email: info@saharasoultravel.com
-
-[back to Festivals](..)

@@ -27,8 +27,6 @@ Not far from Tegel Airport in Berlin-Reinickendorf at the Zentraler Festplatz, s
 
 **Contributors**
 June 24, 2006
-new
-by [bernhadette](/member/bernhadette) (1 point)
 
 
 
@@ -37,5 +35,3 @@ by [bernhadette](/member/bernhadette) (1 point)
 url: [www.deutsch-franzoesisches-volksfest.de](http://www.deutsch-franzoesisches-volksfest.de)
 
 address: Zentraler Festplatz, Kurt-Schumacher-Damm 207, 13405 Berlin
-
-[back to Festivals](..)

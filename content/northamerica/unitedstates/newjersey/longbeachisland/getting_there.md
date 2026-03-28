@@ -33,5 +33,3 @@ For those of you driving yourselves to LBI, get off at ***EXIT 11***, when using
 
 **Contributors**
 May 19, 2007
-new
-by [harryb3](/member/harryb3) (2 points)

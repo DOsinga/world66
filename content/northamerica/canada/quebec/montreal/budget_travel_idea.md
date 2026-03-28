@@ -24,5 +24,3 @@ Montreal is home to literally hundreds of festivals annually, from the world's m
 
 **Contributors**
 March 25, 2010
-new
-by [amymc](/member/amymc)

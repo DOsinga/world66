@@ -1,0 +1,4 @@
+---
+title: "Palma"
+type: location
+---

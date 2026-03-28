@@ -3,8 +3,6 @@ title: "Al Cugnai"
 type: poi
 address: "Piscina del Forner, Dorsoduro"
 type: "Local"
-latitude: 45.430671
-longitude: 12.329494
 ---
 
 Make sure to be on time in this charming trattoria, because people might kill for a seat and meal after 8PM. Closed on Mondays.
@@ -19,8 +17,6 @@ type: Local
 
 address: Piscina del Forner, Dorsoduro
 
-[back to Eating Out](..)
-
 ##
 
 -
@@ -33,17 +29,10 @@ address: Piscina del Forner, Dorsoduro
 
 [](/lib/map/handle?loc=europe|italy|veneto|venice)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

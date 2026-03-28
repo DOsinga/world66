@@ -11,8 +11,6 @@ Cleveland is home to a House of Blues venue. House of Blues features up-and-comi
 
 **Contributors**
 April 05, 2006
-change
-by [vulpster03](/member/vulpster03) (4 points)
 
 type: Jazz
 
@@ -25,5 +23,3 @@ tel: 216.523.BLUE
 url: [www.hob.com](http://www.hob.com/venues/clubvenues/cleveland/)
 
 address: 308 Euclid Avenue
-
-[back to Nightlife and Entertainment](..)

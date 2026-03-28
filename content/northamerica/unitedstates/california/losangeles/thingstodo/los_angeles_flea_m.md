@@ -14,8 +14,6 @@ The Pasadena City College Flea Market - http://www.pasadena.edu/fleamarket
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -24,5 +22,3 @@ type: Other
 url: [www.greenwayarts.org](http://www.greenwayarts.org)
 
 address: Melrose and Fairfax
-
-[back to Things to do](..)

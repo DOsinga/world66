@@ -4,8 +4,6 @@ type: poi
 address: "Cogels Osylei"
 type: "Squares"
 zipcode: "2018"
-latitude: 51.204569
-longitude: 4.43316
 ---
 
 Art nouveau street, unique architecture from around 1920. The
@@ -25,5 +23,3 @@ type: Squares
 address: Cogels Osylei
 
 zipcode: 2018
-
-[back to Sights](..)

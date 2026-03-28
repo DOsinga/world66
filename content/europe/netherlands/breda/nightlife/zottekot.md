@@ -10,7 +10,3 @@ address: Visserstraat 24
 tel: 076 5209202
 
 zipcode: 4811 WE
-
-[back to Nightlife and Entertainment](..)
-
--->

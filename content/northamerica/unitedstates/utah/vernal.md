@@ -1,9 +1,9 @@
 ---
-title: "Vernal Travel Guide"
+title: "Vernal"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Vernal** is a city in Uintah County, Utah, United States. The population was 7,714 at the 2000 census. It is the county seat of Uintah County[3].The city's Vernal-Uintah County Airport has scheduled air service to Denver provided by Great Lakes Aviation. Service is subsidized by the Essential Air Service program.
 
@@ -20,7 +20,3 @@ construction. The Uintah Gateway Mall and the Vernal Towne center will
 offer the Vernal area with substantial shopping opportunities.
 Currently there are a number of hotels under construction, including
 two Marriott chain hotels, a LaQuinta, and others.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 23:56

@@ -1,9 +1,9 @@
 ---
-title: "Black Meadow Landing Travel Guide"
+title: "Black Meadow Landing"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Suggest a Link From World66**
 
@@ -42,9 +42,3 @@ Phone No:- 760-663-4901
 
 Email:- blackmeadowlanding@milestoneinternet.com
 info@blackmeadowlanding.com
-
-*Part or or all of this text stems from the original article at: Black Meadow Landing*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 13:55

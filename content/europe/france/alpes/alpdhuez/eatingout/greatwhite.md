@@ -18,5 +18,3 @@ address: vieil Alpe voie Romaine
 tel: 04 76 11 30 03
 
 zipcode: 38750 ALPE D'HUEZ
-
-[back to Eating Out](..)

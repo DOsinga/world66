@@ -1,12 +1,8 @@
 ---
-title: "Zephryhills Travel Guide"
+title: "Zephryhills"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 a city in florida
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 07:53

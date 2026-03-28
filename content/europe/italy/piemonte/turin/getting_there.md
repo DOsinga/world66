@@ -107,8 +107,4 @@ type: section
 
 Barcelona (Spain), Briançon (France), Lyons (France), London (Great Britain), Madrid (Spain), Montegenèvre (France), Holland ... and many others. 
 
-  **With courtesy of Getting Therewww. comune.torino.it ** 
-
-## Subsections
-
-[By Air](/europe/italy/piemonte/turin/gettingthere/byair)
+  **With courtesy of Getting Therewww. comune.torino.it **

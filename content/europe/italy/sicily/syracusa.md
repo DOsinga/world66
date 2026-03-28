@@ -1,8 +1,6 @@
 ---
 title: "Syracusa"
 type: location
-latitude: 37.988307
-longitude: 13.691925
 ---
 
 Syracuse was for a short period of time the main rival of Athens in Greek. Back then it was the capital one of the most powerstates in the mediteranean. It has been continuously inhabtied since and this explains why some of the remains can be hard to spot. 

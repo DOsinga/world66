@@ -23,8 +23,4 @@ Sea
 
 Aruba has extensive virtually duty-free shopping facilities and many cruise ships call in on their Caribbean itineraries.
 
- For info on DCA airlines, visit: www.flydca.net 
-
-## Subsections
-
-[By Air](/centralamericathecaribbean/thecaribbean/aruba/gettingthere/byair)
+ For info on DCA airlines, visit: www.flydca.net

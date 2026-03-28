@@ -30,5 +30,3 @@ address: 123 Acland St
 Melbourne, St Kilda, VIC 3182 Australia
 
 url: [www.powerecom.com](http://www.powerecom.com)
-
-[back to Internet Cafes](..)

@@ -16,5 +16,3 @@ Some things the mall has:
 
 **Contributors**
 September 02, 2005
-new
-by [heshu](/member/heshu)

@@ -29,5 +29,3 @@ address: Stoleshnikov pereulok, 6 M. "Okhotny ryad", "Pushkinskaya"
 tel: 933-5521
 
 priceofmenu: $50-70
-
-[back to Eating Out](..)

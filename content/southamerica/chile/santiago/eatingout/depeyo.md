@@ -17,5 +17,3 @@ type: Local
 address: Lo Encalada 465
 
 tel: 274-0764
-
-[back to Eating Out](..)

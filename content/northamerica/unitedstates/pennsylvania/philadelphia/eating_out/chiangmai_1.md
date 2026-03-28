@@ -10,8 +10,6 @@ While visiting Philadelphia, make time for some authentic Thai food at Chiangma.
 
 **Contributors**
 April 09, 2009
-new
-by [wine-lover](/member/wine-lover)
 
 type: Thai
 
@@ -20,5 +18,3 @@ type: Thai
 tel: 610-397-1757
 
 address: 108 Fayette Street Conshohocken, PA
-
-[back to Eating Out](..)

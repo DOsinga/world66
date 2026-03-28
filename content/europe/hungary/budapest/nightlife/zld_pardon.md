@@ -17,5 +17,3 @@ type: Clubs and dancing
 url: [www.zp.hu](http://www.zp.hu)
 
 address: PetÅ‘fi bridge Buda side
-
-[back to Nightlife and Entertainment](..)

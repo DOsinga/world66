@@ -1,0 +1,4 @@
+---
+title: "Bechar"
+type: location
+---

@@ -1,6 +1,6 @@
 ---
 title: "La Tranquera"
-type: location
+type: poi
 accessibility: "easy access"
 address: "Miraflores"
 price: "moderate/expensive"
@@ -11,8 +11,6 @@ Meat...! Meat...! More Meat! This is what a steakhouse should be. Some of the be
 
 **Contributors**
 October 20, 2006
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: South American
 
@@ -25,5 +23,3 @@ accessibility: easy access
 address: Miraflores
 
 PriceOfMenu: moderate/expensive
-
-[back to Eating Out](..)

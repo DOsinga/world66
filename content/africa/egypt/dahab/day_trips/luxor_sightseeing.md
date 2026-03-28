@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Overday **trip** to **Luxor** from **Dahab** by flight to the sightseeing in East bank of
@@ -80,8 +78,6 @@ over with discounted rates
 
 **Contributors**
 September 22, 2010
-change
-by [nataly](/member/nataly)
 
 
 
@@ -92,5 +88,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Day Trips](..)

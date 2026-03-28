@@ -40,5 +40,3 @@ Contributor: Sameera Kumar**
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)

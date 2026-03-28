@@ -22,5 +22,3 @@ Both of these are located in the Ridges Resort and Club at Lake Chatuge. In a se
 
 **Contributors**
 January 20, 2010
-new
-by [ckajs](/member/ckajs)

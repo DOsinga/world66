@@ -65,9 +65,5 @@ Estada de Benfica.
 
 **Contributors**
 April 15, 2010
-new
-by [kwalker](/member/kwalker)
 
 April 17, 2010
-change
-by [2 many commas](/member/2_many_commas)

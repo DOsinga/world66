@@ -1,9 +1,9 @@
 ---
-title: "cape Kaliakra Travel Guide"
+title: "cape Kaliakra"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Kaliakra
 (Bulgarian: Калиакра; Romanian: Caliacra) is a long and narrow headland
@@ -26,9 +26,3 @@ medieval capital.
 Kaliakra was the site of the naval Battle of Cape Kaliakra on 11 August 1791, part of the Russian-Turkish War of 1787-1792.
 
 Since 2005 there is a large medium wave transmitter with 9 guyed masts near Kaliakra, the Kaliakra Transmitter.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Kaliakra*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 08:59

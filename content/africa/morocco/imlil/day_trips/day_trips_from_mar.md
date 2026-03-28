@@ -5,8 +5,6 @@ address: "Imlil"
 email: "info@atlastrekshop.com"
 phone: "00212 6 68 76 01 65"
 url: "www.atlastrekshop.com"
-latitude: 31.763789
-longitude: -6.997999
 ---
 
 **Option 2 : ****Day 4x4 excursions from Marrakech**
@@ -57,5 +55,3 @@ url: [www.atlastrekshop.com](http://www.atlastrekshop.com)
 address: Imlil
 
 email: info@atlastrekshop.com
-
-[back to Day Trips](..)

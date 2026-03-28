@@ -12,13 +12,9 @@ The largest Airlines are: American Airlines, United Airlines, Delta Airlines, No
 
 **Contributors**
 March 30, 2007
-change
-by [approaching genius](/member/approaching_genius) (1 point)
 
 
 
 
 
 url: [www.kooloola.com](http://www.kooloola.com/airfares.html)
-
-[back to Getting Around](..)

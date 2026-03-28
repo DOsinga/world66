@@ -1,0 +1,4 @@
+---
+title: "Hemsedal"
+type: location
+---

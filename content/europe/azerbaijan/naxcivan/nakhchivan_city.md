@@ -1,9 +1,9 @@
 ---
-title: "Nakhchivan City Travel Guide"
+title: "Nakhchivan City"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The main city and capital of the [Nakhchivan Republic](/europe/az-nakhchivan.html), also called Nakhchivan, was an ancient trading centre. The Greeks and Romans called it Nacksuana / Naxuana (from the Greek for "sweet water"). As early as the 2nd century BC it is mentioned by Ptolomy as a thriving city.
 
@@ -22,13 +22,3 @@ Today Nakhchivan city is home to over 60.000 inhabitants. It has some industry, 
 The city has a lot of business visitors from Iran, Turkey and Russia (these countries have consulates in the city), leading to a reasonable offer of hotels, to be added in the [Accomodation] section.
 
 (450 km west of Baku)
-
-*Part or or all of this text stems from the original article at: www.azerb.com*
-
-#### Contributors
-
-April 16, 2006 change by [azerbaijan08](/member/azerbaijan08)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 15:05

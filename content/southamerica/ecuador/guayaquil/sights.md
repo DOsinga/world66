@@ -31,6 +31,4 @@ Parque Centenario is a small park in the middle of the city. Located in the cent
 
 **Municipal Museum**
 
-Municipal Palace is considered one of the best architectonic works of the city. It is built in neoclassical style.  
-
--->
+Municipal Palace is considered one of the best architectonic works of the city. It is built in neoclassical style.

@@ -1,0 +1,4 @@
+---
+title: "Efate"
+type: location
+---

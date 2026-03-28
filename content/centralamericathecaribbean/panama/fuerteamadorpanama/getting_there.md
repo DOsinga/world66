@@ -23,9 +23,5 @@ you have just a few days in Panama, it may be best to arrange a tour with one of
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 January 11, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

@@ -5,9 +5,6 @@ type: section
 
 The whole trip passes through splendid scenery, the amount visible depending much on the time of year. Even in good weather it is possible to select some days as having particularly outstanding scenery. These are selected below:-
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 18 November 04
-
 **all**
 
 **Day 2 - Geiranger [summer only]**
@@ -33,5 +30,3 @@ The mountains have shrunk today but the cliff scenery, including bird rocks, is 
 **Day 4 - Lofotens**
 
 This is based on reading and hindsight rather than experience; a thick mist ruins it. From Stamsund to Svolvaer should be pretty striking.
-
--->

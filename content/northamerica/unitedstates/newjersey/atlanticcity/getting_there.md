@@ -11,5 +11,3 @@ type: section
 
 **Contributors**
 March 13, 2008
-new
-by [harryb3](/member/harryb3)

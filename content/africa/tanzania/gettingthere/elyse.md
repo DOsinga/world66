@@ -4,8 +4,6 @@ type: poi
 address: "7 pond view lane"
 email: "eggarlick@aol.com"
 type: "By Road"
-latitude: 44.200892
-longitude: -69.073739
 ---
 
 Hello,
@@ -23,5 +21,3 @@ type: By Road
 address: 7 pond view lane
 
 email: eggarlick@aol.com
-
-[back to Getting There](..)

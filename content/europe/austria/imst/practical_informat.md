@@ -84,5 +84,3 @@ Emergency call 144
 address: Meranerstraße 16, A-6460 Imst
 
 tel: +43 5412 66444
-
--->

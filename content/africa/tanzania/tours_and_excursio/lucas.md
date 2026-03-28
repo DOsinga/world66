@@ -29,5 +29,3 @@ url: [http](http://http//:www.adabusafaris.com)
 address: P.O.Box 8625 Moshi - Kilimanjaro
 
 email: adabusafaris@gmail.com
-
-[back to Tours and Excursions](..)

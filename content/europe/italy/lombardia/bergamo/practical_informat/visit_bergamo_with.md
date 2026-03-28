@@ -14,13 +14,9 @@ A new way to listen to stories that tour guides and books about Bergamo will nev
 
 **Contributors**
 September 19, 2013
-new
-by [annet87](/member/annet87)
 
 type: Tourist information
 
 
 
 url: [www.smartrippin.com](http://www.smartrippin.com/en/smartrippin-app-bergamo-en/)
-
-[back to Practical Information](..)

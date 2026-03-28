@@ -26,5 +26,3 @@ E-mail:corpinn@milestoneinternet.com
 
 **Contributors**
 May 14, 2008
-new
-by [milestone](/member/milestone) (1 point)

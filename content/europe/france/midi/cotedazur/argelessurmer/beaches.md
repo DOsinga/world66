@@ -23,5 +23,3 @@ Adjoining the sandy beaches of Argeles sur Mer is the long Languedoc coast where
 
 **Contributors**
 April 16, 2010
-new
-by [imran_m](/member/imran_m)

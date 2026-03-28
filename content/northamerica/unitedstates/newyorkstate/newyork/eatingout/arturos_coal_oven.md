@@ -10,8 +10,6 @@ Considered a hidden gem, Arturo's Coal Oven Pizza serves some of the best pizza 
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Italian
 
@@ -20,5 +18,3 @@ type: Italian
 tel: 212-677-3820
 
 address: 106 West Houston Street
-
-[back to Eating Out](..)

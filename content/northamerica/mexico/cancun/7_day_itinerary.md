@@ -75,9 +75,5 @@ you the opportunity to get in the water and swim with them.
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 09, 2010
-new
-by [robin_8000](/member/robin_8000)

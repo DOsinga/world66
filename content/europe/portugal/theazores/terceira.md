@@ -1,9 +1,9 @@
 ---
-title: "Terceira Travel Guide"
+title: "Terceira"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Terceira Island is located approximately 90 miles off Sao Miguel and 66 miles off Faial, and has a surface area of 148 sq. miles (382 km2). The international airport, located in "Lajes", about 2 miles from the city of "Praia da Vitoria", serves both civilian and military needs, and includes both the Military Command for the Azores as well as an important American Air Force Base. Terceira is the second most populated Azorean island with 58000 inhabitants.
 
@@ -51,11 +51,3 @@ Some of local Festivities**
 "Angrajazz" (jazz Festival in Angra do Heroí­smo: first weekend of October.
 
 "Ramo Grande Festival" (world music): End of October/beginning of November.
-
-#### Contributors
-
-December 07, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 02:56

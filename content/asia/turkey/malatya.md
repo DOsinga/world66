@@ -1,0 +1,4 @@
+---
+title: "Malatya"
+type: location
+---

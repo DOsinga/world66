@@ -15,8 +15,6 @@ The entertainment is provided by **The Odd Couples Band** and sometimes special 
 
 **Contributors**
 August 07, 2005
-change
-by [reen](/member/reen)
 
 
 
@@ -27,5 +25,3 @@ tel: toll free 1-866-771-7178
 url: [www.seacoastescapes.ca](http://www.seacoastescapes.ca/musicevents.htm)
 
 email: info@seacoastescapes.ca
-
-[back to Festivals](..)

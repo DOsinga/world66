@@ -14,5 +14,3 @@ type: Parks, Gardens and Zoos
 
 
 address: Part of the Cathedral, Avenida de la Constitucion
-
-[back to Sights](..)

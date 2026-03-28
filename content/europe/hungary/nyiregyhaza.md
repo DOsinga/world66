@@ -1,0 +1,4 @@
+---
+title: "Nyiregyhaza"
+type: location
+---

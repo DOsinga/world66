@@ -5,16 +5,12 @@ address: "Trollhättan-Vänersborgs Flygplats, 461 93 Trollhättan"
 phone: "+46 520-825 00"
 type: "By Air"
 url: "www.fyrstadsflyget.se"
-latitude: 58.318044
-longitude: 12.345213
 ---
 
 By bus by car by train
 
 **Contributors**
 May 02, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [Thn / Vbg Fyrstad airport](/europe/sweden/trollhttan/getting_there/thn__vbg_fyrstad)
 

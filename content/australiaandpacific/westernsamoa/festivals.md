@@ -50,9 +50,5 @@ similar to a sort of caviar.
 
 **Contributors**
 February 02, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

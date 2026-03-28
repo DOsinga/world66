@@ -11,5 +11,3 @@ type: section
 [Parks, Gardens and Zoos](/northamerica/unitedstates/utah/saltlakecity/sights?subsection=Parks%2C%20Gardens%20and%20Zoos)
 
 [Museums](/northamerica/unitedstates/utah/saltlakecity/sights?subsection=Museums)
-
--->

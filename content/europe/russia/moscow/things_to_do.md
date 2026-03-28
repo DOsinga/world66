@@ -11,12 +11,8 @@ Here are a few suggested activities.
 
 **Contributors**
 May 04, 2005
-new
-by [nastya](/member/nastya)
 
 May 05, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### Guerlain Beauty Studio
 

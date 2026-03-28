@@ -10,8 +10,6 @@ Here are a few suggested museum to visit.
 
 **Contributors**
 September 03, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### [Sunderland museum and winter gardens
 

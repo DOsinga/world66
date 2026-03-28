@@ -21,6 +21,4 @@ tel: N/A
 
 **Musei Vaticani e Cappella Sistina**
 
-The founding of the Vatican Museums can be traced back to 1503 when the newly-elected Pope, Julius II della Rovere, placed a statue of Apollo in the internal courtyard of the Belvedere Palace built by Innocent VIII; he brought the statue from the garden of his titular church of St. Peter in Chain [more..](/europe/vaticancity/sights/museivaticaniecappellasistina)
-
-address: Viale Vaticano - 00165
+The founding of the Vatican Museums can be traced address: Viale Vaticano - 00165

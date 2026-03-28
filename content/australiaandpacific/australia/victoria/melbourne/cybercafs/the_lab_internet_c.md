@@ -31,5 +31,3 @@ address: 490 Elizabeth Street
 Melbourne, Victoria 3000 Australia
 
 url: [www.thelab.net.au](http://www.thelab.net.au)
-
-[back to Internet Cafes](..)

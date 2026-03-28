@@ -1,0 +1,4 @@
+---
+title: "Valdivia"
+type: location
+---

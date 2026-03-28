@@ -25,5 +25,3 @@ url: [www.felice.com.br](http://www.felice.com.br)
 address: Rua Gomes Carneiro, 30 - Ipanema - Rio de Janeiro
 
 PriceOfMenu: $$
-
-[back to Eating Out](..)

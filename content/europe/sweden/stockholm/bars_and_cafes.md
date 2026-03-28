@@ -5,9 +5,6 @@ type: section
 
 Cafées move out if possible in the summer. If you don't like to sit on the sidewalk it is possible to find a place in a garden or a park.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 July 04
-
 **all**
 
 **Café Ersta**

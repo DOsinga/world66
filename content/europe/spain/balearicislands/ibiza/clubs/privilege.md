@@ -8,5 +8,3 @@ Formerly known as KU and still the largest disco in the world! You can trace the
 address: San Antonio Road, Ibiza Town
 
 tel: +34/971198160
-
--->

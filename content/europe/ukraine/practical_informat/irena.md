@@ -11,11 +11,5 @@ Phone:
 
 **Contributors**
 July 13, 2007
-change
-by [eren22](/member/eren22)
 
 type: Embassies and Consulates
-
-
-
-[back to Practical Information](..)

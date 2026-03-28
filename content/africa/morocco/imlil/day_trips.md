@@ -34,24 +34,7 @@ shrine – forbidden to non-Moslems - said to be a relic of a pre-Islamic
 religious and naturalist cult.
 
 We take a break for a picnic, within full view of Jbel Toubkal, prior to
-setting off back down the other side of the valley at a gentle pace back to
-the delightful Douar ACHAYN .
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
-- |
-- [Adventure Travel](http://www.gapadventures.com)
-- |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
-- |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
+setting off back down the other side of the valley at a gentle pace This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
 For more information read our
 
 [copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

@@ -8,11 +8,5 @@ The Virgen de las Angustias (the Virgen Maria, but the particular aspect of her 
 
 **Contributors**
 October 09, 2005
-new
-by [rkirzner](/member/rkirzner)
 
 type: Churches and Cathedrals
-
-
-
-[back to Sights](..)

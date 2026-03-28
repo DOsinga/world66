@@ -51,5 +51,3 @@ url: [www.Morocco-Excursions.c.la](http://www.Morocco-Excursions.c.la)
 address: Hassan Mouhou,ksar Merzouga
 
 email: MoroccoExcursions@Gmail.com
-
-[back to Things to do](..)

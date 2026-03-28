@@ -10,8 +10,6 @@ A good and cheap Sushi place, perfectly located in Downtown.Pick your favorite o
 
 **Contributors**
 March 31, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 type: Japanese
 
@@ -22,5 +20,3 @@ type: Japanese
 address: 24 NW Broadway @ Burnside, Portland
 
 tel: (503) 224-3417
-
-[back to Eating Out](..)

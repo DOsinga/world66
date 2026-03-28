@@ -1,0 +1,4 @@
+---
+title: "Mandaluyong"
+type: location
+---

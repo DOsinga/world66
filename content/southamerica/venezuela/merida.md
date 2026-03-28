@@ -1,0 +1,4 @@
+---
+title: "Merida"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Monmouth"
+type: location
+---

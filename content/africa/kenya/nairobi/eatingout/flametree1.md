@@ -17,5 +17,3 @@ type: Continental
 address: Panafric Hotel, End of Kenyatta Ave & Valley Rd
 
 tel: (254)-02-714444
-
-[back to Eating Out](..)

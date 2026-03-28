@@ -3,8 +3,6 @@ title: "Getting There"
 type: section
 type: "By Air"
 url: "www.low-cost-airline.info"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
 Getting to and from Latvia

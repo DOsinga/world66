@@ -17,13 +17,9 @@ All in all, beautiful !
 
 **Contributors**
 July 20, 2006
-new
-by [yohay elam](/member/yohay_elam) (4 points)
 
 type: Trekking
 
 
 
 address: Any travel agency in Cusco, or independently
-
-[back to Things to do](..)

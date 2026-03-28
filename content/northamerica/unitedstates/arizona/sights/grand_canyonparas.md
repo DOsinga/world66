@@ -7,7 +7,3 @@ type: "Parks, Gardens and Zoos"
 Grand Canyon-Parashant National Monument
 
 type: Parks, Gardens and Zoos
-
-
-
-[back to Sights](..)

@@ -1,0 +1,4 @@
+---
+title: "Schirmeck"
+type: location
+---

@@ -15,5 +15,3 @@ type: Dancing
 address: 3910 Geary Blvd
 
 tel: (415)750-0250
-
-[back to Nightlife and Entertainment](..)

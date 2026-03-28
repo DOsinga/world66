@@ -35,9 +35,5 @@ Sleep through the daytime on the 7th day to enjoy the [Medellin](/southamerica/c
 
 **Contributors**
 February 19, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 02, 2010
-change
-by [ashmita](/member/ashmita_)

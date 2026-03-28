@@ -1,0 +1,4 @@
+---
+title: "Clearwater"
+type: location
+---

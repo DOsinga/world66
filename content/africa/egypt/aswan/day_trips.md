@@ -23,5 +23,3 @@ You'll have to leave early to make the 143 mile trip south to Abu Simbel. The Te
 
 **Contributors**
 August 28, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

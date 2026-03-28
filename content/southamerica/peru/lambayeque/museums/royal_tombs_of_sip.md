@@ -9,5 +9,3 @@ You will admire the treasures of the Lord of Sipan, a Moche Lord.
 
 
 url: [www.tumbasreales.org](http://www.tumbasreales.org)
-
-[back to Museums](..)

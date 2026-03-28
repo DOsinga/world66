@@ -8,8 +8,6 @@ opening_hours: "every day"
 phone: "+ 386 5 3896 444"
 type: "Parks, Gardens and Zoos"
 url: "www.bovec.si"
-latitude: 46.338585
-longitude: 13.552419
 ---
 
 THE SOČA RIVER (*Bovec area )*
@@ -18,8 +16,6 @@ The vigorous rapids and cascades of the childishly mischievous and primitive eme
 
 **Contributors**
 August 07, 2009
-change
-by [zabrajda](/member/zabrajda)
 
 type: Parks, Gardens and Zoos
 
@@ -38,5 +34,3 @@ url: [www.bovec.si](http://www.bovec.si)
 address: Bovec, Slovenia
 
 email: info@bovec.si
-
-[back to Sights](..)

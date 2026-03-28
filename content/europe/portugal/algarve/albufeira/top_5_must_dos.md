@@ -27,5 +27,3 @@ Market day in the old town is an experience worth having. With everything availa
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

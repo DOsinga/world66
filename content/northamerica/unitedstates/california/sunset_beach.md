@@ -1,9 +1,9 @@
 ---
-title: "Sunset Beach Travel Guide"
+title: "Sunset Beach"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ** Cliffs ** Long
 rolling, soft, easy waves. Good for beginner to intermediate.
@@ -65,11 +65,3 @@ to Get There Trestles is located off San Onofre State
 Beach Park there and walk north along the railroad tracks
 to the trestles, which is basically a series of railroad
 bridge
-
-#### Contributors
-
-July 08, 2007 new by [mehul](/member/mehul) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

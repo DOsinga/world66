@@ -14,8 +14,6 @@ This Detroit institution has been open since 1917. Located in downtown Detroit, 
 
 **Contributors**
 April 29, 2007
-change
-by [the rev](/member/the_rev)
 
 type: American
 
@@ -34,5 +32,3 @@ address: 114 W. Lafayette
 PriceOfMenu: Under $10
 
 email: eat@americanconeyisland.com
-
-[back to Eating Out](..)

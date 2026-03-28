@@ -36,8 +36,6 @@ Website: castle@comden.de
 
 **Contributors**
 June 19, 2007
-change
-by [arthurbaby2007](/member/arthurbaby2007)
 
 
 
@@ -48,5 +46,3 @@ url: [www.castle@comden.de](http://www.castle@comden.de)
 address: Kajuru, Kajuru Local Government
 
 email: burg@comden.de
-
-[back to Day Trips](..)

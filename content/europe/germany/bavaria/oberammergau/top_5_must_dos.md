@@ -54,5 +54,3 @@ wonderful views of the village below.
 
 **Contributors**
 November 19, 2009
-new
-by [harding](/member/harding)

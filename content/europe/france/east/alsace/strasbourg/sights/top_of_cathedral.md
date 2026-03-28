@@ -8,13 +8,5 @@ At the side entrance to the cathedral, for approximately five euros, you can exp
 
 **Contributors**
 May 05, 2005
-new
-by [jaimeson17](/member/jaimeson17)
 
 type: Churches and Cathedrals
-
-
-
-
-
-[back to Sights](..)

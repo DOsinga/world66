@@ -10,6 +10,3 @@ Don't know who wrote that but don't be put off. Wrexham was once a coalming and 
 The area around Wrexham has some excellent visitor attractions including Bersham Ironworks where John Wilkiinson one of the early Ironmasters of the Industrial Revolution set up a foundry. Close by the Bersham Visitor Centre Chronicles the Industrial and Geological Heritage. The Clwedog Valley trail leads through a picturesque valley to Minera with its disused Lead Mines. These were mined from Roman Times until the start of the 20th Century. The City Shaft Engine House has been restored and can be visited.
 
 Coal mining is represented by the Headgear and winding house at the old Bersham Mine. Location for the 1979 remake of "How Green was my Valley". Close by is Erddig Hall a National Trust property well worth a visit as the servants here were very well treated when compared to other stately homes such as Penrhyn Castle.
-
-*Change history*
-Orginal article by [Eurapart](/member/eurapart) on 21 March 04

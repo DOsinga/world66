@@ -13,8 +13,4 @@ Further up the beach there are a number of resorts to accommodate visitors. Ther
 
 **Lagos Beach**
 
-Lagos beach is a short drive away from Calabar. A white sand beach, Lagos is famous for its boat tours of the nearby islands. People can take a boat to the islands from the mainland to see Victoria Island and any of the other smaller islands populating the coastline. Lagos also has a pier for people to gaze out to the ocean and go fishing. After a day of beach fun, the visitor can then go back to Lagos to enjoy the nightlife.
-
-**Coconut Beach**
-
-Coconut Beach is another beach located by Calabar. Patrons can get to this beach using the scenic coastal expressway. Getting there, the visitor will see coconut trees covering the shoreline. This beach is popular for biodiversity groups, as the government goes to great lengths to maintain this white sand beach.
+Lagos beach is a short drive away from Calabar. A white sand beach, Lagos is famous for its boat tours of the nearby islands. People can take a boat to the islands from the mainland to see Victoria Island and any of the other smaller islands populating the coastline. Lagos also has a pier for people to gaze out to the ocean and go fishing. After a day of beach fun, the visitor can then go

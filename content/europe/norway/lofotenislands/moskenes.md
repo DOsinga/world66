@@ -26,5 +26,3 @@ At the *Norwegian Fishing Village Museum* in **Å**, you can join in on the acti
 Visit the *stockfish museum* in Å and learn about the thousand-year old history of stockfish as a trade commodity. Learn how stockfish is classed, where it is exported, and what is required of a first-class product. 
 
 On the island of **Sakrisøya**, *Dagmar´s Museum of Dolls and Toys* can be found - a place for the whole family.
-
--->

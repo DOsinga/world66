@@ -17,5 +17,3 @@ type: Pubs
 url: [pubcrawl-basel.ch](http://pubcrawl-basel.ch)
 
 email: info@pubcrawl-basel.ch
-
-[back to Nightlife and Entertainment](..)

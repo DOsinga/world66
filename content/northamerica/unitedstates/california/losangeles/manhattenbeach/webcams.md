@@ -1,6 +1,6 @@
 ---
 title: "Webcams in Manhattan Beach"
-type: location
+type: section
 ---
 
 i thought u might like this

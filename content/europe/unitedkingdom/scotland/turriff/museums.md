@@ -10,8 +10,6 @@ Session Cottage.
 
 **Contributors**
 January 21, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Session Cottage Museum](/europe/unitedkingdom/scotland/turriff/museums/session_cottage_mu)
 

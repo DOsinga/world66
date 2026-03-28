@@ -7,5 +7,3 @@ There are several daily buses from Dar es Salaam and daily connections from Mbey
 
 **Contributors**
 February 25, 2006
-change
-by [ingvar](/member/ingvar) (4 points)

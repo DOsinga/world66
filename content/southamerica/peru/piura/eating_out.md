@@ -22,5 +22,3 @@ address: Sanchez Cerro 210
 Best vegetarian option in town. 
 
 address: Sanchez Cerro & Lima
-
--->

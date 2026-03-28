@@ -30,5 +30,3 @@ url: [www.go4funsafaris.com](http://www.go4funsafaris.com)
 address: Kenindia Hse-Loita St.-Grd Floor
 
 email: info@go4funsafaris.com
-
-[back to Budget Travel Ideas](..)

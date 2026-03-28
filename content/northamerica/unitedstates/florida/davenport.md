@@ -1,9 +1,9 @@
 ---
-title: "Davenport Travel Guide"
+title: "Davenport"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Davenport **
 is a small town located southwest
@@ -23,11 +23,3 @@ including hotels and inns, luxurious villas and beautiful family rental
 properties. You get beauty and convenience, near all the excitement and
 nightlife of Orlando, yet far enough away to relax in peace and quiet.
 Davenport provides the best of both worlds.
-
-#### Contributors
-
-March 29, 2007 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 23:13

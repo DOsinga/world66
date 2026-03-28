@@ -53,5 +53,3 @@ Farther east of Stevens Pass is Mission Ridge, which is near Wenatchee.
 
 **Contributors**
 September 29, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

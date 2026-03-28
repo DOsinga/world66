@@ -18,5 +18,3 @@ If you are really interested in making your time in Nijmegen enjoyable, a trip t
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

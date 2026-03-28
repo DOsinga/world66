@@ -17,6 +17,4 @@ TAXI JEM – Phone : 0467450775
 
 TAXI RADIO DU MIDI – Phone: 0467100000 – 24/7
 
-TAXI TRAM –Phone : 0467581010 – 24/7  CAB STATIONS:  Train Station, Bd Victor Hugo, Airport 
-
--->
+TAXI TRAM –Phone : 0467581010 – 24/7  CAB STATIONS:  Train Station, Bd Victor Hugo, Airport

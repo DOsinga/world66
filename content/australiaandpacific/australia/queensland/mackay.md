@@ -1,0 +1,4 @@
+---
+title: "Mackay"
+type: location
+---

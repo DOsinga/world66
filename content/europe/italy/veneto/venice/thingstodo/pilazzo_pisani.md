@@ -8,11 +8,5 @@ Located between the Bridge of Rialto and the Ca'Foscari's vault, Palazzo Pisani 
 
 **Contributors**
 May 25, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
-
-
-
-[back to Things to do](..)

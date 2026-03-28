@@ -13,8 +13,4 @@ By train:
 
   By plane:
 
- Vienna's airport is called **Wien-Schwechat** and is located 20 km outside the centre. It is connected to the city centre by the S-Bahn-line S7, which runs underneath the airport. Trains leave every 30min, taking half an hour to reach Wien-Mitte, near the Ring. In addition, there is a reguler bus, which runs every 20 min o the City Air Terminal, next door to Wien-Mitte. Other buss run from the airport to both main train stations. 
-
-## Subsections
-
-[By Air](/europe/austria/vienna/gettingthere/byair)
+ Vienna's airport is called **Wien-Schwechat** and is located 20 km outside the centre. It is connected to the city centre by the S-Bahn-line S7, which runs underneath the airport. Trains leave every 30min, taking half an hour to reach Wien-Mitte, near the Ring. In addition, there is a reguler bus, which runs every 20 min o the City Air Terminal, next door to Wien-Mitte. Other buss run from the airport to both main train stations.

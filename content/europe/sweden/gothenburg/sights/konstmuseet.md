@@ -34,7 +34,3 @@ address: Götaplatsen
 url: [www.konstmuseum.goteborg.se](http://www.konstmuseum.goteborg.se)
 
 tel: 031 - 61 29 80
-
-[back to Sights](..)
-
--->

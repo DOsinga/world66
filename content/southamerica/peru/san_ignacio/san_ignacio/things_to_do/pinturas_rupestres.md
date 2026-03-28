@@ -12,13 +12,5 @@ To get there you'll probably have to rent a car with driver for a couple of hour
 
 **Contributors**
 May 09, 2006
-change
-by [joosts](/member/joosts) (4 points)
 
 type: Other
-
-
-
-
-
-[back to Things to do](..)

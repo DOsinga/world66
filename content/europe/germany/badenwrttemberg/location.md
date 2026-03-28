@@ -1,12 +1,8 @@
 ---
-title: "location Travel Guide"
+title: "location"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Bad Wilbad
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 08:04

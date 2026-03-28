@@ -10,5 +10,3 @@ old city wall for pubs, outside city walls for the gay hang-out.
 
 **Contributors**
 May 10, 2005
-new
-by [slurpey](/member/slurpey) (1 point)

@@ -1,9 +1,9 @@
 ---
-title: "Merzouga Travel Guide"
+title: "Merzouga"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Morocco Tours - Travel to Morocco - Marrakech Desert Tours - Holiday Morocco.
 
@@ -32,9 +32,3 @@ Trekking Marrakech , Camel Trekking Morocco - Guided tours of Morocco
 Camel ride, Camel Trekking Morocco, Marrakech Camel Treks, Marrakech to
 Fes desert tours- desert Trips - Sahara Adventures - viaje por
 marruecos - Rutas por marruecos http://www.overmorocco.com
-
-*Part or or all of this text stems from the original article at: www.overmorocco*
-
-Page last generated on Fri 15:12
-
--->

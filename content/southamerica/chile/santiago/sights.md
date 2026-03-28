@@ -8,5 +8,3 @@ type: section
 [Hotspots](/southamerica/chile/santiago/sights?subsection=Hotspots)
 
 [Museums](/southamerica/chile/santiago/sights?subsection=Museums)
-
--->

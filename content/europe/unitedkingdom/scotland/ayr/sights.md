@@ -8,8 +8,6 @@ Ayr is famous for her association with Rabbie Burns who was born here. So all ar
 
 **Contributors**
 July 23, 2006
-new
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [Burns Heritage Park](/europe/unitedkingdom/scotland/ayr/sights/burns_heritage_par)
 

@@ -19,5 +19,3 @@ Although the prices, crowds and temperatures all rise at this time of year, Albu
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

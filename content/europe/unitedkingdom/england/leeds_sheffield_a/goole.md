@@ -1,0 +1,4 @@
+---
+title: "Goole"
+type: location
+---

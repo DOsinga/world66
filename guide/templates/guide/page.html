@@ -1,7 +1,7 @@
 {% extends "guide/base.html" %}
 
 {% block title %}
-{% if page.page_type == "location" %}{{ page.title }} Travel Guide{% else %}{{ page.display_name }} in {{ parent.title }}{% endif %} - World66
+{{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
 {% endblock %}
 
 {% block breadcrumbs %}
@@ -17,7 +17,7 @@
   {% endfor %}
   {% if parent %}
     <span class="sep">&rsaquo;</span>
-    <span class="current">{{ page.display_name }}</span>
+    <span class="current">{{ page.title }}</span>
   {% endif %}
 </nav>
 {% endblock %}
@@ -35,13 +35,13 @@
       <li><a href="{{ parent.get_absolute_url }}"><strong>{{ parent.title }}</strong></a></li>
       {% for s in parent_sections %}
       <li{% if s.slug == page.slug %} class="active"{% endif %}>
-        <a href="{{ s.get_absolute_url }}">{{ s.display_name }}</a>
+        <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
       </li>
       {% endfor %}
       {% else %}
       <li class="active"><a href="{{ page.get_absolute_url }}"><strong>Travel Guide</strong></a></li>
       {% for s in sections %}
-      <li><a href="{{ s.get_absolute_url }}">{{ s.display_name }}</a></li>
+      <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
       {% endfor %}
       {% endif %}
     </ul>
@@ -69,7 +69,7 @@
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
-      {% if page.page_type == "section" %}{{ page.display_name }}{% else %}Highlights{% endif %}
+      {% if page.page_type == "section" %}{{ page.title }}{% else %}Highlights{% endif %}
     </h3>
     <ul class="sidebar-nav">
       {% for poi in pois %}
@@ -84,11 +84,13 @@
 {% block content %}
 {% if is_continent %}
 <div id="country-map" class="country-map"></div>
+{% elif markers_json != "[]" %}
+<div id="location-map" class="location-map-small" title="Click to expand"></div>
 {% elif lat and lng %}
 <div id="location-map" class="location-map-small" title="Click to expand"></div>
 {% endif %}
 
-<h1>{% if page.page_type == "location" %}{{ page.title }} <span class="title-sub">Travel Guide</span>{% else %}{{ page.title }}{% endif %}</h1>
+<h1>{{ page.title }}</h1>
 
 {% if page.properties %}
 <div class="info-box">
@@ -109,9 +111,9 @@
 </div>
 {% endif %}
 
-{% if locations and page.page_type == "location" %}
+{% if locations and page.page_type == "location" and locations|length > 30 %}
 <div class="destinations-section">
-  <h2>Destinations</h2>
+  <h2>All {{ locations|length }} Destinations</h2>
   <div class="destination-columns">
     {% for child in locations %}
     <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
@@ -126,9 +128,13 @@
 <script>
 initCountryMap('country-map', '{{ continent_slug|escapejs }}');
 </script>
+{% elif markers_json != "[]" %}
+<script>
+initLocationMap('location-map', {{ markers_json }});
+</script>
 {% elif lat and lng %}
 <script>
-initLocationMap('location-map', {{ lat|escapejs }}, {{ lng|escapejs }}, '{{ page.title|escapejs }}');
+initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}"}]);
 </script>
 {% endif %}
 {% endblock %}

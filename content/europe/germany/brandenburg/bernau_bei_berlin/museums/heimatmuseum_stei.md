@@ -14,8 +14,6 @@ You can also climb up to the tower's roof, from where you have a great view on B
 
 **Contributors**
 October 07, 2006
-change
-by [bernhadette](/member/bernhadette)
 
 
 
@@ -26,5 +24,3 @@ openingHours: May to October, closed in winter-time: Tuesday to Friday 9 - 12 a.
 url: [www.bernau.de](http://www.bernau.de/tourismus/heimatmuseum.php?s=6&b=1)
 
 address: Heimatmuseum, Steintor, Berliner Straße, 16321 Bernau bei Berlin
-
-[back to Museums](..)

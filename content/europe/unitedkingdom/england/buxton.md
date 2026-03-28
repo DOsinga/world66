@@ -1,0 +1,4 @@
+---
+title: "Buxton"
+type: location
+---

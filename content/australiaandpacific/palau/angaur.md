@@ -1,0 +1,4 @@
+---
+title: "Angaur"
+type: location
+---

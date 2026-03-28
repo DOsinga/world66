@@ -29,5 +29,3 @@ Some other souvenirs include cow bells, cuckoo clocks, embroideries, leather wal
 
 **Contributors**
 March 24, 2010
-new
-by [piyushjain](/member/piyushjain_)

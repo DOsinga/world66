@@ -32,5 +32,3 @@ Cup: A little acid and mildly sweet, good aroma and excellent flavor. An extreme
 Climate: Average temperature is 18 degrees centigrade. Minimum variation is about 12 to 13 degrees and maximum between 20 and 21 degrees. For a tropical climate the variation between day and night is extreme and calls for very could nights. 
 
 Soils: Volcanic soils, a little acid and not too step helping agriculture easing crop collection.
-
--->

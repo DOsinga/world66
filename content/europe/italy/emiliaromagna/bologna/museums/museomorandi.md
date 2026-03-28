@@ -18,5 +18,3 @@ address: Palazzo D'Accursio, Piazza Maggiore 6.
 openinghours: 10am-6pm. Closed on Mondays.
 
 tel: 051 203 526
-
-[back to Museums](..)

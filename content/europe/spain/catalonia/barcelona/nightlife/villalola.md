@@ -29,5 +29,3 @@ url: [www.villalola.com](http://www.villalola.com)
 address: Sagués 13, Local
 
 email: agencia@villalola.es
-
-[back to Nightlife and Entertainment](..)

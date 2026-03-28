@@ -1,0 +1,4 @@
+---
+title: "Tonsberg"
+type: location
+---

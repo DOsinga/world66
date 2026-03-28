@@ -1,9 +1,9 @@
 ---
-title: "Cardwell Travel Guide"
+title: "Cardwell"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Cardwell is part of Cardwell Shire. It lies on the main transport routes along the east coast and is a popular tourist destination. Hinchinbrook Island lies off the shore.
 
@@ -14,11 +14,3 @@ The Cardwell Shire Story is about this place. The aboriginal language boundary o
 Population: around 1200
 
 Plan a nature travel Australian vacation itinerary. Major international and domestic transportation hubs are Cairns and Townsville, Queensland. Web search Cardwell, Tully and Mission Beach. Allow a minimum of five (5) days to explore the Tropical Cassowary Coast.
-
-#### Contributors
-
-May 03, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 18:18

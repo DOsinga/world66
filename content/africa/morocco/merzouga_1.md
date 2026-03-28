@@ -1,9 +1,9 @@
 ---
-title: "Merzouga Travel Guide"
+title: "Merzouga"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Cultura Travel Marocco is a small local tour and transportation company based in the south-east of Morocco, offering tours all around the country. We offer cultural tours of Morocco that highlight the best of Morocco, Atlas Mountains trekking, old Kasbah tours and camel trekking in the Sahara desert - to discover the real Morocco and the hidden culture of Imazighen and their warm hospitality. We welcome you with us on one of our tours to explore the fascinating landscape of Morocco, appreciate its dramatic cultural and social diversity, meditate and smell dry fine air of the vast Sahara desert.
 
@@ -14,9 +14,3 @@ We are aware that your vacation is a special event, therefore we work hard to ma
 Our pleasure is to welcome you and share with you
 
 Welcome
-
-*Part or or all of this text stems from the original article at: www.cultura-travelmarocco.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 07:25

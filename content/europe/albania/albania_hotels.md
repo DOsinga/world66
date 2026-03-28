@@ -1,9 +1,9 @@
 ---
-title: "Albania Hotels Travel Guide"
+title: "Albania Hotels"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 At www.edialtour.com www.albania-hotel.al www.albanian-hotels.net are all Albanian Hotels with full description of each hotel in Albania.
 
@@ -24,13 +24,3 @@ than any other Albanian or foreign tour operator in Albania. All hotels
 are well detailed with: description, address, photo gallerie, price
 calculated by an advanced system of reservations and opinions left by
 visitors who stayed in these hotels.
-
-*Part or or all of this text stems from the original article at: general*
-
-#### Contributors
-
-October 14, 2010 new by [edialtour](/member/edialtour)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 16:44

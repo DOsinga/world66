@@ -10,13 +10,5 @@ The airport is close to downtown Calgary (10km), and can be reached by public tr
 
 **Contributors**
 February 25, 2006
-change
-by [the rev](/member/the_rev) (2 points)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

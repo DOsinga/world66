@@ -35,5 +35,3 @@ You may spend the last night of your tour out in the House of Illusion with your
 
 **Contributors**
 March 02, 2010
-change
-by [ashmita](/member/ashmita_)

@@ -28,5 +28,3 @@ tel: (754)647-3746
 openingHours: dfy
 
 email: 45767672aol.com
-
-[back to Sights](..)

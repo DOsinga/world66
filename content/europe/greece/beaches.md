@@ -7,5 +7,3 @@ The best sandy beaches in Greece are in Small Cyclades
 
 **Contributors**
 October 14, 2007
-new
-by [heraklia](/member/heraklia)

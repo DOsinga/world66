@@ -1,0 +1,4 @@
+---
+title: "Gori"
+type: location
+---

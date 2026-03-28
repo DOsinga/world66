@@ -8,13 +8,5 @@ type: "Train station"
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Train station
-
-
-
-
-
-[back to Practical Information](..)

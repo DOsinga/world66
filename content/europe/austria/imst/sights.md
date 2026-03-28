@@ -84,5 +84,3 @@ In 1949 the first SOS Children's Village was founded by Hermann Gmeiner in Imst.
 address: Hermann-Gmeiner-Str. Weinberg, A-6460 Imst
 
 tel: +43 5412 61493
-
--->

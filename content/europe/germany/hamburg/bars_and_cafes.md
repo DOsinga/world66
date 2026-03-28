@@ -35,5 +35,3 @@ The Eiscafe Venezia is situated in Altona and is located alongside a pedestriani
 
 **Contributors**
 November 16, 2009
-new
-by [nicola76](/member/nicola76)

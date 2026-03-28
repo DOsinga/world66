@@ -52,8 +52,3 @@ Equipment and porters can be hired.
 Nearly half of those who attempt Kili don’t make it to the top.
 
 The mountain is a not a malarial area, but the surrounding lowlands of Tanzania are.
-
-*Change history*
-Orginal article by [yonamaro](/member/yonamaro) on 23 December 04
-
--->

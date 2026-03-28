@@ -1,0 +1,4 @@
+---
+title: "Bugac"
+type: location
+---

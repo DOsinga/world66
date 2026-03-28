@@ -34,5 +34,3 @@ Author site: http://www.BradSteel.com
 author: Brad Steel
 
 isbn: 0973642106
-
-[back to Books](..)

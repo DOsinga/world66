@@ -5,8 +5,6 @@ address: "Alpe d'Huez"
 phone: "04 76 80 65 37"
 type: "Restaurants"
 zipcode: "38750 ALPE D'HUEZ"
-latitude: 45.092401
-longitude: 6.069944
 ---
 
 type: Restaurants

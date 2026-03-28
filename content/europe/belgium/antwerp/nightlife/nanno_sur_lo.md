@@ -21,5 +21,3 @@ type: Clubs and dancing
 url: [www.nanno.be](http://www.nanno.be)
 
 address: Diamond princess boat
-
-[back to Nightlife and Entertainment](..)

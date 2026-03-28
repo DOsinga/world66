@@ -29,9 +29,5 @@ A café that specializes in coffee and tea from around the world is Kante. They 
 
 **Contributors**
 April 08, 2010
-change
-by [ctanios](/member/ctanios)
 
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

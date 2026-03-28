@@ -9,5 +9,3 @@ New Zealand classic.
 
 
 author: William Satchell
-
-[back to Books](..)

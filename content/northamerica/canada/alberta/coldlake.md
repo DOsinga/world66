@@ -1,8 +1,6 @@
 ---
 title: "Cold Lake"
 type: location
-latitude: 54.46046
-longitude: -110.192871
 ---
 
 **Cold Lake** is a steadily growing city with a population constantly in flux; a good portion is made up of members of the Canadian Armed Forces due to the proximity of Canada's largest air base, **4 Wing**. There are also a large contingent of employees at **Alberta oilwells** in the area who constantly move in and out. This summer will see the **Cold Lake International Air Show** along with the annual **Maple Flag**, an international exercise that brings airmen from all over the world. 

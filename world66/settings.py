@@ -51,6 +51,7 @@ TEMPLATES = [
         "OPTIONS": {
             "context_processors": [
                 "django.template.context_processors.request",
+                "guide.context_processors.continents",
             ],
         },
     },

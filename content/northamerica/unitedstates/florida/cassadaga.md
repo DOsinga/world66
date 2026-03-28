@@ -1,9 +1,9 @@
 ---
-title: "Cassadaga Travel Guide"
+title: "Cassadaga"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Cassadaga** (a Seneca Indian word meaning *"Water beneath the rocks"*)
 is a small unincorporated community located in Volusia County, Florida,
@@ -21,13 +21,3 @@ Cassadaga Association received its charter on 18 December 1894.
 Bright Eyes has an album called Cassadaga, which features the town in
 the lyrics of the single " Four Winds". Tom Petty's song "Casa Dega"
 alludes to psychics.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Cassadaga,_Florida*
-
-#### Contributors
-
-August 09, 2007 change by [gamiziuk](/member/gamiziuk)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 18:02

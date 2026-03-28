@@ -11,5 +11,3 @@ You can also fly into Porto Seguro and then get a taxi / bus to the ferry boat. 
 
 **Contributors**
 November 24, 2005
-change
-by [tull](/member/tull)

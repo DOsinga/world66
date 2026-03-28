@@ -17,9 +17,6 @@ On Sunday Cocoon opens at 16:00.
 
 Cocoon is closed on Monday.
 
-*Change history*
-Minor corrections by [hpharmsen](/member/hpharmsen) on 18 August 04
-
 bookingurl: [www.jazz-in-amsterdam.com](http://www.jazz-in-amsterdam.com)
 
 PC: 2511BS The Hague

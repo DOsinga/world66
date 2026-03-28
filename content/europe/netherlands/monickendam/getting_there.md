@@ -7,5 +7,3 @@ Busses numbers 110 and 111 bring you in 22 minutes from Amsterdam central statio
 
 **Contributors**
 July 31, 2005
-new
-by [hpharmsen](/member/hpharmsen)

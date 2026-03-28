@@ -33,9 +33,5 @@ Also remember to visit the historic center, and the place of the mariachis, and 
 
 **Contributors**
 February 12, 2010
-change
-by [gabriellet](/member/gabriellet)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

@@ -13,11 +13,3 @@ If you want to do a similar expedition, but without the risk of disappearing alt
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (4 points)
-
-
-
-
-
-[back to Day Trips](..)

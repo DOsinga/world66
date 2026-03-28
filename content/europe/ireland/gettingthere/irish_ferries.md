@@ -10,5 +10,3 @@ email: info@irishferries.com
 url: [www.irishferries.com](http://www.irishferries.com)
 
 tel: +353 818 300 400
-
--->

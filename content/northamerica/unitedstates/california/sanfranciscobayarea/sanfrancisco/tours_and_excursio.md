@@ -10,9 +10,6 @@ zipcode: "San Francisco"
 
 Tours and Sightseeing in San Francisco:
 
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 11 January 05
-
 ### [San Francisco Electric Tour Company - Segway Tours
 
 Guided Segway Tours along the San Francisco Waterfront. 3 hours with training. See the City at 8 Miles per hour on your own Segway.

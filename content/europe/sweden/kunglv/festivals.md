@@ -11,12 +11,8 @@ Every year there is a Konghälla Medieval festival in Kungälv. So far it has be
 
 **Contributors**
 May 25, 2006
-change
-by [morsan](/member/morsan) (1 point)
 
 May 25, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Kongahälla Medeltidsdagar](/europe/sweden/kunglv/festivals/kongahlla_medelt)
 

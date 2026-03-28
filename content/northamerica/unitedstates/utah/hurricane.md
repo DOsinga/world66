@@ -1,0 +1,4 @@
+---
+title: "Hurricane"
+type: location
+---

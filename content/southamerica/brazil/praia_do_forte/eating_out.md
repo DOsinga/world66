@@ -11,8 +11,6 @@ As in most tourist meccas, the restaurants in PdF don’t seem to be counting on
 
 **Contributors**
 January 29, 2007
-new
-by [rani d.](/member/rani_d.) (2 points)
 
 ### [Kasato](/southamerica/brazil/praia_do_forte/eating_out/kasato)
 

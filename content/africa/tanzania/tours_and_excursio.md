@@ -31,7 +31,7 @@ Other famous parks include:
 
     Probably the most important consideration for any visitor to Tanzania is the  time of year. Broadly speaking the rains fall in East Africa between April and May,  and November. See **climate** for more. 
 
-          -->  **Southern Parks**
+          **Southern Parks**
 
 In the south of Tanzania lie some of the most untouched game reserves in Africa:
 
@@ -50,8 +50,3 @@ In Western Tanzania, on the banks of Lake Tanganyika, lie two parks that are fam
 • **Mahale Mountains National Park**
 
 • **Gombe Stream National Park**
-
-*Change history*
-Orginal article by [yonamaro](/member/yonamaro) on 24 December 04
-
--->

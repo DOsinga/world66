@@ -17,8 +17,6 @@ Being a veggie, I was gladly surprised that at Via Sete in Ipanema they have a v
 
 **Contributors**
 August 12, 2008
-new
-by [blorenzi72](/member/blorenzi72)
 
 type: International
 
@@ -31,5 +29,3 @@ tel: (55) (21) 2512-8100
 url: [www.viasete.com.br](http://www.viasete.com.br)
 
 address: Rua Garcia D' Ávila, 125 - Ipanema
-
-[back to Eating Out](..)

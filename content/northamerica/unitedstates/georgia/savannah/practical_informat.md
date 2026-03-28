@@ -7,5 +7,3 @@ Luxurious and beautiful, the Westin Savannah Harbor Golf Resort and Spa will mak
 
 **Contributors**
 December 10, 2008
-new
-by [latravelgirl](/member/latravelgirl)

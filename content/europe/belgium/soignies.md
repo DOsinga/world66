@@ -1,0 +1,4 @@
+---
+title: "Soignies"
+type: location
+---

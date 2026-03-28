@@ -17,8 +17,6 @@ An incredible array of restaurants are on the menu, offering new dining concepts
 
 **Contributors**
 May 21, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Shopping centers and malls
 
@@ -33,5 +31,3 @@ url: [www.townsquarelasvegas.com](http://www.townsquarelasvegas.com)
 address: 6605 Las Vegas Blvd. South
 
 email: ktrujillo@turnberry.com
-
-[back to Shopping](..)

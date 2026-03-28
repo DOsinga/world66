@@ -18,8 +18,6 @@ Taxi service and rental cars are available at the airports. Taxi Rates are $60 f
 
 **Contributors**
 October 27, 2005
-change
-by [iszatmary](/member/iszatmary)
 
 ### Driving Directions
 

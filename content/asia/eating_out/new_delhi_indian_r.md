@@ -30,5 +30,3 @@ url: [www.restaurantnewdelhi.com](http:// www.restaurantnewdelhi.com)
 address: #070 Mondol 1, Svaydangkum Commune, Siem Reap
 
 email: newdelhiindianrest@yahoo.co.in
-
-[back to Eating Out](..)

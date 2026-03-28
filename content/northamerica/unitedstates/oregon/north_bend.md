@@ -1,12 +1,8 @@
 ---
-title: "North Bend Travel Guide"
+title: "North Bend"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 We would lkie to add our hotel in your directory listing.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 07:42

@@ -10,8 +10,6 @@ This is one of Cleveland's most well known vintage shops. It is the perfect plac
 
 **Contributors**
 April 08, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Antiques
 
@@ -20,5 +18,3 @@ type: Antiques
 tel: (216) 939-9933
 
 address: 11508 Clifton Blvd.
-
-[back to Shopping](..)

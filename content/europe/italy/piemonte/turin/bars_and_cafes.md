@@ -39,5 +39,3 @@ Turin also offers other unique venues like the Combal.0 with its famous “cyber
 
 **Contributors**
 February 10, 2010
-new
-by [sameera kumar](/member/sameera_kumar)

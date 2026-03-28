@@ -8,13 +8,5 @@ Westminster is a district within the City of Westminster in London. It is the lo
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

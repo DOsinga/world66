@@ -15,8 +15,6 @@ For intercity service, depend on intercity carriers.
 
 **Contributors**
 November 04, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 ### [See Sight Tours](/northamerica/canada/ontario/niagrafalls/getting_around/see_sight_tours)
 

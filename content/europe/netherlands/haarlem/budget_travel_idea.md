@@ -24,5 +24,3 @@ When taking in all the interesting places throughout the city, you do not have t
 
 **Contributors**
 March 17, 2010
-new
-by [turkeyfish](/member/turkeyfish)

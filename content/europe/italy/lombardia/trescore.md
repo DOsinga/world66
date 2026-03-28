@@ -1,0 +1,4 @@
+---
+title: "Trescore"
+type: location
+---

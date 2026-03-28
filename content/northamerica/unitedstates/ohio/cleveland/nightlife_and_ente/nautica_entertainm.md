@@ -11,8 +11,6 @@ This place is unbelievablely large and eclectic in variety of things to do. It i
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Clubs and dancing
 
@@ -23,5 +21,3 @@ tel: 216.861.4080
 url: [www.nauticaflats.com](http://www.nauticaflats.com/)
 
 address: 1231 Main Avenue
-
-[back to Nightlife and Entertainment](..)

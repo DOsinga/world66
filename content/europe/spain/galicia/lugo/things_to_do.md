@@ -11,7 +11,4 @@ areas are: Plaza del Campo and nearby: Rúa da Cruz, Rúa Nova, Rúa
 Catedral. Recatelo: Near the Rosalía de Castro park. Zona de Milagrosa:
 in the north of the city. Campo Castelo: behind the city hall.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections on 11 March 05

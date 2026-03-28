@@ -1,9 +1,9 @@
 ---
-title: "Hjo Travel Guide"
+title: "Hjo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The "wooden town", as it is sometimes called, is certainly one of the finest environments ever created in Sweden. Today only a few still exist and Hjo is one of them.
 
@@ -15,7 +15,3 @@ Visiting Hjo, and walking in its narrow alleyways, is like taking a trip back in
 
 Hjo expanded rather quickly during the latter half of the 19th century, which has given the town its special character.
 The harbour, railway and the spa are typical examples from that time.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 14:35

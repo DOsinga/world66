@@ -11,8 +11,6 @@ Find Novascotia festivals information listed below
 
 **Contributors**
 August 07, 2005
-change
-by [reen](/member/reen)
 
 ### [Chester Race Week](/northamerica/canada/novascotia/festivals/chester_race_week)
 

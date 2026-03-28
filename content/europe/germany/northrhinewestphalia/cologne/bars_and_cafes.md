@@ -21,5 +21,3 @@ Other Cologne bars and cafes that are popular include the Fassbender, Fromme, Ja
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

@@ -7,5 +7,3 @@ Little Harbor, Abaco is a great island. It's situated around a cute little cryst
 
 **Contributors**
 September 06, 2005
-new
-by [jessica fickett](/member/jessica_fickett)

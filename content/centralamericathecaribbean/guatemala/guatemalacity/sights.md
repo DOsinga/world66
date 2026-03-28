@@ -12,5 +12,3 @@ Modern Guatemala City is a bustling, fast-paced growing city that contributes to
 [Hotspots](/centralamericathecaribbean/guatemala/guatemalacity/sights?subsection=Hotspots)
 
 [Churches](/centralamericathecaribbean/guatemala/guatemalacity/sights?subsection=Churches)
-
--->

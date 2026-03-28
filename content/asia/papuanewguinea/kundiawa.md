@@ -1,0 +1,4 @@
+---
+title: "Kundiawa"
+type: location
+---

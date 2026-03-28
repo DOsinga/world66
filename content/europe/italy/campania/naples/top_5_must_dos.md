@@ -38,5 +38,3 @@ Royal Palace Hours: 9 a.m. to 8 p.m. (closed Wednesdays) Cost: 4.20 Euros Church
 
 **Contributors**
 September 21, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

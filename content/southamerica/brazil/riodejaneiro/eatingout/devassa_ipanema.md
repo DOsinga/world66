@@ -11,8 +11,6 @@ Having come straight from some of London´s best pubs, you coulda say the stakes
 
 **Contributors**
 August 27, 2007
-change
-by [mikehartigan](/member/mikehartigan) (2 points)
 
 type: South American
 
@@ -25,5 +23,3 @@ tel: (21)2522-0627
 url: [www.devassa.com.br](http://www.devassa.com.br)
 
 address: Rua Prudente de Morais 416, Ipanema
-
-[back to Eating Out](..)

@@ -34,8 +34,6 @@ So as the saying goes “If you do only one thing…” in St Louis make sure it
 
 **Contributors**
 March 25, 2007
-change
-by [jimshady](/member/jimshady) (2 points)
 
 type: Landmarks
 
@@ -50,5 +48,3 @@ openingHours: The Gateway Arch and Museum of Westward Expansion are open daily f
 url: [www.nps.gov](http://www.nps.gov/jeff/planyourvisit/hours.htm)
 
 address: 11 North 4th Street, St. Louis, Missouri 63102.
-
-[back to Sights](..)

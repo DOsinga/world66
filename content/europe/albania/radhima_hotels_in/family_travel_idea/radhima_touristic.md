@@ -11,8 +11,6 @@ Radhima Touristic Village is located in Radhime Vlora Albania the most beautiful
 
 **Contributors**
 October 10, 2010
-new
-by [edialtour](/member/edialtour)
 
 
 
@@ -23,5 +21,3 @@ url: [www.hotels-in-vlora.com](http://www.hotels-in-vlora.com)
 address: Radhima Beach, Dhermi, Vlora, Albania
 
 email: info@edialtour.com
-
-[back to Family Travel Ideas](..)

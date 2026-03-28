@@ -15,6 +15,4 @@ E-mail : cubacafe34000@webfrance.fr Internet : www.webfrance.fr/cuba-cafe.htm
 
 RESTAURANT MUSICAL A SPECIALITES 
 
-Specialties : exotic food from the Carribean 140 seats 
-
--->
+Specialties : exotic food from the Carribean 140 seats

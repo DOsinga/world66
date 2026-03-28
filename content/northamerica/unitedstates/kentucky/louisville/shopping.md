@@ -7,5 +7,3 @@ If you plan on doing some shopping while in Louisville, be sure to check out the
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

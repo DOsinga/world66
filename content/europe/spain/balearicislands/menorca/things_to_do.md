@@ -13,8 +13,6 @@ The hour-long and rising hike to the top takes you to one of Menorca’s highest
 
 **Contributors**
 December 06, 2009
-new
-by [sa kachi](/member/sa_kachi)
 
 ### [Punta Nati's Lighthouse](/europe/spain/balearicislands/menorca/things_to_do/punta_natis_light)
 

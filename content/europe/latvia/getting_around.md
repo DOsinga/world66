@@ -20,5 +20,3 @@ professional athletes.
 
 **Contributors**
 May 24, 2009
-new
-by [active travel latvia](/member/active_travel_latvia)

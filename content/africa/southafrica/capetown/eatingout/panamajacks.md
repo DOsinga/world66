@@ -23,5 +23,3 @@ tel: (021) 447 3992
 url: [www.panamajacks.net](http://www.panamajacks.net)
 
 email:
-
-[back to Eating Out](..)

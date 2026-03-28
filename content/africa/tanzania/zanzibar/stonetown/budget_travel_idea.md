@@ -16,7 +16,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Zanzibar Hotel Malindi Guest House
 Stone Town
@@ -44,7 +44,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Rooms are quite spacious and very well furnished,
 self contained with ceiling fan and AC. There is a lot of tradition Zanzibar furniture and

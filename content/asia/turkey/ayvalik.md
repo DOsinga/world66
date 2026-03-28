@@ -1,0 +1,4 @@
+---
+title: "Ayvalik"
+type: location
+---

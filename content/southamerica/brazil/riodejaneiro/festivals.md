@@ -12,5 +12,3 @@ The Copacobana beach is also is home to Rio's famous New Year's celebration. It 
 **Carnival**
 
 Carnival in Rio is the only real Carnival. Everybody is out dancing in the streets. Participants plan (and save up for) their colorful exquisite costumes for a year (though some costumes seem to be little more than glitter and one or two sequins). The best costumes can be seen on Sunday and Monday of Carnival week in the specially constructed SAMBÓDROMO(in downtown -- subway station Praça Onze). The shows start at 8 pm and continue until 8 am! Buy your tickets well in advance. Carnival is a must—at least once in a lifetime. [more..](/southamerica/brazil/riodejaneiro/festivals/carnival)
-
--->

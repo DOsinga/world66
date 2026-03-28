@@ -2,8 +2,6 @@
 title: "Sights"
 type: section
 type: "general"
-latitude: 39.788474
-longitude: -92.929598
 ---
 
 Beautiful sights await you- the breathtaking Victoria Falls, the rushing Zambeze River, and much more!

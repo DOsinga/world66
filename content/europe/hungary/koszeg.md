@@ -1,0 +1,4 @@
+---
+title: "Koszeg"
+type: location
+---

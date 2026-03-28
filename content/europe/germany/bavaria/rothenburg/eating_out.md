@@ -94,5 +94,3 @@ address: Galgengasse 26
 tel: +49 9861 - 6760
 
 zipcode: 91541 Rothenburg o.d.T.
-
--->

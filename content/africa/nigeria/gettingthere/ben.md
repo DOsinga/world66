@@ -36,5 +36,3 @@ type: By Air
 
 
 email: benade12@aol.com
-
-[back to Getting There](..)

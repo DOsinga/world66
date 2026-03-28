@@ -27,9 +27,5 @@ Try o Tripeiro, an affordable spot by the waterfront that offers great salads an
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

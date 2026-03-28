@@ -17,7 +17,4 @@ you wish to stay on Fremont Street, your best bet would be to stay in
 the Golden Nugget hotel or in the Plaza hotel, the only hotel on
 Fremont Street that has pool amenities.
 
-**Change history**
-Orginal article by [giorgio](/member/giorgio) on 17 March 05
-
 type: Squares

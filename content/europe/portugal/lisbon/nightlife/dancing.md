@@ -1,16 +1,13 @@
 ---
 title: "Dancing"
 type: poi
-latitude: 38.700472
-longitude: -9.260519
 ---
 
 **Place to go outs**
 
 **T-Clube **
 
-Dress to impress and make sure you’re on time during the weekends. On Thursday evenings, a funky dancing night. On Wednesdays often live easy listening music.
- 
+Dress to impress and make sure you’re on time during the weekends. On Thursday evenings, a funky dancing night. On Wednesdays often live easy listening music. 
 
 address: Av. Brasilia, Ed. Espelho d'Água
 
@@ -18,8 +15,7 @@ tel: +35 21 301 66 54
 
 **Gartejo **
 
-Night-club number one in Lisbon that has the longest bar in town and is known for its live performances.
- 
+Night-club number one in Lisbon that has the longest bar in town and is known for its live performances. 
 
 address: R. João Oliveira Miguens 38
 
@@ -27,8 +23,7 @@ tel: +35 21 395 59 77
 
 **Bugix **
 
-When you want to be sure that you’ll get in, be there around midnight. Especially in the weekends, a lot of Salsa and Latin groovy beats.
- 
+When you want to be sure that you’ll get in, be there around midnight. Especially in the weekends, a lot of Salsa and Latin groovy beats. 
 
 address: Rua D. Fuas Roupinho, Parque das Nações
 
@@ -36,9 +31,7 @@ tel: +35 21 895 181
 
 **Benzina **
 
-Different type of music on different nights, Especially in the weekends, stress on techno.
- After 4am, often underground music.
- 
+Different type of music on different nights, Especially in the weekends, stress on techno. After 4am, often underground music. 
 
 address: Tv. Teixeira Júnior 6
 
@@ -64,8 +57,7 @@ tel: +35 21 395 45 45
 
 **Banana Power **
 
-Salsa and Morna and a favourite with the African crowd.
- 
+Salsa and Morna and a favourite with the African crowd. 
 
 address: R. Cascais 53
 
@@ -81,8 +73,7 @@ tel: +35 21 795 42 93
 
 **Abs**
 
-Disco with huge restaurant and 80s music.
- 
+Disco with huge restaurant and 80s music. 
 
 address: R. Dom Luís I 5
 
@@ -90,8 +81,7 @@ tel: +35 21 395 50 09
 
 **Ad Lib**
 
-Plenty of oriental details and an in their 30s/40s crowd. 
- 
+Plenty of oriental details and an in their 30s/40s crowd.  
 
 address: R. Barata Salgueiro
 
@@ -99,8 +89,7 @@ tel: +35 21 356 17 17
 
 ** Discoteca 2001 **
 
-Trendy disco with the latest hits and the best good old favourites.
- 
+Trendy disco with the latest hits and the best good old favourites. 
 
 address: Est. Nacional 9
 
@@ -108,8 +97,7 @@ tel: +35 21 469 05 50
 
 **Kremlin **
 
-Techno music beat and the most eccentric people in town gather here during weekends to dance until the early mornings. 
- 
+Techno music beat and the most eccentric people in town gather here during weekends to dance until the early mornings.  
 
 address: Escadinhas Praia 5
 

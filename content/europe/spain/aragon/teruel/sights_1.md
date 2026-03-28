@@ -3,16 +3,12 @@ title: "Sights in Teruel"
 type: location
 address: "Plaza  de la Catedral,"
 type: "Churches and Cathedrals"
-latitude: 23.140877
-longitude: -82.351644
 ---
 
 Teruel is not large for a provincial capital but its sights are not far apart and generally you will be OK on foot.
 
 **Contributors**
 May 02, 2005
-new
-by [davidx](/member/davidx)
 
 ### [Cathedral](/europe/spain/aragon/teruel/sights_1/cathedral_1)
 

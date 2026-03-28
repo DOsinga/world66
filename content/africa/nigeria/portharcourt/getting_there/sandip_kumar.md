@@ -22,5 +22,3 @@ tel: 09255224945
 address: VPO-DURJANPUR, HISAR,HARYANA,INDIA
 
 email: sandipkumarbaloda@yahoo.com
-
-[back to Getting There](..)

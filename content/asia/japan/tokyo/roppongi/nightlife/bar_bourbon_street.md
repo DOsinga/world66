@@ -1,0 +1,55 @@
+---
+title: "Bar Bourbon Street"
+type: poi
+accessibility: "5 mins from Roppongi Stn."
+address: "7-8-16 Roppongi, Minato ku"
+closing_time: "6pm to 2am Tues to Sat"
+phone: "03 5786 2887"
+type: "Jazz"
+url: "www.bourbonstreet-tokyo.com"
+---
+
+Bar Bourbon Street is an intimate N'Orleans style blues bar with free live music every night. Not at all like the rest of Roppongi, it's a very laid back kind of comfortable neighborhood bar. 20 kinds of wines by the glass, about 35 brands of bourbon, regular N'Orleans cocktails like Hurricanes & Sazeracs and also Cuban cigars !! Live blues or Dixieland jazz everynight with no cover charge makes it a great place to chill. The colourfull owner adds to the charm. Let the good times roll....
+
+**Contributors**
+September 18, 2006
+
+type: Jazz
+
+
+
+
+
+ClosingTime: 6pm to 2am Tues to Sat
+
+tel: 03 5786 2887
+
+url: [www.bourbonstreet-tokyo.com](http://www.bourbonstreet-tokyo.com)
+
+accessibility: 5 mins from Roppongi Stn.
+
+address: 7-8-16 Roppongi, Minato ku
+
+##
+
+-
+
+-
+
+-
+
+[](/lib/map/handle?loc=asia|northeastasia|japan)
+
+[](/lib/map/handle?loc=asia|northeastasia|japan|tokyo|roppongi)
+
+- - |
+- |
+- |
+- |
+
+[](http://creativecommons.org/licenses/by-sa/1.0/)
+
+This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
+For more information read our
+
+[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

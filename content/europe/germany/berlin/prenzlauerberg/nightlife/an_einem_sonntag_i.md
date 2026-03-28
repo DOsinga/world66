@@ -8,8 +8,6 @@ email: "deacondunlop@gmx.de"
 phone: "4405 1228"
 type: "Clubs and dancing"
 url: "www.an-einem-sonntag-im-august.de"
-latitude: 52.5401
-longitude: 13.41159
 ---
 
 There are partys every Saturday night in An einem Sonntag im August in Berlin Prenzlauer Berg. This is new since July 2006. Always a different DJ and always a lot of alcohol. Klo DJ April Day, if you like to dance then get 10 people together, go there, and start the party. Samstags im Sonntag. Thursdays is usually live music. Entrance is Free.
@@ -31,5 +29,3 @@ accessibility: U2 Eberswalder Str.
 address: Kastanienallee 103
 
 email: deacondunlop@gmx.de
-
-[back to Nightlife and Entertainment](..)

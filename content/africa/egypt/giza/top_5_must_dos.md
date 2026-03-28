@@ -29,5 +29,3 @@ Once you've seen all that you want of the Giza Plateau, you can head back out on
 
 **Contributors**
 August 08, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

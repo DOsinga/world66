@@ -1,0 +1,4 @@
+---
+title: "Szekesfehervar"
+type: location
+---

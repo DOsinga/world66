@@ -16,5 +16,3 @@ address: La Fontana
 Velletri (RM)
 
 url: [www.nethousecafes.com](http://www.nethousecafes.com)
-
-[back to Internet Cafes](..)

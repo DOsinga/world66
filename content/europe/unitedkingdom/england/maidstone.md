@@ -1,0 +1,4 @@
+---
+title: "Maidstone"
+type: location
+---

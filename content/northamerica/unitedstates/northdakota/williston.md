@@ -1,12 +1,8 @@
 ---
-title: "Williston Travel Guide"
+title: "Williston"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Northern North Dakota City
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 12:31

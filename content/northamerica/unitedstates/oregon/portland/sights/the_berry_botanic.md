@@ -12,8 +12,6 @@ The Berry Botanic Garden could best be described as a ‘living museum’, in th
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Parks, Gardens and Zoos
 
@@ -26,5 +24,3 @@ url: [www.berrybot.org](http://www.berrybot.org/)
 address: 11505 Southwest Summerville Avenue Portland, OR 97219
 
 email: register@berrybot.org
-
-[back to Sights](..)

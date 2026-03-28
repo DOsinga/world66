@@ -14,5 +14,3 @@ type: Marriage
 
 
 address: 200 S. 3rd Street, 1st floor, Las Vegas, NV 89155-1601
-
-[back to Things to do](..)

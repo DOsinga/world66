@@ -10,8 +10,6 @@ This museum is a little out of the way, but it is a must see for all visitors to
 
 **Contributors**
 May 22, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -20,5 +18,3 @@ type: Other
 tel: +39 06 5926041
 
 address: The City of Esposizione Universale Roma (EUR)
-
-[back to Things to do](..)

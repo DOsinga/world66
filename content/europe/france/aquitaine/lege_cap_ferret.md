@@ -1,8 +1,6 @@
 ---
 title: "Lege Cap Ferret"
 type: location
-latitude: 44.795105
-longitude: -1.14721
 ---
 
 The "presqu'ile" of Lege Cap Ferret has the finest beaches in the south

@@ -8,5 +8,3 @@ Decked out like a homestead in the Hungarian countryside, the Rab Ráby is clutt
 address: Kucsera Ferenc u. 1
 
 tel: 310 819
-
--->

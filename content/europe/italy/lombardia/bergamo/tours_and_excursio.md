@@ -6,10 +6,7 @@ url: "www.zaniviaggi.it"
 
 The Brembana and Serianna Valleys and the Orobica Mountains are gorgeous. So are the Lakes of Sarnico, Garda, Como and Lecco. Or just have a walk around Città Alta or a tour of the town.
 
-**Change history**
-Orginal article by [karenbru](/member/karenbru) on 30 May 05
-
-Minor corrections by [karenbru](/member/karenbru) on 10 June 05
+Minor corrections on 10 June 05
 
 ### City Tours
 

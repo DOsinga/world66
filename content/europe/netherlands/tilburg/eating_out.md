@@ -3,24 +3,20 @@ title: "Eating Out"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[African](/europe/netherlands/tilburg/eatingout/african)
-[Argentinian](/europe/netherlands/tilburg/eatingout/argentinian)
-[Chinese](/europe/netherlands/tilburg/eatingout/chinese)
-[Dutch](/europe/netherlands/tilburg/eatingout/dutch)
-[French / Belgian](/europe/netherlands/tilburg/eatingout/frenchbelgian)
-[Greek](/europe/netherlands/tilburg/eatingout/greek)
+[French / Belgian](/europe/netherlands/tilburg/eatingout?subsection=French%20/%20Belgian)
+[Indian / Pakistani](/europe/netherlands/tilburg/eatingout?subsection=Indian%20/%20Pakistani)
+[Spanish / Portuguese](/europe/netherlands/tilburg/eatingout?subsection=Spanish%20/%20Portuguese)
+[Argentinian](/europe/netherlands/tilburg/eatingout?subsection=Argentinian)
+[Indonesian](/europe/netherlands/tilburg/eatingout?subsection=Indonesian)
 
-[Indian / Pakistani](/europe/netherlands/tilburg/eatingout/indianpakistani)
-[Indonesian](/europe/netherlands/tilburg/eatingout/indonesian)
-[International](/europe/netherlands/tilburg/eatingout/international)
-[Italian](/europe/netherlands/tilburg/eatingout/italian)
-[Japanese](/europe/netherlands/tilburg/eatingout/japanese)
-[Lunch room](/europe/netherlands/tilburg/eatingout/lunchroom)
+[Vegetarian](/europe/netherlands/tilburg/eatingout?subsection=Vegetarian)
+[International](/europe/netherlands/tilburg/eatingout?subsection=International)
+[Lunch room](/europe/netherlands/tilburg/eatingout?subsection=Lunch%20room)
+[Italian](/europe/netherlands/tilburg/eatingout?subsection=Italian)
 
-[Mexican](/europe/netherlands/tilburg/eatingout/mexican)
-[Spanish / Portuguese](/europe/netherlands/tilburg/eatingout/spanishportuguese)
-[Surinamese](/europe/netherlands/tilburg/eatingout/surinamese)
-[Thai](/europe/netherlands/tilburg/eatingout/thai)
-[Vegetarian](/europe/netherlands/tilburg/eatingout/vegetarian)
+[Chinese](/europe/netherlands/tilburg/eatingout?subsection=Chinese)
+[Mexican](/europe/netherlands/tilburg/eatingout?subsection=Mexican)
+[Thai](/europe/netherlands/tilburg/eatingout?subsection=Thai)
+[Greek](/europe/netherlands/tilburg/eatingout?subsection=Greek)

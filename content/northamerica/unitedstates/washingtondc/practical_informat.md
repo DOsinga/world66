@@ -35,5 +35,3 @@ type: section
 
 **Contributors**
 July 30, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

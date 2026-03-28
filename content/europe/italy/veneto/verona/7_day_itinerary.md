@@ -44,19 +44,4 @@ now almost lost in the midst much younger buildings, this 1st century arch was o
 
 Visit the Chiesa di San Lorenzo, a 12th century church now very
 difficult to find in a maze of close-built houses. It also contains an
-older church which dates back to around the 5th century.
-
-**Day Five**
-
-Visit the Piazza dei Signori and the house of Piety, and the Arche
-Scaligere. The arches date from the fourteenth century and contain
-statues of the Scala families. Be sure to bring walking boots for this
-trip, as there’s a lot to see.
-
-**Day Six**
-
-Visit the porta Leoni, a dry ancient dockyard in the middle of a range of shops, and cobbles. The view is amazing.
-
-**Day Seven**
-
-Visit the Chiesa di San Fermo, an 8th century temple which is still one of the most amazing sights in Verona.
+older church which dates

@@ -14,5 +14,3 @@ type: Steakhouses
 
 
 address: 990 N. Rush
-
-[back to Eating Out](..)

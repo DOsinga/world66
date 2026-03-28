@@ -74,8 +74,6 @@ educational.”
 
 **Contributors**
 May 23, 2006
-new
-by [resqbrett](/member/resqbrett) (1 point)
 
 [](http://www.amazon.com/exec/obidos/ASIN/09672120-8-1/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -84,5 +82,3 @@ by [resqbrett](/member/resqbrett) (1 point)
 author: Matthew Karanian, Robert Kurkjian
 
 isbn: 09672120-8-1
-
-[back to Books](..)

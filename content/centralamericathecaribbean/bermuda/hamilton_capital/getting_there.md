@@ -37,5 +37,3 @@ remote areas of the island.
 
 **Contributors**
 February 15, 2010
-new
-by [kat99](/member/kat99)

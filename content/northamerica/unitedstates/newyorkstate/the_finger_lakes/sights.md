@@ -7,8 +7,6 @@ Accomodations
 
 **Contributors**
 October 15, 2007
-new
-by [heatherz](/member/heatherz)
 
 We currently have no Sights listed in The Finger Lakes.
 

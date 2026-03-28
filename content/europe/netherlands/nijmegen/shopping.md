@@ -40,5 +40,3 @@ Whether you’re into antiques or trendy clothes, old buildings or modern struct
 
 **Contributors**
 February 09, 2010
-change
-by [schitti](/member/schitti)

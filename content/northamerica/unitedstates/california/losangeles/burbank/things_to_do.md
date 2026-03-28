@@ -16,5 +16,3 @@ Warner Bros. Studios VIP Tour is an insider's look at one of Hollywood's busiest
 
 
 The VIP tour begins [more..](/northamerica/unitedstates/california/losangeles/burbank/thingstodo/warnerbrosstudiotour)
-
--->

@@ -26,5 +26,3 @@ url: [www.dartassa.com](http://www.dartassa.com)
 address: Tassa Ouirgane ,Marigha par Asni Marrakech
 
 email: info@dartassa.com
-
-[back to Things to do](..)

@@ -19,5 +19,3 @@ If you're looking to visit the Gulf of Naples islands or the Amalfi coast, there
 
 **Contributors**
 April 19, 2010
-new
-by [suegabel](/member/suegabel)

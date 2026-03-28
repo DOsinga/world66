@@ -1,9 +1,9 @@
 ---
-title: "Vidoy Travel Guide"
+title: "Vidoy"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Vidoy is a beautiful island reached by causeway from Bordoy.
 
@@ -12,11 +12,3 @@ It contains the village of Viðareiði, where the road ends, a mountainous cirqu
 The peninsula here is narrow enough, however, for it to be easily feasible to walk to coasts on each side. One gives a view of Svinoy and Fugloy, reached by ferry from the larger village of Havassund, near the causeway to Bordoy. Here the waves are notable even on a peaceful day. The other side is far more padeful and contains the church, where there is a silver plate donated by the UK Government in the 19th century as thanks for the community's care of British sailors rescued from a wreck.
 
 Viðareiði has a hotel and a restaurant serving meals and drinks.
-
-#### Contributors
-
-August 06, 2008 new by [davidx](/member/davidx) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 16:07

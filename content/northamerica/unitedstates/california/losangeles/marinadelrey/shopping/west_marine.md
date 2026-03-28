@@ -10,8 +10,6 @@ Nautical store has ocean maps, boating nessecities and accessories, clothing and
 
 **Contributors**
 March 11, 2008
-new
-by [marinagal](/member/marinagal)
 
 type: Speciality shops
 
@@ -20,5 +18,3 @@ type: Speciality shops
 tel: 310/823-5357 or 310/578-5999
 
 address: 4750 Admiralty & 13555 Fiji Way
-
-[back to Shopping](..)

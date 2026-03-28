@@ -17,5 +17,3 @@ Nightlife usually starts very late in Berlin. While some people are already drea
 [Theatre](/europe/germany/berlin/berlinmitte/nightlife?subsection=Theatre)
 
 [Jazz](/europe/germany/berlin/berlinmitte/nightlife?subsection=Jazz)
-
--->

@@ -4,16 +4,12 @@ type: section
 address: "Kungstorget 4"
 phone: "+46 522 - 99720"
 type: "Tourist information"
-latitude: 57.703643
-longitude: 11.967078
 ---
 
 Miscellaneous practical info.
 
 **Contributors**
 June 08, 2006
-new
-by [ewolf](/member/ewolf)
 
 ### [Turistbyrån](/europe/sweden/uddevalla/practical_informat/turistbyrn)
 

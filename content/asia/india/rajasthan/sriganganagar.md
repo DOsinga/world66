@@ -1,0 +1,4 @@
+---
+title: "Sriganganagar"
+type: location
+---

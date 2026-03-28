@@ -20,8 +20,6 @@ Rotter craft beer.
 
 **Contributors**
 January 06, 2009
-new
-by [liamodena](/member/liamodena)
 
 type: Pubs
 
@@ -36,5 +34,3 @@ url: [www.saturnino.com.br](http://www.saturnino.com.br)
 address: Saturnino de Brito, 50
 
 email: contato@saturnino.com.br
-
-[back to Nightlife and Entertainment](..)

@@ -12,16 +12,10 @@ And believe it or not, you will also come across a wide variety of eateries that
 
 **Contributors**
 January 03, 2006
-new
-by [ripple](/member/ripple)
 
 February 24, 2006
-new
-by [warzabidul](/member/warzabidul)
 
 May 17, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Hampton Court Palace](/europe/unitedkingdom/england/london/day_trips/hampton_court_pala)
 

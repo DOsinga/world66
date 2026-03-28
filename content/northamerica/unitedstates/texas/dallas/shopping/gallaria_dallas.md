@@ -23,5 +23,3 @@ url: [www.galleriadallas.com](http://www.galleriadallas.com/)
 address: I-635 LBJ at Dallas North Tollway
 
 email:
-
-[back to Shopping](..)

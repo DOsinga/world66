@@ -7,5 +7,3 @@ If you're looking to do a little Raleigh shopping, you have to go to Crabtree Va
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

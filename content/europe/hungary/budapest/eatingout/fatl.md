@@ -8,7 +8,3 @@ Fatâl actually means 'wooden platter', which is how most dishes are presented t
 address: Váci u. 67
 
 tel: 266-2607, 266-2608
-
-[back to Eating Out](..)
-
--->

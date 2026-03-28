@@ -8,8 +8,6 @@ email: "ilcovo@ilcovo.net"
 phone: "254 41 5487481"
 type: "Clubs and dancing"
 url: "www.ilcovo.net"
-latitude: -3.990605
-longitude: 39.737289
 ---
 
 Il Covo - Italian and Japanese Restaurant
@@ -17,8 +15,6 @@ Il Covo - Italian and Japanese Restaurant
 
 **Contributors**
 May 11, 2007
-new
-by [kenyabay](/member/kenyabay)
 
 type: Clubs and dancing
 
@@ -37,5 +33,3 @@ accessibility: Very Accessible!
 address: Bamburi beach
 
 email: ilcovo@ilcovo.net
-
-[back to Nightlife and Entertainment](..)

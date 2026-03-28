@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**all**
 
 **A Small Place**
 
@@ -36,14 +36,6 @@ subject: travel
 [](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
 
 subject: travel
-
-**cultura mixteca**
-
-dibujo mexicanos 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-subject: culture
 
 **Legitimate Acts and Illegal Encounters:Law and Society in Antigua and Barbuda**
 

@@ -10,8 +10,6 @@ Located in the lower Mississippi Valley and around 23 miles from New Orleans is 
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -20,5 +18,3 @@ tel: 985-764-9315
 url: [www.destrehanplantation.org](http://www.destrehanplantation.org)
 
 address: 13034 River Road, Destrehan LA
-
-[back to Day Trips](..)

@@ -25,5 +25,3 @@ The cheapest excursion for travelers in Saranda is the beach because it costs no
 
 **Contributors**
 March 16, 2010
-change
-by [shomer](/member/shomer)

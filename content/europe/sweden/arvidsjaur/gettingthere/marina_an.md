@@ -9,13 +9,9 @@ Skyways, who is connected to Star Alliance, have daily flights to Arvidsjaur. Fl
 
 **Contributors**
 February 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
 
 
 
 url: [www.skyways.se](http://www.skyways.se)
-
-[back to Getting There](..)

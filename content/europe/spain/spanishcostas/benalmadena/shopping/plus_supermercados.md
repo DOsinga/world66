@@ -9,7 +9,5 @@ This is an excellent supermarket with very cheap prices that stocks a lot of thi
 
 **Contributors**
 August 04, 2005
-change
-by [reen](/member/reen)
 
 type: Shopping centers and malls

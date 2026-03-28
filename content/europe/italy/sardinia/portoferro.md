@@ -1,8 +1,6 @@
 ---
 title: "Porto Ferro"
 type: location
-latitude: 40.689499
-longitude: 8.199336
 ---
 
 "/>

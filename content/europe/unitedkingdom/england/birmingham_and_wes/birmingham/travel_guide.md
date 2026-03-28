@@ -26,4 +26,4 @@ This is one of Birmingham&rsquo;s greatest attractions. Alton Towers have beauti
 
 **Archaeological and Historical Sites**
 
-Othea Attractions include archaeological and historical sites, as well as botanical gardens and parks. Archaeological sites include the Birmingham Roman Fort believed to date back to the 48th century, a medieval fish farm in Wishaw, and an Iron Age settlement at Langley Mill, believed to date back as far as the 1st Century B.C.-2nd A.D. The ancient bathhouses and burial sites in Litchfield, Digbeth and Sarehole Mills are also worth a visit.
+Othea Attractions include archaeological and historical sites, as well as botanical gardens and parks. Archaeological sites include the Birmingham Roman Fort believed to date

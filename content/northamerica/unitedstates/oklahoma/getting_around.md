@@ -7,8 +7,6 @@ Oklahoma is great for automobile travel. With 48 towns and cities on Historic [R
 
 **Contributors**
 December 18, 2006
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Get Your Kicks on Historic Route 66](/northamerica/unitedstates/oklahoma/getting_around/get_your_kicks_on)
 

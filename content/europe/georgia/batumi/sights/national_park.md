@@ -3,8 +3,6 @@ title: "National Park"
 type: poi
 address: "Mtirala"
 type: "Parks, Gardens and Zoos"
-latitude: 41.657778
-longitude: 41.800308
 ---
 
 Mtirala's national Park
@@ -14,13 +12,9 @@ Today the Mtirala National Park is model protected area in Georgia, that combine
 
 **Contributors**
 February 23, 2010
-new
-by [batumiren](/member/batumiren)
 
 type: Parks, Gardens and Zoos
 
 
 
 address: Mtirala
-
-[back to Sights](..)

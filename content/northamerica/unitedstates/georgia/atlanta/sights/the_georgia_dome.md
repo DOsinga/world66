@@ -8,13 +8,5 @@ The Georgia Dome is home to the Atlanta Falcons football team. The Georgia Dome 
 
 **Contributors**
 April 14, 2008
-new
-by [waterfalls](/member/waterfalls)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

@@ -23,8 +23,4 @@ Brescia&rsquo;s lay-out is quite peculiar, handed down from the Roman times. The
 
 #### Main Attractions in Brescia
 
-With its history that dates back to 4th century BC, Brescia is filled with numerous notable historical landmarks including those that were left during the Roman era. There are several cathedrals in the city that showcases the Roman influence including the Duomo Vecchio and Duomo Nuovo. The Piazza del Foro is another Roman development and is considered to be the most important array of Roman remains in Lombardy.
-
-One can also see several footprints of the Renaissance era like the Piazza della Loggia which was built in 1492 and a great example of Renaissance piazza.
-
-Aside from the architectural design of the buildings in Brescia, there are also several notable buildings that house great works from famous artists like Biblioteca Queriniana which contains 14th century manuscripts from Dante and the Church of San Clemente that houses numerous paintings from Alessandro Bonvicino, or more popularly known as Moretto.
+With its history that dates

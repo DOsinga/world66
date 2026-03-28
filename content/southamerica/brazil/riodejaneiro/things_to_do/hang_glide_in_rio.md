@@ -43,5 +43,3 @@ url: [www.flex1delta.com.br](http://www.flex1delta.com.br/)
 address: SANTA CLARA
 
 email: SMITDOG@GMAIL.COM
-
-[back to Things to do](..)

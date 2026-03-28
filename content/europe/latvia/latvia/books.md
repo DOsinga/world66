@@ -118,5 +118,3 @@ A wonderful mixture of history, travelogue, and memoire paints an accurate pictu
 isbn: 061808231X
 
 author: Eksteins, Modris
-
--->

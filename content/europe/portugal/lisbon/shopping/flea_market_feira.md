@@ -22,8 +22,6 @@ It's near Alfama and near Graça.
 
 **Contributors**
 October 15, 2006
-new
-by [tekes](/member/tekes)
 
 type: Markets
 
@@ -32,5 +30,3 @@ type: Markets
 
 
 url: [www.lisboacultural.pt](http://www.lisboacultural.pt/cgi-bin/lxcultural/F2.html?area=Feiras&tabela=feiras&genero=&datas=&dia=&mes=&ano=&numero_resultados=)
-
-[back to Shopping](..)

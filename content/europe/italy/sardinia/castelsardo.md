@@ -1,9 +1,9 @@
 ---
-title: "Castelsardo Travel Guide"
+title: "Castelsardo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Castelsardo a small medieval town situated in the
 North West of Sardinia.
@@ -29,7 +29,3 @@ Easter weekend which involves
 processions and finishing with an evening torchlight parade. The town is also
 enchanting during Christmas and New Year with concerts, parades in medieval
 costume ending in a wonderful firework display on New Years Eve.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 23:38

@@ -2,8 +2,6 @@
 title: "Terazije Street"
 type: poi
 type: "Streets"
-latitude: 44.810822
-longitude: 20.461961
 ---
 
 Terazije Street with the Moskva Hotel (1906) and the Old drinking fountain (1868).
@@ -17,9 +15,3 @@ place got its name.
 The Moskva Hotel, as the major hallmark of this area, is the only hotel in the world outside Russia that bears this name.
 
 type: Streets
-
-
-
-
-
-[back to Sights](..)

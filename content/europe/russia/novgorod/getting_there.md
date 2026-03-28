@@ -11,6 +11,4 @@ You can get to Novgorod by rail or air from [St Petersburg](/europe/russia/stpet
 
 Tours are in Russian, however the interpreters will be provided upon request. Besides, if you wish to take a tour which is in English you can joing the regular tours organized by the hotel you are staying in. Unfortunately, the ticket price will be much higher.
 
- The best prices for the tickets to Novgorod can be obtained at the Priceline.com. The connection to the site is provided at the Links section. 
-
--->
+ The best prices for the tickets to Novgorod can be obtained at the Priceline.com. The connection to the site is provided at the Links section.

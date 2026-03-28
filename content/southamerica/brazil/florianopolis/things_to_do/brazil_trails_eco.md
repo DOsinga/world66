@@ -18,5 +18,3 @@ type: Other
 url: [www.braziltrails.com](http://www.braziltrails.com)
 
 email: info@braziltrails.com
-
-[back to Things to do](..)

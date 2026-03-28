@@ -10,7 +10,3 @@ address: Schanzenstr. 53
 tel: 040 - 4396626
 
 zipcode: 20357 Hamburg - St Pauli
-
-[back to Eating Out](..)
-
--->

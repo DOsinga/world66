@@ -7,9 +7,4 @@ The **Greater Wellington** metropolitan area includes the cities of [Wellington]
 
 Also See [Wellington](/australiaandpacific/newzealand/wellington).
 
-*Change history*
-Orginal article by [Huttite](/member/huttite) on 10 January 05
-
-Minor corrections by [Huttite](/member/huttite) on 11 January 05
-
--->
+Minor corrections on 11 January 05

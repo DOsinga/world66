@@ -15,5 +15,3 @@ type: general
 tel: (609) 396-3083
 
 addres: 2 Mifflin Street
-
-[back to Eating Out](..)

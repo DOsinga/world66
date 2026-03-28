@@ -21,5 +21,3 @@ url: [www.screentours.com](http://www.screentours.com)
 address: 10 West 37 St. 10th Floor
 
 email: office@onlocationtours.com
-
-[back to Things to do](..)

@@ -1,14 +1,10 @@
 ---
-title: "Podujeva Travel Guide"
+title: "Podujeva"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Podyjeva travel guide information should be on this page.
 
 If you have something to add/edit, feel free to do so right now.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 14:58

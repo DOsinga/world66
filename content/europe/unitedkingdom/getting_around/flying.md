@@ -13,5 +13,3 @@ The key to getting a good deal is to book early. flycheapo.com offers a low-cost
 
 
 url: [www.flycheapo.com](http://www.flycheapo.com)
-
-[back to Getting Around](..)

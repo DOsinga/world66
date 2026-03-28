@@ -7,5 +7,3 @@ Belo Horizonte nightlife is comparable to Amsterdam and New York. Thousands of t
 
 **Contributors**
 September 25, 2006
-change
-by [giorgio](/member/giorgio)

@@ -15,5 +15,3 @@ type: Tourist information
 url: [hotelchoyce.com](http://hotelchoyce.com/Country/Italy.htm)
 
 address: http://hotelchoyce.com/Country/Italy.htm
-
-[back to Practical Information](..)

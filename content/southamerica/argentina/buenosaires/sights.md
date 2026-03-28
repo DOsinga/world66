@@ -10,5 +10,3 @@ type: section
 [Museums](/southamerica/argentina/buenosaires/sights?subsection=Museums)
 
 [Hotspots](/southamerica/argentina/buenosaires/sights?subsection=Hotspots)
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Moanda"
+type: location
+---

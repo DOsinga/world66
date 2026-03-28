@@ -11,5 +11,3 @@ It is always somewhere in the beginning of august.
 
 **Contributors**
 August 05, 2005
-new
-by [modir](/member/modir)

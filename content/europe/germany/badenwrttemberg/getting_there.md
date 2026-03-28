@@ -33,5 +33,3 @@ a week in advance.
 
 **Contributors**
 March 03, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

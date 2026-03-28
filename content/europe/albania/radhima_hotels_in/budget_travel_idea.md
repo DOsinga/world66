@@ -19,5 +19,3 @@ database that gives your application availability.
 
 **Contributors**
 October 10, 2010
-new
-by [edialtour](/member/edialtour)

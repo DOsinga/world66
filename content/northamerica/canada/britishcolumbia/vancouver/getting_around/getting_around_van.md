@@ -23,5 +23,3 @@ For detailed information on Vancouver attractions and getting to them by public 
 
 
 url: [vancouver.tourbytransit.com](http://vancouver.tourbytransit.com/)
-
-[back to Getting Around](..)

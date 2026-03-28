@@ -10,5 +10,3 @@ address: Piazza Cimatori 4/r, Florence
 openinghours: closed on sundays
 
 tel: +39 (0)55 - 21 41 25
-
--->

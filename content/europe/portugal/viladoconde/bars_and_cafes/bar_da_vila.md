@@ -9,13 +9,9 @@ The best bar in the Vila is the “Bar da Vila”. Visit our official site, temp
 
 **Contributors**
 September 10, 2004
-change
-by [mtl](/member/mtl)
 
 type: general
 
 
 
 zipcode: http://bardavila.web.pt/
-
-[back to Bars and Cafes](..)

@@ -54,5 +54,3 @@ Sea Life Park where you can swim with dolphins. Another one is Sandy Beach at 88
 
 **Contributors**
 August 10, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

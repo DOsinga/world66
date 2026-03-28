@@ -10,5 +10,3 @@ zipcode: 4601
 address: Box 11 Oakura New Zealand
 
 email: vomo@hotmail.com
-
--->

@@ -5,16 +5,12 @@ address: "Fort Royal"
 opening_hours: "April-September Tuesday-Sunday 10:30 a.m. - 5:45 p.m., October-March Tuesday-Sunday 10:30 a.m.-4:45 p.m."
 phone: "+33 04 93 38 55 26"
 type: "Hotspots"
-latitude: 14.602796
-longitude: -61.067672
 ---
 
 Sure Cannes has lots of eye candy on its beaches and "boulevards," but during your Cannes vacation, you will discover that this upscale city also has other sights worth exploring such as churches, hotels, islands, museums, monuments, Cannes hotels, shopping streets, and more. Continue reading through the listings to learn about some of the most popular sights to visit in Cannes!
 
 **Contributors**
 June 02, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Ile Ste-Marguerite](/europe/france/cannes/sights/ile_stemarguerite)
 

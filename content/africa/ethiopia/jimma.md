@@ -1,8 +1,6 @@
 ---
 title: "Jimma"
 type: location
-latitude: 7.675615
-longitude: 36.847878
 ---
 
 We currently have no information about Jimma.

@@ -8,5 +8,3 @@ The large collection of antique toys is brought together in a monumental house d
 address: Groene Wetering 41
 
 zipcode: 3062 PB
-
--->

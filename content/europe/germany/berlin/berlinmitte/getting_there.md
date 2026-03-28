@@ -28,5 +28,3 @@ There are many options to arrive to the Berlin Mitte borough. If you prefer to t
 
 **Contributors**
 November 29, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)

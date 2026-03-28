@@ -17,6 +17,4 @@ If you have the energy or a car, about 13 km from town, you can find Roman theat
 
 **Olive Grove to Aquaduct**
 
-In the San Francisco area, from the market outside of the Cuidad, take the road that leads out of town. After an hour, you will find yourself in a beautiful olive grove by a gurgling stream. Continue and this path will lead you to an old aqueduct.  
-
--->
+In the San Francisco area, from the market outside of the Cuidad, take the road that leads out of town. After an hour, you will find yourself in a beautiful olive grove by a gurgling stream. Continue and this path will lead you to an old aqueduct.

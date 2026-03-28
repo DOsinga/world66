@@ -19,5 +19,3 @@ classy hotels and traditional restaurants.
 
 **Contributors**
 November 18, 2007
-new
-by [go-romania-tours](/member/go-romania-tours) (1 point)

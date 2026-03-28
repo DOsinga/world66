@@ -54,5 +54,3 @@ address: Falkenhaus on Upper Market Square
 openings: Mon - Fri 10am - 6pm, Sat 10am - 2pm. Summer Sun 10am - 2pm.
 
 tel: +49 (0)931 - 37 23 98
-
--->

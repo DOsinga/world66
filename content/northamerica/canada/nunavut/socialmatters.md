@@ -45,6 +45,4 @@ A dry red riverbed under a eucalyptus in the desert ranges of Central Australia 
 
   That is the most important message for downtrodden people anywhere: Inuit have made Nunavut. Others can take courage and do it, too.
 
-  Peter Jull worked in the NWT and Nunavut on and off from 1961, and was founding co-ordinator of the Nunavut Constitutional Forum. Today he writes and teaches on Nunavut and world indigenous issues at universities from his new home in Brisbane, Australia.  
-
--->
+  Peter Jull worked in the NWT and Nunavut on and off from 1961, and was founding co-ordinator of the Nunavut Constitutional Forum. Today he writes and teaches on Nunavut and world indigenous issues at universities from his new home in Brisbane, Australia.

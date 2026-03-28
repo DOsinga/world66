@@ -1,8 +1,6 @@
 ---
 title: "Gramado"
 type: location
-latitude: -29.379286
-longitude: -50.873702
 ---
 
 A small town in the mountains. located in Rio Grande de Sol aprox. 2 hours from porto Alegre.
@@ -17,5 +15,3 @@ city and alot less crowded than the beaches.
 
 **Contributors**
 November 06, 2005
-new
-by [heshu](/member/heshu)

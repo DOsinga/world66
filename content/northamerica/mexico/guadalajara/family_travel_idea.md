@@ -23,5 +23,3 @@ This is one of the best destinations in the city for the entire family. Situated
 
 **Contributors**
 March 09, 2010
-change
-by [imran_m](/member/imran_m)

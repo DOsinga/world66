@@ -22,5 +22,3 @@ date: 13.09 2009
 address: KOVACKA 1 , DUBRVNIK
 
 email: INFO@LEPETITFESTIVAL.COM
-
-[back to Festivals](..)

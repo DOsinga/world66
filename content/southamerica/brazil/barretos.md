@@ -1,0 +1,4 @@
+---
+title: "Barretos"
+type: location
+---

@@ -15,5 +15,3 @@ Are you ready to visit Mallorca? Then don't lose any time and start by boooking 
 
 **Contributors**
 June 14, 2007
-new
-by [rosemianne](/member/rosemianne)

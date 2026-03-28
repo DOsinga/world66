@@ -27,5 +27,3 @@ Volendam is one of the most well-known tourist places in the world. It is a very
 
 **Contributors**
 March 28, 2010
-new
-by [nik.singh31](/member/nik.singh31)

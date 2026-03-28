@@ -14,11 +14,3 @@ buy anything, especially antique and folk art.
 
 **Contributors**
 August 22, 2006
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Day Trips](..)

@@ -25,5 +25,3 @@ In the spring you can visit the many gardens and parks in Montreal, or take some
 
 **Contributors**
 March 25, 2010
-new
-by [piyushjain](/member/piyushjain_)

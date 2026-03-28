@@ -11,5 +11,3 @@ http://www.lakedistrictletsgo.co.uk/townsvillagers/glenridding/glenridding_main.
 
 **Contributors**
 December 07, 2004
-new
-by [davidx](/member/davidx) (1 point)

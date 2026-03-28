@@ -1,0 +1,4 @@
+---
+title: "Cambridge"
+type: location
+---

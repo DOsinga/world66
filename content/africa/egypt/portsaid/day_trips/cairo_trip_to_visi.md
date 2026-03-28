@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Full day
 **tour** to visit Great **Cairo** and **Giza** from **Port Said** and see famous sightseeing of
@@ -45,7 +43,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary:**
 
@@ -107,7 +105,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Optional
 tours:
@@ -132,5 +130,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Day Trips](..)

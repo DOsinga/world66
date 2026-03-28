@@ -28,8 +28,4 @@ meters of area, it has the largest collection of Roman mosaic items.
 The archaeological art works of Punic and Roman era is impressive.
 Museum has three floors divided into many rooms that have nice
 collections depicting the history of Tunisia from the Stone age to the
-Islamic age. The Terracotta statue that roots back to the first century
-is preserved nicely and worth a glance. Opening hours of museum are
-from 9 am to 5 pm in summer and from 9:30 am to 4:30 pm in winter. It
-closes on Mondays and entry fee is about $3. A camera is allowed but $1
-is charged as a fee.
+Islamic age. The Terracotta statue that roots

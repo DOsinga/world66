@@ -13,8 +13,6 @@ Bus tickets are also for sale in the train station to the right before you exit
 
 **Contributors**
 May 29, 2005
-change
-by [karenbru](/member/karenbru) (2 points)
 
 type: Bus station
 
@@ -23,5 +21,3 @@ type: Bus station
 
 
 url: [www.atb.bergamo.it](http://www.atb.bergamo.it)
-
-[back to Practical Information](..)

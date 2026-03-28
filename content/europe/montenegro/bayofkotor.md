@@ -1,9 +1,9 @@
 ---
-title: "Bay of Kotor Travel Guide"
+title: "Bay of Kotor"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located in the south on the Adriatic the Bay of Kotor is one of the
 nicest areas to visit in Montenegro. For centuries this bay was the
@@ -31,14 +31,4 @@ English guide to Monte Negro by Brandt ask yourself if the author has
 ever visited the place because I don't think they ever have!
 
 This is one of Europe's final backwaters. Beautiful, rugged but
-somewhere you'll either love or be keen to escape back to creature
-comforts.
-
-Others may disagree with this viewpoint. Take the mountain road from
-Kotor to Cetinje for views that you will never forget. Drive on
-to the Durmitor National Park and the scenery both there and en route
-is truly stunning! The people you can meet are unbelievably helpful.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 13:46
+somewhere you'll either love or be keen to escape

@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Where do you like to eat in Calgary?

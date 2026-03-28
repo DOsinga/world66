@@ -1,0 +1,4 @@
+---
+title: "Baracoa"
+type: location
+---

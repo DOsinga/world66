@@ -7,5 +7,3 @@ The museum of Qasr Libya has one of the most beautiful collections of Byzantine 
 
 **Contributors**
 November 09, 2007
-new
-by [pandora](/member/pandora)

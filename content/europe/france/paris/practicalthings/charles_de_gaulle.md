@@ -8,13 +8,5 @@ Charles de Gaulle is France's major airport. It's located in Roissy, 25km north-
 
 **Contributors**
 February 07, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Airport
-
-
-
-
-
-[back to Practical Information](..)

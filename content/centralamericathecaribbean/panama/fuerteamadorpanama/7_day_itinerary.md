@@ -42,9 +42,5 @@ Fuerte Amador, though tiny and unassuming at first instance, springs up several 
 
 **Contributors**
 February 04, 2010
-new
-by [sameera kumar](/member/sameera_kumar)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

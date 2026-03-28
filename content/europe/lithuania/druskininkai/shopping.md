@@ -13,5 +13,3 @@ There are 2 marketplaces - one next to Iki and Maxima in Ciurlionio st., second 
 
 **Contributors**
 August 11, 2005
-change
-by [j wojtynski](/member/j_wojtynski)

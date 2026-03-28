@@ -13,8 +13,6 @@ Usually open late; call for details.
 
 **Contributors**
 May 14, 2006
-new
-by [steaksalad](/member/steaksalad) (2 points)
 
 type: Chinese
 
@@ -25,5 +23,3 @@ type: Chinese
 tel: (973) 822-2595
 
 address: 300 Main St
-
-[back to Eating Out](..)

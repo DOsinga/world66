@@ -12,9 +12,6 @@ The Brescia and Verona Airports are both on the same website with time schedules
 
 Be sure you are on the Brescia Airport link of the http://www.aeroportoverona.it (click on upper right hand of site where you see "Brescia"). Be sure you have clicked on the lower right hand side on "English". Click on the map. Click on the picture of the bus on the lower left hand side. You should see the time schedule and the price of six euros.
 
-**Change history**
-Orginal article by [karenbru](/member/karenbru) on 04 July 05
-
-Minor corrections by [karenbru](/member/karenbru) on 04 July 05
+Minor corrections on 04 July 05
 
 type: By Air

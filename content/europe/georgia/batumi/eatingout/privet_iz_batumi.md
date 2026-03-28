@@ -10,8 +10,6 @@ A fashionable café “Privet iz Batuma” is situated in the city center, with 
 
 **Contributors**
 March 06, 2010
-new
-by [teona](/member/teona)
 
 type: International
 
@@ -22,5 +20,3 @@ type: International
 tel: (+995 77) 468809
 
 address: 39, M. Abashidze str.
-
-[back to Eating Out](..)

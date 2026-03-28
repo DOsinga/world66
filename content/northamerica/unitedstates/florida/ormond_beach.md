@@ -1,9 +1,9 @@
 ---
-title: "Ormond Beach Travel Guide"
+title: "Ormond Beach"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Ormond Beach is located at the north end of the *Daytona Beach area*.
 Ormond Beach was once home to oil industry multi-millionaire, John D.
@@ -20,9 +20,3 @@ the Tomoka State Park. The area also boasts several beachfront and
 riverfront parks. Visitors seeking a quieter part of the beach can find
 it in the Ormond Beach area. In fact, beach driving is not allowed at
 the northern end of Ormond Beach.
-
-*Part or or all of this text stems from the original article at: http://wikitravel.org/en/Ormond_Beach*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 09:56

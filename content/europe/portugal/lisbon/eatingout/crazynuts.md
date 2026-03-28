@@ -15,5 +15,3 @@ type: South American
 address: R. Artilharia I, 26
 
 tel: +35 21 388 30 88
-
-[back to Eating Out](..)

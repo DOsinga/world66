@@ -14,5 +14,3 @@ type: Other
 
 
 url: [www.paisatours.com](http://www.paisatours.com/cartegena.htm)
-
-[back to Things to do](..)

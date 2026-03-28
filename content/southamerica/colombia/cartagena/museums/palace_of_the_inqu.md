@@ -7,11 +7,3 @@ Tour the eerie 18th-century Inquisition Palace which displays tools of torture a
 
 **Contributors**
 February 14, 2005
-new
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Museums](..)

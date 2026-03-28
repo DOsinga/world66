@@ -14,5 +14,3 @@ Believe it or not but a safari tour can be taken into the interior back blocks f
 url: [www.travel-postcards.com](http://www.travel-postcards.com)
 
 email: jbyrne@agn.net.au
-
-[back to Tours and Excursions](..)

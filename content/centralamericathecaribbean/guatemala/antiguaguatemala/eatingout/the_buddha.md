@@ -8,8 +8,6 @@ phone: "59676810"
 price: "$3 to $5"
 type: "International"
 url: "www.googlepages.com"
-latitude: 14.654119
-longitude: -91.261528
 ---
 
 The Buddha in San Pedro la Laguna,
@@ -24,8 +22,6 @@ Awesome place!!
 
 **Contributors**
 January 18, 2007
-new
-by [shambala guatemala](/member/shambala_guatemala) (2 points)
 
 type: International
 
@@ -42,5 +38,3 @@ address: San Pedro la Laguna, Guatemala
 PriceOfMenu: $3 to $5
 
 email: thebuddhaguatemala@gmail.com
-
-[back to Eating Out](..)

@@ -10,12 +10,8 @@ one of them. A round voyage can be taken in several different ways, all with the
 
 For more information, click the url below .
 
-*Part or or all of this text stems from the original article at: http://www.hurtigruten.com/en/default.aspx?sak=778&side_id=89*
-
 **Contributors**
 March 12, 2006
-change
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 type: Tourist information
 
@@ -24,5 +20,3 @@ type: Tourist information
 
 
 url: www.hurtigruten.com
-
-[back to Practical Information](..)

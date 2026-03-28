@@ -1,9 +1,9 @@
 ---
-title: "Vantaa Travel Guide"
+title: "Vantaa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Vantaa is a city that often is forgotten since it is a part of Finlands capitol area and often considered part of Helsinki. Vantaa is the airport city that many visitors pass by on their itinerary.
 
@@ -12,7 +12,3 @@ For most people it is hard to think Vantaa as one of the largest cities in Finla
 City has long history in agriculture serving the needs of the nations capital. Nowadays the city is split with large motorways running from Helsinki through Vantaa with the capitol area circumferential road "Kehä III". The infrastructure has divided city in small isolated suburbs, but there are still lot of cultivated fields alongside the motorways as a reminder of the past.
 
 Vantaa doesn't have much of places of interest. You might still enjoy Heureka Science Center or Viherpaja Japanese and Cactus Garden, both located near Tikkurila. For museum enthusiasts there is The Finnish Aviation Museum near the airport and then ofcourse The Vantaa Agricultural Museum.****
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 18:29

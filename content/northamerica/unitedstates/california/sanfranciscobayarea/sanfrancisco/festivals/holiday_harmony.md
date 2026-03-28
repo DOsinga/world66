@@ -18,5 +18,3 @@ Celebration and Christmas Celebration.
 
 
 url: [www.pier39.com](http://www.pier39.com/)
-
-[back to Festivals](..)

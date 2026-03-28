@@ -124,5 +124,3 @@ author: James Kavanagh
 isbn: 0-919433-91-X
 
 subject: Natural History
-
--->

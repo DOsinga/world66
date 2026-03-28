@@ -9,5 +9,3 @@ People seem to have a hard time figuring out which airport to fly into when visi
 
 **Contributors**
 May 19, 2007
-new
-by [harryb3](/member/harryb3) (2 points)

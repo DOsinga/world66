@@ -26,8 +26,6 @@ Open late: weekday lunch 11:30am-2pm, dinner Su-Th 6pm-2am, Fri-Sat 6pm-4am.
 
 **Contributors**
 October 13, 2005
-change
-by [qousqous](/member/qousqous)
 
 type: American
 
@@ -40,5 +38,3 @@ tel: 503-234-1324
 address: 301 SE Morrison St, under the Morrison Bridge onramp
 
 PriceOfMenu: $5-20
-
-[back to Eating Out](..)

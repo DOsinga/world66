@@ -1,9 +1,9 @@
 ---
-title: "Pinamar Travel Guide"
+title: "Pinamar"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Historia de Pinamar
 
@@ -24,9 +24,3 @@ El Balneario se encuentra a 3 km de Cariló y muy próximo a Ostende, antiguo ba
 El lº de julio de 1978, por ley 9.024 de la Provincia de Buenos Aires, se crea el "Municipio Urbano de Pinamar", tomando parte del territorio perteneciente al ex partido de Gral. Juan Madariaga. A partir de esa fecha, las localidades de Pinamar, Mar de Ostende, Ostende, Valeria del Mar y Cariló forman el municipio de Pinamar.
 
 www.pinamar.com
-
-*Part or or all of this text stems from the original article at: http://www.pinamar.com/valeriadelmar*
-
-Page last generated on Mon 10:19
-
--->

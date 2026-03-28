@@ -1,7 +1,9 @@
 ---
-title: "Potenza Travel Guide"
+title: "Potenza"
 type: location
 ---
+
+Travel Guide
 
 Not on your dreamlist probably - but a useful hub for visiting some of the attractive villages in the region.
 

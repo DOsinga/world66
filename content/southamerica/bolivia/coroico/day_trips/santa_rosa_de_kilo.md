@@ -2,8 +2,6 @@
 title: "Santa Rosa de Kilo Kilo"
 type: poi
 url: "www.coroi.co.cc"
-latitude: -16.037712
-longitude: -67.817587
 ---
 
 Literally at the end of the road, the village of Santa Rosa de Kilo Kilo is located an hour further on the Suapi road. It’s a spectacular ride, in which you can see how the forest slowly changes with the difference in altitude. Just before you arrive in the village, you’ll pass the somewhat weird Kilo Kilo Alto hacienda house.
@@ -13,13 +11,9 @@ As there are about two groups of tourists arriving per year, the people will be 
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (5 points)
 
 
 
 
 
 url: [www.coroi.co.cc](http://www.coroi.co.cc/english/318.html)
-
-[back to Day Trips](..)

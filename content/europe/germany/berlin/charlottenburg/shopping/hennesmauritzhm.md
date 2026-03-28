@@ -10,7 +10,3 @@ connection: U Kurfürstendamm
 address: Kurfürstendamm 237
 
 openings: Mo-Fr 10am -8pm, Sa 9am -4pm
-
-[back to Shopping](..)
-
--->

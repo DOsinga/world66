@@ -216,5 +216,3 @@ Open daily
 
 **Contributors**
 September 27, 2009
-change
-by [catbrown](/member/catbrown)

@@ -14,5 +14,3 @@ type: general
 
 
 address: Downtown Majuro
-
-[back to Museums](..)

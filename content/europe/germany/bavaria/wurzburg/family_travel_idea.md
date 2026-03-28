@@ -25,5 +25,3 @@ A great place for shopping is the Schonbornstrasse. The buildings on this street
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

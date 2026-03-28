@@ -26,3 +26,11 @@ Malergasse 7 * D - 93047 Regensburg **
 Our English sites: http://www.cilento-ferien.de
 
 Vacation in Tuscany (German): http://www.unbekannte-toskana.de
+
+****
+
+In the Cilento, Italy's unknown South, the Easter holidays are rich in religious ceremonies, culinary traditions and family get-togethers. Even vacationers get their full share in April - far away from the tourist masses.
+
+Spring - the best time for an active vacation: hikers on the mule trails of the Cilento.On Good Friday in many villages processions take place, for example in Pisciotta (see picture). Hundreds of faithful march from the church SS. Pietro e Paolo to the chapel Il Calvario - led by a brotherhood of lay priests, accompanied by a highly worshipped statue of the Virgin Mary and severe music. "
+dc:creator="World66"
+dc:date="" />

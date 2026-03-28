@@ -26,8 +26,6 @@ The pollo asado (grilled chicken) is highly recommended in taco, burrito or ques
 
 **Contributors**
 September 08, 2005
-new
-by [massd](/member/massd)
 
 type: Mexican
 
@@ -42,5 +40,3 @@ url: [sanfrancisco.citysearch.com](http://sanfrancisco.citysearch.com/profile/88
 address: 6th & Market St.
 
 PriceOfMenu: $2-6 per item
-
-[back to Eating Out](..)

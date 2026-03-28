@@ -3,22 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+"/>
 
-Most international flights are operated by *Air Afrique (RK) *and *UTA. *(There are no direct flights to Niger from the UK.)
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-Approximate flight time
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-From London to Niamey is 6 hours excluding stopover time in Paris.
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-International airport:
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-*Niamey (NIM)* 12km (7.5 miles) southeast of the city (travel time – 10 minutes). Airport facilities include bar shops post office currency exchange and car hire. Taxi services are available to the city. Hotels have their own vehicles and provide free transport for their clients between the hotel and the airport.
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-Road
-
-There are main roads from Kano (Nigeria) to Zinder and from Benin Burkina Faso and Mali. The principal trans-Sahara desert track runs from Algiers to Asamakka and Arlit with a paved road to Agadez. Desert driving can be difficult marker beacons may not always be visible and petrol is not always available. See the Trans Sahara section for reports.
-
-Bus
-
-Services operate from Burkina Faso Benin and Mali.
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

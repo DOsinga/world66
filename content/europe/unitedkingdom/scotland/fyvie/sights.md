@@ -9,8 +9,6 @@ If you are situated in Fyvie you are well placed to explore the countryside and 
 
 **Contributors**
 February 07, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Pitmedden Gardens](/europe/unitedkingdom/scotland/fyvie/sights/pitmedden_gardens)
 

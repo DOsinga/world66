@@ -19,5 +19,3 @@ type: Hotspots
 tel: +98-912-6905440
 
 url: [WWW.ULDUZTOURISM.COM](http://WWW.ULDUZTOURISM.COM)
-
-[back to Sights](..)

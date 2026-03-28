@@ -24,5 +24,3 @@ Another site for great bargains are the shopping bazaars in the city’s parks. 
 **Haciendas**
 
 At the turn of the 20th Century, the Yucatan enjoyed an economic boom due to the popularity of rope made from henequen or sisal. Hundreds of huge haciendas were built throughout the Yucatan Peninsula to manage the growth of that henequen, each one different. With the Mexican Revolution and the introduction of nylon rope, among other things, many of these haciendas were abandoned. In the last twenty or so years, many of these haciendas have been bought and renovated...turned into museums, places to eat, hotels, and private homes. You can visit a number of them in a day trip from Merida. Check out the hacienda route page in www.yucatantoday.com. The best haciendas for a casual visit is Hacienda Ochil, which also has a very lovely restaurant open for breakfast and lunch, as well as a small gift shop and some artisan studios. You can stay overnight at Hacienda Santa Cruz, Hacienda Temozon, Hacienda Xcanatun, Hacienda San Jose Cholul and many others. [more..](/northamerica/mexico/merida/sights/haciendas)
-
--->

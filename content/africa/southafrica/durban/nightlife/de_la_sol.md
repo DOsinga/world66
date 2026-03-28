@@ -4,8 +4,6 @@ type: poi
 address: "258 Florida Road, Morningside"
 phone: "+27 31 312 9436"
 type: "Clubs and dancing"
-latitude: -29.828471
-longitude: 31.010717
 ---
 
 As cool as its deep-blue walls and velvet bar stools and as sexy as the mirrored mosaics above its curvy counter, De La Sol is a popular Durban hang-out. DJs and musos provide the music, cocktails flow and light meals are available. Catch DJ Funky G, Les the Tiger and St Nicholas spinning '80s and '90s greats, house and hip-hop.
@@ -16,8 +14,6 @@ As cool as its deep-blue walls and velvet bar stools and as sexy as the mirrored
 
 **Contributors**
 May 21, 2007
-new
-by [magependragon](/member/magependragon)
 
 type: Clubs and dancing
 
@@ -28,5 +24,3 @@ type: Clubs and dancing
 tel: +27 31 312 9436
 
 address: 258 Florida Road, Morningside
-
-[back to Nightlife and Entertainment](..)

@@ -18,5 +18,3 @@ address: 215 Central Ave NW # 100,
 tel: (505)243-6269
 
 zipcode: Albuquerque, NM
-
-[back to Sights](..)

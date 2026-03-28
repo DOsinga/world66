@@ -1,0 +1,4 @@
+---
+title: "Tamanrasset"
+type: location
+---

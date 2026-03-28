@@ -25,20 +25,4 @@ It is a long stretch of reclaimed agricultural land that has been recently devel
 
 **OLD JESOLO**
 
-If ancient artifacts are what you fancy, then Old Jesolo would be a great location. There are ruins of an ancient church that take you back to an era forgotten.
-
-**PLAY VILLAGE**
-
-The Play Village, started around 10 years back is a renowned centre for sports and fitness enthusiasts. Equipped with a skate park, tennis court, baby corner, bar snack restaurant, this recreational centre mainly aims at ensuring everyone has a good time.
-
-**
-PISTA AZZURRA GO-KART CIRCUIT
-**
-
-The 50 year old Pista Azzurra Go-Kart Race Track is a globally recognized track. Many national and international go kart competitions have taken place here and the popularity is constantly increasing. When a race isn’t happening, the cars are available on rent by anyone who wishes to see how good he is on the go-kart track.
-
-**
-NATURAL HISTORY TOWN MUSEUM
-**
-
-This museum has 15,000 specimens of local flora, fauna on offer. It also has some additional marvelous items on display that have geological and archaeological importance.
+If ancient artifacts are what you fancy, then Old Jesolo would be a great location. There are ruins of an ancient church that take you

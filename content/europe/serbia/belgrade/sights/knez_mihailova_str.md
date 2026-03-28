@@ -12,9 +12,3 @@ mall and promenade connecting Republic Square with Kalemegdan Park and
 the Fortress area (an archaeological and historical zone of the city).
 
 type: Streets
-
-
-
-
-
-[back to Sights](..)

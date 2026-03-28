@@ -75,11 +75,13 @@ Watch paleontologists at work and see saber-toothed cats, mammoths, and other Ic
 
 5900 Wilshire Blvd. 90036 323/937-7766 
 
-[**Museum of Jurassic Technology**](http://www.mjt.org/)
+**Museum of Jurassic Technology**
 
 Is it a museum? Is it art? Is it an elaborate joke? Only by examining the collection carefully will one discover that the answer is all of the above. It is a place of marvels and wonders, as if a museum from some other dimension shifted into our own universe. Sly par [more..](/northamerica/unitedstates/california/losangeles/museums/museumofjurassictechnology)
 
 Fax: (310) 287-2267
+
+Url: [http://www.mjt.org/](http://www.mjt.org/)
 
 Tel: (310) 836-6131
 

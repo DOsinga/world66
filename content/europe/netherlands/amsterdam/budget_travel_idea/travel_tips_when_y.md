@@ -5,8 +5,6 @@ address: "Frans van Mierisstraat 69A"
 email: "info@hostelcosmos.com"
 phone: "+31206252438"
 url: "www.hostelcosmos.com"
-latitude: 52.354261
-longitude: 4.881932
 ---
 
 Travel Tips When You’re With Your Pet!
@@ -79,5 +77,3 @@ url: [www.hostelcosmos.com](http://www.hostelcosmos.com)
 address: Frans van Mierisstraat 69A
 
 email: info@hostelcosmos.com
-
-[back to Budget Travel Ideas](..)

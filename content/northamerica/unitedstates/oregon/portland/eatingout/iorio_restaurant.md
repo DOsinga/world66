@@ -33,5 +33,3 @@ address: 912 SE Hawthorne Blvd
 PriceOfMenu: $2-21. dollars
 
 email: info@ioriorestaurant.com
-
-[back to Eating Out](..)

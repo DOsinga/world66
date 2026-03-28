@@ -40,8 +40,6 @@ The Guinness Tavern is slightly off the beaten track and so enjoys a peaceful ga
 
 **Contributors**
 February 07, 2010
-change
-by [kwalker](/member/kwalker)
 
 ### [The Guinness Tavern](/europe/spain/catalonia/salou/eating_out/the_guinness_taver)
 

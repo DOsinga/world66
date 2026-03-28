@@ -46,13 +46,7 @@ kids to enjoy. This is the perfect place to go to as family in Nikolaev.
 
 **Contributors**
 February 10, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 09, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

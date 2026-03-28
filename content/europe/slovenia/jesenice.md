@@ -1,0 +1,4 @@
+---
+title: "Jesenice"
+type: location
+---

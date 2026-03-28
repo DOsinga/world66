@@ -9,8 +9,6 @@ There are many interesting things to do which are quite nearby. Go to see the Ro
 
 **Contributors**
 February 11, 2006
-new
-by [karenbru](/member/karenbru)
 
 ### [Luni - Roman Ruins](/europe/italy/liguria/bocca_di_magra/day_trips/luni__roman_ruins)
 

@@ -20,15 +20,5 @@ There is also a similar ticket for 7 days
 
 **Contributors**
 August 11, 2005
-change
-by [reen](/member/reen)
 
 August 27, 2008
-change
-by [j wojtynski](/member/j_wojtynski)
-
-
-
-
-
-[back to Getting Around](..)

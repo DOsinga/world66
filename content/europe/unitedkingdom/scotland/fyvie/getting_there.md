@@ -7,5 +7,3 @@ Finding Fyvie is easy, follow the A947 north out of Aberdeen for about 25 miles 
 
 **Contributors**
 January 24, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)

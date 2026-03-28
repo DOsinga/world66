@@ -9,9 +9,3 @@ In the center of the Plaza de Armas stands this famous fountain. Designed in 173
   The Plaza de Armas Museum is located in the same building as City Hall. It has a beautiful patio and colonial fountain. There is an exhibition of colonial weapons, which includes artillery pieces, articles of colonial dress, and works of art. It is open to the public daily from 9:00 a.m. to 12:00 a.m. and from 2:00 p.m. to 6:00 p.m.
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

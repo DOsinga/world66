@@ -23,8 +23,4 @@ Public Transport
 
  Junior Pass: For all under 26 years there is a 50% reduction. The cost is 690 Kc for 1 year, or 390 Kc for 6 months.
 
- Network Card: A yearly pass for the entire Czech railway network. The cost is 14,580 Kc (The holders of a Z card get a further 10% reduction and children under 15 get a 50% reduction. For one week this card costs 540 Kc.  
-
-## Subsections
-
-[Taxis](/europe/czechrepublic/prague/gettingaround/taxis)
+ Network Card: A yearly pass for the entire Czech railway network. The cost is 14,580 Kc (The holders of a Z card get a further 10% reduction and children under 15 get a 50% reduction. For one week this card costs 540 Kc.

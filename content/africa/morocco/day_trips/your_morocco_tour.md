@@ -23,5 +23,3 @@ tel: 6466420831
 url: [www.your-morocco-tour.com](http://www.your-morocco-tour.com)
 
 email: info@your-morocco-tour.com
-
-[back to Day Trips](..)

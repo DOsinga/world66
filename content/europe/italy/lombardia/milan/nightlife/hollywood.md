@@ -5,8 +5,6 @@ accessibility: "pay and go"
 address: "Corso Como 15"
 closing_time: "5 - 6 am"
 type: "Clubs and dancing"
-latitude: 45.482863
-longitude: 9.186905
 ---
 
 One of the discoes chosen by the top models during their presence in Milan for the Fashion events...
@@ -30,5 +28,3 @@ address: Corso Como 15
 ClosingTime: 5 - 6 am
 
 accessibility: pay and go
-
-[back to Nightlife and Entertainment](..)

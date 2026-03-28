@@ -6,8 +6,6 @@ email: "info@comedyclub.de"
 phone: "030 48 62 31 86"
 type: "Theatres"
 url: "www.comedyclub.de"
-latitude: 52.529801
-longitude: 13.410003
 ---
 
 Come
@@ -67,8 +65,6 @@ www.comedyclub.de
 
 **Contributors**
 January 27, 2009
-change
-by [tencubed](/member/tencubed)
 
 type: Theatres
 
@@ -83,5 +79,3 @@ url: [www.comedyclub.de](http://www.comedyclub.de)
 address: Schönhauser Allee 184
 
 email: info@comedyclub.de
-
-[back to Nightlife and Entertainment](..)

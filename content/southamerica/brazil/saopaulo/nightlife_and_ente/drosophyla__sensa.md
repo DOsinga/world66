@@ -14,8 +14,6 @@ From the outside it looks like an old central São Paulo house... it has no name
 
 **Contributors**
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Beer Gardens
 
@@ -34,5 +32,3 @@ accessibility: no wheel chairs
 address: rua pedro taques, 80 Bairro Consolação, São Paulo, SP, Brazil
 
 email: drosophyla@drosophyla.com.br
-
-[back to Nightlife and Entertainment](..)

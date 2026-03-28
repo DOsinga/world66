@@ -20,8 +20,6 @@ There are several travel agencies that offer organized sailing/cycling trips to 
 
 **Contributors**
 March 16, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 ### [Bus transfer Alkmaar <> Harlingen harbour](/europe/netherlands/waddenislands/vlieland_island/getting_there/bus_transfer_alkma)
 
@@ -42,7 +40,7 @@ type: By Road
 
 [[rate it]](/europe/netherlands/waddenislands/vlieland_island/getting_there/bus_transfer_alkma)
 
-### [Train transfer Amsterdam Leeuwarden --> Harlingen](/europe/netherlands/waddenislands/vlieland_island/getting_there/train_transfer_ams)
+### [Train transfer Amsterdam Leeuwarden Harlingen](/europe/netherlands/waddenislands/vlieland_island/getting_there/train_transfer_ams)
 
 Departure/timetable and tariff information for **train** transfer to Leeuwarden and correspondence to Harlingen harbour (here soon)
 
@@ -57,7 +55,7 @@ type: By Air
 
 [[rate it]](/europe/netherlands/waddenislands/vlieland_island/getting_there/train_transfer_ams)
 
-### [Ferry Harlingen --> Vlieland island](/europe/netherlands/waddenislands/vlieland_island/getting_there/ferry_harlingen)
+### [Ferry Harlingen Vlieland island](/europe/netherlands/waddenislands/vlieland_island/getting_there/ferry_harlingen)
 
 Departure/timetable and tariff information for the **ferry** Harlingen harbour-Vlieland island.
 

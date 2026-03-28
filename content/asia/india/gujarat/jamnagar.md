@@ -1,0 +1,4 @@
+---
+title: "Jamnagar"
+type: location
+---

@@ -1,14 +1,14 @@
 ---
-title: "Nightlife"
+title: "Nightlife and Entertainment"
 type: section
 ---
 
 Traditional nightlife is centered around the Jma el Fna. For more modern nightlife head to Gueliz, the new part of town.
 
-## Subsections
+## Categories
 
-[Bars & Pubs](/africa/morocco/marrakesh/nightlife/barspubs)
+[Discos & Clubs](/africa/morocco/marrakesh/nightlife?subsection=Discos%20%26%20Clubs)
 
-[Casinos](/africa/morocco/marrakesh/nightlife/casinos)
+[Bars & Pubs](/africa/morocco/marrakesh/nightlife?subsection=Bars%20%26%20Pubs)
 
-[Discos & Clubs](/africa/morocco/marrakesh/nightlife/discosclubs)
+[Casinos](/africa/morocco/marrakesh/nightlife?subsection=Casinos)

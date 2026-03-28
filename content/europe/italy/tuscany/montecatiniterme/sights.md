@@ -23,5 +23,3 @@ Naturally, a large part of visiting Italy is the cuisine. You can't tour Italy w
 
 **Contributors**
 October 21, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

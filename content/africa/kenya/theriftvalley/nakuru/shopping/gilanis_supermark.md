@@ -20,7 +20,7 @@ X-NONE
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Gilani’s
 Supermarket Ltd was established in 1974.
@@ -55,5 +55,3 @@ tel: +254 72311 8888
 address: Box 70 Nakuru, Kenya.
 
 email: gilanis@gilanis.co.ke
-
-[back to Shopping](..)

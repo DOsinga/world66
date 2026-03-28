@@ -90,3 +90,13 @@ author: Allen Bechky
 isbn: 0871567474
 
 subject: history
+
+**Uganda Handbook**
+
+The first edition of the Uganda country guide from the Footprint series.
+
+[](http://www.amazon.com/exec/obidos/tg/detail/-/1903471346/ref=ase_osingacom?v=glance&s=books)
+
+isbn: 1903471346
+
+author: Michael Hodd and Angela Roche

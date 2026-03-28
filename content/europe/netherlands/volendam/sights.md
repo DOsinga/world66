@@ -25,5 +25,3 @@ The backstreets are also home to the Volendam Visitor Information Centre where y
 
 **Contributors**
 March 23, 2010
-new
-by [piyushjain](/member/piyushjain_)

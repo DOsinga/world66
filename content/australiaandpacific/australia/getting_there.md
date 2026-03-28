@@ -52,9 +52,3 @@ All other State capital cities are served by connections from the above internat
 Sea
 
 Cruise liners dock at Sydney Melbourne Hobart Perth (Port of Fremantle) Adelaide and Brisbane.
-
- 
-
-## Subsections
-
-[By Air](/australiaandpacific/australia/gettingthere/byair)

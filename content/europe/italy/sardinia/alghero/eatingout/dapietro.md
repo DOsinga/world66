@@ -14,5 +14,3 @@ type: general
 
 
 address: 20, Via Macchin
-
-[back to Eating Out](..)

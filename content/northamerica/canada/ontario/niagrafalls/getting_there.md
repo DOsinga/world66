@@ -13,5 +13,3 @@ Most services operate on the Hamilton/Niagara Falls line run, the Niagara Falls/
 
 **Contributors**
 December 20, 2005
-new
-by [allamericanbear](/member/allamericanbear)

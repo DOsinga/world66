@@ -22,12 +22,8 @@ Continue reading through the listings to find out about more unique and fun thin
 
 **Contributors**
 November 10, 2007
-new
-by [jzurdogo](/member/jzurdogo)
 
 June 06, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### Display all
 or display just:

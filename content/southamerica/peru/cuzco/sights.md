@@ -14,5 +14,3 @@ Go. It's an incredible place.
 [Museums](/southamerica/peru/cuzco/sights?subsection=Museums)
 
 [Inca](/southamerica/peru/cuzco/sights?subsection=Inca%20)
-
--->

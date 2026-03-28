@@ -14,7 +14,5 @@ large selection of house special rolls is available.
 
 **Contributors**
 October 13, 2005
-new
-by [qousqous](/member/qousqous)
 
 type: Japanese

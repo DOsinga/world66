@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 ---
 
 We currently have no Webcams listed in Narva.

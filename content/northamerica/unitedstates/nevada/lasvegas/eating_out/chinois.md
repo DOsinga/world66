@@ -11,8 +11,6 @@ Chinois is a Wolfgang Puck restaurant and it is currently one of the most popula
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Japanese
 
@@ -25,5 +23,3 @@ tel: 702-737-9700
 url: [www.wolfgangpuck.com](http://www.wolfgangpuck.com)
 
 address: 3500 Las Vegas Boulevard South, Caesars Palace
-
-[back to Eating Out](..)

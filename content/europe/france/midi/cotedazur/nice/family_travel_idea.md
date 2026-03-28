@@ -23,5 +23,3 @@ You can also embark on a hiking trip with your family. The hiking trail begins f
 
 **Contributors**
 March 09, 2010
-new
-by [imran_m](/member/imran_m)

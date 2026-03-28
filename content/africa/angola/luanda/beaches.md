@@ -25,5 +25,3 @@ There are plenty of Luanda beaches which offer plenty of opportunity to embark u
 
 **Contributors**
 February 17, 2010
-change
-by [gabriellet](/member/gabriellet)

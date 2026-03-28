@@ -8,9 +8,6 @@ url: "www.euroadventures.net"
 
 Tours in the O Rosal Valley
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 14 April 05
-
 ### [O Rosal Valley a land of Albarino wines alongside the River Mino
 
 On this private tour you will explore an area of natural beauty with a multitude of different landscapes, which we will admire for hill-top vantage points.

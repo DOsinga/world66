@@ -5,7 +5,7 @@ type: section
 
 Los Angeles Angels Flight Railway Hill & Olive Sts. 213/626-1901 
 
-**Recommendations**
+**Activitys**
 
 **Bradbury Building**
 
@@ -67,4 +67,6 @@ W. 13th & Olvera St. 90012 213/628-1274
 
 http://www.downtownsm.com/ 
 
-Shopping, Dining, Hotels and street entertainment combine in this special district of nearby [Santa Monica](/northamerica/unitedstates/california/losangeles/santamonica). Several blocks of Third Street have been closed to traffic an [more..](/northamerica/unitedstates/california/losangeles/thingstodo/thirdstreetpromenadedowntownsantamonica)
+Shopping, Dining, Hotels and street entertainment combine in this special district of nearby Santa Monica. Several blocks of Third Street have been closed to traffic and you just wander down the street. 
+
+My personal favorite restaraunts are PF Changs and Yangtz [more..](/northamerica/unitedstates/california/losangeles/thingstodo/thirdstreetpromenadedowntownsantamonica)

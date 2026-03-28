@@ -19,7 +19,3 @@ Day 4 - Sirena – La Leona – Puerto Jimenez
 After your breakfast at the Sirena station you will start with your 20 km (13 mile) hike along the southern coastal trail to La Leona ranger station. You continue with a beach walk to Carate where a 4-wheeldrive car will be waiting for you transfer to Puerto Jimenez; Overnight: Hostel Marcelina. [Breakfast]
 
 Day 5 – Next Destination
-
-Back to San Jose or your next destination in Costa Rica. End our services.
-
-visit us www.osatravel.com, for more information and tours!

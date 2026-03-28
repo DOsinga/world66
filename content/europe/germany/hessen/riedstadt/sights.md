@@ -8,8 +8,6 @@ Please find interesting Riedstadt sights below. Feel free to add yours.
 
 **Contributors**
 December 14, 2005
-change
-by [reen](/member/reen)
 
 ### [Naturschutzgebiet Kühkopf-Knoblochsaue](/europe/germany/hessen/riedstadt/sights/khkopfknoblochs)
 

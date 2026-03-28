@@ -23,5 +23,3 @@ url: [www.enocircuit.com](http://www.enocircuit.com)
 address: Albadalejo 4 Loft 26
 
 email: info@enocircuit.com
-
-[back to Things to do](..)

@@ -14,8 +14,6 @@ You can expect to see some wildlife and visit some of the forest remnants, but t
 
 **Contributors**
 May 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Jungle trips to Manaus](/southamerica/brazil/manaus/things_to_do/jungle_trips_from)
 
@@ -28,8 +26,6 @@ type: Trekking
 [[rate it]](/southamerica/brazil/manaus/things_to_do/jungle_trips_from)
 
 tel: 55-(92) xx 3082 4732
-
-url: [wikitravel.org](http://wikitravel.org/en/Manaus)
 
 address: Rua dos Andrade 464, first floor, Manaus-Center
 

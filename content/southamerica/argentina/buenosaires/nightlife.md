@@ -16,5 +16,3 @@ There are free tango performances on Sundays outside the San Telmo flea.
 The place to see and be seen however is the exquisite Colon Theater the city’s opera house. Acoustically one of the world’s best it is lavishly decorated in gold and plush velvet (in the evening you’ll see equally stunning outfits on the patrons). If you can’t catch a performance be sure [more..](/southamerica/argentina/buenosaires/nightlife/colontheater)
 
 email: lenartt@rixtele.com
-
--->

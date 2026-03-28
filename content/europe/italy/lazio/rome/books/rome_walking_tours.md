@@ -14,5 +14,3 @@ A new ebook called Rome on Foot contains 36 videos and plenty of photos and text
 author: Dennis Callan
 
 isbn: 978-0-9839643-0-8
-
-[back to Books](..)

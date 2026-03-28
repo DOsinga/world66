@@ -1,6 +1,6 @@
 ---
 title: "Old Mill ."
-type: location
+type: poi
 type: "general"
 ---
 

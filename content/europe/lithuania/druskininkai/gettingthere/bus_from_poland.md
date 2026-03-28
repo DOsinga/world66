@@ -14,15 +14,7 @@ warszawa 9.30 -> Drusk. 18.00 (10 h 30 min) Price when buying in Druskininkai bu
 
 **Contributors**
 August 11, 2005
-change
-by [reen](/member/reen)
 
 August 11, 2005
-new
-by [j_wojtynski](/member/j_wojtynski)
 
 type: By Road
-
-
-
-[back to Getting There](..)

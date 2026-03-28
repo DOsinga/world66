@@ -8,8 +8,6 @@ email: "info@out-there.eu"
 phone: "020 8123 2077"
 type: "Clubs and dancing"
 url: "www.out-there.eu"
-latitude: 47.505199
-longitude: 19.031161
 ---
 
 Riga is now known all over Europe as the place to party on a weekend break. The best way to guarantee a quality night out nowadays is to organise a VIP clubbing night through the Riga experts www.Out-there.eu
@@ -33,5 +31,3 @@ accessibility: 7 days a week
 address: Central Riga
 
 email:
-
-[back to Nightlife and Entertainment](..)

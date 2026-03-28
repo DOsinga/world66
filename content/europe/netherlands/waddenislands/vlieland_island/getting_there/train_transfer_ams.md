@@ -1,5 +1,5 @@
 ---
-title: "Train transfer Amsterdam Leeuwarden --> Harlingen"
+title: "Train transfer Amsterdam Leeuwarden Harlingen"
 type: poi
 type: "By Air"
 ---
@@ -13,13 +13,5 @@ Of course, you can take a train from ANY Railway station to Leeuwarden. Amsterda
 
 **Contributors**
 March 16, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

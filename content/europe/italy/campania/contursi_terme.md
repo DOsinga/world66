@@ -1,12 +1,8 @@
 ---
-title: "Contursi Terme Travel Guide"
+title: "Contursi Terme"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 thermae location
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 09:50

@@ -1,14 +1,12 @@
 ---
 title: "MARIBLU RESTAURANT & PIZZERIA"
-type: location
+type: poi
 address: "Mgarr Road, Xewkija, Gozo, Malta"
 email: "frankie@digigate.net"
 phone: "0035621551315"
 price: "5Euro - 15 Euro"
 type: "Local"
 url: "www.mariblugozo.com"
-latitude: 36.036284
-longitude: 14.26015
 ---
 
 **The Mariblu Restaurant & Pizzeria specialises in Traditional Local Home Cooking done by the lady of the house, Maria.**
@@ -42,5 +40,3 @@ address: Mgarr Road, Xewkija, Gozo, Malta
 PriceOfMenu: 5Euro - 15 Euro
 
 email: frankie@digigate.net
-
-[back to Eating Out](..)

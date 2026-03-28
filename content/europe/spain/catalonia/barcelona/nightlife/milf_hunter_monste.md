@@ -6,8 +6,6 @@ email: "dundbegefeeve@vp.pl"
 phone: "123456"
 type: "Casinos"
 url: "www.milf.com"
-latitude: 59.103735
-longitude: 9.736354
 ---
 
 40inchplus.com
@@ -50,5 +48,3 @@ url: [www.milf.com](http://www.milf.com)
 address: Porsgrunn
 
 email: dundbegefeeve@vp.pl
-
-[back to Nightlife and Entertainment](..)

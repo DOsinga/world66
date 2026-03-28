@@ -17,5 +17,3 @@ type: Chinese
 address: 67 Mott St.
 
 tel: (212) 964-0540
-
-[back to Eating Out](..)

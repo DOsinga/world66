@@ -6,8 +6,6 @@ email: "info@sanbernardinosymphony.org"
 phone: "(909) 381-5388"
 type: "Concerts"
 url: "www.sanbernardinosymphony.org"
-latitude: 34.131695
-longitude: -117.29181
 ---
 
 The San
@@ -51,5 +49,3 @@ url: [www.sanbernardinosymphony.org](http://www.sanbernardinosymphony.org/)
 address: 1811 N. "D" Street, San Bernardino, Ca 92405
 
 email: info@sanbernardinosymphony.org
-
-[back to Nightlife and Entertainment](..)

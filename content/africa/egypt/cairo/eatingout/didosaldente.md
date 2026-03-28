@@ -17,5 +17,3 @@ type: Italian
 address: 26 Bahgat Ali St. Zamalek
 
 tel: 7359117
-
-[back to Eating Out](..)

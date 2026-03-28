@@ -1,8 +1,6 @@
 ---
 title: "Kotel"
 type: location
-latitude: 42.887378
-longitude: 26.44916
 ---
 
 We currently have no information about Kotel.

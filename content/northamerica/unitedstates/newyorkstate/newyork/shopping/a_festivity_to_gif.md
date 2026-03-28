@@ -30,5 +30,3 @@ url: [www.indiaonlineflorists.com](http://www.indiaonlineflorists.com)
 address: Delhi
 
 email: indiaonlineflorists2@hotmail.com
-
-[back to Shopping](..)

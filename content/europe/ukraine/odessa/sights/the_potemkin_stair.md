@@ -16,13 +16,5 @@ structure.
 
 **Contributors**
 May 30, 2005
-new
-by [giorgio](/member/giorgio)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

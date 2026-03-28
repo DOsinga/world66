@@ -13,8 +13,6 @@ Enhance your cruise and onshore vacation holiday into the Mediterranean Sea and 
 
 **Contributors**
 July 15, 2009
-new
-by [memphis tours egypt](/member/memphis_tours_egypt)
 
 ### [Day trip to Cairo from Port Said](/africa/egypt/portsaid/day_trips/day_trip_to_cairo)
 

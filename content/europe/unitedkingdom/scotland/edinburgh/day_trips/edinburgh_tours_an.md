@@ -5,8 +5,6 @@ address: "Edinburgh, Scotland"
 email: "tours@goscotlandtours.com"
 phone: "(+44) (0) 750 466 1828"
 url: "www.goscotlandtours.com"
-latitude: 55.953346
-longitude: -3.188375
 ---
 
 Edinburgh offers various tours from different operators. Full day tours are available from Edinburgh to such places as Stirling Castle, Loch Lomond, Loch Ness, Western Highlands, the borders and more. Below are some of the more popular ones...
@@ -22,8 +20,6 @@ If you prefer private guides for a more personal touch itineraries can be custom
 
 **Contributors**
 December 30, 2009
-change
-by [goscotlandtours](/member/goscotlandtours)
 
 
 
@@ -34,5 +30,3 @@ url: [www.goscotlandtours.com](http://www.goscotlandtours.com/tour-list/edinburg
 address: Edinburgh, Scotland
 
 email: tours@goscotlandtours.com
-
-[back to Day Trips](..)

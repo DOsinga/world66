@@ -1,0 +1,4 @@
+---
+title: "Dartmouth"
+type: location
+---

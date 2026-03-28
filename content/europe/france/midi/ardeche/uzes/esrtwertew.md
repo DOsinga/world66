@@ -1,14 +1,8 @@
 ---
-title: "esrtwertew Travel Guide"
+title: "esrtwertew"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 setestewt
-
-*Part or or all of this text stems from the original article at: eestse*
-
-Page last generated on Thu 06:06
-
--->

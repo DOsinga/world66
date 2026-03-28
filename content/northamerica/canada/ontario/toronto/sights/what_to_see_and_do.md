@@ -27,5 +27,3 @@ type: Hotspots
 
 
 url: [www.travelpack.com](http://www.travelpack.com/guide/canada/ontario/toronto)
-
-[back to Sights](..)

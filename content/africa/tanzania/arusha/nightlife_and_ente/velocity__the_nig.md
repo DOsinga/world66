@@ -23,5 +23,3 @@ tel: +255754274977
 address: Top Floor, Njiro Complex
 
 email: spiceretreat@yahoo.com
-
-[back to Nightlife and Entertainment](..)

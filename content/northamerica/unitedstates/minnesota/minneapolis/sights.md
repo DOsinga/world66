@@ -7,8 +7,6 @@ Picture Gallery
 
 **Contributors**
 May 19, 2008
-new
-by [vijayvizag](/member/vijayvizag) (1 point)
 
 We currently have no Sights listed in Minneapolis.
 

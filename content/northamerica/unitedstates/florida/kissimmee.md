@@ -1,0 +1,6 @@
+---
+title: "Kissimmee"
+type: location
+---
+
+Kissimmee is a town south of Orlando, located just next to the entrance to Disney World.

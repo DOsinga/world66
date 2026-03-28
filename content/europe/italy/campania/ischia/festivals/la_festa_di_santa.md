@@ -17,5 +17,3 @@ accessibility: Near the Castello Aragonese, Ischia Porto
 tel: 0039 081 552 6485
 
 date: 26 July 2006
-
-[back to Festivals](..)

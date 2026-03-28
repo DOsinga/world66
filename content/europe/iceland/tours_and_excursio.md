@@ -8,7 +8,7 @@ Iceland is a fantastic place for a holiday, whether experienced individually as 
 
 The breath taking scenery and variety is not to be missed, but if it is your first visit it may be a good idea to book a guided tour to ensure that you don't miss anything. Many tours offer activities such as whale watching, snowboarding and hiking in addition to the flight and accommodation.
 
-david black
+### david black
 
 Iceland holidays from Arctic Experience offer a number of guided and independent tours of Iceland, covering both the winter and summer seasons.
 

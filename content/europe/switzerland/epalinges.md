@@ -1,0 +1,4 @@
+---
+title: "Epalinges"
+type: location
+---

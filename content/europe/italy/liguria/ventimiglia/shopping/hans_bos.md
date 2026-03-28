@@ -16,5 +16,3 @@ type: Markets
 
 
 email:
-
-[back to Shopping](..)

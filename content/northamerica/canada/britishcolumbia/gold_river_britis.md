@@ -1,9 +1,9 @@
 ---
-title: "Gold River Travel Guide"
+title: "Gold River"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Sheer rock faces laced with misty cascading waterfalls and dotted with lush, green fiddle head ferns are on one side of you and a long series of inter-connected beautiful inky black lakes quietly lay on the other side of you. Stretched out before you is an 80km picturesque winding road. The view around the next corner is more beautiful than the last and you are compelled to follow this road to it's end. And you do.
 
@@ -18,11 +18,3 @@ Other tourist options are caving, guided forest tours, whale watching and campin
 There are a few cozy bed and breakfasts available for booking as well as The RidgeView Motel, The Gold River Chalet and for the more upscale traveler there is The Lodge at Gold River. The latter is aimed primarily to more established person and their prices may seem steep, but the setting is stunning and most ammenities are included in the price and may make for a cheaper stay in the long run.
 
 Being such a small and remote village, Gold River may scare you off before you get comfortable. To make the most of this small, but very fun town, give yourself a few days to get comfortable and make the most of what is around you! Book that tour and see the forests, I promise there is something there for everyone.
-
-#### Contributors
-
-May 11, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 21:23

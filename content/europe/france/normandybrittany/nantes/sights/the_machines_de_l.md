@@ -18,8 +18,6 @@ Have you ever seen a giant elephant taking a stroll in the city? The ***Great El
 
 **Contributors**
 February 28, 2008
-change
-by [ncep](/member/ncep)
 
 type: Hotspots
 
@@ -36,5 +34,3 @@ url: [www.lesmachines-nantes.fr](http://www.lesmachines-nantes.fr/english/)
 address: Les Chantiers, Bd Léon Bureau, 44 200 Nantes
 
 email: contact@lesmachines-nantes.fr
-
-[back to Sights](..)

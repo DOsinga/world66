@@ -3,20 +3,14 @@ title: "Sights"
 type: section
 address: "West Cliff Drive"
 type: "Streets"
-latitude: 31.767263
-longitude: -106.497015
 ---
 
 Here are a few places to see.
 
 **Contributors**
 March 23, 2006
-change
-by [viajeramundial](/member/viajeramundial) (1 point)
 
 March 28, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [West Cliff Drive](/northamerica/unitedstates/california/centralcoast/santacruz/sights/west_cliff_drive)
 

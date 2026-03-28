@@ -1,0 +1,4 @@
+---
+title: "Kenora"
+type: location
+---

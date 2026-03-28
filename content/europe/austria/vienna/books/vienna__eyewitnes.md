@@ -42,5 +42,3 @@ check http://us.dk.com/ for updates on this and other travel guides.
 author: Stephen Brook
 
 isbn: 789495759
-
-[back to Books](..)

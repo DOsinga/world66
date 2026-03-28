@@ -8,7 +8,3 @@ type: poi
 address: Cr13 93-75 - Bogotá, Distrito Capital, Colombia
 
 tel: (57)(1) 6170254
-
-[back to Eating Out](..)
-
--->

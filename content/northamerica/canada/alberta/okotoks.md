@@ -1,0 +1,4 @@
+---
+title: "Okotoks"
+type: location
+---

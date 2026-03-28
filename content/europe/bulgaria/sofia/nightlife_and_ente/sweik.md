@@ -6,8 +6,6 @@ email: "contact@sofianights.com"
 phone: "+359 2/988 82 40"
 url: "www.sofianights.com"
 zipcode: "1000"
-latitude: 42.695355
-longitude: 23.321347
 ---
 
 **Sweik** - the perfect place for the fans of high quality beer in combination with the best selection of international cuisine served in an exceptional way.

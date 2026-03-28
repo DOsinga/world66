@@ -1,8 +1,6 @@
 ---
 title: "Museums"
 type: poi
-latitude: 48.130368
-longitude: 11.583987
 ---
 
 **Sights**
@@ -19,8 +17,7 @@ tel: +49 (0)89 - 2 17 91
 
 **Residenz-Museum**
 
-Built as of 1385, the main city residence of the Wittelsbach dynasty is breathtaking in its size and diversity.
- 
+Built as of 1385, the main city residence of the Wittelsbach dynasty is breathtaking in its size and diversity. 
 
 address: Residenz, (entrance) Max-Josef-Platz 3
 
@@ -28,8 +25,7 @@ tel: +49 (0)89 - 29 06 71
 
 **Residence Treasure Chamber**
 
-Crowns, gems, examples of the goldsmith's art and precious stones spanning ten centuries.
- 
+Crowns, gems, examples of the goldsmith's art and precious stones spanning ten centuries. 
 
 address: Entrance Max-Josef-Platz 3
 
@@ -37,8 +33,7 @@ tel: +49 (0)89 - 29 06 71
 
 **Glyptothek**
 
-Collection of Greek and Roman sculpture.
- 
+Collection of Greek and Roman sculpture. 
 
 address: Königsplatz 3
 
@@ -64,8 +59,7 @@ tel: +49 (0)89 - 45 55 55 10
 
 **Munich Municipal Museum**
 
-An eye-opening gallery, photo-gadget collection and an exotic assemblage of musical instruments are among some of the whimsical permanent displays, complemented by unconventional temporary exhibits.
- 
+An eye-opening gallery, photo-gadget collection and an exotic assemblage of musical instruments are among some of the whimsical permanent displays, complemented by unconventional temporary exhibits. 
 
 address: Sankt-Jakobs-Platz 1
 
@@ -73,8 +67,7 @@ tel: +49 (0)89 - 233-223 70
 
 **Valentin Musäum **
 
-Museum and bar with folk music in the Isartor (Isar Gate). A permanent exhibition about the two Munich comedians Karl Valentin and Liesl Karlstadt. Very strange and humorous.
- 
+Museum and bar with folk music in the Isartor (Isar Gate). A permanent exhibition about the two Munich comedians Karl Valentin and Liesl Karlstadt. Very strange and humorous. 
 
 address: Im Isartor,
 
@@ -82,8 +75,7 @@ tel: +49 (0)89 - 22 32 66
 
 **BMW Museum**
 
-The exhibition ZEITMOTOR (Time Machine) surveys motorized transport past and present, and even includes a look ahead to the year 2030. 100 exhibits, video films, slide shows and a 70mm film form the core of the exhibition.
- 
+The exhibition ZEITMOTOR (Time Machine) surveys motorized transport past and present, and even includes a look ahead to the year 2030. 100 exhibits, video films, slide shows and a 70mm film form the core of the exhibition. 
 
 address: Petuelring 130
 
@@ -93,8 +85,7 @@ tel: +49 (0)89 - 38 22-33 07
 
 The Siemens Museum contains exhibitions of electrical engineering, electronics and microelectronics from their beginnings up to the present day. The museum's motto is: "Understanding and experiencing technology". Visitors can operate many of the exhibits themselves.
 
-WEBPAGE
- 
+WEBPAGE 
 
 address: Prannerstraße 10
 
@@ -104,8 +95,7 @@ tel: +49 (0)89 - 2 34-26 60
 
 **Municipal Gallery**
 
-Ornate Florentine-style villa housing the Lenbach art collection; Munich painters from the Gothic era to the present, including Kobell, Spitzweg, Leibl, Corinth, etc.; the internationally acclaimed "Blue Rider" collection; Kandinsky, Klee, Marc, Macke, Münter; modern art.
- 
+Ornate Florentine-style villa housing the Lenbach art collection; Munich painters from the Gothic era to the present, including Kobell, Spitzweg, Leibl, Corinth, etc.; the internationally acclaimed "Blue Rider" collection; Kandinsky, Klee, Marc, Macke, Münter; modern art. 
 
 address: Luisenstraße 33
 
@@ -123,8 +113,7 @@ tel: +49 (0)89 23 80 50
 
 **Neue Pinakothek (New Art Gallery) **
 
-European paintings and sculptures from the 18th and 19th centuries.
- 
+European paintings and sculptures from the 18th and 19th centuries. 
 
 address: Barer Straße 29
 
@@ -132,8 +121,7 @@ tel: +49 (0)89 - 2 38 05-195
 
 **Staatsgalerie Moderner Kunst **
 
-International paintings and sculptures from the 20th century.
- 
+International paintings and sculptures from the 20th century. 
 
 address: Prinzregentenstraße 1
 
@@ -141,8 +129,7 @@ tel: +49 (0)89 - 29 27 10
 
 **Forum der Technik (Technology Forum)**
 
-Germany's first IMAX cinema, in which films are shown on a screen 52 feet high and 72 feet wide; a unique cinematic experience. Since Fall 1993, the Forum now also includes the most modern planetarium in the world.
- 
+Germany's first IMAX cinema, in which films are shown on a screen 52 feet high and 72 feet wide; a unique cinematic experience. Since Fall 1993, the Forum now also includes the most modern planetarium in the world. 
 
 address: Deutsches Museum, Museumsinsel 1 (admission via Ludwigsbrücke)
 
@@ -194,8 +181,7 @@ tel: +49 (0)89 - 17 64 94
 
 **Altes Residenztheater (Old Residence Theater) **
 
-Enchanting rococo theater named after its architect, Francois Cuvilliés.
- 
+Enchanting rococo theater named after its architect, Francois Cuvilliés. 
 
 address: Residenzstrasse 1
 
@@ -203,8 +189,7 @@ tel: +49 (0)89 - 2 90 67-1
 
 **State Collection of Egyptian Art**
 
-Ancient Egyptian works of art from prehistoric times through the classical periods up to the greco-roman era.
- 
+Ancient Egyptian works of art from prehistoric times through the classical periods up to the greco-roman era. 
 
 address: Residenz, entrance Hofgartenstrasse
 
@@ -212,8 +197,7 @@ tel: +49 (0)89 - 29 85 46
 
 **Bayerisches Nationalmuseum (Bavarian National Museum)**
 
-European art, crafts and folklore from the Middle Ages to the 20th century
- ** robert ulrich:** well worth the time to see it. covers many aspects. suits of armour, walled cities, tapistries etc. very well done
+European art, crafts and folklore from the Middle Ages to the 20th century ** robert ulrich:** well worth the time to see it. covers many aspects. suits of armour, walled cities, tapistries etc. very well done
 
 address: Prinzregentenstraße 3
 

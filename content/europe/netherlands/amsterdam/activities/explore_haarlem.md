@@ -8,11 +8,5 @@ Haarlem is the world’s very first “Harlem” and yes -- it’s where New Yor
 
 **Contributors**
 May 13, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Other
-
-
-
-[back to Things to do](..)

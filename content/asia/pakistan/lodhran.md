@@ -1,0 +1,4 @@
+---
+title: "Lodhran"
+type: location
+---

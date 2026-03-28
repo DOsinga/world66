@@ -21,5 +21,3 @@ For a traditional Irish pub, stop by Brain Boru at 57 Center Street. This Portla
 
 **Contributors**
 July 06, 2009
-change
-by [annc](/member/annc)

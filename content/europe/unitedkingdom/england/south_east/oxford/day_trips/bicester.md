@@ -10,8 +10,6 @@ Located a short 20 minute drive (15 miles) from Oxford is the city of Bicester a
 
 **Contributors**
 June 08, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -20,5 +18,3 @@ tel: +44 1869 323200
 url: [www.visit-northoxfordshire.co.uk](http://www.visit-northoxfordshire.co.uk)
 
 address: Bicester Visitor Center, 50 Pingle Drive, Bicester UK
-
-[back to Day Trips](..)

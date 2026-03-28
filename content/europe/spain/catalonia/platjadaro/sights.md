@@ -54,5 +54,3 @@ refreshments.
 
 **Contributors**
 February 16, 2010
-change
-by [jenna storm](/member/jenna_storm)

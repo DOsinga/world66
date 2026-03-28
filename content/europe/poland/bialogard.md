@@ -1,0 +1,4 @@
+---
+title: "Bialogard"
+type: location
+---

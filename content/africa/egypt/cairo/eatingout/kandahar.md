@@ -17,5 +17,3 @@ type: Indian
 address: El Dowal El Arabia St.
 
 tel: +20 2 3030615
-
-[back to Eating Out](..)

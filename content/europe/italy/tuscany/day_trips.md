@@ -37,5 +37,3 @@ http://www.turismo.intoscana.it/intoscana2/export/TurismoRTen/sito-TurismoRTen/C
 
 **Contributors**
 March 05, 2009
-new
-by [viry](/member/viry)

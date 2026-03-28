@@ -102,9 +102,3 @@ address: Heinrichsallee 6
 tel: 0241-9979248
 
 pc: 52062 Aachen
-
-## Subsections
-
-[Chinese](/europe/germany/northrhinewestphalia/aachen/eatingout/chinese)
-
-[Indian](/europe/germany/northrhinewestphalia/aachen/eatingout/indian)

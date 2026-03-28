@@ -14,8 +14,6 @@ There are a few good places to eat in Montezuma. As well do not miss the Organic
 
 **Contributors**
 April 15, 2007
-new
-by [nana6](/member/nana6)
 
 ### [Cafe Azucar](/centralamericathecaribbean/costarica/montezuma/eating_out/cafe_azucar)
 

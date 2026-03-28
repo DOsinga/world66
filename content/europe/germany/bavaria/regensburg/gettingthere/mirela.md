@@ -18,5 +18,3 @@ tel: 00447946275755
 address: 14 princes place ,LONDON W11 4 QA
 
 email: mirelaspahiu30@hotmail.com
-
-[back to Getting There](..)

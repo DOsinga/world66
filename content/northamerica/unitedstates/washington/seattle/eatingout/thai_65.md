@@ -10,7 +10,5 @@ Friendly service and savory food has many locals packing this newly opened (3/05
 
 **Contributors**
 April 30, 2005
-new
-by [minlee](/member/minlee) (1 point)
 
 type: Thai

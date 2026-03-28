@@ -162,8 +162,6 @@ Sarova Lion Hill Lodge or Lake Nakuru Lodge.
 
 **Contributors**
 November 26, 2008
-new
-by [jamiat](/member/jamiat)
 
 type: Other
 
@@ -176,5 +174,3 @@ url: [afrolinktourstravel.com](http://afrolinktourstravel.com/)
 address: P.O BOX 51270 - 00100 GPO Nairobi - Kenya, Rattansi House, Koinange Street,
 
 email: info@afrolinktourstravel.com
-
-[back to Things to do](..)

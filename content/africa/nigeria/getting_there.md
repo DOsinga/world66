@@ -36,9 +36,3 @@ Services to Lagos Port Harcourt and Calabar sail from London Liverpool and other
 Road
 
 Links are with Benin Niger Chad and Cameroon. The principal trans-Saharan routes pass through Nigeria from Niger. The principal link with Benin is via the Idoroko border point along the good coast road to Lagos. All land borders with the exception of the border with Chad which was closed in May 1984 have now been reopened.
-
-
-
-## Subsections
-
-[By Air](/africa/nigeria/gettingthere/byair)

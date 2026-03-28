@@ -19,5 +19,3 @@ Only a 20 minute drive from Oslo is the Nordmarka Forest. This large, natural wi
 
 **Contributors**
 October 23, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

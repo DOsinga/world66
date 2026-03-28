@@ -1,9 +1,9 @@
 ---
-title: "Crawfordsville Travel Guide"
+title: "Crawfordsville"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Crawfordsville, the Montgomery County seat, has a population of about 15,000 and is situated just south of Interstate 74 about halfway between Indianapolis and the Illinois state line.
 
@@ -30,7 +30,3 @@ The city stands on the banks of scenic Sugar Creek and is the departure point fo
 Military historian and collector Fred Ropkey recently moved his Ropkey Armor Museum from Indianapolis to a rural Crawfordsville site. The museum includes one of the largest private collections of tanks and other armored vehicles in the world. Ropkey has more armored vehicles in his collection than do some small countries. The museum is open Mondays through Fridays from 10:30 a.m. to 4:30 p.m.
 
 Crawfordsville dining highlights include Little Mexico, an authentic Mexican restaurant in the 200 block of East Main Street and the Creekside Lodge just west of U.S. 231 on the banks of Sugar Creek.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 06:11

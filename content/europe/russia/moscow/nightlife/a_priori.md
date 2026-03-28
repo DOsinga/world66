@@ -14,8 +14,6 @@ Face Control, Dress Code. Entence: 300 rub
 
 **Contributors**
 March 12, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing
 
@@ -26,5 +24,3 @@ type: Clubs and dancing
 url: [www.apriori-club.ru](http://www.apriori-club.ru)
 
 address: Bolshaya Molchanovka, 12 (metro Arbatskaya)
-
-[back to Nightlife and Entertainment](..)

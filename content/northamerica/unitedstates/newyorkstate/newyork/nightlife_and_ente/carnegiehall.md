@@ -11,8 +11,6 @@ Musicians have been dreaming about Carnegie Hall since 1891, and now, during you
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Concerts
 
@@ -23,5 +21,3 @@ url: [www.carnegiehall.org](http://www.carnegiehall.org)
 tel: 212-747-7800
 
 address: West 57th Street at 7th Avenue, Midtown West
-
-[back to Nightlife and Entertainment](..)

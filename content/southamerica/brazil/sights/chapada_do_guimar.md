@@ -7,9 +7,3 @@ type: "Hotspots"
 Localizada a 60 km de Cuiabá - Mato Grosso
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

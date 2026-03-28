@@ -16,5 +16,3 @@ Quttinirpaaq National Park is located on Ellesmere Island and helps protect the 
 **Auyuittuq National Park**
 
 Auyuittuq National Park is located on Baffin Island and preserves the northern extremity of the Canadian Shield. The park is home to polar bear, barren-ground caribou, snowy owls and arctic lemmings. For more information, plus a virtual tour of park features, visit Auyuittuq National Park
-
--->

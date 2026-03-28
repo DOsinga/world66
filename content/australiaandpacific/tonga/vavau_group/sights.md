@@ -7,5 +7,3 @@ Whale watching, diving with sea snakes, diving with whales, lots of fishing, lot
 
 **Contributors**
 January 06, 2005
-new
-by [giorgio](/member/giorgio)

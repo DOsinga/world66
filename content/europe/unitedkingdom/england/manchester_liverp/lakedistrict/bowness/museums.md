@@ -9,5 +9,3 @@ http://www.visitcumbria.com/amb/winsteam.htm
 
 **Contributors**
 December 06, 2004
-new
-by [davidx](/member/davidx)

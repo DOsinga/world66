@@ -26,8 +26,6 @@ history.
 
 **Contributors**
 October 23, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 [](http://www.amazon.com/exec/obidos/ASIN/3922590462/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -36,5 +34,3 @@ by [svetico](/member/svetico) (2 points)
 author: Brian Deming, Ted Iliff
 
 isbn: 3922590462
-
-[back to Books](..)

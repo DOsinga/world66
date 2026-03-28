@@ -9,13 +9,9 @@ If you want to take a break from all of the museums, you can take a stroll throu
 
 **Contributors**
 May 22, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
 
 
 url: [ww.bioparco.it](http://ww.bioparco.it)
-
-[back to Things to do](..)

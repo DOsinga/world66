@@ -23,5 +23,3 @@ url: [?????](http://?????)
 address: 928 Orara Way Nana Glen 2450 N.S.W.
 
 email: frdowdle@bigpond.com
-
-[back to Getting There](..)

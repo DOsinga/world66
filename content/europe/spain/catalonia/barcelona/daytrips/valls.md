@@ -10,11 +10,7 @@ Considered off the beaten path, the town of Valls is known as the “Cradle of C
 
 **Contributors**
 May 16, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 
 
 url: [www.ajvalls.org](http://www.ajvalls.org)
-
-[back to Day Trips](..)

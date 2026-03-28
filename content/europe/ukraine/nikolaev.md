@@ -1,0 +1,4 @@
+---
+title: "Nikolaev"
+type: location
+---

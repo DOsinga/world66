@@ -13,8 +13,6 @@ The most frequented spot is Psychro.
 
 **Contributors**
 May 02, 2005
-new
-by [hollandtraveler](/member/hollandtraveler)
 
 ### [Psychro (the Diktaean cave)](/europe/greece/crete/lassithi_plateau/sights/psychro)
 

@@ -12,5 +12,3 @@ The twin cities of Rosenberg and Richmond are about fifteen minutes southwest of
 Brazos Bend State Park is home to over 4000 acres of diverse wildlife and is also the site of one of the first Challenger Centers dedicated after the shuttle's demise. It's primary focus is educating young people about space travel and science. It is here you can also get a look at the Fort Bend Observatory which is home to one of the largest telescopes in the country that remain open to the public. 
 
 *Trivia: Fort Bend County's Courthouse is the one featured in scenes on the syndicated program "Texas Justice". The show is syndicated by Houston's FOX affiliate, KRIV-TV and filmed in their studios.*
-
--->

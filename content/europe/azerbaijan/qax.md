@@ -1,9 +1,9 @@
 ---
-title: "Qax Travel Guide"
+title: "Qax"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Qax is a pleasant an tranquil provincial town, northwest of [Sheki](/europe/az-sheki.html) , at the base of an appendix of Azeri territory that penetrates into Georgia and Dagestan.
 
@@ -18,13 +18,3 @@ Near Kakhi you'll find the tomb of Haji Murat, a fighter against Russian occupat
 The nearby village of [Ilisu](/europe/az-ilisu.html) was once the capital of an independent sultanate. There is only one street but two castle towers, a mosque and a bridge dating from the 18 th century remain.
 
 (400 km northwest of Baku)
-
-*Part or or all of this text stems from the original article at: azerb.com*
-
-#### Contributors
-
-April 30, 2006 new by [azerbaijan08](/member/azerbaijan08) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 23:54

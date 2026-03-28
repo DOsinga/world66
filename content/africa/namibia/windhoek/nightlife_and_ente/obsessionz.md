@@ -20,5 +20,3 @@ tel: +264 81 233 1494
 url: [www.clubobsessionz.co.nr](http://www.clubobsessionz.co.nr/)
 
 address: Southern Industry, Windhoek, Namibia
-
-[back to Nightlife and Entertainment](..)

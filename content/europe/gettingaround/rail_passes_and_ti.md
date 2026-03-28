@@ -18,5 +18,3 @@ Spcially priced passes are available for students & youth, 2 or more people trav
 tel: 888-724-5727
 
 url: [www.railpass.com](http://www.railpass.com)
-
-[back to Getting Around](..)

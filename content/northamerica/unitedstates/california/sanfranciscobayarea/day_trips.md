@@ -7,5 +7,3 @@ Just had a terriffic day in Sausalito. Took the ferryboat over - a world class r
 
 **Contributors**
 January 31, 2009
-new
-by [kaybradner](/member/kaybradner)

@@ -11,8 +11,6 @@ Pacific coast diving is awesome. You can learn to dive, advance your skills with
 
 **Contributors**
 July 26, 2007
-new
-by [geo80](/member/geo80) (1 point)
 
 type: Diving
 
@@ -23,5 +21,3 @@ tel: (506)7773171
 url: [www.oceansunlimitedcr.com](http://www.oceansunlimitedcr.com)
 
 email: info@oceansunlimitedcr.com
-
-[back to Things to do](..)

@@ -29,5 +29,3 @@ can also travel by train to Ulm.
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

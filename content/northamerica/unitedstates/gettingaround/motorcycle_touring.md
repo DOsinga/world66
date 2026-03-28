@@ -7,15 +7,5 @@ In addition to getting around by automobile, those who ride can travel by ***mot
 
 **Contributors**
 September 17, 2006
-new
-by [chench53](/member/chench53) (1 point)
 
 March 30, 2007
-change
-by [approaching genius](/member/approaching_genius) (1 point)
-
-
-
-
-
-[back to Getting Around](..)

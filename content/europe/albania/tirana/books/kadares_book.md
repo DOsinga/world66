@@ -25,5 +25,3 @@ The Concert: A Novel
 
 
 author: Kadare Ismail
-
-[back to Books](..)

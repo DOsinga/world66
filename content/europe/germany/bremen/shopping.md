@@ -53,5 +53,3 @@ take in the interior design and lively public performances.
 
 **Contributors**
 November 01, 2009
-new
-by [leah rendon](/member/leah_rendon)

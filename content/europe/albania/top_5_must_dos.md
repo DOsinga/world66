@@ -56,5 +56,3 @@ of the kidneys, stomach, urinary tract, and thyroid.
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

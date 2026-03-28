@@ -13,12 +13,8 @@ restaurant.
 
 **Contributors**
 July 29, 2005
-new
-by [ragna](/member/ragna)
 
 May 18, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -31,5 +27,3 @@ tel: +233 61 27116/24393
 address: on the road to Fiapre
 
 email: eusbett@excite.com
-
-[back to Eating Out](..)

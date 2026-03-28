@@ -64,5 +64,3 @@ tel: +49 9861 - 32 98
 **Night Watchman's Tour**
 
 Take the Night Watchman's Tour at 8 pm meeting at town hall. He gives a great tour with plenty of Rothenburg's history
-
--->

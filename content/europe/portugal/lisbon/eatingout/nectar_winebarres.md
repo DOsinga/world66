@@ -7,8 +7,6 @@ phone: "912633368"
 price: "25-35�"
 type: "Portuguese"
 url: "www.nectar-winebar.com"
-latitude: 38.713418
-longitude: -9.137447
 ---
 
 **N�ctar WineBar** is a place dedicated to the promotion of Portugal's wine and gastronomic culture. Néctar Winebar is gay fliendly.
@@ -36,5 +34,3 @@ address: R. dos Douradores, N� 33, 1100-203 Lisboa
 PriceOfMenu: 25-35�
 
 email: geral@nectar-winebar.com
-
-[back to Eating Out](..)

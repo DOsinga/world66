@@ -5,8 +5,6 @@ address: "Hurghada,Egypt"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 **Movenpick Royal Lotus facilities: **
@@ -111,5 +109,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Hurghada,Egypt
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Family Travel Ideas](..)

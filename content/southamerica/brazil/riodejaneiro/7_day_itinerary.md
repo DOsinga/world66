@@ -84,5 +84,3 @@ enjoying the great weather on their bicycles, skateboards and roller blades. The
 
 **Contributors**
 January 11, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

@@ -1,0 +1,4 @@
+---
+title: "Hopkinsville"
+type: location
+---

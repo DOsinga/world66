@@ -38,5 +38,3 @@ Mr.Vieslav's Commie disco moves.
 
 **Contributors**
 January 03, 2008
-change
-by [sentias](/member/sentias)

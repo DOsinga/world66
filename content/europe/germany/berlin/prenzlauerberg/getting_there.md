@@ -42,5 +42,3 @@ take in all the sights and sounds of this historic neighborhood.
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)

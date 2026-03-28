@@ -27,9 +27,5 @@ Once known for having the most breweries in a German city, Cologne now has but a
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 26, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

@@ -16,5 +16,3 @@ tel: +233244658518
 address: box ax 1213, Takoradi, Ghana
 
 email: alexthedarpoh@yahoo.co.uk
-
-[back to Beaches](..)

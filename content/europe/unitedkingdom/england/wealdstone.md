@@ -1,0 +1,4 @@
+---
+title: "Wealdstone"
+type: location
+---

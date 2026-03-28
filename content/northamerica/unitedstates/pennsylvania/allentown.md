@@ -1,0 +1,4 @@
+---
+title: "Allentown"
+type: location
+---

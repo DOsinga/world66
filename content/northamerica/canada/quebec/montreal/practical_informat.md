@@ -68,5 +68,3 @@ transportation system is so effective that just in 2007, it had about
 
 **Contributors**
 August 19, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

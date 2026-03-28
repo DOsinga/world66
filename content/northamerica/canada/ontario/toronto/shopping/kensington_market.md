@@ -9,8 +9,6 @@ Located in the heart of downtown Toronto, Kensington Market is one of the cities
 
 **Contributors**
 June 26, 2005
-new
-by [the_influence](/member/the_influence)
 
 type: Markets
 
@@ -19,5 +17,3 @@ type: Markets
 
 
 address: just west of Spadina and Dundas West
-
-[back to Shopping](..)

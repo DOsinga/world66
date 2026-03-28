@@ -46,9 +46,3 @@ bank account.
 
 **Contributors**
 January 31, 2010
-new
-by [kellyyannne](/member/kellyyannne)
-
-
-
-[back to Budget Travel Ideas](..)

@@ -1,8 +1,6 @@
 ---
 title: "Fiema"
 type: location
-latitude: 7.719088
-longitude: -1.693715
 ---
 
 In Brong Ahafo Region, in between Sunyani and Kintampo, there's avillage where people and monkey's live happely together. The people there believe the monkey's have the spirit's of there ancestors, so they'll give them food, drinks (yeah, even beer if they'd want it) etc. 

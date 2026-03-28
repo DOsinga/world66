@@ -1,8 +1,6 @@
 ---
 title: "Bergamo"
 type: location
-latitude: 45.756656
-longitude: 9.754219
 ---
 
 Bergamo is divided in two parts with quite a distinct atmosphere. The **Citta Alta** is the old part of town, it has small steep streets with old houses and many churches, the **Citta Bassa** brings you the fast paced Italian life of the industrialized north. 

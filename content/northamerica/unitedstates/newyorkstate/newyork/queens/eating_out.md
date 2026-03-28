@@ -48,13 +48,4 @@ trendy atmosphere while remaining family friendly.
 Candy Shop**
 
 Eddie’s Sweet Shop is a child’s wonderland that will take
-you back to the early 1900’s. The store
-is set up like an old soda shop with the malts and sundaes to prove it. The ice cream is homemade with lots of
-different flavors and combinations to choose from. You can top off your ice cream sundae with
-their whipped cream that is made fresh daily and drown it in any combination of
-the house syrups. Whether you’re taking
-the kids for desert or satisfying your inner-child, your sweet tooth will thank
-you.
-
-Whether you’re looking for something foreign and exciting or
-familiar to your home you will always find something to satisfy you in Queens.
+you

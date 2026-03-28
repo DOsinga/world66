@@ -33,5 +33,3 @@ url: [www.krakow-cafe.com.ar](http://www.krakow-cafe.com.ar/index-ingles.html)
 address: Venezuela 474, San Telmo, Buenos Aires
 
 email: info@krakow-cafe.com.ar
-
-[back to Nightlife and Entertainment](..)

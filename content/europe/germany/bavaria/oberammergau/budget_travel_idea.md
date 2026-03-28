@@ -50,5 +50,3 @@ However you go you will no doubt have a wonderful time touring this part of Germ
 
 **Contributors**
 November 18, 2009
-new
-by [harding](/member/harding)

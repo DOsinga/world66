@@ -21,5 +21,3 @@ Tourism continues in Sharm el-Sheikh throughout the year and is the main industr
 
 **Contributors**
 October 15, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

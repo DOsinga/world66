@@ -7,11 +7,3 @@ A 1/2 mile stretch of golden sand. A great playpark for the kids, surfing and wa
 
 **Contributors**
 February 13, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
-
-
-
-
-
-[back to Beaches](..)

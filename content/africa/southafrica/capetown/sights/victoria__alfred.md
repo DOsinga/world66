@@ -13,8 +13,6 @@ There is a Visitors Centre onsite which serves as the starting point for local s
 
 **Contributors**
 July 02, 2007
-new
-by [pierrej7](/member/pierrej7)
 
 type: Hotspots
 
@@ -25,5 +23,3 @@ tel: +27(21)4087600
 url: [www.waterfront.co.za](http://www.waterfront.co.za/)
 
 address: Portswood Ridge, 8002 Cape Town
-
-[back to Sights](..)

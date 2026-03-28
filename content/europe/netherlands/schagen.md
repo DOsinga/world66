@@ -1,0 +1,4 @@
+---
+title: "Schagen"
+type: location
+---

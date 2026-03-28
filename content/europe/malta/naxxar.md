@@ -1,8 +1,6 @@
 ---
 title: "Naxxar"
 type: location
-latitude: 35.91334
-longitude: 14.443285
 ---
 
 The Naxxar Locality is spread over an area of eleven kilometres squared and has a population of over eleven thousand persons. The whole locality comprises the Naxxar centre, Sghajtar area, Santa Marija tax-Xaghra, San Pawl tat-Targa, Birguma, Maghtab, Salina, Bahar ic-Caghaq and part of Madliena. 
@@ -32,6 +30,3 @@ The main painting shows the Birth of Our Lady which is attributed to the school 
 The main door, which is made of bronze, is dated 1913 and is the work of Pio Cellini. The door is made up of four main panels depicting the coat of arms of Our Lady, Patroness of Naxxar; the village coat of arms; the coat of arms of Pope St Pius X and the coat of arms of the family Zammit who were the benefactors of this door. In 1952 this door was dismantled, and renovated and cleaned by the blacksmith Mastru Lucens Agius. The expenses involved were once more paid for by the same family Zammit. 
 
 The statue of the Vitorja, which feast is celebrated on the 8th September, was imported from Rome whilst the statues of the Good Friday Procession are the work of a Maltese craftsman. Naxxar was one of the first villages which had the statues of the Passion of Our Lord and in fact it is believed that the procession started being held just after 1750. On the 9th November 1787, the body of the martyr St Vittorio was brought from the cemetry of St Calepodio of Rome and is found in the altar in the choir.
-
-*Change history*
-Orginal article by [hogan1040](/member/hogan1040) on 05 April 04

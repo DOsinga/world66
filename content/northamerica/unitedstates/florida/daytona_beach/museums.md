@@ -21,8 +21,6 @@ Once your visit to the light station is complete, visitors can grab a bite to ea
 
 **Contributors**
 July 11, 2006
-change
-by [michael bennett](/member/michael_bennett)
 
 ### [Ponce de Leon Inlet Lighthouse](/northamerica/unitedstates/florida/daytona_beach/museums/ponce_de_leon_inle)
 

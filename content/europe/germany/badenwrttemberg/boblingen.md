@@ -1,0 +1,4 @@
+---
+title: "Boblingen"
+type: location
+---

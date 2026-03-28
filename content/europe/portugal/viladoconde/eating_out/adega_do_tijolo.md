@@ -10,13 +10,5 @@ Cleanliness always under management's watchful eye. Come over to the public squa
 
 **Contributors**
 September 09, 2004
-change
-by [mtl](/member/mtl) (1 point)
 
 type: general
-
-
-
-
-
-[back to Eating Out](..)

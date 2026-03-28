@@ -41,5 +41,3 @@ When asking directions to locals, remember these 2 words: makai and makua. A com
 
 **Contributors**
 September 16, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

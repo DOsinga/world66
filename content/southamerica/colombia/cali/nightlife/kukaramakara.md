@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 address: North
-
-[back to Nightlife and Entertainment](..)

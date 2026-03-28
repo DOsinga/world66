@@ -9,13 +9,9 @@ Online guide to hotels, restaurants, shops, thermal parks and other attractions 
 
 **Contributors**
 June 22, 2006
-new
-by [karenbru](/member/karenbru) (2 points)
 
 type: Tourist information
 
 
 
 url: [www.onischia.com](http://www.onischia.com)
-
-[back to Practical Information](..)

@@ -5,9 +5,6 @@ type: section
 
 **The Baptista-Bastos virtual museum** - http://www.Baptista-Bastos.virtual.museum
 
-*Change history*
-Orginal article by [José Machado](/member/jos_machado) on 11 June 04
-
 **Museums**
 
 **The Baptista-Bastos virtual museum**

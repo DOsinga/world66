@@ -40,5 +40,3 @@ url: [www.esotouric.com](http://www.esotouric.com)
 address: PO Box 31227, LA, CA 90031
 
 email: tours@esotouric.com
-
-[back to Things to do](..)

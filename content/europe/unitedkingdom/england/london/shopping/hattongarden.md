@@ -9,9 +9,3 @@ The place for jewellery. With a whole street full of jewellers, you're guarantee
 Best tube stations: Chancery Lane, Farringdon
 
 type: Shopping Areas
-
-
-
-
-
-[back to Shopping](..)

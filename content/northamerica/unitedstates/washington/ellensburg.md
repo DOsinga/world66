@@ -1,9 +1,9 @@
 ---
-title: "Ellensburg Travel Guide"
+title: "Ellensburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The small city of Ellensburg is often, and sadly, overlooked by Washington's local and foreign travelers alike. Just a two hour drive over Snoqualmie Pass on Eastbound I-90 from Seattle, and nestled on the floor of the picturesque Kittitas Valley, the home of the Ellensburg Rodeo provides the eastbound traveler a great place to rest for an hour, or even enjoy the whole weekend.
 
@@ -16,11 +16,3 @@ If you plan to spend just one weekend of the year in Ellensburg, at no other tim
 When you decide to make the journey east you will find no shortage of places to stay the night. The Ellensburg Inn, for example, offers clean and comfortable rooms at a reasonable $95-118 per night in the high season and an unobtrusive $79 per night after September 10th. Rodeo weekend (Labor Day) books quickly, with the last few rooms available in early June.
 
 Even the most hurried of eastward travellers owes themselves a stop in Central Washington's Country Cosmopolis.
-
-#### Contributors
-
-July 17, 2006 change by [stoneowl](/member/stoneowl)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 10:43

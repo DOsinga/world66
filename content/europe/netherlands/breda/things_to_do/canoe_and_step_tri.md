@@ -14,5 +14,3 @@ type: Rowing and Canoeing
 
 
 url: [www.beleef-breda.nl](http://www.beleef-breda.nl)
-
-[back to Things to do](..)

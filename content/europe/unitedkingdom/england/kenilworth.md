@@ -1,0 +1,4 @@
+---
+title: "Kenilworth"
+type: location
+---

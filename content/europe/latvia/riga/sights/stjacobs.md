@@ -2,8 +2,6 @@
 title: "St. Jacob's."
 type: poi
 type: "Churches"
-latitude: 56.969321
-longitude: 24.137879
 ---
 
 Klostera 2.
@@ -14,19 +12,10 @@ type: Churches
 
 
 
-[back to Sights](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -9,5 +9,3 @@ The John Ruskin Museum in the village not only has various works of art by Ruski
 
 **Contributors**
 December 07, 2004
-new
-by [davidx](/member/davidx)

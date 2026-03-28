@@ -1,0 +1,4 @@
+---
+title: "Scottburgh"
+type: location
+---

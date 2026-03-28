@@ -19,5 +19,3 @@ url: [mojotravelguides.com](http://mojotravelguides.com/en/montmartre-stories-fr
 address: 24 Baile an Tooreen
 
 email: sales@mojotravelguides.com
-
-[back to Day Trips](..)

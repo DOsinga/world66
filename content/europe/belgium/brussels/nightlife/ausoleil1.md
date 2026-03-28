@@ -17,5 +17,3 @@ type: Bars & Pubs
 address: 86 rue Marché au Charbon
 
 tel: 02 513 3430
-
-[back to Nightlife and Entertainment](..)

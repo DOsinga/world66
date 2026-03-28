@@ -1,12 +1,8 @@
 ---
-title: "Burlington Travel Guide"
+title: "Burlington"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Burlington is a city outside of Boston
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 21:22

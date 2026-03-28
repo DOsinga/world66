@@ -8,13 +8,5 @@ If you enjoy spicy chicken, this is your Graceland! The atmosphere is campy. It 
 
 **Contributors**
 June 13, 2005
-change
-by [hobobrother](/member/hobobrother)
 
 type: American
-
-
-
-
-
-[back to Eating Out](..)

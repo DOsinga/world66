@@ -1,13 +1,11 @@
 ---
 title: "Luce Resto Bar"
-type: location
+type: poi
 address: "8693, Rue Saint-Denis"
 phone: "514.858.5823"
 price: "$15-$30"
 type: "Italian"
 url: "www.restomontreal.ca"
-latitude: 45.54533
-longitude: -73.63818
 ---
 
 **Restaurant Bar Luce** located on
@@ -43,5 +41,3 @@ url: [www.restomontreal.ca](http://www.restomontreal.ca/portal/luce/)
 address: 8693, Rue Saint-Denis
 
 PriceOfMenu: $15-$30
-
-[back to Eating Out](..)

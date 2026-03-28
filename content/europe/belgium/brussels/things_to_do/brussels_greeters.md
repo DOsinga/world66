@@ -20,5 +20,3 @@ type: Spa and Sauna
 
 
 url: [www.brussels.greeters.be](http://www.brussels.greeters.be)
-
-[back to Things to do](..)

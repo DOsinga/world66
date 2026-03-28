@@ -27,9 +27,5 @@ How could anyone resist visiting the alligator capital of the world? Whether you
 
 **Contributors**
 March 17, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 March 15, 2010
-new
-by [suegabel](/member/suegabel)

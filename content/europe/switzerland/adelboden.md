@@ -1,0 +1,4 @@
+---
+title: "Adelboden"
+type: location
+---

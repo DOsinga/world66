@@ -18,5 +18,3 @@ address: Piazza M.d. Aldobran
 openings: Lit. 11000
 
 tel: +39 (0)55 - 2388602
-
-[back to Sights](..)

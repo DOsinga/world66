@@ -1,0 +1,4 @@
+---
+title: "Ratingen"
+type: location
+---

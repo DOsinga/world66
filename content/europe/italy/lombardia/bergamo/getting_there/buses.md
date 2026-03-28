@@ -9,8 +9,6 @@ Buses are frequent and not so expensive. The "autostradale" buses are the interc
 
 **Contributors**
 May 18, 2006
-change
-by [karenbru](/member/karenbru) (4 points)
 
 type: By Road
 
@@ -19,5 +17,3 @@ type: By Road
 
 
 url: [www.autostradale.it](http://www.autostradale.it)
-
-[back to Getting There](..)

@@ -9,26 +9,15 @@ During that week there are a variety of themed parades, the horse parade, the ol
 
 **Contributors**
 August 09, 2005
-new
-by [reen](/member/reen)
 
 
 
 
 
-[back to Festivals](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

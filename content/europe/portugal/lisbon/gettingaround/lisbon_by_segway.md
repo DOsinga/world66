@@ -5,8 +5,6 @@ address: "Rua dos douradores,16"
 email: "info@lisbonbysegway.com"
 phone: "+351210965030"
 url: "www.lisbonbysegway.com"
-latitude: 38.711616
-longitude: -9.136731
 ---
 
 Lisbon by Segway is not the conventional Segway tour.
@@ -30,5 +28,3 @@ url: [www.lisbonbysegway.com](http://www.lisbonbysegway.com)
 address: Rua dos douradores,16
 
 email: info@lisbonbysegway.com
-
-[back to Getting Around](..)

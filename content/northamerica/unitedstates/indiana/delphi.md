@@ -1,9 +1,9 @@
 ---
-title: "Delphi Travel Guide"
+title: "Delphi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Delphi, the county seat of Carroll County, is roughly halfway between Lafayette and Logansport on Ind. 25 and some 65 northwest of Indianapolis.
 
@@ -18,7 +18,3 @@ Delphi falls within the economic orbit of Lafayette and many residents commute t
 The city is served by the Delphi Community School Corp. School teams are nicknamed the Oracles, in reference to the historical significance of the city's name.
 
 Delphi's architectural centerpiece is the Carroll County Courthouse, a three-story limestone structure that features a stained-glass dome and multi-level rotunda.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 01:56

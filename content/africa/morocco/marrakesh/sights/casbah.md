@@ -7,9 +7,3 @@ type: "Palaces"
 casbah
 
 type: Palaces
-
-
-
-
-
-[back to Sights](..)

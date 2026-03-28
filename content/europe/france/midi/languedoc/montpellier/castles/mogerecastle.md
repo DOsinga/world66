@@ -9,6 +9,4 @@ Built in the 18thcentury, fitted out in the 19th century, with 18th century furn
 
 Tel : 04 67 65 72 01
 
-Castle Visits : From June 1st to October 1st, from 14:30 to 18:30. From October 1st, Saturdays, Sundays and Holidays from 14:30 to 18:00. During the rest of the year, visits upon request only.  
-
--->
+Castle Visits : From June 1st to October 1st, from 14:30 to 18:30. From October 1st, Saturdays, Sundays and Holidays from 14:30 to 18:00. During the rest of the year, visits upon request only.

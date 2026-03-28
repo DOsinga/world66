@@ -9,8 +9,6 @@ Bars and Cafes in Santa Cruz
 
 **Contributors**
 October 19, 2007
-new
-by [lenestol](/member/lenestol)
 
 ### [Zoccoli's - The Italian Delicatessen](/northamerica/unitedstates/california/sanfranciscobayarea/santacruz/bars_and_cafes/zoccolis__the_it)
 

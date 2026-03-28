@@ -1,8 +1,6 @@
 ---
 title: "Ghat"
 type: location
-latitude: 26.019813
-longitude: 10.433991
 ---
 
 We currently have no information about Ghat.

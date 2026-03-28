@@ -1,0 +1,4 @@
+---
+title: "Cauayan"
+type: location
+---

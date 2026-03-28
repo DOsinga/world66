@@ -55,5 +55,3 @@ and ruined mosque found below the castle from the rein of Ali Pasha.
 
 **Contributors**
 April 17, 2010
-new
-by [2 many commas](/member/2_many_commas)

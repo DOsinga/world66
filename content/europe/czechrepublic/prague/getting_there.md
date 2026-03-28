@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-## Subsections
+Getting there
 
-[By Air](/europe/czechrepublic/prague/gettingthere/byair)
+We currently have no Getting There listed in Prague.
+
+If you do know any Getting There in Prague, please [Add].

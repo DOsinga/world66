@@ -10,8 +10,6 @@ In Germany, there aren´t many places you can go to for a plastic surgery, or on
 
 **Contributors**
 August 21, 2007
-new
-by [mannfredweiss](/member/mannfredweiss)
 
 
 
@@ -22,5 +20,3 @@ tel: (5521) 2524-8184
 url: [www.cosmeticvacations.com](http://www.cosmeticvacations.com)
 
 email:
-
-[back to Tours and Excursions](..)

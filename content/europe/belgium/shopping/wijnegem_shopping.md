@@ -5,8 +5,6 @@ address: "Wijnegem"
 phone: "+32/(0)3 350 14 44"
 type: "Shopping centers and malls"
 url: "www.wijnegemshoppingcenter.be"
-latitude: 51.227076
-longitude: 4.522532
 ---
 
 ** Wijnegem Shopping Center **

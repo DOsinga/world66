@@ -19,5 +19,3 @@ Peak season in Oslo lasts from June through August. Airfares are higher and the 
 
 **Contributors**
 September 25, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

@@ -1,0 +1,4 @@
+---
+title: "Reedsville"
+type: location
+---

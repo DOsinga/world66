@@ -11,13 +11,9 @@ Instead the famous Italian poet "Torquato Tasso" came from the Village "Cornello
 
 **Contributors**
 February 28, 2008
-new
-by [karenbru](/member/karenbru)
 
 
 
 url: [www.brembana.info](http://www.brembana.info/borghi/cornello/cornello.html)
 
 address: Cornello dei Tasso, Brembana Valley
-
-[back to Day Trips](..)

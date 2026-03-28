@@ -35,5 +35,3 @@ This last day is another day of fun bike riding, so check out the bike paths tha
 
 **Contributors**
 March 20, 2010
-new
-by [turkeyfish](/member/turkeyfish)

@@ -9,7 +9,3 @@ Ranu Raraku is the quary where the Moai bodies were carved. Take the trail up th
 If you are driving yourself try to come when the mini-buses are not here. You'll enjoy the experience more without the people.
 
 type: Hotspots
-
-
-
-[back to Sights](..)

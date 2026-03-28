@@ -2,8 +2,6 @@
 title: "Communications"
 type: poi
 type: "Tourist information"
-latitude: 50.454457
-longitude: 30.492917
 ---
 
 The international country code for Ukraine is +038
@@ -35,9 +33,3 @@ Train Schedule: 005
 Train Tickets: 050
 
 type: Tourist information
-
-
-
-
-
-[back to Practical Information](..)

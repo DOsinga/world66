@@ -11,8 +11,6 @@ shrimp, just fabulous. All for great prices and cozy ambiance! Deserve a try !
 
 **Contributors**
 November 29, 2007
-change
-by [adamthomas](/member/adamthomas)
 
 type: Spanish
 
@@ -23,5 +21,3 @@ type: Spanish
 tel: 2232 3215
 
 address: Praça Tiradentes 83, Centro
-
-[back to Eating Out](..)

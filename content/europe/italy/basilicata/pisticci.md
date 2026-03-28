@@ -1,8 +1,6 @@
 ---
 title: "Pisticci"
 type: location
-latitude: 40.390527
-longitude: 16.556732
 ---
 
 Set in a region that is very rough and is great for hiking, Pisticci is

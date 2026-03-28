@@ -20,5 +20,3 @@ At the doors of Deauville, the Calouste Gulbenkian park aka. Domaine des Enclos 
 tel: 33-2 31 14 40 00
 
 openings: Opens from July 1st to August 31st
-
--->

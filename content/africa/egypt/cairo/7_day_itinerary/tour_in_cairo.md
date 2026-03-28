@@ -18,7 +18,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Come and join us in our
 **tour** in **cairo**,You will
@@ -37,7 +37,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **the email is:** info@travelegypt.ws
 
@@ -52,5 +52,3 @@ url: [www.travelegypt.ws](http://www.travelegypt.ws/watched.php?Id=119&title=Cai
 address: Tour in Cairo
 
 email: info@travelegypt.ws
-
-[back to 7 Day Itinerary](..)

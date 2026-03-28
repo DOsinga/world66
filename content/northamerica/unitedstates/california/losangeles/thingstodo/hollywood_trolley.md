@@ -26,5 +26,3 @@ tel: (800) 959-3131
 url: [www.starlinetours.com](http://www.starlinetours.com)
 
 address: Please go to the Starline Ticket Booth at Grauman’s Chinese Theatre in Hollywood. Located at 6925 Hollywood Blvd., Hollywood.
-
-[back to Things to do](..)

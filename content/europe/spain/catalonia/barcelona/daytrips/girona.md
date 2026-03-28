@@ -11,11 +11,3 @@ from Barcelona (one hour by train).
 
 **Contributors**
 June 25, 2006
-new
-by [reen](/member/reen) (1 point)
-
-
-
-
-
-[back to Day Trips](..)

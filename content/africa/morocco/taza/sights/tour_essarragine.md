@@ -11,13 +11,9 @@ The tower, unfortunately crumbling, has a curious construction: square at the ba
 
 **Contributors**
 October 07, 2006
-change
-by [bernhadette](/member/bernhadette) (4 points)
 
 type: Landmarks
 
 
 
 address: Taza-Haut, Medina
-
-[back to Sights](..)

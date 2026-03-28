@@ -31,5 +31,3 @@ Translated from Portuguese, it means "golden beach." This portion of the Albufei
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

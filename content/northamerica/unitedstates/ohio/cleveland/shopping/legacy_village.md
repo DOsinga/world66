@@ -11,8 +11,6 @@ Legacy Village has a niche in furniture, houswares, and eating out. It is an att
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Shopping centers and malls
 
@@ -23,5 +21,3 @@ tel: 216.382.3871
 url: [www.legacy-village.com](http://www.legacy-village.com/)
 
 address: 25001 Cedar Rd.
-
-[back to Shopping](..)

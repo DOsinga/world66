@@ -1,6 +1,6 @@
 ---
 title: "Chartwell ."
-type: location
+type: poi
 type: "general"
 ---
 

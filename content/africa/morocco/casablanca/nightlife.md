@@ -1,5 +1,5 @@
 ---
-title: "Nightlife"
+title: "Nightlife and Entertainment"
 type: section
 ---
 
@@ -9,13 +9,13 @@ You must remember this... Well, Rick's Place is not to be found. There are quite
 
 Casa does have quite some good nighlife. You can check out the following addresses.
 
-**Points of Interest**
+**all**
 
 **la bodega**
 
 its a spanish pub,restaurant the have good food and nice music if you really want to have a good dance thats a place to be and the have good service
 
-address: reu mohammed 5
+address: 129 Rue Allal Ben Abdallah
 
 openinghours: 21:00
 

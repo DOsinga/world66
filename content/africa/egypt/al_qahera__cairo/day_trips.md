@@ -95,21 +95,7 @@ excursion to The Pyramids of Cheops, Chephren and
 
 Mykerinus. Then proceed to visit the Great Sphinx, the head
 
-of a pharaoh with a lion’s body, which dates back to the time
-
-of Chephren; the tour also includes a visit to the Valley
-
-Temple, which belongs to the Pyramids of Chephren. Move
-
-to visit the Step Pyramid of Zoser, the world’s oldest major
-
-stone structure. It was built in the 3rd Dynasty
-
-(around 2630 BC) for King Djoser. After that transfer to
-
-Memphis [more..](/africa/egypt/al_qahera__cairo/day_trips/pyramids__sakkara)
-
-
+of a pharaoh with a lion’s body, which dates 
 
 [[rate it]](/africa/egypt/al_qahera__cairo/day_trips/pyramids__sakkara)
 
@@ -275,9 +261,7 @@ years the first capital of Egypt, and see the Statue of
 
 Ramses II. On your way to the south you will visit the Red
 
-Pyramid and Bent Pyramid at Dahshur. Back to [more..](/africa/egypt/al_qahera__cairo/day_trips/sakkara__dahshur)
-
-
+Pyramid and Bent Pyramid at Dahshur. 
 
 [[rate it]](/africa/egypt/al_qahera__cairo/day_trips/sakkara__dahshur)
 

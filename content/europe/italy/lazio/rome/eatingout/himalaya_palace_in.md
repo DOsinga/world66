@@ -29,5 +29,3 @@ address: CIR.NE. GIANICOLENSE 277/279
 PriceOfMenu: €18.00 €22.00
 
 email: himalayapalace.com
-
-[back to Eating Out](..)

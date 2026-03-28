@@ -21,5 +21,3 @@ There is a $20.00 charge per vehicle to enter the West End Beach, but walk-ins a
 
 **Contributors**
 June 16, 2008
-new
-by [baxwrtr](/member/baxwrtr) (1 point)

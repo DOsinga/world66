@@ -1,0 +1,4 @@
+---
+title: "Mikolajki"
+type: location
+---

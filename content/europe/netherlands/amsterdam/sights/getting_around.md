@@ -38,5 +38,3 @@ For taxis, TCA Tel. 6777777 is the old monopolist. Taxi Direct is the new compet
 **Bike Hire**
 
 There are numerous places to hire bikes from. Some recommended include:  [more..](/europe/netherlands/amsterdam/gettingaround/bikehire)
-
--->

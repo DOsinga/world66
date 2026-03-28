@@ -8,11 +8,5 @@ To get to **Vail **from **Denver **simply get on Interstate 70 heading West. If 
 
 **Contributors**
 April 04, 2005
-new
-by [javaboy](/member/javaboy)
 
 type: By Road
-
-
-
-[back to Getting There](..)

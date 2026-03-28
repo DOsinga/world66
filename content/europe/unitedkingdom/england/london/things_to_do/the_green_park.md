@@ -10,8 +10,6 @@ Running is a lovely experience in just about any London park. Jogging is also a 
 
 **Contributors**
 May 17, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Other
 
@@ -20,5 +18,3 @@ type: Other
 url: [www.royalparks.org.uk](http://www.royalparks.org.uk/parks/green_park/)
 
 address: Between Hyde Park and St. James Park
-
-[back to Things to do](..)

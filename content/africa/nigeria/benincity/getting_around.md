@@ -20,9 +20,5 @@ By Motor Bike
 
 **Contributors**
 April 12, 2010
-change
-by [ctanios](/member/ctanios)
 
 April 09, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

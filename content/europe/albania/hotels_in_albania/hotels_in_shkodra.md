@@ -1,9 +1,9 @@
 ---
-title: "Hotels In Shkodra Travel Guide"
+title: "Hotels In Shkodra"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Find Hotels in Albania with http://www.digi-travel.com
 
@@ -12,7 +12,3 @@ Pogradec, Shkodra, Himare, Orikum, Dhermi, Borsh, Ksamil, Golem,
 Divjake, Theth, Valbone, Velipoje, Shengjin, Spille, Radhime, Llogara,
 Voskopoje, Dardhe, Apollonia, Butrinti- only at
 http://www.digi-travel.com
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 02:11

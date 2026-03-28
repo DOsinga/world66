@@ -10,8 +10,6 @@ Here are a few suggestions for a daytrip from Lisbon.
 
 **Contributors**
 April 26, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### Estoril & Cascais Tour (+/- 5Hrs)
 

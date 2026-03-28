@@ -67,9 +67,5 @@ neighborhood.
 
 **Contributors**
 March 12, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 11, 2010
-new
-by [kimerly](/member/kimerly)

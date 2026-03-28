@@ -47,5 +47,3 @@ url: [www.quiet-merzouga.com](http://www.quiet-merzouga.com)
 address: ksar tiharien merzouga morocco
 
 email: quietmerzouga1@gmail.com
-
-[back to Budget Travel Ideas](..)

@@ -1,0 +1,4 @@
+---
+title: "Tamarindo"
+type: location
+---

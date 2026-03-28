@@ -1,8 +1,6 @@
 ---
 title: "Spoleto"
 type: location
-latitude: 42.734297
-longitude: 12.738203
 ---
 
 We currently have no information about Spoleto.

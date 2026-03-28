@@ -24,5 +24,3 @@ www.rodeowild.com.au
 
 **Contributors**
 June 15, 2005
-change
-by [giorgio](/member/giorgio)

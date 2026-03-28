@@ -27,9 +27,5 @@ It is not advisable to take a trip during summers as it becomes to too hot to st
 
 **Contributors**
 April 01, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 29, 2010
-new
-by [piyushjain](/member/piyushjain_)

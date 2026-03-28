@@ -6,8 +6,6 @@ email: "casapelicanos@yahoo.com"
 phone: "57079465-56461765"
 type: "Tourist information"
 url: "www.pelicanosguatemala.com"
-latitude: 16.874522
-longitude: -89.595933
 ---
 
 **Hotel "Café del Sol"**
@@ -16,8 +14,6 @@ A nice place to stay is the Hotel&Restaurant "Cafe del Sol" on the beach of Mont
 
 **Contributors**
 September 01, 2006
-new
-by [thomas59](/member/thomas59)
 
 ### [casas Pelicanos 1 y 2](/centralamericathecaribbean/guatemala/monterrico/practical_informat/casas_pelicanos_1)
 

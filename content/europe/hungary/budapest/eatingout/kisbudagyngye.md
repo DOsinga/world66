@@ -8,7 +8,3 @@ Charming restaurant in Óbuda, which roughly translated means 'small pearl of Bu
 address: Kenyeres u. 34
 
 tel: 168-6402/168 9246
-
-[back to Eating Out](..)
-
--->

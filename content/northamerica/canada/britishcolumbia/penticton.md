@@ -1,0 +1,4 @@
+---
+title: "Penticton"
+type: location
+---

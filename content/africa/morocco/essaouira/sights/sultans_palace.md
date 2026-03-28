@@ -26,13 +26,5 @@ always just hire a camel!
 
 **Contributors**
 February 23, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Palaces
-
-
-
-
-
-[back to Sights](..)

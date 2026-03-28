@@ -8,13 +8,5 @@ A huge brand new restaurant that boasts the best cuisine and concept in my opini
 
 **Contributors**
 May 06, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: International
-
-
-
-
-
-[back to Eating Out](..)

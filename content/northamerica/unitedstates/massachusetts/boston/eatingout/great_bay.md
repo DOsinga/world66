@@ -14,8 +14,6 @@ Already famous for it's excellent Clam Chowder, this newer Boston seafood restau
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Seafood
 
@@ -32,5 +30,3 @@ address: 500 Commonwealth Avenue
 PriceOfMenu: $20-$80
 
 email: mpaul@hotelcommonwealth.com
-
-[back to Eating Out](..)

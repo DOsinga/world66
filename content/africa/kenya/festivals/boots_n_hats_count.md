@@ -36,5 +36,3 @@ url: [www.countryfestival.co.ke](http://www.countryfestival.co.ke)
 date: March 14, 2015
 
 email: info@countryfestival.co.ke
-
-[back to Festivals](..)

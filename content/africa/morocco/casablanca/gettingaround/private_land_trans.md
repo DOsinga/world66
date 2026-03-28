@@ -8,13 +8,9 @@ a Private Company provides Customized independent travel and escorted tours In C
 
 **Contributors**
 February 14, 2009
-change
-by [lbartes](/member/lbartes)
 
 
 
 
 
 email: lbart23@gmail.com
-
-[back to Getting Around](..)

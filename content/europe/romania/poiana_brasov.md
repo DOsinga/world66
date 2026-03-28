@@ -1,7 +1,9 @@
 ---
-title: "Poiana Brasov Travel Guide"
+title: "Poiana Brasov"
 type: location
 ---
+
+Travel Guide
 
 Poiana
 Brasov, founded in 1895 as a
@@ -66,5 +68,3 @@ Rasnov, and Bran Castle.
 
 **Contributors**
 November 17, 2006
-new
-by [romaniatours](/member/romaniatours) (4 points)

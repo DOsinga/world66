@@ -13,5 +13,3 @@ One of the most interesting places, which you can visit when you are in Vratsa, 
 
 **Contributors**
 June 20, 2006
-change
-by [giorgio](/member/giorgio)

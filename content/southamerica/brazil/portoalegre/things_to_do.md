@@ -46,5 +46,3 @@ afternoon of enjoyment.
 
 **Contributors**
 January 09, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

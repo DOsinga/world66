@@ -31,5 +31,3 @@ Finally, you can visit Jekyll Island just 90 miles from Savannah. Here you can t
 
 **Contributors**
 September 02, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

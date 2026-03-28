@@ -1,9 +1,9 @@
 ---
-title: "Buckskin Gulch Travel Guide"
+title: "Buckskin Gulch"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Buckin Gulch is the longest and deepest slot canyon in the Southwestern
 United States. At 16 miles long, up to 500 feet deep, filled with
@@ -27,11 +27,3 @@ a rope and be prepared to rappel down. Most people hike out up
 the Paria River 7 miles to Whitehouse.
 
 There are many sites on the internet with more detailed descriptions so I won't repeat those here.
-
-#### Contributors
-
-July 05, 2005 new by [wiseleyb](/member/wiseleyb)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 08:14

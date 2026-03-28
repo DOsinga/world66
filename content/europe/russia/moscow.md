@@ -1,8 +1,6 @@
 ---
 title: "Moscow"
 type: location
-latitude: 55.625578
-longitude: 37.606392
 ---
 
 **Moscow** is one of the oldest and one of the most beautiful Russian cities.
@@ -19,31 +17,6 @@ For more information on other attractive places that you can see in Moscow, plea
 
 **See also other cities of Russia:**
 
+   [Irkutsk](/europe/russia/irkutsk) [Kazan](/europe/russia/kazan) [Kizhi](/europe/russia/kizhi)  [St Petersburg](/europe/russia/stpetersburg) [Murmansk](/europe/russia/murmansk) [Novgorod](/europe/russia/novgorod)  [Novosibirsk](/europe/russia/novosibirsk) [Orel](/europe/russia/orel) [Pyatigorsk](/europe/russia/pyatigorsk)  [Suzdal](/europe/russia/suzdal) [Tula](/europe/russia/tula) [Ulyanovsk](/europe/russia/ulyanovsk)  [Vladivostok](/europe/russia/vladivostok) [Vladimir](/europe/russia/vladimir) [Yakutsk](/europe/russia/yakutsk)    
 
- 
- 
- [Irkutsk](/europe/russia/irkutsk)
- [Kazan](/europe/russia/kazan)
- [Kizhi](/europe/russia/kizhi)
- 
- [St Petersburg](/europe/russia/stpetersburg)
- [Murmansk](/europe/russia/murmansk)
- [Novgorod](/europe/russia/novgorod)
- 
- [Novosibirsk](/europe/russia/novosibirsk)
- [Orel](/europe/russia/orel)
- [Pyatigorsk](/europe/russia/pyatigorsk)
- 
- [Suzdal](/europe/russia/suzdal)
- [Tula](/europe/russia/tula)
- [Ulyanovsk](/europe/russia/ulyanovsk)
- 
- [Vladivostok](/europe/russia/vladivostok)
- [Vladimir](/europe/russia/vladimir)
- [Yakutsk](/europe/russia/yakutsk)
- 
- 
- 
- 
-
-**Back to [Russia](/europe/russia)**
+****

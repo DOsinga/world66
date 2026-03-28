@@ -11,8 +11,6 @@ The New York Botanical Garden is one of the oldest botanical gardens in America 
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Spa and Sauna
 
@@ -23,5 +21,3 @@ tel: 718-817-8700
 url: [www.nybg.org](http://www.nybg.org)
 
 address: Bronx River Parkway at Fordham Road
-
-[back to Things to do](..)

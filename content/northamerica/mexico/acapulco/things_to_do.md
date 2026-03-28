@@ -37,12 +37,8 @@ Roqueta Island
 
 **Contributors**
 February 11, 2009
-new
-by [niyocruisequeen45](/member/niyocruisequeen45)
 
 March 28, 2009
-change
-by [tourbyvan](/member/tourbyvan)
 
 ### [Deep Sea Fishing](/northamerica/mexico/acapulco/things_to_do/deap_sea_fishing)
 

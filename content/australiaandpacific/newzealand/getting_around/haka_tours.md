@@ -21,5 +21,3 @@ tel: 00448448009256
 url: [www.hakatours.com](http://www.hakatours.com)
 
 email: info@hakatours.com
-
-[back to Getting Around](..)

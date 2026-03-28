@@ -14,5 +14,3 @@ type: By Air
 
 
 url: [www.bigtravelweb.com](http://www.bigtravelweb.com/blag_bussiness_flights.htm)
-
-[back to Getting There](..)

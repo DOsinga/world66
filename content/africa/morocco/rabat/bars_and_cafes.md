@@ -55,5 +55,3 @@ the Rabat bars and cafes.
 
 **Contributors**
 March 12, 2010
-new
-by [revjugular](/member/revjugular)

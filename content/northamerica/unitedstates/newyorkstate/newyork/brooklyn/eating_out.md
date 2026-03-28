@@ -12,8 +12,6 @@ Brooklyn is rapidly stealing some of the culinary spotlight from Manhattan. Broo
 
 **Contributors**
 August 21, 2006
-change
-by [kirfaulder](/member/kirfaulder) (2 points)
 
 ### [Bamonte's Restaurant](/northamerica/unitedstates/newyorkstate/newyork/brooklyn/eating_out/bamontes_restaura)
 

@@ -3,8 +3,6 @@ title: "Rasa"
 type: poi
 address: "North London"
 type: "Indian and Pakistani"
-latitude: 51.618339
-longitude: -0.04415
 ---
 
 This high quality Indian restaurant specializes in curries from the
@@ -24,5 +22,3 @@ type: Indian and Pakistani
 
 
 address: North London
-
-[back to Eating Out](..)

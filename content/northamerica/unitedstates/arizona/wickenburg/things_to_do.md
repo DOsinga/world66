@@ -16,5 +16,3 @@ www.williamsfamilyranch.com
 
 **Contributors**
 October 21, 2006
-new
-by [midnightspecial](/member/midnightspecial)

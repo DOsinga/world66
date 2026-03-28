@@ -27,9 +27,5 @@ Though Legoland has transformed Billund from virtual anonymity to a famous touri
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 06, 2010
-new
-by [sameera kumar](/member/sameera_kumar)

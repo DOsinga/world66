@@ -14,8 +14,6 @@ A visit to the recovered Hunley submarine is one of the most popular of Charlest
 
 **Contributors**
 May 26, 2009
-new
-by [harding](/member/harding)
 
 ### [Suggest a Link from Hotel](/northamerica/unitedstates/southcarolina/charleston/things_to_do/suggest_a_link_fro)
 

@@ -10,5 +10,3 @@ type: section
 [clubs & dancing](/europe/austria/wels/nightlife?subsection=clubs%20%26%20dancing)
 
 [cinemas](/europe/austria/wels/nightlife?subsection=cinemas)
-
--->

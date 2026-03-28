@@ -10,7 +10,4 @@ Attention:
 
 This track is to be accessed from Cocksdorp and is closed for the public from March 1st to September 1st.!!*
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 26 March 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 26 March 05
+Minor corrections on 26 March 05

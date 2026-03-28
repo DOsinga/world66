@@ -11,8 +11,6 @@ A "petit-déjeuner" costs between 20 and 25 Dirham (about 2 to 2,50 Euro), fresh
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)
 
 type: Local
 
@@ -23,5 +21,3 @@ type: Local
 tel: 00212-3538-2691
 
 address: Immeuble Aarab Angle,Avenue Mohammed V,35000 Taza
-
-[back to Eating Out](..)

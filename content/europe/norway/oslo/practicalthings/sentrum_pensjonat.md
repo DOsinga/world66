@@ -18,5 +18,3 @@ tel: +47 02 2335580
 address: Tolbugata 8, Oslo
 
 email: post@sentrumpensjonat.no
-
-[back to Practical Information](..)

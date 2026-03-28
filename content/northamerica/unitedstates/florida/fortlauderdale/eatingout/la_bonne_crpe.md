@@ -14,8 +14,6 @@ La Bonne Crêpe, located conveniently along Olas Blvd., offers authentic French 
 
 **Contributors**
 May 26, 2009
-new
-by [harding](/member/harding)
 
 type: French
 
@@ -32,5 +30,3 @@ address: 815 E. Las Olas Blvd.,Fort Lauderdale, FL 33301
 PriceOfMenu: $10 to $30
 
 email: LaBonneCrepe@aol.com
-
-[back to Eating Out](..)

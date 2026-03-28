@@ -35,5 +35,3 @@ Independent Cycle Tours New Zealand offer a range of guided and self-guided tour
 url: [www.cyclehire.co.nz](http://www.cyclehire.co.nz)
 
 address: Independent Cycle Tours New Zealand
-
-[back to Getting Around](..)

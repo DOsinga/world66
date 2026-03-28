@@ -1,12 +1,8 @@
 ---
-title: "Upper Marlboro Travel Guide"
+title: "Upper Marlboro"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Upper Marlboro, Maryland hotel lodging near Washington, DC attractions. The all-new Sleep Inn hotel in Upper Marlboro, MD features complimentary hot breakfast, modern meeting facilities for small groups, business center, fitness center, and hotel shuttle.
-
-Page last generated on Mon 07:12
-
--->

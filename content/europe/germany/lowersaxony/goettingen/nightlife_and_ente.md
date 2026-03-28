@@ -4,8 +4,6 @@ type: section
 address: "Juedenstrasse"
 email: "www.rodeo-bar.de"
 type: "Clubs and dancing"
-latitude: 52.516535
-longitude: 13.410592
 ---
 
 Because this city is considered a "student-town", there are several
@@ -16,8 +14,6 @@ about what's going on in the city that month.
 
 **Contributors**
 June 13, 2005
-new
-by [seboslaw](/member/seboslaw) (1 point)
 
 ### [Rodeo Bar](/europe/germany/lowersaxony/goettingen/nightlife_and_ente/rodeo_bar)
 

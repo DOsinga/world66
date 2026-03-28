@@ -19,8 +19,6 @@ language spoken by their inhabitants.
 
 **Contributors**
 December 30, 2009
-new
-by [goscotlandtours](/member/goscotlandtours)
 
 ### [Outer Hebrides Scotland Adventure Tour](/europe/unitedkingdom/scotland/western_isles__th/day_trips/outer_hebrides_sco)
 

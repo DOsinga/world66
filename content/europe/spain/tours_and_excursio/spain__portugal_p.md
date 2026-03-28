@@ -5,8 +5,6 @@ address: "Spain"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 39.326068
-longitude: -4.837979
 ---
 
 While at shore in Spain and Portugal why not travel in style at your own pace with a private VIP guide. For small groups or couples it is a perfect option to explore various important port cities like... Barcelona, Lisbon, Vigo, Malaga, Cadiz, Porto, etc... Even venture off from the port city and visit surrounding areas.
@@ -17,7 +15,4 @@ Before our after your cruise you could spend some time ashore visiting more in-d
 
 We have a wide selection of private shore excursions and extended specialty tours available from every port, if you can't find one that fits into your schedule or preferences let us know and we would be glad to quote for a customized tour just for you!
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 26 January 05
-
-Minor corrections by [EuroAdventures](/member/euroadventures) on 03 March 05
+Minor corrections on 03 March 05

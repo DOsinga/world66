@@ -100,5 +100,3 @@ author: Masha Greenbaum
 isbn: 9652291323
 
 subject: history
-
--->

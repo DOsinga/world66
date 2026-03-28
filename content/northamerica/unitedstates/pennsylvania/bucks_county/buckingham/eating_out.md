@@ -13,8 +13,6 @@ A small, growing community, Buckingham offers a variety of dining options.
 
 **Contributors**
 January 18, 2006
-new
-by [michael chapman](/member/michael_chapman)
 
 ### [Baci Ristorante](/northamerica/unitedstates/pennsylvania/bucks_county/buckingham/eating_out/baci_ristorante)
 

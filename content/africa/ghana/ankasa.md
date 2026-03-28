@@ -1,9 +1,9 @@
 ---
-title: "Ankasa Travel Guide"
+title: "Ankasa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Ankasa National Park and Old Ankasa are situated near the Ivorian border, these two places are worth a visit. The National Park is a 500 sq.km. tropical rainforest area and the village is located on the border of the National Park.
 
@@ -27,13 +27,3 @@ This place is a perfect stopover, after an exhausting hike. The locals show you 
 -Antelopes and so on.
 
 You’ll find it all in Ankasa National Park.
-
-*Part or or all of this text stems from the original article at: Virtual Tourist Page: Wafro*
-
-#### Contributors
-
-February 08, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 10:17

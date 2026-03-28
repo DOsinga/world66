@@ -21,9 +21,4 @@ type: section
 
 **Konstantinos Mentzelopoulos**
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 19 October 04
-
-Minor corrections by [Skipper](/member/skipper) on 19 October 04
-
--->
+Minor corrections on 19 October 04

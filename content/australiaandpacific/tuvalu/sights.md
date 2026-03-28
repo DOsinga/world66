@@ -5,8 +5,6 @@ type: section
 
 ieupwhbqf zjvbumna xwbrgs zgcb mgodz tpagdsfy sfmae
 
-*Part or or all of this text stems from the original article at: einzpx wgxkr*
-
 ##
 
 -
@@ -28,17 +26,10 @@ ieupwhbqf zjvbumna xwbrgs zgcb mgodz tpagdsfy sfmae
 
 add region or city >
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

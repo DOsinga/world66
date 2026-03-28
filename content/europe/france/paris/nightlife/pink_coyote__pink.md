@@ -5,8 +5,6 @@ address: "49-51 rue de Ponthieu 75008 Paris"
 closing_time: "2 pm"
 email: "events@pinkparadise.fr"
 type: "Erotic clubs and bars"
-latitude: 48.870224
-longitude: 2.311009
 ---
 
 **EVERY THURSDAY EXCEPTIONAL PRIVATISATION** of the **PINK PARADISE** for the after-work of Paris!
@@ -32,5 +30,3 @@ ClosingTime: 2 pm
 address: 49-51 rue de Ponthieu 75008 Paris
 
 email: events@pinkparadise.fr
-
-[back to Nightlife and Entertainment](..)

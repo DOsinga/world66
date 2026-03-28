@@ -10,8 +10,6 @@ Entertainment in Redlands, including a FREE concert series in the park.
 
 **Contributors**
 December 05, 2005
-new
-by [handyman321](/member/handyman321)
 
 ### [Redlands Bowl](/northamerica/unitedstates/california/inlandempire/redlands/nightlife_and_ente/redlands_bowl)
 

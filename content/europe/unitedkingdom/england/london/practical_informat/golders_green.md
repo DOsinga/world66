@@ -8,13 +8,5 @@ Golders Green is an area in the London Borough of Barnet in London, England. It 
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

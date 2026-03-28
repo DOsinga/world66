@@ -1,0 +1,4 @@
+---
+title: "Chrudim"
+type: location
+---

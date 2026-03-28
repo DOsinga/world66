@@ -8,7 +8,5 @@ type: "Casinos"
 
 **Contributors**
 December 28, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Casinos

@@ -1,7 +1,9 @@
 ---
-title: "Jaén (province) Travel Guide"
+title: "Jaén (province)"
 type: location
 ---
+
+Travel Guide
 
 The province of Jaén is very diverse, from the hustle and bustle of steamy hot capital [Jaén](/southamerica/peru/northern_pacific_t/jan), its refreshing or ice cold rivers, to the isolated cool mountain towns like [Santa Rosa](/northamerica/unitedstates/california/northcoast/santarosa). Climates differ as much in rainfall as in temperature. Close to the Andean peaks on road to [Chiclayo](/southamerica/peru/chiclayo) it’s pretty dry, while the cloud forests of Huamantanga hardly ever see a day without rain.
 
@@ -19,16 +21,10 @@ An interesting place to do some exploring is [Santa Rosa](/southamerica/peru/nor
 
 **Contributors**
 April 06, 2006
-change
-by [joosts](/member/joosts) (4 points)
 
 June 05, 2006
-change
-by [giorgio](/member/giorgio)
 
 April 24, 2006
-change
-by [reen](/member/reen)
 
 ## Destinations in Jaén (province)
 

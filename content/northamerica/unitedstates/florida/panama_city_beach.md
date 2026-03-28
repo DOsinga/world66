@@ -1,9 +1,9 @@
 ---
-title: "Panama City Beach Travel Guide"
+title: "Panama City Beach"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Panama City Beach, Florida is a well-known vacation
 destination located on the northwest Panhandle of Florida bordered by picturesque St.
@@ -53,11 +53,3 @@ Panama City Beach’s social media and web efforts have
 earned recognition by mcnbc.com and the NY Times, and the destination can be
 found on Facebook, MySpace, Twitter, YouTube, Flickr and a variety of other
 sites.
-
-#### Contributors
-
-July 07, 2009 change by [panamacitybeachfl](/member/panamacitybeachfl)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 10:00

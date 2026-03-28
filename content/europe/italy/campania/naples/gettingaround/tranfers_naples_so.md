@@ -12,13 +12,9 @@ Naples' creative population makes for a lively and entertaining atmosphere, but 
 
 **Contributors**
 June 09, 2008
-change
-by [mcburton](/member/mcburton)
 
 
 
 
 
 url: [www.amalficoastdrive-sorrentoprivatetour.com](http://www.amalficoastdrive-sorrentoprivatetour.com)
-
-[back to Getting Around](..)

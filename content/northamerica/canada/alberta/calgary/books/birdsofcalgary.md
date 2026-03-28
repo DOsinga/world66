@@ -18,5 +18,3 @@ author: Robin Bovey
 isbn: 0-919433-82-0
 
 subject: Bird Identification
-
-[back to Books](..)

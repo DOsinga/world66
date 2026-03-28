@@ -1,8 +1,6 @@
 ---
 title: "Ndola"
 type: location
-latitude: -12.969306
-longitude: 28.636589
 ---
 
 Ndola is the capital of what is known as the Copperbelt region of
@@ -32,5 +30,3 @@ The locals in Ndola are very nice, and the city has a very friendly feel. There 
 
 **Contributors**
 June 20, 2005
-change
-by [giorgio](/member/giorgio)

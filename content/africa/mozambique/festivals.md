@@ -33,5 +33,3 @@ Visit the [beaches](/africa/mozambique/beaches)on Christmas day in Mozambique, r
 
 **Contributors**
 March 26, 2010
-new
-by [gabriellet](/member/gabriellet)

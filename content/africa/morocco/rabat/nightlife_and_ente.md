@@ -52,5 +52,3 @@ truly memorable trip to Morocco.
 
 **Contributors**
 March 19, 2010
-new
-by [kat99](/member/kat99)

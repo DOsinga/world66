@@ -2,8 +2,6 @@
 title: "Mulligans"
 type: poi
 address: "Poolbeg St."
-latitude: 53.346837
-longitude: -6.256141
 ---
 
 A stones throw from College Green on Poolbeg St, (off Tara St.) this
@@ -19,5 +17,3 @@ Enjoy a perfect pint here.
 
 
 address: Poolbeg St.
-
-[back to Bars and Cafes](..)

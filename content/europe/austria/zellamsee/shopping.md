@@ -58,5 +58,3 @@ with a reasonable price tag.
 
 **Contributors**
 April 13, 2010
-new
-by [kwalker](/member/kwalker)

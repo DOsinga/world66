@@ -8,8 +8,6 @@ phone: "61 03 93863222"
 price: "$4.00 per hour + $3.00 per hour for *account holders"
 type: "Internet Cafe"
 url: "www.psyonix.com.au"
-latitude: -37.753224
-longitude: 144.964724
 ---
 
 **Psyonix** along with **Cafe Net **have built **Coburg's** most modern and most comfortable internet cafe.
@@ -27,8 +25,6 @@ problem that arises.
 
 **Contributors**
 April 26, 2009
-change
-by [webshogun](/member/webshogun)
 
 type: Internet Cafe
 
@@ -47,5 +43,3 @@ price: $4.00 per hour + $3.00 per hour for *account holders
 email: info@psyonix.com.au
 
 hours: Mon - Fri 9:00am to 9:00pm Sat - CLOSED Sun 12:00pm to 8:00pm
-
-[back to Internet Cafes](..)

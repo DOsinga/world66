@@ -1,0 +1,4 @@
+---
+title: "Stillwater"
+type: location
+---

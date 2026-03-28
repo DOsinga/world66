@@ -8,5 +8,3 @@ This is the oldest homestead in the Cape. The Manor House on the farm which was
 address: Off Constantia Road, Wynberg. M41
 
 tel: ++27 (0)21 794 5067.
-
--->

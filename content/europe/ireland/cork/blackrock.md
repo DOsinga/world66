@@ -1,8 +1,6 @@
 ---
 title: "Blackrock"
 type: location
-latitude: 51.897457
-longitude: -8.413085
 ---
 
 Eastern suburb of Cork, once a village in its own right. Landmark Blackrock Castle is located here. 

@@ -8,8 +8,6 @@ Here are a few places to eat in in Luxor.
 
 **Contributors**
 November 03, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### [Happy Habou](/africa/egypt/luxor/eating_out/happy_habou)
 

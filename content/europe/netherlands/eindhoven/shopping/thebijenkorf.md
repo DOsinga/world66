@@ -9,9 +9,3 @@ This is the biggest (also rather expensive) department store in Eindhoven and it
 For some strange gifts try the Chill Out here.
 
 type: general
-
-
-
-
-
-[back to Shopping](..)

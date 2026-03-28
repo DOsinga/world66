@@ -64,7 +64,3 @@ type: section
 *male:* 100%
 
 *female:* 99% (1989 est.)
-
-
-
--->

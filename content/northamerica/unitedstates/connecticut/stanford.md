@@ -1,0 +1,4 @@
+---
+title: "Stanford"
+type: location
+---

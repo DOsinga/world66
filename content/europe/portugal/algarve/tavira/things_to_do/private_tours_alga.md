@@ -19,5 +19,3 @@ type: Spa and Sauna
 url: [www.tours-tavira.com](http://www.tours-tavira.com/)
 
 email: henrique@taviratours.com
-
-[back to Things to do](..)

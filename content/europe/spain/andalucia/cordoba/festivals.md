@@ -47,5 +47,3 @@ squares.
 
 **Contributors**
 September 25, 2006
-change
-by [giorgio](/member/giorgio)

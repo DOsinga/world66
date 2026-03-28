@@ -1,9 +1,9 @@
 ---
-title: "Mount Gambier Travel Guide"
+title: "Mount Gambier"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mount Gambier the 'Blue Lake City' is South Australia's second
 largest City, located midway between the major capital cities of
@@ -27,11 +27,3 @@ Charles Sturt.
 "Gambiertown" as it was known in
 early years was founded by Hastings Cunningham who in 1854 subdivided a
 section of 77 acres for the establishment of a town.
-
-#### Contributors
-
-April 20, 2007 new by [directwithotels](/member/directwithotels) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 21:58

@@ -29,5 +29,3 @@ With fabulous beaches, plenty of sightseeing and budget eateries, Salou should d
 
 **Contributors**
 February 23, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

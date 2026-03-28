@@ -23,5 +23,3 @@ It's a well known fact that California is home to many different wineries. Centr
 
 **Contributors**
 March 11, 2010
-new
-by [guacadoggie](/member/guacadoggie)

@@ -26,5 +26,3 @@ url: [www.club9.ca](http://www.club9.ca)
 address: #210-10324-82nd Avenue
 
 email: club9@live.ca
-
-[back to Nightlife and Entertainment](..)

@@ -8,13 +8,5 @@ The ExCeL Exhibition Centre is a large purpose built exhibition centre situated 
 
 **Contributors**
 February 05, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Convention Center
-
-
-
-
-
-[back to Practical Information](..)

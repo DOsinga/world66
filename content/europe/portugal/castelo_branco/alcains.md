@@ -1,9 +1,9 @@
 ---
-title: "Alcains Travel Guide"
+title: "Alcains"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The origin of Alcains is particulary on to the development of the agricultural exploration of the fields, a time that the locality if finds between streams being the stream of the Líria the predominant water course.
 
@@ -18,13 +18,3 @@ The currents limits of Alcains, were enclosed in the Iberian Peninsula , this en
 Also numerous vestiges of the Roman period had been found, such as a Roman oven in the called place of Bare Head and two roads Romans a coming of Castelo Branco and following for north and another coming of Castile, passing for the Egitânea (Idanha-a-Nova), following for Saint Vicente da Beira in direction the Coimbra.
 
 The influence of the Arabs is well-known in Alcains, until the name is of Arab origin, Alcaien what it means Existing or Permanent, as based Loyal Pine as of custom, in Frei Luis de Sousa.
-
-#### Contributors
-
-August 22, 2005 change by [giorgio](/member/giorgio)
-
-September 06, 2005 change by [airesdossantos](/member/airesdossantos)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 01:07

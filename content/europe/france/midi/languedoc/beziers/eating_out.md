@@ -6,8 +6,6 @@ address: "12 rue Boîeldieu, 34500 Béziers"
 phone: "0467 499 000"
 type: "French"
 url: "www.restaurant-octopus.com"
-latitude: 43.342784
-longitude: 3.217668
 ---
 
 ### [Octopus](/europe/france/midi/languedoc/beziers/eatingout/octopus)

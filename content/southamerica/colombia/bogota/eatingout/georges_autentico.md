@@ -14,8 +14,6 @@ Typical Colombian casual, comfort food - heavy on the meat. Several locations in
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: South American
 
@@ -34,5 +32,3 @@ address: CC Andino Terraza L-401
 PriceOfMenu: Reasonable/inexpensive
 
 email: gerencia@bbq.com.co
-
-[back to Eating Out](..)

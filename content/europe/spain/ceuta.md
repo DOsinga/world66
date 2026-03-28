@@ -1,0 +1,4 @@
+---
+title: "Ceuta"
+type: location
+---

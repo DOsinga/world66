@@ -9,5 +9,3 @@ Other parts of Cumbria are served well by train with Carlisle, Penrith and Oxenh
 
 **Contributors**
 June 07, 2006
-new
-by [rc1](/member/rc1) (1 point)

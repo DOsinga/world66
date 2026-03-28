@@ -1,0 +1,4 @@
+---
+title: "Amboin"
+type: location
+---

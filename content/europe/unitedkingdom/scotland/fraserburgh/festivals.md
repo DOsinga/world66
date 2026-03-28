@@ -8,8 +8,6 @@ Faithlie Fest.
 
 **Contributors**
 February 02, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Faithlie Fest - Fraserburgh's Summer Arts Festival](/europe/unitedkingdom/scotland/fraserburgh/festivals/faithlie_fest___f)
 

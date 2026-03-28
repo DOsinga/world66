@@ -45,21 +45,4 @@ The castle is thought to be built in the 8th century and is an
 interesting look at the area from a historical perspective. Take a
 walking tour of the city.
 
-**Day Six: Head Back to the Beaches**
-
-Head to any number of the beaches you have yet to explore. Check out
-the west end if you haven't been there already to view the strange rock
-formations along the beach and take some photos. Try another water sport
-or just relax on the beach.
-
-**Day Seven: Return Home**
-
-Head to the beach for sunrise if you have a midday flight to get one
-last look at the beautiful sand and water. If you will be leaving
-later in the day, enjoy a breakfast in one of the cafes along the beach
-and then walk the Fisherman's beach one last time before heading home.
-
-**Contributors**
-February 19, 2010
-change
-by [kat99](/member/kat99)
+**Day Six: Head

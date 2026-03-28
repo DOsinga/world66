@@ -98,5 +98,3 @@ Authentic Tirolean inn, tranquil location on the edge of a forest, cosy beer gar
 address: Strad 11c, A - 6464 Tarrenz
 
 tel: 0043/5412/66024
-
--->

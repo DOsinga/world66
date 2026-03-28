@@ -24,5 +24,3 @@ url: [www.fancythatoflondon.co.uk](http://www.fancythatoflondon.co.uk)
 address: 3-4 Station Approach, London NW1
 
 email: sales@fancythatoflondon.com
-
-[back to Shopping](..)

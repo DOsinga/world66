@@ -25,5 +25,3 @@ Nice - Top 5 Must Do's Nice is quintessentially French in character(even more th
 
 **Contributors**
 March 08, 2010
-change
-by [kimerly](/member/kimerly)

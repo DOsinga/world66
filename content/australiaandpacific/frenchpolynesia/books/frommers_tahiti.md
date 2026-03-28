@@ -16,8 +16,6 @@ experiences.
 
 **Contributors**
 January 09, 2009
-change
-by [bgood](/member/bgood)
 
 [](http://www.amazon.com/exec/obidos/ASIN/9780470189887/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -26,5 +24,3 @@ by [bgood](/member/bgood)
 author: Bill Goodwin
 
 isbn: 9780470189887
-
-[back to Books](..)

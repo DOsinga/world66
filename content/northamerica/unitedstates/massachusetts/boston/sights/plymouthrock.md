@@ -10,8 +10,6 @@ The Pilgrims are believed to have stepped from the Mayflower onto this boulder, 
 
 **Contributors**
 September 09, 2004
-change
-by [rcolonna](/member/rcolonna)
 
 type: Landmarks
 
@@ -20,5 +18,3 @@ type: Landmarks
 address: North Square 19
 
 openingHours: PHENTERMINE
-
-[back to Sights](..)

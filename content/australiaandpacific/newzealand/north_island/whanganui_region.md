@@ -10,8 +10,3 @@ The alternative spelling if the name are just one aspect of the Maori cultural r
 The *Whanganui* (or *Wanganui*) *River* is, unlike most [New Zealand](/australiaandpacific/newzealand) rivers is navigable from the sea to its upper reaches. For many years the river was the only transport route to the inland communities and farms.
 
 The city of [Wanganui](/australiaandpacific/newzealand/wanganui) lies at the mouth of the river.
-
-*Change history*
-Orginal article by [Huttite](/member/huttite) on 11 January 05
-
--->

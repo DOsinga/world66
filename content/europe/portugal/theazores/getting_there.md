@@ -14,9 +14,5 @@ America. There are no regular boat connections from anywhere.
 
 **Contributors**
 March 25, 2005
-new
-by [ingvar](/member/ingvar) (1 point)
 
 March 29, 2005
-change
-by [giorgio](/member/giorgio)

@@ -1,0 +1,4 @@
+---
+title: "Altaussee"
+type: location
+---

@@ -18,7 +18,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Kenya Tanzania safaris tour packages for 2011 holiday safaris,cheap holidays Tanzania,budget travel kenya tanzania safaris,beach holidays,Kenya Tanzania safari African Holidays,Tours Kenya Tanzania Wildlife Safaris,Masai mara Lodge uganda gorilla Treks,kenya tanzania Luxury safari
 

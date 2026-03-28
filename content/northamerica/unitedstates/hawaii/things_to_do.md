@@ -43,5 +43,3 @@ sport enthusiasts. Also, bring a hat, water and sunblock lotion.
 
 **Contributors**
 July 21, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

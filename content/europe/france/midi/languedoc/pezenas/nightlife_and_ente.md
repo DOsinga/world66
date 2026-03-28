@@ -27,5 +27,3 @@ If you think you have already completed your stay by visiting old sites and tryi
 
 **Contributors**
 April 16, 2010
-new
-by [pamelarae](/member/pamelarae)

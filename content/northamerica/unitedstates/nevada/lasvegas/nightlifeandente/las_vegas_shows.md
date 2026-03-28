@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas Shows"
-type: location
+type: poi
 type: "Theatres"
 url: "www.res99.com"
 ---
@@ -73,8 +73,6 @@ May 18-24 - Greg Vaccarello with Gary CaouetteMay 25-31 - Bruce Mickelson with R
 
 **Contributors**
 May 19, 2009
-change
-by [vtheatermichelle](/member/vtheatermichelle)
 
 type: Theatres
 
@@ -83,5 +81,3 @@ type: Theatres
 
 
 url: [www.res99.com](http://www.res99.com/nexres/activities/search_results.cgi?src=10006005&city=Las%20Vegas)
-
-[back to Nightlife and Entertainment](..)

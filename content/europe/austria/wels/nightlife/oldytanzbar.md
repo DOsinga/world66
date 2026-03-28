@@ -8,5 +8,3 @@ type: poi
 address: Europastraße 51, A-4600 Wels
 
 tel: +43 (0)7242 45950
-
--->

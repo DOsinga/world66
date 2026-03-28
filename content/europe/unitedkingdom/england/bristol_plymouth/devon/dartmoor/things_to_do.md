@@ -9,5 +9,3 @@ If you want more guidance, there is an outstanding website: http://www.plymouthr
 
 **Contributors**
 October 30, 2004
-new
-by [davidx](/member/davidx)

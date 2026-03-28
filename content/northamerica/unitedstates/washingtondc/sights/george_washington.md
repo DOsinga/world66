@@ -18,8 +18,6 @@ available by phone at 1-800-967-2283 from 10 am to 10 pm EST.
 
 **Contributors**
 October 14, 2005
-change
-by [patrickneil](/member/patrickneil)
 
 type: Memorials
 
@@ -34,5 +32,3 @@ openingHours: 9:00 am to 4:45 pm daily
 url: [www.nps.gov](http://www.nps.gov/wamo/home.htm)
 
 address: On the Mall, at 15th St.
-
-[back to Sights](..)

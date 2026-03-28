@@ -10,5 +10,3 @@ type: section
 [Churches](/southamerica/brazil/salvador/sights?subsection=Churches)
 
 [Museums](/southamerica/brazil/salvador/sights?subsection=Museums)
-
--->

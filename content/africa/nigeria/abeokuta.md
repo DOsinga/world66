@@ -1,9 +1,9 @@
 ---
-title: "Abeokuta Travel Guide"
+title: "Abeokuta"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Abeokuta is the capital of Ogun State. The town derives its
 name (meaning "Under the Rock") from the Olumo Rock, a massive
@@ -21,11 +21,3 @@ them, Olumo Rock stands not only as a monument of faith in unity but also as a
 source of strength and unfailing protection and sustenance from the Supreme
 Being who led their ancestors through the complexities of life safely to
 Abeokuta.
-
-#### Contributors
-
-September 19, 2005 new by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:00

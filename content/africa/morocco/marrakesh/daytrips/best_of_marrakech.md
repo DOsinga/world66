@@ -24,5 +24,3 @@ url: [www.travel-exploration.com](http://www.travel-exploration.com)
 address: New York, USA & Ouarzazate, Morocco
 
 email: alecia@travel-exploration.com
-
-[back to Day Trips](..)

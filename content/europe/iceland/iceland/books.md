@@ -116,5 +116,3 @@ author: Terry G. Lacy
 isbn: 047210926X
 
 subject: history
-
--->

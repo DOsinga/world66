@@ -25,5 +25,3 @@ PriceOfMenu: $35 and above
 priceofmenu: $35 and above
 
 url: [www.aquiestacoco.cl](http://www.aquiestacoco.cl)
-
-[back to Eating Out](..)

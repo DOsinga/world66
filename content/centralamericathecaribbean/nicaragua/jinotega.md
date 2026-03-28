@@ -1,7 +1,9 @@
 ---
-title: "Jinotega Travel Guide"
+title: "Jinotega"
 type: location
 ---
+
+Travel Guide
 
 3000 feet up in Northern Nicaraguan surrounded by 5000 foot mountains and Lake Apanas to the north. Jinotega is 3 hours by expreso bus from Mercado Mayoreo in Managua or 4 hours East of Leon or 1 hour North of Matagalpa. Google earth map and many city locations available on www.Jinotega.com/maps
 

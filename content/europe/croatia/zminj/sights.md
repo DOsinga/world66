@@ -46,5 +46,3 @@ might even catch a glance of a bat or a small “albino” crab.
 
 **Contributors**
 August 28, 2009
-change
-by [crotraveller](/member/crotraveller) (2 points)

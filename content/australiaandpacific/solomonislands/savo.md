@@ -1,0 +1,4 @@
+---
+title: "Savo"
+type: location
+---

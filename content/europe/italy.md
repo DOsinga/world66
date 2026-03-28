@@ -1,8 +1,6 @@
 ---
 title: "Italy"
 type: location
-latitude: 42.638426
-longitude: 12.674297
 ---
 
 Italy is one of those countries to which you probably have already quite a number of preconceptions even before you have put one foot into the country. Country of olive oil and pasta, wine and sunshine, roman ruins and renaissance palaces. 
@@ -36,32 +34,3 @@ The southern part of Italy fascinates the traveler with its great hospitality an
 [Sicily](/europe/italy/sicily) the largest island in the Mediterranean has been influenced by the culture of the Greeks, the Romans, the Arabs the Normans, The Vandals and many others. They all loved life on the island and left their marks. 
 
 Italy has a great climate and the beaches to go with it. Look at the map and you will notice immediately that Italy has a very long coastline. Different mountain chains run through the country and you never have to travel far to find some excellent places to go hiking. Volcanoes like [Stromboli](/europe/italy/sicily/aeolianislands/stromboli) or the Etna are still active and can be visited.
-
-*Change history*
-Minor corrections by [gbaresi](/member/gbaresi) on 11 February 04
-
-## Destinations
-
-- [Abruzzo](/europe/italy/abruzzo)
-- [Basilicata](/europe/italy/basilicata)
-- [Calabria](/europe/italy/calabria)
-- [Campania](/europe/italy/campania)
-- [Capri](/europe/italy/capri)
-- [Emilia Romagna](/europe/italy/emiliaromagna)
-- [Friuli Venezia Giulia](/europe/italy/friuliveneziagiulia)
-- [Lazio](/europe/italy/lazio)
-- [Liguria](/europe/italy/liguria)
-- [Lombardia](/europe/italy/lombardia)
-- [Marche](/europe/italy/marche)
-- [Molise](/europe/italy/molise)
-- [Piemonte](/europe/italy/piemonte)
-- [Positano](/europe/italy/positano)
-- [Puglia](/europe/italy/puglia)
-- [Sardegna - Sardinia](/europe/italy/sardegnasardinia)
-- [Sardinia](/europe/italy/sardinia)
-- [Sicily](/europe/italy/sicily)
-- [Trentino Alto Adige](/europe/italy/trentinoaltoadige)
-- [Tuscany](/europe/italy/tuscany)
-- [Umbria](/europe/italy/umbria)
-- [Valle d'Aosta](/europe/italy/valledaosta)
-- [Veneto](/europe/italy/veneto)

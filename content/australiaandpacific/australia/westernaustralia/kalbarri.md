@@ -10,6 +10,3 @@ The main industrial interests of the area are fishing and farming, with the wate
 The town of Kalbarri itself is a well known tourist spot for holiday makers in Western Australia and a popular destination for the residents of its nearest major City, [Geraldton](/australiaandpacific/australia/westernaustralia/geraldton). There are a number of small convenience stores in Kalbarri and two larger super-markets as well as well stocked petrol/service stations, a pub and a tavern as well as numerous restaurants and resorts.
 
 The waters along the Kalbarri coastline are dotted with gorges, cliffs and gullies with the offshore reefs creating great surfing conditions all year round.
-
-*Change history*
-Orginal article by [purple-circle](/member/purplecircle) on 27 February 04

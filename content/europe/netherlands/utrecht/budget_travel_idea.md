@@ -34,5 +34,3 @@ themselves until 3 a.m. at 't Oude Pothuys, located at Ouderg. 279 . Beer is onl
 
 **Contributors**
 April 09, 2010
-change
-by [stolsen](/member/stolsen)

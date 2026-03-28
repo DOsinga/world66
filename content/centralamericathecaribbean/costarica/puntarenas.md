@@ -1,0 +1,4 @@
+---
+title: "Puntarenas"
+type: location
+---

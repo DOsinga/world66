@@ -15,30 +15,7 @@ coastline and the skyline is dominated by the Cuillin Hills. The Cullin
 hills are the highest places on the island and suggest for experienced
 hikers. The views from the top are among the greatest in Britain.
 Dunvegan Castle is the most famous on the island, it is the stronghold
-of the Clan MacLeod dating back to the 14th century. Visitors are
-welcome to explore the public rooms in the castle, the famous Fairy
-Flag said to have given them magical powers in battle, and wander the
-castle's extensive wooded grounds. Portree is the main town on Skye, set
-round a natural harbour, it has much to offer for tourists including
-range of accommodations. Just north of Potree is the Trotternish Ridge
-with its strange cliff formations creating unique landscape, such as
-the Old Man of Storr, Kilt Rock, and the Quiraing Needle Rock. Along
-the coast as well is Duntulm Castle, and the Skye Museum of Island
-exhibiting a village with cottages how it was in the 18th century.
-Towards the southern end of Skye in Sleat are Armadale Castle, and the
-Museum of the Isles with 6 galleries taking you through 1500 years of
-the history and culture of the area once known as the Kingdom of the
-Isles. The Isle of Skye is an amazing place and a must to include on
-your itinerary when touring Scotland.
-
-**Contributors**
-December 30, 2009
-new
-by [goscotlandtours](/member/goscotlandtours)
-
-### [Skye Trips and Tours](/europe/unitedkingdom/scotland/skye/day_trips/skye_trips_and_tou)
-
-Enjoy stunning natural beauty, unforgettable
+of the Clan MacLeod dating Enjoy stunning natural beauty, unforgettable
 sunsets, rich history, the majestic **Cuillin mountains**, Scotland's
 largest and best known islands - the land of the Viking, the McLeod and the
 MacDonald, and the dramatic Trotternish peninsula. Stay two nights in the picturesque town of

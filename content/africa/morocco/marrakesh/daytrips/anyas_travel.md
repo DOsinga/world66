@@ -22,5 +22,3 @@ url: [www.anyastravel.com](http://www.anyastravel.com)
 address: AVENUE FATIMA ZAHRA KISARIAT BEN KHALED RMILA N6 MARRAKECH MOROCCO
 
 email: anyastravel@gmail.com
-
-[back to Day Trips](..)

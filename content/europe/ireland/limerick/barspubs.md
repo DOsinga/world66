@@ -30,5 +30,3 @@ fax: + 353 61 416447
 address: 10a Cruises Street, Limerick
 
 tel: Ph + 353 61 414739
-
--->

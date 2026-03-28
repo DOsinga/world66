@@ -1,0 +1,4 @@
+---
+title: "Chester"
+type: location
+---

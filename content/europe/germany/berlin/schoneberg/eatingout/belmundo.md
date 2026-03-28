@@ -8,7 +8,3 @@ Breakfast in the Schöneberg neighbourhood scene. It's best to book in advance o
 connection: U Nollendorfplatz
 
 address: Winterfeldtstr. 36
-
-[back to Eating Out](..)
-
--->

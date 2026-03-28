@@ -27,5 +27,3 @@ This architectural gem was founded in 1499 on the site of an 8th century church.
 
 **Contributors**
 August 24, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

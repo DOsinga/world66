@@ -1,0 +1,4 @@
+---
+title: "Veszprem"
+type: location
+---

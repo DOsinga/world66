@@ -1,12 +1,8 @@
 ---
-title: "Penis peepee Travel Guide"
+title: "Penis peepee"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Really Hot
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 01:26

@@ -10,8 +10,6 @@ In old Quito's center is a luxury coffe bar. A little bit expensive but.. you ca
 
 **Contributors**
 June 21, 2007
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -20,5 +18,3 @@ accessibility: pier@hispavista.com
 tel: 915255989
 
 address: arenal 19, 4º dcha
-
-[back to Bars and Cafes](..)

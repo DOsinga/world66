@@ -25,5 +25,3 @@ Regardless of what type of music you like, or what your agenda for nightlife is 
 
 **Contributors**
 March 29, 2010
-new
-by [piyushjain](/member/piyushjain_)

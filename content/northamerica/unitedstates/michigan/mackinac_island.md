@@ -1,9 +1,9 @@
 ---
-title: "Mackinac Island Travel Guide"
+title: "Mackinac Island"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mackinac Island is located in Lake Huron, just a few miles east of the Mackinac Bridge. The bridge connects the upper and lower peninsulas of Michigan, and is the traditional dividing line between Lakes Huron and Michigan.
 
@@ -19,16 +19,5 @@ There are a wide variety of hotels and bed and breakfasts on the island, includi
 
 The Island is also famous for its delicious fudge, summer night life, beautiful lilacs in June, cosmopolitan feel due to workers and visitors from around the world, and the yacht races that end there in July.
 
-#### Contributors
-
-May 25, 2006 new by [granuille72](/member/granuille72) (4 points)
-
-December 08, 2006 change by [waterfalls](/member/waterfalls) (2 points)
-
 More information on
 *Mackinac Island Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 05:49

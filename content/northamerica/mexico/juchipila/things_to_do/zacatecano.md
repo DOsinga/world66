@@ -12,5 +12,3 @@ type: Spa and Sauna
 
 
 email: jalpa@yahoo.com
-
-[back to Things to do](..)

@@ -7,9 +7,6 @@ Amsterdam is the perfect place to party! Most clubs open at 10 pm and stay open 
 
 Amsterdam offers a wide range of music venues. Try to catch a performance of the Netherlands Philharmonic Orchestra that performs in the Beurs, a turn-of-the-century stock exchange. In June the city hosts the Holland Festival—opera, orchestra and dance performances.
 
-*Change history*
-Minor corrections by [noor243](/member/noor243) on 19 March 04
-
 **general**
 
 **Joseph Lam Jazz Club**
@@ -40,5 +37,3 @@ tel: 020 – 622 8086
 [Xtreme](/europe/netherlands/amsterdam/nightlife?subsection=Xtreme)
 [Erotic](/europe/netherlands/amsterdam/nightlife?subsection=Erotic)
 [Casinos](/europe/netherlands/amsterdam/nightlife?subsection=Casinos)
-
--->

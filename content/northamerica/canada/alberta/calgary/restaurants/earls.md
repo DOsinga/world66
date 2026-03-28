@@ -1,6 +1,6 @@
 ---
 title: "Earls"
-type: location
+type: poi
 address: "4thst and 23rd ave sw"
 price: "10$--24$ per person"
 type: "Lunch"
@@ -20,5 +20,3 @@ type: Lunch
 address: 4thst and 23rd ave sw
 
 PriceOfMenu: 10$--24$ per person
-
-[back to Eating Out](..)

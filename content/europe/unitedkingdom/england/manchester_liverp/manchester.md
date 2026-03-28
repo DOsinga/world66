@@ -10,5 +10,3 @@ The city centre, concentrated around Piccadilly square, got a new impulse with t
 Chinatown, near Piccadilly Gardens, offers, besides several shops, charming eating houses where excellent food is served. A few miles south of the city centre, in Rusholme, fans of Indian food will find plenty of restaurants along the famous "curry mile". 
 
 Furthermore, the Barton Arcade (on Deansgate) and Heaton Park (to the north of the city) are very nice too. So if you are on your way up north, a stop in Manchester is absolutely worth your while.
-
--->

@@ -1,12 +1,8 @@
 ---
-title: "Argos Travel Guide"
+title: "Argos"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Argos is a major city in the North West of England.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 20:06

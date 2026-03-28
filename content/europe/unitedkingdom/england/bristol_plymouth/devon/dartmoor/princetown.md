@@ -15,5 +15,3 @@ http://www.touruk.co.uk/devon/dev_pri.htm
 
 **Contributors**
 October 30, 2004
-new
-by [davidx](/member/davidx)

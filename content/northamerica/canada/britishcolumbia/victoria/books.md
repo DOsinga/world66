@@ -18,5 +18,3 @@ author: Robin Bovey, Wayne Campbell & Bryan Gates
 isbn: 0-919433-75-8
 
 subject: Bird Identification
-
--->

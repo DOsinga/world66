@@ -1,0 +1,4 @@
+---
+title: "Menomonie"
+type: location
+---

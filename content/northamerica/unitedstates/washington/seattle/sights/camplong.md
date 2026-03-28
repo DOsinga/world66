@@ -13,5 +13,3 @@ type: Gardens & Parks
 address: 35th Ave SW 5200
 
 tel: 206 684 7434
-
-[back to Sights](..)

@@ -17,5 +17,3 @@ type: Bars and Pubs
 address: Silver Oaks Centre, Silverton Rd, Musgrave
 
 tel: (031) 201-5241
-
-[back to Nightlife and Entertainment](..)

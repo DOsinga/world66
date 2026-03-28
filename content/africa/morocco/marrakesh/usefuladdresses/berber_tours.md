@@ -21,8 +21,6 @@ Telephone in English: 212-42-44-67-92
 
 **Contributors**
 December 23, 2007
-change
-by [jeffreyteach](/member/jeffreyteach)
 
 type: Tourist information
 
@@ -39,5 +37,3 @@ url: [www.berbertours.net](http://www.berbertours.net)
 address: Ave. Mohamed V, 45900 Zagora
 
 email: berbertours24@yahoo.com
-
-[back to Practical Information](..)

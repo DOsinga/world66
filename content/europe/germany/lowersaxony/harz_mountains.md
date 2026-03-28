@@ -1,12 +1,8 @@
 ---
-title: "Harz Mountains Travel Guide"
+title: "Harz Mountains"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 In the South, popular for skiing, snowboarding and hiking
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 14:06

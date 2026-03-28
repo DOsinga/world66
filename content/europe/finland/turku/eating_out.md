@@ -10,5 +10,3 @@ A small Italian restaurant, with excellent food and generous portions. Don't mis
 We currently have no Eating Out listed in Turku.
 
 If you do know any Eating Out in Turku, please [Add].
-
--->

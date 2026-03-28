@@ -17,8 +17,6 @@ Reservations are recommended during the summer season and during holidays.
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 type: Local
 
@@ -31,5 +29,3 @@ url: [www.harbor-view.com](http://www.harbor-view.com/coach_house/)
 address: 131 North Water Street
 
 PriceOfMenu: Expensive
-
-[back to Eating Out](..)

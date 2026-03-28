@@ -11,8 +11,6 @@ Located in the Ritz-Carlton Marina del Rey, ***The Boutique Spa*** offers indulg
 
 **Contributors**
 June 09, 2008
-new
-by [marinagal](/member/marinagal)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: 310/574-4296
 url: [www.ritzcarlton.com](http://www.ritzcarlton.com)
 
 address: 4375 Admiralty Way
-
-[back to Shopping](..)

@@ -11,8 +11,6 @@ To go to the Bergamo railway station or Porta Nuova (city centre) or all the way
 
 **Contributors**
 February 20, 2008
-change
-by [karenbru](/member/karenbru)
 
 
 
@@ -21,5 +19,3 @@ by [karenbru](/member/karenbru)
 url: www.autostradale.it
 
 email: info@dezander.be
-
-[back to Getting Around](..)

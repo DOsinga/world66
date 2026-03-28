@@ -1,0 +1,4 @@
+---
+title: "Joinville"
+type: location
+---

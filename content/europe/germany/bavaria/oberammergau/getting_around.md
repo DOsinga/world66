@@ -17,5 +17,3 @@ A popular walking tour begins at the intersection of Bahnhof Strasse and Eugen-P
 
 **Contributors**
 January 04, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

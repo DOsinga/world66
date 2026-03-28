@@ -14,5 +14,3 @@ isbn: "0936034033"
 author: Susan Alcorn
 
 isbn: 0936034033
-
-[back to Books](..)

@@ -3,8 +3,6 @@ title: "Getting There"
 type: section
 type: "By Air"
 url: "www.airpacific.com"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
 Fiji is most easily reached by air - so flying is the fastest and most
@@ -30,16 +28,10 @@ Travellers from the above countries are granted a 4 month visitor visas upon arr
 
 **Contributors**
 February 23, 2005
-new
-by [vilpponen](/member/vilpponen) (1 point)
 
 March 07, 2005
-change
-by [giorgio](/member/giorgio)
 
 June 16, 2005
-change
-by [cindyr](/member/cindyr)
 
 ### Air Pacific
 

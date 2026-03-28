@@ -8,13 +8,9 @@ The best beach in Ohrid is Ljubanista Beach (named after the village) located ab
 
 **Contributors**
 May 31, 2006
-new
-by [giorgio](/member/giorgio)
 
 
 
 
 
 email: a.tosevski@yahoo.com
-
-[back to Beaches](..)

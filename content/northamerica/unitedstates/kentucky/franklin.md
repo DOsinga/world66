@@ -1,9 +1,9 @@
 ---
-title: "Franklin Travel Guide"
+title: "Franklin"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Franklin is a town of approx. 8000. It is located in Simpson Co. near the TN state line about 45 mi. N. of Nashville. Primarily an agriculture community- the town boasts of several well-known residents- in years gone by and presently. Among them:
 
@@ -24,11 +24,3 @@ In 2004 the Franklin Music Festival began as an annual affair. It features many 
 Kentucky Downs race track is the only all-turf flat racing throughbred track in America. www.kydowns.com
 
 About 5 mi. N. of Franklin is "Octagon Hall Museum", the only eight-sided brick house in KY, and only one of just a few in the United States. It was built before the Civil War and at one time over 12,000 troops camped near here.
-
-#### Contributors
-
-September 19, 2005 new by [kywildturkey](/member/kywildturkey)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 10:27

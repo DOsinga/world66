@@ -14,5 +14,3 @@ Feuchtwangen, a former free city of the Empire, is located in the Wörnitz river
  Marktplatz 1, 91555 Feuchtwangen
 
  Tel. +49 9852 - 90 42 60
-
--->

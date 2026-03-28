@@ -19,13 +19,7 @@ Tour the working Swiss cheese factory and winery for one of Ohio’s Amish Count
 
 Ashtabula County Covered Bridges
 
-Ashtabula County is one of the most interesting of Ohio’s Amish Country must do’s with eighteen covered bridges, according to Ohio Amish Country Marketing. If you enjoy taking pictures of covered bridges and architecture, seek out the many bridges available in Ashtabula County. With the oldest bridge dating back to the 1850’s, the covered bridges in Ashtabula County offer rustic viewing in natural setting surroundings.
-
-Shop at Lehman’s
-
-Lehman’s offers tourists the best possible [souvenirs](/northamerica/unitedstates/ohio/ohios_amish_count/shopping) for any age while visiting Amish Country in Ohio. Lehman’s offers simple life appliances, hand tools, toys, and so much more. While shopping at Lehman’s, view the expansive displays with the history of the Amish lifestyle found in the items themselves.
+Ashtabula County is one of the most interesting of Ohio’s Amish Country must do’s with eighteen covered bridges, according to Ohio Amish Country Marketing. If you enjoy taking pictures of covered bridges and architecture, seek out the many bridges available in Ashtabula County. With the oldest bridge dating for any age while visiting Amish Country in Ohio. Lehman’s offers simple life appliances, hand tools, toys, and so much more. While shopping at Lehman’s, view the expansive displays with the history of the Amish lifestyle found in the items themselves.
 
 **Contributors**
 May 18, 2010
-new
-by [gabriellet](/member/gabriellet)

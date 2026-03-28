@@ -13,5 +13,3 @@ The Huasai is a great value for $2.50. The proof can be seen between 1:00 PM and
 
 **Contributors**
 October 20, 2007
-new
-by [dawn on the amazon](/member/dawn_on_the_amazon) (1 point)

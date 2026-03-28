@@ -19,9 +19,5 @@ The Centrum Kunstlicht in de Kunst showcases modern art in a surprising manner. 
 
 **Contributors**
 January 28, 2010
-new
-by [samanthalp](/member/samanthalp)
 
 February 02, 2010
-change
-by [schitti](/member/schitti)

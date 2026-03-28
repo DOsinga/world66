@@ -27,5 +27,3 @@ url: [www.karenscoffee.com](http://www.karenscoffee.com)
 address: mohandeseen cairo egpy
 
 email: mohamedkaren@aol.com
-
-[back to Eating Out](..)

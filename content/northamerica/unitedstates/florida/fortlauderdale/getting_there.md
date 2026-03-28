@@ -7,5 +7,3 @@ The Fort Lauderdale International Airport is conveniently located in the norther
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)

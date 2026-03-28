@@ -28,5 +28,3 @@ address: 2834 N Southport Ave, Chicago IL, USA
 PriceOfMenu: entrees: $14-29
 
 email: info@paletteonsouthport
-
-[back to Eating Out](..)

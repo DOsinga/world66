@@ -17,5 +17,3 @@ url: [www.samos-online.com](http://www.samos-online.com)
 address: Livadaki Beach by Nisi/ Ag. Paraskevi
 
 email: info@samos-online.com
-
-[back to Beaches](..)

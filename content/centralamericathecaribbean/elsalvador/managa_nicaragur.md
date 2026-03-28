@@ -1,6 +1,8 @@
 ---
-title: "Managa, Nicaragur Travel Guide"
+title: "Managa, Nicaragur"
 type: location
 ---
+
+Travel Guide
 
 Distance between El Salvidor and Managa, Nicaragur

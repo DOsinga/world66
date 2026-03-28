@@ -29,8 +29,6 @@ A slide show of the crossing is also available at the website *(start it by clic
 
 **Contributors**
 March 11, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (5 points)
 
 type: By Sea
 
@@ -41,5 +39,3 @@ type: By Sea
 url: www.wpd.nl
 
 tel: Holwerd office: +31 519 56 15 82.
-
-[back to Getting There](..)

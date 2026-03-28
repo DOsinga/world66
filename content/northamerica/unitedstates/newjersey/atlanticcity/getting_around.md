@@ -17,5 +17,3 @@ An Atlantic City novelty. Sit back and relax on a two seat (padded bench) mobile
 
 **Contributors**
 May 19, 2007
-new
-by [harryb3](/member/harryb3)

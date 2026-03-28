@@ -80,5 +80,3 @@ Tel. 6631 0899
 
 **Contributors**
 August 21, 2006
-change
-by [giorgio](/member/giorgio)

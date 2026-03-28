@@ -11,5 +11,3 @@ type: section
 
 **Contributors**
 April 28, 2005
-new
-by [wwwaspasiabe](/member/wwwaspasiabe)

@@ -1,9 +1,9 @@
 ---
-title: "Cederberg Wilderness Area Travel Guide"
+title: "Cederberg Wilderness Area"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Cederberg Wilderness Area, which derives its name from the rare and once near-extinct Clanwilliam cedar tree, is a vast area characterised by a rugged and stunning mountain range.
 
@@ -20,15 +20,3 @@ The natural attributes of the Cederberg are so diverse in form and structure, th
 Two towns Citrusdal and Clanwilliam lie in the foothills of the mountains and are 2-3 hours drive North of Cape Town. Both offer ample accommodation of various types.
 
 Two walks I can recommend in this area are the climb up the Wolfberg Cracks up to the arch as seen in the photo above, this is a serious hike but the splendour experiencecd once you get to the top is well worth it. The other formation worth hiking to is the Maltese cross, this walk is not as strenuous, I walked it with the Late Colin Ingles ex Chief Scout of South Africa when he was 70 years old. This rock formation is truely magnificent.
-
-#### Contributors
-
-May 10, 2006 change by [andrew law](/member/andrew_law) (2 points)
-
-February 07, 2006 change by [cyclingken](/member/cyclingken)
-
-May 11, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 05:02

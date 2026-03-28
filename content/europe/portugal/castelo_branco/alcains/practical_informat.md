@@ -23,5 +23,3 @@ Tel (0351) 272 906 134
 
 **Contributors**
 September 05, 2005
-change
-by [giorgio](/member/giorgio)

@@ -35,5 +35,3 @@ Ride the train through the Blue Ridge Mountains on the Blue Ridge Scenic Railway
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)

@@ -5,8 +5,6 @@ address: "Euskadi (Basque Country)"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 43.266917
-longitude: -2.937976
 ---
 
 A self drive tour through Green Spain a mosaic of natural purity and historic village. Art is intertwined with nature for example, the world-renowned Guggenheim Museum… 

@@ -24,11 +24,5 @@ Nordbad
 
 **Contributors**
 August 08, 2007
-change
-by [magali](/member/magali)
 
 type: Spa and Sauna
-
-
-
-[back to Things to do](..)

@@ -13,8 +13,6 @@ url: "www.bam.net.ma"
 
 **Contributors**
 June 24, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 ### [Taza Post Offices](/africa/morocco/taza/practical_informat/taza_post_offices)
 

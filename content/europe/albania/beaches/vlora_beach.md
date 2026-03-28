@@ -20,5 +20,3 @@ url: [0](http://0)
 address: In Vlora wich is located in South Albania
 
 email: 0
-
-[back to Beaches](..)

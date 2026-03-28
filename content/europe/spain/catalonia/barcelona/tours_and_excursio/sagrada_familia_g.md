@@ -5,8 +5,6 @@ address: "Barcelona"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 41.38258
-longitude: 2.177073
 ---
 
 With a private local specialist guides and driver you will enjoy a half day visit of Barcelona. Starting with Gaudi's Sagrada Familia church and then a walk around the gothic quarter ending with view from Montjuic (Hill of the Jews)… 
@@ -19,5 +17,3 @@ Despite being named after its elegant Gothic buildings from the 13-15C this area
 
 **Contributors**
 January 26, 2005
-new
-by [euroadventures](/member/euroadventures)

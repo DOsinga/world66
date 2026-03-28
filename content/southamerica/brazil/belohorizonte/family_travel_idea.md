@@ -54,5 +54,3 @@ sports events to historical museums that challenge the mind.
 
 **Contributors**
 December 23, 2009
-new
-by [kellyyannne](/member/kellyyannne)

@@ -17,5 +17,3 @@ type: Japanese
 address: Klosterstr. 78, Düsseldorf-Mitte
 
 tel: +49 (0)211 364923
-
-[back to Eating Out](..)

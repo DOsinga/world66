@@ -31,7 +31,4 @@ BEACHES
 
 While the movies and TV shows show you differently, once you’re pass the age of high school and definitely college – most people in LA do NOT go to the beaches. During the summer, the only people who tend to go to the beaches (besides boys and girls being boys and girls) are people without pools. Yes, people will jog along the beach in the morning in Malibu but once the sun comes out, the best beaches are pretty sparse.
 
-*Change history*
-Orginal article by [spectre](/member/spectre) on 17 February 04
-
-Minor corrections by [jbelkin](/member/jbelkin) on 21 March 04
+Minor corrections on 21 March 04

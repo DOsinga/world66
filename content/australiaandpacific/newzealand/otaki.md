@@ -1,0 +1,4 @@
+---
+title: "Otaki"
+type: location
+---

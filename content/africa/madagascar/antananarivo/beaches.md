@@ -25,5 +25,3 @@ Besides these, some of Antananarivo’s best beaches are also found along the Il
 
 **Contributors**
 March 30, 2010
-new
-by [imran_m](/member/imran_m)

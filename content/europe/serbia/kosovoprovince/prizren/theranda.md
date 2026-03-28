@@ -1,12 +1,8 @@
 ---
-title: "Theranda Travel Guide"
+title: "Theranda"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Theranda
-
-Page last generated on Sat 02:56
-
--->

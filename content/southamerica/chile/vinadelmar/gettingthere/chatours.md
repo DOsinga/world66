@@ -24,5 +24,3 @@ address: Juan Aravena
 url: [www.chileanairtours.cl](http://www.chileanairtours.cl)
 
 tel: 56-2-6641441
-
-[back to Getting There](..)

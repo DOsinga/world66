@@ -1,6 +1,6 @@
 ---
 title: "Illinois State Fair"
-type: location
+type: poi
 email: "StateFair@agr.state.il.us"
 phone: "217-782-6661"
 url: "www.agr.state.il.us"
@@ -15,5 +15,3 @@ tel: 217-782-6661
 url: [www.agr.state.il.us](http://www.agr.state.il.us/isf/webcam/all.php?cam=1)
 
 email:
-
-[back to Webcams](..)

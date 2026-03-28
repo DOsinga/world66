@@ -1,9 +1,9 @@
 ---
-title: "Guratuba Travel Guide"
+title: "Guratuba"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Guaratuba is located in the State of Parana´s Coast. With 22 km of beautiful beaches and the second larger Bay in the State.
 
@@ -37,9 +37,3 @@ In Guaratuba remains some untouched places. Cabaraquare is one of these
 places. Inside a environment protected area, along the Saint
 Hilare-Lange Nacional Park, there are some oister culture and
 restaurants with good and fresh sea food.
-
-*Part or or all of this text stems from the original article at: www.guaraecoturismo.com.br*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 03:07

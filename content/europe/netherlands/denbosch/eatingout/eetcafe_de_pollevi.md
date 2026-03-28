@@ -28,5 +28,3 @@ PriceOfMenu: ca 22 euro excluding drinks
 url: [www.pollevie.nl](http://www.pollevie.nl)
 
 tel: 073-518 46 46
-
-[back to Eating Out](..)

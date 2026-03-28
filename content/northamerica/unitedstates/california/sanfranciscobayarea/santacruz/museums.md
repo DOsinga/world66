@@ -15,6 +15,4 @@ Harley-Davidson Museum
 
 Lighthouse Point Surfers Museum
 
-W. Cliff Dr. 95060 831/429-3773 
-
--->
+W. Cliff Dr. 95060 831/429-3773

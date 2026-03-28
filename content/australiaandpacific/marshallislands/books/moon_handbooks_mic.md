@@ -17,5 +17,3 @@ type: general
 isbn: 1566915082
 
 author: Neil Levy
-
-[back to Books](..)

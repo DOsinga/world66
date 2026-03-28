@@ -5,8 +5,6 @@ address: "Nerja"
 email: "info@lifeadventure.es"
 phone: "0034 95 252 7058"
 url: "www.lifeadventure.es"
-latitude: 36.746856
-longitude: -3.879016
 ---
 
 El Pinarillo Nerja, Welcome to the gateway to the sierras - El Pinarillo. El Pinarillo is a picnic and barbeque area set in the heart of Nerja's National Park. There are purpose built barbeque areas, plenty of parking and play areas for the kids.
@@ -30,5 +28,3 @@ url: [www.lifeadventure.es](http://www.lifeadventure.es)
 address: Nerja
 
 email: info@lifeadventure.es
-
-[back to Tours and Excursions](..)

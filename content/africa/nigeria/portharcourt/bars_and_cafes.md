@@ -27,9 +27,5 @@ In addition to those bars mentioned above, you can check out the following bars 
 
 **Contributors**
 April 03, 2010
-new
-by [turkeyfish](/member/turkeyfish)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

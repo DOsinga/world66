@@ -12,16 +12,10 @@ be purchased.
 
 **Contributors**
 February 23, 2005
-new
-by [vilpponen](/member/vilpponen) (1 point)
 
 June 16, 2005
-change
-by [giorgio](/member/giorgio)
 
 June 16, 2005
-change
-by [cindyr](/member/cindyr)
 
 type: By Air
 
@@ -30,5 +24,3 @@ type: By Air
 
 
 url: [www.virginblue.com.au](http://www.virginblue.com.au)
-
-[back to Getting There](..)

@@ -1,12 +1,8 @@
 ---
-title: "name of the place Travel Guide"
+title: "name of the place"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **ovassanjo**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 02:28

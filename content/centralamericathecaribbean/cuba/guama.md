@@ -1,0 +1,4 @@
+---
+title: "Guama"
+type: location
+---

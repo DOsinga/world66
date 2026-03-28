@@ -5,8 +5,6 @@ address: "AERODROM LJUBLJANA"
 email: "airportbrnik@gmail.com"
 phone: "+38641755539"
 url: "www.taxibrnik.com"
-latitude: 46.222475
-longitude: 14.463829
 ---
 
 **LJUBLJANA AIRPORT TAXI TRANSFER
@@ -53,5 +51,3 @@ url: [www.taxibrnik.com](http://www.taxibrnik.com/LJUBLJANA_AIRPORT_TAXI_TRANSFE
 address: AERODROM LJUBLJANA
 
 email: airportbrnik@gmail.com
-
-[back to Family Travel Ideas](..)

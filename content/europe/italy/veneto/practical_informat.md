@@ -28,5 +28,3 @@ Art, history, culinary wonderment, and grand spectacle. I have never met anyone 
 
 **Contributors**
 September 06, 2008
-new
-by [steve9631](/member/steve9631)

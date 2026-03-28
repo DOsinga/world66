@@ -21,6 +21,4 @@ type: section
 
  **BY BUS:** There are planty possibilities travelling Oregon by bus. GREYHOUND, AMTRAK and some local firms offer trips through Oregon by Bus. GREYHOUND is cheaper than AMTRAK. An alternative to the big companies is the GREEN TORTOISE. The survivors of the touring hippie society offer tours through the whole US, but especially 3 to 4 times a week tours up and down the Pacific Coast. For stops and timetables, check out the Web:
 
-  AMTRAK - http://www.amtrak.com. GREYHOUND - http://www.greyhound.com GREEN TORTOISE TOURS - http://www.greentortoise.com  
-
--->
+  AMTRAK - http://www.amtrak.com. GREYHOUND - http://www.greyhound.com GREEN TORTOISE TOURS - http://www.greentortoise.com

@@ -1,12 +1,8 @@
 ---
-title: "Mountain View Travel Guide"
+title: "Mountain View"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mountain View, Wyoming is a great place to visit.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 12:30

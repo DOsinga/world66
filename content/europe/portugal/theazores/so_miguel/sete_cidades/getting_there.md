@@ -7,5 +7,3 @@ There are a few daily buses with connections to/from Ponta Delgada. It is usuall
 
 **Contributors**
 April 05, 2005
-new
-by [ingvar](/member/ingvar)

@@ -1,9 +1,9 @@
 ---
-title: "South Bend Travel Guide"
+title: "South Bend"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 South Bend is a growing city of more than 107,000 people living
 in 39 square miles. Residents and visitors can spend time in one of
@@ -18,8 +18,3 @@ States and all over the world.
 
 More information on
 *South Bend Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 06:34

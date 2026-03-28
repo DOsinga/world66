@@ -6,8 +6,6 @@ phone: "01223 316201"
 type: "Shopping centers and malls"
 url: "www.graftoncentre.co.uk"
 zipcode: "CB1 1PS"
-latitude: -36.857565
-longitude: 174.756649
 ---
 
 The Grafton Centre is Cambridge's latest shopping extravaganza! Containing a good selection of clothing stores, it is a 'must visit' area when shopping in Cambridge. It also has plenty of coffee stops for those parched after the short walk from the city centre! (an environmentaly "clean" bus runs between the city centre and the Grafton for free!)
@@ -18,8 +16,6 @@ Some examples of the main shops in the centre are: Virgin, Bay Trading, Thornton
 
 **Contributors**
 November 16, 2004
-new
-by [melstoy69](/member/melstoy69)
 
 type: Shopping centers and malls
 
@@ -34,5 +30,3 @@ address: 46 Grafton Centre
 url: www.graftoncentre.co.uk
 
 tel: 01223 316201
-
-[back to Shopping](..)

@@ -23,5 +23,3 @@ Besides being an industrial hub, Nikolaev is also known for its imposing churche
 
 **Contributors**
 February 19, 2010
-change
-by [ctanios](/member/ctanios)

@@ -20,3 +20,9 @@ Located 2.5 hours from Abbottabad is the city of Islamabad where the Khanpur Lak
 #### Tarbela Dam
 
 From Abbottabad, travel about 40 miles to get to Rawalpindi, which will lead you to Tarbela Dam. Tarbela Dam is approximately 100 kilometers from the city of Rawalpindi. It was completed in 1976 and is the 3rd biggest earth-filled dam in the world. It is also located on Indus River which is an important river in the world. Tarbela Dam is a hydel power station with a reservoir of 97 kilometers long and 137 meters in depth. The entire lake, however, is 260 square kilometers. You can check out the Tarbela Dam, but you do need to acquire a permit to do so. You can get the permit from the Public Relations Officer of the Water and Power Development Authority. Aside from this permit, you will also need to get a No-Objection Certificate at the Ministry of Interior in Islamabad.
+
+pakistan
+
+We currently have no Beaches listed in Abbottabad.
+
+If you do know any Beaches in Abbottabad, please [Add].

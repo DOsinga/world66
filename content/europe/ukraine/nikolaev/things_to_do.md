@@ -35,5 +35,3 @@ The well kept parks offer a place to go for a walk or have a picnic. Among the m
 
 **Contributors**
 February 04, 2010
-new
-by [jenna storm](/member/jenna_storm)

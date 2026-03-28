@@ -85,12 +85,4 @@ and
 
 Traffic regulations 
 
-. 
-
-
-
-
-
-## Subsections
-
-[By Air](/europe/germany/gettingthere/byair)
+.

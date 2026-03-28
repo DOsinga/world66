@@ -9,5 +9,3 @@ However there is a regular bus (305) which runs through Fyvie from Aberdeen to E
 
 **Contributors**
 February 07, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)

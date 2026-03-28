@@ -10,8 +10,6 @@ A definite hot spot for those who want to be seen. The downtown spot is perfect 
 
 **Contributors**
 March 03, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Beer Gardens
 
@@ -20,5 +18,3 @@ type: Beer Gardens
 address: 375 Greenwich Street and Franklin Street
 
 tel: 212.941.3900
-
-[back to Nightlife and Entertainment](..)

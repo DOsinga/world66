@@ -18,8 +18,6 @@ Continue reading through the listings to learn more about Chicago's hottest plac
 
 **Contributors**
 June 04, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Magnificent Mile](/northamerica/unitedstates/illinois/chicago/shopping/magnificent_mile)
 

@@ -10,8 +10,6 @@ If you're planning a Boston vacation, be sure to set aside a day (or two if poss
 
 **Contributors**
 May 30, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Milton Massachusetts - The Blue Hills Trail](/northamerica/unitedstates/massachusetts/boston/day_trips/milton_massachuset)
 

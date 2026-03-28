@@ -7,8 +7,6 @@ email: "contact@chateau-nantes.fr"
 opening_hours: "Closed on Tuesdays."
 phone: "Booking service: +33 (0)2 51 17 49 99"
 url: "www.chateau-nantes.fr"
-latitude: 47.216117
-longitude: -1.549313
 ---
 
 (Inside the *Castle of the Dukes of Brittany*)
@@ -21,8 +19,6 @@ The aim of this museum is to offer its visitors a view towards the history which
 
 **Contributors**
 March 21, 2008
-change
-by [ncep](/member/ncep)
 
 
 
@@ -37,5 +33,3 @@ url: [www.chateau-nantes.fr](http://www.chateau-nantes.fr/en/castle/the_nantes_m
 address: 4, place Marc-Elder, 44000 Nantes
 
 email:
-
-[back to Museums](..)

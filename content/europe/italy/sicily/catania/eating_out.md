@@ -5,9 +5,6 @@ type: section
 
 Catania has many good restaurants - look and you will find!
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 24 June 04
-
 **all**
 
 **Osteria i Tre Bicchieri**

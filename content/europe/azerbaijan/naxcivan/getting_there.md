@@ -13,5 +13,3 @@ Inside the Republic the roads are in reasonable condition, but encounters with t
 
 **Contributors**
 April 26, 2006
-change
-by [giorgio](/member/giorgio)

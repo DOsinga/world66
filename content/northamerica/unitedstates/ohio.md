@@ -10,15 +10,3 @@ Ohio is "The heart of it all". On a small surface Ohio offers everything from sk
  In the south of the State [Cincinnati](/northamerica/unitedstates/ohio/cincinnati) is the biggest town. One of the many attractions is the William Taft National Historic Site.
 
  On the borders of Lake Erie the city of [Cleveland](/northamerica/unitedstates/ohio/cleveland) is tha main tourist attraction - don't miss the Rock and Roll Hall of Fame. [Cuyahoga Valley](/northamerica/unitedstates/ohio/cuyahogavalley) and Garfield National Historic Site in [Mentor](/northamerica/unitedstates/ohio/mentor) can be seen as day trips from here.
-
-## Destinations
-
-- [Akron](/northamerica/unitedstates/ohio/akron)
-- [Canton](/northamerica/unitedstates/ohio/canton)
-- [Chillicothe](/northamerica/unitedstates/ohio/chillicothe)
-- [Cincinnati](/northamerica/unitedstates/ohio/cincinnati)
-- [Cleveland](/northamerica/unitedstates/ohio/cleveland)
-- [Columbus](/northamerica/unitedstates/ohio/columbus)
-- [Cuyahoga Valley](/northamerica/unitedstates/ohio/cuyahogavalley)
-- [Mentor](/northamerica/unitedstates/ohio/mentor)
-- [Toledo](/northamerica/unitedstates/ohio/toledo)

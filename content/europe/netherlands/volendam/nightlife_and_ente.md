@@ -23,5 +23,3 @@ Nearby,you can enjoy some gambling at one of the many Holland casinos. Inside yo
 
 **Contributors**
 March 24, 2010
-new
-by [piyushjain](/member/piyushjain_)

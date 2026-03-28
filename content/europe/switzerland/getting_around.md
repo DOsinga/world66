@@ -8,8 +8,6 @@ The easiest way to get around in Switzerland is with the public transport system
 
 **Contributors**
 September 23, 2005
-new
-by [modir](/member/modir)
 
 ### [SBB](/europe/switzerland/getting_around/sbb)
 

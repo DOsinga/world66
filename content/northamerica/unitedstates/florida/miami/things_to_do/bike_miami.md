@@ -8,11 +8,5 @@ Biking in Miami can be a blast especially if you know the best trails and places
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Spa and Sauna
-
-
-
-[back to Things to do](..)

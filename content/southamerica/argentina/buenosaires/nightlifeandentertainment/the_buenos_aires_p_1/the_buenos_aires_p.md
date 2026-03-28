@@ -55,5 +55,3 @@ accessibility: See Website
 address: See website
 
 email: pubcrawlBA@gmail.com
-
-[back to The Buenos Aires Pub Crawl](..)

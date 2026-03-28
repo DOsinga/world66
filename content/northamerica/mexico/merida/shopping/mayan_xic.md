@@ -6,8 +6,6 @@ email: "info@mayanxic.com"
 phone: "999-948-4206"
 type: "Speciality shops"
 url: "www.mayanxic.com"
-latitude: 32.686757
-longitude: -97.325
 ---
 
 One thing is your regular tshirts and another is taking a piece of Yucatan with you in the form of a ... tshirt!
@@ -29,5 +27,3 @@ url: [www.mayanxic.com](http://www.mayanxic.com)
 address: La Gran Plaza Mall
 
 email:
-
-[back to Shopping](..)

@@ -15,12 +15,8 @@ When visiting Scotland you must take time to tour the Isle of Skye with some of 
 
 **Contributors**
 December 30, 2009
-change
-by [goscotlandtours](/member/goscotlandtours)
 
 December 29, 2009
-new
-by [goscotlandtours.com](/member/goscotlandtours.com)
 
 ### [Small Group Sightseeing Tours Scotland](/europe/unitedkingdom/scotland/day_trips/small_group_sights)
 

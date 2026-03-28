@@ -14,5 +14,3 @@ type: general
 
 
 address: Av Giraldez 652
-
-[back to Eating Out](..)

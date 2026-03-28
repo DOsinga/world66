@@ -34,5 +34,3 @@ The 16th century church and the Palace are from the same era. In its interior yo
 The museum displays interesting objects from Roman, Visigothic and Paleochristian eras.
 
 address: Plaza de los Naranjos
-
--->

@@ -12,8 +12,6 @@ type: "Local"
 
 **Contributors**
 December 17, 2007
-change
-by [mikehartigan](/member/mikehartigan)
 
 type: Local
 
@@ -28,5 +26,3 @@ tel: 2523 0085
 address: Av. Vieira Souto 110
 
 PriceOfMenu: cheap
-
-[back to Eating Out](..)

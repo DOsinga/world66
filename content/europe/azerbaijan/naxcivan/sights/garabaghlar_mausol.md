@@ -12,17 +12,7 @@ The name of the architect and time of construction of this mausoleum are not kno
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 April 21, 2006
-change
-by [azerbaijan08](/member/azerbaijan08)
 
 type: Memorials
-
-
-
-
-
-[back to Sights](..)

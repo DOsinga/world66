@@ -1,9 +1,9 @@
 ---
-title: "Primorsko Travel Guide"
+title: "Primorsko"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Town of Primorsko
 is picturesquely situated on a small Peninsula between the beautiful
@@ -34,9 +34,3 @@ corporative events. The Aqua Park includes water coast, Rolba, Cobra,
 Elephant, Octpus, Clowm, Black-Hole, Kamikadze, Family slide, Tsunami,
 Centrifugee, Slow River, Bar "Children's World", Ice Cream Bar, Bar
 "The Island", Restaurant "Primorsko"
-
-*Part or or all of this text stems from the original article at: http://www.level-hotel.com/ShowPage.aspx?id=478&langID=EN*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 04:33

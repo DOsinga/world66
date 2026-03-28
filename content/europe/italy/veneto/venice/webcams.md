@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 ---
 
 venice do u no that is venice is sinking?

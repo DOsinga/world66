@@ -23,7 +23,3 @@ and also call her at:
 Sweden
 
 type: Other
-
-
-
-[back to Things to do](..)

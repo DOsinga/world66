@@ -29,5 +29,3 @@ url: [www.trailerparklounge.com](http://www.trailerparklounge.com)
 address: 271 W 23rd St, New York 10011 Btwn 7th & 8th Ave
 
 PriceOfMenu: $5-10 dollars
-
-[back to Eating Out](..)

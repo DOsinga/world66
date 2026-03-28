@@ -16,8 +16,6 @@ best way to travel.
 
 **Contributors**
 October 14, 2005
-new
-by [patrickneil](/member/patrickneil)
 
 
 
@@ -26,5 +24,3 @@ tel: 202-962-1234
 url: [www.metroopensdoors.com](http://www.metroopensdoors.com)
 
 email: csvc@wmata.com
-
-[back to Getting Around](..)

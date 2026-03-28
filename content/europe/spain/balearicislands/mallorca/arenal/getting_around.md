@@ -7,8 +7,6 @@ Local transport in/from/to Arenal.
 
 **Contributors**
 March 19, 2006
-change
-by [reen](/member/reen)
 
 ### [Arenal Bus Services.](/europe/spain/balearicislands/mallorca/arenal/getting_around/bus_services)
 

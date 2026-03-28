@@ -11,8 +11,6 @@ Although **Edam** is only a 30-minute bus ride from Amsterdam, it is the perfect
 
 **Contributors**
 May 12, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 
 
@@ -25,5 +23,3 @@ url: [www.vvv-edam.nl](http://www.vvv-edam.nl/uk)
 address: Damplein 1 PO Box 91
 
 email: info@vvv-edam.nl
-
-[back to Day Trips](..)

@@ -25,5 +25,3 @@ type: Other
 url: [www.videosfrombarcelona.com](http://www.videosfrombarcelona.com)
 
 address: Passeig de Pujades and Passeig de Picasso
-
-[back to Things to do](..)

@@ -9,8 +9,6 @@ Activities
 
 **Contributors**
 January 10, 2007
-new
-by [huahinhans](/member/huahinhans)
 
 ### [Vacquerolles](/europe/france/midi/languedoc/nmes/things_to_do/vacquerolles)
 

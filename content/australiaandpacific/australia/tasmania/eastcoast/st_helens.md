@@ -1,12 +1,8 @@
 ---
-title: "st helens Travel Guide"
+title: "st helens"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 bus timetable for the eastcoast of tasmania
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 04:58

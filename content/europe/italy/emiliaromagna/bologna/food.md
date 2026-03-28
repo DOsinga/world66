@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 What to eat in Bologna  Let me try to organize this section chronologically starting with breakfast and ending up in one of the many bars ("osteria" they are called) in Bologna. 

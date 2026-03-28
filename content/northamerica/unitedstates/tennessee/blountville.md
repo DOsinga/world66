@@ -1,0 +1,4 @@
+---
+title: "Blountville"
+type: location
+---

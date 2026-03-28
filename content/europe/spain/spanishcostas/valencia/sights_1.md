@@ -3,14 +3,9 @@ title: "Sights"
 type: location
 address: "Plaza de la Reina"
 type: "Churches and Cathedrals"
-latitude: 39.474484
-longitude: -0.375459
 ---
 
 Valencia was not short of sights, even before the building of the Palau de la Música and La Ciudad de las Artes y las Ciencias. [see museums]
-
-**Change history**
-Minor corrections by [davidx](/member/davidx) on 02 May 05
 
 ### Cathedral complex
 

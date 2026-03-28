@@ -29,5 +29,3 @@ url: [www.mauermuseum.de](http://www.mauermuseum.de)
 address: Friedrichstrasse 43-45 10969 Berlin 030-253-7250
 
 email: info@mauermuseum.de
-
-[back to Museums](..)

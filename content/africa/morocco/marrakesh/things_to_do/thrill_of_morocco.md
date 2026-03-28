@@ -27,5 +27,3 @@ url: [www.thrillofmorocco.com](http://www.thrillofmorocco.com)
 address: gueliz app 22
 
 email: thrillofmoroccotours@gmail.com
-
-[back to Things to do](..)

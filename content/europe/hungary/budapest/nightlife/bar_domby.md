@@ -8,20 +8,14 @@ email: "info@bar-domby.hu"
 phone: "+36303700262"
 type: "Clubs and dancing"
 url: "www.bardomby.com"
-latitude: 47.498145
-longitude: 19.055766
 ---
 
 Bar Domby is the best bar in Budapest! This tiny little bar is the famous spot for the local hipsters 7 nights a week. Great drinks, nice mixologists, fresh music and always good looking gals.
 
 **Contributors**
 April 08, 2009
-new
-by [jeffery623](/member/jeffery623)
 
 December 29, 2009
-change
-by [berrym](/member/berrym)
 
 type: Clubs and dancing
 
@@ -40,5 +34,3 @@ accessibility: Metro "Deak Ter"
 address: Anker koz 3
 
 email: info@bar-domby.hu
-
-[back to Nightlife and Entertainment](..)

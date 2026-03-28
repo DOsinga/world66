@@ -14,5 +14,3 @@ type: Tourist information
 
 
 url: [www.guanajuatoenlinea.com](http://www.guanajuatoenlinea.com)
-
-[back to Practical Information](..)

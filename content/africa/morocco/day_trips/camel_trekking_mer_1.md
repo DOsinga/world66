@@ -4,8 +4,6 @@ type: poi
 address: "ksar merzouga morocco"
 email: "Cameltrekkingmerzouga@Gmail.com"
 url: "www.CameltrekkingMerzouga.c.la"
-latitude: 31.132883
-longitude: -4.017473
 ---
 
 **Cameltrekking merzouga** offers: the Best Nights In desert
@@ -22,5 +20,3 @@ url: [www.CameltrekkingMerzouga.c.la](http://www.CameltrekkingMerzouga.c.la)
 address: ksar merzouga morocco
 
 email: Cameltrekkingmerzouga@Gmail.com
-
-[back to Day Trips](..)

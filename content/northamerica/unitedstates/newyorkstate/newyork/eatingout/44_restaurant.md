@@ -11,8 +11,6 @@ Anchoring the long lobby at its farthest end – and removed somewhat from its b
 
 **Contributors**
 August 09, 2006
-new
-by [plin](/member/plin) (1 point)
 
 type: American
 
@@ -25,5 +23,3 @@ tel: 212 944 8844
 url: www.royaltonhotel.com
 
 address: 44 West 44th Street
-
-[back to Eating Out](..)

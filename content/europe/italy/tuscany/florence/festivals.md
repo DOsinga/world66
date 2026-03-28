@@ -23,4 +23,4 @@ Held over 8 weeks in the summer, the Florence Music Festival incorporates divers
 
 #### **Paper Lantern Festival**
 
-Harking back to a traditional peasant's pilgrimage the Paper Lantern Festival, or Festa Della Rificolona, takes place on September 8 and features a lantern-lit procession through the city's streets from the Piazza Santa Croce to the Piazza Santissima Annunziata.
+Harking

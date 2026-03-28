@@ -15,5 +15,3 @@ Apart from all of the wonderful areas emphasizing the natural world, there are o
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

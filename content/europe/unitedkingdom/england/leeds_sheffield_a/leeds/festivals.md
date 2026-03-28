@@ -9,8 +9,6 @@ Leeds' main festival is of course the annual Carling Festival held at Bramham Pa
 
 **Contributors**
 April 02, 2006
-change
-by [nathanjmassey](/member/nathanjmassey) (1 point)
 
 ### [The Carling Leeds Festival 2006](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/festivals/the_carling_leeds)
 

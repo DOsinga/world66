@@ -1,9 +1,9 @@
 ---
-title: "Mir Travel Guide"
+title: "Mir"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mir is a town in the Karelichy district, Hrodna region, 26 km south-east
 of Karelichy, 17 km nort-west of Garadzeia, a railway station at the railway Brest-Mensk.
@@ -62,13 +62,3 @@ Belarusan masters, it deserves to take a place among the monuments representing 
 world's cultural heritage. It embodies Mir's history and Mir's pride.Restoration work has
 been under way since 1978 and an extensive programme is being carried out with the aim of
 restoring the castle, palace and the park to their past beauty.
-
-*Part or or all of this text stems from the original article at: http://www.belarusguide.com/cities/index.html*
-
-#### Contributors
-
-May 02, 2007 new by [zmiter](/member/zmiter)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 10:31

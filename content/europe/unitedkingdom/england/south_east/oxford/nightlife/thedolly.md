@@ -15,5 +15,3 @@ type: Live Music
 address: Frewin Court, Cornmarket St
 
 tel: 01865 244761
-
-[back to Nightlife and Entertainment](..)

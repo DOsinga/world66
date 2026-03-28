@@ -11,8 +11,6 @@ The National Museum of Archaeology houses the remains of towns buried by Mount V
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -23,5 +21,3 @@ tel: +39 08 144 0166
 address: Museum Square, 19 Napoli
 
 email: sanc@interbusiness.it
-
-[back to Things to do](..)

@@ -1,6 +1,6 @@
 ---
 title: "Flamingo"
-type: location
+type: poi
 address: "3555 Las Vegas Blvd. S."
 type: "Casinos"
 ---
@@ -14,5 +14,3 @@ type: Casinos
 
 
 address: 3555 Las Vegas Blvd. S.
-
-[back to Nightlife and Entertainment](..)

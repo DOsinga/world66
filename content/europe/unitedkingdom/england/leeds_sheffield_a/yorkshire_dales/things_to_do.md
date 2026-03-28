@@ -8,8 +8,6 @@ There are various things to do in th Dales. if you fancy walking, you might find
 
 **Contributors**
 November 01, 2004
-new
-by [davidx](/member/davidx)
 
 ### [Caving](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/things_to_do/caving)
 

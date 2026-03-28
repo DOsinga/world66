@@ -8,8 +8,6 @@ phone: "600435058"
 price: ">10"
 type: "Vegetarian"
 url: "www.barelchamuco.com"
-latitude: 41.402781
-longitude: 2.159995
 ---
 
 Vegetarian and almost Vegan Fast Food.
@@ -18,12 +16,8 @@ With Mexican style tapas and mexican westrilng decoration. It has a Mexican Supe
 
 **Contributors**
 November 15, 2006
-new
-by [leonardo gómez](/member/leonardo_gómez) (1 point)
 
 November 16, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Vegetarian
 
@@ -42,5 +36,3 @@ address: Travessera de Gracia 203
 PriceOfMenu: >10
 
 email: guajillo@yahoo.com
-
-[back to Eating Out](..)

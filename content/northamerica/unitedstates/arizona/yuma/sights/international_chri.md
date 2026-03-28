@@ -8,8 +8,6 @@ opening_hours: "Sun @ 10:00 am and Wed @ 6:00 pm"
 phone: "(928) 329-1099"
 type: "Churches and Cathedrals"
 url: "hhtp:"
-latitude: 32.694368
-longitude: -114.664548
 ---
 
 INTERNATIONAL CHRISTIAN CENTER of the Assemblies of God
@@ -33,5 +31,3 @@ url: [hhtp:](http://hhtp://www.yumaicc.org)
 address: 3767 West 18th Place, Yuma, Arizona 85364
 
 email: yumaicc@gmail.com
-
-[back to Sights](..)

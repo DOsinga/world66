@@ -43,5 +43,3 @@ vicinity of the beach include gardens, golf courses and statues.
 
 **Contributors**
 March 20, 2010
-new
-by [jenna storm](/member/jenna_storm)

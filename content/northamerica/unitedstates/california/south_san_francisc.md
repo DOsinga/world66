@@ -1,9 +1,9 @@
 ---
-title: "South San Francisco Travel Guide"
+title: "South San Francisco"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 South
 San Francisco occupies the basin and portions of the sides of a broad
@@ -19,11 +19,3 @@ tripled since World War II with the opening of such subdivisions as
 Buri Buri, Winston Manor and Westborough on the slopes west of El
 Camino. It has grown from 4,411 in 1920 to 61,824 in 2006. A new BART
 station opened in June 2003.
-
-#### Contributors
-
-January 17, 2007 new by [mehul](/member/mehul) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

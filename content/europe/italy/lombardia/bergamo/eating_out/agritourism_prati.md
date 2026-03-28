@@ -16,8 +16,6 @@ In July and August they have a festival of the mountains and a festival of tradi
 
 **Contributors**
 April 09, 2006
-new
-by [karenbru](/member/karenbru)
 
 type: Italian
 
@@ -30,5 +28,3 @@ url: [www.agriturismopratiparini.com](http://www.agriturismopratiparini.com/)
 address: Ca' Chinaglio (Sedrina)
 
 PriceOfMenu: €20
-
-[back to Eating Out](..)

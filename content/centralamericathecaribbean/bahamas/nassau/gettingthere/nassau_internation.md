@@ -17,5 +17,3 @@ type: By Air
 tel: +1 242 377 7281
 
 address: PO Box AP, 59222, Nassau, Bahamas
-
-[back to Getting There](..)

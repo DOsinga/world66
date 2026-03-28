@@ -8,8 +8,6 @@ Ile de Gorée has a number of interesting sights.
 
 **Contributors**
 May 22, 2005
-new
-by [jst](/member/jst) (1 point)
 
 ### [Historical museum](/africa/senegal/iledegoree/sights/historical_museum)
 

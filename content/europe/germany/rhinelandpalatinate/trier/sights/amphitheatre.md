@@ -13,9 +13,3 @@ In the vicinity of the Amphitheater is the site of the former chariot racing cou
 Trier's three Roman baths lie on the same axis because they were fed by the same 13 km (8 mile) long aqueduct reaching the city near the Amphitheater; they also used the same sewer system that still partially runs underneath the modern city, accessible, however, only through a private basement.
 
 type: general
-
-
-
-
-
-[back to Sights](..)

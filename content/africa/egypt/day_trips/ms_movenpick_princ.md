@@ -5,8 +5,6 @@ address: "Egypt , Hurghada"
 email: "zenab@egypttravelhotdeals.com"
 phone: "0020126539033"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Cruise Itinerary A
@@ -39,37 +37,6 @@ You will be transferred from the point of your arrival or your hotel in **Aswan*
 You will have breakfast on board with free time for relax. Lunch will be served during sailing to **Kasr Ibrim** the last **Nubian monument** remaining in its original location.**Tour** is conducted from the **ship**'s sundeck as entrance is not permitted. While sailing to **Amada**, lunch will be served. visit to the Temple of Amada, the oldest **Egyptian temple** in Nubia, was first constructed by pharaoh Thutmose III of the 18th dynasty and dedicated to Amun and Re-Horakhty with next continues the decoration program for this structure by other pharaohs. Then u will see the** Temple of Derr** is a rock-cut temple built by pharaoh **Ramesses II** in Lower Nubia and the Tomb of Penout, the only conserved example of a tomb of an **Egyptian** viceroy in Nubia. Dinner and overnight will be served on board.
 
 **Day 3: Wadi El Seboua**
-After braekfast early visit **Wadi El Seboua** Temple means in Arabic " Valley Of Lions " and refers to the avenue of 10 Sphinxes that stood in front of the Temple Of **Ramses **- Mery - Amun, dedicated by **Ramses II** to the two Gods Amon Ra and Harmakis. Then you see the **temple of Dakka,** dedicated to Thoth, it's construction appears to have become a combined effort between these Nubian kings and the line of Greek Pharaohs in** Egypt**, the temple itself was started by Arkamani and was added to by his contemporary, Ptolemy IV, and decorated by later Ptolemies; and the temple of Meharrakka dates from the Greco-Roman period dedicated to Serapis. You will sail to **Aswan**, cocktail will be offered while passing Tropics of Cancer before which the area experiences no dramatic change in season because the sun is consistently high in the sky throughout the year. You will return back to the board for dinner and overnight.
-
-**Day 4: Aswan**
-You will have breakfast on board,then you will have **tour** to** Kalabsha Temple** considered one of the biggest temples that was built in the era of the XVIII dynasty and dedicated to the fertility god Mandukis. Temple is classical for the Ptolemaic period with pylons, courtyard, hypostyle hall and three room sanctuaries. Also you will visit **Beit el-Wali** represents another of **Ramesses II'**s Nubian monuments dedicated principally to Amun, together with other gods, that was cut out of the rock and is probably unique as the smallest of its gender. On the walls of the forecourt are several fascinating reliefs, detailing the Pharaoh's victory over the Nubians and his war against the Lybians and Syrians, and kiosk of Kertassi built of Two Hathor-headed capped columns flank the entrance during the Greek Roman period and dedicate Goddess Isis. Disembark the **cruise ship** after breakfast.
-
-Tour Includes
-Meet and assist upon arrival and departure by our REP
-Transfer by air-conditioned vehicle to your cruise
-Accommodation on full board basis on board the Lake cruise
-All sightseeing tours as per the cruise itinerary
-Admission fees to the sights as per cruise itinerary
-Professional English speaking tour guide
-All service charges and applicable taxes
-
-Tour Excludes
-Optional tours
-Personal expenses
-
-website:
-www.egypttravelhotdeals.com
-
-
-
-
-
-tel: 0020126539033
-
-url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
-
-address: Egypt , Hurghada
+After braekfast early visit **Wadi El Seboua** Temple means in Arabic " Valley Of Lions " and refers to the avenue of 10 Sphinxes that stood in front of the Temple Of **Ramses **- Mery - Amun, dedicated by **Ramses II** to the two Gods Amon Ra and Harmakis. Then you see the **temple of Dakka,** dedicated to Thoth, it's construction appears to have become a combined effort between these Nubian kings and the line of Greek Pharaohs in** Egypt**, the temple itself was started by Arkamani and was added to by his contemporary, Ptolemy IV, and decorated by later Ptolemies; and the temple of Meharrakka dates from the Greco-Roman period dedicated to Serapis. You will sail to **Aswan**, cocktail will be offered while passing Tropics of Cancer before which the area experiences no dramatic change in season because the sun is consistently high in the sky throughout the year. You will return address: Egypt , Hurghada
 
 email: zenab@egypttravelhotdeals.com
-
-[back to Day Trips](..)

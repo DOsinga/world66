@@ -10,7 +10,3 @@ Kadare the book shop lacated at "Barrikada" street.It is near by the building we
 International book store. It is located near Sami Frasheri street . Near to the Bllok area.
 
 Firiend's Book House, located at the road that conects Myslym Shyri road with the lana river.
-
-
-
-[back to Books](..)

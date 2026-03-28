@@ -55,6 +55,4 @@ Only km. 3 by sea from [Palau](/australiaandpacific/palau). In the islands of th
 
 **{Monte Albo}**
 
-61 km from Olbia. Its fretted peak, of great naturalistic interest, is dipped into a rocky and forestry landscape which preserves an unusual beauty. 
-
--->
+61 km from Olbia. Its fretted peak, of great naturalistic interest, is dipped into a rocky and forestry landscape which preserves an unusual beauty.

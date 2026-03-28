@@ -29,5 +29,3 @@ Dubrovnik has several unassuming old bars and cafes, where the atmosphere is mor
 
 **Contributors**
 February 23, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

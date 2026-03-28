@@ -1,9 +1,9 @@
 ---
-title: "San José de Lourdes Travel Guide"
+title: "San José de Lourdes"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 San José de Lourdes is a district in the north-eastern part of [San Ignacio](/southamerica/peru/san_ignacio) province. The capital is merely a small village on a dirt road. The town can be reached crossing the river Chinchipe close to the point where the [Jaén](/southamerica/peru/northern_pacific_t/jan)-[San Ignacio](/southamerica/peru/san_ignacio/san_ignacio) highway heads west into the mountains.
 
@@ -14,11 +14,3 @@ As tourism is a very exotic phenomenon, you'll have to rely on mountainfolk hosp
 Going ever deeper into the valley, plots and hamlets become smaller and the forest becomes denser. In the end the forest is everywhere, and you reach native territory. Some 3000 indiginous people of the Apo tribe live here. Most of them don't speak Spanish.
 
 You'd want to hurry visiting this place: you might be the first and last tourist to see this place in all it's glory, as almost the whole forest has been given in concession to foreign mining interests. If you're interested in the social movement that has arrisen to protest this, and their reasons to fight, a good resource is www.vima.org.pe .
-
-#### Contributors
-
-April 23, 2006 new by [joosts](/member/joosts) (8 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 04:37

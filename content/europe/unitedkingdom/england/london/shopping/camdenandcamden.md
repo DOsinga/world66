@@ -50,5 +50,3 @@ email: camdenmarkets@yahoo.com.au
 accessibility: Camden Town & Chalk Farm tube stations
 
 url: [www.camdenmarkets.org](http://www.camdenmarkets.org)
-
-[back to Shopping](..)

@@ -25,5 +25,3 @@ If you are in town, you should see Las fiestas del Mar, or the "Festival of the 
 
 **Contributors**
 March 25, 2010
-new
-by [piyushjain](/member/piyushjain_)

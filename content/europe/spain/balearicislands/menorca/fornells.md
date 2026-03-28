@@ -9,9 +9,5 @@ Fornells is like a pearl nested into the virginal north coast of Menorca. A trul
 
 **Contributors**
 July 14, 2005
-change
-by [reen](/member/reen)
 
 January 12, 2006
-change
-by [giorgio](/member/giorgio)

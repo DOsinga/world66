@@ -35,5 +35,3 @@ Remember that most flights are usually fully booked so buy your tickets well ahe
 
 **Contributors**
 November 07, 2005
-new
-by [aimeecb](/member/aimeecb)

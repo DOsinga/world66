@@ -15,5 +15,3 @@ type: general
 address: Rosenthaler Str. 40/41, Hackesche Höfe, 1st courtyard
 
 connections: S Hackescher Markt
-
-[back to Getting Around](..)

@@ -8,7 +8,3 @@ The name of this restaurant literally means Auntie Náncsi. It’s a favourite w
 address: Ördögárok útca 80
 
 tel: 176-5809
-
-[back to Eating Out](..)
-
--->

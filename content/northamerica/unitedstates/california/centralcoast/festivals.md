@@ -7,5 +7,3 @@ Every October Morro Bay hosts the Morro Bay Harbor Festival. It is a wonderful c
 
 **Contributors**
 April 28, 2005
-new
-by [ladyarwen](/member/ladyarwen)

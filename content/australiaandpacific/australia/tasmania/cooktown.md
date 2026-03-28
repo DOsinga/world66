@@ -1,14 +1,10 @@
 ---
-title: "Cooktown Travel Guide"
+title: "Cooktown"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Cooktown information coming soon.
 
 http://www.cook.qld.gov.au/
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 15:37

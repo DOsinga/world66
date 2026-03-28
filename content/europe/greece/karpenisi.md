@@ -1,12 +1,8 @@
 ---
-title: "karpenisi Travel Guide"
+title: "karpenisi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ski location
-
-Page last generated on Mon 18:44
-
--->

@@ -10,17 +10,7 @@ There are also many trendy eateries, coffee shops, music stores, and tattoo parl
 
 **Contributors**
 March 11, 2006
-new
-by [markintelaviv](/member/markintelaviv) (4 points)
 
 February 09, 2007
-change
-by [rfujitani](/member/rfujitani) (2 points)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

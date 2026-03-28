@@ -13,9 +13,3 @@ Open 7 days (except Christmas day) 10.00am – 5.00pm
 **See our website (www.airforcemuseum.co.nz) for more details **
 
 type: general
-
-
-
-
-
-[back to Museums](..)

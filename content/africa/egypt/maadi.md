@@ -1,9 +1,9 @@
 ---
-title: "Maadi Travel Guide"
+title: "Maadi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Maadi retains the ancient name of the town that once stood on much the same site as today's district, and which has now turned out to be a significant Predynastic archaeological site. However, building activity in the area has destroyed some archaeologically sensitive places.
 
@@ -36,7 +36,3 @@ Egyptian National Railways also operates a line through Maadi, but it is strictl
 [edit] Culture
 
 Services in Maadi are geared to a great extent to serve the town's expatriate population. In addition to numerous western restaurants, there are many churches, and a synagogue. There are also newspapers and magazines catering to this very large sector of Maadi's population. The Maadi Sporting Club has served the local community since 1921.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 22:44

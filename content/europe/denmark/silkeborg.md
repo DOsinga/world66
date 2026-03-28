@@ -1,8 +1,6 @@
 ---
 title: "Silkeborg"
 type: location
-latitude: 56.169453
-longitude: 9.549514
 ---
 
 Silkeborg is situated on the banks of the Gudenå river, surrounded by large forests and beautiful lakes. The city is situated at the largest lake district in Denmark. 

@@ -12,5 +12,3 @@ Beergarden in front and restaurant at the back both offer meals and both are noi
 address: 305 Ali Hassan Mwinyi Rd.,
 
 tel: +255 (0)22 - 2122931
-
--->

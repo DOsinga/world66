@@ -13,8 +13,6 @@ A very casual, relaxed bar on Boundary Street, the main street for eating and dr
 
 **Contributors**
 August 08, 2006
-new
-by [scratchy](/member/scratchy) (2 points)
 
 type: Clubs and dancing
 
@@ -31,5 +29,3 @@ url: [www.rumpusroom.com.au](http://www.rumpusroom.com.au)
 address: cnr of Boundary & Russell Street, West End 4101
 
 email: rumpusroom@bigpond.com
-
-[back to Nightlife and Entertainment](..)

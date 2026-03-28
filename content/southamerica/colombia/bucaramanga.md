@@ -1,0 +1,4 @@
+---
+title: "Bucaramanga"
+type: location
+---

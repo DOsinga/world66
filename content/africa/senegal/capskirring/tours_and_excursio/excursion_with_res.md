@@ -27,5 +27,3 @@ url: [www.residence-les-alizes.com](http://www.residence-les-alizes.com)
 address: Résidences Les Alizés, Plage du Cap Skirring, B.P 21
 
 email: info@residences-les-alizes.com
-
-[back to Tours and Excursions](..)

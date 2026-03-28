@@ -18,8 +18,6 @@ The hotel rest. is vis-a-vis to Sicilia restaurant
 
 **Contributors**
 August 11, 2005
-new
-by [j wojtynski](/member/j_wojtynski)
 
 type: European
 
@@ -30,5 +28,3 @@ type: European
 address: Taikos g./Kudirkos g.
 
 PriceOfMenu: rather cheap for this standard:)
-
-[back to Eating Out](..)

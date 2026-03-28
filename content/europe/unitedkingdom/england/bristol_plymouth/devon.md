@@ -13,9 +13,6 @@ Exeter Cathedral is a famous landmark in the region and Exeter's old Customs Hou
 
 The National Trust areas at Saltram and Killerton are also places of interest, as is and Buckland Abbey on the fringe of Dartmoor, which was owned in different periods by Sir Francis Drake and Sir Richard Grenville.
 
-*Change history*
-Write up by [natbat](/member/natbat) on 20 July 04
-
 ## Destinations in Devon
 
 [Plymouth](/europe/unitedkingdom/england/bristol_plymouth/devon/plymouth)
@@ -26,5 +23,3 @@ Write up by [natbat](/member/natbat) on 20 July 04
 [Ottery St. Mary](/europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary)
 [Newton Abbot](/europe/unitedkingdom/england/bristol_plymouth/devon/newtonabbot)
 [Dartmoor](/europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor)
-
--->

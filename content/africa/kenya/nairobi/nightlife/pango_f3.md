@@ -30,5 +30,3 @@ url: [www.floridaclubskenya.com](http://www.floridaclubskenya.com)
 address: 55381-00200
 
 email:
-
-[back to Nightlife and Entertainment](..)

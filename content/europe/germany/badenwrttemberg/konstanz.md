@@ -1,0 +1,4 @@
+---
+title: "Konstanz"
+type: location
+---

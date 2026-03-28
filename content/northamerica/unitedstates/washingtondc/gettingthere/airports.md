@@ -20,11 +20,5 @@ BWI airport is at least a 45 minute drive from downtown DC. Getting there via tr
 
 **Contributors**
 April 05, 2005
-new
-by [fanntastic](/member/fanntastic)
 
 type: By Air
-
-
-
-[back to Getting There](..)

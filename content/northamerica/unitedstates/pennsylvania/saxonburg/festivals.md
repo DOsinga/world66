@@ -9,8 +9,6 @@ Knoch events (year-round, excepting summer): Pretty much the usual stuff: sports
 
 **Contributors**
 May 06, 2004
-new
-by [mccart42](/member/mccart42) (1 point)
 
 ### [Saxonburg Festival of the Arts](/northamerica/unitedstates/pennsylvania/saxonburg/festivals/saxonburg_festival)
 

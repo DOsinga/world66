@@ -52,5 +52,3 @@ taste and the size of your wallet.
 
 **Contributors**
 August 23, 2005
-change
-by [brixton_ian](/member/brixton_ian)

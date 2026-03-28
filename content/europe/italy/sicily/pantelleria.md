@@ -1,7 +1,9 @@
 ---
-title: "Pantelleria Travel Guide"
+title: "Pantelleria"
 type: location
 ---
+
+Travel Guide
 
 If you're looking for a beautiful island in Italy where you can relax,
 enjoy the sun, sea, and natural mineral hot springs, then consider a
@@ -67,5 +69,3 @@ a tennis court, a bar and lounge, and a wonderful dining room where you
 can enjoy the views of the sea while tasting the local catch of the
 day. Each room has a terrace where you can watch the sun set over the
 island.
-
-More information on Pantelleria Travel at Wikitravel.org

@@ -9,12 +9,8 @@ Every year around late September, Wellington boost the biggest event in NZ, Worl
 
 **Contributors**
 January 02, 2007
-new
-by [lollo](/member/lollo)
 
 March 12, 2007
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -23,5 +19,3 @@ by [giorgio](/member/giorgio)
 url: [www.worldofwearableart.com](http://www.worldofwearableart.com/)
 
 date: sept
-
-[back to Festivals](..)

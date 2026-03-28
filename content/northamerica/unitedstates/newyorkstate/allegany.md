@@ -1,0 +1,4 @@
+---
+title: "Allegany"
+type: location
+---

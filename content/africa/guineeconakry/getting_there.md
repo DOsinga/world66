@@ -59,5 +59,3 @@ mind.
 
 **Contributors**
 February 25, 2010
-change
-by [gabriellet](/member/gabriellet)

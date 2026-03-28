@@ -32,5 +32,3 @@ url: [www.purecostumes.com](http://www.purecostumes.com)
 address: 1818 Potrero Ave, South El Monte, CA 91733
 
 email: admin@purecostumes.com
-
-[back to Shopping](..)

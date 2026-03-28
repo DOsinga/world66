@@ -31,9 +31,5 @@ Pezenas is best seen on foot. The small meandering cobblestone streets are perfe
 
 **Contributors**
 February 17, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 16, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)

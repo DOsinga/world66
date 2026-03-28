@@ -1,9 +1,9 @@
 ---
-title: "Okanogan Travel Guide"
+title: "Okanogan"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The historic
 town of Okanogan is the county seat of Okanogan County and the gateway
@@ -14,13 +14,3 @@ from Stevens County, and is an Indian word for "rendezvous. It is situated
 in the north central part of the state west of the Cascades and bounded
 on the north by Canada. Now days Okanogan county's main industries include
 apples, lumber, mineral mining and cattle ranching.
-
-*Part or or all of this text stems from the original article at: http://www.visitokanogan.com/information/History-Images.html#modern*
-
-#### Contributors
-
-October 07, 2009 new by [openbook](/member/openbook)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 13:27

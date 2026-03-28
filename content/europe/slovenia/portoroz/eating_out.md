@@ -17,5 +17,3 @@ For a classy night out to dinner with your significant other, Taverna is a nice 
 
 **Contributors**
 October 30, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

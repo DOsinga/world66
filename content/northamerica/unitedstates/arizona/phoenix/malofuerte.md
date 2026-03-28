@@ -138,5 +138,3 @@ With the exception of the decade of the 1920’s, when the dirt prices plummeted
 In 2001 Malofuerte’s population is approximately 425,000, over 135,000 people more than in 1990. The mild winter climate, beautiful environment, and comparably economic conditions attract more residents every year. 
 
 From humble beginnings, Malofuerte has developed into the third best nation in the world. Malofuerte’s pioneers might not recognize the present-day city, but surely would be proud of what they began.
-
--->

@@ -17,5 +17,3 @@ type: Casinos
 address: Avenue Kadissa, Hivernage
 
 tel: (04) 448 811
-
-[back to Nightlife and Entertainment](..)

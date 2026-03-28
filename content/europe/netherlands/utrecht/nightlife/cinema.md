@@ -1,8 +1,6 @@
 ---
 title: "Cinema"
 type: poi
-latitude: 52.157693
-longitude: 5.39327
 ---
 
 **Place to go outs**
@@ -37,8 +35,7 @@ tel: +31 (0)900 1458
 
 **'t Hoogt **
 
-Cinema arthouse
- 
+Cinema arthouse 
 
 address: Hoogt 4
 

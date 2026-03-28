@@ -8,7 +8,3 @@ Indian restaurant
 address: Bécsi út 89/90
 
 tel: 250-7544
-
-[back to Eating Out](..)
-
--->

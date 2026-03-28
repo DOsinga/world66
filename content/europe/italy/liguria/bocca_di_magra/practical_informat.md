@@ -5,8 +5,6 @@ address: "Via Fabbricotti 116, 19038 Bocca di Magra"
 phone: "0039 347 494 6286"
 type: "Tourist information"
 url: "www.yachtclubilpontile.it"
-latitude: 44.05689
-longitude: 9.974674
 ---
 
 There is a port at Bocca di Magra and a shipyard. There are real estate agents, accommodation, restaurants, beaches, shops and a Roman ruin.

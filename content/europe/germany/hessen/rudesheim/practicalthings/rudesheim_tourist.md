@@ -44,8 +44,6 @@ The **Rudesheim Tourist Office** offers the following services:
 
 **Contributors**
 September 06, 2005
-change
-by [tfranzke](/member/tfranzke)
 
 type: Tourist information
 
@@ -60,5 +58,3 @@ url: [www.ruedesheim.de](http://www.ruedesheim.de/en/)
 address: Geisenheimer Strasse 22, D-65385 Ruedesheim am Rhein
 
 email: touristinfo@t-online.de
-
-[back to Practical Information](..)

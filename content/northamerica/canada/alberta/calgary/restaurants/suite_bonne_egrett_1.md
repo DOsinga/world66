@@ -1,11 +1,7 @@
 ---
 title: "Suite Bonne Egrette"
-type: location
+type: poi
 type: "general"
 ---
 
 type: general
-
-
-
-[back to Eating Out](..)

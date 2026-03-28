@@ -28,13 +28,5 @@ sign, just go right in. The main scale is just through the doors.
 
 **Contributors**
 February 23, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

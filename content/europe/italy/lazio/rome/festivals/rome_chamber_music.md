@@ -6,8 +6,6 @@ date: "june 17-26 2008"
 email: "info@romehcmaberfestival.org"
 phone: "0039 06 32 65 07 19"
 url: "www.romechamberfestival.org"
-latitude: 41.89332
-longitude: 12.482932
 ---
 
 http://www.romechamberfestival.org/
@@ -42,5 +40,3 @@ date: june 17-26 2008
 address: rome,italy
 
 email: info@romehcmaberfestival.org
-
-[back to Festivals](..)

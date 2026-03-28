@@ -9,8 +9,6 @@ The desert, an oasis, an authentic Moroccan hotel, the town, the people, the flo
 
 **Contributors**
 October 08, 2005
-change
-by [karenbru](/member/karenbru)
 
 ### [Folds in Jurassic Rocks](/africa/morocco/errachidia/sights/folds_in_jurassic)
 

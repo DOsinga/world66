@@ -1,0 +1,4 @@
+---
+title: "Chiautempan"
+type: location
+---

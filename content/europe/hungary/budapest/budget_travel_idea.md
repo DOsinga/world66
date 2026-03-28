@@ -19,9 +19,5 @@ Arrival in Budapest is increasingly inexpensive thanks to the large number of no
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 19, 2010
-change
-by [schitti](/member/schitti)

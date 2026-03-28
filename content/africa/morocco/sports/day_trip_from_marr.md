@@ -6,8 +6,6 @@ email: "info@indigosafari.com"
 phone: "+212673808084"
 type: "Trekking"
 url: "www.indigosafari.com"
-latitude: 31.625826
-longitude: -7.989161
 ---
 
 On this day trip to Ouarzazate you will visit
@@ -57,26 +55,6 @@ Taourirt Kasbah and have a visit to the cinema studios of Ouarzazate
 Holywood of Africa.
 In the ksar Ait Ben Haddou where few
 families are still living in you will be invited for a lovely cup of
-tea with the inhabitant. In the afternoon we drive you back to your
-hotel in Marrakesh via the Tizi n'Tichka Pass.
-
-**Contributors**
-September 08, 2012
-new
-by [julialover](/member/julialover)
-
-type: Trekking
-
-
-
-
-
-tel: +212673808084
-
-url: [www.indigosafari.com](http://www.indigosafari.com)
-
-address: Marrakech
+tea with the inhabitant. In the afternoon we drive you address: Marrakech
 
 email: info@indigosafari.com
-
-[back to Things to do](..)

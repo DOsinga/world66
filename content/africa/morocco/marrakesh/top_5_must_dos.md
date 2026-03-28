@@ -27,5 +27,3 @@ Located in a private club with excellent facilities and top-end kitchens, you ca
 
 **Contributors**
 August 10, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

@@ -14,8 +14,6 @@ The view of the city from the top of Corcovado is worth a visit!
 
 **Contributors**
 May 22, 2005
-new
-by [jst](/member/jst) (1 point)
 
 type: Landmarks
 
@@ -30,5 +28,3 @@ url: [www.rio.rj.gov.br](http://www.rio.rj.gov.br/riotur/en/atracao/?CodAtr=1503
 address: Parque Nacional da Tijuca
 
 accessibility: By Tram (bondinho): Estrada de Ferro Corcovado - Rua Cosme Velho, 513 - Cosme Velho.
-
-[back to Sights](..)

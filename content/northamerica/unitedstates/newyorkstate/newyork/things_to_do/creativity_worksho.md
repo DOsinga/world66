@@ -16,8 +16,6 @@ Our Creativity Workshops are for people from all professions: education, busines
 
 **Contributors**
 August 13, 2009
-change
-by [ceciglusman](/member/ceciglusman)
 
 type: Other
 
@@ -28,5 +26,3 @@ tel: 1 (831) 915-5209
 url: [www.creativityworkshop.com](http://www.creativityworkshop.com)
 
 email: admin@creativityworkshops.com
-
-[back to Things to do](..)

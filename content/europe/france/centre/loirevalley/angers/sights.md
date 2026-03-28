@@ -19,9 +19,7 @@ address: 23 Boulevard Descazeaux
 
 **La cathédrale Saint-Maurice**
 
-It is the first major work in Plantagent Gothic style, begun in the middle of the XIIth century. The early spires were rebuilt higher in stone in the XVIth century in a flamboyant Gothic style; a great number of alterations were carried out up until 1862. Among other things, Jean de Lespine added to the former gable a Renaissance-style central lantern tower.  It is worth noticing the murals of the apse which came to light in 1980, revolutionising our knowledge of Gothic wall-paintings. Most of the stained-glass windows in the chancel date back to the XIth and XIIth centuries, and those of the transept to the XVth. One must also see the treasure of the cathedral composed of precious objects made of silver, gilt copper and carved bone, as well as silk fabrics.   [more..](/europe/france/centre/loirevalley/angers/sights/lacathdralesaintmaurice)
-
-address: Place Monseigneur Chappoulie
+It is the first major work in Plantagent Gothic style, begun in the middle of the XIIth century. The early spires were rebuilt higher in stone in the XVIth century in a flamboyant Gothic style; a great number of alterations were carried out up until 1862. Among other things, Jean de Lespine added to the former gable a Renaissance-style central lantern tower.  It is worth noticing the murals of the apse which came to light in 1980, revolutionising our knowledge of Gothic wall-paintings. Most of the stained-glass windows in the chancel date address: Place Monseigneur Chappoulie
 
 **L'ensemble Saint-Jean**
 
@@ -72,5 +70,3 @@ address: 1 rue du Pin
 address: 3 rue Louis de Romain
 
 tel: 02 41 24 16 30
-
--->

@@ -7,8 +7,6 @@ phone: "+31(0)204221385"
 price: "€ 125 including cruise"
 type: "European"
 url: "www.amsterdamjewelcruises.com"
-latitude: 51.809146
-longitude: 4.669775
 ---
 
 Amsterdam Jewel Cruises offers you a romantic evening dinner cruise through the canals of Amsterdam.
@@ -31,5 +29,3 @@ address: Singel 235
 PriceOfMenu: € 125 including cruise
 
 email: info@amsterdamjewelcruises.com
-
-[back to Eating Out](..)

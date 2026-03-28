@@ -21,5 +21,3 @@ url: [www.khtjs.com](http://www.khtjs.com)
 address: 45 mir raok
 
 email: ksl@gmail.com
-
-[back to Shopping](..)

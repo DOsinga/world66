@@ -1,0 +1,4 @@
+---
+title: "Northville"
+type: location
+---

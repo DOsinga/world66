@@ -59,5 +59,3 @@ Shows are held daily and concessions are available.
 
 **Contributors**
 April 14, 2010
-new
-by [guacadoggie](/member/guacadoggie)

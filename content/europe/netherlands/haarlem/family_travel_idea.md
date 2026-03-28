@@ -25,9 +25,5 @@ The Haarlem Shopping Center is not only a wonderful spot for shopping and dining
 
 **Contributors**
 April 08, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)

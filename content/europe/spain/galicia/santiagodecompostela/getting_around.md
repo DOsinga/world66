@@ -25,5 +25,3 @@ Close by we reach the bridge that crosses to the Island of Arousa and its extrao
 
 **Contributors**
 June 08, 2005
-change
-by [hoteleshusagalicia](/member/hoteleshusagalicia)

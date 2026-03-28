@@ -1,8 +1,6 @@
 ---
 title: "Car Rentals"
 type: poi
-latitude: 53.307631
-longitude: -113.582894
 ---
 
 All major international car rental companies offer their services in
@@ -14,7 +12,3 @@ more options, as the trailheads may be 50 to 100 miles away from your
 accommodation. Only if you plan to explore just some big cities like
 Vancouver, Toronto or Montreal for example, you don't need a rental car
 there. Those cities have a great public transit service.
-
-
-
-[back to Getting Around](..)

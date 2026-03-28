@@ -22,3 +22,29 @@ Just like in every country, carrying firearms, drugs or smuggling is a punishabl
 **Culture**
 
 Rahim Yar Khan is a Muslim city, so you will need to be aware of cultural and religious customs while visiting the city. If you are entering a mosque, it is best to ask advice on the customs followed before entering.
+
+Colleges and schools in RYK
+
+### [Mudasar Haleem](/asia/pakistan/rahimyarkhan/practical_informat/mudasar_haleem)
+
+Sheikh Zayed Medical College
+
+type: Health and Safety
+
+
+
+[[rate it]](/asia/pakistan/rahimyarkhan/practical_informat/mudasar_haleem)
+
+### [ABID ANWAR](/asia/pakistan/rahimyarkhan/practical_informat/abid_anwar)
+
+E-ACCESS PVT. LTD, ORIX LEASING RAHIM YAR KHAN
+
+type: Embassies and Consulates
+
+
+
+tel: 068-5887612
+
+address: 20,21 CITY CENTER PLAZA SHAHI ROAD
+
+email: aabidanwaar@yahoo.com

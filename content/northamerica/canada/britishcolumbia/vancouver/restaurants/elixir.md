@@ -1,12 +1,10 @@
 ---
 title: "Elixir"
-type: location
+type: poi
 address: "350 Davie Street, Vancouver, BC, V6B 5Z6"
 phone: "604.642.0557"
 type: "French"
 url: "www.elixirvancouver.ca"
-latitude: 49.274724
-longitude: -123.122703
 ---
 
 Charming French brasserie inside the stylish Opus Hotel. Chef Don
@@ -17,8 +15,6 @@ few bistro highlights.
 
 **Contributors**
 November 21, 2006
-new
-by [jhyatt](/member/jhyatt)
 
 type: French
 
@@ -31,5 +27,3 @@ tel: 604.642.0557
 url: [www.elixirvancouver.ca](http://www.elixirvancouver.ca/)
 
 address: 350 Davie Street, Vancouver, BC, V6B 5Z6
-
-[back to Eating Out](..)

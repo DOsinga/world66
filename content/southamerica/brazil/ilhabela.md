@@ -1,8 +1,6 @@
 ---
 title: "Ilhabela"
 type: location
-latitude: -23.816628
-longitude: -45.368685
 ---
 
 Very nice city located at São Paulo state north coastside. Beutiful beaches. Calm sea. Nice winds, so it´s the sailors´ spot in the state.

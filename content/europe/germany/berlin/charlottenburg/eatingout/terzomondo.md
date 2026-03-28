@@ -10,7 +10,3 @@ address: Grolmanstr. 28
 connections: S Savignyplatz
 
 openings: Daily from 6pm, open end
-
-[back to Eating Out](..)
-
--->

@@ -52,5 +52,3 @@ are as clean as possiible.
 
 **Contributors**
 July 30, 2009
-new
-by [kileybugher](/member/kileybugher)

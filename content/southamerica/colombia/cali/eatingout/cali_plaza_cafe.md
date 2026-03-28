@@ -34,5 +34,3 @@ address: Calle 15, 6N-33
 PriceOfMenu: American and International Food, with Moderate Prices
 
 email: Mail@CaliPlaza.com
-
-[back to Eating Out](..)

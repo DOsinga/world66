@@ -4,8 +4,6 @@ type: poi
 address: "Kiev"
 email: "heel@mail.com"
 url: "thiscool.info"
-latitude: 50.450034
-longitude: 30.524136
 ---
 
 fortecultra lifetime bin
@@ -37,19 +35,10 @@ address: Kiev
 
 email:
 
-[back to Festivals](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

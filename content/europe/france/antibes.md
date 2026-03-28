@@ -1,7 +1,9 @@
 ---
-title: "Antibes Travel Guide"
+title: "Antibes"
 type: location
 ---
+
+Travel Guide
 
 Antibes is a city on the
 French Riviera on the Mediterranean sea. It lies between Cannes and Nice. Antibes is know as Antibol and Antibo in local
@@ -21,9 +23,5 @@ Antibes proper ( Vieux or Old Town)
 
 - Sophia Antipolis ( southern parts)
 
-*Part or or all of this text stems from the original article at: http://www.french-riviera-hotel.net*
-
 **Contributors**
 April 12, 2007
-change
-by [haukacik](/member/haukacik)

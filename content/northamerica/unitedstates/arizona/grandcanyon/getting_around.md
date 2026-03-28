@@ -7,20 +7,11 @@ Make sure you work in a helicopter ride over the canyon. The views are breathtak
 
 **Contributors**
 November 03, 2005
-new
-by [crodi](/member/crodi)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

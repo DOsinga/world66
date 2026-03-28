@@ -1,0 +1,4 @@
+---
+title: "Alessandria"
+type: location
+---

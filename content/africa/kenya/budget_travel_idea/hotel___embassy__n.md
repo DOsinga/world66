@@ -19,7 +19,7 @@ X-NONE
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **HOTEL
 EMBASSY NAIROBI**
@@ -125,5 +125,3 @@ tel: +254722521651
 url: [www.hotelembassy-kenya.com](http://www.hotelembassy-kenya.com)
 
 email: info@hotelembassy-kenya.com
-
-[back to Budget Travel Ideas](..)

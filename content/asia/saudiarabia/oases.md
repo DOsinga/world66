@@ -1,0 +1,4 @@
+---
+title: "Oases"
+type: location
+---

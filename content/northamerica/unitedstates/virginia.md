@@ -8,13 +8,3 @@ Virgina is one of the most historic of the United states. In 1607 colonists disp
   Northern Virginia is rich in history as well as the future. You can visit the homes of George Washington, Thomas Jefferson, George Mason, Robert E. Lee, James Monroe, and many other prominent figures in American history. Northern Virginia is rapidly becoming the center of the high-tech industry for the east coast with hundreds of internet companies including America Online. 
 
  In Southern Virginia, you won't forget you're in the south. Nevertheless, the culture is as thick as the accent. You'll find beaches, theme parks, and some very good southern cooking. The Shenandoah valley is loaded with trails for biking and hiking or even a nice drive along the Blue Ridge mountains. Richmond is the capital and Norfolk the largest city.
-
-## Destinations
-
-- [Alexandria](/northamerica/unitedstates/virginia/alexandria)
-- [Lynchburg](/northamerica/unitedstates/virginia/lynchburg)
-- [Norfolk](/northamerica/unitedstates/virginia/norfolk)
-- [Northern](/northamerica/unitedstates/virginia/northern)
-- [Richmond](/northamerica/unitedstates/virginia/richmond)
-- [Southern](/northamerica/unitedstates/virginia/southern)
-- [Williamsburg](/northamerica/unitedstates/virginia/williamsburg)

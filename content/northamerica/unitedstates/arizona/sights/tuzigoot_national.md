@@ -7,9 +7,3 @@ type: "Parks, Gardens and Zoos"
 Tuzigoot National Monument
 
 type: Parks, Gardens and Zoos
-
-
-
-
-
-[back to Sights](..)

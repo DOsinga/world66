@@ -22,13 +22,9 @@ Villa Antique Mall
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Antiques
 
 
 
 address: 10rh and May Streets
-
-[back to Shopping](..)

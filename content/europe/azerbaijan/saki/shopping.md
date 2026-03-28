@@ -26,5 +26,3 @@ Azerpost OfficeAzerbaijan Post locations are dispersed throughout the city of Sh
 
 **Contributors**
 December 05, 2006
-new
-by [cupcakecommander](/member/cupcakecommander) (4 points)

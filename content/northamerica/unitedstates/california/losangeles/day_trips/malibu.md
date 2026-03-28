@@ -7,9 +7,3 @@ Just north of Santa Monica rests the luxurious beach town called Malibu. This co
 
 **Contributors**
 April 10, 2009
-new
-by [travelnut23](/member/travelnut23)
-
-
-
-[back to Day Trips](..)

@@ -8,5 +8,3 @@ Space is located in the centre of Playa D'en Bossa. Famous for its unique sun te
 address: Playa D'en Bossa
 
 tel: +34/971396793
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Gadao"
+type: location
+---

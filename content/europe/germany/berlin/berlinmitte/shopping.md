@@ -14,5 +14,3 @@ Across the border from Kreuzberg in the green district of Treptow is Germany's b
 [Fashion](/europe/germany/berlin/berlinmitte/shopping?subsection=Fashion)
 
 [Shoes](/europe/germany/berlin/berlinmitte/shopping?subsection=Shoes)
-
--->

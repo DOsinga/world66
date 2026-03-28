@@ -7,9 +7,5 @@ type: section
 
 **Contributors**
 June 10, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 December 24, 2007
-change
-by [freddyjohnson](/member/freddyjohnson)

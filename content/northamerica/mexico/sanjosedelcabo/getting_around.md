@@ -35,9 +35,5 @@ process (including buying insurance) easier.
 
 **Contributors**
 January 27, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 February 02, 2010
-change
-by [schitti](/member/schitti)

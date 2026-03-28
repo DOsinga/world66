@@ -14,5 +14,3 @@ Thankfully, the centre has been recently demolished and rebuilt and in its place
 You'd be much better off staying on that train and venturing further afield to Salisbury or Bournemouth. 
 
 Basingstoke suffers from the highest concentration town planners per square foot of concrete in the known Universe. And they still can't get anything right...
-
--->

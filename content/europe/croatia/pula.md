@@ -1,8 +1,6 @@
 ---
 title: "Pula"
 type: location
-latitude: 44.870228
-longitude: 13.845531
 ---
 
 Pula is loacted south of Rjeka and conveniently close to Triest in Italy. It is one of the most attractive towns of the Croatian coast. It dates from Roman times and Pula has many impressive monuments from its history, the most famous being the Amphitheatre built in the 1st century AD during the reign of the Emperor Vespasian. Other sights include the temple of Augustus, the town walls, the town square, the old Forum of the Romans is still going strong. 

@@ -5,16 +5,12 @@ address: "Via San Vigilio, 34, Città Alta"
 email: "pizzeriasvigiliosnc@virgilio.it"
 phone: "035 253188"
 type: "Italian"
-latitude: 45.709351
-longitude: 9.64922
 ---
 
 Beautiful view and located at the top of the funicular from Città Alta to San Vigilio. Closed Wednesday.
 
 **Contributors**
 May 31, 2005
-change
-by [karenbru](/member/karenbru)
 
 type: Italian
 
@@ -27,5 +23,3 @@ tel: 035 253188
 address: Via San Vigilio, 34, Città Alta
 
 email:
-
-[back to Eating Out](..)

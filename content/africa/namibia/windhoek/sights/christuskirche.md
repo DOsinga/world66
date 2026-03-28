@@ -14,5 +14,3 @@ type: Hotspots
 
 
 address: Elena Travel Services & Car Hire CC
-
-[back to Sights](..)

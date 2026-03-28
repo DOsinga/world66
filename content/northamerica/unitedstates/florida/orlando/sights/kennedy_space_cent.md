@@ -54,7 +54,3 @@ much cheaper price.
 The Kennedy Space Center is a must do for anyone interested in Space Travel or the United States Space program.
 
 type: Landmarks
-
-
-
-[back to Sights](..)

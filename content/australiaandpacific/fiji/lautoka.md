@@ -1,0 +1,4 @@
+---
+title: "Lautoka"
+type: location
+---

@@ -15,4 +15,4 @@ The Think Tank is Birmingham's way of bringing science and the galaxy to the peo
 
 #### Let you Taste Buds Carve at Cadbury World
 
-Take a chocolaty tour of Cadbury World. It is a treat that you won't soon forget. You will be taken on a time travel back many years to Mexico where the cocoa beans were first used to make a chocolate drink by the Aztec Emperor Montezuma. Follow the trail back to Europe and Bull Street ( which is a full size replica of the real Bull Street) where you will have a chance to shop a little and take some pictures before the man himself, John Cadbury, introduces you to this part of the tour. You will be led through the story of how Cadbury first started and the struggles the company endured to produce the sweet delights that keep us all happy--CHOCOLATE!
+Take a chocolaty tour of Cadbury World. It is a treat that you won't soon forget. You will be taken on a time travel back many years to Mexico where the cocoa beans were first used to make a chocolate drink by the Aztec Emperor Montezuma. Follow the trail

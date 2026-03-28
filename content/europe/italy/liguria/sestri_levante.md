@@ -1,7 +1,9 @@
 ---
-title: "Sestri Levante Travel Guide"
+title: "Sestri Levante"
 type: location
 ---
+
+Travel Guide
 
 Sestri Levante is a beautiful little town found approximately
 halfway between [Genoa](/europe/italy/liguria/genoa)and [La
@@ -21,5 +23,3 @@ for a short time.
 
 **Contributors**
 April 06, 2006
-new
-by [pona](/member/pona) (4 points)

@@ -8,8 +8,6 @@ Fraserburgh has two museums the Fraserburgh Heritage Centre and the Scottish Lig
 
 **Contributors**
 January 20, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [Fraserburgh Heritage Centre](/europe/unitedkingdom/scotland/fraserburgh/museums/fraserburgh_herita)
 

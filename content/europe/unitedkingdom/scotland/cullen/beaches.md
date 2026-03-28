@@ -7,5 +7,3 @@ There is a fine beach at Cullen, it is dominated by three large rocks known as '
 
 **Contributors**
 February 11, 2007
-new
-by [bardofthebroch](/member/bardofthebroch) (2 points)

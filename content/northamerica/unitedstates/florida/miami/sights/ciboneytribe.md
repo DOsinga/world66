@@ -13,8 +13,6 @@ The Bass Museum of Art is located in the center of Miami’s historic district a
 
 **Contributors**
 May 31, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -31,5 +29,3 @@ accessibility: Totally Wheelchair Accessible
 openingHours: Tuesday-Saturday 10:00 a.m.-5:00 p.m., Sunday 11:00 a.m.-5:00 p.m., closed Mondays
 
 url: [www.bassmuseum.org.](http://www.bassmuseum.org.)
-
-[back to Sights](..)

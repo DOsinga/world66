@@ -46,5 +46,3 @@ in one of the cuisine capitals on the world.
 
 **Contributors**
 February 19, 2010
-change
-by [ctanios](/member/ctanios)

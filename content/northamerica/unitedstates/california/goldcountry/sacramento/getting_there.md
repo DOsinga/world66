@@ -7,5 +7,3 @@ Sacramento travel is a breeze with Southwest Airlines providing service to and f
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

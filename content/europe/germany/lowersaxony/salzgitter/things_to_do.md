@@ -6,16 +6,12 @@ email: "info@sfs-salzgitter.de"
 phone: "0049-5341-8511-0"
 type: "Other"
 url: "www.salzgitter.de"
-latitude: 52.1497
-longitude: 10.302769
 ---
 
 Salzgitter Recreation
 
 **Contributors**
 August 14, 2006
-new
-by [bernhadette](/member/bernhadette)
 
 ### [Salzgitter Ice Rink - "Eissporthalle am Salzgittersee"](/europe/germany/lowersaxony/salzgitter/things_to_do/salzgitter_ice_rin)
 

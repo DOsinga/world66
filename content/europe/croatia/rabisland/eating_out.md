@@ -7,5 +7,3 @@ Tourists were told through years that there is no Croatian cuisine and 'croatian
 
 **Contributors**
 May 02, 2005
-new
-by [crobeachman](/member/crobeachman) (1 point)

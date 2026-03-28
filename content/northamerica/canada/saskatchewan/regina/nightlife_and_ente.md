@@ -9,5 +9,3 @@ with the locals. Fun for everyone.
 
 **Contributors**
 September 26, 2005
-change
-by [giorgio](/member/giorgio)

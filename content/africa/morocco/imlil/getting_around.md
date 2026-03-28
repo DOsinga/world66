@@ -11,5 +11,3 @@ for information all trekking programms in morocco visite www.trekmorocco.com
 
 **Contributors**
 July 20, 2008
-new
-by [darouassaggou](/member/darouassaggou) (1 point)

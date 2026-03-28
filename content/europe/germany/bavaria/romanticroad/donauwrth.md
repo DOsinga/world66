@@ -14,5 +14,3 @@ Donauwörth is located, where the rivers Donau and Wörnitz meet. As one of the 
  Rathausgasse 1, 86609 Donauwörth
 
  Tel. +49 0906 - 789 145
-
--->

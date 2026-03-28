@@ -12,8 +12,6 @@ You'll have to get in line to eat at this small Upper East Side restaurant and p
 
 **Contributors**
 January 15, 2005
-new
-by [edlicious](/member/edlicious)
 
 type: Japanese
 
@@ -28,5 +26,3 @@ PriceOfMenu: $35-70
 address: 402 E 78th St.
 
 tel: 212-517-5340
-
-[back to Eating Out](..)

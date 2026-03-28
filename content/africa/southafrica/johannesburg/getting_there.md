@@ -13,5 +13,3 @@ Long distance busses connect Johannesburg with cities all over the country as we
 
 **Contributors**
 February 12, 2007
-new
-by [gika](/member/gika) (1 point)

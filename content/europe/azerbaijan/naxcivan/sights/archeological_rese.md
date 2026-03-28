@@ -12,11 +12,5 @@ type: "Landmarks"
 
 **Contributors**
 April 18, 2006
-change
-by [reen](/member/reen)
 
 type: Landmarks
-
-
-
-[back to Sights](..)

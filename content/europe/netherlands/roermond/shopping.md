@@ -19,5 +19,3 @@ The third destination is the Industrial Area Ekkersrijt. Here you'll find quite 
 
 **Contributors**
 March 12, 2008
-new
-by [bhekoz](/member/bhekoz) (2 points)

@@ -1,9 +1,9 @@
 ---
-title: "Panajachel Travel Guide"
+title: "Panajachel"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Spanish
 School Jabel Tinamit**
@@ -17,7 +17,3 @@ sure you will have a great time at our Spanish school learning Spanish with us i
 Guatemala. Alternatively, learn Spanish from home with audio/video classes on the
 Internet. Find out more
 about all our Spanish courses...
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 16:29

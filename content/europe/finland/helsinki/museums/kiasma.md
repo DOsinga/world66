@@ -2,8 +2,6 @@
 title: "Kiasma"
 type: poi
 url: "typo.kiasma.fi"
-latitude: 60.17204
-longitude: 24.936742
 ---
 
 Kiasma is a museum of contemporary art
@@ -21,5 +19,3 @@ Closed on Mondays
 
 
 url: [typo.kiasma.fi](http://typo.kiasma.fi)
-
-[back to Museums](..)

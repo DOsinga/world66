@@ -37,9 +37,5 @@ Fuaerte Amador Panama is a shopper’s paradise and several items like rare jewe
 
 **Contributors**
 January 26, 2010
-change
-by [nam](/member/nam)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

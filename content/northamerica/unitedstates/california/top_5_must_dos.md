@@ -29,5 +29,3 @@ Visit the plethora of museums, galleries, and coffee shops when you're in the ci
 
 **Contributors**
 December 18, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

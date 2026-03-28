@@ -57,5 +57,3 @@ visit and listen to its live music played by a good band.
 
 **Contributors**
 April 19, 2010
-new
-by [beverly_per](/member/beverly_per)

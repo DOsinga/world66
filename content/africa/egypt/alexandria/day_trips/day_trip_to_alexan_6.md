@@ -5,8 +5,6 @@ address: "hurghada, egypt"
 email: "magdy@egypttravelhotdeals.com"
 phone: "0162922290"
 url: "www.albaraagroup.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 ***Tour Type**** :Private
 Shore Excursions*
@@ -51,7 +49,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Discover **Alexandria City** with
 Al baraa Travel Egypt by joining us in our sightseeing tour to **Alexandria
@@ -108,5 +106,3 @@ url: [www.albaraagroup.com](http://www.albaraagroup.com/Egypt/Shore-Excursions/A
 address: hurghada, egypt
 
 email: magdy@egypttravelhotdeals.com
-
-[back to Day Trips](..)

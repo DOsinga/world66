@@ -18,5 +18,3 @@ tel: 59153231
 address: 14 ave. A 3-36 zona 1
 
 email: joedelbusto@gmail.com
-
-[back to Eating Out](..)

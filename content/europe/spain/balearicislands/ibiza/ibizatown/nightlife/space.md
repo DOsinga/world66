@@ -8,9 +8,3 @@ Great club with the best electro Dj's (Carl Cox,David Guetta,Bob Sinclair...). I
 Positive energy, and fantastic atmosphere makes this one of the best clubs in Ibiza Town! Don't miss this crazy experince!
 
 type: Clubs and dancing
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

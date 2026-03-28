@@ -1,9 +1,9 @@
 ---
-title: "Fredericia Travel Guide"
+title: "Fredericia"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Fredericia is a town located in the eastern part of the Jutland peninsula in Denmark.
 
@@ -16,7 +16,3 @@ A fortified encampment was built on a point of land called Lyngs Odde, near the 
 On December 15, 1650 the King signed the document giving the town its first privileges, and work on the new fortifications could begin. In 1651, the town was named Frederiksodde (Frederick's Point) after the king, and on April 22, 1664, it got its newly Latinized name of Fredericia.
 
 The ramparts are very well preserved and function as a recreational area for the 40,000+ inhabitants - and as a major attraction for visitors. From them one can easily see the strict grid-like layout of the streets that formed the original town. .
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 18:33

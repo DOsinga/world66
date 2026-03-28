@@ -19,13 +19,9 @@ One of the most impressive day trips you can take is the 50 minute drive to Flor
 
 **[Pisa](/europe/italy/tuscany/pisa) - 54.7 km**
 
-To get to Pisa requires several transfers via bus or train, but is only an hour and ten minute drive away. There you can see the famous Leaning Tower started in 1173. The Duomo is even older and is interesting in its shape of a Latin cross. If you make it into the Baptistry you can stand on the pulpit or near any of the walls and sing a few notes to hear the incredible echo effect. The medieval walls surrounding the city aren´t nearly as impressive as those in Lucca, but they´re still worth seeing. You can also check out the cemetery which has tombs dating back to ancient Rome.
-
-**[Bologna](/europe/italy/emiliaromagna/bologna)** **- 132 km**
+To get to Pisa requires several transfers via bus or train, but is only an hour and ten minute drive away. There you can see the famous Leaning Tower started in 1173. The Duomo is even older and is interesting in its shape of a Latin cross. If you make it into the Baptistry you can stand on the pulpit or near any of the walls and sing a few notes to hear the incredible echo effect. The medieval walls surrounding the city aren´t nearly as impressive as those in Lucca, but they´re still worth seeing. You can also check out the cemetery which has tombs dating ** **- 132 km**
 
 The drive is just under an hour and a half, and the bus and train both run regularly from Montecatini Terme. Here you can see the huge, unfinished Basilica di San Petronino and its meridian line floor mark. There are two towers left in the city that have a lean similar to that of Pisa´s famous tower, and you can ascend these for a great view. The Museo Civico Medioevale houses stone and artwork from the middle ages, and the Archaeology Museum is very interesting. The Pinacoteca Nazionale houses some of Raphael´s best works.
 
 **Contributors**
 October 17, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

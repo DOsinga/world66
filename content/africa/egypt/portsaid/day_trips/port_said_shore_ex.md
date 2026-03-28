@@ -5,8 +5,6 @@ address: "124, haram street, giza, egypt"
 email: "amany@egyptonlinetours.com"
 phone: "01143151569"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Normal
@@ -100,57 +98,6 @@ Pyramid**
 
 - Early evening a shopping **tour** to the famous bazaars in **Giza**
 
-- Drive back to **Port Said **and drop off will be at your **ship terminal**
-in **Port Said**
-
-** **
-
-**Price includes:-**
-
--
-Pick up service from your **cruise** ship Terminal by our REP at **Port
-Said**
-
-- All transfers by deluxe air-conditioning vehicles in **Port Said** and **Cairo**
-
-- **Sightseeing tours** as stated in the **Tour** itinerary
-
-- Egyptology expert English speaking **tour **guide
-
-- Entrance fees to the **sightseeing** as per **tour** itinerary
-
-- Lunch meal will be served during **Cairo tour** at a local restaurant
-by the **Pyramids**
-
-- Free mineral water and soft drink during** tour**
-
-For More Information about this trip please follow this link:
-
-http://www.egyptonlinetours.com/Egypt-Shore-Excursions/Port-Said/trip-to-Pyramids-Memphis-Sakkara.php
-
-For More Info & More Offers Visit Ours Special offers on:
-
-http://www.egyptonlinetours.com/
-
-Or Contact us:-
-
-Amany Ibrahim
-
-Cell Phone: 01221354820 /
-01143151569
-
-Email: amany@egyptonlinetours.com
-
-
-
-
-
-tel: 01143151569
-
-url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Shore-Excursions/Port-Said/trip-to-Pyramids-Memphis-Sakkara.php)
-
-address: 124, haram street, giza, egypt
+- Drive address: 124, haram street, giza, egypt
 
 email: amany@egyptonlinetours.com
-
-[back to Day Trips](..)

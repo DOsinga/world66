@@ -16,5 +16,3 @@ a certain number of km, like my friend went all around Australia with a
 
 **Contributors**
 September 10, 2005
-new
-by [zan5hin](/member/zan5hin)

@@ -13,8 +13,6 @@ This venue in miami has a wide range of music from ska to punk, classical to cou
 
 **Contributors**
 January 07, 2005
-change
-by [bryant85x](/member/bryant85x)
 
 type: general
 
@@ -31,5 +29,3 @@ address: 2013a N Miami Ave
 url: [www.lemmingtheatre.com](http://www.lemmingtheatre.com/)
 
 tel: 305-815-4060
-
-[back to Sights](..)

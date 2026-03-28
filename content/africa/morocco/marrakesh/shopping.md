@@ -13,7 +13,23 @@ The souqs of Marrakesh are a lot like a mall. But a very arabic, and somewhat me
 
  
 
-**Shops**
+**all**
+
+**Boutique Lac Iriqi**
+
+Boutique Lac Iriqi offers for purchase some of the finest Berber carpets, ceramics, and finely made silver merchandise in Southern Morocco.
+
+Morocco's history and the story of Moroccan weaving begin with the Berbers, the indigenous people of North Africa who had inhabited Morocco for centuries [more..](/africa/morocco/marrakesh/shopping/boutique_lac_iriqi)
+
+bookingurl: [www.berbertours.net](http://www.berbertours.net)
+
+PC: 45900 - Zagora
+
+email: admin@berbertours.net
+
+address: Ave. Mohamed V
+
+tel: 212-68-51-50-87
 
 **Moroccan Lamps**
 

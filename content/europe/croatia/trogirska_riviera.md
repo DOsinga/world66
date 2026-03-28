@@ -11,5 +11,3 @@ Trogir Riviera belongs to the most indented parts of the coast; small inlets wit
 
 **Contributors**
 May 16, 2005
-change
-by [giorgio](/member/giorgio)

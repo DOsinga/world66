@@ -10,5 +10,3 @@ type: section
 [Chinese](/europe/spain/andalucia/cordoba/eatingout?subsection=Chinese)
 
 [Italian](/europe/spain/andalucia/cordoba/eatingout?subsection=Italian)
-
--->

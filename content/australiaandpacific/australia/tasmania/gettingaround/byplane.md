@@ -14,5 +14,3 @@ For quick access to the most isolated areas  of the state, plane travel is a si
  Par  Avion Ph: +61 3 6248 5390, Fax: +61 3  6248 5177, email:  flights@paravion.com.au
 
  Tasair  Ph: +61 3 6248 5088, Fax: +61 3 6248 5528,  email:  flights@tasair.com.au
-
--->

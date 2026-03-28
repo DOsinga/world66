@@ -30,3 +30,9 @@ If you are craving a more familiar taste, then Pan Pizza** **is the place for yo
 **Disneyland Sweets**
 
 To complete your experience eating out in Bahawalpur, try this familiar sounding sweets shop. Disneyland Sweets serves up ice cream with many flavors, which is a delicious treat - especially during the summer months.
+
+IT in Bahawalpur
+
+We currently have no Eating Out listed in Bahawalpur.
+
+If you do know any Eating Out in Bahawalpur, please [Add].

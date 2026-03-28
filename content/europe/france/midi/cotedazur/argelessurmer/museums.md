@@ -15,5 +15,3 @@ Located just beyond Argeles sur Mer (a mere 15 miles), is the Musee d' Art Moder
 
 **Contributors**
 April 02, 2010
-new
-by [jbyard1](/member/jbyard1)

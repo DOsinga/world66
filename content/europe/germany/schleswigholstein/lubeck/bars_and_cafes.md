@@ -134,5 +134,3 @@ Home-made gateaus and cakes
 tel.: +49 451 57040
 
 address: Kronsforder Allee 48a
-
--->

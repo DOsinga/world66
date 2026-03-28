@@ -1,0 +1,4 @@
+---
+title: "Bemidji"
+type: location
+---

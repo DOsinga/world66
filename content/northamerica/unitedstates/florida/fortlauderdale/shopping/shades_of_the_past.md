@@ -13,8 +13,6 @@ The best of Fort Lauderdale shopping should include a visit to Shades of the Pas
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)
 
 type: Antiques
 
@@ -31,5 +29,3 @@ url: [www.shadesofthepastantiques.com](http://www.shadesofthepastantiques.com/sh
 address: 2360 Wilton Drive, Fort Lauderdale/Wilton Manors, Florida 33305
 
 email: readyfla@aol.com
-
-[back to Shopping](..)

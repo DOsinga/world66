@@ -16,5 +16,3 @@ Comprehensive, literate and witty.
 author: Annalisa Rellie
 
 isbn: 1 84162 064 5
-
-[back to Books](..)

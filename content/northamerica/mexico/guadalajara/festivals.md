@@ -61,5 +61,3 @@ New Year's Eve - Head to the plazas for music, fireworks and general entertainme
 
 **Contributors**
 March 04, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

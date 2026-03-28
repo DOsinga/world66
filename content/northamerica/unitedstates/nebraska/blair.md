@@ -1,0 +1,4 @@
+---
+title: "Blair"
+type: location
+---

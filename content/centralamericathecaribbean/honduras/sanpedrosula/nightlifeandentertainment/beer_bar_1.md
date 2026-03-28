@@ -3,16 +3,12 @@ title: "Beer Bar"
 type: location
 address: "City Mall Avenida Circunvalacion"
 type: "Pubs"
-latitude: 15.49664
-longitude: -88.036076
 ---
 
 Located on the upper level of the newly opened City Mall, next to the Hilton San Pedro. They offer local and international beer, mainly from Central American and European countries.
 
 **Contributors**
 April 08, 2006
-new
-by [miguel flores](/member/miguel_flores) (1 point)
 
 type: Pubs
 
@@ -21,8 +17,6 @@ type: Pubs
 
 
 address: City Mall Avenida Circunvalacion
-
-[back to Nightlife and Entertainment](..)
 
 ##
 
@@ -36,17 +30,10 @@ address: City Mall Avenida Circunvalacion
 
 [](/lib/map/handle?loc=centralamericathecaribbean|honduras|sanpedrosula)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

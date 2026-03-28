@@ -1,0 +1,4 @@
+---
+title: "Laguna"
+type: location
+---

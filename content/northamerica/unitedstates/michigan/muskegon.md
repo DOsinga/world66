@@ -1,9 +1,9 @@
 ---
-title: "Muskegon Travel Guide"
+title: "Muskegon"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Muskegon is a wonderful waterfront town on the western shore of Michigan. The Muskegon River travels from far north toward the middle of the lower peninsula of Michigan and delivers its rush into Muskegon Lake. Muskegon Lake then offers is lush clear waters to feed Lake Michigan through a large modern Channel. The Muskegon River is listed as one of the best fishing rivers in the nation.
 
@@ -24,9 +24,3 @@ Additionally Muskegon now boasts the Muskegon Thunder Football team (CIFL), and 
 Muskegon is also lucky to have the beautifully restored, historic Frauenthal theater. Built in 1929, it is a fully restored historic motion picture palace. The architectural styling of the theater is Moorish/Spanish renaissance. Gleams with extraordinary gold accents, cherubs and griffins. The ceiling and walls adorned with beautiful ornamental light fixtures, the carpet and opera chairs covered with rich velour, and the stage enclosed with red draperies. Ornate carvings, arches and intricate plasterwork abound. The ceiling is surrounded by plaster shells and comes to a large acoustic dome, or oculus, in the center. Suspended from the roof hanging by steel wires, the ceiling is not unlike the suspended acoustical ceilings with which we are all familiar. Aside from a multitude of special concerts and ballet from out of town, it is also the home of the Miss Michigan pageant each year, and the Westshore symphony orchestra.
 
 muskegon-mi.gov
-
-*Part or or all of this text stems from the original article at: My personal knowledge.*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 19:21

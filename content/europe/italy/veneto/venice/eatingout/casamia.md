@@ -14,5 +14,3 @@ type: Local
 
 
 address: Calle dell'Oca, Castello
-
-[back to Eating Out](..)

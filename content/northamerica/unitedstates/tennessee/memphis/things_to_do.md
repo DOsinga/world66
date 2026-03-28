@@ -12,5 +12,3 @@ Tunica is great for RV travelers and casino enthusiasts of all ages and tastes. 
 
 **Contributors**
 October 01, 2007
-new
-by [casinobug](/member/casinobug)

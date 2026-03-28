@@ -18,5 +18,3 @@ author: Chris McIntyre
 isbn: 0762700165
 
 subject: travel
-
-[back to Books](..)

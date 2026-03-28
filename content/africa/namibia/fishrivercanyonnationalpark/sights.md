@@ -7,5 +7,3 @@ Hiking the Fish river canyon is a absolute must for avid hikers. It presents uni
 
 **Contributors**
 July 03, 2006
-change
-by [giorgio](/member/giorgio)

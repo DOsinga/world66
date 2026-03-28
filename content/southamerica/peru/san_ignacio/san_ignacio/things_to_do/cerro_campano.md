@@ -14,13 +14,5 @@ If you've got a tent or little fear for cold nights, you can camp here for free.
 
 **Contributors**
 May 09, 2006
-new
-by [joosts](/member/joosts) (5 points)
 
 type: Trekking
-
-
-
-
-
-[back to Things to do](..)

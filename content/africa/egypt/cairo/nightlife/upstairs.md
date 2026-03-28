@@ -15,5 +15,3 @@ type: Clubs
 address: World Trade Center, Corniche al-Nil, Boulaq
 
 tel: 02 578 3334
-
-[back to Nightlife and Entertainment](..)

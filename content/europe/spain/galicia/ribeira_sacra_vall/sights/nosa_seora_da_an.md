@@ -20,9 +20,6 @@ and 'San Francisco' and five pictures by Andrea do Sarto, two pictures
 of the Compostelan school and six showcases with personal objects,
 books and incunabula that belonged to the cardinal Rodrigo de Castro.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections on 11 March 05
 
 type: Public Buildings

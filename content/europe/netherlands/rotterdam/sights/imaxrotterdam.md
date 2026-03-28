@@ -8,5 +8,3 @@ In the IMAX theatre you can experience movies like you never did before. Surroun
 address: Leuvehaven 77
 
 tel: ++31 (0)900 - 2354629
-
--->

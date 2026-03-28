@@ -21,8 +21,6 @@ Open for lunch only - they close around 6 pm or so. Live music on Sundays.
 
 **Contributors**
 May 21, 2006
-new
-by [elmaloso](/member/elmaloso) (1 point)
 
 type: Mexican
 
@@ -37,5 +35,3 @@ url: [www.reypakal.com](http://www.reypakal.com/reypakal.html)
 address: Km 2 Merida-Motul highway
 
 PriceOfMenu: pricy for local standards
-
-[back to Eating Out](..)

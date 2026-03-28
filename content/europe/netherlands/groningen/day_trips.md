@@ -11,8 +11,4 @@ The village of Warffum is 20 minutes for Groningen. A &ldquo;mound village&rdquo
 
 **Uithuizen**
 
-Uithulizen is another mound village near Groningen and is famous for one particular architectural gem. The village&rsquo;s church dates back to the 13th century and its organ was added in the 17th century. Students and tourist coming to the village will get chance to see the Medieval architecture at its best. The is village is connected to Groningen by train.
-
-**Delfziji**
-
-The port city of Delfziji makes another worthwhile day trip. This port city is located on the river Ems. On a clear day a tourist can see Germany across the bay. The city is known for the colorful harbor and the vibrancy of the city. This city is also accessible by train from Groningen.
+Uithulizen is another mound village near Groningen and is famous for one particular architectural gem. The village&rsquo;s church dates

@@ -4,7 +4,7 @@ type: section
 ---
 
 [
-](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **1. Canoeing down the river on a tyre and
 waterfall jumping** The current

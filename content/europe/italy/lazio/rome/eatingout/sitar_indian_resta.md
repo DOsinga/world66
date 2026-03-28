@@ -6,8 +6,6 @@ email: "sitar_risto@yahoo.it"
 phone: "06 - 4884004"
 type: "Indian and Pakistani"
 url: "www.geocities.com"
-latitude: 41.894306
-longitude: 12.492335
 ---
 
 Indian food reflects influences that have shaped its particular style of cooking. The Mughals, brought with them exotic spices and dried fruits and nuts, which they combined with meat, vegetables, milk and cream to create rich Mughlai dishes. These are amongst the finest in Indian regional cuisine.
@@ -22,8 +20,6 @@ Take away and catering services available.
 
 **Contributors**
 January 18, 2006
-change
-by [michael chapman](/member/michael_chapman)
 
 type: Indian and Pakistani
 
@@ -38,5 +34,3 @@ url: [www.geocities.com](http://www.geocities.com/sitar_risto/)
 address: VIA CAVOUR 256A,ROMA
 
 email: sitar_risto@yahoo.it
-
-[back to Eating Out](..)

@@ -13,5 +13,3 @@ type: section
 
 [Local](/northamerica/unitedstates/georgia/atlanta/eatingout?subsection=Local)
 [American](/northamerica/unitedstates/georgia/atlanta/eatingout?subsection=American)
-
--->

@@ -12,7 +12,5 @@ The Shoals Antique Dealers Association offers a web site with information on all
 
 **Contributors**
 December 28, 2005
-change
-by [ifiranthezoo](/member/ifiranthezoo)
 
 type: Antiques

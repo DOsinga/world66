@@ -6,16 +6,12 @@ email: "none"
 phone: "none"
 type: "Trekking"
 url: "none"
-latitude: 43.647892
-longitude: -79.384206
 ---
 
 Here are a few things you can do in Embrun.
 
 **Contributors**
 August 01, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [New York Central Recreational Trail](/northamerica/canada/ontario/embrun/things_to_do/new_york_central_r_1)
 

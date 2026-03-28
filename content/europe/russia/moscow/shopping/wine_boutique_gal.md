@@ -12,5 +12,3 @@ type: Speciality shops
 
 
 address: Kutuzovsky pr-t, 1
-
-[back to Shopping](..)

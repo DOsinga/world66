@@ -1,0 +1,4 @@
+---
+title: "Wolverhampton"
+type: location
+---

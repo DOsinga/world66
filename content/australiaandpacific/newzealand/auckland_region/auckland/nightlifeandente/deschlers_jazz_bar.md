@@ -1,12 +1,10 @@
 ---
 title: "Deschlers Jazz Bar"
-type: location
+type: poi
 address: "17 High Street"
 phone: "+64 9 379 6811"
 type: "Jazz"
 url: "www.deschlers.co.nz"
-latitude: 51.751121
-longitude: -0.340818
 ---
 
 There is often live music between 9pm and 23.30pm.
@@ -24,5 +22,3 @@ tel: +64 9 379 6811
 url: [www.deschlers.co.nz](http://www.deschlers.co.nz/)
 
 address: 17 High Street
-
-[back to Nightlife and Entertainment](..)

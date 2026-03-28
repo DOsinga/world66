@@ -9,5 +9,3 @@ The nearest metro station to get to all these locations in Kallio is Sörnäinen
 
 **Contributors**
 December 19, 2005
-change
-by [wolfgang körbitz](/member/wolfgang_körbitz)

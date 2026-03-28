@@ -22,8 +22,6 @@ Ultimately, The Grove is much more than a unique shopping experience; it's a one
 
 **Contributors**
 March 12, 2007
-new
-by [dchung](/member/dchung) (4 points)
 
 type: Hotspots
 
@@ -38,5 +36,3 @@ openingHours: Mon–Thurs 10am–9pm, Fri–Sat 10am–10pm, Sun 11am–8pm
 url: [www.thegrovela.com](http://www.thegrovela.com)
 
 address: 189 The Grove Drive Los Angeles
-
-[back to Sights](..)

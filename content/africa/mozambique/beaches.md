@@ -14,9 +14,5 @@ February is known in Mozambique to be the hurricane month. Though diving can sti
 
 **Contributors**
 July 04, 2006
-new
-by [josef66](/member/josef66)
 
 August 01, 2006
-change
-by [giorgio](/member/giorgio)

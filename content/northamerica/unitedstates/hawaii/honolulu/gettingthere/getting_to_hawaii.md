@@ -16,6 +16,3 @@ Package deals may look cheap, but that is only because they are cheap. Expect te
 3. Go through a travel agent
 
 Some specialize in trips to Hawaii, many visit annually. Though a little more expensive than booking a trip yourself, this is one of the better ways to go if you are a first-timer
-
-*Change history*
-Orginal article by [valfare](/member/valfare) on 04 November 04

@@ -17,5 +17,3 @@ type: Lunch
 address: Broadway at 37th Street
 
 PriceOfMenu: $3-10
-
-[back to Eating Out](..)

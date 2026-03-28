@@ -1,0 +1,4 @@
+---
+title: "Hubli"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Salgotarjan"
+type: location
+---

@@ -40,5 +40,3 @@ price: 1/2 hr $2.50 1hr $4 3hrs $10 6 hrs $20 plus FREE weekly DVD Hire
 email: balaclavamovies@ozemail.com.au
 
 hours: 10am to 10pm Sun to Thurs 10am to 11pm Fri and Sat
-
-[back to Internet Cafes](..)

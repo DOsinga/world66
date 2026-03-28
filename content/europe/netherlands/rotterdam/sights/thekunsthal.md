@@ -10,5 +10,3 @@ The Kunsthal Rotterdam is a notably exposition-building where annually about 25 
 address: Westzeedijk 341,
 
 zipcode: 3015 AA
-
--->

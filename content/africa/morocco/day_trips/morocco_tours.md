@@ -22,5 +22,3 @@ url: [www.andotravel.com](http://www.andotravel.com)
 address: 26, Avenue Allal Elfassi, No 9
 
 email: contact@andotravel.com
-
-[back to Day Trips](..)

@@ -1,9 +1,9 @@
 ---
-title: "Rexburg Travel Guide"
+title: "Rexburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Rexburg was severely damaged by the Teton Dam Flood of June 1976. The Teton River
 flows through northern Rexburg, and left most of the city underwater for
@@ -20,13 +20,3 @@ College, in honor of Mormon pioneer and city founder, Thomas Edwin Ricks. At
 one time, Ricks College was the largest private junior college in the United
 States; it became a four-year college in 2001. The city takes its name from
 Ricks, the German form of which is "Rex".
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Rexburg,_Idaho*
-
-#### Contributors
-
-November 03, 2009 change by [openbook](/member/openbook)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 09:05

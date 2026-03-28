@@ -7,5 +7,3 @@ type: section
 
 **Contributors**
 May 03, 2006
-new
-by [mrtasku](/member/mrtasku) (1 point)

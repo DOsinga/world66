@@ -9,5 +9,3 @@ If needing to fly, the closest two commercial airports are ROCHESTER (ROC) and B
 
 **Contributors**
 February 09, 2006
-new
-by [allamericanbear](/member/allamericanbear)

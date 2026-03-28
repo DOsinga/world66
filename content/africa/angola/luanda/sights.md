@@ -27,13 +27,7 @@ Many beaches such as Ilha, Santiago, Palmeirinhas and Massula, etc. are located 
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 12, 2010
-change
-by [ashmita](/member/ashmita_)
 
 February 19, 2010
-change
-by [schitti](/member/schitti)

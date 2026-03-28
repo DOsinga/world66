@@ -1,0 +1,4 @@
+---
+title: "Imilchil"
+type: location
+---

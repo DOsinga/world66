@@ -10,5 +10,3 @@ type: Bars
 
 
 address: c. Del Norte, 9, Puerto de Ibiza
-
-[back to Nightlife and Entertainment](..)

@@ -24,5 +24,3 @@ Whatever your craving may be, there are numerous restaurants in Niagara Falls to
 
 **Contributors**
 December 22, 2009
-new
-by [subeat](/member/subeat)

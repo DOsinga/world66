@@ -43,22 +43,4 @@ rampant throughout the island, so take the necessary precautions before embarkin
 **Cook Islands Christian Church**
 
 Displaying an overwhelming
-depth of charm and beauty, the church dates back to 1855.
-This whitewashed edifice serves as the burial site for Albert Henry,
-the former prime minister of the Cook Islands. The church also
-houses the final resting place of American author Robert Dean Frisbie,
-whose work focused primarily on the South Pacific region.
-
-**Punanga Nui Market**
-
-Open Monday through Friday, from 8 a.m.
-to 5 p.m., this delightful market plays host to a series of local
-vendors. Whether they’re selling clothes, souvenirs, crafts or food,
-you’re sure to find something of great value and interest. Perched
-along the waterfront, the Punanga Nui Market also offers spectacular
-views of Rarotonga’s surrounding region. It’s an ideal
-spot to spend a relaxing day both shopping and eating.
-
-### [Paradise Sailing](/australiaandpacific/cookislands/rarotonga/top_5_must_dos/paradise_sailing)
-
-Sailing twice a day from the Mariner. On board a trimaran that easily fits 12 adults. Snacks and drinks, both alcholic and non alcholic are part of the cost. All snorkelling gear is provided. Shower and toilet are on board. Real value for money . The skipper is a charming Swiss man who attends to your every need.
+depth of charm and beauty, the church dates Sailing twice a day from the Mariner. On board a trimaran that easily fits 12 adults. Snacks and drinks, both alcholic and non alcholic are part of the cost. All snorkelling gear is provided. Shower and toilet are on board. Real value for money . The skipper is a charming Swiss man who attends to your every need.

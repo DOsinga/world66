@@ -8,8 +8,6 @@ opening_hours: "09:00am to 07:00pm"
 phone: "0039081997783"
 type: "Hotspots"
 url: "www.ravino.it"
-latitude: 40.734218
-longitude: 13.865995
 ---
 
 **Ischia sights** are a combination of some of the most breathtaking and historical sights. This island has definite historical and geological appeal. Apart from being home to some really therapeutic mineral springs, it has some places which absolutely need to be visited.

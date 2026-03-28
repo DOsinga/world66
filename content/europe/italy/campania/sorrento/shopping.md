@@ -14,5 +14,3 @@ address: Via Tasso 25
 url: [www.gracegallery.it](http://www.gracegallery.it)
 
 email: info@gracegallery.it
-
--->

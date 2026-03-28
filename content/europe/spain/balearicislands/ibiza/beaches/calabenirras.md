@@ -10,13 +10,5 @@ It can get very busy in the high season on the main beach though, the parties at
 
 **Contributors**
 February 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: general
-
-
-
-
-
-[back to Beaches](..)

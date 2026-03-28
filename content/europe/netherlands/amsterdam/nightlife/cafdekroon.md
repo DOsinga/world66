@@ -3,8 +3,6 @@ title: "Café De Kroon"
 type: poi
 address: "Rembrandtplein 171"
 phone: "+31-20-6252011"
-latitude: 52.246597
-longitude: 4.557659
 ---
 
 This café was originally opened in 1898 (the year Queen Wilhelmina ascended the Dutch throne, hence the name 'The Crown'). Back in the 1930s, Café De Kroon was the location of a group of artists weekly meetings on Monday mornings. 

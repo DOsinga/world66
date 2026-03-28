@@ -1,8 +1,6 @@
 ---
 title: "Setenil"
 type: location
-latitude: 36.862184
-longitude: -5.1787
 ---
 
 If you have ever visited the rock formations and caves in Cappadochia in Turkey, you will appreciate this wonderfully unique white town. Its streets are steep and formed from the overhanging rocks. Many of the modern houses occupy natural caves, which may have been the refuge of pre-historic people. The two-story houses have natural rock for roofs and one or two walls. 

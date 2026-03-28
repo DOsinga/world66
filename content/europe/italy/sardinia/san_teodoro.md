@@ -1,7 +1,9 @@
 ---
-title: "San Teodoro Travel Guide"
+title: "San Teodoro"
 type: location
 ---
+
+Travel Guide
 
 With 36 Kilometers coast, San Teodoro is one of the most famous places of Sardinia most of all for its wonderful beaches, in no way inferior to the most celebrated beach
 
@@ -9,5 +11,3 @@ In summer (and particularly in August) beaches are crowded but in spite of every
 
 **Contributors**
 July 04, 2007
-change
-by [lpx](/member/lpx)

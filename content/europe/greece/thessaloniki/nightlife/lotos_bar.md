@@ -6,8 +6,6 @@ address: "Romanou 4"
 closing_time: "when everyone leaves"
 phone: "2310 287 788"
 type: "Pubs"
-latitude: 40.574777
-longitude: 22.963398
 ---
 
 Lotos Bar first opened its door 20yrs ago and has been a main haunt for students and the rest of us from that day forth..
@@ -23,7 +21,5 @@ Doors open at 9;30pm, they are not open during the day, as they close so late in
 
 **Contributors**
 August 27, 2006
-new
-by [annef](/member/annef)
 
 type: Pubs

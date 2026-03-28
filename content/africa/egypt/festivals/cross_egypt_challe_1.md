@@ -27,5 +27,3 @@ url: [www.crossegyptchallenge.com](http://www.crossegyptchallenge.com )
 date: October/November
 
 email: info@crossegyptchallenge.com
-
-[back to Festivals](..)

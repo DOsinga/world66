@@ -24,5 +24,3 @@ hours: 2
 address: joseacv@apu.cbc.org.pe
 
 url: [www.cbc.org.pe](http://www.cbc.org.pe)
-
-[back to Internet Cafes](..)

@@ -2,8 +2,6 @@
 title: "Prainha"
 type: poi
 url: "www.riodejaneirophotoguide.com"
-latitude: -23.041176
-longitude: -43.505805
 ---
 
 The surfer's paradise of Rio de Janeiro. It is located between Grumari Beach and the Pontal/ Macumba of Recreiro dos Bandeirantes District. You can only reach it like Grumari by car - no public transport. On sunny weekends you have nearly no chance of getting a parking lot and beside this entrance for cars to the beaches is restricted and controlled by guards.
@@ -13,5 +11,3 @@ The surfer's paradise of Rio de Janeiro. It is located between Grumari Beach and
 
 
 url: [www.riodejaneirophotoguide.com](http://www.riodejaneirophotoguide.com)
-
-[back to Beaches](..)

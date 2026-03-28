@@ -23,5 +23,3 @@ type: Casinos
 address: Nevskiy pr. 35 (Gostiniy dvor metro)
 
 openings: daily 9:00-23:00
-
-[back to Nightlife and Entertainment](..)

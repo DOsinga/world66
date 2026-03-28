@@ -1,9 +1,9 @@
 ---
-title: "WEDJAT Tours private trips in EGYPT Travel Guide"
+title: "WEDJAT Tours private trips in EGYPT"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Normal
 0
@@ -18,7 +18,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Dear Sir / Madam
 
@@ -59,7 +59,3 @@ Mobile: 0020195557009
 Our USA Direct Phone Number: +17132871045
 
 Email: sharm@wedjatours.com, Web: www.wedjatours.com
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 13:41

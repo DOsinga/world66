@@ -27,5 +27,3 @@ One of the best things about Armacao de Pera is that the weather is mostly pleas
 
 **Contributors**
 February 09, 2010
-change
-by [shomer](/member/shomer)

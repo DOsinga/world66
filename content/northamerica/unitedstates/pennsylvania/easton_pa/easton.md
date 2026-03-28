@@ -1,12 +1,8 @@
 ---
-title: "Easton Travel Guide"
+title: "Easton"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Easton
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 13:12

@@ -88,5 +88,3 @@ tel: +20 107944582
 address: 37 Pyramids street, Giza, Egypt.
 
 email: info@EgyptianDailytours.com
-
-[back to Things to do](..)

@@ -25,5 +25,3 @@ url: [www.kanpurflorist.com](http://www.kanpurflorist.com)
 address: c-1,804,eldeco garden estate afeem kothi kanpur
 
 email: rajesh_wahi2000@yahoo.com
-
-[back to Shopping](..)

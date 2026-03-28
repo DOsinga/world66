@@ -11,13 +11,5 @@ Prague.
 
 **Contributors**
 January 20, 2006
-new
-by [hpharmsen](/member/hpharmsen)
 
 type: Squares
-
-
-
-
-
-[back to Sights](..)

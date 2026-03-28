@@ -21,8 +21,4 @@ The Markt is the old heart of Tubingen. The houses around it are excellent. The 
 
 **Schloss**
 
-On the place of a medieval castle dating back to the 11-th century, now stand the Renaissance Schloss Hohentubingen. It contains a museum (Schausammlung der Universitat) you can visit for 4 DM and there are guided tours.** gabriella volpi:** 
-
-**Burgsteige**
-
-The Burgsteige is a small street leading from the Markt to the Schloss Hohentubingen. Very handsome, with many nice renaissance houses and mansions.
+On the place of a medieval castle dating

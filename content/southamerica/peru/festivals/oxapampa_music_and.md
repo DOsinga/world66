@@ -21,5 +21,3 @@ Ministry for the Environment
 
 
 email: festival.oxapampa2009@gmail.com
-
-[back to Festivals](..)

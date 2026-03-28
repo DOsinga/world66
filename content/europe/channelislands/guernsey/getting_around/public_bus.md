@@ -9,11 +9,3 @@ trip takes about 1.5 hours. You can find time tables at the bus stops.
 
 **Contributors**
 October 10, 2005
-new
-by [hpharmsen](/member/hpharmsen)
-
-
-
-
-
-[back to Getting Around](..)

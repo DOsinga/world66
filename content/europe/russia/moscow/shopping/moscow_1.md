@@ -15,7 +15,5 @@ Open: mon-saturday 10:00 - 20:00, sunday 10:00 - 18:00.
 
 **Contributors**
 May 05, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Shopping centers and malls

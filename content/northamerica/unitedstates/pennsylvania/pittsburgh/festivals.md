@@ -5,9 +5,6 @@ type: section
 
 Pittsburgh's festivals often make good use of the three rivers. In a large, diverse city, anything is a cause for celebration.
 
-*Change history*
-Orginal article by [McCart42](/member/mccart42) on 05 May 04
-
 **all**
 
 **Pittsburgh Irish Festival**

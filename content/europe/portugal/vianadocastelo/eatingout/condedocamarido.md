@@ -18,5 +18,3 @@ address: Estalagem Melo Alvim, Av. Conde da Carreira, 28
 tel: 258 810 8200
 
 openings: Lunch, from 12,30 AM to 03,00 PM, Dinner, from 07,30 PM to 11,00 PM
-
-[back to Eating Out](..)

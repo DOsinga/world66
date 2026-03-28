@@ -3,7 +3,15 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
+**general**
+
+**Marco Polo**
+
+Just off Republic Square, right in the heart of Yerevan this is a trendy place. Excellent salads, a great option for vegetarians. Service is good and the staff speaks English.
+
+address: Abovian str. 1/3
+
+tel: 54 5352
 
 **Krakow**
 
@@ -45,15 +53,7 @@ address: 8 Amirian St.
 
 tel: 58-93-63
 
-**Marco Polo**
-
-Just off Republic Square, right in the heart of Yerevan this is a trendy place. Excellent salads, a great option for vegetarians. Service is good and the staff speaks English.
-
-address: Abovian str. 1/3
-
-tel: 54 5352
-
-**Tufenkian**[[More Info]](http://www.tufenkiam.am)
+**Tufenkian**
 
 Top notch restaurant just off Amarotsian street. All in classical Armenian style.
 
@@ -61,10 +61,14 @@ email: tufhosp@arminco.com
 
 address: Nork-Marash 13-th, no. 16
 
-**City**[[More Info]](http://www.city-restaurant.am)
+bookingurl: [www.tufenkiam.am](http://www.tufenkiam.am)
+
+**City**
 
 Right in the center, modern and hip.
 
 address: 34, Mashtots Ave.
 
 tel: 535 001
+
+bookingurl: [www.city-restaurant.am](http://www.city-restaurant.am)

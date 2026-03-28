@@ -9,8 +9,6 @@ Traditional Itallian festival organized by the local church "Paroquia de Nossa S
 
 **Contributors**
 June 12, 2006
-change
-by [roberto alamino](/member/roberto_alamino) (2 points)
 
 
 
@@ -19,5 +17,3 @@ by [roberto alamino](/member/roberto_alamino) (2 points)
 url: [www.achiropita.org.br](http://www.achiropita.org.br/)
 
 address: Rua Treze de Maio, Rua Sao Vicente
-
-[back to Festivals](..)

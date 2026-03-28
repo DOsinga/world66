@@ -42,5 +42,3 @@ url: [www.IGoBuenosAires.com](http://www.IGoBuenosAires.com)
 address: Chile 378
 
 email: Info@IGoBuenosAires.com
-
-[back to Nightlife and Entertainment](..)

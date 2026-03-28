@@ -1,6 +1,6 @@
 ---
 title: "Caesars Palace"
-type: location
+type: poi
 type: "Casinos"
 ---
 

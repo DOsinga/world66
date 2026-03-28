@@ -1,0 +1,4 @@
+---
+title: "Cholet"
+type: location
+---

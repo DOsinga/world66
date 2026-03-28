@@ -41,5 +41,3 @@ Please contact us for further information.
 
 **Contributors**
 August 12, 2006
-new
-by [ruukel](/member/ruukel) (2 points)

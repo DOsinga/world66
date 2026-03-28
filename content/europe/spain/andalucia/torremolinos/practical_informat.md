@@ -39,5 +39,3 @@ Enjoy your holiday here and do not be overly concerned about the warnings above.
 
 **Contributors**
 December 02, 2009
-new
-by [nicola76](/member/nicola76)

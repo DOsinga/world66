@@ -9,8 +9,6 @@ Beware of the numerous electronic / photo shops there, the prices are sky high. 
 
 **Contributors**
 February 28, 2006
-new
-by [xaviermarchant](/member/xaviermarchant)
 
 type: Speciality shops
 
@@ -19,5 +17,3 @@ type: Speciality shops
 
 
 address: times square
-
-[back to Shopping](..)

@@ -7,5 +7,3 @@ Tuscaloosa is the world capital of barbecue. Although Dreamland gets all the hyp
 
 **Contributors**
 March 16, 2005
-new
-by [shqippy](/member/shqippy) (1 point)

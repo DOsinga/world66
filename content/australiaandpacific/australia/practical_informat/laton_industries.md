@@ -14,5 +14,3 @@ type: Tourist information
 
 
 url: [www.laton.com.au](http://www.laton.com.au/)
-
-[back to Practical Information](..)

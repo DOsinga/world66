@@ -9,7 +9,5 @@ Metro stop San Juan de Letran on Linea 8 (Green line), it's basically a street f
 
 **Contributors**
 December 03, 2004
-new
-by [answerer](/member/answerer)
 
 type: general

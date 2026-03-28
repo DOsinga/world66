@@ -10,8 +10,6 @@ In the Mol area Belgiums largest inland beaches located.
 
 **Contributors**
 July 08, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [Zilverstrand](/europe/belgium/mol/beaches/zilverstrand)
 

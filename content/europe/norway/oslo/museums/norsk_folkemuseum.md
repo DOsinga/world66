@@ -30,5 +30,3 @@ openings: 10-18 summer, 11-15 winter
 tel: (+47) 22 12 37 00
 
 zipcode: www.norskfolkemuseum.no
-
-[back to Museums](..)

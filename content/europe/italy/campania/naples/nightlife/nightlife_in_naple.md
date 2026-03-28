@@ -14,5 +14,3 @@ type: Wine bars
 
 
 address: San Pasquale - Area Chiaia
-
-[back to Nightlife and Entertainment](..)

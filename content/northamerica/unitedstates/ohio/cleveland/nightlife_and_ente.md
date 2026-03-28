@@ -27,8 +27,6 @@ Cleveland has several districts that are perfect for dinner and a movie. Tower C
 
 **Contributors**
 March 14, 2006
-new
-by [vulpster03](/member/vulpster03) (7 points)
 
 ### [House of Blues](/northamerica/unitedstates/ohio/cleveland/nightlife_and_ente/house_of_blues)
 

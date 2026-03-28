@@ -50,5 +50,3 @@ tel: (520) 378-1066
 priceofmenu: http://www.deliosrestaurant.com/menu.html
 
 zipcode: www.deliosrestaurant.com
-
--->

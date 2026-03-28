@@ -25,5 +25,3 @@ tel: 707-778-8543
 url: [www.infusionslounge.com](http://www.infusionslounge.com)
 
 address: 146-148 Kentucky St.
-
-[back to Nightlife and Entertainment](..)

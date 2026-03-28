@@ -1,9 +1,9 @@
 ---
-title: "Gyumri Travel Guide"
+title: "Gyumri"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Gyumri-Alexandrapol has been famous not only for its craftsmen, men of arts and cultural values but also for its churches.
 
@@ -103,13 +103,3 @@ believers.
 Now, when the spiritual life awakens in Gyumri after
 70 year-old sleep, the role and the significance of the church is
 extremely great in remaining steady in belief.
-
-*Part or or all of this text stems from the original article at: moved over from wrong location - http://www.world66.com/europe/armenia/gyumri*
-
-#### Contributors
-
-December 08, 2008 change by [raffikojian](/member/raffikojian)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 07:02

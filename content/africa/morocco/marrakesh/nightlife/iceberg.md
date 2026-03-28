@@ -14,5 +14,3 @@ type: Bars & Pubs
 
 
 address: Avenue el Mouahadine
-
-[back to Nightlife and Entertainment](..)

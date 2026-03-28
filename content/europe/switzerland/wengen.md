@@ -1,0 +1,4 @@
+---
+title: "Wengen"
+type: location
+---

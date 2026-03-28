@@ -1,8 +1,6 @@
 ---
 title: "Arkhangelskoye"
 type: poi
-latitude: 55.788584
-longitude: 37.285934
 ---
 
 Arkhangelskoye (*Архангельское*) is one of the great estates that were built by Russian aristocracy in the 17-th - 18-th centuries.
@@ -28,11 +26,3 @@ Arkhangelskoye is easily accessible by bus from Tushinskaya (*Тушинская
 
 **Contributors**
 July 29, 2006
-new
-by [svetico](/member/svetico) (4 points)
-
-
-
-
-
-[back to Day Trips](..)

@@ -1,11 +1,7 @@
 ---
 title: "Suite Bonne Egrette"
-type: location
+type: poi
 type: "Chinese"
 ---
 
 type: Chinese
-
-
-
-[back to Eating Out](..)

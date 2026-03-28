@@ -64,5 +64,3 @@ smoke-free and provides a fresh dining atmosphere.
 
 **Contributors**
 February 23, 2010
-new
-by [kwalker](/member/kwalker)

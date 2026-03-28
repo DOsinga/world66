@@ -13,6 +13,3 @@ Surrounded by 18 mountains
 Liana bridges
 Masks
 La Cascade - a waterfall
-
-*Change history*
-Orginal article by [Directrice GSM](/member/directrice_gsm) on 24 February 05

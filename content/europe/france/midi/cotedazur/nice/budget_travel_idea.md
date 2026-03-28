@@ -27,5 +27,3 @@ Going to the local cafes for breakfast is a great way to save money, much cheape
 
 **Contributors**
 March 03, 2010
-change
-by [shomer](/member/shomer)

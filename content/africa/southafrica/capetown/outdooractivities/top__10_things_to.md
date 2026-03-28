@@ -97,8 +97,6 @@ http://www.bookcapetown.com
 
 **Contributors**
 June 30, 2008
-change
-by [stepho](/member/stepho)
 
 type: Other
 
@@ -111,5 +109,3 @@ url: [www.bookcapetown.com](http://www.bookcapetown.com)
 address: Cape town, South Africa, Gardens
 
 email:
-
-[back to Things to do](..)

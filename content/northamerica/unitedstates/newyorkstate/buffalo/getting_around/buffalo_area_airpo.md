@@ -64,11 +64,7 @@ Nonstop service to Boston (4), Charlotte (4), Hartford (3), NY-LGA (7), Philadel
 
 **Contributors**
 November 11, 2005
-change
-by [allamericanbear](/member/allamericanbear)
 
 
 
 url: [www.buffaloairport.com](http://www.buffaloairport.com)
-
-[back to Getting Around](..)

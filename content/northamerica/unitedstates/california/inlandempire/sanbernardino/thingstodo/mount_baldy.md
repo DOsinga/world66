@@ -23,5 +23,3 @@ type: Skiing
 tel: 909 981-3344
 
 url: [www.mtbaldy.com](http://www.mtbaldy.com)
-
-[back to Things to do](..)

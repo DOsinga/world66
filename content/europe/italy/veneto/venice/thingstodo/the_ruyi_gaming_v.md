@@ -21,5 +21,3 @@ tel: +39.0422.789623
 url: [www.h-play.it](http://www.h-play.it)
 
 email:
-
-[back to Things to do](..)

@@ -9,9 +9,3 @@ A great shop with excellent value leather goods and a great range of designer co
 Staff are friendly without the hassle.
 
 type: Speciality shops
-
-
-
-
-
-[back to Shopping](..)

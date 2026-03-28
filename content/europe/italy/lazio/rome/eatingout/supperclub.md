@@ -32,5 +32,3 @@ address: Via de'Nari, 14 (Pantheon)
 PriceOfMenu: € 65,- for a 5 course menu excluding drinks
 
 email: info@supperclub.com
-
-[back to Eating Out](..)

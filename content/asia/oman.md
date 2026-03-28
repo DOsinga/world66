@@ -1,0 +1,4 @@
+---
+title: "Oman"
+type: location
+---

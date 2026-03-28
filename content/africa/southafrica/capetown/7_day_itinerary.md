@@ -67,5 +67,3 @@ locals spend their weekends. Visit Cape Town to enjoy all these spectacular plac
 
 **Contributors**
 March 19, 2010
-change
-by [ctanios](/member/ctanios)

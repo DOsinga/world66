@@ -18,5 +18,3 @@ type: Pubs
 
 
 ClosingTime: 03.00 p.m.
-
-[back to Nightlife and Entertainment](..)

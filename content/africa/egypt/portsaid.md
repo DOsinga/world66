@@ -1,8 +1,6 @@
 ---
 title: "Port said"
 type: location
-latitude: 31.263235
-longitude: 32.305505
 ---
 
 Port Said, locally known as Bur Said, is located on the Mediterranean coast at the beginning of the Suez Canal. The city was founded in 1859 when the Suez Canal was inaugurated. A modern city, 135 miles northeast of Cairo at the Mediterranean entrance to the Suez canal. Port Said has a lovely view which runs along its attractive beach.

@@ -34,5 +34,3 @@ Mediterranean.
 
 **Contributors**
 December 27, 2009
-new
-by [cjr236](/member/cjr236)

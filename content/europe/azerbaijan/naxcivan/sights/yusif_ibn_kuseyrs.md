@@ -8,13 +8,5 @@ Yusif Ibn Kuseyr's Tomb – one of the most ancient monuments in Nakhchivan. Peo
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Graves and Cemeteries
-
-
-
-
-
-[back to Sights](..)

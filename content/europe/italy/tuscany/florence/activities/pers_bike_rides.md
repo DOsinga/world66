@@ -7,8 +7,6 @@ email: "info@persbikerides.com"
 phone: "(39) 334 7140267"
 type: "Cycling"
 url: "www.persbikerides.com"
-latitude: 43.765104
-longitude: 11.25822
 ---
 
 Per's Bike Rides is a new company in Florence and offers tourists a chance to get out of the city's hustle and bustle. Their two main tours are** 1) The Grand Tuscan Villa and Wine tour that run Monday-Saturday, and 2) The Lazy Sunday Downhill tour that run on Sundays.** They also give 3-day tours around Tuscany and private tours that are tailored for the customer. All tours include bikes, guide, visit to wineries and meals. Call or e-mail to book.
@@ -34,5 +32,3 @@ url: [www.persbikerides.com](http://www.persbikerides.com)
 address: Piazza dei Mozzi
 
 email: info@persbikerides.com
-
-[back to Things to do](..)

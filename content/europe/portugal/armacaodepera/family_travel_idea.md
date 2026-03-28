@@ -54,9 +54,5 @@ place to check out.
 
 **Contributors**
 January 28, 2010
-new
-by [kat99](/member/kat99)
 
 January 29, 2010
-change
-by [2 many commas](/member/2_many_commas)

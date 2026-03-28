@@ -29,8 +29,6 @@ Mobile: **051 56 956 710622/956814891**
 
 **Contributors**
 December 28, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### [Visit the Pyramid of Cahuachi](/southamerica/peru/nazca/things_to_do/visit_the_pyramid)
 

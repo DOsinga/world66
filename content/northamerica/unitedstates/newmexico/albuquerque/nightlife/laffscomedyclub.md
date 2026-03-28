@@ -18,5 +18,3 @@ address: 3100 Juan Tabo Blvd NE # D,
 tel: (505)296-5653
 
 zipcode: Albuquerque, NM
-
-[back to Nightlife and Entertainment](..)

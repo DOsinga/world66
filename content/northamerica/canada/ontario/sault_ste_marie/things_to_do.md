@@ -7,5 +7,3 @@ Sault Ste Marie has a skatepark located off of Trunk Road at the John Rhodes Com
 
 **Contributors**
 April 15, 2006
-new
-by [searchmont_rocks](/member/searchmont_rocks)

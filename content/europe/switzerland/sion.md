@@ -1,0 +1,4 @@
+---
+title: "Sion"
+type: location
+---

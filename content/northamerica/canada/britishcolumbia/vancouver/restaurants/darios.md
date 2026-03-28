@@ -1,6 +1,6 @@
 ---
 title: "Dario's"
-type: location
+type: poi
 type: "general"
 ---
 

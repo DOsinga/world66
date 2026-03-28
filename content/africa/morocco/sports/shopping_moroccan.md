@@ -12,13 +12,5 @@ Once a year the "Caftan", a fashion show in Marrakech, presents the latest Haute
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 type: Other
-
-
-
-
-
-[back to Things to do](..)

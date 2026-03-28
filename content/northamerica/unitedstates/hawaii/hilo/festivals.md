@@ -9,8 +9,6 @@ Hilo hosts the Merrie Monarch Festival hula competion every spring.
 
 **Contributors**
 June 26, 2005
-new
-by [stargirlssc](/member/stargirlssc) (1 point)
 
 ### [Merrie Monarch](/northamerica/unitedstates/hawaii/hilo/festivals/merrie_monarch)
 

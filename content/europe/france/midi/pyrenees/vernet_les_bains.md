@@ -15,9 +15,4 @@ There are several hotels - some closed until guess when!
 
 *This is mightily irksome at the end of May when the trees are in full leaf and the sun is beaming down! 
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 30 September 04
-
-Minor corrections by [davidx](/member/davidx) on 30 September 04
-
--->
+Minor corrections on 30 September 04

@@ -18,5 +18,3 @@ author: Rob Mundle
 isbn: 0071356983
 
 subject: Sailing
-
-[back to Books](..)

@@ -1,0 +1,4 @@
+---
+title: "Bowmanville"
+type: location
+---

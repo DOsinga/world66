@@ -9,8 +9,6 @@ Manaus is a great city to go shopping because of the Manaus Free Trade Zone. Pro
 
 **Contributors**
 May 07, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### [Amazonas Shopping Center](/southamerica/brazil/manaus/shopping/amazonas_shopping)
 

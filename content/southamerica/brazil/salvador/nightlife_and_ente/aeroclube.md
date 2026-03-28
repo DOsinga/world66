@@ -24,5 +24,3 @@ tel: (71) 3462-8000
 url: [www.aeroclubeplazashow.com.br](http://www.aeroclubeplazashow.com.br/)
 
 address: Av. Otávio Mangabeira, 6000
-
-[back to Nightlife and Entertainment](..)

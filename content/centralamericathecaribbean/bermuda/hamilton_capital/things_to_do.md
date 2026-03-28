@@ -51,5 +51,3 @@ riding establishments in the area.
 
 **Contributors**
 February 17, 2010
-change
-by [ctanios](/member/ctanios)

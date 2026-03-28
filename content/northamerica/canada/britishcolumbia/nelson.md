@@ -1,0 +1,4 @@
+---
+title: "Nelson"
+type: location
+---

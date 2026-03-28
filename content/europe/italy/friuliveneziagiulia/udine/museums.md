@@ -34,5 +34,3 @@ churches that are not found any where else in the entire world.
 
 **Contributors**
 November 18, 2009
-new
-by [harding](/member/harding)

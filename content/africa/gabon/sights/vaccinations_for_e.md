@@ -19,5 +19,3 @@ type: Hotspots
 tel: 0091-22-25423303
 
 email: sri2k53@yahoo.com
-
-[back to Sights](..)

@@ -20,8 +20,6 @@ Other American offering may be available on the menu, but most will be there for
 
 **Contributors**
 December 20, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 type: Local
 
@@ -36,5 +34,3 @@ url: [www.anchorbar.com](http://www.anchorbar.com)
 address: 1047 Main Street (at North), north of Downtown Buffalo
 
 PriceOfMenu: varies
-
-[back to Eating Out](..)

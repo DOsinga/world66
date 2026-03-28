@@ -19,5 +19,3 @@ Peak season in Brussels begins in May and lasts through September. The city is c
 
 **Contributors**
 September 24, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

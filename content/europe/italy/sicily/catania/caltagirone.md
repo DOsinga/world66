@@ -1,9 +1,9 @@
 ---
-title: "Caltagirone Travel Guide"
+title: "Caltagirone"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ** Caltagirone ** , in the province of Catania, is a
 city of some 39,000 inhabitants. To 68 km from Catania, the city dominate the
@@ -26,11 +26,3 @@ Giacomo, characterized by narrow streets and concealing fine, mostly religious,
 buildings.
 
 ****
-
-#### Contributors
-
-February 23, 2009 change by [nadsar](/member/nadsar)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 07:54

@@ -10,5 +10,3 @@ Berber Tours organizes custom itineraries for both small and large (max. 15 peop
 email: jeffrey.teachout@wichita.edu
 
 address: Wichita, Kansas USA
-
--->

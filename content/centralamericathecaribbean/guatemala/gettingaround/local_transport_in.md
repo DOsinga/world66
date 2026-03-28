@@ -5,8 +5,6 @@ address: "Denny's Beach"
 email: "info@dennysbeach.com"
 phone: "502-5398-0908 / 7947-3930"
 url: "www.dennysbeach.com"
-latitude: 21.278481
-longitude: -157.831534
 ---
 
 Traveling around Guatemala by bus in these modern times is completely different from the chicken bus days that we have all heard about or experienced in the past. Today the buses are modern, with comfortable seats, and they run on schedule. Just about any point in the country can be reached the same day in reasonable comfort and at a reasonable price. Connections are easily made and most of the staff that run the buses are courteous to the traveller. Also, crossing the borders to neighbouring countries has been made easier and much more convenient.
@@ -19,8 +17,6 @@ Don't be afraid to use the local transport here in Guatemala. Sometimes it is th
 
 **Contributors**
 November 20, 2006
-new
-by [dennysbeach](/member/dennysbeach)
 
 
 
@@ -33,5 +29,3 @@ url: [www.dennysbeach.com](http://www.dennysbeach.com)
 address: Denny's Beach
 
 email: info@dennysbeach.com
-
-[back to Getting Around](..)

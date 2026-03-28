@@ -25,10 +25,7 @@ The old port (Port Vell) has been given a face-lift and turned into one of the c
 
 At any time of the year Barcelona is alive with numerous cultural, commercial and sports attractions: concerts, operas, plays, exhibitions, good restaurants, international fairs, shops and art galleries. Barcelona, one of Europe’s great cities, is a place well worth visiting and once you get to know it, you will return time and time again.
 
-*Change history*
-Orginal article by [spainflat](/member/spainflat) on 10 January 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 January 05
+Minor corrections on 11 January 05
 
 **all**
 
@@ -45,5 +42,3 @@ address: Barcelona
 tel: +34 986 22 13 99
 
 email: tours@euroadventures.net
-
--->

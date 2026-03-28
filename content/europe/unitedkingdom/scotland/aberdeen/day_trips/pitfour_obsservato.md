@@ -32,9 +32,3 @@ also visit the Louden Wood Stone Circle and a chambered cairn.
 
 **Contributors**
 February 29, 2008
-change
-by [europealacarte](/member/europealacarte)
-
-
-
-[back to Day Trips](..)

@@ -21,5 +21,3 @@ type: Swimming
 
 
 url: [www.co.san-bernardino.ca.us](http://www.co.san-bernardino.ca.us/parks/)
-
-[back to Things to do](..)

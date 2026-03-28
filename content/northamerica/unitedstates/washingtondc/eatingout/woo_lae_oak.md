@@ -14,8 +14,6 @@ Always one of my favorites, I make an effort to go to Woo Lae Oak whenever I am 
 
 **Contributors**
 July 11, 2005
-new
-by [lisaf](/member/lisaf)
 
 type: International
 
@@ -30,5 +28,3 @@ url: [www.woolaeoak.com](http://www.woolaeoak.com/)
 address: 1500 S. Joyce St., Arlington, VA
 
 PriceOfMenu: $$
-
-[back to Eating Out](..)

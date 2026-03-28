@@ -2,8 +2,6 @@
 title: "Bergamo Bus Station"
 type: poi
 url: "www.zaniviaggi.it"
-latitude: 45.69168
-longitude: 9.674874
 ---
 
 There are different bus stations in Bergamo. The "Autostradale" and "Zani" buses leave from the Bergamo Bus Station in Via Bono. It's across the street from the Train Station of Bergamo and a little to the left.
@@ -12,13 +10,9 @@ Instead the S.A.B. Bus Station is east of the train station or when you go out o
 
 **Contributors**
 July 05, 2006
-new
-by [karenbru](/member/karenbru) (1 point)
 
 
 
 
 
 url: [www.zaniviaggi.it](http://www.zaniviaggi.it/zani_orari/images/cartina_stazione_bg.gif)
-
-[back to Getting Around](..)

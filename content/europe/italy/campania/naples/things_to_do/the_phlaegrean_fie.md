@@ -23,13 +23,5 @@ www.acam-campania.it
 
 **Contributors**
 June 09, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hiking
-
-
-
-
-
-[back to Things to do](..)

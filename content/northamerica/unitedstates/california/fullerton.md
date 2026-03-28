@@ -1,12 +1,8 @@
 ---
-title: "Fullerton Travel Guide"
+title: "Fullerton"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Fullerton is located in Orange County.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 18:44

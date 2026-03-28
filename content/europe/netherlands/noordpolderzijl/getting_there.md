@@ -17,8 +17,6 @@ from Groningen ring > N361/N363 to Winsum/Uithuizen. In Warffum centre village g
 
 **Contributors**
 March 14, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 ### [Taxi service](/europe/netherlands/noordpolderzijl/getting_there/taxi)
 

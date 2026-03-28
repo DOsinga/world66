@@ -9,11 +9,3 @@ It's much cheaper to call a cab. Two good companies: MERSERA +37052788888 and MA
 
 **Contributors**
 June 26, 2006
-new
-by [justbpaul](/member/justbpaul)
-
-
-
-
-
-[back to Getting Around](..)

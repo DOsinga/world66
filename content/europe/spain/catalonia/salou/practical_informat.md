@@ -45,9 +45,5 @@ through the car rental and the insurance buying processes in Salou (and all of S
 
 **Contributors**
 February 05, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

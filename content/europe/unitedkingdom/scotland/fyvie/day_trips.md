@@ -7,8 +7,6 @@ Situated in the heart of Aberdeenshire Fyvie is an ideal place to go if you like
 
 **Contributors**
 January 24, 2006
-new
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [South to Aberdeen](/europe/unitedkingdom/scotland/fyvie/day_trips/south_to_aberdeen)
 

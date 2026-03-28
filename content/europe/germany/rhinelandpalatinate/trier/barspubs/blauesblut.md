@@ -22,5 +22,3 @@ address: Moselstrasse 6, am Pferdemarkt
 tel: +49-(0)651-9763966
 
 accessibility: www.blut-trier.de
-
-[back to Bars and Cafes](..)

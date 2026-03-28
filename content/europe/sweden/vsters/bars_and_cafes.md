@@ -9,8 +9,6 @@ Since shopping in Västerås is mostly made indoors and many cafées are located
 
 **Contributors**
 June 05, 2005
-new
-by [gagarin](/member/gagarin) (1 point)
 
 ### [Cornetto Bar
 

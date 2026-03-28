@@ -7,5 +7,3 @@ Other than on conducted tour, or driving, you could bus it. A number of bus comp
 
 **Contributors**
 January 12, 2007
-new
-by [out of the grey](/member/out_of_the_grey) (2 points)

@@ -4,8 +4,6 @@ type: poi
 address: "Nádvorní 134"
 type: "Parks, Gardens and Zoos"
 url: "www.botgarden.cz"
-latitude: 50.118172
-longitude: 14.412831
 ---
 
 The garden covers 52 ha of area in total. Around 1.5 hectares from the
@@ -20,5 +18,3 @@ type: Parks, Gardens and Zoos
 url: [www.botgarden.cz](http://www.botgarden.cz/)
 
 address: Nádvorní 134
-
-[back to Sights](..)

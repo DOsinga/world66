@@ -8,16 +8,12 @@ phone: "296 288 930"
 price: "€35"
 type: "International"
 url: "www.colegio27.com"
-latitude: 38.734381
-longitude: -9.131338
 ---
 
 If dinner is as big a part on the vacation as the daytime activities, pick your restaurant with care when you're visiting the Azores.
 
 **Contributors**
 June 29, 2005
-new
-by [gagarin](/member/gagarin) (1 point)
 
 ### [Colégio 27](/europe/portugal/theazores/so_miguel/ponta_delgada/eating_out/colgio_27)
 

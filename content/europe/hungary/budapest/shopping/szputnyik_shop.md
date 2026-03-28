@@ -49,5 +49,3 @@ url: [www.szputnyikshop.hu](http://www.szputnyikshop.hu)
 address: H-1074 Budapest, DohÃ¡ny u. 20.
 
 email: info@szputnyikshop.hu
-
-[back to Shopping](..)

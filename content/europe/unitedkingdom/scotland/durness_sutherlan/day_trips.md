@@ -8,8 +8,3 @@ Handa Island, a bird sanctuary [no dogs admitted] can be visited on a day trip f
 In the nesting season you can expect to see masses of gulls, terns, fulmars, cormorants, auks and skuas. For the last named and some of the terns you would be well advised to have some form of head protection!
 
 Near the café on the mainland side of the ferry you can get meals or delicious light bites.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 29 June 04
-
--->

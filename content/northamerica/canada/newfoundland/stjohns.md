@@ -1,8 +1,6 @@
 ---
 title: "St Johns"
 type: location
-latitude: 56.692284
-longitude: -60.937319
 ---
 
 St. John's is the capital city of Newfoundland, and as such, the most eastern point in North America. The first thing to say is that you'd better not choose this place in winter if you hate wind, snow, rain and black ice. In fact, if St. John's can be pretty warm in summer it is often quite hard to live there during winter if you are not Canadian. 

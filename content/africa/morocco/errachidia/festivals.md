@@ -9,8 +9,6 @@ All kinds of festivals and events are going on all year round in the Province of
 
 **Contributors**
 September 19, 2005
-new
-by [karenbru](/member/karenbru)
 
 ### National Date Fair
 

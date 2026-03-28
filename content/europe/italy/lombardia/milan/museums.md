@@ -7,9 +7,6 @@ opening_hours: "every day from 9.30 - 12.30 and from 15.00 - 18.00"
 
 Here are a few suggested museums in Milan.
 
-**Change history**
-Orginal article by [giorgio](/member/giorgio) on 24 March 05
-
 ### [Museo del Duomo
 
 Situated in the Palazzo Reale next to the cathedral you will find here several masterpieces of art and craftworks, that still belong to the huge cathedral treasure. The exhibited objects (mass requisites, drawings, sculptures etc.) are like a window to religious life during the times, from the late Gothic age till today. For more information call the museum (Tel. 0039-02-860358 or fax 0039-02-72022419) or have a look at their WEBPAGE  *Section:Getting Around

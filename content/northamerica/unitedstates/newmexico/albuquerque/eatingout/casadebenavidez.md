@@ -18,5 +18,3 @@ address: 8032 4th St NW
 tel: (505)897-7493
 
 zipcode: Albuquerque, NM
-
-[back to Eating Out](..)

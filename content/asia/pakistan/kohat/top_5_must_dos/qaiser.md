@@ -4,8 +4,6 @@ type: poi
 address: "Billitang"
 email: "qaisershah88@yahoo.com"
 phone: "031390357879"
-latitude: 33.524123
-longitude: 71.55769
 ---
 
 The Kohat Tableegi Markaz is one of the beauty of civil engineering..must visit there.
@@ -19,5 +17,3 @@ tel: 031390357879
 address: Billitang
 
 email: qaisershah88@yahoo.com
-
-[back to Top 5 Must Do's](..)

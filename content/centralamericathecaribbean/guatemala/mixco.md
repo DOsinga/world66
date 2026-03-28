@@ -1,0 +1,4 @@
+---
+title: "Mixco"
+type: location
+---

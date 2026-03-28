@@ -14,6 +14,3 @@ The next section is to Bolton Abbey past the scenic but potentially dangerous ru
 On no account should this dale be rushed - anyway it would often be difficult to do so as the roads are narrow and often meeting coaches cause delays.
 
 http://www.yorkshirenet.co.uk/visinfo/ydales/wharfedl.htm is good for general description and accommodation.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 31 October 04

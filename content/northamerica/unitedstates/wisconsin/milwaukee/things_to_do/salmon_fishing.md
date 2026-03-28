@@ -17,7 +17,4 @@ can accommodate single persons as well as large groups. All equipment
 is furnished. We also feature Art Museum, fireworks and lakefront
 cruises by the hour.
 
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 05 July 05
-
 type: Hunting and Fishing

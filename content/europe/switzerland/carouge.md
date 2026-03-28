@@ -1,0 +1,4 @@
+---
+title: "Carouge"
+type: location
+---

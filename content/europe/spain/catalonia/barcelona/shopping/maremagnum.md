@@ -1,17 +1,10 @@
 ---
 title: "Maremagnum"
 type: poi
-latitude: 41.375143
-longitude: 2.182835
 ---
 
 Mon-sat 11:00-23:00
 
-
- ** :** The Mare Magnum Shopping center (which has not only fans amongst the inhabitants of Barcelona) is a big American style shopping mall. Some like it, some don't. I liked the Aquarium next to it, although this is expensive.
+ ** :** The Mare Magnum Shopping center (which has not only fans amongst the inhabitants of Barcelona) is a big American style shopping mall. Some like it, some don't. I liked the Aquarium next to it, although this is expensive.
 
 address: Moll d'Espanya, M Drassanes
-
-[back to Shopping](..)
-
--->

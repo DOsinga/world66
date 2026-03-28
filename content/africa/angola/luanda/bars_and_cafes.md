@@ -35,5 +35,3 @@ If you are in Viana, the place to visit is the Terraco Restaurant and Bar. Be su
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

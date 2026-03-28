@@ -11,8 +11,6 @@ url: "cvseifrfafqh.com"
 
 yQ7qCX rqveuatjvjhb
 
-*Part or or all of this text stems from the original article at: JybNSMcstmaXeuXMhR*
-
 
 
 accessibility: VpRTdfVAZFTzAM
@@ -26,5 +24,3 @@ date: mhHaOafSHUDSBg
 address: RTceXBWJkrXMmdZ
 
 email: zqncsn@cjxgbq.com
-
-[back to Festivals](..)

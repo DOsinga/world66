@@ -14,8 +14,6 @@ type: "Pubs"
 
 **Contributors**
 September 30, 2009
-new
-by [waxydan](/member/waxydan)
 
 type: Pubs
 
@@ -30,5 +28,3 @@ tel: (+55 21) 2287 2134
 address: 71b Vinicius de Moraes Ipanema
 
 email: waxydan@gmail.com
-
-[back to Nightlife and Entertainment](..)

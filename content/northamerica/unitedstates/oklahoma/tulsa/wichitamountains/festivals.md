@@ -64,5 +64,3 @@ Casino No Deposit Bonuses
 http://kwijodyd.info/334.html
 Used Lexus Dallas
 http://zwxlcxhy.info/v4.html
-
-*Part or or all of this text stems from the original article at: Whitney Young*

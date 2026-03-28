@@ -7,9 +7,5 @@ Known in Roman times as **Noviodunum**, Jublains is now a quiet little (mainly a
 
 **Contributors**
 August 22, 2005
-new
-by [vor0nwe](/member/vor0nwe)
 
 August 23, 2005
-change
-by [giorgio](/member/giorgio)

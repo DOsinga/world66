@@ -1,8 +1,6 @@
 ---
 title: "Rhodes City"
 type: location
-latitude: 36.443723
-longitude: 28.227369
 ---
 
 Rhodes City contains many sights worth exploring. The medieval city is still very much alive. 6,000 people live and work in the same buildings in which the Knights of St. John lived six centuries ago; as a living monument to the past it must be nearly unique in Europe, if not the world.
@@ -14,6 +12,3 @@ Coming up from Mandraki Harbor, we enter through the Gate of Freedom (Pili Eleft
 Immediately opposite are the ruins of a Temple of Aphrodite, dating from the 3rd century BC, one of the few ancient remains to be found in the Old Town. Behind the temple is the Inn of the Tongue of Auvergue, built in 1507. Note the outside staircase leading up the front of the building which is a purely Aegean architectural feature, owing nothing to Western influence. The Inn is used today as government offices.
 
 To the left, Arsenal Gate leads to the commercial port. Simi sq. is also known as Arsenal sq., as it was believed that the Knights had shipyards there (the word "arsenal" is derived from the Arabic word for a shipyard). The building on the right houses the Ionian and Popular Bank on the ground floor and the Municipal Art Gallery upstairs. From here the street climbs slightly to Argyrokastrou sq., a pretty spot with a fine fountain in its center. Its base, which is an early Christian font, was found by Italian archaeologists in the church of St. Irene near the village of Arnitha. The pile of cannonballs near the fountain, and the other piles to be seen here and there in the Old Town, were collected for the defense of Rhodes during the Turkish siege of 1522. Argyrokastrou sq. also boasts one of the oldest buildings in the Castle - the Armeria, built in the 14th century, probably by Grand Master Roger de Pias, whose escutcheon can be seen on the left hand side of the building. Its similarities to the Hospital of the Knights (now the Museum) lead scholars to believe that this was the first building used as a Hospital. Later, it was used by the Turks as an armory (armeria). To the left as we look at the Armeria, which today houses the Institute of History and Archaeology, is the Museum of Folk Art.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 26 March 04

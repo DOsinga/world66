@@ -12,3 +12,7 @@ type: section
 ## Categories
 
 [Climbing](/europe/austria/imst/activities?subsection=Climbing)
+
+[Skiing](/europe/austria/imst/activities?subsection=Skiing)
+
+[Others](/europe/austria/imst/activities?subsection=Others)

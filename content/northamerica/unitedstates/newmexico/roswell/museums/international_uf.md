@@ -11,7 +11,5 @@ Upon entering the UFO Museum, you must explore all the information the Museum ha
 
 **Contributors**
 June 08, 2004
-change
-by [kimmeebaby](/member/kimmeebaby)
 
 type: general

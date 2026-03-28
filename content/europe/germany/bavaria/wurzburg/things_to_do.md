@@ -23,5 +23,3 @@ This town square gives the traveler easy access to the shops and restaurants tha
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -11,4 +11,4 @@ Along the outskirts of Santorini lies a small town called Caldera. Visitors can 
 
 **Explore Historic Riches of Ancient Thira**
 
-Along the eastern edge of the Santorini Island lies an important archaeological site—called Thira or Ancient Thira. Visitors should reserve an entire day for this day trip since there is a bit of hiking involved. Thira is located along a hilltop and thus, some serious walking needs to be done. However, the ascent also provides an exotic view of the neighboring islands. The sites located at the top of hilltop are believed to date back to 9th century B.C. These ancient ruins are regarded as the most authentic reserves of early Roman and Byzantine civilizations.
+Along the eastern edge of the Santorini Island lies an important archaeological site—called Thira or Ancient Thira. Visitors should reserve an entire day for this day trip since there is a bit of hiking involved. Thira is located along a hilltop and thus, some serious walking needs to be done. However, the ascent also provides an exotic view of the neighboring islands. The sites located at the top of hilltop are believed to date

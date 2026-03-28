@@ -1,9 +1,9 @@
 ---
-title: "Orheiul Vechi Travel Guide"
+title: "Orheiul Vechi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 This is a beautiful place in Moldova, it is quiet and calm place. The churches were closed during the communist era but have since been restored. There is an information centre and restaurant on the road near the start of the path up towards the churches.
 
@@ -16,13 +16,3 @@ Further up the complex is the more traditional church, beautifully restored insi
 If coming from Chisinau, the easiest (and most expensive) way of getting to Orheiul Vechi is by private vehicle and even better with a guide who can advise of the history of the complex.
 
 Along with the wine cellars, Orheuil Vechi is the place not to be missed during a visit to Moldova.
-
-#### Contributors
-
-June 24, 2006 change by [pearsoc](/member/pearsoc) (2 points)
-
-June 26, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 06:02

@@ -83,5 +83,3 @@ fleet of tourist boats that ply the waters of the calanques, small, fiord-like b
 
 **Contributors**
 August 29, 2009
-change
-by [kimerly](/member/kimerly)

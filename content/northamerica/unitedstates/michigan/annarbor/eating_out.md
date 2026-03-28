@@ -30,5 +30,3 @@ address: Main St
 **Sweetwaters Cafe, William St**
 
 Downtown cafe with lots of light and windows. Great for people watching. No wifi. Recommended: ginger-lemon tea, hot.
-
--->

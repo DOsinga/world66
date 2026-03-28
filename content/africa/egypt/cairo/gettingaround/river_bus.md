@@ -9,9 +9,3 @@ It's possible to take a river bus to the Coptic Quarter where a lot of churches,
 
 **Contributors**
 December 10, 2005
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
-
-
-
-[back to Getting Around](..)

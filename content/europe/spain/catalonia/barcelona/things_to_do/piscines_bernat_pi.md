@@ -10,8 +10,6 @@ If you're looking for plenty of options for swimming during the hot summer month
 
 **Contributors**
 May 16, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Swimming
 
@@ -20,5 +18,3 @@ type: Swimming
 tel: 93-423-40-41
 
 address: Piscines Bernat Picornell: Av. del Estadi 30-40, Montjuic
-
-[back to Things to do](..)

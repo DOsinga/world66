@@ -7,8 +7,6 @@ email: "hossam@goegyptonline.com"
 phone: "0020101709105"
 type: "Other"
 url: "www.goegyptonline.com"
-latitude: 26.254049
-longitude: 29.267547
 ---
 
 **Memphis Tours Egypt - Since 1955
@@ -53,8 +51,6 @@ hossam@goegyptonline.com
 
 **Contributors**
 June 16, 2009
-new
-by [memphis tours egypt](/member/memphis_tours_egypt)
 
 type: Other
 
@@ -71,5 +67,3 @@ url: [www.goegyptonline.com](http://www.goegyptonline.com/Egypt-Sightseeing-Tour
 address: Egypt
 
 email: hossam@goegyptonline.com
-
-[back to Things to do](..)

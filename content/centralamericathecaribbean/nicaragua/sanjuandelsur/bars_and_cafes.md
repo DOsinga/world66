@@ -41,5 +41,3 @@ In addition to the list of restaurants given above, there are other restaurants 
 
 **Contributors**
 March 04, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -45,8 +45,6 @@ For schedules, please visit www.greyhound.com, www.coachusa.com, www.nytrailways
 
 **Contributors**
 June 28, 2005
-change
-by [allamericanbear](/member/allamericanbear)
 
 
 
@@ -55,5 +53,3 @@ by [allamericanbear](/member/allamericanbear)
 tel: 1-800-231-2222
 
 address: North Division at Ellicott, Downtown Buffalo
-
-[back to Getting Around](..)

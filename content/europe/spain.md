@@ -1,8 +1,6 @@
 ---
 title: "Spain"
 type: location
-latitude: 39.326068
-longitude: -4.837979
 ---
 
 Spain is more than bullfights, flamenco dancers and crowded beaches. It's a spectacular and diverse country, the north resembling the rolling, green hills of Ireland and the south giving you a taste of Moroccan landscapes and architecture. Its tremendous history is reflected in its prehistoric cave paintings, Moorish palaces, crumbling castles, Roman ruins, Gothic and Renaissance cathedrals as well as some very unique modern architecture. The uniqueness of Spain lies in the separate kingdoms which made up the original Spanish nation. These regions remain diverse in their language, culture, cuisine and art. These regions include: Andalucía, [Aragon](/europe/spain/aragon), Asturias, Basque Country, the Balearic Islands, the Canary Islands, Cantabria, Castilla La Mancha, Castilla León, Catalonia, Extremadura, Galicia, La Rioja, Madrid, Murcia, Navarra and Valencia. Areas of interest are not limited to each region, here are some highlights:
@@ -20,19 +18,3 @@ The most spectacular Roman sites are based in Mérida, where you can also find a
 Very unique modern art and architecture can be found in [Barcelona](/europe/spain/catalonia/barcelona) and [Madrid](/europe/spain/madrid). The visionary architecture of Antoni Gaudí and the Picasso museum are in Barcelona while Madrid is home to Spain’s top three art museums.
 
 If you would rather get some fresh air, Spain is filled with opportunities to visit wildlife parks as well as trekking. The Pyrenees, especially around the Aragón area, are the best areas for trekking. Andalucía has smaller mountain chains, though still spectacular. The Picos de Europa in Cantabria and Asturias are also worth a trek. Beautiful parks include Monfrague in Extremadura and Ordesa in the Aragonese Pyrenees.
-
-## Destinations
-
-- [Andalucia](/europe/spain/andalucia)
-- [Aragon](/europe/spain/aragon)
-- [Balearic islands](/europe/spain/balearicislands)
-- [Canary Islands](/europe/spain/canaryislands)
-- [Catalonia](/europe/spain/catalonia)
-- [Central Spain](/europe/spain/centralspain)
-- [Ceuta](/europe/spain/ceuta)
-- [Laguardia - Rioja](/europe/spain/laguardiarioja)
-- [Madrid](/europe/spain/madrid)
-- [Melilla](/europe/spain/melilla)
-- [Northern Spain](/europe/spain/northernspain)
-- [Palencia](/europe/spain/palencia)
-- [Spanish Costas](/europe/spain/spanishcostas)

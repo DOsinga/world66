@@ -16,5 +16,3 @@ open: Wed, Sat, Sun: 14 - 17 h.
 address: Scheune bei der Villa Merian
 
 tel: +41 (0)61 -205 86 00
-
-[back to Sights](..)

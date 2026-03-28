@@ -1,9 +1,9 @@
 ---
-title: "Rockland Travel Guide"
+title: "Rockland"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Rockland area is full of forests, wildlife, lakes, ponds,
 beaches and parks for fishing, swimming, hiking, hunting, and boating.
@@ -21,11 +21,3 @@ Red Sox baseball game, or shop at one of the region's centers.
 The community-based symphony, the Children's Museum in Easton,
 and the Fuller Art Museum provide a variety of cultural activities
 for people of all ages.
-
-#### Contributors
-
-March 26, 2007 new by [mehul](/member/mehul) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 09:16

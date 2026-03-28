@@ -21,5 +21,3 @@ Frankfurt has what you expect, a wealth of gastronomic possibilities, from trend
 [None](/europe/germany/hessen/frankfurt/eatingout?subsection=None)
 [Indian](/europe/germany/hessen/frankfurt/eatingout?subsection=Indian)
 [Greek](/europe/germany/hessen/frankfurt/eatingout?subsection=Greek)
-
--->

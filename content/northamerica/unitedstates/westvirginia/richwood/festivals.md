@@ -11,5 +11,3 @@ In October the city plays hosts to some of the countries best artists. The Mount
 
 **Contributors**
 April 24, 2005
-new
-by [just2584](/member/just2584) (1 point)

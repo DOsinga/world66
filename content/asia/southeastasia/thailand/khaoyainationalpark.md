@@ -1,8 +1,0 @@
----
-title: "Khao yai national park"
-type: location
----
-
-Khao Yai is Thailand's oldest and most revered national park. Spanning four provinces, this 2,000-square-kilometer biological wonderland contains more than 70 mammal species, including tigers and elephants, as well as 320 varieties of birds. It has been declared an ASEAN National heritage site and probably it will be by the United Nations soon, too. 
-
-Like most of Asia's wildlife sanctuaries, Khao Yai has been long under threat from poachers who are stripping the forest of its plant and animal wealth. In March 2000 the government launched the so-called Khao Yai Conservation Project, so hopefully future generations are able to visit this outstanding piece of nature. The park has over 50 km hiking trails, many of them formed by wildlife movement. Elevations range from 100 to 1400 metres. It is easy to get lost so it's recommended to hire a guide. Trips to the park can be arranged easily from Bangkok.

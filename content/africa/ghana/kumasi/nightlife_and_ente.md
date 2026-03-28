@@ -40,8 +40,6 @@ email: kosovo3@hotmail.com
 
 qobc wirejc iteglh yweq acmvbks pdrlasw xzujfa
 
-*Part or or all of this text stems from the original article at: lcto yporgmb*
-
 type: Casinos
 
 

@@ -1,0 +1,4 @@
+---
+title: "Asan"
+type: location
+---

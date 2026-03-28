@@ -31,9 +31,5 @@ How would you like to visit this museum which houses the origins of almost all p
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

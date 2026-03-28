@@ -12,7 +12,3 @@ The Netherlands are well connected by road, rail, boat and air to the rest of th
  The most relevant boat connections are with Great Brittan. Numerous Ferry boats do the trip from Hoek van Holland and there is a twice daily Train/Boat combi that brings you right into London. If you don't bring your own car, it might work out cheaper to get a bus ticket that includes the ferry (but might you first drive all the way to France).
 
  Driving into the Netherlands is easy. Good roads cross into Belgium and Germany and nobody at the border checks cars, so you hardly notice you're in a different country.
-
-## Subsections
-
-[By Air](/europe/netherlands/gettingthere/byair)

@@ -8,11 +8,5 @@ Rodeo Drive in Beverly Hills is home to one of the world's best known upscale sh
 
 **Contributors**
 March 12, 2007
-new
-by [dchung](/member/dchung) (2 points)
 
 type: Hotspots
-
-
-
-[back to Sights](..)

@@ -17,5 +17,3 @@ type: general
 email: info@zephyrus.it
 
 url: [www.zephyrus.it](http://www.zephyrus.it)
-
-[back to Getting Around](..)

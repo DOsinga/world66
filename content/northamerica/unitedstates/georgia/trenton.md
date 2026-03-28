@@ -1,12 +1,8 @@
 ---
-title: "Trenton Travel Guide"
+title: "Trenton"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 There's a train in [Trenton](/northamerica/unitedstates/newjersey/trenton) every few hours.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 08:46

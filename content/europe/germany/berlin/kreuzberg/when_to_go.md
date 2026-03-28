@@ -15,9 +15,4 @@ Though not as popular as it's counterpart in Munich, Oktoberfest (starting mid-S
 
 **Winter and Spring**
 
-Winter and spring bring the least amount of tourism to Berlin, which makes it a good time for a tourist on a budget to chose when to go in search of good deals on hotels and hostels. Before traveling to Kreuzberg this time of year be sure to check for concerts and shows. Many up-and-coming bands will have 'no admission' shows in one of the many venues throughout this neighborhood. It is a good time during your spring season vacation to Kreuzberg when to go in search of parks and fountains to admire, or just walk along the Spree River and watch the world come back to life.
-
-**Contributors**
-February 17, 2010
-change
-by [benf](/member/benf)
+Winter and spring bring the least amount of tourism to Berlin, which makes it a good time for a tourist on a budget to chose when to go in search of good deals on hotels and hostels. Before traveling to Kreuzberg this time of year be sure to check for concerts and shows. Many up-and-coming bands will have 'no admission' shows in one of the many venues throughout this neighborhood. It is a good time during your spring season vacation to Kreuzberg when to go in search of parks and fountains to admire, or just walk along the Spree River and watch the world come

@@ -20,5 +20,3 @@ accessibility: easy access by taxi
 address: hidden just past the city zoo
 
 PriceOfMenu: $$$
-
-[back to Eating Out](..)

@@ -14,11 +14,7 @@ collections.
 
 **Contributors**
 December 01, 2006
-new
-by [giorgio](/member/giorgio)
 
 
 
 url: [www.castlehoward.co.uk](http://www.castlehoward.co.uk/)
-
-[back to Day Trips](..)

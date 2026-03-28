@@ -34,5 +34,3 @@ All in all, this is a very attractively presented book with good general informa
 author: DK Publishing
 
 isbn: 075662875X
-
-[back to Books](..)

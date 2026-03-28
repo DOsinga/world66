@@ -18,5 +18,3 @@ author: Colin M. Turnbull
 isbn: 0671640992
 
 subject: travel
-
-[back to Books](..)

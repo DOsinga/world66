@@ -15,8 +15,6 @@ The museum is only half a quadra away from the Plaza Central. It´s on the secon
 
 **Contributors**
 May 20, 2006
-new
-by [joosts](/member/joosts) (2 points)
 
 type: Other
 
@@ -25,5 +23,3 @@ type: Other
 
 
 address: Calle Caceres 468, 2nd floor
-
-[back to Things to do](..)

@@ -53,5 +53,3 @@ during an off-season visit to London.
 
 **Contributors**
 January 19, 2010
-new
-by [sequoia maner](/member/sequoia_maner)

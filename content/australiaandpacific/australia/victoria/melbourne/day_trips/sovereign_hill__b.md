@@ -5,8 +5,6 @@ address: "Bradshaw Street, Ballarat, Victoria"
 email: "enquiries@sovereignhill.com.au"
 phone: "(03) 5337 1100"
 url: "www.sovereignhill.com.au"
-latitude: -37.574924
-longitude: 143.868462
 ---
 
 Part of Victoria’s Goldfields Ballarat is Victoria’s largest inland
@@ -114,5 +112,3 @@ url: [www.sovereignhill.com.au](http://www.sovereignhill.com.au)
 address: Bradshaw Street, Ballarat, Victoria
 
 email: enquiries@sovereignhill.com.au
-
-[back to Day Trips](..)

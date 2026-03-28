@@ -8,15 +8,3 @@ New Jersey is just south of [New York](/northamerica/unitedstates/newyorkstate/n
  [Trenton](/northamerica/unitedstates/newjersey/trenton) the capital is located right in the centre of the state and is a good base for exploring the region.
 
  In [West Orange](/northamerica/unitedstates/newjersey/westorange) you can visit the old laboratory of Thomas Edison whose inventions changed the lives of millions of people all over the world.
-
-## Destinations
-
-- [Atlantic City](/northamerica/unitedstates/newjersey/atlanticcity)
-- [Delaware Water Gap](/northamerica/unitedstates/newjersey/delawarewatergap)
-- [Great Egg Harbor](/northamerica/unitedstates/newjersey/greateggharbor)
-- [Jersey City](/northamerica/unitedstates/newjersey/jerseycity)
-- [Morristown](/northamerica/unitedstates/newjersey/morristown)
-- [Newark](/northamerica/unitedstates/newjersey/newark)
-- [Newport](/northamerica/unitedstates/newjersey/newport)
-- [Trenton](/northamerica/unitedstates/newjersey/trenton)
-- [West Orange](/northamerica/unitedstates/newjersey/westorange)

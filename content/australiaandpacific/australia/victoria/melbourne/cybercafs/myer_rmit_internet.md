@@ -34,5 +34,3 @@ address: Level 4, 295 Lonsdale Street
 Melbourne 3000, Australia
 
 url: [www.training.rmit.edu.au](http://www.training.rmit.edu.au/myer/index.html)
-
-[back to Internet Cafes](..)

@@ -1,0 +1,4 @@
+---
+title: "Hobbs"
+type: location
+---

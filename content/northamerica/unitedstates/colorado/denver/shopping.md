@@ -7,5 +7,3 @@ For upscale Denver shopping, take a trip to Cherry Creek Shopping Center on 1st 
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

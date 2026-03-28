@@ -12,8 +12,6 @@ Orlando boasts a bevy of restaurants and eateries, from the tacky and wacky to t
 
 **Contributors**
 August 11, 2005
-new
-by [naufragio](/member/naufragio)
 
 ### Journeys
 

@@ -1,0 +1,4 @@
+---
+title: "Lodz"
+type: location
+---

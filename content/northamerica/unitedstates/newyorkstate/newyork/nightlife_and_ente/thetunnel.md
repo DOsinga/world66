@@ -17,5 +17,3 @@ type: Clubs
 address: 220 Twelfth Avenue & 27th Street
 
 tel: 212-615-6725
-
-[back to Nightlife and Entertainment](..)

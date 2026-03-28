@@ -9,5 +9,3 @@ The botanical garden was founded 200 years ago by the American Thomas Hickling.I
 
 **Contributors**
 April 05, 2005
-new
-by [ingvar](/member/ingvar)

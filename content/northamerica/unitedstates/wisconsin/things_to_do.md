@@ -9,5 +9,3 @@ The subtle power of the Driftless lands is equaled only by the people of this my
 
 **Contributors**
 November 03, 2008
-new
-by [macastat](/member/macastat)

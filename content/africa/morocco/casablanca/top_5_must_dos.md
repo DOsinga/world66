@@ -31,9 +31,5 @@ The Square of Mohammed V is the business center of Casablanca and is where most 
 
 **Contributors**
 January 21, 2010
-new
-by [ckajs](/member/ckajs)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

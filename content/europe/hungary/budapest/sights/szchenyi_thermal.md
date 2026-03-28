@@ -37,5 +37,3 @@ url: [www.ticket.info.hu](http://www.ticket.info.hu/)
 address: Ãllatkerti krt. 11.
 
 email: hunkonc@ticket.info.hu
-
-[back to Sights](..)

@@ -13,7 +13,5 @@ url: "www.panamacruise.com.pa"
 
 **Contributors**
 September 28, 2007
-new
-by [pty](/member/pty)
 
 type: Hunting and Fishing

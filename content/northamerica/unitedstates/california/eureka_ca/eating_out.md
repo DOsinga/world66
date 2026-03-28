@@ -11,5 +11,3 @@ Enjoy fresh seafood
 
 **Contributors**
 August 25, 2008
-new
-by [seebigtrees](/member/seebigtrees)

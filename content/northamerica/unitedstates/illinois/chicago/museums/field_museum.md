@@ -5,8 +5,6 @@ address: "1400 S. Lake Shore Dr"
 phone: "(312) 922-9410"
 url: "www.fieldmuseum.org"
 zipcode: "60605"
-latitude: 39.826258
-longitude: -88.937628
 ---
 
 This museum includes three levels of exhibits, featuring a popular multi-level Egyptology section (highly recommended) and MANY other permanent and rotating exhibits. The Field Museum is famous for housing the largest and most complete skeleton of a T. Rex ever found, dubbed Sue. 

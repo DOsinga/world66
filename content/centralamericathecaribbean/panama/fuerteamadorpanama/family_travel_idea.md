@@ -19,9 +19,5 @@ Get to enjoy the enchanting view of the Panama Canal to your left and the overwh
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 03, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

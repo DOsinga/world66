@@ -27,5 +27,3 @@ Whether the sun's high up or night’s crawling in the skies, you can go and spe
 
 **Contributors**
 April 08, 2010
-new
-by [pamelarae](/member/pamelarae)

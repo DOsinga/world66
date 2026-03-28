@@ -10,13 +10,3 @@ Quite honestly speaking, Seattle does not have to offer that many sights such as
   Seattle is a nice place to stroll around. There is the waterfront, when you want to breathe in some fresh air and have a look at the incoming or going ships or the nearby islands. When you feel like shopping, pay a visit to the adjacent **Pike Place Market** which is a continually operating farmers' market with no less than 600 businesses.
 
   **Pioneer Square** is in the heart of the oldest neighbourhood in Seattle and is part of the National Historic Disitrict. The red-brick buildings are a lust for the eye and house shops, cafes and bars. You can also participate in underground tours at this square. Check out the museums and parks.
-
- 
-
-## Subsections
-
-[Gardens & Parks](/northamerica/unitedstates/washington/seattle/sights/gardensparks)
-
-[Highlights](/northamerica/unitedstates/washington/seattle/sights/highlights)
-
-[Museums](/northamerica/unitedstates/washington/seattle/sights/museums)

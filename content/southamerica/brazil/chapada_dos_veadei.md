@@ -1,9 +1,9 @@
 ---
-title: "Chapada dos Veadeiros Travel Guide"
+title: "Chapada dos Veadeiros"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Famed for its beautiful landscapes, this region located in Central
 Brazil has fantastic treasures and its richness can be seen as a
@@ -28,11 +28,3 @@ making it the richest savanna in the entire world. The flowers bloom
 from January onwards, with the peak season in May and June.
 
 READ MORE: http://www.chapadaveadeiros.travel
-
-#### Contributors
-
-July 22, 2009 change by [cleyton](/member/cleyton)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 21:45

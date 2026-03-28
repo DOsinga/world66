@@ -8,5 +8,3 @@ Freiburg has an effective and well organized public transport system with trams 
 We currently have no Getting Around listed in Freiburg.
 
 If you do know any Getting Around in Freiburg, please [Add].
-
--->

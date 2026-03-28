@@ -6,8 +6,6 @@ email: "oscarsbar@nb.aibn.com"
 phone: "455-6014"
 type: "International"
 url: "www.oscarsbarandbistro.ca"
-latitude: 45.942948
-longitude: -66.672096
 ---
 
 There are different restaurant in the city.
@@ -22,8 +20,6 @@ Pub and pricy for students: The snoothy fox and Lunas Rouge Pub
 
 **Contributors**
 May 10, 2006
-new
-by [tridymite](/member/tridymite) (1 point)
 
 ### [Oscars Bar & Bistro](/northamerica/canada/newbrunswick/copy_of_fredericton/eating_out/oscars_bar__bistr)
 

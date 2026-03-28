@@ -22,5 +22,3 @@ The Poverty Bay plains contain 20,200 ha of rich, alluvial river flats which, co
 **Transport**
 
 Gisborne is serviced by daily passenger and freight, air and bus connections to other main centres in the North Island. There is also a rail freight service and a busy overseas shipping and local fishing port.
-
-*Part or or all of this text stems from the original article at: Tourism Eastland Inc.*

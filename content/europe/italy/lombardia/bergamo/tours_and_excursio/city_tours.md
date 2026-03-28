@@ -20,17 +20,11 @@ FoxTown Outlet and Admiral Casino at Mendrisio (Switzerland).** **
 
 **Contributors**
 June 10, 2005
-change
-by [karenbru](/member/karenbru)
 
 June 13, 2005
-change
-by [giorgio](/member/giorgio)
 
 
 
 
 
 url: www.zaniviaggi.it
-
-[back to Tours and Excursions](..)

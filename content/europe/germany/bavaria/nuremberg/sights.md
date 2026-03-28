@@ -5,9 +5,6 @@ type: section
 
 The historical centre of Nuremberg attracts many tourists, and for good reason. While much of the city center was reduced to rubble in World War II, the city was rebuilt in a fusion of modern and medieval styles and still contains many tall, narrow half-timbered houses. The town is still surrounded by its medieval city walls built in the 15th and 16th centuries. Some of the more impressive relics are the Gothic granary built in 1498-1502, the Nassauer Haus, a Gothic tower house from the 13th century, the Heiling-Geist-Spital, a hospital founded in 1332 and expanded in 1488-1527, and the Wine House, a half-timbered house that is one of the very few buildings in the city center to survive World War II damage.
 
-*Change history*
-Write up by [indrian](/member/indrian) on 20 June 04
-
 **general**
 
 **Kirche St. Sebaldus**

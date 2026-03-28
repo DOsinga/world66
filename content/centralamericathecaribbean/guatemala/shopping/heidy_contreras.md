@@ -6,8 +6,6 @@ email: "elcuranderogallery@gmail.com"
 phone: "7832-4955"
 type: "Art Galleries"
 url: "www.elcurandero.com"
-latitude: 14.557155
-longitude: -90.730675
 ---
 
 The best source for
@@ -27,5 +25,3 @@ url: [www.elcurandero.com](http://www.elcurandero.com)
 address: La Antigua Guatemala
 
 email: elcuranderogallery@gmail.com
-
-[back to Shopping](..)

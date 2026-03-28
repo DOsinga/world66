@@ -1,0 +1,4 @@
+---
+title: "Irapuato"
+type: location
+---

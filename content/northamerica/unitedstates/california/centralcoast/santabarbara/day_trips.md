@@ -23,9 +23,5 @@ If you're willing to travel a bit further outside of Santa Barbara, go to Hearst
 
 **Contributors**
 April 15, 2010
-change
-by [suegabel](/member/suegabel)
 
 April 17, 2010
-change
-by [2 many commas](/member/2_many_commas)

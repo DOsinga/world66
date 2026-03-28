@@ -15,8 +15,6 @@ There are 180 seats inside the restaurant and 250 seats outside in the magnifice
 
 **Contributors**
 April 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: First Class
 
@@ -33,5 +31,3 @@ address: Sarajska 1 Skopje
 PriceOfMenu: 7 e
 
 email: oreovlad@gmail.com
-
-[back to Eating Out](..)

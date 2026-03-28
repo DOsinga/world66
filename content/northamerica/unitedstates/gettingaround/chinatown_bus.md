@@ -13,5 +13,3 @@ It can be difficult to find information on Chinatown bus companies. It is best t
 
 
 url: [www.GotoBus.com](http://www.GotoBus.com)
-
-[back to Getting Around](..)

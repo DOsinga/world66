@@ -227,8 +227,6 @@ The Wisconsin State Capitol is designated a National Historic Landmark. The enti
 
 **Contributors**
 February 03, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Public Buildings
 
@@ -237,5 +235,3 @@ type: Public Buildings
 
 
 url: [www.wisconsin.gov](http://www.wisconsin.gov/state/capfacts/tour_select.html)
-
-[back to Sights](..)

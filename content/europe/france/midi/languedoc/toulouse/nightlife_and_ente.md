@@ -58,5 +58,3 @@ all night long.
 
 **Contributors**
 March 25, 2010
-new
-by [kwalker](/member/kwalker)

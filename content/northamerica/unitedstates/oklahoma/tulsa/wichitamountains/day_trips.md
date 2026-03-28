@@ -64,5 +64,3 @@ History Of Assembly Of God
 http://phlcpt.in/nd
 Good Guys Car Club
 http://uuymen.in/8r
-
-*Part or or all of this text stems from the original article at: Kristen Berg*

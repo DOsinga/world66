@@ -14,10 +14,3 @@ The northwestern region of this country, the Turkana District, is a vast, desola
 The best places to start your travels in Kenya are probably Nairobi N.P. the capital and South of Mombasa the second largest city, located on the coast. Both are served by international flights and have a very good tourist infrastructure.
 
 Maasai Mara National Game Reserve is the national park that shares a border with Tanzania to the south. The park is very accomodating to tourists, and offers many opportunities to see true African wildlife. The Maasai Mara Sopa Lodge is a true romantic complex overlooking the savannah and offering world class accomodations for the weary traveler.
-
-## Top Destinations in Kenya
-
-[Nairobi](/africa/kenya/nairobi)
-[Mombasa](/africa/kenya/thecoast/mombasa)
-[Nakuru](/africa/kenya/theriftvalley/nakuru)
-[Nyeri](/africa/kenya/centralhighlands/nyeri)

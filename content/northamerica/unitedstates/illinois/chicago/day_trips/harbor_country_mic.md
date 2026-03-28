@@ -11,8 +11,6 @@ Harbor Country isn't just one place, it's actually made up of eight towns. These
 
 **Contributors**
 June 05, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -25,5 +23,3 @@ url: [www.harborcountry.org](http://www.harborcountry.org)
 address: Harbor Country Chamber of Commerce, 530 S. Whittaker Street, New Buffalo MI, 49117
 
 email: request@harborcountry.org
-
-[back to Day Trips](..)

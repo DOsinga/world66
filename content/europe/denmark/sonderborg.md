@@ -1,0 +1,4 @@
+---
+title: "Sonderborg"
+type: location
+---

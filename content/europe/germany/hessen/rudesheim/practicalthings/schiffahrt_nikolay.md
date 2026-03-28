@@ -12,5 +12,3 @@ type: general
 
 
 url: [www.schiffahrt-nikolay.de](http://www.schiffahrt-nikolay.de)
-
-[back to Practical Information](..)

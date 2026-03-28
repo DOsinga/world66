@@ -53,7 +53,3 @@ from Franklin Blvd. If you want to get out of the car and walk around
 there is free and metered parking available.
 
 type: Landmarks
-
-
-
-[back to Sights](..)

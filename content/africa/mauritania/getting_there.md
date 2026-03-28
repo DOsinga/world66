@@ -3,51 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-**From moroco by road**
+"/>
 
-Get your visa in rabat. If you don't the custom will
-charge you the price they WANT at the border. They charged me
-about 5 times the price that I would have paid in Rabat. There is also a
-fee for the vehicule.
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-**Contributors**
-January 04, 2006
-change
-by [giorgio](/member/giorgio)
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-## Top Destinations in Mauritania
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-- [Chinguetti](/africa/mauritania/chinguetti)
-- [Nouakchott](/africa/mauritania/nouakchott)
-- [Nouadhibou](/africa/mauritania/nouadhibou)
-- [Kiffa](/africa/mauritania/kiffa)
-- [Atar](/africa/mauritania/atar)
-- [Rosso](/africa/mauritania/rosso)
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-- [Nema](/africa/mauritania/nema)
-- [Ayoun al Atrous](/africa/mauritania/ayounalatrous)
-- [Kaedi](/africa/mauritania/kaedi)
-- [Ouadane](/africa/mauritania/ouadane)
-- [Arguin bank national park](/africa/mauritania/arguinbanknationalpark)
-- [Oulata](/africa/mauritania/oulata)
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-[more >](/africa/mauritania/lib/alldestinations)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
-- |
-- [Adventure Travel](http://www.gapadventures.com)
-- |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
-- |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

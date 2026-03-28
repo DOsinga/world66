@@ -5,8 +5,6 @@ author: "Mark Jenkins"
 isbn: "0688163424"
 subject: "travel"
 type: "general"
-latitude: 16.771909
-longitude: -3.008727
 ---
 
 [](http://www.amazon.com/exec/obidos/ASIN/0688163424/osingacom?creative=125581&camp=2321&link_code=as1)
@@ -20,5 +18,3 @@ author: Mark Jenkins
 isbn: 0688163424
 
 subject: travel
-
-[back to Books](..)

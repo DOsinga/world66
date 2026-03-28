@@ -90,5 +90,3 @@ sauce, and or course, "mole poblano," which is a thick, stew-like sauce served w
 
 **Contributors**
 March 29, 2010
-change
-by [damiandavilarojas](/member/damiandavilarojas)

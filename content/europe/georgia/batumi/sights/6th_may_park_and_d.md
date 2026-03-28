@@ -3,8 +3,6 @@ title: "6th May Park and Dolphinarium"
 type: poi
 address: "6th may park"
 type: "Parks, Gardens and Zoos"
-latitude: 53.376441
-longitude: -6.217362
 ---
 
 6 May Park, named after the day of the revolution in Adjara, is another charm of Batumi. Smekalov, then Governor of the city, came up with the idea in 1881. The park is situated around Nurie Lake. It used to be a swamp, before it was cleaned out and turned into a lake. The territory turned into the first park in Batumi.
@@ -20,8 +18,6 @@ The dolphinarium stopped working for some time, but in 2007 the government of Ad
 
 **Contributors**
 February 23, 2010
-new
-by [batumiren](/member/batumiren)
 
 type: Parks, Gardens and Zoos
 
@@ -30,5 +26,3 @@ type: Parks, Gardens and Zoos
 
 
 address: 6th may park
-
-[back to Sights](..)

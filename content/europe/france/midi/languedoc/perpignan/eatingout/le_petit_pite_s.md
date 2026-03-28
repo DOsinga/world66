@@ -7,8 +7,6 @@ phone: "04 68 34 50 21"
 price: "15€"
 type: "European"
 url: "www.lepetitpitea.fr"
-latitude: 42.699345
-longitude: 2.896316
 ---
 
 If you're in Perpignan on holiday, it's worth checking out the Swedish restaurant just off the Place de la République, near the Castillet and the Cathedral. In the summer a warm shaded terrace and balcony, in the winter a cosy candle-lit room. You'll find it in a small courtyard with a fountain on 'rue des trois journées' next to a hair salon called 'Dessange'.
@@ -30,5 +28,3 @@ address: 26 rue des trois journées
 PriceOfMenu: 15€
 
 email: luke.spear@gmail.com
-
-[back to Eating Out](..)

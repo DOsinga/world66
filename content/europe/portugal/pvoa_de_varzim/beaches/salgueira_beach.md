@@ -7,9 +7,3 @@ Salgueira Beach is *Passeio Alegre*'s north end beach and
 it is a regional classic surfing beach, near the beach there's several
 swimming pool complexes, restaurants, bullring, etc. In the beach you
 can find beach bars and Buddha nightclub.
-
-
-
-
-
-[back to Beaches](..)

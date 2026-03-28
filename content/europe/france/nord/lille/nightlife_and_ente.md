@@ -23,9 +23,5 @@ Vieux Lille is lined with restaurants that specialize in regional dishes. Make s
 
 **Contributors**
 April 13, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)
 
 April 16, 2010
-change
-by [2 many commas](/member/2_many_commas)

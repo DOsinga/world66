@@ -25,7 +25,4 @@ some building of social or communal use, etc., grouped all of them
 forming joint or districts that articulate around two main streets and
 one make the rounds compares to the main wall.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections on 11 March 05

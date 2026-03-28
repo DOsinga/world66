@@ -1,8 +1,6 @@
 ---
 title: "Tulum"
 type: location
-latitude: 20.689419
-longitude: -88.200311
 ---
 
 The setting of Tulum is perfect. It is something out of a James Bond movie. The dramatic Mayan ruins of Tulum stand on a cliff overlooking the Caribbean sea. 

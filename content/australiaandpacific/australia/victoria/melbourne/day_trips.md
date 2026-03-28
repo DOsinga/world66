@@ -16,5 +16,3 @@ Gris/Grigio, but there are many other varieites as well.
 
 **Contributors**
 January 31, 2006
-new
-by [darby2](/member/darby2)

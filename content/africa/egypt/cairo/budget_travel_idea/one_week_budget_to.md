@@ -5,8 +5,6 @@ address: "Garden City, Alexandria, Egypt"
 email: "info@ramsestours.com"
 phone: "00 2 010 214 29 48"
 url: "www.ramsestours.com"
-latitude: 31.209252
-longitude: 29.95281
 ---
 
 ***Day 1:**
@@ -134,5 +132,3 @@ url: [www.ramsestours.com](http://www.ramsestours.com)
 address: Garden City, Alexandria, Egypt
 
 email: info@ramsestours.com
-
-[back to Budget Travel Ideas](..)

@@ -67,9 +67,5 @@ from around the world.
 
 **Contributors**
 March 12, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 17, 2010
-change
-by [suegabel](/member/suegabel)

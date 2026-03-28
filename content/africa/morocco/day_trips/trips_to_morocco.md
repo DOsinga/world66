@@ -5,8 +5,6 @@ address: "Hay Salam 378"
 email: "info@tripstomorocco.com"
 phone: "+212667380748"
 url: "www.tripstomorocco.com"
-latitude: 32.999106
-longitude: -7.633543
 ---
 
 **1st day :Marrakech
@@ -43,42 +41,6 @@ dunes-Tamrdanite-Khamlia Hassi el-bied -Merzouga.**
 
 Waking up by the camel
 guide very earlier to witness the sunrise then enjoying your breakfast in
-the berber camp .After that You will trek back to your hotel where you
-can have a room to shower and refrech your body after your desert experience
-with the camel then get ready for the excursion around Erg Chebbi dunes
-to discover and visit the area of erg chebbi taking you through the sand-sea
-dunes near the Algerian border where you can have the chance to take photos and
-see the black volcanic rock, also you can meet a nomad families and see their
-nomadic lifestyle. Next you will pass close to tiny Berber villages like
-Tamrdanite before you reach Khamlia. In Khamlia (very little village in desert)
-you will enjoy moments of spiritual Gnawa music that is played with black
-people whom are the inhabitants of this village. In our way to the hotel you
-will be enchanted with the view of the lake of Ait Sareji (especially In
-springtime) which attracts pink flamingos and many others birds. Back to the
-Hotel for rest and enjoying the swimming pool over a beautiful view of the big
-sand dunes .
-
-**4th day :Merzouga–
-Erfoud – ziz valley –Errachidia – Midalet –Azrou –Ifran – Fez .**
-
-After breakfast we will
-leave Merzouga toward Fez passing by and Ziz Valley that is
-surrounded with palm trees and you will be mesmerised with the views of
-volcanic rock and near by Errachidia ,then Continuing the road through
-the Middle Atlas Mountains and observe the nomads that live there to arrive
-to Midelt where you can enjoy your lunch .After that we drive you toward
-Azrou which is known with its green tiled roofs and beautiful cedar forests
-that are the residence for monkeys , Then Ifran that is known as the
-Switzerland of Morocco head to the final station of the day which’s Fez.
-
-
-
-tel: +212667380748
-
-url: [www.tripstomorocco.com](http://www.tripstomorocco.com)
-
-address: Hay Salam 378
+the berber camp .After that You will trek address: Hay Salam 378
 
 email: info@tripstomorocco.com
-
-[back to Day Trips](..)

@@ -45,5 +45,3 @@ url: [www.norcalbluesfest.com](http://www.norcalbluesfest.com)
 address: 3770 Richardson Drive, Auburn, CAe
 
 email: info@norcalbluesfest.com
-
-[back to Things to do](..)

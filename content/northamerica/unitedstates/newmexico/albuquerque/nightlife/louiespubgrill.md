@@ -18,5 +18,3 @@ address: 5603 Menaul Blvd NE,
 tel: (505)881-5333
 
 zipcode: Albuquerque, NM
-
-[back to Nightlife and Entertainment](..)

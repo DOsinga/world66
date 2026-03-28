@@ -1,0 +1,4 @@
+---
+title: "Surnadal"
+type: location
+---

@@ -1,12 +1,8 @@
 ---
-title: "liberty north carolina Travel Guide"
+title: "liberty north carolina"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 its the greatist city in the world
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 13:14

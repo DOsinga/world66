@@ -7,10 +7,7 @@ What can you call the southern part of the [South Island](/australiaandpacific/n
 
 The largest city in Southland is [Invercargill](/australiaandpacific/newzealand/invercargill).
 
-*Change history*
-Orginal article by [Huttite](/member/huttite) on 10 January 05
-
-Minor corrections by [Huttite](/member/huttite) on 11 January 05
+Minor corrections on 11 January 05
 
 ## Destinations in Southland
 

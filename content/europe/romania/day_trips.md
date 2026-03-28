@@ -42,12 +42,8 @@ Don't miss out on this opportunity of a lifetime...
 
 **Contributors**
 July 24, 2008
-change
-by [psychoralu](/member/psychoralu) (1 point)
 
 August 14, 2006
-change
-by [romaniatours](/member/romaniatours)
 
 ### [Tour of Sinaia and Bran from Bucharest](/europe/romania/day_trips/tour_of_sinaia_and)
 

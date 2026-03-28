@@ -9,8 +9,6 @@ There are many bars, cafes, clubs and pubs in Wollongong to cater to all tastes.
 
 **Contributors**
 September 13, 2007
-new
-by [kstashuk](/member/kstashuk) (1 point)
 
 ### [North Wollongong Hotel](/australiaandpacific/australia/newsouthwales/wollongong/bars_and_cafes/north_wollongong_h)
 

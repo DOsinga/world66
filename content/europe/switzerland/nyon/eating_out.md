@@ -16,5 +16,3 @@ address: Rue de rive 28
 tel: 022 361 22 41
 
 bookingurl: [www.restorive-nyon.ch](http://www.restorive-nyon.ch)
-
--->

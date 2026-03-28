@@ -17,9 +17,3 @@ Any of the locals can tell you their favority mountain destination, but
 some of the highlights are Dahlonega, the site of the first American
 gold rush; Helen, a touristy and fun alpine-look-alike town; and Athens,
 artsy home to University of Georgia.
-
-
-
-
-
-[back to Day Trips](..)

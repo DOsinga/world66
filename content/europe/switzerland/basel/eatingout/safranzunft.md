@@ -6,8 +6,6 @@ email: "info@safran-zunft.ch"
 phone: "+41 (0)61 -  269 94 94"
 type: "Local"
 zipcode: "4001 Basel"
-latitude: 47.557202
-longitude: 7.588241
 ---
 
 Historic building with first class regional cooking. specialty: Fondue Bacchus.
@@ -25,5 +23,3 @@ address: Gerbergasse 11
 tel: +41 (0)61 - 269 94 94
 
 zipcode: 4001 Basel
-
-[back to Eating Out](..)

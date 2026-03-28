@@ -19,7 +19,4 @@ The Sea Pines Racquet Club has grown into one of the premier resources for tenni
 
 The great advantage of having a Hilton Head Island vacation in Sea Pines is that you have the liberty to stay wherever you want, there are great deals and golf packages and you can arrange for almost any type of activity on the island. Whether it is bicycle rentals, tee times, free tennis, or water activities.
 
-**Change history**
-Orginal article by [iszatmary](/member/iszatmary) on 03 May 05
-
 type: Hotspots

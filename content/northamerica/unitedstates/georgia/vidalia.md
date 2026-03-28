@@ -1,9 +1,9 @@
 ---
-title: "Vidalia Travel Guide"
+title: "Vidalia"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Vidalia was named by the daughter of the man who built the Savannah, Americus and Montgomery Railroad, and is a contraction of ``via dalia,'' for ``by way of the dahlias.''
 
@@ -20,7 +20,3 @@ Through the 1950s and 60s, production grew at a slow but steady pace, reaching s
 Beginning in 1990, technology borrowed from the apple industry was adapted to begin the controlled atmosphere (CA) storage of Vidalia Onions. Now some 20,000,000 pounds of Vidalia Onions can be put into CA storage for up to six months, thus extending the marketing of the Vidalias through the fall and into the holiday season.
 
 In 1991, the Vidalia Onion Committee began to annually honor one individual with introduction into the Vidalia Onion Hall of Fame. The committee considers the recipient's character, reputation and overall contribution to the growth and success of the Vidalia Onion. Inductees must be a leader in one or more of the following areas: protecting and promoting the name of the Vidalia Onion; protecting and promoting the quality of the Vidalia Onion; advertising and promoting the Vidalia Onion; sales of Vidalia Onions and creative selling methods; or research and growth development of the Vidalia Onion.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 04:00

@@ -7,8 +7,6 @@ opening_hours: "Tue-Sun and bank Holidays 10.00 am to 5.00 pm, Mondays closed"
 phone: "+31(0)318-591241"
 type: "Hotspots"
 url: "www.kmm.nl"
-latitude: 52.096224
-longitude: 5.817664
 ---
 
 Must see

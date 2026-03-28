@@ -90,5 +90,3 @@ They've got both kinds of music: country *and* western!
 a memorial for young Gerald Haynes a young alakan man who was brutely murderedChilkoot Charlie's bar in Alaska on Friday. I recommend this is not a very unsafe invironment to sent any of body to. In the last two months there has been 2 deaths at the bar. The lates is Gerald Haynes when he was leaving the bar the bouncer started to pick on him and they followed him out and Jumped him and put him in a choke hold and beat him to his death. He had one drink at the bar. He was a very nice person and worked very hard and attended University of Alaska. There under a very large investigation and many have considered this over sized bar a death trap. And for management and bouncers to beat and strangle a person to death is very bad. Please take them of your list of places to go in Alaska exspecially when you have not inverstigated the true happenings in this bad managed place. Thank you [more..](/northamerica/unitedstates/alaska/anchorage/nightlife/california)
 
 address: california to alaska
-
--->

@@ -5,9 +5,6 @@ type: section
 
 Try the Canarian cuisine in the capitol of Gran Canaria
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
 **all**
 
 **Restaurante Casa Carmelo**
@@ -53,5 +50,3 @@ PriceOfMenu: ¬8
 address: Avda Mesa y López, 44
 
 tel: 928 22 41 99
-
--->

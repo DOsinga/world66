@@ -4,8 +4,6 @@ type: section
 email: "sri2k53@yahoo.com"
 phone: "0091-22-25423303"
 type: "Hotspots"
-latitude: 39.788474
-longitude: -92.929598
 ---
 
 gabon entry regulations, vaccinatins requriements

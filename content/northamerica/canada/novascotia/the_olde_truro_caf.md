@@ -1,9 +1,9 @@
 ---
-title: "The Olde Truro Cafe Travel Guide"
+title: "The Olde Truro Cafe"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ***A Great Cafe in the heart of Downtown Truro Nova Scotia
 Home made soups, corn chowders,Salads, Fair Trade Coffee, Latties , Caps, Espresso. Sandwiches and Wraps, Deserts, Breakfast and more. Great Service and a atmosphere that makes you feel good and relaxed because there is a lot to look at while you sit and enjoy.
@@ -19,7 +19,3 @@ Check out our new Web Site coming soon.
 Janice McDougall (owner operator)
 
 ***
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 22:00

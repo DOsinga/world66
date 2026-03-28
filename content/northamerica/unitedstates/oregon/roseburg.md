@@ -1,0 +1,4 @@
+---
+title: "Roseburg"
+type: location
+---

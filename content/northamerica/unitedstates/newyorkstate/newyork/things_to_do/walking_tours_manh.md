@@ -31,5 +31,3 @@ url: [www.walkingtoursmanhattan.com](http://www.walkingtoursmanhattan.com)
 address: PO Box 8426
 
 email: bruce@walkingtoursmanhattan.com
-
-[back to Things to do](..)

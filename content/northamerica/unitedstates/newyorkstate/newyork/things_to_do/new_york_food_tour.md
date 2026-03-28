@@ -34,7 +34,7 @@ false
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **New York Food Tours** is a company that offers numerous food tours in New York City. As a company mission, it believes that the best way for tourists and locals alike to understand the culture and history of the place is by eating and learning about the food culture.
 
@@ -64,7 +64,7 @@ false
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 With New York Food Tours one can eat
 like a local while touring historic neighborhoods, and learning about its culture
@@ -99,7 +99,7 @@ false
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Some other popular tours offered by New
 York Food Tours:
@@ -136,7 +136,7 @@ false
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 As
 one of the world’s most culturally diverse cities in the world, New York is
@@ -160,5 +160,3 @@ url: [www.foodtoursofny.com](http://www.foodtoursofny.com/index.html)
 address: New York City, NY
 
 email: contact@foodtoursofny.com
-
-[back to Things to do](..)

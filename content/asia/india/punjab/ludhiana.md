@@ -1,0 +1,4 @@
+---
+title: "Ludhiana"
+type: location
+---

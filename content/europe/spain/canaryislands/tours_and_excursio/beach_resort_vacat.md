@@ -6,8 +6,6 @@ email: "Tours@EuroAdventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
 zipcode: "36201"
-latitude: 28.655116
-longitude: -17.857269
 ---
 
 On the exciting Playa del Inglés, only a few steps away from an endless sandy beach, you will find a spacious and family-friendly hotel resort with an atmosphere in which you will be able to relax and enjoy your holiday completely.

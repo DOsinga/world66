@@ -19,5 +19,3 @@ This beach is said to be the most beautiful in all of Tunisia. When you approach
 
 **Contributors**
 January 15, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

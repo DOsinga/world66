@@ -18,5 +18,3 @@ ClosingTime: 11 pm
 tel: 78320888
 
 address: 3a Calle Poniente Casa No. 4
-
-[back to Nightlife and Entertainment](..)

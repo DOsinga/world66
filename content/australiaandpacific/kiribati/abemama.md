@@ -1,0 +1,4 @@
+---
+title: "Abemama"
+type: location
+---

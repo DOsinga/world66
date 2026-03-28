@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 email: cheekylesh_57@hotmail.com
-
-[back to Nightlife and Entertainment](..)

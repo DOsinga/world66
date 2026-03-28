@@ -8,11 +8,7 @@ Cape May New Jersey is around a 2-3 hour drive from New York. The drive of train
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
 url: [www.capemay.com](http://www.capemay.com)
-
-[back to Day Trips](..)

@@ -57,5 +57,3 @@ at a famous radio station. For tickets, call (49) (69) 1555-2000.
 
 **Contributors**
 March 26, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

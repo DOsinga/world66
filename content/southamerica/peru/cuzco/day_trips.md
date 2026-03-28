@@ -20,44 +20,7 @@ Day 3: Santa Teresa - Mandor Waterfall - Putucusi - Aguas Clientes
 Trekking into the jungle canyon to the Mandor waterfall. The hike is flat for 5 hours, and we will see the mountains of San Miguel, visit the Putucusi viewpoint, located at the top of this mountain, nice award of Machu Picchu on the other side of the Urubamba River. Have lunch next to the river and continue hiking to the town of Aguas Calientes. Today is one of the best opportunities for bird watching along this day, the most common bird in this area is the cock of rock (Peruvian national bird). Stay at the selected hotel in Aguas Calientes, optional visit the hot sprig next to this town (B-L-D).
 Day 4: Machu Pichu - Cusco
 
-Early morning breakfast at the hotel and trekking up to Machu Picchu before the sunrise come up. To be the first people in the citadel is one of the best options on all day. Completely guide tour to Inca remain, free time to explore independently this Inca sacred city, if the time permitting climb to Wayna Picchu, the climb takes one and half hour. At 2pm is time to descend by van to Aguas Calientes. Backpacker train back to Cusco. Stay at the selected hotel in Cusco (B-S).
-**B** = Breakfast **L** = Lunch **D** = Dinner **S** = Snack
-Included
-
-Official English speaking guide for biking and trekking (two guides for groups over 8 persons)
-Public bus (backpacker service) or private van (private VIP service) for transfer from Cusco to Abra Malaga
-GT/TREK Mountain bikes (aluminum tubing - disk brake - shimano gear)
-Helmet and wind proof gloves
-Experienced cook
-Cooking equipment
-Teatime everyday (coffee, tea, popcorn, biscuit)
-Local family lodge to saty in Santa Maria and Santa Teresa
-Over night in a hotel of Aguas Calientes
-All meals on the trail (3 breakfast - 3 lunches - 3 dinners)
-Tourist bus from Aguas Calientes - Machu Picchu - Aguas Calientes, most of other companies dont include this service
-Backpacker train back from Aguas Calientes to Cusco
-New shimano parts and repair kit
-Peru Adventure Tours Present
-Biking & Trekking price include all local sales taxes (19%)
-First aid kit and oxygen bottle for any participant and our camp staff
-
-**2008 RATES**
-
-**Backpacker service** (Public bus)
-1 to more paticipants US$315 each
-
-**Private VIP service** (Private van/guide)
-2 participants US$415 each
-3-4 paticipants US$375 each
-5 to more participants US$355 each
-
-http://www.peruadventurestours.com/en/cusco/machupicchu_adventure.html
-
-Peru Adventure Tours
-
-### [BIKE TOUR TO MORAY MARAS AND MACHU PICCHU](/southamerica/peru/cuzco/day_trips/bike_tour_to_moray)
-
-**Mixed Tour To Discover Agricultural Laboratory, Salt Mines And The Best Inca Archaeological Site Of South America 2 Days - 1 Night**
+Early morning breakfast at the hotel and trekking up to Machu Picchu before the sunrise come up. To be the first people in the citadel is one of the best options on all day. Completely guide tour to Inca remain, free time to explore independently this Inca sacred city, if the time permitting climb to Wayna Picchu, the climb takes one and half hour. At 2pm is time to descend by van to Aguas Calientes. Backpacker train **Mixed Tour To Discover Agricultural Laboratory, Salt Mines And The Best Inca Archaeological Site Of South America 2 Days - 1 Night**
 
 Moray, Maras And Machu Picchu bike tour are dedicated for all mountain biking lovers, this bike tour goes through agricultural laboratory, salt mines and the most famous Inca archaeological site in South America.
 Bike ride on the sacred valley offer you to get know local Andean communities and learn their amazing life style. Mountain Biking is a relatively new sport in Peru, but new routes are rapidly being opened up, [more..](/southamerica/peru/cuzco/day_trips/bike_tour_to_moray)

@@ -8,7 +8,3 @@ This is a French resturant recided in Antananarvio, which is French Cuisine. You
 I RATE THIS 5 OUT OF 5!!!!!!!
 
 type: African
-
-
-
-[back to Eating Out](..)

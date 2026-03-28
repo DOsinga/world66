@@ -7,7 +7,4 @@ More properly called Bowness-on-Windermere, this is a town developed as a touris
 
 http://www.visitcumbria.com/amb/winsteam.htm
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 06 December 04
-
-Minor corrections by [davidx](/member/davidx) on 06 December 04
+Minor corrections on 06 December 04

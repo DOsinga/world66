@@ -5,8 +5,6 @@ address: "Gueliz , Marrakech"
 email: "disfrutapormarruecos1@gmail.com"
 phone: "+212670250110"
 url: "www.morocco-culture-tours.com"
-latitude: 31.630429
-longitude: -8.017673
 ---
 
 Morocco Culture Tours is a small company based in Marrakech run by Mohamed, offering private tailored guided cultural tours for singles, couples, families and small groups all around Morocco highlighting the very best of it’s imperial cities, ancient Medinas, Atlas Mountains, Kasbahs and Sahara desert.
@@ -29,5 +27,3 @@ url: [www.morocco-culture-tours.com](http://www.morocco-culture-tours.com/)
 address: Gueliz , Marrakech
 
 email: disfrutapormarruecos1@gmail.com
-
-[back to 7 Day Itinerary](..)

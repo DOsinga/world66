@@ -41,5 +41,3 @@ Peterhof or Petrodvorets, the former Russian imperial residence, Pavlovsk (18th-
 Start, for instance with the Peter`s and Paul`s fortress that is just a remarkable , historic and architectural memorial in Saint-Petersburg. "
 dc:creator="World66"
 dc:date="" />
-
--->

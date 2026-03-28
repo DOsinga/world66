@@ -11,11 +11,7 @@ It takes about an hour from Frankfurt to reach Heidelberg, a beautiful city in G
 
 **Trier**
 
-Located 120 miles southwest of Frankfurt, Trier is the oldest city in Germany, dating back to Roman era. Trier Cathedral, erected by Constantine in A.D. 326, is the oldest construction in Germany. The cathedral treasury inside Trier Cathedral showcases ancient relics of different periods of time. Besides the cathedral, St. Matthias Abbey, the imposing black gate called Porta Nigra, the 13th-century parish church Liebfrauenkirche and Basilica of Constantine are some of the popular tourist attractions here. Trier’s Market Square is also a nice location to spend an evening with your family.
-
-**Middle Rhine Valley**
-
-About 80 km from[Frankfurt](/europe/germany/hessen/frankfurt/nightlife), Middle Rhine Valley has plenty of stunning sights to explore including castles, historic towns and vineyards. The rock of Loreley and the remnants of the astounding fortress of Burg Rheinfels are the most visited sites here. Castles like Marksburg Castle, Ehrenbreitstein and Schloss Stolzenfels are also worth a visit. Besides, you can get some recreation out of being involved in outdoor activities like hiking, biking, boat trips and playing golf.
+Located 120 miles southwest of Frankfurt, Trier is the oldest city in Germany, dating , Middle Rhine Valley has plenty of stunning sights to explore including castles, historic towns and vineyards. The rock of Loreley and the remnants of the astounding fortress of Burg Rheinfels are the most visited sites here. Castles like Marksburg Castle, Ehrenbreitstein and Schloss Stolzenfels are also worth a visit. Besides, you can get some recreation out of being involved in outdoor activities like hiking, biking, boat trips and playing golf.
 
 **Mainz**
 
@@ -23,5 +19,3 @@ Located at the confluence of the Main and Rhine Rivers in Germany, Mainz is an i
 
 **Contributors**
 March 26, 2010
-change
-by [ashmita](/member/ashmita_)

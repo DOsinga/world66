@@ -5,7 +5,3 @@ type: "Seafood"
 ---
 
 type: Seafood
-
-
-
-[back to Eating Out](..)

@@ -1,7 +1,9 @@
 ---
-title: "Gabiley Travel Guide"
+title: "Gabiley"
 type: location
 ---
+
+Travel Guide
 
 **Location **
 
@@ -55,13 +57,7 @@ Even though the district is the bread basket of Somaliland, country's 3rd most p
 
 Finally, it is both the responsibility of the local people and the Somaliland Diaspora to find a solution about this problem and at least build One (1) Hospital for the district's 500,000 or half a million people without hospitals.
 
-*Part or or all of this text stems from the original article at: http://www.gabileyhospital.com/gabiley.htm*
-
 **Contributors**
 June 21, 2006
-new
-by [reen](/member/reen)
 
 September 04, 2006
-change
-by [giorgio](/member/giorgio)

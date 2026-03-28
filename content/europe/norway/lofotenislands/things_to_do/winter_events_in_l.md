@@ -20,8 +20,6 @@ Finally, a little reminder: It is a good idea not to have too much on your winte
 
 **Contributors**
 December 20, 2005
-change
-by [reen](/member/reen)
 
 type: Other
 
@@ -30,5 +28,3 @@ type: Other
 email: post@lofoten-winter.com
 
 url: [www.lofoten-winter.com](http://www.lofoten-winter.com)
-
-[back to Things to do](..)

@@ -1,0 +1,4 @@
+---
+title: "Altena"
+type: location
+---

@@ -14,5 +14,3 @@ walk around and look for it yourself.
 
 **Contributors**
 June 05, 2006
-new
-by [joosts](/member/joosts) (4 points)

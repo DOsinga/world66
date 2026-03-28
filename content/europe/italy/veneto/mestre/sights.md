@@ -23,5 +23,3 @@ A vacation is never complete without shopping. The Le Barche Shopping Center in 
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

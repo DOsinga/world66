@@ -29,5 +29,3 @@ url: [www.mysteryperu.com](http://www.mysteryperu.com/eng/co_cerro_blanco.html)
 address: Ignacio Morsesky 126 - Nazca
 
 email: info@mysteryperu.com
-
-[back to Sights](..)

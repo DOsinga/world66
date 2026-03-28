@@ -14,5 +14,3 @@ There are a number of good restaurants in Gorki street, accross the street from 
 The restaurant of the Intourist is certainly the most impressive of town. It's a very big hall. The service can be a bit slow, bu the food is OK.
 
 address: Ninoshvili Kucha 11
-
--->

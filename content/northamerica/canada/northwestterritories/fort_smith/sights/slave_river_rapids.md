@@ -11,13 +11,9 @@ These are pics of the Mountain Portage Rapids and the Rapids of the Drowned on t
 
 **Contributors**
 January 22, 2005
-new
-by [mediamentor](/member/mediamentor) (1 point)
 
 type: Palaces
 
 
 
 url: [www.flickr.com](http://www.flickr.com/photos/george-lessard/sets/67059/)
-
-[back to Sights](..)

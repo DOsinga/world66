@@ -1,12 +1,8 @@
 ---
-title: "Friday Harbor Travel Guide"
+title: "Friday Harbor"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 IT IS A BEST PLACE TO TRAVEL IN WASHINGTON.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 00:34

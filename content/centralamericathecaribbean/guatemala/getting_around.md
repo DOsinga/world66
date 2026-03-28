@@ -20,3 +20,13 @@ The trolley is a new transportation service in Antigua and is designed purely fo
 **Taxi**
 
 A taxi is the most preferred form of transportation if you are going for a long distance travel. Be sure that before you take a ride, you have made a fare arrangement. If you think that the driver is charging you too much, then do the art of bargaining. If he will not bargain, you have the option to scout for more taxis. There are more taxis in Antigua. For sure, you can get one that suits your travel budget.
+
+**By Air: **Flores is served three times daily at 7:30 AM, 10:40 AM, and 6:00 PM by INTER air. The cost is listed at $110 round trip. 
+
+Write up on 22 February 04
+
+Minor corrections on 22 February 04
+
+We currently have no Getting Around listed in Guatemala.
+
+If you do know any Getting Around in Guatemala, please [Add].

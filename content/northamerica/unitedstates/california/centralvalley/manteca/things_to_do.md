@@ -10,8 +10,6 @@ Attractions for every season
 
 **Contributors**
 July 29, 2009
-new
-by [mantecacvb](/member/mantecacvb)
 
 ### [Dell'Osso Farms Corn Maze](/northamerica/unitedstates/california/centralvalley/manteca/things_to_do/dellosso_farms_co)
 

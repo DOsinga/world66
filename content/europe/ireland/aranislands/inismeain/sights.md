@@ -17,20 +17,6 @@ This smaller fort is not as impressive as its big brother and is situated on the
 
 LEABA CHINNDERIG - Saint Kenderrig's grave
 
-situated behind the priest's house in the middle of the island this grave dates back to the 7th century at least. Reported to be the resting place of a Leinster Princess the locals hold an annual mini-pilgrimage on the 15th of August to the grave and Saint Kenderig's Well in the adjoining field. Access is through the priest's garden and visitors should not be shy of passing through.
-
-TEAMPALL AN SEACHT MAC RÍ - the Temple of the Seven Princes
-
-Accessis through the priest's garden again and this little church is situated directly beside Saint Kenderig's Grave. The remains are unremarkable, all that stands is a rectangular wall structure with a doorway and one window. The monument is badly maintained and quite overgrown, as a result visitors rarely bother and leave the area after seeing Saint Kenderig's grave without regard to the old church.
-
-**all**
-
-**Our Lady & St John**
-
-The Catholic Church on the island contains some very beautiful stained glass made by the famous Harry Clarke studios. The stonemason who built the altar was the father of Patrick Pearse. (Pearse was the man who read the declaration of independance in 1916.) The Church has a delightful wooden interior and is a very nice place to go and light a candle. The Church is situated in the middle of the island along the main road just before you reach Dún Crocbhur. [more..](/europe/ireland/aranislands/inismeain/sights/our_lady__st_john)
-
-openings: Daily 8am-dark
+situated behind the priest's house in the middle of the island this grave dates openings: Daily 8am-dark
 
 tel: (099) 73008
-
--->

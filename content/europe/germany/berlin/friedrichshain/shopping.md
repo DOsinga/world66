@@ -42,5 +42,3 @@ Second Hand Stuff
 connections: U Frankfurter Tor
 
 address: Simon-Dach-Str. 12
-
--->

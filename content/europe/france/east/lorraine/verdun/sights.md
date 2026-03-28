@@ -10,5 +10,3 @@ type: section
 [World War I](/europe/france/east/lorraine/verdun/sights?subsection=World%20War%20I)
 
 [Museums](/europe/france/east/lorraine/verdun/sights?subsection=Museums)
-
--->

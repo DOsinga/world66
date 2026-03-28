@@ -12,8 +12,6 @@ Hollywood Bowl has been an L.A. institution since 1922 and only the world's grea
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Concerts
 
@@ -26,5 +24,3 @@ url: [www.hollywoodbowl.com](http://www.hollywoodbowl.com)
 address: 2301 Highland Avenue, Los Angeles
 
 email: museum@laphil.org
-
-[back to Nightlife and Entertainment](..)

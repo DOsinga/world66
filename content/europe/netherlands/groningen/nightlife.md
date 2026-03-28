@@ -5,23 +5,44 @@ type: section
 
 The best street to head for at night is the Peperstraat. Many places where you can listen to life music. 
 
-## Subsections
+**all**
 
-[Bars](/europe/netherlands/groningen/nightlife/bars)
-[Clubs](/europe/netherlands/groningen/nightlife/clubs)
-[Coffee Shops](/europe/netherlands/groningen/nightlife/coffeeshops)
-[Dance](/europe/netherlands/groningen/nightlife/dance)
-[Disco](/europe/netherlands/groningen/nightlife/disco)
-[Erotic](/europe/netherlands/groningen/nightlife/erotic)
+**www.latinnet.nl**
 
-[Gay & Lesbian](/europe/netherlands/groningen/nightlife/gaylesbian)
-[Grand Café](/europe/netherlands/groningen/nightlife/grandcaf)
-[Jazz Clubs](/europe/netherlands/groningen/nightlife/jazzclubs)
-[Live Music](/europe/netherlands/groningen/nightlife/livemusic)
-[Lounge](/europe/netherlands/groningen/nightlife/lounge)
+The site www.latinnet.nl is the most complete site for salsa and other latin music in the city of Groningen (The Netherlands). It includes an event calendar and a photo gallery.
 
-[Pubs](/europe/netherlands/groningen/nightlife/pubs)
-[Rock](/europe/netherlands/groningen/nightlife/rock)
-[Salsa](/europe/netherlands/groningen/nightlife/salsa)
-[Student Pubs](/europe/netherlands/groningen/nightlife/studentpubs)
-[Xtreme](/europe/netherlands/groningen/nightlife/xtreme)
+bookingurl: [www.latinnet.nl](http://www.latinnet.nl)
+
+email: info1@latinnet.nl
+
+**het feest**
+
+**Debbie Nauta :** Een danscafé waar echt alles mogelijk is! De opzwepende muziek, bruisende cocktails, magische shooters en adem benemende barmannen brengen je in extase.
+
+address: peperstraat
+
+pc: 97
+
+**Het Feest**
+
+**Jan-willem Navis :** Mooi tropisch ingericht café dat furore maakt met skihut muziek en toeters en bellen. Op donderdag en zaterdag stampvol en dus gezellig. Ga achterin de draaibar voorbij en zoek naar het kleine barretje dat hier verscholen ligt. Een van Groningen's betere kroeg [more..](/europe/netherlands/groningen/nightlife/hetfeest1)
+
+address: peperstraat
+
+**Madhouse**
+
+**Iris Djordjevic :** Kleine en gezellige bar met twee etages waar de muziek uiteen loopt van hard core tot smartlap en van r&b tot trance. **Jan-willem Navis :** Een waardeloze kleine dertien in een dozijn disco vol met pubers. Inrichting is kaal en saai en doet verget [more..](/europe/netherlands/groningen/nightlife/madhouse)
+
+address: Peperstraat
+
+**Index **
+
+Index is a large disco where you can dance and swing. Mostly students.  
+
+address: Poelestraat 53
+
+**De Spieghel **
+
+Live jazz music in the weekend.
+
+address: Peperstraat 11

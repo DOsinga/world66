@@ -1,9 +1,9 @@
 ---
-title: "Holiday Inn Philadelphia-Cherry Hill Travel Guide"
+title: "Holiday Inn Philadelphia-Cherry Hill"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Name:**
 
@@ -47,7 +47,3 @@ this hotel offering many special packages and onsite amenities.
 **Phone**: 1-856-663-5300
 
 **Email :** gm@holidaycherryhill.com
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 00:35

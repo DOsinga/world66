@@ -10,9 +10,6 @@ url: "www.kingfisherseafood.com"
 
 Over 250 restaurants run the gamut of casual to elegant dining options on the island. Fresh seafood abounds. From five star formal restaurants to fast food and everything in between, every taste and budget is catered to on the island.
 
-**Change history**
-Orginal article by [iszatmary](/member/iszatmary) on 03 May 05
-
 ### Kingfisher Seafood & Steak House
 
 Fresh Fish "Never Frozen", spacious dining (inside or outside deck)

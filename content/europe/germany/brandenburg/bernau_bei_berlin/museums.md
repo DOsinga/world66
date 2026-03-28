@@ -11,8 +11,6 @@ Bernau has two museums, that can be visited in summertime. The "*Heimatmuseum*" 
 
 **Contributors**
 October 07, 2006
-new
-by [bernhadette](/member/bernhadette) (2 points)
 
 ### [Heimatmuseum (Steintor)](/europe/germany/brandenburg/bernau_bei_berlin/museums/heimatmuseum_stei)
 

@@ -12,9 +12,5 @@ brand new huge buterfly garden, just to name a few.
 
 **Contributors**
 September 06, 2005
-new
-by [jessica fickett](/member/jessica_fickett)
 
 September 07, 2005
-change
-by [giorgio](/member/giorgio)

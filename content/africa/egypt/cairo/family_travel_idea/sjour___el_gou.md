@@ -21,5 +21,3 @@ url: [avec-vacances-a-la-Mer-Rouge.php](http://avec-vacances-a-la-Mer-Rouge.php)
 address: 124 rue des pyramides, Gizeh
 
 email: amany@egyptonlinetours.com
-
-[back to Family Travel Ideas](..)

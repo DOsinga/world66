@@ -11,8 +11,6 @@ Gambler's Book Shop carries more than 4,000 books on everything from the art of 
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Book shops
 
@@ -23,5 +21,3 @@ tel: 702-382-7555
 url: [www.gamblersbook.com](http://www.gamblersbook.com)
 
 address: 630 South 11th Street
-
-[back to Shopping](..)

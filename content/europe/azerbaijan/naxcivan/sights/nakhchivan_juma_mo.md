@@ -8,11 +8,5 @@ Nakhchivan Juma Mosque – this monument belongs to Middle Ages as well, and it 
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Landmarks
-
-
-
-[back to Sights](..)

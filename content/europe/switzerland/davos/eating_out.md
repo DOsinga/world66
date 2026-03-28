@@ -224,5 +224,3 @@ pc: 7270 Davos Platz
 address: Talstrasse 52
 
 tel: 41-81464666
-
--->

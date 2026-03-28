@@ -1,9 +1,9 @@
 ---
-title: "Neretva Travel Guide"
+title: "Neretva"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Neretva flows through Bosnia and Herzegovina and Croatia and it is the largest karst river in the Dinaric Alps in the entire eastern part of the Adriatic basin, which belongs to the Adriatic river watershed. The total length is 230 km, of which 208 km are in Bosnia and Herzegovina. The size of the Neretva watershed is 10,380 km2 in total; in Bosnia and Herzegovina 10,110 km2 with the addition of the Trebišnjica river watershed. The average discharge at profile Žitomislići in Bosnia and Herzegovina is 233 m3/s in addition to the Trebišnjica River's 402 m3/s. The Trebišnjica River basin is included in the Neretva watershed due to a physical link of the two basins by the porous karst terrain.
 
@@ -90,44 +90,4 @@ on 23 July 2004.
 It is traditional for the young men of the town to leap from the 24
 meter high bridge into the Neretva. As the Neretva is very cold, this
 is a very risky feat and only the most skilled and best trained divers
-will attempt it. The practice dates back to 1566, the time the bridge
-was built, and it was held every summer ever since in front of the huge
-audience. However, the first recorded instance of someone diving off
-the bridge is from 1664. In 1968 a formal diving competition was
-inaugurated and held every summer.
-
-Počitelj
-is situated on a hill near Mostar and is easily accessible by bus. As
-many other Bosnian sites, this town is Ottoman in its nature. It is a
-historic fortified town with a hostel (caravanserai) and a hamam underneath it. There is also a traditional mosque which can be visited. During the Bosnian War Pocitelj was badly damaged and most of its residents fled away and never returned. Nonetheless, some Bosniaks still reside in this beautiful town and still enjoy the unique atmosphere of their traditional houses and food.
-
-One of the most significant monuments of Roman times in Bosnia and Herzegovina is certainly **Mogorjelo**,
-yet another pearl of Neretva's long strand of pearls of ancient
-cultural and natural heritage sites. Located 1 kilometer south of the
-town of Čapljina, Mogorjelo remnants of the old Roman suburban *Villa Rustica*
-from the 4th century represents ancient Roman agricultural production
-and estate, mills, bakeries, olive oil refinery and forges. The destruction of the Villa came in the middle of the 4th century, during the invasion of western Goths.
-Residents who survived invasion and destruction did not have any
-further opportunities to renew it to its full splendor. There are two
-theories about the name of Mogorjelo.
-First one assumes that the place had burnt several times, so the root
-of the name was derived from a word “burn” (Slavic – goriti). Another
-theory is that at the end of the 5th century the church was built on
-the ruins of Villa, and it was dedicated to *St. Hermagor – Mogoru*, for whom the site was named.
-
-Gabela is a rich archeological site on the Neretva bank, situated 5 kilometres south of the town of Čapljina. Among a great number of notable medieval buildings, there are still remains of *Old City* walls, as well as a sculpture of a ***stone lion*** – a symbol of Venetian culture. For its remarkable geostrategic position, Gabela was linked to Homer's most famous work – the *Iliad*. Mexican Homeric scholar and amateur archeologist Roberto Salinas Price has claimed that Gabela was actually ancient Homer's Troy.
-
-The famous *Battle of Neretva* is a 1969 Oscar-nominated motion picture depicting real events from the Second World War and the actual Battle of the Neretva (Bosnian, Croatian, Serbian, Serbo-Croatian: *Bitka na Neretvi*). Codenamed *Fall Weiß*, the operation was a German strategic plan for a combined Axis attack launched in early 1943 against the Yugoslav Partisans throughout occupied Yugoslavia
-during the Second World War. The offensive took place between January
-and April 1943. The operation is generally known as the Fourth
-Anti-Partisan Offensive, while it is also known as the Fourth Enemy
-Offensive (*Četvrta neprijateljska ofenziva/ofanziva*) or the Battle for the Wounded (*Bitka za ranjenike*).
-At some point during the battle, the Partisans were caught in a pocket
-with their back to the Neretva River. The movie depicts events that
-happened on the banks of the river Neretva near Jablanica while 20,000 Partisans under command of Marshal Tito struggled to save some 4500 wounded comrades and typhus patients together with the Supreme Headquarters and Main Hospital, against some 150,000 Axis combatants.
-
-*Part or or all of this text stems from the original article at: Wikipedia*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 15:04
+will attempt it. The practice dates

@@ -27,5 +27,3 @@ Located in the heart of Medellin city, Veracruz is a Roman Catholic Church notab
 
 **Contributors**
 February 12, 2010
-change
-by [ashmita](/member/ashmita_)

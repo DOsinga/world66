@@ -7,5 +7,3 @@ Minnesotans fully embrace the climate they live in, so there are festivals throu
 
 **Contributors**
 March 19, 2007
-new
-by [damiansgrrl](/member/damiansgrrl)

@@ -1,0 +1,4 @@
+---
+title: "Curacao"
+type: location
+---

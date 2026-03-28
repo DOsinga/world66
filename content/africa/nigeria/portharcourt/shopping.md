@@ -64,5 +64,3 @@ to find your perfect pair.
 
 **Contributors**
 April 11, 2010
-new
-by [joekabuya](/member/joekabuya)

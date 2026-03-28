@@ -1,16 +1,11 @@
 ---
-title: "Kirkwall Travel Guide"
+title: "Kirkwall"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Kirkwaall
 
 More information on
 *Kirkwall Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 22:58

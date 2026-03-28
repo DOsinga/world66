@@ -1,12 +1,8 @@
 ---
-title: "Dieppe Travel Guide"
+title: "Dieppe"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Dieppe is a city next to Moncton
-
-Page last generated on Wed 07:17
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Motueka"
+type: location
+---

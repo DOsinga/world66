@@ -1,8 +1,6 @@
 ---
 title: "Ballarat"
 type: location
-latitude: -37.562301
-longitude: 143.860565
 ---
 
 About 100 km west of Melbourne lies the charming town of Ballarat. Ballarat started to thrive after gold was found in the area arond 1850. After the gold was all mined, some really rich quartz fields were discovered, that were worked untill the end of WW I. Ballarat developed into a major provincial town, with a lot of matching Victorian architecture, much of which can be found along Lydiard Street. 

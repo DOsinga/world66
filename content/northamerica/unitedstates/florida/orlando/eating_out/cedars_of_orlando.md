@@ -29,5 +29,3 @@ address: 7732 W Sand lake Road
 PriceOfMenu: $5 - $30
 
 email: rsvp@cedarsoforlando.com
-
-[back to Eating Out](..)

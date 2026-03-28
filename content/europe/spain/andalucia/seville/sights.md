@@ -11,14 +11,4 @@ The historical centre of political, religious and economic power has traditional
 
 On the other side of the Plaza del Triunfo, the Archives of the Indies still house today the complete collection of all documents relative to the discovery and conquest of the New World. A few hundred metres away by the riverside, the Torre del Oro (Golden Tower) is another witness of Arab Sevilla, while nearby the Hospital de la Caridad (Charity Hospital), which is still an old gentlemen's home, has a splendid patio and a church with a magnificent collection of pictures by Valdes Leal and Murillo.  
 
-Do not leave this part of town without a visit to the famous Plaza de Toros, the bullring, certainly one of the most beautiful in Spain. 
-
-## Subsections
-
-[Architecture](/europe/spain/andalucia/seville/sights/architecture)
-[Bullring](/europe/spain/andalucia/seville/sights/bullring)
-
-[Cathedral & Churches](/europe/spain/andalucia/seville/sights/cathedralchurches)
-[Museums](/europe/spain/andalucia/seville/sights/museums)
-
-[Palaces](/europe/spain/andalucia/seville/sights/palaces)
+Do not leave this part of town without a visit to the famous Plaza de Toros, the bullring, certainly one of the most beautiful in Spain.

@@ -1,8 +1,6 @@
 ---
 title: "Jyvaskyla"
 type: location
-latitude: 62.241672
-longitude: 25.749581
 ---
 
 We currently have no information about Jyvaskyla.

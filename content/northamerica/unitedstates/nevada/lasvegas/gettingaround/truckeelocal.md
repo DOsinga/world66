@@ -14,9 +14,3 @@ The Monorail - goes between the Convention Center and the MGM Grand with some st
 Taxis - can be expensive and slow depending on traffic
 
 Limos - can hire them for the night or pick one up like a taxi. Very 'Vegas, i.e. expensive and over-the-top.
-
-
-
-
-
-[back to Getting Around](..)

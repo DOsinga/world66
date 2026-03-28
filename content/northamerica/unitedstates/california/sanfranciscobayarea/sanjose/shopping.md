@@ -12,8 +12,6 @@ If you are visiting the city and want to get your San Jose shopping on, check ou
 
 **Contributors**
 May 11, 2009
-change
-by [annc](/member/annc)
 
 ### [Discover Downtown San Jose](/northamerica/unitedstates/california/sanfranciscobayarea/sanjose/shopping/discover_downtown)
 

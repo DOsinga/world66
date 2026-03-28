@@ -8,8 +8,6 @@ Hiking Trails
 
 **Contributors**
 November 12, 2007
-new
-by [parrie](/member/parrie)
 
 ### [Otter Hiking Trail](/africa/southafrica/getting_around/otter_hiking_trail)
 

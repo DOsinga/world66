@@ -1,0 +1,8 @@
+---
+title: "People"
+type: section
+---
+
+**People of the Philippines** 
+
+How best to describe some of the warmest, friendly and informal people in the world? As with most predominantly Roman Catholic cultures religious traditions and customs help define the daily lives of the people, family values and their view of the world. Since arriving in the Philippines in 1980 I have felt more comfortable and at "home" than any of the more than 20 countries I have visited. My warm feeling is a direct result of the happy go lucky, easy going Filipino people all over the islands. Though over 70 language dialects, three major island regions and many of the 77 provinces lacking infrastructure help to divide Filipinos in many ways one thing they share is their love of life shown by their smiles and sense of humor. Three million Filipinos have emmigrated or work a large part of their lives outside the country but their great talent with learning and speaking different languages help make them disappear and be absorbed into every country they have gone. The many overseas Chinese worldwide also the Koreans and Japanese in North America are easiliy recognized living together in areas referred to as Chinatown, Koreatown or Japantown and introducing their cuisine wherever they go. The Philippines is the "melting pot" of Asia so Filipinos, often, are not identified as Asians but as Hispanics or Pacific Islanders and even Caucasians because of so many mixed marriages. Living in the Philippines through the years I have experienced many emotions regarding the Filipino people, concerning both their strengths and their weaknesses. It took moving

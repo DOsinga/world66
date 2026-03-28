@@ -11,8 +11,6 @@ This is one of Cleveland's newest shopping centers, and the premier shopping cen
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (4 points)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: (440) 871-6880
 url: [www.crockerpark.com](http://www.crockerpark.com/)
 
 address: http://www.crockerpark.com/
-
-[back to Shopping](..)

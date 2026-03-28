@@ -14,5 +14,3 @@ type: Speciality shops
 
 
 email: cris-peter@hotmail.com
-
-[back to Shopping](..)

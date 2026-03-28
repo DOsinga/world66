@@ -18,9 +18,3 @@ The colours of the tropical fish are amazing! They are so beautiful and varied a
 If you plan to visit Turquoise Bay take along snorkelling gear - flippers, mask, snorkel, your swimsuit, sunscreen, towells, food and drink (because the nearest food is a small tourist attraction about 15 mins drive away with only drinks and icecreams on offer). There are toilets available at the carpark for Turquoise Bay.
 
 If you're ever in the Exmouth area - stop by to visit Turquoise Bay you won't regret the time spent there and you'll be guaranteed to want to return again!
-
-
-
-
-
-[back to Beaches](..)

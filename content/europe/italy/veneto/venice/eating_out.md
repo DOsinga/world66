@@ -10,14 +10,3 @@ Venice is unique. It is, however, unique to all, approximately 22 million visito
 The question of which kind of pasta or pizza is probably more mind-boggling than the question of where to eat it: Venice is packed with restaurants and “trattorie” - simpler eating places, but mostly good quality. Besides these, you can find the so-called “rosticcerie”, the Italian variety of a snackbar where they serve plates of good food for a good price. These are usually packed with youngsters during lunch-time. Besides the well-known pastas and pizzas, a lot of places serve dishes containing fish finished off with “polenta”, a corn-based basis of various meals. Try at least once simple though tasteful traditional dishes such as “risi e bisi” (rice with peas and ham). Venice is, of course, also famous for its “pasticcerie”. Sweets, cakes and ice-creams in all sorts and sizes are a must for both locals and tourists. 
 
 Of course you will find some international restaurants as well, but as everybody knows, Italy is a food paradise and we strictly recommend the local cuisine.
-
-## Subsections
-
-[Arabic](/europe/italy/veneto/venice/eatingout/arabic)
-[Cafes & Icecream](/europe/italy/veneto/venice/eatingout/cafesicecream)
-
-[French](/europe/italy/veneto/venice/eatingout/french)
-[Local](/europe/italy/veneto/venice/eatingout/local)
-
-[Mexican](/europe/italy/veneto/venice/eatingout/mexican)
-[Vegetarian](/europe/italy/veneto/venice/eatingout/vegetarian)

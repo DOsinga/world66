@@ -10,11 +10,3 @@ www.fahrinfo-berlin.de/gis/index .jsp
 
 **Contributors**
 June 24, 2006
-new
-by [bernhadette](/member/bernhadette) (2 points)
-
-
-
-
-
-[back to Getting Around](..)

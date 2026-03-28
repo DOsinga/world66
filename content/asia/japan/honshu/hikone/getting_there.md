@@ -1,0 +1,9 @@
+---
+title: "Getting There"
+type: section
+---
+
+The best way to get to Hikone, is to take the Shinkansen to Maibara, and then the local JR service to Hikone (5 minutes).
+
+**Contributors**
+October 25, 2005

@@ -43,5 +43,3 @@ url: [www.peektours.com.au](http://www.peektours.com.au)
 address: Customs House forecourt, 31 Alfred St, Sydney NSW 2000
 
 email: gregg@peektours.com.au
-
-[back to Things to do](..)

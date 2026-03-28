@@ -10,13 +10,5 @@ If you are going on, it will be a matter of how far. Public transport is mightil
 
 **Contributors**
 November 06, 2004
-change
-by [davidx](/member/davidx)
 
 type: Trekking
-
-
-
-
-
-[back to Things to do](..)

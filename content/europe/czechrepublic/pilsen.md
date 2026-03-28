@@ -1,0 +1,4 @@
+---
+title: "Pilsen"
+type: location
+---

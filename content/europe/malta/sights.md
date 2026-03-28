@@ -4,14 +4,10 @@ type: section
 opening_hours: "Monday to  Sunday: 9.00-17.00"
 type: "Landmarks"
 url: "www.heritagemalta.org"
-latitude: 39.788474
-longitude: -92.929598
 ---
 
 **Contributors**
 October 12, 2006
-new
-by [svetico](/member/svetico)
 
 ### [Hagar Qim Temples](/europe/malta/sights/hagar_qim_temples)
 

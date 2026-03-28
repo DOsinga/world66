@@ -12,8 +12,6 @@ The restaurant itself includes two separate facilities: a cafe and restaurant th
 
 **Contributors**
 July 09, 2007
-new
-by [evanlevy](/member/evanlevy) (1 point)
 
 type: Concerts
 
@@ -26,5 +24,3 @@ url: [www.worldcafelive.com](http://www.worldcafelive.com)
 address: 3025 Walnut Street
 
 email: jmuscatello@worldcafelive.com
-
-[back to Nightlife and Entertainment](..)

@@ -23,12 +23,6 @@ This huge zoo is home to a variety of animal species like Asiatic lions, hyenas,
 
 **Cholistan Desert:**
 
-This arid area of 15,000 square miles lies east of Bahawalpur, extending into Thar Desert. It was supposed to be watered by Saraswati River in Vedic times. There were three lines of forts here built of gypsum blocks and mud. All are in ruins now, with some dating back to 1000 B.C.
+This arid area of 15,000 square miles lies east of Bahawalpur, extending into Thar Desert. It was supposed to be watered by Saraswati River in Vedic times. There were three lines of forts here built of gypsum blocks and mud. All are in ruins now, with some dating
 
-**Qila Derawar:**
-
-This is a fort that is in good condition and is still guarded. You have to take the permission of Amir of Bahawalpur to visit this fort, and an escort as well. There are tombs of Amirs of Bahawalpur here.
-
-**Jami Masjid al Sadiq:**
-
-This beautiful mosque is right in the centre of the city, and is a great attraction for locals as well as tourists.
+**what a ****good it is**

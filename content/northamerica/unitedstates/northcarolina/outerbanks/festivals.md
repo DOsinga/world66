@@ -61,5 +61,3 @@ For more information on annual festivals in the Outer Banks area, visit http://w
 
 **Contributors**
 July 05, 2007
-new
-by [klively](/member/klively) (1 point)

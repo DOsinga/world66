@@ -19,5 +19,3 @@ There are **other miscellaneous shops** which include wood-paneled shops that ma
 
 **Contributors**
 April 05, 2010
-new
-by [mbailin](/member/mbailin)

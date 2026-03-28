@@ -1,0 +1,4 @@
+---
+title: "Mestre"
+type: location
+---

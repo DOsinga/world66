@@ -13,11 +13,7 @@ The store is now owned and operated by building 19, since both the original foun
 
 **Contributors**
 May 07, 2004
-new
-by [mccart42](/member/mccart42) (1 point)
 
 December 29, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Antiques

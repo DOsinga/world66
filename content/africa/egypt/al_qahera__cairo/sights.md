@@ -24,43 +24,7 @@ Then we will move to visit the first Step Pyramid of Zoser, the world’s
 greatest and oldest stone structure. After that transfer to the old
 capital of Egypt Memphis it was considered to be a heart of rule and
 culture for over 7000 years , and see the Statue of Ramses II. Travel in
-comfort back to your hotel.
-
-I hope that you enjoy your tour of the Egyptian pyramids with Egypt Last Minute
-
-**Pyramids and Sakkara tour includes:**
-
-- All transfers by a Private air-conditioned vehicle
-
-- Private multi lingual Egyptologist
-
-- Entrance fees to all the mentioned sites
-
-- All Service charges & taxes – Tour excludes: •
-
-- Any extras not mentioned in the itinerary
-
-- Entry visa to Egypt
-**Tour excludes:**
-
-- Any extras not mentioned in the itinerary
-
-- Entry visa to Egypt.For more Info please contact us http://egyptlastminute.com/
-
-Normal
-0
-
-false
-false
-false
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-### [Day tour to Karnak & Luxor Temples](/africa/egypt/al_qahera__cairo/sights/day_tour_to_karna)
+comfort ### [Day tour to Karnak & Luxor Temples](/africa/egypt/al_qahera__cairo/sights/day_tour_to_karna)
 
 Start your day tour ,after picking you up from the hotel, to the
 east bank of Luxor where you will be accompanied by Private English

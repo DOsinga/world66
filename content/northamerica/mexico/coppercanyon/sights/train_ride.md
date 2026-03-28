@@ -9,13 +9,9 @@ For information on The Copper Canyon Train Ride.
 
 **Contributors**
 January 03, 2008
-new
-by [sentias](/member/sentias)
 
 type: Hotspots
 
 
 
 url: [amazingtours.rezgo.com](http://amazingtours.rezgo.com/2008/01/mystical-copper-canyon.html)
-
-[back to Sights](..)

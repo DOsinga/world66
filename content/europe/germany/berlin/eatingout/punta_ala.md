@@ -25,8 +25,6 @@ www.berlin.de/stadtplan/map.asp? sid=1cc8f7128dc4c59c863c2991cd1ed 623&id=11249&
 
 **Contributors**
 June 16, 2006
-new
-by [bernhadette](/member/bernhadette) (6 points)
 
 type: Italian
 
@@ -43,5 +41,3 @@ url: [www.puntaalaberlin.de](http://www.puntaalaberlin.de)
 address: Punta Ala, Siemensstrasse 40, 12247 Berlin
 
 PriceOfMenu: 2 to 9 Euro
-
-[back to Eating Out](..)

@@ -1,9 +1,9 @@
 ---
-title: "Wadi Matkhandoush Travel Guide"
+title: "Wadi Matkhandoush"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The route to Wadi Matkhandoush lies south of Germa, about four hours by 4WD. At first
 you drive at up to 100kph or more over a flat plateau of gravelly sand which brings you to Wadi
@@ -28,9 +28,3 @@ the camel was only introduced to the Sahara around 200BC.
 
 Germa is two hours
 driving from Sebha along the Wadi Al-Hayat. Further south from Wadi Matkhandoush lies Idehan Murzuq (the Murzuq Sand Sea).
-
-*Part or or all of this text stems from the original article at: http://www.pbase.com/howardbanwell/idehan_murzuq*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 12:15

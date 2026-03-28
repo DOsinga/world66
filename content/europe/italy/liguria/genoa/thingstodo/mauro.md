@@ -14,5 +14,3 @@ type: Hiking
 
 
 email: info@kayaklombardia.com
-
-[back to Things to do](..)

@@ -1,0 +1,4 @@
+---
+title: "Mulhouse"
+type: location
+---

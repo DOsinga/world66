@@ -67,5 +67,3 @@ Christmas decorations.
 
 **Contributors**
 February 21, 2010
-new
-by [huttongreen](/member/huttongreen)

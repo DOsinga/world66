@@ -8,13 +8,5 @@ Manizales airport connects the city with many other major cities in Colombia, an
 
 **Contributors**
 January 18, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

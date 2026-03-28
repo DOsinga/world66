@@ -21,8 +21,6 @@ There are several travel agencies that offer organized sailing/cycling trips to 
 
 **Contributors**
 March 13, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (2 points)
 
 ### [Ferry Holwerd Ameland island](/europe/netherlands/waddenislands/ameland_island/getting_there/ferry_holwerd_am)
 

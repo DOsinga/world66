@@ -17,5 +17,3 @@ type: Casinos
 address: Pushkinskaya ul. 10 (Mayakovskogo metro)
 
 openings: Thurs-Sat 17:00-6:00
-
-[back to Nightlife and Entertainment](..)

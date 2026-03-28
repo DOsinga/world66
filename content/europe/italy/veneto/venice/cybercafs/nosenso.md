@@ -18,5 +18,3 @@ tel: 0432-46050
 
 address: Via Cotonificio 47
 UD
-
-[back to Internet Cafes](..)

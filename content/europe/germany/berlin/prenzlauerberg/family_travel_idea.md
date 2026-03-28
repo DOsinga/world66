@@ -58,5 +58,3 @@ the tower, which is a great attraction to check out in the area.
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)

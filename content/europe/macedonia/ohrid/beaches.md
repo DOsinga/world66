@@ -8,8 +8,6 @@ Here are a few beaches you can relax in.
 
 **Contributors**
 May 31, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Ljubanista beach](/europe/macedonia/ohrid/beaches/stojances_beach)
 

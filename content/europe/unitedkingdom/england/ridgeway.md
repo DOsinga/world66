@@ -1,0 +1,4 @@
+---
+title: "Ridgeway"
+type: location
+---

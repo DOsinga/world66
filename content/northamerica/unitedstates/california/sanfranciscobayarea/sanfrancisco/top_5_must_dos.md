@@ -31,5 +31,3 @@ Go to a unique spot in the city called Russian Hill, right in the middle of Hyde
 
 **Contributors**
 March 06, 2010
-change
-by [suegabel](/member/suegabel)

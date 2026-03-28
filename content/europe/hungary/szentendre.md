@@ -1,0 +1,4 @@
+---
+title: "Szentendre"
+type: location
+---

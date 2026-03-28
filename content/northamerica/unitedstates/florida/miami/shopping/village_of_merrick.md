@@ -11,8 +11,6 @@ The Village of Merrick Park is located in upscale Coral Gables Florida, so it sh
 
 **Contributors**
 June 01, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: 305-529-0200
 url: [www.villageofmerrickpark.com](http://www.villageofmerrickpark.com)
 
 address: 358 San Lorenzo Avenue
-
-[back to Shopping](..)

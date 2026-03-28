@@ -14,8 +14,6 @@ The Gogol Museum underwent renovation in 2009 and now visitors can see the firep
 
 **Contributors**
 May 04, 2011
-new
-by [deadsouls](/member/deadsouls)
 
 
 
@@ -30,5 +28,3 @@ url: [www.domgogolya.ru](http://www.domgogolya.ru/en)
 address: 7a Nikitsky Boulevard , Moscow, Russia
 
 email: museum@domgogolya.ru
-
-[back to Museums](..)

@@ -14,5 +14,3 @@ type: Historical Buildings
 
 
 address: Lingadige Porta Vittoria
-
-[back to Sights](..)

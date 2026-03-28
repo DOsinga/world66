@@ -12,5 +12,3 @@ type: Tourist information
 
 
 url: [www.etradesman.co.nz](http://www.etradesman.co.nz)
-
-[back to Practical Information](..)

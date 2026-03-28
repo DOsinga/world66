@@ -4,8 +4,6 @@ type: poi
 address: "Spui"
 type: "Squares"
 url: "www.artplein-spui.nl"
-latitude: 52.368782
-longitude: 4.889683
 ---
 
 On the spui square you find some of the oldest buildings of Amsterdam. Be sure not the miss the Begijnhof.
@@ -27,7 +25,5 @@ Museum, is open every Sunday from 10 a.m. to 6 p.m.
 
 **Contributors**
 December 06, 2004
-change
-by [giorgio](/member/giorgio)
 
 type: Squares

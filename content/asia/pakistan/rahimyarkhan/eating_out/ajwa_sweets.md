@@ -29,5 +29,3 @@ address: Choak Pathanistan Rahim Yar Khan
 PriceOfMenu: normal
 
 email: ajwasweet@gmail.com
-
-[back to Eating Out](..)

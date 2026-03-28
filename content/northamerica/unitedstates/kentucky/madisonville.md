@@ -1,0 +1,4 @@
+---
+title: "Madisonville"
+type: location
+---

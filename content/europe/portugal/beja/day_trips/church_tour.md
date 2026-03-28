@@ -12,5 +12,3 @@ Will visit the parish church of Cuba, Alvito, Viana do Alentejo, Portel and São
 tel: +351963857776
 
 email: geral@mouriscastours.com
-
-[back to Day Trips](..)

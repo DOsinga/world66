@@ -12,8 +12,6 @@ This romantic ride is the perfect for couples and it is also a relaxing ride for
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Sailing
 
@@ -28,5 +26,3 @@ url: [www.venetian.com](http://www.venetian.com)
 address: 3355 Las Vegas Boulevard South
 
 email: reply@venetian.com
-
-[back to Things to do](..)

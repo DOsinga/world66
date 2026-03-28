@@ -14,8 +14,6 @@ Price is average range for any typical Thai place.
 
 **Contributors**
 March 13, 2007
-new
-by [mamasanlzn](/member/mamasanlzn) (1 point)
 
 type: Thai
 
@@ -26,5 +24,3 @@ type: Thai
 tel: (941) 922-0703
 
 address: 4691 Swift Rd
-
-[back to Eating Out](..)

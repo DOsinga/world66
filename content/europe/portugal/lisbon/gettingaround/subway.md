@@ -8,11 +8,7 @@ In portuguese we call it metro. You can find all information you'll need here (i
 
 **Contributors**
 October 17, 2006
-change
-by [giorgio](/member/giorgio)
 
 
 
 url: www.metrolisboa.pt
-
-[back to Getting Around](..)

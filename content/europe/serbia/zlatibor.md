@@ -1,9 +1,9 @@
 ---
-title: "Zlatibor Travel Guide"
+title: "Zlatibor"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 A favourite holiday destination for Serbs since the late 19th Century, Zlatibor is a both a town (actually called Partizanske Vode on most maps) and a plateau region of about 200 sq km in Southwest Serbia, 230km from Belgrade and 25km south of Uzice. Buses travel between Belgrade and Zlatibor several times each day and there is a good regular train service between Belgrade and Uzice.
 At an elevation of between 1000m and 1400m, the snow usually arrives in mid November and remains until March while the spring, summer and early autumn months are warm, sunny and mostly delightful. The mountain meadows of the serpentine and limestone plateau provide opportunities for almost unrestricted cross-country skiing in winter while during the snow-free months, the hills and valleys are carpeted with an extraordinary profusion of wildflowers. Among the local wildlife there are wolves, deer, fox, badger, wild boar and perhaps a few European Brown Bears and for birders, there are Griffon Vultures, European Eagle Owls, Golden Eagles and many more interesting and sometimes unusual species to be seen.
@@ -20,11 +20,3 @@ http://www.turizamuzica.org/en/content/view/2/3/
 http://www.zlatibor.co.yu
 And for weather forecasts and weather statistics:
 http://www.wunderground.com/global/stations/13367.html
-
-#### Contributors
-
-August 04, 2006 change by [andrewbeaumont](/member/andrewbeaumont) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 10:37

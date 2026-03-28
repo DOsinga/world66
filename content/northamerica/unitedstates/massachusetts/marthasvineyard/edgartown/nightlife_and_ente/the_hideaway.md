@@ -12,8 +12,6 @@ drinks and friendly bartenders.
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 type: Wine bars
 
@@ -22,5 +20,3 @@ type: Wine bars
 tel: 508 627 1387
 
 address: 44 North Water Street
-
-[back to Nightlife and Entertainment](..)

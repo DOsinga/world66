@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Pick
 up place:** Any **El Quseir** hotel
@@ -53,7 +51,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary:
 
@@ -106,51 +104,7 @@ World. **Karnak temple** dedicated to the
 God Amon-Ra, his wife Mut and their son Khonsu. In **Karnak Temple** each pharaoh tried to perpetuate his
 name, so it is also known as the **Karnak Temple** Complex.
 One of the famous area in **Karnak temple** - Hypostyle
-hall with 134 massive columns with over three meters in diameter. Free time in **Luxor**, and then you return back to **El Quseir**.**
-
-Tour Includes:
-
-**- Pick up services from your hotel in **El Quseir**
-
-- Airfare Hurghada - **Cairo** - **Luxor** with Egypt Air
-
-- Admission fees to the **sightseeing** in **Cairo** and **Luxor** as
-per itinerary
-
-- Lunch meal at local restaurant in **Cairo** and **Luxor**
-
-- Egyptologist English speaking **tour** Guide in **Cairo** and **Luxor**
-
-- All transfers by private air-conditioned vehicle
-
-- Five stars hotel accommodation in **Luxor**
-
-- Drop off services from your hotel in **El Quseir
-
-Tour Excludes:
-
-**- Optional **tours**
-
-- Personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Booking
+hall with 134 massive columns with over three meters in diameter. Free time in **Luxor**, and then you return **Booking
 Confirmation:****
 
 **Booking of your **trip**
@@ -190,5 +144,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Family Travel Ideas](..)

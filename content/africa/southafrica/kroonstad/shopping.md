@@ -41,9 +41,5 @@ E-fashion - Clothing
 
 **Contributors**
 September 08, 2005
-new
-by [oddworld](/member/oddworld)
 
 September 09, 2005
-change
-by [giorgio](/member/giorgio)

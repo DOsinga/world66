@@ -1,0 +1,4 @@
+---
+title: "Male"
+type: location
+---

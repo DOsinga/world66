@@ -1,0 +1,4 @@
+---
+title: "Reggio"
+type: location
+---

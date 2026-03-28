@@ -10,9 +10,3 @@ great to just wander around the town.
 
 **Contributors**
 January 11, 2007
-new
-by [out of the grey](/member/out_of_the_grey) (2 points)
-
-
-
-[back to Day Trips](..)

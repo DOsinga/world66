@@ -28,5 +28,3 @@ The restaurant is located in the heart of Asilah,near the Bab(gate)Kasbah.It off
 address: reastaurant la place
 
 tel: 0021239417326
-
--->

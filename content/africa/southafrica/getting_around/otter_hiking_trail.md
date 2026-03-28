@@ -10,13 +10,9 @@ All in all one of the most enjoyable hikes with best scenery you can hope to hav
 
 **Contributors**
 November 12, 2007
-new
-by [parrie](/member/parrie)
 
 
 
 
 
 email: parri@telkomsa.net
-
-[back to Getting Around](..)

@@ -18,5 +18,3 @@ address: 120 Central Ave SW,
 tel: (505)764-0249
 
 zipcode: Albuquerque, NM 87102-3409
-
-[back to Nightlife and Entertainment](..)

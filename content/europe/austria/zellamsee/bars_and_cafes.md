@@ -54,5 +54,3 @@ coffee after a tour of the town.
 
 **Contributors**
 April 13, 2010
-new
-by [kwalker](/member/kwalker)

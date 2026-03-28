@@ -7,5 +7,3 @@ all you need to know, you can find it on the website of the national park http:/
 
 **Contributors**
 September 12, 2005
-new
-by [hvdflier](/member/hvdflier)

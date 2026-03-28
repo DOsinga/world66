@@ -8,11 +8,5 @@ Gilan Tomb - belongs to Middle Ages, and is situated in Orduban region. In 1979,
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Graves and Cemeteries
-
-
-
-[back to Sights](..)

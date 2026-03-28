@@ -46,5 +46,3 @@ tel: +5591 4008 5800
 url: [www.iguatemibelem.com.br](http://www.iguatemibelem.com.br/)
 
 address: Avenida Padre Eutíquio, 1078
-
-[back to Shopping](..)

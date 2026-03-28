@@ -7,9 +7,4 @@ Regional trains connects Västerås with northwest of Västmanland and southern 
 
 Tickets are bought at the station, on the train or at www.sj.se .
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
 url: [www.tagibergslagen.se](http://www.tagibergslagen.se)
-
--->

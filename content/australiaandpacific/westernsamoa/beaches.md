@@ -27,9 +27,5 @@ Both of these gorgeous beaches are located on Upolu Island. Neither beach is wel
 
 **Contributors**
 March 29, 2010
-change
-by [suegabel](/member/suegabel)
 
 March 31, 2010
-change
-by [ctanios](/member/ctanios)

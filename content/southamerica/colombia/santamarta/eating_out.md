@@ -27,5 +27,3 @@ Ben & Josep's is another popular fusion restaurant in Santa Marta. This restaura
 
 **Contributors**
 March 22, 2010
-new
-by [kwalker](/member/kwalker)

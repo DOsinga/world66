@@ -1,0 +1,4 @@
+---
+title: "Frederiksberg"
+type: location
+---

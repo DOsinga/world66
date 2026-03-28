@@ -1,0 +1,4 @@
+---
+title: "Kernave"
+type: location
+---

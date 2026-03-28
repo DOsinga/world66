@@ -21,5 +21,3 @@ Most of the restaurants in Benin City serve traditional Nigerian food. Tourists 
 
 **Contributors**
 April 07, 2010
-change
-by [imran_m](/member/imran_m)

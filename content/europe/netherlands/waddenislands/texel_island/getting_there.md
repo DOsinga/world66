@@ -15,10 +15,7 @@ Make a note:
 
 You can take your car, or any other motor vehicle to Texel island, or leave it at Den Helder harbour.
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 24 February 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 24 March 05
+Minor corrections on 24 March 05
 
 ### [Ferry Den Helder harbour <> Texel island
 

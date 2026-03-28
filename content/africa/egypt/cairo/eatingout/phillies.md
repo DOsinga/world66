@@ -15,5 +15,3 @@ type: International
 address: 34 Siliman Abaza St.
 
 tel: +20 2 7619146
-
-[back to Eating Out](..)

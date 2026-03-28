@@ -5,8 +5,6 @@ address: "Bruksgatan 38"
 phone: "06-384 0369"
 type: "Memorials"
 url: "www.oravais.fi"
-latitude: 56.043737
-longitude: 12.697179
 ---
 
 Sights in Oravainen

@@ -6,8 +6,6 @@ email: "innkeeper@santamariainn.com"
 phone: "805-928-7777"
 type: "Sleep Cheap"
 url: "www.santamariainn.com"
-latitude: 34.944366
-longitude: -120.435817
 ---
 
 A Central Coast landmark since 1917, The
@@ -25,8 +23,6 @@ Rooms $69-$150
 
 **Contributors**
 May 27, 2007
-change
-by [mehul](/member/mehul)
 
 type: Sleep Cheap
 
@@ -40,19 +36,10 @@ address: 801 South Broadway, Santa Maria, California 93454
 
 email:
 
-[back to Accommodation](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

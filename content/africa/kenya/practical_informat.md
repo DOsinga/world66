@@ -5,14 +5,6 @@ type: section
 
 kenya's largest cities
 
-**all**
+We currently have no Practical Information listed in Kenya.
 
-brosko albert
-
-kenya nairobi
-
-address: dubova 1/16
-
-tel: +421907952209
-
--->
+If you do know any Practical Information in Kenya, please [Add].

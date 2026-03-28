@@ -16,5 +16,3 @@ Oenologue on premises
 To support charities of the Annecy-Lac Lions-Club
 
 Fee: 4 Euro
-
--->

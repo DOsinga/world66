@@ -4,16 +4,12 @@ type: section
 address: "Österlånggatan 1-3"
 phone: "+46 33 - 357090"
 type: "Tourist information"
-latitude: 59.324238
-longitude: 18.073859
 ---
 
 Miscellaneous practical info.
 
 **Contributors**
 June 08, 2006
-new
-by [ewolf](/member/ewolf) (2 points)
 
 ### [Turistbyrån](/europe/sweden/bors/practical_informat/turistbyrn)
 

@@ -17,5 +17,3 @@ type: Mediterranean
 address: Carrer L'Hostal d'en Sol 6-8
 
 tel: +34 93 315 21 59
-
-[back to Eating Out](..)

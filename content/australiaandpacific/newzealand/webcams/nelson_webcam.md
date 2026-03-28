@@ -1,6 +1,6 @@
 ---
 title: "Nelson Webcam"
-type: location
+type: poi
 url: "www.takeabreak.co.nz"
 ---
 
@@ -16,5 +16,3 @@ boulder bank in the distance.
 
 
 url: www.takeabreak.co.nz
-
-[back to Webcams](..)

@@ -27,5 +27,3 @@ Would you take a bike tour through a city? Would you prefer to take a bus tour?
 
 **Contributors**
 January 03, 2008
-new
-by [sentias](/member/sentias)

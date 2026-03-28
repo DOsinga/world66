@@ -51,8 +51,6 @@ on the same flight and must take the tour together.*
 
 **Contributors**
 July 24, 2008
-new
-by [milimani](/member/milimani)
 
 
 
@@ -65,5 +63,3 @@ url: [www.milimanibackpackers.com](http://www.milimanibackpackers.com/services.h
 address: Milimani Backpackers & Safari Centre
 
 email: info@milimanibackpackers.com
-
-[back to Day Trips](..)

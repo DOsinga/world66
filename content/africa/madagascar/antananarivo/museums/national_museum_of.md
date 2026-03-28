@@ -17,5 +17,3 @@ tel: +261 20 22 403 19
 openingHours: Office hours
 
 address: Direction Générale des Mines et de la Géologie Ampandrianomby 101 Antananarivo
-
-[back to Museums](..)

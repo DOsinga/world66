@@ -1,8 +1,6 @@
 ---
 title: "Reykjavik"
 type: location
-latitude: 64.145981
-longitude: -21.942237
 ---
 
 Iceland's capital is different from other European cities. It is the world's northernmost capital, and one of the newest, having established itself only in the late 19th century.Reykjavík offers all the pleasures of a modern European city and addditionally an interesting old town, white-washed wooden buildings, and lines of brightly painted concrete houses. Almost all places of interest are within a walking distance of the old settlement. 
@@ -14,6 +12,3 @@ Modern Reykjavík starts east of the Old Town, and features several attractions 
 Budget accommodation, cheap eats and bargain shopping are found in the Old Town area of Reykjavik. For entertainment, there is cinema, cultural performances and light shows (sagas, Settlement and Viking extravaganzas)and also "Runtur", which is a Northern equivalent of pub crawling. 
 
 courtesy of Reykjavik City
-
-*Change history*
-Write up by [ScottPierson](/member/scottpierson) on 20 February 04

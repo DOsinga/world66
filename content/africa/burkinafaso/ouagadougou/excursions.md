@@ -19,6 +19,4 @@ Approximately 50km (31 miles) west of Banfora is the town of Sindou, the area wh
 
 **Pabre**
 
-This ancient Mossi village is a short distance from another large reservoir north of the city.   
-
--->
+This ancient Mossi village is a short distance from another large reservoir north of the city.

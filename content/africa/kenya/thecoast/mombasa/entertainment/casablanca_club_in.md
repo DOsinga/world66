@@ -8,8 +8,6 @@ email: "info@casablancamombasa.com"
 phone: "254-722-286693"
 type: "Clubs and dancing"
 url: "casablancamombasa.com"
-latitude: -4.063445
-longitude: 39.667082
 ---
 
 The Club is the premier entertainment venue in Mombasa.Featuring two dance floors,it is the only fully fledged 2 in 1 night club at the Coast of Kenya.Built on two levels,the spacious establishment is located in the heart of Mombasa's downtown and is accessible from anywhere within the disrict, 24 hours.
@@ -35,5 +33,3 @@ accessibility: Over 18
 address: Mnazi Moja Road,Mombasa
 
 email: info@casablancamombasa.com
-
-[back to Nightlife and Entertainment](..)

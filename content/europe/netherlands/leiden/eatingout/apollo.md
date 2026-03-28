@@ -10,5 +10,3 @@ address: Vrouwensteeg 16
 tel: 071-5142985
 
 zipcode: 2311 EB
-
--->

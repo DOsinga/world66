@@ -19,5 +19,3 @@ Granada is a 2 hour and 20 minute scenic trip from Cordoba. You can't visit Spai
 
 **Contributors**
 October 24, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

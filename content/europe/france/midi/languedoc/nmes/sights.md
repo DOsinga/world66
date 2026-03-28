@@ -9,8 +9,6 @@ What to see in Nimes
 
 **Contributors**
 January 10, 2007
-new
-by [huahinhans](/member/huahinhans) (1 point)
 
 ### [Private Footsteps of the Romans at Pont du Gard Tour](/europe/france/midi/languedoc/nmes/sights/private_footsteps)
 

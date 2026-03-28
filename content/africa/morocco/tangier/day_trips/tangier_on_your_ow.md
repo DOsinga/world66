@@ -20,9 +20,3 @@ In existence for the past 65 years, this restaurant has earned its reputation on
 **Restaurant Mamounia **
 
 Opened about 20 years ago, this restaurant claims to offer a great local food. Located on the main road of the Medina, it has a simple ambience and is known to be quite popular. Food is supposed to be reasonably good but the service lacks in quality.
-
-
-
-
-
-[back to Day Trips](..)

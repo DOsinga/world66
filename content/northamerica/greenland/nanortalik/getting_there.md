@@ -7,5 +7,3 @@ The home rule government has decided to cancel permanently the ferry connection 
 
 **Contributors**
 January 14, 2011
-new
-by [ingvar](/member/ingvar)

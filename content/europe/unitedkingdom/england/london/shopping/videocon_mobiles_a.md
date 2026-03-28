@@ -6,8 +6,6 @@ email: "contact@rightgadgets.in"
 phone: "9874090194"
 type: "Shopping centers and malls"
 url: "www.rightgadgets.in"
-latitude: 22.572646
-longitude: 88.363895
 ---
 
 It’s price war that mobile manufacturers are creating for each other. With the entry of newer mobile companies, like **Videocon, **the consumers are experiencing multiple options while looking for the mobiles with the desired specifications, Gone are those
@@ -30,5 +28,3 @@ url: www.rightgadgets.in
 address: kolkata
 
 email: contact@rightgadgets.in
-
-[back to Shopping](..)

@@ -8,8 +8,6 @@ Banffshire Maritime and Heritage Association Museum open June to October in Duff
 
 **Contributors**
 January 31, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Banffshire Maritime Heritage Association](/europe/unitedkingdom/scotland/macduff/museums/banffshire_maritim)
 

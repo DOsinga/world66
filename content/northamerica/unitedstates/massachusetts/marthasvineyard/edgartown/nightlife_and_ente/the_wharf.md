@@ -12,8 +12,6 @@ Attracts a younger crowd than David Ryan's and can be very noisy during the summ
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 type: Pubs
 
@@ -22,5 +20,3 @@ type: Pubs
 ClosingTime: 1
 
 address: Lower Mainstreet
-
-[back to Nightlife and Entertainment](..)

@@ -49,5 +49,3 @@ For those looking to get out and explore, whether by land, sea, or air, Kauai ha
 
 **Contributors**
 July 24, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

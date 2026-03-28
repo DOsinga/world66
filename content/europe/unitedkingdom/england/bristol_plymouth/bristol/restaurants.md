@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Browns Resturant - Clifton 
@@ -140,5 +140,3 @@ tel: 0117 924 0357
 address: 44 Cotham Hill, Bristol Avon BS6 6LA
 
 tel: 0117 923 7861
-
--->

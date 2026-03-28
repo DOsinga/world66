@@ -5,8 +5,6 @@ address: "Sorrento"
 email: "angelostinca@yahoo.it"
 phone: "+39 3394999884"
 url: "www.positanoprivatedrivers.com"
-latitude: 40.624906
-longitude: 14.374836
 ---
 
 **Transfers and excursion, in Naples, Sorrento, Amalfi coast area**
@@ -24,5 +22,3 @@ url: [www.positanoprivatedrivers.com](http://www.positanoprivatedrivers.com)
 address: Sorrento
 
 email: angelostinca@yahoo.it
-
-[back to Day Trips](..)

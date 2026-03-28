@@ -24,5 +24,3 @@ type: European
 address: Taikos g. (Sicilia I), near Mini Maxima (Sicilia II)
 
 PriceOfMenu: cheap
-
-[back to Eating Out](..)

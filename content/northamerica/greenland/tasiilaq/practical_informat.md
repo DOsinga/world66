@@ -14,7 +14,3 @@ Tourist Manager
 Ammassalik Office
 
 Destination East Greenland
-
-
-
--->

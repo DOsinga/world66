@@ -18,7 +18,3 @@ There are now plenty of these cabins available for rent throughout the year. Som
 Discover some wonderful cabin holidays now by browsing through the accommodation and holiday packages our partners have to offer.
 
 www.norwaydirect.co.uk
-
-## Subsections
-
-[Rafting](/europe/norway/thingstodo/rafting)

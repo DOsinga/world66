@@ -18,5 +18,3 @@ type: Ballooning
 
 
 tel: 702-248-7609
-
-[back to Things to do](..)

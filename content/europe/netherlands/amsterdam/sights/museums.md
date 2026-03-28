@@ -1,15 +1,11 @@
 ---
 title: "Museums"
 type: poi
-latitude: 52.357271
-longitude: 4.88154
 ---
 
 Like many European cities that was once the capital of an empire, Amsterdam has a lot of museums. The most famous ones are clustered around the **Museumplein** (museum square), just south of Leidseplein, where you will find the Rijksmuseum and the Van-Gogh-Museum for example. But many others are worth a visit too, even more.
 
-
- Museums are not particulary cheap in Amsterdam. Most of the locals seem to have a museum jaarkaart, a card that gets you into most museums for free or with a lower fee (but not the Anne Frank House). If you're going to see every museum, it's worth to buy one, otherwise you probably won't make it. However, until 2001, you'll get a free museum jaarkaart with a rail reduction card, so for extended stay in Amsterdam, this may be an option
- 
+ Museums are not particulary cheap in Amsterdam. Most of the locals seem to have a museum jaarkaart, a card that gets you into most museums for free or with a lower fee (but not the Anne Frank House). If you're going to see every museum, it's worth to buy one, otherwise you probably won't make it. However, until 2001, you'll get a free museum jaarkaart with a rail reduction card, so for extended stay in Amsterdam, this may be an option 
 
 **Sights**
 
@@ -23,8 +19,7 @@ address: Jodenbreestraat 4-6
 
 This is one the most popular museums in Amsterdam and not for nothing. It really is a nice museum. The paintings tell the story of Van Goghs tragic life, from his start in the Netherlands to his brilliant time in France.
 
-
- The Van Gogh Museum first opened its doors in 1973. The building, desi [more..](/europe/netherlands/amsterdam/sights/museums/vangogh)
+ The Van Gogh Museum first opened its doors in 1973. The building, desi [more..](/europe/netherlands/amsterdam/sights/museums/vangogh)
 
 address: Paulus Potterstraat 7
 
@@ -66,8 +61,7 @@ Renzo Piano build this great green building right on the entrance of the IJ-tunn
 
 **Museum Amstelkring**
 
-also known as "Our Lord in the Attic" is set in a 17th-century merchant house. It contains a secret Catholic church on the top floor. The house has its original furnishings giving a good idea of what life at that time was like. 
- ** Sigourney:** Dit 17e eeuwse herenhuis geeft een goe [more..](/europe/netherlands/amsterdam/sights/museums/museumamstelkring)
+also known as "Our Lord in the Attic" is set in a 17th-century merchant house. It contains a secret Catholic church on the top floor. The house has its original furnishings giving a good idea of what life at that time was like.  ** Sigourney:** Dit 17e eeuwse herenhuis geeft een goe [more..](/europe/netherlands/amsterdam/sights/museums/museumamstelkring)
 
 address: Oudezijds Voorburgwal
 

@@ -3,11 +3,11 @@ title: "Sights"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[Castles & Forts](/europe/armenia/yerevan/sights/castlesforts)
-[Hotspots](/europe/armenia/yerevan/sights/hotspots)
+[Castles & Forts](/europe/armenia/yerevan/sights?subsection=Castles%20%26%20Forts)
+[Hotspots](/europe/armenia/yerevan/sights?subsection=Hotspots)
 
-[Museums](/europe/armenia/yerevan/sights/museums)
+[Museums](/europe/armenia/yerevan/sights?subsection=Museums)
 
-[churches](/europe/armenia/yerevan/sights/churches)
+[churches](/europe/armenia/yerevan/sights?subsection=churches)

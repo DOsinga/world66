@@ -1,8 +1,6 @@
 ---
 title: "Canaima"
 type: location
-latitude: 10.594429
-longitude: -66.973043
 ---
 
 We currently have no information about Canaima.

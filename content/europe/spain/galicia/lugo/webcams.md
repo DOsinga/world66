@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "www.crtvg.es"
 ---
 
@@ -15,12 +15,9 @@ quality.
 
 *
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 09 April 05
+Write up on 15 April 05
 
-Write up by [Reen](/member/reen) on 15 April 05
-
-Minor corrections by [Reen](/member/reen) on 15 April 05
+Minor corrections on 15 April 05
 
 ### Galicia Webcams
 

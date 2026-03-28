@@ -19,5 +19,3 @@ tel: +20102519952
 url: [www.myegyptestate.com](http://www.myegyptestate.com)
 
 email: info1@myegyptestate.com
-
-[back to Budget Travel Ideas](..)

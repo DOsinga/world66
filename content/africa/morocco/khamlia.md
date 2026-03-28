@@ -1,9 +1,9 @@
 ---
-title: "Khamlia Travel Guide"
+title: "Khamlia"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Khamlia
 is a very little village in desert by the biggest dunes Erg
@@ -18,13 +18,3 @@ To go to Khamlia is not easy if you not have the car. But you can take taxi or s
 from Khamlia is more difficult because the people
 will not
 let you go back. They are happy for you. It is still calm and peaceful life.
-
-*Part or or all of this text stems from the original article at: www.khamliahouse.com*
-
-#### Contributors
-
-January 23, 2009 change by [michaela - khamlia](/member/michaela_-_khamlia)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 02:31

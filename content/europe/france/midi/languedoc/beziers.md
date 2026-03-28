@@ -1,0 +1,4 @@
+---
+title: "Beziers"
+type: location
+---

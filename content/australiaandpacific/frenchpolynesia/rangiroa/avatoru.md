@@ -1,7 +1,9 @@
 ---
-title: "Avatoru Travel Guide"
+title: "Avatoru"
 type: location
 ---
+
+Travel Guide
 
 More a sleepy hamlet than a city, Avatoru is a series of islets connected by concrete bridges. It and neighboring Tiputu are the only populated areas of the Rangiroa atoll, aside from the boat-accessible-only resort across the large lagoon.
 
@@ -23,5 +25,3 @@ Toni Armstrong Jr., Chicago, IL - USA
 
 **Contributors**
 March 16, 2005
-new
-by [pottedpork](/member/pottedpork) (1 point)

@@ -34,5 +34,3 @@ url: [Http:www.dolphinsafari.gi](http://Http:www.dolphinsafari.gi/)
 address: 6 The Square, Marina Bay, Ocean Village, Gibraltar
 
 email: dolphin@gibraltar.gi
-
-[back to Things to Do](..)

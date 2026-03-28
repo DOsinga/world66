@@ -8,8 +8,6 @@ For a breathtaking view over the rim of a volcano who falls down directly to the
 
 **Contributors**
 May 09, 2006
-new
-by [reto73](/member/reto73) (1 point)
 
 ### [Rano Raraku](/southamerica/chile/easterisland/sights/rano_raraku)
 

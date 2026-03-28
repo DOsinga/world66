@@ -11,6 +11,4 @@ Getting to Gothenburg is quite easy. It's located on the west coast of  Sweden 
 
    Trains arrive at  Central station (Drottningtorget square) from destinations troughout Sweden. Gothenburg can be reached by air from most major cities within Europe.
 
- Göteborg Landvetter airport is around 25 km east of the city. There are  buses from the city centre to Landvetter every 15 minutes, and the journey  takes about 20 minutes. 
-
--->
+ Göteborg Landvetter airport is around 25 km east of the city. There are  buses from the city centre to Landvetter every 15 minutes, and the journey  takes about 20 minutes.

@@ -31,19 +31,4 @@ sandwiches, wraps and salads.**
 **Kulturscenen**
 
 Kulturscenen on Studenthuset Driv** **is better known as the
-cultural center for Tromso. The building dates back to the early 1900s
-and has recently seen a renovation. The Kulturscenen is located along
-the quays and contains banquet and conference facilities if needed.
-During the summer it's normal to see a flurry of activity on the
-outdoor patio, with the patrons enjoying their drinks and meals in the
-warm weather. Kulturscenen is also home to many concerts, films and
-other events throughout the year.
-
-**Papagena**
-
-This is Tromso's most popular nightclub and disco. Located in
-the Grand Nordic Hotel in Storgata, Papagena is a guaranteed swinging
-nightspot any night of the week. The musical tastes vary from house to
-country, but the atmosphere is always lively. Also within the same
-hotel is the Grand Bar, which is a much more intimate, modern bar, with
-a great selection of wines and beers.
+cultural center for Tromso. The building dates

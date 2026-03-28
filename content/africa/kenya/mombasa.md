@@ -1,9 +1,9 @@
 ---
-title: "Mombasa Travel Guide"
+title: "Mombasa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mombasa
 From Wikipedia, the free encyclopedia
@@ -160,9 +160,3 @@ Mombasa is a sister city of:
 
 Seattle, Washington, USA
 Honolulu City and County, Hawaii, USA[7
-
-*Part or or all of this text stems from the original article at: web site*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 12:33

@@ -12,8 +12,6 @@ A famous restaurant on the waterfront, serving traditional seafood.
 
 **Contributors**
 June 04, 2008
-new
-by [out of the grey](/member/out_of_the_grey)
 
 type: Seafood
 
@@ -26,5 +24,3 @@ url: [www.ptownlobsterpot.com](http://www.ptownlobsterpot.com/)
 address: 321 Commercial Street, Provincetown, MA 02657
 
 email:
-
-[back to Eating Out](..)

@@ -1,8 +1,6 @@
 ---
 title: "Insight Chile"
 type: poi
-latitude: -33.447961
-longitude: -70.651152
 ---
 
 "/>

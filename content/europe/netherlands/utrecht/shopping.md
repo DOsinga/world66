@@ -19,5 +19,3 @@ If the markets give you an appetite for second-hand goods, you might also enjoy 
 
 **Contributors**
 March 23, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -6,8 +6,6 @@ email: "info@berlininternationalopera.de"
 phone: "030 - 6809-3779"
 type: "Opera"
 url: "www.berlininternationalopera.de"
-latitude: 52.476962
-longitude: 13.439215
 ---
 
 Five day
@@ -36,5 +34,3 @@ url: [www.berlininternationalopera.de](http://www.berlininternationalopera.de)
 address: Saalbau Neukölln, Karl-Marx-Str 141, Berlin
 
 email: info@berlininternationalopera.de
-
-[back to Nightlife and Entertainment](..)

@@ -17,8 +17,6 @@ The second train to Milan City is the "Trenitalia" which goes through the town o
 
 **Contributors**
 July 05, 2006
-new
-by [karenbru](/member/karenbru) (4 points)
 
 type: By Air
 
@@ -27,5 +25,3 @@ type: By Air
 
 
 url: [www.sea-aeroportimilano.it](http://www.sea-aeroportimilano.it/)
-
-[back to Getting There](..)

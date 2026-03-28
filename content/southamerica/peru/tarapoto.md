@@ -1,9 +1,9 @@
 ---
-title: "Tarapoto Travel Guide"
+title: "Tarapoto"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Tarapoto, known as the "City of Palms," is located in the District of San Martin, called "la tierra de las cataratas" (the land of waterfalls) located on the high jungle plateau in the northeastern section of the Republic of Peru. At latitude 6° 30' 5 S and longitude 76° 21' 56 W, Tarapoto sits in the valley where the two rivers, the Cumbaza and Shilcayo, meet. Bordered by the cities of Morales (on the West) and Banda de Shilcayo (on the East) Tarapoto is the commercial center of the District and one of the larger metropolitan centers in the Amazon Rainforest.
 
@@ -16,11 +16,3 @@ Another thing travelers should be sure to ask about before checking into a hotel
 One of the things that makes Tarapoto attractive to travelers who have discovered this city is the fact that it is a great central location in the northeastern part of Peru. The mountains (high sierra) to the west, and the jungle (selva) to the east, make Tarapoto a good place to call home-base when visiting the northern part of Peru. A modern airport makes travel to the major cities fairly easy, if only somewhat dependable, with daily flights to and from Lima.
 
 In many ways, Tarapoto still has a "small town" attitude. While it is always necessary to keep alert when traveling anywhere, Tarapoto is a place one can relax more. Europeans and North Americans are not targets of crime as much as in the other places like Trujillo, Cusco, and Lima. Since there aren't as many tourists around Tarapoto, they don't see too many foreigners. So expect to be noticed if you don't look like a Peruvian, but tourists generally find themselves treated very well in Tarapoto.
-
-#### Contributors
-
-December 07, 2006 change by [approaching genius](/member/approaching_genius) (11 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 07:30

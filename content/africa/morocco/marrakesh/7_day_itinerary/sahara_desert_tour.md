@@ -5,8 +5,6 @@ address: "Hay salam Marrakech"
 email: "toursofpeace@gmail.com"
 phone: "+212676239065"
 url: "www.toursofpeace.com"
-latitude: 32.99714
-longitude: -7.619192
 ---
 
 Normal
@@ -21,7 +19,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Overview of Sahara desert Tour:**
 
@@ -43,7 +41,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Itinerary: ****
 **
@@ -129,5 +127,3 @@ url: [www.toursofpeace.com](http://www.toursofpeace.com)
 address: Hay salam Marrakech
 
 email: toursofpeace@gmail.com
-
-[back to 7 Day Itinerary](..)

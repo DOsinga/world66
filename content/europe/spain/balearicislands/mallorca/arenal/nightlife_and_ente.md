@@ -7,5 +7,3 @@ Nightlife isn't bad at all - although there are great numbers of Germans holiday
 
 **Contributors**
 April 08, 2006
-change
-by [reen](/member/reen)

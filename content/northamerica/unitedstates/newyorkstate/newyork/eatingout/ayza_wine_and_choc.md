@@ -27,5 +27,3 @@ address: 1 7th Avenue South
 PriceOfMenu: 20$
 
 email: valeriewhittier00@gmail.com
-
-[back to Eating Out](..)

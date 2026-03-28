@@ -10,8 +10,6 @@ One of the best Italian trattoria's in the country. Locals try to keep it a secr
 
 **Contributors**
 August 16, 2006
-new
-by [wowbagga](/member/wowbagga) (1 point)
 
 type: Italian
 
@@ -22,5 +20,3 @@ type: Italian
 accessibility: parking a bit of an issue when it's busy
 
 address: White Sands shopping centre, Umdloti Beach
-
-[back to Eating Out](..)

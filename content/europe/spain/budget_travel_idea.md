@@ -123,8 +123,6 @@ more reasonably priced vacation to Spain.
 
 **Contributors**
 March 18, 2010
-change
-by [ctanios](/member/ctanios)
 
 ### [Spain Budget Travel Ideas](/europe/spain/budget_travel_idea/spain_budget_trave)
 

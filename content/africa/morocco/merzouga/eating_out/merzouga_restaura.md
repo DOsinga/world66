@@ -7,8 +7,6 @@ phone: "0021235577039"
 price: "50 DHS to 120 DHS"
 type: "African"
 url: "www.aubergesahara.com"
-latitude: -12.147147
-longitude: -76.985454
 ---
 
 SAHARA is a hotel and one of the famous restaurants in Merzouga's region....Very delicious food but with very low prices.Berber Pizza is also a big loaf of bread full of spices,vegetables,meat,eggs,....and cooked in hot send... Hassan prepared it to us for lunch in safsaf oasis when we were doing tour of erg chebbi sand dunes by 4x4 last april...Amazing and very delicious food!
@@ -28,5 +26,3 @@ address: Hotel SAHARA
 PriceOfMenu: 50 DHS to 120 DHS
 
 email: info@aubergesahara.com
-
-[back to Eating Out](..)

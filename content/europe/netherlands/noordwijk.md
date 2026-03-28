@@ -1,0 +1,4 @@
+---
+title: "Noordwijk"
+type: location
+---

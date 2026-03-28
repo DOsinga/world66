@@ -17,5 +17,3 @@ type: Japanese
 address: Vilbelerstrass
 
 tel: +49 (0)69 283 992
-
-[back to Eating Out](..)

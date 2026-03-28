@@ -13,8 +13,6 @@ Imagine an artistic journey to the heart of the Italian Renaissance, the masterp
 
 **Contributors**
 July 23, 2007
-new
-by [michel_galibert](/member/michel_galibert) (1 point)
 
 
 
@@ -29,5 +27,3 @@ url: [www.musee-jacquemart-andre.com](http://www.musee-jacquemart-andre.com/en/j
 address: 158 Boulevard Haussman - 75008 Paris
 
 email: message@musee-jacquemart-andre.com
-
-[back to Museums](..)

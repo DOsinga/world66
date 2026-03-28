@@ -3,8 +3,6 @@ title: "El Sitio Bar Restaurante"
 type: poi
 address: "Carrera 11A # 93B - 12"
 phone: "(57) (1) 616 73 72"
-latitude: 4.699098
-longitude: -74.03596
 ---
 
 El Sitio Bar Restaurante, is one of the most remarkable entertainment places in Bogotá, Colombia.
@@ -26,5 +24,3 @@ info@elsitiogroup.com
 tel: (57) (1) 616 73 72
 
 address: Carrera 11A # 93B - 12
-
-[back to Bars and Cafes](..)

@@ -1,9 +1,9 @@
 ---
-title: "Canoa Travel Guide"
+title: "Canoa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mompiche may have the surfer’s hearts, and Atacames may have the bars,
 but Canoa is sure to romance almost anyone into a stupor with its long
@@ -14,9 +14,3 @@ or two, or more; it’s not uncommon for travelers to come for the night
 and stay for a month.
 Read more about Canoa at
 http://www.vivatravelguides.com/south-america/ecuador/the-northern-coast-and-lowlands/manabi/canoa/canoa-overview
-
-*Part or or all of this text stems from the original article at: http://www.vivatravelguides.com/south-america/ecuador/the-northern-coast-and-lowlands/manabi/canoa*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 15:10

@@ -1,9 +1,9 @@
 ---
-title: "Rincon del MAr Travel Guide"
+title: "Rincon del MAr"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 One of the main beaches in the municipality of San Onofre, Sucre, is Rincon del Mar, two hours drive from Cartagena de Indias.
 It is a very quiet beach, located off the Gulf of Morrosquillo in the Colombian Caribbean.
@@ -16,9 +16,3 @@ Hundreds of bathers enjoy, sunbathing on the sand or swimming in the sea.
 Rincon del Mar and is recognized tourist destination for many people from cities like Cartagena, Barranquilla and Medellin, who want to spend their vacation or weekend enjoying the beach and offering estaderos good music and delicious seafood stew like fish, shrimp cocktails, snail and crab, as well as fish and coconut rice, of course.
 
 Like the white sand, blue sea and the natural green environment that is very close. At the end of the day, and soft red sunsets complete the color palette makes Rincón de Mar a special beach.
-
-*Part or or all of this text stems from the original article at: http://www.destinosyplanes.com/portal/index.php?option=com_content&view=article&id=454%3Aen-rincon-del-mar-playas-y-festival-&catid=265%3Acosta-caribe&Itemid=73&lang=es*
-
-Page last generated on Thu 03:36
-
--->

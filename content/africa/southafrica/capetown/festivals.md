@@ -70,5 +70,3 @@ Pinnacle Building, on the corner of Burg-Castle Street in Cape Town.
 
 **Contributors**
 March 14, 2010
-new
-by [ak1980](/member/ak1980)

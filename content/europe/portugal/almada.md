@@ -1,0 +1,4 @@
+---
+title: "Almada"
+type: location
+---

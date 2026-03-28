@@ -6,8 +6,6 @@ email: "travel@iridium.ge"
 phone: "+995 99 94 20 10"
 url: "www.iridium-travel.com"
 zipcode: "0194"
-latitude: 41.693459
-longitude: 44.801449
 ---
 
 And Argonauts' boat entered the harbour - covered with mists. It had just been there - Kolkhida - the country of mythological Golden Fleece.
@@ -91,6 +89,3 @@ If you are interested in our route, please inform us of the list of routs made b
 Please contact with us at least 45 days prior to a tour
 
 www.IRIDIUM-TRAVEL.com
-
-*Change history*
-Orginal article by [iridium-travel](/member/iridiumtravel) on 17 March 05

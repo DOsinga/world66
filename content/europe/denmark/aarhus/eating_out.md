@@ -5,9 +5,6 @@ type: section
 
 Restaurants and cafés
 
-*Change history*
-Orginal article by [bering](/member/bering) on 03 June 04
-
 **all**
 
 **Det Grønne Hjørne**

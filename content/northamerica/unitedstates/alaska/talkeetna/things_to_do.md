@@ -9,5 +9,3 @@ K2 Aviation is one of the companies in Talkeetna that will take you on a not-to-
 
 **Contributors**
 February 04, 2006
-new
-by [mazza1](/member/mazza1)

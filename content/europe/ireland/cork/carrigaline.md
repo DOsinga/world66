@@ -1,8 +1,6 @@
 ---
 title: "Carrigaline"
 type: location
-latitude: 51.814956
-longitude: -8.392268
 ---
 
 This is a beautiful sea side area who's inhabitants list there number one past time as surfing. The town itself bosts an active night life, with nine pubs, two clubs, a bowling alley, a cinema and two 24 hour take aways, there will always be something to keep you occupied. During the day kids can tour the town or just relax on the beach. Carrigaline does have an impressive park/playground for the little ones and there is also a selection of youth organisations to make sure they're enterained. 

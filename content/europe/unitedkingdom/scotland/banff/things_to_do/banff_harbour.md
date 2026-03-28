@@ -9,8 +9,6 @@ Banff harbour, currently you can have a boat trip along the Banffshire coast or 
 
 **Contributors**
 January 24, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 type: Other
 
@@ -19,5 +17,3 @@ type: Other
 
 
 url: [www.banffharbour.co.uk](http://www.banffharbour.co.uk)
-
-[back to Things to do](..)

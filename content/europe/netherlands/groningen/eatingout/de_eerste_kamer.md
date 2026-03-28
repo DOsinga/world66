@@ -5,8 +5,6 @@ address: "Peperstraat 9, Groningen"
 phone: "050 - 318 17 21"
 price: "Low"
 type: "Dutch"
-latitude: 53.218003
-longitude: 6.570605
 ---
 
 ' De Eerste Kamer' is a great place to eat if you don't have that much money, but also if you don't feel like choosing between 40 different meals from a menu.
@@ -15,8 +13,6 @@ Besides that the food is easy and cheap, its really good and the restaurant's mo
 
 **Contributors**
 February 14, 2007
-change
-by [subbeh](/member/subbeh)
 
 type: Dutch
 
@@ -29,5 +25,3 @@ tel: 050 - 318 17 21
 address: Peperstraat 9, Groningen
 
 PriceOfMenu: Low
-
-[back to Eating Out](..)

@@ -14,8 +14,6 @@ The *Dar El Moqri* is located in Fès El Bali, a 10 min walk from the museum Dar
 
 **Contributors**
 June 07, 2006
-change
-by [bernhadette](/member/bernhadette) (5 points)
 
 type: Hotspots
 
@@ -24,5 +22,3 @@ type: Hotspots
 
 
 address: 12-14, Rue Oued Souaffine, Fès-Batha
-
-[back to Sights](..)

@@ -21,6 +21,4 @@ The Crooked House from the 15th/16th century, the best-known house in the old to
 
 **Fishermen's quarter**
 
-  Mediaeval artisans' quarter on the River Blau with picturesque houses, bridges and squares ("The Beautiful House", Watermen's Guildhouse, Ulm Mint, Trout Inn, Fisherman's Court, "Häuslesbruck" etc.) 
-
--->
+  Mediaeval artisans' quarter on the River Blau with picturesque houses, bridges and squares ("The Beautiful House", Watermen's Guildhouse, Ulm Mint, Trout Inn, Fisherman's Court, "Häuslesbruck" etc.)

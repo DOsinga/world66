@@ -15,5 +15,3 @@ type: Bars & Cafes
 address: Fan Arcade, Todd Mall
 
 tel: 08 8952 6525
-
-[back to Nightlife and Entertainment](..)

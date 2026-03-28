@@ -21,5 +21,3 @@ tel: 9082192 / 099106943
 address: Carlos Gardel 1123
 
 PriceOfMenu: $$
-
-[back to Eating Out](..)

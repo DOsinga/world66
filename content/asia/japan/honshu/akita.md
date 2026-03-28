@@ -1,0 +1,4 @@
+---
+title: "Akita"
+type: location
+---

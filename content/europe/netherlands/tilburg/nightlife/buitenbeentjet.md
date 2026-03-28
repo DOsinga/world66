@@ -6,8 +6,6 @@ closing_time: "03.00"
 phone: "+31 (0)13 536 0466"
 type: "Pubs"
 zipcode: "5038CN"
-latitude: 51.718698
-longitude: 5.272508
 ---
 
 't Buitenbeentje has one the best positions in the centre of town; it's
@@ -20,8 +18,6 @@ ham/cheese sandwich) which comes with a secret, spicy sauce.
 
 **Contributors**
 September 21, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Pubs
 
@@ -36,5 +32,3 @@ tel: +31 (0)13 536 0466
 zipcode: 5038CN
 
 ClosingTime: 03.00
-
-[back to Nightlife and Entertainment](..)

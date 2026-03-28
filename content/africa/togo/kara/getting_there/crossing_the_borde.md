@@ -10,11 +10,5 @@ The border crossing itself is very easy, but you need to have arranged a visa to
 
 **Contributors**
 February 02, 2008
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 type: By Road
-
-
-
-[back to Getting There](..)

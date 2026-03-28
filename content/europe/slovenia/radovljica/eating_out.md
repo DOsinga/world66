@@ -8,8 +8,6 @@ Below is a listing of Radovljica restaurants.
 
 **Contributors**
 May 02, 2006
-change
-by [sieagle](/member/sieagle)
 
 ### [Restaurant & Apartements Gostilna Kunstelj](/europe/slovenia/radovljica/eating_out/restaurant__apart)
 

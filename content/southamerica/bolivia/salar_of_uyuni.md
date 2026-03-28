@@ -1,9 +1,9 @@
 ---
-title: "Salar de Uyuni Travel Guide"
+title: "Salar de Uyuni"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Salar de Uyuni** is the world’s largest salt flat. It is
 located in the Departmento of Potosí in southwest Bolivia, near the
@@ -40,11 +40,3 @@ Salar de Uyuni is estimated to contain 10 billion tons of salt
 of which less than 25,000 tons is extracted annually. Every November,
 Salar de Uyuni is also the breeding grounds for three breeds of South
 American flamingos - Chilean, James and Andean. It is also a significant tourist destination
-
-#### Contributors
-
-February 20, 2007 change by [joosts](/member/joosts) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 00:47

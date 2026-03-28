@@ -256,5 +256,3 @@ David McGirr
 
 **Contributors**
 August 07, 2007
-change
-by [mcgoo](/member/mcgoo)

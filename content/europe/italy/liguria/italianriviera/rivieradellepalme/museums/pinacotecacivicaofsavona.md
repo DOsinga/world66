@@ -1,6 +1,0 @@
----
-title: "PINACOTECA CIVICA OF SAVONA"
-type: poi
----
-
-fortress the Pinacoteca Civica of Savona presents a broad perspective of art in Savona from the fourteenth to the twentieth century. The collection is organized on a chronological basis that follows the development of the schools represented. In the sections devoted to painting we find some examples of the Tuscan art of the fourteenth century, followed by Ligurian and Lombard artists of the fifteenth. Outstanding among these is the Crucifixion by Donato de’ Bardi, the earliest example of a painting on canvas in Italy. The works of other Lombard artists, such as Vincenzo Foppa and Lorenzo Fasolo, influenced by the Flemish paintings present in Genoa, date from the beginning of the sixteenth century, during the papacies of Sixtus IV and Julius II. Italian artists of the seventeenth and eighteenth century are also represented, including Gioacchino Assereto, Domenico and Bartolomeo Guidobono and Lazzaro De Maestri. The collection concludes with works by Gagliardo, Fabbri and Peluzzi, recently acquired to represent the most modern artistic production of the Savona region. Finally, the room devoted to pottery made in Savona between the sixteenth and twentieth century contains, among other things, the seventeenth-century Pharmacy Vessels of the San Paolo Hospital.

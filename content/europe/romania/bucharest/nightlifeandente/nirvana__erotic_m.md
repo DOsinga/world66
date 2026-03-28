@@ -1,6 +1,6 @@
 ---
 title: "Nirvana - Erotic Massage Bucharest"
-type: location
+type: poi
 accessibility: "Our salon in situated in the center of Bucharest. You can reach there by taxi, bus, metro."
 address: "Bdul. Eroii Sanitari, nr.16"
 closing_time: "open all the time"
@@ -8,8 +8,6 @@ email: "contact@nirvanamasaj.ro"
 phone: "+40721.90.44.19"
 type: "Erotic clubs and bars"
 url: "www.nirvanamasaj.ro"
-latitude: 44.43423
-longitude: 26.070453
 ---
 
 Normal
@@ -43,12 +41,10 @@ You are welcome!
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Contributors**
 April 10, 2013
-new
-by [sensual23](/member/sensual23)
 
 type: Erotic clubs and bars
 
@@ -65,5 +61,3 @@ accessibility: Our salon in situated in the center of Bucharest. You can reach t
 address: Bdul. Eroii Sanitari, nr.16
 
 email: contact@nirvanamasaj.ro
-
-[back to Nightlife and Entertainment](..)

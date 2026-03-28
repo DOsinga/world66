@@ -12,8 +12,6 @@ There are a number of things you should while visiting Cleveland. It has a rich 
 
 **Contributors**
 April 06, 2006
-new
-by [vulpster03](/member/vulpster03) (4 points)
 
 ### Display all
 or display just:

@@ -1,12 +1,8 @@
 ---
-title: "geelong Travel Guide"
+title: "geelong"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 chris bradshaw
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 19:31

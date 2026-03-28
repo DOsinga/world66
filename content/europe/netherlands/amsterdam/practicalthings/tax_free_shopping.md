@@ -26,5 +26,3 @@ url: [www.vatfree.nl](http://www.vatfree.nl)
 address: Schiphol WTC/ Service Wings @ check-in
 
 email: info@vatfree.nl
-
-[back to Practical Information](..)

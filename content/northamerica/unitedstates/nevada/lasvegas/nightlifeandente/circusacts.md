@@ -1,6 +1,6 @@
 ---
 title: "CIRCUS ACTS"
-type: location
+type: poi
 address: "On the Midway Stage at Circus Circus, 2880 Las Vegas Blvd. South"
 ---
 

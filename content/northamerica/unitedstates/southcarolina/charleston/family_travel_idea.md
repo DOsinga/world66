@@ -56,9 +56,5 @@ ages--and it's free.
 
 **Contributors**
 April 08, 2010
-change
-by [ctanios](/member/ctanios)
 
 April 07, 2010
-new
-by [amymc](/member/amymc)

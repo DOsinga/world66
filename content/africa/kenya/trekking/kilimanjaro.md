@@ -1,0 +1,4 @@
+---
+title: "kilimanjaro"
+type: location
+---

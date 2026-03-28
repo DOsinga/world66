@@ -8,5 +8,3 @@ Progressive, liberal, bourgeois, European humanist, antifascist and anticommunis
 
 **Contributors**
 October 30, 2006
-new
-by [budapestunderguide](/member/budapestunderguide)

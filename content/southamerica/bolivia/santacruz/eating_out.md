@@ -10,8 +10,6 @@ Santa Cruz has a wide variety of places to eat, from very cheap to somewhat pric
 
 **Contributors**
 August 03, 2006
-new
-by [joosts](/member/joosts) (2 points)
 
 ### [Salon de The el Cisne](/southamerica/bolivia/santacruz/eating_out/casa_de_t)
 

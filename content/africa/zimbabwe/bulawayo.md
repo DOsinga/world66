@@ -1,0 +1,4 @@
+---
+title: "Bulawayo"
+type: location
+---

@@ -11,8 +11,6 @@ Museums of Columbus
 
 **Contributors**
 May 04, 2008
-new
-by [the rev](/member/the_rev) (1 point)
 
 ### [Jack Nicklaus Museum](/northamerica/unitedstates/ohio/columbus/museums/jack_nicklaus_muse)
 

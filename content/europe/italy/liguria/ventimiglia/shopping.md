@@ -3,8 +3,6 @@ title: "Shopping"
 type: section
 email: "schrijfmemaar@msn.com"
 type: "Markets"
-latitude: 44.434981
-longitude: 8.967065
 ---
 
 ### Hans Bos

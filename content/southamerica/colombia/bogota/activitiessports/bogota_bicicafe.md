@@ -29,5 +29,3 @@ url: [www.bogotabiketours.com](http://www.bogotabiketours.com)
 address: 13-86 3rd Ave., La Candelaria, Bogota
 
 email: bogotabiketours@gmail.com
-
-[back to Things to do](..)

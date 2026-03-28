@@ -19,8 +19,4 @@ Arlanda airport is 45 km north of Stockholm. Buses run every 15 min to Citytermi
 
 Bromma airport is closer to the city centre. This is a smaller airport and the facilities are not as abundant as at Arlanda. The airport buses also run from this airport to the central station.
 
-Skavsta airport is situated approx 100 km south of Stockholm in the city of Nyköping. The airport buses will take you yo the central station in 1 hour 20 minutes.
-
-## Subsections
-
-[By Air](/europe/sweden/stockholm/gettingthere/byair)
+Skavsta airport is situated approx 100 km south of Stockholm in the city of [Nyköping](/europe/sweden/nykping). The airport buses will take you yo the central station in 1 hour 20 minutes.

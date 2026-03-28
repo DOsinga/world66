@@ -17,5 +17,3 @@ type: International
 address: 15 Osman Ibn Affan Square
 
 tel: +20 2 3411194
-
-[back to Eating Out](..)

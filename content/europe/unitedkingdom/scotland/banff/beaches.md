@@ -7,8 +7,6 @@ The beach at Banff Links sited at the west side of the town is usually very popu
 
 **Contributors**
 January 24, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [Banff Links Beach](/europe/unitedkingdom/scotland/banff/beaches/banff_links_beach)
 

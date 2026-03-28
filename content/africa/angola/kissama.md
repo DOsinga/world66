@@ -1,0 +1,4 @@
+---
+title: "Kissama"
+type: location
+---

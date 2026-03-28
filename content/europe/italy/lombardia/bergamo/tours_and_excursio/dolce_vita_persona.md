@@ -4,8 +4,6 @@ type: poi
 address: "Via Cesare Battisti 12, 24040 Boltiere (Bergamo)"
 phone: "+39 035.806289/+39 339.6279292"
 url: "www.dolcevitashopping.com"
-latitude: 45.596243
-longitude: 9.572193
 ---
 
 By Sara Valtorta
@@ -21,5 +19,3 @@ tel: +39 035.806289/+39 339.6279292
 url: www.dolcevitashopping.com
 
 address: Via Cesare Battisti 12, 24040 Boltiere (Bergamo)
-
-[back to Tours and Excursions](..)

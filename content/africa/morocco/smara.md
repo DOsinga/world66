@@ -1,0 +1,4 @@
+---
+title: "Smara"
+type: location
+---

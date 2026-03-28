@@ -1,8 +1,6 @@
 ---
 title: "Falun"
 type: location
-latitude: 60.607007
-longitude: 15.632306
 ---
 
 Falun is the capital of the Swedish province Dalarna and the centre of an ancient mining area which has been declared a World Heritage Site by UNESCO. Coppermining has taken place here at least since the 13th century but probably from the 9 th century. From the 14th century it was organised as a kind company with shareholders, considered the oldest of its kind. It was once the biggest copper mine in the world. Mining continued up to the end of the 20th century. The only remaining activity today is the production of a copperholding paint from the waiste products of the coppermine. This paint has since long been used to paint most rural buildings in Sweden red.
@@ -13,5 +11,3 @@ The town Falun was created in relation to the mining. The present masterplan for
 
 **Contributors**
 May 10, 2005
-new
-by [ingvar](/member/ingvar) (1 point)

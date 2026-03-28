@@ -51,11 +51,7 @@ url: [www.napavalley.org](http://www.napavalley.org)
 
 ### [Sierra Railroad](/northamerica/unitedstates/california/centralvalley/manteca/day_trips/sierra_railroad)
 
-Sierra Railroad and Oakdale antiquing are just 25 minutes away from Manteca via Highway 120. Ride and dine in restored Old West passenger cars while enjoying scenery unencumbered by power poles and other nuances. See why more than 75 movies and TV shows ranging from "Petticoat Junction" and western movies to "Back to the Future" were filmed using the rail line.
-
-
-
-tel: 1-800-866-1690
+Sierra Railroad and Oakdale antiquing are just 25 minutes away from Manteca via Highway 120. Ride and dine in restored Old West passenger cars while enjoying scenery unencumbered by power poles and other nuances. See why more than 75 movies and TV shows ranging from "Petticoat Junction" and western movies to "tel: 1-800-866-1690
 
 url: [www.sierrarailroad.com](http://www.sierrarailroad.com)
 

@@ -9,8 +9,6 @@ There are several events that highlight the small-town flavor of this sleepy mid
 
 **Contributors**
 February 18, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Oxford Lions Club Watermelon Feed](/northamerica/unitedstates/kansas/oxford/festivals/oxford_lions_club)
 

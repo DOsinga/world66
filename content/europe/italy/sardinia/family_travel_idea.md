@@ -19,9 +19,4 @@ Learn to dive and take full advantage of the beaches and coves of Sardinia. The 
 
 **Explore Ancient History at the Cittadella dei Musei**
 
-Sardinia has so many historical sites to view. The Cittadella Dei Musei offers the chance to learn some of the local history while still inside. Rated as one of the best archaeological museums in the world, The Cittadella contains relics dating back to the Bronze Age. Exploring the Cittadella is the perfect rainy day activity for families, adults and children.
-
-**Contributors**
-February 16, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
+Sardinia has so many historical sites to view. The Cittadella Dei Musei offers the chance to learn some of the local history while still inside. Rated as one of the best archaeological museums in the world, The Cittadella contains relics dating

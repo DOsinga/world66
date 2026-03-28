@@ -8,11 +8,5 @@ You can fly into Marsh Harbor, (MHH) making a connection in either Ft Lauderdale
 
 **Contributors**
 January 20, 2006
-change
-by [yankeeokie](/member/yankeeokie)
 
 type: By Sea
-
-
-
-[back to Getting There](..)

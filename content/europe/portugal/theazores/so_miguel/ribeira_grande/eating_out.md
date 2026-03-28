@@ -12,8 +12,6 @@ Some say that the best restaurant on the island is in Ribeira Grande…
 
 **Contributors**
 June 29, 2005
-new
-by [gagarin](/member/gagarin) (1 point)
 
 ### [Ala Bote](/europe/portugal/theazores/so_miguel/ribeira_grande/eating_out/ala_bote)
 

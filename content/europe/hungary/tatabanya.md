@@ -1,0 +1,4 @@
+---
+title: "Tatabanya"
+type: location
+---

@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 address: Polígono industrial de Chinales.
-
-[back to Nightlife and Entertainment](..)

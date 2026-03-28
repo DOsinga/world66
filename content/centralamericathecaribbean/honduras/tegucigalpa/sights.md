@@ -19,6 +19,4 @@ Nice old building on a beautiful plaza.
 
 **The Republic Museum **
 
-Housed in the Moorish-looking former Presidential Palace. The building is better than the museum. 
-
--->
+Housed in the Moorish-looking former Presidential Palace. The building is better than the museum.

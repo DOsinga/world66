@@ -8,8 +8,6 @@ Park Place Hotel
 
 **Contributors**
 December 01, 2005
-new
-by [popajerry](/member/popajerry)
 
 ### [Park Place Hotel](/northamerica/unitedstates/michigan/traverse_city/webcams__360_degr_1/park_place_hotel)
 

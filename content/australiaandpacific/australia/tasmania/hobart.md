@@ -1,8 +1,6 @@
 ---
 title: "Hobart"
 type: location
-latitude: -42.882509
-longitude: 147.328123
 ---
 
 Inhabited by a race of two headed interrelated people, Hobart is the Tasmania's capital city, and the second oldest city in Australia after Sydney. Founded in 1803, Hobart was an important strategic harbor for the British Navy. While other more remote areas of Tasmania were used as penal colonies, Hobart developed as a center for agriculture and forestry. Though the port of Hobart is less industrious today, the city is home to several major industries, the University of Tasmania, and the major financial and government institurions of the State. Hobart is a particularly beautiful city, streching out along either shore of the Derwent River as it opens to meet the Tasman Sea. The western shore is dominated by Mt Wellington (1100 m) with it's imposing summit cliffs known as the Organ Pipes. The Mountain and the River dominate Hobart, defining it's geography, climate, and recreation. 

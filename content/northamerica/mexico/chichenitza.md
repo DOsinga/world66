@@ -1,8 +1,6 @@
 ---
 title: "Chichen Itza"
 type: location
-latitude: 20.682852
-longitude: -88.56872
 ---
 
 Chichen Itza has the biggest Maya temple in Mexico, second in the world only to the one in [Tikal](/centralamericathecaribbean/guatemala/tikal) in [Guatemala](/centralamericathecaribbean/guatemala) . It is a very impressive sight and even more impressive if you dream away and think about all the rituals that were performed on the top of that temple by Maya priests. 

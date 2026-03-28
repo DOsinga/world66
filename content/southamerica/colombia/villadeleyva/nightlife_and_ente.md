@@ -17,5 +17,3 @@ People who are traveling here often like to interact and make their own parties 
 
 **Contributors**
 April 16, 2010
-new
-by [turkeyfish](/member/turkeyfish)

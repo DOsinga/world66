@@ -21,9 +21,5 @@ The tourist season occurs from July to August, which, looking at the temperature
 
 **Contributors**
 February 19, 2010
-change
-by [schitti](/member/schitti)
 
 February 04, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

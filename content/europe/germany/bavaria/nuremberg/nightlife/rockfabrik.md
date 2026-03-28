@@ -24,5 +24,3 @@ floor 1: rock+pop floor 2: "metal up your ass"
 
 
 Only 4 EUR entrance, cheap drinks.
-
--->

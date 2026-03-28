@@ -1,0 +1,4 @@
+---
+title: "Muehlen"
+type: location
+---

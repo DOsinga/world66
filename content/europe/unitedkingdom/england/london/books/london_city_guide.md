@@ -43,5 +43,3 @@ Just make sure you mind the gap.
 author: Lonely Planet Publications
 
 isbn: 1741040914
-
-[back to Books](..)

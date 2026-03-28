@@ -9,11 +9,8 @@ Pendle Hill is less than 2,000 feet high but still towers over its immediate are
 
 www.**pendle**tourism.com/f_cap2.asp
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 December 04
-
 ## Destinations in Pendle
 
-[Sabden](/europe/unitedkingdom/england/manchester_liverp/pendle/sabden)
-[Downham](/europe/unitedkingdom/england/manchester_liverp/pendle/downham)
-[Bolton - by - Bowland](/europe/unitedkingdom/england/manchester_liverp/pendle/bolton__by__bowl)
+[Downham](/world/europe/unitedkingdom/england/manchester_liverp/pendle/downham)
+[Bolton - by - Bowland](/world/europe/unitedkingdom/england/manchester_liverp/pendle/bolton__by__bowl)
+[Sabden](/world/europe/unitedkingdom/england/manchester_liverp/pendle/sabden)

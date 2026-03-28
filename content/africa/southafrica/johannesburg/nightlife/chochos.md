@@ -13,5 +13,3 @@ type: Dancing
 address: 90 Corlette Drive, Birnham
 
 tel: (011) 887 0799 / 887 0794
-
-[back to Nightlife and Entertainment](..)

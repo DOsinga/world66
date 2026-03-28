@@ -13,11 +13,5 @@ pilgrimage in mid-Aug by descendants of Ukrainian pioneers.
 
 **Contributors**
 May 27, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: general
-
-
-
-[back to Nearby Towns](..)

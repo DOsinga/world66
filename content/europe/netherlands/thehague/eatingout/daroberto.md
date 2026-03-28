@@ -8,5 +8,3 @@ Best Italian restaurant in The Hague but not cheap. Count on 80 guilders for a c
 address: Noordeinde 196
 
 tel: 070-3464977
-
--->

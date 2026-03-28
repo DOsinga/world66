@@ -11,10 +11,4 @@ Turin - a rich ferment of activity and initiatives; Turin - a vibrant nightlife:
 
   Of course, the cultural life of a modern city is not expressed exclusively by its high profile events, but also through minor initiatives aimed at "niche" audiences. In this sense Turin can stand comparison with other capital cities. The enterprising and creative people of Turin are not surprisingly past masters in the art of providing intelligent entertainment for every taste: from theme evenings in the cafés to readings and debates in the book shops, from small exhibitions of young artists works in "fringe" galleries to outdoor shows in the city's squares, and a whole series of street parties in the local quarters.
 
-  **With courtesy of [Nightlife and Entertainment](/europe/italy/piemonte/turin/nightlife)www. comune.torino.it ** 
-
-## Subsections
-
-[Cinemas](/europe/italy/piemonte/turin/nightlife/cinemas)
-
-[Concerts](/europe/italy/piemonte/turin/nightlife/concerts)
+  **With courtesy of [Nightlife and Entertainment](/europe/italy/piemonte/turin/nightlife)www. comune.torino.it **

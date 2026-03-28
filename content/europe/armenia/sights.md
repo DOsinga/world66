@@ -2,8 +2,6 @@
 title: "Sights"
 type: section
 type: "Hotspots"
-latitude: 39.788474
-longitude: -92.929598
 ---
 
 Armenia is divided into ten provinces called marz in Armenian. Starting
@@ -21,8 +19,6 @@ Syunik Province (Southern Armenia)
 
 **Contributors**
 January 15, 2007
-change
-by [advanturer](/member/advanturer)
 
 ### [Tavush Province (Marz)](/europe/armenia/sights/lori_province)
 

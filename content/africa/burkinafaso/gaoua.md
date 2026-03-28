@@ -1,0 +1,4 @@
+---
+title: "Gaoua"
+type: location
+---

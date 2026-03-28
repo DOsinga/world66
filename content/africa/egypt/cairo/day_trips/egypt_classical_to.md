@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Magdy@egyptonlinetours.com"
 phone: "0020162922290"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Departure : Daily
@@ -42,83 +40,6 @@ DAY 7: Cairo - Bahariya Oasis - White Desert
 In arrival at Cairo you will start our 360 km journey to Bahariya Oasis. Lunch then visit The black Desert and the dune area. We start our climb of a 50 meter dune and in the route to Farafra we visit the Crystal Mountain, the area of the wonders with the desert roses then we head to the White Desert. We start exploring the formations and wind carved sculptor, in the evening, we have a barbeque dinner and sleep in camps under the stars
 
 DAY 8: Bahariya Oasis - Cairo
-After breakfast; drive to visit the Tombs of the Nobles, and the Golden Mummies, after we drive back to Cairo check in and over night.
-
-DAY 9:Cairo - Fly home
-Check out after breakfast and transfer to Cairo International airport to fly back home.
-
-Price Includes:-
-- Meet and assist upon arrival and departure by our representative in all airports
-- Assistance of our personal during your stay, tours and excursions
-- All airport transfers by modern air-conditioned vehicles
-- Hotel accommodation for 2 nights in Cairo on bed and buffet breakfast
-- Accommodation for 2 night aboard first class sleeper train
-- Nile Cruise accommodation for 3 nights on full board basis
-- Accommodation for 1 night in camping in the White Desert
-- Full day tour to Pyramids, Sphinx, Valley temple, Egyptian Museum & Citadel
-- Full day tour to Karnak temple and Luxor temple, East Bank Luxor
-- Full day tour to Valley of the Kings, Hatshepsut temple & colossi of Memnon
-- Half day tour to Edfu temple in Nile cruiser journey
-- Half day tour to Kom Ombo temple in Nile cruise journey - Full day tour to the High Dam and Temple of Philae in Aswan
-- All sightseeing tours as per the tour itinerary
-- All shore excursions as per the tour cruise itinerary
-- Lunch meals during tours in Cairo and Giza
-- Professional Egyptologist speaking tour guide
-- Entrance fees to the sights as per the tour itinerary
-- All hotel taxes and charges
-
-Price Excludes:-
-Optional Tours and personal expenses
-
-Payment Facilities:
-1) Online Payment by Credit card visa or Master via our secure payment page on our website
-http://www.egyptonlinetours.com.com/Travels/Payment.aspx
-
-2 ) Bank transfer:
-Maestro Online Travel Egypt -bank details:
-Account Name: Maestro Online Travel
-Account No: 517517
-Bank: Arab African International Bank
-Branch: Haram
-Swift: ARAIEGCX
-
-Payment Plan:
-25% down payment required to secure the booking ( by credit cards )
-75% balance in pick up from your hotel in the tour day. ( credit card / or / cash )
-
-Tour guide
-Egypt guided tours are highly recommended and our guides are knowledgeable Egyptologist guides who have academic qualifications to make your tour to Egypt extra special
-
-Vehicles used
-Vehicles are new branded air-conditioned with a professional driver, but drivers in Egypt do not speak English and they cannot act as tour guides for the Egyptian monumental sights
-
-Look forward to hearing from you soon,
-Best regards,
-
-Magdy Abdel GHany
-Tour Consultant
-
-Maestro Online Travel Egypt-Haram Branch
-Cell : 002 01629 222 90
-
-Website:-
-www.egyptonlinetours.com
-
-**Contributors**
-July 14, 2010
-new
-by [sarat-maestro](/member/sarat-maestro)
-
-
-
-
-
-tel: 0020162922290
-
-url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Travel-Packages/Egypt-Classical-Tour-Package.php)
-
-address: 124, Haram street, Giza, Egypt
+After breakfast; drive to visit the Tombs of the Nobles, and the Golden Mummies, after we drive address: 124, Haram street, Giza, Egypt
 
 email: Magdy@egyptonlinetours.com
-
-[back to Day Trips](..)

@@ -23,5 +23,3 @@ url: [shurradventures.net](http://shurradventures.net)
 address: chokoloskee, FL
 
 email: info@shurradventures.net
-
-[back to Things to do](..)

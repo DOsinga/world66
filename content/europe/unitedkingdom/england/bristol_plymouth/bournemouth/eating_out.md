@@ -6,8 +6,6 @@ phone: "01202 524499"
 price: "Varied - Our famous burgers start at £5.95"
 type: "American"
 url: "www.starzdiner.co.uk"
-latitude: 51.426538
-longitude: 0.042362
 ---
 
 From the best fish and chips in the south of England to some first class formal restaurants, the seaside town of Bournemouth has plenty to offer hungry visitors. Given its location on the south coast, it´s no surprise that there are numerous good seafood restaurants to be found in Bournemouth. There are also abundant pub-restaurants and wine bars for those looking to combine dining with a night on the town, or just enjoy a meal in a relaxed setting. For visitors with money to burn, there are a number of chic spots for formal dining, while those on a budget can enjoy a low-cost lunch at one of the many sandwich bars to be found.

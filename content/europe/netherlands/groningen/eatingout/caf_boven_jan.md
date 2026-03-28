@@ -25,5 +25,3 @@ tel: 050-3139001
 priceofmenu: € 13 - 17
 
 url: [www.bovenjan.nl](http://www.bovenjan.nl)
-
-[back to Eating Out](..)

@@ -25,5 +25,3 @@ A good place to start your search for restaurants are the Korte Leidsedwarsstraa
 [International](/europe/netherlands/amsterdam/eatingout?subsection=International)
 [Middle East](/europe/netherlands/amsterdam/eatingout?subsection=Middle%20East)
 [Lunch room](/europe/netherlands/amsterdam/eatingout?subsection=Lunch%20room)
-
--->

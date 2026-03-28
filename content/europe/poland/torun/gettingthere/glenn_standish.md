@@ -17,5 +17,3 @@ type: By Air
 url: [www.torundailyphoto.blogspot.com](http://www.torundailyphoto.blogspot.com)
 
 email:
-
-[back to Getting There](..)

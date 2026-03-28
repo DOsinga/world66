@@ -120,5 +120,3 @@ author: Thomas Pakenham
 isbn: 0380720019
 
 subject: history
-
--->

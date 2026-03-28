@@ -29,9 +29,5 @@ If you are planning a trip to Colombia, it is vital to add Santa Marta to your i
 
 **Contributors**
 March 29, 2010
-change
-by [piyushjain](/member/piyushjain_)
 
 March 31, 2010
-change
-by [ctanios](/member/ctanios)

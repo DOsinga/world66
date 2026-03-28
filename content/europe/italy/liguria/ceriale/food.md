@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Ceriale is in one of the most important region for what it is known as the "Mediterranean cuisine" and has a cooking based mainly on the natural products that have always existed in the region which strecthes between the mountains and the sea. Many dishes are based on many types of the Ligurian sea fish food. On example is the"Zuppa di pesce" a kind of soup with rock fish and mussles. In Ceriale fish is still "fished" in the sense that - apart from the molluscs nowadays cultivated everywhere - it is obtained through the ancient way, throwing the nets into the sea and not using farmed fish. Quality varies depenfing on the season.

@@ -23,5 +23,3 @@ There are a number of restaurants in Kenya that offer good food at affordable pr
 
 **Contributors**
 March 26, 2010
-change
-by [imran_m](/member/imran_m)

@@ -7,11 +7,3 @@ In the Western Region, not far fron Busua you'll find Butre beach. It's surtainl
 
 **Contributors**
 September 23, 2005
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Beaches](..)

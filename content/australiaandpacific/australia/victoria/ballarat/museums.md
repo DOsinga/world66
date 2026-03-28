@@ -29,9 +29,5 @@ Wendouree Pde, Ballarat
 
 **Contributors**
 August 23, 2005
-new
-by [tramways](/member/tramways)
 
 August 24, 2005
-change
-by [giorgio](/member/giorgio)

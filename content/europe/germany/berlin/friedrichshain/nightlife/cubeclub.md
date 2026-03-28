@@ -23,5 +23,3 @@ connections: U Frankfurter Tor, U+S WarschauerStr., tram 20, 23
 openings: from 11pm-open end, admission
 
 admission: 5 DM
-
-[back to Nightlife and Entertainment](..)

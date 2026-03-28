@@ -9,13 +9,9 @@ phone: "91-853-9978"
 
 **Contributors**
 May 15, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 
 
 tel: 91-853-9978
 
 address: Park Information Center - Camino de la Pedriza, s/n, Manzanares el Real
-
-[back to Day Trips](..)

@@ -8,8 +8,6 @@ There are lots of locations in the area you can visit on a day trip. The only do
 
 **Contributors**
 April 24, 2006
-change
-by [joosts](/member/joosts) (4 points)
 
 ### [Jaén - San Ignacio - Jaén](/southamerica/peru/northern_pacific_t/jan/day_trips/jan__san_ignaci)
 

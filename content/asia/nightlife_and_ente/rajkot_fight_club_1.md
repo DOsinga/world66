@@ -22,5 +22,3 @@ url: [rajkotfightclub.blogspot.com](http://rajkotfightclub.blogspot.com/)
 address: http://rajkotfightclub.blogspot.com/
 
 email: india9898048483@gmail.com
-
-[back to Nightlife and Entertainment](..)

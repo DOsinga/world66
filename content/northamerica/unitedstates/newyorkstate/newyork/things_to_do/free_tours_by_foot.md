@@ -21,5 +21,3 @@ url: [www.freetoursbyfoot.com](http://www.freetoursbyfoot.com/new-york-tours/)
 address: 31 East 12th Street
 
 email: info@nycbyfoot.com
-
-[back to Things to do](..)

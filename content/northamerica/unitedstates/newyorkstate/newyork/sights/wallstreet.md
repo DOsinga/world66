@@ -14,5 +14,3 @@ type: Palaces
 
 
 openingHours: 78
-
-[back to Sights](..)

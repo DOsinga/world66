@@ -27,9 +27,5 @@ huge rock that towers over the house.
 
 **Contributors**
 March 10, 2005
-new
-by [euroadventures](/member/euroadventures) (1 point)
 
 March 11, 2005
-change
-by [hpharmsen](/member/hpharmsen)

@@ -11,8 +11,6 @@ The Phoenix Symphony is the only professional orchestra in all of Arizona. The g
 
 **Contributors**
 May 09, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Hotspots
 
@@ -23,5 +21,3 @@ tel: +1 602 495 1117
 url: [www.phoenixsymphony.org](http://www.phoenixsymphony.org/)
 
 address: 1 North First Street Phoenix, AZ 85004
-
-[back to Sights](..)

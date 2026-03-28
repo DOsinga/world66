@@ -9,7 +9,5 @@ El Salvador is a major Central American airline Hub, the best & cheapest regiona
 
 **Contributors**
 June 01, 2007
-new
-by [lonetyga](/member/lonetyga)
 
 type: By Air

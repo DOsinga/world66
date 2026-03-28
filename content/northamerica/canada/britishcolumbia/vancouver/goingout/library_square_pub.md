@@ -4,8 +4,6 @@ type: location
 address: "300 West Georgia"
 type: "Clubs and dancing"
 url: "uqevents.com"
-latitude: 34.738778
-longitude: -82.040346
 ---
 
 The
@@ -18,8 +16,6 @@ night.
 
 **Contributors**
 December 04, 2008
-new
-by [frankievancity](/member/frankievancity)
 
 type: Clubs and dancing
 
@@ -28,5 +24,3 @@ type: Clubs and dancing
 url: [uqevents.com](http://uqevents.com/profile/library-square/134824/)
 
 address: 300 West Georgia
-
-[back to Nightlife and Entertainment](..)

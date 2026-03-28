@@ -12,8 +12,6 @@ GO Transit also operates regional services throughout the area.
 
 **Contributors**
 December 21, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 ### [Burlington Transit](/northamerica/canada/ontario/burlington/getting_around/burlington_transit)
 

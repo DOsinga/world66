@@ -35,5 +35,3 @@ Fisherman’s Quarter is part of the old city and is another must-visit attracti
 
 **Contributors**
 March 05, 2010
-change
-by [imran_m](/member/imran_m)

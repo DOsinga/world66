@@ -34,12 +34,8 @@ Students: $4.000 (Colombia Pesos)
 
 **Contributors**
 September 04, 2006
-change
-by [giorgio](/member/giorgio)
 
 August 09, 2005
-new
-by [reen](/member/reen)
 
 
 
@@ -53,19 +49,10 @@ url: [www.museodeantioquia.org](http://www.museodeantioquia.org)
 
 address: Carrera 52 No. 52 -43
 
-[back to Museums](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

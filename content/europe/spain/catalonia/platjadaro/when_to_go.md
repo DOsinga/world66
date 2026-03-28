@@ -94,5 +94,3 @@ live nativity scene.
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)

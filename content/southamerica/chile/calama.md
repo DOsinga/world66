@@ -1,0 +1,4 @@
+---
+title: "Calama"
+type: location
+---

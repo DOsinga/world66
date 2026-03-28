@@ -1,0 +1,4 @@
+---
+title: "Oblong"
+type: location
+---

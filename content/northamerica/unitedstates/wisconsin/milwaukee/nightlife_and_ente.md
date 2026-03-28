@@ -11,5 +11,3 @@ For more information, visit http://www.summerfest.com.
 
 **Contributors**
 May 09, 2004
-new
-by [jinjin](/member/jinjin) (1 point)

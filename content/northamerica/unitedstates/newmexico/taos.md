@@ -10,6 +10,3 @@ An extra hour and a half northeast of Santa Fe, Taos is home of the oldest inhab
 If you're in to art, Rancho de Taos, the main part of town, has plenty of galleries and local shops to keep you happy. Most of the galleries showcase local artists, and both painting and photography are popular occupations for the residents. Most of the emphasis is on the outdoors and the surroundings, but its difficult for it to not be considering the location of the town. 
 
 There are numerous outdoor marvels as well. From the Rio Grande Gorge to the Southern Rockies, hikers, climbers, and outdoor enthusiasts should have no problem finding all sorts of activities in the area. There is a visitors center on the south road into town with tons of information, as well as different places in town to find info about all the activities, shopping and sightseeing to be done in Taos and the surrounding Circle of Enchantment.
-
-*Change history*
-Minor corrections by [Robb](/member/robb) on 18 March 04

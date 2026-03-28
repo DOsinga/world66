@@ -8,7 +8,5 @@ Two of the oldest public centers in Boston and possibly the United States, Faneu
 
 **Contributors**
 February 08, 2007
-new
-by [amptravel](/member/amptravel) (2 points)
 
 type: Landmarks

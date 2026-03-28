@@ -9,5 +9,3 @@ Eliana R. S. Souza runs individualized tours for visitors to Sao Paolo. She spea
 
 **Contributors**
 July 30, 2005
-change
-by [wguterbock](/member/wguterbock)

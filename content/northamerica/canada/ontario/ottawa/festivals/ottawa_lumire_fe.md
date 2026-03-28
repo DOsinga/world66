@@ -18,7 +18,3 @@ tel: 613-745-2742
 url: [www.lumiereottawa.com](http://www.lumiereottawa.com)
 
 zipcode: K1M 1W2
-
-[back to Festivals](..)
-
--->

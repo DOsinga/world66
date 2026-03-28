@@ -1,8 +1,6 @@
 ---
 title: "Pacaya Volcano"
 type: location
-latitude: 14.382112
-longitude: -90.601657
 ---
 
 Standing in at 8,371 feet (2,552 meters) the highly active Pacaya Volcano is perhaps the most climbed volcano in Guatemala. 
@@ -13,7 +11,7 @@ The easiest and most secure way to visit Pacaya is to go with a tour operator, o
 [Antigua Guatemala](/centralamericathecaribbean/guatemala/antiguaguatemala) taking groups to visit Pacaya every day for around $15 - $20 per person. 
 
 If you have your own transportation and an adventurous spirit, you can go on your own. To reach Pacaya, head south from
-[Kanazawa city](/asia/northeastasia/japan/honshu/kanazawacity), on the highway to Esquintla, but turn off on the road to the town of San Vicente Pacaya and Pacaya Volcano National Park before reaching the town of Palín. The sign is not very prominent so watch out. 
+[Kanazawa city](/asia/japan/honshu/kanazawacity), on the highway to Esquintla, but turn off on the road to the town of San Vicente Pacaya and Pacaya Volcano National Park before reaching the town of Palín. The sign is not very prominent so watch out. 
 
 There are two trails up Pacaya Volcano. The more gentle trail, followed by most of the tour groups from Antigua, starts at San Francisco de Sales. Here is the official entrance to the park, and where you need to stop to pay admission (Q25 for foreign visitors in 2001, Q10 for residents). The trail from here is well maintained, with rest stops, trash receptacles and restrooms (primitive), and is patrolled by *guardabosques* (rangers). There is safe parking for your vehicle here in San Francisco, and you can also buy refreshments here. 
 

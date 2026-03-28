@@ -1,0 +1,4 @@
+---
+title: "Canmore"
+type: location
+---

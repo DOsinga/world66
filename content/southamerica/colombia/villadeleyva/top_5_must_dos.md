@@ -53,5 +53,3 @@ Moniquira River and the famous steps of the angels.
 
 **Contributors**
 April 19, 2010
-change
-by [kwalker](/member/kwalker)

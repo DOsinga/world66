@@ -10,8 +10,6 @@ Usually occurs the last week of school or the week after school lets out for the
 
 **Contributors**
 May 06, 2004
-new
-by [mccart42](/member/mccart42) (1 point)
 
 type: general
 
@@ -22,5 +20,3 @@ type: general
 date: early June
 
 url: [www.svfc.com](http://www.svfc.com/)
-
-[back to Festivals](..)

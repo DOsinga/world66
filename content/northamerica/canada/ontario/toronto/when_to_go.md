@@ -23,5 +23,3 @@ In September and October the temperatures range between 10 and 15 degrees C. Fol
 
 **Contributors**
 October 24, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

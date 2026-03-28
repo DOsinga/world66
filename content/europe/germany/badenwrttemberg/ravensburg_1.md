@@ -7,5 +7,3 @@ A small, but lovely town 45 minutes trainride south of Ulm, famous for its puzzl
 
 **Contributors**
 January 30, 2006
-new
-by [natikam](/member/natikam)

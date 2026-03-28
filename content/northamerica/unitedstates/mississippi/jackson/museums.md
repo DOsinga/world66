@@ -9,5 +9,3 @@ If you are an art lover, one of your Jackson activities when visiting must be a 
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

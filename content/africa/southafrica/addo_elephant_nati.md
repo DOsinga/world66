@@ -1,9 +1,9 @@
 ---
-title: "Addo Elephant National Park Travel Guide"
+title: "Addo Elephant National Park"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Addo Elephant National Park is a game park situated close to Port Elizabeth and is recognized as one of the country's twenty national parks.
 
@@ -17,13 +17,3 @@ The park receives about 120,000 visitors annually. International visitors make u
 There is a main and four other rest camps as well four camps run by concessionaires.
 
 The main entrance as well as two looped tourist roads in the park are tarred while the others are graveled. There is also an additional access road through the southern block of the park feeding off the N2 highway near Colchester; it joins up with the existing tourist roads in the park.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Addo_Elephant_National_Park*
-
-#### Contributors
-
-September 23, 2008 new by [delwynne](/member/delwynne)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 05:39

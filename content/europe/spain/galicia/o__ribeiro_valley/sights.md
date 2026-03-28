@@ -13,7 +13,4 @@ dwellings of different types: circular due to the Celts and rectangular
 coinciding roman take over of the hill-fort. It is supposed to have
 been inhabited from the 2nd Century B.C. to the 2nd Century A.D.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections on 11 March 05

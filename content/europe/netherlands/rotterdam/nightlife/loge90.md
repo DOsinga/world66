@@ -18,5 +18,3 @@ address: Schiedamsedk 4a
 tel: +31 (0)10 414 9745
 
 zipcode: 3011EB
-
-[back to Nightlife and Entertainment](..)

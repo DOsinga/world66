@@ -19,5 +19,3 @@ One of the cheapest hostels you will find in Brussels is the Génération Europe
 
 **Contributors**
 August 11, 2009
-change
-by [godofthunder1982](/member/godofthunder1982)

@@ -20,7 +20,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Departure****:** Daily
 
@@ -56,94 +56,7 @@ in **Cairo**
 **- Transfer from **Luxor** **airport** to your hotel in **Luxor**
 for check in and **overnight** stay
 
-**Day 2: Luxor sightseeing - back to Dahab**
-
-- Breakfast before **Luxor tour** in your hotel
-
-- Pick up from your hotel in **Luxor** by A/C coach
-
-- Meet and assist by your Egyptologist **tour** guide
-
-- **Tour** to visit **Valley of the Kings**, **Hatshepsut temple**, **Karnak
-temple**, **Colossi of Memnon**
-
-- Free time in **Luxor** with optional **tours**
-
-- Lunch during **Luxor tour** at local restaurant in **Luxor**
-
-- Return to **Sharm El Sheikh** from **Luxor** with direct transfer to
-your hotel in **Dahab
-
-*****
-
-******Tour Price includes:-
-
-***- Pick up and drop off services from your hotel in **Dahab**
-
-- Airfare from Sharm to **Cairo** then to **Luxor**
-then back to Sharm with **Egypt** Air
-
-- Admission fees to the **sightseeing** in **Cairo**
-and **Luxor** as per **tour** itinerary
-
-- Lunch meals during **Cairo and Luxor tour** at local
-restaurants in **Cairo** and **Luxor**
-
-- Egyptologist English speaking **tour** Guide in **Cairo**
-and **Luxor**
-
-- All transfers by air-conditioned vehicle in **Dahab**, **Cairo**
-and **Luxor****
-
-**- Five stars hotel accommodation in **Luxor*****
-
-******
-
-******Tour Price excludes:-***
-
-Optional **tours** and personal expenses in **Cairo and
-Luxor**:
-
-- Sound and Light show at the Pyramids in **Cairo****
-
-**- Dinner cruise in the Nile with belly dance show in **Cairo**
-
-- Sound and Light show at **Karnak temple** in **Luxor**
-
-Maestro online travel
-
-124 Pyramid street Giza ,Egypt
-
-002-0190023837
-
-***Fax:- ***
-
-00239572770
-
-***For best offer Contact with Amany***
-
-***My Email:-*********
-
-**amanywaw@egyptonlinetours.com******
-
-***Our website:-*********
-
-**www.egyptonlinetours.com******
-
-Normal
-0
-
-false
-false
-false
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**http://www.egyptonlinetours.com/Egypt-Sightseeing-Tours/Dahab-Excursion-List/Two-days-trip-to-Cairo-and-Luxor-from-Dahab.php**
+**Day 2: Luxor sightseeing - **http://www.egyptonlinetours.com/Egypt-Sightseeing-Tours/Dahab-Excursion-List/Two-days-trip-to-Cairo-and-Luxor-from-Dahab.php**
 
 
 
@@ -154,5 +67,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Sightseein
 address: Maestro online travel 124 Pyramid street Giza ,Egypt
 
 email: amanywaw@egyptonlinetours.com
-
-[back to Day Trips](..)

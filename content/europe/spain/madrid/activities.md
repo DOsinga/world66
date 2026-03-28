@@ -1,9 +1,9 @@
 ---
-title: "Activities"
+title: "Things to do"
 type: section
 ---
 
-**Points of Interest**
+**Activitys**
 
 **Ballooning**
 
@@ -20,3 +20,7 @@ Finally, I could recommend a spontaneous Flamenco en Vivo from Monday to Saturda
 address: c/Caja Baja 34
 
 tel: 91-365-5264.
+
+**Perfect walking, tapas and wine Tour**
+
+I recommend the Old Restaurants in Madrid Tour, fantastic!!! Look for them by searching on Google for "Old Madrid"

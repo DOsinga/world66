@@ -14,8 +14,6 @@ Old Uppsala is easily reached by local bus from Uppsala town. The history of the
 
 **Contributors**
 June 21, 2005
-change
-by [ingvar](/member/ingvar)
 
 ### [Memorials of Carl Linnaeus
 

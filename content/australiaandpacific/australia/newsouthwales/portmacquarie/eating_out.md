@@ -7,8 +7,6 @@ email: "reservations@vintagerestaurant.com.au"
 phone: "6583 9300"
 price: "15 for entrees, 28 for main, 10 for dessert"
 type: "European"
-latitude: -31.430965
-longitude: 152.918789
 ---
 
 ### [Vintage Restaurant & Lounge](/australiaandpacific/australia/newsouthwales/portmacquarie/eatingout/vintage_restaurant)

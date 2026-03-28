@@ -15,9 +15,3 @@ The printing museum was built in 1905. It is an old printing house and is devote
  **Address:** 32 Reka Moika Embarkment (Naberezhnaya Reki Moiki)
 
 type: Museums
-
-
-
-
-
-[back to Sights](..)

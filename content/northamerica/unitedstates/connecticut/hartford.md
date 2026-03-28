@@ -13,4 +13,4 @@ Hartford is located in the north-central part of the Connecticut and is the capi
 
  Hartford has some excellent parks and gardens to relax in. The Elizabeth Park Rose Gardens is a great place to go especially in late June. Bushnell Park, which was codesigned by the famed Frederick Law Olmsted, has an antique carousel with a mighty Wurlitzer organ providing the accompaniment.  
 
- From Hartford you can make daytrips to Wethersfield,  [New britain](/asia/southeastasia/papuanewguinea/newbritain) with it's Museum of American Art, a small but impressive collection of American art from the 18th through the 20th centuries and Farmington
+ From Hartford you can make daytrips to Wethersfield,  [New britain](/asia/papuanewguinea/newbritain) with it's Museum of American Art, a small but impressive collection of American art from the 18th through the 20th centuries and Farmington

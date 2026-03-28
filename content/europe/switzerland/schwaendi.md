@@ -1,0 +1,4 @@
+---
+title: "Schwaendi"
+type: location
+---

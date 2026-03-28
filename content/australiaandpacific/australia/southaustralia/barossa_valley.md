@@ -18,6 +18,3 @@ Things Teutonic especially wine, small goods, leather work & attitude to living 
 Accommodation & Food from Back-packer to 5 star.
 
 This is a work in process. There is much to add to it.
-
-**Change history**
-Orginal article by [Chris Clement](/member/chris_clement) on 09 April 05

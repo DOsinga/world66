@@ -10,7 +10,3 @@ address: Jungstr. 29
 connections: U+S Warschauerstr., U Frankfurter Tor
 
 openings: daily 10am -open end
-
-[back to Eating Out](..)
-
--->

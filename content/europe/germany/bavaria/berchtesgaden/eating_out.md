@@ -27,9 +27,5 @@ Located in Berchtesgaden Strabe, this cozy family run hotel offers a good view o
 
 **Contributors**
 March 17, 2010
-change
-by [beverly_per](/member/beverly_per)
 
 March 23, 2010
-change
-by [2 many commas](/member/2_many_commas)

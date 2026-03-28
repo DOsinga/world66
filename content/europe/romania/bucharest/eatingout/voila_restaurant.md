@@ -22,5 +22,3 @@ tel: +40213125155
 priceofmenu: average around 30 EURO
 
 url: [www.restaurantvoila.ro](http://www.restaurantvoila.ro)
-
--->

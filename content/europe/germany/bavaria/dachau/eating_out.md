@@ -124,5 +124,3 @@ pc: 85221 Dachau
 address: Newtonstr. 3
 
 tel: (0 81 31) 99 77 77
-
--->

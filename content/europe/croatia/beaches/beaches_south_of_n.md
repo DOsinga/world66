@@ -68,6 +68,3 @@ beach here on your left is the closest you will get to a sand beach around
 here. It is coarse brown gravel that some like better than the rock - and some
 don’t. Have a look and decide for yourself.
 There are also similar beaches further out by the mouth of Neretva.
-
-**Change history**
-Minor corrections by [janskov](/member/janskov) on 03 July 05

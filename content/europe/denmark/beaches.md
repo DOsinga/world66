@@ -27,5 +27,3 @@ Tourists looking for a quieter beach to relax at should definitely visit the Bil
 
 **Contributors**
 April 16, 2010
-change
-by [imran_m](/member/imran_m)

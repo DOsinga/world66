@@ -1,9 +1,9 @@
 ---
-title: "Sharur Travel Guide"
+title: "Sharur"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located on the western part of the Nakhchivan autonomous republic, Sharur is a recent town, developed with the construction of the railway that used to go northwest into Armenia. The closure of this link was a severe blow to the local economy.
 
@@ -16,13 +16,3 @@ Just across the railway, 2km south of Sharur is the town of Yengijar , an intere
 In a clear day you can see mount Ararat / Agri in the distance. Around Sharur and Yengijar lie vast extensions of fertile agricultural land.
 
 (460 km southwest of Baku)
-
-*Part or or all of this text stems from the original article at: www.azerb.com*
-
-#### Contributors
-
-April 16, 2006 new by [azerbaijan08](/member/azerbaijan08)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 15:25

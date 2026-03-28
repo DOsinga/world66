@@ -2,8 +2,6 @@
 title: "Morey Mansion"
 type: poi
 address: "190 Terracina Blvd,  Redlands, CA 92373"
-latitude: 34.038794
-longitude: -117.207993
 ---
 
 This beautiful Victorian home has been dubbed
@@ -21,13 +19,9 @@ www.moreymansion.com
 
 **Contributors**
 December 05, 2005
-new
-by [handyman321](/member/handyman321)
 
 
 
 
 
 address: 190 Terracina Blvd, Redlands, CA 92373
-
-[back to Museums](..)

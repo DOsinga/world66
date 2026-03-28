@@ -85,5 +85,3 @@ is located in Fischerviertel – a popular area in Ulm.
 
 **Contributors**
 February 19, 2010
-change
-by [kwalker](/member/kwalker)

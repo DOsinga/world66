@@ -12,5 +12,3 @@ type: general
 
 
 address: Fuchtshallergasse.
-
-[back to Nightlife and Entertainment](..)

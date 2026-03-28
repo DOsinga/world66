@@ -18,8 +18,6 @@ Sunday 10am-10pm with brunch being served 10am-4pm
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: African
 
@@ -28,5 +26,3 @@ type: African
 tel: 791-CHEF (791-2433)
 
 address: 2101 North Rainbow Blvd. Suite #102
-
-[back to Eating Out](..)

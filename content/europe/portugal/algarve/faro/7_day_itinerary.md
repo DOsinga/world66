@@ -37,9 +37,5 @@ Faro is a lovely mix of ancient historical castles, sandy beaches, cobbled old t
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 09, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

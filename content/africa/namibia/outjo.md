@@ -1,0 +1,4 @@
+---
+title: "Outjo"
+type: location
+---

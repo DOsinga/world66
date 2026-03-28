@@ -1,0 +1,8 @@
+---
+title: "JANDALA"
+type: location
+---
+
+Travel Guide
+
+IAM WAQAR HUSSAIN FROM JANDALA NAKHA RAWALAKOT AZAD KASHAMIR .I LOVE MY JANDALA

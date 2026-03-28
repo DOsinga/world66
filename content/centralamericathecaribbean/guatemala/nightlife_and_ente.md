@@ -3,8 +3,6 @@ title: "Nightlife and Entertainment"
 type: section
 ---
 
-Orginal article by [karoja](/member/karoja) on 21 July 04
-
 **all**
 
 **Bar El Establo**

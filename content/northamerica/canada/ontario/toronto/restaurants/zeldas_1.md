@@ -1,6 +1,6 @@
 ---
 title: "Zelda's"
-type: location
+type: poi
 address: "542 Church Street (nr Wellesley)"
 email: "eat@zeldas.ca"
 phone: "416-922-2526 (voice) 416-922-2055 (fax)"
@@ -18,7 +18,5 @@ There is a website for their events and menu. Visit www.zeldas.ca for informatio
 
 **Contributors**
 May 06, 2005
-change
-by [allamericanbear](/member/allamericanbear)
 
 type: Local

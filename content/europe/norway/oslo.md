@@ -1,8 +1,6 @@
 ---
 title: "Oslo"
 type: location
-latitude: 59.91333
-longitude: 10.73897
 ---
 
 Oslo is the capital of Norway with approximately 500.000 inhabitans, or a little over 10% of the country`s total population. About one third of the total population of the country lives around the Oslo Fjord area. 

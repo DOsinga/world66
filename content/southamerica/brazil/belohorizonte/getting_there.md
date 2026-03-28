@@ -24,5 +24,3 @@ If you're planning to drive around Brazil, it's best that you apply for an inter
 
 **Contributors**
 December 28, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

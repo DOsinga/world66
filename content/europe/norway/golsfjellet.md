@@ -1,0 +1,4 @@
+---
+title: "Golsfjellet"
+type: location
+---

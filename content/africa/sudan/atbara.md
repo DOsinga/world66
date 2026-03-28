@@ -1,0 +1,4 @@
+---
+title: "Atbara"
+type: location
+---

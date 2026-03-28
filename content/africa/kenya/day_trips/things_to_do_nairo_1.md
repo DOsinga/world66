@@ -5,8 +5,6 @@ address: "P.O Box 00501-19173 Nairobi, Kenya"
 email: "anatrav@nbnet.co.ke"
 phone: "+254-722-752002"
 url: "www.anastravels.com"
-latitude: -1.338251
-longitude: 36.742711
 ---
 
 Ana's tours and travel is a well established tours and
@@ -85,5 +83,3 @@ url: [www.anastravels.com](http://www.anastravels.com/)
 address: P.O Box 00501-19173 Nairobi, Kenya
 
 email: anatrav@nbnet.co.ke
-
-[back to Day Trips](..)

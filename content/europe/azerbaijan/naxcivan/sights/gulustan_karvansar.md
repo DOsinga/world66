@@ -8,13 +8,5 @@ Gulustan Karvansara – this monument is also situated in Gulustan village of Ju
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

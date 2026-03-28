@@ -136,5 +136,3 @@ www.abkhazia.com](/europe/georgia/abkhazia)
 
 **Contributors**
 August 31, 2007
-new
-by [ramaz mitaishvili](/member/ramaz_mitaishvili)

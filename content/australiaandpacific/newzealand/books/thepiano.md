@@ -18,5 +18,3 @@ author: Jane Campion,With Kate Pullinger
 isbn: 0786880961
 
 subject: culture
-
-[back to Books](..)

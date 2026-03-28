@@ -34,5 +34,3 @@ will be uninhabitable. Go now while you still can.
 
 **Contributors**
 May 20, 2005
-change
-by [giorgio](/member/giorgio)

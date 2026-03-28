@@ -12,5 +12,3 @@ type: African
 
 
 address: Gutenberggasse 13, 7. Bezirk
-
-[back to Eating Out](..)

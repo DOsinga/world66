@@ -27,5 +27,3 @@ This hotel is also located along the beach, which makes it a great place to stop
 
 **Contributors**
 March 04, 2010
-change
-by [shomer](/member/shomer)

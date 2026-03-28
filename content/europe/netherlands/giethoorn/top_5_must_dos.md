@@ -27,9 +27,5 @@ If you are feeling all romantic and want to relive Venice, you can do so here in
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

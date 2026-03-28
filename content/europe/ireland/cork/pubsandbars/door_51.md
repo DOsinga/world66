@@ -15,5 +15,3 @@ address: "51 grande parade, Cork"
 
 
 address: 51 grande parade, Cork
-
-[back to Pubs and Bars](..)

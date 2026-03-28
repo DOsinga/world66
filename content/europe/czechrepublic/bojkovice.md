@@ -1,0 +1,4 @@
+---
+title: "Bojkovice"
+type: location
+---

@@ -14,5 +14,3 @@ from the 1980s to the present, displayed on floor floors and in its semi-basemen
 
 **Contributors**
 February 12, 2007
-new
-by [costacora](/member/costacora) (2 points)

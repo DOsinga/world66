@@ -19,12 +19,4 @@ After an entire day of diving, you're sure to be ready for a bit more of a low-k
 
 **Days Four and Five - Desert Safari and Mt. Sinai**
 
-A highlight of any trip to Sharm is exploring the surrounding desert. You can hire quads to go for a race through the sand, or just book a trip out with the local Bedouins. Once you've made the trek to the middle of the desert you can set up camp, and your guides will fix you an incredible traditional dinner. After that you can sleep under the stars-be sure to bundle up, it gets cold in the desert! Bring a portable alarm clock with you and set it for between 2 and 3 a.m. so that you can head to Mt. Sinai and make it to the top to experience a breathtaking sunrise. When you get back to the bottom be sure to take some time to explore St. Katherine's Monastery and touch the legendary descendant of the burning bush of Moses.
-
-**Day Six - Ras Mohammed National Park**
-
-Another great day trip to make is a tour of Ras Mohammed National Park. You only need half a day for this trip, so you can spend the morning catching up on the sleep you missed the night before. Once you're there, you can head to the Eel Gardens to see these amazing creatures in their natural habitat. The park is also popular for bird watching, but the main draw are the incredible coral walls.
-
-**Day Seven** **- Dinner on the Water**
-
-You'll probably want to spend your final day back at the beach, working on your tan before you head home. Again, you can sign up for snorkeling, parasailing or any of the numerous boat trips that are offered all around the beach. Finish your vacation with a luxurious dinner on the Red Sea. Glass bottomed boats will take you out over the sea so that you can watch the fish while you dine. It's a fantastic way to end your trip.
+A highlight of any trip to Sharm is exploring the surrounding desert. You can hire quads to go for a race through the sand, or just book a trip out with the local Bedouins. Once you've made the trek to the middle of the desert you can set up camp, and your guides will fix you an incredible traditional dinner. After that you can sleep under the stars-be sure to bundle up, it gets cold in the desert! Bring a portable alarm clock with you and set it for between 2 and 3 a.m. so that you can head to Mt. Sinai and make it to the top to experience a breathtaking sunrise. When you get

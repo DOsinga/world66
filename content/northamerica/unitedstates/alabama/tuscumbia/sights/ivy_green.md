@@ -6,8 +6,6 @@ opening_hours: "See text"
 phone: "(256) 383-4066"
 type: "Memorials"
 url: "www.helenkellerbirthplace.org"
-latitude: 34.737197
-longitude: -87.690759
 ---
 
 This is the birthplace of Helen Keller. An excellent time to visit Ivy
@@ -48,8 +46,6 @@ Group of 20 or more . . . Adults $5 & Children $1.50 (Group reservations request
 
 **Contributors**
 December 03, 2005
-change
-by [handyman321](/member/handyman321)
 
 type: Memorials
 
@@ -62,5 +58,3 @@ openingHours: See text
 url: [www.helenkellerbirthplace.org](http://www.helenkellerbirthplace.org)
 
 address: 300 West North Commons, Tuscumbia, Alabama 35674
-
-[back to Sights](..)

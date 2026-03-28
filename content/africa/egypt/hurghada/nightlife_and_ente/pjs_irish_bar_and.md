@@ -17,7 +17,3 @@ Join us for an excellent night out for all the family.
 Tel 002 0161 248 007
 
 type: Casinos
-
-
-
-[back to Nightlife and Entertainment](..)

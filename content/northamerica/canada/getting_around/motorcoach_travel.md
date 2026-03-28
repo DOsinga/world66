@@ -15,7 +15,3 @@ vacation packages consisting of multiple day's escorted motorcoach
 tours and hotel accommodation.
 
 In addition, airport shuttle services link major tourist areas and major airports.
-
-
-
-[back to Getting Around](..)

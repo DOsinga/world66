@@ -11,9 +11,4 @@ http://www.fountainsabbey.org.uk/ is an excellent site
 
 From here if you continue along the main road to Pateley bridge you will be able to turn off on signed minor roads to the south and reach Brimham rocks, an extraordinary array of rocks of convoluted shapes, again owned by the NT.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 09 September 04
-
-Minor corrections by [davidx](/member/davidx) on 09 September 04
-
--->
+Minor corrections on 09 September 04

@@ -14,8 +14,6 @@ url: "www.hacha.ru"
 
 **Contributors**
 August 01, 2011
-change
-by [shpanya](/member/shpanya)
 
 type: Cheap
 
@@ -34,5 +32,3 @@ address: 10, Bolshoy Gnezdnikovsky pereulok
 PriceOfMenu: $20-30
 
 email: puri@hacha.ru
-
-[back to Eating Out](..)

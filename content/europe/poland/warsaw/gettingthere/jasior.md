@@ -10,13 +10,5 @@ National carrier: LOT Polish Airlines
 
 **Contributors**
 February 12, 2007
-change
-by [gika](/member/gika) (1 point)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

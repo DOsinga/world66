@@ -6,8 +6,6 @@ closing_time: "2:00:00 AM - 10:00:00 AM"
 phone: "(514) 286-0325"
 type: "Clubs and dancing"
 url: "www.stereo-nightclub.com"
-latitude: 45.515941
-longitude: -73.558145
 ---
 
 **Stereo nightclub** is an afterhours club in Montreal, Canada which primarily features house music.
@@ -35,5 +33,3 @@ tel: (514) 286-0325
 url: [www.stereo-nightclub.com](http://www.stereo-nightclub.com/)
 
 address: 858 Ste-Catherine est , Montreal , Quebec H2L 2E3
-
-[back to Nightlife and Entertainment](..)

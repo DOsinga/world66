@@ -18,8 +18,6 @@ Your concierge or front desk can make recommendations on what to do when you are
 
 **Contributors**
 November 09, 2005
-change
-by [allamericanbear](/member/allamericanbear)
 
 ### Elmwood Strip
 

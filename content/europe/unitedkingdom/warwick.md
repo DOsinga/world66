@@ -1,9 +1,9 @@
 ---
-title: "Warwick Travel Guide"
+title: "Warwick"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Warwick** (pronounced /ˈwɒrɪk/ ( listen) *WORR-ik* with a silent w in the middle) is the county town of Warwickshire, England. The town lies upon the River Avon, 18 km (11 miles) south of Coventry and 4 km (2.5 miles) west of Leamington Spa (although the towns are conjoined), with a population of 25,434 (2001 census).[1]
 
@@ -23,9 +23,3 @@ Warwick is twinned with Saumur in France and Verden, Germany. Warwick was twinne
 in the former East Germany was adopted by Verden on re-unification, and
 was welcomed as a friendship town by Warwick and Saumur. As part of
 Warwick District, the town participates in One World Link (OWL), a friendship link with Bo in Sierra Leone.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Warwick*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 00:45

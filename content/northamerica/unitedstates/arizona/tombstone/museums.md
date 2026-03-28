@@ -4,8 +4,6 @@ type: section
 address: "308 Allen St E"
 phone: "520-457-3456"
 type: "general"
-latitude: 39.753935
-longitude: -84.168388
 ---
 
 ### [O K Corral Incorporated](/northamerica/unitedstates/arizona/tombstone/museums/okcorralincorporated)

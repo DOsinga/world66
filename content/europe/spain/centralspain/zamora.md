@@ -12,6 +12,3 @@ Its main features, however, are the cathedral [photoed with some difficulty in a
 davidx
 
 2 July 2004
-
-*Change history*
-Minor corrections by [davidx](/member/davidx) on 02 July 04

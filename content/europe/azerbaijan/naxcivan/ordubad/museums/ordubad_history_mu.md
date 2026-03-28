@@ -10,13 +10,9 @@ Address: 19 F.Zeynalov st., Ordubad town
 
 **Contributors**
 April 18, 2006
-new
-by [azerbaijan08](/member/azerbaijan08) (2 points)
 
 
 
 
 
 address: Address: 19 F.Zeynalov st., Ordubad town
-
-[back to Museums](..)

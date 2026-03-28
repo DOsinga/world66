@@ -12,5 +12,3 @@ type: Bars
 
 
 address: Estacion Maritima, Puerto de Ibiza
-
-[back to Nightlife and Entertainment](..)

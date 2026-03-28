@@ -7,8 +7,6 @@ opening_hours: "11am - 5pm, daily."
 phone: "0207 255 2422"
 type: "Hotspots"
 url: "www.fitzroyhouse.org"
-latitude: 51.522523
-longitude: -0.139115
 ---
 
 Formerly inhabited by playwright George Bernard Shaw, Fitzroy House is where
@@ -35,5 +33,3 @@ url: [www.fitzroyhouse.org](http://www.fitzroyhouse.org)
 address: 37 Fitzroy Street, London, W1T 6DX
 
 email: info@fitzroyhouse.org
-
-[back to Sights](..)

@@ -50,5 +50,3 @@ less crowded and prices far lower than they are in the summer time.
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)

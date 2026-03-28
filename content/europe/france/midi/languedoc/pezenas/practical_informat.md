@@ -27,5 +27,3 @@ Central European Time (CET) is observed in Pezenas, or better known as Greenwich
 
 **Contributors**
 February 21, 2010
-new
-by [marley16kristin](/member/marley16kristin)

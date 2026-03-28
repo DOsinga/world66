@@ -10,5 +10,3 @@ If you go over in the morning, you can start with a visit of the New York Aquari
 
 **Contributors**
 April 09, 2005
-change
-by [bart_diver](/member/bart_diver)

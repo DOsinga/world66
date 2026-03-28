@@ -18,11 +18,7 @@ storm which covered the village in sand.
 
 **Contributors**
 February 29, 2008
-new
-by [europealacarte](/member/europealacarte) (1 point)
 
 
 
 url: www.snh.org.uk
-
-[back to Day Trips](..)

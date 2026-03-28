@@ -20,5 +20,3 @@ Midwest Airlines
 1-800-452-2022 
 
 Personal attention, wide leather seats and baked-onboard chocolate chip cookies - all at competitive fares - have earned Milwaukee's hometown airline its reputation as "The best care in the air."
-
--->

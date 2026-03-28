@@ -18,5 +18,3 @@ url: [www.edialtour.com](http://www.edialtour.com)
 address: Geoge W. Bush Boulevard Tower 1
 
 email: info@edialtour.com
-
-[back to Getting Around](..)

@@ -10,5 +10,3 @@ http://perso.wanadoo.fr/routedherault/espinouse.html is in French only but the p
 
 **Contributors**
 November 12, 2004
-new
-by [davidx](/member/davidx)

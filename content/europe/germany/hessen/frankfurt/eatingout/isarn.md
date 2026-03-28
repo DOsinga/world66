@@ -4,8 +4,6 @@ type: poi
 address: "Fahrgasse 11"
 phone: "06929724636"
 type: "Thai"
-latitude: 50.110433
-longitude: 8.687035
 ---
 
 Thai restaurant clos to the Dom. Good food, reasonable prices and with
@@ -20,5 +18,3 @@ type: Thai
 tel: 06929724636
 
 address: Fahrgasse 11
-
-[back to Eating Out](..)

@@ -8,5 +8,3 @@ One of the hottest clubs around. ** Cryss:** I´ve been living here in Torremoli
 address: Avda Palma de Mallorca 36
 
 openinghours: 10pm-7am
-
--->

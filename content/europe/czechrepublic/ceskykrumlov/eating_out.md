@@ -3,8 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Orginal article by [RichardOsinga](/member/richardosinga) on 21 May 04
-
 **Restaurants**
 
 **Barbakon**

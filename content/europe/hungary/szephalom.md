@@ -1,8 +1,6 @@
 ---
 title: "Szephalom"
 type: location
-latitude: 47.560038
-longitude: 18.959638
 ---
 
 Ferenc Kazinczy lived at Széphalom which belongs to Sátoraljaújhely.

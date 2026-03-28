@@ -17,7 +17,4 @@ Places to stay: There is a campground within the park, and RV parks in Lukeville
 
 You can find more information on the National Park Service website.
 
-**Contributors**
-February 21, 2005
-change
-by [shooter](/member/shooter) (1 point)
+Minor corrections by [Shooter](/world/member/shooter) on 21 February 05

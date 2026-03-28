@@ -1,12 +1,8 @@
 ---
-title: "Nkoranza - Brong Ahafo Travel Guide"
+title: "Nkoranza - Brong Ahafo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Visit Nkoranza Fiema Monkey sanctuary and be blessed with the blissfulness of natural air
-
-Page last generated on Sun 22:25
-
--->

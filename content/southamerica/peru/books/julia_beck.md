@@ -16,5 +16,3 @@ isbn: "0-75381-358-0"
 author: Hugh Thomson
 
 isbn: 0-75381-358-0
-
-[back to Books](..)

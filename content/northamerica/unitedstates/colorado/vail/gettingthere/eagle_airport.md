@@ -25,11 +25,5 @@ Cost of the bus **$3**.
 
 **Contributors**
 April 04, 2005
-change
-by [javaboy](/member/javaboy)
 
 type: By Air
-
-
-
-[back to Getting There](..)

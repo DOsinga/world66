@@ -13,6 +13,4 @@ National and International Connections
 
 Phone : 04 67 20 85 00
 
-Web site : www.montpellier.aeroport.fr  
-
--->
+Web site : www.montpellier.aeroport.fr

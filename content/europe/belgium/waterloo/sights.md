@@ -14,5 +14,3 @@ URL: http://www.waterloo1815.be/en/waterloo/
 
 **Contributors**
 July 23, 2007
-new
-by [michel_galibert](/member/michel_galibert) (1 point)

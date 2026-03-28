@@ -1,9 +1,9 @@
 ---
-title: "Wickenburg Travel Guide"
+title: "Wickenburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Wickenburg was founded in 1863. Henry
 Wickenburg discovered gold and named his mine the Vulture, which eventually
@@ -39,7 +39,3 @@ economic mainstays of the area. Wickenburg was incorporated in 1909. The town
 now has a population in excess of 5000 people.
 
 ~ written by PETE ~
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 02:08

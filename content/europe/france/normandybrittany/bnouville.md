@@ -11,9 +11,4 @@ Next to the famous Pegasus Bridge is the Pegasus Memorial museum. Closed in Dece
 
 Within a walking distance is the Château of Bénouville which can be visited specially during exhibitions.
 
-*Change history*
-Orginal article by [Sir Malcolm](/member/sir_malcolm) on 18 January 05
-
-Minor corrections by [Sir Malcolm](/member/sir_malcolm) on 18 January 05
-
--->
+Minor corrections by [Sir Malcolm](/world/member/sir_malcolm) on 18 January 05

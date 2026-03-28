@@ -12,6 +12,3 @@ Bellingham, Kielder, Newcastle, Nine Banks, Once Brewed and Wooler.
 Go to http://www.yha.org.uk/Stay_at_YHA/Regional/Northumberland_and_North_Pennines.html
 
 for these and others and click on the one you want.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 16 September 04

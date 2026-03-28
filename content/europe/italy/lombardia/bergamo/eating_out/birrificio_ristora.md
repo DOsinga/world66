@@ -6,8 +6,6 @@ phone: "Tel/Fax 0039 035 63 62 23"
 price: "€13 (without drinks and desserts)"
 type: "Italian"
 url: "www.maivisto.info"
-latitude: 45.770243
-longitude: 9.613079
 ---
 
 A Brew Pub which sells 4 kinds of beer - home made with local mountain water and passion: pils, ale, double bock and a scotch ale which can also be had from the spout. It's located in an old restructured building with a cantina, a courtyard and a terrace with room for 500 people. Closed Mondays.
@@ -18,8 +16,6 @@ Music and entertainment after midnight with a DJ. April 31 thru 25, 2006 Celtic 
 
 **Contributors**
 April 09, 2006
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Italian
 
@@ -32,5 +28,3 @@ url: [www.maivisto.info](http://www.maivisto.info/index.html)
 address: Via Maivista 3, 24010 Sedrina - Valle Brembana
 
 PriceOfMenu: €13 (without drinks and desserts)
-
-[back to Eating Out](..)

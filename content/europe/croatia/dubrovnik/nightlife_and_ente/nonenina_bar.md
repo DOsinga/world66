@@ -5,8 +5,6 @@ address: "Pred Dvorom 4"
 email: "info@nonenina.com"
 type: "Erotic clubs and bars"
 url: "www.nonenina.com"
-latitude: 42.64056
-longitude: 18.110443
 ---
 
 Nonenina is a bar is the ideal place to rest
@@ -46,5 +44,3 @@ url: [www.nonenina.com](http://www.nonenina.com)
 address: Pred Dvorom 4
 
 email: info@nonenina.com
-
-[back to Nightlife and Entertainment](..)

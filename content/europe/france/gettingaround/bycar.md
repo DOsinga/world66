@@ -9,9 +9,6 @@ Freeways (autoroutes) are mostly in good conditions. They have 3 lanes in each d
 
 In contrary to North America, people don't give directions using "north-bound" or "south-bound". If you're in Paris and you need to go to Monaco, prepare yourself for the trip by knowing all major cities you are going to pass. That way you just drive from city to city. If you know in advance which cities you're going to visit you might want to get your driving directions from www.mappy.com.It's the most comprehensive mapping program around and some travelers don't move around France withour it.
 
-*Change history*
-Orginal article by [Dick](/member/dick) on 31 July 04
-
-Minor corrections by [Dick](/member/dick) on 31 July 04
+Minor corrections on 31 July 04
 
 email: rhg@adelphia.net

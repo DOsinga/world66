@@ -1,0 +1,4 @@
+---
+title: "Cherthala"
+type: location
+---

@@ -12,8 +12,6 @@ url: "www.zumlustigenbauern.at"
 
 **Contributors**
 December 28, 2006
-change
-by [lovoist](/member/lovoist)
 
 ### [Gasthof zum Lustigen Bauern](/europe/austria/zeiselmauer/eating_out/gasthof_zum_lustig)
 

@@ -25,5 +25,3 @@ url: [www.domgogolya.ru](http://www.domgogolya.ru/en)
 address: Moscow, Nikitsky Boulevard, 7a
 
 email: museum@domgogolya.ru
-
-[back to Museums](..)

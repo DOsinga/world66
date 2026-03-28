@@ -10,6 +10,3 @@ to professionalize educational and research activities;
 to optimize the use of human and financial resources;
 to introduce a contractual system between the state and the various structures of higher education; and
 to give more autonomy to institutions of higher education
-
-*Change history*
-Orginal article by [Directrice GSM](/member/directrice_gsm) on 24 February 05

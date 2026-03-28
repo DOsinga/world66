@@ -3,8 +3,6 @@ title: "Yorkshire's ruined Abbeys and Priories"
 type: poi
 address: "various"
 url: "britannia.com"
-latitude: 21.702345
-longitude: 108.359024
 ---
 
 Yorkshires abbey ruins are as noted as any in the UK and a week's holiday could well be spent with this as a theme. 
@@ -28,6 +26,3 @@ Yorkshires abbey ruins are as noted as any in the UK and a week's holiday could 
 **Kirkstall Priory** is in the City of Leeds itself and passed without much notice every day by many on their way to work. However its remains are extensive and there is a fascinating museum attached to it. 
 
 **Whitby Abbey** remains aren't exensive but they are splendidly sited and immenely picturesque. Ther is no need for a specific visit but they enhance the beauty of this lovely seaside town.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 27 October 04

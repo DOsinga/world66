@@ -48,18 +48,4 @@ and supermarkets.
 **National Museum**
 
 Port Harcourt family travel to this museum will allow you to view
-numerous artifacts dating back to the 1800s. You will find local
-ancient African art and various metal statues on display. The history of
-Port Harcourt and Nigeria can be learned here during your tour.
-
-**Open Air Markets
-**
-
-Another Port Harcourt family travel idea is visiting the open air
-markets. Your family will get the chance to buy traditional Nigerian attire and sandals. Mile 1 Market, located on IKwere Road, is one such place to visit. You will also get to buy some souvenirs to take back home. Also visit the vegetable and fruit
-markets to sample the various fresh produce available.
-
-**Contributors**
-April 12, 2010
-new
-by [joekabuya](/member/joekabuya)
+numerous artifacts dating

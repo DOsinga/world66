@@ -11,8 +11,6 @@ A Bathing Ape (Bape) sells kick arse streetgear out of an unassuming minimalist 
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: 212-925-0222
 url: [www.bapestas.net](http://www.bapestas.net)
 
 address: 91 Greene Street
-
-[back to Shopping](..)

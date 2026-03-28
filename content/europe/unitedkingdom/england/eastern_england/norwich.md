@@ -8,5 +8,3 @@ The Forum which is next to the main market square, includes the library and the 
 Norwich Internet Cafe can be found in Norwich Market Place in the middle of the city. 
 
 Colmans Mustard Museum.
-
--->

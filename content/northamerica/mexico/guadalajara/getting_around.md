@@ -39,5 +39,3 @@ destination he'll look for the specific address.
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)

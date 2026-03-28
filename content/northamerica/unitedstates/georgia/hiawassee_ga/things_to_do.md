@@ -51,13 +51,7 @@ spend a little time outside of the hustle and bustle of city life.
 
 **Contributors**
 January 25, 2010
-new
-by [kat99](/member/kat99)
 
 January 26, 2010
-change
-by [nam](/member/nam)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

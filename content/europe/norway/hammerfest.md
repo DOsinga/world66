@@ -1,0 +1,4 @@
+---
+title: "Hammerfest"
+type: location
+---

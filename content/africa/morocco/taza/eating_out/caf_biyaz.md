@@ -25,17 +25,7 @@ While the service in the café might be very good, as a woman however you should
 
 **Contributors**
 August 13, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)
 
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Local
-
-
-
-
-
-[back to Eating Out](..)

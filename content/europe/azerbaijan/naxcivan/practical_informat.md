@@ -32,5 +32,3 @@ Fax. 255-55383
 
 **Contributors**
 April 16, 2006
-new
-by [azerbaijan08](/member/azerbaijan08)

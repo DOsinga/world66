@@ -1,9 +1,9 @@
 ---
-title: "San Bruno Travel Guide"
+title: "San Bruno"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 San Bruno is located at 37°37′31″N, 122°25′31″W (37.625288, -122.425266) GR1 . The city is located between South San Francisco and Millbrae, near the San Francisco International Airport and about 12 miles (19 km) south of downtown San Francisco.
 
@@ -32,7 +32,3 @@ friar who founded many of the Spanish missions in California during the
 eighteenth century; Serra regularly passed through what is now San
 Bruno whenever he visited the mission at San Francisco. The park is
 administered by the San Mateo County Parks and Recreation Department, which charges a small entry fee on weekends.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

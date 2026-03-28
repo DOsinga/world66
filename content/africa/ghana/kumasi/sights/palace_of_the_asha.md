@@ -8,13 +8,5 @@ Visitng this palace with a guide you get an intresting view on the life inside t
 
 **Contributors**
 July 30, 2005
-new
-by [ragna](/member/ragna) (1 point)
 
 type: Palaces
-
-
-
-
-
-[back to Sights](..)

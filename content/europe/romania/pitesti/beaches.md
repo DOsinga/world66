@@ -7,5 +7,3 @@ Pitesti is situated near the Arges river. There is a beach over there that also 
 
 **Contributors**
 February 27, 2006
-change
-by [giorgio](/member/giorgio)

@@ -9,8 +9,6 @@ Iceland is of course one big collection of sights, but these are the must-see pl
 
 **Contributors**
 May 28, 2007
-new
-by [filminfo](/member/filminfo)
 
 ### [REYKJAVIK 64°08N 21°54W BOOK by Photographer Ami Sioux](/europe/iceland/reykjavik/sights/reykjavik_6408n)
 

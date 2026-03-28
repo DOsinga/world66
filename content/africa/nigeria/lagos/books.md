@@ -59,5 +59,3 @@ nightlife.
 
 **Contributors**
 April 01, 2010
-new
-by [revjugular](/member/revjugular)

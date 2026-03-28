@@ -9,5 +9,3 @@ Piedras Negras is known as "La Puerta de Mexico" (Mexico's Door), although many 
 
 **Contributors**
 July 28, 2005
-new
-by [jstephen](/member/jstephen) (1 point)

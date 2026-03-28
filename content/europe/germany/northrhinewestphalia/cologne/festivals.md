@@ -65,9 +65,5 @@ New Year's Eve - Join the locals in a night of revelry as the city gears up to c
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 26, 2010
-change
-by [tiffanymparker](/member/tiffanymparker)

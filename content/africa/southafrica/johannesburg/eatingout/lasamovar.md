@@ -7,7 +7,3 @@ type: "International"
 Address: Hutton Court, Jan Smuts Avenue  Tel: (011) 788 365
 
 type: International
-
-
-
-[back to Eating Out](..)

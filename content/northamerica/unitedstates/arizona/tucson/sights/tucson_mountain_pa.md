@@ -9,13 +9,9 @@ The Tucson Mountain Park is the perfect place to get your family and friends out
 
 **Contributors**
 May 06, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Parks, Gardens and Zoos
 
 
 
 tel: (520) 877-6000
-
-[back to Sights](..)

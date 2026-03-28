@@ -18,8 +18,6 @@ This is a very welcoming place speaking, Italian, Croasian, French, German and E
 
 **Contributors**
 May 09, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Italian
 
@@ -36,5 +34,3 @@ address: Via F Argilati n40 20143 Milano
 PriceOfMenu: euro 25-40
 
 email: aabuyers@fastmail.fm
-
-[back to Eating Out](..)

@@ -19,5 +19,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#moby](http://www.sfgaybarlist.com#moby)
 
 address: 4049 18th St.
-
-[back to Nightlife and Entertainment](..)

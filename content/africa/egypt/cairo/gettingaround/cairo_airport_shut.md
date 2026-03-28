@@ -15,8 +15,6 @@ Overall, great value for money, with excellent hassle free comfort.
 
 **Contributors**
 May 22, 2009
-new
-by [karulm](/member/karulm)
 
 
 
@@ -25,5 +23,3 @@ by [karulm](/member/karulm)
 tel: +20 22 265 3937
 
 url: www.cairo-airport.com
-
-[back to Getting Around](..)

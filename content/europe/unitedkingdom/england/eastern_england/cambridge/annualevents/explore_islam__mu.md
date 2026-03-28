@@ -43,5 +43,3 @@ www.discoverislam.com
 tel: 01223655223
 
 email: mail@meoc.org.uk
-
-[back to Annual Events](..)

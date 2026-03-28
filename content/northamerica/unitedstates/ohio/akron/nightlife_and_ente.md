@@ -12,8 +12,6 @@ There are several clubs in downtown Akron.
 
 **Contributors**
 July 31, 2005
-new
-by [josh3736](/member/josh3736) (1 point)
 
 ### The Interbelt Nite Club
 

@@ -23,5 +23,3 @@ url: [www.coquettecollection.com](http://www.coquettecollection.com)
 address: Calle Madrazo 153, St Gervasi, Barcelona 08021
 
 email: coquettecollection@yahoo.com
-
-[back to Shopping](..)

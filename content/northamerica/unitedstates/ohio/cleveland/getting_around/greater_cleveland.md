@@ -8,11 +8,7 @@ A decent public transit system that serves Cleveland and Cuyahoga County through
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03)
 
 
 
 url: [www.gcrta.org](http://www.gcrta.org/)
-
-[back to Getting Around](..)

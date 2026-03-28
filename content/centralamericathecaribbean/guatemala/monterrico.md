@@ -1,0 +1,4 @@
+---
+title: "monterrico"
+type: location
+---

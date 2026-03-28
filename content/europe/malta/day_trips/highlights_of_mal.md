@@ -22,5 +22,3 @@ url: [www.conciergemalta.webs.com](http://www.conciergemalta.webs.com)
 address: 34, Flat 5, Waves Court, Virginio Monti street, Swatar, Malta
 
 email: conciergemalta@inbox.com
-
-[back to Day Trips](..)

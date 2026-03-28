@@ -10,13 +10,5 @@ Many of these rivers appear in the following canoeing website and, by selecting 
 
 **Contributors**
 October 31, 2004
-new
-by [davidx](/member/davidx) (1 point)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

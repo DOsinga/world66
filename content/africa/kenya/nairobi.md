@@ -1,8 +1,6 @@
 ---
 title: "Nairobi"
 type: location
-latitude: -1.302615
-longitude: 36.828842
 ---
 
 Nairobi [Kenya](/africa/kenya) ’s mile-high capital is only 90 mi/145 km south of the equator. Founded by the British little more than a 100 years ago, the city now has a population of more than 2 000 000. It’s a modern commercial center with some interesting high-rises and lots of bustle. Visitors can find things not so common in other parts of Africa, such as nice theatres showing the latest films, expensive restaurants serving every type of food, as well as E-mail facilities, faxes and any other sort of modern technology you may want to use. The city is constantly alive, especially at night. Unfortunately, Nairobi has acquired a reputation of being a dangerous city and petty crime is rampant. 
@@ -16,7 +14,3 @@ For those who can’t wait to see animals (or who are only visiting Nairobi), th
 This excursion to Langatta is often combined with a visit to the former home of Karen Blixen (who wrote under the pseudonym Isak Dinesen), author of Out of Africa. Blixen’s farmhouse, which was presented to the Kenyan government by Denmark, is now a museum —it’s located nextdoor to the Karen College. Langatta also has The Bomas of Kenya which is a terrific cultural center that regularly hosts traditional song and dance performances. 
 
 A day trip (a two-hour drive each way) can be made to Lake Magadi to visit Olorgesailie in [The Rift Valley](/africa/kenya/theriftvalley) for its prehistoric campsite. The scenic region inhabited by Masai farmers has a wide variety of birds.
-
-## Destinations
-
-- [Kenya](/africa/kenya/nairobi/kenya)

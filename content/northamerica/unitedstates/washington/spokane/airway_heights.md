@@ -1,9 +1,9 @@
 ---
-title: "Airway Heights Travel Guide"
+title: "Airway Heights"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Wikipedia
 **
@@ -45,9 +45,3 @@ females age 18 and over, there were 325.0 males.
 The median income for a household in the city was $29,829, and the
 median income for a family was $31,344. Males had a median income of
 $26,117 versus $22,031 for females. The per capita income for the city was $11,069. About 14.8% of families and 22.0% of the population were below the poverty line, including 21.0% of those under age 18 and 3.0% of those age 65 or over.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Airway_Heights,_Washington*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 13:52

@@ -19,5 +19,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#cinch](http://www.sfgaybarlist.com#cinch)
 
 address: 1723 Polk St.
-
-[back to Nightlife and Entertainment](..)

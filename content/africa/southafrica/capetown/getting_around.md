@@ -18,5 +18,3 @@ If you are apprehensive about driving in Cape Town, using its Minibus Taxi servi
 
 **Contributors**
 March 13, 2010
-new
-by [ak1980](/member/ak1980)

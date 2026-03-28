@@ -17,8 +17,6 @@ Can't recall if it's vegetarian only, it may be.
 
 **Contributors**
 February 03, 2005
-new
-by [tomt314159](/member/tomt314159) (1 point)
 
 type: Indian and Pakistani
 
@@ -31,5 +29,3 @@ zipcode: 10016-8103
 address: 409 3rd Ave @ 41st
 
 tel: 212-689-5666
-
-[back to Eating Out](..)

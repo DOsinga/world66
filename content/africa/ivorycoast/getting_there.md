@@ -32,9 +32,3 @@ There are two through trains with sleeping and restaurant cars from Abidjan to O
 Road
 
 There are road links of varying quality from Kumasi (Ghana) and from Burkina Faso Guinea and Liberia and Mali.
-
-
-
-## Subsections
-
-[By Air](/africa/ivorycoast/gettingthere/byair)

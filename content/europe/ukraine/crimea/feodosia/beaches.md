@@ -19,5 +19,3 @@ Hawkers trading in pies, sweets, smoked fish, beer, etc., are permanently passin
 
 **Contributors**
 March 11, 2006
-change
-by [giorgio](/member/giorgio)

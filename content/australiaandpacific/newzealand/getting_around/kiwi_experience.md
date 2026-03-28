@@ -15,5 +15,3 @@ Other than that this is also a perfect way to see New Zealand and enjoy the beau
 url: [www.kiwiexperience.co.nz](http://www.kiwiexperience.co.nz)
 
 address: Backpacker world travel
-
-[back to Getting Around](..)

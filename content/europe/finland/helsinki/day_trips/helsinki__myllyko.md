@@ -20,5 +20,3 @@ url: [service.vr.fi](http://service.vr.fi/ticket/domesticSearchJourneys.do?fromv
 address: Itäasemantie 17, 46800 ANJALANKOSKI
 
 email: idamolsa@msn.com
-
-[back to Day Trips](..)

@@ -31,9 +31,5 @@ A great day trip is the town of Offenbach. This is the place to shop for leather
 
 **Contributors**
 April 08, 2010
-change
-by [ctanios](/member/ctanios)
 
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

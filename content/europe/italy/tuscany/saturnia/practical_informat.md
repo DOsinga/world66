@@ -9,8 +9,6 @@ Saturnia is important for its thermal waters and spa.
 
 **Contributors**
 February 09, 2006
-new
-by [karenbru](/member/karenbru)
 
 ### [Tourist Information](/europe/italy/tuscany/saturnia/practical_informat/tourist_informatio)
 

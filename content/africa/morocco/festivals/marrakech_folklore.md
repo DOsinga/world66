@@ -10,5 +10,3 @@ The bustling city of Marrakech manages to cram in even more popular sights and s
 
 **Contributors**
 December 10, 2005
-change
-by [hpharmsen](/member/hpharmsen)

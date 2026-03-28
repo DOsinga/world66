@@ -12,8 +12,6 @@ If you’re interested in sneaking in a full body workout or two during your sta
 
 **Contributors**
 May 13, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Swimming
 
@@ -26,5 +24,3 @@ url: [www.mirandabad.nl](http://www.mirandabad.nl)
 address: The Mirandalaan 9
 
 email: mirandabad@zuideramstel.amsterdam.nl
-
-[back to Things to do](..)

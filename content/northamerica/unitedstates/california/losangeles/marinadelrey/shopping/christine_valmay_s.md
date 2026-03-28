@@ -10,8 +10,6 @@ A *BYOGENIS Skin Care Salon, *Christine Valmay features scientific facials along
 
 **Contributors**
 June 09, 2008
-new
-by [marinagal](/member/marinagal)
 
 type: Antiques
 
@@ -22,5 +20,3 @@ type: Antiques
 tel: 310/821-8892
 
 address: 4772 Lincoln Blvd.
-
-[back to Shopping](..)

@@ -26,5 +26,3 @@ url: [visitandoni.com](http://visitandoni.com)
 address: Ekede/Ikuru/Ilotombi
 
 email: gogoabelujile@gmail.com
-
-[back to Things to do](..)

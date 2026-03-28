@@ -27,5 +27,3 @@ Mestre is home to one of the most coveted teams in football: Venezia. You can wa
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

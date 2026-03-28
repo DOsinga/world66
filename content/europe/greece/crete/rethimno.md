@@ -1,0 +1,4 @@
+---
+title: "Rethimno"
+type: location
+---

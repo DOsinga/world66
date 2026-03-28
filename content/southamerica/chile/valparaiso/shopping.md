@@ -51,5 +51,3 @@ Valparaiso streets twist and turn like snakes and you are likely to get lost at 
 
 **Contributors**
 April 20, 2010
-change
-by [ismaelt](/member/ismaelt)

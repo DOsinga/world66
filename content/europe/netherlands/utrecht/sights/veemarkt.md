@@ -14,5 +14,3 @@ type: Public Buildings
 
 
 address: Veemarkthallen, Sarreweg
-
-[back to Sights](..)

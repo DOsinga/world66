@@ -2,8 +2,6 @@
 title: "Smbataberd Fortress"
 type: poi
 type: "Castles"
-latitude: 39.87192
-longitude: 45.338159
 ---
 
 This fortress, on a thin peninsula with tall sheer sides, is naturally
@@ -16,13 +14,5 @@ visit on the same day.
 
 **Contributors**
 November 11, 2008
-new
-by [raffikojian](/member/raffikojian)
 
 type: Castles
-
-
-
-
-
-[back to Sights](..)

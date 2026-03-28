@@ -14,5 +14,3 @@ type: Hotspots
 
 
 address: Lawnmarket/ High Street
-
-[back to Sights](..)

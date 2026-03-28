@@ -35,13 +35,7 @@ and papers from your local embassy to travel by road into Colombia.
 
 **Contributors**
 January 24, 2010
-new
-by [kwalker](/member/kwalker)
 
 January 26, 2010
-change
-by [nam](/member/nam)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

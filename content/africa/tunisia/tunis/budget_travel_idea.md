@@ -19,5 +19,3 @@ While keeping your trip on a budget you don’t have to quench the amount of fun
 
 **Contributors**
 March 04, 2010
-change
-by [turkeyfish](/member/turkeyfish)

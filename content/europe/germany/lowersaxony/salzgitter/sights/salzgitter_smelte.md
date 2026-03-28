@@ -6,8 +6,6 @@ email: "info@szmh-group.com"
 phone: "0049-5341-21-01"
 type: "Hotspots"
 url: "www.salzgitter-ag.de"
-latitude: 52.159843
-longitude: 10.429816
 ---
 
 Salzgitter is known for its steelmaking and steelworks industry. In Salzgitter-Watenstedt you can visit the **smeltery at the Salzgitter AG**. In a guided tour you are shown step-by-step how steal is produced. You can take a close look at the furnace and the roller plant.
@@ -27,8 +25,6 @@ Website: www.salzgitter.de/frames/sp_auto _6073.html
 
 **Contributors**
 August 14, 2006
-new
-by [bernhadette](/member/bernhadette) (2 points)
 
 type: Hotspots
 
@@ -41,5 +37,3 @@ url: [www.salzgitter-ag.de](http://www.salzgitter-ag.de/en)
 address: Eisenhüttenstraße 99, 38239 Salzgitter
 
 email: info@szmh-group.com
-
-[back to Sights](..)

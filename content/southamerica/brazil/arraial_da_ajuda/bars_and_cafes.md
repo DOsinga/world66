@@ -8,8 +8,6 @@ Arraial is full of bars and interesting cafes to sit and spend some time enjoyin
 
 **Contributors**
 November 24, 2005
-new
-by [tull](/member/tull)
 
 ### [La Morocha](/southamerica/brazil/arraial_da_ajuda/bars_and_cafes/la_morocha)
 

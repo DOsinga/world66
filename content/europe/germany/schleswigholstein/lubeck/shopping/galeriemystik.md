@@ -18,5 +18,3 @@ openings: 10am-1.30pm Sat
 tel.: +49 451 418 38
 
 address: Kanalstraße 70, Im Werkhof
-
-[back to Shopping](..)

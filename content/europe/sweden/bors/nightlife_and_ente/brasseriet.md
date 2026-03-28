@@ -6,8 +6,6 @@ closing_time: "Various see above"
 phone: "+46 33 - 100136"
 type: "Pubs"
 url: "brasseriet.com"
-latitude: 55.627785
-longitude: 13.069066
 ---
 
 Situated at the bottom floor of Hotel Vävaren.
@@ -19,8 +17,6 @@ Sun Closed
 
 **Contributors**
 June 10, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 type: Pubs
 
@@ -33,5 +29,3 @@ tel: +46 33 - 100136
 url: [brasseriet.com](http://brasseriet.com/)
 
 address: Allégatan 21
-
-[back to Nightlife and Entertainment](..)

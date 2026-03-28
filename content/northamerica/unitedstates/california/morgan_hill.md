@@ -1,9 +1,9 @@
 ---
-title: "Morgan Hill Travel Guide"
+title: "Morgan Hill"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Conveniently located minutes south of Silicon Valley, Morgan Hill is the ideal spot for travelers to stay overnight and enjoy all Santa Clara County has to offer. If you are arriving from the North, we are known as the "Gateway to the Central Coast", and from the South, the "Gateway to Silicon Valley". We are on the way to everywhere and have something for everyone to enjoy.
 
@@ -14,7 +14,3 @@ Morgan Hill prides itself as a family community and is home to festivals and cel
 Morgan Hill is surrounded by some of the most beautiful open space in California. Great Golf Courses, lakes, outstanding country, state and national parks for camping, hiking, horseback riding, water recreations and mountain biking await you.
 
 Shopping? If you are looking for that unique or handcrafted gift for someone special, then nothing is left to the imagination when shopping in Morgan Hill. Visit our quaint historic downtown that offers boutique and specialty items or one of our many retail shopping centers featuring brand name stores such as Mervyns, Big 5 Sporting Goods, Target, and TJ Max and many more!
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 05:21

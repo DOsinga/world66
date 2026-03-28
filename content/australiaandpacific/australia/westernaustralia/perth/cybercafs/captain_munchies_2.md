@@ -30,5 +30,3 @@ address: No2 Beach Street FREMANTLE
 Perth, Western Australia 6160 Australia
 
 url: [www.CaptainMunchies.com](http://www.CaptainMunchies.com)
-
-[back to Internet Cafes](..)

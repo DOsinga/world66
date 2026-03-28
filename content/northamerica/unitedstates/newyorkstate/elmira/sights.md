@@ -11,8 +11,6 @@ There are a number of interesting sites in Elmira, mostly relating to Mark Twain
 
 **Contributors**
 October 23, 2005
-new
-by [swampthing](/member/swampthing)
 
 ### [Mark Twain's Study](/northamerica/unitedstates/newyorkstate/elmira/sights/mark_twains_study)
 

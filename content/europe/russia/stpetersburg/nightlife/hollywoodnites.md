@@ -15,5 +15,3 @@ type: Casinos
 address: Nevskiy Prospekt 46 (Nesvkiy Prospekt/gostiniy dvor metro)
 
 openings: --
-
-[back to Nightlife and Entertainment](..)

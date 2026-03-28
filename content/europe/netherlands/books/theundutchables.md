@@ -20,5 +20,3 @@ author: Colin White, Laurie Boucke
 isbn: 1888580224
 
 subject: The Dutch
-
-[back to Books](..)

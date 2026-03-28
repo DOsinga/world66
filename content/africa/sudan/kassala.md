@@ -1,8 +1,6 @@
 ---
 title: "Kassala"
 type: location
-latitude: 16.043199
-longitude: 36.018111
 ---
 
 Kassala is located in the East of Sudan, some 600 km from [Khartoum](/africa/sudan/khartoum) practically on the border with ERITRIEA. It used to be one of the touristic highlights of Sudan, and is still quite popular with Sudanese newlyweds who come here to honeymoon. 

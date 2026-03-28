@@ -15,5 +15,3 @@ More Info on:
 
 
 author: Paul Franklin, Jill Metzler, Don Pitcher
-
-[back to Books](..)

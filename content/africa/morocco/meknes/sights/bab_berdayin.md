@@ -3,8 +3,6 @@ title: "Bab Berdayin"
 type: poi
 address: "Meknès, Medina"
 type: "Hotspots"
-latitude: 33.895561
-longitude: -5.567221
 ---
 
 If you walk to the northern part of the medina, leaving the usual touristic areas behind, the souks will get poorer and muddier. Beyond the Mosque El Berdayin there is the Place El Berdayin, that looks rather like a large parking-lot with some small shops and an internet-café.
@@ -17,17 +15,11 @@ A way leads down to the Boulevard Circulaire.
 
 **Contributors**
 June 06, 2006
-new
-by [bernhadette](/member/bernhadette) (5 points)
 
 June 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Hotspots
 
 
 
 address: Meknès, Medina
-
-[back to Sights](..)

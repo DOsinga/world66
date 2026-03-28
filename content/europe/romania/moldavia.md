@@ -1,8 +1,6 @@
 ---
 title: "Moldavia"
 type: location
-latitude: 46.911094
-longitude: 27.240772
 ---
 
 We currently have no information about Moldavia.

@@ -17,5 +17,3 @@ Saranda museums are not just necessities for your vacation. They are joys. Let t
 
 **Contributors**
 April 08, 2010
-new
-by [jbyard1](/member/jbyard1)

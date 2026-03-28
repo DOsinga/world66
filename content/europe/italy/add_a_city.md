@@ -1,12 +1,8 @@
 ---
-title: "Add a City Travel Guide"
+title: "Add a City"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Capri in the south of Italy. Very popular site with tourist also part of the Amalfi Coast.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 06:54

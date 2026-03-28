@@ -11,8 +11,6 @@ Check it out and try your portuguese a little.
 
 **Contributors**
 January 13, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Acting festival](/southamerica/brazil/londrina/festivals/acting_festival)
 

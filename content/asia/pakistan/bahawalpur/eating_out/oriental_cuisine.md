@@ -17,5 +17,3 @@ type: Chinese
 tel: 0622877522
 
 address: model town b near haji ashraf masjid
-
-[back to Eating Out](..)

@@ -1,0 +1,4 @@
+---
+title: "Culiacan"
+type: location
+---

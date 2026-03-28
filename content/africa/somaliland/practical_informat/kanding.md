@@ -98,9 +98,3 @@ I was not there, but I meet some retired Norwegian lady that get in love with So
 Well, I will not go there for holidays…
 
 type: Tourist information
-
-
-
-
-
-[back to Practical Information](..)

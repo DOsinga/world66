@@ -44,9 +44,3 @@ The main routes are from South Africa to Zimbabwe Botswana and Mozambique. Conta
 Road
 
 There are main routes into South Africa from Zimbabwe (via Beit Bridge) and Botswana (via Ramatlabama) Mozambique (now open after a long war – check with local police about state of road and safety) Namibia Lesotho and Swaziland.
-
-
-
-## Subsections
-
-[By Air](/africa/southafrica/gettingthere/byair)

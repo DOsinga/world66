@@ -1,9 +1,9 @@
 ---
-title: "Woods Hole Travel Guide"
+title: "Woods Hole"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Woods Hole is a salty, sea spray village that brings the Nobel
 Laureate and the local fisherman together in harmony. It is a village
@@ -22,8 +22,3 @@ attractions, beautiful gardens and scenic vistas.
 
 More information on
 *Woods Hole Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 15:17

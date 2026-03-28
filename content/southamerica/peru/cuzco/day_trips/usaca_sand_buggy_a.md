@@ -5,8 +5,6 @@ address: "Jerusalen 410 - Peru"
 email: "info@peruadventurestours.com"
 phone: "0051 54 221658"
 url: "www.peruadventurestours.com"
-latitude: -16.395544
-longitude: -71.533769
 ---
 
 **4x4, Archaeology And Adventure Tour In The Nazca Desert - Half Day Tour**
@@ -17,30 +15,6 @@ Peru Adventure tours introduce this trip in 2005 and strongly recommend you spen
 Itinerary
 
 Usaca dune buggy and sandboard tour can be departure at 7am or 1pm, all depend of our client request. The trip begins from the hotel in Nasca, firstly we aboard our Dune buggy vehicle (4WD) and Off road tour on let bank of Nazca Valley. The first stop will in Cahuachi ceremonial center and a sacred destination of Nazca pilgrims between 100 and 500 AD. The visit includes the main cultural-urban center, pyramidal temples, terracing of fossil sand dunes streets and squares give the site a general city aspect.
-After complete guided tour to this recently excavated great pyramid we continue through the Cahuachi valley, enter to Tambo de Perro village, group of farmers leave in this charm valley, from here we use the buggy to drive in stony ad dirty road till Usaca valley. Usaca is nice quiet oasis in the middle of hundreds sand dunes and the encounter of Nazca and Pajonal River. Uphill in the buggy and downhill Sandboarding on the amazing dunes, after 2 hours of fun time and observing the great coastal natural sceneries and strange desert forest we return by the same way we used to get there, stop in Estaqueria it was considerate a solar observatory, on platforms made of adobes and columns of "Huarangos" trunks (carob tree). After 5 hours adventure trip come back to your hotel.
-Included
-
-Professional English speaking guide
-Private van to the trailhead
-Boards for each participants
-Snack (fresh fruit and energy bars) and lunch will be served after come back to Nasca
-Swimming Pool can be used after lunch
-Personal porter to carry your boards or gear (only private VIP service)
-Tour price include government sales tax (19% as know IGV)
-PERU ADVENTURE TOURS gift
-
-PERU ADVENTURE TOURS invite your to contact us for more information: info(at)peruadventurestours.com
-
-http://www.peruadventurestours.com/en/sandboarding_tours.html
-
-
-
-tel: 0051 54 221658
-
-url: [www.peruadventurestours.com](http://www.peruadventurestours.com)
-
-address: Jerusalen 410 - Peru
+After complete guided tour to this recently excavated great pyramid we continue through the Cahuachi valley, enter to Tambo de Perro village, group of farmers leave in this charm valley, from here we use the buggy to drive in stony ad dirty road till Usaca valley. Usaca is nice quiet oasis in the middle of hundreds sand dunes and the encounter of Nazca and Pajonal River. Uphill in the buggy and downhill Sandboarding on the amazing dunes, after 2 hours of fun time and observing the great coastal natural sceneries and strange desert forest we return by the same way we used to get there, stop in Estaqueria it was considerate a solar observatory, on platforms made of adobes and columns of "Huarangos" trunks (carob tree). After 5 hours adventure trip come address: Jerusalen 410 - Peru
 
 email: info@peruadventurestours.com
-
-[back to Day Trips](..)

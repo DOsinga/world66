@@ -39,8 +39,6 @@ If you have a large group (with lots of kids), I would send you to Incredible Pi
 
 **Contributors**
 December 12, 2006
-change
-by [approaching genius](/member/approaching_genius) (6 points)
 
 ### [India Palace](/northamerica/unitedstates/oklahoma/tulsa/eating_out/india_palace)
 

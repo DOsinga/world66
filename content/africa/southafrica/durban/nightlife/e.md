@@ -46,5 +46,3 @@ accessibility: roadside cafe
 address: 161 Gordon Rd, Cnr Florida and Gordon Rd
 
 email: eran.eyal@mobileqanda.com
-
-[back to Nightlife and Entertainment](..)

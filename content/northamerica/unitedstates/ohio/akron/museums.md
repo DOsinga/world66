@@ -24,5 +24,3 @@ Admission: $13
 
 **Contributors**
 July 31, 2005
-new
-by [josh3736](/member/josh3736)

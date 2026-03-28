@@ -12,8 +12,6 @@ Mexican restaurant is positioned in the hotel “Marina”.Mexican cuisine resem
 
 **Contributors**
 March 06, 2010
-new
-by [teona](/member/teona)
 
 type: Mexican
 
@@ -26,5 +24,3 @@ url: [www.marigroup.ge](http://www.marigroup.ge)
 address: 10, Khimshiashvili str.
 
 email: hotelmarina@marigroup.ge
-
-[back to Eating Out](..)

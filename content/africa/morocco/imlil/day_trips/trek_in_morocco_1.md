@@ -20,5 +20,3 @@ url: [www.trekinmorocco.net](http://www.trekinmorocco.net/)
 address: Center imlil,marrakech
 
 email: info@trekinmorocco.net
-
-[back to Day Trips](..)

@@ -14,8 +14,6 @@ Some of the most famous people on the planet are at rest at this historic Hollyw
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Graves and Cemeteries
 
@@ -32,5 +30,3 @@ url: [www.hollywoodforever.com](http://www.hollywoodforever.com)
 address: 6000 Santa Monica Boulevard
 
 email: webmaster@forevernetwork.com
-
-[back to Sights](..)

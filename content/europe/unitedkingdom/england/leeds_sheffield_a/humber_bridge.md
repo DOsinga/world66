@@ -8,8 +8,3 @@ The River Humber estuary is the second largest water barrier in England [The Was
 It is very scenic and there are viewing areas with extensive car parks on both sides.
 
 It might seem surprising the number of people who view the bridge or even cross it and never see the Saxon part of the church tower at very nearby Barton-on-Humber. A considerable amount of interest can be found on http://www.humberbridge.co.uk/techspec.htm
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 28 August 04
-
--->

@@ -7,8 +7,6 @@ email: "info@elgatolounge.com"
 phone: "952 385 129"
 type: "Gay and Lesbian"
 url: "www.elgatolounge.com"
-latitude: 42.737394
-longitude: -2.798088
 ---
 
 El Gato Lounge is a real surprise to find: located in an old Spanish casa with cosy laid-back terrace and surrounded by bouganvilles and other tropical plants. The place itself is what yoju would expect from a stylish bar in Barcelona: two floors smartly decorated and comfortable wooden tables and chairs.
@@ -34,5 +32,3 @@ url: [www.elgatolounge.com](http://www.elgatolounge.com)
 address: Nogalera 11
 
 email: info@elgatolounge.com
-
-[back to Nightlife and Entertainment](..)

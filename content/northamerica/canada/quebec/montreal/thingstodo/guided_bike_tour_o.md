@@ -125,5 +125,3 @@ url: [www.cycletoursmontreal.com](http://www.cycletoursmontreal.com)
 address: Ave du Parc LaFontaine/Rue Rachel
 
 email: tours@cycletoursmontreal.com
-
-[back to Things to do](..)

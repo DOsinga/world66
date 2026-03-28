@@ -17,5 +17,3 @@ tel: +31 3396279292
 url: [www.milanbergamotours.it](http://www.milanbergamotours.it)
 
 email: info@dolcevitashopping.com
-
-[back to Tours and Excursions](..)

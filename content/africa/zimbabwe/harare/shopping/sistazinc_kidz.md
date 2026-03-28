@@ -21,5 +21,3 @@ url: [www.sistazinckidz.co.uk](http://www.sistazinckidz.co.uk)
 address: No.5 23 Ascot Rd
 
 email: sistazinckidz@yahoo.co.uk
-
-[back to Shopping](..)

@@ -22,5 +22,3 @@ address: Just east off I285 via US 78
 open: Daily 6 a.m. - midnight.
 
 url: [www.stonemountainpark.com](http://www.stonemountainpark.com/)
-
--->

@@ -27,5 +27,3 @@ You can find a school that teaches Spanish. The schools offer you the ability to
 
 **Contributors**
 March 04, 2010
-new
-by [piyushjain](/member/piyushjain_)

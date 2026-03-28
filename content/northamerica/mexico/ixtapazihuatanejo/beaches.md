@@ -12,8 +12,6 @@ No matter what your preference, the area has a beach that will meet your needs.
 
 **Contributors**
 July 03, 2005
-new
-by [rickjacobson](/member/rickjacobson)
 
 ### [Playa Sanctuario De Las Tortugas](/northamerica/mexico/ixtapazihuatanejo/beaches/playa_sanctuario_d)
 
@@ -88,17 +86,10 @@ There are many activities located right on the beach, including banana-boat ride
 
 [](/lib/map/handle?loc=northamerica|mexico|ixtapazihuatanejo)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

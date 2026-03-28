@@ -11,5 +11,3 @@ type: section
 [Bars & Cafes](/northamerica/unitedstates/illinois/chicago/nightlife?subsection=Bars%20%26%20Cafes)
 
 [Clubs and dancing](/northamerica/unitedstates/illinois/chicago/nightlife?subsection=Clubs%20and%20dancing)
-
--->

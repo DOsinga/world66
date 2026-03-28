@@ -10,8 +10,6 @@ There’s no way you can leave Amsterdam without picking up some authentic flowe
 
 **Contributors**
 May 12, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -22,5 +20,3 @@ type: Speciality shops
 tel: (020) - 6834180
 
 address: Twede Constantijn, Huygensstraat 57
-
-[back to Shopping](..)

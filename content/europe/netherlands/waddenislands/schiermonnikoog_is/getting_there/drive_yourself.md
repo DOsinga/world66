@@ -12,7 +12,4 @@ The **the IJsselmeer Dam** /Closing-dike/Afsluitdijk route. Give *station* in th
 
 In Lauwersoog you will find two big parking lots; costs € 3,50 per day (2004). The parking area is not monitored; parking is at your own risk. Spaces cannot be reserved. *Tip*: In high season, parking your car and buying tickets will take 30 minutes or more.
 
-*Change history*
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 24 February 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 07 March 05
+Minor corrections on 07 March 05

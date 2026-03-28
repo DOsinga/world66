@@ -60,9 +60,5 @@ multi-film ticket booklets for €40 to €60.
 
 **Contributors**
 March 31, 2010
-new
-by [amymc](/member/amymc)
 
 April 01, 2010
-change
-by [ctanios](/member/ctanios)

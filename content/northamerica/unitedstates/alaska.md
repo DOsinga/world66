@@ -34,18 +34,3 @@ type: location
 
 
 **Aurea Borealis**
-
-## Destinations
-
-- [Aleuts](/northamerica/unitedstates/alaska/aleuts)
-- [Anchorage](/northamerica/unitedstates/alaska/anchorage)
-- [Bristol Bay](/northamerica/unitedstates/alaska/bristolbay)
-- [Fairbanks](/northamerica/unitedstates/alaska/fairbanks)
-- [Juneau](/northamerica/unitedstates/alaska/juneau)
-- [Kenai](/northamerica/unitedstates/alaska/kenai)
-- [Kodiak](/northamerica/unitedstates/alaska/kodiak)
-- [Nome](/northamerica/unitedstates/alaska/nome)
-- [Portage Glacier](/northamerica/unitedstates/alaska/portageglacier)
-- [Tlingit](/northamerica/unitedstates/alaska/tlingit)
-- [galena](/northamerica/unitedstates/alaska/galena_1)
-- [galena](/northamerica/unitedstates/alaska/galena)

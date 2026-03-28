@@ -10,8 +10,6 @@ If you're looking for a fancy boutique-style Mexican restaurant, don't look here
 
 **Contributors**
 June 16, 2005
-new
-by [hobobrother](/member/hobobrother)
 
 type: Mexican
 
@@ -22,5 +20,3 @@ type: Mexican
 tel: 408-288-5343
 
 address: 995 S 1st St
-
-[back to Eating Out](..)

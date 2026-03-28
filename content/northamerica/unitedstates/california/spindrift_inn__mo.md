@@ -1,9 +1,9 @@
 ---
-title: "Spindrift Inn - Monterey Travel Guide"
+title: "Spindrift Inn - Monterey"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Spindrift Inn - Monterey, California
 
@@ -24,9 +24,3 @@ Toll Free: 800-841-1879 Phone: 831-646-8900
 Fax: 831-646-5342
 
 Email: reservations@innsofmonterey.com
-
-*Part or or all of this text stems from the original article at: Add on Hotel Directory*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 19:41

@@ -17,8 +17,6 @@ Become enchanted by the cascading waterfall, or walk up to the terrace, where yo
 
 **Contributors**
 September 18, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Indian and Pakistani
 
@@ -31,5 +29,3 @@ address: 217 E. 49th St
 url: [www.bukharagrillusa.com](http://www.bukharagrillusa.com)
 
 tel: (212) 888-2839
-
-[back to Eating Out](..)

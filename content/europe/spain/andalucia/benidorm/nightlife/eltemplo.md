@@ -8,11 +8,5 @@ A new disco opened at the end of 2000. Nice interior. Located on Calle Viena No.
 
 **Contributors**
 February 27, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Casinos
-
-
-
-[back to Nightlife and Entertainment](..)

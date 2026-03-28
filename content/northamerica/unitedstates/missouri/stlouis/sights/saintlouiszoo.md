@@ -14,8 +14,6 @@ The Zoo is open everyday, except December 25 (Christmas Day) and January 1 (New 
 
 **Contributors**
 March 24, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Hotspots
 
@@ -30,5 +28,3 @@ openingHours: 9 a.m. to 5 p.m
 url: [www.stlzoo.org](http://www.stlzoo.org)
 
 address: One Government Drive, St. Louis, MO 63110
-
-[back to Sights](..)

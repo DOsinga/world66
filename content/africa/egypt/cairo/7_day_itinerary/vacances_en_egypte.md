@@ -47,5 +47,3 @@ url: [www.french.egyptonlinetours.com](http://www.french.egyptonlinetours.com/Eg
 address: 124 rue des pyramides, Gizeh
 
 email: amany@egyptonlinetours.com
-
-[back to 7 Day Itinerary](..)

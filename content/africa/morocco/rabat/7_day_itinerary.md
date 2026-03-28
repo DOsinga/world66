@@ -31,46 +31,4 @@ earthquake in 1775.
 Catch a train for the hour and a half journey to Casablanca to
 explore the city and its environs. Be sure to check out the Medina and
 the Mosque of Hassan II. Spend the day there, including a nice dinner in
-or around the Medina and catch the train back to Rabat in the evening.
-
-**Day 4 - Hassan Tower &
-Other Landmarks**
-
-Today, enjoy some great sights around the city. Start with the Hassan
-Tower, one of the most famous monuments in Rabat. After that, head to
-the Mausoleum of Mohammad V and catch a late lunch. In the afternoon,
-choose between a stroll through the modern downtown of Rabat or heading
-to the Rabat Zoo.
-
-**Day 5 - Beach Trip **
-
-Head to the coast for a guided camel ride along the coastline of
-Essaouira. This ancient fishing village is a picturesque location and
-one of Morocco's most popular attractions. Head back to the city and
-check out some more culture by visiting the National Archaeology Museum
-or the Oudaias Crafts Museum.
-
-**Day 6 - Shopping**
-
-Spend the day relaxing and shopping for souvenirs. Browse the large
-selection at the Medina and head over to the neighboring city Sale for a
-look at some more craft and handiwork souvenirs. Enjoy dinner downtown
-or near the Medina.
-
-**Day 7 - Return**
-
-After breakfast, head past the Medina for one more look at the ocean
-and historical area. Stroll through the winding streets one last time
-before heading to the airport for departure.
-
-A 7-day trip to Rabat will allow you enough time to relax and explore
-all the best that Rabat and its surrounding areas have to offer.
-
-**Contributors**
-March 19, 2010
-change
-by [ctanios](/member/ctanios)
-
-March 18, 2010
-new
-by [kat99](/member/kat99)
+or around the Medina and catch the train

@@ -17,8 +17,6 @@ Coach USA and Greyhound also offer a number of trips every day to a number of re
 
 **Contributors**
 December 19, 2005
-change
-by [allamericanbear](/member/allamericanbear)
 
 ### [TCAT (Tompkins Consolidated Area Transit)](/northamerica/unitedstates/newyorkstate/ithaca_tompkins_c/getting_around/tcat_tompkins_con)
 

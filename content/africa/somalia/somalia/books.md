@@ -88,5 +88,3 @@ author: Omar Africa
 isbn: 37616984651
 
 subject: history
-
--->

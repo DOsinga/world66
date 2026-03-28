@@ -10,8 +10,6 @@ Winfield is best known for the Walnut Valley Blue Grass Festival.
 
 **Contributors**
 December 08, 2006
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Walnut Valley Festival](/northamerica/unitedstates/kansas/winfield/festivals/walnut_valley_fest)
 

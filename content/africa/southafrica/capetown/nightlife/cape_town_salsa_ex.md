@@ -5,8 +5,6 @@ address: "Cape Town"
 email: "sarah@salsaexplosion.co.za"
 type: "Salsa"
 url: "www.salsaexplsosion.co.za"
-latitude: -33.92883
-longitude: 18.41722
 ---
 
 Normal
@@ -20,7 +18,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 The Cape Town Salsa Explosion brings you non-stop dancing in
 the form of classes, workshops, shows, live entertainment, music and promises
@@ -41,5 +39,3 @@ url: [www.salsaexplsosion.co.za](http://www.salsaexplsosion.co.za)
 address: Cape Town
 
 email: sarah@salsaexplosion.co.za
-
-[back to Nightlife and Entertainment](..)

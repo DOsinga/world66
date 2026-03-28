@@ -1,7 +1,9 @@
 ---
-title: "Quarto D'altino Travel Guide"
+title: "Quarto D'altino"
 type: location
 ---
+
+Travel Guide
 
 Close to the **San Marco international
 airport**. Situated about 15 minutes,

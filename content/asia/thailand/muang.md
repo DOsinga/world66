@@ -1,0 +1,4 @@
+---
+title: "Muang"
+type: location
+---

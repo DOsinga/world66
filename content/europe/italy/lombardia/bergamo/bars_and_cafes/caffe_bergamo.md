@@ -10,8 +10,6 @@ Enter into the square for an indoor & outdoor delight. Open every day of the wee
 
 **Contributors**
 March 09, 2008
-new
-by [karenbru](/member/karenbru)
 
 
 
@@ -20,5 +18,3 @@ accessibility: Car, Bus, on foot
 tel: 035.211556/Fax 035 4131474
 
 address: Via Borfuro, 6(in the Piazza), 24100 Bergamo
-
-[back to Bars and Cafes](..)

@@ -7,8 +7,6 @@ opening_hours: "24hrs & 7days a week"
 price: "$4/hr; $2/0.5hr"
 type: "Internet Cafe"
 url: "www.internetheaven.com.au"
-latitude: -37.760246
-longitude: 144.963447
 ---
 
 Internet Heaven is the world's first 24/7 unmanned internet café and provides an on-demand high-speed ADSL2+ service that allows the customer to use our self serve internet kiosks 24 hours 7 days of the week.
@@ -46,5 +44,3 @@ price: $4/hr; $2/0.5hr
 email: info@internetheaven.com.au
 
 hours: 24hrs & 7days a week
-
-[back to Internet Cafes](..)

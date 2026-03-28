@@ -1,0 +1,4 @@
+---
+title: "Resistencia"
+type: location
+---

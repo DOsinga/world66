@@ -60,5 +60,3 @@ http://www.visitphillipisland.com/attractions.html
 url: [www.visitphillipisland.com](http://www.visitphillipisland.com/attractions.html)
 
 address: Approx 2 hours south east of Melbourne
-
-[back to Day Trips](..)

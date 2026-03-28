@@ -17,13 +17,5 @@ At the central part of the Kremlin wall on Red Square is **the Lenin Mausoleum**
 
 **Contributors**
 July 05, 2006
-change
-by [svetico](/member/svetico) (3 points)
 
 type: Squares
-
-
-
-
-
-[back to Sights](..)

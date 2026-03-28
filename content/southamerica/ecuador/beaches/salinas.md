@@ -11,5 +11,3 @@ address: "50 miles north of Guayaquil"
 
 
 address: 50 miles north of Guayaquil
-
-[back to Beaches](..)

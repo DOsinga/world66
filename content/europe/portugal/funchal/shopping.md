@@ -9,5 +9,3 @@ Recommendation: Try to taste scabbard fish, a local delicacy, before you see it 
 
 **Contributors**
 June 03, 2007
-new
-by [davidx](/member/davidx) (2 points)

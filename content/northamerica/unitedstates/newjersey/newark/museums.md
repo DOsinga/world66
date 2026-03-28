@@ -7,5 +7,3 @@ type: section
 
 **Contributors**
 June 16, 2007
-change
-by [daulphy](/member/daulphy)

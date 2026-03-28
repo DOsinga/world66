@@ -1,0 +1,4 @@
+---
+title: "Ketchikan"
+type: location
+---

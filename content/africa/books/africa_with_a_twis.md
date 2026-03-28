@@ -9,8 +9,6 @@ A book for exploring Africa and for expats old and new and others travelling to 
 
 **Contributors**
 July 05, 2005
-new
-by [giorgio](/member/giorgio)
 
 [](http://www.amazon.com/exec/obidos/ASIN/1845490258/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -19,5 +17,3 @@ by [giorgio](/member/giorgio)
 author: David Henry
 
 isbn: 1845490258
-
-[back to Books](..)

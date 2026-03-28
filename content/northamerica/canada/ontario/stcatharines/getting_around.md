@@ -9,5 +9,3 @@ St. Catharines Transit also links up with Niagara Transit and Welland Transit se
 
 **Contributors**
 December 21, 2005
-change
-by [allamericanbear](/member/allamericanbear)

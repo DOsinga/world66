@@ -8,13 +8,5 @@ Times Square, named after the one-time headquarters of The New York Times, is a 
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Squares
-
-
-
-
-
-[back to Sights](..)

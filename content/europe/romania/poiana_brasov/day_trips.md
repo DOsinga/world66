@@ -17,8 +17,6 @@ needed a refresher ski lesson.
 
 **Contributors**
 November 17, 2006
-new
-by [romaniatours](/member/romaniatours) (1 point)
 
 ### [Independent Ski Packages in Romania
 

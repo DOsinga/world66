@@ -16,21 +16,9 @@ nationalities that live on this territory. At the same time some elements have
 been incorporated from Ukrainian, Bulgarian, Gagauzian and Russian cuisine, as
 well as elements taken some centuries ago from Greek and Turkish food.
 
-*Part or or all of this text stems from the original article at: lzwjvgqsn tmpaxrg*
-
 ### [VATRA NEAMULUI](/europe/moldova/chisinau/eating_out/vatra_neamului)
 
-The restaurant **"VATRA NEAMULUI"** brings you back to an atmosphere
-that is full of miracles and charm. Managers of the restaurant have
-managed to prepare for December a special program which is playing a
-role of the bridge between traditions and the present. **"VATRA NEAMULUI"**
-is not what we would usually call a "commercial restaurant". It is at
-present an institution of culture, an ethnic and educational
-institution where spirit of ancient traditions meets and shakes hands
-with spirit of the present. Thus, the achievement and the originality
-of the [more..](/europe/moldova/chisinau/eating_out/vatra_neamului)
-
-type: European
+The restaurant **"VATRA NEAMULUI"** brings you type: European
 
 
 

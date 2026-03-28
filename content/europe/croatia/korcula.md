@@ -1,8 +1,6 @@
 ---
 title: "Korcula"
 type: location
-latitude: 42.943781
-longitude: 16.913476
 ---
 
 Korcula is one of the bigger islands of Croatia. Few people know that Marco Polo, the famous Venetian explorer was actually born on here, in Croatia. The island’s capital is also called Korkula. This ancient city is among the most beautiful towns on the Croatian coast and is known for its unique architecture. One of the main attractions is the house of Marco Polo, which can be visited in the old city center. 

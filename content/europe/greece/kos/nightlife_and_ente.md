@@ -6,8 +6,6 @@ email: "rumours@kardamena-kos.com"
 phone: "0030 22420 91702"
 type: "Pubs"
 url: "www.kardamena-kos.com"
-latitude: 36.782394
-longitude: 27.143279
 ---
 
 Being the second most popular and touristy island of the Dodecanese

@@ -15,5 +15,3 @@ type: Thai
 tel: 610-397-1757
 
 address: 108 Fayette Street Conshohocken, PA
-
-[back to Eating Out](..)

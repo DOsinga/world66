@@ -20,5 +20,3 @@ Altogether The Silk Road Restaurant is a memorable experience and also terrific 
 
 **Contributors**
 December 13, 2007
-new
-by [silky](/member/silky)

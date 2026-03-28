@@ -15,5 +15,3 @@ Skaneateles Chamber of Commerce 22 Jordan Street, Skaneateles, NY 13152 315-685-
 
 **Contributors**
 April 07, 2009
-change
-by [tonicurtis](/member/tonicurtis)

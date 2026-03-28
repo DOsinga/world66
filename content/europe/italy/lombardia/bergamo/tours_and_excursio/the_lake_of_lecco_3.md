@@ -8,7 +8,4 @@ The Lake of Lecco and Como is an upside down Y-shaped lake with two names depend
 
 Oftentimes there are concerts, art shows, fireworks and more depending on the day you are there.
 
-**Change history**
-Orginal article by [karenbru](/member/karenbru) on 10 June 05
-
-Minor corrections by [karenbru](/member/karenbru) on 10 June 05
+Minor corrections on 10 June 05

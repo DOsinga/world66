@@ -9,5 +9,3 @@ To see the crocodiles and the hippoes, your car stops by two small lakes, the cr
 
 **Contributors**
 August 20, 2005
-new
-by [stinemsi](/member/stinemsi)

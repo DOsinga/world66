@@ -1,0 +1,4 @@
+---
+title: "Brampton"
+type: location
+---

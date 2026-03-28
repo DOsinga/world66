@@ -5,8 +5,6 @@ address: "Schönhauser Allee 36, 10435 Berlin"
 phone: "0049-30-44 31 51 55"
 type: "Salsa"
 url: "www.soda-berlin.de"
-latitude: 52.539424
-longitude: 13.413668
 ---
 
 If you are a fan of salsa, merengue, bachata and co you can chill out at the *Soda-Club*. Each Thursday and Sunday evening there is a latin party. The ambiance is great and the people pleasingly normal. In the summer-time you can even dance outside...
@@ -28,8 +26,6 @@ U-Bahn: U 2 Eberswalder Straße; S-Bahn: S 8 und S 10 Schönhauser Allee (+ a 15
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 type: Salsa
 
@@ -42,5 +38,3 @@ tel: 0049-30-44 31 51 55
 url: [www.soda-berlin.de](http://www.soda-berlin.de/Salsa)
 
 address: Schönhauser Allee 36, 10435 Berlin
-
-[back to Nightlife and Entertainment](..)

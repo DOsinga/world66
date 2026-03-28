@@ -1,0 +1,4 @@
+---
+title: "Zuchwil"
+type: location
+---

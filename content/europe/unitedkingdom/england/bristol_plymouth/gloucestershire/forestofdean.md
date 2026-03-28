@@ -1,9 +1,9 @@
 ---
-title: "Forest of Dean Travel Guide"
+title: "Forest of Dean"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Royal Forest of Dean is one of the most unspoilt areas in England. With over 20,000 acres of ancient forest, it creates an almost magical setting for walking and other outdoor pursuits.  
 
@@ -15,8 +15,3 @@ The Royal Forest of Dean is one of the most unspoilt areas in England. With over
 
 More information on
 *Forest of Dean Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 23:40

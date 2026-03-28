@@ -7,5 +7,3 @@ Raska region today bares the name of medieval Serbia state, Raska, which formed 
 
 **Contributors**
 September 16, 2006
-new
-by [neron](/member/neron)

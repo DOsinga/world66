@@ -9,5 +9,3 @@ Welcome to a different view of Sitges: a [walkaround tour](/europe/spain/catalon
 
 
 url: [:http:](http://:http://google.com/gwt/n?u=http%3A%2F%2Ftom.sinera.org%2Ftours%2Findex.htm)
-
-[back to Tours and Excursions](..)

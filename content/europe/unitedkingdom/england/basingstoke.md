@@ -11,8 +11,6 @@ The centre of the town was until quite recently a monument to 1960s style brutal
 
 Thankfully, the centre has been recently demolished and rebuilt and in its place is - an enclosed American style shopping mall, bereft of any English charm or culture. In fact , the mall is such a souless place bereft of any personality , that one could be anywhere in America whilst in it, rather than in the very historical and beautiful county of Hampshire. 
 
-You'd be much better off staying on that train and venturing further afield to Salisbury or Bournemouth.
+You'd be much better off staying on that train and venturing further afield to Salisbury or Bournemouth. 
 
-## Destinations in Basingstoke
-
-[Tom Beale's Pants](/europe/unitedkingdom/england/basingstoke/tombealespants)
+Basingstoke suffers from the highest concentration town planners per square foot of concrete in the known Universe. And they still can't get anything right...

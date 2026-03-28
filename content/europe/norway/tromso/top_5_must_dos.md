@@ -25,5 +25,3 @@ The distinctive, unmistakable architecture of Polaria, only 5 minutes from the c
 
 **Contributors**
 October 23, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

@@ -27,13 +27,4 @@ The perfect beach day for children. Poetto beach is located just outside the cit
 
 **Giara di Gesturi**
 
-The Giara di Gesturi is an ancient plateau that dates back to the 13th century. However the main attraction is the wild horses that still live on the plateau. These are the last remaining wild horses in western Europe.
-
-**Contributors**
-February 04, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
-
-February 09, 2010
-change
-by [schitti](/member/schitti)
+The Giara di Gesturi is an ancient plateau that dates

@@ -31,6 +31,4 @@ type: section
 
  and on the national lines from:
 
- Berlin/Dresden, Hamburg/Hannover, Dortmund/Cologne, Frankfurt, Karlsruhe/Stuttgart  and Munich. 
-
--->
+ Berlin/Dresden, Hamburg/Hannover, Dortmund/Cologne, Frankfurt, Karlsruhe/Stuttgart  and Munich.

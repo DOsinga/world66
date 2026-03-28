@@ -9,8 +9,6 @@ phone: "(03) 9326 3069"
 price: "$3.30/hr (non-members) & $2.20/hr (members)"
 type: "Internet Cafe"
 url: "www.cydus.com.au"
-latitude: -37.805795
-longitude: 144.95666
 ---
 
 **CYDUS** is Melbourne’s leading gaming and internet cafe. We take pride in providing fast internet access on 84 computers with a large range of internet usage services, and maintaining the best computer gaming facilities for our customers - every day and at any time.
@@ -40,5 +38,3 @@ price: $3.30/hr (non-members) & $2.20/hr (members)
 email: cydus.melb@gmail.com
 
 hours: 24 hours 7 days a week
-
-[back to Internet Cafes](..)

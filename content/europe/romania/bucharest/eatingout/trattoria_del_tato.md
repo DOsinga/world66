@@ -6,8 +6,6 @@ email: "info@tatoli.ro"
 phone: "+4021 315 33 99"
 type: "African"
 url: "www.tatoli.ro"
-latitude: 44.430529
-longitude: 26.096734
 ---
 
 Harmony
@@ -26,5 +24,3 @@ url: [www.tatoli.ro](http://www.tatoli.ro)
 address: Calea Victoriei no 26
 
 email: info@tatoli.ro
-
-[back to Eating Out](..)

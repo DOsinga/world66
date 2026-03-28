@@ -1,8 +1,6 @@
 ---
 title: "Lappeenranta"
 type: location
-latitude: 61.058342
-longitude: 28.186229
 ---
 
 Located at the south-west point of lake Saimaa, Lappeenranta has served a important role as a bridge between the Finnish and Russian cultures for over 350 years. Nowadays, its strategic position makes it an ideal environment for hi-tech companies with an eye on the Russian market. 

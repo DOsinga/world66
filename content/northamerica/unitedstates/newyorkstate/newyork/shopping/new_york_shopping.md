@@ -22,7 +22,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 New York luxury shopping deLuxe card allows
 you to enjoy Vip treatment in luxury stores in New York: discounts, luxury gifts, glass of
@@ -45,5 +45,3 @@ url: [www.luxuryshoppingdeluxecard.com](http://www.luxuryshoppingdeluxecard.com)
 address: 445 park avenue
 
 email: info@luxuryshoppingdeluxecard.com
-
-[back to Shopping](..)

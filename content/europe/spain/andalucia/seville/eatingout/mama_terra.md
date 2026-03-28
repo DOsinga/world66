@@ -29,5 +29,3 @@ address: Paseo de Cristina, 3 Izq
 PriceOfMenu: 10
 
 email: info@mama-terra.com
-
-[back to Eating Out](..)

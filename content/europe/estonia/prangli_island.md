@@ -1,9 +1,9 @@
 ---
-title: "Prangli Island Travel Guide"
+title: "Prangli Island"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Prangli Island, Day Trips from Tallinn to Prangli
 **Visit
@@ -18,7 +18,3 @@ Prangli Travel offer regular full-day tours starting from the Tallinn city centr
 Prangli Island Day **Tours are really enriching your Tallinn visit, letting you expreience something completely diffrerent from city life!
 
 More about Prangli Island and tours www.tallinndaytrip.com
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 10:16

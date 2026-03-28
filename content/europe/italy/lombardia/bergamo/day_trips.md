@@ -12,8 +12,6 @@ Or go to one of the lakes for a boat trip, a show or a concert.
 
 **Contributors**
 June 10, 2005
-change
-by [karenbru](/member/karenbru)
 
 ### Brembana Valley
 

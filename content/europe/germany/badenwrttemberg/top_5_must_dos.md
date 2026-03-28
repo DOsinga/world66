@@ -27,9 +27,5 @@ Who can resist a visit to this grand city? With Mercedes-Benz museum located her
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

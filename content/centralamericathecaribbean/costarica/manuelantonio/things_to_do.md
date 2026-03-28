@@ -15,8 +15,6 @@ snorkeling.
 
 **Contributors**
 April 12, 2006
-change
-by [giorgio](/member/giorgio) (4 points)
 
 ### [Scuba and snorkelling in Quepos/Manuel Antonio](/centralamericathecaribbean/costarica/manuelantonio/things_to_do/scuba_and_snorkell)
 

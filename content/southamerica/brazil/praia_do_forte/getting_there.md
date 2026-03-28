@@ -7,5 +7,3 @@ The cheapest way to get to PdF is on the bus, specifically the Expresso Linha Ve
 
 **Contributors**
 January 29, 2007
-new
-by [rani d.](/member/rani_d.) (2 points)

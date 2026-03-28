@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Hend@egyptonlinetours.net"
 phone: "0020111029094"
 url: "www.egyptonlinetours.net"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 We offer you the perfect daily excursions & tours you will ever find, here in Sharm El Sheikh you can make daily tours to Cairo, daily excursions to St. Catherine Monastery from Sharm, Tour to Luxor from Sharm by flight, Glass Boat Trip in Sharm, Colored Canyon trip in Sharm, Trip by boat to Ras Mohamed from Sharm.
@@ -25,5 +23,3 @@ url: [www.egyptonlinetours.net](http://www.egyptonlinetours.net/Egypt-Sightseein
 address: 124, Haram street, Giza, Egypt
 
 email: Hend@egyptonlinetours.net
-
-[back to Day Trips](..)

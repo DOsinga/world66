@@ -40,5 +40,3 @@ The tourism is an important source of economy for the city. This Lille Practical
 
 **Contributors**
 March 24, 2010
-change
-by [nik.singh31](/member/nik.singh31)

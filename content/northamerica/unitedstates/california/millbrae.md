@@ -1,12 +1,8 @@
 ---
-title: "Millbrae Travel Guide"
+title: "Millbrae"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 add our hotel in your directory.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 05:10

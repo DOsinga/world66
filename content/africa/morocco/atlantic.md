@@ -1,12 +1,8 @@
 ---
-title: "Atlantic Travel Guide"
+title: "Atlantic"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Atlantic
-
-Page last generated on Fri 09:13
-
--->

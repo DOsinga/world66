@@ -1,0 +1,4 @@
+---
+title: "Tighina"
+type: location
+---

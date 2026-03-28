@@ -27,5 +27,3 @@ address: 53 Spartis street ( Historical center)
 PriceOfMenu: appx 10 Euro per person
 
 email: info@ta-rolla.gr
-
-[back to Eating Out](..)

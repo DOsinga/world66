@@ -11,8 +11,6 @@ to coincide with your favourite festival.
 
 **Contributors**
 September 10, 2005
-new
-by [zan5hin](/member/zan5hin)
 
 ### Melbourne International Art Festival
 

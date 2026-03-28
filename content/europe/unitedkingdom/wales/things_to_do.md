@@ -153,8 +153,6 @@ Butterfly Conservation Wales office; Swansea: 0870 770 6153 e-mail; wales@butter
 
 **Contributors**
 September 05, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### [Jan Miller
 

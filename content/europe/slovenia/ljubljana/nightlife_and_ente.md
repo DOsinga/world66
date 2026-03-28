@@ -10,8 +10,6 @@ Where to go when it gets dark outside and you feel like having fun on town, drin
 
 **Contributors**
 March 14, 2006
-new
-by [aglaie](/member/aglaie) (2 points)
 
 ### [Orto bar](/europe/slovenia/ljubljana/nightlife_and_ente/orto_bar)
 

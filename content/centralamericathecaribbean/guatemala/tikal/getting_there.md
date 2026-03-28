@@ -12,5 +12,3 @@ It is possible to cross directly from Palenque in Mexico to Tikal. You have to g
 **From Belize**
 
 Mini buses run from the water taxi terminal in Belize City each day. They leave relatively early so it is best to book the day before and check the departure time.
-
--->

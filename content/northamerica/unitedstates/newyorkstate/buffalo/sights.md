@@ -10,8 +10,6 @@ The Massachusetts Institute of Technology has a book available (~$15-25) called 
 
 **Contributors**
 May 16, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 ### [A walk highlighting architecture in North Buffalo](/northamerica/unitedstates/newyorkstate/buffalo/sights/a_walk_highlightin_1)
 

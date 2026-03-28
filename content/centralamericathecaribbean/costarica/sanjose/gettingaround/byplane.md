@@ -9,9 +9,3 @@ Another option to travel faster through Costa Rica is to use the domestic flight
 Important Notes: The maximum baggage allowance is 25 pounds per person. Excess baggage will be additionally charged and subject to space or weight capacity. Surf boards will also be charged extra. Numerous other companies offer charter flights. Charter services with helicopters are also available.
 
 type: general
-
-
-
-
-
-[back to Getting Around](..)

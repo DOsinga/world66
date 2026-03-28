@@ -8,9 +8,6 @@ zipcode: "13001"
 
 Transportation, the only way to get Huehuetenango is by bus, from Guatemala City or from the border La Mesilla i fyou come from México.
 
-*Change history*
-Orginal article by [jurandirtje](/member/jurandirtje) on 08 November 04
-
 ## all
 
 Transportes Los Halcones

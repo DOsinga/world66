@@ -19,15 +19,4 @@ Italy is known for its majestic cathedrals. The 17th century Cathedral of St. La
 
 **Torre dell'Orologio**
 
-Part of learning about a town is one's interest in its history. Give your family an entertaining history lesson about Mestre by visiting a watchtower which dates back to 1108, known as the Torre dell'Orologio. Merge your learning about history with an education and fun-filled tour around the artistic and culturally rich points of interest in Mestre, namely Palazzo da Re, Palazzo podestarile and the Provvedaria.
-
-Any town in Italy is best explored on foot, and Mestre is no different. The city of Venice is quite accessible through a few minutes of driving or a short train ride. Visiting the above spots will surely make your Mestre family trip memorable.
-
-**Contributors**
-April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)
-
-April 08, 2010
-change
-by [2 many commas](/member/2_many_commas)
+Part of learning about a town is one's interest in its history. Give your family an entertaining history lesson about Mestre by visiting a watchtower which dates

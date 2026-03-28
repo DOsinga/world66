@@ -1,0 +1,4 @@
+---
+title: "Tangier"
+type: location
+---

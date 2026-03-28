@@ -61,5 +61,3 @@ craft markets.
 
 **Contributors**
 November 15, 2009
-new
-by [kiwagner](/member/kiwagner)

@@ -5,8 +5,6 @@ address: "Mühlenstr.11-12"
 connections: "U+S Warschauer Str."
 opening_hours: "We, Fr+Sa from early evening"
 type: "Disco &Dancing"
-latitude: 51.333294
-longitude: 12.55194
 ---
 
 Gay meeting place, already famous in communist times for it's exuberant evenings it atrracts a huge crowd of young homosexuals from Berlin's outskirts and Brandenburg, often dressed in style, bad tempered lesbians etc...
@@ -20,5 +18,3 @@ address: Mühlenstr.11-12
 connections: U+S Warschauer Str.
 
 openings: We, Fr+Sa from early evening
-
-[back to Nightlife and Entertainment](..)

@@ -9,8 +9,6 @@ Plenty things to do around Macduff, several golf courses, ten pin bowling, visit
 
 **Contributors**
 April 16, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [Puffin sea cruises](/europe/unitedkingdom/scotland/macduff/things_to_do/puffin_sea_cruises)
 

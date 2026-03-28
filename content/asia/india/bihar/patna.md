@@ -1,0 +1,4 @@
+---
+title: "Patna"
+type: location
+---

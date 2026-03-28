@@ -1,0 +1,4 @@
+---
+title: "Pensacola"
+type: location
+---

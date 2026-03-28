@@ -1,8 +1,6 @@
 ---
 title: "Wadi halfa"
 type: location
-latitude: 21.8005
-longitude: 31.350737
 ---
 
 Northest town of Sudan, that was partly submerged by Lake Nasser: an important archaeological site . 

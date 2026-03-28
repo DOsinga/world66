@@ -16,7 +16,3 @@ Within Norway, all trains are operated by the **Norwegian State Railroads ("NSB"
 *Fjord Tours *(www.fjord-tours.no) offers many great sightseeing trips of Norway that, conveniently, can be purchased at the *Gardermoen* airport and the *Oslo Central Station*, among other places. Tours such as "Norway in a Nutshell" use a combination of Rail, Express Boat, Coastal Steamer, and Buses to take you to the spectacular mountains, fjords, and towns in Norway. You are generally permitted to choose dates, length of stopovers, and direction of travel with no surcharges. The tours are competitively priced, but note that you must purchase your overnight accommodations separately (the *Fjord Tours* pass entitles you to a discount at many hotels). 
 
 **By car:** A series of large construction projects completed near the end of the 20th century has reduced driving times to Central Europe from Norway and the Scandinavian Peninsula. Almost all trips will go through Sweden, with which Norway shares most of its borders. **Copenhagen** is under 7 hours away (just over 600 km); **Stockholm** about the same travel time (about 530 km; but not very much as freeway); **Berlin** about 12 hrs including ferry between southern Sweden and Germany (about 830 km).
-
-## Subsections
-
-[By Air](/europe/norway/oslo/gettingthere/byair)

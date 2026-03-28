@@ -8,8 +8,6 @@ opening_hours: "Mo - Sa noon-midnight, Su 2pm -1am"
 phone: "+49 30-3087 2643"
 type: "Vietnamese"
 url: "www.monsieurvuong.de"
-latitude: 52.526642
-longitude: 13.407951
 ---
 
 Mr. Vuong is utterly charming and his Vietnamese food attracts the
@@ -21,8 +19,6 @@ are also a big draw too.
 
 **Contributors**
 April 01, 2005
-change
-by [miromi](/member/miromi)
 
 type: Vietnamese
 
@@ -41,5 +37,3 @@ email:
 url: [www.monsieurvuong.de](http://www.monsieurvuong.de)
 
 tel: +49 30-3087 2643
-
-[back to Eating Out](..)

@@ -9,9 +9,6 @@ Another plus for foreign travellers is that Riz-Raz accepts several credit cards
 
 It is close to pedestrian shopping areas and the Danish Folketing (Parliment), and the friendly staff and inviting atmosphere make Riz-Raz a very welcome respite from the hustle and bustle of central Copenhagen.
 
-*Change history*
-Orginal article by [MissKitty](/member/misskitty) on 03 March 04
-
 email: rizraz@rizraz.dk
 
 PriceOfMenu: inexpensive
@@ -23,5 +20,3 @@ tel: 33 15 05 75
 priceofmenu: inexpensive
 
 zipcode: 1208 København K
-
--->

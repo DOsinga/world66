@@ -6,8 +6,6 @@ email: "info@designbogen.de"
 phone: "030-31017803"
 type: "Speciality shops"
 url: "www.designbogen.de"
-latitude: 52.504737
-longitude: 13.323687
 ---
 
 The motto of the designbogen shop in Berlin Charlottenburg is a dialogue between unknown and established design. Located under two S-Bahn railways arches, designbogen stocks everything from stylish fashion to innovative furniture and individual gifts and accessories; everything that makes life a little more exciting.
@@ -23,5 +21,3 @@ url: [www.designbogen.de](http://www.designbogen.de)
 address: Jeanne-Mammen-Bogen 574
 
 email: info@designbogen.de
-
-[back to Shopping](..)

@@ -1,0 +1,4 @@
+---
+title: "Palanga"
+type: location
+---

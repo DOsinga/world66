@@ -13,5 +13,3 @@ There are plenty of pubs where you can have a good meal at noon after you’ve b
 [Chinese](/europe/unitedkingdom/england/leeds_sheffield_a/york/eatingout?subsection=Chinese)
 
 [Traditional](/europe/unitedkingdom/england/leeds_sheffield_a/york/eatingout?subsection=Traditional)
-
--->

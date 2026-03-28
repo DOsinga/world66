@@ -13,5 +13,3 @@ The Chicken Wing reigns supreme, and if you are interested in eating them (if yo
 
 **Contributors**
 May 06, 2005
-new
-by [allamericanbear](/member/allamericanbear) (1 point)

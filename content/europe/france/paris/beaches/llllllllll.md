@@ -18,5 +18,3 @@ url: [llllllllllllll](http://llllllllllllll)
 address: llllllllll
 
 email: lllllllllllllll
-
-[back to Beaches](..)

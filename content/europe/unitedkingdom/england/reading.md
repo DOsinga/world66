@@ -9,4 +9,6 @@ One hidden treasure in Reading which you must make a point of finding, is the **
 
 The Hobgoblin's speciality is real English ales,with a different selection of them nearly every day - so you never quite know what they are going to be when you enter. If you do find it, see if one of the snugs are free at the back. It's a very conduicive pub for conversation as there a clear signs on the wall telling everyone to switch their mobiles/cellphones off - or else! 
 
-The author cannot recommend this pub highly enough - in a world of bland corporate chain pub franchises, this little piece of genuine Englishness , quirkiness and eccentricity (just look at the enormous collection of beer mats covering the entire inner walls of the pub!), is well worth the journey.
+The author cannot recommend this pub highly enough - in a world of bland corporate chain pub franchises, this little piece of genuine Englishness , quirkiness and eccentricity (just look at the enormous collection of beer mats covering the entire inner walls of the pub!), is well worth the journey. 
+
+Reading is more than just pubs though, the UK's premier Rock Festival is held at Rivermead every August bank holiday, and the town's IDR system defies comprehension. If you do go to Reading (for the festival or otherwise) don't drive! You WILL get lost, and locals are easily angered by a motorist who may happen to find himself in the wrong lane. There are Park and Ride services on major routes into the town, and good train and bus links.

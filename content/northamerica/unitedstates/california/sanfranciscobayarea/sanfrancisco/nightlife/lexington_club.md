@@ -17,5 +17,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#lexington](http://www.sfgaybarlist.com#lexington)
 
 address: 3464 19th St. (at Lexington)
-
-[back to Nightlife and Entertainment](..)

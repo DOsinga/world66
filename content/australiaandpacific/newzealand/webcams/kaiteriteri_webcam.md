@@ -1,6 +1,6 @@
 ---
 title: "Kaiteriteri Webcam"
-type: location
+type: poi
 url: "www.takeabreak.co.nz"
 ---
 
@@ -16,5 +16,3 @@ distance across the bay. Close to the Abel Tasman National Park.
 
 
 url: www.takeabreak.co.nz
-
-[back to Webcams](..)

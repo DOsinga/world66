@@ -4,16 +4,12 @@ type: section
 address: "7 Rue Marceau"
 phone: "+33 04 93 68 60 58"
 type: "Clubs and dancing"
-latitude: 48.82417
-longitude: 2.294703
 ---
 
 One would think that clubs would be the most popular Cannes activity after dark -- but it's not. This is not to say that the Cannes club scene isn't hot -- it certainly is. But, the people of Cannes would much rather hit a casino than a dance club. At least this is what we've heard. Cannes has a number of world-class casinos such as Palm Beach Casino (www.lepalmbeach.com) and the veteran Casino Croisette (www.lucienbarriere.com), as well as some of the hippest clubs in France such as Le Life (22 rue Mace) and swank bars such as Bar des Stars in the Hotel Majestic Barriere (14 La Croisette). One thing to keep in mind when visiting "pretty people" nightclubs, bars or lounges and any casino -- dress the part or you won't get in.
 
 **Contributors**
 June 02, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Whatnut's](/europe/france/cannes/nightlife_and_ente/whatnuts)
 

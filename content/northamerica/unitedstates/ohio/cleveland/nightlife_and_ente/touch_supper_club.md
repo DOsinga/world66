@@ -17,8 +17,6 @@ martini selections.
 
 **Contributors**
 December 19, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing
 
@@ -35,5 +33,3 @@ url: [www.touchohiocity.com](http://www.touchohiocity.com)
 address: 2710 Lorain Avenue
 
 email: info@touchohiocity.com
-
-[back to Nightlife and Entertainment](..)

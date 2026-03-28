@@ -9,11 +9,3 @@ It's offered by Zani Viaggi.
 
 **Contributors**
 July 05, 2006
-change
-by [karenbru](/member/karenbru) (1 point)
-
-
-
-
-
-[back to Getting Around](..)

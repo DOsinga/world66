@@ -8,5 +8,3 @@ If you don't know what place to stay in, the taxi drivers are usually willing to
 
 **Contributors**
 July 14, 2006
-new
-by [yohay elam](/member/yohay_elam) (2 points)

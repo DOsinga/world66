@@ -1,8 +1,6 @@
 ---
 title: "Vodice"
 type: location
-latitude: 43.758806
-longitude: 15.776918
 ---
 
 **Vodice travel guide** 

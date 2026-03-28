@@ -1,8 +1,6 @@
 ---
 title: "Mycenae"
 type: location
-latitude: 37.730313
-longitude: 22.757673
 ---
 
 We currently have no information about Mycenae.

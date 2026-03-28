@@ -21,9 +21,5 @@ Wurzburg Museums are ever-changing reminders of history. Every moment spent in t
 
 **Contributors**
 April 01, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 31, 2010
-new
-by [jbyard1](/member/jbyard1)

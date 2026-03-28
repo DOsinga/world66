@@ -14,9 +14,3 @@ can find themselves sitting on a completely stranger's lap. If you want
 to get in contact with what Samoa is about, take a local bus...
 
 Note: Local buses do most of the time not run on a set timetable, therefore they are very unreliable.
-
-
-
-
-
-[back to Getting Around](..)

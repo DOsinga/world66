@@ -7,5 +7,3 @@ Geelong is served by Avalon Airport, and is also connected to Melbourne via the 
 
 **Contributors**
 January 29, 2010
-new
-by [out of the grey](/member/out_of_the_grey)

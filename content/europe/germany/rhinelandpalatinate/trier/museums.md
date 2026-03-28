@@ -17,9 +17,4 @@ With an unprecedented collection of letters, photographs, journals and more, the
 
 This charming complex offers a detailed look into the history of Trier itself. Through sculpture, artwork and carefully preserved donations from universities, the Simeonstift Municipal Museum wishes only to educate. And that is precisely what it has been doing since its inception in 1958. Though closed on Mondays, the museum is open the rest of the week and is located next to the [Porta Nigra Gate](/europe/germany/rhinelandpalatinate/trier/sights). It will be easy to find and easier to enjoy.
 
-Trier Museums chart a story that reaches back to the beginnings of Germany itself. Discover it.
-
-**Contributors**
-April 02, 2010
-new
-by [jbyard1](/member/jbyard1)
+Trier Museums chart a story that reaches

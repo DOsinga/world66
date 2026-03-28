@@ -9,13 +9,9 @@ Shaker Square is the predecessor to the modern day suburban shopping center. It 
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Shopping centers and malls
 
 
 
 url: [www.shakersquare.net](http://www.shakersquare.net/)
-
-[back to Shopping](..)

@@ -3,8 +3,6 @@ title: "LEA"
 type: poi
 email: "sz.lea@lajt.hu"
 type: "Hotspots"
-latitude: 47.39763
-longitude: 19.201372
 ---
 
 BUDAPEST IS THE CAPITAL CITY OF BUDAPEST
@@ -36,5 +34,3 @@ type: Hotspots
 
 
 email: sz.lea@lajt.hu
-
-[back to Sights](..)

@@ -26,5 +26,3 @@ url: [caliplaza.com](http://caliplaza.com/html/cali_plaza_hotel_restaurant.html)
 address: Calle 15N. 6N-33
 
 email: Mail@CaliPlaza.com
-
-[back to Nightlife and Entertainment](..)

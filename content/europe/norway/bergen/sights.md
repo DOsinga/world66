@@ -9,9 +9,6 @@ Others are of buildings, like those in the outdoor museum or the stave church.
 
 Still others are of a delightful modern city.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 20 November 04
-
 **all**
 
 **Bryggen**
@@ -29,5 +26,3 @@ Ole Bull is mentioned on the main Bergen page and his home, Lysøen, is one of t
 This is only a short bus ride from the centre of Bergen. Make sure you get off at the FIRST stop for the church or you will have a steep walk up through the woods from the next. [more..](/europe/norway/bergen/sights/fantoft_stave_chur)
 
 url: [www.arild-hauge.com](http://www.arild-hauge.com/echurch.htm)
-
--->

@@ -11,7 +11,3 @@ Small and homey Italian restaurant with delivery service and fine selection of t
 address: Dr.- Pfeiffenberger-Str. 16, A-6460 Imst
 
 tel: +43 5412 62244
-
-[back to Eating Out](..)
-
--->

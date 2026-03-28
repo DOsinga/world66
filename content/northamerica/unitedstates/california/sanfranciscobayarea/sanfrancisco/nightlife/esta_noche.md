@@ -19,5 +19,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#estanoche](http://www.sfgaybarlist.com#estanoche)
 
 address: 3079 16th St.
-
-[back to Nightlife and Entertainment](..)

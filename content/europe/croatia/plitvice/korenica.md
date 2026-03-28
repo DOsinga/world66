@@ -1,9 +1,9 @@
 ---
-title: "Korenica Travel Guide"
+title: "Korenica"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Korenica** (657m) is a cultural and administrative centre of National Park Plitvice Lakes.
 
@@ -20,7 +20,3 @@ the bus station.
 It has appx.2000 residents (2001).
 
 In SFRY it was named *Titova Korenica* after Tito. On that area now live Croatian, and Serbian people. There is one elementary school and one high school.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:46

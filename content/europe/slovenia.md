@@ -1,8 +1,6 @@
 ---
 title: "Slovenia"
 type: location
-latitude: 46.119944
-longitude: 14.815333
 ---
 
 Slovenia is the ex-Yugoslav Republic that is most like Western Europe. Bordering on Italy, Austria, Hungary and Croatia, this small state is easy to explore. It has both natural beauty and historical sights, so it makes for a good destination.
@@ -20,16 +18,3 @@ It's very easy to say that one county is beautiful, what makes Slovenia differen
 - Slovenian coast with typical north Adriatic towns like [Piran](/europe/slovenia/piran) or Izola
 
 - Some of the small medival towns, like: [Ptuj](/europe/slovenia/ptuj), Celje, Skofja Loka, Kranj, Radovljica, Novo mesto, Idrija, ...
-
-## Destinations
-
-- [Bled](/europe/slovenia/bled)
-- [Bovec](/europe/slovenia/bovec)
-- [Koper](/europe/slovenia/koper)
-- [Lake bohinj](/europe/slovenia/lakebohinj)
-- [Lipica](/europe/slovenia/lipica)
-- [Ljubljana](/europe/slovenia/ljubljana)
-- [Piran](/europe/slovenia/piran)
-- [Portoroz](/europe/slovenia/portoroz)
-- [Postojna caves](/europe/slovenia/postojnacaves)
-- [Ptuj](/europe/slovenia/ptuj)

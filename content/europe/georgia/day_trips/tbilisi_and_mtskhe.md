@@ -42,5 +42,3 @@ url: [www.travel.info-tbilisi.com](http://www.travel.info-tbilisi.com)
 address: 6, str. N.Nikoladze
 
 email: travel@info-tbilisi.com
-
-[back to Day Trips](..)

@@ -15,5 +15,3 @@ type: Bars and Pubs
 address: 31 Abdel Khaliq Sarawat
 
 tel: +20 2 1238957
-
-[back to Nightlife and Entertainment](..)

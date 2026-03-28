@@ -21,5 +21,3 @@ url: [shanghairedsrestaurant.com](http://shanghairedsrestaurant.com)
 address: 13813 Fiji Way
 
 PriceOfMenu: $14 to 13 for dinner entrees
-
-[back to Eating Out](..)

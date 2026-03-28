@@ -1,9 +1,9 @@
 ---
-title: "Swift Current Travel Guide"
+title: "Swift Current"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Sometimes referred to as "Speedy Creek", Swift Current is on the #1 highway that is a convenient stopping point when travelling across the prairies due to its midpoint location between Regina and Medicine Hat.
 
@@ -14,7 +14,3 @@ Other attractions include an aquatic center, walking trails along the creek, an 
 The weekend of July 1st each year hosts Swift Current's Frontier Days, with carnival rides, agricultural and commercial exhibitions, student showcases, historic displays, and a rodeo.
 
 There is community mass transit consisting of a Tel-a-Bus you call to pick you up as well as local cabs.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 12:37

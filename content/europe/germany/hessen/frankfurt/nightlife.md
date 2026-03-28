@@ -15,5 +15,3 @@ The nightlife of Frankfurt is based on an excellent melange of beer-gardens, bar
 [Bars and Cafes](/europe/germany/hessen/frankfurt/nightlife?subsection=Bars%20and%20Cafes)
 
 [Dancing](/europe/germany/hessen/frankfurt/nightlife?subsection=Dancing)
-
--->

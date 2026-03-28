@@ -17,5 +17,3 @@ type: Indian and Pakistani
 address: near garden flats
 
 PriceOfMenu: reasonable
-
-[back to Eating Out](..)

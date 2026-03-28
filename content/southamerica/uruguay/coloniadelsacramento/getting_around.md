@@ -11,5 +11,3 @@ A more expensive option is to rent a scooter, or a golf car. A bycicle is also a
 
 **Contributors**
 November 23, 2005
-new
-by [tumonis](/member/tumonis)

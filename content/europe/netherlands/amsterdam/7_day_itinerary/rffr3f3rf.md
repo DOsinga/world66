@@ -18,5 +18,3 @@ url: [fvwevwerv](http://fvwevwerv)
 address: rf3rf3
 
 email: wevfwevf
-
-[back to 7 Day Itinerary](..)

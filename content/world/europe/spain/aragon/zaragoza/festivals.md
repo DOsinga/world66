@@ -1,6 +1,0 @@
----
-title: "Festivals"
-type: section
----
-
-The best festival in Aragon is a long party lasting nine days is the Fiesta in honor to the Virgin of el Pilar. It always take place around the 12th October. The festival finds it origin in the belief that the Virgin Mary miraculously visited the apostle Saint James in Zaragoza. The events include the multitudinous pregón (a speech proclaiming the forthcoming festival), the final fireworks in the river Ebro, a succession of street brass bands, dances, parades of giants and cabezudos (figures with an enormous head running after the children), concerts, exhibitions, the famous vaquillas, when everybody can run in front of young bulls in the bullring, and the well-known bullfights. The offering of flowers (Ofrenda de Flores) to the Virgin on the 12th is remarkable: the flowers form an enormous mantle for the Virgin in the middle of the vast square; the crowded Mass of Infantes (child singers) at dawn on the same day and the beautiful Rosario de Cristal (Crystal Rosary) in the afternoon on the 13th . This is a street procession with 258 lanterns and 15 polychromatic crystal floats, with great popular participation. You can get more information at the Town Hall: +34-(9)76-201291 and (9)76-201200. Note: Book your hotel early!!

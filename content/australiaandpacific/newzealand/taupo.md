@@ -1,0 +1,4 @@
+---
+title: "Taupo"
+type: location
+---

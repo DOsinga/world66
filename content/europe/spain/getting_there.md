@@ -1,57 +1,74 @@
 ---
-title: "Getting There in Spain"
+title: "Getting There"
 type: section
 ---
 
-**Getting There by Plane**
+Note
 
-When planning your trip to Spain, getting there should be at the
-top of your list of things to plan. The easiest way to get to Spain is
-by plane and the most common point of entry is the Madrid Barajas International Airport (IATA airport code
-: MAD), which is among the top 10 busiest airports in the world. There
-are several international and local airlines that offer direct flights
-to and from Madrid. There are many other international airports in
-Spain such as the Barcelona International Airport (better known as El
-Prat International Airport, IATA airport code: BCN) and the Valencia International Airport (better known as the Manises International Airport, IATA airport code: VLC), but it is best to start off looking for rates with the Madrid Barajas International Airport.
+For information on travel to and within the
 
-If you're traveling from within the European continent, Ireland, or the U.K., you may want to use the Irish airline Ryanair because it offers among the most competitive air ticket prices for travel within Europe. Ryanair offers 15 different destinations within continental Spain and 5 within Spain's island territories. In the north of Spain, Ryanair offers direct flights from and to Santiago de Compostela, Santander, Valladolid, Zaragoza, Lleida, Girona and Reus. In central Spain, Ryaair offers direct flights from and to Madrid and Valencia. Finally, in southern Spain, Ryanair offers direct flights from and to Sevilla, Jerez, Granada, Malaga, Almeria, Murcia and Alicante. Another good airline to check out for comparable prices is German airline, Germanwings, however it is important to point that Germanwings offers fewer destinations within continental Spain than Ryanair.
+Canary islands
 
-**Visa Requirements**
+and the
 
-It
-is very important for travelers with citizenship from countries in the
-regions of Central America, South America, Middle East and Africa, to check with the Spanish Embassy or consulate in their countries of
-origin for the visa requirements for travel to Spain. The tourist visa
-application process from any of these countries is very strict,
-requires a lot of documents and it usually takes a couple weeks (if not
-months, in some cases). Avoid any surprises by checking your local
-Spanish Embassy or consulate with at least 2 months in advance before
-your travel.
+Balearic islands
 
-**Getting There by Car**
+see the respective sections
 
-If you're
-departing from a neighboring or nearby nation of Spain, a road trip
-might be one of the best experiences that you will have. If you have
-enough days in your vacation schedule to drive through a couple
-European countries, then don't hesitate and jump in the car. If you
-don't have enough time, then your best and safest bet is to catch a
-plane. Before getting yourself behind the wheel, take the time to apply
-for an international driver's permit in your country of origin. Having
-this special permit will allow you to save time when renting and
-driving a car in Spain (or any European country). Also, having an
-international driver's permit has its benefits when dealing with
-insurance companies in case you are involved in an accident. In North America, you can often apply for an international driver's permit at your local AAA office. The
-highway system in Spain is made of 6 main highways that connect the 6
-main regions of the country. There are also secondary road systems that
-go through the cities and towns in the Atlantic and Mediterranean
-coastal areas. Driving through the stretch from Girona to Almeria on the Mediterranean Coast of Spain is particularly beautiful.
+Air
 
-**Contributors**
-January 17, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
+Spain's national airline is *IBERIA (IB).*
 
-January 26, 2010
-change
-by [schitti](/member/schitti)
+For free advice on air travel from the UK call the Air Travel Advisory Bureau on (0171) 636 5000 (London) *or* (0161) 832 2000 (Manchester).
+
+Approximate flight times
+
+From *London* to Barcelona is 2 hours; to Ibiza is 2 hours 20 minutes; to Madrid is 2 hours and to M&aacute;laga is 2 hours 20 minutes.
+
+From *Los Angeles* to Madrid is 13 hours.
+
+From *New York* to Madrid is 7 hours 25 minutes.
+
+From *Sydney* to Madrid is 29 hours 5 minutes.
+
+International airports:
+
+*Alicante (ALC)* (Altet) is 12km (7 miles) southwest of the city. Airport facilities include a duty-free shop bank bureau de change car hire and restaurant. Coach service runs to the city (0700-2335). A taxi service is available to the city. There is a taxi connection between Alicante and Valencia Airport.
+
+*Barcelona (BCN)* (del Prat) is 13km (8 miles) southwest of the city. Airport facilities include a bank restaurant bar several car hire companies hotel reservation and tourist information desks and duty-free shops. Bus service to the city departs every 15 minutes (0700-2300). Rail service is every 30 minutes (0645-1015). Taxi service to the city is available.
+
+*Bilbao (BIO)* is 9km (6 miles) north of the city. Bus and taxi services to the city are available. Airport facilities include a restaurant duty-free shop tourist information desk and car hire.
+
+*Madrid (MAD)* (Barajas) is 13km (8 miles) northeast of the city. Airport facilities include restaurants and bars (0700-2400) bank several car hire offices hotel reservation and tourist information desks and outgoing duty-free shop. Coach service departs to the city every 20 minutes (0455-0130). Taxi service is available.
+
+*M&aacute;laga (AGP)* is 11km (7 miles) southwest of the city. Airport facilities include duty-free shop bank restaurant and car hire. Bus runs every 30 minutes (0700-1030). Train service runs every 30 minutes (0700-1040). Taxi service to the city is available.
+
+*Santiago de Compostela (SCQ)* is 10km (6 miles) northeast of the city. Buses and taxis are available to the city centre.
+
+*Seville (SVQ)* is 12km (7 miles) from the city. Taxis are available to the city centre.
+
+*Valencia (VLC) *(Manises) is 10km (6 miles) from the city. Airport facilities include several car hire firms bank restaurant bar and duty-free shop. Taxis are available to the city centre.
+
+For more information on airports contact Aena (Web site: http://www.aena.es).
+
+Sea
+
+*Brittany Ferries* (tel: 0990 360 360)* *operates a service to Santander (on the north coast) from Plymouth taking 24 hours. *P&O European Ferries* (tel: 0990 980 555) operates a twice-weekly service from Portsmouth to Bilbao (Web site: http://www.poef.com).
+
+Rail
+
+There are direct trains between MadridParis and MadridLisbon as well as BarcelonaParis BarcelonaZ&uuml;richMilan and BarcelonaGeneva. These services are called *Talgo Estrella* or *Train-Hotel. *On other international services to and from Spain a change of train is necessary. Motorail services run between Paris and Madrid. Reservations can be made in the UK. Contact Rail Europe in London. Tel: (0990) 848 848.
+
+Road
+
+The main route from the UK is via France. The main autoroutes to Spain from France are via Bordeaux or Toulouse to Bilbao (north Spain) and via Marseille or Toulouse to Barcelona (east Spain). A number of coach operators offer services to Spain. In the UK *Eurolines * departing from Victoria Coach Station in London serve more than 20 destinations in Spain. For further information contact Eurolines 4 Cardiff Road Luton LU1 1PP. Tel: (01582) 404 511. Fax: (01582) 400 694.
+
+See below for information on
+
+Documentation
+
+and
+
+Traffic regulations
+
+.

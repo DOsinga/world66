@@ -22,6 +22,3 @@ Some of its main attractions are:
 **Casino Regina** - 600 slot machines, 35 game tables, Canada's finest poker room, dining, gift shop and show lounge.
 
 Visit http://www.tourismregina.com/ for more attractions.
-
-*Change history*
-Orginal article by [kmsiever](/member/kmsiever) on 03 March 05

@@ -17,5 +17,3 @@ For accommodation, there are many little hostels everywhere and it wouldn't be h
 
 **Contributors**
 April 21, 2007
-new
-by [kalepook](/member/kalepook)

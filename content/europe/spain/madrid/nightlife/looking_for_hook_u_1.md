@@ -14,5 +14,3 @@ type: Casinos
 
 
 email: weedspot2@gmail.com
-
-[back to Nightlife and Entertainment](..)

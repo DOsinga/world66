@@ -26,5 +26,3 @@ ClosingTime: As late as 5am
 url: [www.realbenidorm.net](http://www.realbenidorm.net/gaybenidorm.html)
 
 accessibility: Varies in each venue
-
-[back to Nightlife and Entertainment](..)

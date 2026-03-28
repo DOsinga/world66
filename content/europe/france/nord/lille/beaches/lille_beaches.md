@@ -12,11 +12,3 @@ you will be missing out by not taking a visit there.
 
 **Contributors**
 March 31, 2010
-change
-by [suegabel](/member/suegabel)
-
-
-
-
-
-[back to Beaches](..)

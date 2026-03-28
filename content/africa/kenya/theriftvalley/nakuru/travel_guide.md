@@ -20,4 +20,4 @@ A now-dormant volcano, the crater world's second largest surviving volcanic crat
 
 **Hyrax Hill Prehistoric Site**
 
-Discovered in 1926, this area is considered a major find. Items located here date back to not only the Iron Age, but also the Neolithic Age. Excavations here have unearthed items dating as far back as 1500 B.C. Excavations began in the mid 1930s and continue today. Famous findings include 19 bodies which were victims of odd be-headings, as well as settlements, tombs, and a fortress. Many of these items are available for viewing at a nearby museum. Siriwka Holes, used by the Siriwka people for guarding cattle in the 17th and 18th centuries, can also be found here.
+Discovered in 1926, this area is considered a major find. Items located here date

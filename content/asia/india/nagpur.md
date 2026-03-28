@@ -1,0 +1,4 @@
+---
+title: "Nagpur"
+type: location
+---

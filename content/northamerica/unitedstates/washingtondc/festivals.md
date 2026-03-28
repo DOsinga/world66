@@ -15,8 +15,6 @@ Washington could make any trip very interesting.
 
 **Contributors**
 October 14, 2005
-new
-by [patrickneil](/member/patrickneil)
 
 ### [National Cherry Blossom Festival](/northamerica/unitedstates/washingtondc/festivals/national_cherry_bl)
 

@@ -1,9 +1,9 @@
 ---
-title: "McDowell County Travel Guide"
+title: "McDowell County"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Marion,
 Old Fort and McDowell
@@ -92,9 +92,3 @@ in July. Octoberfest in Old Fort and the
 Mountain Glory Festival in Marion
 bring in the fall, offering arts, crafts, food, music and fun! More art is for sale in December at the
 Appalachian Potters Market and McDowell Artisans Show.
-
-*Part or or all of this text stems from the original article at: Gabrielle Thompson*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 06:55

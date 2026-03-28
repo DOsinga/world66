@@ -9,7 +9,3 @@ IDEAL is similar to Delphi, except that it is on Panepistimiou Street and closer
 Kali orexi!!
 
 type: Greek
-
-
-
-[back to Eating Out](..)

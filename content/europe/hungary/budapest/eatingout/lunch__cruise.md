@@ -35,5 +35,3 @@ address: ZrÃ­nyi u. 5
 PriceOfMenu: 7200 HUF buffet-lunch
 
 email: hunkonc@ticket.info.hu
-
-[back to Eating Out](..)

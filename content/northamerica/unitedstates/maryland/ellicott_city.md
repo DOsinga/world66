@@ -8,5 +8,3 @@ Elicott city is a cute litlle town. It was founded as a Quaker community by thre
 In 1830, The B & O Railroad built the "Old Main Line" to the town from [Baltimore](/northamerica/unitedstates/maryland/baltimore).
 
 Ellicott City is built on seven hills in the tradition of ancient [Rome](/europe/italy/lazio/rome). They are named Capitoline, Rock , Strawberry, Patapsco, Mulligan, Dutch, and Quaker Hill.
-
--->

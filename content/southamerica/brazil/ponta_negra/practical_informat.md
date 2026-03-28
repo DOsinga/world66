@@ -7,5 +7,3 @@ This part of Brazil is quiet calm considering criminality. However don't visit t
 
 **Contributors**
 June 06, 2006
-change
-by [morsan](/member/morsan) (1 point)

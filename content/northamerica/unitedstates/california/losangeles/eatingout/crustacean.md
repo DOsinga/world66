@@ -12,8 +12,6 @@ Crustacean Beverly Hills has been serving up delicious Asian cuisine since 1997.
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Vietnamese
 
@@ -26,5 +24,3 @@ url: [www.anfamily.com](http://www.anfamily.com)
 address: 9646 Little Santa Monica Boulevard
 
 email:
-
-[back to Eating Out](..)

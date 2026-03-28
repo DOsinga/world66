@@ -15,5 +15,3 @@ type: Live Music
 address: 1415 P St. NW
 
 tel: 202/483-3971.
-
-[back to Nightlife and Entertainment](..)

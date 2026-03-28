@@ -9,5 +9,3 @@ Inside the park there are no lodges, so you must lodge in in Novo Airão or duri
 
 **Contributors**
 September 27, 2006
-change
-by [giorgio](/member/giorgio)

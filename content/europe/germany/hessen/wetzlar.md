@@ -1,9 +1,9 @@
 ---
-title: "Wetzlar Travel Guide"
+title: "Wetzlar"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Wetzlar**, in central Hesse, features an amazingly well-preserved
 and restored Old Town (Altstadt), with historic plazas, a 13th century
@@ -48,13 +48,3 @@ Park your car at the Lahninsel
 access through Wetzlar's historic Old-town. You can see the Lahn river
 there, with a great view to the 13th-century Lahn Bridge (Alte
 Lahnbrücke.)
-
-*Part or or all of this text stems from the original article at: http://www.live-like-a-german.com/germany_related_articles/show/Visit-Wetzlars-Historic-Old-Town*
-
-#### Contributors
-
-October 24, 2010 new by [bettina kraft](/member/bettina_kraft)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 01:35

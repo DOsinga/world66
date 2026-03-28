@@ -8,15 +8,4 @@ At the bus terminal on the main boulevard out of town (direction [Chiclayo](/sou
 
 Walk down to the river through the palm trees and rice fields, and try to find a spot with some shadow. You’ll have to look around a bit to find one. You’ll want to go for a dip as the water has got an excellent temperature. But take care. The river isn’t deep, but it has got serious force. The rocks aren’t sharp, but as you’ll keep bumping into them bring your water sandals. You can buy food at the football pitch. It might be a better idea to bring your own pick nick though.
 
-To get back to town, just wait at the roadside for a passing car or minibus. 9 out of 10 are going to Jaén. Locals say it’s best to leave before sunset.
-
-**Contributors**
-May 29, 2006
-new
-by [joosts](/member/joosts) (4 points)
-
-
-
-
-
-[back to Day Trips](..)
+To get

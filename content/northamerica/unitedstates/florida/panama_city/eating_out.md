@@ -20,5 +20,3 @@ Glory
 
 **Contributors**
 January 19, 2006
-new
-by [glory](/member/glory)

@@ -33,5 +33,3 @@ Can you believe you have already completed a 7-day itinerary here and you have j
 
 **Contributors**
 February 17, 2010
-change
-by [traveller77](/member/traveller77) (2 points)

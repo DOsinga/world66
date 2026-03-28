@@ -12,8 +12,6 @@ The Pioneer Courthouse was built in the 1860s and is widely known as the first c
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Public Buildings
 
@@ -26,5 +24,3 @@ openingHours: 8:30a-5p M-F
 url: [www.pioneercourthousesquare.org](http://www.pioneercourthousesquare.org/)
 
 address: 715 Southwest Morrison Street Portland, OR 97205
-
-[back to Sights](..)

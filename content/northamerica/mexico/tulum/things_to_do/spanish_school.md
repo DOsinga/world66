@@ -23,5 +23,3 @@ url: [www.thepinkiguana.mx](http://www.thepinkiguana.mx)
 address: C. 17. Mz 12 Lte 3-A, Tulum, Q Roo Mexico
 
 email: thepinkiguana.info@gmail.com
-
-[back to Things to do](..)

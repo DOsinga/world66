@@ -35,9 +35,5 @@ This is the most popular attraction in Grenoble. It is a series of fortification
 
 **Contributors**
 February 12, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

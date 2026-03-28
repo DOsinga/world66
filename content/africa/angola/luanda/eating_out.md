@@ -57,5 +57,3 @@ battered, grilled or fried.
 
 **Contributors**
 February 09, 2010
-new
-by [revjugular](/member/revjugular)

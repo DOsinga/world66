@@ -13,13 +13,9 @@ Downtown Disney is free to visit, and is open late. The Disneyland Hotel, the Gr
 
 **Contributors**
 June 19, 2008
-new
-by [the rev](/member/the_rev)
 
 type: Other
 
 
 
 email: www.disneyland.com
-
-[back to Things to do](..)

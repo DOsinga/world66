@@ -12,8 +12,6 @@ This is Quito's only airport, in the Chaupicruz parish in the north of the city.
 
 **Contributors**
 September 24, 2005
-change
-by [2004-12-29t22:45z](/member/2004-12-29t22:45z)
 
 type: By Air
 
@@ -28,5 +26,3 @@ url: [www.quitoairport.com](http://www.quitoairport.com)
 address: Av. Amazonas y Av. de la Prensa
 
 email: quiport.telecom@quiport.com
-
-[back to Getting There](..)

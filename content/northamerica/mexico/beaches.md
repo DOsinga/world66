@@ -42,5 +42,3 @@ Like the Caribbean coast, the Pacific Mainland coast is teeming with beaches tha
 
 **Contributors**
 March 01, 2010
-change
-by [tiffanymparker](/member/tiffanymparker)

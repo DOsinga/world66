@@ -36,9 +36,5 @@ drinking) on a budget!
 
 **Contributors**
 January 29, 2010
-new
-by [robin_8000](/member/robin_8000)
 
 February 02, 2010
-change
-by [schitti](/member/schitti)

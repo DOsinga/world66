@@ -11,9 +11,4 @@ Lori Resort is a good budget option in the forest. It's seen some remodeling and
 
 Vanadzor is a bit too far south to be very practical, but it does offer some decent accomodations if you're in a pinch.
 
-When you've checked off all you want to see in Lori, head over to Tavush Marz and Dilijan either via the north (Alaverdi to Noyemberian then south) or the south (Vanadzor then east to Dilijan, passing the Russian "Amish" villages). Spend another night there and another in Sevan as you make your way back to Yerevan!
-
-**Contributors**
-November 11, 2008
-new
-by [raffikojian](/member/raffikojian)
+When you've checked off all you want to see in Lori, head over to Tavush Marz and Dilijan either via the north (Alaverdi to Noyemberian then south) or the south (Vanadzor then east to Dilijan, passing the Russian "Amish" villages). Spend another night there and another in Sevan as you make your way

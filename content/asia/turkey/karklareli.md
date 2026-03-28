@@ -1,0 +1,4 @@
+---
+title: "Karklareli"
+type: location
+---

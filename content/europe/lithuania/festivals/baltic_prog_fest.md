@@ -17,5 +17,3 @@ url: [www.balticprogfest.com](http://www.balticprogfest.com)
 date: July 25th - 26th
 
 address: Arvydo Sodyba, Kernave
-
-[back to Festivals](..)

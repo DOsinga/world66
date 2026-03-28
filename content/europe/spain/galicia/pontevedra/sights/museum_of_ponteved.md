@@ -7,8 +7,6 @@ phone: "(986) 851455 - (986) 843238"
 type: "Public Buildings"
 url: "www.euroadventures.net"
 zipcode: "36002"
-latitude: 42.432372
-longitude: -8.64333
 ---
 
 Winter (October 1st-31st May)
@@ -25,9 +23,6 @@ Tuesday-Saturday, 10:00 am-14:15 pm and 17:pm-20:45 pm
 
 Closed on Monday
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 08 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 09 March 05
+Minor corrections on 09 March 05
 
 type: Public Buildings

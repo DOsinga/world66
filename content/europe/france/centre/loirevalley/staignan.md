@@ -9,4 +9,4 @@ Located on the banks of the Cher river, St.Aginan has a charming old centre and 
 
 
 
-In the old town most of the hosues go back to the 16-th century. The Eglise Collegiale is worth a visit for its medieval murals.
+In the old town most of the hosues go

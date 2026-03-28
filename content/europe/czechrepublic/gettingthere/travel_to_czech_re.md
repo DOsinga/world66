@@ -27,21 +27,11 @@ From Košice, [downtown of Žilina](/europe/slovakia/zilina/downtown_of_ilin) to
 From Zvolen, [downtown of Žilina](/europe/slovakia/zilina/downtown_of_ilin) to [Ostrava](/europe/czechrepublic/ostrava), [Olomouc](/europe/czechrepublic/olomouc), [Prague](/europe/czechrepublic/prague): IC 140 "Detvan" 8:17AM, 10:20AM
 From [downtown of Žilina](/europe/slovakia/zilina/downtown_of_ilin) to [Ostrava](/europe/czechrepublic/ostrava), [Olomouc](/europe/czechrepublic/olomouc), [Prague](/europe/czechrepublic/prague): IC 142 "Odra" 8:40AM
 
-Note: It is necessary to make sure if the train is operating as well as double-checking the travel times.  The main train stations where you can easily change the trains (IC/EC/Ex) are [Prague](/europe/czechrepublic/prague), [Kolín](/member/vampyrebytes), Ceská Trebová, Breclav or [Brno](/europe/czechrepublic/brno).
+Note: It is necessary to make sure if the train is operating as well as double-checking the travel times.  The main train stations where you can easily change the trains (IC/EC/Ex) are [Prague](/europe/czechrepublic/prague), [Kolín], Ceská Trebová, Breclav or [Brno](/europe/czechrepublic/brno).
 
 **Contributors**
 June 10, 2006
-change
-by [ts7](/member/ts7)
 
 June 24, 2005
-change
-by [jspetrak](/member/jspetrak)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

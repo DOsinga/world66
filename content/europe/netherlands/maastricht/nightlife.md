@@ -3,23 +3,24 @@ title: "Nightlife and Entertainment"
 type: section
 ---
 
-## Subsections
+**all**
 
-[Bars](/europe/netherlands/maastricht/nightlife/bars)
-[Clubs](/europe/netherlands/maastricht/nightlife/clubs)
-[Coffee Shops](/europe/netherlands/maastricht/nightlife/coffeeshops)
-[Dance](/europe/netherlands/maastricht/nightlife/dance)
-[Disco](/europe/netherlands/maastricht/nightlife/disco)
-[Erotic](/europe/netherlands/maastricht/nightlife/erotic)
+**Kadans**
 
-[Gay & Lesbian](/europe/netherlands/maastricht/nightlife/gaylesbian)
-[Grand Café](/europe/netherlands/maastricht/nightlife/grandcaf)
-[Jazz Clubs](/europe/netherlands/maastricht/nightlife/jazzclubs)
-[Live Music](/europe/netherlands/maastricht/nightlife/livemusic)
-[Lounge](/europe/netherlands/maastricht/nightlife/lounge)
+**edwin willems :** Op de bovenste verdieping draaien ze r&b en trance en in de kelder techno in deze niet al te drukke disco. 
 
-[Pubs](/europe/netherlands/maastricht/nightlife/pubs)
-[Rock](/europe/netherlands/maastricht/nightlife/rock)
-[Salsa](/europe/netherlands/maastricht/nightlife/salsa)
-[Student Pubs](/europe/netherlands/maastricht/nightlife/studentpubs)
-[Xtreme](/europe/netherlands/maastricht/nightlife/xtreme)
+address: Kesselskade 62
+
+tel: 043 3261700
+
+pc: 6211 EN
+
+**Cafe Printemps**
+
+**edwin willems :** Op donderdag, vrijdag en zaterdag is het stampens vol met studenten en wellicht iets te druk voor deze kleine ruimte. 
+
+address: Markt 23
+
+tel: 043 3259690
+
+pc: 6211 CJ

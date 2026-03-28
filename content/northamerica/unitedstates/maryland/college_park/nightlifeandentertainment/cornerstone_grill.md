@@ -35,5 +35,3 @@ url: [www.cornerstonegrillandloft.com](http://www.cornerstonegrillandloft.com/We
 address: 7325 Baltimore Avenue
 
 email: csgrill@comcast.net
-
-[back to Nightlife and Entertainment](..)

@@ -23,9 +23,4 @@ A great bar that has some of the best gelato and makes one of the best espressos
 
 If you want a popular designer club, then stop off at Soda Pops. This club plays hip hop and techno music. A few other clubs to check out are Kinki and Matis. One of the most popular gay clubs is Cassero, located on top of one of the city's medieval gates.
 
-You can also stop in at any of the osterias for a quick drink, or even do an osteria crawl, as there are many throughout the city. Many of the buildings date back to the 16th century. The best osteria in town is the Osteria del Sole. Many times you can bring your own meal as long as you purchase a glass of wine.
-
-**Contributors**
-April 06, 2010
-new
-by [piyushjain](/member/piyushjain_)
+You can also stop in at any of the osterias for a quick drink, or even do an osteria crawl, as there are many throughout the city. Many of the buildings date

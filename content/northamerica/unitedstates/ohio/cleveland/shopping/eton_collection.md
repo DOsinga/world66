@@ -11,8 +11,6 @@ This relatively new shopping center in Northeast Ohio is often overlooked, but i
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: 216-591-0544
 url: [www.etonchagrinblvd.com](http://www.etonchagrinblvd.com/)
 
 address: 28601 Chagrin Boulevard
-
-[back to Shopping](..)

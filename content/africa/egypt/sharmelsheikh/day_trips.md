@@ -32,16 +32,7 @@ email: info@goegypt-travel.com
 
 Magnificent trip to Colored Canyon from Sharm $ 120
 
-Go Egypt Travel representative will pick you up by 4x4 Jeep to Coral Canyon in Nuweiba’a, it’s a natural Oasis, surrounded by the mountains, 170 km. from Sharm, includes many sections like Muzena, Mina, Hotel area, Medina and Tarabeen. Have Lunch then drive back to Sharm.
-
-Inclusions:
-Pick up services from your hotel & back
-Transferring by 4x4 Jeep
-English Egyptologist tour guide
-Lunch at local restaurant
-One [more..](/africa/egypt/sharmelsheikh/day_trips/magnificent_trip_t)
-
-
+Go Egypt Travel representative will pick you up by 4x4 Jeep to Coral Canyon in Nuweiba’a, it’s a natural Oasis, surrounded by the mountains, 170 km. from Sharm, includes many sections like Muzena, Mina, Hotel area, Medina and Tarabeen. Have Lunch then drive 
 
 [[rate it]](/africa/egypt/sharmelsheikh/day_trips/magnificent_trip_t)
 
@@ -157,11 +148,7 @@ email: egypttourguide@yahoo.com
 
 Enjoy that new experience in Sharm Elshiekh,one hour with Arabian horse or with camel in Sinai desert with Bedouin tea in their traditional Bedouin tent...book now.
 
-**Itinerary:** Pick up from your hotel in Sharm el Sheikh, then drive to the middle of the desert where Bedouins live..You will ride camel or horse for one hour through the desert to watch sunset and practice the real Bedouin life, after reaching the Bedouin tent you will have some rest, drink real Bedouin tea with herbs..At the end of the tour we will drive you back to your hotel.
-
-[more..](/africa/egypt/sharmelsheikh/day_trips/horse_ride_or_came)
-
-
+**Itinerary:** Pick up from your hotel in Sharm el Sheikh, then drive to the middle of the desert where Bedouins live..You will ride camel or horse for one hour through the desert to watch sunset and practice the real Bedouin life, after reaching the Bedouin tent you will have some rest, drink real Bedouin tea with herbs..At the end of the tour we will drive you 
 
 tel: +20121450455
 
@@ -207,9 +194,7 @@ email: egypttourguide@yahoo.com
 
 Have a day trip to St.Catherine city to visit the monastery built in 527 AD and to be closer to the place where Moses received the ten commandments...short visit to Dahab is included...join now
 **
-Itinerary:** Pick up from your hotel in Sharm-el-Sheikh in the morning and drive towards St.Catherine city(225 km from Sharm),During the drive you will enjoy with Sinai desert landscape, different altitudes of the granite mountains,the views there are amazing..arrive to the monastery which is situated 1571 m above sea level and dates back to Roman times 542 A.D. We [more..](/africa/egypt/sharmelsheikh/day_trips/excursion_to_st_ca)
-
-
+Itinerary:** Pick up from your hotel in Sharm-el-Sheikh in the morning and drive towards St.Catherine city(225 km from Sharm),During the drive you will enjoy with Sinai desert landscape, different altitudes of the granite mountains,the views there are amazing..arrive to the monastery which is situated 1571 m above sea level and dates 
 
 tel: +20121450455
 
@@ -241,9 +226,7 @@ email: egypttourguide@yahoo.com
 
 While you are in Sharm Elshiekh..Enjoy a day trip by plane to visit the most famous archeological sites in Egypt..Karnak temple,Valley of kings..book now.
 
-Itinerary:** You will be picked up from your sharm hotel early morning, transfer to Sharm airport, get your 50 minutes flight to Luxor, upon arrival, you will be met by your qualified tour guide who will join you during your day tour in Luxor. Start the tour from Thebes West Bank to visit the Valley of Kings, Temple of Queen Hatshepsut, Colossi of Memnon and The Alabaster Institute, back to the East Bank [more..](/africa/egypt/sharmelsheikh/day_trips/luxor_by_plane_fro)
-
-
+Itinerary:** You will be picked up from your sharm hotel early morning, transfer to Sharm airport, get your 50 minutes flight to Luxor, upon arrival, you will be met by your qualified tour guide who will join you during your day tour in Luxor. Start the tour from Thebes West Bank to visit the Valley of Kings, Temple of Queen Hatshepsut, Colossi of Memnon and The Alabaster Institute, 
 
 tel: +20121450455
 
@@ -273,12 +256,7 @@ email: egypttourguide@yahoo.com
 
 If you have just one day in Sharm,arriving from Sharm airport or Sharm port,in just few hours we can show you its must see sites..book now.
 
-**Itinerary:** Our qualified tour guide will pick you up from Sharm airport or Sharm port with modern A/C to visit the highlights of Sharm El Sheikh (Old Sharm,Naama bay,Sharks bay,Nabq bay,the biggest mosque and Church in the city),enjoy with us sharm pure rare breath in 4 hours city tour before we transfer you back to your cruise or flight.
-**
-Inclusions: **
-- Qualified [more..](/africa/egypt/sharmelsheikh/day_trips/sharm_el_sheikh_ci)
-
-
+**Itinerary:** Our qualified tour guide will pick you up from Sharm airport or Sharm port with modern A/C to visit the highlights of Sharm El Sheikh (Old Sharm,Naama bay,Sharks bay,Nabq bay,the biggest mosque and Church in the city),enjoy with us sharm pure rare breath in 4 hours city tour before we transfer you 
 
 tel: +20121450455
 

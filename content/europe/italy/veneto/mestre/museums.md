@@ -34,5 +34,3 @@ make Venice their destination.
 
 **Contributors**
 April 16, 2010
-change
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

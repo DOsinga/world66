@@ -26,9 +26,3 @@ The main international port is Paramaribo. *Surinam Shipping Line *sails from Ne
 Road
 
 The coastal road from Paramaribo leads to the borders of Guyana and French Guiana.
-
-
-
-## Subsections
-
-[By Air](/southamerica/suriname/gettingthere/byair)

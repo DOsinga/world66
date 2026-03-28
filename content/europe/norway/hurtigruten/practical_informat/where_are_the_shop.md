@@ -15,5 +15,3 @@ type: Tourist information
 
 
 url: www.hurtigruten.com
-
-[back to Practical Information](..)

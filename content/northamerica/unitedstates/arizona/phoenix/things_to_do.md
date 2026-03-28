@@ -7,8 +7,6 @@ email: "information@bentleyproject.com"
 phone: "602.340.9200"
 type: "Other"
 url: "bentleygallery.com"
-latitude: 42.441141
-longitude: -85.639911
 ---
 
 Go hiking, mountain biking, or horseback riding at South Mountain Park, the largest municipal park in the United States.

@@ -6,8 +6,6 @@ email: "serralves@serralves.pt"
 phone: "+351 22 615 6500"
 type: "Public Buildings"
 url: "www.serralves.com"
-latitude: 41.159042
-longitude: -8.659354
 ---
 
 The Museu de Arte Contemporânea de Serralves is part of a world
@@ -20,11 +18,7 @@ gardens and the Casa de Serralves.
 
 **Contributors**
 May 21, 2005
-new
-by [pedrosacosta](/member/pedrosacosta)
 
 August 14, 2005
-change
-by [reen](/member/reen)
 
 type: Public Buildings

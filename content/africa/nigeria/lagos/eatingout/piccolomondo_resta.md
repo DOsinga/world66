@@ -26,8 +26,6 @@ Piccolo Mondo
 
 **Contributors**
 March 31, 2008
-new
-by [fouadhanein](/member/fouadhanein)
 
 type: African
 
@@ -40,5 +38,3 @@ url: [www.piccolomondorestaurant.com](http://www.piccolomondorestaurant.com)
 address: 19B, Plot 975, Idejo Street, Off Adeola Odeku Street
 
 PriceOfMenu: 700 - 3500
-
-[back to Eating Out](..)

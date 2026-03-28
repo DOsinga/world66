@@ -1,12 +1,8 @@
 ---
-title: "Guided Drakensberg trekking Travel Guide"
+title: "Guided Drakensberg trekking"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Guided Drakensberg trekking and Climbing with GoVertical Mountaineering Adventures www.govertical.co.za
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 11:02

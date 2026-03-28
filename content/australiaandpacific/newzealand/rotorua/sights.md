@@ -23,9 +23,5 @@ Farm Shows - There are a few shows where one can observe the ways of a New Zeala
 
 **Contributors**
 November 08, 2004
-new
-by [unc_samurai](/member/unc_samurai)
 
 January 25, 2005
-change
-by [giorgio](/member/giorgio)

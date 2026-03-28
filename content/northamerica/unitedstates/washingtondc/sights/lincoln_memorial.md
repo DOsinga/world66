@@ -19,8 +19,6 @@ America, from the steps of the memorial.
 
 **Contributors**
 October 14, 2005
-change
-by [patrickneil](/member/patrickneil)
 
 type: Memorials
 
@@ -31,5 +29,3 @@ type: Memorials
 openingHours: Open 24/7, closed December 25
 
 url: [www.nps.gov](http://www.nps.gov/linc/)
-
-[back to Sights](..)

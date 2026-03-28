@@ -4,16 +4,12 @@ type: section
 address: "Boulevard de la Croisette"
 phone: "+33 04 92 18 84 84"
 type: "Sailing"
-latitude: 43.545935
-longitude: 7.033932
 ---
 
 Cannes enjoys a Mediterranean climate year around, so there are plenty of indoor and outdoor activities to be enjoyed every day of the year. During your Cannes vacation you can expect to spend your days sunbathing or exploring shops and museums and your nights dining at a top Cannes restaurant or dancing at a nightclub. Check out the listings on this page to read about some of the top things to do in and around Cannes.
 
 **Contributors**
 June 02, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Port Pierre Canto](/europe/france/cannes/things_to_do/port_pierre_canto)
 

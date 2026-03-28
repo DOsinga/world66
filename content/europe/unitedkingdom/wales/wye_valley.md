@@ -10,8 +10,3 @@ It is a lovely river throughout but the best known stretch, that always known as
 In its upper reaches the river gives its name to two towns, Hey-on-Wye and Ross-on-Wye the first being possibly the best venue in Britain for second hand books in Powys and the second being in England.
 
 http://www.visitwyevalley.com/home_frame.html
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 04 December 04
-
--->

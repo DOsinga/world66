@@ -1,9 +1,9 @@
 ---
-title: "Fairplay Travel Guide"
+title: "Fairplay"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The seat of Park County, Fairplay has an estimated population of 700.
 
@@ -20,7 +20,3 @@ Among the restaurant choices is the Brown Burro, a Mexican restaurant with reaso
 The local weekly newspaper, *The Flume*, is a folksy, opinionated publication useful more as entertainment than as a news source.
 
 Fairplay has a strict radar-controlled speed limit on Hwy. 9 through the middle of town.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 09:51

@@ -1,9 +1,9 @@
 ---
-title: "Trollhättan Travel Guide"
+title: "Trollhättan"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Trollhättan is a city with about 55 000 inhabitants situated along the Göta River 75 km north of Göteborg. The city was earlier most famous for its heavy industry, the locks, and the waterfalls.
 
@@ -18,11 +18,3 @@ Saab Automobile is one of Swedens two major car makers whereas Volvo Aero is a m
 On the cultural side Trollhättan has recently become one of the important film making centres in Sweden.
 Film i Väst or "Trollywood".
 Some more or less well known productions are "Fucking Åmål", "Tillsammans" (Together), "Noll Tolerans" (Zero tolerance), "Livvakterna" (The body guards) etc
-
-#### Contributors
-
-August 21, 2006 change by [ewolf](/member/ewolf)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 19:15

@@ -7,8 +7,6 @@ They have some very nice day tours from Budva.
 
 **Contributors**
 July 08, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ### [Bokokotorska bay by boat](/europe/montenegro/budva/day_trips/bokokotorska_bay_b)
 

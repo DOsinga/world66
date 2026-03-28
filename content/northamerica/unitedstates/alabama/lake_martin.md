@@ -1,9 +1,9 @@
 ---
-title: "Lake Martin Travel Guide"
+title: "Lake Martin"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Lake Martin area is located minutes north of Auburn University, in Auburn, Alabama. It is an hour east of Montgomery, and 90 minutes southeast of Birmingham. The east side of the lake is only 2 hours from the Atlanta, Georgia airport.
 
@@ -16,11 +16,3 @@ There are several restaurants in the Dadeville area, which is the home of StillW
 Alexander City, which is larger than Dadeville, is home to a Wal-Mart and Russell Mills, once the home of Russell Athletic wear. Mills and sewing facilities are still here, along with an outlet store where goods are available at wonderful prices.
 
 There are several gated communities along the lakeshore, as well as cabins and year-round homes. The lake is less than 20% occupied, and fishing is excellent. Several fishing organizations have tournaments on this lake. The lake rises and falls with the seasons, and the climate is excellent, having a change of seasons, without being too hot or too cold.
-
-#### Contributors
-
-December 08, 2005 new by [nairb](/member/nairb)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 08:58

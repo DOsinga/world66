@@ -17,6 +17,4 @@ Tickets for the festival cost between 220 and 250 dollars.
 
  NO tickets will be sold during the last 4 days of the event: Friday noon thru Monday, 9/1-9/4. 
 
- WILL CALL  ALL tickets purchased after August 1 by mail or Ticketweb, are available at WILL CALL only. That means that no ticket(s) will be mailed to you. Instead, your Ticket(s) will be waiting at the box office at the entrance of Black Rock City. You must bring the following with you: Your ID, paid invoice, and if purchased with credit card, the card you used to make the purchase. 
-
--->
+ WILL CALL  ALL tickets purchased after August 1 by mail or Ticketweb, are available at WILL CALL only. That means that no ticket(s) will be mailed to you. Instead, your Ticket(s) will be waiting at the box office at the entrance of Black Rock City. You must bring the following with you: Your ID, paid invoice, and if purchased with credit card, the card you used to make the purchase.

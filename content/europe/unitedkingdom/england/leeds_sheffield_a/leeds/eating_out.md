@@ -10,5 +10,3 @@ type: section
 [Indian](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/eatingout?subsection=Indian)
 
 [Italian](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/eatingout?subsection=Italian)
-
--->

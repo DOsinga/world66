@@ -50,5 +50,3 @@ conditions that can cause cancellations.
 
 **Contributors**
 March 30, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

@@ -17,5 +17,3 @@ This lively one day festival that takes place in October end near the Rioni rive
 
 **Contributors**
 April 07, 2010
-new
-by [beverly_per](/member/beverly_per)

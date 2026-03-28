@@ -48,6 +48,3 @@ Finally, the flora of the island consisting of certain rare and endemic types, p
 The geology of Tilos is rich. The Harkadio cavern, in which the fossilized pygmy elephants were discovered along with other ancient artifacts, has been proposed as a Monument of Geological Heritage. Important geological elements also include volcanic turf in the wider region of Messaria, the beach rocks along the seashore of San Antonios bay, and the strata visible along the imposing coastal precipices in the NW and SE parts of the island. 
 
 **Konstantinos Mentzelopoulos**
-
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 15 April 04

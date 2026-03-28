@@ -14,8 +14,6 @@ prices are reasonable.
 
 **Contributors**
 June 05, 2008
-change
-by [out of the grey](/member/out_of_the_grey)
 
 type: Japanese
 
@@ -26,5 +24,3 @@ tel: 212-697-8330
 url: [www.tokyorestaurant.net](http://www.tokyorestaurant.net/)
 
 address: 342 Lexington Ave, New York 10016
-
-[back to Eating Out](..)

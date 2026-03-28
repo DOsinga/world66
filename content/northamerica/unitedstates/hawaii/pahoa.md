@@ -1,0 +1,4 @@
+---
+title: "Pahoa"
+type: location
+---

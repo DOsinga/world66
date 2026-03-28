@@ -31,8 +31,6 @@ This building was used for a number of film productions as a location including 
 
 **Contributors**
 September 03, 2005
-new
-by [meshuganut](/member/meshuganut)
 
 type: Hotspots
 
@@ -47,5 +45,3 @@ url: [www.opera.hu](http://www.opera.hu/)
 address: 22 AndrÃ¡ssy Str., VI. Budapest
 
 email: info@opera.hu
-
-[back to Sights](..)

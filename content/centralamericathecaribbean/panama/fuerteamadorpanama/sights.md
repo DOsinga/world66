@@ -21,9 +21,5 @@ A casual fishing community, Tobago Island is the place to go for an afternoon on
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 January 15, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

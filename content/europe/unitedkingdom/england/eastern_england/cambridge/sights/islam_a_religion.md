@@ -8,8 +8,6 @@ opening_hours: "7:00PM – 8:45PM"
 phone: "01223 655223"
 type: "Public Buildings"
 url: "www.meoc.org.uk"
-latitude: 52.207457
-longitude: 0.124386
 ---
 
 **Islam: A Religion of Peace or A Religion of War**
@@ -53,5 +51,3 @@ url: [www.meoc.org.uk](http://www.meoc.org.uk)
 address: 14 King Street, Cambridge CB1 1AH
 
 email: mail@meoc.org.uk
-
-[back to Sights](..)

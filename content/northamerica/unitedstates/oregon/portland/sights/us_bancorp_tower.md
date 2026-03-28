@@ -11,8 +11,6 @@ The U.S. Bancorp Tower is a fantastic piece of modern architecture. Located righ
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Public Buildings
 
@@ -23,5 +21,3 @@ tel: +1 503 425 6707
 openingHours: 24 hrs
 
 address: 111 Southwest Fifth Avenue Portland, OR 97204
-
-[back to Sights](..)

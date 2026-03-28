@@ -7,5 +7,3 @@ Spending one or two nights under a nomad tent in the dunes or going for a dromed
 
 **Contributors**
 February 08, 2006
-change
-by [reen](/member/reen)

@@ -58,7 +58,3 @@ type: section
 **Languages:** Serbo-Croatian (often called Bosnian) 99%
 
 **Literacy:** NA
-
-
-
--->

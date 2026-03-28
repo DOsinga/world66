@@ -1,9 +1,9 @@
 ---
-title: "Cowichan Bay Travel Guide"
+title: "Cowichan Bay"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The delightful village of Cowichan Bay is central to all of southern
 Vancouver Island splendid attractions. Vancouver Island is one of the
@@ -17,7 +17,3 @@ back riding, hiking, and exquisite golfing.
 Visiting the Cowichan Valley, come stay with us and enjoy
 amazing views of Cowichan Bay, Vancouver Island, British Columbia,
 Canada.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 15:58

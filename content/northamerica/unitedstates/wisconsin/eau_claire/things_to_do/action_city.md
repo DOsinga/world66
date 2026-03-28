@@ -23,5 +23,3 @@ url: [www.actioncityfun.com](http://www.actioncityfun.com)
 address: 2402 Lorch Avenue Eau Claire, Wisconsin 54701
 
 email: fun@actioncityfun.com
-
-[back to Things to do](..)

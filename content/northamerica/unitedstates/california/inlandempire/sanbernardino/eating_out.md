@@ -5,16 +5,12 @@ address: "4775 Sierra Way, San Bernardino, California 92404"
 phone: "909 883 1231"
 price: "$50 per person total"
 type: "French"
-latitude: 34.172001
-longitude: -117.282166
 ---
 
 Unusual and good placed to eat.
 
 **Contributors**
 December 04, 2005
-new
-by [handyman321](/member/handyman321)
 
 ### [Les Rendezvous](/northamerica/unitedstates/california/inlandempire/sanbernardino/eating_out/les_rendezvous)
 

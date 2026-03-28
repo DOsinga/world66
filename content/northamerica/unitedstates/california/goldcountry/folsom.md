@@ -1,0 +1,4 @@
+---
+title: "Folsom"
+type: location
+---

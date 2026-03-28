@@ -24,5 +24,3 @@ url: [www.memphistours.com](http://www.memphistours.com)
 address: 1 Korah Ibn Sherik, Mourad St. Giza
 
 email: mai@memphistours.com
-
-[back to Day Trips](..)

@@ -1,8 +1,6 @@
 ---
 title: "Kingston"
 type: location
-latitude: 44.305415
-longitude: -76.428378
 ---
 
 The city of Kingston was the first capitol of Canada, before
@@ -18,5 +16,3 @@ Read more about Kingston here: http://en.wikipedia.org/wiki/Kingston%2C_Ontario
 
 **Contributors**
 June 15, 2005
-change
-by [scott_leonard](/member/scott_leonard)

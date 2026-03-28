@@ -15,5 +15,3 @@ type: general
 address: 5961 Palisade Ave. (at 261st St)
 
 tel: +1 718 549 8700
-
-[back to Museums](..)

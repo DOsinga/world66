@@ -1,16 +1,10 @@
 ---
-title: "Kwazulu Natal Travel Guide"
+title: "Kwazulu Natal"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Geographically the Kwazulu Natal Province is split into three distinct regions. The lowland region adjacent to the splendid coastline, the Natal Midlands consisting of rolling plateaus and the mountainous region of the Drakensberg.
 
 KwaZulu Natal offers a diverse range of holiday activities for visitors including hiking in the Drakensberg mountains, visiting famous historical battle sites, deep sea fishing excursions, scuba diving, cultural village tours, fly-fishing in crystal streams, game viewing expeditions, relaxing spa treatments, bird watching, relaxing on golden beaches, unforgettable culinary experiences and so much more...
-
-*Part or or all of this text stems from the original article at: http://www.kznlive.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 07:10

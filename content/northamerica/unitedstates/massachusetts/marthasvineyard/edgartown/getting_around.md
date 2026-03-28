@@ -11,5 +11,3 @@ parking can be a problem during the summer.
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)

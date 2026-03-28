@@ -1,8 +1,6 @@
 ---
 title: "Morocco"
 type: location
-latitude: 28.334772
-longitude: -10.371338
 ---
 
 Morocco is a safe place to visit. For any traveler, even post September 11th, Morocco is still a fascinating country filled with mysterious beauty and extreme contrasts. Even though it is only one hour by ferry from Spain, it seems worlds apart with a deeply traditional culture based on Islam, that might be quite unknown to some of you. In one day, you will see young ladies in short skirts, women totally covered and only revealing their eyes, old men in 'jellabas' (long robes with a hood) and water sellers in traditional costume. You can explore thousand years' old medinas, where you may feel as if you are walking in medieval times. Feel the modern rush of cosmopolitan cities, the quiet beauty and solitude of sand dunes in the desert near [Merzouga](/africa/morocco/merzouga) or see snowcapped mountains dotted with Berber villages and beautiful beaches. 
@@ -20,57 +18,3 @@ Three mountain ranges present diverse landscapes and three different ways of lif
 If you only have one week and you would like to see amazing geological landscapes, palm oasis, painted rocks, and the Berber way of life, [Tafraoute](/africa/morocco/tafraoute) is not to be missed. Only two hours drive from [Agadir](/africa/morocco/agadir) , the drive is almost as stunning as the destination. 
 
 The oases of the pre-Sahara present yet another timeless image of the Arab world with immense palm groves in the desert. Not to be missed are the fabulous mud kasbahs and ksours (palaces and family houses) which you can find near [Zagora](/africa/morocco/zagora) , [Tineghir](/africa/morocco/tineghir) , and [Erfoud](/africa/morocco/erfoud) . There is so much to see in this country, you may decide to stay for awhile!
-
-## Destinations
-
-- [Agadir](/africa/morocco/agadir)
-- [Ait Ourir](/africa/morocco/aitourir)
-- [Al Hoceima](/africa/morocco/alhoceima)
-- [Asilah](/africa/morocco/asilah)
-- [Azemmour](/africa/morocco/azemmour)
-- [Azrou](/africa/morocco/azrou)
-- [Boumalne](/africa/morocco/boumalne)
-- [Casablanca](/africa/morocco/casablanca)
-- [Chaouen](/africa/morocco/chaouen)
-- [Dades Gorge](/africa/morocco/dadesgorge)
-- [Dades Valley](/africa/morocco/dadesvalley)
-- [Dakhla](/africa/morocco/dakhla)
-- [El Jadida](/africa/morocco/eljadida)
-- [El ayoune](/africa/morocco/elayoune)
-- [Erfoud](/africa/morocco/erfoud)
-- [Essaouira](/africa/morocco/essaouira)
-- [Fez](/africa/morocco/fez)
-- [Figuig](/africa/morocco/figuig)
-- [Goulimime](/africa/morocco/goulimime)
-- [Ifrane](/africa/morocco/ifrane)
-- [Imilchil](/africa/morocco/imilchil)
-- [Imlil](/africa/morocco/imlil)
-- [Larache](/africa/morocco/larache)
-- [Marrakesh](/africa/morocco/marrakesh)
-- [Meknes](/africa/morocco/meknes)
-- [Merzouga](/africa/morocco/merzouga)
-- [Moulay Idriss](/africa/morocco/moulayidriss)
-- [Oualidia](/africa/morocco/oualidia)
-- [Ouarzazate](/africa/morocco/ouarzazate)
-- [Ouirgane](/africa/morocco/ouirgane)
-- [Oujda](/africa/morocco/oujda)
-- [Ourika](/africa/morocco/ourika)
-- [Rabat](/africa/morocco/rabat)
-- [Rissani](/africa/morocco/rissani)
-- [Safi](/africa/morocco/safi)
-- [Sefrou](/africa/morocco/sefrou)
-- [Sidi Ifni](/africa/morocco/sidiifni)
-- [Skoura](/africa/morocco/skoura)
-- [Smara](/africa/morocco/smara)
-- [Sous Valley](/africa/morocco/sousvalleyandantiatlasmountains)
-- [Tafraoute](/africa/morocco/tafraoute)
-- [Tangier](/africa/morocco/tangier)
-- [Taroudant](/africa/morocco/taroudant)
-- [Taza](/africa/morocco/taza)
-- [Tetouan](/africa/morocco/tetouan)
-- [Tin Mal](/africa/morocco/tinmal)
-- [Tineghir](/africa/morocco/tineghir)
-- [Tiznit](/africa/morocco/tiznit)
-- [Todra Gorge](/africa/morocco/todragorge)
-- [Volubilis](/africa/morocco/volubilis)
-- [Zagora](/africa/morocco/zagora)

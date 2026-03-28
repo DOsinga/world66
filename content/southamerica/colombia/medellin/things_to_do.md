@@ -19,9 +19,5 @@ If you are fond of modern arts, you must pay a visit to Museo de Antioquia, the 
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 12, 2010
-change
-by [ashmita](/member/ashmita_)

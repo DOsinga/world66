@@ -16,5 +16,3 @@ address: chem Bergers
 tel: 04 76 80 62 80
 
 zipcode: 38750 ALPE D'HUEZ
-
-[back to Eating Out](..)

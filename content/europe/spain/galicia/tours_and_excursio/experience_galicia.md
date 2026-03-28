@@ -84,5 +84,3 @@ url: [www.experience-galicia.co.uk](http://www.experience-galicia.co.uk)
 address: 6 Berian, Escairon, Lugo, Spain
 
 email: karlos@experience-galicia.co.uk
-
-[back to Tours and Excursions](..)

@@ -33,5 +33,3 @@ openingHours: Every Other Saturday, 3pm - 4.45pm
 url: [www.glenavonfc.com](http://www.glenavonfc.com)
 
 address: Mourneview Park, Mourneview Avenue, Lurgan
-
-[back to Sights](..)

@@ -54,7 +54,3 @@ many other landmarks that can be seen from the Brooklyn Heights
 Promenade.
 
 type: Parks, Gardens and Zoos
-
-
-
-[back to Sights](..)

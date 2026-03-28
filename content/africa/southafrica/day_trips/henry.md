@@ -32,28 +32,6 @@ We then visit a typical shebeen restaurant for lunch (Sakhumzi's - optional extr
 
 A few houses away from Mandela’s home is the home of ARCHBISHOP TUTU, known internationally as a stalwart anti-apartheid cleric.
 
-We zip through Pimville on our way out of Soweto, back to the Old Potchefstroom Road. We drive past the open green fields, the Football Academy, the Soweto College of Education, the defunct power station with its two huge chimneys, the township's university - Vista · Return to your hotel.
-
-LUNCH OPTIONAL AT SAKHUMZI'S RESTAURANT OR WANDIE'S.
-Half Day Tour: Approx 4 hours
-1 Pax: R720
-2 Pax: R420 per person
-3 / 7 Pax: R390 per person
-
-Included: Entrance fees, guide fees and transport cost.
-Excluded: Drinks, lunch, tips and personal items.
-Departure time: Every day as arranged.
-
-
-
-
-
-tel: +277 11 7825416
-
-url: [www.catztours.com](http://www.catztours.com)
-
-address: Catz Tours and Safaris
+We zip through Pimville on our way out of Soweto, address: Catz Tours and Safaris
 
 email: info@catztours.com
-
-[back to Day Trips](..)

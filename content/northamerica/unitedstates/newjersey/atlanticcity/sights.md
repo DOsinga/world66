@@ -19,5 +19,3 @@ Tun Tavern Brewery
 
 **Contributors**
 May 19, 2007
-new
-by [harryb3](/member/harryb3) (1 point)

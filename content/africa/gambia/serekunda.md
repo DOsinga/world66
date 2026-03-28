@@ -1,0 +1,4 @@
+---
+title: "Serekunda"
+type: location
+---

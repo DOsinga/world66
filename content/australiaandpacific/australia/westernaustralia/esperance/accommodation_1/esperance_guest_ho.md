@@ -6,8 +6,6 @@ email: "info@esperanceguesthouse.com.au"
 phone: "+61 8 9071 3784"
 type: "Sleep Cheap"
 url: "www.esperanceguesthouse.com.au"
-latitude: -33.84148
-longitude: 121.902107
 ---
 
 Comfortable and spacious backpackers accommodation. Offers small dormitories and doble rooms with top quality beds. A range of free facillitities are available including breakfasts, courtesy pick ups and bike hire. Within walking distance of some of the best beaches in Australia.
@@ -25,5 +23,3 @@ url: [www.esperanceguesthouse.com.au](http://www.esperanceguesthouse.com.au)
 address: 23 Daphne Street, Esperance WA 6450
 
 email: info@esperanceguesthouse.com.au
-
-[back to Accommodation](..)

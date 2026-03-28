@@ -12,3 +12,4 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+.idea/

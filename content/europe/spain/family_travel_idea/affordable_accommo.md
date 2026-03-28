@@ -34,7 +34,3 @@ still provide similar value of quality accommodation services and
 descent hotel feature that allows the hotel guests to experience comfort
 and much enjoyment upon accommodating on the chosen hotel in New York
 even those consider as cheap hotels.
-
-
-
-[back to Family Travel Ideas](..)

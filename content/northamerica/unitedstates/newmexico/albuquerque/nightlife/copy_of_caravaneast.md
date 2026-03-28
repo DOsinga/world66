@@ -18,5 +18,3 @@ address: 7605 Central Ave NE,
 tel: (505)265-7877
 
 zipcode: Albuquerque, NM 87108-2144
-
-[back to Nightlife and Entertainment](..)

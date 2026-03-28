@@ -10,8 +10,6 @@ Parque de la Pedriza is the perfect place to lose yourself in a lscenic hike -- 
 
 **Contributors**
 May 15, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hiking
 
@@ -20,5 +18,3 @@ type: Hiking
 tel: 91-853-9978
 
 address: Camino de la Pedriza, s/n, Manzanares el Real
-
-[back to Things to do](..)

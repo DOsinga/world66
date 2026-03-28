@@ -29,5 +29,3 @@ Contributor : Sameera Kumar
 
 **Contributors**
 January 29, 2010
-change
-by [2 many commas](/member/2_many_commas)

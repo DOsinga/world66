@@ -11,5 +11,3 @@ This is about the best club in the country, it is situated between Dampoort and 
 
 
 address: www.cultureclub.be
-
-[back to Bars and Cafes](..)

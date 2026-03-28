@@ -64,5 +64,3 @@ Pitt Meadows Plastic
 http://www.angelfire.com/beyxh/id1.html
 Become A Ninja
 http://www.angelfire.com/syqjn/tcx.html
-
-*Part or or all of this text stems from the original article at: Armand Fisher*

@@ -9,13 +9,5 @@ Especially of interest, is the perfect architecture, with the precise trapezodia
 
 **Contributors**
 July 18, 2006
-change
-by [yohay elam](/member/yohay_elam) (1 point)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

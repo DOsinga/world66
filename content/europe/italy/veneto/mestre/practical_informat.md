@@ -89,5 +89,3 @@ The Orto Botanico Locatelli is a small botanical garden also located in the city
 
 **Contributors**
 April 10, 2010
-new
-by [palm tree mandy](/member/palm_tree_mandy)

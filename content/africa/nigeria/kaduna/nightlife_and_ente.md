@@ -4,16 +4,12 @@ type: section
 address: "Rabah Road, Kaduna"
 closing_time: "Till the last customer leaves"
 type: "Clubs and dancing"
-latitude: 10.554432
-longitude: 7.422314
 ---
 
 The busiest (although sometimes quite rowdy) nightclub in Kaduna is The Stallion, located above the main grandstand of the Kaduna racetrack. It is a very friendly place - full of VERY obliging local ladies. A good time is guaranteed.
 
 **Contributors**
 June 16, 2007
-change
-by [arthurbaby2007](/member/arthurbaby2007)
 
 ### [NAF Club](/africa/nigeria/kaduna/nightlife_and_ente/naf_club)
 

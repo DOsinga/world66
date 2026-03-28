@@ -6,8 +6,6 @@ email: "info@cherryhillpub.com"
 phone: "905-273-7008"
 type: "Local"
 url: "cherryhillpub.com"
-latitude: 43.595469
-longitude: -79.60302
 ---
 
 Cherry Hill Pub, Restaurant, & Patio. Located in the heart of Mississauga. Open 7 days a week.
@@ -25,5 +23,3 @@ url: [cherryhillpub.com](http://cherryhillpub.com)
 address: 680 Silver Creek Blvd, Mississauga, ON
 
 email: info@cherryhillpub.com
-
-[back to Eating Out](..)

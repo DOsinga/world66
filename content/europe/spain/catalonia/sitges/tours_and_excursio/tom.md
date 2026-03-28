@@ -9,5 +9,3 @@ Fancy spending some time seeing Sitges from another point of view. Grab your iph
 
 
 url: [google.com](http://google.com/gwt/n?u=http%3A%2F%2Ftom.sinera.org%2Ftours%2Findex.htm)
-
-[back to Tours and Excursions](..)

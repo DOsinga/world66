@@ -17,5 +17,3 @@ type: Discos and Nightclubs
 address: Voronezhskaya ul. 2a (Ligovskiy Prospekt metro)
 
 openings: Thurs-Sun 17:00-6:00
-
-[back to Nightlife and Entertainment](..)

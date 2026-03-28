@@ -27,5 +27,3 @@ When going on vacation the 1 thing that you want to find is the perfect souvenir
 
 **Contributors**
 March 04, 2010
-change
-by [shomer](/member/shomer)

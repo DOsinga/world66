@@ -8,5 +8,3 @@ The island has electric golf buggies that you can hire but everything on the isl
 We currently have no Getting Around listed in Caye caulker.
 
 If you do know any Getting Around in Caye caulker, please [Add].
-
--->

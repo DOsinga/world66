@@ -4,8 +4,6 @@ type: poi
 address: "Av. 28 de Julio"
 email: "dulioall@yahoo.com"
 url: "mirafloresapt.all.at"
-latitude: -13.288219
-longitude: -76.253695
 ---
 
 When coming to Lima Peru, you can save a lot of money renting a vacation rental instead of a hotel and you can gain a lot of privacy.
@@ -21,5 +19,3 @@ url: [mirafloresapt.all.at](http://mirafloresapt.all.at/)
 address: Av. 28 de Julio
 
 email: dulioall@yahoo.com
-
-[back to Budget Travel Ideas](..)

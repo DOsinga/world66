@@ -5,9 +5,3 @@ type: "general"
 ---
 
 type: general
-
-
-
-
-
-[back to Day Trips](..)

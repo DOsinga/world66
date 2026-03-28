@@ -1,0 +1,4 @@
+---
+title: "Nainital"
+type: location
+---

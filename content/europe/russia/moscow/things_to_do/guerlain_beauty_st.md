@@ -22,5 +22,3 @@ url: [www.beautystudio.ru](http://www.beautystudio.ru)
 address: st. Petrovka, 11/20. Hotel Marriot
 
 tel: +7(095) 937-10-81
-
-[back to Things to do](..)

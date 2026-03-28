@@ -6,8 +6,6 @@ closing_time: "03.00h"
 phone: "+34 93 606 86 06"
 type: "Dancing"
 url: "www.maumaunderground.com"
-latitude: 41.373691
-longitude: 2.167277
 ---
 
 Although you won’t hear the traditional folk music that is made by the
@@ -28,5 +26,3 @@ tel: +34 93 606 86 06
 url: [www.maumaunderground.com](http://www.maumaunderground.com)
 
 ClosingTime: 03.00h
-
-[back to Nightlife and Entertainment](..)

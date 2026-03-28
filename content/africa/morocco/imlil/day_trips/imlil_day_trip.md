@@ -13,18 +13,6 @@ Drive for 1h10 from Marrakech to Imlil (60km), walk from the centre of Imlil, cr
 
 You will have the chance to see the highest peak in the North of Africa Jbel Toubkal (4167meters).
 
-In the evening our driver will drive you back to Marrakech.
-
-This Trek cost From: €--.00 P/P/D / all included / Except hotels in Marrakech
-
-
-
-tel: +212648688808
-
-url: [www.trekkinginmorocco.Net](http://www.trekkinginmorocco.Net)
-
-address: imlil High atlas Mountains
+In the evening our driver will drive you address: imlil High atlas Mountains
 
 email: trekkinginmorocco1@gmail.com
-
-[back to Day Trips](..)

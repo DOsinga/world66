@@ -18,12 +18,8 @@ Give yourself a treat and check out this river.
 
 **Contributors**
 July 07, 2004
-new
-by [tbd](/member/tbd)
 
 September 12, 2007
-change
-by [markwaldin](/member/markwaldin)
 
 ### [Whitewater Rafting on The Arkansas River through the Royal Gorge](/northamerica/unitedstates/day_trips/whitewater_rafting)
 

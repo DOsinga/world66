@@ -10,8 +10,6 @@ No matter what they collect, collectors of everything converge on Mary´s Ole Ti
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Antiques
 
@@ -22,5 +20,3 @@ type: Antiques
 tel: (405) 427-0051
 
 address: 7925 Northeast 23rd -- corner of 23rd and Midwest
-
-[back to Shopping](..)

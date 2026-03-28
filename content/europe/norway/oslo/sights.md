@@ -3,8 +3,8 @@ title: "Sights"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[Museums](/europe/norway/oslo/sights/museums)
+[Museums](/europe/norway/oslo/sights?subsection=Museums)
 
-[Others](/europe/norway/oslo/sights/others)
+[Others](/europe/norway/oslo/sights?subsection=Others)

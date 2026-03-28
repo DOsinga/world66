@@ -1,15 +1,11 @@
 ---
 title: "Kristiansand"
 type: location
-latitude: 58.085628
-longitude: 7.931858
 ---
 
-Kristiansand is the southernmost city of Norway. It is a pretty city with many buildings going back to the 17-th century. The area around Kristiansand is one of the best in Norway for going to the beach. 
+Kristiansand is the biggest city on the South Coast (*Sorlandet*), and the southernmost city in Norway. It is a charming city, retaining many of the 17th century buildings from its founding days by King Christian IV. The town is home to some of the best beaches in Norway.
 
-
-
-The renaissance style is readily apparent in the strict street plan of the area called Kvadraten. "Posebyen", the oldest section of town, boasts tiny, but charming houses in the traditional style of the area. The name comes from the French word reposer meaning to sleep, from when soldiers were billeted in private homes. 
+The Renaissance style is readily apparent in the strict street plan of the area called Kvadraten ("The Square"). "Posebyen", the oldest section of town, boasts tiny, but charming houses in the traditional style of the area. The name comes from the French word reposer meaning to sleep, from when soldiers were billeted in private homes. 
 
 The Norwegian concept of the southern idyll conjures up islets and skerries and small white houses with lush gardens nestled between rocky coastline knolls. The same building style characterises the other southern towns as well. One of the region poets claimed that people's close contact with the sea has given them webbed feet and hospitable, good-natured temperaments. 
 

@@ -7,5 +7,3 @@ Want to see a polar bear, a flamingo, or a penguin? Then, one Denver attraction 
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

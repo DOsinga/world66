@@ -13,6 +13,4 @@ type: section
 
   **By car:**
 
- Dublin is very easily reached by car, when you've got used to driving on the left. Probably not all, but most of the bigger roads lead to, or at least refer to, Dublin. The don't refer to the parking problem in Dublin itself. You might consider leaving your car outside the city center and exploring Dublin on foot. Since the center is not that big, this is probably the best way anyway 
-
--->
+ Dublin is very easily reached by car, when you've got used to driving on the left. Probably not all, but most of the bigger roads lead to, or at least refer to, Dublin. The don't refer to the parking problem in Dublin itself. You might consider leaving your car outside the city center and exploring Dublin on foot. Since the center is not that big, this is probably the best way anyway

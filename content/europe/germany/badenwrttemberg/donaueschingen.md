@@ -1,0 +1,4 @@
+---
+title: "Donaueschingen"
+type: location
+---

@@ -15,5 +15,3 @@ type: Gay
 address: H.v Viandenstraat 13-AB
 
 tel: +31 (033) 461 26 54
-
-[back to Nightlife and Entertainment](..)

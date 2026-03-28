@@ -17,5 +17,3 @@ type: Tourist information
 url: [www.achterhoekse-evenementen.nl](http://www.achterhoekse-evenementen.nl)
 
 email: info@achterhoekse-evenementen.nl
-
-[back to Practical Information](..)

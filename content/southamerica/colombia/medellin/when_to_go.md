@@ -53,5 +53,3 @@ Columbia Moda is one of the most important fashion shows in Latin America. It is
 
 **Contributors**
 February 16, 2010
-change
-by [miss_frenchye](/member/miss_frenchye)

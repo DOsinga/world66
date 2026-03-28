@@ -11,8 +11,6 @@ The 225-seat Emeril’s New Orleans Fish House needs no introduction. The menu f
 
 **Contributors**
 May 21, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Seafood
 
@@ -23,5 +21,3 @@ tel: 702-891-7374
 url: [www.emerils.com](http://www.emerils.com/restaurant/4/Emerils-New-Orleans-Fish-House/)
 
 address: 799 Las Vegas Boulevard South
-
-[back to Eating Out](..)

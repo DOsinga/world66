@@ -25,5 +25,3 @@ Besides these, there are a number of other clubs and hotels that have live bands
 
 **Contributors**
 March 30, 2010
-new
-by [imran_m](/member/imran_m)

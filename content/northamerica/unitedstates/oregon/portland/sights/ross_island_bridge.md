@@ -11,8 +11,6 @@ Ross Island Bridge is another excellent bridge that crosses the mighty Willamett
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Hotspots
 
@@ -23,5 +21,3 @@ tel: +1 503 275 8355
 url: [portlandbridges.com](http://portlandbridges.com)
 
 address: Arthur Street and Powell Boulevard Portland, OR 97201
-
-[back to Sights](..)

@@ -25,5 +25,3 @@ type: Indian and Pakistani
 address: Tourist Camp, Bompai
 
 tel: +234.803.4500.653
-
-[back to Eating Out](..)

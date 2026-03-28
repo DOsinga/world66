@@ -25,3 +25,33 @@ Go to a bazaar to get a glimpse of local culture and join in with the bargaining
 **Gardens**
 
 The beautiful gardens are well maintained and offer a place to relax away from the city. Gardens worth visiting include Jinnah Gardens and the Ladies garden. These gardens are kept by the Cantonment Board. The brigade center has good walking routes and picnic spots.
+
+. . .
+
+### [Miranjani](/asia/pakistan/abbottabad/sights/miranjani)
+
+Miranjani is the highest peak of Abbottabad District in the North West Frontier Province of Pakistan and is a big attraction for hikers. It is situated near Nathia Gali, about 80 kilometres (50 mi) north of Islamabad in the Himalayan ranges. From Nathia Gali it takes three hours to reach the peak. It is an easy walk and the top offers a spectacular view. It has less space at the top compared to the neighbouring mountain Mukeshpuri.
+
+From the top of Mera Jani the following places can easily be seen Azad Kashmir, Jhelum River (Kohala), Tarbela lake, Abbottabad city, Havelian, [more..](/asia/pakistan/abbottabad/sights/miranjani)
+
+type: Hotspots
+
+
+
+[[rate it]](/asia/pakistan/abbottabad/sights/miranjani)
+
+### [Ilysi Mosque](/asia/pakistan/abbottabad/sights/ilysi_mosque)
+
+Ilysi Mosque
+
+type: Mosques
+
+
+
+[[rate it]](/asia/pakistan/abbottabad/sights/ilysi_mosque)
+
+### [Mukeshpuri](/asia/pakistan/abbottabad/sights/mukeshpuri)
+
+Mukeshpuri or Moshpuri is 2,800 metre (9,100 foot) high hill in the Nathiagali Hills of Pakistan. Much of it is covered with pine trees. It is almost 90 kilometres from north of Islamabad.
+
+type: Hotspots

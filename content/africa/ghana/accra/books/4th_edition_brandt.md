@@ -1,9 +1,11 @@
 ---
-title: "4th Edition Brandt Travel Guide"
+title: "4th Edition Brandt"
 type: poi
 author: "Brandt Travel Guide"
 isbn: "1841622052"
 ---
+
+Travel Guide
 
 If you will be traveling to Accra, the 4th Edition Brandt
 Travel Guide (ISBN: 1841622052) is your ultimate companion. This is by
@@ -34,5 +36,3 @@ budget flexible.
 author: Brandt Travel Guide
 
 isbn: 1841622052
-
-[back to Books](..)

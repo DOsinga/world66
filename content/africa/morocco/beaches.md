@@ -10,8 +10,6 @@ www.walkinginmorocco.com
 
 **Contributors**
 September 26, 2007
-new
-by [callon](/member/callon)
 
 ### [wili alrefai](/africa/morocco/beaches/wili_alrefai)
 

@@ -15,4 +15,4 @@ Velez-Malaga is a larger town located approximately four km inland from Torre de
 
 **La Caleta de Velez**
 
-La Caleta de Velez is the next town up to the east of Torre del Mar. It's home to a marina and a small fishing port, and it also houses great seafood restaurants and crafts for sale. Walk the two miles along the sea walk to get to La Caleta de Velez or arrive by taxi. You can shop at the various vendors who sell their wares and complete the trip with a ride on a boat back to the main part of Torre del Mar.
+La Caleta de Velez is the next town up to the east of Torre del Mar. It's home to a marina and a small fishing port, and it also houses great seafood restaurants and crafts for sale. Walk the two miles along the sea walk to get to La Caleta de Velez or arrive by taxi. You can shop at the various vendors who sell their wares and complete the trip with a ride on a boat

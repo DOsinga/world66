@@ -35,5 +35,3 @@ BY: S. Warsame
 
 **Contributors**
 December 06, 2006
-change
-by [giorgio](/member/giorgio)

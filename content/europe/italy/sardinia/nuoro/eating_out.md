@@ -20,5 +20,3 @@ address: 53, Via Ciusa
 Near the station this is a good option for a pasta meal.
 
 address: 119, Via Sicilia
-
--->

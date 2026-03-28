@@ -19,5 +19,3 @@ accessibility: in the "salsa street !
 tel: + 55 (84) 3236.2573
 
 address: Dr. Manoel A. B. de Araújo, 176 – Ponta Negra
-
-[back to Bars and Cafes](..)

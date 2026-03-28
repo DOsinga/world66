@@ -13,5 +13,3 @@ In the morning you can see the fishermen go out with their colourful boats, late
 
 
 address: Accra-Tema road, Teshi
-
-[back to Beaches](..)

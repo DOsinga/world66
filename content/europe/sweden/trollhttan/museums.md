@@ -12,8 +12,6 @@ The [Canal museum](/europe/sweden/trollhttan/museums/the_canal_museum) tells the
 
 **Contributors**
 May 02, 2006
-change
-by [ewolf](/member/ewolf) (2 points)
 
 ### [Innovatum, kunskapens hus](/europe/sweden/trollhttan/museums/innovatum_kunskap)
 

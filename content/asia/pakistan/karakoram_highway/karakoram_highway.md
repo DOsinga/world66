@@ -1,0 +1,17 @@
+---
+title: "Karakoram Highway Closed at Attabad"
+type: location
+---
+
+Travel Guide
+
+Landslide closes Karakoram Highway
+While world attention is focussed upon earthquake ravaged Haiti, another national disaster has almost gone unnoticed by the world. On January 4th, 2010, a massive section of the sleep slopes of the Palmir mountains gave way causing a huge landslide that closed the Karakoram Highway in Northern Pakistan and destroyed most of the village of Attabad in the Upper Hunza valley.
+More than 100 people in Attabad and nearby villages are known to have died and there are still many people unaccounted for. An unknown number of injured have been shifted to hospitals in the nearby towns of Aliabad and Karimabad.
+The landslide has completely blocked the Hunza River and a dam is forming that now extends up to four kilometres towards the Gojal valley. More than four kilometres of the Karakoram Highway is completely destroyed and is under meters of rubble, according to a local spokesperson, Zulfiqar Ali Khan .
+The landslide was so huge that it has blocked the Karakoram Highway, located across the Khunjrav River, at opposite side of Attabad. Locals report thunder like sounds and that huge clouds of dust spread over the entire Upper Hunza valley, at times making it difficult to see.
+Places of worship, a community center, a school, dozens of residential houses, cattle sheds, fields, trees and orchards have been leveled by the landslide, causing irreparable damage to the economy of this small hamlet. Food, fuel and medicine are in short supply and Army helicopters are being used to ferry in emergency supplies. About 25,000 people live in the cut off area. The Pakistan Red Cross is now working to hand out emergency rations but the rescue attempt is being hampered by difficult access to the area. A small amount of supplies is being brought in from China over the notorious Kunjarab Pass but this route is unsafe during the winter as it is subject to avalanches. The mountains in the area are notoriously unstable due to the proximity of the overlapping Indian and Himalayan plates.
+The ever increasing dam is causing concerns that it may eventually burst its banks and cause destruction further down the Hunza Valley. A number of low lying up-stream villages are under threat and a large number of families have been evacuated.
+Down-stream communities and bridges are also at risk. Three bulldozers have been brought in to excavate a channel to provide a watercourse and some relief from the pressure. Pakistan FWO and Chinese engineers have arrived at the scene to supervise the project, but with the water level rising at more than 2 feet a day, this is now a race against time.
+There has not yet been time to access the impact upon the area but the Karakoram Highway is the only transport corridor through the north of Pakistan, Trade and tourism is likely to be seriously affected and it is not known when the highway will be re-opened. The building of the highway was a huge engineering feat. It was built by Pakistan and Chinese engineers who in parts, blasted a road out of sheer overhanging cliffs.
+My wife and I travelled this highway by jeep in 2007 and at that time found it one of the most dramatic roads that we’d ever travelled over. We spent a lot of the time holding our breath. The story of our travels are recorded in the paperback Following Marco Polo’s Silk Road published by Marco Polo Press.

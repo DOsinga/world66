@@ -1,0 +1,4 @@
+---
+title: "Subic"
+type: location
+---

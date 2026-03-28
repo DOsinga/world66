@@ -1,6 +1,6 @@
 ---
 title: "Drugs"
-type: location
+type: section
 ---
 
 A lot of people come to Amsterdam for a little drugs experimentation. Contrary to what most visitors seem to think, drugs are far from legal in Amsterdam. 
@@ -18,9 +18,3 @@ Drugs consumption is not without risk. If you’re feeling sick after eating spa
 Most coffee shops are easily recognized by their green leaf symbols or anything reggae-like, or by their name like the Rookies, De Dampkring or The Grasshopper. Apart from all the exotic Marihuana combinations, there is quite a lot of homegrown stuff around, or like the locals call it: 'Nederwiet'. The combination of drug tolerance and a strong tradition in plant improvement have led to some very strong versions of Marihuana. Take care. 
 
 For more info check the Amsterdam Coffeeshop Directory
-
-## Subsections
-
-[Coffee Shops](/europe/netherlands/amsterdam/drugs/coffeeshops)
-
-[Smart shops](/europe/netherlands/amsterdam/drugs/smartshops)

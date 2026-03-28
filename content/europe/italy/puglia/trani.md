@@ -1,0 +1,4 @@
+---
+title: "Trani"
+type: location
+---

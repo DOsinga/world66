@@ -16,5 +16,3 @@ type: general
 
 
 url: [www.nzmaritime.org](http://www.nzmaritime.org)
-
-[back to Day Trips](..)

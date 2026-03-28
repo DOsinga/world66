@@ -12,8 +12,6 @@ Museum of Warsaw - worth seeing!
 
 **Contributors**
 August 17, 2005
-new
-by [j wojtynski](/member/j_wojtynski)
 
 ### Center of Contemporary Art (CSW)
 

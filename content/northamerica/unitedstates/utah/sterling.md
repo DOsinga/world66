@@ -1,12 +1,8 @@
 ---
-title: "Sterling Travel Guide"
+title: "Sterling"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Home to Palasaide State Park
-
-Page last generated on Sat 18:17
-
--->

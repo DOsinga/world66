@@ -4,8 +4,6 @@ type: poi
 address: "Paris"
 email: "aaron@yahoo.com"
 url: "thiscool.info"
-latitude: 48.853495
-longitude: 2.348391
 ---
 
 blake lively nude pictures
@@ -37,8 +35,6 @@ address: Paris
 
 email:
 
-[back to Festivals](..)
-
 ##
 
 -
@@ -47,17 +43,10 @@ email:
 
 -
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

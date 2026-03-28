@@ -23,5 +23,3 @@ type: African
 tel: 08061320320
 
 address: 130 Abuloma Road Portharcourt
-
-[back to Eating Out](..)

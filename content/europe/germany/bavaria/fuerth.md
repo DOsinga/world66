@@ -1,0 +1,4 @@
+---
+title: "Fuerth"
+type: location
+---

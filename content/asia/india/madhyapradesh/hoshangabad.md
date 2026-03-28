@@ -1,0 +1,4 @@
+---
+title: "Hoshangabad"
+type: location
+---

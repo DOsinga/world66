@@ -9,24 +9,15 @@ http://www.romaturismo.com/v2/richiestamateriali/en/richiestamateriali.html
 
 **Contributors**
 July 07, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ## Destinations in Rome
 
 - [Trastevere](/europe/italy/lazio/rome/trastevere)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

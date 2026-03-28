@@ -1,0 +1,4 @@
+---
+title: "Gillette"
+type: location
+---

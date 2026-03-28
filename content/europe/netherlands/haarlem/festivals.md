@@ -23,9 +23,5 @@ During the month of June, the Haarlem Biannual Comic Festival hits the streets o
 
 **Contributors**
 March 17, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 March 15, 2010
-new
-by [turkeyfish](/member/turkeyfish)

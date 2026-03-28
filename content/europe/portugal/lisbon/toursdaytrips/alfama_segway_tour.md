@@ -29,5 +29,3 @@ url: [www.redtourgps.com](http://www.redtourgps.com)
 address: rua dos fanqueiros nº 18, 1100-231Lisbon
 
 email: info@redtourgps.com
-
-[back to Day Trips](..)

@@ -59,5 +59,3 @@ worth the taste.
 
 **Contributors**
 November 17, 2009
-new
-by [kiwagner](/member/kiwagner)

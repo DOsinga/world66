@@ -13,8 +13,6 @@ A restaurant from the Michelin guide, Frosio Restaurant has a specialty for autu
 
 **Contributors**
 July 11, 2005
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Italian
 
@@ -33,5 +31,3 @@ PriceOfMenu: �‚�34/47
 email:
 
 priceofmenu: €34/47
-
-[back to Eating Out](..)

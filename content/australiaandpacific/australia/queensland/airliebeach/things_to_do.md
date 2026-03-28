@@ -10,8 +10,6 @@ Get Drunk, Get Tanned or Read a Book!
 
 **Contributors**
 September 10, 2005
-new
-by [zan5hin](/member/zan5hin)
 
 ### [Quadbiking](/australiaandpacific/australia/queensland/airliebeach/things_to_do/quadbiking)
 

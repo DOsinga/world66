@@ -1,0 +1,4 @@
+---
+title: "Newquay"
+type: location
+---

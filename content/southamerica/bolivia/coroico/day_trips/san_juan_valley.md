@@ -12,11 +12,3 @@ Following the main road passing above Carmen Pampa, you get to a low pass which 
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (4 points)
-
-
-
-
-
-[back to Day Trips](..)

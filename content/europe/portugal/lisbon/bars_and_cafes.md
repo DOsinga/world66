@@ -58,5 +58,3 @@ salads and freshly made sandwiches are good. The café is open from 12:00 noon t
 
 **Contributors**
 March 14, 2010
-change
-by [kwalker](/member/kwalker)

@@ -28,5 +28,3 @@ Kenya is also famous as a shopping destination. You can enjoy a shopping spree i
 
 **Contributors**
 March 26, 2010
-new
-by [imran_m](/member/imran_m)

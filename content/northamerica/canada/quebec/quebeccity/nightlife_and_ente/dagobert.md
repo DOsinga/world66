@@ -6,8 +6,6 @@ address: "Grande-Allée"
 closing_time: "3 AM"
 email: "www.dagobert.ca"
 type: "Clubs and dancing"
-latitude: 48.786926
-longitude: 2.391569
 ---
 
 That is the club to go!!!
@@ -16,8 +14,6 @@ Hot Dj's and the biggest dance floor!!
 
 **Contributors**
 January 18, 2007
-new
-by [katquebec33](/member/katquebec33)
 
 type: Clubs and dancing
 
@@ -32,5 +28,3 @@ accessibility: 18 and older
 address: Grande-Allée
 
 email: www.dagobert.ca
-
-[back to Nightlife and Entertainment](..)

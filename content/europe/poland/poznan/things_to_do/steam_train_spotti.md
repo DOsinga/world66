@@ -13,8 +13,6 @@ The site is in polish and german language only, but the train pics are fantastic
 
 **Contributors**
 January 28, 2006
-change
-by [reen](/member/reen)
 
 type: Other
 
@@ -25,5 +23,3 @@ type: Other
 url: [www.parowozy.com.pl](http://www.parowozy.com.pl)
 
 address: Central Station and Station Yard
-
-[back to Things to do](..)

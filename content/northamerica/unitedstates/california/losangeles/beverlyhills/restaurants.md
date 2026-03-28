@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Finding a place to eat shouldn't be too hard, many restaurants serve special food and some are owned by celebrities. We will list one special place here though;

@@ -1,9 +1,9 @@
 ---
-title: "Playa Herradura Travel Guide"
+title: "Playa Herradura"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The town of Playa Herradura is located 6 kilometers north of the surf town Jacó on the Pacific coast of Costa Rica.
 
@@ -16,13 +16,3 @@ Initially, the town of Herradura was a sleepy village on the dusty road to Jaco,
 **Where To Stay**
 
 Los Suenos Marriott Ocean and Golf Resort Luxurious ecological resort facilities, including an 18-hole championship Golf course, Spa, casino, restaurants, tennis, marina and nearby attractions. Address: 800 MTS West from Herradura entrance, Playa Herradura, 5024005 Costa Rica * Phone: 506 2630 9000 *http://www.marriott.com/SJOLS*
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Playa_Herradura,_Costa_Rica*
-
-#### Contributors
-
-January 16, 2009 change by [fabiana](/member/fabiana_)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 01:19

@@ -6,8 +6,6 @@ email: "reedleyarts@live.com"
 phone: "(559) 480-ARTS"
 type: "Other"
 url: "www.kingsriverarts.com"
-latitude: 38.223517
-longitude: -122.637374
 ---
 
 ### [Kings River Arts Council](/northamerica/unitedstates/california/centralvalley/reedley/thingstodo/kings_river_arts_c)

@@ -1,9 +1,9 @@
 ---
-title: "Ulan Ude Travel Guide"
+title: "Ulan Ude"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 History
 
@@ -18,13 +18,3 @@ Ulan Ude has a moderate subarctic climate with mean temperatures of +1.7 ℃ (35
 Population
 
 According to the 2002 Census, 359,391 residents lived in Ulan-Ude, up from 351,806 recorded in 1989.[1] It is the third largest city in East Siberia.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Ulan_ude*
-
-#### Contributors
-
-December 14, 2008 new by [natashou](/member/natashou)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 20:23

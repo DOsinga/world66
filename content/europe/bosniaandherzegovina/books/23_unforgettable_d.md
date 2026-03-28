@@ -49,5 +49,3 @@ You can buy the book over www.amazon.de.
 author: Salihbasic Amel
 
 isbn: 9789958865268
-
-[back to Books](..)

@@ -12,5 +12,3 @@ type: Clubs and dancing
 
 
 url: [www.buddhaclub.ws](http://www.buddhaclub.ws)
-
-[back to Nightlife and Entertainment](..)

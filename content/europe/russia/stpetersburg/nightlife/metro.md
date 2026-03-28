@@ -49,5 +49,3 @@ ClosingTime: 6am
 tel: 766-0204
 
 url: [www.metroclub.ru](http://www.metroclub.ru/index_en.html)
-
-[back to Nightlife and Entertainment](..)

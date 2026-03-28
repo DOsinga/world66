@@ -37,5 +37,3 @@ tel: 2548 9966
 url: [www.galdinocampos.com.br](http://www.galdinocampos.com.br)
 
 address: Avenida Nossa Senhora de Copacabana 492
-
-[back to Practical Information](..)

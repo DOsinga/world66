@@ -18,5 +18,3 @@ address: 120 5th St
 tel: (707) 545-5483
 
 zipcode: Santa Rosa, CA 95401
-
-[back to Nightlife and Entertainment](..)

@@ -36,9 +36,5 @@ Considered a swimmers paradise, there are water slides, steam baths and several 
 
 **Contributors**
 February 07, 2010
-new
-by [ckajs](/member/ckajs)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

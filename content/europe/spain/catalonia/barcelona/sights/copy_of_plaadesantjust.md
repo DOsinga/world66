@@ -14,5 +14,3 @@ type: The Gothic Quarter
 
 
 address: End of C Hercules
-
-[back to Sights](..)

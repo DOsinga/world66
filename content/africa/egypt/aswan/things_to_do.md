@@ -25,5 +25,3 @@ Aswan has many sites for tourists to visit. Patrons can tour the ancient temples
 
 **Contributors**
 June 15, 2005
-change
-by [hirankarunaratna](/member/hirankarunaratna)

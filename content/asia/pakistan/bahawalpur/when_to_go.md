@@ -20,3 +20,9 @@ The winter months are a popular time to visit Bahawalpur. The weather has cooled
 **Spring**
 
 Spring is the busiest time in Bahawalpur. You will find Bahawalpur to be crowded but still very enjoyable during the spring months. The weather is perfect for all types of activities. Spring is also the time when you will find several festivals going on. Planning in advance will help ensure you get the best price possible. You should also keep in mind that top tourist attractions will be busy so make sure to arrive early. February to April are the busiest times in Bahawalpur. If you travel during the month of May you will probably find that most of the crowds have died down.
+
+Chak no 16/BC
+
+### [Khadim Hussain OF](/asia/pakistan/bahawalpur/when_to_go/khadim_hussain_of)
+
+Best time to visit Bahawalpur is between October to March.

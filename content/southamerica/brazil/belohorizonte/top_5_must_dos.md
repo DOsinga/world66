@@ -61,5 +61,3 @@ stop at these 5 must do’s of the area.
 
 **Contributors**
 December 25, 2009
-new
-by [kellyyannne](/member/kellyyannne)

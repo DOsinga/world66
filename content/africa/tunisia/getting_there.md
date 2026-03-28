@@ -1,24 +1,18 @@
 ---
 title: "Getting There"
 type: section
-type: "By Air"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
-Here are a few suggestions for reaching Tunisia.
+"/>
 
-**Contributors**
-March 24, 2006
-change
-by [giorgio](/member/giorgio)
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-### [Airlines](/africa/tunisia/getting_there/airlines)
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-Most travelers to Tunisia arrive by air. The country's main ariport, Tunis-Carthage, is located outside the capital city of Tunis and is served by airlines hailing from Europe, Africa, and the Middle East. Connections can be made at Tunis-Cathage to secondary airports within the country, but these are only served by the national airline and some private charter flyers.
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-type: By Air
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-
-[[rate it]](/africa/tunisia/getting_there/airlines)
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

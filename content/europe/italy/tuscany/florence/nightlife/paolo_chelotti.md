@@ -39,5 +39,3 @@ accessibility: 19,00 / 03,00
 address: Via del Romito 1 FORTEZZA DA BASSO
 
 email: info@girasol.it
-
-[back to Nightlife and Entertainment](..)

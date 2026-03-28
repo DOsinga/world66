@@ -49,5 +49,3 @@ music at the bandstand located in the square.
 
 **Contributors**
 December 29, 2009
-change
-by [cjr236](/member/cjr236)

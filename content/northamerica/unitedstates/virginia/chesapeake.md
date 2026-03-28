@@ -118,5 +118,3 @@ Airport.
 
 **Contributors**
 January 18, 2006
-change
-by [cdbbdc](/member/cdbbdc)

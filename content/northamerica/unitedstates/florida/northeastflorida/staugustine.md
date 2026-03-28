@@ -23,7 +23,4 @@ While you're in the area, try to get out on the water on one of the scenic cruis
 
 *St. Augustine is 95 mi/150 km north of Orlando and about 40 mi/70 km south of Jacksonville.*
 
-*Change history*
-Write up by [marc926](/member/marc926) on 26 April 04
-
-Minor corrections by [marc926](/member/marc926) on 03 June 04
+Minor corrections by [marc926](/world/member/marc926) on 03 June 04

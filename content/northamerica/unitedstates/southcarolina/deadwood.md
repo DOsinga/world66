@@ -1,0 +1,4 @@
+---
+title: "Deadwood"
+type: location
+---

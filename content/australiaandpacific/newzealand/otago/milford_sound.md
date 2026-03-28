@@ -1,9 +1,9 @@
 ---
-title: "Milford Sound Travel Guide"
+title: "Milford Sound"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Named by the Welsh discoverer, **Milford Sound** is a bit of a misnomer in hindsight. At the point of its discovery, the Welsh had not knowledge of geology. Sticking to what they knew, it was named Milford Sound after ** Milford in Wales ** .
 
@@ -23,13 +23,3 @@ The drive back has about 4-6 stop-off points on the way to Te Anua which are wel
 Fill up with petrol before you leave because there are no petrol stations in the sound itself.
 
 This is a magical day out which will thrill even the most jaded, travel hardened individual giving a glimpse of what put the **New Zeal** in New Zealand..
-
-*Part or or all of this text stems from the original article at: http://www.michaeltyler.co.uk*
-
-#### Contributors
-
-April 28, 2007 new by [lpx](/member/lpx) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 03:42

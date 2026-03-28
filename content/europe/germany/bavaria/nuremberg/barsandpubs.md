@@ -19,6 +19,4 @@ Bar plus cinema with subtitled films. Address: Am Laufer Schlagturm 3
 
 ** Ruhestoerung**
 
-Trendy bar. Address: Tetzelgasse 21 
-
--->
+Trendy bar. Address: Tetzelgasse 21

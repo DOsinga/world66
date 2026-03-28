@@ -27,5 +27,3 @@ url: [www.berneliuuzeiga.lt](http://www.berneliuuzeiga.lt/en/)
 address: Kaunas-Vilnius Highway
 
 email: bajorkiemis@takas.lt
-
-[back to Eating Out](..)

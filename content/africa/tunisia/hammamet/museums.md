@@ -19,9 +19,5 @@ Although the Raqqada Museum is not in Hammamet, tourists can get to it quite eas
 
 **Contributors**
 April 08, 2010
-change
-by [imran_m](/member/imran_m)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

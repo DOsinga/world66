@@ -19,8 +19,6 @@ Camping overnight at wadi Hitan. Exploring el Talh and them moving towards Ghard
 
 **Contributors**
 January 10, 2009
-new
-by [plus-travel.com](/member/plus-travel.com)
 
 
 
@@ -33,5 +31,3 @@ url: [www.plus-travel.com](http://www.plus-travel.com)
 address: 88. Merghani St. Heliopolis
 
 email: info@plus-travel.com
-
-[back to Day Trips](..)

@@ -23,5 +23,3 @@ url: www.theinkaadventure.com
 address: wilmer
 
 email: internet@theinkaadventure.com
-
-[back to Practical Information](..)

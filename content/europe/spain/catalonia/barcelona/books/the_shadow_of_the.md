@@ -24,13 +24,9 @@ that began many years ago, and will come to threaten his own life.
 
 **Contributors**
 February 12, 2007
-new
-by [costacora](/member/costacora) (1 point)
 
 
 
 
 
 author: Carlos Ruiz Zafon
-
-[back to Books](..)

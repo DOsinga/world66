@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "www.state.il.us"
 ---
 
@@ -8,8 +8,6 @@ Check Springfield webcams below.
 
 **Contributors**
 June 03, 2005
-change
-by [reen](/member/reen) (1 point)
 
 ### [Abraham Lincoln Presidential Library](/northamerica/unitedstates/illinois/springfield/webcams/abraham_lincoln_pr)
 

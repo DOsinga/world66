@@ -19,5 +19,3 @@ The **Akodo Beach**, or Eko Tourist Beach, is a beach that was (as its name sugg
 
 **Contributors**
 April 15, 2010
-new
-by [mbailin](/member/mbailin)

@@ -49,7 +49,4 @@ A visit to Oberammergau would not be
 complete without a day trip to castle Schloss Linderhof. Built by King Ludwig
 II, this enchanting building speaks to the days of power unparalleled. With the
 Alps as a backdrop, the building, which was
-originally just a cottage, transforms the visitor back to the time when Ludwig,
-who was known to be quite eccentric, received guests and entertained. The
-castle is reachable by car or by a public bus from Oberammergau for those who don't want to
-drive.
+originally just a cottage, transforms the visitor

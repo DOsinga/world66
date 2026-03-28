@@ -37,5 +37,3 @@ openingHours: tue - sun 11:00-17:00
 tel: 070 - 358 58 57
 
 email: info@beeldenaanzee.nl
-
-[back to Museums](..)

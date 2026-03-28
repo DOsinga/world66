@@ -20,5 +20,3 @@ wonderful event.
 url: www.carnifest.com
 
 email: yaporat@gmail.com
-
-[back to Festivals & Events](..)

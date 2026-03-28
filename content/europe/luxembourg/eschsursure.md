@@ -1,8 +1,6 @@
 ---
 title: "Esch sur sure"
 type: location
-latitude: 49.911254
-longitude: 5.935116
 ---
 
 We currently have no information about Esch sur sure.

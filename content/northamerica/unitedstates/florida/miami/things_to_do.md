@@ -11,8 +11,6 @@ You won't have any problems at all finding plenty of things to do during your Mi
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Everglades National Park](/northamerica/unitedstates/florida/miami/things_to_do/everglades_nationa)
 

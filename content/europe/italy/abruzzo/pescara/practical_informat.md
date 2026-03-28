@@ -6,8 +6,6 @@ email: "info@jonathan.pe.it"
 phone: "+39 08562591"
 type: "Tourist information"
 url: "www.jonathan.pe.it"
-latitude: 38.160344
-longitude: 15.531798
 ---
 
 internet cafes

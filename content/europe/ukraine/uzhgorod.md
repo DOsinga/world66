@@ -1,9 +1,9 @@
 ---
-title: "Uzhgorod Travel Guide"
+title: "Uzhgorod"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Uzhhorod or Uzhgorod (Ukrainian and Russian: Ужгород; Rusyn: Уґоград, Ужгород or Унґвар; Hungarian: Ungvár; Slovak: Užhorod; German: Ungwar, Ungarisch Burg; Yiddish: אונגװיר , translit. Ungver or Ingver) is a city located in western Ukraine, at the border with Slovakia and near the border with Hungary. It is the administrative center of the Zakarpattia Oblast (region), as well as the administrative center of the surrounding Uzhhorodskyi Raion (district) within the oblast. The city itself is also designated as its own separate raion within the oblast.
 The city gets its name from the Uzh River, which divides the city into two halves (the old and new sections). Uzh (Уж) means ringed snake (Natrix natrix), and horod (город) is Rusyn for city, coming from Old Slavonic grad (градъ). However, this name is a recent construct, and has been used only since the beginning of the 20th century. Before then, the city was known as Ungvar, also spelled Ongvar, Hungvar, and Unguyvar.
@@ -69,9 +69,3 @@ Krosno, Poland, since 2008
 Jarosław, Poland, since 2002
 Česká Lípa, Czech Republic
 Satu Mare, Romania
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Uzhhorod*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 20:59

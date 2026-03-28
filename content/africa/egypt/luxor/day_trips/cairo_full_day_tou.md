@@ -34,5 +34,3 @@ Pick up time 08:00
 url: [www.egyptsunshine.net](http://www.egyptsunshine.net)
 
 email: luxor@egyptsunshine.com
-
-[back to Day Trips](..)

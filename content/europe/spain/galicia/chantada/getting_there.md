@@ -4,8 +4,6 @@ type: section
 address: "UK/Erie"
 type: "By Air"
 url: "www.ryanair.com"
-latitude: 53.473337
-longitude: -2.289152
 ---
 
 You can fly from the UK to Santiago with Ryanair. The journey by road will be about
@@ -14,8 +12,6 @@ You can fly from the UK to Santiago with Ryanair. The journey by road will be ab
 
 **Contributors**
 June 25, 2005
-new
-by [the_doc](/member/the_doc) (1 point)
 
 ### Ryanair
 

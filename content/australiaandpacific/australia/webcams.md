@@ -1,12 +1,10 @@
 ---
 title: "Webcams"
-type: location
+type: section
 address: "ankara turkiye"
 email: "edb_ogretmeni@hotmail.com"
 phone: "903445115678"
 url: "www.avik.com"
-latitude: 39.920776
-longitude: 32.85405
 ---
 
 ### TURKİSHBOY-CAM

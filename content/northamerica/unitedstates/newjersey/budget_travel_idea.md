@@ -13,5 +13,3 @@ So, if you are going to Newark, Elizabeth, Linden, or anywhere in Northern New J
 
 **Contributors**
 September 16, 2010
-change
-by [expressnj](/member/expressnj)

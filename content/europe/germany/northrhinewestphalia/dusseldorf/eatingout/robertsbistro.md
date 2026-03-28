@@ -17,5 +17,3 @@ type: French
 address: Wupperstrabe 2
 
 tel: +49 (0)211 30 48 21
-
-[back to Eating Out](..)

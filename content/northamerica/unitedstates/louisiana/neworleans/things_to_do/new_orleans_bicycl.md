@@ -20,5 +20,3 @@ tel: 504 400 5468
 url: [confederacyofcruisers.com](http://confederacyofcruisers.com)
 
 email: info@confederacyofcruisers.com
-
-[back to Things to do](..)

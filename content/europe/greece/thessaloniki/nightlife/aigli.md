@@ -13,5 +13,3 @@ type: Life Music
 address: Kassandrou and 3 Agiou Nikolaoyu st.
 
 tel: +30 31 - 270016
-
-[back to Nightlife and Entertainment](..)

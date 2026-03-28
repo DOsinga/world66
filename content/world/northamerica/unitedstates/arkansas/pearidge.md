@@ -1,6 +1,0 @@
----
-title: "Pea Ridge"
-type: location
----
-
-Pea Ridge National Military Park is a 4,300 acre Civil War Battlefield that preserves the site of the March 1862 battle that saved Missouri for the Union. On March 7 & 8, nearly 26,000 soldiers fought to determine whether Missouri would remain under Union control, and whether or not Federal armies could continue their offensive south through the Mississippi River Valley. Major General Earl Van Dorn led 16,000 Confederates against 10,250 Union soldiers, under the command of Brigadier General Samuel R. Curtis. Van Dorn's command consisted of regular Confederate troops commanded by Brigadier General Benjamin McCulloch, and Missouri State Guard Forces commanded by Major General Sterling Price. The Confederate force also included some 800 Cherokees fighting for the Confederacy. The Union army consisted of soldiers from Iowa, Indiana, Illinois, Missouri and Ohio. Half of the Federals were German immigrants. The park also includes a two and one half mile segment of the Trail of Tears. The Elkhorn Tavern, site of bitter fighting on both days, is a NPS reconstruction on the site of the original. The park is one of the most well preserved battlefields in the United States.

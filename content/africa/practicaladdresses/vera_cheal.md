@@ -11,12 +11,8 @@ Details details of the various African countries Tourist Offices and/or embassie
 
 **Contributors**
 April 08, 2005
-new
-by [africaguide](/member/africaguide)
 
 July 31, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Embassies and Consulates
 
@@ -25,5 +21,3 @@ type: Embassies and Consulates
 
 
 url: [www.africaguide.com](http://www.africaguide.com/embassy.htm)
-
-[back to Practical Information](..)

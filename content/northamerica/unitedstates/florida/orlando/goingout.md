@@ -7,9 +7,7 @@ type: location
 
 **Ben Hur: The Musical**
 
-9800 International Drive Orlando, FL 32819-8111 Phone: 407/541-0191 Fax: 407/541-0265 Website: http://www.benhurlive.com/ E-mail: ghalteman@aol.com  This American classic is brought back to the theater stage. Show opens November 13, 1999 for a five year run on the Performing Arts Theater stage of the Orange County Convention Center in Orlando.  Hours: Call for performance times.  [more..](/northamerica/unitedstates/florida/orlando/goingout/benhurthemusical)
-
-**Universal Studios CityWalk**
+9800 International Drive Orlando, FL 32819-8111 Phone: 407/541-0191 Fax: 407/541-0265 Website: http://www.benhurlive.com/ E-mail: ghalteman@aol.com  This American classic is brought **Universal Studios CityWalk**
 
 1000 Universal Studios Plaza Orlando, FL 32819-7628 Phone: 407/363-8000 Fax: 407/363-8660 Website: http://www.uescape.com  A 30-acre dining, shopping and entertainment mecca featuring specialty shops, nightclubs, theaters and themed restaurants.  Hours: Call for hours.  [more..](/northamerica/unitedstates/florida/orlando/goingout/universalstudioscitywalk)
 

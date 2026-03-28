@@ -18,5 +18,3 @@ tel: 505-876-1032
 address: 705 Hwy 66
 
 PriceOfMenu: inexpensive
-
-[back to Eating Out](..)

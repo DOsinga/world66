@@ -26,12 +26,8 @@ For the detailed programme of the 2006 Festival, please check the url below*
 
 **Contributors**
 June 18, 2006
-change
-by [reen](/member/reen) (2 points)
 
 June 12, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 
 
@@ -40,5 +36,3 @@ by [hollandtraveler](/member/hollandtraveler)
 date: june, recurrent every year
 
 url: [www.oerol.nl](http://www.oerol.nl/english/program.htm)
-
-[back to Festivals](..)

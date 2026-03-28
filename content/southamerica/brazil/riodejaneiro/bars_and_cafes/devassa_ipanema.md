@@ -8,13 +8,9 @@ Having come straight from some of London´s best pubs, you coulda say the stakes
 
 **Contributors**
 February 07, 2008
-new
-by [nickyfoltz](/member/nickyfoltz) (1 point)
 
 
 
 
 
 address: Rua Prudente de Moraes, 416 - IPANEMA - RIO DE JANEIRO - RJ
-
-[back to Bars and Cafes](..)

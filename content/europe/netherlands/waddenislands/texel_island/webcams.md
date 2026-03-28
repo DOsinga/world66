@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 address: "Ruijslaan 92, De Koog - Texel; Bus 28 and (telekom-) taxi stop at EcoMare."
 email: "infobalie@ecomare.nl"
 phone: "+31.222.317741"
@@ -8,9 +8,6 @@ url: "193.173.57.66"
 ---
 
 Select a cam below.
-
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 29 March 05
 
 ### Webcam EcoMare, seals basin
 

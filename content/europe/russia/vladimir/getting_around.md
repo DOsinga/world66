@@ -8,5 +8,3 @@ To get around Vladimir you can use the services of the railway or bus stations. 
 We currently have no Getting Around listed in Vladimir.
 
 If you do know any Getting Around in Vladimir, please [Add].
-
--->

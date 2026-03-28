@@ -27,5 +27,3 @@ tel: 4224004
 address: CARRERA 4 No 19-10 santa marta
 
 email: pailanaki@hotmail.com
-
-[back to Eating Out](..)

@@ -18,5 +18,3 @@ cheaper fares than the regular "white" cabs.
 
 **Contributors**
 June 13, 2005
-new
-by [seboslaw](/member/seboslaw) (1 point)

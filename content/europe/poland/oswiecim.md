@@ -1,0 +1,4 @@
+---
+title: "Oswiecim"
+type: location
+---

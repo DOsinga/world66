@@ -5,8 +5,6 @@ address: "Bd. Royal 49"
 phone: "+352 – 465 076"
 type: "Local Dish"
 zipcode: "L-2449"
-latitude: 49.611717
-longitude: 6.126303
 ---
 
 Open every day till midnight, 80 seats, French and Luxembourgian cooking, plat du jour about 320 flux.

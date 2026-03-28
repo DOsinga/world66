@@ -1,0 +1,16 @@
+---
+title: "Tacurong"
+type: location
+---
+
+Travel Guide
+
+ahh... im not from tacurong really... i dont quite injoy here either... guess people are computer and internet enthusiast but they are not patriot to there place...
+
+believe me if im wrong...they rathered want to tell everyone... that they are from other place instead of being some one from this hometown... peoplelike to leave in pleasure... but they rathered want to enjoy the pleasure of being in some near city rather want to take sanctuary of this place....
+
+guess they are not inthusiast to tell everyone how nice this place could be... coz i think they are not interested in promoting their own space ...
+
+im not writing this to turn this place down but rather want them to try to loved this place... and promote and improve there place of living....
+
+symin_freak!!~

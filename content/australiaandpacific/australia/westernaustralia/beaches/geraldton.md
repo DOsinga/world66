@@ -15,5 +15,3 @@ There are a wide variety of activities in and around the City and its surounding
 
 **Contributors**
 December 03, 2004
-change
-by [purplecircle](/member/purplecircle)

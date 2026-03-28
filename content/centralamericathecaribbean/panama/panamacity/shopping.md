@@ -58,5 +58,3 @@ relax at the beauty salons and get your nails or hair done in Panama styles.
 
 **Contributors**
 April 14, 2010
-new
-by [sarah mae](/member/sarah_mae)

@@ -7,5 +7,3 @@ Tønsberg is the capital of nightlife and entertainment offers in the summertime
 
 **Contributors**
 April 23, 2006
-change
-by [stinemsi](/member/stinemsi) (1 point)

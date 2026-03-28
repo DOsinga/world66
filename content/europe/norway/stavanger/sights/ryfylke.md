@@ -3,8 +3,6 @@ title: "Ryfylke"
 type: poi
 type: "Hotspots"
 url: "www.ryfylke.com"
-latitude: 59.097677
-longitude: 5.697313
 ---
 
 Explore Ryfylke!
@@ -28,19 +26,10 @@ type: Hotspots
 
 url: [www.ryfylke.com](http://www.ryfylke.com)
 
-[back to Sights](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

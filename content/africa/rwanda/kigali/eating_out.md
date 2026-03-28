@@ -4,8 +4,6 @@ type: section
 address: "Airport Road"
 price: "5,000"
 type: "Chinese"
-latitude: 23.843144
-longitude: 90.405303
 ---
 
 Kigali offers 2 types of eateries: international restaurants catering mostly to foreigners and local establishments serving brochettes and buffets. Street food is non existent.
@@ -14,8 +12,6 @@ Kigali's restaurants are some of the best in the region, but you will have to pa
 
 **Contributors**
 March 17, 2011
-new
-by [qaya](/member/qaya)
 
 ### [Beijing Tangren Restaurant](/africa/rwanda/kigali/eating_out/beijing_tangren_re)
 

@@ -33,9 +33,5 @@ This beach is known as being similar to the Bar Beach since it gets the name fro
 
 **Contributors**
 March 31, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 29, 2010
-new
-by [gabriellet](/member/gabriellet)

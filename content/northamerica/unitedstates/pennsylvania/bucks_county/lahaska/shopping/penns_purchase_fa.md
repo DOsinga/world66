@@ -14,8 +14,6 @@ We are conveniently located on Route 202, adjacent to Peddler's Village and with
 
 **Contributors**
 January 20, 2006
-change
-by [michael chapman](/member/michael_chapman)
 
 type: Music
 
@@ -30,5 +28,3 @@ url: [www.pennspurchase.com](http://www.pennspurchase.com/)
 address: Route 202, Lahaska, PA
 
 email: info@pennspurchase.com
-
-[back to Shopping](..)

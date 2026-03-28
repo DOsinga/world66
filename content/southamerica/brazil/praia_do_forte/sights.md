@@ -9,8 +9,6 @@ Check these out if you can tear yourself away from the beach.
 
 **Contributors**
 January 29, 2007
-new
-by [rani d.](/member/rani_d.) (2 points)
 
 ### [Projeto TAMAR](/southamerica/brazil/praia_do_forte/sights/projeto_tamar)
 

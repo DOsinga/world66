@@ -1,0 +1,4 @@
+---
+title: "Nouadhibou"
+type: location
+---

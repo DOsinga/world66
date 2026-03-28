@@ -4,8 +4,6 @@ type: poi
 address: "Eston KZN"
 email: "vernon@skydivedurban.co.za"
 phone: "0722146040"
-latitude: -29.87073
-longitude: 30.528553
 ---
 
 FAQ !!!
@@ -65,5 +63,3 @@ tel: 0722146040
 address: Eston KZN
 
 email: vernon@skydivedurban.co.za
-
-[back to Top 5 Must Do's](..)

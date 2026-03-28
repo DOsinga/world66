@@ -15,5 +15,3 @@ type: Fast Food
 address: Kringlan Shopping Center
 
 tel: (+354) 568 7080
-
-[back to Eating Out](..)

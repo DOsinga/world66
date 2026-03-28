@@ -13,13 +13,5 @@ Germany-Finland = http://www.superfast.com/Baltic/English/index.asp
 
 **Contributors**
 May 24, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Sea
-
-
-
-
-
-[back to Getting There](..)

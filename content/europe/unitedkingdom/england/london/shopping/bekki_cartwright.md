@@ -12,8 +12,6 @@ Biblion is no ordinary bookshop, but a hub for all antiquarian book lovers. Stro
 
 **Contributors**
 April 04, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Book shops
 
@@ -28,5 +26,3 @@ url: [biblion.co.uk](http://biblion.co.uk/)
 address: Biblion, Mews Market, Grays Antique Market, 1-7 Davies mews, Mayfair, London W1K 5AB
 
 email: bekki@grays.biz
-
-[back to Shopping](..)

@@ -4,8 +4,6 @@ type: poi
 address: "Man Hatten"
 email: "dominic@mail.com"
 url: "thiscool.info"
-latitude: 59.483258
-longitude: 16.73864
 ---
 
 printable bowling score sheets
@@ -37,8 +35,6 @@ address: Man Hatten
 
 email:
 
-[back to Festivals](..)
-
 ##
 
 -
@@ -47,17 +43,10 @@ email:
 
 -
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

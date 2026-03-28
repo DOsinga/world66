@@ -23,5 +23,3 @@ Mexico City´s packed cultural calendar means that there´s something happening 
 
 **Contributors**
 October 21, 2009
-new
-by [lucyb](/member/lucyb)

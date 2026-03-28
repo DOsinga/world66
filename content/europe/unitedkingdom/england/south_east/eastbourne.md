@@ -1,0 +1,4 @@
+---
+title: "Eastbourne"
+type: location
+---

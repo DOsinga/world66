@@ -11,8 +11,6 @@ St. Louis Cemetery, one of the many "Cities of the Dead," is the oldest in cemet
 
 **Contributors**
 June 07, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -23,5 +21,3 @@ tel: 504-525-3377 or 888-721-7493
 url: [www.saveourcemeteries.org](http://www.saveourcemeteries.org)
 
 email: soc@saveourcemeteries.org
-
-[back to Things to do](..)

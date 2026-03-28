@@ -5,8 +5,6 @@ address: "Nelipića bb"
 email: "info@travel49.com"
 phone: "00 385 98 858 141"
 url: "www.travel49.com"
-latitude: 43.509456
-longitude: 16.439176
 ---
 
 ** Split walking tours – 7 wonders **
@@ -79,5 +77,3 @@ url: [www.travel49.com](http://www.travel49.com)
 address: Nelipića bb
 
 email:
-
-[back to Day Trips](..)

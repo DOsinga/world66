@@ -30,7 +30,3 @@ address: Götaplatsen 412 56
 url: [www.konsthallen.goteborg.se](http://www.konsthallen.goteborg.se)
 
 tel: 031-61 29 81
-
-[back to Sights](..)
-
--->

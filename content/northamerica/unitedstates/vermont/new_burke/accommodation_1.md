@@ -11,9 +11,6 @@ zipcode: "05832"
 
 Accommodations in vermont aren't cheap due to their great landscape in surrounding areas.
 
-**Change history**
-Orginal article by [Brokenme](/member/brokenme) on 31 October 04
-
 ### The Inn at Mountain View Farm
 
 The Inn at Mountian View Farm is amazing. It's located on an old dairy farm. They nurse abused animals(that are now well cared for) such as horses, donkeys, cows, turkeys(maybe the turkeys aren't), There's great scenery and walking/biking trails on the premisis.

@@ -12,7 +12,3 @@ url: [www.restaurant-fischerhaus.de](http://www.restaurant-fischerhaus.de/)
 tel: 040 - 314053
 
 zipcode: 20359 Hamburg
-
-[back to Eating Out](..)
-
--->

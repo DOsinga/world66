@@ -1,0 +1,4 @@
+---
+title: "Indore"
+type: location
+---

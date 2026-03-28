@@ -19,13 +19,5 @@ the Ntarama memorial, before you reach Nyamata.
 
 **Contributors**
 October 22, 2008
-new
-by [lageographe](/member/lageographe)
 
 type: Memorials
-
-
-
-
-
-[back to Sights](..)

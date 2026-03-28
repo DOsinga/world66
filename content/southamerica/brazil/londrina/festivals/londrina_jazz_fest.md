@@ -9,9 +9,5 @@ It was born in 2003 as a response for the expectations from the general public. 
 
 **Contributors**
 January 13, 2006
-change
-by [giorgio](/member/giorgio)
 
 January 13, 2006
-change
-by [reen](/member/reen)

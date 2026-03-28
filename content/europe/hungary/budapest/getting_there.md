@@ -19,8 +19,4 @@ For information on domestic services call: (36 1) 461-5500
 
   By Bus: The cheapest way to reach Budapest is probably hitching, but more reliable are the different international bus services.
 
- Most coaches arrive at the downtown Erzsébet tér bus station.  It’s recommended that you check-in at least one hour before departure and often baggage is limited to one suitcase plus hand luggage. More is very unpractical anyway. When arriving from Eastern European countries you probably end up at Nép Stadion. 
-
-## Subsections
-
-[By Air](/europe/hungary/budapest/gettingthere/byair)
+ Most coaches arrive at the downtown Erzsébet tér bus station.  It’s recommended that you check-in at least one hour before departure and often baggage is limited to one suitcase plus hand luggage. More is very unpractical anyway. When arriving from Eastern European countries you probably end up at Nép Stadion.

@@ -61,9 +61,3 @@ open for viewing.
 
 **Contributors**
 March 18, 2010
-change
-by [gabriellet](/member/gabriellet)
-
-
-
-[back to Budget Travel Ideas](..)

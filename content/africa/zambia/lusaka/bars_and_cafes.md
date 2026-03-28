@@ -7,8 +7,6 @@ Head out on the town.
 
 **Contributors**
 March 19, 2007
-new
-by [dylanbould](/member/dylanbould) (1 point)
 
 ### [Rhapsody's](/africa/zambia/lusaka/bars_and_cafes/rhapsodys)
 

@@ -4,8 +4,6 @@ type: poi
 address: "Split, Croatia"
 type: "By Sea"
 url: "www.blueline-ferries.com"
-latitude: 43.511638
-longitude: 16.439966
 ---
 
 Even though
@@ -24,5 +22,3 @@ type: By Sea
 url: [www.blueline-ferries.com](http://www.blueline-ferries.com)
 
 address: Split, Croatia
-
-[back to Getting There](..)

@@ -1,0 +1,4 @@
+---
+title: "Armidale"
+type: location
+---

@@ -30,5 +30,3 @@ type: Other
 
 
 url: [kata.addict.free.fr](http://kata.addict.free.fr)
-
-[back to Things to do](..)

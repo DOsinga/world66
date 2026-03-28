@@ -52,5 +52,3 @@ September) are highly recommended. Information and reservation offices at the tr
 
 **Contributors**
 October 20, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

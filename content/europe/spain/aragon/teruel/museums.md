@@ -11,5 +11,3 @@ The renaissance building is excellent and it formed the first seat of the Counci
 
 **Contributors**
 May 03, 2005
-new
-by [davidx](/member/davidx) (1 point)

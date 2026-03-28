@@ -32,5 +32,3 @@ url: [www.wildlifeamazon.com](http://www.wildlifeamazon.com/)
 address: HOTEL SAN FERMIN / QUITO Y BOLIVAR S/N
 
 email: robertvaca@wildlifeamazon.com
-
-[back to Tours and Excursions](..)

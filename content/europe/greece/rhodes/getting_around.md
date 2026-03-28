@@ -18,5 +18,3 @@ url: [rodosonline.com](http://rodosonline.com)
 A complete resourse of information including maps and guides, accommodation, real estate, weather and more.
 
 url: [www.helios.gr](http://www.helios.gr)
-
--->

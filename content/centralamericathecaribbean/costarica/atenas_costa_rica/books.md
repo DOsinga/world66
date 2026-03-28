@@ -19,5 +19,3 @@ through the coffee plantations…
 
 **Contributors**
 June 30, 2009
-change
-by [erickht](/member/erickht)

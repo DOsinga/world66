@@ -14,5 +14,3 @@ It's about a 2 1/2 hour drive down to Atlantic City from New York City. Atlantic
 url: [www.searchingcities.com](http://www.searchingcities.com)
 
 email: cts61@yahoo.com
-
-[back to Day Trips](..)

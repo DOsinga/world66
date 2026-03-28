@@ -1,0 +1,4 @@
+---
+title: "Ledbury"
+type: location
+---

@@ -8,8 +8,6 @@ email: "upbum@killme.org"
 phone: "889-97453"
 type: "Casinos"
 url: "none"
-latitude: 38.874239
-longitude: 48.986771
 ---
 
 Some of Karlsruhe's nightclubs, from the perspective of a local:
@@ -43,8 +41,6 @@ As above. Do not go, unless its on a thursday when the miniscular size of the pl
 
 **Contributors**
 February 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Darmausgang](/europe/germany/badenwrttemberg/karlsruhe/nightlife_and_ente/darmausgang)
 

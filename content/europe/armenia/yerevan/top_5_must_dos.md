@@ -61,5 +61,3 @@ sad, yet honorable site.
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)

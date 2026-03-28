@@ -1,0 +1,4 @@
+---
+title: "Narayangarh"
+type: location
+---

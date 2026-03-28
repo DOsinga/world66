@@ -50,4 +50,4 @@ The lush coconut trees offer a great place to relax. You can take a buggy or
 ride a horse and explore the beauty of the sand dunes on the beach. A trip on a
 ‘jangada’ (sailboat) over the calm waters is a great way to make the most of
 your day at this beautiful beach. There are local restaurants where you can enjoy
-excellent fresh seafood dishes before ending your day and heading back to Fortaleza.
+excellent fresh seafood dishes before ending your day and heading

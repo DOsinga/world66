@@ -37,5 +37,3 @@ With gorgeous beaches, monuments, splendid sights and a throbbing nightlife, Rim
 
 **Contributors**
 February 07, 2010
-new
-by [sameera kumar](/member/sameera_kumar)

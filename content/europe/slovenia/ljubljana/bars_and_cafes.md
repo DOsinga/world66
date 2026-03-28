@@ -10,8 +10,6 @@ The favourite bars and cafes in Ljubljana
 
 **Contributors**
 March 14, 2006
-new
-by [aglaie](/member/aglaie)
 
 ### [Juice bar Babo](/europe/slovenia/ljubljana/bars_and_cafes/juice_bar_babo)
 

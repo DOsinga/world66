@@ -9,5 +9,3 @@ Albuquerque attractions are so varied and plentiful it’s hard to choose one ov
 
 **Contributors**
 May 28, 2009
-new
-by [smkane](/member/smkane)

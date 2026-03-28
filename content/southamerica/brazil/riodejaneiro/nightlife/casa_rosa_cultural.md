@@ -13,8 +13,6 @@ Being a bit tired of samba, I asked my friends to show me some other typical bra
 
 **Contributors**
 February 12, 2009
-change
-by [campanaropiera](/member/campanaropiera)
 
 type: Clubs and dancing
 
@@ -27,5 +25,3 @@ tel: 55 21 25572562
 url: [www.casarosa.com.br](http://www.casarosa.com.br/)
 
 address: Rua Alice 550, Laranjeiras
-
-[back to Nightlife and Entertainment](..)

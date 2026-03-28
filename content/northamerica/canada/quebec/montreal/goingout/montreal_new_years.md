@@ -3,7 +3,7 @@ title: "Enchantment 2005 - Montreal's Ultimate New Year's Eve Celebration"
 type: location
 ---
 
-[url=http://www.montrealnewyears2005.com]www.MontrealNewYear2005.com[/url] Is Proud To Invite You To The City's Most Demanded New Year's Eve 2005 Event. 
+[www.MontrealNewYear2005.com](http://www.montrealnewyears2005.com) Is Proud To Invite You To The City's Most Demanded New Year's Eve 2005 Event. 
 
 [b]ENCHANTMENT 2005 - The Ultimate NYE Experience[/b]
 
@@ -55,7 +55,7 @@ TICKETS: $40, $45, $50, $55 & $65
 
 INFO-LINES: 514.816.7745 or 514.973.0602 OR VISIT US AT
 
-[url=http://www.montrealnewyears2005.com]www.MontrealNewYear2005.com[/url]
+[www.MontrealNewYear2005.com](http://www.montrealnewyears2005.com)
 
 Venue: [b]BLU COMPLEX[/b]
 
@@ -67,9 +67,6 @@ Downtown Montreal
 
 [img]http://www.partypatrol.ca/nye2005/newimages/enchantment2005.jpg[/img]
 
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 06 December 04
-
 email: info@montrealnewyears2005.com
 
 tel: 514.816.7745
@@ -77,5 +74,3 @@ tel: 514.816.7745
 ClosingTime: 3am
 
 url: [www.montrealnewyears2005.com](http://www.montrealnewyears2005.com)
-
--->

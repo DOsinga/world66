@@ -13,5 +13,3 @@ type: Dancing
 address: Constantia Centre, Tyrwhitt Avenue
 
 tel: (011) 788-4708
-
-[back to Nightlife and Entertainment](..)

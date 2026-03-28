@@ -7,5 +7,3 @@ If you are into gardening and horticulture, one of your Cheyenne activities shou
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

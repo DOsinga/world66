@@ -14,5 +14,3 @@ A true story about eccentric Alberta millionaires Maurice and Harold King, bache
 author: Mary-Jo Burles
 
 isbn: 978-0-9783192-0-5
-
-[back to Books](..)

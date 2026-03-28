@@ -19,8 +19,4 @@ Excellent information in English can be found at www.renfe.com.
 
 ** Bus **
 
-On all routes, within Andalucia and to most cities in Spain, bus services are usually very efficient and reliable. There are two bus stations in Sevilla, El Prado and Plaza de Armas. 
-
-## Subsections
-
-[By Road](/europe/spain/andalucia/seville/gettingthere/byroad)
+On all routes, within Andalucia and to most cities in Spain, bus services are usually very efficient and reliable. There are two bus stations in Sevilla, El Prado and Plaza de Armas.

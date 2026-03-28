@@ -18,5 +18,3 @@ accessibility: 24/7
 url: [www.trymalta.net](http://www.trymalta.net)
 
 email: contact@trymalta.net
-
-[back to Practical Information](..)

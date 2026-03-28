@@ -6,8 +6,6 @@ admission: "5DM Babes on trips, Sa 20DM"
 connections: "U+S Warschauer Str."
 opening_hours: "Fr from 11pm, Sa from 10pm"
 type: "Disco &Dancing"
-latitude: 52.504678
-longitude: 13.449021
 ---
 
 Swing on good music. On Saturdays there is techno and the like, on Fridays different kinds of parties (every 2nd Friday "Babes on trips" disco-house) and on Tuesdays and Thursdays "Rock it", the classic for young people. 
@@ -25,5 +23,3 @@ connections: U+S Warschauer Str.
 openings: Fr from 11pm, Sa from 10pm
 
 admission: 5DM Babes on trips, Sa 20DM
-
-[back to Nightlife and Entertainment](..)

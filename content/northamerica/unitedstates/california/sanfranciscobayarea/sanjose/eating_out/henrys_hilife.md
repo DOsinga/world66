@@ -26,12 +26,8 @@ fourty-four years.
 
 **Contributors**
 July 31, 2006
-change
-by [giorgio](/member/giorgio)
 
 June 13, 2005
-new
-by [hobobrother](/member/hobobrother)
 
 type: American
 
@@ -44,5 +40,3 @@ tel: 408-295-5414
 url: [www.henryshilife.com](http://www.henryshilife.com/)
 
 address: 301 West St. John Street
-
-[back to Eating Out](..)

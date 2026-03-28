@@ -24,13 +24,5 @@ recommended way to either arrive or depart.
 
 **Contributors**
 June 21, 2007
-change
-by [massd](/member/massd)
 
 type: By Road
-
-
-
-
-
-[back to Getting There](..)

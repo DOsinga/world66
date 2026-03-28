@@ -1,8 +1,6 @@
 ---
 title: "Egypt"
 type: location
-latitude: 26.254049
-longitude: 29.267547
 ---
 
 Egypt does not need an introduction. It was the introduction to human civilization itself, and has all the evidence to show for it. 
@@ -30,19 +28,3 @@ The south of Egypt has many impressive temples and graves from Pharaonic times. 
 The Red Sea hs great scuba diving : [Hurghada](/africa/egypt/hurghada) is world famous for its under water world. 
 
 *Em Hetep* (*In Peace*, in ancient Egyptian language).
-
-## Destinations
-
-- [Abu Simbel](/africa/egypt/abusimbel)
-- [Alexandria](/africa/egypt/alexandria)
-- [Aswan](/africa/egypt/aswan)
-- [Cairo](/africa/egypt/cairo)
-- [Dahab](/africa/egypt/dahab)
-- [Hurghada](/africa/egypt/hurghada)
-- [Luxor](/africa/egypt/luxor)
-- [Mansoura](/africa/egypt/mansoura)
-- [Minya](/africa/egypt/minya)
-- [Port said](/africa/egypt/portsaid)
-- [Sharm el Sheikh](/africa/egypt/sharmelsheikh)
-- [Sinai desert](/africa/egypt/sinaidesert)
-- [Suez](/africa/egypt/suez)

@@ -1,0 +1,4 @@
+---
+title: "Bacoor"
+type: location
+---

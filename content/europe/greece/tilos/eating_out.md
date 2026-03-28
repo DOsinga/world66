@@ -59,7 +59,4 @@ Mikro Horio Bar Telephone: +30-224-604-4081
 
 **Konstantinos Mentzelopoulos**
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 15 April 04
-
-Minor corrections by [Skipper](/member/skipper) on 15 April 04
+Minor corrections on 15 April 04

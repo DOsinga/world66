@@ -27,5 +27,3 @@ Turin is a city where culture, history and art are meshed to give any tourist on
 
 **Contributors**
 February 24, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

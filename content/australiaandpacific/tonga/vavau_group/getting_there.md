@@ -7,5 +7,3 @@ It's relatively easy to get a flight from the main island of tonga to here. So i
 
 **Contributors**
 January 06, 2005
-change
-by [giorgio](/member/giorgio)

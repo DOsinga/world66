@@ -23,5 +23,3 @@ address: Quito, Ecuador
 tel: +593-2-2529993
 
 email: info@zenithecuador.com
-
-[back to Things to do](..)

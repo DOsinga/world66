@@ -21,5 +21,3 @@ Website: www.chanchangi.com
 
 **Contributors**
 June 25, 2007
-change
-by [arthurbaby2007](/member/arthurbaby2007) (1 point)

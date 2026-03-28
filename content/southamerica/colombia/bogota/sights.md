@@ -14,5 +14,3 @@ Bogota has many sights. Most of the are in the old part of town, also known as L
 [Churches](/southamerica/colombia/bogota/sights?subsection=Churches)
 
 [Museums](/southamerica/colombia/bogota/sights?subsection=Museums)
-
--->

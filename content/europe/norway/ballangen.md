@@ -1,0 +1,4 @@
+---
+title: "Ballangen"
+type: location
+---

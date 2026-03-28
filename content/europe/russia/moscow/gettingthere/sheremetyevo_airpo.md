@@ -18,8 +18,6 @@ Be careful. Buses from Metro Rechnoi Vokzal go by circle "Metro Rechnoi Vokzal" 
 
 **Contributors**
 July 04, 2006
-change
-by [svetico](/member/svetico) (2 points)
 
 type: By Air
 
@@ -28,5 +26,3 @@ type: By Air
 
 
 url: [www.sheremetyevo-airport.ru](http://www.sheremetyevo-airport.ru/)
-
-[back to Getting There](..)

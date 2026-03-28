@@ -11,9 +11,3 @@ These dunes are situated in the Nagliai Nature Reserve. It is highly protected a
 These Dunes can be found in the last stopover in the main (and the only one) road before the roadsign to the town of Pervalka if going from Juodkrante (the first stopover after Pervalka if going from Nida).
 
 type: general
-
-
-
-
-
-[back to Sights](..)

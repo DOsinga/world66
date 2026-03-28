@@ -1,0 +1,4 @@
+---
+title: "Sefadu"
+type: location
+---

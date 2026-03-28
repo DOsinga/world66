@@ -20,5 +20,3 @@ tel: (21)3389-8989
 url: [www.porcao.com.br](http://www.porcao.com.br)
 
 address: Porcao Rios - Aterro do Flamengo
-
-[back to Eating Out](..)

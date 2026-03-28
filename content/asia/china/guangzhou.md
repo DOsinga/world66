@@ -1,0 +1,8 @@
+---
+title: "Guangzhou"
+type: location
+---
+
+Guangzhou, neighboring [Hong Kong](/asia/china/hongkong) and [Macau](/asia/china/macau), is the capital of Guangdong Province, and the largest city in South China as well. The city has a population of 6,290,000 people. It has long been one of China's ports of foreign trade and friendly exchanges. The past decade has seen great economic achievements in the city thanks to the policy of reform and opening to the outside world which was first carried out in Guangdong. Now the city has become a well-known industrial city. Guangzhou has a few beautiful and legendary nick names, Huacheng (the Flower City), Yangcheng (the Goat City) and Suicheng (the Rice-ear City). It is 2,100 years old, the same ages as the world-renowned ancient cultural city [Rome](/europe/italy/lazio/rome) of Italy.
+
+Guangzhou is a beautiful city with an ever-green scenery and flowers blooming all the year round. The city boasts many tourist attractions, among which highlights are White Cloud Hill Scenic Spot. Yuexiu Park, Guangzhou Zoo, Six Banyan Temple and Flowery Pagoda, Dr. Sun Yatsen Memorial Hall, etc. In the Suburbs, there are such scenic spot on Conghua Hot Springs, Xiqiao Hill Scenic spot, Seven Star Crags, and Foshan City. Lots of tourists to Guangzhou like to cover one or two of them for out-of-city pleasure. A modern city in China, Guangzhou is the political, economic, educational, cultural as well as scientific and technological center in South China. It is also a tourist city. Guangzhou totals 7475 square kilometers with a population of some 6.56 million. It is a well-known hometown of the overseas Chinese.

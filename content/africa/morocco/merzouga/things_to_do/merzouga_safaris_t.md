@@ -5,8 +5,6 @@ address: "Ksar Merzouga"
 email: "Merzougasafaris@Gmail.com"
 type: "Spa and Sauna"
 url: "www.Merzouga-safaris.c.la"
-latitude: 31.132883
-longitude: -4.017473
 ---
 
 **Merzouga Safaris Tours** Offers:Desert
@@ -29,5 +27,3 @@ url: [www.Merzouga-safaris.c.la](http://www.Merzouga-safaris.c.la)
 address: Ksar Merzouga
 
 email: Merzougasafaris@Gmail.com
-
-[back to Things to do](..)

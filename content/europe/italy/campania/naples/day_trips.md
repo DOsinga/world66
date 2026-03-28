@@ -7,8 +7,6 @@ There is so much to do and see in Naples, you may think twice about taking time 
 
 **Contributors**
 June 09, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Pozzuoli and The Phlaegrean Fields](/europe/italy/campania/naples/day_trips/pozzuoli_and_the_p)
 

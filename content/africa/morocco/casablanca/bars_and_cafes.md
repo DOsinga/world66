@@ -43,9 +43,5 @@ This chicly black and red decorated club is located in the Hyatt Regency Hotel C
 
 **Contributors**
 February 03, 2010
-new
-by [ckajs](/member/ckajs)
 
 February 19, 2010
-change
-by [schitti](/member/schitti)

@@ -1,13 +1,26 @@
-import markdown as md
-from django.http import Http404
-from django.shortcuts import render
+import json
+from functools import lru_cache
+from pathlib import Path
 
-from .models import load_continents, load_page
+import markdown as md
+from django.conf import settings
+from django.http import Http404
+from django.shortcuts import redirect, render
+from django.utils.safestring import mark_safe
+
+from .models import load_page
+
+
+@lru_cache(maxsize=1)
+def _load_redirects():
+    redirects_file = Path(settings.BASE_DIR) / "redirects.json"
+    if redirects_file.exists():
+        return json.loads(redirects_file.read_text())
+    return {}
 
 
 def home(request):
-    continents = load_continents()
-    return render(request, "guide/home.html", {"continents": continents})
+    return render(request, "guide/home.html")
 
 
 def location_or_section(request, path):
@@ -15,6 +28,11 @@ def location_or_section(request, path):
 
     page = load_page(path)
     if not page:
+        # Check redirects (flattened sub-regions)
+        redirects = _load_redirects()
+        new_path = redirects.get(path)
+        if new_path:
+            return redirect("/" + new_path, permanent=True)
         raise Http404
 
     # Derive parent for section/poi pages
@@ -42,6 +60,9 @@ def location_or_section(request, path):
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
 
+    # Collect map markers from children
+    markers = _collect_markers(page, sections, locations, pois)
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
@@ -55,7 +76,46 @@ def location_or_section(request, path):
         "lng": lng,
         "continent_slug": continent_slug,
         "is_continent": is_continent,
+        "markers_json": mark_safe(json.dumps(markers)),
     })
+
+
+def _marker_from_page(page):
+    """Extract a map marker dict from a page, or None if no coords."""
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+    if lat is not None and lng is not None:
+        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url()}
+    return None
+
+
+def _collect_markers(page, sections, locations, pois):
+    """Collect map markers from child pages.
+
+    For locations: markers come from child locations (cities in a country).
+    For sections: markers come from POIs.
+    Also gathers POIs from all sections (including their subdirectories).
+    """
+    markers = []
+    seen = set()
+
+    def add(m):
+        if m and (m["lat"], m["lng"]) not in seen:
+            seen.add((m["lat"], m["lng"]))
+            markers.append(m)
+
+    for loc in locations:
+        add(_marker_from_page(loc))
+
+    for poi in pois:
+        add(_marker_from_page(poi))
+
+    # Gather POIs from inside each section's subdirectory
+    for section in sections:
+        for poi in section.pois():
+            add(_marker_from_page(poi))
+
+    return markers
 
 
 def _safe_float(value):

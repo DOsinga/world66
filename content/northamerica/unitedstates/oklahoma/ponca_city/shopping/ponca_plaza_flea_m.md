@@ -10,8 +10,6 @@ The flea market at the Ponca Plaza shopping center has been held on Sundays from
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Antiques
 
@@ -20,5 +18,3 @@ type: Antiques
 accessibility: Wheelchair accessible.
 
 address: 14th and Hartford
-
-[back to Shopping](..)

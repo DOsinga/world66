@@ -10,7 +10,3 @@ Perfect for: Proposal! Post-dinner chill out. Or just relaxed talks with friends
 Local guide for the evening, Sameh Sirag el Deen (Sam) who is passionate about history of Egypt too! If you plan visiting Sharm send him an email on sam_2200@hotmail.com and he will show you this lovely place and many more really worth visiting in Sharm and in the area.
 
 For more information about Farsha go to: http://farshacafe.com/ - they have some fabulous panoramic photos on the site so you can admire the beauty of the place.
-
-
-
-[back to Bars and Cafes](..)

@@ -13,4 +13,4 @@ The Biking Tour will start from Veneto all the way to Venice. This is a self-cyc
 
 **Price of Trip**
 
-The price is individualized based on what you want to spend on food and beverages. You may own the bike, or have rented it somewhere, so this is your major expenditure. Planning your trip well would save you a lot of time and money. You can also have a biking tour for 8 days from Mestre to Venice and then back to Mestre. However, this would take an 8-day trip. Your trip would be worth it though, for the unequaled biota that you will encounter and the once in a lifetime biking experience in the villages of Italy.
+The price is individualized based on what you want to spend on food and beverages. You may own the bike, or have rented it somewhere, so this is your major expenditure. Planning your trip well would save you a lot of time and money. You can also have a biking tour for 8 days from Mestre to Venice and then

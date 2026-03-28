@@ -7,16 +7,12 @@ email: "golf@puntaala.net"
 phone: "0039 0564 922121 /Fax 0039 0564 920182"
 type: "Golf"
 url: "www.puntaala.net"
-latitude: 42.801256
-longitude: 10.75113
 ---
 
 Go mountain biking, horse back riding, sunbathing, swimming, play golf, sail, windsurf, hike the paths and the beaches, eat out, go fishing, scuba diving, boating, enjoy the night life and just lay back in the sun.
 
 **Contributors**
 November 04, 2007
-new
-by [karenbru](/member/karenbru)
 
 ### [Golf Club Punta Ala](/europe/italy/tuscany/punta_ala/things_to_do/golf_club_punta_al)
 

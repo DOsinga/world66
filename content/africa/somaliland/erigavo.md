@@ -1,8 +1,6 @@
 ---
 title: "Erigavo"
 type: location
-latitude: 10.61806
-longitude: 47.37
 ---
 
 Erigavo lies NE of Somaliland, at the bottom of the highest peak in
@@ -16,5 +14,3 @@ Sometimes you will hear tiger roar and the local people would tell you about the
 
 **Contributors**
 May 07, 2005
-change
-by [giorgio](/member/giorgio)

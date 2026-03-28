@@ -12,8 +12,6 @@ Great Lakes Brewing Company is known for its award winning brew and strict adher
 
 **Contributors**
 April 08, 2006
-change
-by [vulpster03](/member/vulpster03) (1 point)
 
 type: Pubs
 
@@ -26,5 +24,3 @@ url: [www.greatlakesbrewing.com](http://www.greatlakesbrewing.com/)
 address: 2516 Market Avenue
 
 email: info@greatlakesbrewing.com
-
-[back to Nightlife and Entertainment](..)

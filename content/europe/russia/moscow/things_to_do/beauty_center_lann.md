@@ -17,5 +17,3 @@ type: Spa and Sauna
 address: Bolshoiy Tolmachevskiy pereylok, 4/1 (metro Tret'yakovskaya)
 
 tel: +7(095) 953-63-13
-
-[back to Things to do](..)

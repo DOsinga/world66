@@ -66,5 +66,3 @@ you're on the Isola dei Pescatori, make sure to stop in at Verbano.
 
 **Contributors**
 April 04, 2010
-change
-by [stolsen](/member/stolsen)

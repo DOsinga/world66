@@ -1,8 +1,6 @@
 ---
 title: "Bled"
 type: location
-latitude: 46.36842
-longitude: 14.11006
 ---
 
 A fairytale castle high on a bluff, with a crystal clear lake underneath, snow capped alps in the background: Bled has all the ingredients for becoming a major tourist spot. 

@@ -1,12 +1,8 @@
 ---
-title: "jeremy ball rapes little boys Travel Guide"
+title: "jeremy ball rapes little boys"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 a local skwl teachr named jeremy ball rAPES HIS STUDENTS. MOST OF THEM R DISPLEASED WITH THE OUTCOME.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 07:35

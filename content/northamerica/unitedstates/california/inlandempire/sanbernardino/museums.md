@@ -12,8 +12,6 @@ Museums, shrines and historical points of interest around San Bernardino.
 
 **Contributors**
 December 05, 2005
-change
-by [handyman321](/member/handyman321)
 
 ### [San Bernardino County Museum](/northamerica/unitedstates/california/inlandempire/sanbernardino/museums/san_bernardino_cou)
 

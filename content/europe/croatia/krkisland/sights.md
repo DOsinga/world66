@@ -18,8 +18,6 @@ on Krk (Airport Rijeka) with regular international flights.
 
 **Contributors**
 April 24, 2009
-new
-by [crotraveller](/member/crotraveller)
 
 ### [Frankopan Castle in Krk](/europe/croatia/krkisland/sights/frankopan_castle_i)
 

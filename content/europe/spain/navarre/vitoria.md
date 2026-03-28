@@ -1,0 +1,4 @@
+---
+title: "Vitoria"
+type: location
+---

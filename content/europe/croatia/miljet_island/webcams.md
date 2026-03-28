@@ -1,6 +1,6 @@
 ---
 title: "Webcams in Miljet Island"
-type: location
+type: section
 ---
 
 We currently have no Webcams listed in Miljet Island.

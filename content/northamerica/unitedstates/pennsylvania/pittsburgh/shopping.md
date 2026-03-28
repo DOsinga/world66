@@ -7,5 +7,3 @@ Conveniently located only five minutes from Pittsburgh International Airport at 
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

@@ -1,0 +1,4 @@
+---
+title: "Ambohimanga"
+type: location
+---

@@ -10,8 +10,6 @@ There is a museum in Wellington called the Chisolm Trial Museum.
 
 **Contributors**
 February 18, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [The Chisolm Trail Museum](/northamerica/unitedstates/kansas/wellington/museums/the_chisolm_trail)
 

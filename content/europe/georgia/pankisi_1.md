@@ -1,9 +1,9 @@
 ---
-title: "Pankisi Travel Guide"
+title: "Pankisi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 About the region
 
@@ -124,9 +124,3 @@ If so required by the
 guests, the hosts provide car transport from the airport or the bus station in Tbilisi to Pankisi. The
 Pankisi Gorge can also be reached from the Ortaczala bus station in Tbilisi by the so-called marszrutka (a minibus which runs on a regular
 basis; travel time: 3.5 h).
-
-*Part or or all of this text stems from the original article at: www.pankisi.org*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 07:04

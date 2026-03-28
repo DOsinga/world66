@@ -7,8 +7,6 @@ email: "info@efiftyfive.com"
 phone: "9620 3899"
 type: "Clubs and dancing"
 url: "www.efiftyfive.com"
-latitude: -37.838124
-longitude: 144.878042
 ---
 
 Opened in December 1999 and still going strong, **e:fiftyfive** is
@@ -34,5 +32,3 @@ url: [www.efiftyfive.com](http://www.efiftyfive.com)
 address: 55 Elizabeth Street Melbourne, Victoria 3000 Australia
 
 email: info@efiftyfive.com
-
-[back to Nightlife and Entertainment](..)

@@ -1,12 +1,10 @@
 ---
 title: "Mr. Chow"
-type: location
+type: poi
 address: "344 N. Camden Dr., Beverly Hills, 90210"
 phone: "(310) 278-9911"
 type: "Chinese"
 url: "mrchow.com"
-latitude: 34.068073
-longitude: -118.403323
 ---
 
 Longtime, swanky refuge for celebrities, wanna-be
@@ -22,8 +20,6 @@ Try the Drunken Fish.
 
 **Contributors**
 November 02, 2006
-new
-by [jhyatt](/member/jhyatt)
 
 type: Chinese
 
@@ -36,5 +32,3 @@ tel: (310) 278-9911
 url: [mrchow.com](http://mrchow.com)
 
 address: 344 N. Camden Dr., Beverly Hills, 90210
-
-[back to Eating Out](..)

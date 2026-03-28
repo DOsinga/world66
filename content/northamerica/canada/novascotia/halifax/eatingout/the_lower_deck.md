@@ -12,8 +12,6 @@ The Lower Deck is the one and only place one needs to go in Halifax to enjoy a p
 
 **Contributors**
 August 24, 2006
-new
-by [kstashuk](/member/kstashuk) (1 point)
 
 type: Local
 
@@ -28,5 +26,3 @@ url: [www.lowerdeck.ca](http://www.lowerdeck.ca)
 address: Privateer's Warehouse, Historic Properties Lower Water Street, Halifax NS
 
 email: info@lowerdeck.ca
-
-[back to Eating Out](..)

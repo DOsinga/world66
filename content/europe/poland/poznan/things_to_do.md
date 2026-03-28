@@ -10,8 +10,6 @@ Here is a list of Things you could do in Poznan.
 
 **Contributors**
 January 28, 2006
-change
-by [reen](/member/reen)
 
 ### [Steam Train Spotting](/europe/poland/poznan/things_to_do/steam_train_spotti)
 

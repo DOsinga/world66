@@ -33,5 +33,3 @@ best way to save time and avoid the summer heat.
 
 **Contributors**
 April 08, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

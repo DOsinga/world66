@@ -11,9 +11,3 @@ The international country code for Germany is +49
  If you call from abroad dial +49 69 followed by the individual number
 
 type: general
-
-
-
-
-
-[back to Practical Information](..)

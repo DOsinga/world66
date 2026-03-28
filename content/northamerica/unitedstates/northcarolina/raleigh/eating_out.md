@@ -21,8 +21,6 @@ For coffee, wine, cocktails, beer, and good food, be sure to stop in at Cafe Hel
 
 **Contributors**
 July 06, 2009
-change
-by [annc](/member/annc)
 
 ### [Cherry Bomb Grill](/northamerica/unitedstates/northcarolina/raleigh/eating_out/cherry_bomb_grill)
 

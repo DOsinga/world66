@@ -1,9 +1,9 @@
 ---
-title: "Sahara Travel Guide"
+title: "Sahara"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Sahara Desert trekking with Camels**
 We've spent 5 nights in Erg Chigaga with Iguiditours. They are not in the guidebook!
@@ -11,7 +11,3 @@ This agency is run by the local tourag family BOUHOUDA from Mhamid and we had gr
 there contact details:
 iguiditours@yahoo.com
 www.iguiditours.com
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 06:20

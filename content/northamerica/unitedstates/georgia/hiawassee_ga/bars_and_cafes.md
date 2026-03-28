@@ -27,5 +27,3 @@ Both of these bars are located in the Ridges Resort and Club at Lake Chatuge. In
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)

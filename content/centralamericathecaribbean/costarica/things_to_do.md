@@ -3,12 +3,10 @@ title: "Things to do"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[Diving](/centralamericathecaribbean/costarica/thingstodo/diving)
-[Fishing](/centralamericathecaribbean/costarica/thingstodo/fishing)
+[Water Activities](/centralamericathecaribbean/costarica/thingstodo?subsection=Water%20Activities)
 
-[Golf](/centralamericathecaribbean/costarica/thingstodo/golf)
-[Land Activities](/centralamericathecaribbean/costarica/thingstodo/landactivities)
+[Land Activities](/centralamericathecaribbean/costarica/thingstodo?subsection=Land%20Activities)
 
-[Water Activities](/centralamericathecaribbean/costarica/thingstodo/wateractivities)
+[Golf](/centralamericathecaribbean/costarica/thingstodo?subsection=Golf)

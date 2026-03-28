@@ -14,11 +14,5 @@ emerged. ****
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Landmarks
-
-
-
-[back to Sights](..)

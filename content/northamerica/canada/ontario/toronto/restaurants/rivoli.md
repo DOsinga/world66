@@ -1,14 +1,12 @@
 ---
 title: "Rivoli"
-type: location
+type: poi
 address: "334 Queen St. West"
 email: "mail@rivoli.ca"
 phone: "416 596-1908"
 price: "$$$"
 type: "International"
 url: "rivoli.ca"
-latitude: 43.649408
-longitude: -79.394943
 ---
 
 This is a popular with locals and has been for many years. There is
@@ -29,7 +27,5 @@ cost you about $50/person.
 
 **Contributors**
 September 09, 2005
-new
-by [meshuganut](/member/meshuganut)
 
 type: International

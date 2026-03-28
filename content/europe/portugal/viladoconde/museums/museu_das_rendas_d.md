@@ -5,8 +5,6 @@ address: "Rua de S. Bento, 70"
 email: "museus@cm-viladoconde.pt"
 phone: "252248470"
 zipcode: "4480-782 Vila do Conde"
-latitude: 37.927209
-longitude: -7.410427
 ---
 
 **Museum of Bilros Lace**
@@ -40,8 +38,3 @@ The Museum’s permanent exposition exhibits traditional Vila do Conde’s Lace,
 
 
 The presence of Lace-makers in brightly lit corners showing the visitors their skill in the art of the famous lace making process, how to handle and twist the ‘bilros’ just right, constitutes a particular motive of interest in the only Bilros Lace Museum in Portugal.
-
-
-
-*Change history*
-Write up by [mtl](/member/mtl) on 13 September 04

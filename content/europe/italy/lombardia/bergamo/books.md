@@ -7,5 +7,3 @@ Libraries with rare books and book stores have a lot of interesting things to of
 
 **Contributors**
 July 11, 2005
-new
-by [karenbru](/member/karenbru) (1 point)

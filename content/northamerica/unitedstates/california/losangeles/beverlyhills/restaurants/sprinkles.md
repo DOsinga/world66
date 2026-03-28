@@ -1,6 +1,6 @@
 ---
 title: "Sprinkles"
-type: location
+type: poi
 address: "9635 Little Santa Monica Boulevard, Beverly Hills, CA, 90210"
 email: "eat@sprinklescupcakes.com"
 phone: "+1-310-274-8765"
@@ -22,8 +22,6 @@ a stop here.
 
 **Contributors**
 February 27, 2007
-new
-by [rfujitani](/member/rfujitani) (1 point)
 
 type: American
 
@@ -40,5 +38,3 @@ address: 9635 Little Santa Monica Boulevard, Beverly Hills, CA, 90210
 PriceOfMenu: $3.25 ea. or $36 per dozen
 
 email:
-
-[back to Eating Out](..)

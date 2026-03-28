@@ -7,8 +7,6 @@ Bars and cafe's in Wellington don't get more exciting than Blend bar and cafe. B
 
 **Contributors**
 July 03, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Bars/Clubs in Wellington](/australiaandpacific/newzealand/greater_wellington/wellington/bars_and_cafes/barsclubs_in_well)
 

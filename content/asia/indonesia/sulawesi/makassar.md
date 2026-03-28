@@ -1,0 +1,4 @@
+---
+title: "Makassar"
+type: location
+---

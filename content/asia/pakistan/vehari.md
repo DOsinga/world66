@@ -1,0 +1,27 @@
+---
+title: "Vehari"
+type: location
+---
+
+Travel Guide
+
+**Vehari District was created in 1976 out of the three tehsils of Multan District namely Vehari, Burewala, Mailsi and Sub-tehsils Machiwal and Gaggo of Sahiwal District. Its boundaries meet with Khanewal District on North West, with Lodhran District on West, with Bahawalpur District on South and Bahawalnagar District on the South East across the river Sutlej, which passes from East to West. The Sahiwal District lies on its North East. The district Vehari is spread over an area of 4,365 Square kilometres comprising of following three tehsils:-
+** +Vehari
++[Burewala](/asia/pakistan/burewala)
++Mailsi
+
+**Vehari district has an extreme climate i.e. very hot to the extent of 48.7ºC in summer and very cold in winter up to 1ºC. The average rainfall is about 127 mm. The land of the district is very fertile. The river Satluj passes from East towards West along the Southern side of the district.
+
+The district had a population of 2,090,416 of which 15.75% were urban in 1998.**
+
+** VEHARI LOCATION **
+
+Vehari is a city in Vehari District, Punjab, Pakistan .It is located about 65 miles from the regional metropolis of Multan. It is located about 10 miles from the southern-most of the five rivers (Sutlej) in Punjab "the land of the five rivers".
+
+Five rivers in the punjabi language are called (punj meaning five) and the Persian(Farsi) word (aab meaning water). Vehari is to the north of the Sutlej river. A headworks of canals is located on this river near Luddan on the Luddan-Vehari canal providing irrigation water to both banks of the river, which includes to the south of the river the upper fringes or the Choolistan desert. All year long the climate of the area is very hot in the summer and pleasent from October to February. The land is arid and dusty due to very little rain around the year. The mangoes are abundant in the summer and perhaps the most delicious in the world. The winter brings a great crop of citrus and guava. Vehari is the capital of the cotton growing area of this part of Pakistan. There are dozens of cotton processing factories and cotton-seed oil manufacturing plants in this area. Sugar cane grows easily and there are many sugar mills. Vehari is located on the southern alternate route of both railway and road beween Multan and Lahore, the capital of the Punjab province of Pakistan. The northern rout is the main route. Both of these routes run roughly in north-easterly direction, almost parallel to each other and are only 20 to thirty miles apart between each other any given point. . A section of the railway between Multan and Lahore is electrified on the main line between Khanewal and Lahore. The Vehari route goes to Lahore through the famous religiously renowned city of Pakpattan, where the sufi Saint Baba Freed Shakarganj is buried. Thousands of pilgrims come annually to Pakpattan for saint's "Urs" celebration which include all sorts of festivities. Baba Fareed's poetry has been included in the religius texts of Sikh religion.
+
+The founder of the Sikh religion, Guru Nanak from his early age made friends with both Hindu and Muslim children and was very inquisitive about the meaning of life. Guru Nanak undertook long journeys to convey his message to the people in the form of musical hymns. He travelled throughout the Indian Subcontinent and further east, west, and north to spread his mission
+A Tehsil of District Vehari, Burewala has the importance for the Sikh followers as Baba Buru Nanak stayed at a shrine of Haji Sher Chawli Mashaekh and a Gurdwara of Guru Nanak Dev which is a half a kilometer from the Mazaar of Baba Haji Sher. The people call it "Tapasthan Guru Nanak" even now once Akali Singh Custodian (Sewadar) looked after the shrine but now a Muslim family is performing this duty.
+The holy shrine Baba Haji Sher Dewan is located in Chak No. 317 EB, on the Burewala-Sahoka road. It is also known as Chak Dewan Sahib Chawli Mashaekh but early days its name Khatowal was very famous in the sub-continent. The great Sufi preacher of Islam including Hazrat Baba Faridudin Masud Ganj Shakar and Makhdoom Allauddin Ahmad Sabir Kalyari were born here and Hazrat Bahuddin Zakrai Multani, Hazrat Syed Jalaluddin Shah Bukhari, Hazrat Usman Marvandi famous known as Lal Shahbaz Qalandar, Makhdoom Allauddin Ahmad Sabir Kalyari and Sikhism founder Baba Guru Nannak stayed at this shrine.
+There is well is in the locality half a kilometer from the shrine of Haji Sher Chawli Mashaekh which is called "Khoi Baba Farid". It is said that Baba Farid meditated for twelve years hanging by a kachi tand (raw-yarn) in this well and achieved Bhakti. The well is still in use and water is cool and tasty there is a high boundary around the well and there is a beautiful Darbar of Sat Guru Nanak Dev Ji is in front of the gate of the well.
+The beautiful Darbar of Sat Gur Nanak Dev anmed as Gurudwara Pehli Patshahi in front of this well is in destructive condition as the beauty of the place is being marred by the family living there. The Evacuee Trust Property Board (ETPB) has neglected the importance of this place and some valuables scriptures and art work has been spoiled by the frequent white washing. Now after hue and cry from media, ETPB has reserved some funds for reconstruction and repair of this Gurdwara.

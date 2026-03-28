@@ -1,8 +1,6 @@
 ---
 title: "Stara zagora"
 type: location
-latitude: 42.424811
-longitude: 25.625748
 ---
 
 Stara Zagora is located in the central part of Southern Bulgaria. The City of is set in the heart of the Region with the same name and has a population of 180,000 people. 

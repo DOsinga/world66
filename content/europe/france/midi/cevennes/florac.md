@@ -1,0 +1,4 @@
+---
+title: "Florac"
+type: location
+---

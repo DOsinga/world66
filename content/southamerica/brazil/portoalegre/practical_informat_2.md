@@ -15,5 +15,3 @@ and drink out of a few straws.
 
 **Contributors**
 February 25, 2006
-change
-by [giorgio](/member/giorgio)

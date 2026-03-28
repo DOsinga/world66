@@ -1,8 +1,6 @@
 ---
 title: "Zarzis"
 type: location
-latitude: 36.852263
-longitude: 10.266453
 ---
 
 We currently have no information about Zarzis.

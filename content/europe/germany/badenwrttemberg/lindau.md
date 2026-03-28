@@ -1,0 +1,4 @@
+---
+title: "Lindau"
+type: location
+---

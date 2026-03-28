@@ -5,11 +5,6 @@ address: "Barcelona"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 41.38258
-longitude: 2.177073
 ---
 
 Excursion to visit the famous Cava Winery Cordorniu, located outside of Barcelona in Sant Sadurni D'Noia, the Penedés wine region. D.O. Cava, which has a long-standing tradition of wine-making. Its most widely distributed product is Cava, the local variety of champagne.
-
-*Change history*
-Orginal article by [EuroAdventures](/member/euroadventures) on 26 January 05

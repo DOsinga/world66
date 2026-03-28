@@ -1,0 +1,4 @@
+---
+title: "Manteno"
+type: location
+---

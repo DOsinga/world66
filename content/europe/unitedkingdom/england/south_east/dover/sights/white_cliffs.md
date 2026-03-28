@@ -11,13 +11,5 @@ instead.
 
 **Contributors**
 October 10, 2005
-new
-by [hpharmsen](/member/hpharmsen)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

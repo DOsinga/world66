@@ -9,8 +9,6 @@ No other quarter is as energetic on a Sunday afternoon as Le Marais. This eclect
 
 **Contributors**
 May 14, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Speciality shops
 
@@ -19,5 +17,3 @@ type: Speciality shops
 
 
 address: 3rd and 4th arrondissements
-
-[back to Shopping](..)

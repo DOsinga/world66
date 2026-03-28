@@ -9,8 +9,6 @@ Jones Beach State Park is a hugh sandy beach located just outside of New York Ci
 
 **Contributors**
 February 02, 2008
-change
-by [waterfalls](/member/waterfalls)
 
 ## Destinations in New York
 
@@ -18,17 +16,10 @@ by [waterfalls](/member/waterfalls)
 
 - [Queens](/northamerica/unitedstates/newyorkstate/newyork/queens)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Infinity Dining Experience"
-type: location
+type: poi
 accessibility: "Full Accessibility"
 address: "819 Pacific Street (between Hornby & Howe)"
 email: "info@infinitydining.ca"
@@ -14,8 +14,6 @@ url: "www.infinitydining.ca"
 
 **Contributors**
 April 01, 2007
-new
-by [infinity dining](/member/infinity_dining)
 
 type: International
 
@@ -34,5 +32,3 @@ address: 819 Pacific Street (between Hornby & Howe)
 PriceOfMenu: $10-$30
 
 email: info@infinitydining.ca
-
-[back to Eating Out](..)

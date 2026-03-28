@@ -8,11 +8,7 @@ In April 2006 Cleveland RTA created two complimentary circulator bus routes that
 
 **Contributors**
 April 10, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 
 
 url: [www.gcrta.org](http://www.gcrta.org/pdf/ELine.pdf)
-
-[back to Getting Around](..)

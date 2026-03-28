@@ -5,9 +5,6 @@ type: section
 
 Here there are the most relevant sights in L.A.
 
-*Change history*
-Orginal article by [giorgio](/member/giorgio) on 18 March 04
-
 **Sights**
 
 **Chinatown**

@@ -12,5 +12,3 @@ type: section
 address: CH1874 - Champéry
 
 tel: 41 024 479 10 71
-
--->

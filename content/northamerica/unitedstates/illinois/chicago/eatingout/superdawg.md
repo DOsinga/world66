@@ -12,8 +12,6 @@ Drive-in Style Superdawg(Hot Dog) and Burger hot dog stand. Look for the Superda
 
 **Contributors**
 October 20, 2005
-new
-by [tommyz](/member/tommyz)
 
 type: Local
 
@@ -28,5 +26,3 @@ url: [www.superdawg.com](http://www.superdawg.com)
 address: 6363 N. Milwaukee Avenue, Chicago 60646
 
 PriceOfMenu: About $6 per person with drink
-
-[back to Eating Out](..)

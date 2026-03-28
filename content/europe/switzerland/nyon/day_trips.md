@@ -7,8 +7,6 @@ There are a lot of day trips to be had around Nyon.
 
 **Contributors**
 April 19, 2006
-new
-by [warzabidul](/member/warzabidul) (1 point)
 
 ### [Le Sentier des Toblerones](/europe/switzerland/nyon/day_trips/le_sentier_des_tob)
 
@@ -22,8 +20,4 @@ What remains is a line of concrete blocks, pill boxes and mined [more..](/europe
 
 ### [Sailing to Yvoire](/europe/switzerland/nyon/day_trips/sailing_to_yvoire)
 
-For those of you who come to Switzerland in summer there is a nice trip to be had. Try to organise a trip with someone who has a boat and cross from Nyon harbour to Yvoire, have a meal there and then sail back to Nyon at night, seeing Switzerland from the waves.
-
-Depending on the time at which you sail across the lake you may find that the wind has died down, in which case the trip may take a little longer than you had wished for. If that is the case then make sure to have the appropriate lighting on the boat you're using.
-
-This activity is particularly interesting [more..](/europe/switzerland/nyon/day_trips/sailing_to_yvoire)
+For those of you who come to Switzerland in summer there is a nice trip to be had. Try to organise a trip with someone who has a boat and cross from Nyon harbour to Yvoire, have a meal there and then sail

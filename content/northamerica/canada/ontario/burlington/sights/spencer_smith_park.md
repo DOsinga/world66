@@ -19,8 +19,6 @@ For visitors to the area, a Tourist Information Centre operated by Tourism Burli
 
 **Contributors**
 November 22, 2009
-new
-by [waterfalls](/member/waterfalls)
 
 type: Parks, Gardens and Zoos
 
@@ -31,5 +29,3 @@ type: Parks, Gardens and Zoos
 url: cms.burlington.ca
 
 address: Lakeshore Road between Brant St. and Northshore Blvd.
-
-[back to Sights](..)

@@ -1,0 +1,4 @@
+---
+title: "Wanganui"
+type: location
+---

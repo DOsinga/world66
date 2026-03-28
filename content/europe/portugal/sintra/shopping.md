@@ -5,8 +5,6 @@ address: "Rua Arco do Teixeira, 2"
 email: "info@lojadoarco.com"
 type: "Music"
 url: "www.lojadoarco.com"
-latitude: -8.017802
-longitude: -34.871615
 ---
 
 At **Sintra’s Historical Center **can be found a number of very nice
@@ -17,12 +15,8 @@ Adufes), Antiques, Books, Pottery, Embroideries, and Sintra's Cakes
 
 **Contributors**
 July 12, 2005
-change
-by [grpadua](/member/grpadua) (1 point)
 
 July 12, 2005
-change
-by [anarita](/member/anarita) (1 point)
 
 ### [Loja do Arco](/europe/portugal/sintra/shopping/loja_do_arco)
 
@@ -58,17 +52,10 @@ email:
 
 [](/lib/map/handle?loc=europe|portugal|sintra)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

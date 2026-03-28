@@ -22,5 +22,3 @@ url: [www.lushrussia.ru](http://www.lushrussia.ru)
 address: St. Stariy Arbat, 12 (metro Arbatskaya)
 
 tel: +7(095) 945-34-96
-
-[back to Things to do](..)

@@ -8,13 +8,5 @@ My most favorite place in the evening was the Hyatt Regency across the rhine riv
 
 **Contributors**
 July 24, 2004
-new
-by [krw7261](/member/krw7261)
 
 type: general
-
-
-
-
-
-[back to Things to do](..)

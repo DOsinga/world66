@@ -10,13 +10,5 @@ Götaplatsen/Avenyn
 
 **Contributors**
 June 08, 2006
-change
-by [koj](/member/koj) (2 points)
 
 type: Theatres
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

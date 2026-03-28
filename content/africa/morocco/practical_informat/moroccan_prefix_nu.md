@@ -11,13 +11,5 @@ You can look up the new numbers on this site (in French):
 
 **Contributors**
 June 03, 2006
-new
-by [bernhadette](/member/bernhadette) (3 points)
 
 type: Post office
-
-
-
-
-
-[back to Practical Information](..)

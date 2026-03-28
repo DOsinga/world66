@@ -1,7 +1,9 @@
 ---
-title: "Amantea Travel Guide"
+title: "Amantea"
 type: location
 ---
+
+Travel Guide
 
 **Amantea** ranks high on a list of Calabria's prettiest towns. It is also one of the region's most historically fascinating and most unique.
 However, long before the Romans and even the Greeks, Amantea has served as an important ground, as far as human history is concerned. Dozens of Bronze and Iron age art i facts have been located in and around the mouth of the river Savuto, which opens to the sea, nearby Amantea's port.

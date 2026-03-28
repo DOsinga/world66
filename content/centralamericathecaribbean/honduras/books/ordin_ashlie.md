@@ -16,5 +16,3 @@ Please consider adding this excellent book to your list of books about Honduras.
 author: Malana Ashlie
 
 isbn: 978-4196-5728
-
-[back to Books](..)

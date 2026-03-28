@@ -9,6 +9,34 @@ Oslo has a very good nightlife. The people here love to go out for a drink, espe
 
   Warning: Its really hard to get a cab late at night so be aware that you maybee have to wait 30 minutes or more for a cab home 
 
-## Subsections
+**all**
 
-[Bars & Pubs](/europe/norway/oslo/nightlife/barspubs)
+**Barbeint**
+
+West of the National Theatre you will find this jam-packed, fashionable bar with loud sounds and every music from rap to rock. 
+
+address: Drammensveien 20
+
+**Lipp**
+
+Big and brash bar (part of the Continental hotel), popular with the well-heeled of Oslo. 
+
+address: Olavs Gate 2
+
+**Savoy bar**
+
+A small and intimate bar with stained-glass windows and wood-panelled walls, part of the Savoy Hotel. 
+
+address: Universitetsgata 11
+
+**Sjakk Matt**
+
+Informal and groovy bar and cafe near the Radhus. Delicious mediterranean food, moderate prices. 
+
+address: Haakon VII's Gate 5
+
+**The Scotsman**
+
+Popular with tourists from all over the world, packed every evening. The steakhouse restaurant in the basement serves pizzas and the regular live music acts can be somehow strange. 
+
+address: Karl Johans Gate 17

@@ -10,9 +10,3 @@ PÃ¡lyaudvar and that station has good public transport connections
 (metro, bus, trolleybus).
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

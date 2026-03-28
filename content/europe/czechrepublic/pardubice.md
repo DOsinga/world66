@@ -1,0 +1,4 @@
+---
+title: "Pardubice"
+type: location
+---

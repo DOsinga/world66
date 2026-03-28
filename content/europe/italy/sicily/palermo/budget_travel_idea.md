@@ -68,5 +68,3 @@ to visit all these churches, although some will ask for a donation.
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)

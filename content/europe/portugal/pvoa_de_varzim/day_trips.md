@@ -25,6 +25,4 @@ It may take some more time, if using the light metro system, but it a comfortabl
 
 ### [Vila do Conde by bicycle](/europe/portugal/pvoa_de_varzim/day_trips/vila_do_conde_by_b)
 
-The neighbouring town of [Vila do conde](/europe/portugal/viladoconde) is part of the same urban area as Póvoa de Varzim. Both towns are linked by an excellent waterfront pavement, with bicycle path. Consider renting a bicycle, in the summer months it is pretty easy to do so, and enjoy the ride to the historic town centre of Vila do Conde, about 3 km from the Póvoa de Varzim city centre (5 km from some hotels). Vila do Conde town centre is a peaceful and placid riverside district dating back to the discovery age or earlier.
-
-If bicycle is not your thing, then [more..](/europe/portugal/pvoa_de_varzim/day_trips/vila_do_conde_by_b)
+The neighbouring town of [Vila do conde](/europe/portugal/viladoconde) is part of the same urban area as Póvoa de Varzim. Both towns are linked by an excellent waterfront pavement, with bicycle path. Consider renting a bicycle, in the summer months it is pretty easy to do so, and enjoy the ride to the historic town centre of Vila do Conde, about 3 km from the Póvoa de Varzim city centre (5 km from some hotels). Vila do Conde town centre is a peaceful and placid riverside district dating

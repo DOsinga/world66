@@ -10,8 +10,6 @@ This could possibly be the best fast food outlet in the costa del sol it challen
 
 **Contributors**
 November 17, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Fast food
 
@@ -22,5 +20,3 @@ type: Fast food
 accessibility: very good
 
 PriceOfMenu: very good
-
-[back to Eating Out](..)

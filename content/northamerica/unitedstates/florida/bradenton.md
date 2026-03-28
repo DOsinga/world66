@@ -1,0 +1,4 @@
+---
+title: "Bradenton"
+type: location
+---

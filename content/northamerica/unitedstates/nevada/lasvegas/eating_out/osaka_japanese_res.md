@@ -20,5 +20,3 @@ tel: (702) 876-4988
 url: [www.activediner.com](http://www.activediner.com/restaurant/HomePage.cfm?CID=393218)
 
 address: 4205 W Sahara Ave
-
-[back to Eating Out](..)

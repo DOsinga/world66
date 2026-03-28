@@ -31,11 +31,7 @@ Independent Cycle Tours New Zealand offer a range of guided and self-guided tour
 
 **Contributors**
 November 11, 2007
-new
-by [nzwebpro](/member/nzwebpro)
 
 
 
 url: [www.cyclehire.co.nz](http://www.cyclehire.co.nz)
-
-[back to Getting Around](..)

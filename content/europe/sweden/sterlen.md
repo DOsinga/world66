@@ -1,9 +1,9 @@
 ---
-title: "Österlen Travel Guide"
+title: "Österlen"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Österlen - southeast of Sweden - Ystad Simrishamn Tomelilla Kivik
 There are no geographic boundaries for the area known as Österlen, but many people believe that the region stretches south easterly along route 19 between Brösarp in the north down to Ystad in the south. But it is You, special guest, who decides what Österlen and Ystad is to You - geographically and most importantly what our destination has to offer.
@@ -35,9 +35,3 @@ Visit Österlen Touristoffice
 Lillevångsgatan 6, S-272 32 Simrishamn, Sweden
 Telephone: ** ** ** +4641420410 **** ** +4641420410
 Webb: www.visitosterlen.se Email: info@visitosterlen.se
-
-*Part or or all of this text stems from the original article at: http://www.visitosterlen.se*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 01:27

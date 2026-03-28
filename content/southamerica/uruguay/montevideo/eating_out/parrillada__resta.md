@@ -16,5 +16,3 @@ type: South American
 address: Ayacucho 3199, Montevideo, Uruguay
 
 email: lacharrette@hotmail.com
-
-[back to Eating Out](..)

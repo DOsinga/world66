@@ -24,8 +24,6 @@ There is also a cafe and picnic areas.
 
 **Contributors**
 March 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Other
 
@@ -40,5 +38,3 @@ url: [www.jerseyleisure.com](http://www.jerseyleisure.com)
 address: La Hougue farm, St Peter
 
 email: lahougue@localdial.com
-
-[back to Things to do](..)

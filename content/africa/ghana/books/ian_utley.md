@@ -20,5 +20,3 @@ Email learntwi atyahoo.com
 author: Ian Utley
 
 isbn: to be published
-
-[back to Books](..)

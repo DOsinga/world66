@@ -29,5 +29,3 @@ tel: (415)221-7300
 ClosingTime: 2am
 
 url: [FIZZEES.COM](http://FIZZEES.COM)
-
-[back to Nightlife and Entertainment](..)

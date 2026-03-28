@@ -7,8 +7,6 @@ Although Piura is at about 50 kilometers from the sea, several beaches can be re
 
 **Contributors**
 May 09, 2006
-change
-by [joosts](/member/joosts) (2 points)
 
 ### [La Islilla](/southamerica/peru/piura/beaches/other_beach)
 

@@ -8,8 +8,6 @@ opening_hours: "n/a"
 phone: "n/a"
 type: "Churches and Cathedrals"
 url: "n"
-latitude: 51.566874
-longitude: 4.928497
 ---
 
 The Cathedral Metropolitana
@@ -31,5 +29,3 @@ url: [n](http://n/a)
 address: n/a
 
 email: n/a
-
-[back to Sights](..)

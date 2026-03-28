@@ -1,8 +1,6 @@
 ---
 title: "Diano San Pietro"
 type: location
-latitude: 43.931424
-longitude: 8.071651
 ---
 
 We currently have no information about Diano San Pietro.

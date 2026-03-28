@@ -1,0 +1,4 @@
+---
+title: "Teddington"
+type: location
+---

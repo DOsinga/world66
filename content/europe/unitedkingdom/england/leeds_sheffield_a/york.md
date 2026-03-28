@@ -32,5 +32,3 @@ Tea shops are a very popular haunt in York with many very fine examples includin
 Why not go shopping in the Shambles or just go to look at the shops. Look up and you will see that people living there could actually pass things across out of the windows to their neighbours on the opposite sides of the street. The Shambles was the place to buy meat in days gone by and you can still see the hooks in the shops there from which the meat was hung. It was also the home of Margaret Clitherow who was crushed to death for practising catholocism in the Ouse Bridge Prison. Her right hand is on display at the Bar Convent museum... And at the end of the Shambles Whip-Ma-Whop-Whap-Ma Gate can be found. Despite the long name the street is the shortest in York and once was the shortest in the country.
 
 The bars - York has four bars, Micklegate Bar, Walmgate Bar, Bootham Bar, Monkgate Bar. These were the entrances into the city built in the 12th and 13th century and a place where the traitors of the city had their heads placed on public display -on spikes outside the walls of course... Today these heads can be found in Micklegate Bar.
-
--->

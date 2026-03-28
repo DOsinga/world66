@@ -8,5 +8,3 @@ Africa's best restaurant is located 2 km west of Ain Diab. Not as expensive as i
 address: Sidi Abderrahman
 
 tel: 02-362112
-
--->

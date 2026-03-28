@@ -10,12 +10,8 @@ The Grampian Cart Club has regular meetings at Boyndlie only 3 miles west of Ban
 
 **Contributors**
 June 07, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (2 points)
 
 June 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Other
 
@@ -26,5 +22,3 @@ type: Other
 url: [www.grampiankartclub.com](http://www.grampiankartclub.com/Homepage.htm)
 
 address: Boyndlie Aerodrome, Banff
-
-[back to Things to do](..)

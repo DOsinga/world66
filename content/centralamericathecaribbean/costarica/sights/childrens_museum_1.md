@@ -8,7 +8,5 @@ The Children’s Museum, formerly a prison, is a huge facility with exhibits for
 
 **Contributors**
 May 23, 2005
-new
-by [david_dennis](/member/david_dennis)
 
 type: Hotspots

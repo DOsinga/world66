@@ -65,9 +65,5 @@ Interlaken festival related to music.
 
 **Contributors**
 March 11, 2010
-change
-by [huttongreen](/member/huttongreen)
 
 March 12, 2010
-change
-by [ctanios](/member/ctanios)

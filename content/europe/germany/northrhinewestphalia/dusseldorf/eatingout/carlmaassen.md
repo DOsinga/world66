@@ -17,5 +17,3 @@ type: Local
 address: Berger Straße 7, ground and first floors
 
 tel: +49 (0)211 32 44 04.
-
-[back to Eating Out](..)

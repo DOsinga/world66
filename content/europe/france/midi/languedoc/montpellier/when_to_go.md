@@ -27,5 +27,3 @@ Most visitors prefer to visit Montpellier during the summer months. But visiting
 
 **Contributors**
 April 16, 2010
-change
-by [imran_m](/member/imran_m)

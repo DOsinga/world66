@@ -25,9 +25,5 @@ Fuerto amador is a lush tropical peninsula that can be discovered and relished, 
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 04, 2010
-new
-by [sameera kumar](/member/sameera_kumar)

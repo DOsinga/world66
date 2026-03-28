@@ -45,5 +45,3 @@ url: [www.BogotaBarCrawl.com](http://www.BogotaBarCrawl.com)
 address: Bogota
 
 email: eduardo@bogotabarcrawl.com
-
-[back to Nightlife and Entertainment](..)

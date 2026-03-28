@@ -1,0 +1,4 @@
+---
+title: "Sabadell"
+type: location
+---

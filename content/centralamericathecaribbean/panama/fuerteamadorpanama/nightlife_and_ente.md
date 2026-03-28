@@ -25,9 +25,5 @@ Fuerte Amador Panama is one of those spirited destinations which boast of a good
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 03, 2010
-new
-by [sameera kumar](/member/sameera_kumar)

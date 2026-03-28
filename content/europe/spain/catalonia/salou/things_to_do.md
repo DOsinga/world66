@@ -78,5 +78,3 @@ handicrafts at a artisan market.
 
 **Contributors**
 February 12, 2010
-change
-by [miss_frenchye](/member/miss_frenchye)

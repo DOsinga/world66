@@ -1,8 +1,6 @@
 ---
 title: "San Vito"
 type: location
-latitude: 8.820768
-longitude: -82.970384
 ---
 
 San Vito is located in the south of Costa Rica. The town stands almost
@@ -15,5 +13,3 @@ Parque Internacional La Amistad.
 
 **Contributors**
 May 07, 2005
-change
-by [reen](/member/reen)

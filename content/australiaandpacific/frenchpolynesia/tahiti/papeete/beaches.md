@@ -23,5 +23,3 @@ If you end up staying at a resort in Papeete, you'll find most are located right
 
 **Contributors**
 April 27, 2010
-new
-by [suegabel](/member/suegabel)

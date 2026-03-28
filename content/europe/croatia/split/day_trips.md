@@ -18,5 +18,3 @@ To get to [Omis](/europe/croatia/omis) you need to take Bus 60. A one way ticket
 **Trogir**
 
 To get to [Trogir](/europe/croatia/trogir) you need to take bus number 37. A one way ticket is 19 kn, and a return in 29 kn
-
--->

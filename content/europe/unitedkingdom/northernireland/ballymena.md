@@ -1,0 +1,4 @@
+---
+title: "Ballymena"
+type: location
+---

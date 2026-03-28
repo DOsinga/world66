@@ -9,8 +9,6 @@ No visit to Cruden Bay would not be complete without a round on her world famous
 
 **Contributors**
 January 31, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [McDonald Golf Club, Ellon](/europe/unitedkingdom/scotland/cruden_bay/things_to_do/mcdonald_golf_club)
 

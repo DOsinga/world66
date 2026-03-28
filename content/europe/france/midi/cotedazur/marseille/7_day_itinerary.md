@@ -63,9 +63,5 @@ the trilogy, César, Fanny, and Marius.
 
 **Contributors**
 February 12, 2010
-new
-by [kimerly](/member/kimerly)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

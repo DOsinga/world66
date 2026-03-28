@@ -12,8 +12,6 @@ If you go into to sushi bar of the hotel “Intourist Palace” and look at all 
 
 **Contributors**
 March 13, 2010
-new
-by [teona](/member/teona)
 
 type: Japanese
 
@@ -28,5 +26,3 @@ url: [www.intouristpalace.com](http://www.intouristpalace.com)
 address: 11, Ninoshvili str.
 
 email: info@intouristpalace.com
-
-[back to Eating Out](..)

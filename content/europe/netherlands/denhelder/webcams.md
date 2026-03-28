@@ -1,15 +1,12 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "www.landsend.nl"
 ---
 
 Below is a fine cam that can help you to decide whether or not you will be doing your crossing to Texel today :-))
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 09 April 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 09 April 05
+Minor corrections on 09 April 05
 
 ### [Ferry Den Helder - Texel
 

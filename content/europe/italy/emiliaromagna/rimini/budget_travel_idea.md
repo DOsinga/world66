@@ -34,9 +34,5 @@ Rimini offers its visitors some excellent budget shopping. Take a walk down the 
 
 **Contributors**
 February 09, 2010
-change
-by [shomer](/member/shomer)
 
 February 04, 2010
-change
-by [kwalker](/member/kwalker)

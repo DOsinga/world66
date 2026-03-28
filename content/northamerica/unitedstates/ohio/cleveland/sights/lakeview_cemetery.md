@@ -11,8 +11,6 @@ More famous people are probably burried here than anywhere else in Cleveland. It
 
 **Contributors**
 April 09, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Graves and Cemeteries
 
@@ -23,5 +21,3 @@ tel: 216-421-2665
 url: [www.lakeviewcemetery.com](http://www.lakeviewcemetery.com/)
 
 address: 12316 Euclid Avenue
-
-[back to Sights](..)

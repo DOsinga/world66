@@ -11,13 +11,9 @@ A beautiful old area is the Lavatoio (public wash basins) in Via Mario Lupo. The
 
 **Contributors**
 July 03, 2006
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Fountains and statues
 
 
 
 url: www.comune.bergamo.it
-
-[back to Sights](..)

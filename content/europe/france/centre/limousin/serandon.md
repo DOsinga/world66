@@ -1,0 +1,4 @@
+---
+title: "Serandon"
+type: location
+---

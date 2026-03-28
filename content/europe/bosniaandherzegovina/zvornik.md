@@ -19,8 +19,4 @@ The city's demographic situation has changed drastically in the last 15 years. U
 
 But, through ethnic cleansing practiced widely in the Bosnian war, Zvornik's Bosniak population was forced to flee. In addition, there were numerous instances of mass killings in Zvornik and the surrounding villages. It is known that the suburb of Karakaj was the place of concentration camps where hundreds of Bosniaks were brutally murdered.
 
-After the war, the town's population consisted of only Serbs with no trace of the long Bosniak tradition, such as mosques. With the help of the international community, there has been an effort to return refugees back to the municipality, but the process has been slow and will take many years to complete.
-
-Climate
-
-Just like most of Bosnia, Zvornik has very hot summers and cold winters. Except for the area near the river Drina, the city is surrounded by mountains with preserved forests, which creates a beautiful scenery with the town's location at the bottom a valley.
+After the war, the town's population consisted of only Serbs with no trace of the long Bosniak tradition, such as mosques. With the help of the international community, there has been an effort to return refugees

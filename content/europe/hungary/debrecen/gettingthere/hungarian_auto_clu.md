@@ -14,11 +14,7 @@ type: "By Road"
 
 **Contributors**
 August 20, 2005
-new
-by [arnold_gulyas](/member/arnold_gulyas)
 
 August 22, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: By Road

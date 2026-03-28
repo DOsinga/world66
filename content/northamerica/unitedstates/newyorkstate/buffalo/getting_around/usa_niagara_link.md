@@ -18,13 +18,9 @@ Those staying at participating hotels experience the pleasure of riding these bu
 
 **Contributors**
 June 28, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 
 
 
 
 url: [www.nfta.com](http://www.nfta.com/metro)
-
-[back to Getting Around](..)

@@ -45,5 +45,3 @@ really too good to bother with driving no matter what time of year.
 
 **Contributors**
 September 03, 2009
-change
-by [kimerly](/member/kimerly)

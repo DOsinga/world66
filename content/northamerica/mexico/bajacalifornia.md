@@ -1,8 +1,6 @@
 ---
 title: "Baja California"
 type: location
-latitude: 30.033892
-longitude: -115.142511
 ---
 
 Baja Califonia is that 1300 kilometer long arm that dangles down from the US border between the Pacific and the Gulf of California. The whole of the peninsula consists of rugged and nearly uninhabited mountains. 

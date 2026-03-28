@@ -51,5 +51,3 @@ opportunity for tourists to buy local art.
 
 **Contributors**
 December 08, 2010
-new
-by [sequoia maner](/member/sequoia_maner)

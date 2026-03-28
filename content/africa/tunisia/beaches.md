@@ -39,5 +39,3 @@ among Tunisian beaches. With its long stretch of white sand, you can enjoy the b
 
 **Contributors**
 December 29, 2009
-change
-by [nicole mesaros](/member/nicole_mesaros)

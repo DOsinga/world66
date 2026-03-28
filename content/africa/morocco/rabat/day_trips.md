@@ -55,9 +55,5 @@ Explore any of these day trips from Rabat to enjoy a different look at the cultu
 
 **Contributors**
 March 17, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 March 15, 2010
-new
-by [kat99](/member/kat99)

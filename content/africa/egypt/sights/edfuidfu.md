@@ -1,8 +1,6 @@
 ---
 title: "Edfu (Idfu)"
 type: poi
-latitude: 24.990207
-longitude: 32.889304
 ---
 
 Edfu has a long narrow temple to the god Horus (Heru), which is also in excellent condition. The present temple is a 2000 year-old replica of the original early pharaonic design. Because the temple is covered much of the original color has been retained.

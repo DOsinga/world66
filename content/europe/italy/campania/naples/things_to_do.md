@@ -8,8 +8,6 @@ Naples is home to more than 1 million lucky residents. This means that the city 
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [The Phlaegrean Fields (Campi Flegrei)](/europe/italy/campania/naples/things_to_do/the_phlaegrean_fie)
 

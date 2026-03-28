@@ -34,9 +34,5 @@ A beautiful, modern structure built next to the riverside, the structure has a s
 
 **Contributors**
 January 19, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

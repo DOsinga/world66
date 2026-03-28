@@ -1,0 +1,4 @@
+---
+title: "Mistra"
+type: location
+---

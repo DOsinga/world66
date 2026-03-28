@@ -42,9 +42,3 @@ There are nine daily connections from London Waterloo to Brussels Midi. For furt
 Road
 
 Excellent road links of all categories with neighbouring countries. See *Travel – Internal *section for information on documentation and traffic regulations.
-
- 
-
-## Subsections
-
-[By Air](/europe/belgium/gettingthere/byair)

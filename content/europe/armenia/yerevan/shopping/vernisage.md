@@ -14,5 +14,3 @@ type: Antiques
 
 
 address: Hanrapetucyan str. in the Circle park (near Republic square)
-
-[back to Shopping](..)

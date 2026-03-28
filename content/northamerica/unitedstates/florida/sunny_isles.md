@@ -1,12 +1,8 @@
 ---
-title: "{Sunny Isles} Travel Guide"
+title: "{Sunny Isles}"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Sunny Isles
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 08:41

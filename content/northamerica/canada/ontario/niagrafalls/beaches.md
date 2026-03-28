@@ -15,5 +15,3 @@ Though not ideal for swimming, a walk along the shoreline of the Niagara Falls b
 
 **Contributors**
 February 19, 2010
-change
-by [benf](/member/benf)

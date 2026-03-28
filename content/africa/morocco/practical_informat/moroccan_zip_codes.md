@@ -46,12 +46,8 @@ Email: sales.marrakesh@gmail.com
 
 **Contributors**
 June 03, 2006
-new
-by [bernhadette](/member/bernhadette) (4 points)
 
 February 14, 2009
-change
-by [lbartes](/member/lbartes)
 
 type: Tourist information
 
@@ -62,5 +58,3 @@ type: Tourist information
 tel: 0021224446965
 
 email: emailmorocco@gmail.com
-
-[back to Practical Information](..)

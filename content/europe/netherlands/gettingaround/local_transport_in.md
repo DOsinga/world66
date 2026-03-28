@@ -7,11 +7,3 @@ All larger towns are served by buses. The Cities of Amsterdam, Den Haag and Rott
 
 **Contributors**
 May 08, 2006
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Getting Around](..)

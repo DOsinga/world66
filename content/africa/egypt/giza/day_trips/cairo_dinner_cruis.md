@@ -5,8 +5,6 @@ address: "Egypt"
 email: "tours@memphistours.net"
 phone: "0020101709105"
 url: "www.memphistours.net"
-latitude: 26.254049
-longitude: 29.267547
 ---
 
 **Memphis Tours Egypt Since 1955
@@ -43,5 +41,3 @@ url: [www.memphistours.net](http://www.memphistours.net)
 address: Egypt
 
 email: tours@memphistours.net
-
-[back to Day Trips](..)

@@ -130,7 +130,3 @@ address: Pamenkalnio St. 12/Pylimo St. 4,
 tel: 62 07 30, 61 79 17
 
 openings: Mon-Thurs 9-17; Fri 9-16
-
-## Subsections
-
-[Galleries](/europe/lithuania/vilnius/museums/galleries)

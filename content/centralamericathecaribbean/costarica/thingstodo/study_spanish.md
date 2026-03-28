@@ -6,8 +6,6 @@ email: "escuela@elparaisoschool.com"
 phone: "507-757-9338"
 type: "Other"
 url: "www.elparaisoschool.com"
-latitude: 9.385361
-longitude: -82.268468
 ---
 
 **El Paraiso Spanish School** - www.elparaisoschool.com We are a school of Spanish immersion, located in Manuel Antonio-Costa Rica and also in the beautiful islands of Bocas Del Toro-Panama .
@@ -26,5 +24,3 @@ url: [www.elparaisoschool.com](http://www.elparaisoschool.com)
 address: Isla Colon
 
 email: escuela@elparaisoschool.com
-
-[back to Things to do](..)

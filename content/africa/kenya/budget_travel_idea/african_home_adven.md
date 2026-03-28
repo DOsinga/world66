@@ -21,5 +21,3 @@ url: [www.africahomeadventure.com](http://www.africahomeadventure.com)
 address: 4473-00200 Nairobi
 
 email: info@africahomeadventure.com
-
-[back to Budget Travel Ideas](..)

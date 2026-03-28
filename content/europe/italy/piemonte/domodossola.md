@@ -1,0 +1,4 @@
+---
+title: "Domodossola"
+type: location
+---

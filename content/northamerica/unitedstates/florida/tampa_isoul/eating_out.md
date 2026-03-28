@@ -20,5 +20,3 @@ url: [home](http://home)
 **barnes & noble cafe**
 
 url: [none](http://none)
-
--->

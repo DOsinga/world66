@@ -9,5 +9,3 @@ At Cuervo World, you can visit the distillery and taste various tequilas (Jose C
 
 **Contributors**
 January 10, 2007
-new
-by [out of the grey](/member/out_of_the_grey) (2 points)

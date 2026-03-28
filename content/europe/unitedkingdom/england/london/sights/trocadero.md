@@ -4,8 +4,6 @@ type: poi
 address: "Piccadilly Circus, W1"
 opening_hours: "Daily 10.00-00.00h"
 type: "Hotspots"
-latitude: 51.510138
-longitude: -0.133936
 ---
 
 The Trocadero, in Piccadilly Circus, is the biggest and brightest
@@ -27,5 +25,3 @@ type: Hotspots
 address: Piccadilly Circus, W1
 
 openinghours: Daily 10.00-00.00h
-
-[back to Sights](..)

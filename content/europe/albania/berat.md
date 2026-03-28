@@ -1,8 +1,6 @@
 ---
 title: "Berat"
 type: location
-latitude: 40.701864
-longitude: 19.958076
 ---
 
 The 2000 year old town of Berat is located in southcentral Albania. It is one of the oldest and most beautiful towns of Albania. As you can see from the pictures, it is no wonder that Berat is also known as "the town of a thousand windows." 

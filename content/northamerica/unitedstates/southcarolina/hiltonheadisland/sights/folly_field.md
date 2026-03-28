@@ -52,7 +52,5 @@ Island luxurious and fun for everyone.
 
 **Contributors**
 October 27, 2005
-new
-by [iszatmary](/member/iszatmary)
 
 type: Hotspots

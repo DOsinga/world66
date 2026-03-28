@@ -1,9 +1,9 @@
 ---
-title: "Old Fort Travel Guide"
+title: "Old Fort"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Like a
 center of a wagon wheel on spokes between Lake
@@ -29,9 +29,3 @@ road. Reconstruction of a pioneer-day
 fort, Fort Davidson, is underway and hosted the
 fifth annual Civil War event May 31-June 1. On every Friday night in Old Fort you
 can jam, dance or listen to good old country music (free admission) at Old Fort Mountain Music.
-
-*Part or or all of this text stems from the original article at: Gabrielle Thompson*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 01:02

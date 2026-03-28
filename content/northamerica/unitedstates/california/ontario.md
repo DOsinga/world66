@@ -1,12 +1,8 @@
 ---
-title: "Ontario Travel Guide"
+title: "Ontario"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Tell us about Ontario
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 13:20

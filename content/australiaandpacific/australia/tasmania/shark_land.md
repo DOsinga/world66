@@ -1,12 +1,8 @@
 ---
-title: "shark land Travel Guide"
+title: "shark land"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 shark land is very interesting in many ways. You can swim with sharks.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 02:12

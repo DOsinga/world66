@@ -21,5 +21,3 @@ accessibility: on-line so you can avoid all the hassle
 url: [www.faridaspassions.com](http://www.faridaspassions.com)
 
 email: faridaspassions@hotmail.com
-
-[back to Shopping](..)

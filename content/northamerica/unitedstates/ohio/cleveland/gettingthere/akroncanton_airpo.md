@@ -9,9 +9,3 @@ miles south of Cleveland. It is served by AirTran and other airlines,
 and limo service is available to Cleveland.
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

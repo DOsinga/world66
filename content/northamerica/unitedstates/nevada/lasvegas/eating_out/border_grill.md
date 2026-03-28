@@ -11,8 +11,6 @@ Located in Mandalay Resort & Casino, Border Grill is considered the best Mexican
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Mexican
 
@@ -25,5 +23,3 @@ tel: 702-632-7403
 url: [www.bordergrill.com](http://www.bordergrill.com)
 
 address: 3950 South Las Vegas Boulevard, Mandalay Bay Resort & Casino
-
-[back to Eating Out](..)

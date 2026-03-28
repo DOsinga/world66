@@ -15,5 +15,3 @@ type: Steakhouses
 address: 1906 Van Ness Ave
 
 tel: (415) 885-4605
-
-[back to Eating Out](..)

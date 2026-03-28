@@ -11,8 +11,6 @@ Here are a few suggestions to enjoy yourself at night.
 
 **Contributors**
 February 07, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### Atari Expo
 

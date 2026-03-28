@@ -8,13 +8,8 @@ phone: "+39 066877264"
 price: "3,50 euros"
 type: "Internet Cafe"
 url: "www.kokonet.org"
-latitude: 41.9035
-longitude: 12.461018
 ---
 
 Smart relaxing, fast, located near S. Peter church.
-
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 16 May 05
 
 type: Internet Cafe

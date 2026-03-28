@@ -1,9 +1,9 @@
 ---
-title: "Komarna Travel Guide"
+title: "Komarna"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Komarna is small village in Dalmatia.
 
@@ -27,13 +27,3 @@ reached
 by car within an hour. And close by there are several interesting and
 little
 known places that are well worth your visit.
-
-#### Contributors
-
-August 18, 2008 change by [janskov](/member/janskov) (1 point)
-
-August 12, 2008 new by [alenb](/member/alenb)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 15:15

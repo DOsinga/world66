@@ -15,5 +15,3 @@ Both sides of the border can experience some pick-pocketing, so be extra aware o
 
 **Contributors**
 December 20, 2005
-new
-by [allamericanbear](/member/allamericanbear)

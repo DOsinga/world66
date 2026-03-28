@@ -1,9 +1,9 @@
 ---
-title: "Krynica-Zdroj Travel Guide"
+title: "Krynica-Zdroj"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Krynica-Zdroj** (till 31 December 2001 **Krynica**) (Rusyn: *Krenycja*) is a town in southern Poland in Beskid Sadecki mountains, inhabited by over eleven thousand people. It is the biggest spa town in Poland called The Pearl of Polish Spas; a tourist and winter sport tourist. It was first recorded in 1547 and became a town in 1889. Part of the inhabitants belong to the Lemko minority.
 
@@ -28,9 +28,3 @@ political matters.**Monuments:**
 - Koncertowa Restaurant (The restaurant itself is located in a historic building, former concert hall, with preserved architecture, typical for our region. Typical for region is also food in this restaurant)
 - Zielona Gorka
 - Karczma Lemkowska
-
-*Part or or all of this text stems from the original article at: my head...*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 16:21

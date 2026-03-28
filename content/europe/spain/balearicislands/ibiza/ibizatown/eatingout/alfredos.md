@@ -8,5 +8,3 @@ This is the oldest restaurant of Ibiza! The restaurant, which was opened in 1934
 address: Pg. Var de Rey 16, 07800 Baleares
 
 tel: (+34) 971 31 12 74
-
--->

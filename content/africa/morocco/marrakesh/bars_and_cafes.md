@@ -16,5 +16,3 @@ Audio-visual equipment of quality as well as a work-center with portables and co
 
 **Contributors**
 September 13, 2007
-new
-by [blackzitoun](/member/blackzitoun) (4 points)

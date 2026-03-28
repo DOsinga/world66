@@ -7,5 +7,3 @@ The nearest International Airport is Frankfurt. You can get to Saarbrucken from 
 
 **Contributors**
 February 18, 2007
-change
-by [seanusmcprawnus](/member/seanusmcprawnus) (2 points)

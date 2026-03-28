@@ -1,8 +1,6 @@
 ---
 title: "Chirripo"
 type: location
-latitude: 9.733534
-longitude: -83.501133
 ---
 
 The Chirripo national park is a top highlight in the south of costa rica. Some 150 km from [San Jose](/centralamericathecaribbean/costarica/sanjose). It includes the highest mountain of the country and some spectacular hikes - including one all the way to the top. It is 20km long with 2400m-elevation gain. The route is well marked and accessible to the average outdoor enthusiast.

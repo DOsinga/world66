@@ -7,5 +7,3 @@ Paldiski can be reached daily by ferry from Sweden (Kapellskär, north of Stockh
 
 **Contributors**
 September 27, 2005
-new
-by [ingvar](/member/ingvar)

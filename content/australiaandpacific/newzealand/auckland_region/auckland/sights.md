@@ -6,8 +6,6 @@ opening_hours: "from 8.30 till late"
 phone: "(0800 759 2489)"
 type: "Public Buildings"
 url: "www.skycityauckland.co.nz"
-latitude: -33.874872
-longitude: 151.222298
 ---
 
 A diversity of landscape provides an inviting playground for the
@@ -47,8 +45,7 @@ address: Victoria St
 
 ### [Gallery](/australiaandpacific/newzealand/auckland_region/auckland/sights/gallery)
 
-The Auckland City Gallery - while often concentrating on their region's
- artists, they also display national and international art.
+The Auckland City Gallery - while often concentrating on their region's artists, they also display national and international art.
 
 type: general
 

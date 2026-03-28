@@ -1,6 +1,6 @@
 ---
 title: "Urban Fare ."
-type: location
+type: poi
 type: "general"
 ---
 

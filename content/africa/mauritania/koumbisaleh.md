@@ -1,8 +1,6 @@
 ---
 title: "Koumbi Saleh"
 type: location
-latitude: 15.765809
-longitude: -7.96854
 ---
 
 Koumbi Saleh is what remains of the once florishing capital of the kindgom of Ghana. Ghana ruled the transsaharan trade routes of salt, gold and slaves. This brought the city and the region a lot of wealth. 

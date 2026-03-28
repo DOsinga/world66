@@ -5,10 +5,7 @@ type: section
 
 Sights of Lugo...
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-### [The Roman Wall
+[The Roman Wall
 
 The Roman Wall, was built between
 the years 260 and 310 of our era. It is the only in Europe that
@@ -24,4 +21,4 @@ months, more than 6000 people took part in this original project
 surrounding the wall with more than 500.000 books given by the people,
 which were then given to several organizations in Latin America.
 Finally, on November 30th 2000, the Roman wall of Lugo was declared
-'Humanity Heritage' by the UNESCO. more..](/europe/spain/galicia/lugo/sights/the_roman_wall)
+'Humanity Heritage' by the UNESCO. more..](/world/europe/spain/galicia/lugo/sights/the_roman_wall)

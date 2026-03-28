@@ -1,12 +1,8 @@
 ---
-title: "holland Travel Guide"
+title: "holland"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 holland
-
-Page last generated on Sun 12:58
-
--->

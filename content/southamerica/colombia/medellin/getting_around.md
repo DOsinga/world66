@@ -8,5 +8,3 @@ Medellin is Colombias only city with a metro, which is fast, efficient and cheap
 We currently have no Getting Around listed in Medellin.
 
 If you do know any Getting Around in Medellin, please [Add].
-
--->

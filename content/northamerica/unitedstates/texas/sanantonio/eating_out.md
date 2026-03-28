@@ -12,8 +12,6 @@ San Antonio is rich in history and sights but don't for get to sample the amazin
 
 **Contributors**
 January 19, 2005
-new
-by [gambit242](/member/gambit242) (1 point)
 
 ### [La Palmita](/northamerica/unitedstates/texas/sanantonio/eating_out/la_plamita)
 

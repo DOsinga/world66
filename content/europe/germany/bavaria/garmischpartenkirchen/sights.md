@@ -41,5 +41,4 @@ honors the rich culture of this specific geographical area in Bavaria.
 
 Another museum is the Aschenbrenner Museum. This museum along
 with the Werdenfels Museum contains a superb collection of French and German
-dolls that date back to the early 19th and 20th centuries. In addition, this
-museum also houses a unique collection of nativity scene pieces.
+dolls that date

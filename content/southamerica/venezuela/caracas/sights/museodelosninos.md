@@ -5,9 +5,3 @@ type: "Museums"
 ---
 
 type: Museums
-
-
-
-
-
-[back to Sights](..)

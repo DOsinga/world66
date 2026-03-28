@@ -1,8 +1,6 @@
 ---
 title: "Liepaja"
 type: location
-latitude: 56.504843
-longitude: 21.00709
 ---
 
 Liepaja is located in the southwest of the Republic of Latvia in the central part of the eastern coast of the Baltic Sea.
@@ -88,5 +86,3 @@ show Behind the Bars You should go to a concert by **Liepaja Symphony Orchestra*
 
 **Contributors**
 October 03, 2005
-change
-by [giorgio](/member/giorgio)

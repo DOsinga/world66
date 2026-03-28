@@ -8,8 +8,6 @@ phone: "0161 238 8686"
 price: "£4.95-£9.95"
 type: "Chinese"
 url: "www.buffetmetro.co.uk"
-latitude: 51.504746
-longitude: -0.146648
 ---
 
 Buffet Metro, Manchester's newest All You Can Eat Chinese Buffet.
@@ -35,5 +33,3 @@ address: 59A-59B Piccadilly
 PriceOfMenu: £4.95-£9.95
 
 email: webmaster@buffetmetro.co.uk
-
-[back to Eating Out](..)

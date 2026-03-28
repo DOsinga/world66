@@ -14,8 +14,6 @@ This authentic Mexican restaurant is one of the highest ranked Mexican estaurant
 
 **Contributors**
 May 31, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Mexican
 
@@ -32,5 +30,3 @@ address: 858 Broadway, Somerville MA
 PriceOfMenu: $3.95-$17.95
 
 email: tuyyo@comcast.net
-
-[back to Eating Out](..)

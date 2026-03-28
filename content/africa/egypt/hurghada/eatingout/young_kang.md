@@ -14,5 +14,3 @@ type: Chinese
 
 
 address: 5 El Sheikh Sebak St., downtown
-
-[back to Eating Out](..)

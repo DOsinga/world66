@@ -13,5 +13,3 @@ Especially because of the proximity of the lake, restaurant go-ers will find man
 [Grill](/europe/switzerland/stmoritz/eatingout?subsection=Grill)
 
 [Local](/europe/switzerland/stmoritz/eatingout?subsection=Local)
-
--->

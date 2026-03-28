@@ -56,5 +56,3 @@ author: Nicholas Ray
 isbn: 0521458552
 
 subject: Architectural history of Cambridge for beginners.
-
--->

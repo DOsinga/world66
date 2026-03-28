@@ -15,5 +15,3 @@ type: Italian
 address: 3516 Connecticut Ave
 
 tel: (202)686-5990
-
-[back to Eating Out](..)

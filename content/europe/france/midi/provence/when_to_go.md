@@ -59,5 +59,3 @@ characters that represent village people around the Christmas creche.
 
 **Contributors**
 August 31, 2009
-change
-by [kimerly](/member/kimerly)

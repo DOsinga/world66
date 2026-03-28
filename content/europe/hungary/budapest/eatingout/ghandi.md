@@ -8,7 +8,3 @@ One of the few vegetarian restaurants in Budapest to successfully provide a comb
 address: V. Vigyázó Ferenc u. 4
 
 tel: 269-4944
-
-[back to Eating Out](..)
-
--->

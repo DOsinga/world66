@@ -23,5 +23,3 @@ In the very center of Rimini is a marketplace where people gather to participate
 
 **Contributors**
 February 19, 2010
-change
-by [turkeyfish](/member/turkeyfish)

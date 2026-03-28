@@ -5,8 +5,6 @@ address: "Riga"
 email: "info@out-there.eu"
 type: "Sport stadiums"
 url: "www.out-there.eu"
-latitude: 56.949398
-longitude: 24.105185
 ---
 
 You can play football in Latvia for or against Riga United Football Club.
@@ -24,5 +22,3 @@ url: [www.out-there.eu](http://www.out-there.eu)
 address: Riga
 
 email:
-
-[back to Nightlife and Entertainment](..)

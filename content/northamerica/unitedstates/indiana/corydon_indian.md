@@ -1,9 +1,9 @@
 ---
-title: "Corydon, Indiana Hotel Near Louisville, KY Travel Guide"
+title: "Corydon, Indiana Hotel Near Louisville, KY"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Name :** Holiday Inn Express Corydon
 
@@ -16,9 +16,3 @@ offering spacious guest rooms, Jacuzzi and fireplace suites, business
 style amenities, complimentary hot breakfast, an indoor heated swimming
 pool, and a central location near top attractions in Corydon, Indiana
 and Louisville, Kentucky
-
-*Part or or all of this text stems from the original article at: Holiday Inn Express - Corydon*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 18:50

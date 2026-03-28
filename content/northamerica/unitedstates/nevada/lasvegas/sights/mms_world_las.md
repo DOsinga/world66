@@ -12,8 +12,6 @@ This is an excellent attraction for people of all ages (note the late night hour
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -26,5 +24,3 @@ openingHours: Sunday-Thursday 9:00 a.m.-12:00 a.m. and Friday-Saturday 9:00 a.m.
 url: [www.mymms.com](http://www.mymms.com)
 
 address: 3785 Las Vegas Boulevard
-
-[back to Sights](..)

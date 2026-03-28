@@ -55,5 +55,3 @@ necessary during this period).
 
 **Contributors**
 October 30, 2009
-new
-by [kimerly](/member/kimerly)

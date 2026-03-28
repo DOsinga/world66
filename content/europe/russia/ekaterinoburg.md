@@ -1,16 +1,8 @@
 ---
-title: "Ekaterinoburg Travel Guide"
+title: "Ekaterinoburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Have you been to Ekaterinoburg Russia? If you have been here, please share your travel adventures with us here.
-
-#### Contributors
-
-December 29, 2008 new by [latravelgirl](/member/latravelgirl)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 20:23

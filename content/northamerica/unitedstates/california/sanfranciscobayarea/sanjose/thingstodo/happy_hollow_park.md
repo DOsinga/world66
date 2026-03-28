@@ -31,7 +31,5 @@ Today, over 360,000 visitors enjoy unique rides like Danny the Dragon, play area
 
 **Contributors**
 August 06, 2006
-new
-by [crlauer](/member/crlauer)
 
 type: Other

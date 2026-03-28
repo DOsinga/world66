@@ -9,13 +9,9 @@ Located along the popular Arno River on the western side of the city, Le Cascine
 
 **Contributors**
 May 23, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Swimming
 
 
 
 address: Along the Arno River on the western side of Florence.
-
-[back to Things to do](..)

@@ -25,5 +25,3 @@ Taxi Union - +34 952 040 804
 
 **Contributors**
 June 03, 2008
-change
-by [mcburton](/member/mcburton)

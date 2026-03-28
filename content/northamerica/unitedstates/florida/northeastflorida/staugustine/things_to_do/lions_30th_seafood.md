@@ -15,5 +15,3 @@ type: Spa and Sauna
 url: [www.lionsfestival.com](http://www.lionsfestival.com)
 
 email: admin@lionsfestival.com
-
-[back to Things to Do](..)

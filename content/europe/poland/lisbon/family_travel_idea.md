@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 March 26, 2010
-change
-by [piyushjain](/member/piyushjain_)
 
 We currently have no Family Travel Ideas listed in Lisbon.
 

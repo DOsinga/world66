@@ -19,8 +19,4 @@ Everyone should enjoy a safari at least once in their lifetime and if you happen
 
 #### 4. Tour the Hyrax Hill Prehistoric Site
 
-Hyrax Hill was a major archeological dig site that unearthed artifacts dating back to the Neolithic and Iron Ages. The Hyrax Hill Museum now displays these artifacts for viewing. Many remains of buildings, tombs and a fortress were found in 1937 as well as the bodies of 19 bodies, which had been beheaded. Hyrax Hill is also the site where many Sirikwa Holes were found. The Sirikwa were cattle herders from the 12th to 15th centuries and the holes were built for guarding their cattle. The cattle would be kept inside these fenced in holes for protection.
-
-#### 5. Dance the Night Away at a Disco
-
-After spending the day hiking and traveling around to all the major sites of Nakuru, nighttime means spending time at one of the four discos in town or maybe ine one of the hundreds of bars or restaurants. The largest place in town is called the Millenium Hotel. This is the most popular place to go and at night the floor is cleared for dancing. There are several bars inside as well as pool tables. Although 100 people can fit comfortably, weekends will double the capacity as everyone comes to join in the fun!
+Hyrax Hill was a major archeological dig site that unearthed artifacts dating

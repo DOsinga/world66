@@ -8,13 +8,5 @@ This Georgian resturant offers a vast repast of traditional meats. Start with so
 
 **Contributors**
 May 27, 2006
-new
-by [stoneowl](/member/stoneowl) (1 point)
 
 type: European
-
-
-
-
-
-[back to Eating Out](..)

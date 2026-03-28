@@ -17,5 +17,3 @@ tel: 51 1 4402022
 url: [www.inkanatura.com](http://www.inkanatura.com)
 
 email: postmaster@inkanatura.com.pe
-
-[back to Tours and Excursions](..)

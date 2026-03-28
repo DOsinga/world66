@@ -8,8 +8,6 @@ opening_hours: "24 hours"
 phone: "+27844998310"
 type: "Hotspots"
 url: "www.kingdomofthezulu.com"
-latitude: -29.861825
-longitude: 31.009909
 ---
 
 Come experience the wonders of the most spectacular beaches in Africa!
@@ -22,12 +20,8 @@ With sea views spanning morethan 80 kms one can privately enjoy the dolphins, wh
 
 **Contributors**
 November 05, 2006
-new
-by [tokommal](/member/tokommal) (4 points)
 
 November 06, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Hotspots
 
@@ -46,5 +40,3 @@ url: [www.kingdomofthezulu.com](http://www.kingdomofthezulu.com)
 address: Durban
 
 email: info@kingdomofthezulu.com
-
-[back to Sights](..)

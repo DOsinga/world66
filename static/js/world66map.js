@@ -7,7 +7,7 @@ const W66_FILL_HOVER = '#F5E0E0';
 
 /* ---- Home page: clickable continent map ---- */
 
-function initContinentMap(elementId) {
+function initContinentMap(elementId, w66continents) {
     const map = L.map(elementId, {
         zoomControl: false,
         attributionControl: false,
@@ -16,21 +16,37 @@ function initContinentMap(elementId) {
         doubleClickZoom: false,
     }).setView([20, 0], 2);
 
-    // Minimal light tile layer
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
         maxZoom: 4,
         minZoom: 2,
     }).addTo(map);
 
-    // Label positions for each continent
-    const CONTINENT_LABELS = {
-        "Africa": [5, 20],
-        "Antarctica": [-82, 0],
-        "Asia": [40, 90],
-        "Europe": [50, 15],
-        "North America": [45, -100],
-        "Oceania": [-25, 140],
-        "South America": [-15, -58],
+    // Map GeoJSON continent names to our content slugs
+    // GeoJSON has 7, we have 8 (Central America is part of North America in GeoJSON)
+    const GEO_TO_SLUG = {
+        "Africa": "africa",
+        "Antarctica": "antarctica",
+        "Asia": "asia",
+        "Europe": "europe",
+        "North America": "northamerica",
+        "Oceania": "australiaandpacific",
+        "South America": "southamerica",
+    };
+
+    // Build lookup from slug to content info
+    const slugToInfo = {};
+    w66continents.forEach(function(c) { slugToInfo[c.slug] = c; });
+
+    // Label positions keyed by our slugs
+    const LABEL_POS = {
+        "africa": [15, 10],
+        "antarctica": [-82, 0],
+        "asia": [50, 90],
+        "europe": [52, 8],
+        "northamerica": [45, -115],
+        "australiaandpacific": [-25, 112],
+        "southamerica": [-8, -72],
+        "centralamericathecaribbean": [18, -82],
     };
 
     fetch('/static/geo/continents.geo.json')
@@ -46,9 +62,10 @@ function initContinentMap(elementId) {
                     };
                 },
                 onEachFeature: function(feature, layer) {
-                    const name = feature.properties.continent;
-                    const slug = CONTINENT_SLUGS[name];
-                    if (!slug) return;
+                    const geoName = feature.properties.continent;
+                    const slug = GEO_TO_SLUG[geoName];
+                    const info = slug && slugToInfo[slug];
+                    if (!info) return;
 
                     layer.on({
                         mouseover: function(e) {
@@ -66,26 +83,27 @@ function initContinentMap(elementId) {
                             });
                         },
                         click: function() {
-                            window.location.href = '/' + slug;
+                            window.location.href = info.url;
                         },
                     });
-
-                    // Add continent label
-                    const pos = CONTINENT_LABELS[name];
-                    if (pos) {
-                        L.marker(pos, {
-                            icon: L.divIcon({
-                                className: 'continent-label',
-                                html: '<a href="/' + slug + '">' + name + '</a>',
-                                iconSize: null,
-                            }),
-                        }).addTo(map);
-                    }
                 },
             }).addTo(map);
+
+            // Add labels from our content continents (all 8)
+            w66continents.forEach(function(c) {
+                const pos = LABEL_POS[c.slug];
+                if (pos) {
+                    L.marker(pos, {
+                        icon: L.divIcon({
+                            className: 'continent-label',
+                            html: '<a href="' + c.url + '">' + c.title + '</a>',
+                            iconSize: null,
+                        }),
+                    }).addTo(map);
+                }
+            });
         });
 
-    // Attribution in corner
     L.control.attribution({position: 'bottomright', prefix: false})
         .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
         .addTo(map);
@@ -176,29 +194,48 @@ function initCountryMap(elementId, continentSlug, bounds) {
 }
 
 
-/* ---- Location map: small map with a marker, expandable ---- */
+/* ---- Location map: markers for child locations/POIs, expandable ---- */
 
-function initLocationMap(elementId, lat, lng, name) {
+function initLocationMap(elementId, markers) {
     const map = L.map(elementId, {
         zoomControl: false,
         attributionControl: false,
         scrollWheelZoom: false,
-    }).setView([lat, lng], 10);
+    });
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
         maxZoom: 16,
     }).addTo(map);
 
-    const marker = L.circleMarker([lat, lng], {
-        radius: 6,
-        fillColor: W66_RED,
-        fillOpacity: 1,
-        color: '#fff',
-        weight: 2,
-    }).addTo(map);
+    const group = L.featureGroup();
 
-    if (name) {
-        marker.bindTooltip(name, {permanent: false});
+    markers.forEach(function(m) {
+        const marker = L.circleMarker([m.lat, m.lng], {
+            radius: 6,
+            fillColor: W66_RED,
+            fillOpacity: 1,
+            color: '#fff',
+            weight: 2,
+        }).addTo(group);
+
+        if (m.name) {
+            marker.bindTooltip(m.name, {sticky: true});
+        }
+        if (m.url) {
+            marker.on('click', function(e) {
+                L.DomEvent.stopPropagation(e);
+                window.location.href = m.url;
+            });
+            marker.setStyle({cursor: 'pointer'});
+        }
+    });
+
+    group.addTo(map);
+
+    if (markers.length > 1) {
+        map.fitBounds(group.getBounds().pad(0.1));
+    } else if (markers.length === 1) {
+        map.setView([markers[0].lat, markers[0].lng], 10);
     }
 
     L.control.attribution({position: 'bottomright', prefix: false})

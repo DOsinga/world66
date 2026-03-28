@@ -49,5 +49,3 @@ enjoy it!
 author: Yolanda Solo
 
 isbn: 1905430310
-
-[back to Books](..)

@@ -1,6 +1,6 @@
 ---
 title: "Fuze Finer Dining"
-type: location
+type: poi
 accessibility: "elevator access"
 address: "2nd Floor, 110 Banff Avenue"
 email: "reservations@fuzedining.com"
@@ -35,5 +35,3 @@ address: 2nd Floor, 110 Banff Avenue
 PriceOfMenu: $24 to $38 Cdn
 
 email: reservations@fuzedining.com
-
-[back to Eating Out](..)

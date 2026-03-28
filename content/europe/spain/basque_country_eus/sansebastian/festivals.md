@@ -28,5 +28,3 @@ www.sansebastianfestival.com
 
 **Contributors**
 October 10, 2005
-change
-by [haroula](/member/haroula)

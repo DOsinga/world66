@@ -15,5 +15,3 @@ type: Restaurants
 address: Nikis Street 46, Plaka
 
 tel: 01.32.45.777
-
-[back to Eating Out](..)

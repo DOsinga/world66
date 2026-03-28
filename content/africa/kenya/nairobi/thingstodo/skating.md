@@ -8,13 +8,5 @@ You can go ice skating at the Panari sky centre. Nairobi boasts the largest ice 
 
 **Contributors**
 September 04, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Other
-
-
-
-
-
-[back to Things to do](..)

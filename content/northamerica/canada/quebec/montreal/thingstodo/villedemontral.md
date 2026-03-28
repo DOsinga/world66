@@ -7,9 +7,3 @@ type: "Tennis"
 203 courts (60 free). Tel: 1 514 872-1111
 
 type: Tennis
-
-
-
-
-
-[back to Things to do](..)

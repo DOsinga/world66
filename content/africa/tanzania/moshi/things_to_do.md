@@ -7,8 +7,6 @@ email: "abbasshariff@excite.com"
 phone: "02088037145"
 type: "Spa and Sauna"
 url: "none"
-latitude: 51.650647
-longitude: -0.181599
 ---
 
 While in Moshi we paid a visit to Scenery Safaris (www.scenerysafaris.com). They are truly a professional and friendly company. We trekked Kilimanjaro with them, the guide Alex, was amazing and without him we would never have summited. The food was great, never thought that we could be served such a menu on the mountain. On our free day, they organised a horse riding day trip on a nearby farm with picnic lunch.

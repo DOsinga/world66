@@ -14,5 +14,3 @@ Tickets available at **www.verona.com/arena**
 Verona.com is official reseller of Arena di Verona tickets.
 
 url: [www.verona.com](http://www.verona.com/arena)
-
--->

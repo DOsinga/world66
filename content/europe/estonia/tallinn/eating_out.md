@@ -28,5 +28,3 @@ Open: 11.30-01.00. French crepes.
 address: Müürivahe 23
 
 tel: 6314337
-
--->

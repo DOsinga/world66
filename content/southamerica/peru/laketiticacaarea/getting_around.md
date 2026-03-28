@@ -7,9 +7,5 @@ Getting around Puno is very easy. Everything in the city is within walking dista
 
 **Contributors**
 July 16, 2006
-new
-by [yohay elam](/member/yohay_elam) (1 point)
 
 February 15, 2008
-change
-by [approaching genius](/member/approaching_genius)

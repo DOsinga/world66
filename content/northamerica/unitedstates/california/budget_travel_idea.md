@@ -63,5 +63,3 @@ and bargains.
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

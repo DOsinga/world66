@@ -1,9 +1,9 @@
 ---
-title: "Muskoka Travel Guide"
+title: "Muskoka"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The District Municipality of Muskoka, more generally referred to as the District of Muskoka or, simply, Muskoka is a Regional Municipality located in Central Ontario.
 
@@ -14,11 +14,3 @@ The regional government seat is in Bracebridge. This area encompases Lake of Bay
 Many expensive properties and cottages can be found along the shores of Muskoka's three major lakes, Lake Muskoka, Lake Rosseau, and Lake Joseph.
 
 The Township of Muskoka Lakes contains many communities such as Bala and Port Carling.
-
-#### Contributors
-
-July 13, 2009 new by [waterfalls](/member/waterfalls)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 07:04

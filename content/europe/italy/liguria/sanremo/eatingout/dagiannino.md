@@ -15,5 +15,3 @@ type: general
 address: Lungomare Trento e Trieste 23
 
 tel: 0184-504014
-
-[back to Eating Out](..)

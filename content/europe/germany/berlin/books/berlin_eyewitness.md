@@ -15,13 +15,9 @@ this guide the ultimate travel guide.
 
 **Contributors**
 October 23, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 [](http://www.amazon.com/exec/obidos/ASIN/0756615372/osingacom?creative=125581&camp=2321&link_code=as1)
 
 
 
 isbn: 0756615372
-
-[back to Books](..)

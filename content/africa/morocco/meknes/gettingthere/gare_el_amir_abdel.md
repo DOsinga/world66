@@ -22,8 +22,6 @@ For offers, conditions and prices look at:
 
 **Contributors**
 June 11, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 type: By Rail
 
@@ -32,5 +30,3 @@ type: By Rail
 
 
 tel: 00212-3552-1060 / 00212-3552-0689
-
-[back to Getting There](..)

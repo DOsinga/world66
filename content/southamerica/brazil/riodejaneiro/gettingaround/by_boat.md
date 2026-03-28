@@ -3,8 +3,6 @@ title: "By Boat"
 type: poi
 address: "Praca 15 de Novembro Centro"
 url: "www.riodejaneirophotoguide.com"
-latitude: -22.902941
-longitude: -43.172988
 ---
 
 To get to Niteroi, take the ferry at Praca 15 (city center).
@@ -20,5 +18,3 @@ Also at Praca 15 is leaving the ferry to the isle of Paqueta - a refuge island w
 url: [www.riodejaneirophotoguide.com](http://www.riodejaneirophotoguide.com)
 
 address: Praca 15 de Novembro Centro
-
-[back to Getting Around](..)

@@ -28,5 +28,3 @@ address: Blvd. Mijares 1357 col. centro
 PriceOfMenu: $8 usd- $28 usd
 
 email: reservaciones@restaurantelcomal.com
-
-[back to Eating Out](..)

@@ -1,9 +1,9 @@
 ---
-title: "cairo Travel Guide"
+title: "cairo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Cairo is the capital of the Arab Republic of Egypt. It was established
 by "El-Moezz Ldine allah El-Fatmy (358 H- 969 A.D.) to be his capital. It
@@ -366,13 +366,3 @@ center of town or in some of the finer, quieter neighbourhoods like Zamalek.
 Cheap hotels for those on a budget can mostly be found in central
 Cairo between Midan Tahrir and the train station. Use the Lonely Planet
 Guidebook to find where they are.
-
-*Part or or all of this text stems from the original article at: www.youregypttours.com*
-
-#### Contributors
-
-February 27, 2009 change by [egypt tour guide](/member/egypt_tour_guide) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 00:04

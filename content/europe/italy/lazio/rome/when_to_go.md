@@ -23,5 +23,3 @@ In the autumn months between September and November the weather is quite changea
 
 **Contributors**
 September 03, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

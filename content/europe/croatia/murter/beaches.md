@@ -30,7 +30,4 @@ There are also other becahes on the island like Cigradje, Sveti
 Andrija and other. But the best thing to do is to rent a small motor
 boat and tour the island.
 
-**Change history**
-Orginal article by [CroBeachMan](/member/crobeachman) on 02 May 05
-
-Minor corrections by [giorgio](/member/giorgio) on 02 May 05
+Minor corrections on 02 May 05

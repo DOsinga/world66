@@ -27,5 +27,3 @@ If you head to Punta Carena to catch a boat to the green grotto, then definitely
 
 **Contributors**
 October 13, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

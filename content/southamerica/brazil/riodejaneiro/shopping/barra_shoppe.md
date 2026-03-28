@@ -18,5 +18,3 @@ type: Shopping centers and malls
 
 
 address: Av. das Americas, 4666, Barra da Tijuca.
-
-[back to Shopping](..)

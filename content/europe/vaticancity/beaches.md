@@ -57,9 +57,5 @@ be crowded, they are certainly worth the trip.
 
 **Contributors**
 April 12, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 April 06, 2010
-new
-by [sleighto](/member/sleighto)

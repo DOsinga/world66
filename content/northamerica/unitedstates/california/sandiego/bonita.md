@@ -1,0 +1,4 @@
+---
+title: "Bonita"
+type: location
+---

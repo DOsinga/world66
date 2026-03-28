@@ -8,8 +8,6 @@ email: "ragingpub@gmail.com"
 phone: "393454694503"
 type: "Pubs"
 url: "www.ragingpub.webs.com"
-latitude: 45.434293
-longitude: 12.323715
 ---
 
 Welcome to **Raging Pub**! Fired up and raging everyday until 2 AM.
@@ -46,5 +44,3 @@ accessibility: Walking, Boat
 address: Campo Santa Margherita, 3112 , Venice, Italy
 
 email: ragingpub@gmail.com
-
-[back to Nightlife and Entertainment](..)

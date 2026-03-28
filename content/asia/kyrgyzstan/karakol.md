@@ -1,0 +1,4 @@
+---
+title: "Karakol"
+type: location
+---

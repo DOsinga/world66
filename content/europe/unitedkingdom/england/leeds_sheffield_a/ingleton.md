@@ -13,9 +13,4 @@ http://www.ingleton.co.uk/
 
 Another much frequented [private – admission charge] place is the White Scar Caverns on the road to [Hawes and Gayle](/europe/unitedkingdom/england/leeds_sheffield_a/hawes_and_gayle) 
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 14 October 04
-
-Write up by [davidx](/member/davidx) on 14 October 04
-
--->
+Write up on 14 October 04

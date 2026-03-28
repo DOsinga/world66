@@ -22,8 +22,6 @@ Villa Grismondi Finardi -
 
 **Contributors**
 March 19, 2008
-new
-by [karenbru](/member/karenbru)
 
 
 
@@ -32,5 +30,3 @@ tel: 39 035 23.33.50 / fax +39 035 23.32.34
 url: [www.bergamotour.it](http://www.bergamotour.it/it/itdimore.htm)
 
 email: info@multi-consult.it
-
-[back to Tours and Excursions](..)

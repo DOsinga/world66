@@ -1,6 +1,6 @@
 ---
 title: "Lumiere"
-type: location
+type: poi
 type: "general"
 ---
 

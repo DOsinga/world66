@@ -19,6 +19,4 @@ La Mauricie National Park preserves a portion of the southwestern Canadian Shiel
 
 **Saguenay - St. Lawrence Marine Park**
 
-Saguenay - St. Lawrence Marine Park helps protect a rich diversity of marine life including whales and seals. For more information on park features, visit Saguenay - St. Lawrence Marine Park. 
-
--->
+Saguenay - St. Lawrence Marine Park helps protect a rich diversity of marine life including whales and seals. For more information on park features, visit Saguenay - St. Lawrence Marine Park.

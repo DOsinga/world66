@@ -12,13 +12,5 @@ The restaurant is decorated in a colorful tent-like motif and has a wine selecti
 
 **Contributors**
 October 03, 2005
-change
-by [wood](/member/wood)
 
 type: French
-
-
-
-
-
-[back to Eating Out](..)

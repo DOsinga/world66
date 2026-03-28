@@ -12,8 +12,6 @@ While in Trier be sure to check out a Basketball game at the arena.
 
 **Contributors**
 February 19, 2007
-new
-by [christinawalters3](/member/christinawalters3)
 
 type: Other
 
@@ -26,5 +24,3 @@ url: [www.tbb-trier.de](http://www.tbb-trier.de)
 address: Trierer basketball GmbH Away Worth place 1 54292 Trier
 
 email:
-
-[back to Things to do](..)

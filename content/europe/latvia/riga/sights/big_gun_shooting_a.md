@@ -8,8 +8,6 @@ opening_hours: "24-hours on call"
 phone: "+371 29389450"
 type: "Hotspots"
 url: "www.rigaoutthere.com"
-latitude: 56.973665
-longitude: 24.13777
 ---
 
 Here are a some of the more interesting activities on offer in Riga:
@@ -42,19 +40,10 @@ address: Hospitalu iela 8-49
 
 email:
 
-[back to Sights](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

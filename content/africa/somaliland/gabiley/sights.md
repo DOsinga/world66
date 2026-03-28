@@ -9,5 +9,3 @@ The agriculture is main resources in Gabiley region and there are new projects u
 
 **Contributors**
 October 13, 2008
-change
-by [askari](/member/askari)

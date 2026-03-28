@@ -23,7 +23,3 @@ Ferries (passengers/vehicles) and catamarans operate regular services between Gr
  Seafrance, Daily
 
 type: general
-
-
-
-[back to Getting There](..)

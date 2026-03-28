@@ -11,8 +11,6 @@ Bored, well you can visit Carmel Moviepel 8. Don't want to see a movie then you 
 
 **Contributors**
 July 07, 2005
-new
-by [drummerdude2005](/member/drummerdude2005)
 
 ### [Creativity Workshop](/northamerica/unitedstates/newyorkstate/carmel/things_to_do/creativity_worksho)
 

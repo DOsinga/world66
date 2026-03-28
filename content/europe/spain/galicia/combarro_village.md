@@ -14,5 +14,3 @@ mingled amidst its narrow streets, as suspended above the sea.
 
 **Contributors**
 March 08, 2005
-new
-by [euroadventures](/member/euroadventures) (1 point)

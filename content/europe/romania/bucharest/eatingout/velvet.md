@@ -17,5 +17,3 @@ type: general
 address: 2-4 Stirbei Voda St.
 
 tel: +401-6159241
-
-[back to Eating Out](..)

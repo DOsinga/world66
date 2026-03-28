@@ -20,5 +20,3 @@ address: 20, Via Macchin
 Good for pizza's and cheap pasta meals. 
 
 address: 59, Via Mazzini
-
--->

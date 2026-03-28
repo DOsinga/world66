@@ -1,9 +1,9 @@
 ---
-title: "Region Travel Guide"
+title: "Region"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Belem a city in Para .
 
@@ -14,7 +14,3 @@ still haven for adventures tourism and wellknown outstanding popular performans 
 banda Eva..and many more are every year present at "Para FOLIA" in November.
 
 The khatoliek "Cirro" festivaties and carnaval not to forget.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 12:34

@@ -11,9 +11,3 @@ The building was reconstructed on various occasions, but the original
 design by Aleksandar Bugarski has been faithfully preserved.
 
 type: Public Buildings
-
-
-
-
-
-[back to Sights](..)

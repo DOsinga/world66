@@ -61,5 +61,3 @@ keeps visitors coming back for more.
 
 **Contributors**
 April 05, 2010
-change
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

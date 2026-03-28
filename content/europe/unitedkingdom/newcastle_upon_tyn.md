@@ -1,16 +1,8 @@
 ---
-title: "Newcastle upon Tyne Travel Guide"
+title: "Newcastle upon Tyne"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 All visitors to UK should visit this city.
-
-#### Contributors
-
-August 18, 2009 new by [praful](/member/praful)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 13:29

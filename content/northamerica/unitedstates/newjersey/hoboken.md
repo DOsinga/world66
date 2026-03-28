@@ -1,0 +1,4 @@
+---
+title: "Hoboken"
+type: location
+---

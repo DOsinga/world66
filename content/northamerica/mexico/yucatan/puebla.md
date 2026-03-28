@@ -1,0 +1,4 @@
+---
+title: "Puebla"
+type: location
+---

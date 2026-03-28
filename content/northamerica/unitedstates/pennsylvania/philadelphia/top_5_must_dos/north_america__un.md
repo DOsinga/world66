@@ -28,7 +28,3 @@ All the hype is true; a Philly Cheesesteak is one of the most delicious sandwich
 **Steven Star Signature Restaurants**
 
 For a delicious upscale, but not out of reach, dining experience try one of the 12 world famous Steven Star signature restaurants in Philadelphia.
-
-
-
-[back to Top 5 Must Do's](..)

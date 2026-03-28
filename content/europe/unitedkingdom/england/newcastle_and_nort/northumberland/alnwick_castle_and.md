@@ -8,6 +8,3 @@ Many readers or watchers of Shakespeare,s King Hery IV will be familiar with the
 Its gardens have only recently been open to the public but have been widely commended.
 
 See www.alnwickcastle.com for both the castle and the gardens.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 16 September 04

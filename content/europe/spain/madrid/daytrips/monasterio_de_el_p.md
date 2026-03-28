@@ -8,11 +8,7 @@ At roughly 62 miles north of Madrid, Monasterio de El Paular & Lozoya Valley mak
 
 **Contributors**
 May 15, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 
 
 tel: Educacion Ambiental Puente del Perdo: 91-869-1757.
-
-[back to Day Trips](..)

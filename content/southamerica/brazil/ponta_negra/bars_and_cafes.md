@@ -7,8 +7,6 @@ There are a lot of bars and Cafes in Ponta Negra. Just turn around and you will 
 
 **Contributors**
 June 06, 2006
-new
-by [morsan](/member/morsan) (1 point)
 
 ### [The Hemingway](/southamerica/brazil/ponta_negra/bars_and_cafes/the_hemmingway)
 

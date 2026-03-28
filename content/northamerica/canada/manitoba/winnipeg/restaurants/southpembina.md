@@ -1,6 +1,6 @@
 ---
 title: "South Pembina"
-type: location
+type: poi
 type: "Seafood"
 ---
 
@@ -8,13 +8,5 @@ Pembina Highway from the Perimeter Highway to Grant Avenue was once a fast food 
 
 **Contributors**
 March 30, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Seafood
-
-
-
-
-
-[back to Eating Out](..)

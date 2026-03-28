@@ -19,17 +19,4 @@ The mausoleum of Mohammad V contains the tombs of King Mohammad V and his sons, 
 
 **Ancient Ruins**
 
-A fabulous place to explore ruins is Chellah Necropolis. This is the earliest human settlement on the Bou Regreg River. The very first ruins date back to Roman times though there is evidence of Carthaginians and Phoenicians. Today you can view the ruins of a triumphal arch, mosque, Roman forum, royal tombs and a zawiya.
-
-**Enjoy Nature**
-
-Mamora Forest is a site outside of town which gets you back into nature. This forest contains more than 50% of the countries cork trees. You can also see wild pear trees, pine groves and eucalyptus trees. Many people enjoy t he birding. If you are looking for a peaceful afternoon away from the city then you should not miss the Mamora forest.
-
-**Contributors**
-March 19, 2010
-change
-by [ctanios](/member/ctanios)
-
-March 18, 2010
-new
-by [piyushjain](/member/piyushjain_)
+A fabulous place to explore ruins is Chellah Necropolis. This is the earliest human settlement on the Bou Regreg River. The very first ruins date

@@ -1,9 +1,9 @@
 ---
-title: "Quillota Travel Guide"
+title: "Quillota"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Quillota The city of **Quillota** is located in the Aconcagua river valley, in the Valparaiso region of Chile. It is the largest city of the valley with many habitants living in the sorrounding farmland areas of *San Isidro*, *La Palma*, *Pocochay* and *San Pedro*. It is an important agricultural center (mainly because the plantations of avocado and cherimoya trees) and the capital of the Comuna and the Province with the same name. **Quillota** is united to the city of **La Calera** by the small town of **La Cruz**.
 
@@ -33,11 +33,3 @@ In 1585 Quillota became the administrative place of a large province. Then, in 1
 was founded as a city called "Village of San Martin de la Concha of
 Quillota" in the valley sorrounding the Mayaca Hill. It was founded by
 the Bishop *Luis Romero* and the Governor *Don José Santiago Concha y Salvatierra*.
-
-#### Contributors
-
-February 24, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 19:28

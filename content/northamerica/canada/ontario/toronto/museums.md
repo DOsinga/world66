@@ -28,5 +28,3 @@ url: [www.ago.net](http://www.ago.net)
 tel: 416-979-6648
 
 address: 317 Dundas St. W, Toronto, Ontario M5T 1G4
-
--->

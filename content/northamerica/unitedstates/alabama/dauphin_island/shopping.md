@@ -17,5 +17,3 @@ Marti’s of Dauphin Island, The Ancient Mariner, The Sand Box and 1st Run Video
 
 **Contributors**
 June 01, 2008
-new
-by [baxwrtr](/member/baxwrtr) (1 point)

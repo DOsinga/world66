@@ -1,0 +1,28 @@
+---
+title: "Larnaca Fashion"
+type: poi
+accessibility: "online"
+address: "Larnaca"
+email: "info@larnacafashion.com"
+phone: "+357 70002300"
+type: "Shopping centers and malls"
+url: "www.larnacafashion.com"
+---
+
+Fashion Shopping in Larnaca. Find information on the best places for Larnaca shopping and tips for a Larnaca shopping trip.
+
+type: Shopping centers and malls
+
+
+
+
+
+accessibility: online
+
+tel: +357 70002300
+
+url: [www.larnacafashion.com](http://www.larnacafashion.com/)
+
+address: Larnaca
+
+email: info@larnacafashion.com

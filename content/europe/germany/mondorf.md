@@ -1,8 +1,6 @@
 ---
 title: "Mondorf"
 type: location
-latitude: 50.775987
-longitude: 7.071675
 ---
 
 Mondorf is a medium-sized village just south of Bonn. From Bonn take bus number 550 from the Hauptbahnhof to Mondorf.
@@ -23,6 +21,4 @@ the church). Here youll get the best cakes and danish from the entire
 region. Further south you can find an old Jewish cemetary.
 
 Another local attraction is the rhine ferry which brings you and your
-car or bike safely back to Bonn. Enjoy this short ride over the river
-Rhine and catch a last view over the roof tops of this gem of german
-villages.
+car or bike safely

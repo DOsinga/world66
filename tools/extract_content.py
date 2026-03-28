@@ -18,6 +18,20 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DIR = os.path.join(SCRIPT_DIR, "raw")
 CONTENT_DIR = os.path.join(SCRIPT_DIR, "..", "content")
 INDEX_FILE = os.path.join(SCRIPT_DIR, "site_index.json")
+REDIRECTS_FILE = os.path.join(SCRIPT_DIR, "..", "redirects.json")
+
+# Sub-regions to flatten: remove the sub-region from the path
+# e.g. asia/middleeast/turkey -> asia/turkey
+SUBREGIONS_TO_FLATTEN = {
+    "asia/centralasia",
+    "asia/middleeast",
+    "asia/northeastasia",
+    "asia/south",
+    "asia/southasia",
+    "asia/southeastasia",
+    "centralamericathecaribbean/thecaribbean",
+    "centralamericathecaribbean/theccribbean",
+}
 
 
 def extract_between(html, start_pattern, end_pattern):
@@ -68,6 +82,14 @@ def extract_main_content(html):
         )
 
     if not content:
+        # Oberon v3 template: content in <div id="centercontent">
+        content = extract_between(
+            html,
+            r'<div[^>]*id="?centercontent"?[^>]*>',
+            r'<div[^>]*id="?rightcontent"?',
+        )
+
+    if not content:
         # ASP-era template: content in <td class=txt> after <H1>
         content = extract_between(
             html,
@@ -96,6 +118,9 @@ def extract_title(html):
         " :: World66",
         " - the travel guide you write",
         "World66, the travel guide you write: ",
+        " Travel Guide",
+        " travel guide",
+        " travelguide",
     ]:
         title = title.replace(suffix, "")
     # Handle "Best Restaurants Algiers | Algiers Eating Out" style IB titles
@@ -242,6 +267,9 @@ def strip_tags(html):
             return ""
         # Clean world66 URLs to relative
         href = re.sub(r"https?://(?:www\.)?world66\.com", "", href)
+        # Flatten sub-region paths in links
+        for subregion in SUBREGIONS_TO_FLATTEN:
+            href = href.replace("/" + subregion + "/", "/" + subregion.split("/")[0] + "/")
         if href and link_text_clean:
             return f"[{link_text_clean}]({href})"
         return link_text_clean
@@ -289,6 +317,63 @@ def strip_tags(html):
 
     # Clean up leftover "Rate it" text
     text = re.sub(r"Rate it", "", text)
+
+    # --- #12: Strip imported page chrome / old site mechanism fragments ---
+
+    # 12a: Site tagline
+    text = re.sub(r"The best resource for sights, hotels, restaurants, bars, what to do and see\s*", "", text)
+
+    # 12b: Page generation timestamp
+    text = re.sub(r"Page last generated on \w+ \d+:\d+\s*", "", text)
+    text = re.sub(r"-->\s*", "", text)  # Stray HTML comment closers
+
+    # 12c: Wikitravel cross-promotion
+    text = re.sub(r"Additional travel guides are available in ten languages at \[?\*?\*?Wikitravel\.org\*?\*?\]?\(?[^)]*\)?\s*", "", text)
+    text = re.sub(r"Additional travel guides.*?wikitravel\.org[^\n]*\n?", "", text, flags=re.IGNORECASE)
+
+    # 12d: Attribution boilerplate
+    text = re.sub(r"\*?Part or or all of this text stems from the original article at:.*?\n", "", text)
+    text = re.sub(r"\*?Part or all of this text stems from the original article at:.*?\n", "", text)
+
+    # 12e: Change history / contributor logs
+    text = re.sub(r"\*?\*?Change history\*?\*?\s*\n(?:.*?/member/.*?\n)*", "", text)
+    text = re.sub(r"#{1,4}\s*Contributors\s*\n(?:.*?\n)*?(?=\n[^A-Za-z]|\n#|\Z)", "", text)
+    text = re.sub(r"(?:Orginal|Original) article by \[.*?\]\(/member/.*?\).*?\n", "", text)
+    text = re.sub(r"\b(?:new|change|edit)\s+by\s+\[.*?\]\(/member/.*?\).*?\n", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"by \[[^\]]+\]\(/member/[^)]+\)\s*\n?", "", text)
+    text = re.sub(r"\[/member/[^\]]+\]", "", text)
+    text = re.sub(r"\(/member/[^)]+\)", "", text)
+
+    # 12f: Subsections navigation blocks (rendered dynamically by the site)
+    text = re.sub(r"## Subsections\s*\n(?:\[.*?\]\(.*?\)\s*\n?)*", "", text)
+    text = re.sub(r"## Sub sections\s*\n(?:\[.*?\]\(.*?\)\s*\n?)*", "", text)
+
+    # 12g: Spam detection - remove pages that are clearly e-commerce spam
+    spam_markers = ["moncler", "replica watches", "louis vuitton", "cheap jerseys",
+                    "ugg boots", "christian louboutin", "nike air max", "add to cart"]
+    if any(marker in text.lower() for marker in spam_markers):
+        return ""  # Return empty so the page gets skipped
+
+    # Wikitravel references in body text
+    text = re.sub(r"More information on .+ Travel at Wikitravel\.org\s*\n?", "", text)
+    text = re.sub(r"[^\n]*Wikitravel[^\n]*\n?", "", text, flags=re.IGNORECASE)
+
+    # Footer partner links
+    text = re.sub(r"- \[Wikitravel Press\].*?\n", "", text)
+    text = re.sub(r"- \[Adventure Travel\].*?\n", "", text)
+    text = re.sub(r"- \[Cheap Airline Tickets\].*?\n", "", text)
+    text = re.sub(r"- \[Cruises\].*?\n", "", text)
+    text = re.sub(r"- \[Virtual Tours\].*?\n", "", text)
+    text = re.sub(r"partner sites:\s*\n?", "", text, flags=re.IGNORECASE)
+
+    # 12h: BBCode fragments
+    text = re.sub(r"\[url=([^\]]+)\]([^\[]+)\[/url\]", r"[\2](\1)", text)
+
+    # Dead member links
+    text = re.sub(r"\[([^\]]+)\]\(/member/[^)]+\)", r"\1", text)
+
+    # "back to X" navigation links
+    text = re.sub(r"\[?back to [^\]]*\]?\(?[^)]*\)?\s*\n?", "", text, flags=re.IGNORECASE)
 
     # Clean up whitespace
     text = re.sub(r"[ \t]+", " ", text)  # Collapse horizontal whitespace
@@ -364,8 +449,30 @@ def extract_destinations(content):
             href, text = m.group(1), strip_tags(m.group(2)).strip()
             if text and "addNew" not in href and "Add" not in text:
                 href = re.sub(r"https?://(?:www\.)?world66\.com", "", href)
+                # Flatten sub-region paths
+                for subregion in SUBREGIONS_TO_FLATTEN:
+                    href = href.replace("/" + subregion + "/", "/" + subregion.split("/")[0] + "/")
                 destinations.append({"name": text, "path": href})
     return destinations
+
+
+def flatten_subregion_path(parts):
+    """Remove sub-region segments from the path.
+
+    e.g. ['asia', 'middleeast', 'turkey', 'istanbul'] -> ['asia', 'turkey', 'istanbul']
+    Returns (new_parts, old_path_or_None) where old_path is set if a redirect is needed.
+    """
+    if len(parts) < 2:
+        return parts, None
+    prefix = parts[0] + "/" + parts[1]
+    if prefix in SUBREGIONS_TO_FLATTEN:
+        if len(parts) == 2:
+            # This is the sub-region page itself (e.g. asia/middleeast) — skip it
+            return None, None
+        old_path = "/".join(parts)
+        new_parts = [parts[0]] + parts[2:]
+        return new_parts, old_path
+    return parts, None
 
 
 def extract_path_info(filepath):
@@ -430,26 +537,57 @@ def process_file(filepath):
     # Convert to clean markdown
     body = strip_tags(main_content)
 
-    if len(body) < 50:
+    # #8: Skip spam pages (strip_tags returns "" for detected spam)
+    if body == "":
         return None
 
     # Build the final markdown
     path_parts = extract_path_info(filepath)
+
+    # #2: Strip world/ prefix — it's a mirror, use as fallback
+    is_world_mirror = False
+    if path_parts and path_parts[0] == "world":
+        path_parts = path_parts[1:]
+        is_world_mirror = True
+        if not path_parts:
+            return None  # world/ itself, skip
+
+    # #8: Skip junk filenames (random strings, placeholders)
+    # Only check the leaf segment, and not for top-level pages (continents)
+    if len(path_parts) > 1:
+        last_part_check = path_parts[-1]
+        if len(last_part_check) > 15 and not any(c in last_part_check for c in "_- "):
+            return None  # Random string like "fhBrsdPfsB" or "eaczkqugztsvdfqxig"
+
+    # #5: Flatten sub-regions (asia/middleeast/turkey -> asia/turkey)
+    path_parts, old_path = flatten_subregion_path(path_parts)
+    if path_parts is None:
+        return None  # Sub-region page itself, skip
+
     breadcrumb = " > ".join(p.replace("_", " ").title() for p in path_parts)
 
     lines = []
 
-    # Determine type — includes both normalized and legacy section names
+    # Determine type — includes normalized, legacy, and misclassified section names
     SECTION_SLUGS = {
-        "sights", "eating_out", "eatingout", "getting_there", "gettingthere",
-        "getting_around", "gettingaround", "practical_informat", "practicalinformat",
-        "practicalthings", "practicaladdresses", "things_to_do", "thingstodo",
-        "day_trips", "daytrips", "shopping", "beaches", "museums",
-        "nightlife_and_ente", "nightlife", "bars_and_cafes", "barsandcafes",
-        "festivals", "when_to_go", "top_5_must_dos", "activities", "books",
-        "books_1", "people", "budget_travel_idea", "family_travel_idea",
-        "tours_and_excursio", "toursandexcursions", "travel_guide",
-        "7_day_itinerary", "about",
+        "sights", "eating_out", "eatingout", "eating_out_intro",
+        "getting_there", "gettingthere",
+        "getting_around", "gettingaround",
+        "practical_informat", "practicalinformat", "practicalthings", "practicaladdresses",
+        "things_to_do", "thingstodo",
+        "day_trips", "daytrips", "day_trips_intro",
+        "shopping", "beaches", "museums",
+        "nightlife_and_ente", "nightlife", "nightlifeandente",
+        "bars_and_cafes", "barsandcafes",
+        "festivals", "when_to_go", "top_5_must_dos", "activities",
+        "books", "books_1", "books_2",
+        "people", "budget_travel_idea", "family_travel_idea",
+        "tours_and_excursio", "toursandexcursions",
+        "travel_guide", "7_day_itinerary",
+        "about", "health", "food", "history", "restaurants",
+        "usefulladdresses", "drugs",
+        "webcams", "webcams__360_degr",
+        "aperfectdayin",
     }
     last_part = path_parts[-1] if path_parts else ""
     # Check any ancestor — POIs can be nested: .../sights/kingschapel
@@ -457,6 +595,19 @@ def process_file(filepath):
 
     if is_under_section:
         page_type = "poi"
+        # Flatten nested section subdirs: .../sights/tombs/tomb.md -> .../sights/tomb.md
+        # Keep only the first section ancestor and the POI name
+        new_parts = []
+        found_section = False
+        for p in path_parts[:-1]:
+            if p in SECTION_SLUGS and not found_section:
+                found_section = True
+                new_parts.append(p)
+            elif not found_section:
+                new_parts.append(p)
+            # Skip any parts between the section and the POI
+        new_parts.append(path_parts[-1])
+        path_parts = new_parts
     elif last_part in SECTION_SLUGS:
         page_type = "section"
     else:
@@ -464,6 +615,10 @@ def process_file(filepath):
 
     # Frontmatter
     page_title = h1 or title or breadcrumb
+    # Strip "Travel Guide" from titles
+    for suffix in [" Travel Guide", " travel guide", " travelguide"]:
+        if page_title.endswith(suffix):
+            page_title = page_title[:-len(suffix)].strip()
     lines.append("---")
     safe_title = page_title.replace('"', "'")
     lines.append(f'title: "{safe_title}"')
@@ -478,40 +633,62 @@ def process_file(filepath):
     # Strip the h1 and breadcrumb from body — template renders those
     body = re.sub(r"^# " + re.escape(page_title) + r"\s*\n*", "", body)
     body = re.sub(r"^\*[^*]+\*\s*\n*", "", body)
-    # If we have extracted destinations, remove the inline Destinations section
-    # to avoid duplication
-    if destinations:
-        body = re.sub(r"\n## Destinations\n.*", "", body, flags=re.DOTALL)
+    # Always strip inline Destinations sections — the template renders these dynamically
+    body = re.sub(r"\n?## Destinations\s*\n.*", "", body, flags=re.DOTALL)
+    body = re.sub(r"\n?## Top Destinations.*?\n.*", "", body, flags=re.DOTALL)
+    body = re.sub(r"\n?\*\*Show all destinations.*", "", body, flags=re.DOTALL | re.IGNORECASE)
     # Strip the raw property block text from body (we have it in frontmatter now)
     body = re.sub(r"[A-Za-z'\s]+ facts:\s*", "", body)
     body = re.sub(r"World66 rating:.*", "", body)
     body = re.sub(r"Rate now:.*", "", body)
     body = body.strip()
 
+    # Skip POIs with no real content (but always keep locations and sections
+    # so the directory structure and titles are preserved)
+    if len(body) < 50 and page_type == "poi" and not properties:
+        return None
+
     if body:
         lines.append(body)
         lines.append("")
 
-    # Add clean destinations section if found
-    if destinations:
-        lines.append("## Destinations")
-        lines.append("")
-        for dest in destinations:
-            lines.append(f"- [{dest['name']}]({dest['path']})")
-        lines.append("")
+    # Destinations are rendered dynamically by the template from children(),
+    # so we don't include them in the markdown.
 
     markdown = "\n".join(lines)
 
-    # Write output
-    rel_path = os.path.relpath(filepath, RAW_DIR).replace(".html", ".md")
+    # Write output — use flattened path
+    rel_path = "/".join(path_parts) + ".md"
     out_path = os.path.join(CONTENT_DIR, rel_path)
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    # Write logic:
+    # - world/ mirror: only write if file doesn't exist or is smaller
+    # - sub-region merge: append new body to existing
+    # - normal: write
+    if os.path.exists(out_path):
+        existing_size = os.path.getsize(out_path)
+        if is_world_mirror:
+            # Only overwrite if the mirror version is larger
+            if len(markdown) <= existing_size:
+                return None
+        elif old_path:
+            # Merging flattened sub-region — append unique body
+            existing = open(out_path, "r", encoding="utf-8").read()
+            if body and body not in existing:
+                with open(out_path, "a", encoding="utf-8") as f:
+                    f.write("\n" + body + "\n")
+                return {"title": page_title, "path": rel_path, "old_path": old_path,
+                        "destinations": 0, "size": len(markdown)}
+            return None
+
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(markdown)
 
     return {
         "title": page_title,
         "path": rel_path,
+        "old_path": old_path,
         "destinations": len(destinations),
         "size": len(markdown),
     }
@@ -535,6 +712,7 @@ def run_extraction():
     print(f"Found {len(html_files)} HTML files to process")
 
     index = []
+    redirects = {}
     processed = 0
     skipped = 0
 
@@ -543,6 +721,12 @@ def run_extraction():
         if result:
             index.append(result)
             processed += 1
+            # Collect redirects from flattened sub-regions
+            old_path = result.get("old_path")
+            if old_path:
+                new_path = result["path"].replace(".md", "")
+                old_clean = old_path.replace(".html", "")
+                redirects[old_clean] = new_path
         else:
             skipped += 1
 
@@ -551,6 +735,11 @@ def run_extraction():
 
     with open(INDEX_FILE, "w") as f:
         json.dump(index, f, indent=2)
+
+    if redirects:
+        with open(REDIRECTS_FILE, "w") as f:
+            json.dump(redirects, f, indent=2)
+        print(f"  Redirects: {len(redirects)} saved to {REDIRECTS_FILE}")
 
     print(f"\nDone!")
     print(f"  Extracted: {processed} pages")

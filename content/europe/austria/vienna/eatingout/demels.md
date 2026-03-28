@@ -10,13 +10,5 @@ Demels was the bakers to the Imperial Court and boy do they make the best chocol
 
 **Contributors**
 June 03, 2006
-new
-by [goofy_boarder](/member/goofy_boarder)
 
 type: Local
-
-
-
-
-
-[back to Eating Out](..)

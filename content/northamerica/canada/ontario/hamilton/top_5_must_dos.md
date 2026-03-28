@@ -37,5 +37,3 @@ For **sports minded people**, the Canadian Football Hall of Fame is located down
 
 **Contributors**
 January 18, 2010
-change
-by [waterfalls](/member/waterfalls)

@@ -18,5 +18,3 @@ address: S Gravendykwal 115
 tel: +31 (0)10 476 0979
 
 zipcode: 3021EJ
-
-[back to Nightlife and Entertainment](..)

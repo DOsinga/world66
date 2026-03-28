@@ -11,8 +11,6 @@ An Inuit Gallery displaying sculptures and prints from across Canada's arctic. I
 
 **Contributors**
 March 30, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: general
 
@@ -25,5 +23,3 @@ address: 163 Stafford Street Winnipeg SK R3M 2W9
 tel: Tel: 204 475-5873 Toll Free: 1-888-88-INUIT
 
 openingHours: 10:00am
-
-[back to Museums](..)

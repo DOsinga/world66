@@ -12,7 +12,5 @@ By Automobile: From north or south, take I-95 to US 278 (South Carolina Exit 8).
 
 **Contributors**
 October 28, 2005
-change
-by [iszatmary](/member/iszatmary)
 
 type: By Road

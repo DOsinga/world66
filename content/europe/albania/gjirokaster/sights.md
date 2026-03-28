@@ -8,5 +8,3 @@ Picturesque town with traditional houses  Medieval citadel (was converted into 
 We currently have no Sights listed in Gjirokaster.
 
 If you do know any Sights in Gjirokaster, please [Add].
-
--->

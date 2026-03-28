@@ -11,8 +11,6 @@ If you're looking for something out of the ordinary and awesome retro accessorie
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: 323-663-2867
 url: [www.ozziedots.com](http://www.ozziedots.com)
 
 address: 4637 Hollywood Boulevard
-
-[back to Shopping](..)

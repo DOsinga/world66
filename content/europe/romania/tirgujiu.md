@@ -1,8 +1,6 @@
 ---
 title: "Tirgu jiu"
 type: location
-latitude: 45.042295
-longitude: 23.272812
 ---
 
 We currently have no information about Tirgu jiu.

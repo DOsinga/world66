@@ -1,8 +1,6 @@
 ---
 title: "Garni"
 type: location
-latitude: 40.117484
-longitude: 44.734059
 ---
 
 The main reason to come to Grani is the two thousand years old basalt Temple of the Sun. The location of the temple is impressive, with a gorge that is 300 meters deep just below it.

@@ -1,0 +1,4 @@
+---
+title: "Elazig"
+type: location
+---

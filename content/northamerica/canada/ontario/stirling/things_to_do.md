@@ -3,10 +3,6 @@ title: "Things to do"
 type: section
 ---
 
-Orginal article by [metallicpeach](/member/metallicpeach) on 03 August 04
-
-Orginal article by [metallicpeach](/member/metallicpeach) on 03 August 04
-
 **all**
 
 **Haggerty Farms Corn Maze Adventure**
@@ -18,5 +14,3 @@ address: Stirling Ontario
 tel: (613) 395-5115
 
 zipcode: http://www.haggertyfarms.com
-
--->

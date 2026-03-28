@@ -37,5 +37,3 @@ With the right itinerary, Belo Horizonte makes for an exceptional experience whi
 
 **Contributors**
 December 23, 2009
-new
-by [kellyyannne](/member/kellyyannne)

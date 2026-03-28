@@ -4,8 +4,6 @@ type: section
 address: "148 S. Barrington Ave. Los Angeles, 90049"
 phone: "(310) 476-3511"
 type: "American"
-latitude: 34.064616
-longitude: -118.469148
 ---
 
 Brentwood provides an eclectic mix of standard
@@ -13,8 +11,6 @@ and inventive cuisine.
 
 **Contributors**
 November 08, 2006
-new
-by [jhyatt](/member/jhyatt) (1 point)
 
 ### [Brentwood Restaurant & Lounge](/northamerica/unitedstates/california/brentwood/eating_out/brentwood_restaura)
 

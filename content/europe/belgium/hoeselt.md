@@ -1,0 +1,4 @@
+---
+title: "Hoeselt"
+type: location
+---

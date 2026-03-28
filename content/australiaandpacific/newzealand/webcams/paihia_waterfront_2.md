@@ -1,6 +1,6 @@
 ---
 title: "Paihia Waterfront Webcam"
-type: location
+type: poi
 url: "www.takeabreak.co.nz"
 ---
 
@@ -12,5 +12,3 @@ http://www.takeabreak.co.nz/accommodation/paihia.asp
 
 
 url: www.takeabreak.co.nz
-
-[back to Webcams](..)

@@ -1,0 +1,4 @@
+---
+title: "Sopron"
+type: location
+---

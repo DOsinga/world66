@@ -33,5 +33,3 @@ started. A good starting point are the cities along the Neckar River such as Stu
 
 **Contributors**
 March 03, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

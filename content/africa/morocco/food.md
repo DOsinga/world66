@@ -1,12 +1,9 @@
 ---
 title: "Food"
-type: location
-latitude: -6.789491
-longitude: 39.275261
+type: section
 ---
 
-The Moroccan cuisine has a lot more to offer than just couscous. Delicious Tajines, soups, fantatic sweets, and the world famous pigeon pie, Pastilla. It would take us
- way too long to go into the specialities of the country, but here you'll find some useful info on Moroccan cooking. Bon Appetit / Bismillah!
+The Moroccan cuisine has a lot more to offer than just couscous. Delicious Tajines, soups, fantatic sweets, and the world famous pigeon pie, Pastilla. It would take us way too long to go into the specialities of the country, but here you'll find some useful info on Moroccan cooking. Bon Appetit / Bismillah!
 
 **Points of Interest**
 

@@ -1,0 +1,4 @@
+---
+title: "Biskra"
+type: location
+---

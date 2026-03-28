@@ -27,5 +27,3 @@ url: www.visitrabat.com
 address: Kasbahs des Oudadais
 
 email: musee@iam.ma
-
-[back to Museums](..)

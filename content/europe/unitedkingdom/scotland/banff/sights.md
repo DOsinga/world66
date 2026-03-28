@@ -8,8 +8,6 @@ Boyne Castle, hidden away in the trees between Banff and [Portsoy](/europe/unite
 
 **Contributors**
 April 13, 2006
-new
-by [bardofthebroch](/member/bardofthebroch) (2 points)
 
 ### [Boyndlie Visitors Centre](/europe/unitedkingdom/scotland/banff/sights/boyndlie_visitors)
 

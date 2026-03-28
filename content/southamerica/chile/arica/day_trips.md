@@ -9,13 +9,7 @@ If you are in Arica and have some spare time you shouldn't miss a trip to the br
 
 **Contributors**
 May 09, 2006
-new
-by [reto73](/member/reto73) (1 point)
 
 May 10, 2006
-change
-by [giorgio](/member/giorgio)
 
 December 08, 2006
-change
-by [approaching genius](/member/approaching_genius)

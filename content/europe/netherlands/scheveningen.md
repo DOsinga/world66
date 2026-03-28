@@ -1,0 +1,4 @@
+---
+title: "Scheveningen"
+type: location
+---

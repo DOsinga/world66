@@ -7,9 +7,3 @@ type: "Clubs and dancing"
 Great, please go and see for yourself!
 
 type: Clubs and dancing
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

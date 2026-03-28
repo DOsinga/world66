@@ -1,0 +1,4 @@
+---
+title: "Tinos"
+type: location
+---

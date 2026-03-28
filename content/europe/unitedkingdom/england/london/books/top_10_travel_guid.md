@@ -16,5 +16,3 @@ Whether you are traveling first class or on a limited budget, this Eyewitness To
 author: DK ADULT
 
 isbn: 0789483491
-
-[back to Books](..)

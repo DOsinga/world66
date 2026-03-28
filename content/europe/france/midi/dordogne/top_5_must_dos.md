@@ -27,5 +27,3 @@ Great for kids or kids at heart, the corn maze is located in Creysse, near Rocam
 
 **Contributors**
 August 24, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

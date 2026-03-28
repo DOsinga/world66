@@ -8,8 +8,6 @@ Santa Clara maintains a diverse selection of eating establishments.
 
 **Contributors**
 June 13, 2005
-new
-by [hobobrother](/member/hobobrother) (1 point)
 
 ### [University Chicken](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/eating_out/university_chicken)
 

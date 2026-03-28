@@ -1,6 +1,6 @@
 ---
 title: "Century Grill"
-type: location
+type: poi
 type: "general"
 ---
 

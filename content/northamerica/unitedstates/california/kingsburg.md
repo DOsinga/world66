@@ -1,9 +1,9 @@
 ---
-title: "Kingsburg Travel Guide"
+title: "Kingsburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The history of Kingsburg is unique with its single ethnic origin. In the early 1870s,
 news of good farming, warm climate and free government land prompted
@@ -29,7 +29,3 @@ In 1921,
 ninety-four percent of the population within a three-mile radius of
 Kingsburg was Swedish-American, giving the community the nickname of
 "Little Sweden."
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 05:15

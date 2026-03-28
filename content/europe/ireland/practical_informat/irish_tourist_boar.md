@@ -14,5 +14,3 @@ type: Tourist information
 
 
 url: [www.ireland.ie](http://www.ireland.ie)
-
-[back to Practical Information](..)

@@ -34,5 +34,3 @@ url: [www.ultimateworldtrip.com](http://www.ultimateworldtrip.com)
 address: Sacred Pools info by UltimateWorldTrip.com
 
 email: info@ultimateworldtrip.com
-
-[back to Sights](..)

@@ -13,5 +13,3 @@ type: Restaurants
 address: Farmaki street 1, Plaka
 
 tel: 01.32.34.281
-
-[back to Eating Out](..)

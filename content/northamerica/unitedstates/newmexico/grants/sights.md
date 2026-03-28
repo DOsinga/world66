@@ -24,5 +24,3 @@ tel: 505-783-4774
 The oldest inhabited Pueblo; guided tours are available.
 
 tel: 1-800-747-0181
-
--->

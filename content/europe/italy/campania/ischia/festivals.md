@@ -12,8 +12,6 @@ On 14 June and 15 June from beyond Forio all the way to Lacco Ameno there are ov
 
 **Contributors**
 June 22, 2006
-new
-by [karenbru](/member/karenbru) (4 points)
 
 ### La Festa di Sant'Anna
 

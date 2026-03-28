@@ -9,5 +9,3 @@ Buffy's Pub, Cold Beer, Wine & Liquor Store.
 
 **Contributors**
 February 19, 2006
-new
-by [mgreer](/member/mgreer)

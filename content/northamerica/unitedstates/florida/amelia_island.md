@@ -1,16 +1,8 @@
 ---
-title: "Amelia Island Travel Guide"
+title: "Amelia Island"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Amelia Island city in Florida
-
-#### Contributors
-
-November 17, 2011 new by [john haven](/member/john_haven)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 03:26

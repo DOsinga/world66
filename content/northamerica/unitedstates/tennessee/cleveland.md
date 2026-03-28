@@ -11,5 +11,3 @@ Many visitors are drawn to Cleveland because of is its proximity to the Cherokee
 
 **Contributors**
 August 07, 2005
-change
-by [jstephen](/member/jstephen)

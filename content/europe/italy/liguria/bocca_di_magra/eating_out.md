@@ -6,16 +6,12 @@ email: "ciccio@ristoranteciccio.it"
 phone: "+39 0187 65568"
 type: "Italian"
 url: "ristoranteciccio.it"
-latitude: 43.535603
-longitude: 10.321685
 ---
 
 Choices for eating out go from local cuisine being mainly based on fish to crepes or eating a hot dog sittin on the dock o' the bay.
 
 **Contributors**
 February 10, 2006
-new
-by [karenbru](/member/karenbru)
 
 ### [Capannina Ciccio](/europe/italy/liguria/bocca_di_magra/eating_out/capannina_ciccio)
 

@@ -1,0 +1,4 @@
+---
+title: "Eger"
+type: location
+---

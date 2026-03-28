@@ -1,6 +1,6 @@
 ---
 title: "Restaurants"
-type: location
+type: section
 ---
 
 If you like a tasty meal Santa Monica is a perfect place for you. The choice Santa Monica offers is nearly endless and many restaurants are located near the beachfront which also covers the Santa Monica Pier, Ocean Avenue, Pico Boulevard, Downtown and Main Street area. Well known names include: The Pacific Dining Car, El Cholo and Knoll's Black Forest Inn. The food ranges from all-American to vegetarian. There are over 400 restaurants and eateries in Santa Monica.

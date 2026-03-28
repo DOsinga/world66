@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Verona has always had a great tradition for good food. In fact, the local noblemen, right from the very beginning, had achieved great fame for their splendid, convivial hospitality and the meals they knew how to offer during memorable receptions. Nowadays, this tradition is in the hands of the restaurant owners and inn-keepers of the province.

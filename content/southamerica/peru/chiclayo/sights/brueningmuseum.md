@@ -15,8 +15,6 @@ You can get there with a minibus for one sol.
 
 **Contributors**
 May 10, 2006
-change
-by [joosts](/member/joosts) (4 points)
 
 type: Hotspots
 
@@ -33,5 +31,3 @@ tel: +51 074 283977
 email: tumbasdesipan@hotmail.com
 
 url: [www.museosipan.com](http://www.museosipan.com)
-
-[back to Sights](..)

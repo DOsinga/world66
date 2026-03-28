@@ -13,7 +13,3 @@ Dublin on the N7.
 The Luas will whisk you into Dublin City centre in about 20 minutes from here for about €3.50 return.
 
 type: By Road
-
-
-
-[back to Getting There](..)

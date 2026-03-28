@@ -1,0 +1,4 @@
+---
+title: "Bretten"
+type: location
+---

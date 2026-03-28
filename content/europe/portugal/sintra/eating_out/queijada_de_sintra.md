@@ -19,13 +19,5 @@ Source: *Queijadas de Sintra, história de um doce regional*, by Raquel Moreira.
 
 **Contributors**
 July 13, 2005
-new
-by [anarita](/member/anarita) (1 point)
 
 type: Portuguese
-
-
-
-
-
-[back to Eating Out](..)

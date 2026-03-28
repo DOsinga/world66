@@ -22,5 +22,3 @@ url: [www.spacenter.ru](http://www.spacenter.ru/)
 address: 1-st Tverskoy-Yamskoy pereylok, 18/3 (metro Mayakovskaya)
 
 tel: +7095)251-44-92, 251-21-41
-
-[back to Things to do](..)

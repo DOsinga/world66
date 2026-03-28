@@ -49,5 +49,3 @@ url: [www.travel49.com](http://www.travel49.com)
 address: Nelipića b.b
 
 email: info@travel49.com
-
-[back to Day Trips](..)

@@ -41,5 +41,3 @@ tel: 213.765.6800
 url: [www.grammymusuem.org](http://www.grammymusuem.org)
 
 address: 714 W. Olympic Blvd., Ste. 200, Los Angeles, CA 90015 USA
-
-[back to Museums](..)

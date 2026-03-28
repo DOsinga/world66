@@ -20,5 +20,3 @@ tel: 011+572+668+2140
 address: calle 15 norte,6n-37,cali,columbia
 
 email: mail@CaliPlaza.com
-
-[back to Sights](..)

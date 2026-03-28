@@ -10,8 +10,6 @@ Villa Los Aromos (and all the villages around, like La Bolsa or Alta Gracia) can
 
 **Contributors**
 February 25, 2005
-new
-by [almafuerte](/member/almafuerte) (1 point)
 
 ### [Capilla del Monte / Cerro Uritorco](/southamerica/argentina/cordoba/day_trips/capilla_del_monte)
 

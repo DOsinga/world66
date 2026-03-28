@@ -25,8 +25,6 @@ Entry visa to Egypt. **Domestic flights** Cairo / Aswan + Luxor / Cairo. Items w
 
 **Contributors**
 June 17, 2009
-change
-by [worldtravelhub](/member/worldtravelhub)
 
 
 
@@ -37,5 +35,3 @@ tel: 0020101850766
 url: [www.A-1Hotels.com](http://www.A-1Hotels.com)
 
 email: osama.fouad@gmail.com
-
-[back to Day Trips](..)

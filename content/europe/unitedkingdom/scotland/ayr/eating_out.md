@@ -3,16 +3,12 @@ title: "Eating Out in Ayr"
 type: section
 address: "Miller Road Ayr"
 type: "American"
-latitude: 55.45811
-longitude: -4.632161
 ---
 
 Fantastic selection of places to eat out, and because there are so many there seems to be a lot of great deals such as buy one meal get one free and special cheap lunchtime deals.
 
 **Contributors**
 July 23, 2006
-new
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [Millers American Diner](/europe/unitedkingdom/scotland/ayr/eating_out/millers_american_d)
 

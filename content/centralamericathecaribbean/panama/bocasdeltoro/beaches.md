@@ -25,5 +25,3 @@ The beaches of Bocas del Toro vary in size and traveling convenience, but it is 
 
 **Contributors**
 November 23, 2009
-change
-by [luda](/member/luda)

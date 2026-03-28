@@ -5,8 +5,6 @@ address: "Via Milano 40, 24011 Almè, Bergamo"
 phone: "035  634 111"
 type: "Speciality shops"
 url: "www.network-partners.it"
-latitude: 45.741172
-longitude: 9.609943
 ---
 
 Now known as TRS Evolution, it has all kinds of goods: leather goods, men's and women's suits and clothes all from the world famous designer, Trussardi, who was born in Almè and has a gorgeous house in Città Alta looking down over the lower town.
@@ -24,5 +22,3 @@ tel: 035 634 111
 url: [www.network-partners.it](http://www.network-partners.it/index.htm)
 
 address: Via Milano 40, 24011 Almè, Bergamo
-
-[back to Shopping](..)

@@ -27,9 +27,5 @@ Here you can grab something to eat or drink, depending on your mood. If you elec
 
 **Contributors**
 March 10, 2010
-change
-by [shomer](/member/shomer)
 
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

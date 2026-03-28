@@ -1,0 +1,4 @@
+---
+title: "Mykonos"
+type: location
+---

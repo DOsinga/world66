@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Books**
 
 **Gaviotas:A Village to Reinvent the World**
 
@@ -112,5 +112,3 @@ author: Ana Maria Escallon,Fernando Botero (Illustrat..
 isbn: 0847820645
 
 subject: history
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Tranekr"
+type: location
+---

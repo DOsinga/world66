@@ -14,8 +14,6 @@ Typical Hard Rock Cafe food - overpriced, overcooked and half-assed service. If 
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: American
 
@@ -34,5 +32,3 @@ address: Calle 81, #13-05, CC Atlantis Plaza
 PriceOfMenu: Overpriced for what it is
 
 email: eventosbogota@hardrockers.com
-
-[back to Eating Out](..)

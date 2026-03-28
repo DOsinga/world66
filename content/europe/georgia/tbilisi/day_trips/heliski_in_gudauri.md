@@ -36,5 +36,3 @@ url: [travel.info-tbilisi.com](http://travel.info-tbilisi.com)
 address: Info-Tbilisi Travel
 
 email: travel@info-tbilisi.com
-
-[back to Day Trips](..)

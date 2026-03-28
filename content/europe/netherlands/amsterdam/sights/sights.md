@@ -1,8 +1,6 @@
 ---
 title: "Sights"
 type: poi
-latitude: 50.847517
-longitude: 5.693056
 ---
 
 Amsterdam is home to some of the most beautiful sights in Europe. The canals that flow through the city give it great character and style and the museums are renowned all over the world. 
@@ -22,5 +20,3 @@ If time permits take a look a Rembrandt’s house near the Waterlooplein (the ar
 [Historic Buildings](/europe/netherlands/amsterdam/sights?subsection=Historic%20Buildings)
 
 [Churches and Cathedrals](/europe/netherlands/amsterdam/sights?subsection=Churches%20and%20Cathedrals)
-
--->

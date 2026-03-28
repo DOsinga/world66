@@ -10,7 +10,3 @@ connection: U7 Kleistpark
 address: Crellestr. 41
 
 tel: +49 (0)30 - 781 85 19
-
-[back to Eating Out](..)
-
--->

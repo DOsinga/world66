@@ -23,9 +23,7 @@ Enclosed by the old town-walls Ibiza's historical center is located at the top o
 
 **Cathedral **
 
-The cathedral, which is at night the center of Ibiza’s gay extravaganza, is dedicated to the Virgin Mary. Building began in the 14th century and continued fro two centuries. The mayor part of the present day church however dates back to a severe restoration in the 18th century after Spanish troops took over the island. Thus there are two styles to be recognized, the Catalan-Gothic style from the first building campaign, which can mainly be seen in the tower and the Baroque style of the nave. [more..](/europe/spain/balearicislands/ibiza/ibizatown/sights/cathedral)
-
-address: Dalt Vila
+The cathedral, which is at night the center of Ibiza’s gay extravaganza, is dedicated to the Virgin Mary. Building began in the 14th century and continued fro two centuries. The mayor part of the present day church however dates address: Dalt Vila
 
 **Archaeological Museum **
 
@@ -42,5 +40,3 @@ A unique museum on top of the Punic necropolis Puig de Molins. This is probably 
 address: Via Romana
 
 openings: 16.00 - 19.00h
-
--->

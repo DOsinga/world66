@@ -13,5 +13,3 @@ type: Italian
 address: 2142 Pennsylvania Ave NW
 
 tel: (202)338-3000
-
-[back to Eating Out](..)

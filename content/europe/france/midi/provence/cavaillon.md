@@ -1,0 +1,4 @@
+---
+title: "Cavaillon"
+type: location
+---

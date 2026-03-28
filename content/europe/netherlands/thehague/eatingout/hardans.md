@@ -7,8 +7,6 @@ phone: "2513BC  Den Haag, 070 360 0271"
 price: "19.75"
 type: "European"
 url: "www.hardans.com"
-latitude: 48.740234
-longitude: 9.101849
 ---
 
 Located in an old wine cellar this is a very nice place to go to, right in the center. Park your car in the "Torengarage" just a 100 mtrs away.
@@ -17,7 +15,5 @@ A beautifull romantic restaurant with good quality diner for a friendly price, p
 
 **Contributors**
 August 05, 2005
-change
-by [reen](/member/reen)
 
 type: European

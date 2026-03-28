@@ -1,7 +1,9 @@
 ---
-title: "Monferrato Travel Guide"
+title: "Monferrato"
 type: location
 ---
+
+Travel Guide
 
 Monferrato's primarily hilly terrain is known throughout the world for its many and wonderful wines. Spanning across a vast area of the province of Turin on the southeast and Cuneo on the northeast.
 The rich land, products, agreeable climate and invidious position have historically spurred feuds and the development of "signorie" since the middle ages. The many fortified castles are a constant reminder of this. These castles are surrounded by small villages which offer the unique products of the land, most of which have been cultivated in the old fashion sense. Along with Asti and Alessandria, rich in cultural heritage and monuments, it's worthy to visit the lively wine cellars of the area which offer some of the finest wines in the world. Also explore the town of Acqui Teme, well known since the Roman era for its thermal spas. Or see Valenza, famous for its gold factories.

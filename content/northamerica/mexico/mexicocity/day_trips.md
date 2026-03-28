@@ -10,8 +10,6 @@ City's bus stations. Some of them do deserve an overnight visit though.
 
 **Contributors**
 January 11, 2007
-new
-by [out of the grey](/member/out_of_the_grey) (2 points)
 
 ### [Taxco](/northamerica/mexico/mexicocity/day_trips/taxco)
 

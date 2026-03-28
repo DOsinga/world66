@@ -1,0 +1,4 @@
+---
+title: "Tupelo"
+type: location
+---

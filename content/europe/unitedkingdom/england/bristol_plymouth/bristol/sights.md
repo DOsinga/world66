@@ -20,5 +20,3 @@ Famous sites to be found in and around Bristol:
 The Cabot Tower is one [more..](/europe/unitedkingdom/england/bristol_plymouth/bristol/sights/cabottower)
 
 openinghours: N/A
-
--->

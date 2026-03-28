@@ -22,9 +22,5 @@ train and bus links before booking.
 
 **Contributors**
 August 22, 2005
-change
-by [andreab](/member/andreab)
 
 August 23, 2005
-change
-by [giorgio](/member/giorgio)

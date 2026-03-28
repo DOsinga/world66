@@ -172,5 +172,3 @@ Areas of expertise include:
 tel: 1-800-387-6787
 
 url: [www.pacificwesterntoronto.com](http://www.pacificwesterntoronto.com/index.htm)
-
-[back to Getting Around](..)

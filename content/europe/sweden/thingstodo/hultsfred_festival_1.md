@@ -14,5 +14,3 @@ type: Other
 
 
 url: [www.rockparty.se](http://www.rockparty.se)
-
-[back to Things to do](..)

@@ -13,5 +13,3 @@ type: Cathedral & Churches
 address: Velazquez Tetuan 11
 
 open: Daily 10 a.m to 5 p.m.
-
-[back to Sights](..)

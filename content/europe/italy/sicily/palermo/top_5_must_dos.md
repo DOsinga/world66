@@ -31,5 +31,3 @@ The Catacombs of the Capuchins are the one thing you simply cannot afford to mis
 
 **Contributors**
 February 10, 2010
-new
-by [sameera kumar](/member/sameera_kumar)

@@ -11,8 +11,6 @@ In October 1999 whilst celebrating 75-year jubilee his Excellency, the President
 
 **Contributors**
 April 18, 2006
-new
-by [azerbaijan08](/member/azerbaijan08) (4 points)
 
 
 
@@ -21,5 +19,3 @@ by [azerbaijan08](/member/azerbaijan08) (4 points)
 tel: Telephone 5-80-39
 
 address: Address: Khan house, Nakhchivan city
-
-[back to Museums](..)

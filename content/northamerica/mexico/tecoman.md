@@ -1,8 +1,6 @@
 ---
 title: "Tecoman"
 type: location
-latitude: 18.903117
-longitude: -103.846273
 ---
 
 We currently have no information about Tecoman.

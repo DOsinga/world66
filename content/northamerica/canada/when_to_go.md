@@ -58,9 +58,5 @@ long underwear to keep your body warm.
 
 **Contributors**
 April 14, 2010
-new
-by [amymc](/member/amymc)
 
 April 16, 2010
-change
-by [2 many commas](/member/2_many_commas)

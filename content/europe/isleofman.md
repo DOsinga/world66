@@ -1,8 +1,6 @@
 ---
 title: "Isle of Man"
 type: location
-latitude: 54.235921
-longitude: -4.514767
 ---
 
 The [The Isle of Man](/europe/unitedkingdom/manisleof) is not part of the UK, has no Queen (Elizabeth II is "Lord of Mann") and is not subject to the laws of the British parliament or British taxation.

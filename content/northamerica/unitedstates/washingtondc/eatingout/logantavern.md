@@ -30,5 +30,3 @@ PriceOfMenu: Entrees $12-24
 priceofmenu: Entrees $12-24
 
 url: [www.logantavern.com](http://www.logantavern.com)
-
-[back to Eating Out](..)

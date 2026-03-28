@@ -10,8 +10,6 @@ South Beach features excellent swimming conditions, numerous walking trails, vol
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Going to the Beach
 
@@ -20,5 +18,3 @@ type: Going to the Beach
 tel: 305-673-7714
 
 url: [www.miamiandbeaches.com](http://www.miamiandbeaches.com)
-
-[back to Things to do](..)

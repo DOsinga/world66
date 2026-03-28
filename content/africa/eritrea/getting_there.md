@@ -3,22 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+"/>
 
-Eritrea has no national airline. *Ethiopian Airlines (ET)* operates daily flights from Addis Ababa twice-weekly from Frankfurt Jeddah and Rome and three times a week from Riyadh and London. *Lufthansa (LH)* flies from Frankfurt/M and Cairo*. *Flights from Europe and the USA can be booked through Ericommerce International Ltd Robin House 2a Iverson Road London NW6 2HE. Tel: (0171) 372 7242. Fax: (0171) 624 6716.
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-Approximate flight times
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-From Asmara to *London* is 7 hours and to *Addis Ababa* is 1 hour.
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-International airport:
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-*Asmara* *(ASM)* is 6km (4 miles) from the city. Buses and taxis are available to the city centre. Airport facilities include left luggage (0800-1200 and 1400-1700) bank/bureau de change (0300-1500 and during scheduled flights) post office (0800-1200 and 1400-1700) bars duty-free shop and restaurants (0300-1500 and during scheduled flights).
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-Departure tax
-
-US$12.
-
-Sea
-
-Regular sailings between European ports and Massawa or Assab on regional shipping lines. Parts of the important port of Massawa were destroyed during the war for independence.
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

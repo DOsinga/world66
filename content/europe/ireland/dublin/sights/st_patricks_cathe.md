@@ -10,13 +10,5 @@ Inside you'll find statues of numerous famous Irish.
 
 **Contributors**
 March 09, 2005
-new
-by [hpharmsen](/member/hpharmsen) (1 point)
 
 type: Churches and Cathedrals
-
-
-
-
-
-[back to Sights](..)

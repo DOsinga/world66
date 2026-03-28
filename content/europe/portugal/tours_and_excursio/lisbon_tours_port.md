@@ -20,5 +20,3 @@ url: [www.lisboasightseeing.com](http://www.lisboasightseeing.com)
 address: rua Pascoal de Melo, 3, 5-6
 
 email: ad@lisboasightseeing.com
-
-[back to Tours and Excursions](..)

@@ -1,0 +1,4 @@
+---
+title: "Ajijic"
+type: location
+---

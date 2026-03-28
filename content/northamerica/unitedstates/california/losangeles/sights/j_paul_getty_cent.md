@@ -14,8 +14,6 @@ The J. Paul Getty Center (or just “Getty Center”) features spectacular groun
 
 **Contributors**
 May 20, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -32,5 +30,3 @@ url: [www.getty.edu](http://www.getty.edu)
 address: 1200 Getty Center Drive, Los Angeles
 
 email: visitorservices@getty.edu
-
-[back to Sights](..)

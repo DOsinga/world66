@@ -14,11 +14,5 @@ There are also the occasional "pleasure steamers" which traverse the length of t
 
 **Contributors**
 August 04, 2005
-new
-by [riccardo](/member/riccardo)
 
 type: By Sea
-
-
-
-[back to Getting There](..)

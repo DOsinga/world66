@@ -1,9 +1,9 @@
 ---
-title: "Nkob Travel Guide"
+title: "Nkob"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Nkob is a small village located 160km south of Ouarzazate, on the
 national road 108 heading Rissani in Sahara Desert, after passing
@@ -20,11 +20,3 @@ Nkob is surrounded by the Saghrou Mountains and by
 This is a special place that is
 worth passing by after Ouarzazate and on the way to Sahara Desert in Erg
 Chebbi Dunes.
-
-#### Contributors
-
-April 24, 2010 new by [joaoleitao](/member/joaoleitao)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 23:11

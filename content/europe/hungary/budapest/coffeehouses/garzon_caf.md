@@ -19,5 +19,3 @@ olives on the table. HIGHLY RECOMENDED!
 url: [www.garzoncafe.com](http://www.garzoncafe.com)
 
 address: 1075 Budapest, Wesselényi str. 24.
-
-[back to Coffee houses](..)

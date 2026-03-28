@@ -8,11 +8,5 @@ If you are already in Santiago, you can take the metro to the station called "Un
 
 **Contributors**
 November 07, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Road
-
-
-
-[back to Getting There](..)

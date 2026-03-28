@@ -22,5 +22,3 @@ Spring break is probably the biggest tourist season for Cancun and will have the
 
 **Contributors**
 October 14, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

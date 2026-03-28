@@ -15,8 +15,6 @@ Amir is a very special place. As I got there, I felt myself in a "Arabian Nights
 
 **Contributors**
 November 20, 2007
-new
-by [marcos.cintra80](/member/marcos.cintra80) (1 point)
 
 type: International
 
@@ -31,5 +29,3 @@ url: www.amirrestaurante.com.br
 address: R. Ronald de Carvalho 55
 
 email:
-
-[back to Eating Out](..)

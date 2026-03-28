@@ -9,9 +9,4 @@ The islands are so beautiful in their whole coastline that there are few specifi
 
 On the main island the Postal Museum at Eckerö is worth seeing but the main exception to the lack of specific 'mustsees' is surely **Kastelholm.** This is not only the sight of the very substantial ruins of a castle but also has a very pleasing and free Open Air Museum and a [not free] prison museum.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 15 June 04
-
-Minor corrections by [davidx](/member/davidx) on 20 June 04
-
--->
+Minor corrections on 20 June 04

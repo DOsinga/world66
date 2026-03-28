@@ -7,5 +7,3 @@ Visiting Niagara on the Lake is easy, when visiting the Niagara on the Lake Cham
 
 **Contributors**
 January 30, 2006
-new
-by [allamericanbear](/member/allamericanbear)

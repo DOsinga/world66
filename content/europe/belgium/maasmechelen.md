@@ -1,0 +1,4 @@
+---
+title: "Maasmechelen"
+type: location
+---

@@ -4,8 +4,6 @@ type: poi
 address: "merzouga"
 email: "moroccan.desert.trips@gmail.com"
 url: "www.moroccandeserttrips.com"
-latitude: 31.099917
-longitude: -4.014088
 ---
 
 welcome to morocco
@@ -22,5 +20,3 @@ url: [www.moroccandeserttrips.com](http://www.moroccandeserttrips.com)
 address: merzouga
 
 email: moroccan.desert.trips@gmail.com
-
-[back to Day Trips](..)

@@ -17,5 +17,3 @@ type: Italian
 address: 209 Gorman Ave.
 
 tel: (301)498-5100.
-
-[back to Eating Out](..)

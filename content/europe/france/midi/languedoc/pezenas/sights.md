@@ -53,5 +53,3 @@ is no admission fee and the center is open throughout the year.
 
 **Contributors**
 February 16, 2010
-new
-by [jenna storm](/member/jenna_storm)

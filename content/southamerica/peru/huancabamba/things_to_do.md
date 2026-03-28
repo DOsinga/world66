@@ -9,5 +9,3 @@ to the mountains, where the best ones live. Ask around in the city where to look
 
 **Contributors**
 June 23, 2006
-new
-by [joosts](/member/joosts) (2 points)

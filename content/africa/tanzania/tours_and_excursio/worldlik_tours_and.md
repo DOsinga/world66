@@ -5,8 +5,6 @@ address: "3rd Parklands Highridge"
 email: "safaris@worldlinksafaris.com"
 phone: "+254 3750174"
 url: "www.wordlinksafaris.com"
-latitude: -1.261421
-longitude: 36.821495
 ---
 
 Normal
@@ -22,7 +20,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Tanzania
 has an overwhelming variety of safari options and making a choice on where to
@@ -51,5 +49,3 @@ url: [www.wordlinksafaris.com](http://www.wordlinksafaris.com)
 address: 3rd Parklands Highridge
 
 email: safaris@worldlinksafaris.com
-
-[back to Tours and Excursions](..)

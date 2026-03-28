@@ -12,12 +12,8 @@ Manaus also offers Eco Tours to National park of the Jaú (Parque Nacional do Ja
 
 **Contributors**
 July 06, 2006
-change
-by [giorgio](/member/giorgio)
 
 July 07, 2006
-change
-by [paulheinrich](/member/paulheinrich)
 
 type: Trekking
 
@@ -27,10 +23,6 @@ type: Trekking
 
 tel: 55-(92) xx 3082 4732
 
-url: [wikitravel.org](http://wikitravel.org/en/Manaus)
-
 address: Rua dos Andrade 464, first floor, Manaus-Center
 
 email: eco-discovery@bol.com.br
-
-[back to Things to do](..)

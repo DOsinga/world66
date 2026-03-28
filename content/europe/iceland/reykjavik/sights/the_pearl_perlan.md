@@ -14,8 +14,6 @@ Located on Oskjuhlid hill, this landmark offers the best view of the city. On to
 
 **Contributors**
 May 28, 2007
-new
-by [filminfo](/member/filminfo)
 
 type: Landmarks
 
@@ -34,5 +32,3 @@ url: [www.perlan.is](http://www.perlan.is/)
 address: Oskjuhlid hill
 
 email: perlan@perlan.is
-
-[back to Sights](..)

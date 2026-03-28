@@ -19,5 +19,3 @@ I usually avoid the first person on this site but here I am speaking from my own
 
 **Contributors**
 October 14, 2005
-new
-by [davidx](/member/davidx)

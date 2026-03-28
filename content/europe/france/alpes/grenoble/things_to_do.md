@@ -23,5 +23,3 @@ This palace is known for being one of the most beautiful historic buildings in G
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

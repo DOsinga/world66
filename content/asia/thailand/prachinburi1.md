@@ -1,0 +1,4 @@
+---
+title: "Prachinburi"
+type: location
+---

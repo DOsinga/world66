@@ -8,13 +8,5 @@ This serves somewhat as Cleveland's central park. The land for the park was dona
 
 **Contributors**
 April 08, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Parks, Gardens and Zoos
-
-
-
-
-
-[back to Sights](..)

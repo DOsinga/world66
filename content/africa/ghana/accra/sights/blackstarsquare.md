@@ -8,11 +8,7 @@ Memorial to three Ghanaians who were shot during colonial times. At national hol
 
 **Contributors**
 February 22, 2005
-change
-by [obsidian](/member/obsidian)
 
 July 29, 2005
-change
-by [ragna](/member/ragna)
 
 type: Memorials

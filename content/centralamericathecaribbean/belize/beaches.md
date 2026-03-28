@@ -27,5 +27,3 @@ Prior to booking your trip to Belize City make sure you look into the beach acce
 
 **Contributors**
 May 05, 2010
-new
-by [kristi_p](/member/kristi_p)

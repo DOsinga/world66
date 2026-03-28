@@ -12,5 +12,3 @@ type: Tourist information
 
 
 url: [www.barcelonaconnect.com](http://www.barcelonaconnect.com)
-
-[back to Practical Information](..)

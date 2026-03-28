@@ -1,0 +1,4 @@
+---
+title: "Winchester"
+type: location
+---

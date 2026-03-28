@@ -1,8 +1,6 @@
 ---
 title: "Las Medulas"
 type: location
-latitude: 42.454439
-longitude: -6.762921
 ---
 
 Las Medulas , the
@@ -16,11 +14,4 @@ ancient technology are everywhere visible, in the form of sheer faces
 in the mountainsides and vast areas of tailings, now in use for
 agriculture.
 
-**Contributors**
-March 11, 2005
-change
-by [giorgio](/member/giorgio) (2 points)
-
-March 10, 2005
-change
-by [euroadventures](/member/euroadventures) (1 point)
+Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05

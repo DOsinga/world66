@@ -39,9 +39,5 @@ Faro's climate is warm and mild. During the winter months the weather can get qu
 
 **Contributors**
 January 26, 2010
-change
-by [nam](/member/nam)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

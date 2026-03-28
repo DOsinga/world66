@@ -12,8 +12,6 @@ Discover untouched waterfalls and communities of real life. Experience mule trek
 
 **Contributors**
 September 22, 2009
-change
-by [godofthunder1982](/member/godofthunder1982)
 
 type: Hiking
 
@@ -26,5 +24,3 @@ url: [www.trekmorocco.com](http://www.trekmorocco.com)
 address: douar ait souka asni imlil /high atlas mountains morocco
 
 email: atlasguidemorocco@yahoo.fr
-
-[back to Things to do](..)

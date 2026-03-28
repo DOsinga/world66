@@ -10,13 +10,3 @@ The beautiful [Churches](/europe/france/paris/sights/churches) among them the No
 The famous [Landmarks](/europe/france/paris/sights/landmarks) such as the Eiffel Tower or the Arc de Triomphe are absolute highlights npo traveler would want to miss. 
 
 If you are a bit tired of all that you can relax in one of the many parks .
-
-## Subsections
-
-[Churches](/europe/france/paris/sights/churches)
-[Landmarks](/europe/france/paris/sights/landmarks)
-
-[Museums](/europe/france/paris/sights/museums)
-[Parks, Gardens & Zoos](/europe/france/paris/sights/parksgardenszoos)
-
-[Squares](/europe/france/paris/sights/squares)

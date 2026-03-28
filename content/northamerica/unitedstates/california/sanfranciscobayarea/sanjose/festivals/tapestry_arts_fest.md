@@ -31,5 +31,3 @@ date: Labor Day weekend
 address: Park Avenue, Almaden Boulevard, San Fernando Street, in downtown San Jose
 
 email: info@tapestryarts.org
-
-[back to Festivals](..)

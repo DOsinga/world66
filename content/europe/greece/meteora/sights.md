@@ -3,16 +3,12 @@ title: "Sights in Meteora"
 type: section
 address: "Meteora"
 type: "Monasteries"
-latitude: 39.721905
-longitude: 21.632232
 ---
 
 Now there are six monasteries that could be visited in Meteora: **Moni Megalou Meteorou** (Grand Meteora), **Agia Triada** (Holy Trinity), **Moni Varlaam** (Varlaam Monastery), **Moni Agias Varvaras Rousanou**, **Moni Agiou Nikolaou Anapafsa** (Saint Nikolas) and **Moni Agiou Stefanou** (Saint Stephan).
 
 **Contributors**
 July 05, 2006
-new
-by [svetico](/member/svetico) (4 points)
 
 ### [Moni Agiou Nikolaou Anapafsa (Saint Nikolas)](/europe/greece/meteora/sights/moni_agiou_nikolao)
 
@@ -34,9 +30,7 @@ Moni Megalou Meteorou, or Grand Meteora is the biggest and the best known of the
 
 **Going there.
 **Some buses from **Trikala** run to Megalou Meteorou (via Kastraki).
-You may go to Megalou Meteorou by foot. From Kastraki village follow main the road. You will pass [Moni Agiou Nikolaou](/europe/greece/meteora/sights/moni_agiou_nikolao) (visit it and return back to the road). A bit further the road begins to wind. Look out for a white chevron road sign on the bend. Right there turn left onto a cobbled path. When [more..](/europe/greece/meteora/sights/moni_megalou_meteo)
-
-type: Monasteries
+You may go to Megalou Meteorou by foot. From Kastraki village follow main the road. You will pass [Moni Agiou Nikolaou](/europe/greece/meteora/sights/moni_agiou_nikolao) (visit it and return type: Monasteries
 
 
 

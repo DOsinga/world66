@@ -47,5 +47,3 @@ Run on a Sunday morning is the huge car boot market at the Plaza de Toros bullri
 
 **Contributors**
 November 19, 2009
-new
-by [nicola76](/member/nicola76)

@@ -21,5 +21,3 @@ tel: +255715452009
 accessibility: all means of Transport, taxi, DalaDala, Bajaji etc
 
 email: suncirro@gmail.com
-
-[back to Nightlife and Entertainment](..)

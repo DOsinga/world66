@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 If you want to eat it, chances are you can find it in Florida. Local specialties vary from region to region; Jacksonville is known for barbeque, Miami for (what else?) fine Cuban cuisine. Ethnic cuisines of all kinds can be found throughout the state, including good ol' Southern cuisine in the northern part of the state. Seafood, however, is king.

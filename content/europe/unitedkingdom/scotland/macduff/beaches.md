@@ -7,5 +7,3 @@ Nice beach at the mouth of the Deveron river when the tide is out. Very secluded
 
 **Contributors**
 February 07, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)

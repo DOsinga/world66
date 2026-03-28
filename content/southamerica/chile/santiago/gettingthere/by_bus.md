@@ -22,13 +22,5 @@ Andes crossing is about 5 hours and about US$20.00.
 
 **Contributors**
 April 26, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: By Road
-
-
-
-
-
-[back to Getting There](..)

@@ -9,8 +9,6 @@ Want to know what to do today? Do you like art? Dancing? Live music? A self-serv
 
 **Contributors**
 October 04, 2005
-new
-by [karenbru](/member/karenbru)
 
 type: Tourist information
 
@@ -19,5 +17,3 @@ type: Tourist information
 
 
 url: [www.goinbergamo.it](http://www.goinbergamo.it/GoInBergamo/GoInBergamo.nsf/index?openform)
-
-[back to Practical Information](..)

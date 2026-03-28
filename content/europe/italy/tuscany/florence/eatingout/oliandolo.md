@@ -10,5 +10,3 @@ address: Via Ricasoli, 38-40R
 openinghours: Open for lunch only; closed Sunday
 
 tel: +39 (0)55-211-296
-
--->

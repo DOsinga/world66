@@ -7,9 +7,3 @@ type: "Churches"
 Note the colonial altars in the Church of San Francisco.
 
 type: Churches
-
-
-
-
-
-[back to Sights](..)

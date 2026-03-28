@@ -1,8 +1,6 @@
 ---
 title: "Paradise Beach"
 type: poi
-latitude: 37.410062
-longitude: 25.355705
 ---
 
 Located 5km south of Mykonos Town, Paradise Beach is the place to be

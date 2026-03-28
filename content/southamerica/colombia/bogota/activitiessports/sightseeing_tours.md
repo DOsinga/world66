@@ -12,13 +12,5 @@ I hope this info is usefull to all prospective Bogota tourists!!
 
 **Contributors**
 June 04, 2008
-new
-by [cristitoro](/member/cristitoro) (1 point)
 
 type: Other
-
-
-
-
-
-[back to Things to do](..)

@@ -1,9 +1,9 @@
 ---
-title: "Brawley Travel Guide"
+title: "Brawley"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located in the southeast corner of California and just 10 miles from
 our Brawley, CA hotel, the Salton Sea is actually a lake which occupies
@@ -15,7 +15,3 @@ Imperial Valley agricultural region in a band averaging five miles in
 width. Off-highway vehicle activity is permitted on more than
 two-thirds of the sand dunes. One of the most popular areas is Glamis,
 located just south of State Highway 78.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 23:39

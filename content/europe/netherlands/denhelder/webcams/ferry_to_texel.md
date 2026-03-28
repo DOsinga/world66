@@ -1,6 +1,6 @@
 ---
 title: "Ferry Den Helder - Texel"
-type: location
+type: poi
 url: "www.landsend.nl"
 ---
 
@@ -12,7 +12,4 @@ The streaming cam is online from 6 am to 9 pm. **
 By clicking the url link below the cam will be started from the Hotel page *(don't pay to much attention to the outmoded page design... the cam is ok!)*
 *Internet Explorer ONLY !*
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 09 April 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 09 April 05
+Minor corrections on 09 April 05

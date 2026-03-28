@@ -8,7 +8,5 @@ Another district that have a lot of clubs, include also Brigadeiro Faria Lima an
 
 **Contributors**
 November 27, 2005
-change
-by [tumonis](/member/tumonis)
 
 type: Clubs and dancing

@@ -9,13 +9,9 @@ Hiking in the Province of Bergamo is very popular and there are many old towns t
 
 **Contributors**
 May 30, 2005
-change
-by [karenbru](/member/karenbru) (2 points)
 
 type: Tourist information
 
 
 
 url: [www.brembana.info](http://www.brembana.info/trekking)
-
-[back to Practical Information](..)

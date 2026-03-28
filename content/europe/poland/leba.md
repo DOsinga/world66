@@ -1,0 +1,4 @@
+---
+title: "Leba"
+type: location
+---

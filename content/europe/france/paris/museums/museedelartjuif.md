@@ -14,5 +14,3 @@ openings: daily from 3-6pm, except Fri and Sat, closed in Aug and Jewish holiday
 tel: 01 42 57 84 15
 
 connctions: Metro Lamarck-Caulaincourt (line 12)
-
--->

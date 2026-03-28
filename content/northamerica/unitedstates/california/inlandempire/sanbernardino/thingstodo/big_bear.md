@@ -14,5 +14,3 @@ type: Other
 
 
 url: [www.bigbearinfo.com](http://www.bigbearinfo.com/)
-
-[back to Things to do](..)

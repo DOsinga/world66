@@ -64,8 +64,6 @@ Around 65 per cent of daily calories are derived from starchy foods – matooke 
 
 **Contributors**
 August 03, 2007
-change
-by [jamalv](/member/jamalv)
 
 type: African
 
@@ -76,5 +74,3 @@ type: African
 address: cafe Viva is opp City Sq, next to Crane Bank
 
 email: jamalv@yahoo.com
-
-[back to Eating Out](..)

@@ -10,5 +10,3 @@ New Museum on the history of the former town of Panamá la Vieja, near the ruins
 closed on Monday 
 
 http://www.panamaviejo.org/
-
--->

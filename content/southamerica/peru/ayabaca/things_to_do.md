@@ -11,8 +11,6 @@ The main attraction on the Plaza Central is the church housing the Señor Cautiv
 
 **Contributors**
 May 19, 2006
-new
-by [joosts](/member/joosts)
 
 ### [Museo de Ayavaca](/southamerica/peru/ayabaca/things_to_do/museo_de_ayavaca)
 

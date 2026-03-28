@@ -39,9 +39,5 @@ This event in December exhibits beautiful Christmas decoration. Tourists can als
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

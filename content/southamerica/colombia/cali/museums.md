@@ -31,5 +31,3 @@ then you should check out the Museo Religioso y Colonial de San Francisco. Those
 
 **Contributors**
 November 16, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

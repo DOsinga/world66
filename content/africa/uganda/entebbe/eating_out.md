@@ -5,8 +5,6 @@ address: "Entebbe"
 email: "abyssinia.cottage@gmail.com"
 phone: "+256752241889"
 type: "Ethiopian"
-latitude: 0.061171
-longitude: 32.469856
 ---
 
 Entebbe has many restaurants which shall appease the grumbling stomachs of weary western travellers. One such restaurant is the yet undiscoverd pearl is Gorreti's Beach side Grill and Pizzaria. Situated on the beach of Lake Victoria across from Anderitas Hotel it is unmistakable by its large wood fired oven and cozy decor under a grass caban. One can order fresh barbequed Tilapia, Kabobs or Fire baked pizza at any time of day. Prices range from $6-$10.00 usd for a meal your choice of soda, Wine or a cold Nile Special. Gorreti's Pizzaria and Grill is a proud supporter of Bweya Children's Orphanage, providing food and funding to the home.

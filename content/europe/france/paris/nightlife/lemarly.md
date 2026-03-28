@@ -17,5 +17,3 @@ type: Bars & Pubs
 address: inside the Louvre museum
 
 tel: 49 26 06 60
-
-[back to Nightlife and Entertainment](..)

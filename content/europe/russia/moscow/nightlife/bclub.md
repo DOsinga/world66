@@ -25,5 +25,3 @@ url: [www.b-club.biz](http://www.b-club.biz)
 address: Strastnoy bylvar, 8a
 
 tel: +7(095)205-45-56
-
-[back to Nightlife and Entertainment](..)

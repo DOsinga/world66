@@ -52,5 +52,3 @@ url: [www.yonamotions.com](http://www.yonamotions.com)
 address: YONA Motions
 
 email: info@yonamotions.com
-
-[back to Tours and Excursions](..)

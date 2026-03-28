@@ -24,6 +24,3 @@ Probably the smallest pub in Durham and just a short walk from the Cathedral - w
 (Corner of Hawthorn Terrace, Durham, County Durham, DH1 4EL)
 
 The self-styled 'most bohemian pub in Durham'. A beautiful original bar and some of the cheapest beer in England.
-
-*Change history*
-Orginal article by [hudson](/member/hudson) on 13 March 05

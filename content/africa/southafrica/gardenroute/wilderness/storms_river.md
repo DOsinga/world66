@@ -1,12 +1,8 @@
 ---
-title: "Storms River Travel Guide"
+title: "Storms River"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Storms river is a small village, on the east edge of the Garden Route. The town is known to be the adventure capital of South Africa.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 09:56

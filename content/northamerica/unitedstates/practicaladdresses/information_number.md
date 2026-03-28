@@ -10,7 +10,3 @@ Normally, fees are associated with calling 411, but callers can obtain
 the same information for free via 1-800-Free411.
 
 type: Tourist information
-
-
-
-[back to Practical Information](..)

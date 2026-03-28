@@ -19,15 +19,15 @@ subject: travel
 
 **Senegal**
 
+Help!
 
+If you work for an NGO, South Africa has animals to give to Senegal but there is obviously far more to it than saying thanks and taking them. I wish to coordinate an effort between The Government and NGOs to make this happen.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1564405559/ref=ase_osingacom?v=glance&s=books)
+Please contact me on colvintooke@hotmail.com if you [more..](/africa/senegal/books/senegal)
 
-author: Christa Mang
+[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
 
-isbn: 1564405559
-
-subject: travel
+author: Colvin tooke
 
 **Meet Me in West Africa**
 
@@ -43,7 +43,7 @@ subject: travel
 
 **Democracy in Translation:Understanding Politics in an Unfamiliar Culture**
 
-
+Beautiful Senegal
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/0801433983/ref=ase_osingacom?v=glance&s=books)
 
@@ -79,13 +79,13 @@ subject: culture
 
 **The Gambia and Senegal**
 
+Senegal
 
+Niokolo Koba Simenti
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425937/ref=ase_osingacom?v=glance&s=books)
+It started in 2000, when I visited Niokolo Koba and at that time, Hotel Simenti was run down. I thought then, that it was a place of paradise, as a retreat from all the pressures of life, and concentrate the mind on things natural, and things that actually mat [more..](/africa/senegal/books/thegambiaandsenegal)
 
-author: David Else
-
-isbn: 0864425937
+[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
 
 subject: history
 

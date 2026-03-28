@@ -72,5 +72,3 @@ get going until 1 or 2 AM.
 
 **Contributors**
 April 02, 2010
-change
-by [stolsen](/member/stolsen)

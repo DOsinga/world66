@@ -26,5 +26,3 @@ type: general
 
 
 url: [saranda.8m.com](http://saranda.8m.com/butrint.html)
-
-[back to Tours and Excursions](..)

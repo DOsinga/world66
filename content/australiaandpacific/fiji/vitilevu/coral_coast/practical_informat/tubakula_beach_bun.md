@@ -21,5 +21,3 @@ url: [www.Fiji4Less.com](http://www.Fiji4Less.com)
 address: Queen's Highway, Korotogo
 
 email: tubakula@fiji4less.com
-
-[back to Practical Information](..)

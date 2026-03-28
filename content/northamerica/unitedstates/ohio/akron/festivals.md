@@ -12,8 +12,6 @@ www.hamburgerfestival.com
 
 **Contributors**
 January 31, 2007
-new
-by [jimmypirate](/member/jimmypirate)
 
 ### [Lock 3 live](/northamerica/unitedstates/ohio/akron/festivals/lock_3_live)
 

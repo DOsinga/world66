@@ -1,0 +1,4 @@
+---
+title: "Khujhirt"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Colchester"
+type: location
+---

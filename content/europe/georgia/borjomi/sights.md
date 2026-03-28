@@ -9,5 +9,3 @@ www.borjomiskheoba.com
 
 **Contributors**
 September 25, 2008
-new
-by [gkurtanidze](/member/gkurtanidze)

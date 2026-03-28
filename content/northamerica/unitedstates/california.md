@@ -18,20 +18,3 @@ The [Central Coast](/northamerica/unitedstates/california/centralcoast) lies bet
 Lake Tahoe, Lake Mono and [Yosemite](/northamerica/unitedstates/california/highsierra/yosemite) in the [High Sierra](/northamerica/unitedstates/california/highsierra) are the best spots to go for hiking and other outdoor activities.
 
 Another option is to explore one of the many [Deserts](/northamerica/unitedstates/california/deserts) California offers. [Death Valley](/northamerica/unitedstates/california/deserts/deathvalley) is probably the best known example; if you can stand the heat the east of California offers a lot offer great get aways.
-
-## Top Destinations in California
-
-[Los Angeles](/northamerica/unitedstates/california/losangeles)
-[San Francisco Bay Area](/northamerica/unitedstates/california/sanfranciscobayarea)
-[San Diego](/northamerica/unitedstates/california/sandiego)
-[Orange County](/northamerica/unitedstates/california/orangecounty)
-[Shasta Cascade](/northamerica/unitedstates/california/shastacascade)
-[High Sierra](/northamerica/unitedstates/california/highsierra)
-[North Coast](/northamerica/unitedstates/california/northcoast)
-[Inland Empire](/northamerica/unitedstates/california/inlandempire)
-[Gold Country](/northamerica/unitedstates/california/goldcountry)
-[Central Valley](/northamerica/unitedstates/california/centralvalley)
-[Deserts](/northamerica/unitedstates/california/deserts)
-[Central Coast](/northamerica/unitedstates/california/centralcoast)
-
-[**Show all destinations in California.**](/northamerica/unitedstates/california/lib/alldestinations)

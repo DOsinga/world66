@@ -11,8 +11,6 @@ The Avalon is a great place for dancing, one of the most popular clubs in Boston
 
 **Contributors**
 May 24, 2006
-change
-by [kristi](/member/kristi) (1 point)
 
 type: Clubs and dancing
 
@@ -25,5 +23,3 @@ address: Lansdowne St 15
 tel: 617-262-2424
 
 ClosingTime: PHENTERMINE
-
-[back to Nightlife and Entertainment](..)

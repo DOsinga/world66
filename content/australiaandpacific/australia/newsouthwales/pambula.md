@@ -1,0 +1,4 @@
+---
+title: "Pambula"
+type: location
+---

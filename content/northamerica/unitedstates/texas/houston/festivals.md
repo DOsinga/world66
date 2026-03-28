@@ -32,5 +32,3 @@ tel: 713-692-1935
 url: [www.MakeMineTexas.info](http://www.MakeMineTexas.info)
 
 zipcode: Humble Rodeo Arena & Expo Center
-
--->

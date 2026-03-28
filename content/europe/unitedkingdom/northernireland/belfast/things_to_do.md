@@ -6,8 +6,6 @@ type: "Trekking"
 
 **Contributors**
 April 24, 2005
-new
-by [hpharmsen](/member/hpharmsen)
 
 ### [Rosa Marasco](/europe/unitedkingdom/northernireland/belfast/things_to_do/rosa_marasco)
 

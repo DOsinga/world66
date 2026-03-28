@@ -58,5 +58,3 @@ get ready to dance to good party music and learn to make new friends.
 
 **Contributors**
 April 17, 2010
-change
-by [pamelarae](/member/pamelarae)

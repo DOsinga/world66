@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 address: "20, Southover St, Brighton East Sussex BN2 2UD"
 phone: "01273 676867"
 ---

@@ -20,5 +20,3 @@ daily: 9.00 - 24.00
 address: Platzl 9, 80331 München
 
 tel: +49 (0) 89 22 16 76
-
--->

@@ -1,9 +1,9 @@
 ---
-title: "Destination High Coast Travel Guide"
+title: "Destination High Coast"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 [Destination High Coast](/europe/sweden/the_high_coast/destination_high_c) mediate experiences in prehistoric and present times in the High Coast world heritage area through nature experiences, accomodation, conferences and activities, for both private persons and groups.
 
@@ -36,7 +36,3 @@ If you like to try a a special kind of accomodation we recommend you to stay ove
 www.destinationhighcoast.com
 
 www.lappudden.se
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 12:08

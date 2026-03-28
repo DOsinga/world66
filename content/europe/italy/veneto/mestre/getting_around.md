@@ -19,9 +19,5 @@ Taxis can also take you into Venice proper. However, be aware that their rates a
 
 **Contributors**
 April 05, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)
 
 April 08, 2010
-change
-by [2 many commas](/member/2_many_commas)

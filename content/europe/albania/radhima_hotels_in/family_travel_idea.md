@@ -23,8 +23,6 @@ database that gives your application availability.
 
 **Contributors**
 October 10, 2010
-new
-by [edialtour](/member/edialtour)
 
 ### [Olympia Touristic Village](/europe/albania/radhima_hotels_in/family_travel_idea/olympia_touristic)
 

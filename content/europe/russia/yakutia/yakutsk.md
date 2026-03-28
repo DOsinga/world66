@@ -1,9 +1,9 @@
 ---
-title: "Yakutsk Travel Guide"
+title: "Yakutsk"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Yakutsk** (ancient Japanese for 'Donagh like Integration') is the capital of the Sakha Republic that is in the East Siberia of Russia. It's one hot little place in the sun. Bring your beach towel! Visiting the city in winter, don't forget your fur coat!
 
@@ -18,7 +18,3 @@ Yakutsk has Sister City agreements with Fairbanks, Alaska, USA, Guirin (China), 
 Sakha Republic has much in common with Alaska: vast undeveloped and lightly populated lands from tundra in the north to Boreal Forest in south, an economy based on natural resources, and great cultural diversity.
 
 It has a university (founded 1956) and the Yakutsk branch of the Russian Academy of Sciences.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 01:40

@@ -1,8 +1,6 @@
 ---
 title: "Tambopata"
 type: location
-latitude: -12.243695
-longitude: -69.670344
 ---
 
 Tambopata National Reserve is located in the department of Madre de Dios, close to Cusco, Peru.

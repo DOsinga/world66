@@ -14,6 +14,3 @@ Flying are getting cheaper but most flights go through Stockholm. SAS offers ver
 Hitch hiking is not very common but is relatively safe.
 
 An international student id card can give you plenty of discounts however some places require a Swedish one.
-
-*Change history*
-Orginal article by [blink](/member/blink) on 13 March 04

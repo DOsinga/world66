@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Since the 16th century, Lyon's cuisine has delighted many a customer in its "bouchon" bistros and in its first restaurants. These palate-pleasers will never disappoint and the traditional tastes remain intact.  Lyon's cuisine owes its virtuosity first of all to the quality of local produce. The farms of the Bresse and Charolais regions, the wild game of the Dombes, the fish from the Savoy lakes, the fruits and vegetables of the Rhône valley and the Forez region are all within easy reach and supply the essential ingredients for Lyon's famed cuisine. The local culinary specialties are plentiful and varied: pork products and "cervelle de Canuts" soft cheese with herbs, "bugnes" beignets, fried pork fat, Lyonnais salad, "tablier de sapeur" tripes, "gras double" tripes, "petit salé" ham with lentils, "quenelles" dumplings (a mixture of butter, semolina and fish), black pudding, "andouillette" chitterling sausage, "paillasson" fried hashed potatoes, and more, if you're still hungry!  But cooking is promoted to the rank of gastronomy when man adds imagination and a master's touch.  

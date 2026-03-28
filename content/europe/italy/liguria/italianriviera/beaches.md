@@ -23,5 +23,3 @@ The town of Sanremo is nestled in between the Maritime Alps and the Mediterranea
 
 **Contributors**
 April 20, 2010
-new
-by [suegabel](/member/suegabel)

@@ -9,8 +9,6 @@ Located on Rruga Dibres, a short walk from the center of the city, the Villa Gol
 
 **Contributors**
 August 08, 2006
-change
-by [mattalbman](/member/mattalbman)
 
 type: Italian
 
@@ -19,5 +17,3 @@ type: Italian
 
 
 PriceOfMenu: $8 - $10
-
-[back to Eating Out](..)

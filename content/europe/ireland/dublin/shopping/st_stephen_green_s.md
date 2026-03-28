@@ -8,11 +8,5 @@ This three story mall offers many shops and boutiques. It is located across from
 
 **Contributors**
 August 03, 2008
-new
-by [hanque1](/member/hanque1) (1 point)
 
 type: Shopping centers and malls
-
-
-
-[back to Shopping](..)

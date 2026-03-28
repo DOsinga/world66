@@ -10,8 +10,6 @@ It is possible to cut out the stress of dealing with unscrupulous taxi drivers b
 
 **Contributors**
 July 25, 2007
-new
-by [balticexpert](/member/balticexpert)
 
 type: Airport
 
@@ -22,5 +20,3 @@ type: Airport
 url: [www.out-there.eu](http://www.out-there.eu)
 
 email: info@out-there.eu
-
-[back to Practical Information](..)

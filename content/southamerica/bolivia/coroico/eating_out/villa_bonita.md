@@ -9,13 +9,5 @@ Closed on Monday and Tuesday. Open from noon to sunset.
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (3 points)
 
 type: International
-
-
-
-
-
-[back to Eating Out](..)

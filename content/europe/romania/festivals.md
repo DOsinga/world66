@@ -15,5 +15,3 @@ Hand-coloring eggs with intricate designs and religious motifs, using wax-based 
 
 **Contributors**
 January 10, 2008
-change
-by [romaniatours.us](/member/romaniatours.us) (1 point)

@@ -12,8 +12,6 @@ Entrance is on the second story of [Palazzo dei Normanni](/europe/italy/sicily/p
 
 **Contributors**
 July 03, 2006
-change
-by [svetico](/member/svetico) (4 points)
 
 type: Churches and Cathedrals
 
@@ -24,5 +22,3 @@ type: Churches and Cathedrals
 address: Piazza Indipendenzia
 
 openingHours: 9-11 and 3-4:45; Sat., morn. only; Sun., 9-9:45 and 12-12:45
-
-[back to Sights](..)

@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Hungry? Montréal's restaurants can help keep you fed and happy.

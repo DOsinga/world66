@@ -11,8 +11,6 @@ Groningen is known, also in the rest of the country, to be a haven for women wan
 
 **Contributors**
 June 02, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 ### [Pacific Bar & Restaurant](/europe/netherlands/groningen/bars_and_cafes/pacific_bar__rest)
 

@@ -1,0 +1,4 @@
+---
+title: "Bragana"
+type: location
+---

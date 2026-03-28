@@ -11,5 +11,3 @@ You hav to meet that place!
 
 **Contributors**
 July 06, 2007
-new
-by [elclubhostel](/member/elclubhostel)

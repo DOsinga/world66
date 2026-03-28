@@ -9,8 +9,6 @@ Katoomba can be easily reached from Sydney. It is located 109km away from the me
 
 **Contributors**
 February 26, 2005
-new
-by [vilpponen](/member/vilpponen)
 
 ### Intercity train
 

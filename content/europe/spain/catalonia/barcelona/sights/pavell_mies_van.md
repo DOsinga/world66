@@ -29,5 +29,3 @@ url: [www.miesbcn.com](http://www.miesbcn.com)
 address: Av. Francesc Ferrer i Guàrdia 7 Parc de Montjuïc
 
 email: pavellomies@miesbcn.com
-
-[back to Sights](..)

@@ -4,8 +4,6 @@ type: poi
 address: "322 F St Eureka CA"
 phone: "(707) 476-0991"
 type: "Other"
-latitude: 40.803087
-longitude: -124.166454
 ---
 
 **
@@ -17,8 +15,6 @@ Explore a local shop named Shipreck for locally made clothes, jewelry, and house
 
 **Contributors**
 August 26, 2008
-change
-by [seebigtrees](/member/seebigtrees)
 
 type: Other
 
@@ -29,5 +25,3 @@ type: Other
 tel: (707) 476-0991
 
 address: 322 F St Eureka CA
-
-[back to Things to do](..)

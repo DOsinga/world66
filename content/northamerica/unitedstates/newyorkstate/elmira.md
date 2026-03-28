@@ -1,0 +1,4 @@
+---
+title: "Elmira"
+type: location
+---

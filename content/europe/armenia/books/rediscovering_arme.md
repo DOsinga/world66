@@ -17,8 +17,6 @@ For sale in all the bookstores in Yerevan, as well as Vernissage, buy also avail
 
 **Contributors**
 November 11, 2008
-new
-by [raffikojian](/member/raffikojian)
 
 [](http://www.amazon.com/exec/obidos/ASIN/9994101218/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -27,5 +25,3 @@ by [raffikojian](/member/raffikojian)
 author: Raffi Kojian, Brady Kiesling
 
 isbn: 9994101218
-
-[back to Books](..)

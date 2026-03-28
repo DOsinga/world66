@@ -14,7 +14,3 @@ More questions about Cumbuco just sent me a e-mail or visit: www.kitesurftravel.
 url: [www.kitesurftravel.net](http://www.kitesurftravel.net)
 
 email: kitesurftravel@yahoo.com
-
-[back to Beaches](..)
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Thamai"
+type: location
+---

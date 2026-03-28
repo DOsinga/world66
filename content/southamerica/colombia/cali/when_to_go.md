@@ -41,5 +41,3 @@ opportunity to take some postcard quality photographs.
 
 **Contributors**
 November 16, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

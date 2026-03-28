@@ -31,8 +31,6 @@ Below is a list of some of the top places to go and some of the top things to do
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Bird-Watching at Prospect Park Audubon Center](/northamerica/unitedstates/newyorkstate/newyork/things_to_do/birdwatching_at_p)
 

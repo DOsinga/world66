@@ -1,0 +1,4 @@
+---
+title: "Tamuning"
+type: location
+---

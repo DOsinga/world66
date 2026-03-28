@@ -17,5 +17,3 @@ type: By Air
 tel: 0039 036 356 0076
 
 url: [bergamo.airports-shuttle.com](http://bergamo.airports-shuttle.com/?welcome=2)
-
-[back to Getting There](..)

@@ -12,8 +12,3 @@ Whatever else you do or don't, try to go on the **'Tourist Train'** that meets t
 2. **Trips out** while the boat is moored at a port:- good as the Ringve Music Museum at [Trondheim](/europe/norway/trondheim) and the so-called Ice Cathedral at [Tromso](/europe/norway/tromso) may be, this is an expensive way of seeing them and you may be able to find something eqally congenial and far cheaper to do. As for a trip from Kirkenes to see the Russian Border, what do you expect to see? In addition to the price it will cost you the chance of seeing the fine Border Museum with an ordinary service bus.
 
 3. The North Cape trip may be most appealing [and there's precious little to appeal at Honnigsvag, if you don't go. However don't forget that the Sami and their reindeer are **not **there at all seasons. Some say it's a fabulous environment; others that it's a tourist trap. Perhaps it would be inappropriate for someone who has not been to express a view.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 18 November 04
-
--->

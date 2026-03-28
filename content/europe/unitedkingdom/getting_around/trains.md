@@ -16,5 +16,3 @@ The following link is to the national railway enquiry line. It has loads of info
 
 
 url: [http:](http:// http://www.nationalrail.co.uk)
-
-[back to Getting Around](..)

@@ -1,0 +1,4 @@
+---
+title: "Olot"
+type: location
+---

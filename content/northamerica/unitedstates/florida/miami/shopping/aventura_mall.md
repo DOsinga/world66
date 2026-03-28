@@ -11,8 +11,6 @@ Aventura Mall is one of Miami's largest mall featuring more than 250 upscale sho
 
 **Contributors**
 June 01, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: 305-935-1110
 url: [aventuramall.com](http://aventuramall.com)
 
 address: 19501 Biscayne Boulevard, Aventura FL
-
-[back to Shopping](..)

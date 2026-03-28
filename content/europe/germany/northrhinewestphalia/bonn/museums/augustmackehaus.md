@@ -15,7 +15,3 @@ Home of the expressionist painter August Macke from 1911 to 1914.
  Telephone: +49-228-655531
 
 type: general
-
-
-
-[back to Museums](..)

@@ -15,15 +15,7 @@ charge terminal car park. To reach this car park, follow the ferry pictogram rou
 
 **Contributors**
 March 24, 2005
-new
-by [hollandtraveler](/member/hollandtraveler)
 
 February 27, 2006
-change
-by [reen](/member/reen)
 
 type: By Road
-
-
-
-[back to Getting There](..)

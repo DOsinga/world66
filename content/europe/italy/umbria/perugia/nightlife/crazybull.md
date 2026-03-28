@@ -32,5 +32,3 @@ email: crazybull@perugiaonline.com
 address: Via Palermo 21, Perugia
 
 tel: +39 (0)75 - 35346
-
--->

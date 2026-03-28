@@ -8,11 +8,5 @@ Nearby (10 minutes by bike from Haarlem) you'll find the National Park De Kennem
 
 **Contributors**
 February 21, 2007
-new
-by [macspertise](/member/macspertise) (2 points)
 
 type: Cycling
-
-
-
-[back to Things to do](..)

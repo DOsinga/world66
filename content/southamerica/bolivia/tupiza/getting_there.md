@@ -11,5 +11,3 @@ From the East**: A hellish road is taken by buses from [Tarija](/southamerica/bo
 
 **Contributors**
 February 20, 2007
-new
-by [joosts](/member/joosts) (2 points)

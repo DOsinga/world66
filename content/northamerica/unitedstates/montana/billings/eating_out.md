@@ -34,5 +34,3 @@ The Rex is an excellent place to eat, with a variety of aged steaks, fresh seafo
 address: 2401 Montana Ave.
 
 tel: 406-245-7477
-
--->

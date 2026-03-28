@@ -1,27 +1,25 @@
 ---
 title: "Bahamas"
 type: location
-latitude: 24.773655
-longitude: -78.000055
 ---
 
 Here we have a new editor:
 
-
- 
- **Russell Mack ** is coming soon! 
- I'm here and working hard as you can see.
+  **Russell Mack ** is coming soon!  I'm here and working hard as you can see.
 
 Look for great things to come
 
-## Destinations
+Bahamas are a group of island in the Atlantic Ocean located off of Florida coast.
 
-- [Abaco](/centralamericathecaribbean/bahamas/abaco)
-- [Andros](/centralamericathecaribbean/bahamas/andros)
-- [Bimini](/centralamericathecaribbean/bahamas/bimini)
-- [Cat island](/centralamericathecaribbean/bahamas/catisland)
-- [Eleuthera](/centralamericathecaribbean/bahamas/eleuthera)
-- [Exumas](/centralamericathecaribbean/bahamas/exumas)
-- [Grand bahama island](/centralamericathecaribbean/bahamas/grandbahamaisland)
-- [Nassau](/centralamericathecaribbean/bahamas/nassau)
-- [Out islands](/centralamericathecaribbean/bahamas/outislands)
+## Destinations in Bahamas
+
+[Grand bahama island](/centralamericathecaribbean/bahamas/grandbahamaisland)
+[Nassau](/centralamericathecaribbean/bahamas/nassau)
+[Freeport](/centralamericathecaribbean/bahamas/freeport)
+[Exumas](/centralamericathecaribbean/bahamas/exumas)
+[Cat island](/centralamericathecaribbean/bahamas/catisland)
+[Andros](/centralamericathecaribbean/bahamas/andros)
+[Out islands](/centralamericathecaribbean/bahamas/outislands)
+[Eleuthera](/centralamericathecaribbean/bahamas/eleuthera)
+[Abaco](/centralamericathecaribbean/bahamas/abaco)
+[Bimini](/centralamericathecaribbean/bahamas/bimini)

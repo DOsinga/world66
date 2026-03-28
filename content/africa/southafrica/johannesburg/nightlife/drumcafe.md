@@ -13,5 +13,3 @@ type: Dancing
 address: 49 Greenfield Road, Cnr. Gleneagles Drive
 
 tel: (011) 646-5444
-
-[back to Nightlife and Entertainment](..)

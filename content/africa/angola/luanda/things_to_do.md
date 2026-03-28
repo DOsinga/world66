@@ -56,13 +56,7 @@ at the end you can see Forteleza Fort.
 
 **Contributors**
 February 19, 2010
-change
-by [schitti](/member/schitti)
 
 February 08, 2010
-change
-by [jenna storm](/member/jenna_storm)
 
 February 11, 2010
-change
-by [ctanios](/member/ctanios)

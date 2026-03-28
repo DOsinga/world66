@@ -26,5 +26,3 @@ url: [www.ChooseMalta.com](http://www.ChooseMalta.com)
 address: Suite 2, Mompalao Building, Tower Road, Msida
 
 email: enquiry@choosemalta.com
-
-[back to Practical Information](..)

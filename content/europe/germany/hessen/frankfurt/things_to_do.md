@@ -19,21 +19,4 @@ Apple wine, or apfelwein, is the signature drink of Frankfurt. This is a type of
 
 **The Romerberg**
 
-The Romerberg was traditionally the area that held markets and fairs. Today there are still many festivals and fairs that take place in the Romerberg. The Ostzeile is on one side of the square. This is a row of traditional half timbered houses that date back to the 15ht and 16th century. Many of these houses were destroyed in the war but they have since been restored. You can view old models of the Romerberg at the Historisches Museum. This has a model of the city as it was during the Middle Ages as well as exhibits on the destruction that occurred during the war.
-
-**An Important Political Church**
-
-The most important church in the city is Paulskirche. It eventually became the headquarters for the Frankfurt parliament and played an important role in the 1848 German Revolution. It is an interestingly oval shaped building. This was the first building to be rebuilt after the war, though the interior is very different from the original. Today it is used for events and exhibits as it is no longer used as a church.
-
-**Shopping at the Zeil**
-
-If you want to do some shopping, you can go down to the Zeil. This is considered the Fifth Avenue of Germany and you can find international chains, the Zeil Galerie, boutiques and a modern shopping center.
-
-**Contributors**
-April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)
-
-April 08, 2010
-change
-by [ctanios](/member/ctanios)
+The Romerberg was traditionally the area that held markets and fairs. Today there are still many festivals and fairs that take place in the Romerberg. The Ostzeile is on one side of the square. This is a row of traditional half timbered houses that date

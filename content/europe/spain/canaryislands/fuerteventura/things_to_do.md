@@ -6,8 +6,6 @@ email: "info@leisurezone.es"
 phone: "0034 928537911"
 type: "Other"
 url: "www.leisurezone.es"
-latitude: 28.728599
-longitude: -13.867253
 ---
 
 Water Sports are one of the main attractions on Fuerteventura with the windsurf and kitesurf world cup being held each July/August.
@@ -20,12 +18,8 @@ You can also hire quads, take a trip to either lanzarote or the closer island of
 
 **Contributors**
 January 12, 2008
-new
-by [flag beach](/member/flag_beach)
 
 January 05, 2009
-change
-by [leisurezone](/member/leisurezone)
 
 ### [LeisureZone](/europe/spain/canaryislands/fuerteventura/things_to_do/leisurezone)
 

@@ -7,9 +7,3 @@ type: "general"
 No vaccinations are required for traveling to Greenland.
 
 type: general
-
-
-
-
-
-[back to Practical Information](..)

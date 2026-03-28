@@ -9,8 +9,6 @@ Book Reviews
 
 **Contributors**
 December 04, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 ### [Every Pilgrim's Guide To Oberammergau And Its Passion Play](/europe/germany/bavaria/oberammergau/books/every_pilgrims_gu)
 

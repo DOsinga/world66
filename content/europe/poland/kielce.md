@@ -1,0 +1,4 @@
+---
+title: "Kielce"
+type: location
+---

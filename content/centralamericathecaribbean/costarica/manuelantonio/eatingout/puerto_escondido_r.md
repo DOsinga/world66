@@ -7,8 +7,6 @@ phone: "(506)777-0903"
 price: "From $2"
 type: "International"
 url: "www.espadilla.com"
-latitude: 9.408569
-longitude: -84.154759
 ---
 
 Located at Manuel Antonio Beach - Costa Rica, Surrounded by gorgeous nature and right next to the Hotel Espadilla is located Puerto Escondido Restaurant , offering a variety of tropical and international dishes. Combining the freshness of the tropical ingredients you'll find the perfect ambience for your joy and delight your taste.
@@ -26,5 +24,3 @@ address: Manuel Antonio Quepos
 PriceOfMenu: From $2
 
 email: jorge@espadilla.com
-
-[back to Eating Out](..)

@@ -7,5 +7,3 @@ Everyone is familiar with the Mall of America. But Minneapolis-St. Paul shopping
 
 **Contributors**
 April 27, 2009
-new
-by [annc](/member/annc)

@@ -22,5 +22,3 @@ url: [www.magnificentmorocco.com](http://www.magnificentmorocco.com/)
 address: ngle Rue Tarik Ibn Ziad & Ibn Aicha Résidence Excel Sior, Imm. 18 No 6 Gueliz, Marrakech, Morocco
 
 email: nick@magnificentmorocco.com
-
-[back to Day Trips](..)

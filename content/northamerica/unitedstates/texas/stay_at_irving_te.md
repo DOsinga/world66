@@ -1,9 +1,9 @@
 ---
-title: "Stay at Irving, Texas Hotel - Wingate by Wyndham Irving/Las Colinas. Travel Guide"
+title: "Stay at Irving, Texas Hotel - Wingate by Wyndham Irving/Las Colinas."
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Wingate Las Colinas**
 
@@ -24,9 +24,3 @@ Email : irvingtx@wynhg.com
 Website Name :
 
 http://www.wingatelascolinas.com/
-
-*Part or or all of this text stems from the original article at: Hotel & Accommodation*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 07:29

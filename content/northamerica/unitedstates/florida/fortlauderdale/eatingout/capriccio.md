@@ -12,5 +12,3 @@ type: Italian
 
 
 address: 2424 N. University Drive
-
-[back to Eating Out](..)

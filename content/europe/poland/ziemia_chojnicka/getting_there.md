@@ -11,5 +11,3 @@ It is very easy to get to Chojnice Region from the most places around the region
 
 **Contributors**
 January 13, 2005
-change
-by [giorgio](/member/giorgio) (1 point)

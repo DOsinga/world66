@@ -8,5 +8,3 @@ Even more exclusive than El Divino is Pacha (Av. Ocho de Agosto). The abundant m
 address: Abadordo 330, Ibiza Town
 
 tel: +34/971191000
-
--->

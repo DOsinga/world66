@@ -5,9 +5,6 @@ type: section
 
 Syracuse hosts the New York State Fair amoung many other festivals throughout the year.
 
-*Change history*
-Orginal article by [Brokenme](/member/brokenme) on 06 May 04
-
 **all**
 
 **Westcott Street Cultural Fair**

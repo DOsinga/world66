@@ -6,5 +6,3 @@ type: section
 We currently have no Getting There listed in Ambergris caye.
 
 If you do know any Getting There in Ambergris caye, please [Add].
-
--->

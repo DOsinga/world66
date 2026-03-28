@@ -6,16 +6,12 @@ phone: "+33 04 92 98 74 14"
 price: "75-150EU; $115-$230US"
 type: "French"
 url: "www.hotel-martinez.com"
-latitude: 43.548254
-longitude: 7.030948
 ---
 
 From the second you take your seat at a Cannes restaurant, the staff is there to greet you, inform you of the restaurants specialties, and take your order in the friendliest and most efficient manner possible. This is what Cannes is all about -- star treatment. Not only will you be treated like a star in Cannes restaurants, whether grand or small, the cuisine is almost always perfect. Cannes restaurants offer everything from Provencal fare to cuisines from around the world. While the majority of Cannes restaurants are expensive -- remember, this is a very wealthy city -- you can still find a few Cannes restaurants ranging from moderate to somewhat inexpensive. So, browse through the listings to find out about some of Cannes top restaurants, cafes, and eateries.
 
 **Contributors**
 June 02, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [La Palme d'Or](/europe/france/cannes/eating_out/la_palme_dor)
 

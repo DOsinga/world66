@@ -11,8 +11,6 @@ url: "exotic-morocco.com"
 
 **Contributors**
 February 16, 2009
-change
-by [travelawyer](/member/travelawyer)
 
 type: Tourist information
 
@@ -25,5 +23,3 @@ tel: +212 (0) 71 41 04 39
 url: [exotic-morocco.com](http://exotic-morocco.com/index.htm)
 
 email: moroccoguides@gmail.com
-
-[back to Practical Information](..)

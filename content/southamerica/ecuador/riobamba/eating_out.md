@@ -9,5 +9,3 @@ Special recommendation in town:
 
 **Contributors**
 December 20, 2005
-change
-by [tea-low](/member/tea-low)

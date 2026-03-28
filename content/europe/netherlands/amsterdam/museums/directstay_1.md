@@ -13,8 +13,4 @@ The collection has been praised in the Netherlands and abroad for its range and 
 Visitors will be able to see regular themed exhibitions, as well as the historical collection. The museum also pays a role in stimulating Dutch and international designers by organizing exhibitions of their work, and by selling their work in the museums shop and at the web shop.
 
 **The building:**
-The museum is situated in an historical building dating to 1664. It has a café and a garden laid out in historical style by the well-known garden designer Robert Broekema. The building has two fine period rooms used for receptions, with mantelpieces dating back to the 17th and 18th centuries.
-
-
-
-[back to Museums](..)
+The museum is situated in an historical building dating to 1664. It has a café and a garden laid out in historical style by the well-known garden designer Robert Broekema. The building has two fine period rooms used for receptions, with mantelpieces dating

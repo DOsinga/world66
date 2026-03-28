@@ -1,14 +1,22 @@
 ---
-title: "Eating Out in Naples"
+title: "Eating Out"
 type: section
+address: "Salita Santa Anna di Palazzo, Trav. Via Chiaia"
+phone: "+39 (0)81 - 416928"
 ---
 
-This list of **Naples Restaurants** will provide you with a number of good places that could satisfy your taste buds. There are hundreds of restaurants and pizza establishments in Naples that will certainly leave you craving for more. Most of the specialty restaurants are located in Chiaia and Posillipo.
+While you are in Naples you will surely want to try the famous Neapolitan pizza and other local specialties. That is indeed a very smart choice also for a low budget, as in most places you will not spend more than 15.000 Lire for a pizza and a beer. 
 
-**Chiaia Restaurants**
+**The food front:** 
 
-Chiaia offers around 20 restaurants that can offer the right cuisine you are craving for. Restaurants, such as Amici Miei, Da Tonino and Girula dish out European foods of your choice. Though some of these restaurants require booking on the weekends, you will not regret visiting them as their traditional cuisines offer a wide selection of specialties cooked *alla brace*. If you feel that you would want to dig in to American and Caribbean cuisines, then you can visit Cueva La, which is a favorite hangout of the younger crowd due to its lively atmosphere and Argentinean pizzas.
+The most naturally Neapolitan dishes are **vermicelli** (small pasta) with clams, mussels, smaller shellfish, **ziti** (a type of pasta) with **ragù** (meat sauce), Italian style fritters, fritters of squid and mullet, steamed polyps or oven-baked lamb. 
 
-**Posillipo Restaurants**
+Without question, **pizza** is the symbol of Naples. Naples is known worldwide for this genuine and delicious dish. However, in Naples the pizza is different: whether because of the delicious odor in the air, in the oil, in the flavor of the water, or for the simplicity with which it is made, it is certain that in Naples "pizza" has a special flavor. 
 
-Most restaurants and diners are also found in Posillipo. Specialty restaurants, such as A Fenestella, have menus that offer a wide selection of fresh seafood, tasty hors d'oeuvres and classic pizzas. Each restaurant does not only provide tastefully decorated environments, but also unique cuisines, such as Tubetti all Lampara made by A Lampara. If you feel like eating Neapolitan and Mediterranean dishes, then you could sample the shrimps, lobsters, the Bucatini al Faro and Linguine del Golfo made available in the menu of Al Faro. In addition to this, Posillipo restaurants also offer pizzas and pastas that taste as excellent as those from Chiaia.
+The city is also famous for sweets that change with the seasons: **struffoli** (cookies with Strega liqueur, honey, and candied sprinkles), **pastiere** (cakes made with **ricotta**, coarse flour, candied fruits, and orange syrup), **zeppole** (cookies made from black cherry liqueur, fried or cooked in the oven, for St. Joseph’s Day), **cassatae** (cake made from ricotta cheese, almond paste, and pieces of chocolate), **monachine** (in English, "little monks"), **sfogliate** rich with cream and layered high, frolle (sweet crumbly pastry made from flour, egg, butter and sugar), **babà** (made with light flour), eggs, and yeast and bathed in rum punch), **millefoglie** (layers of sweet cream and thin pastry shell), **mimose** (Angel Food cake, known in Italian as pasta di spagna, with cream). 
+
+These delicious sweets are always accompanied by coffee or flavored liqueurs such as **rosolio, limoncello or nocillo** - the latter is walnut-flavored.
+
+Brandi
+
+This pizzeria own its fame mainly to the fact that they invented the pizza Margherita, their pizza is good. However if you are looking for a unexpensive meal this is surely not the place you want to go to.

@@ -1,13 +1,10 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "www.crtvg.es"
 ---
 
 Santiago de Compostela webcams
-
-**Change history**
-Orginal article by [Reen](/member/reen) on 13 April 05
 
 ### [Cathedral central nave
 

@@ -112,5 +112,3 @@ author: Nicholas Atampurge
 isbn: 0855982578
 
 subject: history
-
--->

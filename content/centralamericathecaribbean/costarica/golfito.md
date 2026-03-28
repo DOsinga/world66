@@ -1,0 +1,4 @@
+---
+title: "Golfito"
+type: location
+---

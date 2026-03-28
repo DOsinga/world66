@@ -41,5 +41,3 @@ The most famous opera house in the world is located in Milan, and is definitely 
 
 **Contributors**
 November 18, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

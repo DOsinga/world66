@@ -1,9 +1,9 @@
 ---
-title: "Da Nang Travel Guide"
+title: "Da Nang"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Da Nang city is one of five biggiest cities of Vietnam with 1255 km2 and 876,500 people. It is located in the central Vietnam and a beach city.
 
@@ -16,11 +16,3 @@ For the festivals, Da Nang often organizes the international firework festival a
 Da Nang city is also close to Hoi An ancient city (45 km) and Hue city- the old capital of Vietnam (100km).
 
 Thus, the travellers can visit Hoi An ancient town or the royal tombs and palaces in Hue within one day
-
-#### Contributors
-
-November 07, 2010 change by [tripvietnamtours](/member/tripvietnamtours)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 20:30

@@ -11,5 +11,3 @@ Hi Mates!! I'm on Vacation here and I just bought some quality Medical WEED: & H
 
 
 accessibility: weed.man4real@gmail.com
-
-[back to Bars and Cafes](..)

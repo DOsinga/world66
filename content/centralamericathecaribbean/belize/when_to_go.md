@@ -53,9 +53,5 @@ remain open on any of these celebrated holidays.
 
 **Contributors**
 April 16, 2010
-change
-by [suegabel](/member/suegabel)
 
 April 17, 2010
-change
-by [2 many commas](/member/2_many_commas)

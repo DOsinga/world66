@@ -63,6 +63,4 @@ type: section
 
 *male:* 100% 
 
-*female:* 100% (1980 est.) 
-
--->
+*female:* 100% (1980 est.)

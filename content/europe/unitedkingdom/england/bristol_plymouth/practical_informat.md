@@ -7,5 +7,3 @@ Bristol, England is an award-winning destination which has been on a meteoric ri
 
 **Contributors**
 January 20, 2009
-new
-by [latravelgirl](/member/latravelgirl)

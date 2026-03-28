@@ -3,13 +3,9 @@ title: "Museums"
 type: location
 email: "pr@kulturprojekte-berlin.de"
 url: "www.museumsportal-berlin.de"
-latitude: 52.518775
-longitude: 13.396608
 ---
 
 e1mst1ngvuhb46h docvq25ua9p tn9zjfllqt9uw4u
-
-*Part or or all of this text stems from the original article at: wbelrch0md*
 
 ### [Museumsportal Berlin](/europe/germany/berlin/museums_1/museumsportal_berl)
 
@@ -39,17 +35,10 @@ email:
 - [Prenzlauer Berg](/europe/germany/berlin/prenzlauerberg)
 - [Friedrichshain](/europe/germany/berlin/friedrichshain)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -12,8 +12,6 @@ Tower City is a large indoor complex of houses an average shopping center, vario
 
 **Contributors**
 April 06, 2006
-change
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Landmarks
 
@@ -24,5 +22,3 @@ type: Landmarks
 tel: 216-771-0033
 
 url: [www.towercitycenter.com](http://www.towercitycenter.com/)
-
-[back to Sights](..)

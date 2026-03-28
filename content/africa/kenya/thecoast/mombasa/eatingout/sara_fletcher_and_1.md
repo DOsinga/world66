@@ -10,8 +10,6 @@ The *Muntaz* Cafe. At the Stage in Mtwapa this cafe serves lovely Beef Biryani..
 
 **Contributors**
 May 22, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: African
 
@@ -22,5 +20,3 @@ type: African
 PriceOfMenu: 40 Ksh
 
 email: fletchsj2000@yahoo.co.uk
-
-[back to Eating Out](..)

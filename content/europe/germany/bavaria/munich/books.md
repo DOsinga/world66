@@ -7,8 +7,6 @@ isbn: "039303836X"
 
 **Contributors**
 October 23, 2006
-new
-by [svetico](/member/svetico)
 
 ### [Where Ghosts Walked: Munich's Road to the Third Reich](/europe/germany/bavaria/munich/books/where_ghosts_walke)
 
@@ -51,17 +49,10 @@ author: Brian Deming, Ted Iliff
 
 isbn: 3922590462
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

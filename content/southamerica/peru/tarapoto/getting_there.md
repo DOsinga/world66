@@ -8,16 +8,12 @@ type: "By Air"
 url: "www.starperu.com"
 ---
 
-Daily flights from Lima make getting to Tarapoto easy. From Tarapoto, travellers can access Iquitos, the city at the start of the Amazon River or head back to the coast or north to [Ecuador](/southamerica/ecuador) via [Chachapoyas](/southamerica/peru/chachapoyas/chachapoyas) on the [Northern Pacific to Amazon crossing](/southamerica/peru/northern_pacific_t).
+Daily flights from Lima make getting to Tarapoto easy. From Tarapoto, travellers can access Iquitos, the city at the start of the Amazon River or head via [Chachapoyas](/southamerica/peru/chachapoyas/chachapoyas) on the [Northern Pacific to Amazon crossing](/southamerica/peru/northern_pacific_t).
 
 **Contributors**
 December 14, 2006
-new
-by [approaching genius](/member/approaching_genius) (4 points)
 
 February 24, 2007
-change
-by [joosts](/member/joosts) (1 point)
 
 ### [Star Peru](/southamerica/peru/tarapoto/getting_there/star_peru)
 
@@ -51,17 +47,10 @@ tel: See: http://www.lan.com/about_us/oficinas/index.html
 
 url: [http:](http://http:/www.lan.com)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

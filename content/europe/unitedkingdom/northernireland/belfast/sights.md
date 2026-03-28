@@ -11,5 +11,3 @@ type: section
 [Churches](/europe/unitedkingdom/northernireland/belfast/sights?subsection=Churches)
 
 [Museums](/europe/unitedkingdom/northernireland/belfast/sights?subsection=Museums)
-
--->

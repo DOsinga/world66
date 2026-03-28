@@ -1,8 +1,6 @@
 ---
 title: "Gothenburg"
 type: location
-latitude: 57.707233
-longitude: 11.967017
 ---
 
 Gothenburg is the second city of Sweden and can be seen as the capital of the South. The city is quite different from Stockholm and something of a swedish beach destination. 
@@ -14,6 +12,3 @@ But it's not all fish and ships in Gothenburg. There's also plenty of shopping, 
 When you've seen enough culture for the day, you can visit the Liseberg amusement park, the largest of it's kind in Scandinavia. Situated right in the centre of town, it has entertained millions of people since 1923. You can ride the roller coasters or see popular artist perform. 
 
 Though not as beautiful and entertaining as [Stockholm](/europe/sweden/stockholm), Gothenburg has more than enough to offer to keep you occupied for a while.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 29 March 04

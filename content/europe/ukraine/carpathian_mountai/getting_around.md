@@ -12,5 +12,3 @@ Sometimes you may go from one place to another by train but local trains are slo
 
 **Contributors**
 July 07, 2006
-new
-by [svetico](/member/svetico) (2 points)

@@ -53,13 +53,7 @@ enjoy some people-watching at one of the cafes in the Old City.
 
 **Contributors**
 January 20, 2010
-change
-by [b.sowa](/member/b.sowa)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 January 17, 2010
-new
-by [cjr236](/member/cjr236)

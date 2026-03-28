@@ -25,6 +25,4 @@ There are many sports to be done in Morocco. Golf, Hiking (see separate section)
 
  The horses are superb and the country ideal, so relax and enjoy the pleasures of riding amid fabulous scenery. Gallop the length of the long white beaches, among the dunes and through the forest of century-old oaks.  
 
- For more information contact: ROYAL MOROCCAN FEDERATION OF RIDING, Dar-es-Salaam, B/P/ 742 Rabat, Morocco. Tel: (07) 75 44 24 - Fax: (07) 75 47 38.      
-
--->
+ For more information contact: ROYAL MOROCCAN FEDERATION OF RIDING, Dar-es-Salaam, B/P/ 742 Rabat, Morocco. Tel: (07) 75 44 24 - Fax: (07) 75 47 38.

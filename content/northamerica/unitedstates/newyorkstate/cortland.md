@@ -1,0 +1,4 @@
+---
+title: "Cortland"
+type: location
+---

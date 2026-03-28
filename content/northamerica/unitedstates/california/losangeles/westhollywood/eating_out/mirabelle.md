@@ -17,7 +17,5 @@ oft-visited bar/lounge.
 
 **Contributors**
 February 14, 2007
-new
-by [rfujitani](/member/rfujitani) (2 points)
 
 type: International

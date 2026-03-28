@@ -13,5 +13,3 @@ Whether you want to see a play at the City Theatre or watch a film in City Scree
 [Pubs](/europe/unitedkingdom/england/leeds_sheffield_a/york/nightlife?subsection=Pubs%20)
 
 [Theatre & Opera](/europe/unitedkingdom/england/leeds_sheffield_a/york/nightlife?subsection=Theatre%20%26%20Opera%20%20)
-
--->

@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 ---
 
 Below you'll find links to all existing Wadden island webcams *(under construction). *Please
@@ -12,7 +12,4 @@ Ameland, [Northern shore & North Sea](/europe/netherlands/waddenislands/ameland_
 
 more to come...
 
-*Change history*
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 11 March 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 11 March 05
+Minor corrections on 11 March 05

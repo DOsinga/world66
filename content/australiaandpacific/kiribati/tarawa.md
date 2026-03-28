@@ -1,0 +1,4 @@
+---
+title: "Tarawa"
+type: location
+---

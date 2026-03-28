@@ -18,5 +18,3 @@ address: Avenida Bartomeu de Rossello, 1507800 Baleares, Ibiza Town
 tel: (+34) 971 31 42 24
 
 PriceOfMenu: cheapest
-
-[back to Eating Out](..)

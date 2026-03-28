@@ -4,15 +4,11 @@ type: poi
 address: "Sumatrastraat 16"
 phone: "070-3553257"
 type: "African"
-latitude: 52.092038
-longitude: 4.304603
 ---
 
 Very special dishes, created with lots of fantasy. Only ten tabels, so you might want to call in advance. Good cigars. ****
 
 **Contributors**
 August 05, 2005
-change
-by [reen](/member/reen)
 
 type: African

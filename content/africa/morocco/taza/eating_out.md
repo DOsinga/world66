@@ -11,12 +11,8 @@ While visiting the café is a common pastime of Moroccan men, going out to dinne
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 June 28, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Les Deux Rives](/africa/morocco/taza/eating_out/les_deux_rives)
 

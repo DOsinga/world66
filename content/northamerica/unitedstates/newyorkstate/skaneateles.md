@@ -1,9 +1,9 @@
 ---
-title: "Skaneateles Travel Guide"
+title: "Skaneateles"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Skaneateles is a storybook.** First, a true "insider tip": avoid summer weekends like the plague. Indeed, visit off-season for the "real" Skaneateles experience.
 
@@ -14,13 +14,3 @@ The Village is a "drive to" destination, but after you are there, walk to everyt
 The **Chamber of Commerce **http://www.skaneateles.com is located in a hide-away office at 22 Jordan Street but is well worth finding; they are very enthusiastic and a wealth of local information.
 
 The **Skaneateles Wiki** http://www.skaneateleswiki.org is a community Wiki that includes images and descriptions of most visitor attractions in Skaneateles.
-
-#### Contributors
-
-November 22, 2006 change by [giorgio](/member/giorgio)
-
-August 26, 2006 new by [tonicurtis](/member/tonicurtis)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 03:48

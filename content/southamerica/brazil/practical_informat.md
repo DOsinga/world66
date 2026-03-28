@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 October 18, 2004
-new
-by [mcanikn](/member/mcanikn)
 
 **Currency**
 

@@ -1,0 +1,4 @@
+---
+title: "Sarnia"
+type: location
+---

@@ -37,5 +37,3 @@ A few pointers on safety and other relevant information about the travel destina
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

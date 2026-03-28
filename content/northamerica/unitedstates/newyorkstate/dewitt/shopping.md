@@ -10,8 +10,6 @@ Erie Boulevard is the place to find your shopping in DeWitt, NY.
 
 **Contributors**
 March 06, 2005
-new
-by [brokenme](/member/brokenme)
 
 ### [Shoppingtown Mall](/northamerica/unitedstates/newyorkstate/dewitt/shopping/shoppingtown_mall)
 

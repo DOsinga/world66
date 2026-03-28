@@ -16,5 +16,3 @@ address: University Of Washington
 tel: 206-543-2280
 
 url: [henryart.org](http://henryart.org/)
-
-[back to Sights](..)

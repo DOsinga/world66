@@ -17,5 +17,3 @@ type: general
 address: Fuendetodos ( outside Zaragoza)
 
 openinghours: 11 am - 2 pm and 4 pm to 7 pm, Monday closed
-
-[back to Museums](..)

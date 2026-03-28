@@ -15,13 +15,4 @@ Aleipata Islands are a group of islands about 2 miles off the coast of Upolu Isl
 
 **Manono**
 
-Manono is located roughly 4 miles off the western coast of Upolu Island and easily accessible by boat or other watercraft. It is home to only 4 tiny fishing villages. Cars are not allowed on the island, so there is only the sound of waves to fill your ears. The locales are really the big attraction of this island. Their daily life includes fishing, weaving, and planting. Interacting with them and learning the routine of their day is truly interesting. Visitors can also enjoy a walk around the coast of the island, which only takes 2 hours. Also inland trails will take visitors to several archaeological sites, which include an ancient star mound. Travelers can additionally enjoy the peaceful atmosphere of the beach by lounging, swimming, and snorkeling. Western Samoa Day Trips to Manono will surely last the entire day. Just be sure to schedule enough time for your trip back to your Western Samoa hotel.
-
-**Contributors**
-January 27, 2010
-new
-by [samanthalp](/member/samanthalp)
-
-February 02, 2010
-change
-by [schitti](/member/schitti)
+Manono is located roughly 4 miles off the western coast of Upolu Island and easily accessible by boat or other watercraft. It is home to only 4 tiny fishing villages. Cars are not allowed on the island, so there is only the sound of waves to fill your ears. The locales are really the big attraction of this island. Their daily life includes fishing, weaving, and planting. Interacting with them and learning the routine of their day is truly interesting. Visitors can also enjoy a walk around the coast of the island, which only takes 2 hours. Also inland trails will take visitors to several archaeological sites, which include an ancient star mound. Travelers can additionally enjoy the peaceful atmosphere of the beach by lounging, swimming, and snorkeling. Western Samoa Day Trips to Manono will surely last the entire day. Just be sure to schedule enough time for your trip

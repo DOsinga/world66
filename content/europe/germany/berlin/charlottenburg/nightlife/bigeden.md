@@ -21,5 +21,3 @@ address: Kufürstendamm 202
 openings: Daily from 9 pm-open end admission:
 
 admission: Su -Th 6DM, Fr -Sa 12 DM
-
-[back to Nightlife and Entertainment](..)

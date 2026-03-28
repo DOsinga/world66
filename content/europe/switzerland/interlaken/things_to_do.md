@@ -7,5 +7,3 @@ Tandem Hang Gliding flights.....a must for anyone who wants to fly like a bird a
 
 **Contributors**
 April 28, 2006
-change
-by [giorgio](/member/giorgio)

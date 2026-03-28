@@ -20,5 +20,3 @@ url: [www.aquamanchartersguam.com](http://www.aquamanchartersguam.com)
 address: po box 3831 hagatna guam 96932
 
 email: gieaquaman@yahoo.com
-
-[back to Day Trips](..)

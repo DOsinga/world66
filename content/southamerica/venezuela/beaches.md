@@ -9,13 +9,7 @@ Some of the best and easiest beaches to get to from Caracas are Bahia de Cata an
 
 **Contributors**
 September 28, 2006
-change
-by [gilda caceres](/member/gilda_caceres) (1 point)
 
 September 01, 2005
-new
-by [venezuela](/member/venezuela)
 
 September 29, 2006
-change
-by [giorgio](/member/giorgio)

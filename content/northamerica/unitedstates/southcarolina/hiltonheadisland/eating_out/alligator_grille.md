@@ -14,7 +14,5 @@ With friendly service, well made drinks, and home made desserts added in, Alliga
 
 **Contributors**
 October 27, 2005
-new
-by [rneste](/member/rneste)
 
 type: Seafood

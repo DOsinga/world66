@@ -12,5 +12,3 @@ chaouen more and more.
 
 **Contributors**
 March 29, 2005
-change
-by [giorgio](/member/giorgio)

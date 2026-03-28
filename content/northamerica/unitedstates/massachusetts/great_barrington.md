@@ -1,9 +1,9 @@
 ---
-title: "Great Barrington Travel Guide"
+title: "Great Barrington"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Nestled in the southwestern corner of Massachusetts, we are bordered by Connecticut to the south and New York to the west. We're easy to reach by car and are less than 2-1/2 hours from both New York City and Boston. The Appalachian Trail winds through our scenic network of mountains, streams, lakes and forests. We're rich with history and surrounded by natural beauty. In addition we offer exciting outdoor recreation, unique shopping, exquisite art galleries and antiques, world-class performing arts, wonderful lodging and dining and a solid professional community and diversified small-business base.
 
@@ -13,13 +13,3 @@ A great charm of the town is its magnificent view-points- to Prospect Rock or Ea
 ***
 
 If visiting Great Barrington in early July be sure to visit the annual Berkshires Arts Festival which is held at the nearby Butternut Ski Hill grounds. Dozens of high quality artists and craftsperons sell their one-of-a-kind goods at the bottom of the ski slopes (now covered with green grass).
-
-#### Contributors
-
-January 10, 2007 new by [mehul](/member/mehul) (2 points)
-
-January 04, 2008 change by [waterfalls](/member/waterfalls) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 06:00

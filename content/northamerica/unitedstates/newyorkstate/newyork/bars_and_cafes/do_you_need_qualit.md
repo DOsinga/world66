@@ -9,5 +9,3 @@ Top Quality Medical Marijuana Strains,Hash and Cannabis Oil for sale!! Call/Text
 
 
 accessibility: weedspot2@gmail.com
-
-[back to Bars and Cafes](..)

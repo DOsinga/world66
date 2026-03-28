@@ -1,9 +1,9 @@
 ---
-title: "Cape Horn Travel Guide"
+title: "Cape Horn"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Cape Horn is widely considered to be the most southerly point of South America, and marks the northern boundary of the Drake Passage; for many years it was a major milestone on the clipper route, by which sailing ships carried trade around the world. However, the waters around the cape are particularly hazardous, owing to strong winds, large waves, strong currents and icebergs; these dangers have made it notorious as a sailors' graveyard.
 
@@ -12,13 +12,3 @@ Cape Horn is the southernmost point of land associated with South America; it is
 The cape lies within Chilean territorial waters, and the Chilean Navy maintains a station on Hoorn Island, consisting of a residence, utility building, chapel, and lighthouse; A short distance from the main station is a memorial, including a large sculpture featuring the silhouette of an albatross, in honour of the sailors who died while attempting to "round the Horn"
 
 The only way to visit Cape Horn, Chile is by ship and a cruise ship is your best option.
-
-*Part or or all of this text stems from the original article at: Wikipedia*
-
-#### Contributors
-
-March 19, 2010 new by [waterfalls](/member/waterfalls)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 12:28

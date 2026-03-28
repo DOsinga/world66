@@ -17,5 +17,3 @@ type: general
 isbn: 1566917824
 
 author: Andrew Hempstead
-
-[back to Books](..)

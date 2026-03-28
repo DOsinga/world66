@@ -9,12 +9,8 @@ times, so you have to be cautious. One of the famous surfing beaches – *Ribeir
 
 **Contributors**
 July 18, 2005
-change
-by [grpadua](/member/grpadua) (1 point)
 
 July 18, 2005
-change
-by [anarita](/member/anarita)
 
 ### Magoito
 

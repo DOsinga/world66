@@ -56,5 +56,3 @@ Beach Club has it all.
 
 **Contributors**
 April 13, 2010
-change
-by [kwalker](/member/kwalker)

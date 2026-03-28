@@ -6,8 +6,6 @@ email: "info@ilmuretto.net"
 opening_hours: "11pm - 4am, only Sat and summer Wed"
 phone: "042 - 1371310"
 type: "Discos & Dancing"
-latitude: 45.494319
-longitude: 12.590193
 ---
 
 Disco and Cocktail bar located in Jesolo, average prizes, for more info see their webpage
@@ -26,19 +24,10 @@ openinghours: 11pm - 4am, only Sat and summer Wed
 
 tel: 042 - 1371310
 
-[back to Nightlife and Entertainment](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

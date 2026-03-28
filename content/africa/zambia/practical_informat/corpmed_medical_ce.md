@@ -12,9 +12,3 @@ of Cairo Road in town. I believe malaria tests run about USD15.
 Corpmed Website: www.corpmedzambia.com
 
 type: Health and Safety
-
-
-
-
-
-[back to Practical Information](..)

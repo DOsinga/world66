@@ -11,7 +11,4 @@ Abersoch, on the south coast, is a popular sailing resort; Criccieth, with an ol
 
 Unfortunately there is no youth hostel in Lleyn.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 28 June 04
-
-Write up by [davidx](/member/davidx) on 15 September 04
+Write up by [davidx](/world/member/davidx) on 15 September 04

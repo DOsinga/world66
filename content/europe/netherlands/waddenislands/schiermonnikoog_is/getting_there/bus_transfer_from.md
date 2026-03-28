@@ -9,7 +9,4 @@ Get a direct bus transfer from Leeuwarden Railway station bus terminal: Arriva b
 
 *Tip*: At the bus terminal ticket office (not IN the bus!), buy a combined return-ticket for bus AND ferry. This way your transfer from Schiermonnikoog ferry-terminal to the village and back is quick and easy.
 
-*Change history*
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 24 February 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 24 February 05
+Minor corrections on 24 February 05

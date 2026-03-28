@@ -11,9 +11,3 @@ Normal - 200.00 Kshs
 
 River Road
 Nairobi, Kenya
-
-
-
-
-
-[back to Bars and Cafes](..)

@@ -17,8 +17,6 @@ it is better to get there by train.
 
 **Contributors**
 September 23, 2005
-new
-by [modir](/member/modir)
 
 ### [Airport Zurich](/europe/switzerland/getting_there/airport_zurich)
 
@@ -82,42 +80,3 @@ address: Postfach 142, CH-4030 Basel
 -
 
 -
-
-## Top Destinations in Switzerland
-
-- [Geneva](/europe/switzerland/geneva)
-- [Zurich](/europe/switzerland/zurich)
-- [Basel](/europe/switzerland/basel)
-- [Lausanne](/europe/switzerland/lausanne)
-- [Montreux](/europe/switzerland/montreux)
-- [St. Moritz](/europe/switzerland/stmoritz)
-
-- [Zermatt](/europe/switzerland/zermatt)
-- [Bern](/europe/switzerland/bern)
-- [Davos](/europe/switzerland/davos)
-- [Interlaken](/europe/switzerland/interlaken)
-- [Laax](/europe/switzerland/laax)
-- [Champery](/europe/switzerland/champery)
-
-[more >](/europe/switzerland/lib/alldestinations)
-
-[](/lib/map/handle?loc=europe|switzerland)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
-- |
-- [Adventure Travel](http://www.gapadventures.com)
-- |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
-- |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

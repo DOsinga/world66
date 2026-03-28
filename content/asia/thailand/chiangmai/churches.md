@@ -1,0 +1,4 @@
+---
+title: "Churches"
+type: location
+---

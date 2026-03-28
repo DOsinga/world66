@@ -10,17 +10,7 @@ To get there, just follow the calle Caceras with the town hall behind you. Follo
 
 **Contributors**
 May 20, 2006
-new
-by [joosts](/member/joosts) (2 points)
 
 May 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Hiking
-
-
-
-
-
-[back to Things to do](..)

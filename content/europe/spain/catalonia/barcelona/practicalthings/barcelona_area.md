@@ -13,13 +13,5 @@ The most dangerous area in the city are Plaza Real surroundings, El Raval & Pobl
 
 **Contributors**
 February 13, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Tourist information
-
-
-
-
-
-[back to Practical Information](..)

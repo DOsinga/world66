@@ -10,8 +10,6 @@ Julfa accounts for the Youth and Sport School of Julfa district, the Railway Clu
 
 **Contributors**
 April 16, 2006
-new
-by [azerbaijan08](/member/azerbaijan08)
 
 ### [JULFA DISTRICT POLICE DIVISION](/europe/azerbaijan/naxcivan/culfa/practical_informat/julfa__district__p)
 

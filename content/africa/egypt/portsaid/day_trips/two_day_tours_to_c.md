@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Hend@egyptonlinetours.net"
 phone: "0020111029094"
 url: "www.egyptonlinetours.net"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Departure: Everyday
@@ -32,7 +30,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Itinerary:-**
 
@@ -70,57 +68,7 @@ world's greatest monuments to medieval warfare, as well as a highly visible
 landmark on Cairo's eastern skyline. Also you will see **Mohamed Ali Mosque**, the most popular Islamic mosque
 among the tourists, which sometimes referred to as the **Alabaster mosque** due to its extensive use of that
 stone on some of the exterior walls & other surfaces, After that drive by
-an air-conditioned modern vehicle to Port Said. Back to the cruise in **Port Said** for your final departure.****
-
-****
-
-**Price Includes:-**
-
-• Pick up services from **Port Said port** & return (by the
-cruise exit door)
-
-• All transfers by a private air-conditioned vehicle
-
-• Accommodation in Cairo for 01 night at 5 star hotel
-
-• Private English Egyptologist guide
-
-• Entrance fees to all the mentioned sites
-
-• Mineral water on board the vehicle during the tour
-
-• Lunch during your day trip at local restaurant
-
-• Shopping tours in **Cairo **
-
-• All taxes & service charge****
-
-** **
-
-**Price Excludes:-**
-
-• Personal expenses
-
-• Any extras not mentioned above
-
-• Tips
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Contact
+an air-conditioned modern vehicle to Port Said. **Contact
 us:-**
 
 Website:- egyptonlinetours.net
@@ -151,5 +99,3 @@ url: [www.egyptonlinetours.net](http://www.egyptonlinetours.net/Shore-Excursions
 address: 124, Haram street, Giza, Egypt
 
 email: Hend@egyptonlinetours.net
-
-[back to Day Trips](..)

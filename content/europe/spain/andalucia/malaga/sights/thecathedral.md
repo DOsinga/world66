@@ -10,12 +10,8 @@ Malaga’s Cathedral also called “La Manquita” (one armed woman) due to only
 
 **Contributors**
 January 31, 2006
-change
-by [giorgio](/member/giorgio)
 
 June 03, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Churches and Cathedrals
 
@@ -26,5 +22,3 @@ type: Churches and Cathedrals
 address: C. de Molina Larios
 
 tel: +34 952 215 917
-
-[back to Sights](..)

@@ -38,5 +38,3 @@ assumed that 'sous le pont d'Avignon' would have meant in the river.
 
 **Contributors**
 July 24, 2006
-change
-by [gubbe](/member/gubbe)

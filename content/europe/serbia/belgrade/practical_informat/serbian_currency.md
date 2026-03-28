@@ -16,5 +16,3 @@ type: Money matters
 
 
 url: [www.totallybelgrade.com](http://www.totallybelgrade.com)
-
-[back to Practical Information](..)

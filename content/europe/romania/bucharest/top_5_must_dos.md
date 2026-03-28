@@ -19,10 +19,4 @@ The largest outdoor museum in Europe, covers 30 acres situated on Lake Herastrau
 
 **4. Peasant Museum**
 
-This folk art collection features over 90,000 artifacts that follow the diverse lives of the Romanian population. This is the most comprehensive view of the styles and traditions of the Romanian people with items dating all the way back to the 1700s. Previously named European Museum of the Year, this is a great look at carpets, icons, furniture, tools and photographs from all over the country.
-
-**5. Carol Park
-**
-One of the most beautiful parks in the city, this expansive greenspace features an eternal flame marking the tomb of the Unknown Soldier and holds a massive monument that previously held the remains of the communist leader Gheorge Gheorgiu Dej. The park offers some beautiful tree-lined paths, a great view of the city from the monument and the opportunity for a relaxing afternoon in the park. In the summer, the park is also host to numerous open air concerts at Arenele Romane.
-
-Bucharest is a pleasant mix of modern day style and old world charm and a great place to start out your tour of Romania.
+This folk art collection features over 90,000 artifacts that follow the diverse lives of the Romanian population. This is the most comprehensive view of the styles and traditions of the Romanian people with items dating all the way

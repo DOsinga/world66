@@ -1,9 +1,9 @@
 ---
-title: "Crans Montana Travel Guide"
+title: "Crans Montana"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Discover the most beautiful panorama in the Alps in Crans-Montana! The views over the « Imperial Crown » of the Weisshorn, the Zinalrothorn, the Obergabelhorn, the Matterhorn and the Dent-Blanche are striking.
 
@@ -13,9 +13,3 @@ Although the ski area attracts the best skiers in the world for Alpine skiing an
 The ski area can even be enjoyed by those who don’t ski ! The mountain restaurants and bars have very different atmospheres, and three of them have been renovated for this winter.
 
 Come and spend your winter holidays in Crans-Montana, whether you’re on your own, with the family or with friends. There are a great number of professionals on hand who’ll be pleased to accompany you on tailor-made downhill adventures !
-
-*Part or or all of this text stems from the original article at: http://www.tourism-crans-montana.co.uk*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 18:45

@@ -22,5 +22,3 @@ url: www.aspectsofmorocco.com
 address: Av Moulay Rachid BP : 159 - 45000 Ouarzazate, Morocco
 
 email: aspectsofmorocco@gmail.com
-
-[back to Day Trips](..)

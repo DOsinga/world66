@@ -61,5 +61,3 @@ yards.
 
 **Contributors**
 April 06, 2010
-change
-by [sarah mae](/member/sarah_mae)

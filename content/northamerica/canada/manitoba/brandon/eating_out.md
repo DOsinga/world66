@@ -13,5 +13,3 @@ Best coffee & ice/cream dessert spots: **Scarlatti's** and **Forbidden Flavors**
 
 **Contributors**
 April 05, 2005
-new
-by [kashwashwa](/member/kashwashwa)

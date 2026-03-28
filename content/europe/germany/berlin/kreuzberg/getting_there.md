@@ -29,9 +29,5 @@ Germany because the car rental agency will forward the fine to your mailing addr
 
 **Contributors**
 February 05, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

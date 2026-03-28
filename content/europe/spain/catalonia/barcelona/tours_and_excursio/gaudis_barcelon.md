@@ -5,8 +5,6 @@ address: "Barcelona"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 41.38258
-longitude: 2.177073
 ---
 
 Enjoy a half-day walking tour to visit Gaudi's masterpieces: the Sagrada Familia Church, La Casa Batllo, Casa Ametller and Casa Lleo Moreno: with a detailed tour to La Pedrera (Casa Milla)… 
@@ -21,5 +19,3 @@ On this private tour you will discover these and other Gaudi Creations.
 
 **Contributors**
 January 26, 2005
-new
-by [euroadventures](/member/euroadventures)

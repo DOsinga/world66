@@ -8,5 +8,3 @@ Camping there may be funny but be sure to have enough food,better do it only on 
 We currently have no Things to do listed in Plackovica.
 
 If you do know any Things to do in Plackovica, please [Add].
-
--->

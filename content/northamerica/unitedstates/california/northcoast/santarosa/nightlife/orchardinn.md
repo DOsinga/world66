@@ -16,5 +16,3 @@ address: 4404 Old Redwood Hwy
 tel: (707) 526-3096
 
 zipcode: Santa Rosa, CA 95403
-
-[back to Nightlife and Entertainment](..)

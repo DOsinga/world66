@@ -9,8 +9,6 @@ Famous rugby team. Golf
 
 **Contributors**
 January 04, 2007
-new
-by [huahinhans](/member/huahinhans)
 
 ### [Saint-Thomas](/europe/france/midi/languedoc/beziers/things_to_do/saintthomas)
 

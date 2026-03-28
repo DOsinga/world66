@@ -11,6 +11,4 @@ In North Greenland, the return of the sun is celebrated after the long polar nig
 
   In South Greenland, a meeting is held every summer with sheep-shearing, racing, and so on. In addition, cultural events are held in several towns, as well as jubilees, music festivals, special exhibitions and similar events during the summer.
 
-  Contact the local tourist office for additional information.  
-
--->
+  Contact the local tourist office for additional information.

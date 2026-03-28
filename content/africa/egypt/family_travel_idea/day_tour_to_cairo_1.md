@@ -5,8 +5,6 @@ address: "Hurghada,Egypt"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Pick up place:** Any **Taba** hotel
 
@@ -49,7 +47,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary:**
 
@@ -69,48 +67,7 @@ with Hanging Church. This area in **Cairo** called
 "Complex of Three Religions", because there also set the mosque of
 Amr Ibn al-Asa, erected in the year 642, and Ben Ezra Synagogue, dating from
 the tenth century. Shopping **tour** to the famous
-bazaars in **Cairo**. Free time in **Cairo** with many optional **tours**, then you return back to **Taba** with direct transfer to your hotel in **Taba**.
-
-**Tour Includes:**
-
-- Pick up and services from your hotel in **Taba**
-
-- Enterance fees to the **sightseeing** in **Cairo** and **Giza**
-
-- Professional English speaking Egyptologist **tour** guide.
-
-- All transfer by air-conditioned vehicles in Cairo & **Taba**
-
-- Lunch during **Cairo tour** at high quality resturant in **Cairo**
-
-- Travel REP assistance in pick up and drop off from your hotel in **Taba**
-
-- Drop off services from your hotel in **Taba**
-
-**Tour Excludes:**
-
-- Optional **tours**
-
-- Personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**What To Bring:**
+bazaars in **Cairo**. Free time in **Cairo** with many optional **tours**, then you return **What To Bring:**
 
 - Passport valid for 6 months
 
@@ -150,5 +107,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Hurghada,Egypt
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Family Travel Ideas](..)

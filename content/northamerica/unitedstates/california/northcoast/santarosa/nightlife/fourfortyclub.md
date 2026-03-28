@@ -18,5 +18,3 @@ address: 434 College Ave
 tel: (707) 542-2550
 
 zipcode: Santa Rosa, CA 95401
-
-[back to Nightlife and Entertainment](..)

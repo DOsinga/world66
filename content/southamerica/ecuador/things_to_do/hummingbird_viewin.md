@@ -15,5 +15,3 @@ type: Other
 url: [www.ecuadortravelsite.org](http://www.ecuadortravelsite.org/hummingbirds_ecuador.html)
 
 address: Ecuador Travel
-
-[back to Things to do](..)

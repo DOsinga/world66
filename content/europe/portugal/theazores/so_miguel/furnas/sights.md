@@ -10,8 +10,6 @@ Pay the tourist office a visit if you need help. Very friendly lady who speaks g
 
 **Contributors**
 June 29, 2005
-new
-by [gagarin](/member/gagarin)
 
 ### [Terra Nostra Garden](/europe/portugal/theazores/so_miguel/furnas/sights/terra_nostra_garde)
 

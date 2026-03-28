@@ -56,5 +56,3 @@ the canyon.
 
 **Contributors**
 August 29, 2009
-change
-by [kimerly](/member/kimerly)

@@ -18,5 +18,3 @@ address: 616 Mendocino Ave
 tel: (707) 575-1354
 
 zipcode: Santa Rosa, CA 95401
-
-[back to Nightlife and Entertainment](..)

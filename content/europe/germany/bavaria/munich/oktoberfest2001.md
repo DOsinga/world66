@@ -1,8 +1,6 @@
 ---
 title: "Oktoberfest"
 type: location
-latitude: 48.131489
-longitude: 11.549755
 ---
 
 **September 18th to October 3rd 2004**
@@ -12,9 +10,3 @@ The Munich Oktoberfest - known by the locals as the "Wiesn" - is the biggest pub
 At the foot of the Bavaria statue, the huge Oktoberfest grounds also provide carousels, roller coasters and all the spectacular fun of the fair for the enjoyment and excitement of visitors of all ages.
 
 The festivities are accompanied by a program of events, including the Grand Entry of the Oktoberfest Landlords and Breweries, the Costume and Riflemen's Procession, and a concert involving all the brass bands represented at the "Wies'n".
-
-## Subsections
-
-[Beertents](/europe/germany/bavaria/munich/oktoberfest2001/beertents)
-
-[History](/europe/germany/bavaria/munich/oktoberfest2001/history)

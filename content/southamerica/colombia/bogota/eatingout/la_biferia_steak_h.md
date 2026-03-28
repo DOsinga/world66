@@ -12,8 +12,6 @@ Typical selection of various meats, etc. Rather mixed results here. Some found t
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley)
 
 type: International
 
@@ -28,5 +26,3 @@ address: Calle 69A, #5-61
 PriceOfMenu: Moderate
 
 email: labiferia@etb.net.com
-
-[back to Eating Out](..)

@@ -15,5 +15,3 @@ type: South American
 address: Av. Adriano J. Coelho, 7
 
 tel: +35 21 924 16 72
-
-[back to Eating Out](..)

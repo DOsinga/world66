@@ -4,8 +4,6 @@ type: poi
 accessibility: "good"
 address: "Schlossgasse 21"
 type: "Local"
-latitude: 48.191044
-longitude: 16.359178
 ---
 
 Very cozy Viennese restaurant, quite high prices, but worth it! All kind of food, including own menu for vegetarians.
@@ -15,8 +13,6 @@ The owner of the restaurant also owns a modern café in Margaretenstrasse 77 cal
 
 **Contributors**
 October 21, 2007
-new
-by [vanilja](/member/vanilja)
 
 type: Local
 
@@ -27,5 +23,3 @@ type: Local
 accessibility: good
 
 address: Schlossgasse 21
-
-[back to Eating Out](..)

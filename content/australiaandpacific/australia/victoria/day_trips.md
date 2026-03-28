@@ -15,5 +15,3 @@ towns to visit, like Lorne and Apollo Bay.
 
 **Contributors**
 March 29, 2006
-new
-by [out of the grey](/member/out_of_the_grey) (1 point)

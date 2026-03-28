@@ -56,5 +56,3 @@ hours north, and Las Vegas is a four-and-a-half hour drive east.
 
 **Contributors**
 August 05, 2009
-change
-by [robert spuhler](/member/robert_spuhler)

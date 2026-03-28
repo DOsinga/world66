@@ -1,0 +1,4 @@
+---
+title: "Goodland"
+type: location
+---

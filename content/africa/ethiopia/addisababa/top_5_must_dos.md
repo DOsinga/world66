@@ -27,5 +27,3 @@ Built in 1896, St. George's is a fine example of an Ethiopian Orthodox Church. A
 
 **Contributors**
 August 13, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

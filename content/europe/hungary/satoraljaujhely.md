@@ -1,8 +1,6 @@
 ---
 title: "Satoraljaujhely"
 type: location
-latitude: 48.396098
-longitude: 21.65615
 ---
 
 Once the town of the historic Zemplen county, Satoraljaujhely is situated - by the famous Hungarian poet, Sandor Petofi - "by the foot of the incomparably beautiful Sator hills". In 1261 it was granted town privileges by King Stephen the 5th. Due to its favourable geographic position, the town began to thrive as early as the Middle Ages.

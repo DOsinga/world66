@@ -1,9 +1,9 @@
 ---
-title: "Littleton Travel Guide"
+title: "Littleton"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Littleton area is truly a destination. It is the center for
 business, unique shopping experiences, recreation, cultural arts,
@@ -18,13 +18,3 @@ street along the riverfront where there is fine shopping and buildings
 that show up in historic photos. A new walking bridge provides a
 community connection and a scenic downtown river walk opportunity- as
 it does for biking.
-
-*Part or or all of this text stems from the original article at: http://www.littletonareachamber.com/littleton.php*
-
-#### Contributors
-
-April 28, 2007 new by [chirag](/member/chirag)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 07:59

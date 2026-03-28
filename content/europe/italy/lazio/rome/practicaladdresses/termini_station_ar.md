@@ -8,17 +8,7 @@ Termini Station Area is a very big metro and train station. You can also go shop
 
 **Contributors**
 February 13, 2007
-change
-by [psychoralu](/member/psychoralu) (2 points)
 
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Train station
-
-
-
-
-
-[back to Practical Information](..)

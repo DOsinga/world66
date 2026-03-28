@@ -49,5 +49,3 @@ Where to Eat
 
 **Contributors**
 August 04, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

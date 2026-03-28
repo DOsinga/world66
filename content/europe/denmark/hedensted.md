@@ -1,0 +1,4 @@
+---
+title: "Hedensted"
+type: location
+---

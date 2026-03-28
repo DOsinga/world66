@@ -8,13 +8,9 @@ This 11-mile long sandbar has two large public beaches as well as hotels, shops,
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 
 
 
 
 address: Lido Tourist Office: Gran Viale 6
-
-[back to Day Trips](..)

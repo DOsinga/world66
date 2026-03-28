@@ -27,5 +27,3 @@ Hassan Tower was supposed to be seen as the largest minaret across the globe. Un
 
 **Contributors**
 March 08, 2010
-change
-by [gabriellet](/member/gabriellet)

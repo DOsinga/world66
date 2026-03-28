@@ -49,5 +49,3 @@ Dubrovnik Private Tours from company Queen Service Dubrovnik let you to see Dubr
 
 **Contributors**
 December 15, 2007
-new
-by [lsadriatic](/member/lsadriatic)

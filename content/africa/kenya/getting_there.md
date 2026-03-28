@@ -41,12 +41,4 @@ Travel from Somalia is generally via Liboi where a change of bus will be require
 
 Note 
 
-The FCO is currently advising travellers to avoid travelling overland through the northeastern province of Kenya; travellers are advised to contact the Travel Advice Line (see above) for up-to-date information. Four-wheel-drive vehicles are recommended for travel in this region. 
-
-
-
-
-
-## Subsections
-
-[By Air](/africa/kenya/gettingthere/byair)
+The FCO is currently advising travellers to avoid travelling overland through the northeastern province of Kenya; travellers are advised to contact the Travel Advice Line (see above) for up-to-date information. Four-wheel-drive vehicles are recommended for travel in this region.

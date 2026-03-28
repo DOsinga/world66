@@ -1,0 +1,4 @@
+---
+title: "Mataro"
+type: location
+---

@@ -18,5 +18,3 @@ address: 412 Larkfield Shopping Center
 tel: (707) 545-1658
 
 zipcode: Santa Rosa, CA 95403
-
-[back to Nightlife and Entertainment](..)

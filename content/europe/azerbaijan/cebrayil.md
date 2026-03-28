@@ -1,9 +1,9 @@
 ---
-title: "Cebrayil Travel Guide"
+title: "Cebrayil"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Jebrail is a small town situated at an altitude of 600m, in the southern foothills of the Nagorno Karabakh mountain range. A stream, which flows through the Jebrail, dries out in summertime. Until 1950 Jebrail was merely a village but its population increased a lot in the following years. It is the capital of the rayon of the same name with a territory of 1050 sq. km., separated from the Iranian province of Eastern Azerbaijan by the river Araz. In the pre-Soviet period the present area of the district was part of the Jabrail uyezd, formed in 1875, which was even larger.
 
@@ -18,13 +18,3 @@ Jebrail borders the Nagorno Karabakh territory but is not claimed by the Armenia
 The most picturesque scenery in the vicinity is a huge poplar (tulip tree), which is believed to be one thousand years old. Outside Jebrail, in the village of Khalfli , an ancient watch tower still stands, allowing a great panorama over the region. The ruins of two remarkable 12th century bridges can be seen in the village of Khudafarin .
 
 (340 km south-west of Baku)
-
-*Part or or all of this text stems from the original article at: azerb.com*
-
-#### Contributors
-
-April 30, 2006 new by [azerbaijan08](/member/azerbaijan08) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 23:54

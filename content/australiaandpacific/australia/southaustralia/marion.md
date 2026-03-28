@@ -1,0 +1,4 @@
+---
+title: "Marion"
+type: location
+---

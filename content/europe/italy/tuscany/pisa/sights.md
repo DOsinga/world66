@@ -25,9 +25,7 @@ tel: +39 (0)50 - 525500
 
 **Chiesa di Santa Maria della Spina**
 
-The small and bright church of Santa Maria della Spina is a remarkable example of Pisan Gothic. It was built in 1230 on the banks of the river Arno. The church's current name dates back to 1333, when it preserved the reliquary of a thorn of the Saviour’s crown (spina = thorn). Today the reliqua [more..](/europe/italy/tuscany/pisa/sights/chiesadisantamariadellaspina)
-
-address: Lungarno Gambacorti, Pisa
+The small and bright church of Santa Maria della Spina is a remarkable example of Pisan Gothic. It was built in 1230 on the banks of the river Arno. The church's current name dates address: Lungarno Gambacorti, Pisa
 
 openinghours: Winter: Tue - Sun 10am - 2pm. Summer: Tue - Fri 10am - 1.30 and 2.30 - 5pm, Sat & Sun 10am - 1.30 and 2.30 - 7/8pm
 

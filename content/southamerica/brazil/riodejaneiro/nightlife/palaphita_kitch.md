@@ -10,8 +10,6 @@ Some delights such as the "bruschetta de berinjela" or a portion of four "antepa
 
 **Contributors**
 January 22, 2009
-new
-by [liamodena](/member/liamodena)
 
 type: Casinos
 
@@ -20,5 +18,3 @@ type: Casinos
 
 
 address: Kiosk da Lagoa
-
-[back to Nightlife and Entertainment](..)

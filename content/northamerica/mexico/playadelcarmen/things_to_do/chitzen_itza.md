@@ -17,5 +17,3 @@ type: Trekking
 url: [www.virtual-playadelcarmen.com](http://www.virtual-playadelcarmen.com)
 
 email:
-
-[back to Things to do](..)

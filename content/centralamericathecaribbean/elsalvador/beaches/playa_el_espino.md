@@ -11,5 +11,3 @@ email: "acaz23@aol.com"
 
 
 email: acaz23@aol.com
-
-[back to Beaches](..)

@@ -24,9 +24,5 @@ October, as cruises don't always operate during the winter.
 
 **Contributors**
 April 14, 2010
-new
-by [amymc](/member/amymc)
 
 April 17, 2010
-change
-by [2 many commas](/member/2_many_commas)

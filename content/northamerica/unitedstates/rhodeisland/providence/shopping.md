@@ -7,5 +7,3 @@ If you are in the mood for some Providence shopping while on vacation, check out
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

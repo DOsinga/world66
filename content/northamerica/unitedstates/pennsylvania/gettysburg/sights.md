@@ -12,8 +12,6 @@ The main attraction in Gettysburg is the Gettysburg National Military Park, whic
 
 **Contributors**
 January 19, 2006
-new
-by [michael chapman](/member/michael_chapman)
 
 ### [Soldiers' National Cemetery](/northamerica/unitedstates/pennsylvania/gettysburg/sights/soldiers_national)
 

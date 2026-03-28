@@ -1,8 +1,6 @@
 ---
 title: "Somalia"
 type: location
-latitude: 8.367677
-longitude: 49.083416
 ---
 
 Somalia is bounded on the north by the Gulf of Aden, on the east and south by the Indian Ocean, on the southwest by Kenya., on the west by [Ethiopia](/africa/ethiopia), and on the northwest by [Djibouti](/africa/djibouti). The total area is 637,657 sq km (about 246,200 sq mi). The northern part of Somalia is known as [Somaliland](/africa/somaliland) and is a semi-autonomous region. 
@@ -49,5 +47,3 @@ Getting around in Somalia can be tough. The country has no railroads; of about 2
 [Garowe](/africa/somalia/garowe)
 [garadag](/africa/somalia/garadag)
 [Berbera](/africa/somalia/berbera)
-
--->

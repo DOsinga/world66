@@ -1,9 +1,9 @@
 ---
-title: "College Station Texas Hotel- Manor Inn College Station Travel Guide"
+title: "College Station Texas Hotel- Manor Inn College Station"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Key Word : college station texas hotel, bryan texas hotel, texas world speedway hotel
 
@@ -13,9 +13,3 @@ well-appointed guestroom at the reasonably-priced Manor Inn College
 Station, an extended-stay hotel near Texas A and M University.
 
 URL : http://www.manorhouseinn.com/
-
-*Part or or all of this text stems from the original article at: http://www.manorhouseinn.com/*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 12:30

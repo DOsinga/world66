@@ -1,12 +1,8 @@
 ---
-title: "Nida curonian spit Travel Guide"
+title: "Nida curonian spit"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Nida Curonian Spit
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 07:55

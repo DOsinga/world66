@@ -11,6 +11,4 @@ Inside the Basilica is an entertaining collection of murals which describe local
 
 **Zoo**
 
-Just outside you can find the local zoo. A few interesting animals are to be seen as a jaguar, but all in all rather boring.  
-
--->
+Just outside you can find the local zoo. A few interesting animals are to be seen as a jaguar, but all in all rather boring.

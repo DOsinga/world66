@@ -13,5 +13,3 @@ No matter what you like to do, Tunica has something for everyone.
 
 **Contributors**
 March 13, 2008
-new
-by [jaminmiss](/member/jaminmiss) (1 point)

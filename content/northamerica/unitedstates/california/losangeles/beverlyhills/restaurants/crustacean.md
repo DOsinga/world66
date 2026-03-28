@@ -1,6 +1,6 @@
 ---
 title: "Crustacean"
-type: location
+type: poi
 address: "9646 Little Santa Monica Boulevard, Beverly Hills, CA, 90210"
 email: "info@anfamily.com"
 phone: "+1-310-205-8990"
@@ -18,7 +18,5 @@ grilled tiger prawns, Sea Bass and the famous garlic noodles.
 
 **Contributors**
 February 27, 2007
-new
-by [rfujitani](/member/rfujitani) (2 points)
 
 type: Seafood

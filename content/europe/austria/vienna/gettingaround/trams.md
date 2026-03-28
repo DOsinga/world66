@@ -11,5 +11,3 @@ address: "Schonbrunn Palce"
 
 
 address: Schonbrunn Palce
-
-[back to Getting Around](..)

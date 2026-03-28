@@ -1,0 +1,4 @@
+---
+title: "Kirchzarten"
+type: location
+---

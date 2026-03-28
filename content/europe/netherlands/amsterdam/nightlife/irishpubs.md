@@ -1,8 +1,6 @@
 ---
 title: "Irish Pubs"
 type: poi
-latitude: 52.364505
-longitude: 4.88227
 ---
 
 **Recommendations**

@@ -8,11 +8,5 @@ This 1.5 hour walk starts at Dam Square -- considered the Times Square of Amster
 
 **Contributors**
 May 13, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Other
-
-
-
-[back to Things to do](..)

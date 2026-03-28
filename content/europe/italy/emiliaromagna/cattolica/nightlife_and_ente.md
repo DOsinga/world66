@@ -11,5 +11,3 @@ organised by the local town councils.
 
 **Contributors**
 October 06, 2006
-change
-by [giorgio](/member/giorgio)

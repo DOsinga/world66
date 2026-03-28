@@ -1,0 +1,4 @@
+---
+title: "Mazatlan"
+type: location
+---

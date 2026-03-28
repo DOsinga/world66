@@ -16,14 +16,4 @@ Vienna&rsquo;s shops have their own style preferences, and they aren&rsquo;t alw
 
 **Night Markets**
 
-The mention of flea markets usually arouses images of congested, street-side markets. However, Vienna's take on the concept of flea market is very different. Held at the Naschmarkt, the market is organized as a night-market. The stalls and shops don&rsquo;t have the usual hurried look to them. The most popular offerings are the typical Viennese creations, like souvenirs dating back to the First World War. The market has dedicated pedestrian zones for visitors wanting to buy discounted, luxury goods. Many times, shops also offer selected pieces picked from the nearby, art-stores and designer boutiques.
-
-**Jewelry Boutiques**
-
-The three most recommended destinations for buying jewelry items prepared from precious/semi-precious stones are:
-
-- Kohlmarkt
-- K&auml;rntner Strasse
-- Graben
-
-These areas have many upmarket boutiques along with the neighboring, Ringstrassengalerie, that is a favored place for many European, couture designers.
+The mention of flea markets usually arouses images of congested, street-side markets. However, Vienna's take on the concept of flea market is very different. Held at the Naschmarkt, the market is organized as a night-market. The stalls and shops don&rsquo;t have the usual hurried look to them. The most popular offerings are the typical Viennese creations, like souvenirs dating

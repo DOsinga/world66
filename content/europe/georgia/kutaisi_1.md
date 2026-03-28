@@ -1,9 +1,9 @@
 ---
-title: "Kutaisi Travel Guide"
+title: "Kutaisi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Sataplia National Reserve
 
@@ -21,9 +21,3 @@ The most developed types of tourism in the adjacent territory of the Strict Natu
 
 Flora: Floristic natural complex (limestone caves, footstep of a dinosaur). Plantations of Kolkhetian box-trees and chestnut.
 Fauna: Fox, badger.
-
-*Part or or all of this text stems from the original article at: http://reservetour.com/article_info.php?cArticlePath=11_13&articles_id=23*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 14:10

@@ -5,8 +5,6 @@ accessibility: "Everyone"
 address: "San Carlos"
 phone: "618 900 128"
 type: "Antiques"
-latitude: 37.504936
-longitude: -122.261823
 ---
 
 A very groovy and Bohemian shop selling antiques and vintage treasure including Murano art glass, old English silver, antique bags, dresses made out of vintage silk saris, jewellery made out of antique beads, chandeliers, renovated furniture, antique ornaments and brass, copper and silver candlesticks and bits and bobs.
@@ -28,5 +26,3 @@ accessibility: Everyone
 tel: 618 900 128
 
 address: San Carlos
-
-[back to Shopping](..)

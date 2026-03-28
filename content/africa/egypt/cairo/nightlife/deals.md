@@ -17,5 +17,3 @@ type: Bars and Pubs
 address: El Sayed El Bakri Street Off 26th Of July Street
 
 tel: +20 2 3410502
-
-[back to Nightlife and Entertainment](..)

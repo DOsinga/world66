@@ -15,4 +15,4 @@ For hikers with good shoes, a short eight-km drive from the city center is the M
 
 **Hyrax Hill**
 
-Hyrax Hill is one of the most important Neolithic sites in Kenya and one of the things to see in Nakuru. It dates back to at least 1500 B.C., and shows the remains of tombs, settlements and a fortress from various time periods. The site and its surrounding area has been excavated since 1937 and new discoveries are still being found every year. Hyrax Hill is open to the public, allowing tourists to see prehistoric nomadic remains, small permanent villages, and the beginnings of an Iron Age culture. A small museum is located on-site and stores the more fragile items. The exhibits are simple, but the models are well-done and explanations are understandable. A guided safari of the hill is available and is the best way to see everything.
+Hyrax Hill is one of the most important Neolithic sites in Kenya and one of the things to see in Nakuru. It dates

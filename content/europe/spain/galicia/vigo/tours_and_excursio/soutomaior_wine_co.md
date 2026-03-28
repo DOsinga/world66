@@ -15,5 +15,3 @@ url: www.euroadventures.net
 tel: +34 986 22 13 99
 
 email: tours@euroadventures.net
-
-[back to Tours and Excursions](..)

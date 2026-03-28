@@ -19,8 +19,6 @@ Boiled Crawfish
 
 **Contributors**
 January 19, 2005
-new
-by [gambit242](/member/gambit242) (1 point)
 
 type: Local
 
@@ -33,5 +31,3 @@ zipcode: 72101
 PriceOfMenu: $6 to $15
 
 address: Forsythe Ave
-
-[back to Eating Out](..)

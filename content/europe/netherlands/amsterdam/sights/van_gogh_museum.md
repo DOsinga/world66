@@ -14,8 +14,6 @@ The Van Gogh Museum is home to the largest collection of paintings by Vincent Va
 
 **Contributors**
 May 12, 2008
-change
-by [mcburton](/member/mcburton) (1 point)
 
 type: Hotspots
 
@@ -32,5 +30,3 @@ url: [www3.vangoghmuseum.nl](http://www3.vangoghmuseum.nl)
 address: The Van Gogh Museum is on Museumplein, between the Rijksmuseum and hte Stedelijk Museum. The entrance is at Paulus Potterstraat 7.
 
 email: info@vangoghmuseum.nl
-
-[back to Sights](..)

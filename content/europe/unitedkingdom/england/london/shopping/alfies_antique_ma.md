@@ -10,8 +10,6 @@ Strap on your bargaining boots and adjust your haggling hat and head down to Alf
 
 **Contributors**
 May 17, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Antiques
 
@@ -22,5 +20,3 @@ type: Antiques
 tel: 0207 723 6066
 
 address: 13-25 Church Street, Regents Park
-
-[back to Shopping](..)

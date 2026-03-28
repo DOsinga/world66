@@ -1,9 +1,9 @@
 ---
-title: "Three Forks Travel Guide"
+title: "Three Forks"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Three Forks is a city in Gallatin County, Montana, United
 States. The population was 1,728 at the 2000 census. Three Forks is named
@@ -21,9 +21,3 @@ She later returned to this area with Lewis and Clark and the Corps of
 Discovery. A statue of Sacagawea now sits in a park off Main Street.
 
 The Three Forks school mascot is the Wolves.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Three_Forks*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 06:19

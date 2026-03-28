@@ -15,5 +15,3 @@ type: Pubs
 tel: 08134965244
 
 address: 29 ALCON RD WOJI
-
-[back to Nightlife and Entertainment](..)

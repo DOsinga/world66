@@ -21,7 +21,5 @@ The experience doesn't even stop on landing - as part of the cost you will be tr
 
 **Contributors**
 December 02, 2005
-new
-by [andrewb](/member/andrewb)
 
 type: By Air

@@ -19,5 +19,3 @@ Ferry travel from Lago Maggiore is possible only to the Stressa Islands, which a
 
 **Contributors**
 April 16, 2010
-change
-by [damiandavilarojas](/member/damiandavilarojas)

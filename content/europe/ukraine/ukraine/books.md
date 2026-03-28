@@ -118,5 +118,3 @@ subject: history
 isbn: 3876608279
 
 subject: travel
-
--->

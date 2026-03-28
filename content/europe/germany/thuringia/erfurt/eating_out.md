@@ -11,5 +11,3 @@ Erfurt also hosts a farmers market near its famous church which brings farmers f
 
 **Contributors**
 March 12, 2007
-new
-by [dchung](/member/dchung) (4 points)

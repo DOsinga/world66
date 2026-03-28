@@ -9,8 +9,6 @@ The struggles of a Doctor from Northern Ireland to set up an Aids Hospital in th
 
 **Contributors**
 March 03, 2005
-change
-by [puddlepuff](/member/puddlepuff)
 
 [](http://www.amazon.com/exec/obidos/ASIN/187436723X/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -19,5 +17,3 @@ by [puddlepuff](/member/puddlepuff)
 author: Dr Ian Clarke
 
 isbn: 187436723X
-
-[back to Books](..)

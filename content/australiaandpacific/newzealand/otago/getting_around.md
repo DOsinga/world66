@@ -16,5 +16,3 @@ If you are a biker, or have a bike license, this is the number one option to see
 
 **Contributors**
 April 28, 2007
-new
-by [lpx](/member/lpx) (2 points)

@@ -19,8 +19,6 @@ most of the area and is not to be missed.
 
 **Contributors**
 October 14, 2005
-change
-by [patrickneil](/member/patrickneil)
 
 
 
@@ -29,5 +27,3 @@ by [patrickneil](/member/patrickneil)
 url: [www.georgetowndc.com](http://www.georgetowndc.com)
 
 address: Wisconson Ave. & M St. NW
-
-[back to Day Trips](..)

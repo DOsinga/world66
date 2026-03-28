@@ -19,12 +19,4 @@ At one time, when there was a bounty on eagles, the people of Værøy used to ca
 
 At one time, about 150 people lived here, catching puffins as a subsidiary source of income. Catching puffins involved the use of the unusual puffin dog, also termed the Måstad dog. Puffin meat was cured in salt and lasted way into the autumn. There were no roads and very unsatisfactory harbours, so a few years after the war, the village was abandoned. 
 
-Today, there are about 700 puffin dogs in Norway. All of them can be traced back to Måstad. Going ashore on Måstad is generally combined with a fishing trip or an expedition by boat to the bird cliffs. Måstad can also be reached on foot. Simple overnight accommodation is available at the schoolhouse. 
-
-**Værøy Old Church** 
-
-This wooden church is to be found at Nordland. It was taken apart, moved from Kabelvåg and rebuilt at Værøy in 1799. This is the oldest church in Lofoten. Right beside it, there is a small local museum. 
-
-**Theodor Kittelsen 
-
-**During his Lofoten period, the painter also visited Værøy, where he lived in the "Borgstua" of the old vicarage, which has since been turned into an inn.
+Today, there are about 700 puffin dogs in Norway. All of them can be traced

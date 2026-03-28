@@ -1,9 +1,9 @@
 ---
-title: "Newton Abbot Travel Guide"
+title: "Newton Abbot"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 We currently have no information about Newton Abbot.
 
@@ -13,8 +13,3 @@ If you know any hotels in Newton Abbot or restaurants in Newton Abbot, please [[
 
 More information on
 *Newton Abbot Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 09:48

@@ -8,8 +8,3 @@ Getting from the level of the Barrio in Lisbon up to the Bairro Alto would eithe
 The Elevador de Santa Justa is a large outdoor lift from the end of a road to a level about half way up - very picturesque.
 
 The Elevador de Gloria is a funicular up from near Rocio station to the Bairro Alto. To the right at the top is a view point across the lower city and up to the Castelo on the other side - superb when the sun is declining.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 14 November 04
-
--->

@@ -19,4 +19,4 @@ Ristorante La Capanna is a beautiful beach side restaurant with a great view of 
 
 **Bar Calise**
 
-Bar Calise is a bar famous for a pastry tradition that goes all the way back to the early 1900s. Although the selection of pastries has grown with time, the tradition of excellence has been maintained. It is also a perfect place to relax with a drink in the tropical garden that is awaiting outside. Don&rsquo;t forget to sample their delicious ice cream!
+Bar Calise is a bar famous for a pastry tradition that goes all the way

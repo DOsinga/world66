@@ -35,8 +35,6 @@ ingredients, and flavors found in both traditional and contemporary dishes.
 
 **Contributors**
 December 22, 2006
-new
-by [dkastner](/member/dkastner) (2 points)
 
 type: Public Buildings
 
@@ -53,5 +51,3 @@ openingHours: 0 a.m. to 5:30 p.m. daily; closed December 25.
 url: [www.nmai.si.edu](http://www.nmai.si.edu/subpage.cfm?subpage=dc&second=visitor&third=hours)
 
 address: 4th St. and Independence Ave., S.W. Washington, D.C. 20560
-
-[back to Sights](..)

@@ -1,0 +1,4 @@
+---
+title: "Canouan"
+type: location
+---

@@ -110,7 +110,3 @@ author: Robert I. Rotberg,Rotberg Robert I E
 isbn: 0674771915
 
 subject: history
-
-## Subsections
-
-[handy guide to victoria falls](/africa/zambia/books/handyguidetovictoriafalls_1)

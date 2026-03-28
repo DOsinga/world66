@@ -1,9 +1,9 @@
 ---
-title: "Dunmore Travel Guide"
+title: "Dunmore"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Title : **Dunmore Pennsylvania Hotel in Scranton Area**
 
@@ -14,9 +14,3 @@ Keywords : **Scranton Hotel Hotels in Scranton PA Scranton PA motel hotels in Sc
 **URL : **http://www.hiscranton.com/
 **
 **
-
-*Part or or all of this text stems from the original article at: Hotel*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 16:12

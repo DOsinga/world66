@@ -1,26 +1,12 @@
 ---
 title: "De Waag"
 type: poi
-address: "Nieuwmarkt 4"
-phone: "020-5579844"
-type: "European"
-zipcode: "1012 CR"
-latitude: 52.372774
-longitude: 4.900344
 ---
 
-De Waag is a place where you can eat well in medieval environment. In summer you can site outside on the Nieuwmarkt square.
+**Arthur :** In een sfeer die net zou misstaan in de Middeleeuwen, kun je zo groot en zo klein eten als je wilt, zowel binnen als buiten. 's Zomers staan buiten lange tafels waar je kunt aanschuiven. Ietsje bourgondisch, al zou je een wat zwaardere steak verwachten. Hoewel, het gewicht MOET wel kloppen. Het blijft natuurlijk 'De Waag'.
 
-Although it is a really nice place to sit, there are better restaurants
-just around the corner on the Nieuwmarkt square and on the Zeedijk.
+address: Nieuwmarkt 4
 
-**Contributors**
-May 06, 2005
-change
-by [richardosinga](/member/richardosinga) (1 point)
+tel: 020-5579844
 
-May 06, 2005
-change
-by [hpharmsen](/member/hpharmsen)
-
-type: European
+pc: 1012 CR

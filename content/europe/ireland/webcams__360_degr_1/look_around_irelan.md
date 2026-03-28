@@ -19,5 +19,3 @@ tel: 00353 1 8510512
 url: [www.lookaroundireland.com](http://www.lookaroundireland.com)
 
 email: almara@oceanfree.net
-
-[back to Webcams & 360 degree pics](..)

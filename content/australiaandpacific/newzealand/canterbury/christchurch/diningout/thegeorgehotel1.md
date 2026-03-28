@@ -15,7 +15,3 @@ postal:  P O Box 13063, Christchurch
 email:  info@thegeorge.com
 
 type: general
-
-
-
-[back to Dining Out](..)

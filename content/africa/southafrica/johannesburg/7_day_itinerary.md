@@ -71,5 +71,3 @@ itinerary will leave you yearning for more of this beautiful city.
 
 **Contributors**
 April 02, 2010
-change
-by [joekabuya](/member/joekabuya)

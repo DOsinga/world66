@@ -9,13 +9,9 @@ The city walls, shaped in the far 14th century, surround the city core almost tw
 
 **Contributors**
 December 19, 2008
-new
-by [crotraveller](/member/crotraveller)
 
 type: Landmarks
 
 
 
 url: [croatia.valamar.com](http://croatia.valamar.com/dubrovnik/city-walls/)
-
-[back to Sights](..)

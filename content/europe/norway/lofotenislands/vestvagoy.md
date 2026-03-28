@@ -65,14 +65,4 @@ Lofoten Riding Centre and Leisure Resort.
 
 **Holsøyene 
 
-**One of the largest known North Norwegian burial sights from pagan times, believed to date back to the early Iron Age, i.e. somewhere between 200/300 and 600 BC. 
-
-**Vestvågøy Museum** 
-
-At Fygle, there is a fine collection of approx. 2,000 items. At Skaftnes (Sennesvik), the collection further consists of a farm house from 1860, a pier, a large boat house and a forge. There are also remains from the Stone Age in the settlements at Sversvika. 
-
-**Hol, Fygle** 
-
-Hol Church is the oldest church in Vestvågøy. This is a cruciform church built out of wood in 1806. The first church was built in 1400 and the altarpiece dates back to 1766.
-
--->
+**One of the largest known North Norwegian burial sights from pagan times, believed to date

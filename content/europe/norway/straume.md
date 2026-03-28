@@ -1,0 +1,4 @@
+---
+title: "Straume"
+type: location
+---

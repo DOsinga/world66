@@ -7,8 +7,6 @@ Getting around in Mannheim is very easy. Almost everything in the centre can be 
 
 **Contributors**
 October 13, 2006
-new
-by [krissi](/member/krissi) (1 point)
 
 ### [Public transport](/europe/germany/badenwrttemberg/mannheim/getting_around/public_transport)
 

@@ -1,0 +1,4 @@
+---
+title: "zanzur"
+type: location
+---

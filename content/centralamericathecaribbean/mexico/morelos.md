@@ -1,0 +1,4 @@
+---
+title: "Morelos"
+type: location
+---

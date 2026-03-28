@@ -23,5 +23,3 @@ The Parco del Valentine is the most famous of all parks in Turin. It is found al
 
 **Contributors**
 April 06, 2010
-new
-by [piyushjain](/member/piyushjain_)

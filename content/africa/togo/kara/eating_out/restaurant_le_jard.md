@@ -11,8 +11,6 @@ The restaurant, which is attached to the hotel with the same name, is set in the
 
 **Contributors**
 February 02, 2008
-change
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 type: French
 
@@ -23,5 +21,3 @@ tel: 6600134
 PriceOfMenu: 7 euro
 
 email: le.jardin@bibway.com
-
-[back to Eating Out](..)

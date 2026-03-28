@@ -15,5 +15,3 @@ type: Bars & Cafes
 address: Randburg Waterfront, Republic Road
 
 tel: (011) 886-4408
-
-[back to Nightlife and Entertainment](..)

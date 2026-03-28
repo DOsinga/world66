@@ -8,8 +8,6 @@ phone: "+351 21 3141746"
 price: "20€"
 type: "Portuguese"
 url: "www.restauranteseculoxxi.com"
-latitude: 38.728892
-longitude: -9.146268
 ---
 
 Rua Sousa Martins nº5A +351 21 3141746
@@ -47,5 +45,3 @@ address: Rua Sousa Martins nº5A 1050-217 Lisboa
 PriceOfMenu: 20€
 
 email: geral@restauranteseculoxxi.com
-
-[back to Eating Out](..)

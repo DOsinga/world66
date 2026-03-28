@@ -8,11 +8,7 @@ An interesting day tour that takes you to the picturesque windmill town of [de Z
 
 **Contributors**
 September 21, 2008
-change
-by [jaxs](/member/jaxs)
 
 
 
 url: [www.travel-postcards.com](http://www.travel-postcards.com/holland.htm)
-
-[back to Day Trips](..)

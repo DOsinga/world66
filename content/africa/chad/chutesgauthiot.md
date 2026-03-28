@@ -1,8 +1,6 @@
 ---
 title: "Chutes gauthiot"
 type: location
-latitude: 9.723031
-longitude: 14.560595
 ---
 
 We currently have no information about Chutes gauthiot.

@@ -1,8 +1,6 @@
 ---
 title: "Plovdiv"
 type: location
-latitude: 42.141854
-longitude: 24.74993
 ---
 
 **Plovdiv is located in the southwestern part of Bulgaria. The city has been built upon seven ancient hills found on the Thracian plain, and now spreads on both sides of the Martisa River. **

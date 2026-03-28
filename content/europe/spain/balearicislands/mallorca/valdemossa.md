@@ -1,9 +1,9 @@
 ---
-title: "Valdemossa Travel Guide"
+title: "Valdemossa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 This is a village with magnificent views over the north-west coat of the island. It is easily reached by bus from
 [Palma](/europe/spain/balearicislands/mallorca/palma1) or
@@ -16,7 +16,3 @@ piano delivered.
 Just around the corner from the old monastery is a sort of palace
 where Chopin recitals are played at a fixed time of each hour, even if
 you are the sole visitor.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 09:25

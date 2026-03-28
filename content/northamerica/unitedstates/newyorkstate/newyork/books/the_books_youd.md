@@ -17,5 +17,3 @@ Dr B R Kishore and many more quality offerings, all at a great 10% discount rate
 
 
 author: BAPPADITYA GHOSH
-
-[back to Books](..)

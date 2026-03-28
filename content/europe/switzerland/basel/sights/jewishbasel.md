@@ -12,5 +12,3 @@ type: Historical Sights
 
 
 address: Eulerstrasse 2 / Leimenstrasse 24
-
-[back to Sights](..)

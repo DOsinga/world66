@@ -1,0 +1,4 @@
+---
+title: "Gembloux"
+type: location
+---

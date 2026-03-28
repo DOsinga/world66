@@ -9,8 +9,6 @@ Hi Taste in the new Lorry Park has the best goat in the city! It is tender unlik
 
 **Contributors**
 June 24, 2005
-new
-by [acasey](/member/acasey) (1 point)
 
 ### [The Black Star](/africa/ghana/bolgatanga/eating_out/the_black_star)
 

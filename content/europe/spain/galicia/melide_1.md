@@ -1,9 +1,9 @@
 ---
-title: "Melide Travel Guide"
+title: "Melide"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The town of melide
 
@@ -38,9 +38,3 @@ One of the most important events in the year is held on the second Sunday in May
 One of the best-known dishes served in Melide is its octopus, as it is one of the interior areas of Galicia that offers the most delicious portions in the entire region.
 
 Visitors should not leave the town without exploring spots such as the recreational area of the Furelos River, the streets in the area where the castle formerly stood, the Convent Square or some of the parishes that lie alongside the Way of St. James, with outstanding heritage features such as the mediaeval bridges of Furelos and Leboreiro, or the Church of Santa María de Melide, with murals dating from the sixteenth century.
-
-*Part or or all of this text stems from the original article at: www.concellodemelide.org*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 01:10

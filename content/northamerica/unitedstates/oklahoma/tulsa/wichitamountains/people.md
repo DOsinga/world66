@@ -64,5 +64,3 @@ Water Softener Maintenance
 http://tuncaa.in/m4
 Waking Spirit End Native American Flute
 http://tuncaa.in/1y
-
-*Part or or all of this text stems from the original article at: Bernard Fulton*

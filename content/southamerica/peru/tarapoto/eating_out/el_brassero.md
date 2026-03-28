@@ -18,8 +18,6 @@ There are two reasons why locals and travelers alike fill El Brassero every nigh
 
 **Contributors**
 February 21, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: International
 
@@ -34,5 +32,3 @@ tel: (042) 52-2700
 address: Jr. San Pablo de la Cruz #254
 
 PriceOfMenu: Cheap
-
-[back to Eating Out](..)

@@ -16,8 +16,6 @@ Local **Hanggliding** enthusiasts can be spotted most of the summer, as they use
 
 **Contributors**
 June 23, 2005
-new
-by [giorgio](/member/giorgio)
 
 
 
@@ -28,5 +26,3 @@ tel: 0044-7971530890
 address: Glynborough Hse, Horderley, Shropshire, SY7 8HT, UK
 
 email: geothermes@yahoo.com
-
-[back to Day Trips](..)

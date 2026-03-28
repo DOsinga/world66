@@ -8,5 +8,3 @@ type: poi
 address: Grünbachplatz 14, A-4600 Wels
 
 tel: +43 (0)7242 47205
-
--->

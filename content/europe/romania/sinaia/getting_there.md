@@ -8,8 +8,6 @@ Sinaia, located two hours from the Capital, Bucharest, is accessible by rail, ca
 
 **Contributors**
 December 21, 2006
-change
-by [the rev](/member/the_rev)
 
 ### [Sinaia by Air](/europe/romania/sinaia/getting_there/sinaia)
 

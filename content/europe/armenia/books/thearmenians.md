@@ -18,5 +18,3 @@ author: John M. Douglas
 isbn: 0963138103
 
 subject: history
-
-[back to Books](..)

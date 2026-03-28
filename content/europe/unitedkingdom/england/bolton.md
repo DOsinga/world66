@@ -1,0 +1,4 @@
+---
+title: "Bolton"
+type: location
+---

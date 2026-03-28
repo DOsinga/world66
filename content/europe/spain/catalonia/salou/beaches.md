@@ -43,5 +43,3 @@ This small crescent shaped cove is located at the east end of the city. It is bo
 
 **Contributors**
 February 15, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)

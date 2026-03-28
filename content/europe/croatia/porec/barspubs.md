@@ -52,5 +52,3 @@ STERNA
 
 
 address: Spadici 23
-
--->

@@ -27,5 +27,3 @@ The wine list is extensive; it also features several local wines. For an appetiz
 
 **Contributors**
 March 03, 2010
-change
-by [shomer](/member/shomer)

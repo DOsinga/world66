@@ -12,5 +12,3 @@ And don’t forget the “Classic Car Week” every summer at Rättvik. Tourist 
 
 **Contributors**
 May 20, 2005
-new
-by [ingvar](/member/ingvar) (1 point)

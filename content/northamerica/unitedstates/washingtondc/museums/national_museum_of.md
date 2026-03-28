@@ -26,5 +26,3 @@ openingHours: 10 a.m. to 5:30 p.m.
 url: [www.nmai.si.edu](http://www.nmai.si.edu/)
 
 address: Fourth Street & Independence Ave.
-
-[back to Museums](..)

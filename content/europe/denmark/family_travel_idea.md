@@ -15,12 +15,4 @@ If your idea is to introduce the splendors of country life, a trip to the Danish
 
 #### **History Tour of Denmark **
 
-Consider a &ldquo;history tour&rdquo; of Denmark. There are special history experiential trips to transport your family back to the Iron Age or the Bronze Age. If your idea is to introduce your family to more recent centuries of Danish history, there are organized tours available for every time period. A historical tour of the ancient town of Kolding is an excellent option that promises a unique experience of Danish history.
-
-#### **Activity Park Holiday**
-
-For families keen on amusement and adventure activities, there are many activity parks in Denmark. There is a variety of fun-filled activities and thrilling adventures for kids as well as adults at these parks. Pony rides, shooting gallery, Wild West adventures, aerial rope climbing, miniature golf, water cycling, go-carting, aqua games, picnic areas and playgrounds make for an exciting outdoor holiday for the family. Tivoli Park in the town of Kobenhavn offers 25 amusement rides and a wide range of restaurants. It is famous for its shows, concerts and fireworks.
-
-#### **Wildlife Exploration **
-
-Let your family revel in the midst of nature and wildlife at the Ebeltoft Animal Safari or the Knuthenborg Park and Safari in Bandholm. These trips will provide an unforgettable experience around a monkey island and a tiger forest. The zoological gardens and animal parks of Denmark provide a chance to view some of the most majestic and exotic animals and birds from all over the world.
+Consider a &ldquo;history tour&rdquo; of Denmark. There are special history experiential trips to transport your family

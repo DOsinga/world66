@@ -10,11 +10,5 @@ The river stretches from the Sierra Nevada foothills to the San Joaquin River, a
 
 **Contributors**
 July 29, 2009
-new
-by [mantecacvb](/member/mantecacvb)
 
 type: Rafting
-
-
-
-[back to Things to do](..)

@@ -1,14 +1,12 @@
 ---
 title: "Cheers Pub Yerevan"
-type: location
+type: poi
 accessibility: "everyone"
 address: "3, Abovyan Street, Yerevan, Armenia"
 closing_time: "03:00"
 email: "vako_k@yahoo.com"
 phone: "(+374) 93 498985"
 type: "Casinos"
-latitude: 40.183861
-longitude: 44.519136
 ---
 
 Cheers is the best hang-out for tourists, ex-pats, diasporan and local Armenians. It is open now in a new location on 3, Abovyan Street, AOKS Building.
@@ -28,5 +26,3 @@ accessibility: everyone
 address: 3, Abovyan Street, Yerevan, Armenia
 
 email: vako_k@yahoo.com
-
-[back to Nightlife and Entertainment](..)

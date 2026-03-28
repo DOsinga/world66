@@ -5,8 +5,6 @@ address: "Av Bunge 645"
 email: "webmaster@pinamarweb.com"
 phone: "54 02254 494338"
 url: "www.pinamarweb.com"
-latitude: -37.105162
-longitude: -56.882144
 ---
 
 Pinamar is located less than 400km south of Buenos Aires, on the coast of the Atlantic Ocean in the Buenos Aires Province.
@@ -24,5 +22,3 @@ url: [www.pinamarweb.com](http://www.pinamarweb.com)
 address: Av Bunge 645
 
 email: webmaster@pinamarweb.com
-
-[back to Beaches](..)

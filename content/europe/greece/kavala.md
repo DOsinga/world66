@@ -1,8 +1,6 @@
 ---
 title: "Kavala"
 type: location
-latitude: 40.936922
-longitude: 24.412277
 ---
 
 kavala

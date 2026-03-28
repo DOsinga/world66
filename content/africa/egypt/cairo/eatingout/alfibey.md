@@ -14,5 +14,3 @@ type: Local specialities
 
 
 address: 3 Sharia Alfi Bey
-
-[back to Eating Out](..)

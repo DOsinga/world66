@@ -1,0 +1,4 @@
+---
+title: "Astoria"
+type: location
+---

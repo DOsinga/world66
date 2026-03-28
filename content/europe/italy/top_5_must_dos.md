@@ -51,5 +51,3 @@ Pizza, Beer and Gelato in Rome
 
 **Contributors**
 October 19, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

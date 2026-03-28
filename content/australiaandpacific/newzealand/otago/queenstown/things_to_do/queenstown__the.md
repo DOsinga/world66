@@ -15,5 +15,3 @@ type: Other
 
 
 url: [www.queenstownadventure.com](http://www.queenstownadventure.com/)
-
-[back to Things to do](..)

@@ -13,8 +13,6 @@ About this great city :)
 
 **Contributors**
 June 06, 2007
-new
-by [mcbosnia](/member/mcbosnia)
 
 ### [Turisticka zajednica Zenica](/europe/bosniaandherzegovina/zenica/practical_informat/turisticka_zajedni)
 

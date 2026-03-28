@@ -23,5 +23,3 @@ url: [www.hansaimporthaus.com](http://www.hansaimporthaus.com)
 address: 2701 Lorain Ave
 
 email: sales@hansaimporthaus.com
-
-[back to Shopping](..)

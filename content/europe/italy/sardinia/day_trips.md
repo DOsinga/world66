@@ -27,5 +27,3 @@ La Pelosa Beach makes a great day trip for families as well as singles. The wate
 
 **Contributors**
 February 14, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

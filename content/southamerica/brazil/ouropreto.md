@@ -1,8 +1,6 @@
 ---
 title: "Ouro preto"
 type: location
-latitude: -20.385671
-longitude: -43.503617
 ---
 
 Ouro Preto was made rich by one thing: Gold. It has even changed its name of Vila Rica (Rich Town) to Ouro Preto - Black Gold. 

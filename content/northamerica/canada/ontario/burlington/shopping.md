@@ -7,8 +7,6 @@ Burlington shopping
 
 **Contributors**
 December 21, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 We currently have no Shopping listed in Burlington.
 

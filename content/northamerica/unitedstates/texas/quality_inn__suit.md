@@ -1,15 +1,11 @@
 ---
-title: "Quality Inn & Suites Addison – A Dallas, Texas Area Hotel. Travel Guide"
+title: "Quality Inn & Suites Addison – A Dallas, Texas Area Hotel."
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located on delicious Restaurant
 Row, just north of downtown Dallas and a wealth of top Texas
 attractions, the welcoming Quality Inn & Suites Addison offers the
 best value in the area for quality, comfortable accommodations.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 08:42

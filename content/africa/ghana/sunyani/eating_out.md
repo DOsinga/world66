@@ -9,8 +9,6 @@ restaurants, chopbars & drinking spots in Sunyani
 
 **Contributors**
 July 29, 2005
-new
-by [ragna](/member/ragna)
 
 ### the restaurant of Eusbett Hotel
 

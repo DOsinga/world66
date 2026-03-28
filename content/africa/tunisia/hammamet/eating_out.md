@@ -19,9 +19,5 @@ Out in Hammamet's town district several restaurants have a local reputation for 
 
 **Contributors**
 December 30, 2009
-new
-by [turkeyfish](/member/turkeyfish)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

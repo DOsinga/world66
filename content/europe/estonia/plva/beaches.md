@@ -7,5 +7,3 @@ The beach of Lake Põlva is the best place for enjoying the pleasures of summer:
 
 **Contributors**
 May 03, 2006
-change
-by [mrtasku](/member/mrtasku) (2 points)

@@ -1,0 +1,4 @@
+---
+title: "Mandurah"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Welkom"
+type: location
+---

@@ -11,8 +11,6 @@ The place has good quality Argentinian and Uruguayan meat made over the grill. I
 
 **Contributors**
 July 18, 2006
-new
-by [yohay elam](/member/yohay_elam) (1 point)
 
 type: South American
 
@@ -25,5 +23,3 @@ tel: 084 232727
 address: Calle Suecia 380
 
 email: tangobeef@gmail.com
-
-[back to Eating Out](..)

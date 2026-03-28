@@ -8,13 +8,9 @@ People come from all over Europe to go to Gardaland which is a great place for k
 
 **Contributors**
 October 04, 2005
-new
-by [karenbru](/member/karenbru)
 
 
 
 
 
 url: www.mmps.it
-
-[back to Day Trips](..)

@@ -1,0 +1,4 @@
+---
+title: "Mullingar"
+type: location
+---

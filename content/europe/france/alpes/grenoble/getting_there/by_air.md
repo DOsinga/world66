@@ -25,11 +25,5 @@ go to other parts of Switzerland than just across the border.
 
 **Contributors**
 February 08, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-[back to Getting There](..)

@@ -1,9 +1,9 @@
 ---
-title: "Sturbridge Travel Guide"
+title: "Sturbridge"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Sturbridge is probably most famous for the Old Sturbridge Village
 living history museum. Sturbridge offers an exciting shopping, dining,
@@ -27,9 +27,3 @@ In addition to the major routes, several secondary highways
 offer additional routes into town. Running from Boston in the east to
 the Pacific Ocean on the west, Route 20 bisects Sturbridge. Route 131
 connects Sturbridge to Southbridge and on further south to Route 395 in Connecticut. Route 49 connects Sturbridge to Spencer and Route 9, another busy east-west route across the state.
-
-*Part or or all of this text stems from the original article at: http://wikitravel.org/en/Sturbridge*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 21:25

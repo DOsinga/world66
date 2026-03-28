@@ -1,6 +1,6 @@
 ---
 title: "Webcams in St Andrews"
-type: location
+type: section
 url: "www.standrews.com"
 ---
 
@@ -8,8 +8,6 @@ There is not many webcams in st-andrews and the ones that exist are on the golf 
 
 **Contributors**
 May 10, 2005
-new
-by [coolsailor](/member/coolsailor) (1 point)
 
 ### [Old course Hotel](/europe/unitedkingdom/scotland/standrews/webcams/old_course_hotel)
 

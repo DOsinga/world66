@@ -8,8 +8,3 @@ This is the 'capital' of Cumbria and most visitors to [Glasgow](/europe/unitedki
 It is also the northern terminus of the Settle-Carlisle railway although the most scenic part of the line lies between Settle and Appleby. 
 
 www.britainexpress.com/counties/**cumbria**/az/**carlisle**.htm
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 December 04
-
--->

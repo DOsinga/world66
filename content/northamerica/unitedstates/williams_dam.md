@@ -9,5 +9,3 @@ Now days this sleepy village's only industry is tourism. The fishing and site-se
 
 **Contributors**
 January 18, 2006
-new
-by [glory](/member/glory)

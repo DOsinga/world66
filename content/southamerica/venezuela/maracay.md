@@ -1,0 +1,4 @@
+---
+title: "Maracay"
+type: location
+---

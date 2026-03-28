@@ -10,8 +10,6 @@ Most people arrive by boat and there are several ports and destinations but ther
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 ### [The Steamship Authority](/northamerica/unitedstates/massachusetts/marthasvineyard/getting_there/the_steamship_auth)
 

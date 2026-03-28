@@ -1,0 +1,4 @@
+---
+title: "Belmar"
+type: location
+---

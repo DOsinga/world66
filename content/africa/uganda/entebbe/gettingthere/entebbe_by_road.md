@@ -8,7 +8,5 @@ The road between Entebbe and Kampala is very good, it takes about 40 minutes if 
 
 **Contributors**
 February 26, 2005
-new
-by [j_sarnstrom](/member/j_sarnstrom)
 
 type: By Road

@@ -5,9 +5,6 @@ type: section
 
 Here there are some of the Festivals in Port Harcourt.
 
-*Change history*
-Orginal article by [giorgio](/member/giorgio) on 06 December 04
-
 **all**
 
 The annual Rivifest

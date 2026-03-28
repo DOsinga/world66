@@ -1,8 +1,6 @@
 ---
 title: "Metz"
 type: location
-latitude: 49.088735
-longitude: 6.212881
 ---
 
 Metz is one of the most beautiful cities of the East of France. The 15th-16th century St. Louis Square with vaulted gallery and arches is an abslote highlight. In the center of town you also find many medieval mansions, some of which can be visited from the inside.

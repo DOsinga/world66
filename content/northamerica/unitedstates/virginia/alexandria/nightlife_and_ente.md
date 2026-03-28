@@ -7,5 +7,3 @@ Alexandria nightlife includes one of the best options for theater and dining. Th
 
 **Contributors**
 May 28, 2009
-new
-by [harding](/member/harding)

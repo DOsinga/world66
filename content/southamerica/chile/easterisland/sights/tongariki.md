@@ -12,5 +12,3 @@ type: Hotspots
 
 
 address: South Pacific
-
-[back to Sights](..)

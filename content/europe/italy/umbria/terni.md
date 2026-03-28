@@ -1,8 +1,6 @@
 ---
 title: "Terni"
 type: location
-latitude: 42.653949
-longitude: 12.439653
 ---
 
 We currently have no information about Terni.

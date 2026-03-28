@@ -5,7 +5,7 @@ type: section
 
 Skiing in the Czech Republic
 
-**Activitys**
+**Recommendations**
 
 **Harachov & Rokytnice nad Jizerou**
 

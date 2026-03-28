@@ -11,4 +11,4 @@ The **All Star Dairy** is a must-go place, especially in the summer. Known as **
 
 Racing fans are sure to know about Jackson as it serves home to the **Michigan International Speedway**, one of the fastest and largest tracks in the USA.
 
-Hot Air Balloon fan? On the third weekend in July Jackson hosts the annual **Hot Air Jubilee** at the **Jackson County Airport**.Jackson served as the primary training facility for the Civil War; was the birthplace of the Republican Party and is known as the crossroads of Michigan as it's central location serves as the switching and repair headquarters for the Michigan Central Railroad, dating back to the HQ's start in 1910.
+Hot Air Balloon fan? On the third weekend in July Jackson hosts the annual **Hot Air Jubilee** at the **Jackson County Airport**.Jackson served as the primary training facility for the Civil War; was the birthplace of the Republican Party and is known as the crossroads of Michigan as it's central location serves as the switching and repair headquarters for the Michigan Central Railroad, dating

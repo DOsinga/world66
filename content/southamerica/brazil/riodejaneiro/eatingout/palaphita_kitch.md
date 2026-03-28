@@ -27,5 +27,3 @@ url: [www.palaphitakitch.com.br](http://www.palaphitakitch.com.br)
 address: Av. Epitácio Pessoa S/N - Quiosque 20 - Parque do Cantagalo - Lagoa
 
 PriceOfMenu: $$$
-
-[back to Eating Out](..)

@@ -1,9 +1,9 @@
 ---
-title: "Nightlife"
+title: "Nightlife and Entertainment"
 type: section
 ---
 
-**Points of Interest**
+**Place to go outs**
 
 **Hard Rock Cafe**
 

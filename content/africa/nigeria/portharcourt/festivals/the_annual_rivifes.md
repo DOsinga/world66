@@ -7,11 +7,3 @@ This festival is in the month of November and it's a display of the various cult
 
 **Contributors**
 December 06, 2004
-new
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Festivals](..)

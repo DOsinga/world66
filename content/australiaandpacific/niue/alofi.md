@@ -1,8 +1,6 @@
 ---
 title: "Alofi"
 type: location
-latitude: -19.053416
-longitude: -169.919199
 ---
 
 Alofi has less than 1,000 inhabitants, but it is still the capital and official seat of government of Niue. 

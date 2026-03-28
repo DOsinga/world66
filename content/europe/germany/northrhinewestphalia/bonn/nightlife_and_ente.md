@@ -21,5 +21,3 @@ For some tourists in Bonn, nightlife can also mean having a few drinks and socia
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

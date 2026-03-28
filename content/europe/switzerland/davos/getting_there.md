@@ -17,6 +17,4 @@ type: section
 
   Geneva, over 500 kilometers (310 miles) away, is an alternate connection point. Since there is no direct line and you must travel through the high Alps, it could take almost a day to reach Davos. If this idea scares you, Swissair offers flights to Zürich.
 
-  All this content and information is provided through a partnership with SkiEurope  
-
--->
+  All this content and information is provided through a partnership with SkiEurope

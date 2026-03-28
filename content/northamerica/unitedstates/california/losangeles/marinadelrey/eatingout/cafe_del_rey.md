@@ -14,8 +14,6 @@ With its spectacular marina view, Cafe del Rey has rooms for private events and 
 
 **Contributors**
 November 29, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Local
 
@@ -28,5 +26,3 @@ url: [cafedelreymarina.com](http://cafedelreymarina.com)
 address: 4451 Admiralty Way
 
 PriceOfMenu: $16- $32 dinner entree
-
-[back to Eating Out](..)

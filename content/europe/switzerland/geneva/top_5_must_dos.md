@@ -31,19 +31,4 @@ technology and floral art has been resting in the English Garden since
 with the seasons. A good piece of trivia: the seconds hard of the
 Geneva Flower Clock is the largest in the world!
 
-**4. ****Treille Promenade - **dating back to the 16th century, this
-romantic promenade was first used as an observation and artillery post
-for the city. Take a walk under the rows of Chestnut trees or have a
-rest on what is said to be the longest wooden bench in the world. The
-statue of Rictet de Rochemont and Geneva's official chestnut tree call
-this lovely promenade home. According to tradition, the blossoming of
-the first bud from the official chestnut tree marks the arrival of
-spring.
-
-**5. ****The Schtrumpfs -** located in the Quartier des Grottes at
-23-29 rue Louis-Favre is a charming little neighborhood behind the
-train station. Built in 1982 and 1984, these three unusual structures
-seem to resemble the popular cartoon characters, The Smurfs. These
-delightful buildings will give any visitor a run for your imagination.
-If you love architecture, you won't want to miss these fine examples of
-"you can do anything you set your mind to".
+**4. ****Treille Promenade - **dating

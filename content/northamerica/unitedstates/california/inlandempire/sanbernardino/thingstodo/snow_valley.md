@@ -35,5 +35,3 @@ url: [www.snow-valley.com](http://www.snow-valley.com)
 address: 35100 State Highway 18 (5 miles east of downtown Running Springs)
 
 email: info@snow-valley.com
-
-[back to Things to do](..)

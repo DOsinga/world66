@@ -1,0 +1,4 @@
+---
+title: "Benguela"
+type: location
+---

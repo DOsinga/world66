@@ -17,5 +17,3 @@ type: Italian
 tel: +36 1 3318711
 
 address: VI. District, Budapest, MozsÃ¡r u. 12.
-
-[back to Eating Out](..)

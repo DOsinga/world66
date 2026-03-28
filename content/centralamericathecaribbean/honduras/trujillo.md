@@ -1,0 +1,4 @@
+---
+title: "Trujillo"
+type: location
+---

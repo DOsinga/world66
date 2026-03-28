@@ -18,5 +18,3 @@ author: Les Molloy,Gerald Cubitt
 isbn: 0262133040
 
 subject: history
-
-[back to Books](..)

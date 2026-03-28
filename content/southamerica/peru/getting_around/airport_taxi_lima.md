@@ -31,5 +31,3 @@ USA calls --- ( 202 ) - 4702936
 url: [www.akatori.com](http://www.akatori.com/index_ing.htm )
 
 email: CONTACTO@AKATORI.COM
-
-[back to Getting Around](..)

@@ -14,5 +14,3 @@ Alfredo has many excellent options.
 
 **Contributors**
 September 06, 2005
-change
-by [modir](/member/modir)

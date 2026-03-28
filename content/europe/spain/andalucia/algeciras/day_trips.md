@@ -23,5 +23,3 @@ Bear in mind that the Tarifa to Tangier ferry may take say 35 minutes to cross t
 
 **Contributors**
 January 31, 2009
-new
-by [lauren555](/member/lauren555)

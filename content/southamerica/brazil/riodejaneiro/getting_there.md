@@ -12,5 +12,3 @@ Buses run from Rio to all parts of the country. It is advisable to book a ticket
 **By air**
 
 There are hundreds of flights from all continents and South America to Rio. Domestic flights arrive or leave from Santos Dumont airport. International flights go to Antonio Carlos Jobim International Airport (earlier known as Galeao). There are taxis and busses running into town from both airports. Some taxi companies have fixed rates, but it is rather expensive. You pay for the car and not for the number of passengers, so if you can share a taxi you can bring down the cost to less than $-US 10 for four passengers.  [more..](/southamerica/brazil/riodejaneiro/gettingthere/byair)
-
--->

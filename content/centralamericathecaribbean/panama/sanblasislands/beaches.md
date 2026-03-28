@@ -19,5 +19,3 @@ There are so many beaches to choose from, that you'll never be in a crowd of tou
 
 **Contributors**
 October 28, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

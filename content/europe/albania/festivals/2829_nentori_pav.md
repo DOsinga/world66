@@ -21,5 +21,3 @@ tel: 0693813720
 date: 05.12.2009
 
 email: erion_br@hotmail.it
-
-[back to Festivals](..)

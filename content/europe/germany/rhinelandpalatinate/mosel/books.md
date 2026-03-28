@@ -28,5 +28,3 @@ author: Kerry Brady Stewart
 isbn: 1566562236
 
 subject: German Wine
-
--->

@@ -1,9 +1,9 @@
 ---
-title: "Placentia Travel Guide"
+title: "Placentia"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Placentia - Latin for "a pleasant place" - has retained the small town image that has remained since settlers arrived more than 100 years ago.
 
@@ -39,13 +39,3 @@ In 1841, Juan Pacifico Ontiveros, owner of Rancho SAn Juan Cajon de Santa Ana, b
 
 The George Key Ranch - 625 W. Bastanchury Rd.
 The oldest standing house in Placentia, it was built in 1898 and remodeled in 1908. Key was superintendent of the Southern California Semi-Tropical Fruit Co. The house is not open to the public.
-
-*Part or or all of this text stems from the original article at: http://www.orangecounty.net/cities/Placentia.html*
-
-#### Contributors
-
-March 23, 2007 new by [mehul](/member/mehul) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 07:56

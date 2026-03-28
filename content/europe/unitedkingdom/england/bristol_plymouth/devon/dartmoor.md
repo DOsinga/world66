@@ -13,10 +13,7 @@ Bellever, Dartington, Okehampton, Plymouth and Steps Bridge
 
 Visit http://www.yha.org.uk/Stay_at_YHA/Regional/South_West_England.html then click on the hostel you want.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 15 September 04
-
-Minor corrections by [DOsinga](/member/dosinga) on 01 November 04
+Minor corrections on 01 November 04
 
 ## Destinations in Dartmoor
 

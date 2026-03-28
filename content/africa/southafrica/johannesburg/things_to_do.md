@@ -6,8 +6,6 @@ address: "springs"
 email: "kato.umar@yahoo.com"
 phone: "0721020013"
 type: "Other"
-latitude: -26.255003
-longitude: 28.437315
 ---
 
 Some travelers probably think of Johannesburg, South Africa, as a place to land, do business and then leave, but, if that is their attitude they are missing many worthwhile sites as the South African city broadens its travel offerings of **Johannesburg things to do**.
@@ -38,12 +36,8 @@ A trip to the city is incomplete without a visit to Algoa Bay and Germiston Lake
 
 **Contributors**
 March 29, 2010
-change
-by [piyushjain](/member/piyushjain_)
 
 March 31, 2010
-change
-by [ctanios](/member/ctanios)
 
 ### [dr kato](/africa/southafrica/johannesburg/things_to_do/dr_kato)
 

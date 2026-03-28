@@ -1,0 +1,4 @@
+---
+title: "Arviat"
+type: location
+---

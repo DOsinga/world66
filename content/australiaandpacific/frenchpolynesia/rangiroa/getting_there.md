@@ -12,5 +12,3 @@ There are also flights from some of the other nearby atolls, but they once or tw
 
 **Contributors**
 March 16, 2005
-new
-by [pottedpork](/member/pottedpork)

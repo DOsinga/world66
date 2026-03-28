@@ -41,15 +41,4 @@ large café where light meals are available at all times of the day.
 
 Car rental is expensive (as is gas) but less so if you can drive a
 stick shift. For trips of more than three weeks, it is possible to
-purchase and sell a car back to the original owner (companies are set
-up for this kind of transaction). Train travel is less attractive these
-days for families traveling long distances though the French railway
-system is efficient, fast and offers discounts for groups traveling
-together. A number of cut-rate airlines offer inexpensive internal
-flights; however, the closer you get to departure day, the more
-expensive the tickets usually are, so book well in advance.
-
-**Contributors**
-November 18, 2009
-new
-by [kimerly](/member/kimerly)
+purchase and sell a car

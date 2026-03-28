@@ -20,5 +20,3 @@ address: Ãllakérti Ãºt 2
 url: [www.traveltohungary.com](http://www.traveltohungary.com/english/restaurants/restaurant.php?id=5)
 
 email: gundeletterem@GuideToHungary.com
-
-[back to Eating Out](..)

@@ -1,9 +1,9 @@
 ---
-title: "SihanoukVille Indian Restaurants Travel Guide"
+title: "SihanoukVille Indian Restaurants"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Normal
 0
@@ -20,7 +20,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **TAJ MAHAL **
 
@@ -52,7 +52,3 @@ Reasonable priced.
 11:00AM - Late
 
 Tel: 015-966221
-
-Page last generated on Sun 00:15
-
--->

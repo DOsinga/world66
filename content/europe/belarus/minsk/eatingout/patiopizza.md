@@ -8,7 +8,3 @@ Openings=12:00 - 24:00.  A great stop for anyone from out of town as well as th
 address: Skoriny 22
 
 tel: (+375-17) 227 17 19
-
-[back to Eating Out](..)
-
--->

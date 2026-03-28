@@ -1,16 +1,8 @@
 ---
-title: "McAlester Travel Guide"
+title: "McAlester"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located in Pittsburg County, Oklahoma, McAlester is a city of nearly 18,000 people.
-
-#### Contributors
-
-December 10, 2006 new by [approaching genius](/member/approaching_genius) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 22:30

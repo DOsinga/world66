@@ -25,5 +25,3 @@ Yerevan is a place any tourist would find amazing—the whole city is pulsing wi
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

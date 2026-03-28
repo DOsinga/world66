@@ -8,13 +8,5 @@ The earliest documented building is known to have existed in 1436. The Knights, 
 
 **Contributors**
 October 14, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 type: Churches and Cathedrals
-
-
-
-
-
-[back to Sights](..)

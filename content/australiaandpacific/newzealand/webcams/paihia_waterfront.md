@@ -1,6 +1,6 @@
 ---
 title: "Paihia Waterfront Webcam"
-type: location
+type: poi
 url: "www.takeabreak.co.nz"
 ---
 
@@ -11,5 +11,3 @@ Paihia Webcam A beautiful shot of the beach front! Many thanks to Abel Tasman Lo
 
 
 url: www.takeabreak.co.nz
-
-[back to Webcams](..)

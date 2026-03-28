@@ -8,9 +8,5 @@ You can find out more information on timetables and fares on the following link.
 
 **Contributors**
 November 25, 2005
-new
-by [the_doc](/member/the_doc)
 
 February 01, 2006
-change
-by [giorgio](/member/giorgio)

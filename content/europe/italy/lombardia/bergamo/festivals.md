@@ -11,10 +11,7 @@ Bergamo and the local towns have festivals all year round depending on the time 
 
 Almè - 10 kilometers north of Bergamo - has a festival every year around May 28 to June 25.
 
-**Change history**
-Orginal article by [karenbru](/member/karenbru) on 29 May 05
-
-Minor corrections by [karenbru](/member/karenbru) on 21 June 05
+Minor corrections on 21 June 05
 
 ### [Summer Dance Festival in Bergamo
 

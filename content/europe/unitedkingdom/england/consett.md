@@ -1,0 +1,4 @@
+---
+title: "Consett"
+type: location
+---

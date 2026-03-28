@@ -1,8 +1,6 @@
 ---
 title: "Verdun"
 type: location
-latitude: 49.288671
-longitude: 5.411138
 ---
 
 Verdun is a charming little town of Eastern France. It is located half way in between Paris and Strasbourg with the river Meuse running throught it. 

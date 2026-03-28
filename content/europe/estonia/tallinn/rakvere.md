@@ -1,9 +1,9 @@
 ---
-title: "Rakvere Travel Guide"
+title: "Rakvere"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The town of Rakvere is situated in north Estonia on the
 northern foot of the Pandivere upland, 20 km south of the Gulf of Finland. The
@@ -18,7 +18,3 @@ the town. Rakvere is influenced by both continental and marine climate changes.
 The mean amount of precipitation is 750 mm and the mean yearly snowfall is 30 -
 40 cm. The average temperature per year is 4.5 °C. The frosty days begin in
 December and last about 80 - 90 days.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 07:47

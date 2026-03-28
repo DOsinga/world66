@@ -13,5 +13,3 @@ type: Bars
 address: Avda. Bartolome Ramon y Tur 3
 
 tel: (+34) 971 19 22 01
-
-[back to Nightlife and Entertainment](..)

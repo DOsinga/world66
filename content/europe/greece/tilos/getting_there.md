@@ -17,7 +17,4 @@ In just ninety minutes, the Tilos Sea Star, a high-speed catamaran hovercraft, c
 
 **Konstantinos Mentzelopoulos.**
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 15 April 04
-
-Minor corrections by [Skipper](/member/skipper) on 01 May 04
+Minor corrections on 01 May 04

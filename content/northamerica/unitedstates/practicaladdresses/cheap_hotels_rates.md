@@ -19,5 +19,3 @@ type: Tourist information
 url: [hotelchoyce.com](http://hotelchoyce.com/Country/United_States.htm)
 
 address: http://hotelchoyce.com/Country/United_States.htm
-
-[back to Practical Information](..)

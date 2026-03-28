@@ -83,5 +83,3 @@ as you wander around the different neighborhoods of London.
 
 **Contributors**
 October 23, 2009
-new
-by [kimerly](/member/kimerly)

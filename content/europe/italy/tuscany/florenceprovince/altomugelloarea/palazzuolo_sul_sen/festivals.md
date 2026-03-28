@@ -13,8 +13,6 @@ the place of harmony, for a vacation of nature and relaxation.**
 
 **Contributors**
 May 26, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### [Ottobre Palazzuolese](/europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_sen/festivals/ottobre_palazzuole)
 

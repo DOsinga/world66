@@ -14,5 +14,3 @@ The most important show in Venezuela
 address: www.missvenezuela.com
 
 zipcode: www.missvenezuela.com
-
--->

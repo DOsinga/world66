@@ -29,13 +29,9 @@ For more info about exursions and tour please visit the website listed below.
 
 **Contributors**
 July 27, 2005
-change
-by [reen](/member/reen)
 
 
 
 
 
 url: [www.lofoten-startside.no](http://www.lofoten-startside.no/engelskindex.htm)
-
-[back to Tours and Excursions](..)

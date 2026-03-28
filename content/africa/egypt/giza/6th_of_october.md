@@ -1,9 +1,9 @@
 ---
-title: "6th of October Travel Guide"
+title: "6th of October"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 6th October City is the capital of the 6th of October Governorate in Egypt.
 
@@ -29,9 +29,3 @@ Higher Institute of Science and Technology
 The Higher Institute of Engineering
 The Higher Technological Institute
 Cairo University in El-Sheikh Zayed (Under construction)
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/6th_of_October_City*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 04:21

@@ -9,13 +9,9 @@ Lester B Pearson International Airport (IATA Code YYZ) is virtually the only way
 
 **Contributors**
 January 08, 2006
-new
-by [allamericanbear](/member/allamericanbear)
 
 type: By Air
 
 
 
 url: [www.gtaa.com](http://www.gtaa.com)
-
-[back to Getting There](..)

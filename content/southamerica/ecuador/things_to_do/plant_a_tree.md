@@ -19,5 +19,3 @@ type: Other
 url: [www.farmstaysecuador.org](http://www.farmstaysecuador.org)
 
 address: San Luis de Pambil, Bolivar, Ecuador
-
-[back to Things to do](..)

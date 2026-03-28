@@ -5,16 +5,12 @@ address: "Corbiestraat 79 2400 Mol"
 closing_time: "Late"
 phone: "+32 (0)14 313777"
 type: "Pubs"
-latitude: 51.188716
-longitude: 5.116188
 ---
 
 Most of the nightlife in Mol is around the city square *Rondplein* and *Corbiestraat*. Here the pubs, restaurants and nightclubs are situated wall to wall.
 
 **Contributors**
 July 08, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [The Boulevard Cafe](/europe/belgium/mol/nightlife_and_ente/the_boulevard_cafe)
 

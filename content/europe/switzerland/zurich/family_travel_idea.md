@@ -19,5 +19,3 @@ The Alpamare Water Park, only a 25 minute trip from Zurich, is actually the larg
 
 **Contributors**
 November 01, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

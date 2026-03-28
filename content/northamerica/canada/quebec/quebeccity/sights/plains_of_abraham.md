@@ -10,8 +10,6 @@ Legendary place where a 30 minute battle between the french and british took pla
 
 **Contributors**
 May 29, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Memorials
 
@@ -22,5 +20,3 @@ type: Memorials
 tel: 418 648-4071
 
 address: 390, de Bernières Avenue Québec City QC G1R 2L7
-
-[back to Sights](..)

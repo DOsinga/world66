@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 We're always interested in gathering information about recommended places to eat in Toronto.

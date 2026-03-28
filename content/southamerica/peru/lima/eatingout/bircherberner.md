@@ -14,5 +14,3 @@ type: Vegetarian
 
 
 address: Diez Canseco 487
-
-[back to Eating Out](..)

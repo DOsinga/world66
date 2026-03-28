@@ -1,8 +1,6 @@
 ---
 title: "Lo Pagan"
 type: location
-latitude: 37.820004
-longitude: -0.786599
 ---
 
 Murcia region is situated at the south-est of the

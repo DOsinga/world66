@@ -14,12 +14,8 @@ As if the outside was not gorgeous, you can find one of the most fascinating sta
 
 **Contributors**
 May 21, 2005
-new
-by [pedrosacosta](/member/pedrosacosta)
 
 February 03, 2006
-change
-by [ee95104](/member/ee95104)
 
 type: Landmarks
 
@@ -34,5 +30,3 @@ url: [lelloprologolivreiro.com.sapo.pt](http://lelloprologolivreiro.com.sapo.pt/
 address: 144, Carmelitas Street* 4050-161 OPORTO
 
 email:
-
-[back to Sights](..)

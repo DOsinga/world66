@@ -11,9 +11,3 @@ A Hill of Witches (also sometimes called Jonas (John) Hill) is a tree-covered sl
 The exposition starts in the main street of Juodkrante and then you take a stairs and climb up this hill and later you slowly climb down in the other side of this dune. At the end there is a playground for kids and a souvenir shop for the older ones.
 
 type: general
-
-
-
-
-
-[back to Sights](..)

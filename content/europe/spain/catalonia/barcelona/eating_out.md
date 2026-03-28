@@ -9,17 +9,4 @@ When eating out in Barcelona, expect much olive oil, garlic and fish as the main
 
  For a traditional Catalan meal (mainly fish and other fresh ingredients from the market) try a moderately priced restaurant such as 'L'Olive'. Make your reservations at 'Can Ros' for a tastful paella or 'arroz negre'.
 
- If you want to have a very exclusive meal, go to Via Veneto. This restaurant has won several prices for its exquisite and innovative Catalan dishes and is therefore worth trying. Another good option is 'Ca l'Isidre' where you might run into some famous artists- even King Juan Carlos of Spain has been here! They serve food based on the freshest ingredients. However, many visitors of 'Elderado Petit' claim that this is the best restaurant of Barcelona. It's a lovely turn-of-the-century building and they serve a menu that follows the availabilty of fresh ingredients at one of the many markets. 
-
-## Subsections
-
-[Mediterranean](/europe/spain/catalonia/barcelona/eatingout/mediterranean)
-[Catalan](/europe/spain/catalonia/barcelona/eatingout/catalan)
-[Italian](/europe/spain/catalonia/barcelona/eatingout/italian)
-
-[Oriental](/europe/spain/catalonia/barcelona/eatingout/oriental)
-[Seafood](/europe/spain/catalonia/barcelona/eatingout/seafood)
-[South American](/europe/spain/catalonia/barcelona/eatingout/southamerican)
-
-[Tapas](/europe/spain/catalonia/barcelona/eatingout/tapas)
-[Vegetarian](/europe/spain/catalonia/barcelona/eatingout/vegetarian)
+ If you want to have a very exclusive meal, go to Via Veneto. This restaurant has won several prices for its exquisite and innovative Catalan dishes and is therefore worth trying. Another good option is 'Ca l'Isidre' where you might run into some famous artists- even King Juan Carlos of Spain has been here! They serve food based on the freshest ingredients. However, many visitors of 'Elderado Petit' claim that this is the best restaurant of Barcelona. It's a lovely turn-of-the-century building and they serve a menu that follows the availabilty of fresh ingredients at one of the many markets.

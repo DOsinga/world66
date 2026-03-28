@@ -23,9 +23,5 @@ For the budget shoppers, El Centro is an ideal place to shop. Lined with shops o
 
 **Contributors**
 February 17, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 02, 2010
-change
-by [ashmita](/member/ashmita_)

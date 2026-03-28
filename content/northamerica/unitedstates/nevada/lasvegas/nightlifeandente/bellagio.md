@@ -1,6 +1,6 @@
 ---
 title: "Bellagio"
-type: location
+type: poi
 address: "3600 Las Vegas Blvd South"
 type: "Casinos"
 ---
@@ -13,8 +13,5 @@ rich and famous enjoy visiting!
 The hotel fountains span more than 1,000 feet and soar up to 240 feet in the
 air. The shows are choreographed to music ranging from Luciano
 Pavarotti to Frank Sinatra.
-
-**Change history**
-Write up by [giorgio](/member/giorgio) on 29 April 05
 
 type: Casinos

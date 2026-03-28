@@ -10,6 +10,3 @@ Tuy is in the south of Galicia just by the Portuguese border, which is crossed a
 2.It's proximity to Portugal and ease of travel by train [timetables less helpful for staying in north Portugal]
 
 3. Previously fortified cathdral like a hybrid with a castle.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 01 July 04

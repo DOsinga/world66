@@ -8,7 +8,5 @@ Os Muiños da Rocha, old flower mills along the river Deva originally used by th
 
 **Contributors**
 March 10, 2005
-new
-by [euroadventures](/member/euroadventures)
 
 type: Catacombs

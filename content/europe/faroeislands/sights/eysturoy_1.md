@@ -12,11 +12,5 @@ The south of the island is supposedly less dramatic but has a lake near Nes high
 
 **Contributors**
 July 15, 2008
-new
-by [davidx](/member/davidx)
 
 type: Landmarks
-
-
-
-[back to Sights](..)

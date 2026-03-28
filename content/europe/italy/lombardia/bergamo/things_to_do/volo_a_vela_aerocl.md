@@ -12,7 +12,5 @@ This is the airport and club for gliding airplanes and a school for an Internati
 
 **Contributors**
 July 04, 2006
-change
-by [karenbru](/member/karenbru)
 
 type: Other

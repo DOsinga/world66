@@ -14,5 +14,3 @@ Henry Henry is Sydneys newest destination for meeting, drinking and eating. Loca
 tel: 02 9211 8893
 
 address: Shop 17, Henry Deane Plaza, 8a Lee Street, Sydney
-
-[back to Bars and Cafes](..)

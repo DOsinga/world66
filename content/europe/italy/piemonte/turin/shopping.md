@@ -15,10 +15,4 @@ Turin has always been considered one of the best places in Italy for quality sho
 
   But Turin shopping doesn't stop here. In the area of the University, near Piazza Carlo Emanuele II (known as Piazza Carlina), in the streets leading off Via della Rocca there are shops of a rather different character. This is shopping for the blasé and intellectual, an area that surprises also the most demanding and sophisticated of keen international shoppers. With the hypnotic attraction of continuing to stare at the richly displayed shop windows, you suddenly end up in Piazza Vittorio Veneto, the largest square in Europe, where all the buildings were designed in the same architectural style. Here, one shopping expedition ends only to begin another as the square eads you across the River Po to an area of attractive shops and handicraft workshops of high quality, in the small streets at the base of the hill overlooking Turin.
 
-  **With courtesy of [Shopping](/europe/italy/piemonte/turin/shopping)www. comune.torino.it ** 
-
-## Subsections
-
-[Antiquities](/europe/italy/piemonte/turin/shopping/antiquities)
-
-[Markets](/europe/italy/piemonte/turin/shopping/markets)
+  **With courtesy of [Shopping](/europe/italy/piemonte/turin/shopping)www. comune.torino.it **

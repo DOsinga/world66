@@ -7,5 +7,3 @@ One San Jose attraction is The Winchester Mystery House. Designed on tablecloths
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

@@ -70,8 +70,6 @@ will get cheaper rates with advance bookings.
 
 **Contributors**
 March 29, 2010
-change
-by [smitha](/member/smitha)
 
 ### [Doctor_D](/europe/greece/budget_travel_idea/doctor_d)
 

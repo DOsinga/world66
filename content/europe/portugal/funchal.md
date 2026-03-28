@@ -1,0 +1,4 @@
+---
+title: "Funchal"
+type: location
+---

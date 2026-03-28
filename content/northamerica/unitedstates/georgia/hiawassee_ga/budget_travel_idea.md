@@ -48,9 +48,5 @@ during your stay, too.
 
 **Contributors**
 January 21, 2010
-new
-by [amymc](/member/amymc)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

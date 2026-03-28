@@ -37,9 +37,5 @@ The Stationsplein and Stratumseind entertainment districts are among the safest 
 
 **Contributors**
 January 26, 2010
-change
-by [nam](/member/nam)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

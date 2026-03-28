@@ -7,5 +7,3 @@ Burlington is a quaint college town with a population of about 55,000 overlookin
 
 **Contributors**
 March 14, 2005
-change
-by [giorgio](/member/giorgio)

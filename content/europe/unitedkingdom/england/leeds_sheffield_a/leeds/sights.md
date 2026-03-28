@@ -10,5 +10,3 @@ type: section
 [Museums](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/sights?subsection=Museums)
 
 [Historical Sights](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/sights?subsection=Historical%20Sights)
-
--->

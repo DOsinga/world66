@@ -1,9 +1,9 @@
 ---
-title: "Hotel Permeti Travel Guide"
+title: "Hotel Permeti"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Përmeti is a rather nondescript town, but in many ways the spiritual heart of Albanian communism. It was very deeply involved in the anti- Fascist struggle and as a result was completly burnt down by the Germans in 1943-1944. So all the buildings are modern. Much of the population of the surrounding mountains is of Vlach descent.
 A British Special Operations Executive liason officer, T.W. Tilman, passing through Përmet in August 1943, noted the damage the area had suffered in the Balkan Wars of 1911-1912, and other recent conflict:
@@ -15,9 +15,3 @@ The town is the birthplace of some of the most important patriots of Albania. Th
 One interesting site is the "Rock of the City" which stands between the river and the main city loop highway. If you like hiking and hunting, Dhëmbeli mountain above Përmet, at a height of 2050 metres, is the perfect place to go. Don't forget to take a dive in the chilly waters of the Vjosa. The river is very beautiful, particularly after heavy rain: a torrent rushing over large boulders.
 Whereas in other parts of Southern Albania, especially Gjirokastër, grapes are used to make the ubiquitous and often-superb Raki (Grappa), Përmet is famous for its raki made from plums, like the Slivovitsa of Serbia, Croatia, Slovakia etc.
 And whereas in the last days of Gjirokastriote Enver Hoxha the formerly-closed fortress of Gjirokastër hosted a genuine international Folk Festival, it is now Përmet which is a centre of musical excellence.
-
-*Part or or all of this text stems from the original article at: Edialrour*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 04:05

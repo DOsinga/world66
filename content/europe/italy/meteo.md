@@ -1,0 +1,4 @@
+---
+title: "Meteo"
+type: location
+---

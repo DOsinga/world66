@@ -1,12 +1,8 @@
 ---
-title: "seal beach ca Travel Guide"
+title: "seal beach ca"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 seal beach, CA
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

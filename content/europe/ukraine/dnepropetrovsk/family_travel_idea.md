@@ -33,5 +33,3 @@ If you want some shopping then you need to stop by Karl Marx Avenue, the central
 
 **Contributors**
 March 30, 2010
-new
-by [piyushjain](/member/piyushjain_)

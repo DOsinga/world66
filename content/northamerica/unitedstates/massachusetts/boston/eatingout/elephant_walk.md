@@ -12,8 +12,6 @@ If you want to try something different, head to Elephant Walk at 900 Beacon Stre
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: International
 
@@ -26,5 +24,3 @@ url: [www.elephantwalk.com](http://www.elephantwalk.com)
 address: 900 Beacon Street
 
 PriceOfMenu: $30 and under
-
-[back to Eating Out](..)

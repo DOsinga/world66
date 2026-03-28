@@ -17,9 +17,3 @@ Birthplace of the composer Ludwig van Beethoven.
  ticket reservation: +49-228-9817523
 
 type: general
-
-
-
-
-
-[back to Museums](..)

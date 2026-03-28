@@ -8,8 +8,6 @@ The beach at Fraserburgh Bay (see photo in the gallery) is one of the finest in 
 
 **Contributors**
 July 09, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [Fraserburgh Bay Beach](/europe/unitedkingdom/scotland/fraserburgh/beaches/fraseburgh_bay_bea)
 

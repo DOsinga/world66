@@ -14,5 +14,3 @@ The original travel guide to the Marshall, Mariana, Caroline, and Gilbert island
 author: Neil Levy
 
 isbn: 1566915082
-
-[back to Books](..)

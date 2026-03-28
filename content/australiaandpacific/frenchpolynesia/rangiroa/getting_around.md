@@ -30,5 +30,3 @@ the atoll.
 
 **Contributors**
 March 16, 2005
-new
-by [pottedpork](/member/pottedpork) (1 point)

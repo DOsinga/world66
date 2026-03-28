@@ -22,13 +22,7 @@ There is far more to France than just Paris. The country is packed full of beaut
 
 **Contributors**
 January 21, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 25, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

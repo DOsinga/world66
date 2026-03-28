@@ -18,5 +18,3 @@ address: Kaiserhofstrasse 13 , Frankfurt-Mitte
 url: [www.divine-bar.de](http://www.divine-bar.de)
 
 tel: +49 (0)69 28 99 77
-
-[back to Nightlife and Entertainment](..)

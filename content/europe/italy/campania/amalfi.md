@@ -1,8 +1,6 @@
 ---
 title: "Amalfi"
 type: location
-latitude: 40.63367
-longitude: 14.602609
 ---
 
 Occupying the southern side of the [Sorrento](/europe/italy/campania/sorrento) peninsula, the Amalfi coast lays claim to be Italy’s most beautiful stretch of coast. Don’t miss its corniche road winding around the towering cliffs – an incredible ride. The most famous location along this coastline is possibly [Positano](/europe/italy/campania/positano) with its pyramid high above the water, that has inspired a thousand picture postcards. But for food and accommodation we do recommend the more unexpensive and bigger town of Amalfi, an established seaside resort since Edwardian times, when the British upper class spent their winters here. 

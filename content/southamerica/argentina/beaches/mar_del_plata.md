@@ -2,8 +2,6 @@
 title: "Mar del Plata"
 type: poi
 url: "www.mardelplata.com"
-latitude: -37.997617
-longitude: -57.548208
 ---
 
 Mar del Plata (population 550,000) is an Argentine city located on the coast of the Atlantic Ocean in the Buenos Aires Province, 400 km south of Buenos Aires.

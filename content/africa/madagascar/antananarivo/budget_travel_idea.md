@@ -51,5 +51,3 @@ be bartered with if you are looking for inexpensive souvenirs.
 
 **Contributors**
 March 21, 2010
-new
-by [benf](/member/benf)

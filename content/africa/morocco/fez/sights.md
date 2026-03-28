@@ -5,7 +5,7 @@ type: section
 
 The main sight of Fez is of course the old town. There is not a particular route you need to take, but here are a few highlights you will want to include in your walk through the maze. 
 
-**Sights**
+**general**
 
 **Dar Batha**
 

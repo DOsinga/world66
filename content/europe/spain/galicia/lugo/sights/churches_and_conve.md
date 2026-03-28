@@ -13,7 +13,4 @@ church of the Carmen and the chapel of San Roque are from the baroque
 era. Outside the city we have the Romanesque churches of Meilán,
 Bacerín and Mazo; and the baroque church of the Burgo.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05

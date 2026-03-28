@@ -2,8 +2,6 @@
 title: "Ms Tulip 05 Days & 04 Nights Luxor To Aswan Every Monday With Euros 150.- Per Person."
 type: poi
 address: "5"
-latitude: 59.863329
-longitude: 10.567855
 ---
 
 ITINERARY
@@ -20,13 +18,9 @@ Day 5 - Check out and Visit the Botanical garden by Felucca in the River Nile.
 
 **Contributors**
 May 03, 2008
-new
-by [nile cruise](/member/nile_cruise) (1 point)
 
 
 
 
 
 address: 5
-
-[back to Day Trips](..)

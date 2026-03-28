@@ -16,5 +16,3 @@ address: Caseros 459
 Good food, slow service and reasonable prices; good option if you are not in a hurry.
 
 address: Gurruchaga 20
-
--->

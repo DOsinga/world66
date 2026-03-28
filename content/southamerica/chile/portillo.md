@@ -1,8 +1,6 @@
 ---
 title: "Portillo"
 type: location
-latitude: -32.836418
-longitude: -70.129083
 ---
 
 We currently have no information about Portillo.

@@ -1,9 +1,9 @@
 ---
-title: "Ordubad Travel Guide"
+title: "Ordubad"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 After [Nakhchivan City](/europe/az-nakhchivan-city.html), Ordubad is the most important town in the Nakhchivan Autonomous Republic, having once been the capital of a semi-independent sultanate, which eventually yielded sovereignty to the Russians tzars in 1828.
 
@@ -20,13 +20,3 @@ Around the town there are vast and varied orchards, as well as mulberry plantati
 Azeri and Iranian authorities have agreed to build a new bridge over the river Araz in the border point of Ordubad-Siahrud.
 
 (420 km southwest of Baku)
-
-*Part or or all of this text stems from the original article at: www.azerb.com*
-
-#### Contributors
-
-April 16, 2006 new by [azerbaijan08](/member/azerbaijan08)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 23:22

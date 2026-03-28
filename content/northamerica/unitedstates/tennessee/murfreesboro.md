@@ -18,5 +18,3 @@ town from Union occupation in July of 1862.
 
 **Contributors**
 May 19, 2005
-change
-by [giorgio](/member/giorgio)

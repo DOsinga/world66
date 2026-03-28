@@ -33,5 +33,3 @@ The salt laboratory presents information on salt mining in a fun and interactive
 
 **Contributors**
 March 27, 2010
-change
-by [jenna storm](/member/jenna_storm)

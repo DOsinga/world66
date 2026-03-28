@@ -6,8 +6,6 @@ email: "postmaster@inkanatura.com.pe"
 phone: "51 1 4402022"
 url: "ww.inkanatura.com"
 zipcode: "Lima 27"
-latitude: -12.094254
-longitude: -77.034065
 ---
 
 Tour operator with offices in Chiclayo that offers high quality and personalized service in the North Coast (Chiclayo and Trujillo). It also operates programs and expeditions to Chachapoyas including visits to the amazing fortress of Kuelap. Chiclayo and Trujillo tours.
@@ -29,5 +27,3 @@ address: Manuel banon 461 Lima
 tel: 51 1 4402022
 
 email: postmaster@inkanatura.com.pe
-
-[back to Tours and Excursions](..)

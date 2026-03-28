@@ -14,5 +14,3 @@ URL: www.theatre-antique.com/en/orange/
 
 **Contributors**
 July 23, 2007
-new
-by [michel_galibert](/member/michel_galibert)

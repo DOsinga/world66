@@ -1,9 +1,9 @@
 ---
-title: "Bahawalpur Travel Guide"
+title: "Bahawalpur"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 We currently have no information about Bahawalpur.
 
@@ -11,6 +11,4 @@ If you do know any general information about Bahawalpur, please [Edit this artic
 
 If you know any hotels in Bahawalpur or restaurants in Bahawalpur, please [[Add].](/destinations/addItemWizard?addwhere=asia/pakistan/bahawalpur)
 
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 21:05
+A city of good summer/winter sunshine.Alovely place to visit in winters .An international level and free sports facility and libray.A free safari park and loads of rustic life on show.

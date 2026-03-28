@@ -55,5 +55,3 @@ mountain trails and you can see some beautiful scenery.
 
 **Contributors**
 April 17, 2010
-new
-by [2 many commas](/member/2_many_commas)

@@ -17,5 +17,3 @@ type: Italian
 address: Hurghada Inter-Continental Resort , El Corniche
 
 tel: 20 65 446911
-
-[back to Eating Out](..)

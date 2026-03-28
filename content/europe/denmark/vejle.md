@@ -1,0 +1,4 @@
+---
+title: "Vejle"
+type: location
+---

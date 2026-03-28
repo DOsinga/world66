@@ -27,5 +27,3 @@ If you are over in the Christchurch area this is one of the first things that yo
 
 **Contributors**
 April 20, 2010
-change
-by [shomer](/member/shomer)

@@ -59,9 +59,5 @@ a guest cabin with paid reservation.
 
 **Contributors**
 January 20, 2010
-new
-by [amymc](/member/amymc)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

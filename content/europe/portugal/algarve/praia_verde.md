@@ -1,7 +1,9 @@
 ---
-title: "Praia Verde Travel Guide"
+title: "Praia Verde"
 type: location
 ---
+
+Travel Guide
 
 Praia Verde is one of the most beautiful beaches in Algarve. It's located in East Algarve, one Km from Monte Gordo and 10 Km from Vila Real de Santo Antonio and the Spanish border.
 
@@ -11,5 +13,3 @@ The sea water is very calm and warm in Summer (around 22ºC).
 
 **Contributors**
 February 17, 2007
-change
-by [paulam](/member/paulam)

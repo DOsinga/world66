@@ -21,19 +21,4 @@ coat of arms from 1322 on different parts of the façade.
 
 **Town Wall Ruins**
 
-You can take a look at the town wall ruins, dating back to 1629, when the town was a heavily fortified settlement. The fortifications had several gates
-and four towers, one of which is still partly preserved. There are also few pieces of the wall, which were left untouched by time – one of them is the
-"Salzburg Gate" (or the Town Gate), although it was slightly modified and extended in 1930s in order to allow a better pass for the increasing traffic.
-
-**Two Churches**
-
-There are two churches in Schladming known for their remarkable architecture and history. These are the Catholic Church and the Lutheran Church. Both
-were built by famous masters of their time: Wolfgang Hagenbacher, Peter Hafner, Martin Neuberg, and Karl Ganzenberg to name a few. Next to the Catholic
-Church stands another interesting building called the Anna Chapel, which happens to be used as a concert venue lately.
-
-**Monuments**
-
-A number of interesting monuments are located throughout the city. You will probably notice them, while you’re a having a walk around town: the Saint
-Florian statue, the Peasant Revolt Monument and the historic boundary stone "Bürgerschafts-Burgfriedstein." You might miss the Plague Cross - it is
-located very close to the town hospital and reminds of the many victims of the plague in 1716. All of these monuments have their intriguing history and
-are worth being seen.
+You can take a look at the town wall ruins, dating

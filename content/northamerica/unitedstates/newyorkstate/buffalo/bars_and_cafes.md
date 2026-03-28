@@ -15,5 +15,3 @@ When entering a bar, you may be required to provide legitamate proof of your age
 
 **Contributors**
 December 20, 2005
-change
-by [allamericanbear](/member/allamericanbear)

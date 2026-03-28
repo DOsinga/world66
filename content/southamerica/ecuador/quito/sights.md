@@ -11,5 +11,3 @@ type: section
 [Hotspots](/southamerica/ecuador/quito/sights?subsection=Hotspots)
 
 [Museums](/southamerica/ecuador/quito/sights?subsection=Museums)
-
--->

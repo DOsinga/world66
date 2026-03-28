@@ -7,8 +7,6 @@ email: "carmenzhing@hotmail.com"
 phone: "021 4425900"
 type: "Concerts"
 url: "www.michaelis.uct.ac.za"
-latitude: -33.930085
-longitude: 18.413111
 ---
 
 Waddy Jones, of Max Normal, Super evil fame, album Launch at the Michaelis School of Fine art.
@@ -31,5 +29,3 @@ url: [www.michaelis.uct.ac.za](http://www.michaelis.uct.ac.za/~alamprec/)
 address: Michaelis School of fine art
 
 email:
-
-[back to Nightlife and Entertainment](..)

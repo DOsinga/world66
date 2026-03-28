@@ -1,0 +1,4 @@
+---
+title: "Taringa"
+type: location
+---

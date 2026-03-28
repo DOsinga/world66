@@ -10,8 +10,6 @@ Here are some suggested hotspots in Noumea.
 
 **Contributors**
 February 28, 2005
-new
-by [giorgio](/member/giorgio)
 
 ### [Marie Tjibaou Cultural centre](/australiaandpacific/newcaledonia/noumea/sights/tjibaou_cultural_c)
 

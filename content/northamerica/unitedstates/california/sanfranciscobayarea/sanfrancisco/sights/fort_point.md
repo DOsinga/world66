@@ -16,5 +16,3 @@ type: Landmarks
 
 
 url: [www.zurdogo.com](http://www.zurdogo.com/attractions/fortpoint.html)
-
-[back to Sights](..)

@@ -21,5 +21,3 @@ openingHours: 10am-10pm
 url: [www.cloud9vegas.com](http://www.cloud9vegas.com)
 
 address: 3951 Las Vegas Blvd. South, Across from Mandalay Bay
-
-[back to Sights](..)

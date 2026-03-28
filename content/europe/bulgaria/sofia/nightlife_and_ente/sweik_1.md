@@ -30,5 +30,3 @@ tel: +359 2/9879198
 email: contact@sofianights.com
 
 address: 98, Rackovski Str.
-
-[back to Nightlife and Entertainment](..)

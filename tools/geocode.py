@@ -69,49 +69,34 @@ def build_query(rel_path, meta):
     if address and address != "None":
         return address
 
-    # For locations, build from the path hierarchy
-    # e.g. europe/netherlands/amsterdam -> "Amsterdam, Netherlands, Europe"
+    # Build query: "City, Country" — always use title + country (second path segment)
     parts = rel_path.replace(".md", "").split(os.sep)
+    # parts[0] = continent, parts[1] = country, parts[2+] = region/city
 
-    # Skip section slugs in the path
-    SECTION_SLUGS = {
-        "sights", "eating_out", "getting_there", "getting_around",
-        "practical_informat", "things_to_do", "day_trips", "shopping",
-        "beaches", "museums", "nightlife_and_ente", "nightlife",
-        "bars_and_cafes", "festivals", "when_to_go", "top_5_must_dos",
-        "activities", "books", "people", "budget_travel_idea",
-        "family_travel_idea", "tours_and_excursio", "travel_guide",
-        "7_day_itinerary",
-    }
-    parts = [p for p in parts if p not in SECTION_SLUGS]
+    if len(parts) < 2:
+        return None  # continent-level page, skip
 
-    if not parts:
-        return None
+    # Try to get the country name from its .md frontmatter
+    country_slug = parts[1]
+    country = country_slug.replace("_", " ").title()
+    for country_md in [
+        CONTENT_DIR / parts[0] / country_slug / f"{country_slug}.md",
+        CONTENT_DIR / parts[0] / f"{country_slug}.md",
+    ]:
+        if country_md.is_file():
+            cm = parse_frontmatter(country_md.read_text(encoding="utf-8", errors="replace"))
+            if cm.get("title"):
+                country = cm["title"]
+            break
 
-    # Use title from frontmatter for the last part (better than slug)
-    title = meta.get("title", "")
-    if title:
-        parts[-1] = title
+    # Use title from frontmatter for the place name
+    title = meta.get("title", parts[-1].replace("_", " ").title())
 
-    # Clean up slugs for the rest
-    for i in range(len(parts) - 1):
-        parts[i] = parts[i].replace("_", " ").title()
-
-    # Drop the continent (first path segment) — Nominatim doesn't use them
-    CONTINENTS = {
-        "africa", "antarctica", "asia", "australiaandpacific",
-        "centralamericathecaribbean", "europe", "northamerica",
-        "southamerica", "world",
-    }
-    parts = [p for p in parts if p.lower() not in CONTINENTS]
-
-    if not parts:
-        return None
-
-    # Reverse so it's "City, Country"
-    parts.reverse()
-
-    return ", ".join(parts)
+    if len(parts) == 2:
+        # Country-level page — just query the country name
+        return title
+    else:
+        return f"{title}, {country}"
 
 
 def geocode_query(query):

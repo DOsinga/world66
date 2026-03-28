@@ -13,11 +13,5 @@ The camp was operated from 1941 until the liberation of Niš by the Yugoslav Par
 
 **Contributors**
 June 09, 2007
-new
-by [brokenme](/member/brokenme)
 
 type: Memorials
-
-
-
-[back to Sights](..)

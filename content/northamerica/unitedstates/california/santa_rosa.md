@@ -1,9 +1,9 @@
 ---
-title: "Santa Rosa Travel Guide"
+title: "Santa Rosa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located 55 miles north of San Francisco, the city of Santa Rosa is the
 center of California’s famous wine country and offers fun family
@@ -48,9 +48,3 @@ the fully restored Santa Rosa Depot is now home to the Northwestern
 Pacific Railroad Historical Society and Rail Room Gallery which offers
 special railroad and historical exhibits, including a miniature
 Northwestern Pacific train.
-
-*Part or or all of this text stems from the original article at: http://www.winecountryri.com/santa-rosa-ca.asp*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 06:45

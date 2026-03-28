@@ -33,5 +33,3 @@ address: Los Laureles 285 San Isidro
 PriceOfMenu: U$ 20
 
 email: sacha@sacha.com.pe
-
-[back to Eating Out](..)

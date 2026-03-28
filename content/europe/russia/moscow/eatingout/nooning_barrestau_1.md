@@ -23,5 +23,3 @@ tel: + 7 (495) 664 28 80
 address: Savvinskaya Naberezhnaya, 12
 
 PriceOfMenu: 50-10$
-
-[back to Eating Out](..)

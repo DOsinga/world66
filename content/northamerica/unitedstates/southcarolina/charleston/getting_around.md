@@ -7,5 +7,3 @@ Charleston is a wonderful place to explore by foot. Visitors find many new sight
 
 **Contributors**
 May 26, 2009
-new
-by [harding](/member/harding)

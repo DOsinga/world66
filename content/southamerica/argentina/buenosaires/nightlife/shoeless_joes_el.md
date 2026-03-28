@@ -17,5 +17,3 @@ type: Pubs
 url: [www.buenostours.com](http://www.buenostours.com/shoeless-joes-el-alamo-bar)
 
 address: Uruguay 1175 (between Santa Fe & Arenales), Recoleta
-
-[back to Nightlife and Entertainment](..)

@@ -13,9 +13,4 @@ One of the very best is Lady Waterford Hall, containing biblical portraits in wh
 
 Further information from: http://www.secretkingdom.com/fordetal.htm
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 16 September 04
-
-Write up by [davidx](/member/davidx) on 16 September 04
-
--->
+Write up on 16 September 04

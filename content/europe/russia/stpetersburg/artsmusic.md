@@ -25,9 +25,7 @@ The **Opera and Ballet theater** was formerly called the Maly Opera and Ballet A
 
 **Mariinsky theater**
 
-**Mariinsky theater** is one of the oldest and biggest music theaters in Russia. It is very famous all over the world as it dates back to 1783. The construction of the building was completed in 1858 to a design by Architect A. Kavos. The first opera staged at the theater was held in October 1860. It was the performance of M.I Glinka's "Life sacrificed for Tsar". [more..](/europe/russia/stpetersburg/artsmusic/mariinskytheater)
-
-**St. Petersburg Music hall **
+**Mariinsky theater** is one of the oldest and biggest music theaters in Russia. It is very famous all over the world as it dates **St. Petersburg Music hall **
 
 **St. Petersburg Music hall** is one of the most popular music ensembles in the city. It attracts audience from practically all walks of life. It was established in 1967 by I. Rakhlin. The bright, yellow-coloured building is still one of the biggest theaters in the city. It's exterior decorations are vivid displays of early 20th century architectural perfection. [more..](/europe/russia/stpetersburg/artsmusic/stpetersburgmusichall)
 
@@ -38,5 +36,3 @@ The Philharmonic Society was formed in 1921. It is the oldest and one of the big
 **Children's Drama Theatre **
 
 The theater was established seven years ago with a very specific goal of bringing joy to the youngest viewers. Every play of the theatre has a festival-like quality. The performances have a strong emotional influence on both the children's and the adult audiences. The good old tales read all over the world are staged in the theatre. Almost all plays are musicals. The theatre's devoted work has in a very short time made it a favourite of St. Petersburg's children. [more..](/europe/russia/stpetersburg/artsmusic/childrensdramatheatre)
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Newhall"
+type: location
+---

@@ -77,8 +77,6 @@ on the same flight and must take the tour together.
 
 **Contributors**
 August 07, 2008
-change
-by [milimani](/member/milimani) (1 point)
 
 ### [Milimani Backpackers - Nairobi](/africa/kenya/nairobi/day_trips/milimani_backpacke)
 

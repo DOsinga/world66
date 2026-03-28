@@ -64,5 +64,3 @@ unwind after a long week of sightseeing.
 
 **Contributors**
 March 09, 2010
-change
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

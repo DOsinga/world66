@@ -1,0 +1,4 @@
+---
+title: "Wasilla"
+type: location
+---

@@ -19,5 +19,3 @@ October - NASCAR Pepsi 500 Race & Fanzone at the Auto Club Speedway - www.autocl
 
 **Contributors**
 April 01, 2010
-new
-by [ontariobruin](/member/ontariobruin)

@@ -1,0 +1,4 @@
+---
+title: "Olomouc"
+type: location
+---

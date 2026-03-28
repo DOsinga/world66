@@ -19,5 +19,3 @@ address: 1815 14th Street NW
 PriceOfMenu: entrees $8-12
 
 priceofmenu: entrees $8-12
-
-[back to Eating Out](..)

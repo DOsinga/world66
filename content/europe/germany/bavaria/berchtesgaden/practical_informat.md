@@ -30,5 +30,3 @@ One of the largest draws in Berchatesgaden is the Nationalpark Berchtesgaden. It
 
 **Contributors**
 April 10, 2010
-new
-by [palm tree mandy](/member/palm_tree_mandy)

@@ -5,8 +5,6 @@ address: "Palma de Mallorca"
 email: "mallorcatourguides@gmail.com"
 phone: "+34649647772"
 url: "www.mallorcatourguides.info"
-latitude: 39.569582
-longitude: 2.650075
 ---
 
 Private and small-group tours in Palma de Mallorca. Spain. We offer personal tours and shore excursions at unbeatable rates for cruise ship passengers ,family trips, private tours with guide for private groups.
@@ -21,5 +19,3 @@ url: [www.mallorcatourguides.info](http://www.mallorcatourguides.info)
 address: Palma de Mallorca
 
 email: mallorcatourguides@gmail.com
-
-[back to Day Trips](..)

@@ -10,11 +10,5 @@ Getting dollars changed into soles is just a matter of walking across the street
 
 **Contributors**
 February 13, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Money matters
-
-
-
-[back to Practical Information](..)

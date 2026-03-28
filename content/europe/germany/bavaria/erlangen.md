@@ -1,0 +1,4 @@
+---
+title: "Erlangen"
+type: location
+---

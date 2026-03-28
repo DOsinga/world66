@@ -8,8 +8,3 @@ There are two national parks in Yorkshire, this being one and the [Yorkshire Dal
 Near to the North York Moors is Rievaulx Abbey, perhaps rivalling Fountains Abbey nearer to the Dales. One area in which it certainly beats the Dales is that of preserved railways, the NYM Railway rivalling that of the Dart Valley in Devon to be considered England's most scenic.
 
 Useful websites are http://www.moors.uk.net/ for the National Park and http://www.nymr.demon.co.uk/ for the railway.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 October 04
-
--->

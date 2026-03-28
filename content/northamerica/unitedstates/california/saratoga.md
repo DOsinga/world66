@@ -1,9 +1,9 @@
 ---
-title: "Saratoga Travel Guide"
+title: "Saratoga"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 A small-town residential community with a population of 30,000, Saratoga has a colorful past. From a frontier town to an industrial settlement, from a village of fruit orchards to a residential city, Saratoga has continually evolved over its colorful 160-year history.
 
@@ -22,9 +22,3 @@ Saratoga’s identity continued to transform throughout the 1900’s, as orchard
 The valley’s shift towards suburban and urban living in the years after World War II cemented Saratoga’s status as a residential community and its reputation as an excellent place to live. In 1956, wary of potential annexation plans from San Jose, the residents of Saratoga voted to incorporate and establish their own City government.
 
 Saratoga is vastly different from the town that Campbell and McCarty started over 150 years ago, but it remains a thriving community. The industry and most of the orchards may be gone, but the city retains the character of a small town tucked away in the trees of the Santa Cruz Mountains.
-
-*Part or or all of this text stems from the original article at: www.saratoga.ca.us*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 16:28

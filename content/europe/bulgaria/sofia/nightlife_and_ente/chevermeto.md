@@ -15,8 +15,6 @@ Unique setting. Music that flies into the space and dances that drove the world 
 
 **Contributors**
 December 29, 2008
-change
-by [jbaireva](/member/jbaireva)
 
 type: Pubs
 
@@ -35,5 +33,3 @@ tel: (+359/02) 963 03 08
 email: contact@sofianights.com
 
 address: 31, Cherny Vrah Blvd.
-
-[back to Nightlife and Entertainment](..)

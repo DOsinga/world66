@@ -16,8 +16,6 @@ Prices range from 10 to 14 soles ($3.35 to $4.70 in US dollars) and up. So this 
 
 **Contributors**
 February 13, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Italian
 
@@ -32,5 +30,3 @@ tel: (042) 52 2104
 address: Jr. Alegria Arias de Morey #298
 
 PriceOfMenu: Inexpensive
-
-[back to Eating Out](..)

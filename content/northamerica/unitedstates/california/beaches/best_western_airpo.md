@@ -20,5 +20,3 @@ url: [www.bestwesternoakland.com](http://www.bestwesternoakland.com)
 address: 170 Hagenberger Loop, Oakland, California 94621
 
 email: info@bestwesternoakland.com
-
-[back to Beaches](..)

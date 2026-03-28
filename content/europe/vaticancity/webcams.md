@@ -1,10 +1,7 @@
 ---
 title: "Webcams"
-type: location
+type: section
 ---
-
-**Change history**
-Minor corrections by [hpharmsen](/member/hpharmsen) on 24 April 05
 
 We currently have no Webcams listed in Vatican City.
 

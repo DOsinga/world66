@@ -1,7 +1,9 @@
 ---
-title: "Scalea Travel Guide"
+title: "Scalea"
 type: location
 ---
+
+Travel Guide
 
 **Scalea** is a town situated in Calabria in southern Italy, on the enchanting coast of the Tyrrhenian sea. The old town is placed on the heights and preserves the remains of an ancient wall and tower, while towards the beach, the [Scalea](/europe/italy/calabria/scalea) Marina centre has recently been developed, with modern, comfortable hotels splendid villas and numerous, fully-equipped bathing areas on the beach. These enchanting beaches look out onto a sea of incomparable beauty.
 
@@ -19,5 +21,3 @@ mountains.
 
 **Contributors**
 August 30, 2006
-change
-by [giorgio](/member/giorgio)

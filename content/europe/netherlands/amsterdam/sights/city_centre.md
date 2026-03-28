@@ -3,8 +3,6 @@ title: "City Centre"
 type: poi
 type: "Landmarks"
 url: "www.jordaanweb.com"
-latitude: 52.374898
-longitude: 4.89682
 ---
 
 The City Centre of Amsterdam consists of The Jordaan, The Ring of Canals (Grachtengordel), The Redlight District and the main Squares Leidseplein and Rembrandtplein.
@@ -23,8 +21,6 @@ For more cultural information about The Jordaan and other parts of Amsterdam, I 
 
 **Contributors**
 February 05, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Landmarks
 
@@ -33,5 +29,3 @@ type: Landmarks
 
 
 url: [www.jordaanweb.com](http://www.jordaanweb.com)
-
-[back to Sights](..)

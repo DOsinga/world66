@@ -11,8 +11,6 @@ Those limited on time can usually get a taxi driver for the whole day and catch 
 
 **Contributors**
 December 08, 2006
-change
-by [approaching genius](/member/approaching_genius) (3 points)
 
 ### [Catarata de Ahuashiyacu](/southamerica/peru/tarapoto/day_trips/catarata_de_ahuash)
 
@@ -32,17 +30,10 @@ At the restaurant one can buy bananas (both to eat and [more..](/southamerica/pe
 
 [[rate it]](/southamerica/peru/tarapoto/day_trips/lamas_peru)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -1,0 +1,4 @@
+---
+title: "Seydisfjordur"
+type: location
+---

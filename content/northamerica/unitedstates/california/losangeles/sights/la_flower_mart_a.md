@@ -13,8 +13,6 @@ L.A. Flower Mart and Flower District is the largest flower market in the country
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Streets
 
@@ -29,5 +27,3 @@ url: [www.laflowerdistrict.com](http://www.laflowerdistrict.com)
 address: 766 Wall Street, Los Angeles
 
 email: info@laflowerdistrict.com
-
-[back to Sights](..)

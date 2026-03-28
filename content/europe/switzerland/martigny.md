@@ -1,0 +1,4 @@
+---
+title: "Martigny"
+type: location
+---

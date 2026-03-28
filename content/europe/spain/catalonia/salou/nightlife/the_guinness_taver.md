@@ -20,5 +20,3 @@ ClosingTime: restaurant 23.00 bar 1.00
 address: C/ Alfonso V, Salou
 
 email: rachelnobbs@hotmail.com
-
-[back to Nightlife and Entertainment](..)

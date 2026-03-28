@@ -9,5 +9,3 @@ Service from RightBooks.In always put your satisfaction and benefits above every
 
 
 author: Bappaditya Ghosh
-
-[back to Books](..)

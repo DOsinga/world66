@@ -10,6 +10,3 @@ If you move to Glendale you'll find DreamWorks Animation and Nickelodeon Animati
 In Glendale, there are several huge malls including the Glendale Galleria, as well as North Brand Street, which features hundreds of shops and restaurants. There’s also a great only-known-to-local chicken eatery – ZANKOU CHICKEN in Glendale (as well as other cities).
 
 On the other side of Glendale is GRIFFITH PARK – where you can find an oasis of green. There is a Gene Autry museum; some kids attractions and best of all – Griffith Park Observatory. If the skies are clear and the smog not too bad, it’s definitely worth a winding road drive to see both LA from a great vantage point and of course, the setting for countless movies (TERMINATOR, BOWFINGER, et al).
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 18 March 04

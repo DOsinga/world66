@@ -1,0 +1,4 @@
+---
+title: "Osogbo"
+type: location
+---

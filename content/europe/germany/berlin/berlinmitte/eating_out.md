@@ -16,5 +16,3 @@ type: section
 [Italian](/europe/germany/berlin/berlinmitte/eatingout?subsection=Italian)
 [Greek](/europe/germany/berlin/berlinmitte/eatingout?subsection=Greek)
 [Spanish](/europe/germany/berlin/berlinmitte/eatingout?subsection=Spanish)
-
--->

@@ -3,8 +3,6 @@ title: "Rembrandtplein"
 type: poi
 address: "Rembrandtplein"
 type: "Squares"
-latitude: 52.365988
-longitude: 4.896611
 ---
 
 You easily miss it but there is a statue of Rembrandt on the Rembrandtplein. All around are pubs, disco's and some sleazy bars.** 

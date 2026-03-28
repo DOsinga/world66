@@ -1,0 +1,4 @@
+---
+title: "Rosenheim"
+type: location
+---

@@ -19,6 +19,4 @@ The site of shot manufacture in the early colony, this site is of historical int
 
 **Mt Wellington**
 
-Don't visit Hobart without exploring the mountain. If the weather is good, hike to the pinnacle. If the weather is poor, explore the forested slopes. Offers great views in all directions.  
-
--->
+Don't visit Hobart without exploring the mountain. If the weather is good, hike to the pinnacle. If the weather is poor, explore the forested slopes. Offers great views in all directions.

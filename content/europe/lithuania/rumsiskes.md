@@ -1,0 +1,4 @@
+---
+title: "Rumsiskes"
+type: location
+---

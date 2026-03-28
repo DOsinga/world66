@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 **general**
@@ -142,5 +142,3 @@ fax: 081 921 2273
 address: CH-7031 Laax
 
 tel: 081 921 2270
-
--->

@@ -24,5 +24,3 @@ url: [www.envia.org](http://www.envia.org)
 address: Instituto Cultural Oaxaca, Ave Juarez #909, Centro, Oaxaca de Juarez, Oaxaca
 
 email: info@envia.org
-
-[back to Things to do](..)

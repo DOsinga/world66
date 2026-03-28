@@ -26,5 +26,3 @@ Cruz – Montalvão Tel (0351) 272 341 995
 
 **Contributors**
 September 05, 2005
-change
-by [airesdossantos](/member/airesdossantos)

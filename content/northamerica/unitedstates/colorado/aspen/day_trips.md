@@ -27,5 +27,3 @@ Paonia is nearly a 3 hour drive from Aspen through scenic country into Colorado'
 
 **Contributors**
 September 01, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

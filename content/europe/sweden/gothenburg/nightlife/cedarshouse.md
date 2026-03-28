@@ -8,7 +8,3 @@ Lebanese specialities. Belly dancers perform on Wednesday, Friday and Saturday n
 address: Andra Långgatan 21
 
 tel: 031-423553
-
-[back to Nightlife and Entertainment](..)
-
--->

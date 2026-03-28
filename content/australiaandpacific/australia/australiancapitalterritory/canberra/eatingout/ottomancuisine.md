@@ -15,5 +15,3 @@ type: Turkish
 address: Cnr Broughton & Blackall Sts Barton
 
 tel: (02) 6239 6754
-
-[back to Eating Out](..)

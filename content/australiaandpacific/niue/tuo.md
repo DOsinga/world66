@@ -1,0 +1,4 @@
+---
+title: "Tuo"
+type: location
+---

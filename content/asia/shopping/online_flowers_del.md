@@ -7,8 +7,6 @@ email: "mumbaiflowersworld@gmail.com"
 phone: "8696244169"
 type: "Shopping centers and malls"
 url: "www.mumbaiflowersworld.com"
-latitude: 19.204114
-longitude: 72.851738
 ---
 
 Mumbaiflowersworld.com is an online Florist in Mumbai with a collection of fresh flowers that can transform a celebratory moment into a valuable, eternal memory. We, will Mumbai Florist offer affordable Flowers delivery Mumbai.
@@ -29,5 +27,3 @@ url: [www.mumbaiflowersworld.com](http://www.mumbaiflowersworld.com/)
 address: Kandivali East Mumbai
 
 email: mumbaiflowersworld@gmail.com
-
-[back to Shopping](..)

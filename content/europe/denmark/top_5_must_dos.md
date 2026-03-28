@@ -19,13 +19,4 @@ A must-visit attraction for tourists in Denmark is Hammershus, a large medieval 
 
 **4. Egeskov Castle**
 
-Located to the south of Funen in Denmark, this is the best preserved Renaissance water castle in Europe. The castle dates back to the 14th century and is built on oaken piles in a small lake. Egeskov houses several museums, including a vintage motorcycle and automobile collection, a history of agriculture collection, and a flying vehicles collection.
-
-**5. The Little Mermaid Statue
-**
-Tourists to Denmark must visit the Little Mermaid statue, which is one of the most popular attractions in the country. Sculpted by Edvard Eriksen, this statue is considered to be the national symbol of Denmark. The statue was donated by Carl Jacobsen to the Royal Theatre. Initially, he was supposed to contribute a fountain, but when he watched a ballet rendition of the Little Mermaid, he was impressed by the dancer who played the central character. The statue bears the face of Ellen Price, whom Jacobsen had asked to pose for the statue.
-
-**Contributors**
-April 14, 2010
-new
-by [imran_m](/member/imran_m)
+Located to the south of Funen in Denmark, this is the best preserved Renaissance water castle in Europe. The castle dates

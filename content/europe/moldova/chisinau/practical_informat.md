@@ -7,5 +7,3 @@ Before coming to Chisinau Moldova, best to book a rental apartment, much better 
 
 **Contributors**
 October 23, 2007
-new
-by [svetlux](/member/svetlux)

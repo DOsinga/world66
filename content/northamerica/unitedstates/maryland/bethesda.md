@@ -1,9 +1,9 @@
 ---
-title: "Bethesda Travel Guide"
+title: "Bethesda"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Bethesda is the place to go if you are visiting Washington D.C. Less
 than 20 min. if you are driving and about 45 min. from the Bethesda
@@ -16,8 +16,3 @@ any oher US city.
 
 More information on
 *Bethesda Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 05:43

@@ -8,8 +8,6 @@ Here are a few suggestions for a visit.
 
 **Contributors**
 March 30, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### [The Forks National Historic Site](/northamerica/canada/manitoba/winnipeg/sights/theforksnationalhistoricsite)
 

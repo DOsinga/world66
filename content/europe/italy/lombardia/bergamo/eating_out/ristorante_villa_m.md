@@ -16,8 +16,6 @@ A romantic place for wedding receptions and special events.
 
 **Contributors**
 February 27, 2008
-new
-by [karenbru](/member/karenbru)
 
 type: Italian
 
@@ -34,5 +32,3 @@ address: Via A. Locatelli, 17 , Almenno S. Bartolomeo (BG)
 PriceOfMenu: Euro 75.00
 
 email:
-
-[back to Eating Out](..)

@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Hend@egyptonlinetours.net"
 phone: "0020111029094"
 url: "www.egyptonlinetours.net"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Departure : Everyday
@@ -26,41 +24,6 @@ Day 1: Our representative will pick you up from your hotel in Sharm & transfer y
 
 (Egyptian Museum - Citadel - Khan El Khalili)
 
-Day 2: After having your breakfast, enjoy an excursions to visit the Egyptian antiquities museum commonly known as the Egyptian Museum which located in the capital city of Cairo, where you can see the most extensive collection of ancient antiquities, & the famous golden mask of Tutankhamun among other amazing pharaonic artifacts , then proceed your tour & visiting Salah El Din Citadel which was built on Moqattam Hills by quarrying. The Citadel is one of the world's greatest monuments to medieval warfare, as well as a highly visible landmark on Cairo's eastern skyline. Also you will see Mohamed Ali Mosque, the most popular Islamic mosque among the tourists, which sometimes referred to as the Alabaster mosque due to its extensive use of that stone on some of the exterior walls & other surfaces, & finally have a time for shopping at Khan El Khalili, the most famous bazaar in the Middle East, then transfer to Cairo airport for flight back to Sharm.
-
-Price Includes:-
-• Internal flight ticket (Sharm El Sheikh - Cairo - Sharm)
-• Pick up services from your hotel in Sharm and return
-• Accommodation in Cairo at 05 star hotel including breakfast
-• All transfers by private air-conditioned vehicle
-• Private English speaking guide throughout tours
-• Entrance fees to all the sights in Cairo
-• Lunch during your tour in Cairo
-• Mineral water and soft drink on board the vehicle
-• Shopping tours in Cairo
-• All services charges and taxes
-
-Contact Us:-
-Website: - egyptonlinetours.net
-E-mail:- Hend@egyptonlinetours.net
-Address:- 124, Haram street, Giza, Egypt
-Contact Person: - Hend Badawy
-Cell Phone: - 0020111029094
-
-Website:-
-
-http://www.egyptonlinetours.net/Sightseeing-Tours/index.php
-
-
-
-
-
-tel: 0020111029094
-
-url: [www.egyptonlinetours.net](http://www.egyptonlinetours.net/Sightseeing-Tours/index.php)
-
-address: 124, Haram street, Giza, Egypt
+Day 2: After having your breakfast, enjoy an excursions to visit the Egyptian antiquities museum commonly known as the Egyptian Museum which located in the capital city of Cairo, where you can see the most extensive collection of ancient antiquities, & the famous golden mask of Tutankhamun among other amazing pharaonic artifacts , then proceed your tour & visiting Salah El Din Citadel which was built on Moqattam Hills by quarrying. The Citadel is one of the world's greatest monuments to medieval warfare, as well as a highly visible landmark on Cairo's eastern skyline. Also you will see Mohamed Ali Mosque, the most popular Islamic mosque among the tourists, which sometimes referred to as the Alabaster mosque due to its extensive use of that stone on some of the exterior walls & other surfaces, & finally have a time for shopping at Khan El Khalili, the most famous bazaar in the Middle East, then transfer to Cairo airport for flight address: 124, Haram street, Giza, Egypt
 
 email: Hend@egyptonlinetours.net
-
-[back to Day Trips](..)

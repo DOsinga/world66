@@ -14,8 +14,6 @@ There are many things to do in Washington.
 
 **Contributors**
 July 25, 2007
-new
-by [rfujitani](/member/rfujitani)
 
 ### [Menu Bar Internet Cafe](/northamerica/unitedstates/washington/things_to_do/menubarinternetcafe)
 

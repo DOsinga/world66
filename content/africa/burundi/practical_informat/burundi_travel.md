@@ -7,8 +7,6 @@ email: "info@burundi-travel.com"
 phone: "+25779980180"
 type: "Embassies and Consulates"
 url: "www.burundi-travel.com"
-latitude: -3.363812
-longitude: 29.367503
 ---
 
 **Burundi Travel is a travel agency operating in Burundi.**
@@ -30,5 +28,3 @@ url: [www.burundi-travel.com](http://www.burundi-travel.com)
 address: Bujumbura
 
 email: info@burundi-travel.com
-
-[back to Practical Information](..)

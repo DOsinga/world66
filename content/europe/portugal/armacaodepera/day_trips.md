@@ -54,9 +54,5 @@ several cities during a short stay here.
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 11, 2010
-change
-by [ctanios](/member/ctanios)

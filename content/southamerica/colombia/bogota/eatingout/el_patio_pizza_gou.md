@@ -17,5 +17,3 @@ type: Italian
 address: Cra. 4 A # 27-38
 
 tel: 2866080
-
-[back to Eating Out](..)

@@ -23,11 +23,3 @@ Curú National Wildlife Refuge covers an area of 208 acres. The area comprises m
 
 **Contributors**
 October 09, 2006
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to National Parks](..)

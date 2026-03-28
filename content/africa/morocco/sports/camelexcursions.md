@@ -5,8 +5,6 @@ address: "Merzouga, Morocco"
 email: "camelexcursionsmorocco@gmail.com"
 type: "Other"
 url: "www.camelexcursions.com"
-latitude: 31.099917
-longitude: -4.014088
 ---
 
 Without a doubt, Morocco is a country with great charm, the land of the setting sun charms you, an unforgettable experience that will not leave you indifferent...
@@ -32,5 +30,3 @@ url: [www.camelexcursions.com](http://www.camelexcursions.com)
 address: Merzouga, Morocco
 
 email: camelexcursionsmorocco@gmail.com
-
-[back to Things to do](..)

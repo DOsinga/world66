@@ -16,5 +16,3 @@ type: Money matters
 
 
 address: The nearest bank, or in your hotel.
-
-[back to Practical Information](..)

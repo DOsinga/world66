@@ -11,8 +11,6 @@ Guatape **i****s located approximately 90 minutes outside of Medellin and is bec
 
 **Contributors**
 April 23, 2008
-change
-by [medellin vip hotel](/member/medellin_vip_hotel) (1 point)
 
 
 
@@ -23,5 +21,3 @@ url: [www.medellinviphotel.com](http://www.medellinviphotel.com)
 address: Calle 5 No. 43D-26 Poblado
 
 email: ilcalbert@gmail.com
-
-[back to Day Trips](..)

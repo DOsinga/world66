@@ -28,8 +28,6 @@ The Cave Monastery is rich in architectural monuments. Thirty-seven of them were
 
 **Contributors**
 July 13, 2007
-new
-by [eren22](/member/eren22) (2 points)
 
 type: Churches and Cathedrals
 
@@ -38,5 +36,3 @@ type: Churches and Cathedrals
 url: www.encyclopediaofukraine.com
 
 address: http://www.encyclopediaofukraine.com/display.asp?linkpath=pages\K\Y\KyivanCaveMonastery.htm
-
-[back to Sights](..)

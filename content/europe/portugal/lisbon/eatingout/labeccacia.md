@@ -17,5 +17,3 @@ type: Italian
 address: Qt. Bicuda - Torre
 
 tel: +35 21 484 30 58
-
-[back to Eating Out](..)

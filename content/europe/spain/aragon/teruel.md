@@ -1,8 +1,6 @@
 ---
 title: "Teruel"
 type: location
-latitude: 40.600526
-longitude: -0.922928
 ---
 
 We currently have no information about Teruel.

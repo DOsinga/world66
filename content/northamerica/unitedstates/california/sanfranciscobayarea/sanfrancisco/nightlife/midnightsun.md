@@ -22,5 +22,3 @@ address: 4067 18th St
 tel: (415)861-4186
 
 url: [www.sfgaybarlist.com#midnight](http://www.sfgaybarlist.com#midnight)
-
-[back to Nightlife and Entertainment](..)

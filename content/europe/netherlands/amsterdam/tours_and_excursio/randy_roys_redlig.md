@@ -17,5 +17,3 @@ tel: 06.41.85.3288
 url: [www.randyroysredlighttours.com](http://www.randyroysredlighttours.com)
 
 email: kimberley@randyroysredlighttours.com
-
-[back to Tours and Excursions](..)

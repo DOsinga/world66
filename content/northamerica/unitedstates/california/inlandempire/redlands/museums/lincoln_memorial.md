@@ -44,8 +44,6 @@ Groups of 15 or more are recommended to schedule tours by calling,
 
 **Contributors**
 December 05, 2005
-new
-by [handyman321](/member/handyman321)
 
 
 
@@ -60,5 +58,3 @@ url: [www.lincolnshrine.org](http://www.lincolnshrine.org/)
 address: behind the A. K. Smiley Public Library at 125 West Vine Street., Redlands, CA 92373
 
 email: HERITAGE@AKSPL.ORG
-
-[back to Museums](..)

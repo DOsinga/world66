@@ -23,5 +23,3 @@ url: [triqita.com](http://triqita.com)
 address: Sheraton Hotel, Tirana
 
 email: natasha@triqita.com
-
-[back to Shopping](..)

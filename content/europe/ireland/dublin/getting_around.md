@@ -9,5 +9,3 @@ An alternative is one of the the many hop on hop off buses with which you can cr
 
 **Contributors**
 March 09, 2005
-new
-by [hpharmsen](/member/hpharmsen)

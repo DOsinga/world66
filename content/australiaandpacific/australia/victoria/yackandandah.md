@@ -1,0 +1,4 @@
+---
+title: "Yackandandah"
+type: location
+---

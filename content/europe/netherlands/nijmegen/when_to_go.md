@@ -21,9 +21,5 @@ The coinciding Summer Festival and Four Day Marches of Nijmegen is also a nice t
 
 **Contributors**
 February 03, 2010
-new
-by [kat99](/member/kat99)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

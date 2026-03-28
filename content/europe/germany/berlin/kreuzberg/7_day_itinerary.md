@@ -35,5 +35,3 @@ On the last day of your tour, you must visit the SO36 Club where you can get a g
 
 **Contributors**
 February 21, 2010
-new
-by [ashmita](/member/ashmita_)

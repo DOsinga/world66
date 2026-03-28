@@ -4,8 +4,6 @@ type: poi
 address: "St Kilda"
 date: "2007 (?)"
 url: "www.stkildafestival.com.au"
-latitude: -37.863826
-longitude: 144.981637
 ---
 
 The party was so big in 2005 that this bad boy will still be hung-over
@@ -15,5 +13,3 @@ the rhythm.
 
 **Contributors**
 September 10, 2005
-new
-by [zan5hin](/member/zan5hin)

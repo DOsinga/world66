@@ -19,9 +19,5 @@ While staying in [Medellin](/southamerica/colombia/medellin/family_travel_idea),
 
 **Contributors**
 February 13, 2010
-change
-by [ashmita](/member/ashmita_)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

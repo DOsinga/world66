@@ -13,8 +13,6 @@ There are a lot of options, from kiosks along the edge of the lagoon to fine res
 
 **Contributors**
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Landmarks
 
@@ -25,5 +23,3 @@ type: Landmarks
 url: [www.rio.rj.gov.br](http://www.rio.rj.gov.br/riotur/en/atracao/?CodAtr=1434)
 
 address: Av. Epitacio Pessoa and Av. Borges de Medeiros - Lagoa
-
-[back to Sights](..)

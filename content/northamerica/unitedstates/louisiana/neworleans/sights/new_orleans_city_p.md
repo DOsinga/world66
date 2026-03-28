@@ -12,8 +12,6 @@ This 1,300-acre, 150-year-old park is just as majestic today as it was before Hu
 
 **Contributors**
 June 07, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Parks, Gardens and Zoos
 
@@ -26,5 +24,3 @@ url: [www.neworleanscitypark.com](http://www.neworleanscitypark.com)
 address: 1 Palm Drive, New Orleans LA, 70124
 
 email: info@nocp.org
-
-[back to Sights](..)

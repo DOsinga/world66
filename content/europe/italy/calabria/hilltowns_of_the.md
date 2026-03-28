@@ -1,7 +1,9 @@
 ---
-title: "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.) Travel Guide"
+title: "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)"
 type: location
 ---
+
+Travel Guide
 
 These towns are a paradox: they are your typical "modern" Calabrian hilltowns, but unlike any other: Reknown as the home of the *scalidde,* its immigrants have contributed to the building of Canada, Argentina, Brazil, the USA and Australia (not to mention the rest of Italy and Europe!).
 

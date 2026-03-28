@@ -11,8 +11,6 @@ Here are a few suggestions for a visit.
 
 **Contributors**
 May 13, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 ### [California Institute of Technology](/northamerica/unitedstates/california/losangeles/pasadena/sights/californiainstituteoftechnology)
 

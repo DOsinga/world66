@@ -8,8 +8,6 @@ Here are a few suggestions on how to reach Tegucigalpa.
 
 **Contributors**
 March 14, 2005
-new
-by [giorgio](/member/giorgio)
 
 ### [TGU - Tegucigalpa's Toncontin International Airport](/centralamericathecaribbean/honduras/tegucigalpa/getting_there/tgu__tegucigalpa)
 

@@ -7,5 +7,3 @@ If your looking for a good place to meet up with friends and watch the game, or 
 
 **Contributors**
 September 29, 2004
-new
-by [indianachick00](/member/indianachick00)

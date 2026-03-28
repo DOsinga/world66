@@ -1,9 +1,9 @@
 ---
-title: "Agios Nikolaos Travel Guide"
+title: "Agios Nikolaos"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The area of Agios Nikolaos covers a long stretch of the north eastern coast and a hinterland that rises to the tremendous rocky ranges of the Dhikti mountains. The actual town of Agios Nikolaos is the administrative capital of the region of Lassithi, and has a population of around 10,000 people. Agios Nikolaos became the first real tourist resort in the early 1970's, on the island, and was known for being a noisy and lively resort. Times have changed, and Agios Nikolaos now enjoys the reputation of being an upmarket destination for many nationalities and its romantic setting and lake area make it a perfect place for couples of all ages. There has been much "beautifying" of the town in the past few years, and a large well equipped marina has been constructed. The marina hosts many national and international sailing competitions and regattas in the summe months and is a popular destination for yachtsmen.
 
@@ -14,7 +14,3 @@ Legend has it that the Goddess Athena once bathed in the lake Voulismeni, the fo
 In Hellenistic times, the old Venetian harbour (Mantraki) was a flourishing port, for the Dorian city of Lato, 6km to the west of the town. The town thrived during the Roman occupation, and the Venetians later built their fortress at Mirabello inland of the old port to guard the harbour of Porto di San Nicolo.
 
 Agios Nikolaos and the surrounding area has more "Blue Flag" beaches than anywhere in Greece. The clear, crystal water is perfect for snorkeling and swimming and the beaches range from long sandy beaches such as Almyros, to small rocky coves where you can enjoy total solitude.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 11:52

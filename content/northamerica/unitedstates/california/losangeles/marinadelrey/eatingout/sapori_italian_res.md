@@ -14,8 +14,6 @@ This intimate Italian restaurants offers marina views from it's dinning room and
 
 **Contributors**
 December 04, 2006
-new
-by [marinagal](/member/marinagal)
 
 type: Italian
 
@@ -30,5 +28,3 @@ url: [www.sapori-mdr.com](http://www.sapori-mdr.com)
 address: 13723 Fiji Way, Marina del Rey, CA (In Fisherman's Village)
 
 PriceOfMenu: dinner Entrees $10 - $26
-
-[back to Eating Out](..)

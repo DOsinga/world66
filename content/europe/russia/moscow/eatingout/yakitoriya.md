@@ -17,5 +17,3 @@ type: Japanese
 url: [www.yakitoriya.ru](http://www.yakitoriya.ru )
 
 PriceOfMenu: 20$-30$
-
-[back to Eating Out](..)

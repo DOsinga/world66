@@ -12,8 +12,6 @@ Located in Marina Del Rey, C&O's Trattoria provides casual outdoor Italian dinin
 
 **Contributors**
 March 12, 2007
-new
-by [dchung](/member/dchung)
 
 type: Italian
 
@@ -28,5 +26,3 @@ url: [www.cotrattoria.com](http://www.cotrattoria.com/)
 address: 31 Washington Boulevard - Marina Del Rey, CA 90292
 
 PriceOfMenu: $10-$20/person
-
-[back to Eating Out](..)

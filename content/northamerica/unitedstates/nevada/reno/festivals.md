@@ -7,8 +7,6 @@ Here are a few festivals celebrated in Reno.
 
 **Contributors**
 March 23, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Holi Festival Reno 2006
 

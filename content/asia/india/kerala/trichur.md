@@ -1,0 +1,4 @@
+---
+title: "Trichur"
+type: location
+---

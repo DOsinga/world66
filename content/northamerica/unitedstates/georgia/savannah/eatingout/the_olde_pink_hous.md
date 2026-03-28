@@ -34,5 +34,3 @@ url: [www.plantersinnsavannah.com](http://www.plantersinnsavannah.com)
 address: 29 Abercorn St., Savannah, Georgia 31401
 
 email: marc@savannahplantersinn.com
-
-[back to Eating Out](..)

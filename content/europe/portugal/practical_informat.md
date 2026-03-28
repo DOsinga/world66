@@ -16,8 +16,3 @@ Some tips on eating out for first time visitors:
 5. Soup is usually very cheap and their speciality, cabbege stew, can be delicious, far better than it sounds!
 
 6. If you follow this advice you can eat really well without bankruptcy!
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 20 November 04
-
--->

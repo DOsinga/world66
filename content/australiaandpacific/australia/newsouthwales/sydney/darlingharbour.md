@@ -20,6 +20,3 @@ And for those who don’t live in the neighbourhood, getting to Darling Harbour 
 No matter how old or young you are, where you live, or what you like to do, Darling Harbour has something for everyone. 
 
 Sydney’s favourite playground is waiting for you! Come and play it your way at Darling Harbour today.
-
-*Change history*
-Minor corrections by [RichardOsinga](/member/richardosinga) on 14 May 04

@@ -5,10 +5,7 @@ type: poi
 
 Provider of the most exciting sea ecotours in the capital of Peru, Ecocruceros offers regular tours to Islas Palomino (Palomino Islands), and also pelagic and custom trips to the peruvian sea on schedule, on board a comfortable cruise yacht.
 
-*Change history*
-Orginal article by [ausum](/member/ausum) on 10 April 04
-
-Minor corrections by [ausum](/member/ausum) on 10 April 04
+Minor corrections on 10 April 04
 
 email: islaspalomino@ecocruceros.com
 
@@ -19,5 +16,3 @@ tel: (511)99108396 / (511)99494867 / (511) 242-6655
 url: [www.islaspalomino.com](http://www.islaspalomino.com)
 
 zipcode: Lima
-
--->

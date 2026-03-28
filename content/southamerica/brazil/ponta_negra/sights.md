@@ -8,8 +8,6 @@ We choosed Viking tours (Swedish/English/Portugues speaking) agency when we went
 
 **Contributors**
 June 06, 2006
-new
-by [morsan](/member/morsan) (2 points)
 
 ### [The largest cashew nut tree in the world](/southamerica/brazil/ponta_negra/sights/the_largest_cashew)
 

@@ -12,21 +12,13 @@ Again, if you must drive in this popular biking and walking city, the best place
 
 **Contributors**
 May 13, 2008
-change
-by [mcburton](/member/mcburton) (1 point)
 
 August 02, 2005
-change
-by [giorgio](/member/giorgio)
 
 August 02, 2005
-change
-by [e-diote](/member/e-diote)
 
 
 
 
 
 url: [www.naaramsterdam.nl](http://www.naaramsterdam.nl)
-
-[back to Getting Around](..)

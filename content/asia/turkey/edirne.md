@@ -1,0 +1,4 @@
+---
+title: "Edirne"
+type: location
+---

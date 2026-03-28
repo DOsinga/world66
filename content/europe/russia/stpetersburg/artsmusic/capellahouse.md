@@ -14,7 +14,3 @@ type: location
  **Tel:** +7 812 314 1058
 
  **Address:** No. 20 Moika River Embarkment
-
-  
-
--->

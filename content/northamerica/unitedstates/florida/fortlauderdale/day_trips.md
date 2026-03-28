@@ -9,5 +9,3 @@ While staying in Fort Lauderdale, the Florida Everglades is a perfect day trip a
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)

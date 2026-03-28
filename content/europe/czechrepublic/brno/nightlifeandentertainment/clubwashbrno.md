@@ -8,8 +8,6 @@ email: "info@clubwash.cz"
 phone: "00420545212861"
 type: "Clubs and dancing"
 url: "www.clubwash.cz"
-latitude: 49.199477
-longitude: 16.617936
 ---
 
 The one and only laundry store located in Brno Downtown (Czech republic) with free internet access.
@@ -29,5 +27,3 @@ accessibility: Tram 2, 4, 9 to stop Körnerova
 address: Stará 27
 
 email: info@clubwash.cz
-
-[back to Nightlife and Entertainment](..)

@@ -10,8 +10,6 @@ Since it's so close to the city, and home to a diverse and affluent population, 
 
 **Contributors**
 March 12, 2007
-change
-by [dchung](/member/dchung) (2 points)
 
 ### [Dunn-Gaherin's](/northamerica/unitedstates/massachusetts/newton/eating_out/dunngaherins)
 

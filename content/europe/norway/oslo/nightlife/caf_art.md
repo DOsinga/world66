@@ -51,5 +51,3 @@ accessibility: Tram and buss
 address: St Olavs gt 7
 
 email: info@cafearte.no
-
-[back to Nightlife and Entertainment](..)

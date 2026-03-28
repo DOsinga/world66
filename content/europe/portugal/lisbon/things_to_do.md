@@ -23,5 +23,3 @@ If you want to view Lisbon from a different perspective, you must try a mini-cru
 
 **Contributors**
 March 15, 2010
-new
-by [ashmita](/member/ashmita_)

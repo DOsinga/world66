@@ -24,5 +24,3 @@ trips to the blue caves from the beach. The resort of ALYKES is named after the 
 
 
 Studios Drosia (from 18euros per room)
-
--->

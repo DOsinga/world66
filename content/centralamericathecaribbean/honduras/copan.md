@@ -1,8 +1,6 @@
 ---
 title: "Copan"
 type: location
-latitude: 14.895869
-longitude: -88.925581
 ---
 
 Copan is one of the largest and most impressive of all the Mayan centers discovered so far. It consists of pyramids, temples but the speciality of the house is the 21 stone pillars or stelae with exquisite carved likenesses of ancient Copan kings. [Tikal](/centralamericathecaribbean/guatemala/tikal) in Guatemala may be bigger, and [Chichen Itza](/centralamericathecaribbean/mexico/yucatan/chichenitza) may have bigger pyramids} but Copan has better sculptures. 

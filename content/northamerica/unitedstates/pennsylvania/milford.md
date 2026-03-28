@@ -1,0 +1,4 @@
+---
+title: "Milford"
+type: location
+---

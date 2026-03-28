@@ -1,0 +1,4 @@
+---
+title: "Saitama"
+type: location
+---

@@ -44,5 +44,3 @@ address: Deansgate, City Centre
 [general](/europe/unitedkingdom/england/manchester_liverp/manchester/sights?subsection=general)
 
 [Parks](/europe/unitedkingdom/england/manchester_liverp/manchester/sights?subsection=Parks)
-
--->

@@ -1,13 +1,6 @@
 ---
 title: "Jablanac"
 type: location
-latitude: 44.706251
-longitude: 14.897781
 ---
 
 Jablanac is mostly known about the fjord Zavratnica, and the National Park around it. From here goes the ferry to the Otok Rab (Rab Island) as well, and in the summer months you can buy great ice-cream in the dock!
-
-*Change history*
-Orginal article by [poggi](/member/poggi) on 10 November 04
-
--->

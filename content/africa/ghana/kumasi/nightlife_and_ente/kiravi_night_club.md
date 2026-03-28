@@ -29,5 +29,3 @@ accessibility: cab
 address: p.o.box 486 korlebu
 
 email: kosovo3@hotmail.com
-
-[back to Nightlife and Entertainment](..)

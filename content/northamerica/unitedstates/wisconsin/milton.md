@@ -1,0 +1,4 @@
+---
+title: "Milton"
+type: location
+---

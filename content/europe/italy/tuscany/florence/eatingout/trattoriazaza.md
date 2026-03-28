@@ -16,5 +16,3 @@ PriceOfMenu: cheap to mid-range
 priceofmenu: cheap to mid-range
 
 url: [www.trattoriazaza.it](http://www.trattoriazaza.it)
-
--->

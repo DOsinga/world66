@@ -17,5 +17,3 @@ type: general
 address: Gold Greek Village, 11 Gold Creek Road
 
 tel: 1800 627 273
-
-[back to Sights](..)

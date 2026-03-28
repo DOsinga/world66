@@ -10,13 +10,9 @@ Emperor Yohannes choose Mekelle as the seat of his government and built his grac
 
 **Contributors**
 January 16, 2006
-new
-by [giorgio](/member/giorgio)
 
 
 
 
 
 address: Near Atse Yohannes Hotel in front of the Zesilasea Square
-
-[back to Museums](..)

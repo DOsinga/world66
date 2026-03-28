@@ -12,5 +12,3 @@ address: Budapest, Hungary
 url: [www.absolutetours.com](http://www.absolutetours.com)
 
 tel: +36-30-211-8861
-
--->

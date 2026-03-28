@@ -1,9 +1,9 @@
 ---
-title: "Yakima Valley Travel Guide"
+title: "Yakima Valley"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Washington Wine Country
 Escape, Relax and Enrich in the Yakima Valley
@@ -19,9 +19,3 @@ The Yakima Valley
 Yakima Valley - Cultural Heritage
 
 Immerse yourself in a variety of cultures of talented people from around the world in Yakima Valley Wine Country. Visit the Yakama Nation Cultural Heritage Center in Toppenish with one of the oldest Native American museums in the country. See the unique mannequin exhibit at the Yakama Nation Museum. While in Toppenish, tour the "City of Murals" with over 70 murals depicting the history and style of the area. And don't forget to savor the flavor from the many Mexican taquerias and restaurants in the Yakima Valley.
-
-*Part or or all of this text stems from the original article at: www.visityakimavalley.org*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 21:44

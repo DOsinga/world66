@@ -9,8 +9,6 @@ Promoted as "Banff's Great Indoors", this is the largest retail complex in the C
 
 **Contributors**
 March 23, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Shopping centers and malls
 
@@ -19,5 +17,3 @@ type: Shopping centers and malls
 
 
 address: Corner of Banff Ave and Wolf St, Downtown Banff Alberta T0L 0C0
-
-[back to Shopping](..)

@@ -8,8 +8,6 @@ Sights in Knock around Ireland's National Marian Shrine.
 
 **Contributors**
 June 05, 2006
-new
-by [qlmatrix](/member/qlmatrix)
 
 ### [Basilica](/europe/ireland/knock/sights/basilica)
 

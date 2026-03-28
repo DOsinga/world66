@@ -10,8 +10,6 @@ So, join a network or start your own, look for a career, find a home and become 
 
 **Contributors**
 November 12, 2007
-change
-by [ingvar](/member/ingvar)
 
 **Currency**
 

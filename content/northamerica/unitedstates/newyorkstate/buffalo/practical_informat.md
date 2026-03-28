@@ -33,5 +33,3 @@ Cooperation will be necessary, so allow extra time if you are concerned about mi
 
 **Contributors**
 November 17, 2006
-change
-by [allamericanbear](/member/allamericanbear) (2 points)

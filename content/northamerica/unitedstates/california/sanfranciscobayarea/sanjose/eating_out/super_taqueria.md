@@ -11,8 +11,6 @@ For great fresh cheap burritos, Super Taqueria can't be beat! Their carne asada 
 
 **Contributors**
 January 17, 2007
-new
-by [viajeramundial](/member/viajeramundial)
 
 type: Mexican
 
@@ -23,5 +21,3 @@ tel: 4082727871
 address: 1095 S White Rd
 
 PriceOfMenu: $
-
-[back to Eating Out](..)

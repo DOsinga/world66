@@ -4,8 +4,6 @@ type: poi
 address: "Nagymezõ utca 25"
 admission: "350 HUF"
 opening_hours: "10pm-6am daily"
-latitude: 47.504761
-longitude: 19.058659
 ---
 
 Anyone with vaguely Bohemian leanings seems to wind up at Piaf, a stylish and sophisticated night-club, named of course, after the famous French Diva. Red velvet furnishings abound, while the music (which is often provided by a resident pianist) has a distinctly jazzy feel.

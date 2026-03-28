@@ -29,5 +29,3 @@ Great place to meet other fellow travellers.
 
 **Contributors**
 May 06, 2010
-new
-by [samm](/member/samm)

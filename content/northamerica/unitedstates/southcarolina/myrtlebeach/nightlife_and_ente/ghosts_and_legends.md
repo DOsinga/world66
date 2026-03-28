@@ -29,5 +29,3 @@ accessibility: handicapp
 address: 4818 Hwy 17 S, Barefoot Landing, North Myrtle Beach
 
 email: marketing@ghostshows.com
-
-[back to Nightlife and Entertainment](..)

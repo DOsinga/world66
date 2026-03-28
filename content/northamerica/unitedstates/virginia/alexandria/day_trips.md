@@ -7,5 +7,3 @@ Alexandria attractions include the scenic George Washington Mount Vernon Estate 
 
 **Contributors**
 May 28, 2009
-new
-by [harding](/member/harding)

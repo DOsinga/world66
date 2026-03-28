@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Pick
 up place: **
@@ -53,7 +51,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary:**
 
@@ -78,45 +76,7 @@ quality restaurant in **Luxor**. Continue **Luxor tour** to **Karnak
 temple**, dedicated to the God Amon-Ra, his wife Mut and their
 son Khonsu. In **Karnak temple** each
 pharaoh tried to perpetuate his name. One of the famous area in **Karnak** - Hypostyle hall with 134 massive columns
-with over three meters in diameter. Free time in **Luxor**, and then you return back to **Marsa Alam**.
-
-**Tour Includes:**
-
-- Pick up and drop off service from your hotel in **Marsa Alam**
-
-- All transportation by air-conditioned vehicle in **Marsa Alam** and **Luxor**
-
-- Entrance fees to the sightseeing during **Luxor tour** as per the **tour**
-Itinerary
-
-- Lunch meal at a local restaurant in **Luxor**
-
-- Egyptologist English speaking **tour** guide
-
-**Tour Excludes:**
-
-- Optional **tours**
-
-- Personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Private
+with over three meters in diameter. Free time in **Luxor**, and then you return **Private
 groups:****
 
 **We offer a private **tours** for Families and groups from 10 persons and
@@ -155,5 +115,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Budget Travel Ideas](..)

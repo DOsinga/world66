@@ -14,5 +14,3 @@ This formerly residential city of the princes of Hohenlohe is situated on the we
  Rathaus, 97990 Weikersheim
 
  Tel. +49 7934 - 102 55 or 102 45
-
--->

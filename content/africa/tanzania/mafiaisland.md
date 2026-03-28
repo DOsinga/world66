@@ -1,8 +1,6 @@
 ---
 title: "Mafia island"
 type: location
-latitude: -7.842998
-longitude: 39.785257
 ---
 
 Mafia island is just perfect. Great diving, great beaches and great wheather. What more do you need? 

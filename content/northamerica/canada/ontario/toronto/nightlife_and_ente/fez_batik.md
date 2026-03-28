@@ -5,8 +5,6 @@ address: "129 Peter"
 closing_time: "3 am"
 phone: "416 204-9660"
 type: "Clubs and dancing"
-latitude: 49.052897
-longitude: 19.737857
 ---
 
 First or the hundreth time in Toronto? This place will always make you
@@ -30,8 +28,6 @@ closing time.
 
 **Contributors**
 September 09, 2005
-new
-by [meshuganut](/member/meshuganut)
 
 type: Clubs and dancing
 
@@ -44,5 +40,3 @@ ClosingTime: 3 am
 tel: 416 204-9660
 
 address: 129 Peter
-
-[back to Nightlife and Entertainment](..)

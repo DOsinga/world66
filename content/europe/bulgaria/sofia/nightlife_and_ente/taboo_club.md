@@ -32,7 +32,5 @@ absorbs you slow and sure, time doesn’t matter anymore…
 
 **Contributors**
 June 22, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Erotic clubs and bars

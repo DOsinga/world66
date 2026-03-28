@@ -8,7 +8,5 @@ Skiing in Czech is nice for beginners (it is a middle-high mountain area) and ve
 
 **Contributors**
 January 09, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Skiing

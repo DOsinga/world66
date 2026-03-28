@@ -17,5 +17,3 @@ type: African
 PriceOfMenu: 40 Ksh
 
 email: fletchsj2000@yahoo.co.uk
-
-[back to Eating Out](..)

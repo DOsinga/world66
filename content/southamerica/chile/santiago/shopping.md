@@ -14,8 +14,6 @@ mask.
 
 **Contributors**
 April 05, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### [Santa Lucia](/southamerica/chile/santiago/shopping/santa_lucia)
 

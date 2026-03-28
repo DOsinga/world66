@@ -28,5 +28,3 @@ hotel.com
 
 **Contributors**
 November 27, 2007
-change
-by [haven la chance hotel](/member/haven_la_chance_hotel) (2 points)

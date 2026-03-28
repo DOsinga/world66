@@ -1,9 +1,9 @@
 ---
-title: "Mount Etna park Travel Guide"
+title: "Mount Etna park"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Etna Natural park is a region in the east side of [Sicily](/europe/italy/sicily) composed by 20 commons all in the province of [Catania](/europe/italy/sicily/catania)
 
@@ -55,13 +55,3 @@ Generally **tourists visit the Park for excursions**. There 2 different types of
 [Acireale](/europe/italy/sicily/acireale)
 [Acitrezza](/europe/italy/sicily/acitrezza)
 [Taormina](/europe/italy/sicily/taormina)
-
-*Part or or all of this text stems from the original article at: http://www.volcanoetna.com/en/travel-guide/faq-etna-excursion.html*
-
-#### Contributors
-
-September 03, 2007 new by [volcanoetna](/member/volcanoetna) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 00:18

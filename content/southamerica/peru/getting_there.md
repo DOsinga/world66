@@ -32,9 +32,3 @@ There are two daily trains from Tacna to Arica (Chile).
 Road
 
 The main international highway is the recently rebuilt Pan-American Highway running northsouth through the coastal desert of Peru from Tumbes to Tacna. *Orme&ntilde;o* operate buses from Ecuador Chile and other countries. It is also possible to go from La Paz in Bolivia to Puno on Lake Titicaca (south Peru).
-
-
-
-## Subsections
-
-[By Air](/southamerica/peru/gettingthere/byair)

@@ -64,5 +64,3 @@ History Of Computer Virus
 http://hmqtzo.in/ek
 Spring Break Parties In Daytona Beach
 http://phlcpt.in/aq
-
-*Part or or all of this text stems from the original article at: Issac Griffin*

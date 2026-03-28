@@ -14,12 +14,8 @@ The Bronx zoo, with full name Internationally Wildlife Conservation park, is a z
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Parks, Gardens and Zoos
 
@@ -38,5 +34,3 @@ address: 2300 Southern Boulevard
 email: bzguestservices@wcs.org
 
 accessibility: Totally Wheelchair Accessible
-
-[back to Sights](..)

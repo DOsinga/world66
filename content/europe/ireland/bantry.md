@@ -1,0 +1,4 @@
+---
+title: "Bantry"
+type: location
+---

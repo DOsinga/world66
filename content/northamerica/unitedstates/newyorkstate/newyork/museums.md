@@ -133,16 +133,18 @@ tel: 212-769-5304
 
 **The Metropolitan Museum of Art **
 
-One of the world's largest museums offers exhibits of European painting and sculpture, American art, and Ancient Egyptian art.
+One of the world's largest museums offers exhibits of European painting and sculpture, American art, and Ancient Egyptian art. 
 
 address: 1000 Fifth Avenue at 82nd Street
 
 tel: 212-535-7710
 
-[**Intrepid Sea-Air-Space Museum**](http://www.intrepidmuseum.org/)
+**Intrepid Sea-Air-Space Museum**
 
 Neighborhood: Midtown,Manhattan, Hours: April - September: Monday to Saturday, 10:00am - 5:00pm; Sunday, 10:00am to 6:00pm 
 
 Impressing aircraft carrier, the USS Intrepid, with even more impressing airplanes on it (25 planes and even a real SR-71A!) and a lot of other intresting things. V [more..](/northamerica/unitedstates/newyorkstate/newyork/museums/intrepidseaairspacemuseum)
+
+Url: [http://www.intrepidmuseum.org/](http://www.intrepidmuseum.org/)
 
 Address: Pier 86, West 46th Street and 12th Avenue

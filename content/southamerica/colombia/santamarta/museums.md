@@ -21,5 +21,3 @@ The Acuario and Museo del Mar (Aquarium and Museum of the Sea) is located two ki
 
 **Contributors**
 March 23, 2010
-new
-by [bret444](/member/bret444)

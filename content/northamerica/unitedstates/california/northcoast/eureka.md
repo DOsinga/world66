@@ -1,0 +1,4 @@
+---
+title: "Eureka"
+type: location
+---

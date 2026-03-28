@@ -9,5 +9,3 @@ A free museum (though a contribution is encouraged). Modern and engaging exhibit
 
 Contributors**
 April 13, 2004
-change
-by [jimshady](/member/jimshady) (2 points)

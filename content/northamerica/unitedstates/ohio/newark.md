@@ -17,5 +17,3 @@ for everyone. Newark is the largest city and the county seat for Licking County.
 
 **Contributors**
 June 02, 2005
-new
-by [switz1873](/member/switz1873) (1 point)

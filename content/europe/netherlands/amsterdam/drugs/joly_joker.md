@@ -1,6 +1,6 @@
 ---
 title: "Jolly Joker"
-type: location
+type: poi
 ---
 
 What can I say, another of my favourite haunts. peaceful atmosphere, excellent viewpoint for people watching while stoned.
@@ -19,5 +19,3 @@ and was on his way...a joy to behold :-)
 
 **Contributors**
 February 14, 2005
-change
-by [giorgio](/member/giorgio)

@@ -11,5 +11,3 @@ To the north the beach at [Fraserburgh](/europe/unitedkingdom/scotland/fraserbur
 
 **Contributors**
 January 31, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)

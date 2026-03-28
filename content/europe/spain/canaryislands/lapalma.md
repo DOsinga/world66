@@ -10,6 +10,3 @@ The full name of the island is San Miguel de La Palma, and of all the Canary Isl
 The island has a capacity for approximately 7,000 visitors, distributed among the lodgings at beach resorts, in the cities, and in rural areas. There are two small resorts on the coast, one on the eastern shore, and the other on the western shore. Los Cancajos to the east, is only a few miles from the airport and the capital of the island. Puerto Naos, in the agricultural township of Llanos de Aridane to the west, enjoys a sunnier climate due to its orientation. Both places grew up around two tranquil beaches of volcanic sand. There are also hotels situated in the capital, Santa Cruz de La Palma, and in the second largest city on the island, Los Llanos, close to the Caldera de Taburiente.
 
 An increasing number of mountain hotels and houses for rural tourism are also available. This is an important tourist sector in La Palma due to the suitability of its countryside for all types of activities related to nature.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 24 March 04

@@ -11,8 +11,6 @@ This is an exclusive low-volume boutique in Cleveland's downtown Warehouse Distr
 
 **Contributors**
 April 08, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Speciality shops
 
@@ -25,5 +23,3 @@ tel: 216.831.1900
 url: [www.clothing brigade.com](http://www.clothing brigade.com)
 
 address: 1300 W. 9th St.
-
-[back to Shopping](..)

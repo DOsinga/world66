@@ -17,8 +17,6 @@ The opera house is not open daily, so check their calendar to see if certain eve
 
 **Contributors**
 January 30, 2006
-change
-by [allamericanbear](/member/allamericanbear)
 
 type: Concerts
 
@@ -31,5 +29,3 @@ tel: 416-466-0313 x 2
 url: [www.theoperahousetoronto.com](http://www.theoperahousetoronto.com/)
 
 address: 735 Queen St East (nr Broadview)
-
-[back to Nightlife and Entertainment](..)

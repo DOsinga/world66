@@ -15,5 +15,3 @@ round the introduction experience up.
 
 **Contributors**
 April 15, 2008
-new
-by [koru](/member/koru) (1 point)

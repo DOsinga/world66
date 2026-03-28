@@ -11,8 +11,6 @@ Italian restaurant "VENICE" presents varieties of Italian cuisine, extensive win
 
 **Contributors**
 March 06, 2010
-change
-by [teona](/member/teona)
 
 type: Italian
 
@@ -25,5 +23,3 @@ tel: +99522273561
 url: [www.intouristpalace.com](http://www.intouristpalace.com)
 
 address: 11, Ninoshvili str
-
-[back to Eating Out](..)

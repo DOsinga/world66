@@ -9,9 +9,3 @@ The old jewish quarter is one of the oldest streets in Germany. You will find it
 The Jews were expelled from Trier in 1418. Many Jews went east; Yiddish has preserved traces of Trier Middle High German up to today. When the Jews were called back after 1600, they settled in different parts of the city. After the Holocaust of the Nazi era, the Jewish community in Trier is quite small (the New Synagogue is located in Kaiserstrasse).
 
 type: Synagogues
-
-
-
-
-
-[back to Sights](..)

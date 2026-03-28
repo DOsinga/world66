@@ -66,5 +66,3 @@ children.
 
 **Contributors**
 August 25, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

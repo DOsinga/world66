@@ -23,5 +23,3 @@ connections: U Uhlandstraße, bus 119, 129
 openings: Mo 10am -6pm, Tu-Sa 10am -7pm, Su+public holidays 3pm -6pm
 
 tel: +49 (0)30 - 47997440
-
-[back to Nightlife and Entertainment](..)

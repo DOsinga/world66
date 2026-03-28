@@ -20,5 +20,3 @@ tel: 404-876-1800
 address: 224 Ponce De Leon Avenue NE
 
 PriceOfMenu: $7-$11
-
-[back to Eating Out](..)

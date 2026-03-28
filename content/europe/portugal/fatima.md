@@ -1,8 +1,6 @@
 ---
 title: "Fatima"
 type: location
-latitude: 39.62555
-longitude: -8.665908
 ---
 
 We currently have no information about Fatima.

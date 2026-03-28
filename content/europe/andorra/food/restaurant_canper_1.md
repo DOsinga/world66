@@ -1,6 +1,6 @@
 ---
 title: "restaurant can-pere"
-type: location
+type: poi
 address: "restaurant can-pere,10 st.cristobal,anyos,la massana,andorra"
 email: "daveanyos@gmail.com"
 phone: "00 376 835415"
@@ -21,5 +21,3 @@ address: restaurant can-pere,10 st.cristobal,anyos,la massana,andorra
 PriceOfMenu: 30 euros p.p
 
 email: daveanyos@gmail.com
-
-[back to Eating Out](..)

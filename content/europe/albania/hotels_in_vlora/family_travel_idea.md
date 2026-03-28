@@ -7,5 +7,3 @@ To travel to Vlora now is very easy use [www.albania-travel.al](/europe/albania/
 
 **Contributors**
 October 14, 2010
-new
-by [edialtour](/member/edialtour)

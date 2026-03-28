@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 url: [www.tipsguidelisboa.com](http://www.tipsguidelisboa.com)
-
-[back to Nightlife and Entertainment](..)

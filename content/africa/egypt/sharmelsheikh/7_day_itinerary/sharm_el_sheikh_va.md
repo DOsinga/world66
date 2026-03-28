@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Arrival:** **Sharm El Sheikh** International Airport
 
@@ -52,7 +50,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Travel Package Itinerary:**
 
@@ -117,94 +115,7 @@ vessel in **Luxor**.
 **Disembarkation after breakfast, and then you will be accompanied to visit
 the West Bank of the River **Nile** in **Luxor** to
 the Valley of the Kings, the temple of Queen Hatshepsut at El Deir EL Bahari
-and the Colossi of Memnon and then back to **Nile cruise** for
-lunch break and then you will be transferred to **Luxor** airport
-for departure to **Sharm El Sheikh**, where you will be met and
-assisted and transferred to your hotel for check in with free time and
-overnight stay.
-
-**Day # 8: Sharm / Home****
-
-**Breakfast at your hotel in **Sharm El Sheikh** and then you
-will be transferred back to **Sharm El Sheikh** airport to fly
-back home.
-
-**Travel Package Includes:**
-
--Meet and assist upon arrival and departure in **Sharm El Sheikh** by our
-representative
-
--Assistance of our personal during your stay, tours and excursions
-
--Egyptian entry visa upon arrival at **Sharm El Sheikh** airport
-
--All airport transfers by private deluxe A/C vehicle
-
--Accommodation for 2 night in **Sharm El Sheikh** hotel with daily breakfast
-
--Accommodation for 1 night in **Cairo** hotel with daily breakfast
-
--Accommodation of 1 night aboard first class sleeper train on half board
-
--Accommodation for 3 nights on board **Nile cruise** on full board basis
-
--Domestic flight tickets from **Sharm** to **Cairo** and **Luxor** to **Sharm**
-
--Full day **tour** to Pyramids, Sphinx, Valley temple, Sakkara and Memphis
-
--Full day **tour** to Egyptian Museum, Citadel Mosques and Coptic Churches
-
--Camel ride around the Pyramids in **Cairo**
-
--Full day tour to Karnak temple and **Luxor** temple, East Bank **Luxor**
-
--Full day tour to Valley of the Kings, Hatshepsut temple & Colossi of
-Memnon
-
--Half day tour to Edfu temple in **Nile cruise holidays**
-
--Half day tour to Kom Ombo temple in **Nile cruise holidays**
-
--Full day tour to the High Dam and Temple of Philae in **Aswan**
-
--Half day tour to Elephantine Island and botanical gardens by felucca sail on
-the **Nile**
-
--Lunch meals during **tours** in **Cairo** and Giza
-
--Professional Egyptologist speaking **tour** guide
-
--Admission fees to the sights throughout the **tours**
-
--All hotels and **Nile cruise** applicable taxes included in the price
-
--Free mineral water and soft drink during the tours and onboard the vehicle in
-Cairo
-
-**Travel Package Excludes:**
-
--Airfare to / from Egypt
-
--Personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Booking:
+and the Colossi of Memnon and then **Booking:
 ****
 
 **Booking of your **trip**
@@ -244,5 +155,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to 7 Day Itinerary](..)

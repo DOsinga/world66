@@ -1,8 +1,6 @@
 ---
 title: "Marktl am Inn"
 type: location
-latitude: 48.248032
-longitude: 12.833433
 ---
 
 Located near the border to Austria and near Burghausen (with
@@ -19,5 +17,3 @@ Hotels, bed & breakfast, and holiday's by the Farmers.
 
 **Contributors**
 June 21, 2005
-change
-by [giorgio](/member/giorgio) (1 point)

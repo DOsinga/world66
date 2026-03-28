@@ -1,9 +1,9 @@
 ---
-title: "Viseu Travel Guide"
+title: "Viseu"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located in "Beira Alta" (Central Region of Portugal-507,2 Km2), a very large plateau of ever changing beautiful landscapes, Viseu is half way between the Ocean and the Spanish border. Surrounded by high mountains - Leomil, Montemuro, Lapa, Arada, Estrela and Caramulo - the tops of which are covered with thick layers of snow in Winter time, the district is crossed by a rich network of rivers and streamlets - "Mondego", "Vouga", "Paiva", "Mel", "Pavia"...
 The climate of the region is characterized by a mean maximum temperature of 28.4ºc, a mean minimum temperature of 2.1ºc, mean rainfall levels of 1230 mm3, and an annual mean temperature of 13ºc. Although there are several micro-climates throughout the region, winters are usually cold and wet and summers hot and dry. But you can enjoy sunny and fairly warm days in February and March.
@@ -28,13 +28,3 @@ Viseu has six cinemas, one of them being also used as an auditorium for theatre.
 Spread all over the city and its surroundings, you can find several bars and some discos where live music shows, fashion parades, contests , parties, etc. are often organized. One of the biggest discos of the country is located in the city - "The Day After" - which includes Karting and mini-golf areas.
 In "Fontelo" you can find a State Youth Centre - "Instituto da Juventude" - which organizes cultural / entertainment activities such as art exhibitions, theatre, musical shows, etc.
 Finally, in August/September, the city has a fair - "Feira de S. Mateus" - famous all over the country, which has been organized since the Middle Ages (1392). This is a large area where the most diverse products are exhibited and sold (from handicraft to furniture, from cars to wine), where cultural, artistic, sporting and social events have a special place (conferences, music concerts, sports competitions, art exhibitions, photography contests, etc.) and where entertainment is all around.
-
-#### Contributors
-
-May 26, 2007 new by [antoniofaria](/member/antoniofaria) (2 points)
-
-July 05, 2007 change by [lpx](/member/lpx)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 04:37

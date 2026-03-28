@@ -12,8 +12,6 @@ Tri City Shopping Center in Redlands, California, hosts more than 60 shops, rest
 
 **Contributors**
 December 05, 2005
-change
-by [handyman321](/member/handyman321)
 
 type: Shopping centers and malls
 
@@ -26,5 +24,3 @@ url: [www.tricitycenter.com](http://www.tricitycenter.com)
 address: Tri-City Shopping Center in Redlands, California
 
 email: admin@ao-properties.com
-
-[back to Shopping](..)

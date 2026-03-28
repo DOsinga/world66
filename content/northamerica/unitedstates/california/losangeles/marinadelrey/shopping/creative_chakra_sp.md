@@ -11,8 +11,6 @@ Looking to relax and rejuvinate? Look no further than several of Marina del Rey 
 
 **Contributors**
 February 26, 2008
-new
-by [marinagal](/member/marinagal)
 
 type: Speciality shops
 
@@ -25,5 +23,3 @@ tel: 310-823-9378
 url: [www.creativechakra.com](http://www.creativechakra.com)
 
 address: 3401 Pacific Ave. Marina del Rey
-
-[back to Shopping](..)

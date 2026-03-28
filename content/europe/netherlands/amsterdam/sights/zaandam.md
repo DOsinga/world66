@@ -26,17 +26,7 @@ To visit the Zaanse Schans, take a train from Amsterdam Central Station in the d
 
 **Contributors**
 April 18, 2007
-change
-by [mokum](/member/mokum) (2 points)
 
 February 05, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

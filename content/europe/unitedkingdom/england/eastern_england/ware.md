@@ -1,0 +1,4 @@
+---
+title: "Ware"
+type: location
+---

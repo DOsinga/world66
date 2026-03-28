@@ -17,8 +17,6 @@ Visit the best botanical gardens in all of Italy in Forio -above the St Francis 
 
 **Contributors**
 June 22, 2006
-new
-by [karenbru](/member/karenbru) (4 points)
 
 ### [Botanical Gardens "La Mortella"
 

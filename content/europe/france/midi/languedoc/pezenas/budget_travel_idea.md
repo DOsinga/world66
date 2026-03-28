@@ -29,5 +29,3 @@ This estate began vine growing and wine making in the middle of the 19th century
 
 **Contributors**
 February 16, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)

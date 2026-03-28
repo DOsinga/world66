@@ -12,12 +12,8 @@ food is excellent?!
 
 **Contributors**
 July 17, 2005
-new
-by [hobobrother](/member/hobobrother) (1 point)
 
 July 18, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 type: American
 
@@ -26,5 +22,3 @@ type: American
 
 
 address: Broadway near Lloyd Center
-
-[back to Eating Out](..)

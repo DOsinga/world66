@@ -12,10 +12,7 @@ In the south of the county is
 
 There are many attractions in the county and those shown here are only a sample.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 16 September 04
-
-Minor corrections by [davidx](/member/davidx) on 16 September 04
+Minor corrections on 16 September 04
 
 ## Destinations in Northumberland
 

@@ -10,12 +10,8 @@ Gardens with big Green Iguanas (Iguana iguana). Is a great place to see the Igua
 
 **Contributors**
 January 05, 2005
-change
-by [hpharmsen](/member/hpharmsen)
 
 January 06, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Parks, Gardens and Zoos
 
@@ -28,5 +24,3 @@ address: Chimborazo Street
 openings: 7 to 6 pm
 
 openingHours: 7 to 18
-
-[back to Sights](..)

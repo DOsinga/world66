@@ -11,8 +11,6 @@ If you have the stomach for a ride that will shoot you 160 feet straight up into
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -23,5 +21,3 @@ tel: 702-380-7777
 url: [www.stratospherehotel.com](http://www.stratospherehotel.com)
 
 address: 2000 Las Vegas Boulevard South
-
-[back to Things to do](..)

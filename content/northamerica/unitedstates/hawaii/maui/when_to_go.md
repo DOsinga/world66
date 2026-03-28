@@ -58,5 +58,3 @@ performances, food and plenty of costumed characters.
 
 **Contributors**
 July 21, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

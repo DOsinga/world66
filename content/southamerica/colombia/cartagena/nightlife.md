@@ -16,5 +16,3 @@ Best Salsa spotnear the Parque del Centenario.
 **Mister Babilla**
 
 In Getsemani on Avenida del Arsenal. One of the most popular disco's in this area.
-
--->

@@ -33,5 +33,3 @@ Want more? How about horseback riding? That’s one more tourist attraction. All
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)

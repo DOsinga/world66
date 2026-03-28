@@ -12,7 +12,3 @@ address: Av. Ruminahui 221, Quito - Ecuador
 tel: 1-800-747-0567
 
 url: [www.latintrails.com](http://www.latintrails.com)
-
-[back to Tours and Excursions](..)
-
--->

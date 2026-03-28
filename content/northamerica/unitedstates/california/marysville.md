@@ -1,9 +1,9 @@
 ---
-title: "Marysville Travel Guide"
+title: "Marysville"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Normal
 0
@@ -20,7 +20,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Title:** Baymont Inn
 Marysville
@@ -36,9 +36,3 @@ Marysville, California (CA) 95901
 **+15307422735****
 
 **Email:** marysvilleinn@gmail.com
-
-*Part or or all of this text stems from the original article at: http://www.marysvilleinn.com/*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 21:14

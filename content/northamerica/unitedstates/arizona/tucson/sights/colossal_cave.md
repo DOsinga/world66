@@ -19,5 +19,3 @@ tel: (520)628-5774
 openingHours: Mon-Sat 10am-4pm
 
 address: 949 E Second St, Tucson, AZ 85719
-
-[back to Sights](..)

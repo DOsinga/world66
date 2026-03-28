@@ -46,5 +46,3 @@ Tyler Bend Group Sites
 minimum 10 people, maximum 25; tent camping only, $2 per person per night; water at site; Late October through April 1: flush toilets, showers and water not available; portable restroom available; no fees charged  
 
 price: $20 minimum Day
-
--->

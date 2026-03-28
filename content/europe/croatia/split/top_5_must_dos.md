@@ -43,13 +43,4 @@ cave system means there is not ample time for the water to be purified.
 The Split Archaeological Museum is one of the oldest museums in
 Croatia. The Museum was founded in 1820 and renovated in 1970 to
 celebrate its 150th anniversary. In addition to a large collection of
-objects dating back to prehistoric times, the Museum houses a library
-with more than 30,000 books, a collection of antique coins and monuments
-from Salona.
-
-**5. Catch a Soccer Game**
-
-Split is considered among the best cities for watching football
-(soccer) in all of Europe because of its boisterous fans. The home team,
-Hajduk Split, or the Split Whites as they are commonly called, are
-currently one of the two most popular teams in Croatia.
+objects dating

@@ -7,9 +7,3 @@ Located around 59 miles west of Barcelona, the 1157 Santa Creus is an elaborate 
 
 **Contributors**
 May 16, 2008
-change
-by [mcburton](/member/mcburton)
-
-
-
-[back to Day Trips](..)

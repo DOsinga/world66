@@ -8,11 +8,5 @@ Camden Town is a place in the London Borough of Camden. It is an inner-city dist
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-[back to Practical Information](..)

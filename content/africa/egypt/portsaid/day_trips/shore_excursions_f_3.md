@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "amany@egyptonlinetours.com"
 phone: "01221354820"
 url: "www.middleeastonlinetravel.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Normal
@@ -22,7 +20,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Port Said
 Tours:-**
@@ -40,7 +38,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Port Said Egypt, situated on a
 narrow peninsula on the Mediterranean Sea coast, is located on the west side
@@ -90,5 +88,3 @@ url: [www.middleeastonlinetravel.com](http://www.middleeastonlinetravel.com/Egyp
 address: 124, Haram street, Giza, Egypt
 
 email: amany@egyptonlinetours.com
-
-[back to Day Trips](..)

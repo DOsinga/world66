@@ -9,7 +9,5 @@ The Park of the Martyrs is located on the sight where the Spanish shot many patr
 
 **Contributors**
 January 08, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Parks, Gardens and Zoos

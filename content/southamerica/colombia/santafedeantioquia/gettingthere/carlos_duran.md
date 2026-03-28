@@ -18,5 +18,3 @@ type: By Road
 address: Medellin
 
 email: karlos.duran@hotmail.com
-
-[back to Getting There](..)

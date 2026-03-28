@@ -7,5 +7,3 @@ Nuuk airport is too small for intercontinental flights, but there are flights a 
 
 **Contributors**
 August 23, 2010
-new
-by [ingvar](/member/ingvar)

@@ -8,8 +8,6 @@ phone: "(902) 533-2128"
 price: "$6 -16"
 type: "Local"
 url: "www.rarebirdpub.com"
-latitude: 54.212029
-longitude: -3.276112
 ---
 
 Rare Bird Pub & Eatery
@@ -22,8 +20,6 @@ The Rare Bird has a good menu and a wood fired hearth for making pizza.
 
 **Contributors**
 July 24, 2007
-new
-by [chedabucto](/member/chedabucto) (1 point)
 
 type: Local
 
@@ -40,5 +36,3 @@ address: 80 Main Street
 PriceOfMenu: $6 -16
 
 email: info@rarebirdpub.com
-
-[back to Eating Out](..)

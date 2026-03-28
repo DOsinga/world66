@@ -12,11 +12,7 @@ http://eng.turismo.bergamo.it/edtfll/edtfll_ctg.asp?cc=10
 
 **Contributors**
 March 19, 2008
-change
-by [karenbru](/member/karenbru)
 
 
 
 author: Bergamo Tourist Agency
-
-[back to Books](..)

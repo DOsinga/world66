@@ -26,5 +26,3 @@ isbn: "1122-5X"
 author: Joe Almond
 
 isbn: 1122-5X
-
-[back to Books](..)

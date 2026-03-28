@@ -1,0 +1,4 @@
+---
+title: "Gingindlovu"
+type: location
+---

@@ -36,9 +36,5 @@ Cap Blanc Nez contains and obelisk which commemorates the Dover Patrol who kept 
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 24, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

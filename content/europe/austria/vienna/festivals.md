@@ -53,5 +53,3 @@ sure to book your tickets in advance, as seating is limited.
 
 **Contributors**
 November 15, 2009
-new
-by [kiwagner](/member/kiwagner)

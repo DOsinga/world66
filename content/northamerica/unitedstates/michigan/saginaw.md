@@ -1,12 +1,8 @@
 ---
-title: "Saginaw Travel Guide"
+title: "Saginaw"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 City in Michigan
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 21:16

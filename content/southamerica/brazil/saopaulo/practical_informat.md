@@ -54,5 +54,3 @@ plate. Don't expect the local police to make an exception because you are a fore
 
 **Contributors**
 December 28, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)

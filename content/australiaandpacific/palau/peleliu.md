@@ -1,0 +1,4 @@
+---
+title: "Peleliu"
+type: location
+---

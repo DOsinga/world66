@@ -6,8 +6,6 @@ closing_time: "02.00h"
 email: "anbbar@gmail.com"
 phone: "213472830"
 type: "Gay and Lesbian"
-latitude: 38.715988
-longitude: -9.150327
 ---
 
 Nice bar to start the night.
@@ -25,5 +23,3 @@ tel: 213472830
 address: Rua de São Marçal, 170
 
 email: anbbar@gmail.com
-
-[back to Nightlife and Entertainment](..)

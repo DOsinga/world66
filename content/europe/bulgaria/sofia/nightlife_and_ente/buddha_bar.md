@@ -7,8 +7,6 @@ phone: "(+35902) 989 50 06"
 type: "Clubs and dancing"
 url: "www.sofianights.com"
 zipcode: "1000"
-latitude: 51.787015
-longitude: 6.315302
 ---
 
 **Buddha** is wisdom. The sun is glory.
@@ -40,5 +38,3 @@ tel: (+35902) 989 50 06
 email: contact@sofianights.com
 
 address: 15A Lege Str.
-
-[back to Nightlife and Entertainment](..)

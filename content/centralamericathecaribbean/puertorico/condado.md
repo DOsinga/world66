@@ -1,0 +1,4 @@
+---
+title: "Condado"
+type: location
+---

@@ -11,6 +11,3 @@ There are some routes, which buses may have both a black and a red number. In th
 A wide variety of buses, trolley buses, trams and underground trains usually operate from 04:30 to 23:00, and at night 15 bus and 2 tram lines are in service.
 
 Ticket Controls are quite frequent and fines are high (2,000 HUF). Inspections are performed by BKV agents wearing red armbands.
-
-**Change history**
-Orginal article by [budapestindex](/member/budapestindex) on 04 June 05

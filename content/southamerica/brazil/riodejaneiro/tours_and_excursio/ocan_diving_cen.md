@@ -17,8 +17,6 @@ possible. It was a great experience and I would like to share it with everyone !
 
 **Contributors**
 November 28, 2007
-change
-by [logan.shetline](/member/logan.shetline) (1 point)
 
 
 
@@ -29,5 +27,3 @@ tel: 21 2524 4000
 url: [www.ocean.com.br](http://www.ocean.com.br/)
 
 email:
-
-[back to Tours and Excursions](..)

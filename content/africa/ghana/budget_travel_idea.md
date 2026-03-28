@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 November 06, 2009
-change
-by [christina tilicki](/member/christina_tilicki)
 
 We currently have no Budget Travel Ideas listed in Ghana.
 

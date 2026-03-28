@@ -17,5 +17,3 @@ tel: 0064 7 377 8015
 url: [www.trekadventuretours.co.nz](http://www.trekadventuretours.co.nz/)
 
 email: sales@trekadventuretours.co.nz
-
-[back to Getting Around](..)

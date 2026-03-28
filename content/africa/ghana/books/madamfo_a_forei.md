@@ -12,8 +12,6 @@ learn twi at yahoo . com
 
 **Contributors**
 May 04, 2008
-new
-by [obroni kwaku](/member/obroni_kwaku) (1 point)
 
 [](http://www.amazon.com/exec/obidos/ASIN/To be published 2008/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -22,5 +20,3 @@ by [obroni kwaku](/member/obroni_kwaku) (1 point)
 author: Ian Utley
 
 isbn: To be published 2008
-
-[back to Books](..)

@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Books**
 
 **Maroon Arts :Cultural Vitality in the African Diaspora**
 
@@ -84,5 +84,3 @@ author: Rosemarijn Hoefte
 isbn: 0813016258
 
 subject: history
-
--->

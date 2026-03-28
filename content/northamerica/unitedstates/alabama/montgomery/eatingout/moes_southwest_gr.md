@@ -11,8 +11,6 @@ Moe's is a Southwestern-style "quick casual" restaurant. You place your order, u
 
 **Contributors**
 July 03, 2006
-new
-by [vilamaa](/member/vilamaa) (1 point)
 
 type: African
 
@@ -23,5 +21,3 @@ tel: 334-273-9198
 url: [www.moes.com](http://www.moes.com)
 
 address: 2900 East Zelda Road
-
-[back to Eating Out](..)

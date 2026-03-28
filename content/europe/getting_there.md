@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 ---
 
+"/>
+
 Europe can be reached by surface transport from Africa and Asia. Getting there from the other continents involves flying.
 
  **Air**

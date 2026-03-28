@@ -1,8 +1,6 @@
 ---
 title: "Shopping"
 type: location
-latitude: -1.456218
-longitude: -48.451089
 ---
 
 Belém is the biggest center of purchases of all the Amazônia, for

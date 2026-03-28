@@ -9,8 +9,6 @@ In the centre of Groningen on the Grote Markt you'll find ‘The 3 Gezusters’ 
 
 **Contributors**
 February 15, 2006
-new
-by [sander82](/member/sander82)
 
 type: Clubs and dancing
 
@@ -19,5 +17,3 @@ type: Clubs and dancing
 
 
 url: [www.driegezusters.net](http://www.driegezusters.net)
-
-[back to Nightlife and Entertainment](..)

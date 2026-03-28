@@ -7,15 +7,10 @@ Ryanair takes you to and from [London](/europe/unitedkingdom/england/london) Sta
 
 Direktflyg has traffic on the Västerås- Malmö route with their 19 pax aeroplanes.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
-Minor corrections by [gagarin](/member/gagarin) on 07 September 04
+Minor corrections on 07 September 04
 
 url: [www.vasterasflygplats.se](http://www.vasterasflygplats.se/)
 
 tel: 021-805610
 
 zipcode: 721 31
-
--->

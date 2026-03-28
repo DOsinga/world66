@@ -18,5 +18,3 @@ Ynys Mon / Anglesey
 
 
 Wye Valley / Dyffryn is shared between England and Wales.
-
--->

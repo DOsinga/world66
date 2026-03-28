@@ -1,9 +1,9 @@
 ---
-title: "Lancashire Travel Guide"
+title: "Lancashire"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Normal
 0
@@ -20,7 +20,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Lancashire is
 a non-metropolitan
@@ -31,9 +31,3 @@ Lancashire County Council is based in Preston. Lancashire is sometimes referred 
 the abbreviation Lancs, as
 originally used by the Royal Mail. The population of the county is
 1,449,700. People from the county are known as Lancastrians.
-
-*Part or or all of this text stems from the original article at: http://www.hiexburnley.com/*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 01:21

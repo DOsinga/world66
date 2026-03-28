@@ -9,8 +9,6 @@ Worcester has a wide variety of restaurants for every taste. Some of the best ar
 
 **Contributors**
 May 24, 2006
-new
-by [kristi](/member/kristi)
 
 ### [Cafe Dulce](/northamerica/unitedstates/massachusetts/worcester/eating_out/cafe_dulce)
 

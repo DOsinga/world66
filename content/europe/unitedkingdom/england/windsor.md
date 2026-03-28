@@ -1,0 +1,4 @@
+---
+title: "Windsor"
+type: location
+---

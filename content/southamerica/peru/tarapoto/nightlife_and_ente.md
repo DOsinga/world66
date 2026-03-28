@@ -10,8 +10,6 @@ There are dozens of discos in the Tarapoto area, most of them being in the Neigh
 
 **Contributors**
 February 15, 2008
-new
-by [approaching genius](/member/approaching_genius)
 
 ### [Papillon](/southamerica/peru/tarapoto/nightlife_and_ente/papillon)
 
@@ -27,17 +25,10 @@ accessibility: Not wheelchair accessible. Just across the Rio Cumbaza near the t
 
 address: Prolongacción Peru #221
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

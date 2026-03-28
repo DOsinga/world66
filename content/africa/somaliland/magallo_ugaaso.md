@@ -1,12 +1,8 @@
 ---
-title: "magallo ugaaso Travel Guide"
+title: "magallo ugaaso"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 waa magaalo yar oo waqooyiga hargeisa ku taal
-
-Page last generated on Tue 08:52
-
--->

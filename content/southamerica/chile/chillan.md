@@ -1,0 +1,4 @@
+---
+title: "Chillan"
+type: location
+---

@@ -13,5 +13,3 @@ http://www.ghosttowns.com/states/nv/nelson.html
 
 
 email: parigy08@yahoo.com
-
-[back to Day Trips](..)

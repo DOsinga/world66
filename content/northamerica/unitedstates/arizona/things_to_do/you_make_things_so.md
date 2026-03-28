@@ -10,8 +10,6 @@ url: "www.medproducts.net"
 
 You make things so clear. Thanks for taking the time!
 
-*Part or or all of this text stems from the original article at: BLGe1nSDEZM*
-
 type: Surfing
 
 
@@ -23,5 +21,3 @@ tel: 0j5CtdfSl8BG
 url: [www.medproducts.net](http://www.medproducts.net/)
 
 email: press@tvfestival.com
-
-[back to Things to do](..)

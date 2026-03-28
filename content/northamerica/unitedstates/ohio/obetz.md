@@ -1,9 +1,9 @@
 ---
-title: "Obetz Travel Guide"
+title: "Obetz"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Founded
 as a bustling railroad junction in 1838, the Village of Obetz
@@ -20,11 +20,3 @@ incorporation, with festivities that commemorated this special
 event. As we celebrate the rich legacy of our past, we also
 remain committed to moving the Village forward as a top business
 location and an excellent place to call home.
-
-#### Contributors
-
-May 20, 2007 new by [mehul](/member/mehul)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 11:29

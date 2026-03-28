@@ -30,5 +30,3 @@ Weblink: http://www.smnk.de/
 address: Erbprinzenstraße 13
 
 zipcode: http://www.smnk.de/
-
--->

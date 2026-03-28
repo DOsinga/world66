@@ -23,5 +23,3 @@ tel: (+255)-22-2136622
 address: Zanaki street,corner of Bibi titi mohamed Road,opposite Elia Complex
 
 PriceOfMenu: Reasonable,average 12,000 pp
-
-[back to Eating Out](..)

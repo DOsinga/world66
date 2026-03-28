@@ -9,8 +9,6 @@ Cannes is so close to so many cities along the French Riviera that the only prob
 
 **Contributors**
 June 02, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Ile Ste-Marguerite & Musee de la Mer](/europe/france/cannes/day_trips/ile_stemarguerite)
 

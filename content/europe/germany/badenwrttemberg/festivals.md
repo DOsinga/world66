@@ -49,9 +49,5 @@ area, where kids can participate in crafts and musical experiences.
 
 **Contributors**
 March 11, 2010
-new
-by [amymc](/member/amymc)
 
 March 12, 2010
-change
-by [ctanios](/member/ctanios)

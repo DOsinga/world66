@@ -25,5 +25,3 @@ url: [www.lerustique.co.ke](http://www.lerustique.co.ke)
 address: P.O.Box 1428-00502
 
 email: eat@lerustique.co.ke
-
-[back to Eating Out](..)

@@ -1,9 +1,9 @@
 ---
-title: "Norrköping Travel Guide"
+title: "Norrköping"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Norrköping is located on the Swedish east coast, some 160 km to the south of Stockholm. Population: Approx 125,000.
 
@@ -14,11 +14,3 @@ Major sights in Norrköping includes "Gamla Industrilandskapet", where industria
 Norrköping is the cultural hub of the Östergötland province. The Norrköping Philharmonic Orchestra has toured throughout the world, and the Östgötateatern theatre is one of the most important Swedish stages outside of the three largest cities. There are also a multitude of smaller venues and amateur cultural societies.
 
 Recurring events in Norrköping includes: Walpurgis mass bonfires on April 30, National Day celebration on June 6, Night of Culture, the last weekend of September, the Bel Canto S:t Lucia concert on December 13 and the "City of Light" walks around Christmas.
-
-#### Contributors
-
-December 09, 2006 new by [norrkoping](/member/norrkoping)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 03:38

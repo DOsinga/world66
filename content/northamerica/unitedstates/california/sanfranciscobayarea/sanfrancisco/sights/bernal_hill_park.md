@@ -17,5 +17,3 @@ type: Parks, Gardens and Zoos
 openingHours: dawn to dusk
 
 address: 1 andover st, san francisco, ca
-
-[back to Sights](..)

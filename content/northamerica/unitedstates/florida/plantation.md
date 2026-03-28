@@ -1,0 +1,4 @@
+---
+title: "Plantation"
+type: location
+---

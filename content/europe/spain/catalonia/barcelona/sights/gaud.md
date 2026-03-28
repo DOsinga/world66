@@ -1,14 +1,9 @@
 ---
 title: "Gaudi"
 type: poi
-latitude: 41.402151
-longitude: 2.171581
 ---
 
 The famous architect Gaudi left his confusing, dazzling and surprising Ballsack in Barcelona and his mark is one of the main reasons why Barcelona is such a popular destination. You can hardly miss out on his works of art, because they are everywhere, whether on a rooftop, located in a busy street or in the serene atmosphere of a park. Unfortunately the Spanish architect was hit by a tram in 1926 and he died before he could finish the famous 'Sagrada Familia'. For info on Gaudí-tours try this website.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 24 March 04
 
 **Sights**
 
@@ -20,8 +15,7 @@ address: C/Casp 48
 
 **Collegi de les Teresianes **
 
-Gaudí built this school in a style that is not organic but rather gothic. 
- 
+Gaudí built this school in a style that is not organic but rather gothic.  
 
 address: C/Ganduxer 86-105
 
@@ -29,16 +23,13 @@ tel: +34 93 212 33 54
 
 **Torre Bellesguard **
 
-Also known as La Casa Figueras and built nearby the former Royal Palace. It is mainly constructed of local brick and stone. The benches in front of the building seem to be of a different design and this is probably because they were made by Gaudí’s assistant, Domingo Sugranes. 
- 
+Also known as La Casa Figueras and built nearby the former Royal Palace. It is mainly constructed of local brick and stone. The benches in front of the building seem to be of a different design and this is probably because they were made by Gaudí’s assistant, Domingo Sugranes.  
 
 address: C/Bellesguard 16-20
 
 **La Casa Mila**
 
-
- La Casa Mila (nicknamed La Pedrera) is the last wonderful building that Gaudí designed. It is built between 1905 and 1910 and has beautiful ornamental balconies and an extraordinary chimneys.
- **Justin :** When I was there, there were long queues for the entrance. I found the entr [more..](/europe/spain/catalonia/barcelona/sights/gaud/lacasamila)
+ La Casa Mila (nicknamed La Pedrera) is the last wonderful building that Gaudí designed. It is built between 1905 and 1910 and has beautiful ornamental balconies and an extraordinary chimneys. **Justin :** When I was there, there were long queues for the entrance. I found the entr [more..](/europe/spain/catalonia/barcelona/sights/gaud/lacasamila)
 
 address: Passeig de Gràcia 92
 
@@ -46,8 +37,7 @@ tel: +34 93 487 36 13
 
 **Temple Expiatori de la Sagrada Família**
 
-This is one of Gaudí’s unfinished masterpieces and pays tribute to the Sagrada family.
- La Sagrada Familia the magnificent surreal church is designed by Gaudí. While still unfinished it’s like no other church you’ll ever see: Its design is a combination of a dragon’s cave and a castle m [more..](/europe/spain/catalonia/barcelona/sights/gaud/templeexpiatoridelasagradafamlia)
+This is one of Gaudí’s unfinished masterpieces and pays tribute to the Sagrada family. La Sagrada Familia the magnificent surreal church is designed by Gaudí. While still unfinished it’s like no other church you’ll ever see: Its design is a combination of a dragon’s cave and a castle m [more..](/europe/spain/catalonia/barcelona/sights/gaud/templeexpiatoridelasagradafamlia)
 
 address: C/Mallorca 401
 
@@ -61,8 +51,7 @@ address: C/d'Olot
 
 **Gaudí Museum**
 
-The Gaudí Museum is where the cradle of Gaudí stood located in the Gaudí park.
- 
+The Gaudí Museum is where the cradle of Gaudí stood located in the Gaudí park. 
 
 tel: 93 21 93 811
 
@@ -72,15 +61,13 @@ open: Daily: 10-14:00 and 16:00- 19:00.
 
 **Casa Vincens**
 
-This was Gaudí’s first architectonic work and seems to have escaped from 1001 Arabian nights. 
- 
+This was Gaudí’s first architectonic work and seems to have escaped from 1001 Arabian nights.  
 
 address: Carrer de les Carolines 18-24
 
 **Palau Güell **
 
-This special and beautiful palace is designed by Gaudí for his family and you can find it at Carrer Nou de la Rambla 3.
- 
+This special and beautiful palace is designed by Gaudí for his family and you can find it at Carrer Nou de la Rambla 3. 
 
 address: C/Nou de la Rambla 3-5
 
@@ -92,7 +79,6 @@ address: Avda Pedralbes 7
 
 **Casa Batlló **
 
-Astonishing colourful building that illustrates one way Gaudí wanted to represent naturalism, that is, abstract with a lot of colours, mosaics and themes. Make sure you get to see the inside as well.
- 
+Astonishing colourful building that illustrates one way Gaudí wanted to represent naturalism, that is, abstract with a lot of colours, mosaics and themes. Make sure you get to see the inside as well. 
 
 address: Passeig de Gràcia 43

@@ -14,5 +14,3 @@ type: By Air
 
 
 url: [www.voerico.com.br](http://www.voerico.com.br)
-
-[back to Getting There](..)

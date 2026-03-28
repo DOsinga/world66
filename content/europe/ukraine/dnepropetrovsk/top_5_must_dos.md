@@ -29,5 +29,3 @@ This park contains the Potemkin Palace which was the residence of Prince Potemki
 
 **Contributors**
 March 30, 2010
-new
-by [piyushjain](/member/piyushjain_)

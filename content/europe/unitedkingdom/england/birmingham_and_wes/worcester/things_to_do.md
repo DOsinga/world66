@@ -11,5 +11,3 @@ http://www.royal-worcester.co.uk/docs/home.htm
 
 **Contributors**
 December 06, 2004
-new
-by [davidx](/member/davidx)

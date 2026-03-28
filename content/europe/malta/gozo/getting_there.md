@@ -79,6 +79,4 @@ GOZO FERRY SCHEDULE
 
  There are special concessions for senior citizens and also special day trip flights that include the use of a self-drive car for the day. 
 
- Reservations and ticketing can be made through Air Malta offices world-wide.  
-
--->
+ Reservations and ticketing can be made through Air Malta offices world-wide.

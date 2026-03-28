@@ -1,6 +1,6 @@
 ---
 title: "VIP Obsession Erotic Masage"
-type: location
+type: poi
 accessibility: "Central, Unirii Square"
 address: "Blvd Unirii No 16"
 closing_time: "Opened NON STOP"
@@ -8,8 +8,6 @@ email: "contact@vip-obsession.ro"
 phone: "+40755141868"
 type: "Erotic clubs and bars"
 url: "www.vip-obsession.ro"
-latitude: 44.425821
-longitude: 26.12552
 ---
 
 **THE
@@ -66,5 +64,3 @@ accessibility: Central, Unirii Square
 address: Blvd Unirii No 16
 
 email: contact@vip-obsession.ro
-
-[back to Nightlife and Entertainment](..)

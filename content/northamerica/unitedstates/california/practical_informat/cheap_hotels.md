@@ -16,5 +16,3 @@ type: Tourist information
 url: [www.hotelchoyce.com](http://www.hotelchoyce.com/State/California.htm)
 
 address: http://www.hotelchoyce.com/State/California.htm
-
-[back to Practical Information](..)

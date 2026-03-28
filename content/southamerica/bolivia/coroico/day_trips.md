@@ -7,8 +7,6 @@ Loads of different things to, especialy for those who like trekking, cycling and
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (1 point)
 
 ### [The Kori Wayku Inca trail](/southamerica/bolivia/coroico/day_trips/the_kori_wayku_inc)
 

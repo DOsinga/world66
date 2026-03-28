@@ -10,8 +10,3 @@ There are more places to stay than could be easily justified by current traffic 
 The town enjoys an association with the late Alfred Wainwright, whose guides to walking in the Lake District may well be sold for evermore.
 
 http://www.visitcumbria.com/sl/kendal.htm
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 15 October 04
-
--->

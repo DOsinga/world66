@@ -13,5 +13,3 @@ Notable sandy beaches on the island are those at Milna and Stoncica, a narrow in
 
 **Contributors**
 February 01, 2006
-change
-by [giorgio](/member/giorgio)

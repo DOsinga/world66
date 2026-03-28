@@ -88,5 +88,3 @@ author: Brian Crozier
 isbn: 0907671276
 
 subject: history
-
--->

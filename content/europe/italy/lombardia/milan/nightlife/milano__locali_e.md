@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 url: [www.nottidaleon.it](http://www.nottidaleon.it)
-
-[back to Nightlife and Entertainment](..)

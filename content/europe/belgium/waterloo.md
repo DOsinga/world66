@@ -1,0 +1,4 @@
+---
+title: "Waterloo"
+type: location
+---

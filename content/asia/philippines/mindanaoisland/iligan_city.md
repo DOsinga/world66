@@ -1,0 +1,12 @@
+---
+title: "Iligan City"
+type: location
+---
+
+Travel Guide
+
+City of Majestic Waterfalls
+
+Maria Cristina Falls, Tinago Falls, Mimbalot Falls, Limunsudan Falls
+
+Accomoddation: CORPORATE INN, #5 Sparrow Road, Isabel Village, Palao, Iligan City, Lanao del Norte, PHILIPPINES Tel.# 063-63-2214456(57)

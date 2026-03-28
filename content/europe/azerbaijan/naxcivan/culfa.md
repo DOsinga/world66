@@ -1,9 +1,9 @@
 ---
-title: "Culfa (Julfa) Travel Guide"
+title: "Culfa (Julfa)"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Julfa is a border town on the southern part of the Nakhchivan exclave. It is pleasantly located on the left bank of the river Araz, in front of its sister town across the river: Jolfa in the Iranian province of Central Azerbaijan.
 
@@ -28,13 +28,3 @@ Today Julfa is again growing in importance, as the main crossing point between N
 If you wish to cross into Iran, expect long delays at the border, however entering Iran is now a lot easier than a few years ago (see [Iranian visas](/europe/azerbaijan/az-visa-iran.html)). The Iranian government is quite eager for the Euros brought in by the tourists, although they still prefer 'package tours' to independent travellers. Anyway, if you are looking for a place to stay there is a nice guest house in Jolfa, which is a lot better than the hotel in Julfa. If you cross the border do not miss the church of St. Stephan, before you head further south.
 
 (450 km southwest of Baku)
-
-*Part or or all of this text stems from the original article at: www.azerb.com*
-
-#### Contributors
-
-April 16, 2006 new by [azerbaijan08](/member/azerbaijan08)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 05:16

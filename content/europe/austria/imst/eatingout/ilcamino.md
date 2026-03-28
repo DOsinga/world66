@@ -8,5 +8,3 @@ A cosy restaurant in the Tirolean Oberland region - ideal meeting point for cele
 address: Schustergasse 4, 6460 Imst
 
 tel: +43 5412 62162
-
--->

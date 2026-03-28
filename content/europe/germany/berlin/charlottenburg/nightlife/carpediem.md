@@ -18,5 +18,3 @@ connection: U Uhlandstr
 address: Savignypassage 57
 
 openings: Daily 5 pm- 1 am
-
-[back to Nightlife and Entertainment](..)

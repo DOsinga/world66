@@ -2,8 +2,6 @@
 title: "Lux"
 type: poi
 type: "Dancing"
-latitude: 38.697416
-longitude: -9.331116
 ---
 
 It was the missing place. And the gin isn't bad. Extra pastime: finding two equal chairs... 

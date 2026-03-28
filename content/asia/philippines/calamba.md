@@ -1,0 +1,4 @@
+---
+title: "Calamba"
+type: location
+---

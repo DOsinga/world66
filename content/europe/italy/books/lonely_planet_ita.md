@@ -11,9 +11,3 @@ The german version of the best travel guides series. Pubished in May 2005
 More info**
 
 http://travelguides24.com/exof_w66.php
-
-
-
-
-
-[back to Books](..)

@@ -81,5 +81,3 @@ it’s an ideal destination for anyone looking to get away from it all.
 
 **Contributors**
 March 16, 2010
-new
-by [kellercr](/member/kellercr)

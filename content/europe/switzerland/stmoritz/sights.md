@@ -24,5 +24,3 @@ tel: 081/833-43-33
 address: Via dal Bagn 39
 
 open: June-Oct, Mon-Fri 9:30am-noon, Sun 10am-noon; Dec-Apr, Mon-Fri 10am-noon and 2-5pm, Sun 10am-noon. Closed May and Nov.
-
--->

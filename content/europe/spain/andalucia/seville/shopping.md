@@ -3,16 +3,12 @@ title: "Shopping"
 type: section
 address: "Plaza del Duque"
 type: "Markets"
-latitude: 37.393058
-longitude: -5.995856
 ---
 
 During your Seville vacation, you will definitely want to pick up some unique items to take back home to either remind you of your trip or to give to family and friends. Well, you're in luck! Most of Seville's shopping venues sell mostly souvenirs as well as antiques, books, Flamenco wear, ceramics, porcelain, and crafts. Continue reading through the listings to find out about some of the great places to find unique gifts, souvenirs, and more.
 
 **Contributors**
 June 01, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Plaza del Duque](/europe/spain/andalucia/seville/shopping/plaza_del_duque)
 

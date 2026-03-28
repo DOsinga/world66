@@ -1,8 +1,6 @@
 ---
 title: "Paracas"
 type: location
-latitude: -13.835043
-longitude: -76.249622
 ---
 
 There is really not much to do in Paracas except for hopping on a boat to visit the Islas Ballestas or the Reserva Nacional de Paracas. 
@@ -13,4 +11,4 @@ Most people visit the area on a day trip from [Pisco](/southamerica/peru/pisco) 
 
 Most tours offer a motor boat trip to the Islas Ballestas, passing on the way the Candelabra, a giant figure etched in the rock, similar to the ones found around Nazca. 
 
-Around lunch time, you´re either taken back to Pisco, or you can go on an afternoon trip around the coast of the Parc, visiting some archeological points of interests, seeing lots of birds and go for a swim. A combined tour should get you a reduction, so bargain.
+Around lunch time, you´re either taken

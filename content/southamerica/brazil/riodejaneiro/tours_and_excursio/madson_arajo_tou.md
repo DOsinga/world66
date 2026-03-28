@@ -29,8 +29,6 @@ Price Includes:
 
 **Contributors**
 December 15, 2008
-new
-by [madsonaraujo](/member/madsonaraujo)
 
 
 
@@ -41,5 +39,3 @@ tel: 55 21 9395-3537
 url: [www.tourguiderio.com](http://www.tourguiderio.com)
 
 email: madson@tourguiderio.com
-
-[back to Tours and Excursions](..)

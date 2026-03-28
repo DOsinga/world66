@@ -15,9 +15,6 @@ First, something about the land.
 
 Main attraction of our land: lakes and forests, like i mentioned before. Charzykowy - a popular sailing resort in Poland with a large Charzykowskie Lake (Jezioro Charzykowskie), is situated only 7 km(4,5 miles) in the north from Chojnice. Charzykowy is popular becouse of that polish Lake's Sailing was first born here. Everything was started in 1924 by founder Otton Weiland.
 
-*Change history*
-Minor corrections by [tick](/member/tick) on 12 January 05
-
 ## Destinations in Ziemia Chojnicka - Chojnice Region
 
 [Charzykowy](/europe/poland/ziemia_chojnicka/charzykowy)

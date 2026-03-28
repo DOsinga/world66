@@ -7,9 +7,3 @@ type: "general"
 Small pottery village
 
 type: general
-
-
-
-
-
-[back to Day Trips](..)

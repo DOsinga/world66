@@ -9,8 +9,6 @@ There are many famous festivals that happen in Santa Clara County including the 
 
 **Contributors**
 May 17, 2005
-new
-by [ru4scuba](/member/ru4scuba)
 
 ### [Gilroy Garlic Festival](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/festivals/gilroy_garlic_fest)
 

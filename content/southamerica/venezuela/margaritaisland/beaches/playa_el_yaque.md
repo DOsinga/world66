@@ -11,5 +11,3 @@ Certainly the world best beach to practice water sports like kitesurf and windsu
 
 
 email: alel22@hotmail.com
-
-[back to Beaches](..)

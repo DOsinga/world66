@@ -1,9 +1,9 @@
 ---
-title: "Comox Valley Travel Guide"
+title: "Comox Valley"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Nestled between mountain and ocean are the quaint and unique towns of Comox, Cumberland and Courtenay that make up the Comox Valley. The area is a collection of rolling mountains, delicate alpine meadows, rushing rivers, pristine lakes, lush forests, fertile farms and more than 40 parks, mid way up the east coast of Vancouver Island, two and a half hours by car north of Victoria. Unique geography plus year round temperate climate creates an exceptional location for hiking, horseback riding, boating, fishing, swimming, mountain biking, diving and camping. And only 20-minutes away is an alpine playground that receives some of the deepest snow in North America.
 In the Comox Valley it really is possible to enjoy the best of all seasons, sometimes in the same day – you can be knee-deep in powder and then half an hour later be dusting the snow off your boots at a lush green golf course or paddling a kayak through pristine blue waters.
@@ -99,11 +99,3 @@ Tickets: tbc
 Tel: (250) 338-8177
 Web: ******www.cvexhibition.com******
 Comox Valley’s 133rd Annual Fall Fair, this year’s theme is “A Harvest of Memories”. The Fall Fair welcomes over 15,000 visitors annually. Come to learn about Comox Valley agriculture through fun-filled family activities. There is something for everyone at the Fall Fair: entertainment, livestock, produce, kid’s zone, 4H Exhibits, flowers, home arts, crafts, educational displays and antique machinery.
-
-#### Contributors
-
-June 13, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 14:50

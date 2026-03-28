@@ -33,9 +33,5 @@ Billund, though a small settlement famous for its Legoland, has several bars and
 
 **Contributors**
 February 07, 2010
-new
-by [sameera kumar](/member/sameera_kumar)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

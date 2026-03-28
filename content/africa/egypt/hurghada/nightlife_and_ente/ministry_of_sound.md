@@ -18,8 +18,6 @@ With a groove-filled weekly schedule and regular guest DJ slots from internation
 
 **Contributors**
 June 28, 2008
-new
-by [overdose](/member/overdose)
 
 type: Clubs and dancing
 
@@ -38,5 +36,3 @@ accessibility: Disabled access, no big singles groups
 address: Ministry of Sound Beach Club, Papas Beach, Hurghada
 
 email: Info@MinistryofSoundEgypt.com
-
-[back to Nightlife and Entertainment](..)

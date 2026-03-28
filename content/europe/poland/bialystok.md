@@ -1,0 +1,4 @@
+---
+title: "Bialystok"
+type: location
+---

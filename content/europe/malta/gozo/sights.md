@@ -37,14 +37,10 @@ Anyone who loves the sea and water sports, loves Comino. This tiny island is giv
 
 **St. George's Basilica, Victoria**
 
-At the centre of the parish, surrounded by a maze of charming narrow streets, is St. George's Basilica. Built between 1672 and 1678, the church reflects the history of Gozo with its objects and signs of former cultures and settlements dating back to Roman times.  All paintings in the dome and c [more..](/europe/malta/gozo/sights/stgeorgesbasilicavictoria)
-
-**Dwejra: the Inland Sea and Fungus Rock**
+At the centre of the parish, surrounded by a maze of charming narrow streets, is St. George's Basilica. Built between 1672 and 1678, the church reflects the history of Gozo with its objects and signs of former cultures and settlements dating **Dwejra: the Inland Sea and Fungus Rock**
 
 At Dwejra on Gozo's southern coastline is a superb natural phenomenon, the Inland Sea. Set in a deep recess in the rock coastline, the Inland Sea is a large expanse of shallow water linked to the sea outside through a narrow tunnel in the cliff. On calm days small fishing boats carry visitors out [more..](/europe/malta/gozo/sights/dwejratheinlandseaandfungusrock)
 
 **Ta' Pinu Basilica**
 
-The Basilica of Ta' Pinu is a centre of pilgrimage. Its origins date back to June 22, 1883, when a peasant woman, Carmela Grima, heard the voice of the Blessed Virgin talking to her in an old chapel. A friend, Frangisk Portelli, also heard the voice. In the following years the place became a Holy [more..](/europe/malta/gozo/sights/tapinubasilica)
-
--->
+The Basilica of Ta' Pinu is a centre of pilgrimage. Its origins date

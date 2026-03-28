@@ -1,0 +1,4 @@
+---
+title: "Greiz"
+type: location
+---

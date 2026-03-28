@@ -1,0 +1,4 @@
+---
+title: "Duck"
+type: location
+---

@@ -9,7 +9,5 @@ More info here soon...
 
 **Contributors**
 March 13, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 type: By Sea

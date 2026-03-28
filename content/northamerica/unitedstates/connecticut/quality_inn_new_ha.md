@@ -1,12 +1,8 @@
 ---
-title: "Quality Inn New Haven Travel Guide"
+title: "Quality Inn New Haven"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 we would like to add our hotel in your directory.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 12:43

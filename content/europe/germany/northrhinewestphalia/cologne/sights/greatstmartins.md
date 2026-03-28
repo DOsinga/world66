@@ -5,9 +5,3 @@ type: "Churches"
 ---
 
 type: Churches
-
-
-
-
-
-[back to Sights](..)

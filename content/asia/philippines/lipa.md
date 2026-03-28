@@ -1,0 +1,4 @@
+---
+title: "Lipa"
+type: location
+---

@@ -12,5 +12,3 @@ type: Tourist information
 
 
 url: [www.boliviatravelguide.net](http://www.boliviatravelguide.net)
-
-[back to Practical Information](..)

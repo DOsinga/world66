@@ -8,8 +8,6 @@ phone: "03 5822 4880"
 price: "from $4-$6 per hour"
 type: "Internet Cafe"
 url: "cyberbunker.net.au"
-latitude: -36.377852
-longitude: 145.40173
 ---
 
 CyberBUNKER offers access to broadband internet and email access, with printing, scanning and wireless hotspot access.
@@ -35,5 +33,3 @@ price: from $4-$6 per hour
 email: info@cyberbunker.net.au
 
 hours: 11am till late
-
-[back to Internet Cafes](..)

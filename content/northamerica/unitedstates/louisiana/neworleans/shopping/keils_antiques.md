@@ -11,8 +11,6 @@ If you find something amazing at this fantastic French Quarter antique shop -- w
 
 **Contributors**
 June 08, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Antiques
 
@@ -23,5 +21,3 @@ tel: 504-522-4552
 url: [www.keilsantiques.com](http://www.keilsantiques.com)
 
 address: 325 Royal Street
-
-[back to Shopping](..)

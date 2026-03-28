@@ -31,5 +31,3 @@ tel: (402) 733-8400
 zipcode: 68107
 
 url: [www.omahazoo.com](http://www.omahazoo.com)
-
-[back to Sights](..)

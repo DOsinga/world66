@@ -6,8 +6,6 @@ email: "farrukh@nuxa .az"
 phone: "+994557957489"
 price: "good price"
 type: "Local"
-latitude: 41.202435
-longitude: 47.171634
 ---
 
 **Restaurants:**
@@ -37,8 +35,6 @@ There is a good Turkish bakery next to the New Bazaar, where you can eat local p
 
 **Contributors**
 December 05, 2006
-new
-by [cupcakecommander](/member/cupcakecommander) (4 points)
 
 ### [Farrukh](/europe/azerbaijan/saki/eating_out/farrukh)
 

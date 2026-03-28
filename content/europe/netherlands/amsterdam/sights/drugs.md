@@ -88,5 +88,3 @@ Smartshop in the Toldwarsstraat, no 24, in the South of Amsterdam.
 **La Canna**
 
 Smartshop on the Nieuwendijk, no 123, right in the center of Amsterdam.
-
--->

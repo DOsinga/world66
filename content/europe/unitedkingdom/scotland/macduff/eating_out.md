@@ -8,8 +8,6 @@ Below are places to eat in Macduff.
 
 **Contributors**
 January 16, 2006
-change
-by [reen](/member/reen)
 
 ### [Milos](/europe/unitedkingdom/scotland/macduff/eating_out/milos)
 

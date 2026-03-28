@@ -7,5 +7,3 @@ Dodoma airport is not served by scheduled flights. Tanzania Railways Corporation
 
 **Contributors**
 July 03, 2006
-new
-by [ingvar](/member/ingvar) (4 points)

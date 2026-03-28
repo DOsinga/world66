@@ -1,0 +1,4 @@
+---
+title: "Kolhapur"
+type: location
+---

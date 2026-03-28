@@ -31,9 +31,5 @@ Montpellier can get very warm in the spring and summer months. Light clothing su
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 23, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

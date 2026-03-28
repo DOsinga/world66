@@ -14,5 +14,3 @@ type: Middle East
 
 
 email: A_Alhammasi@yahoo.com
-
-[back to Eating Out](..)

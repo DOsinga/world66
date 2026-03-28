@@ -1,9 +1,9 @@
 ---
-title: "Kabelvåg Travel Guide"
+title: "Kabelvåg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Kabelvåg is the oldest fishing village in Lofoten and it was here
 the commercial aspect of the Lofoten Fishery was first developed over
@@ -59,13 +59,3 @@ find the Espolin Gallery where the larger part of the works of artist
 Kaare Espolin Johnson are on display. The collection was a gift given
 by the artist to Vågan Council. The Lofoten Aquarium and the tourist
 centre Nyvågar contribute towards making Storvågan a unique resort.
-
-#### Contributors
-
-June 12, 2005 new by [lofoten](/member/lofoten) (1 point)
-
-June 13, 2005 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 10:05

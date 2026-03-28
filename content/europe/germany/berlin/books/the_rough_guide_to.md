@@ -9,8 +9,6 @@ isbn: "1843532433"
 
 **Contributors**
 October 23, 2006
-new
-by [svetico](/member/svetico) (1 point)
 
 [](http://www.amazon.com/exec/obidos/ASIN/1843532433/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -19,5 +17,3 @@ by [svetico](/member/svetico) (1 point)
 author: John Gawthrop, Jack Holland
 
 isbn: 1843532433
-
-[back to Books](..)

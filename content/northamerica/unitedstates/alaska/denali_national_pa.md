@@ -1,9 +1,9 @@
 ---
-title: "Denali National Park and Preserve Travel Guide"
+title: "Denali National Park and Preserve"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Denali is unique among the national parks of America. No park in the lower 48 states offers so complete an ecosystem unaltered by man. Grizzlys, moose, caribou, wolves, dall sheep, and numerous other animals find a home here in a vast parkland, as large as the entire state of Massachusetts. There may be other places in Alaska where the scenery is just as spectacular and where there are as many or more animals, but only in Denali does the average visitor have easy access to true wilderness. Denali is 237 miles north of Anchorage and 120 miles south of Fairbanks, via Alaska Hwy. 3, or the Alaska Railroad.
 
@@ -22,11 +22,3 @@ Mount McKinley is so overpowering that some visitors seem surprised to learn tha
 **Denali** **National** **Preserve: **allows subsistence uses and also allows sport hunting, trapping, and fishing under Alaska Fish and Game regulations. There are two such perserve areas.
 
 Denali National Park and Preserve is a vast and diverse land, rich in wildlife, and offering almost unlimited possibilities to the outdoor and wilderness enthusiast.
-
-#### Contributors
-
-July 29, 2005 change by [jstephen](/member/jstephen)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 11:08

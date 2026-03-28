@@ -13,8 +13,6 @@ Frequent departures from Woods Hole to Vineyard Haven or Oak Bluffs with year ar
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 type: By Sea
 
@@ -25,5 +23,3 @@ type: By Sea
 tel: (508) 477-8600
 
 url: [www.steamshipauthority.com](http://www.steamshipauthority.com/)
-
-[back to Getting There](..)

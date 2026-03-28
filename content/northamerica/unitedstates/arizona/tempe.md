@@ -1,0 +1,4 @@
+---
+title: "Tempe"
+type: location
+---

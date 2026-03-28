@@ -15,5 +15,3 @@ type: Clubs
 address: 18 Moschof st.
 
 tel: +30 31 - 515907
-
-[back to Nightlife and Entertainment](..)

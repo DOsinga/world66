@@ -8,8 +8,6 @@ opening_hours: "6:00 AM-16:30 BM"
 phone: "+2 0123702314"
 type: "Hotspots"
 url: "emiltut.tripod.com"
-latitude: 25.702096
-longitude: 32.647186
 ---
 
 Deir el-Bahari, literally meaning, The Northern Monastery is a complex of mortuary temples and tombs located on the west bank of the Nile, opposite the city of Luxor, Egypt.
@@ -34,5 +32,3 @@ url: [emiltut.tripod.com](http://emiltut.tripod.com)
 address: Luxor
 
 email: emiltut@yahoo.com
-
-[back to Sights](..)

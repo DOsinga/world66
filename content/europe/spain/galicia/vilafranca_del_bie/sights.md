@@ -33,7 +33,4 @@ Crianza 1982, Palacio de Arganza Crianza 1985, Palacio de Arganza
 Crianza 1987 all of these wine are made with Mencia, Carbernet
 Sauvignon and Tempranillo, they also have whites & rose wines.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05

@@ -1,8 +1,6 @@
 ---
 title: "Kano"
 type: location
-latitude: 11.993998
-longitude: 8.521974
 ---
 
 Kano is one of the nicest cities to visit in Nigeria. It has been one of the most importnat trading towns for the Hausa, who had a big empire in the 18-th and 19-th century and are still one of the most influential people of Nigeria.
@@ -13,8 +11,6 @@ Be sure to visit the walls of the Old City (there are 16 gates) and the massive 
 
 Excursions can be made to Katsina, Daura (a traditional Hausa town) Birnin Kudu (rock paintings) and [Sokoto](/africa/nigeria/sokoto) (with a sultan’s palace, and a good market for leather goods).
 
+ Kano is situated 835 km northeast of [Lagos](/africa/nigeria/lagos).
 
- Kano is situated 835 km northeast of [Lagos](/africa/nigeria/lagos).
-
-
- Historically, Kano has been a centre of trade especially towards the North across the Sahara and South to Zaria. It is currently the largest city in the North and the capital of Kano State. A marked distinction could however be noticed between the old Hausa City and the modern industrial one served by an international airport, rail lines and major roads.
+ Historically, Kano has been a centre of trade especially towards the North across the Sahara and South to Zaria. It is currently the largest city in the North and the capital of Kano State. A marked distinction could however be noticed between the old Hausa City and the modern industrial one served by an international airport, rail lines and major roads.

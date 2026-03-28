@@ -1,9 +1,9 @@
 ---
-title: "Ventura Travel Guide"
+title: "Ventura"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Ventura has some of the best surfing in Southern California,
 especially Surfer's Point at Ventura County Fairgrounds. Downtown Ventura is
@@ -100,9 +100,3 @@ The headquarters for Patagonia is located downtown, and
 there is an organic clothing retailer on Main Street called Korazon Organics
 and the eco-designer Stewart+Brown has their factory just a few blocks from the
 ocean.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Ventura,_California*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 20:17

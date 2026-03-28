@@ -19,8 +19,6 @@ Come and listen to the music anytime. You won't be disappointed.
 
 **Contributors**
 June 13, 2007
-new
-by [irwinnormal](/member/irwinnormal)
 
 type: Concerts
 
@@ -37,5 +35,3 @@ url: [ultraloungeberlin.com](http://ultraloungeberlin.com)
 accessibility: 5 minute walk from zoo garten
 
 address: kantstraae 17 10623 Berlin
-
-[back to Nightlife and Entertainment](..)

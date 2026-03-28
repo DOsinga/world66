@@ -20,5 +20,3 @@ url: [www.gotobus.com](http://www.gotobus.com/)
 address: 2285 Mass Ave. Cambridge MA USA
 
 email:
-
-[back to Getting Around](..)

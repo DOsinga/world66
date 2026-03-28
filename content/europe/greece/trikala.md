@@ -1,9 +1,9 @@
 ---
-title: "Trikala Travel Guide"
+title: "Trikala"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Trikala** (Greek: Τρίκαλα) is a city in
 northwestern Thessaly, Greece. It is the capital of the Trikala
@@ -44,9 +44,3 @@ cities to offer such a service for free.
 Trikala is also home to A.O. Trikala which is a
 professional football team that competed in the Greek first division
 as recently as the year 2000.
-
-*Part or or all of this text stems from the original article at: Wikipedia.org*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:12

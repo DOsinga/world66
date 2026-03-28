@@ -11,8 +11,6 @@ There's a show here nearly every night. A small venue with great beers on draugh
 
 **Contributors**
 November 06, 2006
-new
-by [eakspeasy](/member/eakspeasy)
 
 type: Concerts
 
@@ -25,5 +23,3 @@ tel: 415-771-1421
 url: [www.independentsf.com](http://www.independentsf.com)
 
 address: 628 Divisadero
-
-[back to Nightlife and Entertainment](..)

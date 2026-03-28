@@ -1,9 +1,9 @@
 ---
-title: "Goytepe Travel Guide"
+title: "Goytepe"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Formerly known as Priship, this small town is located on the southern part of [Celilabad / Jalilabad](/europe/az-celilabad.html) rayon, on the road leading south to [Masalli](/europe/az-masalli.html), [Astara](/europe/az-astara.html) and the Iranian border.
 
@@ -14,13 +14,3 @@ The town is crossed by a small river that continues to the marshes. You can rela
 G ö ytepe has a small privately owned hotel, with friendly staff and decent accommodation and amenities (near the river).
 
 (190 km south-west of Baku)
-
-*Part or or all of this text stems from the original article at: azerb.com*
-
-#### Contributors
-
-April 30, 2006 new by [azerbaijan08](/member/azerbaijan08) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 23:54

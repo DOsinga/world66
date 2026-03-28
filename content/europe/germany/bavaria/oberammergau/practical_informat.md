@@ -23,9 +23,5 @@ Having a Hostelling International membership card will provide you a better rate
 
 **Contributors**
 February 09, 2010
-change
-by [schitti](/member/schitti)
 
 February 03, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

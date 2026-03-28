@@ -14,5 +14,3 @@ type: general
 
 
 address: 5 km north of town
-
-[back to Sights](..)

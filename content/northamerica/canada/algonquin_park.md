@@ -1,8 +1,6 @@
 ---
 title: "Algonquin Park"
 type: location
-latitude: 45.657136
-longitude: -78.499539
 ---
 
 The chirp of birdsong and the gentle splash of the paddle of your canoe on the calm surface of the water are the only sounds breaking the perfect silence of this paradise. The sun is warm on your arms and the breeze gentle on your skin. You’re paddling a canoe on a lake with forested shores, where neat cottages lie tucked away among the trees, and the only other creatures you’re likely to see are a pair of loons on the surface of the water, calling to each other with their haunting cry.
@@ -23,5 +21,3 @@ By the time you leave, the light is changing, and evening shadows ripple across 
 
 **Contributors**
 May 16, 2005
-new
-by [carol](/member/carol)

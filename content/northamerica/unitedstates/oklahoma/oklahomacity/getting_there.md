@@ -9,8 +9,6 @@ Like most major cities, there are many ways to get to Oklahoma City. Here is a l
 
 **Contributors**
 April 21, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### By Bus
 

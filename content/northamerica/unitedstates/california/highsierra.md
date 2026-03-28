@@ -5,21 +5,4 @@ type: location
 
 The majestic Sierra Nevada mountain range, the highest on the continent, is an outdoor-adventure seeker's paradise. The range is home to the largest, deepest, alpine lake in North America, glorious wilderness areas with ancient pines and giant sequoias, spectacular falls, tranquil valleys and meadowlands, resorts, historic Old West towns, and the best snow sports in America.
 
- [Yosemite](/northamerica/unitedstates/california/highsierra/yosemite) National Park is the main tourist attraction in this region. It is one of the most diverse national parks and a treat for lovers of the outdoor. [Tahoe City](/northamerica/unitedstates/california/highsierra/tahoecity) is an ideal place from which to explore nearby Lake Tahoe. Lake Mono is smaller but equally beautiful. 
-
-## Top Destinations in High Sierra
-
-[Yosemite](/northamerica/unitedstates/california/highsierra/yosemite)
-[Kings Canyon](/northamerica/unitedstates/california/highsierra/kingscanyon)
-[Mono Lake](/northamerica/unitedstates/california/highsierra/monolake)
-[Groveland](/northamerica/unitedstates/california/highsierra/groveland)
-[Mammoth Lakes](/northamerica/unitedstates/california/highsierra/mammothlakes)
-[Truckee](/northamerica/unitedstates/california/highsierra/truckee)
-[South Lake Tahoe](/northamerica/unitedstates/california/highsierra/southlaketahoe)
-[Tahoe City](/northamerica/unitedstates/california/highsierra/tahoecity)
-[Bishop](/northamerica/unitedstates/california/highsierra/bishop)
-[Bridgeport](/northamerica/unitedstates/california/highsierra/bridgeport)
-[Alpine County](/northamerica/unitedstates/california/highsierra/alpinecounty)
-[Yosemite](/northamerica/unitedstates/california/highsierra/yosemite/yosemite)
-
-[**Show all destinations in High Sierra.**](/northamerica/unitedstates/california/highsierra/lib/alldestinations)
+ [Yosemite](/northamerica/unitedstates/california/highsierra/yosemite) National Park is the main tourist attraction in this region. It is one of the most diverse national parks and a treat for lovers of the outdoor. [Tahoe City](/northamerica/unitedstates/california/highsierra/tahoecity) is an ideal place from which to explore nearby Lake Tahoe. Lake Mono is smaller but equally beautiful.

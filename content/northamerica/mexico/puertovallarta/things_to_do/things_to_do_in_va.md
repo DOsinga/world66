@@ -7,8 +7,6 @@ email: "info@thingstodoinvallarta.com"
 phone: "044-322-8894-576"
 type: "Other"
 url: "www.thingstodoinvallarta.com"
-latitude: -34.595833
-longitude: -58.404543
 ---
 
 **Puerto Vallarta Tours & Activities **
@@ -32,5 +30,3 @@ url: [www.thingstodoinvallarta.com](http://www.thingstodoinvallarta.com/ )
 address: Ecuador ·1220
 
 email: info@thingstodoinvallarta.com
-
-[back to Things to do](..)

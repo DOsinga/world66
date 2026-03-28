@@ -7,8 +7,6 @@ email: "tourbyvan@yahoo.com"
 phone: "1 866 473 4432"
 type: "Other"
 url: "www.tourbyvan.com"
-latitude: 21.893071
-longitude: -101.649165
 ---
 
 The Fort of San Diego is the most relevant historic monument in Acapulco and was the most important Spanish fortress along the pacific cost. Located on a hill in the heart of downtown Acapulco, the fort is an integral part of the landscape that stands out because of its singular geometric design in the shape of a five point star. Visit it with us and save up to fifty per cent on tours with TourByVan Acapulco This important building houses Acapulco's History Museum.
@@ -27,8 +25,6 @@ Acapulco represents the entrance door of all the merchandise and influences of c
 
 **Contributors**
 March 28, 2009
-change
-by [tourbyvan](/member/tourbyvan)
 
 type: Other
 
@@ -43,5 +39,3 @@ url: [www.tourbyvan.com](http://www.tourbyvan.com)
 address: C. Miguel Aleman 116
 
 email: tourbyvan@yahoo.com
-
-[back to Things to do](..)

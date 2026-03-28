@@ -23,4 +23,4 @@ This is Baku's newest museum, having just opened its doors this year, 1995. Loca
 
 **The Old Inner City ("Ichari Shahar")**
 
-The oldest section of Baku is surrounded by fortress walls dating back to the ninth century. Inside, you'll find narrow, winding picturesque streets which were intentionally designed to counter the strong winds that blew off the Caspian Sea. As yet, the area is not very commercially oriented-a tr [more..](/europe/azerbaijan/baku/sights/theoldinnercityicharishahar)
+The oldest section of Baku is surrounded by fortress walls dating

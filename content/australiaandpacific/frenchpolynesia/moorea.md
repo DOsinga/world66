@@ -13,9 +13,4 @@ Cheaper meals on the island include several pizza parlors and a rotisserie chick
 
 Accomodations: Most are on the expensive side, as with everything here, but travelers can save money by staying at one of the two campgrounds, both on the west side of the island.
 
-*Change history*
-Orginal article by [maclean](/member/maclean) on 06 January 05
-
-Minor corrections by [maclean](/member/maclean) on 06 January 05
-
--->
+Minor corrections on 06 January 05

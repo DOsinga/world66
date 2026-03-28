@@ -13,8 +13,6 @@ But Asheville has more restaurants to offer than just fine dining. There are man
 
 **Contributors**
 October 14, 2005
-new
-by [dancerlbw](/member/dancerlbw)
 
 ### [Moose Cafe](/northamerica/unitedstates/northcarolina/asheville/eating_out/moose_cafe)
 

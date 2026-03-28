@@ -17,5 +17,3 @@ type: Vegetarian
 address: 79 Second Ave.
 
 tel: (212) 254-8002
-
-[back to Eating Out](..)

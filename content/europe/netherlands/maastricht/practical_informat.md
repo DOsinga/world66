@@ -12,5 +12,3 @@ There is a site with all kind of usefull/es info in English on Maastricht, and y
 All sorts of information for non-conformist visitors of Maastricht.
 
 url: www.wikimaas.tk](/europe/netherlands/maastricht/practical_informat/wikkmaas_the_maas)
-
--->

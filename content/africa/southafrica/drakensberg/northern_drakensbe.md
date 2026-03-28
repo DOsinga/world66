@@ -1,9 +1,9 @@
 ---
-title: "Northern Drakensberg Travel Guide"
+title: "Northern Drakensberg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The majestic Northern Drakensberg is the highest part and possibly the most impressive of the Drakensberg mountain range rising to over 3 000 meters. Known to the Zulu people as Ukhahlamba, or 'Barrier of Spears', the Mountains of the Dragon provide a magnificent semi-circular border between KwaZulu-Natal and the inland mountain kingdom of Lesotho. The watershed of the basalt peaks divide the rains and snows, some flowing westwards over the alpine plateau of Lesotho towards the Atlantic Ocean, and some down the frequently vertical slopes into KwaZulu-Natal, towards the warm Indian Ocean.
 
@@ -20,9 +20,3 @@ The Northern Drakensberg consists of the regions:
 1. Mont-aux-Sources, Royal Natal National Park, Amphitheatre, Rugged Glen Nature Reserve
 
 2. Singati Valley, Ifidi, Mnweni & Ntonjelana valleys, the Mnweni cutback, Mponjwane, the Saddle
-
-*Part or or all of this text stems from the original article at: http://www.drakensberg-tourism.com/northern-drakensberg.html*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 09:12

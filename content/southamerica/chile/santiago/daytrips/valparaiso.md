@@ -12,7 +12,5 @@ Valparaíso was recently designated World wide patrimony and holds beautiful sig
 
 **Contributors**
 January 18, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: general

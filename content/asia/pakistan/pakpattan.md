@@ -1,0 +1,4 @@
+---
+title: "Pakpattan"
+type: location
+---

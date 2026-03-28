@@ -1,8 +1,6 @@
 ---
 title: "Kuopio"
 type: location
-latitude: 62.892463
-longitude: 27.67836
 ---
 
 The Kuopio region is situated in central Finland, in the verdant province of North Savo, which is interspersed with thousands of lakes. The region can be reached in less than an hour by air from Helsinki, the capital of Finland, and by road or rail the journey only takes a few hours.

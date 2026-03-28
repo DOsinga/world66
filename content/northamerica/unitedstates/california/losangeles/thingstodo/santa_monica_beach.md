@@ -12,8 +12,6 @@ Santa Monica Beach and Venice Beach are two of the most scenic public beaches in
 
 **Contributors**
 May 20, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Going to the Beach
 
@@ -26,5 +24,3 @@ url: [www.santamonicapier.org; http:](http://www.santamonicapier.org; http://www
 address: 200 Santa Monica Pier
 
 email: info@santamonicapier.org
-
-[back to Things to do](..)

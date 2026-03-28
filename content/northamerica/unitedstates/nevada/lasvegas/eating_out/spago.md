@@ -11,8 +11,6 @@ Spago is part of the Woflgang Puck restaurant empire, and to many this is Wolfga
 
 **Contributors**
 May 21, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: American
 
@@ -23,5 +21,3 @@ tel: 702-369-6300
 url: [www.wolfgangpuck.com](http://www.wolfgangpuck.com)
 
 address: 3500 Las Vegas Boulevard South, Caesars Palace
-
-[back to Eating Out](..)

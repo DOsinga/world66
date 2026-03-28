@@ -22,5 +22,3 @@ ClosingTime: 9-4am
 closingtime: 9-4am
 
 zipcode: www.demomix.com
-
-[back to Nightlife and Entertainment](..)

@@ -1,0 +1,4 @@
+---
+title: "Karratha"
+type: location
+---

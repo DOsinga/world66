@@ -14,5 +14,3 @@ Historical novel set at the time of the first missionaries to N.Z.
 author: Judy Corbalis
 
 isbn: 978-0749386788
-
-[back to Books](..)

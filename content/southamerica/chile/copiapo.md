@@ -1,0 +1,4 @@
+---
+title: "Copiapo"
+type: location
+---

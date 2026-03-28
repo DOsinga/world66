@@ -5,8 +5,6 @@ address: "19131 Dar es Salaam"
 email: "info@tourtanzania-safaris.com"
 phone: "+255 784 991576"
 url: "www.tourtanzania-safaris.com"
-latitude: -6.816084
-longitude: 39.280358
 ---
 
 **Day 1;-** Depart Dar to drive to Selous, On arrival check in at **Rufiji River Camp** The tented camp is situated in the north-eastern part of the Selous Game Reserve on a high bank overlooking the mighty Rufiji River and the plain beyond. The camp accommodates guests in 20 comfortable tents. Each tent has twin beds with mosquito nets, en-suite bathroom and a veranda facing the river. The central restaurant provides excellent cuisine. The camp makes maximum use of local materials, retaining an intimate relationship with the surrounding eco-system. Dinner and overnight at the Lodge
@@ -19,18 +17,6 @@ The reception/dining area contains Zanzibar beds for seating and there is a larg
 **Day 4:- **After breakfast drive to Mikumi arriving in time for lunch. After short game drive in the park. Dinner and overnight at **Vuma Hills Tented Camp** which situated in the spacious hillside of Mikumi National Park, just a mere 4 hours drive from Dar es salaam. Overlooking the Mkate plains and surrounding mountains. Each tent is designed to give you privacy and the comfort you desire with private bathrooms and hot water showers inside each tent along with custom made furniture. Wild animals can be seen on the camp grounds.
 OR** Kikoboga Lodge**; you can watch a procession of animals visiting the waterholes either from the comfort of your own verandah, having a cool drink at the bar or whilst dining.
 **Day 5:-** Full day game drive at Mikumi, This medium-sized park (650 sq mi/1,685 sq km) offers good viewing of giraffes, impalas, warthogs, elephants, lions, hippos and other animals, plus adequate accommodations at the Mikumi Wildlife Lodge.Dinner and overnight at **Vuma Hills Tented Camp** OR **Kikoboga Lodge. **
-**Day 6:- **After breakfast, drive back to Dar arriving late in the afternoon overnight at Peacock Hotel
-
-**Day 7:-** Transfer to International airport
-
-
-
-tel: +255 784 991576
-
-url: [www.tourtanzania-safaris.com](http://www.tourtanzania-safaris.com)
-
-address: 19131 Dar es Salaam
+**Day 6:- **After breakfast, drive address: 19131 Dar es Salaam
 
 email: info@tourtanzania-safaris.com
-
-[back to 7 Day Itinerary](..)

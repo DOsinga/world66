@@ -14,13 +14,5 @@ Amsterdam and Utrecht have direct connections.
 
 **Contributors**
 March 24, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

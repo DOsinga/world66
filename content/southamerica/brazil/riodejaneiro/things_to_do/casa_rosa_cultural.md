@@ -11,8 +11,6 @@ Rio de Janeiro is quite an amazing place. Imagine a huge, antique house that use
 
 **Contributors**
 November 30, 2007
-new
-by [doroloidl](/member/doroloidl)
 
 type: Other
 
@@ -25,5 +23,3 @@ tel: 8877 8804/ 2557 2562
 url: [www.casarosa.com.br](http://www.casarosa.com.br/)
 
 address: Rua ALice 550, Laranjeiras
-
-[back to Things to do](..)

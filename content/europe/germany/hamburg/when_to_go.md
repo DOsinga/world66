@@ -22,5 +22,3 @@ Wrap up warmly if you visit Hamburg in the winter because the winter months in H
 
 **Contributors**
 November 16, 2009
-new
-by [nicola76](/member/nicola76)

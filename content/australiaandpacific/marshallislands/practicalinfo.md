@@ -1,5 +1,5 @@
 ---
-title: "Practical Info"
+title: "Practical Information"
 type: location
 ---
 

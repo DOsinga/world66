@@ -5,8 +5,6 @@ address: "Burlingame Ave, Burlingame CA 94010"
 email: "lpardo@prmagic.com"
 phone: "650.344.1735"
 url: "www.burlingamechamber.org"
-latitude: 37.583321
-longitude: -122.340258
 ---
 
 The Burlingame Chamber of Commerce is proud to present the 16th annual Burlingame Art & Jazz Festival.
@@ -27,5 +25,3 @@ url: [www.burlingamechamber.org](http://www.burlingamechamber.org)
 address: Burlingame Ave, Burlingame CA 94010
 
 email: lpardo@prmagic.com
-
-[back to Special Events](..)

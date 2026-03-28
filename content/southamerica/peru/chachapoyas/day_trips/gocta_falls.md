@@ -11,11 +11,3 @@ The 770 meters high Gocta Falls in the world will not fail to impress you. The e
 
 **Contributors**
 February 19, 2007
-new
-by [joosts](/member/joosts) (2 points)
-
-
-
-
-
-[back to Day Trips](..)

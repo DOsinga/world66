@@ -1,9 +1,9 @@
 ---
 title: "Midway Islands"
 type: location
-latitude: 28.241754
-longitude: -177.37543
 ---
+
+"/>
 
 Midway is a small American atoll in the Pacific. For a long time it was not open to visitors, but it can now be reached by planbe from 
 

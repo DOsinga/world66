@@ -7,9 +7,3 @@ Take the Funicular up to San Vigilio for a breath-taking view of Città Alta Upp
 
 **Contributors**
 February 01, 2008
-new
-by [karenbru](/member/karenbru)
-
-
-
-[back to Getting Around](..)

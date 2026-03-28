@@ -16,5 +16,3 @@ type: Noble to decadent
 
 
 address: Zelinkagasse 4, 200m from Vienna Stock Exchange.
-
-[back to Nightlife and Entertainment](..)

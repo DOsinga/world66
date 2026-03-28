@@ -67,9 +67,5 @@ the Saint-Laurent Church, built in the 17th century.
 
 **Contributors**
 February 12, 2010
-change
-by [miss_frenchye](/member/miss_frenchye)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

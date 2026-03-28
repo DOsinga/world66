@@ -25,5 +25,3 @@ and can entertain for hours.
 
 **Contributors**
 October 16, 2005
-change
-by [bojo](/member/bojo)

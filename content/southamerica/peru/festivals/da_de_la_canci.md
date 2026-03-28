@@ -10,13 +10,9 @@ Criolla Music Day was designated to celebrate Peruvian music and folklore in 194
 
 **Contributors**
 October 31, 2008
-new
-by [approaching genius](/member/approaching_genius)
 
 
 
 
 
 date: October 31
-
-[back to Festivals](..)

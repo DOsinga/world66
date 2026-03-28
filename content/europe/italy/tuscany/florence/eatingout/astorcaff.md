@@ -10,5 +10,3 @@ address: Piazza Duomo, 20R, near Via dei Servi
 openinghours: Always open
 
 tel: +39 (0)55-239-9000
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Parakou"
+type: location
+---

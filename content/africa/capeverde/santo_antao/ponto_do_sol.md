@@ -14,6 +14,3 @@ The place where most people go for swimming is called **Prainha**. It's some sor
 Another place to swim is **Praia Da Lisboa** (*Beach of Lisbon*). You can reach it by boat, or by foot. The latter way is the least recommended, because it's a long walk and you have to go over very small 'goat' roads.
 
 Recent developments in the village are: a playground for children, an internetcafé and they're building a hotel.
-
-*Change history*
-Orginal article by [footie_chica](/member/footie_chica) on 23 January 05

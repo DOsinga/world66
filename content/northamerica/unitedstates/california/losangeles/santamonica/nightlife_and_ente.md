@@ -19,5 +19,3 @@ http://girlsnightout.sheckys.com/la/spring2010/
 
 **Contributors**
 April 26, 2010
-new
-by [girlsnightout](/member/girlsnightout)

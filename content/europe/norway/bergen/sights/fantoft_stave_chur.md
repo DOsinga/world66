@@ -9,9 +9,4 @@ This could be called a 'new' old church as the original was burnt down in 1992. 
 
 The url below is for stave churches generally.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 20 November 04
-
 url: [www.arild-hauge.com](http://www.arild-hauge.com/echurch.htm)
-
--->

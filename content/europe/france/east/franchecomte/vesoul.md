@@ -1,0 +1,4 @@
+---
+title: "Vesoul"
+type: location
+---

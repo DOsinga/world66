@@ -12,5 +12,3 @@ type: Cajun
 
 
 address: 209 SW Second St. (Nugent Ave.) Ft. Lauderdale,
-
-[back to Eating Out](..)

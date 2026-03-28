@@ -3,28 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+"/>
 
-Swaziland's national airline is *Royal Swazi National Airways Corporation (ZC). *
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-Approximate flight time
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-From Manzini to *London *is 16 hours including stopover.
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-International airport
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-*Manzini (MTS)* (Matsapha) 5km (3 miles) from the city. Airport facilities include banks/bureaux de change (0800-1645) restaurants car rental and snack bar. Taxi service is available at all arrivals.
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-Departure tax:
-
-E20. Children under 3 years old and transit passengers are exempt.
-
-Road
-
-There are good roads from Johannesburg Durban and northern KwaZulu-Natal as well as tourist buses running from KwaZulu-Natal and Mpumalanga.
-
-Bus
-
-There is a weekly
-
-service from Mbabane and Manzini to Johannesburg and a twice-weekly connection from Mbabane to Maputo.
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

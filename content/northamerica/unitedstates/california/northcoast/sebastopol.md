@@ -1,0 +1,4 @@
+---
+title: "Sebastopol"
+type: location
+---

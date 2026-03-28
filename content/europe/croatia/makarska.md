@@ -1,0 +1,4 @@
+---
+title: "Makarska"
+type: location
+---

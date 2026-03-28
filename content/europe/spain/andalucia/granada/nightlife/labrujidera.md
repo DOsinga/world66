@@ -3,8 +3,6 @@ title: "La Brujidera"
 type: poi
 address: "c/ Monjas del Carmen 2"
 type: "Bars & Cafes"
-latitude: 37.176003
-longitude: -3.596151
 ---
 
 type: Bars & Cafes
@@ -13,19 +11,10 @@ type: Bars & Cafes
 
 address: c/ Monjas del Carmen 2
 
-[back to Nightlife and Entertainment](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

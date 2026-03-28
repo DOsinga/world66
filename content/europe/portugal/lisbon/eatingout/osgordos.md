@@ -17,5 +17,3 @@ type: Italian
 address: R. 9 Abril - Ed. Solar Pinheiros, 220
 
 tel: +35 21 468 98 59
-
-[back to Eating Out](..)

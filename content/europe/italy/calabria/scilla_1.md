@@ -1,8 +1,6 @@
 ---
 title: "Scilla"
 type: location
-latitude: 38.25067
-longitude: 15.718993
 ---
 
 Perhaps Calabria's most picturesque fishing village. If you've read *The Odyssey*, you'll remember what a terrible time Ulysses had getting past Scylla and Charybdis, which flank what is now known as the Straits of Messina. When the atmospheric conditions are right, you can stand in Marina Grande, gaze out towards Sicily and see the Fata Morgana, an eery mirage that seems to be the city of Messina reflected (right-side up) in the sea waters.

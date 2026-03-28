@@ -27,5 +27,3 @@ Here is a point for your benefit, before you join in the festive celebrations. D
 
 **Contributors**
 February 17, 2010
-change
-by [gabriellet](/member/gabriellet)

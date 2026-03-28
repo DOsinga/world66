@@ -1,0 +1,4 @@
+---
+title: "Boghni"
+type: location
+---

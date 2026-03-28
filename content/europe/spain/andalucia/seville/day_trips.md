@@ -11,8 +11,6 @@ Spending several days exploring the city's surrounding areas during your Seville
 
 **Contributors**
 June 01, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Private Drivers Andalucia](/europe/spain/andalucia/seville/day_trips/private_drivers_an)
 

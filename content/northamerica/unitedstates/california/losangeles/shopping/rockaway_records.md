@@ -11,8 +11,6 @@ Rockaway Record Store is the source for vinyl, CD's, and tapes in just about eve
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Music
 
@@ -23,5 +21,3 @@ tel: 323-664-3232
 url: [www.rockaway.com](http://www.rockaway.com)
 
 address: 2395 Glendale Boulevard, Los Angeles
-
-[back to Shopping](..)

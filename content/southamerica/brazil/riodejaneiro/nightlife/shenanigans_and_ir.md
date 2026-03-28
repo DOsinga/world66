@@ -30,5 +30,3 @@ url: [www.shenanigans.com.br](http://www.shenanigans.com.br)
 address: Rua Visconde de Piraja 112A - Ipanema
 
 email: reservas@shenanigans.com.br
-
-[back to Nightlife and Entertainment](..)

@@ -19,5 +19,3 @@ type: Local
 tel: 327 3373
 
 address: Nassau Beach Hotel, Cable Beach
-
-[back to Eating Out](..)

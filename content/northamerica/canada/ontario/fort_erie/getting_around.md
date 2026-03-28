@@ -29,5 +29,3 @@ Fort Erie Transit operates a single line that serves key points throughout Fort 
 
 **Contributors**
 May 06, 2005
-new
-by [allamericanbear](/member/allamericanbear)

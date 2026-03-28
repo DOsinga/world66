@@ -7,5 +7,3 @@ Many people who visit Kansas City would agree that people are very friendly. We'
 
 **Contributors**
 April 23, 2004
-new
-by [jasnw4](/member/jasnw4) (1 point)

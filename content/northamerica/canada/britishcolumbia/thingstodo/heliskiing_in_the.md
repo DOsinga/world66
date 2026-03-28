@@ -19,13 +19,9 @@ accomodation, all meals, ski usage, and transportation from the airport.
 
 **Contributors**
 January 10, 2008
-new
-by [sentias](/member/sentias) (1 point)
 
 type: Skiing
 
 
 
 url: [amazingtours.rezgo.com](http://amazingtours.rezgo.com/2008/01/mountain-gourmet-heli-skiing-in-heaven.html)
-
-[back to Things to do](..)

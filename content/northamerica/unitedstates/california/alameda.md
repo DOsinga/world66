@@ -1,9 +1,9 @@
 ---
-title: "Alameda Travel Guide"
+title: "Alameda"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **
 An Oakland International Airport Hotel
@@ -48,9 +48,3 @@ University of California Berkeley, Merritt College, Mills College, California St
 
 Area Businesses:**
 Oakland International Airport, Oakland Convention Center, Kaiser Clorox, Port of Oakland
-
-*Part or or all of this text stems from the original article at: www.oaklandairporthi.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 19:33

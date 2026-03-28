@@ -52,5 +52,3 @@ address: Koberg 8
 Café with a grand view ** Joe Davis:** fabulous unexpected things!
 
 address: Alexanderstraße 2a
-
--->

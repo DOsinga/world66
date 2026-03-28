@@ -1,8 +1,6 @@
 ---
 title: "Ungersheim"
 type: location
-latitude: 47.877551
-longitude: 7.306572
 ---
 
 We currently have no information about Ungersheim.

@@ -42,5 +42,3 @@ long time if you're far away from Santa Marta.
 
 **Contributors**
 April 06, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

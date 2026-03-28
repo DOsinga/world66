@@ -15,5 +15,3 @@ AIR: Hamilton's Airport is rather small in size, but has regularly scheduled ser
 
 **Contributors**
 December 21, 2005
-new
-by [allamericanbear](/member/allamericanbear)

@@ -6,8 +6,6 @@ address: "3225 East Camelback Road Phoenix, AZ 85015"
 phone: "602-956-0836"
 price: "expensive"
 type: "Italian"
-latitude: 33.509883
-longitude: -112.011224
 ---
 
 Places to eat.
@@ -270,9 +268,7 @@ PriceOfMenu: fair
 
 ### [Macayo](/northamerica/unitedstates/arizona/phoenix/eating_out/macayo)
 
-Macayo is an amazing Mexican restaurant located in the southern part of Phoenix. When eating out in Phoenix, Mexican food is certainly a type of food that Phoenix is known for. Offering a variety of delicious yet traditional Mexican dishes, the history of Macayo extends back to the early 1940s. Offering up gift cards and other merchandise on your website, a Macayo gift card is the perfect way to treat a friend to the exquisite tastes of Macayo at any time they like. Macayo’s also offers Catering among other special services (including sponsoring select little league teams and [more..](/northamerica/unitedstates/arizona/phoenix/eating_out/macayo)
-
-type: Mexican
+Macayo is an amazing Mexican restaurant located in the southern part of Phoenix. When eating out in Phoenix, Mexican food is certainly a type of food that Phoenix is known for. Offering a variety of delicious yet traditional Mexican dishes, the history of Macayo extends type: Mexican
 
 
 

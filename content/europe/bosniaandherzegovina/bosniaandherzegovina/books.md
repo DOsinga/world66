@@ -64,5 +64,3 @@ author: Mark Pinson (Editor),Foreword by Roy P. Motta..
 isbn: 0932885128
 
 subject: history
-
--->

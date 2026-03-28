@@ -1,8 +1,6 @@
 ---
 title: "Paranaguá"
 type: location
-latitude: -25.514882
-longitude: -48.522669
 ---
 
 For many people Paranguá is just a port city, the end of the line from
@@ -15,5 +13,3 @@ in the catch of the day.
 
 **Contributors**
 June 17, 2005
-change
-by [jst](/member/jst)

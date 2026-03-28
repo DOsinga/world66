@@ -23,4 +23,4 @@ Amagi is a Japanese restaurant during the day and happening karaoke bar in durin
 
 **Atlas Supper Club**
 
-Atlas Supper Club is a very popular spot in the Hollywood area. The decor brings you back to the golden years. Most nights, you will find live jazz, R&B and hip hop artists. When Atlas Supper Club isn't featuring live music, the DJ is playing the hottest new tracks. Stop by the Atlas Supper Club a little early to get a fabulous dinner featuring dishes from the Caribbean and Asia. The Atlas Supper Club is a must if you are looking for great food and great entertainment.
+Atlas Supper Club is a very popular spot in the Hollywood area. The decor brings you

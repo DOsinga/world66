@@ -1,6 +1,6 @@
 ---
 title: "Sydney"
-type: location
+type: poi
 address: "27/3 Toumanian St."
 type: "Dancing"
 ---
@@ -14,5 +14,3 @@ type: Dancing
 
 
 address: 27/3 Toumanian St.
-
-[back to Nightlife and Entertainment](..)

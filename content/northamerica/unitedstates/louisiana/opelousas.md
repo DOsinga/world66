@@ -1,9 +1,9 @@
 ---
-title: "Opelousas Travel Guide"
+title: "Opelousas"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Opelousas is a great place to visit. Whether it's a toe-tappin'
 festival, great cuisine, a night out for horse racing or just havin' fun
@@ -18,11 +18,3 @@ Baton Rouge, Opelousas is located in the heart of Acadiana.
 Discover the history, eat delicious Cajun and Creole food and enjoy the
 numerous fairs, festivals and activities that celebrate the *"joie de
 vivre"* of Louisiana's third oldest city.
-
-#### Contributors
-
-June 28, 2007 new by [mehul](/member/mehul)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:23

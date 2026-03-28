@@ -7,6 +7,4 @@ Lower elevations, too, can offer high-level entertainment. More than 280 acres o
 
  Drive to Redlands to see the Marmalade Mansions, 300 restored Victorian-era homes built by early residents who became wealthy in the citrus industry. On your way, stop at the San Bernardino County Museum to learn about regional archaeology, geology, history, and art. Also, check out the Asistencia, an 1830s outpost of Los Angeles' Mission San Gabriel.
 
-  The nearby communities of [Yucaipa](/northamerica/unitedstates/california/inlandempire/yucaipa), Oak Glen, and Cherry Valley comprise the region's apple-orchard country. You'll find farms that invite you to pick your own fruit, sip cider or specialty wines, enjoy folk entertainment, and take a hayride.   
-
--->
+  The nearby communities of [Yucaipa](/northamerica/unitedstates/california/inlandempire/yucaipa), Oak Glen, and Cherry Valley comprise the region's apple-orchard country. You'll find farms that invite you to pick your own fruit, sip cider or specialty wines, enjoy folk entertainment, and take a hayride.

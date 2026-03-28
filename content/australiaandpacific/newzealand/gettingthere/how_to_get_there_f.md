@@ -27,9 +27,3 @@ adventurous route via Bangkok.
 Although the only real regional one-stop connection to New Zealand is from Manchester via Singapore with Singapore airlines.
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

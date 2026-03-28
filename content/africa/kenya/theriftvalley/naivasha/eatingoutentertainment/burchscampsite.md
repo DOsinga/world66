@@ -25,5 +25,3 @@ tel: 272 8775
 PriceOfMenu: Reasonable
 
 email: info@lakenaivasharesort.com
-
-[back to Eating Out](..)

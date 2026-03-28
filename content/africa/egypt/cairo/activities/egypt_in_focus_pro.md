@@ -6,8 +6,6 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Other"
 url: "www.egyptonthemove.com"
-latitude: 30.044388
-longitude: 31.235726
 ---
 
 Brief Itinerary:
@@ -34,5 +32,3 @@ url: [www.egyptonthemove.com](http://www.egyptonthemove.com/en/classical/egypt-i
 address: cairo
 
 email: adsense@seoera.net
-
-[back to Things to do](..)

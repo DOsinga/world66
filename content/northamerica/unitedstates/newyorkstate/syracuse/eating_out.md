@@ -5,9 +5,6 @@ type: section
 
 There are a lot of places to eat out in Syracuse, NY.
 
-*Change history*
-Orginal article by [Brokenme](/member/brokenme) on 19 May 04
-
 **all**
 
 **Panera Bread**

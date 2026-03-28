@@ -8,8 +8,6 @@ The center of Dover is small. There are a couple of interesting sights though.
 
 **Contributors**
 October 10, 2005
-new
-by [hpharmsen](/member/hpharmsen)
 
 ### White cliffs
 

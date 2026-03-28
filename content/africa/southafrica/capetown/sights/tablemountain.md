@@ -14,5 +14,3 @@ The first thing that springs to mind when thinking of Cape Town is perhaps Table
  On top of Table Mountain, you can enjoy a cold drink from the bar, look at the 'klipdassies' (hyraxes, small rodents) and take in the view. 
 
 address: Cape Town
-
--->

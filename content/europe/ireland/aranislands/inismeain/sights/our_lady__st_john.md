@@ -12,5 +12,3 @@ There has been no priest resident full-time on the island since the late 1990s. 
 openings: Daily 8am-dark
 
 tel: (099) 73008
-
--->

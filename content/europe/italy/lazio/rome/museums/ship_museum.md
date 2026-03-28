@@ -9,13 +9,9 @@ Display of four Roman cargo ships found during the excavations of the ancient ha
 
 **Contributors**
 July 07, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 
 
 
 
 address: Via A. Guidoni 35 - Fiumicino Airport
-
-[back to Museums](..)

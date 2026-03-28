@@ -5,8 +5,6 @@ address: "3,rue de l'église 4000 Sousse Medina Tunisie"
 email: "perleshopping_sousse@yahoo.fr"
 phone: "0021673200900"
 type: "Shopping centers and malls"
-latitude: 35.827557
-longitude: 10.639277
 ---
 
 Sousse is not only best known for its beaches but also for its great finds when you do some real time **Sousse shopping.** &ldquo;The Pearl of the Sahel,&rdquo; as it is called, is home to Roman and Punic archeological finds. Though these are not necessarily for sale, you can find and buy other exotic items that range from art, handicrafts, carpets and other items that will always remind you of your wonderful stay in Sousse.

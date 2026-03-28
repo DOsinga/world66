@@ -18,8 +18,6 @@ most visited.
 
 **Contributors**
 October 14, 2005
-new
-by [patrickneil](/member/patrickneil)
 
 type: Memorials
 
@@ -34,5 +32,3 @@ openingHours: Open Daily 8 a.m. to midnight, closed December 25
 url: [www.nps.gov](http://www.nps.gov/thje/)
 
 address: East Basin Drive SW
-
-[back to Sights](..)

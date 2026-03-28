@@ -9,8 +9,6 @@ url: "www.nps.gov"
 
 **Contributors**
 August 03, 2009
-new
-by [mantecacvb](/member/mantecacvb)
 
 
 
@@ -19,5 +17,3 @@ by [mantecacvb](/member/mantecacvb)
 tel: 209-372-0265
 
 url: [www.nps.gov](http://www.nps.gov/yose/)
-
-[back to Day Trips](..)

@@ -15,5 +15,3 @@ Tower of the Boyfriends
 
 **Contributors**
 August 22, 2005
-new
-by [giorgio](/member/giorgio)

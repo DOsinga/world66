@@ -37,5 +37,3 @@ Lake Maggiore is the second largest beach in Switzerland after Lake Geneva. The 
 
 **Contributors**
 February 26, 2010
-new
-by [piyushjain](/member/piyushjain_)

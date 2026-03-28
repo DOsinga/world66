@@ -9,5 +9,3 @@ Top Quality Medical Marijuana Strains,Hash and Cannabis Oil for sale!! Call/Text
 
 
 email: weedspot2@gmail.com
-
-[back to Getting Around](..)

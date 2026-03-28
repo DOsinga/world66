@@ -11,5 +11,3 @@ The Louisiana Folklife Festival highlights the continuing work of the Louisiana 
 
 **Contributors**
 January 19, 2005
-new
-by [gambit242](/member/gambit242) (1 point)

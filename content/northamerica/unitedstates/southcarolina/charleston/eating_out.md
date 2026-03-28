@@ -9,5 +9,3 @@ Famous Charleston restaurants include McCrady’s, which was built in 1788 and w
 
 **Contributors**
 May 25, 2009
-new
-by [harding](/member/harding)

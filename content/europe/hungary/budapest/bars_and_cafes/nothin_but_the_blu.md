@@ -10,8 +10,6 @@ Budapest's only authentic English pub has just opened. The Queen Vic is a cool n
 
 **Contributors**
 January 06, 2009
-change
-by [bluesmagoo](/member/bluesmagoo)
 
 
 
@@ -22,5 +20,3 @@ accessibility: Mon-Sat: 11:00am-2:00am, Sun: 12:00-23:00
 tel: 06-1-7847793
 
 address: Kertez utca 33 7th District
-
-[back to Bars and Cafes](..)

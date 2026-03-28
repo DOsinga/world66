@@ -11,5 +11,3 @@ More info about the capital and the province at: http://www.argentinaturistica.c
 
 **Contributors**
 February 25, 2005
-new
-by [almafuerte](/member/almafuerte)

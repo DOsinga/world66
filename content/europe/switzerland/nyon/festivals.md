@@ -15,8 +15,6 @@ There is also a documentary film festival.
 
 **Contributors**
 August 01, 2005
-new
-by [warzabidul](/member/warzabidul)
 
 ### [Le Caribana Festival](/europe/switzerland/nyon/festivals/le_caribana_festiv)
 

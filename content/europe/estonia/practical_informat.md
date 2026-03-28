@@ -19,12 +19,8 @@ What is your name? - Mis on teie nimi?
 
 **Contributors**
 August 28, 2005
-change
-by [gika](/member/gika)
 
 November 05, 2006
-change
-by [conny91](/member/conny91)
 
 **Currency**
 

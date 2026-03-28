@@ -1,8 +1,6 @@
 ---
 title: "Corn islands"
 type: location
-latitude: 12.166391
-longitude: -83.058488
 ---
 
 ex

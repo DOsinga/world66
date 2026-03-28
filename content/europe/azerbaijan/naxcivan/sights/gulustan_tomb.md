@@ -15,11 +15,5 @@ surrounded with hollow bands of stalactite shape.
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Graves and Cemeteries
-
-
-
-[back to Sights](..)

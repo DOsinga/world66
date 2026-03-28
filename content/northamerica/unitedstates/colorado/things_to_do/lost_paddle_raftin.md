@@ -24,5 +24,3 @@ url: [www.lostpaddlerafting.com](http://www.lostpaddlerafting.com)
 address: 1420 Royal Gorge Blvd.
 
 email: info@lostpaddlerafting.com
-
-[back to Things to do](..)

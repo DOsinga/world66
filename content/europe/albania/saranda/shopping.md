@@ -57,5 +57,3 @@ international labels and brands.
 
 **Contributors**
 April 17, 2010
-new
-by [2 many commas](/member/2_many_commas)

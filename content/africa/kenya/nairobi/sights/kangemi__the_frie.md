@@ -22,5 +22,3 @@ type: Hotspots
 url: [kangemi-slum-tours.freehostia.com](http://kangemi-slum-tours.freehostia.com)
 
 email: kangemi-slum-tours@gmx.com
-
-[back to Sights](..)

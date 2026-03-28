@@ -48,5 +48,3 @@ to explore Munich before heading home.
 
 **Contributors**
 January 15, 2010
-change
-by [cjr236](/member/cjr236)

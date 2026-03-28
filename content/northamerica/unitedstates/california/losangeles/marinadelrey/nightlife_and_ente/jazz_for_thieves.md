@@ -38,5 +38,3 @@ accessibility: ALL - first floor, door directly on valet parking lot
 address: 4211 Admiralty Way
 
 email: jenniferscabaret@yahoo.com
-
-[back to Nightlife and Entertainment](..)

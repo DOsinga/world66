@@ -17,9 +17,4 @@ Tango World is an exuberant celebration of this most passionate of dances. Runni
 
 Previous festivals have featured the most famous dancers in the world: Gustavo Naveira and Giselle Anne, Osvaldo Zotto and Lorena Ermocida, Alejandra Mantinan and Gustavo Russo, Pedro and Marcela Monteleone, Alejandro Aquino, Leo e Eugenia, Alejandro Sanguineti and also: Ensemble Hyperion Livin' tango, Quejas de Bandoneon Quintet, the writer Meri Lao, Felix Picherna, Patricio Lolli, Margareta Bordons and many others. How can you resist? 
 
-*Change history*
-Orginal article by [PeteD](/member/peted) on 18 September 04
-
-Minor corrections by [PeteD](/member/peted) on 18 September 04
-
--->
+Minor corrections on 18 September 04

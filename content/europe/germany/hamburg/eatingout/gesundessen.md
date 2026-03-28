@@ -12,7 +12,3 @@ url: [www.demaco.de](http://www.demaco.de/hh/gesundessen)
 tel: 040 - 451324
 
 zipcode: 20146 Hamburg - Rotherbaum
-
-[back to Eating Out](..)
-
--->

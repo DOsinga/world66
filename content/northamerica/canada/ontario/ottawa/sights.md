@@ -12,5 +12,3 @@ Through its vast archaeological, ethnological, folkloric and historical collecti
 **"Aboriginal Experiences"**
 
 Guided tour of native village.  Traditional Native lunch with a choice of buffalo, caribou or smoked arctic char (fish) with wild rice salad and Inuit tea or juice.  Interactive demonstration of traditional native dancing, including audience participation.  One on one workshop in creating a dream catcher or other craft of choice.  [more..](/northamerica/canada/ontario/ottawa/sights/aboriginalexperiences)
-
--->

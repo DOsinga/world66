@@ -17,5 +17,3 @@ url: [www.bergamotour.it](http://www.bergamotour.it/it/itinerari.htm)
 address: ASCOM Bergamo, via Borgo Palazzo, 137 - Bergamo
 
 email: info@bergamotour.it
-
-[back to Tours and Excursions](..)

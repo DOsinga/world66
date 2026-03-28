@@ -86,5 +86,3 @@ url: [www.EgyptianDailyTours.com](http://www.EgyptianDailyTours.com)
 address: 37 Pyramids street, Giza, Egypt.
 
 email: info@EgyptianDailytours.com
-
-[back to Things to do](..)

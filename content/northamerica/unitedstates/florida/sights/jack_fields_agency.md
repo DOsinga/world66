@@ -8,20 +8,4 @@ phone: "407-870-5534"
 type: "Public Buildings"
 ---
 
-Located in quaint downtown Kissimmee, Jack Fields Agency is among some of the most historic storefronts, with most buildings built around 1900. Take a stroll down Main St. and you'll be transported back to the early 1900's where storefronts are friendly and inviting, each specializing in their own trade. Don't forget to stop by The Someday Shop and say hi to Jan.
-
-type: Public Buildings
-
-
-
-
-
-tel: 407-870-5534
-
-openingHours: 9am-5pm
-
-address: 10 E Monument Ave.
-
-email: druffej@nationwide.com
-
-[back to Sights](..)
+Located in quaint downtown Kissimmee, Jack Fields Agency is among some of the most historic storefronts, with most buildings built around 1900. Take a stroll down Main St. and you'll be transported

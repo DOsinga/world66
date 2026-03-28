@@ -18,5 +18,3 @@ date: 05/11/2015
 address: P.O. Box 1589, LA 70821, Baton Rouge
 
 email: info@batonrougebluesfetival.org
-
-[back to Festivals](..)

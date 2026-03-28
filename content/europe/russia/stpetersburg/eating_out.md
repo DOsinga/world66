@@ -1,6 +1,9 @@
 ---
 title: "Eating Out"
 type: section
+address: "Kronverkskiy pr. 53 (Gorkovskaya metro)"
+opening_hours: "daily 11:00 -22:00"
+phone: "812 232 8090"
 ---
 
 Having a good meal in St. Petersburg has never been a problem because there are wide varieties of places to dine in the city.
@@ -19,5 +22,5 @@ Having a good meal in St. Petersburg has never been a problem because there are 
 
 ## Categories
 
+[American](/europe/russia/stpetersburg/eatingout?subsection=American)
 [Fast food](/europe/russia/stpetersburg/eatingout?subsection=Fast%20food)
-[Russian](/europe/russia/stpetersburg/eatingout?subsection=Russian)

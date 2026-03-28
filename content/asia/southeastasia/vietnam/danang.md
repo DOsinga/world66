@@ -1,8 +1,0 @@
----
-title: "Da nang"
-type: location
----
-
-**Danang** is located on the central coast of Vietnam, midway between [Hanoi](/asia/southeastasia/vietnam/hanoi) and [Ho Chi Minh City](/asia/southeastasia/vietnam/hochiminhcity). It has an excellent airport with regular flights from both major cities. There are also some international flights to Danang.  In Danang city, visit the **Cham museum** to learn about one of Vietnam's many ethnic minority groups. **China Beach** is a few kilometres to the south of the city. Marble Mountain is also within close range. The ancient city of [Hoi an](/asia/southeastasia/vietnam/hoian) is about one hour by car. The hamlet of **My Lai** is a few hours to the south of Danang in the province of Quang Ngai.   Rental cars (modern and air-conditioned) are readily available and affordable in Danang and include a driver who knows the area and local traffic customs. 
-
- Danang is one of the most popular beach in Vietnam could be one reason of Furama Beach Resort. The resort is built directly on the beach with two swimming pools, International Restaurants and health and spa club, massage, private beach and the most fantastics thing about the resort is the staff there are so friendly. Expats from Hanoi and Ho Chi Minh have been to Furama at least once if they have been in Vietnam for 6 months.   To the north of Danang on Highway One is the famous **Pass of Ocean Clouds**, a spectacular sight. Hue, the ancient imperial city is a few hours to the north by car, bus or train.

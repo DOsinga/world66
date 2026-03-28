@@ -23,5 +23,3 @@ Because Belize City is located near many gorgeous beaches, a wonderful activity 
 
 **Contributors**
 April 09, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

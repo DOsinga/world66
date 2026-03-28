@@ -34,8 +34,6 @@ is the Euro (EUR).
 
 **Contributors**
 March 17, 2009
-new
-by [italiantraveller](/member/italiantraveller)
 
 ### [Café Restaurant Van Gogh](/europe/italy/sardinia/practical_informat/caf_restaurant_v)
 

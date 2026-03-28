@@ -12,8 +12,6 @@ The Steel Bridge was built in 1888 and was used to carry trains across the Willa
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Hotspots
 
@@ -26,5 +24,3 @@ openingHours: 24 hours daily
 url: [egov.oregon.gov](http://egov.oregon.gov/ODOT/HWY/GEOENVIRONMENTAL/historic_bridges_Portland1.shtml#Steel_Bridge)
 
 address: Route 99 Portland, OR 97209
-
-[back to Sights](..)

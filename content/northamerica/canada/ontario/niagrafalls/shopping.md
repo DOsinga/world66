@@ -5,16 +5,12 @@ address: "6853 Lundy's lane"
 email: "g.logreco@yahoo.ca"
 phone: "905-356-6789"
 type: "Speciality shops"
-latitude: 45.198811
-longitude: -75.833084
 ---
 
 Shopping in Niagara Falls
 
 **Contributors**
 October 07, 2006
-new
-by [lynns](/member/lynns)
 
 ### [Gio Monte Models boutique](/northamerica/canada/ontario/niagrafalls/shopping/gio_monte_models_b)
 

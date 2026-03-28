@@ -11,8 +11,6 @@ Considered the shortest railway in the world, Angels Flight Railway is a turn-of
 
 **Contributors**
 May 20, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -23,5 +21,3 @@ openingHours: Daily 6:30 a.m. -10:00 p.m.
 url: [www.lacity.org](http://www.lacity.org/ANGELSWALK/11.htm)
 
 address: 351 South Hill Street, between Third and Fourth Streets
-
-[back to Sights](..)

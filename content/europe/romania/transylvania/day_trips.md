@@ -45,5 +45,3 @@ wild!
 
 **Contributors**
 August 21, 2006
-change
-by [giorgio](/member/giorgio)

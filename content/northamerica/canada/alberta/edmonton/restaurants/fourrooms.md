@@ -1,6 +1,6 @@
 ---
 title: "Four Rooms ."
-type: location
+type: poi
 type: "general"
 ---
 

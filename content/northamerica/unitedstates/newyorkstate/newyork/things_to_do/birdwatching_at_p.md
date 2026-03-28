@@ -11,8 +11,6 @@ Besides taking an electric boat ride or renting a pedal boat for exploration, Pr
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -23,5 +21,3 @@ tel: 718-287-3400
 url: [www.prospectparkaudubon.com](http://www.prospectparkaudubon.com)
 
 address: Enter on Lincoln Road or Flatbush Avenue at Empire Boulevard
-
-[back to Things to do](..)

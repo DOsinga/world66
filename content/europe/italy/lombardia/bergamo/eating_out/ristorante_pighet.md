@@ -7,8 +7,6 @@ phone: "035 51 63 55"
 price: "€31 more or less"
 type: "Italian"
 url: "www.pighet.it"
-latitude: 45.723509
-longitude: 9.659977
 ---
 
 This restaurant on a hill surrounded by nature and with a panoramic view has seating for 230 people on the veranda outdoors, 40 on the ground floor and 80 people on the upper floor. You can also have wedding receptions, work meeting luncheons, birthday parties, graduation parties, first communion parties, dinners with dancing music, wedding anniversaries and baptism receptions.
@@ -30,5 +28,3 @@ address: Via Maresana, Ponteranica (Bergamo)
 PriceOfMenu: €31 more or less
 
 email:
-
-[back to Eating Out](..)

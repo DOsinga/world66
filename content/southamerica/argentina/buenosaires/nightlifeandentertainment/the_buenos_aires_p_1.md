@@ -25,8 +25,6 @@ Lastly, the pub crawl is free for those who choose to celebrate their birthday w
 
 **Contributors**
 July 22, 2008
-new
-by [pub crawl](/member/pub_crawl)
 
 type: Pubs
 
@@ -41,5 +39,3 @@ accessibility: See Website
 address: See Website
 
 email: pubcrawlBA@gmail.com
-
-[back to Nightlife and Entertainment](..)

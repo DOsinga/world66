@@ -20,5 +20,3 @@ address: River Tejo border in Belem
 url: [http:](http:// http://www.cidadevirtual.pt/mosteiro-jeronimos/belem.english.html)
 
 tel: +35 21 301 68 92
-
-[back to Sights](..)

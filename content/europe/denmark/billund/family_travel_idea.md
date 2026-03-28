@@ -23,9 +23,5 @@ Billund is truly a remarkable destination for family vacations due to its fantas
 
 **Contributors**
 February 04, 2010
-new
-by [sameera kumar](/member/sameera_kumar)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

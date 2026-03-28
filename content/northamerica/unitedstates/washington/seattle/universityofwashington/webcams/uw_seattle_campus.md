@@ -1,6 +1,6 @@
 ---
 title: "UW Seattle Campus- Red Square"
-type: location
+type: poi
 url: "www.washington.edu"
 ---
 
@@ -13,11 +13,7 @@ area between both buildings known as Rainier Vista.
 
 **Contributors**
 June 02, 2005
-new
-by [minlee](/member/minlee)
 
 
 
 url: [www.washington.edu](http://www.washington.edu/cambots/camera1_l.gif)
-
-[back to Webcams](..)

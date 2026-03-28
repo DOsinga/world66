@@ -8,13 +8,5 @@ Adelaide has a new state of the art international airport which opened in Octobe
 
 **Contributors**
 March 12, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

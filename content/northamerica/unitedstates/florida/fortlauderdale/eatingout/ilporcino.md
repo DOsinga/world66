@@ -12,5 +12,3 @@ type: Italian
 
 
 address: 1933 University Drive
-
-[back to Eating Out](..)

@@ -9,8 +9,6 @@ Anyone interested in orchids must visit the Villena family in their greenhouse V
 
 **Contributors**
 February 14, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Agro Oriente Viveros](/southamerica/peru/moyobamba/sights/agro_oriente_viver)
 

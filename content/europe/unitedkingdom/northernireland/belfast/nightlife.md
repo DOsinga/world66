@@ -7,5 +7,5 @@ phone: "(028) 9032 3211"
 
 **Display all** or display just...
 
-[ Bars & Cafes](/europe/unitedkingdom/northernireland/belfast/nightlife?subsection=%20Bars%20%26%20Cafes)
-[Casinos](/europe/unitedkingdom/northernireland/belfast/nightlife?subsection=Casinos)
+[ Bars & Cafes](/world/europe/unitedkingdom/northernireland/belfast/nightlife?subsection=%20Bars%20%26%20Cafes)
+[Casinos](/world/europe/unitedkingdom/northernireland/belfast/nightlife?subsection=Casinos)

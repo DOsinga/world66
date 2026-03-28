@@ -10,9 +10,6 @@ zipcode: "4558956546"
 
 Hamburg has many museums.
 
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 21 February 05
-
 ### Museum of Steffen
 
 It is nice.

@@ -29,5 +29,3 @@ address: Shop#16,Tivoli Arcade 235-251 Bourke Street
 Melbourne - Victoria 3000
 
 url: [www.cartoon-internet.net](http://www.cartoon-internet.net)
-
-[back to Internet Cafes](..)

@@ -1,9 +1,9 @@
 ---
-title: "Saylac (Zeila) Travel Guide"
+title: "Saylac (Zeila)"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Saylac (Zeila) is a city on the Gulf of Aden coast in the Awdal
 Region of northern Somalia , and as of 2006 is part of Republic of
@@ -22,18 +22,7 @@ Since the war, Zeila has been bombed frequently and nearly all the
 buildings were either demolished or semi-demolished. Residents fled the
 town and emigrated to neighbouring countries such as Djibouti . However
 when Somaliland was declared a separate country from Somalia residents
-went back to Zeila and rebuilt their town. Remittance money sent from
-overseas relatives contributed tremendously in the reconstruction of
-the town as well as the trade and fishing industry.
-
-**History:** Zeila has been identified with what was
-called in Classical Antiquity the city of the Avalitae . According to
-Richard Pankhurst, the city first appears under its own name at least
-as early as 891 , when the geographer al-Ya'qubi mentions Zeila in his
-Kitab al-Balden ("Book of the countries"). [2] Zeila is described by
-successive geographers who include al-Mas'udi , who wrote his Murugal
-al-Dahab wa-Ma'adin al-Guwahir ("Meadows of Gold and Mines of Precious
-Stones") c. 935 ; and Ibn Hawqal who described it as the port of
+went c. 935 ; and Ibn Hawqal who described it as the port of
 embarkation from Ethiopia for Hijaz and Yemen in his Kitab Surat
 al-'Ard ("Configuration of the Earth"), which he completed in 988 .
 
@@ -94,11 +83,3 @@ the town in picturesque procession. ... [Zeila's] imports, which reach
 Zaila chiefly via Aden, are mainly cotton goods, rice , jowaree , dates
 and silk ; the exports, 90% of which are from Abyssinia, are
 principally coffee , skins , ivory , cattle , ghee and mother-of-pearl .
-
-#### Contributors
-
-January 03, 2007 new by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 10:44

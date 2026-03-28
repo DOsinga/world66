@@ -1,0 +1,4 @@
+---
+title: "Campbellford"
+type: location
+---

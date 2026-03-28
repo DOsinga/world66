@@ -11,6 +11,4 @@ North of Salvador is the fishing village of Praia do Forte which borders the Sap
 
 **{Itaparica} **
 
-Several nice beaches and a great view of Salvador across the bay from this island.  
-
--->
+Several nice beaches and a great view of Salvador across the bay from this island.

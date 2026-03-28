@@ -31,9 +31,5 @@ Located near Vejle, this café offers beer, cappuccino, cakes, sandwiches and Ir
 
 **Contributors**
 February 04, 2010
-new
-by [sameera kumar](/member/sameera_kumar)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

@@ -1,8 +1,6 @@
 ---
 title: "Sabratha"
 type: location
-latitude: 32.805249
-longitude: 12.485202
 ---
 
 We currently have no information about Sabratha.

@@ -9,8 +9,6 @@ In Trollhättan as in most cities there is a number of bars and cafes.
 
 **Contributors**
 May 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Cafe Strandgatan](/europe/sweden/trollhttan/bars_and_cafes/strandgatan)
 

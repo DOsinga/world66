@@ -7,8 +7,6 @@ phone: "050-3603631"
 price: "18,50"
 type: "Indonesian"
 url: "www.javaanseetcafegroningen.nl"
-latitude: 53.218043
-longitude: 6.572651
 ---
 
 Indonesisch eten in Groningen is een geweldige ervaring bij Javaans Eetcafe Groningen. Wij zijn al bijna 10 jaar een begrip bij de liefhebbers van de traditionele indonesische keuken en sfeer.
@@ -43,5 +41,3 @@ address: schuitendiep 33
 PriceOfMenu: 18,50
 
 email: paulvandevegte@gmail.com
-
-[back to Eating Out](..)

@@ -78,9 +78,3 @@ tel: (39) 0124 330102
 fax: (39) 011 4593675
 
 tel: (39) 011 496272
-
-## Subsections
-
-[Museums](/europe/italy/piemonte/turin/sights/museums)
-
-[Parks & Gardens](/europe/italy/piemonte/turin/sights/parksgardens)

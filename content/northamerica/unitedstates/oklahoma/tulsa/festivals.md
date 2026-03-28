@@ -12,8 +12,6 @@ Many festivals and events can be found in Tulsa throughout the year. Mayfest, Ju
 
 **Contributors**
 December 18, 2006
-change
-by [approaching genius](/member/approaching_genius) (3 points)
 
 ### [Christmas Lights in the Park](/northamerica/unitedstates/oklahoma/tulsa/festivals/christmas_lights_i)
 

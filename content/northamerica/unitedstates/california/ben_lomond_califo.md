@@ -19,5 +19,3 @@ Well worth a visit.
 
 **Contributors**
 November 03, 2005
-change
-by [lizalee](/member/lizalee)

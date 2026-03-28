@@ -1,9 +1,9 @@
 ---
-title: "Best Western Rockville Travel Guide"
+title: "Best Western Rockville"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Best Western Rockville**
 
@@ -24,9 +24,3 @@ www.bestwesternrockville.com
 **Address**:- 1251 West Montgomery Avenue, Rockville, MD 20850
 **Toll free**: 800-366-1251
 **E-mail**:- bestwesternrockville@milestoneinternet.com
-
-*Part or or all of this text stems from the original article at: Rockville, Maryland Hotel*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 16:01

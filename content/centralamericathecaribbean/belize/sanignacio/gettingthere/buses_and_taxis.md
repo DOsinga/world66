@@ -22,11 +22,5 @@ transportation.
 
 **Contributors**
 January 13, 2006
-new
-by [vanessa66](/member/vanessa66)
 
 type: By Road
-
-
-
-[back to Getting There](..)

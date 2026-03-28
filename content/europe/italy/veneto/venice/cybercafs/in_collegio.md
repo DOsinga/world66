@@ -16,5 +16,3 @@ tel: 0368-3465966
 
 address: via Petrarca 9
 PD
-
-[back to Internet Cafes](..)

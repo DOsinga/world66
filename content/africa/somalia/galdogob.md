@@ -1,7 +1,9 @@
 ---
-title: "Galdogob Travel Guide"
+title: "Galdogob"
 type: location
 ---
+
+Travel Guide
 
 Goldogob is the second largest city in the Mudug region of Somalia . It lies approximately 16 kilometers southeast of the border with Ethiopia , and it is a strategic border city.
 

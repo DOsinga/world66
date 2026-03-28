@@ -8,8 +8,6 @@ Here are a few suggestions for your nightlife.
 
 **Contributors**
 March 29, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 ### Spotlight Karaoke Club
 

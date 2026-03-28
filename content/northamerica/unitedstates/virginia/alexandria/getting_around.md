@@ -7,5 +7,3 @@ If you are tired of standing still in Alexandria’s traffic and want a new and 
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)

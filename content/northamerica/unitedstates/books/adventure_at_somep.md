@@ -11,5 +11,3 @@ a childrens book that finds a couple of cute mice in all kinds of mishaps around
 
 
 author: joe rakes
-
-[back to Books](..)

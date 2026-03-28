@@ -1,7 +1,9 @@
 ---
-title: "San Jose Travel Guide"
+title: "San Jose"
 type: location
 ---
+
+Travel Guide
 
 In San Jose-the heart of Silicon Valley-take the family to the Tech Museum of Innovation, loaded with interactive exhibits. Children also love the Children's Discovery Museum and the Winchester Mystery House, a rambling, 160-room Victorian mansion.
 
@@ -24,13 +26,7 @@ San José is a City proud of the cultural and ethnic diversity of its population
 
 San Jose is also home to many artists working in all kinds of media. Check out Works, ICA, Gallery AD, or MACLA to see work by local as well as global artists. SJSU's Cadre labs and C5 are walking the fine line between art and technology. Internation Symposium of Electronic Art has chosen San Jose for it's world renowned symposium in 2006. San Jose's Public Art program is the largest of its kind. The Zero One Festival will transform San Jose into the North American epicenter for the intersection of art and digital culture by showcasing the world's most innovative contemporary artists. ZeroOne San Jose is artists making art and using technology as a tool to do so. It is not technology for technology's sake. ZeroOne San Jose is a multi-dimensional, startling and brilliant audience event - with exhibits, live cinema, performances, workshops, and youth activities. All are one-of-a-kind, many never-before, only-here experiences.
 
-*Part or or all of this text stems from the original article at: http://www.world66.com/northamerica/unitedstates/california/sanfranciscobayarea/sanjose*
-
 **Contributors**
 December 15, 2006
-new
-by [approaching genius](/member/approaching_genius) (4 points)
 
 July 08, 2007
-change
-by [crlauer](/member/crlauer)

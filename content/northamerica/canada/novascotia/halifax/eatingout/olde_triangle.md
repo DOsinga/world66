@@ -22,5 +22,3 @@ tel: 492-4900
 url: [www.oldtriangle.com](http://www.oldtriangle.com/)
 
 address: 5136 Prince Street/Bedford Row
-
-[back to Eating Out](..)

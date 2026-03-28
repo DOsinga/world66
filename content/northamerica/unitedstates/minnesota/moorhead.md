@@ -1,9 +1,9 @@
 ---
-title: "Moorhead Travel Guide"
+title: "Moorhead"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Moorhead, Minnesota, is at a crossroads: a natural crossing point of the Red River of the North, a place where Minnesota and the Dakotas meet. Today, that's made us a transportation and business hub. But in the old days, it was a different-and wilder!-story.
 
@@ -20,8 +20,3 @@ Moorhead's population is now 32,177. More than 140,000 people live in the Fargo-
 
 More information on
 *Moorhead Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 05:01

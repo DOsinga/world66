@@ -1,0 +1,4 @@
+---
+title: "Manzanillo"
+type: location
+---

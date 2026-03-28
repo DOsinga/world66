@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 address: 5th St and 9th Ave SW
-
-[back to Nightlife and Entertainment](..)

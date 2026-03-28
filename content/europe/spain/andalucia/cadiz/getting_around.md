@@ -11,8 +11,6 @@ getting around Cadiz
 
 **Contributors**
 October 20, 2006
-new
-by [euroadventures](/member/euroadventures)
 
 ### [Private Driver Chauffeur Shore Excursions from Cadiz](/europe/spain/andalucia/cadiz/getting_around/private_driver_cha)
 

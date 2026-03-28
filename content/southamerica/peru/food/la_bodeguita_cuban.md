@@ -1,6 +1,6 @@
 ---
 title: "La Bodeguita Cubana"
-type: location
+type: poi
 accessibility: "accessibly by one flight of stairs"
 address: "Hatunrumiyoq 487"
 email: "info@la-bodeguita-cubana.com"
@@ -18,8 +18,6 @@ Salsa lessons can be arranged from beginners to international standard in associ
 
 **Contributors**
 March 12, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -38,5 +36,3 @@ address: Hatunrumiyoq 487
 PriceOfMenu: mid-range
 
 email: info@la-bodeguita-cubana.com
-
-[back to Eating Out](..)

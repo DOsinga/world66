@@ -16,7 +16,5 @@ For those who aspire to be Lance Armstrong or those who just want to pedal aroun
 
 **Contributors**
 October 28, 2005
-change
-by [iszatmary](/member/iszatmary)
 
 type: Cycling

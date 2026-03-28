@@ -58,5 +58,3 @@ tel: +49 9861 - 93 90 43
 openings: 9.30 a.m. - 5.30.p.m., winter 1 p.m. - 4 p.m.
 
 url: [www.reichsstadtmuseum.rothenburg.de](http://www.reichsstadtmuseum.rothenburg.de)
-
--->

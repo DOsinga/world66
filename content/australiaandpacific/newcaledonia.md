@@ -1,8 +1,6 @@
 ---
 title: "New Caledonia"
 type: location
-latitude: -21.30199
-longitude: 165.488077
 ---
 
 "/>

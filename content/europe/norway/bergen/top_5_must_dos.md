@@ -40,6 +40,4 @@ mountain.
 
 **1. Bryggen** - The Bryggen houses lining the most popular harbor in
 Bergen have been a UNESCO Cultural Heritage Site since 1979. The houses
-have small shops that hold anything from souvenirs to hiking equipment. Some of the houses date back to the early 18th century, but
-many of the originals were burnt down due to them being made of all
-wood. However, a quarter of the houses are originals.
+have small shops that hold anything from souvenirs to hiking equipment. Some of the houses date

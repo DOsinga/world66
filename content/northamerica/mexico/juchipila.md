@@ -1,7 +1,9 @@
 ---
-title: "Juchipila Travel Guide"
+title: "Juchipila"
 type: location
 ---
+
+Travel Guide
 
 Juchipila is a great small town to visit if you want to get the small village experience. The festive spirit of the Mexicans is present in this town. There are a variety of festivities celebrated throughout the year.
 
@@ -15,9 +17,5 @@ Santo Santiago is venerated by many mexicans that celebrations are not only give
 
 **Contributors**
 January 16, 2006
-change
-by [giorgio](/member/giorgio)
 
 March 10, 2006
-change
-by [lunadebravo](/member/lunadebravo)

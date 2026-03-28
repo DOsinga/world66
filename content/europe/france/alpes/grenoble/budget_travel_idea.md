@@ -25,25 +25,4 @@ La Bastille
 
 **Musee Archeologique Saint Laurent
 
-**This museum was created on the site of archeological excavations of structures dating back to the third century. Located in a 12th century church that was excavated in 1803, this museum is like stepping back in time and is well worth the trip.
-
-**Fort Barraux
-
-**This fort is a perfect example of a bastion fortification and is often off the beaten path for tourists. Throughout the years, the fort has acted as a deterrent, a lookout, a sentry post and a prison. It is a well-maintained site with beautiful surroundings.
-
-**Palais Ideal du Facteur Cheval
-
-**This palace is the result of 1 man's dream. It was built by hand by 1 man, Ferdinand Cheval, who worked on it for 33 years. The mythological beauty of this palace will take your breath away. Bring a picnic lunch and sit on the lawn while admiring the twisted turrets and wild roof lines.
-
-**Guided Tours
-
-**The tourism office offers several guided tours. Tour prices start at 5,50 €. One of the most popular tours is a guided visit of historical Grenoble where you taste regional specialties. This tour takes you through the old city, from the fortifications to the cathedral.
-
-**Contributors**
-February 12, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)
-
-February 26, 2010
-change
-by [schitti](/member/schitti)
+**This museum was created on the site of archeological excavations of structures dating

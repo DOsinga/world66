@@ -8,11 +8,5 @@ Located in Polanco, this restaurant was reasonably price and the food was fantas
 
 **Contributors**
 March 11, 2007
-new
-by [mamasanlzn](/member/mamasanlzn)
 
 type: Local
-
-
-
-[back to Eating Out](..)

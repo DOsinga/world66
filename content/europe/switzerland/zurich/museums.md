@@ -49,10 +49,4 @@ and examines the culture surrounding the worldwide popular drink.
 This unusual but charming museum
 features over 1,200 classic and antique toys from all regions of
 Europe. Although toys from the 20th century remain well-represented,
-the museum also features items dating all the way back to the 18th
-century.
-
-**Contributors**
-October 30, 2009
-new
-by [leah rendon](/member/leah_rendon)
+the museum also features items dating all the way

@@ -83,27 +83,4 @@ you've landed, book the Hike, Kayak, and Snorkel Adventure with Bike
 Hawaii. This multi-sport outing starts with a short hike to a lookout
 on Kaneohe Bay. After the hike, your guide will tell you about the
 island's natural and geological history. Finally, your group will
-proceed back to Kane'ohe Bay for a kayak trip to Mokolii Island. Once
-there, you'll enjoy snorkeling, lunch and amazing views from Oahu from
-the water. Feel free to take a well deserved night of rest back at your
-hotel.**
-
-Day 7 **- **Hiking and Snorkeling**
-**
-**
-Take a 0.8 mile trail to the summit of
-Diamond Head State Monument, Oahu's most recognizable landmark. You'll
-reach the top in about 30 to 45 minutes depending on your pace and
-you'll be rewarded with a stunning view spanning Koko Head to Waianae
-from 760 feet above sea level. Bring walking shoes, a hat, sunscreen
-and water. Try to go early to avoid crowds and blazing sun. In the
-afternoon head to Hanauma Bay for the best and safest snorkeling in
-Oahu's south shore. You can bring your own snorkeling equipment or rent
-it there. They bay is open from 6 a.m. to 6 p.m. and is closed on
-Tuesdays. On your final night in Oahu, book a luau dinner show at
-Paradise Cove, offering most popular Hawaiian Luau Buffet packages.
-
-**Contributors**
-July 17, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)
+proceed

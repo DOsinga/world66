@@ -3,8 +3,6 @@ title: "Museums"
 type: section
 ---
 
-Orginal article by [kimmeebaby](/member/kimmeebaby) on 08 June 04
-
 **all**
 
 **International U.F.O. Museum & Research Center**
@@ -16,5 +14,3 @@ url: [www.iufomrc.org](http://www.iufomrc.org)
 address: 114 North Main St
 
 tel: 505-625-9495
-
--->

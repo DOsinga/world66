@@ -10,8 +10,6 @@ If you're planning to eat at least try something different. Shalimar Indian rest
 
 **Contributors**
 May 21, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Indian and Pakistani
 
@@ -20,5 +18,3 @@ type: Indian and Pakistani
 tel: 702-202-0333
 
 address: 4001 S. DECATUR SUIT 31
-
-[back to Eating Out](..)

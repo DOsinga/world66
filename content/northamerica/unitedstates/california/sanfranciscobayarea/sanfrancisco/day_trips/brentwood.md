@@ -7,9 +7,3 @@ Brentwood, an hour’s drive East of San Francisco, is one of several towns loca
 
 **Contributors**
 July 19, 2006
-change
-by [giorgio](/member/giorgio)
-
-
-
-[back to Day Trips](..)

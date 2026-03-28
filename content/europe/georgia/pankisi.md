@@ -1,9 +1,9 @@
 ---
-title: "Pankisi Travel Guide"
+title: "Pankisi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **About the region
 
@@ -32,9 +32,3 @@ embraces the alpine belt with its coniferous forests, crystal clear mountain
 lakes and mountain pastures. In the mountain forests one can encounter a Caspian sea wolf, a lynx, Caucasian goats and chamois. Over
 the canopy fly black-billed capercaillies, Caucasian snowcocks and pheasants. In addition to nature, residential turrets
 with defensive features are another attraction of the park.
-
-*Part or or all of this text stems from the original article at: www.pankisi.org*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 12:25

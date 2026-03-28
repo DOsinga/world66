@@ -17,5 +17,3 @@ type: Vegetarian
 adddress: 107/111 Oxford Road
 
 tel: 0161 273 4878
-
-[back to Eating Out](..)

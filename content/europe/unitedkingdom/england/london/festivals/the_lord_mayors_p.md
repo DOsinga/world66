@@ -14,5 +14,3 @@ In 2008 the Lord Mayor's Show is on Saturday 8 November.
 url: [www.ukstudentlife.com](http://www.ukstudentlife.com/Ideas/Album/LordMayorsShow.htm)
 
 date: November
-
-[back to Festivals](..)

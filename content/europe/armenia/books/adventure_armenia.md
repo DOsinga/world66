@@ -13,8 +13,6 @@ the country more enjoyable and interesting.
 
 **Contributors**
 November 11, 2008
-new
-by [raffikojian](/member/raffikojian)
 
 [](http://www.amazon.com/exec/obidos/ASIN/9993078549/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -23,5 +21,3 @@ by [raffikojian](/member/raffikojian)
 author: Carine Bachmann, Jeffrey Tufenkian
 
 isbn: 9993078549
-
-[back to Books](..)

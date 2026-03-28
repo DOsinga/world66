@@ -1,0 +1,4 @@
+---
+title: "Albury"
+type: location
+---

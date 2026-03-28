@@ -12,9 +12,3 @@ temperatures and mineral compositions in a beautifully landscaped
 natural environment.
 
 type: general
-
-
-
-
-
-[back to Day Trips](..)

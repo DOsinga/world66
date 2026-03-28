@@ -1,0 +1,4 @@
+---
+title: "Zurzach"
+type: location
+---

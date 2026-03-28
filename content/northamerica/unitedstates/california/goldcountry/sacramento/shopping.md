@@ -7,5 +7,3 @@ To enjoy Sacramento shopping, take a trip to Arden Fair Shopping Center on Arden
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

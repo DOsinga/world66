@@ -10,5 +10,3 @@ http://www.youtube.com/watch?v=yXZPmdULIKs
 
 
 url: [www.youtube.com](http://www.youtube.com/watch?v=yXZPmdULIKs)
-
-[back to Top 5 Must Do's](..)

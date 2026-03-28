@@ -1,0 +1,4 @@
+---
+title: "Genk"
+type: location
+---

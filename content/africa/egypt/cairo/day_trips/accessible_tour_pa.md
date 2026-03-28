@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Magdy@egyptonlinetours.com"
 phone: "0020162922290"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Departure : Daily
@@ -51,86 +49,6 @@ Day # 10 ): Sharm El Sheikh
 After breakfast the balance of the day is free for endless independent activities.
 
 Day # 11 ): Sharm El Sheikh to Cairo
-After breakfast, accessible transfer to the airport for your short flight back to Cairo. Rest of the day is free. Overnight in Cairo.
-Day # 12 ) Egyptian Museum & Khan Il Khalili Bazaar
-After breakfast begin our full day tour of the Egyptian Museum of Antiquities, the Treasures of King Tut Ankh Amunm, the Citadel of Saladin, the Alabaster Mosque and the 500 years old Khan Il Khalili Bazaar where we barter for goods & souvenirs. Overnight Cairo.
-
-Day # 13 ): Cairo - Home
-Departure Morning transfer to Cairo International Airport for departure. (B)
-
-Price Includes:-
-- Meet and assist upon arrival and departure by our representative in all airports
-- Personal Care during your stay, tours and excursions
-- All airport transfers by modern air-conditioned buses
-- Hotel accommodation for 5 nights in Cairo on bed and buffet breakfast
-- Hotel accommodation for 1 night in Luxor with breakfast - Nile Cruise accommodation for 3 nights on full board basis
-- Accommodation for 3 nights in Sharm El Sheikh hotel with daily breakfast
-- Domestic flight tickets from Hurghada
-- Cairo on Egyptair
-- Full day tour to Pyramids, Sphinx, Valley temple
-- Full day tour to Egyptian Museum, Citadel Mosques and Coptic Churches
-- Full day tour to Karnak temple and Luxor temple, East Bank Luxor
-- Full day tour to Valley of the Kings, Hatshepsut temple & colossi of Memnon
-- Half day tour to Edfu temple in Nile cruiser journey
-- Half day tour to Kom Ombo temple in Nile cruise journey - Full day tour to the High Dam and Temple of Philae in Aswan
-- Half day tour to Elephantine Island and botanical gardens by felucca sail on the Nile River
-- All sightseeing tours as per the tour itinerary
-- All shore excursions as per the tour cruise itinerary
-- Lunch meals during Cairo tours and Giza
-- Professional Egyptologist speaking tour guide
-- Entrance fees to the sights as per the tour itinerary
-
-Price Excludes:-
-- International airfare from your home town to Cairo & return
-- Egypt entry visa ($15 USD at the Cairo Airport)
-- Optional tours & personal Expenses
-
-Payment Facilities:
-1) Online Payment by Credit card visa or Master via our secure payment page on our website
-http://www.egyptonlinetours.com.com/Travels/Payment.aspx
-
-2 ) Bank transfer:
-Maestro Online Travel Egypt -bank details:
-Account Name: Maestro Online Travel
-Account No: 517517
-Bank: Arab African International Bank
-Branch: Haram
-Swift: ARAIEGCX
-
-Payment Plan:
-25% down payment required to secure the booking ( by credit cards )
-75% balance in pick up from your hotel in the tour day. ( credit card / or / cash )
-
-Tour guide
-Egypt guided tours are highly recommended and our guides are knowledgeable Egyptologist guides who have academic qualifications to make your tour to Egypt extra special
-
-Vehicles used
-Vehicles are new branded air-conditioned with a professional driver, but drivers in Egypt do not speak English and they cannot act as tour guides for the Egyptian monumental sights
-
-Look forward to hearing from you soon,
-Best regards,
-
-Magdy Abdel GHany
-Tour Consultant
-
-Maestro Online Travel Egypt-Haram Branch
-Cell : 002 01629 222 90
-
-Emails: magdy@egyptonlinetours.com
-
-Website:-
-http://www.egyptonlinetours.com/Egypt-Accessible-tours/index.php
-
-
-
-
-
-tel: 0020162922290
-
-url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Accessible-tours/index.php)
-
-address: 124, Haram street, Giza, Egypt
+After breakfast, accessible transfer to the airport for your short flight address: 124, Haram street, Giza, Egypt
 
 email: Magdy@egyptonlinetours.com
-
-[back to Day Trips](..)

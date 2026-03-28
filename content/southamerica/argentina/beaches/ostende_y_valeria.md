@@ -5,8 +5,6 @@ address: "partido de pinamar"
 email: "info@pinamar.com"
 phone: "+54 2254"
 url: "www.pinamar.com"
-latitude: -37.106197
-longitude: -56.867374
 ---
 
 **Ostende** es un balneario turístico de la costa atlántica argentina perteneciente al Partido de Pinamar. Limita al norte con Mar de Ostende, al sur con Valeria del Mar al este con el Mar Argentino y al oeste con Gral. Madariaga.
@@ -25,5 +23,3 @@ url: [www.pinamar.com](http://www.pinamar.com)
 address: partido de pinamar
 
 email: info@pinamar.com
-
-[back to Beaches](..)

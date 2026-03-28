@@ -43,7 +43,3 @@ Regardless of your budget needs, Spain will not fail to please you
 while on your holiday. With the right plan, and packaged deals Spain is
 a great destination for your vacation while trying to not break the
 bank account.
-
-
-
-[back to Budget Travel Ideas](..)

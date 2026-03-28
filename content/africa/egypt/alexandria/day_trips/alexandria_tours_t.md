@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Magdy@egyptonlinetours.com"
 phone: "0020162922290"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Departure: Daily
@@ -32,7 +30,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Itinerary:-**
 
@@ -55,55 +53,7 @@ at **Alexandria Port**
 
 - Shopping** tour** at the famous bazaars in **Cairo **
 
-- Drive back to **Alexandria Port**
-
-- Drop off at your **cruise ship** terminal in** Alexandria Port**
-
-**Price Includes:-**
-
-**Alexandria Cairo, Alexandria shore excursions, Port trips,Cairo Tour
-from Alexandria cruises****
-
-**- Meet & greet services at your **cruise ship**
-Terminal by our representatives to start **Cairo tour** from **Alexandria
-**
-
-- All transfers by deluxe air-conditioning vehicles in **Alexandria**
-and **Cairo**
-
-- **Sightseeing tours** as stated in the **Tour and trips** itinerary
-
-- Egyptology expert English speaking guide during the **shore excursions**
-
-- Entrance fees to **cairo** **sights** as per
-itinerary
-
-- Lunch meal will be served during **tours** at a local restaurant
-by the **Pyramids **
-
-- Free mineral water and soft drink during **tours******
-
-**Price Info:-**
-
-Prices are quoted in USD
-currency per person based on double accupancy
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Tour
+- Drive **Tour
 guide:
 
 **Egypt
@@ -179,5 +129,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Shore-Excu
 address: 124, Haram street, Giza, Egypt
 
 email: Magdy@egyptonlinetours.com
-
-[back to Day Trips](..)

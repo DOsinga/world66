@@ -7,5 +7,3 @@ There are plenty of fun Providence attractions to keep you busy on your vacation
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

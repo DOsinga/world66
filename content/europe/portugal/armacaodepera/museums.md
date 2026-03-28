@@ -35,9 +35,5 @@ to one of these fascinating area museums and you will be glad you did.
 
 **Contributors**
 February 09, 2010
-new
-by [kat99](/member/kat99)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

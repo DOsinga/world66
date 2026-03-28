@@ -1,9 +1,9 @@
 ---
-title: "Old Fort Travel Guide"
+title: "Old Fort"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 In Old Fort, Andrew’s Geyser is a few minutes from the Arrowhead at the center
 of town. There is a train station with a
@@ -16,9 +16,3 @@ road. Reconstruction of a pioneer-day
 fort, Fort Davidson, is underway and hosted the
 fifth annual Civil War event May 31-June 1. On every Friday night in Old Fort you
 can jam, dance or listen to good old country music (free admission) at Old Fort Mountain Music.
-
-*Part or or all of this text stems from the original article at: Gabrielle Thompson*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 23:23

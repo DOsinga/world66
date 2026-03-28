@@ -20,5 +20,3 @@ Tel +351 275 567 140
 
 **Contributors**
 September 05, 2005
-change
-by [giorgio](/member/giorgio)

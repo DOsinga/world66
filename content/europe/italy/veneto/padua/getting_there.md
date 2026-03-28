@@ -15,5 +15,3 @@ Padua is both on the Venezia-Milano and on the Venezia-Roma railways; many train
 
 **Contributors**
 July 16, 2006
-new
-by [svetico](/member/svetico) (4 points)

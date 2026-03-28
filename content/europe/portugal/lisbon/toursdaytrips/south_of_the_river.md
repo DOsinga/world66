@@ -10,8 +10,3 @@ First take the longest ferry route across the river to Montijo. The trip is good
 Then take yet another bus to Cacilhas and return to the north bank by the short river crossing.
 
 [If you only have time for one day out from Lisbon, you should go to Sintra but this is good if you have another day.]
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 14 November 04
-
--->

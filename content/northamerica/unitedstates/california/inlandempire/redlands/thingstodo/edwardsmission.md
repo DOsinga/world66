@@ -6,8 +6,6 @@ email: "sunwraywes@aol.com"
 phone: "909/793-2031"
 type: "Other"
 url: "www.edwardsmansion.com"
-latitude: 34.069501
-longitude: -117.22312
 ---
 
 The magnificent Edwards mansion was built on
@@ -44,8 +42,6 @@ banquets.
 
 **Contributors**
 December 05, 2005
-change
-by [handyman321](/member/handyman321)
 
 type: Other
 
@@ -60,5 +56,3 @@ url: [www.edwardsmansion.com](http://www.edwardsmansion.com)
 address: 2064 Orange Tree Lane, Redlands, CA 92374
 
 email: sunwraywes@aol.com
-
-[back to Things to do](..)

@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Magdy@egyptonlinetours.com"
 phone: "0020162922290"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Normal
@@ -22,7 +20,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Itinerary:-**
 
@@ -59,51 +57,7 @@ antiquities
 
 - Lunch will be served at a five star hotel restaurant
 
-- Drive back to **Alexandria port**
-
-- Drop off at your Ship Terminal at Alexandria Port****
-
-**Price Includes:-**
-
-- Meet & greet services at your **ship** Terminal by our
-representatives
-
-- All transfers by deluxe air-conditioning vehicles in **Alexandria**
-and Cairo
-
-- **Sightseeing tours** as stated in the Tour itinerary
-
-- Egyptology expert English speaking **tour guide**
-
-- Entrance fees to the **sights** as per itinerary
-
-- Five star hotel accommodation in **Cairo** with breakfast
-
-- Lunch meal will be served during **Cairo tours** at a local
-restaurant by the Pyramids
-
-- Free mineral water and soft drink during tours****
-
-**Price Excludes:-**
-
-Personal expenses and optional **Tours**
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Tour guide:
+- Drive **Tour guide:
 
 **Egypt guided tours are highly recommended and our guides are knowledgeable
 Egyptologist guides who have academic qualifications to make your tour to Egypt
@@ -180,5 +134,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Shore-Excu
 address: 124, Haram street, Giza, Egypt
 
 email: Magdy@egyptonlinetours.com
-
-[back to Day Trips](..)

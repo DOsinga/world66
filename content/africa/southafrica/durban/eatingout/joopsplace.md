@@ -10,8 +10,6 @@ Some of the best steaks in town. Run by Joop...
 
 **Contributors**
 August 16, 2006
-change
-by [wowbagga](/member/wowbagga) (1 point)
 
 type: Dutch
 
@@ -22,5 +20,3 @@ type: Dutch
 address: Avonmore Centre, 9th Avenue, Morningside
 
 tel: 031-239135
-
-[back to Eating Out](..)

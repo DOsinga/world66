@@ -12,8 +12,6 @@ number of extremely good takes on American favorites worth checking out.
 
 **Contributors**
 October 20, 2005
-new
-by [swampthing](/member/swampthing)
 
 ### [m & m redhots](/northamerica/unitedstates/newyorkstate/elmira/eating_out/m__m_hots)
 

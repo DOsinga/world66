@@ -11,8 +11,6 @@ There are just so many options to eat in Rio that its hard to settle on where to
 
 **Contributors**
 August 28, 2007
-new
-by [jeanluc.eluard](/member/jeanluc.eluard) (1 point)
 
 type: South American
 
@@ -25,5 +23,3 @@ tel: (21)2513-5184
 url: [www.cozinhatipica.com.br](http://www.cozinhatipica.com.br)
 
 address: Rua Jangadeiros 10A, Ipanema
-
-[back to Eating Out](..)

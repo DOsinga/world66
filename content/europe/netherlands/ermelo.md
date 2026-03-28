@@ -1,0 +1,4 @@
+---
+title: "Ermelo"
+type: location
+---

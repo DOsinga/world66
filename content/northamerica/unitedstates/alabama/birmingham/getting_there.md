@@ -7,5 +7,3 @@ Birmingham travel has never been easier! Thanks to the several airline carriers 
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

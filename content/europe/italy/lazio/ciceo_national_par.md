@@ -1,7 +1,9 @@
 ---
-title: "Ciceo National Park Travel Guide"
+title: "Ciceo National Park"
 type: location
 ---
+
+Travel Guide
 
 Circeo national park on the coast south of Rome is well worth a visit. Itencompasses a number of very different environments. A promontory, visible from far away, has given the name to the park. This promontory is characterized by forest dominated by oaks but on the side facing the sea these are replaced by junipers. The promontory is easily reached from [San Felice Circeo](/europe/italy/lazio/san_felice_circeo) and is partly accessible by car. There are also trails, including one leading to the Peak of Circeo at 541 m a.s.l.
 
@@ -15,5 +17,3 @@ Within the park are also the Dominitian’s Villa from the first century and the
 
 **Contributors**
 November 05, 2007
-change
-by [ingvar](/member/ingvar)

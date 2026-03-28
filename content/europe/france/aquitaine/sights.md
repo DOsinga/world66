@@ -12,5 +12,3 @@ creator before-hand of the Art Nouveau mouvement.
 
 **Contributors**
 December 14, 2006
-new
-by [giorgio](/member/giorgio)

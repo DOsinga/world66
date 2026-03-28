@@ -46,11 +46,3 @@ well spent!
 
 **Contributors**
 August 22, 2005
-change
-by [rickjacobson](/member/rickjacobson)
-
-
-
-
-
-[back to Day Trips](..)

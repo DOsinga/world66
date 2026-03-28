@@ -25,7 +25,9 @@ tel: +43 5412 68773
 
 ** Azzurro**
 
-Snug panorama cafe with a roof-top terrace. Easily accessible. Snacks available: toasts, ciabatta, tramezzini and homemade cakes. Occasionally piano music in the evenings. 40 seats, closed on Thu. [more..](/europe/austria/imst/nightlife/azzurro)
+Snug panorama cafe with a roof-top terrace. Easily accessible. Snacks available: toasts, ciabatta, tramezzini and homemade cakes. Occasionally piano music in the evenings. 40 seats, closed on Thu.
+
+with the most beautyful waitress ever seen on the planet... whow !
 
 address: Kramergasse 17, A-6460 Imst
 
@@ -54,5 +56,3 @@ For lovers of foxtrott, 70 seats, closed on Mon.
 address: Gunglgrün, A-6460 Imst Karres Karrösten
 
 tel: +43 5412 64819
-
--->

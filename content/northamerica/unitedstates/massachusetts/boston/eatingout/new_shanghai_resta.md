@@ -27,5 +27,3 @@ url: [www.newshanghaiboston.com](http://www.newshanghaiboston.com/)
 address: 21 Hudson Street, Boston, MA 02111
 
 email: manager@newshanghaiboston.com
-
-[back to Eating Out](..)

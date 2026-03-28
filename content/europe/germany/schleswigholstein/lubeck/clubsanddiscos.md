@@ -92,5 +92,3 @@ The double-decker disco
 tel.: +49 4561 558 201
 
 address: Sierksdorfer Straße 3-7
-
--->

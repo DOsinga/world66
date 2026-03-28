@@ -12,8 +12,6 @@ BY CAR - Several Expressways or Parkways will allow motorists to reach various s
 
 **Contributors**
 April 12, 2008
-change
-by [waterfalls](/member/waterfalls) (1 point)
 
 ### [Hamilton Street Railway](/northamerica/canada/ontario/hamilton/getting_around/hamilton_street_ra)
 

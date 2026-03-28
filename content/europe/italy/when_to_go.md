@@ -23,5 +23,3 @@ Late September through October is one of the best times to visit Italy. Crowds a
 
 **Contributors**
 October 29, 2009
-new
-by [samanthalp](/member/samanthalp)

@@ -15,5 +15,3 @@ Tourist Office.
 
 **Contributors**
 December 11, 2005
-change
-by [out of the grey](/member/out_of_the_grey)

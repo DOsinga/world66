@@ -10,8 +10,6 @@ This place is one of the best restaurants you can find in Bogota. At night, you 
 
 **Contributors**
 September 14, 2006
-new
-by [jamlou](/member/jamlou) (1 point)
 
 type: International
 
@@ -22,5 +20,3 @@ type: International
 tel: 5718637880
 
 address: Calle 3 No. 11 A-56
-
-[back to Eating Out](..)

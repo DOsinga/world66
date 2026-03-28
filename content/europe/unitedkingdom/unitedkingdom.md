@@ -28,25 +28,3 @@ Great Britain offers a lot of diversion to all its tourist: For pulsing cultural
 
 
 Western and northern England fascinate with beautiful landscapes: rugged moorlands, picturesque flatlands and rocky coastlines. A visit to the South Western penninsular is a must with Dartmoor and Exmoor in Devon and Somerset, and Bodmin in Cornwall. Also in Newquay is world class surfing. For true wilderness, however, you better travel to the mountains of [Wales](/europe/unitedkingdom/wales) or the Scottish Highlands. The finest of [Scotland](/europe/unitedkingdom/scotland) 's lochs, glens and peaks, and the magnificent scenery of the west coast islands, can be reached easily from the contrasting cities of [Glasgow](/europe/unitedkingdom/scotland/glasgow) and [Edinburgh](/europe/unitedkingdom/scotland/edinburgh) .
-
-*Change history*
-Minor corrections by [castlering](/member/castlering) on 24 July 04
-
-## Top Destinations in United Kingdom
-
-[London](/europe/unitedkingdom/england/london)
-[Edinburgh](/europe/unitedkingdom/scotland/edinburgh)
-[Manchester](/europe/unitedkingdom/england/manchester_liverp/manchester)
-[York](/europe/unitedkingdom/england/leeds_sheffield_a/york)
-[Sheffield](/europe/unitedkingdom/england/leeds_sheffield_a/sheffield)
-[Oxford](/europe/unitedkingdom/england/south_east/oxford)
-[Belfast](/europe/unitedkingdom/northernireland/belfast)
-[Leeds](/europe/unitedkingdom/england/leeds_sheffield_a/leeds)
-[Bristol](/europe/unitedkingdom/england/bristol_plymouth/bristol)
-[Nottingham](/europe/unitedkingdom/england/leicester_notting/nottingham)
-[Bath](/europe/unitedkingdom/england/bristol_plymouth/bath)
-[Cambridge](/europe/unitedkingdom/england/eastern_england/cambridge)
-
-[**Show all destinations in United Kingdom.**](/europe/unitedkingdom/lib/alldestinations)
-
--->

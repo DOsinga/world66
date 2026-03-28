@@ -15,5 +15,3 @@ type: Mexican
 address: 316 Massachusetts Ave
 
 tel: (202)548-2550
-
-[back to Eating Out](..)

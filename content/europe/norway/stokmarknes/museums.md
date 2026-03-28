@@ -16,5 +16,3 @@ address: Stokmarknes
 tel: 47 7611 8190
 
 email: hurtig@online.no
-
--->

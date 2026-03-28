@@ -1,9 +1,9 @@
 ---
-title: "trekking and walking holiday in morocco Travel Guide"
+title: "trekking and walking holiday in morocco"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Normal
 0
@@ -19,7 +19,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Walking and hiking: We have many examples
 of possible treks in the area. Our staff are happy to discuss possibilities
@@ -61,9 +61,3 @@ the tour
 • Portage of luggage by Mules during the tour
 
 See more on : www.voyageaumaroc.net
-
-*Part or or all of this text stems from the original article at: www.voyageaumaroc.net*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 02:50

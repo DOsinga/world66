@@ -1,8 +1,6 @@
 ---
 title: "Arcachon"
 type: location
-latitude: 44.661643
-longitude: -1.170002
 ---
 
 We currently have no information about Arcachon.

@@ -16,13 +16,9 @@ The tour takes about 2 hours and finishes around the sunset. It cost 40 soles at
 
 **Contributors**
 July 14, 2006
-new
-by [yohay elam](/member/yohay_elam) (1 point)
 
 type: Other
 
 
 
 address: Any hotel will sell this tour to you
-
-[back to Things to do](..)

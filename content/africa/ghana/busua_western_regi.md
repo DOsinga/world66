@@ -1,12 +1,8 @@
 ---
-title: "busua western region Travel Guide"
+title: "busua western region"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 small fishing village near Dixcove, fantastic beach, safe sea, a lot of accomodations
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 03:16

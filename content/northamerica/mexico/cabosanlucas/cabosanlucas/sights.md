@@ -8,8 +8,6 @@ Located at the southernmost tip of the Baja peninsula, Cabo San Lucas is where t
 
 **Contributors**
 July 14, 2005
-new
-by [helen](/member/helen)
 
 ### [Los Arcos](/northamerica/mexico/cabosanlucas/cabosanlucas/sights/los_arcos)
 

@@ -15,5 +15,3 @@ It sounds like a complicated trip, but it´s actually quite relaxed. If you leav
 
 **Contributors**
 June 15, 2006
-new
-by [joosts](/member/joosts) (4 points)

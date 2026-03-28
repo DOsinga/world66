@@ -15,5 +15,3 @@ type: Italian
 address: 1214 18th St NW
 
 tel: (202)785-9525
-
-[back to Eating Out](..)

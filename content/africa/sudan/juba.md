@@ -1,8 +1,6 @@
 ---
 title: "Juba"
 type: location
-latitude: 12.151835
-longitude: 24.452287
 ---
 
 We currently have no information about Juba.

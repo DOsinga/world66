@@ -1,0 +1,4 @@
+---
+title: "Oita"
+type: location
+---

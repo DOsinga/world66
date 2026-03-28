@@ -1,9 +1,9 @@
 ---
-title: "Canmore, Alberta Travel Guide"
+title: "Canmore, Alberta"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Canmore is a gateway to the Alberta
 Rockies and the mountain parks. Travelling from Calgary,
@@ -21,7 +21,3 @@ night in a cozy chalet than outside, but the outdoors remain the central attract
 The Canmore
 Nordic Centre for one has miles of groomed cross-country ski trails on the
 town's doorstep.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 20:14

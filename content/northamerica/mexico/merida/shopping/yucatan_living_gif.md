@@ -17,5 +17,3 @@ type: Speciality shops
 url: [www.cafepress.com](http://www.cafepress.com/yucatanliving/)
 
 email:
-
-[back to Shopping](..)

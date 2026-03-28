@@ -1,8 +1,6 @@
 ---
 title: "Language"
 type: location
-latitude: -1.291285
-longitude: 36.812976
 ---
 
 English and Kiswahili (the language of the Swahili people) are the official languages of Kenya. Both are taught in school from nursery through Form 4. Neither, however is the most common language spoken at home, and most rural Kenyans speak their tribal language. In the cities, however, most Kenyans know English well enough to get by. Most Kenyans prefer Kiswahili to English, however, because it is closer to their Bantu tribal languages. Kiswahili is used extensively between tribes also, and there is hardly a place in Kenya where someone does not know a bit of Kiswahili. There are many places, however, where no one in the village knows English. 

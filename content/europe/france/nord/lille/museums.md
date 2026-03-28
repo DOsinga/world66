@@ -19,5 +19,3 @@ This re-created local village from the "olden days" stretches across 10 hectacre
 
 **Contributors**
 March 31, 2010
-change
-by [stolsen](/member/stolsen)

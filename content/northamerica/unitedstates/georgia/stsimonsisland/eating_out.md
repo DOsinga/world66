@@ -7,5 +7,3 @@ If you get hungry during the day there are many small sandwich shops and local r
 
 **Contributors**
 October 16, 2005
-change
-by [bojo](/member/bojo)

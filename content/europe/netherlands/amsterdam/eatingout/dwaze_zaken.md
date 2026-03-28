@@ -28,5 +28,3 @@ PriceOfMenu: 10 euro
 address: Prins Hednrikkade 50
 
 url: [www.dwazezaken.nl](http://www.dwazezaken.nl)
-
-[back to Eating Out](..)

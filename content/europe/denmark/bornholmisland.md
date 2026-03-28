@@ -1,8 +1,6 @@
 ---
 title: "Bornholm island"
 type: location
-latitude: 55.143122
-longitude: 14.92263
 ---
 
 Bornholm, part of Denmark and located to the east of it (and probably closer to Sweden), strikes the imagination of a lot of people. Already some 200 years ago, several painters came over to the island either to find their inspiration or to depict the beautiful rural scenery of the island, resulting in a permanent stay for a lot of them. The Bornholm School is still renowned for its still live. 

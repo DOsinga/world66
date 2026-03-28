@@ -79,5 +79,3 @@ Rupe offers tents starting at 13 euros.
 
 **Contributors**
 April 01, 2010
-change
-by [stolsen](/member/stolsen)

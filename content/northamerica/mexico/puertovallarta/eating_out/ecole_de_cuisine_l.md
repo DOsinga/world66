@@ -7,8 +7,6 @@ phone: "(329) 298.1532"
 price: "US $55 pp prix fixe, wine incl."
 type: "French"
 url: "www.lefort.com.mx"
-latitude: 20.751029
-longitude: -105.332567
 ---
 
 If you spend one evening outside of Puerto Vallarta while visiting Banderas Bay, make it a point to have dinner chez Margarita and Gilles Le Fort.
@@ -23,8 +21,6 @@ The food is remarkable. If you're among the first to reserve your seat (reservat
 
 **Contributors**
 December 20, 2007
-change
-by [kellykathryn](/member/kellykathryn) (1 point)
 
 type: French
 
@@ -41,5 +37,3 @@ address: Lázaro Cardenas No. 71-A, Bucerías, Nayarit, Mexico
 PriceOfMenu: US $55 pp prix fixe, wine incl.
 
 email:
-
-[back to Eating Out](..)

@@ -27,5 +27,3 @@ You probably won't find commercialized shopping in Tahiti. You will find a open 
 
 **Contributors**
 May 07, 2010
-new
-by [kristi_p](/member/kristi_p)

@@ -16,5 +16,3 @@ tel: 0039. 035. 34.42.05
 url: [www.bergamoguide.it](http://www.bergamoguide.it/?a=0&arg=0&l=e)
 
 email: info@bergamoguide.it
-
-[back to Tours and Excursions](..)

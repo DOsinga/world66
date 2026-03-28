@@ -1,12 +1,8 @@
 ---
-title: "vascauti Travel Guide"
+title: "vascauti"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 dsfadgdfg
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 09:29

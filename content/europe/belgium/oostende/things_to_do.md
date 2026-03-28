@@ -11,5 +11,3 @@ Minigolf, pedal, boats, rowing boats, baby carts, playgrounds, traffic square wi
 
 **Contributors**
 March 22, 2005
-change
-by [giorgio](/member/giorgio)

@@ -65,5 +65,3 @@ which can be interesting for both the young and old.
 
 **Contributors**
 April 08, 2010
-change
-by [sarah mae](/member/sarah_mae)

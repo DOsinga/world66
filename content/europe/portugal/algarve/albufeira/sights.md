@@ -19,5 +19,3 @@ What makes these significant is definitely not their contribution to traffic con
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

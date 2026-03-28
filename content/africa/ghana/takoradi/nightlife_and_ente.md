@@ -25,5 +25,3 @@ When enjoying a night on the town women can pretty much wear whatever they are c
 
 **Contributors**
 May 10, 2010
-change
-by [kristi_p](/member/kristi_p)

@@ -7,16 +7,12 @@ phone: "(951) 784 - 4417"
 price: "$8 - $12"
 type: "Italian"
 url: "www.osf.com"
-latitude: 33.980437
-longitude: -117.367627
 ---
 
 Come eat in one of the many restaurants in Riverside.
 
 **Contributors**
 June 27, 2005
-new
-by [stevesearer](/member/stevesearer) (1 point)
 
 ### [The Old Spaghetti Factory](/northamerica/unitedstates/california/inlandempire/riverside/eating_out/the_old_spaghetti)
 

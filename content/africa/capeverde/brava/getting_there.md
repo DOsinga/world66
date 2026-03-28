@@ -8,5 +8,3 @@ The lucky traveller will catch the big ro-ro ferry which also connects with Prai
 
 **Contributors**
 January 12, 2009
-new
-by [ingvar](/member/ingvar)

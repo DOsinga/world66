@@ -1,0 +1,4 @@
+---
+title: "Giza"
+type: location
+---

@@ -27,5 +27,3 @@ Families can indulge in a shopping adventure that will meet the needs of every m
 
 **Contributors**
 March 29, 2010
-new
-by [piyushjain](/member/piyushjain_)

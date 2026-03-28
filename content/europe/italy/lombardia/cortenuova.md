@@ -1,0 +1,4 @@
+---
+title: "Cortenuova"
+type: location
+---

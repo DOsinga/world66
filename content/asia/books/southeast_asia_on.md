@@ -45,5 +45,3 @@ lands.
 author: China Williams
 
 isbn: 1741047269
-
-[back to Books](..)

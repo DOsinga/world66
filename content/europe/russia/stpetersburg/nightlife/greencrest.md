@@ -6,6 +6,3 @@ opening_hours: "daily 10:00-22:00"
 ---
 
 Good, healthy food.
-
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 09 March 05

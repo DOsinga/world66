@@ -1,8 +1,6 @@
 ---
 title: "Itapema"
 type: location
-latitude: -27.09472
-longitude: -48.613778
 ---
 
 Characteristics Situated in one of the stretches prettiest of the catarinense coast, Itapema is famous for its beautiful beaches and the hoteleira infrastructure of first world. Date of foundation - 21 of April of 1962. Festive date - 21 of April (anniversary of the city). Main economic activities - the tourism is the main economic activity of the city. Population - 25,859 fixed inhabitants and about 120.000 inhabitants in the summer. Settling - Açoriana. Main etnias - Açoriana. Localization - Coastal, 60km of Florianópolis. Area - 586km2. Climate - humid Mesotérmico, with average temperature between 20ºC and 25ºC. Altitude - 15m above of the level of the sea. Next Cities - Itajaí, Florianópolis, Camboriú Health-resort, Beautiful Port.
@@ -11,5 +9,3 @@ Itapema tourism dedicates the tourism to it during the entire year. Situated in 
 
 **Contributors**
 December 12, 2005
-new
-by [jhowcs](/member/jhowcs)

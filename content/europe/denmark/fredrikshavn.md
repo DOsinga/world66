@@ -1,0 +1,4 @@
+---
+title: "Fredrikshavn"
+type: location
+---

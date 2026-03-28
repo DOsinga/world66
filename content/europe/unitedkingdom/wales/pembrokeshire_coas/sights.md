@@ -12,8 +12,3 @@ However one very distinctive sight is not a natural wonder at all but the enchan
 
 
 Davidx [forgot to log in!]
-
-*Change history*
-Minor corrections by [davidx](/member/davidx) on 28 June 04
-
--->

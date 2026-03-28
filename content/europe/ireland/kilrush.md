@@ -1,0 +1,4 @@
+---
+title: "Kilrush"
+type: location
+---

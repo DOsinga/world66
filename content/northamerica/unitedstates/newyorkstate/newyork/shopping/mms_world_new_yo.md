@@ -23,5 +23,3 @@ tel: (212) 295-3850
 url: [www.mmsworld.com](http://www.mmsworld.com )
 
 address: 1600 Broadway St., Times Square, New York NY 10019
-
-[back to Shopping](..)

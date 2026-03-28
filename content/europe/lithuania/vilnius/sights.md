@@ -51,9 +51,7 @@ At the foot of the hill are the Lower Castle and the Cathedral. In the Cathedral
 
 **St. Anne's Church**
 
-St. Anne's Church represents the peak of Gothic architecture in Lithuania. Its facade is patterned with 33 different varieties of bricks, making it amazingly graceful. According to the legend, Napoleon Bonaparte was so impressed by St. Anne's church, that he wanted to bring the church back to F [more..](/europe/lithuania/vilnius/sights/stanneschurch)
-
-**Lower Castle **
+St. Anne's Church represents the peak of Gothic architecture in Lithuania. Its facade is patterned with 33 different varieties of bricks, making it amazingly graceful. According to the legend, Napoleon Bonaparte was so impressed by St. Anne's church, that he wanted to bring the church **Lower Castle **
 
 The Lower Castle is the wonderful part of the Castles complex. Archeologist is still exploring fragment of the Lower castle. You can see the remains of the cellars where the ancient Lithuania’s Dukes kept their vines.  
 
@@ -82,5 +80,3 @@ address: Ausros vartu St. 12
 **Church of SS.Francis and Bernard **
 
 Services Monday to Saturday 08.00  Sunday services 17.00  In 1469 Bernardine monks settled in Vilnius. The brick church of the present volume was constructed at the beginning of the 16th century. It was included in the town’s defensive system (the rows of the shooting apertures under the roof [more..](/europe/lithuania/vilnius/sights/churchofssfrancisandbernard)
-
--->

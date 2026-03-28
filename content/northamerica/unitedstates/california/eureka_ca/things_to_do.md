@@ -4,8 +4,6 @@ type: section
 address: "322 F St Eureka CA"
 phone: "(707) 476-0991"
 type: "Other"
-latitude: 40.803087
-longitude: -124.166454
 ---
 
 **
@@ -15,8 +13,6 @@ Enjoy a narrated 75 minute tour of the wildlife and history of the bay. Located 
 
 **Contributors**
 August 26, 2008
-change
-by [seebigtrees](/member/seebigtrees)
 
 ### [Shopping](/northamerica/unitedstates/california/eureka_ca/things_to_do/shopping)
 

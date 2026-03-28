@@ -1,0 +1,4 @@
+---
+title: "Waldorf"
+type: location
+---

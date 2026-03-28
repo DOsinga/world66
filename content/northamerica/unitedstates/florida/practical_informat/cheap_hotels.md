@@ -16,5 +16,3 @@ type: Tourist information
 url: [www.hotelchoyce.com](http://www.hotelchoyce.com/State/Florida.htm)
 
 address: http://www.hotelchoyce.com/State/Florida.htm
-
-[back to Practical Information](..)

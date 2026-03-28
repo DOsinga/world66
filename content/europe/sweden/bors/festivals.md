@@ -9,8 +9,6 @@ There *are *festivals in Borås even though you might not believe it.
 
 **Contributors**
 June 10, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [Summer Thursdays](/europe/sweden/bors/festivals/summer_thursdays)
 

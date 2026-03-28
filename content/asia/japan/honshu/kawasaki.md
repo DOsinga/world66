@@ -1,0 +1,4 @@
+---
+title: "Kawasaki"
+type: location
+---

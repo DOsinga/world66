@@ -11,8 +11,6 @@ Looking for a deal? How about a steal? Then head over to Loehmann's Fashion Isla
 
 **Contributors**
 June 01, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Shopping centers and malls
 
@@ -23,5 +21,3 @@ tel: 305-932-0520
 url: [www.loehmanns.com](http://www.loehmanns.com)
 
 address: 18711 Northeast Biscayne Boulevard
-
-[back to Shopping](..)

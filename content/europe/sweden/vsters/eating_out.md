@@ -5,9 +5,6 @@ type: section
 
 In the last few years, Västerås has gotten a number of good places to eat.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
 **all**
 
 **'Å' Restaurang & Bar**
@@ -29,5 +26,3 @@ tel: 021-41 72 70
 url: [www.arestobar.nu](http://www.arestobar.nu)
 
 zipcode: 722 16
-
--->

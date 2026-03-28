@@ -5,8 +5,6 @@ address: "Kiriku plats 1"
 opening_hours: "11-18, closed Mon., Tue."
 phone: "6449340/6441478"
 type: "Museums"
-latitude: 59.437043
-longitude: 24.74035
 ---
 
 type: Museums
@@ -20,5 +18,3 @@ address: Kiriku plats 1
 tel: 6449340/6441478
 
 openings: 11-18, closed Mon., Tue.
-
-[back to Sights](..)

@@ -1,9 +1,9 @@
 ---
-title: "baska Travel Guide"
+title: "baska"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Baska is the best known tourist centre on the island of Krk. Its
 position in the northern part of the Croatian coastline putting it
@@ -68,7 +68,3 @@ you will see that this saying is extremely close to the truth.
 
 At the end, it is a known fact that this saying
 of the Romans came into being precisely in this area.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 21:04

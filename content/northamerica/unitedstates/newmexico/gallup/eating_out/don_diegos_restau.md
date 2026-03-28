@@ -15,5 +15,3 @@ type: Mexican
 tel: 505-722-5517
 
 address: 801 W. Route 66
-
-[back to Eating Out](..)

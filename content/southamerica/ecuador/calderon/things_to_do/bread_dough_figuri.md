@@ -14,5 +14,3 @@ type: Other
 
 
 url: [www.ecuadortravelsite.org](http://www.ecuadortravelsite.org/calderon.html)
-
-[back to Things to do](..)

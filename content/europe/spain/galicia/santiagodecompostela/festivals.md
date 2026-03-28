@@ -27,9 +27,5 @@ August.- Recarei-San Tomé, in O Valadouro (Lugo): first Sunday. Paradanta, inLu
 
 **Contributors**
 June 08, 2005
-change
-by [giorgio](/member/giorgio)
 
 June 08, 2005
-new
-by [hoteleshusagalicia](/member/hoteleshusagalicia)

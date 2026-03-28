@@ -1,9 +1,9 @@
 ---
-title: "Ružomberok Travel Guide"
+title: "Ružomberok"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 It is situated at the westernmost reaches of the Sub-Tatra Basin, more exactly its subdivision Liptov Basin, surrounded by the mountain ranges of Chočské vrchy, Greater Fatra and Low Tatras. Rivers flowing through the town are Váh, from east to west, Revúca, a left tributary from the south, on the way to Banská Bystrica and Likavka brook from the north, on the way to Dolný Kubín. The town is located around 65 km from Žilina, 190 km from Košice and 260 km from Bratislava (by road). Besides the main settlement, it also has "city parts" of Biely Potok, Černová, Hrboltová and Vlkolínec.
 
@@ -38,9 +38,3 @@ Cultural institutions in the towns include the Liptov Museum, established in 191
 Other sights within the town include the Evangelic church from 1923-1926, a historic building of the railway station from 1871, now protected as a national historic monument; Calvary above the town in the Classicist style, built in 1858; synagogue from 1880; and the church in Černová, where the tragedy in 1907 happened.[2]
 
 Attractions in the surroundings include the Čebrať mountain (1,054 m), Vlkolínec village, inscribed in 1993 to the UNESCO World Heritage Site list, and the skiing area of Malinô Brdo (also called Malinô Brdo).
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Ružomberok*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 15:17

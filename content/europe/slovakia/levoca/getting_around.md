@@ -12,5 +12,3 @@ and the area around it. There is a regular sunday afternoon service at
 
 **Contributors**
 September 03, 2005
-new
-by [meshuganut](/member/meshuganut)

@@ -1,0 +1,4 @@
+---
+title: "Senggigi"
+type: location
+---

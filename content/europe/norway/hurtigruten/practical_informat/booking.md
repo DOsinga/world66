@@ -10,8 +10,6 @@ To make your reservations, click the url below.
 
 **Contributors**
 March 12, 2006
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 type: Tourist information
 
@@ -20,5 +18,3 @@ type: Tourist information
 
 
 url: www.hurtigruten.com
-
-[back to Practical Information](..)

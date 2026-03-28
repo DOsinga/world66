@@ -60,5 +60,3 @@ right above your head.
 
 **Contributors**
 January 10, 2010
-new
-by [cjr236](/member/cjr236)

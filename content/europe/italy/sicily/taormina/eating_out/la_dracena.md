@@ -9,10 +9,7 @@ The wine list is generous. But as always, don't order wine which is only made fr
 
 The restaurant has got its name from the dragon tree in the garden.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 25 June 04
-
-Minor corrections by [gagarin](/member/gagarin) on 07 September 04
+Minor corrections on 07 September 04
 
 PriceOfMenu: €30-40
 
@@ -23,5 +20,3 @@ tel: +39-0942-23491
 priceofmenu: €30-40
 
 url: [www.ladracena.it](http://www.ladracena.it)
-
--->

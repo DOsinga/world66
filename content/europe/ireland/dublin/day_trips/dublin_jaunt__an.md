@@ -9,11 +9,3 @@ Discover all the city’s attractions, Millenium Spire, O'Connells and Happenny 
 
 **Contributors**
 January 05, 2008
-change
-by [audioexplore](/member/audioexplore)
-
-
-
-
-
-[back to Day Trips](..)

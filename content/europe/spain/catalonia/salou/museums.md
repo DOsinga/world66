@@ -19,5 +19,3 @@ Tourists who admire ancient arts should visit the Diocesan Museum in Tarragona w
 
 **Contributors**
 April 20, 2010
-new
-by [imran_m](/member/imran_m)

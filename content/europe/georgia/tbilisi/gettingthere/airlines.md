@@ -19,17 +19,7 @@ In addition, a Georgian airline called Airzena (www.airzena.com), has direct fli
 
 **Contributors**
 March 02, 2008
-change
-by [levanos](/member/levanos) (1 point)
 
 August 28, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

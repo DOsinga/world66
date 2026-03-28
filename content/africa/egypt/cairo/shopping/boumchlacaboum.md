@@ -26,5 +26,3 @@ url: [l6ur](http://l6ur)
 address: hdiwgo
 
 email: ouifeh_kwh@hotmail.com
-
-[back to Shopping](..)

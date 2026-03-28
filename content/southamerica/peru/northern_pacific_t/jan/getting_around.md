@@ -9,5 +9,3 @@ In Jaén, ask a mototaxista to drop you off at the paradero for the place you wa
 
 **Contributors**
 May 29, 2006
-change
-by [joosts](/member/joosts) (2 points)

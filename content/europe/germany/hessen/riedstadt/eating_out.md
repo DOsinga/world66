@@ -11,8 +11,6 @@ There are several good places to eat in and around Riedstadt. Here are the most 
 
 **Contributors**
 December 14, 2005
-change
-by [mister tibbs](/member/mister_tibbs)
 
 ### [Restaurant Croatia - Zur Mühle](/europe/germany/hessen/riedstadt/eating_out/restaurant_croatia)
 

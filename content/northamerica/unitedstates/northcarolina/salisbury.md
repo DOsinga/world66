@@ -1,9 +1,9 @@
 ---
-title: "Salisbury Travel Guide"
+title: "Salisbury"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 For
 years the town was the leading edge of the American frontier, the
@@ -16,7 +16,3 @@ Salisbury
 was twice occupied by enemy troops; in 1781 during the Revolutionary
 War by British General Cornwallis, and again in 1865 at the end
 of the Civil War by Union General Stoneman.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 15:25

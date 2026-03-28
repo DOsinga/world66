@@ -27,5 +27,3 @@ Adjacent to the Church of San Gines, chocoholics will love this place for its th
 
 **Contributors**
 March 22, 2010
-new
-by [beverly_per](/member/beverly_per)

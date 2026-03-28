@@ -1,9 +1,9 @@
 ---
-title: "Plomari Travel Guide"
+title: "Plomari"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Plomari is a city/town approximately the same size as Molyvos. There are plenty of inexpensive hotels accomadating tourists enjoying their vacation on the sand beach. Bike and motorcycle rentals are also easy to find.
 
@@ -12,13 +12,3 @@ Ouzo enthusiasts should not miss this place as there are several ouzo facotries 
 Travel guides about Plomari of Lesvos island in Greece:
 
 http://www.plomaricity.gr & http://www.agiosisidoros.com
-
-*Part or or all of this text stems from the original article at: www.plomaricity.gr*
-
-#### Contributors
-
-August 22, 2006 new by [atetrachordof3](/member/atetrachordof3) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 12:32

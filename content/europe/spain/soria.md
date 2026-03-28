@@ -1,9 +1,9 @@
 ---
-title: "Soria Travel Guide"
+title: "Soria"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The province of Soria is a plateau in North Central Spain, lying on the most easterly limits of the autonomous region of Castilla y Leon. Soria has over 10,000 sq km (3861 miles) of beautiful landscapes and diverse geography, which act as a backdrop to the large concentration of medieval castles, Romanesque churches and timeless villages. All of which lie in close proximity to each other.
 
@@ -16,7 +16,3 @@ The province of Soria has a population of approx 93,000, of which 40% live in it
 With its abundance of charm and tranquillity, Soria beckons you to explore its nature, medieval castles, forests, history and gastronomy.
 
 .
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 14:39

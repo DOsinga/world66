@@ -14,5 +14,3 @@ Landsberg, situated on a steep slope along the Lech river valley, is famous for 
  Rathaus, 89896 Landsberg am Lech
 
  Tel. +49 8191 - 12 82 45 or 12 82 68
-
--->

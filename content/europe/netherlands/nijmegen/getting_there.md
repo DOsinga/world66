@@ -13,5 +13,3 @@ The city center is just a 5 to 10 minute walk from the train station (just walk 
 
 **Contributors**
 May 03, 2006
-new
-by [bhekoz](/member/bhekoz)

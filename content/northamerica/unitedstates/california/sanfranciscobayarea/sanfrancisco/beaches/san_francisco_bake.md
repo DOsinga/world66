@@ -21,5 +21,3 @@ right onto Lincoln Boulevard, and turn left at the sign to Baker Beach.
 
 **Contributors**
 July 14, 2005
-new
-by [jzurdogo](/member/jzurdogo)

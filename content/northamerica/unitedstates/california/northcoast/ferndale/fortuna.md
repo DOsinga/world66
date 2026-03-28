@@ -1,9 +1,9 @@
 ---
-title: "Fortuna Travel Guide"
+title: "Fortuna"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Fortuna has been described as the Jewel of the North Coast. Located about 20 miles SSW of [Eureka](/northamerica/unitedstates/california/northcoast/eureka) it's location about 7 miles from the Pacific Ocean gives it a somewhat more temperate climate. Where 55-62 degrees is the summer norm in [Eureka](/northamerica/unitedstates/california/northcoast/eureka), Fortuna will regularly reach 70-75. Winters are mild and, in a word, wet.
 
@@ -14,11 +14,3 @@ Like many smaller areas, Fortuna is an expensive pain to get to by any method ot
 Bus service from out of the area is offered by Greyhound and is fairly conveniently scheduled from the South, but not as convenient from the North. A regional bus service connects southern Humboldt county with their northern neighbors and the airport.
 
 Fortuna's signature attraction continues to be it's Rodeo Days celebration the 3rd week of July. Small town Americana abounds with a carnival, soap box derby, dances, and a weekend rodeo.
-
-#### Contributors
-
-October 21, 2010 new by [tacomaduck](/member/tacomaduck)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 15:00

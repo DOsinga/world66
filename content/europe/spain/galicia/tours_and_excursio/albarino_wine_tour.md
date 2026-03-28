@@ -17,6 +17,3 @@ After following down the Rias Baixas coast your inland journey begins alongside 
 For your comfort during the trip we have selected a couple of stays in Paradores (Santiago and Baiona), these accommodations are placed within historic building like Monasteries, Castles, etc... Ranging from 4* to 5* GL (Grand luxury). Then as well you will have a few more rural stays in Galician Pazos, which are Noble Manor Houses with all the amenities of a Parador but on a smaller more personal scale.
 
 **Come Savor Seafood and Albarino wines of Galicia, Atlantic Spain!**
-
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 14 April 05

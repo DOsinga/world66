@@ -1,9 +1,9 @@
 ---
-title: "Viroqua Travel Guide"
+title: "Viroqua"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Viroqua, Wisconsin and the unglaciated, "Driftless Region" of Southwest Wisconsin: **One of the most unique places in North America,
 pristine, and virtually undiscovered. Encompassing a circular area
@@ -28,11 +28,3 @@ disproportionally blessed culturally. There are art galleries,
 theater, music halls, public markets, historic buildings and organic
 cafes. But most notably, there is a warmth, independence, genuineness,
 and vitality within the people, awaiting your visit.
-
-#### Contributors
-
-November 03, 2008 new by [macastat](/member/macastat)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 08:55

@@ -14,5 +14,3 @@ type: Tourist information
 
 
 url: [www.rio.rj.gov.br](http://www.rio.rj.gov.br/riotur/en/home.php)
-
-[back to Practical Information](..)

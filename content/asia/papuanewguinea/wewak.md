@@ -1,0 +1,4 @@
+---
+title: "Wewak"
+type: location
+---

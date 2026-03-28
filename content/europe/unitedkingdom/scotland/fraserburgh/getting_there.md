@@ -7,5 +7,3 @@ From Aberdeen follow the A90 north, turn off 4 miles north of Ellon and drive th
 
 **Contributors**
 February 02, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)

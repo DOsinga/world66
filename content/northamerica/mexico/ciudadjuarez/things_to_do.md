@@ -50,6 +50,4 @@ foot. It is outside of the city. When you are exploring these canyons it
 is best to stay in one of the towns along the railway line. The canyons
 are large gorges in the Sierra Madre Occidental that were once the home
 of the local Tarahumaras Indians. You can see old stone buildings and
-cave sand in large storage containers that go back to 1 B.C. There was
-mining in the area as the ground was rich in minerals such as gold,
-silver and opals.
+cave sand in large storage containers that go

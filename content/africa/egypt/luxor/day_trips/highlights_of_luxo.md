@@ -5,8 +5,6 @@ address: "Luxor"
 email: "shennog@yahoo.com"
 phone: "002 010 3055 759"
 url: "www.ourexplorer.com"
-latitude: 25.702096
-longitude: 32.647186
 ---
 
 Luxor **'World's Greatest Open Air Museum'** as it contains a major amount of Monuments of the world which remain till today.
@@ -43,50 +41,4 @@ an extra ticket).
 **3-** 2 Colossi of Memnon (Located at the front of the ruined Amonophiss|||'s temple ).
 
 Then
-we will return back to the east and we have time for rest and lunch
-before we continue our tour at the East Bank, We will visit there:
-
-**4-** Karnak Temples ( Complex of temples, one of them is the temple of the main God of Egypt)
-
-**5-** Luxor Temple ( In which they used to celebrate the feast of marriage of God Amon-Ra )
-
-Finally I will conduct you back to your hotel.
-
-**WHAT IS INCLUDED:**
-
-*My services as your private tour guide.
-
-*All transfers during the tour in a new air-conditioned vehicle with a professional driver.
-
-**WHAT IS EXCLUDED:**
-
-*The entrance fees for the Sightseeing.
-
-*Tips or anythings of personal nature.
-
-*Any food or drinks.Tour Duration:
-9 Hours
-
-Maximum number of people:
-10
-
-Tour Type:
-Transport Based
-Tour Price:
-
-Price Per Group
-100 USD
-
-
-
-
-
-tel: 002 010 3055 759
-
-url: www.ourexplorer.com
-
-address: Luxor
-
-email: shennog@yahoo.com
-
-[back to Day Trips](..)
+we will return

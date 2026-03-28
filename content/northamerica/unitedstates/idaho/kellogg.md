@@ -1,9 +1,9 @@
 ---
-title: "Kellogg Travel Guide"
+title: "Kellogg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Kellogg** is a city in the Silver Valley
 of Shoshone County, Idaho, United States, in the Idaho Panhandle region. The
@@ -19,13 +19,3 @@ outcropping of galena, which became the site of the Bunker Hill and Sullivan
 Mines; those mines led to the founding of Kellogg, a city where a local sign
 reads "This is the town founded by a jackass and inhabited by his
 descendants." Noah Kellogg is buried in the city's cemetery.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Kellogg,_Idaho*
-
-#### Contributors
-
-November 20, 2009 change by [openbook](/member/openbook)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 13:25

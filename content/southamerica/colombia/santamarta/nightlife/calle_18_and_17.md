@@ -18,13 +18,5 @@ and there are more, also closeby this area
 
 **Contributors**
 August 17, 2005
-new
-by [psahlmann](/member/psahlmann)
 
 type: Clubs and dancing
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

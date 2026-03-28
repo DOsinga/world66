@@ -23,5 +23,3 @@ Just ask for Harvey
 
 **Contributors**
 June 24, 2008
-new
-by [harvey3509](/member/harvey3509)

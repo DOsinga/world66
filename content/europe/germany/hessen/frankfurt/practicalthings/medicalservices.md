@@ -14,5 +14,3 @@ type: general
 
 
 tel: +49 (0)69 19 29 21
-
-[back to Practical Information](..)

@@ -12,8 +12,6 @@ The centre is situated on the Tina Peninsular, Noumea.
 
 **Contributors**
 February 28, 2005
-new
-by [giorgio](/member/giorgio)
 
 type: Public Buildings
 
@@ -24,5 +22,3 @@ type: Public Buildings
 url: [www.adck.com.nc](http://www.adck.com.nc)
 
 tel: 687 41 45 55
-
-[back to Sights](..)

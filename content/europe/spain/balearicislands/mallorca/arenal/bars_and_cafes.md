@@ -7,8 +7,6 @@ Please find recommended Arenal bars and cafes below.
 
 **Contributors**
 March 19, 2006
-change
-by [reen](/member/reen)
 
 ### [The Strathallan Arms](/europe/spain/balearicislands/mallorca/arenal/bars_and_cafes/the_strathallan_ar)
 

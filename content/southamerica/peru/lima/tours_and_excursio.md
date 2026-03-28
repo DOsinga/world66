@@ -11,11 +11,4 @@ A real bonus for your stay in Lima without getting tired due to a long car journ
 
 **http://www.islaspalomino.com**
 
-*Change history*
-Orginal article by [ausum](/member/ausum) on 09 April 04
-
-Orginal article by [ausum](/member/ausum) on 09 April 04
-
-Orginal article by [ausum](/member/ausum) on 09 April 04
-
-Minor corrections by [ausum](/member/ausum) on 10 April 04
+Minor corrections on 10 April 04

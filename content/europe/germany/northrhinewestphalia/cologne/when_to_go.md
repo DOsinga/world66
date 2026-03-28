@@ -23,9 +23,5 @@ Autumn, like spring, is a rapid progression from September to November. The weat
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 26, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

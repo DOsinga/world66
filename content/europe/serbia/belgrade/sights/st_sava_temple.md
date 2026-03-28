@@ -2,8 +2,6 @@
 title: "St. Sava Temple"
 type: poi
 type: "Churches and Cathedrals"
-latitude: 44.798045
-longitude: 20.469188
 ---
 
 Although still under construction, this monumental temple is the third
@@ -13,9 +11,3 @@ Belgrade. It is dedicated to St. Sava (Rastko Nemanjic), who founded
 Serbian Orthodox Church and was the first archbishop.
 
 type: Churches and Cathedrals
-
-
-
-
-
-[back to Sights](..)

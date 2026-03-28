@@ -1,0 +1,8 @@
+---
+title: "Top 5 Must Do's in Nepal"
+type: section
+---
+
+Everest Base Camp Trek http://www.trekshimalaya.com/everest_base_camp.php is a classic trekking which follows in the footsteps of Hillary and Tenzing and ends with an ascent of Kalapattar for superb views of Everest. It takes a wonderful route to Everest, via Gokyo Lakes and the viewing point of Gokyo Ri, which arguably provides a http://www.adventurestrekking.com better view of Everest than the more popular Kalapattar. Certainly you will never be quite same again. Everest view from Kalapatthar Everest base camp ofhas become one of the most popular routes in Nepal. It will give us enormous pleasure to introduce you to an astounding view of the world's highest peak. Perhaps in viewing Everest in this way, you will be fulfilling a long held desire. Before reaching the Everest Base camp, the trail follows the Khumbu Glacier with huge ice pinnacles soaring to unbelievable height view of Mt. Everest.
+
+Annapurna Base Camp Trek http://www.trekshimalaya.com/annapurna_base_camp.php offer quickest to meet high Himalayan altitude where glacier replace rivers. We start the foothills from Pokhara, appreciating the slate roofed tropical village of magnificent rhododendron forest before entering the narrow Modi Khola gorge. We climb http://www.adventurestrekking.com higher we get to the hidden world of the Annapurna Sanctuary. Huge south face of Annapurna one (8091m.) provide impressive backdrop while closeness of ten peaks over 6000 meters including Hiunchuli, Fang, Annapurna III and Fishtail, inspire a delicious joy as a fitting highlight of this spectacular trek. On the return journey we will have a chance to visit the beautiful village and the Gurungs of Gandruk village before heading

@@ -2,8 +2,6 @@
 title: "Language"
 type: poi
 type: "Tourist information"
-latitude: 30.185734
-longitude: -85.72656
 ---
 
 The official language in Panama is Spanish. Due to the US influence
@@ -19,7 +17,5 @@ America, there's a lot of slang expressions.
 
 **Contributors**
 February 13, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Tourist information

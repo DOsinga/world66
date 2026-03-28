@@ -1,0 +1,4 @@
+---
+title: "Agat"
+type: location
+---

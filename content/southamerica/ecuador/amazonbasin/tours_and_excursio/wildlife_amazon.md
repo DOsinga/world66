@@ -22,5 +22,3 @@ url: [www.wildlifeamazon.com](http://www.wildlifeamazon.com/)
 address: STREETS QUITO Y BOLIVAR
 
 email: robertvaca@wildlifeamazon.com
-
-[back to Tours and Excursions](..)

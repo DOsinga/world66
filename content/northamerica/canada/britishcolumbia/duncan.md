@@ -1,0 +1,4 @@
+---
+title: "Duncan"
+type: location
+---

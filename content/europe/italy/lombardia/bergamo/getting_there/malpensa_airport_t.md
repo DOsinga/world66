@@ -11,8 +11,6 @@ The train leaves from the lower ground floor in Terminal 1 and takes about 40 mi
 
 **Contributors**
 July 05, 2006
-new
-by [karenbru](/member/karenbru) (2 points)
 
 type: By Rail
 
@@ -21,5 +19,3 @@ type: By Rail
 
 
 url: [www.sea-aeroportimilano.it](http://www.sea-aeroportimilano.it/)
-
-[back to Getting There](..)

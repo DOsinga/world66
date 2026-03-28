@@ -11,5 +11,3 @@ This is a really enjoyable place to eat with really friendly owners. Don't recoi
 
 **Contributors**
 June 21, 2006
-new
-by [davidx](/member/davidx) (1 point)

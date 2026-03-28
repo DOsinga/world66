@@ -41,5 +41,3 @@ Torremolinos is a great base from which to discover many other Spanish cities su
 
 **Contributors**
 November 16, 2009
-new
-by [nicola76](/member/nicola76)

@@ -5,9 +5,6 @@ type: section
 
 Columbus is not the most exciting city in the United States, but there are some interesting sights.
 
-*Change history*
-Orginal article by [indrian](/member/indrian) on 26 April 04
-
 **all**
 
 **Ohio Historical Society**
@@ -28,6 +25,4 @@ This impressive example of Greek Revival Architecture was built between 1839 and
 
 **Franklin Park Conservatory**
 
-The oldest part of the conservatory goes back to the end of the 19th century and was built on the model of the Crystal Palace in London. The conservatory has several interesting sections of plant life covering the rainforest, the Himalayas, the desert, and the Pacific Islands. There is also a small palm house, as well as displays of orchids and bonsai trees. There is a small botanical garden out back. [more..](/northamerica/unitedstates/ohio/columbus/sights/franklin_park_cons)
-
--->
+The oldest part of the conservatory goes

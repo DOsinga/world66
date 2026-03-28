@@ -68,5 +68,3 @@ decorations and traditions.
 
 **Contributors**
 March 02, 2010
-change
-by [ctanios](/member/ctanios)

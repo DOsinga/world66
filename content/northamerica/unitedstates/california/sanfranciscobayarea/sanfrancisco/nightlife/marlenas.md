@@ -17,5 +17,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#marlenas](http://www.sfgaybarlist.com#marlenas)
 
 address: 488 Hayes St.
-
-[back to Nightlife and Entertainment](..)

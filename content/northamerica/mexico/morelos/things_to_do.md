@@ -3,16 +3,12 @@ title: "Things to do in Morelos"
 type: section
 address: "Central Square"
 type: "Spa and Sauna"
-latitude: 43.287001
-longitude: -76.14636
 ---
 
 Please go to the main Puerto Morelos page on this site for this information
 
 **Contributors**
 September 28, 2009
-change
-by [catbrown](/member/catbrown)
 
 ### [Typical Sweat House](/northamerica/mexico/morelos/things_to_do/typical_sweat_hous)
 

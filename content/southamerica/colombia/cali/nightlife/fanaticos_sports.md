@@ -20,5 +20,3 @@ ClosingTime: 1AM weekdays, 3 AM weekends
 accessibility: Free parking
 
 address: Palmetto Plaza Shopping Center
-
-[back to Nightlife and Entertainment](..)

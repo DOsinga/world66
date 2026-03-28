@@ -8,5 +8,3 @@ Near subway Blaak you'll find the most striking houses of Rotterdam; the cube ho
 address: Overblaak 70
 
 tel: +31-010-4142285
-
--->

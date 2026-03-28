@@ -1,0 +1,4 @@
+---
+title: "malongo"
+type: location
+---

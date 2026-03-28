@@ -24,5 +24,3 @@ tel: (406)638-2621
 **White Swan Memorial Library**
 
 Little bighorn houses the office of the park historian in the historic stone house (original superintendent's headquarters.) This facility contains the finest collection of research materials available on the battle of the Little Bighorn, as well as other related historical events. Visits are by appointment only.  [more..](/northamerica/unitedstates/montana/littlebighorn/todo/whiteswanmemoriallibrary)
-
--->

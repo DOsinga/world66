@@ -27,5 +27,3 @@ Bologna has two different towers, the Torre degli Asinelli and the Torre degli G
 
 **Contributors**
 April 06, 2010
-new
-by [piyushjain](/member/piyushjain_)

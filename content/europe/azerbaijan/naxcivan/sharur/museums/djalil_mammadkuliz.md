@@ -16,11 +16,7 @@ fund of the museum.
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen) (4 points)
 
 
 
 address: Sharur area, Djalikend
-
-[back to Museums](..)

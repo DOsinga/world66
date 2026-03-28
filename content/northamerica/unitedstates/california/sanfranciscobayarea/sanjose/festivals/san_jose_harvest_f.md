@@ -21,5 +21,3 @@ INFO : Call 415-447-3205 or visit [www.harvestfestival.com](/northamerica/united
 
 **Contributors**
 July 08, 2007
-change
-by [crlauer](/member/crlauer)

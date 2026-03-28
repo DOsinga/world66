@@ -53,5 +53,3 @@ fauna and forest, meadows and scrubs. The altitude ranges from
 
 **Contributors**
 March 09, 2010
-new
-by [jenna storm](/member/jenna_storm)

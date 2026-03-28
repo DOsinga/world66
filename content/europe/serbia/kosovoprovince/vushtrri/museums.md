@@ -11,8 +11,6 @@ phone: "044 196 328"
 
 **Contributors**
 May 31, 2008
-new
-by [eminbishi](/member/eminbishi)
 
 ### [Muzeu Historik-Etnografik Vushtrri](/europe/serbia/kosovoprovince/vushtrri/museums/muzeu_historiketn)
 

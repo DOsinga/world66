@@ -17,5 +17,3 @@ Identification: It is strongly recommended that any visitor carry legal photogra
 
 **Contributors**
 April 01, 2010
-new
-by [ontariobruin](/member/ontariobruin)

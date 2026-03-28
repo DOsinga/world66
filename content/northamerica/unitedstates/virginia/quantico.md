@@ -1,0 +1,4 @@
+---
+title: "Quantico"
+type: location
+---

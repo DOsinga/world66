@@ -8,8 +8,6 @@ phone: "2610235"
 price: "Between N1,000-N5,000"
 type: "International"
 url: "www.bungalowrestaurant.com"
-latitude: 6.429605
-longitude: 3.423879
 ---
 
 BUNGALOW RESTAURANT is a unique category of restaurants, offering higher-quality service and food than existing chain or independent restaurants. We believe that this niche is a dynamic growth area within the restaurant industry that offers significant growth opportunities for BUNGALOW RESTAURANT . We believe that our restaurants are uniquely positioned as "destination restaurants" that attract a very loyal clientele.
@@ -50,5 +48,3 @@ address: AKIN ADESOLA
 PriceOfMenu: Between N1,000-N5,000
 
 email: info@bungalowrestaurant.com
-
-[back to Eating Out](..)

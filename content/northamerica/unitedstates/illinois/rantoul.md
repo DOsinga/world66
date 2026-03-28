@@ -1,0 +1,4 @@
+---
+title: "Rantoul"
+type: location
+---

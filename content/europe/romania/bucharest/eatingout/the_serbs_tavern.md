@@ -17,8 +17,6 @@ The wines are also something that you shouldn’t miss. The house wine along wit
 
 **Contributors**
 May 27, 2007
-change
-by [greenshell](/member/greenshell)
 
 type: First Class
 
@@ -35,5 +33,3 @@ url: [www.tavernasarbului.ro](http://www.tavernasarbului.ro)
 address: 31 Tipografilor Street
 
 PriceOfMenu: medium to high
-
-[back to Eating Out](..)

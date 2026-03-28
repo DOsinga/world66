@@ -24,5 +24,3 @@ type: Landmarks
 
 
 accessibility: by car
-
-[back to Sights](..)

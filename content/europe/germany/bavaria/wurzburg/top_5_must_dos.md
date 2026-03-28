@@ -28,5 +28,3 @@ A little court yard at the rear of the museum is a quiet and often overlooked. O
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

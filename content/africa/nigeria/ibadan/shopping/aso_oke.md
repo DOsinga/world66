@@ -23,5 +23,3 @@ tel: 08035241355
 address: B3 TVL PLAZA BESIDE AP FILLING STATION,ALAKIA ISEBO ROAD NEW IFE ROAD IBADAN OYO STATE NIGERIA
 
 email: fundairo@yahoo.com
-
-[back to Shopping](..)

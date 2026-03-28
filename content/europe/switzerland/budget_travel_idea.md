@@ -27,9 +27,5 @@ The best way to save money on day trips is to purchase a rail pass, and to use t
 
 **Contributors**
 February 14, 2010
-change
-by [shomer](/member/shomer)
 
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

@@ -18,5 +18,3 @@ address: 2920 W Warner Ave
 tel: (714) 556-8956
 
 zipcode: Santa Ana, CA 92704
-
-[back to Nightlife and Entertainment](..)

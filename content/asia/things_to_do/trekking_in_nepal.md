@@ -7,8 +7,6 @@ email: "trekkingnepaltour@gmail.com"
 phone: "+977(01) 4442922"
 type: "Trekking"
 url: "www.enepalholidays.com"
-latitude: 27.716658
-longitude: 85.312702
 ---
 
 **Trekking in Nepal**
@@ -58,5 +56,3 @@ url: [www.enepalholidays.com](http://www.enepalholidays.com)
 address: Thamel,Kathmandu
 
 email: trekkingnepaltour@gmail.com
-
-[back to Things to Do](..)

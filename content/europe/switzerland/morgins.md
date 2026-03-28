@@ -1,0 +1,4 @@
+---
+title: "Morgins"
+type: location
+---

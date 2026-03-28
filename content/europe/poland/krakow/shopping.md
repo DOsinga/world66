@@ -27,5 +27,3 @@ If you are working on a strict budget, you can always buy from the best bargain 
 
 **Contributors**
 April 16, 2010
-new
-by [pamelarae](/member/pamelarae)

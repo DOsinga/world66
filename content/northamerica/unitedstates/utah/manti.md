@@ -1,9 +1,9 @@
 ---
-title: "Manti Travel Guide"
+title: "Manti"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Founded in 1849 by Mormon Pioneers, Manti is the home of the
 Manti temple. The city also hosts a number of annual events such as the Mormon
@@ -22,7 +22,3 @@ Old Fashioned Fourth of July (Saturday, July 4)
 Manti Mountain ATV Ride (August)
 
 Christmas Light Parade (Friday, November 27)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 02:06

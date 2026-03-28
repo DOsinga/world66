@@ -16,13 +16,5 @@ Most of Linnaei collections of plants and animals are not in Uppsala. They are k
 
 **Contributors**
 June 12, 2005
-new
-by [ingvar](/member/ingvar) (1 point)
 
 type: Memorials
-
-
-
-
-
-[back to Sights](..)

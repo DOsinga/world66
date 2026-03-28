@@ -34,19 +34,4 @@ continue your shore walking for another 15 minutes, then head right N,
 leaving the eastern part of beach plain on your right hand. Continue
 walking N on the beach on the "land" side this time.
 
-Pick up to your bike where you left it and go back to Den Hoorn (10
-minutes), hand in your bike and pick up your bus back to the ferry
-terminal or directly drive back to the ferry terminal (15 minutes).
-
-*More detailed information on history and environment can be found at
-http://www.coastalguide.org/dune/texel/variety.html Scroll to
-[The dunes between De Koog and Den Hoorn], [The Geul] and [The Hors]
-
-For maps of De Geul and De Hors, please go to the [Getting around] section
-
-*
-
-**Contributors**
-March 26, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (3 points)
+Pick up to your bike where you left it and go

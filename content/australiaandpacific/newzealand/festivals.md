@@ -7,8 +7,6 @@ url: "www.worldofwearableart.com"
 
 **Contributors**
 November 22, 2006
-change
-by [nztraveller](/member/nztraveller)
 
 ### [World of Wearable Arts (WOW)](/australiaandpacific/newzealand/festivals/world_of_wearable)
 

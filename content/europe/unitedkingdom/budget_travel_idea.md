@@ -27,5 +27,3 @@ There are many budget airlines that operate regular flights to and from any plac
 
 **Contributors**
 March 10, 2010
-new
-by [kwalker](/member/kwalker)

@@ -64,5 +64,3 @@ Free Hosting Music Web
 http://uwkvwp.in/rh
 Energy Drink Collection
 http://orucht.in/5y
-
-*Part or or all of this text stems from the original article at: Rebecca Raymond*

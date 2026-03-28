@@ -7,7 +7,7 @@ Some of the world's finest and freshest cuisine, including an array of seafood d
 
 New Zealand's 'Pacific Rim' cuisine style takes its inspiration from Europe, Thailand, Malaysia, Indonesia, Polynesia, Japan and Vietnam. This unique blend of influences has created a mouthwatering range of flavours and food available from cafes and restaurants nationwide. 
 
-**Restaurants**
+**general**
 
 **CityLife Auckland**
 
@@ -39,4 +39,8 @@ An extensive balcony overlooking the Harbour, serving the freshest of New Zeala
 
 **Pride of Auckland Company**
 
-Whilst in Auckland, share some quality time with us. Dine on Auckland's sheltered harbour on a large professionally crewed sailboat.
+Whilst in Auckland, share some quality time with us. Dine on Auckland's sheltered harbour on a large professionally crewed sailboat. 
+
+**Burger Fuel**
+
+Best Burger's on earth. Pricey but delicious. 5 times in Auckland.

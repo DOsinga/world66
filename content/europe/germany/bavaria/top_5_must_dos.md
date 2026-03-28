@@ -27,8 +27,6 @@ Fuessen is the epitome of what Bavaria is all about for most people. The main at
 
 **Contributors**
 September 19, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)
 
 ### [penis](/europe/germany/bavaria/top_5_must_dos/penis)
 

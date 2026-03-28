@@ -68,9 +68,3 @@ The Canadian rail system connects to the USA at several points. Major routes are
 **Road**
 
 The only road access to Canada is through the southern border with the USA or from the west through Alaska. Apart from private motoring the most popular way of travelling by road is by bus. The biggest coach company in the world is the *Greyhound Bus Company* and this is one of the most common routes to Canada from the United States. There are many crossing points from the United States to Canada but some of the most common are: New York to Montréal/Ottawa; Detroit to Toronto/Hamilton; Minneapolis to Winnipeg; Seattle to Vancouver/Edmonton/Calgary.
-
-
-
-## Subsections
-
-[By Air](/northamerica/canada/gettingthere/byair)

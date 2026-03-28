@@ -10,5 +10,3 @@ The scenery is amazingly varied for the size of the area. Perhaps Rhosili with t
 Davidx
 
 6 September 2004
-
--->

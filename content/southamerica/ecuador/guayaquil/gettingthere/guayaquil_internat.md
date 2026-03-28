@@ -21,5 +21,3 @@ type: By Air
 url: [www.tagsa.aero](http://www.tagsa.aero)
 
 address: Americas Avenue
-
-[back to Getting There](..)

@@ -1,9 +1,9 @@
 ---
-title: "Prades Travel Guide"
+title: "Prades"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Situated in the
 heart of the Pyrenees Orientales (a department of
@@ -19,9 +19,3 @@ the sandy beaches of the Mediterranean (Canet Plage, Argelès-sur-Mer).
 It
 is 50 minutes from the Mediterranean beaches, 40 minutes drive from
 Perpignan and 50 minutes drive from a choice of 9 ski resorts. There is a public swimming pool in Prades, river swimming a 5 minute drive away, and a large lake with swimming, dinghy sailing and a cafe 15 minutes away.
-
-*Part or or all of this text stems from the original article at: http://www.languedocholidays.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 09:31

@@ -35,8 +35,6 @@ way through the festival streets.
 
 **Contributors**
 July 11, 2006
-change
-by [reen](/member/reen)
 
 
 
@@ -45,5 +43,3 @@ by [reen](/member/reen)
 date: In summer season
 
 address: check Catalonia Festivals section
-
-[back to Festivals](..)

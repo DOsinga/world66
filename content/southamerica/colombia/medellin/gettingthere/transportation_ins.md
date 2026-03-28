@@ -15,5 +15,3 @@ type: By Road
 tel: 3527408
 
 email:
-
-[back to Getting There](..)

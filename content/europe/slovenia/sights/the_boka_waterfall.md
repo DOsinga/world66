@@ -8,8 +8,6 @@ opening_hours: "every day"
 phone: "+ 386 5 3896 444"
 type: "Hotspots"
 url: "www.bovec.si"
-latitude: 46.338585
-longitude: 13.552419
 ---
 
 THE BOKA WATERFALL ( *[Bovec](/europe/slovenia/bovec) area* )
@@ -17,8 +15,6 @@ The waters of this mighty waterfall, which are accumulated in the Kanin Range an
 
 **Contributors**
 August 07, 2009
-new
-by [zabrajda](/member/zabrajda)
 
 type: Hotspots
 
@@ -37,5 +33,3 @@ url: [www.bovec.si](http://www.bovec.si)
 address: Bovec, Slovenia
 
 email: info@bovec.si
-
-[back to Sights](..)

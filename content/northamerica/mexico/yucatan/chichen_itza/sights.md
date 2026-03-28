@@ -9,5 +9,3 @@ Cenote Ik Kil is very close to Chichen Itza, and is an excellent stop that can b
 
 **Contributors**
 February 09, 2008
-new
-by [helen](/member/helen) (1 point)

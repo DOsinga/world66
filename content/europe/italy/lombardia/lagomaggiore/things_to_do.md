@@ -55,9 +55,5 @@ are treks to suit all fitness and skill levels. Guides are available.
 
 **Contributors**
 February 17, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 17, 2010
-new
-by [jenna storm](/member/jenna_storm)

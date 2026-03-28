@@ -25,5 +25,3 @@ Among the other budget locations in Luanda, make sure to visit the structures th
 
 **Contributors**
 February 17, 2010
-change
-by [gabriellet](/member/gabriellet)

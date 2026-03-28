@@ -36,5 +36,3 @@ There are other attractions like Gibbs Hill Lighthouse and Windreach Recreationa
 
 **Contributors**
 March 04, 2010
-new
-by [piyushjain](/member/piyushjain_)

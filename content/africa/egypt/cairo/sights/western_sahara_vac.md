@@ -6,8 +6,6 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Hotspots"
 url: "egypttourinfo.com"
-latitude: 30.044388
-longitude: 31.235726
 ---
 
 Wonders await you on the 12 Days: Western Sahara Vacation, where memories and experiences never fail to enthrall and inspire.
@@ -47,24 +45,6 @@ After enjoying breakfast, you will take a 6-hour trip to Luxor, where you will s
 After breakfast, you will cross the Nile River to the Valley of the Kings and the Valley of the Queens. You’ll also visit the Temple of Hatshepsut and the Colossi of Memnon here. You will enjoy lunch at a true local restaurant, followed by a trip down the East Bank to the famed Karnak Temples and the Luxor Temple. Finally, you will board a sleeper train bound for Cairo.
 　
 **Day 11: Free Day in Cairo/Saqqara & Memphis (optional)**
-You will be met at the Giza train station in Cairo by our representative, who will assist you back to your hotel. You can enjoy a free day in Cairo or an optional tour to the Saqqara Necropolis and Memphis, the ancient capital of Egypt. Spend the night in your hotel in Cairo.
-　
-**Day 12: Final Departure**
-You will enjoy breakfast in your hotel, followed by a transfer to the Cairo International Airport for your departure flight.
-
-for more informations and booking please visit
-http://egypttourinfo.com/touring-the-western-desert-of-sahara.html
-
-type: Hotspots
-
-
-
-tel: 0
-
-url: [egypttourinfo.com](http://egypttourinfo.com/touring-the-western-desert-of-sahara.html)
-
-address: Cairo
+You will be met at the Giza train station in Cairo by our representative, who will assist you address: Cairo
 
 email: adsense@seoera.net
-
-[back to Sights](..)

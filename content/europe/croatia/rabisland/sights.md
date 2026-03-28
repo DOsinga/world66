@@ -18,9 +18,5 @@ reneissance palaces, the town walls and park Komrcar.
 
 **Contributors**
 February 22, 2005
-new
-by [apapec](/member/apapec)
 
 May 27, 2005
-change
-by [giorgio](/member/giorgio)

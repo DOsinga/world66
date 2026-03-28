@@ -27,5 +27,3 @@ The Image Factory Art Foundation and Gallery is located a few steps away from th
 
 **Contributors**
 March 22, 2010
-new
-by [kwalker](/member/kwalker)

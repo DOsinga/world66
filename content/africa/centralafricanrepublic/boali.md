@@ -1,0 +1,4 @@
+---
+title: "Boali"
+type: location
+---

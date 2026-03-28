@@ -7,5 +7,3 @@ Air Greenland flies once a week (twice in summer) from Copenhagen. Air Iceland (
 
 **Contributors**
 August 19, 2010
-new
-by [ingvar](/member/ingvar)

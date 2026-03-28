@@ -5,8 +5,6 @@ address: "Dropceva 4a"
 phone: "0038 520321 575"
 type: "Pubs"
 url: "www.katieoconnors.com"
-latitude: 42.641217
-longitude: 18.109645
 ---
 
 There are a lot of little bars and cafes scattered around the old town. Try to stay away from those places that are located on the main strips in the old town, their drinks are very expensive. Venture out in the side streets there are a few places I found on my trip to be great places where you can have a good time, enjoy good music, friendly atmosfere, and good drinks without gettin ripped off. Here are a couple of them: Fresh*, Caffe Bar Rio, Galleria, Trokadero.

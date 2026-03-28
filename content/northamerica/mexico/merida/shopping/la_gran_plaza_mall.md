@@ -14,13 +14,5 @@ Located at the end of the Prolongacion del Paseo de Montejo, you can drive there
 
 **Contributors**
 March 22, 2006
-new
-by [elmaloso](/member/elmaloso) (1 point)
 
 type: Shopping centers and malls
-
-
-
-
-
-[back to Shopping](..)

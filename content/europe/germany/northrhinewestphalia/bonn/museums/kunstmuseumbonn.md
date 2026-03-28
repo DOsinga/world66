@@ -17,9 +17,3 @@ The municipal art museum has among others a good collection of August Macke an
  Telephone: +49-228-776221 and 776227
 
 type: general
-
-
-
-
-
-[back to Museums](..)

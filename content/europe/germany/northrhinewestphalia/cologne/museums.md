@@ -20,5 +20,3 @@ Finally, The Rautenstrauch-Joest Museum of Ethnography, located on Ubierring Str
 
 **Contributors**
 January 22, 2010
-change
-by [tiffanymparker](/member/tiffanymparker)

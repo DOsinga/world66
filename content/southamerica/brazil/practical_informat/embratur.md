@@ -14,5 +14,3 @@ type: Tourist information
 
 
 url: [www.braziltour.com](http://www.braziltour.com/site/en/home/index.php)
-
-[back to Practical Information](..)

@@ -15,5 +15,3 @@ type: Museums
 address: 1280 Peachtree St.
 
 tel: (404) 733 4400
-
-[back to Sights](..)

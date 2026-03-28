@@ -1,6 +1,6 @@
 ---
 title: "All around the Viaduct Harbour"
-type: location
+type: poi
 type: "Clubs and dancing"
 url: "www.viaduct.co.nz"
 ---
@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 url: [www.viaduct.co.nz](http://www.viaduct.co.nz/restaurantlist.htm)
-
-[back to Nightlife and Entertainment](..)

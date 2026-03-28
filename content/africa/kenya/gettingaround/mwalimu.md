@@ -14,5 +14,3 @@ You can now book online for your bus travel in Kenya at www.eManamba.com. Very c
 address: intercomjazy@yahoo.com
 
 email: intercomjazy@yahoo.com
-
-[back to Getting Around](..)

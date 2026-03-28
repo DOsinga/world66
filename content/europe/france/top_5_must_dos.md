@@ -49,5 +49,3 @@ on the east bordering Italy and Switzerland, the Pyrenees in the south bordering
 
 **Contributors**
 November 12, 2009
-new
-by [kimerly](/member/kimerly)

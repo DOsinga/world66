@@ -12,8 +12,6 @@ Minitalia, dedicated to Edutainment (educational amusement). Leolandia, dedicate
 
 **Contributors**
 November 09, 2009
-change
-by [karenbru](/member/karenbru)
 
 
 
@@ -26,5 +24,3 @@ url: [www.leolandiapark.it](http://www.leolandiapark.it/english.html)
 address: Via Vittorio Veneto 52, Capriate S. Gervasio(Bergamo)24042
 
 email: info@minitalia.com
-
-[back to Day Trips](..)

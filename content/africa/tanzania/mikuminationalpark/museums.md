@@ -7,5 +7,3 @@ Where you stop to pay the fee to enter the park, there is also a little park mus
 
 **Contributors**
 August 21, 2005
-new
-by [stinemsi](/member/stinemsi)

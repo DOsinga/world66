@@ -1,0 +1,4 @@
+---
+title: "chhindwara"
+type: location
+---

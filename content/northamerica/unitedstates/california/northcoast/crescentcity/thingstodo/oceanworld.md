@@ -24,5 +24,3 @@ address: 304 Highway 101 S
 tel: (707) 464-4900
 
 email: ncol0095@linkcc.om
-
-[back to Things to do](..)

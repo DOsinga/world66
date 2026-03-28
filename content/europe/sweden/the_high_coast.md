@@ -9,8 +9,6 @@ Tourist information and hotels can be found in towns and major villages. There a
 
 **Contributors**
 August 07, 2005
-change
-by [ingvar](/member/ingvar)
 
 ## Destinations in the High Coast
 

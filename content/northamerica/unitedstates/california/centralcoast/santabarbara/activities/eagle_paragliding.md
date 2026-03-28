@@ -12,5 +12,3 @@ type: Other
 
 
 address: http://www.eagleparagliding.com
-
-[back to Things to do](..)

@@ -13,8 +13,6 @@ The Museo de Arte Contemporaneo (MARCO) is Monterrey's trendiest, artsiest, and 
 
 **Contributors**
 January 06, 2006
-new
-by [tiogringo](/member/tiogringo)
 
 type: Hotspots
 
@@ -31,5 +29,3 @@ url: [www.marco.org.mx](http://www.marco.org.mx/)
 address: corner of Zuazua and Ocampo
 
 email:
-
-[back to Sights](..)

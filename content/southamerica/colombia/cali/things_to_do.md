@@ -58,9 +58,5 @@ and even bullfighting.
 
 **Contributors**
 February 04, 2010
-new
-by [cferry1990](/member/cferry1990)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

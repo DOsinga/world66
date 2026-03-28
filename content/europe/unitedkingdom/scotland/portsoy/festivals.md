@@ -8,8 +8,6 @@ Portsoy's most popular festival is the Scottish traditional boat festival is hel
 
 **Contributors**
 January 30, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Scottish Traditional Boat Festival](/europe/unitedkingdom/scotland/portsoy/festivals/scottish_tradition)
 

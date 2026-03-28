@@ -55,5 +55,3 @@ city.
 
 **Contributors**
 February 16, 2010
-change
-by [kwalker](/member/kwalker)

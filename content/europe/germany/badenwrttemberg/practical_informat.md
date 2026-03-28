@@ -61,5 +61,3 @@ members with valid Hostelling International membership cards.
 
 **Contributors**
 March 26, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

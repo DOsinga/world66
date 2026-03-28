@@ -11,8 +11,6 @@ This is Quito's main bus station for bus lines to and from other cities in Ecuad
 
 **Contributors**
 September 24, 2005
-new
-by [2004-12-29t22:45z](/member/2004-12-29t22:45z)
 
 type: By Road
 
@@ -25,5 +23,3 @@ tel: +593 2 2 57 11 63
 url: [www.quito.gov.ec](http://www.quito.gov.ec/turismo/t_movilidad3.htm)
 
 address: Maldonado 3077
-
-[back to Getting There](..)

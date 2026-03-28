@@ -9,8 +9,6 @@ There is a lot of nature in and around Kuopio, but also a few nice things and pl
 
 **Contributors**
 October 13, 2006
-new
-by [krissi](/member/krissi) (1 point)
 
 ### [Puijo Tower](/europe/finland/kuopio/sights/puijo_tower)
 

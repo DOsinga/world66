@@ -12,8 +12,3 @@ Three miles north of Lochinver is a wondeful picturesque bay with extensive sand
 Other mountains in the area are Canisp and Quinag, shaped like a Y.
 
 Useful websites for Lochinver are:http://www.milford.co.uk/scotland/places/lochinver.html , www.**lochinver**.bordernet.co.uk/places/inverkirkaig.html and:http://www.undiscoveredscotland.co.uk/lochinver/achmelvich/
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 October 04
-
--->

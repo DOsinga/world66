@@ -1,9 +1,9 @@
 ---
-title: "El Quseir Tours and trips Travel Guide"
+title: "El Quseir Tours and trips"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Normal
 0
@@ -18,7 +18,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 ***
 *********
@@ -78,9 +78,3 @@ amanywaw@egyptonlinetours.com
 http://www.egyptonlinetours.com/Egypt-Sightseeing-Tours/Al-Quseir-Excursions-and-Tours/index.php
 
 ** **
-
-*Part or or all of this text stems from the original article at: http://www.egyptonlinetours.com/Egypt-Sightseeing-Tours/Al-Quseir-Excursions-and-Tours/Day-Trip-to-Petra-Jordan-from-Al-Quseir.php*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 20:33

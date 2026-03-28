@@ -8,13 +8,9 @@ opening_hours: "Vicky"
 phone: "Vicky"
 type: "1"
 url: "pages.slc.edu"
-latitude: 38.392755
-longitude: -90.38011
 ---
 
 Great work!
-
-*Part or or all of this text stems from the original article at: Vicky*
 
 type: 1
 
@@ -33,5 +29,3 @@ url: [pages.slc.edu](http://pages.slc.edu/webmail/plugins/archive_mail/config/da
 address: Vicky
 
 email: tammy@mail.com
-
-[back to Sights](..)

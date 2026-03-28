@@ -12,5 +12,3 @@ http://www.byron-bay.com/byronbay/lighthouse.html
 
 **Contributors**
 March 23, 2006
-new
-by [jennichica](/member/jennichica) (1 point)

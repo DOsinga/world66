@@ -31,6 +31,4 @@ Impressive film sets, exciting shows, gripping stunts, cinematic technology and 
 
 **Hans Otto Theatre**
 
-Three stages for drama, musical theatre and theatre for children and young people. A wide variety of plays from classics to contemporary theatre, and productions by the theatre's own company. Am Alten Markt, Tel. 0331 / 9811123 tram 93 to Otto-Nagel-Str. admission: 30 DM, red 18 DM 
-
--->
+Three stages for drama, musical theatre and theatre for children and young people. A wide variety of plays from classics to contemporary theatre, and productions by the theatre's own company. Am Alten Markt, Tel. 0331 / 9811123 tram 93 to Otto-Nagel-Str. admission: 30 DM, red 18 DM

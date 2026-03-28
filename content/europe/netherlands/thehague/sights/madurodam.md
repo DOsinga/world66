@@ -14,5 +14,3 @@ type: Hotspots
 
 
 url: [www.madurodam.nl](http://www.madurodam.nl)
-
-[back to Sights](..)

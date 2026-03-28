@@ -5,8 +5,6 @@ accessibility: "very good"
 address: "Magnolia Square"
 price: "$10-20pp"
 type: "Local"
-latitude: 41.030186
-longitude: 21.334697
 ---
 
 Bitola, a turn-of-the-century center for diplomacy as Macedonia’s

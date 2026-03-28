@@ -10,8 +10,6 @@ Two giant statues of King Ramses III as the entrance gate to the Thebes. The fac
 
 **Contributors**
 May 05, 2006
-new
-by [ukirsari](/member/ukirsari) (2 points)
 
 type: Memorials
 
@@ -22,5 +20,3 @@ type: Memorials
 url: [www.affiliate.viator.com](http://www.affiliate.viator.com/brochure/ed_PRODUCT_results.jsp?CITY=LUXOR&AUID=2832)
 
 address: Colossi Memnon, Thebes
-
-[back to Sights](..)

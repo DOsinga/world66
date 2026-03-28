@@ -1,0 +1,4 @@
+---
+title: "Tvedestrand"
+type: location
+---

@@ -11,8 +11,6 @@ Fashion Show on the Strip is the largest mall in Las Vegas with more than 250 sh
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: 702-784-7000
 url: [www.thefashionshow.com](http://www.thefashionshow.com)
 
 address: 3200 Las Vegas Boulevard South
-
-[back to Shopping](..)

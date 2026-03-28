@@ -6,20 +6,14 @@ phone: "867-872-2859"
 type: "Palaces"
 url: "www.flickr.com"
 zipcode: "X0E 0P0"
-latitude: 60.005852
-longitude: -111.890259
 ---
 
 Here are a few places you can see in Fort Smith.
 
 **Contributors**
 January 22, 2005
-new
-by [mediamentor](/member/mediamentor) (1 point)
 
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Northern Life Muesum, Fort Smith](/northamerica/canada/northwestterritories/fort_smith/sights/northern_live_mues)
 

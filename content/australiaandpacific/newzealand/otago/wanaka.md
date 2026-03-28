@@ -1,9 +1,9 @@
 ---
-title: "Wanaka Travel Guide"
+title: "Wanaka"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Wanaka **is a quiet, peaceful town on the shores of Lake Wanaka.
 
@@ -29,8 +29,3 @@ the lake looks good for a swim!
 
 More information on
 *Wanaka Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 18:13

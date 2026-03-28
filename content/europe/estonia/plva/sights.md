@@ -15,5 +15,3 @@ The Cultural Centre**, which lies next to the park that is dedicated to Jakob Hu
 
 **Contributors**
 May 03, 2006
-new
-by [mrtasku](/member/mrtasku) (2 points)

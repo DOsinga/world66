@@ -37,8 +37,6 @@ Streetcars just operate in the city center (Mitte) and some of the eastern quart
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 
 
@@ -49,5 +47,3 @@ tel: 0049-30-19449
 url: [www.bvg.de](http://www.bvg.de/index.php/en/Bvg/Start)
 
 address: Berliner Verkehrsbetriebe BVG, Potsdamer Straße 188, 10783 Berlin
-
-[back to Getting Around](..)

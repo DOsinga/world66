@@ -7,5 +7,3 @@ For great Indianapolis shopping, check out Circle Centre Mall in downtown Indian
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

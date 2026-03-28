@@ -14,7 +14,3 @@ address: Calle 4a. No. 4-56
 openinghours: 8:30 am - 12:30, 2:30 pm - 5:30 pm from Tuesday to Friday, Sunday from 10 am to 2 pm
 
 **Martinez Museum**
-
-
-
--->

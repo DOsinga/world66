@@ -1,0 +1,4 @@
+---
+title: "Mouscron"
+type: location
+---

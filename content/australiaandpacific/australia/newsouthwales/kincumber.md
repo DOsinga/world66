@@ -1,0 +1,4 @@
+---
+title: "Kincumber"
+type: location
+---

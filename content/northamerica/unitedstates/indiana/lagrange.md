@@ -1,0 +1,4 @@
+---
+title: "LaGrange"
+type: location
+---

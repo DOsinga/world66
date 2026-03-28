@@ -31,5 +31,3 @@ The first week of June in Samer is one that packs the tourists in from around th
 
 **Contributors**
 February 13, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

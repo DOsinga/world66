@@ -1,6 +1,6 @@
 ---
 title: "Smart shops"
-type: location
+type: poi
 ---
 
 Apart from the coffeshops that sell generally canabis products only ready to smoke, Amsterdam also offers Smart Shops, orginally concentrating on the sale of mind influencing mushrooms, or paddo's (short for *paddestoelen* or toad stool), but nowadays selling lots of herbal oriented drugs. 

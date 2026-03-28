@@ -15,5 +15,3 @@ Today (2006) the "frigorifico" at Puerto Bories is a national monument and museu
 
 **Contributors**
 January 11, 2006
-change
-by [giorgio](/member/giorgio)

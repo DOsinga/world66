@@ -5,8 +5,6 @@ address: "Nerja Costa del Sol"
 email: "info@lifeadventure.es"
 phone: "0034 95 252 0748"
 url: "www.lifeadventure.es"
-latitude: 36.746552
-longitude: -3.880521
 ---
 
 Life Adventure Combi Jeep Tour, This is definitely one of our most popular jeep tours because of its great variety.
@@ -17,23 +15,6 @@ The walk is no longer that 2½ Km, but takes about 1½ hrs because of all the st
 
 Before the safari tour continues by jeep, the guests are served refreshments at the mountain recreation area El pInarillo where the walk started.
 
-The tour continues into the mountains and stops for lunch. After lunch we cross the mountains again, stopping at some fantastic vantage spots before we bring you back to your accommodation. The tour takes between 7 & 8 hours.
-
-The Combi Tour is ideal for groups or individuals that want to experience the mountains as well as being a little active on their day out.
-
-**Contributors**
-July 25, 2007
-change
-by [holidaycosta](/member/holidaycosta)
-
-
-
-tel: 0034 95 252 0748
-
-url: [www.lifeadventure.es](http://www.lifeadventure.es)
-
-address: Nerja Costa del Sol
+The tour continues into the mountains and stops for lunch. After lunch we cross the mountains again, stopping at some fantastic vantage spots before we bring you address: Nerja Costa del Sol
 
 email: info@lifeadventure.es
-
-[back to Tours and Excursions](..)

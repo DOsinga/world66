@@ -48,5 +48,3 @@ in Biarritz.
 
 **Contributors**
 December 28, 2009
-new
-by [kimerly](/member/kimerly)

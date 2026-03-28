@@ -27,5 +27,3 @@ New York State Zoo
 
 **Contributors**
 February 09, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

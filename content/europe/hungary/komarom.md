@@ -1,8 +1,6 @@
 ---
 title: "Komarom"
 type: location
-latitude: 47.741735
-longitude: 18.121826
 ---
 
 The closeness of the border and River Danube has always determined the life and the unique structure of Southern-Komarom having 20 000 inhabitants. After the Trianon peace treaty the Danube became a border river and divided the old, integrated town into Slovakian (Komarno) and Hungarian Komarom.

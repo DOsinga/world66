@@ -67,9 +67,5 @@ habitation. The artifacts excavated included a humanoid skull dating back to
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 January 22, 2010
-new
-by [sarandipity](/member/sarandipity)

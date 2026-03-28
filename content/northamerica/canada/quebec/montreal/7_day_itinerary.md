@@ -37,5 +37,3 @@ This 764-mountain, known by the locals as Mont Royal, is an excellent way to end
 
 **Contributors**
 March 29, 2010
-new
-by [guacadoggie](/member/guacadoggie)

@@ -1,9 +1,9 @@
 ---
-title: "Prespa Travel Guide"
+title: "Prespa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located in the north-western corner of Greece at 850 metres above sea level and surrounded by mountains, the **Prespa **Lakes region is a natural park of great significance due to its biodiversity and endemic species. Prespa is a transboundary park shared between Greece, Albania and fYR of Macedonia. The main features of the region are the two lakes, that also gives the name to the area: **Macro Prespa** (259.4 km2 and **Micro Prespa** (47.4 km2) , which lap the shores of the three countries and connect them in this way symbolically.
 
@@ -24,11 +24,3 @@ There are a lot of paths, guiding you into the heart of nature; perhaps up into 
 The mountains surrounding the lakes are often over 2000 meters high, and offer marvellous views to the lake blueness and the settlements on the shores. The smell of herbs on the mountain meadows calm the senses, already cleared by the fresh air and the spring waters
 
 The lucky visitor might arrive to a peaceful natural setting with impressive sunsets, that gives the impression of having remained unchanged since time immemorial, unique within Greece in traditions, methods of fishing and producing and preserving food, and a rich cultural heritage.
-
-#### Contributors
-
-September 09, 2008 change by [ctpgreece](/member/ctpgreece)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 00:06

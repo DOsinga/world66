@@ -34,5 +34,3 @@ address: Along Kanu Street
 PriceOfMenu: yes
 
 email: Hroyalspring@yahoo.com
-
-[back to Eating Out](..)

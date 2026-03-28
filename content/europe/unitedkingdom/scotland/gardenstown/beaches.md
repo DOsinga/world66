@@ -7,8 +7,6 @@ To the west of Gardenstown there is a nice sandy beach and to the east heading t
 
 **Contributors**
 February 19, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Gardenstown Beach](/europe/unitedkingdom/scotland/gardenstown/beaches/gardenstown_beach)
 

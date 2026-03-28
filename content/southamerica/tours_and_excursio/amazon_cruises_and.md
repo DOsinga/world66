@@ -12,5 +12,3 @@ address: Av. Ruminahui 221
 tel: 1-800-747-0567
 
 url: [www.amazoncruise.net](http://www.amazoncruise.net)
-
--->

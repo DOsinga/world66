@@ -24,6 +24,3 @@ The trip offers you the possibility to combine a short sightseeing tour of Bucha
 Full Day Tour of Bucharest with visits to the The Vilage Museum, The Triumphal Arch, Romanian Atheneum, the Revolution Square, Romanian Opera, Military Academy, Parliament Palace , Patriarchal Cathedral, Unirii Square, University Square, Manuc Inn.
 
 www.deltatravel.ro
-
-*Change history*
-Orginal article by [deltatravel](/member/deltatravel) on 03 August 04

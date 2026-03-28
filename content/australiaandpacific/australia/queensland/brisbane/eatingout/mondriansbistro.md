@@ -13,5 +13,3 @@ type: Cafes
 address: Lutton & Wells Cnr
 
 tel: +61 (0)7 3391 5772
-
-[back to Eating Out](..)

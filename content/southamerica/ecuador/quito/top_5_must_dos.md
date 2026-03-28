@@ -53,5 +53,3 @@ visitors how it is possible to have a town inside a volcano's crater.
 
 **Contributors**
 August 06, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

@@ -26,5 +26,3 @@ Get your mass (one liter glass) of this in house brewed nectar. This enormous tr
 
 **Contributors**
 February 22, 2006
-change
-by [giorgio](/member/giorgio)

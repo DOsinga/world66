@@ -19,8 +19,6 @@ rehabilitation.
 
 **Contributors**
 May 31, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 
 
@@ -33,5 +31,3 @@ url: [www.trpanj.info](http://www.trpanj.info)
 address: Trg K.Tomislava 13
 
 email: zeljan@trpanj.info
-
-[back to Beaches](..)

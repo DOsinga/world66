@@ -44,8 +44,6 @@ Berlin's history is recorded in recreations of everyday life, school life and mi
 
 **Contributors**
 December 02, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)
 
 ### [flo](/europe/germany/berlin/berlinmitte/museums/flo)
 

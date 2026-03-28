@@ -13,8 +13,6 @@ For details and addition of Festivals in the Catalonia region, please go to the 
 
 **Contributors**
 July 11, 2006
-change
-by [reen](/member/reen)
 
 ### [Festivals in Catalonia region
 

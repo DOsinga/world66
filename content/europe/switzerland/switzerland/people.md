@@ -68,7 +68,3 @@ type: section
 *male:* NA%
 
 *female:* NA%
-
-
-
--->

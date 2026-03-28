@@ -2,8 +2,6 @@
 title: "Shopping"
 type: section
 type: "Speciality shops"
-latitude: 33.60687
-longitude: -7.62065
 ---
 
 While in Tafraout, and after walking around exploring the adobe berber villages clung to huge granite rocks, you can get some nice Berber and Touareg rugs in one of the biggest carpet stores in the south of Morocco.

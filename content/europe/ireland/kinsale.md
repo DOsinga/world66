@@ -1,12 +1,8 @@
 ---
-title: "kinsale Travel Guide"
+title: "kinsale"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Kinsale
-
-Page last generated on Tue 21:44
-
--->

@@ -40,5 +40,3 @@ Warehouse Theatre
 address: Tal Street
 
 tel: 061 225059
-
--->

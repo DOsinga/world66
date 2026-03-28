@@ -54,9 +54,5 @@ trails are vast and difficult to see at night.
 
 **Contributors**
 January 21, 2010
-new
-by [amymc](/member/amymc)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

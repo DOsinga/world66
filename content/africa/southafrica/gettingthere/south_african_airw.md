@@ -9,12 +9,8 @@ url: "www.flysaa.com"
 
 **Contributors**
 July 10, 2006
-change
-by [karlmunch](/member/karlmunch)
 
 August 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
 
@@ -23,5 +19,3 @@ type: By Air
 
 
 url: [www.flysaa.com](http://www.flysaa.com/)
-
-[back to Getting There](..)

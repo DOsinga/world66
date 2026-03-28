@@ -45,13 +45,7 @@ beach.
 
 Visit an ancient city that sits aside the
 beautiful Mediterranean Sea. Outside of the city of San Giovanni di
-Sinis is Tharros, a Phoenician village dating back to around 700 B.C.
-Excavations are still taking place in the now open-air museum. Many of
-the findings are in the Archaeological Museum of Cagliari.
-
-**5. Archaeological Museum**
-
-Visit the island's capital of [Cagliari](/europe/italy/sardinia/cagliari)to get a taste of ancient
+Sinis is Tharros, a Phoenician village dating to get a taste of ancient
 Sardinia. The museum is a prime destination for the history buff,
 boasting artifacts from all of the ancient cultures previously
 inhabiting Sardinia, including the Phoenicians and Romans. See statues,
@@ -60,5 +54,3 @@ materials from the region.
 
 **Contributors**
 January 05, 2010
-change
-by [kileybugher](/member/kileybugher)

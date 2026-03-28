@@ -7,9 +7,6 @@ Athens is a melting pot of traditional cuisine, accompanied by traditional music
 
 One tiny detail that might be of interest, Greeks generally do not eat breakfast. Therefore, it is up to you to be inventive. Go to a shop and buy some bread or take my advice and start eating the delicious Greek snacks (Kebabs and Koulouria for example) as early as possible.
 
-*Change history*
-Minor corrections by [htdawg](/member/htdawg) on 03 August 04
-
 ## Categories
 
 [Restaurants](/europe/greece/athens/eatingout?subsection=Restaurants)

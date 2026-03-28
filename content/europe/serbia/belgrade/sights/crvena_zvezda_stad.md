@@ -4,8 +4,6 @@ type: poi
 accessibility: "by bus lines 59 an 78"
 address: "Ljutice Bogdana st. 1"
 type: "Hotspots"
-latitude: 44.760898
-longitude: 20.542622
 ---
 
 The Marakana is home to the most successful Eastern European team of all time- Red Star Belgrade. If you are in Belgrade during a European match of Red Star Belgrade be sure to go and watch as the fans - The Delije- are one of the most feared fans in Europe as they support their team for the full match no matter the result.
@@ -23,5 +21,3 @@ type: Hotspots
 accessibility: by bus lines 59 an 78
 
 address: Ljutice Bogdana st. 1
-
-[back to Sights](..)

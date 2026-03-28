@@ -12,8 +12,6 @@ When you visit the city of Nazca, we highly recommend you to visit the Museum An
 
 **Contributors**
 July 11, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Antonini Museum](/southamerica/peru/nazca/museums/musuem_antonini_in)
 

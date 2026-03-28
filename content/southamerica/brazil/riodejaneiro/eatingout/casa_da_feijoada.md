@@ -24,5 +24,3 @@ type: Local
 tel: 55 21 2247 2776
 
 address: Rua Prudente de Moraes 10, Ipanema
-
-[back to Eating Out](..)

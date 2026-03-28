@@ -12,5 +12,3 @@ Renowned for its flourishing art community. Lambertville's many galleries have c
 Sports enthusiasts will find much to interest them here in addition to the Delaware River. The Delaware and Raritan Canal State Park runs through the heart of the town, offering scenic recreation opportunities for walking, jogging, biking, or even cross-country skiing. Take a canoe ride on the canal or go tubing in the river. The choice is yours.
 
 "The jewel of New Jersey's west coast."
-
-*Part or or all of this text stems from the original article at: Lambertville Chamber of Commerce*

@@ -8,13 +8,5 @@ T's barbecues tri-tip and chicken daily. Their burritos are incredible. I used t
 
 **Contributors**
 June 15, 2005
-new
-by [hobobrother](/member/hobobrother) (1 point)
 
 type: American
-
-
-
-
-
-[back to Eating Out](..)

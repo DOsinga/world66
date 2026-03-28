@@ -21,5 +21,3 @@ Film lovers from all over the world come here in December to take a part of the 
 
 **Contributors**
 December 28, 2009
-change
-by [turkeyfish](/member/turkeyfish)

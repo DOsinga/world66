@@ -27,9 +27,5 @@ Brush up on your history with a stop at Fort Erie, just 20 minutes from the Fall
 
 **Contributors**
 January 19, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

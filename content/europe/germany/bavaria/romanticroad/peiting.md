@@ -13,6 +13,4 @@ Located in the Upper Bavarian "Pfaffenwinkel" between the rivers Lech and Ammer 
 
  Ammergauer Strasse 2, 86971 Peiting
 
- Tel. +49 8861 - 6535 
-
--->
+ Tel. +49 8861 - 6535

@@ -1,9 +1,9 @@
 ---
-title: "Henningsvær Travel Guide"
+title: "Henningsvær"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Henningsvær is situated at the foot of Mount Vågakaillen, and consists of a group of isles and islets spread out at random in the blue waters of the Vestfjord.* *
 
@@ -16,11 +16,3 @@ The islands were not connected to the rest of Lofoten by bridges until 1983, a f
 Such a combination of an active, vibrant environment and well-preserved architecture, makes Henningsvær something quite unique.
 
 More information about Henningsvær: http://www.henningsvar.com/** **
-
-#### Contributors
-
-June 13, 2005 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 07:10

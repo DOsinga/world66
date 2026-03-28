@@ -19,5 +19,3 @@ The caves, located in Hamilton Parish and founded in 1623 by Captain John Smith,
 
 **Contributors**
 February 21, 2010
-new
-by [marley16kristin](/member/marley16kristin)

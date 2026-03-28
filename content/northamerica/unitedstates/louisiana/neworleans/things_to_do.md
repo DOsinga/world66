@@ -12,8 +12,6 @@ Ask any native and they will tell you that the will never get tired of The Big E
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### Display all
 or display just:

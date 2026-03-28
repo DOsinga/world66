@@ -1,9 +1,9 @@
 ---
-title: "Pepin Travel Guide"
+title: "Pepin"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Welcome to PepinWisconsin.com**, a web site dedicated to life in
 Pepin, Wisconsin. Close enough to come for the day, far enough to know
@@ -32,7 +32,3 @@ Pepin is located 70 miles south of the Minneapolis/St. Paul metro area,
 miles southwest of Eau Claire. We have a marina that is home to over
 150 boats, with transient docking for our visitors arriving on the
 water.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 11:50

@@ -7,5 +7,3 @@ For those of us who love plants and gardening, one of your Boise activities must
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

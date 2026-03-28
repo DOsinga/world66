@@ -68,5 +68,3 @@ well as officers quarters and the electricity generating station.
 
 **Contributors**
 August 24, 2009
-change
-by [kimerly](/member/kimerly)

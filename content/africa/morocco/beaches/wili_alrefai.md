@@ -11,5 +11,3 @@ moli bosellham beach
 
 
 email: bmw323_99@yahoo.com
-
-[back to Beaches](..)

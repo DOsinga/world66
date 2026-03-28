@@ -1,0 +1,4 @@
+---
+title: "Lohals"
+type: location
+---

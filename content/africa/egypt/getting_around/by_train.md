@@ -9,8 +9,6 @@ Trains are an excellent way to travel within Egypt. There are air-conditioned ex
 
 **Contributors**
 January 10, 2009
-change
-by [plus-travel.com](/member/plus-travel.com)
 
 
 
@@ -19,5 +17,3 @@ by [plus-travel.com](/member/plus-travel.com)
 url: [www.plus-travel.com](http://www.plus-travel.com)
 
 email: info@plus-travel.com
-
-[back to Getting Around](..)

@@ -12,13 +12,9 @@ spectacle!
 
 **Contributors**
 April 14, 2005
-new
-by [hugo](/member/hugo) (1 point)
 
 
 
 
 
 date: First weekend in August
-
-[back to Festivals](..)

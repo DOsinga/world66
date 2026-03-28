@@ -1,8 +1,6 @@
 ---
 title: "North America"
 type: location
-latitude: 51.0
-longitude: -109.0
 ---
 
 North America consists of three countries, the [United States](/northamerica/unitedstates) , [Canada](/northamerica/canada) and [Greenland](/northamerica/greenland) . 
@@ -16,9 +14,3 @@ Of these countries, the U.S. receives by far the largest amount of travellers. [
 [Greenland](/northamerica/greenland) is great for adventurous traveling if you are not afraid to catch a cold. Large parts of Greenland are covered with snow all year round. 
 
 For info on [Mexico](/centralamericathecaribbean/mexico) , Central America and the Caribbean please have a look at the Central America & the Caribbean section.
-
-## Destinations
-
-- [Canada](/northamerica/canada)
-- [Greenland](/northamerica/greenland)
-- [United States](/northamerica/unitedstates)

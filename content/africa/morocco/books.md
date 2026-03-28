@@ -9,9 +9,6 @@ Both Moroccan authors (some in exile because of their writings) and authors from
 
 Anthropology is a hot topic and there are plenty of excellent writers on gender, politics and human rights. Fatima Mernissi is the most famous and writes for and about Moroccan women. Her studies on Moroccan culture and women are well worth reading, they may change your experience while traveling in Morocco.
 
-*Change history*
-Minor corrections by [hpharmsen](/member/hpharmsen) on 13 February 04
-
 **Books**
 
 **Morocco that was**

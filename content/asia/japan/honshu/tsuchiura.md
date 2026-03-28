@@ -1,0 +1,4 @@
+---
+title: "Tsuchiura"
+type: location
+---

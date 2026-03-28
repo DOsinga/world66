@@ -1,9 +1,9 @@
 ---
-title: "Rosemont Hotel Near Downtown Chicago - Boutique Hotels Chicago Travel Guide"
+title: "Rosemont Hotel Near Downtown Chicago - Boutique Hotels Chicago"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Name:**
 
@@ -23,9 +23,3 @@ http://www.crowneplazaohare.com
 **Reservations:** 866 242-1055** Fax: **847-671-5406
 
 **Email :** sales@crowneplazaohare.com
-
-*Part or or all of this text stems from the original article at: Crowne Plaza Chicago O'Hare Hotel & Conference Center*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 17:48

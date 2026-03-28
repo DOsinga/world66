@@ -1,12 +1,8 @@
 ---
-title: "Thomasville Travel Guide"
+title: "Thomasville"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Add City
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:24

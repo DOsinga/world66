@@ -1,13 +1,9 @@
 ---
-title: "khust Travel Guide"
+title: "khust"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **hotels and restuarants
 **
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 22:50

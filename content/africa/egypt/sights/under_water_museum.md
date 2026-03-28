@@ -11,12 +11,8 @@ Cleopatra.
 
 **Contributors**
 June 01, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 May 31, 2005
-new
-by [egyptguide](/member/egyptguide)
 
 type: Memorials
 
@@ -25,5 +21,3 @@ type: Memorials
 
 
 url: [soha.egypt.tripod.com](http://soha.egypt.tripod.com)
-
-[back to Sights](..)

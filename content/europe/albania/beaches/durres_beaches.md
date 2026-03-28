@@ -20,5 +20,3 @@ url: [www.edialtour.com](http://www.edialtour.com)
 address: Rr, George W. Bush Tower 1
 
 email: info@edialtour.com
-
-[back to Beaches](..)

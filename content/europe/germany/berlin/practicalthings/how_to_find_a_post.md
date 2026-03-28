@@ -7,8 +7,6 @@ email: "gunukim@hotmail.com"
 phone: "0049-18 02-33 33 (Info Center)"
 type: "Post office"
 url: "www.deutschepost.de"
-latitude: 51.262714
-longitude: 7.178428
 ---
 
 Berlin has several post offices in every quarter. Some small post offices are part of a stationery shop.
@@ -20,12 +18,8 @@ www.deutschepost.de/dpag?tab=1&skin=hi&check=yes&lang=de_DE&xmlFile=1465
 
 **Contributors**
 June 24, 2006
-new
-by [bernhadette](/member/bernhadette) (3 points)
 
 June 26, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Post office
 
@@ -42,5 +36,3 @@ url: [www.deutschepost.de](http://www.deutschepost.de/dpag?xmlFile=828)
 address: kothener str 6
 
 email: gunukim@hotmail.com
-
-[back to Practical Information](..)

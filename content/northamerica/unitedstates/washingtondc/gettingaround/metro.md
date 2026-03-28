@@ -14,8 +14,6 @@ Five color coded lines snake around the city, with nine transfer points, and at 
 
 **Contributors**
 October 14, 2005
-change
-by [patrickneil](/member/patrickneil)
 
 
 
@@ -26,5 +24,3 @@ url: [www.metroopensdoors.com](http://www.metroopensdoors.com)
 tel: 202-962-1234
 
 email: csvc@wmata.com
-
-[back to Getting Around](..)

@@ -5,8 +5,6 @@ address: "Imlil"
 email: "info@atlas-morocco.com"
 phone: "0021261962844"
 url: "www.atlasmorocco.co.uk"
-latitude: 31.763789
-longitude: -6.997999
 ---
 
 Camel Trek in Atlas Mountains:
@@ -21,5 +19,3 @@ url: [www.atlasmorocco.co.uk](http://www.atlasmorocco.co.uk)
 address: Imlil
 
 email: info@atlas-morocco.com
-
-[back to Day Trips](..)

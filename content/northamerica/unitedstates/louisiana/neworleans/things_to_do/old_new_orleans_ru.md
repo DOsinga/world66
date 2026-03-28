@@ -66,5 +66,3 @@ url: [www.neworleansrum.com](http://www.neworleansrum.com)
 address: 2815 Frenchmen St
 
 email: info@neworleansrum.com
-
-[back to Things to do](..)

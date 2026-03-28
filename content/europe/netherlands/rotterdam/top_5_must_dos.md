@@ -61,6 +61,4 @@ While visiting the museum,
 you are invited to travel through the history of art from the Middle
 Ages to Modern Art. From Bosch, Rembrandt, Van Gogh, to Dali, there is
 something here for everyone. This is the only museum in Holland that
-has such a deep rooted historic collection dating back to the 14th
-century, and is also the only museum in Holland with works by the Dutch
-master Hieronymus Bosch (1450-1510).
+has such a deep rooted historic collection dating

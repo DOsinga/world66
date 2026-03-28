@@ -6,5 +6,3 @@ type: section
 We currently have no Sights listed in Bari.
 
 If you do know any Sights in Bari, please [Add].
-
--->

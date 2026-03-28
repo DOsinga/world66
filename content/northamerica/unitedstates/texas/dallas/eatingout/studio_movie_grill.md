@@ -26,5 +26,3 @@ address: 5405 Beltline Rd
 PriceOfMenu: $7 to $11
 
 email: info@studiomoviegrill.com
-
-[back to Eating Out](..)

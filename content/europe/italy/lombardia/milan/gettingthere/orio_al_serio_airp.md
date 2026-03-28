@@ -13,8 +13,6 @@ There are various combinations of buses, trains, and so on. See [Bergamo](/europ
 
 **Contributors**
 July 05, 2006
-change
-by [karenbru](/member/karenbru) (1 point)
 
 type: By Rail
 
@@ -24,19 +22,10 @@ type: By Rail
 
 url: [www.orioaeroporto.it](http://www.orioaeroporto.it/Airpor/portalProcess.jsp)
 
-[back to Getting There](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

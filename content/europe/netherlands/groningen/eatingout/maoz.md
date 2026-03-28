@@ -6,16 +6,12 @@ email: "maozbv@planet.nl"
 price: "5 euro"
 type: "Vegetarian"
 url: "www.maoz.nl"
-latitude: 53.215532
-longitude: 6.569419
 ---
 
 Maoz is an affordable little fast food place were they serve you a pita-sandwich with daily-fresh, handmade falafel-balls fried in vegetable oil, topped with freshly made salads and sauces of your choice. In my experience you can also go back up to the counter to refill your pita.
 
 **Contributors**
 March 28, 2006
-new
-by [katie_mutated](/member/katie_mutated)
 
 type: Vegetarian
 
@@ -30,5 +26,3 @@ address: Gedempte Zuiderdiep 23
 PriceOfMenu: 5 euro
 
 email: maozbv@planet.nl
-
-[back to Eating Out](..)

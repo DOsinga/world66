@@ -1,8 +1,6 @@
 ---
 title: "Chenini"
 type: location
-latitude: 32.910703
-longitude: 10.261552
 ---
 
 We currently have no information about Chenini.

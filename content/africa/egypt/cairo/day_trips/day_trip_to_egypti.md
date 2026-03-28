@@ -68,5 +68,3 @@ url: [www.youregypttours.com](http://www.youregypttours.com)
 address: 3 Okasha from Elmostashfa st,Alharam,giza,Egypt.
 
 email: eygpttourguide@yahoo.com
-
-[back to Day Trips](..)

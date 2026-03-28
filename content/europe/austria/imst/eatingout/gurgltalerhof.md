@@ -10,5 +10,3 @@ email: gurgltalerhof@tirol.com
 address: Rotanger 1, A-6460 Imst
 
 tel: +43 5412 66048
-
--->

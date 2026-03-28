@@ -32,8 +32,6 @@ Helicopters offer a birds-eye view of the best sights in the area, with tours fo
 
 **Contributors**
 December 23, 2009
-change
-by [subeat](/member/subeat)
 
 ### [Niagara Falls Whirlpool Boat Tours](/northamerica/canada/ontario/niagrafalls/things_to_do/niagara_falls_whir)
 

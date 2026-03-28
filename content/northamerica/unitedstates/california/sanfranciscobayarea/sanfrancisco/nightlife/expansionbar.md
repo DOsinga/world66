@@ -15,5 +15,3 @@ type: Bars & Cafes
 address: 2124 Market Street
 
 tel: (415) 863-4041
-
-[back to Nightlife and Entertainment](..)

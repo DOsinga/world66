@@ -14,8 +14,6 @@ French and Black American history exist side by side throughout Paris's streets 
 
 **Contributors**
 May 14, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Strolling Along the Seine](/europe/france/paris/things_to_do/strolling_along_th)
 
@@ -37,13 +35,7 @@ address: rue de Bac, rue de l'Universite, rue de Lille, and rue des Sts-Peres
 
 ### [Jardin du Luxembourg](/europe/france/paris/things_to_do/jardin_du_luxembou)
 
-At 55 acres, this Paris park is the largest and most popular park in the city. Dating back to as early as the 1600s, Jardin du Luxembourg features everything from ponds and historic fountains to activities such as boat rentals and chess. While this location is home to Palais du Luxembourg, most people don't come here to visit the palace, they would much rather explore the gardens or relax under a tree. Jardin du Luxemborg is located in the 6th arrondissement.
-
-type: Rowing and Canoeing
-
-
-
-### [Musee Picasso (Picasso Museum)](/europe/france/paris/things_to_do/musee_picasso_pic)
+At 55 acres, this Paris park is the largest and most popular park in the city. Dating ### [Musee Picasso (Picasso Museum)](/europe/france/paris/things_to_do/musee_picasso_pic)
 
 Housed in one of the most significant private residences in the Marais – *Hotel Sale*, the Picasso Museum features a spectacular collection of Picasso’s works including drawings, sculptures, paintings, ceramics, and engravings, as well as the artist’s private collection highlighting paintings by Cezanne, Braque, and more.
 

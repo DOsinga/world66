@@ -1,6 +1,6 @@
 ---
 title: "Tribeca ."
-type: location
+type: poi
 type: "general"
 ---
 

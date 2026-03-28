@@ -1,0 +1,4 @@
+---
+title: "Ruse"
+type: location
+---

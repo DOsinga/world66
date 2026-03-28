@@ -16,8 +16,6 @@ It is also said that court sessions were held in front of the **Bab Mansour**, a
 
 **Contributors**
 August 15, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)
 
 type: Hotspots
 
@@ -26,5 +24,3 @@ type: Hotspots
 
 
 address: Meknès, Ville Impériale, at the southeast side of the Place El Hedim
-
-[back to Sights](..)

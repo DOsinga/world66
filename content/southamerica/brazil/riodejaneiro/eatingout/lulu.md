@@ -19,8 +19,6 @@ doesnt enjoy a well prepared meal in a beautifully decorated environment?
 
 **Contributors**
 November 30, 2007
-new
-by [doroloidl](/member/doroloidl)
 
 type: Italian
 
@@ -33,5 +31,3 @@ tel: 2294 7830
 url: [www.restaurantelulu.com.br](http://www.restaurantelulu.com.br/)
 
 address: Rua Visconde de carandaí, 2
-
-[back to Eating Out](..)

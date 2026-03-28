@@ -10,8 +10,6 @@ This is kinda far out in Queens - but if you get a chance to be in the neighborh
 
 **Contributors**
 May 06, 2005
-new
-by [tea](/member/tea)
 
 type: Vegetarian
 
@@ -22,5 +20,3 @@ type: Vegetarian
 tel: (718) 461-1307
 
 address: 6560 Fresh Meadow Ln Flushing, NY 11356
-
-[back to Eating Out](..)

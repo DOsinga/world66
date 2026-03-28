@@ -6,17 +6,12 @@ closing_time: "3h00am"
 phone: "(418) 649-7212"
 type: "Gay and Lesbian"
 url: "www.ledrague.com"
-latitude: 46.810936
-longitude: -71.21681
 ---
 
 Québec's main street for bars in the Grande Allée where, in the summer,
 you can find all sorts of bars and terasses and in the winter, discos
 for the night. You might also want to try Rue S-Jean, within the
 old city wall for pubs, outside city walls for the gay hang-out.
-
-**Change history**
-Orginal article by [slurpey](/member/slurpey) on 10 May 05
 
 ### Bar le Drague
 

@@ -40,5 +40,3 @@ Less than an hour from the heart of Grenoble are Robert Lake and Achard Lake. A 
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

@@ -9,5 +9,3 @@ In a clear day you can see mount Ararat / Agri in the distance. Around Sharur an
 
 **Contributors**
 April 16, 2006
-new
-by [azerbaijan08](/member/azerbaijan08) (1 point)

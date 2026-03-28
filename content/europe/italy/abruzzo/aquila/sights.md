@@ -15,5 +15,3 @@ Sadly the earthquake of 2009, which caused so many deaths, also did very substan
 
 **Contributors**
 June 20, 2006
-new
-by [davidx](/member/davidx) (2 points)

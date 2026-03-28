@@ -58,5 +58,3 @@ birth certificates.
 
 **Contributors**
 March 03, 2010
-new
-by [amymc](/member/amymc)

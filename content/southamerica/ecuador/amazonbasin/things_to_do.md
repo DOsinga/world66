@@ -15,5 +15,3 @@ Guests will be divided into small groups of up to 8 passengers; each will be acc
 
 **Contributors**
 July 04, 2006
-change
-by [giorgio](/member/giorgio)

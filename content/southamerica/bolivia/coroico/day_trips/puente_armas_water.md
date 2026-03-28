@@ -12,11 +12,3 @@ About an hour before arriving at the Cajón waterfall, you’ll see a couple of 
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (4 points)
-
-
-
-
-
-[back to Day Trips](..)

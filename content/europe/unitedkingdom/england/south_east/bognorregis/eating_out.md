@@ -8,8 +8,6 @@ phone: "01903 722055"
 price: "av. £20.00p.p."
 type: "International"
 url: "www.thesilkroadrestaurant.net"
-latitude: 50.808659
-longitude: -0.540556
 ---
 
 ### [Silk Road Turkish Mediterranean Restaurant](/europe/unitedkingdom/england/south_east/bognorregis/eatingout/silk_road_turkish)

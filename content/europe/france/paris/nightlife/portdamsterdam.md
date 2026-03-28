@@ -22,5 +22,3 @@ type: Pubs
 
 
 url: [www.leportamsterdam.com](http://www.leportamsterdam.com)
-
-[back to Nightlife and Entertainment](..)

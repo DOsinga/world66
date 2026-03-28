@@ -15,9 +15,3 @@ internationally there are non stop flights from Miami, New York, Panama
 City.
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

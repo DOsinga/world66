@@ -57,5 +57,3 @@ court, so you can enjoy some Dutch delicacies while shopping.
 
 **Contributors**
 March 07, 2010
-new
-by [kwalker](/member/kwalker)

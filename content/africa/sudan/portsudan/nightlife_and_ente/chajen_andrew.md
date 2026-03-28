@@ -21,5 +21,3 @@ tel: 0924091305
 address: kartoum\kalaklak
 
 email: achajen@rocketmail.com
-
-[back to Nightlife and Entertainment](..)

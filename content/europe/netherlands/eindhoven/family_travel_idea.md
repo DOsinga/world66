@@ -27,9 +27,5 @@ With its world-class entertainment centers and exciting recreational facilities,
 
 **Contributors**
 February 03, 2010
-change
-by [sameera kumar](/member/sameera_kumar)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

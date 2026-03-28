@@ -24,38 +24,4 @@ religious treasures. Today it houses archaeological remnants dating back
 to the 14th century.
 
 Similar in content, the Museu Nacional de
-Arqueologia has been open since 1893. Its collection dates back to
-prehistoric times and includes important pieces of Portugal's history.
-
-**Museu Calouste Gulbenkian**
-
-A lesser known Lisbon museum, this collection includes 6,000 pieces
-of European art and decorative arts. The pieces consist of Oriental and
-Classical art and European paintings and date back thousands of years.
-
-European
-art is also on display at the Museu Nacional de Arte Antiga. The museum
-is housed in a 17th century palace.
-
-**Museu do Chiado**
-
-Lisbon's contemporary art museum, the Museu do Chiado displays 19th
-and 20th century Portuguese and European art. The museum is located in
-the Convento de São Francisco. The convent provides additional
-architectural interest to the galleries and museum grounds.
-
-**
-Other Lisbon Museums**
-
-Lisbon also has museums dedicated to puppets, transportation, folk
-art, naval and military history, design, theater and a water supply
-museum.
-
-**Contributors**
-March 18, 2010
-new
-by [huttongreen](/member/huttongreen)
-
-March 19, 2010
-change
-by [ctanios](/member/ctanios)
+Arqueologia has been open since 1893. Its collection dates

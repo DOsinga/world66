@@ -9,9 +9,6 @@ url: "www.euroadventures.net"
 
 Tours and Excursions in Cordoba...
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 26 January 05
-
 ### [Cordoba’s Mosque, Alcazar and Old Quarter Walking Tour (Half Day Private Tour)
 
 Half-day guided walking tour to visit Cordoba’s Mosque (La Mezquita) and Jewish quarter, walk the Calle de los Judios (Street of the Jews) to the ancient synagogue and then the Alcazar…

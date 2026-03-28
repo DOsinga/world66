@@ -19,8 +19,4 @@ A stroll through the old town center of Pezenas is an experience like no other. 
 
 **Door Museum**
 
-Perhaps one of the most unique museums in the world, the Door museum is a must-do while in Pezenas. This unusual museum is located in the heart of the old town and is surprisingly more interesting than one would expect. The doors and their frames date back to the 15th century. The collection also includes door knockers and iron work. All pieces in the museum are from Pezenas and the surrounding area. The museum is closed on Mondays. Operating hours change depending on the time of the year.
-
-**Molière Monument**
-
-Moliere left a lasting impression on the town of Pezenas. His influence can be seen in theaters and artwork across the town. The most notable homage to Moliere is the Moliere Monument. The famed French sculpture Jean Antoine Injalbert was commissioned to create the monument. The sculpture depicts a bust of Moliere above a woman and a seated man. The craftsmanship of the pieces is undeniable. The clean lines and attention to detail are what makes this a must-see.
+Perhaps one of the most unique museums in the world, the Door museum is a must-do while in Pezenas. This unusual museum is located in the heart of the old town and is surprisingly more interesting than one would expect. The doors and their frames date

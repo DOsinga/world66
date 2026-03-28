@@ -10,8 +10,6 @@ The **Royal Church**, built by Basarab royal family in the XVIth century is a cl
 
 **Contributors**
 February 13, 2007
-change
-by [psychoralu](/member/psychoralu) (2 points)
 
 ### [Kings and Queens](/europe/romania/curtea_de_arges/sights/kings_and_queens)
 
@@ -57,17 +55,10 @@ type: Castles
 
 accessibility: anytime
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

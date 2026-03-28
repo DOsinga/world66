@@ -32,5 +32,3 @@ tel: 0051-84-247007
 email: info@perudiscovery.com
 
 url: [www.perudiscovery.com](http://www.perudiscovery.com)
-
--->

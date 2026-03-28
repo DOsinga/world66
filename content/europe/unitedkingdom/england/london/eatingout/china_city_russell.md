@@ -12,8 +12,6 @@ China City Russell Square is centrally located near Russell Square tube station 
 
 **Contributors**
 May 30, 2007
-new
-by [lizardus](/member/lizardus)
 
 type: Chinese
 
@@ -28,5 +26,3 @@ url: [www.chinacitygroup.com](http://www.chinacitygroup.com)
 address: 50 Woburn Place, Russell Square, London, WC1H 0JZ
 
 email: support@chinacitygroup.com
-
-[back to Eating Out](..)

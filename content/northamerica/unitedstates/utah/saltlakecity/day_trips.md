@@ -7,5 +7,3 @@ If you are traveling with your family, you have to include time to see some Salt
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

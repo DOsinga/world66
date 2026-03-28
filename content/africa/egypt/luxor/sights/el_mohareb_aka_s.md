@@ -9,8 +9,6 @@ Going down from Medinat Habu temple to the desert at the opposite side of Valley
 
 **Contributors**
 May 05, 2006
-new
-by [ukirsari](/member/ukirsari) (2 points)
 
 type: Monasteries
 
@@ -19,5 +17,3 @@ type: Monasteries
 
 
 address: St Tawdros, Luxor Coptic Orthodox Bishopric
-
-[back to Sights](..)

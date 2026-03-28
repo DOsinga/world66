@@ -32,5 +32,3 @@ address: Cafe
 Perth, Western Australia 6000 Australia
 
 url: [backpackingaround.com](http://backpackingaround.com/aus/wa/ad/grand/index.htm)
-
-[back to Internet Cafes](..)

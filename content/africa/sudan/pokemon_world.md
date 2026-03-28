@@ -1,14 +1,8 @@
 ---
-title: "pokemon world Travel Guide"
+title: "pokemon world"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 efgfuewgfiwefwejfyiwfjgudfhgysdhfdughdfghdfguhjhjikgjkjnkijnkihkhijfihdtrhgjftgjhftu86878678
-
-*Part or or all of this text stems from the original article at: pokemon.com*
-
-Page last generated on Wed 18:05
-
--->

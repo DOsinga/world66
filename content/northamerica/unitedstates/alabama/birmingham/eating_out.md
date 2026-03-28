@@ -11,5 +11,3 @@ Like Indian food? Then one Birmingham restaurant not to miss is Taj India on 222
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

@@ -21,8 +21,6 @@ Below are listed some of the banks in Sarajevo. Please keep in mind that opening
 
 **Contributors**
 June 10, 2005
-new
-by [hpharmsen](/member/hpharmsen)
 
 **Currency**
 

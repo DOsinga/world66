@@ -27,7 +27,4 @@ Tilos Boat Trips, Telephone: +30-694-605-9320
 
 **Konstantinos Mentzelopoulos**
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 15 April 04
-
-Minor corrections by [Skipper](/member/skipper) on 15 April 04
+Minor corrections on 15 April 04

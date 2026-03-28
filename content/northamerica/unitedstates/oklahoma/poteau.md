@@ -1,9 +1,9 @@
 ---
-title: "Poteau Travel Guide"
+title: "Poteau"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 About Poteau, Oklahoma
 Poteau is located in beautiful Southeastern Oklahoma, and is the county seat of LeFlore County. It is a growing, progressive city with an eye on the future and a historical heritage few other communities can match.
@@ -29,13 +29,3 @@ The late United State Senator Robert S. Kerr loved Poteau so much that he built 
 The Kerr Museum has artifacts spanning the entire "known" history of the Poteau River Valley, including Indian artifacts from various tribes, material dealing with the famous Runestones, artifacts from the Spiro Mound complex, and articles used by Oklahoma and western pioneers in the building of the Indian Territory of the Great West. This includes a collection of more than 300 types of barbed wire. In 1978 the museum was donated to the Oklahoma State Regents for Higher Education. The museum was left intact and is open to the public, and is also available year round as a bed and breakfast, and a conference center.
 
 In 1989, we began a distinguished lecturer series at Carl Albert State College, which has hosted 3 United States Presidents since its inception.
-
-*Part or or all of this text stems from the original article at: http://www.poteau-ok.com/*
-
-#### Contributors
-
-May 12, 2011 new by [oklahoma traveler](/member/oklahoma_traveler)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 18:24

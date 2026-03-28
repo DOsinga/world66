@@ -1,0 +1,12 @@
+---
+title: "ghotki"
+type: location
+---
+
+Travel Guide
+
+We currently have no information about ghotki.
+
+If you do know any general information about ghotki, please [Edit this article].
+
+If you know any hotels in ghotki or restaurants in ghotki, please [[Add].](/destinations/addItemWizard?addwhere=asia/southasia/pakistan/azad_kashmir/mirpur/ghotki)

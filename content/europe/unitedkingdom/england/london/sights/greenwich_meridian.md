@@ -9,13 +9,9 @@ This is a very interesting point of interest if you want to do something differe
 
 **Contributors**
 May 17, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Hotspots
 
 
 
 url: [Greenwich Meridian Line: www.greenwich-guide.org.uk](http://Greenwich Meridian Line: www.greenwich-guide.org.uk/meridian.htm; The Royal Observatory: www.nmm.ac.uk/server/show/nav.2857)
-
-[back to Sights](..)

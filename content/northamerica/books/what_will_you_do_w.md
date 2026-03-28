@@ -14,5 +14,3 @@ My name is Dorothy Brown. I started writing when I was twelve years old and stil
 author: Dorothy Brown
 
 isbn: 1587365022
-
-[back to Books](..)

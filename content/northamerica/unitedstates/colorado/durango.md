@@ -1,9 +1,9 @@
 ---
-title: "Durango Travel Guide"
+title: "Durango"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The City of Durango is a Home Rule Municipality that is the
 county seat and the most populous city of La Plata County, Colorado, United
@@ -26,19 +26,4 @@ Heritage Site known for its Ancestral Puebloan Cliff Dwellings.
 Durango is known for the Durango & Silverton Narrow
 Gauge Railroad, a heritage railway which travels from Durango to the historic
 mining town of Silverton, Colorado on steam-powered trains with rolling stock
-dating back to the 1920s and before.
-
-Durango hosted the first-ever Mountain Bike World
-Championships in 1990.
-
-Durango is also home to the Snowdown Festival, an event
-which includes fireworks and a parade. The parade is the centerpiece and
-usually occurs the last Friday of January or the first Friday of February. The
-city is also home to the annual Music in the Mountains summer music festival,
-which features performances by many of the world's finest classical musicians.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Durango,_Colorado*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 19:48
+dating

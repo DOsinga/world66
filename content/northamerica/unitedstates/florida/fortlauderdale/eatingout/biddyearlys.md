@@ -17,5 +17,3 @@ type: British
 address: 3419 North Andrews Avenue
 
 tel: (954) 567-1990
-
-[back to Eating Out](..)

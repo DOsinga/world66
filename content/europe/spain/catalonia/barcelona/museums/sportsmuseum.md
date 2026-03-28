@@ -5,8 +5,6 @@ address: "Buenos Aires  56 - 58"
 opening_hours: "Mon-Fri: 10-14:00/16-20:00."
 phone: "93 41 92 232"
 type: "Museums"
-latitude: -34.609558
-longitude: -58.38879
 ---
 
 The Sports Museum comprises also a study centre and is dedicatate dto the history of sport in Catalonia.
@@ -22,5 +20,3 @@ tel: 93 41 92 232
 address: Buenos Aires 56 - 58
 
 open: Mon-Fri: 10-14:00/16-20:00.
-
-[back to Museums](..)

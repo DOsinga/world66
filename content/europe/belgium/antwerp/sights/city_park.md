@@ -10,7 +10,3 @@ bridge over a small stream and there are some man made rock formations.
 Located in the diamond quarter near the station.
 
 type: Parks, Gardens and Zoos
-
-
-
-[back to Sights](..)

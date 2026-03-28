@@ -15,5 +15,3 @@ great opportunities for snorkelers like in all beaches of Malta.
 
 **Contributors**
 November 16, 2006
-new
-by [vanilja](/member/vanilja)

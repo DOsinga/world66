@@ -8,13 +8,9 @@ An extremely in-depth guide to one of the most unique islands of the Bahamas. Th
 
 **Contributors**
 June 21, 2005
-change
-by [danapiper](/member/danapiper)
 
 
 
 
 
 author: Dave Kresge
-
-[back to Books](..)

@@ -9,13 +9,9 @@ While it really isn't a park or public garden, Agro Oriente is a popular place f
 
 **Contributors**
 February 14, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Parks, Gardens and Zoos
 
 
 
 address: Jr. Reyes Guerra #900
-
-[back to Sights](..)

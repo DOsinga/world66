@@ -29,5 +29,3 @@ url: [9824376580](http://9824376580)
 address: 614, Adarshnagar, sector: 24, Gandhinagar, Gujarat, India
 
 email:
-
-[back to Practical Information](..)

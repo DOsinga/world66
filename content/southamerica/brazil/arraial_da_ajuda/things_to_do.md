@@ -13,5 +13,3 @@ If you go to Arraial dont miss:
 
 **Contributors**
 November 24, 2005
-new
-by [tull](/member/tull)

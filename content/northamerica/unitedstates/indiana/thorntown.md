@@ -1,9 +1,9 @@
 ---
-title: "Thorntown Travel Guide"
+title: "Thorntown"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 A small town in northwest Boone County, roughly 35 miles northwest of Indianapolis, Thorntown is home to an estimated 1,559 people.
 
@@ -18,11 +18,3 @@ The local telephone company - Frontier - offers DSL high speed internet service.
 In addition, the town has one drugstore, one independently owned gas station, one bank (Home National) which has one ATM, one liquor store and an elementary school.
 
 The town's only gas station, situated at the southwest corner of Main and Pearl streets, is an independently owned business where the owners pump your gas for you to compensate for slightly higher prices.
-
-#### Contributors
-
-December 12, 2005 change by [the oracle](/member/the_oracle)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 06:16

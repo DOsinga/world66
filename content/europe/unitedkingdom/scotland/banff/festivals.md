@@ -17,8 +17,6 @@ Vintage Rally.
 
 **Contributors**
 January 21, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Deveron Festival](/europe/unitedkingdom/scotland/banff/festivals/deveron_festival)
 

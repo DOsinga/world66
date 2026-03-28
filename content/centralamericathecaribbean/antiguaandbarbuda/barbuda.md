@@ -1,0 +1,4 @@
+---
+title: "Barbuda"
+type: location
+---

@@ -13,7 +13,4 @@ Another international airport is being built in Corvera, about 25 kilometers fro
 
 Due to the present location of Murcia airport the city is not a well visited tourist attraction. However, it is well worth a visit and is an extremely good example of Spain and all its character.
 
-*Change history*
-Orginal article by [ahamb](/member/ahamb) on 16 July 04
-
-Minor corrections by [ahamb](/member/ahamb) on 26 July 04
+Minor corrections on 26 July 04

@@ -9,5 +9,3 @@ stoke on trent
 
 [Wolverhampton](/europe/unitedkingdom/england/birmingham_and_wes/staffordshire/wolverhampton)
 [Stafford](/europe/unitedkingdom/england/birmingham_and_wes/staffordshire/stafford)
-
--->

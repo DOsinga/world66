@@ -7,5 +7,3 @@ For years the only way to the Island was by boat. It was not until 1921 that Ann
 
 **Contributors**
 October 21, 2005
-new
-by [natasha499](/member/natasha499)

@@ -1,8 +1,6 @@
 ---
 title: "Dali Museum"
 type: poi
-latitude: 48.88648
-longitude: 2.339902
 ---
 
 The Espace Dali-Montmartre was set up by the Stratton Foundation, a non profit-making association operating from Lichtenstein whose main aim is to promote Art. 
@@ -28,5 +26,3 @@ connections: Metro: Anvers + RER - Abbesses - Blanche – Pigalle. Bus: 64- 80.
 openings: daily without interruption, including public holidays, from 10 am to 6 pm
 
 tel: 01 42 64 40 10
-
--->

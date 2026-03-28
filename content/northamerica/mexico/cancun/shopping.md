@@ -46,13 +46,7 @@ won't be the best exchange rate.
 
 **Contributors**
 February 08, 2010
-new
-by [robin_8000](/member/robin_8000)
 
 February 10, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

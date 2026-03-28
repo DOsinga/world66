@@ -17,5 +17,3 @@ type: Vegetarian
 address: R. Senador Dantas, 84, Loja 'G' (Crosstr. Centro)
 
 tel: 21-240-5388
-
-[back to Eating Out](..)

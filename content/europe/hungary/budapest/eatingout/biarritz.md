@@ -8,7 +8,3 @@ It’s always a good sign when a restaurant is packed, especially when it’s no
 address: Kossuth Lajos tér 18
 
 tel: 111-4413
-
-[back to Eating Out](..)
-
--->

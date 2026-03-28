@@ -8,13 +8,5 @@ Park next to the Olympic Port. It was a Militar Fortress that was rised in the 1
 
 **Contributors**
 March 03, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Parks, Gardens and Zoos
-
-
-
-
-
-[back to Sights](..)

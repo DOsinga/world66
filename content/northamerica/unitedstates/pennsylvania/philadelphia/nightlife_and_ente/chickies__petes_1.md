@@ -15,5 +15,3 @@ type: Pubs
 tel: 215.338.3060
 
 address: 4010 Robbins Ave., Philadelphia, Pennsylvania
-
-[back to Nightlife and Entertainment](..)

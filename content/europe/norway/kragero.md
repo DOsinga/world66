@@ -1,0 +1,4 @@
+---
+title: "Kragero"
+type: location
+---

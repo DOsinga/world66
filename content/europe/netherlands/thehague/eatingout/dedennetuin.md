@@ -8,5 +8,3 @@ Reasonable priced place with Dutch and international dishes. **Veronique :** Di
 address: Denneweg 130
 
 tel: 070-36589788
-
--->

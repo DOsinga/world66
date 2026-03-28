@@ -1,6 +1,6 @@
 ---
 title: "RESTAURANT KASHMIR"
-type: location
+type: poi
 accessibility: "Champ-de-Mars Metro Station"
 address: "138, rue Saint-Paul Est,"
 email: "restauranrkashmir.com@gmail.com"
@@ -8,8 +8,6 @@ phone: "(514)-861-6640,"
 price: "20-40$"
 type: "Indian and Pakistani"
 url: "www.restaurantkashmir.com"
-latitude: 45.507007
-longitude: -73.552496
 ---
 
 **Restaurant Kashmir
@@ -36,5 +34,3 @@ address: 138, rue Saint-Paul Est,
 PriceOfMenu: 20-40$
 
 email: restauranrkashmir.com@gmail.com
-
-[back to Eating Out](..)

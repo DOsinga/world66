@@ -1,9 +1,9 @@
 ---
-title: "CONGO-NILE HIKING TRAIL Travel Guide"
+title: "CONGO-NILE HIKING TRAIL"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **RWANDAS CONGO NILE TRAIL HIKING and CYCLING THROUGH RURAL AFRICA With Green Hills Ecotours**
 
@@ -22,9 +22,3 @@ hiking experience”.
 **For more details;update information about Congo Nile Trekking, Contact local tour Guides in Gisenyi:Green Hills Ecotours:**
 
 **Call:+250 788219495 or www.greenhillsecotours.com(Green Hills Ecotours)**
-
-*Part or or all of this text stems from the original article at: Rwandatravelguide*
-
-Page last generated on Fri 20:40
-
--->

@@ -29,5 +29,3 @@ priceofmenu: $5.00 - $10.00
 url: [www.bobacafeanddeli.com](http://www.bobacafeanddeli.com)
 
 zipcode: Windows Professional
-
-[back to Eating Out](..)

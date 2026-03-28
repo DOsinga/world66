@@ -18,5 +18,3 @@ The author was a Professor and Head of a British Aid Project at the National Uni
 author: Robin H. Meakins
 
 isbn: 978-1-4259-8384-0
-
-[back to Books](..)

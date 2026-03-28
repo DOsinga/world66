@@ -19,5 +19,3 @@ Castello Sforzeco is a centerpiece of the city of Milan and it also played a rol
 
 **Contributors**
 November 18, 2009
-new
-by [samanthalp](/member/samanthalp)

@@ -51,5 +51,3 @@ building as a "local treasure." [6]
 
 **Contributors**
 May 10, 2007
-new
-by [giorgio](/member/giorgio)

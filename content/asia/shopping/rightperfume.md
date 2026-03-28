@@ -6,8 +6,6 @@ email: "rightperfume1988@hotmail.com"
 phone: "(033) 44067706"
 type: "Speciality shops"
 url: "www.rightperfumes.in"
-latitude: 21.079025
-longitude: 105.79445
 ---
 
 No matter what you dress up, until you put on the drops of your favorite perfume, your dressing is incomplete. Perfumes, besides covering the body odor, have its
@@ -30,5 +28,3 @@ url: www.rightperfumes.in
 address: P-545 Lake Road
 
 email: rightperfume1988@hotmail.com
-
-[back to Shopping](..)

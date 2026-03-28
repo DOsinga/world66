@@ -14,8 +14,6 @@ and more low-cost carrier flying to Basel.
 
 **Contributors**
 September 23, 2005
-new
-by [modir](/member/modir)
 
 type: By Air
 
@@ -26,5 +24,3 @@ tel: +41 61 / 325 31 11
 url: [www.euroairport.com](http://www.euroairport.com/)
 
 address: Postfach 142, CH-4030 Basel
-
-[back to Getting There](..)

@@ -7,8 +7,6 @@ Shipping Company
 
 **Contributors**
 November 12, 2008
-new
-by [tayseer shilla](/member/tayseer_shilla)
 
 We currently have no Eating Out listed in Port Sudan.
 

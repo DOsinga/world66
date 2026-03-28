@@ -1,8 +1,6 @@
 ---
 title: "Morskie Oko"
 type: location
-latitude: 49.201405
-longitude: 20.07126
 ---
 
 We currently have no information about Morskie Oko.

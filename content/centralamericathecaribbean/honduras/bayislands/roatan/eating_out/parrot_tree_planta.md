@@ -14,5 +14,3 @@ type: Seafood
 
 
 url: [www.parrot-tree.net](http://www.parrot-tree.net/)
-
-[back to Eating Out](..)

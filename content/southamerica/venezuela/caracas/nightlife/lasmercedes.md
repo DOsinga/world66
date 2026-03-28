@@ -14,5 +14,3 @@ type: Concerts
 
 
 address: av monterrey
-
-[back to Nightlife and Entertainment](..)

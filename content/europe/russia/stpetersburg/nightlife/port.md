@@ -15,5 +15,3 @@ type: Discos and Nightclubs
 address: per.Antonenko 2 (Sennaya Ploshchad metro,, off St)
 
 openings: daily 15:00-6:00
-
-[back to Nightlife and Entertainment](..)

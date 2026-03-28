@@ -64,5 +64,3 @@ Trail Bikes
 http://www.angelfire.com/hbzxujh/19y3.html
 Depression Health Article
 http://www.angelfire.com/wxyhkwo/14lw.html
-
-*Part or or all of this text stems from the original article at: Darius Cameron*

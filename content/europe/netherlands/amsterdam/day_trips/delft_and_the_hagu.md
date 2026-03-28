@@ -9,13 +9,9 @@ url: "www.delft.nl"
 
 **Contributors**
 May 12, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 
 
 url: [www.delft.nl](http://www.delft.nl)
 
 email: info@tipdelft.nl
-
-[back to Day Trips](..)

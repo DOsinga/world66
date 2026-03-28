@@ -35,9 +35,6 @@ Check for more details and most recent rates: http://www.teso.nl/en_index3.htm
 **Itenary form**
 For individualized information, Teso ferry company offers a handy *Itenary *form. Please check the website below to get your personalized print-out.
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 24 March 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 24 March 05
+Minor corrections on 24 March 05
 
 type: By Sea

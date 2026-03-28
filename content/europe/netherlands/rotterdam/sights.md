@@ -3,6 +3,16 @@ title: "Sights"
 type: section
 ---
 
+**general**
+
+**Euromast**
+
+The Euromast is a 185m high reminder for the flower fair, the “Floriade” held in 1960. It’s the symbol of Rotterdams erection from the ashes of the bombardment and the modern future the city awaits. H.A. Maaskant was the name of the designer, witch translates as “Side of the Meuse”. The [more..](/europe/netherlands/rotterdam/sights/euromast)
+
+address: Parkhaven 20
+
+tel: +31-010-- 4364811
+
 **Spido harbourtrips**
 
 To take a real close look at the biggest port of the world go on a Spido boattrip and see the busy river and sea traffic from close by. An ocean liner or cargo carrier may be an impressive sight standing ashore, see how it looks from a relatively small ship.
@@ -21,9 +31,7 @@ tel: +31-010-4020700
 
 **Laurens kerk**
 
-The St Laurence church is one of few buildings in the centre of Rotterdam that survived the WO-II bombardment. It suffered severe damage and had to be partly rebuild, but it’s still standing. This rebuilding was finished in 1968. The church dates back to the first half of the 16th century (1525 [more..](/europe/netherlands/rotterdam/sights/laurenskerk)
-
-address: Grote kerkplein 3
+The St Laurence church is one of few buildings in the centre of Rotterdam that survived the WO-II bombardment. It suffered severe damage and had to be partly rebuild, but it’s still standing. This rebuilding was finished in 1968. The church dates address: Grote kerkplein 3
 
 **Arboretum Trompenburg**
 
@@ -49,12 +57,6 @@ address: Leuvehaven 77
 
 tel: ++31 (0)900 - 2354629
 
-**Euromast**
-
-address: Parkhaven 20
-
-tel: +31-010-- 4364811
-
 **Blijdorp Zoo**
 
 The Blijdorp Zoo is very popular due to its many different animal species that live in imitation surroundings: a Gorilla island, Malayan 'forest rim', a widely varied Asian area with many unique animals like bantengs and babirussa. The newly build Oceanium is a real sight. Here you can experienc [more..](/europe/netherlands/rotterdam/sights/blijdorpzoo)
@@ -63,6 +65,8 @@ address: Van Aerssenlaan 49
 
 tel: +31-010-- 4431431
 
-## Subsections
+## Categories
 
-[Museums](/europe/netherlands/rotterdam/sights/museums)
+[general](/europe/netherlands/rotterdam/sights?subsection=general)
+
+[Museums](/europe/netherlands/rotterdam/sights?subsection=Museums)

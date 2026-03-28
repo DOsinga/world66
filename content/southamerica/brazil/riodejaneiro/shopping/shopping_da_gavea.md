@@ -14,5 +14,3 @@ type: Shopping centers and malls
 
 
 address: Rua Marques de Sao Vicente 52, Gavea.
-
-[back to Shopping](..)

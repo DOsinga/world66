@@ -14,5 +14,3 @@ type: Other
 
 
 url: [www.progresoverde.org](http://www.progresoverde.org/ecuador-hummingbirds.html)
-
-[back to Things to do](..)

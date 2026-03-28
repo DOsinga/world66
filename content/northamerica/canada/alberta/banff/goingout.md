@@ -109,6 +109,4 @@ Entertainment nightly. Live country/rock Wed-Sun. Line dance lessons Wed 8 pm. 1
 
 **Voyager Inn . **
 
-Quiet and cozy Voyageur Lounge.  Tel: 1 403 762-3301  Address: 555 Banff Ave 
-
--->
+Quiet and cozy Voyageur Lounge.  Tel: 1 403 762-3301  Address: 555 Banff Ave

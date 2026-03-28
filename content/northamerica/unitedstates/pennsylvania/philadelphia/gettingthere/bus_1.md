@@ -13,5 +13,3 @@ type: By Road
 
 
 email: marketing@gotobus.com
-
-[back to Getting There](..)

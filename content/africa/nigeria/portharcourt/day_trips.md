@@ -26,9 +26,5 @@ Nigeria is highly respected for the country’s natural beauty and the Agbokim W
 
 **Contributors**
 April 08, 2010
-change
-by [ctanios](/member/ctanios)
 
 April 03, 2010
-change
-by [turkeyfish](/member/turkeyfish)

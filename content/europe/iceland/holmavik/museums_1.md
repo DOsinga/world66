@@ -11,5 +11,3 @@ The Sorcerer´s Cottage is another part of the Witchcraft Museum, located 27 km 
 
 **Contributors**
 August 16, 2005
-new
-by [sigatlas](/member/sigatlas)

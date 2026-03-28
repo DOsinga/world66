@@ -1,8 +1,6 @@
 ---
 title: "Robinson Crusoe Island"
 type: location
-latitude: -33.64445
-longitude: -78.826224
 ---
 
 Over 500 km west of [Valparaiso](/southamerica/chile/valparaiso) Robinson Crusoe island is pretty much

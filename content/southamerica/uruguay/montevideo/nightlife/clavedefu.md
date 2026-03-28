@@ -10,8 +10,6 @@ The best local folk groups come here and play live music on the weekends.
 
 **Contributors**
 November 13, 2005
-change
-by [jmcnally](/member/jmcnally)
 
 type: Casinos
 
@@ -22,5 +20,3 @@ type: Casinos
 address: 26 de Marzo 1125, Pocitos
 
 openinghours: starts at 22:00 hours
-
-[back to Nightlife and Entertainment](..)

@@ -22,5 +22,3 @@ url: www.theinkaadventure.com
 address: Cusco Peru
 
 email: internet@theinkaadventure.com
-
-[back to Practical Information](..)

@@ -13,7 +13,4 @@ dos Ollos Grandes are from the 17th and 18th centuries. The Most Holy
 is shown on the high altar day and night: the cathedral has had this
 privilege for ages.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections on 11 March 05

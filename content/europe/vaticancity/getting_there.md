@@ -22,5 +22,3 @@ The following buses go to Vatican City. The 49 stops in front of the Museums Ent
 
 **Contributors**
 September 19, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

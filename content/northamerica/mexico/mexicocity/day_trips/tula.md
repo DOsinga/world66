@@ -10,9 +10,3 @@ hail a cab to the ruins for about MXN 25.
 
 **Contributors**
 January 11, 2007
-new
-by [out of the grey](/member/out_of_the_grey) (2 points)
-
-
-
-[back to Day Trips](..)

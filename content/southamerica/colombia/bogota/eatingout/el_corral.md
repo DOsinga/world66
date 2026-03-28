@@ -17,5 +17,3 @@ type: Fast food
 url: [www.elcorral.com](http://www.elcorral.com/)
 
 PriceOfMenu: Fairly cheap
-
-[back to Eating Out](..)

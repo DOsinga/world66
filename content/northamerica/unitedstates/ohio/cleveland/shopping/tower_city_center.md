@@ -11,8 +11,6 @@ The Avenue at Tower City has a combination of major retailers, odd shops, and an
 
 **Contributors**
 April 06, 2006
-change
-by [vulpster03](/member/vulpster03) (4 points)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: 216-771-0033
 url: [www.towercitycenter.com](http://www.towercitycenter.com/)
 
 address: 50 Public Square
-
-[back to Shopping](..)

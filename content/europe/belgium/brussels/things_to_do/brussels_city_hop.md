@@ -9,8 +9,6 @@ Explore the vibrant city of Brussels with this 24 hour ticket aboard an open top
 
 **Contributors**
 January 20, 2007
-new
-by [huahinhans](/member/huahinhans)
 
 type: Other
 
@@ -19,5 +17,3 @@ type: Other
 
 
 url: [www.affiliate.viator.com](http://www.affiliate.viator.com/brochure/product_show.jsp?CODE=2200HOHO1&ID=1010&PRODUCTID=1016&AUID=3427)
-
-[back to Things to do](..)

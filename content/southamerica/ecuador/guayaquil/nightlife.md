@@ -16,5 +16,3 @@ Guayaquil's Night Life is the most active in the country! Vibrant *guayaquileño
 **Riviera**, Italian Café and Restaurant
 
 **Lo Nuestro**, Ecuadorian Cuisine, in Urdesa, located in a very typical and beautiful ambient.
-
--->

@@ -14,5 +14,3 @@ The blue sources of Meski is a spring gushing fourth from the rock of a hillside
 url: [www.chleuhs.com](http://www.chleuhs.com/modules/bamagalerie3/viewcat.php?id=113&cid=3&min=12&orderby=titreA&show=12)
 
 address: The Blue Sources of Meski, Errachidia
-
-[back to Day Trips](..)

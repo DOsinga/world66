@@ -1,6 +1,6 @@
 ---
 title: "'Alexander´s Garden'"
-type: location
+type: poi
 address: "Cruz del Defensor 955"
 closing_time: "12am, weekends 2 am"
 phone: "600 800"
@@ -28,5 +28,3 @@ address: Cruz del Defensor 955
 tel: 600 800
 
 closingtime: 12am, weekends 2 am
-
-[back to Nightlife and Entertainment](..)

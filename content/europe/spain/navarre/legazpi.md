@@ -1,0 +1,4 @@
+---
+title: "Legazpi"
+type: location
+---

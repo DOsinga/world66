@@ -25,5 +25,3 @@ url: [www.curumim.tur.br](http://www.curumim.tur.br)
 address: zuraylah@curumim.tur.br
 
 email: zuraylah@curumim.tur.br
-
-[back to Tours and Excursions](..)

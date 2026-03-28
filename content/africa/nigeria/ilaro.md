@@ -1,0 +1,4 @@
+---
+title: "Ilaro"
+type: location
+---

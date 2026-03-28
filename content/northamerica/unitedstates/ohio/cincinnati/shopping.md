@@ -12,8 +12,6 @@ If you want to enjoy some Cincinnati shopping while on vacation, take a trip to 
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)
 
 ### [HighStreet Design Studio & Store](/northamerica/unitedstates/ohio/cincinnati/shopping/highstreet_design)
 

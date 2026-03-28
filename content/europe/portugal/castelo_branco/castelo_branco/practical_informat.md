@@ -71,5 +71,3 @@ Tel (0351) 272 347 126
 
 **Contributors**
 September 05, 2005
-change
-by [giorgio](/member/giorgio)

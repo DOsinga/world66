@@ -35,5 +35,3 @@ url: [www.egypttips.com](http://www.egypttips.com)
 address: 2 Okasha from Mostashfa st,Haram,Giza
 
 email: egypttourguide@yahoo.com
-
-[back to Day Trips](..)

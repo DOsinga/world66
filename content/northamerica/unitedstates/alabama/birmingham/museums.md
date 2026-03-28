@@ -7,5 +7,3 @@ If you like jazz music, one of your Birmingham activities has to be a visit to t
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

@@ -1,6 +1,6 @@
 ---
 title: "Bassano Cafe ."
-type: location
+type: poi
 type: "general"
 ---
 

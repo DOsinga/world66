@@ -1,6 +1,6 @@
 ---
 title: "Lalo's"
-type: location
+type: poi
 address: "Augusto Tamay 196"
 email: "lalobar@gmail"
 phone: "421-4471"
@@ -26,5 +26,3 @@ address: Augusto Tamay 196
 PriceOfMenu: 3 to 7 dollars
 
 email: lalobar@gmail
-
-[back to Eating Out](..)

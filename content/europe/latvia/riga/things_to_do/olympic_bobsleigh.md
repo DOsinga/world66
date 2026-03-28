@@ -20,5 +20,3 @@ tel: +371 29553301
 url: [www.rigabobsleigh.com](http://www.rigabobsleigh.com)
 
 email: info@nightlifeinriga.com
-
-[back to Things to do](..)

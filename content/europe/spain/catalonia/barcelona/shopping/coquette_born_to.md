@@ -23,5 +23,3 @@ url: [www.coquettebcn.com](http://www.coquettebcn.com)
 address: Calle Rec 65 (Born), Barcelona 08003
 
 email: coquettecollection@yahoo.com
-
-[back to Shopping](..)

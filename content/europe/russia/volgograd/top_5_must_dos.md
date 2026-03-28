@@ -19,8 +19,4 @@ The State Panoramic Museum &ldquo;Stalingrad Battle&rdquo; is the war museum of 
 
 #### 4. Watch Changing of the Guard
 
-Enjoy a little entertainment with the Changing of the Guard at noon. Pull up a nice patch of grass and sit back and enjoy the guards marching in and out and the children trailing along after them. Watch the pageantry of Russian soldiers kicking their way back to the barracks. The kids enjoy it as they attempt to imitate the soldiers' march.
-
-#### 5. Enjoy at Lysays Gora
-
-Lysays Gora is a spectacular place of interest. This mountain has no natural flora growing bit is a place of rest and peace. It is a wonderful place for a lazy afternoon picnic, a couple of hours exploring the park and marveling at the war memorial that protrudes of the ground as though it had grown there. With the names of the fallen inscribed on it is a long lasting tribute to the Russian soldiers who lost their live during WWII.
+Enjoy a little entertainment with the Changing of the Guard at noon. Pull up a nice patch of grass and sit back and enjoy the guards marching in and out and the children trailing along after them. Watch the pageantry of Russian soldiers kicking their way

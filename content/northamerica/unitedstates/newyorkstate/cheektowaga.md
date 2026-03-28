@@ -1,0 +1,4 @@
+---
+title: "Cheektowaga"
+type: location
+---

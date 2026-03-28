@@ -21,13 +21,9 @@ buying tickets may take 30 minutes.
 
 **Contributors**
 March 07, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (2 points)
 
 type: By Road
 
 
 
 url: www.wpd.nl
-
-[back to Getting There](..)

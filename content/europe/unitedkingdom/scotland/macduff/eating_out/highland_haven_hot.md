@@ -8,13 +8,5 @@ The Highland Haven isn't the top hotel in Macduff but it does have great views o
 
 **Contributors**
 March 29, 2007
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 type: European
-
-
-
-
-
-[back to Eating Out](..)

@@ -16,8 +16,6 @@ sightseeing charters, sunset cruises or even luxury dinner cruises with a privat
 
 **Contributors**
 August 06, 2007
-new
-by [warmeric](/member/warmeric)
 
 
 
@@ -26,5 +24,3 @@ url: [www.yachtchartershawaii.com](http://www.yachtchartershawaii.com)
 address: Honolulu, Oahu, Hawaii
 
 email: info@yachtchartershawaii.com
-
-[back to Day Trips](..)

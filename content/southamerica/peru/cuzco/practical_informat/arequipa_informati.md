@@ -21,5 +21,3 @@ url: www.theinkaadventure.com
 address: Arequipa Information
 
 email: internet@theinkaadventure.com
-
-[back to Practical Information](..)

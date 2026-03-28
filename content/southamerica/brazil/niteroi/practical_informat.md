@@ -7,5 +7,3 @@ The Pestana Rio Atlantica is a great hotel. The Marina Palace Hotel is an immacu
 
 **Contributors**
 January 12, 2009
-change
-by [latravelgirl](/member/latravelgirl)

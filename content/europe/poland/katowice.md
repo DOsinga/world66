@@ -1,0 +1,4 @@
+---
+title: "Katowice"
+type: location
+---

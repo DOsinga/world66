@@ -23,5 +23,3 @@ Dijon connect in Marsailles.
 
 **Contributors**
 September 29, 2009
-new
-by [kimerly](/member/kimerly)

@@ -57,6 +57,4 @@ type: section
 
 **Literacy:** NA 
 
-*note:* similar to Denmark proper 
-
--->
+*note:* similar to Denmark proper

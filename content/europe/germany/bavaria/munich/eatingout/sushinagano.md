@@ -10,7 +10,3 @@ address: An der Hauptfeuerwache 12
 openinghours: Mon - Fri from 11 till 2.30pm and Mon - Sun from 5pm till 11.30pm
 
 tel: +49 (0)89 - 26 01 87 78
-
-[back to Eating Out](..)
-
--->

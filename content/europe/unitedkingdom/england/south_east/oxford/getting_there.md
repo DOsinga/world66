@@ -9,5 +9,3 @@ Now, to get from LHA to your Oxford [hotel](/europe/unitedkingdom/england/south_
 
 **Contributors**
 June 08, 2008
-new
-by [mcburton](/member/mcburton)

@@ -33,5 +33,3 @@ url: [www.itremercanti.it](http://www.itremercanti.it)
 address: Ponte della Guerra, Saint Mark
 
 email: info@itremercanti.it
-
-[back to Shopping](..)

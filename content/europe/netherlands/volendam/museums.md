@@ -17,5 +17,3 @@ Volendam is often dismissed as too quaint, too self-aware. But its reverence for
 
 **Contributors**
 April 01, 2010
-new
-by [jbyard1](/member/jbyard1)

@@ -16,5 +16,3 @@ www.jamapub.cz
 tel: 224 222 383
 
 address: V Jama 7, Prague 1, Cz.
-
-[back to Bars and Cafes](..)

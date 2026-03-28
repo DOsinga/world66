@@ -10,11 +10,7 @@ Should you decide to cross a road on foot, use the designated cross walk even if
 
 **Contributors**
 March 05, 2008
-new
-by [bcguam](/member/bcguam)
 
 
 
 email:
-
-[back to Getting Around](..)

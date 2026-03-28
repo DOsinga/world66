@@ -10,5 +10,3 @@ This book presents English translations of 10 folktales from Southern Tanzania, 
 isbn: 0-7414-0028-6
 
 author: Joseph L. Mbele
-
--->

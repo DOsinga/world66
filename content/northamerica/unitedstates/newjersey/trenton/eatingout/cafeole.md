@@ -15,5 +15,3 @@ type: general
 address: 126 S. Warren St.
 
 tel: 609396 2233
-
-[back to Eating Out](..)

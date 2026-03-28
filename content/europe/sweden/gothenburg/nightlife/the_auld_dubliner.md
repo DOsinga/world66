@@ -10,7 +10,3 @@ Sometimes that's just what you want.
 It can get pretty full, and on Fridays and Saturdays there's a cover charge at the door for the live music upstairs. (Free entry before 9pm).
 
 address: Ostra Hamngatan 50 B
-
-[back to Nightlife and Entertainment](..)
-
--->

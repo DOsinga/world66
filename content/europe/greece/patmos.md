@@ -1,8 +1,6 @@
 ---
 title: "Patmos"
 type: location
-latitude: 37.324747
-longitude: 26.538156
 ---
 
 patmos

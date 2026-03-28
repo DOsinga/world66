@@ -13,5 +13,3 @@ Though there is no inter-city agency serving Cheektowaga, the NFTA offers low-co
 
 **Contributors**
 February 09, 2006
-new
-by [allamericanbear](/member/allamericanbear)

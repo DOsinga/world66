@@ -5,8 +5,6 @@ address: "Nerja"
 email: "info@lifeadventure.es"
 phone: "0034 95 252 7058"
 url: "www.lifeadventure.es"
-latitude: 36.746856
-longitude: -3.879016
 ---
 
 Nerja walking Club
@@ -50,8 +48,6 @@ Michael and Donna
 
 **Contributors**
 July 25, 2007
-new
-by [holidaycosta](/member/holidaycosta)
 
 
 
@@ -62,5 +58,3 @@ url: [www.lifeadventure.es](http://www.lifeadventure.es)
 address: Nerja
 
 email: info@lifeadventure.es
-
-[back to Tours and Excursions](..)

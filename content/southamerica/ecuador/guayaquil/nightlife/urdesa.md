@@ -17,5 +17,3 @@ type: Clubs and dancing
 ClosingTime: varies
 
 address: Av. Victor Emilio Estrada
-
-[back to Nightlife and Entertainment](..)

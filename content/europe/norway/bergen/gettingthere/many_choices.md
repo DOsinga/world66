@@ -13,11 +13,4 @@ The **Railway** from [Oslo](/europe/norway/oslo) is one of Europe's noted scenic
 
 Bergen is also a major **port** for international **boats,** cuises and **ferries** to other parts of Norway. In particular, it is the southern terminal of the [Hurtigruten](/europe/norway/hurtigruten) ferry to [Kirkenes](/europe/norway/kirkenes) and back. http://www.hurtigruten.com/uk/ For other ferries see http://europeforvisitors.com/europe/articles/bergen_links_2.htm
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 19 November 04
-
-Orginal article by [davidx](/member/davidx) on 19 November 04
-
 url: [europeforvisitors.com](http://europeforvisitors.com/europe/articles/bergen_practical_info.htm)
-
--->

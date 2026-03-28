@@ -1,8 +1,6 @@
 ---
 title: "Perinet"
 type: location
-latitude: -18.9362
-longitude: 48.428146
 ---
 
 We currently have no information about Perinet.

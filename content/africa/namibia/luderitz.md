@@ -1,0 +1,4 @@
+---
+title: "Luderitz"
+type: location
+---

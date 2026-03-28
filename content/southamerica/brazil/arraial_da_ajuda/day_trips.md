@@ -29,5 +29,3 @@ The most visited places are:
 
 **Contributors**
 November 24, 2005
-new
-by [tull](/member/tull)

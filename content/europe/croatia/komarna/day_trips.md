@@ -23,5 +23,3 @@ Mostar is 65 km nort of Komarna. The biggest attraction in Mostar is its Unesco 
 
 **Contributors**
 November 04, 2008
-change
-by [matulini](/member/matulini)

@@ -11,7 +11,5 @@ A modern European restaurant, built in the crypt of St Matthew's Church. To be r
 
 **Contributors**
 August 23, 2005
-new
-by [brixton_ian](/member/brixton_ian)
 
 type: European

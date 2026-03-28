@@ -1,9 +1,7 @@
 ---
 title: "MGM Grand"
-type: location
+type: poi
 address: "3799 Las Vegas Blvd"
-latitude: 36.103237
-longitude: -115.171647
 ---
 
 Las Vegas has the Eiffel Tower, the Statue of Liberty and a reputation for all that is big, crazy and expensive. It comes as no surprise then that it hosts the world's largest hotel. With 5005 rooms, 14 restaurants, an extensive pool complex and a Lion enclosure the MGM Grand finds a perfect home in the city. It is cordially movie themed but compared to the other casinos along the strip has minimal decoration or stylisation. This is not to say it doesn't have a lot to offer the discerning visitor. 

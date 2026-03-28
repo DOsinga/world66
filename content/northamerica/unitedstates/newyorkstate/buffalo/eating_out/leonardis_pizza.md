@@ -22,5 +22,3 @@ tel: (716) 835-8700
 address: 614 Grover Cleveland Highway, Amherst, NY 14226
 
 PriceOfMenu: $10.00 and Up
-
-[back to Eating Out](..)

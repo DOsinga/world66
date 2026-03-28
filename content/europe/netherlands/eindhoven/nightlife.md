@@ -27,25 +27,4 @@ At this square surrounded by cafés you can often enjoy live perfomances.
 
 **De Bergen**
 
-Walk down the Wilheminaplein to the narrow street of the Kleine Berg and visit a nice dinner cafe or the Berlage grand cafe. 
-
-## Subsections
-
-[Bars](/europe/netherlands/eindhoven/nightlife/bars)
-[Clubs](/europe/netherlands/eindhoven/nightlife/clubs)
-[Coffee Shops](/europe/netherlands/eindhoven/nightlife/coffeeshops)
-[Dance](/europe/netherlands/eindhoven/nightlife/dance)
-[Disco](/europe/netherlands/eindhoven/nightlife/disco)
-[Erotic](/europe/netherlands/eindhoven/nightlife/erotic)
-
-[Gay & Lesbian](/europe/netherlands/eindhoven/nightlife/gaylesbian)
-[Grand Café](/europe/netherlands/eindhoven/nightlife/grandcaf)
-[Jazz Clubs](/europe/netherlands/eindhoven/nightlife/jazzclubs)
-[Live Music](/europe/netherlands/eindhoven/nightlife/livemusic)
-[Lounge](/europe/netherlands/eindhoven/nightlife/lounge)
-
-[Pubs](/europe/netherlands/eindhoven/nightlife/pubs)
-[Rock](/europe/netherlands/eindhoven/nightlife/rock)
-[Salsa](/europe/netherlands/eindhoven/nightlife/salsa)
-[Student Pubs](/europe/netherlands/eindhoven/nightlife/studentpubs)
-[Xtreme](/europe/netherlands/eindhoven/nightlife/xtreme)
+Walk down the Wilheminaplein to the narrow street of the Kleine Berg and visit a nice dinner cafe or the Berlage grand cafe.

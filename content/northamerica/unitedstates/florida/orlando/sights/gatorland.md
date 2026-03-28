@@ -61,7 +61,3 @@ and up is $22.99, Ages 3 to 12 $14.99 and under 3 is free. You can
 usually find discount coupons almost everywhere in Florida.
 
 type: Hotspots
-
-
-
-[back to Sights](..)

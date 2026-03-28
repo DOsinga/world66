@@ -20,5 +20,3 @@ It uses visual association and teaches you the basics very fast.
 4) Places to eat, 1000s, but try the ”milk bars” for cheap real Polish cooking.
 
 5) Medical, not an issue as Poland has a high level of medicine in their private clinics and it is very affordable, many people go for cosmetic reason because of the price and quality.
-
--->

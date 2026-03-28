@@ -11,8 +11,6 @@ Offering some of the most beautiful views of the city, deep in the Queen Anne di
 
 **Contributors**
 November 06, 2005
-change
-by [m0rbidm00n](/member/m0rbidm00n)
 
 type: Parks, Gardens and Zoos
 
@@ -25,5 +23,3 @@ openingHours: 24 hours
 url: [www.seattle.gov](http://www.seattle.gov/parks/parkspaces/kerry.htm)
 
 address: 211 W Highland Dr
-
-[back to Sights](..)

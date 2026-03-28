@@ -22,7 +22,3 @@ type: section
   **by air:**
 
  Nearest airports: Innsbruck 60 km, Munich 230 km
-
- 
-
--->

@@ -7,8 +7,6 @@ At Aberdour beach - It's quite easy on a beautiful summers day to imagine you ar
 
 **Contributors**
 January 31, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Aberdour Beach](/europe/unitedkingdom/scotland/new_aberdour/beaches/aberdour_beach)
 

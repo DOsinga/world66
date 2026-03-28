@@ -22,5 +22,3 @@ type: section
 Booking of party ships and daily ship tours on the river rhine. For more information visit our website.
 
 url: [www.schiffahrt-nikolay.de](http://www.schiffahrt-nikolay.de)
-
--->

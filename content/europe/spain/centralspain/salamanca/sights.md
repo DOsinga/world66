@@ -9,7 +9,4 @@ The main sights in Salamanca are all fairly close together. You will no doubt wa
 
 2.Convento de Las Dueñas - here you will see the best cloisters in the city.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 20 May 04
-
-Minor corrections by [davidx](/member/davidx) on 02 July 04
+Minor corrections on 02 July 04

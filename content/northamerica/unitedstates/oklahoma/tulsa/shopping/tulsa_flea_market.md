@@ -13,8 +13,6 @@ Tulsa Flea Market is without doubt one of the finest flea markets for antiques a
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Antiques
 
@@ -27,5 +25,3 @@ accessibility: Wheelchair accessible.
 tel: (918) 744-1386
 
 address: Tulsa Expo Square -- 4145 East 21st Street
-
-[back to Shopping](..)

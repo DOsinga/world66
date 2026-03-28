@@ -12,5 +12,3 @@ type: By Sea
 
 
 address: werg@hotmail.com
-
-[back to Getting There](..)

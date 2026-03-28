@@ -11,8 +11,6 @@ From Manolo Blahnik and Prada to Armani and Zac Posen -- Barney's New York is a 
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: 212-716-8817
 url: [www.barneys.com](http://www.barneys.com)
 
 address: 660 Madison Avenue
-
-[back to Shopping](..)

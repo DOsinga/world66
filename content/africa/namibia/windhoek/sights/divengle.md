@@ -6,8 +6,6 @@ email: "marilia@hotmail.com"
 opening_hours: "8:00"
 phone: "+244 912555555"
 type: "Hotspots"
-latitude: -8.82727
-longitude: 13.243951
 ---
 
 Wild animals
@@ -25,5 +23,3 @@ url:
 address: Luanda
 
 email: marilia@hotmail.com
-
-[back to Sights](..)

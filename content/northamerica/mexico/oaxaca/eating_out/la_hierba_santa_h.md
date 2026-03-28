@@ -6,8 +6,6 @@ email: "lahierbasanta@gmail.com"
 phone: "516 3543"
 price: "65 pesos"
 type: "International"
-latitude: 20.527578
-longitude: -100.805734
 ---
 
 November 2008
@@ -39,5 +37,3 @@ address: Matamoros 101
 PriceOfMenu: 65 pesos
 
 email: lahierbasanta@gmail.com
-
-[back to Eating Out](..)

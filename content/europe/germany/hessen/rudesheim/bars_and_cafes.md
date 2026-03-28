@@ -27,5 +27,3 @@ Wirtshaus Hannelore is a well-known place for local and tourists alike. It is a 
 
 **Contributors**
 March 31, 2010
-new
-by [kwalker](/member/kwalker)

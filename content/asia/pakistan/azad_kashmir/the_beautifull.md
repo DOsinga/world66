@@ -1,0 +1,8 @@
+---
+title: "The Beautifull"
+type: location
+---
+
+Travel Guide
+
+THE BEAUTIFULL HAJIRA IS TEHSEEL OF DISTRICT POONCH.HAJIRA IS SITUATED AT MAIN RAWALPINDI KOTLI ROAD.

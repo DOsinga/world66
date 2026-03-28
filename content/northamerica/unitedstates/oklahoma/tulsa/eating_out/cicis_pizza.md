@@ -11,12 +11,8 @@ type: "Italian"
 
 **Contributors**
 December 08, 2006
-change
-by [approaching genius](/member/approaching_genius) (1 point)
 
 December 07, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Italian
 
@@ -29,5 +25,3 @@ accessibility: Excellent from I-44
 address: 4949 S Peoria
 
 PriceOfMenu: Eat cheap
-
-[back to Eating Out](..)

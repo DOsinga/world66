@@ -1,0 +1,4 @@
+---
+title: "Nara"
+type: location
+---

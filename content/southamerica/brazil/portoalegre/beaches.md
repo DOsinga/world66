@@ -44,5 +44,3 @@ the river for an even better view.
 
 **Contributors**
 January 11, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

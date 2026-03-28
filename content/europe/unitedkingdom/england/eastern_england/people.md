@@ -64,5 +64,3 @@ The Bugs
 http://www.angelfire.com/urrxboyi/1n6.html
 Growing Sunflower Seeds
 http://www.angelfire.com/bpdegmyz/1g5.html
-
-*Part or or all of this text stems from the original article at: Mary Hartman*

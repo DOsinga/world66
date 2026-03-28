@@ -13,9 +13,6 @@ The rest of Arlington is a hodgepodge of various neighborhoods, each replete wit
 
 Arlington is served by subway, Washington's Metro system, on the blue, orange, and yellow lines. Busses serve nearly every neighborhood of the area, and driving is unusually easy for the area (although parking can be a headache.) Arlington is on I-66 and I-395, as well as US 1 and the George Washington Parkway.
 
-*Change history*
-Minor corrections by [iolaire](/member/iolaire) on 19 July 04
-
 ## Destinations in Arlington
 
 [Pentagon City](/northamerica/unitedstates/virginia/arlington/pentagoncity)

@@ -11,5 +11,3 @@ Yelp has real reviews by real people just like you, so you can be assured of the
 
 **Contributors**
 February 09, 2009
-change
-by [djmc](/member/djmc)

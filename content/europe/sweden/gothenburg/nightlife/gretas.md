@@ -7,8 +7,6 @@ email: "gretasinfo@spray.se"
 phone: "+46 (0)31 13 69 49"
 type: "Gay and Lesbian"
 url: "www.gretas.nu"
-latitude: 56.052211
-longitude: 12.686655
 ---
 
 Gay bar and nightclub, two bars, two dancefloors, crowded on weekends.
@@ -32,5 +30,3 @@ url: [www.gretas.nu](http://www.gretas.nu)
 address: Drottninggatan 35
 
 email: gretasinfo@spray.se
-
-[back to Nightlife and Entertainment](..)

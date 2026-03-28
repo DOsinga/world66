@@ -1,15 +1,12 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "www.hetmooisteeiland.nl"
 ---
 
 Select a cam below.
 
-*Change history*
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 11 March 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 11 March 05
+Minor corrections on 11 March 05
 
 Northern shore & North Sea
 

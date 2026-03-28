@@ -11,6 +11,3 @@ Raventós, owning one third of all grapes and most of the best wine produced in 
 While much of the grape harvest in this region is sold to the 3 mass producers of the Penedès, there are at least 2 good wine producers in each of the sub-regions. Raimat is a class act with stunning wines that can be purchased world-wide. The two Cabernets – Mas Castell and Valcorba are among Spain’s finest red wines and at half the price of the top Priorat wines, they represent excellent value.
 In the Valls de Riu Corb, L'Olivera and Castell de Remei will not disappoint. In this same region Casa Pardet and Cercavins make excellent ecologically produced red wines.
 Cultural visits to The Valbona Monastery, Medieval Guimerà and historical Verdù and LLeida complement the fine wines and gastronomy found in the Costers del Segre region. Come Discover the Wines of Costers del Segre!
-
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 23 February 05

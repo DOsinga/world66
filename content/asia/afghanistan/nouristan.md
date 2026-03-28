@@ -1,0 +1,4 @@
+---
+title: "Nouristan"
+type: location
+---

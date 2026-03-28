@@ -21,15 +21,4 @@ August 1944 museum: This museum retraces the famous battles of the "Falaise pock
 
 Market downtown every saturday. 
 
-Some good restaurants and bars ! 
-
-
-
-
-
-*Change history*
-Orginal article by [Sir Malcolm](/member/sir_malcolm) on 06 January 05
-
-Orginal article by [Sir Malcolm](/member/sir_malcolm) on 06 January 05
-
--->
+Some good restaurants and bars !

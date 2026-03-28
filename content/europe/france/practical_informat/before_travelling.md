@@ -12,5 +12,3 @@ type: Tourist information
 
 
 url: [gitelink.com](http://gitelink.com/before-travelling-to-France.htm)
-
-[back to Practical Information](..)

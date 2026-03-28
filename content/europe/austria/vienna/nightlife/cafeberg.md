@@ -18,5 +18,3 @@ type: Gay and Lesbian
 
 
 address: Corner of Berggasse and Wasagasse.
-
-[back to Nightlife and Entertainment](..)

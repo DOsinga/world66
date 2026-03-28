@@ -11,8 +11,6 @@ Beachwood Place has a very upscale niche and is located in Beachwood off I-271. 
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (4 points)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: (216) 464-9460
 url: [www.beachwoodplace.com](http://www.beachwoodplace.com/html/)
 
 address: 26300 Cedar Road
-
-[back to Shopping](..)

@@ -1,8 +1,6 @@
 ---
 title: "Wawa"
 type: location
-latitude: 47.992928
-longitude: -84.77402
 ---
 
 Wawa, Ontario, Pop. 4,100, is a picturesque lakefront town on the Trans-Canada Highway (17), 216 km (135 miles) north of Sault Ste. Marie. It is a mining town, but better known to many people as a center for outdoor and wilderness adventures. Opportunities for boating, hiking, fishing, hunting and exploring the vast Canadian wilderness abound.
@@ -15,5 +13,3 @@ If you pass the Wawa goose, be sure to stop and take a gander.
 
 **Contributors**
 July 28, 2005
-change
-by [jstephen](/member/jstephen) (1 point)

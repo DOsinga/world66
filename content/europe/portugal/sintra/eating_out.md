@@ -13,12 +13,8 @@ Sintra, from traditional portuguese cuisine to indian and chinese.
 
 **Contributors**
 July 12, 2005
-new
-by [grpadua](/member/grpadua)
 
 July 13, 2005
-change
-by [anarita](/member/anarita)
 
 ### [Queijada de Sintra
 

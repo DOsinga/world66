@@ -7,5 +7,3 @@ Lexington has something for those with a love for equine, a taste for bourbon, o
 
 **Contributors**
 January 21, 2009
-new
-by [latravelgirl](/member/latravelgirl)

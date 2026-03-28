@@ -45,5 +45,3 @@ tel: (888) 754-7878
 url: [www.mthigh.com](http://www.mthigh.com/)
 
 address: 24510 State Highway 2, Wrightwood, CA 92397
-
-[back to Things to do](..)

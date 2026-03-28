@@ -70,5 +70,3 @@ sightseeing trip, specially if you are on a tight budget.
 
 **Contributors**
 April 07, 2010
-change
-by [smitha](/member/smitha)

@@ -7,5 +7,3 @@ Best to go by car since you will need a car to explore the area. From Aberdeen f
 
 **Contributors**
 January 24, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)

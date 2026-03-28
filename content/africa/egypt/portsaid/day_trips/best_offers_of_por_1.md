@@ -5,8 +5,6 @@ address: "hurghada, egypt"
 email: "info@sunraytours.com"
 phone: "01002145878"
 url: "sunraytours.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -22,7 +20,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Sunray Tours invite you
 to experience Egypt and to visit our site where you will be amazed when you
@@ -186,5 +184,3 @@ url: [sunraytours.com](http://sunraytours.com/Shore-Excursions/)
 address: hurghada, egypt
 
 email: info@sunraytours.com
-
-[back to Day Trips](..)

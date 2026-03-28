@@ -3,16 +3,12 @@ title: "Sights"
 type: section
 email: "hargeisa6(@yahoo.com"
 type: "Hotspots"
-latitude: 39.788474
-longitude: -92.929598
 ---
 
 Here are a few hotspots in Somaliland.
 
 **Contributors**
 July 23, 2006
-change
-by [reen](/member/reen)
 
 ### [Laas Gaa'l](/africa/somaliland/sights/laas_gaal)
 

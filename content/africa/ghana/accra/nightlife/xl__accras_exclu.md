@@ -28,5 +28,3 @@ tel: 0244355809
 address: 45 Aviation Rd/Nyhao Clinic Road
 
 email: mamoye@mokahc.com
-
-[back to Nightlife and Entertainment](..)

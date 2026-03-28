@@ -7,5 +7,3 @@ Apart from the Brown University campus, there is the Rhode Island State House, a
 
 **Contributors**
 June 04, 2008
-new
-by [out of the grey](/member/out_of_the_grey)

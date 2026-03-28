@@ -6,8 +6,6 @@ address: "16/96 the mall ,kanpur"
 email: "rajesh_wahi2000@yahoo.com"
 phone: "9450154733/9336174753"
 type: "Speciality shops"
-latitude: 26.476497
-longitude: 80.338341
 ---
 
 Westfield Century City
@@ -23,8 +21,6 @@ featuring 15 theatres and stadium seating.
 
 **Contributors**
 November 01, 2006
-new
-by [jhyatt](/member/jhyatt)
 
 ### [PUNEET FLOWERS](/northamerica/unitedstates/california/losangeles/centurycity/shopping/puneet_flowers)
 

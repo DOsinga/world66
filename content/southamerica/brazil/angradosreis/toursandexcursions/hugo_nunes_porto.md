@@ -28,5 +28,3 @@ hugo@mardeangra.com.br
 tel: +55 24 3365 10 97
 
 email: hugo@mardeangra.com.br
-
-[back to Tours and Excursions](..)

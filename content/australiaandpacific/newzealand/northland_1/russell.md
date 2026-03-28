@@ -1,9 +1,9 @@
 ---
-title: "Russell Travel Guide"
+title: "Russell"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **New Zealand’s first capital city.** Russell (Maori name Kororāreka) was considered too unsavoury to be the capital so the capital was established up harbour at Okiato and called Russell. Little remains there now but the site is an historic reserve and has new interpretation signage.
 
@@ -24,7 +24,3 @@ The best resource for sights, hotels, restaurants, bars, what to do and see
 **New Zealand’s First Licensed Hotel **After New Zealand became a colony in 1840 all hotels selling alcohol had to have liquor licences. The country’s first was granted to John Johnson of the Duke of Marlborough Hotel in Kororāreka. The hotel in Russell is the fourth on the site
 
 As you stroll round Russell today you’re walking back in time. The town’s original street plan and names from1843 are still intact and feature some of New Zealand’s oldest and most significant historic buildings.
-
-Page last generated on Sun 10:51
-
--->

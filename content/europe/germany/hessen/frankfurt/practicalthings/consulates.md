@@ -13,7 +13,3 @@ UK: Bockenheimer Landstrasse 42, tel: +49 (0)69 17 00 20.
 USA: Siesmayerstrasse 21, tel: +49 (0)69 75 35 00.
 
 type: general
-
-
-
-[back to Practical Information](..)

@@ -9,8 +9,6 @@ Vilnius has bus and trolleybus system
 
 **Contributors**
 August 17, 2005
-new
-by [j wojtynski](/member/j_wojtynski)
 
 ### [Taxi](/europe/lithuania/vilnius/getting_around/taxi)
 
@@ -34,17 +32,10 @@ It's much cheaper to call a cab. Two good companies: MERSERA +37052788888 and MA
 
 [](/lib/map/handle?loc=europe|lithuania|vilnius)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

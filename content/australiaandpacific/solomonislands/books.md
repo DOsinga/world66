@@ -110,5 +110,3 @@ The original, comprehensive guide to travel around hundreds of islands has a ful
 isbn: 1566914116
 
 author: David Stanley
-
--->

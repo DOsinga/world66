@@ -5,8 +5,6 @@ address: "ksar merzouga 52202"
 email: "Moroccotravelguide@Gmail.com"
 type: "Other"
 url: "www.Mouhoutours.c.la"
-latitude: 31.132883
-longitude: -4.017473
 ---
 
 ****" Mouhoutours " Offersgreat tours around Morocco,Private tours in Morocco,Adventures in
@@ -29,5 +27,3 @@ url: [www.Mouhoutours.c.la](http://www.Mouhoutours.c.la)
 address: ksar merzouga 52202
 
 email: Moroccotravelguide@Gmail.com
-
-[back to Things to do](..)

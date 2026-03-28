@@ -1,0 +1,4 @@
+---
+title: "Inarajan"
+type: location
+---

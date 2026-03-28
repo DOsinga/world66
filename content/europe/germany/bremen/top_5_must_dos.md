@@ -31,11 +31,4 @@ Phone: +49 421 34 20 70 Location: Burgerpark 1
 
 **Rathaus**
 
-The Rathaus, or town hall, is one of the oldest buildings in Bremen. It dates back to the beginning of the 15th century, and has been the center of this bustling city ever since. The building itself is built in the Gothic style, and the interior contains come incredible religious murals that date back to the 16th century. Of particular interest is the basement of the Rathaus, which is home to the Ratskeller. The Ratskeller is a popular bar and restaurant that is famous for its wine collection.
-
-Phone: +49 421 36 16 132 Location: Am Markt 21, Marktplatz
-
-**Contributors**
-October 17, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)
+The Rathaus, or town hall, is one of the oldest buildings in Bremen. It dates

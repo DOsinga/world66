@@ -11,8 +11,6 @@ This award-winning steakhouse chain serves up traditional steaks (including a sp
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: American
 
@@ -23,5 +21,3 @@ tel: 617-262-8900
 url: [www.thecapitalgrille.com](http://www.thecapitalgrille.com)
 
 address: 289 Newbury Street
-
-[back to Eating Out](..)

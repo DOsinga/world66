@@ -18,3 +18,19 @@ A restaurant and hotel rolled into one, this is a popular spot for tourists. The
 **Tiki Raam**
 
 Do you want to have a taste of Pakistan&rsquo;s native cuisines? Tiki Raam attracts tourists with their unique dishes and local foods like daal and kapati. The restaurant is ideal for those who want to enjoy a delicious meal in a quiet atmosphere.
+
+** Rana Hotel**
+
+Well Come to Rana Hotel Situated in front of Sheikh Zayed Hospital and medical college. Rana Hotel is very famous of its special food and locations.Rana hotel is offering its services since 1995. It offer decicious foods like chicken and mutton special. Tawa Special,like Tawa Daal,Tawa Magaz,Paratha, Rotti Naan.further more our **Websitehttp://www.ranahotel.webs.com**
+
+**Rana Hotel **
+
+**Sheikh Zaid Hospital Road**
+
+**Rahim Yar Khan**
+
+**0092-68-5881608**
+
+****
+
+** **

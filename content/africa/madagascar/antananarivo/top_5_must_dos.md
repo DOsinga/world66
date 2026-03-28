@@ -62,5 +62,3 @@ wonderful Madagascan city.
 
 **Contributors**
 March 26, 2010
-change
-by [joekabuya](/member/joekabuya)

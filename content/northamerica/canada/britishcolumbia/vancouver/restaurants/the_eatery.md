@@ -1,6 +1,6 @@
 ---
 title: "The Eatery"
-type: location
+type: poi
 address: "W. Broadway around Waterloo"
 type: "Japanese"
 ---
@@ -9,8 +9,6 @@ The Eatery is "the funkiest place for Japanese food" and it really is amazing. T
 
 **Contributors**
 May 25, 2005
-new
-by [hopalong](/member/hopalong)
 
 type: Japanese
 
@@ -19,5 +17,3 @@ type: Japanese
 
 
 address: W. Broadway around Waterloo
-
-[back to Eating Out](..)

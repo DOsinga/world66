@@ -12,8 +12,6 @@ url: "www.boasteak.com"
 
 **Contributors**
 November 28, 2006
-change
-by [jhyatt](/member/jhyatt)
 
 ### BOA Steakhouse
 

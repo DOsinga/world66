@@ -68,6 +68,3 @@ After the Austria-Hungary came in this area the economic
 development and Tuzla became an integral part of Austria-Hungary
 economy. As its administration was established, a more up-to-date
 methods for salt and coal eploitation were introduced.
-
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 31 March 05

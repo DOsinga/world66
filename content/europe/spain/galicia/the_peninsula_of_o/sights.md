@@ -8,5 +8,3 @@ Hío Cruceiro (Wayside Cross), it is one of the most beautiful cruceiros in Gali
 
 **Contributors**
 March 09, 2005
-new
-by [euroadventures](/member/euroadventures)

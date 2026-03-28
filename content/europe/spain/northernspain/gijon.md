@@ -1,0 +1,4 @@
+---
+title: "Gijon"
+type: location
+---

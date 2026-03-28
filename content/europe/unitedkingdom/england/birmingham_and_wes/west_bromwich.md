@@ -1,9 +1,9 @@
 ---
-title: "West Bromwich Travel Guide"
+title: "West Bromwich"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 West Bromwich orignated as a sprawl around the main road from the north west to London. It grew in size and importance during the industrial revolution due to the easily accessible coal seams and shared with the rest of the Black Country an important role fueling the industrial revolution and Britain's empire building.
 
@@ -18,11 +18,3 @@ The middle ages moated Manor House (now a pub) near Stone Cross, the Oak House n
 Even amongst the industrial landscape it is possible to get away from it all seeing another side to the area by walking, cycling or even boating around the area's extensive canal system.
 
 Nearby attractions include the Black Country Museum, Dudley Zoo, or shopping at Merry Hill or Birmingham.
-
-#### Contributors
-
-March 07, 2006 change by [conrad stevens](/member/conrad_stevens) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 21:28

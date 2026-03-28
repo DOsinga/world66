@@ -15,5 +15,3 @@ type: Tourist information
 
 
 email: jansenkarlijn@hotmail.com
-
-[back to Practical Information](..)

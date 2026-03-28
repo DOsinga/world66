@@ -20,5 +20,3 @@ openingHours: 10:00-18:00
 url: [www.georgianmuseums.ge](http://www.georgianmuseums.ge)
 
 address: 4 Jincharadze str.
-
-[back to Museums](..)

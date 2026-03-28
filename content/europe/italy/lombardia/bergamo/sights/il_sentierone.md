@@ -8,13 +8,5 @@ Going off to the right of the center of the lower town, while looking at the upp
 
 **Contributors**
 May 31, 2005
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Streets
-
-
-
-
-
-[back to Sights](..)

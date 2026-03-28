@@ -8,11 +8,5 @@ Los Angeles is truly an international city. Downtown LA for example has three in
 
 **Contributors**
 November 02, 2006
-new
-by [markintelaviv](/member/markintelaviv) (2 points)
 
 type: Other
-
-
-
-[back to Things to do](..)

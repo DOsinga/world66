@@ -9,8 +9,6 @@ Below you'll find practical information on actual ships postions, timetables, pr
 
 **Contributors**
 March 12, 2006
-new
-by [hollandtraveler](/member/hollandtraveler) (2 points)
 
 ### [Port-to-Port pricing](/europe/norway/hurtigruten/practical_informat/porttoport_prici)
 

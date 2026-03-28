@@ -8,5 +8,3 @@ Berber Tours organizes custom itineraries for both small and large (max. 15 peop
 Contact Berber Tours by telephone at: 212-68-51-50-87 or by email at admin@berbertours.net
 
 Web address: www.berbertours.net
-
--->

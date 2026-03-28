@@ -18,5 +18,3 @@ author: Joel Bonnemaison (Editor),Darrell Tryon (Edit..
 isbn: 082481956X
 
 subject: culture
-
-[back to Books](..)

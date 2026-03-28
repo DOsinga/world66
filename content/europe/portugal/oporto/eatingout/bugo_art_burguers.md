@@ -8,8 +8,6 @@ phone: "+351 226 062 179"
 price: "10/25€ (lunch/dinner)"
 type: "International"
 url: "bugo.com.pt"
-latitude: 41.118591
-longitude: -8.549506
 ---
 
 Bugo Art Burgers is located at Miguel Bombarda Street, the Art Galleries’ Street of Oporto. Its main goal is to challenge the predefined concept of a hamburger place.
@@ -23,8 +21,6 @@ http://oportocool.wordpress.com/2011/02/18/bugo-art-burgers/
 
 **Contributors**
 March 23, 2011
-new
-by [pedrosacosta](/member/pedrosacosta)
 
 type: International
 
@@ -43,5 +39,3 @@ address: Rua Miguel Bombarda 598 – Porto
 PriceOfMenu: 10/25€ (lunch/dinner)
 
 email: bugoartburgers@gmail.com
-
-[back to Eating Out](..)

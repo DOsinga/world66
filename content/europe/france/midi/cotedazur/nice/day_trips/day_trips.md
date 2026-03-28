@@ -43,9 +43,3 @@ foods, wines, locally-made crafts and souvenirs. Stop by the Balzi Rossi Caves M
 
 **Contributors**
 March 02, 2010
-new
-by [amymc](/member/amymc)
-
-
-
-[back to Day Trips](..)

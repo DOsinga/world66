@@ -14,5 +14,3 @@ type: Italian
 
 
 tel: 957 492 313
-
-[back to Eating Out](..)

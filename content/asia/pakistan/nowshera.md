@@ -1,0 +1,4 @@
+---
+title: "Nowshera"
+type: location
+---

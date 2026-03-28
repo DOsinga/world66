@@ -1,9 +1,9 @@
 ---
-title: "Murree Travel Guide"
+title: "Murree"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 We currently have no information about Murree.
 
@@ -11,6 +11,6 @@ If you do know any general information about Murree, please [Edit this article].
 
 If you know any hotels in Murree or restaurants in Murree, please [[Add].](/destinations/addItemWizard?addwhere=asia/pakistan/murree)
 
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
+Murree is known as the Queen of Hills. Murree is only an hour's drive northeast of [Islamabad](/asia/pakistan/islamabad) and an ideal getaway if you are tired of the heta of the capital. Murree is one of the most popular summer resorts in Pakistan.
 
-Page last generated on Wed 02:28
+At the northeast end is Kashmir Point, with views across the valley of the Jhelum River into Azad Kashmir. At the southwest end is Pindi Point, looking back towards Rawalpindi and Islamabad. Between the two runs The Mall, at the center of, which is the main shopping area, where most people congregate. Chair Lifts in Murree give a ride from Bansara Gali (below Murree) to Pindi Point, the other to the top of Patriata hill (on the road to Karor).

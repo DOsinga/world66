@@ -8,11 +8,5 @@ A local bar, this hangout has the advantage of a karaoke machine. As with every 
 
 **Contributors**
 June 07, 2004
-new
-by [seth](/member/seth) (1 point)
 
 type: general
-
-
-
-[back to Nightlife and Entertainment](..)

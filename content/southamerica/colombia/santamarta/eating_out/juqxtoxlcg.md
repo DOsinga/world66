@@ -12,8 +12,6 @@ url: "pndrkoaacpwn.com"
 
 iwVYHB gmkebkphxgyp
 
-*Part or or all of this text stems from the original article at: PaDwUpHef*
-
 type: Seafood
 
 
@@ -29,5 +27,3 @@ address: tpivfTcCsrLxEC
 PriceOfMenu: PVYHSOfclnPg
 
 email: gjbdah@bneubn.com
-
-[back to Eating Out](..)

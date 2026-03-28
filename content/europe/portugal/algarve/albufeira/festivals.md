@@ -55,9 +55,5 @@ December is again a busy month with the Portugal's Independence Day on December 
 
 **Contributors**
 January 18, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

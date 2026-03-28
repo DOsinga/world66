@@ -5,6 +5,10 @@ type: section
 
 Computer Stores, Support centre
 
-We currently have no People listed in Toronto.
+Multi-Ethnic 180 Languages!
 
-If you do know any People in Toronto, please [Add].
+Over 180 languages are spoken in Toronto! There are large numbers
+of people from China, India, Jamaica, The British Isles, The Ukraine,
+Russia, Poland, Sri Lanka, Pakistan, Aghanistan, Iran, Israel, Somalia,
+Guyana, Trinidad and Tobago, Ethiopia, Eritrea, Ghana, Nigeria,
+Germany, Korea, etc.

@@ -7,5 +7,3 @@ In Soroca there are lots of places to eat out those may be restaurants cafes or 
 
 **Contributors**
 June 09, 2007
-new
-by [bassarab](/member/bassarab)

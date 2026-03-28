@@ -7,5 +7,3 @@ Arran provides some excellent mountain walks. Goat Fell, its highest mountain is
 
 **Contributors**
 December 08, 2004
-new
-by [davidx](/member/davidx)

@@ -13,8 +13,6 @@ Named one of the Best Learning Vacations by National Geographic. This workshop i
 
 **Contributors**
 September 28, 2010
-change
-by [ceciglusman](/member/ceciglusman)
 
 type: Other
 
@@ -25,5 +23,3 @@ tel: 1 (831) 915-5209
 url: [www.creativityworkshop.com](http://www.creativityworkshop.com/barcelona.html)
 
 email: admin@creativityworkshops.com
-
-[back to Things to do](..)

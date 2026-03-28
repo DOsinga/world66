@@ -12,7 +12,4 @@ to villa de leyva.
 
 There are also two direct ¨Libertadores¨, not via Tunja, buses a day from Bogotá.
 
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 06 June 05
-
 type: By Road

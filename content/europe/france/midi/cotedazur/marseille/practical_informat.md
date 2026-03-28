@@ -72,5 +72,3 @@ It is mandatory for restaurants to include a 15% service charge in your bill. Ho
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

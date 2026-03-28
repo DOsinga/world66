@@ -24,12 +24,8 @@ For details on dates and times, please see provided url information or check loc
 
 **Contributors**
 June 19, 2006
-change
-by [giorgio](/member/giorgio)
 
 July 11, 2006
-change
-by [reen](/member/reen)
 
 ### Guissona Roman Festival
 

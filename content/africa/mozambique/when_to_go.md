@@ -60,9 +60,5 @@ during February that the rare, migratory birds can be spotted.
 
 **Contributors**
 March 30, 2010
-new
-by [ak1980](/member/ak1980)
 
 April 01, 2010
-change
-by [ctanios](/member/ctanios)

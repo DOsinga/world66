@@ -13,8 +13,6 @@ Located in New York's funky East Village, St. Mark's Bookshop is the number one 
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Book shops
 
@@ -31,5 +29,3 @@ url: [www.stmarksbookshop.com](http://www.stmarksbookshop.com)
 address: 31 Third Avenue
 
 email: stmarksbooks@mindspring.com
-
-[back to Shopping](..)

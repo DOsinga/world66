@@ -1,0 +1,4 @@
+---
+title: "Hampton"
+type: location
+---

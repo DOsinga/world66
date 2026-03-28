@@ -8,8 +8,6 @@ Foz do Iguaçu has two major sights: the falls and the dam
 
 **Contributors**
 May 22, 2005
-new
-by [jst](/member/jst) (1 point)
 
 ### [Iguaçu Falls](/southamerica/brazil/iguacufalls/sights/iguau_falls)
 

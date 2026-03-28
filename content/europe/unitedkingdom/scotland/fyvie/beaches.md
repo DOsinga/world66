@@ -7,5 +7,3 @@ Fyvie is in the heart of Buchan, which is good farming land but no beach, howeve
 
 **Contributors**
 February 07, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)

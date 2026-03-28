@@ -9,5 +9,3 @@ This little visited gem in north western Kenya is home to the rare, semi-aquatic
 
 **Contributors**
 March 13, 2007
-new
-by [tiastravels](/member/tiastravels)

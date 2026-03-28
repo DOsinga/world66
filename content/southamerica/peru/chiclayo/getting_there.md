@@ -8,5 +8,3 @@ Chiclayo is about 770 km north of [Lima](/southamerica/peru/lima), by bus costin
 We currently have no Getting There listed in Chiclayo.
 
 If you do know any Getting There in Chiclayo, please [Add].
-
--->

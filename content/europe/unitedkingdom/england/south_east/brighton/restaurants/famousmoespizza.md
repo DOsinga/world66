@@ -1,6 +1,6 @@
 ---
 title: "Famous Moe's Pizza"
-type: location
+type: poi
 address: "20, Southover St, Brighton East Sussex BN2 2UD"
 phone: "01273 676867"
 ---

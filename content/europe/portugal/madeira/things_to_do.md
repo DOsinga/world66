@@ -9,5 +9,3 @@ Public transport is not very good for much levada walking but there are several 
 
 **Contributors**
 June 04, 2007
-new
-by [davidx](/member/davidx) (2 points)

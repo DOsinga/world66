@@ -15,5 +15,3 @@ If you decided to arrive via the London Stansted Airport, it is a 45 minute trai
 
 **Contributors**
 September 19, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

@@ -1,9 +1,9 @@
 ---
-title: "Dutch John Travel Guide"
+title: "Dutch John"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Dutch John is a small unincorporated town located in eastern
 Daggett County, Utah, United States, about 4 miles northeast of the Flaming
@@ -22,13 +22,3 @@ developers.
 
 During the peak years of construction activity at Flaming
 Gorge Dam, as many as 3,500 people lived in Dutch John.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Dutch_John,_Utah*
-
-#### Contributors
-
-March 11, 2010 change by [openbook](/member/openbook)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 13:35

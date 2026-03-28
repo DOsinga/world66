@@ -17,5 +17,3 @@ type: First Class
 address: Carrer de sa Corressa 7
 
 PriceOfMenu: 20-40 €
-
-[back to Eating Out](..)

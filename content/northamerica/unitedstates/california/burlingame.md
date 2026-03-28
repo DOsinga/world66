@@ -1,9 +1,9 @@
 ---
-title: "Burlingame Travel Guide"
+title: "Burlingame"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 With nine major hotels located along
 its eastern border with the bay and San Francisco International Airport
@@ -45,11 +45,3 @@ Broadway, between California Drive and El Camino, offers a quieter shopping expe
 Burlingame Plaza, located on El Camino in the northernmost part of the city between Trousdale and Murchison Drives, serves surrounding neighborhoods with a drug store, grocery store, service providers and small stores.
 
 Burlingame’s easternmost border along San Francisco Bay, sometimes called “Restaurant Row,” boasts numerous large hotels with fine dining, as well as dozens of other restaurants located primarily on Bayshore and Airport Boulevards, parallel to the freeway known as Highway 101.
-
-#### Contributors
-
-January 08, 2007 new by [mehul](/member/mehul)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 05:12

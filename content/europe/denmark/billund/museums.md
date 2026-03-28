@@ -35,9 +35,5 @@ especially when traveling with young children.
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 08, 2010
-new
-by [kat99](/member/kat99)

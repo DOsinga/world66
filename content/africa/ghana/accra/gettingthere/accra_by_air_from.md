@@ -11,13 +11,5 @@ The airport where you'll land in Accra is Kotoka International. It is not yet th
 
 **Contributors**
 October 23, 2006
-new
-by [ragna](/member/ragna) (1 point)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

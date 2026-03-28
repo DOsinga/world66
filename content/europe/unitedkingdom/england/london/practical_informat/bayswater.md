@@ -8,13 +8,5 @@ Bayswater is a place in the City of Westminster. It is a built-up district locat
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

@@ -8,13 +8,5 @@ A Shabi Kahf – means the “cave people” in Arabic, it is 12 km far away fro
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Memorials
-
-
-
-
-
-[back to Sights](..)

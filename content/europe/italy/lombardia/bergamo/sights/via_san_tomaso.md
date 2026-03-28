@@ -11,8 +11,6 @@ A beautiful artistic street and one of the oldest streets in Bergamo where the C
 
 **Contributors**
 March 12, 2008
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Streets
 
@@ -25,5 +23,3 @@ accessibility: Car, Bus, on foot
 url: [www.viasantomaso.com](http://www.viasantomaso.com/flash.html)
 
 address: Via San Tomaso, Lower Bergamo
-
-[back to Sights](..)

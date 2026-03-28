@@ -8,8 +8,6 @@ phone: "649-946-6977"
 price: "Entrees:  $15-35 USD"
 type: "Seafood"
 url: "www.islandthyme.tc"
-latitude: 22.516949
-longitude: 114.213593
 ---
 
 Island Thyme Bistro on Salt Cay in the Turks & Caicos features fresh local seafood, prime steaks and nightly specials.
@@ -18,8 +16,6 @@ In additon to the regular menu the al fresco pizza kitchen offers hand crafted p
 
 **Contributors**
 May 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Seafood
 
@@ -38,5 +34,3 @@ address: North District
 PriceOfMenu: Entrees: $15-35 USD
 
 email: pwiii@aol.com
-
-[back to Eating Out](..)

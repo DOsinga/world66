@@ -13,17 +13,7 @@ It can be reached on a tour (more than one day) or independently.
 
 **Contributors**
 July 22, 2006
-new
-by [yohay elam](/member/yohay_elam) (2 points)
 
 February 15, 2008
-change
-by [approaching genius](/member/approaching_genius)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

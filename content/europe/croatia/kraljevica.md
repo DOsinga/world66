@@ -1,0 +1,4 @@
+---
+title: "Kraljevica"
+type: location
+---

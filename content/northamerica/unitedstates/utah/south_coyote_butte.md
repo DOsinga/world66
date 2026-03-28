@@ -34,6 +34,3 @@ From now on you have to drive through deep Sand.
 Another 3 Miles later you arrive, if you arrive, at the Poverty Flat Ranch. Now it’s just about 10 or 15 Minutes to go. If you see the Teepees on the left Hand, look for a parking Lot, it’s free here, and walk around as long as you want. Always watch out for dark Clouds and possible Rain, you won’t come back after the Rain. 
 
 Ok, that’s it for the Moment, this will be continued in the next 20 or 40 Years....
-
-*Change history*
-Orginal article by [GambasAlAjillo](/member/gambasalajillo) on 16 June 04

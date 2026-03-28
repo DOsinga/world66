@@ -66,5 +66,3 @@ currently being used. This museum offers an interesting and educational outing f
 
 **Contributors**
 February 17, 2010
-change
-by [ctanios](/member/ctanios)

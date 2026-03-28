@@ -1,9 +1,9 @@
 ---
-title: "Vemdalen Travel Guide"
+title: "Vemdalen"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **There is much to see and do **all year round in the friendly wilderness of Vemdalen. Situated on the mountain slopes by thetree line, and only around 1 km from each other, are three large mountain establishments, very different in character and look. There is luxurious Björnrike, classical Vemdalsskalet and Storhogna with its winter gardens. In the valley far below is Vemdalen with Veman river. Vemdalen is a charming little village. Its central feature is an interesting octagonal rococo timber church, built in 1763. There is also a heritage farm with buildings several hundred years old. Many festivities take place here - Midsummer festivals, music evenings, handicraft exhibitions, heritage festivals etc.
 
@@ -73,15 +73,3 @@ Handicraft days in July, every Wednesday at the heritage centre in Vemdalen, 068
 Market days, July, every Thursday in Vemdalen. Vemdal festival week, week 28. A week full activities, auctins, markets, theme days, children's day, music evenings. Heritage festival with "flötgröt" porridge, games & competitions, folk musicians, barn dance, football, Aviation Day, and more. Propaganda trotting races, Björnvalla. 13-14/8 Country Festival, featuring Vanda Jackson. Horses, music and barbecue. **If you need help **Accidents and emergency...... 112 Health service info 063-13 44 00 Police 0684-100 35 Pharmacy 0684-300 33 Health Centre 0684-168 00 Dentist 112 Vehicle recovery 0684-301 80 Banks: FöreningsSparbanken 0684-302 52
 
 ****
-
-*Part or or all of this text stems from the original article at: www.vemdalen.nu*
-
-#### Contributors
-
-July 01, 2006 new by [linnea](/member/linnea) (2 points)
-
-November 11, 2007 change by [ingvar](/member/ingvar) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 05:33

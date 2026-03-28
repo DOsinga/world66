@@ -34,5 +34,3 @@ butrinti@albaniaonline.net
 
 **Contributors**
 June 08, 2006
-new
-by [giorgio](/member/giorgio)

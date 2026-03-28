@@ -13,5 +13,3 @@ If you take the autopista all the way to Piste, you arrive on the east side of t
 
 **Contributors**
 February 25, 2005
-change
-by [neilc](/member/neilc)

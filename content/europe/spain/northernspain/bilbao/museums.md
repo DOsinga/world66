@@ -14,5 +14,3 @@ address: Abandoibarra Et. 2
 openinghours: Tuesday to Sunday: 10 a.m.-8 p.m.
 
 tel: (+34) 94 435 90 80
-
--->

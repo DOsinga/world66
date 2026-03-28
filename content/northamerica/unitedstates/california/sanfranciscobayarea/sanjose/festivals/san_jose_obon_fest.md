@@ -21,5 +21,3 @@ Jose Taiko and dancers in full costume each evening.
 url: [www.japantownsanjose.org](http://www.japantownsanjose.org/events.html)
 
 address: Fifth and Jackson streets
-
-[back to Festivals](..)

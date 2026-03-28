@@ -1,8 +1,6 @@
 ---
 title: "Ulyanovsk"
 type: location
-latitude: 54.315028
-longitude: 48.403373
 ---
 
 **Ulyanovsk** is the center of the Ulyanovsk Region that is located in the central part of European Russia. The region is a part of the Middle Volga Valley. 
@@ -29,6 +27,4 @@ The prevalent religions are Orthodox Christianity and Islam.
 
 **See also other cities:** 
 
-[Irkutsk](/europe/russia/irkutsk) [Kazan](/europe/russia/kazan) [Kizhi](/europe/russia/kizhi) [Moscow](/europe/russia/moscow) [Murmansk](/europe/russia/murmansk) [Novgorod](/europe/russia/novgorod) [Novosibirsk](/europe/russia/novosibirsk) [Orel](/europe/russia/orel) [Pyatigorsk](/europe/russia/pyatigorsk) St_Petersburg [Suzdal](/europe/russia/suzdal) [Tula](/europe/russia/tula) [Vladimir](/europe/russia/vladimir) [Vladivostok](/europe/russia/vladivostok) [Yakutsk](/europe/russia/yakutsk) 
-
-Back to [Russia](/europe/russia)
+[Irkutsk](/europe/russia/irkutsk) [Kazan](/europe/russia/kazan) [Kizhi](/europe/russia/kizhi) [Moscow](/europe/russia/moscow) [Murmansk](/europe/russia/murmansk) [Novgorod](/europe/russia/novgorod) [Novosibirsk](/europe/russia/novosibirsk) [Orel](/europe/russia/orel) [Pyatigorsk](/europe/russia/pyatigorsk) St_Petersburg [Suzdal](/europe/russia/suzdal) [Tula](/europe/russia/tula) [Vladimir](/europe/russia/vladimir) [Vladivostok](/europe/russia/vladivostok) [Yakutsk](/europe/russia/yakutsk)

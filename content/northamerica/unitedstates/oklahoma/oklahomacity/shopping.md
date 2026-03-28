@@ -11,8 +11,6 @@ From the antiques and collectibles shops up and down May Street to several great
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Old Paris Flea Market](/northamerica/unitedstates/oklahoma/oklahomacity/shopping/old_paris_flea_mar)
 

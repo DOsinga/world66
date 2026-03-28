@@ -9,5 +9,3 @@ If you go north out of the city untill you get to the prisons, turn and go on th
 
 
 email: parigy08@yahoo.com
-
-[back to Day Trips](..)

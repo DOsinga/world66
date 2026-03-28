@@ -22,5 +22,3 @@ tel: 060 89 22 53
 address: Av. Suika 33
 
 PriceOfMenu: 80DH
-
-[back to Eating Out](..)

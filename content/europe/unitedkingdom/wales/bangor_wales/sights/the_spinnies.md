@@ -11,8 +11,6 @@ Numerous little egrets can usually be seen and if lucky, you may well spot a kin
 
 **Contributors**
 June 12, 2009
-new
-by [davidx](/member/davidx)
 
 type: Parks, Gardens and Zoos
 
@@ -21,5 +19,3 @@ type: Parks, Gardens and Zoos
 accessibility: easy - close to road
 
 url: [www.bbc.co.uk](http://www.bbc.co.uk/wales/northwest/outdoors/placestogo/reserves/spinnies.shtml)
-
-[back to Sights](..)

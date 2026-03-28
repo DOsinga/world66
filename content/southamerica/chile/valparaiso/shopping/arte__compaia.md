@@ -20,5 +20,3 @@ accessibility: 10 mts. el peral funicular
 address: el peral 182
 
 email: fa.orfebreria@gmail.com
-
-[back to Shopping](..)

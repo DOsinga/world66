@@ -34,5 +34,3 @@ The Main Street program has been successful due in part to a partnership between
 
 **Contributors**
 April 26, 2006
-change
-by [giorgio](/member/giorgio)

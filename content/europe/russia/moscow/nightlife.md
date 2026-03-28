@@ -1,12 +1,12 @@
 ---
-title: "Nightlife"
+title: "Nightlife and Entertainment"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[Bars & Pubs](/europe/russia/moscow/nightlife/barspubs)
+[Theatres](/europe/russia/moscow/nightlife?subsection=Theatres)
 
-[Clubs](/europe/russia/moscow/nightlife/clubs)
+[Clubs](/europe/russia/moscow/nightlife?subsection=Clubs)
 
-[Theatres](/europe/russia/moscow/nightlife/theatres)
+[Bars & Pubs](/europe/russia/moscow/nightlife?subsection=Bars%20%26%20Pubs)

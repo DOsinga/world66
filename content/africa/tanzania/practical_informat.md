@@ -324,8 +324,3 @@ The United Republic motto – Uhuru na Umoja – is written in Kiswahili and it 
 
 
 The Uhuru Torch symbolizes freedom and light. It was first lit on top of mount Kilimanjaro (5,890m) in 1961. Symbolically to Shine the country and across the borders to bring hope where there is despair, love where there is enemity and respect where there is hatred. Yearly there is the Uhuru Torch race, starting from different prominent places.
-
-*Change history*
-Orginal article by [yonamaro](/member/yonamaro) on 24 December 04
-
--->

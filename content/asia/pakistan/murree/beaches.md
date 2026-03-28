@@ -16,3 +16,9 @@ Also known as Hawkesbay, this beach is a naturally sandy area with perfectly qua
 **Clifton Beach**
 
 This beach is also known as Seaview Beach is a close neighbor of Saddar Town. During the 20th century is was the world's most popular silver-sand beach as well as a health resort. In 2003 it was affected by an oil spill, but the cleanup efforts have cleared up most of the affected areas. This beach offers many family-friendly attractions as well as places for tourists to visit--which include beachside horse and camel rides, restaurants, swimming in the Arabian Sea as well as amusement parks. Another attraction that was recently added is the Cineplec cinema houses which cater to the entertainment of people of the local area, especially those who reside in DHA and Clifton. Currently the Defence Housing Authority is adding more sand to the beach areas in an attempt to push the beach back and gain more ground which will change the shape and other features of the beaches forever.
+
+murree photo
+
+We currently have no Beaches listed in Murree.
+
+If you do know any Beaches in Murree, please [Add].

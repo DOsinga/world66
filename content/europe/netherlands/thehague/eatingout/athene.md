@@ -10,8 +10,6 @@ Good price quality ratio.
 
 **Contributors**
 August 05, 2005
-change
-by [reen](/member/reen)
 
 type: Greek
 
@@ -20,5 +18,3 @@ type: Greek
 address: kalvermarkt 42, 2511 CB 's Grvenhage
 
 tel: 070-3638004
-
-[back to Eating Out](..)

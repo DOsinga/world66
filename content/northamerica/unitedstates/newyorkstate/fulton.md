@@ -1,0 +1,4 @@
+---
+title: "Fulton"
+type: location
+---

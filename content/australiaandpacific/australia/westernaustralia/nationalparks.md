@@ -56,5 +56,3 @@ Karijin National Park is abundant with spectacular gorges with varied colours an
 [Kalbarri](/australiaandpacific/australia/westernaustralia/kalbarri) National Park is situated 550 kilometres North of [Perth](/australiaandpacific/australia/westernaustralia/perth) and boast a wide range of natural landscapes from rolling coastal and Mallee plains to deep river gorges and cliff faces, as well as sandy beaches and slow, winding rivers. [more..](/australiaandpacific/australia/westernaustralia/nationalparks/kalbarrinational)
 
 url: [www.calm.wa.gov.au](http://www.calm.wa.gov.au/national_parks/previous_parks_month/kalbarri.html)
-
--->

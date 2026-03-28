@@ -56,13 +56,7 @@ found and excavated. The site was then turned into a memorial museum. Other sect
 
 **Contributors**
 February 09, 2010
-new
-by [jenna storm](/member/jenna_storm)
 
 February 11, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

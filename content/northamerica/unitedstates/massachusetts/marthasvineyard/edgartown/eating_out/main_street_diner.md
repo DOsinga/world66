@@ -10,8 +10,6 @@ type: "American"
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 type: American
 
@@ -20,5 +18,3 @@ type: American
 address: 137 Upper Main Street
 
 PriceOfMenu: $10-15
-
-[back to Eating Out](..)

@@ -18,5 +18,3 @@ www.aubergeoasismerzouga.com
 author: jak
 
 isbn: bled
-
-[back to Books](..)

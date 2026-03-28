@@ -20,5 +20,3 @@ tel: 505-287-9393
 address: 110 Geis
 
 PriceOfMenu: moderate
-
-[back to Eating Out](..)

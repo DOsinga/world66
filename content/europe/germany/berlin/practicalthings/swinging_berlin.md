@@ -18,5 +18,3 @@ type: Tourist information
 url: [swingingberlin.blogspot.com](http://swingingberlin.blogspot.com)
 
 email: zapbook@gmx.de
-
-[back to Practical Information](..)

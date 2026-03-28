@@ -19,18 +19,4 @@ Spend the day bargain shopping on the streets of Mercado, where visitors can hun
 
 **Day 4 - Museum of Folk Art and Culture**
 
-Visit the Museum of Folk Art at the State Tourist Office. The museum boasts of a fantastic collection of artifacts and items dating back to the medieval age and late 19th century. Rummage through traditional costumes, weapons, wooden handicrafts and journals chronicling the region’s landmark events. Visit the heritage performing arts center, Theatro Jose de Alencar, on the southern end of the main square to catch live performances every evening.
-
-**Day 5 - Parque Ecologico do Coco**
-
-These large and rare city woods are a great place to enjoy a nature walking trail in the midst of the town's chaos. There aren’t any fancy lawns or botanical species to look at, just plenty of woods and lush greenery to savor a rich ecological experience.
-
-**Day 6 - City Beaches**
-
-Visit a couple of pleasant city beaches - Praia de Iracema and Meireles. Take an evening walk through the French Riviera-like Ponte Metalic, which is flanked by several shacks and sun beds. Visitors can even go surfing at Praia do Futuro.
-
-**Day 7 - Praco do Ferreria and Praca Jose de Alencer**
-
-The former is a lovely city square with scores of restaurants, small shops and a movie theater surrounded by innumerable beaches, while the latter sports abundant greenery and is a fantastic place to spend some time watching the display of talent from the street side performers.
-
-Fortaleza is an attractive destination filled generously with tropical beaches, colonial structures, old town squares, vintage theaters, specialized museums, markets and cultural centers.
+Visit the Museum of Folk Art at the State Tourist Office. The museum boasts of a fantastic collection of artifacts and items dating

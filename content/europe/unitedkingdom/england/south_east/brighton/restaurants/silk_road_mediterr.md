@@ -1,6 +1,6 @@
 ---
 title: "Silk Road Mediterranean Restaurant"
-type: location
+type: poi
 accessibility: "Booking advisable at weekends"
 address: "8-10 Arcade Road, Littlehampton, Brighton, BN17 5AP"
 email: "silkroad@btconnect.com"
@@ -16,8 +16,6 @@ Weekend entertainment is just as unique as everything else at The Silk Road – 
 
 **Contributors**
 June 18, 2008
-new
-by [silky](/member/silky)
 
 type: International
 
@@ -36,5 +34,3 @@ address: 8-10 Arcade Road, Littlehampton, Brighton, BN17 5AP
 PriceOfMenu: £20.00pp
 
 email: silkroad@btconnect.com
-
-[back to Eating Out](..)

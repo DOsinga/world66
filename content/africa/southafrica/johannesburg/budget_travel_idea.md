@@ -53,5 +53,3 @@ US $20, which is an incredible bargain.
 
 **Contributors**
 March 30, 2010
-new
-by [revjugular](/member/revjugular)

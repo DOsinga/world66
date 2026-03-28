@@ -14,5 +14,3 @@ type: Amusement Parks
 
 
 address: Paris, 3655 Las Vegas Blvd.
-
-[back to Sights](..)

@@ -44,5 +44,3 @@ There is no shortage of fun things to do in and around Palo Alto, California. St
 
 **Contributors**
 May 13, 2010
-new
-by [super8paloalto](/member/super8paloalto)

@@ -1,12 +1,8 @@
 ---
-title: "Niederau Travel Guide"
+title: "Niederau"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Skiliften zijn open December-maart
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 18:58

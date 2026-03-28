@@ -12,5 +12,3 @@ to the **Sanctuary of Our Lady of Fatima** , you will know unique monuments of t
 
 **Contributors**
 April 26, 2005
-change
-by [giorgio](/member/giorgio)

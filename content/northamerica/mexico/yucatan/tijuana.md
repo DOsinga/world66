@@ -1,0 +1,4 @@
+---
+title: "Tijuana"
+type: location
+---

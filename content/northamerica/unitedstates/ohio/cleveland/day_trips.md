@@ -11,5 +11,3 @@ Cedar Point in Sandusky is one of the most favorite summer destinations for Clev
 
 **Contributors**
 April 08, 2006
-change
-by [vulpster03](/member/vulpster03) (2 points)

@@ -1,0 +1,4 @@
+---
+title: "Fulda"
+type: location
+---

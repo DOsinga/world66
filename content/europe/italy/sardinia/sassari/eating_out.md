@@ -14,5 +14,3 @@ type: section
 Very good and classy restaurant.
 
 address: 17, Via Torres
-
--->

@@ -18,9 +18,5 @@ El Rodadero is a sector of Santa Marta that is located just west of the main dow
 
 **Contributors**
 April 13, 2010
-new
-by [turkeyfish](/member/turkeyfish)
 
 April 16, 2010
-change
-by [2 many commas](/member/2_many_commas)

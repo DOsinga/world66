@@ -7,5 +7,3 @@ Future site of a major tourist destination, LAGUNA is in the heart of the Texas 
 
 **Contributors**
 October 20, 2005
-new
-by [opaguy](/member/opaguy)

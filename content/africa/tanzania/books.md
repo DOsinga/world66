@@ -69,11 +69,7 @@ subject: culture
 
 
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9004104976/ref=ase_osingacom?v=glance&s=books)
-
-author: Klaus Fiedler
-
-isbn: 9004104976
+[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
 
 subject: culture
 
@@ -107,8 +103,8 @@ subject: history
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/0844249785/ref=ase_osingacom?v=glance&s=books)
 
-author: <font face="arial, helvetica, sans-serif" siz..
+author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0-7414-0028-6/ref=ase_osingacom?v=glance&s=books)
 
-isbn: 0844249785
+isbn: 0-7414-0028-6
 
-subject: history
+author: Joseph L. Mbele

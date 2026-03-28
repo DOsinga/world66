@@ -13,8 +13,6 @@ The Lions Club Watermelon Feed is not a big event by world standards. But for so
 
 **Contributors**
 February 18, 2008
-change
-by [approaching genius](/member/approaching_genius) (1 point)
 
 
 
@@ -23,5 +21,3 @@ by [approaching genius](/member/approaching_genius) (1 point)
 date: September 6, 2008
 
 address: Downtown Oxford and Oxford Park
-
-[back to Festivals](..)

@@ -9,13 +9,9 @@ type: "Other"
 
 **Contributors**
 May 15, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Other
 
 
 
 address: Prado Museum - Calle Ruiz de Alarcon 23
-
-[back to Things to do](..)

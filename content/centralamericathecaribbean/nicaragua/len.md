@@ -1,8 +1,6 @@
 ---
 title: "León"
 type: location
-latitude: 12.302127
-longitude: -86.96797
 ---
 
 What do to?

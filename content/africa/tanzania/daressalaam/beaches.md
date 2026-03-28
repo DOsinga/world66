@@ -12,5 +12,3 @@ North and south of the city there are more beaches.
 The beaches north of the city are some 25 km away in Kunduchi. Shuttle buses to the beach hotels at Kunduchi leave from outside the New Africa Hotel at 9.00, 12.00, 14.00, and 17.00 on weekdays and every other hour between 9.00 and 17.00 at weekends. Return fare is about $10. 
 
 The unspoilt beaches of the south coast are reached by taking the Kivukoni ferry from the fish market to Kigamboni. The beaches here are pretty unspoilt.
-
--->

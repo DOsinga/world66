@@ -14,8 +14,6 @@ are charged 10% of the fee you pay for yourself. Just check the Port-to-Port pri
 
 **Contributors**
 March 12, 2006
-change
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 type: Tourist information
 
@@ -24,5 +22,3 @@ type: Tourist information
 
 
 url: [www.hurtigruten.com](http://www.hurtigruten.com/dokumenter/Car%20price%20and%20conditions.pdf)
-
-[back to Practical Information](..)

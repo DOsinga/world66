@@ -7,5 +7,3 @@ Petersburg is located on Mitkof Island in SouthEast Alaska. There are no roads f
 
 **Contributors**
 March 21, 2004
-new
-by [iolaire](/member/iolaire) (1 point)

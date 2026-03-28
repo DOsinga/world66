@@ -1,8 +1,6 @@
 ---
 title: "Lazio"
 type: location
-latitude: 41.980165
-longitude: 12.766797
 ---
 
 Lazio (Latium in those days) was the heart of the Roman Empire. It still is very much the province of the perennial city of Rome. Although there are other interesting sights, most tourists will head for [Rome](/europe/italy/lazio/rome) immediately. And who can blame them? Rome is one of the most beautiful cities on the planet and a must see for everyone. 
@@ -18,19 +16,3 @@ In the early days the Romans fought many battles with their Etrurian neighbours.
 The Sabine hills are not just famous for their women - they are a very green part of Lazio and the capital Rieti is a nice place to spend a few days. Around Rieti there are many charming villages such as Greccio , Roccantica and Roccasinibalda . They are best visited as daytrips from Rieti by car because bus service is infrequent. 
 
 The [Pontine islands](/europe/italy/lazio/pontineislands) is a small volcanic archipelago just off the coast. They are very popular with Italians, especially in summer.
-
-## Destinations
-
-- [Cerveteri](/europe/italy/lazio/cerveteri)
-- [Civitavecchia](/europe/italy/lazio/civitavecchia)
-- [Frascati](/europe/italy/lazio/frascati)
-- [Lake Bracciano](/europe/italy/lazio/lakebracciano)
-- [Lake Vico](/europe/italy/lazio/lakevico)
-- [Ostia Antica](/europe/italy/lazio/ostiaantica)
-- [Pontine islands](/europe/italy/lazio/pontineislands)
-- [Rome](/europe/italy/lazio/rome)
-- [Subiaco](/europe/italy/lazio/subiaco)
-- [Tarquinia](/europe/italy/lazio/tarquinia)
-- [Tivoli](/europe/italy/lazio/tivoli)
-- [Tusculum](/europe/italy/lazio/tusculum)
-- [Viterbo](/europe/italy/lazio/viterbo)

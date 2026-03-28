@@ -8,8 +8,3 @@ This has often been considered the prettiest of Exmoor villages. It is situated 
 
 
 http://www.devon-online.com/towns/exmoor/Welcome.html
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 29 October 04
-
--->

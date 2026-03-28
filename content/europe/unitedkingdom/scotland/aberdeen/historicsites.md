@@ -47,6 +47,4 @@ Old Aberdeen. 14th century bridge across gorge of River Don. Picturesque cottage
 
 **Bridge of Dee, Aberdeen**
 
-16th century seven arched bridge. Riverside walks 
-
--->
+16th century seven arched bridge. Riverside walks

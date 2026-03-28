@@ -47,9 +47,5 @@ while you relax and refresh yourself in beautiful Hammamet.
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 December 27, 2009
-new
-by [turkeyfish](/member/turkeyfish)

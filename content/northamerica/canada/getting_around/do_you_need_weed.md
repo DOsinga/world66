@@ -9,5 +9,3 @@ Are you looking for Hookup? Variety of Top Quality Marijuana strains,Hash & cann
 
 
 email: weedspot2@gmail.com
-
-[back to Getting Around](..)

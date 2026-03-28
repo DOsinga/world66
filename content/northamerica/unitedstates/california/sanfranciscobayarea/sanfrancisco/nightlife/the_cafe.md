@@ -26,5 +26,3 @@ tel: 415-861-3846
 ClosingTime: 2 am
 
 closingtime: 2 am
-
-[back to Nightlife and Entertainment](..)

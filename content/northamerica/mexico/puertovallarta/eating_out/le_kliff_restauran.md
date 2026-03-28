@@ -43,5 +43,3 @@ address: South Coast - Puerto Vallarta, Jalisco
 PriceOfMenu: Expensive
 
 email: Le Kliff Restaurante Bar
-
-[back to Eating Out](..)

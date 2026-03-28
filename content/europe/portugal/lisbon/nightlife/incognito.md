@@ -4,8 +4,6 @@ type: poi
 closing_time: "4"
 type: "Clubs and dancing"
 url: "www.incognitobar.com"
-latitude: 38.710767
-longitude: -9.150902
 ---
 
 This is one of the oldest clubs in Lisbon! The music is great... 
@@ -22,9 +20,6 @@ SÍTIO OFICIAL http://www.incognitobar.com
 
 MUSICA Variada, Anos 80, Alternativa
 
-**Change history**
-Orginal article by [Tekes](/member/tekes) on 29 September 04
-
-Minor corrections by [Tekes](/member/tekes) on 29 September 04
+Minor corrections on 29 September 04
 
 type: Clubs and dancing

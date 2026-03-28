@@ -10,8 +10,3 @@ The sources of the Lison and the Dobs are other special places. The Dessoubre is
 http://www.interfrance.com/en/fc/na_rivers.html
 
 www.interfrance.com/en/fc/na_wf.html
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 November 04
-
--->

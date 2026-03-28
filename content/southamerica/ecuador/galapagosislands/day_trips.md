@@ -56,5 +56,3 @@ can either visit a pond with sea lions, hawks and herons, or surrounded with fla
 
 **Contributors**
 July 14, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

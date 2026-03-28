@@ -15,7 +15,5 @@ The Ritzy also has two bars, one unremarkable one downstairs, and two level cafe
 
 **Contributors**
 August 22, 2005
-new
-by [brixton_ian](/member/brixton_ian)
 
 type: Theatres

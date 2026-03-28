@@ -19,8 +19,6 @@ Today its working also as a medical bath, with wide variety of services, includi
 
 **Contributors**
 February 11, 2010
-new
-by [hunkonc](/member/hunkonc)
 
 type: Public Buildings
 
@@ -37,5 +35,3 @@ url: [www.ticket.info.hu](http://www.ticket.info.hu/)
 address: Kelenhegyi Ãºt 4
 
 email: hunkonc@ticket.info.hu
-
-[back to Sights](..)

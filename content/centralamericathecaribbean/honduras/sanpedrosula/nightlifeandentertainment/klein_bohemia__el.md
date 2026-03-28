@@ -40,5 +40,3 @@ accessibility: very good
 address: 7 calle, 8 ave. Barrio el Benque
 
 email: info@kleinbohemia.net
-
-[back to Nightlife and Entertainment](..)

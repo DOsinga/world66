@@ -29,5 +29,3 @@ url: [www.travelcenturies.com](http://www.travelcenturies.com)
 address: 33 A Ramses st., Cairo, Egypt
 
 email: info@travelcenturies.com
-
-[back to Budget Travel Ideas](..)

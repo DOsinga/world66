@@ -11,8 +11,6 @@ Improv Olympic West (iO West) is the L.A. branch of the Improv Olympic West in C
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Concerts
 
@@ -23,5 +21,3 @@ tel: 323-962-7560
 url: [west.ioimprov.com](http://west.ioimprov.com)
 
 address: 6366 Hollywood Boulevard
-
-[back to Nightlife and Entertainment](..)

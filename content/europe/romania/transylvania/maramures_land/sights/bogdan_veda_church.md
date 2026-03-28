@@ -5,8 +5,6 @@ address: "Maramures, Romania"
 email: "tours@goromaniatours.com  "
 type: "Churches and Cathedrals"
 url: "www.goromaniatours.com"
-latitude: 47.671255
-longitude: 24.196461
 ---
 
 It's St. Nicholas Church
@@ -21,7 +19,5 @@ Walachia and Moldavia.
 
 **Contributors**
 November 22, 2006
-new
-by [romaniatours](/member/romaniatours)
 
 type: Churches and Cathedrals

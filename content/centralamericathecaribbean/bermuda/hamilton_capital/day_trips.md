@@ -31,9 +31,5 @@ Feel like a day of pampering, relaxation and just getting away from everything a
 
 **Contributors**
 March 29, 2010
-new
-by [suegabel](/member/suegabel)
 
 April 01, 2010
-change
-by [ctanios](/member/ctanios)

@@ -12,13 +12,5 @@ Of course, you can take a train from ANY Railway station to Leeuwarden. Amsterda
 
 **Contributors**
 March 07, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

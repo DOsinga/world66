@@ -1,0 +1,4 @@
+---
+title: "Newbridge"
+type: location
+---

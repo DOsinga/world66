@@ -64,5 +64,3 @@ website to help you plan your next visit to Austin.
 
 **Contributors**
 August 28, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

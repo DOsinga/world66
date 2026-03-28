@@ -15,8 +15,6 @@ Long distance busses connect Johannesburg with cities all over the country as we
 
 **Contributors**
 February 12, 2007
-change
-by [gika](/member/gika) (1 point)
 
 ### [Spoornet](/africa/southafrica/johannesburg/getting_there_2/spoornet)
 

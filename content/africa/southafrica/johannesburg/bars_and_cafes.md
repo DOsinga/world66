@@ -23,9 +23,5 @@ As some would say in some parts of the world “Who would have thought?” when 
 
 **Contributors**
 March 29, 2010
-change
-by [piyushjain](/member/piyushjain_)
 
 March 31, 2010
-change
-by [ctanios](/member/ctanios)

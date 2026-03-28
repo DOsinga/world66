@@ -7,7 +7,7 @@ You have one of the best views of the world standing on the top of the hill on w
 
  But Tangier has more to offer. It has nice markets, some excellent museums and hotels with stunning views. You will also find one of the largest trees I have ever seen in a park near the Petit Socco. Here you find a selection of what's offered.
 
-**Sights**
+**all**
 
 **The Grand Socco or Place du 9 avril 1947 **
 
@@ -17,8 +17,7 @@ It was in this square, on April 9th 1947, that sultan Mohammed V made a famous s
 
  Located in the heart of the Medina, this little square is one of the most picturesque sites in Tangier. The noisy bustling crowd in multi-coloured clothing contrasts with those who have time to idle away over a cup of mint tea at the terraces of the cafés. The Petit Socco is at the end of th [more..](/africa/morocco/tangier/sights/thepetitsocco)
 
-**The American Legation
-**
+**The Tangier American Legation**
 
 Morocco was the first nation to recognize the United States in 1776. This building, purchased in 1821, is the oldest American overseas legation. The museum houses documents which retrace the history of the relations between Morocco and the United States since 1776. Other collections are also on d [more..](/africa/morocco/tangier/sights/theamericanlegation)
 

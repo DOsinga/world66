@@ -1,9 +1,9 @@
 ---
-title: "Carcross Travel Guide"
+title: "Carcross"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Carcross also is known as Caribou Crossing.
 
@@ -20,11 +20,3 @@ Elevation: 2,170 feet, 662 meters
 Home of the World's Smallest Desert, the Carcross Desert, and the great beach of Lake Bennett. The population is about 50/50 Native and non-Native.
 
 If taking the White Pass Railway tour from Skagway Alaska, you most likely will tour through Carcross. Make sure that you visit the Wildlife Museum just out of town as it features dozens of full size wild animals carefully restored by a taxidermist.
-
-#### Contributors
-
-September 30, 2008 new by [waterfalls](/member/waterfalls)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 10:06

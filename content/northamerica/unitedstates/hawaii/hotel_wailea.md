@@ -1,9 +1,9 @@
 ---
-title: "Hotel Wailea Travel Guide"
+title: "Hotel Wailea"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Title : Hotel Wailea
 
@@ -12,9 +12,3 @@ Description : Hotel Wailea on the Hawaiian island of Maui is an all-suite beach 
 Keywords: maui hotel maui resort wailea hotel wailea resort Hawaii resort
 
 URL : http://www.hotelwailea.com/
-
-*Part or or all of this text stems from the original article at: http://www.hotelwailea.com/*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 01:20

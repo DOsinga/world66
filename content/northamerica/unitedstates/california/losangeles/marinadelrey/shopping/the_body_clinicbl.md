@@ -11,8 +11,6 @@ Offering quality products by Dermalogica and Murad, they specialize in stress-re
 
 **Contributors**
 June 09, 2008
-new
-by [marinagal](/member/marinagal) (1 point)
 
 type: Speciality shops
 
@@ -25,5 +23,3 @@ tel: 310/577-2211
 url: [www.bluediamondspa.com](http://www.bluediamondspa.com)
 
 address: 13455 Maxella Ave.
-
-[back to Shopping](..)

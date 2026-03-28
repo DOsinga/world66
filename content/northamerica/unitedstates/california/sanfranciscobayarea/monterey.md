@@ -14,6 +14,3 @@ Avoid Louie Linguine's a over priced "Italian" seafood joint..Where my Sunday lu
 The Monterey Bay aquarium is everything I heard it was..give yourself 3 hours at least.. And eat there at the aquarium, the food was fresh, well prepared and reasonable in cost. 
 
 Plan your day so you can drive on to Big Sur..the 20-30 miles south on Hwy 1 abound with photo ops. However gas up before you leave Monterey..Big Sur gas prices run about a dollar higher than the rest of the area
-
-*Change history*
-Minor corrections by [Kuma](/member/kuma) on 24 March 04

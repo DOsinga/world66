@@ -10,5 +10,3 @@ Aer Arainn Islands runs three flights in and out of the island and cost about 44
 A bus from Lally's Coaches on Merchant's Road in Galway city connects to the ferry and a minibus departs from the same point for the plane.
 
 Doolin Ferries in Co. Clare also run occasional trips into the island during the summer.
-
--->

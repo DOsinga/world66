@@ -9,13 +9,9 @@ Airport Service, Intercity Service and Online Booking in English at their web si
 
 **Contributors**
 May 30, 2005
-change
-by [karenbru](/member/karenbru)
 
 type: Tourist information
 
 
 
 url: [www.autostradale.it](http://www.autostradale.it)
-
-[back to Practical Information](..)

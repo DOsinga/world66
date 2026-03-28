@@ -7,8 +7,6 @@ Add Medellin museums below
 
 **Contributors**
 August 09, 2005
-change
-by [reen](/member/reen)
 
 ### "Botero" museum
 

@@ -11,8 +11,6 @@ DJ AM's LAX Nightclub serves up sexy cocktails in a sleek environment that attra
 
 **Contributors**
 May 20, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Clubs and dancing
 
@@ -23,5 +21,3 @@ tel: 323-464-0171
 url: [www.laxhollywood.com](http://www.laxhollywood.com)
 
 address: 1714 N. Las Palmas
-
-[back to Nightlife and Entertainment](..)

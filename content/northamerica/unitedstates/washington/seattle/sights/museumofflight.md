@@ -15,5 +15,3 @@ type: Museums
 address: E Marginal Way S 9404
 
 tel: 206-764-5720
-
-[back to Sights](..)

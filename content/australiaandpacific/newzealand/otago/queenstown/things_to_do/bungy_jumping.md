@@ -27,5 +27,3 @@ url: [www.ajhackett.com](http://www.ajhackett.com/)
 address: The Station, Corner of Camp and Shotover Streets
 
 email: bungycentre@ajhackett.co.nz
-
-[back to Things to do](..)

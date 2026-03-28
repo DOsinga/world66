@@ -20,13 +20,9 @@ dining.
 
 **Contributors**
 November 28, 2006
-new
-by [jhyatt](/member/jhyatt)
 
 type: American
 
 
 
 url: [www.hob.com](http://www.hob.com/la)
-
-[back to Eating Out](..)

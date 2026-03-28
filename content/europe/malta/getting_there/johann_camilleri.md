@@ -22,5 +22,3 @@ tel: 35699228471
 address: 36 Calle Buganvilla, Rafol De Almunia, Alicante, Spain
 
 email: sandu@maltanet.net
-
-[back to Getting There](..)

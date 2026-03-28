@@ -25,8 +25,4 @@ If you have some time you can ask permission to visit the Emir form the office a
 
 **Central Mosque**
 
-Of limits for non-muslims, the Central mosque is located close to the Palace. It is a modern structure. 
-
-## Subsections
-
-[Parks and Gardens](/africa/nigeria/kano/sights/parksandgardens)
+Of limits for non-muslims, the Central mosque is located close to the Palace. It is a modern structure.

@@ -6,8 +6,6 @@ email: "info@balkanika.rs"
 phone: "+381 34 364 737"
 type: "Clubs and dancing"
 url: "www.balkanika.rs"
-latitude: 44.323634
-longitude: 21.073992
 ---
 
 Nightlife, entrainment, bars, pubs...

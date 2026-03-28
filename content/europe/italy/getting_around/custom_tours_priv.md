@@ -27,5 +27,3 @@ url: [www.centralitaly.eu](http://www.centralitaly.eu)
 address: Umbria - Le Marche
 
 email: info@centralitaly.eu
-
-[back to Getting Around](..)

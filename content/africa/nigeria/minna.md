@@ -1,0 +1,4 @@
+---
+title: "Minna"
+type: location
+---

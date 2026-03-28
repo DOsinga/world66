@@ -28,5 +28,3 @@ zipcode: Bogota
 PriceOfMenu: around US 15 /person
 
 address: Avenida 19 with Calle 106 or Carrera 6 with calle 70
-
-[back to Eating Out](..)

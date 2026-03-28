@@ -11,9 +11,5 @@ http://www.greataussiebeershed.com.au
 
 **Contributors**
 November 08, 2006
-change
-by [aussie guinness man](/member/aussie_guinness_man)
 
 March 14, 2006
-change
-by [konela](/member/konela)

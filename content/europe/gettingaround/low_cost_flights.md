@@ -16,17 +16,11 @@ aMost European low cost airlines only offer point-to-point flights. This makes j
 
 **Contributors**
 April 20, 2006
-change
-by [kneip](/member/kneip)
 
 May 02, 2006
-change
-by [solver](/member/solver)
 
 
 
 
 
 url: [www.euroflights.info](http://www.euroflights.info/)
-
-[back to Getting Around](..)

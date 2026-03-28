@@ -18,5 +18,3 @@ address: K Reguliersdwstr 3
 tel: +31 (0)20 625 9376
 
 zipcode: 1017BH Amsterdam
-
-[back to Nightlife and Entertainment](..)

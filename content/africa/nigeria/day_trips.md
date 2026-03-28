@@ -9,5 +9,3 @@ This is a lovely beach resort about 1-2 hours away from the city of Lagos. There
 
 **Contributors**
 April 14, 2008
-new
-by [hem](/member/hem)

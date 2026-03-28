@@ -10,8 +10,6 @@ Tryon Creek State park is extremely close to downtown Portland, and offers a fre
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Parks, Gardens and Zoos
 
@@ -20,5 +18,3 @@ type: Parks, Gardens and Zoos
 tel: 800-551-6949
 
 address: 1115 Commercial Street NE Salem, OR 97301
-
-[back to Sights](..)

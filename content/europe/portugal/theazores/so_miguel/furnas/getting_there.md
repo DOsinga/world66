@@ -7,5 +7,3 @@ There are some, not many, buses running between Furnas and Ponta Delgada. If you
 
 **Contributors**
 April 05, 2005
-new
-by [ingvar](/member/ingvar) (1 point)

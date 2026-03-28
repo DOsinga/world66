@@ -1,14 +1,8 @@
 ---
-title: "monkeyland3D Travel Guide"
+title: "monkeyland3D"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ITS A MONKEY LAND 3D STYLE TOUCH THE MONKEYS FOR FUN WURFHEUFFUEFUJFJEFUJFE!!!!!!!!!!!!!!
-
-*Part or or all of this text stems from the original article at: Fakewebsite.com*
-
-Page last generated on Tue 20:03
-
--->

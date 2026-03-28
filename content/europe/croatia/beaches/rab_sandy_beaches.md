@@ -20,15 +20,5 @@ and fruits to buy.
 
 **Contributors**
 May 02, 2005
-new
-by [crobeachman](/member/crobeachman) (1 point)
 
 May 02, 2005
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Beaches](..)

@@ -9,5 +9,3 @@ Cannes official tourist office, The Office de Tourism, is located at 1 bd. De La
 
 **Contributors**
 June 02, 2008
-new
-by [mcburton](/member/mcburton)

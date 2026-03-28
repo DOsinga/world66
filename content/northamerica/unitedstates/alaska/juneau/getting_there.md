@@ -7,5 +7,3 @@ Making Juneau travel a reality is easier than you think. Several major carriers 
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

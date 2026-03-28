@@ -17,5 +17,3 @@ type: Tour Operators
 address: Griefenhagener Str. 60, Prenzlauer Berg
 
 tel: +49 (0)30 - 4440936
-
-[back to Day Trips](..)

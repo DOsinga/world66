@@ -24,5 +24,3 @@ tel: +552122177199
 url: [www.curumim.tur.br](http://www.curumim.tur.br)
 
 email: zuraylah@curumim.tur.br
-
-[back to Tours and Excursions](..)

@@ -8,9 +8,3 @@ Built in 1808 under the instruction on Sir Georg Bremenheisse, an honoured dusse
 Showcasing his many apparatus for the care of his cats, this is a must see for anyone visiting dusseldorf. Even if only to ponder the unusual construction of latex/flounder ceiling tiles
 
 176a gelb strasse
-
-
-
-
-
-[back to Museums](..)

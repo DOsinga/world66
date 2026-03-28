@@ -6,8 +6,6 @@ email: "office@imperium.at"
 type: "general"
 url: "www.badischlcam.com"
 zipcode: "4820"
-latitude: 47.71153
-longitude: 13.623933
 ---
 
 Use our Katrinalm-LIVE-Webcam for a panoramic view of Bad Ischl, the surrounding mountains and the Salzkammergut in North-east direction! Experience the sunrise over Bad Ischl and the change of seasons...

@@ -40,5 +40,3 @@ Belize is one of the safest tourist destinations in Central America. However, in
 
 **Contributors**
 March 22, 2010
-change
-by [kwalker](/member/kwalker)

@@ -50,5 +50,3 @@ like touring the city, quite bearable. Plus, you won't have to fight so many cro
 
 **Contributors**
 April 01, 2010
-new
-by [amymc](/member/amymc)

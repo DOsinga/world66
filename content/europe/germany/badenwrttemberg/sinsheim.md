@@ -1,0 +1,4 @@
+---
+title: "Sinsheim"
+type: location
+---

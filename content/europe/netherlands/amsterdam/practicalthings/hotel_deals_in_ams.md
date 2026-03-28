@@ -12,5 +12,3 @@ type: Tourist information
 
 
 address: http://www.hotelschoyce.com/City/Amsterdam.htm
-
-[back to Practical Information](..)

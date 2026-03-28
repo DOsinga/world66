@@ -49,9 +49,5 @@ fabulous deals just a couple of weeks before traveling.
 
 **Contributors**
 March 17, 2010
-change
-by [suegabel](/member/suegabel)
 
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

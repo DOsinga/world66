@@ -21,5 +21,3 @@ tel: +49 (0)931 -88 80
 [Museums](/europe/germany/bavaria/wurzburg/sights?subsection=Museums)
 
 [Churches](/europe/germany/bavaria/wurzburg/sights?subsection=Churches)
-
--->

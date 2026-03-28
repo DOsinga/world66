@@ -1,0 +1,4 @@
+---
+title: "Honiara"
+type: location
+---

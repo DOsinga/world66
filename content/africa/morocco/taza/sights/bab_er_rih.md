@@ -9,8 +9,6 @@ From the *Bab Er Rih* ("Gate of the winds"), above the Medina, you have a beauti
 
 **Contributors**
 October 07, 2006
-change
-by [bernhadette](/member/bernhadette) (4 points)
 
 type: Hotspots
 
@@ -19,5 +17,3 @@ type: Hotspots
 
 
 address: Taza-Haut, Medina
-
-[back to Sights](..)

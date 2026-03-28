@@ -1,0 +1,4 @@
+---
+title: "Sudbury"
+type: location
+---

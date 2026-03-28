@@ -20,5 +20,3 @@ Skiing is available in the Sierras east of Fresno at two locations, Sierra Summi
 If you are a sports fan, Fresno has several sports team as well as excellent collegiate teams. During the summer you can take in a baseball game at the downtown stadium and see the San Francisco Giant's Triple A affliate, the Fresno Grizzlies. Or during the fall and winter you can see Fresno Falcons hockey team at the new SaveMart Center (also an excellent concert venue) at Fresno State. And if you are a college sports fan, don't miss any of the Fresno State Bulldogs football or basketball games. These games are always full of energy and great for a family outing.
 
 Of course one can't forget Yosetime National Park which is only about 60 miles north of Fresno. Take Hwy 41 north for a hour or so and you are there.
-
--->

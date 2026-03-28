@@ -1,0 +1,4 @@
+---
+title: "Schorndorf"
+type: location
+---

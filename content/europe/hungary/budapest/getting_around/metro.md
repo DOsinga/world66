@@ -1,8 +1,6 @@
 ---
 title: "Metro"
 type: poi
-latitude: 47.459637
-longitude: 19.107118
 ---
 
 Budapest 's 3 metro lines cross at DeÃ¡k Ferenc Tér in the town centre.
@@ -20,15 +18,5 @@ highlighted.
 
 **Contributors**
 July 12, 2005
-new
-by [giorgio](/member/giorgio)
 
 September 03, 2005
-change
-by [meshuganut](/member/meshuganut)
-
-
-
-
-
-[back to Getting Around](..)

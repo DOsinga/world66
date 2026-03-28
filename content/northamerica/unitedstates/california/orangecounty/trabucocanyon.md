@@ -17,4 +17,4 @@ Favored activities in the area include hiking, horse-back riding, and mountain b
 
 ## Destinations in Trabuco Canyon
 
-[Whiting Ranch Wilderness](/northamerica/unitedstates/california/orangecounty/trabucocanyon/whitingranchwilderness)
+[Whiting Ranch Wilderness](/world/northamerica/unitedstates/california/orangecounty/trabucocanyon/whitingranchwilderness)

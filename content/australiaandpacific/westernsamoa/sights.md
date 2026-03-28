@@ -35,5 +35,3 @@ At Uafato Conservation Reserve you can relax in the peaceful tropical forests. T
 
 **Contributors**
 February 04, 2010
-change
-by [jenna storm](/member/jenna_storm)

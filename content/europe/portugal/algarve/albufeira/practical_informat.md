@@ -47,5 +47,3 @@ Rooms like what in offered in the intro are quite common in the high season, thr
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

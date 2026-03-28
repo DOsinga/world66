@@ -10,8 +10,6 @@ This dance club hit Cleveland's Warehouse District in the summer of 2005, and qu
 
 **Contributors**
 April 07, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Clubs and dancing
 
@@ -20,5 +18,3 @@ type: Clubs and dancing
 ClosingTime: 2:30 AM
 
 url: [barflyy.com](http://barflyy.com/)
-
-[back to Nightlife and Entertainment](..)

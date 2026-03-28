@@ -1,0 +1,4 @@
+---
+title: "Wanaka"
+type: location
+---

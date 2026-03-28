@@ -13,8 +13,6 @@ Excellent quality is apparent, and delivery is available from a number of locati
 
 **Contributors**
 December 20, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 type: Italian
 
@@ -27,5 +25,3 @@ url: [artvoice.com](http://artvoice.com/menus/just_pizza)
 address: many locations
 
 PriceOfMenu: variable, depending on what you order
-
-[back to Eating Out](..)

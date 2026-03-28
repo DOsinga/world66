@@ -37,5 +37,3 @@ address: 22 Rue de la Barillerie, 06300 Nice, France
 PriceOfMenu: 25 Euros
 
 email: delhibelhi@delhibelhi.com
-
-[back to Eating Out](..)

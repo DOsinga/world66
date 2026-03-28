@@ -1,8 +1,6 @@
 ---
 title: "Roro"
 type: location
-latitude: 9.704916
-longitude: 19.075021
 ---
 
 We currently have no information about Roro.

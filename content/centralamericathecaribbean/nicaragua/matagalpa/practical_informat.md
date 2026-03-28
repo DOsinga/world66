@@ -19,5 +19,3 @@ Some words still in usage are: Chuisli=little river, Boluka=chicken or turkey, D
 
 **Contributors**
 November 23, 2006
-new
-by [giorgio](/member/giorgio) (4 points)

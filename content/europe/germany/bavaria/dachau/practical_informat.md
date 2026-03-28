@@ -21,6 +21,4 @@ type: section
 
  e-Mail info@dachau-info.de
 
- Opening hours: Summer: Monday to Friday 9.00 am - 1.00 pm and 3.00 pm - 6.00 pm, Winter: Monday to Friday 9.00 am - 1.00 pm and 2.30 pm - 5.00 pm, Saturday 9.00 am - 12.00 am  
-
--->
+ Opening hours: Summer: Monday to Friday 9.00 am - 1.00 pm and 3.00 pm - 6.00 pm, Winter: Monday to Friday 9.00 am - 1.00 pm and 2.30 pm - 5.00 pm, Saturday 9.00 am - 12.00 am

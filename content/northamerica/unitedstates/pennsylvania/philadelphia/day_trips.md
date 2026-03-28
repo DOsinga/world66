@@ -11,7 +11,7 @@ You can make the trip to [Atlantic City](/northamerica/unitedstates/newjersey/at
 
 **Pennsylvania**
 
-There are several places in Pennsylvania that are within easy driving distance of Philadelphia. [Harrisburg](/northamerica/unitedstates/pennsylvania/harrisburg), the state capital, is only a two hour drive. You can visit the Railroad Yards, the State Capital Building or the Civil War Museum. If you have more than one day to spare, stop at Hershey Park on your way back to Philadelphia and treat yourself to a day of amusement parks and chocolate. [Lancaster](/europe/unitedkingdom/england/manchester_liverp/lancaster) is only an hour and a half from Philadelphia and includes such historic sites as the Strasburg Railroad Museum and the Fulton Opera House. Don't forget that you're in Amish Country, and be sure to visit some of the farms and shops. The kids will love the Maize Maze. Or you can drive the one hour and ten minutes to [Allentown](/northamerica/unitedstates/pennsylvania/allentown) to visit one of the nation's oldest amusement parks, Dorney Park. You can also stop at the Allentown Art Museum and the Da Vinci Science Center. Kids will love the Crayola Factory where they can watch the crayon-making process.
+There are several places in Pennsylvania that are within easy driving distance of Philadelphia. [Harrisburg](/northamerica/unitedstates/pennsylvania/harrisburg), the state capital, is only a two hour drive. You can visit the Railroad Yards, the State Capital Building or the Civil War Museum. If you have more than one day to spare, stop at Hershey Park on your way is only an hour and a half from Philadelphia and includes such historic sites as the Strasburg Railroad Museum and the Fulton Opera House. Don't forget that you're in Amish Country, and be sure to visit some of the farms and shops. The kids will love the Maize Maze. Or you can drive the one hour and ten minutes to [Allentown](/northamerica/unitedstates/pennsylvania/allentown) to visit one of the nation's oldest amusement parks, Dorney Park. You can also stop at the Allentown Art Museum and the Da Vinci Science Center. Kids will love the Crayola Factory where they can watch the crayon-making process.
 
 **New York**
 
@@ -23,5 +23,3 @@ Likewise, the nation's capital is about two and half hours in the other directio
 
 **Contributors**
 August 26, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

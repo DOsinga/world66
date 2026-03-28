@@ -1,0 +1,4 @@
+---
+title: "Tuttlingen"
+type: location
+---

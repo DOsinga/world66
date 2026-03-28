@@ -21,5 +21,3 @@ The rail station of Rudesheim is well-connected to the regional towns and main c
 
 **Contributors**
 March 15, 2010
-change
-by [imran_m](/member/imran_m)

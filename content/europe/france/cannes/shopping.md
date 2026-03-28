@@ -11,8 +11,6 @@ Shopping in Cannes is all about big name designers -- and you will definitely fi
 
 **Contributors**
 June 02, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Dior](/europe/france/cannes/shopping/dior)
 

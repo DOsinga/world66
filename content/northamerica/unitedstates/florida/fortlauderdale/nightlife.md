@@ -24,5 +24,3 @@ Blues and jazz bands every night of the week.
 address: 110 S.W. Third Ave
 
 tel: (954) 522-5145
-
--->

@@ -9,8 +9,6 @@ eating out
 
 **Contributors**
 August 17, 2005
-new
-by [j wojtynski](/member/j_wojtynski)
 
 ### [Konoba Maslina (Lumbarda)](/europe/croatia/korcula/eating_out_1/konoba_maslina_lu)
 

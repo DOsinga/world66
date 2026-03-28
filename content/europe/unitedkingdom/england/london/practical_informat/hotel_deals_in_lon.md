@@ -15,5 +15,3 @@ type: Tourist information
 
 
 url: [hotelchoyce.com](http://hotelchoyce.com/City/London.htm)
-
-[back to Practical Information](..)

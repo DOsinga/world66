@@ -9,5 +9,3 @@ http://www.ribeirasacra.com/language_english/festas_eng.htm
 
 **Contributors**
 June 25, 2005
-new
-by [the_doc](/member/the_doc)

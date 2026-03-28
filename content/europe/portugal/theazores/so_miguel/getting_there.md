@@ -9,5 +9,3 @@ SATA has frequent flights to Ponta Delgada on São Miguel from all the other Azo
 
 **Contributors**
 April 03, 2005
-new
-by [ingvar](/member/ingvar)

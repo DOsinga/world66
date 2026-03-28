@@ -8,5 +8,3 @@ Breathe in a, bit of Berlin air - without polluting the enviroment with stinking
 address: Saarbrücker Str. 20-21, Prezlauer Berg
 
 tel: +49 (0)30 - 44358990
-
--->

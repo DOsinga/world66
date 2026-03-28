@@ -9,9 +9,5 @@ Don't plan to buy any fresh produce along the "strip" however - it isn't availab
 
 **Contributors**
 July 30, 2005
-new
-by [jake_durango](/member/jake_durango)
 
 April 27, 2007
-change
-by [pajarito](/member/pajarito)

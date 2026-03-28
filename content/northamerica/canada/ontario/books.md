@@ -54,5 +54,3 @@ author: Ian Sheldon
 isbn: 1-55105-109-5
 
 subject: Wildlife
-
--->

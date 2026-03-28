@@ -11,5 +11,3 @@ I spent a month in Merida,and never saw any type of crime activity. Even late at
 
 **Contributors**
 June 17, 2006
-new
-by [jerryvip](/member/jerryvip) (1 point)

@@ -19,8 +19,6 @@ Subway: 1 to Houston,C,E to Spring St.
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Clubs and dancing
 
@@ -31,5 +29,3 @@ tel: (646)862-6117
 url: [www.clubshelter.com](http://www.clubshelter.com/)
 
 address: 150 Varick Street,New York, NY 10013
-
-[back to Nightlife and Entertainment](..)

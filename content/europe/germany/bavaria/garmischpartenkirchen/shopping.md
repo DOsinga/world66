@@ -24,14 +24,4 @@ In addition, there are modern galleries that exhibit the contemporary art that c
 Another shopping district is known as “historic Ludwigstrasse.” This
 particular shopping area has its roots in trading that occurred over
 1,000 years ago because it was a prominent trading center
-and part of the merchandising route that dates back to the days of the Roman
-Empire.
-
-Examples of treasures that can be viewed, touched and purchased include
-jewelry, footwear and clothing. In addition, traditional Bavarian wear can be
-purchased new or gently used. In both cases, the craftsmanship is
-sterling and a wonderful reflection of the skill and beauty of a rich and proud
-culture.
-
-The shopping areas have a number of quaint restaurants and
-inns, some of which are historic, that can be enjoyed by all.
+and part of the merchandising route that dates

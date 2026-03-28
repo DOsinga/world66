@@ -27,9 +27,5 @@ This café has a younger clientele, so older tourists might not feel as comforta
 
 **Contributors**
 February 11, 2010
-change
-by [shomer](/member/shomer)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

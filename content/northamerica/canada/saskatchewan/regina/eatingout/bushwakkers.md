@@ -14,5 +14,3 @@ type: Local
 
 
 url: [www.bushwakker.com](http://www.bushwakker.com )
-
-[back to Eating Out](..)

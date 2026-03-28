@@ -1,0 +1,4 @@
+---
+title: "Salmiya"
+type: location
+---

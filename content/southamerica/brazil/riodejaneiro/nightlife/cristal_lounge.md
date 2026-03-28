@@ -11,8 +11,6 @@ On my last night in Rio I went to Cristal Lounge, which is a place in Ipanema wh
 
 **Contributors**
 August 13, 2007
-change
-by [chicagologie](/member/chicagologie)
 
 type: Clubs and dancing
 
@@ -25,5 +23,3 @@ tel: 2247-8220/ 8267-4929
 address: Rua Barao da Torre, 334 Ipanema neighborhood
 
 email: www.cristallounge.com.br
-
-[back to Nightlife and Entertainment](..)

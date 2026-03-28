@@ -16,9 +16,3 @@ Note that **trams **are not so reliable as they could be because car drivers oft
 
 **Contributors**
 July 04, 2006
-new
-by [svetico](/member/svetico) (4 points)
-
-
-
-[back to Getting Around](..)

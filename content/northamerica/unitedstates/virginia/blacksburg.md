@@ -1,0 +1,4 @@
+---
+title: "Blacksburg"
+type: location
+---

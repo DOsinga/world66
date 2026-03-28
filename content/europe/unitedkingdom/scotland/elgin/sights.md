@@ -9,8 +9,6 @@ Spynie Palace dating from the 13th century lies a couple of miles north of Elgin
 
 **Contributors**
 April 01, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Elgin Cathedral](/europe/unitedkingdom/scotland/elgin/sights/elgin_cathedral)
 

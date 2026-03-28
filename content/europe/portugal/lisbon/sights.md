@@ -8,14 +8,3 @@ The Alfama District - Lisbon’s oldest and most historical district, lies below
   The Bairro Alto was an up-scale neighborhood in the 17th century, now it is considered the heart of Lisbon’s thriving night life. Two funiculars (elevadors) provide transport up the steep hills to the district. If you take the Elevador da Glória, you will find yourself on one of the panoramic hills-the São Pedro de Alcântara, a wonderful place to be, even at night. Go to one of the many fado (Portugal blues) bars in the area-most of them are on Rua do Norte - and sip on a drink. It is worth the hefty cover (usually 2500$00) to experience the music, atmosphere and the drink. Another interesting outing is to check out the African music scene, such as Discoteca A Lontra on Rua de Aso Bento. There is also an excellent Japanese restaurant, serving sushi, in the area.
 
   Belém, about 20 minutes from Lisbon’s center by tram, was the departure point of most of the world-changing explorations, during the Age of Discoveries. There is a spectacular monastery (where Vasco da Gama is buried) and watch-tower are some of the few Manueline (Portuguese Renaissance & Gothic blend architecture) monuments to have survived the 1755 earthquake, completely undamaged. They have both been designated as UNESCO World Cultural Heritage Sites and are must-sees if you are spending any time in Lisbon. The Tower of Belém, about 10 minutes walk from the monastery, is the symbol of Lisbon and the Age of Discoveries. Avoid Mondays, as everything is closed.
-
- 
-
-## Subsections
-
-[Churches & Monasteries](/europe/portugal/lisbon/sights/churchesmonasteries)
-[Industrial](/europe/portugal/lisbon/sights/industrial)
-
-[Museums](/europe/portugal/lisbon/sights/museums)
-
-[Palaces, Castles & Towers](/europe/portugal/lisbon/sights/palacescastlestowers)

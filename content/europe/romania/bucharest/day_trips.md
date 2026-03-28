@@ -25,47 +25,7 @@ rivers.
 
 Bucharest
 is more than 500 years old
-and dates back to the time
-of Vlad Tepes,
-
-Dracula . He was
-the first leader to make
-Wallachia free of outside
-influences. Near by his tomb
-was supposedly buried under
-a church at Snagov Lake.
-There are traces of his
-presence all over the city
-with themed restaurants,
-bars and shops some which of
-are quite amusing.
-
-Before the end of the
-communist era a massive
-building was constructed,
-first named “The People’s
-House” renamed The
-Parliament Palace, it is in
-the Guinness Book of World
-Records as the second
-largest administrative
-building in the world after
-the Pentagon. In December,
-1989 the members of
-parliament took over all the
-offices. The building of
-1,000 rooms reflects the
-work of the country's best
-architects and artisans.
-
-**Contributors**
-August 22, 2006
-change
-by [giorgio](/member/giorgio)
-
-### [Mogosoaia Castle Excursion from Bucharest](/europe/romania/bucharest/day_trips/mogosoaia_castle_e)
-
-Near
+and dates Near
 Bucharest towards northeast, there is a stunning castle beside a
 beautiful lake and surrounded by parks. Mogosoaia was built in the
 18th century, during a Renaissance of the arts in the Southern
@@ -116,17 +76,10 @@ Vlad Tepes.******
 
 -
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

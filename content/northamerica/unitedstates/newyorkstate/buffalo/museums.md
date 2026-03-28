@@ -7,5 +7,3 @@ Since the beginning of the 1901 Worlds Fair, held in North Buffalo, a number of 
 
 **Contributors**
 June 30, 2005
-new
-by [allamericanbear](/member/allamericanbear)

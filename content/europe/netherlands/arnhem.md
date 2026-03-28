@@ -1,8 +1,6 @@
 ---
 title: "Arnhem"
 type: location
-latitude: 51.984257
-longitude: 5.910857
 ---
 
 Arnhem (pop. 299 000) called the “Garden City on the Rhine ” is better known to World War II veterans as the city of *A Bridge Too Far* (British paratroopers tried and failed to gain a foothold across the Rhine there). A unique thing in this so-called Garden city are the trolley busses; they use electricity-wires instead of benzine and are thus very environment-friendly.

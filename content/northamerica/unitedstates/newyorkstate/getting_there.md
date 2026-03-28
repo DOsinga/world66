@@ -34,9 +34,5 @@ air travel can save you both time and money.
 
 **Contributors**
 January 25, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 January 26, 2010
-change
-by [nam](/member/nam)

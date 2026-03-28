@@ -62,5 +62,3 @@ url: [www.autotransport-autotransport.com](http://www.autotransport-autotranspor
 address: 10924 Grant Rd. Ste 237 10924 Grant Rd. Ste 237
 
 email: isabellebourlat3@yahoo.fr
-
-[back to Getting Around](..)

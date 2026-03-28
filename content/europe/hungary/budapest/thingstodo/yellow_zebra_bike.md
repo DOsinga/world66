@@ -17,7 +17,3 @@ address: Budapest, Suto u. 2 (courtyard)
 url: [www.yellowzebrasbikes.com](http://www.yellowzebrasbikes.com)
 
 tel: +36-1-266-8777
-
-[back to Things to do](..)
-
--->

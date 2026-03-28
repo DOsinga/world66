@@ -9,5 +9,3 @@ Some of the houses contain furniture on a matching scale.
 
 **Contributors**
 October 17, 2008
-new
-by [davidx](/member/davidx)

@@ -7,8 +7,6 @@ Suggest the Top 5 Must Do's now!
 
 **Contributors**
 August 26, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)
 
 We currently have no Top 5 Must Do's listed in Atlantic City.
 

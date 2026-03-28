@@ -9,8 +9,6 @@ Santa Teresa is a village along the Salkantay trek. 45 minutes away from the vil
 
 **Contributors**
 July 20, 2006
-new
-by [yohay elam](/member/yohay_elam) (2 points)
 
 type: Spa and Sauna
 
@@ -19,5 +17,3 @@ type: Spa and Sauna
 
 
 address: Santa Teresa
-
-[back to Things to do](..)

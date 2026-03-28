@@ -12,12 +12,8 @@ This high-end cocktail lounge features guest mixologists, a seasonal menu, and d
 
 **Contributors**
 August 09, 2006
-new
-by [plin](/member/plin) (1 point)
 
 May 18, 2008
-change
-by [mcburton](/member/mcburton) (1 point)
 
 type: Wine bars
 
@@ -30,5 +26,3 @@ tel: 212-727-7741
 url: [www.flatironlounge.com](http://www.flatironlounge.com)
 
 address: 37 W. 19th Street
-
-[back to Nightlife and Entertainment](..)

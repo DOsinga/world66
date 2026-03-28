@@ -15,5 +15,3 @@ type: Italian
 address: 737 Diamond St
 
 tel: (415) 282-4969
-
-[back to Eating Out](..)

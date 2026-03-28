@@ -18,5 +18,3 @@ tel: 520-883-0682
 url: [www.tucsonmineral.com](http://www.tucsonmineral.com/)
 
 address: 2801 South Kinney Road, Tucson, Arizona 85735.
-
-[back to Sights](..)

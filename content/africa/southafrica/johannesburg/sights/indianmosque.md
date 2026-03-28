@@ -12,5 +12,3 @@ type: Religious Buildings
 
 
 address: Market and Nugget Streets
-
-[back to Sights](..)

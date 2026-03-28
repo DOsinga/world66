@@ -13,8 +13,6 @@ guide to cover the the region.
 
 **Contributors**
 November 11, 2008
-new
-by [raffikojian](/member/raffikojian)
 
 [](http://www.amazon.com/exec/obidos/ASIN/1740591380/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -23,5 +21,3 @@ by [raffikojian](/member/raffikojian)
 author: Richard Plunkett
 
 isbn: 1740591380
-
-[back to Books](..)

@@ -21,5 +21,3 @@ openingHours: see website
 url: [www.asmac.ab.ca](http://www.asmac.ab.ca)
 
 address: see the website for map
-
-[back to Museums](..)

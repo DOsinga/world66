@@ -8,8 +8,6 @@ phone: "649-946-6977"
 price: "Entrees:  $15-35 USD"
 type: "Seafood"
 url: "www.islandthyme.tc"
-latitude: 22.516949
-longitude: 114.213593
 ---
 
 ### [Island Thyme Bistro](/centralamericathecaribbean/turksandcaicosislands/saltcay/eatingout/island_thyme_bistr)

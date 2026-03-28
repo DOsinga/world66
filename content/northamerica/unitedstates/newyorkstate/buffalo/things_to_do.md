@@ -9,5 +9,3 @@ Whether it's the Taste of Buffalo, an architectural walk of Downtown Buffalo, or
 
 **Contributors**
 May 16, 2005
-new
-by [allamericanbear](/member/allamericanbear) (1 point)

@@ -9,9 +9,3 @@ Toys and puppets, games and children books - this is a paradise for both childre
  Address: Liebfrauenstrasse 56, 54290 Trier, next to the cathedral.
 
 type: general
-
-
-
-
-
-[back to Shopping](..)

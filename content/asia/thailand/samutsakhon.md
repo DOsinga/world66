@@ -1,0 +1,4 @@
+---
+title: "Samutsakhon"
+type: location
+---

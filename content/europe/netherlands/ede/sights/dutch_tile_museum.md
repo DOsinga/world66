@@ -6,8 +6,6 @@ opening_hours: "Tueday till Friday 10 am till 5 pm; Saturday, Sunday and bank Ho
 phone: "+31(0)318-591519"
 type: "Hotspots"
 url: "www.nederlandstegelmuseum.nl"
-latitude: 52.098511
-longitude: 5.772575
 ---
 
 The Dutch Tile Museum in Otterlo lies near the woods and heathland of the Veluwe. The museum has one of the largest collections of Dutch wall tiles and tile panels.
@@ -29,5 +27,3 @@ openingHours: Tueday till Friday 10 am till 5 pm; Saturday, Sunday and bank Holi
 url: [www.nederlandstegelmuseum.nl](http://www.nederlandstegelmuseum.nl/)
 
 address: Eikenzoom 12, 6731 BH Otterlo
-
-[back to Sights](..)

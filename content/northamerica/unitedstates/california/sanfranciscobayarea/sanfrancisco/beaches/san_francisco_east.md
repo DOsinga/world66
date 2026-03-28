@@ -19,13 +19,9 @@ Aquatic Park Beach is located to the west of San Franciscos Fishermans Wharf a
 
 **Contributors**
 July 14, 2005
-new
-by [jzurdogo](/member/jzurdogo)
 
 
 
 
 
 url: [www.zurdogo.com](http://www.zurdogo.com/attractions/beaches.html)
-
-[back to Beaches](..)

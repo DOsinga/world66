@@ -40,5 +40,3 @@ Georgian-style home built on a hill overlooking the ocean.
 
 **Contributors**
 February 23, 2010
-new
-by [huttongreen](/member/huttongreen)

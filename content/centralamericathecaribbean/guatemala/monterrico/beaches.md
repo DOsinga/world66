@@ -7,5 +7,3 @@ Casa Pelicanos 1 y 2 are an option to visit Monterrico beaches, with privacy and
 
 **Contributors**
 August 01, 2007
-new
-by [casa pelicanos](/member/casa_pelicanos)

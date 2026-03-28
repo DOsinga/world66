@@ -9,5 +9,3 @@ More information can be caught by visiting: www.friendshipfestival.com
 
 **Contributors**
 May 06, 2005
-new
-by [allamericanbear](/member/allamericanbear)

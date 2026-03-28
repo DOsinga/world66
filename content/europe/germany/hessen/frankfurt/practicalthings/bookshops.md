@@ -9,7 +9,3 @@ There is a British bookshop in the Boerserstrasse at no. 17. It has a really goo
  In the railway station you can get English and American magazines at Schmitt and Hahn. They also have fiction novels. At the airport these are easily found as well.
 
 type: general
-
-
-
-[back to Practical Information](..)

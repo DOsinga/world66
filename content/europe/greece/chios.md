@@ -1,8 +1,6 @@
 ---
 title: "Chios"
 type: location
-latitude: 38.375813
-longitude: 26.064655
 ---
 
 We currently have no information about Chios.

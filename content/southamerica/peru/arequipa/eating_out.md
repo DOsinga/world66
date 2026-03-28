@@ -11,9 +11,4 @@ Alternatively, Santa Catalina hosts a superb Creperie, with an extensive menu of
 
 For cheaper, DIY eating, one can choose between a busy, lively (albeit slightly fragrant) market, three blocks south and three blocks east of the Plaza de Armas, or a small but useful Supermarket opposite the monastery on Santa Catalina.
 
-*Change history*
-Orginal article by [Puggers](/member/puggers) on 15 November 04
-
-Minor corrections by [Puggers](/member/puggers) on 17 November 04
-
--->
+Minor corrections on 17 November 04

@@ -3,8 +3,6 @@ title: "Museumplein"
 type: poi
 address: "Museumplein"
 type: "Squares"
-latitude: 52.357271
-longitude: 4.88154
 ---
 
 Totally redesigned in 2000, the Museumplein is more of a park than a
@@ -13,7 +11,5 @@ well as an Albert Hein shop.
 
 **Contributors**
 March 15, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Squares

@@ -1,7 +1,9 @@
 ---
-title: "Maratea Travel Guide"
+title: "Maratea"
 type: location
 ---
+
+Travel Guide
 
 Maratea is the best Basilicata has to offer to travellers. There is an
 old historic centre, where you can wander trhough narrow streets and

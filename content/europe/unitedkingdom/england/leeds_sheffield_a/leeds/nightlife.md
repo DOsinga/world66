@@ -8,5 +8,3 @@ type: section
 [Dancing](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/nightlife?subsection=Dancing)
 
 [Bars](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/nightlife?subsection=Bars%20)
-
--->

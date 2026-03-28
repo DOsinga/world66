@@ -42,8 +42,6 @@ Inbound & Outbound manager.
 
 **Contributors**
 August 28, 2013
-new
-by [travelmart](/member/travelmart)
 
 
 
@@ -54,5 +52,3 @@ url: [www.travelmartltd.com](http://www.travelmartltd.com/safari-itineraries)
 address: View Park Towers, 5th Floor Monrovia Street.
 
 email: info@travelmartltd.com
-
-[back to Budget Travel Ideas](..)

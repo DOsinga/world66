@@ -1,0 +1,4 @@
+---
+title: "Bogor"
+type: location
+---

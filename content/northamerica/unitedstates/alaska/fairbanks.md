@@ -9,6 +9,4 @@ Ok... I admit it. I don't know much about Fairbanks, although I will be doing so
 
  In the meantime, please feel free to read up on some of the latest happenings in Fairbanks:
 
- Fairbanks Daily News 
-
--->
+ Fairbanks Daily News

@@ -51,5 +51,3 @@ Looking for an Irish Pub? Look to *Brannan's* at 4089 Lincoln Blvd.
 
 **Contributors**
 May 28, 2007
-change
-by [marinagal](/member/marinagal)

@@ -1,5 +1,5 @@
 ---
-title: "Practical Things"
+title: "Practical Information"
 type: section
 ---
 
@@ -9,7 +9,7 @@ It is recommended to have a copy of your documents and tickets with you and to l
 
   
 
-**Points of Interest**
+**Practical addresss**
 
 **Tourist Offices**
 

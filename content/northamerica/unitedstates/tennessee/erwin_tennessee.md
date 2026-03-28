@@ -1,9 +1,9 @@
 ---
-title: "Erwin Travel Guide"
+title: "Erwin"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 A visit to Tennessee would not be complete without a trip through Erwin and The Valley Beautiful as it is so fondly referred to by the local residents.
 
@@ -16,11 +16,3 @@ An outdoor playground, the surrounding forest is healthy and rich with plant and
 For those not inclined toward outdoor activities, one can travel a few miles north of Erwin and visit some of the best night clubs, live theater, formal dining establishments, live concerts, museums and historical sites.
 
 Whether it is fat-tire biking, fishing, hunting, hiking, whitewater rafting or enjoying the night life and black-tie society, Erwin Tennessee is a great place to be.
-
-#### Contributors
-
-January 22, 2006 new by [leeuna](/member/leeuna)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 15:55

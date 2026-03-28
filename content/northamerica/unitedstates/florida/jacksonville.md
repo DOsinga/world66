@@ -1,9 +1,9 @@
 ---
-title: "Jacksonville Travel Guide"
+title: "Jacksonville"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 If you're in town on a Sunday in the fall you might be able to catch the Jaguars football team in action-the city is very **proud of its new** franchise. The Cummer Museum of Art, in the Riverside neighborhood near downtown, has a good collection of American artists and a fascinating garden with a view of downtown. Architecture buffs will find the Riverside district fascinating. Many homes here were designed by noted Jacksonville architect Henry Klutho, a student of Frank Lloyd Wright's Prairie Style.
 
@@ -14,13 +14,3 @@ The Museum of Science and History has a series of rotating hands-on exhibits, ge
 Jacksonville has three beach towns, which are pleasant enough and have fine beaches but more or less blend together. Immediately to the south is Ponte Vedra Beach, where many golf and tennis stars live and where the TPC at Sawgrass golf tournament is played each year. One-day memberships to the Sawgrass course are available, but only deeply committed golf fans will want to pony up the roughly $300 it takes to purchase one. The somewhat less committed golf fans will want to head for the World Golf Village, just off I-95 between Jacksonville and St. Augustine. Several challenging courses and the World Golf Hall of Fame are here, as well as an entertainment complex that includes an IMAX theatre.
 
 Jacksonville is only 30 minutes north of [St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), the nations oldest city. Be sure to make the trip down to visit, it is well worth it.
-
-*Part or or all of this text stems from the original article at: http://www.world66.com/northamerica/unitedstates/florida/northeastflorida/jacksonville*
-
-#### Contributors
-
-December 15, 2006 new by [approaching genius](/member/approaching_genius) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 09:15

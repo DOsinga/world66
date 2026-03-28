@@ -37,5 +37,3 @@ current Costa Rican law requires all of its guests to wear a bathing suit at all
 
 **Contributors**
 July 24, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

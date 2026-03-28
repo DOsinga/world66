@@ -88,8 +88,6 @@ Norway portrays Northern Norwegian art and Northern Norwegian motives.
 
 Wow- I'm sure it's a great resource, but hostleny, I think I'd have trouble taking time out of a roadtrip to visit something like this. Something about a convention center filled with people in suits reminds me of work, rather than travel!
 
-*Part or or all of this text stems from the original article at: hzacEAwyAIKx*
-
 
 
 tel: drFSdcuuorekkaLGu

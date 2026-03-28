@@ -12,8 +12,6 @@ Ulm has a museum which is solely dedicated to - bread. Open daily from
 
 **Contributors**
 September 13, 2005
-change
-by [holgerd](/member/holgerd)
 
 type: general
 
@@ -25,19 +23,10 @@ address: Im Salzstadel (Olgastr)
 
 tel: 0731 / 69955
 
-[back to Museums](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

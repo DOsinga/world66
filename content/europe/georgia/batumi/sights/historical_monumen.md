@@ -14,19 +14,4 @@ Skhalta Monastry is the XII century monument of Georgian architecture in Khulo. 
 
 The Petra fortress
 
-Ruins of an ancient historical city-fortress of Petra are located in the village of Tsikhisdziri, in Kobuleti region. It dates back to VI c A.D. Historically, the territory was inhabited by one of the Iberian tribes called the Lazes. The Byzantine Emperor, Justinian, built a city there because of unique military-strategic and trade-economic location. The city was crossed by the essential route connecting Western Georgia, Byzantine provinces, Persia and Armenia. By the Middle Ages, Petra Fortress became so unconquerable that it was even called the "Kajeti Fortress" (Devil's Fortress).
-
-Arched stone bridges have an important place among the remaining monuments of the ancient culture in Adjara. Their importance is as great as the importance of various fortifications, cultic monuments and castles. There are more than ten arched bridges there. Among others, one should mention Purtio, Tkhemlari, Makhuntseti and Dandalo. Versions about their builders and their time of construction vary from source to source. Some rumors say that the bridges were built by Venetians and Genoese's.
-However, one source states that the bridges were built during Queen Tamar's reign. According to another legend, the makhuntseti, Dandalo and Purtio bridges were simultaneously built by Queen Tamar since the majority of the bridges are associated to her name.
-Arched stone bridges still surprise visitors with their compactness, calculations, precision and pride with which they firmly stand over rough rivers.
-
-**Contributors**
-February 23, 2010
-new
-by [batumiren](/member/batumiren)
-
-type: Landmarks
-
-
-
-[back to Sights](..)
+Ruins of an ancient historical city-fortress of Petra are located in the village of Tsikhisdziri, in Kobuleti region. It dates

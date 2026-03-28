@@ -17,8 +17,6 @@ The Supermarket Downstairs is the largest in Town and Guarantees to be the Cheap
 
 **Contributors**
 November 13, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -31,5 +29,3 @@ tel: +254512211745/6/7
 address: P.O. Box 70 - 20100 NAKURU
 
 email: gilanis@gilanis.co.ke
-
-[back to Eating Out](..)

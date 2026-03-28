@@ -1,0 +1,4 @@
+---
+title: "Mangilao"
+type: location
+---

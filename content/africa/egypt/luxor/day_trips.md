@@ -160,11 +160,7 @@ email: emiltut@yahoo.com
 
 ### [Full Day Denderah and Abydos](/africa/egypt/luxor/day_trips/full_day_denderah)
 
-morning convoy departs 08.00am to full day tour to visit Dendara and Abydos temples. Abydos is the temple dedicated to the Ancient Egyptian God Osiris and the Pharaoh Seti 1. This temple contains some of Egypt ’s finest relief carvings including the Flower of life symbol. Dendara Since the time of the old kingdom, it has been revered as a centre of the Goddess Hathor Goddess of love , beauty and joy. This is a time for speaking out your truth enabling you to become more empowered then drive you back to luxor
-
-GENERAL [more..](/africa/egypt/luxor/day_trips/full_day_denderah)
-
-
+morning convoy departs 08.00am to full day tour to visit Dendara and Abydos temples. Abydos is the temple dedicated to the Ancient Egyptian God Osiris and the Pharaoh Seti 1. This temple contains some of Egypt ’s finest relief carvings including the Flower of life symbol. Dendara Since the time of the old kingdom, it has been revered as a centre of the Goddess Hathor Goddess of love , beauty and joy. This is a time for speaking out your truth enabling you to become more empowered then drive you 
 
 url: [www.egyptsunshine.net](http://www.egyptsunshine.net)
 

@@ -7,16 +7,10 @@ Here are a few suggested museums.
 
 **Contributors**
 September 04, 2005
-change
-by [giorgio](/member/giorgio)
 
 January 22, 2005
-new
-by [sir_malcolm](/member/sir_malcolm)
 
 September 04, 2005
-change
-by [sir malcolm](/member/sir_malcolm)
 
 ### [Musée André Lemaitre](/europe/france/normandybrittany/falaise/museums/muse_andr_lema)
 

@@ -25,6 +25,3 @@ There is also a restaurant where you can
 enjoy the view and relax by listening to the rumbling from the
 waterfalls. There is just one problem: The falls are very difficult to
 find unless you have a local to lead the way.
-
-**Change history**
-Orginal article by [janskov](/member/janskov) on 28 April 05

@@ -11,6 +11,4 @@ Magdeburg, located at the banks of the river Elbe, is one of the most famous eas
 
  Unfortunately, though, the evolution of this city on the Elbe did not always continue along the same path. Phases of economic growth and cultural advancement were suddenly interrupted by moments of destruction, death, and resignation. Tilly's troops brought incredible destruction to Magdeburg during the Thirty Years War. On May 10, 1631, the city was razed to the ground. No one could ever imagine that such a terrible tragedy would befall the citizens of Magdeburg a second time, but several centuries later, on January 16, 1945, the city was once again reduced to rubble -this time, by British-American air attacks toward the end of World War II.
 
- Today, Magdeburg is a city with 235.000 inhabitants and a remarkably well rebuilt heart of the city, that boasts splendid facades and many charming, quaint corners. 
-
--->
+ Today, Magdeburg is a city with 235.000 inhabitants and a remarkably well rebuilt heart of the city, that boasts splendid facades and many charming, quaint corners.

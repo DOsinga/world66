@@ -8,13 +8,9 @@ At the bottom of Duff St near the harbour, due south of the lighthouse there is 
 
 **Contributors**
 July 24, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (3 points)
 
 
 
 
 
 openingHours: 1pm to 5pm Tues-Sun 7pm-9pm Thurs (Subject to volunteers)
-
-[back to Museums](..)

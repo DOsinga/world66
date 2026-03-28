@@ -1,6 +1,6 @@
 ---
 title: "Library of Arabic"
-type: location
+type: poi
 ---
 
 English,and French books. 

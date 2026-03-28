@@ -9,8 +9,6 @@ The fastest and surest way (40 minutes) of getting to Milan City from the Malpen
 
 **Contributors**
 July 05, 2006
-change
-by [karenbru](/member/karenbru) (2 points)
 
 type: By Rail
 
@@ -19,5 +17,3 @@ type: By Rail
 
 
 url: [www.ferrovienord.it](http://www.ferrovienord.it/webmxp/ing/frame-dove-ing.htm)
-
-[back to Getting There](..)

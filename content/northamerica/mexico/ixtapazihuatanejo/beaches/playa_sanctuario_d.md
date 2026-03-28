@@ -2,8 +2,6 @@
 title: "Playa Sanctuario De Las Tortugas"
 type: poi
 address: "La Barra de Potosí"
-latitude: 22.152812
-longitude: -100.97625
 ---
 
 No restaurants. No hotels. No beach vendors. No people!
@@ -24,16 +22,12 @@ Bring water and a good book.
 
 **Contributors**
 January 02, 2006
-change
-by [rickjacobson](/member/rickjacobson)
 
 
 
 
 
 address: La Barra de Potosí
-
-[back to Beaches](..)
 
 ##
 
@@ -47,17 +41,10 @@ address: La Barra de Potosí
 
 [](/lib/map/handle?loc=northamerica|mexico|ixtapazihuatanejo)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

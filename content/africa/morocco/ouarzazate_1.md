@@ -1,9 +1,9 @@
 ---
-title: "Ouarzazate Travel Guide"
+title: "Ouarzazate"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Ouarzazate****,** also called **The Door of the desert**, is a city in Southern Morocco. Its name comes from a berber phrase meaning "*without noise*".
 **Burning sands, snowy peaks, palm groves and verdant oasis make a breath taking scenery and a idyllic wonder of a town from another age in which fairy tales and real life go together on the same road.**
@@ -14,9 +14,3 @@ The Taourit Kasbah with the old Palace of Glaoui and Ait Ben Haddou Kasbah - the
 The Draa Valley begins in the High Atlas and winds its way as far as Agdz village. It has a long river, contrasted by palm trees and sand mountains.
 In the High Atlas resides the Valley of the Dades known for the gorges within this valley.
 At Todra Gorge, you will see two sheer cliffs 300m/980ft high separated by a narrow corridor only 20m/65ft wide.
-
-*Part or or all of this text stems from the original article at: http://www.zoufi.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 02:32

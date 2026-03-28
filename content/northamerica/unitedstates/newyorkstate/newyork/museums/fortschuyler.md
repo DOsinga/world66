@@ -17,5 +17,3 @@ type: general
 address: 6 Pennyfield Ave (end of Throg's Neck)
 
 tel: +1 718 409 7218
-
-[back to Museums](..)

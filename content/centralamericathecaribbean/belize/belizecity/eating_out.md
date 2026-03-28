@@ -19,5 +19,3 @@ A typical [Belize](/centralamericathecaribbean/belize/belizecity/shopping) break
 
 **Contributors**
 March 05, 2010
-change
-by [ashmita](/member/ashmita_)

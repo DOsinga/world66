@@ -6,8 +6,6 @@ email: "simone@insidertour.com"
 phone: "+49 160 1589 171"
 type: "Clubs and dancing"
 url: "www.insidertour.com"
-latitude: 52.522681
-longitude: 13.402342
 ---
 
 The Insider Tours offers a Pub Crawl where you are taken to 4 cool Bars and one Club at the end of the night.
@@ -31,5 +29,3 @@ url: [www.insidertour.com](http://www.insidertour.com)
 address: Hackescher Markt
 
 email: simone@insidertour.com
-
-[back to Nightlife and Entertainment](..)

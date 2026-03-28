@@ -12,5 +12,3 @@ Innumerable places have set meals for little money. One of the classical ways to
 [Chinese](/southamerica/colombia/bogota/eatingout?subsection=Chinese)
 
 [Vegetarian](/southamerica/colombia/bogota/eatingout?subsection=Vegetarian)
-
--->

@@ -38,8 +38,6 @@ Lake Effect Diner, Just Pizza, and another of many Jims Steakout's.
 
 **Contributors**
 May 06, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 ### [HSBC Arena
 

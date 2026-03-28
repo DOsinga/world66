@@ -1,0 +1,4 @@
+---
+title: "Whitefish"
+type: location
+---

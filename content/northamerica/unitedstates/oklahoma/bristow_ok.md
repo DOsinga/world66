@@ -22,8 +22,3 @@ Route 66 Cottage is scheduled to open in the spring of 2005. There will be a pri
 **Remember: **
 
 When you "Get Your Kicks on Route 66", we hope you'll "check in" to our Route 66 Cottage.
-
-*Change history*
-Minor corrections by [Route66Cottage](/member/route66cottage) on 09 November 04
-
--->

@@ -15,12 +15,8 @@ Besides a location that offers easy access to dozens of wineries such as the Hes
 
 **Contributors**
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 June 07, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Mendocino Coast](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/day_trips/mendocino_coast)
 

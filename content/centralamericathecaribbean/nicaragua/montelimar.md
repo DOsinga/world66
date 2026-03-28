@@ -1,8 +1,6 @@
 ---
 title: "Montelimar"
 type: location
-latitude: 12.719706
-longitude: -87.094744
 ---
 
 We currently have no information about Montelimar.

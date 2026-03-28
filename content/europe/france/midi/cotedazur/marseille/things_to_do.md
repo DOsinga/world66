@@ -51,9 +51,5 @@ There are cinemas in the city including UGC Capitole, Pathe Madeleine and Cinema
 
 **Contributors**
 February 04, 2010
-new
-by [jenna storm](/member/jenna_storm)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

@@ -1,0 +1,4 @@
+---
+title: "Osorno"
+type: location
+---

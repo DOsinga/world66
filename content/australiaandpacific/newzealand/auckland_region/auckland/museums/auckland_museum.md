@@ -24,5 +24,3 @@ openingHours: 10:00-17:00 daily (except Christmas and ANZAC morning (25 April))
 url: [www.aucklandmuseum.com](http://www.aucklandmuseum.com)
 
 address: Domain Drive, in the Auckland Domain
-
-[back to Museums](..)

@@ -7,5 +7,3 @@ The museum in Blantyre is called "Chichiri Museum" and is located near the B lan
 
 **Contributors**
 November 09, 2006
-change
-by [chabv](/member/chabv)

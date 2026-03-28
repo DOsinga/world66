@@ -1,0 +1,4 @@
+---
+title: "Hokitika"
+type: location
+---

@@ -1,8 +1,6 @@
 ---
 title: "La Spezia"
 type: location
-latitude: 44.169273
-longitude: 9.917104
 ---
 
 Although best known as a naval base La Spezia is a surprisingly elegant city best seen on foot. Exotic palm-studded gardens line the sea front before giving way to the magnificent nineteenth-century gardens and the airy shaded arcades of the Via Chiodo. The classical architecture, wide avenues and arcades in turn give way to the old town centre. Today the centre of the town is a pedestrian area. The bustling Via del Prone is lined with small shops and stalls whilst the elegance of the Piazza Sant' Agostino speaks of an earlier time. 
@@ -29,9 +27,4 @@ Biennale Golfo dei Poeti, International art exhibition
 
 New Year's Eve celebrations in the city
 
-*Change history*
-Orginal article by [PeteD](/member/peted) on 18 September 04
-
-Minor corrections by [PeteD](/member/peted) on 18 September 04
-
--->
+Minor corrections on 18 September 04

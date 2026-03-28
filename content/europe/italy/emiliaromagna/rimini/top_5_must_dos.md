@@ -27,5 +27,3 @@ Eating is a big deal in Italy, so it is only fitting that one of the Rimini must
 
 **Contributors**
 February 09, 2010
-change
-by [shomer](/member/shomer)

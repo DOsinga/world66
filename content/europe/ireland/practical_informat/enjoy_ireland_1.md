@@ -23,5 +23,3 @@ tel: 00353 1 8510512
 url: [www.enjoyireland.ie](http://www.enjoyireland.ie)
 
 email: almara@oceanfree.net
-
-[back to Practical Information](..)

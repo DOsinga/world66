@@ -52,5 +52,3 @@ and walleye. Lake Lawtonka also has several recreation areas, as well as
 boat ramps and docks, fishing areas, campsites, picnic sites with
 grills, RV pads with electricity, restrooms, a playground and a
 concession area.
-
-*Part or or all of this text stems from the original article at: Kathleen Robles*

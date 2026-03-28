@@ -11,8 +11,6 @@ The SB Arts and Craft Show happens every Sunday from ten in the morning until du
 
 **Contributors**
 April 19, 2006
-new
-by [theniszen](/member/theniszen) (2 points)
 
 type: Other
 
@@ -21,5 +19,3 @@ type: Other
 
 
 url: [www.sbaacs.com](http://www.sbaacs.com/index.htm)
-
-[back to Things to do](..)

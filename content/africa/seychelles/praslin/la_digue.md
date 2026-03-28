@@ -1,9 +1,9 @@
 ---
-title: "La Digue Travel Guide"
+title: "La Digue"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 La
 Digue is situated a short distance from Praslin, but is unreachable by
@@ -53,9 +53,3 @@ sure to bring your camera and lots of films to this most wonderful of
 all islands, you will be in love from the moment you step foot on its
 shores. Should your stay be too short, you can always come back next
 time, and you will.
-
-*Part or or all of this text stems from the original article at: http://www.stgt.com/seychelles/html/la_digue.htm*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 22:23

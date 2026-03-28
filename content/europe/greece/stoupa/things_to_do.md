@@ -27,5 +27,3 @@ Sightseeing in Stoupa wil be heaven for those who love history, arts, culture an
 
 **Contributors**
 April 20, 2010
-change
-by [beverly_per](/member/beverly_per)

@@ -11,8 +11,6 @@ This is a nice place over at Ipanema, with a great view of the Arpoador, where t
 
 **Contributors**
 September 24, 2007
-new
-by [mikehartigan](/member/mikehartigan) (1 point)
 
 type: Seafood
 
@@ -25,5 +23,3 @@ tel: (21)2513-5014
 url: [www.cozinhatipica.com.br](http://www.cozinhatipica.com.br)
 
 address: Av. Francisco Bhering, Arpoador
-
-[back to Eating Out](..)

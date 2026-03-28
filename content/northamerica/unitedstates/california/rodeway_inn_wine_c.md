@@ -1,9 +1,9 @@
 ---
-title: "Rodeway Inn Wine Country Travel Guide"
+title: "Rodeway Inn Wine Country"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Customer Name :
 
@@ -37,7 +37,3 @@ Address :
 6288 Redwood Drive, Rohnert Park, CA 94928
 
 Phone: 707-584-5690
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 13:23

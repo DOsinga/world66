@@ -53,5 +53,3 @@ of fluids and snacks. If you're interested in camping, call (808)
 
 **Contributors**
 August 28, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

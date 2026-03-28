@@ -1,0 +1,4 @@
+---
+title: "Gyor"
+type: location
+---

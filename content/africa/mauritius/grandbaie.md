@@ -1,8 +1,6 @@
 ---
 title: "Grand Baie"
 type: location
-latitude: -20.01302
-longitude: 57.584627
 ---
 
 Grand Baie is one of the most popular resorts on Mauritius. It owes its popularity to the blue sea and to the good facilities. Grand Baie offers facilities for safe swimming, sailing, windsurfing, and water skiing. 

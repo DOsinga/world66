@@ -26,5 +26,3 @@ address: 3403 Oak Lawn Ave
 PriceOfMenu: Varies $1 to ?
 
 email: webmaster@eatzis.com
-
-[back to Eating Out](..)

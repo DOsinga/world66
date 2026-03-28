@@ -12,8 +12,6 @@ Situated within the Food Court at Oriental City Plaza, Colindale, China City Exp
 
 **Contributors**
 May 30, 2007
-change
-by [lizardus](/member/lizardus)
 
 type: Cheap
 
@@ -28,5 +26,3 @@ address: Oriental City Plaza, 399 Edgware Road, London, NW9 0JJ
 PriceOfMenu: Main dishes start from £4.80 and come with a Soup of the day
 
 email: support@chinacitygroup.com
-
-[back to Eating Out](..)

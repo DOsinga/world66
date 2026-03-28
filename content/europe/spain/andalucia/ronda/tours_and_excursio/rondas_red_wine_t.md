@@ -11,9 +11,4 @@ As well as the town being an obvious tourist attraction, the area around Ronda i
 
 The vineyards are at around 750 metres above sea level, a necessary requisite for making high quality tables wines so far south in Spain. We will be visiting three of the recently established wineries where the winemakers will be showing us around and sharing their incredible enthusiasm with us. When you taste their wines you’ll realize why they are so upbeat and why they think that although production in the area is small Ronda is going to become hallmark for fine wines.
 
-We will be having lunch at a fine local restaurant sampling local dishes accompanied (obviously!) by some great local wine. You will then have time to explore the wonderful town of Ronda town with its Moorish and Christian legacy as well as taking in some superb views of the surrounding mountain ranges and of course the plunging gorge. We will then head back to Seville after a very full day.
-
-Savor Ronda's Red Wines in Andalusia
-
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 23 February 05
+We will be having lunch at a fine local restaurant sampling local dishes accompanied (obviously!) by some great local wine. You will then have time to explore the wonderful town of Ronda town with its Moorish and Christian legacy as well as taking in some superb views of the surrounding mountain ranges and of course the plunging gorge. We will then head

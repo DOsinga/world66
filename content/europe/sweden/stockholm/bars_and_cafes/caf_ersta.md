@@ -11,21 +11,14 @@ This café on Södermalm has reasonable prices and perhaps the best view in Stoc
 
 **URL**: http://www.ersta.se/ersta_for_alla/1_ersta_cafe-restaurang.htm
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 26 August 04
+Write up on 26 August 04
 
-Write up by [gagarin](/member/gagarin) on 26 August 04
+Write up on 07 September 04
 
-Write up by [gagarin](/member/gagarin) on 07 September 04
-
-Minor corrections by [gagarin](/member/gagarin) on 12 December 04
+Minor corrections on 12 December 04
 
 tel: 08-714 66 34
 
 address: Erstagatan 1
 
 zipcode: 116 91
-
-[back to Bars and Cafes](..)
-
--->

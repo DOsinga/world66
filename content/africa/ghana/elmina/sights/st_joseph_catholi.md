@@ -14,5 +14,3 @@ type: Churches and Cathedrals
 
 
 email: denisecamilleri@msn.com
-
-[back to Sights](..)

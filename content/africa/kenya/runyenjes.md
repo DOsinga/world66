@@ -1,8 +1,6 @@
 ---
 title: "Runyenjes"
 type: location
-latitude: -0.438821
-longitude: 37.618621
 ---
 
 Runyenjes is the second largest town in [Embu](/africa/kenya/centralhighlands/embu) District (Eastern province, Kenya) and serves as the divisional headquarters of Runyenjes division. The significance of this town is more in its history. It derived its name from an awesomely popular Chief Runyenje of the colonial era who ruled fron Thuci River to Sagana (in Central Province).
@@ -15,5 +13,3 @@ Visitors to Runyenjes should not miss to visit the popular Mwene Ndega grove, th
 
 **Contributors**
 January 12, 2006
-new
-by [pnyash](/member/pnyash)

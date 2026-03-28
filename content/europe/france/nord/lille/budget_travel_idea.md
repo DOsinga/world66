@@ -35,5 +35,3 @@ Other budget bars to highlight are:
 
 **Contributors**
 April 01, 2010
-change
-by [stolsen](/member/stolsen)

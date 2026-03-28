@@ -14,5 +14,3 @@ type: Shopping centers and malls
 
 
 url: [www.woluweshoppingcenter.be](http://www.woluweshoppingcenter.be)
-
-[back to Shopping](..)

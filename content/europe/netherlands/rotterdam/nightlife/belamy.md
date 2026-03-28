@@ -10,5 +10,3 @@ address: 1e Middenlandstr
 ClosingTime: 02:00
 
 closingtime: 02:00
-
--->

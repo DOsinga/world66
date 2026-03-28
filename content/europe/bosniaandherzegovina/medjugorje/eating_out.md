@@ -27,5 +27,3 @@ With 48 years of service, this restaurant is among the most established in Medju
 
 **Contributors**
 March 18, 2010
-new
-by [kwalker](/member/kwalker)

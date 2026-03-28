@@ -27,5 +27,3 @@ Alternatively, you can choose to fly to Tangier, Morocco and make the approximat
 
 **Contributors**
 October 12, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

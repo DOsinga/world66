@@ -4,8 +4,6 @@ type: poi
 address: "Koeberg Rd, Milnerton"
 phone: "0215514871"
 type: "Chinese"
-latitude: -33.882874
-longitude: 18.495759
 ---
 
 Small and unremarkable take-away restaurant with 2 small tables that supplies a range of dim-sum, standard chinese dishes and good quality sushi at affordable prices. They often also run specials offering extra portions with items ordered.
@@ -14,8 +12,6 @@ While they are affiliated to Mr Delivery, it is cheaper to order at the shop its
 
 **Contributors**
 March 15, 2009
-new
-by [magependragon](/member/magependragon)
 
 type: Chinese
 
@@ -24,5 +20,3 @@ type: Chinese
 tel: 0215514871
 
 address: Koeberg Rd, Milnerton
-
-[back to Eating Out](..)

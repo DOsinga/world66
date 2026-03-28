@@ -20,8 +20,6 @@ Located in St. Francisville, roughly 25 miles north of Baton Rouge and *roughly*
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -30,5 +28,3 @@ tel: 225-635-6717
 url: [www.stfrancisvillechamber.com](http://www.stfrancisvillechamber.com)
 
 address: St. Francisville Chamber of Commerce, West Feliciana Parish, LA
-
-[back to Day Trips](..)

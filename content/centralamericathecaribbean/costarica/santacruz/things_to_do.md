@@ -9,5 +9,3 @@ Visitors can shop for Costa Rican artwork in wood, fabric and fused glass.
 
 **Contributors**
 January 26, 2009
-new
-by [coopermays](/member/coopermays)

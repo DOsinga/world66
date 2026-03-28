@@ -1,0 +1,4 @@
+---
+title: "Brendola"
+type: location
+---

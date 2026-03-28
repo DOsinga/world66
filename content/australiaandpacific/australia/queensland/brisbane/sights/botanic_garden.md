@@ -10,9 +10,3 @@ lots of palmtrees and large bamboos, and even mangrove boardwalks,
 along the Brisbane River.
 
 type: Parks, Gardens and Zoos
-
-
-
-
-
-[back to Sights](..)

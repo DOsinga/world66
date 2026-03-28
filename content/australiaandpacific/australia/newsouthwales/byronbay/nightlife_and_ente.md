@@ -18,5 +18,3 @@ Is in almost every place in Australia like this. So, go there and enjoy yourself
 
 **Contributors**
 March 28, 2006
-change
-by [giorgio](/member/giorgio)

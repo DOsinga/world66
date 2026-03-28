@@ -9,7 +9,5 @@ Here is a link to a website with all Panamanian Radio Stations, Webcams and TV s
 
 **Contributors**
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Tourist information

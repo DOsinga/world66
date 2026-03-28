@@ -20,5 +20,3 @@ In nearby [Lambayeque](/southamerica/peru/lambayeque) . Good collection of pre-c
 address: Lambayeque
 
 openinghours: 9 am to 6 pm Except Mondays
-
--->

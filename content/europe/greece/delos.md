@@ -1,0 +1,4 @@
+---
+title: "Delos"
+type: location
+---

@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 ClosingTime: about 6 a.m.
-
-[back to Nightlife and Entertainment](..)

@@ -22,12 +22,8 @@ The tour can be a daytrip but if you wish you can stay in one of Shatili's hotel
 
 **Contributors**
 October 13, 2008
-new
-by [tamari](/member/tamari)
 
 September 04, 2009
-change
-by [khatuna](/member/khatuna)
 
 
 
@@ -40,5 +36,3 @@ url: [travel.info-tbilisi.com](http://travel.info-tbilisi.com)
 address: 6, str. N. Nikoladze
 
 email: travel@info-tbilisi.com
-
-[back to Day Trips](..)

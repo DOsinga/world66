@@ -20,8 +20,6 @@ Take a short drive north to Turriff and visit the Auld Post Office Museum or the
 
 **Contributors**
 January 21, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### [Fyvie Castle](/europe/unitedkingdom/scotland/fyvie/things_to_do/fyvie_castle)
 

@@ -8,8 +8,3 @@ This is a wonderful valley in the Département of Doubs. Its source is immensely
 The village of Ornans is worth a visit and the stretch from the source to Ornans may well be the very best - but don't miss the rest!. As well as very picturesque houses overhanging the river, it has a museum devoted to Courbet, who did much painting in this area.
 
 Terrific website at http://www.interfrance.com/en/fc/do_loue.html
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 November 04
-
--->

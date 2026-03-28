@@ -1,9 +1,9 @@
 ---
-title: "Puerto El Cuyo Travel Guide"
+title: "Puerto El Cuyo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 " Las Casitas El Cuyo ", THE Beachfront Concept mixing Holiday Packages & A la Carte Vacation Rentals Properties. "
 
@@ -23,9 +23,3 @@ Las Casitas offers:
 A welcome guide is provided to our guests upon arrival. Our very dedicated team will be pleased to receive you in Puerto El Cuyo for outstanding Holidays you will never forget.
 
 www.lascasitaselcuyo.com
-
-*Part or or all of this text stems from the original article at: www.lascasitaselcuyo.com*
-
-Page last generated on Sun 18:44
-
--->

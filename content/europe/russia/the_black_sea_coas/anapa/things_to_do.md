@@ -15,5 +15,3 @@ A small town Abrau-D'urso located between Anapa and Novorossiysk is famous for i
 
 **Contributors**
 September 23, 2006
-change
-by [svetico](/member/svetico) (2 points)

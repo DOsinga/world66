@@ -5,16 +5,12 @@ address: "Railway station"
 phone: "+46 521 271400"
 type: "Tourist information"
 url: "www.vastsverige.com"
-latitude: 13.005482
-longitude: 80.2478
 ---
 
 Below is some practical info
 
 **Contributors**
 June 04, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [Turistbyrån](/europe/sweden/vnersborg/practical_informat/turistbyrn)
 

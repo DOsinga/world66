@@ -1,9 +1,9 @@
 ---
-title: "overberg Travel Guide"
+title: "overberg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Less than an hour from Cape Town one of Africa's busiest cities, lies a region of contrasts and wonder. The Overberg has rugged mountain ranges, fynbos, rolling wheat and canola fields, and splendid coastal vistas. It is for you to reflect, discover and maybe even have the adventure of a lifetime.
 
@@ -18,7 +18,3 @@ The Overberg caters for sport enthusiasts and eco-adventurers alike, with its di
 Accommodation and restaurants are plentiful in the Overberg. All hungry and thirsty travellers are welcome. We cater for everyone’s budget – from backpackers and pub ’n grills to luxurious restaurants and romantic cafés with specialised cuisine.
 
 So get away from the mad rush of your life and pay us a visit in the Overberg. Only here on our roads, do you have the freedom to decide whether to turn left, right, stop or drive on slowly
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 13:14

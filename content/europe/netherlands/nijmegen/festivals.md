@@ -33,9 +33,5 @@ The fact that Nijmegen is a hub of musicals and other performing arts is reinfor
 
 **Contributors**
 February 05, 2010
-change
-by [sameera kumar](/member/sameera_kumar)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

@@ -1,9 +1,9 @@
 ---
-title: "Island Čiovo Travel Guide"
+title: "Island Čiovo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Čiovo is an island situated in middle Dalmatia.
 It’s famous for its Mediterranean climate, rich subtropical vegetation, archipelago of small picturesque islands, innumerable small hidden bays and beaches.
@@ -19,7 +19,3 @@ Okrug Donji is ideal for families looking for peace and quiet. SLATINE: Visit Sl
 ŽEDNO: Old stone village situated on the top of the island Čiovo.
 
 Split Airport Resnik is situated 6 km from the Čiovo.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 12:06

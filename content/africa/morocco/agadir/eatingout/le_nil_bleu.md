@@ -16,5 +16,3 @@ type: Local
 
 
 PriceOfMenu: 20€
-
-[back to Eating Out](..)

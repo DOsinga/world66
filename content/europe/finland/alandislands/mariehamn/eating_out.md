@@ -8,8 +8,3 @@ The **Pommern Restaurant **is adjacent to the Pommern Hotel but both are about t
 The restaurant has much decor based on a boat and the food is delicious. Fish soup, a starter, is both delicious and plentiful and there's no pressure to move onto a main course if you only want a light meal. 
 
 www.visitaland.com/ shownews.asp?lang=en&style=noje&newsID=25989
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 23 November 04
-
--->

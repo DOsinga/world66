@@ -10,8 +10,6 @@ The Blue Hills Trail is an historic Massachusetts trail featuring 125 miles of m
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -22,5 +20,3 @@ tel: 617-698-1802
 url: [www.mass.gov](http://www.mass.gov/dcr/parks/metroboston/blue.htm)
 
 address: Blue Hills Reservation, 695 Hillside Street
-
-[back to Day Trips](..)

@@ -8,5 +8,3 @@ El Divino (Puerto de Ibiza Nueva) has a fairly exclusive public. The Oreintal fu
 address: The Marina, Ibiza Town.
 
 tel: +34/971191000
-
--->

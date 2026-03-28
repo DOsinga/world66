@@ -21,5 +21,3 @@ Oka Beach is an ideal locale** **for boating sports such as as windsurfing, sail
 
 **Contributors**
 March 25, 2010
-new
-by [amymc](/member/amymc)

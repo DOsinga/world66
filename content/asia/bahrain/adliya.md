@@ -1,0 +1,4 @@
+---
+title: "Adliya"
+type: location
+---

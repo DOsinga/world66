@@ -25,5 +25,3 @@ Good thing that Golden offers so many summer and winter outdoor adventure activi
 
 **Contributors**
 December 11, 2005
-new
-by [rockiesman](/member/rockiesman)

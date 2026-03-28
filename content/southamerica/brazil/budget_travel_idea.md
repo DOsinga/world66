@@ -40,5 +40,3 @@ volunteering, while the rest are spent onsightseeing expeditions and hiking in w
 
 **Contributors**
 November 15, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

@@ -9,5 +9,3 @@ Tip: When taking the ferry across, someone may tried to rent you a golf cart or 
 
 **Contributors**
 February 25, 2005
-change
-by [neilc](/member/neilc)

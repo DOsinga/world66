@@ -16,13 +16,7 @@ Belo Horizonte is a great place for fans of the Brazilian fighting style of Capo
 
 **Contributors**
 January 06, 2010
-change
-by [damiandavilarojas](/member/damiandavilarojas)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 February 01, 2009
-new
-by [carmenvdhaar](/member/carmenvdhaar)

@@ -1,10 +1,10 @@
 ---
-title: "Nightlife"
+title: "Nightlife and Entertainment"
 type: section
+address: "Wellington St 707"
+phone: "+61 8 1300 366 697"
 ---
 
-## Subsections
+**Display all** or display just...
 
-[Bars & Cafés](/australiaandpacific/australia/westernaustralia/perth/nightlife/barscafs)
-
-[Dancing](/australiaandpacific/australia/westernaustralia/perth/nightlife/dancing)
+[Bars & Cafés](/world/australiaandpacific/australia/westernaustralia/perth/nightlife?subsection=Bars%20%26%20Caf%C3%A9s)

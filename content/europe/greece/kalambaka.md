@@ -1,0 +1,4 @@
+---
+title: "Kalambaka"
+type: location
+---

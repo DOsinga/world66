@@ -1,8 +1,6 @@
 ---
 title: "Perm"
 type: location
-latitude: 58.010853
-longitude: 56.231853
 ---
 
 **Perm is the most Eastern city of Europe**, and therefore its province is often referred to as Eurasia. Having a population of 1.2 million, Perm is the 5th largest city in Russia and the second largest in the Urals. The city was formerly called Molotov, after the minister of foreign affairs during Joseph Stalin's ruling. The Perm province, "Permskaya Oblast", or "Prikamye", is around two-third the size of the United Kingdom and covers a great area in the very heart of the Ural Mountains.

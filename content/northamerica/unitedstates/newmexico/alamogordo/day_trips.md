@@ -13,5 +13,3 @@ http://nsosp.nso.edu/
 
 **Contributors**
 June 12, 2009
-new
-by [smkane](/member/smkane)

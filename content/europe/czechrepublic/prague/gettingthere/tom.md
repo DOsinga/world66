@@ -9,7 +9,5 @@ Easyjet flies to Prague from London Gatwick, London Stansted, [Bristol](/europe/
 
 **Contributors**
 March 17, 2005
-new
-by [giorgio](/member/giorgio)
 
 type: By Air

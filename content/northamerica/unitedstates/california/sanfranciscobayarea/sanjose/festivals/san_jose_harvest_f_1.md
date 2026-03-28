@@ -23,13 +23,9 @@ INFO : Call 415-447-3205 or visit [www.harvestfestival.com](/northamerica/united
 
 **Contributors**
 June 04, 2007
-change
-by [epoeschl](/member/epoeschl)
 
 
 
 url: [www.harvestfestival.com](http://www.harvestfestival.com)
 
 email: info@prmagic.com
-
-[back to Festivals](..)

@@ -30,9 +30,5 @@ This Pensacola national attraction, one of the world's largest aviation museums,
 
 **Contributors**
 March 19, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 18, 2010
-change
-by [amymc](/member/amymc)

@@ -1,8 +1,6 @@
 ---
 title: "Mosonmagyarovar"
 type: location
-latitude: 47.873179
-longitude: 17.272234
 ---
 
 The town of Mosonmagyarovar is situated at the crossing point of the rivers Mosoni-Danube and Lajta, at about 15 kilometres from the Austrian and Slovakian borders. It was already known in the Roman age as a watch-post along the limes under the Latin name Ad Flexum. After the Conquest it was used as a reeve-site, later it became shire-town.

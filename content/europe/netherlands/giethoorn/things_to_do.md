@@ -54,5 +54,3 @@ beautiful canals.
 
 **Contributors**
 February 15, 2010
-change
-by [kat99](/member/kat99)

@@ -9,7 +9,3 @@ Tour buses for Milford Sound depart from
 Te Anau.
 
 type: By Road
-
-
-
-[back to Getting There](..)

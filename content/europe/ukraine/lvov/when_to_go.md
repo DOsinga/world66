@@ -81,67 +81,4 @@ Other: transfers from airport / train station (45/55 UAH,(5.66/6.92 USD) dependi
 Contact: Office 805, 63 Chornovola ave. (Prospect), Lviv
 tel. +38(032) 242-4303, 0979534502, fax (032) 244-5444
 mariya_tourdelviv@ua.fm, www.tourdelviv.lviv.ua
-The tourist route: Opera House – the Shevchenko Statue –Jesuit Church - the ruins of the hospital of the Holy spirit – the Horseshoe statue – the Entrance to the Old City: Rynok Square – the Latin Cathedral (discovering from the inside) – The Chapel of the Boim Family - coming back to Rynok Square – the City Tower (a chance to climb up a Tower) – The Black House (Chorna Kam'janytsja) – the Italian Yard – the Pharmacy Museum – the beauty of Armenian block architecture – the Armenian Church (discovering from the inside) – the House of Four Seasons – the Dominican Church (discovering from the inside) – the Dormition Church ensemble – the Bernardine Church – the Soborna Square – the Statue of King Dalyno.
-Duration: 3 hours
-Price: 30 UAH per person – 50% OFF = 15 UAH per person
-Timetable:
-18.12 – starts at 11:00 A.M.
-19.12 – starts at 11:00 A.M
-
-18.12.2010 – Out-of-city excursion “Following the Paths of Polish Kings” 50% OFF
-The trip to the Royal Zhovkva (the most ideal Renaissance town with its Żółkiew Castle, fortification, unique murals in the Vasilian church, the Jewish Synagogue, the former Dominican Church) and Krekhivskyi Monestery that sits in the midst of the beautiful landscape of the Roztochja National Park. In the city of Krekhov, we will also visit the holy water spring, so don't forget to bring along some empty containers for water. If we feel like we are able to continue our journeys, we will move on to the secluded cave monastery, where you will get a chance to pray for the health and happiness of your family and friends in the church that's hidden in the stone of a cave.
-Our royal path will lay through the Kulykiv village – the birthplace and homeland for the famous Ukrainain actor Bohdan Stupka.
-Price – 120 UAH per person- 50% = 60 UAH per person
-
-12. Chudo Tur (Miracle Tour)   Contact: 79008 Lviv, Rynok square, 7  tel. +38 (032) 2367096, +38 (066) 9252384  dz.haliuk@gmail.com,; www.chudotour.com  Travel route: The Miracle of train trips to 50% off
-
-13. Zakhid Show , 4REST Apartments
-Contacts: Lviv, office 5, 1/3 Svobody Ave,
-tel:. +38(032) 2615097, fax +38(032) 2614197
-westshow@mail.lviv.ua, www.travel.lviv.ua
-We offer 5 economy class rooms for only 200 UAH per night!
-
-14. Sonata
-Contacts: Lviv, office 2, 62 Kopernika St.
-tel/fax +38(032)244-56-85; +38(032)244-56-86
-lviv@sonata.org.ua; sonata.lviv@gmail.com
-Our offer: One day trip to Lviv
-Day 1.
-Arrival. A guided tour in a medieval Lviv by foot (visiting Rynok Square with a chance to climb up a City Hall Tower, pharmacy-museum, the beauty of Armenian block architecture, the House of Four Seasons, the Italian Yard, the Dominican Church, The Boim Chapel, the Bernardine Church, The Jesuit Church, the Latin Cathedral, T. Shevchenko monument. Lunch (for additional price)
-Free time. If desired, more excursions can be offered. Departure.
-The price covers: excursions;
-Additional expenses: museum entrance tickets; personal expenses.
-Price for 1 person:
-if the the group size is: 10+1 – 20 UAH
-20+1 - 10 UAH
-30+2 -7 UAH
-40+2 - 5 UAH
-A Two-day stay in Lviv:
-Day 1.
-Arrival and transfer to the hotel. Check-in in the hotel. A guided tour in a medieval Lviv by foot (visiting Rynok Square with an opportunity to climb up a City Hall Tower, pharmacy-museum, the beauty of Armenian block architecture, the House of Four Seasons, the Italian Yard, the Dominican Church, The Boim Chapel, the Bernardine Church, The Jesuit Church, the Latin Cathedral, T. Shevchenko monument. Lunch. Free time.
-(On your choice: trip to Waterpark, to Vernisazh (the souvenir and art market) where you can purchase souvenirs, or a chance to see a play in the Opera House). Overnight.
-Day 2.
-Breakfast. A guided tour around Lviv (St. Yura Church – the main Greek-Catholic church, one of the oldest universities – Ivan Franko University, Pototsky Palace art museum, the High Castle, where you will have a wonderful overview of all the main sights in Lviv). Lunch. Free time.
-On your choice – additional excursions. Departure.
-The price includes: accommodation, excursions fees, transport, transfer to the hotel, meals.
-Additional expenses: museum entrance tickets; personal expenses.
-Price for 1 person:
-if the the group size is: 10+1 – 230 UAH
-20+1 – 200 UAH
-30+2 – 185 UAH
-40+2 – 180 UAH
-
-1.The “Yellow & Blue” clothing shop by Ukrainian designers.
-Contacts: 5 floor, “Magnus” Shopping Center, 1 Shpytal'na St. Lviv
-tel. +38 (032)245-2296
-zhukka@rambler.ru
-The offer: certain items 50% OFF
-1. From leading Ukrainian designer Olena Dats', an active participant of the UKRAINIAN FASHION WEEK , SHOWROOM at PARIS FASHION WEEK, Dubai Fashion Days.
-2. From leading Lvivian designer of the Mykytyuk –Jatsenyuk tandem, and active participant of LVIV FASHION WEEK.
-3. From fashionable designer Olena Molchanova, an active participant of the Fresh Fashion UKRAINIAN FASHION WEEK.
-
-2. “Ravlyk” art gallery. (in the underground of the Jesuit Church)
-1. 15, Svobody Ave,
-2. tel.: +38 (032) 243-35-99
-3. What we offer: On December 19th 2010, from 12:oo to 15:00 PM, a free master-class “Handmade Lviv Lions in Cholade”. You will re-create the most famous architectural monuments of Lviv and will be able to buy them with a discount!
-4. Sign up is in the “Ravlyk” art gallery.
+The tourist route: Opera House – the Shevchenko Statue –Jesuit Church - the ruins of the hospital of the Holy spirit – the Horseshoe statue – the Entrance to the Old City: Rynok Square – the Latin Cathedral (discovering from the inside) – The Chapel of the Boim Family - coming

@@ -24,8 +24,6 @@ Visitors can now let the voices of Paul McCartney, George Martin, Brian Epstein,
 
 **Contributors**
 September 10, 2006
-new
-by [modir](/member/modir) (1 point)
 
 
 
@@ -38,5 +36,3 @@ url: [www.beatlesstory.com](http://www.beatlesstory.com/)
 address: The Beatles Story, Britannia Vaults, Albert Dock, Liverpool, L3 4AD
 
 email: info@beatlesstory.com
-
-[back to Culture](..)

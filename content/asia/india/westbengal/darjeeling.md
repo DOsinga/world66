@@ -1,0 +1,4 @@
+---
+title: "Darjeeling"
+type: location
+---

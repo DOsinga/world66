@@ -33,5 +33,3 @@ These gardens are a peaceful spot (except maybe for the screaming peacocks) popu
 [general](/europe/unitedkingdom/england/leeds_sheffield_a/york/sights?subsection=general)
 
 [Museums](/europe/unitedkingdom/england/leeds_sheffield_a/york/sights?subsection=Museums)
-
--->

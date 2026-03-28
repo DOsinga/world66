@@ -31,5 +31,3 @@ accessibility: Paulanergasse on the Badnerbahn, 1 or 65 trams. Alternatively you
 address: Schleifmühlgasse 2, A-1040 Vienna
 
 email: office@four-bells.at
-
-[back to Nightlife and Entertainment](..)

@@ -29,5 +29,3 @@ url: [https:](http://https://www.facebook.com/thegrandregencybwp)
 address: Ahmadpur Road, Bahawalpur
 
 email: info@thegrandregencybwp.com
-
-[back to Eating Out](..)

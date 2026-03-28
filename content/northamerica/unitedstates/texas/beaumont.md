@@ -1,0 +1,4 @@
+---
+title: "Beaumont"
+type: location
+---

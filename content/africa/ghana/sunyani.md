@@ -1,8 +1,6 @@
 ---
 title: "Sunyani"
 type: location
-latitude: 7.338439
-longitude: -2.330923
 ---
 
 The capital of Brong Ahafo Region, wich lies between Kumasi and the Côte d'Ivoire boarder.

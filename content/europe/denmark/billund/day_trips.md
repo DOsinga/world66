@@ -19,5 +19,3 @@ Museet Pa Koldinghus is located in Kolding, which is only a 50-minute drive from
 
 **Contributors**
 February 16, 2010
-new
-by [samanthalp](/member/samanthalp)

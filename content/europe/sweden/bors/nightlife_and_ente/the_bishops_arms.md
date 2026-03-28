@@ -6,8 +6,6 @@ closing_time: "See above"
 phone: "+46 33 - 101590"
 type: "Pubs"
 url: "www.bishopsarms.com"
-latitude: 57.720155
-longitude: 12.936444
 ---
 
 I have always wondered if the arms are the upper extremities or some kind of weapon. :-)
@@ -21,8 +19,6 @@ Sun 16-23
 
 **Contributors**
 June 10, 2006
-change
-by [ewolf](/member/ewolf) (1 point)
 
 type: Pubs
 
@@ -37,5 +33,3 @@ tel: +46 33 - 101590
 url: [www.bishopsarms.com](http://www.bishopsarms.com/)
 
 address: Stora Brogatan 3
-
-[back to Nightlife and Entertainment](..)

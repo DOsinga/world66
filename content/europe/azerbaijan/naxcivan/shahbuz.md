@@ -1,9 +1,9 @@
 ---
-title: "Shahbuz Travel Guide"
+title: "Shahbuz"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Shahbuz region, included into the administrative territorial unit of Nakhchivan Autonomus Republic, was established in 1930, liquidated in 1963, added into the region of Nakhivan and in 1978 into the region Babek, regained its independence in 1965.
 
@@ -14,7 +14,3 @@ Shahbuz region is located on the south foot of the Daralayaz chain of the Small 
 The river Nakhchivan and its flows (Kuku, Shahbuz and Salvarti) cross the territories of the region. The region is rich with the medicinal herbs and the mineral waters (Badamli, Batabat, Bichenek and Karvansara). The climate is the cold with arid summer. The lakes Ganligol and Batabat are used as the water reservoirs.
 
 The toponymy of Shahbuz existed at early Middle Ages and is related to the similar name of the Tower the ruins of which have still remained. The name of the tower in its turn had been taken from the name of the mountain Shanbuztepe.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 11:23

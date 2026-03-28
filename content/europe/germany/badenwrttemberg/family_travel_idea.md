@@ -23,5 +23,3 @@ Explore the great world of luxury cars and thrilling racing while you tour this 
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

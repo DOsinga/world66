@@ -13,8 +13,6 @@ When you are viewing the Painted Ladies standing in Alamo Square, you are very n
 
 **Contributors**
 November 10, 2007
-new
-by [jzurdogo](/member/jzurdogo) (1 point)
 
 type: Landmarks
 
@@ -23,5 +21,3 @@ type: Landmarks
 url: [www.zurdogo.com](http://www.zurdogo.com/attractions/paintladies.html)
 
 address: Steiner Street & Hayes Street
-
-[back to Sights](..)

@@ -1,5 +1,5 @@
 ---
-title: "Eating out"
+title: "Eating Out"
 type: section
 ---
 
@@ -9,11 +9,11 @@ There are literally hundreds of places to eat in and around Nairobi. Most are sm
 
  
 
-## Subsections
+## Categories
 
-[African](/africa/kenya/nairobi/eatingout/african)
-[Continental](/africa/kenya/nairobi/eatingout/continental)
+[Italian](/africa/kenya/nairobi/eatingout?subsection=Italian)
+[Continental](/africa/kenya/nairobi/eatingout?subsection=Continental)
 
-[Italian](/africa/kenya/nairobi/eatingout/italian)
+[African](/africa/kenya/nairobi/eatingout?subsection=African)
 
-[Oriental](/africa/kenya/nairobi/eatingout/oriental)
+[Oriental](/africa/kenya/nairobi/eatingout?subsection=Oriental)

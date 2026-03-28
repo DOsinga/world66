@@ -27,5 +27,3 @@ One of the things you would not want to miss doing is trying out the delicious p
 
 **Contributors**
 March 28, 2010
-new
-by [kwalker](/member/kwalker)

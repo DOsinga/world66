@@ -27,5 +27,3 @@ You can make use of the local transportation to get around the city. Trams, elec
 
 **Contributors**
 March 22, 2010
-change
-by [kwalker](/member/kwalker)

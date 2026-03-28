@@ -1,9 +1,9 @@
 ---
-title: "Safaga Travel Guide"
+title: "Safaga"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Safaga **
 has undergone major refurbishment and as a tourist destination in and
@@ -16,9 +16,3 @@ Championships. With steady thermal winds blowing year-round, it's not
 surprising. Divers also come here for spots not yet spoiled by crowds.
 Not far offshore, the Red Sea's world-renowned turquoise waters are home
 to stunning reefs with an abundance of marine life.
-
-*Part or or all of this text stems from the original article at: www.safagaport.com*
-
-Page last generated on Wed 09:44
-
--->

@@ -25,5 +25,3 @@ Most visitors tend to shop at the souks but be careful as much of the merchandis
 
 **Contributors**
 March 18, 2010
-change
-by [ctanios](/member/ctanios)

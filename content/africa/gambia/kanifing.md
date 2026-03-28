@@ -1,0 +1,4 @@
+---
+title: "Kanifing"
+type: location
+---

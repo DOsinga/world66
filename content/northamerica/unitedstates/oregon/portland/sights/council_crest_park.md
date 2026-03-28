@@ -13,8 +13,6 @@ Council Crest Park claims to be the highest point in all of Portland. Historical
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Parks, Gardens and Zoos
 
@@ -29,5 +27,3 @@ url: [www.portlandparks.org](http://www.portlandparks.org/Parks/CouncilCrest.htm
 address: Southwest Council Crest Drive Portland, OR 97201
 
 email: pkweb@ci.portland.or.us
-
-[back to Sights](..)

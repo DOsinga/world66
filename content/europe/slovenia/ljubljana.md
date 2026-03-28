@@ -1,8 +1,6 @@
 ---
 title: "Ljubljana"
 type: location
-latitude: 46.050027
-longitude: 14.506929
 ---
 
 Ljubljana is the capital of [Slovenia](/europe/slovenia). It's also the biggest city in the country and the political, cultural and commercial centre. With a population of around 300,000 it has the intimacy of a small town mixed with the cultural heritage and cosmopolitan feel of a vibrant city. 
@@ -15,7 +13,4 @@ As a new member state of the European Union after 1 May 2004, Slovenia starts a 
 
 You can walk through the city in couple hour's time. If you have an entire day you can see almost all sights worth visiting. If you stay longer Ljubljana is a great starting point to see all of Slovenia. Within a two hour drive you can see the Adriatic Sea, alpine mountains, the Karst (full of magical caves), the Panonian lowland, and a Sub alpine world of enormous beauty.
 
-*Change history*
-Write up by [saich](/member/saich) on 27 March 04
-
-Minor corrections by [saich](/member/saich) on 27 March 04
+Minor corrections on 27 March 04

@@ -1,0 +1,4 @@
+---
+title: "Hainaut"
+type: location
+---

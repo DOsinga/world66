@@ -16,8 +16,6 @@ For after dinner drinks and entertainment you can visit the CCK (China City Kara
 
 **Contributors**
 May 30, 2007
-new
-by [lizardus](/member/lizardus)
 
 type: Chinese
 
@@ -32,5 +30,3 @@ url: [www.chinacitygroup.com](http://www.chinacitygroup.com/)
 address: Oriental City Plaza, 399 Edgware Road, London, NW9 0JJ
 
 email: support@chinacitygroup.com
-
-[back to Eating Out](..)

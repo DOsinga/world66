@@ -23,8 +23,6 @@ Prices for pizzas range from 8 to 13 soles ($2.65 to $4.35 in US dollars) for a 
 
 **Contributors**
 March 30, 2008
-change
-by [approaching genius](/member/approaching_genius) (2 points)
 
 type: Italian
 
@@ -37,5 +35,3 @@ accessibility: Not wheelchair accessible. Easy access from commercial district a
 address: Alegria Arias de Morey #228
 
 PriceOfMenu: Inexpensive
-
-[back to Eating Out](..)

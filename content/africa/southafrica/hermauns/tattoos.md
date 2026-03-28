@@ -1,12 +1,8 @@
 ---
-title: "Tattoos Travel Guide"
+title: "Tattoos"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Somerset West
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 12:47

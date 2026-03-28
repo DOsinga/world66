@@ -16,8 +16,6 @@ The InterContinental Tampa features 323 elegantly appointed guestrooms and 21,00
 
 **Contributors**
 September 04, 2007
-change
-by [hotelogic](/member/hotelogic)
 
 type: First Class
 
@@ -36,5 +34,3 @@ CostOfDoubleForANight: Varies
 address: 4860 W. Kennedy Blvd., Tampa Florida 33609
 
 email: intercontampa@destinationhotels.com
-
-[back to Accommodation](..)

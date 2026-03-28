@@ -24,8 +24,6 @@ Baseball fan? Then you can't leave town without stopping at Game Day Sports Cafe
 
 **Contributors**
 July 05, 2009
-change
-by [annc](/member/annc)
 
 ### [Vito's Cafe](/northamerica/unitedstates/ohio/cincinnati/eating_out/vitos_cafe)
 

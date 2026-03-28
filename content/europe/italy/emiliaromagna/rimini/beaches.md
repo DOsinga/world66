@@ -41,5 +41,3 @@ of the best and around-the-clock beach access.
 
 **Contributors**
 March 08, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

@@ -63,5 +63,3 @@ get back on time for your flight.
 
 **Contributors**
 April 06, 2010
-change
-by [pamelarae](/member/pamelarae)

@@ -38,5 +38,3 @@ Surely, there is more to see south of the border.
 author: Donna Dailey
 
 isbn: 0764161776
-
-[back to Books](..)

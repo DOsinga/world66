@@ -8,7 +8,5 @@ Ruzyne International Airport is located 10 km nw of the city centre. It's well c
 
 **Contributors**
 February 06, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Airport

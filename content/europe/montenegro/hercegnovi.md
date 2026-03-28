@@ -1,9 +1,9 @@
 ---
-title: "Herceg-novi Travel Guide"
+title: "Herceg-novi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Herceg Novi is located close to the border with Bosnia Herzegovina and
 [Croatia](/europe/croatia), some 70 km by road west of
@@ -21,14 +21,5 @@ A visit to Herceg Novi can be combined with
 [Perast](/europe/serbiaandmontenegro/perast) and
 [Kotor](/europe/serbiaandmontenegro/kotor).
 
-#### Contributors
-
-August 14, 2006 change by [duarte.teixeira](/member/duarte.teixeira)
-
 More information on
 *Herceg Novi Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 05:30

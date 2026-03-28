@@ -33,11 +33,7 @@ Happy flying!
 
 **Contributors**
 May 25, 2009
-change
-by [karulm](/member/karulm)
 
 
 
 url: [www.egyptair.com](http://www.egyptair.com)
-
-[back to Getting Around](..)

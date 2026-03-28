@@ -10,8 +10,3 @@ For train travel, visit the website of the Dutch Railways: www.ns.nl
 Cheap flights are available to and from Amsterdam. In the UK, I recommend Cheap Flights Online, especially for some good lastminute deals.
 
 If you want to travel by bus which is very cheap, check out Eurolines
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 15 March 04
-
--->

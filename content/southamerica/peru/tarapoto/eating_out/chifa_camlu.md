@@ -16,8 +16,6 @@ Chifa Cam-Lu is a great place to go for lunch. They have what is called Menu in 
 
 **Contributors**
 March 04, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Chinese
 
@@ -32,5 +30,3 @@ tel: (042) 52-3004
 address: Jr. Alagria Arias de Morey #139
 
 PriceOfMenu: Cheap lunch. Inexpensive dinner.
-
-[back to Eating Out](..)

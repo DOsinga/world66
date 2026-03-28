@@ -12,7 +12,3 @@ email: destinations360@hotmail.com
 address: seattle wa
 
 url: [www.destination360.com](http://www.destination360.com)
-
-[back to Things to do](..)
-
--->

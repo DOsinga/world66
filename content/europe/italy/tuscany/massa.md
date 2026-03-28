@@ -1,7 +1,9 @@
 ---
-title: "Massa Travel Guide"
+title: "Massa"
 type: location
 ---
+
+Travel Guide
 
 **Massa** is a town and comune in Tuscany, Italy,
 the administrative centre of the province of Massa-Carrara.
@@ -16,9 +18,5 @@ Industrial Zone, with a direct employment of more than 7,000 people. Together
 with the twin town of Carrara, Massa
 is worldwide known for the extraction and production of marble.
 
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Massa*
-
 **Contributors**
 January 02, 2008
-new
-by [propuff](/member/propuff)

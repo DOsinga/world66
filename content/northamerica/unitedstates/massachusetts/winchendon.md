@@ -1,0 +1,4 @@
+---
+title: "Winchendon"
+type: location
+---

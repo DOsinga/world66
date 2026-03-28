@@ -8,8 +8,3 @@ Many people think of Brittany exclusively for its coasts. This can be a sad mist
 
 
 www.btinternet.com/~andrew.fogg1/html/**huelgoat**.html
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 08 November 04
-
--->

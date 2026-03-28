@@ -14,5 +14,3 @@ type: Health and Safety
 
 
 email: weedspot2@gmail.com
-
-[back to Practical Information](..)

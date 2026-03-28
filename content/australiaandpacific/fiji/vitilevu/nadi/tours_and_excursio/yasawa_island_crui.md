@@ -15,5 +15,3 @@ tel: +1 786 866 2864
 url: [www.virtual-fiji.com](http://www.virtual-fiji.com/captain_cook_cruises.htm)
 
 email: info@virtual-fiji.com
-
-[back to Tours and Excursions](..)

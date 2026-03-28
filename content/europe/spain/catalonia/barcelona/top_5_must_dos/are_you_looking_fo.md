@@ -11,5 +11,3 @@ Hello Mates!!! I am NEW and after a long search for good stuff, I was Lucky to f
 
 
 email: weedspot2@gmail.com
-
-[back to Top 5 Must Do's](..)

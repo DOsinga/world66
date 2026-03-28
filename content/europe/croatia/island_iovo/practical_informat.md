@@ -6,8 +6,6 @@ email: "ljeto@dalmacijalink.hr"
 phone: "+38521886582"
 type: "Tourist information"
 url: "www.dalmacijalink.hr"
-latitude: 43.497875
-longitude: 16.300507
 ---
 
 Useful Information:

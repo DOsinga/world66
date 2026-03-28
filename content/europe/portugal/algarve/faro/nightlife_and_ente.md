@@ -49,9 +49,5 @@ when visiting Faro.
 
 **Contributors**
 February 10, 2010
-new
-by [kat99](/member/kat99)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

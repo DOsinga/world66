@@ -44,5 +44,3 @@ it very simple and easy to carry while traveling.
 author: DK Publishing
 
 isbn: 756624436
-
-[back to Books](..)

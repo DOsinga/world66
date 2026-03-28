@@ -1,6 +1,6 @@
 ---
 title: "Relax"
-type: location
+type: poi
 address: "105, Teryan str. (CITADEL business centre)"
 phone: "59-24-15"
 type: "Clubs and dancing"
@@ -21,5 +21,3 @@ type: Clubs and dancing
 tel: 59-24-15
 
 addres: 105, Teryan str. (CITADEL business centre)
-
-[back to Nightlife and Entertainment](..)

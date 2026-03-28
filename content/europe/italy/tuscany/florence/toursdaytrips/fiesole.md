@@ -10,8 +10,6 @@ Even the short 25-minute bus ride to this popular retreat for Florentines is fil
 
 **Contributors**
 May 23, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -20,5 +18,3 @@ tel: +39 055 23320
 url: [www.firenzeturismo.it](http://www.firenzeturismo.it)
 
 address: Florence Tourism Board: Via A. Manzoni, 16
-
-[back to Day Trips](..)

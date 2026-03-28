@@ -1,8 +1,6 @@
 ---
 title: "Doolin"
 type: location
-latitude: 53.016329
-longitude: -9.37761
 ---
 
 Doolin is a small village, that actually comprises three groupings of settlement spread out over a couple of miles. Roadford, Headfort, and Doolin. You can easily walk anywhere you need here.

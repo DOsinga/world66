@@ -8,8 +8,6 @@ Vratza iz city fill with many very charming attraction.
 
 **Contributors**
 June 20, 2006
-new
-by [vam_1](/member/vam_1) (1 point)
 
 ### [Ledenika Cave](/europe/bulgaria/vratza/sights/ledenika_cave)
 

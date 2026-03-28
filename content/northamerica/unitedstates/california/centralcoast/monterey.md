@@ -9,4 +9,4 @@ Cruise 17-Mile Drive, a loop along the coast from Carmel through Pebble Beach to
 
 ## Destinations in Monterey
 
-[Big Sur](/northamerica/unitedstates/california/centralcoast/monterey/bigsur)
+[Big Sur](/world/northamerica/unitedstates/california/centralcoast/monterey/bigsur)

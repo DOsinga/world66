@@ -1,6 +1,6 @@
 ---
 title: "Forks Market"
-type: location
+type: poi
 type: "African"
 ---
 
@@ -8,13 +8,5 @@ Grazer's heaven; numerous specialty kiosks feature a variety of food delights. S
 
 **Contributors**
 March 30, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: African
-
-
-
-
-
-[back to Eating Out](..)

@@ -29,5 +29,3 @@ Depart for your next destination
 
 **Contributors**
 December 05, 2006
-new
-by [cupcakecommander](/member/cupcakecommander) (4 points)

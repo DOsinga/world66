@@ -33,31 +33,4 @@ shows the progression of the Egyptian civilization over time. There are
 many unique collections. One of these unique collections is the Altar of Isis. There is
 an admission fee to the museum. The Galleria Sabauda is located by the
 Egyptian Museum. It showcases a
-variety of Italian art dating back to the 14th century. Paintings are on display by artists such as Van Dyke.
-
-**Valentino Park**
-
-Valentino Park is a located next to the Po River. The Valentino Castle and Borgo Medieval are also found in this area.
-
-**La Venaria Reale**
-
-La Venaria Reale is located 10 kms from Turin and it is worth taking
-the short trip to visit this attraction. It was constructed in the 17th century for Duke Carlo Emanuele II si Savoia. The building however
-fell to ruin and has only recently been restored. It is now an
-important attraction which tourists flock to. The palace has an area of
-80,000 square meters.
-
-**Duomo**
-
-Duomo is an important site as it is where the holy shroud is kept. Unfortunately the shroud is not on display. There is, however, a large
-photograph of the shroud at the Duomo. The cathedral itself is
-beautiful and is a good example of Renaissance architecture.
-
-**Contributors**
-February 09, 2010
-new
-by [jenna storm](/member/jenna_storm)
-
-February 10, 2010
-change
-by [ctanios](/member/ctanios)
+variety of Italian art dating

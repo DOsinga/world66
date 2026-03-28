@@ -19,5 +19,3 @@ Price of the ticket is about 2 €, so there is no need to drink and drive. :-)
 
 
 url: [www.dalmacijalink.hr](http://www.dalmacijalink.hr)
-
-[back to Beaches](..)

@@ -1,0 +1,4 @@
+---
+title: "Kaiserslautern"
+type: location
+---

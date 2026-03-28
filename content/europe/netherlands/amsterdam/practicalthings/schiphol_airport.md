@@ -9,8 +9,6 @@ Amsterdam Schiphol Airport is the Netherlands main airport. Located 10km south w
 
 **Contributors**
 February 05, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Airport
 
@@ -19,5 +17,3 @@ type: Airport
 
 
 url: [www.schiphol.nl](http://www.schiphol.nl/)
-
-[back to Practical Information](..)

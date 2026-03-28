@@ -12,13 +12,5 @@ Nowadays, the bridge is crowded with sales people and street artists.
 
 **Contributors**
 January 20, 2006
-change
-by [hpharmsen](/member/hpharmsen)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

@@ -1,0 +1,16 @@
+---
+title: "Birds of Cuba"
+type: poi
+subject: "Bird Guide"
+type: "general"
+---
+
+This book represents the first new field guide for Cuban birds published in the last 80 years. The book is well-illustrated and includes range maps.
+
+type: general
+
+
+
+
+
+subject: Bird Guide

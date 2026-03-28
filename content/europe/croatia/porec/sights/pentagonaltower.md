@@ -12,5 +12,3 @@ type: general
 
 
 address: Decumanus str.
-
-[back to Sights](..)

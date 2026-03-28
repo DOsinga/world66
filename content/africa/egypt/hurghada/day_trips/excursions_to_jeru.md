@@ -98,8 +98,6 @@ www.sunraytours.com
 
 **Contributors**
 July 18, 2012
-new
-by [sunraytours](/member/sunraytours)
 
 
 
@@ -110,5 +108,3 @@ url: [sunraytours.com](http://sunraytours.com/Excursions/Makadi-Bay-Tours/Makadi
 address: Red Sea Hurghada Branch El Nasr st - Building 3 Second floor
 
 email: info@sunraytours.com
-
-[back to Day Trips](..)

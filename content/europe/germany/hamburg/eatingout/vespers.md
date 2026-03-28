@@ -10,7 +10,3 @@ address: Osterstr. 10
 tel: 040 - 4917355
 
 zipcode: 20259 Hamburg - Eimsbüttel
-
-[back to Eating Out](..)
-
--->

@@ -37,5 +37,3 @@ tel: 031 312 54 00
 address: Bärenplatz 21 above restaurant Gfeller
 
 PriceOfMenu: 19.50CHF and up
-
-[back to Eating Out](..)

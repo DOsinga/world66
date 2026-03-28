@@ -1,9 +1,9 @@
 ---
-title: "Cornwall Travel Guide"
+title: "Cornwall"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Cornwall is the south-westernmost county in England. Touristically, it is most noted for its stunning, very British-style coastline with highlights ranging from fine, long sandy beaches and dramatic cliffs and bays in the north to quaint fishing harbours and rolling coastal hills in the south. Cornwall benefits from the Gulf-stream, particularly in summer when the climate can be balmy.
 
@@ -23,7 +23,3 @@ St. Michael's Mount
 
 Hundreds of walkers enjoy walking all or part of the Cornish coastal path every year.
 Tea and scones with cream and jam (Cornish Cream Tea) is a delicious local speciality.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 05:31

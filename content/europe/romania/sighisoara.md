@@ -1,8 +1,6 @@
 ---
 title: "Sighisoara"
 type: location
-latitude: 46.220204
-longitude: 24.793448
 ---
 
 Located in the center of Romania, the medieval town of Sighisoara is best known for the fact that it is the place of birth of Vlad Tepes, aka Count Dracula. There are plans to build a huge amusement park around the idea of Dracula near the town.

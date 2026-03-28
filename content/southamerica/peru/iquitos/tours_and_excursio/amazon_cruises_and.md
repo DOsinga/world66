@@ -24,5 +24,3 @@ email: reservations@latintrails.com
 url: [www.amazoncruise.net](http://www.amazoncruise.net/amazon cruise peru.htm)
 
 zipcode: 00000
-
-[back to Tours and Excursions](..)

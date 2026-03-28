@@ -12,8 +12,6 @@ Depending on the time of the day they offer all sorts of pastries, and yucca, po
 
 **Contributors**
 August 03, 2006
-new
-by [joosts](/member/joosts) (3 points)
 
 type: Local
 
@@ -24,5 +22,3 @@ type: Local
 address: Colon 47, between Ayacucho and Ingavi
 
 PriceOfMenu: $ 2
-
-[back to Eating Out](..)

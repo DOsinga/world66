@@ -29,5 +29,3 @@ address: Borgognissanti 140/r
 PriceOfMenu: 35 €
 
 email: ale@trattoria-armando.com
-
-[back to Eating Out](..)

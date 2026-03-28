@@ -1,8 +1,6 @@
 ---
 title: "Zakopane"
 type: location
-latitude: 49.296911
-longitude: 19.950475
 ---
 
 We currently have no information about Zakopane.

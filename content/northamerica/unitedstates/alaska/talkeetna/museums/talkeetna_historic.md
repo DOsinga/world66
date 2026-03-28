@@ -11,8 +11,6 @@ The Historical Society Museum is housed in a trapper cabin originally built in 1
 
 **Contributors**
 May 24, 2007
-change
-by [myalaskacabin](/member/myalaskacabin)
 
 
 
@@ -23,5 +21,3 @@ openingHours: Open year-round, on a varying schedule
 url: [www.talkeetnahistoricalsociety.org](http://www.talkeetnahistoricalsociety.org)
 
 address: Corner of First Alley & Village Airstrip
-
-[back to Museums](..)

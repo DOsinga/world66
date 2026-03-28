@@ -35,5 +35,3 @@ Day Seven - Agencia Canyons
 
 **Contributors**
 January 11, 2010
-change
-by [christina tilicki](/member/christina_tilicki)

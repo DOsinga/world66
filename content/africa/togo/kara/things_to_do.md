@@ -6,8 +6,6 @@ type: "Other"
 
 **Contributors**
 February 02, 2008
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 ### [Market](/africa/togo/kara/things_to_do/market)
 

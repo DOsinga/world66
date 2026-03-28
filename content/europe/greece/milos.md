@@ -1,0 +1,4 @@
+---
+title: "Milos"
+type: location
+---

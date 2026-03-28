@@ -7,5 +7,3 @@ type: section
 
 **Contributors**
 May 22, 2007
-change
-by [giorgio](/member/giorgio)

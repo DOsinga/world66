@@ -1,0 +1,17 @@
+---
+title: "Alice Nightclub"
+type: poi
+address: "Tak Cheung Bldg, Mong Kok"
+phone: "2 392 1182"
+type: "Dancing"
+---
+
+type: Dancing
+
+
+
+
+
+address: Tak Cheung Bldg, Mong Kok
+
+tel: 2 392 1182

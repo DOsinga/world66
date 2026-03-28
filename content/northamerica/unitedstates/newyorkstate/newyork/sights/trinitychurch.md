@@ -10,8 +10,6 @@ The Trinity Church is one of the more known churches of New York. She is in prom
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -22,5 +20,3 @@ type: Hotspots
 address: 74 Trinity Place, Lower Manhattan
 
 url: [trinitywallstreet.org](http://trinitywallstreet.org)
-
-[back to Sights](..)

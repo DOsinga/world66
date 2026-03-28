@@ -32,5 +32,3 @@ contiguous 48 state.
 
 **Contributors**
 December 03, 2005
-change
-by [handyman321](/member/handyman321)

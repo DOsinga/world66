@@ -7,5 +7,3 @@ Visit **Cafe Gourmet El Mirador** for the best view on Sucre especially at sunse
 
 **Contributors**
 May 30, 2007
-new
-by [happyinbolivia](/member/happyinbolivia)

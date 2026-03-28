@@ -1,8 +1,6 @@
 ---
 title: "Lounge"
 type: poi
-latitude: 52.08785
-longitude: 5.246886
 ---
 
 **Place to go outs**

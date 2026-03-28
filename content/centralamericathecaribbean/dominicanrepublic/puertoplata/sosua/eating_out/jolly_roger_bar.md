@@ -1,0 +1,29 @@
+---
+title: "Jolly Roger Bar & Grill"
+type: poi
+accessibility: "Accessible"
+address: "Calle Pedro Clisante #11, El Batey, Sosua"
+email: "info@jollyrogersosua.com"
+phone: "809-571-4611"
+price: "$3 - $9"
+type: "International"
+url: "jollyrogersosua.com"
+---
+
+Located in the centre of town, The Jolly Roger Bar & Grill offers a unique environment to it's customers to enable them to relax, have fun and make new friends. We feature Canadian/American/British pub food, and a great Happy Hour daily. There is Bingo every Tuesday afternoon, Darts on Friday nights, and a Guest Chef every Sunday evening.
+
+type: International
+
+
+
+accessibility: Accessible
+
+tel: 809-571-4611
+
+url: [jollyrogersosua.com](http://jollyrogersosua.com)
+
+address: Calle Pedro Clisante #11, El Batey, Sosua
+
+PriceOfMenu: $3 - $9
+
+email: info@jollyrogersosua.com

@@ -3,6 +3,6 @@ title: "Practical Information"
 type: section
 ---
 
-## Subsections
+We currently have no Practical Information listed in Nairobi.
 
-[Money](/africa/kenya/nairobi/practicalinformat/money)
+If you do know any Practical Information in Nairobi, please [Add].

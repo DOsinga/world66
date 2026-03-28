@@ -1,9 +1,9 @@
 ---
-title: "MAASAI MARA,NAKURU,SAMBURU Travel Guide"
+title: "MAASAI MARA,NAKURU,SAMBURU"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Product Description
 
@@ -71,7 +71,3 @@ overnight at the lodge/camp.
 **Day 7 samburu- Nairobi **
 
 Leave Samburu after breakfast with a last game drive enroute, proceed to Nairobi to arriving early afternoon.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 16:19

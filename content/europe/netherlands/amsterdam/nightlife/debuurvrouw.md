@@ -18,5 +18,3 @@ address: St Pietersp stg 29
 tel: +31 (0)20 625 9654
 
 zipcode: 1012HM Amsterdam
-
-[back to Nightlife and Entertainment](..)

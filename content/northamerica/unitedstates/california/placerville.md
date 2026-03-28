@@ -1,9 +1,9 @@
 ---
-title: "Placerville Travel Guide"
+title: "Placerville"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Placerville is a fascinating city located on highway 50 half-way
 between Sacramento and South Lake Tahoe, creating a perfect place to
@@ -25,11 +25,3 @@ Because Placerville is situated in the foothills, the town is
 spread out throughout several valleys, creating a small-town
 atmosphere, even though it has a major freeway running through the
 heart of it.
-
-#### Contributors
-
-June 21, 2006 new by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 08:53

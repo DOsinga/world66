@@ -34,5 +34,3 @@ address: 517 Station Street
 Carrum, Melbourne 3197 Australia
 
 url: [www.baylink.com.au](http://www.baylink.com.au)
-
-[back to Internet Cafes](..)

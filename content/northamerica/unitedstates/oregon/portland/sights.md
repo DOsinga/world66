@@ -6,5 +6,3 @@ type: section
 We currently have no Sights listed in Portland.
 
 If you do know any Sights in Portland, please [Add].
-
--->

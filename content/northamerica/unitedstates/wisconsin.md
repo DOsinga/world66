@@ -10,12 +10,3 @@ Much of Wisconsin's popularity is due to its natural beauty - two Great Lakes, t
  The heart of Wisconsin, the center of the state, pulses with the quiet activity of small towns surrounded by rugged natural beauty. Located on rivers, at the edge of lakes or in the shadow of one of the state's highest peaks, these home towns have individual graces that recommend themselves to visitors. Their welcome mats are always out.
 
 Southern Wisconsin brings you striking rock formations, steep hills and hidden valleys, ravines filled with ferns and woodland flowers as well as man-made delights and diversions. The cities of [Milwaukee](/northamerica/unitedstates/wisconsin/milwaukee) and [Madison](/northamerica/unitedstates/wisconsin/madison) are both located in the south.
-
-## Destinations
-
-- [La Crosse](/northamerica/unitedstates/wisconsin/lacrosse)
-- [Madison](/northamerica/unitedstates/wisconsin/madison)
-- [Milwaukee](/northamerica/unitedstates/wisconsin/milwaukee)
-- [Oconto Area](/northamerica/unitedstates/wisconsin/ocontoarea)
-- [Park Falls](/northamerica/unitedstates/wisconsin/parkfalls)
-- [Superior](/northamerica/unitedstates/wisconsin/superior)

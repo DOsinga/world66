@@ -13,12 +13,8 @@ Hurtigruten/The Norwegian Coastal Voyage is a year-round, scheduled service with
 
 For port-to-port fees, check the .pdf file comprised in the url below.
 
-*Part or or all of this text stems from the original article at: http://www.hurtigruten.com/en/default.aspx?side_id=556*
-
 **Contributors**
 March 12, 2006
-change
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 type: Tourist information
 
@@ -27,5 +23,3 @@ type: Tourist information
 
 
 url: [www.hurtigruten.com](http://www.hurtigruten.com/dokumenter/E_port-to-port%20prices%202006.pdf)
-
-[back to Practical Information](..)

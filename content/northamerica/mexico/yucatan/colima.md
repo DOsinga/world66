@@ -1,0 +1,4 @@
+---
+title: "Colima"
+type: location
+---

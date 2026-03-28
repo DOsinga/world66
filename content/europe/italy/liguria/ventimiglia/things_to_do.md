@@ -52,5 +52,3 @@ back home. Pick up some of your favorite cheese to take with you you on a picnic
 
 **Contributors**
 February 23, 2010
-new
-by [kwalker](/member/kwalker)

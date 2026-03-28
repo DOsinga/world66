@@ -15,8 +15,6 @@ See the website - www.cac.es - it takes a while for the different sections of th
 
 **Contributors**
 May 02, 2005
-new
-by [davidx](/member/davidx) (1 point)
 
 ### [Museo de Bellas Artes](/europe/spain/spanishcostas/valencia/museums/museo_de_bellas_ar)
 

@@ -10,5 +10,3 @@ email: office@bayrischerhof.at
 address: Dr. Schauer-Straße 23, A-4600 Wels
 
 tel: +43 (0)7242 47214
-
--->

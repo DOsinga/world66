@@ -1,8 +1,6 @@
 ---
 title: "Odessa"
 type: location
-latitude: 46.484302
-longitude: 30.732288
 ---
 
 The largest seaport on the Black Sea, this third largest city in Ukraine with a population of over 1.5 million was founded in 1794. 

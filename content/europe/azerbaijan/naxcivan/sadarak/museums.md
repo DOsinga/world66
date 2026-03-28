@@ -9,8 +9,6 @@ Sadarak museums below.
 
 **Contributors**
 April 18, 2006
-change
-by [azerbaijan08](/member/azerbaijan08) (2 points)
 
 ### [Sadarak museum](/europe/azerbaijan/naxcivan/sadarak/museums/sadarak_museum)
 

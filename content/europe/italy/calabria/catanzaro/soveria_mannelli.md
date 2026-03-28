@@ -1,12 +1,8 @@
 ---
-title: "Soveria Mannelli Travel Guide"
+title: "Soveria Mannelli"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 In the Catazaro area.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 22:34

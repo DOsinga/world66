@@ -9,8 +9,4 @@ The port of Hamburg is the biggest port in the Federal Republic of Germany and t
 
 Hamburg Tourist Board 
 
-Hotline: +49 (0)40 - 300 51 300 
-
-[back to Sights](..)
-
--->
+Hotline: +49 (0)40 - 300 51 300

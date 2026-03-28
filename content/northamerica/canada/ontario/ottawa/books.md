@@ -18,5 +18,3 @@ author: Gerald McKeating
 isbn: 1-55105-129-X
 
 subject: Bird Identification
-
--->

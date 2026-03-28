@@ -1,8 +1,6 @@
 ---
 title: "Colonia tovar"
 type: location
-latitude: 10.408657
-longitude: -67.283695
 ---
 
 Some 60km west of [Caracas](/southamerica/venezuela/caracas) you find the strange mountain town of Colonia Tovar. It was founded in 1843 by German settlers and since that time it was pretty much isolated from the rest of the world. 

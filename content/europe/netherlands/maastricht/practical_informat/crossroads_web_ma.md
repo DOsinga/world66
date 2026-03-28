@@ -17,5 +17,3 @@ type: Tourist information
 url: [crossroadsmag.eu](http://crossroadsmag.eu)
 
 email: crossroads.news@gmail.com
-
-[back to Practical Information](..)

@@ -17,7 +17,5 @@ Fiji company.
 
 **Contributors**
 April 05, 2005
-new
-by [vilpponen](/member/vilpponen) (1 point)
 
 type: By Sea

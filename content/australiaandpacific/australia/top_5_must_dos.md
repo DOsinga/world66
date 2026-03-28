@@ -27,9 +27,5 @@ An open air extraordinary dining experience in Uluru (Ayers Rock) is a must for 
 
 **Contributors**
 April 05, 2010
-new
-by [ashmita](/member/ashmita_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

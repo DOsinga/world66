@@ -10,8 +10,6 @@ Sobrenatural is one of the more popular restaurants in Santa Teresa. Though open
 
 **Contributors**
 January 06, 2009
-new
-by [liamodena](/member/liamodena)
 
 type: Seafood
 
@@ -22,5 +20,3 @@ type: Seafood
 tel: 55 21 2224-1003
 
 address: Rua Almirante Alexandrino 432 Santa Teresa
-
-[back to Eating Out](..)

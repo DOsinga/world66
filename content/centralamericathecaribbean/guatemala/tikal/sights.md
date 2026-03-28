@@ -27,6 +27,4 @@ Facing east, stands 212 feet from the base of the platform supporting its pyrami
 
 **Tikal Museum**
 
-Houses a representative collection of pottery, bone, shell, jade and stone artifacts.   
-
--->
+Houses a representative collection of pottery, bone, shell, jade and stone artifacts.

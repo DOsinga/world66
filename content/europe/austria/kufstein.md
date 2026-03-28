@@ -1,0 +1,4 @@
+---
+title: "Kufstein"
+type: location
+---

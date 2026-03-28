@@ -12,7 +12,5 @@ Huge club 4 floors, 3500 people capacity, laser shows, dancing all night long in
 
 **Contributors**
 January 09, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing

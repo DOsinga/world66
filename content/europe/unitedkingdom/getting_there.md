@@ -42,9 +42,5 @@ much time on the boat.
 
 **Contributors**
 March 10, 2010
-new
-by [amymc](/member/amymc)
 
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

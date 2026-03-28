@@ -10,7 +10,3 @@ address: 209 Central Avenue, Hot Springs, AR 71901
 url: [www.hotspringsusa.com](http://www.hotspringsusa.com/aquarium)
 
 tel: 501-624-3474
-
-[back to Sights](..)
-
--->

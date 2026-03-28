@@ -25,5 +25,3 @@ type: Other
 url: [www.route-66.org](http://www.route-66.org)
 
 email: smcnaul@eee.org
-
-[back to Things to do](..)

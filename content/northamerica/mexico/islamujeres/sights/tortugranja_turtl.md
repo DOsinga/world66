@@ -11,7 +11,5 @@ There is a small admissions booth on the outside, but if it's empty, you can pay
 
 **Contributors**
 February 25, 2005
-change
-by [neilc](/member/neilc)
 
 type: Palaces

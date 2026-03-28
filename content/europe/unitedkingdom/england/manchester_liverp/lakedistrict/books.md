@@ -9,5 +9,3 @@ Wainwright died in 1991 and his ashes were scatered on Haystacks, a favourite mo
 
 **Contributors**
 December 06, 2004
-new
-by [davidx](/member/davidx) (1 point)

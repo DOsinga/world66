@@ -1,0 +1,4 @@
+---
+title: "Tataouine"
+type: location
+---

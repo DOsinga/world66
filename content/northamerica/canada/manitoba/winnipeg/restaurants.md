@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 WinnipegMenu.com provides online menus for some of the more popular Winnipeg restaurants: http://www.WinnipegMenu.com
@@ -41,6 +41,4 @@ These two streets bring together a variety of cultures forming Winnipeg's ethnic
 
 South Pembina .
 
-Pembina Highway from the Perimeter Highway to Grant Avenue was once a fast food wasteland. Recently a variety of specialty restaurants have livened up the mix.  
-
--->
+Pembina Highway from the Perimeter Highway to Grant Avenue was once a fast food wasteland. Recently a variety of specialty restaurants have livened up the mix.

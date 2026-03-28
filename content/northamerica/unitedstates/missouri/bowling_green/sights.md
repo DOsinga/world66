@@ -27,5 +27,3 @@ Bowling Green, MO 63340147
 
 **Contributors**
 April 14, 2004
-new
-by [jimshady](/member/jimshady) (1 point)

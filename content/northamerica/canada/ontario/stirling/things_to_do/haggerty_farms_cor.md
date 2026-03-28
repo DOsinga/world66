@@ -19,10 +19,7 @@ Saturday, Sunday and long weekend Monday's
 
 **10:30 a.m - 5:00 p.m**
 
-*Change history*
-Orginal article by [metallicpeach](/member/metallicpeach) on 03 August 04
-
-Minor corrections by [metallicpeach](/member/metallicpeach) on 03 August 04
+Minor corrections on 03 August 04
 
 PC: http://www.haggertyfarms.com
 

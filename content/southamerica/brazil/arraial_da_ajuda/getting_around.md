@@ -7,5 +7,3 @@ There are many day trips from Arraial and the means of transport vary. You can t
 
 **Contributors**
 November 24, 2005
-new
-by [tull](/member/tull)

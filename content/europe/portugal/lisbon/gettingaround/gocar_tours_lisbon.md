@@ -40,5 +40,3 @@ url: [www.gocartours.pt](http://www.gocartours.pt)
 address: www.gocartours.pt
 
 email: lisbon@gocartours.com
-
-[back to Getting Around](..)

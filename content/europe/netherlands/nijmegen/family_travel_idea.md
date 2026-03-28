@@ -33,9 +33,5 @@ Nijmegen is a nice heritage destination filled with ancient sites and several mu
 
 **Contributors**
 February 07, 2010
-change
-by [sameera kumar](/member/sameera_kumar)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

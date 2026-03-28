@@ -21,5 +21,3 @@ with an ample scattering of fresh dates.
 
 
 date: October
-
-[back to Festivals](..)

@@ -20,5 +20,3 @@ ClosingTime: Late
 url: [www.clubaphro.com](http://www.clubaphro.com)
 
 address: Airport Residental Area
-
-[back to Nightlife and Entertainment](..)

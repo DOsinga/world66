@@ -24,5 +24,3 @@ url: [www.bikeiberia.com](http://www.bikeiberia.com)
 address: Largo Corpo Santo, 5, Baixa
 
 email: office@bikeiberia.com
-
-[back to Day Trips](..)

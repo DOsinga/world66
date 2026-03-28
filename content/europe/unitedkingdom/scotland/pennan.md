@@ -7,5 +7,3 @@ A small village on the Moray Firth coast with a character all of its own. Many o
 
 **Contributors**
 February 19, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)

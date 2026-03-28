@@ -11,8 +11,6 @@ Every July for the past 30 years, thousands of people from around the world have
 
 **Contributors**
 June 08, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 
 
@@ -25,5 +23,3 @@ url: [winnipegfolkfestival.ca](http://winnipegfolkfestival.ca/)
 address: Winnipeg Folk Festival Office, #203-211 Bannatyne Avenue, Winnipeg, MB
 
 email: info@winnipegfolkfestival.ca
-
-[back to Festivals](..)

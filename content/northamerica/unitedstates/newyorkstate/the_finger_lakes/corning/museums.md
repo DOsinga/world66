@@ -11,12 +11,8 @@ Here are a few museums you can visit in Corning.
 
 **Contributors**
 October 20, 2005
-new
-by [laowai](/member/laowai)
 
 September 25, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Rockwell Museum of Western Art](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/museums/rockwell_museum_of)
 

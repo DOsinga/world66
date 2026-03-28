@@ -11,8 +11,6 @@ Museums are a staple of any visit to Washington, DC. Mr. Smithson willed the US 
 
 **Contributors**
 October 15, 2005
-new
-by [patrickneil](/member/patrickneil)
 
 ### [Hirshhorn Museum and Sculpture Garden](/northamerica/unitedstates/washingtondc/museums/hirshhorn_museum_a)
 
@@ -47,9 +45,7 @@ old greats like Lindbergh and Earhart, and newer pieces of aviation
 history like the Voyager plane (first non-stop, non-fueled flight
 around the world in 1986). And don't forget the space program, although
 in its case a lot of the craft you see on display are models- they
-don't always come back to Earth! The Mercury and Gemini [more..](/northamerica/unitedstates/washingtondc/museums/national_air_and_s)
-
-
+don't always come 
 
 [[rate it]](/northamerica/unitedstates/washingtondc/museums/national_air_and_s)
 
@@ -83,17 +79,10 @@ url: [www.nmai.si.edu](http://www.nmai.si.edu/)
 
 address: Fourth Street & Independence Ave.
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

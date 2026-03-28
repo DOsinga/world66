@@ -19,8 +19,6 @@ Water (0.5 liter bottle)……………..…..………...$1
 
 **Contributors**
 July 24, 2008
-change
-by [psychoralu](/member/psychoralu)
 
 type: Tourist information
 
@@ -29,5 +27,3 @@ type: Tourist information
 
 
 url: [www.romaniatours.us](http://www.romaniatours.us)
-
-[back to Practical Information](..)

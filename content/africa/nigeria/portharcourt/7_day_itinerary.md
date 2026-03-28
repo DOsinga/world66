@@ -39,5 +39,3 @@ A trip to Lagos city will round out your itinerary. Lagos is another metropolis 
 
 **Contributors**
 April 06, 2010
-new
-by [turkeyfish](/member/turkeyfish)

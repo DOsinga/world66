@@ -21,5 +21,3 @@ From the center of Porto you may take a bus to Guimarães at Parque da Magauanha
 
 **Contributors**
 March 03, 2006
-new
-by [leegeor](/member/leegeor) (4 points)

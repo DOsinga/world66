@@ -5,10 +5,7 @@ type: section
 
 Philadelphia's restaurant scene was long overshadowed by New York's. However, since the city's "Restaurant Renaissance" in the 1970s, and the influx of immigrants from Asia and Africa it has become home to a number of excellent restaurants. The presence of a large student population in the city also creates a market for a number of cheap, interesting places, especially in University City (home of Drexel University and University of Pennsylvania).
 
-*Change history*
-Orginal article by [askpang](/member/askpang) on 29 April 04
-
-Write up by [askpang](/member/askpang) on 29 April 04
+Write up on 29 April 04
 
 **Restaurants**
 

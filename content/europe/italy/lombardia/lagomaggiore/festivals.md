@@ -50,9 +50,5 @@ Held on October 3 to 10, the Chestnut and Autumn fest is held at the Piazza G Mo
 
 **Contributors**
 February 19, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)
 
 February 23, 2010
-change
-by [ctanios](/member/ctanios)

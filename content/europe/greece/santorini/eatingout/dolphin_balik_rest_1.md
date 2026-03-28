@@ -75,5 +75,3 @@ address: merkez mah. baliklar cad. no:5
 PriceOfMenu: europa
 
 email: backlinktr@hotmail.com
-
-[back to Eating Out](..)

@@ -17,5 +17,3 @@ type: Hotspots
 address: 2101 N Northlake Way
 
 url: [www.cityofseattle.net](http://www.cityofseattle.net/parks/parkspaces/gasworks.htm)
-
-[back to Sights](..)

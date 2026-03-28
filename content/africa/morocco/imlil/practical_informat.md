@@ -6,8 +6,6 @@ email: "trekequipment@gmail.com"
 phone: "06 68 76 01 65"
 type: "Tourist information"
 url: "www.atlastrekshop.co.uk"
-latitude: 31.763789
-longitude: -6.997999
 ---
 
 Hello

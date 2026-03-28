@@ -14,8 +14,6 @@ train rides in the Western Hemisphere and is not to be missed.
 
 **Contributors**
 January 03, 2008
-change
-by [sentias](/member/sentias)
 
 ### [Train Ride](/northamerica/mexico/coppercanyon/sights/train_ride)
 

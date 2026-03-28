@@ -13,8 +13,6 @@ Oh and they are closed on Tuesdays.
 
 **Contributors**
 April 03, 2006
-change
-by [elmaloso](/member/elmaloso) (1 point)
 
 type: International
 
@@ -27,5 +25,3 @@ tel: 999-938-0838
 address: Av. 1 #412 Int 1 x 6A y 8 Col. Diaz Ordaz
 
 PriceOfMenu: up there
-
-[back to Eating Out](..)

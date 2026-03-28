@@ -1,8 +1,6 @@
 ---
 title: "Telemark"
 type: location
-latitude: 59.396268
-longitude: 8.66266
 ---
 
 **Telemark** is one of Norway's foremost vacation areas. Its varied and spectacular scenery mixes well with its sense of fun and enjoyment with something to do for all the family. From theme parks to countryside activities, Telemark has something for everyone, whatever the season. 

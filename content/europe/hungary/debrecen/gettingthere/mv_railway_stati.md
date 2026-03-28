@@ -12,7 +12,5 @@ Ticket Office, Information: Rózsa u. 4.; Phone: (52) 417-934
 
 **Contributors**
 August 20, 2005
-new
-by [arnold_gulyas](/member/arnold_gulyas)
 
 type: By Rail

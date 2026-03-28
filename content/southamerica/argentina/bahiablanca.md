@@ -1,8 +1,6 @@
 ---
 title: "Bahia blanca"
 type: location
-latitude: -38.717652
-longitude: -62.265487
 ---
 
 Bahia Blanca is the second largest seaport in Argentina. 

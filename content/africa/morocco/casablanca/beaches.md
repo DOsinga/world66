@@ -53,5 +53,3 @@ Contributor: Gabrielle Talley
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

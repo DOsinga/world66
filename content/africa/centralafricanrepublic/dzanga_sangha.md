@@ -11,5 +11,3 @@ It has some genuine rainforst and you may spot a lowland gorilla here.
 
 **Contributors**
 April 26, 2005
-new
-by [richardosinga](/member/richardosinga) (1 point)

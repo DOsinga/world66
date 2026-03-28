@@ -16,5 +16,3 @@ address: 27 Sendlinger Street
 url: [www.joobseafood.org](http://www.joobseafood.org)
 
 tel: 49 89 975 - 00
-
--->

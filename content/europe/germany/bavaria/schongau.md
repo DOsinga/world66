@@ -1,0 +1,4 @@
+---
+title: "Schongau"
+type: location
+---

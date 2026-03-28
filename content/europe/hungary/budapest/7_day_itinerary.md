@@ -50,5 +50,3 @@ Budapest is a treasure house of culture and heritage that is waiting to be explo
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)

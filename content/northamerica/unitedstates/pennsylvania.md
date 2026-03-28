@@ -10,14 +10,3 @@ Since Pennsylvania started out as William Penn's 'Holy Experiment', the state ha
  Pennsylvania is also famous as the home of the Pennsylvania Dutch, such as the Amish and Mennonite sects, whose lifestyles have changed little since they settled in the fertile rural areas in the 18th century. 
 
  For the visitor, Pennsylvania's landscape is one of hills, plateaus, ridges, valleys, rivers and lakes, which makes for glorious natural attractions, such as the vast Allegheny National Forest and the Pocono Mountains.
-
-## Destinations
-
-- [Benton](/northamerica/unitedstates/pennsylvania/benton)
-- [Delaware County](/northamerica/unitedstates/pennsylvania/delawarecounty)
-- [Erie](/northamerica/unitedstates/pennsylvania/erie)
-- [Harrisburg](/northamerica/unitedstates/pennsylvania/harrisburg)
-- [Johnstown](/northamerica/unitedstates/pennsylvania/johnstown)
-- [Lancaster County](/northamerica/unitedstates/pennsylvania/lancastercounty)
-- [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia)
-- [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh)

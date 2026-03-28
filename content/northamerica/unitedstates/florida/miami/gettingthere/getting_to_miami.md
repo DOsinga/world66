@@ -22,8 +22,6 @@ Traveling from either airport to your final destination is easy. Taxi cabs are v
 
 **Contributors**
 May 31, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: By Air
 
@@ -32,5 +30,3 @@ type: By Air
 
 
 url: [www.kooloola.com](http://www.kooloola.com/airfares.html)
-
-[back to Getting There](..)

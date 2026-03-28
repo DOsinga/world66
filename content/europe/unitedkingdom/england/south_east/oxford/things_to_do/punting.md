@@ -8,11 +8,5 @@ Punting is a favorite Oxford activity and it really doesn't require *that* much 
 
 **Contributors**
 June 08, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Sailing
-
-
-
-[back to Things to do](..)

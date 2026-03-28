@@ -8,8 +8,3 @@ The small town of Hawes and the village of Gayle are close together at the weste
 Gayle is the home of Wesleydale cheese and the Creamery, where it is made is open to the public. http://www.wensleydale.co.uk/
 
 It's also the home of Gayle Mill, which was a strong contender [finishing third] in the UK television series 'Conservation' in 2004. www.bbc.co.uk/history/ programmes/restoration/profiles/?10
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 14 October 04
-
--->

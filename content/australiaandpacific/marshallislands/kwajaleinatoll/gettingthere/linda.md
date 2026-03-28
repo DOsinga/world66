@@ -10,7 +10,5 @@ You must have written military orders from the U.S. Army to visit Kwajalein. Mos
 
 **Contributors**
 January 16, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air

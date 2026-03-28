@@ -5,8 +5,6 @@ address: "124, haram street, giza, egypt"
 email: "info@middleeastonlinetravel.com"
 phone: "01221354820"
 url: "www.middleeastonlinetravel.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 MS Iberotel Chateau Lafayette Nile Cruise Itinerary:-
@@ -65,5 +63,3 @@ url: [www.middleeastonlinetravel.com](http://www.middleeastonlinetravel.com/Egyp
 address: 124, haram street, giza, egypt
 
 email: info@middleeastonlinetravel.com
-
-[back to Day Trips](..)

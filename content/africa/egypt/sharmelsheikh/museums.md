@@ -22,8 +22,4 @@ their culture. This museum is opened Saturday to Thursday from 9:30 a.m. to
 This monastery is a must do on any list while visiting the Sharm el Sheikh
 area. This site is an official UNESCO World Hertitage Site and the site where
 Moses is supposed to have see the burning bush. The Monastery houses many
-fascinating works of art, some dating back to the 5th and 6th centuries, and
-includes intriguing mosaics, chalices, and church buildings. The monastery is
-located at the foot of Mount Sinai (the site where Moses supposedly received the
-Ten Commandments from God) in Saint Katherine City. This site is not to be
-missed.
+fascinating works of art, some dating

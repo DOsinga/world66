@@ -1,8 +1,6 @@
 ---
 title: "San blas islands"
 type: location
-latitude: 9.585917
-longitude: -78.878829
 ---
 
 The San Blas islands are a bit of unspoilt paradise. The Cuna indians life on these hundreds of tiny islands just off the coast of Panama. They dress just as you would expect with the women wearing the family capital in the form of gold around their neck, in thier ears or in theri nose. 

@@ -28,9 +28,5 @@ Shopping is another luxury you may indulge in when you are in Luanda. The city i
 
 **Contributors**
 February 19, 2010
-change
-by [schitti](/member/schitti)
 
 February 12, 2010
-change
-by [ashmita](/member/ashmita_)

@@ -17,7 +17,7 @@ X-NONE
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 The Festival of the Dhow Countries
 is now the largest annual cultural event in East Africa, and among the eight
@@ -36,5 +36,3 @@ the participation of children and youths.
 
 
 url: [www.ziff.or.tz](http://www.ziff.or.tz)
-
-[back to Festivals](..)

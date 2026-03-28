@@ -15,5 +15,3 @@ type: Greek Music
 address: 14 G. Aggelou st., Charilaou
 
 tel: +30 31 - 321389
-
-[back to Nightlife and Entertainment](..)

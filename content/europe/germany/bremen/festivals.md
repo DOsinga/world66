@@ -27,5 +27,3 @@ Breminale is a culture and arts festival that occurs along the banks of the Wese
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

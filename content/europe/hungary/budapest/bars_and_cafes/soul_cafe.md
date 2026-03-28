@@ -8,13 +8,9 @@ Soul cafe is a great place for a nice afternoon café latte and great cheesecake
 
 **Contributors**
 March 13, 2006
-new
-by [aglaie](/member/aglaie) (2 points)
 
 
 
 
 
 address: Radaj st 11-13
-
-[back to Bars and Cafes](..)

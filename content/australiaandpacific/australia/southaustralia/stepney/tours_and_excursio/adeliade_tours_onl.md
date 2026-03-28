@@ -12,5 +12,3 @@ type: general
 
 
 url: [www.adelaidetoursonline.com](http://www.adelaidetoursonline.com/)
-
-[back to Tours and Excursions](..)

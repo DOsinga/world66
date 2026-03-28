@@ -1,12 +1,8 @@
 ---
-title: "San gil Travel Guide"
+title: "San gil"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Hermosa Ciudad, ubicada en el departamento de Santander, Colombia
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 17:23

@@ -5,7 +5,3 @@ type: "Skiing"
 ---
 
 type: Skiing
-
-
-
-[back to Things to do](..)

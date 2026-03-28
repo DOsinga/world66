@@ -15,8 +15,6 @@ Also to get out (Belem, Obidos, Tabatinga ...) the boat transport is better and 
 
 **Contributors**
 June 15, 2006
-change
-by [paulheinrich](/member/paulheinrich)
 
 
 
@@ -29,5 +27,3 @@ url: [members.virtualtourist.com](http://members.virtualtourist.com/vt/lm/1ddc/?
 address: Rua dos Andradas 454, first floor Manaus
 
 email: eco-discovery@bol.com.br
-
-[back to Getting Around](..)

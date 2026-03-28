@@ -1,8 +1,6 @@
 ---
 title: "Noia"
 type: location
-latitude: 42.785076
-longitude: -8.887738
 ---
 
 The holiday town of Noia is located at the foot of the Muros bay in the
@@ -23,7 +21,4 @@ Over recent years foreign visitors have started to frequent Galicia,
 exploring its scenic countryside and visiting cities like Santiago de
 Compostela and Galicia’s other towns and villages.
 
-**Change history**
-Orginal article by [davidx](/member/davidx) on 26 October 04
-
-Minor corrections by [giorgio](/member/giorgio) on 22 March 05
+Minor corrections on 22 March 05

@@ -1,9 +1,9 @@
 ---
-title: "Truckee Travel Guide"
+title: "Truckee"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 In
 Truckee, 1893 meets 2008 in a historically rich mountain town, where innovative
@@ -18,9 +18,3 @@ business prospect realized. In a life beautifully redirected. Truckee is adventu
 discovered: so
 
 far from everything that you know, so close to everything that you want.
-
-*Part or or all of this text stems from the original article at: Truckee Chamber of Commerce*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 16:54

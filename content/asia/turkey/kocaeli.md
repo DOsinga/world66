@@ -1,0 +1,4 @@
+---
+title: "Kocaeli"
+type: location
+---

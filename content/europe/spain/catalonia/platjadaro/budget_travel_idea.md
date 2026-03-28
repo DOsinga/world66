@@ -78,9 +78,5 @@ gentle slopes, making it ideal for cyclists of all ages.
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 12, 2010
-change
-by [miss_frenchye](/member/miss_frenchye)

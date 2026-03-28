@@ -7,5 +7,3 @@ The church village Nordingrå and its surroundings are particularly famous for i
 
 **Contributors**
 August 07, 2005
-change
-by [ingvar](/member/ingvar)

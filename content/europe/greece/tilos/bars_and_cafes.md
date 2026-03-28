@@ -71,9 +71,4 @@ Snack Bar Telephone: +30-224-604-4298
 
 **Konstantinos Mentzelopoulos**
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 20 October 04
-
-Minor corrections by [Skipper](/member/skipper) on 20 October 04
-
--->
+Minor corrections on 20 October 04

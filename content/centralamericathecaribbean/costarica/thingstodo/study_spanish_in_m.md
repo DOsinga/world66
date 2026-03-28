@@ -7,8 +7,6 @@ email: "escuela@elparaisoschool.com"
 phone: "506-887-9310"
 type: "Going to the Beach"
 url: "www.elparaisoschool.com"
-latitude: 9.403702
-longitude: -84.154113
 ---
 
 **EL Paraiso Spanish School **We are a school of Spanish immersion, located in Manuel Antonio, Costa Rica and also in the beautiful islands of Bocas Del Toro , Panama .
@@ -29,5 +27,3 @@ url: [www.elparaisoschool.com](http://www.elparaisoschool.com/)
 address: Km 1, via Manuel Antonio
 
 email: escuela@elparaisoschool.com
-
-[back to Things to do](..)

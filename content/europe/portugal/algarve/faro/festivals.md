@@ -25,9 +25,5 @@ Any of these diverse events in the city make a great time to visit Faro. You wil
 
 **Contributors**
 February 03, 2010
-new
-by [kat99](/member/kat99)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

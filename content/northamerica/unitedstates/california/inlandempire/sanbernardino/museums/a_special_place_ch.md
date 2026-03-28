@@ -4,8 +4,6 @@ type: poi
 address: "1003 East Highland Avenue, San Bernardino"
 opening_hours: "10:00 AM- 4:00PM"
 phone: "909-881-6514"
-latitude: 34.135813
-longitude: -117.266153
 ---
 
 Days/Hours of operation:CLOSED Mondays and Sundays. Tuesday to Friday: 10:00 AM - 4:00 PM. Saturday: 11:00 am- 4:00PM. General Admission: $5.00. Children under 3 yrs old: FREE. Seniors: $3.75
@@ -29,5 +27,3 @@ tel: 909-881-6514
 openingHours: 10:00 AM- 4:00PM
 
 address: 1003 East Highland Avenue, San Bernardino
-
-[back to Museums](..)

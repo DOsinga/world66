@@ -63,5 +63,3 @@ Brienz. It is well known for its restaurants and fresh fish.
 
 **Contributors**
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

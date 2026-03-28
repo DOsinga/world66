@@ -38,17 +38,4 @@ Copacabana and Ipanema beaches. **
 **Curitiba**
 
 This city
-with European roots dating back to 1669 is a major player in the
-country's electronic and manufacturing industry, as well as the imports
-of Brazil nuts. It is a nice city to visit, as there is a strong
-emphasis here on urban planning as evidenced through the impressive selection of parks and gardens. Plant lovers must tour the
-Jarmin Botanico to experience this incredible garden, within a two-floor
-greenhouse styled to look like a castle. There is also a notable train
-trip here that lasts for 3 hours and travels through tunnels and over
-bridges for an off-the-beaten-path look at the waterfalls, streams and
-vegetation of the area.
-
-When the pavement of Sao Paulo becomes
-too much, escape to any of these neighboring communities for a
-refreshing look at some picturesque areas of the country and you will
-be glad you did.
+with European roots dating

@@ -1,0 +1,4 @@
+---
+title: "Mossaka"
+type: location
+---

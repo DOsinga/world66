@@ -1,8 +1,6 @@
 ---
 title: "Industrial"
 type: poi
-latitude: 38.751501
-longitude: -9.341914
 ---
 
 **Sights**

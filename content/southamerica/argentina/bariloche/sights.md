@@ -16,5 +16,3 @@ Built in 1946, under the name Nuestra Señora del Nahuel Huapi -Our Lady of Nahu
 **Patagonia Museum "Francisco P. Moreno"**
 
 Inaugurated by Parques Nacionales in 1940, the museum is located at the east end of the Centro Cívico. It was named after Francisco P. Moreno, who explored the Andes and Patagonian rivers, and donated to the government the lands which were to become Argentina's first National Park (see informat [more..](/southamerica/argentina/bariloche/sights/patagoniamuseumfranciscopmoreno)
-
--->

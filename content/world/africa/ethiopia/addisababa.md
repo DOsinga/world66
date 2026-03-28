@@ -1,8 +1,0 @@
----
-title: "Addis ababa"
-type: location
-latitude: 9.035829
-longitude: 38.752413
----
-
-Near the center of the country at an elevation of 7 600 ft/2 500 m capital city Addis Ababa (pop. 1 739 000) sits in a narrow valley in the shadow of impressive Mt. Entotto. Founded in 1880 Addis, which means "New Flower" in the the native language of amharic, is a fairly new city whose impressive monuments of colonial architecture are dispersed amid stretches of sun-bleached shacks and empty lots. The smoky pine-covered hills surrounding Addis add to the enjoyment of walking the city streets especially in the evening or early morning. While there see the Emperor’s Palace and the Imperial Zoo (when we were last there they allowed visitors to pet the cheetahs). Other sights include the Menelik II Mausoleum located in a cellar under a small church on a hill overlooking the city—a priest will open the church for you Africa Hall (a convention hall with beautiful stained glass made by the famous ethioian artist, Afowerk tekle) Lion Park the Ethiopian Museum (archaeological displays) the Great Mosque the Lion of Judah statue and the octagonal Church of St. George (built in 1896—try to attend a service to hear the incredible chanting and music of the orthodox christians as they praise the lord in the ancient language of Geez). The mercato a colorful 10-sq-mi/26-sq-km open market offers everything from food to paintings of biblical scenes. Check with local advisers before you go however as violent clashes between rival Muslim leaders in the area of the mercato have been reported. Several day trips are possible.

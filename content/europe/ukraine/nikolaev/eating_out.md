@@ -27,5 +27,3 @@ This restaurant is found in a cinema that allows guests to sip on coffee or tea 
 
 **Contributors**
 February 26, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -12,8 +12,6 @@ There are, however, alternatives.
 
 **Contributors**
 June 29, 2005
-new
-by [gagarin](/member/gagarin)
 
 ### [Taxi tarifas](/europe/portugal/theazores/so_miguel/ponta_delgada/getting_around/taxi)
 

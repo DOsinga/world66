@@ -5,8 +5,6 @@ address: "Moscow region"
 email: "borodino@borodino.ru"
 phone: "(49638) 63223"
 url: "www.borodino.ru"
-latitude: 10.432732
-longitude: 45.010481
 ---
 
 State Borodino War and History Museum and Reserve is located 120 km west of Moscow. It was founded in 1839 at the site of the great Battle of Borodino and it’s the world’s oldest museum established on a battlefield.
@@ -46,8 +44,6 @@ The main historical element of the museum is the Borodino fields. The historic l
 
 **Contributors**
 July 16, 2006
-new
-by [svetico](/member/svetico) (4 points)
 
 
 
@@ -58,5 +54,3 @@ url: [www.borodino.ru](http://www.borodino.ru)
 address: Moscow region
 
 email:
-
-[back to Day Trips](..)

@@ -16,3 +16,5 @@ Khan&rsquo;s Club is rated as one of the 10 best restaurants in Pakistan and is 
 **Pearl Continental Hotel**
 
 The Pearl Continental is a western hotel near the center of the city. The location of this hotel is great for people who spend the day exploring and want a quiet place to spend the evening. There are several restaurants in this hotel that provide live music for customers. There are number of different foods featured from local to western dishes. Visitors can also use the pool at night. With 24-hour security, people feel right home in this small piece of the city. The gazebo is a nice way to enjoy watching Peshawar. The bar invites travelers to come down and socialize. For people craving romantic night, the hotel offers a nice way for them enjoy it without having to join a group. It has been recommended that visitors go out in groups and that single people and couples are more vulnerable.
+
+Keep em coming you all do such a great job at such Concepts can't tell you how much I, for one apterciape all you do!

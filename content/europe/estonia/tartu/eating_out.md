@@ -7,5 +7,3 @@ Caffe Truffe in Raekoja Plats is cozy and smokefree caffeplace in Tartu . The be
 
 **Contributors**
 May 03, 2006
-change
-by [giorgio](/member/giorgio)

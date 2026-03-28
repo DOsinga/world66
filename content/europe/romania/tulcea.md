@@ -1,8 +1,6 @@
 ---
 title: "Tulcea"
 type: location
-latitude: 45.177518
-longitude: 28.801635
 ---
 
 We currently have no information about Tulcea.

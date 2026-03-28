@@ -27,24 +27,6 @@ Caravanserai (Tbilisi History Museum): The Museum collection contains unique obj
 
 The Bridge of Peace is the modern architectural glassy bridge in Old Town.
 
-Anchiskhati Basilica 6th c is one of the oldest churches of Tbilisi. The first foundation dates back to 4th c and is associated with the adoption of Christianity in Georgia.
-
-Mtatsminda: “The Holy Mountain” is at the altitude of 729 m above the sea level, with a leading position over the city. Near the Saint David’s church there is a pantheon of famous Georgian public figures. Above the Holy Mtatsminda mountain there is a park overlooking the city, with nice attractions for children, and different types of restaurants for adults. There is special tram that drives passengers to the park.
-
-New City sightseeing tour: Freedom square, Rustaveli Avenue, Parliament, Hero Square, Tbilisi State University, Turtle lake, Ethnographical museum.
-Tour price: 95 EUR per person. Minimum group size: 2 pax. Discounts are available for bigger groups.
-To book a tour, contact us via e-mail or visit our web site.
-
-
-
-
-
-tel: +995322184539
-
-url: [georgianholidays.com](http://georgianholidays.com/)
-
-address: 116 Tsereteli str. Tbilisi, Georgia
+Anchiskhati Basilica 6th c is one of the oldest churches of Tbilisi. The first foundation dates address: 116 Tsereteli str. Tbilisi, Georgia
 
 email: tours@georgianholidays.com
-
-[back to Day Trips](..)

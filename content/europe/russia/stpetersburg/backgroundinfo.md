@@ -10,5 +10,3 @@ This section is dedicated to giving you background information about St. Petersb
 We currently have no Background Info listed in St Petersburg.
 
 If you do know any Background Info in St Petersburg, please [Add].
-
--->

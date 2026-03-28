@@ -9,9 +9,4 @@ From here, taxis will be easy to find (indeed, they will find you), but some cau
 
 The journey should take around 15-25 minutes if going to Miraflores (depending on the speed of your driver, which may vary substantially) - subtract or add around 5 minutes for Lima Centro or Barranco respectively.
 
-*Change history*
-Orginal article by [Puggers](/member/puggers) on 16 November 04
-
 address: Avenida Elmer Faucett
-
--->

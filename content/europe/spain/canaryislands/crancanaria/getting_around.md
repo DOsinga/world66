@@ -7,9 +7,6 @@ Buses runs frequently around the island, connecting the tourist resorts on the s
 
 Going by taxi is relatively cheap.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
 **all**
 
 **Global Salcai Utinsa **
@@ -19,5 +16,3 @@ Buses are cheap, but information on where they go are somewhat tricky to find, a
 url: [www.globalsu.net](http://www.globalsu.net/es/index.htm)
 
 tel: 902 38 11 10
-
--->

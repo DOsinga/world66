@@ -18,5 +18,3 @@ url: [www.pearlgardensbeach.com](http://www.pearlgardensbeach.com)
 address: Shri Ganesh Plaza,Entebbe Road,Level 4 Suite 27
 
 email: info@pearlgardensbeach.com
-
-[back to Beaches](..)

@@ -12,5 +12,3 @@ type: Tourist information
 
 
 url: [www.familylifestylecard.com](http://www.familylifestylecard.com)
-
-[back to Practical Information](..)

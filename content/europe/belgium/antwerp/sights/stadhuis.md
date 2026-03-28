@@ -1,8 +1,6 @@
 ---
 title: "Stadhuis"
 type: poi
-latitude: 51.323188
-longitude: 4.947483
 ---
 
 Located in Grote Markt , the Stadhuis is Antwerpen Town Hall.

@@ -1,8 +1,6 @@
 ---
 title: "Tlaxcala"
 type: location
-latitude: 19.416667
-longitude: -98.166667
 ---
 
 f

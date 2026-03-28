@@ -20,7 +20,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Type**: Private **Alexandria** tour
 
@@ -47,7 +47,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 In the morning
 we will greet You and pick you up from your hotel in Cairo by our REP and
@@ -100,5 +100,3 @@ url: [www.albaraagroup.com](http://www.albaraagroup.com/Egypt/Excursions/Caire-S
 address: Hurghdad, Egypt
 
 email: magdy@egypttravelhotdeals.com
-
-[back to Day Trips](..)

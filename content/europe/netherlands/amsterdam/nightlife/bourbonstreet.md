@@ -5,8 +5,6 @@ address: "Leidsekruisstr 6"
 phone: "+31 (0)20 623 3440"
 type: "Clubs and dancing"
 zipcode: "1017RH  Amsterdam"
-latitude: 52.363878
-longitude: 4.88535
 ---
 
 When all bars are closed, go to Bourbonstreet, always live music!
@@ -24,5 +22,3 @@ address: Leidsekruisstr 6
 tel: +31 (0)20 623 3440
 
 zipcode: 1017RH Amsterdam
-
-[back to Nightlife and Entertainment](..)

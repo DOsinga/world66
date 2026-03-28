@@ -22,5 +22,3 @@ url: [www.zenithecuador.com](http://www.zenithecuador.com/)
 address: Juan Leon Mera 453 y Roca, Edif. Chiriboga #202
 
 email: info@zenithecuador.com
-
-[back to Tours and Excursions](..)

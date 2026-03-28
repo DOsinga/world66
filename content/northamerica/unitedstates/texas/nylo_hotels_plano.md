@@ -1,9 +1,9 @@
 ---
-title: "NYLO HOTELS Plano Travel Guide"
+title: "NYLO HOTELS Plano"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **
 Hotel Name:**
@@ -27,7 +27,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Title:** Plano Texas Hotel - TX Boutique Lodging
 
@@ -43,9 +43,3 @@ Address**:
 
 **Email
 : info@nylohotels.com**
-
-*Part or or all of this text stems from the original article at: NYLO Plano at Legacy - Business Hotel Meets Chic in Texas*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 22:43

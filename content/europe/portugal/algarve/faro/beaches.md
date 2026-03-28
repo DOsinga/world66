@@ -49,9 +49,5 @@ to simply relax and soak up some sun.
 
 **Contributors**
 January 28, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)
 
 February 02, 2010
-change
-by [schitti](/member/schitti)

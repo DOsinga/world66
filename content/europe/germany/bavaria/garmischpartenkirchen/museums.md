@@ -26,5 +26,4 @@ on display.
 **Aschenbrenner Museum**
 
 Another unique museum is the Aschenbrenner Museum, a two-story building that houses a different and unique aspect of this
-geographic area. Specifically, one of the exhibits is a doll collection of both German and French culture. These dolls date back to the
-nineteenth and twentieth centuries. Another exhibit hall displays a number of nativity scenes that were created by a local artist.
+geographic area. Specifically, one of the exhibits is a doll collection of both German and French culture. These dolls date

@@ -39,14 +39,9 @@ lots on the mainland. Public transport, however, is well organised and
 you will probably not regret the 'rent-a-bike' option for these two
 islands.
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 10 January 05
+Write up on 24 February 05
 
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 24 February 05
-
-Write up by [HollandTraveler](/member/hollandtraveler) on 24 February 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 13 March 05
+Minor corrections on 13 March 05
 
 ### [Ferry crossings
 

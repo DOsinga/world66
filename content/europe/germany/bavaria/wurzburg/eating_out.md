@@ -14,5 +14,3 @@ address: Fränkischer Weinbauverband, Kranenkai 1
 tel: +49 (0)931 - 39 01 10
 
 openings: Mon - Fri 10am - 6pm, Sat till 1pm.
-
--->

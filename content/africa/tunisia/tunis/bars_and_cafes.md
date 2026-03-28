@@ -23,9 +23,5 @@ Baraka Cafe
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 18, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

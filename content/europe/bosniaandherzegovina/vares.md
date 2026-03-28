@@ -1,0 +1,4 @@
+---
+title: "Vares"
+type: location
+---

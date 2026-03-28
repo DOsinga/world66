@@ -21,5 +21,3 @@ url: [www.neotropical.se](http://www.neotropical.se)
 address: Calle 21 3-88 Centro
 
 email: elsaligia@hotmail.com
-
-[back to Things to do](..)

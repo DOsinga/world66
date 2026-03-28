@@ -1,0 +1,4 @@
+---
+title: "Roeselare"
+type: location
+---

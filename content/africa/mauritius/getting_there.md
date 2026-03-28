@@ -22,9 +22,3 @@ MRs300. Passengers transiting within 48 hours and children under two years of ag
 Sea:
 
 Port Louis is the main port. It is primarily commercial but there is a limited passenger service to R&eacute;union and Rodrigues Island.
-
-
-
-## Subsections
-
-[By Air](/africa/mauritius/gettingthere/byair)

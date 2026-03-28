@@ -1,0 +1,4 @@
+---
+title: "Monaghan"
+type: location
+---

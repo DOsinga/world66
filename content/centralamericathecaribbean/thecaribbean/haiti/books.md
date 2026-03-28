@@ -31,7 +31,7 @@ subject: travel
 
 **The Serpent and the Rainbow**
 
-** casey:** mixes good information and a sense of haiti with the author's apparent arrogance (in places) and leaves me feeling like i have a sense about zombies and their place in haitian society, but not sure entirely i can trust that sense. worth reading. not sensational, as [more..](/centralamericathecaribbean/thecaribbean/haiti/books/theserpentandtherainbow)
+** casey:** mixes good information and a sense of haiti with the author's apparent arrogance (in places) and leaves me feeling like i have a sense about zombies and their place in haitian society, but not sure entirely i can trust that sense. worth reading. not sensational, as [more..](/centralamericathecaribbean/haiti/books/theserpentandtherainbow)
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/0684839296/ref=ase_osingacom?v=glance&s=books)
 

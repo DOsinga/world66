@@ -26,5 +26,3 @@ inspired.
 url: [www.museumsportal-berlin.de](http://www.museumsportal-berlin.de)
 
 email:
-
-[back to Museums](..)

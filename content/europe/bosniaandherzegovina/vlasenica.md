@@ -1,9 +1,9 @@
 ---
-title: "Vlasenica Travel Guide"
+title: "Vlasenica"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Vlasenica is a municipality and town in the northeastern part of Bosnia and Herzegovina. It is in the Vlasenica Region.
 It got its name from a locag type of grss, that only grows in this region, called "Birac".
@@ -20,7 +20,3 @@ the was to injos the snow and ski. Surounding Rivers are also
 a great plate to go fishing, like Slapovi - Tisca, Kuslat -Drina and such.
 
 Down town market is the place to visit for some shopping experiance. And newly rebuilt "Hajrija" Mosque is a site to visit. Fun swimming can be exploted in the local lake "Jezero".
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 05:14

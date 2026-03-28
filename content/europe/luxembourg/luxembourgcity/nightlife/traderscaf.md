@@ -17,5 +17,3 @@ type: Casinos
 address: 9, rue Bisserwée
 
 tel: +352 - 26200415
-
-[back to Nightlife and Entertainment](..)

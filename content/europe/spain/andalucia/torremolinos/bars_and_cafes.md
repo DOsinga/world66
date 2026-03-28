@@ -29,5 +29,3 @@ This is a very gay friendly area in the center of the town and as such plays hos
 
 **Contributors**
 November 16, 2009
-new
-by [nicola76](/member/nicola76)

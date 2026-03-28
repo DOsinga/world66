@@ -9,5 +9,3 @@ The nicest "posadas" are Txuchiclan, Posada Choronì, Casagrande, Pittier, while
 
 **Contributors**
 June 24, 2005
-change
-by [giorgio](/member/giorgio)

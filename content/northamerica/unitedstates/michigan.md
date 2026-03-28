@@ -8,14 +8,3 @@ Michigan is the only state that borders on four of the five Great Lakes. The sta
  On the shores of the great lakes you find many attractions: [Apostle Islands](/northamerica/unitedstates/michigan/apostleislands), [Pictured Rock](/northamerica/unitedstates/michigan/picturedrock), [Sleeping Bear](/northamerica/unitedstates/michigan/sleepingbear), Isle Royal are all national lakeshores.
 
  [Lansing](/northamerica/unitedstates/michigan/lansing) is the capital of Michigan but [Detroit](/northamerica/unitedstates/michigan/detroit) is the biggest city. Detroit is the car capital of the world. The Sloan Museum, the Henry Ford museum, and the Automotive Hall of Fame celebrate this role.
-
-## Destinations
-
-- [Apostle Islands](/northamerica/unitedstates/michigan/apostleislands)
-- [Detroit](/northamerica/unitedstates/michigan/detroit)
-- [Flint](/northamerica/unitedstates/michigan/flint)
-- [Grand Rapids](/northamerica/unitedstates/michigan/grandrapids)
-- [Kalamazoo](/northamerica/unitedstates/michigan/kalamazoo)
-- [Lansing](/northamerica/unitedstates/michigan/lansing)
-- [Pictured Rock](/northamerica/unitedstates/michigan/picturedrock)
-- [Sleeping Bear](/northamerica/unitedstates/michigan/sleepingbear)

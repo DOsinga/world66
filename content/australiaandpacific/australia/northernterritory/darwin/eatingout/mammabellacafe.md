@@ -15,5 +15,3 @@ type: Italian
 address: Shop 10 Galleria Smith Street Mall Darwin
 
 tel: +61 8 8941 0218
-
-[back to Eating Out](..)

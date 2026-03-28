@@ -23,8 +23,6 @@ All the avenue is well served with buses and a subway (metro) line that runs the
 
 **Contributors**
 May 26, 2006
-change
-by [roberto alamino](/member/roberto_alamino) (1 point)
 
 type: Hotspots
 
@@ -35,5 +33,3 @@ type: Hotspots
 accessibility: bus, subway
 
 address: Avenida Paulista
-
-[back to Sights](..)

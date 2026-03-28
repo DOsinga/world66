@@ -29,5 +29,3 @@ Rimini basks in the distinction of being 1 of the trendiest spots in Italy and f
 
 **Contributors**
 February 08, 2010
-new
-by [sameera kumar](/member/sameera_kumar)

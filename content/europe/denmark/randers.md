@@ -1,0 +1,4 @@
+---
+title: "Randers"
+type: location
+---

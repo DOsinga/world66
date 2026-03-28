@@ -9,9 +9,4 @@ There are in the area of 25.000 creatures in the aquarium, fish and mammals, sha
 
 There are other features of interest in the Expo area, the Park of the Nations, including a cable car to Lisbon's tallest building. Apparently this was mainly wasteland prior to the Expo!
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 14 November 04
-
 url: [www.geocities.com](http://www.geocities.com/discoveringportugal/parquedasnacoes.html#OCEANARIUM)
-
--->

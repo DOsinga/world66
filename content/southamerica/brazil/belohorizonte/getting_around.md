@@ -38,8 +38,6 @@ large distances and avoiding the massive traffic during rush hours.
 
 **Contributors**
 December 26, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 ### [Wikus Snijman](/southamerica/brazil/belohorizonte/getting_around/wikus_snijman)
 

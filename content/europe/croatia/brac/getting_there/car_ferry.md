@@ -20,5 +20,3 @@ for winter 2003-2004, the ferry leaves Split daily at
 18:00 
 
 20:30
-
--->

@@ -8,13 +8,9 @@ In the past few years budget airlines have become extremely popular and the flig
 
 **Contributors**
 April 01, 2005
-new
-by [miromi](/member/miromi)
 
 
 
 
 
 url: [www.whichbudget.com](http://www.whichbudget.com/en/#from6)
-
-[back to Getting Around](..)

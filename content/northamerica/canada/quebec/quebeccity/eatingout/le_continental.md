@@ -3,8 +3,6 @@ title: "Le Continental"
 type: poi
 address: "26 St.-Charles"
 type: "French"
-latitude: 38.767524
-longitude: -90.511684
 ---
 
 Outstanding restaurant in every way. The decor is elegant but not "posh". Service is up to par.
@@ -24,5 +22,3 @@ type: French
 
 
 address: 26 St.-Charles
-
-[back to Eating Out](..)

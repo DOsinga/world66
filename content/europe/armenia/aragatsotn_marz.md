@@ -1,9 +1,9 @@
 ---
-title: "Aragatsotn Marz Travel Guide"
+title: "Aragatsotn Marz"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Aragatsotn Marz consists of the huge volcanic shield of Mt. Aragats,
 formerly Alagyaz, whose main cone rises 4090 meters above sea level.
@@ -66,10 +66,4 @@ The only major city in the region, this historic town is home to 3 churches stan
 
 **Saghmosavank Monastery** - Also on the edge of the large Kasagh river gorge, across from Mt. Ara, Saghmosavank is a photogenic monastery with lots of interesting details. The bell towers, khachkars, ceiling patterns and frescoes are all fun to explore.
 
-**Kasagh Basilica** -Worth a quick stop on a trip to Vanadzor, this small old black basilica dates way back to the 5th century. Even today you can see how the tall interior inspired people 1,5000 years ago, and the other details from that era are also interesting.
-
-*Part or or all of this text stems from the original article at: Raffi Kojian (me!)*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 08:09
+**Kasagh Basilica** -Worth a quick stop on a trip to Vanadzor, this small old black basilica dates way

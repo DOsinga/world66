@@ -13,9 +13,3 @@ type: "City views"
  The Triumphal Staff of the General Staff The St. Peter Church (Lutheran) The House of Books Monument to Pushkin The Opera and Ballet theatre (named after Mussorgsky) The Mikhajlovskiy Palace The Temple of Christ's resurrection The Russian Ethnographical Museum The St. Ekaterina Church Armenian Church The Sheremetevskiy Palace The State Circus The Mikhaylovsky Castle The Stroganovskiy Palace The Cathedral of the Icon of Our Lord of Kazan The Duma The Bolshoy Gostiny Dvor The State Public Library (named after Saltykov-Shchedrin) The Alexandrinskiy theatre The Ekaterininskiy Public Garden Monument of Ekaterina II The Anichkov Palace The Zodchego Rossi Ulitsa. The Beloselskikh-Beloserskikh Palace The Anichkov bridge Simeona and the Anny Church The Spaso-Preobrazhenskiy Cathedral The Vladimirskaya Church Dostoevsky Memorial Museum Monument of Dostoevsky The Sheremetjevskiy Palace Monument of A.S Pushkin The Moskovskiy Railway station The Alexander Nevskiy Lavra (and its ensembles)
 
 type: City views
-
-
-
-
-
-[back to Sights](..)

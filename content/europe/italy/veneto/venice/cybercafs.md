@@ -17,7 +17,7 @@ email: info@nethousecafes.com
 
 address: Campo S.Stefano (2 min. from Accademia. San Marco)
 
-url: [www.nethousecafes.com](http://www.nethousecafes.com)
+url: [http://www.nethousecafes.com](http://www.nethousecafes.com)
 
 tel: +39 (0)41 â€“ 2771190
 
@@ -29,7 +29,7 @@ email: info@thenetgate.it
 
 address: Dorsoduro 3812/a Ca' Foscari near Campo S.Rocco
 
-url: [www.thenetgate.it](http://www.thenetgate.it)
+url: [http://www.thenetgate.it](http://www.thenetgate.it)
 
 tel: +39 (0)41 2347967
 
@@ -62,7 +62,7 @@ VI
 
 Fast DSL connection. 4 computers with 17
 
-bookingurl: [www.cafe-venice.com](http://www.cafe-venice.com)
+bookingurl: [http://www.cafe-venice.com](http://www.cafe-venice.com)
 
 fax: 941-408-8546
 
@@ -115,7 +115,7 @@ UD
 
 **Net House Internet Cafes**
 
-bookingurl: [www.nethousecafes.com](http://www.nethousecafes.com)
+bookingurl: [http://www.nethousecafes.com](http://www.nethousecafes.com)
 
 address: La Fontana
 Velletri (RM)
@@ -132,7 +132,7 @@ address: Lignano Sabbiadoro C. Alisei 17
 
 1 Mac available, free coffee
 
-bookingurl: [www.marconinet.it/jesolo/NetPointMorena/](http://www.marconinet.it/jesolo/NetPointMorena/)
+bookingurl: [http://www.marconinet.it/jesolo/NetPointMorena/](http://www.marconinet.it/jesolo/NetPointMorena/)
 
 fax: 421
 

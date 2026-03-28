@@ -15,5 +15,3 @@ and its inhabitating creatures photographed in their natural environment...
 author: Achim Nimmerfroh
 
 isbn: 978-3-925919-82-4
-
-[back to Books](..)

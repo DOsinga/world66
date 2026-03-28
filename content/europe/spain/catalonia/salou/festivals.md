@@ -53,5 +53,3 @@ You can cheer the dancers entered in the Spanish Professional Ballroom Dancing T
 
 **Contributors**
 February 15, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)

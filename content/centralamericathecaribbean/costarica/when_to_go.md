@@ -44,5 +44,3 @@ Flash floodings can happen without a warning, so it's better to play it safe. We
 
 **Contributors**
 August 28, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

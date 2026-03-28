@@ -1,8 +1,6 @@
 ---
 title: "Rail Travel"
 type: poi
-latitude: 49.510673
-longitude: -115.774115
 ---
 
 More than 100 years ago construction of the Canadian Pacific Railway
@@ -33,9 +31,3 @@ two-day, daylight only tourist train service between *Vancouver* and *Banff/Calg
 
 **Contributors**
 December 13, 2005
-change
-by [rockiesman](/member/rockiesman)
-
-
-
-[back to Getting Around](..)

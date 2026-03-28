@@ -17,8 +17,6 @@ The premier shopping in the region and perhaps the entire Midwest outside of Chi
 
 **Contributors**
 April 05, 2006
-change
-by [vulpster03](/member/vulpster03) (4 points)
 
 ### Display all
 or display just:

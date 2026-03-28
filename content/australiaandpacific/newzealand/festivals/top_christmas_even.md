@@ -12,8 +12,6 @@ The five Christmas celebrations this year in Auckland include the Farmers Santa 
 
 **Contributors**
 November 22, 2006
-new
-by [nztraveller](/member/nztraveller) (1 point)
 
 
 
@@ -24,5 +22,3 @@ url: [www.no1guide.co.nz](http://www.no1guide.co.nz/)
 date: 22nd Novemeber 2006
 
 email:
-
-[back to Festivals](..)

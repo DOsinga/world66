@@ -24,3 +24,17 @@ The Horse and Cattle Show Festival is held in Dera Ismail Khan near the city. Th
 #### Basant Festival
 
 The Basant festival is called the festival of the kites and was started in India. It has been dubbed an Indian hobby, buy many of the cities now celebrate the festival by flying kites of all colors in the sky. The festival is held in the spring, and everyone in the city can go out and enjoy the kites flown throughout the city. This is one of the Peshawar festivals you may want to check out and enjoy for the many beautiful kites to see from any of the areas of the town.
+
+cultural festivals
+
+### [Naveed Shahzad](/asia/pakistan/peshawar/festivals/naveed_shahzad)
+
+There is no specific Festival but only The Islamic Eid Festival of EidUl Fitr and Eid Ul Azha with Eid MiladunnBi .They come with the lunar calendar not with the english calendar *** *** i.e. each year the festival comes 10 to 12 days before as from last year. Moreover the local industrial shows and some circus shows twice or thrice a year are common. The People of Peshawar are religious, hospitable and caring.
+
+
+
+tel: 03065911044
+
+address: Alhafuf
+
+email: naveed.pasdec@gmail.com

@@ -12,12 +12,8 @@ The S.A.B. bus company connects many locations outside the town of Bergamo and g
 
 **Contributors**
 July 06, 2005
-change
-by [karenbru](/member/karenbru) (1 point)
 
 July 06, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 type: By Road
 
@@ -32,5 +28,3 @@ url: [www.sab-autoservizi.it](http://www.sab-autoservizi.it)
 address: Stazione S.A.B., Piazza Marconi 4, 24122 Bergamo
 
 email: sab@sab-autoservizi.it
-
-[back to Getting There](..)

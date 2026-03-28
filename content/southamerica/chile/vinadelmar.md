@@ -1,8 +1,6 @@
 ---
 title: "Vina del mar"
 type: location
-latitude: -33.024453
-longitude: -71.551764
 ---
 
 Viña, as it is usually called, is loved by Chileans but often loathed by foreigners. The town has a lot of newness and cleanness but almost no personality. It resembles some retirement town on the south coast of England but with more sunshine. 

@@ -22,9 +22,3 @@ US$40 or equivalent payable in hard currency. Children under 12 years of age are
 Sea
 
 Cruise and cargo ships call at Mah&eacute; but there are no scheduled services.
-
-
-
-## Subsections
-
-[By Air](/africa/seychelles/gettingthere/byair)

@@ -1,0 +1,4 @@
+---
+title: "Conway"
+type: location
+---

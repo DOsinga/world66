@@ -1,8 +1,6 @@
 ---
 title: "Murmansk"
 type: location
-latitude: 68.970665
-longitude: 33.07497
 ---
 
 **Murmansk** known as Romanov-on-Murman at the date of its foundation September 21, 1916 is the centre of Murmansk region and the largest Russian seaport on the Arctic Ocean. The city was named after the Russian Royal Dinasty Romanovs *Romanov-on-Murman*. The name *Murmansk* the city got after the Revolution in 1917. Some consider that the word *Murman* is decsended from "Nurman" (Normann). Peoples of Scandinavia Russians called as "Murmans". 
@@ -15,6 +13,4 @@ longitude: 33.07497
 
 **See also other cities:** 
 
-[Irkutsk](/europe/russia/irkutsk) [Kazan](/europe/russia/kazan) [Kizhi](/europe/russia/kizhi) [Moscow](/europe/russia/moscow) [Novgorod](/europe/russia/novgorod) [Novosibirsk](/europe/russia/novosibirsk) [Orel](/europe/russia/orel) [Pyatigorsk](/europe/russia/pyatigorsk) St_Petersburg [Suzdal](/europe/russia/suzdal) [Tula](/europe/russia/tula) [Ulyanovsk](/europe/russia/ulyanovsk) [Vladimir](/europe/russia/vladimir) [Vladivostok](/europe/russia/vladivostok) [Yakutsk](/europe/russia/yakutsk) 
-
-Back to [Russia](/europe/russia)
+[Irkutsk](/europe/russia/irkutsk) [Kazan](/europe/russia/kazan) [Kizhi](/europe/russia/kizhi) [Moscow](/europe/russia/moscow) [Novgorod](/europe/russia/novgorod) [Novosibirsk](/europe/russia/novosibirsk) [Orel](/europe/russia/orel) [Pyatigorsk](/europe/russia/pyatigorsk) St_Petersburg [Suzdal](/europe/russia/suzdal) [Tula](/europe/russia/tula) [Ulyanovsk](/europe/russia/ulyanovsk) [Vladimir](/europe/russia/vladimir) [Vladivostok](/europe/russia/vladivostok) [Yakutsk](/europe/russia/yakutsk)

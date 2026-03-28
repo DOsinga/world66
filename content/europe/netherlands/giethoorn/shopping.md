@@ -27,5 +27,3 @@ Giethoorn does not have many shops or cafes; there is only 1 supermarket and it 
 
 **Contributors**
 March 08, 2010
-change
-by [shomer](/member/shomer)

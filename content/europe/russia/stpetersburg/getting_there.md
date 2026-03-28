@@ -12,5 +12,3 @@ For the best airticket prices, please, check the Priceline.com, the connection t
 [By air](/europe/russia/stpetersburg/gettingthere?subsection=By%20air)
 
 [By train](/europe/russia/stpetersburg/gettingthere?subsection=By%20train)
-
--->

@@ -23,5 +23,3 @@ tel: 310/823-5333
 address: 4175 Admiralty Way
 
 PriceOfMenu: $7 to 11
-
-[back to Eating Out](..)

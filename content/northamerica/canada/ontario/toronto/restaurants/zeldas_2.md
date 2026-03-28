@@ -1,6 +1,6 @@
 ---
 title: "Zelda's"
-type: location
+type: poi
 type: "Local"
 ---
 
@@ -14,11 +14,7 @@ There is a website for their events and menu. Visit www.zeldas.ca for informatio
 
 **Contributors**
 May 06, 2005
-new
-by [allamericanbear](/member/allamericanbear) (1 point)
 
 June 26, 2005
-change
-by [the_influence](/member/the_influence)
 
 type: Local

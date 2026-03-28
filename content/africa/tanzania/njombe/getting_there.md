@@ -7,5 +7,3 @@ There are daily buses from [Dar es Salaam](/africa/tanzania/daressalaam) , Songe
 
 **Contributors**
 February 25, 2006
-new
-by [ingvar](/member/ingvar) (4 points)

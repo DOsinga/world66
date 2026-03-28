@@ -2,8 +2,6 @@
 title: "Christiania"
 type: poi
 type: "Hotspots"
-latitude: 55.677211
-longitude: 12.610452
 ---
 
 Christiania is a 'free state' inside Copenhagen. Originally a
@@ -21,9 +19,3 @@ apartments and has used the sale of soft drugs as an excuse to
 continually send in the police. See it while it lasts
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

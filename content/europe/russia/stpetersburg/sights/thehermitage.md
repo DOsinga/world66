@@ -27,9 +27,3 @@ The State Hermitage is the world's second largest museum (only the Louvre in Fra
   Website: http://www.hermitage.ru
 
 type: Museums
-
-
-
-
-
-[back to Sights](..)

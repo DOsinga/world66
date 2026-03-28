@@ -1,0 +1,4 @@
+---
+title: "Beveren"
+type: location
+---

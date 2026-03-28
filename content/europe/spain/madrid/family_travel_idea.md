@@ -23,5 +23,3 @@ Another great museum for children is the Musei del Ferrocarril, otherwise known 
 
 **Contributors**
 March 24, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -39,5 +39,3 @@ over an hour, respectively, from Lille.
 
 **Contributors**
 March 26, 2010
-new
-by [kimerly](/member/kimerly)

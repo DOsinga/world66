@@ -8,5 +8,3 @@ One of the most favorite of Fort Lauderdale activities is the Fort Lauderdale Du
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)

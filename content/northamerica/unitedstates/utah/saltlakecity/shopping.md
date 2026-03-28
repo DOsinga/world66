@@ -11,6 +11,4 @@ Nordstrom, Mervyn's, and over 145 specialty stores, services, restaurants and th
 
 **Factory Stores @ Park City**
 
-Save 30 - 70% at 50 manufacturers' outlets. Mon-Sat 10 am-9 pm, Sun 11 am-6 pm. 20 minutes from Salt Lake. I-80 East, Exit 145, turn right at McDonald's. 
-
--->
+Save 30 - 70% at 50 manufacturers' outlets. Mon-Sat 10 am-9 pm, Sun 11 am-6 pm. 20 minutes from Salt Lake. I-80 East, Exit 145, turn right at McDonald's.

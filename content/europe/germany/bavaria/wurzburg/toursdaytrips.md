@@ -34,5 +34,3 @@ Departures in Würzburg at Alter Kranen, Red Kiosk (Near Congress Centre). Tour:
 address: Schiffstouristik Kurth & Schiebe, St.-Norbert-Straße 9, 97299 Zell
 
 tel: +49 (0)931 - 5 85 73
-
--->

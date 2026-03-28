@@ -40,5 +40,3 @@ fish.
 
 **Contributors**
 August 24, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

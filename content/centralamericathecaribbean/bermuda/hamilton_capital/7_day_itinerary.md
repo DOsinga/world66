@@ -31,9 +31,4 @@ This gallery is home to famous European paintings, African sculptures and modern
 
 **Day 7 - Albuoy's Point Park**
 
-Just before heading back to the airport for the flight back home, stop at this grassy knoll for spectacular views of the harbor and coastline. There are also some picnicking spots in the park.
-
-**Contributors**
-March 25, 2010
-new
-by [guacadoggie](/member/guacadoggie)
+Just before heading

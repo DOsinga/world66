@@ -1,8 +1,6 @@
 ---
 title: "Moldova"
 type: location
-latitude: 47.287961
-longitude: 28.567094
 ---
 
 Moldova was badly badly damaged during World War II. Two thirds of the larger cities were destroyed. In Stalinist times most of it was rebuild, but of course in Stalinist style.
@@ -17,5 +15,3 @@ Moldova is one of the poorest countries of Europe - the GDP per capita is not hi
 [Tighina](/europe/moldova/tighina)
 [Baltsi](/europe/moldova/baltsi)
 [Tiraspol](/europe/moldova/tiraspol)
-
--->

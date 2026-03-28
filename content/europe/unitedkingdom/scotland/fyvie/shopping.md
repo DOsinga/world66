@@ -7,5 +7,3 @@ If you want to go shopping then a 25 mile trip south to Aberdeen is needed, only
 
 **Contributors**
 January 21, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)

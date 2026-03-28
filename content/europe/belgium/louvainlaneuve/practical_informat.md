@@ -7,8 +7,6 @@ http://www.ucl.ac.be
 
 **Contributors**
 November 20, 2004
-new
-by [frby](/member/frby) (1 point)
 
 We currently have no Practical Information listed in Louvain-la-Neuve.
 

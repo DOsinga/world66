@@ -26,5 +26,3 @@ address: 5430 Gurley
 PriceOfMenu: $7.95 - $10.95
 
 email: danny@kalachandjis.com
-
-[back to Eating Out](..)

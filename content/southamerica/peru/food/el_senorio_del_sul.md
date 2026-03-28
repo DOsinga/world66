@@ -1,6 +1,6 @@
 ---
 title: "El Senorio del Sulco"
-type: location
+type: poi
 accessibility: "easy access"
 address: "Mireflores"
 price: "moderate/expensive"
@@ -11,8 +11,6 @@ An excellent variety of traditional dishes. All of the food is very flavorful, t
 
 **Contributors**
 October 20, 2006
-new
-by [brenchley](/member/brenchley)
 
 type: South American
 
@@ -25,5 +23,3 @@ accessibility: easy access
 address: Mireflores
 
 PriceOfMenu: moderate/expensive
-
-[back to Eating Out](..)

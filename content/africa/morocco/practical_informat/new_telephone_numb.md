@@ -7,8 +7,6 @@ email: "dartassa@gmail.com"
 phone: "00 212 524484312"
 type: "Tourist information"
 url: "www.dartassa.com"
-latitude: 31.164528
-longitude: -8.036607
 ---
 
 From the 7th/March/09 Morocco telephone number code changed with no parallel running of the old codes.
@@ -39,5 +37,3 @@ url: [www.dartassa.com](http://www.dartassa.com)
 address: Tassa Ouirgane
 
 email: dartassa@gmail.com
-
-[back to Practical Information](..)

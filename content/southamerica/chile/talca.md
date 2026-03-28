@@ -1,0 +1,4 @@
+---
+title: "Talca"
+type: location
+---

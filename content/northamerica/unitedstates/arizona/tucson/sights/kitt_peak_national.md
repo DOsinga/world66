@@ -21,5 +21,3 @@ tel: 318-8440.
 openingHours: vary
 
 url: [www.noao.edu](http://www.noao.edu/)
-
-[back to Sights](..)

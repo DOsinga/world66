@@ -41,5 +41,3 @@ Turismo / Tourism Company:
 
 **Contributors**
 June 20, 2006
-change
-by [giorgio](/member/giorgio)

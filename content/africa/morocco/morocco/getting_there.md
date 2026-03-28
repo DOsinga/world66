@@ -46,5 +46,3 @@ The best road link is from southern Spain or France via passenger/car ferries (s
 
 
 The border with Mauritania is not closed if you're going south, but it isn't very easy either. The only way to do it is follow the coast and get your paperwork done in ed-Dakhla. Look in the ed-Dakhla section or see this site for more details: GPS points
-
--->

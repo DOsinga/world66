@@ -42,5 +42,3 @@ date: 26th January
 address: Everwehere!
 
 email:
-
-[back to Festivals](..)

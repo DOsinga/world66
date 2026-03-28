@@ -7,5 +7,3 @@ Adventure Seekers should definitely go white water rafting with Kaituna Cascades
 
 **Contributors**
 May 03, 2006
-new
-by [amyander](/member/amyander) (2 points)

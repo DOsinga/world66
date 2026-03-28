@@ -12,5 +12,3 @@ type: Going to the Beach
 
 
 email: vermefre000@fvlhs.org
-
-[back to Things to do](..)

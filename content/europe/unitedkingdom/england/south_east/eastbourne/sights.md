@@ -11,5 +11,3 @@ The South downs are worth exploring if you like walking, and the famous white cl
 
 **Contributors**
 August 12, 2005
-change
-by [boogaloo](/member/boogaloo)

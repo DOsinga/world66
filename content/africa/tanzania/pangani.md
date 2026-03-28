@@ -1,0 +1,4 @@
+---
+title: "Pangani"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Helsingor"
+type: location
+---

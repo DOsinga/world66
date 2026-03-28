@@ -10,13 +10,5 @@ Noumea Yacht Charter is located in the heart of Noumea in Port Moselle.
 
 **Contributors**
 February 28, 2005
-new
-by [giorgio](/member/giorgio)
 
 type: Sailing
-
-
-
-
-
-[back to Things to do](..)

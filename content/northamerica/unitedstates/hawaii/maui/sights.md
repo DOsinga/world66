@@ -20,8 +20,3 @@ Lahaina is an old whaling village that has been turned into a big tourist destin
 **Hana**
 
 Hana is a great place to go -once-. Some people love Hana and the upcountry but for most people, especially kids, the hours of driving through windy costal roads and one lane bridges makes it not worth a second trip. On the way to Hana there are many beautiful sights: the ocean, waterfalls, and other parts of upcountry. Be prepared for a really long trip as even though the distance isnt far, there are dozens of curves and one-way bridges that pull most people to an average of 10mph.
-
-*Change history*
-Orginal article by [valfare](/member/valfare) on 21 October 04
-
--->

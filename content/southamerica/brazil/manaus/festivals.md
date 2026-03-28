@@ -19,9 +19,5 @@ Experience the famous Brazilian festival among the magnificent surroundings of t
 
 **Contributors**
 January 15, 2010
-change
-by [jenna storm](/member/jenna_storm)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

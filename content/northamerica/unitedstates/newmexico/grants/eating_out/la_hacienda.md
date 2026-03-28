@@ -18,5 +18,3 @@ tel: 505-287-5561
 address: 907 N 1st Street
 
 PriceOfMenu: moderate
-
-[back to Eating Out](..)

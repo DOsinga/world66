@@ -1,0 +1,4 @@
+---
+title: "Prescott"
+type: location
+---

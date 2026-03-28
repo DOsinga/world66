@@ -1,9 +1,9 @@
 ---
-title: "Kastela Travel Guide"
+title: "Kastela"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Kaštela** is a series of seven towns in central Dalmatia located northwest of [Split](/europe/croatia/split), west of Solin and east of [Trogir](/europe/croatia/trogir), in [Croatia](/europe/croatia). They are part of the Split-Dalmatia County
 and are treated as a single city with a population of 34,103 (2001),
@@ -21,13 +21,3 @@ Kaštel Štafilić, 2,650
 In 1909 dr. Henrik
 Soulavy opened the first pension ( www.villasoulavy.hr ) and tourism in Kastela
 Riviera has been developing since then.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Ka%C5%A1tela*
-
-#### Contributors
-
-March 27, 2009 change by [apartmanihrvatska](/member/apartmanihrvatska)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 15:15

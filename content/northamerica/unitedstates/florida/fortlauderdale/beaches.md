@@ -70,7 +70,3 @@ Dania public Beach
   Sheridan Street to Dania Beach Boulevard
 
   Parking: $3.00 weekdays, $5.00 weekends at park; also metered parking. Food concessions, bathrooms and showers
-
-  
-
--->

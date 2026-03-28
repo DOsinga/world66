@@ -8,13 +8,5 @@ About one hour ouside of St. Petersburg is Peterof which consists of another pal
 
 **Contributors**
 February 04, 2008
-new
-by [waterfalls](/member/waterfalls)
 
 type: Palaces
-
-
-
-
-
-[back to Sights](..)

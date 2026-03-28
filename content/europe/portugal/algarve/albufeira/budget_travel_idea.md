@@ -21,9 +21,5 @@ Believe it or not, your best bet for cheap accommodations in Albufeira is to sta
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 January 12, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

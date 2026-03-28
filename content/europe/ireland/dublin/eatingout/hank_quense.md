@@ -12,13 +12,9 @@ The Centre is close to Grafton Street and has two entrances. One is on Claredon 
 
 **Contributors**
 August 03, 2008
-change
-by [hanque1](/member/hanque1)
 
 type: International
 
 
 
 address: ield, NJ 07621
-
-[back to Eating Out](..)

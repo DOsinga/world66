@@ -23,42 +23,4 @@ The painter Gunnar from Lofoten and his most famous painting, "The Battle of Tro
 
 **Storvågan** 
 
-Historical area with roots all the way back to the year 900. In the Middle Ages the area was the most densely populated area in North Norway due to the Lofot Fisheries. From there, all fish was transported out of the regions for further export to the continent. There are archaeological excavations during the summer which are available to the public. In addition we have the Lofot Museum, the Lofot Aquarium and Gallery Espolin Johnson - all of them fine attractions. 
-
-**Kabelvåg** 
-
-This community was the most important fishing village in the last century, and opened its first guest house in the late 18th century. Kabelvåg forms a part of the municipality´s cultural history reserve with an interesting architectural structure. Approximately 2000 inhabitants. Around the year 1103, King Øystein had Lofoten´s first church built in Kabelvåg. Later, around 1120, he also had "rorbu" cabins built for the fishermen. A commemorative statue of him can be seen on the heights overlooking Kabelvåg town centre. 
-
-**Lofoten Cathedral** 
-
-Vågan Church, also known as "Lofoten Cathedral". It was built in 1898 and can accommodate up to 1200 people. 
-
-**The Lofoten Aquarium** 
-
-The aquarium displays all kinds of life in the ocean, creatures living among pebbles on the shore, or at abysmaldepths. Also a pool for seals, which has become extremely popular. Nature pictures from Lofoten are shown in two marvellous slides show programmes. 
-
-**Henningsvær** 
-
-"The Venice of Lofoten" and one of Lofoten´s largest fishing villages, counting approximately 540 inhabitants. Henningsvær was connected to the mainland by the bridge which was built in 1983. The community has a special and dense atmosphere dominated by the fisheries. 
-
-**Lofoten House Gallery / Karl Erik Harr** 
-
-Exhibition of well-known Karl Erik Harr paintings and a collection of paintings by artists who worked in the Lofoten Islands around the turn of the century. Don´t miss Frank A. Jenssen´s superb slides show and his unique photos of white tailed eagles. There are also a number of large format photos of Lofoten in the gallery, taken by photographer Wilse about 70-90 years ago. 
-
-**Raftsundet 
-
-**The trip through Raftsund Sound Is an unforgettable experience. There are fascinating small islands, white sandy beaches, fields of flowers framed by high mountains and glaciers reflected in the water, and the renowned Trollfjord with precipices descending straight into the sea. We do recommend a boat trip into the spectacular Trollfjorden. Dayly departure from Svolvær during the summer months june, july and august. 
-
-**Trollfjorden** 
-
-**Digermulen 
-
-**The community of Digermulen with Keiservarden is situated by the entrance to the strait Raftsundet. There are organized trips / tours from Svolvær several times a day to these beautiful natural surroundings. You can also travel on your own, by car / bus express boat or ferry to Digermulen. 
-
-**Gimsøy, Laukvik** 
-
-Regions on the "outside" of Lofoten with a fantastic view to the open ocean and the Midnight Sun. At gimsøya you wil also find Lofoten Golf Links. 
-
-**Hov** 
-
-A peaceful, idyllic place on the outer coast of the island of Gimsøya with small inlets and white beaches, and an unobstructed view towards the north and the Midnight Sun. When seen from Highway E 10, it is situated behind the distinctive mountain peak of "Hoven", which is also very suitable for moderate mountain walks. Hov has one of the oldest settlements in the Lofoten Islands and is abundant in ancient monuments, including several burial mounds and landing places from the Stone Age and the Viking Age.
+Historical area with roots all the way

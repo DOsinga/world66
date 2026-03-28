@@ -1,0 +1,4 @@
+---
+title: "Hasselt"
+type: location
+---

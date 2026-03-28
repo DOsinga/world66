@@ -1,0 +1,4 @@
+---
+title: "Cesenatico"
+type: location
+---

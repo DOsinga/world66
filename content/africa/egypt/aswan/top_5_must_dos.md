@@ -23,5 +23,3 @@ In order to get a full picture of Aswan you should make time for the Nubian Muse
 
 **Contributors**
 August 12, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

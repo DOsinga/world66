@@ -6,14 +6,10 @@ phone: "035 6942587"
 price: "35 euro (3 courses"
 type: "African"
 url: "www.restaurantpromers.nl"
-latitude: 52.29407
-longitude: 5.164513
 ---
 
 **Contributors**
 February 17, 2007
-new
-by [hondepak](/member/hondepak)
 
 ### [Restaurant Promers](/europe/netherlands/naarden/eating_out/restaurant_promers)
 

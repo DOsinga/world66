@@ -10,11 +10,3 @@ Welcome to the great plains! Between the Missouri, the Niobrara and the Platte R
  Right in the west of the State [Scotts Bluff](/northamerica/unitedstates/nebraska/scottsbluff) is a prominent natural landmark for emigrants on the Oregon Trail. Scotts Bluff, Mitchell Pass and the adjacent prairie lands are set aside in a 3,000 acre national monument. This site preserves the memory of the historic Oregon, California and Mormon Trails. 
 
  In the East of the Sate the cities of [Lincoln](/northamerica/unitedstates/nebraska/lincoln) and [Omaha](/northamerica/unitedstates/nebraska/omaha) offer you big city life with a midwest touch.
-
-## Destinations
-
-- [Lincoln](/northamerica/unitedstates/nebraska/lincoln)
-- [Omaha](/northamerica/unitedstates/nebraska/omaha)
-- [Ponca](/northamerica/unitedstates/nebraska/ponca)
-- [Scotts Bluff](/northamerica/unitedstates/nebraska/scottsbluff)
-- [Valentine](/northamerica/unitedstates/nebraska/valentine)

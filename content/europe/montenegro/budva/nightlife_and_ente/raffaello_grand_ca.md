@@ -4,8 +4,6 @@ type: poi
 address: "Budva, Slovenska obala"
 closing_time: "01AM"
 type: "Clubs and dancing"
-latitude: 42.285246
-longitude: 18.845467
 ---
 
 ****Raffaello Grand Cafe is located on Slovenska Obala promenade.
@@ -19,5 +17,3 @@ type: Clubs and dancing
 ClosingTime: 01AM
 
 address: Budva, Slovenska obala
-
-[back to Nightlife and Entertainment](..)

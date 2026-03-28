@@ -8,6 +8,3 @@ There are bus connections from Arusha and Babati arriving in Kondoa from the nor
 The bus stand is at the central market square.
 
 A cross-country vehicle can make the 160 km disance from Dodoma in about three and a half hours during the dry season. During the rainy season the time is totally unpredictable.
-
-**Change history**
-Orginal article by [Ingvar](/member/ingvar) on 13 February 05

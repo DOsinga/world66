@@ -1,0 +1,4 @@
+---
+title: "Mindelo"
+type: location
+---

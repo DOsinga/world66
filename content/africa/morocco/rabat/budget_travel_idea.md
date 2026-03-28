@@ -50,5 +50,3 @@ the lovely culture and scenery that this area is known for.
 
 **Contributors**
 March 17, 2010
-new
-by [kat99](/member/kat99)

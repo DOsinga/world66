@@ -56,7 +56,3 @@ type: section
 **Languages:** Tuvaluan English
 
 **Literacy:** NA; noteeducation is free and compulsory from ages 6 through 13
-
-
-
--->

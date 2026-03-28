@@ -17,6 +17,4 @@ The area around Kastanienallee towards Mitte district presents yet another world
 
 Brewing obviously used to flourish in this neighbourhood, because the **Kulturbrauerei** is also close by, between Schönhauser Allee and Danziger Straße. Here parties and concerts are being embellished by art and culture, because galleries are moving in alongside the dancefloors and people with a taste for melancholy and nostalgia can indulge themselves in the Russian studio theatre.
 
-Another leisure spot near Kastanienallee is **Mauerpark** below the Jahn Stadium. Very early on there was a freight depot on the site; then the Berlin Wall between Wedding and Prenzlauer Berg ran along here. This explains why the park is so oddly partitioned: you sit on an embankment and look at the rows of houses in Wedding. The park can hardly be described in terms of classical beauty, but it's still a very popular place for people to meet, read peacefully and lie in the sun. 
-
--->
+Another leisure spot near Kastanienallee is **Mauerpark** below the Jahn Stadium. Very early on there was a freight depot on the site; then the Berlin Wall between Wedding and Prenzlauer Berg ran along here. This explains why the park is so oddly partitioned: you sit on an embankment and look at the rows of houses in Wedding. The park can hardly be described in terms of classical beauty, but it's still a very popular place for people to meet, read peacefully and lie in the sun.

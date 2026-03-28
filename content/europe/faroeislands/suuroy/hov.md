@@ -1,9 +1,9 @@
 ---
-title: "Hov Travel Guide"
+title: "Hov"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Hov is a village in the centre of the island Suðuroy. The population is around 100. Hov is located on the east coast of the island, between the villages Porkeri and Øravík. There is a large new building just south of Hov which is a school center with the Suduroy High School and the Faroe Islands Health School.
 
@@ -26,11 +26,3 @@ Down in the harbour there is a little museum and café, both in the same buildin
 **The Tunnel between Hov and Øravík**
 
 Hov was connected with Øravík by a two lane road tunnel in 2007. Before that the road went up above the mountain and made transport a difficult task in winther time, it is much easier to travel now.
-
-#### Contributors
-
-April 09, 2011 new by [eileen.sanda](/member/eileen.sanda)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 19:31

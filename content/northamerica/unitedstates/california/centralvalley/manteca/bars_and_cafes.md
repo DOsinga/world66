@@ -9,8 +9,6 @@ Includes specialty foods
 
 **Contributors**
 July 30, 2009
-new
-by [mantecacvb](/member/mantecacvb)
 
 ### [Delicato Vineyards](/northamerica/unitedstates/california/centralvalley/manteca/bars_and_cafes/delicato_vineyards)
 

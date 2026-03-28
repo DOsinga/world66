@@ -1,8 +1,6 @@
 ---
 title: "Narona"
 type: location
-latitude: 43.080414
-longitude: 17.625852
 ---
 
 Narona just outside Metkovic was a Greek

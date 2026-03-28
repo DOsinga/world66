@@ -6,8 +6,6 @@ email: "info@castelanne.com"
 phone: "00 33 240 355 255"
 type: "Speciality shops"
 url: "www.castelanne.com"
-latitude: 48.871325
-longitude: 2.326204
 ---
 
 Chocolate master and confectioner in Paris's eight arrondissement : chocolate factory with character by a Parisian chocolate master (Madeleine neighborhood) offers its products made in his worshop in Brittany.
@@ -28,5 +26,3 @@ url: [www.castelanne.com](http://www.castelanne.com)
 address: 17 rue Vignon 75008 PAris
 
 email: info@castelanne.com
-
-[back to Shopping](..)

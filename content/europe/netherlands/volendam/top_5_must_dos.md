@@ -29,5 +29,3 @@ The beach should not be missed as there are plenty of opportunities to tour the 
 
 **Contributors**
 March 30, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -25,5 +25,3 @@ tel: 087 635 9329
 address: 22 Marlbouragh St, Cublin
 
 PriceOfMenu: 3.5 - 5.00 Euros
-
-[back to Eating Out](..)

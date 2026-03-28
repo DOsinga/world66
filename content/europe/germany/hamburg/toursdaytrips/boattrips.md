@@ -11,6 +11,4 @@ Hamburg Tourist Board
 
 Hotline: (+49 40) 300 51 300: 
 
-open 8 till 8 daily.  
-
--->
+open 8 till 8 daily.

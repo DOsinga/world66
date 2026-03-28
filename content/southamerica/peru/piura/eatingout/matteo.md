@@ -10,12 +10,8 @@ A decent vegetarian restaurant on the Plaza de Armas, it´s a good option for ve
 
 **Contributors**
 June 17, 2006
-new
-by [joosts](/member/joosts)
 
 August 01, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Vegetarian
 
@@ -26,5 +22,3 @@ type: Vegetarian
 address: Tacna, right on the Plaza de Armas
 
 PriceOfMenu: main dishes from 6 to 12 soles
-
-[back to Eating Out](..)

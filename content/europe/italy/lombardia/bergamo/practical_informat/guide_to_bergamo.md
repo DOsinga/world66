@@ -125,8 +125,6 @@ euros, for three residences the cost is 12 euros.
 
 **Contributors**
 February 29, 2008
-change
-by [europealacarte](/member/europealacarte) (1 point)
 
 type: Tourist information
 
@@ -135,5 +133,3 @@ type: Tourist information
 
 
 url: [www.europealacarte.co.uk](http://www.europealacarte.co.uk/Italy/bergamo/)
-
-[back to Practical Information](..)

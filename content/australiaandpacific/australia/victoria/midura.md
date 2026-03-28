@@ -1,9 +1,9 @@
 ---
-title: "Midura Travel Guide"
+title: "Midura"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Delight in the contrast between outback solitude and the joyous
 celebrations of a vibrant culture. Notice how an afternoon will
@@ -14,11 +14,3 @@ Mildura and the surrounding towns of Red Cliffs, Irymple,Merbein, Gol
 Gol, and Buronga have an unmistakable cosmopolitan flavour thanks to a
 multicultural society, mouth watering local foods and wines, a healthy
 arts culture and a busy year round calendar of events.
-
-#### Contributors
-
-April 27, 2007 new by [directwithotels](/member/directwithotels)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 02:21

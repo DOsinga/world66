@@ -17,5 +17,3 @@ type: South American
 url: [www.hideaway.com.br](http://www.hideaway.com.br)
 
 address: Rua das Laranjeiras 308, Laranjeiras
-
-[back to Eating Out](..)

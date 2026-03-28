@@ -23,4 +23,4 @@ This establishment is for those who are interested in a serious night of dancing
 
 #### Blake's Tavern
 
-Blake's Tavern is definitely a place to check out if you want a relaxing night of hanging out. The furnishings are quite simple, giving it a relaxed atmosphere and the service only enhances this. There are several areas to lounge in. like the comfortable library room. Or you can go toward the back to Room 66 where it allows you to have a peaceful time with your date. The tavern has several beers on tap and prices are always cheap.
+Blake's Tavern is definitely a place to check out if you want a relaxing night of hanging out. The furnishings are quite simple, giving it a relaxed atmosphere and the service only enhances this. There are several areas to lounge in. like the comfortable library room. Or you can go toward the

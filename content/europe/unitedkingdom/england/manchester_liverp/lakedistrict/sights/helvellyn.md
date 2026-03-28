@@ -12,8 +12,6 @@ However Helvellyn has something which renders the walk itself an attractive moun
 
 **Contributors**
 December 07, 2004
-new
-by [davidx](/member/davidx) (1 point)
 
 type: general
 
@@ -22,5 +20,3 @@ type: general
 
 
 openingHours: h
-
-[back to Sights](..)

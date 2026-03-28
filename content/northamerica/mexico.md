@@ -1,8 +1,6 @@
 ---
 title: "Mexico"
 type: location
-latitude: 23.658512
-longitude: -102.00771
 ---
 
 Mexico is a diverse place, and has a lot to offer to travelers. Whether you decide to visit the beautiful beaches famous around the world, historical cities from the times of the Spanish colony and archeological sites of cultures such as the Maya, Olmeca and Azteca among others, beautiful national parks in deserts, mountains and forests, or just hang out in one of the modern cities, you will enjoy it. 
@@ -12,20 +10,3 @@ Highlights in Mexico are the capital city of Mexico City, [Monterrey](/northamer
 Archeological sites in Mexico are vast, one should keep in mind Teotihuacan, Chichen Itza, Palenque, El Tajin among just a few. 
 
 For those looking for an active vacation Mexico offers golf courses, scuba diving and lots of mountains to go hiking in.
-
-## Top Destinations in Mexico
-
-[Villahermosa](/northamerica/mexico/villahermosa)
-[Guerrero negro](/northamerica/mexico/guerreronegro)
-[Oaxaca](/northamerica/mexico/oaxaca)
-[Mexico City](/northamerica/mexico/mexicocity)
-[Chihuahua](/northamerica/mexico/chihuahua)
-[Merida](/northamerica/mexico/yucatan/merida)
-[Cancun](/northamerica/mexico/yucatan/cancun)
-[Cozumel](/northamerica/mexico/yucatan/cozumel)
-[Puerto Vallarta](/northamerica/mexico/puertovallarta)
-[Monterrey](/northamerica/mexico/monterrey)
-[Acapulco](/northamerica/mexico/acapulco)
-[Guadalajara](/northamerica/mexico/guadalajara)
-
-[**Show all destinations in Mexico.**](/northamerica/mexico/lib/alldestinations)

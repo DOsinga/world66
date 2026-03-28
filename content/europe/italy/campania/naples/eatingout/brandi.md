@@ -10,7 +10,5 @@ This pizzeria own its fame mainly to the fact that they invented the pizza Margh
 
 **Contributors**
 June 11, 2005
-change
-by [hpharmsen](/member/hpharmsen) (1 point)
 
 type: Local

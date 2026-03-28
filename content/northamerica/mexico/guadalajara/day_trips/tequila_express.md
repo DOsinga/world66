@@ -12,13 +12,9 @@ tour of the grounds along with tastings of course.
 
 **Contributors**
 January 10, 2007
-new
-by [giorgio](/member/giorgio)
 
 
 
 
 
 url: [www.tequilaexpress.com.mx](http://www.tequilaexpress.com.mx/ingles/)
-
-[back to Day Trips](..)

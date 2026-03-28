@@ -27,5 +27,3 @@ CostOfDoubleForANight: 52 eu
 address: Radhima Beach, Dhermi, Vlora, Albania
 
 email: info@edialtour.com
-
-[back to Accommodation](..)

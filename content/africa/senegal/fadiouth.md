@@ -1,8 +1,6 @@
 ---
 title: "Fadiouth"
 type: location
-latitude: 14.152081
-longitude: -16.82345
 ---
 
 We currently have no information about Fadiouth.

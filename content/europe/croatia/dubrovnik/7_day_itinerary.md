@@ -57,5 +57,3 @@ snack for the flight).
 
 **Contributors**
 February 09, 2010
-new
-by [cjr236](/member/cjr236)

@@ -1,9 +1,9 @@
 ---
-title: "Berbera Travel Guide"
+title: "Berbera"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Berbera is a coastal town (Red Sea) in the northwestern part of Somaliland.
 Although the former somalia government had built a major port that in the mid 1980's was a port of call for USS Enterprise as well as massive oil tankers and large ships, in civil war, it had been stripped of many of its service essentials such as state of the art refined fuel tanks, oil pipelines, water purification systems.
@@ -15,13 +15,3 @@ By the time Ethiopia was showing serious interest in Berbera, the port had devel
 Development money was also used to upgrade and repair the road from Berbera to the Somaliland capital, Hargeysa - a critical move, which transformed a long, rough ride to less than three hours on a tarmacked highway.
 From 1996, the EC funded a number of high-priority and labour-intensive civil works, and provided additional funding to boost UNCTAD port management projects.
 From 1997, operational and administrative procedures were improved in Berbera port, and job-training schemes introduced and expanded. Spare parts were bought, equipment rehabilitated, drivers trained, and communication equipment - such as VHF, hand-held radios, faxes and phones - brought in to modernise operations.
-
-*Part or or all of this text stems from the original article at: http://www.afrol.com/News2001/som007_berbera_port.htm*
-
-#### Contributors
-
-June 21, 2006 change by [reen](/member/reen) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 08:30

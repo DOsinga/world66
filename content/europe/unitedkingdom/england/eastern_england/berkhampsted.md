@@ -1,0 +1,4 @@
+---
+title: "Berkhampsted"
+type: location
+---

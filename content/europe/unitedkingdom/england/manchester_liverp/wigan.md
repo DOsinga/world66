@@ -1,0 +1,4 @@
+---
+title: "Wigan"
+type: location
+---

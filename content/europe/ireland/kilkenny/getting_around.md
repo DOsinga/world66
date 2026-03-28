@@ -9,8 +9,6 @@ The city also has a double decker bus that offers a hop-on-hop-off ticket that w
 
 **Contributors**
 December 21, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 ### [Walk](/europe/ireland/kilkenny/getting_around/walk)
 

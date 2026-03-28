@@ -1,6 +1,6 @@
 ---
 title: "Eilat Cafe"
-type: location
+type: poi
 accessibility: "wheelchair access"
 address: "6853 SW 18th Street, Boca Raton Fl 33433"
 email: "petschek@bellsouth.net"
@@ -29,5 +29,3 @@ address: 6853 SW 18th Street, Boca Raton Fl 33433
 PriceOfMenu: $8-$35
 
 email: petschek@bellsouth.net
-
-[back to Eating Out](..)

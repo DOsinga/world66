@@ -5,8 +5,6 @@ address: "Albufeira Marina"
 email: "info@dreamwavealgarve.com"
 phone: "+351962 003 885"
 url: "www.dreamwavealgarve.com"
-latitude: 37.086493
-longitude: -8.267013
 ---
 
 **Caves and Dolphin Watching Cruise - Albufeira, Portugal
@@ -23,5 +21,3 @@ url: [www.dreamwavealgarve.com](http://www.dreamwavealgarve.com)
 address: Albufeira Marina
 
 email: info@dreamwavealgarve.com
-
-[back to Tours and Excursions](..)

@@ -13,5 +13,3 @@ Black's was previously notorious as a nude beach, but authorities began to disco
 
 
 email: scottssilva@hotmail.com
-
-[back to Beaches](..)

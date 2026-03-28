@@ -15,8 +15,6 @@ Evenings are romantic mixture of food, waves, moon and dinner on the beach
 
 **Contributors**
 September 01, 2005
-new
-by [schiller](/member/schiller)
 
 ### [Butre Beach](/africa/ghana/beaches/butre_beach)
 

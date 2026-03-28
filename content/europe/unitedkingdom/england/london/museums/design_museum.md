@@ -6,8 +6,6 @@ email: "info@designmuseum.org"
 opening_hours: "10.00-17.45 Fri until 21.00"
 phone: "0870 833 9955"
 url: "www.designmuseum.org"
-latitude: 51.50342
-longitude: -0.073548
 ---
 
 The design museum is a must for anyone with an interest in modern and contemporary design. The permanent exhibition follows the change in British homes from the 20th century until present day, which is constantly updated to include new design classics.
@@ -22,8 +20,6 @@ The nearest tubes are either Tower Hill (10 minute walk) or London Bridge (15 mi
 
 **Contributors**
 August 24, 2005
-change
-by [brixton_ian](/member/brixton_ian)
 
 
 
@@ -38,5 +34,3 @@ url: [www.designmuseum.org](http://www.designmuseum.org)
 address: Shad Thames, London SE1 2YD
 
 email: info@designmuseum.org
-
-[back to Museums](..)

@@ -29,5 +29,3 @@ One last thing to keep in mind is that peak season lasts from June to September,
 
 **Contributors**
 September 08, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

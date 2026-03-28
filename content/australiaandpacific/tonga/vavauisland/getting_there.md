@@ -9,5 +9,3 @@ going by boat or plane to Vava'u. Taking the boat (*The Olovaha*) takes about ha
 
 **Contributors**
 April 28, 2006
-change
-by [giorgio](/member/giorgio)

@@ -15,9 +15,3 @@ monumental sculpture groups of the black horses, authored by Toma
 Rosandic.
 
 type: Public Buildings
-
-
-
-
-
-[back to Sights](..)

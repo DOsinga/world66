@@ -17,5 +17,3 @@ type: general
 address: 2 Upper Whale Street
 
 tel: 021-4230850/24
-
-[back to Eating Out](..)

@@ -7,5 +7,3 @@ North Sea Yacht Race (Previously known as the 'Banff to Stavanger yacht race' an
 
 **Contributors**
 July 03, 2007
-new
-by [bardofthebroch](/member/bardofthebroch)

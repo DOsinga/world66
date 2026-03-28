@@ -15,12 +15,4 @@ The Ronchi Hat Factory is nothing short of a shopping institution amongst locals
 **Algoritam**
 Algoritam, located at Placa 8 Old Town, is a great place to pick up rare and out of print English-language books which include all genres from classics to hard to find guidebooks for little known places in Europe. A nice stopover for the literary-inclined bunch.
 **Moje Tezoro**
-This is like a treasure chest of goodies because visitors never know what they’ll discover at this tiny storehouse that houses lovely pieces of antiques, artefacts and several knick knacks. There are coral embellished gold ornaments, Byzantine iconic symbols, Matisse lithographs and wooden statues that date back to centuries. Moje Tezoro is located at 12 Izmedu Polaca.
-**En-lu**
-Regular travellers swear by this shop on Ulitsa od Puca Street. En-lu is a great place to pick up the city’s celebrated food souvenirs. They stock up everything from aubergine garlic, roasted peppers and honey-walnut biscuits to dried ham, almond nougat and tangy cherry syrup.
-Dubrovnik is not as conventional as other European shopping destinations, however is has a lot of quirky, ethnic and hand-made products to offer to tourists who are willing to explore its native charm.
-
-**Contributors**
-February 09, 2010
-new
-by [sameera kumar](/member/sameera_kumar)
+This is like a treasure chest of goodies because visitors never know what they’ll discover at this tiny storehouse that houses lovely pieces of antiques, artefacts and several knick knacks. There are coral embellished gold ornaments, Byzantine iconic symbols, Matisse lithographs and wooden statues that date

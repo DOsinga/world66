@@ -71,5 +71,3 @@ for only 7.50€.
 
 **Contributors**
 April 02, 2010
-change
-by [stolsen](/member/stolsen)

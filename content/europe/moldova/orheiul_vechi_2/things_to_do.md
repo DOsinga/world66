@@ -8,5 +8,3 @@ monastery cave and other caves . This are caves build in th 14th century by the 
 
 **Contributors**
 June 12, 2007
-new
-by [bassarab](/member/bassarab)

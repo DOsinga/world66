@@ -16,8 +16,6 @@ I got free VIP passes from JoshuaEscandon.com and that saved me the trouble of l
 
 **Contributors**
 June 29, 2009
-new
-by [aditiverma](/member/aditiverma)
 
 type: Theatres
 
@@ -34,5 +32,3 @@ accessibility: Free VIP passes on website
 address: 8001, Sunset Boulevard, Hollywood, CA, 90016
 
 email: JoshandMyoShow@mac.com
-
-[back to Nightlife and Entertainment](..)

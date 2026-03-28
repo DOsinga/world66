@@ -67,5 +67,3 @@ month.
 
 **Contributors**
 July 22, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

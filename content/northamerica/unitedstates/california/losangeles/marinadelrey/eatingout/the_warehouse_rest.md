@@ -23,5 +23,3 @@ url: [thewarehousemdr.com](http://thewarehousemdr.com)
 address: 4499 Admiralty Way
 
 PriceOfMenu: Dinner entrees $17 -$27
-
-[back to Eating Out](..)

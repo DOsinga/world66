@@ -1,8 +1,6 @@
 ---
 title: "Dalmatia"
 type: location
-latitude: 43.538796
-longitude: 16.175236
 ---
 
 Dalmatia is the name that is used for the coastline of Croatia,

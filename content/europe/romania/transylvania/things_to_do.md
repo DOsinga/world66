@@ -9,5 +9,3 @@ Renting a helicopter, when you are in Brasov, or near by, will prove to be a fan
 
 **Contributors**
 September 22, 2007
-change
-by [alintransylvania](/member/alintransylvania)

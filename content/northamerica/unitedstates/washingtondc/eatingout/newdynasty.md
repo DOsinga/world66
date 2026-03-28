@@ -15,5 +15,3 @@ type: Chinese
 address: 2020 P St NW
 
 tel: (202)296-6688
-
-[back to Eating Out](..)

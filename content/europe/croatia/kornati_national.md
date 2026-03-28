@@ -1,9 +1,9 @@
 ---
-title: "Kornati- National park Travel Guide"
+title: "Kornati- National park"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **[Kornati-Croatia**](/europe/croatia/murter/accommodation/murterapartments)
 
@@ -34,9 +34,3 @@ metres deep.
 **"On the last day of the Creation God desired to crown His work and thus created Kornati Islands out of tears, stars and breath"**
 
 (George Bernard Shaw, Nobel Prize winner)
-
-*Part or or all of this text stems from the original article at: www.srcedalmacije.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 10:43

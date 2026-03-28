@@ -1,12 +1,8 @@
 ---
 title: "Inhambane"
 type: location
-latitude: -22.779116
-longitude: 34.566174
 ---
 
-We currently have no information about Inhambane.
+Inhambane is a photographers dream; it possesses a unique charm that can only come from a rusty old town with delapidated buildings and neglected maintenance. It is worth exploring the fascinating mix of African, old-world Portugese and muslim cultures. 
 
-If you do know any general information about Inhambane, please [Edit this article].
-
-If you know any hotels in Inhambane or restaurants in Inhambane, please [[Add].](/destinations/addItemWizard?addwhere=africa/mozambique/inhambane)
+It is also very close to Tofo Beach, one of the most popular destinations for South Africans on holiday.

@@ -10,8 +10,6 @@ Situated at the west end of the town the Cullen Golf Club is popular with locals
 
 **Contributors**
 February 11, 2007
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 type: Golf
 
@@ -20,5 +18,3 @@ type: Golf
 tel: 01542 840685
 
 url: [www.cullengolfclub.co.uk](http://www.cullengolfclub.co.uk)
-
-[back to Things to do](..)

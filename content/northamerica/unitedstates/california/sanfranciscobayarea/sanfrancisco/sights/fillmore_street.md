@@ -19,8 +19,6 @@ great neighborhood shops and restaurants.
 
 **Contributors**
 November 10, 2007
-change
-by [jzurdogo](/member/jzurdogo)
 
 type: Streets
 
@@ -31,5 +29,3 @@ type: Streets
 url: [www.zurdogo.com](http://www.zurdogo.com/neighborhoods/fillmore.html)
 
 address: Pacific Street & Market Street
-
-[back to Sights](..)

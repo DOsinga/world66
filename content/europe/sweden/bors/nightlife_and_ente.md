@@ -5,16 +5,12 @@ address: "Hallbergsplatsen 2"
 phone: "+46 33 - 108200"
 type: "Clubs and dancing"
 url: "www.firsthotelgrand.se"
-latitude: 57.719314
-longitude: 12.937322
 ---
 
 BorÃ¥s offers a number of places ranging from a quiet pub to night clubs.
 
 **Contributors**
 June 10, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [Grand Hotel](/europe/sweden/bors/nightlife_and_ente/grand_hotel)
 

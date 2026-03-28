@@ -1,36 +1,14 @@
 ---
 title: "Dresden"
 type: location
-latitude: 51.049329
-longitude: 13.738144
 ---
 
 “Florence of the North” is how Dresden has been called. A southern city in the North, a Baroque metropolis. The city experienced its golden age in the first half of the 18th century under the rule of Augustus the Strong, Elector of Saxony and King of Poland. The Zwinger, the cathedral, the Baroque Königstraße, Pillnitz Palace and not least the countless art treasures of the museums and priceless wealth of the "Green Vault" treasure chamber all testify to this era.
 
+ In the 19th century painters, sculptors, authors and musicians - representatives of the early romantics - met here. Dresden was an innovative economic location and one of the richest cities in Germany. Today one can discover the largest villa quarter in the country. The district around Martin-Luther-Platz emerged at the turn of the century with an alternative city culture, with its own theatre, modern music and pubs. The picturesque and architecturally interesting Hellerau Garden City provides a worthwhile detour.
 
- In the 19th century painters, sculptors, authors and musicians - representatives of the early romantics - met here. Dresden was an innovative economic location and one of the richest cities in Germany. Today one can discover the largest villa quarter in the country. The district around Martin-Luther-Platz emerged at the turn of the century with an alternative city culture, with its own theatre, modern music and pubs. The picturesque and architecturally interesting Hellerau Garden City provides a worthwhile detour.
+ The special atmosphere in the City - characterised by the apparent contradictions of the dreamy, almost conventional lifestyle of a royal residence and a creative, cosmopolitan cultural centre - has attracted and inspired countless poets and friends of literature over the centuries. At the end of the 18th and beginning of the 19th centuries Dresden became one of the centres of German literature, especially for the Romantic movement. The salons held by Christian Gottfried Körner, and later the house of Ludwig Tieck, were popular meeting places for great poets such as Goethe, Schiller, Herder, Kleist and Novalis and important philosophers such as Humboldt and the Schlegel brothers.
 
+  A further highlight for literature in Dresden came a hundred years later. From 1919 the newspaper "Menschen" was a focal point for such well-known expressionists as Ivan Goll, Friedrich Wolf, Paul Adler and Oskar Kokoschka. Erich Kästner spend his childhood and youth years in Dresden and published his first poems here. Martin Anderson-Nexö, Gerhart Hauptmann and Friedrich Gerstecker produced some of their most important works in Dresden. It was in Radebeul near Dresden that Karl May created the shining characters of his youth novels.
 
- The special atmosphere in the City - characterised by the apparent contradictions of the dreamy, almost conventional lifestyle of a royal residence and a creative, cosmopolitan cultural centre - has attracted and inspired countless poets and friends of literature over the centuries. At the end of the 18th and beginning of the 19th centuries Dresden became one of the centres of German literature, especially for the Romantic movement. The salons held by Christian Gottfried Körner, and later the house of Ludwig Tieck, were popular meeting places for great poets such as Goethe, Schiller, Herder, Kleist and Novalis and important philosophers such as Humboldt and the Schlegel brothers.
-
-
- 
- A further highlight for literature in Dresden came a hundred years later. From 1919 the newspaper "Menschen" was a focal point for such well-known expressionists as Ivan Goll, Friedrich Wolf, Paul Adler and Oskar Kokoschka. Erich Kästner spend his childhood and youth years in Dresden and published his first poems here. Martin Anderson-Nexö, Gerhart Hauptmann and Friedrich Gerstecker produced some of their most important works in Dresden. It was in Radebeul near Dresden that Karl May created the shining characters of his youth novels.
-
-
- 
- The fine arts as well have enjoyed a long tradition in Dresden. Even back in the Middle Ages, important artists of the time were active in Dresden with commissions from the Saxon court. The Dresden Art Academy, today's College of Fine Arts, whose roots stretch back to the 17th century, acquired considerable importance. One of its most illustrious teachers, from 1764, was Bernardo Belotto, better known as Canaletto, the painter of the world-famous townscapes of Dresden. At the beginning of the 19th century, painters such as Anton Graff and Adrian Zingg made the Dresden Academy one of the most important art schools in Europe. Ernst Rietschel, Gottfried Semper and Ludwig Richter consolidated the reputation of the academy, which experienced a further zenith around the turn of the century with artists such as Gotthardt Kuehl and Robert Sterl.
-
-
- 
- Beyond the academic school of art, the group of artists known as "Die Brücke" (The Bridge) made Dresden one of the centres of expressionism at the beginning of the 20th century. With Oskar Kokoschka, Otto Dix, Hans Grundig and Wilhelm Rudolph, the City has since continued to attract important artists. Dresden, however, has not only always been a place in which artists have found ideal conditions to work. It has at the same time often been the subject of their works. Countless paintings and prints have spread the fame of the City, documenting both glorious times and the more tragic periods in Dresden's History.
-
-
- 
- In the first third of the 20th century Dresden was a centre for modern dance. In the years before the First World War, the School for Music and Rhythm of dance teacher Emile Jaques-Dalcroze stood as a symbol for cultural life in the Dresden garden town Hellerau. In 1920, Mary Wigman, the foremost representative of free dance in Germany, came to Dresden and founded not only a dance group and school at Bautzner Strasse 107 (today still used by the State Opera Company), but also the City's reputation as a City of dance. By the end of the 1920s, the "Wigman Central Institute" in Dresden and its branch schools in other towns taught around 2000 pupils. Gret Palucca, a pupil of Mary Wigman from 1920 to 1923, continued the traditions of free dance in Dresden. Her performances in the twenties and thirties brought her worldwide acclaim. In 1925 she started up her own dance school (Palucca School). The school still exists today and is one of the prime German training centres for stage dance, choreography and dance teaching.
-
-
- Destroyed in the firestorms of the 13th February 1945 and then reconstructed as a large socialist city, Dresden today has a new appearance. The second reconstruction of Dresden is in full swing. By 2006 at the latest, in time for the city's 800 year jubilee, Dresden should have been restored to what it was - a large city with a pulsating centre and probably the most beautiful city in Germany. The Frauenkirche church, the largest Protestant domed building in histo ry, is to be rebuilt with money contributed from all over the world. The whole area around the Frauenkirche, which is currently empty, will be restored as a piece of old Dresden. Next to historic Baroque buildings, new buildings with old dimensions will be built. In the heart of Dresden, the Royal Palace is being reconstructed. Directly opposite the palace is the Taschenbergpalais, which was rebuilt after being reduced to just its outer walls in the war.The economic life of Dresden is also flourishing again: tourism, an innovative computer industry and consumer goods are important sectors. Dresden is also a popular location for conferences and conventions.
-
-
- **With courtesy of www.dresden.de**
+  The fine arts as well have enjoyed a long tradition in Dresden. Even back in the Middle Ages, important artists of the time were active in Dresden with commissions from the Saxon court. The Dresden Art Academy, today's College of Fine Arts, whose roots stretch

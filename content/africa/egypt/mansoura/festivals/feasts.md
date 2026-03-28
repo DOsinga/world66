@@ -13,5 +13,3 @@ some festivals also to the islamic tradition ask any one in mansoura or all egyp
 
 
 tel: 0020109774413
-
-[back to Festivals](..)

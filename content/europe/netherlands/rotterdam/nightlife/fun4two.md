@@ -6,8 +6,6 @@ phone: "+31 (0)182 37 8724"
 type: "Erotic"
 url: "www.fun4two.nl"
 zipcode: "2841LA"
-latitude: 52.158392
-longitude: 4.49505
 ---
 
 type: Erotic
@@ -23,5 +21,3 @@ url: [www.fun4two.nl](http://www.fun4two.nl)
 tel: +31 (0)182 37 8724
 
 zipcode: 2841LA
-
-[back to Nightlife and Entertainment](..)

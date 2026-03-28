@@ -9,7 +9,5 @@ Narrow gauge rail with new trains going trough the countryside and small country
 
 **Contributors**
 April 21, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 type: By Road

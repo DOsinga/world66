@@ -9,8 +9,6 @@ Peterhead has two museums, it's own golf course, and reasonable amount of shops.
 
 **Contributors**
 January 31, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Peterhead Golf Club](/europe/unitedkingdom/scotland/peterhead/things_to_do/peterhead_golf_clu)
 

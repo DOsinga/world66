@@ -18,8 +18,6 @@ Rentals located on Forest Beach drive are close to the Piggly Wiggly and Bilo gr
 
 **Contributors**
 October 27, 2005
-new
-by [iszatmary](/member/iszatmary)
 
 ### Oh - the Pollen
 

@@ -1,8 +1,6 @@
 ---
 title: "El Bierzo"
 type: location
-latitude: 43.536859
-longitude: -7.041011
 ---
 
 Bierzo is in a sheltered mountain valley on the
@@ -44,6 +42,3 @@ grapes lend themselves to some excellent quality wines, and with good
 winemaking techniques Bierzo could quite possibly become one of
 northern Spain's new generation of high-profile wine regions in the new
 XXI century.
-
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 29 March 05

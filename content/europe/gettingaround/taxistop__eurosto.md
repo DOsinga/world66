@@ -9,13 +9,9 @@ Especially useful for travel to and from Belgium.
 
 **Contributors**
 February 24, 2007
-new
-by [joosts](/member/joosts) (1 point)
 
 
 
 
 
 url: [www.taxistop.be](http://www.taxistop.be/4/4eurostop.htm)
-
-[back to Getting Around](..)

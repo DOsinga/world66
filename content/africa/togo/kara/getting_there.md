@@ -8,8 +8,6 @@ Getting there and getting away.
 
 **Contributors**
 February 02, 2008
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 ### [Crossing the border to Benin](/africa/togo/kara/getting_there/crossing_the_borde)
 

@@ -5,8 +5,6 @@ address: "15 luxor st"
 email: "info@egyptlastminute.com"
 phone: "00201005759364"
 url: "www.egyptlastminute.com"
-latitude: 51.467397
-longitude: -0.100937
 ---
 
 Enjoy 8 days of life-changing sights and experiences that you can use all your 5 senses to explore. Transport yourself in time and place to a range of deserts full of unique features, pyramids and museums full of antiquities. Luxuriate on a cruise as you travel to Luxor and Aswan to learn about and experience temples with your own private Egyptologist. All trips are bespoke and you can customise your trip to meet your needs so that you have an adventure that will take your breath away. Be assured that all transportation is of the highest quality, air conditioned and has seat belts.
@@ -60,54 +58,6 @@ Start your tour today with a visit to the High Dam and the Unfinished Obelisk
 Continue your day exploring and being fascinated by the pretty Temple of Philae, which is devoted to the two goddesses Isis and Hathor.
 Relax and enjoy dinner -
 Sleep whilst you sail onboard the Nile cruise
-Day 7: Back to Cairo
-Meals: Breakfast
-After breakfast, you will fly to Cairo
-You will be transferred to Aswan airport for your 1-hour flight to Cairo.
-
-Upon arrival you will be transferred to your hotel
-Stay overnight in Cairo and explore the wide range of coffee shops and traditional eating places at your own leisure
-Day 8 trip to Remember
-
-After 8 exhilierating days of your Egypt Last Minute
-
-adventure, it will be time to share your journey with people back home. A guide will be waiting for you after your breakfast to take you to Cairo Airport.
-Meals: Breakfast
-
-Inclusions
-‘Meet and greet’ service by our Egypt Last Minute representatives
-Customer services available 24 hours a day, 7 days a week:
-Emergency number: 00201005759364 or toll free 1 877 775 7633
-All transport is private, top quality and air-conditioned
-Accommodation at all cities and food included as listed.
-Accommodation for 4 nights on 5 star Nile Cruise which is Full Board.
-Private multi lingual Egyptologist
-All tours and their entrance fees stated are included in the price
-Domestic flights.
-Camping equipment: sleeping bags, camel blanket & tents.
-All service charges and taxes.
-Exclusions
-International Airfare
-Entry visa to Egypt
-Any optional tours
-
-Prices
-USD ($)
-800
-
-Egypt Last Minute Travel Tips
-Travelling to Egypt is a wonderful experience but some tourists, who do not take necessary precautions, may find their holiday to be less pleasant than it should be. This can be avoided, so that everyone has a great time in Egypt with Egypt last Minute. For more info Click Here
-
-
-
-
-
-tel: 00201005759364
-
-url: [www.egyptlastminute.com](http://www.egyptlastminute.com)
-
-address: 15 luxor st
+Day 7: address: 15 luxor st
 
 email: info@egyptlastminute.com
-
-[back to Getting Around](..)

@@ -6,8 +6,6 @@ email: "weinbotschaft@weinbotschaft.at"
 phone: "+43/1/512 85 10"
 type: "First Class"
 url: "www.weinbotschaft.at"
-latitude: 48.204163
-longitude: 16.372335
 ---
 
 Normal
@@ -24,7 +22,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Normal
 0
@@ -40,7 +38,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Normal
 0
@@ -56,7 +54,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 The
 restaurant Weinbotschaft offers a very special culinary experience. Unique
@@ -77,7 +75,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 In the
 Weinbotschaft you always have a menu with freshly cooked biological ingredients
@@ -95,5 +93,3 @@ url: [www.weinbotschaft.at](http://www.weinbotschaft.at)
 address: Annagasse 12, 1010 Vienna
 
 email: weinbotschaft@weinbotschaft.at
-
-[back to Eating Out](..)

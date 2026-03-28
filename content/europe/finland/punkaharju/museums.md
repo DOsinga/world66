@@ -10,8 +10,6 @@ but there are some things you won't find anywhere in Finland.
 
 **Contributors**
 March 14, 2005
-new
-by [vilpponen](/member/vilpponen) (1 point)
 
 ### Lusto Finnish Forest Museum
 

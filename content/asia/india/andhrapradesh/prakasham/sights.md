@@ -1,0 +1,35 @@
+---
+title: "Sights in Prakasham"
+type: section
+type: "Hotspots"
+---
+
+The following are some sights and sounds of Prakasham:
+
+Sai baba Temple popularly called as Second Shiridi.
+
+Rangarayudu Water Tank
+
+Srigiri Hills -Venkateswara Swamy Temple.
+
+Chennakesevaswamy and Kasi Visweswara Swamy Temples.
+
+Kothapatnam Beach,Shivalayam,Ramalayam.
+
+Chadalavada Temple
+
+Valluramma Temple
+
+Raja Rajeswara Swamy Temple
+
+SBM Complex - India's II Biggest
+
+Vijaya(Prakasham) Milk Dairy Asia's II Biggest
+
+Gundlkamma Reservoir,Venkateswara Swamy Temple.
+
+### [Purushotham](/asia/india/andhrapradesh/prakasham/sights/purushotham)
+
+Bhiravakuna
+
+type: Hotspots

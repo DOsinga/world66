@@ -18,5 +18,3 @@ type: Hunting and Fishing
 
 
 url: [www.parks.ca.gov](http://www.parks.ca.gov/?page_id=650)
-
-[back to Things to do](..)

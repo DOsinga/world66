@@ -14,5 +14,3 @@ type: Tourist information
 
 
 url: [www.apt.bergamo.it](http://www.apt.bergamo.it/L_inglese/home_inglese.html)
-
-[back to Practical Information](..)

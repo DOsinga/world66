@@ -22,5 +22,3 @@ url: [www.imfree.com.au](http://www.imfree.com.au)
 address: Town Hall Square, 483 George St, Sydney, 2000
 
 email: info@imfree.com.au
-
-[back to Things to do](..)

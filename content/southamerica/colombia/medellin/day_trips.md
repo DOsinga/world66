@@ -23,9 +23,5 @@ Located 54 kilometers away from Medellin, Carmen de Viboral is a small magnifice
 
 **Contributors**
 February 17, 2010
-change
-by [ashmita](/member/ashmita_)
 
 February 17, 2010
-change
-by [ctanios](/member/ctanios)

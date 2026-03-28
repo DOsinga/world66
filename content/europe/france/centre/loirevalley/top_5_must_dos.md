@@ -61,5 +61,3 @@ medieval quarter around the Place Pumereau.
 
 **Contributors**
 August 25, 2009
-change
-by [kimerly](/member/kimerly)

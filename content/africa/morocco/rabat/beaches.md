@@ -19,5 +19,3 @@ If your family likes to surf and would like to something a little more adventuro
 
 **Contributors**
 April 14, 2010
-change
-by [mbailin](/member/mbailin)

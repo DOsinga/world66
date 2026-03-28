@@ -1,0 +1,22 @@
+---
+title: "MSRTC"
+type: poi
+address: "86"
+phone: "9876543211"
+type: "By Road"
+---
+
+Maharashtra State Road transport buses are available from Mumbai, Pune.
+
+**Contributors**
+August 11, 2005
+
+type: By Road
+
+
+
+
+
+address: 86
+
+tel: 9876543211

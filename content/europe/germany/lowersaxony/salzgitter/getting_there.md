@@ -6,16 +6,12 @@ email: "info@TicketStation-Salzgitter.de"
 phone: "0049-5341-887502"
 type: "By Rail"
 url: "www.ticketstation-salzgitter.de"
-latitude: 52.15287
-longitude: 10.346103
 ---
 
 Salzgitter Transportation
 
 **Contributors**
 August 14, 2006
-new
-by [bernhadette](/member/bernhadette)
 
 ### [Train Station Salzgitter-Lebenstedt](/europe/germany/lowersaxony/salzgitter/getting_there/train_station_salz)
 

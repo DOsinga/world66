@@ -78,5 +78,3 @@ alleys, there is something to please every family member at this spot.
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

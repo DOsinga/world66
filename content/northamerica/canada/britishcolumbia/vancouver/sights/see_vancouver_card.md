@@ -20,5 +20,3 @@ tel: 604-295-1157
 url: [www.seevancouvercard.com](http://www.seevancouvercard.com)
 
 email: vcs@smartvisitsolutions.com
-
-[back to Sights](..)

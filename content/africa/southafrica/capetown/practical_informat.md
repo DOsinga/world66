@@ -31,29 +31,4 @@ to September Cape Town experiences winter, with temperatures as low as
 **Tax and Refunds**
 
 If you purchased anything in Cape Town, chances are you’ve been
-charge with 14 percent VAT. However, if you are taking your purchases back to
-your country you can have the VAT refunded to you when leaving the
-country. Simply present a tax invoice or official receipt of your
-purchase to the custom officer in the airport. Your merchandise will be
-inspected and after that you can claim your refund.
-
-**Money Matters**
-
-The official currency of Cape Town is the South African Rand. It is
-advisable to change your currency into Rand at authorized money
-changers or at the banks. However if you have credit cards you can use them to purchase almost everything except gasoline, so it is still nice
-to carry around some cash.
-
-**Emergency and Phone Dialing**
-
-If you run into trouble or have an emergency you can dial
-these numbers for assistance:
-
-Emergency - 107; Netcare - 911 Cape Town dialing code 021; Police - 10111; and Ambulance - 10177
-
-The international country dialing code for SA is: 0027. Reach South Africa by dialing: SA +27 (area code) (telephone number).
-
-**Contributors**
-March 15, 2010
-new
-by [kwalker](/member/kwalker)
+charge with 14 percent VAT. However, if you are taking your purchases

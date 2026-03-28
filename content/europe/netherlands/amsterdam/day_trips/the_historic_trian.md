@@ -10,8 +10,6 @@ url: "www.museumstoomtram.nl"
 
 **Contributors**
 May 12, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 
 
@@ -20,5 +18,3 @@ tel: +31 (0) 22 9214862
 url: [www.museumstoomtram.nl](http://www.museumstoomtram.nl)
 
 email: info@museumstoomtram.nl
-
-[back to Day Trips](..)

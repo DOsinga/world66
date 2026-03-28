@@ -24,5 +24,3 @@ url: [www.tropical-paradise.com.br](http://www.tropical-paradise.com.br)
 address: Estrada Santa Rita, 4, Bracuhy, Angra dos Reis
 
 email: tropical@tropical-paradise.com.br
-
-[back to Tours and Excursions](..)

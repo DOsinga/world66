@@ -13,8 +13,6 @@ url: "www.yaxkinspa.com"
 
 **Contributors**
 October 21, 2007
-new
-by [herre](/member/herre)
 
 ### [Yaxkin Spa Maya GiftShop](/northamerica/mexico/chichenitza/shopping/yaxkin_spa_maya_gi)
 

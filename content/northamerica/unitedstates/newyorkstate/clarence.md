@@ -1,0 +1,4 @@
+---
+title: "Clarence"
+type: location
+---

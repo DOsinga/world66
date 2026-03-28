@@ -38,5 +38,3 @@ BR-290. If you're planning to visit Uruguay, you can use the BR-116.
 
 **Contributors**
 December 28, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)

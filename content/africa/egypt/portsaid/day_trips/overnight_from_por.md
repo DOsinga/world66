@@ -5,8 +5,6 @@ address: "Egypt, Cairo, Giza"
 email: "magdy@egyptonlinetours.com"
 phone: "022 0162922290"
 url: "www.egyptonlinetours.com"
-latitude: 30.015809
-longitude: 31.333456
 ---
 
 ***This article is about the Egyptian capital.***
@@ -30,72 +28,6 @@ Cairo (pronounced /ˈkaɪroʊ/ ( listen); Arabic: القاهرة‎ al-Qāhira, 
 - Full day** tour** in **Cairo** to visit the **Egyptian** Museum of antiquities
 - Saladdin Citadel and Alabaster Mosque of Mohamed Ali
 - Lunch will be served at a five star hotel restaurant
-- Drive back to **Port Said
-**- Drop off at your **Ship** Terminal at **Port Said
-**
-
-***Tour Includes***
-- Pick up services from your** ship** Terminal by our representatives
-- All transfers by deluxe air-conditioning vehicles in** Port Said **and** Cairo
-**- **Sightseeing tours** as stated in the **Tour** itinerary
-- Egyptology expert English speaking guide
-- Entrance fees to the sights as per itinerary
-- Five star hotel accommodation in **Cairo** with breakfast
-- Lunch meal will be served during** tours** at a local restaurant by the **Pyramids
-**- Free mineral water and soft drink during tours
-
-Payment Facilities:
-1) Online Payment by Credit card visa or Master via our secure payment page on our website
-http://www.egyptonlinetours.com/Travels/Payment.aspx
-
-2 ) Bank transfer:
-Maestro Online Travel Egypt -bank details:
-Account Name: Maestro Online Travel
-Account No: 517517
-Bank: Arab African International Bank
-Branch: Haram
-Swift: ARAIEGCX
-
-Payment Plan:
-25% down payment required to secure the booking ( by credit cards )
-75% balance in pick up from your hotel in the tour day. ( credit card / or / cash )
-
-What to bring
-Passport valid for 6 months
-Comfortable shoes
-Cotton clothes in summer
-Warm clothes in winter
-Sun block
-Sunglasses
-Hat
-Photo/Video Camera
-
-Tour guide
-Egypt guided tours are highly recommended and our guides are knowledgeable Egyptologist guides who have academic qualifications to make your tour to Egypt extra special
-
-Vehicles used
-Vehicles are new branded air-conditioned with a professional driver, but drivers in Egypt do not speak English and they cannot act as tour guides for the Egyptian monumental sights
-
-Look forward to hearing from you soon,
-Best regards,
-
-Magdy Abdel GHany
-Tour Consultant
-
-Maestro Online Travel Egypt-Haram Branch
-Cell : 002 01629 222 90
-
-Emails: magdy@egyptonlinetours.com
-Website: www.egyptonlinetours.com
-
-
-
-tel: 022 0162922290
-
-url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com)
-
-address: Egypt, Cairo, Giza
+- Drive address: Egypt, Cairo, Giza
 
 email: magdy@egyptonlinetours.com
-
-[back to Day Trips](..)

@@ -47,9 +47,5 @@ This is the celebration of King Mohammed VI's 1999 accession to the Moroccan thr
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)
 
 January 30, 2010
-new
-by [ckajs](/member/ckajs)

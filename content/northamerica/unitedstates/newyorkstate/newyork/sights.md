@@ -78,7 +78,3 @@ address: Lower Manhattan
 tel: Liberty Island (212) 269-5755 /Recorded Info:(212) 363-3200
 
 openings: July-August: 9:30am-5:30pm daily; September to June: 9:30am-6pm daily. Closed: December 25.
-
-## Subsections
-
-[Parks](/northamerica/unitedstates/newyorkstate/newyork/sights/parks)

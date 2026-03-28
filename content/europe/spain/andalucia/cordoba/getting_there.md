@@ -23,5 +23,3 @@ Alternatively, you can rent a car in any town and drive to Cordoba. The trip is 
 
 **Contributors**
 October 09, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

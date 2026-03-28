@@ -7,5 +7,3 @@ Huehuetenango is a Department of enormous tourist wealth. Beginning at the Cuchu
 
 **Contributors**
 January 08, 2005
-new
-by [jurandirtje](/member/jurandirtje)

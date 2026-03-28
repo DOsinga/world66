@@ -1,8 +1,6 @@
 ---
 title: "Denmark"
 type: location
-latitude: 55.670249
-longitude: 10.333328
 ---
 
 Located in northern Europe, Denmark is bordered by the North Sea, the Baltic Sea, and Germany, which is its only connection to the European mainland. Most of its landmass is occupied by the Jutland peninsula while the remaining 500 islands, of which only a hundred are occupied, comprise the rest of the country. The Skagerrak and Kattegat straits separate it from Norway and Sweden. 
@@ -20,23 +18,3 @@ Then there are the spectacular white chalk cliffs of Mon's Klint, on the island 
 Cycling is an activity that tourists often indulge in Denmark along with swimming and surfing. Although you can visit Denmark throughout the year because of its mild climate, May and June see the country at its best. 
 
 Right now world66.com does not have an editor for Denmark. If you are interested click here.
-
-## Destinations
-
-- [Aalborg](/europe/denmark/aalborg)
-- [Aarhus](/europe/denmark/aarhus)
-- [Billund](/europe/denmark/billund)
-- [Bornholm island](/europe/denmark/bornholmisland)
-- [Christianso](/europe/denmark/christianso)
-- [Copenhagen](/europe/denmark/copenhagen)
-- [Esbjerg](/europe/denmark/esbjerg)
-- [Haderslev](/europe/denmark/haderslev)
-- [Koge](/europe/denmark/koge)
-- [Mandø](/europe/denmark/mand)
-- [Mon](/europe/denmark/mon)
-- [Odense](/europe/denmark/odense)
-- [Ribe](/europe/denmark/ribe)
-- [Rungstedlund](/europe/denmark/rungstedlund)
-- [Ry](/europe/denmark/ry)
-- [Sakskobing](/europe/denmark/sakskobing)
-- [Skagen](/europe/denmark/skagen)

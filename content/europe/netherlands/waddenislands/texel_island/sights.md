@@ -13,5 +13,3 @@ Forth, Tasmania, Australia
 
 **Contributors**
 May 10, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)

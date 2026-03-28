@@ -54,5 +54,3 @@ openings: 10:30am-6:30pm Mon-Fri; until 8:30pm Thu; 10am-2pm Sat/Sun
 tel.: +49 451 7060113
 
 address: Holstentor-Passage
-
--->

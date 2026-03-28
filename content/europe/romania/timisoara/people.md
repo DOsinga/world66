@@ -8,5 +8,3 @@ His career began with a lifeguard job, and then he worked as a swimming-wear mod
 
 **Contributors**
 November 16, 2008
-new
-by [psychoralu](/member/psychoralu)

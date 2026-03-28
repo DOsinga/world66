@@ -26,5 +26,3 @@ url: [www.hotgirls.lv](http://www.hotgirls.lv)
 address: Stabu street 54
 
 email: info@hotgirls.lv
-
-[back to Nightlife and Entertainment](..)

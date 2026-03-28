@@ -19,5 +19,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#lookout](http://www.sfgaybarlist.com#lookout)
 
 address: 3600 16th St.
-
-[back to Nightlife and Entertainment](..)

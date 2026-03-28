@@ -7,8 +7,6 @@ type: section
 
 **Contributors**
 December 08, 2005
-new
-by [maikhan](/member/maikhan)
 
 We currently have no Sights listed in Ibirapuera Park.
 

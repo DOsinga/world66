@@ -17,12 +17,8 @@ It is also possible to see independently. You can group up to take a taxi, which
 
 **Contributors**
 July 21, 2006
-new
-by [yohay elam](/member/yohay_elam) (2 points)
 
 February 15, 2008
-change
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Graves and Cemeteries
 
@@ -31,5 +27,3 @@ type: Graves and Cemeteries
 
 
 address: Sillustani
-
-[back to Sights](..)

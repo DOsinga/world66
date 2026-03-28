@@ -11,7 +11,4 @@ ChaCha: with a dark-exotic interior in a small house in the Steendam, this is th
 
 Het Oeverloze Eiland: if you´re in for a cup of tea served the way it should be served, this is the place to be. They have a large variety of coffee too, and the ambience is different on the three floors you can choose from. (Oudburg 39)
 
-*Change history*
-Orginal article by [joosts](/member/joosts) on 11 August 04
-
-Write up by [joosts](/member/joosts) on 24 August 04
+Write up on 24 August 04

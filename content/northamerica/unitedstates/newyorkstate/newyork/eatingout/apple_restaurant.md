@@ -11,8 +11,6 @@ This restaurant is really a pan asain type of restaurant. It's really spacious s
 
 **Contributors**
 May 06, 2005
-new
-by [tea](/member/tea) (1 point)
 
 type: Vietnamese
 
@@ -25,5 +23,3 @@ tel: 212-473-8888
 url: [www.applerestaurant.com](http://www.applerestaurant.com)
 
 address: 17 Waverly Place
-
-[back to Eating Out](..)

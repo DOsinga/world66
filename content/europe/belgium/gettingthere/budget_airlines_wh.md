@@ -18,5 +18,3 @@ type: By Air
 
 
 url: [www.low-cost-airline-guide.com](http://www.low-cost-airline-guide.com)
-
-[back to Getting There](..)

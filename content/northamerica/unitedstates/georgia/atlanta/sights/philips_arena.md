@@ -11,8 +11,6 @@ Philips Arena is located in downtown Atlanta, near many of the city's other attr
 
 **Contributors**
 March 21, 2008
-new
-by [the rev](/member/the_rev)
 
 type: Hotspots
 
@@ -25,5 +23,3 @@ tel: (404) 878-3000
 url: [www.philipsarena.com](http://www.philipsarena.com)
 
 address: 1 Philips Drive
-
-[back to Sights](..)

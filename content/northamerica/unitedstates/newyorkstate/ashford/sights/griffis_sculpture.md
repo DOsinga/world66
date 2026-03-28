@@ -28,5 +28,3 @@ url: [www.griffispark.org](http://www.griffispark.org)
 address: Mill Valley Road (County Rte. 75)
 
 email: griffispark@aol.com
-
-[back to Sights](..)

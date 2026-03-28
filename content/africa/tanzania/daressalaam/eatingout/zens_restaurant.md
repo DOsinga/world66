@@ -31,5 +31,3 @@ address: Mikocheni "B" Opp. St. Laureate Int. School, Kwa Warioba, Dar-es-salaam
 PriceOfMenu: $ 25
 
 email: infor@zensbar.com
-
-[back to Eating Out](..)

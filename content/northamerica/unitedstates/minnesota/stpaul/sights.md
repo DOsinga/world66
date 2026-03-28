@@ -10,5 +10,3 @@ type: section
 [Historic Buildings](/northamerica/unitedstates/minnesota/stpaul/sights?subsection=Historic%20Buildings)
 
 [Churches](/northamerica/unitedstates/minnesota/stpaul/sights?subsection=Churches)
-
--->

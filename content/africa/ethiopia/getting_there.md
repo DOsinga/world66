@@ -34,6 +34,3 @@ There are trains from Djibouti through Dire Dawa to Addis Ababa but not reliable
 Overland travel from Kenya is possible through Moyale but security is poor, particularly on the Kenyan side.
 
 The border between Eritrea and Ethiopia is closed and overland travel from Sudan and from Somalia hardly to be recommended.
-
-*Change history*
-Orginal article by [Ingvar](/member/ingvar) on 05 February 05

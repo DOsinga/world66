@@ -50,7 +50,5 @@ of the American Rose Society, which has cataloged over 15,000 varieties.
 
 **Contributors**
 July 21, 2007
-change
-by [crlauer](/member/crlauer)
 
 type: Other

@@ -5,8 +5,6 @@ address: "538 W 21st St #65155"
 email: "caroldmoore820@gmail.com"
 phone: "866-613-2567"
 url: "www.cashadvance.com"
-latitude: 40.746771
-longitude: -74.006204
 ---
 
 Normal
@@ -22,7 +20,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Cash Advance
 
@@ -46,5 +44,3 @@ url: [www.cashadvance.com](http://www.cashadvance.com/)
 address: 538 W 21st St #65155
 
 email: caroldmoore820@gmail.com
-
-[back to Top 5 Must Do's](..)

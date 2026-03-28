@@ -23,5 +23,3 @@ tel: 043 3217806
 address: Koetstraat 5
 
 PriceOfMenu: 17 euro
-
-[back to Eating Out](..)

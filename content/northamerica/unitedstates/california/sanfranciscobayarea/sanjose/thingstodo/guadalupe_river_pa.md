@@ -33,17 +33,3 @@ volunteer opportunities to increase public support and
 involvement
 
 type: Trekking
-
-
-
-accessibility: some areas may be difficult
-
-tel: 408-298-7657
-
-url: [www.grpg.org](http://www.grpg.org/)
-
-address: 438 Coleman Ave
-
-email: info@grpg.org
-
-[back to Things to do](..)

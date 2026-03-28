@@ -19,7 +19,3 @@ Be sure that you have arranged for pickup by the operator of your lodging , as t
 See: http://www.tropicair.com and http://mayaairways.com
 
 type: By Air
-
-
-
-[back to Getting There](..)

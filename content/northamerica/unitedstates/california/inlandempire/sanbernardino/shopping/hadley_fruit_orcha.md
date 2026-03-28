@@ -52,5 +52,3 @@ tel: 1-800-854-5655
 url: [www.hadleyfruitorchards.com](http://www.hadleyfruitorchards.com)
 
 email: hadleyscom@hadleyfruitorchards.com
-
-[back to Shopping](..)

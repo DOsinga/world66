@@ -9,5 +9,3 @@ To get to the airport you can do the same, from the Rio Branco Terminal you can 
 
 **Contributors**
 November 27, 2005
-change
-by [tumonis](/member/tumonis)

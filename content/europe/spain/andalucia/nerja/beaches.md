@@ -17,6 +17,4 @@ Small enclosed beach with reasonable sand which is a bit stoney and hard on your
 
 **Playa Burriana**
 
-The biggest beach in the area - 20 minutes walk from the town centre in the opposite direction. Lively, with a good choice of restaurants and sunloungers for hire.  
-
--->
+The biggest beach in the area - 20 minutes walk from the town centre in the opposite direction. Lively, with a good choice of restaurants and sunloungers for hire.

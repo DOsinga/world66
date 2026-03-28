@@ -15,5 +15,3 @@ type: general
 email: info@drakensberg-tourism.com
 
 url: [www.drakensberg-tourism.com](http://www.drakensberg-tourism.com)
-
-[back to Things to do](..)

@@ -1,8 +1,6 @@
 ---
 title: "Karelian Isthmus"
 type: location
-latitude: 60.496001
-longitude: 29.731345
 ---
 
 Karjalan takaisin!

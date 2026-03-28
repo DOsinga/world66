@@ -5,8 +5,6 @@ address: "Paradise Club Mykonos"
 email: "info@paradiseclub-mykonos.com"
 type: "Clubs and dancing"
 url: "www.paradiseclub-mykonos.com"
-latitude: 37.410356
-longitude: 25.355498
 ---
 
 Paradise Club is a discoteque (open from 00 a.m. to 6 a.m.). The No1. Club in Mykonos with an amazing line up!
@@ -17,8 +15,6 @@ In Summer 2006 played Erick Morillo, Junior Sanchez, George Morell, Todd Terry, 
 
 **Contributors**
 November 03, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing
 
@@ -31,5 +27,3 @@ url: [www.paradiseclub-mykonos.com](http://www.paradiseclub-mykonos.com)
 address: Paradise Club Mykonos
 
 email: info@paradiseclub-mykonos.com
-
-[back to Nightlife and Entertainment](..)

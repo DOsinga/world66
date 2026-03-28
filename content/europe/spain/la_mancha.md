@@ -1,8 +1,6 @@
 ---
 title: "La Mancha"
 type: location
-latitude: 28.377437
-longitude: -16.69775
 ---
 
 La Mancha is part of Castille. It is formed by five territories [Toledo](/europe/spain/centralspain/toledo), [Ciudad Real](/europe/spain/centralspain/ciudadreal), [Albacete](/europe/spain/la_mancha/albacete), [Cuenca](/southamerica/ecuador/cuenca) and [Guadalajara](/northamerica/mexico/guadalajara).
@@ -14,10 +12,3 @@ Toledo and Cuenca are very historic and monumental centers but there are other w
 La Mancha is Don Quixote land where Cervantes located the most important book in Spanish language. Don´t forget to visit the giant-mills in Campo de Criptana or Consuegra.
 
 Try some dishes like Pisto, Gachas or hunting meat.
-
-## Top Destinations in La Mancha
-
-[Alcazar de San Juan](/europe/spain/la_mancha/alcazar_de_san_jua)
-[Talavera de la Reina](/europe/spain/la_mancha/talavera_de_la_rei)
-[Almagro](/europe/spain/la_mancha/almagro)
-[Guadalajara](/europe/spain/la_mancha/guadalajara)

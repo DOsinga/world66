@@ -11,5 +11,3 @@ The small beach is enclosed by alpine trees, sheltered and hidden by a rocky pro
 
 
 url: www.mediterano.hr
-
-[back to Beaches](..)

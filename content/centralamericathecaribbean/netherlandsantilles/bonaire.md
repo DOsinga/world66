@@ -1,0 +1,4 @@
+---
+title: "Bonaire"
+type: location
+---

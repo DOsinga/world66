@@ -1,0 +1,4 @@
+---
+title: "Semarang"
+type: location
+---

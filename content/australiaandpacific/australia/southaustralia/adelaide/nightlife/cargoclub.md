@@ -15,5 +15,3 @@ type: Dancing
 address: Hindlet St 213
 
 tel: +61 (0)8 8231 2327
-
-[back to Nightlife and Entertainment](..)

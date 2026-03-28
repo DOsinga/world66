@@ -1,8 +1,6 @@
 ---
 title: "Panama city"
 type: location
-latitude: 8.971449
-longitude: -79.53418
 ---
 
 Panama city is quite an exciting city with a lot of history. You will be able to see many buildings in the typical Colonial Baroque style that was popular in all of Central America before the Spaniards were kicked out. 

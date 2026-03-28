@@ -1,0 +1,4 @@
+---
+title: "Lyndhurst"
+type: location
+---

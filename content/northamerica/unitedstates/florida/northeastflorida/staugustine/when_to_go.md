@@ -17,8 +17,4 @@ The summer season in St. Augustine is from May to September. This is also when m
 
 **September to November**
 
-If you are trying to stay away from the crowds, this is the perfect time to visit because most kids are heading back to school. The temperatures and humidity are also manageable during this time of year. You still have humidity, but it is not as bad as during the summer months. Similar to the months of April and May, the prices for hotels and rental cars are often lower. Visitors might want to avoid early September, as the weather is just starting to cool off and the crowds are still large.
-
-#### **Winter Season**
-
-The months of December to April comprise the winter season and are considered the off-peak season for St. Augustine. This period is considered off-peak because of the colder weather, although it is not unbearably cold. There is a higher chance of rain, but the temperatures are still quite warm. The rain doesn&rsquo;t usually last long, so any rain would barely affect vacation plans.
+If you are trying to stay away from the crowds, this is the perfect time to visit because most kids are heading

@@ -8,13 +8,5 @@ Wenceslas Square (Czech: Václavské náměstí) is one of the main city squares
 
 **Contributors**
 February 06, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Squares
-
-
-
-
-
-[back to Sights](..)

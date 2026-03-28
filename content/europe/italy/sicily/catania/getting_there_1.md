@@ -17,7 +17,4 @@ Taxi from airport Fontanarossa to Catania city, approx €25. The lokal bus take
 
 Intercity trains runs from Syracuse south of Catania to Rome on the mainland.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 24 June 04
-
-Minor corrections by [gagarin](/member/gagarin) on 24 June 04
+Minor corrections by [gagarin](/world/member/gagarin) on 24 June 04

@@ -4,8 +4,6 @@ type: poi
 address: "Narodni 26"
 type: "Shopping centers and malls"
 url: "www.tesco-shop.cz"
-latitude: 50.082096
-longitude: 14.419699
 ---
 
 Tesco Department Store is probably the biggest deparment store in the city centre.
@@ -20,8 +18,6 @@ url: [www.tesco-shop.cz](http://www.tesco-shop.cz/)
 
 address: Narodni 26
 
-[back to Shopping](..)
-
 ##
 
 -
@@ -32,17 +28,10 @@ address: Narodni 26
 
 [](/lib/map/handle?loc=europe|czechrepublic|prague)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

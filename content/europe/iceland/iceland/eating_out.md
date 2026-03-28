@@ -10,5 +10,3 @@ Finding "typical" icelandic food can be slightly more tricky. The kind of food t
 Icelandic foods that can be picked up in supermarkets and should be tried are sweet pastries, a local dairy product called "skyr" (mostly resembles curds), dried fish, licorice, and the icelandic chocolate. 
 
 Most restaurants and cafés are (compared to European prices) are mid-to-upper price range. There are also a few WAY up there, like the Hotel Holt or the Pearl but both are worth trying if possible. The Pearl should, however, be visited for free for the fantastic viewpoint of the Reykjavik skyline.
-
--->

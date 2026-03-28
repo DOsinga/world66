@@ -1,0 +1,4 @@
+---
+title: "MOSJEN"
+type: location
+---

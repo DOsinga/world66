@@ -14,8 +14,6 @@ BOULEVAR -- A good view of the neighboring city of Banda de Shilcayo can be seen
 
 **Contributors**
 February 11, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Plaza de Armas](/southamerica/peru/tarapoto/sights/plaza_de_armas)
 
@@ -51,17 +49,10 @@ accessibility: Within easy walking distance of the Plaza de Armas
 
 address: At the end of Jiron Maynas
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -8,7 +8,5 @@ This square contains not only the Ayuntamiento [Town Hall], a magnificent buildi
 
 **Contributors**
 May 02, 2005
-new
-by [davidx](/member/davidx) (1 point)
 
 type: Squares

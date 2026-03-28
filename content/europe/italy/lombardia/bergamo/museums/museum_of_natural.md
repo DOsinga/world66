@@ -8,5 +8,3 @@ See the gaint Mammoth and many other animals at the Museum of Natural Science in
 
 **Contributors**
 May 30, 2005
-new
-by [karenbru](/member/karenbru) (1 point)

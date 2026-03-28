@@ -1,0 +1,4 @@
+---
+title: "Cascais"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Dangriga"
+type: location
+---

@@ -8,8 +8,6 @@ email: "post@blaaoslo.no"
 phone: "+47 40004277"
 type: "Clubs and dancing"
 url: "www.blaaoslo.no"
-latitude: 59.9204
-longitude: 10.752683
 ---
 
 BLÅ
@@ -43,5 +41,3 @@ accessibility: tram and bus
 address: brenneriveien 9c
 
 email: post@blaaoslo.no
-
-[back to Nightlife and Entertainment](..)

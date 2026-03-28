@@ -10,5 +10,3 @@ connection: U+S Alexanderplatz
 address: Schloßplatz 1
 
 tel: 030 40002116
-
--->

@@ -11,8 +11,6 @@ You can have all sorts of wines and cheeses. Recomendable is a wine-tasting sesi
 
 **Contributors**
 February 23, 2007
-new
-by [joosts](/member/joosts) (1 point)
 
 type: Wine bars
 
@@ -23,5 +21,3 @@ type: Wine bars
 url: [www.winery.com.ar](http://www.winery.com.ar)
 
 address: Centro, Puerto madero, Belgrano,...
-
-[back to Nightlife and Entertainment](..)

@@ -1,9 +1,9 @@
 ---
-title: "Radhima Hotels in Vlora Travel Guide"
+title: "Radhima Hotels in Vlora"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 at www.radhima-hotels.com We offer all the hotels in Vlora
 in the city and also in the villages, in this page are also beach
@@ -20,9 +20,3 @@ Vlora is the town where the Independence of Albania was proclaimed in
 1912. In Vlora you can visit: Museum of Independence, Ethnographic
 Museum, Historical Museum, Kanina Castle, the beaches and the coastal
 road etc.
-
-*Part or or all of this text stems from the original article at: general information*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 01:14

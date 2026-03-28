@@ -15,5 +15,3 @@ type: Bars and Cafes
 address: nab.reki Moyki 82 (trolleybus no.5 /no.22 from Nevskiy prospekt)
 
 openings: 12:00-24:00
-
-[back to Nightlife and Entertainment](..)

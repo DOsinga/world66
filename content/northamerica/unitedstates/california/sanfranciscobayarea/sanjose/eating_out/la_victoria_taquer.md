@@ -82,7 +82,5 @@ The usual beans are whole pintos, but you can also get refried and vegetarian bl
 
 **Contributors**
 February 16, 2007
-new
-by [crlauer](/member/crlauer)
 
 type: Mexican

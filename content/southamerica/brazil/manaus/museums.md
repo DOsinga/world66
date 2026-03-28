@@ -23,9 +23,5 @@ This museum delves into the history of Manaus to a time when the English created
 
 **Contributors**
 January 11, 2010
-change
-by [nicole mesaros](/member/nicole_mesaros)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

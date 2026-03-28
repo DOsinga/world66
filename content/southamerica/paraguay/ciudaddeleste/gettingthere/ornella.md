@@ -12,5 +12,3 @@ type: By Road
 
 
 email: ornella@lineone.net
-
-[back to Getting There](..)

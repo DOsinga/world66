@@ -7,8 +7,6 @@ Here are a few ways to get around the City of Leeds.
 
 **Contributors**
 April 03, 2006
-change
-by [nathanjmassey](/member/nathanjmassey) (1 point)
 
 ### [Leeds Bus Station](/europe/unitedkingdom/england/leeds_sheffield_a/leeds/getting_around/leeds_bus_station)
 

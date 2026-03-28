@@ -11,5 +11,3 @@ Taxis in Manchester are on the whole quite inexpensive, premiums are paid, howev
 
 
 email: JimSledgley@webtropy.com
-
-[back to Getting Around](..)

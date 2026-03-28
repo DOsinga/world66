@@ -18,5 +18,3 @@ address: 4901 Lomas Blvd NE
 tel: (505)255-5079
 
 zipcode: Albuquerque, NM
-
-[back to Eating Out](..)

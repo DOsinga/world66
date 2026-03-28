@@ -15,5 +15,3 @@ type: Shopping centers and malls
 
 
 address: Rua Lauro Muller, 116 - Botafogo.
-
-[back to Shopping](..)

@@ -10,8 +10,6 @@ This is a FANTASTIC little place serving up hot Brazilian food and even hotter m
 
 **Contributors**
 January 29, 2007
-new
-by [rani d.](/member/rani_d.) (2 points)
 
 type: Concerts
 
@@ -22,5 +20,3 @@ type: Concerts
 tel: 3334-3041 / 9197-9415
 
 address: Rua Guedes Cabral, 81
-
-[back to Nightlife and Entertainment](..)

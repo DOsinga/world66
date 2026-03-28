@@ -1,9 +1,9 @@
 ---
-title: "Fort Smith Travel Guide"
+title: "Fort Smith"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 60°00'N, 111°58' W
 
@@ -18,11 +18,3 @@ There are four locations in town where you can get internet access for free.
 3) Aurora College's library... again easy to find because there are signs around town showing you how to find it. 8:30 am to 9 pm every day except Sindays from Noon to 9pm.
 
 4) Uncle Gabe's Frienship Centre also had free internet access available, but is a little more difficuld to find.... ask anyone how to get there... This site is open most weekday evenings.
-
-#### Contributors
-
-January 22, 2005 new by [mediamentor](/member/mediamentor)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 14:07

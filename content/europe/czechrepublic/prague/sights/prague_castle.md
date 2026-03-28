@@ -15,13 +15,5 @@ of the President of the Czech Republic.
 
 **Contributors**
 January 20, 2006
-new
-by [hpharmsen](/member/hpharmsen)
 
 type: Castles
-
-
-
-
-
-[back to Sights](..)

@@ -6,8 +6,6 @@ email: "info@spiritodivino.com"
 phone: "+39 (0)6 5896689"
 type: "Local"
 url: "www.spiritodivino.com"
-latitude: 41.888184
-longitude: 12.475364
 ---
 
 This restaurant is recommended by several guides and rightly so.
@@ -30,5 +28,3 @@ url: [www.spiritodivino.com](http://www.spiritodivino.com/)
 address: via dei Genovesi 31 A/B
 
 email: info@spiritodivino.com
-
-[back to Eating Out](..)

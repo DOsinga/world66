@@ -18,5 +18,3 @@ address: 1410 Sebastopol Rd
 tel: (707) 578-8832
 
 zipcode: Santa Rosa, CA 95407
-
-[back to Nightlife and Entertainment](..)

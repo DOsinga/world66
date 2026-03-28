@@ -9,6 +9,4 @@ The UVic campus is a scenic and pleasant place to visit or conduct business with
 
 **University of Victoria(davidlamauditorium) . **
 
-UVic is easily accessible by car, bus, or bicycle, and is only a short stroll from the ocean. Free guided walking tours by reservation at noon on Mondays and Fridays. 
-
--->
+UVic is easily accessible by car, bus, or bicycle, and is only a short stroll from the ocean. Free guided walking tours by reservation at noon on Mondays and Fridays.

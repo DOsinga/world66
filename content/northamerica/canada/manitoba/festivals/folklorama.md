@@ -34,5 +34,3 @@ tel: 1 800 665 0234
 email: folkarts@folklorama.ca
 
 url: [www.folklorama.ca](http://www.folklorama.ca)
-
-[back to Festivals](..)

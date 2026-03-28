@@ -23,5 +23,3 @@ tel: 00353 1 8371008
 address: Shantallagh Road, Beaumont, Dublin 9
 
 PriceOfMenu: From 8.00 Euro
-
-[back to Eating Out](..)

@@ -15,8 +15,6 @@ Great deals!!! Absolute Best Rate Guaranteed! !Find the latest hotel deals with.
 
 **Contributors**
 August 28, 2013
-new
-by [travelmart](/member/travelmart)
 
 type: Other
 
@@ -33,5 +31,3 @@ url: [www.travelmartltd.com](http://www.travelmartltd.com)
 address: View Park Towers, 5th Floor Monrovia Street.
 
 email: info@travelmartltd.com
-
-[back to Things to do](..)

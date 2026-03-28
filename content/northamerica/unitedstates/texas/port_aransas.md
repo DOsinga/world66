@@ -13,9 +13,4 @@ Great people.
 
 Island living.
 
-*Change history*
-Orginal article by [skullyface](/member/skullyface) on 11 October 04
-
-Minor corrections by [skullyface](/member/skullyface) on 11 October 04
-
--->
+Minor corrections on 11 October 04

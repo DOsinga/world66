@@ -12,7 +12,4 @@ lots and lots of people watching at this downtown Orlando location.
 This club is real and has the best line-ups and is a big social hub for
 the underground Orlando scene.
 
-**Change history**
-Orginal article by [miromi](/member/miromi) on 01 April 05
-
 type: Clubs and dancing

@@ -15,5 +15,3 @@ type: Japanese
 address: Klosterstrabe 38
 
 tel: +49 (0)211 35 78 53
-
-[back to Eating Out](..)

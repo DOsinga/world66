@@ -37,8 +37,6 @@ are over.
 
 **Contributors**
 December 05, 2005
-new
-by [handyman321](/member/handyman321)
 
 type: Concerts
 
@@ -47,5 +45,3 @@ type: Concerts
 tel: 909-793-7316
 
 url: [www.redlandsbowl.org](http://www.redlandsbowl.org/)
-
-[back to Nightlife and Entertainment](..)

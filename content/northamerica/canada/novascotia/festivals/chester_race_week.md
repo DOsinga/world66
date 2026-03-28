@@ -15,8 +15,6 @@ Check out the website for a full calendar, including race times, live music info
 
 **Contributors**
 June 15, 2005
-new
-by [okcomputer](/member/okcomputer)
 
 
 
@@ -29,5 +27,3 @@ url: [www.cyc.ns.ca](http://www.cyc.ns.ca/)
 date: August 13-18, 2008 (recurring)
 
 email: info@cyc.ns.ca
-
-[back to Festivals](..)

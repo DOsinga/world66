@@ -5,9 +5,6 @@ type: section
 
 The outstanding sight is the Ponte delle Torre [see main page]
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 28 November 04
-
 **all**
 
 **Cathedral and churches**
@@ -23,5 +20,3 @@ The old town of Spoleto is full of Roman sights, such as the amphitheatre, the R
 address: Via di Visiale
 
 url: [www.artstudio.it](http://www.artstudio.it/spoleto/en_104.html)
-
--->

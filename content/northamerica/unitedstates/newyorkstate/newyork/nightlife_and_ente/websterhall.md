@@ -17,5 +17,3 @@ type: Clubs
 address: 125 E. 11th Street
 
 tel: 212.353.1600
-
-[back to Nightlife and Entertainment](..)

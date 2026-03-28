@@ -25,13 +25,9 @@ Attempts have been made with adjusting the schedules from Toronto due to increas
 
 **Contributors**
 November 17, 2006
-change
-by [allamericanbear](/member/allamericanbear)
 
 
 
 tel: 1-800-USA-RAIL (872-7245)
 
 url: [www.amtrak.com](http://www.amtrak.com)
-
-[back to Getting Around](..)

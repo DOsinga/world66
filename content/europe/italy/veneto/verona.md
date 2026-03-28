@@ -1,8 +1,6 @@
 ---
 title: "Verona"
 type: location
-latitude: 45.442498
-longitude: 10.985738
 ---
 
 About midway between Milan and Venice Verona (pop. 259 000) was the setting for Shakespeare’s plays Romeo and Juliet and The Two Gentleman of Verona. And as it should be Verona is one of the most romantic cities in the world. It’s not merely that you’re reminded everywhere of the Shakespeare connection. (The Capulet house with Juliet’s famed balcony is a big tourist attraction though its authenticity is dubious.) And it’s not just its gorgeous setting surrounded by mountains and the River Adige. And neither is it just because of its magnificent Roman ruins and its mellow medieval and Renaissance buildings. The city is full of music and its piazzas and streets are particularly lively during the annual summer opera festival held during July and August in the Roman Arena. Opera lovers should make this a high priority (but reserve early a year in advance if possible). During our last visit we attended a performance of Tosca at the arena one night and a performance of the ballet Romeo and Juliet the next night at the smaller—but equally atmospheric—Roman amphitheater.

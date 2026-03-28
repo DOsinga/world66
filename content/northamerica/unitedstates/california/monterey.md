@@ -1,9 +1,9 @@
 ---
-title: "Monterey Travel Guide"
+title: "Monterey"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **The Holiday Inn Express - Monterey/Cannery Row Hotel:**
 
@@ -32,9 +32,3 @@ blocks from the Monterey Bay Aquarium, and within a mile from
 Fisherman’s Wharf, Downtown Monterey, Monterey Conference Center and
 Monterey’s beautiful beaches. If we were any closer, you’d be sleeping
 with fishes!
-
-*Part or or all of this text stems from the original article at: www.montereyhie.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 19:05

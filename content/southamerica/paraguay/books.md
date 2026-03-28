@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Books**
 
 **Lonely Planet Argentina, Uruguay & Paraguay**
 

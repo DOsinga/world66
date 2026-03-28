@@ -3,8 +3,6 @@ title: "Spadina (old Chinatown)"
 type: poi
 address: "Spadina and Dundas Street West"
 type: "Markets"
-latitude: 43.651041
-longitude: -79.412218
 ---
 
 During the fall and spring seasons, the Old Chinatown (Spadina Street) has enough to do to sieze anyones senses.
@@ -24,5 +22,3 @@ type: Markets
 
 
 address: Spadina and Dundas Street West
-
-[back to Shopping](..)

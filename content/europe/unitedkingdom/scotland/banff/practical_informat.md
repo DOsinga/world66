@@ -7,8 +7,6 @@ Local clubs
 
 **Contributors**
 November 03, 2007
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 We currently have no Practical Information listed in Banff.
 

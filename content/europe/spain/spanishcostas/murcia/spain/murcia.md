@@ -5,9 +5,6 @@ type: location
 
 In the region of Murcia the city with the same name is the main draw.
 
-**Change history**
-Orginal article by [RichardOsinga](/member/richardosinga) on 13 April 05
-
 ## Destinations in Murcia
 
 [Murcia](/europe/spain/murcia/murcia)

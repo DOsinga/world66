@@ -6,8 +6,6 @@ email: "info@puddicombefarms.com"
 phone: "(905) 643-1015"
 type: "Parks, Gardens and Zoos"
 url: "www.puddicombefarms.com"
-latitude: 43.208659
-longitude: -79.65604
 ---
 
 We are a 210 year old family fruit farm. Our story begins in 1797 as cattle farmers. In the early 1900's we became fruit farmers.
@@ -22,8 +20,6 @@ Stop by and spend some time with us! We love to make our guests feel at home and
 
 **Contributors**
 November 22, 2009
-new
-by [waterfalls](/member/waterfalls)
 
 type: Parks, Gardens and Zoos
 
@@ -38,5 +34,3 @@ url: [www.puddicombefarms.com](http://www.puddicombefarms.com/home.php)
 address: 1468 Hwy #8, Winona
 
 email: info@puddicombefarms.com
-
-[back to Sights](..)

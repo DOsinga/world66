@@ -31,5 +31,3 @@ The main trails in the Black Forest have little gift shops and cuckoo clock stal
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -10,8 +10,6 @@ url: "www.ticrk.ru"
 
 **Contributors**
 October 15, 2006
-new
-by [svetico](/member/svetico)
 
 ### [Tourist Information Center of Republic of Karelia](/europe/russia/karelia/practical_informat/tourist_informatio)
 

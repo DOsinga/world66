@@ -53,5 +53,3 @@ accessibility: 5 mins from city centre
 address: The Everyman Palace Theatre Mc Curtain Street Cork
 
 email: bar@everymanpalace.com
-
-[back to Nightlife and Entertainment](..)

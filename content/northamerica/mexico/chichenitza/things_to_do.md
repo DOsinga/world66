@@ -43,5 +43,3 @@ A short visit to a nearby cenote is highly recommended, especially for swiming a
 
 **Contributors**
 October 21, 2007
-change
-by [herre](/member/herre)

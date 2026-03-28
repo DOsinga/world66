@@ -1,9 +1,9 @@
 ---
-title: "Ani Travel Guide"
+title: "Ani"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Earliest History Bronze and Iron age settlements have been excavated on the site, so have possible Uruatian buildings. There is re-used classical masonry in the citadel walls and the remains of what is probably a Zoroastrian fire temple. Ani is first mentioned by Armenian chroniclers in the 5th century A.D. as a strong castle built on a hilltop and a possession of the Kamsarakan dynasty.
 
@@ -31,9 +31,3 @@ and looting some stability returned and the Mkhargrdzeli dynasty continued to ru
 The Decline and Death of Ani The mass emigration of the population had started with the Mongol invasions. By the mid 14th century Ani had ceased to be a trading city and the remaining trade routes now passed further to the south. Tamerlane captured Ani in the 1380s, but on his death the Kara Koyunlu regained control. By then Ani was about to collapse as a city - the Kara Koyunlu transferred their capital to Yerevan (the Armenian Katholikosat did the same in 1441) and much of the city’s remaining population abandoned it. It is a myth (still propagated in many guide books about Turkey) that the city was abandoned after an earthquake in 1319.
 
 Ani became part of the Ottoman Turkish empire in 1579. A small town still remained within its walls at least until the mid 17th century, and a European traveller in the early 17th century mentions the existence of 200 churches in Ani and the immediate neighbourhood. The final decline of Ani was accompanied by the desertion of the rural population as the region became over-run by nomadic Kurdish tribes who would rob and murder at will. The survival of any form of settled life, whether by Christians or Muslims, ultimately became unsustainable. The church at Kizkale was in use by monks at least until 1735, so the final and total abandonment of the site is probably the mid 18th century. By the beginning of the 19th century Ani was empty of human beings.
-
-*Part or or all of this text stems from the original article at: http://www.virtualani.org/history/part1.htm*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 16:07

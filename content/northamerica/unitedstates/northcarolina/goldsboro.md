@@ -1,0 +1,4 @@
+---
+title: "Goldsboro"
+type: location
+---

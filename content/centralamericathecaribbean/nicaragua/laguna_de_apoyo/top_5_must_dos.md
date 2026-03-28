@@ -7,5 +7,3 @@ One of the top things to do when visiting the entrancing lake, Laguna de Apoyo, 
 
 **Contributors**
 September 22, 2011
-new
-by [amsutton](/member/amsutton)

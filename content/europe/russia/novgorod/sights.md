@@ -38,5 +38,3 @@ the impressive walls of the Kremlin date back from the 15th century. They formed
 **St Sophia's Cathedral (kiev)**
 
 The town's earliest and largest cathedral is one of the Kremlin's landmarks.It has a beautiful golden helmet dome. Inside is a well-preserved iconostatis, one of the oldest in Russia. It includes works from the eleventh to seventeenth century.
-
--->

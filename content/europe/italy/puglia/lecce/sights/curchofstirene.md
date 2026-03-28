@@ -14,5 +14,3 @@ type: Churches & Cathedrals
 
 
 address: just off piazza sant'Oronzo
-
-[back to Sights](..)

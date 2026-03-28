@@ -10,11 +10,3 @@ From the canyon on, the Inca trail is in perfect condition, but to go deeper it 
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (4 points)
-
-
-
-
-
-[back to Day Trips](..)

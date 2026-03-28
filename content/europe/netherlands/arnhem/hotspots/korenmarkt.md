@@ -14,5 +14,3 @@ When you're getting a bit hungry try the restaurant Pinoccio which offers you a 
 Sateh lovers go to the Sate plaza. All dishes are served in the shape of sateh here. 
 
 After a bite to eat you can take a chance in the Manhattan disco for some real good dance music. The Opera offers you music ranging from Top 40 to Dance-Classics and Mellow to Commercial House.
-
--->

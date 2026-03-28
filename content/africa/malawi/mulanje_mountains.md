@@ -1,9 +1,9 @@
 ---
-title: "Mulanje Mountains Travel Guide"
+title: "Mulanje Mountains"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Also: Mulanje Plateau.
 
@@ -17,11 +17,3 @@ The trip schould be started at Likhubula Forest Station. This is where
 accomodation has to be payed for in advance(around 5 USD per night). At
 Likhubula there is a variety of official guides porters who offer their
 services. Going without a guid is not advised but possible.
-
-#### Contributors
-
-June 29, 2006 new by [martinfreddy](/member/martinfreddy) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 05:32

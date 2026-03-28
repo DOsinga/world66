@@ -42,5 +42,3 @@ Memorial to the astronomer Johannes Kepler, who died in Regensburg (original ins
 address: Keplerstrasse
 
 openings: Tue - Sun 10am - 4pm, tours available.
-
--->

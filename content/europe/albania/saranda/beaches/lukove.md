@@ -9,9 +9,3 @@ Lukove (or Lukova) is a beatiful traditional village. Lukova's beaches vary from
 It`s sunsets are just perfect...
 
 type: general
-
-
-
-
-
-[back to Beaches](..)

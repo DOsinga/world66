@@ -8,13 +8,5 @@ Global is a bit more to the posh side of places. It's big, full of people who wa
 
 **Contributors**
 March 14, 2006
-new
-by [aglaie](/member/aglaie) (2 points)
 
 type: Clubs and dancing
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

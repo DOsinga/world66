@@ -17,5 +17,3 @@ type: American
 address: 1300 Motel Drive near Exit 79
 
 PriceOfMenu: moderate
-
-[back to Eating Out](..)

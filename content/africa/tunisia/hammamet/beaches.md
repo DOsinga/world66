@@ -52,9 +52,5 @@ Hammamet´s beaches.
 
 **Contributors**
 December 29, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

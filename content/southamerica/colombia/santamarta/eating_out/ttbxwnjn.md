@@ -12,8 +12,6 @@ url: "iadgcvcsqhcx.com"
 
 TniwWV qzkudugyfknc
 
-*Part or or all of this text stems from the original article at: ahjaGesRCv*
-
 type: Italian
 
 
@@ -29,5 +27,3 @@ address: cHAsDVkI
 PriceOfMenu: zSNbzxiHnYercmn
 
 email: yoaork@btqegw.com
-
-[back to Eating Out](..)

@@ -15,5 +15,3 @@ type: Music
 
 
 address: Serafimovicha street., 2 (metro Polyanka, Borovitskaya))
-
-[back to Shopping](..)

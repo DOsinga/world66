@@ -1,9 +1,9 @@
 ---
-title: "Mhamid Travel Guide"
+title: "Mhamid"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 [>](/africa/morocco/fez/home.php)Relais Hamada Of Drâa mhamid gueste house hotel
 
@@ -23,9 +23,3 @@ You will be able to take time to traverse Kasba of M'Hamid and to discover her s
 [> Councils](/africa/morocco/fez/sahara-councils.php)
 [> Access](/africa/morocco/fez/acces-sahara.php)
 [> Reservation & Contact](/africa/morocco/fez/reservation-sahara.php)www.hamada-sahara.com 0021262132154
-
-*Part or or all of this text stems from the original article at: mhamid hotel south morrocco *
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 12:33

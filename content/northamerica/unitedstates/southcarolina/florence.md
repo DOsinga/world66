@@ -1,9 +1,9 @@
 ---
-title: "Florence Travel Guide"
+title: "Florence"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 This is the official Mid Point between MIA and NYC.
 The east coast birth place of I-20. Located at I-20 and I-95.
@@ -17,7 +17,3 @@ HWY 52 off I-95 (busier/heavier traffic, tons of restaurants, plenty of hotel ac
 The town has 2 nice big malls tons of hotels and restaurants. Also a mandatory stop for anyone going to Myrtle Beach.
 
 If you are looking for restaurants ask around, there's pretty much ANYTHING you can think off. Do not limit yourself to the Mall's food court or the restaurants at the interstate exit.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 08:58

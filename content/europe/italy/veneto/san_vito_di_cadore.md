@@ -1,7 +1,9 @@
 ---
-title: "San Vito di Cadore Travel Guide"
+title: "San Vito di Cadore"
 type: location
 ---
+
+Travel Guide
 
 Situated in the art of the Italian dolomite mountains in the north eastern corner of Italy. Very close to the town are the ski slopes of S.Vito di Cadore (within walking distance), within the larger area of the Superski Dolomites in zone 01 of Cortina, San Vito and Misurina: 50 ski lifts, 160 km downhill ski runs with artificial snow-making system, 130 km nordic ski runs, 300 teachers and a public Skibus for the slopes of Cortina and San Vito.
 

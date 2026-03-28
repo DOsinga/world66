@@ -12,5 +12,3 @@ url: [www.traveltoecuador.net](http://www.traveltoecuador.net)
 address: Av. Ruminahui 221, Quito - Ecuador
 
 tel: 593 9 837 2793
-
--->

@@ -17,5 +17,3 @@ type: Italian
 address: Kalaja Lekursit
 
 email: kalajalekursit@gmail.com
-
-[back to Eating Out](..)

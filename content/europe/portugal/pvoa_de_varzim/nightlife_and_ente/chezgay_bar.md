@@ -26,5 +26,3 @@ url: [www.chezpovoa.net](http://www.chezpovoa.net)
 address: largo caetano oliveira 226 4490 povoa de Varzim
 
 email: chez.gay@gmail.com
-
-[back to Nightlife and Entertainment](..)

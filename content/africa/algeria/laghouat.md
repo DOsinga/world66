@@ -1,0 +1,4 @@
+---
+title: "Laghouat"
+type: location
+---

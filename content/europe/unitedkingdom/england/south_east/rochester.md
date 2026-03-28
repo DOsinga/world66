@@ -1,0 +1,4 @@
+---
+title: "Rochester"
+type: location
+---

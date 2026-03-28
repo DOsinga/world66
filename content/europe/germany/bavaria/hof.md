@@ -1,0 +1,4 @@
+---
+title: "Hof"
+type: location
+---

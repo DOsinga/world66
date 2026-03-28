@@ -33,9 +33,5 @@ Nijmegen also offers variety of recreational opportunities to its sports-loving 
 
 **Contributors**
 January 26, 2010
-change
-by [nam](/member/nam) (1 point)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

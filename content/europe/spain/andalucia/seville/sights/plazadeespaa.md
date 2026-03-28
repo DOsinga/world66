@@ -14,5 +14,3 @@ type: Architecture
 
 
 address: Mara Luisa Park
-
-[back to Sights](..)

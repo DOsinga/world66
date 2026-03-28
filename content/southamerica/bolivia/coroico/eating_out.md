@@ -8,8 +8,6 @@ Plenty of restaurants in Coroico, with excellent quelity for reasonable prices..
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (1 point)
 
 ### [El Cafetal](/southamerica/bolivia/coroico/eating_out/el_cafetal)
 

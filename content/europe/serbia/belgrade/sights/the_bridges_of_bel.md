@@ -11,9 +11,3 @@ the left bank is New Belgrade, a modern residential area built after
 WWII.
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

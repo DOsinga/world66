@@ -43,5 +43,3 @@ date: september 29th to october 3rd
 address: 5445 De Gaspe. suite #710
 
 email: fred@popmontreal.com
-
-[back to Festivals](..)

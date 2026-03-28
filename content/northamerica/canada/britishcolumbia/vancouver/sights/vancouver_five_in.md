@@ -33,5 +33,3 @@ openingHours: 9am - 5pm
 url: [www.vancouverfiveinone.com](http://www.vancouverfiveinone.com)
 
 email: vcs@smartvisitsolutions.com
-
-[back to Sights](..)

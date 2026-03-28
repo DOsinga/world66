@@ -26,5 +26,3 @@ tel: +31(0)180-457811
 url: [www.roan.nl](http://www.roan.nl)
 
 email:
-
-[back to Practical Information](..)

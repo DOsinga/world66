@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Books**
 
 **Lonely Planet Ecuador & the Galapagos Islands '97**
 

@@ -56,5 +56,3 @@ For the worst cafeteria imaginable, eat here. It's cheap, and you'll have storie
 address: off the Hauptststrasse
 
 PriceOfMenu: $5
-
--->

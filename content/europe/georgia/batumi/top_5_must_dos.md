@@ -19,5 +19,3 @@ That's all for now, I hope this will help you in a way and I will try to continu
 
 **Contributors**
 November 18, 2010
-new
-by [ninok](/member/ninok)

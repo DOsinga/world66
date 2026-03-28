@@ -23,5 +23,3 @@ openinghours: 8a.m.-9p.m.
 tel: 4470057
 
 PriceOfMenu: 29.99
-
-[back to Eating Out](..)

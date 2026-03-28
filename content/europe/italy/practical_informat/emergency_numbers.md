@@ -14,13 +14,5 @@ Fire 115
 
 **Contributors**
 May 25, 2005
-new
-by [pontillio26](/member/pontillio26)
 
 type: Health and Safety
-
-
-
-
-
-[back to Practical Information](..)

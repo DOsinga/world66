@@ -1,9 +1,9 @@
 ---
-title: "National City Travel Guide"
+title: "National City"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 National City is the second oldest city in San Diego County. National City's Victorian heritage is one of
 its more important assets.Incorporated on September 17, 1887, National City was
@@ -61,11 +61,3 @@ train!
 
 The Original 1887 No. 1 Car of the old "MOTOR CANNON BALL"
 excursion train now on display at the National City Railcar Museum.
-
-#### Contributors
-
-April 06, 2007 new by [mehul](/member/mehul)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 23:06

@@ -21,20 +21,9 @@ First Stop to visit a tradition Moroccan house, to see how do people live and ho
 The Lady- the owner of the house- makes a tea ceremony to show us how to make mint tea and after they serve us a kind of country breakfast(bread, butter, honey, olive oil and tea)
 After this we continue deeper in the valley; we stop for a 20 minutes Camel Ride.
 After the camel raid we drive until the end of the road, we leave the van and go hiking for two hours to see some water falls (cascades)
-We come back to the van , we drive half a way and stop for lunch in a nice restaurant having a beautiful views on the valley. Lunch is composed of a variety of Moroccan Food.
-By 5:00Pm we drive back to Marrakesh.
-
-
-
-tel: 00212 67 53 45 08
-
-url: [www.moroccanviews.com](http://www.moroccanviews.com)
-
-address: 48 Derb Sidi Med El Haj-Bab Doukala
+We come address: 48 Derb Sidi Med El Haj-Bab Doukala
 
 email:
-
-[back to Day Trips](..)
 
 ## Destinations in Morocco
 
@@ -54,17 +43,10 @@ email:
 
 add region or city >
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

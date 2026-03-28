@@ -30,34 +30,6 @@ Then move to visit the great and amazing Mohamed Ali Alabaster Mosque
 and the Citadel of Salah El Din, then move to Old Cairo to visit the
 Hanging Church, Abu Sirga Church and Synagogue.
 
-- Travel in comfort back to your hotel.
-
-I hope that you enjoy your Egyptian Museum, Old Cairo and Salah El Din Citadel Tour
-
-With Egypt Last Minute
-
-**Pyramid Tour includes: **
-
-- Private multi lingual Egyptologist
-
-- Entrance fees to all the mentioned sites
-
-- All Service charges & taxes
-
-
-
-
-
-accessibility: egypt last minute
-
-tel: +2 01005759364
-
-openingHours: 7AM till 5 PM
-
-url: [egyptlastminute.com](http://egyptlastminute.com/)
-
-address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
+- Travel in comfort address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
 
 email: info@egyptlastminute.com
-
-[back to Museums](..)

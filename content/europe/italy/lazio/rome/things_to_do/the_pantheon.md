@@ -10,8 +10,6 @@ The 141 foot dome is the major attraction here and until 1436, it was the larges
 
 **Contributors**
 May 22, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -20,5 +18,3 @@ type: Other
 tel: +39 06 68300230
 
 address: Historic Center of Rome - Piazza del Rotonda
-
-[back to Things to do](..)

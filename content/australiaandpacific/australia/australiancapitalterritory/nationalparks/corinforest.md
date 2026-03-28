@@ -5,7 +5,3 @@ type: "general"
 ---
 
 type: general
-
-
-
-[back to National Parks](..)

@@ -7,5 +7,3 @@ Providence travel is easy with several airline carriers providing service to and
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

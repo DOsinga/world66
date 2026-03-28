@@ -1,12 +1,8 @@
 ---
-title: "Boston Massachusetts Hotel Reservations - Contact Us Travel Guide"
+title: "Boston Massachusetts Hotel Reservations - Contact Us"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Saugus
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 16:33

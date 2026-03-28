@@ -1,0 +1,4 @@
+---
+title: "Fishguard"
+type: location
+---

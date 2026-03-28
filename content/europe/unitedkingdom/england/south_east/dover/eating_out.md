@@ -4,8 +4,6 @@ type: section
 address: "Cullins, Cambridge Rd, Dover Kent CT17 9BY"
 phone: "01304 211666"
 type: "general"
-latitude: 51.121302
-longitude: 1.312804
 ---
 
 ### [Cullins Yard Ltd](/europe/unitedkingdom/england/south_east/dover/eatingout/cullinsyardltd)

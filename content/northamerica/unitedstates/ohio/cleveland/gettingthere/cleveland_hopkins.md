@@ -11,9 +11,3 @@ extensively by Southwest Airlines and others. The airport links
 directly to Tower City downtown by train at the bargain price of $1.50.
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

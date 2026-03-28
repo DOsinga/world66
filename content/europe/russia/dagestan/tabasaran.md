@@ -1,9 +1,9 @@
 ---
-title: "Tabasaran Travel Guide"
+title: "Tabasaran"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The most ancient region inhabitants are Dagestan mountaineers. Much later (in the Middle Ages) appear Turkis and the most recent settlers are Russian. The Dagestan mountaineers represent the nationalities group, retained the languages, as well as the life and cultural features from the extreme antiquity times. Undoubtedly, they are in the distant relationship with the other Caucasus mountaineers, as well as with the ancient Transcaucasian peoples viz the Georgians and Armenians.
 
@@ -17,11 +17,3 @@ In XVII and XVIII centuries Dagestan represented a few independent khanates and 
 In XIX century Russian were waged the persistent and continuous war against the Dagestan mountaineers, which with the unusual bravery and heroism struggled for the freedom and independence. The struggle age with Russian tsarism, in particular in XVIII - XIX centuries, were the extreme Islam amplification time, penetrating the all Dagestan life, as the national struggle has contacted to religious enthusiasm and the spiritual leaders - imams (Kazi -Magomet, Shamil) were the national heroes at the same time. In this age Islam played in Dagestan's life the same role, that during its origin, at the separated Arabian tribes association in one high-power nationality. Despite of the Islam force, the legislation(shariat), practiced by it, could not destroy the Daghestan patrimonial life customs (adats) and should be adjusted to it. Divided by the difficult to traverse mountains, speaking in the different languages and adverbs, having a lot of the life features, the mountain tribes were persistently aimed to remain not only the general independence, but also the kins's (tukhums's) independence. The patrimonial life reservation promoted both the nature condition, and the ancient economic way of the population. After Shamil conquest and Dagestan reconciliation (1860), the Dagestan area with the special "military - national" management and number of privileges leaving to the population (in particular, release from the conscription, sanction to carry the weapon, tax privileges) was organized by Russian tsarism. The adats support policy with the purpose to loosen Shariat and Islam influence, as joining mountain tribes against Russia was conducted for the best solidifying of Russian authority.
 
 Actually, the patrimonial life has ramained the many antiquity survivals (the blood vengeance etc.), any more answering to the modern living conditions. Shariat just also tried to soften these the adats acute forms and to transfer them in the laws more approaching for the people life.
-
-#### Contributors
-
-September 11, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 12:36

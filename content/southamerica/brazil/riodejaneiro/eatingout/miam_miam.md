@@ -18,8 +18,6 @@ url: "www.miammiam.com.br"
 
 **Contributors**
 August 04, 2008
-new
-by [willianharris](/member/willianharris) (1 point)
 
 type: International
 
@@ -34,5 +32,3 @@ url: [www.miammiam.com.br](http://www.miammiam.com.br)
 address: Rua General Góes Monteiro, 34 - Botafogo
 
 PriceOfMenu: $$$
-
-[back to Eating Out](..)

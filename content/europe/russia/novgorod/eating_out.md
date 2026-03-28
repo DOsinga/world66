@@ -28,5 +28,3 @@ openings: 12:00-16:00& 18:00-23:00
 Located in the Kremlin's Intercession Tower (16th - 17th c.), the restaurant interior and wooden tableware are finished in ancient Russian style. Meat and fish dishes follow old Russian recipes and cold and hot Russian drinks, e.g.medovukha (mead), zbiten (tea with spices), honey kvass are served. [more..](/europe/russia/novgorod/eatingout/detinetsrestaurant)
 
 openings: 12:00-16:00& 18:00-23:00
-
--->

@@ -8,5 +8,3 @@ A bit of a rip off. Displays different things from the history of Ajax but you h
 Sigourney says: The stadium is impressive, but the museum is just for real fans. I thought it was a rip-off.
 
 address: Amsterdam Arena
-
--->

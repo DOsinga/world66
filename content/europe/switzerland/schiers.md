@@ -1,0 +1,4 @@
+---
+title: "Schiers"
+type: location
+---

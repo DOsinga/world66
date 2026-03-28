@@ -1,9 +1,9 @@
 ---
-title: "Pertouli Travel Guide"
+title: "Pertouli"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Those who know about it, have loved it since 1985 when it first opened.
 Others have recently discovered it, as it is not widely advertised.
@@ -59,9 +59,3 @@ Altitude: 1,150m
 Telephone: 2434-091553
 
 Shelter – guest house: Close, 1,760m above the sea level
-
-*Part or or all of this text stems from the original article at: www.dimosaithikon.gr*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 18:20

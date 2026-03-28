@@ -12,8 +12,6 @@ You may not find a better seafood restaurant in New York, or maybe even the worl
 
 **Contributors**
 August 03, 2005
-new
-by [crazyazn23](/member/crazyazn23)
 
 type: French
 
@@ -28,5 +26,3 @@ url: [www.le-bernardin.com](http://www.le-bernardin.com/restaurant.html)
 address: 155 West 51st Street, New York, New York 10019
 
 PriceOfMenu: Fixed-price lunch $48; fixed-price dinner $87; tasting menus $100-$135
-
-[back to Eating Out](..)

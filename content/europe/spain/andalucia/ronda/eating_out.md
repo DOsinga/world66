@@ -16,5 +16,3 @@ address: calle Los Remedios
 Across from the Parador on Plaza de Espana, Don Miguel has good food and a stunning view, although it is a bit expensive.  
 
 address: Plaza de Espana
-
--->

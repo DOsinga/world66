@@ -1,8 +1,6 @@
 ---
 title: "Lake nicaragua"
 type: location
-latitude: 11.57387
-longitude: -85.312621
 ---
 
 We currently have no information about Lake nicaragua.

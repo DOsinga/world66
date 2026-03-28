@@ -8,13 +8,5 @@ If you are not use to being in dry heat do drink lots of water. With an arid cli
 
 **Contributors**
 January 27, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Health and Safety
-
-
-
-
-
-[back to Practical Information](..)

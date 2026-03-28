@@ -1,0 +1,4 @@
+---
+title: "Franklin"
+type: location
+---

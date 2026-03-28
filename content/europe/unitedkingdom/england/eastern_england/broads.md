@@ -10,8 +10,3 @@ There is much wildlife unique to the area and its interesting history has left s
 There are two excellent website covering the area. www.**broads**-**authority**.gov.uk [especially http://www.broads-authority.gov.uk/broads/pages/yourvisit3.html] 
 
 And www.livinglakes.org/broads
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 02 November 04
-
--->

@@ -1,9 +1,9 @@
 ---
-title: "Lillooet Travel Guide"
+title: "Lillooet"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Spectacular scenery, wildlife, and history are just around the corner. Lillooet, British Columbia's best kept secret, is within easy driving distance of Vancouver, Whistler, Kamloops and the Fraser Valley - come visit Lillooet and see what it has to offer!
 
@@ -14,11 +14,3 @@ For active people, the recreational potential of Lillooet is unlimited. The area
 British Columbia is the number one source of jade in the world today. The history of jade in Lillooet is from time immemorial.
 
 Jade is part of the geographical history of the region and can still be found on the shores of the local rivers and in the surrounding mountains. Jade is found only in certain unique areas where two rock formations shift, thereby allowing jade to surfacefrom its source fifteen miles deep under the earths crust. Lillooet is lucky to be one such rare place. The local First Nation community used jade as a trade staple - trading north, south and west within other indigenous communities. First Nation peoples made axes, deer scrapers and other tools for daily use from jade.
-
-#### Contributors
-
-October 01, 2008 new by [waterfalls](/member/waterfalls)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 16:19

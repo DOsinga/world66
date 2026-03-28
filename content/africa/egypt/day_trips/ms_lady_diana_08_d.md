@@ -18,8 +18,6 @@ Day 8 - Check out .
 
 **Contributors**
 May 03, 2008
-change
-by [nile cruise](/member/nile_cruise) (1 point)
 
 
 
@@ -32,5 +30,3 @@ url: [www.nilecruisereservationcenter.com](http://www.nilecruisereservationcente
 address: 5 Mohamed Ibrahim Street- Nawal Off - Dokki - Cairo - Egypt.
 
 email: gat6@gattours.com
-
-[back to Day Trips](..)

@@ -11,8 +11,6 @@ Other than that, it's just a great place to **rest**, eat some fish or party aro
 
 **Contributors**
 July 14, 2006
-change
-by [yohay elam](/member/yohay_elam)
 
 ### [Buggie tour](/southamerica/peru/huacahina/things_to_do/buggie_tour)
 

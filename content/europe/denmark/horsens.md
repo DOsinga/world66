@@ -1,0 +1,4 @@
+---
+title: "Horsens"
+type: location
+---

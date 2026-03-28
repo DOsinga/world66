@@ -29,5 +29,3 @@ accessibility: not far from bulnes stop subway
 address: Gorriti 3609
 
 email: bravissimobar@hotmail.com
-
-[back to Nightlife and Entertainment](..)

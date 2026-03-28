@@ -53,5 +53,3 @@ donation of $2 to $5). Don't miss it!
 
 **Contributors**
 August 26, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

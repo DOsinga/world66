@@ -13,7 +13,3 @@ By road : E 40 highway, direction Ostend (exit nr. 8).
 By train: regular trains (every half hour) between the airport and railway stations Brussels Centraal or Brussels Noord, from where several trains per hour to Bruges.
 
 type: general
-
-
-
-[back to Getting There](..)

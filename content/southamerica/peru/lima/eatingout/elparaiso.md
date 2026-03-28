@@ -14,5 +14,3 @@ type: Vegetarian
 
 
 address: Alcanflores 416
-
-[back to Eating Out](..)

@@ -1,9 +1,9 @@
 ---
-title: "Island Solta Travel Guide"
+title: "Island Solta"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The area of Šolta is 57,886 km2. Šolta is 13th largest of Croatian
 islands and it belongs to midsize Dalmatian islands. Šolta’s length is
@@ -72,7 +72,3 @@ towers, houses and courtyards in order to evoke the atmosphere of old
 parts of Split.
 
 The movie "The fall of Italy" was entirely filmed on Šolta.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 19:21

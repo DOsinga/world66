@@ -1,0 +1,4 @@
+---
+title: "Lancut"
+type: location
+---

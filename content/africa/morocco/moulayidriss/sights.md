@@ -8,8 +8,6 @@ Moulay Idriss has a lot of religious sights, where non-muslim are not permitted 
 
 **Contributors**
 June 11, 2006
-new
-by [bernhadette](/member/bernhadette) (2 points)
 
 ### [Zaouia of Moulay Idriss](/africa/morocco/moulayidriss/sights/zaouia_of_moulay_i)
 
@@ -21,17 +19,10 @@ type: Mosques
 
 
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

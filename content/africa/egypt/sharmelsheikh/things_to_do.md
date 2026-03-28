@@ -35,5 +35,3 @@ To experience some of what the Bedouin lifestyle is like, book a trip out into t
 
 **Contributors**
 October 16, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

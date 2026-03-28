@@ -11,5 +11,3 @@ There 20 apartments, furnished in modern European style. This recreation centre 
 
 **Contributors**
 April 28, 2006
-new
-by [azerbaijan08](/member/azerbaijan08) (2 points)

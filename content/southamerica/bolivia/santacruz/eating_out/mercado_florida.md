@@ -19,5 +19,3 @@ type: Local
 address: Florida, just within the first anillo
 
 PriceOfMenu: $ 1
-
-[back to Eating Out](..)

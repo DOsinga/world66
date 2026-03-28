@@ -11,5 +11,3 @@ Hello Mates!!! I am New and after a long search for good stuff, I was Lucky to f
 
 
 email: weedspot2@gmail.com
-
-[back to Getting Around](..)

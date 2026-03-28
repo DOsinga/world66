@@ -13,5 +13,3 @@ Children are also catered for at many of the wineries with children activities. 
 
 **Contributors**
 September 06, 2005
-new
-by [crinau](/member/crinau)

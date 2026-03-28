@@ -25,5 +25,3 @@ address: via Bafile 221
 jesolo lido - Venezia 30017 italy
 
 url: [www.marconinet.it](http://www.marconinet.it/jesolo/NetPointMorena/)
-
-[back to Internet Cafes](..)

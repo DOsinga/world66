@@ -10,8 +10,6 @@ Las Vegas has a good number of antique stores to choose from, each with its own 
 
 **Contributors**
 May 21, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Antiques
 
@@ -22,5 +20,3 @@ type: Antiques
 tel: 702-307-3960
 
 address: 6665 S. Eastern Avenue
-
-[back to Shopping](..)

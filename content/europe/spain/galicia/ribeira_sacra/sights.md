@@ -34,5 +34,3 @@ other plants that this reviewer can not name…sorry.
 
 **Contributors**
 June 25, 2005
-new
-by [the_doc](/member/the_doc)

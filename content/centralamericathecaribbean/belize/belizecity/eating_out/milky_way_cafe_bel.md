@@ -7,8 +7,6 @@ phone: "501-223-5185"
 price: "$ (0-15) US"
 type: "Lunch"
 url: "milkywaycafe-bz.weebly.com"
-latitude: 17.509903
-longitude: -88.188574
 ---
 
 Milky Way Cafe (China Town) started at 2002, was a famous Taiwanese restaurant in Belize City, they had their own unique style of product orientation and high quality of the environment to made its name.
@@ -30,5 +28,3 @@ address: 29 Baymen Avenue, Belize City, Belize
 email: milkywaygabee@hotmail.com
 
 priceofmenu: $ (0-15) US
-
-[back to Eating Out](..)

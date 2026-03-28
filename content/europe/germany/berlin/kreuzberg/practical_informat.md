@@ -23,9 +23,5 @@ Just like most cities and regions of Germany, Berlin has its own distinct dialec
 
 **Contributors**
 February 08, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

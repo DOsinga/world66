@@ -8,5 +8,3 @@ Described as "one of Europe's finest prehistoric monuments". It is dominated by 
 address: Grouville.
 
 tel: 853823
-
--->

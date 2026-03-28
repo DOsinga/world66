@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Lots of fine restaurants to choose from. Please let us know how the food was in the restaurants you visited.

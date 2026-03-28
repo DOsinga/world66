@@ -4,8 +4,6 @@ type: poi
 address: "1700 Yonge Street, Davisville Station"
 phone: "416-393-4636 (INFO)"
 url: "www.ttc.ca"
-latitude: 43.697936
-longitude: -79.397291
 ---
 
 The Toronto Transit Commission has a comprehensive transportation network, utilizing buses, streetcars, light rail and heavy rail (subway) to service the four corners of Toronto, and everywhere in between.
@@ -24,5 +22,3 @@ There is also an **Airport Rocket** bus route (#192) that operates into Kipling 
 
 **Contributors**
 December 02, 2005
-change
-by [allamericanbear](/member/allamericanbear)

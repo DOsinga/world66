@@ -1,0 +1,4 @@
+---
+title: "Hilo"
+type: location
+---

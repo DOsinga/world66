@@ -21,9 +21,5 @@ For just a few Euros you can go to Meppel, a village that has a few reasonably p
 
 **Contributors**
 March 10, 2010
-new
-by [turkeyfish](/member/turkeyfish)
 
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

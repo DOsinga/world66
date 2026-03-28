@@ -1,0 +1,4 @@
+---
+title: "Tamatave"
+type: location
+---

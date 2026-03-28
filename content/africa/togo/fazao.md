@@ -1,0 +1,4 @@
+---
+title: "Fazao"
+type: location
+---

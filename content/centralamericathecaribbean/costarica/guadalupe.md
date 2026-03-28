@@ -1,0 +1,4 @@
+---
+title: "Guadalupe"
+type: location
+---

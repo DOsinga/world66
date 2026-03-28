@@ -9,5 +9,3 @@ Tickets for multiple trips give considerable saving and also cover the lift and 
 
 **Contributors**
 October 17, 2008
-new
-by [davidx](/member/davidx)

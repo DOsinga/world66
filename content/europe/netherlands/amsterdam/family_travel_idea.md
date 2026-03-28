@@ -57,5 +57,3 @@ A sobering and educational visit the Anne Frank Museum is a must do for any visi
 
 **Contributors**
 July 29, 2009
-new
-by [kileybugher](/member/kileybugher)

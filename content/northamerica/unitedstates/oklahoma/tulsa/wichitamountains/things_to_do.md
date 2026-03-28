@@ -49,9 +49,5 @@ or deface the rocks, and always try to make a minimal impact. (You
 may be able to bolt if you get prior approval, but don't count on it.)
 If you are a seasoned rock climber, bring your own equipment, but avoid unnaturally-colored webbing if you use fixed slings. If you haven't rock climbed before, only do so under the supervision of a guide.
 
-*Part or or all of this text stems from the original article at: Michell Davis*
-
 **Contributors**
 April 14, 2010
-change
-by [amymc](/member/amymc)

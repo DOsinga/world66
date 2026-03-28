@@ -13,12 +13,7 @@ So, you want a little more challenge? Well, how about solving our corn maze in t
 
 Come out and walk through a corn maze haunted with ghouls and scary monsters. Entry is $7.00 per person and refreshments are available, as always, inside the *haunted cheese factory.*
 
-*Change history*
-Orginal article by [metallicpeach](/member/metallicpeach) on 03 August 04
-
-Orginal article by [metallicpeach](/member/metallicpeach) on 03 August 04
-
-Write up by [metallicpeach](/member/metallicpeach) on 03 August 04
+Write up on 03 August 04
 
 PC: http://www.haggertyfarms.com
 

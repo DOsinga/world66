@@ -136,5 +136,3 @@ German food
 address: Wonnegaustr. 68
 
 tel: +49 6242 46 33
-
--->

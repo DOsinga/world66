@@ -25,5 +25,3 @@ Ontario is Canada's largest province, thus there is so much to see and do here. 
 
 **Contributors**
 January 18, 2010
-new
-by [waterfalls](/member/waterfalls)

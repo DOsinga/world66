@@ -1,0 +1,4 @@
+---
+title: "Livingstone"
+type: location
+---

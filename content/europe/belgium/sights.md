@@ -11,5 +11,3 @@ There is a gate into the park from the center of the town or you can enter from 
 
 **Contributors**
 March 21, 2005
-new
-by [nonkel](/member/nonkel)

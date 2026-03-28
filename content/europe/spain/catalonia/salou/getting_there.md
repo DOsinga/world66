@@ -18,5 +18,3 @@ apply for a membership card of the Hostelling International network because it w
 
 **Contributors**
 February 08, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

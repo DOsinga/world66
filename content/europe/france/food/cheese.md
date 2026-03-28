@@ -1,6 +1,6 @@
 ---
 title: "Cheese"
-type: location
+type: poi
 ---
 
 The French produce more different kinds of cheese than any other country. A system of "Appelation Controle" applies just like for the wines. Here are some regional highlights.
@@ -13,15 +13,7 @@ One of the best blue cheeses of France. It is produced entirely from the milk of
 
 **Camembert de Normandie**
 
-True Camembert comes from only five departments in Normandy. Its origin dates back to the 18th century. Originally, this cheese was dry and yellow-brown, but after a few modifications it became softer and more earthy. A genuine Camembert has a delicate salty taste.
-
-**Munster**
-
-Munster was born in a monastery situated in a valley of the same name. Benedictine monks who were prohibited from eating meat, created the cheese in the 12th century. During its maturing, Munster is turned every two days and washed with warm water from the Vosges. 
-
-**Rocamadour**
-
-One of the finest goat milk cheeses. Formerly known as "Cabécou de Rocamadour" it is now officialy called just Rocamadour after the town in the [Dordogne](/europe/france/midi/dordogne). It's been an AOC cheese since 1996.
+True Camembert comes from only five departments in Normandy. Its origin dates . It's been an AOC cheese since 1996.
 
 **St. Nectaire**
 

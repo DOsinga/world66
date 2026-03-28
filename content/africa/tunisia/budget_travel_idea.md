@@ -25,5 +25,3 @@ Budget Dining
 
 **Contributors**
 January 22, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

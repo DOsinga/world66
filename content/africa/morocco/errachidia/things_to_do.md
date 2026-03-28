@@ -9,8 +9,6 @@ One of the best things to do is take a camel ride.
 
 **Contributors**
 September 22, 2005
-new
-by [karenbru](/member/karenbru)
 
 ### [Lisbon - Dakar Rally 2006](/africa/morocco/errachidia/things_to_do/spain_dakar_rally)
 

@@ -25,9 +25,5 @@ Finally, marketplaces tell you a great deal about the city’s economy. Be sure 
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

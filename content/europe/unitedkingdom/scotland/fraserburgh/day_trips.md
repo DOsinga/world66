@@ -13,5 +13,3 @@ Also within an hours drive are castles such as Fyvie, Huntly, Tolquhon, Haddo Ho
 
 **Contributors**
 June 30, 2006
-new
-by [bardofthebroch](/member/bardofthebroch) (3 points)

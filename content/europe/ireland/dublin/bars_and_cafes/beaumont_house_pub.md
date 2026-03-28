@@ -17,5 +17,3 @@ accessibility: Around the corner from Almara B&B Dublin (www.almarabb.com)
 tel: 00353 1 8371008
 
 address: Shantallagh Road, Beaumont, Dublin 9
-
-[back to Bars and Cafes](..)

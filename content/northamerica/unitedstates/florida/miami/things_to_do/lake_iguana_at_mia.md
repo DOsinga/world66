@@ -11,8 +11,6 @@ The Miami Metro Zoo is a must see for adults and kids alike. The 740-acre zoo ha
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Rowing and Canoeing
 
@@ -23,5 +21,3 @@ tel: 305-251-0400
 url: [www.miamimetrozoo.com](http://www.miamimetrozoo.com)
 
 address: 1 Zoo Boulevard, Miami FL
-
-[back to Things to do](..)

@@ -6,8 +6,6 @@ address: "heinrichstrasse 155"
 phone: "0211 612757"
 price: "20-25 Euro"
 type: "Italian"
-latitude: 51.250235
-longitude: 6.803049
 ---
 
 We eat here on our last night staying at Hotel Renaissance Marriott Dusseldorf, which is 3 minutes walk away. What a pity we would have come here several times. Real Italian food cooked by a team of genuine Italian chefs! You know the food is going to be good when you see members of the Italian community & their children present!
@@ -33,5 +31,3 @@ tel: 0211 612757
 address: heinrichstrasse 155
 
 PriceOfMenu: 20-25 Euro
-
-[back to Eating Out](..)

@@ -16,6 +16,3 @@ The system of interstate highways makes getting around the state fairly easy; sp
 However, while the interstates are the best way to get from one destination to the next, you'll see a lot more of the real Florida from the vast network of U.S., state, and county roads. Get off the interstates whenever you can and take in the scenery. Some of the state's most fascinating tourist attractions are only to be found by driving the back roads. Maps of Florida are easy to find; pick one up before leaving to help in navigating the back roads. 
 
 Signage in most of the state is quite good; green signs will note the distance to cities down the road, tell you when to turn to get to a particular town, and in urban areas most streets are well marked. In South Florida the names of roads have a tendency to change without warning and for no particular reason, but most things worth seeing will be easy enough to find despite this minor irritation. Driving is on the right; right turns at red lights are legal except where prohibited by signs.
-
-*Change history*
-Minor corrections by [RWS](/member/rws) on 25 February 04

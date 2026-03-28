@@ -21,8 +21,6 @@ Rural Life Museum and Windrush Gardens: 4650 Essen Lane, Baton Rouge LA, 225-465
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -33,5 +31,3 @@ url: [www.brac.org](http://www.brac.org)
 address: Baton Rouge Area Chamber of Commerce, 564 Laurel Street, Baton Rouge LA, 70801
 
 email: info@brac.org
-
-[back to Day Trips](..)

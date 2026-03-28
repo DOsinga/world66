@@ -1,9 +1,9 @@
 ---
-title: "mhamid Travel Guide"
+title: "mhamid"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mhamid el Ghizlane
 
@@ -13,9 +13,3 @@ After a slow progression on the winding roads of Jebel Bani, you're really in th
 
 The small village of M'Hamid, with its low adobe houses, seems to be out of the sand. At the entrance of the village, on the right, there is the small square where stands the souk, on Monday morning; further, the village center with its souvenir shops and coffee in the village. Spend a few hours there and soon you will know everything about local life
 www.mhamid.com
-
-*Part or or all of this text stems from the original article at: www.mhamid.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 19:13

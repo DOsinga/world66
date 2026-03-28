@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Pick
 up place: **
@@ -54,7 +52,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary:**
 
@@ -77,76 +75,7 @@ erected in the year 642, and Ben Ezra Synagogue, dating from the tenth century.
 Free time in **Cairo** with many optional **tours**, then you will be driven to **Cairo** airport to fly to **Luxor**, with direct transfer to your hotel for check
 in and overnight stay.
 
-**Day 2: Sights in Luxor, return back to Taba****
-
-**After your breakfast in the hotel in **Luxor** you will continue
-second day of your **tour **with your
-Egyptologist guide to visit the **West Bank** of the Nile
-River. You will start **Luxor trip** by visiting
-the **Valley of the Kings**- burial
-place of pharaohs, hidden in the rocks, decorated with scenes and funerary
-rituals of the period for afterlife of pharaohs. **Valley of the Kings** is famous for **Tutankhamen** tomb and its treasures, discovered in
-1922 by Howard Carter. Next sight of your **Luxor
-trip** visiting trip will be **Hatshepsut**
-temple at El Deir Al Bahari, dedicated to the queen **Hatshepsut** - famous female pharaoh, the temple with
-three layered terraces connected by long ramps which were once surrounded by
-gardens. Inside temple you can see text and picture of an expedidion to exotic
-country calls Land of Punt. Then will visit the Colossi of Memnon, two colossal
-statues, was stayed guard at entrance of Amenhotep III temple in **ancient Egypt** times, and only remaining
-nowdays. Name means 'Ruler of the Dawn' and was probably given, because of
-'singing' at dawn one of the statue. Lunch meal will be served at a good
-quality restaurant in **Luxor**. Proceed the tour
-to visit in **Luxor Karnak** temple the bigest
-open-air museum in the World, the temple dedicated to the God Amon-Ra, his wife
-Mut and their son Khonsu. In **Karnak Temple** each **pharaoh** tried to perpetuate his name, so it is also
-known as the **Karnak Temple** Complex.
-One of the famous area in **Karnak Temple** - Hypostyle
-hall with 134 massive columns with over three meters in diameter. Free time in **Luxor**, and then you will be driven to **Luxor** airport to fly back to Sharm El Sheikh with
-following transfer to your hotel in **Taba**.
-
-**Tour Includes:**
-
-- Pick up and drop off services from your hotel in **Taba**
-
-- Airfare from Sharm to **Cairo** then to **Luxor** then back to Sharm
-with Egypt Air
-
-- Enterance fees to the sights in **Cairo** and **Luxor tours** as per
-itinerary
-
-- Lunch meal during the tour at local restaurants in **Cairo** and **Luxor**
-
-- Egyptologist English speaking tour Guide during **Cairo** and **Luxor
-tours**
-
-- All transfers by air-conditioned vehicle
-
-- Five stars hotel accommodation in **Luxor
-
-Tour Excludes:
-
-**- Optional **tours**
-
-- Personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**What to bring:**
+**Day 2: Sights in Luxor, return **What to bring:**
 
 - Passport valid for 6 months
 
@@ -179,5 +108,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Day Trips](..)

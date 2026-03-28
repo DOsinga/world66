@@ -55,9 +55,5 @@ sports on the wide screen LCD TV.
 
 **Contributors**
 March 29, 2010
-new
-by [kwalker](/member/kwalker)
 
 April 01, 2010
-change
-by [ctanios](/member/ctanios)

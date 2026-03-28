@@ -1,0 +1,4 @@
+---
+title: "Kata"
+type: location
+---

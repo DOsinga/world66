@@ -1,8 +1,6 @@
 ---
 title: "Monsummano Terme"
 type: location
-latitude: 43.870744
-longitude: 10.814016
 ---
 
 Monsummano Terme is a small town, and is apparently less spoiled by
@@ -39,5 +37,3 @@ take a taxi.
 
 **Contributors**
 August 06, 2005
-new
-by [gabor](/member/gabor)

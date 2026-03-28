@@ -14,7 +14,3 @@ Ostra Hamngatan 50 B
 ClosingTime: 5am
 
 closingtime: 5am
-
-[back to Nightlife and Entertainment](..)
-
--->

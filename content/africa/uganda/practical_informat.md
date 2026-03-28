@@ -15,12 +15,8 @@ Travelers checks are rarely accepted outside of Kampala.
 
 **Contributors**
 July 15, 2006
-change
-by [dualcitizen](/member/dualcitizen) (1 point)
 
 February 07, 2005
-new
-by [ugonline2004](/member/ugonline2004)
 
 **Currency**
 

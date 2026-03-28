@@ -12,5 +12,3 @@ address: Av 16 de Julio 1490, Ed. Avenida, PB, Of10
 tel: 591-2-2313849
 
 url: [www.gravitybolivia.com](http://www.gravitybolivia.com)
-
--->

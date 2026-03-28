@@ -8,13 +8,9 @@ Golden sands extending east from the Broch for about a mile where it meets the w
 
 **Contributors**
 February 02, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 
 
 
 
 email: rbmh@mac.com
-
-[back to Beaches](..)

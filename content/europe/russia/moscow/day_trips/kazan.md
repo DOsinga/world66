@@ -1,8 +1,6 @@
 ---
 title: "Kazan"
 type: poi
-latitude: 55.755469
-longitude: 37.619209
 ---
 
 You may go to [Kazan](/europe/russia/kazan) from Moscow for a day if you are ready to sleep two nights aboard a train.
@@ -23,11 +21,3 @@ Tikets are about 50/60 Euro one way depending of the comfort level. Average leve
 
 **Contributors**
 July 16, 2006
-new
-by [svetico](/member/svetico) (4 points)
-
-
-
-
-
-[back to Day Trips](..)

@@ -1,6 +1,6 @@
 ---
 title: "Cinema"
-type: location
+type: poi
 type: "Theatres"
 ---
 
@@ -12,11 +12,5 @@ For more arty films, the Spanish consulate and the Alianza Francesa are a regula
 
 **Contributors**
 July 28, 2006
-new
-by [joosts](/member/joosts) (2 points)
 
 type: Theatres
-
-
-
-[back to Nightlife and Entertainment](..)

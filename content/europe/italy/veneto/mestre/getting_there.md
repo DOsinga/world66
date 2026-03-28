@@ -46,9 +46,5 @@ around Italy.
 
 **Contributors**
 April 05, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 April 09, 2010
-change
-by [2 many commas](/member/2_many_commas)

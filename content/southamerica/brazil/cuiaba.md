@@ -1,0 +1,4 @@
+---
+title: "Cuiaba"
+type: location
+---

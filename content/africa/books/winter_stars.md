@@ -16,5 +16,3 @@ more info: http://www.amazon.com/winter-stars-Beatrice-Lao/dp/988979991X
 author: Beatrice Lao
 
 isbn: 988979991X
-
-[back to Books](..)

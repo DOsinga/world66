@@ -13,5 +13,3 @@ type: Cafes
 address: Kringlan Shopping Center
 
 tel: (+354)568 9888
-
-[back to Nightlife and Entertainment](..)

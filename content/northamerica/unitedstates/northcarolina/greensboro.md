@@ -8,5 +8,3 @@ Greensboro is located in the Central Piedmont section of North Carolina. Once th
 Those interested in civil rights history should visit the soon-to-be-built International Civil Rights Museum, and the site of the first lunch counter sit-ins, which helped shape the Martin Luther King's civil rights strategy. 
 
 As for the young professional scene, it is a work in progress.
-
--->

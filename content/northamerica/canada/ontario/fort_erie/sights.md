@@ -13,5 +13,3 @@ It is generally held the weekend that Canada celebrates Canada Day, and the Unit
 
 **Contributors**
 May 06, 2005
-new
-by [allamericanbear](/member/allamericanbear) (1 point)

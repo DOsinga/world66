@@ -19,8 +19,6 @@ After the performance you can take part on a 1,5 hour sightseeing cruise on the 
 
 **Contributors**
 February 11, 2010
-new
-by [hunkonc](/member/hunkonc)
 
 type: Theatres
 
@@ -37,5 +35,3 @@ url: [www.gotohungary.net](http://www.gotohungary.net/index.php)
 address: ZrÃ­nyi utca 5
 
 email: hunkonc@ticket.info.hu
-
-[back to Nightlife and Entertainment](..)

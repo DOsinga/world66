@@ -15,5 +15,3 @@ type: Chinese
 address: 2301 Georgia Ave NW
 
 tel: (202)265-8136
-
-[back to Eating Out](..)

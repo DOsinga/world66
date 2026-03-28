@@ -5,8 +5,6 @@ address: "Vigo, Galicia"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 42.23766
-longitude: -8.724721
 ---
 
 On this special culinary and cooking tour of Spain you will be based in Aldan ( Cangas), a small fishing village on the Atlantic coast of Galicia, Spain in the area called the Rias Baixas (Low Estuaries or Bays). You will get the chance to learn in-depth about the gastronomy of Galicia by cooking side-by-side with a Galician woman who owns/runs the small Charming Country Manor you will be staying at for the trip. Over the year Aurea has been handed down many traditional coastal cooking secrets of Galicia , which she will share with her guest on their cooking holiday in Galicia.
@@ -17,7 +15,4 @@ Being right on the coast we will spend a day making a boat trip over to on one o
 
 A trip to Galicia is not complete without a visit to Santiago de Compostela the Capital of the region and also the end of the important Pilgrimage Way of St. James . Here you will walk the streets of the old quarter and visit the Cathedral which marks the heart of this historic centre.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 06 April 05
-
-Minor corrections by [EuroAdventures](/member/euroadventures) on 06 April 05
+Minor corrections on 06 April 05

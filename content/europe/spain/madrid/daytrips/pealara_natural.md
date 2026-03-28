@@ -13,13 +13,9 @@ However the park entrance is only a very few minutes walk away and the office is
 
 **Contributors**
 November 01, 2009
-new
-by [davidx](/member/davidx)
 
 
 
 tel: + 34 91 8520857
 
 url: [www.parquenaturalpenalara.org](http://www.parquenaturalpenalara.org/)
-
-[back to Day Trips](..)

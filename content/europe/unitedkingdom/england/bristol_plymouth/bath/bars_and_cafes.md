@@ -84,5 +84,3 @@ zipcode: test
 address: Baptist Church, Manvers St, Bath Avon BA1 1JW
 
 tel: 01225 333223
-
--->

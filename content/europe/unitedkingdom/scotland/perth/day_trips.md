@@ -32,5 +32,3 @@ waterfall and had shutters of coloured glass.
 
 **Contributors**
 February 29, 2008
-new
-by [europealacarte](/member/europealacarte) (1 point)

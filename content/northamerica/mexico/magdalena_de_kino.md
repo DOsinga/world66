@@ -1,9 +1,9 @@
 ---
-title: "Magdalena de Kino Travel Guide"
+title: "Magdalena de Kino"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 A prosperous small city of some 25,000 inhabitants situated 80 km. (50
 miles) south of Nogales and the Arizona border, Magdalena de Kino is
@@ -40,7 +40,3 @@ Visitors will find several comfortable motels in and around Magdalena,
 and a wide variety of restaurants. Among the latter, El Toro merits
 special mention as for its careful preparation of beef, Sonora's
 specialty. The little restaurant by the odd name of Chango'oS in the commercial plaza is especially good for lunch.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 00:21

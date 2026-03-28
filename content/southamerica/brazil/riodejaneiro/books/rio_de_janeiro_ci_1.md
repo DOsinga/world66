@@ -21,8 +21,6 @@ Despite its short account on local nightlife, the Rio de Janeiro (City Guide) by
 
 **Contributors**
 November 27, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 [](http://www.amazon.com/exec/obidos/ASIN/1741048672/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -31,5 +29,3 @@ by [damiandavilarojas](/member/damiandavilarojas)
 author: Regis St. Louis
 
 isbn: 1741048672
-
-[back to Books](..)

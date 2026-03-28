@@ -9,8 +9,6 @@ url: "www.oerol.nl"
 
 **Contributors**
 February 28, 2005
-new
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 ### [Oerol](/europe/netherlands/waddenislands/terschelling_islan/festivals/oerol)
 

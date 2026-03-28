@@ -7,8 +7,6 @@ email: "aztat.trek@gmail.com"
 phone: "00212 68 76 01 65"
 type: "Trekking"
 url: "toubkl.guide.free.fr"
-latitude: 31.763789
-longitude: -6.997999
 ---
 
 Morocco is a great destination with wonderful trails, wild mountains, fascinating people and a dozen summits over 4000metres high - they're not called the High Atlas for nothing! Lower elevation treks are available too. English speaking guide, cook, and mules to carry all the essentials so you can enjoy travelling light and spend your days exploring ancient Berber villages, pastoral valleys and hidden mountain passes that lead to panoramic ridges.
@@ -40,8 +38,6 @@ Prior to Submitting the tour request form please note the following tour policie
 
 **Contributors**
 February 23, 2009
-change
-by [lauren555](/member/lauren555)
 
 type: Trekking
 
@@ -56,5 +52,3 @@ url: [toubkl.guide.free.fr](http://toubkl.guide.free.fr)
 address: Imlil Morocco
 
 email: aztat.trek@gmail.com
-
-[back to Things to do](..)

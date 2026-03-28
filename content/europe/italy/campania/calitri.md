@@ -1,7 +1,9 @@
 ---
-title: "Calitri Travel Guide"
+title: "Calitri"
 type: location
 ---
+
+Travel Guide
 
 **Calitri** is located in the region of** Campania**, about an hour drive from the city of **Naples,** a region very well known both in Italy and abroad as the homeland of pizza, mozzarella, and of romantic melodies. Calitri offers infinite activities centered around its many local traditions . Thanks to the relaxing atmosphere that Calitri has to offer, long relaxing walks can be enjoyed along the countryside and enjoy the unique and beautiful scenery. Visitors can wander round the medieval village to soak in the atmosphere and enjoy the local artisan's shops and the exceptional regional cuisine among other activities. Courses in traditional ceramics (Calitri is world-known for its artistic ceramics) needle point and arts are available. Many sports including skiing, paragliding, horse riding, mountain biking, fishing and hunting can also be practiced. For those seeking more relaxing occupations, soaking in the nearby thermal baths or embarking on exciting culinary or wine itinearies are an attractive option.
 
@@ -21,5 +23,3 @@ Here, old folk traditions are very much woven into every day life, with the whol
 
 **Contributors**
 November 16, 2006
-change
-by [giorgio](/member/giorgio)

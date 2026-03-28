@@ -20,5 +20,3 @@ ClosingTime: midnight
 tel: 0244537388
 
 address: Tema Community 3 Site A
-
-[back to Nightlife and Entertainment](..)

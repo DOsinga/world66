@@ -1,0 +1,4 @@
+---
+title: "Kauchung"
+type: location
+---

@@ -1,7 +1,9 @@
 ---
-title: "Baia Sant Anna Travel Guide"
+title: "Baia Sant Anna"
 type: location
 ---
+
+Travel Guide
 
 Budoni is located on the north-eastern part of the Sardinia's island . It borders with the San Teodoro 's resort to the north and with Posada 's resort to the south
 

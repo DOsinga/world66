@@ -53,5 +53,3 @@ also DJ’s from other countries. Step into the bar and enjoy yourself.
 
 **Contributors**
 February 19, 2010
-change
-by [ctanios](/member/ctanios)

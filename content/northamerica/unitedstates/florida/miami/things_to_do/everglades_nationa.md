@@ -11,8 +11,6 @@ Located less than 30 miles from Miami is Everglades National Park. The park cove
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Hiking
 
@@ -25,5 +23,3 @@ tel: 305-242-7700
 url: [www.nps.gov](http://www.nps.gov/ever/)
 
 address: Everglades National Park, 40001 State Road 9336
-
-[back to Things to do](..)

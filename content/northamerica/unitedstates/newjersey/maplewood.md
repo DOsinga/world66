@@ -1,0 +1,4 @@
+---
+title: "Maplewood"
+type: location
+---

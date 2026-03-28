@@ -20,5 +20,3 @@ tel: 503-228-9535
 PriceOfMenu: $$
 
 priceofmenu: $$
-
-[back to Eating Out](..)

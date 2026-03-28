@@ -28,6 +28,3 @@ My further research interests include critical museology and European postcoloni
 1999 (with) Jan Blommaert & Albert Martens, Van Blok tot Bouwsteen: Een visie voor een nieuw lokaal migrantenbeleid. Berchem: Epo. 
 
 2000 (edited) *RE-VISIONS: New perspectives on the African collections of the Horniman Museum* With preface by Jan Vansina. London & Coimbra: The Horniman Museum and Gardens & Museu Antropológico da Universidade de Coimbra. [For sale at Blackwell's Bookshops]
-
-*Change history*
-Orginal article by [Idrix](/member/idrix) on 29 December 04

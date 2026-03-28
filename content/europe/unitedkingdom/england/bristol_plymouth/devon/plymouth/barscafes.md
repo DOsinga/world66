@@ -4,8 +4,6 @@ type: location
 address: "Keyham Rd 206"
 phone: "01752 561188"
 type: "general"
-latitude: 50.3835
-longitude: -4.180355
 ---
 
 ### [Avondale Arms](/europe/unitedkingdom/england/bristol_plymouth/devon/plymouth/barscafes/avondalearms)
@@ -22,11 +20,7 @@ tel: 01752 561188
 
 ### [Jesters](/europe/unitedkingdom/england/bristol_plymouth/devon/plymouth/barscafes/jesters)
 
-This is posibly the most seediest club
- in the south west. Based on the notorius
- road that is Union Street, it caters for
- mostly sailors, soldiers and loose women.
- Not for the faint hearted!
+This is posibly the most seediest club in the south west. Based on the notorius road that is Union Street, it caters for mostly sailors, soldiers and loose women. Not for the faint hearted!
 
 type: general
 

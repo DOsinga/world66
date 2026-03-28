@@ -6,10 +6,7 @@ type: section
 [Here are a few daytrips!
 ](/europe/croatia/day_trips)
 
-**Change history**
-Write up by [janskov](/member/janskov) on 21 May 05
-
-Minor corrections by [giorgio](/member/giorgio) on 21 May 05
+Minor corrections on 21 May 05
 
 ### [The Trsteno Arboretum
 

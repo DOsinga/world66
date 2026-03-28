@@ -32,5 +32,3 @@ url: [www.CamelSafaries.com](http://www.CamelSafaries.com)
 address: Lmmhamid lot borj zaitoune imm 7.Appt 14.4000 Marrakesh
 
 email: camelsafaries@gmail.com
-
-[back to 7 Day Itinerary](..)

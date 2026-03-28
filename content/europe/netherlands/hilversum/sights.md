@@ -12,11 +12,4 @@ W.M. Dudok, in essence, is responsible for creating modern-day Hilversum, design
 #### Churches
 
 - **Church of our Sweet Lady: **Some architectural marvels are also found in the churches of the city. The Church of our Sweet Lady is one such church. It was designed by Walter Ter Riele and was completed in 1910. It has a distinctive neo-Gothic style with stained glass windows that are absolutely breathtaking. The layout is also quite extraordinary.
-- **Great Church: **A visit to the Great Church is warranted, though you may not be able to get inside the church as it is only open for religious ceremonies. There is a tower inside this church which dates back to 1481 and is the oldest structure in Hilversum. The church has been built in the neo-renaissance architectural style. It has been damaged a few times through the centuries and is now open only for religious events.
-
-#### Parks and Cemeteries
-
-- **Peerlkamp Route: **The parks provides a green-way hike through the heart of Hilversum, originally obtained by artist Jan Van Ravenswaay. There is also a hiking trail that can get you there.
-- **Bosdrift Cemetery: **A visit to Bosdrift Cemetery would also be worth a visit. There is a landscape garden.
-- **Costerus Garden: **A visit to an 80-year-old garden called the Costerus Garden would definitely be worth a visit, also. It has over 1200 species of labeled plants.
-- **Old Harbor Park: **A visit to the Old Harbor Park would be a very good finish to your visit in Hilversum. While there are no areas where visitors can sit down, it is a great place for a walk. You will see a stone bridge there which was designed by W.M. Dudok.
+- **Great Church: **A visit to the Great Church is warranted, though you may not be able to get inside the church as it is only open for religious ceremonies. There is a tower inside this church which dates

@@ -11,5 +11,3 @@ There are 'streets' and 'houses carved out of the tufa. Several hours could easi
 
 **Contributors**
 January 13, 2007
-new
-by [davidx](/member/davidx) (2 points)

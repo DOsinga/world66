@@ -12,13 +12,5 @@ Once inside, however there is much to see and it's well worth the trouble. If yo
 
 **Contributors**
 May 10, 2006
-change
-by [altobarb](/member/altobarb) (4 points)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

@@ -23,6 +23,4 @@ The fifteenth century Hall of the Vicars Choral is seen on entering the modern g
 
 Round Tower
 
-The Round Tower is a perfect specimen 92 feet high, built mainiy of sandstone the doorway is 12 feet above ground level. 
-
--->
+The Round Tower is a perfect specimen 92 feet high, built mainiy of sandstone the doorway is 12 feet above ground level.

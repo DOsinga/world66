@@ -16,5 +16,3 @@ type: Student Pubs & Bars
 
 
 address: Pub district between *Burggasse* and *Siebensterngasse*
-
-[back to Nightlife and Entertainment](..)

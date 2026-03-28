@@ -1,8 +1,6 @@
 ---
 title: "Tanis"
 type: poi
-latitude: 30.972605
-longitude: 31.884603
 ---
 
 In the delta area Tanis contains the most important ruins of the region but they’re very difficult to get to (ask directions from the tourist board in Cairo or Alexandria). A partially excavated royal cemetery is the main attraction. 

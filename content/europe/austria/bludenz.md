@@ -1,0 +1,4 @@
+---
+title: "Bludenz"
+type: location
+---

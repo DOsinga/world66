@@ -1,0 +1,4 @@
+---
+title: "Mary"
+type: location
+---

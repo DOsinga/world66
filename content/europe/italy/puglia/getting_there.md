@@ -8,5 +8,3 @@ Trains from Rome to Bari take about five hours.
 
 **Contributors**
 January 07, 2007
-new
-by [ingvar](/member/ingvar) (1 point)

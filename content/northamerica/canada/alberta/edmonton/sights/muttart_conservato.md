@@ -6,8 +6,6 @@ opening_hours: "Monday to Friday: 9 am to 5:30 pm Weekends and Holidays: 11 a.m.
 phone: "(780) 496-8735"
 type: "Parks, Gardens and Zoos"
 url: "www.edmonton.ca"
-latitude: 53.535295
-longitude: -113.47756
 ---
 
 The Muttart is one of the easily recongized parts of Edmonton's
@@ -33,12 +31,8 @@ Tours can be arranged by request.
 
 **Contributors**
 May 10, 2005
-new
-by [trouble](/member/trouble)
 
 May 11, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Parks, Gardens and Zoos
 
@@ -53,5 +47,3 @@ openingHours: Monday to Friday: 9 am to 5:30 pm Weekends and Holidays: 11 a.m. t
 url: [www.edmonton.ca](http://www.edmonton.ca/muttart)
 
 address: 9626-96A Street
-
-[back to Sights](..)

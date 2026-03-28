@@ -34,5 +34,3 @@ tel: +43 5412 66449-0
 address: Ing.-Baller-Straße 1, A-6460 Imst
 
 tel: +43 5412 1718
-
--->

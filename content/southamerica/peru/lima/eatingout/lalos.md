@@ -26,5 +26,3 @@ address: augusto Tamayo #169
 PriceOfMenu: 3 to 5 US dollars
 
 email: lalosrestobar@speedy.com.pe
-
-[back to Eating Out](..)

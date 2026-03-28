@@ -27,9 +27,5 @@ The end of August and early September bring downpours as Fall sets in. Temperatu
 
 **Contributors**
 February 12, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

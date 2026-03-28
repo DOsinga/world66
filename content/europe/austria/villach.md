@@ -1,0 +1,4 @@
+---
+title: "Villach"
+type: location
+---

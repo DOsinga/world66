@@ -1,9 +1,9 @@
 ---
-title: "Nîmes Travel Guide"
+title: "Nîmes"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Evidence of the Roman occupation is everywhere in
 the famous Nîmes architecture: the 1st and 2nd century amphitheatre,
@@ -16,11 +16,3 @@ during the Roman era.
 Throughout Provence and Languedoc, Nîmes is
 famous for its antique heritage and also for its colourful annual
 festivals, celebrating Easter and the grape harvest.
-
-#### Contributors
-
-January 10, 2007 new by [huahinhans](/member/huahinhans) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 21:17

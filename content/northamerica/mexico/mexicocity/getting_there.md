@@ -64,5 +64,3 @@ snacks, air conditioning and movies.
 
 **Contributors**
 September 17, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)

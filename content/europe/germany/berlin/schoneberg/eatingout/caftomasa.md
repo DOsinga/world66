@@ -8,7 +8,3 @@ Around the corner from beautiful Viktoria-Luise-Platz. Not only smart people hav
 connection: U Viktoria-Luise-Platz
 
 address: Haupstr. 85
-
-[back to Eating Out](..)
-
--->

@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "www.washington.edu"
 ---
 
@@ -10,8 +10,6 @@ still active, the webcam is no longer featured on the main page.
 
 **Contributors**
 June 02, 2005
-new
-by [minlee](/member/minlee) (1 point)
 
 ### [UW Seattle Campus- Red Square](/northamerica/unitedstates/washington/seattle/universityofwashington/webcams/uw_seattle_campus)
 

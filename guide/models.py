@@ -3,6 +3,7 @@ Filesystem-based content loading for World66.
 
 Reads markdown files with YAML frontmatter from content/.
 Uses the `type` field (location, section, poi) to classify pages.
+The frontmatter title is the source of truth — no runtime name mapping.
 """
 
 import re
@@ -15,37 +16,23 @@ from django.conf import settings
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
 
-SECTION_DISPLAY_NAMES = {
-    "sights": "Sights",
-    "eating_out": "Eating Out",
+DISPLAY_PROPERTIES = {
+    "address": "Address",
+    "phone": "Phone",
+    "url": "Website",
+    "email": "Email",
+    "opening_hours": "Opening Hours",
+    "closing_time": "Closing Time",
+    "price": "Price",
+    "admission": "Admission",
+    "isbn": "ISBN",
+    "author": "Author",
+    "connections": "Connections",
     "getting_there": "Getting There",
-    "getting_around": "Getting Around",
-    "practical_informat": "Practical Information",
-    "things_to_do": "Things to Do",
-    "day_trips": "Day Trips",
-    "shopping": "Shopping",
-    "beaches": "Beaches",
-    "museums": "Museums",
-    "nightlife_and_ente": "Nightlife & Entertainment",
-    "nightlife": "Nightlife",
-    "bars_and_cafes": "Bars & Cafes",
-    "festivals": "Festivals",
-    "when_to_go": "When to Go",
-    "top_5_must_dos": "Top 5 Must Do's",
-    "activities": "Activities",
-    "books": "Books",
-    "people": "People",
-    "budget_travel_idea": "Budget Travel Ideas",
-    "family_travel_idea": "Family Travel Ideas",
-    "tours_and_excursio": "Tours & Excursions",
-    "travel_guide": "Travel Guide",
-    "7_day_itinerary": "7-Day Itinerary",
+    "accessibility": "Accessibility",
+    "zipcode": "Zip Code",
+    "price_per_night": "Price/Night",
 }
-
-
-def _slug_to_name(slug):
-    """Convert a URL slug to a display name."""
-    return slug.replace("_", " ").replace("-", " ").title()
 
 
 def _parse_frontmatter(text):
@@ -93,35 +80,11 @@ class Page:
         return f"/{self.path}"
 
     @property
-    def display_name(self):
-        if self.page_type == "section":
-            return SECTION_DISPLAY_NAMES.get(self.slug, self.title)
-        return self.title
-
-    DISPLAY_PROPERTIES = {
-        "address": "Address",
-        "phone": "Phone",
-        "url": "Website",
-        "email": "Email",
-        "opening_hours": "Opening Hours",
-        "closing_time": "Closing Time",
-        "price": "Price",
-        "admission": "Admission",
-        "isbn": "ISBN",
-        "author": "Author",
-        "connections": "Connections",
-        "getting_there": "Getting There",
-        "accessibility": "Accessibility",
-        "zipcode": "Zip Code",
-        "price_per_night": "Price/Night",
-    }
-
-    @property
     def properties(self):
         return {
-            self.DISPLAY_PROPERTIES[k]: v
+            DISPLAY_PROPERTIES[k]: v
             for k, v in self.meta.items()
-            if k in self.DISPLAY_PROPERTIES
+            if k in DISPLAY_PROPERTIES
         }
 
     def breadcrumbs(self):
@@ -133,7 +96,7 @@ class Page:
             if ancestor:
                 crumbs.append((ancestor.title, ancestor.path))
             else:
-                crumbs.append((_slug_to_name(parts[i]), ancestor_path))
+                crumbs.append((parts[i], ancestor_path))
         return crumbs
 
     def children(self):
@@ -148,8 +111,9 @@ class Page:
 
         for entry in sorted(dir_path.iterdir()):
             if entry.is_file() and entry.suffix == ".md":
-                # Skip the location's own .md file (slug matches directory)
                 if entry.stem == self.slug:
+                    continue
+                if (dir_path / entry.stem).is_dir():
                     continue
                 page = _load_page_from_file(entry, self.path + "/" + entry.stem)
                 if not page:
@@ -162,18 +126,8 @@ class Page:
                     locations.append(page)
 
             elif entry.is_dir():
-                # A section/POI directory only contains .md files.
-                # A sub-location directory contains other directories too.
-                has_subdirs = any(f.is_dir() for f in entry.iterdir())
-                if not has_subdirs:
-                    # Pure .md directory — check if it's POIs via frontmatter
-                    sample_md = next(
-                        (f for f in entry.iterdir() if f.suffix == ".md"), None
-                    )
-                    if sample_md and _get_page_type(sample_md) == "poi":
-                        continue
                 child = load_page(self.path + "/" + entry.name)
-                if child:
+                if child and child.page_type == "location":
                     locations.append(child)
 
         return sections, locations, pois
@@ -182,7 +136,6 @@ class Page:
         """POIs inside this section's directory (for section pages)."""
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
-            # Section slug might be a file, check for matching directory
             parts = self.path.rsplit("/", 1)
             if len(parts) == 2:
                 dir_path = CONTENT_DIR / parts[0] / self.slug
@@ -206,7 +159,7 @@ def _load_page_from_file(file_path, url_path):
         return None
     meta, body = result
     slug = file_path.stem
-    title = meta.get("title", _slug_to_name(slug))
+    title = meta.get("title", slug)
     page_type = meta.get("type", "location")
     return Page(
         slug=slug, path=url_path, title=title,
@@ -219,7 +172,6 @@ def load_page(path):
     falls back to section/poi .md inside a parent directory."""
     slug = path.rsplit("/", 1)[-1] if "/" in path else path
 
-    # Location's own .md file lives inside its directory
     for md_file in [
         CONTENT_DIR / path / f"{slug}.md",
         CONTENT_DIR / f"{path}.md",
@@ -227,15 +179,6 @@ def load_page(path):
         if md_file.is_file():
             return _load_page_from_file(md_file, path)
 
-    # Directory exists but no .md file — still valid as a location
-    if (CONTENT_DIR / path).is_dir():
-        return Page(
-            slug=slug, path=path,
-            title=_slug_to_name(slug),
-            page_type="location",
-        )
-
-    # Try as a section/poi: last segment is a .md inside the parent dir
     if "/" in path:
         parent_path, slug = path.rsplit("/", 1)
         md_file = CONTENT_DIR / parent_path / f"{slug}.md"
@@ -249,8 +192,12 @@ def load_page(path):
 def load_continents():
     """Load top-level locations with their children (countries)."""
     continents = []
+    CONTINENT_SLUGS = {
+        "africa", "antarctica", "asia", "australiaandpacific",
+        "centralamericathecaribbean", "europe", "northamerica", "southamerica",
+    }
     for entry in sorted(CONTENT_DIR.iterdir()):
-        if entry.is_dir():
+        if entry.is_dir() and entry.name in CONTINENT_SLUGS:
             loc = load_page(entry.name)
             if loc:
                 _, locations, _ = loc.children()

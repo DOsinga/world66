@@ -33,5 +33,3 @@ Of course you definitely should take a day to enter the Vatican City. You can se
 
 **Contributors**
 December 18, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

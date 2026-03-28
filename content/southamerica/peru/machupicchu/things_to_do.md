@@ -10,8 +10,6 @@ More options appear here or in guidebooks.
 
 **Contributors**
 July 18, 2006
-new
-by [yohay elam](/member/yohay_elam) (2 points)
 
 ### [Alternative Inca Trail and Eco Tourism Peru](/southamerica/peru/machupicchu/things_to_do/alternative_inca_t)
 

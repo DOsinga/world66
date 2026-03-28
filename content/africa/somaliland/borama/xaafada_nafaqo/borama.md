@@ -1,12 +1,8 @@
 ---
-title: "Borama Travel Guide"
+title: "Borama"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 One of the best places in Somaliland. Mr. Mukhtar MO.
-
-Page last generated on Wed 11:26
-
--->

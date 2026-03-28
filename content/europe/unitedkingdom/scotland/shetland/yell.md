@@ -1,0 +1,4 @@
+---
+title: "Yell"
+type: location
+---

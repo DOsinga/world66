@@ -13,5 +13,3 @@ tickets sold on board
 
 **Contributors**
 October 13, 2005
-new
-by [j wojtynski](/member/j_wojtynski)

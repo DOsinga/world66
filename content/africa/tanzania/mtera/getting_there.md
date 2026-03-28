@@ -8,5 +8,3 @@ The road is part of the old British “ Cape-Cairo Highway ”, but it is poorly
 
 **Contributors**
 May 25, 2006
-new
-by [ingvar](/member/ingvar) (4 points)

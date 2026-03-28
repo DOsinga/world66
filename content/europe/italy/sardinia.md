@@ -1,8 +1,6 @@
 ---
 title: "Sardinia"
 type: location
-latitude: 40.091281
-longitude: 9.030577
 ---
 
 When approaching the island of Sardinia by boat, you’ll be impressed by the colors of its rocks, ranging from black to basalt, from silver to granite and from red to porphyry. Sardinia is a very striking island, not in the least because of its History : Every Mediterranean power has controlled the island at one time —Romans, Phoenicians, Spaniards and even a pope. Present-day Sardinia is the favourite holiday spot of Italy’s extremely wealthy (which explains Sardinia’s high prices). 
@@ -20,17 +18,3 @@ The town of [Olbia](/europe/italy/sardinia/olbia) is the gateway to the Emerald 
 Shop for exquisite lace, wood, carvings, carpets and bitter honey (harvested during autumn, when the only flowers blooming contain bitter pollen). For dinner, try the traditional Sardinian dish ‘porcheddu’ (roasted piglet). If you are looking for something more exotic, order ‘uova di ricci’ (raw urchin eggs) or ‘uova di muggine’ (the eggs of a Mediterranean fish grated over pasta). 
 
 So now let's start out on a quick trip A trip Around Sardinia to get an idea of what there is to discover and what you can expect to find on your visit to Sardinia.
-
-## Destinations
-
-- [Alghero](/europe/italy/sardinia/alghero)
-- [Cagliari](/europe/italy/sardinia/cagliari)
-- [Costa Emeralda](/europe/italy/sardinia/costaemeralda)
-- [La Maddelena](/europe/italy/sardinia/lamaddelena)
-- [Nuoro](/europe/italy/sardinia/nuoro)
-- [Olbia](/europe/italy/sardinia/olbia)
-- [Oristano](/europe/italy/sardinia/oristano)
-- [Porto Ferro](/europe/italy/sardinia/portoferro)
-- [Sassari](/europe/italy/sardinia/sassari)
-- [Sinis Peninsula](/europe/italy/sardinia/sinispeninsula)
-- [Su Nuraxi](/europe/italy/sardinia/sunuraxi)

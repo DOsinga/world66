@@ -27,9 +27,7 @@ tel: +39 (0)583 - 91091
 
 **Osteria del Neni**
 
-The Osteria del Neni is located in one of the corners of antique Lucca, in the old narrow street of Via Pescheria, just near S.Michele square. Having a modern organization, the actual owner are coming back to taste and atmosphere of the old days. Having complete menues, Osteria del Neni will serv [more..](/europe/italy/tuscany/lucca/eatingout/osteriadelneni)
-
-address: Via Pescheria 3 - Lucca
+The Osteria del Neni is located in one of the corners of antique Lucca, in the old narrow street of Via Pescheria, just near S.Michele square. Having a modern organization, the actual owner are coming address: Via Pescheria 3 - Lucca
 
 tel: +39 (0)583 - 492681
 

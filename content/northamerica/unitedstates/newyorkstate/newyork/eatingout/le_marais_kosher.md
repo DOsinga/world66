@@ -20,5 +20,3 @@ url: [www.lemarais.net](http://www.lemarais.net)
 address: 46th between 6th & 7th Aves
 
 PriceOfMenu: $20-70
-
-[back to Eating Out](..)

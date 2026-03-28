@@ -20,5 +20,3 @@ address: Av. Du X Septembre 151
 tel: +352 459 921
 
 zipcode: L-2551
-
-[back to Eating Out](..)

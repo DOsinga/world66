@@ -13,8 +13,6 @@ Cozy restaurant in the Zona G. Very good selection - something for everyone.
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: International
 
@@ -31,5 +29,3 @@ address: Calle 69a, #5-59
 PriceOfMenu: Moderate
 
 email: rclarooscuro@hotmail.com
-
-[back to Eating Out](..)

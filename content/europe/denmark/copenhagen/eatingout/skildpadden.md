@@ -30,8 +30,3 @@ Between basement and upstairs seating, Skilpadden accommodates around 60. Noise 
 Good quality produce, coupled with generous sized portions mean the prices are more than reasonable.
 
 **Payment:** Cash, Check, Dankort, Eurocard, MasterCard, VISA
-
-*Change history*
-Minor corrections by [Ibis](/member/ibis) on 27 February 04
-
--->

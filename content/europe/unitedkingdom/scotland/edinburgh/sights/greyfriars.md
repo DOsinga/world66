@@ -15,8 +15,6 @@ Disney made 2 movies Greyfriars Bobby (the modern version is more truthful) and 
 
 **Contributors**
 May 31, 2007
-change
-by [filminfo](/member/filminfo)
 
 type: Graves and Cemeteries
 
@@ -29,5 +27,3 @@ address: Opposite Chambers Street
 openinghours: 10.30am-4.30pm
 
 accessibility: good
-
-[back to Sights](..)

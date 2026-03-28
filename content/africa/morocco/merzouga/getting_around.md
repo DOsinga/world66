@@ -7,9 +7,5 @@ Spending one or two nights under a nomad tent in the dunes or going for some day
 
 **Contributors**
 March 24, 2005
-change
-by [reen](/member/reen)
 
 September 02, 2009
-change
-by [peterhunt](/member/peterhunt)

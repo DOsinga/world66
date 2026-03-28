@@ -44,5 +44,3 @@ GyPSy Guide provides the self-drive visitors with a guided tour. GyPSy Guide aut
 
 **Contributors**
 July 23, 2007
-change
-by [real](/member/real) (4 points)

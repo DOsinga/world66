@@ -15,8 +15,6 @@ Chicago Transit (CTA) train stations close to Millennium Park include the Red Li
 
 **Contributors**
 June 04, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -33,5 +31,3 @@ url: [www.millenniumpark.org](http://www.millenniumpark.org/)
 address: corner of Columbus and Randolph
 
 email: millennium-park@cityofchicago.org
-
-[back to Sights](..)

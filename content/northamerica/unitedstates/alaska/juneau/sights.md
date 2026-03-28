@@ -7,5 +7,3 @@ A popular Juneau attraction is the Mendenhall Glacier. It is part of the Tongass
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

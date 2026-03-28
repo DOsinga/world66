@@ -34,5 +34,3 @@ url: [www.ninacouture.com](http://www.ninacouture.com)
 address: Upstairs at Abovyan 1
 
 email: nune1406@yahoo.com
-
-[back to Shopping](..)

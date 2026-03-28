@@ -13,8 +13,6 @@ Dade City's Wild THings is a 501(c)3 non profit zoo located in Historical Dade C
 
 **Contributors**
 September 28, 2007
-new
-by [kathystearns](/member/kathystearns) (2 points)
 
 type: Parks, Gardens and Zoos
 
@@ -31,5 +29,3 @@ url: [dadecityswildthings.com](http://dadecityswildthings.com)
 address: 37245 Meridian Ave
 
 email: mail@dadecityswildthings.com
-
-[back to Sights](..)

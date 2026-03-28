@@ -14,5 +14,3 @@ A collection of poems born between the Alps and the Tyrrhenian. Quintessential M
 author: Beatrice Lao
 
 isbn: 988979991X
-
-[back to Books](..)

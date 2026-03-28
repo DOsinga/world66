@@ -1,9 +1,9 @@
 ---
-title: "Syunik Marz Travel Guide"
+title: "Syunik Marz"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Syunik is the at the southern tip of Armenia. It forms a bridge to Iran, and thus is critically important to landlocked Armenia's trade.
 
@@ -22,11 +22,3 @@ Kapan is a very cool Soviet town with pink Soviet apartment blocks climbing the 
 Shikahogh is a large nature reserve almost at the Iranian border. The Mtnadzor canyon is one of the most unspoiled sections of forest in Armenia.
 
 Meghri, overlooking Iran, has a completely different feel from the rest of Armenia. The old, middle eastern alleys, the dusty, craggy peaks, the sand-brown buildings and churches all lend a different feel that much Soviet planning was not able to completely wipe out. A popular stop for Iranian truckers, but not much to offer in terms of comfortable accomodation.
-
-#### Contributors
-
-November 11, 2008 new by [raffikojian](/member/raffikojian)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 10:21

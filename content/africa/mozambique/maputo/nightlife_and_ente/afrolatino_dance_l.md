@@ -8,8 +8,6 @@ email: "afrolatinodance@gmail.com"
 phone: "+258 847814056"
 type: "Clubs and dancing"
 url: "www.afrlatinodance.weebly.com"
-latitude: -25.96747
-longitude: 32.598002
 ---
 
 ***Afrolatino Dance Art and Culture Development Co.
@@ -36,5 +34,3 @@ accessibility: Open for all
 address: Polana, Maputo, Mozambique
 
 email: afrolatinodance@gmail.com
-
-[back to Nightlife and Entertainment](..)

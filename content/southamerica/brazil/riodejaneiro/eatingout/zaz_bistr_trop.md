@@ -12,8 +12,6 @@ In Rio, there is plenty of diversity when it comes to eating out. The Ipanema ne
 
 **Contributors**
 November 29, 2007
-new
-by [adamthomas](/member/adamthomas) (1 point)
 
 type: Indonesian
 
@@ -28,5 +26,3 @@ url: [zazabistro.com.br](http://zazabistro.com.br/)
 address: Rua Joana Angélica 40, Ipanema
 
 email:
-
-[back to Eating Out](..)

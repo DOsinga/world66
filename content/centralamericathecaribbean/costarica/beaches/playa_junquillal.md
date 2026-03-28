@@ -5,8 +5,6 @@ address: "Playa Junquillal"
 email: "coopermays@racsa.co.cr"
 phone: "506-2658-7018"
 url: "coopermays.blogspot.com"
-latitude: 10.96983
-longitude: -85.688038
 ---
 
 The province of Guanacaste, the north west coast of Costa Rica, called the "gold coast" is made of a string of lovely beaches. Each offers a unique tropical experience.
@@ -14,8 +12,6 @@ Playa Junquillal is a still undeveloped beach recently connected with paved road
 
 **Contributors**
 January 26, 2009
-new
-by [coopermays](/member/coopermays)
 
 
 
@@ -26,5 +22,3 @@ url: [coopermays.blogspot.com](http://coopermays.blogspot.com)
 address: Playa Junquillal
 
 email: coopermays@racsa.co.cr
-
-[back to Beaches](..)

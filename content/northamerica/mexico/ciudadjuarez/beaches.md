@@ -22,9 +22,5 @@ Mazatlan is another popular destination because of the warm pristine waters with
 
 **Contributors**
 April 01, 2010
-change
-by [suegabel](/member/suegabel)
 
 April 01, 2010
-change
-by [ctanios](/member/ctanios)

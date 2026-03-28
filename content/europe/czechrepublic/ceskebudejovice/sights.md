@@ -22,5 +22,3 @@ than 80 countries .
 
 **Contributors**
 May 07, 2005
-change
-by [giorgio](/member/giorgio)

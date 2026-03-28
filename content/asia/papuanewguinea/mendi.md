@@ -1,0 +1,4 @@
+---
+title: "Mendi"
+type: location
+---

@@ -11,9 +11,3 @@ cost you about $1600. To find out more information about getting to the
 Cocos, go to http://www.nationaljet.com.au/.
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

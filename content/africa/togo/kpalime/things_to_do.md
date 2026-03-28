@@ -8,8 +8,6 @@ The area around Kpalime is very green and hilly, and great for treks.
 
 **Contributors**
 February 02, 2008
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 ### [Hiking around Klouto and Kuma Kunda](/africa/togo/kpalime/things_to_do/kuma_kunde)
 

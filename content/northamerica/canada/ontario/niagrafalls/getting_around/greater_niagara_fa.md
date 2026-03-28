@@ -19,5 +19,3 @@ Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME 
 
 
 address: Bridge @ Erie, Downtown Niagara Falls
-
-[back to Getting Around](..)

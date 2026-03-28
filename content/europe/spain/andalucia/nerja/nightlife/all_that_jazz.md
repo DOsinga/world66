@@ -8,5 +8,3 @@ All That Jazz, one of the newest and exciting places that has recently opened on
 Checkout the website www.allthatjazznerja.com
 
 bookingurl: [www.allthatjazznerja.com](http://www.allthatjazznerja.com)
-
--->

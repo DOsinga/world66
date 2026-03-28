@@ -10,8 +10,6 @@ Regional, Seasonal American Cusine. An emphanisis on food from the Chesapeak Bay
 
 **Contributors**
 July 17, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: American
 
@@ -22,5 +20,3 @@ type: American
 tel: (202) 331-8118
 
 address: 818 Connecticut Ave NW
-
-[back to Eating Out](..)

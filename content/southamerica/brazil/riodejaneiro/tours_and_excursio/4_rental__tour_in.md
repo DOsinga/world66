@@ -24,5 +24,3 @@ url: [Rio de Janeiro](http://Rio de Janeiro)
 address: rua prudente de moraes 481/402 Ipanema
 
 email: marcelo-tur@hotmail.com
-
-[back to Tours and Excursions](..)

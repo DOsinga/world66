@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "magdy@egyptonlinetours.com"
 phone: "0020162922290"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Itinerary:-
@@ -92,5 +90,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Nile-Cruis
 address: 124, Haram street, Giza, Egypt
 
 email: magdy@egyptonlinetours.com
-
-[back to Day Trips](..)

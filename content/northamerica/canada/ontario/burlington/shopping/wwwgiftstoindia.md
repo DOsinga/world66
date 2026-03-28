@@ -29,5 +29,3 @@ type: Shopping centers and malls
 url: http:
 
 email: poulamimajumder26@gmail.com
-
-[back to Shopping](..)

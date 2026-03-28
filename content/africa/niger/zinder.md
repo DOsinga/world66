@@ -1,8 +1,6 @@
 ---
 title: "Zinder"
 type: location
-latitude: 13.806342
-longitude: 8.989166
 ---
 
 Zinder was founded in the beginning of the 17-th century by Hausa tradesmen from Kano. In the 19-th century the city reached its peak. Situated on the trading route from [Kano](/africa/nigeria/kano) to [Agadez](/africa/niger/agadez) , the city was a big trading center of the Hausa empire. 

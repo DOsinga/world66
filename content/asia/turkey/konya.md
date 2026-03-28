@@ -1,0 +1,4 @@
+---
+title: "Konya"
+type: location
+---

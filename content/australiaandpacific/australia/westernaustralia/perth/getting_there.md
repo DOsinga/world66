@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-## Subsections
+We currently have no Getting There listed in Perth.
 
-[By Air](/australiaandpacific/australia/westernaustralia/perth/gettingthere/byair)
+If you do know any Getting There in Perth, please [Add].

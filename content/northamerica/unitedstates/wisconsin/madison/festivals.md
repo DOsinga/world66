@@ -19,9 +19,4 @@ An annual car show in Madison. More information available at http://www.corvette
 
 Various BBQ competitions, fun and entertainment for all the family. A variety of Microbrews available for your tasting pleasure too!
 
-*Change history*
-Orginal article by [JimShady](/member/jimshady) on 22 August 04
-
-Minor corrections by [JimShady](/member/jimshady) on 22 August 04
-
--->
+Minor corrections on 22 August 04

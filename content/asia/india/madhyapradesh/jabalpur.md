@@ -1,0 +1,4 @@
+---
+title: "Jabalpur"
+type: location
+---

@@ -10,7 +10,5 @@ Specializing in tours for Japanese clientele.
 
 **Contributors**
 November 13, 2005
-change
-by [jmcnally](/member/jmcnally)
 
 type: general

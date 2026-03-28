@@ -24,5 +24,3 @@ www.ramblewriter.com
 author: Rochelle Johnson
 
 isbn: 978-0-557-64467-4
-
-[back to Books](..)

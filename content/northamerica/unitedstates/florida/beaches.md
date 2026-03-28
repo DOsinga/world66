@@ -10,5 +10,3 @@ there are good beaches!
 **anna maria island**
 
 url: [home](http://home)
-
--->

@@ -6,8 +6,6 @@ email: "lapintadabcn@gmail.com"
 phone: "933681617"
 type: "Speciality shops"
 url: "lapintadabcn.blogspot.com"
-latitude: 41.39893
-longitude: 2.158604
 ---
 
 La
@@ -42,5 +40,3 @@ url: [lapintadabcn.blogspot.com](http://lapintadabcn.blogspot.com)
 address: Mozart 3,Gràcia
 
 email: lapintadabcn@gmail.com
-
-[back to Shopping](..)

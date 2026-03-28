@@ -17,5 +17,3 @@ type: Hotspots
 openinghours: 11 am - 4.30 pm, Tue - Sun
 
 tel: 4925443
-
-[back to Sights](..)

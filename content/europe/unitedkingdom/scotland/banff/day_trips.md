@@ -7,5 +7,3 @@ Day trips are best if you go by car, south to [Aberdeen](/europe/unitedkingdom/s
 
 **Contributors**
 January 21, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)

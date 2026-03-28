@@ -1,0 +1,4 @@
+---
+title: "Denizli"
+type: location
+---

@@ -12,5 +12,3 @@ type: Palaces
 
 
 email: play.bixha@gmail.com
-
-[back to Sights](..)

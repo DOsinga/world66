@@ -1,8 +1,6 @@
 ---
 title: "Nyon"
 type: location
-latitude: 46.382058
-longitude: 6.240279
 ---
 
 Nyon is a very nice city located on the borders of Lac Leman (kak Lake of Geneva). It is reached in twenty minutes from Geneva with regular trains.

@@ -29,5 +29,3 @@ Another museum is the tourist museum that will provide information on how the re
 
 **Contributors**
 March 24, 2010
-new
-by [piyushjain](/member/piyushjain_)

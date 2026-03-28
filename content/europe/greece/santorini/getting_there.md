@@ -36,5 +36,3 @@ Santorini and the nearby islands.
 
 **Contributors**
 October 22, 2009
-new
-by [leah rendon](/member/leah_rendon)

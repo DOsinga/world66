@@ -99,5 +99,3 @@ Tel : +33 04.93.59.95.07
 
 **Contributors**
 September 06, 2005
-change
-by [ethnic_nomad](/member/ethnic_nomad)

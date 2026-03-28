@@ -104,5 +104,3 @@ When leaving Rarotonga on an international flight you will be required to pay a 
 
 **Contributors**
 March 09, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

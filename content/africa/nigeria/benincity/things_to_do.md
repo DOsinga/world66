@@ -23,9 +23,5 @@ The **Emotan Statue** is perhaps Benin City’s most well-known piece of artwork
 
 **Contributors**
 April 04, 2010
-change
-by [mbailin](/member/mbailin)
 
 April 13, 2010
-change
-by [ctanios](/member/ctanios)

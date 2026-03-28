@@ -17,5 +17,3 @@ type: Museums
 address: Residenz, (entrance) Max-Josef-Platz 3
 
 tel: +49 (0)89 - 29 06 71
-
-[back to Sights](..)

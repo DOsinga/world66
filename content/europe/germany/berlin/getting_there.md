@@ -16,9 +16,3 @@ type: section
  **Trainstations**
 
  The central station in Berlin is the well-known Bahnhof Zoologischer Garten, or just Bahnhof Zoo in he western part of the city.
-
- 
-
-## Subsections
-
-[By Air](/europe/germany/berlin/gettingthere/byair)

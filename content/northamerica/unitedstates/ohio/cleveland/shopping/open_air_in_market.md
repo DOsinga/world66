@@ -10,8 +10,6 @@ This is a well known urban outdoor market that features a variety of vendors and
 
 **Contributors**
 April 08, 2006
-change
-by [vulpster03](/member/vulpster03) (1 point)
 
 type: Markets
 
@@ -22,5 +20,3 @@ type: Markets
 tel: 216.781.3222
 
 url: [www.openairinmarketsquare.com](http://www.openairinmarketsquare.com/#)
-
-[back to Shopping](..)

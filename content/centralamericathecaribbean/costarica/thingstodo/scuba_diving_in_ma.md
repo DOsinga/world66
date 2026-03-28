@@ -11,8 +11,6 @@ P Pacific coast diving is awesome. You can learn to dive, advance your skills wi
 
 **Contributors**
 July 26, 2007
-change
-by [geo80](/member/geo80)
 
 type: Diving
 
@@ -25,5 +23,3 @@ url: [www.oceansunlimitedcr.com](http://www.oceansunlimitedcr.com)
 address: Road between Manuel Antonio and Quepos
 
 email: info@oceansunlimitedcr.com
-
-[back to Things to do](..)

@@ -17,5 +17,3 @@ The origin of the name of this place is shrouded in ancient Indian myth which te
 
 
 email: christianward2003@yahoo.co.uk
-
-[back to Attractions](..)

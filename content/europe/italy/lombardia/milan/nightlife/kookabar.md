@@ -8,8 +8,6 @@ phone: "0254122507"
 type: "Bars & Pubs"
 url: "www.kookabar.net"
 zipcode: "20135"
-latitude: 45.453973
-longitude: 9.208717
 ---
 
 The kookabar is a australian owned and run bar near porta romana,it is a trusted haven for ex patriots with a garden style cocktail bar and a under ground sports bar,billiards,darts, sky tv coverage of all major sporting events,tel. 0254122507, http://www.kookabar.net
@@ -33,5 +31,3 @@ closingtime: 2.00am
 url: [www.kookabar.net](http://www.kookabar.net)
 
 zipcode: 20135
-
-[back to Nightlife and Entertainment](..)

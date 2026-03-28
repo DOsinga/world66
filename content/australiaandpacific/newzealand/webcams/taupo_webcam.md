@@ -1,6 +1,6 @@
 ---
 title: "Taupo Webcam"
-type: location
+type: poi
 url: "www.takeabreak.co.nz"
 ---
 
@@ -17,5 +17,3 @@ url: "www.takeabreak.co.nz"
 
 
 url: www.takeabreak.co.nz
-
-[back to Webcams](..)

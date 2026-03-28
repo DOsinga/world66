@@ -29,5 +29,3 @@ type: European
 url: [www.shoko.ru](http://www.shoko.ru/)
 
 PriceOfMenu: 20$
-
-[back to Eating Out](..)

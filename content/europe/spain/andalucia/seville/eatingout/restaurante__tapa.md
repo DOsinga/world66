@@ -7,8 +7,6 @@ phone: "+34954215483"
 type: "Spanish"
 url: "www.barriosantacruz.com"
 zipcode: "41004 Sevilla"
-latitude: 37.893447
-longitude: -6.565252
 ---
 
 Restaurant & Tapas Doña Elvira is located in the popular Plaza de Doña Elvira, a place emblematic of Barrio Santa Cruz, occupying a unique building that is probably the most photographed house in the neighborhood. 
@@ -32,5 +30,3 @@ address: Plaza Doña Elvira, 6
 url: [www.barriosantacruz.com](http://www.barriosantacruz.com/elvira)
 
 tel: +34954215483
-
-[back to Eating Out](..)

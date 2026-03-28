@@ -7,5 +7,3 @@ Guadalajara is blessed with an ideal climate and a wealth of colonial era archit
 
 **Contributors**
 August 05, 2005
-change
-by [tiogringo](/member/tiogringo)

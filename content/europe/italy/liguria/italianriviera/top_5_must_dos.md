@@ -15,5 +15,3 @@ Genoa is certainly not the largest city, or the most popular, but it is one of t
 
 **Contributors**
 April 20, 2010
-new
-by [suegabel](/member/suegabel)

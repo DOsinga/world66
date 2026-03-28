@@ -9,8 +9,6 @@ If you want to take it easy and have a hamburger, go to **El Corral**. There are
 
 **Contributors**
 October 05, 2007
-new
-by [arconada](/member/arconada)
 
 type: Fast food
 
@@ -19,5 +17,3 @@ type: Fast food
 
 
 url: [www.elcorral.com](http://www.elcorral.com/)
-
-[back to Eating Out](..)

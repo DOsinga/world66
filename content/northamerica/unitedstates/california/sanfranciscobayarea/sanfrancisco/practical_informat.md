@@ -7,5 +7,3 @@ San Francisco City was choosen by most of the Filipinos because its not that fre
 
 **Contributors**
 July 01, 2005
-new
-by [libay](/member/libay) (1 point)

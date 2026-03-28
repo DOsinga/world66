@@ -1,0 +1,4 @@
+---
+title: "Zabierzow"
+type: location
+---

@@ -24,5 +24,3 @@ type: Tourist information
 
 
 url: [www.flensburg-tourist.de](http://www.flensburg-tourist.de)
-
-[back to Practical Information](..)

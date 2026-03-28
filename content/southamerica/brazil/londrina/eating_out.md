@@ -491,5 +491,3 @@ Telefone: 330-0591
 
 **Contributors**
 January 13, 2006
-change
-by [giorgio](/member/giorgio)

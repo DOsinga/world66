@@ -33,5 +33,3 @@ tel: 00 646 124 9297
 address: Maerua Park Shopping Centre, Cnr Robert Mugabe & Jan Jonker Street, Windhoek
 
 email: maerua@sterkinekor.com
-
-[back to Nightlife and Entertainment](..)

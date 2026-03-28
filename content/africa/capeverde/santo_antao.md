@@ -13,9 +13,6 @@ Tipically is that one side of the island is pretty dry, but the other side is ve
 
 When you drive in the mountains it can occur that there's a cloud in between, and it's very special to drive through it.
 
-*Change history*
-Orginal article by [footie_chica](/member/footie_chica) on 23 January 05
-
 ## Destinations in Santo Antao
 
 [Ponto Do Sol](/africa/capeverde/santo_antao/ponto_do_sol)

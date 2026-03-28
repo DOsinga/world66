@@ -25,5 +25,3 @@ Again, this trip is for those who either really want to see the nation's capital
 
 **Contributors**
 August 26, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

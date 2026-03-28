@@ -23,15 +23,7 @@ This is an amazing landscape garden which was created by William Walton, the fam
 
 #### 4. Museo Archeologica Pithecusae
 
-Ischia has history almost dating back to 8th Century BC, when it was first inhabited by Greeks. If you need to know about that history, then the place to be is this museum at Lacco Ameno. You will see a lot of archeological finds and many interesting stories to go with them.
-
-#### 5. Water Sports
-
-With a coastline of over 20 kilometers, there is a lot of fun to be had in the water. There are a lot of options which are available. You can go angling, boating, and even diving. Of course diving and the huge cliffs throw up really scary combinations, but you can be certain there are a lot less dangerous options.
-
-### [Giardini Ravino](/europe/italy/campania/ischia/top_5_must_dos/giardini_ravino)
-
-(Forio - Citara Bay) - Botanical Garden with one of the richest collection of cacti and succulents cultivated outdoors in Europe. The garden, along with the mature areas around Villa Ravino, is the result of 50 years of great passion and loving work of Captain Giuseppe d'Ambra, the owner of the Villa. The exotic trees include palms, olive, lemon and orange, surprising scenery and rare and precious botanical specimens. Giardini Ravino is located atForio d’Ischia. A rich collection of cacti and succulents cultivated outdoors, constantly enriched with new species from all [more..](/europe/italy/campania/ischia/top_5_must_dos/giardini_ravino)
+Ischia has history almost dating (Forio - Citara Bay) - Botanical Garden with one of the richest collection of cacti and succulents cultivated outdoors in Europe. The garden, along with the mature areas around Villa Ravino, is the result of 50 years of great passion and loving work of Captain Giuseppe d'Ambra, the owner of the Villa. The exotic trees include palms, olive, lemon and orange, surprising scenery and rare and precious botanical specimens. Giardini Ravino is located atForio d’Ischia. A rich collection of cacti and succulents cultivated outdoors, constantly enriched with new species from all [more..](/europe/italy/campania/ischia/top_5_must_dos/giardini_ravino)
 
 
 

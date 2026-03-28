@@ -1,14 +1,9 @@
 ---
 title: "Millesgården"
 type: poi
-latitude: 59.359006
-longitude: 18.121267
 ---
 
 This is sited on the coast of one of the larger islands, Lidingö, with fine views back over the city. It has indoor exhibits, mostly of paintings, but the outdoor sculptures are what you will remember. These are both works by Carl Milles and works that he colllected.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 23 November 04
 
 email: info@millesgarden.se
 
@@ -19,5 +14,3 @@ url: [www.millesgarden.se](http://www.millesgarden.se/uksubs.html)
 openings: see site below
 
 tel: + 46 8 446 75 90. Also +46 8 446 75 80
-
--->

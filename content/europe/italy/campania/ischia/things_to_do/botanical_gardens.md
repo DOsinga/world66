@@ -17,7 +17,5 @@ Also you will find a tea house with snacks, a shop, many restrooms, and a Greek 
 
 **Contributors**
 June 22, 2006
-new
-by [karenbru](/member/karenbru) (2 points)
 
 type: Other

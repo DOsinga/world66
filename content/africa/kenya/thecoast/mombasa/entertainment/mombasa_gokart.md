@@ -8,16 +8,12 @@ email: "casanova@mombasa-gokart.com"
 phone: "+254 721 48 52 47"
 type: "Casinos"
 url: "www.mombasa-gokart.com"
-latitude: -4.05052
-longitude: 39.667169
 ---
 
 In a beautiful tropical garden you will find an amazing motorsport facility. 14 Swiss Hutless Go-Karts, Restaurant and Bar with an excellent view on the track. Adrenalin pur, daily from 4pm to 10pm. We are at the Mombasa Northcoast near Severin Sea-Lodge. Ask you taxi driver.
 
 **Contributors**
 September 04, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Casinos
 
@@ -36,5 +32,3 @@ accessibility: taxi
 address: 10613 Mombasa
 
 email: casanova@mombasa-gokart.com
-
-[back to Nightlife and Entertainment](..)

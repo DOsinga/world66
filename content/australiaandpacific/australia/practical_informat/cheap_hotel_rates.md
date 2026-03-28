@@ -17,5 +17,3 @@ type: Tourist information
 url: [www.hotelchoyce.com](http://www.hotelchoyce.com/Country/Australia.htm)
 
 address: http://www.hotelchoyce.com/Country/Australia.htm
-
-[back to Practical Information](..)

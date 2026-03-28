@@ -32,7 +32,5 @@ local waters.
 
 **Contributors**
 October 27, 2005
-new
-by [iszatmary](/member/iszatmary)
 
 type: Surfing

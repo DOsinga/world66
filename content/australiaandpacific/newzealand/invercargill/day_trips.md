@@ -9,8 +9,6 @@ people the most southern point they will ever visit in their life.
 
 **Contributors**
 August 06, 2005
-new
-by [modir](/member/modir)
 
 ### Bluff
 

@@ -24,12 +24,8 @@ Usually it's wise to make reservations in advance. Closed on Mondays.
 
 **Contributors**
 April 27, 2005
-new
-by [hpharmsen](/member/hpharmsen)
 
 April 28, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -44,5 +40,3 @@ address: 1e Anjeliersdwarsstraat 14 (next to Westerstraat)
 tel: 020 - 627 7153
 
 PriceOfMenu: € 30
-
-[back to Eating Out](..)

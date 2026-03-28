@@ -1,0 +1,4 @@
+---
+title: "Vyatka"
+type: location
+---

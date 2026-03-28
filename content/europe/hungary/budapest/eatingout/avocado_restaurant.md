@@ -23,5 +23,3 @@ url: [www.avocadorestaurant.hu](http://www.avocadorestaurant.hu)
 address: Budapest, NyÃ¡ry PÃ¡l u. 9.
 
 email: avocadomusiccafe@mail.datanet.hu
-
-[back to Eating Out](..)

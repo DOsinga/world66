@@ -2,8 +2,6 @@
 title: "Murambi Genocide Memorial"
 type: poi
 type: "Memorials"
-latitude: -2.455224
-longitude: 29.567702
 ---
 
 One of the most disturbing of the genocide memorials, you will leave this place sick to the stomach at what we in the West stood back and let happen in 1994. It is off a track near Gikongoro town centre in the south, and can be reached by vehicle or on bicycle taxi. People will point you in the right direction as they are used to tourists going that way.
@@ -17,8 +15,6 @@ type: Memorials
 
 
 
-
-[back to Sights](..)
 
 ## Destinations in Rwanda
 
@@ -34,17 +30,10 @@ type: Memorials
 
 add region or city >
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

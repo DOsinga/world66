@@ -1,9 +1,9 @@
 ---
-title: "Seekonk Travel Guide"
+title: "Seekonk"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Seekonk, MA Hotel Area Destinations:**
 
@@ -21,9 +21,3 @@ Newport, Rhode Island, which is 36 miles from Seekonk, MA, is a haven
 for great beaches. Easton's Beach, also known as First Beach, features
 great views of the Cliff Walk, a 3.5 mile National Recreation Trail,
 while Second Beach is a very popular with surfers.
-
-*Part or or all of this text stems from the original article at: www.ramadaprovidence.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 01:13

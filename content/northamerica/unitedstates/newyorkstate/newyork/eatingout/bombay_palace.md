@@ -14,8 +14,6 @@ The Bhel Puri as a starter is stunning (a vegetarian dish consisting of rice and
 
 **Contributors**
 February 02, 2005
-new
-by [tomt314159](/member/tomt314159)
 
 type: Indian and Pakistani
 
@@ -26,5 +24,3 @@ type: Indian and Pakistani
 address: 30 W 52nd St (btwn 5th & 6th)
 
 tel: 212-541-7777
-
-[back to Eating Out](..)

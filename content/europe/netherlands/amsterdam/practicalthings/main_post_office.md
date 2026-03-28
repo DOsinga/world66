@@ -3,8 +3,6 @@ title: "Main post office"
 type: poi
 address: "Singel 250"
 type: "Post office"
-latitude: 52.373126
-longitude: 4.888289
 ---
 
 The main post office is at the Singel 250, on the corner with
@@ -25,8 +23,6 @@ You'll need your passport to pick up mail.
 
 **Contributors**
 February 02, 2006
-new
-by [hpharmsen](/member/hpharmsen)
 
 type: Post office
 
@@ -35,5 +31,3 @@ type: Post office
 
 
 address: Singel 250
-
-[back to Practical Information](..)

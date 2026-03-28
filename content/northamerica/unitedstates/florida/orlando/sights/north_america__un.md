@@ -24,7 +24,3 @@ On your way into the SeaWorld the security procedure is thorough. Your bag is li
 The park is open from 9 a.m. to 9 or 10 p.m. every day of the year. Their website provides meticulously detailed information on accessibility, height requirements and other regulations regarding, among other things, strollers.
 
 type: Parks, Gardens and Zoos
-
-
-
-[back to Sights](..)

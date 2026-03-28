@@ -5,8 +5,6 @@ accessibility: "near the city of Hunedoara, 18 km/9 miles south of Deva."
 address: "Romania"
 opening_hours: "daily from 9:00 AM to 5:00 PM."
 type: "Castles"
-latitude: 45.985213
-longitude: 24.685923
 ---
 
 ***
@@ -40,8 +38,6 @@ Council Hall, Chapel, and
 
 **Contributors**
 November 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Castles
 
@@ -54,5 +50,3 @@ accessibility: near the city of Hunedoara, 18 km/9 miles south of Deva.
 openingHours: daily from 9:00 AM to 5:00 PM.
 
 address: Romania
-
-[back to Sights](..)

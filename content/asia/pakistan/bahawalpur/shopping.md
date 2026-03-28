@@ -24,3 +24,5 @@ This building has probably everything that a person needs. The building has six 
 **Local Bazaars of Bahawalpur**
 
 Probably these are the most interesting places to shop and they are all around the city in the small alleys. The local goods from the desert can be found here--also clothes, jewelry and tech goods. Just beware of pickpockets.
+
+Rocks garment cantonment markrt model town a bahawalpur 0333-636-5245

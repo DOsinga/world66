@@ -1,0 +1,4 @@
+---
+title: "Fuengirola"
+type: location
+---

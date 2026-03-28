@@ -1,6 +1,6 @@
 ---
 title: "The V Theater inside the Miracle Mile Shops at Planet Hollywood"
-type: location
+type: poi
 address: "3663 Las Vegas Blvd South, suite 360. Las Vegas NV 89109"
 closing_time: "1:00am"
 email: "boxoffice@varietytheater.com"
@@ -75,5 +75,3 @@ url: [www.varietytheater.com](http://www.varietytheater.com)
 address: 3663 Las Vegas Blvd South, suite 360. Las Vegas NV 89109
 
 email: boxoffice@varietytheater.com
-
-[back to Nightlife and Entertainment](..)

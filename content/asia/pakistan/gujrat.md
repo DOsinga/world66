@@ -1,0 +1,4 @@
+---
+title: "Gujrat"
+type: location
+---

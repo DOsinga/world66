@@ -1,8 +1,6 @@
 ---
 title: "Naantali"
 type: location
-latitude: 60.468869
-longitude: 22.029115
 ---
 
 We currently have no information about Naantali.

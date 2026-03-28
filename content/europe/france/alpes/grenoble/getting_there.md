@@ -8,8 +8,6 @@ Here are some information on how to get to Grenoble.
 
 **Contributors**
 February 08, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### [By Train](/europe/france/alpes/grenoble/getting_there/by_train)
 
@@ -40,17 +38,10 @@ type: By Air
 
 
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -52,19 +52,4 @@ Roman and prehistoric.
 
 The village is perched 500 feet above,
 and is the beloved Castle Drachenhausen from the children's classic
-"Otto of the Silver Hand". Dating back to the 11th Century, this
-beautiful castle was built by the leading family of Tarasp. In the
-early 1800's, Napoleon gave Tarasp to the canton Graubunden, the Swiss
-Federation. You must take a tour to see the interior walls of the
-castle, which range from the Romanesque chapel to the modern reception
-rooms. Special midnight tours are available during a full moon.
-
-**5. ****St. Moritz Bad **
-
-Here the local mineral springs have been
-known for more than 3000 years, and have been praised for their
-richness of iron and carbonic acid. Massages and other treatments are
-available here in individual cabins, and Peat baths need a doctor's
-prescription. Mineral baths are offered anytime, and highly
-recommended. St. Moritz Bad is the perfect spot for relaxation after a
-hard day on the slopes.
+"Otto of the Silver Hand". Dating

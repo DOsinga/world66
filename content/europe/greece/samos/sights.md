@@ -7,8 +7,6 @@ opening_hours: "0900-20.00"
 phone: "00302273061194"
 type: "Hotspots"
 url: "www.aegeanscuba.gr"
-latitude: 37.690575
-longitude: 26.955138
 ---
 
 Aegean scuba

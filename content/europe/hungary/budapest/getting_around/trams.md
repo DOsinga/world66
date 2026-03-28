@@ -10,5 +10,3 @@ tram's magnetic field can sometimes de-magnetise computer disks.
 
 **Contributors**
 July 12, 2005
-new
-by [giorgio](/member/giorgio)

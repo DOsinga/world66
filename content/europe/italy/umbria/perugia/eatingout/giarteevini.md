@@ -8,5 +8,3 @@ Good value restaurant with delicious menues and fine wines, closed: Sunday eveni
 address: Via R. d'Andreotto 19
 
 tel: +39 (0)75 - 5731100
-
--->

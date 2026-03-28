@@ -47,5 +47,3 @@ url: [egyptlastminute.com](http://egyptlastminute.com/)
 address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
 
 email: info@egyptlastminute.com
-
-[back to Sights](..)

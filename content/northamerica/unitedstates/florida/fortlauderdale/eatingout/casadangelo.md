@@ -12,5 +12,3 @@ type: Italian
 
 
 address: 1201 N. Federal Hwy
-
-[back to Eating Out](..)

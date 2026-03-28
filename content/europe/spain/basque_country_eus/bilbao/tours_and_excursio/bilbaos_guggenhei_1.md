@@ -5,8 +5,6 @@ address: "Bilbao"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 43.263002
-longitude: -2.935004
 ---
 
 Enjoy an intensive visit of the World Famous Guggenheim Museum with an expert Art Guide… 
@@ -24,5 +22,3 @@ address: Bilbao
 tel: +34 986 22 13 99
 
 email: tours@euroadventures.net
-
-[back to Tours and Excursions](..)

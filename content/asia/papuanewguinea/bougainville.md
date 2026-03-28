@@ -1,0 +1,4 @@
+---
+title: "Bougainville"
+type: location
+---

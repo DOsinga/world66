@@ -3,8 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-## Subsections
+We currently have no Getting There listed in Antwerp.
 
-[By Air](/europe/belgium/antwerp/gettingthere/byair)
-
-[By Rail](/europe/belgium/antwerp/gettingthere/byrail)
+If you do know any Getting There in Antwerp, please [Add].

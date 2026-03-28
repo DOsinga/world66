@@ -10,8 +10,3 @@ The main town in the Palouse is Pullman (home to Washington State University) wh
 Also, near by, is Walla Walla, an up and coming Napa'esque winery city. Home to the quaint and picturesque Whitman College
 
 Tons of photos of this region can be found here. http://suletzki.com/Palouseweb/default.asp
-
-*Change history*
-Minor corrections by [wiseleyb](/member/wiseleyb) on 21 October 04
-
--->

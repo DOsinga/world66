@@ -1,0 +1,4 @@
+---
+title: "Saipan"
+type: location
+---

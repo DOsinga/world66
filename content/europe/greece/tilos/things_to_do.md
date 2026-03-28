@@ -13,9 +13,4 @@ Whether you enjoy the quiet charm of a traditional Tilian village that will soot
 
 **Konstantinos Mentzelopoulos**
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 20 October 04
-
-Minor corrections by [Skipper](/member/skipper) on 20 October 04
-
--->
+Minor corrections on 20 October 04

@@ -14,9 +14,3 @@ there is an airport on nearly every major island) or connect flights
 around Greece.
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

@@ -22,5 +22,3 @@ tel: 48654416
 url: [www.ameri-k.com.ar](http://www.ameri-k.com.ar)
 
 address: Gascon 1040, Buenos Aires, Cap. Federal, Argentina
-
-[back to Nightlife and Entertainment](..)

@@ -27,5 +27,3 @@ Pick up time 05.00
 
 
 email: united_travelservice@yahoo.com
-
-[back to Day Trips](..)

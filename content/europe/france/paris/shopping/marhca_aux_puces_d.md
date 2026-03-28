@@ -13,8 +13,6 @@ The Flea market at Vanves keeps its original charm and originality. A veritable 
 
 **Contributors**
 July 22, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Shopping centers and malls
 
@@ -31,5 +29,3 @@ url: [www.pucesdevanves.typepad.com](http://www.pucesdevanves.typepad.com)
 address: av g Marc Sangnier 75014
 
 email: pucesdevanves@free.fr
-
-[back to Shopping](..)

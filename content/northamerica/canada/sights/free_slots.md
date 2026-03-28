@@ -8,13 +8,9 @@ opening_hours: "Frank"
 phone: "Frank"
 type: "1"
 url: "phpicalendar.net"
-latitude: 38.545615
-longitude: -79.806762
 ---
 
 Nice site!
-
-*Part or or all of this text stems from the original article at: Frank*
 
 type: 1
 
@@ -33,5 +29,3 @@ url: [phpicalendar.net](http://phpicalendar.net/documentation/images/archive/c/c
 address: Frank
 
 email: ben@pochta.net
-
-[back to Sights](..)

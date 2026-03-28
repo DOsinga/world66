@@ -10,8 +10,6 @@ url: "www.getcheapautocoverage.com"
 
 Stellar work there everyone. I'll keep on reading.
 
-*Part or or all of this text stems from the original article at: XkTzuaYX*
-
 type: Surfing
 
 
@@ -23,5 +21,3 @@ tel: liVy7jSNbt6
 url: [www.getcheapautocoverage.com](http://www.getcheapautocoverage.com)
 
 email: lpenney@alltech-tsi.org
-
-[back to Things to do](..)

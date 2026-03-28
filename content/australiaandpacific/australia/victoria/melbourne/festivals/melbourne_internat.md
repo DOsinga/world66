@@ -15,8 +15,6 @@ super specials for backpackers and students!
 
 **Contributors**
 September 10, 2005
-new
-by [zan5hin](/member/zan5hin)
 
 
 
@@ -25,5 +23,3 @@ by [zan5hin](/member/zan5hin)
 url: [www.melbournefestival.com.au](http://www.melbournefestival.com.au)
 
 date: 6th - 22nd October 2005 12th-28th October 2006
-
-[back to Festivals](..)

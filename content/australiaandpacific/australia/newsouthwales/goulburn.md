@@ -1,0 +1,4 @@
+---
+title: "Goulburn"
+type: location
+---

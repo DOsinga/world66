@@ -1,9 +1,9 @@
 ---
-title: "Ambo Travel Guide"
+title: "Ambo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Ambo (also known as Hagere Hiwot) is a spa town and separate woreda in central Ethiopia. Located in the Mirab (West) Shewa Zone of the Oromia Region, west of Addis Ababa, this town has a latitude and longitude of 8°59′N 37°51′E and an elevation of 2101 meters.
 Ambo is known for its mineral water, which is bottled outside of town; it is reportedly the most popular brand in Ethiopia. Nearby attractions include Mount Wenchi to the south with its crater lake, and the Guder and Huluka Falls. Ambo is also the location of a research station of the Ethiopian Institute of Agricultural Research; initiated in 1977, this station hosts research in protecting major crops in Ethiopia. The town's market day is Saturday.
@@ -16,9 +16,3 @@ Upon learning in 1994 that a local group of Amhara had formed a group called Gal
 
 source :
 http://en.wikipedia.org/wiki/Ambo,_Ethiopia
-
-*Part or or all of this text stems from the original article at: https://www.google.com/search?q=ambo+ethiopia+hotel&tbm=isch&tbo=u&source=univ&sa=X&ei=tifMUo6sBMXLrQHR7YCYAg&ved=0CEAQsAQ&biw=1024&bih=508#facrc=_&imgdii=xsrwSGrsK5J2_M%3A%3BgJ36T6ZuRleb6M%3BxsrwSGrsK5J2_M%3A&imgrc=xsrwSGrsK5J2_M%3A%3BhGkZ7yAuQHn80M%3Bhttp%253A%252F%252Frbesseling.com%252Fwp-content%252Fuploads%252F2012%252F03%252FMG_8596.jpg%3Bhttp%253A%252F%252Frbesseling.com%252F%253Ftag%253Dambo*
-
-Page last generated on Sat 13:15
-
--->

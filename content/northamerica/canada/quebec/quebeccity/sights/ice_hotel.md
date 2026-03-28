@@ -14,17 +14,7 @@ Imagine everything is ice!! Glasses, chairs, walls, ...beds!!! Of course they gi
 
 **Contributors**
 January 18, 2007
-change
-by [katquebec33](/member/katquebec33)
 
 January 19, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

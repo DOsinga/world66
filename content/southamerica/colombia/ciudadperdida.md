@@ -1,8 +1,6 @@
 ---
 title: "Ciudad Perdida"
 type: location
-latitude: 11.037855
-longitude: -73.925775
 ---
 
 Tayrona National Park is just east of the old town of [Santa marta](/southamerica/colombia/santamarta) and can be visited form there. The park has great beaches, is wonderful for bird enthusiasts and has one of the most unexpected treasures of Colombia: the Ciudad Perdida, the Machu Picchu of the Tayrona people. 

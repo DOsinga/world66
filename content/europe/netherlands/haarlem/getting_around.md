@@ -17,9 +17,5 @@ The town is built really compacted so you will most likely be able to walk to wh
 
 **Contributors**
 March 26, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 22, 2010
-change
-by [turkeyfish](/member/turkeyfish)

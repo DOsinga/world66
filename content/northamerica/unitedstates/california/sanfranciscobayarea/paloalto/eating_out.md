@@ -10,8 +10,6 @@ University Avenue, running from Stanford University to 101, offers a large varie
 
 **Contributors**
 June 23, 2006
-change
-by [team sugar ray](/member/team_sugar_ray) (1 point)
 
 ### [Peninsula Creamery](/northamerica/unitedstates/california/sanfranciscobayarea/paloalto/eating_out/peninsula_creamery)
 

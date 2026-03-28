@@ -1,0 +1,4 @@
+---
+title: "Kota"
+type: location
+---

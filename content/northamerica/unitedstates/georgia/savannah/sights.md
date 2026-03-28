@@ -10,5 +10,3 @@ type: section
 [Museums](/northamerica/unitedstates/georgia/savannah/sights?subsection=Museums)
 
 [Squares](/northamerica/unitedstates/georgia/savannah/sights?subsection=Squares)
-
--->

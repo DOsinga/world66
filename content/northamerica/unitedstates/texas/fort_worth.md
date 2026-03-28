@@ -1,9 +1,9 @@
 ---
-title: "Fort Worth Travel Guide"
+title: "Fort Worth"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The most western portion of the DFW Metroplex and historical part of the Chisolm trail, Fort Worth is known by diverse names such as Cowtown and Panther City...when the town was considered a sleepy cowtown between cattle drives, legend has it a panther was seen sleeping in the road in the middle of town!. It also has the distinction of being "Where the West Begins"!
 
@@ -29,14 +29,5 @@ If you're ready to spend a day at Six Flags Over Texas, head over to Arlington, 
 
 There's alot to see and experience in Fort Worth. I know you will have a great time!
 
-#### Contributors
-
-July 18, 2006 change by [cindy b.](/member/cindy_b.) (4 points)
-
 More information on
 *Fort Worth Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 07:50

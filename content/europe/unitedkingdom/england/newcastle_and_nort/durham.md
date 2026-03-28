@@ -24,7 +24,4 @@ miss the cathedral on the skyline!) or, if you using a shuttle
 bus (No 40) that goes direct from the station to Palace Green where the
 cathedral and castle are located.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 20 August 04
-
-Minor corrections by [hudson](/member/hudson) on 13 March 05
+Minor corrections on 13 March 05

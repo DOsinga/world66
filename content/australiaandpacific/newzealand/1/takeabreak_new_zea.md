@@ -9,5 +9,3 @@ Takeabreak in New Zealand. Find New Zealand accommodation and attractions or loo
 
 
 url: [www.takeabreak.co.nz](http://www.takeabreak.co.nz)
-
-[back to 1](..)

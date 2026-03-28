@@ -8,13 +8,5 @@ Made famous by rappers Dr. Dre, MC Ren, and Eazy-E of NWA, Compton (located in S
 
 **Contributors**
 March 12, 2007
-new
-by [dchung](/member/dchung) (2 points)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

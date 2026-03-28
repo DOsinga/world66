@@ -29,13 +29,4 @@ There are a range of other islands which can be visited on a Mykonos
 day trip. Paros is forty minutes by Ferry, and is worth visiting purely
 for its rock beach, known as Kolimbithres. Visitors who want to combine
 a sense of history with fantastic beaches and good food might choose
-Sifnos: the village of Kastro has towers dating back to the 6th century BC, and there are beaches and olive groves by the handful.
-
-Tinos is another island not far from Mykonos. It is known for its
-750 churches, some of which still draw visitors, such as the Church of
-Pangia, which is well-known for its icon of the Virgin Mary, believed
-to perform miracles, and Naxos is another island with beautiful
-historic architecture, plus a center which has the ubiquitous olive
-groves, plus mountain villages and attractive valleys. The last island
-is around 1 and a quarter hours away by ferry from Mykonos, but is well
-worth going for a visit.
+Sifnos: the village of Kastro has towers dating

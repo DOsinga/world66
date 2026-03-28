@@ -7,5 +7,3 @@ Porto Alegre is an city with lots and lots of interesting places to visit, like 
 
 **Contributors**
 July 12, 2006
-new
-by [klughs](/member/klughs) (1 point)

@@ -1,7 +1,9 @@
 ---
-title: "Steccato Travel Guide"
+title: "Steccato"
 type: location
 ---
+
+Travel Guide
 
 The town of Steccato lies in the Crotone province of Calabria in Southern Italy. Steccato is a
 small town typical of the Calabrian region of Italy and located on the coast of the Ionian sea in the Capo
@@ -30,9 +32,5 @@ When travelling from the United Kinddom Ryanair run cheap flights from Stanstead
 a week. For visitors from within Italy the town is also accessible by the SS106 Roadway that connects the town to
 both Crotone and Cantanzaro.
 
-*Part or or all of this text stems from the original article at: www.italianvacations4U.com*
-
 **Contributors**
 January 24, 2007
-new
-by [kevin_parkings@hotmail.com](/member/kevin_parkings@hotmail.com) (2 points)

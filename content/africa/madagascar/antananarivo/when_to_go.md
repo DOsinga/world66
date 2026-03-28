@@ -21,9 +21,5 @@ On the other hand, tourists who are looking to travel off the beaten track shoul
 
 **Contributors**
 March 18, 2010
-new
-by [joekabuya](/member/joekabuya)
 
 April 07, 2010
-change
-by [imran_m](/member/imran_m)

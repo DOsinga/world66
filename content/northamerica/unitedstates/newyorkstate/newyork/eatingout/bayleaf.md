@@ -17,5 +17,3 @@ type: Indian
 address: 49 W. 56th St.
 
 tel: (212) 957-1818
-
-[back to Eating Out](..)

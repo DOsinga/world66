@@ -9,10 +9,10 @@ Here you'll find Lenin's Mausoleum and St Basil's Cathedral, the famous GUM depa
 
  **The Kremlin** is Moscow's heart, symbolically, historically and strategically: **Red Square** lies along its eastern side and the Moscow River is to the south. From here, Moscow spreads out in four distinctive rings of development, each area having its own collection of monasteries, museums and elegant buildings. Most of the city's sights are within the first circle - an area that can easily be covered on foot.   
 
-## Subsections
+## Categories
 
-[Churches and Cathedrals](/europe/russia/moscow/sights/churchesandcathedrals)
+[The Kremlin](/europe/russia/moscow/sights?subsection=The%20Kremlin)
 
-[Museums](/europe/russia/moscow/sights/museums)
+[Churches and Cathedrals](/europe/russia/moscow/sights?subsection=Churches%20and%20Cathedrals%20)
 
-[The Kremlin](/europe/russia/moscow/sights/thekremlin)
+[Museums](/europe/russia/moscow/sights?subsection=Museums)

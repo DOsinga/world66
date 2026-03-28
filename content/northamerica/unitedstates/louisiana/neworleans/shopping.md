@@ -10,8 +10,6 @@ New Orleans is one of the most unique cities in the world and the shopping scene
 
 **Contributors**
 June 07, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Canal Place](/northamerica/unitedstates/louisiana/neworleans/shopping/canal_place)
 

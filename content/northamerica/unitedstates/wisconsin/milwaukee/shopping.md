@@ -7,5 +7,3 @@ If you are in the mood to do some Milwaukee shopping, check out The Shops of Gra
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

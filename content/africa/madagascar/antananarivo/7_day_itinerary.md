@@ -64,5 +64,3 @@ time to buy souvenirs and eat some authentic local food.
 
 **Contributors**
 March 21, 2010
-new
-by [benf](/member/benf)

@@ -53,9 +53,5 @@ You also need to be aware that smoking in public places is not allowed including
 
 **Contributors**
 January 23, 2010
-new
-by [kwalker](/member/kwalker)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

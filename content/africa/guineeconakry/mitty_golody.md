@@ -1,12 +1,8 @@
 ---
-title: "MITTY GOLODY Travel Guide"
+title: "MITTY GOLODY"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 this is the number one
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 05:23

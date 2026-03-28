@@ -1,8 +1,6 @@
 ---
 title: "Dinant"
 type: location
-latitude: 50.259181
-longitude: 4.913059
 ---
 
 Dinant is a very cute town in the Belgian Ardennes. It has an impressive citadel and is a great base for explroring the region which is an outdoor paradise. 

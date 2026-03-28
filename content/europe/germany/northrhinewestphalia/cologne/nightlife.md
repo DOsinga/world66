@@ -11,10 +11,4 @@ Cologne's nightspots are concentrated in four distinct quarters. Most obvious of
 
  Rudolphplatz theatre ticket box office, Tel. 23 83 57
 
- Köln Ticket, Roncalliplatz, Tel. 28 01 
-
-## Subsections
-
-[Bars & Pubs](/europe/germany/northrhinewestphalia/cologne/nightlife/barspubs)
-
-[Discos](/europe/germany/northrhinewestphalia/cologne/nightlife/discos)
+ Köln Ticket, Roncalliplatz, Tel. 28 01

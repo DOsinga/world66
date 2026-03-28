@@ -1,8 +1,6 @@
 ---
 title: "Westport"
 type: location
-latitude: 53.800064
-longitude: -9.520218
 ---
 
 Westport in Mayo country is an excellent place to start exploring this exciting part of Ireland. 

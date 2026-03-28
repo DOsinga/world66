@@ -20,5 +20,3 @@ tel: +35 21 397 90 95
 address: Passeio Marítima da Alcântara, Armazém 2
 
 open: Tue-Sun 11am-2pm, 3-8pm Tue-Sun.
-
-[back to Sights](..)

@@ -19,5 +19,3 @@ Festa Junina derives its name from the month of June and is celebrated during th
 
 **Contributors**
 December 24, 2009
-new
-by [jenna storm](/member/jenna_storm)

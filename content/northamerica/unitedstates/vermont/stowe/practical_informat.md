@@ -8,5 +8,3 @@ They also have a public restroom.
 
 **Contributors**
 February 28, 2006
-new
-by [joyr](/member/joyr)

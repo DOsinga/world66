@@ -4,8 +4,6 @@ type: location
 address: "Kilnsea Rd Kilnsea"
 phone: "01964 650276"
 type: "general"
-latitude: 53.778259
-longitude: -1.705906
 ---
 
 ### [Crown & Anchor](/europe/unitedkingdom/england/leeds_sheffield_a/hull/barspubs/crownanchor)

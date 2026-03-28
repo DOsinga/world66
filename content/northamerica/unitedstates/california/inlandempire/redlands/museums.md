@@ -8,8 +8,6 @@ Museums, shrines, and points of historical interest in the area of Redlands
 
 **Contributors**
 December 05, 2005
-change
-by [handyman321](/member/handyman321)
 
 ### [Morey Mansion](/northamerica/unitedstates/california/inlandempire/redlands/museums/morey_mansion)
 

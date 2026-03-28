@@ -54,9 +54,5 @@ restaurant for lunch and view the mountains from a zipline tour.
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 January 08, 2010
-new
-by [huttongreen](/member/huttongreen)

@@ -12,5 +12,3 @@ type: section
 address: Simeon St 24
 
 openinghours: +359 564 21 69
-
--->

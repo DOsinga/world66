@@ -14,5 +14,3 @@ A vibrant book that illuminates the quirks and mysteries of everyday life in Spa
 author: Valerie Collins & Theresa O'Shea
 
 isbn: 9788489954595
-
-[back to Books](..)

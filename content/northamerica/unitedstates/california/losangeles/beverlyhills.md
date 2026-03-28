@@ -10,6 +10,3 @@ Above Santa Monica Blvd are where the mansions start. Buy a star map to catch so
 In the mid-Wilshire area are the Los Angeles County Museum of Art and the well known George C. Page Museum of La Brea Discoveries and the La Brea Tar Pits.
 
 Got your sights set on the stars? Beverly Hills and nearby West [Hollywood](/northamerica/unitedstates/california/losangeles/hollywood) are studded with celebrity-owned and frequented cafés, clubs, and restaurants. The stars might just come out at night.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 18 March 04

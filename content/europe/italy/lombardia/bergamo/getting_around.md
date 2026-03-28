@@ -8,8 +8,6 @@ Bergamo is well served in all respects by buses and taxis. And there are two fun
 
 **Contributors**
 May 30, 2005
-change
-by [karenbru](/member/karenbru)
 
 ### Bus from Bergamo Centre to Malpensa Airport
 

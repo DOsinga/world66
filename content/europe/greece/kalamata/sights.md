@@ -46,7 +46,4 @@ but the views across the town and out to sea are outstanding.
 
 Drag yourself off the beach lounger and into Kalamata town centre to
 see the remains of a 13th century church, as well as the impressive
-Ayii Apostili - a church that also dates back to the 13th century. The
-fruit and vegetable market held in the town center is a riot of color
-and exotic smells, and the produce on sale tastes every bit as good as
-it looks.
+Ayii Apostili - a church that also dates

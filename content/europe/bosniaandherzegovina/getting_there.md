@@ -7,5 +7,3 @@ Want to visit Bosnia & Herzegovina?! No problem! If you prefer traveling by airp
 
 **Contributors**
 January 23, 2006
-change
-by [giorgio](/member/giorgio)

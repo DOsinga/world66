@@ -1,0 +1,4 @@
+---
+title: "Ashburton"
+type: location
+---

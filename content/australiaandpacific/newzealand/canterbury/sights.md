@@ -9,9 +9,5 @@ type: section
 
 **Contributors**
 February 10, 2007
-new
-by [lpx](/member/lpx) (1 point)
 
 February 13, 2007
-change
-by [giorgio](/member/giorgio)

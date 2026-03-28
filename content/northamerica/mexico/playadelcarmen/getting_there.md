@@ -25,5 +25,3 @@ Highway 307 goes through Playa del Carmen. No matter what city you are coming fr
 
 **Contributors**
 April 05, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

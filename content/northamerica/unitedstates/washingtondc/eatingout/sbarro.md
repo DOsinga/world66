@@ -15,5 +15,3 @@ type: Italian
 address: 1300 Penn Ave
 
 tel: (202)371-6588
-
-[back to Eating Out](..)

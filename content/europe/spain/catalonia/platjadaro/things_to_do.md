@@ -81,9 +81,5 @@ part in a catamaran cruise.
 
 **Contributors**
 February 12, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 11, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)

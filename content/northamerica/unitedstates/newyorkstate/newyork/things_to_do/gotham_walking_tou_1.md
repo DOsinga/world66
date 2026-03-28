@@ -23,5 +23,3 @@ url: [www.walkingnyctours.com](http://www.walkingnyctours.com)
 address: 400 Chambers Street, Suite 8E, NY, NY 10282
 
 email: lina@walkingnyctours.com
-
-[back to Things to do](..)

@@ -42,5 +42,3 @@ Buses and marshrutka operate 07:00-20:00, charge 10 qapick, and go to many diffe
 
 **Contributors**
 December 05, 2006
-new
-by [cupcakecommander](/member/cupcakecommander) (4 points)

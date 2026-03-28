@@ -9,8 +9,6 @@ Carson City is a wonderful place to visit. But how do you get there?
 
 **Contributors**
 June 13, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 ### [The Car
 

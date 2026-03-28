@@ -9,9 +9,4 @@ Its Cathedral Close is as beautiful as any in England and the cathedral itself, 
 
 Although not coastal, Exeter was able to enjoy its share of international trade for many years through its Ship Canal, a 16th century structure far predating the 'Canal Age' in England. The story is well told on http://www.canals.btinternet.co.uk/canals/exetercanal.htm
 
-For more on the quayside buildings [including the old Custom House,] the underground passages dating back to Roman times and other attractions, see www.**exeter**views.co.uk/
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 29 September 04
-
--->
+For more on the quayside buildings [including the old Custom House,] the underground passages dating

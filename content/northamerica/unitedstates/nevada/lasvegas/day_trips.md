@@ -11,8 +11,6 @@ There’s much more to Las Vegas than the Strip. The state of Nevada is home to 
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Hoover Dam & Lake Mead](/northamerica/unitedstates/nevada/lasvegas/day_trips/hoover_dam__lake)
 

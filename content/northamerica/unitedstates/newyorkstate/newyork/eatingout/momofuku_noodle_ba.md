@@ -13,8 +13,6 @@ Fri & Sat 12 pm to 12 am
 
 **Contributors**
 June 05, 2008
-new
-by [out of the grey](/member/out_of_the_grey) (1 point)
 
 type: Japanese
 
@@ -23,5 +21,3 @@ type: Japanese
 url: [www.momofuku.com](http://www.momofuku.com)
 
 address: 171 First Ave, NYC 10003
-
-[back to Eating Out](..)

@@ -19,8 +19,6 @@ There are some incredibly good deals offered from time to time on the Amtrak web
 
 **Contributors**
 July 28, 2005
-new
-by [jstephen](/member/jstephen) (1 point)
 
 
 
@@ -29,5 +27,3 @@ by [jstephen](/member/jstephen) (1 point)
 tel: 1-800-USA-RAIL
 
 url: [www.amtrak.com](http://www.amtrak.com)
-
-[back to Getting Around](..)

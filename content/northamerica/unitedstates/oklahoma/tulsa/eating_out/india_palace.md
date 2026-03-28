@@ -18,8 +18,6 @@ For those who don't know Indian cuisine, the lunch buffet is an excellent place 
 
 **Contributors**
 December 09, 2006
-change
-by [approaching genius](/member/approaching_genius)
 
 type: Indian and Pakistani
 
@@ -34,5 +32,3 @@ url: [www.indiapalacetulsa.com](http://www.indiapalacetulsa.com)
 address: 6963 S. Lewis
 
 PriceOfMenu: $6.95 lunch buffet; Dinner entrees from $9.95 to $12.50.
-
-[back to Eating Out](..)

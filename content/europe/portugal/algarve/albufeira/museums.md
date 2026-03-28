@@ -27,14 +27,4 @@ Here's a quick guide to some of the museums you'll find in Albufeira.**
 
 **Museum of Archeology**
 
-A must see in Albufeira is the Museum of Archeology. Here you'll discover the history of this Algarve locality. Each room will show you the different stages in history. In the interior of the museum you'll find rooms with pre-historic, Roman, Muslim, medieval and modern age artifacts. There are archeological remains found in the Roman city of Morgado de Lameira. The history of Albufeira dates back to Pre-Islamic times. It was a typical walled city that was presided over by a castle on the highest part of the mountain. In the 13th century, Alfonso III conquered this town, and Albufeira was annexed to the Kingdom of Portugal. Today you can still see traces of this period in city's narrow streets, the aroma of jazmin, cobblestone roads and its castle and city walls.**
-**
-
-**Albufeira Archeological Museum**
-
-If you want to do a cultural route of the different periods of Albufeira's history, you can visit the Albufeira Archeological Museum where you can see objects of interest dating back to prehistoric times, to the Romans, Arabs and modern times. You will also find testimony to the past in the historic district of this municipality, as well as in the outskirts of town. Such proof lies in the castle, the Sineira Tower, the Misericordia Chapel, the Santa Ana Tower, the Sanctuary of Nuestra Señora de la Orada, the Paderne Castle and the Hermitry of Nuestra Señora de la Cruz. Distance between Albufeira and Algeciras is 168 miles or 270.31 km.
-
-**Contributors**
-January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
+A must see in Albufeira is the Museum of Archeology. Here you'll discover the history of this Algarve locality. Each room will show you the different stages in history. In the interior of the museum you'll find rooms with pre-historic, Roman, Muslim, medieval and modern age artifacts. There are archeological remains found in the Roman city of Morgado de Lameira. The history of Albufeira dates

@@ -17,5 +17,3 @@ type: American
 address: Zemlyanoi Val ul., 59
 
 PriceOfMenu: 50$ for two
-
-[back to Eating Out](..)

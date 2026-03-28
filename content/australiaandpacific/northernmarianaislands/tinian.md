@@ -1,0 +1,4 @@
+---
+title: "Tinian"
+type: location
+---

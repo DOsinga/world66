@@ -1,0 +1,4 @@
+---
+title: "Mayreau"
+type: location
+---

@@ -1,9 +1,9 @@
 ---
-title: "Laitse Travel Guide"
+title: "Laitse"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 *RACING WITH REAL RALLY CARS: You have an opportunity to race on Estonians biggest 2,3 km long double track with real BMW 318 or Lada 2105 / 06 rally cars.
 *TRICKY CAR DRIVING: drive with the car, that goes the opposite way.
@@ -15,9 +15,3 @@ maximum up to 30 participants).
 *REWARDING
 
 www.laitserallypark.ee
-
-*Part or or all of this text stems from the original article at: www.laitserallypark.ee*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 19:44

@@ -4,6 +4,6 @@ type: poi
 type: "general"
 ---
 
-[Montserrat](/centralamericathecaribbean/thecaribbean/montserrat) is a breathtaking 9th-century monastery in a mountain setting 35 mi/55 km north of Barcelona.
+[Montserrat](/centralamericathecaribbean/montserrat) is a breathtaking 9th-century monastery in a mountain setting 35 mi/55 km north of Barcelona.
 
 type: general

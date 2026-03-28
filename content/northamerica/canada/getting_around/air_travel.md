@@ -1,8 +1,6 @@
 ---
 title: "Air Travel"
 type: poi
-latitude: 45.32571
-longitude: -75.664959
 ---
 
 Although Toronto's Lester B. Pearson International Airport can be
@@ -28,7 +26,3 @@ are numerous regional airlines, bearing names like Air Inuit or
 Westcoast Air. And there are those famous seaplanes and bush pilots,
 which serve isolated communities as well as taking tourists to remote
 camps or on sightseeing flights.
-
-
-
-[back to Getting Around](..)

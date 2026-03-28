@@ -27,5 +27,3 @@ This bar is frequented by people of different ages, downstairs is where the youn
 
 **Contributors**
 February 14, 2010
-change
-by [shomer](/member/shomer)

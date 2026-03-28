@@ -7,8 +7,6 @@ isbn: "1853652237"
 
 **Contributors**
 October 22, 2006
-change
-by [svetico](/member/svetico)
 
 ### [Walking the Gr5: Larche to Nice (Footpaths of Europe)](/europe/france/midi/cotedazur/nice/books/walking_the_gr5_l)
 
@@ -22,17 +20,10 @@ author: French Ramblers Association
 
 isbn: 1853652237
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

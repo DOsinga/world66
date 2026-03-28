@@ -13,8 +13,6 @@ Before you go, grab a quick breakfast or "breakfast-on-the-go" from a Los Angele
 
 **Contributors**
 May 20, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Santa Monica Beach & Venice Beach](/northamerica/unitedstates/california/losangeles/day_trips/santa_monica_beach)
 

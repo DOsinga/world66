@@ -1,0 +1,4 @@
+---
+title: "Remanzacco"
+type: location
+---

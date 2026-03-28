@@ -11,7 +11,4 @@ Santiago - Madrid (round trip)
 
 Iberia has just released 5.000.000 tickets on sale on their website.
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 06 April 05
-
-Minor corrections by [EuroAdventures](/member/euroadventures) on 06 April 05
+Minor corrections on 06 April 05

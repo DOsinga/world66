@@ -17,5 +17,3 @@ type: Local Specialties
 address: Debbenroder Str. 61
 
 tel: +49 (0)511 51500300
-
-[back to Eating Out](..)

@@ -27,8 +27,6 @@ and so on...
 
 **Contributors**
 February 28, 2008
-change
-by [ncep](/member/ncep)
 
 ### [Nantes History Museum](/europe/france/normandybrittany/nantes/museums/nantes_history_mus)
 

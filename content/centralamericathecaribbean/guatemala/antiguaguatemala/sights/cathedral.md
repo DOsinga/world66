@@ -9,9 +9,3 @@ On the east side of the Plaza de Armas stood the great Catedral, inaugurated on 
   The present day church is a reconstruction of a small portion - only as far back as the first two bays- of the front of the cathedral. This reconstruction was completed in the 1820s, when the cathedral was converted into a parish church. The present façade differs only in minor ways from that shown in a 1784 sketch of the cathedral, and the lower story is very likely much as it was when first completed in 1680. The gloomy but impressive ruins of the giant nave can be entered today from the south portal, and are well worth the modest admission charge.
 
 type: Churches
-
-
-
-
-
-[back to Sights](..)

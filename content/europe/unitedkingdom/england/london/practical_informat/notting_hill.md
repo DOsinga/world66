@@ -8,13 +8,5 @@ Notting Hill is a district of London located to the west of the centre and close
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

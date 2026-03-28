@@ -14,5 +14,3 @@ The Museum is located in Thurston Gardens on Victoria Parade, a short walk from 
 
 
 url: [www.fijimuseum.org.fj](http://www.fijimuseum.org.fj)
-
-[back to Museums](..)

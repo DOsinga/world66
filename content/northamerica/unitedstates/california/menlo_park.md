@@ -1,9 +1,9 @@
 ---
-title: "Menlo Park Travel Guide"
+title: "Menlo Park"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Between 1943 and 1946 another military
 installation, Dibble General Hospital, was built on the old Timothy
@@ -24,13 +24,3 @@ Menlo Park has continued to grow in many
 ways to fit the needs of a progressive community, yet it looks
 back with pride at its past...its beginnings...and hopes to pass
 on to new generations the goals and ambitions of its pioneer families.
-
-#### Contributors
-
-January 09, 2007 new by [mehul](/member/mehul) (2 points)
-
-January 10, 2007 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 05:12

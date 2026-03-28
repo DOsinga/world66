@@ -7,5 +7,3 @@ Visitors new to Alexandria should take advantage of one of the most helpful of A
 
 **Contributors**
 May 28, 2009
-new
-by [harding](/member/harding)

@@ -8,8 +8,6 @@ Noumea offers a wide range of activities.
 
 **Contributors**
 February 28, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 ### Yachting
 

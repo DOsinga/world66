@@ -1,9 +1,9 @@
 ---
-title: "Shiprock Travel Guide"
+title: "Shiprock"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 In Navajo it's "Naat'aanii Nez", or "Tall Leader". Home to a famous annual fair and located near a mythical landmark, Shiprock is a sprawling Navajo Nation community in the four corners region. Plenty of fast food restaurants and service stations await the weary traveler, but there is no lodging, despite years of attempts by the local Navajos to get a motel project constructed. Maybe one day this will happen. Nearby Farmington has plenty of lodging for those interested in staying in the area.
 
@@ -12,11 +12,3 @@ The towering Shiprock monolith is a volcanic neck, called "Rock with wings" in t
 The yearly Shiprock Fair is usually in August. It's a big dusty confusion of midway and carnival entertainment, pow-wow dancing, rodeo action, and uniquely Navajo things like frybread contests and a Navajo beauty pageant (instead of prancing around in stiletto heels, the contestants must demonstrate "traditional" skills like butchering sheep). The fair kicks off the fall fair cycle that takes place on the Navajo Nation every year.
 
 Nearby is Four Corners where four US states intersect, Arizona, Utah, New Mexico and Colorado.
-
-#### Contributors
-
-December 02, 2006 change by [waterfalls](/member/waterfalls)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 07:16

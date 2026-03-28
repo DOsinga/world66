@@ -3,6 +3,8 @@ title: "Beaches"
 type: section
 ---
 
+The most beautiful beach in Rio you will find in Barra da Tijuca. At least that is the opinion from Maria Barbosa.
+
 **Beachs**
 
 **Copacabana**

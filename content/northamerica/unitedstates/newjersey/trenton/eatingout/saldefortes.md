@@ -15,5 +15,3 @@ type: general
 address: Corner of Roebling & Fulton Street
 
 tel: (609) 396-6856
-
-[back to Eating Out](..)

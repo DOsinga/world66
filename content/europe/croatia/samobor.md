@@ -1,8 +1,6 @@
 ---
 title: "Samobor"
 type: location
-latitude: 45.801862
-longitude: 15.70971
 ---
 
 This quaint, charming town is very picturesque and well worth your time. It is only about twenty-five minutes from the eastern end of Zagreb by car, and it is near the Slovenian border.

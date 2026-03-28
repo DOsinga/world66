@@ -1,9 +1,9 @@
 ---
-title: "Vlieland island Travel Guide"
+title: "Vlieland island"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 In several respects,
 **Vlieland is different** from other Dutch Wadden islands.
@@ -36,11 +36,3 @@ discoveries of this fascinating island all by yourself.
 
 *
 *
-
-#### Contributors
-
-March 21, 2005 change by [hollandtraveler](/member/hollandtraveler) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 12:03

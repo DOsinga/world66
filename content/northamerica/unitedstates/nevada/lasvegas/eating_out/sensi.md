@@ -11,8 +11,6 @@ Located in the Bellagio Hotel, Sensi serves up eclectic fare including Italian, 
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: International
 
@@ -23,5 +21,3 @@ tel: 866-259-7111 or 702-693-7223
 url: www.bellagio.com
 
 address: 3600 Las Vegas Boulevard South
-
-[back to Eating Out](..)

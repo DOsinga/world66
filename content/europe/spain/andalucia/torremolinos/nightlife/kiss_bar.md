@@ -6,8 +6,6 @@ closing_time: "4am"
 email: "admin@kissbar.net"
 type: "Clubs and dancing"
 url: "www.kissbar.net"
-latitude: 19.39189
-longitude: -103.705837
 ---
 
 Great atmosphere, mainly 80's music to dance to!
@@ -27,5 +25,3 @@ url: [www.kissbar.net](http://www.kissbar.net)
 address: La Nogalera
 
 email: admin@kissbar.net
-
-[back to Nightlife and Entertainment](..)

@@ -80,5 +80,3 @@ url: [www.youregypttours.com](http://www.youregypttours.com/egypt-tours/27-abu-s
 address: 112sakr korish-heliopolis-cairo-egypt
 
 email: operation@youregypttours.com
-
-[back to Day Trips](..)

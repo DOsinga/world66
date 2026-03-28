@@ -12,5 +12,3 @@ type: By Road
 
 
 url: www.zaniviaggi.it
-
-[back to Getting There](..)

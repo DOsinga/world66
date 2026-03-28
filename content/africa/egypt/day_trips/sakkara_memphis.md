@@ -23,5 +23,3 @@ url: [www.etltravel.com](http://www.etltravel.com)
 address: 56, Badr Building, Misr Helwan Road, Cairo, Egypt
 
 email: etltravel@etltravel.com
-
-[back to Day Trips](..)

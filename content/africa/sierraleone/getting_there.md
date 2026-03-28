@@ -20,6 +20,3 @@ Currently Sierra Leone can be accessed by road from Guinea (Conakry). Special pe
 Sierra Leone has the 3rd largest natural harbour in the world and is looking forward to the arrival of cruise ships. Cargo and Passenger ships berth at the Queen Elizabeth II quay, while some passenger/Cargo and private crafts can land at the Government Wharf in central Freetown, arriving most times from Conakry and Banjul. Enquiries should be made to Cargo Shipping Agencies.
 
 For more information please go to {http://www.visitsierraleone.org}
-
-*Change history*
-Orginal article by [nyabynghi](/member/nyabynghi) on 24 June 04

@@ -13,5 +13,3 @@ type: Italian
 address: 1817 Columbia Road Rd NW
 
 tel: (202)387-2580
-
-[back to Eating Out](..)

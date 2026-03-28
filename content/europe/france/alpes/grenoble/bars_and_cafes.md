@@ -47,5 +47,3 @@ At 8 Place Championnet is Jack Juliard, a cafe and tea room with a vast terrace 
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

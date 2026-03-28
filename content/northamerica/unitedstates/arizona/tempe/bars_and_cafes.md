@@ -13,5 +13,3 @@ Some Sundays they have live entertainment. Great atmosphere to relax with friend
 
 **Contributors**
 April 19, 2006
-change
-by [jetskifanatic](/member/jetskifanatic)

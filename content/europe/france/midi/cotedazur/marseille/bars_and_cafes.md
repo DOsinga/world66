@@ -63,9 +63,5 @@ taste.
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 07, 2010
-change
-by [shomer](/member/shomer)

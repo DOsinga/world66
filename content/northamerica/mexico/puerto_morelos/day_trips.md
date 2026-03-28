@@ -33,5 +33,3 @@ These world famous locations are also only a day trip and easily accessibel by b
 
 **Contributors**
 September 27, 2009
-new
-by [catbrown](/member/catbrown)

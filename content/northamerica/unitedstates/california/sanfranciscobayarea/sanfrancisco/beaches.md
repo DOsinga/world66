@@ -15,8 +15,6 @@ swimming (unless you brought your wet suit).
 
 **Contributors**
 July 14, 2005
-new
-by [jzurdogo](/member/jzurdogo) (1 point)
 
 ### [San Francisco China Beach
 

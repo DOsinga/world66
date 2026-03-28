@@ -10,5 +10,3 @@ type: section
 [Discotheques](/northamerica/unitedstates/georgia/savannah/nightlife?subsection=Discotheques)
 
 [Clubs](/northamerica/unitedstates/georgia/savannah/nightlife?subsection=Clubs)
-
--->

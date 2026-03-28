@@ -1,0 +1,4 @@
+---
+title: "Siedlce"
+type: location
+---

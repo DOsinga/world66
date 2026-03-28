@@ -86,5 +86,3 @@ fascinating cities for centuries to come.
 
 **Contributors**
 June 20, 2005
-change
-by [giorgio](/member/giorgio)

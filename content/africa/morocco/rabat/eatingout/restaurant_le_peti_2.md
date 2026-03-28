@@ -30,5 +30,3 @@ tel: 0537 68 60 89
 address: 30, Avenue Oqbah, Agdal-Rabat
 
 email: lepetitriadrabat@gmail.com
-
-[back to Eating Out](..)

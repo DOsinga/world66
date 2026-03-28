@@ -23,5 +23,3 @@ url: [www.try2cook.com](http://www.try2cook.com)
 address: Spiro 456
 
 email: teresitabb@gotraveltoargentina.com
-
-[back to Things to do](..)

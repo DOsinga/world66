@@ -23,5 +23,3 @@ Tourists start coming into the area during springtime, although the water in the
 
 **Contributors**
 October 28, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

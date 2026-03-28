@@ -1,0 +1,4 @@
+---
+title: "Cartersville"
+type: location
+---

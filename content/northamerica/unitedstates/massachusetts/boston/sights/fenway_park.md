@@ -22,7 +22,4 @@ A short walk from Kenmore Square, the lights of Fenway Park are
 visible up Brookline Avenue. Take the MBTA Green Line, 'B', 'C', and
 'D' trains to Kenmore, or the 'D' train to Fenway.
 
-**Change history**
-Orginal article by [rcolonna](/member/rcolonna) on 09 September 04
-
 type: Parks, Gardens and Zoos

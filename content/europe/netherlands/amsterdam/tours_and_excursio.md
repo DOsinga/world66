@@ -9,8 +9,6 @@ Amsterdam is a great place to explore on foot. You can do some nice walking tour
 
 **Contributors**
 February 20, 2005
-new
-by [hpharmsen](/member/hpharmsen)
 
 ### Cocktail Workshop
 

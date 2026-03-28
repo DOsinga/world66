@@ -1,8 +1,6 @@
 ---
 title: "Gorgona"
 type: location
-latitude: 3.773632
-longitude: -72.47155
 ---
 
 Gorgona is an island 27 kms off Colombia’s pacific coast where tropical rainforest meets sea. Best known for the yearly visit hunchback whales pay its shores from August to October accompanied by their newborn, the island is also a snorkeling and diving paradise, as is its amazing rainforest, isolated for thousands of years form the mainland, and the many animals and plants that inhabit it. It’s a place for anyone who can appreciate nature, likes to walk, listen to the ocean, and is willing to unplug totally from the hustle bustle of city life.
@@ -21,9 +19,4 @@ In both cases, its wise to pack your bag/backpack in plastic as it will most lik
 
 Finally, diving centers in [Cali](/southamerica/colombia/cali), [Medellin](/southamerica/colombia/medellin) and Bogotá frequently organize diving trips to the island, and this is also an option if you’re short on time and/or would rather have an experienced agent take care of the logistics. However, the island is worth the long trip every bit. And the trip itself can be very fun, off the beaten track. Buena suerte!
 
-*Change history*
-Orginal article by [sandrusca](/member/sandrusca) on 05 January 05
-
-Minor corrections by [sandrusca](/member/sandrusca) on 05 January 05
-
--->
+Minor corrections on 05 January 05

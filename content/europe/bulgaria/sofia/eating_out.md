@@ -8,8 +8,6 @@ phone: "+359889001000"
 price: "10-20 BGN"
 type: "Local"
 url: "www.restaurant.bg"
-latitude: 42.697703
-longitude: 23.321736
 ---
 
 Welcome to your best Disco & Night Club Guide for BULGARIA :

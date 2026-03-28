@@ -1,0 +1,4 @@
+---
+title: "Laurel"
+type: location
+---

@@ -7,5 +7,3 @@ type: section
 
 **Contributors**
 April 01, 2010
-new
-by [ontariobruin](/member/ontariobruin)

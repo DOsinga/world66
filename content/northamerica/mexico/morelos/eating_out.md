@@ -8,8 +8,6 @@ There is a full up to date list of restaurants on the main Puerto Morelos page o
 
 **Contributors**
 September 28, 2009
-change
-by [catbrown](/member/catbrown)
 
 ### [Visit the Puerto Morelos page](/northamerica/mexico/morelos/eating_out/the_pelican_restau)
 

@@ -14,8 +14,6 @@ but the buzz-worthy ‘scene’ is surely what will draw patrons initially. Suns
 
 **Contributors**
 February 14, 2007
-new
-by [rfujitani](/member/rfujitani) (2 points)
 
 type: American
 
@@ -28,5 +26,3 @@ tel: +1-323-654-8100
 url: [www.sunsetbeachla.com](http://www.sunsetbeachla.com)
 
 address: 8240 W. Sunset Boulevard, West Hollywood, CA, 90046
-
-[back to Eating Out](..)

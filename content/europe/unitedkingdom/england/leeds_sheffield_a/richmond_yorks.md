@@ -14,8 +14,3 @@ There is also a fascinating cobbled market square where an open market is held o
 http://www.richmond.org.uk/
 
 dspace.dial.pipex.com/town/ parade/hq69/Pages/**easby**_**abbey**.html
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 14 October 04
-
--->

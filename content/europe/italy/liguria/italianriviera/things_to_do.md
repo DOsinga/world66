@@ -55,5 +55,3 @@ includes a lunch stop over.
 
 **Contributors**
 April 17, 2010
-new
-by [beverly_per](/member/beverly_per)

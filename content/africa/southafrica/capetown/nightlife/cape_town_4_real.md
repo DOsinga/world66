@@ -23,5 +23,3 @@ url: [www.capetown4real.com](http://www.capetown4real.com)
 address: Cotton Road Simonstown, Cape Town
 
 email:
-
-[back to Nightlife and Entertainment](..)

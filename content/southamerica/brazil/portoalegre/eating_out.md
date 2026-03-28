@@ -10,8 +10,6 @@ Here are a few places to eat in Porto Alegre.
 
 **Contributors**
 July 31, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### Na Brasa
 

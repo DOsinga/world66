@@ -14,5 +14,3 @@ type: Spa and Sauna
 
 
 url: [www.ido-travel.com](http://www.ido-travel.com/hurghada-activities.html)
-
-[back to Things to do](..)

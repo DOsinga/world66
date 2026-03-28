@@ -19,5 +19,3 @@ address: Dosoduro - close to Ai Cugni
 PriceOfMenu: Sandwiches 1.50-4 euros
 
 priceofmenu: Sandwiches 1.50-4 euros
-
-[back to Eating Out](..)

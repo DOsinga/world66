@@ -1,0 +1,4 @@
+---
+title: "Miskolc"
+type: location
+---

@@ -34,5 +34,3 @@ tel: 1-877-499-TOUR
 url: [www.vallartadiscovery.com](http://www.vallartadiscovery.com)
 
 email: support@vallartadiscovery.com
-
-[back to Things to do](..)

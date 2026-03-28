@@ -1,12 +1,13 @@
 ---
 title: "Eating Out"
 type: section
+address: "Murray St 123"
+tel+: "61 8 9325 1443"
 ---
 
-## Subsections
+Perth has a lively restaurant scene with many good places.
 
-[Asian](/australiaandpacific/australia/westernaustralia/perth/eatingout/asian)
+**Display all** or display just...
 
-[Cafés](/australiaandpacific/australia/westernaustralia/perth/eatingout/cafs)
-
-[Italian](/australiaandpacific/australia/westernaustralia/perth/eatingout/italian)
+[Asian](/world/australiaandpacific/australia/westernaustralia/perth/eatingout?subsection=Asian)
+[Cafes](/world/australiaandpacific/australia/westernaustralia/perth/eatingout?subsection=Cafes)

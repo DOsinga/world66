@@ -42,5 +42,3 @@ the Rhine.
 author: Thomas Cook
 
 isbn: 184157757X
-
-[back to Books](..)

@@ -31,5 +31,3 @@ Just two hours north of Pittsburgh lies another major Pennsylvania city, Erie. H
 
 **Contributors**
 August 27, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

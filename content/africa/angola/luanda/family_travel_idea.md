@@ -39,9 +39,5 @@ Avoid venturing into the slums or going out alone at night. Keep the doors of yo
 
 **Contributors**
 February 19, 2010
-change
-by [schitti](/member/schitti)
 
 February 12, 2010
-new
-by [sarandipity](/member/sarandipity)

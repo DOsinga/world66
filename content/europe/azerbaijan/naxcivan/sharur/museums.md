@@ -9,8 +9,6 @@ Sharur Museums below.
 
 **Contributors**
 April 18, 2006
-change
-by [reen](/member/reen) (4 points)
 
 ### [Regional Museum](/europe/azerbaijan/naxcivan/sharur/museums/regional_museum)
 

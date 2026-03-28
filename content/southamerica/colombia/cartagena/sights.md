@@ -13,5 +13,3 @@ The old town of Cartagena is filled with mansions that are absolutely worth a vi
 [Mansions](/southamerica/colombia/cartagena/sights?subsection=Mansions)
 
 [Museums](/southamerica/colombia/cartagena/sights?subsection=Museums)
-
--->

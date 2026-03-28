@@ -1,8 +1,6 @@
 ---
 title: "N’djamena"
 type: location
-latitude: 12.119154
-longitude: 15.050276
 ---
 
 Fort Lamy, the old colonial name of N'djamena, was one of the most pleasant places in the Sahel. Unfortunately N'djamena has lost quite some of its interest due to civil unrest. 

@@ -7,8 +7,6 @@ There are two coastal villages near Chiclayo: Santa Rosa and Pimentel.
 
 **Contributors**
 May 10, 2006
-new
-by [joosts](/member/joosts) (2 points)
 
 ### [Santa Rosa](/southamerica/peru/chiclayo/beaches/santa_rosa)
 

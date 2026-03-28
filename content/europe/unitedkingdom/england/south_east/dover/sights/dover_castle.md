@@ -10,13 +10,5 @@ Inside the castle you can find a military museum, film center and the "live and 
 
 **Contributors**
 October 10, 2005
-new
-by [hpharmsen](/member/hpharmsen)
 
 type: Castles
-
-
-
-
-
-[back to Sights](..)

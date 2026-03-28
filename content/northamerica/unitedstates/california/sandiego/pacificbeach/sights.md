@@ -7,5 +7,3 @@ Pacific Beach and Mission Beach are in the same vicinity. The greatest tourist a
 
 **Contributors**
 November 16, 2005
-new
-by [jackyl](/member/jackyl)

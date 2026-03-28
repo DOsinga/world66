@@ -23,16 +23,4 @@ We spent the night outside watching shooting stars - the sky is so clear here yo
 
 The next day is an early start to catch the sun-rise over the dunes and then you are back on the camels and heading to the village.
 
-By the afternoon, we were back in Oaurzazat and in theory, were we in a rush, could have made it back to Marrakesh that day. We didn't; we stayed at the Kasbah Ben Morro in Skoura and slowly made our way back to Marrakesh spending the night at Ait Ben Haddou.
-
-I totally recommend adding this little trip into the Sahara if you are going to Morocco.
-
-type: By Air
-
-
-
-
-
-address: Merzouga.Southern Morocco.
-
-[back to Getting There](..)
+By the afternoon, we were back in Oaurzazat and in theory, were we in a rush, could have made it

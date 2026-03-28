@@ -1,9 +1,9 @@
 ---
-title: "Chachapoyas Travel Guide"
+title: "Chachapoyas"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The city is at 2,335 meters above sea level giving it a very
 pleasant climate. Chachapoyas was founded by Alonso De Alvarado on
@@ -13,11 +13,3 @@ warriors, who built the fortress of [Kuelap](/southamerica/peru/chachapoyas/kuel
 after many battles.
 
 The city has been overlooked by modernisation, hence it still has most of it's colonial houses. White houses built around a big patio, with a lot of wooden finishing.
-
-#### Contributors
-
-February 23, 2007 new by [joosts](/member/joosts) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 23:06

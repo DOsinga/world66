@@ -32,5 +32,3 @@ For more information, please contact the Dauphin Island Marina at 251-861-8707 o
 
 **Contributors**
 June 01, 2008
-new
-by [baxwrtr](/member/baxwrtr)

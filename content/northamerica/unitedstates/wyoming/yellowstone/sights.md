@@ -12,5 +12,3 @@ Yellowstone has many tourist attractions; here there are the most important ones
 **The Old Faithful Geyser**
 
 Famous Geyser in Yelowstone. Eruptions go a shigh as 50 meter. A real sight!
-
--->

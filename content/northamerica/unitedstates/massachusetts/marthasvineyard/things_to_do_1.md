@@ -7,5 +7,3 @@ On your way to South Beach, stop in at the Katama General Store. This quaint, li
 
 **Contributors**
 February 07, 2008
-new
-by [luvmv](/member/luvmv)

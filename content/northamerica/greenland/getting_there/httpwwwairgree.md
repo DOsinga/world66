@@ -14,8 +14,6 @@ Travel on!
 
 **Contributors**
 February 25, 2008
-change
-by [ingvar](/member/ingvar) (1 point)
 
 type: By Air
 
@@ -28,5 +26,3 @@ url: [www.airgreenland.com](http://www.airgreenland.com/USA-Greenland/)
 address: P. O. Box 1012, GL-3900 Nuuk
 
 email: info@airgreenland.gl
-
-[back to Getting There](..)

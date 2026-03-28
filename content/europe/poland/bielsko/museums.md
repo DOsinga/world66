@@ -62,5 +62,3 @@ travels around the world).
 
 **Contributors**
 January 09, 2007
-change
-by [graczyk](/member/graczyk)

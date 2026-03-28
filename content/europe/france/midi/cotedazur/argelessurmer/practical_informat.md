@@ -17,5 +17,3 @@ There is a huge choice in ways to get around while in Argeles-sur-Mer. Buses run
 
 **Contributors**
 April 07, 2010
-new
-by [beverly_per](/member/beverly_per)

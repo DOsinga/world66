@@ -26,5 +26,3 @@ address: Bergensgate 2
 PriceOfMenu: 75-200 NOK
 
 email: post @ matogmer . no
-
-[back to Eating Out](..)

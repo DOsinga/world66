@@ -9,8 +9,6 @@ Here are a few suggestions for your shopping in Portland.
 
 **Contributors**
 March 31, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 ### [Powell's Bookstore
 

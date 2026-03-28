@@ -50,5 +50,3 @@ depends on your destination and budget.
 
 **Contributors**
 April 05, 2010
-new
-by [joekabuya](/member/joekabuya)

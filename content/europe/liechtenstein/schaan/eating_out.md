@@ -8,5 +8,3 @@ cruisines like curries and other non-typical European dishes.
 
 **Contributors**
 March 01, 2006
-new
-by [giorgio](/member/giorgio)

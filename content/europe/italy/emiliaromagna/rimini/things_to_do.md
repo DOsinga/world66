@@ -33,9 +33,5 @@ Cruises are available off the coast of Rimini. You can choose between long and s
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 26, 2010
-new
-by [jenna storm](/member/jenna_storm)

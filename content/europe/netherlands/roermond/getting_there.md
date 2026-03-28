@@ -22,5 +22,3 @@ Roermond has a train station with trains that leave directly towards [Amsterdam]
 
 **Contributors**
 March 12, 2008
-new
-by [bhekoz](/member/bhekoz) (1 point)

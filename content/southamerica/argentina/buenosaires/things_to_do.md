@@ -11,8 +11,6 @@ Buenos Aires has great variety of activites for every person and taste.
 
 **Contributors**
 November 15, 2006
-new
-by [silveram](/member/silveram)
 
 ### [2Portenios](/southamerica/argentina/buenosaires/things_to_do/2_portenios)
 

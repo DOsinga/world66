@@ -15,9 +15,5 @@ There are communities of Muslims that adhere to the traditional holidays of thei
 
 **Contributors**
 December 28, 2009
-change
-by [turkeyfish](/member/turkeyfish)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

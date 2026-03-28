@@ -15,5 +15,3 @@ type: Greek Music
 address: 18 Gymn. Mikrou
 
 tel: +30 31 - 321751
-
-[back to Nightlife and Entertainment](..)

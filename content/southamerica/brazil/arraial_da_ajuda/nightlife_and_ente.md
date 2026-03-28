@@ -9,5 +9,3 @@ Carnival, New Year and Sao Joao (in June/july) attract lots of people that are c
 
 **Contributors**
 November 24, 2005
-new
-by [tull](/member/tull)

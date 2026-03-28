@@ -29,14 +29,10 @@ El Arbolito, to name a few.
 
 **Contributors**
 September 11, 2005
-change
-by [rickjacobson](/member/rickjacobson)
 
 
 
 
-
-[back to Beaches](..)
 
 ##
 
@@ -50,17 +46,10 @@ by [rickjacobson](/member/rickjacobson)
 
 [](/lib/map/handle?loc=northamerica|mexico|ixtapazihuatanejo)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

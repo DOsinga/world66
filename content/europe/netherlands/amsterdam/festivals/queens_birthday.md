@@ -4,8 +4,6 @@ type: poi
 address: "Amsterdam City Centre"
 date: "April 30th"
 url: "www.koninginnedagamsterdam.nl"
-latitude: 53.401629
-longitude: -2.977459
 ---
 
 **
@@ -18,12 +16,8 @@ Around the Rembrandt square and Leidsesquare, Museumsquare and Spui, there are b
 
 **Contributors**
 April 19, 2006
-change
-by [knibbe](/member/knibbe) (2 points)
 
 April 14, 2005
-new
-by [hugo](/member/hugo)
 
 
 
@@ -35,19 +29,10 @@ url: [www.koninginnedagamsterdam.nl](http://www.koninginnedagamsterdam.nl/index.
 
 address: Amsterdam City Centre
 
-[back to Festivals](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

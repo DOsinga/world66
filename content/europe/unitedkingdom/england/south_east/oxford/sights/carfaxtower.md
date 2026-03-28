@@ -3,8 +3,6 @@ title: "Carfax Tower"
 type: poi
 address: "Carfax"
 type: "Cathedral & Churches"
-latitude: 51.751978
-longitude: -1.257934
 ---
 
 Remnants of the city church dating from the 14th century.
@@ -17,19 +15,10 @@ type: Cathedral & Churches
 
 address: Carfax
 
-[back to Sights](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

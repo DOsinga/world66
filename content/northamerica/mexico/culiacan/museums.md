@@ -37,5 +37,3 @@ It counts on Pablo de Villavicencio Theater with a capacity for 978 persons and 
 
 **Contributors**
 February 15, 2007
-change
-by [giorgio](/member/giorgio)

@@ -1,8 +1,6 @@
 ---
 title: "Cuernavaca"
 type: location
-latitude: 18.933132
-longitude: -99.259958
 ---
 
 For $6-10 U.S., you can take a roughly 1 hr bus ride from Mexico City to Cuernavaca, the summer home of emporer Maximilian. The busses are the nicest I've ever seen, with "in-flight" movies (English with Spanish subtitles, as often as not), a stewardess, and snacks.

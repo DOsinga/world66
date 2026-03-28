@@ -1,0 +1,4 @@
+---
+title: "Poitiers"
+type: location
+---

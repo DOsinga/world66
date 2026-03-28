@@ -31,5 +31,3 @@ date: Feb 28 - March 11, 2007
 address: camera cinemas, downtown
 
 email: info@cinequest.org
-
-[back to Festivals](..)

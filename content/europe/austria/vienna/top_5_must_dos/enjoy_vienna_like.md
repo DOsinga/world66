@@ -11,5 +11,3 @@ Shop and cook, watch tv or enjoy drinks at home before and after a day around to
 
 
 url: [www.viennaflatseven.info](http://www.viennaflatseven.info)
-
-[back to Top 5 Must Do's](..)

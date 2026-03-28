@@ -72,5 +72,3 @@ travel at a higher speed limit.
 
 **Contributors**
 April 16, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

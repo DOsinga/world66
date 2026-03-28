@@ -1,9 +1,9 @@
 ---
-title: "Tavush Marz Travel Guide"
+title: "Tavush Marz"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Tavush Marz, tucked into the northeast corner of Armenia, includes the popular town of Dilijan, popularly known as "Armenia's Little Switzerland", and the popular Haghartsin and Goshavank Monasteries. Beyond that though is a great deal more to see, including the distant region of Shamshadin, which only a handful of western visitors reach each year.
 
@@ -20,11 +20,3 @@ In the forests of this area, starting at the village of Kirants is another river
 Finally, the isolated area of Shamshadin surrounds the city of Berd, with a small fortress. In the surrounding hills and forests are the worthy monasteries of Nor Varagavank, Shkhmuradi and Khoranashat.
 
 The town of Berd has a hotel that recently underwent renovation.
-
-#### Contributors
-
-November 11, 2008 new by [raffikojian](/member/raffikojian)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 05:02

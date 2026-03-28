@@ -1,18 +1,12 @@
 ---
-title: "Agaete Travel Guide"
+title: "Agaete"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Agaete is a town of 5,800 people located in the Northwest of Gran Canaria. There are ferries leaving from El Puerto de las Nieves on a daily basis heading to Tenerife. The journey takes less than an hour.
 
 Agaete is known all over the Canary Islands for its yearly festivities of La Rama, taking place early in August every year and attracting thousands of people from all over the Archipelago.
 
 La Rama is also celebrated in El Valle de Agaete in late June.
-
-*Part or or all of this text stems from the original article at: my own knowledge*
-
-Page last generated on Sat 09:04
-
--->

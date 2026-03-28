@@ -19,9 +19,5 @@ River Rafting
 
 **Contributors**
 February 11, 2010
-change
-by [christina tilicki](/member/christina_tilicki)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

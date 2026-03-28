@@ -2,8 +2,6 @@
 title: "Pantheon"
 type: poi
 type: "Churches and Cathedrals"
-latitude: 41.898616
-longitude: 12.476833
 ---
 
 Another two blocks along and on your left you'll find the Torre Argentina, a large square. In the center are remains of several Republican Temples (i.e., before Caesar Augustus, probably 2nd or 1st century before the Christian Era). Across (on your right as you were walking down Corso V. Emanuele II) you'll find via di Torre Argentina. This eventually becomes via Rotondo, which will in turn take you into Piazza Rotondo, the square in which you'll find the Pantheon.
@@ -17,9 +15,3 @@ This points out a couple of problems in reading Latin inscriptions. Even knowing
 The interior measures 43,40 meters in diameter, and the same in height. Light and air still enter through the opening at the top (a circle of 8m. 92cms in diameter). In 609 the Pantheon was the first pagan temple to be inaugurated as a Katholic church: The Sta Maria ad Martyrs, dedicated to all the martyrs killed by Roman hands.
 
 type: Churches and Cathedrals
-
-
-
-
-
-[back to Sights](..)

@@ -1,8 +1,6 @@
 ---
 title: "Pacasmayo"
 type: location
-latitude: -7.425649
-longitude: -79.43395
 ---
 
 Pacasmayo, it is on the Pacific seaboard. It is north of Lima, and is the base of triangle of the three most important cities of north Perú. It is between the cities of Trujillo and Chiclayo and on the way to Cajamarca city. It has a population of approximately thirty thousands people.

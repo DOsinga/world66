@@ -12,8 +12,6 @@ The Voodoo Museum is a must during any trip to New Orleans. On display are a lar
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Spa and Sauna
 
@@ -26,5 +24,3 @@ url: [www.voodoomuseum.com](http://www.voodoomuseum.com)
 address: 724 Dumaine Street, New Orleans LA, 70116
 
 email: info@voodoomuseum.com
-
-[back to Things to do](..)

@@ -7,5 +7,3 @@ Pleasent beach resort with a few hotels and apartments. Excellent for a quiet ho
 
 **Contributors**
 January 16, 2006
-change
-by [giorgio](/member/giorgio)

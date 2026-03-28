@@ -1,0 +1,4 @@
+---
+title: "Djenne"
+type: location
+---

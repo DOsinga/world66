@@ -19,5 +19,3 @@ There are some excellent festivals throughout the entire year, but here are a fe
 
 **Contributors**
 September 19, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

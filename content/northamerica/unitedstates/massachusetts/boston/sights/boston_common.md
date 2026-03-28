@@ -15,7 +15,5 @@ Access to the Common is easy, as is surrounded by major thoroughfares: Beacon, C
 
 **Contributors**
 October 15, 2004
-new
-by [rcolonna](/member/rcolonna)
 
 type: Parks, Gardens and Zoos

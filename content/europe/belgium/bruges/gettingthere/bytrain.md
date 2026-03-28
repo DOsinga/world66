@@ -10,13 +10,5 @@ the main Belgian cities (Gent, Kortrijk, Brussel, Antwerpen, Leuven, Hasselt, Li
 
 **Contributors**
 February 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

@@ -15,8 +15,6 @@ Scroll down for more information.
 
 **Contributors**
 May 09, 2006
-change
-by [joosts](/member/joosts) (1 point)
 
 ### [Industrias Cafenor](/southamerica/peru/san_ignacio/san_ignacio/things_to_do/industrias_cafenor)
 

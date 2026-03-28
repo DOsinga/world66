@@ -55,5 +55,3 @@ your hotel or hostel in Ciudad Juarez.
 
 **Contributors**
 April 16, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

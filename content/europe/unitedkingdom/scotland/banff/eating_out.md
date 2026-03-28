@@ -8,12 +8,8 @@ Below are some of Banff's places to eat.
 
 **Contributors**
 January 16, 2006
-change
-by [reen](/member/reen)
 
 January 24, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Hidden Corner Restuarant](/europe/unitedkingdom/scotland/banff/eating_out/hidden_corner_rest)
 

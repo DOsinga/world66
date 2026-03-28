@@ -10,6 +10,3 @@ The defending American League Central Champs, the **Cleveland Indians**, open Sp
 **Old Mother Winter** has yet to release her grasp of the Buckeye state, dropping more snow and continuing to blow chilly temperatures around like Dorothy and Toto in the Wizard of Oz. Residents in the northeast corner should expect more snow for a few more weeks, thanks to the effects of lucious Lake Erie; while the Southern portion of the state can begin to break out the gardening tools...warmer temps are on the way. 
 
 For more information about Ohio, "The Heart of It All," simply log onto Ohio.com for all the latest headlines and happenings. Be sure to drop by Ohio next time you're in the area...I promise, we won't bite! For Osinga.com, I'm Dave Sniadak.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 15 March 04

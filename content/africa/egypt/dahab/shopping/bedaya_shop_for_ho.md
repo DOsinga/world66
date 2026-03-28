@@ -18,5 +18,3 @@ tel: 069/9221021
 address: Assala market Dahab
 
 email: eldorado2472000@yahoo.com
-
-[back to Shopping](..)

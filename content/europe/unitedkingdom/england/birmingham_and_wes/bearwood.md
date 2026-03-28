@@ -1,0 +1,4 @@
+---
+title: "Bearwood"
+type: location
+---

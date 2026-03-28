@@ -1,0 +1,4 @@
+---
+title: "Neubrandenburg"
+type: location
+---

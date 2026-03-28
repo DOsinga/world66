@@ -33,13 +33,9 @@ about healing, understanding, and welcoming everyone.
 
 **Contributors**
 September 08, 2005
-new
-by [keath](/member/keath)
 
 
 
 url: [www.powertothepeaceful.org](http://www.powertothepeaceful.org/index.html)
 
 address: Speedway Meadow, Golden Gate Park
-
-[back to Special Events](..)

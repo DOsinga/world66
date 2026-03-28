@@ -11,14 +11,10 @@ During your exciting Chicago trip, you may decide that you want to take a short 
 
 **Contributors**
 June 04, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Lake Geneva](/northamerica/unitedstates/illinois/chicago/day_trips/lake_geneva)
 
-Lake Geneva has always been a favorite weekend getaway for Chicagoans, residents of Indiana, and many cities within Wisconsin's borders such as Milwaukee. At roughly 79 miles from Chicago or around 1-1/2 hour drive from Chicago, visitors from the city can spend a full day at Lake Geneva, and make it back to Chicago in time to see a Comedy show, have dinner or go out dancing. At 135 feet deep and 5,626 acres, Lake Geneva (Geneva Lake) is the second deepest lake in Wisconsin. Visitors can enjoy canoeing, kayaking, boating, swimming, fishing, and steamboat cruises as well as [more..](/northamerica/unitedstates/illinois/chicago/day_trips/lake_geneva)
-
-
+Lake Geneva has always been a favorite weekend getaway for Chicagoans, residents of Indiana, and many cities within Wisconsin's borders such as Milwaukee. At roughly 79 miles from Chicago or around 1-1/2 hour drive from Chicago, visitors from the city can spend a full day at Lake Geneva, and make it 
 
 tel: 262-248-4416
 

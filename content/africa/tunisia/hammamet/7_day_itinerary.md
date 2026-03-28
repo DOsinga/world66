@@ -35,9 +35,5 @@ This is your last day to see if you did all you wanted to. Take a final stroll t
 
 **Contributors**
 January 08, 2010
-change
-by [turkeyfish](/member/turkeyfish)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

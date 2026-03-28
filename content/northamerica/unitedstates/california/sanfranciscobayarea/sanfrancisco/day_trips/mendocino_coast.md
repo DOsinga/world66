@@ -13,8 +13,6 @@ Mendocino Coast Chamber of Commerce: 302 North Main Street, Fort Bragg CA, 95437
 
 **Contributors**
 June 07, 2008
-change
-by [mcburton](/member/mcburton)
 
 
 
@@ -27,5 +25,3 @@ url: [www.mendocinocoast.com](http://www.mendocinocoast.com)
 address: Mendocino Coast Chamber of Commerce: 302 North Main Street, Fort Bragg CA, 95437
 
 email:
-
-[back to Day Trips](..)

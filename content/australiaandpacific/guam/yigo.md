@@ -1,0 +1,4 @@
+---
+title: "Yigo"
+type: location
+---

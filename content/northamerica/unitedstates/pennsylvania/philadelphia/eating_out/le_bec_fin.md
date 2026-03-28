@@ -22,5 +22,3 @@ tel: (215) 567-1000
 url: [www.lebecfin.com](http://www.lebecfin.com)
 
 address: 1523 Walnut Street
-
-[back to Eating Out](..)

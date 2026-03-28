@@ -12,6 +12,3 @@ Dade City's queer lunch spots shouldn’t be missed. At the popular Lunch on Lim
 And after a long day of sightseeing and antique shopping, enjoy Southern hospitality at the Azalea House Bed and Breakfast, graciously restored to its 1996 splendor. At this B&B just minutes from downtown, guests can stay in one of three beautifully decorated rooms and enjoy a continental breakfast each morning.
 
 For more information about Dade City’s attractions and monthly events, go to www.dadecitychamber.org, or contact the Pasco County Tourism Office at 1-800-842-1873 or tourism@pascocountyfl.net.
-
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 26 May 05

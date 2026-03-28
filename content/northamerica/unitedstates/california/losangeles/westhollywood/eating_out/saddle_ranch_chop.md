@@ -15,8 +15,6 @@ destination along the Sunset Strip for raucous good times.
 
 **Contributors**
 February 14, 2007
-new
-by [rfujitani](/member/rfujitani) (2 points)
 
 type: American
 
@@ -29,5 +27,3 @@ tel: +1-323-656-2007
 url: [www.srrestaurants.com](http://www.srrestaurants.com/home.html)
 
 address: 8371 Sunset Boulevard, West Hollywood, CA, 90069
-
-[back to Eating Out](..)

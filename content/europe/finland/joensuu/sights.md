@@ -18,5 +18,3 @@ address: Heinäpurontie 70
 openings: Mon, Wed to Fri 10-16(-17 in Summertime), Sat to Sun 11-16, Tue closed (maintenance)
 
 tel: +358 (0)13 251 2630
-
--->

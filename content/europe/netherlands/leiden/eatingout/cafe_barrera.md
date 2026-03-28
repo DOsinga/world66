@@ -18,5 +18,3 @@ priceofmenu: 5 euro's
 url: [www.cafebarrera.nl](http://www.cafebarrera.nl/)
 
 zipcode: 2311EX
-
--->

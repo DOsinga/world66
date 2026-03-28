@@ -11,8 +11,6 @@ The International Wildlife Museum promotes the study of wildlife and wildlife ma
 
 **Contributors**
 May 06, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Parks, Gardens and Zoos
 
@@ -23,5 +21,3 @@ tel: (520) 629-0100
 url: [www.thewildlifemuseum.org](http://www.thewildlifemuseum.org)
 
 address: 4800 W Gates Pass Road Tucson, AZ 85745
-
-[back to Sights](..)

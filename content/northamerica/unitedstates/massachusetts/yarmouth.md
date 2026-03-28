@@ -1,9 +1,9 @@
 ---
-title: "Yarmouth Travel Guide"
+title: "Yarmouth"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Three villages make up the 17 square mile town of Yarmouth Cape Cod:
 West Yarmouth, Yarmouthport, and South Yarmouth. Each village has a
@@ -30,11 +30,3 @@ lion shows to the most adventurous mini-golf. Nightlife in Yarmouth is
 filled with moonlight walks on Cape Cod’s most beautiful beaches,
 candle lit dinners at the area's many restaurants, and dancing to music
 for all ages at one of several clubs.
-
-#### Contributors
-
-January 10, 2007 new by [mehul](/member/mehul) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 05:45

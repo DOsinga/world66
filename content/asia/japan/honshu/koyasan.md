@@ -1,0 +1,4 @@
+---
+title: "Koyasan"
+type: location
+---

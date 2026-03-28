@@ -11,5 +11,3 @@ The locals in Gallivare, the nearest town 200 km north est of the area use it fo
 
 **Contributors**
 July 05, 2006
-change
-by [giorgio](/member/giorgio)

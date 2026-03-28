@@ -1,0 +1,4 @@
+---
+title: "Lippstadt"
+type: location
+---

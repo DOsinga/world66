@@ -10,7 +10,3 @@ address: Rothenbaumchaussee 101
 tel: 040 - 451072
 
 zipcode: 20148 Hamburg - Rotherbaum
-
-[back to Eating Out](..)
-
--->

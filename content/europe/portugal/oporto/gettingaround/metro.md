@@ -22,4 +22,4 @@ in the Metro, STCP buses, CP trains and buses of private operators.
 You may contact Andante dialling 808200444 or at the website www.metro-porto.pt/uk/
 
 **Contributors**
-May 24, 2005 change by [pedrosacosta](/member/pedrosacosta)
+May 24, 2005

@@ -1,0 +1,4 @@
+---
+title: "Paterna"
+type: location
+---

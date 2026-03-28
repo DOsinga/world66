@@ -9,5 +9,3 @@ Hiking in the Province of Bergamo is very popular and there are many old towns t
 
 
 url: [www.vallebrembana.org](http://www.vallebrembana.org/inglese/index.html)
-
-[back to Tours and Excursions](..)

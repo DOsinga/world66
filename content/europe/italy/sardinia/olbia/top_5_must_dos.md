@@ -27,5 +27,3 @@ After a long day of exploring and traveling around, be sure to spend at least on
 
 **Contributors**
 November 18, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

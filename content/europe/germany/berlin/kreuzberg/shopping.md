@@ -102,5 +102,3 @@ Everything to satisfy your noise needs - the finest vinyl and CDs, and accessori
 address: Schönleisterstr. 31
 
 connection: U Schönleister
-
--->

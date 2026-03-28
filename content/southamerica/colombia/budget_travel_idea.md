@@ -59,9 +59,5 @@ with little personal space, use a taxi instead during rush hours.
 
 **Contributors**
 January 22, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

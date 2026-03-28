@@ -13,5 +13,3 @@ If you are driving, Interstate 95 skirts just west of Daytona Beach, with Exit 2
 
 **Contributors**
 September 29, 2004
-new
-by [gamiziuk](/member/gamiziuk)

@@ -12,8 +12,6 @@ Located next to Mother's Beach (Marina Beach), this chain favorite has something
 
 **Contributors**
 March 20, 2007
-new
-by [marinagal](/member/marinagal)
 
 type: Local
 
@@ -26,5 +24,3 @@ url: [www.thecheesecakefactory.com](http://www.thecheesecakefactory.com)
 address: 4142 Via Marina, Marina del Rey, CA 90292
 
 PriceOfMenu: Dinner entrees $8 to $27
-
-[back to Eating Out](..)

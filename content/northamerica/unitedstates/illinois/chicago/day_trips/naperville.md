@@ -11,8 +11,6 @@ Naperville has the best of both worlds. It's big enough to still have a city fee
 
 **Contributors**
 June 05, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -23,5 +21,3 @@ url: [www.visitnaperville.com](http://www.visitnaperville.com)
 address: Naperville Convention and Visitors Bureau, 212 S. Webster, Naperville IL, 60540
 
 email: ncvb@naper.org
-
-[back to Day Trips](..)

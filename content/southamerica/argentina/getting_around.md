@@ -77,5 +77,3 @@ To reserve your place for any of our programs, please contact info@espanol-andan
 
 **Contributors**
 October 18, 2007
-change
-by [espanol-andando](/member/espanol-andando)

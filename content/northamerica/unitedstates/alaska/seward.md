@@ -1,0 +1,4 @@
+---
+title: "Seward"
+type: location
+---

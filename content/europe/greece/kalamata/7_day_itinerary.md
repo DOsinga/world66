@@ -37,5 +37,3 @@ Kalamata is thus an ideal hot spot for enthusiastic vacationers who are in love 
 
 **Contributors**
 February 23, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

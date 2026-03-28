@@ -7,8 +7,6 @@ email: "see website"
 phone: "see website"
 type: "Gay and Lesbian"
 url: "www.wilsons.nl"
-latitude: 52.377177
-longitude: 4.627771
 ---
 
 The Toneelschuur offers plays and art-movies, the Philharmonie offers a stage for classical music, the Patronaat for modern music. The Stadsschouwburg (for plays also) is currently (2007) being renovated. You can choose from three mainstream cinema's (one with different theatres). There are plenty of pubs (or café's as they are called in Holland). In the summer going to Bloemendaal Beach (nearby on the coast) is one of the hottest spots to be if you're young, don't mind loud music, and a lot of almost naked 'tight bodies' around.
@@ -19,8 +17,6 @@ The Haarlem Red light district (near the Toneelschuur and the Philharmonie) is v
 
 **Contributors**
 February 21, 2007
-change
-by [macspertise](/member/macspertise) (2 points)
 
 ### [Wilson's](/europe/netherlands/haarlem/nightlife_and_ente/wilsons)
 

@@ -26,5 +26,3 @@ accessibility: Ring Bill
 address: bp13777
 
 email: zanzi67@yahoo.fr
-
-[back to Nightlife and Entertainment](..)

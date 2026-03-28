@@ -64,5 +64,3 @@ national parks, or incredible museums, Croatia will never disappoint.
 
 **Contributors**
 March 31, 2010
-change
-by [sleighto](/member/sleighto)

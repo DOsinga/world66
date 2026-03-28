@@ -1,9 +1,9 @@
 ---
-title: "Marion Travel Guide"
+title: "Marion"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 In Marion, Main Street offers bookstores, antiques,
 auctions and the McDowell County Arts
@@ -27,9 +27,3 @@ restaurant. It also sports a daily and
 evening buffet. Brown bagging is
 allowed, so don’t forget your favorite bottle of vino to compliment your
 meal!
-
-*Part or or all of this text stems from the original article at: Gabrielle Thompson*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 17:35

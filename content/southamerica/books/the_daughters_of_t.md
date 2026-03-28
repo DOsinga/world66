@@ -9,8 +9,6 @@ A very helpful novel to understand waht is going on in Venezuela these days. Won
 
 **Contributors**
 April 25, 2007
-new
-by [raulano nagao](/member/raulano_nagao)
 
 [](http://www.amazon.com/exec/obidos/ASIN/0595413927/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -19,5 +17,3 @@ by [raulano nagao](/member/raulano_nagao)
 author: Silent Creek
 
 isbn: 0595413927
-
-[back to Books](..)

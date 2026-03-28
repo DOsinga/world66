@@ -28,5 +28,3 @@ tel: +49 (0) 61 55 / 23 60
 url: [www.restaurant-zur-muehle.de](http://www.restaurant-zur-muehle.de/)
 
 address: An der B 26 (Motormühle)
-
-[back to Eating Out](..)

@@ -6,8 +6,6 @@ email: "netgear@netgear.gi"
 phone: "00350 200 45600"
 type: "Antiques"
 url: "www.netgear.gi"
-latitude: 36.139561
-longitude: -5.353496
 ---
 
 Netgear is Gibraltar's premier IT company. Specialising in sales and service of laptop computers in English. If you are looking for a laptop in English in Gibraltar then visit our website www.netgear.gi. If you are looking for a laptop in English in Spain then we deliver to Spain.
@@ -29,5 +27,3 @@ url: [www.netgear.gi](http://www.netgear.gi)
 address: 6 Bishop Rapallo's Ramp, Gibraltar
 
 email: netgear@netgear.gi
-
-[back to Shopping](..)

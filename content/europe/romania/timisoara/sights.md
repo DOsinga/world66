@@ -27,5 +27,3 @@ Romania has a 2000 year orthodox heritage which is worth knowing, not only for t
 
 **Contributors**
 July 24, 2008
-new
-by [psychoralu](/member/psychoralu)

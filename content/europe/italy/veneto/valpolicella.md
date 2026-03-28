@@ -1,23 +1,12 @@
 ---
 title: "Valpolicella"
 type: location
-latitude: 45.529671
-longitude: 10.940022
 ---
 
-Valpolicella has been inhabited since prehistoric times. Neolithic sites were followed by “castellieri” and proto-historic villages and by rhetic-etruscan peoples until the Romans came and established the “Pagus Arusnatium”. 
- 
- Valpolicella offers excellent hospitality with all category of hotels, restaurants and trattoria offering local cuisine, agritourism facilities and “osterie” where can enjoy Valpolicella wine and local products ranging from cheeses to salami and Verona’s characteristic dishes. Classic Valpolicella wine, like Recioto and Amarone, is produced in the zone comprising the towns of Negrar, Marano, Fumane, Sant’Ambrogio and San Pietro In Cariano.
+Valpolicella has been inhabited since prehistoric times. Neolithic sites were followed by “castellieri” and proto-historic villages and by rhetic-etruscan peoples until the Romans came and established the “Pagus Arusnatium”.   Valpolicella offers excellent hospitality with all category of hotels, restaurants and trattoria offering local cuisine, agritourism facilities and “osterie” where can enjoy Valpolicella wine and local products ranging from cheeses to salami and Verona’s characteristic dishes. Classic Valpolicella wine, like Recioto and Amarone, is produced in the zone comprising the towns of Negrar, Marano, Fumane, Sant’Ambrogio and San Pietro In Cariano.
 
+   Valpolicella is formed of the Negrar, Marano, Fumane and other minor valleys. It offers boundless panoramas and enchanting countryside with marvels of Nature, descending from the 1,500 meters heights of Corno d’Aquilio to soft rounded foothills and down from these to fertile and intensely cultivated valley floors. Valpolicella has been inhabited since prehistoric times. Neolithic sites were followed by “castellieri” and proto-historic villages and by rhetic-etruscan peoples until the Romans came and established the “Pagus Arusnatium”. Ostrogoths and Longobards dominated starting in 476 A.D. and the Holy Roman Empire beginning in the 9th century, followed by the Free Communes and by Scaligeri Domination, when, in 1311, Valpolicella was raised to the rank of county and its borders were drawn up to last for four centuries, through Venetian domination (1405-1797), Napoleon’s brief reign, up until 1866. Valpolicella offers excellent hospitality with all category of hotels, restaurants and trattoria offering local cuisine, agritourism facilities and “osterie” where can enjoy Valpolicella wine and local products ranging from cheeses to salami and Verona’s characteristic dishes.  
 
- 
- 
- Valpolicella is formed of the Negrar, Marano, Fumane and other minor valleys. It offers boundless panoramas and enchanting countryside with marvels of Nature, descending from the 1,500 meters heights of Corno d’Aquilio to soft rounded foothills and down from these to fertile and intensely cultivated valley floors. Valpolicella has been inhabited since prehistoric times. Neolithic sites were followed by “castellieri” and proto-historic villages and by rhetic-etruscan peoples until the Romans came and established the “Pagus Arusnatium”. Ostrogoths and Longobards dominated starting in 476 A.D. and the Holy Roman Empire beginning in the 9th century, followed by the Free Communes and by Scaligeri Domination, when, in 1311, Valpolicella was raised to the rank of county and its borders were drawn up to last for four centuries, through Venetian domination (1405-1797), Napoleon’s brief reign, up until 1866. Valpolicella offers excellent hospitality with all category of hotels, restaurants and trattoria offering local cuisine, agritourism facilities and “osterie” where can enjoy Valpolicella wine and local products ranging from cheeses to salami and Verona’s characteristic dishes.
- 
- 
+ 
 
-
- 
-
-
- Classic Valpolicella wine, like Recioto and Amarone, is produced in the zone comprising the towns of Negrar, Marano, Fumane, Sant’Ambrogio and San Pietro In Cariano: Valpolicella is a ruby red wine with a dry and slightly sweet flavor, tart body and 11 degree alcohol content. Recioto has a garnet red color, typical bouquet, delicate, sweet or dry flavor. It is a strong wine (14-15°) that is ideal with desserts and for festivities. Amarone, with a strong violet and almond bouquet and dry flavor, is superb with red meat roasts and game. The Palio del Recioto (Negrar, April) is the most important festival during the year.
+ Classic Valpolicella wine, like Recioto and Amarone, is produced in the zone comprising the towns of Negrar, Marano, Fumane, Sant’Ambrogio and San Pietro In Cariano: Valpolicella is a ruby red wine with a dry and slightly sweet flavor, tart body and 11 degree alcohol content. Recioto has a garnet red color, typical bouquet, delicate, sweet or dry flavor. It is a strong wine (14-15°) that is ideal with desserts and for festivities. Amarone, with a strong violet and almond bouquet and dry flavor, is superb with red meat roasts and game. The Palio del Recioto (Negrar, April) is the most important festival during the year.

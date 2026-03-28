@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 **general**
@@ -140,5 +140,3 @@ tel: 01225 460494
 address: The Empire, Orange Grove, Bath Avon BA1 1LP
 
 tel: 01225 461465
-
--->

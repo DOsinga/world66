@@ -11,11 +11,7 @@ Here, in small rooms with low, vaulted ceilings is recreated the de&shy;cor of a
 
 **Contributors**
 July 08, 2006
-new
-by [svetico](/member/svetico) (4 points)
 
 
 
 address: Varvarka Street, 10; Metro station "Kitai Gorod"
-
-[back to Museums](..)

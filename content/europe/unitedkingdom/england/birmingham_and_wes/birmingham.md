@@ -12,5 +12,3 @@ More recently, Birmingham has become known for the 'Spaghetti Junction' - an inf
 The entire city centre has undergone a facelift, with a renovated City Hall, Victoria Square and new pedestrian areas; the canals have once again become an important feature with the Gas Street Basin Development and Brindleyplace belying Birmingham's reputation for being a dull, industrial, urban sprawl. Gastronomically, Birmingham is famous for its baltis and for being the home of Cadbury's confectionery, where chocolate lovers can even visit the factory! 
 
 The City of Birmingham is a great starting place to explore the many sights of the Heart of England.
-
--->

@@ -45,13 +45,7 @@ Samoa.
 
 **Contributors**
 January 28, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)
 
 January 29, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 February 02, 2010
-change
-by [schitti](/member/schitti)

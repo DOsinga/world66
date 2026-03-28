@@ -1,9 +1,9 @@
 ---
-title: "Nelson Travel Guide"
+title: "Nelson"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Welcome to Nelson** 
 
@@ -52,7 +52,3 @@ Nelson airport is the 4th busiest in New Zealand. Two airlines operate out of Ne
 Visitors and residents enjoy small town informality and friendliness with a lifestyle that also offers the finer things in life!
 
 **Courtesy:** Latitude Nelson
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 15:03

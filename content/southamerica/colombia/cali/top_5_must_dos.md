@@ -57,9 +57,5 @@ mesmerizing to spectators and should be a part of any trip to Cali.
 
 **Contributors**
 January 19, 2010
-change
-by [kat99](/member/kat99)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

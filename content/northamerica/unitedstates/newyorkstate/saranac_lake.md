@@ -1,9 +1,9 @@
 ---
-title: "Saranac Lake Travel Guide"
+title: "Saranac Lake"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 First settled in 1819, Saranac Lake thrived on logging and the guiding of the "sports." In 1876, the man who would transform the village, Dr. Edward Livingston Trudeau, came to Saranac Lake to live out what he believed to be his last months. Dr. Trudeau suffered from tuberculosis. To his astonishment, the fresh mountain air in Saranac Lake restored his health, thus forming the basis for a curing regimen that established Saranac Lake as a pioneer health resort.
 
@@ -13,14 +13,5 @@ But that's only one part of Saranac Lake's vast appeal. The pristine lakes, ever
 
 So whatever your interest or passion, come to Saranac Lake and let the Adirondack mountain air rejuvenate your body and replenish your spirit.
 
-#### Contributors
-
-April 05, 2006 change by [giorgio](/member/giorgio)
-
 More information on
 *Saranac Lake Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 15:55

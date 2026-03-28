@@ -6,8 +6,6 @@ email: "news@laugholympics.de"
 phone: "030 48623186"
 type: "Theatres"
 url: "www.laugholympics.de"
-latitude: 52.528882
-longitude: 13.409541
 ---
 
 Laugh
@@ -38,5 +36,3 @@ url: [www.laugholympics.de](http://www.laugholympics.de)
 address: Schönhauser Allee 184 10119 Berlin-Mitte
 
 email: news@laugholympics.de
-
-[back to Nightlife and Entertainment](..)

@@ -25,5 +25,3 @@ Wurzburg is in the center of a world famous wine region and there are many wine 
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -28,5 +28,3 @@ address: 4 r Haute
 PriceOfMenu: 20 euro
 
 priceofmenu: 20 euro
-
--->

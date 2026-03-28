@@ -13,5 +13,3 @@ There is a departure tax of 14,000 Bolivars leaving from Caracas & 10,000 Boliva
 
 **Contributors**
 June 16, 2005
-new
-by [giorgio](/member/giorgio)

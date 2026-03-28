@@ -27,5 +27,3 @@ It's definitely worth noting that peak seasons include Summer and Christmas, due
 
 **Contributors**
 September 18, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

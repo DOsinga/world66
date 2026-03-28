@@ -10,6 +10,4 @@ disgusting, spectacles in Bogotá, depending on whom you ask. Bullfights
 take place on Sunday afternoons during the season (around Jan-Feb), and
 tickets range from $50.000 to $300.000.
 
-**Change history**
-
 type: Bullfights

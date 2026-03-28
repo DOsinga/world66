@@ -1,0 +1,4 @@
+---
+title: "Cafayate"
+type: location
+---

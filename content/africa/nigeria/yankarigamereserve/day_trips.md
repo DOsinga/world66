@@ -32,5 +32,3 @@ November to May to see the wildlife near the rivers.
 
 **Contributors**
 June 14, 2010
-change
-by [gabriellet](/member/gabriellet)

@@ -1,0 +1,4 @@
+---
+title: "Staffordshire"
+type: location
+---

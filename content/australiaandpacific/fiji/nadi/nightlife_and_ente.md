@@ -11,7 +11,4 @@ There is a great great bar, a nice looking place on the ocean side of the highwa
 
 Near the supermarket there is a cinema and it usually has one western film and one indian (bollywood) film. It costs $5 to get in.
 
-*Change history*
-Orginal article by [giorgio](/member/giorgio) on 05 January 05
-
-Minor corrections by [giorgio](/member/giorgio) on 05 January 05
+Minor corrections on 05 January 05

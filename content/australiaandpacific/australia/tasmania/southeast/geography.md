@@ -12,5 +12,3 @@ The South-East Coast has several significant peninsulas and Islands. The South-W
  Two peninsulas lie along the coast east of Hobart. The first is South Arm, a long spit of sand that forms a sheltered bay facing back towards Hobart. Further east, the Tasman Peninsula juts out into the Tasman Sea. Linked to the mainland by only a thin strip of land, it was a perfect place for Tasmania's main penal settlement at Port Arthur.
 
  North of the Tasman Peninsula is the beginning of the East Coast, with the townships of Orford and Triabunna, and Maria Island.
-
--->

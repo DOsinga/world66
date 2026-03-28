@@ -12,13 +12,5 @@ If you are having trouble finding good prices to fly to Barcelona El Prat, you c
 
 **Contributors**
 September 29, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

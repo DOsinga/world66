@@ -10,7 +10,5 @@ Best house-music club in Moscow with comfortable chill out, it also has a restau
 
 **Contributors**
 June 27, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing

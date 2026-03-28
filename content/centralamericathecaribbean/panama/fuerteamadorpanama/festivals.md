@@ -54,5 +54,3 @@ the people of Panama eat, drink and celebrate with each other.
 
 **Contributors**
 February 23, 2010
-change
-by [pbj716](/member/pbj716)

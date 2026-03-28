@@ -19,8 +19,6 @@ Day 5 - Check out and Visit the Botanical garden by Felucca in the River Nile.
 
 **Contributors**
 May 03, 2008
-new
-by [nile cruise](/member/nile_cruise)
 
 
 
@@ -33,5 +31,3 @@ url: [www.nilecruisereservationcenter.com](http://www.nilecruisereservationcente
 address: 5 Mohamed Ibrahim Street- Nawal Off - Dokki - Cairo - Egypt.
 
 email: gat6@gattours.com
-
-[back to Day Trips](..)

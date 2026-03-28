@@ -23,9 +23,3 @@ ruined pubs in the city
 
 **Contributors**
 September 30, 2009
-change
-by [magicmushroom](/member/magicmushroom)
-
-
-
-[back to Top 5 Must Do's](..)

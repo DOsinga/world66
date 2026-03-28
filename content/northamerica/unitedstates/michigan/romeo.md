@@ -1,0 +1,4 @@
+---
+title: "Romeo"
+type: location
+---

@@ -49,8 +49,4 @@ Square is the heart of the city and is bustling with shops and eateries.
 **5. Museum Time**
 
 The Jamahiriya Museum stores a superb collection of chronologically
-arranged artifacts dating back to the Neolithic age. The Saharan stone
-art and medieval Roman sculptures along with Leptis Magna patterned
-mosaics exhibited here are worth watching.
-
-Tripoli is a colorful montage of ancient historical and cultural grandeur and wears its ceremonious appeal with panache.
+arranged artifacts dating

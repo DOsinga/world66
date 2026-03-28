@@ -9,6 +9,4 @@ The city of Dachau organizes concerts in the Renaissance castle, you will be abl
 
 **"Volksfest" (family fair)**
 
-The "Dachauer Volksfest" takes place every year in August on the "Thomawiese". The fireworks, the charming silhouette of the centre and his lovely fair have become an attraction since decades. (bus line 720) 
-
--->
+The "Dachauer Volksfest" takes place every year in August on the "Thomawiese". The fireworks, the charming silhouette of the centre and his lovely fair have become an attraction since decades. (bus line 720)

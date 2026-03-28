@@ -14,17 +14,11 @@ There's ticket machines in the both terminals of CDG (section D in terminal 2). 
 
 **Contributors**
 May 03, 2006
-new
-by [payal](/member/payal) (2 points)
 
 April 02, 2007
-change
-by [faikku](/member/faikku)
 
 
 
 
 
 email: sarimyy@hotmail.com
-
-[back to Getting Around](..)

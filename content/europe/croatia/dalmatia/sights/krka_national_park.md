@@ -20,5 +20,3 @@ type: Parks, Gardens and Zoos
 
 
 url: [www.dalmacijalink.com](http://www.dalmacijalink.com)
-
-[back to Sights](..)

@@ -8,8 +8,6 @@ Here are the museums of Mekele.
 
 **Contributors**
 January 16, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### Atse Yohannes Palace
 

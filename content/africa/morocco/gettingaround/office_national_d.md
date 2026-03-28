@@ -20,5 +20,3 @@ For offers, conditions and prices look at:
 
 **Contributors**
 June 03, 2006
-new
-by [bernhadette](/member/bernhadette) (4 points)

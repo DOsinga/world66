@@ -1,12 +1,8 @@
 ---
-title: "John Travel Guide"
+title: "John"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 1 Program you'r planting of crops to coincide whenever you can log onto your farm to reap them. dkdeffebbaaedcca
-
-Page last generated on Wed 02:27
-
--->

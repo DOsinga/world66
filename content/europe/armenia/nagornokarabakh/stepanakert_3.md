@@ -1,9 +1,9 @@
 ---
-title: "Stepanakert Travel Guide"
+title: "Stepanakert"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 NOTE:*
 The Nagorno-Karabakh territory being an area of political dispute between Azerbajian and Armenia, we have two separate entries.
@@ -13,11 +13,3 @@ World66
 
 Stepanakert is the capital of Artsakh.
 From the Armenian point of view, Artsakh is an inseparable part of Armenia. Armenia considers that Artsakh never belonged to Independent Azerbaijan, but for a short period of time was a part of the Soviet Azerbaidjan and has been incorporated after the collaps of the USSR.
-
-#### Contributors
-
-April 11, 2006 new by [reen](/member/reen) (6 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 06:36

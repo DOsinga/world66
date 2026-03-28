@@ -35,8 +35,6 @@ type: Other
 
 
 
-
-
 accessibility: universal
 
 tel: 21-8761-3653
@@ -46,5 +44,3 @@ url: [www.cookinrio.com](http://www.cookinrio.com)
 address: Rua Ronald de Carvalho 154, Copacabana
 
 email: info@cookinrio.com
-
-[back to Things to do](..)

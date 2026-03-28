@@ -21,5 +21,3 @@ sadeeka khondoker xx
 
 **Contributors**
 August 01, 2006
-change
-by [giorgio](/member/giorgio)

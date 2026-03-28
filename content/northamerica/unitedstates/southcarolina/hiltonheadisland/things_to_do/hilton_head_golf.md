@@ -16,7 +16,5 @@ With breath taking oceanfront courses, challenging riverside courses, golf cours
 
 **Contributors**
 October 27, 2005
-new
-by [iszatmary](/member/iszatmary)
 
 type: Golf

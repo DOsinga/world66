@@ -8,8 +8,6 @@ The mountains are the main sights in general, but there are a few other things t
 
 **Contributors**
 February 26, 2005
-new
-by [vilpponen](/member/vilpponen)
 
 ### Echo Point
 

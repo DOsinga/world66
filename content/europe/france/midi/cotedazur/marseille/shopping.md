@@ -25,5 +25,3 @@ Remember that in Marseille, shopping is an adventure. And often an expensive one
 
 **Contributors**
 February 18, 2010
-change
-by [ctanios](/member/ctanios)

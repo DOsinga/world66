@@ -2,8 +2,6 @@
 title: "Nyamata Genocide Memorial"
 type: poi
 type: "Memorials"
-latitude: -2.148958
-longitude: 30.093763
 ---
 
 **Nyamata Genocide Memorial** is a worthwhile complement
@@ -19,11 +17,5 @@ carried out.
 
 **Contributors**
 October 22, 2008
-new
-by [lageographe](/member/lageographe)
 
 type: Memorials
-
-
-
-[back to Sights](..)

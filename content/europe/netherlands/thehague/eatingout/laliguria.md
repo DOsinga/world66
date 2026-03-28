@@ -8,5 +8,3 @@ Favourite Italian restaurant of Prince Willem-Alexander. Count on at least 50 gu
 address: Noordeinde 97
 
 tel: 070-3658387
-
--->

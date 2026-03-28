@@ -35,5 +35,3 @@ address: 424 8TH STREET SE
 PriceOfMenu: $15
 
 email: order@cafe8dc.com
-
-[back to Eating Out](..)

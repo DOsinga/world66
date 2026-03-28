@@ -35,5 +35,3 @@ tel: +389 2 3076 411
 url: [www.restoran14.com.mk](http://www.restoran14.com.mk)
 
 address: Londonska bb, Taftalidze, near the market
-
-[back to Eating Out](..)

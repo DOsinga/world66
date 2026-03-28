@@ -28,5 +28,3 @@ url: [www.HurghadaMarina.com](http://www.HurghadaMarina.com)
 address: Hurghada Marina Boulevard, Hurghada
 
 email: Owen@Solutions-RedSea.com
-
-[back to Shopping](..)

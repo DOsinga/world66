@@ -12,9 +12,3 @@ Some interesting villages in the Southern province of Córdoba are:
 **Montilla.**
 
 **Lucena.**
-
-
-
-
-
-[back to Tours and Excursions](..)

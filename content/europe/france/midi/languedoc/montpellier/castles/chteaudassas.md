@@ -9,6 +9,4 @@ Location : 1, route de St Vincent à Assas (12 km Nord de Montpellier sur la D10
 
 Tel : 04 67 59 62 45
 
-Visits on Sundays and Holidays from 14:30 to 18:00 from May 1st to November 2.  Group visits upon request. Concerts during Fall.  
-
--->
+Visits on Sundays and Holidays from 14:30 to 18:00 from May 1st to November 2.  Group visits upon request. Concerts during Fall.

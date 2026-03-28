@@ -6,8 +6,6 @@ email: "info@comedyclub.de"
 phone: "030 - 486 231 86"
 type: "Theatres"
 url: "www.treasonshow.co.uk"
-latitude: 52.529801
-longitude: 13.410003
 ---
 
 **The
@@ -100,5 +98,3 @@ url: [www.treasonshow.co.uk](http://www.treasonshow.co.uk)
 address: Schönhauser Allee 184
 
 email: info@comedyclub.de
-
-[back to Nightlife and Entertainment](..)

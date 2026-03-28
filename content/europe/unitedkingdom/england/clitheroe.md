@@ -1,0 +1,4 @@
+---
+title: "Clitheroe"
+type: location
+---

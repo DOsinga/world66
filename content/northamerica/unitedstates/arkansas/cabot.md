@@ -1,0 +1,4 @@
+---
+title: "Cabot"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Winterthur"
+type: location
+---

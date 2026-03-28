@@ -20,9 +20,3 @@ are really lucky it will be an omafiets - then your riding in style. I
 don't think this is illegal, but if it is don't blame me :-)
 
 type: Cycling
-
-
-
-
-
-[back to Things to do](..)

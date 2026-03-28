@@ -1,0 +1,4 @@
+---
+title: "Mwanza"
+type: location
+---

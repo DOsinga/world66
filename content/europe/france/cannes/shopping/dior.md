@@ -11,8 +11,6 @@ This elegant Dior location sells high-end women's fashions and accessories -- on
 
 **Contributors**
 June 02, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: +33 04 92 98 98 00
 url: [www.diorcouture.com](http://www.diorcouture.com)
 
 address: 38 Promenade de la Croissette
-
-[back to Shopping](..)

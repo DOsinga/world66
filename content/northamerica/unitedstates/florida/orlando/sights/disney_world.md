@@ -41,7 +41,3 @@ Tips**
 Plan your itinerary ahead of time. Check the park schedules and make sure the parks you want to visit are open during your stay. Look into park-hopper options if you plan to visit more than one park. Review the park maps online and make a list of rides and attractions that are top priority for you.Bring plenty of sunscreen, wear a hat and bottles of water. Have fun and take lots of pictures!
 
 type: Hotspots
-
-
-
-[back to Sights](..)

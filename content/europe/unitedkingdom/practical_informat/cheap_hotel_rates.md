@@ -15,5 +15,3 @@ type: Embassies and Consulates
 url: [hotelchoyce.com](http://hotelchoyce.com/Country/United_Kingdom.htm)
 
 address: http://hotelchoyce.com/Country/United_Kingdom.htm
-
-[back to Practical Information](..)

@@ -1,9 +1,9 @@
 ---
-title: "New London Travel Guide"
+title: "New London"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The New London area offers a variety of attractions sure to provide interest for the new, or the returning visitor. Be sure to allow at least two to three days to enjoy the area.
 
@@ -13,14 +13,5 @@ Nearby is the very large U.S. Navy New London Submarine base, and a "must-see" i
 
 The U.S. Coast Guard Academy is located just up-river from the Submarine base.
 
-#### Contributors
-
-July 20, 2006 new by [redsboy](/member/redsboy) (4 points)
-
 More information on
 *New London (Connecticut) Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:35

@@ -12,5 +12,3 @@ reserve once he saw it (a hundred or so years ago)!
 
 **Contributors**
 March 14, 2005
-new
-by [vilpponen](/member/vilpponen) (1 point)

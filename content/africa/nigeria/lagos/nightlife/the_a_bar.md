@@ -10,13 +10,5 @@ Not a bad place to hang out in Lagos, however watch out for those drinks prices,
 
 **Contributors**
 March 14, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

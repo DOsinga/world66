@@ -1,9 +1,9 @@
 ---
-title: "Trebinje Travel Guide"
+title: "Trebinje"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 A city in Herzegovina, southeastern part of BiH.
 About 36000 citizens.
@@ -19,9 +19,3 @@ About 20 km far from Dubrovnik.
 ** Trebinje is very interesting cultural-historical city with large number of temples. Many of them were built on early Christian grounds. Fifteen of them are Orthodox churches and two are Catholics. Temple of Presveta Bogorodica is built by wish of our big poet Jovan Ducic. Beside the church, there were also built ring bells, parish home, amphitheater, garden where visitors can take a rest. Temple of Presveta Bogorodica is surrounded with monasteries: Dobricevo, Duzi, Tvrdos, Zavala, Petropavlov manastir (monastery), manastir Zitomislic and Hercegovacka Gracanica. Trebinje is most important and main crossroad in south Hercegovina to these cities: Dubrovnik , Ljubinje, Bileca, Lastva, Niksic and Grab. Railway station connects Trebinje across Hum with Dubrovnik and Mostar, and across Grancarevo and Lastva. **
 
 ****
-
-*Part or or all of this text stems from the original article at: Tourist organisation of Republic of Srpska*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 15:25

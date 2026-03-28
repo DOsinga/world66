@@ -39,5 +39,3 @@ The Gold Coast Hinterland
 
 **Contributors**
 February 01, 2006
-new
-by [giorgio](/member/giorgio)

@@ -7,14 +7,4 @@ Cologne stands on ground that is steeped in history. Numerous cultural monuments
 
  The characteristic elements in the history of the City of Cologne: commerce, transformation and transport, religion and veneration of the saints and modern art are combined within a highly confined area in the city centre, embodied by Cologne central railway station (1890 - 1894) and its restored glass and steel structure, the cathedral itself and the adjacent museums (Ludwig Museum, Römisch-Germanisches Museum).
 
- **With courtesy of www.koeln.de** 
-
-## Subsections
-
-[Churches](/europe/germany/northrhinewestphalia/cologne/sights/churches)
-[Galleries & Exhibitions](/europe/germany/northrhinewestphalia/cologne/sights/galleriesexhibitions)
-
-[Museums](/europe/germany/northrhinewestphalia/cologne/sights/museums)
-[Other Sights](/europe/germany/northrhinewestphalia/cologne/sights/othersights)
-
-[Parks & Gardens](/europe/germany/northrhinewestphalia/cologne/sights/parksgardens)
+ **With courtesy of www.koeln.de**

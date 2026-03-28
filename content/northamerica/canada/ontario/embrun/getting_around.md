@@ -18,5 +18,3 @@ Bicycle rentals are available at Vélo Xpress, located at 968 Notre-Dame Street.
 
 **Contributors**
 July 26, 2006
-new
-by [freshfruitsrule](/member/freshfruitsrule) (4 points)

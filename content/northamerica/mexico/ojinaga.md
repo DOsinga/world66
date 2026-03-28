@@ -1,0 +1,4 @@
+---
+title: "Ojinaga"
+type: location
+---

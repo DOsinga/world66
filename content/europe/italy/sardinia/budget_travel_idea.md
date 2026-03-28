@@ -21,5 +21,3 @@ Another budget tip that will stretch money even further is to self cater. Buying
 
 **Contributors**
 February 05, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

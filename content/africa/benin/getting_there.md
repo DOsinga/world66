@@ -3,22 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+"/>
 
-*Aeroflot Air France* *Ghana Airways* and *SABENA* all run services to and from Benin. Benin also has a shareholding in* Air Afrique (RK).*
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-International airport
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-*Cotonou Cadjehoun (COO) *is* *5km (3 miles) west of the city. Airport facilities include 24-hour left luggage duty-free shop restaurant bar post office (0800-1600 Monday to Friday and 0800-1200 Saturday Sunday and holidays) business centre 24-hour medical facilities bank and car rental *(Europcar Loc'auto *and *Benin Limousine). *Taxis and limousines are available to the city (travel time  15-20 minutes).
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-Sea
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-Several shipping lines run regular cargo services from Marseille to Cotonou. Local shipping from Lagos arrives in Porto Novo.
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-Rail:
-
-The railway line from Parakou (via Gaya) to Niamey in Niger currently under construction will provide the first rail link into Niger.
-
-Road
-
-There are two good main roads one connecting Cotonou with Niamey in Niger and the other connecting Lagos with Porto Novo Cotonou Lom&eacute; and Accra. Buses and taxis are available. In 1991 work started on a road to link Benin with Togo and Burkina Faso. The first stretch will run from Djougou to Natitingou via Parakou.
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

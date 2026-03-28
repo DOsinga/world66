@@ -7,11 +7,3 @@ A beautiful, cobblestone town just a few hours away via Buquebus (the fast ferry
 
 **Contributors**
 March 09, 2007
-change
-by [snappyklap](/member/snappyklap)
-
-
-
-
-
-[back to Day Trips](..)

@@ -11,9 +11,3 @@ in West Sussex, approximately 40 km (25 miles) south of London, and an
 equal distance north of Brighton.
 
 type: Airport
-
-
-
-
-
-[back to Practical Information](..)

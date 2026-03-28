@@ -27,9 +27,5 @@ This [beach](/africa/nigeria/lagos/beaches)resort has many activities that are a
 
 **Contributors**
 April 01, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 31, 2010
-new
-by [gabriellet](/member/gabriellet)

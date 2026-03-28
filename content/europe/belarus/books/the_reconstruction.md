@@ -22,5 +22,3 @@ Source:amazon.com
 author: Timothy Snyder
 
 isbn: 030010586X
-
-[back to Books](..)

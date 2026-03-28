@@ -15,5 +15,3 @@ This may not be the cheapest vacation but imagine yourself on a island for a wee
 
 **Contributors**
 June 16, 2005
-new
-by [giorgio](/member/giorgio)

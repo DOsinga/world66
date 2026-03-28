@@ -27,5 +27,3 @@ When in Medellin, you should try some quintessential Colombian cuisines like car
 
 **Contributors**
 February 12, 2010
-change
-by [ashmita](/member/ashmita_)

@@ -20,5 +20,3 @@ http://www.luxembourg.co.uk/citypics.html
 http://www.luxembourg.co.uk/bourscheid.html
 
 http://www.luxembourg.co.uk/countrypics.html
-
--->

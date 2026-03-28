@@ -17,6 +17,4 @@ Two full days in days in Masai Mara with two daily game drives. This natural won
 Optional hot air balloon ride is US$ 425 per person or a visit to a local Maasai village US$ 25 per person
 
 Day 5: Masai Mara to Nairobi, Kenya
-Early morning game viewing. After breakfast, drive back to Nairobi to arrive in the afternoon. Lunch at The Carnivore Restaurant. Transfer to the airport for your flight to the next destination where the tour ends, B.
-
-More Masai Mara migration safari details available: http://www.africansermonsafaris.org/migrationsafari.htm
+Early morning game viewing. After breakfast, drive

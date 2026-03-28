@@ -12,8 +12,6 @@ Zi' Teresa is an institution more than a restaurant -- right at the sea. This tr
 
 **Contributors**
 June 09, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Local
 
@@ -28,5 +26,3 @@ tel: +39 0 81 764 2565
 url: [www.ziteresanapoli.com](http://www.ziteresanapoli.com)
 
 email: info@ziteresanapoli.com
-
-[back to Eating Out](..)

@@ -13,6 +13,4 @@ The patrons&rsquo; ears are delighted with the sounds of old French songs and Eg
 
 Food is also served here. The menu includes calamari, shrimp and other fish, all best accompanied by a cold Stella beer.
 
-To put the icing on the cake, have a seat when the liuto player is performing. This artist uses his songs to carry you back to ancient Alexandria, when poets sang songs of love found and lost.
-
-You can find Cap d&rsquo;Or at 4 Sharia Adib, near Sharia Saad Zaghloul. It&rsquo;s about 400 meters from the sea. A stop at a seaside bar surely provides a nice view, but it doesn&rsquo;t compare to the feeling of this soulful locale.
+To put the icing on the cake, have a seat when the liuto player is performing. This artist uses his songs to carry you

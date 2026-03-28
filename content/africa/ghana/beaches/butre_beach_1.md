@@ -10,8 +10,6 @@ It has a nice beach with many guesthouses to suit all budgets. Many tourists com
 
 **Contributors**
 September 23, 2005
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -22,5 +20,3 @@ tel: 0276834273
 address: ox ct 931 cantonments accra ghana
 
 email: tinnyfresh@yahoo.com
-
-[back to Beaches](..)

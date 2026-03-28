@@ -1,6 +1,6 @@
 ---
 title: "Bourbon Street"
-type: location
+type: poi
 address: "120 East Flamingo Road"
 type: "Casinos"
 ---

@@ -1,0 +1,4 @@
+---
+title: "Malo"
+type: location
+---

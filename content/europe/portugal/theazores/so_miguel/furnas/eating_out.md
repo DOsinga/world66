@@ -4,16 +4,12 @@ type: section
 address: "Rua Dr. Frederico Moniz Pereira, 15"
 phone: "296 584 422 & 296 584 406"
 type: "Local"
-latitude: 37.773514
-longitude: -25.310171
 ---
 
 Furnas is frequently visited by tourists and has some restaurants that can be recommended.
 
 **Contributors**
 June 29, 2005
-new
-by [gagarin](/member/gagarin) (1 point)
 
 ### [O Miroma](/europe/portugal/theazores/so_miguel/furnas/eating_out/o_miroma)
 

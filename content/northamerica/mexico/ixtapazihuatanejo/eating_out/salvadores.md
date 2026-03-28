@@ -4,8 +4,6 @@ type: poi
 address: "Calle Adelita"
 price: "$2-$8 USD"
 type: "Mexican"
-latitude: 19.343862
-longitude: -99.012629
 ---
 
 Four white plastic tables under a faded blue awning. A small bar with 4 stools. A shelf of paperback books for tourists to borrow. And a man named Salvador with a smile that won't quit. That's Salvadores.
@@ -22,8 +20,6 @@ Seafood is the specialty for dinner. The Chile Relleños stuffed with shrimp are
 
 **Contributors**
 January 07, 2006
-change
-by [rickjacobson](/member/rickjacobson)
 
 type: Mexican
 
@@ -34,5 +30,3 @@ type: Mexican
 address: Calle Adelita
 
 PriceOfMenu: $2-$8 USD
-
-[back to Eating Out](..)

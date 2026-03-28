@@ -10,5 +10,3 @@ Although the beating heart of the nightlife scene changed to ‘Mitte’ when th
 [Bars & Cafes](/europe/germany/berlin/kreuzberg/nightlife?subsection=Bars%20%26%20Cafes)
 
 [Dancing](/europe/germany/berlin/kreuzberg/nightlife?subsection=Dancing)
-
--->

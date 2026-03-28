@@ -1,9 +1,9 @@
 ---
-title: "Eysturoy Travel Guide"
+title: "Eysturoy"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 This is the second largest island with the highest mountain. There
 is a fabulous mountain road between Eiði, in the north-west of the
@@ -16,11 +16,3 @@ stones being a bit underwhelming but the road and the village doing far
 more than compensating.
 
 The south of the island is supposedly less dramatic but has a lake near Nes highly recommended for bird watching.
-
-#### Contributors
-
-July 24, 2008 change by [davidx](/member/davidx)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 01:38

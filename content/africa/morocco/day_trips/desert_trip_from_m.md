@@ -22,5 +22,3 @@ url: [www.marrakech-desert-trips.com](http://www.marrakech-desert-trips.com)
 address: Avenue Allal Elfassi, Immeuble 26, No 9 - Marrakech
 
 email: contact@marrakech-desert-trips.com
-
-[back to Day Trips](..)

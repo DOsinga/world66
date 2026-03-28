@@ -7,9 +7,3 @@ Branksome beach is about a half hour walk along the promenade from Bournemouth p
 
 **Contributors**
 April 30, 2014
-change
-by [mikello](/member/mikello)
-
-
-
-[back to Beaches](..)

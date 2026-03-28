@@ -31,5 +31,3 @@ url: www.georgiaaquarium.org
 address: 225 Baker St. Atlanta, GA 30313
 
 email: visitorservices@georgiaaquarium.org
-
-[back to Sights](..)

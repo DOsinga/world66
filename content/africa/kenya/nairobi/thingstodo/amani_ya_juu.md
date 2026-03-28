@@ -13,8 +13,6 @@ Amani ya Juu is located in the neighborhood of Riverside on Riverside Mews (just
 
 **Contributors**
 November 03, 2010
-new
-by [maschmenk](/member/maschmenk)
 
 type: Other
 
@@ -25,5 +23,3 @@ tel: 254 20 4449071
 url: [www.amaniafrica.org](http://www.amaniafrica.org/)
 
 address: On Ring Road in Riverside, near Prime Bank P.O. Box 14801 Nairobi 00800 Kenya
-
-[back to Things to do](..)

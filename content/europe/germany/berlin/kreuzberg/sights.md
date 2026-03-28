@@ -13,5 +13,3 @@ History has left its mark on Berlin, not in the least on Kreuzberg. These days, 
 [Squares](/europe/germany/berlin/kreuzberg/sights?subsection=Squares)
 
 [Museums](/europe/germany/berlin/kreuzberg/sights?subsection=Museums)
-
--->

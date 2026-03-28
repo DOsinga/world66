@@ -31,5 +31,3 @@ openingHours: Daily, 9:30 am–6:00 pm. Last admission is at 5:30 pm
 url: [www.miamiseaquarium.com](http://www.miamiseaquarium.com)
 
 address: 4400 Rickenbacker Causeway, Miami
-
-[back to Sights](..)

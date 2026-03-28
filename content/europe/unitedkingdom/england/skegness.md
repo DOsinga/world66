@@ -1,0 +1,4 @@
+---
+title: "Skegness"
+type: location
+---

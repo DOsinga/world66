@@ -15,8 +15,6 @@ The Mission of the gallery is to navigate the Manhattan art world with integrity
 
 **Contributors**
 April 18, 2007
-new
-by [soulful collector](/member/soulful_collector) (1 point)
 
 
 
@@ -33,5 +31,3 @@ url: [www.rhondaschallerchelsea.com](http://www.rhondaschallerchelsea.com)
 address: 547 West 27th St,suite 529
 
 email: gallery@rhondaschallerchelsea.com
-
-[back to Museums](..)

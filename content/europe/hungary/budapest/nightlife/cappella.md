@@ -12,8 +12,6 @@ A theater-like dance club and bar with several dance floors and funny drag queen
 
 **Contributors**
 January 13, 2009
-change
-by [pohjola](/member/pohjola)
 
 type: Gay and Lesbian
 
@@ -28,5 +26,3 @@ tel: +36 1 318 6231
 url: [www.capellacafe.hu](http://www.capellacafe.hu)
 
 address: V. BelgrÃ¡d rakpart 23.
-
-[back to Nightlife and Entertainment](..)

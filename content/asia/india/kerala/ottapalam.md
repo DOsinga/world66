@@ -1,0 +1,4 @@
+---
+title: "Ottapalam"
+type: location
+---

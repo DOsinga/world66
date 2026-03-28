@@ -5,8 +5,6 @@ address: "Cadiz"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 10.956652
-longitude: 123.305703
 ---
 
 On this Private tour you will visit Jerez's Royal Equestian School where they have a live show of the "Dancing Andalucian Horses, as well get a taste of the fine Jerez (Sherry) at a famous winery… 
@@ -17,8 +15,6 @@ A stroll through the aging cellars (bodegas) becomes a tour through history, fro
 
 **Contributors**
 January 26, 2005
-new
-by [euroadventures](/member/euroadventures) (1 point)
 
 
 
@@ -29,5 +25,3 @@ address: Cadiz
 tel: +34 986 22 13 99
 
 email: tours@euroadventures.net
-
-[back to Tours and Excursions](..)

@@ -9,5 +9,3 @@ Terracina can be reached by car from Rome by the old Via Appia, which goes on to
 
 **Contributors**
 November 20, 2006
-new
-by [danko111](/member/danko111)

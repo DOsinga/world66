@@ -15,5 +15,3 @@ type: Bars
 address: Pikk 43/Vaimu 1
 
 tel: 6464115
-
-[back to Nightlife and Entertainment](..)

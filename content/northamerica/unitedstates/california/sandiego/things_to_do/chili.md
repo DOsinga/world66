@@ -12,5 +12,3 @@ type: Other
 
 
 email: trackgal48@yahoo.com
-
-[back to Things to do](..)

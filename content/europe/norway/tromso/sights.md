@@ -62,5 +62,3 @@ seal training and feeding time, every day at 12:30pm and 3:30pm.
 
 **Contributors**
 October 30, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)

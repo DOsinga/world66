@@ -10,15 +10,3 @@ There is no other state with so many national parks dedicated to Native Indian c
 [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque) and [Santa Fe](/northamerica/unitedstates/newmexico/santafe) are the main urban areas in New Mexico. Both are attractive towns with excellent tourist infrastructure. They are good starting points for exploring the rest of the state. 
 
 For hiking and other outdoor activities, El Malpais and [White Sands](/northamerica/unitedstates/newmexico/whitesands) are spectacular national parks, where anyone with a love for the outdoor can spend whole weeks.
-
-## Destinations
-
-- [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque)
-- [Aztec](/northamerica/unitedstates/newmexico/aztec)
-- [El Mapais](/northamerica/unitedstates/newmexico/elmapais)
-- [Las Cruces](/northamerica/unitedstates/newmexico/lascruces)
-- [Los Alamos](/northamerica/unitedstates/newmexico/losalamos)
-- [Nageezi](/northamerica/unitedstates/newmexico/nageezi)
-- [Santa Fe](/northamerica/unitedstates/newmexico/santafe)
-- [Taos](/northamerica/unitedstates/newmexico/taos)
-- [White Sands](/northamerica/unitedstates/newmexico/whitesands)

@@ -1,5 +1,5 @@
 ---
-title: "Practical Things"
+title: "Practical Information"
 type: section
 ---
 

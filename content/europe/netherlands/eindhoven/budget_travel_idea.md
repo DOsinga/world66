@@ -23,9 +23,5 @@ Visitors don’t have to shell a large amount to get to know the historical city
 
 **Contributors**
 February 07, 2010
-change
-by [sameera kumar](/member/sameera_kumar)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

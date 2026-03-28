@@ -17,5 +17,3 @@ Juma Mosque (Juma Mescid) - Right next to the Chelebi Xan restaurant. It is a pi
 
 **Contributors**
 December 05, 2006
-new
-by [cupcakecommander](/member/cupcakecommander) (4 points)

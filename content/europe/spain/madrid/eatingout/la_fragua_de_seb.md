@@ -28,5 +28,3 @@ address: C/ Divino Pastor, 21. Metro: Bilbao/Malasaña. Madrid
 PriceOfMenu: 35
 
 email: info@fraguadesebin.com
-
-[back to Eating Out](..)

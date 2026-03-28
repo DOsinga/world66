@@ -1,0 +1,4 @@
+---
+title: "Keighley"
+type: location
+---

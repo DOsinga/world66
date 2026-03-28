@@ -5,8 +5,6 @@ accessibility: "near the city of Hunedoara, 18 km/9 miles south of Deva."
 address: "Romania"
 opening_hours: "daily from 9:00 AM to 5:00 PM."
 type: "Castles"
-latitude: 45.985213
-longitude: 24.685923
 ---
 
 Most
@@ -51,8 +49,6 @@ wild!
 
 **Contributors**
 November 17, 2006
-new
-by [romaniatours](/member/romaniatours)
 
 ### [Hunedoara Castle (Corvinesti Castle)](/europe/romania/transylvania/sights/hunedoara_castle)
 

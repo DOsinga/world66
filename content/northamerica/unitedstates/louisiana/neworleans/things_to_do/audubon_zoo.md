@@ -11,8 +11,6 @@ Excellent area zoo featuring a family of rare albino alligators, an impressive b
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -25,5 +23,3 @@ tel: 504-581-4629 or 800-774-7394
 url: [www.auduboninstitute.org](http://www.auduboninstitute.org)
 
 address: 6500 Magazine Street, New Orleans LA, 70118
-
-[back to Things to do](..)

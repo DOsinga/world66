@@ -1,0 +1,4 @@
+---
+title: "Cincinnati"
+type: location
+---

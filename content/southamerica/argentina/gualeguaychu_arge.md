@@ -7,5 +7,3 @@ This city is in the province of Entre Rios, and not too far from the border of A
 
 **Contributors**
 August 12, 2005
-new
-by [micah](/member/micah)

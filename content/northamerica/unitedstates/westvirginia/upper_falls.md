@@ -1,9 +1,9 @@
 ---
-title: "Upper Falls Travel Guide"
+title: "Upper Falls"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Upper Falls** is an unincorporated populated place in Kanawha County in [West Virginia](/northamerica/unitedstates/westvirginia).
 
@@ -16,13 +16,3 @@ The best resource for sights, hotels, restaurants, bars, what to do and see
 **Big Bend Golf Course** is an 18-hole championship golf course situated along the western bank of the river, below the falls.
 
 **Walhonde Trail Byway** and **Upper Falls Byway** are two planned scenic byways that will intersect at Upper Falls.
-
-*Part or or all of this text stems from the original article at: http://upperfalls.us/*
-
-#### Contributors
-
-October 12, 2007 change by [upperfalls](/member/upperfalls) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 10:40

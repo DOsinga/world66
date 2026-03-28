@@ -8,8 +8,6 @@ Beaches are to be found all along the rivers and lakes. Do you like jumping off 
 
 **Contributors**
 July 06, 2005
-new
-by [karenbru](/member/karenbru) (1 point)
 
 ### [Beaches along the Brembo River](/europe/italy/lombardia/bergamo/beaches/beaches_along_the)
 
@@ -41,17 +39,10 @@ address: Clanezzo
 
 -
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -19,5 +19,3 @@ Coconut Beach is a historic town that was once believed to be the center of a sl
 
 **Contributors**
 April 15, 2010
-new
-by [mbailin](/member/mbailin)

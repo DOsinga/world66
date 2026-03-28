@@ -1,12 +1,8 @@
 ---
-title: "Amsterdam Travel Guide"
+title: "Amsterdam"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 City of Amsterdam, located in upstate New York.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 07:19

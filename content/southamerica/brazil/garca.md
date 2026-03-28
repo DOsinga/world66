@@ -1,0 +1,4 @@
+---
+title: "Garca"
+type: location
+---

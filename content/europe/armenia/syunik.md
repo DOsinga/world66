@@ -1,9 +1,9 @@
 ---
-title: "Syunik Travel Guide"
+title: "Syunik"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The south marz (province) of Syunik is high plateau, and very ancient. Entered from the west through the Gates of Syunik (don't forget to honk), the road descends past an alpine reservoir on the right, and over a treeless plateau.
 
@@ -19,12 +19,5 @@ To follow the road east (and dodge Iranian lorries), you will pass through the e
 
 Southwest of Stepanakert, in the occupied province of Fizuli, there is Azukh Cave, where 900,000 year old Neandertal artifacts have been found; but that is another journey...
 
-*Part or or all of this text stems from the original article at: DRK*
-
 More information on
 *Syunik Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 22:00

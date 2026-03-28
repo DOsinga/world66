@@ -26,5 +26,3 @@ address: 740 N. Plankinton Ave.Milwaukee Wi. 53202
 url: [www.bluemaxcharters.com](http://www.bluemaxcharters.com)
 
 tel: 414-828-1094
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Inderoy"
+type: location
+---

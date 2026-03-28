@@ -12,8 +12,6 @@ The Attic Vintage Clothing Company is a star in its own right. Featured on a nat
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -26,5 +24,3 @@ url: [www.atticvintage.com](http://www.atticvintage.com)
 address: 1018 South Main Street
 
 email: theattic@wizard.com
-
-[back to Shopping](..)

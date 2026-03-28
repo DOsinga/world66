@@ -14,8 +14,6 @@ There are also traveling and temporary exhibits that are equally as interesting.
 
 **Contributors**
 May 30, 2006
-new
-by [jillykay](/member/jillykay) (2 points)
 
 type: Hotspots
 
@@ -30,5 +28,3 @@ url: [www.dwhm.org](http://www.dwhm.org)
 address: 801 S. 10th St. Omaha, NE 68108
 
 email: infor@dwhm.org
-
-[back to Sights](..)

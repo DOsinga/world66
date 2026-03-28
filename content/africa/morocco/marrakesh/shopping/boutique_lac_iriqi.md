@@ -18,5 +18,3 @@ tel: 212-68-51-50-87
 url: [www.berbertours.net](http://www.berbertours.net)
 
 zipcode: 45900 - Zagora
-
--->

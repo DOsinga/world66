@@ -40,8 +40,6 @@ What to bring
 
 **Contributors**
 March 31, 2011
-new
-by [available](/member/available)
 
 
 
@@ -52,5 +50,3 @@ url: [www.available-travel.com](http://www.available-travel.com/Egypt-Sightseein
 address: tours@available-travel.com
 
 email: tours@available-travel.com
-
-[back to Day Trips](..)

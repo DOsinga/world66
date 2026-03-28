@@ -20,5 +20,3 @@ Nahanni National Park was declared a World Heritage site by UNESCO in 1978. The 
 **Auvalik National Park**
 
 You want to experience Canada's wilderness? Visit Auvalik National Park to truly appreciate the beauty of the wilds. Auvalik National Park is 12,000 kilometers of totally undeveloped wilderness. If you want to fully appreciate the outdoors, travel through the park on the Thomsen River via canoe or raft. [more..](/northamerica/canada/northwestterritories/sights/auvaliknationalpark)
-
--->

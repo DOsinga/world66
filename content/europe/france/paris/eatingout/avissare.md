@@ -23,5 +23,3 @@ url: [avissare.abemadi.com](http://avissare.abemadi.com)
 address: 66, rue du faubourg Poissoniere
 
 PriceOfMenu: 30 Euros
-
-[back to Eating Out](..)

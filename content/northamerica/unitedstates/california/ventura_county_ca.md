@@ -1,9 +1,9 @@
 ---
-title: "Ventura County Travel Guide"
+title: "Ventura County"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Situated between Los Angeles and Santa Barbara, Ventura County often
 gets overlooked as a vacation/travel destination. It doesn't have
@@ -24,7 +24,3 @@ have you looking forward to your next visit. Oh, and let's not
 forget
 businesses; there are lots of facilities for conferences and small
 conventions.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

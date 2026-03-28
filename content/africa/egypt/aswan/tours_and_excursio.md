@@ -7,9 +7,5 @@ Practical advice for all travellers booking cruises and fellucca trips in Egypt 
 
 **Contributors**
 June 15, 2005
-change
-by [hirankarunaratna](/member/hirankarunaratna)
 
 June 15, 2005
-change
-by [giorgio](/member/giorgio)

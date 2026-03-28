@@ -15,7 +15,4 @@ Apartment is situated 350 m away from the beach, offers several parking places, 
 
 e-mail: branka_akmy@hotmail.com
 
-*Change history*
-Orginal article by [brankica](/member/brankica) on 30 May 04
-
-Minor corrections by [brankica](/member/brankica) on 30 May 04
+Minor corrections on 30 May 04

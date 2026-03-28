@@ -16,8 +16,6 @@ You will leave feeling relaxed and liberated.
 
 **Contributors**
 February 07, 2006
-change
-by [conrad stevens](/member/conrad_stevens)
 
 type: general
 
@@ -32,5 +30,3 @@ tel: +49-(0)7221-2759-20
 url: [www.carasana.de](http://www.carasana.de/home/en/roemisch.html)
 
 email: info@carasana.de
-
-[back to Spas](..)

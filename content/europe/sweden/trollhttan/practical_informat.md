@@ -11,8 +11,6 @@ Here is some useful general information
 
 **Contributors**
 June 04, 2006
-new
-by [ewolf](/member/ewolf) (2 points)
 
 ### [Turistbyrån](/europe/sweden/trollhttan/practical_informat/turistbyrn)
 

@@ -16,7 +16,5 @@ Market hours can vary, and stores (except ***Save-A-Lot***) are **CLOSED **on Su
 
 **Contributors**
 November 04, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 type: Markets

@@ -40,29 +40,4 @@ tour is at Lake Ontario.
 
 **Day 5**
 
-Head back to Ossington
-Avenue and visit Jonathan + Olivia, a great clothing boutique where you
-will find great Toronto styles that will be the perfect gift for that
-important person in your life. After some shopping, head to the corner
-with Dundas, to try the amazing pies from Pizzeria Libreto.
-The wait is usually 30 minutes, but is worth every minute because every
-pizza is made with fresh local ingredients, and is always piping hot.
-Start off the weekend by grabbing a drink at the elegant Watusi
-cocktail lounge. This is a perfect place to stay all night, because the
-jazzy tunes turn upbeat after 9:00 p.m.**
-
-Day 6
-
-**Visit the St. Lawrence
-Market on the corner of Front and Jarvis, where you will be able to
-shop fresh meats and local produce. The market has plenty of food
-stands which, also makes it a great place for lunch. One great sandwich shop is Mustachio's, in the basement area of
-the market.**
-
-Day 7**
-
-Pamper yourself at Novo Spa on 66 Avenue Road. This spa is well known for its great facilities and friendly staff. The Novo
-Spa is a better value than most spas at hotels, and is a great way to
-finish off the week after long days of walking around. Treat yourself
-to a relaxing massage, manicure, pedicure or facial and go back home
-rejuvenated and feeling great.
+Head

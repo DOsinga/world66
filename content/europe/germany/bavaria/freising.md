@@ -1,0 +1,4 @@
+---
+title: "Freising"
+type: location
+---

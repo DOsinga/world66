@@ -1,10 +1,9 @@
 ---
 title: "Practical Information"
 type: section
+url: "www.budapestindex.com"
 ---
 
-We currently have no Practical Information listed in Budapest.
+Budapest Index
 
-If you do know any Practical Information in Budapest, please [Add].
-
--->
+Comprehensive info for travelers and expats. Nearly all aspects of Budapest life at BudapestIndex. In English!

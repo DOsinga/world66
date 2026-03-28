@@ -6,8 +6,6 @@ type: "Churches and Cathedrals"
 
 **Contributors**
 October 14, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ### [The Annunciation Church](/europe/malta/cottonera_or_three/vittoriosa/sights/the_annunciation_c)
 

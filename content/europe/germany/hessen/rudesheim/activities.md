@@ -15,6 +15,4 @@ Here you have the opportunity to accompany our pilots in gliders and motor glide
 
 **Ponyland Farm Ebental **
 
-A leisure-time paradise for the whole family. More than fifty ponies and other farm animals, pony rides, carriage and covered wagon outings. Monthly helicopter flights along the Rhine valley to the Loreley. 
-
--->
+A leisure-time paradise for the whole family. More than fifty ponies and other farm animals, pony rides, carriage and covered wagon outings. Monthly helicopter flights along the Rhine valley to the Loreley.

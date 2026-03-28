@@ -10,8 +10,3 @@ Cuy and Alpaca both merit sampling at least once, especially the former, tasting
 Amongst the many breakfast-offering places, Yakumama's Grill (on the second floor, at the southern pinacle of the Plaza de Armas) stands out. A vast meal including Pancakes, Eggs, Tomatoes, Potatoes, Muesli and some excellent fresh juices should satisfy the most impressive appetite, and will set you back little more than 10 Soles. For the less conventional Peruvian meal, Espaderos (leading off the western corner of the Plaza) features a small Fondue restaurant, although both the quality and the quantity is average at best, and comes at a price (around 50 Soles for a main course).
 
 The area around San Blas also houses a number of fine establishments, such as Pacha Papa, on the south-west side of the square, facing the church, although these tend to be a little more pricey than those around the Plaza de Armas.
-
-*Change history*
-Orginal article by [Puggers](/member/puggers) on 15 November 04
-
--->

@@ -9,13 +9,9 @@ Didá features an eponymous all-female musical troupe that is truly mind- (and b
 
 **Contributors**
 January 29, 2007
-new
-by [rani d.](/member/rani_d.)
 
 type: Clubs and dancing
 
 
 
 address: Pelourinho
-
-[back to Nightlife and Entertainment](..)

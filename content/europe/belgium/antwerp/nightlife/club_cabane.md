@@ -9,7 +9,3 @@ An exclusive beach club in Antwerp...
 www.clubcabane.be
 
 type: Clubs and dancing
-
-
-
-[back to Nightlife and Entertainment](..)

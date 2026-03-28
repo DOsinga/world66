@@ -3,8 +3,6 @@ title: "Lucky´s Luke"
 type: location
 address: "Luxemburgerstr.6"
 phone: "065183657"
-latitude: 52.545619
-longitude: 13.357467
 ---
 
 Outstanding! Existing since 1990 the "Luke" made it until today to be
@@ -24,5 +22,3 @@ www.luke.de
 tel: 065183657
 
 address: Luxemburgerstr.6
-
-[back to Bars and Cafes](..)

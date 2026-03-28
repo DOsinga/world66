@@ -13,8 +13,6 @@ The variety of restaurant options in Lowell is reflective of the city's rich cul
 
 **Contributors**
 February 26, 2006
-new
-by [goodguygrady](/member/goodguygrady)
 
 ### [The New Olympia Restaurant](/northamerica/unitedstates/massachusetts/lowell/eating_out/the_new_olympia_re)
 

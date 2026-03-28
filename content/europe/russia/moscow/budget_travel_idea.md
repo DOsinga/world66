@@ -46,5 +46,3 @@ will take you anywhere you need to go.
 
 **Contributors**
 July 29, 2009
-new
-by [kileybugher](/member/kileybugher)

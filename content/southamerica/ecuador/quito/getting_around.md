@@ -37,5 +37,3 @@ or in the morning.
 
 **Contributors**
 September 16, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

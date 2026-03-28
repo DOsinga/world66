@@ -16,5 +16,3 @@ type: Skiing
 
 
 tel: 909/866-8891
-
-[back to Things to do](..)

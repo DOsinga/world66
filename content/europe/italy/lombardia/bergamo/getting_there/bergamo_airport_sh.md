@@ -15,8 +15,6 @@ Via
 
 **Contributors**
 February 04, 2009
-change
-by [karenbru](/member/karenbru)
 
 type: By Road
 
@@ -27,5 +25,3 @@ url: [www.orioshuttle.com](http://www.orioshuttle.com/?a=&arg=&l=e)
 address: Orio al Serio Airport, Milano Centrale Train Station
 
 email: ticket@orioshuttle.com Information
-
-[back to Getting There](..)

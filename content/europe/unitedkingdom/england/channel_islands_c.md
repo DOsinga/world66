@@ -39,5 +39,3 @@ The **Bailiwick of Jersey** includes the islands/islets of:
 
 **Contributors**
 May 11, 2006
-change
-by [giorgio](/member/giorgio)

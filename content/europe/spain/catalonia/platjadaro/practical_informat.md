@@ -28,5 +28,3 @@ Each February, the country also plays host to a Carnaval festival. Talent shows,
 
 **Contributors**
 April 14, 2010
-change
-by [palm tree mandy](/member/palm_tree_mandy)

@@ -2,8 +2,6 @@
 title: "Republic Square"
 type: poi
 type: "Squares"
-latitude: 44.816222
-longitude: 20.460295
 ---
 
 Republic square with the National Theatre (1868) and the Monument to Prince Michael
@@ -12,9 +10,3 @@ Obrenovic (1882, by E. Pazzi). The equestrian statue is cast in bronze
 (not presented here), founded in 1844.
 
 type: Squares
-
-
-
-
-
-[back to Sights](..)

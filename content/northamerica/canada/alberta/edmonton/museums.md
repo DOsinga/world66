@@ -13,9 +13,7 @@ Part of Old Strathcona's charm, has the largest historic phone display in Canada
 
 **Alberta Aviation Museum . **
 
-Come and relive Edmonton's rich aviation history in the museum hangar at the city centre airport. Inspect the collection of vintage planes dating back to the 1920s, including aircraft from early commercial and bush flying eras. Authentic and replica World War and more recent military aircraft are [more..](/northamerica/canada/alberta/edmonton/museums/albertaaviationmuseum)
-
-**Alberta Railway Museum . **
+Come and relive Edmonton's rich aviation history in the museum hangar at the city centre airport. Inspect the collection of vintage planes dating **Alberta Railway Museum . **
 
 One hundred years of railroading in the west are reflected in 65 major artifacts ranging from passenger cars and locomotives to an authentic railway station. On Canadian holiday long-weekends the public is invited to hop aboard steam or diesel trains for a nostalgic trip. Weekend tours offered.  [more..](/northamerica/canada/alberta/edmonton/museums/albertarailwaymuseum)
 

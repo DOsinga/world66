@@ -12,5 +12,3 @@ type: section
  South of Hobart, take the Southen Outlet (A6) to Kingston. The Huon Highway (A6), continues south to Huonville, Franklin, Geeveston and Dover, with access to the Hartz Mountains and the South-West National Park. Alternatively, you can take B68 to explore the townships along the Channel and access Bruny Island.
 
  Finally, you can explore the Derwent Valley by travelling north-west from Hobart along the Lyell Highway (A10) past New Norfolk. The Mt Field National Park is reached by veering west along B62, and one can continue past Maydena into the South-West. The Lyell Highway continues to follow the Derwent to its source in the Central Highlands, before continuing on to the West Coast.
-
--->

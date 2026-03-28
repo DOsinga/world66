@@ -5,8 +5,6 @@ address: "Strada Latina 3, Brasov, Romania"
 email: "tours@goromaniatours.com"
 phone: "+40 748 70 05 12"
 url: "www.goromaniatours.com"
-latitude: 45.633956
-longitude: 25.578197
 ---
 
 This
@@ -25,27 +23,6 @@ The following day we will depart for Rasnov fortress, and famous
 Bran Castle, the home to the
 
 legend of Dracula . After these tours,
-we will head back to Bucharest to return you to your final
-destination.
-
-*** A Castle Tour that will take you
-back in time!!! ***
-
-**Contributors**
-August 06, 2006
-change
-by [go-romania-tours](/member/go-romania-tours)
-
-
-
-
-
-tel: +40 748 70 05 12
-
-url: [www.goromaniatours.com](http://www.goromaniatours.com)
-
-address: Strada Latina 3, Brasov, Romania
+we will head address: Strada Latina 3, Brasov, Romania
 
 email: tours@goromaniatours.com
-
-[back to Day Trips](..)

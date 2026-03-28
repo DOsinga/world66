@@ -17,5 +17,3 @@ The official taxi company from the airport is Touch Down Taxis. Please refrain t
 
 **Contributors**
 September 20, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

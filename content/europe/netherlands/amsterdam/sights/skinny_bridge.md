@@ -11,7 +11,5 @@ Some local people say that the bridge was named after the Mager Sisters (mager i
 
 **Contributors**
 February 28, 2005
-new
-by [hpharmsen](/member/hpharmsen) (1 point)
 
 type: Landmarks

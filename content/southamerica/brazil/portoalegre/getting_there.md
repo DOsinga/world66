@@ -7,5 +7,3 @@ Be sure to check the weather before heading to Porto Alegre, or you are likely t
 
 **Contributors**
 July 12, 2006
-new
-by [klughs](/member/klughs) (1 point)

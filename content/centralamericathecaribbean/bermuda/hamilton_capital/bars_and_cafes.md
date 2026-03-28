@@ -63,5 +63,3 @@ majestic St. George Harbor.
 
 **Contributors**
 February 23, 2010
-new
-by [kwalker](/member/kwalker)

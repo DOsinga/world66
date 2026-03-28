@@ -1,14 +1,8 @@
 ---
-title: "Dag nabbit good stuf Travel Guide"
+title: "Dag nabbit good stuf"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Dag nabbit good stuff you whpepersnaipprs!
-
-*Part or or all of this text stems from the original article at: kxL24sPa*
-
-Page last generated on Mon 17:50
-
--->

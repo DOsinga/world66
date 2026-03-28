@@ -15,9 +15,7 @@ For the newly arrived guest, the Porta Nigra is the best place to begin a tour o
 
  Roman city gate the 2nd cent., sandstone blocks held together by iron clamps: from the 11th to the 18th century two-storied church of which the Romanesque apse is still preserved.
 
-  The gate itself dates back to a time (about A.D. 180) when the Romans often erected public buildings of huge [more..](/europe/germany/rhinelandpalatinate/trier/sights/portanigra)
-
-**Hauptmarkt (Main Market) **
+  The gate itself dates **Hauptmarkt (Main Market) **
 
  The center of the city for nearly 2000 years: with Market Cross, 958 and St. Peter's Fountain, 1595; Gothic church of St. Gangolf 14th/15th century, steeple from 1507. The Steipe, a councillors' banqueting house, was built in 15th century, the Red House, 1684.
 

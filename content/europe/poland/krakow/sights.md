@@ -26,5 +26,3 @@ It is also worth to take a short stroll and visit probably the most suprasing pl
 
 **Contributors**
 December 15, 2009
-new
-by [krakowrentals](/member/krakowrentals)

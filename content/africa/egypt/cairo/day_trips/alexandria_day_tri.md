@@ -26,32 +26,6 @@ Caesareum . Then proceed to Quitbay Citadel which was built on the site
 of the ancient pharos ( light house of Alexandria )
 have your lunch in a local restaurant .
 Visit the Catacombs which are the largest Roman Cemetery consisting of
-three levels cut in the rock . Transfer back to your hotel .
-minimum no of participants : 2 pax.
-
-**Inclusions:**
-
-- All transfers by A-C van .
-- Entrance fees to the mentioned in the program .
-- Guide of your own language
-- Soft drink in the car during your trip .
-- Lunch in local restaurant .
-
-**Exclusions:**
-
-- Any extras not mentioned in the program .
-- Drinks with Lunch in the restaurant .
-
-
-
-
-
-tel: +20 12 1 450 455
-
-url: [www.youregypttours.com](http://www.youregypttours.com)
-
-address: 3 Okasha from Elmostashfa st,Alharam,giza,Egypt.
+three levels cut in the rock . Transfer address: 3 Okasha from Elmostashfa st,Alharam,giza,Egypt.
 
 email: eygpttourguide@yahoo.com
-
-[back to Day Trips](..)

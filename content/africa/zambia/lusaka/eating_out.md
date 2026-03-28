@@ -9,5 +9,3 @@ If you're not eating in someone's home you're more likely to get western style f
 
 **Contributors**
 March 19, 2007
-new
-by [dylanbould](/member/dylanbould) (1 point)

@@ -20,7 +20,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Departure**: Daily**Lenght**: 2 Days / 1 Night**Type**: Private **Cairo** **Luxor** tour**Guide**: Egyptologist English speaking guide**Price**: From : **473** **USD**
 **Tour Itinerary:-
@@ -97,8 +97,6 @@ Consultant*
 
 **Contributors**
 September 22, 2011
-new
-by [saratalaat](/member/saratalaat)
 
 
 
@@ -109,5 +107,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Sightseein
 address: Hurghdad, Egypt
 
 email: magdy@egypttravelhotdeals.com
-
-[back to Day Trips](..)

@@ -17,5 +17,3 @@ Additionally, service is offered in Saratoga Springs and the surrounding rural a
 
 **Contributors**
 February 08, 2006
-new
-by [allamericanbear](/member/allamericanbear)

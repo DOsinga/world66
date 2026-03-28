@@ -19,8 +19,6 @@ let you continue on the other line.
 
 **Contributors**
 October 14, 2005
-change
-by [patrickneil](/member/patrickneil)
 
 
 
@@ -31,5 +29,3 @@ tel: 202-962-1423
 url: [www.dccirculator.com](http://www.dccirculator.com/)
 
 email: csvc@wmata.com
-
-[back to Getting Around](..)

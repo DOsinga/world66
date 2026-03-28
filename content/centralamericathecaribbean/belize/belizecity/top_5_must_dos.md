@@ -28,5 +28,3 @@ Belize has an amazing system of caves perfect for hiking and tubing. A short hik
 
 **Contributors**
 March 12, 2010
-change
-by [ctanios](/member/ctanios)

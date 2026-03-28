@@ -1,9 +1,9 @@
 ---
-title: "Frisian Islands interregion Travel Guide"
+title: "Frisian Islands interregion"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The German North Frisian Islands are part of the interregional archipelago of The Frisian Islands in northwestern Europe, which spreads across the coasts of **The Netherlands**, **Germany** and **Denmark** in crescent form from west to east to north. These areas are divided from each other for administrative reasons, but they form a single ecological entity.
 Most of the area is protected, and an international wildlife reserve is being coordinated between the three countries. Gas and oil drilling continue, however, and the presence of the Ems, Weser and Elbe estuaries and the ensuing ship traffic cause growing tension between wildlife protection and economics.
@@ -17,13 +17,3 @@ Most of the area is protected, and an international wildlife reserve is being co
 * [Vadehavet](/europe/denmark/vadehavet) Nature Reserve in Denmark
 
 Click the links above to directly access the different local areas.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Wadden_Sea_National_Parks*
-
-#### Contributors
-
-January 18, 2006 change by [reen](/member/reen)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 23:12

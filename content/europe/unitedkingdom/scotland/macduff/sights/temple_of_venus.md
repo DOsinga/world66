@@ -8,13 +8,5 @@ Sitting high on Doune hill is the Temple of Venus, from the temple great views o
 
 **Contributors**
 February 07, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

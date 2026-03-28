@@ -9,8 +9,6 @@ There are many things to do during a visit to Westport
 
 **Contributors**
 August 30, 2005
-new
-by [wood](/member/wood)
 
 ### [Charter Fishing](/northamerica/unitedstates/washington/westport/things_to_do/charter_fishing)
 

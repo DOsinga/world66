@@ -21,5 +21,3 @@ Strip tease dances are also a common occurrence. There are barman shows where th
 
 **Contributors**
 February 26, 2010
-new
-by [piyushjain](/member/piyushjain_)

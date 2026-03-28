@@ -1,0 +1,4 @@
+---
+title: "Mooloolaba"
+type: location
+---

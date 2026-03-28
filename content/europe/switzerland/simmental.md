@@ -1,0 +1,4 @@
+---
+title: "Simmental"
+type: location
+---

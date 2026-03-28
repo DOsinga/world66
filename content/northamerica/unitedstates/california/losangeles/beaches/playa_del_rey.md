@@ -16,9 +16,3 @@ For a nice lunch on a sunny afternoon, visit the Shack or stop into Outlaws for 
 
 **Contributors**
 January 22, 2010
-new
-by [matt branham](/member/matt_branham)
-
-
-
-[back to Beaches](..)

@@ -7,8 +7,6 @@ date: "November 10, 2007"
 email: "harvestartfair@weavercraft.org"
 phone: "408-255-5520"
 url: "www.weavercraft.org"
-latitude: 37.306404
-longitude: -121.986575
 ---
 
 Come Celebrate the Harvest with Local Families, Artisans and Waldorf Educators.
@@ -39,5 +37,3 @@ date: November 10, 2007
 address: 4660 Eastus Drive, San Jose, CA 95129
 
 email: harvestartfair@weavercraft.org
-
-[back to Festivals](..)

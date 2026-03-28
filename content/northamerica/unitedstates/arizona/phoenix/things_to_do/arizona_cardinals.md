@@ -11,8 +11,6 @@ The Arizona Cardinals of the National Footbal League, play at the newly built Un
 
 **Contributors**
 December 21, 2006
-new
-by [the rev](/member/the_rev) (1 point)
 
 type: Other
 
@@ -25,5 +23,3 @@ tel: 800-999-1402
 url: [www.azcardinals.com](http://www.azcardinals.com)
 
 address: PO Box 888, Phoeniz, AZ, 85001 - 0888
-
-[back to Things to do](..)

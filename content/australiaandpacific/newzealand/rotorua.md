@@ -1,0 +1,4 @@
+---
+title: "Rotorua"
+type: location
+---

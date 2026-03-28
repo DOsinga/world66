@@ -9,6 +9,4 @@ An area of land situated between the residential area of Pulica and the Pesa and
 
   The first section shows the results of more than twenty years of digs and topographic research, which have contributed to turning Montelupo into one of the most important Tuscan prehistoric collections, but it also includes vast documentation of many Proto-Historic, Etruscan and Roman sites of the Florentine Middle Valdarno.
 
-  On the two upper floors, the museum houses the archaeological exhibits concerning the production of ceramics in Montelupo from the origins of this art (in the late 13th century) to the end of the Modern age. The exhibition starts with the first archaic majolica pieces and continues with objects dating back to the 1400s,thus demonstrating the strong position that Montelupo was gaining among Tuscan ceramics producing towns. The objects, which are almost all majolica, are inspired by the prestigious enamelled vases of the time originating in Valenzano art, from which the Montelupo style became progressively distinct in the last decades of the century.
-
-  A growing crisis in the sector, which became irreversible in the mid-seventeenth century, led to the creation of objects with limited decorations and lower cost.
+  On the two upper floors, the museum houses the archaeological exhibits concerning the production of ceramics in Montelupo from the origins of this art (in the late 13th century) to the end of the Modern age. The exhibition starts with the first archaic majolica pieces and continues with objects dating

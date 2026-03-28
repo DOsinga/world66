@@ -6,8 +6,6 @@ email: "sales@kfcec.co.za"
 phone: "0413737880"
 type: "Fast food"
 url: "www.kfcec.co.za"
-latitude: -33.960705
-longitude: 25.603212
 ---
 
 Port Elizabeth has a nice line-up of restaurants serving diverse

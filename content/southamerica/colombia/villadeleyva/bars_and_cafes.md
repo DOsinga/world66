@@ -60,12 +60,8 @@ a full bar and entertainment area.
 
 **Contributors**
 April 08, 2010
-change
-by [kwalker](/member/kwalker)
 
 April 12, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 ### [Café de la Barra](/southamerica/colombia/villadeleyva/bars_and_cafes/caf_de_la_barra)
 

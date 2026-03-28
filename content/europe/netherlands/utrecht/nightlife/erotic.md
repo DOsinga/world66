@@ -1,8 +1,6 @@
 ---
 title: "Erotic"
 type: poi
-latitude: 52.157693
-longitude: 5.39327
 ---
 
 **Place to go outs**

@@ -134,21 +134,6 @@ those that come specifically to dive amid the sharks that frequent the
 Red Sea. "People want to see sharks, they get angry if there are none
 around. It's good for us to go and see the sharks, but not so good when
 the sharks come to see us."Back on the beach, Dydzinski was
-looking forward to getting back to Wigan. "I will never come back to
-Sharm, and I will never snorkel again," she said. "It's been a very big
-stress. I'm very glad to be going home. There might be a lot of snow in
-Wigan - but at least there are no sharks.
-
-
-
-
-
-tel: +2 01005759364
-
-url: [www.egyptshoreexcursions.com](http://www.egyptshoreexcursions.com/)
-
-address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
+looking forward to getting address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
 
 email: info@egyptlastminute.com
-
-[back to Beaches](..)

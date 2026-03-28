@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 October 19, 2006
-new
-by [svetico](/member/svetico)
 
 ### [Travel in Ecuador](/southamerica/ecuador/getting_around/travel_in_ecuador)
 

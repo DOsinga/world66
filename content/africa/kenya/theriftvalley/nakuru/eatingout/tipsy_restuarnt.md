@@ -23,5 +23,3 @@ type: International
 tel: 212493/213238
 
 email: karimsunderji@msn.com
-
-[back to Eating Out](..)

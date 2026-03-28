@@ -22,5 +22,3 @@ url: [www.saharagoing.com](http://www.saharagoing.com)
 address: Derb Manciura 32 Riad el mansoura
 
 email: info@saharagoing.com
-
-[back to Sights](..)

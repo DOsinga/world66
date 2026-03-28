@@ -9,13 +9,9 @@ Forcella Market is an open-air market that has been described as "an incredible 
 
 **Contributors**
 June 10, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Markets
 
 
 
 address: Between piazza Garibaldi and corso Umberto
-
-[back to Shopping](..)

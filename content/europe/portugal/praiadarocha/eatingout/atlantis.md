@@ -14,5 +14,3 @@ type: European
 
 
 PriceOfMenu: variable
-
-[back to Eating Out](..)

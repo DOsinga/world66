@@ -21,13 +21,5 @@ renovated.
 
 **Contributors**
 May 06, 2005
-new
-by [jst](/member/jst)
 
 type: Streets
-
-
-
-
-
-[back to Sights](..)

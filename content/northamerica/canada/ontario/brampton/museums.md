@@ -3,9 +3,7 @@ title: "Museums"
 type: section
 ---
 
-Orginal article by [Zanimum](/member/zanimum) on 08 November 04
-
-Minor corrections by [Zanimum](/member/zanimum) on 08 November 04
+Minor corrections on 08 November 04
 
 **all**
 
@@ -20,5 +18,3 @@ url: [www.visualartsbrampton.com](http://www.visualartsbrampton.com/artway.htm)
 The complex consists of a museum, the Art Gallery of Peel, and the Peel region's archives.
 
 address: 9 Wellington Street East
-
--->

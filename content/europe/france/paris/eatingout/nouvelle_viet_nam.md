@@ -4,8 +4,6 @@ type: poi
 address: "94, Avenue de Choisy"
 phone: "01.44.24.28.51"
 type: "Vietnamese"
-latitude: 48.824939
-longitude: 2.361055
 ---
 
 Located in the 13eme, this restaurant has GREAT food with a reasonable price. Here you can try Laotion and Thai dishes as well as Vietnamese. There is a che (sweet bean dessert) bar in the front.
@@ -14,8 +12,6 @@ Get there early, because the line can be long and there are no reservations. The
 
 **Contributors**
 March 13, 2007
-new
-by [mamasanlzn](/member/mamasanlzn) (1 point)
 
 type: Vietnamese
 
@@ -26,5 +22,3 @@ type: Vietnamese
 tel: 01.44.24.28.51
 
 address: 94, Avenue de Choisy
-
-[back to Eating Out](..)

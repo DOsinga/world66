@@ -10,7 +10,3 @@ address: Johannesplatz 4, A-6460 Imst
 tel: +43 5412 67292
 
 email: gasthof-sonne@cni.at
-
-[back to Eating Out](..)
-
--->

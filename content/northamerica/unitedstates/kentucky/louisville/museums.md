@@ -7,5 +7,3 @@ If you are a baseball fan, then one of your Louisville activities must be a trip
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

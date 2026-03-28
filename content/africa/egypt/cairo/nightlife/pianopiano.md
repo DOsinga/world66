@@ -15,5 +15,3 @@ type: Clubs
 address: Corniche el Nil, 762-810
 
 tel: +20 2 5804575
-
-[back to Nightlife and Entertainment](..)

@@ -11,7 +11,5 @@ In the meantime, please have a look at a series of nice pictures from a winter-c
 
 **Contributors**
 March 11, 2005
-new
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 type: By Road

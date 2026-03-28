@@ -9,7 +9,4 @@ The sloping narrow streets and secluded modest squares house many stunning (and 
 
 On the other side of the cathedral, along the road running adjacent to the Isle River, the intriguiging prospect of the Bread Museum is tucked away - although the slightly longer walk from the nearby car-parks to the Musee du Perigord may be more rewarding. The stunning array of artefacts are impressive, but are overshadowed by the main attraction, a comprehensive excavation of a Roman settlement, with good access provided by a network of raised wooden ramps. The building itself is also noteworthy, a great glass cube in the middle of leafy grounds.
 
-Further away from the city, the caves of Les Eyzies, especially Le Grand Roc, are well worth a day's visit - the carvings, pre-historic infrastructure and breath-taking natural rock formations provide an insight into a world far removed from much of our own. The surrounding area is pleasantly un-developed, almost harking back to these times. Canoing along the Dordoyne Valley is a relaxing way to take in these sights, whilst the many hamlets and small towns hiding in the hills can be a good place for a laid-back lunch.
-
-**Change history**
-Orginal article by [Puggers](/member/puggers) on 05 December 04
+Further away from the city, the caves of Les Eyzies, especially Le Grand Roc, are well worth a day's visit - the carvings, pre-historic infrastructure and breath-taking natural rock formations provide an insight into a world far removed from much of our own. The surrounding area is pleasantly un-developed, almost harking

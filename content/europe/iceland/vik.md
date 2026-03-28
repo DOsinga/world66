@@ -1,0 +1,4 @@
+---
+title: "Vik"
+type: location
+---

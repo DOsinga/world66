@@ -8,13 +8,5 @@ Grand views, galleries, museums, and beautiful Venetian Gothic style palaces -- 
 
 **Contributors**
 May 24, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

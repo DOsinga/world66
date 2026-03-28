@@ -8,12 +8,8 @@ Below is a listing of possible tours and excursions on and round Lofoten islands
 
 **Contributors**
 June 12, 2005
-new
-by [lofoten](/member/lofoten)
 
 December 20, 2005
-change
-by [reen](/member/reen)
 
 ### [Starting from Svolvaer](/europe/norway/lofotenislands/tours_and_excursio/starting_from_svol)
 

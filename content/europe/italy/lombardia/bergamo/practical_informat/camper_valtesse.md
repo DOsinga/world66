@@ -12,8 +12,6 @@ Campers in two locations= Valtesse and Gorle in Bergamo. Rental, Assistance, Ser
 
 **Contributors**
 July 04, 2005
-change
-by [karenbru](/member/karenbru)
 
 type: Tourist information
 
@@ -28,5 +26,3 @@ url: [www.campervaltesse.it](http://www.campervaltesse.it)
 address: Via Ruggeri 25, 24123 Valtesse, Bergamo/Via Roma 47, 24020 Gorle (Bergamo)
 
 email: info@campervaltesse.it
-
-[back to Practical Information](..)

@@ -15,5 +15,3 @@ tel: +55 21 2225-7434
 url: [www.marlinyacht.com.br](http://www.marlinyacht.com.br/)
 
 address: Av. Infante Dom Henrique, s/n - Marina da Glória - Loja. A1
-
-[back to Day Trips](..)

@@ -1,0 +1,4 @@
+---
+title: "Ranchi"
+type: location
+---

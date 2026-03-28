@@ -8,6 +8,3 @@ type: location
 It features one of the most impressive English castles in Wales.
 
 Nearby places of interest include [Conwy](/europe/unitedkingdom/wales/conwy) and Llandudno further east.
-
-**Change history**
-Orginal article by [wojsyl](/member/wojsyl) on 22 March 05

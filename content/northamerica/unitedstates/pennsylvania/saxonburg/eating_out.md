@@ -10,8 +10,6 @@ Prices: $ = less than $5/meal, $$ = $5-10/meal, $$$ = $11-15/meal, $$$$ = more t
 
 **Contributors**
 May 06, 2004
-change
-by [mccart42](/member/mccart42)
 
 ### 4 Fun Wise Guys
 

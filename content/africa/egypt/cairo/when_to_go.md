@@ -21,5 +21,3 @@ There are a few other factors to keep in mind when planning your trip to Cairo. 
 
 **Contributors**
 August 31, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

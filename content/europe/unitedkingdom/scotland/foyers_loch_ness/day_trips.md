@@ -21,8 +21,6 @@ Jacobite cruise is an ideal way to experience Loch Ness.
 
 **Contributors**
 December 30, 2009
-new
-by [goscotlandtours](/member/goscotlandtours)
 
 ### [Tour Loch Ness, Inverness and the Highlands of Scotland](/europe/unitedkingdom/scotland/foyers_loch_ness/day_trips/tour_loch_ness_in)
 

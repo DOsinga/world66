@@ -8,8 +8,6 @@ An assortment of sights can be found in and around Macduff.
 
 **Contributors**
 February 07, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Temple of Venus](/europe/unitedkingdom/scotland/macduff/sights/temple_of_venus)
 

@@ -9,8 +9,6 @@ This castle is somewhat comparable to the castles in [Elmina](/africa/ghana/elmi
 
 **Contributors**
 October 23, 2006
-new
-by [ragna](/member/ragna) (2 points)
 
 type: Castles
 
@@ -19,5 +17,3 @@ type: Castles
 
 
 address: Osu (at the end of Cantoments Road, at the seaside)
-
-[back to Sights](..)

@@ -1,32 +1,18 @@
 ---
 title: "Antwerp"
 type: location
-latitude: 51.22111
-longitude: 4.399708
 ---
 
 Antwerp is one of the Belgium cities where you can fancy yourself the King of Belgium over a glass of *Koninck* beer (or one of the other 400 brands) with a view on the old guildhouses on the Grote Markt. Belgium's second city, and the biggest one of Flanders, is also a receptacle of monuments, museums and churches. Besides this, the city of Rubens, is the world’s centre for diamond processing as well as Belgium’s primary seaport.
 
+  The heart of the city on the Scheldt beats at the 'Grote Markt', an irregularly-shaped square, surrounded by decorative guild housedating from the 16th and 17th century. This square is home to the statue of Brabo. According to a 16th century legend, his action of 'handwerpen' (Dutch for 'flinging your hand') led to the city's name. Silvius Brabo is said to have flung the hand of Antigonus, a giant who terrorized passing ships. The 15th century City Hall on the square shows a successful blend of the Flemish style and Italian Renaissance characteristics. Southeast of the square, you can see the 'Onze Lieve Vrouwe Cathedral', a beautiful Gothic cathedral which will throw the rest of the square in the shade.
 
- 
- The heart of the city on the Scheldt beats at the 'Grote Markt', an irregularly-shaped square, surrounded by decorative guild housedating from the 16th and 17th century. This square is home to the statue of Brabo. According to a 16th century legend, his action of 'handwerpen' (Dutch for 'flinging your hand') led to the city's name. Silvius Brabo is said to have flung the hand of Antigonus, a giant who terrorized passing ships. The 15th century City Hall on the square shows a successful blend of the Flemish style and Italian Renaissance characteristics. Southeast of the square, you can see the 'Onze Lieve Vrouwe Cathedral', a beautiful Gothic cathedral which will throw the rest of the square in the shade.
+  Antwerp's most famous resident is undoubtedly Pieter Paul Rubens. The painter's, and diplomat's, spirit is present all throughout town. His statue is at the 'Groenplaats' and he was buried at the St Paulus kerk. Many churches are enriched with his paintings. The Rubenshuis, the place where the painter lived and worked, still exudes the grandeur of the height of the Baroque in Antwerp. In the decorative restored Rockoxhuis, Rubens has a substantial presence, together with Jordaens, Matsys and his pupil Van Dyck.
 
+  The city of Rubens is a paradise for museum lovers. The Fine Arts Museum in the south houses over a thousand works by classical painters, including the Flemish Primitives. In addition, you can enjoy over 1500 more recent works. Naturally, this is where you will find the world's most beautiful and largest collection of the work of Antwerpen's great master Rubens. The Museum of Contemporary Art (MUHKA) has a collection of mainly Belgian art from the nineteen-seventies. These are only a few of the museums you will come across on your walk from the central station to the Grote Markt Mayer van den Bergh Museum is dedicated to fine and applied arts, particularly from the 14th to the 16th century. If you are at the Berchem station, make sure you see the Zurenborg district, known for its unique architectural complexities. Nowhere else in Europe than here will you find such a decorative collection of Art Nouveau and Jugendstil houses. 
 
- 
- Antwerp's most famous resident is undoubtedly Pieter Paul Rubens. The painter's, and diplomat's, spirit is present all throughout town. His statue is at the 'Groenplaats' and he was buried at the St Paulus kerk. Many churches are enriched with his paintings. The Rubenshuis, the place where the painter lived and worked, still exudes the grandeur of the height of the Baroque in Antwerp. In the decorative restored Rockoxhuis, Rubens has a substantial presence, together with Jordaens, Matsys and his pupil Van Dyck.
+  The city of diamonds has its main museum in the heart of the diamond district, the streets behind the central station. This part of the city is known as the 'Jerusalem of the North', because it has the largest settlement of Orthodox Jews in this part of Europe. Over 70% of the world's cutting and trading in diamonds takes place in Antwerp. 
 
+  One of the resasons why Antwerp can maintain its world centre position is because of the port's international trade links. A river cruise is definately not to be missed, not only to admire the famous skyline with its antique towers from the water, but also to experience the busy world port from the inside. Those who don't like boats can still enjoy the Scheldt from the unique promenade near the 'Steen'. The Steen is the oldest building within Antwerp and houses the National Maritime Museum with its open-air department exhibiting real ships.
 
- 
- The city of Rubens is a paradise for museum lovers. The Fine Arts Museum in the south houses over a thousand works by classical painters, including the Flemish Primitives. In addition, you can enjoy over 1500 more recent works. Naturally, this is where you will find the world's most beautiful and largest collection of the work of Antwerpen's great master Rubens. The Museum of Contemporary Art (MUHKA) has a collection of mainly Belgian art from the nineteen-seventies. These are only a few of the museums you will come across on your walk from the central station to the Grote Markt Mayer van den Bergh Museum is dedicated to fine and applied arts, particularly from the 14th to the 16th century. If you are at the Berchem station, make sure you see the Zurenborg district, known for its unique architectural complexities. Nowhere else in Europe than here will you find such a decorative collection of Art Nouveau and Jugendstil houses. 
-
-
- 
- The city of diamonds has its main museum in the heart of the diamond district, the streets behind the central station. This part of the city is known as the 'Jerusalem of the North', because it has the largest settlement of Orthodox Jews in this part of Europe. Over 70% of the world's cutting and trading in diamonds takes place in Antwerp. 
-
-
- 
- One of the resasons why Antwerp can maintain its world centre position is because of the port's international trade links. A river cruise is definately not to be missed, not only to admire the famous skyline with its antique towers from the water, but also to experience the busy world port from the inside. Those who don't like boats can still enjoy the Scheldt from the unique promenade near the 'Steen'. The Steen is the oldest building within Antwerp and houses the National Maritime Museum with its open-air department exhibiting real ships.
-
-
- 
- So when your eyes are tired and your feet are raw because of all the miles you have walked, sit down again at the Grote Markt and soak in the atmosphere. Prepare yourself for a night out in the sparkling city with its many names and its slight inferiority complex (Brussels and Bruges still get all the attention). May the beers soothe your tiredness and soften your own dialect.
+  So when your eyes are tired and your feet are raw because of all the miles you have walked, sit down again at the Grote Markt and soak in the atmosphere. Prepare yourself for a night out in the sparkling city with its many names and its slight inferiority complex (Brussels and Bruges still get all the attention). May the beers soothe your tiredness and soften your own dialect.

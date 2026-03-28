@@ -7,8 +7,6 @@ phone: "08542-274653"
 price: "Rs. 40"
 type: "Vegetarian"
 zipcode: "509001"
-latitude: 16.696569
-longitude: 77.959115
 ---
 
 ### [Avanthi Hotel](/europe/norway/oslo/holmekollen/eatingout/avanthi_hotel)

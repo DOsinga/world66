@@ -21,9 +21,5 @@ In **Tunis, family travel** is easy and can be very enjoyable. There are a numbe
 
 **Contributors**
 January 22, 2010
-new
-by [christina tilicki](/member/christina_tilicki)
 
 February 02, 2010
-change
-by [schitti](/member/schitti)

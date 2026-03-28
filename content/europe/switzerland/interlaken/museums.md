@@ -12,8 +12,6 @@ Interlaken has several museums. The most famous one is the Mystery Park.
 
 **Contributors**
 August 20, 2005
-new
-by [modir](/member/modir)
 
 ### Mystery Park
 

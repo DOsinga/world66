@@ -5,8 +5,6 @@ address: "Sorrento"
 phone: "+39 3394999884"
 type: "By Road"
 url: "www.angelodriver.com"
-latitude: 40.624906
-longitude: 14.374836
 ---
 
 Cars, Vans from all aroud Italy ( exemple :from/to Rome airport Fiumocino, Rome Civitavecchia port Florence, Naples Airport Capodichino, Positano, Amalfi, Ravello, Sorrento, Salerno, Paestum, Vietri sul Mare, Praiano etc).
@@ -28,5 +26,3 @@ tel: +39 3394999884
 url: [www.angelodriver.com](http://www.angelodriver.com)
 
 address: Sorrento
-
-[back to Getting There](..)

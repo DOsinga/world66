@@ -1,8 +1,6 @@
 ---
 title: "Madagascar"
 type: location
-latitude: -18.92496
-longitude: 46.441642
 ---
 
 The island of Madagascar, situated off the east coast of Africa, is often considered to be the world’s eighth continent. 
@@ -34,25 +32,3 @@ Happy reading
 Sean Lee (editor – Madagascar section, World66) 
 
 NB: Please note that I am currently updating the whole Madagascar section. Please refer to ‘last update’ situated at the start of each section to see if the page has recently been modified.
-
-## Destinations
-
-- [Ambohimanga](/africa/madagascar/ambohimanga)
-- [Antananarivo](/africa/madagascar/antananarivo)
-- [Antanarivo](/africa/madagascar/antanarivo)
-- [Antsirabe](/africa/madagascar/antsirabe)
-- [Antsiranana](/africa/madagascar/antsiranana)
-- [Canal des pangalanes](/africa/madagascar/canaldespangalanes)
-- [Fianarantsoa](/africa/madagascar/fianarantsoa)
-- [Ihosy](/africa/madagascar/ihosy)
-- [Isalo](/africa/madagascar/isalo)
-- [Mahajanga](/africa/madagascar/mahajanga)
-- [Masoala peninsula](/africa/madagascar/masoalapeninsula)
-- [Morondava](/africa/madagascar/morondava)
-- [Nosy be](/africa/madagascar/nosybe)
-- [Nosy boraha](/africa/madagascar/nosyboraha)
-- [Nosy mangabe](/africa/madagascar/nosymangabe)
-- [Perinet](/africa/madagascar/perinet)
-- [Taolanaro](/africa/madagascar/taolanaro)
-- [Toamasina](/africa/madagascar/toamasina)
-- [Tulear](/africa/madagascar/tulear)

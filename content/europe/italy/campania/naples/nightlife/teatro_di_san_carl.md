@@ -12,8 +12,6 @@ This 1737 theater is one of the most amazing theatres in Italy to see an Opera p
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Opera
 
@@ -26,5 +24,3 @@ url: [www.teatrosancarlo.it](http://www.teatrosancarlo.it)
 address: Via San Carlo 101-103, Toledo, Naples, Italy
 
 email: teatresancarlo@sirioservices.it
-
-[back to Nightlife and Entertainment](..)

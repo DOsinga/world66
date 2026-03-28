@@ -14,8 +14,6 @@ The best option for fresh fish, rice dishes and all the other Japanese food you 
 
 **Contributors**
 July 08, 2006
-new
-by [elmaloso](/member/elmaloso) (2 points)
 
 type: Japanese
 
@@ -30,5 +28,3 @@ tel: 999 948 0385
 address: Calle 19 #106 x 22, Colonia Mexico
 
 PriceOfMenu: not too cheap
-
-[back to Eating Out](..)

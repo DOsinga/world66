@@ -10,8 +10,6 @@ North Avenue Beach is the most popular beach in Chicago. During the summer month
 
 **Contributors**
 June 04, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Going to the Beach
 
@@ -20,5 +18,3 @@ type: Going to the Beach
 tel: 773-327-2706
 
 address: 1600 N. Lake Shore Drive
-
-[back to Things to do](..)

@@ -19,14 +19,10 @@ tel: (414) 278-2702
 
 **Milwaukee Art Museum**
 
-With a history dating back to 1888, the Milwaukee Art Museum's Collection includes nearly 20,000 works. Important artists represented include Winslow Homer, Auguste Rodin, Edgar Degas, Claude Monet, Henri de Toulouse-Lautrec, Pablo Picasso, Jóan Miro, Georgia O'Keeffe, Mark Rothko, Robert Gober and Andy Warhol. [more..](/northamerica/unitedstates/wisconsin/milwaukee/museums/milwaukee_art_muse)
-
-zipcode: 53202
+With a history dating zipcode: 53202
 
 url: [www.mam.org](http://www.mam.org)
 
 address: 700 N. Art Museum Drive
 
 tel: 414-224-3220
-
--->

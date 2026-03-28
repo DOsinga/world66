@@ -7,8 +7,6 @@ phone: "+39 (02) 29522124"
 price: "70 - 130 euro"
 type: "Vegetarian"
 url: "www.joia.it"
-latitude: 45.477142
-longitude: 9.201869
 ---
 
 **Joia is a restaurant to experience as a vegetarian.** For starters the menu is complex with an array of names like 'egg apparent'. And yes its truly a good night out to put your money aside for.
@@ -34,5 +32,3 @@ url: [www.joia.it](http://www.joia.it)
 address: Via Castaldi 18
 
 PriceOfMenu: 70 - 130 euro
-
-[back to Eating Out](..)

@@ -9,5 +9,3 @@ For more information go to [Getting Around in Switzerland](/europe/switzerland/g
 
 **Contributors**
 September 23, 2005
-new
-by [modir](/member/modir)

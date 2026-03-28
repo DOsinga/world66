@@ -1,9 +1,9 @@
 ---
-title: "Lenwade (Great Witchingham) Travel Guide"
+title: "Lenwade (Great Witchingham)"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **LENWADE **is a large hamlet in Norfolk, about 12 miles from [Norwich](/europe/unitedkingdom/england/eastern_england/norwich). Lenwade is sometimes mistook for **GREAT WITCHINGHAM**, a village about 2 miles away which is headquaters for the parish. Lenwade itself has a church, but this has been dissused scince 2006.
 
@@ -20,11 +20,3 @@ There is plenty of places to row and there is also a cricket pitch, which is hom
 **OTHER FACILITIES**
 
 There is a little primary school called Great Witchingham and there is also a bottle bank. There is a massive wooded area that is great for BMX'ing and Mountain Bike and Walking. Also there are two areas where people can fish.
-
-#### Contributors
-
-December 07, 2009 change by [eesti 08](/member/eesti_08)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 17:26

@@ -14,5 +14,3 @@ type: general
 
 
 address: Feldstrasse Ecke Karl-Marx-Strasse
-
-[back to Bars and Cafes](..)

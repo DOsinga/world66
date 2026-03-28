@@ -46,9 +46,5 @@ to buy a Legoland souvenir. Meals and refreshments can be bought from 1 of the r
 
 **Contributors**
 January 28, 2010
-new
-by [jenna storm](/member/jenna_storm)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

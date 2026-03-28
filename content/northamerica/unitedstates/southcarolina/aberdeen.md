@@ -1,0 +1,4 @@
+---
+title: "Aberdeen"
+type: location
+---

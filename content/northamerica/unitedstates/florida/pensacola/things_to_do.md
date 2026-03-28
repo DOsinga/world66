@@ -13,6 +13,4 @@ Check who is in town, many big names perform at the civic center on a regular ba
 
 The art festival is super in the first week of November, and the fireworks are great over the bay in July, and downtown is always decorated for Christmas
 
-Then when you go back to the beach, visit Fort Pickens state park, the Fort is amazing and free guided tours are available, plus you can wander around all you want.
-
-There is so much more, just wanted to put some highlights out there to make the most of your stay.
+Then when you go

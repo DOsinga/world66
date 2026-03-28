@@ -71,8 +71,6 @@ http://www.available-travel.com/Egypt-Sightseeing-Tours/Hurghada-Sightseeing-and
 
 **Contributors**
 April 27, 2011
-new
-by [available](/member/available)
 
 
 
@@ -83,5 +81,3 @@ url: [www.available-travel.com](http://www.available-travel.com/Egypt-Sightseein
 address: 76 Elbahr elazm ST. Giza, Egypt
 
 email: tours@available-travel.com
-
-[back to Day Trips](..)

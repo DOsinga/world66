@@ -11,8 +11,6 @@ The 300-acre Royal Botanic Gardens at Kew features more than 60,0000 species of 
 
 **Contributors**
 May 17, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Other
 
@@ -25,5 +23,3 @@ accessibility: Totally Wheelchair Accessible
 url: [www.kew.org](http://www.kew.org)
 
 address: Royal Botanic Gardens, Wakehurst Place
-
-[back to Things to do](..)

@@ -16,8 +16,6 @@ This is definitely one to go back to. You leave feeling full but not overly stuf
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: International
 
@@ -30,5 +28,3 @@ tel: 313-0652
 address: Calle 69A, #6-19
 
 PriceOfMenu: Moderate
-
-[back to Eating Out](..)

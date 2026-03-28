@@ -1,6 +1,6 @@
 ---
 title: "Provencher"
-type: location
+type: poi
 type: "African"
 ---
 
@@ -10,13 +10,5 @@ restaurants in the city than in the French Quarter?
 
 **Contributors**
 March 30, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 type: African
-
-
-
-
-
-[back to Eating Out](..)

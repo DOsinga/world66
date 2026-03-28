@@ -20,5 +20,3 @@ The winter lights and summer flowers improve the look of the city, dominated by 
 
 **Contributors**
 June 16, 2005
-change
-by [giorgio](/member/giorgio)

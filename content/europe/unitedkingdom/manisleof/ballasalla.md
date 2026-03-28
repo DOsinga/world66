@@ -1,0 +1,4 @@
+---
+title: "Ballasalla"
+type: location
+---

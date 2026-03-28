@@ -1,9 +1,9 @@
 ---
-title: "Narbonne Travel Guide"
+title: "Narbonne"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Narbonne**
 "Crossroads of Southern Europe” is still the slogan that greets your
@@ -21,13 +21,3 @@ said to be one of the best in France. Open every day between 6.00 am and
 fresh local produce including fish and seafood, fruit and vegetables with
 piles of melons, peppers and tomatoes, a large variety of charcuterie
 (cooked meats) and cheese.
-
-*Part or or all of this text stems from the original article at: http://www.south-france-property.net*
-
-#### Contributors
-
-January 09, 2007 new by [huahinhans](/member/huahinhans) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 02:35

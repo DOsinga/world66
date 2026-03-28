@@ -49,5 +49,3 @@ tel: +255 22 2126888 & +255 22 2701800
 url: [www.new.facebook.com](http://www.new.facebook.com/group.php?sid=ab09768b39b99578547ffaccd69712a3&refurl=http%3A%2F%2Fwww.new.facebook.com%2Fs.php%3Fq%3Dalbasha%2Blebanese%2Bresturant%26n%3D-1%26k%3D400000000010%26sf%3Dr%26init%3Dq%26sid%3Dab09768b39b99578547ffaccd69712a3&gid=6031776702)
 
 email: chadi_yah@hotmail.com
-
-[back to Eating Out](..)

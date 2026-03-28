@@ -12,5 +12,3 @@ type: Mediterranean
 
 
 address: Almiral Aixada 7
-
-[back to Eating Out](..)

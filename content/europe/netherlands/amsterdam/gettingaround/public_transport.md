@@ -11,11 +11,3 @@ Do you plan on seeing the sights in Amsterdam for a couple of days? The easiest 
 
 **Contributors**
 July 19, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
-
-
-
-
-
-[back to Getting Around](..)

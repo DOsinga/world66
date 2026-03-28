@@ -1,0 +1,4 @@
+---
+title: "Holyoke"
+type: location
+---

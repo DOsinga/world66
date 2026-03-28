@@ -25,5 +25,3 @@ url: [www.tonyps.com](http://www.tonyps.com)
 address: 4445 Admiralty Way, Marina del Rey, CA 90292
 
 PriceOfMenu: Dinner entrees $10 to $14, kid menu too
-
-[back to Eating Out](..)

@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Find a good place to enjoy a meal? Please send us a description.
@@ -21,6 +21,4 @@ Tel: (867) 979-2860
 
 **Quick Stop Convenience and Coffee Shop . **
 
-Tel: (867) 979-0657 or (867) 979-2961   
-
--->
+Tel: (867) 979-0657 or (867) 979-2961

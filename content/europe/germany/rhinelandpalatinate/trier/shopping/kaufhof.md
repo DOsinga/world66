@@ -16,5 +16,3 @@ type: Shopping centers and malls
 
 
 email:
-
-[back to Shopping](..)

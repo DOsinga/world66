@@ -1,9 +1,9 @@
 ---
-title: "Galesburg Travel Guide"
+title: "Galesburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 <p><strong>Join The Galesburg Historical Society Chocolate Festival</strong></p>
 <br>
@@ -17,9 +17,3 @@ items.</p><br>
 <p><strong>Getting There:</strong></p><br>
 <p>To explore attractions, events, and plan your trip to Galesburg visit
 <a href="http://www.visitgalesburg.com">www.visitgalesburg.com</a>. </p>
-
-*Part or or all of this text stems from the original article at: http://www.usatravelmagazine.com/states/illinois/spice_up_the_year_at_illinois_restaurants.html*
-
-Page last generated on Sat 17:08
-
--->

@@ -1,9 +1,9 @@
 ---
-title: "Ashtarak Travel Guide"
+title: "Ashtarak"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The only major city in the region, this historic town is home to 3
 churches standing, and two in ruins. Built along the Kasagh river
@@ -17,11 +17,3 @@ close to one another on the edge of the gorge and both half ruined have
 seemingly reversed names - as Tsiranavor is white and Spitakavor is
 light orange. Near town, the Ashtaraki Dzor restaurant complex, long
 popular with locals is a must. Go at night to see the entertainment!
-
-#### Contributors
-
-November 12, 2008 new by [raffikojian](/member/raffikojian)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 00:58

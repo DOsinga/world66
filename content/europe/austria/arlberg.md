@@ -1,9 +1,9 @@
 ---
-title: "Arlberg Travel Guide"
+title: "Arlberg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 One of the best ski regions in the world can be found in Austria. Specifically, on the Arlberg at an elevation between 1300 and 2811 meters above sea level. This was the assessment of the experts of Skiresort Service International in their worldwide evaluation. For the 4th time in a row, the Arlberg ranks among the best ski resorts around the globe. The 2006/07 winter season runs from December 2nd, 2006 to April 22nd, 2007.
 
@@ -18,9 +18,3 @@ Even in the SUMMER, the Arlberg is a popular destination for mountain climbers, 
 From comfortable apartments and guesthouses for families to world-class hotels, top-notch ski schools and child care, quaint alpine huts and gourmet restaurants: the Arlberg has it all.
 
 The towns of the Arlberg offer excellent flat rate packages before Christmas, in January and for sunny skiing in April as well as an event calendar packed with high points.
-
-*Part or or all of this text stems from the original article at: http://www.lech-zuers.at*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 17:19

@@ -1,0 +1,4 @@
+---
+title: "Pirules"
+type: location
+---

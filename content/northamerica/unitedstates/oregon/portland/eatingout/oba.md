@@ -20,5 +20,3 @@ tel: 503.228.6161
 url: [www.obarestaurant.com](http://www.obarestaurant.com/)
 
 address: 555 NW 12th Ave. Portland, OR 97209
-
-[back to Eating Out](..)

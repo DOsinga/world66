@@ -9,8 +9,6 @@ This is a great book developed over about 30 years of travel throughout Mexico b
 
 **Contributors**
 January 02, 2006
-new
-by [rickjacobson](/member/rickjacobson)
 
 [](http://www.amazon.com/exec/obidos/ASIN/1566914345/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -19,5 +17,3 @@ by [rickjacobson](/member/rickjacobson)
 author: Carl Franz, et al
 
 isbn: 1566914345
-
-[back to Books](..)

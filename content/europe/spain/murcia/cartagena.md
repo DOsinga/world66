@@ -1,9 +1,9 @@
 ---
-title: "Cartagena Travel Guide"
+title: "Cartagena"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Cartagena**
 The city of Cartagena offers visitors
@@ -127,7 +127,3 @@ naval construction, navigation, submarines, artillery, weapons, ect.
 offers different aspects related to the history of this Arm in the
 city, such as maps, models, miniatures, documents, weapons, uniforms
 and paintings.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 09:07

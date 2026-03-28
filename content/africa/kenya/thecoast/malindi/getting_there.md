@@ -10,5 +10,3 @@ In Mombasa, the stage to Malindi is located on Abdel Nassy Road, which turns int
 We currently have no Getting There listed in Malindi.
 
 If you do know any Getting There in Malindi, please [Add].
-
--->

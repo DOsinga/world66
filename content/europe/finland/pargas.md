@@ -1,8 +1,6 @@
 ---
 title: "Pargas"
 type: location
-latitude: 60.300909
-longitude: 22.302078
 ---
 
 We currently have no information about Pargas.

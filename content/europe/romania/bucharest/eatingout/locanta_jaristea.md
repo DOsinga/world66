@@ -24,5 +24,3 @@ address: Str. George Georgescu nr. 50-52
 PriceOfMenu: medium to high
 
 email: stabiliment@jaristea.ro
-
-[back to Eating Out](..)

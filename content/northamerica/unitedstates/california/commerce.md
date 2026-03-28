@@ -1,9 +1,9 @@
 ---
-title: "Commerce Travel Guide"
+title: "Commerce"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Commerce** is a city in Los Angeles County, California, United States. The population was 12,568 at the 2000 census. It is bordered by Vernon on the west, Los Angeles on the northwest, East Los Angeles on the north, Montebello on the east, Downey and Bell Gardens on the south, and Maywood on the southwest. The Los Angeles River forms part of its southwestern boundary, and the Rio Hondo separates it from Downey. Commerce is served by the Long Beach and Santa Ana freeways, as well as the Metrolink commuter rail service. It is usually referred to as the "City of Commerce" to distinguish it from the common noun.
 
@@ -30,9 +30,3 @@ cities in California that is able to provide its residents with zero-fare
 bus service. As might be expected, residential turnover is low compared
 to surrounding cities, although Commerce has moved from an almost
 exclusively Anglo city at its inception to one that is now overwhelmingly Latino.
-
-*Part or or all of this text stems from the original article at: Wikipedia*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

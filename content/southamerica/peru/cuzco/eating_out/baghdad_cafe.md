@@ -10,8 +10,6 @@ On the Plaza de Armas, next to the Cathedral. Excellent service; the alpaca stea
 
 **Contributors**
 August 23, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: South American
 
@@ -22,5 +20,3 @@ type: South American
 address: plaza de armas
 
 PriceOfMenu: $
-
-[back to Eating Out](..)

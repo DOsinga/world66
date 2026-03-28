@@ -1,0 +1,4 @@
+---
+title: "Kabala"
+type: location
+---

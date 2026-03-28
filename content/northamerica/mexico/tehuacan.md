@@ -1,0 +1,4 @@
+---
+title: "Tehuacan"
+type: location
+---

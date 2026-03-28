@@ -45,8 +45,6 @@ Potamies and finally get to Tzermiado.
 
 **Contributors**
 May 03, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (3 points)
 
 ### [Bus timetable for samos](/europe/greece/crete/lassithi_plateau/getting_there/timetable_agios_ni)
 

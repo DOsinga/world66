@@ -1,0 +1,4 @@
+---
+title: "Malakula"
+type: location
+---

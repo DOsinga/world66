@@ -6,8 +6,6 @@ type: "Going to the Beach"
 
 **Contributors**
 October 14, 2005
-change
-by [allisond](/member/allisond)
 
 ### [Nearby Beaches](/northamerica/unitedstates/georgia/savannah/things_to_do/nearby_beaches)
 

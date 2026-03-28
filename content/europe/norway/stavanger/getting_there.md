@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-## Subsections
+We currently have no Getting There listed in Stavanger.
 
-[By Air](/europe/norway/stavanger/gettingthere/byair)
+If you do know any Getting There in Stavanger, please [Add].

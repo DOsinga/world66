@@ -11,8 +11,6 @@ Observe the polar bears of Churchill in their natural environment. The town of C
 
 **Contributors**
 September 28, 2006
-new
-by [s14tgctc](/member/s14tgctc)
 
 type: Other
 
@@ -23,5 +21,3 @@ tel: 1 800 661-3830
 url: [www.greatcanadiantravel.com](http://www.greatcanadiantravel.com)
 
 email: churchill@gctc-mst.com
-
-[back to Things to do](..)

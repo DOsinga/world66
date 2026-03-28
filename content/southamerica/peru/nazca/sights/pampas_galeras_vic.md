@@ -30,5 +30,3 @@ url: [www.mysteryperu.com](http://www.mysteryperu.com/eng/co_pampa_galeras.html)
 address: Ignacio Morsesky 126
 
 email: mysteryperu@hotmail.com
-
-[back to Sights](..)

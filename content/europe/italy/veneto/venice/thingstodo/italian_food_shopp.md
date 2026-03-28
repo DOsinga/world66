@@ -6,8 +6,6 @@ email: "info@itremercanti.it"
 phone: "+39041522290"
 type: "Other"
 url: "www.itremercanti.it"
-latitude: 45.436315
-longitude: 12.339359
 ---
 
 I tre Mercanti, Ponte della Guerra near San Marco Square
@@ -33,5 +31,3 @@ url: [www.itremercanti.it](http://www.itremercanti.it )
 address: Castello 5364 - 30122 - Venezia
 
 email: info@itremercanti.it
-
-[back to Things to do](..)

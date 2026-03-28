@@ -20,11 +20,4 @@ A favorite of Italians and foreigners alike is Portofino. This fisherman village
 
 **Lake Como**
 
-There are also several lakes in the area that make for very popular day trips. On Lake Como you can visit the Isola Comacina. Take a train from Cadorna Station in Milan to Como at 8:42 or 9:42 a.m. and then catch the 10:30 a.m. or 12 p.m. boat to the island. The boat returns at 4:30 p.m., arriving in Como in time to catch the next train back to Milan. While on the island, be sure to check out the ruins of Saint Giovanni as well as Saint Giacomo and Santa Maria Maddalena, both located in the village.
-
-Make the most of your stay in Milan by spending a few days here and there visiting these beautiful surrounding areas, and you're sure to leave Italy feeling you've seen as much of its history as it has to offer.
-
-**Contributors**
-July 30, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)
+There are also several lakes in the area that make for very popular day trips. On Lake Como you can visit the Isola Comacina. Take a train from Cadorna Station in Milan to Como at 8:42 or 9:42 a.m. and then catch the 10:30 a.m. or 12 p.m. boat to the island. The boat returns at 4:30 p.m., arriving in Como in time to catch the next train

@@ -12,6 +12,3 @@ There are also dozens of great high-end business hotels in the area – if you�
 Going a few blocks is the Convention Center. While the Convention Center is nice, the blocks are VERY, VERY long around there so keep in mind once you’re at the convention center, you need a car or a cab to get out of there. For the adventurist, you can visit the Wholesale/Latino district a few blocks east. During the day, it is teeming with life, south of the border music, and crowded with food and color. It’s an amazing contrast to the sterility of the area around the convention center or the serious suits in downtown. There are some streets you swear that you are in Mexico City or Guatemala. You are expected to speak Spanish but everyone is friendly in the shops and restaurants if you’re a gringo :- ) … this is probably not a neigborhood to wander around along at night – like any big city at night but it’s great fun and good eating during the day.
 
 Further south is USC and the Coliseum.
-
-*Change history*
-Orginal article by [giorgio](/member/giorgio) on 18 March 04

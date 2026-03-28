@@ -28,12 +28,8 @@ type: section
 
 Tolar is no more in use!!!!
 
-*Part or or all of this text stems from the original article at: fbvgoxkj qrkhctfex*
-
 **Contributors**
 December 05, 2007
-change
-by [sieagle](/member/sieagle) (1 point)
 
 **Currency**
 

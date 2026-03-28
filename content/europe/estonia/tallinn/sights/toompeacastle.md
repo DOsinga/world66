@@ -14,5 +14,3 @@ type: Castles & Palaces
 
 
 address: on Toompea Hill
-
-[back to Sights](..)

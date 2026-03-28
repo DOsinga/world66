@@ -10,7 +10,3 @@ address: Simon-Dach-Str.37
 connections: U Frankfurter Tor, S+U Warschauer Str.
 
 openings: Mo-Fr from 2pm, Sa +Su 10am, open end
-
-[back to Eating Out](..)
-
--->

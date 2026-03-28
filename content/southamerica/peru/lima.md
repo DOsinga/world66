@@ -1,8 +1,6 @@
 ---
 title: "Lima"
 type: location
-latitude: -12.045981
-longitude: -77.030591
 ---
 
 The City of Kings Lima (pop. 6 415 000) was founded by Francisco Pizarro in 1535 on 6 January the Epiphany (Feast of the Kings). It was designed to be a purely Spanish city in a conquered territory but it has turned out to be a rather drab and patched-together place—especially after 450 years of earthquakes. 

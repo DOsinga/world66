@@ -15,5 +15,3 @@ type: Clubs
 address: Likourgou-Pindou, Ladadika
 
 tel: +30 31 - 531943
-
-[back to Nightlife and Entertainment](..)

@@ -5,8 +5,6 @@ address: "Basilio Badillo 429 Puerto Vallarta, Jalisco, Mexico"
 email: "gerardo2220@hotmail.com"
 phone: "222 62 33"
 type: "Antiques"
-latitude: 20.602178
-longitude: -105.23684
 ---
 
 Unique Consigment in Puerto Vallarta
@@ -34,5 +32,3 @@ tel: 222 62 33
 address: Basilio Badillo 429 Puerto Vallarta, Jalisco, Mexico
 
 email: gerardo2220@hotmail.com
-
-[back to Shopping](..)

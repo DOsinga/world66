@@ -8,8 +8,6 @@ Banff Museum on the High Street Banff is open during the summer months and is fr
 
 **Contributors**
 January 24, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [Banffshire Maritime and Heritage Museum](/europe/unitedkingdom/scotland/banff/museums/banffshire_maritim)
 

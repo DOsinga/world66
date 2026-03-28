@@ -41,5 +41,3 @@ tel: +36 1 317 1377 +36 1 317 2754
 url: [www.jewish.hu](http://www.jewish.hu)
 
 address: 1074 DohÃ¡ny Street
-
-[back to Things to do](..)

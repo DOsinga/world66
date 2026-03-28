@@ -12,8 +12,3 @@ There is a most fascinating and interesting old town above the modern area, wher
 
 
 http://www.beyond.fr/villages/annot.html
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 November 04
-
--->

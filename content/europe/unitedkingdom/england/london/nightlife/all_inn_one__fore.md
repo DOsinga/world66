@@ -6,8 +6,6 @@ closing_time: "11am"
 email: "allinnone@btconnect.com"
 phone: "020 8699 3311"
 type: "Pubs"
-latitude: 51.438455
-longitude: -0.052413
 ---
 
 Jazz Pub, with Modern Jazz Saturdays and Blues on Thursday nights. Good Wines, Real Ales and the best Sunday Roast in town.
@@ -29,5 +27,3 @@ tel: 020 8699 3311
 ClosingTime: 1am
 
 closingtime: 11am
-
-[back to Nightlife and Entertainment](..)

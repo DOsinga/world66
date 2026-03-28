@@ -21,5 +21,3 @@ Faro has a lively calendar of festivals and events, and there is plenty going on
 
 **Contributors**
 February 07, 2010
-new
-by [lucyb](/member/lucyb)

@@ -16,8 +16,6 @@ If you are a writer, journalist or film maker, we have the experience, contacts 
 
 **Contributors**
 November 25, 2007
-new
-by [wildlife](/member/wildlife)
 
 
 
@@ -28,5 +26,3 @@ url: [www.wildlifeamazon.com](http://www.wildlifeamazon.com)
 address: Coca Ecuador South America
 
 email: robertvaca@wildlifeamazon.com
-
-[back to Tours and Excursions](..)

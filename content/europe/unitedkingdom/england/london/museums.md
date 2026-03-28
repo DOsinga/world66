@@ -18,8 +18,6 @@ For listings of the latest exhibitions, try consulting Time Out (a weekly listin
 
 **Contributors**
 August 23, 2005
-change
-by [brixton_ian](/member/brixton_ian)
 
 ### [The Women's Library
 

@@ -17,9 +17,5 @@ Disco, Easy Rock other Entertainment
 
 **Contributors**
 January 26, 2010
-new
-by [turkeyfish](/member/turkeyfish)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

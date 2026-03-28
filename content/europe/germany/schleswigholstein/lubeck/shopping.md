@@ -66,5 +66,3 @@ tel.: +49 451 75330
 address: Wahmstraße 70
 
 openings: 11am-1pm and 2-6pm Tue-Fri; 11am-2pm Sat and by appointment
-
--->

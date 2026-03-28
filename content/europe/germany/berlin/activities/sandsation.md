@@ -24,12 +24,8 @@ www.sandsation.com/location_en.php
 
 **Contributors**
 June 17, 2006
-new
-by [bernhadette](/member/bernhadette) (5 points)
 
 June 20, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Going to the Beach
 
@@ -42,5 +38,3 @@ url: [www.sandsation.de](http://www.sandsation.de)
 address: Berlin, near the Hauptbahnhof
 
 email: info@sandsation.de
-
-[back to Things to do](..)

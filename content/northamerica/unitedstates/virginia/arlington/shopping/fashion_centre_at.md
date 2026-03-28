@@ -11,8 +11,6 @@ Just across the freeway from the headquarters of the world's most powerful milit
 
 **Contributors**
 December 22, 2006
-new
-by [dkastner](/member/dkastner)
 
 type: Shopping centers and malls
 
@@ -23,5 +21,3 @@ tel: (703) 415-2400
 url: www.simon.com
 
 address: 1100 South Hayes Street Arlington, VA 22202
-
-[back to Shopping](..)

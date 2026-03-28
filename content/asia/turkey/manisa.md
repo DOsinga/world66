@@ -1,0 +1,4 @@
+---
+title: "Manisa"
+type: location
+---

@@ -8,13 +8,5 @@ Olympia an exhibition centre in London, United Kingdom. It opened in the 19th ce
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Convention Center
-
-
-
-
-
-[back to Practical Information](..)

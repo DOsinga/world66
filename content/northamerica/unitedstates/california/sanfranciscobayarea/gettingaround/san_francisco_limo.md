@@ -18,5 +18,3 @@ url: [www.sanfranciscolimo.com](http://www.sanfranciscolimo.com/)
 address: 61 Airport Blvd, Suite H, South San Francisco, CA 94080
 
 email: info@sanfranciscolimo.com
-
-[back to Getting Around](..)

@@ -1,6 +1,6 @@
 ---
 title: "The Edgewater"
-type: location
+type: poi
 accessibility: "Wheel chair accessible"
 address: "8020 Alpine Way"
 email: "info@edgewater-lodge.com"
@@ -8,8 +8,6 @@ phone: "604 932 0688"
 price: "moderate"
 type: "Local"
 url: "www.edgewater-lodge.com"
-latitude: -36.165942
-longitude: 148.065331
 ---
 
 **The Edgewater**
@@ -36,5 +34,3 @@ address: 8020 Alpine Way
 PriceOfMenu: moderate
 
 email: info@edgewater-lodge.com
-
-[back to Eating Out](..)

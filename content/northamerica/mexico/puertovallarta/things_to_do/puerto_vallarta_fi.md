@@ -30,5 +30,3 @@ url: [www.puertovallartafishing.net](http://www.puertovallartafishing.net)
 address: Marina Los Peines
 
 email: info@puertovallartafishing.net
-
-[back to Things to do](..)

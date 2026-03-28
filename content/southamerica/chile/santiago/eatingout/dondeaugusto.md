@@ -17,5 +17,3 @@ type: Italian
 address: Mercado Central
 
 tel: 689-2950
-
-[back to Eating Out](..)

@@ -1,0 +1,4 @@
+---
+title: "Kailua"
+type: location
+---

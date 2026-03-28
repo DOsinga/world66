@@ -14,11 +14,5 @@ college. Not to worry, admission is free.
 
 **Contributors**
 November 30, 2004
-new
-by [frankie_g](/member/frankie_g)
 
 type: Hotspots
-
-
-
-[back to Sights](..)

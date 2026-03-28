@@ -23,11 +23,4 @@ This original capital city of Mexico is known as the "City where the Gods are bo
 
 **Bull Fighting**
 
-It may be rather savage-or at the very least vicious-but a bull fight in Mexico is definitely a one-time must do event. Watch the matador taunt the bull on foot before the picadors ride in on horseback to have a go. The matador's team will eventually aid in the bull's demise with spears to the shoulders before the matador plunges in his sword for the final kill. The only comfort for those sympathetic with the bull is that it lived a longer and more esteemed life than its beef cattle counterparts.
-
-So there you have 5 great Mexico must do's, with many more available to visitors. And whether you're strolling the streets of cities ancient or modern, lounging on the beaches or taking in the local culture, you're sure to enjoy this amazing country.
-
-**Contributors**
-March 01, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)
+It may be rather savage-or at the very least vicious-but a bull fight in Mexico is definitely a one-time must do event. Watch the matador taunt the bull on foot before the picadors ride in on horse

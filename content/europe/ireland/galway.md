@@ -1,8 +1,6 @@
 ---
 title: "Galway"
 type: location
-latitude: 53.274412
-longitude: -9.04906
 ---
 
 Galway City has undergone an unprecedented revival in recent years and is now brimming over with excellent Pubs, Restaurants and super shopping areas. 

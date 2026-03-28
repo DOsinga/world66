@@ -5,8 +5,6 @@ address: "hurghada,egypt"
 email: "tamer@albaraagroup.com"
 phone: "0020100850146"
 url: "www.albaraagroup.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -22,7 +20,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Itinerario
 :
@@ -139,5 +137,3 @@ url: [www.albaraagroup.com](http://www.albaraagroup.com)
 address: hurghada,egypt
 
 email: tamer@albaraagroup.com
-
-[back to Family Travel Ideas](..)

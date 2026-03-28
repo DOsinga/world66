@@ -36,5 +36,3 @@ and hire a driver for your stay in the city.
 
 **Contributors**
 March 21, 2010
-new
-by [benf](/member/benf)

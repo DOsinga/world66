@@ -17,6 +17,4 @@ Panning for gold in California's Gold Country delivers a Mother Lode of fun. Som
 
  * Transfer gold from the pan to a vial. Fill a vial full of water. With a dry fingertip, press on the gold in the pan, then touch gold to the water in the vial and it will fall into the vial. (Be certain you perform the transfer over your pan so you don't risk losing the gold!)
 
- Author and gold prospector Ralph Shock developed the only college-accredited gold-panning course in the world. 
-
--->
+ Author and gold prospector Ralph Shock developed the only college-accredited gold-panning course in the world.

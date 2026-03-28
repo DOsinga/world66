@@ -12,8 +12,6 @@ Located in the Marina International Hotel, Continental fare; open daily for brea
 
 **Contributors**
 December 13, 2006
-new
-by [marinagal](/member/marinagal) (1 point)
 
 type: American
 
@@ -26,5 +24,3 @@ url: [www.marinaintlhotel.com](http://www.marinaintlhotel.com)
 address: 4200 Admiralty Way, Marina del Rey ca
 
 PriceOfMenu: Dinner entrees $8 - $25
-
-[back to Eating Out](..)

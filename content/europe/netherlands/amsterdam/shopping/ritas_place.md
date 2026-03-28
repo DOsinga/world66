@@ -12,8 +12,6 @@ Amsterdam's only specialist boutique and salon for dogs with plenty of gifts for
 
 **Contributors**
 May 12, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -28,5 +26,3 @@ url: [www.ritasplace.com](http://www.ritasplace.com)
 address: Weteringtraat 45
 
 email: ritasplaceamsterdam@gmail.cm
-
-[back to Shopping](..)

@@ -8,13 +8,5 @@ Astroland Amusement Park is an Amusement Park in Coney Island. Also home to the 
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

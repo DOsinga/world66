@@ -26,5 +26,3 @@ url: [http](http://http//www.gardencity.com)
 address: 114 Nene Gardens, Feltham, Middlesex, London- UK, TW13 5PL
 
 email: hobbgee@yahoo.com
-
-[back to Shopping](..)

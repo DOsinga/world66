@@ -33,6 +33,4 @@ url: www.beachboardwalk.com](/northamerica/unitedstates/california/sanfranciscob
 
 Univ. of Calif., Santa Cruz Arboretum
 
-831/427-2998 
-
--->
+831/427-2998

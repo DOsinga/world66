@@ -12,12 +12,8 @@ Really good place to have brunch.
 
 **Contributors**
 June 05, 2005
-change
-by [bering](/member/bering)
 
 June 05, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -34,5 +30,3 @@ tel: 33 11 76 70
 priceofmenu: 70-100 DKK
 
 url: [www.cafeklimt.dk](http://www.cafeklimt.dk/)
-
-[back to Eating Out](..)

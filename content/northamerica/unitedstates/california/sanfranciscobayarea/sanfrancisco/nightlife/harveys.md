@@ -20,5 +20,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#harveys](http://www.sfgaybarlist.com#harveys)
 
 address: 500 Castro St.
-
-[back to Nightlife and Entertainment](..)

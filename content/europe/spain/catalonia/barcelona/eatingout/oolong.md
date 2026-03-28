@@ -15,5 +15,3 @@ type: Vegetarian
 address: C/Gign·s 25
 
 tel: (93) 315 12 59)
-
-[back to Eating Out](..)

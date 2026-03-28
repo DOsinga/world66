@@ -1,0 +1,4 @@
+---
+title: "Warwick"
+type: location
+---

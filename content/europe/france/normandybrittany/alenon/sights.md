@@ -8,5 +8,3 @@ type: section
 
 **Contributors**
 February 26, 2010
-change
-by [normandy](/member/normandy)

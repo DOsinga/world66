@@ -17,5 +17,3 @@ type: Upmarket
 address: DohÃ¡ny u. 5
 
 tel: 122-7806
-
-[back to Eating Out](..)

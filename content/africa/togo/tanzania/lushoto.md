@@ -9,7 +9,4 @@ It offers excellent opportunities for hiking both in the mountains, partly cover
 
 It's a great place to get away from the heat of the coast or the dust of the plains. The people are particularly hospitable and the whole town has a lovely vibe to it. Accomodation in the town centre is cheap and there are some more upmarket options in the surrounding area. A word of warning though, those who suffer vertigo might want to think twice about taking the bus up the perilous road from Mombo!
 
-*Change history*
-Write up by [Ingvar](/member/ingvar) on 12 January 05
-
-Minor corrections by [Ingvar](/member/ingvar) on 14 March 05
+Minor corrections on 14 March 05

@@ -24,5 +24,3 @@ ClosingTime: 02:00
 tel: (+33) 05 59 22 19 90
 
 address: 20 Place Georges Cleamenceau, 64200, Biarritz.
-
-[back to Nightlife and Entertainment](..)

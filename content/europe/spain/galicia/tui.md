@@ -1,8 +1,6 @@
 ---
 title: "Tui"
 type: location
-latitude: 42.050137
-longitude: -8.646641
 ---
 
 **Tui** has a legendary origin, explained by its privileged location
@@ -19,5 +17,3 @@ façade. A spacious cloister was built in the southern part.
 
 **Contributors**
 March 09, 2005
-new
-by [euroadventures](/member/euroadventures)

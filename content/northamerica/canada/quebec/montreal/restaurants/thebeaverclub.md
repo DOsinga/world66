@@ -1,10 +1,6 @@
 ---
 title: "The Beaver Club ."
-type: location
+type: poi
 ---
 
-Tel: 514 861-3511  Address: 900 boulevard Rene Levesque Ouest Montreal QC  
-
-[back to Eating Out](..)
-
--->
+Tel: 514 861-3511  Address: 900 boulevard Rene Levesque Ouest Montreal QC

@@ -14,5 +14,3 @@ zipcode: 97701
 email: sfencer@hotmail.com
 
 address: Bend, OR
-
--->

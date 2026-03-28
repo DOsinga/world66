@@ -8,8 +8,6 @@ Interesting sights in Prefecture of Seres
 
 **Contributors**
 September 17, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ### [The forest of Lailia](/europe/greece/prefecture_of_serr/sights/the_forest_of_lail)
 

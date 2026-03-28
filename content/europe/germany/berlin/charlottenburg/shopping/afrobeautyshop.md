@@ -10,7 +10,3 @@ connection: U+S Zoologischer Garten
 address: Stadtbahnbogen 550
 
 openings: Mo-Fr 10am -6:30pm, Sa 10am -2:30pm
-
-[back to Shopping](..)
-
--->

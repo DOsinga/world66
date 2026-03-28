@@ -25,9 +25,5 @@ If you are a traveler or native to Brazil the short cruises are very affordable 
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 January 11, 2010
-new
-by [turkeyfish](/member/turkeyfish)

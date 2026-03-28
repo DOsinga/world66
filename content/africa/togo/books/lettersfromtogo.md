@@ -18,5 +18,3 @@ author: Susan Louise Blake
 isbn: 0877453403
 
 subject: travel
-
-[back to Books](..)

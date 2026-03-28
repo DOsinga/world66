@@ -12,8 +12,6 @@ One thing you might find out when you get here is that there is a key ceremony t
 
 **Contributors**
 September 07, 2005
-change
-by [meshuganut](/member/meshuganut)
 
 type: Landmarks
 
@@ -26,5 +24,3 @@ url: www.hrp.org.uk
 tel: +44 (0)870 756 6060
 
 address: HM Tower of London, London, EC3N 4AB
-
-[back to Sights](..)

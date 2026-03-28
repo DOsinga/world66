@@ -7,5 +7,3 @@ A Memphis activity must be a trip to The Civil Rights Museum. It is located at t
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

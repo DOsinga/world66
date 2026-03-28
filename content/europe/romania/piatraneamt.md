@@ -1,11 +1,9 @@
 ---
 title: "Piatra neamt"
 type: location
-latitude: 46.931989
-longitude: 26.369505
 ---
 
-Piatra Neamt is the capital of the Neamt region in northeast Romania south of Bukovina. The Neamt county is known as the region with most monasteries per square kilometer in the world. It boasts a rich and varied landscape, with elements of great beauty, and lots of cultural and historical vestiges. The local people are renowned for their hospitality. 
+**Piatra Neamt** is the capital of the Neamt region in northeast Romania south of Bukovina. The Neamt county is known as the region with most monasteries per square kilometer in the world. It boasts a rich and varied landscape, with elements of great beauty, and lots of cultural and historical vestiges. The local people are renowned for their hospitality. 
 
 
 

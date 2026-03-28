@@ -13,8 +13,6 @@ History comes to life in the museums of Mainz, from remains of the Roman empire 
 
 **Contributors**
 May 26, 2007
-new
-by [filminfo](/member/filminfo)
 
 ### [Gutenberg Museum](/europe/germany/rhinelandpalatinate/mainz/museums/gutenberg_museum)
 

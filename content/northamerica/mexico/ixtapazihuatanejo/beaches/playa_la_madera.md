@@ -15,11 +15,3 @@ seafood.
 
 **Contributors**
 August 22, 2005
-new
-by [rickjacobson](/member/rickjacobson)
-
-
-
-
-
-[back to Beaches](..)

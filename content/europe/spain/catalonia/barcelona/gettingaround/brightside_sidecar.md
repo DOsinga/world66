@@ -5,8 +5,6 @@ address: "Barcelona"
 email: "barcelona@ridebrightside.com"
 phone: "0034 627 511 463"
 url: "www.ridebrightside.com"
-latitude: 41.38258
-longitude: 2.177073
 ---
 
 Discover Barcelona in a unique way, cruising on a classic Sidecar motorcycle – a wonderful journey into the authentic sounds, scents and beats of this unforgettable city.
@@ -30,5 +28,3 @@ url: [www.ridebrightside.com](http://www.ridebrightside.com)
 address: Barcelona
 
 email: barcelona@ridebrightside.com
-
-[back to Getting Around](..)

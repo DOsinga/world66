@@ -19,8 +19,6 @@ As you dine the music played at this restaurant either is a band with a deceased
 
 **Contributors**
 June 12, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Mexican
 
@@ -37,5 +35,3 @@ url: [www.moes.com](http://www.moes.com)
 address: 2270 Guadalupe St. Austin
 
 PriceOfMenu: $10 or less
-
-[back to Eating Out](..)

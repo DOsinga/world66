@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 June 10, 2005
-new
-by [hpharmsen](/member/hpharmsen) (1 point)
 
 **Currency**
 

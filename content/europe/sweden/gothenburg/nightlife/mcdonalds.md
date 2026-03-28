@@ -40,9 +40,3 @@ For those of you who aren't adventurous enough to try the local specialities. Or
  Frölunda McDrive
 
  Frölunda Torg
-
- 
-
-[back to Nightlife and Entertainment](..)
-
--->

@@ -1,9 +1,9 @@
 ---
-title: "Livorno Travel Guide"
+title: "Livorno"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Livorno** is a port city on the Ligurian sea.
 It reveals its history through the structure of its neighbourhoods, crossed by canals and surrounded by fortified town walls, through the tangle of its streets, which embroider the town's Venice district, and through the Medici Port characteristically overlooked by towers and fortresses leading to the town centre.
@@ -15,11 +15,3 @@ Montenero,
 placed on a hill that dominates Livorno, is one of the most important places of Tuscany,
 for its sanctuary. The view of the sea, from here, is
 really wonderful! You can arrive in Montenero with a bus, and then you must change with funicular railway.
-
-#### Contributors
-
-November 21, 2008 change by [nadsar](/member/nadsar)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 16:20

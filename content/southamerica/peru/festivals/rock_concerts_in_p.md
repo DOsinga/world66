@@ -11,11 +11,3 @@ Other music stars who have appeared for concerts in Peru recently include Shakir
 
 **Contributors**
 December 19, 2006
-change
-by [approaching genius](/member/approaching_genius) (1 point)
-
-
-
-
-
-[back to Festivals](..)

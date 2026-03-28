@@ -27,5 +27,3 @@ address: 09 anal lane
 PriceOfMenu: $10 handjob $20 blowjob $50 for gay buttsex $100 for everything
 
 email: bigblackdick@upyourass.com
-
-[back to Eating Out](..)

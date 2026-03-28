@@ -11,8 +11,6 @@ At the Medina you can get what most tourists take home as souvenirs: arts and cr
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)
 
 ### [Azzouz. T](/africa/morocco/taza/shopping/azzouz_taiymi)
 

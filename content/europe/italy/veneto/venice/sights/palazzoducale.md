@@ -17,5 +17,3 @@ type: Palaces
 address: Piazza di San Marco, next to the Basilica
 
 openings: daily, summer 9am-7pm; winter 9am-5pm.
-
-[back to Sights](..)

@@ -8,8 +8,6 @@ Krasnoyarsk region offers many interesting options for those who prefer active t
 
 **Contributors**
 September 23, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ### [Travel along the Yenisey](/europe/russia/krasnoyarsk_region/things_to_do/travel_along_the_y)
 

@@ -29,5 +29,3 @@ url: [https:](http://https://www.facebook.com/groups/397642497005406/)
 address: 236 , el cornish st , Al-Azarita
 
 email: blacklightalex@yahoo.com
-
-[back to Nightlife and Entertainment](..)

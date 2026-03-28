@@ -6,8 +6,6 @@ email: "sales@diktynna-travel.gr"
 phone: "+30 28210 41458"
 type: "Hiking"
 url: "www.diktynna-travel.gr"
-latitude: 35.512083
-longitude: 24.019154
 ---
 
 June 26 - July 4, 2010

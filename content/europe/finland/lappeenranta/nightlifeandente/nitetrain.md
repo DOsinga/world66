@@ -1,12 +1,9 @@
 ---
 title: "Nitetrain"
-type: location
+type: poi
 ---
 
 Nitetrain is part of a bigger restaurant chain that has clubs all over Finland.
-
-*Change history*
-Orginal article by [vilpponen](/member/vilpponen) on 19 March 04
 
 address: Kauppakatu 39
 
@@ -19,5 +16,3 @@ closingtime: 04:00
 zipcode: 53100 Lappeenranta
 
 url: [www.nitetrain.fi](http://www.nitetrain.fi/main.cfm?ntcity=lpr)
-
--->

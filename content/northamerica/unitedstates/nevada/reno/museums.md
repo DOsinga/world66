@@ -7,5 +7,3 @@ There are more Reno activities than just gambling. If you like classic cars, the
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

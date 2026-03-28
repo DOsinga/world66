@@ -54,9 +54,5 @@ what activities you like to do to have the most enjoyable trip possible.
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)
 
 February 01, 2010
-new
-by [kat99](/member/kat99)

@@ -24,5 +24,3 @@ url: [ortobotanico.comune.bergamo.it](http://ortobotanico.comune.bergamo.it/)
 address: Scaletta di Colle Aperto, Citta Alta, 24129 Bergamo
 
 email: ortobotanico@comune.bg.it
-
-[back to Sights](..)

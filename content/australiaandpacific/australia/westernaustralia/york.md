@@ -1,9 +1,9 @@
 ---
-title: "York Travel Guide"
+title: "York"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 York is a city located 97km inland from Perth.
 
@@ -21,7 +21,3 @@ Chinese food and alfresco meals at a restored railway carriage by
 the river. Also shops, Antiques, fine furniture and Art Galleries
 and
 two fuel outlets.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 08:27

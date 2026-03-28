@@ -1,0 +1,4 @@
+---
+title: "Weilburg"
+type: location
+---

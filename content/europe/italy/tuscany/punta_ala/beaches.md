@@ -11,8 +11,6 @@ The rocky beaches are in between the sandy beaches and on the points of land tha
 
 **Contributors**
 February 11, 2006
-change
-by [karenbru](/member/karenbru)
 
 ### [Cala Violina](/europe/italy/tuscany/punta_ala/beaches/cala_violina)
 

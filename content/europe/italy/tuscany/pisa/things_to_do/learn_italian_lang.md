@@ -6,8 +6,6 @@ email: "info@centropuccini.it"
 phone: "++39 0584 430253"
 url: "www.centropuccini.it"
 zipcode: "I-55049"
-latitude: 43.7963
-longitude: 11.196193
 ---
 
 Centro giacomo Puccini, founded in 1988, was one of the first **schools of Italian in Italy and in Tuscany**.

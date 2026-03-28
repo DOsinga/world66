@@ -18,5 +18,3 @@ tel: 305-664-8135
 url: [www.caribseasportfish.com](http://www.caribseasportfish.com)
 
 email: booking @ caribseasportfish.com
-
-[back to Things to do](..)

@@ -26,5 +26,3 @@ accessibility: good with secure parking
 PriceOfMenu: 50-12-
 
 email:
-
-[back to Eating Out](..)

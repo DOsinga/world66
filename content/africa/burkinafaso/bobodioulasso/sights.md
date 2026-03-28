@@ -16,5 +16,3 @@ This a place to experience some old French colonial feeling.
 **Grande Mosquée**
 
 The mosque is built in the tradional way of Sudan. Guides are available.
-
--->

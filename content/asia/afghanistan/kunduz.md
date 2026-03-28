@@ -1,0 +1,4 @@
+---
+title: "Kunduz"
+type: location
+---

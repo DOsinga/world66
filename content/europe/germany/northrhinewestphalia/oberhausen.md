@@ -1,0 +1,4 @@
+---
+title: "Oberhausen"
+type: location
+---

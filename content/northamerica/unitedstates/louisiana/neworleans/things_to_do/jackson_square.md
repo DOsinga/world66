@@ -9,8 +9,6 @@ Founded in 1718, Jackson Square is home to a large number of New Orleans histori
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -19,5 +17,3 @@ type: Other
 
 
 address: In the heart of the French Quarter
-
-[back to Things to do](..)

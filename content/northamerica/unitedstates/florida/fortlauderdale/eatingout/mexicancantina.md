@@ -13,5 +13,3 @@ type: Mexican
 address: 2870 E Sunrise Blvd
 
 tel: (954) 565-3839
-
-[back to Eating Out](..)

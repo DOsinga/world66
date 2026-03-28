@@ -1,0 +1,4 @@
+---
+title: "Bejaia"
+type: location
+---

@@ -33,5 +33,3 @@ type: Shopping centers and malls
 
 
 email: giftsflowers2010@gmail.com
-
-[back to Shopping](..)

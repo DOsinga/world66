@@ -18,5 +18,3 @@ address: 3801 W Government Way
 tel: (206)386-4236
 
 url: [www.cityofseattle.net](http://www.cityofseattle.net/parks/Environment/discovparkindex.htm)
-
-[back to Sights](..)

@@ -3,10 +3,6 @@ title: "Enewetok atoll"
 type: location
 ---
 
-## Destinations
+## Destinations in Enewetok atoll
 
 [Enewetok](/australiaandpacific/marshallislands/enewetokatoll/enewetok)
-
-## Destinations
-
-- [Enewetok](/australiaandpacific/marshallislands/enewetokatoll/enewetok)

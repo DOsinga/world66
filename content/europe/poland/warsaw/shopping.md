@@ -3,16 +3,12 @@ title: "Shopping"
 type: section
 address: "Koło"
 type: "Antiques"
-latitude: 52.198394
-longitude: 18.635756
 ---
 
 Shop till you drop!
 
 **Contributors**
 March 12, 2006
-new
-by [j wojtynski](/member/j_wojtynski)
 
 ### [Flea Market](/europe/poland/warsaw/shopping/flea_market)
 
@@ -31,17 +27,10 @@ type: Antiques
 
 address: Koło
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

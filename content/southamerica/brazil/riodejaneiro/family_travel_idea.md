@@ -17,5 +17,3 @@ Though it is wise to book a Rio Janeiro Hotel online, it is still recommended to
 
 **Contributors**
 September 04, 2009
-new
-by [lirankosman](/member/lirankosman)

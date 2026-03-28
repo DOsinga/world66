@@ -11,11 +11,6 @@ Most establishments will attempt to lure in the passing trade with promises of f
 
 Just off the street, to the left of the entrance and on the western edge of Parque Kennedy, a good Chinese will stuff you full of decent cuisine for a fair price, and is a pleasant place to eat, especially if you can sit near the entrance, where one can watch the Park light up at night through the waterfall-windows.
 
-*Change history*
-Orginal article by [Puggers](/member/puggers) on 16 November 04
-
-Minor corrections by [Puggers](/member/puggers) on 16 November 04
+Minor corrections on 16 November 04
 
 address: Parque Kennedy
-
--->

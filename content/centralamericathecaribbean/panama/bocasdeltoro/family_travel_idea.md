@@ -45,14 +45,3 @@ flora, plants, and the importance of the environment. Easy, accessible trails le
 into the forest where you can get out of the hot sun for a bit. Snap pictures
 of the wildflowers and tropical birds to email back home at one of the internet
 cafes, also located at Old Point. You can get snacks and drinks for the ride
-back to the mainland.
-
-**Shopping**
-
-Get off the beach for an afternoon and take your kids
-shopping. In the city center you’ll find an array of craft markets and clothing
-stores with dirt cheap prices. If you’re coming in August, this might be a good
-time to get your kids back-to-school clothes at a discounted price. And, better
-yet, the Dad who hates to shop won’t find himself stranded on a mall bench. He
-can take a stroll through the streets and look at some of the ancient Boca del
-Toros historical statues.

@@ -1,0 +1,6 @@
+---
+title: "Avebury"
+type: location
+---
+
+**Avebury** is a village in Wiltshire, [England](/europe/unitedkingdom/england), famous for its neolithic stone circles.

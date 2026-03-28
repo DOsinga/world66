@@ -1,0 +1,4 @@
+---
+title: "Exeter"
+type: location
+---

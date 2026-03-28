@@ -10,8 +10,6 @@ Therefore the concept of a bar in Italy includes a happy feeling that can involv
 
 **Contributors**
 July 10, 2005
-new
-by [karenbru](/member/karenbru) (1 point)
 
 ### [Bar Funicolare](/europe/italy/lombardia/bergamo/bars_and_cafes/bar_funicolare)
 
@@ -221,17 +219,10 @@ tel: 035.211556/Fax 035 4131474
 
 address: Via Borfuro, 6(in the Piazza), 24100 Bergamo
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

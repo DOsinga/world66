@@ -1,7 +1,9 @@
 ---
-title: "Carunchio Travel Guide"
+title: "Carunchio"
 type: location
 ---
+
+Travel Guide
 
 This is a peaceful quiet town where the church bells tell the time on the top of the hill. Noteworthy: Palazzo Tour D'Eau restaurant and hotel, where the owners speak English, www.palazzotd.com, and the main church San Giovanni Battista with its famous organ built in 1692, open for mass every Sunday morning.
 
@@ -15,5 +17,3 @@ Close by there is an amazing sanctuary with a 12th century church called "Madonn
 
 **Contributors**
 May 01, 2007
-change
-by [giorgio](/member/giorgio)

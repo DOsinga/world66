@@ -1,9 +1,9 @@
 ---
-title: "Sapulpa Travel Guide"
+title: "Sapulpa"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located on Historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m), the county seat of Creek County, Oklahoma, Sapulpa is a city of over 19,000 people. From the Indian Territory history to the Glenpool oil strike, from Railroad town to brick and glass manufacturing, Sapulpa has been shaped by many diverse influences over the years. The Sapulpa Main Street project and other efforts have ensured that the distinctive character of Sapulpa's downtown district, most of which was built before the 1920s, will remain for locals and tourists to appreciate.
 
@@ -17,11 +17,3 @@ For more information on Sapulpa, OK, check out the following Web sites:
 Sapulpa Chamber of Commerce: http://www.sapulpachamber.com/
 Sapulpa Main Street: http://www.sapulpamainstreet.com/
 Wikipedia: Sapulpa, Oklahoma: http://en.wikipedia.org/wiki/Sapulpa,_Oklahoma
-
-#### Contributors
-
-December 22, 2006 change by [approaching genius](/member/approaching_genius) (5 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 20:49

@@ -23,5 +23,3 @@ There are various other places to enjoy and party at night in the city which mak
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)

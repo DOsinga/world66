@@ -15,5 +15,3 @@ type: Bars & Cafes
 address: 3850 Noriega St
 
 tel: (415) 665-2424
-
-[back to Nightlife and Entertainment](..)

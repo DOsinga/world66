@@ -14,5 +14,3 @@ type: Caribbean
 
 
 address: 4405 W. Tradewinds Ave. (E. Commercial Blvd.)
-
-[back to Eating Out](..)

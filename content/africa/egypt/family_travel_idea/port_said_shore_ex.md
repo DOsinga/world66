@@ -5,8 +5,6 @@ address: "Hurghada,Egypt"
 email: "info@albaraagroup.com"
 phone: "0020100850146"
 url: "www.albaraagroup.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 PORT SAID EGYPT
@@ -69,5 +67,3 @@ url: [www.albaraagroup.com](http://www.albaraagroup.com)
 address: Hurghada,Egypt
 
 email: info@albaraagroup.com
-
-[back to Family Travel Ideas](..)

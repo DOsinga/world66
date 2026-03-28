@@ -20,5 +20,3 @@ tel: 07252 52005
 address: Volksstraße 5, A-4400 Steyr
 
 tel: 07252 53264
-
--->

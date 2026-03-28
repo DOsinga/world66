@@ -21,5 +21,3 @@ Brazil touts celebrations of unruly revelry, religious rituals, and cultural tra
 
 **Contributors**
 March 15, 2010
-change
-by [kellercr](/member/kellercr)

@@ -21,5 +21,3 @@ choirs; native art and carving.
 
 
 url: www.tourismvictoria.com
-
-[back to Events](..)

@@ -12,8 +12,6 @@ The park is located just 3 minutes from Noumea’s centre, and can be reached by
 
 **Contributors**
 February 28, 2005
-new
-by [giorgio](/member/giorgio)
 
 type: Parks, Gardens and Zoos
 
@@ -24,5 +22,3 @@ type: Parks, Gardens and Zoos
 url: [www.parcforesteir.com.nc](http://www.parcforesteir.com.nc)
 
 tel: 687 27 89 51
-
-[back to Sights](..)

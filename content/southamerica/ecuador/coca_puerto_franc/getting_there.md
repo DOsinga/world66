@@ -15,6 +15,3 @@ be checked and you may be patted down by uniformed military
 police. In my experience most women were spared the full search,
 but all men, local or tourist, were required to "spread 'em" against
 the bus.
-
-*Change history*
-Orginal article by [backpack](/member/backpack) on 18 March 05

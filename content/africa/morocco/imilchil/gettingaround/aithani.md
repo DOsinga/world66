@@ -7,9 +7,3 @@ type: "general"
 Thursday
 
 type: general
-
-
-
-
-
-[back to Getting Around](..)

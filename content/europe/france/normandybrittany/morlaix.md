@@ -1,0 +1,4 @@
+---
+title: "Morlaix"
+type: location
+---

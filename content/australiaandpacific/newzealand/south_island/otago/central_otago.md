@@ -8,8 +8,3 @@ type: location
 [Queenstown](/australiaandpacific/newzealand/queenstown)
 
 [Wanaka](/australiaandpacific/newzealand/wanaka)
-
-*Change history*
-Orginal article by [Huttite](/member/huttite) on 11 January 05
-
--->

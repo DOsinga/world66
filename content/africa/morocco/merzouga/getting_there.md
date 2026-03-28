@@ -17,4 +17,4 @@ If you are coming in from Fez, you will need to drive south to reach Erfoud. It 
 
 **By Taxi**
 
-You can take a share taxi form Rissani to Merzouga; this will cost you approximately 12 Dihrams. However, if you do not want to share the taxi, you will have to pay 60 Dihrams. You might want to avoid the guides in Erfoud and Rissani who promise to get you to Merzouga for 5 Dihrams. They will leave you stranded, and it will cost you a lot to get back to town.
+You can take a share taxi form Rissani to Merzouga; this will cost you approximately 12 Dihrams. However, if you do not want to share the taxi, you will have to pay 60 Dihrams. You might want to avoid the guides in Erfoud and Rissani who promise to get you to Merzouga for 5 Dihrams. They will leave you stranded, and it will cost you a lot to get

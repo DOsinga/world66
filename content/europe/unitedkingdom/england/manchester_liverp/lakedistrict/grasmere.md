@@ -9,5 +9,3 @@ The Website for Dove Cottage and the Wordsworth Museum is www.wordsworth.org.uk
 
 **Contributors**
 December 07, 2004
-new
-by [davidx](/member/davidx)

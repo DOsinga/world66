@@ -15,5 +15,3 @@ Just over the hill from Stoupa Beach, is another favorite spot called Kalogria B
 
 **Contributors**
 April 19, 2010
-new
-by [suegabel](/member/suegabel)

@@ -10,8 +10,6 @@ Visit Cape Cornwall,which (since it is not the furthest west or south or anythin
 
 **Contributors**
 April 14, 2008
-new
-by [davidx](/member/davidx)
 
 ### [Tin mining remains](/europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith/things_to_do/tin_mining_remains)
 

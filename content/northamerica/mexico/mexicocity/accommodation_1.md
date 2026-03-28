@@ -5,8 +5,6 @@ type: location
 
 **Contributors**
 January 16, 2009
-change
-by [fabiana](/member/fabiana_)
 
 We currently have no Accommodation listed in Mexico City.
 

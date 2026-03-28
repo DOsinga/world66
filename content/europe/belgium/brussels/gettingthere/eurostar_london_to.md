@@ -12,13 +12,5 @@ Don't be afraid to WALK from the station. To get to the Grand Place will take no
 
 **Contributors**
 June 09, 2005
-new
-by [dvsboy](/member/dvsboy)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

@@ -13,5 +13,3 @@ No website is available yet.
 
 **Contributors**
 February 08, 2006
-new
-by [allamericanbear](/member/allamericanbear)

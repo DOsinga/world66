@@ -60,5 +60,3 @@ here in Werth and Werth.
 
 **Contributors**
 March 31, 2010
-new
-by [kwalker](/member/kwalker)

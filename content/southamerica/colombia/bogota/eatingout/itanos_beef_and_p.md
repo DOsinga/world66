@@ -12,8 +12,6 @@ A couple of locations in Bogota.
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: Italian
 
@@ -22,5 +20,3 @@ type: Italian
 tel: 345-9010
 
 address: Carrera 9, #70-34
-
-[back to Eating Out](..)

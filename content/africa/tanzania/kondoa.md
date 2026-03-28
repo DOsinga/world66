@@ -1,8 +1,6 @@
 ---
 title: "Kondoa"
 type: location
-latitude: -4.643114
-longitude: 35.95904
 ---
 
 Kondoa (or Kondoa-Irangi) is a small town along the old caravan route from the Indian Ocean to Lake Tanganyika. A still existing artesic water source here provided the caravans with good and plenty of water. Today the main communication route is north-south, from Arusha to Dodoma, a road that looks impressive on the map, being a section of the old Cape-Cairo highway. In reality the road is in poor condition and difficult during rains. It is supposed to become asphalted before the end of 2006.
@@ -17,7 +15,4 @@ The Irangi Hills are also infamous for their severe soil erosion. Some badlands 
 
 Moslem visitors will feel at home in Kondoa. A big new mosque was erected some years ago. Christian congregations mainly consist of immigrants and government officials. At Haubi there is an impressive Catholic establishment.
 
-**Change history**
-Orginal article by [Ingvar](/member/ingvar) on 13 February 05
-
-Minor corrections by [Ingvar](/member/ingvar) on 14 March 05
+Minor corrections on 14 March 05

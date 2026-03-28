@@ -11,8 +11,6 @@ The nightlife in Edgartown is quiet, even during the peak season. But there are 
 
 **Contributors**
 November 01, 2005
-new
-by [blink](/member/blink)
 
 ### [David Ryan's](/northamerica/unitedstates/massachusetts/marthasvineyard/edgartown/nightlife_and_ente/david_ryans)
 

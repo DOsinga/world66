@@ -1,9 +1,9 @@
 ---
-title: "Cusuco National Park Travel Guide"
+title: "Cusuco National Park"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The National Park of Cusuco is situated in the Northwest of the Central American country of Honduras. Cusuco National Park, covering a total area of 23,440 hectares divided in to a 7,690 hectares core zone and a 15,750 hectares buffer zone, is one of the remaining island of Central American Montane forests in the region.
 
@@ -19,7 +19,3 @@ Night tours
 Birdwatching
 Waterfall rappelling
 Social bonding with all the mountain villages and much more!
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 16:42

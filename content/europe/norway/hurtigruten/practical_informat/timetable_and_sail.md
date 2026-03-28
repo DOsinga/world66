@@ -9,8 +9,6 @@ Underneath you will find Hurtigrutens actual timetable. Please click the url bel
 
 **Contributors**
 March 12, 2006
-new
-by [hollandtraveler](/member/hollandtraveler) (2 points)
 
 type: Tourist information
 
@@ -19,5 +17,3 @@ type: Tourist information
 
 
 url: www.hurtigruten.com
-
-[back to Practical Information](..)

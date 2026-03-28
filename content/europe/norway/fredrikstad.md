@@ -1,0 +1,4 @@
+---
+title: "Fredrikstad"
+type: location
+---

@@ -23,5 +23,3 @@ Suplicy Cafe
 
 **Contributors**
 January 08, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

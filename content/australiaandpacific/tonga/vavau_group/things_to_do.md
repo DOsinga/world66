@@ -11,5 +11,3 @@ If you are adventureous there is a bar at the bottom of the hill from Neiafu. it
 
 **Contributors**
 January 06, 2005
-new
-by [giorgio](/member/giorgio) (1 point)

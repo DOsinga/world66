@@ -35,9 +35,5 @@ There are plenty of places to eat out in Albufeira without blowing the holiday b
 
 **Contributors**
 January 17, 2010
-change
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

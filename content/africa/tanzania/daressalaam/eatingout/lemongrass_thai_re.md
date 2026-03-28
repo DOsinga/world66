@@ -17,5 +17,3 @@ type: African
 address: Old Bagamoyo Road, Near Morocco
 
 PriceOfMenu: About 10,000 per person
-
-[back to Eating Out](..)

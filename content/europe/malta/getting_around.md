@@ -8,8 +8,6 @@ Please find practical information on transport below.
 
 **Contributors**
 August 09, 2006
-change
-by [reen](/member/reen)
 
 ### [By bus](/europe/malta/getting_around/by_bus)
 

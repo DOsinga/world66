@@ -15,5 +15,3 @@ type: Bars & Cafes
 address: 8505 Mills Dr
 
 tel: 305-274-4948
-
-[back to Nightlife and Entertainment](..)

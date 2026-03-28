@@ -7,4 +7,4 @@ Toulouse is one of the most stylish cities of Southern France. Situated between 
 
  Over the past centuries the city of Toulouse has become home to a growing collection of monuments, fine edifices and works of art, which stand as witnesses of its diverse culture and stimulate the curiosity of its visitors.
 
- The most important are the Capitol with the City Hall, the Archives Tower and the  courtyard of Henri IV., the Basilica of Saint Sernin, the Jacobin Monastery (dating back to 1275) and the Hotel de Bernuy, a sumptuous Renaissance home of the pastel merchant Jean de Bernuy (1504-1530).
+ The most important are the Capitol with the City Hall, the Archives Tower and the  courtyard of Henri IV., the Basilica of Saint Sernin, the Jacobin Monastery (dating

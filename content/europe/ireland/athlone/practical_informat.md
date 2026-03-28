@@ -11,5 +11,3 @@ in Ireland, in Dublin precisely.
 
 **Contributors**
 August 02, 2005
-change
-by [paologiovanni](/member/paologiovanni)

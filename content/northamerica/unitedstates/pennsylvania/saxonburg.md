@@ -37,11 +37,8 @@ http://www.digital-neighbors.com/city/pa/saxonburg395.htm
 
 The original version of this writeup can be found at http://everything2.org/index.pl?node_id=1391171.
 
-*Change history*
-Orginal article by [McCart42](/member/mccart42) on 05 May 04
+Write up on 05 May 04
 
-Write up by [McCart42](/member/mccart42) on 05 May 04
+Write up on 05 May 04
 
-Write up by [McCart42](/member/mccart42) on 05 May 04
-
-Write up by [McCart42](/member/mccart42) on 05 May 04
+Write up on 05 May 04

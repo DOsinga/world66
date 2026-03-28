@@ -10,8 +10,6 @@ Fun for the kids
 
 **Contributors**
 July 30, 2009
-new
-by [mantecacvb](/member/mantecacvb)
 
 ### [Big League Dreams](/northamerica/unitedstates/california/centralvalley/manteca/family_travel_idea/big_league_dreams)
 

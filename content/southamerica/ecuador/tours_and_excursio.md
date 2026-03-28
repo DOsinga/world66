@@ -7,7 +7,41 @@ Ecuador tours can be done in short amounts of time, 1 week can show you some of 
 
 Ecuador is full of contrasts in a relatively small space, this is what makes it simply magical. In a few words Ecuador is "South America in a nutshell". Divided in 4 geographical regions: in the Coast the splendour of its beaches awaits you; the "Avenue of the Volcanoes" in the Andean Sierras; the emerald forest in the Amazon and the enchanting Galapagos Islands.
 
-****
+**all**
+
+**Ecuador Amazon Cruises and Tours**
+
+Riverboat cruises in the Amazon basin of Ecuador, join us on board our Manatee Amazon Explorer on our weekly departures in search of wildlife in the worlds largest rainforest, you will be in company of naturalist guides as you explore the tropical jungles by the Equator.
+
+bookingurl: [www.amazoncruise.net/amazon%20cruise%20ecuador.htm](http://www.amazoncruise.net/amazon%20cruise%20ecuador.htm)
+
+email: reservations@latintrails.com
+
+address: Av. Ruminahui 221, Quito - Ecuador
+
+tel: 1-800-747-0567
+
+**Ecuador tour operator, travel wholesaler and adventure outfitter guide**
+
+Tours, travel and adventure suppliers directory that will assist you in finding tour operators and outfitters for all regions of the country
+
+bookingurl: [southamericatour.net/ecuador-tours.htm](http://southamericatour.net/ecuador-tours.htm)
+
+email: editor@southamericatour.net
+
+address: 6 de Diciembre y el Telegrafo, Edif. Garcia Ayala, 2do piso Suite 402
+
+**Ecuador travel planner**
+
+Ecuador tours and travel planner for the Andes, the Amazon rainforest and the Galapagos Islands, general information for hotels, cruise boats, culture, nature and wildlife. Activity suggestions and popular site descriptions and itineraries.
+
+bookingurl: [www.traveltoecuador.net](http://www.traveltoecuador.net)
+
+email: reservations@latintrails.com
+
+address: Av. Ruminahui 221, Quito - Ecuador
+
+tel: 1-800-747-0567
 
 **Travel to Ecuador Tours**
 

@@ -11,8 +11,6 @@ District combines distinctive flavors and styles to your tradition Phoenix resta
 
 **Contributors**
 April 30, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: American
 
@@ -23,5 +21,3 @@ accessibility: MON-SUN 6:30 am-10:00 pm
 tel: 602-817-5400
 
 address: 320 North Third Street Phoenix, AZ 85004
-
-[back to Eating Out](..)

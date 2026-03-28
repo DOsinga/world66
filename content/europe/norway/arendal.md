@@ -1,0 +1,4 @@
+---
+title: "Arendal"
+type: location
+---

@@ -23,5 +23,3 @@ tel: 2059822
 accessibility: facecontrol
 
 address: Trehgorny val, 6
-
-[back to Nightlife and Entertainment](..)

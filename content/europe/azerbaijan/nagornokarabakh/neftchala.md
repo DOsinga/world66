@@ -1,9 +1,9 @@
 ---
-title: "Neftchala Travel Guide"
+title: "Neftchala"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Neftchala Rayon
 For the district center, see Neftçala.
@@ -32,9 +32,3 @@ Year 1979 1989 1999 2009
 City 22400 25300 32300 37900
 Rural 31000 34800 39200 41700
 Total 53400 60100 71500 79600
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Neftchala_Rayon*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 13:49

@@ -26,8 +26,6 @@ All in all, a trip to Joe's is an experience worth the price.
 
 **Contributors**
 May 21, 2006
-new
-by [elmaloso](/member/elmaloso)
 
 type: Seafood
 
@@ -38,5 +36,3 @@ type: Seafood
 tel: (702) 792-9222
 
 address: 3500 Las Vegas Blvd S # R05
-
-[back to Eating Out](..)

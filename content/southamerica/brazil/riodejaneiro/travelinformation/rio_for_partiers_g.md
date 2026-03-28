@@ -20,8 +20,6 @@ http://www.prweb.com/releases/2009/01/prweb1838454.htm
 
 **Contributors**
 January 08, 2009
-new
-by [liamodena](/member/liamodena)
 
 type: Libraries, books and papers
 
@@ -32,5 +30,3 @@ tel: 55 21 25239857
 url: [www.rioforpartiers.com](http://www.rioforpartiers.com)
 
 email: marketing@rioforpartiers.com
-
-[back to Practical Information](..)

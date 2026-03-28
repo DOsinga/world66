@@ -1,0 +1,4 @@
+---
+title: "Homestead"
+type: location
+---

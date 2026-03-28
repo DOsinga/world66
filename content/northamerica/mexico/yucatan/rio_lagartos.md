@@ -1,9 +1,9 @@
 ---
-title: "Rio lagartos Travel Guide"
+title: "Rio lagartos"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ** M ** i nombre es **Elmer Canul**. Ese soy yo en el motor de la derecha. Te invito a mi ciudad hermosa, pequeña y pacífica, el pueblo donde he nacido y han vivido siempre, ** Río Lagartos, Yucatán, México .**
 
@@ -29,11 +29,3 @@ correo electrónico: elmer_flamingos@hotmail.com
 Nuevo Restaurante "La Torrejón"
 Calle 9 # 105 x 14 50 metros antes de la casa de la luz.
 Río Lagartos, Yucatán, México 97720
-
-#### Contributors
-
-May 31, 2007 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 17:57

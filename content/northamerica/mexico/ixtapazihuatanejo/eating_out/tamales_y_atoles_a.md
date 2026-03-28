@@ -35,8 +35,6 @@ Credit Cards: No
 
 **Contributors**
 September 11, 2005
-change
-by [rickjacobson](/member/rickjacobson)
 
 type: Mexican
 
@@ -49,5 +47,3 @@ tel: 554-7373
 address: Calle Ejido 38, at Calle Vicente Guerrero
 
 PriceOfMenu: $2-$10
-
-[back to Eating Out](..)

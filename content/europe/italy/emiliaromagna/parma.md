@@ -1,0 +1,4 @@
+---
+title: "Parma"
+type: location
+---

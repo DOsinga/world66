@@ -10,5 +10,3 @@ and Old Town Trolly and DC Ducks (see www.historictours.com/washington).
 
 **Contributors**
 October 14, 2005
-change
-by [patrickneil](/member/patrickneil)

@@ -9,8 +9,6 @@ This fountain is a memorial to the 4,000 Clevelanders who perished in World War 
 
 **Contributors**
 April 06, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Fountains and statues
 
@@ -19,5 +17,3 @@ type: Fountains and statues
 
 
 address: Civic Center
-
-[back to Sights](..)

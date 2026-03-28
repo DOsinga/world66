@@ -24,8 +24,6 @@ Tickets for these events will be available at the venue box offices in late Marc
 
 **Contributors**
 March 12, 2009
-new
-by [heavy metal poet](/member/heavy_metal_poet)
 
 ### [Rainbow Ryders Balloon Company](/northamerica/unitedstates/newmexico/albuquerque/things_to_do/rainbow_ryders_bal)
 

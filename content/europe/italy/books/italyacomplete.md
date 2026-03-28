@@ -7,9 +7,6 @@ isbn: "8836527469"
 
 Title says it all.
 
-*Change history*
-Orginal article by [JoeTravel](/member/joetravel) on 24 March 04
-
-Minor corrections by [JoeTravel](/member/joetravel) on 24 March 04
+Minor corrections on 24 March 04
 
 [](http://www.amazon.com/exec/obidos/ASIN/8836527469/osingacom?creative=125581&camp=2321&link_code=as1)

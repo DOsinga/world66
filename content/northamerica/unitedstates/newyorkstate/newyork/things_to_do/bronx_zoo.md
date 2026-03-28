@@ -11,8 +11,6 @@ The Bronx Zoo is the largest metropolitan zoo in the United States. The Bronx Zo
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -25,5 +23,3 @@ tel: 718-367-1010
 url: [www.bronxzoo.com](http://www.bronxzoo.com)
 
 address: 2300 Southern Boulevard
-
-[back to Things to do](..)

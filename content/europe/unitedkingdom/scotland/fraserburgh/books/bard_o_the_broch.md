@@ -8,13 +8,9 @@ Local best selling book, an essential guide for tourists, shows all the interest
 
 **Contributors**
 July 09, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 
 
 
 
 author: Stanley Bruce
-
-[back to Books](..)

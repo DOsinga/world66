@@ -10,5 +10,3 @@ Being the first ever book to reveal the hidden strategy of the rich class to ste
 isbn: 0595662080
 
 author: Ralph T. Niemeyer
-
--->

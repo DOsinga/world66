@@ -1,0 +1,4 @@
+---
+title: "Bannu"
+type: location
+---

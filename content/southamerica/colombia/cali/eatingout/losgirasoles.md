@@ -17,5 +17,3 @@ type: general
 address: Avenida 6 N y Calle 35
 
 tel: 92--6684646
-
-[back to Eating Out](..)

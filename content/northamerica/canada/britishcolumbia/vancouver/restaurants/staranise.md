@@ -1,6 +1,6 @@
 ---
 title: "Star Anise"
-type: location
+type: poi
 type: "general"
 ---
 

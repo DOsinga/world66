@@ -15,5 +15,3 @@ type: Bars
 address: Puerto Marina Botafoch
 
 tel: (+34) 971 19 22 43
-
-[back to Nightlife and Entertainment](..)

@@ -16,7 +16,3 @@ Situated in the centre of the medieval city the San Lorenzo Cathedral is surroun
 **The lighthouse symbol of the city**
 
  "La Lanterna", the lighthouse symbol of the city, is easily visible from many viewpoints. Considering that it was and still is the port beacon, it is mainly visible from the sea. Already in medieval times the site where the "Lanterna" rises was known as Capo di Faro viz. Beacon Promontory. The [more..](/europe/italy/liguria/genoa/sights/thelighthousesymbolofthecity)
-
-## Subsections
-
-[Museums](/europe/italy/liguria/genoa/sights/museums)

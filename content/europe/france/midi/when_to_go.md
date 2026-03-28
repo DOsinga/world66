@@ -55,5 +55,3 @@ higher grazing grounds for the summer.
 
 **Contributors**
 October 30, 2009
-new
-by [kimerly](/member/kimerly)

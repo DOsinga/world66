@@ -12,9 +12,6 @@ Fresh Fish "Never Frozen", spacious dining (inside or outside deck)
 on the water, overlooking Beautiful Shelter Cove Harbour & Broad
 Creek.** **
 
-**Change history**
-Orginal article by [iszatmary](/member/iszatmary) on 03 May 05
-
-Minor corrections by [giorgio](/member/giorgio) on 04 May 05
+Minor corrections on 04 May 05
 
 type: Seafood

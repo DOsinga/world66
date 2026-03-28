@@ -14,5 +14,3 @@ Kreuzberg is a melting-pot of cultures. Taking this into account, a mixture of c
 [Cafes](/europe/germany/berlin/kreuzberg/eatingout?subsection=Cafes)
 
 [Oriental](/europe/germany/berlin/kreuzberg/eatingout?subsection=Oriental)
-
--->

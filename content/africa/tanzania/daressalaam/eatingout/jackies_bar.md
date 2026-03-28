@@ -20,5 +20,3 @@ accessibility: taxi/car/masaki daladala
 address: Hallie Selassie Rd, Oyster Bay
 
 PriceOfMenu: 1,500 - 6,000
-
-[back to Eating Out](..)

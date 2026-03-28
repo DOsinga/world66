@@ -1,8 +1,6 @@
 ---
 title: "Petropolis"
 type: location
-latitude: -22.388
-longitude: -43.175259
 ---
 
 Petropolis is a city in southeast Brazil with over 300,000 inhabitants. When the summer is getting too hot in Rio, Pertópolis becomes a summer resort for many and, untill 1962, Petrópolis was virtually Brazils summer capital. A steep scenic road leads to this mountain city, which is well known for it’s floral beauty.

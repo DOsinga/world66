@@ -24,5 +24,3 @@ url: [www.rioairporttransfer.com](http://www.rioairporttransfer.com)
 address: Rio Airport Transfer
 
 email: info@rioairporttransfer.com
-
-[back to Practical Information](..)

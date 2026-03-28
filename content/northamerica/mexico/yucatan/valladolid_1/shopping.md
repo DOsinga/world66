@@ -7,5 +7,3 @@ Valladolid has one of the best Mexican Folk Art stores in Yucatan : * Yalat, *lo
 
 **Contributors**
 May 30, 2007
-new
-by [herre](/member/herre)

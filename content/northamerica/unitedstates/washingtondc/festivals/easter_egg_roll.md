@@ -4,8 +4,6 @@ type: poi
 address: "1600 Pennsylvania Avenue"
 date: "Easter Sunday, 8:00 am - 2:00 pm"
 url: "www.whitehouse.gov"
-latitude: 25.78925
-longitude: -80.134592
 ---
 
 [The White House](/northamerica/unitedstates/washingtondc/sights/national_museum_of)'s
@@ -24,5 +22,3 @@ url: [www.whitehouse.gov](http://www.whitehouse.gov/easter)
 date: Easter Sunday, 8:00 am - 2:00 pm
 
 address: 1600 Pennsylvania Avenue
-
-[back to Festivals](..)

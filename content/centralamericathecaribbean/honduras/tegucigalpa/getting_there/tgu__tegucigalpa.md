@@ -16,13 +16,5 @@ The new terminal building (will be about triple the size) will increase TGU's ca
 
 **Contributors**
 August 07, 2005
-new
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

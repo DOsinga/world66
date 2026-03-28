@@ -26,8 +26,6 @@ The best table is the one in the middle, closest to the street because the fan b
 
 **Contributors**
 October 28, 2007
-new
-by [dawn on the amazon](/member/dawn_on_the_amazon)
 
 ### [La Querencia Parrillada](/southamerica/peru/iquitos/eating_out/la_querencia_parri)
 

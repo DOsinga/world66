@@ -10,8 +10,6 @@ Built between 212 and 219 A.D., the Baths of Caracalla (more than 50 baths) was 
 
 **Contributors**
 May 22, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -20,5 +18,3 @@ type: Other
 tel: +39 06 39967700
 
 address: Southeast of ancient Rome’s center at Viale delle Terme di Caracalla
-
-[back to Things to do](..)

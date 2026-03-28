@@ -1,0 +1,4 @@
+---
+title: "Beauvais"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Ellsworth"
+type: location
+---

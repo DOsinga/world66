@@ -1,0 +1,4 @@
+---
+title: "Lismore"
+type: location
+---

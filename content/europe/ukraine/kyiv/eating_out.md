@@ -9,5 +9,3 @@ It's traditional Ukrainian food and great desserts at a very, very low price. No
 
 **Contributors**
 October 09, 2006
-new
-by [jscottdavis04](/member/jscottdavis04) (2 points)

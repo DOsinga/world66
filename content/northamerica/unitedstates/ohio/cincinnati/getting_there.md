@@ -27,17 +27,9 @@ One of the most beautiful panoramic views in the country occurs when driving nor
 * Greyhound offers passenger bus service from many U.S. cities. Buses arrive and depart from Greyhound's station in downtown Cincinnati.
 * Megabus is a budget bus company offering direct service from Cincinnati to Indianapolis and Chicago and vice versa.
 
-*Part or or all of this text stems from the original article at: http://wikitravel.org/en/Cincinnati*
-
 **Contributors**
 September 14, 2006
-change
-by [sapphire](/member/sapphire) (2 points)
 
 May 12, 2009
-change
-by [annc](/member/annc)
 
 September 15, 2006
-change
-by [giorgio](/member/giorgio)

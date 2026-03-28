@@ -19,9 +19,4 @@ Stelios Lardopoulos, Telephone: +30-694-605-9320
 
 **Konstantinos Mentzelopoulos**
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 20 October 04
-
-Minor corrections by [Skipper](/member/skipper) on 21 October 04
-
--->
+Minor corrections on 21 October 04

@@ -8,11 +8,5 @@ This is a great restaurant, the setting is intimate, ambiance is upmarket and th
 
 **Contributors**
 April 14, 2008
-new
-by [hem](/member/hem)
 
 type: Thai
-
-
-
-[back to Eating Out](..)

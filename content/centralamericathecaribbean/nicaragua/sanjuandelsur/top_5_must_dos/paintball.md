@@ -4,8 +4,6 @@ type: poi
 address: "san juan del sur"
 email: "lukeboychuk@surfranchnicaragua.com"
 url: "www.surfranchnicaragua.com"
-latitude: 11.194397
-longitude: -85.859757
 ---
 
 Come play some paintball at the Surf Ranch in our 1 acre jungle course. We have an on site gear rental shop, and snack shop. Our paintball course is pretty cool, with big trees, abandoned river terrains, bunkers, and much more.
@@ -23,5 +21,3 @@ url: [www.surfranchnicaragua.com](http://www.surfranchnicaragua.com)
 address: san juan del sur
 
 email: lukeboychuk@surfranchnicaragua.com
-
-[back to Top 5 Must Do's](..)

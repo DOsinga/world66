@@ -7,9 +7,4 @@ type: section
 
 San Vicente is a beautiful church near to where this vehicle starts and to the gate by the cathedral.
 
-El Real Monasterio de Santo Tomás looks good from above and is well written up but it is a long way down and up well outside the walls.  
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 22 May 04
-
--->
+El Real Monasterio de Santo Tomás looks good from above and is well written up but it is a long way down and up well outside the walls.

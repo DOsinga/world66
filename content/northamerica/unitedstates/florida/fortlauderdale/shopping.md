@@ -38,7 +38,3 @@ Even the most avid sunworshipper is invariably lured off Greater Fort Lauderdale
  T-shirts by Cooya
 
  The Kitchen Cupboard!
-
-  
-
--->

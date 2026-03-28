@@ -32,9 +32,3 @@ There are no international rail links to any of Egypt's northwestern neighbours.
 Road
 
 The road border between Libya and Egypt is open. There is a route to Cairo from Israel via El Arish and Port Said Suez or Ismailia. The Ras El Nakab–Taba road (Sinai) is closed until further notice. Foreign vehicles seeking to enter Sinai from Israel will be denied access if they contain more than seven people. Four-wheel-drive vehicles must submit a request for entry to the relevant authorities at least 25 days before the date of travel. Taxis buses and caravans will be denied access. Daily coaches leave early in the morning from Tel Aviv and Jerusalem in Israel via El Arish to Cairo and *vice versa.* Fares are US$25-30 one way and US$45-50 return.
-
- 
-
-## Subsections
-
-[By Air](/africa/egypt/gettingthere/byair)

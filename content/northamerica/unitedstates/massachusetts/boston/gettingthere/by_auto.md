@@ -16,7 +16,4 @@ Boston is well-known for highway and road congestion, so be warned. During rush 
 
 Route 93 provides North/South access to the Boston suburbs. If you've heard of "The Big Dig", it is Route 93 -- sometimes referred to as the Central Artery -- that was the subject of that project.
 
-**Change history**
-Orginal article by [eL Kabong](/member/el_kabong) on 26 October 04
-
 type: By Road

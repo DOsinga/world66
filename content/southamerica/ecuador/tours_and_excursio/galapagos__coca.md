@@ -5,8 +5,6 @@ address: "ecuador south america"
 email: "robertvaca@wildlifeamazon.com"
 phone: "593-6-2880802"
 url: "http"
-latitude: 1.678797
-longitude: -92.009148
 ---
 
 Galapagos- Cusco -Macchu Pichu Expedition 18 days
@@ -44,5 +42,3 @@ url: [http](http://http//www.wildlifeamazon.com/)
 address: ecuador south america
 
 email: robertvaca@wildlifeamazon.com
-
-[back to Tours and Excursions](..)

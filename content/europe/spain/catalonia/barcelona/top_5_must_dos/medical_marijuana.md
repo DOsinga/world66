@@ -9,5 +9,3 @@ Hi Mates!! I'm on Vacation here and I just bought some quality Medical WEED: & H
 
 
 email: weed.man4real@gmail.com
-
-[back to Top 5 Must Do's](..)

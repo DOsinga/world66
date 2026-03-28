@@ -7,5 +7,3 @@ If you like to shop this is the place for you! It's 5th Ave in the mountains. I 
 
 **Contributors**
 November 14, 2005
-new
-by [risunflowervt](/member/risunflowervt)

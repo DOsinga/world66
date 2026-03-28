@@ -16,5 +16,3 @@ email: eschleusz@k59surftours.com
 url: [www.k59surftours.com](http://www.k59surftours.com)
 
 tel: 503-2261993
-
--->

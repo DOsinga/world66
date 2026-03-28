@@ -7,8 +7,6 @@ email: "contact@sofianights.com"
 phone: "(+35902) 9166 777"
 url: "sofianights.com"
 zipcode: "1000"
-latitude: 43.805687
-longitude: 25.922072
 ---
 
 The new Rio Restaurant offers** **Rodizio - a unique Brazilian
@@ -18,6 +16,3 @@ corners in green let you relax in a comfortable atmosphere.
 Luxury wines and beverages are served as well as original Brazilian
 Brandy and Cocktails. There are up to eight types of meat for barecue
 in the menu.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 15 March 05

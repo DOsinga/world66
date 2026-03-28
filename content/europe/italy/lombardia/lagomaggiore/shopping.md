@@ -25,5 +25,3 @@ In Arona there are several larger shops and discount outlets. One such discount 
 
 **Contributors**
 April 06, 2010
-new
-by [piyushjain](/member/piyushjain_)

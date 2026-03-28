@@ -64,5 +64,3 @@ School- http://www.atkinson.k12.ga.us/new%20willacoochee%20page.htm
 
 **Contributors**
 May 23, 2005
-change
-by [willacoochee](/member/willacoochee)

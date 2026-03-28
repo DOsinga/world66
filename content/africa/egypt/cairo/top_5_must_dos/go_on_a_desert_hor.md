@@ -24,5 +24,3 @@ url: [www.fbstables.com](http://www.fbstables.com)
 address: FB Stables, Gamal Abdul Nasser St., Giza
 
 email: rideegypt@gmail.com
-
-[back to Top 5 Must Do's](..)

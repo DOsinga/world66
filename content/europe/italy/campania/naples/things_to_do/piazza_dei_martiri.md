@@ -8,11 +8,5 @@ This monument square is home to a memorial column surrounded by four lion statue
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
-
-
-
-[back to Things to do](..)

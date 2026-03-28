@@ -7,8 +7,6 @@ Photo Gallery
 
 **Contributors**
 October 08, 2006
-new
-by [timology](/member/timology)
 
 We currently have no Sights listed in Queensland.
 

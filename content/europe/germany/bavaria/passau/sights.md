@@ -38,5 +38,3 @@ Confluence of the Danube, Inn and Ilz
 [general](/europe/germany/bavaria/passau/sights?subsection=general)
 
 [Museums](/europe/germany/bavaria/passau/sights?subsection=Museums)
-
--->

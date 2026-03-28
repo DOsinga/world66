@@ -1,9 +1,9 @@
 ---
-title: "Nassos Guesthouse Travel Guide"
+title: "Nassos Guesthouse"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Lesvos is a very nice Island. There are places like, Skala erossos. Petra AND Molivos.
 
@@ -26,7 +26,3 @@ He showed us all the nice place around the island. He rents a care for you go to
 If you contact him tell him MAX from the Netherlands told me om wolrd66.com.
 
 Enjoy your stay.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 12:35

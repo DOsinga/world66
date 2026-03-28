@@ -14,8 +14,6 @@ Restaurant Nilo is a beautiful portuguese restaurant in Lisbon. Situated in down
 
 **Contributors**
 April 19, 2007
-new
-by [pepe41](/member/pepe41)
 
 type: Portuguese
 
@@ -34,5 +32,3 @@ address: Rua dos correeiros n.ºs 217-219
 PriceOfMenu: € 15
 
 email: nilo217219@yahoo.com
-
-[back to Eating Out](..)

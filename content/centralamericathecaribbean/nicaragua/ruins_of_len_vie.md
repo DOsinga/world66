@@ -1,7 +1,9 @@
 ---
-title: "Ruins of León Viejo Travel Guide"
+title: "Ruins of León Viejo"
 type: location
 ---
+
+Travel Guide
 
 León Viejo, one of the oldest Spanish colonial settlements in the Americas, is located in the department of León in North-Western Nicaragua at the shore of lake Managua (Xolotlán) and the Momotombo volcano. This site was added to the World Cultural Heritage list in December 2000.
 
@@ -15,5 +17,3 @@ Visitors to the ruins can expect to find the original settlement structure. The 
 
 **Contributors**
 March 19, 2007
-new
-by [choclady](/member/choclady) (1 point)

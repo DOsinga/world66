@@ -1,9 +1,9 @@
 ---
-title: "Spanish Fork Travel Guide"
+title: "Spanish Fork"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Spanish Fork is a city in Utah County, Utah, United States.
 It is part of the Provo–Orem, Utah Metropolitan Statistical Area. The
@@ -20,13 +20,3 @@ two good settlements. Over and above these finest of advantages, it has plenty
 of firewood and timber in the adjacent sierra which surrounds its many
 sheltered spots, waters, and pasturages, for raising cattle and sheep and
 horses".
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Spanish_Fork,_Utah*
-
-#### Contributors
-
-April 06, 2010 change by [openbook](/member/openbook)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 09:00

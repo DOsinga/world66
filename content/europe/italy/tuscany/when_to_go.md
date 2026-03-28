@@ -25,5 +25,3 @@ It is also worth mentioning that most of the festivals are concentrated in the s
 
 **Contributors**
 September 03, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

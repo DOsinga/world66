@@ -24,5 +24,3 @@ Italy
 **Check In/Check Out:** 12:00 pm / 10:30 am
 
 **Driving Directions:** HOW TO REACH FRASCATI FROM ROME BY TRAIN: from Railway station Roma Termini (approx.30 mins) BY UNDERGROUND + BUS: Underground Line 'A', Stop Anagnina (20 mins from Rome city centre) + bus to Frascati( 15 mins). BY CAR: if you come from the city centre take Via Tuscolana directly to Frascati (approx.30 mins) HOW TO REACH FRASCATI FROM FIUMICINO AIRPORT BY TRAIN: shuttle from airport to railway station Roma Termini, then take the local train to Frascati BY CAR: take the motorway Fiumicino-Roma, then turn right at the exit GRA (Grande Raccordo Anulare) toward Ciampino, then turn right at the exit 21-22 of the GRA and go to Frascati following the signs (approx. 40 mins). HOW TO REACH FRASCATI FROM CIAMPINO AIRPORT BY TRAIN: local train from Ciampino railway station to Frascati (15 mins). BY CAR: take Via Tuscolana and go south toward Frascati (15 mins).
-
--->

@@ -11,5 +11,3 @@ Worth the short detour if you are visiting [Lyon](/europe/france/alpes/lyon) or 
 
 **Contributors**
 June 27, 2006
-new
-by [christian-adam](/member/christian-adam) (2 points)

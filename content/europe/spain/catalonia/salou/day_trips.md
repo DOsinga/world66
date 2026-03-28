@@ -25,5 +25,3 @@ The region near Salou is covered by several sites of religious and historical im
 
 **Contributors**
 February 23, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

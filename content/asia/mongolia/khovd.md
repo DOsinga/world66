@@ -1,0 +1,4 @@
+---
+title: "Khovd"
+type: location
+---

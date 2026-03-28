@@ -23,9 +23,5 @@ From September through October the temperatures begin to cool as the city heads 
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 January 21, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

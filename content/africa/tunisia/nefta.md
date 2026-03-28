@@ -1,8 +1,6 @@
 ---
 title: "Nefta"
 type: location
-latitude: 33.820495
-longitude: 7.872451
 ---
 
 We currently have no information about Nefta.

@@ -6,8 +6,6 @@ type: "Other"
 
 **Contributors**
 February 02, 2008
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 ### [Visit Tamberma Castles](/africa/togo/tamberma/things_to_do/visit_tamberma_cas)
 

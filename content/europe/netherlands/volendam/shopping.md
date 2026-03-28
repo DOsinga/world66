@@ -23,5 +23,3 @@ Although cheese doesn’t travel well, it would be a shame not to stop at Henri 
 
 **Contributors**
 March 23, 2010
-new
-by [piyushjain](/member/piyushjain_)

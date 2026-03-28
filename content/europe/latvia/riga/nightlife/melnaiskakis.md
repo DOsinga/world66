@@ -7,9 +7,3 @@ type: "Pool & Billiards"
 Meistaru 10/12. tel.: 7211021. Open 9-7 1Ls/game.
 
 type: Pool & Billiards
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

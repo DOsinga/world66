@@ -21,9 +21,5 @@ Monte Mario is the largest hill in Rome and you must definitely make a one day t
 
 **Contributors**
 March 19, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 18, 2010
-new
-by [imran_m](/member/imran_m)

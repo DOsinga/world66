@@ -6,8 +6,6 @@ email: "info@kimberlycrest.org"
 opening_hours: "Hours: Thursday-Sunday, 1:00-4:00 p.m."
 phone: "909 792-2111"
 url: "www.kimberlycrest.org"
-latitude: 34.037376
-longitude: -117.173435
 ---
 
 Kimberly Crest
@@ -23,8 +21,6 @@ Groups larger than 10 and school groups may schedule tours on other days. For in
 
 **Contributors**
 December 05, 2005
-change
-by [handyman321](/member/handyman321)
 
 
 
@@ -37,5 +33,3 @@ url: [www.kimberlycrest.org](http://www.kimberlycrest.org/)
 address: 1325 Prospect Drive, Redlands, CA 92373
 
 email: info@kimberlycrest.org
-
-[back to Museums](..)

@@ -15,8 +15,6 @@ A couple of locations in Bogota though I went to the one in the popular Zona G.
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: Japanese
 
@@ -33,5 +31,3 @@ url: [www.teriyaki.com.co](http://www.teriyaki.com.co)
 address: Calle 69A, #5-79
 
 PriceOfMenu: Moderate
-
-[back to Eating Out](..)

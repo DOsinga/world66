@@ -48,5 +48,3 @@ traveling to Rabat in June or November.
 
 **Contributors**
 March 19, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

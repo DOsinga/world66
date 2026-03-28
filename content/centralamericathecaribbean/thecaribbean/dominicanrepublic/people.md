@@ -41,15 +41,15 @@ type: section
 
 *female:* 72.04 years (1998 est.)
 
-**Total fertility rate:** 36 children born/woman (1997 est.)
+**Total fertility rate:** 3.06 children born/woman (1998 est.)
 
-**Nationality:
+**Nationality:**
 
 *noun:* Dominican(s)
 
 *adjective:* Dominican
 
-Ethnic groups:** white 16% black 11% mixed 0%
+**Ethnic groups:** white 16% black 11% mixed 73%
 
 **Religions:** Roman Catholic 95%
 
@@ -59,8 +59,8 @@ Ethnic groups:** white 16% black 11% mixed 0%
 
 *definition:* age 15 and over can read and write
 
-*total population:* 77777%
+*total population:* 82.1%
 
-*male:/em99.9%
+*male:* 82%
 
-female:* 82.2% (1995 est.)
+*female:* 82.2% (1995 est.)

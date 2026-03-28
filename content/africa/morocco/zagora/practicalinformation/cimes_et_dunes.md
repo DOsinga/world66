@@ -30,5 +30,3 @@ url: [www.saharatrekking.com](http://www.saharatrekking.com)
 address: Av. Allal Ben Abdellah, Zagora
 
 email: ynaithamou@yahoo.fr
-
-[back to Practical Information](..)

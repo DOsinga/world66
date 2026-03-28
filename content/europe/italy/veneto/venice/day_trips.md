@@ -8,8 +8,6 @@ If you would like to take some time out during your Venice vacation to explore t
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Lido Island](/europe/italy/veneto/venice/day_trips/walks_inside_venic)
 

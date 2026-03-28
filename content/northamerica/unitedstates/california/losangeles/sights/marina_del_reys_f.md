@@ -14,8 +14,6 @@ Visiting Marina del Rey's Fisherman's Village is like a visit to a New England f
 
 **Contributors**
 June 25, 2007
-new
-by [marinagal](/member/marinagal) (2 points)
 
 type: Landmarks
 
@@ -28,5 +26,3 @@ tel: 310/822-6866
 url: [www.visitmarina.com](http://www.visitmarina.com)
 
 address: 13755 Fiji Way, Marina del Rey
-
-[back to Sights](..)

@@ -21,5 +21,3 @@ url: [www.laughfactory.com](http://www.laughfactory.com)
 address: 303 West 42nd Street, NY, NY 10036
 
 email: reservations@laughfactoryny.com
-
-[back to Nightlife and Entertainment](..)

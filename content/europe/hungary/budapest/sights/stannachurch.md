@@ -8,7 +8,3 @@ The Church of St. Anna is a fine example of a Baroque church. Its well-proportio
 address: Battyhány tér 8
 
 openings: Open (for services only): 6:45am-9am, 4pm-7pm Mon-Sat, 7am-1pm Sun
-
-[back to Sights](..)
-
--->

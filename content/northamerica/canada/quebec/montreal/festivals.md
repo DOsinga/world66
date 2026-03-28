@@ -51,12 +51,8 @@ Awards are given to the best films, actors, actresses, directors and behind-the-
 
 **Contributors**
 March 19, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 18, 2010
-new
-by [amymc](/member/amymc)
 
 ### [POP Montréal international music festival](/northamerica/canada/quebec/montreal/festivals/pop_montral_inte)
 

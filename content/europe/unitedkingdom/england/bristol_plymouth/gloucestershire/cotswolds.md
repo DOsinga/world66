@@ -1,9 +1,9 @@
 ---
-title: "Cotswolds Travel Guide"
+title: "Cotswolds"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Cptswolds is an area of gentle hills with stone walls criss-crossing the landscape, hidden river valleys and distinctive market towns and villages made of the famous honey coloured Cotswold stone. Towns such as
 Winchcombe,
@@ -15,8 +15,3 @@ Bourton-on-the-Water for example. The best way to enjoy the beauty of the region
 
 More information on
 *Cotswolds Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 13:30

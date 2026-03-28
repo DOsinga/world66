@@ -44,14 +44,4 @@ Prinsenhof walls.
 In the 1400s, Delft was accessed by city
 gates. In 1510, these were enhanced to be more powerful and modern. In
 the 1800s, all were torn down except the East Gate (Oostpoort). This
-dates back to 1400 and is now an art gallery and private home.
-
-**5. Paul Tetar van Elven Museum **
-
-This house built after the explosion and fire in 1536 houses
-many antique artifacts including paintings and ceramics. The interior
-style of the house is very unique even to international standards. In
-the drawing room, van Elven contacted Abraham Gips to paint the old
-masters' names along the ceiling. Entrance fees are about $5 per adult.
-The times and dates they are open are very limited so check out
-www.museumpaultetarvanelven.nl for details.
+dates

@@ -1,0 +1,4 @@
+---
+title: "Ensenada"
+type: location
+---

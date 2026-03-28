@@ -5,8 +5,6 @@ address: "Haram street, giza, egypt"
 email: "amany@egyptonlinetours.com"
 phone: "01221354820"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Dahab
 Tours by Maestro Online Travel:-**
@@ -42,7 +40,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Dahab, which means gold in Arabic,
 started as a small Bedouin fishing village in the south-east of the peninsula.
@@ -99,5 +97,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Sightseein
 address: Haram street, giza, egypt
 
 email: amany@egyptonlinetours.com
-
-[back to Day Trips](..)

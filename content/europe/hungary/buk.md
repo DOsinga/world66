@@ -1,8 +1,6 @@
 ---
 title: "Buk"
 type: location
-latitude: 47.383396
-longitude: 16.753305
 ---
 
 The large village with about 3000 inhabitants is situated in the Micro-region of Upper Repce, in County Vas, in the tourist region of Western Transdanubia, in Hungary.

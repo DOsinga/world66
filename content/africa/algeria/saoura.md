@@ -1,8 +1,6 @@
 ---
 title: "Saoura"
 type: location
-latitude: 29.637849
-longitude: -1.67504
 ---
 
 Beni Abbes : Dressée sur la rive gauche de la **Saoura**, Beni Abbés 

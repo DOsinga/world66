@@ -1,0 +1,4 @@
+---
+title: "Pentecost"
+type: location
+---

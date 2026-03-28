@@ -15,5 +15,3 @@ type: Churches
 address: Corso V. Emmanuele
 
 openings: Mon - Sat 7am - 7pm, Sat and Sun closed between 1.30am and 4pm
-
-[back to Sights](..)

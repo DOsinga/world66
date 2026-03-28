@@ -1,14 +1,8 @@
 ---
-title: "ErMBBtQsIFxl Travel Guide"
+title: "ErMBBtQsIFxl"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 I cnoant tell a lie, that really helped.
-
-*Part or or all of this text stems from the original article at: tCyqDZzYE*
-
-Page last generated on Sun 16:17
-
--->

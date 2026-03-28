@@ -13,8 +13,6 @@ Jemez State Monument is one of the Albuquerque attractions you should put on you
 
 **Contributors**
 June 02, 2009
-new
-by [smkane](/member/smkane)
 
 type: Landmarks
 
@@ -29,5 +27,3 @@ openingHours: 8:30 a.m. - 5:30 p.m. Wednesday through Monday, closed Tuesday
 url: [www.nmmonuments.org](http://www.nmmonuments.org)
 
 address: 18160 NM 4, Jemez Springs, NM
-
-[back to Sights](..)

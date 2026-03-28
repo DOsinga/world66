@@ -1,0 +1,4 @@
+---
+title: "Pemberton"
+type: location
+---

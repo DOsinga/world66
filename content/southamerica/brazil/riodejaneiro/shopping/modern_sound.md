@@ -20,5 +20,3 @@ url: [www.modernsound.com.br](http://www.modernsound.com.br)
 tel: (0xx21) 2548-5005
 
 address: Rua Barata Ribeiro, 502
-
-[back to Shopping](..)

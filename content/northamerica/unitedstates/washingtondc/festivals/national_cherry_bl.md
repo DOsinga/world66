@@ -30,5 +30,3 @@ url: [www.nationalcherryblossomfestival.org](http://www.nationalcherryblossomfes
 date: Late March/April
 
 email:
-
-[back to Festivals](..)

@@ -10,5 +10,3 @@ If you rent a car - cross the 25th April bridge...
 
 **Contributors**
 September 29, 2004
-new
-by [tekes](/member/tekes) (1 point)

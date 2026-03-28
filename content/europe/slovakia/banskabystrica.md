@@ -1,8 +1,6 @@
 ---
 title: "Banska bystrica"
 type: location
-latitude: 48.738389
-longitude: 19.15858
 ---
 
 We currently have no information about Banska bystrica.

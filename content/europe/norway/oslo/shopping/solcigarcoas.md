@@ -14,7 +14,3 @@ email: post@solcigar.no
 zipcode: 0255 Oslo
 
 url: [www.solcigar.no](http://www.solcigar.no)
-
-[back to Shopping](..)
-
--->

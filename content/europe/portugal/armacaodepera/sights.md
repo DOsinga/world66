@@ -29,9 +29,5 @@ Armacao de Pera has several natural and historical attractions along with luxury
 
 **Contributors**
 January 26, 2010
-change
-by [nam](/member/nam)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

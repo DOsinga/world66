@@ -1,0 +1,4 @@
+---
+title: "Lobamba"
+type: location
+---

@@ -19,5 +19,3 @@ When traveling by bus between cities, it is a good idea to book your ride with t
 
 **Contributors**
 March 19, 2010
-change
-by [damiandavilarojas](/member/damiandavilarojas)

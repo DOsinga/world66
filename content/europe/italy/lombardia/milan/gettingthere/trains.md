@@ -13,13 +13,9 @@ They have a train from the Malpensa Airport to the center of Milan by way of the
 
 **Contributors**
 July 05, 2006
-new
-by [karenbru](/member/karenbru) (2 points)
 
 type: By Rail
 
 
 
 url: [www.trenitalia.it](http://www.trenitalia.it/en/index.html)
-
-[back to Getting There](..)

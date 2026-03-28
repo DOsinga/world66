@@ -44,5 +44,3 @@ address: Via S. Egidio, 13/r - 50122 Firenze
 PriceOfMenu: cheap to mid-range
 
 email: info@cantinabarbagianni.it
-
-[back to Eating Out](..)

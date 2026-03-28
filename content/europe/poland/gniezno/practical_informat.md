@@ -31,7 +31,4 @@ ul. Krucza 3
 
 999, ul. Wyszyńskiego
 
-*Change history*
-Orginal article by [hpharmsen](/member/hpharmsen) on 24 March 04
-
-Minor corrections by [hpharmsen](/member/hpharmsen) on 24 March 04
+Minor corrections by [hpharmsen](/world/member/hpharmsen) on 24 March 04

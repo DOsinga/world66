@@ -7,5 +7,3 @@ Go to BB's Lawnside Barbecue. Sunday afternoon is great - a blues jam session. O
 
 **Contributors**
 July 03, 2004
-new
-by [kgouldsk](/member/kgouldsk)

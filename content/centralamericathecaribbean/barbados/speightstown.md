@@ -1,0 +1,4 @@
+---
+title: "Speightstown"
+type: location
+---

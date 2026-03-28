@@ -1,0 +1,4 @@
+---
+title: "Terelj"
+type: location
+---

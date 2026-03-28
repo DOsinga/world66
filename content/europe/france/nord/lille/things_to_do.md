@@ -27,5 +27,3 @@ Citadel of Lille, often refered to as the "queen of citadels," was designed by t
 
 **Contributors**
 March 25, 2010
-new
-by [ashmita](/member/ashmita_)

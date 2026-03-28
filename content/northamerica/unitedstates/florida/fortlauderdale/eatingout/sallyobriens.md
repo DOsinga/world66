@@ -25,5 +25,3 @@ type: British
 address: 17 South Fort Lauderdale Beach Boulevard
 
 tel: 954) 522-4641
-
-[back to Eating Out](..)

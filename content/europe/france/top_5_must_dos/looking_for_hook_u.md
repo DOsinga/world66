@@ -11,5 +11,3 @@ Hello Mates!!! I just arrived and after a long search for good stuff, I was Luck
 
 
 email: weedspot2@gmail.com
-
-[back to Top 5 Must Do's](..)

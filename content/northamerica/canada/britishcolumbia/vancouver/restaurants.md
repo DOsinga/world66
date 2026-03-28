@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 If you can think of a food you'd like to eat, odds are you'll find it offered in one of Vancouver's restaurants. If you've found a good place to eat, tell us about it, and we'll tell the world.  As you can see, people in Vancouver get pretty excited about the food they eat.

@@ -5,9 +5,6 @@ type: section
 
 Getting to Västerås is easy if you are coming from the south. The connections to the north are not equally good.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
 **all**
 
 [SJ
@@ -53,5 +50,3 @@ Regional trains connects Västerås with northwest of Västmanland and southern 
 Tickets are bought at the station, on the train or at www.sj.se .
 
 url: www.tagibergslagen.se](/europe/sweden/vsters/getting_there/tg_i_bergslagen)
-
--->

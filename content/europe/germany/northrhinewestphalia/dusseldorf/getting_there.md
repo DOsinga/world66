@@ -13,8 +13,4 @@ type: section
 
   **by train:**
 
- Düsseldorf Central Station is, in fact, central, at the south-eastern edge of the inner city. It forms a crossroads for the networks of the Deutsche Bahn AG, the S-Bahn commuter rail system and the U-Bahn. For travel enquiries call the Deutsche Bahn AG, tel. +49 (0)211 1 94 19 or check their webpage. The local public transport systems are run by the Rheinbahn. 
-
-## Subsections
-
-[By Air](/europe/germany/northrhinewestphalia/dusseldorf/gettingthere/byair)
+ Düsseldorf Central Station is, in fact, central, at the south-eastern edge of the inner city. It forms a crossroads for the networks of the Deutsche Bahn AG, the S-Bahn commuter rail system and the U-Bahn. For travel enquiries call the Deutsche Bahn AG, tel. +49 (0)211 1 94 19 or check their webpage. The local public transport systems are run by the Rheinbahn.

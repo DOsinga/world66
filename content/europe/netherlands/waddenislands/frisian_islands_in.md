@@ -1,9 +1,9 @@
 ---
-title: "Frisian Islands interregion Travel Guide"
+title: "Frisian Islands interregion"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Dutch Wadden Islands are part of the interregional archipelago of *The Frisian Islands* in northwestern Europe, which spreads across the coasts of **The Netherlands**, **Germany** and **Denmark**
 in crescent form from west to east to north. These areas are divided
@@ -38,13 +38,3 @@ Nature Reserve names. From south to north you'll find:
 Denmark
 
 Click the links to directly access the different local areas.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Wadden_Sea_National_Parks*
-
-#### Contributors
-
-January 18, 2006 change by [reen](/member/reen)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 16:13

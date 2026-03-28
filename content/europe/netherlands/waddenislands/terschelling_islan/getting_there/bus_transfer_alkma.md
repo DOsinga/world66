@@ -1,5 +1,5 @@
 ---
-title: "Bus transfer Alkmaar <> Leeuwarden --> Harlingen harbour"
+title: "Bus transfer Alkmaar <> Leeuwarden Harlingen harbour"
 type: poi
 type: "By Road"
 ---
@@ -17,13 +17,5 @@ Amsterdam, Nijmegen and Utrecht have direct connections.
 
 **Contributors**
 March 15, 2005
-new
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 type: By Road
-
-
-
-
-
-[back to Getting There](..)

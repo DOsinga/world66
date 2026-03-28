@@ -1,6 +1,6 @@
 ---
 title: "Bangkok Restaurant"
-type: location
+type: poi
 address: "11476-112Av Edmonton, AB"
 phone: "780-414-0430"
 price: "Adult--$10.95"
@@ -14,8 +14,6 @@ They have plenty of parking available, with a family friendly atmosphere and eas
 
 **Contributors**
 April 18, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Thai
 
@@ -30,5 +28,3 @@ url: [www.bkkbuffet.com](http://www.bkkbuffet.com)
 address: 11476-112Av Edmonton, AB
 
 PriceOfMenu: Adult--$10.95
-
-[back to Eating Out](..)

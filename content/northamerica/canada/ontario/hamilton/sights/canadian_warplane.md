@@ -7,8 +7,6 @@ opening_hours: "Open year-round from 9am to 5pm, closed only on Christmas Day an
 phone: "(905) 679-4183"
 type: "Hotspots"
 url: "www.warplane.com"
-latitude: 43.159835
-longitude: -79.924915
 ---
 
 Canadian Warplane Heritage Museum is a living museum which features aircraft used by Canadians or Canada's Military. The Museum's collection includes aircraft that can still fly and others that remain on display.
@@ -17,8 +15,6 @@ Included in this museum is one of only two surviving Lancaster bombers in the wo
 
 **Contributors**
 May 31, 2008
-new
-by [waterfalls](/member/waterfalls)
 
 type: Hotspots
 
@@ -35,5 +31,3 @@ url: [www.warplane.com](http://www.warplane.com/index.html)
 address: 9280 Airport Road, Mount Hope ON L0R 1W0
 
 email: museum@warplane.com
-
-[back to Sights](..)

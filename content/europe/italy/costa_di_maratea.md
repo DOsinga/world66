@@ -1,12 +1,8 @@
 ---
-title: "Costa di Maratea Travel Guide"
+title: "Costa di Maratea"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Driving time from Termoli to Costa di Maratea
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 09:31

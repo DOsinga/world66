@@ -20,7 +20,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Departure:**** **Daily
 
@@ -70,97 +70,7 @@ market. Good buys include handmade gifts, leather goods, spices and **Egyptian**
 fabrics. You may also attend the Sound and light show at **Giza
 Pyramids** as an optional **tour**, or you may take a **Nile
 cruise** dinner with belly dance show in **Cairo**. Head to **Cairo**
-airport to fly back to **Sharm El Sheikh** where our REP
-will be waiting for you to transfer you to your hotel in **Dahab**.***
-
-Price includes*********
-
-- Pick up and drop off services from your
-hotel in **Dahab**
-
-- Airfare from **Sharm El Sheikh** to **Cairo** with **Egypt**
-Air
-
-- All transfers by air-conditioned vehicles in **Dahab** and **Cairo**
-
-- Admision fees to the **sightseeing** in **Cairo**
-as per **tour** itinerary
-
-- Lunch meal during **Cairo trip** at a high quality
-restaurant in **Cairo**
-
-- Egyptologist English speaking **tour** guide in **Cairo**
-
-- Travel REP assistance in pick up and drop off in **Dahab*****
-
-Price excludes
-
-***Optional **tours** and personal expenses in **Cairo**:
-
-- **Sound and Light show** at the **Giza Pyramids**
-
-- **Dinner cruise** in the **Nile** with belly dance
-show in **Cairo
-
-********
-
-***What to bring*********
-
-- Passport valid for 6 months
-
-- Comfortable shoes
-
-- Cotton
-clothes in summer
-
-- Warm
-clothes in winter
-
-- Sun
-block
-
-- Sunglasses
-
-- Hat
-
-- Photo/Video
-Camera
-
-Maestro online
-travel
-
-124 Pyramid street Giza ,Egypt
-
-002-0190023837
-
-***Fax:- ***
-
-00239572770
-
-***For best offer Contact with Amany***
-
-***My Email:-*********
-
-**amanywaw@egyptonlinetours.com******
-
-***Our website:-*********
-
-**www.egyptonlinetours.com******
-
-Normal
-0
-
-false
-false
-false
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**http://www.egyptonlinetours.com/Egypt-Sightseeing-Tours/Dahab-Excursion-List/Day-trip-to-cairo-from-Dahab.php**
+airport to fly **http://www.egyptonlinetours.com/Egypt-Sightseeing-Tours/Dahab-Excursion-List/Day-trip-to-cairo-from-Dahab.php**
 
 
 
@@ -171,5 +81,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Sightseein
 address: Maestro online travel 124 Pyramid street Giza ,Egypt
 
 email: amanywaw@egyptonlinetours.com
-
-[back to Day Trips](..)

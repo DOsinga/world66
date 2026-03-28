@@ -20,5 +20,3 @@ url: [www.yayateahouse.co.nz](http://www.yayateahouse.co.nz)
 address: 136 Lichfield St (entrance back of building)
 
 email: support@yayateahouse.co.nz
-
-[back to Dining Out](..)

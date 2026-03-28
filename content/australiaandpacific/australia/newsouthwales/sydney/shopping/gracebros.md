@@ -11,13 +11,5 @@ Located in the heart of Sydney, Grace Bros first opened in 1895, and continues t
 
 **Contributors**
 December 20, 2005
-change
-by [reen](/member/reen)
 
 type: Antiques
-
-
-
-
-
-[back to Shopping](..)

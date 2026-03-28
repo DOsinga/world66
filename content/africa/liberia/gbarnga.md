@@ -1,0 +1,4 @@
+---
+title: "Gbarnga"
+type: location
+---

@@ -17,8 +17,6 @@ http://www.beachcalifornia.com/newport6.html
 
 **Contributors**
 November 06, 2008
-change
-by [karenbru](/member/karenbru)
 
 ### [The Newport Dunes](/northamerica/unitedstates/california/orangecounty/newportbeach/beaches/the_newport_dunes)
 

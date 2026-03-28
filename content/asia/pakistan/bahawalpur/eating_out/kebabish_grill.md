@@ -21,5 +21,3 @@ type: Indian and Pakistani
 tel: 0622730324
 
 address: Ahmed put road
-
-[back to Eating Out](..)

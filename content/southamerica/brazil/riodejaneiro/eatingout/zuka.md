@@ -23,8 +23,6 @@ a must try
 
 **Contributors**
 November 30, 2007
-new
-by [doroloidl](/member/doroloidl)
 
 type: International
 
@@ -37,5 +35,3 @@ tel: 3205 7154
 url: [www.zuka.com.br](http://www.zuka.com.br)
 
 address: Rua Dias Ferreira 233, Leblon
-
-[back to Eating Out](..)

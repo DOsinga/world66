@@ -5,8 +5,6 @@ address: "Marrakech"
 email: "contact@adrar4travel.com"
 phone: "0660645227"
 url: "www.adrar4travel.com"
-latitude: 31.625826
-longitude: -7.989161
 ---
 
 v\:* behavior:url(#default#VML);
@@ -30,7 +28,7 @@ X-NONE
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Tourist transport agency
 
@@ -74,5 +72,3 @@ url: [www.adrar4travel.com](http://www.adrar4travel.com)
 address: Marrakech
 
 email: contact@adrar4travel.com
-
-[back to Budget Travel Ideas](..)

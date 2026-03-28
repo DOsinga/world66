@@ -12,7 +12,3 @@ address: 504 Park Avenue
 url: [www.swansongspa.com](http://www.swansongspa.com/)
 
 tel: 501-623-5597 or 888-588-6663
-
-[back to Baths](..)
-
--->

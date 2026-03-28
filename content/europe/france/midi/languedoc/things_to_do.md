@@ -7,8 +7,6 @@ url: "www.hotels-for-golfer.com"
 
 **Contributors**
 August 29, 2007
-new
-by [huahinhans](/member/huahinhans)
 
 ### [Golf Courses Languedoc-Roussillon](/europe/france/midi/languedoc/things_to_do/golf_courses_langu)
 

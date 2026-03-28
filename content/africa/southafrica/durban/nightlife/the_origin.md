@@ -24,7 +24,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 The
 ORIGIN ♫
@@ -63,5 +63,3 @@ url: [www.330.co.za](http://www.330.co.za/)
 address: 9 Clark road, Glenwood, Durban
 
 email: aatoiitf@gmail.com
-
-[back to Nightlife and Entertainment](..)

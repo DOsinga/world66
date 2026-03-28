@@ -1,8 +1,6 @@
 ---
 title: "Burao"
 type: location
-latitude: 9.527727
-longitude: 45.538018
 ---
 
 Burao is the second largest city of the Republic of Somaliland

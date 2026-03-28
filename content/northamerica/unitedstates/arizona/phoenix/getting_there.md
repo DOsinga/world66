@@ -27,8 +27,6 @@ continue to have Amtrak service.
 
 **Contributors**
 December 09, 2005
-change
-by [omegashade](/member/omegashade)
 
 ### [10 freeway](/northamerica/unitedstates/arizona/phoenix/gettingthere/10_freeway)
 

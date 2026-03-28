@@ -15,5 +15,3 @@ type: Italian
 address: Av. Isidora Goyenechea 3471, Bosque Norte area of Las Condes
 
 tel: 231-6196
-
-[back to Eating Out](..)

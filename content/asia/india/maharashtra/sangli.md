@@ -1,0 +1,4 @@
+---
+title: "Sangli"
+type: location
+---

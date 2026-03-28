@@ -10,7 +10,4 @@ in weight) represents one of the most outstanding landmarks of
 Belgrade. It is dedicated to St. Sava (Rastko Nemanjic), who founded
 Serbian Orthodox Church and was the first archbishop.
 
-**Change history**
-Orginal article by [giorgio](/member/giorgio) on 10 May 05
-
 type: Churches and Cathedrals

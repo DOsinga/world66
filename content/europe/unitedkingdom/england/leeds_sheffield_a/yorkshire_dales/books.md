@@ -9,8 +9,6 @@ The Yorkshire Dales has occasioned many guidebooks
 
 **Contributors**
 December 07, 2004
-new
-by [davidx](/member/davidx)
 
 ### [Walking the Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/books/walking_the_dales)
 

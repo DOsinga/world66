@@ -9,7 +9,5 @@ This museum is rather new in Buenos Aires and offers many good expositions on mo
 
 **Contributors**
 March 07, 2005
-change
-by [almafuerte](/member/almafuerte)
 
 type: Public Buildings

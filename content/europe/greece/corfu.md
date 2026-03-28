@@ -1,8 +1,6 @@
 ---
 title: "Corfu"
 type: location
-latitude: 39.591337
-longitude: 19.859619
 ---
 
 Corfu is a Ionian Island located between mainland [Greece](/europe/greece) and [Italy](/europe/italy)/ [Albania](/europe/albania) . It is a very nice island to visit and especially popular with British tourists. 

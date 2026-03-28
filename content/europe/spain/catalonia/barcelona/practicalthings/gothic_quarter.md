@@ -8,13 +8,5 @@ The Barri Gòtic (Gothic Quarter) is the centre of the old city of Barcelona. Ma
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

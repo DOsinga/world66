@@ -7,8 +7,6 @@ There are many festivals in Milan
 
 **Contributors**
 November 09, 2009
-new
-by [harding](/member/harding)
 
 We currently have no Festivals listed in Milan.
 

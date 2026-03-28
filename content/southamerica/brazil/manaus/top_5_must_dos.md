@@ -29,9 +29,5 @@ This is considered the safeest and most relaxing way of viewing the awe inspirin
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 January 21, 2010
-change
-by [turkeyfish](/member/turkeyfish)

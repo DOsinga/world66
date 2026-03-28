@@ -1,6 +1,6 @@
 ---
 title: "Imperial Palace"
-type: location
+type: poi
 address: "3535 Las Vegas"
 type: "Casinos"
 ---
@@ -14,5 +14,3 @@ type: Casinos
 
 
 address: 3535 Las Vegas
-
-[back to Nightlife and Entertainment](..)

@@ -1,0 +1,4 @@
+---
+title: "Cranford"
+type: location
+---

@@ -1,10 +1,6 @@
 ---
 title: "Le Champlain ."
-type: location
+type: poi
 ---
 
-Tel: 418 692-3861  Address: 1 rue des Carrieres Quebec QC  
-
-[back to Eating Out](..)
-
--->
+Tel: 418 692-3861  Address: 1 rue des Carrieres Quebec QC

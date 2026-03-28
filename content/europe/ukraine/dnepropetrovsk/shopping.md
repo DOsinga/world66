@@ -25,5 +25,3 @@ This city is also the place for Rushnyk. This is a type of embroidered cloth tha
 
 **Contributors**
 March 24, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -8,5 +8,3 @@ If you ask in the Internetcafe LEICHTFRIED they will show you where Beethoven wa
 We currently have no Practical Information listed in Baden.
 
 If you do know any Practical Information in Baden, please [Add].
-
--->

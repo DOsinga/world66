@@ -7,6 +7,4 @@ In former days the inhabitants of Haarlem did not have shops to buy liquor, as a
 
  Nowadays these locals are pubs, while the interior is still the same as 100 years ago. Here people meet from all ranks, the business men, the carpenter and even the local politicians. You can drink a beer or whatever you like and talk the day away.  The Proeflokaal De Blauwe Druif is the most famous of them all and known all over The Netherlands.
 
- In august the Proeflokaal is one of the centres where jazz bands are playing (see events).  Opening hours: from 15.00-01.00 
-
--->
+ In august the Proeflokaal is one of the centres where jazz bands are playing (see events).  Opening hours: from 15.00-01.00

@@ -10,8 +10,6 @@ url: "www.getthebestratesfast.com"
 
 That's a smart answer to a difficult question.
 
-*Part or or all of this text stems from the original article at: RsxIcTVuHNFi*
-
 type: Golf
 
 
@@ -23,5 +21,3 @@ tel: AjqriFqRqrzW
 url: [www.getthebestratesfast.com](http://www.getthebestratesfast.com/)
 
 email: course-info@physics.ubc.ca
-
-[back to Things to do](..)

@@ -1,9 +1,11 @@
 ---
-title: "Serbia: The Bradt Travel Guide"
+title: "Serbia: The Bradt"
 type: poi
 author: "Laurence Mitchell"
 isbn: "11841621188"
 ---
+
+Travel Guide
 
 At time of writing, possibly the only up-to-date dedicated travel guide to Serbia. (Publisher: http://www.bradtguides.com)
 
@@ -14,5 +16,3 @@ At time of writing, possibly the only up-to-date dedicated travel guide to Serbi
 isbn: 11841621188
 
 author: Laurence Mitchell
-
-[back to Books](..)

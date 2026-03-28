@@ -21,5 +21,3 @@ Dnepropetrovsk museums seek only one thing--to celebrate the past of a vital cit
 
 **Contributors**
 April 08, 2010
-new
-by [jbyard1](/member/jbyard1)

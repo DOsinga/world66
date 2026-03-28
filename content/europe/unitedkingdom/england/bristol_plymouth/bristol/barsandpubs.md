@@ -122,5 +122,3 @@ A good pub selling local beer (Bath Ales) and good food.
 tel: (0117) 9292987
 
 address: 38 Jacobs Wells Road, Bristol
-
--->

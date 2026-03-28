@@ -13,8 +13,6 @@ Most Los Angeles travel guides have the L.A. shopping scene covered pretty good,
 
 **Contributors**
 May 20, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [Ozzie Dots](/northamerica/unitedstates/california/losangeles/shopping/ozzie_dots)
 

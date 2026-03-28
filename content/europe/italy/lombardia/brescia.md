@@ -1,8 +1,6 @@
 ---
 title: "Brescia"
 type: location
-latitude: 45.779581
-longitude: 10.425873
 ---
 
 Brescia is located 50 km from [Milan](/europe/italy/lombardia/milan) and [Verona](/europe/italy/veneto/verona) and most people who want to go to this city stay at the famous hotel Palazzo Arzaga with a famous golf course.

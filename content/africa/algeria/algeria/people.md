@@ -65,6 +65,4 @@ www.saoura.com
 
 *male:* 73.9% 
 
-*female:* 49% (1995 est.) 
-
--->
+*female:* 49% (1995 est.)

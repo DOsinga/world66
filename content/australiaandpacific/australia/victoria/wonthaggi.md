@@ -1,0 +1,4 @@
+---
+title: "Wonthaggi"
+type: location
+---

@@ -27,5 +27,3 @@ url: [www.trekking-toubkal.com](http://www.trekking-toubkal.com/)
 address: Imlil CP 42151 BP 112
 
 email: morocco.trek@yahoo.com
-
-[back to Things to do](..)

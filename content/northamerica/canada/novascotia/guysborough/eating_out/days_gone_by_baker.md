@@ -7,8 +7,6 @@ phone: "902-533-2762"
 price: "4.00-12.00"
 type: "Cheap"
 url: "www.daysgoneby.ca"
-latitude: 45.393937
-longitude: -61.500412
 ---
 
 Home cooked meals
@@ -38,5 +36,3 @@ address: 143 Main Street, Guysborough N.S.
 PriceOfMenu: 4.00-12.00
 
 email: fab.al@ns.sympatico.ca
-
-[back to Eating Out](..)

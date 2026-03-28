@@ -20,5 +20,3 @@ tel: 804-272-5397
 address: 2811 Cary St.
 
 PriceOfMenu: $7-$11
-
-[back to Eating Out](..)

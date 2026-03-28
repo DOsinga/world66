@@ -1,0 +1,4 @@
+---
+title: "Ikast"
+type: location
+---

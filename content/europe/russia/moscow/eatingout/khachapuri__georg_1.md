@@ -29,5 +29,3 @@ address: 7, Ukrainsky boulevard, Moscow, Russia
 PriceOfMenu: $20-30
 
 email: puri@hacha.ru
-
-[back to Eating Out](..)

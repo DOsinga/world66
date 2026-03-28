@@ -1,12 +1,8 @@
 ---
-title: "east coast Travel Guide"
+title: "east coast"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 east half of the united states
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 19:28

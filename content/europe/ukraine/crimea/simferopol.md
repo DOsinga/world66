@@ -1,0 +1,4 @@
+---
+title: "Simferopol"
+type: location
+---

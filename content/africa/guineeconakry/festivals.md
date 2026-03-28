@@ -22,9 +22,5 @@ This music festival is considered to be Conakry’s largest musical gathering of
 
 **Contributors**
 March 10, 2010
-new
-by [turkeyfish](/member/turkeyfish)
 
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

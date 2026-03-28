@@ -1,0 +1,4 @@
+---
+title: "Paniqui"
+type: location
+---

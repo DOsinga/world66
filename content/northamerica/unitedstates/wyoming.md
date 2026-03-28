@@ -10,11 +10,3 @@ Form the Badlands to [Yellowstone](/northamerica/unitedstates/wyoming/yellowston
  Many of these trails and forts can still be found in Wyoming, allowing 21st century visitors a unique opportunity to step back into the past. The actual wagon wheel ruts of the old trails can still be seen in many places. Modern highways also follow or parallel the trails, a testament to the skill of those early scouts and explorers who relied only on dead reckoning and the lay of the land to establish the covered wagon routes. 
 
  The lovers of museums should head for the capital city [Cheyenne](/northamerica/unitedstates/wyoming/cheyenne) or to Cody. The Buffalo Bill Historical Center in Cody, actually four in one complex, was tabbed by The New York Times as "The Smithsonian of the West." The Wyoming State Museum in Cheyenne which tells the stories of Wyoming's human and natural history and the Cheyenne Frontier Days Old West Museum, also in Cheyenne, showcases one of the world's largest and finest collections of horse-drawn vehicles. Art is also showcased at facilities like the University of Wyoming Art Museum in Laramie, the Nicolaysen Art Museum in [Casper](/northamerica/unitedstates/wyoming/casper), the Bradford Brinton Memorial in Big Horn, the National Museum of Wildlife Art in [Jackson](/northamerica/unitedstates/mississippi/jackson) and the Charles Belden Museum in Meeteetse.
-
-## Destinations
-
-- [Casper](/northamerica/unitedstates/wyoming/casper)
-- [Cheyenne](/northamerica/unitedstates/wyoming/cheyenne)
-- [Jackson hole](/northamerica/unitedstates/wyoming/jacksonhole)
-- [Wind River Canyon](/northamerica/unitedstates/wyoming/windrivercanyon)
-- [Yellowstone](/northamerica/unitedstates/wyoming/yellowstone)

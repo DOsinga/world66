@@ -19,8 +19,6 @@ the cookies are GREAT!
 
 **Contributors**
 October 26, 2005
-new
-by [gypsymoth](/member/gypsymoth)
 
 type: Speciality shops
 
@@ -35,5 +33,3 @@ url: [www.kukisbymaru.com](http://www.kukisbymaru.com)
 address: Gran Plaza Mall, 2nd floor
 
 email:
-
-[back to Shopping](..)

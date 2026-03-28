@@ -1,6 +1,6 @@
 ---
 title: "Eating Out in Southampton"
-type: location
+type: section
 address: "9, Church St Shirley, Southampton Hampshire SO15 5LG"
 phone: "023 8077 1158"
 type: "general"

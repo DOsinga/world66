@@ -17,5 +17,3 @@ type: African
 tel: +234 803 4500 653
 
 address: Ike street, garki area 11, directly opposite he Bolton white hotel
-
-[back to Eating Out](..)

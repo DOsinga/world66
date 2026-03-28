@@ -24,5 +24,3 @@ openingHours: Tuesday - Friday: 9am to 5pm
 url: [artmuseum.arizona.edu](http://artmuseum.arizona.edu)
 
 address: near Park Avenue and Speedway Boulevard.
-
-[back to Sights](..)

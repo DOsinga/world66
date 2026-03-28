@@ -7,9 +7,3 @@ From Oriental Parade towards the airport, there are hundreds of small private be
 
 **Contributors**
 January 02, 2007
-new
-by [lollo](/member/lollo) (1 point)
-
-
-
-[back to Beaches](..)

@@ -10,7 +10,3 @@ connection: S Savignyplatz, S Bahnbogen
 address: Savignyplatz, 583
 
 openings: Mo-Th 10:30am -7pm, Fr 10:30am -8pm, Sa 10:30 am -4pm
-
-[back to Shopping](..)
-
--->

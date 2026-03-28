@@ -24,3 +24,21 @@ The Pear Barbeque Continental restaurant is located on the top floor of the Cont
 #### Spring Rose
 
 The Spring Rose restaurant serves a variety of dishes including many different cuisines from Pakistan and some continental choices are also available. You can enjoy the decorations at the restaurant while you relax and savor the menu items that are available.
+
+i just want to say that peshawer is the most beauitifull city.now i am in china and i have been visited to all the pouler cities here also shanghai the top 10 city in china but when i compared it with my peshawer...thanks god
+
+### [Silver Dragon](/asia/pakistan/peshawar/eating_out/silver_dragon)
+
+Located on the Main University Road just a few meters from the Airport, the food is great and so is the decor
+
+type: Chinese
+
+
+
+PriceOfMenu: Rs 1400 Max for 3-4 Person
+
+### [Shiraz](/asia/pakistan/peshawar/eating_out/shiraz)
+
+Located on Arabab road
+
+type: Indian and Pakistani

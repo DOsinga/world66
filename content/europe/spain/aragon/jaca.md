@@ -1,8 +1,6 @@
 ---
 title: "Jaca"
 type: location
-latitude: 42.569288
-longitude: -0.549376
 ---
 
 Jaca is most often reached from Huesca, the provincial capital, by bus or train. Hoewever it provides one of the easiest entrances to Spain over the Pyrenees from Oleron Ste Marie in France and if you have reached the Ordesa National Park from the east, it it is easy to get a bus to Sabañanigo and change for Jaca.

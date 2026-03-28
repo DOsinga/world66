@@ -17,8 +17,6 @@ This is part of the Parks Canada Discovery Centre complex and tickets can be pur
 
 **Contributors**
 November 22, 2009
-new
-by [waterfalls](/member/waterfalls)
 
 type: Landmarks
 
@@ -31,5 +29,3 @@ tel: 905-526-0911
 url: www.pc.gc.ca
 
 address: HMCS Haida, Pier 9, 658 Catharine Street, North
-
-[back to Sights](..)

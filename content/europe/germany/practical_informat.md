@@ -12,5 +12,3 @@ International Youth Hostels ("Jugendherbergen") are owned and run by the associa
 
 
 Privately run independent hostels are an attractive alternative for a similar price. More than 60 already exist in Germany, getting more and more every year. They are located in bigger cities, espcially in [Berlin](/europe/germany/berlin), [Munich](/europe/germany/bavaria/munich), [Dresden](/europe/germany/saxony/dresden), and [Hamburg](/europe/germany/hamburg). Only few are in the country side. Sometimes run by former travellers, hostels refrain from having strict rules. Especially small ones are frequently places where you can feel at home. There is no need to be a member in some organisation to sleep there. About half of the hostels have organized themselves in a "Backpacker Network" (http://www.backpacker-network.de/), which provides a list of their members hostels. A more complete list is Marcus's hostel list (http://www.hostel-list.de/). If you are interested in other traveller's opinions about hostels try http://www.hostelz.com/.
-
--->

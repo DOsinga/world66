@@ -1,0 +1,4 @@
+---
+title: "Richmond"
+type: location
+---

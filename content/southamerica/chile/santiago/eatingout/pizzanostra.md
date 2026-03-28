@@ -20,5 +20,3 @@ address: Av. Providencia 1975
 openinghours: daily until midnight
 
 tel: 231-9853
-
-[back to Eating Out](..)

@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 October 22, 2006
-change
-by [svetico](/member/svetico)
 
 We currently have no Shopping listed in Nice.
 

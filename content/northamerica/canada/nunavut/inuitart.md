@@ -19,6 +19,4 @@ Inuit art is alive and well. Inuit production and presentation of art, in its ma
 
   Inuit art, so admired over the past half-century, will undoubtedly continue to change. There is an onus on Nunavut's elected leaders, beginning in 1999 and for the next half-century, to support the artistic expression of Inuit culture and the new Nunavut. There is an onus, too, on the Inuit artist to be not merely a repetitive chronicler of times past, but a witness to and active participant in this exciting new era.
 
- Toronto artist Terry Ryan first sailed to the Arctic in 1956, and settled in Cape Dorset in 1960. He is general manager of the West Baffin Eskimo Co-operative and Dorset Fine Arts in Toronto.  
-
--->
+ Toronto artist Terry Ryan first sailed to the Arctic in 1956, and settled in Cape Dorset in 1960. He is general manager of the West Baffin Eskimo Co-operative and Dorset Fine Arts in Toronto.

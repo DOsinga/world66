@@ -12,13 +12,5 @@ Tourists can take a guided tour of the dam for free.
 
 **Contributors**
 May 22, 2005
-new
-by [jst](/member/jst)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

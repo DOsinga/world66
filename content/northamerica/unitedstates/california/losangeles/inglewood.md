@@ -1,0 +1,4 @@
+---
+title: "Inglewood"
+type: location
+---

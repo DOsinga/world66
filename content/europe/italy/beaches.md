@@ -17,5 +17,3 @@ Looking to the sea and dominated by Mount San Calogero on its east side, Sciacca
 
 **Contributors**
 January 17, 2008
-new
-by [sicilyholidayhouses](/member/sicilyholidayhouses)

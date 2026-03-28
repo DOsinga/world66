@@ -12,5 +12,3 @@ type: Pubs
 
 
 url: [www.plastic.pt](http://www.plastic.pt/)
-
-[back to Nightlife and Entertainment](..)

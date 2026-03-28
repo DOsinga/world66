@@ -6,8 +6,6 @@ email: "candles.viane@belgacom.net"
 phone: "050/34 33 97"
 type: "Speciality shops"
 url: "www.dekaarsengieterij.be"
-latitude: 51.20851
-longitude: 3.222078
 ---
 
 De Kaarsengieterij is the oldest, and the one and only, candle-shop in the centre of Brugge.
@@ -20,8 +18,6 @@ A nice range of candle-holders and t-lights make the shop to a jewel.
 
 **Contributors**
 May 29, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Speciality shops
 
@@ -36,5 +32,3 @@ address: Sint-Amandsstraat 30
 tel: 050/34 33 97
 
 email: candles.viane@belgacom.net
-
-[back to Shopping](..)

@@ -29,5 +29,3 @@ tel: +371 22003317
 url: [www.filologi.lv](http://www.filologi.lv/en/)
 
 email: info@filologi.lv
-
-[back to Practical Information](..)

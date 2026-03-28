@@ -1,0 +1,4 @@
+---
+title: "Fukui"
+type: location
+---

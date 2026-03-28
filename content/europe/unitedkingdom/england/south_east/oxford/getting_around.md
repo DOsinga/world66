@@ -19,5 +19,3 @@ The City of Oxford Motor Services Ltd. operates The Oxford Bus Company. Address:
 
 **Contributors**
 June 08, 2008
-new
-by [mcburton](/member/mcburton)

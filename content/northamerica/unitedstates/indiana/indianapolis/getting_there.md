@@ -7,5 +7,3 @@ Making Indianapolis travel a reality is easier. There are several airline carrie
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

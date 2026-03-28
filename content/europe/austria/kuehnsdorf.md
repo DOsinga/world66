@@ -1,0 +1,4 @@
+---
+title: "Kuehnsdorf"
+type: location
+---

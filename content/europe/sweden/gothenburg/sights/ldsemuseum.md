@@ -40,7 +40,3 @@ address: Musievägen 1
 url: [www.alvlanmus.se](http://www.alvlanmus.se/lodose/)
 
 tel: 0520 - 66 10 10
-
-[back to Sights](..)
-
--->

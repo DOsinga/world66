@@ -1,8 +1,6 @@
 ---
 title: "Esquina Corrientes"
 type: location
-latitude: -30.005932
-longitude: -59.529156
 ---
 
 Corrientes has “Paye” says the popular saying from the area. Paye in the land of the acient Guaranies means majesty, the leyend says whoever visits Corrientes falls in love completely.

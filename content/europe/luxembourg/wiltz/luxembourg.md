@@ -1,8 +1,6 @@
 ---
 title: "Luxembourg"
 type: location
-latitude: 49.963411
-longitude: 5.916107
 ---
 
 'Luxembourg is for lovers' written by Riana Lagarde, May 2004 http://mblog.com/french_toast/ 

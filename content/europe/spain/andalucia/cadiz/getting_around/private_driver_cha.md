@@ -5,8 +5,6 @@ address: "Cadiz"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 10.956652
-longitude: 123.305703
 ---
 
 If Cadiz is on your itinerary for a stop during
@@ -26,8 +24,6 @@ for 2 to 8 hours or more, and extended vacation.
 
 **Contributors**
 October 20, 2006
-change
-by [euroadventures](/member/euroadventures)
 
 
 
@@ -38,5 +34,3 @@ url: [www.euroadventures.net](http://www.euroadventures.net/spain/private-tours/
 address: Cadiz
 
 email: tours@euroadventures.net
-
-[back to Getting Around](..)

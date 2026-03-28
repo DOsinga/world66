@@ -5,8 +5,6 @@ address: "124, haram street, giza, egypt"
 email: "amany@egyptonlinetours.com"
 phone: "01143151569"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Pyramids Trip Itinerary:-
 
@@ -43,7 +41,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Our Cairo tour will start in the early morning with pick up from
 your ship in Port Said. Then you will be transferred to Cairo, where you will
@@ -120,5 +118,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Shore-Excu
 address: 124, haram street, giza, egypt
 
 email: amany@egyptonlinetours.com
-
-[back to Day Trips](..)

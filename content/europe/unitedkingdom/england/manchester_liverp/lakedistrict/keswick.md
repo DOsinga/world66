@@ -1,9 +1,9 @@
 ---
-title: "Keswick Travel Guide"
+title: "Keswick"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 During the Ice Age, glaciers carved away at the landscape in what we
 now know as Northern England, forming majestic valleys, mountains, and
@@ -57,8 +57,3 @@ products.
 
 More information on
 *Keswick Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 21:32

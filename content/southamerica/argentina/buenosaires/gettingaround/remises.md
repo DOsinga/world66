@@ -7,5 +7,3 @@ Throughout the whole country of Argentina the so called "remis" service is very 
 
 **Contributors**
 February 27, 2005
-new
-by [almafuerte](/member/almafuerte)

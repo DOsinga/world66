@@ -13,8 +13,6 @@ Phenelope cool club is one of the discos of greater success in the zone of Berga
 
 **Contributors**
 September 11, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing
 
@@ -31,5 +29,3 @@ url: [www.lista-online.it](http://www.lista-online.it)
 address: s.s. Dalmine - Villa d'Almè, 4 - Curno, Bergamo
 
 email: simonauro@libero.it
-
-[back to Nightlife and Entertainment](..)

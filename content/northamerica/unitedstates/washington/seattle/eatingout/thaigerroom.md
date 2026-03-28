@@ -10,7 +10,5 @@ Located near the University of Washington, Thaiger Room was not only noted for t
 
 **Contributors**
 April 30, 2005
-change
-by [minlee](/member/minlee)
 
 type: Thai

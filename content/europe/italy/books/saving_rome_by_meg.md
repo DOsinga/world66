@@ -14,5 +14,3 @@ A collection of [funny and touching stories about life in modern Rome](/europe/i
 author: Megan K. Williams
 
 isbn: 1-897187-03-3
-
-[back to Books](..)

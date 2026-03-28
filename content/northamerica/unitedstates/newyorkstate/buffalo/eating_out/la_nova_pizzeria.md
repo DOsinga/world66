@@ -13,8 +13,6 @@ Their menu is EXTENSIVE, focusing on pizza, wings, subs, and italian style dinne
 
 **Contributors**
 December 20, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 type: Italian
 
@@ -27,5 +25,3 @@ url: [www.lanova.com](http://www.lanova.com)
 address: W Ferry at Hampshire, Buffalo.
 
 PriceOfMenu: variable, depending on item.
-
-[back to Eating Out](..)

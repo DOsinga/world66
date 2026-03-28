@@ -22,5 +22,3 @@ tel: 33750235
 address: alecatota@uol.com.br
 
 email: alecatota@uol.com.br
-
-[back to Nightlife and Entertainment](..)

@@ -41,5 +41,3 @@ Head to Chocolateria de San Gines Restaurant for a cup of gooey hot chocolate an
 
 **Contributors**
 March 24, 2010
-new
-by [beverly_per](/member/beverly_per)

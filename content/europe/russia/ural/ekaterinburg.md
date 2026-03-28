@@ -1,8 +1,6 @@
 ---
 title: "Ekaterinburg"
 type: location
-latitude: 56.838207
-longitude: 60.600789
 ---
 
 Ekaterinburg is the historical and economic center of the [Ural](/europe/russia/ural)s which forms a natural border between [Europe](/europe) and [Asia](/asia). It is also the administrative center of the Sverdlovsk region and the [Ural](/europe/russia/ural) federal district. The city lies on Iset River.
@@ -26,6 +24,3 @@ The present day Ekaterinburg is rich in sights - architectural monuments of Russ
 Currently the population of Ekaterinburg stands at 1.5 million. There are more than 100 research institutes headed by the Urals Branch of the Russian Academy of Sciences, 15 higher educational establishments, 35 technical schools (colleges), 27 vocational schools, 5 theatres, a philharmonic concert hall, about 600 libraries, and 15 stadiums.
 
 Ekaterinburg is a draw for geologists (fascinated by the mineral-rich [Ural](/europe/russia/ural)s) and tourists who come for mystery and history of the Communist-era, and then discover a city surprisingly rich in pre-Soviet churches and other architecture of an earlier era. The Europe-Asia Obelisk which is a about 25 miles west of the city, marking the border between the two continents, is an especially interesting place to visit.
-
-*Change history*
-Minor corrections by [igor](/member/igor) on 09 April 04

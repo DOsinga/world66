@@ -20,5 +20,3 @@ tel: 93 21 93 811
 address: Ctra Carmel 23, Parque Güell
 
 open: Daily: 10-14:00 and 16:00- 19:00.
-
-[back to Museums](..)

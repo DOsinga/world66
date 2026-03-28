@@ -13,14 +13,7 @@ There are a number of sights in Hartford. The Old State House, the Wadworth Athe
 
 ### [Old State House](/northamerica/unitedstates/connecticut/hartford/sights/old_state_house)
 
-The Old State House of Hartford dates back to 1796, and is one of the
-oldest state houses. You can visit the magnificently-restored rooms.
-
-type: Landmarks
-
-
-
-tel: (860) 522-6766
+The Old State House of Hartford dates tel: (860) 522-6766
 
 openingHours: Tues - Fri: 11am to 5pm; Sat: 10am to 5pm
 

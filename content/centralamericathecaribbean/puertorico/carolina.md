@@ -1,0 +1,4 @@
+---
+title: "Carolina"
+type: location
+---

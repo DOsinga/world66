@@ -23,6 +23,3 @@ saved..
 You can’t
 miss the gardens when you drive through Trsteno about 20 kilometres North of
 Dubrovnik. There is a splendid view from the “bottom” of the park.
-
-**Change history**
-Orginal article by [janskov](/member/janskov) on 10 May 05

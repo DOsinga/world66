@@ -17,4 +17,4 @@ Valle Gran Rey has been for some years the center for an alternative tourism com
 
 ## Destinations in La Gomera
 
-[Valle Gran Rey](/europe/spain/canaryislands/lagomera/vallegranrey)
+[Valle Gran Rey](/world/europe/spain/canaryislands/lagomera/vallegranrey)

@@ -11,5 +11,3 @@ Manzanita is the perfect place to escape the hustle and bustle of other coastal 
 
 **Contributors**
 August 22, 2005
-change
-by [rickjacobson](/member/rickjacobson)

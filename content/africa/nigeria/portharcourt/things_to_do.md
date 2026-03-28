@@ -71,9 +71,5 @@ seasons are when there is many kinds of activities.
 
 **Contributors**
 April 04, 2010
-new
-by [joekabuya](/member/joekabuya)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

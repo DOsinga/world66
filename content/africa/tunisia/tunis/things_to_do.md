@@ -58,9 +58,5 @@ atmosphere are worth it.
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)
 
 January 28, 2010
-new
-by [nicole mesaros](/member/nicole_mesaros)

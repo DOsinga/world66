@@ -10,7 +10,3 @@ address: Mühlenstr. 70-80
 connections: U+S Warschauer Str.
 
 openings: Mo-Th 9am -2am, Fr+Sa 9am -open end, Su 10am -2am
-
-[back to Eating Out](..)
-
--->

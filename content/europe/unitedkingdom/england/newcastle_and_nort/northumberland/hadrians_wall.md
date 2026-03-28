@@ -8,6 +8,3 @@ Hadrian's Wall was built by the Romans in the second century AD as protection ag
 Entrance to Marti's. It was about 5 metres high with 2 metre barricades on topand anybody getting across was then faced with a ditch 9 metres wide and 3 deep!
 
 The wall snakes across the open hill country of the border and it is now possible to walk the whole length. Obviously you will only see the remains of its former glory but it is still a very major sight and it should stir the imagination.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 06 January 05

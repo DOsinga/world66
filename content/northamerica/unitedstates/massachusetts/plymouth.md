@@ -14,8 +14,3 @@ Plimoth Plantation is a living museum a mile south of downtown, which contains a
 There are also numerous old houses, such as the Sparrow House, or the Harlow Old Fort House, which date from the mid-17th century. The Forefathers' Monument is also an impressive sight in the north part of town.
 
 Besides the extensive historical attractions, there are many parks, ponds, and beaches in town. Geographically, Plymouth is a huge town, with big hills, sparkling ponds, and beautiful sand beaches (without the need to cross the bridges to Cape Cod). Recently, numerous high-end golf courses have been built as well.
-
-*Change history*
-Orginal article by [rcolonna](/member/rcolonna) on 09 September 04
-
--->

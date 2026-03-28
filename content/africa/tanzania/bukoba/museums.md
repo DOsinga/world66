@@ -39,5 +39,3 @@ E-mail: info@kiroyeratours.com, Website: http://www.kagera.org/culture/museum.ht
 
 **Contributors**
 May 13, 2005
-change
-by [lacroix_bart](/member/lacroix_bart)

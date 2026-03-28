@@ -11,8 +11,6 @@ The Echo Canyon Trail and Recreation Center is an excellent place to go if you a
 
 **Contributors**
 May 09, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Streets
 
@@ -23,5 +21,3 @@ tel: +1 866 275 5816
 openingHours: May 1-Sept 30: 6a-7:30p, Oct 1-April 30: 7a-5:30p
 
 address: North Tatum Boulevard and East McDonald Drive Phoenix, AZ 85253
-
-[back to Sights](..)

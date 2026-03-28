@@ -11,8 +11,6 @@ For those opting for a casual communal dining experience, Seabar serves innovati
 
 **Contributors**
 August 09, 2006
-new
-by [plin](/member/plin) (1 point)
 
 type: Pubs
 
@@ -25,5 +23,3 @@ tel: 323 650 8999
 url: www.mondrianhotel.com
 
 address: 8440 Sunset Blvd.
-
-[back to Nightlife and Entertainment](..)

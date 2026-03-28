@@ -13,8 +13,6 @@ The region is worth a visit in every season, but when snow and ice crack under y
 
 **Contributors**
 July 19, 2005
-new
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 ### [the Fish Ladder of Breebaart polder](/europe/netherlands/nieuw__statenzijl_/tours_and_excursio/the_fish_ladder_of)
 

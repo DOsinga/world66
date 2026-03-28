@@ -17,9 +17,5 @@ To complete a trip to Hammamet, a tour of the surrounding terrain is a must. A g
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)
 
 December 31, 2009
-change
-by [turkeyfish](/member/turkeyfish)

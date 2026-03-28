@@ -11,5 +11,3 @@ The bus station is about quarter of an hour from Cimbra A up Av. Fernao de Magha
 
 **Contributors**
 October 17, 2008
-new
-by [davidx](/member/davidx)

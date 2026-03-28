@@ -56,5 +56,3 @@ created from violet, including teas, candles, soaps, and even sweets.
 
 **Contributors**
 April 09, 2010
-new
-by [sarah mae](/member/sarah_mae)

@@ -7,5 +7,3 @@ Eastbourne is served by a train station, located at the end of Terminus Road, no
 
 **Contributors**
 August 12, 2005
-new
-by [boogaloo](/member/boogaloo)

@@ -1,9 +1,9 @@
 ---
-title: "Valladolid Travel Guide"
+title: "Valladolid"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located half way between Merida and Cancun, Valladolid is a small,
 quaint city-town that still preserves a special colonial flavor.
@@ -26,13 +26,3 @@ with its huge murals depicting Mexican history. Sometime during
 your visit, you will also want to sample the flavorful cuisine from
 Valladolid, including the local dishes of lomitos de Valladolid,
 longaniza and chicken escabeche.
-
-*Part or or all of this text stems from the original article at: http://www.yucatantoday.com/destinations/eng-valladolid.htm*
-
-#### Contributors
-
-February 14, 2007 new by [nellie66](/member/nellie66) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 23:52

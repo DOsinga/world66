@@ -51,5 +51,3 @@ type: section
 
 **Contributors**
 December 08, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

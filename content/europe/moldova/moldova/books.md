@@ -76,5 +76,3 @@ author: Edward H. Judge
 isbn: 0814741932
 
 subject: history
-
--->

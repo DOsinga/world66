@@ -1,9 +1,9 @@
 ---
-title: "Brettesnes Lofoten Travel Guide"
+title: "Brettesnes Lofoten"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Brettesnes 2008 Store Molla i Lofoten - Vågan kommune
 
@@ -18,7 +18,3 @@ Tidligere gikk det ferge mellom Svolvær og Våtvika ved Brettesnes. Men siden v
 Hurtigruta passerer Store Molla på vei mellom Svolvær og Raftsundet.
 · For å komme til Brettesnes kjører man til Digermulen og der tar man bilferge over til Finnvik. Deretter kjører man 1,2 mil sørover.
 · Hurtigbåten som går mellom Bodø og Svolvær kan bestilles til Brettesnes fredag og søndag.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 07:22

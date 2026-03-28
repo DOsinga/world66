@@ -5,8 +5,6 @@ address: "Hurghada"
 email: "mhsagdcfhsa@yahoo.com"
 phone: "21432"
 url: "midleeast"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Parfait séjour en Egypte
@@ -101,5 +99,3 @@ url: [midleeast](http://midleeast)
 address: Hurghada
 
 email: mhsagdcfhsa@yahoo.com
-
-[back to Day Trips](..)

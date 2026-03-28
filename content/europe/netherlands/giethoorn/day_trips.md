@@ -60,9 +60,5 @@ Giethoorn day trips is a must for anyone looking forward to exploring this part 
 
 **Contributors**
 March 16, 2010
-change
-by [joekabuya](/member/joekabuya)
 
 March 18, 2010
-change
-by [ctanios](/member/ctanios)

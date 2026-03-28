@@ -33,5 +33,3 @@ url: [www.moroccanviews.com](http://www.moroccanviews.com)
 address: Moroccan Views; 19 bis Boulvard Fatima Zahra; Rmila; Marrakech
 
 email: contact@moroccanviews.com
-
-[back to Day Trips](..)

@@ -8,11 +8,5 @@ The Venice Royal Gardens are only around one acre. Although small, the gardens a
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Other
-
-
-
-[back to Things to do](..)

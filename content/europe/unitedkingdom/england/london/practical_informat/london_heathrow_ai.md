@@ -13,9 +13,3 @@ located in the London Borough of Hillingdon, 15 miles (24 km) west of
 Charing Cross in Central London.
 
 type: Airport
-
-
-
-
-
-[back to Practical Information](..)

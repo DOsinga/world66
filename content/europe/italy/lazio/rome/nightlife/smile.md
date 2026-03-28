@@ -14,5 +14,3 @@ type: Discos & Clubs
 
 
 address: Stab. Sporting Beach, Ostia
-
-[back to Nightlife and Entertainment](..)

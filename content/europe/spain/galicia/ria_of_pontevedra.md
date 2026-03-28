@@ -13,5 +13,3 @@ Although the south coast of the ria is home to the Naval Academy, and Marín has
 
 **Contributors**
 March 08, 2005
-new
-by [euroadventures](/member/euroadventures)

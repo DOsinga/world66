@@ -1,0 +1,4 @@
+---
+title: "Ghardaia"
+type: location
+---

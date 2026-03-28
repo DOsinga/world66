@@ -40,5 +40,3 @@ price: 10c per minute $5.50 P.H
 email: info@ivinyl.com.au
 
 hours: 10-7 Mon - Sat
-
-[back to Internet Cafes](..)

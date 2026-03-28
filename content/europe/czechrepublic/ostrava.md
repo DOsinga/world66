@@ -1,9 +1,9 @@
 ---
-title: "Ostrava Travel Guide"
+title: "Ostrava"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Ostrava is the third largest city (320 000 inhabitants) in the
 Czech republic and one of the most interesting places to visit. Since
@@ -37,7 +37,3 @@ coal-mining in the city. The mining museum contains a large collection
 of mining lamps and other equipment, and visitors can go down into a
 reconstructed coal seam or see the remains of the settlement of
 mammoth-hunters who once lived on the spot.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 16:06

@@ -7,8 +7,6 @@ email: "laura@juan-jo.com"
 phone: "933928900"
 type: "Speciality shops"
 url: "www.juan-jo.com"
-latitude: 41.383082
-longitude: 2.168099
 ---
 
 Juan-Jo Gallery is at Elisabets 20 in El Raval. They design, make and sell wonderful jackets and leather complements. You can't find similar quality in BCN. Also they have very good prices. The point is these people are working in leather for more than 40 years and they know very well their job.
@@ -36,5 +34,3 @@ url: [www.juan-jo.com](http://www.juan-jo.com)
 address: Elisabets 20. BCN 08011
 
 email: laura@juan-jo.com
-
-[back to Shopping](..)

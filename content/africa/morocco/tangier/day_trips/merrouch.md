@@ -12,8 +12,6 @@ The final step is for a guided walking tour into the old city called Medina with
 
 **Contributors**
 May 25, 2011
-change
-by [travelwise](/member/travelwise)
 
 
 
@@ -24,5 +22,3 @@ tel: ...............................
 url: [...............................](http://...............................)
 
 address: ...............................
-
-[back to Day Trips](..)

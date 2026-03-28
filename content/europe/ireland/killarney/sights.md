@@ -17,9 +17,5 @@ type: section
 
 **Contributors**
 July 19, 2005
-new
-by [dmeehan](/member/dmeehan) (1 point)
 
 July 20, 2005
-change
-by [giorgio](/member/giorgio)

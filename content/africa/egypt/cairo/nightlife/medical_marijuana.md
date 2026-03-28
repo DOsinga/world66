@@ -12,5 +12,3 @@ type: Casinos
 
 
 email: weed.man4real@gmail.com
-
-[back to Nightlife and Entertainment](..)

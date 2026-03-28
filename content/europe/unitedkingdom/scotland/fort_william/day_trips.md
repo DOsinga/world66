@@ -22,8 +22,6 @@ Lastly you can leave the north bound A82 to the west on one of the two approache
 
 **Contributors**
 April 05, 2006
-new
-by [coolsailor](/member/coolsailor) (2 points)
 
 ### [Scottish Highlands Tours](/europe/unitedkingdom/scotland/fort_william/day_trips/scottish_highlands)
 

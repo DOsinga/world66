@@ -3,8 +3,6 @@ title: "Staten Island"
 type: poi
 address: "Staten Island, New York"
 url: "www.statenislandusa.com; http:"
-latitude: 40.583456
-longitude: -74.149605
 ---
 
 New Yorker's call it a suburb and Staten Islander's call it their beloved borough. Whatever you decide to call it, Staten Island has much to offer in the way of sights, scenery, culture, and cuisine. Some of Staten Island's most popular attractions include the Staten Island Ferry which offers a stunning view of Lower Manhattan and the Statue of Liberty, Historic Richmondtown, Staten Island Botanical Garden (www.sibg.org), the Newhouse Center for Contemporary Art (www.newhousecenter.org), and the Jacques Marchais Museum of Tibetan Art (in Richmondtown, www.tibetanmuseum.com). Also not to be missed is Snug Harbor Cultural Center (www.snug-harbor.org).
@@ -13,13 +11,9 @@ When it's time to eat, head to Parsonage at 74 Arthur Kill Road in Richmondtown 
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
 url: [www.statenislandusa.com; http:](http://www.statenislandusa.com; http://www.siferry.com; )
 
 address: Staten Island, New York
-
-[back to Day Trips](..)

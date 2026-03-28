@@ -6,8 +6,6 @@ email: "use form on website"
 opening_hours: "Tuesday - Saturday 10:00 am - 3:00 pm. Closed Sunday, Monday, New Year's Day, Thanksgiving Day, and Christmas Day."
 phone: "(909) 793-5402"
 url: "missiontour.org"
-latitude: 34.048903
-longitude: -117.216706
 ---
 
 Established as an adjunct to Mission San Gabriel Arcángel, the Asistencia is
@@ -31,8 +29,6 @@ Day.
 
 **Contributors**
 December 05, 2005
-new
-by [handyman321](/member/handyman321)
 
 
 
@@ -45,5 +41,3 @@ url: [missiontour.org](http://missiontour.org/sangabriel/asistencia.htm)
 address: 26930 Barton Road, Redlands, CA
 
 email: use form on website
-
-[back to Museums](..)

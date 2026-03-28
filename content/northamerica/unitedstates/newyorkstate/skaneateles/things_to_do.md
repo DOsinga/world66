@@ -18,5 +18,3 @@ Start at the **Boutique Hotel** at 12 Fennell Street, Skaneateles, NY 13152 and 
 
 **Contributors**
 May 18, 2008
-change
-by [tonicurtis](/member/tonicurtis) (1 point)

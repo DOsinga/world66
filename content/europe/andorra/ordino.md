@@ -1,8 +1,6 @@
 ---
 title: "Ordino"
 type: location
-latitude: 42.600955
-longitude: 1.529839
 ---
 
 We currently have no information about Ordino.

@@ -28,5 +28,3 @@ address: 20 ave,1-2 cale NO colonia moderna
 PriceOfMenu: $$
 
 email: baranda@globalnet.hn
-
-[back to Eating Out](..)

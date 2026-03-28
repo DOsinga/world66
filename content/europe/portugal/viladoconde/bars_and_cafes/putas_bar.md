@@ -8,13 +8,5 @@ The best nights in Vila are spent at Velvet! A delightful and well cared-for pla
 
 **Contributors**
 September 10, 2004
-change
-by [mtl](/member/mtl) (1 point)
 
 type: general
-
-
-
-
-
-[back to Bars and Cafes](..)

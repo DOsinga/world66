@@ -14,8 +14,6 @@ The staff speaks little english, but menues are available in several languages. 
 
 **Contributors**
 June 29, 2005
-new
-by [gagarin](/member/gagarin)
 
 type: Local
 
@@ -30,5 +28,3 @@ url: [www.alabote.net](http://www.alabote.net)
 address: Largo East Providence, 68
 
 PriceOfMenu: €25-€30
-
-[back to Eating Out](..)

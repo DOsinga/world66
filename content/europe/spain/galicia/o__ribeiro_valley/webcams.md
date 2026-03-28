@@ -1,15 +1,12 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "213.60.176.20"
 ---
 
 Webcams moved, please delete in moderation, Reen
 
-**Change history**
-Orginal article by [Reen](/member/reen) on 13 April 05
-
-Minor corrections by [Reen](/member/reen) on 13 April 05
+Minor corrections on 13 April 05
 
 ### Doade (Canón do Sil)
 

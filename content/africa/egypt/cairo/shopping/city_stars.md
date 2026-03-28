@@ -20,5 +20,3 @@ accessibility: wheelchair accessible
 url: [www.citystars.com.eg](http://www.citystars.com.eg/citystars/)
 
 address: Sharia Umar Ibn-Il Khattab, Heliopolis, Cairo
-
-[back to Shopping](..)

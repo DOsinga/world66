@@ -7,5 +7,3 @@ Friendship Firehouse MuseumOne of many Alexandria attractions is the Friendship 
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)

@@ -1,0 +1,4 @@
+---
+title: "Wildwood"
+type: location
+---

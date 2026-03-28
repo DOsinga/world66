@@ -11,8 +11,6 @@ Head to the Trocadero Theater in Philly’s Chinatown and experience a renowned 
 
 **Contributors**
 April 21, 2009
-change
-by [wine-lover](/member/wine-lover)
 
 type: Theatres
 
@@ -23,5 +21,3 @@ tel: 215-922-5483
 url: [www.thetroc.com](http://www.thetroc.com/)
 
 address: 1003 Arch St., Philadelphia, Pennsylvania
-
-[back to Nightlife and Entertainment](..)

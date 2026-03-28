@@ -2,8 +2,6 @@
 title: "Labadi Beach"
 type: poi
 address: "Labadi Accra"
-latitude: 5.560232
-longitude: -0.157641
 ---
 
 A quite nice, but very very crowded beach in Accra.
@@ -14,13 +12,9 @@ Some days there are performances : reggae, hiplife, playback, but also cultural 
 
 **Contributors**
 October 16, 2006
-change
-by [ragna](/member/ragna) (1 point)
 
 
 
 
 
 address: Labadi Accra
-
-[back to Beaches](..)

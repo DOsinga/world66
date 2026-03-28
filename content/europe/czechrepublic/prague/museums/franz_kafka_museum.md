@@ -27,5 +27,3 @@ url: [www.kafkamuseum.cz](http://www.kafkamuseum.cz)
 address: Hergetova cihelna, Cihelná 2b, Prague 1, The Czech Republic
 
 email: info@kafkamuseum.cz
-
-[back to Museums](..)

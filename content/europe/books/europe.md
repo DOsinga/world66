@@ -44,5 +44,3 @@ Europe.
 author: Dan Colwell
 
 isbn: 789497301
-
-[back to Books](..)

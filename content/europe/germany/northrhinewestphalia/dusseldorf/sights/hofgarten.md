@@ -11,7 +11,5 @@ the Goethe Museums.
 
 **Contributors**
 July 26, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Parks, Gardens and Zoos

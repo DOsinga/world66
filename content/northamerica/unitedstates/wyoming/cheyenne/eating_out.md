@@ -21,5 +21,3 @@ Great subs in Cheyenne can be found at Silver Mine Subs at 800 South Greeley Hig
 
 **Contributors**
 July 05, 2009
-change
-by [annc](/member/annc)

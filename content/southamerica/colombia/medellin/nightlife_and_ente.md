@@ -15,5 +15,3 @@ Since [Medellin](/southamerica/colombia/medellin/shopping) is not a safe city at
 
 **Contributors**
 February 22, 2010
-change
-by [ashmita](/member/ashmita_)

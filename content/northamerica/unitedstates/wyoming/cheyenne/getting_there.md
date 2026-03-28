@@ -7,5 +7,3 @@ Making Cheyenne travel a reality has never been easier. Several airline carriers
 
 **Contributors**
 May 25, 2009
-change
-by [annc](/member/annc)

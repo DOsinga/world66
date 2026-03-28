@@ -10,7 +10,3 @@ address: Piazza Belvedere, 24, 56018 Tirrenia (PISA)
 openinghours: closed on Sun
 
 tel: +39 (0)50 - 384125
-
-[back to Eating Out](..)
-
--->

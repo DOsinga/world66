@@ -56,7 +56,5 @@ All local stuff, local knowledge, by local people. This is micro-tourism!
 
 **Contributors**
 June 16, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 type: Speciality shops

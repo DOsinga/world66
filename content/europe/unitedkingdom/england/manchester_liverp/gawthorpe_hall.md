@@ -8,8 +8,3 @@ This Hall is at Padiham, near Burnley, a pleasant small town though one with no 
 Whereas it has some fine paintings, its principal claim to fame, one justifying a visit from anywhere in the area, is its collection of needlework and tapestry. These are of outstanding quality and will give pleasure to a much wider group than the normal addicts.
 
 Go to www.nationaltrust.org.uk/main and you should have no difficulty in finding it.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 22 December 04
-
--->

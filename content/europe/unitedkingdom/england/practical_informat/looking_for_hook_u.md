@@ -14,5 +14,3 @@ type: Embassies and Consulates
 
 
 email: weedspot2@gmail.com
-
-[back to Practical Information](..)

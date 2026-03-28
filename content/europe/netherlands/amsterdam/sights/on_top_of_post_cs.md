@@ -7,8 +7,6 @@ opening_hours: "bar : 11.00 am to 24.00 - club  on friday and saturday from 22.3
 phone: "+31(0)206255999"
 type: "Hotspots"
 url: "www.ilove11.nl"
-latitude: 52.37654
-longitude: 4.904935
 ---
 
 On top of Post CS Building, next to central station where the Stedelijk
@@ -25,8 +23,6 @@ look around at the whole city with an original view on Nemo.
 
 **Contributors**
 August 02, 2005
-new
-by [e-diote](/member/e-diote)
 
 type: Hotspots
 
@@ -41,5 +37,3 @@ url: [www.ilove11.nl](http://www.ilove11.nl)
 address: Oosterdokskade 3-5 1011 AD Amsterdam
 
 email: e.diote@gmail.com
-
-[back to Sights](..)

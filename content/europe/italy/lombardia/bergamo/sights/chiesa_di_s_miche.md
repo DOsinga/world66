@@ -13,8 +13,6 @@ In 1525 in the church of S. Michele al Pozzo Bianco also Lorenzo Lotto worked, t
 
 **Contributors**
 February 24, 2008
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Churches and Cathedrals
 
@@ -31,5 +29,3 @@ openingHours: Every day 8-12; 14-18
 url: fondazione.bergamoestoria.it
 
 address: Via Porta Dipinta- going up to Citta Alta
-
-[back to Sights](..)

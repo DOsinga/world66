@@ -1,0 +1,4 @@
+---
+title: "Watford"
+type: location
+---

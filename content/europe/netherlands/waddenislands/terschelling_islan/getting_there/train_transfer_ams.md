@@ -1,5 +1,5 @@
 ---
-title: "Train transfer Amsterdam <> Leeuwarden --> Harlingen"
+title: "Train transfer Amsterdam <> Leeuwarden Harlingen"
 type: poi
 type: "By Air"
 ---
@@ -14,9 +14,6 @@ connection.
 Of course, you can take a train from ANY Railway station to Leeuwarden.
 Amsterdam, Rotterdam, Utrecht and Groningen have direct connections.
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 15 March 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 15 March 05
+Minor corrections on 15 March 05
 
 type: By Air

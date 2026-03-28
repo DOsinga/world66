@@ -8,17 +8,7 @@ Times Square is home to the glowing lights, New Year's celebration and larger th
 
 **Contributors**
 March 12, 2007
-change
-by [dchung](/member/dchung) (2 points)
 
 March 13, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

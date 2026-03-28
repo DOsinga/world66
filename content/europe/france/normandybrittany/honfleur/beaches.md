@@ -10,5 +10,3 @@ The Plage Municipal of Honfleur is okay but not spectacular. The view is actuall
 **Etretat**
 
 [Etretat](/europe/france/normandybrittany/etretat) is just 10 km down the coast from Honfleur. The beaches here are good, although they are very, very small at high tide.
-
--->

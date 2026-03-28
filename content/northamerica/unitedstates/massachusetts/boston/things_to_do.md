@@ -11,8 +11,6 @@ One thing is certain about Boston -- no matter how long you stay in "The Hub" yo
 
 **Contributors**
 May 30, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Pinehills Golf Club](/northamerica/unitedstates/massachusetts/boston/things_to_do/pinehills_golf_clu)
 

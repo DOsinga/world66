@@ -9,13 +9,9 @@ This Gothic city is a major tourist attraction that can be enjoyed for a few hou
 
 **Contributors**
 May 13, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Cycling
 
 
 
 url: [www.brugge.be](http://www.brugge.be)
-
-[back to Things to do](..)

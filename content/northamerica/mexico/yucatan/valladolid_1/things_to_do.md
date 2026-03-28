@@ -9,5 +9,3 @@ For a finer selection of Mexico's popular crafts and folk art, visit ***Yalat***
 
 **Contributors**
 June 02, 2007
-new
-by [herre](/member/herre)

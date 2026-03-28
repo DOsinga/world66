@@ -8,8 +8,6 @@ Valletta has so many interesting sights that you need some days to see them. And
 
 **Contributors**
 October 12, 2006
-new
-by [svetico](/member/svetico)
 
 ### [St. John's Cathedral](/europe/malta/valletta/sights/stjohnscathedral)
 

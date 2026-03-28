@@ -32,5 +32,3 @@ url: [www.sunshine.at](http://www.sunshine.at)
 address: Burgring/Babenberger Strasse
 
 email: office@sunshine.at
-
-[back to Nightlife and Entertainment](..)

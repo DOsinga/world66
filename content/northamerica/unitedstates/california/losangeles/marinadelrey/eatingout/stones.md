@@ -12,8 +12,6 @@ Located in the Marina Marriott Hotel, serving California Cuisine. Open daily for
 
 **Contributors**
 December 13, 2006
-new
-by [marinagal](/member/marinagal) (1 point)
 
 type: Local
 
@@ -26,5 +24,3 @@ url: [www.marriotthotels.com](http://www.marriotthotels.com/laxmb)
 address: 4100 Admiralty Way, Marina del Rey, CA
 
 PriceOfMenu: Dinner entrees $14 - $35
-
-[back to Eating Out](..)

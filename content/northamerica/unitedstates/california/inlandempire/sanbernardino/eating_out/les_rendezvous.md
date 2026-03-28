@@ -5,8 +5,6 @@ address: "4775 Sierra Way, San Bernardino, California 92404"
 phone: "909 883 1231"
 price: "$50 per person total"
 type: "French"
-latitude: 34.172001
-longitude: -117.282166
 ---
 
 A hidden jewel this quaint, charming little out of the way restaurant is located in a residential area of north San Bernardino. Set at
@@ -31,8 +29,6 @@ The desserts are good enough for a trip on their own.
 
 **Contributors**
 December 04, 2005
-new
-by [handyman321](/member/handyman321)
 
 type: French
 
@@ -45,5 +41,3 @@ tel: 909 883 1231
 address: 4775 Sierra Way, San Bernardino, California 92404
 
 PriceOfMenu: $50 per person total
-
-[back to Eating Out](..)

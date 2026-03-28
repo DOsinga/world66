@@ -1,0 +1,4 @@
+---
+title: "Stjordal"
+type: location
+---

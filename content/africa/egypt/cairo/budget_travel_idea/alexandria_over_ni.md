@@ -5,8 +5,6 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
-latitude: 29.850964
-longitude: 31.220947
 ---
 
 Alexandria extends about 32 km (20 miles) along the coast of the Mediterranean sea in north-central Egypt..join now.
@@ -66,5 +64,3 @@ url: [www.egypttips.com](http://www.egypttips.com)
 address: Haram,Giza
 
 email: egypttourguide@yahoo.com
-
-[back to Budget Travel Ideas](..)

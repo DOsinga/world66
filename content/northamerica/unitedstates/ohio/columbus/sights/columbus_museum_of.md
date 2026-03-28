@@ -4,6 +4,3 @@ type: poi
 ---
 
 Not the most impressive art museum in the world, there are still some paintings of interest. The old masters gallery contains a Ruebens, and the collection of impressionists and post impressionists gives a pretty comprehensive overview of those movements. Displays range from the Italian Renaissance to Modern Art. There is a nice children's wing.
-
-*Change history*
-Orginal article by [indrian](/member/indrian) on 26 April 04

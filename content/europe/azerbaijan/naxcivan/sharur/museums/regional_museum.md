@@ -14,13 +14,9 @@ certain numbers of discovered samples are being stored in that museum.
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen) (2 points)
 
 
 
 tel: 2-21-69
 
 address: 26 Shakh Ismail street, Sharur city.
-
-[back to Museums](..)

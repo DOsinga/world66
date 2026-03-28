@@ -1,0 +1,4 @@
+---
+title: "Tipasa"
+type: location
+---

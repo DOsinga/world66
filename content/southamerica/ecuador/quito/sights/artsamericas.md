@@ -17,5 +17,3 @@ type: Galleries
 address: Shyris Ave. 760 and República de El Salvador Ave.. Building Tapia.
 
 openinghours: Monday to Saturday
-
-[back to Sights](..)

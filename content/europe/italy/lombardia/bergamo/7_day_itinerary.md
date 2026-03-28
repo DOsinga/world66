@@ -46,19 +46,4 @@ coming back to.
 
 **Day 7**
 
-Time to head back to Milan. Depending on
-when your flight leaves, you can try and squeeze in as much or as
-little sight-seeing as you feel inclined to before heading home.
-
-**Contributors**
-January 17, 2010
-new
-by [cjr236](/member/cjr236)
-
-January 20, 2010
-change
-by [b.sowa](/member/b.sowa)
-
-January 26, 2010
-change
-by [schitti](/member/schitti)
+Time to head

@@ -12,13 +12,3 @@ Alabama is the 30th largest state in the United States of America. It is situate
  Alabama has a rich heritage when it comes to black American's struggles for equality. The key civil rights historical locations are scattered throughout the state. See the Civil Rights section for details.
 
  Another site of historic importance is the Horse Shoe Bend in the Tallapoosa river. Forgot what happened there. See the [Daviston](/northamerica/unitedstates/alabama/daviston) section for details.
-
-## Destinations
-
-- [Birmingham](/northamerica/unitedstates/alabama/birmingham)
-- [Daviston](/northamerica/unitedstates/alabama/daviston)
-- [Huntsville](/northamerica/unitedstates/alabama/huntsville)
-- [Mobile](/northamerica/unitedstates/alabama/mobile)
-- [Montgomery](/northamerica/unitedstates/alabama/montgomery)
-- [Payne](/northamerica/unitedstates/alabama/payne)
-- [Tuscaloosa](/northamerica/unitedstates/alabama/tuscaloosa)

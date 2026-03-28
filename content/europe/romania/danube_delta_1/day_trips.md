@@ -7,5 +7,3 @@ The delta of the Danube River represents one of the last natural paradises in Eu
 
 **Contributors**
 August 16, 2006
-new
-by [romaniatours](/member/romaniatours)

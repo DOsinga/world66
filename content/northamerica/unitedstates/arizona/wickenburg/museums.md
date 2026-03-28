@@ -34,5 +34,3 @@ equipment of all kinds.
 
 **Contributors**
 October 21, 2006
-new
-by [midnightspecial](/member/midnightspecial)

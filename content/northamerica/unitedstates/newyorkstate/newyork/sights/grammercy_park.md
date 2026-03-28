@@ -9,12 +9,8 @@ Gorgeous landscapes, 19th-century row houses in Gothic revival, Victorian Gothic
 
 **Contributors**
 March 02, 2006
-change
-by [giorgio](/member/giorgio)
 
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Parks, Gardens and Zoos
 
@@ -23,5 +19,3 @@ type: Parks, Gardens and Zoos
 
 
 address: Between Lexington Avenue between East 20th and East 21st Streets
-
-[back to Sights](..)

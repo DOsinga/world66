@@ -5,9 +5,3 @@ type: "Highlights"
 ---
 
 type: Highlights
-
-
-
-
-
-[back to Sights](..)

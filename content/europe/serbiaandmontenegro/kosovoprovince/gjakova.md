@@ -10,5 +10,3 @@ Non-Otherdox buildings were burned down by ruthless Serbs.
 
 **Contributors**
 October 03, 2005
-change
-by [giorgio](/member/giorgio)

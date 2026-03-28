@@ -8,8 +8,6 @@ email: "tickets@vera-groningen.nl"
 phone: "++31 (0)50 313 46 81"
 type: "Concerts"
 url: "www.vera-groningen.nl"
-latitude: 53.217055
-longitude: 6.570087
 ---
 
 Vera is an alternative bar/club/gig venue featuring all kinds of music, as long as it's underground. The sale of tickets for concerts starts **2 weeks** in advance and can be purchased at recordstores "Elpee", Oosterstraat 24 and "Plato", Oude Ebbingestraat 41-43. It's possible to make a reservation by mail or telephone, but only if you **don't** live in Groningen city. At the doors you will have to pay an additional €1,- for the Vera Maandkaart. This is a pass valid for an entire current month, which means you can use that pass to visit Vera as much as you want during your stay.
@@ -35,5 +33,3 @@ address: Oosterstraat 44 9711 NV Groningen
 email: tickets@vera-groningen.nl
 
 accessibility: excellent
-
-[back to Nightlife and Entertainment](..)

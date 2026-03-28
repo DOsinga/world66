@@ -11,8 +11,6 @@ If your Venice vacation happens to take place between late August-early Septembe
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -23,5 +21,3 @@ tel: +39 041 5218711
 url: [www.labiennale.org](http://www.labiennale.org)
 
 address: Venice Film Festival, the La Biennale Office, Ca Giustinian
-
-[back to Things to do](..)

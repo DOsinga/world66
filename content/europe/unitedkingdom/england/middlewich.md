@@ -1,0 +1,4 @@
+---
+title: "Middlewich"
+type: location
+---

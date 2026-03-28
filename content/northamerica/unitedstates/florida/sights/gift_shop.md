@@ -25,5 +25,3 @@ url: [www.bestcarpetgallery.com](http://www.bestcarpetgallery.com)
 address: klodafarer cad no:3 sultanahmet
 
 email: info@bestcarpetgallery.com
-
-[back to Sights](..)

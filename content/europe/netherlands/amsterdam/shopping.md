@@ -7,15 +7,4 @@ Amsterdam is no fashion capital like Paris or Duesseldorf. It is more of a place
 
  Shops in the center are open on Sunday, usually between 12:00 and 17:00. The shopping streets get extremely crowded on Sundays as alot of people from around Amsterdam pour in to do their shopping. So your have been warned.
 
- A definitely recommend checking out H&M for bargains and the Waterlooplein market for a wide selection of classy second hand goodies. 
-
-## Subsections
-
-[Bookshops](/europe/netherlands/amsterdam/shopping/bookshops)
-[Foodies](/europe/netherlands/amsterdam/shopping/foodies)
-
-[Funshopping](/europe/netherlands/amsterdam/shopping/funshopping)
-[Markets](/europe/netherlands/amsterdam/shopping/markets)
-
-[Souvenirs](/europe/netherlands/amsterdam/shopping/souvenirs)
-[Wine](/europe/netherlands/amsterdam/shopping/wine)
+ A definitely recommend checking out H&M for bargains and the Waterlooplein market for a wide selection of classy second hand goodies.

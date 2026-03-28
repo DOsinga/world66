@@ -1,9 +1,9 @@
 ---
-title: "Nigeria Travel Guide"
+title: "Nigeria"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Style of Dress**
 
@@ -20,7 +20,3 @@ The best resource for sights, hotels, restaurants, bars, what to do and see
 **Famine /drought**
 
 *Suprising facts*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 03:09

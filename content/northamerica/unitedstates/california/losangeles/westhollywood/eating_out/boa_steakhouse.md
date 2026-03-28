@@ -13,8 +13,6 @@ fills up the menu.
 
 **Contributors**
 November 28, 2006
-new
-by [jhyatt](/member/jhyatt)
 
 type: American
 
@@ -27,5 +25,3 @@ tel: +1 323-650-8383
 url: [www.boasteak.com](http://www.boasteak.com/balboa/)
 
 address: 8462 W. Sunset Blvd.
-
-[back to Eating Out](..)

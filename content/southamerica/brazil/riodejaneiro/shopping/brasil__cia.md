@@ -19,8 +19,6 @@ souvenirs for relatives and friends.
 
 **Contributors**
 January 02, 2008
-new
-by [caroleartois](/member/caroleartois)
 
 type: Speciality shops
 
@@ -33,5 +31,3 @@ tel: +55 (21) 2267-4603
 url: [www.brasilecia.com.br](http://www.brasilecia.com.br/)
 
 address: Rua Maria Quitéria 27 Ipanema (50 m from the beach)
-
-[back to Shopping](..)

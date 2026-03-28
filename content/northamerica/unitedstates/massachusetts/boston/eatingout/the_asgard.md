@@ -26,5 +26,3 @@ address: 50 Massachusetts Ave. Cambridge, MA
 PriceOfMenu: medium to low
 
 email: http://www.classicirish.com/asgard_about.html
-
-[back to Eating Out](..)

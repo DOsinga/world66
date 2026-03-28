@@ -8,13 +8,5 @@ The Kiala Manor/Distillery is located about 30 miles outside of Helsinki near Po
 
 **Contributors**
 April 14, 2008
-new
-by [waterfalls](/member/waterfalls)
 
 type: Local
-
-
-
-
-
-[back to Eating Out](..)

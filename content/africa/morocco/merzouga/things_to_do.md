@@ -11,5 +11,3 @@ Superb sunset and sunrise. It is advised to spend the night under tents (hairs o
 
 **Contributors**
 December 06, 2006
-change
-by [haven la chance hotel](/member/haven_la_chance_hotel)

@@ -27,9 +27,5 @@ Bobsledding is not just a winter sport in Berchtesgaden, it is also a fun activi
 
 **Contributors**
 April 08, 2010
-change
-by [ctanios](/member/ctanios)
 
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

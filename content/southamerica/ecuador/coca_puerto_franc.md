@@ -1,8 +1,6 @@
 ---
 title: "Coca (Puerto Francisco de Orellana)"
 type: location
-latitude: -0.471977
-longitude: -76.985744
 ---
 
 This rainforest frontier town is commonly known as **Coca**, though on official Ecuadorian maps and documents it is referred to as **Francisco de Orellana**.
@@ -22,7 +20,4 @@ Generally speaking, Coca is just a transfer point en route to a lodge
 or research station further east for most tourists, or for oil company
 employees on their way to a job site.
 
-*Change history*
-Orginal article by [backpack](/member/backpack) on 18 March 05
-
-Minor corrections by [backpack](/member/backpack) on 18 March 05
+Minor corrections on 18 March 05

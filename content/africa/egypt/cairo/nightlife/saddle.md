@@ -15,5 +15,3 @@ type: Clubs
 address: Menna House Cairo Hotel, Pyramids Road
 
 tel: +20 2 291 9400
-
-[back to Nightlife and Entertainment](..)

@@ -27,13 +27,7 @@ If disco is your thing, this is the place to be with its special “Saturday Nig
 
 **Contributors**
 February 06, 2010
-change
-by [kwalker](/member/kwalker)
 
 February 09, 2010
-change
-by [shomer](/member/shomer)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

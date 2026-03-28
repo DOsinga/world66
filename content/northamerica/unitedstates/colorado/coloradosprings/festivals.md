@@ -13,5 +13,3 @@ There is no entrance fee and a free shuttle service allows for easy parking in t
 
 **Contributors**
 May 27, 2006
-new
-by [tau](/member/tau)

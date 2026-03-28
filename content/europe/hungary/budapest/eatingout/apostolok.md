@@ -8,7 +8,3 @@ Centrally located, this restaurant with the church like interior serves up a goo
 address: Kigyó u. 4-6
 
 tel: 118-3559, 267-0290
-
-[back to Eating Out](..)
-
--->

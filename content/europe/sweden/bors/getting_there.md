@@ -11,8 +11,6 @@ Borås is easy to reach by car train and air.
 
 **Contributors**
 March 18, 2008
-new
-by [ewolf](/member/ewolf)
 
 ### [Borås central](/europe/sweden/bors/getting_there/bors_central)
 

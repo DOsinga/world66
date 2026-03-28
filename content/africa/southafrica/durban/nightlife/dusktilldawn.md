@@ -17,5 +17,3 @@ type: Disco's
 address: Corner Umbilo and Clarke Rd
 
 tell: (031) 205-7038
-
-[back to Nightlife and Entertainment](..)

@@ -1,9 +1,9 @@
 ---
-title: "Oakdale Travel Guide"
+title: "Oakdale"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The City of Oakdale is
 located in Stanislaus County, California, approximately 15 miles
@@ -12,7 +12,3 @@ Mountains. With a current city population of approximately 17,500,
 Oakdale takes pride in its small town atmosphere and is a balanced
 community of residential and commercial properties with a full range of
 services, shopping and recreation.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

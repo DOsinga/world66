@@ -19,5 +19,3 @@ address: Dosoduro - Campo San Margarita
 PriceOfMenu: pizza 6-10 euros
 
 priceofmenu: pizza 6-10 euros
-
-[back to Eating Out](..)

@@ -33,5 +33,3 @@ url: [www.apexrentacarmw.com](http://www.apexrentacarmw.com)
 address: P.O. Box 1132 Area 4 Lilongwe Malawe
 
 email: apexcars@globemw.net
-
-[back to Getting Around](..)

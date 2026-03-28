@@ -7,5 +7,3 @@ Alexandria shopping would not be complete without a visit to Hysteria in trendy 
 
 **Contributors**
 May 28, 2009
-new
-by [harding](/member/harding)

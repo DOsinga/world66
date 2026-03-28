@@ -31,5 +31,3 @@ Peak season in Prague is generally around Easter, Christmas, May, June and Septe
 
 **Contributors**
 September 18, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

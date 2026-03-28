@@ -14,17 +14,7 @@ is absolutely worth a visit!
 
 **Contributors**
 October 06, 2006
-new
-by [sume](/member/sume) (1 point)
 
 October 09, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

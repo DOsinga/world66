@@ -15,13 +15,5 @@ office, 987-3366.
 
 **Contributors**
 May 27, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: general
-
-
-
-
-
-[back to Nearby Towns](..)

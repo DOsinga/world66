@@ -14,11 +14,5 @@ Another nature reserve in Adjara is located near the town of Kobuleti. Ispani we
 
 **Contributors**
 February 23, 2010
-new
-by [batumiren](/member/batumiren)
 
 type: Parks, Gardens and Zoos
-
-
-
-[back to Sights](..)

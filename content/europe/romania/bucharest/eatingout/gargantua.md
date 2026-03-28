@@ -33,5 +33,3 @@ address: 69, Jean Louis Calderon street, district 2
 PriceOfMenu: aprox 15 Euro/pax
 
 email: mihaela@restaurantgargantua.ro
-
-[back to Eating Out](..)

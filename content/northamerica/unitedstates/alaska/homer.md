@@ -11,8 +11,4 @@ The Homer Spit is the narrow isthumus of land jutting out 3 miles into the Katch
 
 Tourism is highly developed by the city in the form of a full service transient marina and R/V-tent camping grounds. Other city run campgrounds are on the mainland in town. 
 
-Restaurants and a hotel surround the marina where Bald eagles can be viewed gliding along the shore feeding. Halibut fishing to win the daily derby prize is done at the lagoon. 
-
-*Change history*
-
--->
+Restaurants and a hotel surround the marina where Bald eagles can be viewed gliding along the shore feeding. Halibut fishing to win the daily derby prize is done at the lagoon.

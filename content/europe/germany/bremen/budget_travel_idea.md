@@ -27,5 +27,3 @@ Bremen does not yet have a nightlife scene to rival that of Berlin or other Euro
 
 **Contributors**
 October 21, 2009
-new
-by [lucyb](/member/lucyb)

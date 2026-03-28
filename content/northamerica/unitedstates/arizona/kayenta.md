@@ -1,9 +1,9 @@
 ---
-title: "Kayenta Travel Guide"
+title: "Kayenta"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Kayenta is a dusty little city in the burning emptiness of the last great American desert. It's the gateway to Monument Valley Navajo Tribal Park (about 25 miles to the north), and has three motels for the weary traveler. There's a Basha's supermarket, a pizza joint, a Sonic drive-in, and a few other restaurants as well.
 
@@ -15,14 +15,5 @@ The resturant at the Hampton Inn has better than you would expect Navajo cooking
 
 If visiting Monument Valley, it would be advisable to take the tour in a Navajo vehicle instead of driving yourself as there are no roads in the Valley, only rocks and sandy surfaces which are extremely hard on your car.
 
-#### Contributors
-
-December 13, 2006 change by [waterfalls](/member/waterfalls) (2 points)
-
 More information on
 *Kayenta Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:54

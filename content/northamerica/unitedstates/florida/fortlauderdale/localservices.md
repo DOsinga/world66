@@ -17,6 +17,4 @@ See website!
 
 **Tantra Yacht**
 
-See website! 
-
--->
+See website!

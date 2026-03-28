@@ -1,0 +1,4 @@
+---
+title: "Manteca"
+type: location
+---

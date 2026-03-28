@@ -8,9 +8,3 @@ The Centro Mediterraneo Pintadera offers Italian language courses to visitors in
 The Centro Mediterraneo Pintadera also offers intensive Italian language courses in small groups. These group language courses are of various levels, depending on your knowledge of Italian. Upon request, we can assist you in finding accommodations in Alghero.
 
 Please visit www.pintadera.info - the Centro Mediterraneo Pintadera - an Italian language school in Alghero, Sardinia.
-
-
-
-
-
--->

@@ -12,8 +12,6 @@ Don't expect to find any mega malls or massive department stores during your Ven
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [I tre Mercanti](/europe/italy/veneto/venice/shopping/i_tre_mercanti)
 

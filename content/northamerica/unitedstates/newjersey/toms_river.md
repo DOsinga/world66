@@ -17,5 +17,3 @@ A visit to the Jersey Shore will surely not disappoint you. There are many activ
 
 **Contributors**
 April 05, 2006
-new
-by [christienj](/member/christienj) (2 points)

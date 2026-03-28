@@ -1,0 +1,4 @@
+---
+title: "Bartica"
+type: location
+---

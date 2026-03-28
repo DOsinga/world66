@@ -22,9 +22,5 @@ Two flea markets operate near Kreuzberg on Sundays, Boxhagener Platz and Treptow
 
 **Contributors**
 February 25, 2010
-change
-by [benf](/member/benf)
 
 February 23, 2010
-change
-by [ctanios](/member/ctanios)

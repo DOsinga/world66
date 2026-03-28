@@ -20,5 +20,3 @@ zipcode: 1016 HC Amsterdam, The Netherlands
 url: [www.theninestreets.com](http://www.theninestreets.com/shirdak-amsterdam.html)
 
 address: Shirdak Prinsengracht 192
-
-[back to Shopping](..)

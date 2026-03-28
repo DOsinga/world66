@@ -14,5 +14,3 @@ The temperature at this time of the year is the hottest, so tourists come here l
 
 **Contributors**
 February 19, 2010
-new
-by [turkeyfish](/member/turkeyfish)

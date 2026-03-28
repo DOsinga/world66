@@ -12,5 +12,3 @@ Other sights include the Kirklee gallery(paintings by Francis Bacon, LS Lowry, H
 Finally you can see if you can take a boat trip on the canals, the broad canal and the narrow canal which boasts Standedge Tunnel, the longest and highest in the country, standing 654ft (196m) above sea level and 3 miles 135yrds (4950m) long.
 
 What was once busy docks and warehouses is now home to moorings and a popular canalside restaurant and pubs.
-
--->

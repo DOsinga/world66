@@ -7,5 +7,3 @@ Around Santa Cruz, beautiful excursions can be made. You can visit for example P
 
 **Contributors**
 October 30, 2006
-change
-by [giorgio](/member/giorgio)

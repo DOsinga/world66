@@ -11,6 +11,4 @@ Gros Morne National Park was declared a World Heritage Site in 1987. The park is
 
 **Terra Nova National Park**
 
-Terra Nova National Park protects remnants of the ancient Appalachian Mountains. The area features rocky headlands, rugged cliffs, sheltered inlets, rolling forested hills, bogs and ponds. For more information, and a virtual tour of park features, visit Terra Nova National Park. 
-
--->
+Terra Nova National Park protects remnants of the ancient Appalachian Mountains. The area features rocky headlands, rugged cliffs, sheltered inlets, rolling forested hills, bogs and ponds. For more information, and a virtual tour of park features, visit Terra Nova National Park.

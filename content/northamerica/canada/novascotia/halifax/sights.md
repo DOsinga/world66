@@ -70,5 +70,3 @@ As one of the oldest cities on the continent, Halifax has a variety of historic 
 **The Old Burying Ground & Welsford-Parker Monument: **Barrington Street. First burial ground in Halifax. Locals sometimes refer to it as the Master of Puppets Graveyard because it looks something like that album cover. 
 
 **World Peace Pavilion: **Dartmouth Waterfront. Opened for the G7 Summit in 1995. Countries contributed rocks and bricks from cherished historical sites or representing their achievements. Includes pieces of the Berlin Wall and the Great Wall of China.
-
--->

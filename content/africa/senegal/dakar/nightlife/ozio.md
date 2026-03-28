@@ -12,5 +12,3 @@ address: 31 rue Victor Hugo - Dakar
 openinghours: 8:00 - 18:30
 
 tel: 221-823 87 87
-
--->

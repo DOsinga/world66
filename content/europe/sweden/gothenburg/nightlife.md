@@ -14,5 +14,3 @@ The varied night life is one of the reasons that Swedes consider Gothenburg the 
 [Clubs and dancing](/europe/sweden/gothenburg/nightlife?subsection=Clubs%20and%20dancing)
 
 [Pubs](/europe/sweden/gothenburg/nightlife?subsection=Pubs)
-
--->

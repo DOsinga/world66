@@ -10,12 +10,8 @@ Worth checking out while you're in town. The mountain is made completely of gran
 
 **Contributors**
 November 03, 2005
-new
-by [crodi](/member/crodi)
 
 November 14, 2006
-change
-by [superheroclaire](/member/superheroclaire)
 
 type: Parks, Gardens and Zoos
 
@@ -26,5 +22,3 @@ type: Parks, Gardens and Zoos
 url: [www.stonemountainpark.com](http://www.stonemountainpark.com)
 
 address: Stone Mountain, GA
-
-[back to Sights](..)

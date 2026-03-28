@@ -7,5 +7,3 @@ If you are an art lover, one of your Cincinnati activities while on vacation sho
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

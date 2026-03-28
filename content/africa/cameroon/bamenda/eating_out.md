@@ -96,5 +96,3 @@ Commercial Avenue
 Snacks and grills 
 
 CFA 500 - 2,500
-
--->

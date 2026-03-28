@@ -3,25 +3,22 @@ title: "Newcastle and North East"
 type: location
 ---
 
-The North East offers miles of beautiful and unspoiled scenery, a rich Roman, religious and industrial heritage. The Romans marked the northern extent of their Empire by building Hadrian’s Wall - coast to coast across the North of England. The wall starts on the River Tyne, just a few miles East of [Newcastle](/australiaandpacific/australia/newsouthwales/newcastle) at Wallsend.
+The North East offers miles of beautiful and unspoiled scenery, a rich
+Roman, religious and industrial heritage. The Romans marked the
+northern extent of their Empire by building Hadrian’s Wall - coast to
+coast across the North of England. The wall starts on the River Tyne,
+just a few miles east of Newcastle at
+Wallsend.
 
-The industrial heritage of the North Fast is equally interesting. The region played a leading role in the Industrial Revolution and was home to such men of genius as George Stephenson (father of the railways), Sir Joseph Swan (inventor of the lightbulb, born in Sunderland) and Sir Charles Parsons (inventor of the steam turbine).
+The North East's two biggest cities are [Sunderland](/europe/unitedkingdom/england/newcastle_and_nort/sunderland) and [Newcastle](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/newcastleupontyn).
+Both were once industrial powerhouses but have re-invented themselves
+in the past decade or so. Close by is the smaller city of [Durham](/europe/unitedkingdom/england/newcastle_and_nort/durham), home to one of the UK's best and oldest Cathedrals and England's third oldest university.
 
-## Top Destinations in Newcastle and North East
+The region is steeped in industrial heritage. It played a leading role in the Industrial Revolution and was
+home to such men of genius as George Stephenson (father of the
+railways), Sir Joseph Swan (inventor of the lightbulb, born in
+Sunderland) and Sir Charles Parsons (inventor of the steam turbine).
 
-[Berwick on Tweed](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/berwickontweed)
-[Ashington](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/ashington)
-[Northumberland](/europe/unitedkingdom/england/newcastle_and_nort/northumberland)
-[Consett](/europe/unitedkingdom/england/newcastle_and_nort/consett)
-[Newcastle](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/newcastleupontyn)
-[Sunderland](/europe/unitedkingdom/england/newcastle_and_nort/sunderland)
-[Durham](/europe/unitedkingdom/england/newcastle_and_nort/durham)
-[Lindisfarne [Holy Island}](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/lindisfarne_holy)
-[Chillingham](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/chillingham)
-[Farne Islands](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/farne_islands)
-[Ford, Etal and Millfield](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/ford_etal_and_mil)
-[Alnwick Castle and Gardens](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/alnwick_castle_and)
+Write up by [hudson](/world/member/hudson) on 13 March 05
 
-[**Show all destinations in Newcastle and North East.**](/europe/unitedkingdom/england/newcastle_and_nort/lib/alldestinations)
-
--->
+Minor corrections by [hudson](/world/member/hudson) on 13 March 05

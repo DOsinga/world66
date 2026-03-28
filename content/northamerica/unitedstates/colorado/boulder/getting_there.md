@@ -8,8 +8,6 @@ Boulder is 25 miles Northwest of Denver, up against the Rocky Mountains.
 
 **Contributors**
 December 09, 2005
-new
-by [jorja](/member/jorja)
 
 ### [Denver International Airport](/northamerica/unitedstates/colorado/boulder/getting_there/denver_internation)
 

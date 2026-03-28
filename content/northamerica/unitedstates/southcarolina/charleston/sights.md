@@ -9,5 +9,3 @@ A visit to Charleston is not complete without experiencing the Battery, one of m
 
 **Contributors**
 May 29, 2009
-change
-by [harding](/member/harding)

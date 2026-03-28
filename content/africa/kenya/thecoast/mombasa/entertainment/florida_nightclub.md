@@ -46,5 +46,3 @@ url: [www.floridaclubskenya.com](http://www.floridaclubskenya.com)
 accessibility: courtesy bus available from anywhere in Mombasa on request
 
 email: fmsa@floridaclubskenya.com
-
-[back to Nightlife and Entertainment](..)

@@ -9,8 +9,6 @@ Dining out in Bern can be expensive and, in some cases, disappointing. Spending 
 
 **Contributors**
 September 06, 2007
-change
-by [mizwiz](/member/mizwiz)
 
 ### [Meet Point](/europe/switzerland/bern/eating_out/kebab_stand)
 

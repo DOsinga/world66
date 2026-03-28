@@ -1,11 +1,11 @@
 ---
-title: "San Quirico d'Orcia Travel Guide"
+title: "San Quirico d'Orcia"
 type: location
 ---
+
+Travel Guide
 
 A small town in Tuscany.
 
 **Contributors**
 March 12, 2007
-new
-by [rfujitani](/member/rfujitani) (1 point)

@@ -1,0 +1,4 @@
+---
+title: "Mishawaka"
+type: location
+---

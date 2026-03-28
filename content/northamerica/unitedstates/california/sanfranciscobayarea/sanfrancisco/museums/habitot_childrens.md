@@ -7,8 +7,6 @@ email: "pr.habitot@gmail.com"
 opening_hours: "Mon-Thurs 9:30-12:30pm; Fri-Sat 9:30-4:30; Sun Closed"
 phone: "(510) 647-1111"
 url: "www.habitot.org"
-latitude: 37.868485
-longitude: -122.268959
 ---
 
 Habitot Children's Museum
@@ -36,8 +34,6 @@ visits, birthday parties, workshops and family resources.
 
 **Contributors**
 October 11, 2007
-new
-by [habitot](/member/habitot) (4 points)
 
 
 
@@ -52,5 +48,3 @@ url: [www.habitot.org](http://www.habitot.org)
 address: 2065 Kittredge Street, Berkeley, CA, 94704
 
 email: pr.habitot@gmail.com
-
-[back to Museums](..)

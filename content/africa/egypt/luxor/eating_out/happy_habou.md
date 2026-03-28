@@ -9,13 +9,5 @@ nice view to the mountains and the temple of Ramses III.
 
 **Contributors**
 November 03, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Local
-
-
-
-
-
-[back to Eating Out](..)

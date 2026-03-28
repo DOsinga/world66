@@ -17,9 +17,3 @@ Local history and memorial to the victims of Nazi persecution.
  Telephone: +49-228-772877
 
 type: general
-
-
-
-
-
-[back to Museums](..)

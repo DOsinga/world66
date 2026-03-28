@@ -7,7 +7,4 @@ Getting into the Venezuelan ways of eating is an experience no one will be disap
 
 The main foods eaten by the common people is rice, chicken, yams ("yucca") used very much in the same way as potatoes, plantains ("platano") and black beans. The traditional meal consists of chicken, black beans, rice and yam.
 
-*Change history*
-Orginal article by [birdiemay](/member/birdiemay) on 15 June 04
-
-Minor corrections by [birdiemay](/member/birdiemay) on 15 June 04
+Minor corrections on 15 June 04

@@ -12,7 +12,5 @@ Santiago - Madrid (round trip)
 
 **Contributors**
 April 07, 2005
-new
-by [euroadventures](/member/euroadventures) (1 point)
 
 type: By Air

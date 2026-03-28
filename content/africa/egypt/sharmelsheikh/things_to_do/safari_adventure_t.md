@@ -44,28 +44,6 @@ shift have produced some quite surreal colors and patterns which
 leave quite an impression and we hike among the rocky mountains
 enjoying the many colors reflecting from the oxidized surfaces in the
 sun and will come across unexpected water springs, plant life you
-have probably never seen before then we drive to **Nuweiba **for a lunch at a sea front restaurant with tasty oriental foods and from there we drive to **Dahab **city for some final **sightseeing **of this flower power city on the Red Sea and then back to your hotel in **Sharm el sheikh.
-
-For more info or booking please visit :
-http://www.memphistours.net/hurghada_egypt/Excursions/Sharm_El_Sheikh_Excursions/Safari_Adventure_to_Colored_Canyon_from_Sharm.php
-
-OR
-contact us :
-tours@memphistours.net
-**
-
-type: Other
-
-
-
-accessibility: 24 H
-
-tel: 0020101709105
-
-url: [www.memphistours.net](http://www.memphistours.net/hurghada_egypt/Excursions/Sharm_El_Sheikh_Excursions/Safari_Adventure_to_Colored_Canyon_from_Sharm.php)
-
-address: 1st Korah Ebn Sherik, Mourad st. Giza
+have probably never seen before then we drive to **Nuweiba **for a lunch at a sea front restaurant with tasty oriental foods and from there we drive to **Dahab **city for some final **sightseeing **of this flower power city on the Red Sea and then address: 1st Korah Ebn Sherik, Mourad st. Giza
 
 email: tours@memphistours.net
-
-[back to Things to do](..)

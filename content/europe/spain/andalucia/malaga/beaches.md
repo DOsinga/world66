@@ -11,5 +11,4 @@ Familes flock to Malaga each year, and this buzzing city is certainly very well 
 **City Beaches**
 Although the beaches on the outskirts of Malaga city are often more scenic and unspoiled than their urban counterparts, for sheer convenience you can’t beat the sands to be found within the city itself. Here is where you will find large concentrations of tourists, so it’s a good bet for non-Spanish speaking holiday makers looking to make new friends. One of the best beaches close to the center of the city is La Malagueta, among the most famous of Malaga’s beaches. The man-made beach stretches for nearly 1.5 kilometers and is lined with more seafood restaurants than you could shake a stick at. Well-equipped with showers, sun loungers and the like, this is another good place to try your hand at water sports, with equipment hire available on-site.
 
-**Back to Nature**
-Sunseekers who like their beaches a little more natural will be delighted with what they find at Guadalmar. This fine-sand beach on the outskirts of the city boasts 3,500 meters of untouched shore, with a nudist area for sunseekers who aren’t shy of exposing themselves to the elements in search of a top to toe tan.
+**

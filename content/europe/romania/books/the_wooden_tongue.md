@@ -20,5 +20,3 @@ This revised edition features brand new short stories and a new introduction fro
 author: Bogdan Tiganov
 
 isbn: 0956665802
-
-[back to Books](..)

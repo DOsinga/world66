@@ -10,8 +10,3 @@ It is a lovely town with a minster as good as many cathedrals - with superb work
 http://www.yorkshireholidays.com/dynamic/town,townID,1.html
 
 www.**beverley****minster**.co.uk
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 10 December 04
-
--->

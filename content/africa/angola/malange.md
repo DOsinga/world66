@@ -1,0 +1,4 @@
+---
+title: "Malange"
+type: location
+---

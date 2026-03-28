@@ -12,6 +12,3 @@ The area known as Hardcastle Crags, near Hebden Bridge, where two minor rivers m
 Haworth is the town of the Bronte sisters and might now be considered a tourist trap although the Parsonage Museum is still worth a look for Bronte enthusiasts.
 
 davidx - login keeps vanishing today.
-
-**Change history**
-Minor corrections by [davidx](/member/davidx) on 29 June 04

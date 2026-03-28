@@ -1,0 +1,4 @@
+---
+title: "Bethel"
+type: location
+---

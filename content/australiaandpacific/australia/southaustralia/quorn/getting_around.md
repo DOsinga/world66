@@ -11,5 +11,3 @@ There are no taxis or buses operating in the town.
 
 **Contributors**
 April 10, 2005
-new
-by [chris_clement](/member/chris_clement) (1 point)

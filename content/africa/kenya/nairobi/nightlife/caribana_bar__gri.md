@@ -14,5 +14,3 @@ type: Pubs
 
 
 url: [www.caribanabar.com](http://www.caribanabar.com)
-
-[back to Nightlife and Entertainment](..)

@@ -41,5 +41,3 @@ local guidebook, which will warn you ahead of time about the difficulty of the t
 
 **Contributors**
 January 10, 2010
-new
-by [cjr236](/member/cjr236)

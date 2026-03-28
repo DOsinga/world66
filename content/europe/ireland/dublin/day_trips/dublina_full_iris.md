@@ -16,5 +16,3 @@ O'Connels Bridge, the Millenium Spire, General Post Office, Moore Street, Hapenn
 url: www.audioexplore.com
 
 email: info@audioexplore.com
-
-[back to Day Trips](..)

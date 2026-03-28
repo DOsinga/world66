@@ -18,7 +18,3 @@ Small pottery village
 
 
 **{Vina del Mar} **
-
-
-
--->

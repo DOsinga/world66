@@ -17,5 +17,3 @@ type: Local
 address: Rue du Puits-St-Pierre (Old Town) 1
 
 tel: +41 (0)22 310 91 72
-
-[back to Eating Out](..)

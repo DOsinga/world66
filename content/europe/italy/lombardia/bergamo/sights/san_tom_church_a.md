@@ -12,5 +12,3 @@ type: Churches and Cathedrals
 
 
 url: [www.luoghimisteriosi.it](http://www.luoghimisteriosi.it/lombardia_almennostome.html)
-
-[back to Sights](..)

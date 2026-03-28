@@ -3,8 +3,6 @@ title: "Tutti Frutti Plaza"
 type: poi
 address: "Tutti Frutti Square"
 type: "Pubs"
-latitude: 42.379368
-longitude: -71.027982
 ---
 
 Tutti Frutti Plaza.
@@ -22,5 +20,3 @@ type: Pubs
 
 
 address: Tutti Frutti Square
-
-[back to Nightlife and Entertainment](..)

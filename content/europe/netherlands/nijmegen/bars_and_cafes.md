@@ -27,9 +27,5 @@ This café is more for adults who are looking for a nice place to have a few dri
 
 **Contributors**
 February 12, 2010
-change
-by [shomer](/member/shomer)
 
 February 16, 2010
-change
-by [2 many commas](/member/2_many_commas)

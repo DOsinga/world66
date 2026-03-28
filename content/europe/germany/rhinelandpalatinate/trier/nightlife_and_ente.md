@@ -27,5 +27,3 @@ If you are looking for a nice place to grab a quick drink or even a few drinks, 
 
 **Contributors**
 February 09, 2010
-change
-by [shomer](/member/shomer)

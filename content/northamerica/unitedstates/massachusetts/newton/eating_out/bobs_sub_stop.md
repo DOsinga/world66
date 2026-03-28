@@ -11,8 +11,6 @@ Located in Newton Upper Falls, Bob's Sub Stop is a favorite of Newton locals who
 
 **Contributors**
 March 12, 2007
-new
-by [dchung](/member/dchung) (2 points)
 
 type: American
 
@@ -25,5 +23,3 @@ tel: (617)244-0078
 address: 295 Elliot St
 
 PriceOfMenu: Less than $10/person
-
-[back to Eating Out](..)

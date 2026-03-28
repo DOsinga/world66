@@ -1,0 +1,4 @@
+---
+title: "Aschaffenburg"
+type: location
+---

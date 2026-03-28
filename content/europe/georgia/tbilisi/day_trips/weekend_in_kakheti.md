@@ -44,5 +44,3 @@ url: [www.exotour.ge](http://www.exotour.ge)
 address: 9, Galaktioni street, Tbilisi
 
 email: info@exotour.ge
-
-[back to Day Trips](..)

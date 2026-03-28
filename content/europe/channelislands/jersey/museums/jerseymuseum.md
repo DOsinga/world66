@@ -8,5 +8,3 @@ Opened in 1992, and already the winner of two major national awards in fleecing 
 address: The Weighbridge, St Helier.
 
 tel: 633300
-
--->

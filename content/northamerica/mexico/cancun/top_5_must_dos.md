@@ -27,5 +27,3 @@ The cuisine of the Yucatan Peninsula is absolutely delicious, taking in Mayan an
 
 **Contributors**
 February 12, 2010
-change
-by [lucyb](/member/lucyb)

@@ -9,8 +9,6 @@ A castle built in the 13th century, the old centre of the village with typical h
 
 **Contributors**
 October 30, 2006
-new
-by [budapestunderguide](/member/budapestunderguide) (2 points)
 
 
 
@@ -19,5 +17,3 @@ by [budapestunderguide](/member/budapestunderguide) (2 points)
 url: [www.holloko-szallas.hu](http://www.holloko-szallas.hu)
 
 email: contact@underguide.com
-
-[back to Day Trips](..)

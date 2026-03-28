@@ -27,5 +27,3 @@ If you're a music lover or an architecture lover, be sure to visit the Rudolfinu
 
 **Contributors**
 August 17, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

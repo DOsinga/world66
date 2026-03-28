@@ -18,5 +18,3 @@ address: S Gravendykwal 124
 tel: +31 (0)10 436 2260
 
 zipcode: 3014EL
-
-[back to Nightlife and Entertainment](..)

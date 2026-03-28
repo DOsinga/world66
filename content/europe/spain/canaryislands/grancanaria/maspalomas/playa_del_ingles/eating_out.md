@@ -6,8 +6,6 @@ email: "info@ristorantesrimini.com"
 phone: "928 764 364"
 type: "Italian"
 url: "www.ristorantesrimini.com"
-latitude: 27.761062
-longitude: -15.568161
 ---
 
 Finding good restaurants where nobody but tourists eat is not easy, but there are a few places that can be recommended.

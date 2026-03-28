@@ -1,0 +1,4 @@
+---
+title: "Jaslo"
+type: location
+---

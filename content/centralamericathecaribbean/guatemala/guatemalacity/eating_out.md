@@ -134,5 +134,3 @@ address: 14 Calle 4-74, zona 10
 tel: 3680724
 
 openings: Monday o Saturday 12:00 to 23:00 hrs. and Sundays from12:00 to 20:00 hrs.
-
--->

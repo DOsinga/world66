@@ -1,0 +1,4 @@
+---
+title: "Batavia"
+type: location
+---

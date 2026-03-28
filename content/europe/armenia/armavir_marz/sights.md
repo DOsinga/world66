@@ -26,8 +26,6 @@ capital. The excavations and museum are open for visitors.
 
 **Contributors**
 November 12, 2008
-new
-by [raffikojian](/member/raffikojian)
 
 ### [Echmiadzin Cathedral and Compound](/europe/armenia/armavir_marz/sights/echmiadzin_cathedr)
 

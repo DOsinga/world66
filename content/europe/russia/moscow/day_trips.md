@@ -7,12 +7,8 @@ Usually Day Trip means "go in the morning - come back in the evening". It is not
 
 **Contributors**
 July 16, 2006
-change
-by [svetico](/member/svetico) (2 points)
 
 July 17, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Vologda](/europe/russia/moscow/day_trips/vologda)
 
@@ -90,17 +86,10 @@ It is much more comfortable to go by bus. Buses to Vladimir run from the stop on
 
 
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

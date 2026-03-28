@@ -9,8 +9,6 @@ Explore the Banffshire coast from [Cullen](/europe/unitedkingdom/scotland/cullen
 
 **Contributors**
 February 12, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 type: Trekking
 
@@ -19,5 +17,3 @@ type: Trekking
 
 
 url: [www.banffshirecoast.com](http://www.banffshirecoast.com)
-
-[back to Things to do](..)

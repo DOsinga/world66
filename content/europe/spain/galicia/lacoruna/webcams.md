@@ -1,13 +1,10 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "213.60.176.19"
 ---
 
 La Coruna webcams
-
-**Change history**
-Orginal article by [Reen](/member/reen) on 13 April 05
 
 ### Mobile webcam La Coruna
 

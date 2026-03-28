@@ -32,9 +32,3 @@ Up to NZ$25 (depending on airport); children aged under 12 are exempt.
 Sea
 
 The principal ports are Auckland Wellington Lyttelton Dunedin Picton and Opua which are served by the following shipping lines: *Ben Shipping CTC Port Royal Interocean P&O *and* Sitmar. Polish Ocean Lines* sail from Europe and *Farrell Lines *from the USA. Inter-island rail ferry service is available between Wellington and Picton several times daily.
-
- 
-
-## Subsections
-
-[By Air](/australiaandpacific/newzealand/gettingthere/byair)

@@ -4,8 +4,6 @@ type: section
 address: "18767 Main Street, Groveland, CA 95321"
 type: "American"
 url: "groveland.com"
-latitude: 37.839275
-longitude: -120.229464
 ---
 
 The places to go and eat when visiting Groveland, California

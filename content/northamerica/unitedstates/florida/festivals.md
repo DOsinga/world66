@@ -33,9 +33,5 @@ If traveling to attend any of these festivals, it is recommended that you make r
 
 **Contributors**
 March 17, 2010
-new
-by [amy.h](/member/amy.h)
 
 March 23, 2010
-change
-by [2 many commas](/member/2_many_commas)

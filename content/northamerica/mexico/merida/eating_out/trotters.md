@@ -9,8 +9,6 @@ Steaks, pastas and vino. That's their slogan and they do them well. This is Meri
 
 **Contributors**
 April 03, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -19,5 +17,3 @@ type: International
 
 
 PriceOfMenu: expensive for Merida
-
-[back to Eating Out](..)

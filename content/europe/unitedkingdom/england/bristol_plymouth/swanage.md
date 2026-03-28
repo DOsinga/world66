@@ -1,0 +1,4 @@
+---
+title: "Swanage"
+type: location
+---

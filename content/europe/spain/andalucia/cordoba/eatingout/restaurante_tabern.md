@@ -7,8 +7,6 @@ phone: "+34 957 47 03 04"
 price: "10 - 29"
 type: "Spanish"
 url: "www.sociedadplateros.com"
-latitude: 37.394739
-longitude: -5.983544
 ---
 
 Restaurante en Córdoba Taberna Sociedad Plateros María Auxiliadora. Para comer en Córdoba para gente viajera; establecimiento especializado en bacalao, cocina cordobesa y también dispone de una carta apta para celiacos. Ubicado cerca de la Mezquita, el Restaurante Sociedad Plateros es unos de los mejores Restaurantes de Córdoba con un patio típico Cordobés, con bodega propia de crianza del vino de la ruta del vino Montilla – Moriles. Albergue de espectáculo flamenco, aula de guitarra, arte y cata dirigida al turismo de cultura.
@@ -30,5 +28,3 @@ address: Calle Maria Auxiliadora 25
 PriceOfMenu: 10 - 29
 
 email: reservas@sociedadplateros.com
-
-[back to Eating Out](..)

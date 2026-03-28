@@ -1,9 +1,9 @@
 ---
 title: "Viipuri"
 type: location
-latitude: 60.158476
-longitude: 23.080537
 ---
+
+**VIIPURI (VIBORG)**
 
 Nowadays a part of the Russian state of Karelia, Vyborg (*Viipuri* in Finnish) was once Finland's second biggest city and a large cultural center hosting a famous opera festival. 
 

@@ -15,9 +15,4 @@ http://www.continental-auto.es/continental/ventbi.php
 
 
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 27 October 04
-
-Minor corrections by [davidx](/member/davidx) on 27 October 04
-
--->
+Minor corrections by [davidx](/world/member/davidx) on 27 October 04

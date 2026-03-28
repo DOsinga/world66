@@ -14,5 +14,3 @@ I recommend a book on Chile which has just been published by Palgrave-Macmillan.
 author: William Edmundson
 
 isbn: 978-0-230-61849-7
-
-[back to Books](..)

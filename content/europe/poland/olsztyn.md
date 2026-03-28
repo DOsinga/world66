@@ -1,0 +1,4 @@
+---
+title: "Olsztyn"
+type: location
+---

@@ -3,8 +3,6 @@ title: "Irish Museum of Modern Art"
 type: poi
 address: "Royal Hospital, Military Road, Kilmainham"
 url: "www.modernart.ie"
-latitude: 53.343883
-longitude: -6.296987
 ---
 
 The Irish Museum of Modern Art is Ireland's leading national
@@ -16,8 +14,6 @@ Community Department.
 
 **Contributors**
 February 07, 2006
-new
-by [giorgio](/member/giorgio)
 
 
 
@@ -26,5 +22,3 @@ by [giorgio](/member/giorgio)
 url: [www.modernart.ie](http://www.modernart.ie/)
 
 address: Royal Hospital, Military Road, Kilmainham
-
-[back to Museums](..)

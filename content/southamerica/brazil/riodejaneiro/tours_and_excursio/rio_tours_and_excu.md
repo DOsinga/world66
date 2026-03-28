@@ -17,5 +17,3 @@ tel: 55 21 9407-8839
 url: [www.rioplustours.com](http://www.rioplustours.com)
 
 email: rioplus@rioplustours.com
-
-[back to Tours and Excursions](..)

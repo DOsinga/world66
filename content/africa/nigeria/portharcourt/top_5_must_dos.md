@@ -31,5 +31,3 @@ This is a place where you can relax and enjoy a game of golf. There is membershi
 
 **Contributors**
 April 14, 2010
-change
-by [joekabuya](/member/joekabuya)

@@ -12,8 +12,6 @@ Many kinds of food, from fast burgers to great steaks, can be found in Winfield,
 
 **Contributors**
 December 08, 2006
-new
-by [approaching genius](/member/approaching_genius) (2 points)
 
 ### [Captain Tony's Pizza](/northamerica/unitedstates/kansas/winfield/eating_out/captain_tonys_piz)
 

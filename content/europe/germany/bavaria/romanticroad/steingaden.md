@@ -11,6 +11,4 @@ Here, where the Romantic Road crosses the German Alp Road (Alpenstrasse), travel
 
  Verkehrsamt, 86989 Steingaden
 
- Tel. +49 8862 - 200 
-
--->
+ Tel. +49 8862 - 200

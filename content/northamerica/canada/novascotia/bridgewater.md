@@ -1,0 +1,4 @@
+---
+title: "Bridgewater"
+type: location
+---

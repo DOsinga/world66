@@ -15,5 +15,3 @@ type: Life Music
 address: 33 26th Oktovriou st.
 
 tel: +30 31 - 516515
-
-[back to Nightlife and Entertainment](..)

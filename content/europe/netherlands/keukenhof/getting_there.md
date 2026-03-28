@@ -14,10 +14,3 @@ Coming from the Hague by the A44 you can eiher take the exit near "Sassenheim" t
 Coming from Amsterdam or the Hague by the A4, you can take the exit for "Lisse", "Nieuw-Vennep" wich is the N... 
 
 Parking: in the keukenhof season there are extra parking area's in the fields around keukenhof.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 21 March 04
-
-## Subsections
-
-[By Rail](/europe/netherlands/keukenhof/gettingthere/byrail)

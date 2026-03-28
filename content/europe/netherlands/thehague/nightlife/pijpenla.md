@@ -16,5 +16,3 @@ type: Erotic clubs and bars
 ClosingTime: 06:00h
 
 closingtime: 06:00h
-
-[back to Nightlife and Entertainment](..)

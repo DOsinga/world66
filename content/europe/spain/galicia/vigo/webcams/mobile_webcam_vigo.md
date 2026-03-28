@@ -1,6 +1,6 @@
 ---
 title: "Webcam Vigo (in motion)"
-type: location
+type: poi
 url: "www.crtvg.es"
 ---
 
@@ -11,9 +11,4 @@ The image updates every two seconds.
 *Click the url below, then select *Province of Pontevedra > Vigo (in motion)
 *
 
-*Part or or all of this text stems from the original article at: http://www.crtvg.es/ingles/CamWeb/primenucamarasflash.htm*
-
-**Change history**
-Write up by [Reen](/member/reen) on 15 April 05
-
-Minor corrections by [Reen](/member/reen) on 15 April 05
+Minor corrections on 15 April 05

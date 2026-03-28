@@ -25,9 +25,5 @@ Billund boasts of a pleasant and unpredictable climate throughout the year, buti
 
 **Contributors**
 February 26, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 February 23, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

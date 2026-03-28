@@ -17,5 +17,3 @@ type: Cafes
 address: Weckmarkt 13-15, Mitte
 
 tel: +49 (0)69 28 82 87
-
-[back to Eating Out](..)

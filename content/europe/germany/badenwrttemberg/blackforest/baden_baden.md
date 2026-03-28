@@ -1,9 +1,9 @@
 ---
-title: "Baden Baden Travel Guide"
+title: "Baden Baden"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Baden-Baden is a little spa town in Germany near the western
 foothills of the Black Forest that was built on a thermal springs.
@@ -56,7 +56,3 @@ and much more.
 There is certainly a lot you can do just a short way from Baden
 Baden. Visit all the castles, drive through the Black Forest and see
 all the sites in the region.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 18:21

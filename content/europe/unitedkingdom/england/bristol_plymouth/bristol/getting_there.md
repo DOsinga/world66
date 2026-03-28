@@ -11,6 +11,4 @@ The airport is just to the south of Bristol. There is also access to Bath, Wales
 
 **By train**
 
-Bristol is served by two main-line train stations; Temple Meads for the city centre and Bristol Parkway for the North of the City. Services between both stations and London are frequent.  
-
--->
+Bristol is served by two main-line train stations; Temple Meads for the city centre and Bristol Parkway for the North of the City. Services between both stations and London are frequent.

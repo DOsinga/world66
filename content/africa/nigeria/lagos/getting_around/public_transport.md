@@ -22,9 +22,3 @@ Again, painted yellow with blue tripes. more expensive than buses, licensed to c
 **Private car hire**.
 
 Safest means and most expensive (still not too bad) typically N4000 for 4 hours plus N700 for every hour after. found at most hotels. Half the ex Hamburg taxi fleet can be found in Lagos
-
-
-
-
-
-[back to Getting Around](..)

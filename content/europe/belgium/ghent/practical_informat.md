@@ -11,9 +11,5 @@ The best way to arrive in Ghent is by train. You might wanna check www.nmbs.be f
 
 **Contributors**
 March 13, 2007
-change
-by [ragna](/member/ragna) (1 point)
 
 March 27, 2006
-change
-by [giorgio](/member/giorgio)

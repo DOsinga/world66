@@ -3,8 +3,6 @@ title: "5 Star Saloon"
 type: location
 address: "132 West St."
 phone: "775-329-2878"
-latitude: 39.854524
-longitude: -82.888838
 ---
 
 Located conveniently in downtown Reno ,
@@ -22,5 +20,3 @@ Free parking in the 1st St. Parking Gallery with Validation. Email 5starsaloon@g
 tel: 775-329-2878
 
 address: 132 West St.
-
-[back to Bars and Cafes](..)

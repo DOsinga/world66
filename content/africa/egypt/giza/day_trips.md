@@ -29,8 +29,6 @@ Perhaps the best way to arrange any of these day trips is through companies such
 
 **Contributors**
 December 21, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)
 
 ### [Day trip to Giza Pyramids and Egyptian Museum](/africa/egypt/giza/day_trips/day_trip_to_giza_p)
 

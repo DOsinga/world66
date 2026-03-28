@@ -20,12 +20,8 @@ Train (any station) to Harlingen harbour > Ferry to Terschelling.
 
 **Contributors**
 March 15, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (3 points)
 
 February 12, 2005
-change
-by [belgarion](/member/belgarion)
 
 ### [Drive yourself
 

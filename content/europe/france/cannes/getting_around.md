@@ -9,5 +9,3 @@ Bus companies include: Bus Azur (+33 04 93 39 18 71), STU de Cannes Bus Azur (+3
 
 **Contributors**
 June 02, 2008
-new
-by [mcburton](/member/mcburton)

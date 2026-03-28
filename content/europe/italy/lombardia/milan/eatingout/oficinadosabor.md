@@ -21,5 +21,3 @@ type: South American
 address: Via G. Agnesi 17, 20135 Milano
 
 tel: +39 (0)2 - 5830 4965
-
-[back to Eating Out](..)

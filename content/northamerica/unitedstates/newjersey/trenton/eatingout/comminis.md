@@ -15,5 +15,3 @@ type: general
 address: 17-19 E. Front Street
 
 tel: (609) 392-5994
-
-[back to Eating Out](..)

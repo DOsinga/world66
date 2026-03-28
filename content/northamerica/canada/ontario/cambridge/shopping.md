@@ -6,16 +6,12 @@ email: "info@southworks.ca"
 phone: "(519) 740-0380"
 type: "Shopping centers and malls"
 url: "www.southworks.ca"
-latitude: 43.355443
-longitude: -80.317644
 ---
 
 Shopping in Cambridge
 
 **Contributors**
 October 07, 2006
-change
-by [lynns](/member/lynns)
 
 ### [Southworks Outlet Mall](/northamerica/canada/ontario/cambridge/shopping/southworks_outlet)
 

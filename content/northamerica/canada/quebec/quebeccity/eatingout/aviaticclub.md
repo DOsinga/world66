@@ -16,5 +16,3 @@ type: general
 
 
 PriceOfMenu: cheap
-
-[back to Eating Out](..)

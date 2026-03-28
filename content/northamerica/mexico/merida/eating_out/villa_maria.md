@@ -40,5 +40,3 @@ address: Calle 59 No. 553 x 68 Colonia Centro
 PriceOfMenu: $100 pesos for an entree
 
 email: hotelesvillamaria@yahoo.com.mx
-
-[back to Eating Out](..)

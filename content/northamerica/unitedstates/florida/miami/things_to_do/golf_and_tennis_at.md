@@ -11,8 +11,6 @@ Located in the Coral Gables area of Miami, the Biltmore Hotel is situated on 150
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Tennis
 
@@ -23,5 +21,3 @@ tel: 800-915-1929
 url: [www.biltmorehotel.com](http://www.biltmorehotel.com)
 
 address: 1200 Anastasia Avenue, Coral Gables FL
-
-[back to Things to do](..)

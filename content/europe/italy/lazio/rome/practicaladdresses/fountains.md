@@ -16,17 +16,7 @@ potabile." Mind you **do not bathe in them**. If you are caught in a fountain, y
 
 **Contributors**
 October 12, 2007
-change
-by [psychoralu](/member/psychoralu) (2 points)
 
 May 24, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 type: Tourist information
-
-
-
-
-
-[back to Practical Information](..)

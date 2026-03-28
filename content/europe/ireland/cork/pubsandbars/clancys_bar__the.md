@@ -5,8 +5,6 @@ address: "15-16 Princes Street"
 email: "information@clancys-bar.com"
 phone: "(021) 427 6097"
 url: "www.clancys-bar.com"
-latitude: 51.897178
-longitude: -8.472766
 ---
 
 Clancy's Bar is one of Cork's oldest bars.
@@ -15,8 +13,6 @@ Open from 10am (12 on Sundays) ‘til late, there is always something happening 
 
 **Contributors**
 April 14, 2006
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -29,5 +25,3 @@ url: [www.clancys-bar.com](http://www.clancys-bar.com)
 address: 15-16 Princes Street
 
 email: information@clancys-bar.com
-
-[back to Pubs and Bars](..)

@@ -1,8 +1,6 @@
 ---
 title: "Ontario"
 type: location
-latitude: 43.663071
-longitude: -79.391886
 ---
 
 Windsor

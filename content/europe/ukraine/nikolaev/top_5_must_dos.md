@@ -27,5 +27,3 @@ The Nikolaev city zoo is known as one of the most beautiful zoos in the Ukraine 
 
 **Contributors**
 February 26, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -63,5 +63,3 @@ lightweight clothing, as it can be quite hot during this time.
 
 **Contributors**
 March 26, 2010
-new
-by [cferry1990](/member/cferry1990)

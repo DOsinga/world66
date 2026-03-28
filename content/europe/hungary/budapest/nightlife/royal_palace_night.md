@@ -19,7 +19,5 @@ by our dancers!
 
 **Contributors**
 January 03, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Erotic clubs and bars

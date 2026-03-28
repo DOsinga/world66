@@ -1,8 +1,6 @@
 ---
 title: "Mozambique"
 type: location
-latitude: -19.302233
-longitude: 34.914498
 ---
 
 Mozambique is located in Southern Africa on the coast between South Africa and [Tanzania](/africa/tanzania). It also shares a border with the landlocked countries [Malawi](/africa/malawi), [Zimbabwe](/africa/zimbabwe), [Swaziland](/africa/swaziland) and [Zambia](/africa/zambia). 

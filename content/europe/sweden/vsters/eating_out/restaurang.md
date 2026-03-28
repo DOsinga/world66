@@ -13,10 +13,7 @@ Fri: 15:00-
 
 Sat: 12:00-
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
-Minor corrections by [gagarin](/member/gagarin) on 07 September 04
+Minor corrections on 07 September 04
 
 address: Slottsgatan 6
 
@@ -25,5 +22,3 @@ tel: 021-41 72 70
 url: [www.arestobar.nu](http://www.arestobar.nu)
 
 zipcode: 722 16
-
--->

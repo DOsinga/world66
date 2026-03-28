@@ -11,5 +11,3 @@ type: section
 [Italian](/europe/germany/berlin/schoneberg/eatingout?subsection=Italian)
 
 [Oriental](/europe/germany/berlin/schoneberg/eatingout?subsection=Oriental)
-
--->

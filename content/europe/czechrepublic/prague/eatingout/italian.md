@@ -93,28 +93,4 @@ tel: +42 (0)02 2210 5518
 
 Open: Daily. 08.30 - 23.00
 
-One of the better Italian restaurants and serving freshly made pasta. Well presented dishes. A restaurant to come back to again. (VISA) 
-
-address: Na prikope 10, Praha 1
-
-tel: +42 (0)02 2421 0716
-
-**LA CAMBUSA **
-
-Open: Evenings. From 19.00 (closed Sun.)
-
-Fresh sea fish, salads and pasta and good service make this one of the best eating houses in Prague. (AMEX, V, MC, EC) 
-
-address: Klicperova 2/570, Praha 5
-
-tel: +42 (0)02 541 678, 541 533
-
-**PIZZERIA SAN REMO **
-
-Open: Mon.-Sat. 11.00 - 24.00, Sun. 15.00 - 24.00
-
-They seem to exhibit more dead animals than a pizzeria would normally  warrant, otherwise reasonable food and atmosphere.  
-
-address: Rybna 3, Praha 1
-
-tel: +42 (0)02 232 9750
+One of the better Italian restaurants and serving freshly made pasta. Well presented dishes. A restaurant to come

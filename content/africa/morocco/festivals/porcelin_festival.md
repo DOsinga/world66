@@ -26,5 +26,3 @@ date: 11-11-07
 address: 000000000
 
 email: 000000000000
-
-[back to Festivals](..)

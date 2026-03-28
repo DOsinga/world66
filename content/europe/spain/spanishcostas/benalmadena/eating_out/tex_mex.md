@@ -17,5 +17,3 @@ type: Mexican
 address: nr Puerto Marina Benalmadena
 
 PriceOfMenu: good
-
-[back to Eating Out](..)

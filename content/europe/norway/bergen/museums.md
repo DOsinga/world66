@@ -10,8 +10,3 @@ This museum is mainly outdoors, a collection of old buildings from Bergen which 
 Whereas you are allowed to wander around outdoors at will, it would be a great pity to miss a guided tour in English, when you are taken into a number of the old houses and shops and told about life in them. 
 
 The museum is not nearly as extensive as Oslo's Folk Museum but don't compare them and enjoy this for its own sake.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 20 November 04
-
--->

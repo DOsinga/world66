@@ -26,5 +26,3 @@ type: Casinos
 
 
 url: [www.theislepompanopark.com](http://www.theislepompanopark.com/)
-
-[back to Nightlife and Entertainment](..)

@@ -38,13 +38,9 @@ June - August - Mon. to Sun. 9:00 to 20:30
 
 **Contributors**
 July 09, 2006
-change
-by [svetico](/member/svetico) (1 point)
 
 type: Hotspots
 
 
 
 address: La Rambla, Metro: Drassanes
-
-[back to Sights](..)

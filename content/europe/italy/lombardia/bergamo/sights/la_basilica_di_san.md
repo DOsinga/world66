@@ -15,13 +15,9 @@ Going back out on the right toward piazza dell'Ateneo there are some medieval ir
 
 **Contributors**
 April 10, 2006
-new
-by [karenbru](/member/karenbru) (4 points)
 
 type: Churches and Cathedrals
 
 
 
 address: La Piazetta del Duomo, Città Alta
-
-[back to Sights](..)

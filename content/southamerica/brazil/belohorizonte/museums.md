@@ -38,5 +38,3 @@ great place to bring kids.
 
 **Contributors**
 December 26, 2009
-change
-by [cjr236](/member/cjr236)

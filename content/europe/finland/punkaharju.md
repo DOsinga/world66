@@ -1,8 +1,6 @@
 ---
 title: "Punkaharju"
 type: location
-latitude: 61.756102
-longitude: 29.389238
 ---
 
 Punkaharju is some 35 kilometres from [Savonlinna](/europe/finland/savonlinna) and is a beautiful
@@ -11,7 +9,4 @@ a town of a few thousand people and there are a few attractions and
 places to see, for the person who wants to get closer to the Finnish
 nature. Punkaharju has the famous finnish wood museum, Lusto.
 
-**Change history**
-Orginal article by [vilpponen](/member/vilpponen) on 12 March 05
-
-Minor corrections by [vilpponen](/member/vilpponen) on 12 March 05
+Minor corrections on 12 March 05

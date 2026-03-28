@@ -1,8 +1,6 @@
 ---
 title: "Arenal"
 type: location
-latitude: 10.462084
-longitude: -84.70341
 ---
 
 Great place to visit volcanoes. The Arenal Volcano is the only volcano in Costa Rica constantly active since it woke up after 400 years with the big 1968 eruption producing huge ash columns, explosions & glowing red lava almost every day.

@@ -17,5 +17,3 @@ type: Climbing
 address: 3065 E. Patrick Lane, Suite 4
 
 tel: 702-434-3388
-
-[back to Things to do](..)

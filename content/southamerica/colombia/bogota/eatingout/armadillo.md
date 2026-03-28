@@ -13,8 +13,6 @@ Nice atmosphere and very friendly. Very good food, with a good selection and var
 
 **Contributors**
 March 09, 2008
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: International
 
@@ -31,5 +29,3 @@ address: Carrera 5, #71A-05
 PriceOfMenu: Moderate
 
 email: restaurantearmadillo@hotmail.com
-
-[back to Eating Out](..)

@@ -39,5 +39,3 @@ Enjoy your visit to Guadalajara with these Guadalajara things to do that tourist
 
 **Contributors**
 February 16, 2010
-change
-by [gabriellet](/member/gabriellet)

@@ -8,6 +8,3 @@ Daytona Beach International Airport is located right next to Daytona Internation
 Local transportation around Daytona Beach is offerred by VOTRAN, the Volusia County bus service. The buses run a regular schedule from 7 AM to 7 PM, with a bus usually making a run every hour on major routes; some routes run every half-hour. A limited evening bus schedule is run from 7 PM to 12 midnite.
 
 Several taxi cab companies service the Daytona Beach Metro Area, including Yellow Cab, Southern Komfort, and All Florida Cab.
-
-**Change history**
-Orginal article by [gamiziuk](/member/gamiziuk) on 29 September 04

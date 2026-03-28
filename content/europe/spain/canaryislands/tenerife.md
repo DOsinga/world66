@@ -11,5 +11,7 @@ Another way to enjoy the sun and sea is at the tourist resorts of the south, mor
 
 The southern part of the island is perfect for relaxing on the beach, swimming in the sea, and practicing water sports, especially windsurfing.
 
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 24 March 04
+## Destinations in Tenerife
+
+[Santa Cruz de Tenerife](/world/europe/spain/canaryislands/tenerife/santacruzdetenerife)
+[Puerto de la Cruz](/world/europe/spain/canaryislands/tenerife/puertodelacruz)

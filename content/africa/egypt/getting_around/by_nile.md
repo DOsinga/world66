@@ -3,8 +3,6 @@ title: "By Nile"
 type: poi
 email: "info@plus-travel.com"
 url: "www.plus-travel.com"
-latitude: 30.128946
-longitude: 31.186354
 ---
 
 Cruises
@@ -15,8 +13,6 @@ Feluccas are lateen-sailed boats which have been used on the Nile since antiquit
 
 **Contributors**
 January 10, 2009
-new
-by [plus-travel.com](/member/plus-travel.com)
 
 
 
@@ -25,5 +21,3 @@ by [plus-travel.com](/member/plus-travel.com)
 url: [www.plus-travel.com](http://www.plus-travel.com)
 
 email: info@plus-travel.com
-
-[back to Getting Around](..)

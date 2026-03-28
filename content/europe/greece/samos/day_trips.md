@@ -11,5 +11,3 @@ Visit us at Pythagorio Beach or contact us at +316972997645.
 
 **Contributors**
 October 01, 2007
-new
-by [samos](/member/samos)

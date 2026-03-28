@@ -18,5 +18,3 @@ author: Lieve Joris
 isbn: 0864425325
 
 subject: Travel
-
-[back to Books](..)

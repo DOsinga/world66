@@ -7,8 +7,6 @@ email: "rightflorist2@hotmail.com"
 phone: "9940032789"
 type: "Antiques"
 url: "www.rightflorist.com"
-latitude: 22.572646
-longitude: 88.363895
 ---
 
 Normal
@@ -36,5 +34,3 @@ url: [www.rightflorist.com](http://www.rightflorist.com)
 address: kolkata
 
 email: rightflorist2@hotmail.com
-
-[back to Shopping](..)

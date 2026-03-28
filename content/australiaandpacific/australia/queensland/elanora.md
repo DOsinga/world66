@@ -1,0 +1,4 @@
+---
+title: "Elanora"
+type: location
+---

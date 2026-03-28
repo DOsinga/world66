@@ -18,5 +18,3 @@ url: [marrakech-day-trips.com](http://marrakech-day-trips.com/index.php)
 address: 17 Géuliz, Marrakech 40000, Morocco
 
 email: topmarrakechdaytrips@gmail.com
-
-[back to Day Trips](..)

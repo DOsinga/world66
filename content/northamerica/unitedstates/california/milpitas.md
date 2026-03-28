@@ -1,9 +1,9 @@
 ---
-title: "Milpitas Travel Guide"
+title: "Milpitas"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The best western Brookside
 Inn located in Milpitas California in the heart of Silicon Valley has
@@ -17,9 +17,3 @@ Delight” - for many reasons, not the least of which is its natural
 beauty. In addition to all the great attractions in the area-like Great
 America and the Winchester Mystery House-the views from every direction
 of the Valley are beautiful.
-
-*Part or or all of this text stems from the original article at: http://www.bwbrooksideinn.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 05:41

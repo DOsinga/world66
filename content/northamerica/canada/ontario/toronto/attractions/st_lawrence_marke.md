@@ -10,5 +10,3 @@ http://www.stlawrencemarket.com
 
 **Contributors**
 June 26, 2005
-new
-by [the_influence](/member/the_influence)

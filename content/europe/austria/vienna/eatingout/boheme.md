@@ -19,5 +19,3 @@ type: Spanish
 url: [www.weetra.com](http://www.weetra.com/index.php?q=node/235&venueid=50)
 
 email: toby.mcquire@yahoo.com
-
-[back to Eating Out](..)

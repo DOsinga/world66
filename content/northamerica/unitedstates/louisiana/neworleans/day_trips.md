@@ -11,8 +11,6 @@ If you're looking for a change of pace for a day during your New Orleans vacatio
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Baton Rouge](/northamerica/unitedstates/louisiana/neworleans/day_trips/baton_rouge)
 

@@ -37,5 +37,3 @@ does provide plenty of great photo opportunities.
 
 **Contributors**
 March 26, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

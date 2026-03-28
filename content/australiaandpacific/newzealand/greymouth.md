@@ -1,0 +1,4 @@
+---
+title: "Greymouth"
+type: location
+---

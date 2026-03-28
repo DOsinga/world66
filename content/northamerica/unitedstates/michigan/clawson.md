@@ -1,9 +1,9 @@
 ---
-title: "Clawson Travel Guide"
+title: "Clawson"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 [**Clawson** is a city located in](/northamerica/unitedstates/michigan/addition) Oakland County, Michigan. As of the 2000 census, the city had a total population of 12,732..
 
@@ -43,11 +43,3 @@ External links
 City of Clawson Clawson School District
 
 Source: en.wikipedia.org
-
-#### Contributors
-
-August 13, 2005 change by [parachutegurl](/member/parachutegurl)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 14:03

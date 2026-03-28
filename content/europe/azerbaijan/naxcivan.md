@@ -1,7 +1,9 @@
 ---
-title: "Nakhchivan Travel Guide"
+title: "Nakhchivan"
 type: location
 ---
+
+Travel Guide
 
 This wonderfully atmospheric semi-desert region is separated from the main portion of Azerbaijan by Armenia. The isolation of Nakhchivan Autonomous Republic from the rest of the country is recent, dating only from 1924, when Stalin transferred the province of Zangezur to Armenian control.
 
@@ -36,19 +38,7 @@ Although good intentions have been declared by the government, tourism is still 
 **History
 **
 
-Nakhichevan is the capital of the Nakhichevan Autonomous Republic and one of the most ancient cities of Azerbaijan. The conducted archeological researches of Nakhichevan revealed the patterns of material culture dating back to the 2-1st millenniums B.C. The culture of Nakhichevan close to the leading cultural centers of the Near East had a great impact on the life of the tribes settling there and the properties of city culture and class society appeared early in this area.
-
-The first information about the Nakhichevan city is provided by the written works of historian Yosef Flavy (the 1st century B.C.) and Greek geographer Claudi Ptolemy in his work ?Geography?. The said work mentioned the name of Nakhichevan as ?Naksuana?. It should be noted that Naksuana is not the phonetic variant of Nakhichevan. As the greek and roman languages did not have the hushing sounds ch, dj, s, zh Nakhichevan was called Naksuana.
-
-The Medieval Arabian and Persian sources about the city (Bin Khordadbeh, Al-Biruni, Bakuvi and others) mentioned Nakhichevan as Nashave and Nagchuvan. Other sources (by Mohamed Nakhichevani, Hamdullah Gazvini, Ovliya Chelebi and others) used the name Nakhichevan which is proposed to be connected with the name of the Prophet Nuh and means the land of Nuh.
-
-Nakhichevan was part of Manna later of Midia states in the 9th-6th centuries B.C, and was subdued to the Ahameni empire after the downfall of Midia in 550 B.C. After the collapse of the Ahameni empire Nakhichevan locating at the junction of the trade roads of Near and Middle East was part of Atropatena from the late 4th century B.C, till the early 1 century B.C. Nakhichevan that turned into an important art, trade and cultural centers of the Near and Middle east maintained trade relations with the countries of Asia Minor, Iran, with the cities of Georgia and the Black Sea ports.
-
-**Transportation**
-
-The best way to get to Nakhchivan is to fly from Baku to Jevlach airport , just outside the exclave's capital (airport code: EVL), Azal operates a shuttle service, heavily subsidized by the Azeri government. From Jevlach you can also fly to Moscow with Samara airlines. If you are arriving from Baku there is no passport check and you can simply walk out of the terminal. There are buses and taxis to the city, which is only 3km away.
-
-If you are travelling by land, you can also cross to and from Iran at the [Julfa](/europe/az-julfa.html)border point, the city on the other side is Jolfa (The other Azeri-Iranian border crossing is between Astara and .... Astara!). There are trains to [Tabriz](/europe/az-tabriz.html).
+Nakhichevan is the capital of the Nakhichevan Autonomous Republic and one of the most ancient cities of Azerbaijan. The conducted archeological researches of Nakhichevan revealed the patterns of material culture dating border point, the city on the other side is Jolfa (The other Azeri-Iranian border crossing is between Astara and .... Astara!). There are trains to [Tabriz](/europe/az-tabriz.html).
 
 The exclave has a short border with Turkey in Sadarak which allows an easy link to the city of Igdir. Have in mind that the border is open only 10 hours a day and that border guards are very corrupt. The nearest airport with connections to Ankara is at Erzurum (ERZ), 250 kilometres west of Nakhchivan.
 
@@ -58,12 +48,8 @@ GSM access is available in a good part of Nakhchivan's territory via Azercell.
 
 **Contributors**
 April 16, 2006
-change
-by [azerbaijan08](/member/azerbaijan08)
 
 January 29, 2007
-change
-by [giorgio](/member/giorgio)
 
 ## Destinations in Nakhchivan
 

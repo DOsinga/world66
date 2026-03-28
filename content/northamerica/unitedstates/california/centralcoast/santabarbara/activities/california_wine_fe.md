@@ -6,8 +6,6 @@ email: "kami@californiawinefestival.com"
 phone: "805-223-1880"
 type: "Spa and Sauna"
 url: "www.californiawinefestival.com"
-latitude: 34.415276
-longitude: -119.679268
 ---
 
 ***The Quintessential Wine Tasting Experience!
@@ -27,5 +25,3 @@ url: [www.californiawinefestival.com](http://www.californiawinefestival.com)
 address: Chase Palm Park
 
 email:
-
-[back to Things to do](..)

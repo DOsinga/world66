@@ -20,5 +20,3 @@ tel: 505-722-4762
 url: [www.richardsontrading.com](http://www.richardsontrading.com)
 
 address: 222 W Route 66
-
-[back to Shopping](..)

@@ -18,12 +18,8 @@ So, if you're in Miraflores and appreciate good meat - check it out.
 
 **Contributors**
 July 15, 2006
-new
-by [yohay elam](/member/yohay_elam) (2 points)
 
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -40,5 +36,3 @@ address: Avenida La Paz 642 Miraflores
 PriceOfMenu: 10 soles menu on weekdays
 
 email: contacto@parribar.com
-
-[back to Eating Out](..)

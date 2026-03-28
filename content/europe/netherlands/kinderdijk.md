@@ -1,8 +1,6 @@
 ---
 title: "Kinderdijk"
 type: location
-latitude: 51.888695
-longitude: 4.635697
 ---
 
 Kinderdijk is a region located south west of [Rotterdam](/europe/netherlands/rotterdam) famous for the
@@ -14,11 +12,4 @@ Nowadays polders are kept dry by electrical pumps, even if windmills can be stil
 
 From April till October you can visit one of those windmills and get an idea of how they worked.
 
-A curiosity: the oldest windmill, which dated back to the XVI century
-burnt in 1999 and was then rebuilt exactly as it was. You can easily
-recognise it because its shape is different from all the other ones.
-
-**Contributors**
-March 29, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
+A curiosity: the oldest windmill, which dated

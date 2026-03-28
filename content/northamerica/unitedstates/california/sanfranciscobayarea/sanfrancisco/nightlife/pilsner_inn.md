@@ -19,5 +19,3 @@ type: Gay and Lesbian
 url: [www.sfgaybarlist.com#pilsner](http://www.sfgaybarlist.com#pilsner)
 
 address: 225 Church St
-
-[back to Nightlife and Entertainment](..)

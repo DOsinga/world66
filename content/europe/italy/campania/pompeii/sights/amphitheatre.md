@@ -12,5 +12,3 @@ Annales.
 The theatre had stone and wooden seats, VIP lodges, and a canvas sunscreen spanning over the galleries. "
 dc:creator="World66"
 dc:date="" />
-
--->

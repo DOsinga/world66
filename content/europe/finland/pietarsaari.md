@@ -1,0 +1,4 @@
+---
+title: "Pietarsaari"
+type: location
+---

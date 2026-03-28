@@ -7,7 +7,3 @@ type: "Caribbean"
 Great beach place!
 
 type: Caribbean
-
-
-
-[back to Eating Out](..)

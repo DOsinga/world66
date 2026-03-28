@@ -5,9 +5,6 @@ type: section
 
 Syracuse is never boring if you're open to new expirences.
 
-*Change history*
-Orginal article by [Brokenme](/member/brokenme) on 19 May 04
-
 **all**
 
 **Hardcore Shows**

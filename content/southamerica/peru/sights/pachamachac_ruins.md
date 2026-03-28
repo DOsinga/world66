@@ -11,8 +11,6 @@ It's not new, but it will be to tourists. In fact Pachamachay Ruins, located abo
 
 **Contributors**
 December 13, 2006
-new
-by [approaching genius](/member/approaching_genius) (3 points)
 
 type: Landmarks
 
@@ -25,5 +23,3 @@ accessibility: Admission S/. 5.50 (approx. $1.75)
 openingHours: M-F 9 a.m.-5 p.m.
 
 address: Trans-American Highway
-
-[back to Sights](..)

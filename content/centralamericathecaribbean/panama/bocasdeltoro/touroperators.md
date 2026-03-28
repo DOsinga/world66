@@ -20,5 +20,3 @@ Transparente Tours
 Starfleet
 
 Best for scuba trips. E-mail: scubaStar@hotmail.com Telephone/fax: (507) 757-9630
-
--->

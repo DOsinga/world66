@@ -10,12 +10,8 @@ Nightlife in Salvador is legendary, and meant to be enjoyed in large, hot helpin
 
 **Contributors**
 January 29, 2007
-change
-by [rani d.](/member/rani_d.) (2 points)
 
 August 23, 2005
-change
-by [modir](/member/modir)
 
 ### [Casa de Mae](/southamerica/brazil/salvador/nightlife_and_ente/casa_de_mae)
 

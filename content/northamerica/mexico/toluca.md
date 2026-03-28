@@ -1,0 +1,4 @@
+---
+title: "Toluca"
+type: location
+---

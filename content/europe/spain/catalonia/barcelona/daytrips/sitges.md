@@ -14,13 +14,5 @@ south from Barcelona (30 mins by train).
 
 **Contributors**
 June 25, 2006
-change
-by [reen](/member/reen) (1 point)
 
 type: general
-
-
-
-
-
-[back to Day Trips](..)

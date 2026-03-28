@@ -14,11 +14,7 @@ Telephone: 020 7222 1234
 
 **Contributors**
 September 16, 2008
-new
-by [steve9631](/member/steve9631) (1 point)
 
 
 
 email: steve9631@comcast.net
-
-[back to Getting Around](..)

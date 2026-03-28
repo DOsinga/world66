@@ -7,5 +7,3 @@ Dont miss Arraial da Ajuda, at the other side of the river. More quiet, with a v
 
 **Contributors**
 November 24, 2005
-new
-by [tull](/member/tull)

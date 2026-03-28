@@ -9,17 +9,10 @@ More recently, Birmingham has become known for the 'Spaghetti Junction' - an inf
 
 The entire city centre has undergone a facelift, with a renovated City Hall, Victoria Square and new pedestrian areas; the canals have once again become an important feature with the Gas Street Basin Development and Brindleyplace belying Birmingham's reputation for being a dull, industrial, urban sprawl. It is also home to Edgbaston Cricket ground where Warwickshire CCC won a number of trophies in the mid-1990s. Gastronomically, Birmingham is renowned for its baltis and for being the home of Enlgands famous Cadbury's confectionery.
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

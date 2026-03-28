@@ -5,8 +5,6 @@ address: "Luxor"
 email: "emiltut@yahoo.com"
 phone: "+2 0123702314"
 url: "emiltut.tripod.com"
-latitude: 25.702096
-longitude: 32.647186
 ---
 
 **Key Information:**
@@ -22,29 +20,6 @@ Abydos*** The most beautiful temple in Egypt one of the most ancient cities of U
 - 11:00 visiting the temple of Abydos
 - 13:00 driving to Dendera
 - 15:00 visiting the Temple of Hathor in Dendera
-- 16:00 driving back to Luxor
-- 17:00 return back to hotel
-
-**Notes:**
-**. Professional tour-guide in all your tours.
-Price Includes:
-- entrance fees
-- A/C van transportations.
--guidance fees
-
-***I can arrange this tour including private a/c van ,entrance tickets and guidance fees for 120$ per person,children 6-12 years old 60$ per person ,less than 6 years for free
-**. one person 120$
-. two persons 70$each
-. three persons and more 60 $each. ***
-
-
-
-tel: +2 0123702314
-
-url: [emiltut.tripod.com](http://emiltut.tripod.com)
-
-address: Luxor
+- 16:00 driving address: Luxor
 
 email: emiltut@yahoo.com
-
-[back to Day Trips](..)

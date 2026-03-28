@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -24,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Pick
 up place:**
@@ -54,7 +52,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary:**
 
@@ -105,49 +103,7 @@ Monastery with Hanging Church. The area called "Complex of Three
 Religions", because there also set the mosque of Amr Ibn Al Asa, erected
 in the year 642, and Ben Ezra Synagogue, dating from the tenth century. Free
 time in **Cairo**, then you will be driven
-to **Alexandria port** back to your
-ship terminal.
-
-**Tour Includes:**
-
--Pick up services from your ship in **Alexandria port**
-
--All transfer by air-conditioned vehicle in **Alexandria port** and **Cairo**
-
--Entrance fees to the **sightseeing** in **Cairo** as per itinerary
-
--Lunch during the **tour** at a high quality restaurant in **Cairo**
-
--Egyptologist English speaking **tour** Guide in **Cairo**
-
--Hotel accommodation for 1 night in **Cairo** at five stars hotel
-
--Drop off services from your ship in **Alexandria port
-
-Tour Excludes:
-
-**- Optional **tours**
-
-- Personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**What to bring:
+to **Alexandria port** **What to bring:
 
 **- Passport valid for 6 months
 
@@ -180,5 +136,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Budget Travel Ideas](..)

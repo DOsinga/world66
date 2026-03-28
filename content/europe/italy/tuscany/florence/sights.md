@@ -9,13 +9,26 @@ Florence is packed with sights. From the Middle Ages onward the Florentines have
 
   Among the many science museums of special interest are the Museum of History of Science, the Museum of Geology and Paleontology, the Museum of Botany, the Museum of Mineralogy, that of Anthropology and Ethnology, and of course the glorious " Specola ". Vast collections of bibliographies are kept in the Biblioteca Nazionale Centrale and in other famous libraries such as the Mediceo-Laurenziana, the Riccardiana and the Marucelliana. Many priceless documents are kept in the Archivio di Stato and the Archivio Comunale 
 
-## Subsections
+**general**
 
-[Churches](/europe/italy/tuscany/florence/sights/churches)
-[Convents](/europe/italy/tuscany/florence/sights/convents)
+**Galleria della Accademia **
 
-[Museums](/europe/italy/tuscany/florence/sights/museums)
-[Palazzi](/europe/italy/tuscany/florence/sights/palazzi)
+This is one of the best known museums in Florence, because it houses famous sculptures by Michelangelo, including the "David". There are also many paintings, collected by the Grand Duke Peter Leopold to help the young artists enrolled in the Accademia d’Arte, which is still next door to the gal [more..](/europe/italy/tuscany/florence/sights/galleriadellaaccademia)
 
-[Parks & Gardens](/europe/italy/tuscany/florence/sights/parksgardens)
-[Squares](/europe/italy/tuscany/florence/sights/squares)
+address: Via Ricasoli 58-60
+
+openings: 9am-7pm, holidays: 9am - 2pm, closed Mondays, entrance L.12.000
+
+tel: +39 (0)55 – 2388609 or 23885
+
+## Categories
+
+[Squares](/europe/italy/tuscany/florence/sights?subsection=Squares)
+[Churches](/europe/italy/tuscany/florence/sights?subsection=Churches)
+[Convents](/europe/italy/tuscany/florence/sights?subsection=Convents)
+
+[Palazzi](/europe/italy/tuscany/florence/sights?subsection=Palazzi)
+[Museums](/europe/italy/tuscany/florence/sights?subsection=Museums)
+
+[general](/europe/italy/tuscany/florence/sights?subsection=general)
+[Parks & Gardens](/europe/italy/tuscany/florence/sights?subsection=Parks%20%26%20Gardens)

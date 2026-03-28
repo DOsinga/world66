@@ -10,6 +10,3 @@ Flensburg's surrondings are lush and green, with quiet beaches and lots of possi
 Tourist office: Tourist-Information & Service/ Speicherlinie 40/ 24937 Flensburg/ Telephone 0461/9090920 - Fax 0461/9090936 (Open Mo - Fr from 9 am to 6 pm; in summer also Sa from 10 am to 1 pm.) http://www.flensburg-tourist.de
 
 Major sights: Old City, Förde (=fjord), Nordertor (=Northern Gate) incl. PHÄNOMENTA, Sankt Nikolai-Kirche (=Church of Saint Nicholas), Sankt Marien-Kirche (=Church of Holy Mary), Schiffahrtsmuseum und Rum-Museum (=Museum of Shipping and Rum)
-
-*Change history*
-Orginal article by [Tonja Fabritz](/member/tonjafabritz) on 19 February 04

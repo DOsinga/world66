@@ -1,0 +1,4 @@
+---
+title: "Negril"
+type: location
+---

@@ -1,12 +1,8 @@
 ---
-title: "Cuatrocienegas de Carranza, Coahuila Travel Guide"
+title: "Cuatrocienegas de Carranza, Coahuila"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Hometown of the heroic Venustiano Carranza
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 23:23

@@ -1,0 +1,4 @@
+---
+title: "Chorzow"
+type: location
+---

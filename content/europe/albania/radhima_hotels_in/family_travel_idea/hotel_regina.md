@@ -20,5 +20,3 @@ url: [www.albania-hotels.al](http://www.albania-hotels.al)
 address: Radhima Beach, Dhermi, Vlora, Albania
 
 email: info@edialtour.com
-
-[back to Family Travel Ideas](..)

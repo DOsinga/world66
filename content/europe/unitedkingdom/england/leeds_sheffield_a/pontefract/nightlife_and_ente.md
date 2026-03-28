@@ -10,8 +10,6 @@ Pontefract has a plethora of clubs of bars in the city center.
 
 **Contributors**
 July 24, 2006
-new
-by [nathanjmassey](/member/nathanjmassey) (1 point)
 
 ### [Big Fellas](/europe/unitedkingdom/england/leeds_sheffield_a/pontefract/nightlife_and_ente/big_fellas)
 

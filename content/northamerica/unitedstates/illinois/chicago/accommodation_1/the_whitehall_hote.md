@@ -24,5 +24,3 @@ url: [www.thewhitehallhotel.com](http://www.thewhitehallhotel.com)
 address: 105 E. Delaware Place, Chicago, IL 60611
 
 email: thewhitehallhotel@milestoneinternet.com
-
-[back to Accommodation](..)

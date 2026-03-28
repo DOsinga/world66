@@ -14,6 +14,3 @@ swans arrive from Siberia along with numerous types of migrating ducks and geese
 Details including opening times and prices from website below.
 
 www.wwt.org.uk/visit/martinmere
-
-**Change history**
-Orginal article by [davidx](/member/davidx) on 07 December 04

@@ -8,5 +8,3 @@ Old downtown Holly is like stepping back in time to the turn of the last century
 Christmas time brings out some of the old tyme beauty with a festival and tree lighting ceremony downtown. The Holly Hotel in historic Battle Alley has a comedy club in the basement and elegant dining upstairs. It is also said to be haunted.
 
 Late summer has the Carry Nation Festival with a craft show, carnival for children and beer tent for the adults.
-
--->

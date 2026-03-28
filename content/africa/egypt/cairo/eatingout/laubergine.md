@@ -9,9 +9,3 @@ For the vegetarians in our midst, l'Aubergine on Zamalek islands is definately a
 Very nice indeed
 
 type: Vegetarian
-
-
-
-
-
-[back to Eating Out](..)

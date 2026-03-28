@@ -1,0 +1,4 @@
+---
+title: "Mieres"
+type: location
+---

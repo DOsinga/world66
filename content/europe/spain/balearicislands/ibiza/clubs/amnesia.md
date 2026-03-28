@@ -8,5 +8,3 @@ This is one of the nightclubs with a strong British feeling. The best nights are
 address: San Antonio Road, Ibiza Town
 
 tel: +34/971198041
-
--->

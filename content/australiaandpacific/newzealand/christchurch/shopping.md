@@ -3,6 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-## Subsections
+We currently have no Shopping listed in Christchurch.
 
-[Art Galleries](/australiaandpacific/newzealand/christchurch/shopping/galleries)
+If you do know any Shopping in Christchurch, please [Add].

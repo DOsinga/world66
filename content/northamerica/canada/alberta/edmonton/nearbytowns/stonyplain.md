@@ -17,13 +17,5 @@ unique shops and galleries. Call for more information. Tel: 1 780
 
 **Contributors**
 May 27, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: general
-
-
-
-
-
-[back to Nearby Towns](..)

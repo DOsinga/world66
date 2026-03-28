@@ -1,0 +1,4 @@
+---
+title: "Galveston"
+type: location
+---

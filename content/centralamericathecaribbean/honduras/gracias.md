@@ -1,0 +1,4 @@
+---
+title: "Gracias"
+type: location
+---

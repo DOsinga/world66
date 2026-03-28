@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-## Subsections
+We currently have no Getting There listed in Miami.
 
-[By Air](/northamerica/unitedstates/florida/miami/gettingthere/byair)
+If you do know any Getting There in Miami, please [Add].

@@ -1,0 +1,4 @@
+---
+title: "Baden"
+type: location
+---

@@ -34,8 +34,6 @@ could also create grand religious buildings, but now are all in ruins.
 
 **Contributors**
 December 30, 2009
-new
-by [goscotlandtours](/member/goscotlandtours)
 
 ### [Tour the Scottish Borders](/europe/unitedkingdom/scotland/melrose/day_trips/tour_the_scottish)
 

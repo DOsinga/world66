@@ -17,10 +17,7 @@ http://www.exmoor-nationalpark.gov.uk/About_Exmoor/Exmoorlearning.htm
 
 http://www.visit-exmoor.info/towns_main.htm
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 28 October 04
-
-Minor corrections by [davidx](/member/davidx) on 28 October 04
+Minor corrections on 28 October 04
 
 ## Destinations in Exmoor
 
@@ -31,5 +28,3 @@ Minor corrections by [davidx](/member/davidx) on 28 October 04
 [Lynton and Lynmouth](/europe/unitedkingdom/england/bristol_plymouth/exmoor/lynton_and_lynmout)
 [Brendon and Oare](/europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare)
 [Combe Martin](/europe/unitedkingdom/england/bristol_plymouth/exmoor/combe_martin)
-
--->

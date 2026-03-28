@@ -7,5 +7,3 @@ The Delaware State House, located on South State Street, was built in the late 1
 
 **Contributors**
 June 16, 2007
-new
-by [daulphy](/member/daulphy)

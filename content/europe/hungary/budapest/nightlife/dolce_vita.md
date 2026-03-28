@@ -3,8 +3,6 @@ title: "Dolce Vita"
 type: poi
 address: "Oktober 6 Utca"
 type: "Erotic clubs and bars"
-latitude: 47.499322
-longitude: 19.05131
 ---
 
 For anyone going on a stag trip to Budapest the best advice I can give you is NOT to go to the Dolce Vita club. It is little more than a clip joint of the type seen years ago in Londonâ€˜s Soho.
@@ -15,8 +13,6 @@ Although there was six of us and we put up some resistance, any arguing just res
 
 **Contributors**
 January 20, 2007
-new
-by [st vincent](/member/st_vincent) (2 points)
 
 type: Erotic clubs and bars
 
@@ -25,5 +21,3 @@ type: Erotic clubs and bars
 
 
 address: Oktober 6 Utca
-
-[back to Nightlife and Entertainment](..)

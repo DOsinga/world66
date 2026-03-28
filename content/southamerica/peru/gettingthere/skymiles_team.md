@@ -14,13 +14,5 @@ The SkyMiles team has no connectivity from the African continent to South Americ
 
 **Contributors**
 July 03, 2006
-new
-by [massd](/member/massd) (1 point)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

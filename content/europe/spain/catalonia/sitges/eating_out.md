@@ -6,8 +6,6 @@ phone: "34 93 894 30 01"
 price: "9.50€ Menu del dia"
 type: "International"
 url: "www.sitges4u.com"
-latitude: 41.239238
-longitude: 1.810686
 ---
 
 **[La Tratto](/europe/spain/catalonia/sitges/eating_out)**
@@ -17,8 +15,6 @@ A gem of a place for taste buds, there is nothing bland served here.
 
 **Contributors**
 May 04, 2009
-change
-by [sitges4u](/member/sitges4u)
 
 ### [La Tratto](/europe/spain/catalonia/sitges/eating_out/la_tratto)
 

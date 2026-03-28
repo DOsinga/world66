@@ -1,0 +1,4 @@
+---
+title: "Kromeriy"
+type: location
+---

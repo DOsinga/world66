@@ -7,5 +7,3 @@ Fort Batenstein is a slavefort build 1652 by the Dutch people. It's in ruins but
 
 **Contributors**
 September 23, 2005
-change
-by [giorgio](/member/giorgio)

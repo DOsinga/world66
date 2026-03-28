@@ -29,9 +29,5 @@ After the TGV train station was built, a Dutch architect, Rem Koolhaas, transfor
 
 **Contributors**
 April 16, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 April 14, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

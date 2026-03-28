@@ -14,5 +14,3 @@ type: general
 
 
 address: Puno 530
-
-[back to Eating Out](..)

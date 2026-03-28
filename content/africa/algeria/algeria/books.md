@@ -98,5 +98,3 @@ author: William A. Sumruld
 isbn: 0945636466
 
 subject: history
-
--->

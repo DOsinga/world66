@@ -11,8 +11,6 @@ url: "www.brettwhiteley.org"
 
 **Contributors**
 October 25, 2005
-new
-by [davidfish](/member/davidfish)
 
 ### [The Brett Whiteley Studio](/australiaandpacific/australia/newsouthwales/sydney/surry_hills/museums/the_brett_whiteley)
 

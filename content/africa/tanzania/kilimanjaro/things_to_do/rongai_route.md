@@ -35,13 +35,9 @@ With tours starting at around $300 for a 7 night trek, it may be time to answer 
 
 **Contributors**
 January 03, 2008
-new
-by [sentias](/member/sentias) (2 points)
 
 type: Hiking
 
 
 
 url: [amazingtours.rezgo.com](http://amazingtours.rezgo.com/2007/12/how-to-kill-kilimanjaro.html)
-
-[back to Things to do](..)

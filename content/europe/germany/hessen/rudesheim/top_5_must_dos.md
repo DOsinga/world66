@@ -27,5 +27,3 @@ Siegfried’s mechanical musical instrument cabinet is the largest collection of
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)

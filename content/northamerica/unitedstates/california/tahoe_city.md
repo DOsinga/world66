@@ -1,12 +1,8 @@
 ---
-title: "Tahoe City Travel Guide"
+title: "Tahoe City"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Good City
-
-Page last generated on Wed 13:06
-
--->

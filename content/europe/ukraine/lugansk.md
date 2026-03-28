@@ -1,8 +1,6 @@
 ---
 title: "Lugansk"
 type: location
-latitude: 48.571708
-longitude: 39.297315
 ---
 
 At

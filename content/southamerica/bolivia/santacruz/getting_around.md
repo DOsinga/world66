@@ -10,9 +10,5 @@ The anillos are growing constantly, and not all of them are paved.
 
 **Contributors**
 August 03, 2006
-change
-by [joosts](/member/joosts) (2 points)
 
 January 13, 2005
-change
-by [qaya](/member/qaya)

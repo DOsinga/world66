@@ -1,6 +1,6 @@
 ---
 title: "Hanmer Springs Webcam"
-type: location
+type: poi
 url: "www.takeabreak.co.nz"
 ---
 
@@ -16,5 +16,3 @@ Leslie Hills and over Hanmer Springs thermal resort.
 
 
 url: www.takeabreak.co.nz
-
-[back to Webcams](..)

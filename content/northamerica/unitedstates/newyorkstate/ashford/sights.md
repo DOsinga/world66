@@ -13,8 +13,6 @@ Ashford is especially senic in the autumn as the fall folliage colors the hillsi
 
 **Contributors**
 September 30, 2005
-new
-by [resqgeek](/member/resqgeek)
 
 ### [Griffis Sculpture Park](/northamerica/unitedstates/newyorkstate/ashford/sights/griffis_sculpture)
 

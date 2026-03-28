@@ -2,8 +2,6 @@
 title: "Galdhøpiggen"
 type: poi
 type: "Landmarks"
-latitude: 61.636472
-longitude: 8.312443
 ---
 
 The **Galdhøpiggen **is with a hight of 2469m is the biggest mountain in Norway. It lies in the Jotunheimen mountains.
@@ -15,13 +13,5 @@ It's a great climb and there is no need for special gear, else then a good pair 
 
 **Contributors**
 February 14, 2007
-new
-by [subbeh](/member/subbeh) (2 points)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

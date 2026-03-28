@@ -1,9 +1,9 @@
 ---
-title: "The Laurentians Travel Guide"
+title: "The Laurentians"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **The Laurentians**
 
@@ -20,9 +20,3 @@ Indeed, visitors come from around the world to be charmed by the beauty of its u
 In each season, nature transports the traveller into a unique universe, so much so that the Laurentians is a place to rediscovered over and over again: it’s always a pleasure to return. So come and find your special corner of the Laurentians to which we are sure you’ll want to keep coming back: it’s one of North America’s true natural paradises.
 
 If you want to learn more about the Laurentians, you can check the **Tourisme Laurentides official bilingual Website**.
-
-*Part or or all of this text stems from the original article at: laurentides.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 22:08

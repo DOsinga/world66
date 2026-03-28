@@ -1,0 +1,4 @@
+---
+title: "Piacenza"
+type: location
+---

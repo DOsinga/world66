@@ -13,8 +13,6 @@ Although Oishii Boston is considered an upscale restaurant, the environment is r
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Japanese
 
@@ -29,5 +27,3 @@ address: 1166 Washington Street
 PriceOfMenu: $3-$10 per piece
 
 email: info@oishiiboston.com
-
-[back to Eating Out](..)

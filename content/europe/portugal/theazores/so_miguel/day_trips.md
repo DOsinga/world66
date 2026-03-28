@@ -15,8 +15,6 @@ If travelling with a tour operator, see if they can provide with some guides. ST
 
 **Contributors**
 June 29, 2005
-new
-by [gagarin](/member/gagarin) (1 point)
 
 ### [azorean Taxitours](/europe/portugal/theazores/so_miguel/day_trips/gary_travassos)
 

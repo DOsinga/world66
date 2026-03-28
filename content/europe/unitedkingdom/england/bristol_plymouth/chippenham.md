@@ -1,0 +1,4 @@
+---
+title: "Chippenham"
+type: location
+---

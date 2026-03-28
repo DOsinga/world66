@@ -9,5 +9,3 @@ city can be seen on foot: see walking tours.
 
 **Contributors**
 July 12, 2005
-new
-by [giorgio](/member/giorgio)

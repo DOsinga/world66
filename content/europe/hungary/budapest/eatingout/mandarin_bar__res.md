@@ -13,8 +13,6 @@ The restaurant is located in the city center of Budapest, just off the Opera in 
 
 **Contributors**
 October 30, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: International
 
@@ -31,5 +29,3 @@ address: VI. district Budapest, Ã“ utca 24-26.
 PriceOfMenu: 800-2500 Huf
 
 email: info@mandarinbar.hu
-
-[back to Eating Out](..)

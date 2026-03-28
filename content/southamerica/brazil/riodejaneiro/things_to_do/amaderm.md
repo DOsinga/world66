@@ -24,5 +24,3 @@ url: [www.amaderm.com.br](http://www.amaderm.com.br)
 address: Rua Visconde de Pirajá 433 - 5th floor
 
 email: luciana@amaderm.com.br
-
-[back to Things to do](..)

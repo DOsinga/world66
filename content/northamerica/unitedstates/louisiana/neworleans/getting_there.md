@@ -17,5 +17,3 @@ Anyone who's flipped through a Mark Twain novel knows what it's like to pine for
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)

@@ -1,0 +1,4 @@
+---
+title: "Margao"
+type: location
+---

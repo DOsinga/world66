@@ -9,8 +9,6 @@ price: "email/web AU$1 per 15 mins, $4 per hour"
 type: "general"
 url: "www.alv.org.au"
 zipcode: "3000"
-latitude: -37.807245
-longitude: 144.966065
 ---
 
 Help animals while you surf the web. All money goes to animals in need!
@@ -50,5 +48,3 @@ address: 394 Russell St, Melbourne
 url: [www.alv.org.au](http://www.alv.org.au)
 
 zipcode: 3000
-
-[back to Internet Cafes](..)

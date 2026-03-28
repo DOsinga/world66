@@ -12,5 +12,3 @@ type: Tavernas
 
 
 address: Morichovou sq., Ladadika
-
-[back to Eating Out](..)

@@ -15,5 +15,3 @@ type: Bars & Cafes
 address: Olievenhout Road
 
 tel: (011) 793-4514
-
-[back to Nightlife and Entertainment](..)

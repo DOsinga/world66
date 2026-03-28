@@ -27,5 +27,3 @@ The Basilica of St. Stephan is actually many different churches and crypt sand c
 
 **Contributors**
 April 06, 2010
-new
-by [piyushjain](/member/piyushjain_)

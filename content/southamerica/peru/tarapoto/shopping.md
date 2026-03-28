@@ -15,8 +15,6 @@ For souviners, there are three main places to look. (Don´t wait until you are b
 
 **Contributors**
 February 11, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Irinita's Net](/southamerica/peru/tarapoto/shopping/irinitas_net)
 
@@ -32,17 +30,10 @@ tel: 042 531380
 
 address: Jr. Alegria Arias de Morey #229 (Just a few doors north of Jr. Grau)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

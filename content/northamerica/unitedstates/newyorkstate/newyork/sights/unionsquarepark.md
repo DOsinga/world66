@@ -14,5 +14,3 @@ type: Hotspots
 
 
 address: from 14th to 17th sts., btw. Park Ave. South and Broadway
-
-[back to Sights](..)

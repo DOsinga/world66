@@ -14,5 +14,3 @@ type: general
 
 
 address: Blv. de L'Independance
-
-[back to Eating Out](..)

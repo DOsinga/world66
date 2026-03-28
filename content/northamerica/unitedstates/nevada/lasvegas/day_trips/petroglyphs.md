@@ -13,5 +13,3 @@ http://www.vegas.com/attractions/outside_lasvegas/grapevinecanyon.html
 
 
 email: parigy08@yahoo.com
-
-[back to Day Trips](..)

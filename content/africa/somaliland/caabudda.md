@@ -1,12 +1,8 @@
 ---
-title: "caabudda Travel Guide"
+title: "caabudda"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 caabudda is located between hargeysa and gabiley
-
-Page last generated on Sat 10:10
-
--->

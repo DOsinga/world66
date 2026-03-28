@@ -5,8 +5,6 @@ address: "Ribas de Miño 4"
 email: "casasantoestevo@ribeirasacra.com"
 phone: "0034 - 982452734"
 url: "www.ribeirasacra.com"
-latitude: 42.921213
-longitude: -7.523143
 ---
 
 The Casa Santo Estevo does not do organised
@@ -19,5 +17,3 @@ http://www.ribeirasacra.com
 
 **Contributors**
 June 25, 2005
-new
-by [the_doc](/member/the_doc) (1 point)

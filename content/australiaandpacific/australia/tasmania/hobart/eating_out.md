@@ -14,5 +14,3 @@ Hobart has a number of great restaurants, serving all types of food and to suit 
 **all**
 
 **ditte og bettina**
-
--->

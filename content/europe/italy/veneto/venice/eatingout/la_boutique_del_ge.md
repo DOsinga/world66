@@ -14,5 +14,3 @@ type: Italian
 
 
 address: San Lio by Campa Sta. Maria
-
-[back to Eating Out](..)

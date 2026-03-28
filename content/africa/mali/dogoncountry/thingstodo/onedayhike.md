@@ -14,7 +14,3 @@ From
 [Bandiagara](/africa/mali/dogoncountry/bandiagara) it is not well feasible to do it as one day trip. Better take two days.
 
 type: Hiking
-
-
-
-[back to Things to do](..)

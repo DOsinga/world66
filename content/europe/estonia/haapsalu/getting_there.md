@@ -7,5 +7,3 @@ Direct buses from Tallinn take one and a half hours. Although there is a railway
 
 **Contributors**
 September 20, 2005
-new
-by [ingvar](/member/ingvar)

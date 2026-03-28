@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 March 18, 2005
-change
-by [reen](/member/reen) (1 point)
 
 **Currency**
 

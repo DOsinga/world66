@@ -27,5 +27,3 @@ If you are looking for a concert to go to at night this is the place to be. Sall
 
 **Contributors**
 March 12, 2010
-new
-by [shomer](/member/shomer)

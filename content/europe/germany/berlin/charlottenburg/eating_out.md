@@ -13,5 +13,3 @@ type: section
 
 [Japanese](/europe/germany/berlin/charlottenburg/eatingout?subsection=Japanese)
 [Indian](/europe/germany/berlin/charlottenburg/eatingout?subsection=Indian)
-
--->

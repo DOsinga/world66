@@ -64,5 +64,3 @@ November.
 
 **Contributors**
 March 23, 2010
-new
-by [huttongreen](/member/huttongreen)

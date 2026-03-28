@@ -9,8 +9,4 @@ type: section
 
  **by air:**
 
- The airport Hamburg-Fuhlsbuttel is located at the northern edge of the city, close to the living areas. Buses run from the airport to the train station (and centre) run every twenty minutes, but it is a little cheaper to take the HVV airport bus to the U-Bahn (underground) and S-Bahn stop at Ohlsdorf, and then catch a train into town. 
-
-## Subsections
-
-[By Air](/europe/germany/hamburg/gettingthere/byair)
+ The airport Hamburg-Fuhlsbuttel is located at the northern edge of the city, close to the living areas. Buses run from the airport to the train station (and centre) run every twenty minutes, but it is a little cheaper to take the HVV airport bus to the U-Bahn (underground) and S-Bahn stop at Ohlsdorf, and then catch a train into town.

@@ -29,7 +29,5 @@ they find some sort of Roman remains.
 
 **Contributors**
 June 25, 2005
-new
-by [the_doc](/member/the_doc) (1 point)
 
 type: Public Buildings

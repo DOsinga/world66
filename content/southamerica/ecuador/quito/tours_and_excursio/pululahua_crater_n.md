@@ -12,8 +12,6 @@ The crater is a Geobotanical Reserve of 8000 acres and is a very special place f
 
 **Contributors**
 May 18, 2007
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -24,5 +22,3 @@ tel: 091914333
 url: [www.pululahuahostal.com](http://www.pululahuahostal.com)
 
 email: friendsweb1@hotmail.com
-
-[back to Tours and Excursions](..)

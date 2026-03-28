@@ -14,5 +14,3 @@ type: Markets
 
 
 address: Cantareira Street
-
-[back to Shopping](..)

@@ -23,8 +23,6 @@ Even if you don't get the loaded hoagy or loaded turkey hoagy for that matter, i
 
 **Contributors**
 December 20, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 type: Local
 
@@ -37,5 +35,3 @@ url: [www.jimssteakout.com](http://www.jimssteakout.com)
 address: numerous locations
 
 PriceOfMenu: less than $10.00 (most)
-
-[back to Eating Out](..)

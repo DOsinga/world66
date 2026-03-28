@@ -14,8 +14,6 @@ Star Peru states that if a passenger doesn't check in at least 60 minutes prior 
 
 **Contributors**
 December 14, 2006
-new
-by [approaching genius](/member/approaching_genius) (2 points)
 
 type: By Air
 
@@ -30,5 +28,3 @@ url: www.starperu.com
 address: Av. Jose Pardo 485, Miraflores, Peru
 
 email: reservasweb@starperu.com
-
-[back to Getting There](..)

@@ -7,8 +7,6 @@ phone: "+27214237331"
 price: "80"
 type: "Italian"
 url: "www.sexbyfood.com"
-latitude: -33.927373
-longitude: 18.413373
 ---
 
 Cape Town's finest Italian cuisine. From the Mediterranean views of the outside terrace to the variety of finely decorated dining rooms, deli and espresso and cocktail bar, Zucca is a dining experience.
@@ -30,5 +28,3 @@ PriceOfMenu: 60-200
 email:
 
 priceofmenu: 80
-
-[back to Eating Out](..)

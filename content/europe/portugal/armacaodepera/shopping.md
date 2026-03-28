@@ -21,9 +21,5 @@ Armacao de Pera has many great products that are produced in the area that make 
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 03, 2010
-new
-by [kat99](/member/kat99)

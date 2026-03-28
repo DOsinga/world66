@@ -1,0 +1,4 @@
+---
+title: "Ashta"
+type: location
+---

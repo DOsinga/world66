@@ -5,9 +5,3 @@ type: "Fast food"
 ---
 
 type: Fast food
-
-
-
-
-
-[back to Eating Out](..)

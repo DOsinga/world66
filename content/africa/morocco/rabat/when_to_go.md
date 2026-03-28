@@ -52,5 +52,3 @@ gear in case rain showers do occur.
 
 **Contributors**
 March 10, 2010
-new
-by [cferry1990](/member/cferry1990)

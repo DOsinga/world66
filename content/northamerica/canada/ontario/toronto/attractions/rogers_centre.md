@@ -4,8 +4,6 @@ type: location
 address: "One Blue Jays Way, Toronto, ON M5V 1J1"
 phone: "(416) 341-1707"
 url: "www.rogerscentre.com"
-latitude: 43.642186
-longitude: -79.390943
 ---
 
 The Rogers Stadium, home of the Toronto Blue Jays and a whole host of other sports teams offers a wonderful tour of bits and pieces you wouldn’t usually get to see game day. And if you’re lucky you’ll get a really enthusiastic and endearing guide who’ll make the whole thing that little extra special.
@@ -36,16 +34,10 @@ The Rogers Stadium Tour is well worth doing then and for $13 it’s not too expe
 
 **Contributors**
 March 27, 2007
-change
-by [jimshady](/member/jimshady) (2 points)
 
 October 07, 2006
-change
-by [lynns](/member/lynns) (1 point)
 
 October 09, 2006
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -56,5 +48,3 @@ tel: (416) 341-1707
 url: [www.rogerscentre.com](http://www.rogerscentre.com)
 
 address: One Blue Jays Way, Toronto, ON M5V 1J1
-
-[back to Attractions](..)

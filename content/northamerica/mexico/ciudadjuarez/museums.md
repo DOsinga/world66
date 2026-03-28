@@ -29,5 +29,3 @@ Ciudad Juarez museums examine a culture unlike any other. Grant yourself the pri
 
 **Contributors**
 April 01, 2010
-new
-by [jbyard1](/member/jbyard1)

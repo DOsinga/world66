@@ -7,5 +7,3 @@ Washing, drying and ironing can all be done on the boat. Some rooms [not private
 
 **Contributors**
 November 18, 2004
-new
-by [davidx](/member/davidx)

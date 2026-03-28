@@ -55,5 +55,3 @@ In case of emergency dial these numbers to get assistance:
 
 **Contributors**
 March 31, 2010
-change
-by [kwalker](/member/kwalker)

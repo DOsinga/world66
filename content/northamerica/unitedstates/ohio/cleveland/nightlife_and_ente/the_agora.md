@@ -12,8 +12,6 @@ The Agora is one of Cleveland's and the country's finest rock concert venues. It
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Concerts
 
@@ -26,5 +24,3 @@ url: www.clevelandagora.com
 address: 5000 Euclid Ave.
 
 email: info@clevelandagora.com
-
-[back to Nightlife and Entertainment](..)

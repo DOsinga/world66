@@ -17,5 +17,3 @@ type: Bars & Cafes
 connection: S Savignyplatz, S-Bahnbogen 595,
 
 openings: Mo -Fr 8 am- midnight, Sa + Su 9am -midnight
-
-[back to Nightlife and Entertainment](..)

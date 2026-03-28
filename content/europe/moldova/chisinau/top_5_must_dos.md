@@ -27,5 +27,3 @@ This is another interesting sight tourists must visit in Chisinau. The museum is
 
 **Contributors**
 April 20, 2010
-change
-by [imran_m](/member/imran_m)

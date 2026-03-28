@@ -15,9 +15,6 @@ If you are looking for coral and bright & brilliant colors, go to the Barrier Re
 
 This is a good getaway from the hustle & bustle of Auckland, with some breathtaking vistas along the way.
 
-**Change history**
-Orginal article by [iccohen](/member/iccohen) on 24 March 05
+Write up on 24 March 05
 
-Write up by [iccohen](/member/iccohen) on 24 March 05
-
-Minor corrections by [iccohen](/member/iccohen) on 29 March 05
+Minor corrections on 29 March 05

@@ -8,8 +8,3 @@ The main reason why most people visit Oxford (less than two hours from London) i
 The colleges are scattered all throughout town and altered with historical buildings showing the impressive architectural character of several periods. Take for example the Bodleain Libray, which is the second-largest library in the country. Magdalen College, with its cloisters and deer park, was the learning school of Oscar Wilde. Hertford College is the place to go to when you want to see one of Oxford's other famous sights, the Bridge of Sighs, which design was based on the Ponte dei Sospori in Venice.
 
 Besides that, Oxford is prepared for its students and visitors and offers besides historical sights and several good museums, a vibrant shopping and commercial area with plenty of shops, restaurants and cafes. So it's up to you to decide whether you indulge in a rowing trip on the River Cherwell, walk the cobbled streets or see a Shakesperian play performed in one of the many theatres...
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 24 March 04
-
--->

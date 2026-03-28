@@ -5,8 +5,6 @@ address: "Rua da Juventude, 9500-211"
 phone: "296 307 575"
 type: "Shopping centers and malls"
 url: "www.parqueatlanticoshopping.pt"
-latitude: 37.747387
-longitude: -25.676201
 ---
 
 Shopping is not the main reason that one visits the Azores, but it can keep you busy for a day or so.
@@ -15,8 +13,6 @@ The stores in the centre are generally open 09:00-12:30 and 14:00-18:30 on weekd
 
 **Contributors**
 June 29, 2005
-change
-by [gagarin](/member/gagarin) (2 points)
 
 ### [Parque Atlântico](/europe/portugal/theazores/so_miguel/ponta_delgada/shopping/parque_atlntico)
 

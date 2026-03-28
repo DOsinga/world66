@@ -1,9 +1,9 @@
 ---
-title: "Upper West Travel Guide"
+title: "Upper West"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 To the north west of Ghana is the less well travelled region of the Upper West.
 
@@ -20,11 +20,3 @@ Ghanaians will be very welcoming to visitors.
 
 Lawra is famous for its music festival in October, Kobine (pronounced
 "Kó-bin-ah"). Lasting for four days it is a great time to visit.
-
-#### Contributors
-
-September 15, 2005 new by [adjua_h](/member/adjua_h)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 01:03

@@ -1,9 +1,9 @@
 ---
-title: "Bridgton Travel Guide"
+title: "Bridgton"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Discover the magic of the Greater Bridgton Lakes Region located in
 the heart of western Maine’s lakes and mountains. Situated between
@@ -18,7 +18,3 @@ place. The air is clean, the water pure, the woods inspiring, the
 sights breathtaking and the night sky bright with millions of stars.
 Our beautiful region is less than an hour’s drive from Portland,
 Freeport and North Conway, NH.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:51

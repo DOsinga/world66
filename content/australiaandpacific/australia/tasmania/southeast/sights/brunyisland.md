@@ -11,9 +11,3 @@ Bruny Island is accessible as a day trip from  Hobart, but to do the island jus
  To get to Bruny Island, drive south from Hobart  on the Southern Outlet, then take the road to  Margate, and follow it all the way to  Kettering. Ferries to and from the island  depart every 1 to 2 hours. To get more  information, including the ferry timetable,  visit  Bruny Island Online.
 
 type: general
-
-
-
-
-
-[back to Sights](..)

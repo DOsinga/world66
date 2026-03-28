@@ -1,12 +1,8 @@
 ---
-title: "Ludlow Travel Guide"
+title: "Ludlow"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Ludlow, VT
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 22:10

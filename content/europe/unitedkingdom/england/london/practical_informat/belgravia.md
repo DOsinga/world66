@@ -8,11 +8,5 @@ Belgravia is a district in the City of Westminster, London, England, to the sout
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-[back to Practical Information](..)

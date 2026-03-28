@@ -8,5 +8,3 @@ A large hostel, (and IHH member) just 5 minutes walk from the rail and bus stati
 address: Mac Curtain St.
 
 tel: +353 (0)21 4508388
-
--->

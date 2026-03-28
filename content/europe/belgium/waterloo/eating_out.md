@@ -42,9 +42,4 @@ sustain anyone through a day of sightseeing.
 
 Modern day fare has crept in to this historic town in the form of
 Pizza Hut, McDonald’s and even Chi Chi’s if you are so inclined.
-However, Le Bivouac de L’Empereur is a step back to Napoleon’s time.
-This charming tavern offers fare from the era such as knackwurst,
-bratwurst, and roast chicken as well as more contemporary items. Enjoy
-your meal with a Belgian beer or a glass of wine. Be sure to save room
-for a simple fruit tart or a piece of sinful cake made with Belgian
-chocolate.
+However, Le Bivouac de L’Empereur is a step

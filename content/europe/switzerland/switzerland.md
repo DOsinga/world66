@@ -1,8 +1,6 @@
 ---
 title: "Switzerland"
 type: location
-latitude: 46.798562
-longitude: 8.231974
 ---
 
 Located in central Europe, Switzerland is bordered by [Germany](/europe/germany) , [Austria](/europe/austria) , [Liechtenstein](/europe/liechtenstein) , [Italy](/europe/italy) , and [France](/europe/france) . A small country, Switzerland's very name conjures up images of chocolates, cheese, watches, bankers, and snow-capped mountains. 
@@ -18,25 +16,3 @@ On the banks of the River Rhône is [Geneva](/europe/switzerland/geneva) , a cit
 The three different parts (French speaking, German speaking and Italian speaking) of the country all have a very distinct atmosphere which makes it an adventure to explore. Switzerland is nature's playground and offers numerous opportunities for outdoor activities. The Alps and the Jura slopes are great places for skiing. Hiking, mountaineering and ski mountaineering, paragliding and hang-gliding, water-skiing, sailing, windsurfing, rafting, and canoeing are some of the outdoor activities that you can undertake in Switzerland. 
 
 Since Switzerland is in the middle of the Alps outdoor opportunities like hiking or skiing are better than anywhere else. Only one drawback: it's not the cheapest of places to stay.
-
-*Change history*
-Minor corrections by [Brokenme](/member/brokenme) on 15 April 04
-
-## Top Destinations in Switzerland
-
-[Geneva](/europe/switzerland/geneva)
-[Basel](/europe/switzerland/basel)
-[Zurich](/europe/switzerland/zurich)
-[Montreux](/europe/switzerland/montreux)
-[Lausanne](/europe/switzerland/lausanne)
-[St. Moritz](/europe/switzerland/stmoritz)
-[Zermatt](/europe/switzerland/zermatt)
-[Davos](/europe/switzerland/davos)
-[Laax](/europe/switzerland/laax)
-[Bern](/europe/switzerland/bern)
-[Verbier](/europe/switzerland/verbier)
-[Grindelwald](/europe/switzerland/grindelwald)
-
-[**Show all destinations in Switzerland.**](/europe/switzerland/lib/alldestinations)
-
--->

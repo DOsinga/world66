@@ -13,5 +13,3 @@ Tel (0351) 272 348 420
 
 **Contributors**
 September 05, 2005
-new
-by [airesdossantos](/member/airesdossantos)

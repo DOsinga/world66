@@ -12,8 +12,6 @@ Florence offers a number of different shopping districts. Visitors will find eve
 
 **Contributors**
 December 26, 2005
-new
-by [ifiranthezoo](/member/ifiranthezoo)
 
 ### Shoals Antique Dealers Association
 

@@ -1,0 +1,4 @@
+---
+title: "Taveuni"
+type: location
+---

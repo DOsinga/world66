@@ -15,5 +15,3 @@ The Memorial was dedicated in formal ceremony 21 May 2005. For more information,
 
 **Contributors**
 December 22, 2007
-new
-by [vummf1](/member/vummf1)

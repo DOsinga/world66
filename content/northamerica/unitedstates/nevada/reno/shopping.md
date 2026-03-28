@@ -7,5 +7,3 @@ When you want to do some Reno shopping, go to the Meadowood Mall at 5000 Meadowl
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

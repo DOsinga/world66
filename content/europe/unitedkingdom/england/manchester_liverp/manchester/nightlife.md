@@ -13,5 +13,3 @@ Whether you’re into folk music, performances by (un)known bands, big concerts,
 [Gay & Lesbian Bars](/europe/unitedkingdom/england/manchester_liverp/manchester/nightlife?subsection=Gay%20%26%20Lesbian%20Bars)
 
 [Gay & Lesbian Clubs](/europe/unitedkingdom/england/manchester_liverp/manchester/nightlife?subsection=Gay%20%26%20Lesbian%20Clubs)
-
--->

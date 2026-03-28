@@ -19,12 +19,8 @@ Marina del Rey offers neighborhood shopping within walking distance from local h
 
 **Contributors**
 December 05, 2006
-new
-by [marinagal](/member/marinagal) (1 point)
 
 December 05, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Creative Chakra Spa](/northamerica/unitedstates/california/losangeles/marinadelrey/shopping/creative_chakra_sp)
 

@@ -33,6 +33,11 @@
 
 {% block extra_js %}
 <script>
-initContinentMap('world-map');
+var W66_CONTINENTS = [
+  {% for continent, kids in continents %}
+  {slug: "{{ continent.slug }}", title: "{{ continent.title|escapejs }}", url: "{{ continent.get_absolute_url }}"},
+  {% endfor %}
+];
+initContinentMap('world-map', W66_CONTINENTS);
 </script>
 {% endblock %}

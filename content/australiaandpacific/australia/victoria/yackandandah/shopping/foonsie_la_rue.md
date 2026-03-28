@@ -6,8 +6,6 @@ email: "info@yackandandah.au.com"
 phone: "0408 568 856"
 type: "Speciality shops"
 url: "www.yackandandah.au.com"
-latitude: -36.312897
-longitude: 146.839151
 ---
 
 **Foonsie La Rue means “Pretty the street”.
@@ -31,5 +29,3 @@ url: [www.yackandandah.au.com](http://www.yackandandah.au.com)
 address: 23 High Street, Yackandandah.
 
 email: info@yackandandah.au.com
-
-[back to Shopping](..)

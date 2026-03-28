@@ -1,9 +1,9 @@
 ---
-title: "Novo mesto Travel Guide"
+title: "Novo mesto"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 When one thinks of Dolenjska, the image of this varied countryside with
 its many hills, topped by churches, the imposing Gorjanci mountain range, the
@@ -131,13 +131,3 @@ previous century. The first gun shot in the war for Slovenia was fired in Poganc
 Novo Mesto strides into the 21st century as the chief economic,
 administrative, cultural, religious, educational and sports centre in Dolenjska
 and has confidently assumed the leading position in south-eastern Slovenia .
-
-#### Contributors
-
-July 02, 2006 change by [tropico](/member/tropico) (4 points)
-
-May 10, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 23:20

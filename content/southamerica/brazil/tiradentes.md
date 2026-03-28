@@ -1,8 +1,6 @@
 ---
 title: "Tiradentes"
 type: location
-latitude: -21.110469
-longitude: -44.174294
 ---
 
 mg

@@ -13,13 +13,9 @@ www.fetedelamusique.de/98.0.html
 
 **Contributors**
 June 24, 2006
-new
-by [bernhadette](/member/bernhadette) (3 points)
 
 
 
 url: [www.fetedelamusique.de](http://www.fetedelamusique.de)
 
 date: every June 21st
-
-[back to Festivals](..)

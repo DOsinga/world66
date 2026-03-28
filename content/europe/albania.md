@@ -1,8 +1,6 @@
 ---
 title: "Albania"
 type: location
-latitude: 41.000028
-longitude: 19.999962
 ---
 
 Albania is located in the south-eastern coast of the Adriatic Sea, Albania is a small country bordered by Yugoslavia and Greece. The country has witnessed many vicissitudes in its eventful history-from fleeing refugees and blood vendettas, to years of dictatorial rule. Yet, Albania manages to offer tourists the traditional Mediterranean charm and a heady blend of different religions, cultures and landscapes. 
@@ -28,18 +26,3 @@ Among the lesser-known places, [Berat](/europe/albania/berat) , Gjirokastra, Elb
 Since Albania experiences scorching summers and cool winters, the best months to visit the country are September and October, when the days are long and the climate quite pleasant
 
 I was disappointed in Albania's lack of albinos.
-
-## Destinations
-
-- [Apolonia](/europe/albania/apolonia)
-- [Ardenica](/europe/albania/ardenica)
-- [Berat](/europe/albania/berat)
-- [Butrint](/europe/albania/butrint)
-- [Durres](/europe/albania/durres)
-- [Gjirokaster](/europe/albania/gjirokaster)
-- [Korce](/europe/albania/korce)
-- [Kruje](/europe/albania/kruje)
-- [Saranda](/europe/albania/saranda)
-- [Shkoder](/europe/albania/shkoder)
-- [Tirana](/europe/albania/tirana)
-- [Vlore](/europe/albania/vlore)

@@ -17,8 +17,4 @@ Forget the diet. Umbrian cuisine is rich, hearty and totally delicious, and ther
 **
 4. Visit Spoleto**
 
-History buffs, welcome to paradise. This dinky little Umbrian town has roots that can be traced back to before the Roman Empire, and the place feels somewhat like a giant open air museum. Pre-Roman ruins are dotted around the town, and life revolves around picturesque 16th Century town squares. Each June and July, the Festival dei Due Mondi (Festival of Two Worlds) sees the population swell considerably as visitors flock to the town to take in music, dance and theatre performances in a two-week spectacular.
-**
-5. Visit Assisi and the Basilica of Saint Francis**
-
-Set against a backdrop of lush green hillsides and rustic cottages, the Basilica of Saint Francis is a stunning 13th Century building built to honor the famous saint. Pilgrims have been making their way here since the 14th Century to pay their respects, but whatever your religion, the peacefulness and beauty of this Umbrian town are awe-inspiring.
+History buffs, welcome to paradise. This dinky little Umbrian town has roots that can be traced

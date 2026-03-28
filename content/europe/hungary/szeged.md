@@ -1,0 +1,4 @@
+---
+title: "Szeged"
+type: location
+---

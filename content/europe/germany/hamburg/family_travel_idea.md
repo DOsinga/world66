@@ -23,5 +23,3 @@ This cemetery park combination is huge, 400 hectares, in fact, and has 3 museums
 
 **Contributors**
 November 18, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

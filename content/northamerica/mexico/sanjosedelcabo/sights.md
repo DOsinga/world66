@@ -25,5 +25,3 @@ In** San Jose del Cabo, sights **to see are countless. There are dozens of thing
 
 **Contributors**
 February 09, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

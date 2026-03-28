@@ -3,8 +3,8 @@ title: "Dana Point"
 type: location
 ---
 
-South of Laguna Beach, at Dana Point, windsurf at the Dana Point Marina or sport-fish in deep water. At the Marine Institute, take a tide-pool tour and visit the floating laboratory. Mariner's Village, on Dana Wharf, re-creates the feeling of the port's early trading days through its shops and cafés.  
+South of Laguna Beach, at Dana Point, windsurf at the Dana Point Marina or sport-fish in deep water. At the Marine Institute, take a tide-pool tour and visit the floating laboratory. Mariner's Village, on Dana Wharf, re-creates the feeling of the port's early trading days through its shops and cafés.
 
 ## Destinations in Dana Point
 
-[Dana Point](/northamerica/unitedstates/california/orangecounty/danapoint/danapoint)
+[Dana Point](/world/northamerica/unitedstates/california/orangecounty/danapoint/danapoint)

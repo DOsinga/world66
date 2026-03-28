@@ -17,5 +17,3 @@ A good option is the Z&Z Ticket Office.
 
 
 url: [www.concertvienna.com](http://www.concertvienna.com)
-
-[back to Top 5 Must Do's](..)

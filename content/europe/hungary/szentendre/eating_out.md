@@ -46,7 +46,3 @@ You'll know the place when you see a statue of a friar hoisting a plate of fish.
 address: Bogdányi u. 3-5
 
 tel: 310 544
-
-## Subsections
-
-[Cafes](/europe/hungary/szentendre/eatingout/cafes)

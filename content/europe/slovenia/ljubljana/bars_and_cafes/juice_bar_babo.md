@@ -19,5 +19,3 @@ accessibility: 9-21
 tel: +385 98 270 968
 
 address: www.babo.si
-
-[back to Bars and Cafes](..)

@@ -10,13 +10,5 @@ After a steep but well maintained uphill path, you reach the top, which is only 
 
 **Contributors**
 July 18, 2006
-new
-by [yohay elam](/member/yohay_elam)
 
 type: Hiking
-
-
-
-
-
-[back to Things to do](..)

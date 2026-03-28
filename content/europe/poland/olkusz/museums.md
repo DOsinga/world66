@@ -14,5 +14,3 @@ ul. Florianska 5, 32-300 Olkusz
 
 **Contributors**
 November 29, 2006
-change
-by [giorgio](/member/giorgio)

@@ -1,9 +1,9 @@
 ---
-title: "Armavir Marz Travel Guide"
+title: "Armavir Marz"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 This dry and flat plain is a continuation of [Ararat Marz](/europe/armenia/ararat_marz) and similar in many respects. The main attraction is Echmiadzin Cathedral, its surrounding compound and the other churches in the city. Sardarapat is the other big attraction, with a soaring monument marking the site of the battle in which tiny Armenia routed the Turkish invasion after WWI, saving itself from complete destruction. Along with the monument is Armenia's largest ethnographic museum, with an excellent collection of Armenian artifacts from life in the Armenian highlands thousands of years ago, all the way up to the time of the genocide.
 
@@ -22,9 +22,3 @@ Sites:
 **Armavir** - not the current city, but the nearby ruins of an ancient hellenistic capital. Not that much remains to be seen, but the museum and grounds are open for visitors and history buffs.
 
 **Metsamor** - not the nuclear power plant, but the nearby ruins and museum of an ancient past capital. The excavations and museum are open for visitors.
-
-*Part or or all of this text stems from the original article at: Raffi Kojian (me!)*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 03:03

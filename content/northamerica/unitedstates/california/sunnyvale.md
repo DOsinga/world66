@@ -1,9 +1,9 @@
 ---
-title: "Sunnyvale Travel Guide"
+title: "Sunnyvale"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The area first began to be developed when the stagecoach lines between
 San Jose and San Francisco were begun in the mid-1800's. One of the
@@ -20,11 +20,3 @@ day and said, "Let's call it Sunnyvale." The name was accepted and by
 the future: "City of Destiny."
 
 The founding of Sunnyvale: 1912
-
-#### Contributors
-
-January 23, 2007 new by [mehul](/member/mehul)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

@@ -14,5 +14,3 @@ For more information: http://www.taos-greece.com/
 
 **Contributors**
 July 02, 2008
-change
-by [gilr](/member/gilr)

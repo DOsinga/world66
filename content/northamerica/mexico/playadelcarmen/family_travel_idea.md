@@ -26,9 +26,5 @@ If you miss modern life, go to 5th Avenue, La Quinta. Locals and tourists love t
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [2 many commas](/member/2_many_commas)

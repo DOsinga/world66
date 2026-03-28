@@ -12,8 +12,6 @@ Located in the Barelas area, the National Hispanic Cultural Center of New Mexico
 
 **Contributors**
 May 26, 2009
-change
-by [smkane](/member/smkane)
 
 type: Hotspots
 
@@ -26,5 +24,3 @@ openingHours: Tues-Sun 10:00 a.m. - 5:00 p.m.
 url: [www.nhccnm.org](http://www.nhccnm.org)
 
 address: 1701 4th Street SW (at Bridges Street), Barelas, Albuquerque
-
-[back to Sights](..)

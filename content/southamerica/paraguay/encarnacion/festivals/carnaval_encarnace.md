@@ -14,5 +14,3 @@ Every year, on February, take's place in Encarnacion the Carnaval Encarnaceno or
 url: [www.carnaval.com.py](http://www.carnaval.com.py)
 
 date: Every year on February
-
-[back to Festivals](..)

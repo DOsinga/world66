@@ -5,9 +5,6 @@ type: section
 
 It is not easy to find restaurants where the locals go to, asking around may not be the best way to find them either.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
-
 **all**
 
 El Labrador
@@ -21,5 +18,3 @@ Good local food is served in the garden under the Papaya and Lemon trees.
 address: Montaña La Data, 36
 
 tel: 928 14 12 88
-
--->

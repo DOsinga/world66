@@ -35,5 +35,3 @@ type: Hotspots
 
 
 url: [www.scintillalimited.com](http://www.scintillalimited.com)
-
-[back to Sights](..)

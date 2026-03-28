@@ -1,9 +1,9 @@
 ---
-title: "Taleh Travel Guide"
+title: "Taleh"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Taleh has a relatively strong economic base, which depends primarily on livestock sector. Other mainstays of the local economy are remittances (for better off and middle classes) from the diaspora community and the transport sector, supported by a good road network which links the town to Berbera and Bosaso ports as well as central Somalia. Moreover, the substantial cross border trade between Puntland and the neighboring Zone Five in Ethiopia passes through Taleh, which makes it a growing commercial hub.
 Even though there is no strong baseline at household level showing the relative importance of various income sources among households according to different wealth group, the livestock sector is believed to be the most important source of income for most households. During a rapid assessment on June 7-8 and interviews with local elders and key informants, FEWS NET and FSAU found that 50-60% of the urban population derives a substantial amount of their income from the livestock sector, directly or indirectly, in a normal year -- defined as 1996.
@@ -15,7 +15,3 @@ FEWS NET, FSAU and local health workers found that self- employment activities g
 On the expenditure side, poor households spend 60-70% of their annual income on staple foods. In addition to local cereals, rice and wheat flour are the main staple foods consumed by poor households in a normal year. However, prices of locally produced cereals like sorghum and maize always remain high due to high transportation cost from the south. In most cases, households prefer imported rice and wheat flour to local cereals. Poor households also spend 15-20% of their annual income on non-staple food purchase, such as sugar, meat and, edible oil. Households spend 10-15% of their annual income on non-food essentials, such as house rent, clothing, kerosene and firewood.
 Poor household income options are not easily expandable (when households can expand some sources of income to offset a decrease in another sources of income). Hence, their normal expenditure patterns leave them no extra income to cater for health care or clean water, making them vulnerable to water borne diseases. Moreover, price of potable water has been increasing since 1994
 LIBAN ALI
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 07:58

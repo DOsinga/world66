@@ -5,8 +5,6 @@ address: "Skipholt 50c"
 phone: "(+354) 581 1414"
 price: "restruant"
 type: "Cheap"
-latitude: 64.139775
-longitude: -21.900678
 ---
 
 Pítan 105 Reykjavik. Why bother when there's so much better local stuff. Besides, it's the first time you'll gasp at the prices and realise it's not worth it!
@@ -22,5 +20,3 @@ address: Skipholt 50c
 tel: (+354) 581 1414
 
 PriceOfMenu: restruant
-
-[back to Eating Out](..)

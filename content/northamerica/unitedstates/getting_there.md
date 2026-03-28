@@ -38,9 +38,3 @@ The US and Mexican rail networks connect at Tecate (Tijuana) Yuma Nogales Dougla
 Road
 
 There are many crossing points from Canada to the USA. The major road routes are: New York to Montr&eacute;al/Ottawa Detroit to Toronto/Hamilton Minneapolis to Winnipeg and Seattle to Vancouver/Edmonton/Calgary.
-
-
-
-## Subsections
-
-[By Air](/northamerica/unitedstates/gettingthere/byair)

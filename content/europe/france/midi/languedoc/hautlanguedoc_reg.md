@@ -7,14 +7,9 @@ Some sites describe the location for this park as Southern Cevennes but the ame 
 
 http://www.parcs-naturels-regionaux.tm.fr/lesparcs/halac_en.html#jmpENCORE
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 11 November 04
-
 ## Destinations in Haut-Languedoc Regional Nature Park
 
 [Fraisse-sur-Agout](/europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout)
 [Monts de l'Espinouse](/europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou)
 [Le Sidobre](/europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre)
 [St Pons de Thomière](/europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomi)
-
--->

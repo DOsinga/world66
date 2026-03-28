@@ -7,8 +7,6 @@ email: "travelcorner@avansa-travel.com"
 phone: "00385 20 492 313"
 type: "Tourist information"
 url: "www.avansa-travel.com"
-latitude: 42.658163
-longitude: 18.086874
 ---
 
 http://www.dubrovnik-apartments-bb.com/

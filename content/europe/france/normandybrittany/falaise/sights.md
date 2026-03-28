@@ -11,5 +11,3 @@ The churches are open every day.
 
 **Contributors**
 January 22, 2005
-new
-by [sir_malcolm](/member/sir_malcolm) (2 points)

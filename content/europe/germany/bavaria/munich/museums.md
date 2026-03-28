@@ -9,8 +9,6 @@ url: "www.deutsches-museum.de"
 
 **Contributors**
 October 31, 2006
-new
-by [svetico](/member/svetico)
 
 ### [Deutsches Museum](/europe/germany/bavaria/munich/museums/deutschesmuseum)
 
@@ -30,17 +28,10 @@ url: [www.deutsches-museum.de](http://www.deutsches-museum.de/e_index.htm)
 
 tel: +49 (0)89 - 2 17 91
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

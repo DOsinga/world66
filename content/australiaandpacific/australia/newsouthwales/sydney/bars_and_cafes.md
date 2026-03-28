@@ -3,8 +3,6 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Orginal article by [RichardOsinga](/member/richardosinga) on 21 April 04
-
 **all**
 
 **The tea gardens**

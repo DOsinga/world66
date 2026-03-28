@@ -12,12 +12,8 @@ Gran Casino de Barcelona is located under the Hotel Arts Barcelona and it is muc
 
 **Contributors**
 May 16, 2008
-change
-by [mcburton](/member/mcburton) (1 point)
 
 March 03, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Casinos
 
@@ -32,5 +28,3 @@ tel: 93-225-78-78
 url: [www.casino-barcelona.com](http://www.casino-barcelona.com)
 
 address: Carrer de la Marina, Port Olimpic
-
-[back to Nightlife and Entertainment](..)

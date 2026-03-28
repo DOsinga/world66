@@ -1,0 +1,4 @@
+---
+title: "Tretten"
+type: location
+---

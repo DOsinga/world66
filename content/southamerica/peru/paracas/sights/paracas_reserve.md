@@ -15,5 +15,3 @@ type: Hotspots
 accessibility: by road
 
 url: [mysteryperu.com](http://mysteryperu.com/eng/co_paracas.html)
-
-[back to Sights](..)

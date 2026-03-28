@@ -3,8 +3,6 @@ title: "Sights"
 type: section
 ---
 
-Orginal article by [hpharmsen](/member/hpharmsen) on 19 October 04
-
 **all**
 
 **van Gogh's Nightcafe**
@@ -20,5 +18,3 @@ The Roman Arena located in the center of Arles. It is one of the best kept Roman
 **Theater Antique**
 
 Theater Antique is a Roman theatre that started in the first century by Augustus. It was here, in 1651, that the Venus of Arles was discovered. It was was restored by Louis XIV, and is now on display in the Louvre. The theatre has mostly been destroyed, and only two Corinthian columns remain intact. This is considered to be one of Arles' great classical monuments. [more..](/europe/france/midi/provence/arles/sights/theater_antique)
-
--->

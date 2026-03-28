@@ -17,5 +17,3 @@ type: section
 
 **Contributors**
 February 09, 2010
-new
-by [marley16kristin](/member/marley16kristin)

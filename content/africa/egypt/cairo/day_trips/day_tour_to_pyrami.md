@@ -26,37 +26,6 @@ considered the largest most precious collection of Egyptian art in the
 world , more 250,000 genuine artifacts are presented , including an
 exhibit dedicated to Tutankhamen , collection of treasure , gold and
 jewelry which was enclosed in his tomb over 3500 years before it was
-discovered in 1920 when his tomb was excavated .Transfer back to your
-hotel .
-
-**Inclusions:**
-
-- All transfers by A-C van .
-- English speaking Egyptologist guide .
-- Entrance fees to the mentioned places in the program .
-- lunch during tour at specialty restaurant .
-
-**Exclusions: **
-
-- Gratuities (recommended)
-- Food and drinks, unless specified
-- Entrance to inside of the Pyramids (approximately EGP 40.00 - 100.00)
-
-**Contributors**
-February 24, 2009
-new
-by [egypt tour guide](/member/egypt_tour_guide)
-
-
-
-
-
-tel: +20 12 1 450 455
-
-url: [www.youregypttours.com](http://www.youregypttours.com)
-
-address: 3 Okasha from Elmostashfa st,Alharam,giza,Egypt.
+discovered in 1920 when his tomb was excavated .Transfer address: 3 Okasha from Elmostashfa st,Alharam,giza,Egypt.
 
 email: eygpttourguide@yahoo.com
-
-[back to Day Trips](..)

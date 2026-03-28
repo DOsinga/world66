@@ -11,5 +11,3 @@ Just 25 miles north of SALINAS lies a majestic beach call Montañita or SURFER T
 
 
 address: 25 miles North of Salinas
-
-[back to Beaches](..)

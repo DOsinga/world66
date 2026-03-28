@@ -12,8 +12,6 @@ before uploading.*
 
 **Contributors**
 April 06, 2005
-new
-by [hollandtraveler](/member/hollandtraveler) (1 point)
 
 ### [Strand kiosk Beach-Inn Km 21](/europe/netherlands/waddenislands/texel_island/beaches/strand_kiosk_beach)
 

@@ -103,5 +103,3 @@ url: [afrolinktourstravel.com](http://afrolinktourstravel.com/)
 address: P.O BOX 51270 - 00100 GPO Nairobi - Kenya, Rattansi House, Koinange Street,
 
 email: info@afrolinktourstravel.com
-
-[back to Things to do](..)

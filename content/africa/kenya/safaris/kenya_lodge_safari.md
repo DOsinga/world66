@@ -12,5 +12,3 @@ url: [www.afrigala.com](http://www.afrigala.com)
 address: P.O Box 249 - 00618 Ruaraka
 
 tel: 254 721 284749
-
--->

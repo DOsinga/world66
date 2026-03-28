@@ -1,8 +1,6 @@
 ---
 title: "Spa"
 type: location
-latitude: 50.492065
-longitude: 5.862757
 ---
 
 Spa is a very nice city not far from Verviers and [Liege](/europe/belgium/liege), very

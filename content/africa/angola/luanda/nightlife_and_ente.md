@@ -5,8 +5,6 @@ address: "Dubai Marina- Dubai"
 email: "kapose4@hotmail.com"
 phone: "925661710"
 type: "Clubs and dancing"
-latitude: 25.078641
-longitude: 55.135252
 ---
 
 Clubs

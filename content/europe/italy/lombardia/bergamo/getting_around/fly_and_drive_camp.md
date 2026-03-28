@@ -13,8 +13,6 @@ We have a showroom in Gorle (Bergamo) if you prefer to pick out your vehicle rat
 
 **Contributors**
 November 22, 2009
-change
-by [karenbru](/member/karenbru)
 
 
 
@@ -27,5 +25,3 @@ url: www.campervaltesse.com
 address: Via P Ruggieri 25, 24123 Bergamo
 
 email: camper@campervaltesse.it
-
-[back to Getting Around](..)

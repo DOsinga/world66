@@ -33,5 +33,3 @@ date: 17.09.07
 address: Thimphu: P.O. Box 732
 
 email: tourbhutan@druknet.bt
-
-[back to Festivals](..)

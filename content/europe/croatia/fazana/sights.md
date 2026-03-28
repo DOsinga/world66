@@ -8,8 +8,6 @@ Here are a few suggested sights.
 
 **Contributors**
 July 11, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### Krk
 

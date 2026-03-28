@@ -1,9 +1,9 @@
 ---
-title: "Podgorica Travel Guide"
+title: "Podgorica"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Podgorica, situated on the banks of six rivers, is developing the
 characteristics of a modern European city. It is the metropolitan and
@@ -45,8 +45,3 @@ metropolis.
 
 More information on
 *Podgorica Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 15:28

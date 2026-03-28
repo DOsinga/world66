@@ -18,5 +18,3 @@ address: 4591 San Mateo Blvd NE,
 tel: (505)888-1992
 
 zipcode: Albuquerque, NM 87109-2010
-
-[back to Nightlife and Entertainment](..)

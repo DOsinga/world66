@@ -34,13 +34,9 @@ It may be time to answer Kilimanjaro's call and say "I Will!"
 
 **Contributors**
 December 13, 2007
-new
-by [sentias](/member/sentias) (1 point)
 
 
 
 address: http://amazingtours.rezgo.com/2007/12/how-to-kill-kilimanjaro.html
 
 email: amazingtours@rezgo.com
-
-[back to Tours and Excursions](..)

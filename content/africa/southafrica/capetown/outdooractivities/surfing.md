@@ -28,7 +28,3 @@ swell before this spot begins to break, and beware of the E. coli
 coming out of the nearby sewage outlet.
 
 type: Spa and Sauna
-
-
-
-[back to Things to do](..)

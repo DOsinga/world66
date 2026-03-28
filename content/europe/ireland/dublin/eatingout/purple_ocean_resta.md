@@ -27,5 +27,3 @@ address: St Michael's Pier, Dun Laoghaire Harbour
 PriceOfMenu: €22.50 for 4 courses
 
 email: info@purpleocean.ie
-
-[back to Eating Out](..)

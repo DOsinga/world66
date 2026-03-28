@@ -16,8 +16,3 @@ El Song Gardens
 Beidenharn Bible Museum
 
 Antique Alley (West Monroe, LA)
-
-*Change history*
-Orginal article by [Gambit242](/member/gambit242) on 19 January 05
-
--->

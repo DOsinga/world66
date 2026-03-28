@@ -27,5 +27,3 @@ No visit to Playa del Carmen would be complete without a little beach time. Afte
 
 **Contributors**
 April 01, 2010
-change
-by [ctanios](/member/ctanios)

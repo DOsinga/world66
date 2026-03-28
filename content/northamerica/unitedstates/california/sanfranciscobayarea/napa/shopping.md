@@ -11,8 +11,6 @@ Wineries
 
 **Contributors**
 December 02, 2005
-new
-by [handyman321](/member/handyman321)
 
 ### [Napa Cellars](/northamerica/unitedstates/california/sanfranciscobayarea/napa/shopping/napa_cellars)
 

@@ -1,0 +1,4 @@
+---
+title: "Moron"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Barcs"
+type: location
+---

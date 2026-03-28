@@ -1,6 +1,6 @@
 ---
 title: "Sargent/ellice"
-type: location
+type: poi
 type: "African"
 ---
 
@@ -10,7 +10,5 @@ ethnic restaurants.
 
 **Contributors**
 March 30, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: African

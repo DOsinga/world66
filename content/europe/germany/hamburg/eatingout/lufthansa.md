@@ -14,5 +14,3 @@ type: European
 
 
 email: cutebhs@yahoo.com
-
-[back to Eating Out](..)

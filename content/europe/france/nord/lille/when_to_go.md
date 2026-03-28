@@ -59,5 +59,3 @@ from winter hot spots like Belgium and the Netherlands.
 
 **Contributors**
 April 01, 2010
-new
-by [amymc](/member/amymc)

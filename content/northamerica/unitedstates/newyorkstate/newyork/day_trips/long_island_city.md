@@ -8,11 +8,7 @@ Until 1898 Long Island City was independent from New York – it really *was* it
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 
 
 url: [www.licnyc.com](http://www.licnyc.com)
-
-[back to Day Trips](..)

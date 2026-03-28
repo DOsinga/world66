@@ -1,9 +1,9 @@
 ---
-title: "Clackamas Travel Guide"
+title: "Clackamas"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Situated at the union of the Willamette and Columbia rivers, Portland
 is a vibrant city of unique charms - the stately elms in the South Park
@@ -21,13 +21,3 @@ greenery. Grab a bite and a microbrew from a myriad of restaurants and
 brewpubs. Shop in The Pearl or Clackamas Town Center, browse original
 art the Portland Saturday Market, or catch a live show in the arts
 district.
-
-*Part or or all of this text stems from the original article at: http://www.portlandpdxhotel.com/html/lloyd-center-portland-or.asp*
-
-#### Contributors
-
-March 24, 2007 new by [chirag](/member/chirag) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 20:57

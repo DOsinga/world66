@@ -9,5 +9,3 @@ The castle Grad Khislstein
 
 **Contributors**
 May 02, 2006
-new
-by [sieagle](/member/sieagle)

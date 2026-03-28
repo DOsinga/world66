@@ -1,0 +1,4 @@
+---
+title: "Cobram"
+type: location
+---

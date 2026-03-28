@@ -1,9 +1,9 @@
 ---
-title: "Himara Hotels Travel Guide"
+title: "Himara Hotels"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Hotels in Himara Vlora Albania.**
 
@@ -24,11 +24,3 @@ This page is about because there is www.edialtour.com centralized
 database that gives your application availability.
 
 *Part or or all of this text stems from the original article at*
-
-#### Contributors
-
-October 16, 2010 change by [edialtour](/member/edialtour)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 20:23

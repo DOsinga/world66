@@ -6,16 +6,12 @@ email: "manchester.visitor.information@manchester.gov.uk"
 phone: "+44 (0) 161 234 315"
 type: "Tourist information"
 url: "www.visitmanchester.com"
-latitude: 53.478513
-longitude: -2.244125
 ---
 
 Here are some useful addresses.
 
 **Contributors**
 June 24, 2005
-new
-by [giorgio](/member/giorgio)
 
 ### Visitor Information Centre
 

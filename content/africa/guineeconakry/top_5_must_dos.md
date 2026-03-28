@@ -62,9 +62,5 @@ surroundings. The river itself is overlooked by a 230 foot rock and joins the Ri
 
 **Contributors**
 February 19, 2010
-change
-by [schitti](/member/schitti)
 
 February 14, 2010
-new
-by [cferry1990](/member/cferry1990)

@@ -14,5 +14,3 @@ type: Hiking
 
 
 url: [www.sgwa.org](http://www.sgwa.org/aboutsg.htm)
-
-[back to Things to do](..)

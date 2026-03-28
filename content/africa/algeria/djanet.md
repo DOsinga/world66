@@ -1,0 +1,4 @@
+---
+title: "Djanet"
+type: location
+---

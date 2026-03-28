@@ -21,13 +21,7 @@ The beaches of Cancun are legendary the world over, and these palm-fringed stret
 
 **Contributors**
 February 11, 2010
-change
-by [lucyb](/member/lucyb)
 
 February 12, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

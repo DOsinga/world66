@@ -33,5 +33,3 @@ Tourists should always take care while getting around this unknown city. Travele
 
 **Contributors**
 March 31, 2010
-new
-by [nik.singh31](/member/nik.singh31)

@@ -1,8 +1,6 @@
 ---
 title: "Athlone"
 type: location
-latitude: 53.422843
-longitude: -7.94259
 ---
 
 Athlone is located in the centre of Ireland. With a population of approximately 23,500 (within a three mile radius) it is a small pleasant town. The modern name Athlone comes from two words 'Ath' meaning ford or crossing and 'Luain' a man's name, meaning the ford of Luain. 

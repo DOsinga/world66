@@ -6,8 +6,6 @@ date: "15th July"
 email: "info@cultourabcn.com"
 phone: "0034 93 473 1731"
 url: "www.cultourabcn.com"
-latitude: 41.38258
-longitude: 2.177073
 ---
 
 In July (date varies), as the afternoon heat sizzles away to leave a
@@ -21,12 +19,8 @@ colourful stalls, Roman dancing and slave auctions.
 
 **Contributors**
 July 09, 2006
-change
-by [reen](/member/reen)
 
 July 10, 2006
-change
-by [cultoura](/member/cultoura)
 
 
 
@@ -41,5 +35,3 @@ date: 15th July
 address: Barcelona
 
 email: info@cultourabcn.com
-
-[back to Festivals](..)

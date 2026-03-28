@@ -22,5 +22,3 @@ accessibility: Train or rental car, 30 minutes
 url: [www.birdsnetherlands.nl](http://www.birdsnetherlands.nl)
 
 email: flevobirdwatching@gmail.com
-
-[back to Things to do](..)

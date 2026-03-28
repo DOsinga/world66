@@ -76,5 +76,3 @@ basketball court and satellite TV.
 
 **Contributors**
 March 31, 2010
-change
-by [stolsen](/member/stolsen)

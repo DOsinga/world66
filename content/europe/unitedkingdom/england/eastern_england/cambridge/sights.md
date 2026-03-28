@@ -7,9 +7,6 @@ Understandably, but unfortunately for visitors, a number of colleges charge for 
 
 It might be useful, however, to know of some places which do not charge.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 25 August 04
-
 **all**
 
 **'Free' Colleges**
@@ -23,5 +20,3 @@ address: central Cambridge
 **St.Johns College**
 
 Contains the often photographed Bridge of Sighs. From the grand Chapel with it imposing tower, to the beautiful verdant backs; from 15th century courts to 19th century courts, this is arguably one of the most beautiful colleges in Cambridge.
-
--->

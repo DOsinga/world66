@@ -52,5 +52,3 @@ and vases. Contains a food court with some excellent authentic food.
 
 **Contributors**
 December 26, 2009
-new
-by [cjr236](/member/cjr236)

@@ -27,5 +27,3 @@ The Corredera square was built in the 17th century and has remained largely unch
 
 **Contributors**
 August 25, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

@@ -1,9 +1,9 @@
 ---
-title: "Moreno Valley Travel Guide"
+title: "Moreno Valley"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Incorporated in 1984, Moreno Valley is a city of about 175,000
 inhabitants (as of 2006). It is located in a region referred to as the
@@ -22,11 +22,3 @@ The March Air Reserve base is located between Moreno Valley and
 Riverside. The base is used by Air Force's 452d Air Mobility Wing,
 California Air National Guard's 163d Air Refueling Wing, and Montana's
 120th Fighter Wing.
-
-#### Contributors
-
-May 10, 2007 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 21:29

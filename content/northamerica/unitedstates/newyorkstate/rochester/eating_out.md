@@ -11,8 +11,6 @@ Here's information on some of Rochester's famous delicacies.
 
 **Contributors**
 January 30, 2006
-new
-by [allamericanbear](/member/allamericanbear)
 
 ### [Nick Tahou's](/northamerica/unitedstates/newyorkstate/rochester/eating_out/nick_tahous)
 

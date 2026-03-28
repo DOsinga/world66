@@ -3,41 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-umm im a seventh grader from USA and im try to find out stuff about bulgaria and i just cant dang!!!
+"/>
 
-## Top Destinations in Bulgaria
+Europe can be reached by surface transport from Africa and Asia. Getting there from the other continents involves flying.
 
-- [Sofia](/europe/bulgaria/sofia)
-- [Varna](/europe/bulgaria/varna)
-- [Vratza](/europe/bulgaria/vratza)
-- [Belogradchik](/europe/bulgaria/belogradchik)
-- [Plovdiv](/europe/bulgaria/plovdiv)
-- [Kyustendil](/europe/bulgaria/kyustendil)
+ **Air**
 
-- [Smolyan](/europe/bulgaria/smolyan)
-- [Burgas](/europe/bulgaria/burgas)
-- [Vidin](/europe/bulgaria/vidin)
-- [Veliko turnovo](/europe/bulgaria/velikoturnovo)
-- [Gorna Oryahovica](/europe/bulgaria/gornaoryahovica)
-- [Zlatni Piasaci / Golden Sands](/europe/bulgaria/zlatni_piasaci__g)
+ Europe has lot's of airconnections with all the other continents, except for Antarctica. Indeed, for some connections from Asia to the America's it makes sense to pick up a flight to Europe and then head on. London, Paris, Amsterdam and the bigger German cities have competitive markets for cheap flights. Return Flights to North America (mostly New York) can be had for under 250 Euro. The rest of the world has some excellent connections too.
 
-[more >](/europe/bulgaria/lib/alldestinations)
+ Note that the cheapest flight tend to use cheapish Eastern European Airlines. Most of them are ok, but connections tend to be unpractical - although if you pay attention you can get a free hotel night thrown in.
 
-- partner sites:
+ **Surface**
 
-- [Wikitravel Press](http://wikitravelpress.com/)
-- |
-- [Adventure Travel](http://www.gapadventures.com)
-- |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
-- |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
+ Asia and Europe share the longest continent border of the planet, though most people will cross from/to Asia in Istanbul, where a bridge spans the gap between the continent. Taking the transiberian express is another possiblity. From Greece there are boats to Turkey, Cyprus, Israel, Syria and Libanon.
 
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+ To Africa the most used route is without doubt the crossing of the Street of Gibraltar, which is easily done, but there are also ships between France and Algeria and from Italy to Tunis, Lybia and Egypt.

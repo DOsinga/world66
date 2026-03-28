@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 ---
 
 *** Sights in Paraguay***

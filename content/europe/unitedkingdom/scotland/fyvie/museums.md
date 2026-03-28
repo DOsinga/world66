@@ -7,5 +7,3 @@ There are no museums in Fyvie, except for Fyvie Castle itself which to my mind i
 
 **Contributors**
 February 13, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)

@@ -27,5 +27,3 @@ The Fishermen’s Quarters is not nearly as busy as the Ulm city center. When vi
 
 **Contributors**
 March 08, 2010
-change
-by [shomer](/member/shomer)

@@ -1,6 +1,6 @@
 ---
 title: "Escort Service Las Vegas"
-type: location
+type: poi
 address: "3135 Industrial Rd Unit 285"
 email: "escortservicelasvegas702@gmail.com"
 phone: "702-726-4535"
@@ -130,7 +130,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 http://www.escort-service-las-vegas.com
 
@@ -150,5 +150,3 @@ url: [www.escort-service-las-vegas.com](http://www.escort-service-las-vegas.com)
 address: 3135 Industrial Rd Unit 285
 
 email: escortservicelasvegas702@gmail.com
-
-[back to Nightlife and Entertainment](..)

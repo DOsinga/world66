@@ -6,8 +6,6 @@ email: "info@pertutti-online.de"
 phone: "+49 (0) 451 / 88 92 44 4"
 type: "Music"
 url: "www.pertutti-online.de"
-latitude: 53.867136
-longitude: 10.686665
 ---
 
 sheetmusic and musicbooks
@@ -23,5 +21,3 @@ url: [www.pertutti-online.de](http://www.pertutti-online.de)
 address: Fleischhauerstrasse 16, 23552 Lübeck
 
 email: info@pertutti-online.de
-
-[back to Shopping](..)

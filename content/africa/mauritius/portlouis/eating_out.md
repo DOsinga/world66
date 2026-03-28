@@ -61,4 +61,4 @@ the next. Whatever it is, it is certainly tasty. So whether you're from
 the United States, France, or Japan, your taste buds will feel right at
 home in Port Louis.
 
-So, get ready for a gastronomic adventure. Port Louis is a savory delight you're sure to want to come back to again and again.
+So, get ready for a gastronomic adventure. Port Louis is a savory delight you're sure to want to come

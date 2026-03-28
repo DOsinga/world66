@@ -5,8 +5,6 @@ address: "3888 Beech Street"
 email: "casey.collier@coachamerica.com"
 phone: "619-266-7365"
 url: "www.sandiegograyline.com"
-latitude: 32.721028
-longitude: -117.110806
 ---
 
 Enjoy the sights, sounds and beauty of **San Diego and Baja California**,
@@ -41,5 +39,3 @@ url: [www.sandiegograyline.com](http://www.sandiegograyline.com)
 address: 3888 Beech Street
 
 email: casey.collier@coachamerica.com
-
-[back to Tours and Excursions](..)

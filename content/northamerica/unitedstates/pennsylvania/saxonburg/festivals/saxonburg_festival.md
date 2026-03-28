@@ -9,8 +9,6 @@ Annual festival that generally occurs on the first or second Saturday of Septemb
 
 **Contributors**
 May 06, 2004
-new
-by [mccart42](/member/mccart42) (1 point)
 
 type: general
 
@@ -19,5 +17,3 @@ type: general
 
 
 date: early September
-
-[back to Festivals](..)

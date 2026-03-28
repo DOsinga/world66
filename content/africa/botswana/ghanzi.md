@@ -1,0 +1,4 @@
+---
+title: "Ghanzi"
+type: location
+---

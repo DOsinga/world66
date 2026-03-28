@@ -16,5 +16,3 @@ address: Palacio de Penmartin, Plaza de San Juan 1
 The "Museo de Reloj" displays an interesting collection of over 300 clocks. Admissions is 300 Pts. For further information call +34-956-182100. 
 
 address: La Atalaya Palace, Calle Lealas
-
--->

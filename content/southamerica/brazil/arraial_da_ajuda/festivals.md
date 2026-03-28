@@ -7,5 +7,3 @@ Carnival, New Year, Sao Joao are special dates in Arraial as in all over Brazil.
 
 **Contributors**
 November 24, 2005
-new
-by [tull](/member/tull)

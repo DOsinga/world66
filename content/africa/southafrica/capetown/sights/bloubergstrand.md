@@ -10,9 +10,3 @@ photo's of Table Mountain are probably taken from the beach at
 Bloubergstrand. Well worth the 20 minute drive north.
 
 type: general
-
-
-
-
-
-[back to Sights](..)

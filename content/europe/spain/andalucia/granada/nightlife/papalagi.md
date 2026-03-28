@@ -3,8 +3,6 @@ title: "Papalagi"
 type: poi
 address: "c/ Capitanía 6"
 type: "Bars & Cafes"
-latitude: 37.174461
-longitude: -3.596311
 ---
 
 type: Bars & Cafes
@@ -15,19 +13,10 @@ type: Bars & Cafes
 
 address: c/ Capitanía 6
 
-[back to Nightlife and Entertainment](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

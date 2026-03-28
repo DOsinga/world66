@@ -7,5 +7,3 @@ One of the best events in the area is "Rockin on the River". This outdoor weekly
 
 **Contributors**
 December 25, 2007
-new
-by [alces1976](/member/alces1976) (1 point)

@@ -12,5 +12,3 @@ If you know any hotels in vanga or restaurants in vanga, please [[Add].](/destin
 ## Destinations in vanga
 
 [vanga](/europe/croatia/brioniislands/vanga/vanga)
-
--->

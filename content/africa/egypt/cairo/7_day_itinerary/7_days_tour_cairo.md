@@ -63,34 +63,6 @@ Sleep whilst you sail onboard the Nile cruise
 After breakfast, you will visit many amazing places!
 Visit the Valley of the Kings and enter a range of fascinating tombsEnjoy the breathtaking views and the history of the Temple of Queen HatshepsutProceed onto the Colossi of Memnon.After lunch, you will sail to Edfu, enjoying a dinner onboard.Sleep whilst you sail onboard the Nile cruise
 
-**Day 6: Back to Cairo**
-
-After breakfast Transfer the airport to get your flight back to
-Cairo.. Transfer to your hotel free day or optional activities to make
-sound light show by the pyramids.
-**Day 7: A trip to Remember**
-
-After 7 exhilierating days of your Egypt Last Minute adventure, it
-will be time to share your journey with people back home. A guide will
-be waiting for you after your breakfast to take you to Cairo Airport.
-
-***Meals: Breakfast***
-** Inclusions**
-‘Meet and greet’ service by our Egypt Last Minute representativesCustomer services available 24 hours a day, 7 days a week:Emergency number: 00201005759364 or toll free 1 877 775 7633All transport is private, top quality and air-conditionedAccommodation at all cities and food included as listed.Accommodation for 4 nights on 5 star Nile Cruise which is Full Board.Private multi lingual EgyptologistAll tours and their entrance fees stated are included in the priceDomestic flights.Camping equipment: sleeping bags, camel blanket & tents.All service charges and taxes.
-
-**Exclusions**
-International AirfareEntry visa to EgyptAny optional tours
-
-
-
-
-
-tel: +2 01005759364
-
-url: [egyptlastminute.com](http://egyptlastminute.com/)
-
-address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
+**Day 6: address: 15 Saray El Gezira Street, Cairo, 11211 Egypt
 
 email: info@egyptlastminute.com
-
-[back to 7 Day Itinerary](..)

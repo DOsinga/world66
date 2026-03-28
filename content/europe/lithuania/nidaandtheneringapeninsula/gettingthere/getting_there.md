@@ -11,7 +11,3 @@ Also there is an 'ecological fee' when entering the official border of National 
 From Kaunas city fast ferry (for peoples only) reaches Neringa in 4 hours. The travel is perfect and relaxing. It takes approx. 3 hours by Nemunas river and 1 hour by Curonian lagoon. Tickets information:http://visit.kaunas.lt/
 
 type: By Air
-
-
-
-[back to Getting There](..)

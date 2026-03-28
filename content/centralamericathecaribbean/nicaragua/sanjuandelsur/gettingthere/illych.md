@@ -24,13 +24,5 @@ My advice. Dont stress it. dont go with pre concived notions and enjoy the scene
 
 **Contributors**
 May 13, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: By Road
-
-
-
-
-
-[back to Getting There](..)

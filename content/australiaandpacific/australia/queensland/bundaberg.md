@@ -1,0 +1,4 @@
+---
+title: "Bundaberg"
+type: location
+---

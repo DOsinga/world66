@@ -74,5 +74,3 @@ performances and celebrations.
 
 **Contributors**
 February 23, 2010
-change
-by [huttongreen](/member/huttongreen)

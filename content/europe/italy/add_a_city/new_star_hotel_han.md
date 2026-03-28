@@ -1,9 +1,9 @@
 ---
-title: "New Star Hotel Hanoi Travel Guide"
+title: "New Star Hotel Hanoi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The New Star Hotel hanoi is located in the very heart of the charming historic Hanoi Old Quarter, at 09 Hang Thung street, just few minutes from Hoan Kiem lake , our hotel is situated in a quiet peaceful street which offers you a perfect retreat from the vibrant and buzzing Old Quarter. It provides easy access to many famous attractions such as the Opera House, the Water puppet Theatre, the Temple of literature, Dong Xuan Market, the Vietnamese Art Museum, and St. Joseph's Catholic Church.
 
@@ -15,7 +15,3 @@ Whether you are on a business trip or a leisure vacation, our 24-hour on duty co
 
 For those of you just passing through we offer a transit stop so you can securely store you pack while you wonder around Hanoi and grab a shower before leaving on night trains and buses for other exciting destinations.
 Please click here to know more information: http:www.newstarhotelhanoi.com
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 20:55

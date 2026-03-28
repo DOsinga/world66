@@ -8,5 +8,3 @@ The romantic garden enriched with flowers and candlelight give this restaurant a
 address: Carrer Pere Sala 2, 07800 Baleares
 
 tel: +34) 971 30 12 02
-
--->

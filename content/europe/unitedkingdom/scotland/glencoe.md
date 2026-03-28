@@ -15,11 +15,6 @@ If you bypass the village on the A82 you will reach a good information centre. I
 
 For the youth hostel in Glencoe see http://www.syha.org.uk/syha/Web/Site/Hostels/Glencoe.asp
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 30 June 04
+Write up on 15 September 04
 
-Write up by [davidx](/member/davidx) on 15 September 04
-
-Minor corrections by [davidx](/member/davidx) on 15 September 04
-
--->
+Minor corrections on 15 September 04

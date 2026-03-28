@@ -1,0 +1,4 @@
+---
+title: "Skopelos"
+type: location
+---

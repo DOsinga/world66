@@ -1,0 +1,4 @@
+---
+title: "Garberville"
+type: location
+---

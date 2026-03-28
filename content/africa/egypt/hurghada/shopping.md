@@ -2,8 +2,6 @@
 title: "Shopping"
 type: section
 type: "Speciality shops"
-latitude: 28.024365
-longitude: 34.437179
 ---
 
 Here are a few featured shops.

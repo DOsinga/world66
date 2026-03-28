@@ -6,8 +6,6 @@ phone: "(480) 488-1752"
 price: "+/- $12"
 type: "Mexican"
 url: "www.elencantorestaurant.com"
-latitude: 33.832546
-longitude: -111.945558
 ---
 
 The main road in town has many artistic shops and western/Mexican restaurants including "The Satisfied Frog" and "El Encanto".

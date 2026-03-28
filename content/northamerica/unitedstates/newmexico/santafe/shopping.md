@@ -46,5 +46,3 @@ To finish this great shopping day with some avantgarde meets old cool crafts, he
 
 **Contributors**
 September 15, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

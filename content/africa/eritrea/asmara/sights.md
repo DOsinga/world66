@@ -17,5 +17,3 @@ Other point of interest are Asmara University and the Mai Jahjah fountain. At th
 
 **Contributors**
 February 28, 2005
-change
-by [giorgio](/member/giorgio) (1 point)

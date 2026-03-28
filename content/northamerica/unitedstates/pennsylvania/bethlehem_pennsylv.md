@@ -1,9 +1,9 @@
 ---
-title: "Bethlehem Pennsylvania Hotel - Courtyard by Marriott Bethlehem Lehigh Travel Guide"
+title: "Bethlehem Pennsylvania Hotel - Courtyard by Marriott Bethlehem Lehigh"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Name:**
 
@@ -30,9 +30,3 @@ pool, wireless Internet access and meeting space.
 2220 Emrick Blvd Bethlehem Hotel, PA 18020
 
 **Email :** bethleheminfo@bethlehemcourtyard.com
-
-*Part or or all of this text stems from the original article at: Bethlehem Hotel, PA 18020*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 22:48

@@ -1,8 +1,6 @@
 ---
 title: "Events"
 type: location
-latitude: 47.54568
-longitude: 7.56475
 ---
 
 **all**
@@ -22,5 +20,3 @@ url: [www.bladenight.ch/](http://www.bladenight.ch/)
 tel: +41 (0)61 - 1600
 
 email: dufrane@yahoo.com
-
--->

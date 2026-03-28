@@ -20,17 +20,7 @@ former Soviet Union states: various night trains from Moscow Belorusskaya, Peter
 
 **Contributors**
 February 12, 2007
-change
-by [gika](/member/gika) (1 point)
 
 August 27, 2008
-change
-by [j wojtynski](/member/j_wojtynski)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

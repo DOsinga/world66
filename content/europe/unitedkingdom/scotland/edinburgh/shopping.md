@@ -6,16 +6,12 @@ email: "sales@thecatgallery.co.uk"
 phone: "00 44 (0)131 226 7600"
 type: "Speciality shops"
 url: "www.thecatgallery.co.uk"
-latitude: 55.951911
-longitude: -3.201582
 ---
 
 Edinburgh is a great place to go shopping. The best known shop is Jenners department store but there are amny specialty shops in the City Centre too.
 
 **Contributors**
 January 03, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [The Cat Gallery (and Dogs Too)
 

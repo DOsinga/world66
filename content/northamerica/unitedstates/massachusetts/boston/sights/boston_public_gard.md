@@ -26,7 +26,5 @@ the latter from the [Boston Common](/northamerica/unitedstates/massachusetts/bos
 
 **Contributors**
 October 15, 2004
-new
-by [rcolonna](/member/rcolonna) (1 point)
 
 type: Parks, Gardens and Zoos

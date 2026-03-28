@@ -103,5 +103,3 @@ url: [www.bucovinakaitartravel.com](http://www.bucovinakaitartravel.com)
 address: Bucharest, Elena Vacarescu street, No.9
 
 email: office@bucovinakaitartravel.com
-
-[back to Day Trips](..)

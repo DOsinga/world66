@@ -50,5 +50,3 @@ Kiev: Azerbaijan Airlines
 Almaty: Azerbaijan Airlines
 
 Tashkent: Azerbaijan Airlines
-
--->

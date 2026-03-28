@@ -12,5 +12,3 @@ When General Santa Anna's army was defeated in the Battle of San Jacinto, Texan 
 main source: wikipedia
 
 url: www.cn-turkey.com
-
--->

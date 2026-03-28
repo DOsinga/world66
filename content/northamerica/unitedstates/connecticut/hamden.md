@@ -1,0 +1,4 @@
+---
+title: "Hamden"
+type: location
+---

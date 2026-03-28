@@ -1,0 +1,4 @@
+---
+title: "Scappoose"
+type: location
+---

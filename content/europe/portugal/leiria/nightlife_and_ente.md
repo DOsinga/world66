@@ -8,8 +8,6 @@ email: "info@sushidiscoclub.com"
 phone: "244852264"
 type: "Clubs and dancing"
 url: "www.sushidiscoclub.com"
-latitude: 41.478185
-longitude: -7.178506
 ---
 
 The nightlife main sceene is located in the old town, between the triangle Terreiro-Rua Direita- Praça Rodrigues Lobo.

@@ -8,8 +8,6 @@ Here are a few places you can visit.
 
 **Contributors**
 June 19, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### [Jaù National Park](/southamerica/brazil/manaus/sights/ja_national_park)
 

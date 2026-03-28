@@ -3,8 +3,6 @@ title: "Berlin"
 type: poi
 author: "David Clay Large"
 isbn: "046502646X"
-latitude: 52.503379
-longitude: 13.338652
 ---
 
 **From Publishers Weekly**
@@ -43,8 +41,6 @@ will find much to enlighten them.
 
 **Contributors**
 October 23, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 [](http://www.amazon.com/exec/obidos/ASIN/046502646X/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -53,5 +49,3 @@ by [svetico](/member/svetico) (2 points)
 author: David Clay Large
 
 isbn: 046502646X
-
-[back to Books](..)

@@ -12,8 +12,6 @@ Before the fly to Venice I have send my e-mail request to this friendly shop ser
 
 **Contributors**
 July 20, 2009
-new
-by [deconcilio](/member/deconcilio)
 
 ### [Rental bike Services](/europe/italy/veneto/venice/budget_travel_idea/rental_bike_servic)
 

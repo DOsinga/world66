@@ -11,7 +11,5 @@ Style Cafe Cancun nightclub.
 
 **Contributors**
 February 02, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Shopping centers and malls

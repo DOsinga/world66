@@ -1,0 +1,4 @@
+---
+title: "Bogalusa"
+type: location
+---

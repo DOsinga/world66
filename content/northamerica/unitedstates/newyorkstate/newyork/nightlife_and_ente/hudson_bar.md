@@ -12,8 +12,6 @@ One of New York's hottest nightspots from the moment it opened, Hudson Bar is a 
 
 **Contributors**
 August 09, 2006
-new
-by [plin](/member/plin) (1 point)
 
 type: Pubs
 
@@ -26,5 +24,3 @@ tel: 212 554 6000
 url: www.hudsonhotel.com
 
 address: 356 West 58th Street
-
-[back to Nightlife and Entertainment](..)

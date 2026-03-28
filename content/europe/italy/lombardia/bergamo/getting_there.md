@@ -4,18 +4,13 @@ type: section
 address: "Piazza Marconi, Bergamo"
 type: "By Rail"
 url: "www.trenitalia.it"
-latitude: 45.533104
-longitude: 9.670096
 ---
 
 Flights to Bergamo make getting there easier and easier as more companies use this stragetic position.
 
 Also trains and buses are good means of getting there.
 
-**Change history**
-Orginal article by [karenbru](/member/karenbru) on 30 May 05
-
-Minor corrections by [karenbru](/member/karenbru) on 30 May 05
+Minor corrections on 30 May 05
 
 ### Trains in Italy
 

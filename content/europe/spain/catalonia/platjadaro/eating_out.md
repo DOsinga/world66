@@ -23,9 +23,4 @@ The Pizzeria San Luis is one of the best international restaurants in the area. 
 
 **Sa Cova**
 
-If you are looking for a place with good food and a great wine list, Sa Cova is the place to go. The biggest drawback to the restaurant is that it is a bit pricey, which makes this a better restaurant for adults than kids, although kids are more than welcome.
-
-**Contributors**
-March 04, 2010
-change
-by [shomer](/member/shomer)
+If you are looking for a place with good food and a great wine list, Sa Cova is the place to go. The biggest draw

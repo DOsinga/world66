@@ -8,5 +8,3 @@ From Schiphol it is more convenient to go by bus. Line no 300, a red bus called 
 
 **Contributors**
 April 21, 2009
-new
-by [ingvar](/member/ingvar)

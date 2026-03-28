@@ -37,5 +37,3 @@ Stick to this itinerary and you will be able to enjoy all that Palermo has to of
 
 **Contributors**
 February 23, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

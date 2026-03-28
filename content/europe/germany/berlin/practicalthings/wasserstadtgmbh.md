@@ -8,7 +8,3 @@ Wasserstadt (Water City) GmbH has attracted attention all over Europe with its m
 address: Eiswerderstraße 18, Treptow
 
 tel: +49 (0)30 - 3559010
-
-[back to Practical Information](..)
-
--->

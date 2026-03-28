@@ -1,0 +1,7 @@
+---
+title: "Café Miró"
+type: location
+address: "Úri utca 30"
+opening_hours: "9am-midnight daily"
+phone: "175-5458"
+---

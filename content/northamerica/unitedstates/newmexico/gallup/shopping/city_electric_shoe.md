@@ -17,5 +17,3 @@ type: Speciality shops
 tel: 505-863-5252
 
 address: 3rd and Coal in downtown
-
-[back to Shopping](..)

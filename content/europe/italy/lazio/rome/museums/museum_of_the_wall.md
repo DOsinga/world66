@@ -5,8 +5,6 @@ accessibility: "No access for persons with disabilities"
 address: "Via Porta S. Sebastiano, 18"
 opening_hours: "9 - 14, Mon closed"
 phone: "Tel: +39.06.70475284"
-latitude: 41.873486
-longitude: 12.501411
 ---
 
 **Museo delle Mura**
@@ -18,8 +16,6 @@ the wall-walk open to the public.
 
 **Contributors**
 July 07, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 
 
@@ -32,5 +28,3 @@ tel: Tel: +39.06.70475284
 openingHours: 9 - 14, Mon closed
 
 address: Via Porta S. Sebastiano, 18
-
-[back to Museums](..)

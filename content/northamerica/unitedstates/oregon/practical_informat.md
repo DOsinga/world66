@@ -10,5 +10,3 @@ If you are looking for a high end hotel to enjoy on your next relaxing vacation,
 
 **Contributors**
 December 10, 2008
-change
-by [latravelgirl](/member/latravelgirl)

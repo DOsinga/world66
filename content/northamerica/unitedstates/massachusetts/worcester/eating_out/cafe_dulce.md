@@ -9,8 +9,6 @@ Serves only coffee and expresso specialty drinks and desserts; a great place to 
 
 **Contributors**
 May 24, 2006
-new
-by [kristi](/member/kristi)
 
 type: International
 
@@ -19,5 +17,3 @@ type: International
 
 
 address: Shrewsbury St.
-
-[back to Eating Out](..)

@@ -30,5 +30,3 @@ type: Other
 
 
 url: [missiontour.org](http://missiontour.org/sangabriel/asistencia.htm)
-
-[back to Things to do](..)

@@ -8,5 +8,3 @@ Museum built in 1951.
 
 **Contributors**
 January 13, 2006
-change
-by [giorgio](/member/giorgio)

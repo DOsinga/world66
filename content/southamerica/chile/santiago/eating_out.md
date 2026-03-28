@@ -50,5 +50,3 @@ For a great value on seafood and wonderful ambiance, have lunch at this eatery w
 address: Mercado Central
 
 tel: 2/672-2829
-
--->

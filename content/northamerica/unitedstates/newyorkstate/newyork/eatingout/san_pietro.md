@@ -12,8 +12,6 @@ Upmarket Italian that's ideal for two, three or four people. Quite a small dinin
 
 **Contributors**
 February 03, 2005
-new
-by [tomt314159](/member/tomt314159)
 
 type: Italian
 
@@ -28,5 +26,3 @@ address: 18 E 54th Street
 url: [www.sanpietro.net](http://www.sanpietro.net)
 
 tel: 212-753-9015
-
-[back to Eating Out](..)

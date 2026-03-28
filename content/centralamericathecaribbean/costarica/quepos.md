@@ -1,0 +1,4 @@
+---
+title: "Quepos"
+type: location
+---

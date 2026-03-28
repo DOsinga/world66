@@ -22,5 +22,3 @@ tel: 2548-6624
 address: Rua Domingos ferreira 41 - Copacabana
 
 PriceOfMenu: 30 Reals 10 Euros
-
-[back to Eating Out](..)

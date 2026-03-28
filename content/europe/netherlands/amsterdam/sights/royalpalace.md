@@ -2,8 +2,6 @@
 title: "Royal Palace"
 type: poi
 type: "Palaces"
-latitude: 52.373145
-longitude: 4.891336
 ---
 
 The Royal Palace (1648-1665) was designed as the most prestigious town
@@ -20,9 +18,3 @@ Hague. The Palace is being used for official receptions and can be
 visited. There is a nice collection of 18th C furniture.
 
 type: Palaces
-
-
-
-
-
-[back to Sights](..)

@@ -21,9 +21,6 @@ Sports enthusiasts will find the *Genuine American City* a haven for spectator s
 
 All of these components combine to secure Milwaukee’s place among premier destinations. From world-class performing arts and ethnic festivals to historic neighborhoods, sports and annual events, Milwaukee is a must-see city.
 
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 28 March 04
-
 ## Destinations in Milwaukee
 
 [Bay View](/northamerica/unitedstates/wisconsin/milwaukee/bayview)

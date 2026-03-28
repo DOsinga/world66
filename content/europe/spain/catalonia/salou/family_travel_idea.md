@@ -25,5 +25,3 @@ Port Aventura offers many rides and adventures that are perfect for kids and kid
 
 **Contributors**
 February 18, 2010
-change
-by [miss_frenchye](/member/miss_frenchye)

@@ -7,8 +7,6 @@ email: "zakka@tokyo22.com"
 phone: "+358 50 406 5171"
 type: "Speciality shops"
 url: "www.tokyo22.com"
-latitude: 60.170782
-longitude: 24.927442
 ---
 
 TOKYO22zakka - Modern Japanese Designer Fashion and Lifestyle items.
@@ -36,5 +34,3 @@ url: [www.tokyo22.com](http://www.tokyo22.com/tokyo22zakka)
 address: Fredrikinkatu 60, 00100 Helsinki.Finland
 
 email: zakka@tokyo22.com
-
-[back to Shopping](..)

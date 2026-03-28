@@ -9,9 +9,5 @@ webcam www.lappvika.com/webcam.htm
 
 **Contributors**
 April 24, 2005
-change
-by [hpharmsen](/member/hpharmsen) (1 point)
 
 April 04, 2005
-change
-by [reen](/member/reen)

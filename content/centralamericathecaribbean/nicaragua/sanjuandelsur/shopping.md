@@ -28,5 +28,3 @@ You can find rum anywhere and this is some of the best liquor found in Central A
 
 **Contributors**
 April 13, 2010
-new
-by [piyushjain](/member/piyushjain_)

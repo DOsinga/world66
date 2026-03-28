@@ -11,5 +11,3 @@ Jill
 
 
 email: dwntwnjbrown@yahoo.com
-
-[back to Day Trips](..)

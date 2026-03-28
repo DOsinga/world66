@@ -10,8 +10,6 @@ Although Oxford is considered a day trip in itself, there are many fun side trip
 
 **Contributors**
 June 08, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Bicester](/europe/unitedkingdom/england/south_east/oxford/day_trips/bicester)
 

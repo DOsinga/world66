@@ -50,34 +50,4 @@ run all around the town.
 
 If you're a little bit sore from the
 activities of the past two days, don't worry, it's time to head back to
-the spa. Go back to Tettucio Terme if you want, but be aware that there
-are some other great spas in town. Don't feel guilty about taking two spa
-days; after all it's what Montecatini Terme is famous for.
-
-**Day 6**
-
-Time to head back to Florence. Depending
-on how you're enjoying your time in Montecatini Terme you may want to
-leave earlier or later, but there is some great things to do in
-Florence, including visiting museums, shopping, and seeing historic landmarks. Book
-yourself into a hotel so that you'll have an easy trip to the airport
-the next day. If you've still got some room left in your budget, book
-dinner at Enoteca Pinchiorri, one of the most exclusive restaurants in
-the city.
-
-**Day 7**Time to head for home. Pick up some
-gelato, or Italian ice cream, on your way to the airport. Some critics
-consider Florence's gelato some of the best in the world.
-
-**Contributors**
-January 20, 2010
-change
-by [b.sowa](/member/b.sowa)
-
-January 26, 2010
-change
-by [schitti](/member/schitti)
-
-January 17, 2010
-new
-by [cjr236](/member/cjr236)
+the spa. Go

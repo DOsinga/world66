@@ -30,5 +30,3 @@ url: [www.taxitavira.com](http://www.taxitavira.com/sishtssingtoursriaformosa.ht
 address: Tavira tours ria formosa
 
 email: h878766@hotmail.com
-
-[back to Things to do](..)

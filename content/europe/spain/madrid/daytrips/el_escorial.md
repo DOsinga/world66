@@ -7,11 +7,3 @@ This is a wonderful attraction that suits many people who have different interes
 
 **Contributors**
 April 19, 2005
-new
-by [der_kommissar](/member/der_kommissar)
-
-
-
-
-
-[back to Day Trips](..)

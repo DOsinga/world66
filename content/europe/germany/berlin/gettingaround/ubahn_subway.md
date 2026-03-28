@@ -33,8 +33,6 @@ www.bvg.de/index.php/en/Bvg/Inde x/folder/710/name/For+Visitors
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)
 
 
 
@@ -47,5 +45,3 @@ url: [www.bvg.de](http:// www.bvg.de/index.php/en/Bvg/Index/folder/670)
 address: Berliner Verkehrsbetriebe BVG, Potsdamer Straße 188, 10783 Berlin
 
 email: info@bvg.de
-
-[back to Getting Around](..)

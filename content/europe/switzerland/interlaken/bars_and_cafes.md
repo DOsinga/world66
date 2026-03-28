@@ -27,5 +27,3 @@ Hooters, a familiar global chain of bars, has a branch in Interlaken. This estab
 
 **Contributors**
 March 27, 2010
-new
-by [beverly_per](/member/beverly_per)

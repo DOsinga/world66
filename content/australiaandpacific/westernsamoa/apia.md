@@ -1,0 +1,4 @@
+---
+title: "Apia"
+type: location
+---

@@ -12,13 +12,5 @@ Whales abound in this area, and when the season is right, you'll see many of the
 
 **Contributors**
 July 14, 2005
-new
-by [helen](/member/helen) (1 point)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

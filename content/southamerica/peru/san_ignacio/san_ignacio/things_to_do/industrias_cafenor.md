@@ -21,8 +21,6 @@ His appartment, shop and factory are all at calle Marulanda 269, which is just o
 
 **Contributors**
 May 09, 2006
-change
-by [joosts](/member/joosts) (4 points)
 
 type: Other
 
@@ -35,5 +33,3 @@ tel: 0051(0) 76 356354
 address: Jr. Maruland 269, San Ignacio, Cajamarca, Peru
 
 email: cafenor2006@yahoo.es
-
-[back to Things to do](..)

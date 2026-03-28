@@ -13,5 +13,3 @@ Opening Hours, May to September - 2.00pm - 4.00pm. Closed Mondays.
 
 **Contributors**
 July 01, 2006
-new
-by [bardofthebroch](/member/bardofthebroch) (1 point)

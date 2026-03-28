@@ -112,5 +112,3 @@ author: Jack Olsen
 isbn: 0312194501
 
 subject: history
-
--->

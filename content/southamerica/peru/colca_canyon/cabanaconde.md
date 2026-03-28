@@ -1,9 +1,9 @@
 ---
-title: "Cabanaconde Travel Guide"
+title: "Cabanaconde"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 A small and dusty town, which is the end for most hiking tours in the canyon. Stock up with water before going down into the canyon.
 
@@ -11,8 +11,4 @@ Coming from Cruz del Condor you can either take a bus or walk the way to Cabanac
 
 To walk down to Savalle (also known as the oasis), a little green paradise at the bottom of the canyon, takes you 2,5 hrs and is a steep descent. There a 3 lodges (Eden, Oasis and Paradiso), each with swimming pool and set menus for lunch and dinner, you sleep in very basic bemboo huts. Paradiso seems to be the best choice with the nicest pool. To walk back is hard work of 3 to 4 hrs, depending on your fitness, although we heard rumors that locals do it in less than one hour! Leave early in the moring or late in the afternoon to avoid the sun.
 
-Buses back to [Arequipa](/southamerica/peru/arequipa) leave from the plaza at 7, 8, 9, 10:30, 11:15am and 1, 2, 8, 9, 10pm and cost about 5$.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 07:33
+Buses leave from the plaza at 7, 8, 9, 10:30, 11:15am and 1, 2, 8, 9, 10pm and cost about 5$.

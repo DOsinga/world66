@@ -16,13 +16,3 @@ For those more inclined to relax, there are numerous places to see and be seen, 
 Finally don't forget to visit [Bangor](/northamerica/unitedstates/maine/bangor) . This small town was the 19th century lumber capital of the world, and is the 'true' birthplace of Paul Bunyan, despite what Minnesotans claim, haha! 
 
 Fine dining is available everywhere, from old fashioned Lobster Clambakes to five star service at the finest restaurants. Quaint New England Bed and Breakfasts line the roads in both populated and tranquil spots. Campgrounds for the adventure-spirited, and outlet shopping for those who appreciate comfort. Don't think for a second, however, that the state is a hidden gem, it thrives on tourism, and knows it. Summertime sponsors thousands of tourists from all across the world to gasp at the breathtaking scenery, relax by the Coast, and enjoy a lobster or two fresh from the icy waters of the Atlantic. So you'll never have to fear being alone, unless you want to...
-
-## Destinations
-
-- [Acadia](/northamerica/unitedstates/maine/acadia)
-- [Augusta](/northamerica/unitedstates/maine/augusta)
-- [Bangor](/northamerica/unitedstates/maine/bangor)
-- [Katahdin](/northamerica/unitedstates/maine/katahdin)
-- [Kittery](/northamerica/unitedstates/maine/kittery)
-- [Portland Maine](/northamerica/unitedstates/maine/portlandmaine)
-- [Saint Croix Island](/northamerica/unitedstates/maine/saintcroixisland)

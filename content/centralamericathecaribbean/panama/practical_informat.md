@@ -24,8 +24,6 @@ Taxis from the Airport are the most expensive. You can expect pay about $15.00 t
 
 **Contributors**
 January 31, 2007
-change
-by [ssbandits](/member/ssbandits)
 
 **Currency**
 

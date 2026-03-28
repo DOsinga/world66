@@ -8,11 +8,5 @@ This is a phenomenal example of American city civic centers. The local, county, 
 
 **Contributors**
 April 06, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Squares
-
-
-
-[back to Sights](..)

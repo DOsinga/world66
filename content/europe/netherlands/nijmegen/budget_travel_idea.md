@@ -25,13 +25,7 @@ Appreciation of Nijmegen's art, architecture and fascinating culture is possible
 
 **Contributors**
 February 05, 2010
-new
-by [sameera kumar](/member/sameera_kumar)
 
 February 10, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

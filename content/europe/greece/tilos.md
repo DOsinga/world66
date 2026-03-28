@@ -1,8 +1,6 @@
 ---
 title: "Tilos"
 type: location
-latitude: 36.4293
-longitude: 27.316339
 ---
 
 Tilos is an Aegean island with nineteen beaches, twelve mountains, seven medieval castles, a Byzantine monastery and two hundred churches, a cave full of natural discoveries, a village that is a declared cultural monument, a hundred bird species, hundreds of wild flowers and herbs, and five hundred residents. I visited this unspoiled Greek island recently to rediscover the Greece of times past. 
@@ -23,27 +21,4 @@ Eager to explore the rest of the island, I took the main road out of town toward
 
 As I wound my way through the mountain, I marveled at the ancient stone walls made centuries ago to corral the animals, the plethora of tiny churches with their ruggedly rustic architecture barely perceptible against the stony hillsides, and the venerable, twisted trunks of windswept oak and olive trees that guard the secrets of the island’s past. 
 
-The history of this island, dating back to six million years ago resulting from a territorial separation from the coast of Asia Minor, clearly traces its population back to the Minoan, Mycenean and Dorian periods between 3,000 BC and 1,000 BC from the artifacts discovered here. But I personally felt the unmistakable presence of the past in the atmosphere surrounding the small churches I visited off the beaten path. Those who enjoy nature walks will find the added bonus of discovering that Tilos is home to two hundred Byzantine era churches scattered throughout the island with as many as forty one still retaining their original frescoes. 
-
-While walking on some of the nature trails filled with green and golden hues of unspoiled flora and fauna that abound on this island, the pungent aroma of wild thyme and sage wafting through the air reminded me of the Greek myth explaining the island’s name. According to legend, Tilos was named after the youngest son of Alia and Apollo who collected herbs from the island hoping to cure his mother when she became ill. After her recovery, he returned to the island and established a sanctuary in honor of Apollo and Poseidon in order to express his appreciation. 
-
-Continuing on toward the ancient capital of Tilos, I saw ruins of the castle and fortress of Messaria, brimming with life during the 14th and 15th centuries, rising out of the mountain. Beneath it, the cave of Harkadio is the site of recent excavations that surprised paleontologists when the skeletons of pygmy elephants dating back to 4,500 BC. were unearthed. There is an impressive presentation of this discovery in Megalio Horio which is open to visitors free of charge. 
-
-Just three kilometers up the road, Megalo Horio begins to unfold like a ruffled white fan against the steep slopes of St. Stefanos hill which is crowned by an ancient castle that dominates the skyline. There is a quiet charm inherent in this village that is built on tradition. Beginning in 1827, some of the ancient ruins were respectfully incorporated into the buildings you see today in which you will find City Hall, the public school and library, the Pygmy Elephant Exhibit, the medical office, and the general grocery store. The adjoining main square offers heavenly dimensions of fragrance and color in this gardener’s paradise filled with plumeria, bougainvillea and roses shaded by trees that overlook the valley and Eristos Bay to the south. 
-
-After my visits to the local cafés, I sensed that those islanders who live close to this ancient capital feel strong bonds to their ancestors as reflected in their discussions about family chapels, preservation of the environment, the island hunting ban, the merits of organic farming and the importance of gravesite care. The road between Livadia built on dreams and Megalo Horio built on tradition may physically connect the two towns but it cannot bridge the two different worlds. 
-
-From Megalo Horio, the bird’s eye view of the fertile valley below against the cool, blue backdrop of Eristos Bay will tempt any visitor to explore this part of the island. Tilos is gifted with an abundance of natural spring water that enables the cultivation of a dazzling array of fruits, almonds and vegetables. The agricultural sector consists entirely of small family businesses thus creating a comfortable, old world feel to the food you enjoy on Tilos. In springtime, this valley becomes a vibrantly colored canvas brushed with deep reds, swirling yellows, and splashes of blue bursting from the wildflowers that grace this island’s soil. 
-
-At the end of this valley lies the most beautiful swimming beach on the island called Eristos Beach. Most of the mile long beach is golden sand inviting beachgoers to sunbathe, swim, snorkel, play volleyball and soccer and take long, dreamy walks along the shore. When fishing enthusiasts get hungry, they barbecue their catch of the day right on the beach using the island’s own lemon juice, olive oil and wild thyme to make a succulent, memorable meal. 
-
-Another fine beach on Tilos is a few kilometers north of Megalo Horio at Plaka Bay. Before you reach Plaka, you will come across picturesque St. Antonios Bay with a small port, a thin rocky stretch of uninviting beach, a few hotel rooms and a restaurant. The gravesite with fossilized human skeletons overlooking the bay is noteworthy for its historical value; however, for those with a beach agenda and limited time, continuing to Plaka is recommended. 
-
-From Plaka, I continued west along this scenic road with breathtaking views until I reached the monastery of St. Panteleimon that was built in 1470, restored in 1703 and 1824, and expanded in 1843. The palm-leafed entrance opens to a pebbled courtyard that looks like a lush oasis landscaped with flowers, trees, the traditional Greek basil and grapevines. The monastery’s zenith was reached during the eighteenth and nineteenth centuries as it printed bank notes used on the island, owned vast tracts of land with animal herds and served as a key economic as well as spiritual center. Today, you will see a walled complex consisting of the courtyard leading to the church whose inspiring, centuries-old frescoes have been restored following the plaster covering by the Turkish occupation, the monks’ quarters adjacent to the church and a tree-filled courtyard on a lower level offering picnic tables for those who bring their own lunches or order at the sandwich hut. There is also a glorious fountain of cool, fresh and delicious spring water gushing continuously at the entrance. 
-
-My quiet return to Livadia allowed me the time to reflect upon what had changed or remained the same since my last visit. My memories of monuments had faded over the years but my memories of the warmth and the surprising respect with which I, as a financially strapped student, had been treated by the islanders had remained in my heart. On this journey, I found the island’s natural beauty, tranquility and unspoiled beaches to have remained exactly as I remembered long ago. The preservation and presentation of its historical past have clearly been enhanced. And despite the few islanders sadly swept up in the cyclone of tourism, I prize above all my discovery that the elusive, unspoiled Greece of yesteryear lives in the hearts of most islanders which, for me, is what makes Tilos the real jewel of the Aegean. 
-
-**Konstantinos Mentzelopoulos**
-
-*Change history*
-Minor corrections by [Skipper](/member/skipper) on 15 April 04
+The history of this island, dating

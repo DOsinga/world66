@@ -39,5 +39,3 @@ url: [www.fish-r-us.com](http://www.fish-r-us.com)
 address: Cost. Miguel Aleman # 100
 
 email: info@fish-r-us.com
-
-[back to Things to do](..)

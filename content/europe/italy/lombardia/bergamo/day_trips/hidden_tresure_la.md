@@ -13,5 +13,3 @@ Best place to stay at Endine Lake is the pictoresque town of Monasterolo del Cas
 
 
 address: Endine Lake
-
-[back to Day Trips](..)

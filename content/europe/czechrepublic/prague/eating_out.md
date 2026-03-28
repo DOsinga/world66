@@ -1,5 +1,5 @@
 ---
-title: "Eating out"
+title: "Eating Out"
 type: section
 ---
 
@@ -9,16 +9,18 @@ Prices are usually astonishingly reasonable, although in some restaurants they a
 
  Because there' is such a wide variety of international restaurants we divided the section into different parts (see menue). 
 
-## Subsections
+## Categories
 
-[american](/europe/czechrepublic/prague/eatingout/american)
-[balkan](/europe/czechrepublic/prague/eatingout/balkan)
-[chinese](/europe/czechrepublic/prague/eatingout/chinese)
+[Middle East](/europe/czechrepublic/prague/eatingout?subsection=Middle%20East)
+[International](/europe/czechrepublic/prague/eatingout?subsection=International)
+[Indonesian](/europe/czechrepublic/prague/eatingout?subsection=Indonesian)
+[Italian](/europe/czechrepublic/prague/eatingout?subsection=Italian)
 
-[czech](/europe/czechrepublic/prague/eatingout/czech)
-[french](/europe/czechrepublic/prague/eatingout/french)
-[indonesian](/europe/czechrepublic/prague/eatingout/indonesian)
+[French](/europe/czechrepublic/prague/eatingout?subsection=French)
+[Local](/europe/czechrepublic/prague/eatingout?subsection=Local)
+[Chinese](/europe/czechrepublic/prague/eatingout?subsection=Chinese)
+[American](/europe/czechrepublic/prague/eatingout?subsection=American)
 
-[italian](/europe/czechrepublic/prague/eatingout/italian)
-[mexican](/europe/czechrepublic/prague/eatingout/mexican)
-[middle east](/europe/czechrepublic/prague/eatingout/middleeast)
+[Seafood](/europe/czechrepublic/prague/eatingout?subsection=Seafood)
+[Mexican](/europe/czechrepublic/prague/eatingout?subsection=Mexican)
+[french](/europe/czechrepublic/prague/eatingout?subsection=french)

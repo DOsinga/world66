@@ -4,8 +4,6 @@ type: poi
 address: "Sant'Omobono Terme (Bergamo)"
 email: "convegno.naturali@imagna2005.it"
 url: "www.imagna2005.it"
-latitude: 45.811687
-longitude: 9.535963
 ---
 
 From 28 October to 1 November 2005 in Imagna Valley is the International Meeting of Spelaeology held in blocked off streets so you will be able to reach all the stands, films, banquets, bars and restaurants on foot. So park your car and forget it for the rest of the day! And go visit the grottos while you're there - it's all organized! You can even just bring only your sleeping bag and the rest of the equipment will be provided!
@@ -21,5 +19,3 @@ url: www.imagna2005.it
 address: Sant'Omobono Terme (Bergamo)
 
 email: convegno.naturali@imagna2005.it
-
-[back to Tours and Excursions](..)

@@ -7,8 +7,6 @@ Around Rochester and Beyond
 
 **Contributors**
 September 08, 2005
-change
-by [rwc2005](/member/rwc2005)
 
 ### ["The Cat" No nine lives for this one.](/northamerica/unitedstates/newyorkstate/rochester/getting_around/the_cat)
 

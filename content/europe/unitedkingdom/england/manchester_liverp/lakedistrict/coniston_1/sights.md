@@ -8,8 +8,6 @@ phone: "015394 41396"
 type: "general"
 url: "www.brantwood.org.uk"
 zipcode: "LA21 8AD"
-latitude: 54.370087
-longitude: -3.075243
 ---
 
 It seems odd that in a district with so many natural lakes people should flock to see an artificial tarn [small lake] but Tarn Hows, owned by the National Trust, is one of lakeland's most popular views. The roads are so narrow that they have become one-way and there is an easy walk around the tarn, which is surrounded by peaks. 
@@ -18,8 +16,6 @@ http://www.lakedistrictletsgo.co.uk/attractions/attractions_pages/various_forest
 
 **Contributors**
 December 07, 2004
-new
-by [davidx](/member/davidx) (1 point)
 
 ### [Brantwood](/europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1/sights/brantwood)
 

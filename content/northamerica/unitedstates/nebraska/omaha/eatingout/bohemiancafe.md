@@ -9,7 +9,5 @@ Czech and Hungarian cusine. Yes, you read that right. And it's good, and reasona
 
 **Contributors**
 March 26, 2004
-new
-by [thehaas](/member/thehaas) (1 point)
 
 type: general

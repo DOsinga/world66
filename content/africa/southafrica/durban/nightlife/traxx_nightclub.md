@@ -8,8 +8,6 @@ email: "cale@tsol.co.za"
 phone: "031 3031531"
 type: "Clubs and dancing"
 url: "www.clubtraxx.co.za"
-latitude: -29.828732
-longitude: 31.026747
 ---
 
 TRAXX presents "VALENTINES PARTY feat. LISA LASHES (UK)
@@ -105,5 +103,3 @@ accessibility: Easy
 address: 7 Cobham Grove 4001
 
 email: cale@tsol.co.za
-
-[back to Nightlife and Entertainment](..)

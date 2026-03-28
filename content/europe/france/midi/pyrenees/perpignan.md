@@ -1,9 +1,9 @@
 ---
-title: "Perpignan Travel Guide"
+title: "Perpignan"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Perpignan - Short Breaks in Catalan Style** It's not surprising that Perpignan doesn't feature on the quintessential tick-list for long weekend destinations. For a start, it is squirreled away in Roussillon, the southern-most corner of France, a district that is so busy producing fabulous wines that it has little time to up its ratings on the tourism clap-o-meter.
 
@@ -30,9 +30,3 @@ The nearest beach, Canet-Plage (10 minutes out of town on bus number 1), is a sw
 Just north of the Spanish border, the former fishing village of Collioure is what St Tropez must have been like before the yachts arrived. A cat's cradle of cobbled streets punctuated by galleries and cafes - not to mention a splendid castle - set the tone. Henri Matisse lived and painted here, and famously said: "In the whole of France there is no sky as blue as the one above Collioure." These words drew Pablo Picasso, Dalí, Raoul Dufy, and Andre Derain here, and it became the unlikely birthplace of the colour-rich Fauvist movement. Today, local artists tend to be of the handmade shell-mirror movement, but its charm is still intact.
 
 Mopping up the last splashes of lobster bisque before my taxi arrived, I realised it's not always the obvious places that end up scratching their initials on your passport. In France, as in life, the quietest ones often have the most to say.
-
-*Part or or all of this text stems from the original article at: http://www.latourapollinaire.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 15:21

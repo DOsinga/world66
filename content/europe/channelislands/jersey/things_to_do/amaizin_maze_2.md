@@ -29,5 +29,3 @@ url: [www.jerseyleisure.com](http://www.jerseyleisure.com)
 address: La Hougue farm, St Peter
 
 email: lahougue@localdial.com
-
-[back to Things to do](..)

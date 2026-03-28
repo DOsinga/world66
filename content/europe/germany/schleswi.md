@@ -1,16 +1,12 @@
 ---
-title: "Schleswi Travel Guide"
+title: "Schleswi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 We currently have no information about Schleswi.
 
 If you do know any general information about Schleswi, please [Edit this article].
 
 If you know any hotels in Schleswi or restaurants in Schleswi, please [[Add].](/destinations/addItemWizard?addwhere=europe/germany/schleswi)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 07:48

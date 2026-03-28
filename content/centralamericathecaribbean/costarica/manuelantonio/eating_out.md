@@ -7,8 +7,6 @@ phone: "(506)777-0903"
 price: "From $2"
 type: "International"
 url: "www.espadilla.com"
-latitude: 9.408569
-longitude: -84.154759
 ---
 
 ### [Puerto Escondido Restaurant](/centralamericathecaribbean/costarica/manuelantonio/eatingout/puerto_escondido_r)

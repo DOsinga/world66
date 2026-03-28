@@ -65,8 +65,6 @@ is happening. It is located at GRA phase 2.
 
 **Contributors**
 April 04, 2010
-new
-by [joekabuya](/member/joekabuya)
 
 ### [Funsho](/africa/nigeria/portharcourt/nightlife_and_ente/funsho)
 

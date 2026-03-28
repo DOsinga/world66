@@ -22,7 +22,3 @@ Travel Agencies
 Trip Travel: Tel: 061 236880; Fax: 225430. Trans Namib Travel: Tel: 061 2982532 in the Gustav Voigts Centre. Worker Travel, Tel: 061 221225; Fax: 224218, near th4e Petrol station in the Klein Windhoek. Tourists Rendezvous, Tel: 061 234131near the Shell petrol station in the Klein Windhoek. 
 
 Useful Addresses
-
-
-
--->

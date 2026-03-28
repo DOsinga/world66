@@ -1,9 +1,9 @@
 ---
-title: "St. George Travel Guide"
+title: "St. George"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 St. George is known for its red hills,
 beautiful landscapes, hot climate, and many golf courses. With only a
@@ -50,7 +50,3 @@ in the Temple as it stand today as a monument to those first settlers. The Taber
 and the summer
 home of Brigham Young
 have been restored and are on the city's historical tour and register.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 05:22

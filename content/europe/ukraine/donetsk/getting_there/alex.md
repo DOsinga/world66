@@ -8,13 +8,5 @@ Have you flown to Donetsk? Tell us about your experience by adding information t
 
 **Contributors**
 April 24, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

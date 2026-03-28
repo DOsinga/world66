@@ -31,5 +31,3 @@ because it will save you time in booking a car. From the south and northwest of 
 
 **Contributors**
 December 01, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)

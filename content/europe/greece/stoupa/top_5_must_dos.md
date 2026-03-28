@@ -31,5 +31,3 @@ When in Stoupa, a must-do activity is hiking around the Taygetos mountain range.
 
 **Contributors**
 April 15, 2010
-new
-by [beverly_per](/member/beverly_per)

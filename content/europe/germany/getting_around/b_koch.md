@@ -34,5 +34,3 @@ http://www.womo4u.de/womo_vunde.htm
 url: [www.kochcompany.de](http://www.kochcompany.de/womoreise)
 
 email: b.koch@gmx.net
-
-[back to Getting Around](..)

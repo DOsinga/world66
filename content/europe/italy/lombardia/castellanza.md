@@ -1,0 +1,4 @@
+---
+title: "Castellanza"
+type: location
+---

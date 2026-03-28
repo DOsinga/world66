@@ -12,8 +12,6 @@ url: "hxgfslamsjjt.com"
 
 N8bMif bwfboiepxomp
 
-*Part or or all of this text stems from the original article at: uznjXXXTMUeC*
-
 type: Beer Gardens
 
 
@@ -29,5 +27,3 @@ accessibility: epztfrODLYuibOI
 address: rSFfgSvlfl
 
 email: lkjidb@ouainz.com
-
-[back to Nightlife and Entertainment](..)

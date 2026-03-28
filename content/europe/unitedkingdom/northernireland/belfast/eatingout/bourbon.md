@@ -12,8 +12,6 @@ A very eclectic restaurant, Bourbon serves a good mix of food, from pizza, pasta
 
 **Contributors**
 May 16, 2006
-new
-by [wildrover220](/member/wildrover220)
 
 type: International
 
@@ -28,5 +26,3 @@ url: [www.bourbonrestaurant.com](http://www.bourbonrestaurant.com)
 address: 60 Gt. Victoria Street
 
 PriceOfMenu: Mains £8-15
-
-[back to Eating Out](..)

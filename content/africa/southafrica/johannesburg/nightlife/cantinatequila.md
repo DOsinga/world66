@@ -12,5 +12,3 @@ type: Bars & Cafes
 
 
 address: Cnr Jan Smuts & Wells Avenue
-
-[back to Nightlife and Entertainment](..)

@@ -13,4 +13,4 @@ There are several reasons why the summer is most suitable for visiting the town.
 
 **Winter**
 
-Valkenburg experiences mild winters, so the winter shouldn&rsquo;t stop you from visiting the town. Temperatures hold average levels of about 6 degrees C (43 degrees F), so the winter is bearable. The major drawback to winter travel is the extremely short hours of sunlight, so you&rsquo;ll have to plan well to see the sights.
+Valkenburg experiences mild winters, so the winter shouldn&rsquo;t stop you from visiting the town. Temperatures hold average levels of about 6 degrees C (43 degrees F), so the winter is bearable. The major draw

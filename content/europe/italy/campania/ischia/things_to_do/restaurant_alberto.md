@@ -24,5 +24,3 @@ url: [www.albertoischia.it](http://www.albertoischia.it)
 address: Via C. Colombo 8 - 80077 Ischia Napoli
 
 email: gianni@albertoischia.it
-
-[back to Things to do](..)

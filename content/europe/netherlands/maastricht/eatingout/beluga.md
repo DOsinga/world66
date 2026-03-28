@@ -11,9 +11,3 @@ type: "First Class"
 reserve well in advance for weekends!
 
 type: First Class
-
-
-
-
-
-[back to Eating Out](..)

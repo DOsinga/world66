@@ -25,7 +25,4 @@ Please make a note that you’re not allowed to bring any motor
 vehicle to Schiermonnikoog island without permission of the
 municipality.
 
-*Change history*
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 24 February 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 12 March 05
+Minor corrections by [HollandTraveler](/world/member/hollandtraveler) on 12 March 05

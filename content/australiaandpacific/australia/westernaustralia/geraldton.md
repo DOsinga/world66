@@ -11,7 +11,4 @@ Geraldton is a well know destination for adventure water sports men and women. W
 
 There are a wide variety of activities in and around the City and its surounding environs with the annual wildflower season bringing large crowds of Flora and wildflower fanciers to the area. Visitors are often amazed at the colours and diversity of the local flora. All visitors to Geraldton are well catered for by a large amount of hospitality outlets including Hotels, Motels, Farm Stays, Bed and Breakfasts and 2 nightclubs - The ZUU and The Circuit.
 
-*Change history*
-Orginal article by [purple-circle](/member/purplecircle) on 27 February 04
-
-Minor corrections by [purple-circle](/member/purplecircle) on 27 February 04
+Minor corrections on 27 February 04

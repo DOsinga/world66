@@ -9,8 +9,6 @@ There are all kinds of restaurants in Nassau: Mexican, Chinese, Italian, America
 
 **Contributors**
 October 08, 2005
-new
-by [karenbru](/member/karenbru)
 
 ### Sbarro's
 

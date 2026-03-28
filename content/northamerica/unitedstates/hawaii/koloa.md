@@ -1,0 +1,4 @@
+---
+title: "Koloa"
+type: location
+---

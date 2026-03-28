@@ -1,0 +1,4 @@
+---
+title: "Basecles"
+type: location
+---

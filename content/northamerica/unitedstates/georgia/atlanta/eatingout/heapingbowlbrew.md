@@ -15,5 +15,3 @@ type: Vegetarian
 address: 469 Flat Shoals Avenue
 
 tel: (404) 523 8030
-
-[back to Eating Out](..)

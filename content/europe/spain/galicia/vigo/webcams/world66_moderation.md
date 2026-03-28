@@ -1,16 +1,11 @@
 ---
 title: "World66 moderation test input"
-type: location
+type: poi
 url: "www.crtvg.es"
 ---
 
 ** Please delete this temporary test input in moderation, Reen
 
-*Part or or all of this text stems from the original article at: http://www.crtvg.es/ingles/CamWeb/primenucamarasflash.htm*
+Write up on 15 April 05
 
-**Change history**
-Orginal article by [Reen](/member/reen) on 15 April 05
-
-Write up by [Reen](/member/reen) on 15 April 05
-
-Minor corrections by [Reen](/member/reen) on 16 April 05
+Minor corrections on 16 April 05

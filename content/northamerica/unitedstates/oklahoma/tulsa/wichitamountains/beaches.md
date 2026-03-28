@@ -64,5 +64,3 @@ Free Handbook For Dungeons And Dragons
 http://yycwnx.in/9m
 Lancaster Workers Compensation Attorney
 http://ffnfds.in/ar
-
-*Part or or all of this text stems from the original article at: Alejandro Parks*

@@ -26,6 +26,3 @@ Mutnik - naturist beach image
 Along the coast between Postire and Sutivan villages, on the northern side of the Brac island, you can find dozens of small bays and coves with beautiful scenery and natural beaches. One of them, little and hidden cove called "Mutnik", not far from a small village Mirca, is reserved for naturist sunbathers and it is a genuine tourist diamond. It is easy accessible by car since there is a 23km long road between Postire and Sutivan.
 
 [Private accommodation in Postira and Sutivan .](/europe/croatia/accommodation)
-
-**Change history**
-Orginal article by [Pero](/member/pero) on 04 March 05

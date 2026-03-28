@@ -9,5 +9,3 @@ One of the most popular of Charleston attractions is Fort Sumter, which is proba
 
 **Contributors**
 May 26, 2009
-new
-by [harding](/member/harding)

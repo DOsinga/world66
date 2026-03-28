@@ -32,5 +32,3 @@ facilities at the airport as well.
 
 **Contributors**
 September 22, 2009
-new
-by [kimerly](/member/kimerly)

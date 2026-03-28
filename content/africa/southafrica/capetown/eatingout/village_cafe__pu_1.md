@@ -25,5 +25,3 @@ address: Corner of De Villiers & Constitution Street
 PriceOfMenu: 100
 
 email: deputy.gm@capesuites.co.za
-
-[back to Eating Out](..)

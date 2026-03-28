@@ -3,11 +3,7 @@ title: "Festivals"
 type: section
 ---
 
-Orginal article by [Logrus](/member/logrus) on 16 March 04
-
-Orginal article by [Logrus](/member/logrus) on 16 March 04
-
-Write up by [Logrus](/member/logrus) on 16 March 04
+Write up on 16 March 04
 
 **Festivals**
 

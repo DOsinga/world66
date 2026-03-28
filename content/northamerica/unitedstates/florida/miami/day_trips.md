@@ -9,8 +9,6 @@ Most people will spend their entire Miami vacation in the city without even cons
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Fort Lauderdale](/northamerica/unitedstates/florida/miami/day_trips/fort_lauderdale)
 

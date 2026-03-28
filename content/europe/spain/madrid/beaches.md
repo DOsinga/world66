@@ -29,5 +29,3 @@ restaurants, are well underway. Started in 2008, this project aims to be complet
 
 **Contributors**
 March 27, 2010
-change
-by [beverly_per](/member/beverly_per)

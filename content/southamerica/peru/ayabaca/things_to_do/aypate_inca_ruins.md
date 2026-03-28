@@ -10,13 +10,5 @@ To get to the complex, you have to take a car and later on walk about 20 minutes
 
 **Contributors**
 May 20, 2006
-new
-by [joosts](/member/joosts) (2 points)
 
 type: Other
-
-
-
-
-
-[back to Things to do](..)

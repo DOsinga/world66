@@ -19,9 +19,5 @@ By RAIL - **VIA Rail Canada** has the Aldershot Rail Station located in the east
 
 **Contributors**
 April 12, 2008
-change
-by [waterfalls](/member/waterfalls) (1 point)
 
 December 21, 2005
-new
-by [allamericanbear](/member/allamericanbear)

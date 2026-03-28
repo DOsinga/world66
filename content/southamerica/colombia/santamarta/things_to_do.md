@@ -32,8 +32,6 @@ Santa Marta is impressive on many levels. With its mountains, bustling downtown 
 
 **Contributors**
 March 29, 2010
-change
-by [piyushjain](/member/piyushjain_)
 
 ### [Spanish Classes](/southamerica/colombia/santamarta/things_to_do/spanish_classes)
 

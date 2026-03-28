@@ -1,8 +1,6 @@
 ---
 title: "Mat"
 type: location
-latitude: 41.662525
-longitude: 19.946947
 ---
 
 We currently have no information about Mat.

@@ -22,5 +22,3 @@ www.ouarzazate-unlimited.com
 
 **Contributors**
 January 14, 2010
-new
-by [imilchiltak](/member/imilchiltak)

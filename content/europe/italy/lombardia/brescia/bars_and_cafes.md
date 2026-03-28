@@ -15,4 +15,4 @@ The Truffles caf&eacute; is a great place to go to try some of the local truffle
 
 #### Osterio La Grotta
 
-This is one of the old spots to explore in the city. You can walk into the caf&eacute; and be taken back to the old days in the Italian city. There are a number of wines which can be paired with any of the traditional menu items. If you want to see what old Italy was like and enjoy the culture, this is one place that you should go.
+This is one of the old spots to explore in the city. You can walk into the caf&eacute; and be taken

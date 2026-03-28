@@ -13,8 +13,6 @@ Now, in 2006, there is so much out there waiting for you to discover. From sushi
 
 **Contributors**
 March 22, 2006
-change
-by [elmaloso](/member/elmaloso) (2 points)
 
 ### [Trotter's](/northamerica/mexico/merida/eating_out/trotters)
 

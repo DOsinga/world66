@@ -22,7 +22,3 @@ Those that visit this museum will be moved beyond belief. For the adventurer, da
 **
 
 type: Spa and Sauna
-
-
-
-[back to Things to do](..)

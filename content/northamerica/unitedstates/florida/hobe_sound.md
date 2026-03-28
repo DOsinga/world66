@@ -16,5 +16,3 @@ bridge from Hobe Sound.
 
 **Contributors**
 October 21, 2005
-new
-by [lcole07](/member/lcole07)

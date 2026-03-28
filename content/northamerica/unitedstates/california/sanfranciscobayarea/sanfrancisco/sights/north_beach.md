@@ -16,8 +16,6 @@ Saints Peter and Paul Church, consecrated in 1924, is also visible on the north 
 
 **Contributors**
 November 10, 2007
-new
-by [jzurdogo](/member/jzurdogo)
 
 type: Hotspots
 
@@ -26,5 +24,3 @@ type: Hotspots
 url: [www.zurdogo.com](http://www.zurdogo.com/neighborhoods/northbeach.html)
 
 address: Broadway & Columbus Streets
-
-[back to Sights](..)

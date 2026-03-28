@@ -1,9 +1,9 @@
 ---
-title: "Gaiole in Chianti Travel Guide"
+title: "Gaiole in Chianti"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Gaiole is set on a hill near the northern course
 of the river Arbia. There are several evidences of former etruscan and
@@ -22,9 +22,3 @@ fortified farm houses, towers and fortified Abbeys in the area. The
 comune defined six itineraries that provide a very pleasant way to
 discover the architecture, history and present way of life of this part
 of the Chianti area.
-
-*Part or or all of this text stems from the original article at: http://www.greve-in-chianti.com/castelli-del-chianti/castles-of-chianti_eng.htm*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 22:27

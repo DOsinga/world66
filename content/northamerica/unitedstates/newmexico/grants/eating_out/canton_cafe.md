@@ -18,5 +18,3 @@ tel: 505-287-8314
 address: 1212 E. Santa Fe Ave.
 
 PriceOfMenu: inexpensive
-
-[back to Eating Out](..)

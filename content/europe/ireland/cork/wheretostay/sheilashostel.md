@@ -8,7 +8,3 @@ Sheila's (an IHH member)is a family run budget accommodation centre, situated in
 address: 3 Belgrave Place, Wellington Rd.
 
 tel: +353 (0)21 4504010
-
-[back to Where to stay](..)
-
--->

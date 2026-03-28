@@ -27,5 +27,3 @@ This restaurant-cum-creperie that is located in the main town area serves excell
 
 **Contributors**
 March 14, 2010
-new
-by [kwalker](/member/kwalker)

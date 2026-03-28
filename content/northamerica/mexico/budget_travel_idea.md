@@ -48,9 +48,5 @@ patrols as much as the paid highways are.
 
 **Contributors**
 March 11, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 March 12, 2010
-change
-by [ctanios](/member/ctanios)

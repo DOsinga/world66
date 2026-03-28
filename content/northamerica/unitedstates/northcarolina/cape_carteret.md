@@ -1,9 +1,9 @@
 ---
-title: "Cape Carteret Travel Guide"
+title: "Cape Carteret"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Cape Carteret
 is a town in Carteret County, North Carolina, United States. The population was
@@ -35,9 +35,3 @@ income for a family was $49,722. Males had a median income of $30,542 versus
 $25,000 for females. The per capita income for the town was $26,806. About 2.6%
 of families and 5.0% of the population were below the poverty line, including
 12.6% of those under age 18 and 3.1% of those age 65 or over.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Cape_Carteret*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 07:41

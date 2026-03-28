@@ -1,8 +1,6 @@
 ---
 title: "Walk"
 type: poi
-latitude: 52.551122
-longitude: -7.382405
 ---
 
 You can walk from one side of the city centre to the other in about 20 minutes and from the city centre to the outskirts in about 30 minutes.
@@ -11,5 +9,3 @@ There is also a very popular walking tour of the city.
 
 **Contributors**
 January 11, 2006
-change
-by [giorgio](/member/giorgio)

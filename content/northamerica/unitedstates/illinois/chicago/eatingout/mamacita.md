@@ -17,5 +17,3 @@ type: Mexican
 address: 3324 N Broadway St,
 
 tel: (773)868-6262
-
-[back to Eating Out](..)

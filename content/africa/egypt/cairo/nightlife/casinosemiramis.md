@@ -20,5 +20,3 @@ address: Corniche El Nile St., Garden City
 openinghours: 24 hours.
 
 tel: +20 2 3557171
-
-[back to Nightlife and Entertainment](..)

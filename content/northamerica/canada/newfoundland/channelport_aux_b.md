@@ -1,9 +1,9 @@
 ---
-title: "Channel-Port aux Basques Travel Guide"
+title: "Channel-Port aux Basques"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Channel - Port aux Basques
 
@@ -108,9 +108,3 @@ Piping Plovers (endangered) on Cape Ray Beach.
 Wave Forest near Bear Cove Brook.
 
 The view from the top of Table Mountain.
-
-*Part or or all of this text stems from the original article at: http://visitnewfoundland.ca/channelportauxbasques.html*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 09:04

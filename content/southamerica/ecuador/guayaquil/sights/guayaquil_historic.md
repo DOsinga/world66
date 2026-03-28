@@ -27,5 +27,3 @@ openingHours: 09H00 to 04H00 PM
 url: [www.parquehistorico.com](http://www.parquehistorico.com)
 
 email: phg_ecuador@yahoo.com.es
-
-[back to Sights](..)

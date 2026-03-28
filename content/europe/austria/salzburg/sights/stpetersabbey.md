@@ -10,13 +10,5 @@ The St. Peter's Cemetery (Petersfriedhof) in Old Town Salzburg has a fascinating
 
 **Contributors**
 June 02, 2007
-change
-by [terez93](/member/terez93)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

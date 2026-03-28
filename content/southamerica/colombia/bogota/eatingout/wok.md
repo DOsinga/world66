@@ -17,5 +17,3 @@ type: International
 address: Av. 19 # 118-75
 
 tel: 2138854
-
-[back to Eating Out](..)

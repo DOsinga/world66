@@ -3,24 +3,14 @@ title: "Eating Out"
 type: section
 ---
 
-## Subsections
+**all**
 
-[African](/europe/netherlands/enschede/eatingout/african)
-[Argentinian](/europe/netherlands/enschede/eatingout/argentinian)
-[Chinese](/europe/netherlands/enschede/eatingout/chinese)
-[Dutch](/europe/netherlands/enschede/eatingout/dutch)
-[French / Belgian](/europe/netherlands/enschede/eatingout/frenchbelgian)
-[Greek](/europe/netherlands/enschede/eatingout/greek)
+**Sirtaki**
 
-[Indian / Pakistani](/europe/netherlands/enschede/eatingout/indianpakistani)
-[Indonesian](/europe/netherlands/enschede/eatingout/indonesian)
-[International](/europe/netherlands/enschede/eatingout/international)
-[Italian](/europe/netherlands/enschede/eatingout/italian)
-[Japanese](/europe/netherlands/enschede/eatingout/japanese)
-[Lunch room](/europe/netherlands/enschede/eatingout/lunchroom)
+**Leon Koesoemowidjojo :** In het centrum naast de Oude markt en daardoor prima te combineren met een café- of bioscoop bezoek. Reken op gemiddels 40 piek voor een drie gangen menu. Tevens ook uitstekende wijnen verkrijgbaar en een afhaal service.  
 
-[Mexican](/europe/netherlands/enschede/eatingout/mexican)
-[Spanish / Portuguese](/europe/netherlands/enschede/eatingout/spanishportuguese)
-[Surinamese](/europe/netherlands/enschede/eatingout/surinamese)
-[Thai](/europe/netherlands/enschede/eatingout/thai)
-[Vegetarian](/europe/netherlands/enschede/eatingout/vegetarian)
+address: Marktstraat 2
+
+tel: 053-4322225
+
+pc: 7511 GD

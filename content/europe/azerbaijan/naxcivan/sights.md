@@ -10,8 +10,6 @@ Please use the [Add Sight] button below to enter more...
 
 **Contributors**
 April 18, 2006
-change
-by [reen](/member/reen)
 
 ### Display all
 or display just:

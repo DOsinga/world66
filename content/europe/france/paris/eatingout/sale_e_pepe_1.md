@@ -7,8 +7,6 @@ phone: "01 46 06 08 01"
 price: "Euro 30"
 type: "Italian"
 url: "saleepepe.abemadi.com"
-latitude: 48.889107
-longitude: 2.346537
 ---
 
 Sale e Pepe is an Authentic italian restaurant located close to the Sacre Coeur in Paris 75018
@@ -30,5 +28,3 @@ address: 30, rue Ramey
 PriceOfMenu: Euro 80
 
 priceofmenu: Euro 30
-
-[back to Eating Out](..)

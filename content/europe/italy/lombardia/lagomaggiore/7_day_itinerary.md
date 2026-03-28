@@ -57,5 +57,3 @@ breath-taking scenery.
 
 **Contributors**
 March 16, 2010
-change
-by [joekabuya](/member/joekabuya)

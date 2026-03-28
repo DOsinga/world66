@@ -1,0 +1,4 @@
+---
+title: "Kefalonia"
+type: location
+---

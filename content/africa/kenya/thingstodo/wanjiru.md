@@ -14,5 +14,3 @@ type: Other
 
 
 email: quandycane@yahoo.co.uk
-
-[back to Things to do](..)

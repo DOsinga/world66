@@ -18,11 +18,3 @@ Not far from here, there is the church of **Santa Maria delle Grazie** where you
 As you can see, the list of the sights not to miss in Milan seems endless. It is really difficult to list all of them, but certainly you cannot miss the **Castello Sforzesco** whose central tower (Torre del Filarete) dominates one of the most common and beautiful landscapes in Milan. The castle is situated in the **Parco Sempione**, opposite to the **Arco della Pace** dedicated to Napoleon. The construction of this castle was decided under the rule of the Visconti, but it is thanks to the Sforza family if the castle reached the grandiosity you can still admire today.
 
 So, maybe the best way to get to know Milan is simply to make a walking tour and just look at all the beautiful buildings and sights you can find everywhere. Or simply take a public bus and look outside the window. Milan is there for you!
-
-## Subsections
-
-[Castles](/europe/italy/lombardia/milan/sights/castles)
-
-[Churches](/europe/italy/lombardia/milan/sights/churches)
-
-[Museums](/europe/italy/lombardia/milan/sights/museums)

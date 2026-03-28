@@ -5,7 +5,7 @@ type: section
 
 Air
 
-The Cook Islands are served by *Air New Zealand (NZ)* . For details contact the Tourism Council of the South Pacific (see address section).
+There are direct flights from Los Angeles, [Hawaii](/northamerica/unitedstates/hawaii) and [Tahiti](../../frenchpolynesia/tahiti) to the east, and from [Fiji](../../fiji) and New Zealand to the south and west. Air New Zealand are the major international airline servicing the Cook Islands with Aloha Airlines offering a weekly seasonal flight from Hawaii between October to April.
 
 Approximate flight time:
 

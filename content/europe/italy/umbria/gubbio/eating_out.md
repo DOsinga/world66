@@ -34,5 +34,3 @@ address: Via Tifernate, 06024 Gubbio
 openinghours: Closed on: Monday
 
 tel: +39-075-9234
-
--->

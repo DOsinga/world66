@@ -14,8 +14,6 @@ shore trips in italy
 
 **Contributors**
 April 21, 2008
-new
-by [shore trips in italy](/member/shore_trips_in_italy)
 
 ### [Restaurant Italian Touch](/europe/italy/campania/amalfi/eating_out/restaurant_italian)
 

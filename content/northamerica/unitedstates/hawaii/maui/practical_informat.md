@@ -20,8 +20,3 @@ Note you can get arrested for hitchiking.
 **Supplies** 
 
 I know many people who come to Maui stay in condos with kitchens and sometimes theres just not enough money or time to get a nice bite to eat every day; especially on those long excursions to Hana. There is a Costco near the airport which i highly recommend making ur first stop. Also its a good last stop as it contains a lot of hawaiian goods that you can bring back home. For example: huge boxes of Mauna Loa chocolates prepackaged in travel cases (like 6 normal size boxes in one)
-
-*Change history*
-Orginal article by [valfare](/member/valfare) on 21 October 04
-
--->

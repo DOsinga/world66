@@ -11,9 +11,3 @@ largest airport serving the London market after Heathrow, Gatwick and
 Stansted.
 
 type: Airport
-
-
-
-
-
-[back to Practical Information](..)

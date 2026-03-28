@@ -23,5 +23,3 @@ url: [www.myshakespeare.ca](http://www.myshakespeare.ca)
 address: Mount Royal College (July), Prince's Island Park (August)
 
 email: cdoble@mtroyal.ca
-
-[back to Nightlife and Entertainment](..)

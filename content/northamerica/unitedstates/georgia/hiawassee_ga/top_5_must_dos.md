@@ -27,13 +27,7 @@ Haiawassee Georgia is home to several vineyards and wineries. Take a tour of Cra
 
 **Contributors**
 January 19, 2010
-new
-by [ckajs](/member/ckajs)
 
 January 26, 2010
-change
-by [nam](/member/nam)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

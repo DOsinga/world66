@@ -46,8 +46,4 @@ native to the area.
 
 If you have ever wondered what life was like during the medieval
 time visit St. Guilhem le Desert on a day trip from Montpellier. The
-narrow streets have many houses that date back to those times. The
-abbey is a UNESCO World Heritage site and part of the pilgrimage route
-of Santiago de Compostela. During the summer the village opens
-boutiques that sell local crafts. There is a beautiful gorge in the
-area and it is the perfect place to go hiking along the river.
+narrow streets have many houses that date

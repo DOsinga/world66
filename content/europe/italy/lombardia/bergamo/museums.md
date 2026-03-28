@@ -8,8 +8,6 @@ There are Museums for everyone: Natural Science, Archeology, Art, Music and Hist
 
 **Contributors**
 August 15, 2005
-change
-by [karenbru](/member/karenbru)
 
 ### Museum of Natural Science
 

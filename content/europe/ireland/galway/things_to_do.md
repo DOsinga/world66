@@ -6,8 +6,6 @@ email: "info@galwaytours.ie"
 phone: "091 561386"
 type: "Other"
 url: "www.galwaytours.ie"
-latitude: 53.274379
-longitude: -9.049226
 ---
 
 Galway is full of the usual tours as well as some fun alternative activities.

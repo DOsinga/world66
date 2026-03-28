@@ -8,8 +8,3 @@ Not only is it pleasant for visitors to use ferries for their own sake but, if y
 Interestingly rail trips south start with a ferry crossing to the southern station!
 
 http://www.frommers.com/destinations/lisbon/0054020156.html [scroll down]
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 14 November 04
-
--->

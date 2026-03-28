@@ -1,0 +1,4 @@
+---
+title: "Occhiobello"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Malang"
+type: location
+---

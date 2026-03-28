@@ -23,9 +23,4 @@ The catacombs located below the Capuchin Monastery in Palermo have a remarkable 
 
 **The Valley of the Temples**
 
-In Agrigento you can find the Valley of the Temples, dating back to the Grecian Era. Here you will find a span of Greek temples dedicated to Zeus, Hera, Heracles, Castor and Pollux, Hephaistos and more. There are also Byzantine cemeteries from the 4th century located in the area. If you choose not to do a guided tour, be sure to visit the Archaeological Museum of Agrigento for some background information. The temples are especially beautiful when lit up at night.
-
-**Contributors**
-August 25, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)
+In Agrigento you can find the Valley of the Temples, dating

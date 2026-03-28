@@ -18,5 +18,3 @@ tel: (21)2521-3168
 url: [www.lojagarotadeipanema.com.br](http://www.lojagarotadeipanema.com.br)
 
 address: Rua Vinicius de Moraes 53, Ipanema
-
-[back to Shopping](..)

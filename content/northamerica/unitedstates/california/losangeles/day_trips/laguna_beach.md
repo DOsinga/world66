@@ -11,8 +11,6 @@ Breathtaking Laguna Beach literally sits on the edge of the ocean. This stunning
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 
 
@@ -23,5 +21,3 @@ url: [www.lagunabeachinfo.org](http://www.lagunabeachinfo.org)
 address: Laguna Beach Visitors Center, 252 Broadway, Laguna Beach
 
 email: lbvb@lagunabeachinfo.com
-
-[back to Day Trips](..)

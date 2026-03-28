@@ -31,5 +31,3 @@ There are also dining options for everyone, with a range of cuisines. A traditio
 
 **Contributors**
 March 30, 2010
-new
-by [piyushjain](/member/piyushjain_)

@@ -2,8 +2,6 @@
 title: "Princess Ljubica's Residence"
 type: poi
 type: "Hotspots"
-latitude: 44.817105
-longitude: 20.452235
 ---
 
 A court of Duke Milos Obrenovic, who founded the modern Serbian state
@@ -12,9 +10,3 @@ combined construction technique: traditional (Turkish) daub and wattle
 system has been supported here by refined brickwork.
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

@@ -1,0 +1,4 @@
+---
+title: "Caloundra"
+type: location
+---

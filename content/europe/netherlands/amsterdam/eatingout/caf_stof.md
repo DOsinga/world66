@@ -5,8 +5,6 @@ address: "Van der Helstplein 9"
 phone: "+31203640354"
 price: "€ 25"
 type: "European"
-latitude: 51.919142
-longitude: 4.263349
 ---
 
 A local friend of us recommanded that we went out of the city centre to a hip and trendy area called 'de Pijp'. Indeed the neighbourhood was packed with locals.
@@ -34,5 +32,3 @@ tel: +31203640354
 address: Van der Helstplein 9
 
 PriceOfMenu: € 25
-
-[back to Eating Out](..)

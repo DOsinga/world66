@@ -7,8 +7,6 @@ url: "www.parks.wa.gov"
 
 **Contributors**
 August 30, 2005
-change
-by [wood](/member/wood)
 
 ### [Westport Light](/northamerica/unitedstates/washington/westport/sights/westport_light)
 

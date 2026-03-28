@@ -1,0 +1,4 @@
+---
+title: "Banani"
+type: location
+---

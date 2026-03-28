@@ -10,5 +10,3 @@ Then discover the beauty the Temple of Queen Hatshepsut, the only pharaonic woma
 
 **Contributors**
 February 16, 2006
-change
-by [reen](/member/reen)

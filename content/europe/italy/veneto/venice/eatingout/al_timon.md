@@ -3,8 +3,6 @@ title: "Al Timon"
 type: poi
 address: "Fondamenta Ormesini, Cannaregio, Venezia"
 type: "Local"
-latitude: 45.44559
-longitude: 12.328156
 ---
 
 Really a cosy little *Osteria *that's worth a visit.
@@ -15,8 +13,6 @@ It is on the Fondamenta degli Ormesini, very close to the Ghetto, in the Cannare
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Local
 
@@ -25,5 +21,3 @@ type: Local
 
 
 address: Fondamenta Ormesini, Cannaregio, Venezia
-
-[back to Eating Out](..)

@@ -22,5 +22,3 @@ address: Sattelgasse/Glockengasse
 tel: +41 (0)61 - 261 13 10
 
 zipcode: 4001 Basel
-
-[back to Eating Out](..)

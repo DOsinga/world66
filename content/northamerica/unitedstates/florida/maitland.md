@@ -1,0 +1,4 @@
+---
+title: "Maitland"
+type: location
+---

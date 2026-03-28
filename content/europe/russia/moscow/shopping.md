@@ -9,7 +9,7 @@ url: "www.okhot-ryad.ru"
 Here are a few suggested shops.
 
 **Contributors**
-May 04, 2005 change by [giorgio](/member/giorgio) (1 point)
+May 04, 2005
 
 ### Ohotniy Riad
 

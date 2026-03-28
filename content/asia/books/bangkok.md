@@ -3,8 +3,6 @@ title: "BANGKOK"
 type: poi
 author: "Peter Nitsch"
 isbn: "978-3-9809430-7-9"
-latitude: 13.752494
-longitude: 100.493509
 ---
 
 Bangkok, mega-city, economic metropolis and city of 400 temples, can be both fascinating and sometimes nauseating at the same time: loud, dirty and chaotic, then again, there is also a peaceful and reserved side. The illustrated book at hand displays the »Venice of the East« in its contradictory beauty, without over-romanticising the city. Authentic, surprising and bursting with emotion.
@@ -22,5 +20,3 @@ www.rupapublishing.com
 author: Peter Nitsch
 
 isbn: 978-3-9809430-7-9
-
-[back to Books](..)

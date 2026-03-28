@@ -30,5 +30,3 @@ tel: 372 53413109
 url: [www.tallinndaytrip.com](http://www.tallinndaytrip.com)
 
 email: info@tallinndaytrip.com
-
-[back to Day Trips](..)

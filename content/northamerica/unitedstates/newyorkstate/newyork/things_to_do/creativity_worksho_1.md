@@ -20,5 +20,3 @@ tel: 1 (831) 915-5209
 url: [www.creativityworkshop.com](http://www.creativityworkshop.com)
 
 email: admin@creativityworkshops.com
-
-[back to Things to do](..)

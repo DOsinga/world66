@@ -5,8 +5,6 @@ address: "pasila"
 email: "arska2caramail.com"
 phone: "040-7710457"
 url: "-----"
-latitude: -10.333333
-longitude: -53.2
 ---
 
 There are plenty of ships between Helsinki and Tallinn (Estonia).
@@ -22,5 +20,3 @@ url: [-----](http://-----)
 address: pasila
 
 email: arska2caramail.com
-
-[back to Day Trips](..)

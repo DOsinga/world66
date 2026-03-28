@@ -1,8 +1,6 @@
 ---
 title: "Lipica"
 type: location
-latitude: 45.500659
-longitude: 14.042983
 ---
 
 We currently have no information about Lipica.

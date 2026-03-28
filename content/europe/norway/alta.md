@@ -1,0 +1,4 @@
+---
+title: "Alta"
+type: location
+---

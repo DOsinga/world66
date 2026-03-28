@@ -13,9 +13,3 @@ Back on the main road ask the driver/ guide to stop at a typical Berber house no
 Oureka is rich in minerals (amethysts, quartz …) if you’re lucky and know about geology you may come across a million year old fossil . Otherwise you ‘ll be content with buying a tagine__the terra cotta vessel in which Moroccan stews are cooked . Go for the plain unglazed tagine; it provides better flavor and is cheaper. On the way to Sitti Fatma don’t hesitate to ask the driver to stop for pictures. If you’re fit, hire a local guide and hike to one of the waterfalls. Otherwise head back. You can lunch at a good restaurant like Ramuncho (caption) or Kasbah or a cheap one overlooking the river.
 
 Properly organized the trip is uplifting. Just focus on scenery and ignore those trying to sell you silver necklaces, olive oil, rugs and what not.
-
-
-
-
-
-[back to Day Trips](..)

@@ -1,0 +1,4 @@
+---
+title: "Biloxi"
+type: location
+---

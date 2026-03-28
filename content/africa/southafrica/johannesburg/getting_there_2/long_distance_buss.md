@@ -10,13 +10,5 @@ An alternative targeting the backpacker market is the Baz Bus ( www.bazbus.co.za
 
 **Contributors**
 February 12, 2007
-change
-by [gika](/member/gika) (2 points)
 
 type: By Road
-
-
-
-
-
-[back to Getting There](..)

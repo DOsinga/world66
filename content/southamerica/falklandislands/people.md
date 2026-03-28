@@ -44,7 +44,3 @@ type: section
 **Religions:** primarily Anglican Roman Catholic United Free Church Evangelist Church Jehovah's Witnesses Lutheran Seventh-Day Adventist
 
 **Languages:** English
-
-
-
--->

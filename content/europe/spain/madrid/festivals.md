@@ -28,5 +28,3 @@ Fiesta de la Almudena is celebrated on November 9. The festival, dedicated to Ma
 
 **Contributors**
 March 22, 2010
-new
-by [huttongreen](/member/huttongreen)

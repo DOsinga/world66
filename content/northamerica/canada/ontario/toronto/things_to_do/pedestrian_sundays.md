@@ -9,8 +9,6 @@ Once a month (last Sunday, but see website for exact dates) from 1-7pm, Kensingt
 
 **Contributors**
 September 12, 2006
-new
-by [maria](/member/maria) (1 point)
 
 type: Spa and Sauna
 
@@ -19,5 +17,3 @@ type: Spa and Sauna
 
 
 url: [1coop.ca](http://1coop.ca/pskensington/)
-
-[back to Things to do](..)

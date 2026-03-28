@@ -18,5 +18,3 @@ address: 9401 Coors Blvd NW,
 tel: (505)890-6890
 
 zipcode: Albuquerque, NM
-
-[back to Nightlife and Entertainment](..)

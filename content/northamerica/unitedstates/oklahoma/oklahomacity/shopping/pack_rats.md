@@ -10,8 +10,6 @@ Pack Rats located at 2712 N.W. 10th Street, just of May Street, has got to be on
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Antiques
 
@@ -20,5 +18,3 @@ type: Antiques
 tel: (495) 942-4744
 
 address: 2712 N.W. 10th Street, just off May Avenue
-
-[back to Shopping](..)

@@ -11,9 +11,7 @@ There are many museums to visit in Prague. To see all of them would take several
 
 Jachymova 3, Praha 1. Phone: +42 (0)02 24810099. Open: Mon.-Sat.: 9.00-16.30 The Old New Synagogue, which bears the dubious distinction of having been chosen by Hitler to be a 'museum to an extinct race' is actually separate from the Jewish Museum itself. It is also one of the oldest in Europe, dating from the 12th century.
 
-There are actually six sites of the Jewish Museum proper which mean a bit of walking between places.. The tiny Old Jewish Cemetery has over 12000 graves dating back to the 15th century and is part of the museum, as is one of the most moving [more..](/europe/czechrepublic/prague/museums/thejewishmuseum)
-
-type: general
+There are actually six sites of the Jewish Museum proper which mean a bit of walking between places.. The tiny Old Jewish Cemetery has over 12000 graves dating type: general
 
 
 
@@ -173,17 +171,10 @@ url: [www.ngprague.cz](http://www.ngprague.cz/)
 
 address: Staroměstské nám. 12
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

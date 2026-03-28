@@ -4,8 +4,6 @@ type: poi
 address: "24-26 Baker Street, London W1"
 phone: "20-7487-4688"
 type: "Chinese"
-latitude: 51.517791
-longitude: -0.155288
 ---
 
 At this location was formerly another Chinese restaurant, which closed
@@ -17,8 +15,6 @@ Now, queues are a common sight outside the restaurant, famed for their dim sum.
 
 **Contributors**
 October 25, 2005
-new
-by [out of the grey](/member/out_of_the_grey)
 
 type: Chinese
 
@@ -29,5 +25,3 @@ type: Chinese
 tel: 20-7487-4688
 
 address: 24-26 Baker Street, London W1
-
-[back to Eating Out](..)

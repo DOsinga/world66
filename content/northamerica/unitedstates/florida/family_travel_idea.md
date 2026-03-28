@@ -34,9 +34,5 @@ in their world. You can also just relax at the lounge where Wi-Fi and refreshmen
 
 **Contributors**
 March 18, 2010
-new
-by [amymc](/member/amymc)
 
 March 19, 2010
-change
-by [ctanios](/member/ctanios)

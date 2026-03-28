@@ -19,8 +19,6 @@ Events are offered year round with a huge range of interests and age targets. Th
 
 **Contributors**
 June 04, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Parks, Gardens and Zoos
 
@@ -35,5 +33,3 @@ openingHours: varies by season
 url: [www.lpzoo.com](http://www.lpzoo.com)
 
 address: 2100 N. Clark Street Chicago IL 60614
-
-[back to Sights](..)

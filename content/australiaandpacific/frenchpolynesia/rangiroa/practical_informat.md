@@ -20,5 +20,3 @@ pick up stuff to take with you for lunch.
 
 **Contributors**
 March 16, 2005
-new
-by [pottedpork](/member/pottedpork)

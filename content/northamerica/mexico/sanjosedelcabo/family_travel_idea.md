@@ -60,5 +60,3 @@ relaxing and fun-filled time for you and your family.
 
 **Contributors**
 February 19, 2010
-change
-by [kat99](/member/kat99)

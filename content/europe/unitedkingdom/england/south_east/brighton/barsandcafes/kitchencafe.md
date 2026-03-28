@@ -13,5 +13,3 @@ type: general
 address: 93 Trafalgar St, Brighton East Sussex BN1 4ER
 
 tel: 01273 674672
-
-[back to Bars and Cafes](..)

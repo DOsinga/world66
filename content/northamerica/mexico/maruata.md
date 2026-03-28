@@ -1,9 +1,9 @@
 ---
-title: "Maruata Travel Guide"
+title: "Maruata"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Hidden along the Michoacan coast, lies the small town of Maruata. It's relative obscurity and lack of mainstream accomodations leaves it to those of a more adventurous spirit. A favorite of backpackers, campers and Mexican students, Maruata caters to a younger, adventuresome group.
 
@@ -18,11 +18,3 @@ There is a convenience store that sells some food items, but don't rely on it fo
 There are a few beach "restaurants" that offer tortillas, beans and fried fish, as well as cold beer and Coca-Cola.
 
 There is no direct bus service to Maruata. One must take the bus to Lazaro Cardenas and inform the driver that you wish to stop at Maruata. From there, you must then take a short walk (less than a mile) to the beach, passing through town and through the small stream.
-
-#### Contributors
-
-July 04, 2006 new by [omegashade](/member/omegashade) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 05:13

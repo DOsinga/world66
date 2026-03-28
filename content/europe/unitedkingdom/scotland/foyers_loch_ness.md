@@ -8,6 +8,3 @@ Innumerable cars pass by Loch Ness on the main road from Fort William or Kyle of
 However, if you fancy a break from heavy traffic and some delightful [rather than glorious] scenery, you would be well advised to travel on the other side of the loch [SE.] The one-shop village of Foyers will de reached very soon from Fort Augustus at the SW end of the loch.
 
 Leave your car at the parking place near the loch and enjoy the walk down by the splendid waterfalls [hardly Victoria or Niagara but quite delightful] to the lower village. This is safe for children with minimum control.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 30 June 04

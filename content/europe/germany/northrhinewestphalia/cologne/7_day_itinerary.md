@@ -36,13 +36,7 @@ Schildergasse and Hohe-Strasse are the main business and shopping streets. There
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 07, 2010
-change
-by [kwalker](/member/kwalker)

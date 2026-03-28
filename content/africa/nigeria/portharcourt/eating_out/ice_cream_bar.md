@@ -23,5 +23,3 @@ tel: 07082132940
 address: 42 estate rd opp mr biggs Woji, Portharcourt Nigeria
 
 PriceOfMenu: very affordable
-
-[back to Eating Out](..)

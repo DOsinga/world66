@@ -27,5 +27,3 @@ Finish your visit to the Vatican City with a trip underground to see the excavat
 
 **Contributors**
 March 12, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

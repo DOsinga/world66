@@ -60,5 +60,3 @@ bonfire in the well maintained camp site in this area.
 
 **Contributors**
 June 22, 2005
-change
-by [giorgio](/member/giorgio)

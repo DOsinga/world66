@@ -64,7 +64,3 @@ type: section
 *male:* 57%
 
 *female:* 48% (1979 est.)
-
-
-
--->

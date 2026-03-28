@@ -11,8 +11,6 @@ Open daily for dinner; weekends for lunch. Waterfront dining on specialties of f
 
 **Contributors**
 February 06, 2007
-new
-by [marinagal](/member/marinagal)
 
 type: Seafood
 
@@ -23,5 +21,3 @@ tel: 310/577-4555
 address: 4211 Admiralty Way
 
 priceofmenu: Dinner entrees $15 - $25
-
-[back to Eating Out](..)

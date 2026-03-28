@@ -13,8 +13,6 @@ local jazz clubs, theaters, and on the mall.
 
 **Contributors**
 October 14, 2005
-new
-by [patrickneil](/member/patrickneil)
 
 
 
@@ -25,5 +23,3 @@ url: [www.dejazzfest.org](http://www.dejazzfest.org/)
 date: 9/28 - 10/2
 
 email: info@dejazzfest.org
-
-[back to Festivals](..)

@@ -13,5 +13,3 @@ type: Italian
 address: 1342 G St
 
 tel: (202)783-4800
-
-[back to Eating Out](..)

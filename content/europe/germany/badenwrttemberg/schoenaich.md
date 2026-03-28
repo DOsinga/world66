@@ -1,0 +1,4 @@
+---
+title: "Schoenaich"
+type: location
+---

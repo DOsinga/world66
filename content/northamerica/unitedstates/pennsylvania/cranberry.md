@@ -1,0 +1,4 @@
+---
+title: "Cranberry"
+type: location
+---

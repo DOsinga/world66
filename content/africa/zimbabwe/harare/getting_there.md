@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-## Subsections
+We currently have no Getting There listed in Harare.
 
-[By Air](/africa/zimbabwe/harare/gettingthere/byair)
+If you do know any Getting There in Harare, please [Add].

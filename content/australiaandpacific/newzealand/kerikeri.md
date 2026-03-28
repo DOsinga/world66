@@ -1,0 +1,4 @@
+---
+title: "Kerikeri"
+type: location
+---

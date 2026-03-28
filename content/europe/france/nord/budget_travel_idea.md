@@ -27,9 +27,5 @@ Travelers will want to have a few meals in a French restaurant or cafe. Try to m
 
 **Contributors**
 February 02, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

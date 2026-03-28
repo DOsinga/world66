@@ -31,5 +31,3 @@ December: -5°C/23°F
 
 **Contributors**
 July 26, 2006
-change
-by [freshfruitsrule](/member/freshfruitsrule) (4 points)

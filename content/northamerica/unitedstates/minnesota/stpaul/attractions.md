@@ -56,5 +56,3 @@ This memorial honors those Minnesotans who served in Vietnam and is comprised of
 address: State Capitol Grounds, Saint Paul
 
 tel: (651) 536-1792
-
--->

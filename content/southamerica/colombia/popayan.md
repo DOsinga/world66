@@ -1,8 +1,6 @@
 ---
 title: "Popayan"
 type: location
-latitude: 2.442229
-longitude: -76.607237
 ---
 
 Popayán, also known as the White City, is the capital of the department of Cuaca. It was founded in 1537. Popayán is one of the most traditional cities in Colombia and is well know for its outstanding architecture. In 1983 an earthquake took place, but most destroyed buildings have been reconstructed. 

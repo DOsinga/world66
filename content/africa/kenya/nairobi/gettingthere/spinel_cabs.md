@@ -26,5 +26,3 @@ url: [www.spinelmanagement.com](http://www.spinelmanagement.com)
 address: Box 449 00517 Nairobi
 
 email: info@spinelmanagement.com
-
-[back to Getting There](..)

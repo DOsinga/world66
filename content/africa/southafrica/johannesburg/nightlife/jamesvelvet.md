@@ -15,5 +15,3 @@ type: Dancing
 address: Parkland Centre, Keyes Avenue
 
 tel: (011) 442-3760
-
-[back to Nightlife and Entertainment](..)

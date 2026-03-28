@@ -113,9 +113,6 @@ Independence
 
 The history of the war of independence against Spain in Venezuela is largely the record of the careers of Simón Bolívar and Francisco de Miranda. The revolution began in 1810 and independence was formally proclaimed on July 5, 1811. In 1819 the republic of Gran Colombia was established, with its capital in Bogota. Gran Colombia included what are now Venezuela, Ecuador, Colombia, and Panama. Independence was assured with the decisive victory of Bolívar over the Spanish royalist army in 1821. Venezuela constituted itself an independent republic in 1829.
 
-*Change history*
-Orginal article by [ahamb](/member/ahamb) on 19 July 04
-
 **all**
 
 **Venezuela Travel Supplier Directory**

@@ -27,5 +27,3 @@ What list of Interlaken Must-Do's is complete without the Interlaken castle? The
 
 **Contributors**
 March 23, 2010
-new
-by [samanthalp](/member/samanthalp)

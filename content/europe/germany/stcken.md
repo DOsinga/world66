@@ -1,9 +1,9 @@
 ---
-title: "Stücken Travel Guide"
+title: "Stücken"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The small village of Stücken lies about half an hour's drive south west of Berlin in the Nuthe-Nieplitz nature reserve. Stücken is popular with weekenders and day trippers from Berlin, most of whom like to wander or ride their bikes or horses along the various forest and farmland paths in the area, before settling down to a relaxing lunch and a beer at the local Kneipe.
 
@@ -12,11 +12,3 @@ The countryside surrounding Stücken is rolling and very pleasant. Most of the f
 Getting there: by car from Berlin take the A115 to Drieck Nuthetal, then head towards Magdeburg/Leipzig on the A10. Get off the Autobahn at the Michendorf exit, then turn right towards Luckenwalde. Follow the road for approximately 9 kilometres, watching out for deer wandering on the road. By train from Berlin take the RE 7 to Michendorf, then catch the local bus or ride a bike for 10 kilometres. There is a nice safe cycle lane most of the way.
 
 Places to stay: not many - but a few private houses offer guest rooms and apartments.
-
-#### Contributors
-
-October 24, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 09:39

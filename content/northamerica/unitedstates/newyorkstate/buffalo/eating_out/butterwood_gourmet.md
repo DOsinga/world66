@@ -27,8 +27,6 @@ Located in a historic 1870's mansion on Main St in Williamsville NY. Chic and so
 
 **Contributors**
 February 01, 2006
-change
-by [allamericanbear](/member/allamericanbear)
 
 type: First Class
 
@@ -41,5 +39,3 @@ tel: 716-204-0939
 address: 5409 Main St, Williamsville
 
 PriceOfMenu: can be pricey
-
-[back to Eating Out](..)

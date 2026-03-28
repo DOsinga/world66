@@ -5,8 +5,6 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 Normal
@@ -22,7 +20,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Alexandria
 tour** from **Port Said** to visit **sightseeing**
@@ -44,7 +42,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Itinerary:**
 
@@ -79,44 +77,7 @@ thousands of scrolls of Greek, Hebrew and Mesopotamian literature and art and
 artifacts of **ancient** **Egypt**. Continue **Alexandria
 sightseeing tour** to visit El-**Montazah**
 palace finished in a fantastic Turkish-Florentine style by Muhammad Ali in the
-19th century and park area covered with palm trees and gazelles. Free time in **Alexandria**, and then transfer back to your ship
-terminal in **Port Said**.
-
-**Tour Includes:**
-
--Pick up services from your ship in **Port Said**
-
--All transfer by air-conditioned vehicle in **Port Said** and **Alexandria**
-
--Entrance fees to the **sightseeing** in **Alexandria** as per **tour**
-itinerary
-
--Lunch during **Alexandria** tour at a high quality restaurant in **Alexandria**
-
--Egyptologist English speaking **tour** Guide in **Alexandria**
-
--Drop off services from your ship terminal in **Port Said
-
-Tour Excludes:
-
-**- Optional **tours** and personal expenses
-
-Normal
-0
-
-false
-false
-false
-
-EN-US
-X-NONE
-AR-SA
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Payment
+19th century and park area covered with palm trees and gazelles. Free time in **Alexandria**, and then transfer **Payment
 plan: ****
 
 **- 25% down payment required to secure the
@@ -139,5 +100,3 @@ url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
 address: Egypt, Hurghada
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Day Trips](..)

@@ -20,5 +20,3 @@ url: [www.marocdeserttours.com](http://www.marocdeserttours.com)
 address: 220 bis Av Med V-Guéliz-Marrakech
 
 email: marocdeserttours@gamil.com
-
-[back to 7 Day Itinerary](..)

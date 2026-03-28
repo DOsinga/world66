@@ -17,5 +17,3 @@ type: Casinos
 ClosingTime: 24/7
 
 email: weed.man4real@gmail.com
-
-[back to Nightlife and Entertainment](..)

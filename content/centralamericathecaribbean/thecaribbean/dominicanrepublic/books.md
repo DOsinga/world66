@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**all**
 
 **Dominican Republic Handbook**
 
@@ -79,7 +79,7 @@ subject: culture
 
 **In the Time of the Butterflies**
 
-blue
+
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/0452274427/ref=ase_osingacom?v=glance&s=books)
 

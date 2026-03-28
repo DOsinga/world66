@@ -24,11 +24,5 @@ There is also the Brooklyn Bridge Park which is a fabulous respite from city lif
 
 **Contributors**
 August 05, 2009
-change
-by [godofthunder1982](/member/godofthunder1982)
 
 type: Hotspots
-
-
-
-[back to Sights](..)

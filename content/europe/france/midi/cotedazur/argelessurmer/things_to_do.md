@@ -13,21 +13,4 @@ Seafood, Mediterranean dishes and Spanish fusion are favorites here. If you’re
 
 **Castle Country**
 
-Just 3 kilometers from town is the Castle of Valmy. This place looks like it came straight out of a fairy tale. It was built in the 1900s by a Danish architect. Although the castle is not open to visitors, the Valmy Park (adjacent to it) is open to all. If a medieval castle interests you, go to Taxo. This village dates back to the 9th century, and you’ll find the 11th century Castle of Taxo d’Avall. The Viscount Chapel is on the same premises.
-
-**Hikes, Bikes and Waves**
-
-Due to its geographic location, Argeles sur Mer has ideal terrain for mountain and water sports. If you’re interested in hiking or walking, the town offers guided tours. Bikers can find rental shops at the center of town. As for water sports, there are an array of options. For scuba diving lessons, go to Archipel down by the port. Plage des Pins has a windsurfing school called Central Windsurf. Sailors can easily arrange a day out on the water. For information call the office of tourism at (33) 4688-22585.
-
-**Carnival and Luna Park**
-
-If you’re visiting during the month of May, you’re in luck. The town goes all out with floats, bands, dances and more during “Carnaval.” During July and August, Luna Park is in full swing. It’s a recreational park located in Plage du Nord. Here you’ll find Ferris wheels, games and the like. Go at dusk when this seaside fair lights up.
-
-**Contributors**
-March 17, 2010
-change
-by [2 many commas](/member/2_many_commas)
-
-March 15, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)
+Just 3 kilometers from town is the Castle of Valmy. This place looks like it came straight out of a fairy tale. It was built in the 1900s by a Danish architect. Although the castle is not open to visitors, the Valmy Park (adjacent to it) is open to all. If a medieval castle interests you, go to Taxo. This village dates

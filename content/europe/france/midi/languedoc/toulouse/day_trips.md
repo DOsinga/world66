@@ -46,5 +46,3 @@ San Sebastian is home to many internationally renowned restaurants, including Ak
 
 **Contributors**
 April 01, 2010
-new
-by [amymc](/member/amymc)

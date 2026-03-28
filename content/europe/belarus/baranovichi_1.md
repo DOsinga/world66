@@ -1,12 +1,8 @@
 ---
-title: "Baranovichi Travel Guide"
+title: "Baranovichi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Situated in Brest region of Belarus, 150 km away from Minsk toward Brest city.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 21:39

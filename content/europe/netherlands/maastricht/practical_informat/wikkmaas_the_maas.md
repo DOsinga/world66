@@ -14,5 +14,3 @@ type: Tourist information
 
 
 url: [www.wikimaas.org](http://www.wikimaas.org)
-
-[back to Practical Information](..)

@@ -17,8 +17,6 @@ fare with an equally stylish clientele and interior design
 
 **Contributors**
 November 29, 2006
-new
-by [jhyatt](/member/jhyatt) (2 points)
 
 type: Japanese
 
@@ -29,5 +27,3 @@ tel: (323) 650-8585
 url: [katanarobata.com](http://katanarobata.com/katana/index.htm)
 
 address: 8439 W. Sunset Blvd. West Hollywood, 90069
-
-[back to Eating Out](..)

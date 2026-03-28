@@ -7,5 +7,3 @@ If traveling with your family, one of your Birmingham activities should be a tri
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

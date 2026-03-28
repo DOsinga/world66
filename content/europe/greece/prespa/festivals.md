@@ -31,5 +31,3 @@ Balkan Sculpture
 
 **Contributors**
 September 09, 2008
-new
-by [ctpgreece](/member/ctpgreece)

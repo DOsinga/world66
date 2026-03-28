@@ -6,8 +6,6 @@ email: "park@hogeveluwe.nl"
 phone: "+31(0)318-591241"
 type: "Parks, Gardens and Zoos"
 url: "www.hogeveluwe.nl"
-latitude: 52.096224
-longitude: 5.817664
 ---
 
 National Park De Hoge Veluwe is one of the Netherlands' oldest and largest national parks. It consists of no less than 5,500 hectares of woodland, heathland, lakes and driftsand. Together with the Kroller-Muller Museum and the sculpture garden it offers a unique combination of nature, art and architecture.
@@ -30,5 +28,3 @@ url: [www.hogeveluwe.nl](http://www.hogeveluwe.nl/)
 address: Houtkampweg 6, 6731 AW Otterlo
 
 email: park@hogeveluwe.nl
-
-[back to Sights](..)

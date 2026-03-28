@@ -1,9 +1,9 @@
 ---
-title: "Sierras de Córdoba Travel Guide"
+title: "Sierras de Córdoba"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The surroundings of the city of Córdoba are highly recommend for those who have little time to travel and want to experience rough nature and have an adventorous holiday. Many daytrips are possible from the capital, like for example trips to:
 
@@ -14,11 +14,3 @@ East of Córdoba capital is the "**Camino de Traslasierra**", with amongst it th
 South of Córdoba capital you will find the so called region of the great lakes. Heading towards the famous **Sierras de Comechingones** you'll find the town of Alta Gracia (with a very interesting Jesuit history), Villa General Belgrano (famous for its beers) and the historic town of Santa Rosa de Calamuchita. This "camino" brings you a lot of rivers and lakes, so fishing, sailing and waterskiing are popular.
 
 Northeast of Córdoba capital is a huge interior sea. This so called "**Mar Chiquita**" was recently chosen by the inhabitants of Córdoba as the most beautiful natural sight of their province. The lake is well known for its abundant birdlife and is protected as a "Reserva Natural". So if you wanna see a flamingo before you travel further, go visit Mar Chiquita.
-
-#### Contributors
-
-October 06, 2008 new by [almafuerte](/member/almafuerte)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 23:19

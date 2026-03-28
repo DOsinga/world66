@@ -1,0 +1,4 @@
+---
+title: "Beaune"
+type: location
+---

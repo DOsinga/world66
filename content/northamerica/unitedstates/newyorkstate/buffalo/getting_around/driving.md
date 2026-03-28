@@ -23,11 +23,3 @@ The **Southern Expressway** (US 219) starts a little further south than the East
 
 **Contributors**
 May 06, 2005
-change
-by [allamericanbear](/member/allamericanbear) (1 point)
-
-
-
-
-
-[back to Getting Around](..)

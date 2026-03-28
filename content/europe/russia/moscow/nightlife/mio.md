@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 address: Kaluzhskaya sq., 1, metro Oktyabrskaya
-
-[back to Nightlife and Entertainment](..)

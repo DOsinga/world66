@@ -13,9 +13,6 @@ Thursday: DJ Jastin (disco-house). Free to enter.
 
 Friday&saturday: NIGHT at Sahar, Moskow Show Grup. Enter 100 rub.
 
-**Change history**
-Orginal article by [Nastya](/member/nastya) on 05 May 05
-
-Minor corrections by [giorgio](/member/giorgio) on 07 May 05
+Minor corrections on 07 May 05
 
 type: Clubs and dancing

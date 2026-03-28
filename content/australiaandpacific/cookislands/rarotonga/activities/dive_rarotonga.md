@@ -42,5 +42,3 @@ url: [www.diverarotonga.com](http://www.diverarotonga.com)
 address: Dive Rarotonga, Yellow A-Frame, Next to Crown Beach Resort, Main Road, Arorangi, Rarotonga
 
 email: info@diverarotonga.com
-
-[back to Things to do](..)

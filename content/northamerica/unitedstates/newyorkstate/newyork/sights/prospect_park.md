@@ -11,12 +11,8 @@ In 1776, just 100 years before the establishment of the park, the battle of Long
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Parks, Gardens and Zoos
 
@@ -25,5 +21,3 @@ type: Parks, Gardens and Zoos
 
 
 url: [www.prospectpark.org](http://www.prospectpark.org)
-
-[back to Sights](..)

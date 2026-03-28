@@ -14,5 +14,3 @@ email: admin@berbertours.net
 tel: 212-68-51-50-87
 
 address: Avenue Mohamed V, Zagora, Morocco
-
--->

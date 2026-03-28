@@ -4,8 +4,6 @@ type: poi
 address: "Carretera de Trassierra, Km. 3 CÓRDOBA"
 type: "Spanish"
 url: "www.maciahoteles.com"
-latitude: 37.89631
-longitude: -4.812534
 ---
 
 In the foothills of the sierra of Córdoba, overlooking
@@ -25,7 +23,5 @@ combined in the incomparable Restaurante Castillo de La Albaida.
 
 **Contributors**
 January 04, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Spanish

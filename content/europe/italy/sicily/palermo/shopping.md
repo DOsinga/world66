@@ -27,5 +27,3 @@ This local market can be found in the Albergheria district, and it mainly focuse
 
 **Contributors**
 February 12, 2010
-change
-by [shomer](/member/shomer)

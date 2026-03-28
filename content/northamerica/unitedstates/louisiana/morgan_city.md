@@ -1,9 +1,9 @@
 ---
-title: "Morgan City Travel Guide"
+title: "Morgan City"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located on U. S. 90 between New Orleans and Lafayette, Morgan
 City sits on the banks of the great Atchafalaya River. Originally
@@ -26,11 +26,3 @@ oil industry, an industry vital to the security and well-being of
 the United States. At present, “offshore" drilling
 produces approximately sixteen percent of the free world’s
 total of oil and over six percent of the world's natural gas.
-
-#### Contributors
-
-June 27, 2007 new by [mehul](/member/mehul) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 06:16

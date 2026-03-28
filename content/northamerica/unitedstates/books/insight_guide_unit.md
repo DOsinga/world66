@@ -48,5 +48,3 @@ plan a road trip in advance.
 author: Martha Ellen Zenfell
 
 isbn: 9812586768
-
-[back to Books](..)

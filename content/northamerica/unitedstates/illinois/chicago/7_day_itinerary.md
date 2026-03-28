@@ -65,5 +65,3 @@ even leave.
 
 **Contributors**
 July 23, 2009
-change
-by [palmercompany](/member/palmercompany)

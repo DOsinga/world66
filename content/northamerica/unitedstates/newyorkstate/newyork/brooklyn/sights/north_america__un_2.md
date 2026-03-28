@@ -27,7 +27,3 @@ Brooklyn Botanic Garden was originally an ash dump back in the lat 1800´s. The 
 Brookklyn Botanic Garden is closed on Monday’s but open on all other days including holidays. You can visit from Tuesday to Friday from 8 a.m. to 6 a.m. and on weekends and holidays from 10 a.m. to 6 p.m. This destination is very reasonably priced and the entrance for children 12 and under is free. You can get here by taking the famous New York Subway. Trains that come close to the Brookklyn Botanic Garden are the 2, 3, B (not on weekends), Q, 4 and S. Parking lots are available at 900 Washington Ave. for $3 per hour. Mostly but not completely accessible to the mobility challenged and there is a Fragrance Garden with Braille for the blind.
 
 type: Parks, Gardens and Zoos
-
-
-
-[back to Sights](..)

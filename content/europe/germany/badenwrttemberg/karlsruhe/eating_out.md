@@ -13,5 +13,3 @@ Recommended are:
 
 **Contributors**
 June 14, 2005
-new
-by [neuro](/member/neuro) (1 point)

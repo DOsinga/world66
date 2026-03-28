@@ -7,5 +7,3 @@ If you want to do some Jackson shopping, check out MetroCenter Mall at 3645 High
 
 **Contributors**
 May 27, 2009
-change
-by [annc](/member/annc)

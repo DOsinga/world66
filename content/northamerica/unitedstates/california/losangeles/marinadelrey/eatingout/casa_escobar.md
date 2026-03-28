@@ -13,8 +13,6 @@ Join friends and family alike at this Marina Mexican Restaurant where the margar
 
 **Contributors**
 December 04, 2006
-new
-by [marinagal](/member/marinagal) (1 point)
 
 type: Mexican
 
@@ -27,5 +25,3 @@ tel: 310/ 822-2199
 address: 14160 Palawan Way, Marina del Rey, CA 90292
 
 PriceOfMenu: Dinner Entrees $10 - $17
-
-[back to Eating Out](..)

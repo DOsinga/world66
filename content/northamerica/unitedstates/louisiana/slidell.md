@@ -1,0 +1,4 @@
+---
+title: "Slidell"
+type: location
+---

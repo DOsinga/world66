@@ -40,9 +40,5 @@ quite beautiful.
 
 **Contributors**
 April 16, 2010
-change
-by [2 many commas](/member/2_many_commas)
 
 April 12, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

@@ -32,5 +32,3 @@ passes are sold at hotels, stores and in machines at most rail stations.
 
 **Contributors**
 January 25, 2010
-change
-by [damiandavilarojas](/member/damiandavilarojas)

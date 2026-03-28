@@ -22,5 +22,3 @@ Numerous exotic birds are said to breed here but at least you will see **masses 
 
 **Contributors**
 May 02, 2005
-new
-by [davidx](/member/davidx)

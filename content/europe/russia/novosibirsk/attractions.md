@@ -10,5 +10,3 @@ The Novosibirsk Philharmonic is among the best orchestras of Russia.
 The conductor of the orchestra is *Arnold Katz.* 
 
 .
-
--->

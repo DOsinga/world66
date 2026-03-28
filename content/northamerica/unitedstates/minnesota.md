@@ -12,20 +12,3 @@ In the north of the state you find some great national parks. [Voyageurs](/north
 Closer to home, you find the [Saint Croix River](/northamerica/unitedstates/minnesota/saintcroixriver) which is a national park and a great place for rafting, canoeing and kayaking. The Riverway is a unique area with a diversity of habitat, which provides many opportunities for viewing wildlife. A variety of recreational activities can be enjoyed in this picturesque setting. The upper stretches are ideal for canoeists, the rivers are shallow and narrow with some rapids. The lower stretches broaden and widen and can be used by boats. 
 
 [Eagle Bend](/northamerica/unitedstates/minnesota/eaglebend), with its population of 525 is located almost in the center of Minnesota. It is located on U.S. Highway 71 about 150 miles northwest of Minneapolis in the heart of Minnesota's dairy country. A half hour's drive will take you to some of the best fishing in the state, as well as camping, theatres and large shopping centers.
-
-## Top Destinations in Minnesota
-
-[St. Paul](/northamerica/unitedstates/minnesota/stpaul)
-[Minneapolis](/northamerica/unitedstates/minnesota/minneapolis)
-[Prior Lake](/northamerica/unitedstates/minnesota/priorlake)
-[Bemidji](/northamerica/unitedstates/minnesota/bemidji)
-[Albert Lea](/northamerica/unitedstates/minnesota/albertlea)
-[Albertvile Premium Outlets](/northamerica/unitedstates/minnesota/albertvile_premium)
-[Voyageurs](/northamerica/unitedstates/minnesota/voyageurs)
-[Rochester](/northamerica/unitedstates/minnesota/rochester)
-[Eagle Bend](/northamerica/unitedstates/minnesota/eaglebend)
-[Brainerd Lakes Area](/northamerica/unitedstates/minnesota/brainerdlakesarea)
-[Itasca State Park](/northamerica/unitedstates/minnesota/itascastatepark)
-[Saint Croix River](/northamerica/unitedstates/minnesota/saintcroixriver)
-
-[**Show all destinations in Minnesota.**](/northamerica/unitedstates/minnesota/lib/alldestinations)

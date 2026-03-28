@@ -33,5 +33,3 @@ Photography amateurs will find in Huanchaco a privileged landscape for spectacul
 
 **Contributors**
 November 13, 2006
-change
-by [giorgio](/member/giorgio)

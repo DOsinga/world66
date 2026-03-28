@@ -13,5 +13,3 @@ type: Chinese
 address: 1601 Benning Rd
 
 tel: (202)396-9041
-
-[back to Eating Out](..)

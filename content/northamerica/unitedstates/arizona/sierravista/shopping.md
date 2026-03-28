@@ -7,5 +7,3 @@ You could go to Walmart, Kmart, one of the millions of Radioshacks, and the "Hal
 
 **Contributors**
 January 30, 2005
-change
-by [giorgio](/member/giorgio) (1 point)

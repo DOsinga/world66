@@ -11,12 +11,8 @@ attractions, astonishing views… There is a lot to be seen, felt and
 experienced in Dubrovnik but the city walls are the beginning of every
 story about the city and its sights.
 
-*Part or or all of this text stems from the original article at: http://croatia.valamar.com*
-
 **Contributors**
 December 19, 2008
-change
-by [crotraveller](/member/crotraveller)
 
 ### [The city walls of Dubrovnik](/europe/croatia/dubrovnik/sights/the_city_walls_of)
 

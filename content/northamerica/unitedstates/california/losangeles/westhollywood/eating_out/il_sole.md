@@ -16,8 +16,6 @@ recommended.
 
 **Contributors**
 November 29, 2006
-new
-by [jhyatt](/member/jhyatt) (2 points)
 
 type: Italian
 
@@ -26,5 +24,3 @@ type: Italian
 tel: (310) 657-1182
 
 address: 8741 Sunset Blvd.
-
-[back to Eating Out](..)

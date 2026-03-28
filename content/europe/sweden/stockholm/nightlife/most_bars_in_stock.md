@@ -21,9 +21,3 @@ Go to Amsterdam.. Berlin.. London if you are a minority and wish to have a great
 Sweden is only good for Swedes.
 
 type: Clubs and dancing
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

@@ -7,9 +7,4 @@ English speaking tours organized for small groups throughout Morocco. Driver/gui
 
 
 
-*Change history*
-Orginal article by [sahara lady](/member/sahara_lady) on 27 January 05
-
-Minor corrections by [sahara lady](/member/sahara_lady) on 27 January 05
-
--->
+Minor corrections on 27 January 05

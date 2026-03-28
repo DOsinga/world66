@@ -1,8 +1,6 @@
 ---
 title: "Siena"
 type: location
-latitude: 43.167206
-longitude: 11.467561
 ---
 
 In scenic hill country just 55 kilometres south of Florence this picturesque well-preserved medieval town lies in the right in the middle of the Tuscany wine region. A bitter competitor with Florence for much of its history **Siena** is a treasure trove of art pageantry and architecture. 

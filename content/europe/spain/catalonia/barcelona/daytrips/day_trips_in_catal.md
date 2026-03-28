@@ -18,5 +18,3 @@ will have plenty of time to explore. Check our website for more information: www
 url: [www.rabbies.eu.com](http://www.rabbies.eu.com)
 
 email:
-
-[back to Day Trips](..)

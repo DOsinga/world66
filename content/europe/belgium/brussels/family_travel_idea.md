@@ -29,5 +29,3 @@ Don’t forget to take the kids through the Mini-Europe park at the foot of the 
 
 **Contributors**
 February 19, 2010
-change
-by [schitti](/member/schitti)

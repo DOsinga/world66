@@ -15,8 +15,6 @@ skycenter@skycenter.com.br
 
 **Contributors**
 January 08, 2009
-new
-by [liamodena](/member/liamodena)
 
 type: Other
 
@@ -27,5 +25,3 @@ tel: 55 21 7817-3526
 url: [www.skycenter.com.br](http://www.skycenter.com.br)
 
 email: skycenter@skycenter.com.br
-
-[back to Things to do](..)

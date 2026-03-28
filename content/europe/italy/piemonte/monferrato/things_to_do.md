@@ -8,8 +8,6 @@ Here are a few suggestions on what to do in Monferrato.
 
 **Contributors**
 January 20, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [On the steps of "Bianchetto"](/europe/italy/piemonte/monferrato/things_to_do/on_the_steps_of_b)
 

@@ -1,0 +1,4 @@
+---
+title: "Teplice"
+type: location
+---

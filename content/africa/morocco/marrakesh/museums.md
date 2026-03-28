@@ -9,5 +9,3 @@ Toubkal Trekking, specialist adventure organizor offering high-quality group mou
 
 **Contributors**
 February 23, 2009
-new
-by [trekking4000](/member/trekking4000)

@@ -8,8 +8,6 @@ Here are a few suggested museums to visit.
 
 **Contributors**
 January 13, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### Art Deco + Minimal
 

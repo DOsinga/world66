@@ -13,4 +13,4 @@ The Saar Historical Museum opened in 1988 and traces the history of Saarland fro
 
 #### **Saarland Museum**
 
-Whereas the Historical Museum focuses on the past, the Saarland Museum puts emphasis on the dynamics of contemporary art and how it was used in Saarland. The State Gallery displays the important contemporary pieces of Saarland artists. In the Old Gallery, a collection of traditional paintings and art and crafts can be seen which traces back to the Middle Age and 20th century. The museum also houses in a collection of French and German Impressionist painters&rsquo; works. Like the historical museum, it is closed on Mondays for maintenance.
+Whereas the Historical Museum focuses on the past, the Saarland Museum puts emphasis on the dynamics of contemporary art and how it was used in Saarland. The State Gallery displays the important contemporary pieces of Saarland artists. In the Old Gallery, a collection of traditional paintings and art and crafts can be seen which traces

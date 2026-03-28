@@ -10,13 +10,5 @@ This is a must visit place for everybody in Katoomba!
 
 **Contributors**
 February 26, 2005
-new
-by [vilpponen](/member/vilpponen)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

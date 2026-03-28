@@ -9,9 +9,3 @@ Almost all low-cost connections go without any problems. However, you should lea
 
 **Contributors**
 May 11, 2006
-change
-by [giorgio](/member/giorgio)
-
-
-
-[back to Getting Around](..)

@@ -27,5 +27,3 @@ Surfing is a fun activity for the whole family. The waves at San Juan del Sur of
 
 **Contributors**
 March 02, 2010
-change
-by [jenna storm](/member/jenna_storm)

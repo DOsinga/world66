@@ -64,5 +64,3 @@ Top 20 Rap Songs
 http://pdsxjt.in/38
 La Quinta Austin Texas
 http://siggpy.in/e9
-
-*Part or or all of this text stems from the original article at: Bryan Summers*

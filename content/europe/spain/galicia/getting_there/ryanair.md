@@ -15,11 +15,7 @@ Vigo is not such a nice city as they is not a lot to do, try heading out for teh
 
 **Contributors**
 April 06, 2005
-new
-by [euroadventures](/member/euroadventures) (1 point)
 
 June 25, 2005
-change
-by [the_doc](/member/the_doc) (1 point)
 
 type: By Air

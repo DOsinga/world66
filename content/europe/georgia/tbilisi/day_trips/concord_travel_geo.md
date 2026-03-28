@@ -5,8 +5,6 @@ address: "82, str. Barnov"
 email: "kh.beselia@concordtravel.ge"
 phone: "+99532 220960"
 url: "www.concordtravel.ge"
-latitude: 41.706961
-longitude: 44.777093
 ---
 
 **Travel Agent, Tour Operator in Tbilisi , Georgia , Caucasus . **
@@ -34,5 +32,3 @@ url: [www.concordtravel.ge](http://www.concordtravel.ge)
 address: 82, str. Barnov
 
 email: kh.beselia@concordtravel.ge
-
-[back to Day Trips](..)

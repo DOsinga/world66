@@ -13,5 +13,3 @@ After the second world war, Dessaus airport was closed. A smaller airport was re
 
 **Contributors**
 March 21, 2006
-new
-by [romanofski](/member/romanofski) (1 point)

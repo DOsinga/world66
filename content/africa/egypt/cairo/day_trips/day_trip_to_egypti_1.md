@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "Hend@egyptonlinetours.net"
 phone: "0020111029094"
 url: "www.egyptonlinetours.net"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Departure : Everyday
@@ -29,38 +27,6 @@ which located in the capital **city of Cairo**, where you can see the most exten
 collection of** ancient antiquities** , & the famous golden mask of
 **Tutankhamen** among other amazing **pharaonic artifacts** , finally continue your
 tour to visit** Old Cairo** where you will see **Mary Gerges church** , **Hanging**
-** church** , **Ben Ezra Synagogue**, then back to your hotel in **Cairo or Giza**.
-
-Price Includes:-
-• All transfers by a private air-conditioned vehicle
-• Private English Egyptologist guide
-• Entrance fees to all the mentioned sites
-• Lunch meal will be served in a local restaurant
-• Mineral water on board the vehicle during the tour
-• Shopping tours in Cairo
-• All taxes & service charge
-
-Website:-
-http://www.egyptonlinetours.net/Egypt-Sightseeing-Tours/Cairo-Excursions-And-Sightseeing-Tours/Trip-To-Egyptian-Museum-And-Old-Cairo.php
-
-***Contact us:-***
-
-Website:- egyptonlinetours.net
-E-mail:- Hend@egyptonlinetours.net
-Address:- 124, Haram street, Giza, Egypt
-Contact Person:- Hend Badawy
-Cell Phone:- 0020111029094
-
-
-
-
-
-tel: 0020111029094
-
-url: [www.egyptonlinetours.net](http://www.egyptonlinetours.net/Egypt-Sightseeing-Tours/Cairo-Excursions-And-Sightseeing-Tours/Trip-To-Egyptian-Museum-And-Old-Cairo.php)
-
-address: 124, Haram street, Giza, Egypt
+** church** , **Ben Ezra Synagogue**, then address: 124, Haram street, Giza, Egypt
 
 email: Hend@egyptonlinetours.net
-
-[back to Day Trips](..)

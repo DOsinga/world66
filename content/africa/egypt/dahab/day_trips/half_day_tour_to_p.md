@@ -20,7 +20,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Day tour to Petra from Dahab by Ferry
 boat******
@@ -154,7 +154,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 
 
@@ -165,5 +165,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Sightseein
 address: Maestro online travel 124 Pyramid street Giza ,Egypt
 
 email: amanywaw@egyptonlinetours.com
-
-[back to Day Trips](..)

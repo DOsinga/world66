@@ -1,0 +1,4 @@
+---
+title: "Gentofte"
+type: location
+---

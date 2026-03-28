@@ -1,0 +1,4 @@
+---
+title: "Chur"
+type: location
+---

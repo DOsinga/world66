@@ -71,9 +71,4 @@ Papadopoulos, N.N. 1986. Uranium microdistribution in vertebrate skeletal remain
 
 Theodorou, G.E., Karistineos, N.K. & Papadopoulos, N.N. 1985/6. Uranium in fossil Caenozoic Vertebrates from Greece.* Ann. Geol. Pays Hell. *33/1: 39-49.
 
-*Change history*
-Orginal article by [Skipper](/member/skipper) on 20 October 04
-
-Minor corrections by [Skipper](/member/skipper) on 20 October 04
-
--->
+Minor corrections on 20 October 04

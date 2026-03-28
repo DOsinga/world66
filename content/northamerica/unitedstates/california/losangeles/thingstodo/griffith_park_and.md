@@ -10,13 +10,5 @@ There are many hiking trails and most lead up to the peaks of Griffith Mountains
 
 **Contributors**
 March 11, 2006
-new
-by [markintelaviv](/member/markintelaviv) (4 points)
 
 type: Hiking
-
-
-
-
-
-[back to Things to do](..)

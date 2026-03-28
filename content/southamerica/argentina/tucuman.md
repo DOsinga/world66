@@ -1,0 +1,4 @@
+---
+title: "Tucuman"
+type: location
+---

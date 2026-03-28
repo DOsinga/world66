@@ -15,12 +15,8 @@ Europe.
 
 **Contributors**
 May 09, 2005
-change
-by [giorgio](/member/giorgio)
 
 May 09, 2005
-change
-by [ingunn](/member/ingunn)
 
 type: By Air
 
@@ -29,5 +25,3 @@ type: By Air
 
 
 url: [www.icelandexpress.com](http://www.icelandexpress.com/)
-
-[back to Getting There](..)

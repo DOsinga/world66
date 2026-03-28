@@ -21,5 +21,3 @@ From [Jaén](/southamerica/peru/northern_pacific_t/jan) you can take a collectiv
 
 **Contributors**
 May 09, 2006
-new
-by [joosts](/member/joosts) (6 points)

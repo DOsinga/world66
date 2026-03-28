@@ -1,7 +1,9 @@
 ---
-title: "Tequila Travel Guide"
+title: "Tequila"
 type: location
 ---
+
+Travel Guide
 
 The city of Tequila is located just an hour outside of [Guadalajara](/northamerica/mexico/guadalajara)
 and is the ancestral home of it's eponymous spirit. Located in the
@@ -29,9 +31,5 @@ minutes to get there.
 
 **Contributors**
 January 11, 2007
-change
-by [out of the grey](/member/out_of_the_grey) (2 points)
 
 June 16, 2005
-new
-by [omegashade](/member/omegashade) (1 point)

@@ -25,5 +25,3 @@ to enable people to enjoy the nature and scenery without endangering their survi
 
 **Contributors**
 September 12, 2005
-new
-by [hvdflier](/member/hvdflier)

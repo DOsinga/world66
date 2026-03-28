@@ -1,0 +1,4 @@
+---
+title: "Kamloops"
+type: location
+---

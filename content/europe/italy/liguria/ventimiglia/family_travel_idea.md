@@ -29,5 +29,3 @@ It is very easy to reach the town by railway from Italy and France, as there is 
 
 **Contributors**
 April 06, 2010
-new
-by [piyushjain](/member/piyushjain_)

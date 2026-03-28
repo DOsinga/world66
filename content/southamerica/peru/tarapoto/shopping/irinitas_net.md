@@ -11,8 +11,6 @@ Nestled in the new space of the largest ground-level Internet cafe in Tarapoto i
 
 **Contributors**
 February 11, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Speciality shops
 
@@ -25,5 +23,3 @@ accessibility: Just over one block off the Plaza de Armas. Wheelchair accessible
 tel: 042 531380
 
 address: Jr. Alegria Arias de Morey #229 (Just a few doors north of Jr. Grau)
-
-[back to Shopping](..)

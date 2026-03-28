@@ -26,5 +26,3 @@ address: 13950 Panay Way, Marina del Rey
 PriceOfMenu: dinner entrees $15 to $35
 
 email:
-
-[back to Eating Out](..)

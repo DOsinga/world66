@@ -15,13 +15,9 @@ found their reflection in the museum.
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 
 
 tel: 3-02-98
 
 address: 26 N Narimanov st. Shahbuz village
-
-[back to Museums](..)

@@ -11,8 +11,6 @@ If you can stand the heat for a few hours, we promise that you *will *walk away 
 
 **Contributors**
 May 21, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Shopping centers and malls
 
@@ -23,5 +21,3 @@ tel: 702-474-7500
 url: [www.premiumoutlets.com](http://www.premiumoutlets.com)
 
 address: 875 S. Grand Central Parkway
-
-[back to Shopping](..)

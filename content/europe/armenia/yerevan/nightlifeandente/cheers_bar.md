@@ -1,6 +1,6 @@
 ---
 title: "Cheers Bar"
-type: location
+type: poi
 address: "48, nalbandian street"
 closing_time: "4 a.m."
 email: "cheerspubyerevan@yahoo.com"
@@ -8,8 +8,6 @@ phone: "580416"
 type: "Pubs"
 url: "www.geocities.com"
 zipcode: "324512"
-latitude: 41.406565
-longitude: 43.487957
 ---
 
 Cheers disco-pub is the only real western-style bar in Yerevan. The bar
@@ -24,8 +22,6 @@ parties as they have their own crowd.
 
 **Contributors**
 June 09, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Pubs
 
@@ -44,5 +40,3 @@ tel: 580416
 email:
 
 address: 48, nalbandian street
-
-[back to Nightlife and Entertainment](..)

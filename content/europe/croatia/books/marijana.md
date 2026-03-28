@@ -16,5 +16,3 @@ is an archaeological guide book, covering the entire territory of Croatia. Ideal
 author: Ante Susnjara
 
 isbn: 9789535507703
-
-[back to Books](..)

@@ -14,8 +14,6 @@ Admire spectacular sunsets and a dazzling display of harbor lights while you din
 
 **Contributors**
 January 29, 2007
-change
-by [marinagal](/member/marinagal)
 
 type: International
 
@@ -28,5 +26,3 @@ url: [marinadelreyhotel.com](http://marinadelreyhotel.com)
 address: 13534 Bali Way
 
 PriceOfMenu: Dinner entrees $8 to $27
-
-[back to Eating Out](..)

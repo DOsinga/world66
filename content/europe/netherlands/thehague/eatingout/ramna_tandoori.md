@@ -8,8 +8,6 @@ phone: "0703465757, 0649392400"
 price: "25 Euro [on average]"
 type: "Indian and Pakistani"
 url: "www.ramnarestaurant.nl"
-latitude: 52.080011
-longitude: 4.307047
 ---
 
 Indian cuisine is a combination of subtle tastes. Flavours are
@@ -41,8 +39,6 @@ twenty – four hours.
 
 **Contributors**
 September 01, 2009
-change
-by [jukijuki](/member/jukijuki)
 
 type: Indian and Pakistani
 
@@ -61,5 +57,3 @@ address: Molenstraat 12, 2513 BK
 PriceOfMenu: 25 Euro [on average]
 
 email: info@ramnarestaurant.nl
-
-[back to Eating Out](..)

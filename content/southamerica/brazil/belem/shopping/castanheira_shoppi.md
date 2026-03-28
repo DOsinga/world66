@@ -18,5 +18,3 @@ type: Shopping centers and malls
 
 
 address: Rodovia BR 316 km01, sn
-
-[back to Shopping](..)

@@ -7,8 +7,6 @@ Several important ruins can be visited on a one day trip, of which the most spec
 
 **Contributors**
 February 19, 2007
-new
-by [joosts](/member/joosts)
 
 ### [Gocta Falls](/southamerica/peru/chachapoyas/day_trips/gocta_falls)
 

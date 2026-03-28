@@ -122,5 +122,3 @@ A very plain and easy to look at fold-out picture book. I really like the pictur
 isbn: http://www.vip.ie/gfx/shop/shopkeeper.gif
 
 author: Johnny Bulldog
-
--->

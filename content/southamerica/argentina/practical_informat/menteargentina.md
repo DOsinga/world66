@@ -24,5 +24,3 @@ url: [menteargentina.com](http://menteargentina.com/ingles/index.html)
 address: Guardia Vieja 3346 4 ´F´
 
 email: brian@menteargentina.com
-
-[back to Practical Information](..)

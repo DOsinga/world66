@@ -74,5 +74,3 @@ Funfair Thursday-Sunday around Bonfire night (2-5 November 2000) with a firework
 **Strawberry Fair - Early June**
 
 Strawberry Fair is held annually on the first (usually) or second, Saturday of June on Midsummer Common. This year's date is 3rd June 2000. It is the largest event of it's kind in Europe, and has been described as "the biggest thing after Glastonbury". As a local festival of music, arts and craft [more..](/europe/unitedkingdom/england/eastern_england/cambridge/annualevents/strawberryfairearlyjune)
-
--->

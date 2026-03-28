@@ -22,7 +22,3 @@ Visit the Aquarium where you can see daily dolphin and beluga whale shows. Enjoy
 PC: win xp
 
 email: williamyahumara@hotmail.com
-
-## Subsections
-
-[Parks](/northamerica/canada/britishcolumbia/vancouver/sights/parks)

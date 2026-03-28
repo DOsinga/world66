@@ -8,8 +8,6 @@ Interesting places in Krasnoyarsk region
 
 **Contributors**
 September 23, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ### [Plateau Putorana](/europe/russia/krasnoyarsk_region/sights/plateau_putorana)
 

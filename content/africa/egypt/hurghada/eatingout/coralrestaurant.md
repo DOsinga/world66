@@ -15,5 +15,3 @@ type: Seafood
 address: Gabal El Hareem
 
 tel: +20 65 549745
-
-[back to Eating Out](..)

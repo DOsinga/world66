@@ -7,9 +7,4 @@ If you have a car with you, it makes a wonderful road trip to go on the road nor
 
 It is scarcely possible to exaggerate the fabulous mountain and coastal scenery on this trip.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 29 June 04
-
 PC: http://www.achiltibuie.net/
-
--->

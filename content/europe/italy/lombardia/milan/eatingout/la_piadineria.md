@@ -5,8 +5,6 @@ address: "Corso Sempione, 17 (Milano)"
 phone: "+39 02 314142"
 price: "1 Piadina around 4 euros (depending on the ingradients)"
 type: "Italian"
-latitude: 45.478089
-longitude: 9.168477
 ---
 
 Freshlycooked piadina (a type of unleavened bread) with Parma ham, salami or cheese.
@@ -32,5 +30,3 @@ tel: +39 02 314142
 address: Corso Sempione, 17 (Milano)
 
 PriceOfMenu: 1 Piadina around 4 euros (depending on the ingradients)
-
-[back to Eating Out](..)

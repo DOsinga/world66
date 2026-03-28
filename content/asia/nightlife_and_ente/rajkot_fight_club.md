@@ -19,5 +19,3 @@ tel: 9898048483
 url: [rajkotfightclub.blogspot.com](http://rajkotfightclub.blogspot.com/)
 
 address: http://rajkotfightclub.blogspot.com/
-
-[back to Nightlife and Entertainment](..)

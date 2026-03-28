@@ -9,13 +9,9 @@ Hundreds of vendors come together for the Porta Portese open-air flea market in 
 
 **Contributors**
 May 22, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Markets
 
 
 
 address: Viale Trastevere, near the end
-
-[back to Shopping](..)

@@ -1,0 +1,4 @@
+---
+title: "Bussy"
+type: location
+---

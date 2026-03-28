@@ -36,9 +36,3 @@ Travellers leaving Hungary by train must pay their fare in convertible currency.
 Road
 
 Route via The Netherlands Belgium and Austria and from Vienna via the E5 Transcontinental Highway which passes near Bratislava (Slovak Republic). Bus connections are available from most major European cities.
-
-
-
-## Subsections
-
-[By Air](/europe/hungary/gettingthere/byair)

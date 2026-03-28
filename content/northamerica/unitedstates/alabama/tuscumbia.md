@@ -1,9 +1,9 @@
 ---
-title: "Tuscumbia Travel Guide"
+title: "Tuscumbia"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Tuscumbia is a bustling town, with a beautiful, historic downtown
 area, with many small stores that are family owned and operated. This
@@ -20,16 +20,5 @@ With our rich history and even brighter future, Tuscumbia is not
 only a great place to visit, but one to spend a lifetime. One excellent
 place to visit is [Ivy Green](/northamerica/unitedstates/alabama/tuscumbia/sights/ivy_green), the birthplace of Helen Keller.
 
-#### Contributors
-
-October 11, 2005 new by [ifiranthezoo](/member/ifiranthezoo)
-
-December 03, 2005 change by [handyman321](/member/handyman321)
-
 More information on
 *Tuscumbia Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 14:07

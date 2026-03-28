@@ -8,5 +8,3 @@ type: section
 **Bus: **From Moncloa Intercambiador, busses numbers 661 and 664 leave from dock number 3. Bus number 664 is faster but less frequent. The trip takes about 45 minutes and leaves you in San Lorenzo de El Escorial.
 
 **Auto:** Exit Madrid on the A6 direction La Coruña. Take the Guadarrama exit or El Escorial exit (it's about 50km) and follow the signs to the town.
-
--->

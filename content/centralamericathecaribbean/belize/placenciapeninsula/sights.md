@@ -7,5 +7,3 @@ When you go, though, especially if you go in the summer, be sure to bring lots o
 
 **Contributors**
 December 07, 2005
-new
-by [epollaert](/member/epollaert)

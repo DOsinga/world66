@@ -1,6 +1,6 @@
 ---
 title: "SUSHI YAMA"
-type: location
+type: poi
 type: "general"
 ---
 

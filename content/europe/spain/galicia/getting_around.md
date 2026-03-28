@@ -19,8 +19,6 @@ This airport also handles flights from Amsterdam and Madrid.
 
 **Contributors**
 June 25, 2005
-new
-by [the_doc](/member/the_doc)
 
 ### [gordon lang](/europe/spain/galicia/getting_around/gordon_lang)
 

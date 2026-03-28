@@ -6,8 +6,6 @@ phone: "(905) 793-4682"
 type: "Shopping centers and malls"
 url: "www.bramaleacitycentre.ca"
 zipcode: "L6T 3R5"
-latitude: 43.71559
-longitude: -79.722585
 ---
 
 Brampton's regional-sized shopping centre, this two-level mall is overall the most visited.
@@ -19,8 +17,6 @@ Sunday: 12:00pm - 6:00pm
 
 **Contributors**
 April 18, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Shopping centers and malls
 
@@ -36,19 +32,10 @@ tel: (905) 793-4682
 
 address: 25 Peel Centre Drive
 
-[back to Shopping](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

@@ -1,0 +1,4 @@
+---
+title: "Stourbridge"
+type: location
+---

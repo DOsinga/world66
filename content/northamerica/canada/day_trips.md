@@ -9,8 +9,6 @@ url: "destinationtravels.in"
 
 I have visited your site 874-times
 
-*Part or or all of this text stems from the original article at: Visitor758*
-
 ### [Destinationtravels.in](/northamerica/canada/day_trips/destinationtravels)
 
 **Canada Tour Operators, International Tours Operators, Canada Travel Packages, Canada Trips, Canada Packages, Canada Travel Agents, Canada Hotel Booking, Destination Travels, India, Delhi**

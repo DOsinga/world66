@@ -1,0 +1,4 @@
+---
+title: "Worcester"
+type: location
+---

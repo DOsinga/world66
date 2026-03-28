@@ -11,8 +11,6 @@ Majerle’s Sports Grill is owned by the iconic basketball player, Dan “Thunde
 
 **Contributors**
 April 30, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: American
 
@@ -23,5 +21,3 @@ tel: Address: 24 North 2nd Street Phoenix, AZ 85004
 address: Address: 24 North 2nd Street Phoenix, AZ 85004
 
 PriceOfMenu: fair
-
-[back to Eating Out](..)

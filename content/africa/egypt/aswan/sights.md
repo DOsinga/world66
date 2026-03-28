@@ -11,13 +11,7 @@ The British built theri dam as well, it was enlarged, expanded, but unable to co
 
 **Elephantine Island**
 
-Elephantine Island is the largest island in the area. On the island you find many sightes going back to Pharaonic times and even further. 
-
-**Philae Temple**
-
-Philae Temple was also dismantled and reassembled ( on Agilika Island about 500m. from its original home on Philae island) in the wake of the High Dam. The temple, dedicated to the goddess Isis, is in a beautiful setting which has been landscaped to match its original site. Its various shrines an [more..](/africa/egypt/aswan/sights/philaetemple)
-
-**Kitcheners Island**
+Elephantine Island is the largest island in the area. On the island you find many sightes going **Kitcheners Island**
 
 Just beyond Elephantine is Kitchener's Island (Geziret el-Nabatat). It was named for the British general Haratio Kitchener (185--1916) and was sent to Egypt in 1883 to reorganize the Egyptian army, which he then led against the Sudanese Mahdi. But the island is known for its garden and the exot [more..](/africa/egypt/aswan/sights/kitchenersisland)
 

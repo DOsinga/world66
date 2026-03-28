@@ -25,5 +25,3 @@ url: www.inteligentesite.com.br
 address: Av: senador Lemos, 1541.
 
 email: sac@mercadaodaspecas.com.br
-
-[back to Shopping](..)

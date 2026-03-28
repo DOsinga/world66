@@ -20,5 +20,3 @@ type: Hotspots
 url: [www.riodejaneirophotoguide.com](http://www.riodejaneirophotoguide.com/html/santa_cruz.html)
 
 address: Niteroi
-
-[back to Sights](..)

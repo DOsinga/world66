@@ -1,12 +1,8 @@
 ---
-title: "Roanoke Travel Guide"
+title: "Roanoke"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 This city is in Virginia State
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 01:19

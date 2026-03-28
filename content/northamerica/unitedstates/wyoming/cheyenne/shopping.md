@@ -7,5 +7,3 @@ If you are in the mood for some Cheyenne shopping, check out the Frontier Mall a
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

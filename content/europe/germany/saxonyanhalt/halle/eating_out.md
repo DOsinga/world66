@@ -74,5 +74,3 @@ address: Torstr. 20
 tel: (03 45) 2 90 38 88
 
 zipcode: 06110 Halle (Saale)
-
--->

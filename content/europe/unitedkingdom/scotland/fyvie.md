@@ -7,5 +7,3 @@ Fyvie is situated in the heart of Aberdeenshire and is home to one of the finest
 
 **Contributors**
 January 21, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)

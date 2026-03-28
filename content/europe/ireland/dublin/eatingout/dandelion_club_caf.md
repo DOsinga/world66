@@ -9,13 +9,9 @@ The Dandelion is situated at St Stephens Green at the top of Graften Street, app
 
 **Contributors**
 January 05, 2007
-new
-by [ali_bean](/member/ali_bean)
 
 type: European
 
 
 
 accessibility: easy to get to
-
-[back to Eating Out](..)

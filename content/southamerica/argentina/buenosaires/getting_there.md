@@ -7,5 +7,3 @@ Hispan Aires Spanish School www.hispanaires.com How to get the school? It is eas
 
 **Contributors**
 July 08, 2008
-new
-by [hispan aires](/member/hispan_aires_)

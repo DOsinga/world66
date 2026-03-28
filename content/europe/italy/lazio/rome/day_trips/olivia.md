@@ -9,13 +9,9 @@ Tarquinia is home to some of the most spectacular tombs in all of Italy. Highlig
 
 **Contributors**
 May 22, 2008
-change
-by [mcburton](/member/mcburton)
 
 
 
 tel: Tarquina National Museum, +39 0766-856039
 
 address: Tarquina Rome
-
-[back to Day Trips](..)

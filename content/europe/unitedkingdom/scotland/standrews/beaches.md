@@ -26,8 +26,6 @@ East sands is a beach that is quite popular for a little walk especially with ch
 
 **Contributors**
 May 10, 2005
-new
-by [coolsailor](/member/coolsailor) (1 point)
 
 ### [West Sands](/europe/unitedkingdom/scotland/standrews/beaches/west_sands)
 

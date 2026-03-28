@@ -29,5 +29,3 @@ If you're flying from within Mexico, it is best to use smaller local airlines su
 
 **Contributors**
 December 29, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)

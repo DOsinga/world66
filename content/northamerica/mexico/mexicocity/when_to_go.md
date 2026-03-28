@@ -18,11 +18,4 @@ beautiful flowers of the Paseo de la Large Reforma Avenue boutiques are
 in full bloom and the aroma is indeed spellbinding. Any visit to Mexico
 City in the spring will have to include a short tour through the
 neighborhood of San Angel, Mexico City. With its cobblestoned streets
-and romantic plazas the borough of San Angel takes one back to the time
-of the seventeenth century. The influence of both the Aztec and the
-Spanish Conquistadors to San Angel can clearly be seen in the
-architecture and even its people. The urban sprawl of the city goes
-from a charming neighborhood to a hustling and bustling arts and crafts
-extravaganza which only adds to the flavor and the variety that is
-Mexico City. The city is well known for its vibrancy and livelihood and
-its people.
+and romantic plazas the borough of San Angel takes one

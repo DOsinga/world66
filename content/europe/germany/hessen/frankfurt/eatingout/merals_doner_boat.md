@@ -8,7 +8,5 @@ On the south banks of the Main there are a few places you can get a beer but for
 
 **Contributors**
 August 06, 2005
-new
-by [richardosinga](/member/richardosinga)
 
 type: Cheap

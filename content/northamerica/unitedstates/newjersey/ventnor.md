@@ -1,0 +1,4 @@
+---
+title: "Ventnor"
+type: location
+---

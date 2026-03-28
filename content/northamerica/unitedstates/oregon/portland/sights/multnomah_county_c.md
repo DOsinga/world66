@@ -12,8 +12,6 @@ The Multnomah County Central Library has recently been remodeled and is well-kno
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Hotspots
 
@@ -26,5 +24,3 @@ openingHours: 9a-9p Tu-Th, 9a-6p F-Sa, 1p-5p Su
 url: [www.multcolib.org](http://www.multcolib.org/agcy/cen.html)
 
 address: 801 Southwest 10th Avenue Portland, OR 97205
-
-[back to Sights](..)

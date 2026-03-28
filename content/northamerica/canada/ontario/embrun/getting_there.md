@@ -11,5 +11,3 @@ It takes about 90 minutes to get to Embrun from the West Island, 100 minutes fro
 
 **Contributors**
 July 26, 2006
-new
-by [freshfruitsrule](/member/freshfruitsrule) (2 points)

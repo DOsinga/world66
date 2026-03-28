@@ -11,17 +11,10 @@ The website is in Spanish, but should be navigable even by someone who only spea
 
 The hot-spot for restaurants in Buenos Aires is currently the neighborhood of Palermo, though excellent eateries can be found all across town.
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

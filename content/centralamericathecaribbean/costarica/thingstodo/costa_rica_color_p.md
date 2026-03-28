@@ -22,5 +22,3 @@ tel: +(506) 83.34.99.76
 url: [www.costaricacolor.com](http://www.costaricacolor.com)
 
 email: info@costaricacolor.com
-
-[back to Things to do](..)

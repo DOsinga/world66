@@ -9,8 +9,6 @@ This history of Fyvie Castle is well documented in several books.
 
 **Contributors**
 February 07, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)
 
 ### [The Bard O' Buchan Volume 1](/europe/unitedkingdom/scotland/fyvie/books/the_bard_o_buchan)
 

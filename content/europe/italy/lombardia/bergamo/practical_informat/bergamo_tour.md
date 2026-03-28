@@ -14,5 +14,3 @@ type: Train station
 
 
 url: [www.bergamotour.it](http://www.bergamotour.it/uk/index.htm)
-
-[back to Practical Information](..)

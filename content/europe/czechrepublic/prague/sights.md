@@ -5,6 +5,6 @@ type: section
 
 There are many sights in Prague.
 
-## Subsections
+## Categories
 
-[Museums](/europe/czechrepublic/prague/sights/museums)
+[Museums](/europe/czechrepublic/prague/sights?subsection=Museums)

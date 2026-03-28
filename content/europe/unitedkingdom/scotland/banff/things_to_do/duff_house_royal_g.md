@@ -9,8 +9,6 @@ One of the finest golf courses in Scotland situated on the edge of town on the b
 
 **Contributors**
 January 25, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 type: Golf
 
@@ -19,5 +17,3 @@ type: Golf
 
 
 url: [www.theduffhouseroyalgolfclub.co.uk](http://www.theduffhouseroyalgolfclub.co.uk)
-
-[back to Things to do](..)

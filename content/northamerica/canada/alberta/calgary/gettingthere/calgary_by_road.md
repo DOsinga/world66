@@ -8,13 +8,5 @@ Calgary is serviced by two major highways; the Trans-Canada (1) running East/Wes
 
 **Contributors**
 March 20, 2006
-change
-by [the rev](/member/the_rev) (2 points)
 
 type: By Road
-
-
-
-
-
-[back to Getting There](..)

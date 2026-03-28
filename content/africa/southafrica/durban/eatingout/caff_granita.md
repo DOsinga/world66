@@ -24,5 +24,3 @@ url: [www.theworkshopcentre.co.za](http://www.theworkshopcentre.co.za)
 address: Shop 73, The Workshop Shopping Centre
 
 email: granita@absamail.co.za
-
-[back to Eating Out](..)

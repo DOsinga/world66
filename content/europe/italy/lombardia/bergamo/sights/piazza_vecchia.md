@@ -2,8 +2,6 @@
 title: "Piazza Vecchia"
 type: poi
 type: "Squares"
-latitude: 45.704038
-longitude: 9.662898
 ---
 
 The best thing about Italy is the idea of the town square. It's a central focusing point where you can go to see people, have an ice cream, an aperitif or dinner and sometimes even take in a puppet show or medieval dancing.
@@ -14,7 +12,5 @@ The Bell Tower rings 100 times at 10 o'clock at night, a custom that remains fro
 
 **Contributors**
 May 31, 2005
-new
-by [karenbru](/member/karenbru) (1 point)
 
 type: Squares

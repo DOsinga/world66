@@ -53,5 +53,3 @@ Memories of my visit to Hammerfest in Norway , the coldest place I’ve ever bee
 
 **Contributors**
 January 31, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)

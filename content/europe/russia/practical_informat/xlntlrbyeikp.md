@@ -11,8 +11,6 @@ url: "www.facebook.com"
 
 Times are changing for the bteetr if I can get this online!
 
-*Part or or all of this text stems from the original article at: mUeKpcdQCifSTQ*
-
 type: Airport
 
 
@@ -26,5 +24,3 @@ url: [www.facebook.com](http://www.facebook.com/)
 address: VuLPQiuAFXPpxF
 
 email: lalo@powermentor.org
-
-[back to Practical Information](..)

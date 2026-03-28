@@ -8,11 +8,5 @@ The best way to travel in New York City is using mass transportation. You can vi
 
 **Contributors**
 February 01, 2005
-new
-by [tea](/member/tea)
 
 type: Tourist information
-
-
-
-[back to Practical Information](..)

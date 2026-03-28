@@ -17,8 +17,6 @@ ho`olaulea, and a parade though downtown Hilo.
 
 **Contributors**
 June 26, 2005
-new
-by [stargirlssc](/member/stargirlssc)
 
 
 
@@ -27,5 +25,3 @@ by [stargirlssc](/member/stargirlssc)
 tel: (808) 935-9168
 
 url: [www.merriemonarchfestival.org](http://www.merriemonarchfestival.org/)
-
-[back to Festivals](..)

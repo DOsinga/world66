@@ -13,9 +13,5 @@ Drive out to **Geelong**, onto to **Torquay** and let the journey begin. If you 
 
 **Contributors**
 March 04, 2005
-new
-by [pat_boland](/member/pat_boland) (1 point)
 
 May 18, 2005
-change
-by [giorgio](/member/giorgio)

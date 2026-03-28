@@ -7,8 +7,6 @@ Mykonos doesn't mean just discos and parties. Here you can find a lot of magnifi
 
 **Contributors**
 August 25, 2005
-new
-by [giorgio](/member/giorgio)
 
 ### Paradise Beach
 

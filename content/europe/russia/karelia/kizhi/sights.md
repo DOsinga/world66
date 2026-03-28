@@ -7,5 +7,3 @@ type: section
 
 **Contributors**
 October 14, 2006
-change
-by [svetico](/member/svetico)

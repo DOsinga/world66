@@ -21,5 +21,3 @@ e-mail: info@marshallhouse.com
 url: [www.themarshallhouse.com](http://www.themarshallhouse.com)
 
 tel: (912) 644-7896
-
-[back to Eating Out](..)

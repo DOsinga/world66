@@ -14,5 +14,3 @@ type: Erotic clubs and bars
 
 
 url: [www.thelingerierestaurant.com](http://www.thelingerierestaurant.com/)
-
-[back to Nightlife and Entertainment](..)

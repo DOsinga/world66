@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Banff features a wide selection of quality restaurants for you to sample.

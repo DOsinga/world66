@@ -8,10 +8,3 @@ Vermont is one of the most attractive states of New England. Located between the
  Vermont's many small cities, from [Burlington](/northamerica/unitedstates/vermont/burlington) to Brattleboro, St. Johnsbury, [Brandon](/northamerica/unitedstates/vermont/brandon) and St.Albans are filled with interesting restaurants, shops and inns. You can spend an hour at a farmers' market, visit an artist's studio and cap the visit off with a stop nearby for a snack or fine food. Places like Barre, Bennington, Lyndonville, Rutland, Middlebury and Bellows Falls are treasure troves of 19th and even 18th century architecture.
 
  Vermont also has some of the most beautiful and most accessible mountains in the U.S.  Hiking here starts with Vermont's famed 265 mile Long Trail and the Vermont portion of the 2,000 mile Appalachian Trail. The Green Mountains are a hiker's dream, with trails for all abilities, whether you're a seasoned hiker or you just want to get away from it all for a day hike
-
-## Destinations
-
-- [Brandon](/northamerica/unitedstates/vermont/brandon)
-- [Burlington](/northamerica/unitedstates/vermont/burlington)
-- [Greensboro](/northamerica/unitedstates/vermont/greensboro)
-- [Montpelier](/northamerica/unitedstates/vermont/montpelier)

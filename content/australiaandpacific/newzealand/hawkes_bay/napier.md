@@ -14,5 +14,3 @@ A landmark of Napier is Bluff Hill, which is home for many Napier residents and 
 Napier has accommodation to fit all budgets from boutique hotels, holiday homes, backpacker lodges, hotels, motels, holiday parks and homestays. For the shopper there are antique shops, art galleries, and studios of potters, wood turners and craftsman.
 
 After a long day taking in the sights, revitalize yourself by sampling some of Hawke’s Bay’s award winning wines and fresh Bay produce from one of the many restaurant, café and winery menus.
-
-*Part or or all of this text stems from the original article at: Hawke's Bay Tourism*

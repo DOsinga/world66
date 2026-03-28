@@ -1,0 +1,4 @@
+---
+title: "Ogden"
+type: location
+---

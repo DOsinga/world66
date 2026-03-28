@@ -1,6 +1,6 @@
 ---
 title: "Zingaro Restaurant"
-type: location
+type: poi
 address: "San Francisco 309"
 email: "info@zingaro-restaurante.com"
 phone: "005154217662"
@@ -23,5 +23,3 @@ url: [www.zingaro-restaurante.com](http://www.zingaro-restaurante.com)
 address: San Francisco 309
 
 email: info@zingaro-restaurante.com
-
-[back to Eating Out](..)

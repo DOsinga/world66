@@ -1,0 +1,4 @@
+---
+title: "Tonstad"
+type: location
+---

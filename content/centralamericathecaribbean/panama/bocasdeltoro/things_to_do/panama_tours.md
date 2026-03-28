@@ -13,7 +13,5 @@ Panama Private Tours is a leading tour operator in Panama, experts on adventure 
 
 **Contributors**
 September 28, 2007
-new
-by [pty](/member/pty)
 
 type: Surfing

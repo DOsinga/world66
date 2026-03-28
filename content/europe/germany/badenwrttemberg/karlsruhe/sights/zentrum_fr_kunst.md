@@ -18,7 +18,3 @@ into the video art etc. This also makes it a family museum: Even little
 kids will never be bored.
 
 type: Hotspots
-
-
-
-[back to Sights](..)

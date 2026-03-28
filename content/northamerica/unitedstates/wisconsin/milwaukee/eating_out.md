@@ -7,5 +7,3 @@ Do not miss Barossa, 235 S. 2nd Street. Outstanding organic fare at reasonable p
 
 **Contributors**
 June 21, 2005
-new
-by [jeffreyl](/member/jeffreyl) (1 point)

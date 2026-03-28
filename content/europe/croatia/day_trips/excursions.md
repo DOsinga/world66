@@ -3,8 +3,6 @@ title: "Excursions"
 type: poi
 email: "info@lsadriatic.com"
 url: "www.dubrovnik-excursion.com"
-latitude: 43.7328
-longitude: 15.891918
 ---
 
 **Excursions** With huge variety of excursions from our offer, we give you the opportunity to visit a beautiful scenery and cultural and historical places of southern Dalmacia.
@@ -55,8 +53,6 @@ Korčula is considered to be the birthplace of Marco Polo, and legend says that 
 
 **Contributors**
 January 30, 2007
-change
-by [lsadriatic](/member/lsadriatic)
 
 
 
@@ -65,5 +61,3 @@ by [lsadriatic](/member/lsadriatic)
 url: [www.dubrovnik-excursion.com](http://www.dubrovnik-excursion.com)
 
 email: info@lsadriatic.com
-
-[back to Day Trips](..)

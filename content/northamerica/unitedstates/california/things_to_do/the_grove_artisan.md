@@ -20,5 +20,3 @@ tel: 7603417200
 url: [www.miramonteresort.com](http://www.miramonteresort.com/luxury-palm-springs-restaurant.php)
 
 address: 45000 Indian Wells Ln
-
-[back to Things to do](..)

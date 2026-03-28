@@ -1,0 +1,4 @@
+---
+title: "Pinehurst"
+type: location
+---

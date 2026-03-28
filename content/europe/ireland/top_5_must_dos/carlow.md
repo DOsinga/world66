@@ -15,8 +15,6 @@ The arts centre also houses the award-winning and highly popular restaurant, Len
 
 **Contributors**
 February 06, 2012
-new
-by [gb shaw](/member/gb_shaw)
 
 
 
@@ -27,5 +25,3 @@ url: [www.visual.carlow.ie](http://www.visual.carlow.ie)
 address: VISUAL Centre for Contemporary Art & The George Bernard Shaw Theatre
 
 email: info@gbshawtheatre.ie
-
-[back to Top 5 Must Do's](..)

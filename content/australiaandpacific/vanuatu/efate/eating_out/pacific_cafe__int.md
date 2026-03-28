@@ -31,8 +31,6 @@ Internet is available and also CHEAP!
 
 **Contributors**
 August 17, 2007
-new
-by [fevy](/member/fevy)
 
 type: Cheap
 
@@ -47,5 +45,3 @@ address: Lini Highway, (Opposite The Sebel Hotel), Ballande Centre (D Dock), Por
 PriceOfMenu: Starting @ 100 vatu ($1) to 990 vatu ($9.90)
 
 email: pacificcafe@vanuatu.com.vu
-
-[back to Eating Out](..)

@@ -13,8 +13,6 @@ Billy Miner's Saloon is located just west of the DFW Airport in Fort Worth, Texa
 
 **Contributors**
 June 22, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: American
 
@@ -31,5 +29,3 @@ address: 150 W. 3rd Street - Fort Worth, Texas
 PriceOfMenu: $3.00 to $14.00
 
 email: cyberrodeo@comcast.net
-
-[back to Eating Out](..)

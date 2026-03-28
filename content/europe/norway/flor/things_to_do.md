@@ -14,7 +14,3 @@ type: section
 **Sea Rafting**
 
 ****The adrenaline rushing through your veins, the engine roaring and the sea spray splashing all around you! This is speed, excitement and fun. With 200hp and a top speed of 60 knots we go west towards the ocean. The target is Svanøy, Kinn or perhaps Ytterøyane? What about a quick [more..](/europe/norway/flor/things_to_do/sea_rafting)
-
-## Subsections
-
-[Rafting](/europe/norway/flor/things_to_do/rafting)

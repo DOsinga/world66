@@ -7,7 +7,7 @@ type: section
 
 **St. Peter cathedral**
 
-The unrivalled architectural highlight of Worms is the Cathedral. The building is dedicated to St. Peter and had been built between 1170 and 1230. The beginnings of St. Peter's, however, date back to the year 600, and the cathedral itself was erected on the foundations of an earlier one, built by bishop Burchard (1000-1025). The roman-style building is one of the three "Imperial Cathedrals", together with the ones at [Speyer](/europe/germany/badenwrttemberg/speyer) and, of course, [Mainz](/europe/germany/rhinelandpalatinate/mainz). [more..](/europe/germany/rhinelandpalatinate/worms/sights/stpetercathedral)
+The unrivalled architectural highlight of Worms is the Cathedral. The building is dedicated to St. Peter and had been built between 1170 and 1230. The beginnings of St. Peter's, however, date and, of course, [Mainz](/europe/germany/rhinelandpalatinate/mainz). [more..](/europe/germany/rhinelandpalatinate/worms/sights/stpetercathedral)
 
 **Jewish synagogue**
 
@@ -44,5 +44,3 @@ openings: November-April: Tuesday-Saturday 2pm-4pm, Sunday 10am-12am &2pm-4pm. M
 **Zoological Garden**
 
 The zoological garden Worms offers the visitor a possibility to have a quiet meeting with the local fauna, even with species that have been extinct in the area since days of old. Come and see red deer, wolves, boars, "Heidschnucken" (moorland sheep) and even the largest herd of Fernendez-goats. Many birds are also dwelling here, owls and other birds of prey as well as ducks, geese, herons and storks. [more..](/europe/germany/rhinelandpalatinate/worms/sights/zoologicalgarden)
-
--->

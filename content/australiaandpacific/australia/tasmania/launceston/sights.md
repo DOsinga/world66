@@ -46,5 +46,3 @@ Built in the 1860's, this is the last genuine period shop in Tasmania. All the p
 address: 60 George Street
 
 openinghours: Mon. - Fri. 9.00 - 17.00; Sat. 9.00 - 12.00
-
--->

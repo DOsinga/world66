@@ -50,9 +50,3 @@ per person. Don’t forget to take some time to enjoy the popular
 boardwalk and beach as well!
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

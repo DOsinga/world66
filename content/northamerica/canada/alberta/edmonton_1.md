@@ -1,9 +1,9 @@
 ---
-title: "Edmonton Travel Guide"
+title: "Edmonton"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Edmonton, which traces its roots back to
 1795, began as a fur-trading outpost. Just over 100 years later, during the
@@ -26,9 +26,3 @@ Stanley Park.
 Edmonton is also one of Canada’s
 sunniest cities with about 2,300 hours of sunshine per year. In June, the city
 enjoys up to 17 hours of daylight per day.
-
-*Part or or all of this text stems from the original article at: www.edmonton.com*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 22:57

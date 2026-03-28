@@ -31,5 +31,3 @@ In Nijmegen, nature and history blend in perfectly, which gives visitors a one o
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

@@ -15,5 +15,3 @@ Ask anybody in Blantyre where it is.
 
 **Contributors**
 August 03, 2006
-change
-by [giorgio](/member/giorgio)

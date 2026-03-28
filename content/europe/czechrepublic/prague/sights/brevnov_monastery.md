@@ -8,13 +8,5 @@ Brevnov Monastery is a X century benedectine monastry located in Prague 6, west 
 
 **Contributors**
 February 06, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Monasteries
-
-
-
-
-
-[back to Sights](..)

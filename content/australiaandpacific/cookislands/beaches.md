@@ -22,5 +22,3 @@ with Raratoga's beaches (as I am).
 
 **Contributors**
 May 28, 2006
-new
-by [marko7](/member/marko7)

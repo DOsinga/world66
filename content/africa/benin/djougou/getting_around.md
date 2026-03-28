@@ -7,8 +7,6 @@ Djougou is small enough to get around on foot. However, when staying in a hotel 
 
 **Contributors**
 February 03, 2008
-change
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 ### [Zemidjan](/africa/benin/djougou/getting_around/moto)
 

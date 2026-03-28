@@ -11,7 +11,3 @@ There are other delightful roads in the north-east leading to Elduvik and Oyndar
 The south of the island is supposedly less dramatic but has a lake near Nes highly reputed for its bird life.
 
 type: Landmarks
-
-
-
-[back to Sights](..)

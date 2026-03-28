@@ -1,8 +1,6 @@
 ---
 title: "North Cape"
 type: location
-latitude: 71.169951
-longitude: 25.785889
 ---
 
 The North Cape is the northern most community in Finnmark with 924 square kilometers. About half of area is located on an island called Magerøya. The community has approximately 4000 inhabitants. The community administration office is located in the village of Honningsvåg. 

@@ -7,8 +7,6 @@ The island of Kos has various very beautiful beaches turned into popular tourist
 
 **Contributors**
 June 07, 2005
-new
-by [giorgio](/member/giorgio)
 
 ### Tingaki
 

@@ -17,5 +17,3 @@ type: Hotspots
 url: [www.imaxmalecon2000.com](http://www.imaxmalecon2000.com)
 
 address: Pier 2000
-
-[back to Sights](..)

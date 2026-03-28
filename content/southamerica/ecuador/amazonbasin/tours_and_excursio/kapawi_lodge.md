@@ -24,5 +24,3 @@ url: [www.wildlifeamazon.com](http://www.wildlifeamazon.com)
 address: Streets Quito y Bolivar / Coca Orellana
 
 email: robertvaca@wildlifeamazon.com
-
-[back to Tours and Excursions](..)

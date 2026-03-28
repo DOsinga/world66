@@ -16,5 +16,3 @@ Quality Stuff HERE!!
 
 
 email: weedspot2@gmail.com
-
-[back to Budget Travel Ideas](..)

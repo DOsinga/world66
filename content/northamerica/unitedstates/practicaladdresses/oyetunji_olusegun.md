@@ -20,5 +20,3 @@ tel: +234 704 214 4445
 address: 15,Olatunde Sule Street,Olowora,Ojodu,Berger,Lagos State,Nigeria.
 
 email: shigola01@yahoo.com
-
-[back to Practical Information](..)

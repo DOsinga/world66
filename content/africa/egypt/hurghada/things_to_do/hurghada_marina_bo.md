@@ -17,8 +17,6 @@ Live music every Friday witnesses talent flying in from abroad or popping down f
 
 **Contributors**
 June 28, 2008
-new
-by [overdose](/member/overdose)
 
 type: Other
 
@@ -35,5 +33,3 @@ url: [www.HurghadaMarina.com](http://www.HurghadaMarina.com)
 address: Hurghada Marina Boulevard, Hurghada
 
 email: Emma@Solutions-RedSea.com
-
-[back to Things to do](..)

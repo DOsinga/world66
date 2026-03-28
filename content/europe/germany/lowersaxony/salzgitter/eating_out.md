@@ -4,16 +4,12 @@ type: section
 address: "Berliner Strasse 144, 38226 Salzgitter"
 phone: "0049-5341-62623"
 type: "Chinese"
-latitude: 52.161648
-longitude: 10.336381
 ---
 
 Here is a small choice of cafés and restaurants in Salzgitter.
 
 **Contributors**
 August 14, 2006
-new
-by [bernhadette](/member/bernhadette) (1 point)
 
 ### [Sun-Garden](/europe/germany/lowersaxony/salzgitter/eating_out/sungarden)
 

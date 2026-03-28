@@ -1,9 +1,9 @@
 ---
-title: "Dormitor Travel Guide"
+title: "Dormitor"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Dormitor National park located in the north of Montenegro.
 
@@ -22,13 +22,3 @@ It's advisable to supply your own **map **unless you have a good knowledge of cy
 There have been a number of deaths in the mountains due to adverse weather conditions.
 
 Make sure you bring your camera. The scenery is **second to none**, surpassing anything else available in Montenegro.
-
-*Part or or all of this text stems from the original article at: http://www.michaeltyler.co.uk*
-
-#### Contributors
-
-February 25, 2008 change by [lpx](/member/lpx) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 17:58

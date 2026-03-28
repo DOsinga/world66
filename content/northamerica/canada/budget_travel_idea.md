@@ -54,9 +54,5 @@ early bird discounts).
 
 **Contributors**
 February 17, 2010
-change
-by [ctanios](/member/ctanios)
 
 February 16, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

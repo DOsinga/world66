@@ -23,8 +23,4 @@ type: section
 
  Rome's main railroad station (stazione centrale Roma termini) you will reach by every train station in Italy. It is situated east of the historic city centre. Within an 15min walk you can easily reach Santa Maria Maggiore, San Pietro in Vincoli, Piazza Vittorio, Colosseo or Museo Nazionale Romano.
 
- FF. SS Termini, piazza dei Cinquecento, Tel. +39/6/4775  
-
-## Subsections
-
-[By Air](/europe/italy/lazio/rome/gettingthere/byair)
+ FF. SS Termini, piazza dei Cinquecento, Tel. +39/6/4775

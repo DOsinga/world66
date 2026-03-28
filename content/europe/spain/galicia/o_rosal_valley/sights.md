@@ -17,7 +17,4 @@ Includes visit to vineyard: Yes
 
 Maximum number of visitors: s/n (without number)
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 09 March 05
-
-Minor corrections by [EuroAdventures](/member/euroadventures) on 09 March 05
+Minor corrections on 09 March 05

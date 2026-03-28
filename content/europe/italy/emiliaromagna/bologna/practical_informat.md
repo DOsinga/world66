@@ -79,9 +79,5 @@ animation and special effects.
 
 **Contributors**
 April 10, 2010
-new
-by [palm tree mandy](/member/palm_tree_mandy)
 
 April 13, 2010
-change
-by [ctanios](/member/ctanios)

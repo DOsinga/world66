@@ -24,5 +24,3 @@ url: [amullet.com](http://amullet.com)
 address: 150 Vasil Levski Blv., 6 floor
 
 email: office@amullet.com
-
-[back to Nightlife and Entertainment](..)

@@ -17,5 +17,3 @@ type: general
 address: Via Molo di Ponente al Porto 16,
 
 tel: 0184-506855
-
-[back to Eating Out](..)

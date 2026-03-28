@@ -1,0 +1,4 @@
+---
+title: "Durant"
+type: location
+---

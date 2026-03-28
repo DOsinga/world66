@@ -136,6 +136,3 @@ www.ohiohistory.org/places/quaker
 For Tourism Itineraries, Click Here: 
 
 http://www.steubenvilleoh.com/Itineraries.htm
-
-*Change history*
-Orginal article by [glimmmer](/member/glimmmer) on 09 June 04

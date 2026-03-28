@@ -1,9 +1,9 @@
 ---
-title: "Eureka, CA Travel Guide"
+title: "Eureka, CA"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Eureka California is 275 miles north of San Francisco, along th Pacific
 Coast Highway 101. Visitors are overwhelmed by the beauty of the giant
@@ -26,11 +26,3 @@ Eureka.
 Blues By the Bay August 30 & 31 features an amazing
 line-up of world premier blues musicians in Halvorsen Park Eureka on
 the beautiful Humboldt Bay.
-
-#### Contributors
-
-August 06, 2008 new by [seebigtrees](/member/seebigtrees)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 22:09

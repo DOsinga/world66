@@ -10,8 +10,6 @@ Winter, summer, spring or fall, there is always something fun and exciting to do
 
 **Contributors**
 June 04, 2008
-change
-by [mcburton](/member/mcburton)
 
 ### [North Avenue Beach](/northamerica/unitedstates/illinois/chicago/things_to_do/north_avenue_beach)
 

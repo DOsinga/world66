@@ -1,8 +1,6 @@
 ---
 title: "Bogota"
 type: location
-latitude: 4.653382
-longitude: -74.083633
 ---
 
 Most visitors begin their trip to Colombia in the capital: {**Bogota**.} Also known as Santa Fe de Bogota the city is set at an altitude of 22640 meter (over 18000 feet) with high ranges of the Cordillera to the east and it can happen that you need some time to adjust to this altitude, if you are coming from lower parts of the country or flying in. 

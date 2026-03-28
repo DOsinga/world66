@@ -21,8 +21,6 @@ fanatics from all over the world.
 
 **Contributors**
 December 30, 2009
-new
-by [goscotlandtours](/member/goscotlandtours)
 
 ### [Day Tour to St. Andrews](/europe/unitedkingdom/scotland/standrews/day_trips/day_tour_to_st_an)
 

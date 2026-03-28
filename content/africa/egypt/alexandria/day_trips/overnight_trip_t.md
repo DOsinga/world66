@@ -5,8 +5,6 @@ address: "124, Haram street, Giza, Egypt"
 email: "magdy@egyptonlinetours.com"
 phone: "0020162922290"
 url: "www.egyptonlinetours.com"
-latitude: 29.781817
-longitude: 31.284695
 ---
 
 Departure : Daily
@@ -32,7 +30,7 @@ st1\:*behavior:url(#ieooui)
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 ** **
 
@@ -62,79 +60,7 @@ capital of Egypt memphis
 - Optional **tour** to attend the sound and light show at pyramids
 area or amused with **dinner cruise** with belly dance
 
-**Day 2: Egyptian Museum, Old Cairo back to Alexandria**
-
-- Breakfast in your hotel in **cairo****
-
-**- Will meet and assist by your **tour guide** to the **Egyptian
-museum****
-
-**- Then visit the oldest part of cairo
-
-- Free time for shoping and optional tours
-
-- Lunch will be served during **Cairo tour****
-
-**- Transfer back **to Alexandria** direct to your hotel
-
-**Price Includes:-**
-
--
-Pick up services from your hotel in **Alexandria****
-
-**-All transfer by air-conditioned vehicle
-
--Enterance fees to the **sights in Cairo**
-as per itinerary
-
--Lunch during the tour at a high quality restaurant in** Cairo**
--Egyptologist English speaking **tour Guide** in Cairo
-
--Hotel accommodation for 1 night in Cairo at
-five star hotel
-
--Drop off services from your hotel in **Alexandria**
-
-**Price Excludes:-**
-
-Optional tours and personal expenses:
-
-- Sound and Light show at **Pyramids** area
-
-- Dinner **cruise** with belly dance show****
-
-** **
-
-**General Info:-**
-
-Pick up from your hotel lobby by our REP with
-a board reflecting your name
-
-Pick up time at 07:00
-
-Return back at 20:00****
-
-** **
-
-**Price Info:-**
-
-Prices are quoted in USD currency per
-person, minimum 2 persons traveling together
-
-Normal
-0
-
-false
-false
-false
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
-
-**Tour guide**
+**Day 2: Egyptian Museum, Old Cairo **Tour guide**
 
 Egypt guided tours are highly recommended and our guides are knowledgeable
 Egyptologist guides who have academic qualifications to make your tour to Egypt
@@ -206,5 +132,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Sightseein
 address: 124, Haram street, Giza, Egypt
 
 email: magdy@egyptonlinetours.com
-
-[back to Day Trips](..)

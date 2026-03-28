@@ -11,9 +11,7 @@ The Cathedral of Santa Maria del Fiore has become the symbol of Florence. For mo
 
 **The Baptistry**
 
-The Baptistry of Saint John the Baptist is located in the same square as the duomo, and well worth a peek inside. The structure dates back to the eleventh century and is made up of beautiful white and green marble with three amazing bronze doors (the originals of which are in the Duomo Museum). Inside are beautiful mosaics, and the floor contains a pavement of marble that depicts the zodiac.
-
-**[Museo dell'Opera di Santa Croce](/europe/italy/tuscany/florence/museums)**
+The Baptistry of Saint John the Baptist is located in the same square as the duomo, and well worth a peek inside. The structure dates **
 
 The Santa Croce is the largest Franciscan monastery in Italy and contains elaborate stained-glass windows and paintings by some of Italy's most famous artists. But the big draw is that the Santa Croce is the final resting place of Florence's most amazing men, including Galileo, Michelangelo, Dante and Machiavelli. Take your time walking amongst the tombs, but be sure to go into the museum as well.
 
@@ -27,5 +25,3 @@ Once the home of the Medici family, this palace contains fabulous exhibits and a
 
 **Contributors**
 August 17, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

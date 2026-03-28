@@ -10,7 +10,3 @@ address: Grosse Johannisstrasse 2
 openinghours: Mon-Sat 11am-10:30pm, Sun 11am-4pm. Closed holidays
 
 tel: +49-40-36 41 53
-
-[back to Eating Out](..)
-
--->

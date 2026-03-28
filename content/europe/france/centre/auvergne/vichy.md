@@ -1,0 +1,4 @@
+---
+title: "Vichy"
+type: location
+---

@@ -8,11 +8,5 @@ Mumine Khatum Tomb – the huge monument of Azerbaijan national architecture, on
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Graves and Cemeteries
-
-
-
-[back to Sights](..)

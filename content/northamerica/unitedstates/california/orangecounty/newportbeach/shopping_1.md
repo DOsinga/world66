@@ -13,5 +13,3 @@ Hi Times is the wine store in all of Orange County. They have terrific monthly b
 
 **Contributors**
 January 19, 2008
-new
-by [hemphillbrett](/member/hemphillbrett)

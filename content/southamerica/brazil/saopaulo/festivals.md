@@ -11,8 +11,6 @@ repeat every year. It is worth to know where and when they occur.
 
 **Contributors**
 June 12, 2006
-new
-by [roberto alamino](/member/roberto_alamino) (2 points)
 
 ### [International Convention of RPG](/southamerica/brazil/saopaulo/festivals/international_conv)
 

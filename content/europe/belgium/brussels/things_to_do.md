@@ -19,17 +19,10 @@ type: Other
 
 url: [www.affiliate.viator.com](http://www.affiliate.viator.com/brochure/product_show.jsp?CODE=2200HOHO1&ID=1010&PRODUCTID=1016&AUID=3427)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

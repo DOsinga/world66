@@ -7,5 +7,3 @@ Do you know the way to San Jose? You should, since there are many options in mak
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

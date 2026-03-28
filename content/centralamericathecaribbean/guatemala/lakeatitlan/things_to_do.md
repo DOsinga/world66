@@ -7,8 +7,6 @@ email: "info@cojolya.org"
 phone: "+50277217268"
 type: "Other"
 url: "www.cojolya.org"
-latitude: 14.608383
-longitude: -91.242402
 ---
 
 Preparing your **Lake Atitlan things to do**

@@ -7,8 +7,6 @@ opening_hours: "froM 8 am until midnight, monday to sunday, we never close!!!"
 phone: "0051+84+247373"
 price: "2.00 soles"
 url: "www.speedxcusco.com"
-latitude: -13.514736
-longitude: -71.980671
 ---
 
 -WE HAVE SCANNER, PRINTER, USB PORTS, CD BURNER,

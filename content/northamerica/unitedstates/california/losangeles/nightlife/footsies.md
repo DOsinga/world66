@@ -11,8 +11,6 @@ Los Angeles nightlife is often based on the glitz and glamour of Hollywood. Expe
 
 **Contributors**
 April 10, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Pubs
 
@@ -23,5 +21,3 @@ tel: (323) 221-6900
 url: [www.myspace.com](http://www.myspace.com/footsiesbar)
 
 address: 2640 N Figueroa St
-
-[back to Nightlife and Entertainment](..)

@@ -15,17 +15,8 @@ Continuing our journey through the nothern parts of Spain, we will have our next
 
 Next to Cantabria you'll find the famous Basque country or Euskadi in the Basque language. When it isn't raining, Euskadi is one of the most charming parts of Spain with a very various landscape. [San sebastian](/europe/spain/northernspain/sansebastian) was the place where the wealthy Spaniards spent their summer bathing long before there were any costas. Furthermore you find [Bilbao](/europe/spain/northernspain/bilbao) which as a city of interest in this Basque region. 
 
-La Rioja is a Spanish region that you'll find right under the Basque land. The main attractions here is [Burgos](/europe/spain/northernspain/burgos) which is a genteel and quite pleasant town. 
+La Rioja is a Spanish region that you'll find right under the Basque land. Famous because of its wonderful wine, this region's principal town is Logroño. 
 
-Our 'Northern journey' ends in the region where you can see some of the more western Pyrenees; Navarra. In the region Navarra [Pamplona](/europe/spain/northernspain/pamplona) (the capital) is a very recommendable city.
+In the north of the region called Castilla León you'll find the city of [Burgos](/europe/spain/northernspain/burgos), which is a genteel and quite pleasant town. 
 
-## Destinations
-
-- [Bilbao](/europe/spain/northernspain/bilbao)
-- [Burgos](/europe/spain/northernspain/burgos)
-- [Leon](/europe/spain/northernspain/leon)
-- [Oviedo](/europe/spain/northernspain/oviedo)
-- [Pamplona](/europe/spain/northernspain/pamplona)
-- [San sebastian](/europe/spain/northernspain/sansebastian)
-- [Santiago de Compostela](/europe/spain/northernspain/santiagodecompostela)
-- [Vigo](/europe/spain/northernspain/vigo)
+Our 'Northern journey' ends in the region where you can see some of the more western Pyrenees: Navarra. In the region Navarra [Pamplona](/europe/spain/northernspain/pamplona) (the capital) is a very recommendable city.

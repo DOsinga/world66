@@ -19,13 +19,7 @@ The city of Dunkirk holds many points of interest for the visitor. World War II 
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 25, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 26, 2010
-change
-by [nam](/member/nam)

@@ -9,5 +9,3 @@ Now the Kansas Wheat Festival is a five-day event held every July with a parade,
 
 **Contributors**
 February 18, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)

@@ -1,9 +1,9 @@
 ---
-title: "Carpathian Mountains Travel Guide"
+title: "Carpathian Mountains"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Ukrainian Carpathian Mountains (Karpaty) are part of Central European mountain system, forming a semicircle through Slovakia–Poland–Ukraine–Moldova–Romania.
 This region is very popular tourist destination.
@@ -20,11 +20,3 @@ in Ukraine after the Crimea. Various mineral springs—carbonic acid,
 salt, iodine salt, bitter, and petroleum—occur.
 
 * Part of this text stems from the original article at Encyclopedia of Ukraine ( www.encyclopediaofukraine.com) *
-
-#### Contributors
-
-July 07, 2006 new by [svetico](/member/svetico) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 14:21

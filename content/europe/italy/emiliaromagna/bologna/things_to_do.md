@@ -25,5 +25,3 @@ Santo Stefano is actually a complex of churches, crypts and chapels. Originally 
 
 **Contributors**
 April 06, 2010
-new
-by [piyushjain](/member/piyushjain_)

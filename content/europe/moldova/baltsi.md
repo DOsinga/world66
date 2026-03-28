@@ -1,0 +1,4 @@
+---
+title: "Baltsi"
+type: location
+---

@@ -65,9 +65,5 @@ sunny shore.
 
 **Contributors**
 March 12, 2010
-change
-by [ctanios](/member/ctanios)
 
 March 29, 2010
-change
-by [suegabel](/member/suegabel)

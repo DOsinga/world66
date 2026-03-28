@@ -1,0 +1,4 @@
+---
+title: "Goiania"
+type: location
+---

@@ -29,5 +29,3 @@ url: [www.blastours.com](http://www.blastours.com)
 address: No. 10 Palm Street, CFC Estates, Dome
 
 email: info@blastours.com
-
-[back to Day Trips](..)

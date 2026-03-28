@@ -10,8 +10,6 @@ There's only one cafe in Noordpolderzijl and (apart from the pumping-station) it
 
 **Contributors**
 March 07, 2005
-change
-by [hollandtraveler](/member/hollandtraveler)
 
 ### ['t Zielhoes](/europe/netherlands/noordpolderzijl/bars_and_cafes/t_zielhoes)
 

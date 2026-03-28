@@ -5,8 +5,6 @@ address: "Hurghada,Egypt"
 email: "info@albaraagroup.com"
 phone: "0020100850146"
 url: "www.albaraagroup.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 **Pick up place:** Any ship in **Safaga port
@@ -32,50 +30,6 @@ afterlife of the pharaohs, you will visit 3 tombs Continue the tour to
 visit the **Hatshepsut temple** at El Deir El Bahary, this impressive temple dedicated to the **Queen Hatshepsut **the
 only female pharaoh rises out of the desert plain in a series of
 terraces and merges with the sheer limestone cliffs that surround it,
-free time in Luxor, then return back to **Safaga port Red Sea** with direct transfer to your ship in **Safaga port, Red Sea.**
-
-Tour Includes:
-
-- Pick up and drop off services from your Cruise in Safaga Port
-- Admission fees to the sights in Luxor as per itinerary
-- Lunch during the tour in local restaurant in Luxor
-- English speaking tour guide in Luxor
-- All transfer by air-conditioned vehicles in Safaga and Luxor
-- 5 star hotel accommodation in Luxor for 1 night with breakfast
-- Personal travel REP assistance during the tour
-- All hotel charges and taxes in Luxor.
-
-Tour Excludes:
-
-- Any item is not mentioned
-
-**Payment plan:**
-
-25% down payment required to secure the booking and can be done online by Credit card, Visa and Master or bank transfer
-
-75% balance will required in pick up from your hotel in the tour day and can be paid by credit cards or cash
-
-**Booking:**
-
-Booking of your trip will be complete and confirmed by your tour
-designer as soon as we receive the 25% down payment. Booking
-Confirmation will be sent to you by email in a maximum 1 hour after
-payment.
-
-Email: info@albaraagroup.com
-
-Website: www.albaraagroup.com
-
-
-
-
-
-tel: 0020100850146
-
-url: [www.albaraagroup.com](http://www.albaraagroup.com)
-
-address: Hurghada,Egypt
+free time in Luxor, then return address: Hurghada,Egypt
 
 email: info@albaraagroup.com
-
-[back to Budget Travel Ideas](..)

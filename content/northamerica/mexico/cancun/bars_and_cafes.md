@@ -27,9 +27,5 @@ This is a great place to visit after you have been to 1 of the local restaurants
 
 **Contributors**
 February 12, 2010
-change
-by [shomer](/member/shomer)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

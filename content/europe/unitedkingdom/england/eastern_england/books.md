@@ -64,5 +64,3 @@ Olympia Auto Mall
 http://pvtgzz.in/13w
 Creative Voice Mail Messages
 http://odwjme.in/e6
-
-*Part or or all of this text stems from the original article at: Pattie Black*

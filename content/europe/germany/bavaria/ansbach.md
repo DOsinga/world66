@@ -1,0 +1,4 @@
+---
+title: "Ansbach"
+type: location
+---

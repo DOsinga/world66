@@ -8,7 +8,3 @@ Check out landmarks, neighborhoods, recreation areas and more on the "Dallas Vie
 email: gil@gilglover.com
 
 url: [www.gilglover.com](http://www.gilglover.com)
-
-[back to Sights](..)
-
--->

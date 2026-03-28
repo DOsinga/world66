@@ -14,7 +14,3 @@ Along this walk you will find paths through the trees along rivers, fields and v
 It's a moderate walk, estimated to take about four hours although fast walkers may do it in around 3hrs.
 
 If you do the full walk then take some food with you as may find your appetite building once you are further from restaurants.
-
-
-
-[back to Day Trips](..)

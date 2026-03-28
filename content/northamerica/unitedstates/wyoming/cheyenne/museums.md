@@ -7,5 +7,3 @@ If you enjoy the rodeo, then one of your Cheyenne activities should be a visit t
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

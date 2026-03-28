@@ -1,0 +1,4 @@
+---
+title: "Dededo"
+type: location
+---

@@ -1,8 +1,6 @@
 ---
 title: "Tusculum"
 type: location
-latitude: 41.797721
-longitude: 12.707404
 ---
 
 We currently have no information about Tusculum.

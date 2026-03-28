@@ -8,8 +8,6 @@ I lived in Lome for 18months. I can't think why anyone would want to visit as a 
 
 **Contributors**
 February 02, 2008
-new
-by [wendy cuijpers](/member/wendy_cuijpers)
 
 ### [Fetish Market](/africa/togo/lome/sights/fetish_market)
 

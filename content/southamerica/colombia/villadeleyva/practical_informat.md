@@ -31,5 +31,3 @@ Some of the best kept secrets are found just outside of the city walls. An ostri
 
 **Contributors**
 April 14, 2010
-change
-by [palm tree mandy](/member/palm_tree_mandy)

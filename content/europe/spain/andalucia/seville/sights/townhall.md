@@ -12,5 +12,3 @@ type: general
 
 
 address: San Francisoc Square
-
-[back to Sights](..)

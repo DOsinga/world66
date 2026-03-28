@@ -12,6 +12,3 @@ Santa Monica definitely has everything to relieve you of your stress while trave
 If people watching is what you're really after, go to the Santa Monica Pier for its boardwalk ambience. The heart of Santa Monica is the 3rd St Promenade, a sort of small mall where you can find about anything and where musicians and mimes perform and artists sketch among sidewalk cafés and shops. The famous Santa Monica pier, built between 1908 and 1921, is the oldest pleasure pier on the West Coast.
 
 Besides the friendly beaches Santa Monica also offers nice restaurants and perfect bars for dancing or just to simply take a cup of coffee there during daytime... So, come and see the things Santa Monica has to offer and if you want you can visit the nearby [Beverly Hills](/northamerica/unitedstates/california/losangeles/beverlyhills), [Hollywood](/northamerica/unitedstates/california/losangeles/hollywood) or [Pasadena](/northamerica/unitedstates/california/losangeles/pasadena).
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 18 March 04

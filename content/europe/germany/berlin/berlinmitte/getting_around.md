@@ -20,5 +20,3 @@ Bike rental
 address: Oranienburger Str.
 
 connections: S Hackescher Markt
-
--->

@@ -57,7 +57,3 @@ Thank you.
 *
 
 type: Tourist information
-
-
-
-[back to Practical Information](..)

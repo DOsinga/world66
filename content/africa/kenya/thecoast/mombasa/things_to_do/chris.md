@@ -24,5 +24,3 @@ url: [www.peponidivers.ch](http://www.peponidivers.ch)
 address: Mt. Kenya Road, c/o Bahari Beach Hotel
 
 email: diving@peponidivers.ch
-
-[back to Things to do](..)

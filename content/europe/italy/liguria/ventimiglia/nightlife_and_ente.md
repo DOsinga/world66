@@ -7,8 +7,6 @@ j
 
 **Contributors**
 February 27, 2010
-change
-by [kwalker](/member/kwalker)
 
 We currently have no Nightlife and Entertainment listed in Ventimiglia.
 

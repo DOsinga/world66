@@ -10,5 +10,3 @@ Here you can barter for handcrafted items, paintings, *matroshka*(nesting dolls)
 Here you can barter for handcrafted items, paintings, *matroshka*(nesting dolls), etc. If you are staying a while it is possible to get an artist to make a set of nesting dolls of your family, of famous celebrities, or of past Russian Leaders. "
 dc:creator="World66"
 dc:date="" />
-
--->

@@ -1,9 +1,9 @@
 ---
-title: "AIRPORT LJUBLJANA Travel Guide"
+title: "AIRPORT LJUBLJANA"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Airport Ljubljana taxi
 
@@ -47,9 +47,3 @@ Airport Ljubljana Portorose, Piran, Koper, Isola 120 Eur
 Services : Shuttle transport from to Ljubljana Airport - VIP transfer from Ljubljana Airport, individual taxi transfer ( 4 persons) from Ljubljana to the airport -
 
 http://www.taxiairportljubljana.co.uk/Airport_Ljubljana_taxi.php
-
-*Part or or all of this text stems from the original article at: http://www.taxiairportljubljana.co.uk/Airport_Ljubljana_taxi.php*
-
-Page last generated on Wed 15:48
-
--->

@@ -1,9 +1,9 @@
 ---
-title: "Westley Travel Guide"
+title: "Westley"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 As of the census GR2 of 2000, there were 747 people, 139 households, and 128 families residing in the CDP. The population density
 was 171.7/km² (445.4/mi²). There were 151 housing units at an average
@@ -26,11 +26,3 @@ For every 100 females there were 126.4 males. For every 100 females age
 The median income for a household in the CDP was $20,417, and the
 median income for a family was $21,458. Males had a median income of
 $16,691 versus $23,750 for females. The per capita income for the CDP was $6,137. About 42.6% of families and 64.9% of the population were below the poverty line, including 68.3% of those under age 18 and 27.8% of those age 65 or over.
-
-#### Contributors
-
-July 02, 2007 change by [mehul](/member/mehul)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:18

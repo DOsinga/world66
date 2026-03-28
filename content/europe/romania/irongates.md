@@ -1,8 +1,6 @@
 ---
 title: "Iron gates"
 type: location
-latitude: 44.662682
-longitude: 22.055938
 ---
 
 We currently have no information about Iron gates.

@@ -19,8 +19,6 @@ Another Texas Style dish popping up is the "*Buffalo Plate*", fashioned after th
 
 **Contributors**
 December 20, 2005
-new
-by [allamericanbear](/member/allamericanbear)
 
 type: Local
 
@@ -37,5 +35,3 @@ PriceOfMenu: reasonably priced.
 email: fourlongsathome@adelphia.net
 
 accessibility: wheel chair accesible
-
-[back to Eating Out](..)

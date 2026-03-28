@@ -28,5 +28,3 @@ far from Leidseplein, from 8.50 euro for the first day, going down to
 
 **Contributors**
 July 19, 2005
-change
-by [giorgio](/member/giorgio)

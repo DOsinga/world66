@@ -57,5 +57,3 @@ don't need to have exact fare because the driver will provide change.
 
 **Contributors**
 March 19, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

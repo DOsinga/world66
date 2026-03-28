@@ -25,5 +25,3 @@ address: Steuerndieb 1 (Bothfeld)
 url: [www.steuerndieb.de](http://www.steuerndieb.de/)
 
 tel: +49 0 511 9 09 96-0
-
-[back to Eating Out](..)

@@ -1,0 +1,4 @@
+---
+title: "Nawanshahr"
+type: location
+---

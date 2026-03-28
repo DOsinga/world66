@@ -8,8 +8,3 @@ Austria is connected by all kinds of communications. Generally all travelers mak
 Austria has excellent rail connections to all major European destinations. They are probably the most comfortable and environmentally responsible way to travel overland.
 
 Buses are generally slower and less comfortable than trains, but they are cheaper and they go to all major European countries.
-
-*Change history*
-Orginal article by [giorgio](/member/giorgio) on 13 January 05
-
--->

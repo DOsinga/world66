@@ -1,14 +1,9 @@
 ---
 title: "La Miroiterie"
 type: poi
-latitude: 48.877712
-longitude: 2.338375
 ---
 
 La Miroiterie is a colourful ''magasin gratuit'' in a squat. The clothes and books all cost 0 euro - though donations are welcome, both monetary as well as in the form of clothes and books.
-
-*Change history*
-Orginal article by [Guaka](/member/guaka) on 25 June 04
 
 bookingurl: [www.lamiroit.com](http://www.lamiroit.com)
 

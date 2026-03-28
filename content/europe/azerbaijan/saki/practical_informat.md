@@ -14,5 +14,3 @@ Fall - quite warm during the day, but at night it gets a bit chilly, so pack a j
 
 **Contributors**
 December 06, 2006
-change
-by [giorgio](/member/giorgio)

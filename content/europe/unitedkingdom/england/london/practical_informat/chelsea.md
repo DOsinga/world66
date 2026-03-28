@@ -8,13 +8,5 @@ Chelsea is a district of London, bounded to the south by the River Thames, where
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

@@ -23,5 +23,3 @@ tel: +55 +21 2264-7581
 url: [www.trip2rio.com](http://www.trip2rio.com)
 
 email: trip2rio@gmail.com
-
-[back to Tours and Excursions](..)

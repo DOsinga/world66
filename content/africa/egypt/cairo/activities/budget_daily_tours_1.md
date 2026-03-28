@@ -56,50 +56,6 @@ Price: Only US$ 55 per person
 
 Option 4 – Sound & Light Show at the Pyramids of Giza.
 
-We will take you from your hotel to the Sound & Light Show at the Pyramids of Giza before the show starts. After the show finishes, we will take you to a clean local restaurant for dinner and then back to your hotel.
-
-This tour includes all transfers, ticket to the Sound & Light Show and Dinner.
-
-Price: Only US$ 45 per person
-
-…………………………………………………………………………………………………………………................................................
-
-Option 5 – Dinner Cruise on the Nile in Cairo
-
-Our representative will take you from your hotel to the Nile Cruise ship.
-The Dinner Cruise is available from 08:00 pm until 22:00 pm. It includes an open buffet dinner, belly dancing and tanura show and you can also enjoy the beautiful view over the Nile. After your dinner, we will transfer you back to your hotel.
-
-Price: Only US$ 45 per person
-
-Programs includes:
-All transfers to & from the locations on a private car with air conditioning.
-Multilingual expert egyptologist guide.
-All entrance fees to the specified locations.
-Meal on clean local restaurant* (unless otherwise stated)
-* Full meal for each person, beverages are not included.
-All service charges & taxes.
-
-Not Included:
-Visa to enter Egypt.
-Personal items.
-Tipping.
-Any other items not mentioned.
-Any optional tours.
-
-type: Other
-
-
-
-
-
-accessibility: just feel free to give us call or visit our website
-
-tel: +20 107944582
-
-url: [www.EgyptianDailyTours.com](http://www.EgyptianDailyTours.com)
-
-address: 37 Pyramids street, Giza, Egypt.
+We will take you from your hotel to the Sound & Light Show at the Pyramids of Giza before the show starts. After the show finishes, we will take you to a clean local restaurant for dinner and then address: 37 Pyramids street, Giza, Egypt.
 
 email: info@EgyptianDailytours.com
-
-[back to Things to do](..)

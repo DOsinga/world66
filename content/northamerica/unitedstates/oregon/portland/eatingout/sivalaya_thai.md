@@ -17,8 +17,6 @@ seafood or specials.
 
 **Contributors**
 October 13, 2005
-new
-by [qousqous](/member/qousqous)
 
 type: Thai
 
@@ -31,5 +29,3 @@ tel: 503-228-1509
 address: 4806 SE Stark Street
 
 PriceOfMenu: $7-15 per person
-
-[back to Eating Out](..)

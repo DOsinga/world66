@@ -34,5 +34,3 @@ tel: +1 (801) 582-5700
 url: [www.thepie.com](http://www.thepie.com)
 
 address: 1320 East 200 South, Salt Lake City, Utah
-
-[back to Eating Out](..)

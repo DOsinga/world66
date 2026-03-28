@@ -30,5 +30,3 @@ bus because there will be no space for you and your big bags to fit.
 
 **Contributors**
 December 01, 2009
-new
-by [damiandavilarojas](/member/damiandavilarojas)

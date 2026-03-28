@@ -1,0 +1,4 @@
+---
+title: "Kaleden"
+type: location
+---

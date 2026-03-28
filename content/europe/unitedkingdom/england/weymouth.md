@@ -1,0 +1,4 @@
+---
+title: "Weymouth"
+type: location
+---

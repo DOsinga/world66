@@ -16,5 +16,3 @@ address: Ave. Mohamed V
 tel: 212-68-51-50-87
 
 zipcode: 45900 - Zagora
-
--->

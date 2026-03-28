@@ -20,5 +20,3 @@ tel: (++34) 952 928 877
 url: [www.virtual-capeverde.com](http://www.virtual-capeverde.com)
 
 email: info@virtual-capeverde.com
-
-[back to Things to do](..)

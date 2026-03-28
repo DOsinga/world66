@@ -17,5 +17,3 @@ type: South American
 address: Cra 4A No 57-52
 
 PriceOfMenu: USD $15 per person
-
-[back to Eating Out](..)

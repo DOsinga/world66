@@ -28,9 +28,5 @@ away from Armacao de Pera than the Faro Airport.
 
 **Contributors**
 February 11, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

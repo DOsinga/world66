@@ -12,8 +12,6 @@ Designed by Sir Christopher Wren and erected 1664-1668, the Sheldonian Theatre h
 
 **Contributors**
 June 08, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -26,5 +24,3 @@ url: [www.sheldon.ox.ac.uk](http://www.sheldon.ox.ac.uk)
 address: University of Oxford Sheldonian Theatre, Broad Street, Oxford UK
 
 email: custodian@sheldon.ox.ac.uk
-
-[back to Things to do](..)

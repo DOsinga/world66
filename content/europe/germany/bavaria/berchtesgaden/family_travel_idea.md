@@ -23,5 +23,3 @@ Take the family on a historical venture that they will not soon forget when the 
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

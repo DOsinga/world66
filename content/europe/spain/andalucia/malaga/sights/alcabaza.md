@@ -2,8 +2,6 @@
 title: "Alcazaba"
 type: poi
 type: "Palaces"
-latitude: 36.722449
-longitude: -4.41643
 ---
 
 The King’s palace with beautiful gardens dating from the 11th century.
@@ -17,17 +15,7 @@ Córdoba,
 
 **Contributors**
 December 19, 2004
-change
-by [davidx](/member/davidx) (1 point)
 
 June 25, 2007
-change
-by [mkimura](/member/mkimura) (1 point)
 
 type: Palaces
-
-
-
-
-
-[back to Sights](..)

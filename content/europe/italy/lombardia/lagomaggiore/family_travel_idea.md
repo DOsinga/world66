@@ -39,5 +39,3 @@ The castle is located at the entrance to town. This castle was built as a reside
 
 **Contributors**
 February 19, 2010
-change
-by [ctanios](/member/ctanios)

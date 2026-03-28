@@ -14,5 +14,3 @@ type: general
 
 
 address: Place Lahcen Tamri
-
-[back to Eating Out](..)

@@ -16,5 +16,3 @@ drinks, smoothies and deserts.
 
 **Contributors**
 November 01, 2006
-new
-by [jhyatt](/member/jhyatt)

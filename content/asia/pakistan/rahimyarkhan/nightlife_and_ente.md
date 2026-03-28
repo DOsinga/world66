@@ -20,3 +20,22 @@ Other nightspots in the city offer a great range of cuisines. For the outdoor ba
 **Getting Modern**
 
 If your notion of Rahim Yar Khan nightlife revolves around a sophisticated contemporary restaurant, then you could go to Cafe Lamis and Diwan-E-Khas which both serve English, Continental and Chinese dishes. The surroundings are chic and the clientele are pleasantly amiable. The food is first-class and cooked by master chefs. If none of the above suit your nightlife tastes then Rahim Yar Khan residents would recommend perhaps another 20 first-class cafes and restaurants that are more popular with locals than travelers.
+
+**Rana Hotel**
+
+It is situated in front of Sheikh Zayed Hospital and medical college. Rana Hotel is very famous for its special food and locations. Rana hotel is offering its services since 1995. It offers delicious foods like chicken and mutton special. Tawa Special, like Tawa Daal, Tawa Magaz, Paratha, and Rotti Naan.**
+**
+
+**Websitehttp://www.ranahotel.webs.com**
+
+**Rana Hotel **
+
+**Sheikh Zaid Hospital Road**
+
+**Rahim Yar Khan**
+
+**0092-68-5881608**
+
+****
+
+** **

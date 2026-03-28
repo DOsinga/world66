@@ -21,5 +21,3 @@ It will likely take time to build the infrastructure needed for really exciting 
 
 **Contributors**
 March 29, 2010
-new
-by [piyushjain](/member/piyushjain_)

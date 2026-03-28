@@ -29,5 +29,3 @@ tel: 55 21 9322 0870
 url: [www.hocatour.com.br](http://www.hocatour.com.br)
 
 email:
-
-[back to Day Trips](..)

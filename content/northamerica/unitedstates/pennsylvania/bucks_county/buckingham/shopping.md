@@ -12,8 +12,6 @@ Many of your shopping needs will be met at the **Buckingham Green Shopping Cente
 
 **Contributors**
 January 20, 2006
-change
-by [michael chapman](/member/michael_chapman)
 
 ### [None Such Farm Market](/northamerica/unitedstates/pennsylvania/bucks_county/buckingham/shopping/none_such_farm_mar)
 

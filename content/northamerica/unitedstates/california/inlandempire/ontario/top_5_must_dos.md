@@ -16,5 +16,3 @@ Citizens Business Bank Arena opened October 2008 and has already become an enter
 
 **Contributors**
 April 01, 2010
-new
-by [ontariobruin](/member/ontariobruin)

@@ -19,5 +19,3 @@ Closest airport: Dubrovnik Airport (Cilipi) - 90 km
 
 **Contributors**
 November 04, 2008
-change
-by [matulini](/member/matulini)

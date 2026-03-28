@@ -12,5 +12,3 @@ email: admin@berbertours.net
 url: [www.berbertours.net](http://www.berbertours.net)
 
 tel: 212-68-51-50-87
-
--->

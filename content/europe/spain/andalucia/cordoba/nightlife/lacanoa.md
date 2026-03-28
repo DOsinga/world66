@@ -13,5 +13,3 @@ type: Bars & Cafes
 address: Pasaje Ronda Los Tejares18-20
 
 tel: 957 47 17 61
-
-[back to Nightlife and Entertainment](..)

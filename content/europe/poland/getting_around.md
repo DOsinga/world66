@@ -7,8 +7,6 @@ Getting Around
 
 **Contributors**
 August 11, 2005
-new
-by [j wojtynski](/member/j_wojtynski)
 
 ### Buses in Poland
 

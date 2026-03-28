@@ -1,0 +1,4 @@
+---
+title: "Middletown"
+type: location
+---

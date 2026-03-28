@@ -26,7 +26,5 @@ house if an tour is not available.
 
 **Contributors**
 October 14, 2005
-change
-by [patrickneil](/member/patrickneil)
 
 type: Public Buildings

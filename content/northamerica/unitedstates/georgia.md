@@ -10,18 +10,3 @@ Atlanta (metropolitan population approx. 3.5 million), the largest city in the 
 From the fouding of Georgia as Britain's thirteenth colony in 1733, to the tragedy of the American Civil War, to the Civil Rights struggle led by one of Atlanta's most famous sons, Dr. Martin Luther King Jr., there is a strong sense of history to be encountered at every turn in Georgia. 
 
 Welcome to Georgia, where there is truly something for everyone!
-
-## Destinations
-
-- [Albany](/northamerica/unitedstates/georgia/albany)
-- [Andersonville](/northamerica/unitedstates/georgia/andersonville)
-- [Atlanta](/northamerica/unitedstates/georgia/atlanta)
-- [Chattahoochee River](/northamerica/unitedstates/georgia/chattahoocheeriver)
-- [Cumberland Island](/northamerica/unitedstates/georgia/cumberlandisland)
-- [Fort Oglethorpe](/northamerica/unitedstates/georgia/fortoglethorpe)
-- [Fort Pulaski](/northamerica/unitedstates/georgia/fortpulaski)
-- [Kennesaw Mountain](/northamerica/unitedstates/georgia/kennesawmountain)
-- [Macon](/northamerica/unitedstates/georgia/macon)
-- [Savannah](/northamerica/unitedstates/georgia/savannah)
-- [Springer Mountain](/northamerica/unitedstates/georgia/springermountain)
-- [St. Simons Island](/northamerica/unitedstates/georgia/stsimonsisland)

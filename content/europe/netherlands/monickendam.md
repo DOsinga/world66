@@ -9,5 +9,3 @@ This pleasant old town just north of amsterdam received it's city rights 650 yea
 
 **Contributors**
 July 31, 2005
-new
-by [hpharmsen](/member/hpharmsen)

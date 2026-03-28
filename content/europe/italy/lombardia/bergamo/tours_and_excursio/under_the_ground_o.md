@@ -11,8 +11,6 @@ Take a tour under the ground of Città Alta and see aquaducts, water cisterns, f
 
 **Contributors**
 March 12, 2008
-new
-by [karenbru](/member/karenbru) (1 point)
 
 
 
@@ -23,5 +21,3 @@ url: [www.nottole.it](http://www.nottole.it)
 address: Castello della Marigolda, Via Marigolda 11/a, 24035 Curno (Bergamo)
 
 email: segreteria@nottole.it
-
-[back to Tours and Excursions](..)

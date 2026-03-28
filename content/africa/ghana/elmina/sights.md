@@ -40,34 +40,7 @@ on rotation duty from the castle.
 **Dutch Cemetery
 **
 The
-old Dutch Cemetery in Elmina town dates back to 1806. Towards the end
-of the 18th century, the officials and merchants of Elmina Castle used
-the Garden ('de Tuin'), the green space north of the Benya Lagoon, for
-growing vegetables and fruit for the population and passing ships.
-Until then, the Europeans had buried their dead inside the castle or
-just outside the castle walls. Space was running out and in 1806 it was
-therefore decided to move the European cemetery into the Garden of
-Elmina. The cemetery is surrounded by a wall and number of big silk
-cotton trees, which are well over a century old. In the middle stand a
-vault with an obelisk on top, dating back to 1806 too, in which a
-number of former governors and eminent Elminans and the Elmina King,
-Nana Kobena Isyan are buried.
-
-**Elmina Town**
-
-Many tourist visit the UNESCO
-world-heritage list protected St. George's Castle and the Fort
-Coenraadsburg, the main cultural heritage attractions in the area.
-These historical buildings have played significant roles in the
-interaction of Elmina and Ghana with European countries. Other historic
-tourist attractions in the town such as St. Joseph's Catholic Church
-building, St. Anne's Convent, the Methodist Chapel, Asafo Posts, and
-numerous historic merchant houses, rarely feature on the tourist's
-itinerary but are also worth visiting.
-
-### [St. Joseph Catholic Church](/africa/ghana/elmina/sights/st_joseph_catholi)
-
-Hi, I am looking for a priest by the name Rev. Fr. Peter Adoko-Enchill at St. Joseph Parish. Elmina, Ghana, West Africa. I mail him a letter in December 2006 and did not hear from him. Would like the phone number for St. Joseph Parish so I can call. Thank you for your help.
+old Dutch Cemetery in Elmina town dates Hi, I am looking for a priest by the name Rev. Fr. Peter Adoko-Enchill at St. Joseph Parish. Elmina, Ghana, West Africa. I mail him a letter in December 2006 and did not hear from him. Would like the phone number for St. Joseph Parish so I can call. Thank you for your help.
 
 Denise
 

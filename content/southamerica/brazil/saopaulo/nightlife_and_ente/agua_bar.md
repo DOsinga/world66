@@ -15,8 +15,6 @@ English speakers are welcome!
 
 **Contributors**
 February 26, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing
 
@@ -33,5 +31,3 @@ url: [www.aguabar.com.br](http://www.aguabar.com.br)
 address: Rua Bandeira Paulista, 676 - Itaim Bibi
 
 email: faleconosco@aguabar.com.br
-
-[back to Nightlife and Entertainment](..)

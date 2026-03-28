@@ -26,5 +26,3 @@ Although the museum’s collection of beautiful carvings always seems to be hidd
 The music museum located at the on Avenue d'Oubritenga is definitely worth a visit. Opened last August, it has traditional musical instruments from all over Burkina Faso.
 
 address: Avenue d'Oubritenga
-
--->

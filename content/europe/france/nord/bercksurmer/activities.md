@@ -46,5 +46,3 @@ The sailing boat school offers the practice and practical lessons by session of 
 address: Esplanade Parmentier - BP 9, 62601 BERCK SUR MER
 
 tel: 00 33 3.21.89.87.00
-
--->

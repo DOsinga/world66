@@ -18,8 +18,6 @@ prices, such as "Gudauri," "Truso," "Panorama," "Shamo," "Marco Polo,"
 
 **Contributors**
 September 04, 2009
-change
-by [khatuna](/member/khatuna)
 
 
 
@@ -32,5 +30,3 @@ url: [info-tbilisi.com](http://info-tbilisi.com/travel/)
 address: 6, str. N. Nikoldze
 
 email: travel@info-tbilisi.com
-
-[back to Day Trips](..)

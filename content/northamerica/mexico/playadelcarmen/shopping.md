@@ -27,9 +27,5 @@ The beaches are the highlight of one’s trip to Playa del Carmen, but the whole
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

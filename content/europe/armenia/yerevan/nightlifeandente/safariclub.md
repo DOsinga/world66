@@ -1,6 +1,6 @@
 ---
 title: "Safari Club"
-type: location
+type: poi
 address: "just off republic square"
 type: "Erotic clubs and bars"
 ---
@@ -14,5 +14,3 @@ type: Erotic clubs and bars
 
 
 address: just off republic square
-
-[back to Nightlife and Entertainment](..)

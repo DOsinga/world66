@@ -9,9 +9,3 @@ The 'Kö' is one of the world's famous malls. On the eastern side of its chestnu
 The main attraction amongst the many arcades and passages is the 'Kö-Galerie', which, apart from its wide-ranging display of goods, also beckons with the culinary delights of numerous restaurants.
 
 type: Shopping centers and malls
-
-
-
-
-
-[back to Shopping](..)

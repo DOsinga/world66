@@ -1,9 +1,9 @@
 ---
-title: "Belmont Travel Guide"
+title: "Belmont"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Belmont** is a city in San Mateo County, California, United States. It is a small suburb in the San Francisco Bay Area, located half-way down the San Francisco Peninsula between San Mateo and San Carlos. The population was 25,123 at the 2000 census.
 
@@ -16,11 +16,3 @@ Carlmont High School is located in Belmont.
 Belmont is located at 37°31′5″N, 122°17′30″W (37.518087, -122.291673) GR1 .
 
 According to the United States Census Bureau, the city has a total area of 11.7 km² (4.5 mi²). 11.7 km² (4.5 mi²) of it is land and 0.52% is water.
-
-#### Contributors
-
-March 12, 2007 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 05:00

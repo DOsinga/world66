@@ -27,5 +27,3 @@ If you are looking for a great place for lunch, Le Glacier is an amazing place t
 
 **Contributors**
 March 03, 2010
-change
-by [shomer](/member/shomer)

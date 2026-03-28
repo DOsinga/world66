@@ -9,13 +9,9 @@ Located between St-Germain-des-Pres and Musse d'Orsay, the Carre Rive Gauche is 
 
 **Contributors**
 May 14, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Other
 
 
 
 address: rue de Bac, rue de l'Universite, rue de Lille, and rue des Sts-Peres
-
-[back to Things to do](..)

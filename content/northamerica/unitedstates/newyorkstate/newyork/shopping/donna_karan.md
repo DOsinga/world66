@@ -12,5 +12,3 @@ type: Shopping centers and malls
 
 
 address: 819 Madison Ave Near 68th St.
-
-[back to Shopping](..)

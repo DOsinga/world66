@@ -20,5 +20,3 @@ url: [sgtekajtm@hotmail.com](http://sgtekajtm@hotmail.com)
 address: bangka street 9 no.7 jember jawa timur indonesia
 
 email: sgtekajtm@hotmail.com
-
-[back to Getting Around](..)

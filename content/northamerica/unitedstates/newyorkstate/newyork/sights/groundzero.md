@@ -9,9 +9,3 @@ the World Trade Center was. After the september 11 attacks it was
 dubbed Ground Zero. It is a very impressive place...
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

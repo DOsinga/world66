@@ -6,9 +6,6 @@ type: "Castles"
 
 Here are a few suggestions for a visit.
 
-**Change history**
-Minor corrections by [giorgio](/member/giorgio) on 10 May 05
-
 ### Display all
 or display just:
 

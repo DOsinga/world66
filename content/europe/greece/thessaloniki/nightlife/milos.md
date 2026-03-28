@@ -15,5 +15,3 @@ type: Life Music
 address: 56 Andreou Georgiou st.
 
 tel: +30 31 - 516945
-
-[back to Nightlife and Entertainment](..)

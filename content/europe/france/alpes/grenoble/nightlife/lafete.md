@@ -1,0 +1,9 @@
+---
+title: "La Fete"
+type: poi
+address: "18 Grande Rue 38000"
+phone: "04 76 15 27 95"
+type: "Dancing"
+---
+
+type: Dancing

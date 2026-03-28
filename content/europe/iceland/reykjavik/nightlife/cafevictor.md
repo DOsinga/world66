@@ -13,5 +13,3 @@ type: Cafes
 address: Við Ingólfstorg
 
 tel: (+354) 561 9555
-
-[back to Nightlife and Entertainment](..)

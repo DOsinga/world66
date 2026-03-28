@@ -23,5 +23,3 @@ The busiest day of the week for shopping is Saturday. The streets and shopping m
 
 **Contributors**
 April 16, 2010
-change
-by [imran_m](/member/imran_m)

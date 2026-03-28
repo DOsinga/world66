@@ -17,5 +17,3 @@ type: general
 address: Corner of Chestnut & Roebling Ave.
 
 tel: (609) 396-6300
-
-[back to Eating Out](..)

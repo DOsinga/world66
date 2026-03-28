@@ -25,9 +25,6 @@ The second is an excursion to the bird sanctuary of the **Grote Vlak** and to Te
 starting from the ferry terminal, but large parts are closed from March
 1st to September 1st).*
 
-**Change history**
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 26 March 05
-
 ### [De Koog > De Slufter > De Koog
 
 **By bus + on foot**, *12 kms, at ease: 4 to 5 hrs of walking

@@ -7,5 +7,3 @@ Colorado Springs is about 70 miles south of Denver Colorado, in the United State
 
 **Contributors**
 January 16, 2009
-new
-by [latravelgirl](/member/latravelgirl)

@@ -9,11 +9,3 @@ Walk to the end of the boardwalk and go to Brighton beach, known as little Odess
 
 **Contributors**
 August 30, 2005
-new
-by [sarabanda](/member/sarabanda)
-
-
-
-
-
-[back to Day Trips](..)

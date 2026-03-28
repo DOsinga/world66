@@ -8,13 +8,5 @@ The Asolo Repertory Theatre is located on the University grounds. It has profess
 
 **Contributors**
 April 14, 2008
-new
-by [waterfalls](/member/waterfalls)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

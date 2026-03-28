@@ -1,0 +1,4 @@
+---
+title: "Kaitaia"
+type: location
+---

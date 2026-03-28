@@ -12,8 +12,6 @@ The url and telephone relate to the latter.
 
 **Contributors**
 April 14, 2008
-new
-by [davidx](/member/davidx)
 
 type: Hiking
 
@@ -22,5 +20,3 @@ type: Hiking
 tel: 01736 786156
 
 url: [www.nationaltrust.org.uk](http://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-levantmineandbeamengine/)
-
-[back to Things to do](..)

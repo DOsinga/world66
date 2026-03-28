@@ -1,12 +1,10 @@
 ---
 title: "Mastro's"
-type: location
+type: poi
 address: "246 N. Cañon Dr."
 phone: "310-888-8782"
 type: "American"
 url: "www.mastrossteakhouse.com"
-latitude: 34.068801
-longitude: -118.398793
 ---
 
 Expert mix of classic steakhouse, chic bar scene and well-heeled
@@ -23,8 +21,6 @@ its own right, never overshadows the real star of the show – the food.
 
 **Contributors**
 November 29, 2006
-new
-by [jhyatt](/member/jhyatt) (2 points)
 
 type: American
 
@@ -35,5 +31,3 @@ tel: 310-888-8782
 url: [www.mastrossteakhouse.com](http://www.mastrossteakhouse.com/)
 
 address: 246 N. Cañon Dr.
-
-[back to Eating Out](..)

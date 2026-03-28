@@ -1,12 +1,10 @@
 ---
 title: "Havana"
-type: location
+type: poi
 address: "32 Duke Street, Brighton"
 phone: "01273 773388"
 price: "Approx £25 for 3 course dinners"
 zipcode: "BN1 1AG"
-latitude: -27.29301
-longitude: 153.060655
 ---
 
 Exclusive first class restaurant with cockail bar in the South Lanes.

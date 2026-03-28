@@ -42,5 +42,3 @@ Above the desolate desert floor, the hills contain off-road wonders. Discover be
 **Pyramid Lake **
 
 This spectacular desert lake is unlike any other body of water in the world. As the largest remnant of ancient Lake Lahontan, a giant inland sea that once covered more than 8,000 square miles, Pyramid Lake is an astonishing reminder of the history of our earth. Archaeologists have discovered evidence that Pyramid Lake was home to cultures that existed more than 9,000 years ago. Petroglyphs depicting prehistoric Indian life still line the hillsides around the lake. [more..](/northamerica/unitedstates/nevada/blackrockcity/sights/pyramidlake)
-
--->

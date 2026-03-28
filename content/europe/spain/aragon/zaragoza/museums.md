@@ -5,7 +5,7 @@ type: section
 
 There are quite a number of museums and galleries in Zaragoza. Zaragoza was also the city where Francisco de Goya served his apprenticeship and painted his first works. His paintings are exhibited in the Basilica of Nuestra Señora del Pilar, the Camón Aznar Museum and the Provincial Museum of Fine Arts.Check them out, but keep in mind usually museums and galleries are closed on Monday.  
 
-**all**
+**Museums**
 
 **Casa de Goya**
 

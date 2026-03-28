@@ -1,0 +1,4 @@
+---
+title: "Lubon"
+type: location
+---

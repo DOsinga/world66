@@ -1,0 +1,4 @@
+---
+title: "Esquel"
+type: location
+---

@@ -14,5 +14,3 @@ type: Italian
 
 
 address: Calle Mondo Nuovo, Castello
-
-[back to Eating Out](..)

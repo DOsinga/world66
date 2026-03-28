@@ -21,5 +21,3 @@ url: [www.sanjosetamalefestival.com](http://www.sanjosetamalefestival.com/)
 date: June
 
 address: Emma Prusch Park, 647 South King Road
-
-[back to Festivals](..)

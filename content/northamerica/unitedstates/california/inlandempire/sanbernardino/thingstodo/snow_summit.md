@@ -38,5 +38,3 @@ url: [www.snowsummit.com](http://www.snowsummit.com)
 address: 880 Summit Blvd / P.O. Box 77, Big Bear Lake, CA 92315
 
 email: info@bigbearmountainresorts.com
-
-[back to Things to do](..)

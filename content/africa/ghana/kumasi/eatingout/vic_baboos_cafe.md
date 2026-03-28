@@ -30,5 +30,3 @@ priceofmenu: affordable
 url: [nil](http://nil)
 
 zipcode: later
-
--->

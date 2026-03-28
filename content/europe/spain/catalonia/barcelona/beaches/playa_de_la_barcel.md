@@ -1,8 +1,6 @@
 ---
 title: "Playa de la Barceloneta"
 type: poi
-latitude: 41.371346
-longitude: 2.189262
 ---
 
 Barceloneta beach is the closest beach to Barcelona city centre. If you
@@ -16,11 +14,3 @@ the next beach along from Barceloneta. Typical tapas over this are is the bombas
 
 **Contributors**
 February 13, 2007
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Beaches](..)

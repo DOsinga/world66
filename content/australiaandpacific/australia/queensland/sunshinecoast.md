@@ -1,8 +1,6 @@
 ---
 title: "Sunshine Coast"
 type: location
-latitude: -26.654434
-longitude: 153.093367
 ---
 
 The Sunshine Coast begins 90 km North of Brisbane at Caloundra and stretches for almost 100km to Noosa, enclosing some of the best beaches and scenery on the planet. Not to be confused with the Gold Coast, which is South of Brisbane and a waste of time to visit as it already suffers the "Miami Effect" and looks like every other "holiday" destination on the planet.

@@ -26,11 +26,3 @@ Information is valid for summer 2006
 
 **Contributors**
 July 16, 2006
-new
-by [svetico](/member/svetico) (4 points)
-
-
-
-
-
-[back to Day Trips](..)

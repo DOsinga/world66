@@ -8,5 +8,3 @@ On a visit to Porto three years ago, I came across a culinary gem of a bistro, w
 The atmosphere was cosy, homely and unobtrusive with the accent on sociability in an environment of respect for local culture and taste. Not seating many Casa Mariazinha allows Antonio to attend the tables like a man entertaining in his own home. On each occaision our stay lasted into the small hours and I left with a heavy heart and a full stomach to Scotland thinking "This is how it should be done."
 
 If you are ever in Porto do not miss this place, by far the best place I have ever eaten.
-
--->

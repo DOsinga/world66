@@ -1,8 +1,6 @@
 ---
 title: "Nyala"
 type: location
-latitude: 12.010667
-longitude: 24.816412
 ---
 
 We currently have no information about Nyala.

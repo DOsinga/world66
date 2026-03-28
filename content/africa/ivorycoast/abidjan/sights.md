@@ -25,10 +25,4 @@ Drive through the Cocody district to see how the city’s middle class lives—t
 
 **St.Paul's cathedral**
 
-A modernistic building in the heart of the twon. 
-
-## Subsections
-
-[Museums](/africa/ivorycoast/abidjan/sights/museums)
-
-[Parks](/africa/ivorycoast/abidjan/sights/parks)
+A modernistic building in the heart of the twon.

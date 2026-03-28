@@ -1,8 +1,6 @@
 ---
 title: "Krakow"
 type: location
-latitude: 50.061947
-longitude: 19.936856
 ---
 
 Krakow is one of the most beautiful cities in Europe. It was originally the home of the Polish royalty, before the capital was moved to [Warsaw](/europe/poland/warsaw). Visiting Krakow is a refreshing break from much of European travel, where similar cities blend together, and the dominance of English might make you wonder if you ever left North America. The cobblestoned streets, majestic churches, and old world charm make Krakow an unforgetable destination.

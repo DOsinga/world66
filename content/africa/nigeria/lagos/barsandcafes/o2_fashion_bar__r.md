@@ -24,5 +24,3 @@ phone: "01 8708004"
 tel: 01 8708004
 
 address: 27 Sanusi Fafunwa Street, MUrphis Plaza, Victoria Island, Lagos.
-
-[back to Bars and Cafes](..)

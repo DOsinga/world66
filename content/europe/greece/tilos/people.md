@@ -24,6 +24,3 @@ On the plains of Eastern Washington, I was taught to lasso a herded animal by a 
 I love Tilos criminals. I find them to be cute, cantankerous, clever, and definitely driven! 
 
 **Konstantinos Mentzelopoulos**
-
-*Change history*
-Minor corrections by [Skipper](/member/skipper) on 15 April 04

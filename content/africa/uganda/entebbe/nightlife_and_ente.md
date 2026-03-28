@@ -7,8 +7,6 @@ closing_time: "4.00am"
 email: "kasirye@yahoo.com"
 phone: "+256752593939"
 type: "Casinos"
-latitude: 0.317157
-longitude: 32.594037
 ---
 
 Party goers will surely experience a great **Entebbe nightlife**, with a wild selection of bars and clubs in the city. Night entertainment in Entebbe, Uganda is always at its peak to please tourists and vacationers from all over the world.

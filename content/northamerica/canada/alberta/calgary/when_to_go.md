@@ -70,5 +70,3 @@ It doesn't matter whether it is in the summer or in the winter, there's always s
 
 **Contributors**
 August 29, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

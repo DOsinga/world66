@@ -18,5 +18,3 @@ url: [www.shoplilysimone.com](http://www.shoplilysimone.com/)
 address: 5022 Eagle Rock Blvd
 
 email: info@shoplilysimone.com
-
-[back to Shopping](..)

@@ -9,5 +9,3 @@ Local taxi service? Will we be able to find a taxi when we dock in Tromso?
 
 
 email: rv09bc@tds.net
-
-[back to Getting Around](..)

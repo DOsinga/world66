@@ -1,0 +1,4 @@
+---
+title: "Luton"
+type: location
+---

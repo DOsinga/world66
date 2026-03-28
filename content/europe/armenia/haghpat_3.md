@@ -1,8 +1,6 @@
 ---
 title: "Haghpat"
 type: location
-latitude: 41.094419
-longitude: 44.711056
 ---
 
 Haghpat (Հաղպատ, meaning "a huge wall") is a well known monastery in
@@ -26,5 +24,3 @@ See also http://en.wikipedia.org/wiki/Haghpat
 
 **Contributors**
 April 22, 2005
-new
-by [qmetawz](/member/qmetawz) (1 point)

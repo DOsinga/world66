@@ -46,5 +46,3 @@ with local goods, including artwork, clothes, shoes and jewelry, this 2-story bu
 
 **Contributors**
 November 01, 2009
-new
-by [leah rendon](/member/leah_rendon)

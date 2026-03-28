@@ -11,9 +11,4 @@ Other places include
 
 [Devonport](/australiaandpacific/newzealand/devonport) - A suburb of [North Shore City](/australiaandpacific/newzealand/northshorecity)
 
-*Change history*
-Orginal article by [Huttite](/member/huttite) on 10 January 05
-
-Minor corrections by [Huttite](/member/huttite) on 11 January 05
-
--->
+Minor corrections on 11 January 05

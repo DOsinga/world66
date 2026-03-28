@@ -9,5 +9,3 @@ For cheap flights between cities, Vueling (www.vueling.com) is a good bet as wel
 
 **Contributors**
 May 15, 2008
-new
-by [mcburton](/member/mcburton)

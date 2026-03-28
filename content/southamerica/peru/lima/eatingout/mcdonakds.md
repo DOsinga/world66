@@ -8,13 +8,5 @@ If you have never seen a two-story McDonald's Restaurant, then check out the one
 
 **Contributors**
 December 08, 2006
-change
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Fast food
-
-
-
-
-
-[back to Eating Out](..)

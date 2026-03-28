@@ -17,5 +17,3 @@ type: Hotspots
 address: Bandera 361
 
 openings: Tuesday to Sunday
-
-[back to Sights](..)

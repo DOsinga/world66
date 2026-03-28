@@ -10,8 +10,6 @@ More than 125,000 people visit the Dell'Osso Corn Maze each year next door to Ma
 
 **Contributors**
 July 29, 2009
-new
-by [mantecacvb](/member/mantecacvb)
 
 type: Other
 
@@ -22,5 +20,3 @@ type: Other
 url: [www.pumpkinmaze.com](http://www.pumpkinmaze.com)
 
 email: info@pumpkin-maze.com
-
-[back to Things to do](..)

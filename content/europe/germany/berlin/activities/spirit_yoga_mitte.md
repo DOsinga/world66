@@ -14,8 +14,6 @@ One thing is certain –Yoga releases tension, focuses the mind, develops the bo
 
 **Contributors**
 November 11, 2008
-new
-by [beriyani](/member/beriyani)
 
 type: Spa and Sauna
 
@@ -30,5 +28,3 @@ url: [www.spirityoga.de](http://www.spirityoga.de/)
 address: Sprit Mitte, Rosenthalerstr 36, 10178 Berlin
 
 email: info@spirityoga.de
-
-[back to Things to do](..)

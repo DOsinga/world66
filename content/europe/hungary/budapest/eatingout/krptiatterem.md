@@ -10,7 +10,3 @@ address: Ferenciek tere 7-8
 e-mail: karpatia@compuserve.com
 
 tel: 317-3596
-
-[back to Eating Out](..)
-
--->

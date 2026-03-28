@@ -12,12 +12,8 @@ get one in advance from a Serbian consulate.
 
 **Contributors**
 March 06, 2005
-new
-by [belgradeinsideout](/member/belgradeinsideout) (1 point)
 
 March 14, 2005
-change
-by [giorgio](/member/giorgio)
 
 ### Serbian currency
 

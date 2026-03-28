@@ -20,8 +20,6 @@ Every sunday indian live music by Vicky Khan.Big screens for sports are availabl
 
 **Contributors**
 June 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Mexican
 
@@ -40,5 +38,3 @@ address: Fuji Plaza, Westlands
 PriceOfMenu: 450/= PP onwards
 
 email:
-
-[back to Eating Out](..)

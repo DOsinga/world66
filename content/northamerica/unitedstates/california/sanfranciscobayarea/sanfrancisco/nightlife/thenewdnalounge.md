@@ -15,5 +15,3 @@ type: Live Music
 address: 375 11th St. at Harrison, SoMa
 
 tel: 415-626-1409
-
-[back to Nightlife and Entertainment](..)

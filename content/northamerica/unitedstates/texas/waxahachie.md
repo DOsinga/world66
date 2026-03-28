@@ -1,9 +1,9 @@
 ---
-title: "Waxahachie Travel Guide"
+title: "Waxahachie"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The
 Texas State Legislature created Ellis County on December 20, 1849 with land drawn
@@ -24,11 +24,3 @@ had a population of 7,958 and 200 businesses including three banks, three cotton
 oil mills, five cotton gins, and two daily and two weekly newspapers. Profits
 from the cultivation and processing of cotton drove this economic boom. Unfortunately,
 when cotton prices dropped in the 1930's so did the local economy.
-
-#### Contributors
-
-March 24, 2007 new by [mehul](/member/mehul) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 09:03

@@ -7,5 +7,3 @@ type: section
 
 **Contributors**
 January 08, 2005
-new
-by [jurandirtje](/member/jurandirtje) (1 point)

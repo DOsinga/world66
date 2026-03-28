@@ -10,8 +10,6 @@ Cullen golf club founded in 1870 is located at the beach and is popular with the
 
 **Contributors**
 February 11, 2007
-new
-by [bardofthebroch](/member/bardofthebroch) (2 points)
 
 ### [Cullen Golf Club](/europe/unitedkingdom/scotland/cullen/things_to_do/cullen_golf_club)
 

@@ -17,5 +17,3 @@ type: South American
 tel: (21)2540-8041
 
 address: Rua Padre Leonel Franca 240, Gavea
-
-[back to Eating Out](..)

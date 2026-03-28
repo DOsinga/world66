@@ -53,5 +53,3 @@ expense, drop by this English-style bar and experience Nice with style.
 
 **Contributors**
 March 26, 2010
-new
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

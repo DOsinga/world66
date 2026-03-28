@@ -1,0 +1,4 @@
+---
+title: "Riverton"
+type: location
+---

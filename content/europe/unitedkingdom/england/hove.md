@@ -1,0 +1,4 @@
+---
+title: "Hove"
+type: location
+---

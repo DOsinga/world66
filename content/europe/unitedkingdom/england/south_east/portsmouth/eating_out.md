@@ -5,16 +5,12 @@ address: "31-35 Albert Rd, Southsea,"
 phone: "023 9229 3474"
 type: "Mexican"
 zipcode: "PO5 2SE"
-latitude: 50.787755
-longitude: -1.081529
 ---
 
 Portsmouth and its resort of Southsea have a vast choice of restaurants, pubs and cafe's. Food for every taste, English, Italian, Mexican, Spanish, Indian, American, Chinese, Turkish, Carribean, and the list goes on.
 
 **Contributors**
 March 02, 2005
-change
-by [pompeyjohn](/member/pompeyjohn)
 
 ### [A Fistful of Tacos.](/europe/unitedkingdom/england/south_east/portsmouth/eating_out/a_fistful_of_tacos)
 

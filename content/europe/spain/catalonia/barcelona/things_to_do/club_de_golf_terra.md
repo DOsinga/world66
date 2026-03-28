@@ -12,8 +12,6 @@ Club de Golf Terramar features 18 scenic holes along the beach. Fees range from 
 
 **Contributors**
 May 16, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Golf
 
@@ -26,5 +24,3 @@ url: [www.golfterramar.com](http://www.golfterramar.com)
 address: Camino de la Carrelada s/n
 
 email: info@golfterramar
-
-[back to Things to do](..)

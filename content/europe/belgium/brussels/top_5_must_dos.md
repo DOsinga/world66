@@ -48,18 +48,4 @@ of a young boy taking a pee has been replicated in garden centers and
 parks the world over, and he’s arguably Belgian’s most famous resident.
 The origins of this 30cm-high statue remain a mystery, but he certainly
 has an eye for fashion. The little bronze boy has a collection of over
-500 costumes, the first of which dates right back to 1698. Catch him on
-the corner of Stoofstraat and Rue de L’Etuve and see what dapper outfit
-he’s modeling.
-
-**
-Grand Place**
-
-This mammoth square in the
-center of Brussels is flanked by ornate and dramatically beautiful
-buildings, and has been referred to as one of the world’s most
-beautiful town squares. Historically a place for market traders to hawk
-their wares, today it is Brussels prime tourist attraction and the
-flagstones are lined with bars and restaurants, any one of which is a
-pleasant spot to enjoy a drink and a meal while taking in the
-breathtaking view.
+500 costumes, the first of which dates right

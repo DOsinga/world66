@@ -19,9 +19,5 @@ Overall, traveling during the dry season is clearly your best option. If it isnâ
 
 **Contributors**
 April 08, 2010
-change
-by [ctanios](/member/ctanios)
 
 April 03, 2010
-change
-by [mbailin](/member/mbailin)

@@ -17,5 +17,3 @@ type: French
 address: 59, Bvd Montparnasse, (6° Arr.) Paris
 
 tel: (01) 45.48.38.01
-
-[back to Eating Out](..)

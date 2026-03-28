@@ -1,0 +1,4 @@
+---
+title: "Sandefjord"
+type: location
+---

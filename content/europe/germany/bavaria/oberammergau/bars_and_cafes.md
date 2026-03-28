@@ -53,5 +53,3 @@ huge, it does offer local delicacies for tourists to indulge in.
 
 **Contributors**
 November 24, 2009
-change
-by [harding](/member/harding)

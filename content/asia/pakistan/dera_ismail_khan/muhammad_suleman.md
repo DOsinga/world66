@@ -1,0 +1,8 @@
+---
+title: "MUHAMMAD SULEMAN"
+type: location
+---
+
+Travel Guide
+
+I LIVE IN DERA ISMAIL KHAN THE D I KHAN IS MOST RESPECTABLE CITY..

@@ -32,12 +32,8 @@ Bronx, NY 10458
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Parks, Gardens and Zoos
 
@@ -48,5 +44,3 @@ type: Parks, Gardens and Zoos
 url: [www.nybg.org](http://www.nybg.org/)
 
 address: Bronx, New York
-
-[back to Sights](..)

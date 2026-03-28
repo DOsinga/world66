@@ -10,8 +10,6 @@ Northeast Ohio is not immediately associated with natural beauty or recreational
 
 **Contributors**
 April 06, 2006
-change
-by [vulpster03](/member/vulpster03) (3 points)
 
 ### [41 North Kayak Tours](/northamerica/unitedstates/ohio/cleveland/things_to_do/41_north_kayak_tou)
 

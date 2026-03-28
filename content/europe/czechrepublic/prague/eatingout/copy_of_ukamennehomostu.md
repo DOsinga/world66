@@ -10,8 +10,6 @@ Open: Daily. 12.00 - 01.00. An historic restaurant with an interesting decor, gr
 
 **Contributors**
 July 23, 2004
-change
-by [hpharmsen](/member/hpharmsen)
 
 type: French
 
@@ -22,5 +20,3 @@ type: French
 address: Smetanovo nabrezi 195-196 (u Karlova mostu), Praha 1
 
 tel: +42 (0)02 2409 7100
-
-[back to Eating Out](..)

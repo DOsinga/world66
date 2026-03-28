@@ -12,5 +12,3 @@ type: Clubs and dancing
 
 
 email: medwas01@student.uwa.edu.au
-
-[back to Nightlife and Entertainment](..)

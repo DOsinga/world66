@@ -8,8 +8,6 @@ Ordubad museums below
 
 **Contributors**
 April 18, 2006
-new
-by [azerbaijan08](/member/azerbaijan08) (2 points)
 
 ### [Yusif Mammadaliyev home museum](/europe/azerbaijan/naxcivan/ordubad/museums/yusif_mammadaliyev)
 

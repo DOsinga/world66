@@ -6,8 +6,6 @@ email: "info@epemastate.nl"
 phone: "0515-412475"
 type: "Landmarks"
 url: "www.epemastate.nl"
-latitude: 53.040174
-longitude: 5.632642
 ---
 
 Epemastate

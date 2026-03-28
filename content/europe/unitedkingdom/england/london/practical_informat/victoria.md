@@ -8,13 +8,5 @@ Victoria station in London is a London Underground and National Rail station in 
 
 **Contributors**
 February 15, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Train station
-
-
-
-
-
-[back to Practical Information](..)

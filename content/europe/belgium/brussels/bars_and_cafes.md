@@ -19,5 +19,3 @@ Belgian beers are legendary the world over, and happily there is no shortage of 
 
 **Contributors**
 February 11, 2010
-change
-by [lucyb](/member/lucyb)

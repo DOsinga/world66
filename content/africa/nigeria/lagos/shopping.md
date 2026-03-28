@@ -31,5 +31,3 @@ The Goodies supermarket houses a few imported items but be prepared to pay a hig
 
 **Contributors**
 March 30, 2010
-new
-by [gabriellet](/member/gabriellet)

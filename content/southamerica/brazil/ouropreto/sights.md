@@ -14,5 +14,3 @@ Much of the Interior is covered in gold leaf.
 Containing 25 000 gems and mineral samples.  
 
 address: Main Square
-
--->

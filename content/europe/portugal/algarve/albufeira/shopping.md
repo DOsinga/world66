@@ -23,9 +23,5 @@ The strip in Albufeira is definitely not everyone's cup of tea. There are severa
 
 **Contributors**
 January 14, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

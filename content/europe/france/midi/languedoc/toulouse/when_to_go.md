@@ -60,5 +60,3 @@ January and February.
 
 **Contributors**
 April 01, 2010
-new
-by [amymc](/member/amymc)

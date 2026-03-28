@@ -1,0 +1,4 @@
+---
+title: "Kanye"
+type: location
+---

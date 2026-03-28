@@ -26,5 +26,3 @@ url: [www.barrabrasa.com.br](http://www.barrabrasa.com.br)
 address: Av. Afrânio de Melo Franco, 131 - Leblon
 
 PriceOfMenu: on the website
-
-[back to Eating Out](..)

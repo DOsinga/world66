@@ -1,12 +1,8 @@
 ---
-title: "Sandvig-Allinge Travel Guide"
+title: "Sandvig-Allinge"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The two northmost villages on Bornholm - also known as the Twillings (Tvillingebyerne).
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 23:21

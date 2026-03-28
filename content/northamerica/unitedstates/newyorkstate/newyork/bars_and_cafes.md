@@ -5,9 +5,6 @@ type: section
 
 There are several bars and cafes in New York City.
 
-*Change history*
-Orginal article by [Brokenme](/member/brokenme) on 06 May 04
-
 **all**
 
 **Stardust Diner**

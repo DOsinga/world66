@@ -7,9 +7,5 @@ Not much to really see as island is in process of being built up. Beach is sandy
 
 **Contributors**
 August 01, 2006
-new
-by [marc greenstein](/member/marc_greenstein) (2 points)
 
 August 02, 2006
-change
-by [giorgio](/member/giorgio)

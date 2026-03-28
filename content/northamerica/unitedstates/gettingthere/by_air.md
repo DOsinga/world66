@@ -37,5 +37,3 @@ tel: 8643499654
 address: 400 summit dr greenville sc 29609
 
 email: kim2fine07@yahoo.cm
-
-[back to Getting There](..)

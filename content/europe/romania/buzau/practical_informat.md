@@ -13,5 +13,3 @@ www.AnunturidinBuzau.ro
 
 **Contributors**
 June 14, 2008
-change
-by [blogzau](/member/blogzau)

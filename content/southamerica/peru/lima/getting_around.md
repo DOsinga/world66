@@ -11,5 +11,3 @@ Lima is a place where passengers should be especially careful when riding in tax
 
 **Contributors**
 December 14, 2006
-new
-by [approaching genius](/member/approaching_genius) (2 points)

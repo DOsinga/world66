@@ -126,5 +126,3 @@ Europe's biggest emporium for shopping sprees with a beautiful glass-covered pat
 address: Tauentzienstr. 21-24
 
 connection: U Wittenbergplatz
-
--->

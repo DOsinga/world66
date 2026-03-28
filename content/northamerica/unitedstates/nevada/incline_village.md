@@ -7,5 +7,3 @@ Located on the exclusive Northeast corner of Lake Tahoe, Incline Village blends 
 
 **Contributors**
 June 15, 2005
-new
-by [hobobrother](/member/hobobrother) (1 point)

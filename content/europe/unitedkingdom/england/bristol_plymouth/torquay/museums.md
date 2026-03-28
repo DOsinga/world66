@@ -20,5 +20,3 @@ Torre Abbey Historic House & Gallery
 address: The Kings Drive, Torquay Devon TQ2 5JE
 
 tel: 01803 293593
-
--->

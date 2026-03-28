@@ -1,0 +1,4 @@
+---
+title: "Malaita"
+type: location
+---

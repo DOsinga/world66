@@ -33,6 +33,4 @@ If you are looking for adventure in British Columbia, your search is over. We of
 
 **Travel Options . **
 
-Got the travel bug? Need help picking the right cruise or finding the best holiday for your money? Wanting to experience Super Natural British Columbia and other great places in Canada?  
-
--->
+Got the travel bug? Need help picking the right cruise or finding the best holiday for your money? Wanting to experience Super Natural British Columbia and other great places in Canada?

@@ -1,0 +1,4 @@
+---
+title: "Tanna"
+type: location
+---

@@ -1,13 +1,9 @@
 ---
 title: "Wok Inn"
-type: location
+type: poi
 type: "general"
 ---
 
 Address: 11 Santa Monica Place Phone Number: 310-393-0664
 
 type: general
-
-
-
-[back to Eating Out](..)

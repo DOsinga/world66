@@ -12,8 +12,6 @@ There are some great restaurants on the Central Coast!
 
 **Contributors**
 October 22, 2005
-new
-by [lizalee](/member/lizalee)
 
 ### [Ciao Bella](/northamerica/unitedstates/california/centralcoast/eating_out/ciao_bella)
 

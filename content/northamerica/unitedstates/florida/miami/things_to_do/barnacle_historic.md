@@ -9,13 +9,9 @@ Featuring beautiful views of Biscayne Bay and Old Florida, Barnacle Historic Sta
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
 
 
 address: 3
-
-[back to Things to do](..)

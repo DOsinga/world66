@@ -13,8 +13,6 @@ The exclusive Bar Marmont, adjacent to the world famous Chateau Marmont is a mus
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Wine bars
 
@@ -29,5 +27,3 @@ url: [www.chateaumarmont.com](http://www.chateaumarmont.com)
 address: 8171 West Sunset Boulevard
 
 email: agrandinetti@chateaumarmont.com
-
-[back to Nightlife and Entertainment](..)

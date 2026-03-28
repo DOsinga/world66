@@ -25,5 +25,3 @@ In Marseille, when to go will change your itinerary, but you're always sure to f
 
 **Contributors**
 February 15, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

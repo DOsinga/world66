@@ -21,4 +21,4 @@ Most people visiting Madagascar will arrive and depart from Ivato Airport, just 
 
   Buses do run from near the airport into the city and at a fraction of the cost of a taxi, but they are crowded, slow and confusing to someone uninitiated in the ways of the Malagasy bus service.
 
-  The taxis are not expensive and usually get you to your destination, so for the convience and relative comfort, taxis are the general means of transport for visitors.  Taxis from the Hilton Hotel in Tana will charge more to take patrons back to the airport.
+  The taxis are not expensive and usually get you to your destination, so for the convience and relative comfort, taxis are the general means of transport for visitors.  Taxis from the Hilton Hotel in Tana will charge more to take patrons

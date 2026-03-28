@@ -23,9 +23,5 @@ The scenic beauty of Western Samoa's islands can be enjoyed as much on a modest 
 
 **Contributors**
 February 04, 2010
-change
-by [sameera kumar](/member/sameera_kumar)
 
 February 10, 2010
-change
-by [2 many commas](/member/2_many_commas)

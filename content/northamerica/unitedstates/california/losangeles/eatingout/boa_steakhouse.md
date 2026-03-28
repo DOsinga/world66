@@ -12,8 +12,6 @@ Located in The Grafton Hotel on Sunset Boulevard, BOA Steakhouse serves up delic
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: American
 
@@ -26,5 +24,3 @@ url: [www.boasteak.com](http://www.boasteak.com)
 address: 8462 W. Sunset Boulevard, Hollywood (also Santa Monica and Las Vegas
 
 PriceOfMenu: Average Dish $35-$40
-
-[back to Eating Out](..)

@@ -35,5 +35,3 @@ Make the most out of your last day by buying things that will remind you of your
 
 **Contributors**
 April 08, 2010
-new
-by [pamelarae](/member/pamelarae)

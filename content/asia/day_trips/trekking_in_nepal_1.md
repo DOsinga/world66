@@ -5,8 +5,6 @@ address: "Thamel, Kathmandu, Nepal"
 email: "guidenepal@gmail.com"
 phone: "0097714422021"
 url: "www.trekshimalaya.com"
-latitude: 27.716658
-longitude: 85.312702
 ---
 
 Trekking in Nepal http://www.trekshimalaya.com is part of world http://www.adventurestrekking.com adventure trekking tourism and Adventure Trekking in Nepal. Natures to renew one’s own self regard, to relive oneself, to realize Nepal beauty, to interact with its generous, friendly peoples are highlights of trekking in Nepal. Trekking is one long term activity that draws repeat visitors. Nepal is final purpose for trekking offers numerous options walking excursion to meet snowy peaks, their foot hills, valleys but however there is amazing for each who hope trek in Nepal hill, mountain area. Typical trekking and hiking in Nepal as unique combination of natural glory, spectacular trekking trips to hard climbing and Trekking in Himalaya for Everest Base Camp Trek is most rewarding way to skill Nepal natural beautification and cultural array is to walking, trekking, width and the height of country. Trekking is important of travel Nepal for trekking tours in Himalaya on description Nepal tour of large range of ecological features for Nepal Travel Holiday. The country nurtures a variety of flora and scenery. Addition to natural atmosphere is rich Himalayan culture. Many of visitor trek to different part of Nepal every year to experience its rustic charm, nature and culture. Most treks through areas between 1000 to 5185m, though some popular parts reach over 5648 meters. Trekking is not climbing, while the climb of Himalayan peaks and enjoy walking holiday in Nepal and trekking tours in Nepal might be an attraction for travelers. Every travelers knows for the trekking in Nepal from all over the words an inspiring knowledge. For your attraction Travel Holiday in Nepal lies in its stunning beauty and its excellent culture.
@@ -73,5 +71,3 @@ url: [www.trekshimalaya.com](http://www.trekshimalaya.com)
 address: Thamel, Kathmandu, Nepal
 
 email: guidenepal@gmail.com
-
-[back to Day Trips](..)

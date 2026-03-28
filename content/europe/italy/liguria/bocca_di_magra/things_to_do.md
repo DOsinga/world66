@@ -9,12 +9,8 @@ From Bocca di Magra you can take ferryboat rides to Punta Corvo (The Black Bird'
 
 **Contributors**
 January 14, 2006
-new
-by [karenbru](/member/karenbru)
 
 January 17, 2006
-change
-by [reen](/member/reen)
 
 ### [Monte Marcello National Park](/europe/italy/liguria/bocca_di_magra/things_to_do/monte_marcello_nat)
 

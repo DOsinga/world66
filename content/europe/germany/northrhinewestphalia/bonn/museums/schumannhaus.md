@@ -13,7 +13,3 @@ Former lunatic asylum in Endenich where Robert Schumann spent the last years of
  Telephone: +49-228-773656
 
 type: general
-
-
-
-[back to Museums](..)

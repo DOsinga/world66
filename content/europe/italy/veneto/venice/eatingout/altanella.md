@@ -14,5 +14,3 @@ type: Local
 
 
 address: Calle dell'Erbe, Guidecca
-
-[back to Eating Out](..)

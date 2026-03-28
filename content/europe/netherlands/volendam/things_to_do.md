@@ -25,5 +25,3 @@ No visit to Volendam would be complete without a visit to the Fotoshop where you
 
 **Contributors**
 March 26, 2010
-change
-by [piyushjain](/member/piyushjain_)

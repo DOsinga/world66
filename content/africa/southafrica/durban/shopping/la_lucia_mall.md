@@ -11,8 +11,6 @@ Lovely suburban shopping centre in La Lucia on the northern fringes of Durban. R
 
 **Contributors**
 January 19, 2006
-new
-by [lesley in sa](/member/lesley_in_sa)
 
 type: Shopping centers and malls
 
@@ -25,5 +23,3 @@ tel: 21450378
 address: Complex Mozal
 
 email: riverairatchet@gmail.com
-
-[back to Shopping](..)

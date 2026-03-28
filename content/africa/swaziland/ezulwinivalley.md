@@ -9,7 +9,4 @@ On the road from capital [Mbabane](/africa/swaziland/mbabane) there is a very la
 
 The Swazi Cultural Village, a reconstructed Swazi village from late 19th century is also located in the Ezulwini valley.
 
-*Change history*
-Orginal article by [bergie](/member/bergie) on 25 February 04
-
-Minor corrections by [bergie](/member/bergie) on 25 February 04
+Minor corrections on 25 February 04

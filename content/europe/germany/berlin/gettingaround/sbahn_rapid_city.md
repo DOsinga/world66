@@ -28,5 +28,3 @@ sbahn.vbb-fahrinfo.de
 
 **Contributors**
 June 16, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)

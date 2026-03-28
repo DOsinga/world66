@@ -1,9 +1,9 @@
 ---
-title: "Hrodna (Grodno) Travel Guide"
+title: "Hrodna (Grodno)"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 History
 
@@ -91,11 +91,3 @@ other Belarusian city.
 
 **Since the breakup of the Soviet Union in 1990 Belarus has been an independent
 country.**
-
-#### Contributors
-
-May 02, 2007 change by [zmiter](/member/zmiter) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 17:49

@@ -1,9 +1,9 @@
 ---
-title: "Peniscola Travel Guide"
+title: "Peniscola"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Peniscola is a small fishing village which has become a sizeable tourist destination in recent years. It has a picturesque penninsula jutting out which contains the impressive mediaeval castle and fortified town.
 
@@ -14,7 +14,3 @@ There are plenty of bars, restaurants and hotels and it is very busy during peak
 The town itself is famous for a number of things but probably its biggest is that it was the hiding place for Pope Benedict also known as Papa Luna.
 
 The nearest train station is Benicarlo/Peniscola which is 8km from Peniscola. Peniscola is well served by the A7 motorway and the N340 which both have junctions very close to Peniscola and are well signed.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 02:15

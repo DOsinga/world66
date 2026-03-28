@@ -6,8 +6,6 @@ email: "sunwraywes@aol.com"
 phone: "909/793-2031"
 type: "Other"
 url: "www.edwardsmansion.com"
-latitude: 34.069501
-longitude: -117.22312
 ---
 
 ### [Edwards Mansion](/northamerica/unitedstates/california/inlandempire/redlands/thingstodo/edwardsmission)

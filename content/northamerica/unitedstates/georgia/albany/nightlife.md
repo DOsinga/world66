@@ -28,5 +28,3 @@ The Albany chorale is a long standing choral group presenting three concerts a y
 **The Ritz Cultural Center**
 
 The Ritz Cultural Center offers youth programs providing opportunities for involvement and participation in the arts. Youths may work individually or in a group, exploring their imagination and creativity through storytelling, photography, painting, dance, poetry, puppetry, drama, sculpture and crafts.   [more..](/northamerica/unitedstates/georgia/albany/nightlife/theritzculturalcenter)
-
--->

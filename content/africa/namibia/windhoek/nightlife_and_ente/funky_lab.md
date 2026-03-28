@@ -12,8 +12,6 @@ on a thursday night when all shots are only N$5.00
 
 **Contributors**
 April 16, 2007
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing
 
@@ -24,5 +22,3 @@ type: Clubs and dancing
 ClosingTime: open till early morning
 
 accessibility: asy to spot
-
-[back to Nightlife and Entertainment](..)

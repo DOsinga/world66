@@ -15,5 +15,3 @@ There are ferries from Jersey, Guernsey, Cherbourg, France, to Poole and Weymout
 
 **Contributors**
 December 17, 2010
-new
-by [linkmunki](/member/linkmunki)

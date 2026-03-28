@@ -45,11 +45,4 @@ type: section
 
 **Police: **If you are in a situation that requires police assistance, you can reach the local station at 057 292 861. For emergencies you can dial the local police at 113 or the national police at 112.
 
-**Embassies: **There are no foreign embassies in Montecatini Terme. If you require the assistance of your local embassy, you will have to travel back to Florence or Pisa.
-
-**Tourism: **Montecatini Terme is most famous for its thermal spas. Throughout history people have flocked to Montecatini for its healing waters, including Vivaldi and Puccini.
-
-**Contributors**
-October 16, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)
+**Embassies: **There are no foreign embassies in Montecatini Terme. If you require the assistance of your local embassy, you will have to travel

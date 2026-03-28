@@ -21,6 +21,4 @@ The train line runs parallel to some parts of the Urubamba River, and the trip i
 
 This hiking begins in the 82 kilometer of the railroad Cusco - Aguas Calientes, in Ollantaytambo. Leaded by guides and in groups not smaller than 10; you arrive to Machu Picchu after 4 days, after traveling 40 kms. (24.85 miles) by the old Inca stone road, on the edge of the Urubamba canyon. The road crosses the Inca ruins of Patallacta, Huallabamba, Runku Rakay, Sayacmarca, Phuyu Pata Marca and Wiñaywayna. Besides captivating natural landscapes, water falls, tunnels, abundant flora and fauna, amid the exuberant vegetation for being near the forest, with view to the snowy mountains, and with pure air free of any vestige of contamination; ideal for birdwatching. The service of mountain guides, includes all the equipment, feeding, tents, carriers, etc. Exist routes for hiking of smaller duration; one that leaves from the 104 km. of the railroad crosses the ruins of Wiñaywayna and after few hours you arrive to Machu Picchu. 
 
-In all these routes lodgings of "Instituto Nacional de Cultura" (National Institute of Culture) exist where you can spend the night, and the roads are signaled, in spite of it, it is recommended to hire the services of experienced mountain guides. 
-
--->
+In all these routes lodgings of "Instituto Nacional de Cultura" (National Institute of Culture) exist where you can spend the night, and the roads are signaled, in spite of it, it is recommended to hire the services of experienced mountain guides.

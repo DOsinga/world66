@@ -27,5 +27,3 @@ Another site that shows the devastation that was wreaked on Eastern Europe durin
 
 **Contributors**
 August 14, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

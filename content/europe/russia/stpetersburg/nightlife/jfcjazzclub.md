@@ -40,5 +40,3 @@ openings: 7pm
 ClosingTime: 11pm
 
 tel: 272-9850
-
-[back to Nightlife and Entertainment](..)

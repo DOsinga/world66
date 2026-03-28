@@ -14,5 +14,3 @@ type: Clubs
 
 
 tel: (+354) 551 1440
-
-[back to Nightlife and Entertainment](..)

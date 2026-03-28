@@ -6,13 +6,8 @@ email: "southerncross@uol.com.br"
 phone: "55 21 2252-6793"
 url: "www.brazil-nature-adventours.com"
 zipcode: "20240-240"
-latitude: -22.922527
-longitude: -43.188061
 ---
 
 Natural history and cultural tours! Tropical outdoor adventures in National Parks, rainforest botany, Amazon hikes, Pantanal wildlife photo safari, sailboat whale watching, dream beaches, historic towns, architecture, arts, Brazilian music and folklore.
 
-*Change history*
-Orginal article by [brasilpartners](/member/brasilpartners) on 03 February 05
-
-Minor corrections by [giorgio](/member/giorgio) on 03 February 05
+Minor corrections on 03 February 05

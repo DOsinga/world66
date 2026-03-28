@@ -15,5 +15,3 @@ type: Dancing
 address: Key West Centre, 43 Van Buuren Road, Bedfordview.
 
 tel: (011) 455-1914
-
-[back to Nightlife and Entertainment](..)

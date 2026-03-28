@@ -203,7 +203,4 @@ LA tends to confuse people because it can get up to 80-85 degrees in the middle 
 
 rarely is it ever humid. L.A. is pretty much sunny and once you're past the beach, proably 72 to 80 during fall &amp; winter and 75 to 95 during the summer. There's not that smoggy anymore ... okay, most of it is blown and settles in RIVERSIDE COUNTY (east of LA) but in LA, it's quite nice now. The beaches tend to be a few degrees cooler and with a breeze but not a huge difference, unlike SF. About the only way to really tell is that it cools down much faster at night during winter so between November and March 1, bring a sweatshirt if you're near the beaches - otherwise, you can pretty much see why people move to LA and never leave
 
-*Change history*
-Orginal article by [spectre](/member/spectre) on 17 February 04
-
-Minor corrections by [jbelkin](/member/jbelkin) on 21 March 04
+Minor corrections on 21 March 04

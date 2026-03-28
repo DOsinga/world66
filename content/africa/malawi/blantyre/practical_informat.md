@@ -7,8 +7,6 @@ Getting around Blantyre
 
 **Contributors**
 September 04, 2008
-new
-by [henryslambert](/member/henryslambert)
 
 We currently have no Practical Information listed in Blantyre.
 

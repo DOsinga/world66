@@ -17,5 +17,3 @@ Reservations recommended.
 
 **Contributors**
 April 05, 2005
-new
-by [dduck](/member/dduck)

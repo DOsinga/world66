@@ -1,0 +1,4 @@
+---
+title: "Bielsko"
+type: location
+---

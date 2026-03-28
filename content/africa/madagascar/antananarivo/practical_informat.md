@@ -68,5 +68,3 @@ For more practical information on Antananarivo, pay a visit to the local tourist
 
 **Contributors**
 March 17, 2010
-new
-by [joekabuya](/member/joekabuya)

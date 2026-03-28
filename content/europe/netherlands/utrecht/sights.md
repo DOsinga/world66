@@ -12,11 +12,3 @@ You haven’t been to Utrecht when you haven’t climbed the Netherlands’ high
 address: Domplein 21
 
 pc: 3512 JE
-
-## Subsections
-
-[Churches](/europe/netherlands/utrecht/sights/churches)
-
-[Markets](/europe/netherlands/utrecht/sights/markets)
-
-[Museums](/europe/netherlands/utrecht/sights/museums)

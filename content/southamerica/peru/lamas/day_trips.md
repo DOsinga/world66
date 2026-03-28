@@ -7,5 +7,3 @@ It is not usual for tourists to stay in [Lamas](/southamerica/peru/lamas), but i
 
 **Contributors**
 December 08, 2006
-new
-by [approaching genius](/member/approaching_genius)

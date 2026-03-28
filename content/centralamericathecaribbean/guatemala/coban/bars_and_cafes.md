@@ -9,8 +9,6 @@ Past visitors to Coban have often asked ¨What is there to do around here at nig
 
 **Contributors**
 September 17, 2006
-change
-by [cobanera](/member/cobanera)
 
 ### [Cafe el Tirol](/centralamericathecaribbean/guatemala/coban/bars_and_cafes/cafe_el_tirol)
 
@@ -64,17 +62,10 @@ address: Avenida 3 and Calle 4
 
 [](/lib/map/handle?loc=centralamericathecaribbean|guatemala|coban)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

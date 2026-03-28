@@ -10,8 +10,6 @@ A Los Angeles staple for over 100 years, Philippe’s specializes in French dip 
 
 **Contributors**
 April 10, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: American
 
@@ -20,5 +18,3 @@ type: American
 url: [www.philippes.com](http://www.philippes.com/)
 
 PriceOfMenu: 5-15
-
-[back to Eating Out](..)

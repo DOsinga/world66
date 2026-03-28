@@ -9,9 +9,3 @@ This spectacular desert lake is unlike any other body of water in the world. As 
  Pyramid is also famous for its fish. Ancient Cui-ui fish still swim in its azure waters. These exotic fish first appeared more than 2 million years ago. Once abundant, they are now protected by the Endangered Species Act. For a good look at Pyramid's variety of fish, visit the Numaga Fish Hatchery and Visitors Center located between Wadsworth and Nixon. Water-skiing, jet-skiing, swimming, camping and fishing are just a few of the recreational opportunities for Pyramid visitors. The new Pyramid Lake Marina at Sutcliffe offers complete boating facilities. Comfortable temperatures and clear waters have lured sportsmen to Pyramid since the turn of the century. In fact, the world record cutthroat trout was pulled from Pyramid in 1925.  Pyramid Lake's Anahoe Island serves as a sanctuary for pelicans, which nest on its shore and can be seen flying in formation each spring. The island is closed to the public.  Pyramid Lake is fed by the Truckee River, which originates at beautiful Lake Tahoe.
 
 type: general
-
-
-
-
-
-[back to Sights](..)

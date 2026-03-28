@@ -1,12 +1,8 @@
 ---
-title: "Sheikh Travel Guide"
+title: "Sheikh"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Sahil region
-
-Page last generated on Mon 16:57
-
--->

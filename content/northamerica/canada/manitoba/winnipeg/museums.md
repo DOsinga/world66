@@ -4,8 +4,6 @@ type: section
 address: "61 Carlton St Winnipeg Manitoba"
 phone: "1 204 943-2835"
 type: "general"
-latitude: 49.885991
-longitude: -97.141833
 ---
 
 Lots of interesting exhibits to visit in the Winnipeg area. Biggest problem will be deciding which one to visit first.

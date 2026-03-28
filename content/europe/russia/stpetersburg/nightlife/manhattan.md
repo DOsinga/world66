@@ -4,8 +4,6 @@ type: poi
 address: "Fontanka 90"
 opening_hours: "daily 12:00-5:00"
 type: "Discos and Nightclubs"
-latitude: 46.570198
-longitude: 30.858065
 ---
 
 Hip place with occational jazz improvisations
@@ -17,5 +15,3 @@ type: Discos and Nightclubs
 address: Fontanka 90
 
 openings: daily 12:00-5:00
-
-[back to Nightlife and Entertainment](..)

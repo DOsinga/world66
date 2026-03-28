@@ -61,5 +61,3 @@ and shows some of the most beautiful artwork in a Redwood grove area
 
 **Contributors**
 March 06, 2010
-change
-by [suegabel](/member/suegabel)

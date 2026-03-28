@@ -1,9 +1,9 @@
 ---
-title: "Ascoli Piceno Travel Guide"
+title: "Ascoli Piceno"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Ascoli Piceno
 
@@ -152,9 +152,3 @@ Bivio Giustimana, Campolungo-villa sant'Antonio, Caprignano, Carpineto, Casa cir
 
 Massy , France , since 1997 ,by mayor Roberto Allevi for Ascoli Piceno and mayor Vincent Delahaye for Massy.
 Trier , Germany , since 1958 ,by mayor Serafino Orlini for Ascoli Piceno and mayor Heinrich Raskin for Trier
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Ascoli_Piceno*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 01:33

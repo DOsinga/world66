@@ -13,5 +13,3 @@ type: Ice Parlors
 address: Avenida Manuel da Maia, 56 C (Roma)
 
 tel: +35 21 - 848794
-
-[back to Eating Out](..)

@@ -64,5 +64,3 @@ dance moves.
 
 **Contributors**
 March 26, 2010
-new
-by [kwalker](/member/kwalker)

@@ -23,8 +23,4 @@ Many saints are buried within the main district of the city and visiting these m
 
 #### Enjoy Walking through the Garden of Heaven
 
-This beautiful garden was built by Meer Syed Abid Hussain, Esq. After his death, his son Meer Syed Abid Hussain, Esq. reconstructed it back to its former beauty. It sits on over 75 acres of land outside of SABIQ Abad. Although this garden is a privately owned garden, it is open to the public on certain days.
-
-#### Explore the Palace of the Sultan of Abu Dhabi
-
-Constructed under the rule of Zayad Bin Sultan, the Sheikh who also ruled Abu Dhabi, the palace is located in the Cholistan Desert about 18k.m. southeast of the main city. Beautiful manicured lawns and beautiful flower gardens can be seen there. Domestic birds, such as peacocks and Cuckoos can also be found there. When the ruler of the Abu Dhabi used to visit the state, the rulers used to stay in the palace.
+This beautiful garden was built by Meer Syed Abid Hussain, Esq. After his death, his son Meer Syed Abid Hussain, Esq. reconstructed it

@@ -27,8 +27,6 @@ reponsability!
 
 **Contributors**
 November 12, 2007
-change
-by [sabinekunert](/member/sabinekunert)
 
 type: Diving
 
@@ -43,5 +41,3 @@ url: [www.marlinyacht.com.br](http://www.marlinyacht.com.br)
 address: Av. Infante Don Henrique, s/nº - Loja A1. Marina da Glória - RJ
 
 email: marlin@marlinyacht.com.br
-
-[back to Things to do](..)

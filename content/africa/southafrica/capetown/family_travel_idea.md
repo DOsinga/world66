@@ -47,16 +47,4 @@ handicrafts, handmade art-pieces and mementos made from shark teeth.
 Another famous shopping zone is the Alfred Mall that provides upscale
 jewelry items and ancient artifacts.- **Historical Visits **- The entire family can walk along the waterfront area to observe some
 splendid buildings like the Gothic Clock Tower that was once the office
-of the port’s captain. The Time Ball Tower dates back to the 19th
-century. Just adjacent to the tower is the historical Dock House.
-Curious visitors can be seen trying to understand the working of the
-Time Ball which is an ancient shipping device. Just along the Time Ball
-Tower is the popular dragon tree that is believed to be more than a
-century-old. On the backside of the tower lies the infamous Breakwater
-Prison that was built in 1860 and is often mentioned in folklore of
-this part of Cape Town.
-
-**Contributors**
-March 15, 2010
-change
-by [ak1980](/member/ak1980)
+of the port’s captain. The Time Ball Tower dates

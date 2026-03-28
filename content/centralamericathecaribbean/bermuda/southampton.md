@@ -1,7 +1,9 @@
 ---
-title: "Southampton Travel Guide"
+title: "Southampton"
 type: location
 ---
+
+Travel Guide
 
 Southampton is home to some of the finest beaches in Bermuda, and also a couple of truly lovely hotels.
 
@@ -15,5 +17,3 @@ Hire a moped and explore! The South Shore Road runs all the way through Southamp
 
 **Contributors**
 September 14, 2005
-new
-by [alexis233](/member/alexis233)

@@ -30,5 +30,3 @@ url: [www.vinology.com](http://www.vinology.com)
 address: 2006 Fairmount Ave
 
 email: info@vinology.com
-
-[back to Nightlife and Entertainment](..)

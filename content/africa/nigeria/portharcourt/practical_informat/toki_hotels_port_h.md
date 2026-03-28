@@ -23,5 +23,3 @@ url: [www.tokihotels.com](http://www.tokihotels.com)
 address: Nkpogu Road
 
 email: bookings@tokihotels.com
-
-[back to Practical Information](..)

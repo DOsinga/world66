@@ -9,9 +9,3 @@ A R$50,00 bill worth less than 5 bills of R$10,00.
 A R$100,00 bill?! Don´t even think about!
 
 type: Money matters
-
-
-
-
-
-[back to Practical Information](..)

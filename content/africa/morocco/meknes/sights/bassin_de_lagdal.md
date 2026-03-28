@@ -11,13 +11,9 @@ After an exhausting visit to the Medina and the Ville Impériale it's a nice pla
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 type: Squares
 
 
 
 address: The basin is located about 500 m south of the Mechouar of the Royal Palace Mhensha on the fringes of the Heri es-Souani, next to the quartier de Béni M'hammed.
-
-[back to Sights](..)

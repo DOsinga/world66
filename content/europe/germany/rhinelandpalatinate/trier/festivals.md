@@ -25,9 +25,5 @@ There are many other events that are held annually in Trier which are worth a vi
 
 **Contributors**
 March 15, 2010
-new
-by [imran_m](/member/imran_m)
 
 March 18, 2010
-change
-by [ctanios](/member/ctanios)

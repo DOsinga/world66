@@ -8,7 +8,5 @@ South Kensington is a district in the Royal Borough of Kensington and Chelsea. I
 
 **Contributors**
 February 05, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Embassies and Consulates

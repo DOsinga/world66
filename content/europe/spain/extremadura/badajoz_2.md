@@ -1,9 +1,9 @@
 ---
-title: "Badajoz Travel Guide"
+title: "Badajoz"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located
 on the banks of the Guadiana River, only six kilometres away from
@@ -24,11 +24,3 @@ If you are looking for teh typicial tapas, remember that just asking for a beer 
 Arab Walls or 15th Century Walls faced to the River Guadianda gives a nice view of teh city. CLose tooteh River you'll find teh Palacio de Godoy, Ermita de los Pajaritos or the Puerta de Palmas Main gate. In front of it yyou'll find the Puente de Palmas (15th century). In teh otehr side of the river you'll find another castle ( Baluarte de Santiago) but until now it is not open to tourist visits.
 
 The lack of regional investment is clear when walking out of the city center and even in the historical area. Take a taxi and go to the Cerro de Reyes or Los Colorines neighbourghood. if you hear people talking pasionately against the Governement and wishing to go defintely to Portugal, do not worry, you are in Badajoz.
-
-#### Contributors
-
-February 12, 2007 new by [costacora](/member/costacora) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 02:04

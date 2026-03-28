@@ -22,5 +22,3 @@ tel: 1-416-869-0045
 url: [www.theguvernment.com](http://www.theguvernment.com)
 
 address: 132 Queens Quay West (near Jarvis)
-
-[back to Nightlife and Entertainment](..)

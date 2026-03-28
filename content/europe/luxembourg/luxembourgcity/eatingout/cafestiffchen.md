@@ -20,5 +20,3 @@ address: Rue J. Engling 12
 tel: +352 – 437 81
 
 zipcode: L-1466 Dommeldange (near Kirchberg)
-
-[back to Eating Out](..)

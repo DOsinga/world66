@@ -1,8 +1,6 @@
 ---
 title: "Van Gogh"
 type: poi
-latitude: 52.358367
-longitude: 4.88109
 ---
 
 This is one the most popular museums in Amsterdam and not for nothing. It really is a nice museum. The paintings tell the story of Van Goghs tragic life, from his start in the Netherlands to his brilliant time in France.
@@ -18,5 +16,3 @@ The Van Gogh Museum is located on the Museumplein in Amsterdam, between the Rijk
 address: Paulus Potterstraat 7
 
 url: [www.vangogh.nl](http://www.vangogh.nl)
-
--->

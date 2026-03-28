@@ -8,13 +8,5 @@ Fort Greene is a neighborhood in Brooklyn, New York City, USA, roughly bounded b
 
 **Contributors**
 March 02, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Quarter
-
-
-
-
-
-[back to Practical Information](..)

@@ -10,8 +10,6 @@ From the famous Radcliffe Camera (1737-1749) to the University Church of St. Mar
 
 **Contributors**
 May 17, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 
 
@@ -20,5 +18,3 @@ tel: 01865 726871
 url: [www.oxford.gov.uk](http://www.oxford.gov.uk/tourism)
 
 address: Oxford Information Centre, 15-16 Broad Street
-
-[back to Day Trips](..)

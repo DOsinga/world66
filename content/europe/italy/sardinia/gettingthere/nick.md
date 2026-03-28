@@ -15,5 +15,3 @@ type: By Air
 address: terrykbrown@hotmail.com
 
 email:
-
-[back to Getting There](..)

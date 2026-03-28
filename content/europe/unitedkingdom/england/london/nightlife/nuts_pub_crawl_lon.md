@@ -22,5 +22,3 @@ tel: 07516066500
 url: [www.nutspubcrawl.com](http://www.nutspubcrawl.com)
 
 email: jeremie@nutspubcrawl.com
-
-[back to Nightlife and Entertainment](..)

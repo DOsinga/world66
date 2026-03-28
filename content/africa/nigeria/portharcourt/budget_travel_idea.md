@@ -24,5 +24,3 @@ While you are perusing around the city, it is suggested that you rent a bike if 
 
 **Contributors**
 April 05, 2010
-new
-by [turkeyfish](/member/turkeyfish)

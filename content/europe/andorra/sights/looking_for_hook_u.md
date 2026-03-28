@@ -12,5 +12,3 @@ type: Hotspots
 
 
 email: weedspot2@gmail.com
-
-[back to Sights](..)

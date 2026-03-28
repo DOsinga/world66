@@ -30,7 +30,3 @@ Le Lido has some charm, a bit touristy though. Dinner 8pm. Shows 10pm, midnight.
 address: 116 bis av des Champs-Elysées
 
 tel: 01.40.76.56.10
-
-## Subsections
-
-[accompagnatrice](/europe/france/paris/nightlife/entertainment/accompagnatrice)

@@ -14,5 +14,3 @@ type: Spa and Sauna
 
 
 email: h_e_r_04@hotmail.com
-
-[back to Things to do](..)

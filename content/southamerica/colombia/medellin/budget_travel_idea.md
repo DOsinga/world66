@@ -59,9 +59,5 @@ prices for day to day groceries.
 
 **Contributors**
 February 26, 2010
-change
-by [schitti](/member/schitti)
 
 February 11, 2010
-new
-by [miss_frenchye](/member/miss_frenchye)

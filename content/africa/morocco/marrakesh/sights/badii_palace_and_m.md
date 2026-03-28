@@ -12,11 +12,5 @@ There is far more walking involved in seeing the whole palace than you would ini
 
 **Contributors**
 November 27, 2007
-change
-by [davidx](/member/davidx) (1 point)
 
 type: Palaces
-
-
-
-[back to Sights](..)

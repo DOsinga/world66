@@ -38,9 +38,5 @@ State holidays
 
 **Contributors**
 May 19, 2005
-change
-by [giorgio](/member/giorgio) (1 point)
 
 May 18, 2005
-new
-by [bofh](/member/bofh)

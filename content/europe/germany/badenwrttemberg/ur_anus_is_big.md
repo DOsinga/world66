@@ -1,14 +1,8 @@
 ---
-title: "UR ANUS IS BIG Travel Guide"
+title: "UR ANUS IS BIG"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 hehehe
-
-*Part or or all of this text stems from the original article at: bobjelly*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 08:13

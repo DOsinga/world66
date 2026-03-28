@@ -1,8 +1,6 @@
 ---
 title: "Tlemcen"
 type: location
-latitude: 34.881789
-longitude: -1.316699
 ---
 
 Tlemcen is located in th east of Algeria just south of [Oran](/africa/algeria/oran). Traditionally Tlemcen head closer cultural ties with [Fez](/africa/morocco/fez) in Morocco than with other Algerian cities.

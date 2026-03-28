@@ -7,5 +7,3 @@ A fascinating and educational experience can be found at the Alexandria Black Hi
 
 **Contributors**
 May 28, 2009
-new
-by [harding](/member/harding)

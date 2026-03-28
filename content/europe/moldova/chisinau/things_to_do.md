@@ -23,5 +23,3 @@ Tourists should also visit the Chisinau Orthodox Cathedral which is one of the o
 
 **Contributors**
 April 20, 2010
-new
-by [imran_m](/member/imran_m)

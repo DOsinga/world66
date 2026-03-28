@@ -12,5 +12,3 @@ Visit the medina of [Fez](/africa/morocco/fez) and/ or [Marrakesh](/africa/moroc
 url: [www.tourdust.com](http://www.tourdust.com/blog/morocco/)
 
 email: mark@tourdust.com
-
-[back to Top 5 Must Do's](..)

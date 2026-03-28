@@ -27,9 +27,5 @@ When traveling to Tunis, a game plan ensures that you get the best of the best w
 
 **Contributors**
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 January 18, 2010
-new
-by [christina tilicki](/member/christina_tilicki)

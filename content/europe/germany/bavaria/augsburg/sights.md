@@ -5,10 +5,7 @@ type: section
 
 Augsburg is a beautiful city that still maintains a large degree of its Renaissance character despite World War II damage. The highlight is the Maximilianstrasse, which features many fine houses with fancy Renaissance gables and three magnificent fountains. Just off this main road stands the Italian style mansion of the powerful Fugger banking clan, built in 1512-15. Another fine feature of the Altstadt is the 17th- century armory.
 
-*Change history*
-Orginal article by [indrian](/member/indrian) on 19 June 04
-
-Write up by [indrian](/member/indrian) on 19 June 04
+Write up on 19 June 04
 
 **all**
 
@@ -23,5 +20,3 @@ The original Romanesque cathedral was built in 994-1065 and some features still 
 **Fuggerei**
 
 The Fuggerei is a unique example of a Renaissance social welfare program. Established in 1516 by Jacob Fugger, the complex was created to house the pooer citizens of the city. There are 52 houses built in 1516-25. There is a small museum that includes one house furnished as it would have been in the 16th century. [more..](/europe/germany/bavaria/augsburg/sights/fuggerei)
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Futuroscope"
+type: location
+---

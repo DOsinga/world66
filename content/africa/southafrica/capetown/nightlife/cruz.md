@@ -23,5 +23,3 @@ url: [www.cruz.com](http://www.cruz.com)
 accessibility: by taxi,
 
 address: someset road ,capetown
-
-[back to Nightlife and Entertainment](..)

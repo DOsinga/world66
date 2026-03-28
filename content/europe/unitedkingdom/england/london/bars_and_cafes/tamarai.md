@@ -3,8 +3,6 @@ title: "Tamarai"
 type: poi
 accessibility: "WC2B 5PG, in Central London, UK"
 address: "167 Drury Lane, Covent Garden,"
-latitude: 51.514048
-longitude: -0.120869
 ---
 
 **Tamarai Bar : http://www.tamarai.co.uk/**
@@ -20,5 +18,3 @@ Tamarai was awarded best late night bar in UK from Theme Bar and Restaurant Awar
 accessibility: WC2B 5PG, in Central London, UK
 
 address: 167 Drury Lane, Covent Garden,
-
-[back to Bars and Cafes](..)

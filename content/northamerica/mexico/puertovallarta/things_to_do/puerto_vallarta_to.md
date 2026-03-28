@@ -7,8 +7,6 @@ email: "info@puertovallartatours.net"
 phone: "1 (866) 217-9704"
 type: "Other"
 url: "www.puertovallartatours.net"
-latitude: 20.640718
-longitude: -105.220306
 ---
 
 Puerto Vallarta Tours by Johann & Sandra offers discounted tours, activities, and excursions in Puerto Vallarta. They offer their exclusive Puerto Vallarta Discount Card free with every reservation, for additional savings on shopping and dining at over 160 locations throughout Puerto Vallarta. Toll-Free, English-Speaking customer service is always available 7 days a week from 7:00 AM to 11:00 PM.
@@ -30,5 +28,3 @@ url: [www.puertovallartatours.net](http://www.puertovallartatours.net)
 address: Puerto Vallarta, Mexico
 
 email: info@puertovallartatours.net
-
-[back to Things to do](..)

@@ -30,30 +30,4 @@ It’s a small chance a La Paz taxista will want to take you to Coroico (for a g
 **Bicycles**
 The most popular way to get to Coroico is by bicycle. Several agencies offer the trip. First you drive up to la Cumbre (4700 meters a.s.l.). From the freezing cold you descend on asphalt until Chuspipata. After descending 1700 meters at 50 kmph, you enter the jungle. Basically, the one way dirt road (number 2 on the map) now only serves bicycle traffic. Don’t worry about it not being exciting enough though: every mistake might get punished by a 500 meter fall down the roadside cliff.
 
-The most highly rated agencies are Gravity (on the Prado) and Downhill Madness (on the Sagarnaga Street). They charge 50 to 70 US$ depending on the bike. In the Sagarnaga Street a lot of cheaper agencies can be found (from US$ 35). For a more individual experience, go with the Coroico agency (see Services – Bicycles of this file). Service generally includes breakfast, the minibus to La Cumbre, snack, lunch in a hotel in Coroico and transport back to La Paz (if you decide not to stay in Coroico).
-Even if you don’t plan to stay, take along your luggage. You might change your mind on arrival.
-
-**Trekkings**
-
-*1. El Choro* (n° 3 on map)
-The most famous trek in the area is by far the La Cumbre-Coroico trek, el Choro. In three days this millennial path takes you from the cold mountains to the lush valleys around Coroico.
-Most travel books have info. In La Paz the Tourist Information Office can tell more.
-
-*
-2. Urpuma* (n° 4 on map)
-A shorter but similar trip is the Urpuma trail. It starts near Unduavi. It climbs for about half an hour, than plunges right into the cloud forest for a full days walk up to Sandillani, where it joins El Choro. The second day it’s two to three hours more on Inca trails to Chairo. From here, you can walk on along the dirt road or take a taxi.
-
-Details.
-Take a minibus to Coroico and ask for a stop two kilometres passed Unduavi, where there is a sign of the Cotapata National Park indicating the start of the Sillutinkara or Urpuma trail. It takes about two hours to get there. Leave early, because the walk to Sandillani takes 8 hours. The first 30-45 minutes you have to climb. At a pass the path splits: one goes up, one goes down. It’s best to take the path that goes down. In Sandillani you can sleep in the Urpuma hostel (45 to 75 Bs. pp.) or camp in the garden of the Japanese hermit. From Sandillani it’s another two hours to Chairo, where the road starts. You can walk on or arrange a taxi (max. 200 Bs.).
-Mountain bike experts can try to tackle the difficult trail. It’s a one day trip from Coroico or La Paz, ending in Coroico. Talk with Carlos (mtbbolivia.com) for more details.
-
-*3. Eco-Via* (n° 5 on map)
-The Eco-Via trek is an easy two day trek. It’s the best option for tree lovers, as all of it is inside the cloud forest. Peculiar about this walk is that it follows the never finished train track, which would have connected Coroico with La Paz. It’s very spectacular with it being just a small ridge on a vertical cliff, it’s numerous waterfalls and constant views of the snowy Mururata Mountain and the Coroico valley. But it’s unique in that it is almost flat, as trains don’t like steep descents. This is a very feasible trek for those who like to walk, but are scared by the difficulty of Inca trails.
-
-The trek starts at Chuspipata. Take a minibus from La Paz to Coroico, and ask for drop off at the start of the old road. Follow it for half an hour to Chuspipata. There, a road goes to the left to Coroico (the bicycle road). A bit further, another road goes down to the right to Chulumani. You have to go straight on.
-At the end of the trek, arrange for pick-up with a Coroico taxi driver. Alternatively, walk on to Yolosa (first to the left) or Carmen Pampa (second to the left). In either places you should be able to find transport to Coroico.
-
-**Contributors**
-February 21, 2007
-change
-by [joosts](/member/joosts) (4 points)
+The most highly rated agencies are Gravity (on the Prado) and Downhill Madness (on the Sagarnaga Street). They charge 50 to 70 US$ depending on the bike. In the Sagarnaga Street a lot of cheaper agencies can be found (from US$ 35). For a more individual experience, go with the Coroico agency (see Services – Bicycles of this file). Service generally includes breakfast, the minibus to La Cumbre, snack, lunch in a hotel in Coroico and transport

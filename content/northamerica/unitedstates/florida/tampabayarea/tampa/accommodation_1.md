@@ -14,8 +14,6 @@ Tampa offers a wide variety of accommodations for business and pleasure.
 
 **Contributors**
 September 04, 2007
-change
-by [hotelogic](/member/hotelogic) (1 point)
 
 ### [InterContinental Tampa Hotel](/northamerica/unitedstates/florida/tampabayarea/tampa/accommodation_1/intercontinental_t)
 

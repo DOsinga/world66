@@ -1,8 +1,6 @@
 ---
 title: "Cottbus"
 type: location
-latitude: 51.756745
-longitude: 14.335731
 ---
 
 Cottbus is located at the southern end of the Spreewald (Spree Forest) about 70 miles south of Berlin and is also only 20 miles away from the Polish border. Cottbus and surrounding villages such as Tauer and Peitz are also home to the only Slavic race resident in Germany, the Sorbs (sometimes known as the Wends). This is why you will also see the name Chosebuz, as it is the Sorbish name, and further information about their culture and lifestyle can be found in the Wendisches Museum in the city centre. Many of the streets are signposted in both languages as well, but Sorbish, as expected from a Slavic language, is more related to Polish and Czech than to German. 

@@ -11,8 +11,6 @@ I really enjoyed this mexican joint over in Leblon. The food's great and cheap, 
 
 **Contributors**
 August 31, 2007
-new
-by [matthewmelaney](/member/matthewmelaney)
 
 type: Mexican
 
@@ -25,5 +23,3 @@ tel: (21)2495-2995
 url: [www.guapoloco.com.br](http://www.guapoloco.com.br)
 
 address: Rua Rainha Guilhermina 48, Leblon
-
-[back to Eating Out](..)

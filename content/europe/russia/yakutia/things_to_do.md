@@ -9,5 +9,3 @@ Perhaps, the most fascinating travel which can be made in Yakutia in summertime 
 
 **Contributors**
 September 23, 2006
-new
-by [svetico](/member/svetico) (2 points)

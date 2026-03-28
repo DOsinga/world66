@@ -11,8 +11,6 @@ Rodeo Drive in Beverly Hills is the world's most famous shopping street with mor
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: 800-345-2210
 url: [www.beverlyhillsbehere.com](http://www.beverlyhillsbehere.com)
 
 address: 239 South Beverly Drive
-
-[back to Shopping](..)

@@ -9,9 +9,7 @@ Capital of the silk industry, the Three Gauls and the French Resistance, Lyon cl
 
 **Museum of Gallo-Roman Civilization **
 
-The Museum of Gallo-Roman Civilization was inaugurated on November 15, 1975. The idea of constructing an archeological museum dates back to 1957 when a large part of the Gallo-Roman collection, previously housed at Palais Saint Pierre (Fine Arts Museum), was transferred to a small building on th [more..](/europe/france/alpes/lyon/museums/museumofgalloromancivilization)
-
-address: 17 rue Cléberg - 69005 LYON
+The Museum of Gallo-Roman Civilization was inaugurated on November 15, 1975. The idea of constructing an archeological museum dates address: 17 rue Cléberg - 69005 LYON
 
 tel: (33) 4 72 38 81 90
 

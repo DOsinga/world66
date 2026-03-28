@@ -1,0 +1,4 @@
+---
+title: "Gabes"
+type: location
+---

@@ -7,8 +7,6 @@ Museums of Augsburg
 
 **Contributors**
 September 23, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ### [Roman Museum](/europe/germany/bavaria/augsburg/museums/roman_museum)
 

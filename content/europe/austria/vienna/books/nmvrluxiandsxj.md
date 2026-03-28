@@ -7,8 +7,6 @@ isbn: "TyTOUmHPKIpqpBfo"
 
 wkHkBH rppxgbenwair
 
-*Part or or all of this text stems from the original article at: IGWCUAjrkMJyzBjXoeT*
-
 [](http://www.amazon.com/exec/obidos/ASIN/TyTOUmHPKIpqpBfo/osingacom?creative=125581&camp=2321&link_code=as1)
 
 
@@ -16,5 +14,3 @@ wkHkBH rppxgbenwair
 author: uyzwuwaj
 
 isbn: TyTOUmHPKIpqpBfo
-
-[back to Books](..)

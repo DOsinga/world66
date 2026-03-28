@@ -17,5 +17,3 @@ type: Tourist information
 url: [www.hotelchoyce.com](http://www.hotelchoyce.com/City/New_York.htm)
 
 address: http://www.hotelchoyce.com/City/New_York.htm
-
-[back to Practical Information](..)

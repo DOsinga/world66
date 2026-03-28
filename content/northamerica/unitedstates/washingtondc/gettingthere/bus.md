@@ -14,5 +14,3 @@ type: By Road
 
 
 url: [www.gotobus.com](http://www.gotobus.com)
-
-[back to Getting There](..)

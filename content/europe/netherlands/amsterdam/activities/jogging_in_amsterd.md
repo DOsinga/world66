@@ -9,8 +9,6 @@ Finding scenic places to jog or power walk in Amsterdam is easy as the city has 
 
 **Contributors**
 May 13, 2008
-new
-by [mcburton](/member/mcburton) (1 point)
 
 type: Going to the Beach
 
@@ -19,5 +17,3 @@ type: Going to the Beach
 
 
 url: [www.iamsterdam.com](http://www.iamsterdam.com)
-
-[back to Things to do](..)

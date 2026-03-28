@@ -21,10 +21,4 @@ Originally erected for defense purposes, this tower built in the 13th century wa
 
 **4. ****Rizzi Gallery (La Galleria Rizzi)**
 
-Home to an extensive collection of paintings and sculptures dating as far back to the 15th century, as well as some objets d&rsquo;art, this art gallery is principally renowned for its treasured collection of paintings from the Genovese School.****
-
-**5. ****Antique Villas **
-
-Magnificent structures once belonging to Genovese aristocrats continue to breathe life on the streets of Sestri. These historic edifices from the 17th and 18th century that fill the town were once owned by a number of infamous Aristocrats such as Doria, Fieschi, Balbi, Sartorio, Cambiaso and Pallavicini.
-
-There are a number of other sacred establishments that are a must-visit for every guest and these include: Basilica of Santa Maria of Nazareth, the Church of San Pietro in Vincolli and the Church of Santa Sabina in Trigoso. Lastly, but most definitely not least, do take a trip to the infamous picturesque towns of Portofino and Moneglia; these also lie just a few kilometers from Sestri.
+Home to an extensive collection of paintings and sculptures dating as far

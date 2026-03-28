@@ -8,7 +8,3 @@ type: poi
 address: Fö u. 27
 
 tel: 201-3780
-
-[back to Eating Out](..)
-
--->

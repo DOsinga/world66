@@ -39,9 +39,5 @@ recommended if you're planning to rent a car in the United States.
 
 **Contributors**
 January 26, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

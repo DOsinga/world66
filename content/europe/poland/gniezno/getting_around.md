@@ -22,6 +22,3 @@ ul. Dworcowa, ul. Mieszka I, ul. Mickiewicza, ul. Staszica, ul. Winiary, ul. Grz
 **Radio Taxi **
 
 telephone numbers: 919, 426 41 61, 9626, 426 87 87, 426 26 26, 9681, 425 32 53, 9682
-
-*Change history*
-Minor corrections by [hpharmsen](/member/hpharmsen) on 24 March 04

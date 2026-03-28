@@ -17,5 +17,3 @@ Mondays, Thursdays and Saturdays.
 
 **Contributors**
 December 05, 2006
-change
-by [huahinhans](/member/huahinhans)

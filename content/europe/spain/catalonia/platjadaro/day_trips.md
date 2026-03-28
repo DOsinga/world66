@@ -19,5 +19,3 @@ Llafranc is a beautiful coastal town near Palafrugell. Tourists can easily trave
 
 **Contributors**
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

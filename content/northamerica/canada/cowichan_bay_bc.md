@@ -1,8 +1,6 @@
 ---
 title: "Cowichan Bay BC"
 type: location
-latitude: 48.73718
-longitude: -123.650334
 ---
 
 The delightful village of Cowichan Bay is central to all of southern
@@ -20,12 +18,8 @@ Canada.
 
 **Contributors**
 May 18, 2005
-change
-by [seabear193](/member/seabear193)
 
 May 18, 2005
-change
-by [giorgio](/member/giorgio)
 
 ## Destinations in Cowichan Bay BC
 

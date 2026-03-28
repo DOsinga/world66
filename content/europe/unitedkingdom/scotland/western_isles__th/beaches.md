@@ -10,8 +10,3 @@ The western side of the Long Island provides any number of fine, extensive and f
 **2. Seal Bay, Barra. **This is a lovely beach about half way up the west side of Barra - the bus will put you down very close. it is well named and also has a fine expanse of sand.
 
 **3. Valtos, Lewis. **Remote and needing private transport, this area on the west coast is almost unbelievably beautiful with a large beach, dunes, an island and a large expanse of land good for wild camping. You **might **be lucky enough to make another discovery like the famous Uig chessmen, which were found near here - but don't hold your breath.
-
-*Change history*
-Orginal article by [davidx](/member/davidx) on 27 July 04
-
--->

@@ -65,5 +65,3 @@ quiet. There are no amenities available.
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)

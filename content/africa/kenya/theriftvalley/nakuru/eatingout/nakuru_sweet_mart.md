@@ -12,7 +12,3 @@ PriceOfMenu: about 200 ksh
 address: Box 285
 
 tel: 213238/216279
-
-[back to Eating Out](..)
-
--->

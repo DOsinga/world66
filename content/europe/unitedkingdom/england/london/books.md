@@ -13,8 +13,6 @@ From Royal artefacts to renaissance art, discover London's vast cultural heritag
 
 **Contributors**
 August 17, 2005
-new
-by [ownworld](/member/ownworld)
 
 ### [London City Guide](/europe/unitedkingdom/england/london/books/london_city_guide)
 

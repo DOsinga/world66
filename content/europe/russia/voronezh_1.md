@@ -1,9 +1,9 @@
 ---
-title: "Voronezh Travel Guide"
+title: "Voronezh"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Voronezh is a major Russian administrative, industrial and cultural centre located 500 km south of
 Moscow. Voronezh has a chequered past. From an important military base, founded in 1585 by Tsar
@@ -20,9 +20,3 @@ the building site of the first Russian Navy.
 *L&C Language and Culture Co.,Ltd.] will be glad to manage visit visas for you.*
 
 **
-
-*Part or or all of this text stems from the original article at: http://www.lcstudies.com/info/lcvoronezh.html*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 09:07

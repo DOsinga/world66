@@ -1,0 +1,4 @@
+---
+title: "Timaru"
+type: location
+---

@@ -5,8 +5,6 @@ address: "Rua dos Douradores, 16"
 email: "lisbon@gocartours.com"
 phone: "+351 21 096 50 30"
 url: "www.gocartours.pt"
-latitude: 38.711616
-longitude: -9.136731
 ---
 
 GoCar is an entirely new way to explore a city. These nifty yellow convertibles talk to you and take you on a city tour you'll never forget. The advanced navigational capabilities of the GPS deliver an informative tour, high-lighting specific locations throughout Lisbon as you drive. Just follow the friendly audio directions and relax.
@@ -29,5 +27,3 @@ url: [www.gocartours.pt](http://www.gocartours.pt/?lang=en)
 address: Rua dos Douradores, 16
 
 email: lisbon@gocartours.com
-
-[back to Day Trips](..)

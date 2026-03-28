@@ -48,5 +48,3 @@ Price per person 200 US$
 url: [www.egyptsunshine.net](http://www.egyptsunshine.net)
 
 email: luxor@egyptsunshine.com
-
-[back to Day Trips](..)

@@ -20,5 +20,3 @@ With an A-to-Z layout and maps showing location, each entry gives a brief descri
 author: Paul Skinner
 
 isbn: 978 1 59416 048 6
-
-[back to Books](..)

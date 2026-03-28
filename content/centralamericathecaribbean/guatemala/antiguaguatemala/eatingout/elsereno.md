@@ -17,5 +17,3 @@ type: general
 address: 6 Calle Poniente 30, La Antigua Guatemala
 
 tel: 8320073
-
-[back to Eating Out](..)

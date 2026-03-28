@@ -3,8 +3,6 @@ title: "Sights in Maramures Land"
 type: section
 address: "Maramures, Romania"
 type: "Monasteries"
-latitude: 47.671255
-longitude: 24.196461
 ---
 
 Maramures is an intriguing
@@ -24,8 +22,6 @@ monuments:
 
 **Contributors**
 November 21, 2006
-new
-by [romaniatours](/member/romaniatours) (1 point)
 
 ### [Barsana Monastery](/europe/romania/transylvania/maramures_land/sights/barsana_monastery)
 

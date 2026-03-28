@@ -20,8 +20,6 @@ With two monthly-ish 'special events' Hed Kandi LIVE (usually on the second Satu
 
 **Contributors**
 June 28, 2008
-new
-by [overdose](/member/overdose)
 
 type: Clubs and dancing
 
@@ -40,5 +38,3 @@ accessibility: Disabled access, no big singles groups
 address: Hed Kandi Beach Bar
 
 email: Info@HedKandiBeachBar.com
-
-[back to Nightlife and Entertainment](..)

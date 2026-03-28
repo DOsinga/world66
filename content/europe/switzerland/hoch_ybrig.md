@@ -1,8 +1,6 @@
 ---
 title: "Hoch Ybrig"
 type: location
-latitude: 47.015476
-longitude: 8.799598
 ---
 
 Hoch Ybrig is a ski area close to

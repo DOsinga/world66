@@ -1,0 +1,4 @@
+---
+title: "Vevey"
+type: location
+---

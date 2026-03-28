@@ -35,5 +35,3 @@ See the remains of the castle wall. Albufeira was once settled by the Romans whi
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

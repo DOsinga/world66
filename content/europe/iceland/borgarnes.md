@@ -1,8 +1,6 @@
 ---
 title: "Borgarnes"
 type: location
-latitude: 64.538334
-longitude: -21.920208
 ---
 
 **Borgarnes** is first mentioned in Egil´s Saga, but there it is called Digranes. That is where the coffin of Kveldúlfur, the father of Skallagrímur, drifted ashor. Skallagrímur set up his household at Borg, near the place where the coffin came ashor. Among Skallagríms shipmates was a man named Grani. He got land on Digranes and called his farm Granastaðir and is said to be the first settler in Borgarnes. No mention is of a settlement in Borgarnes from the days of Grani until the 19th century, when a few houses were built there in connection with trading. 

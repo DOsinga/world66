@@ -25,5 +25,3 @@ The Polar Museum is another fun visit, as it descibes--in detail--the Arctic exp
 
 **Contributors**
 March 23, 2010
-change
-by [piyushjain](/member/piyushjain_)

@@ -56,9 +56,5 @@ find free maps, discounted entry tickets and other vouchers.
 
 **Contributors**
 February 12, 2010
-change
-by [kwalker](/member/kwalker)
 
 February 26, 2010
-change
-by [schitti](/member/schitti)

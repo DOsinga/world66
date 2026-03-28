@@ -14,5 +14,3 @@ type: Other
 
 
 url: [cal.csusb.edu](http://cal.csusb.edu/Depts/TheatreArts/)
-
-[back to Things to do](..)

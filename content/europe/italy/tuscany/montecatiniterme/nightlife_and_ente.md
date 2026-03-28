@@ -36,13 +36,7 @@ sunset than in Montecatini Terme. Florence is only about 50 minutes away from Mo
 
 **Contributors**
 January 20, 2010
-change
-by [b.sowa](/member/b.sowa)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 January 17, 2010
-change
-by [cjr236](/member/cjr236)

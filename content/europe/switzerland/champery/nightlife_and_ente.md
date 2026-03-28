@@ -8,8 +8,6 @@ phone: "***"
 type: "general"
 url: "***"
 zipcode: "1874"
-latitude: 46.214203
-longitude: 6.083037
 ---
 
 The nightlife in Champery is very funny during the winter ...

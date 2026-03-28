@@ -4,8 +4,6 @@ type: location
 address: "Savanoriu St. 7"
 phone: "65 16 25"
 type: "Cinema"
-latitude: 54.652926
-longitude: 25.222157
 ---
 
 Ticket Office Open: 10:30-22:00.

@@ -28,17 +28,10 @@ By the way Mykonos town is good cause even if a bar is empty you can do easily b
 
 7.>>>> You can wear any sort of clothes you feel like.Just wear something really comfortamble cause you will dance untill the morning!!
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

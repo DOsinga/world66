@@ -8,8 +8,6 @@ Here are a few suggested daytrips.
 
 **Contributors**
 December 01, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### [Castle Howard](/europe/unitedkingdom/england/leeds_sheffield_a/york/day_trips/castle_howard)
 

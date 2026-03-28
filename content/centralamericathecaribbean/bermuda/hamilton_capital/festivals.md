@@ -27,5 +27,3 @@ Established in 1997, BIFF screens up to 75 films from over 30 countries in March
 
 **Contributors**
 March 29, 2010
-new
-by [suegabel](/member/suegabel)

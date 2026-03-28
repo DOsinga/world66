@@ -8,5 +8,3 @@ type: section
 We currently have no Beaches listed in Wellington.
 
 If you do know any Beaches in Wellington, please [Add].
-
--->

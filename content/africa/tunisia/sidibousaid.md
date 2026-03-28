@@ -1,8 +1,6 @@
 ---
 title: "Sidi bou said"
 type: location
-latitude: 36.871094
-longitude: 10.349052
 ---
 
 We currently have no information about Sidi bou said.

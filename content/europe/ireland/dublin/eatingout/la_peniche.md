@@ -18,8 +18,6 @@ The menu is Authentic French / Italian Bistro cuisine, with simple but hearty, r
 
 **Contributors**
 November 08, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: French
 
@@ -38,5 +36,3 @@ address: Grand Canal, Mespil Road, Dublin 2
 PriceOfMenu: reasonably-priced
 
 email: info@lapeniche.ie
-
-[back to Eating Out](..)

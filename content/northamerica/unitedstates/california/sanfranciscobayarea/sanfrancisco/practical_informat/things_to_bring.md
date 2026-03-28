@@ -16,13 +16,9 @@ Friendly Smile
 
 **Contributors**
 November 10, 2007
-new
-by [jzurdogo](/member/jzurdogo) (1 point)
 
 type: Tourist information
 
 
 
 url: [www.zurdogo.com](http://www.zurdogo.com/tops/bring.html)
-
-[back to Practical Information](..)

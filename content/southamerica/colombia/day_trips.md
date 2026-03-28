@@ -11,8 +11,6 @@ From medellin, you can go to a lot of places.One of them is the west road to the
 
 **Contributors**
 July 24, 2007
-change
-by [rfujitani](/member/rfujitani)
 
 ### [Guatape Tour](/southamerica/colombia/day_trips/guatape_tour)
 

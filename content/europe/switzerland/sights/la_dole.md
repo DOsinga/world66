@@ -3,8 +3,6 @@ title: "La Dole"
 type: poi
 opening_hours: "-------------------------------------"
 type: "Landmarks"
-latitude: 46.425649
-longitude: 6.099555
 ---
 
 La Dole is where the Radar is situated for Air traffic Control, it's
@@ -19,5 +17,3 @@ type: Landmarks
 
 
 openingHours: -------------------------------------
-
-[back to Sights](..)

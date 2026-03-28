@@ -18,14 +18,3 @@ Northeast Florida is home to the state's largest city, [Jacksonville](/northamer
 Further south you'll come to world-famous Daytona Beach, as well as the site of the American space agency, NASA, in Brevard County-well worth seeing. Central Florida is dominated by [Orlando](/northamerica/unitedstates/florida/orlando) and its well know coterie of theme parks, including Disney World, EPCOT Center, MGM Studios, Universal Studios, Sea World, and more tourist attractions than you can shake a stick at. But don't miss the charming small citrus towns south of Orlando or the lake towns to the north. To the west lie Tampa and [St. Petersburg](/northamerica/unitedstates/florida/tampabayarea/stpetersburg), beautiful cities with beaches to match. Tampa boasts a Busch Gardens theme park, but the real attraction here is the Gulf of Mexico, who's calm green waters and white sandy beaches are suitable for sunning year-round. 
 
 South Florida has seen the best days go by as Orlando and other parts of the state beckon tourists, but visiting there is still an unparalleled experience. Although [Fort Lauderdale](/northamerica/unitedstates/florida/fortlauderdale) is no longer a Spring Break haven, and [Miami](/northamerica/unitedstates/florida/miami) has seen its share of urban troubles, the beaches, the people, the Everglades, and the experience of it all is not to be missed. And of course no one has truly seen Florida who has not taken the long journey down U.S. 1 through the keys to Key West, the ultimate vacationer's paradise, where it's as easy to fill your day with activity as it is to do nothing at all.
-
-## Destinations
-
-- [Everglades](/northamerica/unitedstates/florida/everglades)
-- [Fort Lauderdale](/northamerica/unitedstates/florida/fortlauderdale)
-- [Miami](/northamerica/unitedstates/florida/miami)
-- [Northeast Florida](/northamerica/unitedstates/florida/northeastflorida)
-- [Orlando](/northamerica/unitedstates/florida/orlando)
-- [Space Coast Area](/northamerica/unitedstates/florida/spacecoastarea)
-- [Tampa Bay Area](/northamerica/unitedstates/florida/tampabayarea)
-- [The Panhandle](/northamerica/unitedstates/florida/thepanhandle)

@@ -60,5 +60,3 @@ excursions.
 
 **Contributors**
 March 06, 2010
-change
-by [suegabel](/member/suegabel)

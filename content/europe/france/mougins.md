@@ -1,9 +1,9 @@
 ---
-title: "Mougins Travel Guide"
+title: "Mougins"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mougins is a commune in the Alpes-Maritimes département in southeastern France. Located on the heights of Cannes in the district of Grasse, and surrounded by forests and woodlands, Mougins is around a 15 minute drive from Cannes and a 30 minute drive from Nice (traffic permitting). At the heart of Mougins is the picturesque Vieux Village (old village), which due to its hilltop location has stunning views over Cannes, Grasse, the Valmasque forest, the Esterel Massif and the Préalpes. Mougins has an international reputation both for its gourmet cuisine and its links with the art world, and has been frequented and inhabited by many famous people, including Fernand Léger, Jean Cocteau, Yves Saint Laurent, Winston Churchill, Édith Piaf, Catherine Deneuve and Pablo Picasso, who spent the last twelve years of his life there. Due to its proximity to Cannes, Mougins is often the destination of choice for celebrities during the Cannes Film Festival.
 
@@ -80,7 +80,3 @@ For a comprehensive list of places to stay, from five-star hotels to campsites, 
 Nearby Destinations
 
 Nearby destinations worth a visit are too numerous to mention. Try Valbonne and Antibes for a spot of shopping. Many of the mountain villages, such as Gourdon, Cipières and Tourrettes-Sur-Loup are spectacularly beautiful, with Saint-Paul-de-Vence being the most well-known of the villages perchés in the region.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 16:41

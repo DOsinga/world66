@@ -61,5 +61,3 @@ Farmers and Wine Growers Fall Fair.
 
 **Contributors**
 February 17, 2010
-change
-by [ctanios](/member/ctanios)

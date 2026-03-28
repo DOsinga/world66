@@ -6,8 +6,6 @@ email: "ketours@silverbirdtravel.com"
 phone: "Tel: +254 20 444 1999"
 type: "Other"
 url: "www.silverbirdsafari-africa.com"
-latitude: -1.275493
-longitude: 36.808517
 ---
 
 Silverbird Travel Plus Ltd is a reputable and professional travel & tours company based in Nairobi, Kenya. Our main focus is total customer satisfaction and delight. We are IATA accredited Agency license No 41210282 and member of Kenya Association of Travel Agents (KATA), Kenya Association of Tour Operators (KATO), Eco-Tourism Society of Kenya(ESK) and Kenya Tourism Federation (KTF). Our services are customized to client's specific needs and requests, some of our areas of specialization being; corporate travel planning, outbound tours, adventure tours and safaris, cultural tours and safaris, ecotourism safaris, leisure beach holidays, golfing safaris, deep sea fishing, diving excursions, wedding and honeymoon safaris.
@@ -41,5 +39,3 @@ url: [www.silverbirdsafari-africa.com](http://www.silverbirdsafari-africa.com)
 address: P.O. Box 14338-00800, Nairobi, Kenya.
 
 email: ketours@silverbirdtravel.com
-
-[back to Things to do](..)

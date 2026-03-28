@@ -14,5 +14,3 @@ type: Hotspots
 
 
 url: [www.travelpack.com](http://www.travelpack.com/guide/canada/british-columbia/vancouver)
-
-[back to Sights](..)

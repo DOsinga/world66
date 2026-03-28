@@ -20,8 +20,3 @@ The City of Tonawanda also is part of the larger Town of Tonawanda, a moderately
 Due east of Niagara Falls is also the City of Lockport.
 
 Lockport is well known as another stop on the Erie Canal, and is part of the Erie Canal Heritage Trail.
-
-*Change history*
-Orginal article by [allamericanbear](/member/allamericanbear) on 20 December 04
-
--->

@@ -27,12 +27,8 @@ Charlie's Bar features the best of both worlds. During the day it is the perfect
 
 **Contributors**
 January 17, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)
 
 ### [John](/europe/portugal/algarve/albufeira/bars_and_cafes/john)
 

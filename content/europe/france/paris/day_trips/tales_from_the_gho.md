@@ -17,5 +17,3 @@ url: [mojotravelguides.com](http://mojotravelguides.com/en/tales-from-the-ghost-
 address: 24 Baile an Tooreen
 
 email: sales@mojotravelguides.com
-
-[back to Day Trips](..)

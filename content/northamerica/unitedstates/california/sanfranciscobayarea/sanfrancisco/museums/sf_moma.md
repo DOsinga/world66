@@ -17,5 +17,3 @@ tel: 415.357.4000
 url: www.sfmoma.org
 
 address: 151 Third Street (between Mission and Howard Streets)
-
-[back to Museums](..)

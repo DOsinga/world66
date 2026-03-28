@@ -1,0 +1,4 @@
+---
+title: "Siros"
+type: location
+---

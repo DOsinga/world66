@@ -1,0 +1,4 @@
+---
+title: "Upington"
+type: location
+---

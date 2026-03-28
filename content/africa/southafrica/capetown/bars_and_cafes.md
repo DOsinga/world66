@@ -67,5 +67,3 @@ afternoons the deli offerings become more prevalent.
 
 **Contributors**
 March 13, 2010
-change
-by [ak1980](/member/ak1980)

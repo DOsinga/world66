@@ -9,13 +9,9 @@ Go to their site. They have english version and there is very good "Airport Maps
 
 **Contributors**
 July 04, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 type: By Air
 
 
 
 url: [www.vnukovo.ru](http://www.vnukovo.ru)
-
-[back to Getting There](..)

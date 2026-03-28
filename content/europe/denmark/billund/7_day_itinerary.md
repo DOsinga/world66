@@ -35,5 +35,3 @@ On the last day of your tour you must stay over at Vejje to enjoy some of the po
 
 **Contributors**
 February 23, 2010
-change
-by [ashmita](/member/ashmita_)

@@ -23,5 +23,3 @@ Festivals are one of the best ways to learn about the culture and history of a c
 
 **Contributors**
 April 12, 2010
-change
-by [ctanios](/member/ctanios)

@@ -18,5 +18,3 @@ address: Av. Taieb Mhiri - Douz 4260 - Tunisia
 tel: +216 75 47 06 92
 
 email: gts@palnet.tn
-
--->

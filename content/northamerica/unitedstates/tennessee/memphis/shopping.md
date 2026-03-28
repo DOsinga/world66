@@ -7,5 +7,3 @@ For upscale Memphis shopping, check out the Laurelwood Shopping Center on Popula
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

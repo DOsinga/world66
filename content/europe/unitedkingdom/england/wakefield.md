@@ -1,0 +1,4 @@
+---
+title: "Wakefield"
+type: location
+---

@@ -1,0 +1,4 @@
+---
+title: "Merizo"
+type: location
+---

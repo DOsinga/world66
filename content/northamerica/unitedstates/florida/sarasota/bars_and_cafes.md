@@ -9,8 +9,6 @@ Bars, Pubs and Cafes
 
 **Contributors**
 July 26, 2007
-new
-by [busto](/member/busto)
 
 ### [Monks Steamer Bar](/northamerica/unitedstates/florida/sarasota/bars_and_cafes/monks_steamer_bar)
 

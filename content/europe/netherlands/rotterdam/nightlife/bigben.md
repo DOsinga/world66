@@ -18,5 +18,3 @@ address: Stadhuisplaan 3
 tel: +31 (0)10 414 9992
 
 zipcode: 3012AR
-
-[back to Nightlife and Entertainment](..)

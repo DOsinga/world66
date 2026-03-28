@@ -9,8 +9,6 @@ add museums please
 
 **Contributors**
 April 18, 2006
-new
-by [azerbaijan08](/member/azerbaijan08) (2 points)
 
 ### [Julfa Regional museum](/europe/azerbaijan/naxcivan/culfa/museums/julfa_regional_mus)
 

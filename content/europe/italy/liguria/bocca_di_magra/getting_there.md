@@ -9,5 +9,3 @@ There are also many ferryboat services from many different ports that go to port
 
 **Contributors**
 February 11, 2006
-new
-by [karenbru](/member/karenbru)

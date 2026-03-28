@@ -1,9 +1,9 @@
 ---
-title: "St Paul lès Dax Travel Guide"
+title: "St Paul lès Dax"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 ** Here, one knows what epicurean means **
 The world famous “foie gras” and other local food specialities, summer parties and festivals, bull fight games and corridas, brass bands are everywhere to be fully savoured. In the Landes, human relations are still authentic.
@@ -28,13 +28,3 @@ Reaching the highest standards of quality, Terdax, the local made mud is famous 
 Smooth and creamy, it will certainly ease your pains.
 Other treatments as underwater massages and jets are also recommended and available “à la carte”.
 In cooled mineral water, make your legs lighter and thinner under phlebologic treatments such as specific bubble baths, jets showers, walking trails in pool, affusion massages, underwater showers.
-
-*Part or or all of this text stems from the original article at: Tourist office*
-
-#### Contributors
-
-April 16, 2007 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 02:14

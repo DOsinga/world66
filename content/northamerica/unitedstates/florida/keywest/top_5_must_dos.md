@@ -48,11 +48,4 @@ for an outing with the kids.
 
 **5. Visit the Shipwreck Historeum**
 
-Key West Shipwreck Historeum takes you back to the treacherous world
-of shipwrecking to offer a glimpse of how it shaped the prosperity of
-the city. Look out for the talented live performers, striking ancient
-treasures and hundreds of memorabilia that reveal the modus operandi
-employed by the shipwrecking professionals. The center also screens
-regular documentaries that recount events and stories from the 19th century. Key West Shipwreck Historeum also houses a lofty Lookout Tower.
-
-With all kinds of activities in Key West for both the adventurous and tame, these top 5 must do's have something for everyone.
+Key West Shipwreck Historeum takes you

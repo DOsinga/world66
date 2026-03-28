@@ -31,5 +31,3 @@ url: [www.prenditempo.com](http://www.prenditempo.com/)
 address: via G. Greppi 8, Bergamo
 
 email: info@prenditempo.com
-
-[back to Tours and Excursions](..)

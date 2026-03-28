@@ -45,5 +45,3 @@ Arona is located in the northern part of Lago Maggiore. The beach here is called
 
 **Contributors**
 February 19, 2010
-change
-by [ctanios](/member/ctanios)

@@ -1,0 +1,4 @@
+---
+title: "Tobago"
+type: location
+---

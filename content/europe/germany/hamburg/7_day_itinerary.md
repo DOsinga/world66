@@ -28,5 +28,3 @@ The Hamburg Harbor is a great place to find Hamburg senior travel things to do. 
 
 **Contributors**
 February 09, 2010
-new
-by [crrae](/member/crrae)

@@ -6,8 +6,6 @@ email: "tepitman@yahoo.co.uk"
 phone: "111111111"
 url: "www.berlincycletours.de"
 zipcode: "8040"
-latitude: 50.958604
-longitude: 9.811311
 ---
 
 Berlin Cycle Tours offer half and one-day tours of Berlin seeing all the main sights.

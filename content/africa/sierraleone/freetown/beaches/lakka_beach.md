@@ -9,11 +9,3 @@ is shorter.
 
 **Contributors**
 October 27, 2005
-new
-by [wanderingzito](/member/wanderingzito)
-
-
-
-
-
-[back to Beaches](..)

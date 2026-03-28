@@ -1,9 +1,9 @@
 ---
-title: "Alega Travel Guide"
+title: "Alega"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Situated roughly 10 kilometres outside of Pago Pago, the stunning village of Alega (pronounced Alenga) offers breathtaking scenery, hair-raising snorkelling and the chilled out atmosphere of a desert island.
 
@@ -14,11 +14,3 @@ The beach itself, is like many other's in the South Pacific, shally azure waters
 Alega also hosts and annual tatoo festival in which many artists from all over Polynesia gravitate towards this tiny corner of the Pacific. Along with this many other events are held throughout the year but, like most villages in the Samoas, please refrain from disturbing the village on Sundays as you will be most unwelcome.
 
 It may be a bugger to get to but American Samoa is well worth it.
-
-#### Contributors
-
-April 02, 2007 new by [umbongo82](/member/umbongo82)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 19:53

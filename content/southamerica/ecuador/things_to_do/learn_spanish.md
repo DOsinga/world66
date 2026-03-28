@@ -8,5 +8,3 @@ Learn Spanish while in Quito at **South American Language Center. **Select from 
 email: salc2005@yahoo.com
 
 url: [www.ecuador-spanish-school.com](http://www.ecuador-spanish-school.com)
-
--->

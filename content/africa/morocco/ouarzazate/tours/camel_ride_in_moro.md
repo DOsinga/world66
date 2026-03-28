@@ -25,5 +25,3 @@ url: [www.moroccanviews.com](http://www.moroccanviews.com)
 address: 48 derb sidi Mohammed El Haj Bab doukala
 
 email: contact@moroccanviews.com
-
-[back to Day Trips](..)

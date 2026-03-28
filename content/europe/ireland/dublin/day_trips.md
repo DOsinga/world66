@@ -7,8 +7,6 @@ Here are a few suggestions for an outdoor trip.
 
 **Contributors**
 October 01, 2005
-new
-by [giorgio](/member/giorgio)
 
 ### [The village of Portmarnock
 

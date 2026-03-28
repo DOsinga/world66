@@ -27,5 +27,3 @@ Located along the waterfront, the Port Docks market features a variety of local 
 
 **Contributors**
 March 12, 2010
-new
-by [shomer](/member/shomer)

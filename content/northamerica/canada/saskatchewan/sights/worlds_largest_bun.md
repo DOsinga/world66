@@ -19,8 +19,6 @@ at the junction of highway 31 and highway 14.
 
 **Contributors**
 April 06, 2006
-change
-by [metallicpeach](/member/metallicpeach)
 
 type: Fountains and statues
 
@@ -31,5 +29,3 @@ type: Fountains and statues
 url: [www.macklin.ca](http://www.macklin.ca/bunnock.htm)
 
 address: junction of highway 31 and highway 14
-
-[back to Sights](..)

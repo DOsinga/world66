@@ -4,8 +4,6 @@ type: location
 address: "Brunswick Street 243, Fitzroy"
 phone: "+61 3 9419 7374"
 type: "general"
-latitude: -37.799982
-longitude: 144.977972
 ---
 
 type: general
@@ -17,5 +15,3 @@ type: general
 address: Brunswick Street 243, Fitzroy
 
 tel: +61 3 9419 7374
-
-[back to Internet Cafes](..)

@@ -16,8 +16,6 @@ Soon they will be opening the 2nd and 3rd floors and operate a full service kitc
 
 **Contributors**
 July 07, 2008
-new
-by [johnny callao](/member/johnny_callao)
 
 type: Pubs
 
@@ -32,5 +30,3 @@ tel: (+5411) 4816 2712
 address: 1150 Rodriguez Pena
 
 email: casabar1150@gmail.com
-
-[back to Nightlife and Entertainment](..)

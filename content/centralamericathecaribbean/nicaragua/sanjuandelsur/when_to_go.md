@@ -59,5 +59,3 @@ beautiful surroundings. Make a point of seeing William Walker's
 
 **Contributors**
 March 20, 2010
-change
-by [joekabuya](/member/joekabuya)

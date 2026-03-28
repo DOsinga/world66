@@ -16,5 +16,3 @@ The new bus terminal is 30 min from town on the road to Baranquila. Take the cit
 **To Bogota**
 
 A trip to [Bogota](/southamerica/colombia/bogota) by bus can take up to 20 hours. It should cost you around 40 dollar. Try the Expreso Brasilia or Copetran services.
-
--->

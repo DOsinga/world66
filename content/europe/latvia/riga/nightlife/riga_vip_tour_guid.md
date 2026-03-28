@@ -22,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Riga features some of the hottest nightlife and clubs in all
 of Europe, but it is important to know your way around so that you can avoid
@@ -50,5 +50,3 @@ tel: +371 29553301
 url: [www.nightlifeinriga.com](http://www.nightlifeinriga.com)
 
 email: info@nightlifeinriga.com
-
-[back to Nightlife and Entertainment](..)

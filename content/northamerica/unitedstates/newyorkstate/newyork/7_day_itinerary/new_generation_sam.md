@@ -27,5 +27,3 @@ url: www.rightgadgets.in
 address: kolkata, Westbengal
 
 email: rightgadgets15@hotmail.com
-
-[back to 7 Day Itinerary](..)

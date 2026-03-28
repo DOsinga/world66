@@ -56,5 +56,3 @@ address: Carrer Castelar
 Romantic atmosphere. Dishes around 7 Euro. ** gillian:** This beach was appalling the worst beach i have ever been to and i am not coming back. The beach at south sheilds is cleaner than yours. ** gillian:** sorry wrong address we thought you were a beach
 
 address: Carrer de sa Corressa 7
-
--->

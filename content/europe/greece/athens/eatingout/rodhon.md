@@ -12,5 +12,3 @@ type: Cafes
 
 
 address: Márni 24, Platía Váthys
-
-[back to Eating Out](..)

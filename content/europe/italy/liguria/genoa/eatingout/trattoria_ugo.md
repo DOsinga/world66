@@ -5,8 +5,6 @@ address: "Via dei Giustiniani 86/r,"
 email: "prosperino@libero.it"
 phone: "+39 010/2469302"
 type: "Italian"
-latitude: 44.406715
-longitude: 8.930719
 ---
 
 Trattoria Ugo is very similar to [Trattoria da Maria](/europe/italy/liguria/genoa/eatingout/trattoria_da_maria), but just a tad bit "classier". Same great traditional Genovese cooking, but the decor is slightly less rustic. This trattoria is also **very **reasonably priced, and should be a definite stop for anyone travelling through Genova who is interested in tasting some quality Genovese food.
@@ -19,8 +17,6 @@ Closed Sunday and Monday
 
 **Contributors**
 April 07, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Italian
 
@@ -33,5 +29,3 @@ tel: +39 010/2469302
 address: Via dei Giustiniani 86/r,
 
 email: prosperino@libero.it
-
-[back to Eating Out](..)

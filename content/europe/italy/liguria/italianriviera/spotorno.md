@@ -1,0 +1,4 @@
+---
+title: "Spotorno"
+type: location
+---

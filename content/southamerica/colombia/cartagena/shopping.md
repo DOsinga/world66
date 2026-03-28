@@ -16,5 +16,3 @@ On Plaza Bolivar, Compendium offers a good selection of artesanias.
 **Libreria Bitacura**
 
 Av. San Martin 7-187 has English and Spanish books.
-
--->

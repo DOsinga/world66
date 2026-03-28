@@ -1,8 +1,6 @@
 ---
 title: "Swahili Coast"
 type: location
-latitude: -7.908638
-longitude: 39.673171
 ---
 
 For centuries the Swahili Coast of Tanzania has watched as the winds blow traders, warriors, conquerors, slaves, refugees, explorers and now tourists past her shores. Palacial remnants of Persian and Omani kingdoms still remain. Ancient mosques dating beyond the 12th century can testify to the far reaching roots of Islam. Over 800 km of Tanzania’s white sands border the Indian Ocean offering picture postcard views of deserted beaches fringed by coconut groves. 

@@ -1,9 +1,9 @@
 ---
-title: "lugeri Travel Guide"
+title: "lugeri"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 a place in asda
 
@@ -11,9 +11,3 @@ asd
 asd
 as
 dasd
-
-*Part or or all of this text stems from the original article at: www.wikipidia.com/lugeri*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 00:44

@@ -2,8 +2,6 @@
 title: "Volendam"
 type: poi
 url: "www.vvvvolendam.nl"
-latitude: 52.365778
-longitude: 4.867239
 ---
 
 Legend has it that the Volendam coat of arms is a compliment to the
@@ -19,5 +17,3 @@ It's about 30 minutes by public transport from Amsterdam Central Station
 
 **Contributors**
 May 02, 2006
-new
-by [knibbe](/member/knibbe) (1 point)

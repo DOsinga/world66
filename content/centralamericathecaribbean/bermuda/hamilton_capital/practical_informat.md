@@ -35,5 +35,3 @@ The official currency of Hamilton, as well as the rest of the Bermuda Islands is
 
 **Contributors**
 February 20, 2010
-new
-by [marley16kristin](/member/marley16kristin)

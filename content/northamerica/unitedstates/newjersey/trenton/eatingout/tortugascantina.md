@@ -17,5 +17,3 @@ type: general
 address: 1001 S. Clinton Ave
 
 tel: (609) 989-9006
-
-[back to Eating Out](..)

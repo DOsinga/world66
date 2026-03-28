@@ -8,5 +8,3 @@ The peaceful atmosphere and the quiet beauty make Portland's Japanese Garden to 
 The Japanese Garden is part of Washington Park and located above the International Rose Test Garden. You can get there by walking through the Antique Gate at the parking spot or with a shuttle bus. 
 
 http://www.japanesegarden.com
-
--->

@@ -9,8 +9,6 @@ Offering a wide range of food, it´s mostlyt famous for having beer on tap. It´
 
 **Contributors**
 June 16, 2006
-new
-by [joosts](/member/joosts) (2 points)
 
 type: Local
 
@@ -19,5 +17,3 @@ type: Local
 
 
 PriceOfMenu: 15 to 20 soles
-
-[back to Eating Out](..)

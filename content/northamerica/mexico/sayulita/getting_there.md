@@ -10,5 +10,3 @@ From the inspection point, the highway changes to a two-lane road, and heads up 
 
 **Contributors**
 January 16, 2006
-change
-by [giorgio](/member/giorgio)

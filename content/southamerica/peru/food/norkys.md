@@ -1,6 +1,6 @@
 ---
 title: "Norky's"
-type: location
+type: poi
 accessibility: "easy access"
 address: "Throughout Metro Lima"
 price: "inexpensive"
@@ -11,8 +11,6 @@ If you want fast food, skip the American chains, try Norky's instead - the local
 
 **Contributors**
 October 20, 2006
-new
-by [brenchley](/member/brenchley) (1 point)
 
 type: South American
 
@@ -25,5 +23,3 @@ accessibility: easy access
 address: Throughout Metro Lima
 
 PriceOfMenu: inexpensive
-
-[back to Eating Out](..)

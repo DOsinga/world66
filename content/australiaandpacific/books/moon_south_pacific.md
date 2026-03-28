@@ -3,8 +3,6 @@ title: "Moon South Pacific"
 type: poi
 author: "David Stanley"
 isbn: "1566914116"
-latitude: 47.30205
-longitude: -122.312558
 ---
 
 The original travel guide to the Pacific islands.
@@ -16,5 +14,3 @@ The original travel guide to the Pacific islands.
 author: David Stanley
 
 isbn: 1566914116
-
-[back to Books](..)

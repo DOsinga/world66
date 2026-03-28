@@ -1,0 +1,4 @@
+---
+title: "Bury"
+type: location
+---

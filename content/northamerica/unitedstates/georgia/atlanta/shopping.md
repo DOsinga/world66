@@ -27,5 +27,3 @@ Bennett Street is located off Peachtree Road toward the southern end of Buckhead
 
 **Contributors**
 March 02, 2010
-change
-by [shomer](/member/shomer)

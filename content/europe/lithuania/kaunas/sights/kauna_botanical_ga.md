@@ -9,9 +9,3 @@ Nice to spend time here, look at many spieces of roses and other flowers, there 
 Many couples viting this place on their wedding day becouse of the colourful view and appearance of the nature.
 
 type: Parks, Gardens and Zoos
-
-
-
-
-
-[back to Sights](..)

@@ -16,5 +16,3 @@ bookingurl: [www.monkeybaymarina.com](http://www.monkeybaymarina.com)
 email: info@monkeybaymarina.com
 
 address: Río Dulce, Izabal
-
--->

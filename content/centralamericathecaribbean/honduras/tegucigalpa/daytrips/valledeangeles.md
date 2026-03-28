@@ -8,13 +8,5 @@ Sunday is when the mountain town comes alive. Lots of great local food, artwork 
 
 **Contributors**
 December 21, 2004
-change
-by [giorgio](/member/giorgio)
 
 type: general
-
-
-
-
-
-[back to Day Trips](..)

@@ -10,8 +10,6 @@ There is a flea market at Ponca Plaza that travelers should check out if they ar
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 ### [Ponca Plaza Flea Market](/northamerica/unitedstates/oklahoma/ponca_city/shopping/ponca_plaza_flea_m)
 

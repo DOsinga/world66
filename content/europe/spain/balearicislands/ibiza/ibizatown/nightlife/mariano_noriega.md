@@ -21,5 +21,3 @@ type: Theatres
 url: [www.marianonoriega.com](http://www.marianonoriega.com)
 
 email: info@marianonoriega.com
-
-[back to Nightlife and Entertainment](..)

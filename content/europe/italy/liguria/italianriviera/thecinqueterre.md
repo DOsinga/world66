@@ -9,11 +9,6 @@ These cities are also connected by train, so commuting back and forth is very ea
 
 For the more adventurous, there is a nude beach between a couple of the towns. Getting there requires walking through a long, abandoned railroad tunnel, or down a steep hillside trail. The best way to visit the Cinque Terre is just to go...don't plan, just find the town you like best and wander the streets. Signs proclaiming "camere" mean a cheap, comfy room for rent, without the touristy atmosphere--definitely the best way to go here.
 
-*Change history*
-Orginal article by [kimmieunc](/member/kimmieunc) on 24 March 04
-
-Orginal article by [kimmieunc](/member/kimmieunc) on 24 March 04
-
 ## Destinations in The Cinque Terre
 
 [Riomaggiore](/europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore)

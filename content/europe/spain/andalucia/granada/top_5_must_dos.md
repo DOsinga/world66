@@ -27,5 +27,3 @@ For a relaxing experience take a dip in the pools at the Aljibe de San Miguel. T
 
 **Contributors**
 August 14, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

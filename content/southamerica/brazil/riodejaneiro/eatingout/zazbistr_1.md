@@ -18,8 +18,6 @@ with cinnamon and tapioca ice cream.**
 
 **Contributors**
 October 17, 2008
-new
-by [maxbliesen](/member/maxbliesen)
 
 type: International
 
@@ -34,5 +32,3 @@ url: [www.zazabistro.com.br](http://www.zazabistro.com.br)
 address: Rua Joana Angélica, 40 - Ipanema
 
 email: zaza@zazabistro.com.br
-
-[back to Eating Out](..)

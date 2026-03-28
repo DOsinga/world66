@@ -1,0 +1,4 @@
+---
+title: "Vordingborg"
+type: location
+---

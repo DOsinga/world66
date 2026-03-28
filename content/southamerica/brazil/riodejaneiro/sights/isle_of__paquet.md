@@ -28,5 +28,3 @@ type: Hotspots
 url: [www.riodejaneirophotoguide.com](http://www.riodejaneirophotoguide.com/en/html/paqueta.html)
 
 address: Paqueta Rio de Janeiro
-
-[back to Sights](..)

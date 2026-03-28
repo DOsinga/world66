@@ -30,12 +30,8 @@ Be sure to try a whole fried fish while you're in town; it's guaranteed to be ca
 
 **Contributors**
 January 15, 2008
-new
-by [tombomb](/member/tombomb) (4 points)
 
 March 11, 2010
-change
-by [turkeyfish](/member/turkeyfish)
 
 ### [Lago Azul](/centralamericathecaribbean/nicaragua/sanjuandelsur/eating_out/lago_azul)
 

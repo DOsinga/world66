@@ -6,8 +6,6 @@ date: "January 19, 2006"
 email: "info@pier39.com"
 phone: "415.705.5500"
 url: "www.pier39.com"
-latitude: 37.804759
-longitude: -122.403055
 ---
 
 **PIER 39's Sea Lions Arrival, Thursday January 19th, 2006 -- 11:00 a.m. - 5:00 p.m.**
@@ -25,5 +23,3 @@ date: January 19, 2006
 address: Beach and The Embarcadero
 
 email: info@pier39.com
-
-[back to Festivals](..)

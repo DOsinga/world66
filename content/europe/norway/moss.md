@@ -1,0 +1,4 @@
+---
+title: "Moss"
+type: location
+---

@@ -3,8 +3,6 @@ title: "Schikaneder"
 type: poi
 address: "Margaretengasse"
 type: "Student Pubs & Bars"
-latitude: 50.002923
-longitude: 8.26889
 ---
 
 Alternative place near Karlsplatz with some strange art in the window and lots of comfortable sofas to lounge in. There's often live music or a dj, and you can buy tickets for the small movie art house next door.
@@ -18,5 +16,3 @@ type: Student Pubs & Bars
 
 
 address: Margaretengasse
-
-[back to Nightlife and Entertainment](..)

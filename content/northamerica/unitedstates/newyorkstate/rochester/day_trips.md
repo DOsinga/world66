@@ -35,5 +35,3 @@ Digging for diamonds is the main attraction in Herkimer County, where you can he
 
 **Contributors**
 September 01, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

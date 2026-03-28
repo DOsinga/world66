@@ -8,11 +8,5 @@ Created on the border of the City of Buffalo and Kenmore, the Delaware Consumer 
 
 **Contributors**
 June 28, 2005
-change
-by [allamericanbear](/member/allamericanbear)
 
 type: Shopping centers and malls
-
-
-
-[back to Shopping](..)

@@ -1,9 +1,9 @@
 ---
-title: "Kazbegi Travel Guide"
+title: "Kazbegi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The Kazbegi region (a part of a bigger geographical region called
 Khevi) is situated in the north of Georgia, close to the border with
@@ -38,9 +38,3 @@ Activities:
 - jeep tours;
 
 - horse riding;
-
-*Part or or all of this text stems from the original article at: http://kazbegi.org/sights-and-walks*
-
-Page last generated on Fri 05:27
-
--->

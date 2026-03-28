@@ -12,5 +12,3 @@ From Amsterdam Central Station it takes about 45-60 minutes to get there (first 
 
 **Contributors**
 May 02, 2006
-new
-by [knibbe](/member/knibbe) (1 point)

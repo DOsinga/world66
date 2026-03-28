@@ -10,8 +10,6 @@ Sauvie Island is a beautiful getaway for people looking for an island adventure 
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Public Buildings
 
@@ -20,5 +18,3 @@ type: Public Buildings
 tel: +1 503 621 3344
 
 address: 13901 Northwest Howell Park Road Portland, OR 97231
-
-[back to Sights](..)

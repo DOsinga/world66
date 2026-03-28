@@ -14,5 +14,3 @@ A must read for everyone planning to visit Germany.
 author: Eyewitness Travel Guides
 
 isbn: 0751308889
-
-[back to Books](..)

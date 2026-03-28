@@ -6,8 +6,6 @@ email: "GlassMuseums@aol.com"
 opening_hours: "Admission by donation, visit Saturdays, Sundays 12-4"
 phone: "909-793-3333"
 url: "glassmuseums.com"
-latitude: 34.068063
-longitude: -117.182769
 ---
 
 The Museum is housed in a 1905 Victorian style home in the picturesque city of Redlands, California. The house at 1157 Orange is the former home of Emma Cryer, daughter of early Redland's settlers Jerome E. and Martha Seymour, and is an historic structure.
@@ -22,12 +20,8 @@ The American and European Contemporary Glass Museum, next door to the Historical
 
 **Contributors**
 December 05, 2005
-new
-by [handyman321](/member/handyman321)
 
 September 20, 2006
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -40,5 +34,3 @@ url: [glassmuseums.com](http://glassmuseums.com)
 address: 1157 Orange Street, Redlands, CA
 
 email: GlassMuseums@aol.com
-
-[back to Museums](..)

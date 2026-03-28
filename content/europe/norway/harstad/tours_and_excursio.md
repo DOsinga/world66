@@ -8,8 +8,6 @@ Add your propositions below.
 
 **Contributors**
 June 10, 2005
-change
-by [reen](/member/reen) (2 points)
 
 ### [Anna Rogde schonner sailing!](/europe/norway/harstad/tours_and_excursio/anna_rogde_schonne)
 

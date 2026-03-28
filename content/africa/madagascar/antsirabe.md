@@ -1,8 +1,6 @@
 ---
 title: "Antsirabe"
 type: location
-latitude: -19.871403
-longitude: 47.034667
 ---
 
 Antsirabe is a memorable town to visit if only to experience the constant badgering of the ‘pousse-pousse’ drivers. A pousse-pousse is the Malagasy equivalent to the rickshaw and Antsirabe is infested with them. 

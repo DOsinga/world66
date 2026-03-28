@@ -14,9 +14,3 @@ If you don´t like big groups this is the best thing for you. But isn´t backpac
 about meeting lots of people? That´s why this bus is the number one
 choice for non-backpackers. A nice way to see NZ without all the drunk
 and loud youth.****
-
-
-
-
-
-[back to Getting Around](..)

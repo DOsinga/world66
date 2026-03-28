@@ -6,8 +6,6 @@ closing_time: "2:00 AM Sunday - Friday and 3:00 AM on Saturday"
 phone: "(480) 968-7879"
 type: "Clubs and dancing"
 url: "www.dosgringosaz.com"
-latitude: 33.42062
-longitude: -111.924835
 ---
 
 Nightlife

@@ -52,5 +52,3 @@ address: 20, route de Trèves L-2633 Senningerberg
 PriceOfMenu: 11.80eur
 
 email: resto.grandemuraille@gmail.com
-
-[back to Eating Out](..)

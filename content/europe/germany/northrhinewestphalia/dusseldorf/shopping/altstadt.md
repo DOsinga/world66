@@ -12,9 +12,3 @@ where numerous museums and galleries may be found, forming what is
 styled the 'Arts Axis' in an arc from river-side to river-side.
 
 type: Markets
-
-
-
-
-
-[back to Shopping](..)

@@ -1,9 +1,9 @@
 ---
-title: "Comfort Suites Lexington - South Carolina Travel Guide"
+title: "Comfort Suites Lexington - South Carolina"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Name:**
 
@@ -33,9 +33,3 @@ pool & fitness center, business center and meeting rooms.
 **Contact:** 803-996-2000
 
 **Email: **gm.sc304@choicehotels.com
-
-*Part or or all of this text stems from the original article at: Hotel & Accommodation*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 11:46

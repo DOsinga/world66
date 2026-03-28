@@ -21,5 +21,3 @@ It is advisable to negotiate the price before getting in a taxi, unless you are 
 
 **Contributors**
 April 15, 2005
-new
-by [bakuguide](/member/bakuguide)

@@ -7,11 +7,3 @@ South from Lisbon you will find the region of Setúbal. Here three well known pl
 
 **Contributors**
 September 03, 2005
-change
-by [giorgio](/member/giorgio)
-
-
-
-
-
-[back to Tours and Excursions](..)

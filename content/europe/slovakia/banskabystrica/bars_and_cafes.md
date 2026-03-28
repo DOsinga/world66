@@ -7,5 +7,3 @@ There are loads of fantastic pubs all around the center serving excelent beer an
 
 **Contributors**
 May 18, 2006
-change
-by [giorgio](/member/giorgio)

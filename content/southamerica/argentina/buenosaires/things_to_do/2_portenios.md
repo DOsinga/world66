@@ -27,5 +27,3 @@ tel: +54911 5929 9672
 url: [www.2portenios.com](http://www.2portenios.com)
 
 email: moreinfo@2portenios.com
-
-[back to Things to do](..)

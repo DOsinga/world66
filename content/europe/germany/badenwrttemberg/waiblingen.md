@@ -1,9 +1,9 @@
 ---
-title: "Waiblingen Travel Guide"
+title: "Waiblingen"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **City in brief**
 
@@ -28,11 +28,3 @@ Landmarks of the town are;
 - the well preserved city wall including its battlement
 
 You might find pictures at http://de.wikipedia.org/wiki/Waiblingen
-
-#### Contributors
-
-August 11, 2006 new by [brian2](/member/brian2) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 16:50

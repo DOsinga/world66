@@ -23,5 +23,3 @@ While limited to 2 months, Fall is arguably the best time to visit Florida. In a
 
 **Contributors**
 March 18, 2010
-change
-by [amy.h](/member/amy.h) (2 points)

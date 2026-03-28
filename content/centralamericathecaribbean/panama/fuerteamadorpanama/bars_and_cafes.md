@@ -23,9 +23,5 @@ Pangea
 
 **Contributors**
 January 15, 2010
-new
-by [christina tilicki](/member/christina_tilicki)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

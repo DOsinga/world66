@@ -14,5 +14,3 @@ type: general
 
 
 address: Gumpendorferstrasse 48, 6. Bezirk
-
-[back to Eating Out](..)

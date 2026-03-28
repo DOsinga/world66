@@ -71,5 +71,3 @@ Las Posados- The days leading up to Christmas are filled with a reenactment of M
 
 **Contributors**
 March 04, 2010
-new
-by [tiffanymparker](/member/tiffanymparker)

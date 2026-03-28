@@ -23,5 +23,3 @@ tel: (732) 917-0177
 url: [www.teetimescostarica.com](http://www.teetimescostarica.com/index.html)
 
 email: sales@teetimescostarica.com
-
-[back to Things to do](..)

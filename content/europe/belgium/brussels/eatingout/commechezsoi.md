@@ -14,5 +14,3 @@ type: Belgian
 
 
 tel: +32 (2) 512 29 21
-
-[back to Eating Out](..)

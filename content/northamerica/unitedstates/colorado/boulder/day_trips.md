@@ -15,5 +15,3 @@ For about 8 dollars you can buy the Official Open Space & Mountains Parks Trails
 
 **Contributors**
 May 05, 2005
-new
-by [gerard](/member/gerard) (1 point)

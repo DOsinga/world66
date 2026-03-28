@@ -1,0 +1,4 @@
+---
+title: "Manta"
+type: location
+---

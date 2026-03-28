@@ -20,5 +20,3 @@ address: Pindemonte street 88
 openinghours: on appointment
 
 tel: +39 (0)91 - 6520067
-
-[back to Sights](..)

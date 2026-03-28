@@ -15,5 +15,3 @@ As this first virus free public IT systems in Mauritius will be of great interes
 
 **Contributors**
 February 03, 2008
-new
-by [cafetariaclub](/member/cafetariaclub)

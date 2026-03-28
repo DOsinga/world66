@@ -1,0 +1,4 @@
+---
+title: "Perak"
+type: location
+---

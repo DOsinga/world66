@@ -4,8 +4,6 @@ type: poi
 address: "2575 Glen Helen Parkway, Devore, CA 92407"
 type: "Other"
 url: "www.hyundaipavilion.com"
-latitude: 34.210086
-longitude: -117.407848
 ---
 
 Hyundai Pavilion at Glen Helen is the nation's largest amphitheater,
@@ -30,5 +28,3 @@ type: Other
 url: [www.hyundaipavilion.com](http://www.hyundaipavilion.com/main.html)
 
 address: 2575 Glen Helen Parkway, Devore, CA 92407
-
-[back to Things to do](..)

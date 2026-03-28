@@ -14,8 +14,6 @@ But save room for dessert! Try one of our 50 delicious cheesecakes and desserts 
 
 **Contributors**
 June 06, 2008
-new
-by [waterfalls](/member/waterfalls) (1 point)
 
 type: American
 
@@ -26,5 +24,3 @@ type: American
 tel: (312) 337-1101
 
 address: 875 North Michigan Avenue, Chicago, IL 60611
-
-[back to Eating Out](..)

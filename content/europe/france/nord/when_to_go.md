@@ -27,9 +27,5 @@ The winter months in northern France can be cold. The temperatures drop and can 
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)
 
 January 28, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

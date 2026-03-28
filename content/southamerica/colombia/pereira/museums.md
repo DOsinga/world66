@@ -23,5 +23,3 @@ Museum of "la Cauchera" and Natural collection
 
 **Contributors**
 April 04, 2006
-change
-by [giorgio](/member/giorgio)

@@ -1,7 +1,9 @@
 ---
-title: "OMIŠ Travel Guide"
+title: "OMIŠ"
 type: location
 ---
+
+Travel Guide
 
 Omiš je gradić u srcu Dalmacije i nalazi se na ušću rijeke Cetine. Omiš se nalazi 21 kilometar jugoistočno od najvećeg dalmatinskog grada Splita s kojim je jako dobro prometno povezan (autobusna linija svakih 20 minuta).
 

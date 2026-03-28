@@ -9,5 +9,3 @@ Tel: 02.31.78.19.44
 
 **Contributors**
 January 19, 2005
-new
-by [sir_malcolm](/member/sir_malcolm)

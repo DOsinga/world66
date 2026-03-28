@@ -17,5 +17,3 @@ type: Italian
 address: 192 Bleecker St.
 
 tel: (212) 475-2355
-
-[back to Eating Out](..)

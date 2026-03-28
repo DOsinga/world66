@@ -37,11 +37,7 @@ openinghours: Tue-Fri from 7 AM
 
 **Elfsborg fortress**
 
-The Elfsborg fortress - or Elfsborg Fästning - is located on a small island near the entance of the harbour. It dates back to 1670 and for a long time was the crucial part in Gothenburgs defence against the Danes.
-
-  Guided tours leave from Lilla Brommen from May to September. You can also w [more..](/europe/sweden/gothenburg/sights/elfsborgfortress)
-
-openinghours: May to September
+The Elfsborg fortress - or Elfsborg Fästning - is located on a small island near the entance of the harbour. It dates openinghours: May to September
 
 **Göteborgs Utkiken**
 
@@ -52,5 +48,3 @@ At the top of this 86 m. harbour building is a small bar from where you have a m
 [general](/europe/sweden/gothenburg/sights?subsection=general)
 
 [Museums](/europe/sweden/gothenburg/sights?subsection=Museums)
-
--->

@@ -1,12 +1,8 @@
 ---
-title: "Uranus Travel Guide"
+title: "Uranus"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 The city of 9 planets
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 14:41

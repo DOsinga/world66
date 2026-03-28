@@ -7,5 +7,3 @@ There are frequent trains and buses from Stockholm. Those in a real hurry can al
 
 **Contributors**
 May 20, 2005
-new
-by [ingvar](/member/ingvar) (1 point)

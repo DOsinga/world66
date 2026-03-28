@@ -17,5 +17,3 @@ type: Skiing
 url: [www.bearmountain.com](http://www.bearmountain.com)
 
 email: info@bigbearmountainresorts.com
-
-[back to Things to do](..)

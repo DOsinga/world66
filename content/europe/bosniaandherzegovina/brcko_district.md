@@ -1,9 +1,9 @@
 ---
-title: "Brcko District Travel Guide"
+title: "Brcko District"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 There are a lot of reasons to travel to the northeast corner of Bosnia & Herzegovina . The landscape is flat and full of beautiful green fields. The architecture, for the most part is old building on which the effects of war are evident. The old library and Hotel Posavina are worth a look. Good restaurants are easy to find, and even tough there is no medieval castles upon rocky cliffs the people and “must-see” entertainment drive the tourist there.
 
@@ -16,11 +16,3 @@ The UN’s administration has had positive effects. The business climate is heal
 Brcko, a town of 50,000 souls, in the heart of Brcko District folds along a bend in the Sava River on several low-lying hills. In fact, a five minute walk across the bridge will place a traveler into Croatia . Travelers journeying to Brcko District, perhaps for an afternoon break, on their way from Zagreb to Belgrade will find an enjoyable stroll along the river or through the downtown. If walking along the river, look for a white one story house (concrete shack really) sitting just behind the row boats anchored along the river bank. Inside one is likely to find local fishermen filling the space around wobbly tables. While the fishermen are nourish themselves with locally made brandy (slivovitz – try some if you have the stomach) treat yourself to the local fish soup. The soup is not expensive and tastes like homemade. Two streets above the fish house stands a renovated restaurant. The food is great, but the view and the stone and wood deck with a view of Croatia across the Sava is even better and even relaxing.
 The best local dishes include sarma (stuffed cabage), roasted lamb or pork, and burek (meat pie). Unless you have the pleasure of trying these dishes at someone’s home where the tastes will be delightfully memorable, it is better to opt for something else. A good, cannot be made poorly, choice is chevapi. Chevapi is to Bosnian’s what a hamburger is to Americans It is minced meat served in small links with onions, pita bread and, if one prefers,and sour cream.
 After a meal, why not join the locals in doing what they like to do best. Sit at a café, sip an espresso, and watch time go by. Brcko is a small town where the sould can finally relax.
-
-#### Contributors
-
-March 26, 2006 change by [heathscox](/member/heathscox) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 04:56

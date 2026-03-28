@@ -8,5 +8,3 @@ The Old City Market in downtown Charleston is a special place to find special cr
 
 **Contributors**
 May 26, 2009
-new
-by [harding](/member/harding)

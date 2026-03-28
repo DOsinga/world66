@@ -1,9 +1,9 @@
 ---
-title: "Suva Travel Guide"
+title: "Suva"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Suva is the capital of Fiji. It is a pretty relaxed town and a good place to arrange things for the rest of your stay.
 
@@ -11,8 +11,3 @@ The town has many old shops and markets with various foods, artefacts, handicraf
 
 More information on
 *Suva Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 09:33

@@ -53,9 +53,5 @@ If you’d like a fresh water swim, there’s the Afu Aau falls in Savaii which 
 
 **Contributors**
 February 02, 2010
-new
-by [sarandipity](/member/sarandipity)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

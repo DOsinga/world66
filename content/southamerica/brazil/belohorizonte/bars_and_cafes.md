@@ -37,5 +37,3 @@ Check out the Trevo Five Place in Savassi, or Nasala in the Belvedere neighborho
 
 **Contributors**
 December 26, 2009
-new
-by [cjr236](/member/cjr236)

@@ -16,8 +16,6 @@ specials are a particularly good value.
 
 **Contributors**
 October 13, 2005
-new
-by [qousqous](/member/qousqous)
 
 type: Thai
 
@@ -30,5 +28,3 @@ tel: 503-224-5155
 address: 1924 SW Broadway, second floor
 
 PriceOfMenu: $6-15
-
-[back to Eating Out](..)

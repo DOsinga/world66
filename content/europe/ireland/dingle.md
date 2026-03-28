@@ -1,0 +1,4 @@
+---
+title: "Dingle"
+type: location
+---

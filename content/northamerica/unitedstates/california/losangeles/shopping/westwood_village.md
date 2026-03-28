@@ -11,8 +11,6 @@ If you're planning an extended stay, there are literally dozens of mega malls an
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Shopping centers and malls
 
@@ -23,5 +21,3 @@ tel: 310-203-1870
 url: [www.westwoodblvd.com](http://www.westwoodblvd.com)
 
 address: Take Westwood Boulevard or Gayley Avenue to enter Westwood Village
-
-[back to Shopping](..)

@@ -18,5 +18,3 @@ When you come you will find a variety of food and drink, usually with a sports b
 date: 8th to 11th of Juin 2006
 
 email: http://www.caribana.ch/
-
-[back to Festivals](..)

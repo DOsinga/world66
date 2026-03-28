@@ -11,8 +11,6 @@ Located right on the harbor between the Straw Market and the Hilton Hotel, this 
 
 **Contributors**
 March 15, 2007
-change
-by [jonboy](/member/jonboy)
 
 type: Italian
 
@@ -25,5 +23,3 @@ tel: 242 323 1777
 url: [www.senorfrogs.com](http://www.senorfrogs.com/bahamas/talk_to_us.php)
 
 address: slot#443, P.O.Box AP-59223, Nassau, N.P. Bahamas
-
-[back to Eating Out](..)

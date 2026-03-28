@@ -11,8 +11,6 @@ Not only has the New Orleans Center for Creative Arts churn out some of the most
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -23,5 +21,3 @@ tel: 504-940-2800
 url: [www.nocca.com](http://www.nocca.com)
 
 address: 2800 Chartres Street, Faubourg Marigny
-
-[back to Sights](..)

@@ -9,8 +9,6 @@ Rent a boat, go for a walk, have a swim, go shopping or take a ferryboat ride to
 
 **Contributors**
 February 09, 2006
-new
-by [karenbru](/member/karenbru)
 
 ### [Boat Rental](/europe/italy/liguria/portovenere/things_to_do/boat_rental)
 

@@ -7,5 +7,3 @@ For those who like Indian food with its exotic spices, one Reno restaurant to tr
 
 **Contributors**
 May 11, 2009
-new
-by [annc](/member/annc)

@@ -25,5 +25,3 @@ Parque das Nacoes is a great park along the waterfront for families. Much of the
 
 **Contributors**
 March 26, 2010
-new
-by [piyushjain](/member/piyushjain_)

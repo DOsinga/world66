@@ -1,0 +1,4 @@
+---
+title: "Apizaco"
+type: location
+---

@@ -38,5 +38,3 @@ url: [www.dp514.com](http://www.dp514.com)
 address: 3523a Boulevard Saint-Laurent, corner Prince Arthur
 
 email: guestlist@dp514.com
-
-[back to Nightlife and Entertainment](..)

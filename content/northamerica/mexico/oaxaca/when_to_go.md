@@ -63,10 +63,4 @@ hotels are decorated with marigolds, cockscombs and candles.
 The
 markets are bright with flowers and there are beautifully decorated
 altars on the streets. Home altars even have offerings of chocolate,
-which takes you back to the ancient cultures of South and Central
-America – to the days of the Aztec and the Maya who discovered
-chocolate.
-
-If you travel to Oaxaca in July, you can watch the
-Guelaguetza dancers perform. These dancers converge upon the city from
-various parts of Mexico.
+which takes you

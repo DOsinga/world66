@@ -1,12 +1,8 @@
 ---
-title: "abidjan Travel Guide"
+title: "abidjan"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 abidjan
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 16:32

@@ -12,8 +12,6 @@ The Florence Museums System consists of five separate properties. A wide scope o
 
 **Contributors**
 October 13, 2005
-change
-by [ifiranthezoo](/member/ifiranthezoo)
 
 ### [W. C. Handy Home, Museum & Library](/northamerica/unitedstates/alabama/florence/museums/w_c_handy_home)
 

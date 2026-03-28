@@ -24,8 +24,6 @@ The beauty of Tulum is the diverse experiences that you can have in both salt an
 
 **Contributors**
 February 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Spanish School](/northamerica/mexico/tulum/things_to_do/spanish_school)
 

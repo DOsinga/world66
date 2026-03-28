@@ -116,5 +116,3 @@ openings: 10am-5pm Tue-Sun
 tel.: +49 451 122 41 48
 
 address: Königstraße 9-11, Altstadt
-
--->

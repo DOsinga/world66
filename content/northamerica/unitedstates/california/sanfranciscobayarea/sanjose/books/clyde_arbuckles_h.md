@@ -36,7 +36,5 @@ knows it better than any other. Enjoy the trip.
 
 **Contributors**
 April 22, 2007
-new
-by [crlauer](/member/crlauer)
 
 [](http://www.amazon.com/exec/obidos/ASIN/9996625222/osingacom?creative=125581&camp=2321&link_code=as1)

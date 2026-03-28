@@ -5,9 +5,6 @@ type: section
 
 I wouldn't say shopping is a major activity in Merida, but you are going to want to do some. And there are a few interesting things you can get here that you can't find easily elsewhere.
 
-*Change history*
-Orginal article by [GypsyMoth](/member/gypsymoth) on 30 November 04
-
 **all**
 
 **Selva y Jardin**
@@ -21,5 +18,3 @@ address: Muna, Yucatan
 url: [www.selvayjardin.com](http://www.selvayjardin.com)
 
 tel: +52-997-977-6103
-
--->

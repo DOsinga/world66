@@ -12,8 +12,6 @@ As the city consists of separate villages, sometimes a far cry off from one anot
 
 **Contributors**
 August 14, 2006
-new
-by [bernhadette](/member/bernhadette)
 
 ### [Salzgitter By Bus (KVG)](/europe/germany/lowersaxony/salzgitter/getting_around/salzgitter_by_bus)
 

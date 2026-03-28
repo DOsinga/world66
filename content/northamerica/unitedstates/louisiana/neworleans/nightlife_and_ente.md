@@ -38,8 +38,6 @@ New Orleans nightlife will leave you yearning for more of this bustling city.
 
 Wow, thats a rlealy clever way of thinking about it!
 
-*Part or or all of this text stems from the original article at: QSfYKHcUm*
-
 type: Concerts
 
 

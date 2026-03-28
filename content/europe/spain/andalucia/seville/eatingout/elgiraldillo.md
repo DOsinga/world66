@@ -22,5 +22,3 @@ zipcode: 41004 Sevilla
 email: giraldillo@barriosantacruz.com
 
 url: [www.barriosantacruz.com](http://www.barriosantacruz.com/giraldillo)
-
--->

@@ -28,5 +28,3 @@ Zermatt is a fairly small town that's popular with skiers and winter sport enthu
 
 **Contributors**
 March 11, 2010
-change
-by [ctanios](/member/ctanios)

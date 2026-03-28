@@ -14,5 +14,3 @@ There are many good bars and discos in Bogota. Most of them are located in the s
 [Dance](/southamerica/colombia/bogota/nightlife?subsection=Dance)
 
 [Bars and Cafes](/southamerica/colombia/bogota/nightlife?subsection=Bars%20and%20Cafes)
-
--->

@@ -3,8 +3,6 @@ title: "Taza Post Offices"
 type: poi
 type: "Post office"
 url: "www.bam.net.ma"
-latitude: 34.230759
-longitude: -4.0099
 ---
 
 Taza has three post offices, one at the Medina and two in the Ville Nouvelle at the Place de l'Indépendance and near the train station.
@@ -26,8 +24,6 @@ Tel.: 00212-35-28-0963
 
 **Contributors**
 June 06, 2006
-new
-by [bernhadette](/member/bernhadette) (3 points)
 
 type: Post office
 
@@ -36,5 +32,3 @@ type: Post office
 
 
 url: [www.bam.net.ma](http://www.bam.net.ma)
-
-[back to Practical Information](..)

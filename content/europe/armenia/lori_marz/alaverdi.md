@@ -1,9 +1,9 @@
 ---
-title: "Alaverdi Travel Guide"
+title: "Alaverdi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Alaverdi (Ալավերդի) is an industrial and mining town at the bottom of
 the Debed gorge in the northern part of the northern province of Lori,
@@ -49,13 +49,3 @@ guidebook it could also arrange homestays. You can also ask the Debed
 hotel manager (actually she will offer it to you and she speaks
 English) to prepare some dinner at the similar cost and quality as at
 Flora.
-
-*Part or or all of this text stems from the original article at: moving to correct place from http://www.world66.com/europe/armenia/alaverdi*
-
-#### Contributors
-
-December 08, 2008 new by [raffikojian](/member/raffikojian)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 11:56

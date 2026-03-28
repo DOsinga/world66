@@ -10,8 +10,6 @@ url: "www.nkrusa.org"
 
 **Contributors**
 April 11, 2006
-change
-by [reen](/member/reen)
 
 ### [Office of the Nagorno Karabakh Republic in the United States!](/europe/armenia/nagornokarabakh/practical_informat/office_of_the_nago)
 

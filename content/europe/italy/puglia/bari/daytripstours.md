@@ -18,7 +18,3 @@ A round-trip description:
 
 
  From Alberobello turn left for* Noci*, with an obligatory stop at the pre-Romanesque church of the masseria Barsento, with its characteristic "chiancarelle". Noci is a heavily-populated agricultural centre and holiday resort standing on the highest part of the Murge plateau. From Noci descend trough now familiar scenery dotted with trulli and, after the stop at the cript of San Michele, head towards *Putignano*, an agricultural and industrial centre of ancient origin, the venue for a traditional carnival famous as the longest in Italy. After leaving Putignano, you approach the last stage of this itinerary: *Castellana Grotte*, a town famous for the splendid caves produced by the large underground rivers and which represent the most spectacular and grandiose speleological complex in Italy. The town, of course, lives almost exclusively on tourism. From Castellana, after 15 km of rather narrow road, passing several masserie in a landscape typical of the sloping Muge, you return to Monopoli.
-
- 
-
--->

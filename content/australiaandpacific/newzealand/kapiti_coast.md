@@ -3,7 +3,7 @@ title: "Kapiti Coast"
 type: location
 ---
 
-Good beach destination, close to [Wellington](/australiaandpacific/newzealand/wellington). You can also make a nice trip to Kapiti island.
+Good beach destination, close to [Wellington](/australiaandpacific/newzealand/wellington). You can also make a nice trip to [Kapiti island](/australiaandpacific/newzealand/kapitiisland).
 
 ## Destinations in Kapiti Coast
 

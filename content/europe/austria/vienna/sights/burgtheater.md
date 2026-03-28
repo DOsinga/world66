@@ -14,5 +14,3 @@ type: Operas & Theatres
 
 
 address: Dr. Karl-Lueger-Ring, 1. Bezirk
-
-[back to Sights](..)

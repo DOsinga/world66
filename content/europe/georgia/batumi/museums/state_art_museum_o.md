@@ -13,8 +13,6 @@ The Museum collection: 500 items
 
 **Contributors**
 October 29, 2009
-change
-by [batumiren](/member/batumiren)
 
 
 
@@ -25,5 +23,3 @@ openingHours: 11:00-18:00
 url: [www.georgianmuseums.ge](http://www.georgianmuseums.ge)
 
 address: 8 Z. Gorgiladze str
-
-[back to Museums](..)

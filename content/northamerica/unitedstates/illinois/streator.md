@@ -1,9 +1,9 @@
 ---
-title: "Streator Travel Guide"
+title: "Streator"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Streator is a
 city in LaSalle and partially in Livingston counties in the U.S. state of Illinois.
@@ -32,9 +32,3 @@ held at Streator High School. Streator also has an annual event held the first
 Saturday after Thanksgiving called Light Up Streator. Light Up Streator is a
 group of volunteers who place holiday decorations throughout the Streator area,
 most notably the downtown city park.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Streator*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 06:42

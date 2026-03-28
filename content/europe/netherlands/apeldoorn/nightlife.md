@@ -3,11 +3,11 @@ title: "Nightlife and Entertainment"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[Bars](/europe/netherlands/apeldoorn/nightlife/bars)
-[Dance](/europe/netherlands/apeldoorn/nightlife/dance)
+[Pool & Billiard](/europe/netherlands/apeldoorn/nightlife?subsection=Pool%20%26%20Billiard)
+[Bars](/europe/netherlands/apeldoorn/nightlife?subsection=Bars)
 
-[Pool & Billiard](/europe/netherlands/apeldoorn/nightlife/poolbilliard)
+[Dance](/europe/netherlands/apeldoorn/nightlife?subsection=Dance)
 
-[Pubs](/europe/netherlands/apeldoorn/nightlife/pubs)
+[Pubs](/europe/netherlands/apeldoorn/nightlife?subsection=Pubs)

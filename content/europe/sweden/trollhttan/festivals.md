@@ -7,8 +7,6 @@ During the Waterfall days (Fallens dagar) the sluice gates at the hydroelectric 
 
 **Contributors**
 May 14, 2006
-change
-by [ewolf](/member/ewolf)
 
 ### [The Trollhättan cruising](/europe/sweden/trollhttan/festivals/the_trollhttan_c)
 

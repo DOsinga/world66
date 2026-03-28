@@ -3,16 +3,12 @@ title: "Sights in Nakhchivan City"
 type: section
 address: "naxcivan city"
 type: "Memorials"
-latitude: 39.207888
-longitude: 45.411695
 ---
 
 Please add Nakhchivan Sights below.
 
 **Contributors**
 April 16, 2006
-new
-by [reen](/member/reen)
 
 ### [Momine Khatum Mausoleum](/europe/azerbaijan/naxcivan/nakhchivan_city/sights/momine_khatum_maus)
 

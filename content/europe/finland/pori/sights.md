@@ -34,5 +34,3 @@ Besides the permanent Marie Gullichsen Art Foundation's collection and the Pori 
 address: Eteläranta
 
 openinghours: 11am to 6pm. Closed on Mondays.
-
--->

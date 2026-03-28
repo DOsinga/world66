@@ -8,5 +8,3 @@ Beer, wine and delicious food (pizza, pasta, arabic dishes) at modest prices. It
 Subway: *Josefstädter Strasse* or *Schottentor* 
 
 address: Florianigasse, 8. Bezirk
-
--->

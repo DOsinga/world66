@@ -8,5 +8,3 @@ Find out everything you need to know by discussing Nottingham with the locals at
 We currently have no Sights listed in Nottingham.
 
 If you do know any Sights in Nottingham, please [Add].
-
--->

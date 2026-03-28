@@ -15,5 +15,3 @@ type: general
 address: 312 E. State Street
 
 tel: (609) 396-1114
-
-[back to Eating Out](..)

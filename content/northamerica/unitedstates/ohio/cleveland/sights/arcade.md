@@ -12,8 +12,6 @@ This building is the city's most beloved after Terminal Tower. Few buildings in 
 
 **Contributors**
 April 07, 2006
-new
-by [vulpster03](/member/vulpster03) (4 points)
 
 type: Landmarks
 
@@ -28,5 +26,3 @@ url: [www.thearcade-cleveland.com](http://www.thearcade-cleveland.com)
 address: 401 Euclid Avenue
 
 email: info@thearcade-cleveland.com
-
-[back to Sights](..)

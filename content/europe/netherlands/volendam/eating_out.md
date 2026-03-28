@@ -27,5 +27,3 @@ Restaurant Van Den Hogen is a huge restaurant right in the center of Volendam. I
 
 **Contributors**
 March 16, 2010
-new
-by [kwalker](/member/kwalker)

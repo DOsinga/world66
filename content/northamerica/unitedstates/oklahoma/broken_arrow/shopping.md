@@ -10,8 +10,6 @@ Persimmon Hollow Antique Village is one of the unique places that can be found o
 
 **Contributors**
 February 22, 2008
-new
-by [approaching genius](/member/approaching_genius)
 
 ### [Persimmon Hollow Antique Village](/northamerica/unitedstates/oklahoma/broken_arrow/shopping/persimmon_hollow_a)
 

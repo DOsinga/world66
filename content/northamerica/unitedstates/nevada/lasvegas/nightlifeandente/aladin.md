@@ -1,6 +1,6 @@
 ---
 title: "Alladin"
-type: location
+type: poi
 type: "Theatres"
 ---
 
@@ -8,13 +8,5 @@ One of the newer casino hotels on the strip, the Alladin is located across the s
 
 **Contributors**
 May 22, 2008
-change
-by [juco](/member/juco)
 
 type: Theatres
-
-
-
-
-
-[back to Nightlife and Entertainment](..)

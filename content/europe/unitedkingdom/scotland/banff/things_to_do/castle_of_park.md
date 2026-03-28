@@ -11,8 +11,6 @@ You can even get married here, a Scottish wedding!
 
 **Contributors**
 February 12, 2006
-change
-by [bardofthebroch](/member/bardofthebroch)
 
 type: Other
 
@@ -21,5 +19,3 @@ type: Other
 
 
 url: [www.castleofpark.net](http://www.castleofpark.net/)
-
-[back to Things to do](..)

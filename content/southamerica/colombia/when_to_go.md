@@ -15,5 +15,3 @@ Furthermore, one should bring with them thin clothes to keep cool while in the h
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

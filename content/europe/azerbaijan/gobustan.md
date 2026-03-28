@@ -1,9 +1,9 @@
 ---
-title: "Gobustan Travel Guide"
+title: "Gobustan"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Numerous caves and rock outcroppings surround this village, whose name can be translated as "ravine land". The spurs of the Great Caucasus Range descend to the Caspian along the Djeirankechmez river.
 
@@ -22,13 +22,3 @@ Besides being famous for the petroglyphs the Gobustan are also has some amazing 
 If you are travelling from Baku you can reach Gobustan on the bus to Alat. The main petroglyphs site is about 5km west of Gobustan itself, after the jail. Plan your journey carefuly as currently there is no hotel in Gobustan!
 
 (60 km southwest of Baku)
-
-*Part or or all of this text stems from the original article at: azerb.com*
-
-#### Contributors
-
-April 30, 2006 new by [azerbaijan08](/member/azerbaijan08) (2 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 23:54

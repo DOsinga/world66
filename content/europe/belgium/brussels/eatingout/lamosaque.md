@@ -4,8 +4,6 @@ type: poi
 address: "23 Rue Forestière"
 phone: "+32 (2) 649 02 35"
 type: "Belgian"
-latitude: 50.822261
-longitude: 4.364795
 ---
 
 An excellent choice if you’re looking for somewhere small but classy near Avenue Louise. All revolves around the slight figure of Joël Crasset - a talented cook who worked at top restaurants such as Bruneau before taking over La Mosaïque. He personally slaves over a hot stove and can feed just 35 lucky mouths at each sitting, but if you’re not partial to rich pickings like foie gras, don’t bother. Closed Sat lunchtime & all Sun.

@@ -11,8 +11,6 @@ Mark Twain's famous octagonal shaped study that was originally located on Quarry
 
 **Contributors**
 October 23, 2005
-new
-by [swampthing](/member/swampthing)
 
 type: Landmarks
 
@@ -25,5 +23,3 @@ openingHours: all year round
 address: College Ave
 
 email: sam_clemens@cityofelmira.net
-
-[back to Sights](..)

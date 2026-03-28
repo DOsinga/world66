@@ -18,5 +18,3 @@ url: www.world66.com
 address: b69th
 
 email: mrb1@live.co.uk
-
-[back to Beaches](..)

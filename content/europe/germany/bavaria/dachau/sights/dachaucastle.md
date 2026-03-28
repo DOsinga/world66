@@ -10,5 +10,3 @@ In the year 1806 three of the originally four wings from the imposing Renaissanc
  Guidance: Sunday 2.30 pm (bus line 720)  
 
 openings: castle: May to September, Saturday and Sunday 2pm - 5pm
-
--->

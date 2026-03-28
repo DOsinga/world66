@@ -15,5 +15,3 @@ Price: $21 to $45
 
 **Contributors**
 May 27, 2009
-new
-by [harding](/member/harding)

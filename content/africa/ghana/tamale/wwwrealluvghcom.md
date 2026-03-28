@@ -1,9 +1,9 @@
 ---
-title: "www.realluvgh.com Travel Guide"
+title: "www.realluvgh.com"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **his is a new dating site for Ghanaian and other foreigners.
 A platform to meet new people and connect fast. This site is different
@@ -29,9 +29,3 @@ with others and also contribute to varied topics under discussion. This
 is a free service.**
 
 **The first three services are for fee.**
-
-*Part or or all of this text stems from the original article at: friends*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 18:13

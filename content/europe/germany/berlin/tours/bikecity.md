@@ -14,5 +14,3 @@ Basic bikes for good value: 10DM (red 5DM). The rental stations are at:
  Pohlstr. 89, Tiergarten,  +49 (0)30 - 26550182 
 
 address: Tiergarten, Hardenbergplatz and Pohlstrasse
-
--->

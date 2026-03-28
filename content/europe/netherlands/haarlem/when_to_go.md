@@ -27,5 +27,3 @@ Haarlem does have a maritime climate so it does rain somewhat. Rains tend to be 
 
 **Contributors**
 March 27, 2010
-change
-by [turkeyfish](/member/turkeyfish)

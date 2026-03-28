@@ -1,0 +1,4 @@
+---
+title: "Torquay"
+type: location
+---

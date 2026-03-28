@@ -7,5 +7,3 @@ Mexico's third-largest city and the most important business center in the northe
 
 **Contributors**
 August 11, 2005
-new
-by [tiogringo](/member/tiogringo)

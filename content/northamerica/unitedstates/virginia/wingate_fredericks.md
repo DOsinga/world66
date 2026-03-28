@@ -1,9 +1,9 @@
 ---
-title: "Wingate Fredericksburg Travel Guide"
+title: "Wingate Fredericksburg"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Name:**
 
@@ -46,9 +46,3 @@ several Civil War battlefields
 **Reservations:** 540-368-8000 Fax: 540-368-9252
 
 **Email: **Wingate_Fredericksburg@dlphotel.com
-
-*Part or or all of this text stems from the original article at: Hotel & Accommodation*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 16:33

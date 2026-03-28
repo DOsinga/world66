@@ -17,6 +17,4 @@ June 30th - July 2nd: 
 
  **Rock am Ring**
 
- Since years one of the biggest and most popular open air events in Germany. 
-
--->
+ Since years one of the biggest and most popular open air events in Germany.

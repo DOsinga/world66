@@ -10,5 +10,3 @@ address: 2e Binnenvestgracht 15
 tel: 071-5125223
 
 zipcode: 2312 BZ
-
--->

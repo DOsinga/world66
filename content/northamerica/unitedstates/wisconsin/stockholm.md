@@ -1,9 +1,9 @@
 ---
-title: "Stockholm Travel Guide"
+title: "Stockholm"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Located along the most spectacular views on Lake Pepin, the quaint village has just the right blend of shops, eateries, historic appeal and natural beauty. Follow Lake Pepin on Highway 35, the Great River Road, Wisconsin's only National Scenic Byway.
 
@@ -17,13 +17,3 @@ Imagine strolling the quaint streets of the village, espresso in hand, discoveri
 
 And don't forget a visit to the shores of Lake Pepin at the beautiful Village Park, with a walk down the 700 foot pier into the midst of the mighty Mississippi River or a visit to the enchanted **Maiden Rock Bluff Natural Area**.
 **Close to Home...worlds away.** We encourage you to visit the historic and beautiful Village of Stockholm on the Mississippi, the perfect escape from the ordinary and an enchanting slice of life as it used to be.
-
-*Part or or all of this text stems from the original article at: stockholmwisconsin.com - my site*
-
-#### Contributors
-
-January 06, 2007 new by [wimnsailor](/member/wimnsailor) (4 points)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 08:54

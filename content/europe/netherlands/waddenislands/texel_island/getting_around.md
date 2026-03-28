@@ -6,10 +6,7 @@ url: "images.google.com"
 
 Below you'll find links to several **Texel Maps**. Please click the url link below for the requested information.
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 26 March 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 26 March 05
+Minor corrections on 26 March 05
 
 ### Map [De Slufter] nortwestern part
 

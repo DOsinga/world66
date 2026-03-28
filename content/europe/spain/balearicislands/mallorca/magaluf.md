@@ -1,0 +1,4 @@
+---
+title: "Magaluf"
+type: location
+---

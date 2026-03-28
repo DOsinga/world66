@@ -43,8 +43,4 @@ Tipping is not obligatory but it’s the custom in Berlin and the rest of German
 
 **Emergencies**
 
-You can call an emergency doctor ("Notarzt") on 31 00 31. You will often find that doctors can talk to you in English. The emergency contact number for police is 110, and for ambulance and fire, 112. If you lose your passport, contact your embassy as well as the police. Pharmacy: 01141 
-
-## Subsections
-
-[Institutions](/europe/germany/berlin/practicalthings/institutions)
+You can call an emergency doctor ("Notarzt") on 31 00 31. You will often find that doctors can talk to you in English. The emergency contact number for police is 110, and for ambulance and fire, 112. If you lose your passport, contact your embassy as well as the police. Pharmacy: 01141

@@ -25,5 +25,3 @@ More about Awjila will be added later on including some photos.
 
 **Contributors**
 August 14, 2005
-change
-by [mka](/member/mka)

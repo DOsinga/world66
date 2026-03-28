@@ -15,5 +15,3 @@ type: South African
 address: 1st Floor, The Oceanic, Sol Harris Crescent
 
 tel: 031-3682789
-
-[back to Eating Out](..)

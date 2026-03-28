@@ -1,9 +1,9 @@
 ---
-title: "Long Beach Peninsula Travel Guide"
+title: "Long Beach Peninsula"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 We live on the South-Western most corner of Washington State. The 29
 mile long peninsula is know for it's fine dinning experiences due to
@@ -31,7 +31,3 @@ Restuarant, and The Depot Tavern are just a few. We have a new visitors
 center at the junctions of highway 101 and 103 with a toll free number
 to make it easy to gain information about a beautiful Peninsula. So
 come take a look and enjoy next year's festivities, plus all the fine dining and accomodations.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 17:48

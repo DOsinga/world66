@@ -1,0 +1,4 @@
+---
+title: "Edinboro"
+type: location
+---

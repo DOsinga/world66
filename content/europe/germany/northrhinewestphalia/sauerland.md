@@ -7,9 +7,6 @@ Located halfway between Dortmund and [Kassel](/europe/germany/hesse/kassel) the 
 
 The main town in [Winterberg](/europe/germany/northrhinewestphalia/sauerland/winterberg) which has the best skiing facilities, some 10 lifts, enough for a long weekend. The mountains here are not very high, about 800 meters so you are less certain of getting good snow than in the Alps.
 
-*Change history*
-Orginal article by [RichardOsinga](/member/richardosinga) on 11 February 04
-
 ## Destinations in Sauerland
 
 [Winterberg](/europe/germany/northrhinewestphalia/sauerland/winterberg)

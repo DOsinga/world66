@@ -1,8 +1,6 @@
 ---
 title: "Lounge"
 type: poi
-latitude: 52.364049
-longitude: 4.86334
 ---
 
 **Recommendations**

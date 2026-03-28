@@ -21,24 +21,7 @@ Take a trip to the Gibraltar Museum. The museum is located at the heart of Gibra
 
 **Fiesta de Los Reyes**
 
-Participate in the Fiesta de Los Reyes. Every January 5, the locals celebrate the most festive of all festivals- that is, Three Kings Festival. Dating back to 1884, the festival was started for the entertainment of kings. As time passed by, the festival has grown to have a more religious meaning and is aimed toward the three wise men who brought gifts to the infant Jesus. If you are in Gibraltar during this time, you would not want to miss this fiesta.
-
-**The Moorish Castle**
-
-The Moorish Castle is another popular place to visit while in Gibraltar. The castle itself is located atop the high Rock of Gibraltar. It is believed to have been completed by the Moorish Tarik in 742, yet little has been known over the details and history of the castle. Significant remains of the original tower depict the flag of Union Jack flying high above and visibly seen in the town of Gibraltar.
-
-**Trafalgar Cemetery**
-
-Another thing to do before leaving Gibraltar is to visit the famous cemetery of the fallen British sailors who perished during the battle of Trafalgar on October 21, 1805, which, at that time was considered the largest sea battle using sailing ships.
-
-**Contributors**
-July 08, 2005
-change
-by [reen](/member/reen) (1 point)
-
-### [Dolphin Safari](/europe/gibraltar/things_to_do/dolphin_safari)
-
-The Original Dophin Safari
+Participate in the Fiesta de Los Reyes. Every January 5, the locals celebrate the most festive of all festivals- that is, Three Kings Festival. Dating The Original Dophin Safari
 
 **Imagine an island cruise between the African and Spanish coasts, with Dolphins and Whales…**
 

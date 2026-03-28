@@ -11,5 +11,3 @@ type: section
 [Italian](/europe/unitedkingdom/england/leeds_sheffield_a/sheffield/eatingout?subsection=Italian)
 
 [Oriental](/europe/unitedkingdom/england/leeds_sheffield_a/sheffield/eatingout?subsection=Oriental)
-
--->

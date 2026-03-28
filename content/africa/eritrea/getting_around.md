@@ -19,5 +19,3 @@ Take a view of the cities and places to visit.
 
 **Contributors**
 March 14, 2005
-change
-by [giorgio](/member/giorgio)

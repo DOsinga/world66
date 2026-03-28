@@ -21,6 +21,3 @@ The Southwest Chief **– Amtrak's fastest trip from Chicago to the Pacific is a
 The Sunset Limited **– The only way to travel from coast to coast on a single train. After going north from Orlando to Jacksonville in Florida, the train heads west into two sunsets. You see the swamps of bayou country and flirt with the Mexican border before crossing Texas rangelands to the mountains, deserts and orange groves of California. **
 
 The Empire Builder **– Between Chicago and Seattle the train crosses the Mississippi River and travels more than 2,200 miles past wheat fields, cattle ranges, forests, mountains and glacial lakes. America's northern plains were mostly wilderness until the freewheeling tycoon James J. Hill built his Great Northern Railway between St. Paul and Seattle. Amtrak's Empire Builder takes its name from a train called after him, which ran on this route during the heyday of passenger travel.
-
-**Change history**
-Orginal article by [trainman](/member/trainman) on 14 January 05

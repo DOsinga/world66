@@ -13,5 +13,3 @@ At the furthest end of Prespa is Vrondero, the only village in Prespa without a 
 
 **Contributors**
 September 09, 2008
-new
-by [ctpgreece](/member/ctpgreece)

@@ -12,7 +12,3 @@ type: section
   **by train:**
 
  Frankfurt also has many good and frequent trains to other European cities, both within and outside of Germany. A fast train to Amsterdam only takes about five hours, for example. Other fast connections include Berlin, Munich, Hannover and Cologne. In most cases it is not necessary to reserve in advance, you can just go to station, get a ticket and go. To get detailed connection informations, check the webpage of the German railway "Deutsche Bahn AG" "
-
-## Subsections
-
-[By Air](/europe/germany/hesse/frankfurt/gettingthere/byair)

@@ -1,9 +1,9 @@
 ---
-title: "3 Vallées Travel Guide"
+title: "3 Vallées"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Les Trois Vallées in the heart of the French Alps has rightly earned its name as the largest integrated skiing area in the world. 318 marked ski-slopes offer a total of 600 kilometres of pure skiing enjoyment. Thanks to around 180 ski-lift installations, the ski-slopes at between 1300 and 3200 metres are reached quickly and easily. The reason: The generous infrastructure of ski-runs and ski-lift installations connects not only the large ski stations at Val Thorens, Les Menuires, Meribel-Mottaret and Courchevel with one another but also the up-and-coming smaller skiing locations at Saint Martin, La Tania and Brides les Bains.
 
@@ -18,9 +18,3 @@ Something else you can be sure of - in the largest skiing area in the world - is
 Apart from the best skiing conditions, the XXL skiing area in the Departement Savoyen also has more to offer. Countless funparks and their own area for boardercross and halfpipe in each of the three valleys make a winter holiday in Trois Vallées just as attractive for snowboarders as for skiers. Above all Val Thorens, with its 2,300m making it the highest skiing location in the area, is a regular Eldorado for snowboarders, luring 1,500 snowboarders every year in December from across the whole world to the legendary Boarderweek, with competitions, concerts and numerous events. Skiers are also offered extra variety with countless mogul runs, endless deep-snow slopes, demanding tours and the possibility to go heli-skiing. Winter sports and pure nature combined with optimally preserved cross-country skiing trails with a total length of 118 kilometres, or extensive snow-shoe treks on trekking routes of different lengths and difficulty levels.
 
 Located south of Albertville, Trois Vallées is easy to reach via both the Swiss and French motorway systems. When travelling from the south, take the A41 motorway at Grenoble and then follow the well-maintained N90 to Albertville, which runs parallel to the motorway. When travelling from the north, the best route to take is from Geneva in Swizerland via the N201 to Annecy and from there take the N508 to Albertville. From there, the N90 goes to Moûtiers, which is at the start of the whole skiing area.
-
-*Part or or all of this text stems from the original article at: http://en.ski-france.com/ski-area-3-vallees/*
-
-Page last generated on Thu 14:24
-
--->

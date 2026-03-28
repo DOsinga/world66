@@ -9,9 +9,6 @@ The trip is worth it for the photos.
 
 For more information check out http://www.tulipfestival.org/
 
-*Change history*
-Orginal article by [kivarthegreat](/member/kivarthegreat) on 10 April 04
-
 **all**
 
 **22nd Annual Joyce Daze Blackberry Festival**

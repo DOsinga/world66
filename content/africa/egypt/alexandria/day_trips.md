@@ -38,8 +38,6 @@ tours@memphistours.net
 
 **Contributors**
 August 27, 2009
-change
-by [tiffanymparker](/member/tiffanymparker)
 
 ### [day trip to Cairo from Alexandria port](/africa/egypt/alexandria/day_trips/day_trip_to_cairo)
 

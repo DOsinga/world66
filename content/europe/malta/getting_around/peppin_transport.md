@@ -22,5 +22,3 @@ url: [www.peppintransport.com](http://www.peppintransport.com/)
 address: 67 Triq Birzebbugia, Ghaxaq, Malta. GXQ9018
 
 email: info@peppintransport.com
-
-[back to Getting Around](..)

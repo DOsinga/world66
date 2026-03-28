@@ -1,0 +1,4 @@
+---
+title: "Yakouren"
+type: location
+---

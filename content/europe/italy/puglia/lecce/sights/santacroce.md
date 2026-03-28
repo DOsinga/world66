@@ -17,5 +17,3 @@ type: Churches & Cathedrals
 address: Piazza Castro Mediano
 
 openinghours: 9 am - 1pm, 5:30 - 7:30
-
-[back to Sights](..)

@@ -16,5 +16,3 @@ Stroll along the meandering paths of an indoor tropical rainforest to discover h
 **Butchart Gardens . **
 
 View fifty acres of floral finery offering spectacular views as you stroll along meandering paths and expansive lawns. In 1904, the Butchart Gardens began as an effort to beautify a worked-out quarry site on the 130-acre estate of Mr. and Mrs. R.P. Butchart, industrial pioneers in Canada. Their e [more..](/northamerica/canada/britishcolumbia/victoria/sights/butchartgardens)
-
--->

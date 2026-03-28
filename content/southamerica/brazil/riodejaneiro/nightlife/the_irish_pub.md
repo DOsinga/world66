@@ -17,5 +17,3 @@ type: Pubs
 tel: 2513-3044
 
 address: Rua Jangadeiros, 14
-
-[back to Nightlife and Entertainment](..)

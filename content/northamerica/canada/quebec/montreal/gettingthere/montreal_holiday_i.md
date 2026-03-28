@@ -13,5 +13,3 @@ type: By Air
 
 
 url: [www.travelpack.com](http://www.travelpack.com/guide/canada/quebec/montreal)
-
-[back to Getting There](..)

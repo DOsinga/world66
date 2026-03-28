@@ -35,5 +35,3 @@ Eindhoven is an off beat vacation destination that has yet to be explored and pr
 
 **Contributors**
 February 09, 2010
-change
-by [sameera kumar](/member/sameera_kumar)

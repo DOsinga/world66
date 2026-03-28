@@ -54,5 +54,3 @@ are all on sale.
 
 **Contributors**
 March 16, 2010
-new
-by [kimerly](/member/kimerly)

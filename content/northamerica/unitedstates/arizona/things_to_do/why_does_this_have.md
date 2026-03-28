@@ -10,8 +10,6 @@ url: "allinsuranceplans.net"
 
 Why does this have to be the ONLY reliable source? Oh well, gj!
 
-*Part or or all of this text stems from the original article at: EDAQnIjWGbx*
-
 type: Hiking
 
 
@@ -23,5 +21,3 @@ tel: 6adMOFqo
 url: [allinsuranceplans.net](http://allinsuranceplans.net)
 
 email: anne@spruenken-essen.de
-
-[back to Things to do](..)

@@ -10,8 +10,6 @@ This Botanic Garden features 30 acres of palms and ferns, and a significant coll
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Other
 
@@ -20,5 +18,3 @@ type: Other
 tel: +39 0 8 1449 759
 
 address: Via Fiora 223, Carlo III, Naples Italy
-
-[back to Things to do](..)

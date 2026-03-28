@@ -1,9 +1,9 @@
 ---
-title: "East Brent Travel Guide"
+title: "East Brent"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 From the Directory of Somersetshire 1875
 BRENT (EAST) is a village and parish in the
@@ -29,7 +29,3 @@ of the tower are three niches; the upper one contains an effigy King Ina, with
 sceptre and mound, embracing a monk; the middle niche, Queen Frithegrand and
 in the lowest, her husband, King Ethelard, who succeeded Ina on his retirement
 from Rome.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 23:14

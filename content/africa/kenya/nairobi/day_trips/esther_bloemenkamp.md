@@ -30,5 +30,3 @@ url: [www.kiberatours.com](http://www.kiberatours.com)
 address: zeebuergerstraat 82
 
 email: info@kiberatours
-
-[back to Day Trips](..)

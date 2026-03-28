@@ -23,5 +23,3 @@ The biggest taxi stand in Milan is at the Central Station, but you can pick up a
 
 **Contributors**
 November 18, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

@@ -36,7 +36,3 @@ The most wonderful things you can do in Lake Garda are here, presented to you by
 · **Visit CAMPO: **a small medioeval village at the feets of Monte Baldo.****
 
 · **Terra dei Forti Tour: **the river Adige valley connects the mediterranean world to the german world up to the north. We have dedicated an entire section of our site. Terra dei Forti . (Castles, Wineries and Vineyards, Churces, Agritourism, Restaurants ..)****
-
-
-
--->

@@ -1,0 +1,4 @@
+---
+title: "Clarksburg"
+type: location
+---

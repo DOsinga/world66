@@ -5,8 +5,6 @@ address: "Hurghada,Egypt"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
-latitude: 27.222556
-longitude: 33.830706
 ---
 
 MS **Mövenpick** **Royal Lotus** is a floating luxury hotel with four decks, has been setting new standards since it began operations between **Aswan** and **Luxor** in November 2005. On **Nile Cruise**
@@ -45,71 +43,6 @@ largest after Karnak. It was dedicated to the falcon headed god Horus.
 The temple you will see was built during the reigns of six Ptolemies -
 begun in 237 BC and finished in 57 BC. Edfu was believed to have been
 the site of the great battle between Horus and Seth. Then you will be
-back to cruise, have dinner during sailing to **Luxor**. Overnight will be spend in **Luxor**.
-**Day 4: Nile Cruise Holidays - Luxor****
-**Breakfast will be served while sailing to **Luxor**. By arrival you will be transferred to visit West Bank of **River Nile**.
-You will start from Colossi of Memnon, two colossal statue of Amenhotep
-III, then visit Valley of the Kings, where tombs were hide deep into
-desert rock, richly decorated with treasure for afterlife of the
-pharaohs, you will visit 3 of them. Continue tour to Hatshepsut temple
-rises from desert rock with series of terraces, dedicated to Queen
-Hatshepsut only famous female pharaoh. Then you return back to **cruise** to having lunch, afterwards you will visit East Bank of **Nile River**.
-You will see Karnak temple dedicated to the God Amon, his wife Mut and
-their son Khonsu, each pharaoh left memory of him there and it let u to
-pass across centures. Continue your tour in **Luxor**
-temple builded by Amenhotep III with grandeur intention and have great
-number of pillars. It was connected by 3 kilimetres paved alley of
-sphinxes with Karnak Temple. Then you will be transferred to board to
-have dinner. Overnight stay will be in **Luxor**.
-**Day 5: Nile Cruise Holidays - Disembark cruise**
-You will have breakfast at **Nile cruise** board. After you will have transfer to the point of your departure in **Luxor**.
-
-**Tour Includes: **
-
-Meet and assist upon arrival and departure by our REP
-Transfer by air-conditioned vehicle to your **Nile cruise**
-Accommodation on full board basis on board the **Nile cruise**
-All sightseeing tours as per the **Nile cruise** itinerary
-Admission fees to the sights as per **Nile cruise** itinerary
-Professional English speaking tour guide
-All service charges and applicable taxes
-
-**Tour Excludes:**
-
-Optional tours
-Personal expences
-
-**Optional Extras:**
-
-Sound and Light show at Karnak temple
-
-**Children Policy:**
-
-Child from 0-2 years old FREE
-Child from 2-12 sharing DBL cabin 50% discount
-Child over 12 years old adult price
-
-**Stay Extensions****:**
-
-Tour to Abu Simbel
-Tour to Cairo
-Accommodation in **Aswan**
-Accomodation in **Luxor**
-
-Email: nataly@egypttravelhotdeals.com
-
-Website: www.egypttravelhotdeals.com
-
-
-
-
-
-tel: 0020100850146
-
-url: [www.egypttravelhotdeals.com](http://www.egypttravelhotdeals.com)
-
 address: Hurghada,Egypt
 
 email: nataly@egypttravelhotdeals.com
-
-[back to Budget Travel Ideas](..)

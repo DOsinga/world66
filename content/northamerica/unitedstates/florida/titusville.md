@@ -1,0 +1,4 @@
+---
+title: "Titusville"
+type: location
+---

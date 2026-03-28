@@ -54,9 +54,5 @@ normal rate for your trip so the taxi driver does not charge you too much.
 
 **Contributors**
 January 17, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

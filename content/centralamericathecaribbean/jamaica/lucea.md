@@ -1,0 +1,4 @@
+---
+title: "Lucea"
+type: location
+---

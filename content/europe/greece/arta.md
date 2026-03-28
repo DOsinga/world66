@@ -1,0 +1,4 @@
+---
+title: "Arta"
+type: location
+---

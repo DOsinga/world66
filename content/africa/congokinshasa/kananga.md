@@ -1,0 +1,4 @@
+---
+title: "Kananga"
+type: location
+---

@@ -34,10 +34,7 @@ parachute jumping... to much to mention!*
 
 ***
 
-**Change history**
-Orginal article by [HollandTraveler](/member/hollandtraveler) on 10 January 05
-
-Minor corrections by [HollandTraveler](/member/hollandtraveler) on 24 March 05
+Minor corrections on 24 March 05
 
 ## Destinations in Texel island
 

@@ -30,5 +30,3 @@ With a Mediterranean flair, the three locations each serve a distinct clientele 
 PriceOfMenu: $5 - $20 per entree
 
 priceofmenu: $5 - $20 per entree
-
--->

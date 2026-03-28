@@ -3,23 +3,13 @@ title: "Nightlife and Entertainment"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[Bars](/europe/netherlands/tilburg/nightlife/bars)
-[Clubs](/europe/netherlands/tilburg/nightlife/clubs)
-[Coffee Shops](/europe/netherlands/tilburg/nightlife/coffeeshops)
-[Dance](/europe/netherlands/tilburg/nightlife/dance)
-[Disco](/europe/netherlands/tilburg/nightlife/disco)
-[Erotic](/europe/netherlands/tilburg/nightlife/erotic)
+[Student Pubs](/europe/netherlands/tilburg/nightlife?subsection=Student%20Pubs)
+[Jazz Clubs](/europe/netherlands/tilburg/nightlife?subsection=Jazz%20Clubs)
 
-[Gay & Lesbian](/europe/netherlands/tilburg/nightlife/gaylesbian)
-[Grand Café](/europe/netherlands/tilburg/nightlife/grandcaf)
-[Jazz Clubs](/europe/netherlands/tilburg/nightlife/jazzclubs)
-[Live Music](/europe/netherlands/tilburg/nightlife/livemusic)
-[Lounge](/europe/netherlands/tilburg/nightlife/lounge)
+[Pubs](/europe/netherlands/tilburg/nightlife?subsection=Pubs)
+[Bars](/europe/netherlands/tilburg/nightlife?subsection=Bars)
 
-[Pubs](/europe/netherlands/tilburg/nightlife/pubs)
-[Rock](/europe/netherlands/tilburg/nightlife/rock)
-[Salsa](/europe/netherlands/tilburg/nightlife/salsa)
-[Student Pubs](/europe/netherlands/tilburg/nightlife/studentpubs)
-[Xtreme](/europe/netherlands/tilburg/nightlife/xtreme)
+[Dance](/europe/netherlands/tilburg/nightlife?subsection=Dance)
+[Disco](/europe/netherlands/tilburg/nightlife?subsection=Disco)

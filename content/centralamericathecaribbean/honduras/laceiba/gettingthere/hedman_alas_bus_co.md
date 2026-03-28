@@ -14,5 +14,3 @@ type: By Road
 
 
 tel: 504-441-5347
-
-[back to Getting There](..)

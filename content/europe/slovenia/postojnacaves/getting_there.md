@@ -8,5 +8,3 @@ Postojna can be reached both by train and bus from Ljubljana but since the train
 We currently have no Getting There listed in Postojna caves.
 
 If you do know any Getting There in Postojna caves, please [Add].
-
--->

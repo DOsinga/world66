@@ -8,8 +8,6 @@ Vologda region offers many interesting places to visit
 
 **Contributors**
 October 14, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 ### [KiriIlo-Belozerskiy Monastery](/europe/russia/vologda_region/sights/kiriilobelozerski)
 

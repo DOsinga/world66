@@ -12,5 +12,3 @@ non-organised.
 
 **Contributors**
 June 08, 2005
-new
-by [giorgio](/member/giorgio)

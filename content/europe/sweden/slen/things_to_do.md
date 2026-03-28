@@ -8,8 +8,6 @@ Plenty of activities all around the ski centres and the hotels. But be aware tha
 
 **Contributors**
 April 23, 2006
-change
-by [stinemsi](/member/stinemsi)
 
 ### [Stöten](/europe/sweden/slen/things_to_do/stten)
 

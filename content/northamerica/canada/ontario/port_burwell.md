@@ -1,8 +1,6 @@
 ---
 title: "Port Burwell"
 type: location
-latitude: 42.646724
-longitude: -80.800337
 ---
 
 Port Burwell is a small town on the North shore of Lake Erie in Southwest Ontario. It is close to Windsor/Detroit and Niagara Falls/Buffalo and within 3 hours drive of Toronto.

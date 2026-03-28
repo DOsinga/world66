@@ -24,5 +24,3 @@ Utah Opera produces four professionally staged, fully costumed operas with natio
 **Sandy City Amphitheater**
 
 Located South Valley area, Trax, our light rail will get you there. National, Regional and Local Entertainment await you during our exciting second season which is full of multi-award winning artists, local luminaries and community favorites. Surely something for every taste. From Bach to Ballet or Classical to Country we are covering a wide range of styles.   [more..](/northamerica/unitedstates/utah/saltlakecity/nightlife/sandycityamphitheater)
-
--->

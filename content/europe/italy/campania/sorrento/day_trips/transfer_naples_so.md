@@ -10,5 +10,3 @@ url: "www.angelodriver.com"
 
 
 url: [www.angelodriver.com](http://www.angelodriver.com)
-
-[back to Day Trips](..)

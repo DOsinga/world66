@@ -14,5 +14,3 @@ Welcome to a touristic thriller: Kruger National Park. Four times a week we offe
 url: [www.safaritravelguide.com](http://www.safaritravelguide.com)
 
 email: info@safaritravelguide.com
-
-[back to Tours and Excursions](..)

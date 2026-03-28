@@ -13,9 +13,4 @@ Places in the Nelson Bays include:
 
 [Motueka](/australiaandpacific/newzealand/motueka)
 
-*Change history*
-Orginal article by [Huttite](/member/huttite) on 10 January 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 January 05
-
--->
+Minor corrections on 11 January 05

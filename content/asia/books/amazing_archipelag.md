@@ -23,8 +23,6 @@ It envisions possibilities rather than limitations to grant a hope for the futur
 
 **Contributors**
 December 03, 2010
-new
-by [johntabs](/member/johntabs)
 
 [](http://www.amazon.com/exec/obidos/ASIN/978-971-011-200-5/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -33,5 +31,3 @@ by [johntabs](/member/johntabs)
 author: John-Eric Taburada
 
 isbn: 978-971-011-200-5
-
-[back to Books](..)

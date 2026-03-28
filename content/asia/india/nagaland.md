@@ -1,0 +1,4 @@
+---
+title: "Nagaland"
+type: location
+---

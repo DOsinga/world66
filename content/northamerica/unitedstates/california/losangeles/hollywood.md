@@ -12,6 +12,3 @@ The Hollywood Hills also are home to the world's largest outdoor amphitheater, t
 West Hollywood is one of the first upscale gay communities, it is not really so defined now. People of all persuasion call it home – but only if you’re wealthy and stylish :- ) The famous Sunset Strip is in the area. It is not surprisingly full of great restaurants and star watching (original Wolfgang Puck’s Spago’s is here).
 
 South of West Hollywood is the segment of Melrose Avenue made famous. It really just runs from about 3rd Street to Fairfax – full of one-of-a-kind-shopping, it is less unique than it once was but still fun to check out. A few blocks south is on Fairfax is the Farmer’s Market (Next to CBS TV Center noted above) along with L.A.’s latest upscale mall – the Grove. A few blocks south is the LaBrea Tar Pits and the LA County Museum. Forget the fancy restaurants – stop by Roscoe’s Chicken & Waffle House! (not really on Melrose but in the area). There are also more 3-star/4-star restaurants in the area (not on Melrose itself) so pick up a ZAGAT guide to see what fits your bill. Again, everything from a $3 lunch to $300 lunch is in the area.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 18 March 04

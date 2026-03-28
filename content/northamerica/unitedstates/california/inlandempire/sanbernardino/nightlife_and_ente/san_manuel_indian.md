@@ -25,5 +25,3 @@ tel: 1-800-331-9536
 url: [www.sanmanuel.com](http://www.sanmanuel.com/page.htm?pageId=1)
 
 address: 777 San Manuel Avenue, Highland, CA 92346
-
-[back to Nightlife and Entertainment](..)

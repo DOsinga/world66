@@ -1,9 +1,9 @@
 ---
-title: "Wollongong Travel Guide"
+title: "Wollongong"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 **Wollongong** is the 3rd largest city in the state of New South Wales, Australia, after Sydney and Newcastle. It is also a Local Government Area administered by the Wollongong City Council. It is located on the eastern coast of Australia, 82 kilometres (52 mi) south of Sydney in an area known as the Illawarra
 and has a metropolitan population of 274,072 (2004). Wollongong is
@@ -20,13 +20,3 @@ fishing industry. It has a university, the University of Wollongong,
 which attracts a great number of international students each year. It
 has two Regional Cathedrals, and numerous churches of many
 denominations including the well-known land-mark, the Nan Tien Buddhist Temple, the largest in the Southern hemisphere.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Wollongong*
-
-#### Contributors
-
-September 13, 2007 change by [kstashuk](/member/kstashuk) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 13:49

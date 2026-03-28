@@ -1,8 +1,6 @@
 ---
 title: "Chantilly"
 type: location
-latitude: 49.193174
-longitude: 2.463669
 ---
 
 From the 10th to the 14th century, Chantilly belonged to the Lords of Senlis that built the first castle which there are no remains today. Between 1386 and 1394, Pierre dÍOrgemont built a medieval fortress. The only remains today are the tower foundations in the moat.

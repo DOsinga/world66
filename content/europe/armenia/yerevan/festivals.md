@@ -27,9 +27,5 @@ See why this performing arts festival has astounded the Southern Caucasus Region
 
 **Contributors**
 January 23, 2010
-change
-by [turkeyfish](/member/turkeyfish)
 
 January 29, 2010
-change
-by [schitti](/member/schitti)

@@ -1,12 +1,8 @@
 ---
-title: "Seaside Heights Travel Guide"
+title: "Seaside Heights"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Content Coming Soon
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 06:45

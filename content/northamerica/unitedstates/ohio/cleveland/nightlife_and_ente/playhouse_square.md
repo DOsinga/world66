@@ -10,8 +10,6 @@ This performing arts center is a Cleveland institution. It features various form
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Theatres
 
@@ -20,5 +18,3 @@ type: Theatres
 tel: 216.771.8403
 
 url: [www.playhousesquare.com](http://www.playhousesquare.com/)
-
-[back to Nightlife and Entertainment](..)

@@ -7,5 +7,3 @@ If you would like to see really good Capoeira show you should visit the restaura
 
 **Contributors**
 June 06, 2006
-new
-by [morsan](/member/morsan)

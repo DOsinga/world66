@@ -7,8 +7,6 @@ Lots of history happened around Ogden. In town, enjoy the Union Station museum. 
 
 **Contributors**
 September 14, 2005
-new
-by [hobobrother](/member/hobobrother)
 
 ### [Hill Air Force Base Museum](/northamerica/unitedstates/utah/ogden/museums/hill_air_force_bas)
 

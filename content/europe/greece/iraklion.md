@@ -1,8 +1,6 @@
 ---
 title: "Iraklion"
 type: location
-latitude: 35.33908
-longitude: 25.133284
 ---
 
 Heraklion (Iraklio, Herakleion) is the business and social center of Crete and the fifth biggest city in Greece. A busy town, a communications hub that receive and distribute most tourism traffic arriving on the island.

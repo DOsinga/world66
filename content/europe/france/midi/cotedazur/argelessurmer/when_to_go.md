@@ -54,5 +54,3 @@ attended.
 
 **Contributors**
 March 17, 2010
-change
-by [gabriela sanchez amyot](/member/gabriela_sanchez_amyot)

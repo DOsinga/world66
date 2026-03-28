@@ -7,5 +7,3 @@ The Bard Of Banff, nice wee book which contains a lot of history on Banff and Ma
 
 **Contributors**
 February 26, 2006
-new
-by [bardofthebroch](/member/bardofthebroch)

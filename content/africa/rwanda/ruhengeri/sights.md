@@ -4,8 +4,6 @@ type: section
 address: "66"
 phone: "44sdc6a1c65DA"
 type: "Parks, Gardens and Zoos"
-latitude: 42.625894
-longitude: 2.506509
 ---
 
 ### [Susan Mitchell](/africa/rwanda/ruhengeri/sights/susan_mitchell)

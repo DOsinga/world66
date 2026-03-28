@@ -9,8 +9,6 @@ Waxy´s is one of the newest bars in Ipanima! A very popular hang out for gringo
 
 **Contributors**
 January 13, 2010
-new
-by [waxydan](/member/waxydan)
 
 
 
@@ -19,5 +17,3 @@ by [waxydan](/member/waxydan)
 tel: 22472808
 
 address: 71b vinicus de Moraes
-
-[back to Bars and Cafes](..)

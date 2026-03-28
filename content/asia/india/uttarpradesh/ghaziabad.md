@@ -1,0 +1,4 @@
+---
+title: "Ghaziabad"
+type: location
+---

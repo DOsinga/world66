@@ -12,8 +12,6 @@ Winter Garden BAKURIANI awaits visitors with the most beautiful inner atmosphere
 
 **Contributors**
 March 06, 2010
-new
-by [teona](/member/teona)
 
 type: International
 
@@ -26,5 +24,3 @@ url: [www.intouristpalace.com](http://www.intouristpalace.com)
 address: 11, Ninoshvili str
 
 email: info@intouristpalace.com
-
-[back to Eating Out](..)

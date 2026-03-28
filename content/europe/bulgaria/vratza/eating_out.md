@@ -17,8 +17,6 @@ If you prefer **Fast Food**, try the **"CITY Grill House"**, **McBrothers**, and
 
 **Contributors**
 June 20, 2006
-new
-by [vam_1](/member/vam_1)
 
 ### ["Chaika"](/europe/bulgaria/vratza/eating_out/chaika)
 

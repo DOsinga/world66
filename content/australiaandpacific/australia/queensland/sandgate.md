@@ -1,0 +1,4 @@
+---
+title: "Sandgate"
+type: location
+---

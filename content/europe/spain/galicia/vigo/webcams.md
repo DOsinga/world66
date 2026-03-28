@@ -1,15 +1,12 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "www.crtvg.es"
 ---
 
 Vigo webcams
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 09 April 05
-
-Minor corrections by [Reen](/member/reen) on 14 April 05
+Minor corrections on 14 April 05
 
 ### Webcam Vigo (in motion)
 

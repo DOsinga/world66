@@ -1,0 +1,4 @@
+---
+title: "Gandhinagar"
+type: location
+---

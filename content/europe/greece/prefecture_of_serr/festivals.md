@@ -7,8 +7,6 @@ Some festivals and interesting traditions
 
 **Contributors**
 September 17, 2006
-new
-by [svetico](/member/svetico) (1 point)
 
 ### [Anastenaria](/europe/greece/prefecture_of_serr/festivals/anastenaria)
 

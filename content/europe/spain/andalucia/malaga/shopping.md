@@ -9,5 +9,3 @@ Shopping in Malaga is definitely a treat! Not only will you find some of the mos
 
 **Contributors**
 June 03, 2008
-change
-by [mcburton](/member/mcburton)

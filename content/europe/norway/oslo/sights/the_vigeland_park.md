@@ -25,5 +25,3 @@ openingHours: 24h
 url: [www.museumsnett.no](http://www.museumsnett.no/vigelandmuseet)
 
 address: Postboks 1453 Vika
-
-[back to Sights](..)

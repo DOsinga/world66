@@ -13,6 +13,4 @@ Colorado is home to some of the best skiing in the world. From world-class resor
 
  The closest resort to Denver is Loveland. For a quick drive (a little over 1 hour) and a relatively cheap lift ticket, this is the place for you. However, it might be worth the extra 30 minutes to an hour in the car to explore the resorts in Summit Valley or Winter Park.
 
- For those with plenty of time and a desire to find a ski town that is still somewhat untouched by the crowd, head to Steamboat Springs. Steamboat is an authentic cowboy town that still holds weekly rodeos in the summer. It is a 4 hour drive from Denver, but worth every minute. The slopes are uncrowded and are usually covered with incredible powder. The town is charming and will make you feel right at home. It is an ideal setting for a romantic getaway. 
-
--->
+ For those with plenty of time and a desire to find a ski town that is still somewhat untouched by the crowd, head to Steamboat Springs. Steamboat is an authentic cowboy town that still holds weekly rodeos in the summer. It is a 4 hour drive from Denver, but worth every minute. The slopes are uncrowded and are usually covered with incredible powder. The town is charming and will make you feel right at home. It is an ideal setting for a romantic getaway.

@@ -1,8 +1,6 @@
 ---
 title: "Hochpustertal"
 type: location
-latitude: 46.74789
-longitude: 12.490669
 ---
 
 It is one of the most beautiful high valleys in East Tirol close to the
@@ -18,5 +16,3 @@ Choose from various accommodation types: hotels, farmhouses, inns, camp sites, e
 
 **Contributors**
 July 04, 2005
-change
-by [giorgio](/member/giorgio)

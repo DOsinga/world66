@@ -30,8 +30,6 @@ Group use, bathing costumes compulsory
 
 **Contributors**
 January 19, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Public Buildings
 
@@ -48,5 +46,3 @@ url: [www.spasbudapest.com](http://www.spasbudapest.com)
 address: H-1013 Budapest, Döbrentei tér 9.
 
 openinghours: Elvis
-
-[back to Sights](..)

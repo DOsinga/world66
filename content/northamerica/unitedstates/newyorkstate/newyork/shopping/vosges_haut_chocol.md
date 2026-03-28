@@ -11,8 +11,6 @@ This unbelievably creative chocolate boutique puts all others to shame. Stop in 
 
 **Contributors**
 May 18, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: 212-625-2929
 url: [www.vosgeschocolate.com](http://www.vosgeschocolate.com)
 
 address: 132 Spring Street
-
-[back to Shopping](..)

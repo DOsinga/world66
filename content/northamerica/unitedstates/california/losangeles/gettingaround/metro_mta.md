@@ -14,5 +14,3 @@ This is LA's main public transporation system including the light rail/subway li
 tel: 800-COMMUTE
 
 url: www.mta.net
-
-[back to Getting Around](..)

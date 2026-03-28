@@ -27,4 +27,4 @@ If you visit in the winter then get outside and experience ice-fishing. There is
 
 #### The City Center
 
-The city center is one of the main attractions as it is flanked by the Nemunas River and the Neris River. There are many old historic buildings in this area and plenty of shopping. Many of the buildings date back to the 16th century. From here you are just a short walk from the Cathedral.
+The city center is one of the main attractions as it is flanked by the Nemunas River and the Neris River. There are many old historic buildings in this area and plenty of shopping. Many of the buildings date

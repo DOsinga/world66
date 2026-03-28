@@ -11,8 +11,6 @@ This is an excellent entertainment complex unique to Cleveland. It is a relative
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (2 points)
 
 type: Theatres
 
@@ -23,5 +21,3 @@ tel: 216.241.7425
 url: [www.pickwickandfrolic.com](http://www.pickwickandfrolic.com/)
 
 address: 2035 E.4th St.
-
-[back to Nightlife and Entertainment](..)

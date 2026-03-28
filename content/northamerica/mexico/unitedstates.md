@@ -1,8 +1,6 @@
 ---
 title: "United States"
 type: location
-latitude: 39.169763
-longitude: -91.882948
 ---
 
 The land of opportunity, that's the States and it's certainly true for traveling. The USA offers a unique combination of bigger than big cities with their fast paced life and great outdoor opportunities and lots of fun. 
@@ -55,30 +53,8 @@ The New England States are magnificent. From land to sea, you have it made here.
 
 All over the country you find many excellent National Parks, which are great places to go for hiking, biking and other activities. [Yellowstone](/northamerica/unitedstates/montana/yellowstone), [Yosemite](/northamerica/unitedstates/california/highsierra/yosemite), and the Grand Canyon are well known, but there are many more places of great beauty in God's own country. The Appalachian trail, running from [Springer Mountain](/northamerica/unitedstates/georgia/springermountain) in [New georgia](/australiaandpacific/solomonislands/newgeorgia) to [Katahdin](/northamerica/unitedstates/maine/katahdin) in [Maine](/northamerica/unitedstates/maine) is unique. More than 2000 miles long, a 'thru-hiker' needs one season to walk it from end to end.
 
-*Change history*
-Write up by [BlogJazz](/member/blogjazz) on 14 February 04
+Write up on 21 February 04
 
-Orginal article by [Nick](/member/nick) on 15 February 04
+Write up on 14 June 04
 
-Write up by [NewsStar2](/member/newsstar2) on 21 February 04
-
-Write up by [abdul](/member/abdul) on 14 June 04
-
-Minor corrections by [webmaster](/member/webmaster) on 20 July 04
-
-## Top Destinations in United States
-
-[Albuquerque](/northamerica/unitedstates/newmexico/albuquerque)
-[San Francisco](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco)
-[Yuma](/northamerica/unitedstates/arizona/yuma)
-[Atlanta](/northamerica/unitedstates/georgia/atlanta)
-[Chicago](/northamerica/unitedstates/illinois/chicago)
-[Seattle](/northamerica/unitedstates/washington/seattle)
-[Washington D.C.](/northamerica/unitedstates/washingtondc)
-[San Diego](/northamerica/unitedstates/california/sandiego)
-[Santa Barbara](/northamerica/unitedstates/california/centralcoast/santabarbara)
-[New York](/northamerica/unitedstates/newyorkstate/newyork)
-[Las Vegas](/northamerica/unitedstates/nevada/lasvegas)
-[Santa Monica](/northamerica/unitedstates/california/losangeles/santamonica)
-
-[**Show all destinations in United States.**](/northamerica/unitedstates/lib/alldestinations)
+Minor corrections on 20 July 04

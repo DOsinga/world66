@@ -2,8 +2,6 @@
 title: "Getting There"
 type: section
 type: "By Air"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
 For most travellers to Greenland flying is the only option. Air Greenland flies from Denmark to Kangerlussuaq most weekdays in summer (less often in winter) and to [Narsarsuaq](/northamerica/greenland/narsarsuaq) 1-3 times a week depending on season. Air Greenland also flies once a week from Baltimore in July and August. The company can then connect you throughout Greenland with their commuter flights in either Dash-7 aircraft or Bell Helicopter. The flight to Greenland from Europe would be in a 757 or A330 aircraft. It is important to realise that weather conditions can be extreme with delayed and cancelled flights as a consequence.
@@ -12,8 +10,6 @@ IMPORTANT All flights between Baltimore and Greenland for 2008 have been cancell
 
 **Contributors**
 March 14, 2008
-change
-by [ingvar](/member/ingvar) (2 points)
 
 ### [Icelandair](/northamerica/greenland/getting_there/torsten)
 

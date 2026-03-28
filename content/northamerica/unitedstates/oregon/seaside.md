@@ -1,0 +1,4 @@
+---
+title: "Seaside"
+type: location
+---

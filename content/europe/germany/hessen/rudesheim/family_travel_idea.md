@@ -25,5 +25,3 @@ A great museum for those with children is the Broemserhof, which houses the muse
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)

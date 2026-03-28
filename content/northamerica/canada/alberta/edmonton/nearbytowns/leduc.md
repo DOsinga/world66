@@ -15,13 +15,5 @@ minutes from the International Airport Location: - View on Map
 
 **Contributors**
 May 27, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: general
-
-
-
-
-
-[back to Nearby Towns](..)

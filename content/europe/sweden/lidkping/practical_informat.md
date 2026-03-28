@@ -4,16 +4,12 @@ type: section
 address: "Bangatan 3"
 phone: "+46 510 - 20020"
 type: "Tourist information"
-latitude: 55.589811
-longitude: 13.009807
 ---
 
 Miscellaneous practical information
 
 **Contributors**
 June 08, 2006
-new
-by [ewolf](/member/ewolf) (1 point)
 
 ### [Turistbyrån](/europe/sweden/lidkping/practical_informat/turistbyrn)
 

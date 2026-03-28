@@ -52,9 +52,5 @@ the air. It is the perfect end to a evenings walk.
 
 **Contributors**
 February 09, 2010
-new
-by [jenna storm](/member/jenna_storm)
 
 February 10, 2010
-change
-by [ctanios](/member/ctanios)

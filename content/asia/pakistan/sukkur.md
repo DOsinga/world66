@@ -1,0 +1,4 @@
+---
+title: "Sukkur"
+type: location
+---

@@ -7,9 +7,5 @@ Big Bear Valley was first occupied by the Serrano Indians approximately 3,000 ye
 
 Big Bear's first dam was completed in 1884 and was followed by the Valley's first hotel in 1888. In 1949 the first ski resort opened and Big Bear Lake soon became Southern California 's favorite mountain getaway. Hollywood also has a history in Big Bear. Since the filming of "The Call of the North" in 1914, so many motion pictures have been shot in Big Bear Valley that it has been called " Hollywood 's back lot." The only movie where Clint Eastwood sings, “Paint Your Wagon,” was shot here. It was a duet with Lee Marvin and proves why they never had a career in singing. There have been countless others made here as well.
 
-*Part or or all of this text stems from the original article at: research*
-
 **Contributors**
 February 17, 2004
-new
-by [spectre](/member/spectre)

@@ -12,7 +12,5 @@ children of madness.
 
 **Contributors**
 October 01, 2005
-change
-by [giorgio](/member/giorgio)
 
 type: Clubs and dancing

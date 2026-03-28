@@ -3,8 +3,6 @@ title: "Sights in Badajoz"
 type: section
 address: "Plaza San Juan s/n"
 type: "Churches and Cathedrals"
-latitude: 25.696392
-longitude: -100.46102
 ---
 
 Located
@@ -50,8 +48,6 @@ Portugal, do not worry, you are in Badajoz.
 
 **Contributors**
 February 12, 2007
-new
-by [costacora](/member/costacora) (1 point)
 
 ### [Cathedral of Saint John](/europe/spain/extremadura/badajoz/sights/cathedral_of_saint)
 

@@ -15,5 +15,3 @@ Good for a drink after the beach or for the partying that goes on until late at 
 accessibility: accessible to all
 
 address: Pical Hotel Beach
-
-[back to Bars and Cafes](..)

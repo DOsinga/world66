@@ -58,5 +58,3 @@ Albertville.
 
 **Contributors**
 September 04, 2009
-new
-by [kimerly](/member/kimerly)

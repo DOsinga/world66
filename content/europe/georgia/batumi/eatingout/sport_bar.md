@@ -11,8 +11,6 @@ The bar attracts visitors with its unique design. Dim and divergent interior ill
 
 **Contributors**
 March 06, 2010
-new
-by [teona](/member/teona)
 
 type: International
 
@@ -25,5 +23,3 @@ tel: (+995 99)136565
 url: [www.marigroup.ge](http://www.marigroup.ge)
 
 address: 10, Khimshiashvili str.
-
-[back to Eating Out](..)

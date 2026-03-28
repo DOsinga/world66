@@ -14,8 +14,6 @@ http://www.paradasp.org.br/
 
 **Contributors**
 February 23, 2007
-new
-by [issamu](/member/issamu)
 
 
 
@@ -24,5 +22,3 @@ by [issamu](/member/issamu)
 url: [www.paradasp.org.br](http://www.paradasp.org.br/)
 
 date: June 10th 2007
-
-[back to Festivals](..)

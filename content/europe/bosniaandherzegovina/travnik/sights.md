@@ -3,8 +3,6 @@ title: "Sights"
 type: section
 address: "Plava voda, Travnik"
 type: "Hotspots"
-latitude: 44.229893
-longitude: 17.672306
 ---
 
 in progress...

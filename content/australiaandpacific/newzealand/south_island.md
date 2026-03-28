@@ -5,10 +5,7 @@ type: location
 
 The **South Island** of [New Zealand](/australiaandpacific/newzealand) is renown for its spectacular scenery. The majestic [Southern Alps](/europe/france/midi/southern_alps) run the length of the island, like its spine.
 
-*Change history*
-Orginal article by [Huttite](/member/huttite) on 10 January 05
-
-Minor corrections by [Huttite](/member/huttite) on 10 January 05
+Minor corrections on 10 January 05
 
 ## Destinations in South Island
 

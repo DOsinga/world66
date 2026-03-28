@@ -5,9 +5,6 @@ type: section
 
 Speyer is a small, but nice old town with a few pleasant buildings, including the Dreifaltigkeitskirche, a Baroque church dating from 1701-17. A portion of the old Medieval fortifications still exist, including a gate dating from the 14th-16th centuries.
 
-*Change history*
-Orginal article by [indrian](/member/indrian) on 20 June 04
-
 **all**
 
 Dom St. Maria and St. Stephen
@@ -25,5 +22,3 @@ The historical museum of the Pfalz contains displays of the region from prehisto
 Technik Museum
 
 This museum has a collection of cars and planes of the 19th and 20th century. There are several large aircraft displays, including a Boeing 747.
-
--->

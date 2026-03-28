@@ -11,8 +11,6 @@ Dea Hotel started in 2005 the activities for offering a tourism services in the 
 
 **Contributors**
 October 10, 2010
-new
-by [edialtour](/member/edialtour)
 
 
 
@@ -23,5 +21,3 @@ url: [www.albania-holidays.al](http://www.albania-holidays.al)
 address: Radhima Beach, Dhermi, Vlora, Albania
 
 email: info@edialtour.com
-
-[back to Family Travel Ideas](..)

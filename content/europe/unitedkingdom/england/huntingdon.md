@@ -1,0 +1,4 @@
+---
+title: "Huntingdon"
+type: location
+---

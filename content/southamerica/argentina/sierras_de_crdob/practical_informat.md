@@ -7,5 +7,3 @@ Heart of Argentina Travel offers special trips in the Sierras de Córdoba (www.h
 
 **Contributors**
 October 06, 2008
-new
-by [almafuerte](/member/almafuerte)

@@ -1,0 +1,4 @@
+---
+title: "Lubero"
+type: location
+---

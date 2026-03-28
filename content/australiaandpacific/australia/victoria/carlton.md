@@ -1,0 +1,4 @@
+---
+title: "Carlton"
+type: location
+---

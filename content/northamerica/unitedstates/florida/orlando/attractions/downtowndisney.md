@@ -8,13 +8,5 @@ Walt Disney World Resort Lake Buena Vista, FL 32830 Phone: 407/824-4321 Fax: 407
 
 **Contributors**
 August 30, 2004
-change
-by [callmeshameless](/member/callmeshameless)
 
 type: general
-
-
-
-
-
-[back to Attractions](..)

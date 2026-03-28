@@ -11,6 +11,4 @@ Casa del Desierto (Harvey House)
 
 Mojave River Valley Museum
 
-270 E. Virginia Way 92311 760/256-5452 
-
--->
+270 E. Virginia Way 92311 760/256-5452

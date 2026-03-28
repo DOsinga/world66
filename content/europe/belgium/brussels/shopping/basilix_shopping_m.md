@@ -14,5 +14,3 @@ type: Shopping centers and malls
 
 
 url: [www.basilixshoppingcenter.be](http://www.basilixshoppingcenter.be)
-
-[back to Shopping](..)

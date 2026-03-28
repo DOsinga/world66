@@ -12,17 +12,7 @@ There are also weekly flights from Errachadia which is 2 hours away but then you
 
 **Contributors**
 December 06, 2006
-new
-by [haven la chance hotel](/member/haven_la_chance_hotel) (2 points)
 
 December 07, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

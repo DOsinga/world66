@@ -11,7 +11,4 @@ Los Alcázares está situado en el sureste de España, en la región de Murcia. 
 
 A mi parecer, el mejor horario para bañarse es entre las 9.00 am y las 11.00 am, que es cuando más cristalina se encuentra el agua.
 
-**Change history**
-Orginal article by [murcia4u](/member/murcia4u) on 11 February 05
-
-Minor corrections by [murcia4u](/member/murcia4u) on 11 February 05
+Minor corrections on 11 February 05

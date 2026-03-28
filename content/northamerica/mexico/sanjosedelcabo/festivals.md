@@ -56,5 +56,3 @@ thousands of years.
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)

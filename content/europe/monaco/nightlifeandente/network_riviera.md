@@ -1,6 +1,6 @@
 ---
 title: "Network Riviera"
-type: location
+type: poi
 email: "info@NetworkRiviera.com"
 type: "Clubs and dancing"
 url: "www.NetworkRiviera.com"

@@ -38,5 +38,3 @@ This zoo features animals from the temperate regions of the northern latitudes. 
 address: 2100 Shilo Rd. Billings
 
 openinghours: Year round
-
--->

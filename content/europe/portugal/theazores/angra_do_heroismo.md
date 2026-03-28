@@ -1,9 +1,9 @@
 ---
-title: "Angra do Heroismo Travel Guide"
+title: "Angra do Heroismo"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Angra do Heroismo was the seat of a captaincy in 1474, and it soon became an important trading centre thanks to the natural qualities of its harbour as evidenced even in its name (Angra means Bay).
 
@@ -20,13 +20,3 @@ Until the early 19th century, Angra, as the seat of the captaincy-general, retai
 Angra do Heroi­smo is one of the administrative seats of the Autonomous Regio and has one of the centers of the University of the Azores. Having suffered the effects of an earthquake in 1980, the reconstruction work is being carried out in such a way as to preserve the lines of the damaged buildings and monuments.
 
 Places to visit: Cathedral; Church of Nossa Senhora da Guia; Church of the Jesuit School; Church of Sao Gongalo; Church of Nossa Senhora da Conceicao; Church of the Misericordia; Sao Joao Baptista Castle; Sao Sebastiao Castle; Palace of the Bettencourts; Palace of the Captains-General; Town Hall; Historic centre; Municipal Garden; Alto da Memoria; Monte Brasil; Angra Museum.
-
-#### Contributors
-
-December 06, 2006 new by [atlante](/member/atlante) (2 points)
-
-December 07, 2006 change by [giorgio](/member/giorgio)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 22:24

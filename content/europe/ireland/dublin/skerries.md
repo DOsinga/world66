@@ -1,8 +1,6 @@
 ---
 title: "Skerries"
 type: location
-latitude: 53.573989
-longitude: -6.119175
 ---
 
 Skerries is a nice suprise when you see some of the ham-fisted urban planning that goes on in the Dublin Commuter Belt. it still feels like a victorian fishing village and its on the train to Dublin. There are nice walks around the coast and the architecture is a good blend of Georgian to Edwardian. 

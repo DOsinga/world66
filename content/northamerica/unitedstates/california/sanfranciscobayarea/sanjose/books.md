@@ -9,8 +9,6 @@ Books about San Jose, Ca
 
 **Contributors**
 April 22, 2007
-change
-by [crlauer](/member/crlauer)
 
 ### [Clyde Arbuckle's History of San Jose
 

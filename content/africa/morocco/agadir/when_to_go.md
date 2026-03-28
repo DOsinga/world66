@@ -17,5 +17,3 @@ The winters are mild with a more than decent amount of sunny days. The humidity 
 
 **Contributors**
 October 31, 2009
-new
-by [nicole mesaros](/member/nicole_mesaros)

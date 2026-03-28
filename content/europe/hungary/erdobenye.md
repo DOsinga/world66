@@ -1,8 +1,6 @@
 ---
 title: "Erdobenye"
 type: location
-latitude: 48.266262
-longitude: 21.356014
 ---
 
 The village Erdobenye has 1600 inhabitants and is located 20 km from the town of Tokaj, in a valley surrounded by mountains and vineyards, in the middle of the famous wine-region ‘Tokaj-Hegyalja’, in Borsod-Abauj-Zemplen County. The village is one of the centres of the wine-production in this region. There are more cellars in the village, where the regional wines can be tasted. As the well-known old saying tells us: “Good wine, like Tokaj Aszú, needs a good wine-cask too…“, that is why also the profession of coopers has a long tradition in this region. The Coopers of Erdobenye are the only one in the world who have still preserved the tradition of the dance of the Coopers, which they handed down from father to son, and which they perform every year in summer on the “Festival of Coopers”.

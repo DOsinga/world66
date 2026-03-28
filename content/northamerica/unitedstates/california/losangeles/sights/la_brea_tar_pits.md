@@ -14,8 +14,6 @@ Want to learn about what Los Angeles was like, say, 10,000 or even 40,000 years 
 
 **Contributors**
 May 20, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Hotspots
 
@@ -34,5 +32,3 @@ url: [www.tarpits.org](http://www.tarpits.org)
 address: 5801 Wilshire Boulevard (Miracle Mile), Los Angeles
 
 email: info@tarpits.org
-
-[back to Sights](..)

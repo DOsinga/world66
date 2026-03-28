@@ -14,8 +14,6 @@ You will find a wide range of dining opportunities in the **7 restaurants** from
 
 **Contributors**
 January 20, 2006
-new
-by [michael chapman](/member/michael_chapman)
 
 type: Speciality shops
 
@@ -30,5 +28,3 @@ url: [www.peddlersvillage.com](http://www.peddlersvillage.com/)
 address: Route 202, Lahaska, PA
 
 email: info@peddlersvillage.com
-
-[back to Shopping](..)

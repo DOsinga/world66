@@ -17,5 +17,3 @@ type: Clubs and dancing
 accessibility: Not wheelchair accessible. Just across the Rio Cumbaza near the traffic circle at the west entrance to Morales
 
 address: Prolongacción Peru #221
-
-[back to Nightlife and Entertainment](..)

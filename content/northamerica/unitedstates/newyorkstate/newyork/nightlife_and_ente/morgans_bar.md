@@ -11,8 +11,6 @@ One of New York’s hottest nightspots, Morgans Bar is tucked away in a surreall
 
 **Contributors**
 August 09, 2006
-new
-by [plin](/member/plin) (1 point)
 
 type: Pubs
 
@@ -25,5 +23,3 @@ tel: 212 686 0300
 url: www.morganshotel.com
 
 address: 237 Madison Ave
-
-[back to Nightlife and Entertainment](..)

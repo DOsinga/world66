@@ -7,5 +7,3 @@ A suburb of Seattle. Notable features are the Global HQ for Microsoft Co., Ninte
 
 **Contributors**
 December 07, 2005
-new
-by [brandong](/member/brandong)

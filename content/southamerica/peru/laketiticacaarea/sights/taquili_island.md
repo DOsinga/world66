@@ -16,17 +16,7 @@ The island can be reached on a one day tour (usually includes also the Uros isla
 
 **Contributors**
 July 22, 2006
-new
-by [yohay elam](/member/yohay_elam) (2 points)
 
 February 15, 2008
-change
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Hotspots
-
-
-
-
-
-[back to Sights](..)

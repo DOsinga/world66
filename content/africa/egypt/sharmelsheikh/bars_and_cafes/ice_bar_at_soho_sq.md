@@ -21,5 +21,3 @@ accessibility: http://www.soho-sharm.com/sharm-bar-Ice-Bar#
 tel: +20 10 160 95 44 / 41
 
 address: SOHO Square Sharm El Sheikh is located between the Savoy Hotel & Resort Sharm El Shiekh and the Sierra Hotel
-
-[back to Bars and Cafes](..)

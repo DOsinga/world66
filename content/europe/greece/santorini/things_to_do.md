@@ -11,5 +11,3 @@ Santorini is definetely the place to relax and unwind. After a sight seeing walk
 
 **Contributors**
 January 28, 2009
-new
-by [antonio76](/member/antonio76)

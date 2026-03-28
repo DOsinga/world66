@@ -53,5 +53,3 @@ Guadalajara. All dishes are under $7.
 
 **Contributors**
 March 20, 2010
-new
-by [kwalker](/member/kwalker)

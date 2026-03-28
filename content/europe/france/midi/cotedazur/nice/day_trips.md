@@ -5,24 +5,15 @@ type: section
 
 **Contributors**
 October 22, 2006
-change
-by [svetico](/member/svetico)
 
 We currently have no Day Trips listed in Nice.
 
 If you do know any Day Trips in Nice, please [Add].
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

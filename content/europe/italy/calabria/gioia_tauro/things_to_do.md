@@ -8,6 +8,3 @@ type: section
 **Other Activities**
 
 Gioia Tauro, Palmi and other nearby localities near the villetta have most of the activities a traveler would need on a vacation. From horseback riding, sunbathing, great walks, swimming, scuba diving, aqua park, bowling, basket ball courts, tennis, yachting, fishing, hiking, cycling, hunting, thermal baths and golf. During the summer time the lungomare is where the Gioiese take their passegiatta and listen to state funded summer concerts with the century old citrus plant ‘Largo Gaslini’ tastefully lit as the backdrop.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 05 February 05

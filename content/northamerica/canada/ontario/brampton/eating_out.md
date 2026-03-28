@@ -7,8 +7,6 @@ phone: "905-450-7854"
 price: "15-40"
 type: "French"
 url: "www.aggiemartin.com"
-latitude: 43.686049
-longitude: -79.760421
 ---
 
 ### [aggie martin](/northamerica/canada/ontario/brampton/eatingout/aggie_martin)

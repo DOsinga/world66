@@ -19,9 +19,5 @@ ArtWorks Artisan Center is a 22,000 square foot retail store for the arts. It is
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)
 
 January 27, 2010
-new
-by [samanthalp](/member/samanthalp)

@@ -1,11 +1,9 @@
 ---
 title: "Enoteca Drago"
-type: location
+type: poi
 address: "410 N. Canon Dr."
 phone: "310-786-8236"
 type: "Italian"
-latitude: 34.070933
-longitude: -118.401072
 ---
 
 Already lauded for his popular Italian restaurants Drago and Il
@@ -15,8 +13,6 @@ spacious, urbane atmosphere complete with an impressive wine bar.
 
 **Contributors**
 December 15, 2006
-new
-by [jhyatt](/member/jhyatt) (1 point)
 
 type: Italian
 
@@ -27,5 +23,3 @@ type: Italian
 tel: 310-786-8236
 
 address: 410 N. Canon Dr.
-
-[back to Eating Out](..)

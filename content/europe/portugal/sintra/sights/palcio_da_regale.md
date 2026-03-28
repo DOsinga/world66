@@ -16,7 +16,5 @@ To have a guided visit – 10 Euros (is necessary to book by phone: (351) 21 910
 
 **Contributors**
 July 13, 2005
-change
-by [grpadua](/member/grpadua)
 
 type: Palaces

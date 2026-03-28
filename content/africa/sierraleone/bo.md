@@ -1,0 +1,4 @@
+---
+title: "Bo"
+type: location
+---

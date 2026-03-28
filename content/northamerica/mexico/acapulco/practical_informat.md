@@ -35,5 +35,3 @@ Palma Sola (petro glyphs)
 
 **Contributors**
 February 11, 2009
-new
-by [niyocruisequeen45](/member/niyocruisequeen45)

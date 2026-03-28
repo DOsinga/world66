@@ -9,8 +9,6 @@ Plenty to do and see in Banff and [Macduff](/europe/unitedkingdom/scotland/macdu
 
 **Contributors**
 January 24, 2006
-change
-by [bardofthebroch](/member/bardofthebroch) (1 point)
 
 ### Display all
 or display just:

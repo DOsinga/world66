@@ -1,9 +1,9 @@
 ---
-title: "MidLand Travel Guide"
+title: "MidLand"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Midland was originally called Midway because of its location between
 Fort Worth and El Paso; however the name was soon changed to Midland to
@@ -23,9 +23,3 @@ distribution center. By August 2006, a busy period of crude oil
 production had caused a significant workforce deficit. According to the
 Midland Chamber of Commerce, at that time there were almost 2,000 more
 jobs available in the Permian Basin than there were workers to fill them.
-
-*Part or or all of this text stems from the original article at: http://en.wikipedia.org/wiki/Midland,_Texas*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 15:46

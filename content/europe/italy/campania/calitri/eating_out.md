@@ -42,8 +42,6 @@ to month.
 
 **Contributors**
 November 16, 2006
-new
-by [giorgio](/member/giorgio)
 
 ### [La Locanda dell'Arco di Zampaglione Ristorante](/europe/italy/campania/calitri/eating_out/la_locanda_della)
 

@@ -25,5 +25,3 @@ Ride the real London Tube or a double-decker bus to the London Transport Museum 
 
 **Contributors**
 July 22, 2009
-change
-by [kimerly](/member/kimerly)

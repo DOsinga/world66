@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 Edmonton features a wide variety of restaurants for you to sample and enjoy.

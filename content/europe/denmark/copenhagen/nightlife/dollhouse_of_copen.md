@@ -32,5 +32,3 @@ url: [www.copenhagen-nightclubs.com](http://www.copenhagen-nightclubs.com)
 address: Istedgade 38, 1st
 
 email: info@copenhagen-nightclubs.com
-
-[back to Nightlife and Entertainment](..)

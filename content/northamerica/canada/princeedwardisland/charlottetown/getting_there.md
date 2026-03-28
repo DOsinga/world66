@@ -13,5 +13,3 @@ Charlottetown is near the geographical centre of Prince Edward Island, almost eq
 
 **Contributors**
 January 22, 2005
-new
-by [reinvented](/member/reinvented) (1 point)

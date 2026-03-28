@@ -1,8 +1,6 @@
 ---
 title: "Vilafranca del Bierzo"
 type: location
-latitude: 43.536615
-longitude: -7.040847
 ---
 
 Vilafranca del Bierzo, is the last stage on the
@@ -20,7 +18,4 @@ pilgrims set out again with the fortress on their left, down the street
 of El Agua -which still has a medieval atmosphere today- and left
 Villafranca by the bridge across the Burbia
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 10 March 05
-
-Minor corrections by [giorgio](/member/giorgio) on 11 March 05
+Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05

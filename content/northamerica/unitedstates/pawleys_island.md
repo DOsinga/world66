@@ -7,5 +7,3 @@ Located south of Myrtle Beach and home to dozens of golf courses and terrific be
 
 **Contributors**
 February 19, 2006
-new
-by [hemphillbrett](/member/hemphillbrett)

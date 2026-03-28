@@ -1,8 +1,6 @@
 ---
 title: "Niamey"
 type: location
-latitude: 13.524834
-longitude: 2.109823
 ---
 
 Niger’s capital located in the far western region of the country is a lively fairly modern city of 500 000. Niamey offers unique open-air markets that are great for people watching—they’re patronized by members of the Tuareg Sonuri and Fulani tribes. 

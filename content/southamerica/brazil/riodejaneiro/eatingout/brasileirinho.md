@@ -20,5 +20,3 @@ tel: (21)2513-5184
 url: [www.cozinhatipica.com.br](http://www.cozinhatipica.com.br)
 
 address: Rua Jangadeiros 10 A, Ipanema
-
-[back to Eating Out](..)

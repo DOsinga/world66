@@ -1,8 +1,6 @@
 ---
 title: "Machu Picchu"
 type: location
-latitude: -13.164341
-longitude: -72.545009
 ---
 
 **Machu Picchu** 

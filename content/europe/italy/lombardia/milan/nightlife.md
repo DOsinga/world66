@@ -10,11 +10,3 @@ When it comes to nightlife Milan is really thrilling. No matter if you prefer a 
   Regarding cinemas there is a large choice of theatres. Some houses such as the "Angelicum" or the "Anteo" specialize in showing films in their original language. Between late june and late august, the "Cinema nel parco" festival offers outdoor showings of recent films.
 
   The main Bars & Pubs areas are the "Navigli" and "Porta Ticinese" district, alive with clubs, beer halls and sandwich bars. Another attracting quarter is the Brera district, a bit more safe and clean with art galleries, small clubs and restaurants.
-
-## Subsections
-
-[Bars & Pubs](/europe/italy/lombardia/milan/nightlife/barspubs)
-
-[Clubs & Dancing](/europe/italy/lombardia/milan/nightlife/clubsdancing)
-
-[Theatres](/europe/italy/lombardia/milan/nightlife/theatres)

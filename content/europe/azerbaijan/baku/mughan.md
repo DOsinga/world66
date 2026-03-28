@@ -1,12 +1,8 @@
 ---
-title: "Mughan Travel Guide"
+title: "Mughan"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Mughan Plain
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 03:19

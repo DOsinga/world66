@@ -36,5 +36,3 @@ Meeting / Banquet Facilities | Self Parking | Free Parking | Truck / RV Parking 
 
 
     **Standard Rates**  These great rates can be booked online up to 365 days in advance.  All year-round
-
--->

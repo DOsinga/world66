@@ -7,4 +7,4 @@ With the size of Ithaca as a smaller city and as a college town, it is wisely re
 
 Ithaca has a number of hotels with national brand names and most reservations can easily be made online.
 
-In addition, public transportation is limited on routes not serving shopping areas and the Cornell Campus. It is recommended to check schedules while planning outings so that you will not be forced to board a cab back to your hotel or lodging.
+In addition, public transportation is limited on routes not serving shopping areas and the Cornell Campus. It is recommended to check schedules while planning outings so that you will not be forced to board a cab

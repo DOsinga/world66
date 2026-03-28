@@ -17,5 +17,3 @@ type: general
 address: Pousada do Monte de Santa Luzia
 
 tel: 258 82 88 89
-
-[back to Eating Out](..)

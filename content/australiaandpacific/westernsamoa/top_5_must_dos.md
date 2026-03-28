@@ -50,23 +50,4 @@ the actual attraction, a set of 3 waterfalls, varying in length, are available
 for visitors to slide down. The rocky surface is covered in moss which will
 ensure a smooth ride down the waterfall. The highest slide is roughly 6
 meters. After an exciting ride down the slide, visitors will land in a
-horseshoe-shaped natural pool. The climb back to the top of the rock can be
-quite slippery and steps should be made with extreme caution. This attraction
-involves more strenuous activities than others in Western Samoa and that fact
-should be considered before arriving to the Papaseea Sliding Rock.
-
-**Marketi Tuai**
-
-Marketi Tuai is the perfect Western Samoa Must-Do for the traveler who wishes
-to experience the culture of the area up-close. This is a craft market in
-Western Samoa that is located in what was formerly a food market. Here visitors can purchase
-clothing items and traditional Samoan items. Hand-carved wooden bowls, tapa
-cloths, and small fans are all typical items available. It's the best place to
-buy gifts and souvenirs to remember your time in Western Samoa.
-
-Contributor: Samantha Parsons
-
-**Contributors**
-January 29, 2010
-change
-by [schitti](/member/schitti)
+horseshoe-shaped natural pool. The climb

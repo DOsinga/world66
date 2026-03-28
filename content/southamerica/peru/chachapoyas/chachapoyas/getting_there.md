@@ -25,9 +25,5 @@ From [Loja](/southamerica/ecuador/loja) or [Vilcabamba](/southamerica/ecuador/vi
 
 **Contributors**
 February 23, 2007
-new
-by [joosts](/member/joosts) (4 points)
 
 February 18, 2008
-change
-by [approaching genius](/member/approaching_genius) (1 point)

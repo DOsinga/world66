@@ -14,7 +14,3 @@ address: Manuel Banon 461 San Isidro Lima
 tel: 51 1 4402022
 
 email: postmaster@inkanatura.com.pee
-
-[back to Tours and Excursions](..)
-
--->

@@ -7,5 +7,3 @@ This is a place for nightlife and entertainment beside the many cultural and int
 
 **Contributors**
 September 28, 2005
-new
-by [karenbru](/member/karenbru)

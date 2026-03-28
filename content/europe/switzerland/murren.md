@@ -1,0 +1,4 @@
+---
+title: "Murren"
+type: location
+---

@@ -19,9 +19,5 @@ Besides the two streets mentioned above, there are a few malls that you can find
 
 **Contributors**
 March 18, 2010
-new
-by [imran_m](/member/imran_m)
 
 March 19, 2010
-change
-by [ctanios](/member/ctanios)

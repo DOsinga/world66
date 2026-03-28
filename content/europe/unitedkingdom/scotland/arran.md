@@ -7,11 +7,8 @@ Aran is on of Scotland's most southerly islands and is often said to be like 'Sc
 
 http://www.undiscoveredscotland.co.uk/areaarra/index.html
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 07 December 04
-
 ## Destinations in Arran
 
-[Brodick](/europe/unitedkingdom/scotland/arran/brodick)
-[Whiting Bay](/europe/unitedkingdom/scotland/arran/whiting_bay)
-[Lochranza](/europe/unitedkingdom/scotland/arran/lochranza)
+[Brodick](/world/europe/unitedkingdom/scotland/arran/brodick)
+[Whiting Bay](/world/europe/unitedkingdom/scotland/arran/whiting_bay)
+[Lochranza](/world/europe/unitedkingdom/scotland/arran/lochranza)

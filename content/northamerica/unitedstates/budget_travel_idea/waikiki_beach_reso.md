@@ -5,8 +5,6 @@ address: "1777 Ala Moana Boulevard"
 email: "ilikaihotel@milestoneinternet.com"
 phone: "808-949-3811"
 url: "www.ilikaihotel.com"
-latitude: 21.284358
-longitude: -157.838452
 ---
 
 Website Keywords:
@@ -26,5 +24,3 @@ url: [www.ilikaihotel.com](http://www.ilikaihotel.com/)
 address: 1777 Ala Moana Boulevard
 
 email: ilikaihotel@milestoneinternet.com
-
-[back to Budget Travel Ideas](..)

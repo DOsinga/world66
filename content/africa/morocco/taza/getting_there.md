@@ -37,9 +37,5 @@ The "*grands taxis*" arrive and depart near the train station.
 
 **Contributors**
 August 14, 2006
-change
-by [bernhadette](/member/bernhadette) (4 points)
 
 August 21, 2006
-change
-by [giorgio](/member/giorgio)

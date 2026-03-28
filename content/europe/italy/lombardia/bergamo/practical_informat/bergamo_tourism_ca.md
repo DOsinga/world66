@@ -9,8 +9,6 @@ With this tourism card you can get all kinds of discounts to hotels, restaurants
 
 **Contributors**
 June 09, 2005
-new
-by [karenbru](/member/karenbru)
 
 type: Tourist information
 
@@ -19,5 +17,3 @@ type: Tourist information
 
 
 url: eng.turismo.bergamo.it
-
-[back to Practical Information](..)

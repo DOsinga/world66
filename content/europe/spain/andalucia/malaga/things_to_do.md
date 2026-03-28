@@ -10,8 +10,6 @@ Whether you're interested in art and museums or golfing or sunbathing, Malaga ha
 
 **Contributors**
 June 03, 2008
-new
-by [mcburton](/member/mcburton)
 
 ### [Botanical Garden Tour - Finca La Concepcion](/europe/spain/andalucia/malaga/things_to_do/botanical_garden_t)
 
@@ -45,13 +43,7 @@ email: gibralfaro@parador.es
 
 ### [La Alcazaba](/europe/spain/andalucia/malaga/things_to_do/la_alcazaba)
 
-La Alcazaba is a Malaga landmark that dates back to the 700s. The entrance, known as Christ’s Door or Puerta del Cristo, is where the first mass was celebrated after the Christian victory over the town. If you head just below the entrance to La Alcazaba you will find the ruins of an ancient amphitheatre dating back to the second century AD.
-
-type: Other
-
-
-
-address: Calle Alcazabilla
+La Alcazaba is a Malaga landmark that dates address: Calle Alcazabilla
 
 ### [Plaza de la Malagueta](/europe/spain/andalucia/malaga/things_to_do/plaza_de_la_malagu)
 

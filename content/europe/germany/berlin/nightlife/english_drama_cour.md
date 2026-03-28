@@ -89,5 +89,3 @@ url: [www.inka-theatre.com](http://www.inka-theatre.com)
 address: Hanuman´s Move, Mittenwalder Str. 15, Kreuzberg
 
 email: ic.palm@web.de
-
-[back to Nightlife and Entertainment](..)

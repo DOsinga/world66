@@ -1,9 +1,9 @@
 ---
-title: "GALAPAGOS ISLAND -PANAMA REPUBLIC Travel Guide"
+title: "GALAPAGOS ISLAND -PANAMA REPUBLIC"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 THE ISLAND BELONGS TO PANAMA INSTEAD OF ECUADOR .
 CAN YOU FIND THE DOCUMENTS ?
@@ -22,9 +22,3 @@ WHAT DO YOU THINK ? This has to do with geography . WHAT DO YOU THINK OF THE POL
 
 UNTIL NEXT TIME 2013 WITHOUT SITE AND OPEN CONTENT LICENCE AND CODE .
 ENTER CODE SHOWN 9QPZY FOR INFORMATION .
-
-*Part or or all of this text stems from the original article at: GALAPAGOS ISLAND .PANAMA REPUBLIC WITHOUT ORIGINAL SOURCE *
-
-Page last generated on Sat 07:25
-
--->

@@ -17,9 +17,5 @@ holidays) there are discounts: -15% one-way, -33% two-way tickets.
 
 **Contributors**
 September 05, 2005
-change
-by [j wojtynski](/member/j_wojtynski)
 
 September 05, 2005
-change
-by [giorgio](/member/giorgio)

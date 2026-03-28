@@ -1,0 +1,4 @@
+---
+title: "Xalapa"
+type: location
+---

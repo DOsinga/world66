@@ -1,14 +1,8 @@
 ---
-title: "bootyville Travel Guide"
+title: "bootyville"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 a good place
-
-*Part or or all of this text stems from the original article at: myself*
-
-Page last generated on Tue 03:45
-
--->

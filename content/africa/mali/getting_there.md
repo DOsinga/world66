@@ -3,30 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+"/>
 
-Mali's national airline is* Mali Tombouctou Air Service (MALITAS). *Mali also has a share in the multinational airline *Air Afrique (RK).*
+**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
 
-Approximate flight time
+ This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
 
-From Bamako to *London *is 11 hours (including stopover in Brussels or Paris).
+ When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
 
-International airport:
+ For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
 
-*Bamako (BKO) *is* *15km (9 miles) from the city (travel time  20 minutes). A bus service into the city is available.
+ **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
 
-Departure tax
-
-CFAfr6000; for destinations in Africa CFAfr4500. Children under two years are exempt.
-
-Rail
-
-There is a twice-weekly service from Bamako to Dakar (Senegal) which has air-conditioning sleeper facilities and restaurant cars. It will also carry cars. There are plans to extend rail links into Guinea.
-
-Road
-
-The best road connections are from Côte d'Ivoire and Burkina Faso. The remote and desolate trans-Saharan route from Algeria is hazardous. There are also road links with Senegal and Guinea. The all-weather road follows the Niger as far as Niamey (Niger).
-
-Bus
-
-Services operate from Kankan (Guinea) to Bamako as well as from Bobo Dioulasso (Burkina Faso) to S&eacute;gou and Mopti and Niamey (Niger) to Gao.
+**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.

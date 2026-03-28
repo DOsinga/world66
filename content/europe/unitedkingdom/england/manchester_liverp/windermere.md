@@ -1,0 +1,4 @@
+---
+title: "Windermere"
+type: location
+---

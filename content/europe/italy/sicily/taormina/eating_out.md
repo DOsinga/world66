@@ -5,9 +5,6 @@ type: section
 
 Although Taormina is full of *tourist traps*, good restaurants can be found.
 
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 25 June 04
-
 **all**
 
 **al Giardino**

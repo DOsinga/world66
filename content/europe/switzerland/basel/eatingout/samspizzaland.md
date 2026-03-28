@@ -5,8 +5,6 @@ address: "Greifengasse 21"
 phone: "+41 (0)61 -  693 07 90"
 type: "US American"
 zipcode: "4058 Basel"
-latitude: 47.561433
-longitude: 7.592538
 ---
 
 More than 50 delicious American Pizze.
@@ -22,5 +20,3 @@ address: Greifengasse 21
 tel: +41 (0)61 - 693 07 90
 
 zipcode: 4058 Basel
-
-[back to Eating Out](..)

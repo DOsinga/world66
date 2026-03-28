@@ -12,5 +12,3 @@ The Internationa Festival of Sahara : December
 More information, please contact Ghilane Travel Services - Douz - Tunisia
 
 gts@planet.tn
-
--->

@@ -9,9 +9,6 @@ Pizza Hut
 
 . There are many cafe districts and the most famous one is Strahinjica Bana street.
 
-*Change history*
-Orginal article by [DOsinga](/member/dosinga) on 26 August 04
-
 McDonald's and
 
 Pizza Hut
@@ -19,5 +16,3 @@ Pizza Hut
 . There are many cafe districts and the most famous one is Strahinjica Bana street. "
 dc:creator="World66"
 dc:date="" />
-
--->

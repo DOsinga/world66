@@ -62,5 +62,3 @@ address: Jokikatu 14
 openinghours: Mon-Sat 11am-3:30pm.
 
 tel: (019) 582 941
-
--->

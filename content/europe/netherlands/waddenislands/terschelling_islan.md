@@ -1,9 +1,9 @@
 ---
-title: "Terschelling island Travel Guide"
+title: "Terschelling island"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Large parts of the island of Terschelling are nature reserve areas (a total of 80%). Its North Sea **coastline is the largest**
 of all Dutch Wadden Islands, from SW to NE extending over more then 30
@@ -32,15 +32,3 @@ What cannot be found on any of the other Dutch
 [Wadden islands](/europe/netherlands/waddenislands), are the cranberry or American fen-berry bogs; the berries are incorporated in various typical Terschelling products.
 
 The tourist season spreads from june to september. Every year in mid june, there is the eccentric festival called [**Oerol**](/europe/netherlands/waddenislands/terschelling_islan/festivals/oerol) ('everywhere', in dialect). Check the [Festivals] section for details.
-
-#### Contributors
-
-June 18, 2006 change by [reen](/member/reen) (1 point)
-
-March 24, 2005 change by [hollandtraveler](/member/hollandtraveler)
-
-February 14, 2005 change by [belgarion](/member/belgarion)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 08:05

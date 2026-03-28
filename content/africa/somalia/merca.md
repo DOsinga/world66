@@ -1,8 +1,6 @@
 ---
 title: "Merca"
 type: location
-latitude: 1.714836
-longitude: 44.769933
 ---
 
 We currently have no information about Merca.

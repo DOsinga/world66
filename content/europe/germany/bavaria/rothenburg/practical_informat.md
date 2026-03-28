@@ -21,6 +21,4 @@ type: section
 
  Sat: 10am - 1pm (summertime till 3pm)
 
- Sun: only May - Oct: 10am - 3pm 
-
--->
+ Sun: only May - Oct: 10am - 3pm

@@ -1,7 +1,9 @@
 ---
-title: "La Palma Travel Guide"
+title: "La Palma"
 type: location
 ---
+
+Travel Guide
 
 La Palma is the capital of the Darien province. Don't expect too much,
 though. It is a useful place to do some last minute shopping and you

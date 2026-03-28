@@ -1,9 +1,9 @@
 ---
-title: "Sandoy Travel Guide"
+title: "Sandoy"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 This island is connected with Streymoy by a car ferry from near Kirkjubour. It is generally more agricultural and scenically softer than most of the islands, though there are excellent features on the south and east coasts.
 
@@ -19,11 +19,3 @@ larger island of Suduroy. An unclassified roadleads to the
 uninhabited but delightful bay of Søltuvik, where we had a walk and
 were mobbed by arctic terns. On the way back we lunched near puffin
 cliffs.* *
-
-#### Contributors
-
-August 20, 2008 change by [davidx](/member/davidx) (1 point)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 00:50

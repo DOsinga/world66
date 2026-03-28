@@ -11,8 +11,6 @@ There is a daily scheduled service by bus from San Salvador, El Salvador to San 
 
 **Contributors**
 August 30, 2006
-change
-by [miguel flores](/member/miguel_flores) (1 point)
 
 ##
 
@@ -26,17 +24,10 @@ by [miguel flores](/member/miguel_flores) (1 point)
 
 [](/lib/map/handle?loc=centralamericathecaribbean|honduras|sanpedrosula)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

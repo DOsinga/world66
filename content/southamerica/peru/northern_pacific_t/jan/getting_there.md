@@ -15,9 +15,5 @@ From Jaén to [Chachapoyas](/southamerica/peru/chachapoyas), the situation is si
 
 **Contributors**
 May 25, 2006
-change
-by [joosts](/member/joosts) (4 points)
 
 February 14, 2008
-change
-by [approaching genius](/member/approaching_genius) (1 point)

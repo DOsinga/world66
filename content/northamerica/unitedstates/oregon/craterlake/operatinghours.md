@@ -15,6 +15,4 @@ Rim Village Visitor Center: Early June through late September, 9:30 AM - 5:00 PM
 
 **Winter Hours**
 
-Steel Visitor Center: Early November through early April, 10:00 AM - 4:00 PM, daily.  
-
--->
+Steel Visitor Center: Early November through early April, 10:00 AM - 4:00 PM, daily.

@@ -14,7 +14,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Getting around on **Roatan** is not that
 difficult. Considering the fact that there is only one main road makes it a lot
@@ -37,5 +37,3 @@ contentment in the years to come.
 
 **Contributors**
 February 12, 2010
-new
-by [minx](/member/minx)

@@ -1,13 +1,11 @@
 ---
 title: "Ruth's Chris Steak House"
-type: location
+type: poi
 address: "224 South Beverly Drive, Beverly Hills, CA, 90212"
 email: "beverlyhills@ruthschris.com"
 phone: "+1-310-859-8744"
 type: "American"
 url: "www.ruthschris.com"
-latitude: 34.063916
-longitude: -118.3989
 ---
 
 Always busy, it seems, this steakhouse chain sits comfortably
@@ -19,7 +17,5 @@ sure, but remains a consistent winner for great food and atmosphere.
 
 **Contributors**
 February 27, 2007
-new
-by [rfujitani](/member/rfujitani) (2 points)
 
 type: American

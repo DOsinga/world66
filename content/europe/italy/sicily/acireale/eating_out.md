@@ -6,8 +6,6 @@ phone: "+393497896343"
 price: "€25-35"
 type: "Italian"
 url: "www.prenotaristorante.com"
-latitude: 40.83915
-longitude: 14.251435
 ---
 
 ### [Osteria Incognito](/europe/italy/sicily/acireale/eatingout/osteria_incognito)

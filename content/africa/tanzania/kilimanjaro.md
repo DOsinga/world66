@@ -1,17 +1,51 @@
 ---
 title: "Kilimanjaro"
 type: location
-latitude: -3.078653
-longitude: 37.419856
 ---
 
-At 5,895 m, Kilimanjaro is the highest point in Africa. Although it is located in Northern [Tanzania](/africa/tanzania), it can be seen from large parts of Kenia as well.
+**Part of history**
 
-Although believed to be extinct by many, this volcano is very much active. Fumaroles emits gas in the crater on the main summit of Kibo. Scientists in 2003 concluded that molten lava is just 400 meters below the summit crater. Although new activity is not expected, there are fears the volcano may collapse causing a major eruption. Several collapses and landslides have occurred on Kibo in the past, one creating the area known as the western breach. Although there is no recorded history of eruptions, local legend speaks of activity around 150 - 200 years ago.
+The controversy over the nile originating from mount kilimanjaro
+spurred African exploration and European imperialism. German explorers
+and missionaries arrived to ‘discover’ the truth and to attempt to
+convert the natives to Christianity. Eventually, treaties were formed
+with the Wachagga and the german Carl Juhlke. The british also formed
+treaties with locals to the north, in Taveta, which will later result
+in the current border between Kenya and Tanzania. The wachagga is a new
+tribe, only establishing itself within the last hundred years.
 
-The nearest city is [Arusha](/africa/tanzania/arusha). This is why one of the two airports of Arusha is called Kilimajaro Airport. However, the real climning usually strarts from [Moshi](/africa/tanzania/moshi).
+**Where do they live?**
 
-*Change history*
-Orginal article by [hpharmsen](/member/hpharmsen) on 01 July 04
+The Wachagga can be found in northern Tanzania in the
+Kilimanjaro region. They live on the slopes of Mount kilimanjaro, where
+banana groves flourish to provide the people with their main staple.
+Specifically, you will be visiting the village of MachameUduru in the
+Hai district, about 20 km from Moshi town. Uduru, also known as Kiduru
+in Kimachame, means "an elevated area or top of a hill." Similarly,
+before being globally known as Kilimanjaro, it was named Kelemakyaro by
+the Wachagga, meaning "a high mountain and the mountain of God."
 
-Orginal article by [hpharmsen](/member/hpharmsen) on 01 July 04
+**How is the weather?**
+
+As a result of the altitude, the climate is cooler and moisture
+is more abundant than the lower lands. In fact, as the elevation
+increases, the temperatures drop gradually while animal and plant
+growth also changes. Kilimanjaro’s highest peak can be seen sporting a
+white crown of snow.
+
+**Who are the Wachagga?**
+
+The residents of the Kilimanjaro region are the Wachagga and
+Wapare tribesmen. The Wapare live in an area called Upare, but the
+dominant ethnic group is Wachagga. being one of the earliest
+communities influenced by Roman catholic and Lutheran missionaries,
+western education, and cash cropping through cooperative farming, they
+have impacted the fabric of Tanzanian life in the medical, educational,
+and business realms. They are also famous for their versatility in
+utilizing bananas in food and drink, including in the production of the
+famed banana wine.
+
+**
+**
+
+Minor corrections by [giorgio](/world/member/giorgio) on 29 March 05

@@ -12,5 +12,3 @@ with tasteful, colorful and very artistic mosaic.
 
 **Contributors**
 September 03, 2005
-new
-by [meshuganut](/member/meshuganut)

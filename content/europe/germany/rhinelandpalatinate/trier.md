@@ -11,4 +11,4 @@ Trier is a 2000-year-old Roman city near Luxembourg, the oldest city in Germany!
 
  It’s worth more than a day trip. If time permits take a boat trip up the river towards [Cochem](/europe/germany/rhinelandpalatinate/mosel/cochem) or Bernkastel to see the scenery and the beautiful view. Trier is famous for its lively way to party in the streets, especially in summertime. You should see the "Altstadtfest" when the whole city is one big party with lots of live events, local food, wine and beer.
 
- With some more days of leisure time you should use the proximity of Trier to three neighbouring countries. It is only 30 minutes by car to the French border, not much more to [Belgium](/europe/belgium), and Luxembourg is practically on the doorstep. Trier is located about *110 mi/175 km west of Frankfurt.*
+ With some more days of leisure time you should use the proximity of Trier to three neighbouring countries. It is only 30 minutes by car to the French border, not much more to [Belgium](/europe/belgium), and [Luxembourg](/europe/luxembourg) is practically on the doorstep. Trier is located about *110 mi/175 km west of Frankfurt.*

@@ -16,5 +16,3 @@ address: Calle Gloria 6
 url: [www.barriosantacruz.com](http://www.barriosantacruz.com/carmelo)
 
 tel: +34954225332
-
--->

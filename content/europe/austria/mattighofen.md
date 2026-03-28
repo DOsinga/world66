@@ -1,0 +1,4 @@
+---
+title: "Mattighofen"
+type: location
+---

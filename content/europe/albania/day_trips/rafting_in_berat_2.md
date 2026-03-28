@@ -5,8 +5,6 @@ address: "Berat, Albania"
 email: "info@albrafting.org"
 phone: "+355 69 20 35 634"
 url: "www.albrafting.org"
-latitude: 40.701864
-longitude: 19.958076
 ---
 
 **One day rafting**
@@ -64,5 +62,3 @@ url: [www.albrafting.org](http://www.albrafting.org)
 address: Berat, Albania
 
 email: info@albrafting.org
-
-[back to Day Trips](..)

@@ -1,16 +1,13 @@
 ---
 title: "Museums"
 type: poi
-latitude: 47.055729
-longitude: 8.310423
 ---
 
 **Sights**
 
 **Musée Automobiles Motos et Cycles**
 
-The Automobile and Cycle Museum displays a collection of some 120 vintage cars, motor-cycles and bicycles. The cars were all built before World War 2. The motor-cycle collection covers the period of 1896-1950. 
- The museums is open daily from 2-6 p.m. except Monday and Tuesday. The busses No. 1-4 [more..](/europe/switzerland/geneva/sights/museums/museautomobilesmotosetcycles)
+The Automobile and Cycle Museum displays a collection of some 120 vintage cars, motor-cycles and bicycles. The cars were all built before World War 2. The motor-cycle collection covers the period of 1896-1950.  The museums is open daily from 2-6 p.m. except Monday and Tuesday. The busses No. 1-4 [more..](/europe/switzerland/geneva/sights/museums/museautomobilesmotosetcycles)
 
 address: rue des Bains 28-30
 

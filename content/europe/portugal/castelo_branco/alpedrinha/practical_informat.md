@@ -21,5 +21,3 @@ Tel (0351) 275 567 107
 
 **Contributors**
 September 05, 2005
-change
-by [giorgio](/member/giorgio)

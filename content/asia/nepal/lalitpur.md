@@ -1,0 +1,4 @@
+---
+title: "Lalitpur"
+type: location
+---

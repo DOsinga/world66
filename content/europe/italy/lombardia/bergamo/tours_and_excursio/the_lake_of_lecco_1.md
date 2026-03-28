@@ -8,13 +8,9 @@ Take your car, bike or just go on foot all around the Lake of Como on the ferryb
 
 **Contributors**
 June 10, 2005
-new
-by [karenbru](/member/karenbru) (1 point)
 
 
 
 
 
 url: [www.navigazionelaghi.it](http://www.navigazionelaghi.it/italia/navicomo/Orarico/cartinacompleta.htm)
-
-[back to Tours and Excursions](..)

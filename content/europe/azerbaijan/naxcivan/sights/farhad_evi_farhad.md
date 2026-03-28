@@ -8,13 +8,5 @@ Farhad Evi (Farhad's House) is an archeological monument in Batabat palin, in th
 
 **Contributors**
 April 18, 2006
-new
-by [reen](/member/reen)
 
 type: Landmarks
-
-
-
-
-
-[back to Sights](..)

@@ -35,5 +35,3 @@ url: [www.dawnontheamazon.com](http://www.dawnontheamazon.com)
 address: #185 Maldonado, Iquitos Peru
 
 email: dawnontheamazon@yahoo.com
-
-[back to Tours and Excursions](..)

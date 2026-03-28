@@ -19,5 +19,3 @@ Potsdam Conference. There's so much to see....
 
 **Contributors**
 October 20, 2006
-change
-by [sume](/member/sume) (2 points)

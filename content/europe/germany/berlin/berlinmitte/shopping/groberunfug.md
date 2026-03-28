@@ -5,12 +5,9 @@ address: "Weinmeisterstr. 9b"
 connections: "U Gneisenaustr."
 opening_hours: "Mo-Fr 11am -7pm, Sa 11am -4pm"
 type: "Funshopping"
-latitude: 52.525207
-longitude: 13.405927
 ---
 
-The comic shop with a huge selection and witty accessories. Changing
- exhibitions by well-known artists. Also a branch in at: Zossener Str. 32-33.
+The comic shop with a huge selection and witty accessories. Changing exhibitions by well-known artists. Also a branch in at: Zossener Str. 32-33.
 
 type: Funshopping
 
@@ -24,19 +21,10 @@ openings: Mo-Fr 11am -7pm, Sa 11am -4pm
 
 address: Weinmeisterstr. 9b
 
-[back to Shopping](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

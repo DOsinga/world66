@@ -16,5 +16,3 @@ The wine festival takes place in the idyllic city park, where the national drink
 **Johannisfest**
 
 This festival takes place in the city centre, considered to be dedicated to the city's great son, Gutenberg. This Festival will take place from the 2nd to the 4th of July.
-
--->

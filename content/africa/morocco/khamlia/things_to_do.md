@@ -8,5 +8,3 @@ Be only careful by driving, many children are jumping in the village and around.
 
 **Contributors**
 January 23, 2009
-change
-by [michaela - khamlia](/member/michaela_-_khamlia)

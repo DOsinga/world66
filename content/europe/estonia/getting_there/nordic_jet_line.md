@@ -12,8 +12,6 @@ Nordic Jet Line operates 'high speed' catamarans on the [Helsinki](/europe/finla
 
 **Contributors**
 August 28, 2005
-new
-by [gika](/member/gika)
 
 type: By Sea
 
@@ -28,5 +26,3 @@ url: [www.njl.fi](http://www.njl.fi)
 address: Vanasadam Reisiterminal C
 
 email: booking@njl.ee
-
-[back to Getting There](..)

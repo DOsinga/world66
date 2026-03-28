@@ -15,5 +15,3 @@ Traveller's tip: Draw your spending money from an ATM or use your credit/debit c
 
 **Contributors**
 September 16, 2008
-new
-by [steve9631](/member/steve9631) (1 point)

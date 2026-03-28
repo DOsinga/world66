@@ -1,8 +1,6 @@
 ---
 title: "Togher"
 type: location
-latitude: 51.876776
-longitude: -8.493963
 ---
 
 Southern suburb of Cork.

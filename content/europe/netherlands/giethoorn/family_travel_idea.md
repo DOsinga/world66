@@ -54,5 +54,3 @@ to enjoy several great days.
 
 **Contributors**
 March 08, 2010
-change
-by [kat99](/member/kat99)

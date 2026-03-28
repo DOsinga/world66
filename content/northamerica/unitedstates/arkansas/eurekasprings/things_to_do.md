@@ -27,9 +27,5 @@ The newly renovated City Auditorium brings world-class entertainers, from John P
 
 **Contributors**
 April 06, 2005
-new
-by [overratedlush](/member/overratedlush) (1 point)
 
 February 20, 2008
-change
-by [approaching genius](/member/approaching_genius) (1 point)

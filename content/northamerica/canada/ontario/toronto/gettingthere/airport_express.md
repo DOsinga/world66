@@ -71,5 +71,3 @@ type: By Road
 
 
 url: [www.torontoairportexpress.com](http://www.torontoairportexpress.com)
-
-[back to Getting There](..)

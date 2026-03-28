@@ -32,7 +32,3 @@ There are no international rail links with neighbouring countries.
 Road
 
 Road access is from Colombia (Barranquilla and Medellin) to Maracaibo and from the Amazon territory of Brazil (Manaus) to Caracas.
-
-## Subsections
-
-[By Air](/southamerica/venezuela/gettingthere/byair)

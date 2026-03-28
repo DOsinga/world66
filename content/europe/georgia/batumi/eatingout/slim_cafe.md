@@ -10,8 +10,6 @@ Slim cafe is situated in the city center. Its interior is long and thin, with ta
 
 **Contributors**
 March 13, 2010
-new
-by [teona](/member/teona)
 
 type: International
 
@@ -20,5 +18,3 @@ type: International
 tel: (+995 99) 55 00 65
 
 address: 27, M. Abashidze str.
-
-[back to Eating Out](..)

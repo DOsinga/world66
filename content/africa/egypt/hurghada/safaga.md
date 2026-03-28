@@ -1,9 +1,9 @@
 ---
-title: "Safaga Travel Guide"
+title: "Safaga"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Port Safaga, also known as Bur Safaga and Safaga .is a town in Egypt, on the coast of the Red Sea located 53 KM(33 miles) south of Hurghada, This small port is also a tourist area that consists of several bungalows and rest houses, including the Safaga Hotel, with a capacity of 48 rooms (126 beds). Having numerous phosphate mines, it is regarded as the phosphates export center. A paved road of 164 km (101 miles) connects Safaga to Qena of Upper Egypt.
 
@@ -21,7 +21,3 @@ Safaga is also a good starting point for a day trip into the Eastern Desert to c
 
 http://www.memphistours.net
 tours@memphistours.net
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 08:58

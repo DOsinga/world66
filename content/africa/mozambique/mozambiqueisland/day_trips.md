@@ -63,5 +63,3 @@ mainland.
 
 **Contributors**
 March 17, 2010
-new
-by [ak1980](/member/ak1980)

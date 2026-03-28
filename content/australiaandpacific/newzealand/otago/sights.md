@@ -11,5 +11,3 @@ The **road to Milford Sound**. Worth an afternoon on it's own merits. This 100km
 
 **Contributors**
 April 28, 2007
-new
-by [lpx](/member/lpx) (4 points)

@@ -20,15 +20,4 @@ After following down the Rias Baixas coast your inland journey begins alongside 
 
 Moving on across Galicia our next wine region is the D.O. Valdeorras where you will try Godello white wines as well as Mencia reds. Next we step over to El Bierzo right next door to Galicia in Castilla y Leon , but who have much in common from their ancient Celtic ties. As well in this region there is an important reminder of the Roman past with the largest gold mine of the Roman Empire in Las Medulas . In this region you will try yet another Mencia wine, but from the more arid lands of D.O. Bierzo, which have a distinct flavor to them.
 
-Bierzo marks the end of the winery visits, but we still have some cultural and gastronomical treats on the agenda before winding down. Making our way back to Santiago we will follow through some of the historic towns on the pilgrimage way of St. James like; Villafranca del Bierzo , then on to the mountain-top Celtic village of O Cebreiro and the Roman Walls of Lugo a UNESCO Monument .
-
-Our last night will be spent in the Historic Parador de Vilalba built within the old castle tower of Vilalba, nearby you will dine in a traditional restaurant saying goodbye to your final evening in this Celtic land with a magical Queimada (traditional spirit, flavoured with coffee beans, and then flamed)".
-
-For your comfort during the trip we have selected a mix of Paradores in Santiago, Baiona, Ribeira Sacra and Vilalba. These accommodations are placed within historic building like Monasteries, Castles, etc... Ranging from 4* to 5* GL (Grand luxury) . Then as well you will have a few more rural stays in Galician Pazos , which are Noble Manor House with all the amenities of a Parador but on a smaller more personal scale.
-
-**Come Discover the Magic of Galicia with a Gourmet Appetite!**
-
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 14 April 05
-
-Minor corrections by [EuroAdventures](/member/euroadventures) on 14 April 05
+Bierzo marks the end of the winery visits, but we still have some cultural and gastronomical treats on the agenda before winding down. Making our way

@@ -17,5 +17,3 @@ type: Expensive
 address: Barranquito Beach
 
 tel: 4772172
-
-[back to Eating Out](..)

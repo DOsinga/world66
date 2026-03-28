@@ -10,5 +10,3 @@ address: Via dela Vigna Vecchia, 40R
 openinghours: Dinner only; closed Monday
 
 tel: +39 (0)55-284-170
-
--->

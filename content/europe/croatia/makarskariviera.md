@@ -1,8 +1,6 @@
 ---
 title: "Makarska riviera"
 type: location
-latitude: 43.235537
-longitude: 17.090723
 ---
 
 Makarska riviera is one of the most beautiful parts of adriatic coast ( and many says THE most beautiful ). 
@@ -16,6 +14,3 @@ Makarska is the center and famous touristic destination but not the only one: th
 Zivogosce-Mala Duba is just one of those villages,situated 20 km southern of Makarska. 
 
 See more of these photos at www.whisper-mala-duba.com. You will enjoy in the beautiful landscapes.
-
-*Change history*
-Minor corrections by [giorgio](/member/giorgio) on 13 February 04

@@ -3,13 +3,9 @@ title: "Maspalomas"
 type: location
 ---
 
-A region on the south shore of [Gran Canaria](/europe/spain/grancanaria), where most of the tourists stay.
-
-*Change history*
-Orginal article by [gagarin](/member/gagarin) on 07 September 04
+A region on the south shore of
+[Gran Canaria](/europe/spain/canaryislands/crancanaria), where most of the tourists stay.
 
 ## Destinations in Maspalomas
 
-[Playa del Ingles](/europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles)
-
--->
+[Playa del Ingles](/world/europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles)

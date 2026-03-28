@@ -1,12 +1,8 @@
 ---
-title: "Oravainen Travel Guide"
+title: "Oravainen"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Oravais/Oravainen
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 12:28

@@ -1,0 +1,4 @@
+---
+title: "Supetar"
+type: location
+---

@@ -13,9 +13,6 @@ Detroit has a fascinating cultural scene as well. The Detroit Institute of Arts 
 
 Henry Ford Museum and Greenfield Village and IMAX Theatre (now called "The Henry Ford") is a great place to spend a summer day! Start off in The Henry Ford Museum and take a look at America's cultural history, from JFK's limo, the chair Lincoln was shot in, the bus Rosa Parks refused to move to the back in, as well as other artifacts of Americana. Then move on to Greenfield Village and step into the past. Visit period homes moved from across the US to Dearborn. Homes like Daniel Webster's residence, Thomas Edison's laboratory, Henry Ford's birthplace, The Wright Brother's workshop, and more are all here for you to explore. Also, the village contains a real, working, farm tooled with period farming impliments and workmanship. In the evening, catch a movie in Detroit's only 3-story IMAX screen.
 
-*Change history*
-Write up by [submariner](/member/submariner) on 10 April 04
-
 ## Destinations in Detroit
 
-[Cranbrook](/northamerica/unitedstates/michigan/detroit/cranbrook)
+[Cranbrook](/world/northamerica/unitedstates/michigan/detroit/cranbrook)

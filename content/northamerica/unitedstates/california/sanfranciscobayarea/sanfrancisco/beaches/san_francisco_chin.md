@@ -22,5 +22,3 @@ China Beach is a few blocks walk from the Muni bus #1 and #29 lines and is just 
 
 
 url: [www.zurdogo.com](http://www.zurdogo.com/attractions/beaches.html)
-
-[back to Beaches](..)

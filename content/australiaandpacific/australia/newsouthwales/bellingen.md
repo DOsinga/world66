@@ -1,0 +1,4 @@
+---
+title: "Bellingen"
+type: location
+---

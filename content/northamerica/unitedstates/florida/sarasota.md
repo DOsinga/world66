@@ -1,0 +1,4 @@
+---
+title: "Sarasota"
+type: location
+---

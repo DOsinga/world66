@@ -1,8 +1,6 @@
 ---
 title: "Switzerland"
 type: location
-latitude: 46.798562
-longitude: 8.231974
 ---
 
 Located in central Europe, Switzerland is bordered by [France](/europe/france) , [Germany](/europe/germany) , [Austria](/europe/austria) , [Liechtenstein](/europe/liechtenstein) , [Italy](/europe/italy) , and [France](/europe/france) . A small country, Switzerland's very name conjures up images of chocolates, cheese, watches, bankers, and snow-capped mountains. 
@@ -18,29 +16,3 @@ On the banks of the River Rhône is [Geneva](/europe/switzerland/geneva) , a cit
 The three different parts (French speaking, German speaking and Italian speaking) of the country all have a very distinct atmosphere which makes it an adventure to explore. Switzerland is nature's playground and offers numerous opportunities for outdoor activities. The Alps and the Jura slopes are great places for skiing. Hiking, mountaineering and ski mountaineering, paragliding and hang-gliding, water-skiing, sailing, windsurfing, rafting, and canoeing are some of the outdoor activities that you can undertake in Switzerland. 
 
 Since Switzerland is in the middle of the Alps outdoor opportunities like hiking or skiing are better than anywhere else. Only one drawback: it's not the cheapest of places to stay.
-
-## Destinations
-
-- [Basel](/europe/switzerland/basel)
-- [Bern](/europe/switzerland/bern)
-- [Champery](/europe/switzerland/champery)
-- [Davos](/europe/switzerland/davos)
-- [Fribourg](/europe/switzerland/fribourg)
-- [Geneva](/europe/switzerland/geneva)
-- [Grindelwald](/europe/switzerland/grindelwald)
-- [Interlaken](/europe/switzerland/interlaken)
-- [Klosters](/europe/switzerland/klosters)
-- [Laax](/europe/switzerland/laax)
-- [Lausanne](/europe/switzerland/lausanne)
-- [Les Crosets](/europe/switzerland/lescrosets)
-- [Locarno](/europe/switzerland/locarno)
-- [Lugano](/europe/switzerland/lugano)
-- [Montreux](/europe/switzerland/montreux)
-- [Morgins](/europe/switzerland/morgins)
-- [St. Moritz](/europe/switzerland/stmoritz)
-- [Tessin](/europe/switzerland/tessin)
-- [Thun](/europe/switzerland/thun)
-- [Verbier](/europe/switzerland/verbier)
-- [Winterthur](/europe/switzerland/winterthur)
-- [Zermatt](/europe/switzerland/zermatt)
-- [Zurich](/europe/switzerland/zurich)

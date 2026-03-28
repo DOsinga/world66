@@ -6,8 +6,6 @@ address: "Nyali International Beach Hotel"
 date: "8th April 2012"
 email: "info@blanketsandwine.com"
 url: "blanketsandwine.com"
-latitude: -4.04964
-longitude: 39.706223
 ---
 
 Our 2nd April event is an Easter special! Join us in Nyali at the Coast for an epic weekend.
@@ -57,5 +55,3 @@ date: 8th April 2012
 address: Nyali International Beach Hotel
 
 email: info@blanketsandwine.com
-
-[back to Festivals](..)

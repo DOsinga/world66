@@ -22,5 +22,3 @@ tel: 1-800-747-0567
 email: reservations@latintrails.com
 
 url: [www.amazoncruise.net](http://www.amazoncruise.net/amazon cruise ecuador.htm)
-
--->

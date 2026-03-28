@@ -7,8 +7,6 @@ phone: "01 (222) 403 63 09"
 price: "5-30 US"
 type: "European"
 url: "www.hackl.com.mx"
-latitude: -33.019259
-longitude: -71.541545
 ---
 
 The new Bouchon Restaurant de Hackl panaderos artesanos offers a beautiful mediterrean cucine in a casual but fine dining ambiente. Located in the City center near de Plazuela de los Sapos antique market. its a nice place to stop by for delicisous breakfast with autentic european sourdough bread and pastries, or a lunch with a very nice bottle of wine.
@@ -31,19 +29,10 @@ PriceOfMenu: 5-30 US
 
 email:
 
-[back to Eating Out](..)
-
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

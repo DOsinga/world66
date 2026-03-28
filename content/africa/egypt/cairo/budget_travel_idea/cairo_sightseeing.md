@@ -5,8 +5,6 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
-latitude: 29.850964
-longitude: 31.220947
 ---
 
 Explore the main highlights of Cairo, the modern capital of an ancient land-Memphis and Sakkara, the Great Pyramids and Sphinx, the Egyptian Museum, Coptic Cairo, and the Citadel, Hanging Church..join
@@ -50,5 +48,3 @@ url: [www.egypttips.com](http://www.egypttips.com)
 address: Haram,Giza
 
 email: egypttourguide@yahoo.com
-
-[back to Budget Travel Ideas](..)

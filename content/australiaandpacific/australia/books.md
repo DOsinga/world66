@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**all**
 
 **Throwim Way Leg:Tree-Kangaroos, Possums, and Penis Gourds -- On the Track of Unknown Mammals in Wildest New Guinea**
 
@@ -43,8 +43,6 @@ subject: culture
 
 **Mutant Message Down Under**
 
-
-
 [](http://www.amazon.com/exec/obidos/tg/detail/-/0060926317/ref=ase_osingacom?v=glance&s=books)
 
 author: Marlo Morgan,Carri Garrison (Illustrator)
@@ -52,3 +50,15 @@ author: Marlo Morgan,Carri Garrison (Illustrator)
 isbn: 0060926317
 
 subject: travel
+
+**Down Under - in a sunburned country**
+
+An often quirky travel writer, Bill Bryson has been famous for some time for picking out the funniest bits of travelling. His book on Australia 'Down Under / In a sunburned country' starts with the hilarious but true story of how a nation lost its Prime Minister.
+
+Barely a page goes by wi [more..](/australiaandpacific/australia/books/down_under__in_a)
+
+[](http://www.amazon.com/exec/obidos/tg/detail/-/055299703X /ref=ase_osingacom?v=glance&s=books)
+
+author: Bill Bryson
+
+isbn: 055299703X

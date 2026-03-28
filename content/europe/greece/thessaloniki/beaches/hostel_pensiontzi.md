@@ -24,5 +24,3 @@ url: [www.pension-tzitzifies.gr](http://www.pension-tzitzifies.gr)
 address: Thermaikou 39,Agia Triada,Thessaloniki 57019
 
 email: linaras@otenet.gr
-
-[back to Beaches](..)

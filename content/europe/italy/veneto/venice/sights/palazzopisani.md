@@ -12,8 +12,6 @@ Located between the Bridge of Rialto and the Ca'Foscari's Vault, Palazzo Pisani 
 
 **Contributors**
 May 25, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Palaces
 
@@ -28,5 +26,3 @@ tel: +39 041 5285343
 url: [www.pisanimoretta.com](http://www.pisanimoretta.com)
 
 address: Between Bridge of Rialto and the Ca'Foscari's Vault
-
-[back to Sights](..)

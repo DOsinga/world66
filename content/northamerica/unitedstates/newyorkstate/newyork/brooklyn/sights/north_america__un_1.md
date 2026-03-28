@@ -83,7 +83,3 @@ option of taking the bus. These buses have stops near the park: B41,
 B68, B69, B71 and B75.
 
 type: Parks, Gardens and Zoos
-
-
-
-[back to Sights](..)

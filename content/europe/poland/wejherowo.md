@@ -1,0 +1,4 @@
+---
+title: "Wejherowo"
+type: location
+---

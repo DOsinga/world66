@@ -14,5 +14,3 @@ type: Clubs and dancing
 
 
 url: [www.noxclub.pt](http://www.noxclub.pt/)
-
-[back to Nightlife and Entertainment](..)

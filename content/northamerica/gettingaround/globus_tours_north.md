@@ -9,13 +9,9 @@ Globus Tours has been in the travel business for 80 years, giving guided tours a
 
 **Contributors**
 February 14, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 
 
 tel: 866.755.8581
 
 url: [www.globusjourneys.com](http://www.globusjourneys.com/Vacation-Packages/Tour-North-America/)
-
-[back to Getting Around](..)

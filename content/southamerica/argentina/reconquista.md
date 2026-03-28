@@ -1,8 +1,6 @@
 ---
 title: "Reconquista"
 type: location
-latitude: -29.144348
-longitude: -59.643773
 ---
 
 Reconquista may not be the big tourist city you would jump at the chance of travelling to. No bright lights, casinos, streets of restaurants or theme parks here. But if you're looking to experience part of "small-town Argentina" while not going too small, Reconquista is a good place to check out.
@@ -18,8 +16,3 @@ Pancho Villa attracts an older crowd on Friday and Saturday nights, but gets ver
 There are a few restaurants and bars around the intersection of Obligado and Habegger - near Chicano. It is nice to come here in the evening to have a drink or enjoy some traditional Argentinian food such as empanadas and milanesas.
 
 The stretch of highway between Avellaneda and Reconquista fills with walkers and cyclists in the summertime who make the most of the warm weather to get some exercise. At times the humidity can be very oppressive leaving anyone who dares go for a walk drenched in sweat, but it is a nice walk all the same.
-
-*Change history*
-Orginal article by [JosieT](/member/josiet) on 06 December 04
-
--->

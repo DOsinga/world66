@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 February 29, 2008
-change
-by [europealacarte](/member/europealacarte)
 
 ### [Pitfour Observatory](/europe/unitedkingdom/scotland/aberdeen/day_trips/pitfour_obsservato)
 

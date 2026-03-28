@@ -35,8 +35,6 @@ XXXX: UNRIVALLED
 
 **Contributors**
 August 07, 2007
-new
-by [jamalv](/member/jamalv) (1 point)
 
 type: African
 
@@ -49,5 +47,3 @@ accessibility: main road kampala
 address: opp city sq, next crane bank
 
 PriceOfMenu: as above
-
-[back to Eating Out](..)

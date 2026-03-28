@@ -5,8 +5,6 @@ address: "Scottish Highlands"
 email: "tours@goscotlandtours.com"
 phone: "(+44) (0) 750 466 1828"
 url: "www.goscotlandtours.com"
-latitude: 56.8
-longitude: -5.0
 ---
 
 The vast **Highlands of Scotland** are
@@ -40,5 +38,3 @@ url: [www.goscotlandtours.com](http://www.goscotlandtours.com/scotland-tourism-i
 address: Scottish Highlands
 
 email: tours@goscotlandtours.com
-
-[back to Day Trips](..)

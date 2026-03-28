@@ -10,13 +10,5 @@ The diving club is based on Amédée Lighthouse Island.
 
 **Contributors**
 February 28, 2005
-new
-by [giorgio](/member/giorgio) (1 point)
 
 type: Diving
-
-
-
-
-
-[back to Things to do](..)

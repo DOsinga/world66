@@ -1,0 +1,4 @@
+---
+title: "Whangarei"
+type: location
+---

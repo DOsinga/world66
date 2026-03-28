@@ -84,5 +84,3 @@ walking distance from the center of town.
 
 **Contributors**
 February 11, 2010
-change
-by [ctanios](/member/ctanios)

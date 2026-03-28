@@ -27,5 +27,3 @@ Jews came to the city during the 1st century A.D., and the Judengasse, or Jewish
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)

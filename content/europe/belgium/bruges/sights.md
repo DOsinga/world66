@@ -3,9 +3,9 @@ title: "Sights"
 type: section
 ---
 
-Ain't this naff?
+When you are visiting Bruges you must keep your eyes wide open because there are so many beautiful things to see. Check it out for yourself.!
 
-**Sights**
+**all**
 
 ** Belfort**
 

@@ -13,5 +13,3 @@ The mid-point on the Dempster is something you'll want to research. Although you
 
 **Contributors**
 February 13, 2007
-new
-by [gregonweb](/member/gregonweb) (4 points)

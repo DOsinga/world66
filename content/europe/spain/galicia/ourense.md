@@ -1,8 +1,6 @@
 ---
 title: "Ourense"
 type: location
-latitude: 42.193963
-longitude: -7.537124
 ---
 
 It is possible that the name Ourense has a Celtic origin, since the initial setting was the territory occupied by the thermal waters known As Burgas , even though the town, located on the left margin of the River Miño, has more connection to the Roman Auria.
@@ -20,5 +18,3 @@ Placed between the Plaza Mayor (Main Square) and the Posio gardens, with its hor
 
 **Contributors**
 March 10, 2005
-new
-by [euroadventures](/member/euroadventures)

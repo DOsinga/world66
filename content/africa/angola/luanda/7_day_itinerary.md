@@ -27,11 +27,4 @@ On the 4th day, visit the Cambambe dam, Angola's main hydroelectric dam, which s
 
 On the 5th day, drive to Kissama National Park. This is one of the Angolan governments more progressive ideas to rehabilitate the natural habitat of the Angolan wildlife with animals brought from South Africa as well as Botswana. Going to see elephants, giraffes, wild beest, ostrich, zebra and other animals is among the fabulous sites of this region. If lucky, you are also going to witness an animal on the brink of extinction: the palanca antelope, which is indigenous to this area.
 
-**Driving Back to Luanda **
-
-Luanda is 2 hours journey away from Kissama national Park, and will end up winding the way back through the scenic beauty of the coastline. This way back will offer a glimpse of the beautiful Mussulo Islands, while driving back.
-
-**Contributors**
-February 17, 2010
-change
-by [gabriellet](/member/gabriellet)
+**Driving

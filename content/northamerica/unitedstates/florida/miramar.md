@@ -1,0 +1,4 @@
+---
+title: "Miramar"
+type: location
+---

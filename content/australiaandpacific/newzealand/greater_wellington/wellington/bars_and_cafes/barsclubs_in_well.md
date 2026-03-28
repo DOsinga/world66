@@ -19,9 +19,3 @@ If you like mainstream music, R n' B, hip hop and drunk students, visit Shooters
 
 **Contributors**
 January 02, 2007
-new
-by [lollo](/member/lollo) (2 points)
-
-
-
-[back to Bars and Cafes](..)

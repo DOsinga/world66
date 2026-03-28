@@ -35,5 +35,3 @@ to tour much of city's architecture, such as the Place du Palais, the Place Ross
 
 **Contributors**
 February 26, 2010
-change
-by [2 many commas](/member/2_many_commas)

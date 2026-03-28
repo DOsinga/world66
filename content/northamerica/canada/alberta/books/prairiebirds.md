@@ -18,5 +18,3 @@ author: Chris Fisher
 isbn: 1-55105-051-X
 
 subject: Bird Identification
-
-[back to Books](..)

@@ -1,0 +1,4 @@
+---
+title: "Corumba"
+type: location
+---

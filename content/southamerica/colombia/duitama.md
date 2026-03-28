@@ -1,0 +1,4 @@
+---
+title: "Duitama"
+type: location
+---

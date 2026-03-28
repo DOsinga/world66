@@ -11,13 +11,9 @@ An interesting painting in the cathedral is the one of last supper. It was done 
 
 **Contributors**
 July 18, 2006
-change
-by [yohay elam](/member/yohay_elam) (2 points)
 
 type: Hotspots
 
 
 
 address: Plaze de Armas
-
-[back to Sights](..)

@@ -28,5 +28,3 @@ cruise directly to Argeles sur Mer, try a cruise to Barcelona or Marseilles, bot
 
 **Contributors**
 March 25, 2010
-new
-by [amymc](/member/amymc)

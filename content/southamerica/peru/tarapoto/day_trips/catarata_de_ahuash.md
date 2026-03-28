@@ -9,11 +9,3 @@ A trail leads to a ledge at the back of the waterfall, so visitors can actually 
 
 **Contributors**
 December 08, 2006
-new
-by [approaching genius](/member/approaching_genius) (2 points)
-
-
-
-
-
-[back to Day Trips](..)

@@ -9,12 +9,8 @@ Here are a few festivals held in Berlin.
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (2 points)
 
 June 28, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [Deutsch-Französisches Volksfest](/europe/germany/berlin/festivals/deutschfranzsis)
 
@@ -72,17 +68,10 @@ date: every June 21st
 - [Prenzlauer Berg](/europe/germany/berlin/prenzlauerberg)
 - [Friedrichshain](/europe/germany/berlin/friedrichshain)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

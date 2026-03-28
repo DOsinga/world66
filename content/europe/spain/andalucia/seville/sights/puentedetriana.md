@@ -14,5 +14,3 @@ type: Architecture
 
 
 address: River Guadalvir, nearby Torro del Oro
-
-[back to Sights](..)

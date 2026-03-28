@@ -1,9 +1,9 @@
 ---
-title: "Hanoi Apple Hotel - Where to enjoy a difference Travel Guide"
+title: "Hanoi Apple Hotel - Where to enjoy a difference"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Hanoi Apple Hotel is the brand new hotel which has been operated in 2012, located in the heart of Hanoi's old quarter. Opened in March 2012 included contains 22 beautiful and spacious rooms with window and city view. Our guestrooms are steeped in modern comfort, window with surroundings. steps aways from Hoan Kiem Lake and all other major sights of the city, this romatic boutique hotel is perfect for leisure and business guests.
 
@@ -20,7 +20,3 @@ Tel: 84 4 9290887 Fax: 84 4 39290894
 Email: info@hanoiapplehotel.com
 
 www.hanoiapplehotel.com
-
-Page last generated on Sat 11:01
-
--->

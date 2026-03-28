@@ -1,0 +1,4 @@
+---
+title: "Ashington"
+type: location
+---

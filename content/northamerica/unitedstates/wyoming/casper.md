@@ -1,0 +1,4 @@
+---
+title: "Casper"
+type: location
+---

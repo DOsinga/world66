@@ -15,6 +15,3 @@ We will enjoy the spectacular view from the top of a Celtic Hill-fort while havi
 Before ending our day we will visit the two bordering cities, 1st of all Tui, which posses a well resorted historic quarter and a Fortified Cathedral also visited by many Pilgrimage on their way to Santiago coming from Portugal. Then crossing over the Miño into Portugal visit the fort of Valença do Minho.
 
 A day packed full of contrast and different flavors!
-
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 14 April 05

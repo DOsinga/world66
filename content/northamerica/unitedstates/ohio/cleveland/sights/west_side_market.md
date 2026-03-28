@@ -12,8 +12,6 @@ This is one of the must-see attractions in Cleveland. While the museums, restaur
 
 **Contributors**
 April 06, 2006
-new
-by [vulpster03](/member/vulpster03) (4 points)
 
 type: Public Buildings
 
@@ -28,5 +26,3 @@ openingHours: Mon, Wed: 7AM-4PM; Fri, Sat: 7AM-6PM
 url: [www.westsidemarket.com](http://www.westsidemarket.com/)
 
 address: 1979 West 25th St.
-
-[back to Sights](..)

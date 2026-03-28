@@ -25,10 +25,4 @@ This is the spot where five colonists were killed by British soldiers in 1770. T
 
 **Old Corner Bookstore**
 
-In the former days, this used to be the literary centre of Boston. All great namens gathered at this spot or at least legends such as Emerson, Hawthorne and Thoreau. 
-
-## Subsections
-
-[Museums](/northamerica/unitedstates/massachusetts/boston/sights/museums)
-
-[Parks](/northamerica/unitedstates/massachusetts/boston/sights/parks)
+In the former days, this used to be the literary centre of Boston. All great namens gathered at this spot or at least legends such as Emerson, Hawthorne and Thoreau.

@@ -5,9 +5,6 @@ type: section
 
 Although this area encompasses some of the finest ranges on the Scottish mainland, it would be a sad mistake to believe there is nothing here for those with vertigo. There are delightful walks of all standards for those able to go uphill at all.
 
-*Change history*
-Orginal article by [davidx](/member/davidx) on 05 November 04
-
 **all**
 
 **Some easier walks**
@@ -29,5 +26,3 @@ As you go from Torridon [Fasaig] village towards Kinlochewe by car, postbus or f
 **An Teallach**
 
 This is an impressive and beautiful ridge walk, with excellent chances of seeing golden eagles, deer or ptarmigan - but not one for anybody who is unfit and/or without a good head for heights. Start at Dundonell, where you can note the pub. You will deserve a drink there when you return! Take the track to Coire Toll an Lochain [this is one of the best corries on the mainland and **the walk this far is suitable for anyone who is fit. ** [more..](/europe/unitedkingdom/scotland/torridonian_highla/things_to_do/an_teallach)
-
--->

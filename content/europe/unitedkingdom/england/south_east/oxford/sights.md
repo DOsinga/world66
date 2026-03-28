@@ -13,5 +13,3 @@ Most sights are in some way connected to the various colleges. The Christ Church
 [Historical Buildings & Bridges](/europe/unitedkingdom/england/south_east/oxford/sights?subsection=Historical%20Buildings%20%26%20Bridges)
 
 [Cathedral & Churches](/europe/unitedkingdom/england/south_east/oxford/sights?subsection=Cathedral%20%26%20Churches)
-
--->

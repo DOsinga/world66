@@ -11,9 +11,3 @@ Getting out of the bus is also something you'll have to plan many times. The bus
 
 **Contributors**
 February 28, 2005
-new
-by [almafuerte](/member/almafuerte) (1 point)
-
-
-
-[back to Getting Around](..)

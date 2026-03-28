@@ -11,9 +11,5 @@ Events in the downtown core ( http://www.downtowncalgary.com) are listed at the 
 
 **Contributors**
 June 13, 2006
-change
-by [the rev](/member/the_rev) (2 points)
 
 May 29, 2006
-change
-by [giorgio](/member/giorgio)

@@ -1,12 +1,8 @@
 ---
-title: "Dinguiraye Travel Guide"
+title: "Dinguiraye"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 One of the regions in Guinea-Conakry
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Thu 04:05

@@ -26,5 +26,3 @@ tel: 000000000000000
 email: kareyade2002@yahoo.com
 
 address: nw3/73 ladapo street oke padre ibadan
-
-[back to Getting There](..)

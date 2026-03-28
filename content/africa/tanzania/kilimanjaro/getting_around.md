@@ -25,5 +25,3 @@ http://www.kilitraveladventurestz.com
 
 **Contributors**
 May 09, 2010
-new
-by [kilimanjaroexperts](/member/kilimanjaroexperts)

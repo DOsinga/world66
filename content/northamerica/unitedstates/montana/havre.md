@@ -1,0 +1,4 @@
+---
+title: "Havre"
+type: location
+---

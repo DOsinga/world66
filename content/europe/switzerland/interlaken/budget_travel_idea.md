@@ -27,5 +27,3 @@ Eating out is going to end up costing you the most money, especially if you are 
 
 **Contributors**
 March 12, 2010
-new
-by [shomer](/member/shomer)

@@ -8,8 +8,6 @@ opening_hours: "every day in spring, summer and autmn"
 phone: "+386 5 3896 444"
 type: "Castles"
 url: "www.bovec.si"
-latitude: 46.338585
-longitude: 13.552419
 ---
 
 KLUŽE FORT (Bovec* area*)
@@ -18,8 +16,6 @@ This exceptional fort, named Kluže, has guarded the passage between the sea and
 
 **Contributors**
 August 07, 2009
-change
-by [zabrajda](/member/zabrajda)
 
 type: Castles
 
@@ -36,5 +32,3 @@ url: [www.bovec.si](http://www.bovec.si)
 address: Bovec, Slovenia
 
 email: info@bovec.si
-
-[back to Sights](..)

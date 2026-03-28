@@ -22,5 +22,3 @@ url: [www.bojobeach.com](http://www.bojobeach.com)
 address: Box 402 WJ, Weija, Accra, Ghana
 
 email: bojo_beach@yahoo.com
-
-[back to Beaches](..)

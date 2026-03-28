@@ -14,5 +14,3 @@ type: general
 
 
 address: Calle 5 no 15-11
-
-[back to Eating Out](..)

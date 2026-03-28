@@ -90,5 +90,3 @@ Located in Athlone town centre adjacent to Conlon's Pub. Open Mon - Sat from 5 p
 address: Dublingate Street,Athlone
 
 tel: 0902 79929
-
--->

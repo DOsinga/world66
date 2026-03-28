@@ -12,5 +12,3 @@ type: Convention Center
 
 
 url: [www.palais-congres-paris.fr](http://www.palais-congres-paris.fr/)
-
-[back to Practical Information](..)

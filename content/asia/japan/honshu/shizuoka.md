@@ -1,0 +1,4 @@
+---
+title: "Shizuoka"
+type: location
+---

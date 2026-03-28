@@ -9,7 +9,5 @@ The Rally in 2006 took off from Lisbon, Portugal, and went through Errachidia. O
 
 **Contributors**
 January 12, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Cycling

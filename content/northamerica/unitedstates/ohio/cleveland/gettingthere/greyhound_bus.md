@@ -14,5 +14,3 @@ type: By Road
 
 
 address: 1872 TURNER BLVD
-
-[back to Getting There](..)

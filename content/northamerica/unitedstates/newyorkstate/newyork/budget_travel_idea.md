@@ -58,5 +58,3 @@ train ride away from Times Square, Rockefeller Center, Port Authority
 
 **Contributors**
 July 21, 2009
-change
-by [damiandavilarojas](/member/damiandavilarojas)

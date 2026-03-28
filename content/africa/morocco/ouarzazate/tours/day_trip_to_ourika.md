@@ -26,18 +26,6 @@ The Lady- the owner of the house- makes a tea ceremony to show us how to make mi
 
 After the camel raid we drive until the end of the road, we leave the van and go hiking for two hours to see some water falls (cascades)
 
-We come back to the van , we drive half a way and stop for lunch in a nice restaurant having a beautiful views on the valley. Lunch is composed of a variety of Moroccan Food.
-
-By 5:00Pm we drive back to Marrakesh.
-
-
-
-tel: 00212 67 53 5 08
-
-url: [www.moroccanviews.com](http://www.moroccanviews.com)
-
-address: 48 Deb Sidi Med El Haj- Bab Doukala
+We come address: 48 Deb Sidi Med El Haj- Bab Doukala
 
 email: contact@moroccanviews.com
-
-[back to Day Trips](..)

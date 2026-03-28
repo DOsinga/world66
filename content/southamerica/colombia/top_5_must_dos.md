@@ -65,9 +65,5 @@ starts, making it a refreshing and exciting experience.
 
 **Contributors**
 February 01, 2010
-change
-by [cferry1990](/member/cferry1990)
 
 February 09, 2010
-change
-by [schitti](/member/schitti)

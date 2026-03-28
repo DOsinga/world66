@@ -1,0 +1,4 @@
+---
+title: "Eskisehir"
+type: location
+---

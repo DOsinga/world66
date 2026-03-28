@@ -20,5 +20,3 @@ email: jones4679@bellsouth.net
 address: 3015 Vanderbilt Dr. #52 Huntsville Al 35801
 
 tel: 256-533-5067
-
-[back to Highlights](..)

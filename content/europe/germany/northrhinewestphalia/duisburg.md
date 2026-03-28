@@ -1,0 +1,4 @@
+---
+title: "Duisburg"
+type: location
+---

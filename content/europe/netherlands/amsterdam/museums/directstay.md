@@ -16,7 +16,3 @@ The museum shows that hemp has evolved to reclaim its place as one of the Man’
 Cannabis plants in their different stages of development can be admired in the indoor hydroponic garden. Our souvenir shop offers a wide variety of hemp-based articles for visitors to remember their visit to the museum.
 
 Because cannabis is considered controversial in many parts of the world the Hash Marihuana & Hemp Museum aims to provide an objective picture of this remarkable plant. At the museum, visitors will be able to gain a deeper insight into this controversy, as a visit will bring a wealth of information not always available in the mainstream media. In the Hash Marihuana & Hemp Museum, the past, present and future of the cannabis plant are merging together.
-
-
-
-[back to Museums](..)

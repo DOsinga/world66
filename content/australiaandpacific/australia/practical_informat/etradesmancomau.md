@@ -14,5 +14,3 @@ type: Permits and registration
 
 
 url: [www.etradesman.com.au](http://www.etradesman.com.au)
-
-[back to Practical Information](..)

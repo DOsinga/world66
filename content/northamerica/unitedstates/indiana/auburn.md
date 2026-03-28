@@ -1,0 +1,4 @@
+---
+title: "Auburn"
+type: location
+---

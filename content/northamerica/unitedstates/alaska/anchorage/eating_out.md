@@ -80,5 +80,3 @@ priceofmenu: $20+
 zipcode: (907) 274-3502
 
 url: [www.r-u-i.com](http://www.r-u-i.com/sim/)
-
--->

@@ -9,8 +9,6 @@ Apart from the most famous gate at the Medina, the Bab Er Rih ("Gate of the wind
 
 **Contributors**
 October 01, 2006
-new
-by [bernhadette](/member/bernhadette) (2 points)
 
 type: Hotspots
 
@@ -19,5 +17,3 @@ type: Hotspots
 
 
 address: Taza-Haut, Medina
-
-[back to Sights](..)

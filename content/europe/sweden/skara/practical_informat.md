@@ -4,16 +4,12 @@ type: section
 address: "Skolgatan 1"
 phone: "+46 511 32580"
 type: "Tourist information"
-latitude: 57.699334
-longitude: 11.957991
 ---
 
 Some miscellaneous info
 
 **Contributors**
 June 08, 2006
-new
-by [ewolf](/member/ewolf) (2 points)
 
 ### [Turistbyrån](/europe/sweden/skara/practical_informat/turistbyrn)
 

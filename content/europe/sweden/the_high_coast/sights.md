@@ -10,8 +10,6 @@ The big river Ångermanälven has its outlet in the area. A huge and very beauti
 
 **Contributors**
 August 07, 2005
-new
-by [ingvar](/member/ingvar)
 
 ### Skuleskogen Nat. Park
 

@@ -5,8 +5,6 @@ address: "Carrickhill"
 email: "webma@portmarnockwaves.com"
 phone: "00499277468"
 url: "www.portmarnockwaves.com"
-latitude: 53.431347
-longitude: -6.131639
 ---
 
 Thevillage of Portmarnock is without a port yet! However, does have a station, that in the1850's at a leisurely 40.m.p.h. brought thousands to the beach, connecting station and strand by horse drawn cariage. These days the old pleasure train has become the "sardine-line" to "Banklin"!
@@ -23,8 +21,6 @@ A sculpture remembering the historic flight is to be seen on Portmarnock Beachfr
 
 **Contributors**
 June 26, 2006
-change
-by [giorgio](/member/giorgio)
 
 
 
@@ -37,5 +33,3 @@ url: [www.portmarnockwaves.com](http://www.portmarnockwaves.com)
 address: Carrickhill
 
 email: webma@portmarnockwaves.com
-
-[back to Day Trips](..)

@@ -1,8 +1,6 @@
 ---
 title: "Grand Café"
 type: poi
-latitude: 52.363893
-longitude: 4.883124
 ---
 
 **Recommendations**
@@ -11,8 +9,7 @@ longitude: 4.883124
 
 This café was originally opened in 1898 (the year Queen Wilhelmina ascended the Dutch throne, hence the name 'The Crown'). Back in the 1930s, Café De Kroon was the location of a group of artists weekly meetings on Monday mornings. 
 
-
- With this historical perspective in mind, Café De Kroon [more..](/europe/netherlands/amsterdam/nightlife/grandcaf/cafdekroon)
+ With this historical perspective in mind, Café De Kroon [more..](/europe/netherlands/amsterdam/nightlife/grandcaf/cafdekroon)
 
 address: Rembrandtplein 171
 

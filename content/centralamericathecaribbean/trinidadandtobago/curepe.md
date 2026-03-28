@@ -1,0 +1,4 @@
+---
+title: "Curepe"
+type: location
+---

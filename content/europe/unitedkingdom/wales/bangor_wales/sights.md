@@ -14,8 +14,6 @@ http://www.nationaltrust.org.uk/main/w-penrhyncastle
 
 **Contributors**
 June 12, 2009
-new
-by [davidx](/member/davidx)
 
 ### [The Spinnies](/europe/unitedkingdom/wales/bangor_wales/sights/the_spinnies)
 

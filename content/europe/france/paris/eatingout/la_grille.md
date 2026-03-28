@@ -30,5 +30,3 @@ url: [lagrille.abemadi.com](http://lagrille.abemadi.com)
 address: 80 , rue du faubourg Poissoniere
 
 PriceOfMenu: 40 euros
-
-[back to Eating Out](..)

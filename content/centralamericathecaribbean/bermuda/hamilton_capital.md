@@ -15,5 +15,3 @@ There are a couple of small parks, including Albuoy's Point.
 
 **Contributors**
 September 08, 2005
-change
-by [alexis233](/member/alexis233)

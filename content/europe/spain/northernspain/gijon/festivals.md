@@ -11,5 +11,3 @@ A festival where you can meet your favourite detective stories writers, go to co
 
 **Contributors**
 June 14, 2006
-new
-by [nielran](/member/nielran)

@@ -10,8 +10,6 @@ If you are intereted to learn a bit more about everyday-life in modern Morocco, 
 
 **Contributors**
 October 08, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)
 
 ### [Bab Er Rih](/africa/morocco/taza/sights/bab_er_rih)
 

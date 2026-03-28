@@ -23,9 +23,5 @@ Montpellier has several sites to see and things to do that don't cost anything. 
 
 **Contributors**
 February 02, 2010
-change
-by [schitti](/member/schitti)
 
 January 29, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)

@@ -7,20 +7,11 @@ The biggest tourist attraction in Santa Rosa de Cabal is the hot springs, locate
 
 **Contributors**
 February 17, 2007
-new
-by [vagamundo](/member/vagamundo) (2 points)
 
-- partner sites:
-
-- [Wikitravel Press](http://wikitravelpress.com/)
+- - |
 - |
-- [Adventure Travel](http://www.gapadventures.com)
 - |
-- [Cheap Airline Tickets](http://travel.yahoo.com)
 - |
-- [Cruises](http://www.cruise.com)
-- |
-- [Virtual Tours](http://www.3cim.com)
 
 [](http://creativecommons.org/licenses/by-sa/1.0/)
 

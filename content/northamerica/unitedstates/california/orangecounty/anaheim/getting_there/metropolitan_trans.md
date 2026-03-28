@@ -15,13 +15,9 @@ While it may seem like a long journey, renting a car at LAX and then driving to 
 
 **Contributors**
 May 04, 2008
-change
-by [the rev](/member/the_rev) (1 point)
 
 type: By Road
 
 
 
 url: [www.metro.net](http://www.metro.net)
-
-[back to Getting There](..)

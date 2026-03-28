@@ -12,5 +12,3 @@ type: general
 
 
 address: Spittelberggasse 12, 7. Bezirk
-
-[back to Eating Out](..)

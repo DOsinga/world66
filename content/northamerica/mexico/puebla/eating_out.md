@@ -7,8 +7,6 @@ phone: "01 (222) 403 63 09"
 price: "5-30 US"
 type: "European"
 url: "www.hackl.com.mx"
-latitude: -33.019259
-longitude: -71.541545
 ---
 
 Puebla cuisine is very famous worldwide and there are some options to taste it.
@@ -21,8 +19,6 @@ The city also has many international cuisine restaurants, being the best La conj
 
 **Contributors**
 May 11, 2005
-new
-by [iamuch](/member/iamuch)
 
 ### [Bouchon de Hackl panaderos artesanos Restaurant and Bakery](/northamerica/mexico/puebla/eating_out/bouchon_de_hackl_p)
 

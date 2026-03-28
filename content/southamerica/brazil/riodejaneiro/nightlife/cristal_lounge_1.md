@@ -11,8 +11,6 @@ I was staying at a hostel in Ipanaema with some other girls when on a Saturday n
 
 **Contributors**
 August 02, 2007
-new
-by [deenosey](/member/deenosey) (1 point)
 
 type: Clubs and dancing
 
@@ -25,5 +23,3 @@ tel: 2247-8220/ 8267-4929
 address: Rua Barao de Torre
 
 email: www.cristallounge.com.br
-
-[back to Nightlife and Entertainment](..)

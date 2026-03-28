@@ -14,5 +14,3 @@ Idyllic wine village with historic city wall en nice half-timbered houses shows 
  Marktplatz, 97285 Röttingen
 
  Tel. +49 9338 - 97 28 55 or 97 28 56
-
--->

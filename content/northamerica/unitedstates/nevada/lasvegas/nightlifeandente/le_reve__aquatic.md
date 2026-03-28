@@ -1,6 +1,6 @@
 ---
 title: "Le Reve - Aquatic Spectacular Las Vegas"
-type: location
+type: poi
 address: "Wynn Las Vegas"
 type: "Concerts"
 url: "www.res99.com"
@@ -17,5 +17,3 @@ type: Concerts
 url: [www.res99.com](http://www.res99.com/nexres/activities/detail.cgi?src=10006005&city=Las%20Vegas&actType=shows&supplier_id=50130)
 
 address: Wynn Las Vegas
-
-[back to Nightlife and Entertainment](..)

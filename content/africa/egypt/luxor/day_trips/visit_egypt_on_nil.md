@@ -22,7 +22,7 @@ MicrosoftInternetExplorer4
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Departure**: 21, Dec,2011
 
@@ -49,7 +49,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Whatever your holiday choice, Maestro Online
 travel can find the perfect Egypt travel package over Christmas or New Year
@@ -104,5 +104,3 @@ url: [www.egyptonlinetours.com](http://www.egyptonlinetours.com/Egypt-Travel-Pac
 address: Hurghdad, Egypt
 
 email: amany@egyptonlinetours.com
-
-[back to Day Trips](..)

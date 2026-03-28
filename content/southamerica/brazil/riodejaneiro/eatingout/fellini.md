@@ -16,12 +16,8 @@ For those who lives or visits the Zona Sul of Rio, Fellini is the best option in
 
 **Contributors**
 September 11, 2007
-new
-by [matthewmelaney](/member/matthewmelaney) (1 point)
 
 February 07, 2008
-change
-by [logan.shetline](/member/logan.shetline)
 
 type: International
 
@@ -36,5 +32,3 @@ url: [www.fellini.com.br](http://www.fellini.com.br)
 address: Rua General Urquiza 104, Leblon
 
 PriceOfMenu: about R$15-R$25
-
-[back to Eating Out](..)

@@ -23,5 +23,3 @@ url: [www.aubergesahara.com](http://www.aubergesahara.com)
 address: Ksar hassi labiad.Merzouga 52202
 
 email: info@aubergesahara.com
-
-[back to Things to do](..)

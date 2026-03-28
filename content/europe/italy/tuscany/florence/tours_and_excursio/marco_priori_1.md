@@ -12,5 +12,3 @@ address: Pisa, Italy
 tel: +39 3474646746 +39 3478298970
 
 url: [www.guidefirenze.com](http://www.guidefirenze.com)
-
--->

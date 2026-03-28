@@ -64,5 +64,3 @@ First Movie Made
 http://pirubvuz.info/ja.html
 Whitside German Shepherds
 http://vbrjpjnj.info/1er.html
-
-*Part or or all of this text stems from the original article at: Esperanza York*

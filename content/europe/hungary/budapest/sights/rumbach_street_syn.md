@@ -15,5 +15,3 @@ type: Synagogues
 url: [en.wikipedia.org](http://en.wikipedia.org/wiki/Rumbach_Street_synagogue)
 
 address: Sebestyen Rumbach Street 11-13
-
-[back to Sights](..)

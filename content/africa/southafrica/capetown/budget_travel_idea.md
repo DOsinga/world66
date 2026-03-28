@@ -37,5 +37,3 @@ Visit this aquarium to come face-to-face with all kinds of marine life, includin
 
 **Contributors**
 March 21, 2010
-new
-by [joekabuya](/member/joekabuya)

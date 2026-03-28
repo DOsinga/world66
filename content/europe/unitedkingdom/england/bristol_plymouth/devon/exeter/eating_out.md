@@ -5,8 +5,6 @@ type: section
 
 **Contributors**
 July 29, 2005
-new
-by [natbat](/member/natbat)
 
 We currently have no Eating Out listed in Exeter.
 

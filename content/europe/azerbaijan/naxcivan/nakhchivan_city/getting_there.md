@@ -21,5 +21,3 @@ and trolley-buses.
 
 **Contributors**
 April 16, 2006
-new
-by [azerbaijan08](/member/azerbaijan08)

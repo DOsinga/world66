@@ -39,13 +39,8 @@ This tour allows you to experience both the beautiful scenery and culture of Pan
 
 There are numerous activities in Pangani to keep you busy. Sports fishing, swimming, cycling, and snorkeling with the sea turtles, are some of activities that are also available. They can either be done separately or combined to make your tour more enjoyable. Also, social evening tours can be arranged according to your interests. Dolphins at Maziwe Island, Beaches and Game Reserves, Hippo pools and green turtles at Madete shall be added to your tours schedule on request
 
-*Change history*
-Orginal article by [yonamaro](/member/yonamaro) on 19 December 04
-
 ORIENTATION:**
 
 Pangani is situated about 50km south of Tanga, at the extreme North-Eastern corner of Tanzania. Several historical sites serve as reminders for the strong Arabic influence and the later German, British colonial period in East Africa. "
 dc:creator="World66"
 dc:date="" />
-
--->

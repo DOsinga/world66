@@ -31,5 +31,3 @@ url: www.indiafloristnetwork.com
 address: lakeroad
 
 email: supriya.rakhi@hotmail.co.in
-
-[back to Shopping](..)

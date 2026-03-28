@@ -3,7 +3,7 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Books**
 
 **Description of British Guiana:Geographical and Statistical Exhibiting Its Resources and Capabilities**
 

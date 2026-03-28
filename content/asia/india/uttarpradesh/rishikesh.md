@@ -1,0 +1,4 @@
+---
+title: "Rishikesh"
+type: location
+---

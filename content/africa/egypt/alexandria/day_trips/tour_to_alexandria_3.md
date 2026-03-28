@@ -20,7 +20,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 **Tour Type**: Private **Alexandria** tour
 
@@ -47,7 +47,7 @@ AR-SA
 
 /* Style Definitions */
 table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Albaraa Travel
 Egypt REP will pick you up by deluxe A/C Van for Alexandria tour , cutting
@@ -64,38 +64,6 @@ gates of the great Montazzah Palace, home to King Farouk.Lunch will be served
 at local restaurant in Alexandria.Before to end your trip will visit the
 Catacomb of Komel-Shokafa. These tombs represent the last existing major
 construction for the sake of the old Egyptian religion. Finally you will be
-escorted by your guide back to your hotel in Cairo.
-
-**For More
-Information about this trip please follow this link:****http://www.albaraagroup.com/Egypt/Excursions/Caire-Sightseeing/Tour-to-ancient-Alexandria/
-
-**
-
-**For More Offers
-in Egypt Just Visit Us On:**
-
-**http://www.albaraagroup.com/**
-
-**Or Contact Us:-**
-
-***Magdy
-Abdel Ghany***
-
-*Cell
-Phone : 002 0162922290*
-
-*Email : *magdy@egypttravelhotdeals.com**
-
-
-
-
-
-tel: 0162922290
-
-url: [www.albaraagroup.com](http://www.albaraagroup.com/Egypt/Excursions/Caire-Sightseeing/Tour-to-ancient-Alexandria/)
-
-address: Hurghdad, Egypt
+escorted by your guide address: Hurghdad, Egypt
 
 email: magdy@egypttravelhotdeals.com
-
-[back to Day Trips](..)

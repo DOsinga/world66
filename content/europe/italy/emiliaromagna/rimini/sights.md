@@ -56,9 +56,5 @@ the ancient time this was used to enter into Rimini.
 
 **Contributors**
 January 29, 2010
-change
-by [schitti](/member/schitti)
 
 January 24, 2010
-new
-by [kwalker](/member/kwalker)

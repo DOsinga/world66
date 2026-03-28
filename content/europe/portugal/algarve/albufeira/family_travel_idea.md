@@ -27,9 +27,5 @@ Albufeira is complete with its own swimming pools that are open to the public. T
 
 **Contributors**
 January 17, 2010
-new
-by [ladyhawk1218](/member/ladyhawk1218)
 
 January 26, 2010
-change
-by [schitti](/member/schitti)

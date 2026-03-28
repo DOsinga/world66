@@ -1,8 +1,6 @@
 ---
 title: "Taxi"
 type: poi
-latitude: 47.501776
-longitude: 19.072128
 ---
 
 Taxi fares are of course much higher than the BKV public transport
@@ -28,5 +26,3 @@ Est Taxi:
 
 **Contributors**
 July 12, 2005
-new
-by [giorgio](/member/giorgio)

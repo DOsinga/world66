@@ -1,8 +1,6 @@
 ---
 title: "Atacama desert"
 type: location
-latitude: -24.556303
-longitude: -69.422648
 ---
 
 In the far North of Chile, the Atacama desert covers an area of about a fifth of the country. It is about 600 miles long but less than 100 miles wide. Among its many spectacular geological regions are the Valley of the Moon and the Salar de Atacama (a dried lake bed). 

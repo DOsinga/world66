@@ -1,0 +1,4 @@
+---
+title: "Arbon"
+type: location
+---

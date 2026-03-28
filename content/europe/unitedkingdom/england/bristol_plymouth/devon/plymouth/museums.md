@@ -4,8 +4,6 @@ type: section
 address: "Drake Circus"
 phone: "01752 304774"
 type: "general"
-latitude: 50.372154
-longitude: -4.138122
 ---
 
 ### [City Museum](/europe/unitedkingdom/england/bristol_plymouth/devon/plymouth/museums/citymuseum)

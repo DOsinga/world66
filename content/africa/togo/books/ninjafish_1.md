@@ -17,5 +17,3 @@ type: general
 isbn: yo mama
 
 author: anti-n00b
-
-[back to Books](..)

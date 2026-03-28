@@ -14,5 +14,3 @@ type: general
 
 
 address: Am Pferdemarkt 1a (next to "Blaues Blut")
-
-[back to Bars and Cafes](..)

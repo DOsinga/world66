@@ -27,3 +27,20 @@ When visiting the city be aware of the climate. Bahawalpur is located in a deser
 **
 
 The city has a developed economy, as it is located on the way of a major trade route. Bahawalpur is most famous with its cotton manufacture. Except, cotton fabrics, cotton oil and cotton cake are produced as well. Different local industries manufacture items like soap, silk, carpets and embroidery, too. A serious number of the local residents are engaged in agriculture and trade. Bahawalpur is an important marketing center for wheat, millet and rice and although located near the desert, the city has the most fertile lands in the region.
+
+**ITLINKS (IT Solutions Provider)**
+
+Our Services:
+
+Software development
+Website Design & re-design
+web development
+application development
+Project consultancy
+IT Awarenwss courses
+
+*** Computer Professional/ Short Courses
+* English Language Courses.------------------------------------------------------------**
+
+Contact: ITLINKs
+Commercial area, Bahawalpur. Call: 0622053660

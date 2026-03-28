@@ -23,5 +23,3 @@ url: [www.moroccotraveltours.com](http://www.moroccotraveltours.com )
 address: 80 Lotissement Saada, Iziki
 
 email: info@walidtours.com
-
-[back to Getting There](..)

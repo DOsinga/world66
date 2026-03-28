@@ -1,7 +1,9 @@
 ---
-title: "Prosecco Wine Route Travel Guide"
+title: "Prosecco Wine Route"
 type: location
 ---
+
+Travel Guide
 
 The Prosecco wine route winds around through the
 vineyard-covered hills between Conegliano, Vittorio Veneto and
@@ -41,21 +43,4 @@ here. The exterior of the church is simple and reflects the stylistic
 canons of the Cistercian order; the large wooden portals and central
 rose window are remarkable. The interior is filled with frescoes and
 works of art: the high altar contains the very old statue of the
-Madonna del Sacro Calice, from Nubia, dating back to the 4th century
-AD. The statue is the protagonist of a miraculous story that still
-today attracts pilgrims as a sign of devotion. The most fascinating
-spot for visitors are certainly **the cloisters**, which form an ambiance of rare charm. Visiting hours: from 8:45 a.m. to 1:45 p.m. and 2:30 p.m. to 7:00 p.m.
-
-The Prosecco Wine Route continues towards Valdobbiadene in a landscape
-featuring vineyards and chestnut woods. You reach what is the epitome
-of the Prosecco area, the area of the treasured **Cartizze**
-spumante between the villages of Santo Stefano, San Pietro and Saccol.
-Here is where the most beautiful views of the Prosecco Wine Route are
-found, from the main road, lookouts open over the vineyards below in a
-breathtaking spectacle. The area contains the highest concentration of **wineries**, many of which are open for visits. The road ends here in **Valdobbiadene**,
-a town located in a green valley at the foot of the pre-alp foothills
-and overlooking the Piave riverbed. In the center there is a large
-square surrounded by Neoclassical buildings including the Duomo,
-Municipality and majestic 18th century campanile. The city suffered
-heavy bombing during World War I when it was the seat of the
-Austrian-Hungarian command. Today it is the acknowledged capital of Prosecco.
+Madonna del Sacro Calice, from Nubia, dating

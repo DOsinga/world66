@@ -3,11 +3,11 @@ title: "Eating Out"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[International](/africa/egypt/hurghada/eatingout/international)
-[Italian](/africa/egypt/hurghada/eatingout/italian)
+[Seafood](/africa/egypt/hurghada/eatingout?subsection=Seafood%20)
+[Italian](/africa/egypt/hurghada/eatingout?subsection=Italian)
 
-[Seafood](/africa/egypt/hurghada/eatingout/seafood)
+[International](/africa/egypt/hurghada/eatingout?subsection=International)
 
-[Traditional](/africa/egypt/hurghada/eatingout/traditional)
+[Traditional](/africa/egypt/hurghada/eatingout?subsection=Traditional)

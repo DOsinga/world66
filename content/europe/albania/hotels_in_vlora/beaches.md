@@ -9,5 +9,3 @@ At **www.hotels-in-vlora.com** part of **www.edialtour.com** Albania Tour Online
 
 **Contributors**
 October 22, 2010
-new
-by [edialtour](/member/edialtour)

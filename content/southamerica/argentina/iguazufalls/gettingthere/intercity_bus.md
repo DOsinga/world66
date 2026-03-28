@@ -8,13 +8,5 @@ Jump on a comfortable inter-city bus to get to the Iguazu Falls/Misiones provinc
 
 **Contributors**
 December 09, 2004
-new
-by [josiet](/member/josiet) (1 point)
 
 type: By Rail
-
-
-
-
-
-[back to Getting There](..)

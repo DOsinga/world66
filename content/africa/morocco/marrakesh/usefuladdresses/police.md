@@ -7,9 +7,3 @@ type: "general"
 Tel: 19
 
 type: general
-
-
-
-
-
-[back to Practical Information](..)

@@ -1,0 +1,4 @@
+---
+title: "Newburyport"
+type: location
+---

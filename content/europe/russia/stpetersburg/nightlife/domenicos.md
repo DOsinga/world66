@@ -13,5 +13,3 @@ type: Discos and Nightclubs
 address: Nevskiy pr. 70 (Mayakovskaya metro)
 
 openings: daily 12:00-6:00
-
-[back to Nightlife and Entertainment](..)

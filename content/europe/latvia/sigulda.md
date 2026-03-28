@@ -1,0 +1,4 @@
+---
+title: "Sigulda"
+type: location
+---

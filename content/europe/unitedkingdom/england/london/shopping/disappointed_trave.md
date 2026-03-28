@@ -8,13 +8,5 @@ The British Boot Company in Camden Town claims that they are the original shop a
 
 **Contributors**
 August 20, 2007
-change
-by [anordinary](/member/anordinary)
 
 type: Speciality shops
-
-
-
-
-
-[back to Shopping](..)

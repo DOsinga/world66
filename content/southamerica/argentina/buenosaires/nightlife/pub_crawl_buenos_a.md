@@ -42,5 +42,3 @@ url: [www.pubcrawlBA.com](http://www.pubcrawlBA.com)
 address: see website
 
 email: info@pubcrawlBA.com
-
-[back to Nightlife and Entertainment](..)

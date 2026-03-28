@@ -1,0 +1,31 @@
+---
+title: "NeroTeca"
+type: poi
+address: "Ground floor, Somerset, 8 Lorong Ceylon"
+email: "info@neroteca.com"
+phone: "03-2070-0530"
+price: "moderate"
+type: "Italian"
+url: "www.neroteca.com"
+---
+
+Authentic Italian cuisine, great wines and a very seductive, modern ambiente. The perfect place for a glass of wine and an Italian snack on a lazy Sunday afternoon. Or opt for a full-blown meal and chase it with a truly Italian "digestivo" such as Fernet Branca or Ramazotti.
+
+**Contributors**
+June 19, 2007
+
+type: Italian
+
+
+
+
+
+tel: 03-2070-0530
+
+url: [www.neroteca.com](http://www.neroteca.com)
+
+address: Ground floor, Somerset, 8 Lorong Ceylon
+
+PriceOfMenu: moderate
+
+email: info@neroteca.com

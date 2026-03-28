@@ -1,9 +1,9 @@
 ---
-title: "Kotor Travel Guide"
+title: "Kotor"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Kotor is an ancient town in the middle of an enormous bay which will take a long time to drive around. The old town is very pretty with its city walls (with an open air cinema on top of it!), lots of churches and old buildings from Byzantine and other cultures, and a large number of places to eat and have a coffee.
 
@@ -13,8 +13,3 @@ Along the bay there are a lot of restaurants, bars and hotels.
 
 More information on
 *Kotor Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Wed 14:14

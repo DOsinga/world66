@@ -23,5 +23,3 @@ Hamilton has plenty of restaurants and bars. There are many hotels that serve ex
 
 **Contributors**
 March 09, 2010
-new
-by [imran_m](/member/imran_m)

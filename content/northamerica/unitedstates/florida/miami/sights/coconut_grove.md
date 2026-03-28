@@ -11,8 +11,6 @@ Coconut Grove is South Miamiâ€™s oldest settlement, but it is also one of Miamiâ
 
 **Contributors**
 May 31, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Streets
 
@@ -25,5 +23,3 @@ accessibility: Totally Wheelchair Accessible
 tel: 305-444-0777
 
 address: 3015 Grand Avenue
-
-[back to Sights](..)

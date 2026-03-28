@@ -20,5 +20,3 @@ for more information about any trekking you wish in morocco visite my website:ww
 
 **Contributors**
 July 19, 2008
-new
-by [darouassaggou](/member/darouassaggou) (1 point)

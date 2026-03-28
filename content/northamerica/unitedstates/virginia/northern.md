@@ -12,6 +12,3 @@ Driving up the **George Washington Parkway**, you'll notice the bike trail (16 m
 Also try to visit **[Manassas](/northamerica/unitedstates/virginia/manassas)** with its historic Old Town area and Civil War Battlefield. You can get there by train or car. Away from the historical parts of Northern Virginia, you can also find great shopping and restaurants in **Tyson's Corner, Reston **and** [Arlington](/northamerica/unitedstates/virginia/arlington)**. 
 
 Near Dulles Airport is the newly opened, Steven F. Udvar-Hazy Center. This is the Smithsonian Institution's National Air and Space Museum's new facility. Here they display artifacts including the Lockheed SR-71 "Blackbird", Boeing B-29 Superfortress "Enola Gay", an Air France Concorde and the Space Shuttle "Enterprise". There is an IMAX® theater as well. The museum continues to develop new exhibits to examine the impact of air and space technology on science and society. Parking is $12, however there *is* a free bus from the flagship building on the National Mall in DC. Adminssion is free.
-
-*Change history*
-Write up by [marc926](/member/marc926) on 26 April 04

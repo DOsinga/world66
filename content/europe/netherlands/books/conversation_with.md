@@ -28,5 +28,3 @@ idea--and of a man who tries to live that idea.
 author: Goce Smilevski
 
 isbn: 0810123762
-
-[back to Books](..)

@@ -1,0 +1,4 @@
+---
+title: "isola"
+type: location
+---

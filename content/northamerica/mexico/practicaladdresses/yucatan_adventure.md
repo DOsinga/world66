@@ -7,8 +7,6 @@ email: "info@yucatanadventure.com.mx"
 phone: "877 631 4005"
 type: "Tourist information"
 url: "www.yucatanadventure.com.mx"
-latitude: 20.682852
-longitude: -88.56872
 ---
 
 Informative online magazine with articles about the Maya Culture, traditions and the Maya Foundation In Laakeech social volunteer programs nearby Chichen Itza, Yucatan, Mexico. Each month, the editors upload well written articles about archaeologists, current events, Mayan healing arts, traditions and ecoturism.
@@ -17,8 +15,6 @@ This volunteer website is dedicated to to promote various social volunteer progr
 
 **Contributors**
 June 08, 2008
-change
-by [herre](/member/herre)
 
 type: Tourist information
 
@@ -35,5 +31,3 @@ url: [www.yucatanadventure.com.mx](http://www.yucatanadventure.com.mx)
 address: Chichen Itza, Yucatan, Mexico
 
 email: info@yucatanadventure.com.mx
-
-[back to Practical Information](..)

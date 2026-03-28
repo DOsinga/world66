@@ -20,5 +20,3 @@ www.rupapublishing.com
 author: Thomas Kalak
 
 isbn: 978-3-940393-04-3
-
-[back to Books](..)

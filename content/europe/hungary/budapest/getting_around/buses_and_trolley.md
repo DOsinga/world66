@@ -22,5 +22,3 @@ out for pickpockets, especially when getting on and off!
 
 **Contributors**
 July 12, 2005
-new
-by [giorgio](/member/giorgio) (1 point)

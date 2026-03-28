@@ -10,13 +10,5 @@ For departures be aware that in response to all the anti-smoking hype the airpor
 
 **Contributors**
 June 26, 2006
-new
-by [justbpaul](/member/justbpaul) (1 point)
 
 type: By Air
-
-
-
-
-
-[back to Getting There](..)

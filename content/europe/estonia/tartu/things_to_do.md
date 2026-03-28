@@ -9,5 +9,3 @@ www.studentdays.ee
 
 **Contributors**
 April 28, 2006
-new
-by [leenu](/member/leenu)

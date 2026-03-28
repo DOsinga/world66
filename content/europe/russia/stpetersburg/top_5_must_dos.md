@@ -27,5 +27,3 @@ If you think of Russia in terms of literary and musical greatness, then don't mi
 
 **Contributors**
 August 21, 2009
-new
-by [tiffanymparker](/member/tiffanymparker)

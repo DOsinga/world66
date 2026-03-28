@@ -10,7 +10,3 @@ Valencia does have an airport, but it is not near the downtown area. You can tak
  For the trian.... You can also catch a train to the downtown train station, but you have to walk across a few larger streets. You will arrive right in the middle of downtown and will not be far from the hotels/hostels. I would suggest taking a taxi from there, but you will also be able to take the bus or metro. 
 
  For the taxi.... A taxi is the most convenient option for getting to any place, but it can also be fairly expensive.
-
- 
-
--->

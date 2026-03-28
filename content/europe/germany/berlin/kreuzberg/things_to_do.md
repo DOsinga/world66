@@ -59,5 +59,3 @@ weekend nights.
 
 **Contributors**
 February 09, 2010
-new
-by [cferry1990](/member/cferry1990)

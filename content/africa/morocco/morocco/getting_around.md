@@ -28,5 +28,3 @@ Within cities:
 Petit taxis: Every city has petit taxis which carry only three passengers. The fare is calculated by a meter. If there is no meter, or it does not work, ask the price before you begin. He may pick up other passengers. At night until sunrise the fare 50% more than daytime.
 
 The bigger cities have public bus services and the average ticket price is about Dr2. Petits taxis are a common sight in most cities and major towns. They're licensed to carry up to three passengers and can be a useful way to avoid heat exhaustion and/or hustlers. .
-
--->

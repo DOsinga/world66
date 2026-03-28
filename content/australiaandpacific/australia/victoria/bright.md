@@ -1,0 +1,4 @@
+---
+title: "Bright"
+type: location
+---

@@ -5,8 +5,6 @@ address: "Alte Schönhauser Str. 4"
 connections: "U Weinmeisterstr."
 opening_hours: "Mo-Fr noon -3pm, lunch menu; daily from 6pm -1am"
 type: "Italian"
-latitude: 52.527977
-longitude: 13.408526
 ---
 
 Lively up/market Italian restaurant where you can enjoy the dolce vita fortissimo after the theatre.
@@ -20,5 +18,3 @@ connections: U Weinmeisterstr.
 openings: Mo-Fr noon -3pm, lunch menu; daily from 6pm -1am
 
 address: Alte Schönhauser Str. 4
-
-[back to Eating Out](..)

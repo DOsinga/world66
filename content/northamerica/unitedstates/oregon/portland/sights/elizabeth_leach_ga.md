@@ -12,8 +12,6 @@ The Elizabeth Leach Gallery is a small art gallery in the Portland area that was
 
 **Contributors**
 May 13, 2009
-new
-by [travelnut23](/member/travelnut23)
 
 type: Hotspots
 
@@ -26,5 +24,3 @@ openingHours: Noon-5p Tu-Sa
 url: [www.elizabethleach.com](http://www.elizabethleach.com/)
 
 address: 207 Southwest Pine Street Portland, OR 97204
-
-[back to Sights](..)

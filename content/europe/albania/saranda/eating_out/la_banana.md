@@ -21,5 +21,3 @@ tel: 085221317
 address: rr.Ismail Tatzati
 
 PriceOfMenu: normal
-
-[back to Eating Out](..)

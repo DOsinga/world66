@@ -9,5 +9,3 @@ Santo Domingo is connected with the principal cities.
 
 **Contributors**
 May 22, 2005
-change
-by [giorgio](/member/giorgio) (1 point)

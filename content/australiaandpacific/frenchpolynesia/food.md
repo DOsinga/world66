@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
 French Polynesia has some of the finest cooking in the world. Not only is there the traditional Polynesian food, with its abundance of fresh seafood, fruit and vegetables, but there is exquisite French cuisine, a variety of ethnic restaurants and several dishes that combine the different cooking techniques and flavours. 

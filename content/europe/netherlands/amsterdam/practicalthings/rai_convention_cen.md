@@ -8,13 +8,5 @@ Rai Convention Center is the Netherlands biggest convention centre. Located sout
 
 **Contributors**
 February 05, 2006
-new
-by [giorgio](/member/giorgio)
 
 type: Convention Center
-
-
-
-
-
-[back to Practical Information](..)

@@ -1,11 +1,7 @@
 ---
 title: "Rainbow"
 type: location
-latitude: -35.898183
-longitude: 141.995553
 ---
-
-Orginal article by [RichardOsinga](/member/richardosinga) on 17 April 04
 
 We currently have no information about Rainbow.
 

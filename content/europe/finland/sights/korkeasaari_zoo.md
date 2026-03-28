@@ -29,5 +29,3 @@ url: [www.korkeasaari.fi](http://www.korkeasaari.fi/index_eng.html)
 address: dsgsgshsf
 
 email: freetorhyme@yahoo.com
-
-[back to Sights](..)

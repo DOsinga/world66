@@ -20,8 +20,6 @@ After a 3-year complete closure, the monument is restored to its full glory. Eve
 
 **Contributors**
 February 25, 2008
-change
-by [ncep](/member/ncep) (1 point)
 
 ### [The Machines de l'Ile](/europe/france/normandybrittany/nantes/sights/the_machines_de_l)
 

@@ -25,9 +25,5 @@ Poros is the closest island to Athens that can be easily reached by ferry. You c
 
 **Contributors**
 April 05, 2010
-new
-by [piyushjain](/member/piyushjain_)
 
 April 08, 2010
-change
-by [ctanios](/member/ctanios)

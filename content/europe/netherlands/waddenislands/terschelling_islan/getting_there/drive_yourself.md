@@ -38,7 +38,5 @@ single fare) for € 3,80 per day. Info at +31 517 413 527
 
 **Contributors**
 March 15, 2005
-change
-by [hollandtraveler](/member/hollandtraveler) (4 points)
 
 type: By Road

@@ -1,8 +1,6 @@
 ---
 title: "Lake region"
 type: location
-latitude: 67.802996
-longitude: 24.793493
 ---
 
 We currently have no information about Lake region.

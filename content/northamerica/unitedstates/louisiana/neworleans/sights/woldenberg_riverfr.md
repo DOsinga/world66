@@ -9,13 +9,9 @@ Woldenberg Riverfront Park overlooks the mighty Mississippi River and it is home
 
 **Contributors**
 June 07, 2008
-new
-by [mcburton](/member/mcburton)
 
 type: Parks, Gardens and Zoos
 
 
 
 address: Between Canal Street and Esplanade Avenue, French Quarter
-
-[back to Sights](..)

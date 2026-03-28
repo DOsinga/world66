@@ -1,0 +1,4 @@
+---
+title: "Lochgilphead"
+type: location
+---

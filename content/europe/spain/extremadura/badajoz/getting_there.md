@@ -18,5 +18,3 @@ BY CAR**
 
 **Contributors**
 February 12, 2007
-new
-by [costacora](/member/costacora) (2 points)

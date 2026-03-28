@@ -4,8 +4,6 @@ type: section
 address: "Sugar House Alley, Lancaster"
 type: "Clubs and dancing"
 url: "www.thesugarhouse.co.uk"
-latitude: 54.051262
-longitude: -2.796973
 ---
 
 Clubs, Pubs and Theatres

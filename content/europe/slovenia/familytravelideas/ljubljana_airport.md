@@ -38,5 +38,3 @@ url: [www.taxibrnik.com](http://www.taxibrnik.com/LJUBLJANA_AIRPORT_TAXI_TRANSFE
 address: AIRPORT LJUBLJANA TRANSFER
 
 email: airportbrnik@gmail.com
-
-[back to Family Travel Ideas](..)

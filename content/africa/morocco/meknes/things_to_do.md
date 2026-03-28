@@ -14,5 +14,3 @@ Phone: 00212-3553-9753
 
 **Contributors**
 June 27, 2006
-change
-by [bernhadette](/member/bernhadette) (1 point)

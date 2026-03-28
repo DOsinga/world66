@@ -6,8 +6,6 @@ email: "dundurn@hamilton.ca"
 phone: "905-546-2872"
 type: "Castles"
 url: "www.hamilton.ca"
-latitude: 43.26947
-longitude: -79.884192
 ---
 
 Dundurn Castle is a National Historic Site that illustrates the life and times of Sir Allan Napier MacNab (1798 - 1862).
@@ -20,8 +18,6 @@ A little known fact is that Sir Allan MacNab was the great-great-great grandfath
 
 **Contributors**
 November 21, 2009
-change
-by [waterfalls](/member/waterfalls)
 
 type: Castles
 
@@ -36,5 +32,3 @@ url: [www.hamilton.ca](http://www.hamilton.ca/NR/exeres/07027F55-5B50-4553-807E-
 address: 610 York Blvd.
 
 email: dundurn@hamilton.ca
-
-[back to Sights](..)

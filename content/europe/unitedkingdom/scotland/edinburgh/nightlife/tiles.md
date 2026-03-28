@@ -1,0 +1,6 @@
+---
+title: "Tiles"
+type: poi
+address: "1 St. Andrew Sq."
+phone: "0131 558 1507"
+---

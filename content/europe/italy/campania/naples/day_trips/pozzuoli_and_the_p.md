@@ -15,9 +15,3 @@ www.acam-campania.it
 
 **Contributors**
 June 09, 2008
-new
-by [mcburton](/member/mcburton)
-
-
-
-[back to Day Trips](..)

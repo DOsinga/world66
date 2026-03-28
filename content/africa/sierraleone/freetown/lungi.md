@@ -1,9 +1,9 @@
 ---
-title: "Lungi Travel Guide"
+title: "Lungi"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 If you fly to Sierra Leone, Lungi will be your first place to visit as the country's only international airport is here.
 
@@ -14,7 +14,3 @@ There is one large hotel in Lungi which is clean, air conditioned and comfortabl
 If you are white, you will stand out and attract attention, but this will almost always be positive, and lots of people will stop you to chat. As the town is next to the airport, local residents are keen to chat about the various people who have visisted such as foreign heads of state and royalty.
 
 It would be easy to ignore Lungi if heading elsewhere, but worth a stop and a walk.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sun 12:20

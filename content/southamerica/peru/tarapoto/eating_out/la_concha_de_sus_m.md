@@ -12,8 +12,6 @@ A seafood and fish place in the middle of the jungle? That's right, and La Conch
 
 **Contributors**
 March 30, 2008
-new
-by [approaching genius](/member/approaching_genius)
 
 type: Seafood
 
@@ -26,5 +24,3 @@ tel: 53-0257
 address: Jr. Camilla Morey #250 at the intersection of Jr. Grau
 
 PriceOfMenu: Cheap to Reasonable
-
-[back to Eating Out](..)

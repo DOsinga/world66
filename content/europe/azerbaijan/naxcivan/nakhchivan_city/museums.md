@@ -7,12 +7,8 @@ phone: "telephone 5-01-39"
 
 **Contributors**
 April 16, 2006
-new
-by [reen](/member/reen)
 
 April 18, 2006
-change
-by [azerbaijan08](/member/azerbaijan08)
 
 ### [Nakhchivan State History Museum](/europe/azerbaijan/naxcivan/nakhchivan_city/museums/nakhchivan_state_h)
 

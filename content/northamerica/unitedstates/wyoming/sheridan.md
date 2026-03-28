@@ -1,0 +1,4 @@
+---
+title: "Sheridan"
+type: location
+---

@@ -14,5 +14,3 @@ Water transportation is central to the Charleston economy. The City's shipping p
 
 **Contributors**
 May 26, 2009
-change
-by [harding](/member/harding)

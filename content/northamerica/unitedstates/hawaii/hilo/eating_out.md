@@ -9,5 +9,3 @@ If you are into the fast food chains, you will have to drive down Hwy 11, just s
 
 **Contributors**
 September 10, 2006
-new
-by [worldtraveler19](/member/worldtraveler19) (2 points)

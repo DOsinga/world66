@@ -1,9 +1,11 @@
 ---
-title: "Armenia: The Bradt Travel Guide"
+title: "Armenia: The Bradt"
 type: poi
 author: "Nicholas Holding"
 isbn: "1841620815"
 ---
+
+Travel Guide
 
 Armenia is renowned for its medieval monasteries and fortresses, often
 clinging precariously to the sides of deep river gorges. Admire too its
@@ -25,8 +27,6 @@ including monasteries; architecture, wildlife, religion and culture.
 
 **Contributors**
 November 11, 2008
-new
-by [raffikojian](/member/raffikojian)
 
 [](http://www.amazon.com/exec/obidos/ASIN/1841620815/osingacom?creative=125581&camp=2321&link_code=as1)
 
@@ -35,5 +35,3 @@ by [raffikojian](/member/raffikojian)
 author: Nicholas Holding
 
 isbn: 1841620815
-
-[back to Books](..)

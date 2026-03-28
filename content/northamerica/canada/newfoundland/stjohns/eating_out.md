@@ -30,5 +30,3 @@ address: 160, Water Street
 tel: 709 754-6444
 
 **The Westminster**
-
--->

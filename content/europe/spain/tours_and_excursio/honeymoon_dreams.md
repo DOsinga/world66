@@ -5,8 +5,6 @@ address: "Spain"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 39.326068
-longitude: -4.837979
 ---
 
 Romance is in the air! As you all know Spain & Portugal are famous for being Passionate & Romantic destinations. They are both excellent choices to fulfill Honeymoon Dreams...
@@ -17,7 +15,4 @@ Moving over to the other side of the Iberian Peninsula another few popular optio
 
 Apart from these fabulous options we are able to personalize any type of Honeymoon Dream! In addition you could visit our VacationCentre! with many other types of specialty tours and vacation packages that might suit your travel needs...
 
-**Change history**
-Orginal article by [EuroAdventures](/member/euroadventures) on 26 January 05
-
-Minor corrections by [EuroAdventures](/member/euroadventures) on 03 March 05
+Minor corrections by [EuroAdventures](/world/member/euroadventures) on 03 March 05

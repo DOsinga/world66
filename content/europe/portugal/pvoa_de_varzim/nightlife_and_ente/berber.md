@@ -16,5 +16,3 @@ type: Pubs
 
 
 url: [berber.pt](http://berber.pt/)
-
-[back to Nightlife and Entertainment](..)

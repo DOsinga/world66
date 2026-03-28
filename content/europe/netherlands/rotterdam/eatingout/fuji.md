@@ -8,5 +8,3 @@ Traditional classical Japanese dinners served by Japanese ladies in original kim
 address: Kruiskade 26
 
 tel: +31-010-143338
-
--->

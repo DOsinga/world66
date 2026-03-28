@@ -14,8 +14,6 @@ Should you need to get around further than Cleveland at any point it is recommen
 
 **Contributors**
 April 05, 2006
-new
-by [vulpster03](/member/vulpster03) (4 points)
 
 ### [Greater Cleveland RTA](/northamerica/unitedstates/ohio/cleveland/getting_around/greater_cleveland)
 

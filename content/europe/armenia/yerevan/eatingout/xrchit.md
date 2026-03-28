@@ -15,5 +15,3 @@ type: Local
 tel: +374(10) 395959
 
 address: Leningradian Str. 27
-
-[back to Eating Out](..)

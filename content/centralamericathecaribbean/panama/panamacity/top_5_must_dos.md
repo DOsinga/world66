@@ -33,5 +33,3 @@ Panama City is full of nightlife, activities, educational information, and histo
 
 **Contributors**
 April 13, 2010
-change
-by [kristi_p](/member/kristi_p)

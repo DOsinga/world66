@@ -7,8 +7,6 @@ Here are a few suggestions for a Day Trip.
 
 **Contributors**
 March 29, 2005
-new
-by [giorgio](/member/giorgio)
 
 ### [Kinderdijk
 

@@ -1,9 +1,9 @@
 ---
-title: "Lautoka Travel Guide"
+title: "Lautoka"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Lautoka is an industrial city covered in sugarcane ashes.
 
@@ -13,8 +13,3 @@ There is also a great beach here too.
 
 More information on
 *Lautoka Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 10:34

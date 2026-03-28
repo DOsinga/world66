@@ -1,0 +1,4 @@
+---
+title: "Taiping"
+type: location
+---

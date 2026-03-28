@@ -27,5 +27,3 @@ This is a friendly café located on Rue Ranavalona III at Haute Ville. Le Caf’
 
 **Contributors**
 March 30, 2010
-change
-by [imran_m](/member/imran_m)

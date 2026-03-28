@@ -19,8 +19,6 @@ Or Try the Best Fry Chicken: Pollo Campero. The Real Thing. 3 Restaurant in Quet
 
 **Contributors**
 August 21, 2006
-change
-by [giorgio](/member/giorgio)
 
 ### [La Genovese](/centralamericathecaribbean/guatemala/quetzaltenango/eating_out/la_genovese)
 

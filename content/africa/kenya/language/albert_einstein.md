@@ -4,7 +4,3 @@ type: location
 ---
 
 More information coming soon.
-
-
-
-[back to Language](..)

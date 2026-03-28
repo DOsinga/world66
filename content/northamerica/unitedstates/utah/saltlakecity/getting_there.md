@@ -7,5 +7,3 @@ Making Salt Lake City travel a reality has never been easier! Many airline carri
 
 **Contributors**
 May 12, 2009
-new
-by [annc](/member/annc)

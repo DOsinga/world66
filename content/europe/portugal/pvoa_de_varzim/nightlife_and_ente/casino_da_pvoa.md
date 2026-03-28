@@ -12,5 +12,3 @@ type: Casinos
 
 
 url: [www.casino-povoa.com](http://www.casino-povoa.com/)
-
-[back to Nightlife and Entertainment](..)

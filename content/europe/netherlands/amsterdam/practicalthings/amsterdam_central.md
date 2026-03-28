@@ -9,7 +9,5 @@ Located on the IJ river, it's connected with several European and Dutch destinat
 
 **Contributors**
 February 05, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: Train station

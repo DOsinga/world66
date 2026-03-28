@@ -1,6 +1,6 @@
 ---
 title: "Webcams"
-type: location
+type: section
 url: "213.60.176.20"
 ---
 
@@ -8,8 +8,6 @@ Webcams of Tui
 
 **Contributors**
 April 13, 2005
-new
-by [reen](/member/reen) (1 point)
 
 ### Mobile webcam Tui
 

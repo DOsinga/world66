@@ -7,10 +7,10 @@ The Occitans speak thier own language and some even propagate independence from 
 
 Highlights in the region include [Carcassone](/europe/france/midi/languedoc/carcassone) a completely walled medieval town and the cities of [Toulouse](/europe/france/midi/languedoc/toulouse), one of the most stylish cities of the country and [Montpellier](/europe/france/midi/languedoc/montpellier), a fascinating pastiche of all the architectural eras of France—medieval structures stand next to 18th-century buildings and free-form modern designs.
 
-## Destinations
+## Destinations in Languedoc
 
-- [Albi](/europe/france/midi/languedoc/albi)
-- [Carcassone](/europe/france/midi/languedoc/carcassone)
-- [Montpellier](/europe/france/midi/languedoc/montpellier)
-- [Perpignan](/europe/france/midi/languedoc/perpignan)
-- [Toulouse](/europe/france/midi/languedoc/toulouse)
+[Montpellier](/europe/france/midi/languedoc/montpellier)
+[Toulouse](/europe/france/midi/languedoc/toulouse)
+[Carcassone](/europe/france/midi/languedoc/carcassone)
+[Perpignan](/europe/france/midi/languedoc/perpignan)
+[Albi](/europe/france/midi/languedoc/albi)

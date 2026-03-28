@@ -26,5 +26,3 @@ url: [www.sanjosejazz.org](http://www.sanjosejazz.org)
 date: August 17 - 20
 
 address: Cesar Chavez Park and other downtown San Jose venues
-
-[back to Festivals](..)

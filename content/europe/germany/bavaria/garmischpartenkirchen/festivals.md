@@ -27,5 +27,3 @@ The Festwochen Festival, held in July and August, includes competitions such as 
 
 **Contributors**
 April 07, 2010
-new
-by [piyushjain](/member/piyushjain_)

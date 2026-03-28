@@ -117,5 +117,3 @@ lofty memorials to those who died so cruelly for their beliefs.
 
 **Contributors**
 May 03, 2005
-new
-by [carol](/member/carol)

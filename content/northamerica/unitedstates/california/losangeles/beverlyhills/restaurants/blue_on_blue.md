@@ -1,11 +1,9 @@
 ---
 title: "Blue on blue"
-type: location
+type: poi
 address: "9400 Olympic Blvd."
 phone: "310-277-5221"
 type: "American"
-latitude: 34.004459
-longitude: -118.074806
 ---
 
 Eating establishment inside the achingly trendy Avalon Hotel. The
@@ -20,12 +18,8 @@ is a menu highlight.
 
 **Contributors**
 December 15, 2006
-new
-by [jhyatt](/member/jhyatt) (1 point)
 
 December 18, 2006
-change
-by [giorgio](/member/giorgio)
 
 type: American
 
@@ -34,5 +28,3 @@ type: American
 tel: 310-277-5221
 
 address: 9400 Olympic Blvd.
-
-[back to Eating Out](..)

@@ -32,5 +32,3 @@ address: Av Artigas y Primer Presidente
 Nice and interesting church. 
 
 address: Plaza de la Independencia
-
--->

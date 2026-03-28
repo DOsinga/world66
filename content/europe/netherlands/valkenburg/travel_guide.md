@@ -21,6 +21,4 @@ Valkenburg has a total area of 36.91 square kilometers with over 17,000 inhabita
 
 Valkenburg is one of the more popular tourist destinations in Netherlands because it is characterized by historical remains and wonderful geographical boundaries. There are several notable attractions in the area including the popular Valkenburg Castle which is the only castle in Netherlands built on top of a hill.
 
-The caves, which the city is known for, also draw a lot of tourists. The caves were said to be used during the Roman times to store building materials and one can find engravings in these caves as well. Cave Aquarium is probably the most popular among these caves. Aside from the caves, the catacombs are also popular which date back to the early Roman period.
-
-There are also several museums, amusement parks and historical buildings that line the streets of Valkenburg and just outside of the city visitors can explore several picturesque villages surrounded by greenery.
+The caves, which the city is known for, also draw a lot of tourists. The caves were said to be used during the Roman times to store building materials and one can find engravings in these caves as well. Cave Aquarium is probably the most popular among these caves. Aside from the caves, the catacombs are also popular which date

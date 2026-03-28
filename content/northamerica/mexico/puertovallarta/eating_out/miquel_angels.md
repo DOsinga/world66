@@ -5,8 +5,6 @@ accessibility: "taxi."
 address: "Bucerias Mexico"
 price: "Mid range"
 type: "International"
-latitude: 21.512057
-longitude: -104.919532
 ---
 
 Just north of Puerto Vallarta is a small town named Bucerias. In this town we had a most amazing meal and experience. The restaurant of Miquel Angels is a rare gem, with the owner Miquel as your host, and his wife in the kitchen we experienced a meal of a lifetime.
@@ -24,5 +22,3 @@ accessibility: taxi.
 address: Bucerias Mexico
 
 PriceOfMenu: Mid range
-
-[back to Eating Out](..)

@@ -1,7 +1,9 @@
 ---
-title: "Vulture Area Travel Guide"
+title: "Vulture Area"
 type: location
 ---
+
+Travel Guide
 
 The **Vulture area** lies in North of the Province of [Potenza](/europe/italy/basilicata/potenza) in the region of [Basilicata](/europe/italy/basilicata) ( Italy) comprising the communities of Atella, Barile, Ginestra, [Melfi](/europe/italy/basilicata/melfi), Rapolla, Ripacandida, Rionero in Vulture, Maschito, Venosa, Ruvo del Monte, Rapolla, and San Fele. The name of the area is given by the most prominent landmark **Monte Vulture** (1326 m), an extinct Volcano.
 
@@ -14,5 +16,3 @@ Lagopesole and Melfi.
 
 **Contributors**
 July 11, 2006
-change
-by [giorgio](/member/giorgio)

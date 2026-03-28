@@ -1,9 +1,9 @@
 ---
-title: "Lake Burton Travel Guide"
+title: "Lake Burton"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 As you lay in a boat in the middle of the Lake Burton, you forget all about the troubles that plague your life. Comfort is inevitably found in the gentle rocking motion of the vessel and the sound of lapping waves as you stare up into the pristine blue sky and watch the Canadian geese and an occasional bald eagle soar overhead. The quacking of ducks is heard softly in the distance, as are the deep, throaty rumbles of inboard motors and the high-pitched, whiney cries of the Johnson outboard motors as boats cruise around the lake. Whether in an old, rented fishing boat or a brand new Mastercraft, the people who live and vacation on Lake Burton will look at you with the same good-natured eyes and offer the same wave of the hand and kind smile in greeting as you pass by their docks.
 
@@ -18,9 +18,3 @@ The most famous of all places on Lake Burton is the LaPrades marina and restaura
 For those weekend lake-goers who can't make it home for their normal church service, there is always boat church on Sunday mornings. Located at Moccasin Creek State Park, people drive their boats from all across the lake just to be a part of this unique atmosphere. As you look around the pavilion, you notice the odd assortment of attire. Some people come in bathing suits, others in pajamas, others in skirts or khakis. No one at this church cares how you are dressed, they are just happy you are there. A different guest preacher gives a different message every week, which adds an extra element of excitement to the whole adventure. The best part about boat church is the setting. Perched right on the shore of the lake, one can look out and see green, cloud-covered mountains rising around them; they can see the tiny waves on the water that the wind creates; they can hear the children playing on the playground; they can smell the combined scents of campfires, bacon, and the summer or fall. The second best part about boat church is the little old man who leads the worship. His name is Jesse, and when he sings those old Southern hymns, he gets a little gleam in his eye and a bounce in his step, and before you know it he is dancing all over the stage, just singing his heart out. After church, people jump back in their boats and ride out into the wider section of the cove, whereupon they tie on their tubes, don their lifejackets, and hop into the water for the ride of their lives.
 
 No matter what your reason for being at Lake Burton, you are sure to fall in love with it. As you watch the sun sparkle off the clean, clear mountain water and hear the sounds of laughter and happiness all around you, you cannot help but be transported into a time of joy and relaxation. The magic of Lake Burton reaches out to all; all you have to do is be ready to embrace it.
-
-*Part or or all of this text stems from the original article at: http://www.lapradesmarina.com/*
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 23:23

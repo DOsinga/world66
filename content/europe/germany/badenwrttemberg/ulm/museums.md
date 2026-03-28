@@ -26,5 +26,3 @@ Ulm has a museum which is solely dedicated to - bread. Open daily from 10-17h, o
 url: [www.brotmuseum-ulm.de](http://www.brotmuseum-ulm.de/)
 
 address: Im Salzstadel (Olgastr)
-
--->

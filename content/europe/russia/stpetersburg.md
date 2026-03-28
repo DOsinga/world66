@@ -1,8 +1,6 @@
 ---
 title: "St Petersburg"
 type: location
-latitude: 59.938732
-longitude: 30.316229
 ---
 
 "/>

@@ -7,5 +7,3 @@ Eastbourne has a long Victorian beach with a pier. The beach is mostly stones, w
 
 **Contributors**
 August 12, 2005
-new
-by [boogaloo](/member/boogaloo)

@@ -6,8 +6,6 @@ closing_time: "1am/2am"
 email: "castlebar@yahoo.com.my"
 phone: "05-541492"
 type: "Casinos"
-latitude: 4.615169
-longitude: 101.1223
 ---
 
 Nice lovely pub with good sound system. Castle Bar is situated at the same row with Waraku Japanese
@@ -24,5 +22,3 @@ tel: 05-541492
 address: 17, Jln. Medan Ipoh 10, Bandar Baru Medan, 31400 Ipoh.
 
 email: castlebar@yahoo.com.my
-
-[back to Nightlife and Entertainment](..)

@@ -16,5 +16,3 @@ For those without a car of their own, the  source of public transport is a bus.
   Redline Coaches
 
  Ph: +61 3 6336 1446,  email:  redline@tasredline.com.au
-
--->

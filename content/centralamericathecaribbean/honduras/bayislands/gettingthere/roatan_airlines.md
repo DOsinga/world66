@@ -14,5 +14,3 @@ type: By Air
 
 
 url: [www.roatanpearl.com](http://www.roatanpearl.com/roatan.html#airportinfo)
-
-[back to Getting There](..)

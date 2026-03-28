@@ -17,5 +17,3 @@ tel: +212-6-72-37-26-68
 url: [www.berberadventures.com](http://www.berberadventures.com)
 
 email: info@berberadventures.com
-
-[back to Day Trips](..)

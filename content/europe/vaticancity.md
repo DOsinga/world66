@@ -1,8 +1,6 @@
 ---
 title: "Vatican City"
 type: location
-latitude: 41.903491
-longitude: 12.452835
 ---
 
 Vatican city is the smallest state in the world, with only 400 people is one of the most visited in the world. This is mainly because it is in the middle of [Rome](/europe/italy/lazio/rome) and the 14.400 acres are packed with the most beautiful old churchs, monasteries and museums. Although Vatican City is independent it is completely surrounded by the city of Rome. This home of Roman Catholicism must be seen. It begins on the Tiber River and stretches west (about 1 200 m long and 800 m at its widest point). 

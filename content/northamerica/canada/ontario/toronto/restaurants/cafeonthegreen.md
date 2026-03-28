@@ -1,6 +1,6 @@
 ---
 title: "Cafe on the Green ."
-type: location
+type: poi
 type: "general"
 ---
 

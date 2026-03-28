@@ -15,5 +15,3 @@ Although I found the cost ($20) a bit steep, it was still quite enjoyable. Also,
 
 **Contributors**
 December 12, 2006
-new
-by [iccohen](/member/iccohen) (2 points)

@@ -11,8 +11,6 @@ One of the great things about the Miami Design District is that you can walk in 
 
 **Contributors**
 June 01, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Speciality shops
 
@@ -23,5 +21,3 @@ tel: 305-531-8700
 url: [www.miamidesigndistrict.net](http://www.miamidesigndistrict.net)
 
 address: 3841 NE 2nd Avenue
-
-[back to Shopping](..)

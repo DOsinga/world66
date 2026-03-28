@@ -1,0 +1,4 @@
+---
+title: "Goma"
+type: location
+---

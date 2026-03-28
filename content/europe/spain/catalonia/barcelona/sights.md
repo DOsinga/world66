@@ -11,15 +11,4 @@ Where to start in Barcelona? What most people do is starting at the Rambles, the
 
  The old city centre, better known as the Gothic Quarter, offers a good view of medieval times and all sorts of architectural styles that left their mark on this part of the city afterwards. The Santa Maria del Mar Cathedral and its plaza are only a few of the interesting places in this are. There are several palaces, either still in use by the government (or foundations) or left on their own to be explored by visitors. The Picasso museum is located in one of these palaces and this is only one of the many interesting museums that Barcelona has to offer. This is the perfect area to get lost and explore the winding streets, the little shops and the tapas bars.
 
- City sightseeing tours are run by Julia Tours (Ronda Universitat 5, tel 93/317-6454) and Pullmantur (Gran Via 635, tel 93/318-5195). Tours leave from these terminals, although it may be possible to be picked up from your hotel. 
-
-## Subsections
-
-[Boulevards](/europe/spain/catalonia/barcelona/sights/boulevards)
-[Gaudí](/europe/spain/catalonia/barcelona/sights/gaud)
-
-[Montjuic](/europe/spain/catalonia/barcelona/sights/montjuic)
-[Museums](/europe/spain/catalonia/barcelona/sights/museums)
-
-[Plaças](/europe/spain/catalonia/barcelona/sights/plaas)
-[The Gothic Quarter](/europe/spain/catalonia/barcelona/sights/thegothicquarter)
+ City sightseeing tours are run by Julia Tours (Ronda Universitat 5, tel 93/317-6454) and Pullmantur (Gran Via 635, tel 93/318-5195). Tours leave from these terminals, although it may be possible to be picked up from your hotel.

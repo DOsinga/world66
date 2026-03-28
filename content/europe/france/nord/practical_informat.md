@@ -27,5 +27,3 @@ The official currency of France up until 2002 was the Franc. In 2002, France swi
 
 **Contributors**
 January 30, 2010
-change
-by [ladyhawk1218](/member/ladyhawk1218)

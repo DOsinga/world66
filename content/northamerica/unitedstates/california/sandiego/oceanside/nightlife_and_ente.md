@@ -12,8 +12,6 @@ For a little more variety, visitors (and locals) can head a few minutes south to
 
 **Contributors**
 September 08, 2005
-new
-by [osidealive](/member/osidealive)
 
 ### [Haunted Head Saloon
 

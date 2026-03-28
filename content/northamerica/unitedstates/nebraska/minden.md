@@ -1,9 +1,9 @@
 ---
-title: "Minden Travel Guide"
+title: "Minden"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 *Please do not upload copyrighted images.. they'll all be removed.
 World66
@@ -16,13 +16,3 @@ The large buildings are literally stuffed with items of yesteryear. The collecti
 A very nice RV campground, a motel, and restaurant are located on the site. The museum recognizes the difficulty in seeing everything in just one day, so "hand-stamping" is available allowing visitors to retreat to their room or RV for a rest, then return to the museum with no additional charge. You will want to take at least two days to see everything, so, when leaving for the day, be sure to pick up a free pass allowing you to come back the next day.
 
 You may leave the Pioneer Village saying, "Who would have thought all this was in Minden?"
-
-#### Contributors
-
-July 22, 2006 change by [reen](/member/reen)
-
-July 20, 2006 change by [redsboy](/member/redsboy)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 21:01

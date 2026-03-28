@@ -10,13 +10,9 @@ Route 66 started in [Chicago](/northamerica/unitedstates/illinois/chicago), and 
 
 **Contributors**
 December 18, 2006
-change
-by [approaching genius](/member/approaching_genius)
 
 
 
 
 
 address: Chicago, IL to Los Angeles, CA
-
-[back to Getting Around](..)

@@ -26,8 +26,6 @@ iarnrod - railway
 
 **Contributors**
 December 21, 2005
-change
-by [allamericanbear](/member/allamericanbear)
 
 ### Dublin Airport
 

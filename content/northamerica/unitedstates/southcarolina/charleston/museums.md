@@ -8,5 +8,3 @@ There are so many Charleston activities available for the visitor, but a stop at
 
 **Contributors**
 May 26, 2009
-new
-by [harding](/member/harding)

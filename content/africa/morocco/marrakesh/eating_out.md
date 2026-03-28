@@ -3,11 +3,11 @@ title: "Eating Out"
 type: section
 ---
 
-## Subsections
+## Categories
 
-[Expensive](/africa/morocco/marrakesh/eatingout/expensive)
-[Italian](/africa/morocco/marrakesh/eatingout/italian)
+[Vietnamese](/africa/morocco/marrakesh/eatingout?subsection=Vietnamese)
+[Expensive](/africa/morocco/marrakesh/eatingout?subsection=Expensive)
 
-[Moroccan](/africa/morocco/marrakesh/eatingout/moroccan)
+[Italian](/africa/morocco/marrakesh/eatingout?subsection=Italian)
 
-[Vietnamese](/africa/morocco/marrakesh/eatingout/vietnamese)
+[Moroccan](/africa/morocco/marrakesh/eatingout?subsection=Moroccan)

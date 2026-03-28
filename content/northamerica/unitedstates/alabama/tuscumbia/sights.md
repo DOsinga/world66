@@ -6,16 +6,12 @@ opening_hours: "See text"
 phone: "(256) 383-4066"
 type: "Memorials"
 url: "www.helenkellerbirthplace.org"
-latitude: 34.737197
-longitude: -87.690759
 ---
 
 Sights in and around Tuscumbia
 
 **Contributors**
 December 03, 2005
-new
-by [handyman321](/member/handyman321)
 
 ### [Ivy Green](/northamerica/unitedstates/alabama/tuscumbia/sights/ivy_green)
 

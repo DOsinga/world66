@@ -14,5 +14,3 @@ fiona.giusto@tin.it
 
 
 email: fiona.giusto@libero.it
-
-[back to Getting Around](..)

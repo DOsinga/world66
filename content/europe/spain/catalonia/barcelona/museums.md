@@ -3,6 +3,6 @@ title: "Museums"
 type: section
 ---
 
-We currently have no Museums listed in Barcelona.
+Aly
 
-If you do know any Museums in Barcelona, please [Add].
+There is a Pablo Picasso Museum and Gaudi has an outdoor museum called Parque Guell. There is a whole section of the city that is basically Gaudi's museum since he built most of the houses.

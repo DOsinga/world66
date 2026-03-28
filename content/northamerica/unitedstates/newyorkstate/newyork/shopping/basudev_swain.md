@@ -9,7 +9,7 @@ url: "www.righttoys.in"
 ---
 
 .Normal
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 H1
 margin:0.0pt;
 margin-top:0.0pt;
@@ -47,7 +47,7 @@ color:Black;
 font-weight:bold;
 
 .BodyText
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/southeastasia/philippines/tagumcity/the_new_chirst_the)
+[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
 
 Childhood days are the sweetest phases of the entire lifespan, and a childhood is simply unthinkable without toys. Kids have a separate mindset compared with the
 adults, and a major part of their mind is occupied with the thoughts of toys. Meeting this diverse requirement of toys is always a cliffhanger, and **RightToys.In **has just done that for your kids. Just a click at **www.righttoys.in **takes you to the genre of numerous gift
@@ -70,5 +70,3 @@ url: [www.righttoys.in](http://www.righttoys.in)
 address: 66 TU Block Pitampura
 
 email: righttoys2011@gmail.com
-
-[back to Shopping](..)

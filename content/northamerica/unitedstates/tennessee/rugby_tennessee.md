@@ -11,5 +11,3 @@ Non-profit Historic Rugby was formed in 1966 to begin restoring, preserving, pro
 
 **Contributors**
 July 28, 2005
-new
-by [jstephen](/member/jstephen)

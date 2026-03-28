@@ -7,5 +7,3 @@ Jackson travel has never been easier thanks to the many airline carriers offerin
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

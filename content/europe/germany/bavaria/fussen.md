@@ -1,8 +1,6 @@
 ---
 title: "Fussen"
 type: location
-latitude: 47.5676
-longitude: 10.699322
 ---
 
 We currently have no information about Fussen.

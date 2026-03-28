@@ -1,0 +1,4 @@
+---
+title: "Savona"
+type: location
+---

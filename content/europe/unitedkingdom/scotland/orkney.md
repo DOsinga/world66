@@ -1,0 +1,4 @@
+---
+title: "Orkney"
+type: location
+---

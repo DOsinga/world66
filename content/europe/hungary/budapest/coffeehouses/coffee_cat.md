@@ -13,8 +13,6 @@ Plain Croissant: 210Ft Pain au Chocolat: 250Ft www.coffeecat.hu
 
 **Contributors**
 March 16, 2011
-change
-by [simgor3](/member/simgor3)
 
 
 
@@ -27,5 +25,3 @@ url: [www.coffeecat.hu](http://www.coffeecat.hu)
 address: Bp. 1066 Ã“ utca 44
 
 email: coffeecat@coffeecat.hu
-
-[back to Coffee houses](..)

@@ -14,8 +14,6 @@ Prices at Tai Pai range from 12 to 16 soles ($4.00 to $5.35 in US dollars) for m
 
 **Contributors**
 February 13, 2008
-new
-by [approaching genius](/member/approaching_genius) (1 point)
 
 type: Chinese
 
@@ -30,5 +28,3 @@ tel: (042) 52 4393
 address: Jr. Rioja #252
 
 PriceOfMenu: Inexpensive
-
-[back to Eating Out](..)

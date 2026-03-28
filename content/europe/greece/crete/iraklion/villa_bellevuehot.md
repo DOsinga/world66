@@ -1,12 +1,8 @@
 ---
-title: "Villa Bellevue Hotel-Apts Travel Guide"
+title: "Villa Bellevue Hotel-Apts"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Hotel-apts is in Aghia Pelaghia Crete Greece.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Mon 19:12

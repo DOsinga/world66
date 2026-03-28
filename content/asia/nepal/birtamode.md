@@ -1,0 +1,4 @@
+---
+title: "Birtamode"
+type: location
+---

@@ -9,10 +9,7 @@ Omaha is the corporate headquarters and main residential campus of Boys Town. Bo
 
 The Omaha metropolitan area is also an active and diverse arts and entertainment base for the region. The city is home to the Bemis Center for Contemporary Arts, America's only major international urban artist colony. The Center regularly attracts artists from around the world. There is a professional symphony and opera company, as well as dozens of theaters and performing arts venues. The arts community welcomes everyone to participate in cultural activities. Also, The Omaha Community Playhouse is one of the most respected amateur theaters in the world.
 
-*Change history*
-Write up by [TheHaas](/member/thehaas) on 26 March 04
-
-Minor corrections by [hpharmsen](/member/hpharmsen) on 30 June 04
+Minor corrections on 30 June 04
 
 **all**
 

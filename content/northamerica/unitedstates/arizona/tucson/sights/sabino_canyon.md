@@ -33,5 +33,3 @@ tel: 520/749-2861
 url: [www.sabinocanyon.org](http://www.sabinocanyon.org/sabino.htm)
 
 address: Sabino Cyn Rd at Sunrise Dr
-
-[back to Sights](..)

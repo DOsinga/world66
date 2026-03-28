@@ -1,8 +1,6 @@
 ---
 title: "Moknine"
 type: location
-latitude: 35.628257
-longitude: 10.900133
 ---
 
 Moknine , the town in which is established POTTERY OF THE SAHEL, is in

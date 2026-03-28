@@ -25,5 +25,3 @@ url: [www.ritzcarlton.com](http://www.ritzcarlton.com)
 address: 4375 Admiralty Way (in the Ritz-Carlton) , Marina del Rey, CA
 
 PriceOfMenu: Dinner Entrees $28 - $45
-
-[back to Eating Out](..)

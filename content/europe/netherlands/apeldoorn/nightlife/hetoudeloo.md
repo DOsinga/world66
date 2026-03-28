@@ -18,5 +18,3 @@ address: P Joubertstraat 14
 tel: +31 (0)55 521 5531
 
 zipcode: 7315AV
-
-[back to Nightlife and Entertainment](..)

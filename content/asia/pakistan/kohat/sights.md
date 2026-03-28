@@ -24,3 +24,27 @@ Khushhal Garh is located on the way from Kohat to Islamabad, and it is a small s
 #### The Kohat Tunnel
 
 The Kohat tunnel is a long road tunnel that is located in the north province in Pakistan. It is also known as the Pak Japan Friendship tunnel, and it serves as an alternate route to the pass. This tunnel requires less time to get between Peshawar and also to Kohat, and also offers a number of interesting sites along the way including views of the mountains, rivers and wildlife that you can enjoy easily from the tunnel.
+
+**In village names there are alot of name Missing.as Shah Pur,Sur Gul,Baama,Kamar Dhandh,Suleman Talab,Burakha,Teen Thalaab,Zirree Gul Bandha ete,Jarma etc.please include these names also in the kohat village names list.**
+
+**i shall be thankful to you.**
+
+****
+
+**Shah Muhammad Afridi**
+
+### [Taimoor Khan](/asia/pakistan/kohat/sights/taimoor_khan)
+
+There are many other important villages in Kohat, like Sheik Khan, Kalo Chana Banda, Toug Bala & Payan, Usterzai, Nasrat khel, and a great college town.
+
+type: Hotspots
+
+
+
+tel: 03339637765
+
+openingHours: 10pm
+
+address: college town street no 14
+
+email: www.mr.khan89@yahoo.com

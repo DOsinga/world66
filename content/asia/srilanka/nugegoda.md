@@ -1,0 +1,4 @@
+---
+title: "Nugegoda"
+type: location
+---

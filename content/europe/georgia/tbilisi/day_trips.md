@@ -9,8 +9,6 @@ url: "www.concordtravel.ge"
 
 **Contributors**
 July 05, 2007
-new
-by [sergonunushyan](/member/sergonunushyan)
 
 ### [Khatuna](/europe/georgia/tbilisi/day_trips/khatuna_1)
 

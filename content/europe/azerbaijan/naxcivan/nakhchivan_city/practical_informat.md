@@ -23,5 +23,3 @@ The official newspapers of the Republic of Azerbaijan Yeni Azerbayjan, Khalg oth
 
 **Contributors**
 April 16, 2006
-change
-by [azerbaijan08](/member/azerbaijan08) (1 point)

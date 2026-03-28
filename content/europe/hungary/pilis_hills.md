@@ -1,9 +1,9 @@
 ---
-title: "Pilis Hills Travel Guide"
+title: "Pilis Hills"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Within an hour's car or bus drive of Budapest to the north-west are the well-forested Pilis Hills.
 
@@ -14,7 +14,3 @@ The Danube river is just to the north. The river forms the end point of perhaps 
 1. From Dobogoko to Domos via the Ramszakadek (ravine)
 
 2. From Pilisszentlaszlo to Visegrad.
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Sat 09:07

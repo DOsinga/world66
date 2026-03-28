@@ -14,5 +14,3 @@ type: Local
 
 
 PriceOfMenu: $1.50 -$2.00
-
-[back to Eating Out](..)

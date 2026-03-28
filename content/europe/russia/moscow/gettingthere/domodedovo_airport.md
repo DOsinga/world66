@@ -9,8 +9,6 @@ Go to their site. They have english version and there is very good "Airport Maps
 
 **Contributors**
 July 04, 2006
-new
-by [svetico](/member/svetico) (2 points)
 
 type: By Air
 
@@ -19,5 +17,3 @@ type: By Air
 
 
 url: [www.domodedovo.ru](http://www.domodedovo.ru)
-
-[back to Getting There](..)

@@ -1,9 +1,9 @@
 ---
-title: "Kihnu Island Travel Guide"
+title: "Kihnu Island"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Originally used by seal hunters and fishermen Kihnu is now a culturally
 significant and essentially matriarchal society. The women guard the
@@ -18,11 +18,3 @@ tourist
 information website of Estonia
 (http://www.visitestonia.com/en/articles/destinations/the-islands/kihnu)
 and at: http://www.kihnurand.ee/index.php?option=com_content&task=view&id=12&Itemid=26
-
-#### Contributors
-
-November 29, 2009 change by [meelisest](/member/meelisest)
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Tue 06:32

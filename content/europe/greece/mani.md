@@ -1,8 +1,6 @@
 ---
 title: "Mani"
 type: location
-latitude: 36.599502
-longitude: 22.423934
 ---
 
 The Mani is a region of Greece's southern Peleponneses. It has a unique history, people, and architcture.
@@ -23,14 +21,9 @@ Inner Mani is an arid and rough area of stone towered villages and long history.
 
 There are world class caves at Pirgos Dyru (just outside of Areopolis a few miles to the south) that justifiably attracts tourists from all over the world.
 
-*Change history*
-Orginal article by [nahaj](/member/nahaj) on 31 August 04
-
-Write up by [nahaj](/member/nahaj) on 31 August 04
+Write up on 31 August 04
 
 ## Destinations in Mani
 
 [Kardamili](/europe/greece/mani/kardamili)
 [Stoupa](/europe/greece/mani/stoupa)
-
--->

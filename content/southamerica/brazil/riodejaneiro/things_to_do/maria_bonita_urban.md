@@ -11,8 +11,6 @@ After going to the beach in Ipanema I had scheduled an appointment with **Maria 
 
 **Contributors**
 September 06, 2007
-new
-by [caroleartois](/member/caroleartois)
 
 type: Spa and Sauna
 
@@ -25,5 +23,3 @@ tel: (21)2513-4050
 url: [www.spamariabonita.com.br](http://www.spamariabonita.com.br)
 
 address: Rua Prudente de Moraes 729, Ipanema
-
-[back to Things to do](..)

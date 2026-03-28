@@ -47,5 +47,3 @@ Several autoroutes crisscross the north, connecting the channel ports with Lille
 
 **Contributors**
 December 24, 2009
-new
-by [kimerly](/member/kimerly)

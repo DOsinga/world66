@@ -21,5 +21,3 @@ Fridays - Vigo and Portugal
 
 **Contributors**
 April 14, 2005
-change
-by [euroadventures](/member/euroadventures)

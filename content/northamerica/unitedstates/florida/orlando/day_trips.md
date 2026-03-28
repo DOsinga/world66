@@ -32,18 +32,4 @@ Historical St.
 Augustine is less than three hours from the city of Orlando and makes a great day trip. It does
 not cost anything to wander around St. Augustine,
 the oldest city in the United States. This famous city features buildings
-dating back to 1703. St. Augustine is quaint and cozy. It is best
-enjoyed on foot. There are many historical landmarks, shops, restaurants and a
-beach close to the center of town.**
-
-Brighthouse Baseball Field**
-
-If you are luck enough to be in Orlando
-during spring training, take a day trip to Clearwater,
-Florida. Only 2.5 hours away from Orlando
-is Major League Baseball heaven. Get tickets for a game and see Brighthouse
-Field. If you want to get some
-autographs get to the game early. If
-you’re hungry, drop into famous Lenny’s restaurant for a bite to eat. It’s
-known for being a favorite with the broadcasters and the players. Also in Clearwater, Florida
-is a wonderful beach and The Salvador Dali Museum.
+dating

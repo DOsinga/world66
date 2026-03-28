@@ -12,11 +12,7 @@ culture that has evolved around it.
 
 **Contributors**
 December 20, 2005
-change
-by [reen](/member/reen)
 
 
 
 date: First Sunday in March, every year
-
-[back to Festivals](..)

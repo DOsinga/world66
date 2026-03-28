@@ -12,8 +12,6 @@ Food / Cabo
 
 **Contributors**
 November 03, 2006
-change
-by [jhyatt](/member/jhyatt)
 
 ### [Private Chef services](/northamerica/mexico/cabosanlucas/eating_out/private_chef_servi)
 

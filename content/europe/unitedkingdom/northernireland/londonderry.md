@@ -1,7 +1,9 @@
 ---
-title: "Londonderry Travel Guide"
+title: "Londonderry"
 type: location
 ---
+
+Travel Guide
 
 Known as ***Londonderry*** in Britain or just ***Derry*** in Ireland, the second city of Northern Ireland (and fourth largest in the whole of Ireland) is an old 6th century walled city. The walls which date from the 17th century are still complete and measure 1 mile (2km) in circumference, and stand six metres thick and six metres high in parts. These walls withstood a siege in 1689 which lasted 105 days (the longest siege Ireland, also longer than any in Britain) during which 8000 of the inhabitants died, but the walls were never breached hence the city's nickname: the Maiden City. You can now walk these walls, admission is free.
 

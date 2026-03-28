@@ -35,5 +35,3 @@ tel: 082 446 1157
 address: janinel@tiscali.co.za
 
 email: janinel@tiscali.co.za
-
-[back to Getting Around](..)

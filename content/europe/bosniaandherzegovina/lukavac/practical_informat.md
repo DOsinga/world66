@@ -12,5 +12,3 @@ Internet Cafes :
 
 **Contributors**
 May 19, 2007
-change
-by [ostraq](/member/ostraq)

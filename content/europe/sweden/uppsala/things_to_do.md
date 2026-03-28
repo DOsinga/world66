@@ -9,5 +9,3 @@ not to be missed.
 
 **Contributors**
 October 19, 2005
-change
-by [matsu](/member/matsu)

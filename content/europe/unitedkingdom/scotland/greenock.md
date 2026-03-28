@@ -1,0 +1,4 @@
+---
+title: "Greenock"
+type: location
+---

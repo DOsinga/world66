@@ -20,5 +20,3 @@ url: [www.ergtours.com](http://www.ergtours.com)
 address: 220 Av Mohamed V-Guéliz-Marrakech
 
 email: info@ergtours.com
-
-[back to Day Trips](..)

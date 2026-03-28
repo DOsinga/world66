@@ -4,6 +4,3 @@ type: poi
 ---
 
 Adjacent to the pantheon, this statue is a gem of Bernini's. A small elephant, brillinatly carved and very realistic carries an Egyptian oblilesk on its back.
-
-*Change history*
-Orginal article by [SCramer](/member/scramer) on 03 May 04

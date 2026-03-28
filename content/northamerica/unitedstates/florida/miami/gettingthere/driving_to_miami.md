@@ -8,13 +8,5 @@ Driving to Miami is very simple. Driving in Miami is not. I-75 will take you to 
 
 **Contributors**
 May 31, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: By Road
-
-
-
-
-
-[back to Getting There](..)

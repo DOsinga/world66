@@ -19,9 +19,3 @@ The last stop of this trip is [Kotor](/europe/montenegro/kotor). You'll have one
 
 **Contributors**
 July 08, 2006
-new
-by [svetico](/member/svetico) (4 points)
-
-
-
-[back to Day Trips](..)

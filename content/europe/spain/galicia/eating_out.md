@@ -36,6 +36,3 @@ finish up with this short glimpse at the Galician cuisine, some
 products must be called to mind: the rich fresh cheeses , the exquisite
 confectionery and the filloas (a kind of pancake) , the most original
 and delicious dessert that can be tasted in our land.
-
-**Change history**
-Minor corrections by [EuroAdventures](/member/euroadventures) on 06 April 05

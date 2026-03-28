@@ -24,13 +24,9 @@
     <nav class="top-nav">
       <ul>
         <li><a href="/" class="{% block nav_home %}{% endblock %}"><span>W66 Home</span></a></li>
-        <li><a href="/europe"><span>Europe</span></a></li>
-        <li><a href="/asia"><span>Asia</span></a></li>
-        <li><a href="/africa"><span>Africa</span></a></li>
-        <li><a href="/northamerica"><span>North America</span></a></li>
-        <li><a href="/southamerica"><span>South America</span></a></li>
-        <li><a href="/australiaandpacific"><span>Oceania</span></a></li>
-        <li><a href="/centralamericathecaribbean"><span>Caribbean</span></a></li>
+        {% for continent, kids in continents %}
+        <li><a href="{{ continent.get_absolute_url }}"><span>{{ continent.title }}</span></a></li>
+        {% endfor %}
       </ul>
       <button class="mobile-menu-btn" aria-label="Menu">&#9776;</button>
     </nav>
@@ -51,7 +47,6 @@
       <a href="https://creativecommons.org/licenses/by-sa/1.0/" class="cc-badge" title="Creative Commons BY-SA 1.0">CC</a>
       <p>This work is licensed under a <a href="https://creativecommons.org/licenses/by-sa/1.0/">Creative Commons Attribution-ShareAlike 1.0</a> license.</p>
     </div>
-    <p class="footer-meta">World66 was created by <a href="https://oberon.nl">Oberon Medialab</a> in 1999. Restored from the <a href="https://web.archive.org/web/*/world66.com">Wayback Machine</a>, 2026.</p>
   </footer>
 
 </div>

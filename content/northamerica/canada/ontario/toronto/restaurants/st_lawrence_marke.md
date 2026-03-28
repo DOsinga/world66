@@ -1,6 +1,6 @@
 ---
 title: "St. Lawrence Market"
-type: location
+type: poi
 type: "Local"
 url: "www.stlawrencemarket.com"
 ---
@@ -9,7 +9,5 @@ A hidden treasure of amazingingly good and affordable food the St. Lawrence mark
 
 **Contributors**
 June 26, 2005
-new
-by [the_influence](/member/the_influence) (1 point)
 
 type: Local

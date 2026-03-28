@@ -7,8 +7,6 @@ email: "flowers2nikolaev@gmail.com"
 phone: "+380637740664"
 type: "Speciality shops"
 url: "flowers2nikolaev.com"
-latitude: 48.761006
-longitude: 44.526803
 ---
 
 [Flowers delivery](/europe/ukraine/nikolaev/shopping) to Nikolaev

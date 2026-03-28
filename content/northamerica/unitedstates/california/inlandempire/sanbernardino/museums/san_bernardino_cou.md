@@ -6,8 +6,6 @@ email: "museum@sbcounty.gov"
 opening_hours: "see text"
 phone: "(909) 307-2669"
 url: "www.co.san-bernardino.ca.us"
-latitude: 34.068221
-longitude: -117.222693
 ---
 
 The
@@ -38,8 +36,6 @@ and Jan. 1
 
 **Contributors**
 December 05, 2005
-change
-by [handyman321](/member/handyman321)
 
 
 
@@ -54,5 +50,3 @@ url: [www.co.san-bernardino.ca.us](http://www.co.san-bernardino.ca.us/museum/)
 address: 2024 Orange Tree Lane, Redlands, California 92374
 
 email: museum@sbcounty.gov
-
-[back to Museums](..)

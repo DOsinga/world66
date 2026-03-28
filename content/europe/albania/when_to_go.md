@@ -19,5 +19,3 @@ Summer in Albania is the height of their tourist season and despite the crowds c
 
 **Contributors**
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

@@ -12,8 +12,6 @@ Sylvia’s is hands down the best soul food restaurant in the city of New York, 
 
 **Contributors**
 May 18, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: Local
 
@@ -28,5 +26,3 @@ url: [www.sylviassoulfood.com](http://www.sylviassoulfood.com)
 address: 328 Lenox Avenue, Harlem
 
 email: info@sylviasrestaurant.com
-
-[back to Eating Out](..)

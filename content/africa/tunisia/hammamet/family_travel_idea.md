@@ -17,9 +17,5 @@ If you decide to stay close to your hotel, there are other options. A trip to th
 
 **Contributors**
 December 26, 2009
-change
-by [turkeyfish](/member/turkeyfish)
 
 January 19, 2010
-change
-by [sequoia maner](/member/sequoia_maner)

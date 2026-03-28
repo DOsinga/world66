@@ -71,5 +71,3 @@ evening. In addition to pizza,Hortitsa offers a wide variety of authentic Ukrain
 
 **Contributors**
 February 10, 2010
-new
-by [cjr236](/member/cjr236)

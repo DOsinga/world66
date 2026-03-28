@@ -8,7 +8,3 @@ Only a few steps away from Piazza dei Miracoli (down Via Santa Maria and the lef
 address: Piazza Cavallotti 14
 
 tel: +39 (0)50 - 55 34 69
-
-[back to Eating Out](..)
-
--->

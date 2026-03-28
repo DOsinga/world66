@@ -17,5 +17,3 @@ tel: 0206209338
 url: [www.cocktailworkshop.nl](http://www.cocktailworkshop.nl)
 
 email: info@cocktailworkshop.nl
-
-[back to Tours and Excursions](..)

@@ -27,5 +27,3 @@ This is a 1-day excursion that you will never forget. The Rijksmuseum is the lar
 
 **Contributors**
 March 20, 2010
-change
-by [turkeyfish](/member/turkeyfish)

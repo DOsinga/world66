@@ -5,8 +5,6 @@ address: "Krausnickstr. 23"
 email: "mail@ramonesmuseum.com"
 opening_hours: "8.30 am - 6 pm,"
 url: "www.ramonesmuseum.com"
-latitude: 52.524857
-longitude: 13.395798
 ---
 
 **We made it. After one year of negotiating our options we finally have a new home in Berlin-Mitte. Find us here:**
@@ -63,5 +61,3 @@ url: [www.ramonesmuseum.com](http://www.ramonesmuseum.com)
 address: Krausnickstr. 23
 
 email: mail@ramonesmuseum.com
-
-[back to Museums](..)

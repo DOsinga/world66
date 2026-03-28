@@ -1,9 +1,9 @@
 ---
-title: "Belgrade Travel Guide"
+title: "Belgrade"
 type: location
 ---
 
-The best resource for sights, hotels, restaurants, bars, what to do and see
+Travel Guide
 
 Belgrade is back on the tourist track! After the war and the Milosevic years that followed it, Serbia is opening up to foreign travelers with Belgrade beeing right on the main road crossing from Central Europe to the Balkans. It is located on Sava and Danube banks which makes it very popular tourist destination for rivership cruisers.
 
@@ -21,14 +21,5 @@ Just next to **Knez Mihailova **street stands the **Republic Square **boasting t
 
 **Ada Ciganlija**, Belgrade 's most popular city beach, is great place to relax during hot summer days. It is only 4 km far from city center. You can enjoy swimming in lake made by Sava river, or have a water skiing. Ada has various sport playgrounds for volleyball, basketball, football and even golf. You can always take a break in Ada's nice by the water cafes.
 
-#### Contributors
-
-November 21, 2006 change by [neron](/member/neron) (2 points)
-
 More information on
 *Belgrade Travel*
-at **Wikitravel.org**
-
-Additional travel guides are available in ten languages at [**Wikitravel.org**](http://wikitravel.org)
-
-Page last generated on Fri 19:07

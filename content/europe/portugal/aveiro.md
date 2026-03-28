@@ -1,7 +1,9 @@
 ---
-title: "Aveiro Travel Guide"
+title: "Aveiro"
 type: location
 ---
+
+Travel Guide
 
 Aveiro is a beautiful city, located just an hour away from [Porto](/europe/portugal/oporto). This small city has much to offer including lovely untouched beaches where you can just get away in 10 minutes from the city.
 
@@ -12,5 +14,3 @@ To really enjoy Aveiro, I suggest you also try "ovos moles" as this is the origi
 Walking along the oceanside at Barra, you'll end up coming to a tall lighthouse, actually the tallest lighthouse in the Iberian Peninsula built during 1885 to 1893.
 
 For anyone wanting to get away from the big city, but wanting to capture a bit of Portuguese modern culture, Aveiro is the place to visit.
-
-*Part or or all of this text stems from the original article at: Sandra Braganca*

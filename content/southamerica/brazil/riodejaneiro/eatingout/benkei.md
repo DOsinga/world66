@@ -17,5 +17,3 @@ type: Japanese
 url: [www.benkei.com.br](http://www.benkei.com.br)
 
 address: Av. Henrique Dumont
-
-[back to Eating Out](..)

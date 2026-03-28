@@ -7,9 +7,6 @@ There are a plethora of great restaurants in town. Some of the best and trendies
 
 If you're interesting in getting out of town a bit to find somewhere to eat, In the north end of town just off I-25 is Dickey's Barbecue, a Southwest favorite. With pretty much any type of meat you could want soaked in their famous barbecue sauce, Dickey's has great food for those who like a good piece of meat.
 
-*Change history*
-Minor corrections by [Robb](/member/robb) on 23 March 04
-
 ## Categories
 
 [Continent](/northamerica/unitedstates/newmexico/albuquerque/eatingout?subsection=Continent)

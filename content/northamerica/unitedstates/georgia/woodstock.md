@@ -1,0 +1,4 @@
+---
+title: "Woodstock"
+type: location
+---

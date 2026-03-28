@@ -21,5 +21,3 @@ It is well known that the German autbobahns have no speed limit, but there is on
 
 **Contributors**
 March 21, 2010
-new
-by [damiandavilarojas](/member/damiandavilarojas)

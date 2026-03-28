@@ -17,5 +17,3 @@ The other side of the river is mainly residential, but an interesting place to w
 
 **Contributors**
 August 25, 2006
-new
-by [maykal](/member/maykal) (4 points)

@@ -11,9 +11,3 @@ Inka Magik offers alternative 4 day eco ******Inca Trail****** routes to ******M
 There are also 10 day adventure tours as well as tailor made tours for small groups on offer, the latter is organized through local artisan groups and a locally owned community tourist agency. This means that the local community benefits from the tourism and the travellers gain a real insight into Peruvian life as well as having the opportunity to visit a hidden side to the country.
 
 type: Trekking
-
-
-
-
-
-[back to Things to do](..)

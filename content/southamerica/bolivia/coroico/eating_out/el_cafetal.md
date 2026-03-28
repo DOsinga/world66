@@ -10,13 +10,5 @@ Open every day for lunch and dinner, ac cept on Tuesdays .
 
 **Contributors**
 January 13, 2007
-new
-by [joosts](/member/joosts) (2 points)
 
 type: French
-
-
-
-
-
-[back to Eating Out](..)

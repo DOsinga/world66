@@ -11,8 +11,6 @@ If you’re hungry for some simple but hearty American fare for only a few bucks
 
 **Contributors**
 May 21, 2008
-change
-by [mcburton](/member/mcburton)
 
 type: American
 
@@ -25,5 +23,3 @@ tel: 702-898-3525
 url: [www.rainbowbarandgrillv.com](http://www.rainbowbarandgrillv.com)
 
 address: 4480 Paradise Road
-
-[back to Eating Out](..)

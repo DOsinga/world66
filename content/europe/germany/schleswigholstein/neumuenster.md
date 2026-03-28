@@ -1,0 +1,4 @@
+---
+title: "Neumuenster"
+type: location
+---

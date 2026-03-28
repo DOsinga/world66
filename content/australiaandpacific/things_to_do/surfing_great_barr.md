@@ -31,5 +31,3 @@ type: Surfing
 url: [www.first-class-dirt-cheap-vacation.com](http://www.first-class-dirt-cheap-vacation.com/surfing-great-barrier-reef.html)
 
 email: bjay_home@yahoo.com
-
-[back to Things to do](..)

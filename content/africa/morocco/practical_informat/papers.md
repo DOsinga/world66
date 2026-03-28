@@ -10,8 +10,6 @@ url: "www.moroccotimes.com"
 
 **Contributors**
 December 25, 2005
-new
-by [omar.filali](/member/omar.filali)
 
 type: Libraries, books and papers
 
@@ -20,5 +18,3 @@ type: Libraries, books and papers
 url: [www.moroccotimes.com](http://www.moroccotimes.com/)
 
 address: editors@moroccoTimes.com
-
-[back to Practical Information](..)

@@ -5,8 +5,6 @@ address: "Cordoba"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
-latitude: 37.884581
-longitude: -4.776014
 ---
 
 Half-day guided walking tour to visit Cordoba’s Mosque (La Mezquita) and Jewish quarter, walk the Calle de los Judios (Street of the Jews) to the ancient synagogue and then the Alcazar…
@@ -17,5 +15,3 @@ The Alcazar was constructed as the residence of the Cordovan caliph and thereaft
 
 **Contributors**
 January 26, 2005
-new
-by [euroadventures](/member/euroadventures) (1 point)

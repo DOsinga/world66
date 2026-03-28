@@ -15,13 +15,9 @@ pavement.
 
 **Contributors**
 February 13, 2009
-new
-by [crotraveller](/member/crotraveller)
 
 type: Squares
 
 
 
 url: [croatia.valamar.com](http://croatia.valamar.com/porec/marafor-and-the-towers-of-porec/)
-
-[back to Sights](..)

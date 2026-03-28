@@ -33,8 +33,6 @@ flow freely.
 
 **Contributors**
 October 16, 2005
-new
-by [suerreal](/member/suerreal)
 
 type: Other
 
@@ -49,5 +47,3 @@ url: www.marigalante.com.mx
 address: Paseo Diaz Ordaz No. 770-21
 
 email: info@marigalante.com.mx
-
-[back to Things to do](..)

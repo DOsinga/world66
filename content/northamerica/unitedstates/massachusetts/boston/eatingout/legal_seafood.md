@@ -11,8 +11,6 @@ It may be a chain, but its a staple Boston establishment. Legal has several loca
 
 **Contributors**
 February 08, 2007
-new
-by [amptravel](/member/amptravel) (2 points)
 
 type: Seafood
 
@@ -23,5 +21,3 @@ url: [legalseafoods.com](http://legalseafoods.com)
 address: various locations around the city
 
 PriceOfMenu: $30 per head (w/o alcohol)
-
-[back to Eating Out](..)

@@ -5,10 +5,7 @@ type: section
 
 Belize is rich with natural beauty and cultural sites. From the Blue Hole to Xunantunich the diversity of options for exlploration is nearly limitless.
 
-*Change history*
-Orginal article by [seth](/member/seth) on 06 June 04
-
-Write up by [seth](/member/seth) on 06 June 04
+Write up on 06 June 04
 
 **all**
 

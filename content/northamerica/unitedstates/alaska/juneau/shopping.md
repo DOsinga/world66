@@ -7,5 +7,3 @@ If you want to do some Juneau shopping while on vacation, check out the Nugget M
 
 **Contributors**
 May 25, 2009
-new
-by [annc](/member/annc)

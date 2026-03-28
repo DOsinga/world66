@@ -1,0 +1,4 @@
+---
+title: "Hamriya"
+type: location
+---

@@ -15,6 +15,4 @@ The church of St. John the Baptist is one of the foremost buildings in all of Ti
 
 **Teleki-Bolyai Library**
 
-The Teleki-Bolyai Library is both one of the cultural centers and one of the most-happening places in Tirgu Mures. It serves as both a museum and an active public library, with architecture dating back to the turn of the 19th century. It contains one of the most active collections of Hungarian artifacts in the area, and the outside of the building is adorned with monuments to great Romanian and Hungarian intellectual figures.
-
-Additionally, many people choose to explore outside of Tirgu Mures while staying there. It's a short distance to some of the most picturesque and famous medieval castles in the area, including Count Dracula's. You can also reach the coast of the Black Sea within a day's time, and this serves as a great way of getting some outdoor activity while seeing a beautiful and inexpensive part of the country.
+The Teleki-Bolyai Library is both one of the cultural centers and one of the most-happening places in Tirgu Mures. It serves as both a museum and an active public library, with architecture dating

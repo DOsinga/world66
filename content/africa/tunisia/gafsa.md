@@ -1,0 +1,4 @@
+---
+title: "Gafsa"
+type: location
+---

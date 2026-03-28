@@ -72,6 +72,8 @@ address, phone, url, email, opening_hours, closing_time, price, admission, isbn,
 
 Your role is to improve this travel guide. The content was originally written by travelers between 1999 and 2018, then restored from the Wayback Machine. Much of it is outdated. Research destinations and update or add content.
 
+**Read [STYLE.md](STYLE.md) before writing.** It defines the voice, tone, and structure of World66 content.
+
 ### Workflow
 
 Fork → edit markdown → open a PR.

@@ -3,68 +3,31 @@ title: "People"
 type: section
 ---
 
-For the people of Myanmar  The SLORC controls the country with an iron fist. Even today a lot of people are forced to work for the government. Human rights are violated constantly, so don't bring people into trouble by not paying taxes, talking politics, crossing borders without permit...
+Myanmar is an extraordinarily diverse country. The Bamar (Burman) majority accounts for roughly 68% of the population, but more than 130 ethnic groups live within the country's borders, many of them with their own languages, traditions, and, in some cases, armed organisations. The Shan, Karen, Rakhine, Kachin, Chin, Mon, and Kayah peoples are the largest groups after the Bamar.
 
-          
+This ethnic diversity has been a source of conflict throughout Myanmar's modern history. The current civil war is not simply a military junta versus pro-democracy forces; it also involves numerous ethnic armed organisations that have fought for autonomy for decades. The Rohingya, a Muslim minority in Rakhine State, experienced mass displacement and atrocities in 2017 that were described by UN investigators as genocide.
 
-**Population:** 47 305 319 (July 1998 est.)
+The majority of Bamar and many ethnic groups are Theravada Buddhist. Buddhism is deeply woven into daily life — monasteries are central to communities, monks are respected figures, and most men spend time as a novice monk at some point. About 4% of the population is Christian (concentrated among Karen and Kachin groups), and a small Muslim minority exists, concentrated in Rakhine and Yangon.
 
-**Age structure:**
+**Religion in practice**
 
-*0-14 years:* 36% (male 8 798 474; female 8 461 791)
+You'll encounter it everywhere. Pagodas rise on every hill, shrines appear at roadsides, and monks in saffron robes are a constant presence. Remove shoes before entering any pagoda or monastery — this is non-negotiable. Dress modestly: shoulders and knees covered for both men and women. The head is sacred; don't touch anyone's head. The feet are considered base; don't point them at people, images of the Buddha, or monks.
 
-*15-64 years:* 59% (male 14 052 386; female 14 019 244)
+**Manners**
 
-*65 years and over:* 5% (male 888 773; female 1 084 651) (July 1998 est.)
+Burmese social culture values composure and politeness. Raising your voice or showing frustration achieves nothing and creates awkwardness. Stay calm and things generally work out. A smile goes a long way.
 
-**Population growth rate:** 1.65% (1998 est.)
+**Language**
 
-**Birth rate:** 28.96 births/1 000 population (1998 est.)
+Burmese (Myanmar) is the official language, spoken as a first language by about 70% of the population. It's a tonal language with its own script and is genuinely difficult for outsiders to pick up quickly. English is spoken in tourist areas, by many guesthouse and restaurant staff, and by the educated urban population — better than in much of the region. A few words of Burmese earn real appreciation:
 
-**Death rate:** 12.51 deaths/1 000 population (1998 est.)
+- *Mingalaba* — Hello
+- *Kyay zu tin ba deh* — Thank you
+- *Hoke ke* — Yes
+- *Ma hoke bu* — No
+- *Beh lauk le?* — How much?
+- *Khwin pyu ba* — Sorry / excuse me
 
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
+**Population**
 
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.82 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 78.35 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 54.51 years
-
-*male:* 53.03 years
-
-*female:* 56.08 years (1998 est.)
-
-**Total fertility rate:** 3.7 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Burmese (singular and plural)
-
-*adjective:* Burmese
-
-**Ethnic groups:** Burman 68% Shan 9% Karen 7% Rakhine 4% Chinese 3% Mon 2% Indian 2% other 5%
-
-**Religions:** Buddhist 89% Christian 4% (Baptist 3% Roman Catholic 1%) Muslim 4% animist beliefs 1% other 2%
-
-**Languages:** Burmese minority ethnic groups have their own languages
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 83.1%
-
-*male:* 88.7%
-
-*female:* 77.7% (1995 est.)
+Approximately 54 million people (2023 estimate). Life expectancy has improved considerably since the 1990s figures but remains lower than regional neighbours, partly due to limited healthcare access. The literacy rate is around 89%.

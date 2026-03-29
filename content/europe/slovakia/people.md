@@ -3,56 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 5 392 982 (July 1998 est.)
+Slovakia has a population of about 5.4 million. Slovaks make up around 80% of the population, with a significant Hungarian minority (about 8%) concentrated in the south along the Hungarian border. Smaller Roma, Czech, Ruthenian, and Ukrainian communities add to the mix.
 
-**Age structure:**
+The majority of Slovaks are Roman Catholic (around 60%), and the church remains influential, particularly in rural areas and eastern Slovakia. Protestant communities exist mainly in the central and northern regions. Eastern Slovakia has a small Greek Catholic population with beautiful wooden churches, several of which are UNESCO World Heritage Sites.
 
-*0-14 years:* 21% (male 570 515; female 546 088)
+Slovaks tend to be reserved with strangers but warm up quickly. Hospitality is important -- if invited to someone's home, bring flowers or a bottle of wine. Remove your shoes at the door. Expect to be well fed and offered slivovica.
 
-*15-64 years:* 68% (male 1 819 831; female 1 845 800)
+The divide between western and eastern Slovakia is noticeable. Bratislava feels cosmopolitan and Western-oriented. The east is more traditional, more rural, and more connected to folk traditions. The folk culture of eastern Slovakia -- embroidered costumes, wooden churches, Easter customs -- is alive and practiced rather than preserved as museum exhibits.
 
-*65 years and over:* 11% (male 235 926; female 374 822) (July 1998 est.)
-
-**Population growth rate:** 0.08% (1998 est.)
-
-**Birth rate:** 9.96 births/1 000 population (1998 est.)
-
-**Death rate:** 9.48 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.33 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.98 male(s)/female
-
-*65 years and over:* 0.62 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 9.73 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 73.19 years
-
-*male:* 69.41 years
-
-*female:* 77.15 years (1998 est.)
-
-**Total fertility rate:** 1.27 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Slovak(s)
-
-*adjective:* Slovak
-
-**Ethnic groups:** Slovak 85.7% Hungarian 10.7% Gypsy 1.5% (the 1992 census figures underreport the Gypsy/Romany community which could reach 500 000 or more) Czech 1% Ruthenian 0.3% Ukrainian 0.3% German 0.1% Polish 0.1% other 0.3%
-
-**Religions:** Roman Catholic 60.3% atheist 9.7% Protestant 8.4% Orthodox 4.1% other 17.5%
-
-**Languages:** Slovak (official) Hungarian
-
-**Literacy:** NA
+Slovak and Czech are mutually intelligible, and older generations remember the shared Czechoslovak state fondly. Relations with Hungary can be more complicated, a legacy of centuries of Hungarian rule over Slovakia. These tensions occasionally surface in politics but are unlikely to affect travelers.

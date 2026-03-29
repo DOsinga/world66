@@ -1,35 +1,14 @@
 ---
 title: "Festivals"
 type: section
-address: "Gun-Galuut Nature Reserve Mongolia"
-date: "September 17-18 annually"
-email: "sales@selenatravel.com"
-phone: "976-9909-0087"
-url: "www.selenatravel.com"
 ---
 
-**Mongolian National Sports - The Naadam**
+Mongolia's festivals are among the most spectacular in Asia. Two in particular are worth planning a trip around.
 
-Wrestling, archery and horse-racing are the Three Games of Men, which are rooted in antiquity and continue to be very popular among the Mongols today.
+**Naadam** is the national festival, held in Ulaanbaatar on July 11–13 to mark Mongolia's independence. The centerpiece is the Three Games of Men — wrestling, horse racing, and archery. The wrestling takes place in an indoor stadium and goes on for days, with hundreds of competitors and elaborate titles awarded: nachin (falcon), zaan (elephant), arslan (lion), and the highest, avarga (titan). Horse racing happens on open steppe outside the city, with children aged five to twelve as jockeys, racing distances of 15 to 30 kilometres. Archery is contested by both men and women. Smaller Naadam festivals take place in towns and provinces throughout early July — if you can't get to Ulaanbaatar, the provincial versions are less crowded and often more atmospheric.
 
-**Mongolian Wrestling**
+**The Golden Eagle Festival** takes place the first weekend of October in Olgii, the capital of Bayan-Olgii province in western Mongolia. Kazakh eagle hunters (berkutchi) compete with their trained golden eagles in speed, agility, and accuracy. The hunters ride in traditional dress, and the eagles are enormous — wingspans over two metres. It is one of the most photographed events in Central Asia, and deservedly so. Getting to Olgii requires a flight from Ulaanbaatar or an overland journey through dramatic mountain scenery. Book accommodation in Olgii well in advance.
 
-Wrestling is the most national and popular of all Mongol sports. It is the highlight of the Three Manly Games. Historians claim that Mongol-style wrestling originated some seven thousand years ago. Hundreds of wrestlers from different cities and aimags of the country take part in the national wrestling competition. There are no weight categories or age limits. Each wrestler has his own attendant herald. The aim of the sport is to knock one's opponent off balance and throw him down, making him touch the ground with his elbow and knee. The winners are honoured with ancient titles: the winner of the fifth round gets an honorary title of nachin (falcon), of the seventh and eighth rounds zaan (elephant), and of the tenth and eleventh rounds arslan (lion). The wrestler who twice absolute champion is awarded the title ofavarga (Titan). Every subsequent victory at the national Naadam-festival will add an epithet to his avarga title, like "Invicible Titan", "Invincible Titan to be remembered by all" etc. From in 2003 the Mongolian parliament adopted a new law on Naadam, making amendments to some of the wrestling titles. The titles of Garudi and Hartsaga (Hawk) were added to the existing above-mentioned titles.
+**Tsagaan Sar** (White Month) is the Mongolian Lunar New Year, usually falling in late January or February. It is primarily a family holiday — not particularly accessible to visitors — but in Ulaanbaatar you will notice the city empty out as everyone returns to their home region, and the weeks before are busy with buuz-making preparations.
 
-**Horse-Racing**
-
-Horse-racing is an important part of Naadam. This sport is also centuries old, dating The Nomads Day Festival annually starts on the 17th of September - the most blessed day of the Mongolian nomads, in Gun-Galuut Nature Reserve of Mongolia. This real tourism event is one of the most exciting cultural festivals of Mongolia and is the only event revives the traditional Mongolian nomadic culture and contributes a great for the this unique culture heritages.
-
-The festival is a big success preserving the wonderful Mongolian culture and involving the local nomads in the activities. The nomads show off with their unique traditions on the 2 days guiding the [more..](/asia/mongolia/festivals/nomads_day_festiva)
-
-
-
-tel: 976-9909-0087
-
-url: [www.selenatravel.com](http://www.selenatravel.com/the_nomads_day.html)
-
-date: September 17-18 annually
-
-address: Gun-Galuut Nature Reserve Mongolia
-
-email: sales@selenatravel.com
+**Ice Festival** on Lake Khovsgol runs for two or three days in February or March, when the lake freezes solid. Events include ice sports, dog sledding, horse races on the ice, and throat singing performances. A good reason to brave the cold.

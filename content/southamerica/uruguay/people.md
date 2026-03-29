@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 3 284 841 (July 1998 est.)
+Uruguay has a population of around 3.5 million, of whom roughly half live in or around [Montevideo](/southamerica/uruguay/montevideo). It is one of the most urbanised countries in South America and also one of the most homogeneous: the vast majority of Uruguayans are of European descent, predominantly Spanish and Italian, with smaller German, French, and British communities. Indigenous Amerindian populations were largely eliminated during the colonial period. The Afro-Uruguayan community, concentrated in Montevideo, makes up around 8% of the population and has had an outsized influence on music and culture, particularly through candombe drumming.
 
-**Age structure:**
+Uruguayan society is defined by a calm confidence and a strong sense of egalitarianism. There is little of the dramatic wealth gap visible in neighbouring Brazil or Argentina — Uruguay has long had a robust welfare state and public education system, legacies of early 20th-century reforms under President José Batlle y Ordóñez. Those reforms also separated church and state, making Uruguay the most secular country in the Americas; less than half the population identifies as religious, and public life is conspicuously free of religious influence.
 
-*0-14 years:* 24% (male 405 894; female 386 479)
+The country has been at the forefront of progressive social legislation in Latin America: same-sex marriage was legalised in 2013, as was the regulated sale of cannabis. Education is free and universal, and literacy rates are among the highest on the continent.
 
-*15-64 years:* 63% (male 1 019 682; female 1 048 844)
-
-*65 years and over:* 13% (male 176 467; female 247 475) (July 1998 est.)
-
-**Population growth rate:** 0.71% (1998 est.)
-
-**Birth rate:** 16.92 births/1 000 population (1998 est.)
-
-**Death rate:** 8.89 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.91 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 0.97 male(s)/female
-
-*65 years and over:* 0.71 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 14.11 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 75.53 years
-
-*male:* 72.39 years
-
-*female:* 78.84 years (1998 est.)
-
-**Total fertility rate:** 2.29 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Uruguayan(s)
-
-*adjective:* Uruguayan
-
-**Ethnic groups:** white 88% mestizo 8% black 4% Amerindian practically nonexistent
-
-**Religions:** Roman Catholic 66% (less than one-half of the adult population attends church regularly) Protestant 2% Jewish 2% nonprofessing or other 30%
-
-**Languages:** Spanish Portunol or Brazilero (Portuguese-Spanish mix on the Brazilian frontier)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 97.3%
-
-*male:* 96.9%
-
-*female:* 97.7% (1995 est.)
+Uruguayans tend to be reserved with strangers at first but warm once acquainted. *Tranquilidad* — a relaxed, unhurried approach to life — is a national trait. Don't mistake it for indifference. Offering and sharing *mate*, the ubiquitous herbal drink, is the primary social gesture; refusing is mildly rude.

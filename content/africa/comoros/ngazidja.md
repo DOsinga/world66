@@ -1,12 +1,18 @@
 ---
 title: "Ngazidja"
 type: location
+latitude: -11.7500
+longitude: 43.3333
 ---
 
-Referred to by the French as Grande Comore, Ngazidja is the most important of the Comoros and the site of Moroni, the capital city of the Republic. The island has an area of 442 square miles (1,146 square kilometers). The northern two-thirds of the island are dominated by a rocky plain known as La Grille. The southern third of the island is dominated by an active volcano, Karthala, which stands over 7700 feet (2361 meters) high. Karthala's crater is nearly a mile in diameter, making it the largest active crater in the world. Since 1857 there have been over a dozen eruptions with lava flows; the most extensive was that of 1918. The most recent serious eruption was in 1977.
+Known to the French as Grande Comore, Ngazidja is the largest and most populous of the Comoros islands, home to around 400,000 people and to Moroni, the national capital. It is the island most visitors see first, and for many it is the only one -- which is a pity, because the other islands are equally compelling. But Ngazidja has enough to justify several days.
 
- The island's over 200,000 inhabitants are predominantly descended from Arab and African ancestors. Agriculture on the island is generally limited to areas lower than 2,000 feet in altitude. Above this altitude is the remnants of a dense tropical forest (in the south) and an area of grassy plain (in the center and north). 
+The island is dominated by Mount Karthala, one of the world's largest active volcanoes, rising 2,361 meters from the southern third of the island. The crater is nearly a mile across. Karthala has erupted more than a dozen times since 1857, most recently in 2005 when ash fell on Moroni. The trek to the summit takes six to eight hours through tropical forest and volcanic scrub and is the signature outdoor adventure in the Comoros.
 
- European sailing ships stopped for provisions at Ngazidja as early as 1570 when the island was ruled by 12 sultans. Although each was independent of the others, they generally recognized a principal sultan, whose rights and responsibilities were primarily conciliatory in inter-regional disputes, and accorded him or her the title of Sultan Thibe. There was frequent conflict over the right to use this title, especially after the Europeans appeared on the scene, as these latter generally assumed that the title indicated sovereignty over the entire island. 
+The northern two-thirds of the island is a rocky volcanic plateau called La Grille, lower and drier than the south. Agriculture is limited to areas below about 600 meters, and the remnants of dense tropical forest survive mostly on the upper slopes of Karthala.
 
- The best documented of the conflicts between sultans is the long and complicated struggle between the rulers of the towns of Bambao and Itsandra during the nineteenth century. This eventually led to the establishment of a French protectorate over the island and the ceding of Ngazidja to France.
+Moroni's old medina is the cultural heart of the island -- a quarter of narrow alleys, carved doors, and whitewashed coral-stone buildings that feels more like coastal East Africa or the Arabian Peninsula than sub-Saharan Africa. The old Friday Mosque, dating to 1427, overlooks the harbor.
+
+Ngazidja is also the island where the *Grand Mariage* tradition is strongest. The anda ceremony is an elaborate, days-long wedding celebration that determines social status. A man who has not completed his Grand Mariage is excluded from village councils and serious decision-making. Families save for decades, and the celebrations are extraordinary to witness -- gold jewelry, feasting, music, and dancing that can last two weeks.
+
+The island's inhabitants are descended from a mix of Arab and African ancestors. Historically, Ngazidja was divided among twelve sultans, each controlling a different part of the island. Their complicated rivalries -- particularly the long struggle between the rulers of Bambao and Itsandra in the nineteenth century -- eventually led to French intervention and colonization.

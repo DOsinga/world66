@@ -1,0 +1,14 @@
+---
+title: "Highlights"
+type: section
+---
+
+**Mount Karthala** dominates [Ngazidja](/africa/comoros/ngazidja) and is one of the world's largest active volcanoes, rising 2,361 meters from the sea. The trek to the crater rim takes six to eight hours through dense tropical forest that thins into volcanic scrub and then bare lava fields. At the top, a crater nearly a mile across drops away beneath you. It is a serious hike -- you need a local guide, enough water, and good weather -- but the reward is standing on the edge of something genuinely wild. Karthala last erupted seriously in 2005, and the landscape around the summit is stark and otherworldly.
+
+**Moheli Marine Park** is the only marine protected area in the Comoros and one of the best reasons to visit. The waters around Moheli's southern coast shelter green sea turtles that nest on the beaches from November to March, humpback whales that pass through from July to October, dolphins, and coral reefs in excellent condition. Diving and snorkeling here are spectacular partly because you will likely be the only people in the water. The park is community-managed and low-key -- there are no crowds, no big resorts, just a few small lodges and a lot of ocean.
+
+**Moroni's medina** is the old Arab quarter of the capital, a maze of narrow alleys, carved wooden doors, and whitewashed walls that has more in common with Zanzibar or Lamu than with mainland Africa. The old Friday Mosque dates to 1427 and overlooks the harbor where traditional dhows still come and go. The medina is small enough to explore in an afternoon but atmospheric enough to linger. On Friday evenings the waterfront comes alive with families and food vendors.
+
+**Ylang-ylang plantations** are scattered across all three islands, and visiting a working distillery is one of the distinctive experiences of the Comoros. The yellow flowers of the ylang-ylang tree produce an essential oil used in perfumes worldwide, including famously Chanel No. 5. You can watch the distillation process, which has barely changed in a century -- flowers are picked at dawn and steamed in copper vats. The scent is extraordinary. The islands also produce vanilla and cloves, and the combination of these three gives Comorian villages a smell unlike anywhere else.
+
+**Diving off Moheli and Ngazidja** is world-class and virtually undiscovered. The drop-offs around Moheli are dramatic walls of coral descending into deep blue, and visibility is often thirty meters or more. Night dives here are exceptional. Around Ngazidja, volcanic rock formations create caves and channels teeming with marine life. The diving season runs from April to November, when seas are calmest and visibility is best. There are only a handful of dive operators in the entire country, so you will need to plan ahead, but the upside is that you will almost certainly have the reef to yourself.

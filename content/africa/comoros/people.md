@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 545 528 (July 1998 est.)
+The Comoros has a population of roughly 900,000, spread across three islands (not counting [Mayotte](/africa/comoros/mayotte), which has its own population of around 320,000 under French administration). The people are a blend of African, Arab, Malagasy, and to a lesser extent Indian and European ancestry, and this mix is visible everywhere -- in faces, food, architecture, and daily customs.
 
-**Age structure:**
+Nearly the entire population is Sunni Muslim, and Islam shapes daily life profoundly. The call to prayer marks the rhythm of the day, Ramadan is strictly observed, and the mosque is the center of community life. Comorian Islam is generally moderate and tolerant, with Sufi influences, though this has been changing somewhat in recent years with the arrival of more conservative interpretations.
 
-*0-14 years:* 43% (male 116 345; female 115 886)
+The dominant cultural institution, at least on [Ngazidja](/africa/comoros/ngazidja), is the *Grand Mariage* (anda) -- an elaborate wedding celebration that can last two weeks, involve the entire community, and cost a family tens of thousands of euros. Completing a Grand Mariage is the key to social status: men who have not done so are effectively excluded from village decision-making. Families save for decades, and many Comorians working abroad in France send money home specifically for this purpose. It is an extraordinary tradition to witness if you have the chance.
 
-*15-64 years:* 54% (male 146 655; female 150 612)
+Comorian (Shikomori) is the language of daily life, with each island speaking its own variant -- Shingazidja, Shimwali, Shindzwani, and Shimaore (on Mayotte). The languages are related to Swahili but distinct from it. French is the language of education and government, and Arabic is used in religious contexts. Comorians are often trilingual.
 
-*65 years and over:* 3% (male 7 644; female 8 386) (July 1998 est.)
-
-**Population growth rate:** 3.1% (1998 est.)
-
-**Birth rate:** 40.52 births/1 000 population (1998 est.)
-
-**Death rate:** 9.52 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.97 male(s)/female
-
-*65 years and over:* 0.91 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 84.54 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 60.36 years
-
-*male:* 57.95 years
-
-*female:* 62.84 years (1998 est.)
-
-**Total fertility rate:** 5.48 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Comoran(s)
-
-*adjective:* Comoran
-
-**Ethnic groups:** Antalote Cafre Makoa Oimatsaha Sakalava
-
-**Religions:** Sunni Muslim 86% Roman Catholic 14%
-
-**Languages:** Arabic (official) French (official) Comoran (a blend of Swahili and Arabic)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 57.3%
-
-*male:* 64.2%
-
-*female:* 50.4% (1995 est.)
+Hospitality is deeply rooted. Visitors are rare enough to be a genuine novelty, and you will often be invited for tea or food. Dress modestly, particularly in villages and around mosques. Women should cover shoulders and knees. During Ramadan, avoid eating or drinking openly during daylight hours. These courtesies matter and will be appreciated.

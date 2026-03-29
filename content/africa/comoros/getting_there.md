@@ -3,16 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+The Comoros has one international airport: Prince Said Ibrahim International Airport (HAH), located about five kilometers north of Moroni on [Ngazidja](/africa/comoros/ngazidja). It is a small airport with limited facilities.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+**From East Africa**, Ethiopian Airlines flies from Addis Ababa and Kenya Airways flies from Nairobi. These are the most frequent connections and the easiest way in from most of the world -- connect through Addis Ababa or Nairobi from wherever you are starting. Ethiopian Airlines has the most departures.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**From the Indian Ocean region**, Air Austral connects Moroni with Reunion, and there are flights to and from [Mayotte](/africa/comoros/mayotte) (Dzaoudzi), which is actually the most frequent route in and out of Moroni. If you are coming from Madagascar, there are connections through Mayotte or Nairobi.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+**From Europe**, there are no direct flights. The most practical routing is through Addis Ababa or Nairobi, or through Reunion and Mayotte if you are coming from Paris (Air Austral flies Paris-Reunion regularly).
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+**Visas** are available on arrival at the airport and cost 30-50 euros, payable in euros or US dollars. You need a passport valid for at least six months. The process is slow but straightforward.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+There are no passenger ferries connecting the Comoros to mainland Africa or Madagascar on any regular schedule. Occasional cargo boats make the crossing, but this is not a practical option for most travelers.

@@ -1,4 +1,0 @@
----
-title: "Jalapa"
-type: location
----

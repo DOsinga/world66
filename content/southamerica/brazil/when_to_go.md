@@ -1,22 +1,19 @@
 ---
-title: "When to Go in Brazil"
+title: "When to Go"
 type: section
 ---
 
-The travel season in Brazil takes place from December to March when the country becomes filled with both international travelers as well as vacationing nationals. Although prices do rise during this time, it is a great time to visit the country because it is a very festive time.
+Brazil is so large that no single answer fits the whole country. In general, April–June and August–October offer the best balance of manageable weather, lower prices, and smaller crowds.
 
-**Weather **
-Brazil’s low travel season is between May and September, with July being excluded, as it is the prime holiday month for families with school-age children. During this time, weather is warmer, but depending on your travel plans, you can still have an enjoyable trip.
+**Rio de Janeiro and the Southeast:** The hottest and most humid months are December–March, when temperatures regularly exceed 35°C and afternoon downpours are common. This is also Carnival season (February or March), so crowds and prices spike dramatically around that time. May–September is cooler and drier — and far more pleasant for sightseeing on foot.
 
-If you are planning on traveling to Rio, the heat and humidity will be especially high in the summer with temperatures hovering around 82 degrees F. October through January in Rio brings a lot of rain and cooler temperatures with an average of 73 degrees F and a mixture of both utterly rainy days as well as superb days.
+**The Northeast coast (Salvador, Recife, Fortaleza, Natal):** The northeast has a warm tropical climate year-round, with average temperatures around 28–30°C. The rainy season runs roughly December–July, though showers come and go quickly. The driest and sunniest months are August–November, making that the most reliable time for beach holidays in Bahia and Pernambuco.
 
-The northeast coast of Brazil, from Maranhao to Bahia, offers a climate characterized by more warmth year-round. With daily averages reaching 88 degrees F, this area enjoys a nice tropical breeze and much less humidity than other parts of the country. Here the rainy season runs about mid-December through to July, although many gorgeous days are had during this time as well.
+**The Amazon:** The Amazon is wet at any time of year. The main rainy season is December–May, when rivers flood and many roads become impassable. Counterintuitively, the high-water season (March–May) is popular with wildlife-watchers because you can canoe deep into the flooded forest; the low-water season (July–November) is better for hiking and seeing beaches on the riverbanks.
 
-If you are planning on visiting the Amazon, you will want to avoid the rainy season, as travel can become quite difficult. Here the rainy season takes place December through May. There is regular rain in the Amazon throughout the rest of the year as well, but when it is not the rainy season, showers only last for 1 or 2 hours.
+**The Pantanal:** Visit in the dry season (May–October) for serious wildlife watching — concentrations of animals around shrinking water sources make this one of the best wildlife destinations on earth. July and August are peak season. Avoid the wetlands January–April, when flooding makes much of the region inaccessible.
 
-Visiting the Pantanal should also be done when rainy season is not underway. Dry season here is mid-April to late September. Traveling in these wetlands any other time will be quite problematic because many roads are washed out from the intense rains.
-
-**Events **
-Carnival is by far the biggest and most well known festival of Brazil. Taking place in February or March, this national festival is celebrated throughout the country and is a great time to visit, if you plan ahead, as the crowds will be intense and most hotels booked well in advance.
-
-Other notable holidays celebrated in Brazil include Easter, Christmas, New Year's and Independence Day.
+**Key events:**
+- **Carnival** — February or March (exact dates vary by year). Rio's Sambadrome parade and Salvador's street parties are the most famous, but every city celebrates. Book accommodation months ahead.
+- **Festas Juninas** — June. Enormous folk-festival celebrations across the Northeast, especially in Caruaru and Campina Grande.
+- **New Year's Eve in Rio** — December 31. Millions gather on Copacabana beach for fireworks. Hotels sell out a year in advance.

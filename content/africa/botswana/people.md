@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 1 448 454 (July 1998 est.)
+Botswana has a population of around 2.4 million, small for a country the size of France. Most people live in the southeast, concentrated in and around [Gaborone](/africa/botswana/gaborone) and along the railway corridor to [Francistown](/africa/botswana/francistown). The rest of the country is remarkably empty.
 
-**Age structure:**
+The Tswana people make up the large majority and give the country its name -- Botswana means "land of the Tswana." There are eight principal Tswana groups, each historically associated with a region and a chief. Tswana culture values community, respect for elders, and the kgotla -- the traditional assembly where community decisions are debated openly. You may encounter a kgotla meeting in a village; they are a living tradition, not a performance.
 
-*0-14 years:* 42% (male 310 253; female 302 960)
+The San (also called Basarwa or Bushmen) are among the oldest peoples on earth, with a presence in southern Africa spanning tens of thousands of years. Their traditional hunter-gatherer way of life has been profoundly disrupted, and their status in modern Botswana is complex and sometimes contentious. Cultural tourism near [Ghanzi](/africa/botswana/ghanzi) and in the [Kalahari](/africa/botswana/kalaharidesert) provides some economic opportunity, though the relationship between the San and the state has a difficult history.
 
-*15-64 years:* 54% (male 370 925; female 409 941)
+Other significant groups include the Kalanga in the northeast, the Herero in the northwest (descended from refugees who fled German colonial violence in Namibia), and a small but economically influential community of Indian and white Batswana.
 
-*65 years and over:* 4% (male 20 637; female 33 738) (July 1998 est.)
-
-**Population growth rate:** 1.11% (1998 est.)
-
-**Birth rate:** 32.02 births/1 000 population (1998 est.)
-
-**Death rate:** 20.89 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.9 male(s)/female
-
-*65 years and over:* 0.61 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 59.29 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 40.09 years
-
-*male:* 39.46 years
-
-*female:* 40.75 years (1998 est.)
-
-**Total fertility rate:** 4.03 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Motswana (singular) Batswana (plural)
-
-*adjective:* Motswana (singular) Batswana (plural)
-
-**Ethnic groups:** Batswana 95% Kalanga Basarwa and Kgalagadi 4% white 1%
-
-**Religions:** indigenous beliefs 50% Christian 50%
-
-**Languages:** English (official) Setswana
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 69.8%
-
-*male:* 80.5%
-
-*female:* 59.9% (1995 est.)
+Batswana are generally reserved and polite. Greetings matter -- always say hello before getting to business. Handshakes are common, often with the left hand touching the right forearm as a sign of respect. The word "Rra" (sir) and "Mma" (madam) are used frequently and appreciated.

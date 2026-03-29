@@ -3,18 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-Botswana has one of the best transport and communication infrastructures in Southern Africa. Therefore, air, rail or road can access Botswana. There are five international airports with modern facilities.
+**Domestic flights.** Air Botswana and several charter companies connect [Gaborone](/africa/botswana/gaborone), [Maun](/africa/botswana/maun), Kasane, and [Francistown](/africa/botswana/francistown). Light aircraft charters are the standard way to reach remote delta lodges -- your lodge will arrange these. They are not cheap, but the flights over the [Okavango Delta](/africa/botswana/okavangodelta) are spectacular.
 
-  The main airports are Sir Seretse Khama International Airport located 15 km from Gaborone City centre and Maun International airport, which is the gateway to the famous Okavango Delta. The others are at Francistown, Kasane and Selebi Phikwe.
+**Driving.** The main highways (A1 from Gaborone to Francistown, A3 to Nata, A33 to Maun) are tarred and in good condition. Beyond the tarmac, roads are sand or gravel tracks. You need a 4x4 for the national parks, the delta approaches, the salt pans, and most of the [Kalahari](/africa/botswana/kalaharidesert). Self-driving in the bush requires good preparation -- carry extra fuel, water, tyre repair kits, and a GPS or detailed maps. Mobile phone reception disappears quickly outside towns. Driving is on the left.
 
-  AIRLINES
+**Car rental.** Available in Gaborone, Maun, and Francistown from Avis, Europcar, and local companies. For bush travel, rent a fully equipped 4x4 with camping gear -- companies like Bush Trackers and Travel Adventures Botswana specialise in this. Book well ahead for the dry season.
 
-  Air Botswana and South Africa Express Airways link Botswana with the rest of the world. The airlines commute in most of the regional centers. There are also several air charters within the country. The airlines operate convenient flights to and from the entire region's tourist centers.   Air Botswana, the nation's flag carrier flies to most of Botswana tourist spots like Maun, Chobe, Francistown and Selebi Phikwe.
+**Buses and combis.** Regular bus services run between major towns along the tarred highways. Combis (minibuses) are cheap and frequent on popular routes but can be crowded and do not run to fixed schedules. Neither buses nor combis serve the national parks or remote areas.
 
-  RAIL LINE
+**Hitchhiking.** Common among locals on rural routes but unreliable for long distances. Traffic is sparse on many roads.
 
-  The rail line between Ramatlabama in the South links the country with South Africa and Ramokgwebana in the north links Botswana with Zimbabwe. Botswana Railways services this network. 
-
- ROADS
-
-  Major roads leading to regional centers are tarred. With the liberalized transport sector in Botswana several car-hire companies and buses service the road transport industry in the country.
+**Within the delta.** Mokoros (traditional canoes), motorboats, and light aircraft are the main ways to move around. There are very few roads in the delta itself.

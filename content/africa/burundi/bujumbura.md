@@ -1,10 +1,16 @@
 ---
 title: "Bujumbura"
 type: location
+latitude: -3.3822
+longitude: 29.3644
 ---
 
-Bujumbura is the capital of Burundi. The city is located on the shores of Lake Tanganyika some ten km north of the place where Stanley and Livingston met and where Stanley spoke the famous words "Dr. Livingstone I presume?"
+Bujumbura is Burundi's largest city, its economic hub, and the place where almost every visitor to the country begins and ends. It sits on the northeastern shore of Lake Tanganyika, backed by steep green hills, and the setting is genuinely striking. The lake dominates the city's character -- warm, vast, and fringed with sandy beaches that feel improbable for a landlocked country.
 
-With a population of more than 300,000 inhabitants, it's a pretty busy place - or was sindce civil war broke out very few travelers' reports have reached us. The area was colonised by Germany at the end of the 19th century, and there is still architecture dating from that period of Burundi's history, including the Postmaster's House. Other attractions include three museums and the Islamic Cultural Centre. In the good days there are a number of cafés and restaurants along the lake shores. There used to be a colorful market, the best in the country. 
+The city served as Burundi's capital until 2019, when the government officially moved to [Gitega](/africa/burundi/gitega) in the interior. In practice, Bujumbura remains the center of gravity -- most embassies, businesses, and international organizations are still here.
 
- The Department of State warns U.S. citizens to defer travel to Burundi due to the uncertain security situation within Burundi and the surrounding Great Lakes region.  On the evening of December 4, 2000, two people were injured when a passenger flight was fired upon and hit by machine gun rounds as it was landing at Bujumbura's International Airport. Earlier that same day, a rebel faction released a press statement warning foreigners to leave Burundi for their safety.   Burundi has been involved in a civil war since 1993. Fighting can be intense and has increasingly involved attacks on the capital.
+The lakeside neighborhood is the most pleasant part of town, with a scattering of restaurants, bars, and beaches. Saga Beach and Karera Beach are popular spots for swimming and cold beer at sunset. The city center is busier and scruffier, with a large central market that is worth a visit for the atmosphere, even if you are not buying. Belgian colonial architecture survives in patches, including the old post office.
+
+Rusizi National Park is only 15 kilometers north of the city and makes an easy half-day excursion -- boat trips through the hippo-inhabited wetlands are the highlight. The Livingstone-Stanley Monument, marking the approximate site of their famous 1871 meeting, is about 10 kilometers south at Mugere.
+
+Bujumbura is not a dangerous city by regional standards, but petty crime is common and you should be aware of your surroundings, especially after dark. Avoid walking alone at night. The political situation can change quickly -- keep an ear to the ground and stay flexible with your plans.

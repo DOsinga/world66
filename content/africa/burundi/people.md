@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 5 537 387 (July 1998 est.)
+Burundi is one of Africa's most densely populated countries, with around 13 million people living in an area smaller than Belgium. The population is young -- nearly half is under 15 -- and overwhelmingly rural.
 
-**Age structure:**
+The three main ethnic groups are the Hutu (about 85%), Tutsi (about 14%), and Twa (about 1%). The Hutu-Tutsi division has been the defining fault line in Burundian politics and the driver of repeated cycles of violence, including the civil war of 1993-2005. The distinction between the groups is complex -- they share the same language, the same territory, and largely the same culture. The divisions are historical and political rather than linguistic or geographic.
 
-*0-14 years:* 47% (male 1 313 112; female 1 309 600)
+Kirundi is spoken by virtually everyone and is one of Africa's few truly national languages -- a unifying thread in a country that has been torn by conflict. French, inherited from the Belgian colonial period, is the language of government and education. Swahili serves as a trade language along Lake Tanganyika.
 
-*15-64 years:* 50% (male 1 331 336; female 1 417 228)
+Burundians are predominantly Christian, with about 60% Catholic and a growing Protestant minority. Traditional beliefs and practices remain woven into daily life, and Islam has a small but visible presence, particularly in Bujumbura.
 
-*65 years and over:* 3% (male 69 718; female 96 393) (July 1998 est.)
+What travelers notice first is the warmth. Burundians are generally welcoming and curious about visitors, who are rare enough to be a genuine novelty. Hospitality is deeply valued -- being offered a drink or food is common and should be accepted graciously. The communal drinking of banana beer (urwarwa) through long straws from a shared pot is an important social ritual.
 
-**Population growth rate:** 3.51% (1998 est.)
-
-**Birth rate:** 41.61 births/1 000 population (1998 est.)
-
-**Death rate:** 17.38 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 10.84 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.93 male(s)/female
-
-*65 years and over:* 0.72 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 101.19 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 45.56 years
-
-*male:* 43.79 years
-
-*female:* 47.38 years (1998 est.)
-
-**Total fertility rate:** 6.4 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Burundian(s)
-
-*adjective:* Burundi
-
-**Ethnic groups:** Hutu (Bantu) 85% Tutsi (Hamitic) 14% Twa (Pygmy) 1% Europeans 3 000 South Asians 2 000
-
-**Religions:** Christian 67% (Roman Catholic 62% Protestant 5%) indigenous beliefs 32% Muslim 1%
-
-**Languages:** Kirundi (official) French (official) Swahili (along Lake Tanganyika and in the Bujumbura area)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 35.3%
-
-*male:* 49.3%
-
-*female:* 22.5% (1995 est.)
+Drumming is central to Burundian culture. The royal drummers (Les Tambourinaires) are the country's most celebrated cultural tradition, with performances of extraordinary power and energy. Music, dance, and oral storytelling remain important in daily life, especially in rural areas.

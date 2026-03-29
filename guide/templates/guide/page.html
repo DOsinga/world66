@@ -163,14 +163,30 @@
 </div>
 {% endif %}
 
-{% if locations and page.page_type == "location" and locations|length > 30 %}
+{% if locations and page.page_type == "location" %}
 <div class="destinations-section">
+  {% if locations|length > 30 %}
   <h2>All {{ locations|length }} Destinations</h2>
   <div class="destination-columns">
     {% for child in locations %}
     <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
     {% endfor %}
   </div>
+  {% else %}
+  <table class="poi-table">
+    <thead>
+      <tr><th>Place</th><th></th></tr>
+    </thead>
+    <tbody>
+      {% for child in locations %}
+      <tr>
+        <td class="poi-table-name"><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></td>
+        <td class="poi-table-details">{{ child.body|truncatewords:20 }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
 </div>
 {% endif %}
 {% endblock %}

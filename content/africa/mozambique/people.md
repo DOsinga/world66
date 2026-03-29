@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 18 641 469 (July 1998 est.)
+Mozambique has a population of around 35 million, growing rapidly, with one of the youngest age structures in the world — roughly half the population is under 18. The vast majority are Bantu-speaking peoples, with more than 40 languages spoken across the country.
 
-**Age structure:**
+The **Makhuwa** are the largest ethnic group, concentrated in the northern provinces of Nampula, Niassa, Cabo Delgado, and Zambezia — they make up close to 40 percent of the population. In the south, the **Tsonga** (also called Shangaan) dominate, with strong cultural and linguistic links to South Africa's Limpopo province. The **Makonde** of far northern Cabo Delgado are renowned throughout Africa for their intricate wood sculpture — expressive, abstract figures carved from ebony. The **Sena** and **Ndau** inhabit the Zambezi valley in the centre of the country.
 
-*0-14 years:* 45% (male 4 129 779; female 4 232 091)
+Portuguese is the official language, a legacy of over four centuries of colonial rule that ended with independence in 1975. It's the language of government, education, and formal commerce, and is more widely spoken in cities than in rural areas. Mozambicans are generally warm and welcoming toward visitors, with a relaxed directness that makes interactions easy despite any language barrier.
 
-*15-64 years:* 53% (male 4 807 742; female 5 043 299)
+Religion is mixed: Christianity (predominantly Catholic and various Protestant denominations) is the majority faith, at around 56 percent. Islam is strong in the northern coastal regions and among communities with long-standing Indian Ocean trading connections — about 18 percent of the population is Muslim. Traditional beliefs, including ancestor veneration and spirit possession cults, remain widespread alongside formal religion, often practiced alongside it rather than in opposition.
 
-*65 years and over:* 2% (male 177 895; female 250 663) (July 1998 est.)
-
-**Population growth rate:** 2.57% (1998 est.)
-
-**Birth rate:** 43.52 births/1 000 population (1998 est.)
-
-**Death rate:** 17.81 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 0.97 male(s)/female
-
-*15-64 years:* 0.95 male(s)/female
-
-*65 years and over:* 0.7 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 120.26 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 45.37 years
-
-*male:* 44.22 years
-
-*female:* 46.55 years (1998 est.)
-
-**Total fertility rate:** 6 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Mozambican(s)
-
-*adjective:* Mozambican
-
-**Ethnic groups:** indigenous tribal groups 99.66% (Shangaan Chokwe Manyika Sena Makua and others) Europeans 0.06% Euro-Africans 0.2% Indians 0.08%
-
-**Religions:** indigenous beliefs 50% Christian 30% Muslim 20%
-
-**Languages:** Portuguese (official) indigenous dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 40.1%
-
-*male:* 57.7%
-
-*female:* 23.3% (1995 est.)
+Mozambican cultural life is rich in music and dance. **Timbila** — xylophone music of the Chopi people in Inhambane province — is on UNESCO's Intangible Cultural Heritage list. Maputo has a lively arts scene, with contemporary music blending Afropop, marrabenta (Mozambique's own guitar-based urban sound), and electronic influences.

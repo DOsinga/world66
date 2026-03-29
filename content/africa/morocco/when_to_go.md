@@ -1,25 +1,14 @@
 ---
-title: "When to Go in Morocco"
+title: "When to Go"
 type: section
 ---
 
-Every year, hundreds of thousands of people travel from all over the world to the exotic and intriguing country of **Morocco. When to go** to this sought-after vacation destination depends not only on the climate and time of year, but on the tourist season as well, because during tourist season many Moroccan cities get extremely crowded and hectic, so it is best to avoid traveling during that time.
+**Spring (March–May)** is the best time to visit most of Morocco. Temperatures are mild across the country, wildflowers cover the Atlas and the south, and the heat of summer hasn't arrived yet. This is peak season in Fez and Marrakech, so expect crowds in the medinas — but the weather makes it worth it.
 
-**Coastal Climate**
+**Autumn (September–November)** is the second-best window. The summer crowds thin out, temperatures drop to pleasant levels, and the light in the desert and the mountains is beautiful. October is excellent almost everywhere.
 
-Morocco's climate varies significantly from the coast to the inland regions in both seasonal temperature and rainfall. The coastal areas have a warm Mediterranean climate. Most of the year it is very sunny in this climate zone with little rain. Summer and winter are generally mild and never get to extreme highs or lows, particularly on the East Coast, where the Southwest Trade Winds moderate the climate in that area. During the summer season, from June to August, temperatures can rise to a dry 86 degrees Fahrenheit, while in winter, from December to February temperatures drop to a cool, wet 48 degrees, which is not that big of a difference. Also, with the summers and winters being so short, most of the year the temperature is a pleasant 64 degrees. November and December are the rainiest months, while summer sees almost no rain.
+**Summer (June–August)** is genuinely brutal in the interior. Marrakech and the south regularly hit 40°C or above. The coast — Essaouira, Agadir, Tangier — stays bearable thanks to Atlantic breezes. Essaouira in particular is reliably windy and cool and makes a sensible summer escape. The High Atlas and the Rif are also manageable in summer, and the Gnaoua Festival in Essaouira (June) is worth planning around.
 
-On the Atlantic Coast, a mild, temperate climate prevails, which has even fewer variations in season than the Mediterranean climate. Summer temperatures are around 87 and winter temperatures are around 46. Summers never get too hot due to the canaries current that keeps the Atlantic coast cooler than it otherwise would be.
+**Winter (December–February)** is mild on the coasts and cold in the mountains. Skiing is possible at Oukaïmeden (70km south of Marrakech) and Mischliffen in the Middle Atlas from January to March. The desert is actually pleasant in winter — days are warm and clear, nights are cold. The pre-Saharan zones around [Merzouga](/africa/morocco/merzouga) and [Zagora](/africa/morocco/zagora) are best visited outside of the scorching summer months.
 
-**Inland Climate**
-
-The climate of Morocco's inland regions is a very hot and dry continental climate. The seasons are much more extreme than those in the coastal areas. Even the differences in temperature between night and day can be dramatic. During the summer months, June to August, the temperature often gets up to an unbearable 120 degrees Fahrenheit, while summer evenings can get uncomfortably chilly. Winter temperatures can drop to around freezing point at night.
-
-**Best Times for Travel**
-
-The tourist season occurs from July to August, which, looking at the temperatures in many areas, is not exactly an ideal time to visit Morocco anyways. Since winter can get rather cold and rainy in most parts of the country, the ideal time for traveling to any part of Morocco is either in autumn or spring, when temperatures are comfortable, it is not too crowded with tourists, and there is not too much rain.
-
-**Contributors**
-February 19, 2010
-
-February 04, 2010
+**Ramadan** moves through the calendar year by year (it follows the lunar calendar, shifting about 11 days earlier each year). Travel during Ramadan is entirely possible — and offers a unique window into Moroccan life — but opening hours are restricted, many restaurants close during the day, and the pace of life changes significantly. Iftar (the sunset breaking of the fast) is a wonderful communal event to witness.

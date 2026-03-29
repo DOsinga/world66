@@ -3,120 +3,28 @@ title: "Getting Around"
 type: section
 ---
 
-****
+## By Air
 
-**San Agustin**
+Colombia is a large and mountainous country, and domestic flights are genuinely cheap by international standards. Avianca, LATAM Colombia, and Wingo connect all major cities, and fares between Bogotá, Medellín, Cartagena, Cali, and Santa Marta can be very affordable if booked ahead. Flying is usually the best option for long-haul journeys — bus routes are long, and some areas have poor road infrastructure.
 
-San Agustin is the most important archaeological
-place in the country, and it characterizes because it has large plain or
-slightly undulated zones, mainly on the banks of the rivers that cross them;
-its average temperature is 19\grades. It offers a full repertoire of lodging
-possibilities for the national and foreign tourists. The crew is traditionally
-obsequious and competent
+## By Bus
 
-The culture that made these thousands of amazing statues disappear and we don't
-know why. There are some theories but nothing has been probed. San Agustin
-probably is a city for dead, we mean kind of huge cemetery for religious,
-military and political leaders. Many graves were found full of treasures and
-sadly some were stolen
+For medium distances, buses are the standard option. The intercity bus network is extensive and covers virtually everywhere. On main routes, you'll find comfortable coaches with air conditioning, reclining seats, and sometimes Wi-Fi. Look for companies like Expreso Brasilia, Bolivariano, and Rápido Ochoa. Book ahead for busy routes, especially around holidays.
 
-**Getting to and Around San Agustin
-******
+For shorter hops and rural routes, smaller buses and shared minibuses (known as busetas or colectivos) are the norm. These are slower and less comfortable but often the only option off the main highways.
 
-It's easier to get to the town of San Agustin and
-the Parquet Archeological de San Agustin now than it was for the
-conquistadores, but expect to put a little effort into it.
+## In Cities
 
-**By road:**
+Bogotá has TransMilenio, a bus rapid transit system with dedicated lanes running across the city. It's frequent, cheap (around 3,200 pesos per trip), and the fastest way to get across the city — though it gets packed during rush hours. Bogotá also has a rapidly expanding Metro system, with the first lines expected to open in the late 2020s.
 
-From Bogotá to Neiva, capital of the Department of Huila, via paved national
-highway, about six hours, but be prepared for it to take longer. From Neiva to
-San Agustin is another four hours. From Popayan, by bus, it's also about six
-hours.
+Medellín has a metro plus two aerial gondola lines (Metrocable) connecting hillside neighbourhoods. It's efficient and worth using even just to see the city from above.
 
-**By air:**
+Use ride-hailing apps — Uber, InDriver, and the Colombian app Cabify all operate in major cities. Avoid hailing random taxis from the street, particularly at night, due to the risk of robbery. If you must take a street taxi, use one booked through an app or called by your hotel.
 
-Either into Neiva’s Benito Salas airport .From Neiva to San Agustin is another
-four hours minutes by road from . Check flights from your area to Bogotá or
-other locations in Colombia.
+## By Car
 
-You can also browse for hotels and car rentals.
+Renting a car gives flexibility but comes with caveats. Road quality varies significantly outside major routes. Certain areas remain off-limits due to security concerns. If you're driving, avoid travelling at night on rural roads, and never stop for strangers waving you down.
 
-Once there, you can tour in san Agustin by 4x4,
-horseback , by foot or rafting. Horseback is a popular choice and allows you
-plenty of opportunity to enjoy the scenery. You can rent a horse in the town of
-San Agustin.
+## By Boat
 
-Take the time to visit some of the surrounding
-sites which also have burial mounds, figures and great scenic views of the
-surrounding countryside. See also:
-
-· Fuente de Lavapatas where there are a series of
-pools and channels of water carved into smooth bare rock as are pictures of
-lizards, serpents and salamanders with human figures
-
-· Alto de Lavapatas where at the summit of the hill
-are the oldest tombs and a children’s cemetery protected by a beautifully
-carved large double statue
-
-· Bosque de las Estatuas where statues originally
-found in remote areas have been grouped for display in a natural wooded setting
-
-· El Alto de los Ídolos where you'll see horizontal
-and vertical tombs with carved stone slabs
-
-San Agustin is a small town set in the beautiful
-Magdalena river valley and equipped for the visitor with places to stay and
-eat.
-
-parquet Archeological de san Agustin
-
-Parquet
-Archeological de San Agustin The biggest statuary
-concentration is found here.
-
-Estrecho del Magdalena
-
-Estrecho del Magdalena: The river makes a
-strait in a tunnel of rocks, achieving its minimal width 2,20
-
-Magdalena lake
-
-**photos Magdalena**
-
-**3 days horse riding**
-
-parquet archeological Tablón and Chaquira
-
-Horseback is a popular choice
-
-Alto de Los Idolos
-
-: This is another place of statuary
-concentration, called "statue forest".
-
-f you’re ready for an adventure
-
-with personality, give
-
-Magdalena rafting Adventures
-
-a call today.
-
-311 271 53 33.
-
-We are looking forward to seeing you this year!
-
-mailto:info@magdalenarafting.com
-
-San Agustin Huila
-
-m
-
-##
-
--
-
--
-
--
+River travel is important in remote Amazonian and Pacific regions. In the Amazon, boats are the main form of transport between Leticia and outlying communities. On the Pacific coast, small launches connect coastal towns. Journey times can be long — bring a hammock if you're travelling overnight on a river cargo boat.

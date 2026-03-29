@@ -3,9 +3,9 @@ title: "Roseau"
 type: location
 ---
 
-There are so many natural beauties on the islands that some travelers may overlook the capital city of [Roseau](/northamerica/dominica/roseau). True, it's a bit crowded and noisy, but there are a few attractions worth seeing, particularly the **Dominica Museum** which gives you a good introduction to the culture of the island. It's located in an old court house. 
+With so much wilderness to explore, visitors sometimes rush past the capital. Roseau is compact, genuinely lived-in, and worth a half-day. The **Dominica Museum** in the old courthouse on the waterfront gives a good grounding in the island's history — colonial, volcanic, and Kalinago. Admission is modest.
 
-The **Anglican Cathedral** is another sight worth seeing. In the old centre there are many cobbelstone streets with small shops and houses. The cobblestones were originally shipped in as ballast for the ships with early planters and traders. The best area for shopping is around **Cork Street** or on the banks of the Roseau river where you find small stalls. 
+The **Anglican Cathedral** is worth seeing, and the old town centre has cobblestone streets — the stones were brought over as ballast in trading ships — with small shops and wooden colonial houses. The best area for shopping is around **Cork Street** or along the Roseau river banks where vendors sell local produce and crafts.
 
 **Fort Young Hotel** is an excellent place to have lunch. It's an old English fort dating from the 18th century and it serves good food. 
 

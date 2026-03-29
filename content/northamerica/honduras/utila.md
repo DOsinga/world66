@@ -1,12 +1,14 @@
 ---
 title: "Utila"
 type: location
+latitude: 16.1013
+longitude: -86.9069
 ---
 
-Utila is just 11 km long and 4 km at its widest and surrounded by vast coral reefs with prolific undersea life. The smallest of the major islands in The Bay Islands group, Utila is renowned as being one of the least expensive and most beautiful places in the world for scuba diving.
+Utila is the smallest and cheapest of the Bay Islands, 11 km long and sitting about 30 km off the north coast of Honduras. It has a well-earned reputation as one of the best-value places in the world to learn to scuba dive — prices for PADI open-water courses are lower here than almost anywhere comparable — and the diving itself is excellent.
 
-From the Mayan Indians, through the years spent as a British Colony, to the present day as part of Honduras, Utila provides a rich and diverse cultural experience with it's unique blend of British, American and Spanish heritages making Utila a Caribbean Island which is still a largely undiscovered and unspoiled paradise.
+The island sits on the Mesoamerican Barrier Reef with over 50 dive sites, including walls, caves, and wrecks. Whale sharks move through the waters around Utila regularly, particularly from March to May, making it one of the more reliable places in the world to encounter them.
 
-With over 50 different dive sites to choose from including caves and numerous wrecks (such as the famous Halliburton) scuba diving around Utila Island is always interesting and never crowded. Utila is also famous for divers encountering the Whale Shark migrating through the waters of Utila. The Whale Shark is the world's largest fish. The slow moving Whale Shark is a harmless zooplankton, snapper egg and shrimp eating fish which grows up to 12-18 meters in length.
+The population is a distinctive mix: English-speaking Bay Islanders with British and Caribbean heritage, mainland Hondurans, and a steady stream of long-term expat residents. The atmosphere is relaxed and unpretentious — this is not a resort island. The main settlement, Utila Town (also called East Harbour), is the only town, and most of what you need is within easy walking distance.
 
-Minor corrections on 27 March 05
+The ferry from La Ceiba takes about 45 minutes and runs several times a day.

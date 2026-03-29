@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 5 752 067 (July 1998 est.)
+El Salvador has a population of around 6.5 million — though estimates vary significantly because a large Salvadoran diaspora lives abroad, particularly in the United States. The diaspora sends back substantial remittances that are a major part of the national economy.
 
-**Age structure:**
+The vast majority of Salvadorans are **mestizo** — of mixed indigenous and European descent. A small indigenous population, primarily Pipil, maintains cultural traditions in parts of the western highlands around Nahuizalco and Izalco, where some aspects of the original Nahuatl language and customs survive. The country's pre-Columbian heritage was long suppressed following the 1932 peasant uprising and massacre (known as La Matanza), which caused many indigenous Salvadorans to hide their identity. There has been a gradual revival of indigenous culture in recent decades.
 
-*0-14 years:* 37% (male 1 088 579; female 1 042 087)
+Spanish is the language of everyday life. English is spoken in tourist areas, larger hotels, and among younger professionals in the cities.
 
-*15-64 years:* 58% (male 1 575 806; female 1 748 250)
+The **civil war** of 1979–1992 left deep scars. Around 75,000 people were killed and hundreds of thousands fled the country. The war's legacy — in politics, culture, and family separations — is still felt. Salvadorans are generally willing to talk about it, and the subject comes up naturally.
 
-*65 years and over:* 5% (male 135 556; female 161 789) (July 1998 est.)
-
-**Population growth rate:** 1.57% (1998 est.)
-
-**Birth rate:** 26.71 births/1 000 population (1998 est.)
-
-**Death rate:** 6.32 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -4.73 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.9 male(s)/female
-
-*65 years and over:* 0.84 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 29.07 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 69.66 years
-
-*male:* 66.31 years
-
-*female:* 73.17 years (1998 est.)
-
-**Total fertility rate:** 3.06 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Salvadoran(s)
-
-*adjective:* Salvadoran
-
-**Ethnic groups:** mestizo 94% Amerindian 5% white 1%
-
-**Religions:** Roman Catholic 75%
-
-*note:* there is extensive activity by Protestant groups throughout the country; by the end of 1992 there were an estimated 1 million Protestant evangelicals in El Salvador
-
-**Languages:** Spanish Nahua (among some Amerindians)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 71.5%
-
-*male:* 73.5%
-
-*female:* 69.8% (1995 est.)
+Salvadorans are known for warmth and directness. Sharing food — especially pupusas — is central to social life. In comedores (small local restaurants) and market stalls, you will often find yourself invited into conversations over a meal. Religion plays a significant role; the country is predominantly Roman Catholic, with a large and growing evangelical Protestant community.

@@ -1,20 +1,18 @@
 ---
-title: "When to Go in Guatemala"
+title: "When to Go"
 type: section
 ---
 
-Antigua Guatemala, known for its 16th century colonial style of Spanish architecture, has been the target of many foreign tourists that it is a must that one has an idea on **Antigua Guatemala-When to Go**. Labeled as one of Guatemala&rsquo;s great city, it possesses a unique cobbled stone streets and an attraction of Spanish schools where foreign students choose to attend to.
+Guatemala has two distinct seasons: dry (November to April) and rainy (May to October). The dry season is the classic tourist window — skies are clear, roads are passable, and highland nights are cool and crisp. It also coincides with the most dramatic festivals, including Semana Santa in Antigua and Todos Santos in November.
 
-Guatemala&rsquo;s magical place where history and culture is rich is almost heaven to international tourists coming to visit the place. Antigua is one of their best attractions with the highlands mountainous backdrops as well as its great architecture that withstand the tests of time. If you plan to come over, here&rsquo;s the answer to the question Antigua Guatemala- when to go, which you must now:
+The rainy season brings afternoon downpours, typically two to four hours of rain starting around 14:00, then clearing. Mornings are often sunny. The landscape turns intensely green, waterfalls are at their best, and accommodation prices drop along with the crowds. The main drawback is that dirt roads in the Petén and western highlands can become impassable, and visibility at Tikal is sometimes poor. Budget travel in the rainy season is excellent value.
 
-**Guatemalan Fair**
+**The highlands** (Antigua, Lake Atitlán, Quetzaltenango) sit between 1,500 and 2,300 metres and have a comfortable climate year-round — daytime temperatures around 20–25°C, cool evenings, and no extreme heat. There is no bad season here.
 
-The pine needle processional carpets are laid down in the town&rsquo;s alleys. The scent of these pine needles adds up to the excitement of the occasion. This festive occasion of laying down carpets and pine needles are not only during processions but also used on birthdays and special celebrations. This type of celebration is being prepared by the community&rsquo;s bonding and love for their native Guatemala. You may consider attending a friend&rsquo;s party in Antigua to experience this unique celebration of life and culture. If you&rsquo;re lucky enough, you get to witness this in one of your visits.****
+**The Petén jungle** (Tikal, Flores) is hot and humid regardless of season, with temperatures around 30–35°C. The dry season from February to May sees the highest temperatures and least rain, making jungle hiking easier. The rainy months bring humidity but also more active wildlife. Avoid visiting Tikal in the peak dry-season crowds of December to February if you can — arrive before 07:00 to beat the tour buses.
 
-**Semana Santa or Holy Week**
+**The Pacific and Caribbean coasts** are hot all year (28–32°C). The Pacific's sea turtle nesting season runs July to November, with Monterrico being the best viewing spot.
 
-This festivity is one of the main highlights in all of Guatemala which occur during Easter week. During this event the local town folks carry floats that bear their religious beliefs and are paraded around the town. Saw dust carpets decorated with brightly colored designs are the town&rsquo;s main attraction for the event. These Holy carpets are laid as one of their beliefs in their religion simultaneously attracting tourists and making this the most interesting must-see of the occasion. The occasion begins on Holy Friday when the participants change their purple color dresses to something black to commemorate the death of Christ.****
+**Semana Santa** (Holy Week, March or April) draws enormous crowds to Antigua, with spectacular processions and alfombras (sawdust carpets) in the streets. Book accommodation weeks in advance and expect prices to double.
 
-**La Quema del Diablo (The burning of the devil)**
-
-Before the Christmas celebration, Guatemalans celebrate what you call the La Quema del Diablo or the burning of the devil. This symbolizes the vanishing of the devil in anticipation of the Immaculate Conception. Guatemalans who are deep and engrossed in their religious beliefs participate in this festivity. This is another special event that showcases the varied culture of Antigua.
+**November** is arguably the best overall month: the rains have eased, the countryside is still green, and the Todos Santos horse races (November 1) in Huehuetenango are one of the most vivid local festivals in Central America.

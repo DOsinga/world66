@@ -3,22 +3,14 @@ title: "Beaches"
 type: section
 ---
 
-Jamaica is filled with beautiful, sandy beaches and turquoise blue water. There are several beaches in the island wonderland that stand out as exceptional.
+Jamaica has beaches all around its coastline, but the north coast — between Montego Bay and Port Antonio — has the finest concentration of white sand and calm turquoise water. Most resort beaches are technically public but may charge an entry fee or require a drink purchase.
 
-**Beach of Negril**
+**Seven Mile Beach, Negril** is Jamaica's most celebrated beach: a long, flat sweep of pale sand on the western tip of the island. The northern end is lined with resorts and beach bars; the southern end is less developed. The beach is wide enough that it never feels claustrophobic even in high season. The adjacent West End cliffs are worth an evening walk for sunset and the cliff-jumping scene at Rick's Café.
 
-Negril has a beach resort along the western coast of Jamaica with a seven mile beach of pure white powder puff soft sand. This is the place where cliff jumpers can be seen from Rick’s Café. Watch out, there are lots of areas on this 7 mile stretch of sand that are “Swimsuit Optional”. There are 25 resorts that are incorporated in this area including Couples, Sandals, and Grand Lido. Don’t think this beach is only good for couples, because there is enough to keep a family entertained as well.
+**Doctor's Cave Beach, Montego Bay** is the classic Montego Bay beach — a sheltered, clean stretch of sand in the Hip Strip area, enclosed enough that the water is calm even when the sea is rough outside. It charges an entry fee but is well maintained and a good base for snorkelling on the fringing reef.
 
-**Doctor’s Cave Beach, Montego Bay**
+**Frenchman's Cove, Port Antonio** is widely considered one of the most beautiful beaches in Jamaica: a small, sheltered cove where a cold freshwater river meets the sea. It's on the grounds of a private estate and charges admission, but it's worth it.
 
-In Montego Bay there is the Doctor’s Cave Beach that has a story along with it. In 1880 Dr. Alexander James McCatty founded a sanatorium in Montego Bay. He invited his friends and several doctors to take advantage of his small beach that was accessed through a cave. He donated this property to the community in 1906. Sir Herbert Baker, an English osteopath, visited the beach in the 1920’s. He wrote an article on the medicinal properties of the waters and made this beach popular. It is in a sheltered location so the waters are always calm and clear and perfect for snorkeling along the coral reefs.
+**Bluefields Beach, Westmoreland** is a public beach on the south coast, popular with Jamaicans rather than tourists. Bring your own chairs and shade; the swimming is good and the atmosphere is far more local than anything you'll find on the north coast.
 
-**Aqua Sol Beach, Montego Bay**
-
-Another Beach on Montego Bay is Aqua Sol Beach, formerly Fletcher’s Beach. It has attached to it a theme park that is perfect for families with children. Here you will find enjoyment on the glass-bottom boat and you can rent jet skis, wave runners, kayaks, and pedal boats. Snorkeling is a favorite activity here. The Amusement park has a racing Go-Kart circuit popular with the kids. It also boasts a tennis court with pro on duty to give lessons, a gym, and is home to stage shows as well. It is open from 9:00am to 2:00 am daily.
-
-**Bluefields Beach**
-
-Bluefields Beach is a public beach that is worth going to. In the 1990’s it was given an overhaul and is a favorite of tourists and locals alike. You have to bring your own beach chairs and umbrellas but the beach is relatively shady in some areas and there are some small food venders on and near the beach.
-
-This is just a few of the beaches Jamaica has to offer. There are many more public and private beaches where you can have the time of your life.
+**Boston Bay, Portland** is a small beach best known as the birthplace of jerk cooking — the roadside jerk stands here are excellent, making it worth the journey from Port Antonio even if you don't swim.

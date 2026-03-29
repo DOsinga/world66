@@ -3,16 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Most international visitors arrive by air through [Douala](/africa/cameroon/douala) International Airport (DLA), the country's main hub, or Yaound Nsimalen International Airport (NSI). Douala has more flights and better connections.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+**From Europe**, Brussels Airlines (from Brussels), Air France (from Paris), and Turkish Airlines (from Istanbul) offer the most frequent connections. Paris to Douala is about six hours. Ethiopian Airlines, Royal Air Maroc, and Kenya Airways also serve Cameroon with connections through their respective hubs -- Addis Ababa is increasingly popular as a routing point.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**From West and Central Africa**, there are direct flights from Lagos, Abidjan, Libreville, Brazzaville, Kinshasa, and other regional capitals. ASKY Airlines and regional carriers cover many of these routes. Flights from Lagos to Douala are short and relatively cheap.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+**From North America**, there are no direct flights. The most common routing is through Paris or Brussels, though Addis Ababa and Casablanca also work.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+**Overland**, the main crossing from Nigeria is at Ekok (toward Mamfe and [Bamenda](/africa/cameroon/bamenda)) or via Mubi in the north. The Nigerian border crossings can be slow and bureaucratic -- arrive early and have your visa sorted in advance. From Gabon, the crossing near Ambam connects to the south. From Chad, the main crossing is at Kouss in the far north. Overland travel from Equatorial Guinea and the Republic of Congo is possible but not common.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+**Visas** are required for most nationalities and should be obtained before arrival. Cameroon does not issue visas on arrival for most travelers. Apply at the nearest Cameroon embassy or consulate and allow plenty of time -- the process can be slow.

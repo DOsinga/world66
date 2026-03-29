@@ -1,4 +1,0 @@
----
-title: "Bangem"
-type: location
----

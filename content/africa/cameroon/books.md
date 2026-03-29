@@ -3,88 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Cameroon with Egbert** by Dervla Murphy -- The great Irish travel writer takes her daughter on a grueling journey through Cameroon by local transport in the 1980s. Murphy's frank, unsentimental eye makes this one of the best travel books written about Central Africa. The Cameroon she describes has changed in many ways, but her observations about the people and the landscape still ring true.
 
-**Tenure and Alley Farming in the Humid Zone of West Africa:Final Report of Research in Cameroon, Nigeria, and Togo**
+**Mango Elephants in the Sun** by Susana Herrera -- A Peace Corps volunteer's account of life in a small village in northern Cameroon. Warm, funny, and honest about the frustrations and rewards of living in a place where nothing works the way you expect. A good book to read before spending time in the north.
 
+**Travels in the Congo** by Andre Gide -- Not strictly about Cameroon, but Gide's 1927 journey through French Equatorial Africa passes through what is now Cameroon and remains a remarkable piece of travel writing. His sharp criticism of colonial exploitation caused a scandal when it was published.
 
+**Houseboy** by Ferdinand Oyono -- A novel by one of Cameroon's most important writers, telling the story of a young Cameroonian servant during the colonial era. It is short, devastating, and gives more insight into the colonial experience than most history books.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0934519153/ref=ase_osingacom?v=glance&s=books)
-
-author: Steven W. Lawry,Douglas M. Stienbarger
-
-isbn: 0934519153
-
-subject: history
-
-**Mango Elephants in the Sun:Stories of My Life in an African Village**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1570623767/ref=ase_osingacom?v=glance&s=books)
-
-author: Susana Herrera
-
-isbn: 1570623767
-
-subject: travel
-
-**Travels in the Congo**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0880013656/ref=ase_osingacom?v=glance&s=books)
-
-author: Andre Gide,Dorothy Bussy (Translator)
-
-isbn: 0880013656
-
-subject: travel
-
-**Cameroon with Egbert**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0879514760/ref=ase_osingacom?v=glance&s=books)
-
-author: Dervla Murphy
-
-isbn: 0879514760
-
-subject: travel
-
-**Mango Elephants in the Sun:Stories of My Life in an African Village**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1570623767/ref=ase_osingacom?v=glance&s=books)
-
-author: Susana Herrera
-
-isbn: 1570623767
-
-subject: culture
-
-**African Designs of Nigeria and the Cameroons**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0880450606/ref=ase_osingacom?v=glance&s=books)
-
-author: Caren Caraway
-
-isbn: 0880450606
-
-subject: history
-
-**Expressions of Cameroon Art:The Franklin Collection**
-
-***what the fuck is this?***
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0295969857/ref=ase_osingacom?v=glance&s=books)
-
-author: Tamara Northern
-
-isbn: 0295969857
-
-subject: history
+**The Poor Christ of Bomba** by Mongo Beti -- Another essential Cameroonian novel. A satirical account of a French missionary's efforts in colonial Cameroon, told through the eyes of his young servant boy. Beti was one of the sharpest critics of both colonialism and the post-independence government.

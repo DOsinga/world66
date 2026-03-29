@@ -1,4 +1,0 @@
----
-title: "Buea"
-type: location
----

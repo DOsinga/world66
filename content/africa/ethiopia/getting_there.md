@@ -3,34 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-International flights to Addis Ababa:
+Almost everyone arrives through [Addis Ababa](/africa/ethiopia/addisababa) Bole International Airport. Ethiopian Airlines is one of Africa's largest and best-run carriers, with direct flights from London, Frankfurt, Paris, Rome, Stockholm, Washington, Toronto, Dubai, Delhi, Mumbai, Bangkok, Beijing, Seoul, Shanghai, and many other cities. From within Africa, Ethiopian flies to dozens of destinations — it is the dominant hub carrier for the continent.
 
-Ethiopian Airlines has an extensive network within Africa with connections from Abidjan, Accra, Bamako, Brazzaville, Bujumbura, Cairo, Dar es Salaam, Djibouti, Douala, Entebbe, Harare, Hargeisa, Johannesburg, Khartoum, Kigali, Kilimanjaro, Kinshasa, Lagos, Lilongwe, Lome, Luanda, Lusaka, Nairobi and Ndjamena.
+Other airlines serving Addis include Turkish Airlines (via Istanbul), Emirates (via Dubai), Kenya Airways (via Nairobi), EgyptAir (via Cairo), and several Gulf carriers. Competition keeps fares reasonable. Istanbul and Dubai are the most common connection points from Europe and Asia.
 
-Ethiopian also has flights to Dire Dawa from Djibouti.
+Dire Dawa in the east has a secondary airport with some regional flights, mainly useful if you are heading to [Harar](/africa/ethiopia/harar).
 
-From Nairobi and Djibouti Kenya Airways also have flights (from Nairobi KLM has codeshare) to Addis Ababa.
+Overland entry is possible but limited. The main land crossing from Kenya is at Moyale, on the road from Nairobi via Marsabit. The road has improved significantly but the Kenyan side can still be rough. Direct buses run between Nairobi and Addis Ababa, a journey of about two days.
 
-SAA has codeshare on Ethiopian’s flight from Johannesburg.
+From Djibouti, the modern Addis Ababa-Djibouti railway provides a link, though schedules can be irregular. Road crossings from Djibouti and Somaliland (via Hargeisa to the Wajale border) exist and are used, though conditions vary.
 
-From outside Africa to Addis Ababa:
+The borders with Eritrea, Sudan, and Somalia are either closed or not recommended for travel. Check current conditions before planning any overland route.
 
-Ethiopian from Amsterdam, Bangkok, Beijing, Beirut, Delhi, Dubai, Frankfurt, Guangzhou, Hongkong, Jeddah, London, Mumbai, Paris, Rome, Stockholm, Tel Aviv and Washington.
-
-BA from London.
-
-Saudia from Jeddah.
-
-Yemenia Yemen Air from Sanaa.
-
-Lufthansa/United Airlines from Frankfurt.
-
-
-
-Overland:
-
-There are trains from Djibouti through Dire Dawa to Addis Ababa but not reliable.
-
-Overland travel from Kenya is possible through Moyale but security is poor, particularly on the Kenyan side.
-
-The border between Eritrea and Ethiopia is closed and overland travel from Sudan and from Somalia hardly to be recommended.
+Most nationalities need a visa. E-visas are available online for many countries and are straightforward to obtain. Visa on arrival is possible at Bole Airport for many nationalities but applying in advance avoids the queue.

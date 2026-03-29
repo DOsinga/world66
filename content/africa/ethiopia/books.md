@@ -3,102 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Sign and the Seal** by Graham Hancock — A gripping investigation into the legend of the Ark of the Covenant and its supposed resting place in [Axum](/africa/ethiopia/axum). Part travelogue, part historical detective story. Hancock's journey through Ethiopia in the late 1980s gives a vivid sense of the country during a turbulent period, and his account of the Aksumite civilization is fascinating whether or not you buy his conclusions.
 
-**The Sign and the Seal:The Quest for the Lost Ark of the Covenant**
+**Cutting for Stone** by Abraham Verghese — A sweeping novel set largely in Addis Ababa, following twin brothers born to an Indian nun and a British surgeon. The book captures the texture of Ethiopian life from the 1950s through the Derg era with warmth and medical precision. It is one of the best novels set in Ethiopia and a wonderful way to get a feel for the country.
 
+**The Emperor** by Ryszard Kapuscinski — A portrait of the final days of Haile Selassie's court, assembled from interviews with former courtiers. Kapuscinski's spare, almost surreal prose captures the absurdity and tragedy of an ancient order collapsing. It reads more like a parable than journalism, and that is partly the point.
 
+**Notes from the Hyena's Belly** by Nega Mezlekia — A memoir of growing up in [Harar](/africa/ethiopia/harar) during the revolution and the Derg years. It is funny, brutal, and deeply human, full of details about Ethiopian childhood, street life, and the chaos of political upheaval.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0671865412/ref=ase_osingacom?v=glance&s=books)
-
-author: Graham Hancock
-
-isbn: 0671865412
-
-subject: travel
-
-**Guide to Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1898323666/ref=ase_osingacom?v=glance&s=books)
-
-author: Philip Briggs
-
-isbn: 1898323666
-
-subject: travel
-
-**Bless Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/962217518X/ref=ase_osingacom?v=glance&s=books)
-
-author: Kazuyoshi Nomachi (Photographer),Richard Pank..
-
-isbn: 962217518X
-
-subject: travel
-
-**Exotic Ethiopian Cooking :Society, Culture, and Hospitality Tradition in Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0961634529/ref=ase_osingacom?v=glance&s=books)
-
-author: Daniel Mesfin,Fassil Dawit (Illustrator),Mamo..
-
-isbn: 0961634529
-
-subject: culture
-
-**Elephant:The Animal and Its Ivory in African Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0930741269/ref=ase_osingacom?v=glance&s=books)
-
-author: Doran H. Ross (Editor)
-
-isbn: 0930741269
-
-subject: culture
-
-**Political Posters in Ethiopia and Mozambique:Visual Imagery in a Revolutionary Context**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9155426425/ref=ase_osingacom?v=glance&s=books)
-
-author: Berit SahlstrFom
-
-isbn: 9155426425
-
-subject: culture
-
-**East Africa Handbook 1999 with Kenya, Tanzania, Uganda and Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844249785/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0520202473/ref=ase_osingacom?v=glance&s=books)
-
-author: Harold G. Marcus
-
-isbn: 0520202473
-
-subject: history
-
-**African Zion:The Sacred Art of Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300059159/ref=ase_osingacom?v=glance&s=books)
-
-author: Marilyn Eiseman Heldman,Stuart C. Munro-Hay,R..
-
-isbn: 0300059159
-
-subject: history
+**Philip Briggs' Ethiopia** (Bradt Travel Guide) — The definitive practical guidebook for independent travelers. Updated regularly, thorough on logistics, and written by someone who clearly loves the country. If you are bringing one guidebook, this is the one.

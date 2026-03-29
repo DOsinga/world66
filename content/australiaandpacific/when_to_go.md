@@ -1,22 +1,12 @@
 ---
-title: "When to Go in Australia and Pacific"
+title: "When to Go"
 type: section
 ---
 
-**A Year-Long Treasure: Visiting Ile des Pins**
+Remember that [Australia](/australiaandpacific/australia) and [New Zealand](/australiaandpacific/newzealand) are in the Southern Hemisphere — seasons are flipped from what you might expect. Australia's climate also varies enormously by region. The tropical north (Queensland, Northern Territory, Western Australia's Kimberley) is best visited in the dry season from May to October, when humidity drops and wildlife congregates around shrinking water sources. The southern states — Victoria, New South Wales, South Australia, Tasmania — are most pleasant in summer, from December to February, though spring (September to November) and autumn (March to May) offer mild weather and fewer crowds.
 
-When you&rsquo;re planning your next vacation (or your first!) to the Jewel of the Pacific, **Ile des Pins, when to go** is one of the first choices you should make.
+New Zealand's peak season runs from December to February, with long days, warm temperatures, and everything open. It's a small country, but the weather can shift fast, so pack layers regardless of the season. Ski season runs from June to September, centered on the South Island's remarkable mountains and the North Island's volcanic slopes around Ruapehu. Shoulder months — October/November and March/April — are excellent for hiking, with fewer people on the tracks and still-reasonable weather.
 
-The island, home to a quarter of a million people in the French-Pacific territory of New Caledonia, is a hidden treasure of white sand beaches, crystal clear waters, and the lush, tree-filled landscape that gives the island its name, the Island of Pines. It&rsquo;s also a quiet, mostly noise-and-nightlife-free zone that offers a respite for travelers.
+The Pacific islands follow a tropical pattern. The dry season from May to October is the most comfortable time to visit [Fiji](/australiaandpacific/fiji), [Tonga](/australiaandpacific/tonga), Samoa, and most of Melanesia and Polynesia — lower humidity, less rain, and virtually no cyclone risk. The wet season from November to April brings higher temperatures, afternoon downpours, and the possibility of tropical cyclones. Travel is still possible in the wet season (and prices drop), but you should monitor weather forecasts and understand that some ferry and flight routes may be disrupted.
 
-**Seasons**
-
-There are two distinctive seasons on the Island of Pines. If you love the sun and the beach, then take a trip between December and March. And if you like a climate more conducive to hiking and biking, plan on visiting from April to November when the temperatures will be about five to ten degrees cooler on average.
-
-**Warm Season**
-
-For snorkeling, diving amongst the coral reefs of the Pacific Ocean, or sailing through the crystal clear waters, visit Ile des Pins during the warm season. The average temperature during the warmer months (December through March) ranges from 73 to 89 degrees Fahrenheit (23 to 32 degrees Celsius). Expect humid conditions with some rain and lots of sunshine – for the most part. While there is no specific &ldquo;rainy season,&rdquo; heavier rain, windy conditions and, more rarely, stormy seas generally occur during the warmer season.
-
-**Cool Season**
-
-If you&rsquo;re in the mood for bicycle rides around the island, hiking, and exploring, plan a visit during the cooler months of April through November. But never fear: the average temperature ranges from 58 to 79 degrees Fahrenheit (15 to 26 degrees Celsius) so that means you can still swim and snorkel to your heart&rsquo;s content.
+If you're timing your trip around specific experiences, a few dates matter. The Great Barrier Reef is best from June to October, when water visibility peaks and stinger season is over. Humpback whale migration along Australia's east coast runs from May to November, with peak viewing around Hervey Bay in August and September. [French Polynesia's](/australiaandpacific/frenchpolynesia) whale season is similar, July to October. New Zealand's Milford Track and other Great Walks book out months ahead for the peak summer season — plan early or aim for the shoulder months.

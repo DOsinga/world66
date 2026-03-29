@@ -1,0 +1,14 @@
+---
+title: "Health"
+type: section
+---
+
+Asia is a medically diverse continent. [Japan](/asia/japan), [South Korea](/asia/south_korea), and [Singapore](/asia/singapore) have world-class healthcare, while rural parts of South and Southeast Asia may have limited medical facilities. Travel insurance with medical evacuation coverage is essential — not optional — for much of the continent. If you take prescription medication, bring enough for your entire trip with a copy of the prescription; some common Western medicines are unavailable or require local prescriptions.
+
+**Vaccinations** should be sorted well before you travel. Hepatitis A and typhoid are recommended for most of Asia. Hepatitis B, Japanese encephalitis, and rabies vaccines are worth considering depending on your itinerary and how much time you will spend in rural areas. Yellow fever certificates are required if you are arriving from an affected country. Rabies is a genuine risk across South and Southeast Asia — dogs are everywhere, and post-exposure treatment may be hard to find outside major cities. Get the pre-exposure vaccine if you plan to spend time in remote areas.
+
+**Malaria** is present in parts of [India](/asia/india), [Myanmar](/asia/myanmar), [Cambodia](/asia/cambodia), [Laos](/asia/laos), [Indonesia](/asia/indonesia), and [Vietnam](/asia/vietnam), particularly in rural and forested areas. Dengue fever is more widespread and is carried by daytime-biting mosquitoes, so repellent matters around the clock. There is no prophylaxis for dengue. Consult a travel medicine clinic about antimalarials — the appropriate drug depends on your destination, as resistance patterns vary across the region.
+
+**Water and food safety** follow a simple rule: the more developed the country, the less you need to worry. Tap water is safe in [Japan](/asia/japan), [South Korea](/asia/south_korea), [Singapore](/asia/singapore), and [Israel](/asia/israel). Everywhere else, stick to bottled or purified water. Street food is generally safe if it is freshly cooked and served hot — the stalls with the longest queues of locals are usually the best bet. Raw vegetables and salads are riskier in South Asia. Carry oral rehydration salts; stomach trouble is almost a rite of passage in [India](/asia/india) and [Nepal](/asia/nepal).
+
+**Altitude** is a serious concern if you are trekking in the Himalayas, the Karakoram, or the high passes of Central Asia. Acute mountain sickness can affect anyone above 2,500 meters, regardless of fitness. Ascend slowly, stay hydrated, and know the symptoms. The standard advice is to climb high and sleep low. Diamox (acetazolamide) can help with acclimatization but is not a substitute for a sensible ascent schedule. If symptoms worsen — severe headache, confusion, difficulty breathing — descend immediately. On the Everest Base Camp trek and the Annapurna Circuit in [Nepal](/asia/nepal), altitude is the primary health risk, not the terrain.

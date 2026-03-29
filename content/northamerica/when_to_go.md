@@ -1,0 +1,18 @@
+---
+title: "When to Go"
+type: section
+---
+
+North America spans from the Arctic to the subtropics, so there's no single best time to visit — it depends entirely on where you're going. The continent covers so many climate zones that when it's sweltering in [Arizona](/northamerica/unitedstates/arizona) it can be snowing in [Alaska](/northamerica/unitedstates/alaska). That said, summer (June through August) is peak travel season almost everywhere, with the highest prices and biggest crowds to match.
+
+The northeast and upper Midwest have four dramatic seasons. Fall is arguably the best time — September through mid-October brings spectacular foliage across New England, upstate [New York](/northamerica/unitedstates/newyorkstate/newyork), and Quebec. The colors are genuinely extraordinary. Summers are warm and humid, winters are brutal, and spring is mud season before it's anything pretty. [New York](/northamerica/unitedstates/newyorkstate/newyork) and [Chicago](/northamerica/unitedstates/illinois/chicago) are best from May through October.
+
+The American Southwest — Arizona, Nevada, New Mexico, West Texas — is a different calculation. Summer temperatures regularly exceed 40°C (105°F), and hiking in places like the Grand Canyon or Death Valley becomes genuinely dangerous from June through September. Visit in spring (March-May) or fall (October-November) instead, when the desert is comfortable and the light is incredible. Florida and the Gulf Coast draw winter visitors escaping northern cold, but beware: hurricane season runs June through November, peaking in August and September.
+
+The Pacific coast from [San Francisco](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco) to [Vancouver](/northamerica/canada/britishcolumbia/vancouver) is mild year-round but rainy from October through April. Summer in the Pacific Northwest is as good as anywhere on Earth — warm, long days, no rain. [Los Angeles](/northamerica/unitedstates/california/losangeles) and southern California are pleasant almost any time, though June often brings a marine layer locals call "June Gloom."
+
+[Canada](/northamerica/canada) has short, intense summers and long winters. [Toronto](/northamerica/canada/ontario/toronto) and [Montreal](/northamerica/canada/quebec/montreal) are fantastic from June through September — outdoor festivals, warm evenings, the whole city comes alive. Winter in [Montreal](/northamerica/canada/quebec/montreal) means weeks of -20°C and deep snow, which has its own appeal if you're prepared. The Canadian Rockies are a summer hiking paradise from July through September, and world-class skiing from December through April. [Vancouver](/northamerica/canada/britishcolumbia/vancouver) is the mildest major Canadian city, but gets a lot of winter rain.
+
+[Greenland](/northamerica/greenland) has a narrow window. June through September is the only realistic time for most visitors — that's when you get the midnight sun, when fjords are navigable, and when hiking is possible. Even then, weather is unpredictable and cold. July and August are the "warmest" months, with temperatures around 5-10°C in the south. If you want to see the northern lights, September is your best bet. Winter tourism exists in a small way, but it's dark, extreme, and limited to a few towns.
+
+For the major national parks — Yellowstone, Yosemite, Zion, Glacier, Banff — timing matters enormously. July and August mean crowds so thick you'll spend hours in traffic jams inside parks. September is the sweet spot for most of them: fewer people, cooler temperatures, fall colors starting. Many parks have roads and facilities that close from October or November through May due to snow.

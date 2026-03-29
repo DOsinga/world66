@@ -34,13 +34,13 @@ Don't just list countries — characterize them. What kind of trip does each off
 
 Continent pages should have sections that address continent-wide practical concerns. Not every section makes sense for every continent, but here's the standard set:
 
-### Getting There (`getting_there.md`)
+### ~~Getting There (`getting_there.md`)~~ — Skip
 
-How do you get to this continent? Major gateway airports and cities, hub airlines, overland routes from neighboring continents, cruise/ferry options. Which entry points are cheapest, which are most convenient.
+Getting there doesn't make sense at the continent level — people fly to countries, not continents. This information belongs on country pages. Don't create continent-level getting_there sections; existing ones can be removed.
 
 ### Getting Around (`getting_around.md`)
 
-How do you travel within the continent? Overland options (bus networks, trains, domestic flights, rental cars). Multi-country passes or tickets. What's easy, what's hard. Regional differences in infrastructure.
+How do you travel within the continent? Keep it brief and high-level: what are the main options for crossing borders and covering long distances (bus networks, trains, domestic flights, rental cars)? What's easy, what's hard? Don't duplicate country-level transport details — just give the big picture so a traveler can plan a multi-country route.
 
 ### Practical Information (`practical_informat.md`)
 
@@ -57,9 +57,9 @@ Continent-wide practicalities that apply broadly:
 
 Only for continents where health is a major travel planning concern (Africa, South America, parts of Asia). Vaccinations commonly needed, malaria zones, water safety, altitude considerations. Link to country pages for specifics.
 
-### Beaches (`beaches.md`)
+### ~~Beaches (`beaches.md`)~~ — Skip
 
-A continent-level sampler: where are the best beaches, what kind of beach experience does each offer (surfing, snorkeling, sunbathing, empty vs. resort). Link to the actual destinations.
+Beach information belongs on country and city pages, not at the continent level. Don't create continent-level beaches sections; existing ones can be removed.
 
 ### People (`people.md`)
 
@@ -67,7 +67,7 @@ The human landscape of the continent. Ethnic and cultural diversity, languages s
 
 ### Books (`books.md`)
 
-Reading recommendations that span the continent or capture its spirit. Travel writing, literature, history. A few well-described picks are better than a long undescribed list. Each entry should say what the book is about and why a traveler would want to read it.
+Reading recommendations that span the continent or capture its spirit. Travel writing, literature, history. A few well-described picks are better than a long undescribed list. Each entry should say what the book is about and why a traveler would want to read it. Don't create a `books/` subdirectory with POI entries — just write the recommendations directly in the section file.
 
 ### When to Go (`when_to_go.md`)
 
@@ -80,28 +80,28 @@ Big-picture activities that define travel on this continent. Safari in Africa, t
 ## What we currently have vs. what we need
 
 ### Africa
-Has a solid overview with good regional breakdown. Needs: **getting_there** (exists but review), **practical_informat** (missing), **when_to_go** (missing), **things_to_do** (missing). The health section exists but has wrong title metadata ("Sights" instead of "Health") and thin content. Books section is essentially empty. Beaches section is a stub.
+Solid overview. Sections complete: getting_around, health, books, practical_informat, when_to_go, things_to_do. Overview could still use a refresh.
 
 ### Asia
-Overview is decent but has typos and some outdated framing ("Hippies going from London to Australia"). Has many spurious section files that don't belong at continent level (bars_and_cafes, eating_out, nightlife, shopping, sights, day_trips, top_5_must_dos) — these are city/country-level sections, not continent-level. Needs: **getting_there** (missing), **practical_informat** (exists but review), **health** (missing), **when_to_go** (exists but review), **things_to_do** (exists but review). Remove or repurpose the city-level section files.
+Overview has typos and outdated framing ("Hippies going from London to Australia") — needs a refresh. Spurious city-level sections cleaned up. Sections complete: getting_around, health, practical_informat, when_to_go, things_to_do. Also has food.md and language.md (legacy content, could be reviewed).
 
 ### Europe
-Good overview, well-structured regional tour. Needs: **practical_informat** (missing), **when_to_go** (missing), **things_to_do** (missing), **beaches** (missing), **health** (not needed). Has getting_around and getting_there — review for currency.
+Good overview. Sections complete: getting_around, practical_informat, when_to_go, things_to_do. Health not needed.
 
 ### North America
-Overview is the weakest — very brief, not much character. Needs a full rewrite to cover the US, Canada, and Greenland with the richness the other continents get. Missing most sections: **getting_there** (missing), **practical_informat** (missing), **when_to_go** (missing), **things_to_do** (missing), **beaches** (missing). The Mexico note at the bottom is helpful — keep that cross-reference.
+Overview is the weakest — brief, not much character. Needs a full rewrite. Sections complete: getting_around, practical_informat, when_to_go, things_to_do.
 
 ### South America
-Good overview with personality. Needs: **getting_there** (missing), **when_to_go** (missing), **things_to_do** (missing), **beaches** (missing). Has health, getting_around, practical_informat, books — review all for quality and currency.
+Good overview with personality. Sections complete: getting_around, health, practical_informat, books, when_to_go, things_to_do.
 
 ### Central America & the Caribbean
-Decent overview but short. Needs: **getting_there** (missing), **health** (missing), **when_to_go** (missing), **things_to_do** (missing), **beaches** (badly needed — this is the Caribbean!), **people** (missing).
+Decent overview but short. Sections complete: getting_around, health, practical_informat, books, when_to_go, things_to_do, people.
 
 ### Australia and Pacific
-Overview is okay but brief. Has many spurious city-level sections at continent level (eating_out, nightlife, shopping, top_5_must_dos, day_trips) that should be cleaned up. Needs: **when_to_go** (exists but review), **health** (missing), **practical_informat** (exists but review).
+Overview is okay but brief. Spurious city-level sections cleaned up. Sections complete: getting_around, health, practical_informat, when_to_go.
 
 ### Antarctica
-The most niche continent — appropriately short overview. Has getting_around, books, people. Could use: **getting_there** (the most important section for Antarctica — how do you actually get there?), **when_to_go** (crucial — there's a narrow travel season), **things_to_do** (what do you actually do there?).
+Appropriately short overview. Sections complete: getting_there, getting_around, books, people, when_to_go, things_to_do.
 
 ## Principles
 

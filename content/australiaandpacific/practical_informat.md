@@ -1,15 +1,14 @@
 ---
-title: "Practical Information in Australia and Pacific"
+title: "Practical Information"
 type: section
 ---
 
-This **Ile des Pins practical information** guide will give you a better understanding of the place you are planning to visit. The Isle of Pines has been dubbed as the "closest island to paradise", and no wonder, with its turquoise clear waters and the pine groves strewn all over the place.
+Most visitors to [Australia](/australiaandpacific/australia) need an eVisitor visa (for EU/UK passport holders) or an ETA (Electronic Travel Authority) for others, both applied for online before you travel. [New Zealand](/australiaandpacific/newzealand) requires an NZeTA for visa-waiver nationalities, also done online, plus an International Visitor Conservation and Tourism Levy. The Pacific islands vary widely — [Fiji](/australiaandpacific/fiji) and [Tonga](/australiaandpacific/tonga) grant visas on arrival for many nationalities, while [French Polynesia](/australiaandpacific/frenchpolynesia) follows French visa rules. Check requirements for each country individually; don't assume one Pacific island's rules apply to the next.
 
-**Island Natives**
+Australia uses the Australian dollar (AUD) and New Zealand the New Zealand dollar (NZD). Both countries are heavily card-oriented — you can tap to pay almost everywhere, including market stalls and small-town cafes. The Pacific islands are another story. While Fiji and larger towns accept cards, smaller islands and rural areas run on cash. French Polynesia and New Caledonia use the CFP franc. Bring enough local currency for a few days when heading to remote islands, and don't count on finding an ATM.
 
-Given that the island has been colonized by the French several times over, it is quite understandable why the Kunies, the first inhabitants of the island, are so protective of their tribe and their culture. The Kunies are divided into eight tribes, and each has different sets of customs that need to be learned and respected prior to interacting with them. Although most of them are very friendly to tourists, heck with the tourism board first before any attempts of visiting. The Kunies have their own oral language, although most of them are adept at French, and some English. Be very careful of misinterpretation.
+English is the primary language in Australia and New Zealand, and you'll have no trouble communicating across both countries. In the Pacific, things get more interesting. French is the language of daily life in [French Polynesia](/australiaandpacific/frenchpolynesia) and New Caledonia. Fiji is English-speaking, and most Pacific island nations use English alongside local languages. Learning a few words of the local language — even just greetings — goes a long way, particularly in smaller communities where tourism isn't the main industry.
 
-**Getting to the Island
-**
+Australia and New Zealand are very safe countries by any measure. The Pacific islands are generally safe too, with low crime rates in most areas. The real hazards in this region come from nature: Australia's wildlife reputation is earned (box jellyfish, saltwater crocodiles, snakes, and spiders are all present), but locals live with them just fine. Follow posted warnings, swim between the flags, and you'll be okay. In the Pacific, strong ocean currents and remote locations mean you should respect the water and not overestimate your swimming ability.
 
-The island is not one of the more easily reachable areas to visit. Getting to the island will involve a lot of plane and boat transfers. This means putting up with several delays, waiting time and customs check (although in the end it's more than worth it). The airport is 50 kilometers from Noumea, and from there another hour&rsquo;s drive to the domestic airport going to the island. Be sure to check your flights in order to avoid overnights or expensive land fares.
+Mobile coverage and internet are excellent throughout Australia and New Zealand, including decent 4G/5G in most populated areas. In the Pacific islands, connectivity drops off sharply. Major towns in Fiji and Tahiti have reasonable internet, but on remote islands you may have limited or no signal. If you need to be reliably connected, this region will teach you to plan ahead — or to enjoy the break.

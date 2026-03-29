@@ -3,24 +3,14 @@ title: "Things to Do in Asia"
 type: section
 ---
 
-You might want to add these things to your **Ipoh things to do **list while planning a visit to Ipoh. Ipoh is a popular tourist destination and there is something for every traveler to do while vacationing here. Whether you are on a business or leisure visit, you will be able to find several interesting things to do. Here are a few recommendations for you.
+Asia has more to do than any traveler could manage in a lifetime. The continent holds some of the world's oldest civilizations, its highest mountains, its densest jungles, and its most chaotic cities. Here are some of the experiences that make a trip here unforgettable.
 
-**Trek the Jungles of Ipoh**
+**Temples and ruins** are Asia's signature draw. Angkor Wat in [Cambodia](/asia/cambodia) is the obvious headliner — vast, photogenic, and genuinely awe-inspiring at sunrise. But Bagan in [Myanmar](/asia/myanmar), with over two thousand temples spread across a dusty plain, is just as remarkable and far less crowded. Borobudur in [Indonesia](/asia/indonesia) is the world's largest Buddhist monument. The temples of Kyoto are exquisite in their restraint. Prambanan in [Java](/asia/indonesia/java), the Ellora caves in [India](/asia/india), and the Khmer ruins scattered across [Thailand](/asia/thailand) and [Laos](/asia/laos) all reward a detour.
 
-One of the first things you want to do is go hiking. You can do this in Menglembu. The hills at Menglembu are just perfect for hiking. You will also be able to see the limestone formations in the area. You don't have to worry about getting lost here, as there are many locals in the area who will be able to give you directions.
+**Trekking** ranges from gentle day walks to serious mountaineering. The Annapurna Circuit and Everest Base Camp trek in [Nepal](/asia/nepal) remain two of the world's great long-distance hikes. The hills around Sapa in northern [Vietnam](/asia/vietnam) offer easier walking through rice terraces and minority villages. In [Kyrgyzstan](/asia/kyrgyzstan), you can trek between yurt camps in high alpine meadows with almost no other foreigners around. [Borneo](/asia/malaysia/borneo)'s Mount Kinabalu is a challenging but non-technical summit. For something different, the Lycian Way along [Turkey](/asia/turkey)'s Mediterranean coast combines ancient ruins with coastal scenery.
 
-**Kellie's Castle**
+**Beaches and diving** keep people coming back to Southeast Asia. The Thai islands — Ko Lipe, Ko Tao, the Similan Islands — offer some of the best and most accessible diving in the world. The [Philippines](/asia/philippines) has over seven thousand islands, and places like Palawan and Siargao are stunning. The [Maldives](/asia/maldives) are expensive but unmatched for reef diving and sheer turquoise beauty. [Sri Lanka](/asia/srilanka)'s south coast is excellent for surfing. The Gili Islands in [Indonesia](/asia/indonesia) are easy to reach from Bali and good for snorkeling right off the beach.
 
-Take a 30 minute drive from Ipoh to go and visit Kellie&rsquo;s Castle. This is a deserted castle that once belonged to a Scottish planter. The castle is a popular attraction that is said to be haunted and has secret passageways leading to secret rooms. You do not need to pay any entrance fee to visit the castle. However, you will need to hire a taxi to take you there. This will cost you around $20 and you can ask the driver to wait for you to finish. One hour is usually enough to view the whole castle.
+**Food** is reason enough to visit. Bangkok's street food is legendary — pad thai, som tam, mango sticky rice at plastic tables on the sidewalk. [Japan](/asia/japan) takes food to an art form, from ramen shops to kaiseki dining. [India](/asia/india)'s regional cuisines are so varied that eating your way from Kerala to Punjab feels like crossing several countries. The night markets of [Taiwan](/asia/taiwan) are a sensory overload in the best way. Penang in [Malaysia](/asia/malaysia) and [Singapore](/asia/singapore) compete fiercely for the title of Southeast Asia's food capital. [Vietnam](/asia/vietnam)'s pho and banh mi are world-famous for good reason.
 
-**Perak Cave**
-
-Located in Gunung Tasek, this cave was built by a Chinese Buddhist priest in 1926. It has 40 statues of the Buddha, one of which is the tallest and largest in Malaysia. You can also see other ancient murals here. You can take the steep staircase from inside the cave that leads up to the top of the hill. Once you are on the top of the hill, you will be able to enjoy a great view of the whole of Ipoh.
-
-**Caving **
-
-Gua Tempurung is another place where you can enjoy a nice cave adventure. This is also the largest limestone cave in Ipoh and has existed since 8000 B.C. The cave has two paths that are open to trekking. You can choose the long or the short path; the long path goes to the deepest part of the cave.
-
-**Whitewater Rafting**
-
-Whitewater rafting at the rapids of River Kampar is another popular thing to do. This is a place where you will be able to test your rafting skills. You will surely enjoy the natural beauty of the rainforest and the butterflies that swarm the riverbanks.
+**Cities** in Asia are experiences in themselves. [Tokyo](/asia/japan/tokyo) is endlessly fascinating — hyper-modern and deeply traditional at the same time. [Bangkok](/asia/thailand/bangkok) assaults the senses in the best possible way. [Istanbul](/asia/turkey/istanbul) straddles two continents and feels like it. [Hong Kong](/asia/china/hongkong) packs more energy per square meter than anywhere on earth. For something quieter, Luang Prabang in [Laos](/asia/laos) is one of Asia's most beautiful small cities, all saffron-robed monks and French colonial architecture on the banks of the Mekong. And for sheer sensory overload, nothing quite compares to [Delhi](/asia/india/delhi) or Mumbai.

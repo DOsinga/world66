@@ -1,24 +1,22 @@
 ---
-title: "When to Go in Mexico"
+title: "When to Go"
 type: section
 ---
 
-**Mexico and its Year-Round Splendor **
+Mexico has two seasons: dry (November to April) and wet (May to October). The distinction matters more in some regions than others.
 
-This **Mexico when to go** guide will present the 2 distinct seasons for this culture-rich North American country, the wet and the dry seasons. Mexico is a place for fun and adventure, and knowing what places to visit during a particular season will help you enjoy your trip even more.
+**November to April** is the best time for most of the country. Temperatures are mild, humidity is low, and rain is rare. This is peak tourist season — prices rise around Christmas, New Year, and Easter (Semana Santa), when Mexican families travel in large numbers and beach towns fill up. Book accommodation well ahead for those periods.
 
-#### **Best Months**
+**May to October** brings afternoon showers to most of the country. In tropical areas — the Gulf coast, Chiapas, southern Oaxaca — the rain can be heavy and sustained. The Caribbean coast is vulnerable to hurricanes from August through October; September is the riskiest month. That said, rain usually comes in afternoon bursts rather than all-day downpours, and prices drop significantly outside July and August.
 
-The dry season, during mid October to April, is a lot more manageable than the rainy season from May to mid October. However, the season is not specific enough, since Mexico is the 14th largest country in the world. Having such diversity, you have to know the specific months for particular areas you want to visit.
+**For specific regions:**
 
-#### **Valley of Mexico**
+The **Yucatan Peninsula** is best from December to February. Summers are brutally hot and humid, and hurricane season brings real risk to the Caribbean coast.
 
-If you want to have a year-round adventure in Mexico, you can stay in the Valley of Mexico where weather is pleasant all throughout the year. Although rainfall can occur during the months of June to mid October, it is manageable. The Valley of Mexico includes Mexico City and sits among mountains and volcanoes. Hence, be ready for earthquake "quivers" now and then. You can visit these national parks: the La Malinche National Park, Lagunas de Zempoala National Park and the Iztaccihuatl Popocatepetl National Park. There are great places to see, like the Pyramid of the Sun and the Moon, the Mexican National Palace and the world renowned National Museum of Anthropology and History.
+**Mexico City and the central highlands** sit at 2,200 metres and have a temperate climate year-round. Rainy season (June to September) brings afternoon showers but mornings are usually fine. The city is reliably pleasant from October through May.
 
-#### **Tourist Months**
+**Baja California** is a desert peninsula with a mild climate most of the year. Summers are very hot in the interior. The Pacific side stays cooler than the Gulf of California coast.
 
-Generally, July, August and December are the most popular months for tourists to visit Mexico. In fact, Mexico is one of the world leaders in the tourism industry. Mid-summer and December bring in the greatest number of tourists, so you may want to avoid these months. If crowds to not bother you and you prefer to explore with other tourists, then you can select these months to explore the hundreds of historic ruins within the country. You can also have the best choices for your waterfront beach events.
+**Oaxaca and the south** are pleasant from October to May. The valleys stay drier than the coast.
 
-#### **Best Places**
-
-The majority of the cities in Mexico are tourism-focused. You can join local and foreign tourists to bask in the splendor of its beaches or marvel at the Mesoamerican ruins. Places like Chihuahua, Oaxaca and Morelia, Michoac&aacute;n are only a few of these historic places. Guadalajara is a superb place to stay even during December. It is one of the most visited places in Mexico because you can easily visit during any month of the year.
+July and August see the most domestic tourism. If you prefer smaller crowds and lower prices, November (before the holiday rush) and late February to early April (after high season) are ideal.

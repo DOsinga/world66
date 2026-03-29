@@ -153,11 +153,11 @@ initCountryMap('country-map', '{{ continent_slug|escapejs }}');
 </script>
 {% elif markers_json != "[]" %}
 <script>
-initLocationMap('location-map', {{ markers_json }});
+initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
 </script>
 {% elif lat and lng %}
 <script>
-initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}"}]);
+initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
 </script>
 {% endif %}
 {% endblock %}

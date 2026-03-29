@@ -80,6 +80,7 @@ def location_or_section(request, path):
         "is_continent": is_continent,
         "markers_json": mark_safe(json.dumps(markers)),
         "tags": page.tags,
+        "is_poi": page.page_type == "poi",
     })
 
 
@@ -106,12 +107,15 @@ def tag_index(request, tag):
     return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
 
 
-def _marker_from_page(page):
+_SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks"}
+
+
+def _marker_from_page(page, highlight=False):
     """Extract a map marker dict from a page, or None if no coords."""
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
     if lat is not None and lng is not None:
-        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url()}
+        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url(), "highlight": highlight}
     return None
 
 
@@ -121,6 +125,7 @@ def _collect_markers(page, sections, locations, pois):
     For locations: markers come from child locations (cities in a country).
     For sections: markers come from POIs.
     Also gathers POIs from all sections (including their subdirectories).
+    Sights-section POIs are flagged highlight=True.
     """
     markers = []
     seen = set()
@@ -138,8 +143,9 @@ def _collect_markers(page, sections, locations, pois):
 
     # Gather POIs from inside each section's subdirectory
     for section in sections:
+        is_sight = section.slug in _SIGHT_SLUGS
         for poi in section.pois():
-            add(_marker_from_page(poi))
+            add(_marker_from_page(poi, highlight=is_sight))
 
     return markers
 

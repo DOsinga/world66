@@ -3,26 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**Air**
 
-Djibouti's national airline is *Air Djibouti (MG)* which operates internal flights and services to the Middle East and Europe. *Air France* operates three flights a week from Paris to Djibouti stopping en route in Jeddah. Other airlines offering services to Djibouti include* Ethiopian Airlines *and* Air Tanzania.*
+Djibouti-Ambouli International Airport (JIB) is the only international airport, about 5 kilometers south of the city center. Taxis into town are readily available.
 
-Approximate flight time
+The best connections are through the Middle East and East Africa. Ethiopian Airlines flies daily from Addis Ababa and connects onward to much of the world. Turkish Airlines serves Djibouti via Istanbul, and Air France operates flights from Paris. Flydubai and Air Arabia connect through the Gulf. There is no low-cost carrier serving Djibouti — expect to pay accordingly.
 
-From Djibouti to *London *is 11 hours (including stopovers).
+**Rail**
 
-International airport:
+The modern electrified railway between Djibouti and [Addis Ababa](/africa/ethiopia/addisababa) opened in 2018 and covers the 750-kilometer route in roughly twelve hours. Online ticket reservations were introduced in late 2025. The train runs several times a week and passes through some dramatic scenery as it climbs from sea level to the Ethiopian highlands. This is a genuinely worthwhile way to arrive or depart.
 
-*Djibouti (JIB)* is 5km (3 miles) south of the city. Taxis are available. There are four or five flights a week from Paris. Airport facilities include duty-free shops restaurants left luggage and a craft shop.
+**Road**
 
-Departure tax
+The main highway runs west from Djibouti City through Dikhil and on to [Ethiopia](/africa/ethiopia). The road is paved and in decent condition. There are also roads north to Tadjoura and Obock, though conditions deteriorate outside the main routes. Cross-border bus services to Ethiopia exist but are slow. Check current conditions and visa requirements before attempting overland crossings — the borders with [Eritrea](/africa/eritrea) and [Somalia](/africa/somalia) can be unpredictable.
 
-None.
+**Sea**
 
-Rail
-
-The *DjiboutiEthiopian Railway* operates regular trains from Addis Ababa and Dire Dawa with one train daily connecting with Djibouti; tourists and business people are prohibited from using the service.
-
-Road
-
-There are good roads from Djibouti to Assab (Eritrea) and going west into Ethiopia via Dikhil. Most other roads are rough but passable throughout the year and there is now a road link with Addis Ababa. Check transit regulations as political conditions in Ethiopia and Eritrea are changeable. There is a bus up to the Somalian border at Loyoda (see *Travel  Internal *section for information on documentation).
+Djibouti is a major port, but there are no regular passenger ferry services for international travel. Small boats cross the Gulf of Tadjoura to [Tadjoura](/africa/djibouti/tadjoura) and Obock from L'Escale in Djibouti City.

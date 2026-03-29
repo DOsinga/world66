@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 440 727 (July 1998 est.)
+Djibouti's population is small — roughly one million — but culturally rich. The two dominant groups are the **Somali** (primarily the Issa clan, about 60%) and the **Afar** (about 35%), with a small minority of Arabs, French, and Ethiopians. The Issa are concentrated in the south and in [Djibouti City](/africa/djibouti/djibouticity); the Afar in the north, around [Tadjoura](/africa/djibouti/tadjoura) and the interior.
 
-**Age structure:**
+Both groups are traditionally nomadic pastoralists, though most Djiboutians now live in the capital. Clan identity runs deep and shapes politics, business, and social life. The Afar and Issa have their own languages, customs, and oral traditions — poetry is valued in both cultures, and a skilled poet commands real respect.
 
-*0-14 years:* 43% (male 94 399; female 94 154)
+**Islam** is the faith of about 94% of the population, and it shapes daily rhythms. The call to prayer marks the day; Ramadan is observed seriously; and Friday is the day of rest. Djiboutians are generally welcoming to visitors but conservative in social norms. Dress modestly outside hotels, particularly women. Alcohol is available in bars and restaurants catering to the expatriate and military community but is not part of local culture.
 
-*15-64 years:* 55% (male 127 190; female 113 582)
+**French** is the language of government, education, and business. **Arabic** is co-official. In daily life, people speak **Somali** or **Afar** depending on their background. English is not widely spoken — you will get much further with French, and even a few phrases make a noticeable difference in how people respond to you.
 
-*65 years and over:* 2% (male 5 877; female 5 525) (July 1998 est.)
-
-**Population growth rate:** 1.51% (1998 est.)
-
-**Birth rate:** 41.75 births/1 000 population (1998 est.)
-
-**Death rate:** 14.69 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -11.91 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 1.11 male(s)/female
-
-*65 years and over:* 1.06 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 102.4 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 51.07 years
-
-*male:* 49.06 years
-
-*female:* 53.15 years (1998 est.)
-
-**Total fertility rate:** 5.94 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Djiboutian(s)
-
-*adjective:* Djiboutian
-
-**Ethnic groups:** Somali 60% Afar 35% French Arab Ethiopian and Italian 5%
-
-**Religions:** Muslim 94% Christian 6%
-
-**Languages:** French (official) Arabic (official) Somali Afar
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 46.2%
-
-*male:* 60.3%
-
-*female:* 32.7% (1995 est.)
+Djiboutians are hospitable. If you are invited for tea — and you likely will be — accept. Tea is served sweet and spiced, often with cardamom, and the invitation is genuine.

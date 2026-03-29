@@ -3,76 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Djibouti does not have a large travel literature, but a few books are worth seeking out.
 
-**Djibouti:1998/1999**
+**The Voyeur** by Abdourahman Waberi is the best-known work of fiction by a Djiboutian author. Waberi writes with sharp poetic intensity about identity, exile, and the landscape of the Horn of Africa. His earlier collection **The Land Without Shadows** paints Djibouti in vivid, hallucinatory prose — desert heat rising from every page.
 
+**Djibouti: Pawn of the Horn of Africa** by Robert Tholomier (abridged by Virginia Thompson and Richard Adloff) is the standard English-language history, covering the colonial period through independence. It is dated now but remains the most thorough account of how this small territory became a country.
 
+**Naval Strategy East of Suez: The Role of Djibouti** by Charles W. Koburger explains why so many foreign militaries have bases here. Djibouti's position at the Bab el-Mandeb strait, controlling access to the Red Sea and the Suez Canal, has made it strategically important out of all proportion to its size.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/158310061X/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert C. Kelly,Debra Ewing,Stanton Doyle,Den..
-
-isbn: 158310061X
-
-subject: travel
-
-**Djibouti:Pawn of the Horn of Africa**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810814153/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Tholomier,Abridged by Richard Adloff,A..
-
-isbn: 0810814153
-
-subject: travel
-
-**Naval Strategy East of Suez:The Role of Djibouti**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0275941167/ref=ase_osingacom?v=glance&s=books)
-
-author: Charles W. Koburger,Jr.
-
-isbn: 0275941167
-
-subject: travel
-
-**Djibouti:1998/1999**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/158310061X/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert C. Kelly,Debra Ewing,Stanton Doyle,Den..
-
-isbn: 158310061X
-
-subject: culture
-
-**Djibouti:Pawn of the Horn of Africa**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810814153/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Tholomier,Abridged by Richard Adloff,A..
-
-isbn: 0810814153
-
-subject: culture
-
-**Naval Strategy East of Suez:The Role of Djibouti**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0275941167/ref=ase_osingacom?v=glance&s=books)
-
-author: Charles W. Koburger,Jr.
-
-isbn: 0275941167
-
-subject: culture
+For a broader context on the region, **The Zanzibar Chest** by Aidan Hartley covers the Horn of Africa's recent turbulent history with extraordinary reporting, and touches on Djibouti as part of the wider story of the Somali world.

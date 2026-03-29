@@ -1,4 +1,0 @@
----
-title: "Obock"
-type: location
----

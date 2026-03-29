@@ -3,114 +3,22 @@ title: "Books"
 type: section
 ---
 
-The Netherlands have a long tradition in publishing and where a save haven for publishers with critical books since the seventeenth century. Even today some of the bigger publishing houses of the world are Dutch.
+The Netherlands has a rich literary and publishing tradition — Amsterdam was a centre of European printing from the 17th century, and several of the world's largest publishing houses are still Dutch.
 
-**Books**
+**History and context**
 
-**Amsterdam, Rotterdam, Leiden & the Hague **
+*The Embarrassment of Riches* by Simon Schama is the definitive cultural history of the Dutch Golden Age — sprawling, brilliant, and endlessly quotable. For a more accessible overview, try *The Low Sky* by Han van der Horst, which explains Dutch identity, habits, and history to outsiders with wit and insight.
 
+*The Undutchables* by Colin White and Laurie Boucke is a gentle satire of Dutch culture that the Dutch themselves enjoy. It is a bit cynical in places, but gets enough right to be genuinely funny.
 
+**War and memory**
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1860110673/ref=ase_osingacom?v=glance&s=books)
+*The Diary of a Young Girl* by Anne Frank needs no introduction. Reading it before visiting the Anne Frank House in [Amsterdam](/europe/netherlands/amsterdam) adds considerably to the experience. *The Hiding Place* by Corrie ten Boom tells the story of a Christian family sheltering Jews in [Haarlem](/europe/netherlands/haarlem), and is worth reading alongside it.
 
-author: Rod Bolt
+**Fiction**
 
-isbn: 1860110673
+*The Miniaturist* by Jessie Burton is set in 17th-century Amsterdam, a wealthy merchant household with dark secrets. Atmospheric and vividly researched. *Girl with a Pearl Earring* by Tracy Chevalier is set in [Delft](/europe/netherlands/delft) and follows the life of Vermeer's household — it captures the texture of Dutch Golden Age life well despite being fiction.
 
-subject: travel
+**Travel writing**
 
-**Art and Commerce in the Dutch Golden Age **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300081316/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael North
-
-isbn: 0300081316
-
-subject: history
-
-**Rick Steves' France, Belgium and the Netherlands 1999**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1562614622/ref=ase_osingacom?v=glance&s=books)
-
-author: Rick Steves,Steve Smith
-
-isbn: 1562614622
-
-subject: travel
-
-**Blue Guide the Netherlands**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0393317994/ref=ase_osingacom?v=glance&s=books)
-
-author: Rachel Esner
-
-isbn: 0393317994
-
-subject: travel
-
-**Art in History History in Art : Studies in Seventeenth-Century Dutch Culture **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0892362006/ref=ase_osingacom?v=glance&s=books)
-
-author: David Freeberg
-
-isbn: 0892362006
-
-subject: culture
-
-**Van Gogh**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/051642274X/ref=ase_osingacom?v=glance&s=books)
-
-author: Mike Venezia
-
-isbn: 051642274X
-
-subject: culture
-
-**The Letters of Vincent Van Gogh**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0684843005/ref=ase_osingacom?v=glance&s=books)
-
-author: Vincent van Gogh
-
-isbn: 0684843005
-
-subject: culture
-
-**The Anne Frank:The Diary of a Young Girl**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0553296981/ref=ase_osingacom?v=glance&s=books)
-
-author: Anne Frank,B. M. Mooyaart (Translator),Eleano..
-
-isbn: 0553296981
-
-subject: history
-
-**The Undutchables**
-
-A fun book for Dutch people to read and a nice guide for foreigners. It's a bit sinic though.... 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1888580224 /ref=ase_osingacom?v=glance&s=books)
-
-author: Colin White, Laurie Boucke
-
-isbn: 1888580224
-
-subject: The Dutch
+*Orange is the New Black? A Journey Through the Dutch Soul* by Ben Coates is a recent and entertaining account of an Englishman trying to understand his Dutch neighbours. More honest and less romantic than most expatriate memoirs.

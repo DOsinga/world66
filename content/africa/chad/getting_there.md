@@ -3,26 +3,30 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-The national airline is *Air Tchad (HT).* Chad is a shareholder in *Air Afrique (RK)* which operates two flights a week from Paris to N'Djam&eacute;na. *Air France* operates one flight a week on this route. Other airlines serving Chad include *Sudan Airways* *Ethiopian Airlines* and *Cameroon Airlines*.
+Nearly all international flights arrive at **N'Djamena International Airport** (NDJ), the country's only international airport, located 4 km northwest of the city center. Taxis are available at arrivals.
 
-Approximate flight time
+**Air France** operates flights from Paris (CDG), the most common routing from Europe. **Turkish Airlines** flies year-round from Istanbul (IST), which provides convenient connections from many cities worldwide. **Ethiopian Airlines** connects through Addis Ababa, offering good links from East Africa and beyond. Regional carriers include **ASKY Airlines** (hub in Lome, connecting West African capitals), **Camair-Co** (Douala), **EgyptAir** (Cairo), **Air Algerie** (Algiers), and **Royal Air Maroc** (Casablanca).
 
-From* Paris* to N'Djam&eacute;na is 5 hours 30 minutes. There are no direct flights or good connections for those travelling from London. Overnight transit costs may be covered by some airlines.
+There are no direct flights from the UK, the US, or Australia. Paris, Istanbul, and Addis Ababa are the most practical transit points.
 
-International airport:
+Flights to N'Djamena are not cheap, and options are limited. Book well in advance, especially during the peak travel season (November to February).
 
-*N'Djam&eacute;na (NDJ)* is 4km (2.5 miles) northwest of the city. Taxis are available. There is no duty-free shop.
+## Overland
 
-Departure tax:
+Chad can be entered by road from Cameroon, Nigeria, and the Central African Republic, though border security and road conditions vary enormously.
 
-CFA Fr5000.
+The most common overland route is from **Cameroon**, crossing at Kousseri, directly across the Chari River from [N'Djamena](/africa/chad/ndjamena). Boats shuttle passengers across; there is no bridge. The route from Maroua in northern Cameroon is also well-traveled.
 
-Rail
+From **Nigeria**, the crossing near Maiduguri passes through a sliver of northern Cameroon. This border area is subject to Boko Haram activity and most governments advise against travel here.
 
-There is no railway network in Chad. There have been long-standing plans for a rail link with Cameroon but construction is not yet underway.
+From the **Central African Republic**, the route runs through Gore on the Chadian side and Bossangoa on the CAR side. Road conditions are poor and the security situation in northern CAR is volatile.
 
-Road
+Overland entry from **Libya** and **Sudan** is theoretically possible but extremely difficult and dangerous. These borders are in conflict zones and most governments advise against all travel to these areas.
 
-There are routes from the Central African Republic Cameroon and Nigeria. Presently the best route from N'Djam&eacute;na to Bangui (car) goes via Bongor Lai Doba Gor&eacute; (border) and Bossangoa rather than through Sarh. It is possible to enter Chad either by this route or from Maiduguri in Nigeria via a sliver of northern Cameroon. The border between Cameroon and Chad is the River Logone which flows into Lake Chad. Boats ply across the river (there is no bridge). Roads can be inaccessible during the rainy season.
+There is no railway in Chad, and long-standing plans for a rail link with Cameroon have not materialized.
+
+## Visas
+
+Most nationalities require a visa to enter Chad. These must generally be obtained in advance from a Chadian embassy or consulate. Visa-on-arrival arrangements exist but are unreliable. Bring extra passport photos and proof of onward travel. Check current requirements with the nearest Chadian diplomatic mission before booking.

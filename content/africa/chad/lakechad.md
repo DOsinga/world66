@@ -1,16 +1,16 @@
 ---
-title: "Lake chad"
+title: "Lake Chad"
 type: location
+latitude: 13.0
+longitude: 14.0
 ---
 
-Travel Guide
+Lake Chad once ranked among the largest lakes in Africa. Since the 1960s it has lost roughly 90% of its surface area, a combination of climate change, drought, and upstream irrigation. What remains is a shallow, marshy expanse of open water, reed beds, and islands, shared between [Chad](/africa/chad), Cameroon, Nigeria, and Niger.
 
-Lake Chad may conjure up an image of a sweet lake lined with palm trees. That image is far from reality. The lake is drying up and has half of its pre-1960s. The hippos that were once common along the shores have begun to disappear.
+The lake is still home to fishing communities who work from traditional reed boats, the same design that inspired Thor Heyerdahl when he built his transatlantic vessel *Ra* in 1969. Heyerdahl recruited a crew from the Lake Chad region to construct the papyrus boat. The first attempt failed mid-Atlantic when the crew cut a crucial structural line, but a second vessel, *Ra II*, built by the same Chadian craftsmen, completed the crossing to Barbados.
 
-Touring Lake Chad is not very convenient, nor easy. Although its southern end is less than 100 km northwest of N’Djamena the interesting parts require a 300 km drive from the capital. There you can see traditional fishing and reed boats. Thor Heyerdahl used a crew from the area to build his reed ship *Ra, *based on Egyptian tomb art and the local reed boats to sail across the Atlantic. Halfway across the crew of the Ra (not the Chadian crew) cut a crutial line (see Getting Around). The expedition was not completed. Heyerdahl built a second reed boat with the same Chadian crew, the Ra2, and successfully completed his voyage to South America.
+Visiting the lake is possible as a long day trip from [N'Djamena](/africa/chad/ndjamena), though the most interesting areas along the northern shore require a drive of 300 km or more. The small town of **Bol** on the lakeshore is the usual base. There is no formal lodging; you camp. A 4x4 is essential for the deep sand along the shore.
 
-Lake Chad is located in Africa.
+The lake and its surroundings are ecologically fragile. The hippos that were once common have largely disappeared, and the shrinking waters have created tension between farming and fishing communities. It is a fascinating and sobering place to visit, a living illustration of environmental change.
 
-Lake Chad is generally seen as a long and tiring day trip from N’Djamena or you can camp in Bol on the lake (there’s no lodging). It’s best to get a four-wheel-drive vehicle to negotiate the deep sand along the lakeshore.
-
-Note: Don’t wade or swim in the lake—bilharzia (parasites that cause schistosomiasis) are present in the water.
+**Warning:** Do not wade or swim in the lake. Bilharzia (schistosomiasis) parasites are present in the water. The Lake Chad region also has significant security concerns; check current travel advisories before planning a visit.

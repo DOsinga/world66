@@ -1,6 +1,12 @@
 ---
 title: "Hadjer Hadid"
 type: location
+latitude: 12.7833
+longitude: 22.2167
 ---
 
-**Hadjer Hadid** is a small village with two extremely large Sudanese refugees camps nearby. While Bredjing refugee camp (approximately 24,000 refugees) is located approximately 15 mintues from Hadjer Hadid village, Treguine refugee camp (approximately 14,000 refugees) is only 5 mintues away. Home to Hadjer Hadid as of 2005 was IFRC, MSF, Oxfam, PU, CORD, amongst other international and national NGOs. While extremely dry for most of the year, during the rainy season, this virtual desert transforms itself into a green paradise. Highlights during the rainy season include camel riding, walking, and Friday night NGO get-togethers.
+Hadjer Hadid is a small village in eastern [Chad](/africa/chad), best known as the location of two large refugee camps, Bredjing and Treguine, housing Sudanese refugees who crossed the border during the Darfur crisis. The camps have been there since 2003, and international organizations including MSF, Oxfam, and IFRC maintain a presence.
+
+The landscape is harsh for most of the year, dry and dusty, but during the rainy season (July to September) the desert transforms into an unexpected green. The surrounding area is home to semi-nomadic communities, and you may see camel herds passing through.
+
+This is not a tourist destination. Travelers who end up here are typically working with aid organizations. If you are passing through, be sensitive to the situation. The refugee camps are not attractions.

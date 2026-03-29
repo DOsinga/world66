@@ -1,4 +1,0 @@
----
-title: "Kyabe"
-type: location
----

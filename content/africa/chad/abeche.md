@@ -1,10 +1,14 @@
 ---
 title: "Abeche"
 type: location
+latitude: 13.8292
+longitude: 20.8324
 ---
 
-Aneche is in the east of Chad, some 750 km from Ndjamena. When the french arrived in [Chad](/africa/chad), Abeche was the most important urban centre of the country with a population of almost 30,000 inhabitants. It was the centre of the powerful Ouaday Kingdom and today you still find many crumbling signs of its former glory. There are a few old mosques, cobbled streets, souqs and a very rundown Sultan's palace. The place is especially exiting because there are nomads all over the place that look like they come straight from a coffee table book.
+Abeche, 750 km east of [N'Djamena](/africa/chad/ndjamena), was the most important city in [Chad](/africa/chad) when the French arrived. It was the capital of the powerful Ouaddai Kingdom, and you can still see the remnants of that era: crumbling mosques, cobbled streets worn smooth, old souqs, and a rundown sultan's palace that hints at former grandeur.
 
- Abeche has a few options for accommodation and food, none of which are particularly exiting.
+The town itself is not large, and amenities are basic. There are a few simple hotels and places to eat, none of which will impress, but the atmosphere is compelling. Nomads from the surrounding desert pass through constantly, Zaghawa and Arab traders with their camels and livestock, and the market has a frontier energy that the capital lacks.
 
- [Ouara](/africa/chad/ouara) is a few kilometres away and nice to visit. there is a mosque and a sultan's tomb. If you are brave you might continue all the way to Adre on the border with Sudan. Apparently it is possible to cross into Sudan, but I haven't heard of anyone doing this. If you have, please let us know!
+Abeche is also the gateway to the eastern desert and the Ennedi Plateau. Most overland expeditions to the Ennedi stage through here for fuel and supplies.
+
+The nearby ruins of **Ouara**, the former capital of the Ouaddai sultanate, are a few kilometers away and worth a visit. A mosque and sultan's tomb still stand. East of Abeche, the road continues to **Adre** on the Sudanese border. The border is technically open but the area is sensitive due to the long-running refugee crisis, and travel here requires careful planning and current intelligence on security conditions.

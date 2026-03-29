@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 7 359 512 (July 1998 est.)
+Chad is one of the most ethnically diverse countries in Africa, with over 200 distinct ethnic groups speaking more than 100 languages. The cultural divide between the Muslim, Arabic-speaking north and the Christian and animist south is the defining feature of Chadian society and has shaped the country's turbulent politics.
 
-**Age structure:**
+In the arid north and east, the **Toubou** and **Zaghawa** are nomadic and semi-nomadic peoples adapted to life in the Sahara and Sahel. The Toubou, who inhabit the Tibesti Mountains, are famously tough and independent. The **Kanembou** and **Kotoko** live around [Lake Chad](/africa/chad/lakechad) and are traditionally fishermen and farmers. In the cities, particularly [N'Djamena](/africa/chad/ndjamena) and [Abeche](/africa/chad/abeche), Arab traders and Hausa merchants give the markets their bustle.
 
-*0-14 years:* 44% (male 1 631 010; female 1 623 272)
+The south is home to the **Sara**, the largest ethnic group in Chad, who are predominantly Christian or animist farmers. Southern culture is more settled and agricultural, with distinct traditions of music, dance, and initiation ceremonies.
 
-*15-64 years:* 53% (male 1 903 012; female 1 982 257)
+The **Fulani** (Peul) are cattle herders found across the Sahel belt, moving with their herds between wet and dry season pastures. If you travel through the countryside, you will encounter Fulani camps and their distinctive long-horned cattle. The annual **Gerewol** festival, where young Wodaabe Fulani men compete in an elaborate beauty contest of face-painting and dance, takes place in parts of the Sahel and is one of the most remarkable cultural events in Africa.
 
-*65 years and over:* 3% (male 97 118; female 122 843) (July 1998 est.)
+Islam, practiced by roughly half the population, dominates the north. Christianity and traditional beliefs are prevalent in the south. In practice, the two worlds overlap in the cities, and Chadians of all backgrounds are known for their hospitality. Greetings are important and elaborate. Handshakes are expected. If invited to share a meal, accept. Tea is offered as a sign of welcome, and refusing it is poor form.
 
-**Population growth rate:** 2.66% (1998 est.)
-
-**Birth rate:** 43.45 births/1 000 population (1998 est.)
-
-**Death rate:** 16.86 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.04 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.79 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 116.97 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 48.22 years
-
-*male:* 45.81 years
-
-*female:* 50.73 years (1998 est.)
-
-**Total fertility rate:** 5.74 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Chadian(s)
-
-*adjective:* Chadian
-
-**Ethnic groups:** Muslims (Arabs Toubou Hadjerai Fulbe Kotoko Kanembou Baguirmi Boulala Zaghawa and Maba) non-Muslims (Sara Ngambaye Mbaye Goulaye Moundang Moussei Massa) nonindigenous 150 000 (of whom 1 000 are French)
-
-**Religions:** Muslim 50% Christian 25% indigenous beliefs (mostly animism) 25%
-
-**Languages:** French (official) Arabic (official) Sara and Sango (in south) more than 100 different languages and dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write in French or Arabic
-
-*total population:* 48.1%
-
-*male:* 62.1%
-
-*female:* 34.7% (1995 est.)
+French and Arabic are both official languages, but Chadian Arabic is the most widely spoken lingua franca. If you speak French, you will get by. If you speak Arabic, even a few phrases, doors will open.

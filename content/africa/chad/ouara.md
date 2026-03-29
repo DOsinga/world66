@@ -1,4 +1,0 @@
----
-title: "Ouara"
-type: location
----

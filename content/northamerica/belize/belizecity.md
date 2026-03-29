@@ -1,10 +1,14 @@
 ---
-title: "Belize city"
+title: "Belize City"
 type: location
+latitude: 17.2510
+longitude: -88.7671
 ---
 
-Belize City is situated on the east coast and is the travel hub of the country. Belize City is filled with history and has some interesting sights to explore. One highlight is the only manual swing bridge in the world and is still being swung daily. 
+Belize City is the largest city in the country and its main transport hub, sitting where the Belize River meets the Caribbean Sea. Most international flights land here, and the water taxi and bus terminals are the departure points for the cayes and the interior.
 
-Belize City is also the starting point visit the many attractions of the hardly known country., for exampl, the relaxing Placencia, the adventurous Cockscomb Basin, the only Jaguar Reserve in the country to the mysterious archaeological sites such as Caracol and Xunantunich and the interesting Mountain Pine Ridge area. 
+Many travelers pass through quickly, and that's a reasonable choice — there's not an enormous amount to do. But the city has a rawer, more authentic energy than the tourist-polished cayes. The old colonial architecture along the waterfront, the Museum of Belize (housed in a former colonial jail), and the Swing Bridge — still operated manually and swung twice daily for boat traffic — are worth an hour or two.
 
-Most toursists tend to leave the city as soon as possible, because of the crime.
+Crime is a real concern, particularly in the Southside. In tourist areas (the Fort George neighborhood, the waterfront) it's generally fine, but take taxis at night and don't flash valuables. The city's problems are concentrated in specific neighborhoods that tourists have no reason to visit.
+
+The Fort George area, north of the Swing Bridge, has most of the better hotels and restaurants. The Marine Terminal for water taxis is on North Front Street.

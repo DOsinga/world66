@@ -3,31 +3,20 @@ title: "Festivals"
 type: section
 ---
 
-These are the festivals, the cities and months
+Argentina celebrates loudly and often. Here are the events most worth planning a trip around.
 
-**World Tango Festival:** Buenos Aires, January
+**Carnaval de Gualeguaychú** (January–February, Gualeguaychú, Entre Ríos): Argentina's biggest carnival, staged at the Corsódromo every weekend in January and February. Massive samba-influenced comparsa groups compete with elaborate floats and costumes. Less chaotic than Rio but genuinely spectacular. Book accommodation well in advance.
 
-**Art BA Fair:** Buenos Aires, May
+**Carnaval de Corrientes** (January–February, Corrientes): Another major carnival in the northeast, with over 4,000 performers in nightly parades. More intimate and less tourist-heavy than Gualeguaychú.
 
-**Gualeguaychu Carnival:** Gualeguaychu (Entre Rios province), January-February
+**Vendimia — Fiesta Nacional de la Vendimia** (March, Mendoza): The national grape harvest festival runs for several days in early March, combining vineyard blessings, outdoor concerts, a royal coronation pageant, and a large theatrical performance at the Frank Romero Day Amphitheater. The surrounding weeks bring harvest activities across Mendoza province.
 
-**Creamfields: **Buenos Aires, November
+**Semana Santa** (March/April): Holy Week is observed across the country. Many Argentines travel during this period, so transport and accommodation book up quickly.
 
-**OktoberFest Argentina: **Villa General Belgrano (Cordoba province), October
+**Festival de Cosquín** (January, Cosquín, Córdoba): The most important folk music festival in Argentina, held every January since 1961. Nine days of peñas, chacareras, zambas, and other traditional Argentine folk forms.
 
-**International BA Festival:** Buenos Aires, September
+**Buenos Aires International Tango Festival** (August, Buenos Aires): Two weeks of milongas, concerts, and the World Tango Championship. Free outdoor events take place across the city. The most accessible introduction to tango culture.
 
-**Semana Musical Llao Llao:** Bariloche, September
+**OktoberfestArgentina** (October, Villa General Belgrano, Córdoba): A German immigrant community celebration that has grown into one of the country's most popular beer festivals. The town fills up in the second and third weeks of October.
 
-**BA Tango Festival:** Buenos Aires, February-March
-
-**Tilcara Carnival Festival:** Tilcara (Salta province), March
-
-**BA Gay Parade**: Buenos Aires, November
-
-**Contributors**
-January 04, 2006
-
-### [La Rural](/southamerica/argentina/festivals/la_rural)
-
-major agricultural and equestrian show; Palermo, Buenos Aires; late July.
+**Buenos Aires Pride** (November, Buenos Aires): One of the largest Pride marches in South America, drawing hundreds of thousands to the Avenida de Mayo and Plaza de Mayo.

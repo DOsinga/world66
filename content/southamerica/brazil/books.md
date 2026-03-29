@@ -3,100 +3,26 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Travel and natural history**
 
-**Lonely Planet Brazil**
+*Brazil* by Michael Palin — A readable and warmly observed travelogue by the former Monty Python member, covering the country's regions with curiosity and affection. Good for armchair preparation.
 
+*The Cloud Garden* by Tom Hart Dyke and Paul Winder — Not strictly a Brazil book, but this account of being held hostage in the Darién Gap starts with a journey through South America and captures the spirit of overland travel in the region.
 
+**History and politics**
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425619/ref=ase_osingacom?v=glance&s=books)
+*Brazil: Five Centuries of Change* by Thomas E. Skidmore — A rigorous and accessible political and social history from the Portuguese arrival to the modern republic. Essential background for understanding why Brazil is the way it is.
 
-author: Nick Selby,Andrew Draffen
+*The Motorcycle Diaries* by Ernesto "Che" Guevara — Guevara's journal of his early 1950s journey through South America includes time in Brazil and is vivid on the continent's poverty and inequality.
 
-isbn: 0864425619
+**Fiction**
 
-subject: travel
+*Gabriela, Clove and Cinnamon* by Jorge Amado — Set in a small Bahian town in the 1920s, this novel by Brazil's most internationally celebrated writer captures the heat, colour, and sensuality of the northeast with affection rather than sentiment.
 
-**Brazil**
+*The Alchemist* by Paulo Coelho — Brazil's most widely read author globally. The novel is set mostly in Spain and North Africa, but Coelho is a Brazilian voice worth knowing; *By the River Piedra I Sat Down and Wept* is more directly rooted in Brazilian Catholic mysticism.
 
+**Music and culture**
 
+*The Brazilian Sound: Samba, Bossa Nova, and the Popular Music of Brazil* by Chris McGowan and Ricardo Pessanha — The best English-language survey of Brazilian popular music. Covers samba, bossa nova, MPB, tropicália, and beyond. Revised and updated editions remain in print.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887291309/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Guides
-
-isbn: 0887291309
-
-subject: travel
-
-**Eat Smart in Brazil:How to Decipher the Menu, Know the Market Foods and Embark on a Tasting Adventure**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0964116839/ref=ase_osingacom?v=glance&s=books)
-
-author: Joan Peterson,Susie V. Medaris (Illustrator),..
-
-isbn: 0964116839
-
-subject: culture
-
-**The Brazilian Sound:Samba, Bossa Nova, and the Popular Music of Brazil**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566395453/ref=ase_osingacom?v=glance&s=books)
-
-author: Chris McGowan,Ricardo Pessanha
-
-isbn: 1566395453
-
-subject: culture
-
-**The Battle of Brazil:Terry Gilliam v. Universal Pictures in the Fight to the Final Cut with the complete director's..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1557833478/ref=ase_osingacom?v=glance&s=books)
-
-author: Jack Mathews
-
-isbn: 1557833478
-
-subject: culture
-
-**Brazil:Places and History**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155670691X/ref=ase_osingacom?v=glance&s=books)
-
-author: Bebbe Ceccato
-
-isbn: 155670691X
-
-subject: history
-
-**Out of Many Waters**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0802774016/ref=ase_osingacom?v=glance&s=books)
-
-author: Jacqueline Dembar Greene
-
-isbn: 0802774016
-
-subject: history
-
-**Brazil:Five Centuries of Change**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195058097/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas E. Skidmore
-
-isbn: 0195058097
-
-subject: history
+*Tropicália: A Brazilian Revolution in Sound* by Carlos Calado — A deep dive into the short-lived but enormously influential late-1960s movement that fused rock, Brazilian folk, and avant-garde experimentation. Caetano Veloso's memoir *Tropical Truth* covers much of the same ground from the inside.

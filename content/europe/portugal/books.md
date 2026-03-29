@@ -3,112 +3,24 @@ title: "Books"
 type: section
 ---
 
-**general**
+**Fiction and literature**
 
-**Frommer's Spain '99**
+*The Book of Disquiet* by Fernando Pessoa is the defining work of Portuguese literary culture — a fragmentary, melancholy meditation on Lisbon and on being alive. Not a travel read in any conventional sense, but no book captures the city's atmosphere better.
 
+*Baltasar and Blimunda* by José Saramago is a historical novel set in 18th-century Portugal, by the country's only Nobel laureate. His *The History of the Siege of Lisbon* is a more immediate Lisbon read.
 
+*Night Train to Lisbon* by Pascal Mercier (Peter Bieri) follows a Swiss professor who impulsively boards a train to Lisbon. Atmospheric, if a bit slow — but it makes Lisbon feel worth running toward.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/002862372X/ref=ase_osingacom?v=glance&s=books)
+**History**
 
-author: Darwin Porter,Danforth Prince
+*A Small Death in Lisbon* by Robert Wilson is a thriller that weaves between the Salazar era and modern Lisbon. Good on the long shadow of the dictatorship.
 
-isbn: 002862372X
+*The Last Crusade: The Epic Voyages of Vasco da Gama* by Nigel Cliff puts the Age of Discovery in sharp relief, essential context for understanding Portugal's outsized place in world history.
 
-subject: travel
+**Food and culture**
 
-**Eyewitness Travel Guide:Spain**
+*Lisbon: Recipes from the Heart of Portugal* by Rebecca Seal gives a solid grounding in Portuguese cuisine. For a more encyclopedic reference, *My Portugal* by George Mendes (a Portuguese-American chef) covers the food with depth.
 
+**Travel**
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0789410680/ref=ase_osingacom?v=glance&s=books)
-
-author: DK Travel Writers,Deni Bown
-
-isbn: 0789410680
-
-subject: travel
-
-**Fodor Spain '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679001441/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 0679001441
-
-subject: travel
-
-**Culture Shock!:Spain**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155868106X/ref=ase_osingacom?v=glance&s=books)
-
-author: Marie Louise Graff
-
-isbn: 155868106X
-
-subject: culture
-
-**The Port Companion:A Connoisseur's Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028617819/ref=ase_osingacom?v=glance&s=books)
-
-author: Godfrey Spence
-
-isbn: 0028617819
-
-subject: culture
-
-**Hotels of Character and Charm in Portugal**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/067900209X/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 067900209X
-
-subject: culture
-
-**Iberia:Spanish Travels & Reflections**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0449207331/ref=ase_osingacom?v=glance&s=books)
-
-author: James A. Michener,Robert Vavra (Photographer)
-
-isbn: 0449207331
-
-subject: history
-
-**The Ghost of Hannah Mendes**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/068483393X/ref=ase_osingacom?v=glance&s=books)
-
-author: Naomi Ragen
-
-isbn: 068483393X
-
-subject: history
-
-**The History of the Siege of Lisbon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0156006243/ref=ase_osingacom?v=glance&s=books)
-
-author: Jose Saramago,Giovanni Pontiero (Translator)
-
-isbn: 0156006243
-
-subject: history
+The *Rough Guide to Portugal* and *Lonely Planet Portugal* are both kept reasonably up to date and worth having in print if you're doing extended travel. Rick Steves' *Portugal* is strong on Lisbon and the main tourist corridor and better-suited to first-timers.

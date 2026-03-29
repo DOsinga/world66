@@ -1,10 +1,16 @@
 ---
 title: "Kinshasa"
 type: location
+latitude: -4.3250
+longitude: 15.3222
 ---
 
-The capital and largest city of Congo with over 4 million inhabitants is a large, sprawling city on the Congo River directly across from [Brazzaville](/africa/congobrazzaville/brazzaville), Congo Republic. It is one of the craziets places on the planet right now.
+Kinshasa is one of Africa's largest cities, home to over 17 million people and sprawling along the south bank of the Congo River directly across from [Brazzaville](/africa/congobrazzaville/brazzaville). It is loud, chaotic, creative, and exhausting -- sometimes all at once. This is not a city of tourist sights in the conventional sense, but it is a place of enormous energy, and for travelers willing to engage with it, deeply rewarding.
 
- When things return to normal there, be sure to visit St. Anne’s Cathedral (and the art market nearby), the botanical gardens, the Aviators’ and Stanley monuments and the ethnological museum at Lovanium University. 
+The city divides roughly into two worlds. **Gombe**, the administrative and business district along the river, is where you will find embassies, international hotels, restaurants, and the closest thing the DRC has to orderly streets. It is the safest part of the city and where most visitors base themselves. Beyond Gombe, the city sprawls into vast residential communes -- Matonge, Lingwala, Barumbu, Kintambo -- that pulse with street life, markets, and music.
 
- Also spend some time people watching and walking through both the old and new sections of town to look at the various shops. In the Gombe district, the most affluent part of town, upscale shops and restaurants can be found. At night, visit the restaurants and nightclubs in the Matonge area downtown, where the high pitched sounds of live pop music ring out. Be aware that the area is notorious for robberies. Plan to stay one night in the capital. Should you have additional time, hire a taxi or car with driver and take a day to drive along the Congo River road to Zongo Falls, stopping at the little villages along the way.
+**Matonge** is Kinshasa's cultural heart. Named after the neighborhood in Brussels where Congolese immigrants settled, the original Matonge is where live rumba and ndombolo spill from bars and clubs every weekend. This is where you come to experience Kinshasa's famous music scene. Be aware, though, that the area is notorious for petty crime -- go with a local guide, keep valuables hidden, and stay alert after dark.
+
+The **Musee National de Kinshasa** houses a collection of traditional Congolese art, masks, and ceremonial objects. The **Academie des Beaux-Arts** is worth a visit for its contemporary Congolese art. The **Marche Central** is an overwhelming sensory experience -- one of the largest markets in Central Africa.
+
+Kinshasa is not a safe city by any standard. Do not walk alone, even during daylight. Use taxis recommended by your hotel. Avoid demonstrations, which can turn violent quickly. The commune of Gombe is your safest base. Despite all this, Kinshasa has a warmth and creative vitality that is hard to find anywhere else on the continent.

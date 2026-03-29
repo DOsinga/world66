@@ -1,4 +1,0 @@
----
-title: "Lumumbashi"
-type: location
----

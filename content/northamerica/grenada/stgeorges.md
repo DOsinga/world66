@@ -1,16 +1,18 @@
 ---
-title: "St. Georges"
+title: "St. George's"
 type: location
+latitude: 12.0530
+longitude: -61.7488
 ---
 
-The capital fo Grenada is an attractive place and it is well worth your while to drag yourslef away from the beach for a couple of days.
+St. George's is one of the most attractive capitals in the Caribbean. It sits around the Carenage, a horseshoe-shaped inner harbour lined with Georgian warehouses painted in faded pastels, small fishing boats, and the occasional cruise ship tender. The city climbs the hills above the harbour in a jumble of steep lanes, red-roofed buildings, and old churches.
 
- Fort Georeg is the main attraction of the city. It gives you excellent views over the area and especially the horse shoe shaped Carenage with its "Christ of Deep Statue" and its Cruise ship terminal.
+Fort George crowns the headland above the Carenage and gives excellent views over both the inner and outer harbour. It was here in 1983 that Prime Minister Maurice Bishop and several of his ministers were executed during the coup that preceded the US invasion. A plaque marks the spot.
 
-At the foot of the fort you find a maze of small streets lined with small shops. For more shopping head for the Market Square in the centre.
+Below the fort, the Market Square in the centre of town is the place to go on Saturday morning, when vendors spread out spices, fresh produce, and handmade goods. The spice stalls are the highlight: nutmeg, mace, cinnamon, bay leaves, and dried turmeric piled in open sacks.
 
- For history buffs the Grenada National Museum is worth a visit as is Fort Frederick up on Richmond Hill.
+The Grenada National Museum on Young Street holds a modest but worthwhile collection covering Arawak and Carib history, the colonial period, and the 1983 revolution. Fort Frederick on Richmond Hill to the east is less visited than Fort George but has good views and interesting history.
 
- An unusual attraction is the traffic policeman on a platform where Scott Street meets Lucas Street. The Anglican Church dating from 1825, the Cathedral from 1818 and St. Andrews Presbitery from 1830 give lovers of religious architecture something th choose from.
+The Anglican Church on Church Street dates from 1825, the Catholic Cathedral from 1818, and St. Andrew's Presbyterian Church from 1830 — a compressed history of colonial-era religious architecture within a few blocks of each other.
 
- For a rest head for the botanical gardens, founded in 1887 and considered a national treasure. The gardens are just behind the roundabout wher Lowthers Lane, Tantee Road and Paddock Road meet.
+The Botanical Gardens behind the roundabout at Lowthers Lane are a quiet place to sit out the midday heat. They were founded in 1887 and, though no longer at their colonial peak, are green and well maintained.

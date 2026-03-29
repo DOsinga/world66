@@ -856,6 +856,72 @@ img { max-width: 100%; height: auto; }
   }
 }
 
+/* POI table on section pages */
+.poi-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 14px;
+}
+
+.poi-table thead th {
+  text-align: left;
+  padding: 8px 12px;
+  background: var(--sidebar-bg);
+  border-bottom: 2px solid var(--border);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-light);
+}
+
+.poi-table tbody tr {
+  border-bottom: 1px solid var(--border);
+}
+
+.poi-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.poi-table tbody tr:hover {
+  background: #fafaf8;
+}
+
+.poi-table td {
+  padding: 10px 12px;
+  vertical-align: top;
+}
+
+.poi-table-name {
+  width: 30%;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.poi-table-name a {
+  color: var(--blue);
+}
+
+.poi-table-details {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.poi-detail {
+  display: block;
+  color: var(--text);
+  font-size: 13px;
+}
+
+.poi-detail-key {
+  color: var(--text-light);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-right: 5px;
+}
+
 /* Tags */
 .tags {
   margin-top: 20px;

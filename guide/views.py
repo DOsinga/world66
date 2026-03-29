@@ -8,7 +8,7 @@ from django.http import Http404
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page, load_tag_index
+from .models import load_page, load_tag_index, load_search_index
 
 
 @lru_cache(maxsize=1)
@@ -81,6 +81,21 @@ def location_or_section(request, path):
         "markers_json": mark_safe(json.dumps(markers)),
         "tags": page.tags,
     })
+
+
+def search(request):
+    query = request.GET.get("q", "").strip()
+    results = []
+    if query:
+        q_lower = query.lower()
+        index = load_search_index()
+        results = [
+            {"title": title, "url": "/" + url_path, "page_type": page_type}
+            for title_lower, title, url_path, page_type in index
+            if q_lower in title_lower
+        ]
+        results.sort(key=lambda r: (not r["title"].lower().startswith(q_lower), r["title"].lower()))
+    return render(request, "guide/search.html", {"query": query, "results": results})
 
 
 def tag_index(request, tag):

@@ -23,6 +23,10 @@
         <img src="{% static 'images/logo.gif' %}" alt="World66" class="logo-img">
         <span class="logo-ribbon">The Travel Guide <em>You Write</em></span>
       </a>
+      <form class="site-search" action="/search" method="get" role="search">
+        <input type="search" name="q" placeholder="Search destinations&hellip;" value="{{ request.GET.q|default:'' }}" aria-label="Search destinations">
+        <button type="submit" aria-label="Search">&#128269;</button>
+      </form>
     </div>
 
     <nav class="top-nav">

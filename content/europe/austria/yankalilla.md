@@ -1,4 +1,0 @@
----
-title: "Yankalilla"
-type: location
----

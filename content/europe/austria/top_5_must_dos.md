@@ -1,26 +1,24 @@
 ---
-title: "Top 5 Must Do's in Austria"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-Austria is replete with historical and natural wonders. It is difficult to pick and choose a few from the big list of stunning sights that Austria is blessed with. **Austria Must Do's** involve some of the best adventurous sports and activities that you will find nowhere else under the sun.
+**1. Hike the Alps in summer**
 
-**Trekking and Hiking in the Alps**
+Austria has over 50,000 kilometers of marked hiking trails, and the infrastructure is superb — color-coded waymarks, staffed mountain huts serving hot food and cold beer, and cable cars to get you up to the high ground without the slog. You don't need mountaineering experience. A day hike from [Innsbruck](/europe/austria/innsbruck) takes you above the treeline in under an hour, with views across the Nordkette range that make the effort irrelevant. For something more ambitious, multi-day hut-to-hut treks through the Zillertal, the Stubai Alps, or the Hohe Tauern let you walk for days through some of the most dramatic scenery in Europe, sleeping in mountain refuges and carrying only a light pack.
 
-The Alps form the heavenly white snowy skyline of Austria. You must visit the Alps during the summer when the ice starts melting. During the summer the lower regions covered with green pastures and the upper parts blanketed in snow and fog provides a mesmerizing view for the visitors. The Alps, with picturesque scenic beauty, are counted among the popular locations where tourists can indulge in adventurous activities. If you are a novice in trekking, then you must pay a visit to Voralberg. You can hike or take gentle walks across the wide green slope line of Alps. If you seek more excitement, then a steep hike along the Tauern National Park leading to a snow capped mountain peak will definitely satisfy your appetite for adventure.
+**2. Ski Tyrol**
 
-**Skiing in Tirol**
+The Tyrolean Alps have some of the best skiing in the world, and unlike some glitzy resorts, the experience here combines serious terrain with genuine Austrian mountain culture. St. Anton is the classic — steep, challenging, with legendary après-ski. Kitzbühel has the famous Hahnenkamm downhill and a beautiful medieval town at its base. The SkiWelt and Zillertal Arena offer huge interconnected areas where you can ski for a week without repeating a run. Lift infrastructure is modern, snow reliability is high thanks to altitude and snowmaking, and every village has a warm Stube where you can end the day with Kaiserschmarrn and a beer.
 
-Skiing in Austria is synonymous with Skiing in Tirol. This place is a heaven for ski lovers. Experts love the precipitous Alpine terrains to challenge their limits and first-timers can start developing their skills in the less steep snowy valleys.
+**3. Spend an afternoon in a Viennese coffee house**
 
-**Ride the Steam Train**
+This is not just drinking coffee — it's participating in a cultural tradition that UNESCO has recognized as intangible heritage. Pick one of the great cafés: Café Central with its vaulted ceilings where Trotsky played chess, Café Sperl with its billiard tables and faded elegance, or Café Hawelka where the Buchteln (sweet buns) come out warm at ten in the evening. Order a Melange, take the newspaper from its wooden rack, and settle in. Nobody will rush you. The whole point is to stay.
 
-That Austria preserves some of the very old heritages is proved by the steam train that Austria boasts of. The ride in the steam train will take you through the lovely villages, exotic terrains and the great Alpine mountain passes. During the course of your journey you can enjoy the lovely local wine in the train while enjoying the vintage Austria. Among all the places you will go through, St. Wolfgang village will definitely mesmerize you with its fascinating beauty.
+**4. Walk through Salzburg's old town to the fortress**
 
-**Floating Opera**
+[Salzburg](/europe/austria/salzburg) is one of those cities where the setting does half the work. The baroque old town sits in a narrow valley between two hills, with the massive Hohensalzburg Fortress on top of the Festungsberg looking down on it all. Walk up rather than taking the funicular — the path winds through the old cemetery at St. Peter's, past the cathedral, and up through medieval lanes. At the top, the views over the city to the Alps are extraordinary. Come down through the Nonnberg Abbey (yes, the Sound of Music one) and reward yourself with a Salzburger Nockerl, the famously oversized soufflé, at Stiftskeller St. Peter, which claims to be Europe's oldest restaurant.
 
-You may have visited and attended many opera houses all across the world but surely you must not miss out on this one. This floating opera is located in the city of Bregenz. In Bregenz this Opera is located near the St. Martins Tower. This is the largest floating opera for any theatrical performances during the summer.
+**5. Drink wine at a Heuriger**
 
-**Taste the Wine**
-
-Austria is famous for some lovely brands of white and red wines. You must visit lower Austria and Baden and the Burgenland region to taste the lovely wines. The Riesling wine is one of the best-known white wines in all of Europe. If you are fond of red wine, then you must visit Baden and Burgenland.
+A Heuriger is a wine tavern where Austrian winemakers serve their own new wine, and the tradition dates back to a decree by Emperor Joseph II in 1784. The best ones are on the outskirts of [Vienna](/europe/austria/vienna), in the vineyard-covered hills of Grinzing, Nussdorf, and Stammersdorf, though you'll find them throughout Lower Austria and Burgenland too. You sit in a garden or a rustic dining room, fill a plate from a cold buffet of bread, spreads, cheese, and meats, and drink crisp Grüner Veltliner or Gemischter Satz by the quarter liter. The atmosphere is relaxed, the prices are reasonable, and on a warm evening with the sun going down over the vineyards, it's one of the best experiences Austria offers.

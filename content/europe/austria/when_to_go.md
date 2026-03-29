@@ -1,22 +1,10 @@
 ---
-title: "When to Go in Austria"
+title: "When to Go"
 type: section
 ---
 
-If you are planning a visit to **Austria**,** when to go **can be your main concern. Austria is a great destination to visit at any time of the year, so the timing depends on the kind of vacation you are looking for.
+Austria has two distinct peak seasons, and both are excellent. Winter runs from December through March and is all about skiing, snowboarding, and Christmas markets. The big ski resorts in Tyrol, Vorarlberg, and Salzburgerland are buzzing from late December through February — that's also when prices are highest. Christmas markets open in late November across [Vienna](/europe/austria/vienna), [Salzburg](/europe/austria/salzburg), [Graz](/europe/austria/graz), and [Innsbruck](/europe/austria/innsbruck), and they're genuinely atmospheric, not just tourist traps. If you're skiing on a budget, January after the holidays and March offer better deals and fewer crowds.
 
-**Winter Trips to Austria**** **
+Summer, from June through September, is hiking season, lake season, and festival season. The Alps are spectacular in July and August, with wildflower meadows, clear mountain lakes, and long daylight hours. This is when the Salzkammergut lakes around [Hallstatt](/europe/austria/hallstatt) are at their best, and when Alpine huts are open for multi-day treks. The Salzburg Festival runs from mid-July through August and is one of the world's great classical music and opera events — book well ahead if you want to attend. Vienna is a year-round city, but summer brings open-air cinemas, Danube Island beaches, and a more relaxed pace.
 
-Winter is a good time for visitors who are looking for a skiing holiday in the midst of scenic surroundings. Christmas and New Year&prime;s Eve is the peak season when the prices as well as ski traffic are at their highest. November to April is an excellent period to enjoy a variety of winter sports and winter festivities. The winter air is generally fresh and clear, with plenty of sunny days. The winter snow covers the valleys from late December through March, presenting a spectacular sight for tourists.
-
-**Summer Holidays in Austria**** **
-
-From May to September is the warm and pleasant season in Austria. This is the off-season, which is ideal for people traveling on a budget, or those who wish to avoid the winters. Airfares and hotel costs are low in this season. Austria&rsquo;s popular Salzburg festival can also be enjoyed during this period.
-
-**Climate Conditions **** **
-
-Tourists should be aware that there are major temperature variations in Austria depending on the location. Furthermore, the weather can be slightly unpredictable. Therefore, while planning a trip to Austria, it is useful to check up the current weather forecast for the specific location. This can be checked through a travel agent or through various websites on the Internet.
-
-**Advance Bookings**** **
-
-It is advisable to arrive with reservations during the peak season. However, during the slow season, hotel rooms are easily available and less expensive.
+The shoulder months are underrated. May and early June bring warm weather, green valleys, and smaller crowds. September and October are gorgeous — the trees turn, the new wine (Sturm) arrives at the Heurigen, and you get crisp sunny days without the summer heat. November and early April can be grey and in-between: too late or too early for skiing in lower resorts, too cool for comfortable hiking, though Vienna and the cities don't mind a shoulder season at all.

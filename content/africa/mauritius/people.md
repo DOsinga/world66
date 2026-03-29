@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 1 168 256 (July 1998 est.)
+Mauritius has a population of around 1.3 million people, one of the highest population densities in the world for an island of its size. Almost everyone is descended from people who came here after 1638, when the Dutch made the first attempt at settlement — the island had no indigenous population.
 
-**Age structure:**
+The majority — around 68% — are of Indian descent, their ancestors brought as indentured labourers after the abolition of slavery to work the sugar plantations. This community is broadly divided between Hindu (mostly of Bhojpuri-speaking origin from Bihar and Uttar Pradesh) and Muslim (mostly of Gujarati origin). Creoles, of mixed African and European descent, make up around 27% of the population and are largely Catholic. Chinese Mauritians (around 3%) are mostly descended from Cantonese and Hakka immigrants, and Franco-Mauritians (about 2%) are the descendants of French settlers who arrived in the 18th century and still tend to own much of the sugar industry.
 
-*0-14 years:* 26% (male 155 917; female 152 563)
+This ethnic diversity sounds complicated but in practice Mauritius is remarkably cohesive. Religious holidays from all four major traditions are public holidays, and the island has no recent history of serious communal conflict. Mauritians tend to be genuinely proud of this. The national language of daily life is Mauritian Creole — everyone speaks it, regardless of ethnic background — which functions as a kind of social glue.
 
-*15-64 years:* 68% (male 393 330; female 397 285)
-
-*65 years and over:* 6% (male 28 092; female 41 069) (July 1998 est.)
-
-**Population growth rate:** 1.2% (1998 est.)
-
-**Birth rate:** 18.64 births/1 000 population (1998 est.)
-
-**Death rate:** 6.69 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.68 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 16.54 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 70.9 years
-
-*male:* 67.05 years
-
-*female:* 74.74 years (1998 est.)
-
-**Total fertility rate:** 2.22 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Mauritian(s)
-
-*adjective:* Mauritian
-
-**Ethnic groups:** Indo-Mauritian 68% Creole 27% Sino-Mauritian 3% Franco-Mauritian 2%
-
-**Religions:** Hindu 52% Christian 28.3% (Roman Catholic 26% Protestant 2.3%) Muslim 16.6% other 3.1%
-
-**Languages:** English (official) Creole French Hindi Urdu Hakka Bojpoori
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 82.9%
-
-*male:* 87.1%
-
-*female:* 78.8% (1995 est.)
+The population is concentrated in a ribbon of towns running through the centre of the island from Port Louis to Curepipe, and along the north coast. The south is sparsely populated.

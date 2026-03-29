@@ -1,8 +1,6 @@
 ---
-title: "Grand Gaube - North East"
+title: "Grand Gaube"
 type: location
 ---
 
-Grand Gaube is a quiet and friendly village located on the North East coast and it enjoys some of the best climate of the island. You can enjoy the crystal clear waters of the lagoon and the fine sandy beach. 
-
-There are spectacular views of the off-shore islands of Coin de Mire (Gunners Coin), Ile Plat (Flat Island), Ile Ronde (Round Island) and Ile Serpent (Snake Island. Grand Gaube is 5 minutes from Cap Malerheux and just 15 minutes drive from the tourist hub of Grand Baie.
+Grand Gaube is a quiet fishing village on the northeast coast, about 15 kilometres from Grand Baie. It has a sheltered lagoon with calm water and fine views to the offshore islands — Coin de Mire (Gunner's Quoin), Flat Island, Round Island, and Snake Island — which can be visited by boat excursion. The village is less touristy than the north coast resorts and has a more authentic feel. Cap Malheureux, 5 kilometres to the west, has a picturesque red-roofed church that is one of the most photographed landmarks on the island.

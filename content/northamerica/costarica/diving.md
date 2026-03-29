@@ -1,12 +1,18 @@
 ---
 title: "Diving"
-type: location
+type: section
 ---
 
-Imagine a place where the water is warm (75 to 85 degrees F) and the schools of fish are so thick they flow like rivers in the open sea. At almost every dive site, there is a billowing cloud of 2,000 to 10,000 fish hanging above the reef.
+Costa Rica has good diving on both coasts and in one extraordinary offshore location.
 
- The place is Costa Rica, where the unexpected is commonplace. Hazy shadows emerge from a blizzard of fish as divers are greeted by a giant Manta Ray, an elegant Eagle Ray or perhaps a Whale Shark. Big animal encounters are frequent and often occur near shore.
+**Cocos Island (Isla del Coco)** is the standout. Sitting 500 km southwest of the Pacific coast, it is one of the world's most famous dive sites: enormous schools of hammerhead sharks, whale sharks, manta rays, dolphins, and dense fish life. Visibility can reach 30+ meters. Access is only by live-aboard dive boat; trips typically run 8–12 days from Puntarenas and are not cheap. Permits are required and numbers are limited. If pelagic diving is your goal, Cocos is one of the best places on earth.
 
- Nutrient rich waters are what attracts all those fish. While some dive destinations offer high visibility and few fish, in Costa Rica you will find tons of fish and visibility in the 30 to 120 foot range. Costa Rica’s abundant marine populations will astound even the most experienced divers.
+**Bat Islands (Isla Murciélago)** in the northwest near Guanacaste offers large bull shark encounters and good pelagic action. Day trips operate from Playas del Coco.
 
- The most popular diving sites are: Nicoya Peninsula, Osa Peninsula, Coco’s Island and the Caribbean coast.  Hold on to your regulators and be prepared for the greatest diving in the Northern Hemisphere!   (c)     Travel Excellence
+**Nicoya Peninsula and Gulf of Papagayo** have calmer, shallower sites good for beginners and intermediate divers. Water visibility is typically 10–20 meters.
+
+**Caribbean coast** around Cahuita has Costa Rica's most significant coral reefs, though these have suffered in recent decades from agricultural runoff and warming. Diving is best February–April when visibility improves.
+
+**Osa Peninsula** around Cano Island has healthy coral and reliable sightings of rays, sharks, and sea turtles. Day trips operate from Drake Bay or Puerto Jiménez.
+
+Water temperatures around 24–29°C (75–84°F) year-round mean no wetsuit is needed for most dives, though a 3mm suit is useful at depth.

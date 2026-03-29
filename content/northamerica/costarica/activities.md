@@ -1,4 +1,0 @@
----
-title: "Activities"
-type: section
----

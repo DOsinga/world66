@@ -1,5 +1,0 @@
-northamerica/martinique
-northamerica/mexico
-northamerica/montserrat
-northamerica/nicaragua
-northamerica/panama

@@ -1,16 +1,22 @@
 ---
 title: "Honduras"
 type: location
+latitude: 15.2
+longitude: -86.2
 ---
 
-Honduras is a small country in Central America. It borders on [El Salvador](/northamerica/elsalvador) and [Guatemala](/northamerica/guatemala) in the north and [Nicaragua](/northamerica/nicaragua) in the south.
+Honduras is the second-largest country in Central America and one of its least-visited — which is both a shame and a recommendation. The country has extraordinary variety: Caribbean beaches and coral reefs in the north, cloud-forested mountains in the west, the vast wetlands of La Mosquitia in the east, and Mayan ruins that rival anything in the region. Travelers who make it here are generally glad they did.
 
- [Tegucigalpa](/northamerica/honduras/tegucigalpa), the capital city of Honduras does not look like a big town. There are few high rise buildings. It is a relaxed place and a good starting point for exploring the country. Many sights can be visited within a day from Tegucigalpa, be sur not to miss [Comayagua](/northamerica/honduras/comayagua) at least.
+It is also, frankly, a country that demands some care. Crime rates in the major cities — particularly San Pedro Sula and parts of Tegucigalpa — are among the highest in the world. Most visitors move between the main tourist draws without incident, but this is not a place to be casual about safety. Stick to established routes, travel during the day, and take taxis rather than local buses in urban areas.
 
- [Copan](/northamerica/honduras/copan) has some excellent Mayan ruins. The style differs a bit from those in [Yucatan](/northamerica/mexico/yucatan) and [Tikal](/northamerica/guatemala/tikal). The many great carved stones or stelae are unique in their kind. The ruins are located in a tropical forest which makes the site even more attractive. [San pedro sula](/northamerica/honduras/sanpedrosula) is a good starting point for visiting [Copan](/northamerica/honduras/copan) The Carribean Coast is worth a visit as well. Great beaches and completely different atmosphere with lots of Reggae and rum.
+The currency is the lempira (HNL). Most of Honduras is affordable by any standard; the Bay Islands are the exception, running noticeably pricier than the mainland. US dollars are widely accepted in tourist areas.
 
-Honduras is a small country in Central America. It borders on [El Salvador](/northamerica/elsalvador) and [Guatemala](/northamerica/guatemala) in the north and [Nicaragua](/northamerica/nicaragua) in the south. 
+## Where to go
 
-[Tegucigalpa](/northamerica/honduras/tegucigalpa), the capital city of Honduras does not look like a big town. There are few high rise buildings. It is a relaxed place and a good starting point for exploring the country. Many sights can be visited within a day from Tegucigalpa, be sur not to miss [Comayagua](/northamerica/honduras/comayagua) at least. 
+[Copán](/northamerica/honduras/copan) is the country's standout attraction: a Mayan site famous not for its pyramids but for its extraordinary carved stelae, each one a portrait of a ruler. The setting, in a green valley near the Guatemalan border, adds to the appeal.
 
-[Copan](/northamerica/honduras/copan) has some excellent Mayan ruins. The style differs a bit from those in [Yucatan](/northamerica/mexico/yucatan) and [Tikal](/northamerica/guatemala/tikal). The many great carved stones or stelae are unique in their kind. The ruins are located in a tropical forest which makes the site even more attractive. [San pedro sula](/northamerica/honduras/sanpedrosula) is a good starting point for visiting [Copan](/northamerica/honduras/copan) The Carribean Coast is worth a visit as well. Great beaches and completely different atmosphere with lots of Reggae and rum.
+The [Bay Islands](/northamerica/honduras/bayislands) — principally [Roatán](/northamerica/honduras/roatan) and [Utila](/northamerica/honduras/utila) — sit on the Mesoamerican Barrier Reef, the world's second-largest. Diving here is excellent and, especially on Utila, remarkably cheap.
+
+[La Mosquitia](/northamerica/honduras/lamosquitia) in the northeast is one of the most remote and biologically rich areas in Central America — a vast expanse of rainforest, rivers, and lagoons. Getting there takes effort, but it rewards it.
+
+[Tela](/northamerica/honduras/tela) and [La Ceiba](/northamerica/honduras/laceiba) are the main towns on the north coast and good bases for the Caribbean lowlands, including Garifuna villages and Pico Bonito National Park. [Comayagua](/northamerica/honduras/comayagua), the former colonial capital, is an easy stop on the road between San Pedro Sula and Tegucigalpa and worth more than most travelers give it.

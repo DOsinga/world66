@@ -1,10 +1,14 @@
 ---
-title: "Port louis"
+title: "Port Louis"
 type: location
 latitude: -20.162452
 longitude: 57.502804
 ---
 
-Capital and main port of Mauritius, Port Louis was founded by the French governor, Mahé de Labourdonnais, in 1735. The harbour lies sheltered in a semi-circle of mountains. The town has plenty of character, and shows in certain quarters of its past elegance. Off the main square, palm-lined Place d'Armes, there are some particularly fine French colonial buildings, especially the Government House (eighteenth century) and the Municipal Theatre, built around the same time. There are two Cathedrals, Anglican and Catholic, a Mosque, a chinese Casino, a fine Supreme Court, some 18th century Barracks, a Natural History Museum.
+Port Louis is the capital and commercial heart of Mauritius, founded by French governor Mahé de Labourdonnais in 1735. It sits in a natural harbour sheltered by a ring of mountains, and despite heavy development it still has corners of genuine colonial atmosphere.
 
-To see a fascinating cross-section of Mauritian life, visit the lively covered market. Champs de Mars, originally laid out by the French for military parades is now a racecourse. The best high-up views of the racecourse, town and harbour,are from a splendid boulevard called Edward VII Avenue and from Fort Adélaide, a citadel fortified in the time of William IV. South of Port Louis is Le Réduit, French colonial residence of the former Governor-General of Mauritius, set in magnificient gardens. From Port Louis you can drive through the residential townships of Beau Bassin, Rose Hill, Quatre Bornes and Vacoas.
+The central market is the best place to start. It's a covered market selling fruit, vegetables, spices, street food, and an enormous amount of textiles — loud, colourful, and completely real. Nearby, Chinatown has been there for 150 years and still feels like it. The Aapravasi Ghat, a UNESCO World Heritage Site near the waterfront, is the landing point where hundreds of thousands of Indian indentured labourers arrived from 1834 onwards. The small museum there is sobering and well done.
+
+The Caudan Waterfront — a redeveloped harbour precinct with shops, restaurants, and a casino — is popular with locals and tourists alike. Prices here are noticeably higher than elsewhere in the city. The racecourse at Champ de Mars is one of the oldest in the southern hemisphere and draws big crowds on racing Saturdays (July to November).
+
+The Natural History Museum on the main square, Place d'Armes, has the best collection of dodo remains in the world. It's free and worth 30 minutes. The city centre is compact and walkable, though traffic is severe during rush hours.

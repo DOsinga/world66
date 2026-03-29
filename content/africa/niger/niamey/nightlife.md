@@ -3,20 +3,8 @@ title: "Nightlife and Entertainment"
 type: section
 ---
 
-There are numerous bars and restaurants in Niamey and even the odd nightclub the most popular being Les Tropiques along the Niger River. 
+Niamey has a modest but real nightlife scene, centered around bars and restaurant terraces along the Niger River. The Corniche de Gamkallé is the main strip, where you'll find outdoor bars popular with both locals and the large expat and NGO community.
 
-**all**
+Les Tropiques on the Corniche is the best-known spot — an open-air bar right on the river. Next door is Le Diamangou, worth a look as well. The atmosphere is relaxed, the beer is cold, and the river breeze makes evenings on the Corniche genuinely pleasant.
 
-**Hotel Rivoli**
-
-Good place for meeting other foreigners. 
-
-address: Rue Nasser / Ave Luebke
-
-**Les Tropiques**
-
-Cool place on the Corniche. Next door is Le Diamangou.
-
-address: Corniche de Gamkalle
-
-tel: 733204
+The Franco-Nigerien Cultural Centre (CCFN) on the Boulevard de la République regularly hosts film screenings, live music, and theatre — a good option for something more cultural.

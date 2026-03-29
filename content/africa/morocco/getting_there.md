@@ -3,44 +3,22 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**By air**
 
-Morocco's national airline is *Royal Air Maroc (AT). *Airlines serving Morocco include *Air France* *Alitalia* *British Airways* *KLM* *Sabena Belgian World Airlines* *Lufthansa* and *Swissair*. 
+Morocco has several international airports, with Casablanca Mohammed V (CMN) serving as the main hub and Royal Air Maroc's home base. Marrakech Menara (RAK) handles enormous tourist traffic and is often the better choice for first-time visitors. Fez, Agadir, Tangier, and Ouarzazate also have international connections. European budget carriers — Ryanair, easyJet, Vueling — fly frequently from the UK, France, Spain, and the Netherlands, often for well under €100 return in off-peak periods.
 
-For free information on air travel from the UK only call the Air Travel Advisory Bureau in the UK on (0171) 636 5000 (London) *or *(0161) 832 2000 (Manchester). 
+Flight time from London to Marrakech or Casablanca is around 3.5 hours. From New York, expect 8–9 hours to Casablanca with Royal Air Maroc's direct service.
 
-Approximate flight times 
+**By sea**
 
-From London to *Rabat* is 3 hours and to *Tangier* is 2 hours 30 minutes. 
+Regular car and passenger ferries connect Spain with Morocco year-round. The fastest crossing is the catamaran from Tarifa to Tangier (35 minutes), which docks at Tangier's old port in the city centre. Ferries from Algeciras run to Tangier-Med (about 1.5 hours), a port 40km east of Tangier with bus and taxi connections to the city. Other routes serve Ceuta and Melilla (Spanish enclaves on the Moroccan coast) from Algeciras and Almería. A longer option is the ferry from Sète (southern France) to Tangier, operated by Comarit/Baleàrea — useful if you're driving.
 
-International airports 
+Summer crossings, especially in August during the return of Moroccan diaspora from Europe, are extremely busy. Book ahead.
 
-*Casablanca (CAS) *(Mohammed V) is 30km (19 miles) south of the city (travel time – 35 minutes). Airport facilities include outgoing duty-free shop (closed after last arrival) post office banking and currency exchange facilities (open 24 hours) restaurant and bar (0800-2300) and car hire *(Avis Hertz *and *Europcar)*. There are bus and taxi services into Casablanca and coach services available to Rabat. 
+**By train**
 
-*Tangier (TNG) *(Boukhalef Souahel) is 12km (7.5 miles) from the city (travel time – 20 minutes). Airport facilities include outgoing duty-free shop banking and currency exchange facilities restaurant and bar (0900-2100) car hire facilities *(Avis Omnium Starc-Hertz* and *Moroccan Holidays).* Bus and taxi services are available into Tangier. 
+There are no direct rail links between Europe and Morocco. You would take a ferry from Spain and then connect to the Moroccan rail network at Tangier or Ceuta.
 
-Sea 
+**By road**
 
-Principal ports are Tangier Casablanca and Ceuta. Lines serving these ports are *Transtour Compañía Trasmediterránea Limadet Bland Line *(from Spain and Gibraltar) *Polish Ocean Lines *and* Nautilus *(from Spain and the USA) and *Comanav*. 
-
-Car/passenger ferries 
-
-There are cheap and regular car- and passenger-ferry links between southern Spain and Tangier and the Spanish enclaves on the north Moroccan coast. Most links are roll-on roll-off car ferries except where shown. The routes are from Algeciras to Ceuta (Sebta) (car ferry); Algeciras to Tangier (hydrofoil and car ferry); Tarifa to Tangier (hydrofoil only); Gibraltar to Tangier (hydrofoil and car ferry); Almería to Melilla (car ferry) and Málaga to Melilla (car ferry). 
-
-There are also car ferries between Sète on the French coast (between Béziers and Montpellier on the Golfe du Lyon) and Tangier run by *Compagnie Marocaine de Navigation.* 
-
-Rail 
-
-Rail links between Morocco and Algeria are currently suspended. The main international routes are from Oujda to Algiers or from Oran to Algiers. 
-
-Road 
-
-The best road link is from southern Spain or France via passenger/car ferries (see above under *Sea*). The road link on the north Algerian border is currently closed. When it will be opened again, there will be two options at Oujda and at Figuig. The one in Figuig brings you directly on the road to Mali 
-
-
-
-
-
-
-
-The border with Mauritania is not closed if you're going south, but it isn't very easy either. The only way to do it is follow the coast and get your paperwork done in ed-Dakhla. Look in the ed-Dakhla section or see this site for more details: GPS points
+The Algeria-Morocco border has been closed since 1994 and shows no signs of reopening. The southern border with Mauritania is passable near Dakhla — see the [Dakhla](/africa/morocco/dakhla) section for details on the overland route south.

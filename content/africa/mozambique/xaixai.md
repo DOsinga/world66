@@ -1,8 +1,12 @@
 ---
-title: "Xai-xai"
+title: "Xai-Xai"
 type: location
 latitude: -25.044479
 longitude: 33.64073
 ---
 
-The town of Xai-Xai is situated on the Limpopo River is a sprawling settlement of houses, markets and shops. Tourists generally only stop off for supplies in Xai-Xai with the real attraction being the beach situated about 10 kilometres to the east. The bay has a coral reef running about one kilometre off shore which offers protected waters for swimming and snorkelling. The coastal town has become a little run down of late but it has some thriving restaurants, a campsite and a new hotel is to be completed towards the end of 1999.
+Xai-Xai is the capital of Gaza province, situated on the Limpopo River about 220 km north of Maputo. The town itself is a sprawling settlement of markets, shops, and fuel stations — useful for a stop but not a destination in itself.
+
+The real reason to come here is Xai-Xai Beach (Praia de Xai-Xai), about 10 km east of town. A coral reef runs roughly a kilometre offshore, creating a protected lagoon with calm water good for swimming and snorkelling. The beach is a weekend favourite for Mozambican families and Maputo residents, and has a handful of hotels, chalets, and campsite options.
+
+It's an easy and underrated first stop heading north from the South African border — close enough to Maputo to reach in an afternoon, far enough to feel like you've actually arrived.

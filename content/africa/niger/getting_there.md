@@ -3,16 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Niger is landlocked and not straightforward to reach. Most visitors fly into [Niamey](/africa/niger/niamey) and sort out onward travel from there.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+**Note on security:** As of 2025, the security situation in Niger is severely deteriorated following the July 2023 military coup. Multiple governments have issued Do Not Travel advisories. Check your government's current travel advisory before making any plans.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+## By Air
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+Diori Hamani International Airport (NIM) in Niamey is Niger's only international airport. Airlines currently serving Niamey include Air Algérie, ASKY Airlines, Air Côte d'Ivoire, Ethiopian Airlines, Royal Air Maroc, Tunisair, and Turkish Airlines. Turkish Airlines offers the only direct connection to the Middle East and is useful for travelers coming from Asia or connecting via Istanbul. From Europe, Paris and Casablanca (Royal Air Maroc) are the most common routing points.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+There are no direct flights from North America. Most travelers connect through Paris, Casablanca, Istanbul, Addis Ababa, or Abidjan.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+## By Land
 
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+Niger shares borders with Algeria, Libya, Mali, Burkina Faso, Benin, Nigeria, and Chad. Overland crossings are possible in theory but the security situation along most borders makes them hazardous. The crossing from Nigeria via Birnin Konni or Zinder into Kano has historically been the most used overland route. The trans-Saharan routes north to Algeria (via Arlit) and to Libya are effectively closed to independent travelers due to ongoing insecurity and terrorism risk.
+
+The border with Mali is dangerous. The borders with Burkina Faso and Benin pass through areas with active militant activity.

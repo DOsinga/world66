@@ -1,12 +1,9 @@
 ---
-title: "Marrakech Art Festival"
+title: "Marrakech Popular Arts Festival"
 type: poi
-address: "157 West 79th Street,Suite 12C"
-date: "2006: July 3 to 10"
-phone: "16466431420"
+address: "Djemaa el-Fna, Marrakech"
+latitude: 31.625774
+longitude: -7.989387
 ---
 
-The bustling city of Marrakech manages to cram in even more popular sights and sounds than it boasts already during the Marrakech Popular arts Festival. During this annual festival, the Djemaa el-Fna square and surrounding locations become the al-fresco venues for a wide variety of traditional folk arts from all over [Morocco](/africa/morocco).
-
-**Contributors**
-December 10, 2005
+Held each summer (usually July), this week-long festival transforms Djemaa el-Fna and the surrounding gardens into an open-air stage for folk arts from across Morocco. Gnaoua musicians, Amazigh dancers, acrobats, and storytellers from every region perform nightly. It's one of the better occasions to see traditional Moroccan performance arts that are disappearing from everyday life.

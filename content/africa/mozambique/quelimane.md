@@ -5,8 +5,8 @@ latitude: -17.87751
 longitude: 36.890216
 ---
 
-We currently have no information about Quelimane.
+Quelimane is the capital of Zambezia province, sitting in the delta of the Bons Sinais River near the Indian Ocean coast. It's a working port city rather than a tourist destination — most travellers pass through on the way between Beira and Nampula.
 
-If you do know any general information about Quelimane, please [Edit this article].
+The city has a relaxed, slightly faded feel, with some attractive Portuguese-era architecture in the centre and a lively local market. The surrounding area includes coconut plantations, mangrove channels, and the Zalala Beach, about 30 km east of town, which is popular with locals on weekends.
 
-If you know any hotels in Quelimane or restaurants in Quelimane, please [[Add].](/destinations/addItemWizard?addwhere=africa/mozambique/quelimane)
+It's a useful stop for breaking up the long journey north, but there's little to keep most travellers for more than a day.

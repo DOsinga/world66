@@ -3,112 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Into Thin Air** by Jon Krakauer (1997) — the definitive account of the 1996 Everest disaster. If you're heading to the Khumbu, read this before you go. Vivid, honest, and unflinching about the commercialisation of Everest climbing.
 
-**Into Thin Air:A Personal Account of the Mount Everest Disaster**
+**Into the Silence: The Great War, Mallory and the Conquest of Everest** by Wade Davis (2011) — the best book written about the early Everest expeditions. Dense but magnificent.
 
+**The Snow Leopard** by Peter Matthiessen (1978) — a spiritual journey through the Dolpo region of western Nepal. A classic of travel literature, though the landscape it describes is still mostly inaccessible.
 
+**Arresting God in Kathmandu** by Samrat Upadhyay (2001) — short stories by Nepal's first English-language fiction writer to be published in the West. A useful window into middle-class Kathmandu life.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0385492081/ref=ase_osingacom?v=glance&s=books)
+**Forget Kathmandu** by Manjushree Thapa (2005) — a political essay and memoir about Nepal's Maoist insurgency and the royal massacre of 2001. Essential reading for understanding modern Nepal.
 
-author: Jon Krakauer
+**The Inheritance of Loss** by Kiran Desai (2006) — not set in Nepal but partly in the Darjeeling hills near the Nepal border. Touches on Gurkha politics and gives context for the ethnic dynamics of the eastern Himalaya.
 
-isbn: 0385492081
+**Tiger for Breakfast** by Michel Peissel (1966) — the biography of Boris Lissanevitch, the Russian émigré who opened Kathmandu's first hotel and bar and essentially created Nepalese tourism. Reads like fiction.
 
-subject: travel
-
-**The Other Side of Everest:Climbing the North Face through the Killer Storm**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0812931599/ref=ase_osingacom?v=glance&s=books)
-
-author: Matt Dickinson
-
-isbn: 0812931599
-
-subject: travel
-
-**Into Thin Air:The Illustrated Edition**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0375502807/ref=ase_osingacom?v=glance&s=books)
-
-author: Jon Krakauer,Randy Rackliff (Illustrator)
-
-isbn: 0375502807
-
-subject: travel
-
-**Culture Shock!:Nepal**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558680764/ref=ase_osingacom?v=glance&s=books)
-
-author: Jonathan Burbank
-
-isbn: 1558680764
-
-subject: culture
-
-**Gods, Men and Territory:Society and Culture in Kathamandu Valley**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/8173040788/ref=ase_osingacom?v=glance&s=books)
-
-author: Anne Vergati
-
-isbn: 8173040788
-
-subject: culture
-
-**Hierarchy and Its Discontents:Culture and the Politics of Consciousness in Caste Society**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0812215516/ref=ase_osingacom?v=glance&s=books)
-
-author: Steven M. Parish
-
-isbn: 0812215516
-
-subject: culture
-
-**Into Thin Air:A Personal Account of the Mount Everest Disaster**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0385492081/ref=ase_osingacom?v=glance&s=books)
-
-author: Jon Krakauer
-
-isbn: 0385492081
-
-subject: history
-
-**Into Thin Air:The Illustrated Edition**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0375502807/ref=ase_osingacom?v=glance&s=books)
-
-author: Jon Krakauer,Randy Rackliff (Illustrator)
-
-isbn: 0375502807
-
-subject: history
-
-**To the Top!:Climbing the World's Highest Mountain (Step into Reading Books Series: A Step 4 Book)**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679838856/ref=ase_osingacom?v=glance&s=books)
-
-author: Sydelle A. Kramer,Tom LaPadula (Illustrator)
-
-isbn: 0679838856
-
-subject: history
+**Trekking in the Nepal Himalaya** (Lonely Planet) — the standard reference for trekking route planning. Updated periodically; check for the most recent edition before your trip.

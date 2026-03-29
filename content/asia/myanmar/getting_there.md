@@ -3,11 +3,26 @@ title: "Getting There"
 type: section
 ---
 
-The fastest and safest way of reaching Yangon and thus Myanmar ( as it is the main entry into the country, you can enter by land from Thailand and exit to China or enter Mandlay by air from Chiang Mai or Bagan by air from Thailand ) is to take one of three daily flights offered by Thai Airways, one of which is a codeshare with Myanmar International Airways.
+**By air**
 
-There are other flights of course: Indian airlines from Calcutta, Biman from Dacca, Qatar airways from Doha, MAS from KL, Silk Air from Singapore.
+Yangon International Airport is the main entry point. Direct flights connect Yangon with Bangkok, Singapore, Kuala Lumpur, Doha, and several Chinese cities. Thai Airways, Bangkok Airways, Singapore Airlines, Malaysia Airlines, and Myanmar National Airlines all operate routes. Mandalay has an international airport with connections to Bangkok and Chiang Mai.
 
-Land entry from India is not yet an easy possibility but the future is bright in this regard. Tachilek can be entered from Thailand, afer crossing the border. Many parts of the country require special permits but they are not hard to get with the help of an efficient tour agency with a month's notice
+Flying in from Bangkok is the most common route for independent travellers — fares are typically cheap and there are multiple daily departures.
 
-**Contributors**
-April 14, 2005
+**By land from Thailand**
+
+Two land crossings are in regular use. The Mae Sot–Myawaddy crossing (connected to Yangon by a road over the Dawna mountains) and the Mae Sai–Tachilek crossing in the north. Both require an e-visa in advance. The situation at land borders can change quickly given the conflict; verify conditions before travelling this way.
+
+**By land from China**
+
+Entry via Yunnan Province is possible. The Ruili–Muse crossing has historically been the main route. Chinese tourist traffic through this corridor has continued, but the border situation is fluid.
+
+**By land from India**
+
+The Tamu–Moreh crossing links India's Manipur State with Myanmar. This area has been affected by conflict on both sides of the border and is not recommended.
+
+**Arriving in Yangon**
+
+The airport is about 20km north of the city centre. Licensed taxis at the arrivals hall are reliable; agree the price (around 10,000–15,000 kyat or $5–7) before departing. Ride-hailing apps have limited functionality since the coup.
+
+Note that you must present your e-visa approval letter at immigration, and you are required to show proof of accommodation.

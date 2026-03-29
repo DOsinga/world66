@@ -3,58 +3,30 @@ title: "Festivals"
 type: section
 ---
 
-Officially Myanmar uses the 12-months lunar calendar, so the traditional holidays and festivals will vary in date from year to year. Dates of recently inaugurated holidays are fixed by the Gregorian calendar. 
+Myanmar follows the traditional lunar calendar for most festivals, so dates shift year to year. The atmosphere at Burmese festivals is festive and inclusive — expect crowded fairgrounds, food stalls, and activities running through the night.
 
- Festivals are very cheerful in Myanmar. They generally take place or culminate on fullmoon days but the presentation can continue for days. Often there is a country fair atmosphere about these festivals with lots of stalls and activities continuing all night long. 
+**Thingyan — Water Festival (April)**
 
- January: 
+The biggest event in the Burmese calendar. Marking the arrival of Burmese New Year (around 13–17 April), Thingyan is four days of city-wide water fights. Stages are erected in streets, trucks drive past with people throwing water at everyone in sight, and the entire country stops functioning normally. Transport becomes near-impossible, guesthouses book up months in advance, and most businesses close. It's brilliant if you're prepared for it.
 
- Independence Day is celebrated in the whole country (4th January / public holi-day). 
+**Kason — Full Moon of Vesak (May)**
 
- Ananda Temple Festival in Bagan (28th January) 
+Celebrates the Buddha's birth, enlightenment, and death. Devotees pour water on sacred Bodhi trees. The Shwedagon Pagoda in [Yangon](/asia/myanmar/yangon) is the main focus, with candle-lit processions and ceremonies.
 
- February: 
+**Waso — Buddhist Lent Begins (July)**
 
- Union Day is celebrated with parades in Yangon (12th February / public holiday). 
+Marks the start of Buddhist Lent (Vassa), a three-month period during which monks remain in their monasteries. Robes and offerings are presented to monks. Travel conditions are often challenging during the rainy season.
 
- March: 
+**Thadingyut — Festival of Lights (October)**
 
- Thamin Ne Festival and Mahamuni Festival in Mandalay (01st March) 
+Celebrates the end of Buddhist Lent. The country lights up with candles, lamps, and lights for three days. Towns and pagodas are transformed. Taunggyi in Shan State holds a famous fire balloon festival (Tazaungdaing) around the same period, where enormous paper balloons with fireworks attached are sent into the night sky — spectacular and slightly chaotic.
 
- Shwedagon- and Kabaaye Pagoda Festival in Yangon (31st March) 
+**Ananda Temple Festival (January, Bagan)**
 
- April: 
+One of Myanmar's largest pagoda festivals, held at the magnificent Ananda Temple in [Bagan](/asia/myanmar/bagan) around the full moon of Pyatho (usually January). Lacquerware, handicrafts, and food stalls surround the temple. Monks and pilgrims come from across the country.
 
- Water Festival (Thingyan) and New Year Celebration (13rd - 17th April) 
+**Phaungtaw-U Pagoda Festival (October, Inle Lake)**
 
- New Year (17th April) 
+The most important festival of [Inle Lake](/asia/myanmar/inlelake), lasting about three weeks. Five sacred Buddha images are paraded around the lake on a gilded barge rowed by leg-rowers, visiting villages around the shoreline. Boat races are held throughout.
 
- May: 
-
- Labour Day (1st May / public holiday) 
-
- Kason- and Full Moon Festival are held in honour of the Buddha at Shwedagon Pagoda in Yangon and with parades in the whole country (29th May). 
-
-  July: 
-
- Martyr‘s Day commemorating the assassination of Bogyoke Aung San in 1947 (19th July/public holiday). 
-
- Waso- or Full Moon Festival, the beginning of the buddhist lent (28th July). 
-
- October: 
-
- The Shwezigon Pagoda Festival at Bagan  (24th October). 
-
- Wearing / Fire Balloon Festival in Taungyyi 
-
- Phaungtaw-U Pagoda Festival, celebrated with great splendour at Inle Lake, boat races and parades being held at various places for about two to three weeks. 
-
- November: 
-
- Tazaungdaing Festival or Light Floating Festival is particularly celebrated in the Shan states e.g. in Taunggyi - National Day (23rd November). 
-
- December: 
-
- National holiday (03rd December) 
-
- Christmas Day (25th December / public holiday) Christians are celebrating the birth of Jesus nationwide.
+**Independence Day (4 January)** and **Union Day (12 February)** are both public holidays with parades in Yangon. **Martyr's Day (19 July)** commemorates the assassination of independence hero Aung San in 1947.

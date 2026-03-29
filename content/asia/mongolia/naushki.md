@@ -1,4 +1,0 @@
----
-title: "Naushki"
-type: location
----

@@ -1,45 +1,44 @@
 ---
 title: "Practical Information"
 type: section
-accessibility: "By Mail"
-address: "Thamel, Kathmandu, Nepal."
-email: "info@nepalvisitors.com"
-phone: ":+977-1-4263133"
-type: "Tourist information"
-url: "www.nepalvisitors.com"
-latitude: 27.716658
-longitude: 85.312702
 ---
 
-For the first-time Nepal Visitors (and, I can assure you, for the repeat visitor as well), a trip to Nepal can be an overwhelming experience. Jet lag and culture shock, thin air and smog, streets with no names and gods with many names all conspire to confuse, challenge, and astound visitors to this Himalayan kingdom. Before you immerse yourself in the cultural crossroads that is modern-day Nepal , it pays to have a clear idea of where you are going and what you want to see and do. This chapter will tell you about some of the best experiences that Nepal has to offer so that you can plan a trip that will fulfill your expectations and be suited to your needs. These selections will, among other things, clue you in to which trek might be right for you, which temples you should not miss, where to stay, where to eat, and what to bring home from your visit . After deciding on an itinerary, tap your reserves for all the patience you can muster, and you just might be ready to explore the kingdom of Nepal .
-Nepal Visitors::Nepal Travels, Trekking, Tours, guide, rafting, adventure, biking, expeditions, trek, peak climbing, mountaineering, hotels, tour, news, safari, business directory, forum. information and provides tips on traveling throughout Nepal.
+## Visas
 
-©Copyright 2007 All Rights Reserved. Nepal Visitors Network
-P.O. Box :19760, Thamel, Kathmandu, Nepal.
-Tel :+977-1-4263133, Fax:+977-1-4216454
-info@nepalvisitors.com
+Most nationalities can obtain a tourist visa on arrival at Tribhuvan Airport in Kathmandu, or at the main land border crossings. Fees: $30 USD for 15 days, $50 for 30 days, $125 for 90 days. Your passport must be valid for at least six months and have two blank pages. Bring a passport photo (the machines at the airport are unreliable — print your own before you travel). Visa on arrival is also available online in advance through the Nepal immigration website, which saves time at the airport.
 
-**Currency**
+Indian nationals enter visa-free and may use their passport or voter ID. Citizens of SAARC countries receive a free 30-day visa.
 
-The local currency is the Nepalese Rupee (NPR)
+You can extend your visa in Kathmandu at the Department of Immigration in Kalikasthan. Tourists may stay up to 150 days per calendar year.
 
-### [Kulendra Baral](/asia/nepal/practical_informat/kulendra_baral)
+## Currency
 
-Nepal Visitors Network
-P.O. Box :19760, Thamel, Kathmandu, Nepal.
-Tel :+977-1-4263133, Fax:+977-1-4216454
-info@nepalvisitors.com
+The Nepalese Rupee (NPR) is the currency. As of early 2025, the exchange rate is approximately 130–135 NPR to the US dollar. ATMs are widely available in Kathmandu and Pokhara; less so outside major towns. Withdraw cash before heading on a trek — there are no ATMs on the trail. Many guesthouses and restaurants in tourist areas accept USD and Euros directly.
 
-type: Tourist information
+Indian Rupees are widely accepted near the southern border and in some Terai towns but are not legal tender throughout Nepal.
 
+## Trekking Permits
 
+All trekkers in Nepal need permits. The two standard ones:
 
-accessibility: By Mail
+**TIMS card** (Trekkers' Information Management System) — required for most trekking areas; obtained in Kathmandu or Pokhara from the Nepal Tourism Board or Trekking Agencies' Association.
 
-tel: :+977-1-4263133
+**ACAP / NATT permit** — required for the Annapurna Conservation Area and Manaslu; around NPR 3,000.
 
-url: [www.nepalvisitors.com](http://www.nepalvisitors.com)
+**Sagarmatha National Park permit** — required for the Everest region; around NPR 3,000.
 
-address: Thamel, Kathmandu, Nepal.
+Some restricted areas (Upper Mustang, Dolpo, Manaslu) require additional special permits costing significantly more and must be arranged in advance through a registered trekking agency.
 
-email:
+## Communications
+
+SIM cards from NTC (Nepal Telecom) or Ncell are cheap and easy to buy at the airport on arrival — bring your passport. Coverage is good in Kathmandu, Pokhara, and along popular trekking routes, though it becomes patchy above 4,000 metres. Most teahouses on major routes have WiFi, though connection speeds are slow and unreliable.
+
+## Electricity
+
+Nepal uses 230V/50Hz. Sockets are mostly the Indian-style three round-pin type, though you'll also find two-pin European-style sockets. Power cuts (load-shedding) have improved in Kathmandu in recent years but still occur, especially in winter. A small torch or headlamp is useful. On treks, charging devices at teahouses usually costs NPR 100–300 per charge.
+
+## Money-Saving Tips
+
+Nepal is genuinely cheap. Budget travellers can get by on $25–30 per day including accommodation, food, and local transport. A basic guesthouse in Thamel costs $10–20 per night. On popular treks, teahouse accommodation is often nominally free if you eat at the lodge (a system that works but is eroding).
+
+Bargaining is expected at markets and with taxi drivers; it is not appropriate in restaurants or shops with marked prices.

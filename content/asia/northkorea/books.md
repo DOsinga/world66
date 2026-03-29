@@ -3,88 +3,20 @@ title: "Books"
 type: section
 ---
 
-**Books**
+North Korea has generated a substantial literature — travel accounts, defector memoirs, academic studies, and journalism. Reading before you go changes what you see there.
 
-**To Dream of Pigs:Travels in South and North Korea**
+**Nothing to Envy: Ordinary Lives in North Korea** by Barbara Demick is the essential starting point. Based on interviews with defectors from Chongjin, it reconstructs daily life during the famine years of the 1990s with novelistic detail. If you read one book, read this one.
 
+**Dear Leader** by Jang Jin-sung is a memoir by a former state poet who worked inside the propaganda apparatus and defected in 2004. Unusual in showing the elite world of Pyongyang from the inside.
 
+**The Impossible State** by Victor Cha is a policy-focused analysis of North Korea by a former NSC director. Dense but reliable on the political history and nuclear question.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1874287023/ref=ase_osingacom?v=glance&s=books)
+**Under the Loving Care of the Fatherly Leader** by Bradley K. Martin is a comprehensive history of the Kim dynasty — long, detailed, and serious. The best single-volume account of how the country was built and how it works.
 
-author: Clive Leatherdale
+**North Korea Journal** by Michael Palin is a travel account from the 2018 Palin television series. Lighter reading; useful for visualising what a standard tour looks like and for the photographs.
 
-isbn: 1874287023
+**The Aquariums of Pyongyang** by Kang Chol-hwan is one of the first published memoirs by a camp survivor, describing years in a political prison camp. Harrowing and important.
 
-subject: travel
+---
 
-**North Korea :Ideology, Politics, Economy**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0131021613/ref=ase_osingacom?v=glance&s=books)
-
-author: Han S. Park
-
-isbn: 0131021613
-
-subject: culture
-
-**Why the North Koreans Behave as They Do**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0964366800/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas H. Kang
-
-isbn: 0964366800
-
-subject: culture
-
-**Chosin:Heroic Ordeal of the Korean War**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0891415270/ref=ase_osingacom?v=glance&s=books)
-
-author: Eric M. Hammel
-
-isbn: 0891415270
-
-subject: history
-
-**Over the Line:North Korea's Negotiating Strategy**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844740284/ref=ase_osingacom?v=glance&s=books)
-
-author: Chuck Downs,James M. Lee
-
-isbn: 0844740284
-
-subject: history
-
-**Fielding's Guide to the Far East 1996:China, Hong Kong, Japan, Macau, North Korea, South Korea, and Taiwan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1569520321/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Young Pelton,Wink Dulles
-
-isbn: 1569520321
-
-subject: travel
-
-**Colder than Hell:A Marine Rifle Company at Chosin Reservoir**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0804116970/ref=ase_osingacom?v=glance&s=books)
-
-author: Joseph R. Owen
-
-isbn: 0804116970
-
-subject: history
+*Earlier editions of this guide listed several books from the late 1990s and early 2000s (Clive Leatherdale, Han S. Park, Thomas H. Kang, Eric Hammel). These remain historically interesting but have been superseded by more recent accounts.*

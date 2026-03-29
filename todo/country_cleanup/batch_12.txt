@@ -1,5 +1,0 @@
-asia/maldives
-asia/mongolia
-asia/myanmar
-asia/nepal
-asia/northkorea

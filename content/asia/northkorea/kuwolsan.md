@@ -1,8 +1,12 @@
 ---
 title: "Kuwolsan"
 type: location
+latitude: 38.5800
+longitude: 125.2700
 ---
 
-The Nine Moon Mountains are one of the most spectacular mountain peaks on the west coast of North Korea. They are located across the mouth of the majestic Taedong River. This rugged, mountanous region is covered with roads and hiking trails that provide access to two of the main mountain peaks. Along these trails you will encounter impressive waterfalls, natural hot springs, the walled remains of an old fortress, and several former shrines and hermitages.
+Kuwolsan (Nine Moon Mountain) is a rugged coastal range on the west coast of North Korea, where the Taedong River meets the sea. The mountains rise sharply from the shoreline and offer hiking trails through forest, past waterfalls, and to the remains of an old fortress and several former Buddhist shrines.
 
-The Samsong Pleasure Ground, located south of the main peake is a main summer retreat for local Koreans. Further south is Woljongsa, an ancient, but partially reconstructed Buddhist Temple.
+The **Samsong Pleasure Ground** south of the main peak is a domestic resort area used by local Koreans in summer. The **Woljongsa Temple** further south is a partially reconstructed Buddhist site, ancient in origin.
+
+Kuwolsan is not a standard inclusion on most tourist itineraries and requires a longer tour or specific interest in natural scenery to be worth the detour. For those who make it, the coastal mountain landscape is a genuine contrast to the flatlands around Pyongyang.

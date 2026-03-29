@@ -3,10 +3,6 @@ title: "Soyo"
 type: location
 ---
 
-Travel Guide
+Small city in the far north of Angola, in Zaire province, where the Congo River meets the Atlantic Ocean. You can reach Soyo by plane on TAAG or by car from [Luanda](/africa/angola/luanda) -- the first stretch to Caxito is paved, but the remaining 360 kilometers are unpaved and rough. It is an adventure.
 
-**Soyo, Angola, second largest city of the province of Zaire, located at the Congo River and the Atlantic Ocean. You can reach Soyo by plane (national carrier TAAG is blacklisted by the EU) or by car which is an adventure. APart from the road between Luanda and Caxito the remaining 360km are not paved and mostly in bad shape. Bizarre but a nice landscape.
-
-The city is dominated by the oil base Kwanda. There is one small hotel and some guest houses. Price as always in Angola around 100 USD per night. Electricity and water are not guaranteed. One acceptable restaurant and that's it.
-
-**
+The city is dominated by the Kwanda oil base. There is one small hotel and some guesthouses, running around $100 per night as is typical for Angola. Electricity and water are not guaranteed. One acceptable restaurant and that is about it. Soyo is a working town, not a destination -- but the landscape along the drive is striking, and the Congo River estuary has a wild, remote beauty.

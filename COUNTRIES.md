@@ -31,7 +31,6 @@ The nuts and bolts:
 - **Money** — currency, ATM availability, card vs. cash, tipping customs
 - **Language** — what's spoken, how far English gets you, useful phrases
 - **Safety** — honest assessment, common scams, areas to avoid
-- **Connectivity** — SIM cards, Wi-Fi, mobile payments
 
 ### When to Go (`when_to_go.md`)
 

@@ -8,7 +8,7 @@ from django.http import Http404
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page
+from .models import load_page, load_tag_index
 
 
 @lru_cache(maxsize=1)
@@ -79,7 +79,16 @@ def location_or_section(request, path):
         "continent_slug": continent_slug,
         "is_continent": is_continent,
         "markers_json": mark_safe(json.dumps(markers)),
+        "tags": page.tags,
     })
+
+
+def tag_index(request, tag):
+    index = load_tag_index()
+    pages = index.get(tag, [])
+    if not pages and tag not in index:
+        raise Http404
+    return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
 
 
 def _marker_from_page(page):

@@ -126,6 +126,14 @@
 </div>
 {% endif %}
 
+{% if tags %}
+<div class="tags">
+  {% for tag in tags %}
+  <a href="/tags/{{ tag|urlencode }}" class="tag">{{ tag }}</a>
+  {% endfor %}
+</div>
+{% endif %}
+
 {% if locations and page.page_type == "location" and locations|length > 30 %}
 <div class="destinations-section">
   <h2>All {{ locations|length }} Destinations</h2>

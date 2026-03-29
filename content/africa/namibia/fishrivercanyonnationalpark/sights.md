@@ -3,7 +3,6 @@ title: "Sights"
 type: section
 ---
 
-Hiking the Fish river canyon is a absolute must for avid hikers. It presents unique challenges in terms of weather, terrain and distance. It is not easy but with the right planning it is well worth the effort. Usually very dry and hot, water is everything. In the early winter after good rains, water makes the hike longer becasue the river has to be crossed several times.
+Hiking the Fish River Canyon is an absolute must for serious walkers. The 85km trail runs along the canyon floor from Hobas in the north to the hot springs at Ai-Ais in the south, taking 4-5 days. It presents unique challenges of heat, terrain, and distance — not technically difficult but demanding. The canyon is extremely dry, and water management is everything. In early winter after good rains, river crossings can add time to the hike. The trail is only open May to September; outside these months, heat makes it dangerous and the river can be impassable.
 
-**Contributors**
-July 03, 2006
+The canyon rim viewpoints near Hobas can be visited year-round and are impressive on their own terms — the canyon drops over 550m and stretches 160km in length.

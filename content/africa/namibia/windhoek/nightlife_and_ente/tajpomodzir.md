@@ -3,4 +3,4 @@ title: "Taj Pomodzir"
 type: poi
 ---
 
-Also for good Zairian and Zimbabwean music, don't hesitate to visit Club Taj Pomodzir.
+A club known for Central African music — Congolese rumba and Zimbabwean sounds. A distinctive alternative to the mainstream club scene.

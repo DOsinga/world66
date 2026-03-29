@@ -1,16 +1,9 @@
 ---
 title: "Christuskirche"
 type: poi
-address: "Elena Travel Services & Car Hire CC"
-type: "Hotspots"
+address: "Peter Muller Street, Windhoek"
+latitude: -22.5667
+longitude: 17.0825
 ---
 
-Windhoek’s best-recognised landmark, the German Lutheran Christuskirche, stands on a traffic island at the top of Peter Muller Strasse. It is large cathedral, left behind by German colonists in the late 1800s.
-
-type: Hotspots
-
-
-
-
-
-address: Elena Travel Services & Car Hire CC
+Windhoek's most recognisable landmark, the German Lutheran Christuskirche was consecrated in 1910 and stands on a traffic island at the top of Peter Muller Strasse. The design blends neo-Gothic and Art Nouveau elements — a legacy of the German colonial period. The interior is open to visitors during the day.

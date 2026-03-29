@@ -3,86 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Namibia: The Bradt Travel Guide** by Annelise Briedenhann and Chris McIntyre is the most thorough English-language travel guide to the country, with detailed coverage of even remote areas and national parks.
 
-**Zimbabwe, Botswana and Namibia**
+**The Sheltering Desert** by Henno Martin is a remarkable true account of two German geologists who hid in the Namib for two years during World War II to avoid internment. It's one of the best books ever written about Namibian landscapes.
 
+**Sands of Silence: On Safari in Namibia** by Peter Hathaway Capstick captures the hunting culture and wildlife of Namibia in vivid, opinionated prose — a period piece but a good read.
 
+**The Bushman Myth: The Making of a Namibian Underclass** by Robert J. Gordon is an essential scholarly work on the San (Bushmen) people and their complex history with colonialism and the Namibian state.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425457/ref=ase_osingacom?v=glance&s=books)
+**A Field Guide to the Birds of Namibia** by Ian Sinclair and Phil Hockey is the standard reference for birdwatchers — essential given that Namibia hosts over 670 recorded species.
 
-author: Deanna Swaney
-
-isbn: 0864425457
-
-subject: travel
-
-**Sands of Silence:On Safari in Namibia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312064594/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Hathaway Capstick
-
-isbn: 0312064594
-
-subject: travel
-
-**Namibia:The Bradt Travel Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/189832364X/ref=ase_osingacom?v=glance&s=books)
-
-author: Chris McIntyre
-
-isbn: 189832364X
-
-subject: travel
-
-**Bushman Myth:The Making of a Namibian Underclass**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0813313813/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert J. Gordon
-
-isbn: 0813313813
-
-subject: culture
-
-**Zimbabwe, Botswana and Namibia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425457/ref=ase_osingacom?v=glance&s=books)
-
-author: Deanna Swaney
-
-isbn: 0864425457
-
-subject: history
-
-**Lonely Planet Zimbawe, Botswana & Namibia Travel Atlas**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864422741/ref=ase_osingacom?v=glance&s=books)
-
-author: Deanna Swaney,Steinhart Katzir Publishers
-
-isbn: 0864422741
-
-subject: history
-
-**A Photographic Guide to Birds of Namibia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0883590379/ref=ase_osingacom?v=glance&s=books)
-
-author: Ian C. Sinclair,Jackie Sinclair
-
-isbn: 0883590379
-
-subject: history
+**Let Us Dream of Tomorrow: A History of Namibia** by Marion Wallace is the most accessible single-volume history of the country, covering from pre-colonial times through independence.

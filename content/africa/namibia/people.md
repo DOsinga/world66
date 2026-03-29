@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 1 622 328 (July 1998 est.)
+Namibia has a population of around 2.7 million people spread across a country roughly twice the size of California — one of the lowest population densities on earth. The space shows: you can drive for hours without seeing another soul.
 
-**Age structure:**
+About half the population belongs to the Ovambo people, who are concentrated in the north and provide the country's political backbone. Other significant groups include the Kavango, Herero, Damara, Nama, and Caprivian peoples, each with distinct languages, dress, and traditions. The semi-nomadic Himba of the Kunene region in the far northwest are among the most photographed people in Africa, known for their ochre-covered skin and elaborate hairstyles.
 
-*0-14 years:* 44% (male 362 310; female 354 386)
+Namibia also has a small but culturally influential community descended from German colonists, which explains the beer halls, Lutheran churches, and Bavarian architecture in towns like Swakopmund and Lüderitz.
 
-*15-64 years:* 52% (male 414 281; female 426 921)
+English is the official language, but Afrikaans functions as the common language across ethnic groups, and Oshiwambo is the most widely spoken mother tongue. In the north you'll hear Kavango languages; in the south, Nama with its distinctive click consonants. German is still spoken in Swakopmund and among older white Namibians.
 
-*65 years and over:* 4% (male 27 001; female 37 429) (July 1998 est.)
-
-**Population growth rate:** 1.6% (1998 est.)
-
-**Birth rate:** 35.84 births/1 000 population (1998 est.)
-
-**Death rate:** 19.82 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.97 male(s)/female
-
-*65 years and over:* 0.72 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 66.76 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 41.48 years
-
-*male:* 41.73 years
-
-*female:* 41.24 years (1998 est.)
-
-**Total fertility rate:** 4.99 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Namibian(s)
-
-*adjective:* Namibian
-
-**Ethnic groups:** black 86% white 6.6% mixed 7.4%
-
-*note:* about 50% of the population belong to the Ovambo tribe and 9% to the Kavangos tribe; other ethnic groups are: Herero 7% Damara 7% Nama 5% Caprivian 4% Bushmen 3% Baster 2% Tswana 0.5%
-
-**Religions:** Christian 80% to 90% (Lutheran 50% at least other Christian denominations 30%) native religions 10% to 20%
-
-**Languages:** English 7% (official) Afrikaans common language of most of the population and about 60% of the white population German 32% indigenous languages: Oshivambo Herero Nama
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 38%
-
-*male:* 45%
-
-*female:* 31% (1960 est.)
+Namibia is a Christian-majority country — predominantly Lutheran, with German colonial missions having a lasting influence — though traditional animist beliefs remain important alongside formal religion in many communities.

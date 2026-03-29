@@ -1,0 +1,5 @@
+northamerica/unitedstates
+northamerica/virginislands
+southamerica/argentina
+southamerica/bolivia
+southamerica/brazil

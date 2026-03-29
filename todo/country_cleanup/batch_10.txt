@@ -1,0 +1,5 @@
+asia/iraq
+asia/israel
+asia/japan
+asia/jordan
+asia/kazakhstan

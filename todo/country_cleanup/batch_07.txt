@@ -1,0 +1,5 @@
+africa/uganda
+africa/zambia
+africa/zimbabwe
+asia/afghanistan
+asia/bahrain

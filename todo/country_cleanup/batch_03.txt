@@ -1,0 +1,5 @@
+africa/mauritius
+africa/morocco
+africa/mozambique
+africa/namibia
+africa/niger

@@ -1,0 +1,5 @@
+northamerica/puertorico
+northamerica/saintbartholomy
+northamerica/saintlucia
+northamerica/saintmartin
+northamerica/turks__caicos_isl

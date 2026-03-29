@@ -1,0 +1,5 @@
+asia/taiwan
+asia/tajikistan
+asia/thailand
+asia/turkey
+asia/turkmenistan

@@ -1,0 +1,5 @@
+asia/saudiarabia
+asia/singapore
+asia/southkorea
+asia/srilanka
+asia/syria

@@ -1,0 +1,5 @@
+southamerica/guyana
+southamerica/paraguay
+southamerica/peru
+southamerica/suriname
+southamerica/uruguay

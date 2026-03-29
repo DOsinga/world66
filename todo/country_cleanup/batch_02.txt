@@ -1,0 +1,5 @@
+africa/madagascar
+africa/malawi
+africa/maldives
+africa/mali
+africa/mauritania

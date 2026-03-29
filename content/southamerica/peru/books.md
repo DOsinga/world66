@@ -3,112 +3,26 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## History and Exploration
 
-**Lonely Planet Peru '96**
+**The Conquest of the Incas** by John Hemming (1970) remains the definitive English-language account of the Spanish conquest. Meticulously researched and compellingly written, it covers the destruction of the Inca empire from first contact to the last Inca resistance. Essential background for anyone visiting Cusco or Machu Picchu.
 
+**The Last Days of the Incas** by Kim MacQuarrie (2007) covers much of the same ground with more narrative pace. MacQuarrie spent five years in Peru and draws on both Spanish chronicles and indigenous accounts.
 
+**Lost City of the Incas** by Hiram Bingham (1948), reissued many times, is the first-person account of the 1911 expedition that brought Machu Picchu to international attention. Dated in its assumptions but still a readable adventure story.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423322/ref=ase_osingacom?v=glance&s=books)
+## Travel Writing
 
-author: Rob Rachowiecki
+**The White Rock: An Exploration of the Inca Heartland** by Hugh Thomson (2001) follows Thomson's search for lost Inca ruins in the highlands above Cusco. Strong on both the landscape and the archaeology.
 
-isbn: 0864423322
+**Turn Right at Machu Picchu** by Mark Adams (2011) interleaves the story of Hiram Bingham's expeditions with the author's own less-equipped modern re-enactment. Lighter in tone than Thomson, and very readable on the train.
 
-subject: travel
+## Fiction
 
-**Touching the Void**
+**Lituma in the Andes** by Mario Vargas Llosa (1993) is set during the height of the Shining Path insurgency, in an Andean mining town where people are disappearing. Dark and unsettling, it captures the violence and strangeness of the period better than any non-fiction account.
 
+**The Real Life of Alejandro Mayta** by Vargas Llosa (1984) is a fictional investigation into a failed left-wing uprising in the 1950s, blurring journalism and imagination. A good introduction to Vargas Llosa's preoccupations.
 
+## Context
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0060916540/ref=ase_osingacom?v=glance&s=books)
-
-author: Joe Simpson
-
-isbn: 0060916540
-
-subject: travel
-
-**Insight Guides Peru**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887291295/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Guides Staff
-
-isbn: 0887291295
-
-subject: travel
-
-**Braids:250 Patterns from Japan, Peru and Beyond**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1883010063/ref=ase_osingacom?v=glance&s=books)
-
-author: Rodrick Owen
-
-isbn: 1883010063
-
-subject: culture
-
-**The Peru Reader:History, Culture, Politics**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/082231617X/ref=ase_osingacom?v=glance&s=books)
-
-author: Orin Starn,Carlos Ivan Degregori,Robin Kirk (..
-
-isbn: 082231617X
-
-subject: culture
-
-**Peru in Focus:A Guide to the People, Politics and Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566562325/ref=ase_osingacom?v=glance&s=books)
-
-author: Jane Holligan de Diazs-Limaco
-
-isbn: 1566562325
-
-subject: culture
-
-**The Bridge of San Luis Rey**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0060929863/ref=ase_osingacom?v=glance&s=books)
-
-author: Thornton Wilder
-
-isbn: 0060929863
-
-subject: history
-
-**Braids:250 Patterns from Japan, Peru and Beyond**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1883010063/ref=ase_osingacom?v=glance&s=books)
-
-author: Rodrick Owen
-
-isbn: 1883010063
-
-subject: history
-
-**The Peru Reader:History, Culture, Politics**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/082231617X/ref=ase_osingacom?v=glance&s=books)
-
-author: Orin Starn,Carlos Ivan Degregori,Robin Kirk (..
-
-isbn: 082231617X
-
-subject: history
+**The Peru Reader: History, Culture, Politics** edited by Orin Starn, Carlos Ivan Degregori, and Robin Kirk is a comprehensive anthology covering pre-Columbian history, the conquest, independence, the twentieth century, and contemporary life. Useful for understanding the full arc of Peruvian history beyond the Inca.

@@ -7,7 +7,7 @@ opening_hours: "Check website for current hours"
 admission: "Park free; castle interior €15 adults, €2 reduced (EU citizens 18–25), free under 18"
 latitude: 45.704138
 longitude: 13.713103
-tags: ["One Day in Trieste"]
+tags: ["One Day in Trieste", "3 Days in Trieste"]
 ---
 
 A white neo-Gothic castle perched on a rocky promontory above the sea, about 8 km north of the city centre. Built in the 1850s for Archduke Maximilian of Austria, it sits in a large park with formal gardens and direct views over the Gulf of Trieste. The park is free and open daily; the castle interior requires a ticket.

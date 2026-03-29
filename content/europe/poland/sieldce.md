@@ -1,4 +1,0 @@
----
-title: "Sieldce"
-type: location
----

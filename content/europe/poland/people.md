@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 38,66 mln (Jan 1999 est.)
+Poland has a population of around 38 million, making it the fifth largest country in the EU by population. After significant emigration to Western Europe following EU accession in 2004 — particularly to the UK, Germany, and Ireland — the demographic picture has shifted somewhat, with some returning and a growing number of Ukrainian migrants arriving since 2022.
 
-**Age structure:**
+The population is overwhelmingly ethnic Polish (over 97%) and Roman Catholic. Religion plays a significant role in public life, though churchgoing has declined among younger generations in cities. The Catholic Church remains politically and culturally influential.
 
-*0-14 years:* 21% (male 4 075 959; female 3 883 778)
+Poles have a reputation for warmth once you get past a sometimes reserved initial manner. Hospitality is taken seriously — if you're invited to someone's home, bring wine or flowers (an odd number, not 12), and expect to be fed. Refusing food or drink can seem rude.
 
-*15-64 years:* 68% (male 12 956 689; female 13 129 495)
+Polish national identity is shaped profoundly by history — particularly the partitions (when Poland ceased to exist as a state for 123 years), World War II (during which Poland lost around a fifth of its population), and the communist era. Poles are generally proud of their resilience and their contributions to European history, from the Battle of Vienna to Solidarity. This history is not background noise; it comes up in conversation.
 
-*65 years and over:* 11% (male 1 732 788; female 2 828 213) (July 1998 est.)
+The older generation often speaks Russian as a second language, a legacy of the communist era. Younger Poles overwhelmingly speak English, especially in cities. German is useful near the western border.
 
-**Population growth rate:** -0.04% (1998 est.)
-
-**Birth rate:** 9.79 births/1 000 population (1998 est.)
-
-**Death rate:** 9.76 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.4 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.61 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 13.18 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 72.77 years
-
-*male:* 68.6 years
-
-*female:* 77.16 years (1998 est.)
-
-**Total fertility rate:** 1.36 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Pole(s)
-
-*adjective:* Polish
-
-**Ethnic groups:** Polish 97.6% German 1.3% Ukrainian 0.6% Byelorussian 0.5% (1990 est.)
-
-**Religions:** Roman Catholic 95% (about 75% practicing) Eastern Orthodox Protestant and other 5%
-
-**Languages:** Polish
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99%
-
-*male:* 99%
-
-*female:* 98% (1978 est.)
+Regional identities remain strong. Silesia, Pomerania, and the mountainous Podhale region each have distinct cultures, dialects, and sometimes a complicated relationship with Warsaw.

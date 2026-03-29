@@ -3,24 +3,12 @@ title: "Top 5 Must Do's in Benin"
 type: section
 ---
 
-Here are some highlights of **Benin City**** Must Do&rsquo;s**, with much to do in the vibrant city of Benin.
+**1. Walk the Route des Esclaves in Ouidah.** Start at the Place Chacha in the center of [Ouidah](/africa/benin/ouidah), where slaves were auctioned, and walk the four kilometers to the beach, passing memorials and the Tree of Forgetting where captives were forced to circle before boarding the ships. The path ends at the Door of No Return, a towering arch on the sand facing the Atlantic. It is solemn, powerful, and one of the most important historical sites in Africa. Allow a couple of hours and consider hiring a local guide who can bring the history to life.
 
-**Visit the Benin City National Museum**
+**2. Take a pirogue to Ganvie.** Hire a motorized canoe at the lakeside in Abomey-Calavi and glide out onto Lake Nokoue to [Ganvie](/africa/benin/ganvie), where an entire town of 30,000 people lives on stilts above the water. You will pass fishermen setting nets, children paddling to school, and a floating market where goods are traded from canoe to canoe. The town was founded by people escaping Dahomey slave raiders, and the ingenuity of building a complete community on water is remarkable. Go in the morning for the best light and the most activity.
 
-The Benin City National Museum is a large building located near the Oba&rsquo;s Palace. This is where tourists can find a good introduction into the history and heritage of Benin City as well as in depth information about the progress and way of life in the place. Nothing beats the streets in understanding the way the people work here, of course, but the Museum is a good place to start.
+**3. Explore the Royal Palaces of Abomey.** The UNESCO-listed palace compound at [Abomey](/africa/benin/abomey) is where twelve kings of Dahomey ruled from the 1600s to the French conquest. The walls are decorated with extraordinary bas-reliefs depicting battles, human sacrifices, and the legendary female warriors. The museum inside holds royal thrones -- including one mounted on human skulls -- ceremonial clothing, and weapons. Hire the on-site guide for the full story of each king and their reign.
 
-**Walk around the Oba&rsquo;s Palace**
+**4. Experience voodoo at its source.** Visit the Temple of Pythons in [Ouidah](/africa/benin/ouidah), where dozens of royal pythons slither freely through a small compound, sacred to the voodoo faith. Walk through the Fetish Market in [Cotonou](/africa/benin/cotonou), where dried animal parts, herbs, and powders are sold for spiritual and medicinal purposes. If you visit in early January, the Voodoo Festival on January 10th in Ouidah is a day of public ceremonies, drumming, and dance that offers an authentic window into this living religion.
 
-Benin is home to one of the world&rsquo;s longest sustaining monarchies, and Benin City is precisely the home of the palace housing the royal family. There is no longer a country known as Benin Kingdom, and Benin City itself is located in Nigeria, but the Oba remains the traditional and ceremonial king of the city. The Oba himself lives in Benin City, but his family is scattered across Africa and Europe. The palace itself is largely a museum with artifacts and relics from the past, and offers tourists a good gateway into the culture and history of the city.
-
-**Stroll along Gun Street**
-
-Benin is famous for its bronze and metal castings, and this is the place where it all began. Gun Street began as a single shop selling metal and bronze works, but quickly expanded into a street specializing in the art form. Traditionally, the metal works were used only in important festivals and celebrations, and only used frequently by the royal family. However, this has now become a popular art form within homes, and in many Benin homes, small bronze ornaments can be found around. Gun Street is the perfect place to pick up some souvenirs to take home, to give your house that wonderful tribal flavor.
-
-**See the Benin Moats**
-
-The Benin Moats are a little known but amazing structure that forms an important part of the cultural history of Benin. Built in the ancient times by the warriors of the Edo people (the native tribe of Benin), the moats are deep structures that resemble trenches in the modern world. They serve the same purpose of defending Benin against external attackers – but differ in that they stretch up to 6,500 square km in area. Unfortunately, many of these moats are very poorly maintained and the government lacks funds to keep them, and many have disappeared.
-
-**Taste the Local Cuisine**
-
-There are a few things to try in Benin, with a distinctive local flavor to the food compared to the rest of Nigeria. Taste the Suya, a baked meat with a hint of sweetness, together with the traditional food of cassava and yams. Be sure also to try the palm wine – fresh from the local tappers. Bottled ones are also available, but always pick the fresh one if that is available.
+**5. Visit the Somba tata villages.** In the Atakora mountains near Natitingou, the Somba people live in remarkable fortified tower houses called tata somba -- two-story structures of mud and thatch that look like miniature castles, with grain stores on the roof and livestock on the ground floor. Walking between the [Somba villages](/africa/benin/sombavillages) with a local guide is a genuinely immersive experience, and the landscape of rocky hills, baobab trees, and red earth is stunning. This is about as far off the beaten track as you can get in West Africa.

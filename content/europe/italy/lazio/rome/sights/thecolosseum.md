@@ -1,11 +1,15 @@
 ---
-title: "The Colosseum"
+title: "Colosseum"
 type: poi
-type: "Hotspots"
-latitude: 41.889808
-longitude: 12.488831
+address: "Piazza del Colosseo 1, 00184 Rome"
+url: "www.colosseo.it"
+opening_hours: "Daily from 09:00; closing varies by season (17:00–19:30)"
+admission: "€16–€22; combined ticket with Roman Forum and Palatine Hill; booking essential"
+latitude: 41.8902
+longitude: 12.4922
+tags: ["48 Hours in Rome", "3 Days in Rome"]
 ---
 
-The Coliseum is considered the symbol of Rome. This amphitheatre, built in about 10 years, shortly after the A.D.70, was the most imposing of all the monuments in ancient Rome. This ancient venue, where 50,000 people could be entertained was probably paid for with the treasures brought from raids. Usually it was used for shows with wild animals, and gladiators, and even sea battles. In A.D.438 this was abolished and the shows were only about animal hunting. The last show is dated in A.D.523 by Theodoric, King of Ostrogoths. The Coliseum was named after the giant statue that stood nearby. In medieval times the four-storied theater was used as a quarry until in 1749 it was acclaimed to be a holy site in memory of Christian martyrs that were slain here. Holes in the remains of the coliseum were made when bronze in the structure was removed to be melted for arms for war.
+Rome's defining ancient monument, a 2,000-year-old amphitheatre that once held 50,000–80,000 spectators for gladiatorial games, animal hunts, and public spectacles. Construction began under Emperor Vespasian around AD 70 and was completed by his son Titus in AD 80. Four storeys of arches in travertine and tufa, the largest amphitheatre ever built — its engineering has influenced stadium design ever since.
 
-type: Hotspots
+Book tickets online in advance; walk-in queues can stretch for hours in high season. The combined ticket includes the Roman Forum and Palatine Hill and is valid for two days — use it.

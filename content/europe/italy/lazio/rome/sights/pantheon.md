@@ -1,19 +1,15 @@
 ---
 title: "Pantheon"
 type: poi
-type: "Churches and Cathedrals"
-latitude: 41.898616
-longitude: 12.476833
+address: "Piazza della Rotonda, 00186 Rome"
+url: "www.pantheonroma.com"
+opening_hours: "Mon–Sat 09:00–19:00; Sun 09:00–18:00; closed public holidays"
+admission: "€5"
+latitude: 41.8986
+longitude: 12.4769
+tags: ["48 Hours in Rome", "3 Days in Rome"]
 ---
 
-Another two blocks along and on your left you'll find the Torre Argentina, a large square. In the center are remains of several Republican Temples (i.e., before Caesar Augustus, probably 2nd or 1st century before the Christian Era). Across (on your right as you were walking down Corso V. Emanuele II) you'll find via di Torre Argentina. This eventually becomes via Rotondo, which will in turn take you into Piazza Rotondo, the square in which you'll find the Pantheon.
+The best-preserved ancient building in the world, built by Emperor Hadrian around AD 125 on the site of an earlier temple. The concrete dome — 43.3 metres in diameter, identical to the height of the building — was the largest in the world for over 1,300 years and remains an engineering marvel. The oculus at its apex, 8.7 metres wide, is the building's only light source.
 
-The Pantheon ('Temple to All Gods') is the largest dome in Rome (yes ... larger than St. Peter's.) And, if you have the luck to be there on a rainy day, see how much rain enters ... or doesn't ... the 10m hole in the roof. The interior is quite lovely. Typically open from 9-2: quite interesting, and an important sight to behold. A top the proscenium you'll find the inscription:
-
-**"M. AGRIPPA L. F. COS. TERTIUM. FECIT"**
-
-This points out a couple of problems in reading Latin inscriptions. Even knowing a bit of Latin you'll find translating them a bit difficult: "Marcus Agrippa, son (F) of Lucius, Consul (COS) for the third time (Tertium), built this." The facts aren't always in accord with the inscription, if you can read it. In fact, Agrippa did, probably, build the first Pantheon, but Hadrian rebuilt it entirely. Hadrian, modest, by Roman standards, never had his name inscribed on any of his buildings. He honored Agrippa's fame by repeating the original inscription on the new structure.
-
-The interior measures 43,40 meters in diameter, and the same in height. Light and air still enter through the opening at the top (a circle of 8m. 92cms in diameter). In 609 the Pantheon was the first pagan temple to be inaugurated as a Katholic church: The Sta Maria ad Martyrs, dedicated to all the martyrs killed by Roman hands.
-
-type: Churches and Cathedrals
+Arrive as early as possible — it fills fast and the interior is difficult to appreciate in a crowd. Raphael is buried here, as are two Italian kings. Now a church, so mass is celebrated on Sundays and at festival times.

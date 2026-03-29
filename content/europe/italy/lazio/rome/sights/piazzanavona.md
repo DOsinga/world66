@@ -1,19 +1,12 @@
 ---
 title: "Piazza Navona"
 type: poi
-latitude: 41.898928
-longitude: 12.473118
+admission: "Free"
+latitude: 41.8989
+longitude: 12.4730
+tags: ["48 Hours in Rome", "3 Days in Rome"]
 ---
 
-After visiting the Pantheon, turn left on leaving and use a map to find your way to the west, and the Piazza Navona. (It's straight ahead, but if it's your first time in Rome, a map may be comforting.)
+Rome's most theatrical Baroque square, built on the footprint of the 1st-century Stadium of Domitian — its elongated shape still traces the ancient racecourse beneath. Three fountains punctuate the piazza; Bernini's Fontana dei Quattro Fiumi (1651), with river gods symbolising the Nile, Ganges, Danube, and Río de la Plata, is the centrepiece.
 
-
- Piazza Navona is built on the foundations of Domitian's Circus, and you'll recognize the shape. 
- 
-
-A Christmas fair fills it in December. There are three fountains, of which the one in the center is world class, the fountain of the four rivers. The Tre Scalini ice cream shop (Gelateria) is famous for its Tartufo (Truffle) ice cream, preferably Tartufo con Panna - with whipped cream. Forget the calories ... splurge!
-
-On the side of the square there is the church Sant'Agnese Agone which is a wonderful example of baroque architecture.
- 
-
-Go to the north end of the piazza, past the toy store to see the remains of the stadium foundations. Walk around the corner to your left and you'll see them below the sidewalk.
+The square is lined with cafes and street artists and fills with visitors throughout the day; it's most atmospheric in the evening. Don't eat at the restaurants on the piazza itself — overpriced and unremarkable. Sant'Eustachio il Caffè is a five-minute walk away.

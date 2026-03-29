@@ -142,6 +142,7 @@ class Page:
                     elif child.page_type == "section":
                         sections.append(child)
 
+        sections.sort(key=lambda s: (s.meta.get("order", 99), s.title))
         return sections, locations, pois
 
     def pois(self):
@@ -200,9 +201,21 @@ def load_page(path):
     return None
 
 
-@lru_cache(maxsize=1)
+def _content_mtime():
+    """Return the most recent modification time across all content files."""
+    return max((f.stat().st_mtime for f in CONTENT_DIR.rglob("*.md")), default=0)
+
+
+_search_index_cache = (None, None)  # (mtime, entries)
+_tag_index_cache = (None, None)     # (mtime, index)
+
+
 def load_search_index():
     """Return a list of (title_lower, title, url_path) for all content pages."""
+    global _search_index_cache
+    mtime = _content_mtime()
+    if _search_index_cache[0] == mtime:
+        return _search_index_cache[1]
     entries = []
     for md_file in sorted(CONTENT_DIR.rglob("*.md")):
         result = _load_md(md_file)
@@ -220,12 +233,16 @@ def load_search_index():
         else:
             url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
         entries.append((title.lower(), title, url_path, meta.get("type", "location")))
+    _search_index_cache = (mtime, entries)
     return entries
 
 
-@lru_cache(maxsize=1)
 def load_tag_index():
     """Scan all content files and return a dict mapping tag -> list of Pages."""
+    global _tag_index_cache
+    mtime = _content_mtime()
+    if _tag_index_cache[0] == mtime:
+        return _tag_index_cache[1]
     index = {}
     for md_file in sorted(CONTENT_DIR.rglob("*.md")):
         result = _load_md(md_file)
@@ -256,6 +273,7 @@ def load_tag_index():
             continue
         for tag in raw_tags:
             index.setdefault(tag, []).append(page)
+    _tag_index_cache = (mtime, index)
     return index
 
 

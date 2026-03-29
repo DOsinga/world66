@@ -3,58 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 118 211 (July 1998 est.)
+The US Virgin Islands has a population of around 84,000, a figure that has been declining steadily since a peak in the 1990s. The islands are majority Black, with roots in the West African communities brought to the islands during the Danish colonial period. Many residents trace their families back through generations of post-emancipation island life. Hispanic residents, largely of Puerto Rican and Dominican descent, make up a significant minority. There is also a long-established community of Sephardic Jewish descent in St. Thomas, whose ancestors arrived in the 17th century.
 
-*note:* West Indian (45% born in the Virgin Islands and 29% born elsewhere in the West Indies) 74% US mainland 13% Puerto Rican 5% other 8%
+Islanders hold US citizenship but cannot vote in presidential elections. The territory sends one non-voting delegate to the US House of Representatives. Local governance is handled through an elected governor and a 15-seat legislature.
 
-**Age structure:**
+English is the official language and is spoken universally. Spanish is widely understood, particularly in Charlotte Amalie and on St. Croix. You may also hear Virgin Islands Creole, an English-based creole with West African and Dutch influences, spoken among older residents and in more informal settings.
 
-*0-14 years:* 29% (male 17 310; female 16 502)
-
-*15-64 years:* 64% (male 34 434; female 40 645)
-
-*65 years and over:* 7% (male 4 065; female 5 255) (July 1998 est.)
-
-**Population growth rate:** 1.16% (1998 est.)
-
-**Birth rate:** 16.45 births/1 000 population (1998 est.)
-
-**Death rate:** 5.01 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.13 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.84 male(s)/female
-
-*65 years and over:* 0.77 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 9.6 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 78.3 years
-
-*male:* 74.68 years
-
-*female:* 82.15 years (1998 est.)
-
-**Total fertility rate:** 2.32 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Virgin Islander(s)
-
-*adjective:* Virgin Islander
-
-**Ethnic groups:** black 80% white 15% other 5%
-
-**Religions:** Baptist 42% Roman Catholic 34% Episcopalian 17% other 7%
-
-**Languages:** English (official) Spanish Creole
-
-**Literacy:** NA
+The population is majority Christian, with Baptist and Catholic churches predominant. The historic Hebrew congregation on St. Thomas — Beracha Veshalom Vegmiluth Hasidim — is the oldest surviving Jewish congregation in the Western Hemisphere, with a synagogue dating to 1833.

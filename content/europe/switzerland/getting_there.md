@@ -1,82 +1,14 @@
 ---
 title: "Getting There"
 type: section
-address: "Postfach,  8058 Zürich-Flughafen"
-phone: "+41 (0)43 816 22 11"
-type: "By Air"
-url: "www.flughafen-zuerich.ch"
 ---
 
-The best way to get to Switzerland if you are coming from overseas is
-by airplane. There are three international airports (Zurich, Geneva and
-Basel-Mulhouse).
+Switzerland has three main international airports: Zurich (ZRH), Geneva (GVA), and EuroAirport Basel-Mulhouse-Freiburg (BSL), which straddles the French-Swiss border. Zurich is the busiest, with direct long-haul connections to North America, Asia, and the Middle East. Geneva is the gateway to western Switzerland and the Alps, with strong European connections including several low-cost carriers. Basel is smaller and handles mostly European flights, but it is very convenient if you are heading to Basel itself or the surrounding region.
 
-If you are coming from within Europe you probably get to Switzerland
-either by train or by car. Because of its great railway infrastructure
-it is better to get there by train.
+Swiss International Air Lines (SWISS) is the national carrier and operates from Zurich as its main hub.
 
-**Contributors**
-September 23, 2005
+**By train from within Europe**, Switzerland is exceptionally well connected. Direct trains run from Paris (about 3.5 hours to Basel or Geneva via TGV Lyria), Frankfurt (about 3 hours to Basel), Milan (about 3.5 hours to Zurich), and Vienna (about 8 hours). Eurostar connections via London are possible with one change. For most European visitors, arriving by rail is more convenient and often faster than flying once you factor in airport time. Check schedules at [sbb.ch](https://www.sbb.ch).
 
-### [Airport Zurich](/europe/switzerland/getting_there/airport_zurich)
+**By car**, Switzerland is easy to reach on the European motorway network. Note that all motorways in Switzerland require a Vignette sticker (currently CHF 40 per year), sold at border crossings, petrol stations, and post offices. Without one you face a fine.
 
-Airport Zurich ist the largest Airport in Switzerland.
-
-On their website you can see the landing and departure timetable.
-
-There is also a list of all airlines flying to Zurich. In case you want to search for the cheapest one.
-
-type: By Air
-
-
-
-[[rate it]](/europe/switzerland/getting_there/airport_zurich)
-
-tel: +41 (0)43 816 22 11
-
-url: [www.flughafen-zuerich.ch](http://www.flughafen-zuerich.ch)
-
-address: Postfach, 8058 Zürich-Flughafen
-
-### [From Geneva Airport to Siom By Train](/europe/switzerland/getting_there/geneva_internation)
-
-Many low-cost carrier, like Easyjet, are flying to Geneva. If you want to fly to Switzerland from withing Europe you are probably going to land in Geneva.
-
-type: By Rail
-
-
-
-[[rate it]](/europe/switzerland/getting_there/geneva_internation)
-
-tel: +41 22 717 71 11
-
-url: [www.gva.ch](http://www.gva.ch)
-
-address: PO Box 100, 1215 Geneva 15
-
-email:
-
-### [EuroAirport](/europe/switzerland/getting_there/euroairport)
-
-The EuroAirport is right at the border of Switzerland, France and
-Germany. The airport lost of its significance since Swiss International
-Airlines made Zurich their only main airport. Nowadays there are more
-and more low-cost carrier flying to Basel.
-
-type: By Air
-
-
-
-tel: +41 61 / 325 31 11
-
-url: [www.euroairport.com](http://www.euroairport.com/)
-
-address: Postfach 142, CH-4030 Basel
-
-##
-
--
-
--
-
--
+There is no meaningful long-distance bus travel into Switzerland worth considering if you have other options, though Flixbus does operate some routes.

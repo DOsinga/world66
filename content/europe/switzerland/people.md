@@ -3,68 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 7 260 357 (July 1998 est.)
+Switzerland has a population of around 8.8 million, making it a medium-small country by European standards but one of the most densely networked. About 85% of the population lives in urban areas, concentrated in the Mittelland plateau between the Alps and the Jura: the corridor from Geneva through Lausanne, Bern, Zurich, and Basel is effectively one long connected region.
 
-**Age structure:**
+The country's four linguistic communities are not just linguistic — they carry genuine cultural differences. German-speaking Swiss (about 63% of the population) tend towards the characteristics often associated with the country: precision, punctuality, a certain reserve, and a high regard for rules and quiet hours. French-speaking Swiss in the west (about 23%) are generally more relaxed about these norms and more likely to share the French taste for argument and good food. Italian-speaking Ticinesi (about 8%) are the most openly Mediterranean. Romansh-speakers in parts of Graubünden make up less than 1% of the population but have official language status and considerable pride in their survival.
 
-*0-14 years:* 17% (male 642 365; female 613 931)
+What unites these groups is the Swiss political system. Switzerland is one of the most directly democratic countries in the world: citizens vote on federal and cantonal referendums several times per year on everything from infrastructure projects to constitutional amendments. This produces a society that is genuinely engaged with civic life, sometimes frustratingly slow to change, and deeply suspicious of concentrated power.
 
-*15-64 years:* 68% (male 2 506 653; female 2 415 647)
+About a quarter of the population are foreign nationals, one of the highest proportions in Europe. Switzerland's prosperity has drawn workers from across Europe and beyond for generations. Large communities of Germans, Italians, Portuguese, and people from the former Yugoslavia live alongside Swiss nationals, though integration can be uneven and the country has periodic political arguments about immigration.
 
-*65 years and over:* 15% (male 436 804; female 644 957) (July 1998 est.)
-
-**Population growth rate:** 0.22% (1998 est.)
-
-**Birth rate:** 10.81 births/1 000 population (1998 est.)
-
-**Death rate:** 9.03 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.42 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.04 male(s)/female
-
-*65 years and over:* 0.68 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 4.92 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 78.88 years
-
-*male:* 75.71 years
-
-*female:* 82.22 years (1998 est.)
-
-**Total fertility rate:** 1.46 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Swiss (singular and plural)
-
-*adjective:* Swiss
-
-**Ethnic groups:** total populationGerman 65% French 18% Italian 10% Romansch 1% other 6%
-
-*note:* Swiss nationalsGerman 74% French 20% Italian 4% Romansch 1% other 1%
-
-**Religions:** Roman Catholic 46.1% Protestant 40% other 5% no religion 8.9% (1990)
-
-**Languages:** German 63.7% French 19.2% Italian 7.6% Romansch 0.6% other 8.9%
-
-*note:* figures for Swiss nationals only: German 74% French 20% Italian 4% Romansch 1% other 1%
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99% (1980 est.)
-
-*male:* NA%
-
-*female:* NA%
+The Swiss are proud of their country in a quiet way. They will rarely boast but they will notice if you confuse a Swiss German person with a German, or mistake Zurich for the capital.

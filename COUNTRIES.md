@@ -101,3 +101,4 @@ These are legacy sections from the original World66 that no longer add value. De
 - **Quality over completeness.** A country with a good overview, solid practical information, and a vivid highlights page is well-served. Don't create stub sections just to fill the list.
 - **Link generously.** Every city, region, or place mentioned should link to its page if one exists.
 - **Be honest.** If a country is difficult, expensive, dangerous, or boring, say so. Travelers trust a guide that tells the truth.
+- **Clean up existing sections too.** When reviewing a country, check all existing sections — not just the ones you're creating. Fix markdown artifacts (`**** **`, `&ldquo;`, `&rsquo;`, `&prime;`), remove SEO-style openers ("**Country X festivals** are a major..."), fix broken links, and tighten the writing. The content may be fine but the formatting often needs work.

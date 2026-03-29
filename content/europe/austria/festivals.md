@@ -1,26 +1,26 @@
 ---
-title: "Festivals in Austria"
+title: "Festivals"
 type: section
 ---
 
-**Austria festivals** and the rich art and cultural heritage of the country are a major attraction for tourists from around the world. The festivals and other events are celebrated and hosted in grand style in all major Austrian cities and countryside towns.
+Austria's rich musical and cultural heritage means there's a festival worth catching in almost every season. The biggest events draw international audiences, but even smaller town festivals have genuine charm.
 
-**Vienna Festival**** **
+**Vienna Festival**
 
-The Vienna festival takes place for 5 weeks during the months of May and June. The festival that originated in 1927 comprises of concerts, drama and opera from a variety of time periods and styles. The festival is a source of great enjoyment for the locals and tourists alike.
+The Vienna Festival takes place for 5 weeks during May and June. Originating in 1927, it comprises concerts, drama and opera from a variety of time periods and styles. The festival is a source of great enjoyment for locals and tourists alike.
 
-**Salzburg Festival**** **
+**Salzburg Festival**
 
-This festival presents the finest of drama, opera and concert in Austria. This fascinating musical event was established in 1920, and is held in the months of July and August each year. The main attraction of the festival is the performance of the &ldquo;Jedermann&rdquo; played in front of the cathedral.
+This festival presents the finest of drama, opera and concert in Austria. Established in 1920, it is held in July and August each year. The main attraction is the performance of "Jedermann" played in front of the cathedral.
 
-**Innsbruck Festival of Early Music**** **
+**Innsbruck Festival of Early Music**
 
-This series of Early Music performance is dedicated to the historical and the Baroque operas. The event has acquired international acclaim over the years. This festival is held annually in the months July and August.
+This series of early music performances is dedicated to historical and Baroque operas. The event has acquired international acclaim over the years and is held annually in July and August.
 
-**Tirol Easter Festival**** **
+**Tirol Easter Festival**
 
-This festival is a fusion of European music and the music from the rest of the world. The Tyrol Easter Festival is held in southern Austria. The festival presents concerts, dance, theater shows, trainings and lectures.
+A fusion of European music and music from the rest of the world. The Tyrol Easter Festival is held in southern Austria and presents concerts, dance, theater shows, workshops and lectures.
 
-**Donauinsel Fest Vienna**** **
+**Donauinsel Fest Vienna**
 
-This is an annual festival of modern music hosted in its current form in Vienna since 1984. There are a series of open air concerts by a variety of international and contemporary bands. The festival is held for 3 days in early summer and offers free entry to all.
+An annual festival of modern music hosted in its current form in [Vienna](/europe/austria/vienna) since 1984. A series of open-air concerts by international and contemporary bands, held for 3 days in early summer with free entry.

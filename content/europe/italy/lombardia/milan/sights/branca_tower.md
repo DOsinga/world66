@@ -7,6 +7,7 @@ phone: "02/3314120"
 type: "Parks, Gardens and Zoos"
 latitude: 45.472981
 longitude: 9.172856
+tags: ["3 Days in Milan"]
 ---
 
 This tower, built in 1933, is 108.6 metres high. Designed by Gio Ponti.

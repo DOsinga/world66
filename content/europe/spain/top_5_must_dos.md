@@ -1,10 +1,14 @@
 ---
-title: "Top 5 Must Do's in Spain"
+title: "Top 5 Must-Dos"
 type: section
 ---
 
-• Visit Barcelona. One of the world’s most vibrant cities, Barcelona, or Barca as it is often fondly known, is the cosmopolitan heart of Catalonia. From the legendary nightlife to the beach, the sophisticated dining scene to the stunning Gaudi architecture that dots the city, Barcelona has an ambience that is truly unique. On a visit here, don’t miss the chance to see the simply stunning Sagrada Familia cathedral and take a stroll up Las Ramblas – the long, wide street at the heart of the city, lined with shops, bars and street artists.
-• Take a boat trip to Islas Medes. This pocket-sized archipelago, off the coast of the sun-drenched Costa Brava, is combines seven tiny islands and its clear waters are home to coral reefs – making it a great spot for scuba diving and snorkelling. The area is a nature reserve and teems with underwater life.
-• Sample sangria and tapas. Picture the scene: Balmy evening, sunset, pavement café, little plates of tasty, nibbley food washed down with deceptively sweet sangria…what could be better? Sangria – the all-too-drinkable concoction made from mixing red wine with fruit juices and or lemonade, is a Spanish speciality, and tapas is a great way to sample several local dishes at once. It’s also a wonderfully sociable way to eat, but you might want to keep your Spanish dictionary on hand if you don’t fancy a plate of sheeps’ intestines!
-• Take a balloon ride over Catalonia. Those with a head for heights can take in the stunning countryside of Catalonia from a birds’ eye view, with a hot air balloon ride. There are several Barcelona-based companies offering group and private balloon rides, taking in the dramatic cityscape as well as the beautful surrounding mountains, sea and countryside.
-• Hit the beaches. Catalonia is blessed with many beautiful stretches of sand – from busy family-friendly beaches to tiny spits of sand accessible only on foot. Catalonia’s Costa Brava coastline is perfect for sunseekers, and those on a city break to Barcelona will even find a decent beach right at the heart of the city, with plenty of more scenic spots just a short train ride away.
+**1. Book the Alhambra before you book your flight.** Granada's Nasrid Palace tickets sell out weeks in advance, especially in spring and summer. The gardens, fountains, and intricate plasterwork of this Moorish palace complex have no equal in Europe. Arrive at opening time if you can; the light in the early morning is extraordinary.
+
+**2. Spend an evening in a pintxos bar in San Sebastián.** Work your way along Calle Fermín Calbetón in the old town, stopping at each bar for one or two pintxos and a glass of txakoli or local wine. You'll eat better than at most expensive restaurants, for a fraction of the cost.
+
+**3. Walk at least a section of the Camino de Santiago.** The full Camino Francés from the Pyrenees takes around 30 days; the final 100km from Sarria (the minimum for the pilgrim certificate) takes around 5 days. The route through Galicia's green hills and granite villages is beautiful, and the arrival at [Santiago de Compostela](/europe/spain/galicia/santiago_de_compostela) cathedral is genuinely moving.
+
+**4. Go to a Semana Santa procession.** Holy Week in Seville — or Málaga, or Zamora — is an experience that has no real equivalent elsewhere. The combination of candlelit floats, incense, brass bands, and the occasional saeta (flamenco lament sung from a balcony) is deeply atmospheric, whatever your relationship with religion.
+
+**5. Get off the tourist track in Andalusia.** [Seville](/europe/spain/andalucia/seville) and [Granada](/europe/spain/andalucia/granada) are worth every visitor they get, but the white towns of the Sierra de Grazalema — [Ronda](/europe/spain/andalucia/ronda), Arcos de la Frontera, Zahara de la Sierra — and the Atlantic coast from [Tarifa](/europe/spain/andalucia/tarifa) to [Cádiz](/europe/spain/andalucia/cadiz) are quieter, cheaper, and full of character.

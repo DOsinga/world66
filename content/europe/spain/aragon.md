@@ -5,11 +5,9 @@ latitude: 41.378729
 longitude: -0.763937
 ---
 
-** Aragon**
+Aragon is one of the northern regions of Spain, crossed by the river Ebro. If you are a fan of hiking or skiing, you can head to the Pyrenees (here at their highest) or the seldom-explored mountains in the south of Aragon. In the Pyrenean valleys you might see sword dances, which are still performed here.
 
-Aragon is one of the nothern regions of Spain and is crossed by the river Ebro. If you are a fan of hiking or skiing, you can go to the Pyrenees (here at their highest) or the seldom explored mountains in the south of Aragon. In the Pyrenean valleys you might see sword dances, which are still performed here.
-
-Visiting Aragon you can't miss the beautiful roman city [Zaragoza](zaragoza), the capital of this region, mudejar's art in [Teruel](teruel) and medieval cities [Albarracin](albarracin) and Sos del Rey Católico.
+Visiting Aragon, don't miss the beautiful Roman city of [Zaragoza](/europe/spain/aragon/zaragoza), the capital of this region, Mudéjar art in [Teruel](/europe/spain/aragon/teruel), and the medieval cities of [Albarracín](/europe/spain/aragon/albarracin) and Sos del Rey Católico.
 
 ## Destinations in Aragon
 

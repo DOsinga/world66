@@ -14,7 +14,3 @@ Since ancient times, the mild climate has been the most outstanding attribute of
 The appeal of the Canary Islands for most visitors, 50% of whom return, is closely linked to the extraordinary climate of the islands, but it also has to do with the more than 1,500 kilometers (930 miles) of coastline, the magnificent beaches, and the numerous sports and water-related recreation available. The subtropical environment has also provided the allure of volcanos, forests and other spectacular scenery, with a variety difficult to imagine in such a small territory. The people, their traditions and cuisine, inherited from a culture blending traditions from Europe, Africa and the Americas, have also played a large part. All of these factors have contributed to the islands’ popularity, in addition to their easy accessibility, only a few hours by plane from the great cities of the Old Continent, and a complete tourist infrastructure, an example of quality for many places around the world.
  
 
-Courtesy of:**TURESPAÑA**
- 
-
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!

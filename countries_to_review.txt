@@ -144,6 +144,7 @@ europe/iceland
 europe/ireland
 europe/isleofman
 europe/italy
+europe/kosovo
 europe/latvia
 europe/liechtenstein
 europe/lithuania

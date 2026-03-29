@@ -3,7 +3,7 @@ title: "Chan Chan"
 type: location
 ---
 
-Located in the North of Peru, close to [Trujillo](/centralamericathecaribbean/honduras/trujillo) , Chan Chan is a major archeological site. Built in 1300 AD and containing about 10,000 dwellings, the city was of major importance under Chimu and later Inca rule. what remains now is a huge area of crumbling walls - it takes quite a bit of imagination to see how great it was before the Spaniards looted the place. 
+Located in the North of Peru, close to [Trujillo](/northamerica/honduras/trujillo) , Chan Chan is a major archeological site. Built in 1300 AD and containing about 10,000 dwellings, the city was of major importance under Chimu and later Inca rule. what remains now is a huge area of crumbling walls - it takes quite a bit of imagination to see how great it was before the Spaniards looted the place. 
 
 
 

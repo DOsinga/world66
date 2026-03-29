@@ -14,7 +14,7 @@ Pistoia,
 Volterra,
 [San Gimignano](/europe/italy/tuscany/sangimignano),
 Montalcino,
-[San Luis Potosi](/centralamericathecaribbean/mexico/sanluispotosi). As long as you travel between these towns, public transport isn't a problem at all. To go off the beaten tracks, it is still best to have your own means of transport.
+[San Luis Potosi](/northamerica/mexico/sanluispotosi). As long as you travel between these towns, public transport isn't a problem at all. To go off the beaten tracks, it is still best to have your own means of transport.
 
 Cab rates
 

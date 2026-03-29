@@ -68,7 +68,7 @@ type: poi
 
 18:07 menchu [Cebu](/asia/philippines/cebu)/[Accommodation](/asia/philippines/cebu/accommodation)/[Orchard Cebu Hotel](/asia/philippines/cebu/accommodation/orchard_cebu_hotel) article change
 
-17:17 menchu [Veracruz](/centralamericathecaribbean/mexico/veracruz)/[Hotels and Accommodations](/centralamericathecaribbean/mexico/veracruz/accommodation)/[Howard Johnson Plaza de las Convenciones](/centralamericathecaribbean/mexico/veracruz/accommodation/howard_johnson_pla) new article
+17:17 menchu [Veracruz](/northamerica/mexico/veracruz)/[Hotels and Accommodations](/northamerica/mexico/veracruz/accommodation)/[Howard Johnson Plaza de las Convenciones](/northamerica/mexico/veracruz/accommodation/howard_johnson_pla) new article
 
 16:36 [Kenya](/africa/kenya)/[accommodation](/africa/kenya/accommodation)/[Oceanfront Villa Annchen](/africa/kenya/accommodation/oceanfront_villa_a)/[Oceanfront Villa Annchen](/africa/kenya/accommodation/oceanfront_villa_a/lib/gallery/showimage?pic=africa/kenya/accommodation/oceanfront_villa_a/oceanfront_villa_a) new image
 

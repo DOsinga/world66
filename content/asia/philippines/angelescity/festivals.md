@@ -11,7 +11,7 @@ In January or February of each year is the Philippine International Hot Air Ball
 
 **March/April**
 
-Venture to nearby [San Fernando](/centralamericathecaribbean/trinidadandtobago/sanfernando) to witness the Lenten Rites Festival that occurs over Easter each year. The week before Easter you'll see young men drawing their own blood in penance, but the main event occurs on Good Friday. You can follow the Passion Play through the streets of San Fernando to the end, when a local volunteer is literally nailed to a cross (the same man has been playing the part of Jesus for years). After the play has ended, others can volunteer to be momentarily crucified to show their desire to be forgiven of sins.
+Venture to nearby [San Fernando](/northamerica/trinidadandtobago/sanfernando) to witness the Lenten Rites Festival that occurs over Easter each year. The week before Easter you'll see young men drawing their own blood in penance, but the main event occurs on Good Friday. You can follow the Passion Play through the streets of San Fernando to the end, when a local volunteer is literally nailed to a cross (the same man has been playing the part of Jesus for years). After the play has ended, others can volunteer to be momentarily crucified to show their desire to be forgiven of sins.
 
 **October**
 

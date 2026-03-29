@@ -31,13 +31,13 @@ type: poi
 [Hengelo ov](/europe/netherlands/hengeloov)
 
 07-Feb-2004 16:02 (anonymous)
-[St. Thomas](/centralamericathecaribbean/virginislands/stthomas)
+[St. Thomas](/northamerica/virginislands/stthomas)
 
 07-Feb-2004 15:57 (anonymous)
 [Nauplia](/europe/greece/nauplia)
 
 07-Feb-2004 15:56 (anonymous)
-[Panama canal](/centralamericathecaribbean/panama/panamacanal)
+[Panama canal](/northamerica/panama/panamacanal)
 
 07-Feb-2004 15:49 (anonymous)
 [Tennessee](/northamerica/unitedstates/tennessee)
@@ -46,7 +46,7 @@ type: poi
 [Washington](/northamerica/unitedstates/washington)
 
 07-Feb-2004 15:44 (anonymous)
-[Saint Lucia](/centralamericathecaribbean/saintlucia)
+[Saint Lucia](/northamerica/saintlucia)
 
 07-Feb-2004 15:38 (anonymous)
 [Massachusetts - Map](/northamerica/unitedstates/massachusetts/map)
@@ -145,7 +145,7 @@ type: poi
 [Seattle - Eating Out](/northamerica/unitedstates/washington/seattle/eatingout)
 
 07-Feb-2004 11:08 (anonymous)
-[Baja California](/centralamericathecaribbean/mexico/bajacalifornia)
+[Baja California](/northamerica/mexico/bajacalifornia)
 
 07-Feb-2004 11:06 (anonymous)
 [Savannah](/northamerica/unitedstates/georgia/savannah)
@@ -160,7 +160,7 @@ type: poi
 [Brighton](/europe/unitedkingdom/england/brighton)
 
 07-Feb-2004 10:23 (anonymous)
-[Mexico](/centralamericathecaribbean/mexico)
+[Mexico](/northamerica/mexico)
 
 07-Feb-2004 10:15 (anonymous)
 [Miskolc](/europe/hungary/miskolc)

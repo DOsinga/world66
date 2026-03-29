@@ -89,13 +89,10 @@ Overview has typos and outdated framing ("Hippies going from London to Australia
 Good overview. Sections complete: getting_around, practical_informat, when_to_go, things_to_do. Health not needed.
 
 ### North America
-Overview is the weakest — brief, not much character. Needs a full rewrite. Sections complete: getting_around, practical_informat, when_to_go, things_to_do.
+Now covers US, Canada, Greenland, Mexico, Central America, and the Caribbean (merged from the former "Central America & the Caribbean" continent). Overview rewritten. Sections complete: getting_around, health, practical_informat, books, people, when_to_go, things_to_do.
 
 ### South America
 Good overview with personality. Sections complete: getting_around, health, practical_informat, books, when_to_go, things_to_do.
-
-### Central America & the Caribbean
-Decent overview but short. Sections complete: getting_around, health, practical_informat, books, when_to_go, things_to_do, people.
 
 ### Australia and Pacific
 Overview is okay but brief. Spurious city-level sections cleaned up. Sections complete: getting_around, health, practical_informat, when_to_go.

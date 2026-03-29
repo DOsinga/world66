@@ -27,6 +27,6 @@ On the Avenida Miramar. If you want to on a trip to another part of the Carribea
 
 **Salingtours to San Blas**
 
-The [San blas islands](/centralamericathecaribbean/panama/sanblasislands) in Panama are great, so if you get the chance to go there on a sailing ship you are in for a great adventure.
+The [San blas islands](/northamerica/panama/sanblasislands) in Panama are great, so if you get the chance to go there on a sailing ship you are in for a great adventure.
 
  Casa Viena (see sleep cheap) offers tours - but I am not sure how often boat [more..](/southamerica/colombia/cartagena/activities/salingtourstosanblas)

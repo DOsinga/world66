@@ -21,7 +21,7 @@ COLECTIVO: Travelers can ask a Chiclayo taxidriver to drop them off at the colec
 In Bagua Grande take a mototaxi (1-2 soles) to the terminal for colectivos to Chachapoyas or ask for drop-off there. The colectivo will take you on an impressive scenic ride there, taking about three hours (25 soles).
 **
 From Ecuador:**
-From [Loja](/southamerica/ecuador/loja) or [Vilcabamba](/southamerica/ecuador/vilcabamba), one can take a bus to Zumba. There a bus-truck will take passengers to the frontier at La Balsa. From La Balsa, there are colectivos to [San Ignacio](/centralamericathecaribbean/belize/sanignacio), a nice stopover (2 hours, 12 soles). Here one can find a minibus to Jaén (3 hours, 10 soles). Then passengers can travel from Jaén as above.
+From [Loja](/southamerica/ecuador/loja) or [Vilcabamba](/southamerica/ecuador/vilcabamba), one can take a bus to Zumba. There a bus-truck will take passengers to the frontier at La Balsa. From La Balsa, there are colectivos to [San Ignacio](/northamerica/belize/sanignacio), a nice stopover (2 hours, 12 soles). Here one can find a minibus to Jaén (3 hours, 10 soles). Then passengers can travel from Jaén as above.
 
 **Contributors**
 February 23, 2007

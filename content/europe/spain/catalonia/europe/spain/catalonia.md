@@ -10,7 +10,7 @@ The biggest single attraction in Catalonia is the city of
 
 Furthermore, the region offers good beaches (
 [Sitges](/europe/spain/catalonia/sitges)) where one can sun and tan as well as great hiking opportunities in the hinterland. Good options to bring a vistit are
-[Montserrat](/centralamericathecaribbean/montserrat),
+[Montserrat](/northamerica/montserrat),
 [Tarragona](/europe/spain/catalonia/tarragona),
 [Figueres](/europe/spain/catalonia/figueres) and the very popular place for the youth
 [Salou](/europe/spain/catalonia/salou).

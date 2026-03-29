@@ -11,7 +11,7 @@ April 24, 2006
 
 ### [Jaén - San Ignacio - Jaén](/southamerica/peru/northern_pacific_t/jan/day_trips/jan__san_ignaci)
 
-For those passing by Jaén on route to or from [Chachapoyas](/southamerica/peru/chachapoyas), it's feasible to visit [San ignacio](/centralamericathecaribbean/belize/sanignacio) in one day, than come back. If you’re on route to or from Vilcabamba, [Ecuador](/southamerica/ecuador), you’ll have to run less.
+For those passing by Jaén on route to or from [Chachapoyas](/southamerica/peru/chachapoyas), it's feasible to visit [San ignacio](/northamerica/belize/sanignacio) in one day, than come back. If you’re on route to or from Vilcabamba, [Ecuador](/southamerica/ecuador), you’ll have to run less.
 
 In the early morning, say 8 o’clock, take a mototaxi to the “Paradero por San Ignacio”. Minibuses leave here all day long. The ride costs 12 soles takes about two hours, following the Chinchipe valley, then [more..](/southamerica/peru/northern_pacific_t/jan/day_trips/jan__san_ignaci)
 

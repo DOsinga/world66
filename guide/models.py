@@ -194,7 +194,7 @@ def load_continents():
     continents = []
     CONTINENT_SLUGS = {
         "africa", "antarctica", "asia", "australiaandpacific",
-        "centralamericathecaribbean", "europe", "northamerica", "southamerica",
+        "europe", "northamerica", "southamerica",
     }
     for entry in sorted(CONTENT_DIR.iterdir()):
         if entry.is_dir() and entry.name in CONTINENT_SLUGS:

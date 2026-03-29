@@ -19,7 +19,7 @@ Most of the year is taken up by the rainy season, which lasts from June through 
 
 **Events**
 
-If you'd like to experience a bit of culture on your trip to Angeles City, your "when to go" list should try to encompass a local festival. The 2 biggest occur in nearby [San Fernando](/centralamericathecaribbean/trinidadandtobago/sanfernando). Every Easter there are demonstrations of penance culminating in a Passion Play that includes volunteers being nailed to crosses. December heralds the lantern festival, with parades that showcase the works of locals who are responsible for the biggest lanterns in the world. Both events are sights to behold, and are definitely worth a visit. They even conveniently fall during the dry period!
+If you'd like to experience a bit of culture on your trip to Angeles City, your "when to go" list should try to encompass a local festival. The 2 biggest occur in nearby [San Fernando](/northamerica/trinidadandtobago/sanfernando). Every Easter there are demonstrations of penance culminating in a Passion Play that includes volunteers being nailed to crosses. December heralds the lantern festival, with parades that showcase the works of locals who are responsible for the biggest lanterns in the world. Both events are sights to behold, and are definitely worth a visit. They even conveniently fall during the dry period!
 
 **Contributors**
 March 15, 2010

@@ -3,7 +3,7 @@ title: "Yuma"
 type: location
 ---
 
-Yuma is located in the Southwest of Arizona, close to the border with [California](/northamerica/unitedstates/california) in the West and [Mexico](/centralamericathecaribbean/mexico) in the South. It's a city with a lot of history. 
+Yuma is located in the Southwest of Arizona, close to the border with [California](/northamerica/unitedstates/california) in the West and [Mexico](/northamerica/mexico) in the South. It's a city with a lot of history. 
 
  The region was first visited by a European in 1540, when Hernando de Alarcon visited the site of what is now the current City of Yuma. He immediately saw that the natural crossing of the Colorado River was an ideal spot for a city. Much of Yuma County's later development occurred because of this strategic location.
 

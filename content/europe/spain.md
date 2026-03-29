@@ -9,7 +9,7 @@ The Moorish influence (the Moors from Morocco were the dominating civilization f
 
 Remarkable Christian monuments, from Romanesque to contemporary, can be found throughout Spain. A possible tour to the most fantastic cathedrals will take you through [Toledo](/northamerica/unitedstates/ohio/toledo), León, [Salamanca](/europe/spain/centralspain/salamanca), [Burgos](/europe/spain/northernspain/burgos) and [Segovia](/europe/spain/centralspain/segovia). The pilgrim route to Santiago is lined by gorgeous Romanesque churches.
 
-Excellent and quiet beaches can be found near Cádiz and Almería in the south as well as near the coasts of Galicia, Asturias, Cantabria and Euskadi. If you enjoy extremely developed resort towns, there are plenty of crowded beaches on the Costa de la Luz and the [Costa del sol](/centralamericathecaribbean/elsalvador/costadelsol).
+Excellent and quiet beaches can be found near Cádiz and Almería in the south as well as near the coasts of Galicia, Asturias, Cantabria and Euskadi. If you enjoy extremely developed resort towns, there are plenty of crowded beaches on the Costa de la Luz and the [Costa del sol](/northamerica/elsalvador/costadelsol).
 
 Fantastically preserved medieval towns are places not to miss and Toledo should be at the top of the list. [Toledo](/northamerica/unitedstates/ohio/toledo) is the capital of medieval Spain, at its best, with synagogues, an incredible cathedral and former mosques. Other interesting medieval towns include: Baeza and Úbeda (Andalucía), Ciudad Rodrigo (Salamanca), Trujillo and Cáceres (Extremadura), Albarracín, Sos del Rey Católico and [Teruel](/europe/spain/aragon/teruel) Mudejar's Unesco's World Heritage ([Aragon](/europe/spain/aragon)), and Santillana del Mar (Cantabria).
 

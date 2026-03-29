@@ -70,7 +70,7 @@ type: poi
 
 08:54 [Burundi](/africa/burundi)/[Practical Information](/africa/burundi/practical_informat)/[Burundi Travel](/africa/burundi/practical_informat/burundi_travel) new article
 
-06:22 [Puerto Rico](/centralamericathecaribbean/puertorico)/[accommodation](/centralamericathecaribbean/puertorico/accommodation)/[Fajardo Inn](/centralamericathecaribbean/puertorico/accommodation/fajardo_inn) new article
+06:22 [Puerto Rico](/northamerica/puertorico)/[accommodation](/northamerica/puertorico/accommodation)/[Fajardo Inn](/northamerica/puertorico/accommodation/fajardo_inn) new article
 
 05:57 [California](/northamerica/unitedstates/california)/[accommodation](/northamerica/unitedstates/california/accommodation)/[Hills Hotel](/northamerica/unitedstates/california/accommodation/hills_hotel) new article
 

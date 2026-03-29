@@ -1,16 +1,0 @@
----
-title: "Sights"
-type: section
----
-
-It is hardly believable that a country so small in territory can harbor such a wide variety of attractions of interest to tourists. There are the Mayan archaeological sites, so vast and fascinating as to make it possible to organize study trips that concentrate on this area alone.
-
- The Colonial architecture, some of it in ruins and much of it still intact, is another plus that makes Guatemala an ideal tourist destination. The beautiful lakes, the towering volcanoes, the rugged mountains and gorges, the changing scenery, the beautiful clusters of villages, plus the exotic varieties of plants, flowers and birds all make Guatemala a very exceptional place where virtually everyone will find plenty to see and do in his or her particular line of interest. 
-
- Guatemala was the cradle of the Mayan civilization. Although there are many Mayan temples in [Yucatan](/centralamericathecaribbean/mexico/yucatan) in Mexico, the best remains are to be found in [Tikal](/centralamericathecaribbean/guatemala/tikal) in the northern jungle of Guatemala, near [Flores](/centralamericathecaribbean/guatemala/flores). What impresses most visitors to Guatemala is the fact that the people are really easy going and friendly to travelers. The capital of [Guatemala city](/centralamericathecaribbean/guatemala/guatemalacity) is an ideal starting place to explore the country. From it you can reach most of the Indian highland villages with their colourful markets as well as [Tikal](/centralamericathecaribbean/guatemala/tikal) in the nort within a day. Antigua_Guatemala is very close to Guatemala City and has some of Central-America's best colonial architecture.
-
-It is hardly believable that a country so small in territory can harbor such a wide variety of attractions of interest to tourists. There are the Mayan archaeological sites, so vast and fascinating as to make it possible to organize study trips that concentrate on this area alone.
-
- The Colonial architecture, some of it in ruins and much of it still intact, is another plus that makes Guatemala an ideal tourist destination. The beautiful lakes, the towering volcanoes, the rugged mountains and gorges, the changing scenery, the beautiful clusters of villages, plus the exotic varieties of plants, flowers and birds all make Guatemala a very exceptional place where virtually everyone will find plenty to see and do in his or her particular line of interest. 
-
- Guatemala was the cradle of the Mayan civilization. Although there are many Mayan temples in [Yucatan](/centralamericathecaribbean/mexico/yucatan) in Mexico, the best remains are to be found in [Tikal](/centralamericathecaribbean/guatemala/tikal) in the northern jungle of Guatemala, near [Flores](/centralamericathecaribbean/guatemala/flores). What impresses most visitors to Guatemala is the fact that the people are really easy going and friendly to travelers. The capital of [Guatemala city](/centralamericathecaribbean/guatemala/guatemalacity) is an ideal starting place to explore the country. From it you can reach most of the Indian highland villages with their colourful markets as well as [Tikal](/centralamericathecaribbean/guatemala/tikal) in the nort within a day. Antigua_Guatemala is very close to Guatemala City and has some of Central-America's best colonial architecture.

@@ -3,22 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-Air
+Most travelers arrive by air through [Ouagadougou](/africa/burkinafaso/ouagadougou)'s Thomas Sankara International Airport (OUA), the country's only significant international gateway. Direct flights connect to Paris (Air France), Brussels (Brussels Airlines), Istanbul (Turkish Airlines), Abidjan, Dakar, and other West African capitals. There are no direct flights from the UK or North America — you will connect through Paris, Istanbul, or a West African hub like Accra or Abidjan.
 
-Burkina Faso's national airline is *Air Burkina (VH). *Burkina Faso has a minority shareholding in* Air Afrique. *Other airlines serving Burkina Faso include *Aeroflot Air Alg&eacute;rie Air France Air Ivoire Ethiopian Airlines *and *Sabena*. There are regular flights between Paris and Belgium to Ouagadougou.
+[Bobo-Dioulasso](/africa/burkinafaso/bobodioulasso) has an airport (BOY) but handles mainly domestic and limited regional flights. It is not a practical entry point for most international travelers.
 
-Approximate flight times
+**Overland from Ghana** is the most popular land route. Regular buses run from Accra and Kumasi to Ouagadougou via the Po border crossing. The road is paved and in reasonable shape. The journey from Accra takes around 18-20 hours.
 
-There are no direct flights from Britain or the USA. To Ouagadougou from *London* (via Paris) is 8 hours 15 minutes; from *New York* (via Paris) is 12 hours 20 minutes.
+**From Ivory Coast,** buses run from Abidjan to Ouagadougou and to Bobo-Dioulasso. The Abidjan-Ouagadougou route is long (roughly 24 hours by bus) but well-served by multiple companies. The old railway line between Abidjan and Ouagadougou, once a classic West African journey, has been intermittent — check locally whether services are running.
 
-International airports:
+**From Mali,** buses connect Bamako to Bobo-Dioulasso and Ouagadougou, though security along the Malian border has been a serious concern in recent years. Check current conditions carefully before attempting this crossing.
 
-*Ouagadougou (OUA)* is 8km (5 miles) from the city. Taxi service is available to the city. Airport facilities include restaurants and car hire. *Borgo* 16km (10 miles) from Bobo Dioulasso handles mainly domestic flights (see *Travel  Internal*).
+**From Niger,** buses link Niamey to Ouagadougou. The road is paved and the journey takes roughly 10-12 hours.
 
-Rail
+**From Togo and Benin,** connections are less frequent but available, usually routing through Lome or Cotonou to Ouagadougou.
 
-The only route is the international line from Côte d'Ivoire running through to Ouagadougou. Four trains a day run from Ouagadougou to Bobo Dioulasso of which two are through services to Abidjan in Côte d'Ivoire. Other trains from Bobo cross the border to serve Côte d'Ivoire destinations. Abidjan trains have sleeping and dining cars. Work is underway to extend the line from Ouagadougou to Tambao on the Mali border but this project may have to be cancelled to meet foreign debt requirements. The existing line is also under threat of closure.
-
-Road
-
-Routes are from Ghana Mali Côte d'Ivoire Togo Benin and Niger although these are often barely adequate. Regular bus services run during the dry season from Bobo to Bamako in Mali and from Ouagadougou to Niamey in Niger. The road from Ghana is being improved.
+**Visas** are required for most nationalities. Citizens of ECOWAS countries can enter freely. An e-visa system is available for many other nationalities through visaburkina.bf. Apply before traveling — visa on arrival is possible but more expensive and not guaranteed to go smoothly.

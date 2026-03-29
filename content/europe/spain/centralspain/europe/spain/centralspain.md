@@ -20,7 +20,7 @@ The main attractions here are
 [Talavera de la Reina](/europe/spain/centralspain/talaveradelareina) where you can visit ones of their famous potteries industries and some interesant monuments.
 
 The Land of the Conquistadores is located along the Portuguese border. The vast majority of Spain’s New World conquerors and explorers came out of this once-harsh region to win an empire for Spain. Today Extremadura is rarely visited by tourists yet it has several towns of interest, among them
-[Merida](/northamerica/mexico/merida)
+[Merida](/centralamericathecaribbean/mexico/merida)
 [Caceres](/europe/spain/caceres) (a picture-perfect Gothic town that retains much of its medieval character) and Badajoz (a quiet little town with nice architecture).
 
 Other towns of historical significance include

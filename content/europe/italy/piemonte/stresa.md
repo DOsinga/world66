@@ -12,7 +12,7 @@ Stresa is a popular holiday resort in the province of Novara, situated on the we
 
   However, the wonderful sightseeing over the lake makes Stresa's position a very valuable one: from here you can see a part of
 [Lombardia](/europe/italy/lombardia) with
-[cerro de la silla](/northamerica/mexico/monterrey/cerro_de_la_silla),
+[cerro de la silla](/centralamericathecaribbean/mexico/monterrey/cerro_de_la_silla),
 Laveno and the Rock of Calde', as well as the bank of
 [Piemonte](/europe/italy/piemonte) with the Peak of
 Castagnola,

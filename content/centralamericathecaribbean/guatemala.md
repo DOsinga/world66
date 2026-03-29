@@ -21,7 +21,7 @@ Guatemala is a compact country in Central America. Located to the south of [Mexi
 
  With courtesy of the Guatemala Tourist  Commission
 
-Guatemala is a compact country in Central America. Located to the south of [Mexico](/northamerica/mexico), the big neighbour in the north, you find [Belize](/centralamericathecaribbean/belize) in the east and in the south [Honduras](/centralamericathecaribbean/honduras) and [El Salvador](/centralamericathecaribbean/elsalvador).
+Guatemala is a compact country in Central America. Located to the south of [Mexico](/centralamericathecaribbean/mexico), the big neighbour in the north, you find [Belize](/centralamericathecaribbean/belize) in the east and in the south [Honduras](/centralamericathecaribbean/honduras) and [El Salvador](/centralamericathecaribbean/elsalvador).
 
  Guatemala has a surface area of 108.889 square kilometers (42,042 square miles). It is located in the tropical zone, and has a range of climates that varies according to the altitude. There are two seasons: the rainy months run from May to October, and the dry ones from November to April. The average temperature is 75° F, with small variations in the lowlands and in the highlands.
 

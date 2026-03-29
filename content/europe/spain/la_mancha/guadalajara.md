@@ -3,6 +3,6 @@ title: "Guadalajara"
 type: location
 ---
 
-[Guadalajara](/northamerica/mexico/guadalajara)
+[Guadalajara](/centralamericathecaribbean/mexico/guadalajara)
 
 Sigüenza

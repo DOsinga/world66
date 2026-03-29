@@ -3,98 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Albert Camus set much of his work in Algeria, where he grew up. **The Stranger** is the obvious starting point -- a short, disorienting novel set in and around [Algiers](/africa/algeria/algiers) that captures the blinding Mediterranean light and the moral emptiness of colonial society. **The First Man**, published posthumously, is more personal and more tender, drawing on his childhood in working-class Algiers.
 
-**In the Shadow of Islam**
+**The Writings of Isabelle Eberhardt** offer a window into colonial Algeria through the eyes of a Swiss-Russian woman who converted to Islam, dressed as a man, and traveled the Saharan south in the early 1900s. Her prose is vivid and strange. **In the Shadow of Islam** collects some of her best Algerian pieces.
 
+For the war of independence, Alistair Horne's **A Savage War of Peace** remains the definitive English-language account. It is long and detailed but essential reading if you want to understand modern Algeria. The war shaped everything -- politics, architecture, the relationship with France, the national psyche.
 
+**The Algiers Motel Incident** by John Hersey is not about Algeria at all, but Assia Djebar's **Fantasia: An Algerian Cavalcade** is -- a fragmented, poetic novel that weaves women's oral histories with the French invasion and the independence struggle. Kamel Daoud's **The Meursault Investigation** reimagines the Camus novel from the perspective of the murdered Arab's brother, and reads as both a literary response and a meditation on postcolonial Algeria.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0720608953/ref=ase_osingacom?v=glance&s=books)
-
-author: Isabelle Eberhardt,Sharon Bangert (Translator..
-
-isbn: 0720608953
-
-subject: travel
-
-**Under Two Flags:A Story of the Household and the Desert**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0192823280/ref=ase_osingacom?v=glance&s=books)
-
-author: Ouida,John Sutherland (Introduction)
-
-isbn: 0192823280
-
-subject: travel
-
-**Inside Algeria**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0893818402/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Von Von Graffenried
-
-isbn: 0893818402
-
-subject: travel
-
-**Men and Popular Music in Algeria:The Social Significance of Rai**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/029277740X/ref=ase_osingacom?v=glance&s=books)
-
-author: Marc Schade-Poulsen
-
-isbn: 029277740X
-
-subject: culture
-
-**mental women**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0913745448/ref=ase_osingacom?v=glance&s=books)
-
-author: Francoise Kourilsky,Stephen J. Vogel (Transla..
-
-isbn: 0913745448
-
-subject: culture
-
-**The Magician's Wife**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0452279593/ref=ase_osingacom?v=glance&s=books)
-
-author: Brian Moore
-
-isbn: 0452279593
-
-subject: history
-
-**St. Augustine in 90 Minutes**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566631505/ref=ase_osingacom?v=glance&s=books)
-
-author: Paul Strathern
-
-isbn: 1566631505
-
-subject: history
-
-**Augustine and the Arians:The Bishop of Hippo's Encounters with Ulfilan Arianism**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0945636466/ref=ase_osingacom?v=glance&s=books)
-
-author: William A. Sumruld
-
-isbn: 0945636466
-
-subject: history
+Brian Moore's **The Magician's Wife** is a fine historical novel set during the French conquest, following a woman brought to Algeria to help persuade a Saharan marabout to support the French cause. It captures the collision of cultures with intelligence and restraint.

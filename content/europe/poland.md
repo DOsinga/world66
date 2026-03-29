@@ -5,11 +5,10 @@ latitude: 52.215933
 longitude: 19.134422
 ---
 
-Welcome to Poland. Poland is the home of: Nicolaus COPERNICUS, Fryderyk CHOPIN, Lech WALESA and Pope John Paul II. My country, located in the plains between [Germany](/europe/germany) and [Russia](/europe/russia) (today Belarus, Ukraine and Lithuania as well), bordered in the south by [Slovakia](/europe/slovakia) and the [Czech republic](/europe/czechrepublic) has suffered severely from the ravages of war. But each time it has been rebuilt by its inhabitants. Poland has really opened up after the fall of the Berlin wall and is becoming a very attractive destination for travelers. It has many historic towns and cities that testify of the long history of the Polish state, great natural beauty and a unique coast. The two primary destinations are the present capital [Warsaw](/europe/poland/warsaw), which like a phoenix rose from the ashes of total destruction in World War II, and the ancient capital [Krakow](/europe/poland/krakow), untouched by war, which is an exquisite treasure of Gothic and Renaissance architecture.
+Poland is one of Europe's most underrated travel destinations — a large country with a rich, often painful history, remarkable cities, and landscapes that range from Baltic beaches to Tatra mountain peaks. It has been rebuilt, reinvented, and reopened to the world over the past few decades, and it rewards travelers who go beyond the obvious.
 
+The two unmissable cities are [Warsaw](/europe/poland/warsaw) and [Krakow](/europe/poland/krakow). Warsaw, utterly destroyed in World War II, was painstakingly reconstructed and is now a dynamic European capital. Krakow escaped wartime destruction and remains one of Central Europe's great medieval cities, with a stunning Old Town square, a hilltop castle, and the former Jewish quarter of Kazimierz. Both cities are worth at least two or three days each.
 
- 
- Poland is too large to be properly appreciated in one visit. There is too much to see. Discover central Poland, with its many wild national parks easily reached from Warsaw, or the north and the Baltic coast with the ancient port of [Gdansk](/europe/poland/gdansk). In the western part you will find Wielkopolska, the cradle of the nation, and in the south Malopolska and the Tatry mountains easily reached from [Krakow](/europe/poland/krakow). In the southwest Silesia with its many old castles and mounains is worth a visit.
- 
+Beyond the cities, Poland offers an enormous amount. [Gdansk](/europe/poland/gdansk) on the Baltic coast has one of the most beautiful waterfronts in Northern Europe and the history of Solidarity. The Tatra Mountains around [Zakopane](/europe/poland/zakopane) offer serious hiking and skiing. The Wieliczka Salt Mine near Krakow is genuinely astonishing. Auschwitz-Birkenau at [Oswiecim](/europe/poland/oswiecim) is a necessary, sobering visit.
 
-See a map of Poland from maps.com.
+Poland is also excellent value. Prices for food, transport, and accommodation are significantly lower than in Western Europe, even in the major cities.

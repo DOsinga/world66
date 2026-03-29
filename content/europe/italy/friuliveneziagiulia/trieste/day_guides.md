@@ -1,5 +1,5 @@
 ---
-title: "Day Guides"
+title: "Curated Itineraries"
 type: section
 ---
 

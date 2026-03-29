@@ -3,16 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Cape Verde has four international airports: Amilcar Cabral International Airport on [Sal](/africa/capeverde/sal), Nelson Mandela International Airport in [Praia](/africa/capeverde/saotiago/praia) on Santiago, Aristides Pereira Airport on [Boa Vista](/africa/capeverde/boavista), and Cesaria Evora Airport in [Mindelo](/africa/capeverde/mindelo) on Sao Vicente. Sal handles the most international traffic.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+**From Europe,** Cape Verde is well connected. Cabo Verde Airlines, the national carrier, flies from Lisbon and Paris. TAP Portugal connects through Lisbon. EasyJet flies from Lisbon, Porto, and London Gatwick to Sal. TUI, British Airways, and various charter operators run seasonal flights from the UK, Germany, the Netherlands, and Scandinavia, mostly to Sal and Boa Vista. Flight time from Lisbon is about three and a half hours.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**From the US,** direct options are limited. Cabo Verde Airlines has announced service to Providence, Rhode Island -- home to a large Cape Verdean diaspora -- but schedules have been inconsistent. Most US travelers connect through Lisbon or another European hub.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+**From West Africa,** Cabo Verde Airlines and ASKY Airlines connect Praia to Dakar, Senegal and other regional capitals. Dakar is the closest mainland city, about an hour's flight away.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
-
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+Which airport you fly into matters. If you are heading to the beach islands ([Sal](/africa/capeverde/sal) or [Boa Vista](/africa/capeverde/boavista)), fly into Sal or Boa Vista directly. If you want to explore Santiago, [Fogo](/africa/capeverde/fogo), or [Brava](/africa/capeverde/brava), fly into Praia. For [Santo Antao](/africa/capeverde/santo_antao) or [Mindelo](/africa/capeverde/mindelo), fly into Sao Vicente -- or into Sal and take a short domestic flight or ferry across. Plan your entry point around where you actually want to go, because inter-island connections are not always convenient.

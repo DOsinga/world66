@@ -1,10 +1,12 @@
 ---
-title: "São Filipe"
+title: "Sao Filipe"
 type: location
+latitude: 14.896
+longitude: -24.498
 ---
 
-Travel Guide
+Sao Filipe is the main town on [Fogo](/africa/capeverde/fogo), founded in the sixteenth century and still the starting point for any visit to the island. The central streets have kept their colonial character, lined with *sobrados* -- two-story stone houses built by Portuguese landowners, some with wrought-iron balconies and faded pastel facades. Several are protected buildings, and the old quarter has a quiet, time-worn beauty.
 
-(This entry should be under the island [Fogo](/africa/capeverde/fogo), but it is not technically possible.)
-São Filipe is the main town on Fogo, founded already in the 16th century. The central parts of the town have maintained the colonial character with many old buildings, particularly so called sobrados, two-story buildings erected by the white landowners. Some of the buildings are under governmental protection.
-São Filipe is a rather sleepy town, but it is growing rapidly in its periphery. It is the starting point for any visit to Fogo. The airport is just outside town.
+The town overlooks the sea from a bluff, and the views across to [Brava](/africa/capeverde/brava) on a clear day are striking. Sao Filipe is not a lively place -- it moves at its own pace -- but it has enough restaurants and guesthouses to serve as a comfortable base. The market is worth a morning visit for fresh fruit, fish, and local coffee from the volcanic slopes above town.
+
+The airport is just outside Sao Filipe, and shared transport to Cha das Caldeiras and the volcano departs from the main square.

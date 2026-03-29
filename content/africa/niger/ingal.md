@@ -5,4 +5,4 @@ latitude: 18.930443
 longitude: 9.273689
 ---
 
-Ingal is not far from [Agadez](/africa/niger/agadez) and mainly famous for the Cure Salee event, that takes place in Spetember. When you are here any other time of the year it is just a beautiful oasis, where you can meet Tuaregs, and enjoy slow paced life (at least when there is no civil strife).
+Ingal is a small oasis town not far from [Agadez](/africa/niger/agadez), best known as the site of the Cure Salée festival held each September. When the nomads converge here at the end of the rainy season, the normally quiet town becomes the setting for one of the most extraordinary cultural gatherings in Africa — camel races, the Gerewol courtship ceremony of the Wodaabe, and days of celebration among Tuareg and Fulani groups. Any other time of year, Ingal is a peaceful oasis where you can meet Tuareg and experience genuinely unhurried Saharan life.

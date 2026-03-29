@@ -3,64 +3,16 @@ title: "People"
 type: section
 ---
 
-**Population:** 9 671 848 (July 1998 est.)
+Niger is one of the most ethnically diverse countries in West Africa, and its people are one of the best reasons to go. The country has a population of roughly 27 million (2024 estimate), with one of the world's highest birth rates — a demographic that makes Niger simultaneously young, dynamic, and facing enormous pressure on resources.
 
-**Age structure:**
+## Ethnic Groups
 
-*0-14 years:* 48% (male 2 374 482; female 2 277 176)
+The Hausa are the largest group, making up around 54% of the population. They're predominantly settled farmers in the south, and their trading culture has shaped Niger's market towns — [Zinder](/africa/niger/zinder) and [Maradi](/africa/niger/maradi) in particular carry a distinctly Hausa character. The Hausa extend across the border into Nigeria, and this shared identity makes the Zinder–Kano corridor one of the most culturally coherent zones in West Africa.
 
-*15-64 years:* 50% (male 2 345 773; female 2 447 951)
+The Djerma-Songhai (about 22%) are the dominant group in the west, around [Niamey](/africa/niger/niamey). The Tuareg (around 10%) are the iconic desert nomads of the north — seminomadic, proud, and fiercely attached to their Saharan world. Seeing the Tuareg in [Agadez](/africa/niger/agadez) or in the [Air Mountains](/africa/niger/airmountains) is a formative experience for any traveler. The Fulani (Peul) are pastoralists found across the country, most visible during the dry season migrations south. The Toubou, found in the extreme east around [Nguigmi](/africa/niger/nguigmi), are among the most remote and least-visited people in all of Africa.
 
-*65 years and over:* 2% (male 119 644; female 106 822) (July 1998 est.)
+## Religion and Society
 
-**Population growth rate:** 2.96% (1998 est.)
+Nearly the entire population is Muslim, though practice varies considerably — Hausa Islam in the south has long coexisted with pre-Islamic traditions, while Islam in the Tuareg north has a distinct character shaped by nomadic life. Religious observance is visible but not generally aggressive toward foreigners.
 
-**Birth rate:** 53.01 births/1 000 population (1998 est.)
-
-**Death rate:** 23.38 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.95 male(s)/female
-
-*65 years and over:* 1.12 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 114.39 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 41.52 years
-
-*male:* 41.83 years
-
-*female:* 41.21 years (1998 est.)
-
-**Total fertility rate:** 7.3 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Nigerien(s)
-
-*adjective:* Nigerien
-
-**Ethnic groups:** Hausa 56% Djerma 22% Fula 8.5% Tuareg 8% Beri Beri (Kanouri) 4.3% Arab Toubou and Gourmantche 1.2% about 1 200 French expatriates
-
-**Religions:** Muslim 80% remainder indigenous beliefs and Christians
-
-**Languages:** French (official) Hausa Djerma
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 13.6%
-
-*male:* 20.9%
-
-*female:* 6.6% (1995 est.)
+Nigerien hospitality is genuine. Travelers who take the time to learn a few words of Hausa or Djerma, or who spend time in local markets rather than rushing through, will find the country extraordinarily welcoming despite its hardships.

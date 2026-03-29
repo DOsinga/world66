@@ -5,27 +5,8 @@ latitude: 16.900055
 longitude: 7.967952
 ---
 
-To cross the biggest desert of them all is dream many people have. Going through Niger is an option. Here I will try to gather recent reports of travelers who've done it.
+Crossing the Sahara through Niger is one of the classic overland adventures — or was, until security deteriorated across the region. As of the mid-2020s, both trans-Saharan routes from Niger are effectively closed to independent travelers and extremely dangerous for any traveler.
 
+There are two historic routes. The Algeria route passes via [Arlit](/africa/niger/arlit) to the border crossing at Assamaka, then continues north to Tamanrasset. This route has been largely impassable for years due to armed groups operating along it. The Libya route via [Bilma](/africa/niger/bilma) and the Kawar region continues north toward Sebha — a crossing that was already remote and difficult in better times.
 
- Basically there are two routes. One to Algeria and one to Libya, I will try to deal with both of them seperately.
-
-**Points of Interest**
-
-**Algeria**
-
-The route to Algeria passes via [Arlit](/africa/niger/arlit). This is the last major stop before the border.
-
-
- Recent reports about this route are to be found on the following web pages:
-
-
- Sahara Overland. 
- 
-
-
- Other options include hoing to [more..](/africa/niger/transsahara/algeria)
-
-**Libya**
-
-There seem to be people who have made this trip in 1999. I've read two reports both by Belgian, who came from Libya and got thier Nigerien visa in [Sebha](/africa/libya/sebha). They spend the night in the old Italian fort in al Qatrun, 200 km north of the border. For [more..](/africa/niger/transsahara/libya)
+If you're researching these routes, seek out recent reports from overland travel forums. Conditions change and what was feasible a few years ago may be impossible today, and vice versa. Do not attempt either route without current, reliable intelligence, a properly equipped convoy, and local guides who know the specific security situation.

@@ -1,9 +1,7 @@
 ---
 title: "Hotel Tamesna"
-type: location
-type: "general"
+type: poi
+phone: "45 23 30"
 ---
 
-Just off the main street, quite a good option. Sleep on the roof for about 2000 CFA, or take a room fior about 4 times that. Tel. 45 23 30. The terrace is great and they serve cold drinks there.
-
-type: general
+Just off the main street, a reasonable option in an otherwise thin market. You can sleep on the roof for around 2,000 CFA or take a room for considerably more. The rooftop terrace is pleasant and serves cold drinks.

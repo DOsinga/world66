@@ -3,20 +3,8 @@ title: "Sights"
 type: section
 ---
 
-**all**
+Zinder's historic core is its greatest attraction. The city divides into the modern commercial centre and the old quarters to the southeast, where some of the finest Hausa architecture in West Africa survives largely intact.
 
-**Sultan's Palace**
+The Birnin quarter contains elaborate Hausa façades — ornately decorated mud-brick houses with geometric patterns and carved plaster — that rival anything in Kano across the border. There's also a French Foreign Legion fort and some quiet gardens. The Grande Mosquée at the edge of the Birnin quarter probably dates from the 19th century and is a good starting point. The Zengou quarter lacks the architectural grandeur but has more street life — markets, workshops, children, noise.
 
-The Sultan's Palace dates from the 19-th century and is still very much in use. People from town and neighbouring villages come here to ask (legally binding) advice on marrigae, inheritance etc. If you are in need for advice yourself, it is possible to arrange an appointment with the Sultan throu [more..](/africa/niger/zinder/sights/sultanspalace)
-
-**Grande Mosquee**
-
-The Grande Mosquee is a good starting point to explore the Birnin quarter. The building probably dates from the 19-th century. 
-
-**Birnin Quarter**
-
-The Birnin quarter is southeast of the modern city. It has some of the finest examples of traditional Hausa architecture, some even better than you'll find in Kano (Nigeria). There is also an old French Foreign Legion fort, and there are some quiet and peaceful gardens you can visit. 
-
-**Zengou Quarter**
-
-The Zengou Quarter does not have the architectural beauties of the Birnin, but it makes up for that in liveliness. There are a lot of things going down here between the simple mudbrick houses.
+The Sultan's Palace is still very much in use as an institution. People come from surrounding villages to seek binding rulings on inheritance and marriage disputes. Visitors can sometimes arrange an audience through a local guide; the Sultan's guards will expect a tip.

@@ -3,26 +3,26 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-The national airline is *Surinam Airways (PY). KLM ALM Antillean Airlines *and* Air France *also fly to Surinam.
+Johan Adolf Pengel International Airport (IATA: PBM), locally known as Zanderij, is the main international gateway, located 45 km south of Paramaribo. The drive into the city takes around 45 minutes to an hour depending on traffic.
 
-Approximate flight time
+KLM operates direct flights from Amsterdam (about 9–10 hours). Surinam Airways also flies to Amsterdam as well as Miami, Georgetown (Guyana), Cayenne (French Guiana), Belém (Brazil), and Panama City. TUI fly Netherlands operates seasonal charter flights from the Netherlands.
 
-From Paramaribo to *London *is 10 hours excluding stopover time in Amsterdam or Miami which may involve an overnight stay due to a lack of connecting flights.
+From the United States, the most practical route is via Miami on Surinam Airways, or via Amsterdam on KLM. From elsewhere in South America, connections through Belém, Bogotá, or Panama are common.
 
-International airport
+A departure tax is included in most ticket prices but worth confirming when booking.
 
-*Johan Adolf Pengel (PBM)* (Paramaribo) is 45km (28 miles) south of the city. A coach meets all arrivals. There are also buses or taxis to the city (travel time  45 minutes). Facilities include duty-free shop bank bar/restaurant and post office.
+## Entry Requirements
 
-Departure tax:
+Most nationalities from Europe and North America, including the Netherlands, United States, Canada, and the United Kingdom, no longer require a visa for stays up to 90 days. You will need a valid passport with at least six months' validity and proof of onward travel. A mandatory entry fee must be paid online before departure — check the official Suriname government immigration portal for the current amount and process.
 
-US$10. Children under 2 are exempt.
+If you are arriving from a country with yellow fever risk, proof of yellow fever vaccination is required. This is strictly enforced.
 
-Sea
+## By Road
 
-The main international port is Paramaribo. *Surinam Shipping Line *sails from New Orleans and Mexico monthly. There are coastal services between ports and services to The Netherlands and Germany. The* Royal Netherlands Steamship Company* provides a service from Amsterdam to Surinam with limited passenger accommodation. There are regular ferry services across the Surinam River and Marowijne River to French Guiana and across the Corantijn River to Guyana.
+The coastal road connects Paramaribo with the Guyanese border at Springlands/Nickerie to the west (crossing the Corantijn River by ferry) and with the French Guiana border at Albina/Saint-Laurent-du-Maroni to the east (crossing the Marowijne River by ferry). Both crossings operate daily. Road conditions on the Guyanese side are variable.
 
-Road
+## By River
 
-The coastal road from Paramaribo leads to the borders of Guyana and French Guiana.
+Regular ferry services cross the Suriname River and Marowijne River to French Guiana. The Albina–Saint-Laurent-du-Maroni crossing is a short hop and is used frequently by travellers moving along the Guiana Shield coast.

@@ -3,22 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-**The Smallest Country in the World**
+Vatican City has no airport. Visitors arrive via Rome, which is served by two airports: Leonardo da Vinci–Fiumicino (FCO), the main international hub, and Ciampino (CIA), used primarily by low-cost carriers.
 
-Vatican City is the the smallest country in the world in both area and population, standing at 44 hectare (0.44 squared kilometers) and with 900 citizens. The main bulk of Vatican City's territory is the colossal St. Peter's Square.
+**From Fiumicino Airport**, take the Leonardo Express train to Roma Termini (30 minutes, €14), then Metro Line A towards Battistini. Get off at Ottaviano–San Pietro or Cipro — both are about a 10-minute walk from St. Peter's Square.
 
-**Airports**
+**From Ciampino Airport**, take a shuttle bus (Terravision or SIT Bus Shuttle) to Roma Termini, then follow the same Metro Line A directions. The shuttle takes 40–50 minutes.
 
-Being the smallest city state in the world with only a length of 1.05 kilometers (0.6 miles) and a width of 0.85 kilometers (0.5 miles), Vatican City cannot physically fit an airport. It does have a helicopter landing station but it is for official use of the Pope only. It's good to be Pope! Vatican City is served by the airports of the city of Rome: the Leonardo da Vinci-Flumicino Airport (IATA Airport code: FCO) and the Ciampino Airport (IATA Airport code: CIA).
+**By metro from central Rome**, Line A is the easiest option. Ottaviano–San Pietro station is the most convenient stop for the Vatican Museums and St. Peter's Square.
 
-From the Leonardo da Vinci-Flumicino you can get to Vatican City by taking the Express Leonardo to the Termini station and then taking the Metro Line A in direction to Battistini and you can either stop at the Ottaviano - S.Pietro-Musei Vaticanior or Cipro stations. From both stations it is a 10 minute walk to the Vatican City. From Ciampino Airport you get to the Termini station by taking the Terravision Pullman and then following the same metro directions.
-****
+**By bus**, routes 40 and 64 run from Termini to the Vatican area. Bus 49 stops directly in front of the Museums entrance on Viale Vaticano. Buses 32, 81, and 982 stop at Piazza del Risorgimento, a five-minute walk away. Tram 19 stops at Piazza Risorgimento as well.
 
-**Accessing Vatican City**
+**On foot from central Rome**, the Vatican is walkable from the historic centre — about 30–40 minutes from the Pantheon or Campo de' Fiori, crossing the Tiber at Ponte Sant'Angelo (with good views of Castel Sant'Angelo on the way).
 
-Vatican's City is delimited by a white line along the limit of St. Peter's Square, where it touches Pio XII Square (or Piazza Pio XII in Italian). From Rome you can access Vatican City through Via della Conciliazone, which starts at the Tiber River. The creation of the Via della Conciliazone was designed and built during the regime of Benito Mussolini.
-
-The following buses go to Vatican City. The 49 stops in front of the Museums Entrance. The buses 32, 81, 982 all stop at the Piazza del Risorgimento, which is just a 5 minutes walk to the Vatican City. Finally the bus lines 492 and 990 stop at Via Leone IV / Via degli Scipioni, which is just 5 minutes walk from Vatican City.
-
-**Contributors**
-September 19, 2009
+Rome public transport tickets cost €1.50 and are valid for 100 minutes with unlimited transfers on buses and trams plus one metro journey. Buy them at Metro vending machines, tabacchi shops, or newsstands.

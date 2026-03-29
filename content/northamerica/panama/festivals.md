@@ -1,18 +1,24 @@
 ---
-title: "Festivals in Panama"
+title: "Festivals"
 type: section
 ---
 
-Participating in **Panama City festivals** is an ideal way to explore the religious and cultural diversity of Panama. Some of the more popular Panama City festivals are discussed below:
+## Carnival (February)
 
-**Panama City Beach Seafood, Wine & Music Festival**
+Panama's Carnival is the country's biggest party, celebrated in the four days before Ash Wednesday. While Panama City has its share of celebrations, the real action is in Las Tablas on the Azuero Peninsula, where competing neighbourhoods (calle arriba and calle abajo) put on spectacular parades with elaborate floats, pollera costumes and culecos — trucks that drench the crowd with water. Book accommodation months in advance if you're going to Las Tablas during Carnival.
 
-This is among the more contemporary of Panama City festivals, wherein the emphasis is upon celebrating music and food for three days. Held usually in the month of May, the festival attracts thousands of foreign visitors. Most popular events include the free, wine-tasting sessions. Visitors can also participate in some local competitions.
+## Festival of the Black Christ — Portobelo (21 October)
 
-**Festival of Black Christ**
+Every year on the night of 21 October, thousands of pilgrims converge on the small colonial town of [Portobelo](/northamerica/panama/portobelo) to honour the statue of El Nazareno, a life-size black figure of Jesus that has been venerated in the Iglesia de San Felipe since the 17th century. Pilgrims walk from across Panama — some for dozens of kilometres — many dressed in purple robes. The procession winds through the town's narrow streets. It's a striking and genuinely moving event, rooted in Afro-Panamanian identity and centuries of devotion.
 
-Celebrated in October, this is among the more religiously-themed of Panama City festivals. Visitors need to take a bus-ride and reach Portobelo, a small town along the outskirts of Panama City, for watching the celebrations. This includes a huge procession wherein a life-sized statue of Jesus is carried through the streets.
+## Feria de las Flores y del Café — Boquete (January)
 
-**Annual Panama Carnival**
+Held every January in Boquete in Chiriquí Province, this week-long festival celebrates the region's highland flowers and world-famous coffee. Stalls sell local produce, live music fills the main square, and coffee farms offer tastings. It attracts both local families and international visitors.
 
-The most popular of Panama City Festivals is the Panama Carnival. This is essentially a cultural festival and doesn&rsquo;t adhere to any religious calendars or worshipping of any kind. Held in February, the celebrations are spread across four days. The final day of the festival is called &lsquo;Ash Wednesday&rsquo;. This festival is considered at par with the Mardi Gras of New Orleans in terms of its vibrant colors and outlandish parades. Visitors can accompany the natives dancing through the streets or stand back and watch the fireworks light-up the sky. This carnival is celebrated all over Panama, but it is commonly acknowledged that the processions are the best in Panama City.
+## Semana Santa (April)
+
+Holy Week is observed throughout the country, with religious processions in many towns. Penonome and Villa de Los Santos are known for particularly elaborate observances. Many businesses close for several days and beaches fill up with Panamanian holidaymakers.
+
+## Pollera Festival — La Villa de Los Santos (July)
+
+The pollera, Panama's national dress, is celebrated at this festival in the Azuero Peninsula. Women compete in intricate hand-embroidered gowns that can take a year or more to make. A good window into the deep craft traditions of the Azuero region.

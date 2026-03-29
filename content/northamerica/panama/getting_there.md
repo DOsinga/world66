@@ -3,30 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Panama's national airline is *Compa&ntilde;a Panaome&ntilde;a de Aviaci&oacute;n (COPA). *
+Tocumen International Airport (PTY) is the main gateway to Panama and the largest hub in Central America. It sits about 25km northeast of Panama City, roughly 30–45 minutes by taxi. Most major airlines in the Americas and a number of European carriers fly here directly. Copa Airlines, Panama's flag carrier, operates an extensive network of regional connections through Tocumen.
 
-Approximate flight times
+Departure tax is included in most ticket prices nowadays, but check when booking.
 
-From Panama City to *London* is 14 hours and to *Miami* is 2 hours 45 minutes.
+## By Road
 
-International airport:
+The Pan-American Highway from Costa Rica crosses into Panama at the Paso Canoas border post in Chiriquí. Buses run between San José (Costa Rica) and David or Panama City, taking 8–9 hours. The crossing is straightforward for most nationalities.
 
-*Panama City (PTY) *(Tocumen) is 27km (17 miles) northeast of the city (travel time  30-60 minutes). Airport services include a bank car hire restaurant and full duty-free facilities. Buses and taxis go to the city.
+Note: The Pan-American Highway does not continue to Colombia. It ends at the Darién Gap — a stretch of roadless jungle between Panama and Colombia.
 
-Departure tax
+## By Sea
 
-B20. Children under two years are exempt.
+The Panama Canal makes Balboa (Pacific side) and Cristóbal/Colón (Atlantic side) ports of call for dozens of cruise lines. If you're arriving by private yacht, Panama City and Shelter Bay Marina near Colón are the main ports of entry.
 
-Sea
-
-The Panama Canal is the major route from the Atlantic to the Pacific Ocean and Panama (Balboa) is a port of call for many cruise lines and ocean vessels for both passenger and freight. Cruise lines include *Sitmar Cunard Royal Viking Princess Delta Norwegian American *and* P&O.*
-
-Rail
-
-There is currently no rail link betwen Panama and other international destinations.
-
-Road
-
-The principal route to Panama is the Pan-American Highway from Costa Rica to Panama City. The Trans-Isthman Highway links Panama City and Col&oacute;n.
+Some travelers cross between Colombia and Panama by boat — usually a multi-day sailing trip between Cartagena and the San Blas Islands (Guna Yala), then continuing by bus to Panama City. This is a popular route among backpackers.

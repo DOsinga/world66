@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 2 634 678 (July 1998 est.)
+Jamaica has a population of around 3 million, though a significant diaspora — particularly in the UK, USA, and Canada — means many more people of Jamaican origin live abroad. The population is predominantly of West African descent, the legacy of the transatlantic slave trade that sustained the island's sugar economy for nearly two centuries. There are smaller communities of East Indian and Chinese descent, most descended from indentured labourers brought in after emancipation in 1834.
 
-**Age structure:**
+Jamaicans have a deserved reputation for directness, warmth, and a competitive pride in the island's achievements. The country is disproportionately influential in global culture given its size: reggae, dancehall, and Rastafari all originated here, along with a tradition of sprint athletics that has produced more world-class runners per capita than almost anywhere else.
 
-*0-14 years:* 32% (male 425 233; female 406 529)
+Religion is important in everyday life. Protestant Christianity predominates, with a wide range of denominations; Pentecostal and Seventh-Day Adventist churches are particularly visible. Rastafari, despite its global cultural reach, remains a minority faith on the island itself.
 
-*15-64 years:* 62% (male 806 846; female 817 145)
+The official language is English, but Jamaican Patois — a creole mixing English with West African languages — is the native tongue of most Jamaicans and a source of considerable cultural pride. Visitors who make even a minimal effort with Patois expressions tend to be warmly received.
 
-*65 years and over:* 6% (male 79 125; female 99 800) (July 1998 est.)
-
-**Population growth rate:** 0.7% (1998 est.)
-
-**Birth rate:** 20.91 births/1 000 population (1998 est.)
-
-**Death rate:** 5.45 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -8.45 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.79 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 14.47 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 75.37 years
-
-*male:* 73.01 years
-
-*female:* 77.84 years (1998 est.)
-
-**Total fertility rate:** 2.33 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Jamaican(s)
-
-*adjective:* Jamaican
-
-**Ethnic groups:** black 90.4% East Indian 1.3% white 0.2% Chinese 0.2% mixed 7.3% other 0.6%
-
-**Religions:** Protestant 61.3% (Church of God 21.2% Baptist 8.8% Anglican 5.5% Seventh-Day Adventist 9% Pentecostal 7.6% Methodist 2.7% United Church 2.7% Brethren 1.1% Jehovah's Witness 1.6% Moravian 1.1%) Roman Catholic 4% other including some spiritual cults 34.7%
-
-**Languages:** English Creole
-
-**Literacy:**
-
-*definition:* age 15 and over has ever attended school
-
-*total population:* 85%
-
-*male:* 80.8%
-
-*female:* 89.1% (1995 est.)
+Jamaica has persistent economic inequality. Unemployment and emigration remain high, and the gap between the tourist economy and the daily reality for many Jamaicans is stark. This tension occasionally surfaces in encounters between travelers and locals, particularly in areas where hustling tourists is one of the few reliable income streams.

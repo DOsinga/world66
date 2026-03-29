@@ -1,26 +1,24 @@
 ---
-title: "Top 5 Must Do's in Chile"
+title: "Top 5 Must-Dos"
 type: section
 ---
 
-Chile is a country of vast natural diversity. It has dry deserts, enormous open plains, glaciers, mountain lakes, active volcanoes, snowy peaks and quirky Pacific islands. All kinds of travelers will have some interesting things to do and see here. **Chile Must Do's** involve a wide range of adventurous activities that have been listed below:
+**1. Trek in Torres del Paine**
 
-**1. Hiking**
+The W circuit through Torres del Paine National Park is one of the world's great multi-day hikes. It passes beneath the iconic granite towers, skirts the Grey Glacier, and winds through beech forests and open steppe. The full circuit (the O) adds three or four days and takes in country few visitors see. Allow for brutal wind and sudden rain at any time of year — this is Patagonia.
 
-Hiking in the Andes will give any traveler a rare chance to explore the Chilean countryside. It will provide the travelers with an occasion to indulge in the wild untamed natural beauty of the country. One of the best trekking points in Chile is through the National Forest of Lauca. The route is very well maintained and the beauty along the path is breathtaking. The lakes region is famous for fascinating hiking and backpacking tours. The snake-like hiking routes will take you through the natural thermal spas, dark green forests and beautiful blue mountain lakes.
+**2. Spend time in the Atacama**
 
-**2. Water Sports**
+The landscape around San Pedro de Atacama is unlike anywhere else on the continent. Go at sunrise for the Valle de la Luna, before tour groups arrive. Watch flamingos wade the salt flats at Salar de Atacama. If you can handle an early start, the El Tatio geysers at dawn — erupting steam against a backdrop of freezing clear sky — are extraordinary. Altitude is 4,300m; acclimatise before doing too much.
 
-With more than 4,000 kilometers of shoreline, Chile has many great places that will test the strength of adventure lovers. Wild and rocky cliffs along the southern part of Chile put the skill of even the veteran divers on trial. Chile is an ideal place for windsurfing. The gusting wind along the northern coastline and the beautiful zigzag shoreline make this a perfect place to try windsurfing. You can also revel in banana boat rides and parasailing in most of the beaches across Chile.
+**3. Explore Valparaíso**
 
-**3. Skiing**
+Chile's second city is a steep, salt-bitten port town where 19th-century merchant houses cling to forty-two hills and street art covers almost every wall. Ride the ancient funicular elevators (ascensores), eat fresh seafood at the Mercado Central, and wander the winding streets of Cerro Alegre at dusk. It looks like nowhere else in the country.
 
-For all the adventure enthusiasts, skiing in Chile is the ultimate experience. The high mountains and the snowy peaks make the southern Andes a heaven for skiers. Portillo is the most popular destination for skiing and the main season runs from June through October.
+**4. Ski in the Andes**
 
-**4. Whitewater Rafting**
+Portillo, two hours north of Santiago, is one of South America's most famous ski resorts — steep, high, and spectacular, with the frozen Laguna del Inca below the slopes. Valle Nevado and La Parva, closer to Santiago, are larger and more family-oriented. The season runs roughly June to October, and Andes snow depths are typically excellent.
 
-Chile has many rivers flowing into Pacific Ocean. The high currents in these rivers all through the year make them ideal for whitewater rafting. The Futaleufu River Valley is undoubtedly the best place for whitewater rafting. This river valley has a number of class V rapids which are considered to be the most dangerous and challenging ones for any rafting expert.
+**5. Take the ferry south from Puerto Montt**
 
-**5. Glacier Cruises**
-
-Glacier cruises are the best way and sometimes the only way to explore Southern Chile. Starting your cruise from the Northern Patagonian glaciers, you can sail through the great San Rafael Glacier. The drifting icebergs of this thrilling glacier will definitely take your breath away. The sail through the Strait of Magellan and the Beagle Channel will give you an unforgettable experience.
+The Navimag ferry from Puerto Montt to Puerto Natales sails through the Chilean fjords over three to four days — channels, glaciers, islands, and seabirds. There are no roads through much of this stretch of coastline; the ferry is the only way through. Conditions can be rough in exposed sections. Take seasickness medication and a good book.

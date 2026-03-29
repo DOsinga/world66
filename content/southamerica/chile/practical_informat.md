@@ -1,32 +1,40 @@
 ---
-title: "Practical Information in Chile"
+title: "Practical Information"
 type: section
 ---
 
-Take a look at this **Punta Arenas practical information** guide and you will surely discover some unsuspected facts about the city that will aid with travel while enhance your enjoyment of the trip.
+**Visas**
 
-**Population**
-
-Punta Arenas (or Sandy Point, translated from Spanish) is home to a population of 154 000 residents, which makes it the third largest city in the Patagonian Region of Chile. You may be expecting to see mainly Latin Americans here, but you&rsquo;ll be surprised to find that nearly half of the local population descends from the Croatian ethnic group. There are also many descendants of the major European colonist nations (Spain, Germany, England and Italy to name a few).
-
-**Language**
-
-Like in the rest of the country, Spanish is the most used language here. However, compared to standard Spanish, Chilean Spanish differs in vocabulary, pronunciation and grammar. Of course, this difference is influenced by formerly used Native American languages like Quechua and Mapudungun. Chilean Spanish is also spoken very fast, which makes it harder to understand even by native Spanish speakers. Along with it, English, Croatian and German are widely spoken in Punta Arenas.
-
-**History**
-
-After numerous failing attempts to form a city in the area, the Chilean government sent a final colonizing expedition, leaded by John Williams (a British sailor). The expedition, consisting of just 21 people) was successful and a town was officially formed on 21 September 1843. For a long time, Punta Arenas was the place where the government sent newly-arrived immigrants and Chilean soldiers with problematic behavior. The city harbor was of significant importance, as it was used as a refueling station by ships transferring from the Atlantic to the Pacific Ocean.
-
-**City Name Etymology
-**
-
-As mentioned above, Punta Arenas comes from the Spanish Punta Arenosa, which translated to English means Sandy Point. However, the city was also known as Magallanes between 1927 and 1938, named after the great Portuguese explorer Ferdinand Magellan, who has sailed through this area.
-
-**Currency
-**
-
-The official currency used here is Chilean peso. It is subdivided into 100 centavos. One dollar equals approximately to 532 Chilean Pesos. Frequently, the locals refer to the different banknotes not by their value, but by the name of the person printed on them. So don&rsquo;t be surprised if you hear – &ldquo;you owe me one Gabriela&rdquo;, which means that you owe a person 5000 Pesos.
+Citizens of the US, Canada, EU, UK, Australia, and most other Western countries do not need a visa for stays of up to 90 days. Before arrival, you must complete a Single Entry Form (FUI — Formulario Único de Ingreso) online and have proof of a return ticket and sufficient funds (around USD 46 per day). On arrival you receive a tourist card valid for 90 days, extendable for a further 90 days at the immigration office for a fee of around USD 100. Keep the tourist card — you need it when you leave.
 
 **Currency**
 
-The local currency is the Chilean Peso (CLP)
+The currency is the Chilean Peso (CLP). Notes come in denominations of 1,000, 2,000, 5,000, 10,000, and 20,000 pesos. ATMs are widely available in cities and larger towns, but in remote areas — Easter Island, the Carretera Austral, small Patagonian towns — there may be no ATM at all. Carry cash before heading into the backcountry. Credit cards are widely accepted in Santiago and larger cities; less so in rural areas.
+
+US dollars are rarely accepted in shops or restaurants, but foreign visitors are exempt from 19% VAT (IVA) if they pay in USD at participating hotels.
+
+**Language**
+
+Spanish is the national language. Chilean Spanish is spoken quickly, with strong regional slang and a tendency to drop consonants at the end of syllables — even other Spanish speakers sometimes struggle. English is spoken in the tourist industry in Santiago, the Atacama, and Patagonia, but don't count on it elsewhere.
+
+**Electricity**
+
+220 volts, 50Hz. Plugs are the South American type L (three-prong round), or two-round-pin type C. Bring an adaptor if your devices use flat pins.
+
+**Health**
+
+No vaccinations are required to enter Chile (unless arriving from a yellow fever zone). The country has good medical infrastructure in cities. Altitude sickness is a real risk if you ascend quickly into the altiplano of northern Chile — the El Tatio geysers near San Pedro de Atacama sit at 4,300 metres. Tap water is safe to drink in most cities. In remote areas, treat or filter before drinking.
+
+Travel health insurance is strongly recommended, especially if you plan to hike or engage in adventure activities.
+
+**Communications**
+
+Mobile coverage (4G/LTE) is good in cities and along main highways, but absent in many remote areas — the Carretera Austral has long gaps without signal. Chilean SIM cards are cheap and easy to buy; Entel has the widest network. Free WiFi is common in hostels, cafes, and many public spaces.
+
+**Safety**
+
+Chile is one of the safer countries in South America for travellers. Street crime (bag snatching, pickpocketing) does occur in Santiago, particularly around the bus and metro stations and in tourist areas. Use common sense with your belongings. The main natural hazard is earthquakes — Chile is one of the most seismically active countries on earth. Familiarise yourself with basic earthquake safety procedures.
+
+**Business hours**
+
+Private offices and government agencies are typically open weekdays 8:30am–6pm, with a lunch break from noon–2pm. Banks open 9am–2pm on weekdays. Supermarkets and malls are generally open Monday–Saturday 10am–8pm, often later; many now open on Sundays.

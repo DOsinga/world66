@@ -3,12 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-The Netherlands are well connected by road, rail, boat and air to the rest of the world. Schiphol airport (Amsterdam) has become one of the busiest airports of Europe but is actually a nice place to arrive. Picking up relative cheap flights to Amsterdam shouldn't be a problem.
+[Amsterdam Schiphol](https://www.schiphol.nl) is one of Europe's busiest and best-connected airports, handling flights from over 300 destinations worldwide. It sits 17km southwest of Amsterdam city center and has a train station directly beneath the terminal — you can be in Amsterdam Centraal in under 20 minutes, or Rotterdam in 40. For most long-haul travellers, Schiphol is the obvious entry point. Eindhoven Airport, served mainly by Ryanair, is an alternative for budget travellers coming from within Europe.
 
- There are direct International trains from Berlin (about every four hours), Belgium (every half hour), Paris (every three hours, about) and further afield to Prague, Vienna, Basel and Milan. Getting a reservation on the International trains especially in summer is not a bad idea. A lot of those trains are mostly sleepers, so demand for seats outstrips supply easily.
+By train, the Netherlands is well connected to its neighbours. Thalys and Eurostar services link Amsterdam with Paris (around 3.5 hours), Brussels (2 hours), and London (around 4 hours via the Channel Tunnel). Deutsche Bahn runs direct ICE services from Amsterdam to Frankfurt and Cologne. The new high-speed line means most of these journeys are fast and comfortable. Book in advance through [NS International](https://www.nsinternational.com) for the best fares.
 
- There are some excellent long distance busses running from all over Europe into the Netherlands. Eurolines is where you could check, but also have a look at the small ads in travel sections of newspapers. Bustrips to/from London or Paris could cost less then f50,-, while even tickets all the way to Istanbul can be had. In the sixties even tickets upto Delhi could be had, but ever since the Iranian revolution, you have to chance in Istanbul and then again in Teheran.
+Ferries connect the Netherlands to the UK. [Stena Line](https://www.stenaline.co.uk) runs Harwich–Hoek van Holland twice daily, with the crossing taking about 6–7 hours. [DFDS](https://www.dfds.com) runs an overnight Newcastle–IJmuiden service, which arrives close to Amsterdam. If you're bringing a car or just want a more relaxed journey, ferries remain a practical option.
 
- The most relevant boat connections are with Great Brittan. Numerous Ferry boats do the trip from Hoek van Holland and there is a twice daily Train/Boat combi that brings you right into London. If you don't bring your own car, it might work out cheaper to get a bus ticket that includes the ferry (but might you first drive all the way to France).
-
- Driving into the Netherlands is easy. Good roads cross into Belgium and Germany and nobody at the border checks cars, so you hardly notice you're in a different country.
+Driving in from Germany or Belgium is seamless — no border checks at the Schengen frontier, good motorways throughout. If you're arriving by long-distance bus, [FlixBus](https://www.flixbus.com) connects Amsterdam with most major European cities at budget prices.

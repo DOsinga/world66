@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 9 927 556 (July 1998 est.)
+Portugal has a population of around 10 million on the mainland, with another 600,000 or so on Madeira and the Azores. It's one of Europe's smaller nations by population, but Portuguese is spoken by roughly 250 million people worldwide — a legacy of the empire that once stretched from Brazil to Mozambique to Goa.
 
-**Age structure:**
+The Portuguese tend toward reserve with strangers but warmth once acquainted. Saudade — a word without a perfect translation, somewhere between longing, nostalgia, and melancholy — is a recurring theme in culture, expressed most fully in fado music. Don't take it for sadness; it's more a deep emotional attentiveness to life.
 
-*0-14 years:* 17% (male 881 091; female 834 775)
+Immigration has shifted the cultural mix considerably, particularly in Lisbon and Porto, where communities from Brazil, Cape Verde, Angola, and Ukraine are substantial. Lisbon's Mouraria neighborhood, historically associated with fado's origins, has become one of Europe's more genuinely diverse urban spaces.
 
-*15-64 years:* 68% (male 3 283 273; female 3 429 233)
+Portugal is predominantly Roman Catholic, though practicing numbers have fallen in recent generations. Religious festivals — particularly Holy Week, the festas dos santos populares in June, and local patron saint days — remain central to community life even among people who don't attend mass regularly.
 
-*65 years and over:* 15% (male 612 221; female 886 963) (July 1998 est.)
-
-**Population growth rate:** -0.07% (1998 est.)
-
-**Birth rate:** 10.63 births/1 000 population (1998 est.)
-
-**Death rate:** 10.26 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.01 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.69 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.87 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 75.66 years
-
-*male:* 72.27 years
-
-*female:* 79.25 years (1998 est.)
-
-**Total fertility rate:** 1.35 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Portuguese (singular and plural)
-
-*adjective:* Portuguese
-
-**Ethnic groups:** homogeneous Mediterranean stock in mainland Azores Madeira Islands; citizens of black African descent who immigrated to mainland during decolonization number less than 100 000
-
-**Religions:** Roman Catholic 97% Protestant denominations 1% other 2%
-
-**Languages:** Portuguese
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 85%
-
-*male:* 89%
-
-*female:* 82% (1990 est.)
+The country has also become a destination for remote workers and retirees from Northern Europe and North America, drawn by the relatively low cost of living, good infrastructure, and the climate. This has reshaped neighborhoods in Lisbon and Porto and driven up housing costs, which is a source of tension with locals.

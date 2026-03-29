@@ -1,18 +1,18 @@
 ---
-title: "Festivals in Bolivia"
+title: "Festivals"
 type: section
 ---
 
-Bolivia is a nation of many cultures and **Bolivia Festivals** present a rare opportunity to decode the social and religious trends prevalent in Bolivia. While some festivals have a national presence, others are limited to specific regions. Owing to regional variations, some Bolivian festivals are celebrated differently with minor differences in the nature of festivities.
+Bolivia celebrates more than 2,000 festivals a year, mixing Catholic religious observance with deep pre-Columbian traditions. The results are often extraordinary.
 
-**Fiesta Virgen de la Candelaria or Festival of Dark Virgin of the Lake**
+**Carnaval de Oruro** (February/March) is the big one — a UNESCO Intangible Cultural Heritage event and one of the most spectacular street spectacles in all of South America. Around 28,000 dancers and 10,000 musicians parade through [Oruro](/southamerica/bolivia/oruro) in elaborate costumes for ten hours or more on the Saturday before Lent. The Diablada (Dance of the Devils) is the centrepiece, a swirling theatrical battle between good and evil with costumes that have been passed down through families for generations. The celebrations continue the next day and the atmosphere through the whole city is electric. Get there early and book accommodation months ahead.
 
-This festival is celebrated on August 5. It is celebrated across Bolivia and some parts of Peru. Most of the celebrations are observed by people living around the Lake Titicaca region and villages of Copacabana. The festival celebrates a religious deity who is widely believed to be the Patron of Bolivia. A similarly-themed festival, called the Copacabana or the festival of Virgin Candelaria, is also celebrated. The festivities here are more colorful and include street processions. This version of the festival is more prevalent in La Paz—the capital city.
+**Fiesta de la Virgen de la Candelaria** (August 5) is the main celebration in [Lake Titicaca](/southamerica/bolivia/laketiticaca)'s Copacabana, honouring the Patron of Bolivia. Processions, traditional dances, and pilgrims from across the region fill the town. A smaller version of the festival runs on February 2.
 
-**Festival of Alasitas**
+**Alasitas** (January 24) is a uniquely Bolivian celebration. People buy miniature versions of the things they want in life — houses, cars, university degrees, wads of banknotes — and have them blessed by an Aymara shaman (yatiri) to invoke the god of abundance, Ekeko. It's part carnival, part spiritual practice, and deeply popular. The main event is in La Paz but similar fairs take place across the country.
 
-This festival originated in Porongo and is now celebrated across Santa Cruz and the neighboring towns. The festival honors the god of prosperity and abundance—Ekkekko. Dates for the festival usually fall during the last week of January or first week of February. As a custom, people make miniature, hand-crafted mimics of what they wish for and place these along the idols of Ekkekko. Another version of the same festival is celebrated during September in some parts of Bolivia.
+**Festival de la Virgen de Urkupiña** (August 14–16) in Quillacollo, near [Cochabamba](/southamerica/bolivia/cochabamba), is one of the largest religious festivals in Bolivia. Pilgrims carry stones away from the hillside as symbols of faith and future blessings.
 
-**Dia Reyes Magos or the Festival of "Day of Kings" **
+**Día de los Muertos** (November 2) is observed with particular intensity in Bolivia. Families bring food and drink to the graves of loved ones, and bakeries fill with bread shaped like skulls and human figures (tantawawas). In cemeteries around La Paz the atmosphere is celebratory and colourful rather than mournful.
 
-This festival is celebrated in the first week of January. Though the celebrations are widespread across Bolivia, some parts of the nation don&rsquo;t celebrate it very enthusiastically. The Day of Kings commemorates some of the most influential rulers that ruled Bolivia prior to its colonization.
+**Carnaval in other cities** — Santa Cruz, Tarija, and Trinidad each have their own Carnaval traditions, distinct from Oruro's. Santa Cruz's version has a more Caribbean flavour; Tarija's reflects its strong Spanish and wine-culture heritage.

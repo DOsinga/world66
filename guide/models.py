@@ -127,8 +127,11 @@ class Page:
 
             elif entry.is_dir():
                 child = load_page(self.path + "/" + entry.name)
-                if child and child.page_type == "location":
-                    locations.append(child)
+                if child:
+                    if child.page_type == "location":
+                        locations.append(child)
+                    elif child.page_type == "section":
+                        sections.append(child)
 
         return sections, locations, pois
 

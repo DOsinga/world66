@@ -1,12 +1,14 @@
 ---
-title: "Thanjavur"
-type: location
 latitude: 10.659037
 longitude: 79.201428
+title: Thanjavur
+type: location
 ---
 
-We currently have no information about Thanjavur.
+Travel Guide
 
-If you do know any general information about Thanjavur, please [Edit this article].
+We currently have no information about thanjavur.
 
-If you know any hotels in Thanjavur or restaurants in Thanjavur, please [[Add].](/destinations/addItemWizard?addwhere=asia/southasia/india/tamilnadu/thanjavur)
+If you do know any general information about thanjavur, please [Edit this article].
+
+If you know any hotels in thanjavur or restaurants in thanjavur, please [[Add].](/destinations/addItemWizard?addwhere=asia/southasia/india/tamilnadu/thanjavur/thanjavur)

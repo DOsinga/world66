@@ -32,14 +32,14 @@
     </h3>
     <ul class="sidebar-nav">
       {% if parent %}
-      <li><a href="{{ parent.get_absolute_url }}"><strong>{{ parent.title }}</strong></a></li>
+      <li><a href="{{ parent.get_absolute_url }}"><strong>General</strong></a></li>
       {% for s in parent_sections %}
       <li{% if s.slug == page.slug %} class="active"{% endif %}>
         <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
       </li>
       {% endfor %}
       {% else %}
-      <li class="active"><a href="{{ page.get_absolute_url }}"><strong>Travel Guide</strong></a></li>
+      <li class="active"><a href="{{ page.get_absolute_url }}"><strong>General</strong></a></li>
       {% for s in sections %}
       <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
       {% endfor %}

@@ -1,8 +1,3 @@
-/* ==========================================================================
-   World66 - the travel guide you write
-   Inspired by the original Oberon & Internet Brands era designs
-   ========================================================================== */
-
 /* --- Reset & Base --- */
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 

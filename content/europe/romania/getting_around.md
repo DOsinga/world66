@@ -1,79 +1,36 @@
 ---
 title: "Getting Around"
 type: section
-address: "Brasov, Romania"
-email: "tours@goromaniatours.com"
-url: "www.goromaniatours.com"
 ---
 
-**
-By Train
+Romania is large and the distances between its main attractions are considerable. A combination of trains for intercity travel and buses for smaller towns works well, though renting a car opens up the countryside considerably.
 
-**
+**By Train**
 
-Romania's Railway Network,
-CFR,
-is very well connected to major cities and towns throughout the
-country. There are five different types of trains in Romania:
+CFR Călători (cfrcalatori.ro) operates the national rail network. The system has improved in recent years but trains are often slower than the schedules suggest — delays of 30–60 minutes are common on provincial routes. That said, trains are cheap: a 100km second-class ticket costs around €3–7.
 
-PERSONAL (P) & PERSONAL MOTOR (PM) - very slow cheap trains that are
-mainly used by locals travelling short distances as they make many
-stops in the small and rural towns, they are typically crowded and
-in bad conditions.
+Two service tiers matter to travellers:
+- **InterRegio (IR)** — stops at major towns only, relatively comfortable, worth the small premium
+- **Regio (R)** — stops everywhere, slow, crowded on busy routes
 
-ACCELERAT (A) - The conditions are much the same as Personal but
-these trains travel longer distances as they stop only in the bigger
-towns and cities and are mainly used by locals as well.
+Book online through cfrcalatori.ro for a small discount; tickets can be bought up to 6 hours before departure. Seat reservations are compulsory on some trains — check when booking.
 
-RAPID (R) - These trains are slightly faster than Accelerat and less
-crowded. The conditions main vary from the same as Accelerat to
-modern equipped trains depending on the wagon used for your route,
-so you might get lucky with these ones.
+Key intercity routes: Bucharest–Cluj-Napoca (around 8–9 hours by IR), Bucharest–Timișoara (7–8 hours), Bucharest–Iași (5 hours).
 
-INTERCITY (IC) - Are more modern trains with air-conditioned wagons
-and dining cars during the day. They run routes from Bucharest to
-Cluj, Timisoara, Iasi and have an express service to the Black Sea
-Coast.
+**By Bus and Maxitaxi**
 
-EURO CITY (EC) - Run by Hungarian Railways with regular services
-between Budapest to Bucharest
+Buses and shared minibuses (maxitaxi) fill the gaps the trains miss. They're often faster than trains on shorter regional routes and reach villages with no rail service. Buses depart from autogări (bus stations), usually near the train station. Arrive 20–30 minutes early, especially on minibuses — they fill up and leave when full.
 
-Be sure to ask at the train station if seat reservations are
-required as it is necessary on some trains. You can see routes and
-times on CFR's website:
+Flixbus now covers major Romanian cities at reasonable prices.
 
-www.cfr.ro
+**By Car**
 
-### [Private Driver and Personal Guide in Romania](/europe/romania/getting_around/private_driver_and)
+Renting a car is the best way to reach the Painted Monasteries of Bucovina, explore the Carpathian villages, or discover the Danube Delta's edge. Roads between major cities are improving — there are stretches of motorway (autostradă) connecting Bucharest with Pitești, Ploiești, and towards Cluj — but secondary roads can be rough and potholed. Expect slow average speeds on mountain routes.
 
-The best and most comfortable way to exeprience this beautiful country is in the company of an experienced driver/guide. A local driver/guide can help take the pressure away from a stress full trip if you were to travel on your own. And the added bonus of having local tours in each location will make your trip that much more enjoyable. Your accomadation, transportation and meals can be organized for you in advance with you own tailor made customized tour. Their knowledge of Romania makes it that much more worth it. Start planning your trip now and discover this intriguing part of [more..](/europe/romania/getting_around/private_driver_and)
+Romanian law requires dipped headlights at all times, including during the day. The blood alcohol limit is zero. Speed limits are 50 km/h in towns, 90 km/h on regular roads, 100 km/h on expressways, 130 km/h on motorways. Speeding fines are issued on the spot. Winter tyres are required from 1 November to 31 March; in mountain areas, carry snow chains.
 
+The Rovinieta road toll vignette is mandatory for all foreign vehicles using Romanian roads. Buy it online at roviniete.ro or at the border crossing.
 
+**In Cities**
 
-[[rate it]](/europe/romania/getting_around/private_driver_and)
-
-url: [www.goromaniatours.com](http://www.goromaniatours.com)
-
-address: Brasov, Romania
-
-email: tours@goromaniatours.com
-
-### [By Road](/europe/romania/getting_around/by_road)
-
-When driving in Romania a driver's license (foreign licenses are
-accepted) and vehicle insurance is required. If you have
-not purchased insurance in advance it is available at most border
-crossings. Driving is on the right and overtaking on the left.
-Driving in the cities can be challenging as they can be heavily
-congested with aggressive drivers. However driving through the
-country side can be quite a treat with breath-taking scenery with
-many opportunities to stop and take a picture. A car or private
-driver is suggested to reach the Painted [more..](/europe/romania/getting_around/by_road)
-
-
-
-[[rate it]](/europe/romania/getting_around/by_road)
-
-url: [www.goromaniatours.com](http://www.goromaniatours.com/about-romania/getting-around-romania.html)
-
-email: tours@goromaniatours.com
+Bucharest has a functioning metro (4 lines), trams, and buses. A single journey card costs very little. Ride-hailing apps (Bolt, Uber, and local alternatives) work well and are far preferable to hailing street taxis, which sometimes overcharge tourists. If you take a street taxi, insist on the meter.

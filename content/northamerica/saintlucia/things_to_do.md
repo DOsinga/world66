@@ -1,53 +1,32 @@
 ---
-title: "Things to do in Saint Lucia"
+title: "Things to Do"
 type: section
 ---
 
-St. Lucia offers a wide range of things to do like bird watching,
-water sports and hiking. You will never get bored
-while in St. Lucia.
+Saint Lucia is one of the more active islands in the Caribbean. The combination of volcanic terrain, dense rainforest, coral reefs, and a protected coastline means there's genuine variety beyond the beach.
 
-**Water Activities**
+**Hiking**
 
-Many activities take place on the water. Yachts are available for
-charter and sail boats are available for rent. Fishing and sailing
-around the waters of St. Lucia is always exciting. If you are looking
-for more of an adrenaline-rush activity, go windsurfing, diving,
-water-skiing, or jet skiing. Most hotels offer activity instructions
-and rent equipment for windsurfing and skiing. Some of the beaches are
-more suitable for these activities, like Cas en Bas and Vieux Fort.
-Yachts and other boats can be chartered at Rodney Bay and Marigot Bay.
-Scuba Diving and snorkeling in the clear waters near the reefs are also
-popular activities. There are many dive centers that will teach you how
-to dive.
+The Pitons are the obvious draw. Gros Piton (798m) has marked trails and is climbable in two to three hours from the village of Fond Gens Libre, without ropes or specialist equipment. Guides are provided by the National Park and included in the entry fee. Petit Piton is steeper and the trail is less marked — more experienced hikers only. The reward in both cases is panoramic views over the island and, on a clear day, towards Martinique.
 
-**Scenic Tours**
+The Barre de l'Isle Rain Forest Trail crosses the island's spine and climbs to Morne la Combe (440m). The Union Nature Trail near Castries is shorter and good for birdwatching, including the endemic Saint Lucia parrot.
 
-St. Lucia offers beautiful scenery. The island has a volcano and
-National Rain Forest. What better way to get an overview of the island
-than by hopping on a helicopter and taking a look? Flights loop around
-the northern and southern portions of the island and you can see the
-Soufriere volcano along with the expanse of the rain forest from the
-air.
+**Diving and Snorkelling**
 
-**Horse Riding**
+The west coast is sheltered and has excellent visibility. The best sites are around Anse Chastanet and Soufrière Bay, where volcanic activity creates warm, mineral-rich water. Anse Cochon is a popular reef dive accessible from the beach. Several dive operators are based at Anse Chastanet and Rodney Bay.
 
-Gros Islet International Riding Stables offers a horseback riding
-experience like no other. Ride on the beach or through the country side
-on a horse specifically chosen for your experience level.
+**Water Sports**
 
-**Hiking Trails**
+Rodney Bay and Marigot Bay are the main centres for sailing and yacht charter. Windsurfing and kitesurfing are better on the Atlantic side, particularly at Cas en Bas and Vieux Fort, where the trade winds are reliable. Rodney Bay Marina is one of the best-equipped marinas in the eastern Caribbean and a popular landfall for transatlantic passages.
 
-There is a plethora of hiking trails and naturalist trails on the
-island. Barre de L’isle Rain Forest trail runs along the perimeter of
-the rain forest with a climb to the 1446 foot high Morne la Combe.
-Union Nature Trail is where you go to bird watch or explore the trees,
-herbs and other flora on the island along with some exotic wildlife in
-a miniature zoo. There is a naturalist tour in the rain forest where
-your guide will explain all the plant and animal life in the forest.
-Fregate Island Nature Trail runs along the Atlantic Coast with
-beautiful views of the park. There are several bird species that live
-in this area that are very rare. There are organized walking tours of a
-cactus park, mangrove area and special bird watching tours.You can also go to Grande Anse Beach March to July to camp and see the leatherback turtles coming on shore to mate.
+**Whale and Dolphin Watching**
 
-There is always something to do on the island of St. Lucia that will stay with you the rest of your life.
+The waters off the west coast are among the best in the Caribbean for cetaceans. Sperm whales are resident year-round; pilot whales, humpbacks, and several dolphin species are regularly seen. Tours operate mainly from Rodney Bay.
+
+**Leatherback Turtles**
+
+Grande Anse Beach on the Atlantic coast is one of the Caribbean's nesting beaches for leatherback turtles. The season runs from March to July. Organised night watches are available and are worth booking in advance.
+
+**Sulphur Springs**
+
+Outside Soufrière, the Sulphur Springs area is described as the world's only drive-in volcano — an active geothermal field with bubbling mud pools and strong sulphur fumes. You can bathe in the warm mineral pools nearby at the Soufrière Estate. It's touristy but genuinely unusual.

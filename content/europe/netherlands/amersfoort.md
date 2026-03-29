@@ -3,6 +3,10 @@ title: "Amersfoort"
 type: location
 latitude: 52.16377
 longitude: 5.408885
+image: amersfoort.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg"
+image_license: "CC BY 4.0"
+image_attribution: "acediscovery"
 ---
 
 Amersfoort is one of The Netherlands best kept secrets. It's a cute little town some half hour by train from [Amsterdam](/europe/netherlands/amsterdam), and only 10 minutes from [Utrecht](/europe/netherlands/utrecht).

@@ -93,6 +93,12 @@
 {% block content %}
 <h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if hero_image_url %}
+<div class="hero-image">
+  <img src="{{ hero_image_url }}" alt="{{ page.title }}" width="780" loading="lazy">
+</div>
+{% endif %}
+
 {% if is_continent %}
 <div id="country-map" class="country-map"></div>
 {% elif markers_json != "[]" %}

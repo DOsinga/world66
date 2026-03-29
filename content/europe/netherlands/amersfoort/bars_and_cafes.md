@@ -1,6 +1,10 @@
 ---
 title: "Bars and Cafes"
 type: section
+image: bars_and_cafes.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Amersfoort_Mandaatshuisje_2015_33.JPG"
+image_license: "CC BY-SA 4.0"
+image_attribution: "Atsje"
 ---
 
 **all**

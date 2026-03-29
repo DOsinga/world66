@@ -3,57 +3,34 @@ title: "Practical Information"
 type: section
 ---
 
-Aruba is part of the Netherlands Antilles, a federation consisting
-of six islands which include Bonaire, Saba, Curacao, St. Maarten, and
-St. Eustatius. In 1986, Aruba became a separate entity with the
-Netherlands and its own constitution.
-
-**Location **
-
-Aruba is part of the West Indies in the Caribbean, is about 19 miles long and 5 miles wide.
-
-**Population**
-
-Approximately 90,000 people live in Aruba and speak the official language of Dutch. English and Spanish are also widely spoken. The mother tongue of Aruba, however, is Papiamento.
-
-**Climate**
-
-The weather is tropical and maintains a steady average in
-the the vicinity of 82 degrees Fahrenheit or 28 degrees Celsius.
-Rainfall averages around 18 inches per year. Aruba lies south of the
-hurricane path and usually only receives small effects from from the
-larger tropical storms.
-
 **Currency**
 
-The florin is Aruba's currency, and US dollars are also accepted everywhere. There is a bank at the airport, and there are also 5 others.
-Not all have ATMs (cashpoints), so try to get cash at the airport, or
-bring Traveler's checks. Traveler's check are widely accepted, as are
-major credit cards. Make sure before you leave home that you are able
-to use your credit cards in foreign countries, as well as in foreign
-ATMs. Most times, credit card issuers will not allow international
-purchases out of your home country until you have made a call to advise them.
+The Aruban florin (AWG) is the official currency, pegged to the US dollar at a fixed rate of approximately AWG 1.79 to USD 1. US dollars are accepted everywhere — you may actually find it easier to use dollars than florins. Most major credit cards work fine. ATMs are available at banks and in shopping areas across the island. Banks are generally open Monday to Friday, 8am to 4pm.
+
+**Visa requirements**
+
+Citizens of the US, Canada, the UK and most EU countries do not need a visa for stays up to 90 days. All visitors must complete an Embarkation and Disembarkation (ED) card on arrival. Check current requirements for your nationality before travel, as rules can change.
+
+**Language**
+
+Papiamento is the local language and mother tongue. Dutch is the other official language. English and Spanish are both widely spoken; most people working in tourism will speak all four.
 
 **Electricity**
 
-Aruba works on the North American standard voltage of
-110 AC, flat two and three pin plugs are standard. Foreign visitors
-should bring your power adapters to ground your electronics.
+110V AC, 60Hz — the same standard as the US and Canada. Flat two- and three-pin plugs are used. European visitors will need an adapter.
+
+**Climate**
+
+Average temperature is around 28°C (82°F) year-round. Aruba lies south of the main hurricane track and rarely takes direct hits, though June to November can bring cloudier skies and occasional rain. The northeast trade winds blow almost constantly, making the heat feel comfortable.
 
 **Emergencies**
 
-In case of an emergency whether is be police, fire, or
-hospital dial 911 from any telephone. The number for hospital and
-ambulance is 5874300.
+Emergency services: dial 911 for police, fire or ambulance. Hospital: Dr. Horacio Oduber Hospital is the main facility on the island.
 
-**High and Low Seasons**
+**Seasons and prices**
 
-High season falls between December 15th and
-April 14th, and low season falls April 15th to December 14th. Hotel and
-resort prices will differ significantly between the two seasons.
+High season runs from mid-December through mid-April, when prices for accommodation rise significantly. Shoulder season (May to July) and low season (August to November) offer lower rates, though the island is popular year-round.
 
-**Shopping **
+**Shopping**
 
-Most stores are open from 9am to noon, and then 2pm to
-6:30pm. Shops are open Monday through Saturday. The Alahambra bazaar is
-open from 5pm to midnight.
+Most shops in Oranjestad are open Monday to Saturday, roughly 9am to noon and 2pm to 6:30pm. Aruba has extensive duty-free shopping, particularly around the port area in Oranjestad.

@@ -3,14 +3,18 @@ title: "Getting Around"
 type: section
 ---
 
-Aruba's Queen Beatrix Airport is located on the southern coast approximately 4 miles (6km) southeast of Oranjestad. Plenty of taxis are available for trips to the city or the resort area.
+**Buses**
 
-You'll need a car to explore the interior or northern windward coast. There are international and local car rental agencies; the bigger chains have offices at the airport and luxury hotels. If you want to drop your car off at the airport insure that the agency you rent from has this facility or you'll be stuck with meeting an agent in the carpark - big hassle. Your home driving license is valid though you must be at least 21 years old. Drive on the right-hand side of the road and note that speed limits are signposted in km/h.
+There is a frequent public bus service running between Malmok in the northwest and San Nicolas in the southeast, passing through Oranjestad, the hotel beach strip and the airport. Buses depart from Oranjestad's pastel bus station next to Royal Plaza. The network is reliable enough that many visitors get by without renting a car, especially if they're staying along the main hotel strip.
 
-There's a frequent bus service between Malmok in the island's northwest and San Nicolas in the southeast. It passes through Oranjestad the hotel beach strip and runs right by the airport. This service and other local buses depart from Oranjestad's funky pastel bus station next to Royal Plaza. Taxis hang around the larger hotels and popular tourist spots. They're unmetered but rates are regulated by the government and are calculated using a zone system. Since drivers are required to carry a rate card you should be able to establish the exact fare beforehand. Taxis can also be hired hourly for sightseeing tours.
+**Taxis**
 
-### Greenie
+Taxis are unmetered but government-regulated, with fixed rates based on a zone system. Drivers are required to carry a rate card, so you can confirm the fare before you get in. Taxis congregate at larger hotels and popular tourist spots. They can also be hired by the hour for sightseeing.
 
-And for those who realise people visit from all over the world.....
+**Car rental**
 
-The public transport is excellent. We stayed two weeks and only hired a car for 3 days to visit the parts where the bus did not go. It would be wrong to say the more remote parts!
+You'll need a car to explore the interior, Arikok National Park, or the rugged windward coast. Both international chains and local agencies have offices at the airport and at the main hotels. Your home driving licence is valid; you must be at least 21 years old. Drive on the right. Speed limits are posted in km/h. If you plan to return the car at the airport, confirm that the agency has a drop-off point there before you rent.
+
+**Bikes and ATVs**
+
+Bicycle and ATV rentals are widely available for those who want to explore the island independently. Many of the trails in Arikok National Park are accessible by mountain bike or ATV.

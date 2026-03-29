@@ -1,6 +1,6 @@
 ---
 title: "Muggia"
-type: poi
+type: location
 latitude: 45.605003
 longitude: 13.766845
 tags: ["3 Days in Trieste"]

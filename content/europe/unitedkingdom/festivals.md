@@ -1,71 +1,20 @@
 ---
-title: "Festivals in United Kingdom"
+title: "Festivals"
 type: section
 ---
 
-There are several **United Kingdom Festivals** that individuals or families can attend throughout the year. Listed below are a few for each different season.
+The UK has a strong festival culture, ranging from enormous music events to centuries-old traditions.
 
-**Summer Festivals
-**
+**Glastonbury Festival** (June, Somerset) is the world's largest greenfield music festival, held most years on a farm near Pilton. Beyond the five main stages, there are theatre, circus, poetry, healing fields and an extraordinary range of performers across hundreds of smaller venues. Tickets sell out within hours and are allocated by ballot. If you want to go, register well in advance.
 
-Ashton Court Festival in July is a music fest that has two outdoor
-stages featuring the best local bands and then some national headliners
-too.
+**Edinburgh Festival Fringe** (August, Edinburgh) is the world's largest performing arts festival, with thousands of shows across more than 300 venues in the space of three weeks. Comedy is the dominant form, but there's also theatre, dance, physical performance, opera and cabaret. Many shows are free or cheap. The Fringe runs alongside the Edinburgh International Festival, the Edinburgh Art Festival and others — together they make August in Edinburgh one of the great cultural events on the planet.
 
-The Edinburgh International Festival in August to September has been
-called one of the most famous and influential festivals in the entire
-world.
+**Notting Hill Carnival** (August bank holiday weekend, London) is Europe's largest street festival, drawing up to 2 million people over two days. Founded in the 1960s by London's Caribbean community, it fills the streets of west London with sound systems, steel bands, elaborate costumed parades, and Caribbean food stalls. Sunday is traditionally for families; Monday is the main parade day.
 
-Leicester Comedy Festival in July is the longest running comedy
-festival in the United Kingdom (originally started in 1994). It
-attracts a whopping 50,000 people each for 180+ events.
+**Hogmanay** (31 December–1 January, Edinburgh and across Scotland) is Scotland's New Year celebration, with street parties, ceilidh dancing and the tradition of first-footing. Edinburgh's street party is one of the largest ticketed New Year's Eve events in the world.
 
-The Cambridge Folk Festival in August is one of the largest music
-events in Europe as well as one of the longest running. It offers some
-of the most famous folk music in the world, attracting in excess of ten
-thousand visitors yearly.
+**Guy Fawkes Night** (5 November) marks the failed Gunpowder Plot of 1605 with bonfires and fireworks displays across the country. Local councils and organised events are the best way to see it; improvised fireworks on the street are a different experience.
 
-Great British Beer Festival takes place in August and is celebration
-of beers from around the world. It is Britain's biggest beer festival
-and attracts approximately 45,000 attendees.
+**The Chelsea Flower Show** (May, London) is the world's most prestigious horticultural show, run by the Royal Horticultural Society. Tickets sell out quickly.
 
-Bristol International Balloon Fiesta held in August is the largest
-hot air balloon festival in Europe. This festival began over 30 years
-ago back in 1978 when Don Cameron, owner of the World's largest balloon
-manufacturer, Cameron Balloons, created this event bringing together
-balloonists from around the world.**
-**
-
-**Spring/Fall Festivals
-**
-
-Bath Fringe Festival takes place between May and June and has over 170
-events in 40+ venues. Bath Fringe claims to be the oldest running
-independent Festival in England, and one of the largest most people’s
-standards.
-
-Fuse Leeds held in May is an international music festival presenting
-an array different music types. It showcases live performances from top
-name musicians and groups with a particular focus on collaborations
-between music and art or music and film.
-
-The Cooper's Hill Cheese Rolling Festival held the last weekend of
-May each year is a pagan festival that began hundreds of years ago - a
-celebration of the onset of summer. Theories say the festival is
-related to age-old fertility rights and the hope of a successful
-harvest.
-
-**Winter Festivals**
-
-London Film Festival in October is the largest film festival in the
-United Kingdom, screening over 300 films from 60 countries and
-presenting the very best of new film from the world of cinema.
-
-Leeds International Film Festival in November is the largest film
-festival in England and shows over 200 films, both commercial and indie
-from around the world.
-
-**Contributors**
-March 12, 2010
-
-March 17, 2010
+**Cooper's Hill Cheese Rolling** (late May, Gloucestershire) is exactly what it sounds like: a wheel of Double Gloucester cheese is rolled down a steep hill and participants chase it. It started as a local tradition and is now a spectacularly chaotic event that draws crowds from around the world.

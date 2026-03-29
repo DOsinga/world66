@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 58 970 119 (July 1998 est.) 
+The UK has a population of around 68 million. England, particularly the southeast and London, is densely populated; Scotland, Wales and Northern Ireland are much more sparsely settled.
 
-**Age structure:** 
+Britain has been shaped by successive waves of immigration throughout its history — Romans, Saxons, Vikings, Normans — and more recently by post-war migration from the Caribbean, South Asia, East Africa, Hong Kong and Eastern Europe. About 18% of the population identifies as Black, Asian or from another ethnic minority background, a figure that is higher in London (around 40%). The country is genuinely multicultural, particularly in its cities, and this is reflected in its food, music and cultural life.
 
-*0-14 years:* 19% (male 5 832 086; female 5 530 679) 
+The four nations have distinct identities. The English tend toward understatement and a certain reserve, though this varies enormously by region. Scots are generally more direct. The Welsh retain a strong sense of national identity, with around 29% of the population speaking Welsh. Northern Ireland's communities have their own complex histories.
 
-*15-64 years:* 65% (male 19 304 762; female 19 032 024) 
+Class distinctions remain real, if harder to define than they once were. Accent is still a social marker, and the British relationship with the monarchy and tradition can be puzzling to outsiders. The UK is officially secular but culturally Protestant in England and Northern Ireland, with significant Catholic, Muslim, Hindu, Sikh and Jewish communities.
 
-*65 years and over:* 16% (male 3 807 710; female 5 462 858) (July 1998 est.) 
-
-**Population growth rate:** 0.25% (1998 est.) 
-
-**Birth rate:** 12.01 births/1 000 population (1998 est.) 
-
-**Death rate:** 10.72 deaths/1 000 population (1998 est.) 
-
-**Net migration rate:** 1.2 migrant(s)/1 000 population (1998 est.) 
-
-**Sex ratio:** 
-
-*at birth:* 1.05 male(s)/female 
-
-*under 15 years:* 1.05 male(s)/female 
-
-*15-64 years:* 1.01 male(s)/female 
-
-*65 years and over:* 0.7 male(s)/female (1998 est.) 
-
-**Infant mortality rate:** 5.87 deaths/1 000 live births (1998 est.) 
-
-**Life expectancy at birth:** 
-
-*total population:* 77.19 years 
-
-*male:* 74.57 years 
-
-*female:* 79.96 years (1998 est.) 
-
-**Total fertility rate:** 1.7 children born/woman (1998 est.) 
-
-**Nationality:** 
-
-*noun:* Briton(s) British (collective plural) 
-
-*adjective:* British 
-
-**Ethnic groups:** English 81.5% Scottish 9.6% Irish 2.4% Welsh 1.9% Ulster 1.8% West Indian Indian Pakistani and other 2.8% 
-
-**Religions:** Anglican 27 million Roman Catholic 9 million Muslim 1 million Presbyterian 800 000 Methodist 760 000 Sikh 400 000 Hindu 350 000 Jewish 300 000 (1991 est.) 
-
-*note:* the UK does not include a question on religion in its census 
-
-**Languages:** English Welsh (about 26% of the population of Wales) Scottish form of Gaelic (about 60 000 in Scotland) 
-
-**Literacy:** 
-
-*definition:* age 15 and over has completed five or more years of schooling 
-
-*total population:* 99% (1978 est.) 
-
-*male:* NA% 
-
-*female:* NA%
+The British sense of humour leans toward irony, understatement and self-deprecation. If someone says your suggestion is "not entirely without merit," it's probably not good. If they say something is "quite good," it might be excellent.

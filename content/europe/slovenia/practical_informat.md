@@ -3,34 +3,30 @@ title: "Practical Information"
 type: section
 ---
 
-**Full name: **Republic of Slovenia (Republika Slovenija)
+**Visas**
 
-**State: **Democratic Republic since 1991
+Slovenia is in the EU and the Schengen Area. Citizens of the EU, USA, UK, Canada, Australia, and many other countries can visit visa-free for up to 90 days within any 180-day period.
 
-**Capital city: **Ljubljana; population: 258,873
+**Money**
 
-**Area:** 20,273 km2
+The currency is the Euro (EUR). Credit and debit cards are widely accepted. ATMs are available in all towns. Slovenia is moderately priced -- cheaper than Austria or Italy, but not a budget destination. A restaurant meal costs 10-20 EUR, a beer 2.50-4 EUR, and a coffee about 1.50-2.50 EUR. The average daily budget for a mid-range traveler is around 75-90 EUR.
 
-**Population:** 2,010,377
+**Language**
 
-**Official language:** Slovene; also Italian and Hungarian in areas with minorities
+Slovenian is the official language. Italian is also official in the coastal area, and Hungarian in the northeast. Most Slovenians speak at least one foreign language -- English is widespread, particularly among younger people. German and Italian are also commonly understood. You will have few language problems as a tourist.
 
-**Anthem:** the seventh stanza of the poem *Zdravljica* (A Toast) by France Prešeren, to a melody by Stanko Premrl
+**Safety**
 
-**Statehood Day:** 25 June
+Slovenia is consistently ranked among the safest countries in the world. Violent crime is extremely rare, and petty crime is minimal even in Ljubljana. It is an excellent destination for solo travelers.
 
-**Currency:** Euro (1 EUR = 100 cents)
+**Water**
+
+Tap water is safe to drink everywhere and is of excellent quality. Slovenia takes pride in its water -- the right to clean drinking water is written into the constitution.
+
+**Electricity**
+
+Slovenia uses 230V with European two-pin plugs (Type C and Type F). UK and US travelers will need an adapter.
 
 **Phone code:** +386
 
-**Time zone:** GMT/UTC +1
-**Internet TLD:** .si
-
-Tolar is no more in use!!!!
-
-**Contributors**
-December 05, 2007
-
-**Currency**
-
-The local currency is the Slovenian Tolar (SIT)
+**Time zone:** Central European Time (GMT+1, GMT+2 in summer)

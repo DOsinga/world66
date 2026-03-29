@@ -1,16 +1,26 @@
 ---
-title: "Getting Around in Slovenia"
+title: "Getting Around"
 type: section
 ---
 
-Getting from the [airport Ljubljana](/europe/slovenia/airport_ljubljana_1/getting_around)
+Slovenia's compact size means nowhere is more than a few hours from anywhere else, and the transport network is well organized.
 
-When visiting slovenia by plane, you will land on Slovenia´s main international airport- Ljubljana or in slovenian aerodrom Jožeta Pučnika.If you don´t have arranged transfer to your destination, there are a couple of possibiltiys. The quickest is to take taxi stationed right in front of exit from airport building. Of course like everywhere on the world this way of traveling is the most costly. Taxi to the capitol Ljubljana, which is some 25 km away will cost you some 45 eur.Much cheaper are low cost taxi companies like **Airtrail** or **Taksi legende** which both offer fixed price 20 eur to Ljubljana city. Problem is just you need to prebook them otherwise you will wait some 20 minutes on your cab, which is not something you want after a long flight.
+**Car**
 
-Even cheaper are shuttle companies standing on parking place across main terminal. They offer transfer to the capital Ljubljana for 8-9 eur, what is a fair price specialy because some of the companies offer door to door service for fixed price. Of course ther is a but inside, like allways. Sometimes you can wait for your shuttle for a full hour and if you travel in company with two other it is cheaper to book low cost taxi for 20 eur. That will cost you less and driver will wait for you in front of the exit,with your name on small board, ready to go.
+A rental car is the best way to see Slovenia, especially for reaching mountain areas, the Vrsic Pass, and smaller towns that buses do not serve well. Roads are well maintained, and driving is straightforward. A motorway vignette is required for highways. Rental cars usually come with one already; verify with the rental company. Fuel prices are regulated by the government and slightly below Western European averages.
 
-Third option is public transport. There is no train from the airport, but there is bus. Bus drives regulary from 5:00h in morning till 20:00h every full hour. Ticket to Ljubljana will cost you 4.5 eur and yourney last approximately 45 minutes.Tickets are purchased on bus, all buses are clean and safe. Checked personaly
+**Bus**
 
-What ever you gona choose people in slovenia are always friendly likewise drivers. In slovenia there is no such thing as obligatory tip. However the habit is to tip at some 10%. One good advice for the end. Please look in the eyes when talking to or shaking hand. That is something slovenians pay great attention. Not looking in the eyes of your counterpart means for them you´re not honest. Honesty and nature is something people in this small but unbelivable beautiful country value the most.
+Buses are the main form of public intercity transport. [Ljubljana](/europe/slovenia/ljubljana) is the central hub, with frequent departures to [Bled](/europe/slovenia/bled) (1.25 hours, about 6-8 EUR), [Piran](/europe/slovenia/piran) and the coast (2-2.5 hours), and [Maribor](/europe/slovenia/maribor) (3 hours). Buses to smaller towns and villages run less frequently but cover most of the country. Buy tickets at the bus station or on board.
 
-Call **+386 41 281 228** or send an email airtrail.slovenia@gmail.com to prebook a low cost taxi from airport Ljubljana.
+**Rail**
+
+Trains connect the main cities but the network is limited compared to the bus system. The Ljubljana-Maribor route is the busiest. The Bohinj Railway through the mountains toward Nova Gorica is one of the most scenic train rides in the country. Trains are comfortable and affordable but not always the fastest option.
+
+**Cycling**
+
+Slovenia is increasingly popular for cycling, with well-marked routes and a growing network of cycle paths. The area around Ljubljana, the Parenzana trail along the coast, and the Soca Valley are particularly good for cycling.
+
+**Ljubljana**
+
+The capital is compact and best explored on foot or by bike. The BicikeLJ bike-sharing system is free for rides under an hour. Public buses are frequent and affordable.

@@ -8,7 +8,7 @@ from django.http import Http404
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page
+from .models import load_page, load_tag_index, load_search_index
 
 
 @lru_cache(maxsize=1)
@@ -79,15 +79,43 @@ def location_or_section(request, path):
         "continent_slug": continent_slug,
         "is_continent": is_continent,
         "markers_json": mark_safe(json.dumps(markers)),
+        "tags": page.tags,
+        "is_poi": page.page_type == "poi",
     })
 
 
-def _marker_from_page(page):
+def search(request):
+    query = request.GET.get("q", "").strip()
+    results = []
+    if query:
+        q_lower = query.lower()
+        index = load_search_index()
+        results = [
+            {"title": title, "url": "/" + url_path, "page_type": page_type}
+            for title_lower, title, url_path, page_type in index
+            if q_lower in title_lower
+        ]
+        results.sort(key=lambda r: (not r["title"].lower().startswith(q_lower), r["title"].lower()))
+    return render(request, "guide/search.html", {"query": query, "results": results})
+
+
+def tag_index(request, tag):
+    index = load_tag_index()
+    pages = index.get(tag, [])
+    if not pages and tag not in index:
+        raise Http404
+    return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
+
+
+_SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks"}
+
+
+def _marker_from_page(page, highlight=False):
     """Extract a map marker dict from a page, or None if no coords."""
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
     if lat is not None and lng is not None:
-        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url()}
+        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url(), "highlight": highlight}
     return None
 
 
@@ -97,6 +125,7 @@ def _collect_markers(page, sections, locations, pois):
     For locations: markers come from child locations (cities in a country).
     For sections: markers come from POIs.
     Also gathers POIs from all sections (including their subdirectories).
+    Sights-section POIs are flagged highlight=True.
     """
     markers = []
     seen = set()
@@ -114,8 +143,9 @@ def _collect_markers(page, sections, locations, pois):
 
     # Gather POIs from inside each section's subdirectory
     for section in sections:
+        is_sight = section.slug in _SIGHT_SLUGS
         for poi in section.pois():
-            add(_marker_from_page(poi))
+            add(_marker_from_page(poi, highlight=is_sight))
 
     return markers
 

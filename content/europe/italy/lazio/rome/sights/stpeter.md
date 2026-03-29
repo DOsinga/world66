@@ -1,13 +1,15 @@
 ---
-title: "St. Peter"
+title: "St. Peter's Basilica & Vatican"
 type: poi
-url: "www.newadvent.org"
-latitude: 46.602292
-longitude: 11.610594
+address: "Piazza San Pietro, 00120 Vatican City"
+url: "www.vatican.va"
+opening_hours: "Basilica daily 07:00–19:00; dome 08:00–18:00 (17:00 in winter); Vatican Museums Tue–Sun 09:00–18:00"
+admission: "Basilica free; dome €6 stairs/€8 lift; Vatican Museums €17–€20 (book online)"
+latitude: 41.9013
+longitude: 12.4520
+tags: ["48 Hours in Rome", "3 Days in Rome"]
 ---
 
-Though neither a cathedral, nor the mother church, this enormous church is in fact the center of the Catholic World, a role once performed by the St John Lateran. From here the pope, the successor of St Peter, tends his flock. The church was built over the grave of St Peter. Because of the location of this tomb on the hill, the St Peter is one of few churches that are not orientated towards the east, but just the other way around. Some people read in this orientation a reference to the crucifixion of St Peter, who was crucified up side down.
+The centre of the Catholic world and one of the largest church buildings ever constructed, built over the tomb of St. Peter on the site of Nero's circus. Michelangelo's dome (finished after his death in 1590) dominates the Rome skyline; the interior — gilded marble, Bernini's bronze baldachin, and mosaic copies of great paintings — is overwhelming in scale.
 
-The present day building is a replacement of the Basilica built by Constantine. Work started about halfway through the 15th century and continued up to the 18th century. Most great high renaissance architects have left their mark on the final design, but most important are Michelangelo and Bernini.
-
-Bernini used the copper plates from the roof of the pantheon to cast the four twisted columns that support the ciborium above the altar.
+The dome climb offers Rome's best elevated view. The Vatican Museums next door house the Sistine Chapel (Michelangelo's ceiling, 1508–1512) — book weeks ahead in summer to skip the entrance queue.

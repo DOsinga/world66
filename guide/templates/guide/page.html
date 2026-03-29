@@ -113,7 +113,7 @@
     {% for key, value in page.properties.items %}
     <tr>
       <th>{{ key }}</th>
-      <td>{% if key == "url" %}<a href="http://{{ value }}">{{ value }}</a>{% elif key == "email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
+      <td>{% if key == "Website" %}<a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>{% elif key == "Email" %}<a href="mailto:{{ value }}">{{ value }}</a>{% else %}{{ value }}{% endif %}</td>
     </tr>
     {% endfor %}
   </table>
@@ -126,14 +126,67 @@
 </div>
 {% endif %}
 
-{% if locations and page.page_type == "location" and locations|length > 30 %}
+{% if page.page_type == "section" and pois %}
+<table class="poi-table">
+  <thead>
+    <tr><th>Place</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    {% for poi in pois %}
+    <tr>
+      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
+      <td class="poi-table-details">
+        {% for key, value in poi.properties.items %}
+        <span class="poi-detail">
+          <span class="poi-detail-key">{{ key }}</span>
+          {% if key == "Website" %}
+          <a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>
+          {% elif key == "Email" %}
+          <a href="mailto:{{ value }}">{{ value }}</a>
+          {% else %}
+          {{ value }}
+          {% endif %}
+        </span>
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
+{% if tags %}
+<div class="tags">
+  {% for tag in tags %}
+  <a href="/tags/{{ tag|urlencode }}" class="tag">{{ tag }}</a>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if locations and page.page_type == "location" %}
 <div class="destinations-section">
+  {% if locations|length > 30 %}
   <h2>All {{ locations|length }} Destinations</h2>
   <div class="destination-columns">
     {% for child in locations %}
     <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
     {% endfor %}
   </div>
+  {% else %}
+  <table class="poi-table">
+    <thead>
+      <tr><th>Place</th><th></th></tr>
+    </thead>
+    <tbody>
+      {% for child in locations %}
+      <tr>
+        <td class="poi-table-name"><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></td>
+        <td class="poi-table-details">{{ child.body|truncatewords:20 }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% endif %}
 </div>
 {% endif %}
 {% endblock %}
@@ -145,11 +198,11 @@ initCountryMap('country-map', '{{ continent_slug|escapejs }}');
 </script>
 {% elif markers_json != "[]" %}
 <script>
-initLocationMap('location-map', {{ markers_json }});
+initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
 </script>
 {% elif lat and lng %}
 <script>
-initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}"}]);
+initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
 </script>
 {% endif %}
 {% endblock %}

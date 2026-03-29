@@ -87,6 +87,15 @@ class Page:
             if k in DISPLAY_PROPERTIES
         }
 
+    @property
+    def tags(self):
+        raw = self.meta.get("tags", [])
+        if isinstance(raw, list):
+            return raw
+        if isinstance(raw, str):
+            return [t.strip() for t in raw.split(",") if t.strip()]
+        return []
+
     def breadcrumbs(self):
         crumbs = []
         parts = self.path.split("/")
@@ -127,9 +136,13 @@ class Page:
 
             elif entry.is_dir():
                 child = load_page(self.path + "/" + entry.name)
-                if child and child.page_type == "location":
-                    locations.append(child)
+                if child:
+                    if child.page_type == "location":
+                        locations.append(child)
+                    elif child.page_type == "section":
+                        sections.append(child)
 
+        sections.sort(key=lambda s: (s.meta.get("order", 99), s.title))
         return sections, locations, pois
 
     def pois(self):
@@ -186,6 +199,82 @@ def load_page(path):
             return _load_page_from_file(md_file, path)
 
     return None
+
+
+def _content_mtime():
+    """Return the most recent modification time across all content files."""
+    return max((f.stat().st_mtime for f in CONTENT_DIR.rglob("*.md")), default=0)
+
+
+_search_index_cache = (None, None)  # (mtime, entries)
+_tag_index_cache = (None, None)     # (mtime, index)
+
+
+def load_search_index():
+    """Return a list of (title_lower, title, url_path) for all content pages."""
+    global _search_index_cache
+    mtime = _content_mtime()
+    if _search_index_cache[0] == mtime:
+        return _search_index_cache[1]
+    entries = []
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, _ = result
+        title = meta.get("title", "")
+        if not title:
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        entries.append((title.lower(), title, url_path, meta.get("type", "location")))
+    _search_index_cache = (mtime, entries)
+    return entries
+
+
+def load_tag_index():
+    """Scan all content files and return a dict mapping tag -> list of Pages."""
+    global _tag_index_cache
+    mtime = _content_mtime()
+    if _tag_index_cache[0] == mtime:
+        return _tag_index_cache[1]
+    index = {}
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, body = result
+        raw_tags = meta.get("tags", [])
+        if not raw_tags:
+            continue
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
+        if not isinstance(raw_tags, list):
+            continue
+        # Derive the URL path from the file path relative to CONTENT_DIR
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        if parts[-1].endswith(".md"):
+            stem = parts[-1][:-3]
+            # If the stem matches the parent directory name, it's the location file
+            if len(parts) >= 2 and stem == parts[-2]:
+                url_path = "/".join(parts[:-1])
+            else:
+                url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        else:
+            url_path = "/".join(parts)
+        page = _load_page_from_file(md_file, url_path)
+        if not page:
+            continue
+        for tag in raw_tags:
+            index.setdefault(tag, []).append(page)
+    _tag_index_cache = (mtime, index)
+    return index
 
 
 @lru_cache(maxsize=1)

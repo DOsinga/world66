@@ -1,6 +1,8 @@
 ---
 title: "Poon Hill"
 type: location
+latitude: 28.400043
+longitude: 83.68954
 ---
 
 Travel Guide

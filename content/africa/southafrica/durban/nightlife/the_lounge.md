@@ -6,6 +6,8 @@ closing_time: "Late"
 email: "info@thelounge.za.org"
 type: "Gay and Lesbian"
 url: "www.thelounge.za.org"
+latitude: -29.834081
+longitude: 31.022286
 ---
 
 Durban's No 1 Alternative Venue - 5 bars, pool tables, lounges and a

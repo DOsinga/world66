@@ -1,6 +1,8 @@
 ---
 title: "Egypt"
 type: location
+latitude: 26.254049
+longitude: 29.267547
 ---
 
 Egypt does not need an introduction. It was the introduction to human civilization itself, and has all the evidence to show for it. 

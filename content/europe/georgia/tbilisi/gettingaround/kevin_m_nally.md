@@ -4,6 +4,8 @@ type: poi
 address: "109 John St"
 email: "knally051279@yahoo.com"
 phone: "Apt 104"
+latitude: -33.894607
+longitude: 150.934743
 ---
 
 The train to ( Turkey) leaves every 30 minutes.

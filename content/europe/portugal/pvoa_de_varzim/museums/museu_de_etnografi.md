@@ -1,6 +1,8 @@
 ---
 title: "Museu de Etnografia e História"
 type: poi
+latitude: 41.142524
+longitude: -8.617755
 ---
 
 Póvoa de Varzim ethnographic museum over the rich and unique fishing history and culture of Póvoa de Varzim in a historic noblesmen's home.

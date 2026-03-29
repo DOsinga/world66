@@ -1,6 +1,8 @@
 ---
 title: "Milwaukee"
 type: location
+latitude: 43.038648
+longitude: -87.909075
 ---
 
 At the very soul of Milwaukee's cultural essence is the rumble of a legendary Harley-Davidson motorcycle and the Miller Brewing Company. Grounded in German-American culture: hard work, cold beer, and lots of food, Milwaukee is built around its pubs. Add to this the party atmosphere generated around the world’s largest music festival, Summerfest; Wisconsin's three pro sports teams: the Brewers, Bucks, and Packers, and the enticing smell of beer, brats and of course cheese, and you get a genuine down-to-earth fun-loving city..

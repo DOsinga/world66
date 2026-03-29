@@ -6,6 +6,8 @@ email: "florists@vsnl.net"
 phone: "9840032104"
 type: "Tourist information"
 url: "www.ChennaiOnlineFlorists.com"
+latitude: 13.029448
+longitude: 80.230906
 ---
 
 Florists

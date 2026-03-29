@@ -4,6 +4,8 @@ type: poi
 address: "Steiner Street & Hayes Street"
 type: "Landmarks"
 url: "www.zurdogo.com"
+latitude: 37.775616
+longitude: -122.432511
 ---
 
 The San Francisco Painted Ladies are a row of Victorian homes located on Steiner Street between Hayes and Grove. When viewed from Alamo Square (the park across the street), the Painted Ladies are in stark contrast to the modern skyline of downtown San Francisco. This contrast has made the Painted Ladies the most famous of the 14,000 Victorian homes in San Francisco.

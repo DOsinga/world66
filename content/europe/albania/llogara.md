@@ -1,6 +1,8 @@
 ---
 title: "Llogara"
 type: location
+latitude: 40.21302
+longitude: 19.575303
 ---
 
 Travel Guide

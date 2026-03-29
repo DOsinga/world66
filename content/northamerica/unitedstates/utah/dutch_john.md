@@ -1,6 +1,8 @@
 ---
 title: "Dutch John"
 type: location
+latitude: 40.929548
+longitude: -109.391282
 ---
 
 Travel Guide

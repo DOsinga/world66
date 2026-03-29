@@ -3,6 +3,8 @@ title: "Piazza Erbe"
 type: poi
 address: "Piazza Erbe"
 type: "Hotspots"
+latitude: 46.067453
+longitude: 11.123893
 ---
 
 Above the white tops of the umbrellas can be seen the column with the

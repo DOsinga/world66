@@ -1,6 +1,8 @@
 ---
 title: "Winery"
 type: location
+latitude: 38.481488
+longitude: -1.310919
 ---
 
 **Bodegas Via Romana**

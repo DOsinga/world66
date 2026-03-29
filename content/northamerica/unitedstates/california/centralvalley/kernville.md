@@ -1,6 +1,8 @@
 ---
 title: "Kernville"
 type: location
+latitude: 35.73308
+longitude: -118.433964
 ---
 
 Travel Guide

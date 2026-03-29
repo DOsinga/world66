@@ -6,6 +6,8 @@ email: "info@zingaro-restaurante.com"
 phone: "005154217662"
 type: "International"
 url: "www.zingaro-restaurante.com"
+latitude: -16.395883
+longitude: -71.535263
 ---
 
 In this place you’ll be able to have a taste of one of the finest traditional and internationals cuisines in Arequipa, they also have a wine bar with a best wine selection....Don't forget to try the homemade desserts!

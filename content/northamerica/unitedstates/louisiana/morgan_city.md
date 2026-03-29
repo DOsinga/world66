@@ -1,6 +1,8 @@
 ---
 title: "Morgan City"
 type: location
+latitude: 29.699375
+longitude: -91.20677
 ---
 
 Travel Guide

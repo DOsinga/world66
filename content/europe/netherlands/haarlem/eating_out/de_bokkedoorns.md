@@ -7,6 +7,8 @@ phone: "023 - 5263600"
 price: "from 45 to 90 euro's"
 type: "First Class"
 url: "www.bokkedoorns.nl"
+latitude: 52.398252
+longitude: 4.566213
 ---
 
 Two Michelin-star restaurant - one of the best in the whole of the Netherlands. Not exactly IN Haarlem, but in the vicinity, on the way from Haarlem/Bloemendaal to the coast. The food is excellent indeed, but a thick wallet is recommended, especially if you want to get some wine on the side.

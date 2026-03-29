@@ -1,6 +1,8 @@
 ---
 title: "Tena"
 type: location
+latitude: -0.943872
+longitude: -78.108398
 ---
 
 Travel Guide

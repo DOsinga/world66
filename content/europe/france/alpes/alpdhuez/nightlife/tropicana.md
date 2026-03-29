@@ -5,6 +5,8 @@ address: "Route du Coulet"
 phone: "04 76 11 31 83"
 type: "Bars & Cafes"
 zipcode: "38750 ALPE D'HUEZ"
+latitude: 45.092186
+longitude: 6.066299
 ---
 
 type: Bars & Cafes

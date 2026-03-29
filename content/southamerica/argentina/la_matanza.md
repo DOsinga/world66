@@ -1,6 +1,8 @@
 ---
 title: "La Matanza"
 type: location
+latitude: -26.572382
+longitude: -60.165058
 ---
 
 Travel Guide

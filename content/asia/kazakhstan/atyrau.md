@@ -1,6 +1,8 @@
 ---
 title: "Atyrau"
 type: location
+latitude: 47.660583
+longitude: 50.806203
 ---
 
 Atyrau (uh-tee-RUH-oo) is the only seaport in Kazakhstan. It is situated on the Caspian Sea. During the times of the Soviet Union, it was an inner port of the Soviet Union. Now, it has become an international port, one of the two points (the other is the railroad station Druzhba that connects Kazakhstan with China) through which Kazakhstan connects with the rest of the world. 

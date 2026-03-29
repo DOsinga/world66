@@ -1,6 +1,8 @@
 ---
 title: "Zennor"
 type: location
+latitude: 50.18769
+longitude: -5.573281
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Ascend Gunung Brinchang"
 type: poi
 address: "Gunung Brinchang"
 type: "Hiking"
+latitude: 4.517429
+longitude: 101.383038
 ---
 
 Hike up Gunung Brinchang, the highest peak in Cameron Highlands, for a breathtaking view of the area.

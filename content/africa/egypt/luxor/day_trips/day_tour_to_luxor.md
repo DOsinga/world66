@@ -5,6 +5,8 @@ address: "11,Mohamed Hamam st,Nasr City,Cairo,Egypt"
 email: "info@goegypt-travel.com"
 phone: "00202 24052246/7/8"
 url: "www.guidetouregypt.com"
+latitude: 30.065541
+longitude: 31.3356
 ---
 
 Day tour to Luxor flying from Sharm $ 330

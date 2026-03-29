@@ -6,6 +6,8 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Hotspots"
 url: "egypttourinfo.com"
+latitude: 30.044388
+longitude: 31.235726
 ---
 
 Wonders await you on the 12 Days: Western Sahara Vacation, where memories and experiences never fail to enthrall and inspire.

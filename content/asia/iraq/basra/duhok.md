@@ -1,6 +1,8 @@
 ---
 title: "Duhok"
 type: location
+latitude: 36.85426
+longitude: 42.992453
 ---
 
 Travel Guide

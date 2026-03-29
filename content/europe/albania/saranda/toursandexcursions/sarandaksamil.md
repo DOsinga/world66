@@ -2,6 +2,8 @@
 title: "Saranda-Ksamil"
 type: poi
 type: "general"
+latitude: 39.772963
+longitude: 20.004636
 ---
 
 Every day is bus line from Saranda to Ksamil. 

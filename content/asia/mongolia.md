@@ -1,6 +1,8 @@
 ---
 title: "Mongolia"
 type: location
+latitude: 46.825039
+longitude: 103.849974
 ---
 
 Mongolia is mainly of interest to the visitor for the rough scenry and wildlife. Horse treks through the country with camping in the traditional tents are a perfect way of diecovering the traditional Mongol way of life. Mongolia has a unique and durable traditional culture, centered around the herding lifestyle. Herders remain semi-nomadic, moving their animals with the seasons as they have for centuries. Half of Mongolia's population is rural, and herding remains the backbone of the Mongolian economy.

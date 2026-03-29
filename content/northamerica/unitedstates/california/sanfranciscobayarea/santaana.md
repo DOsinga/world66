@@ -1,6 +1,8 @@
 ---
 title: "Santa Ana"
 type: location
+latitude: 33.749495
+longitude: -117.873221
 ---
 
 Santa Ana is located in Orange County, next to LA County, and is the

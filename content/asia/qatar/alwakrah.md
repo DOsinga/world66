@@ -1,6 +1,8 @@
 ---
 title: "Al wakrah"
 type: location
+latitude: 25.003745
+longitude: 51.410334
 ---
 
 We currently have no information about Al wakrah.

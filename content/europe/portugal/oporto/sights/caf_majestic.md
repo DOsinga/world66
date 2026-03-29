@@ -4,6 +4,8 @@ type: poi
 address: "Rua de Santa Catarina, 112"
 type: "Hotspots"
 url: "www.alvo.com"
+latitude: 38.709833
+longitude: -9.148333
 ---
 
 More than just a Cafe, "Majestic" tells the history of Porto in the twenties, the political gathering and debate of ideas. It was also the "Belle Époque" period, the time of the writers and artists.

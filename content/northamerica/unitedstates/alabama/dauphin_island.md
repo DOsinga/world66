@@ -1,6 +1,8 @@
 ---
 title: "Dauphin Island"
 type: location
+latitude: 30.254202
+longitude: -88.112482
 ---
 
 Travel Guide

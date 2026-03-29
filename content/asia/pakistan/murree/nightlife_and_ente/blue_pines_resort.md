@@ -6,6 +6,8 @@ email: "info@paktraveler.com"
 phone: "2111283"
 type: "Theatres"
 url: "www.paktraveler.com"
+latitude: 33.91601
+longitude: 73.406261
 ---
 
 Blue Pines Hotel Murree offers one of the best theaters in town.

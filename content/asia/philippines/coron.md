@@ -1,6 +1,8 @@
 ---
 title: "Coron"
 type: location
+latitude: 11.998551
+longitude: 120.205161
 ---
 
 Travel Guide

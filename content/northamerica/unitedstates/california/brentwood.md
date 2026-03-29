@@ -1,6 +1,8 @@
 ---
 title: "Brentwood"
 type: location
+latitude: 37.931777
+longitude: -121.696026
 ---
 
 Travel Guide

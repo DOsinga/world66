@@ -5,6 +5,8 @@ address: "308 Euclid Avenue"
 phone: "216.523.BLUE"
 type: "Concerts"
 url: "www.hob.com"
+latitude: 41.499413
+longitude: -81.690707
 ---
 
 Cleveland has a number of great entertainment venues, and a pretty vibrant nightlife scene. The Flats, located on the banks and at the mouth of the Cuyahoga, were once the hyped-up district to head to for nightlife and entertainment, but it no longer reigns king of the party scene in Cleveland. Still a few remnents of the Flats remain. The Nautica Entertainment Complex contains several establishments worthy establishments in an old converted electric plant on the West Bank of the Flats. Shooters is a restaurant, bar, and sometimes dance club with an excellent deck for dining during warmer months and excellent views of the skyline. This is a real Cleveland institution and an annual destination for many Clevelanders. The old strip of bars and restaurants on the East Bank which is now a ghost town is being torn down to make room for a multi-million development neighborhood to be completed in 2009.

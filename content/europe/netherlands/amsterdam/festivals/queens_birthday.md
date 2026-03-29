@@ -4,6 +4,8 @@ type: poi
 address: "Amsterdam City Centre"
 date: "April 30th"
 url: "www.koninginnedagamsterdam.nl"
+latitude: 53.401629
+longitude: -2.977459
 ---
 
 **

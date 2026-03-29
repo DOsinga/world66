@@ -1,6 +1,8 @@
 ---
 title: "Bahawalpur"
 type: location
+latitude: 29.40295
+longitude: 71.652345
 ---
 
 Travel Guide

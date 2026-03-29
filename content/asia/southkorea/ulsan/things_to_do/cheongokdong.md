@@ -2,6 +2,8 @@
 title: "Cheongokdong"
 type: poi
 type: "Hiking"
+latitude: 37.526904
+longitude: 129.112847
 ---
 
 On the extreme northern fringes of the city, past the airport and supermarket Homever (formerly the Carrefoure) is Cheongokdong. It’s attractions: a pleasant morning/afternoons hike followed by a visit to a Buddhist temple.

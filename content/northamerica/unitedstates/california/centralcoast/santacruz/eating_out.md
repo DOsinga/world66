@@ -6,6 +6,8 @@ phone: "831.427.0135"
 price: "$$"
 type: "Italian"
 url: "www.ristoranteavanti.com"
+latitude: 36.965091
+longitude: -122.041269
 ---
 
 Santa Cruz is one of the best places on the central California coast to eat. The city is so close to the farms that produce quality organic food. Quality ingredients along with innovative chefs produce fantastic food. You can eat cheap and eat well in this town.

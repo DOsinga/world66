@@ -1,6 +1,8 @@
 ---
 title: "Apam"
 type: location
+latitude: 5.283297
+longitude: -0.737975
 ---
 
 We currently have no information about Apam.

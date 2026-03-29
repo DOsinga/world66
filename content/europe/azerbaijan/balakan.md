@@ -1,6 +1,8 @@
 ---
 title: "Balakan"
 type: location
+latitude: 41.731937
+longitude: 46.400188
 ---
 
 We currently have no information about Balakan .

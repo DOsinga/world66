@@ -1,6 +1,8 @@
 ---
 title: "Spring Green"
 type: location
+latitude: 43.176937
+longitude: -90.068048
 ---
 
 Travel Guide

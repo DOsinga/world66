@@ -1,6 +1,8 @@
 ---
 title: "Vagan"
 type: location
+latitude: 68.277687
+longitude: 14.663057
 ---
 
 **VÅGAN** 

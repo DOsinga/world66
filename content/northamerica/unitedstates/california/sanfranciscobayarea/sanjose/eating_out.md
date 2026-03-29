@@ -4,6 +4,8 @@ type: section
 address: "995 S 1st St"
 phone: "408-288-5343"
 type: "Mexican"
+latitude: 37.321082
+longitude: -121.878904
 ---
 
 Thanks to San Jose's large Vietnamese population you will find a variety of Vietnamese restaurants in and around the San Jose area. A handy list of some of these restaurants can be found here:

@@ -1,6 +1,8 @@
 ---
 title: "Ostrava"
 type: location
+latitude: 49.834914
+longitude: 18.282008
 ---
 
 Travel Guide

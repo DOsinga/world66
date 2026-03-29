@@ -1,6 +1,8 @@
 ---
 title: "International"
 type: poi
+latitude: 55.845686
+longitude: -4.177216
 ---
 
 **Restaurants**
@@ -71,7 +73,8 @@ tel: +20 2 3595587
 
 **Fine Touch**
 
-Steaks the American way and a DJ in the weekends. 
+Steaks the American way and a DJ in the weekends.
+ 
 
 address: El Zeini Tower 25 Misr Helwan
 

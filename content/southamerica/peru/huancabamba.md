@@ -1,6 +1,8 @@
 ---
 title: "Huancabamba"
 type: location
+latitude: -5.422078
+longitude: -79.517415
 ---
 
 Travel Guide

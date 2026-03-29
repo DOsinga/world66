@@ -2,6 +2,8 @@
 title: "Renate"
 type: poi
 type: "general"
+latitude: 52.49739
+longitude: 13.465307
 ---
 
 My most favorite place in the evening was the Hyatt Regency across the rhine river from the cathedral. You can sit outside and look across the river and the lights reflect on the water surface.

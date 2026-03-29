@@ -2,6 +2,8 @@
 title: "Park de Berlin"
 type: poi
 type: "Hotspots"
+latitude: 40.450502
+longitude: -3.67563
 ---
 
 This park is decorated with various sculptures made by stones from the former Berlin wall.

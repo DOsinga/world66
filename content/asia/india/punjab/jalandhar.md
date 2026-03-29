@@ -1,6 +1,8 @@
 ---
 title: "Jalandhar"
 type: location
+latitude: 31.292231
+longitude: 75.567888
 ---
 
 Travel Guide

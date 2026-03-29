@@ -1,6 +1,8 @@
 ---
 title: "hardoi"
 type: location
+latitude: 27.336998
+longitude: 80.099823
 ---
 
 Travel Guide

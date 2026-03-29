@@ -6,6 +6,8 @@ address: "14, avenue de la faïencerie"
 closing_time: "4am or open end"
 type: "Clubs and dancing"
 url: "mukomuko.lu"
+latitude: 49.617115
+longitude: 6.121602
 ---
 
 The hippest place to be at the moment, every music style (mostly rnb, house), two rooms.

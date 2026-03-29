@@ -1,6 +1,8 @@
 ---
 title: "Puerto del Carmen"
 type: location
+latitude: 28.920444
+longitude: -13.650684
 ---
 
 If you've booked a flight and appartment this is where you will be staying. Puerto del Carmen is a 10 km long boulevard with hotels, english pubs, italian pizzerias, appartment complexes and lot more fun. 

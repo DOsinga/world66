@@ -1,30 +1,45 @@
 ---
 title: "Drink"
 type: location
+latitude: 54.332448
+longitude: 18.198289
 ---
 
 Night Club "Fox" - Rynek 4
 
- Night Club Disco "Bila" - ul. S¹decka 2
+
+ Night Club Disco "Bila" - ul. S¹decka 2
 
 
 
-  "Beer Club" - ul. BrzeŸnicka
 
- Winiarnia "U Jana" - ul. Bia³a 22  
+ 
+ "Beer Club" - ul. BrzeŸnicka
 
-Drink Bar - ul. Szewska 1  
 
-Bar "Sza³aput" - ul. Ko?ciuszki 15  
+ Winiarnia "U Jana" - ul. Bia³a 22 
+ 
 
-"Piccolo" - Kraszewskiego 13  
+Drink Bar - ul. Szewska 1 
+ 
 
-Bar "Relax" - ul. Brzeska 85   
+Bar "Sza³aput" - ul. Ko?ciuszki 15 
+ 
 
-Bar Mleczny - ul. Floris 3  
+"Piccolo" - Kraszewskiego 13 
+ 
 
-"Bar na Ska³ce" - ul. Strzelecka  
+Bar "Relax" - ul. Brzeska 85 
+ 
+ 
 
-"Kafejka" - ul. Widok  
+Bar Mleczny - ul. Floris 3 
+ 
+
+"Bar na Ska³ce" - ul. Strzelecka 
+ 
+
+"Kafejka" - ul. Widok 
+ 
 
 "Gospoda" - ul. Kazimierza Wielkiego 31

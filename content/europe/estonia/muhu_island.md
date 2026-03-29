@@ -1,6 +1,8 @@
 ---
 title: "Muhu Island"
 type: location
+latitude: 58.595904
+longitude: 23.219646
 ---
 
 Travel Guide

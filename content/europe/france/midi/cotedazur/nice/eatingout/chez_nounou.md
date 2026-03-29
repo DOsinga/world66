@@ -2,6 +2,8 @@
 title: "Chez Nounou"
 type: poi
 type: "French"
+latitude: 46.213688
+longitude: 1.168842
 ---
 
 This restaurant has exceptional bouillabaisse** **and a fabulous beachfront location near Nice. If you have never experienced bouillabaisse and you are in Nice, this is the place to go. Skip the appetizers and avoid the bread, because you have some serious work to do with the quantities of fish and soup you will soon be delivered.

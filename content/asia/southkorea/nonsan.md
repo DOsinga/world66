@@ -1,6 +1,8 @@
 ---
 title: "Nonsan"
 type: location
+latitude: 36.186815
+longitude: 127.098754
 ---
 
 Travel Guide

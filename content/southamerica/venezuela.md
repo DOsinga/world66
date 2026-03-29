@@ -1,6 +1,8 @@
 ---
 title: "Venezuela"
 type: location
+latitude: 8.001871
+longitude: -66.110932
 ---
 
 Venezuela is located on the Carribean coast of South America. It borders on [Guyana](/southamerica/guyana) , [Brazil](/southamerica/brazil) , and [Colombia](/southamerica/colombia) .Venezuela has produced more winners of the Miss Universe per capita than any other country; the statistical proof that the country has many beautiful women. But of course the country has a lot more to offer. 

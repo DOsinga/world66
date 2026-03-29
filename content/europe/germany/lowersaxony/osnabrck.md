@@ -1,6 +1,8 @@
 ---
 title: "Osnabrück"
 type: location
+latitude: 52.27196
+longitude: 8.047635
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Houghton Lake"
 type: location
+latitude: 44.314739
+longitude: -84.76475
 ---
 
 Travel Guide

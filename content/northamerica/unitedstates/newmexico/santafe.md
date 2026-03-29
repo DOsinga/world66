@@ -1,6 +1,8 @@
 ---
 title: "Santa Fe"
 type: location
+latitude: 35.68761
+longitude: -105.938456
 ---
 
 We currently have no information about Santa Fe.

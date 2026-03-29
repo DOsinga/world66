@@ -3,6 +3,8 @@ title: "Adventure Tours"
 type: poi
 email: "info@balitropicaltours.com"
 url: "www.balitropicaltours.com"
+latitude: -8.641545
+longitude: 115.142489
 ---
 
 If you are planning to visit the island of Bali, you definitely made a good choice on that, as Bali has something that you cannot find in most other tourist destinations. Despite having welcomed foreign people from all over the world for over a century, the island and its people haven’t changed their way of living, their habits, their culture. Of course you will find influences brought in by people from other continents, mostly noticed in the south and most developed part of the island, where most tourists stay. In places like Kuta, Sanur and Nusa Dua you will find all ingredients for a perfect relaxing holiday, as there are beautiful beaches, restaurants that serve dishes from all over the world, bars, shops and sport facilities.

@@ -1,6 +1,8 @@
 ---
 title: "Juneau"
 type: location
+latitude: 58.301961
+longitude: -134.419675
 ---
 
 Juneau is the Capital of Alaska.

@@ -1,6 +1,8 @@
 ---
 title: "Wairoa"
 type: location
+latitude: -39.03939
+longitude: 177.427139
 ---
 
 Wairoa is never short of things to see and do. Whether you are a local resident or an international visitor, Wairoa has something for everyone. Following is just a small selection of activities and attractions within the region.

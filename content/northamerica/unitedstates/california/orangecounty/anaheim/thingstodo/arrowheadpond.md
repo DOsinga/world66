@@ -4,6 +4,8 @@ type: poi
 address: "2695 E. Katella Ave. 92806"
 phone: "714-704-2400"
 type: "Spa and Sauna"
+latitude: 33.807832
+longitude: -117.876534
 ---
 
 The Honda Center is home to the National Hockey League's Anaheim Ducks and is a host venure for many concerts and shows.

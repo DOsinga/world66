@@ -1,6 +1,8 @@
 ---
 title: "Pasargadae"
 type: location
+latitude: 30.201652
+longitude: 53.178663
 ---
 
 We currently have no information about Pasargadae.

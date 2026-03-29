@@ -1,6 +1,8 @@
 ---
 title: "Nawanshehr"
 type: location
+latitude: 34.165366
+longitude: 73.26604
 ---
 
 Travel Guide

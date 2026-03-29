@@ -1,6 +1,8 @@
 ---
 title: "Bangkok"
 type: location
+latitude: 13.752494
+longitude: 100.493509
 ---
 
 Thailand’s capital city is a fantastic place to visit. It is the travel hub for the whole Southeast Asian region and definitely a must. Most people come back and forth if they visit the different regions of Thailand, for example [Chiang mai](/asia/thailand/chiangmai) , [Koh Samui](/asia/thailand/kohsamui) or [Phuket](/asia/thailand/phuket) . Its bad reputation for long traffic jams and pollution is not longer justified. At the end of 2000 the new Sky Train has been gone into service and new roads have been built. In comparison to other mega-cities, Bangkok is also a very safe city and has one of the lowest crime rates in the world. 

@@ -1,6 +1,8 @@
 ---
 title: "Spindrift Inn - Monterey"
 type: location
+latitude: 36.615485
+longitude: -121.899593
 ---
 
 Travel Guide

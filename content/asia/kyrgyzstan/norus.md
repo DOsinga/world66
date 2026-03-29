@@ -1,6 +1,8 @@
 ---
 title: "Norus"
 type: location
+latitude: 42.813089
+longitude: 74.808459
 ---
 
 Travel Guide

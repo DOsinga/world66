@@ -1,6 +1,8 @@
 ---
 title: "Fy"
 type: poi
+latitude: 51.523783
+longitude: -0.139949
 ---
 
 Freakscene is Cork's longest running alternative club night, currently enjoying huge success in it's 4th home at **Club One** (near the GPO) on Wednesdays. 

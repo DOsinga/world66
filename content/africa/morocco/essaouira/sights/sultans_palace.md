@@ -2,6 +2,8 @@
 title: "Sultan's Palace"
 type: poi
 type: "Palaces"
+latitude: 35.788476
+longitude: -5.812428
 ---
 
 I really love visiting this

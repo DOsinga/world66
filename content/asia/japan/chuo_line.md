@@ -1,6 +1,8 @@
 ---
 title: "Chuo Line"
 type: location
+latitude: 31.578687
+longitude: 130.555303
 ---
 
 Travel Guide

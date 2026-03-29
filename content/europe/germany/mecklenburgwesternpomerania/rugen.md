@@ -1,6 +1,8 @@
 ---
 title: "Rugen"
 type: location
+latitude: 54.452902
+longitude: 13.388234
 ---
 
 We currently have no information about .

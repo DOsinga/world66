@@ -1,6 +1,8 @@
 ---
 title: "Ullapool"
 type: location
+latitude: 57.89582
+longitude: -5.160223
 ---
 
 Ullapool is a charming seaside town on the nothwest coast between Poolewe and Lochinver. It doesn't have a beach but is scenically situated on Loch Broom. It has more choice for eating, drinking and sleeping than any other town within many miles and ferries to Stornoway in the [Western Isles - the Long Island](/europe/unitedkingdom/scotland/western_isles__th)go from here as well as boat trips to the fabulous Summer Islands and shorter ones to Bird Island. 

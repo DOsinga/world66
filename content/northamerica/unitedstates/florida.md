@@ -1,6 +1,8 @@
 ---
 title: "Florida"
 type: location
+latitude: 27.756767
+longitude: -81.463983
 ---
 
 Aah, Florida! The Sunshine state, home of the Mouse, site of South Beach, hometown of Jimmy Buffet and NASCAR auto racing. This is a state that has built its entire identity around tourism. Why should you come here? Because it is the one place everyone else has visited as well.

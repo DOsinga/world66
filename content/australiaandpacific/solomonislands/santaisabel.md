@@ -1,6 +1,8 @@
 ---
 title: "Santa isabel"
 type: location
+latitude: -8.041199
+longitude: 159.211301
 ---
 
 Santa Isabel is the longest Island in the Solomon Islands, South Pacific. The first european contact was made through this province, and that was made by Alvarode Mendana in 1568. The highest point there is Mount Kubonitu. River Marutho runs down that mount into the ocean at Hofi. Almost all the rivers or streams run down that center point except for those at the other tip of the Island, Katova side. Isabel Province is long but narrow. Estimation population there at the moment 2004 is 30 000. We do have lots of space for more people to come, that is, in comparative to the other provinces. 

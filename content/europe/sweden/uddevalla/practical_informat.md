@@ -4,6 +4,8 @@ type: section
 address: "Kungstorget 4"
 phone: "+46 522 - 99720"
 type: "Tourist information"
+latitude: 57.703643
+longitude: 11.967078
 ---
 
 Miscellaneous practical info.

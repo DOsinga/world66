@@ -4,6 +4,8 @@ type: poi
 address: "300 Main St"
 phone: "(973) 822-2595"
 type: "Chinese"
+latitude: 42.724922
+longitude: -84.549404
 ---
 
 If you're in the mood for tasty noodle sustenence, some beef dumplings

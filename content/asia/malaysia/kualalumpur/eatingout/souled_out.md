@@ -6,6 +6,8 @@ email: "yum_yum@souledout.com.my"
 phone: "03-2300-1955"
 price: "moderate"
 type: "International"
+latitude: 3.162412
+longitude: 101.64945
 ---
 
 Not to be missed: The "SOULed OUT" dancers every night around 10PM.

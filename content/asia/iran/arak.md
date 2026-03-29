@@ -1,6 +1,8 @@
 ---
 title: "Arak"
 type: location
+latitude: 34.086272
+longitude: 49.689388
 ---
 
 Travel Guide

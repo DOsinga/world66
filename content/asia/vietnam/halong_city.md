@@ -1,6 +1,8 @@
 ---
 title: "Halong City"
 type: location
+latitude: 20.948886
+longitude: 107.103507
 ---
 
 Travel Guide

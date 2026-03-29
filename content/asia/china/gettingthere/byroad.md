@@ -1,6 +1,8 @@
 ---
 title: "By Road"
 type: poi
+latitude: 22.272164
+longitude: 114.169105
 ---
 
 **Points of Interest**

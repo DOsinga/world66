@@ -6,6 +6,8 @@ email: "info@ez-snax.com"
 phone: "498-4175, 050-534-7279"
 type: "Fast food"
 url: "ez-snax.com"
+latitude: 40.368979
+longitude: 49.838347
 ---
 
 Ez-Snax offers fast food delivery & takeaway service in Baku. You

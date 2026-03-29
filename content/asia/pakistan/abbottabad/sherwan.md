@@ -1,6 +1,8 @@
 ---
 title: "Sherwan"
 type: location
+latitude: 34.203757
+longitude: 73.070673
 ---
 
 Travel Guide

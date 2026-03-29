@@ -1,6 +1,8 @@
 ---
 title: "Monrovia"
 type: location
+latitude: 6.320356
+longitude: -10.806049
 ---
 
 Named after United States President, James Monroe, this is the capital of Liberia.

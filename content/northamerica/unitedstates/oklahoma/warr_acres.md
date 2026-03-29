@@ -1,6 +1,8 @@
 ---
 title: "Warr Acres"
 type: location
+latitude: 35.522557
+longitude: -97.618935
 ---
 
 Travel Guide

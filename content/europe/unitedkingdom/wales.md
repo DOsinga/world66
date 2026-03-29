@@ -1,6 +1,8 @@
 ---
 title: "Wales"
 type: location
+latitude: 52.292812
+longitude: -3.73893
 ---
 
 The relationship between England and Wales has never been entirely easy. The Saxon king Offa, impatient with constant demarcation disputes, constructed a dyke to seperate the two countries. This was more than 1000 years ago. Still today, a long-distance footpath running from near [Chepstow](/europe/unitedkingdom/wales/chepstow) in the south to Prestatyn in the north follows its route. During the reign of Edward Crompton I the last of the Welsh native princes was killed and Wales passed uneasily under English rule. Trouble flared again with the rebellion of Owain Glyndur in the 15th century, but finally, when the Welsh prince Henry Tudor defeated Richard III at the Battle of Bosworth to become king of England, he paved the way for the 1536 Act of Union, which joined the English and Welsh in restless but perpetual partnership. 

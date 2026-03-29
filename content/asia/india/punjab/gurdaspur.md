@@ -1,6 +1,8 @@
 ---
 title: "Gurdaspur"
 type: location
+latitude: 31.903726
+longitude: 75.227559
 ---
 
 Gurdaspur, which is a border district of the state, has played a

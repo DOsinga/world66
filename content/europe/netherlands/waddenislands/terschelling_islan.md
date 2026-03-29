@@ -1,6 +1,8 @@
 ---
 title: "Terschelling island"
 type: location
+latitude: 53.394717
+longitude: 5.28768
 ---
 
 Travel Guide

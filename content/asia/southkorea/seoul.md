@@ -1,6 +1,8 @@
 ---
 title: "Seoul"
 type: location
+latitude: 37.566679
+longitude: 126.978291
 ---
 
 This capital city (pop. 10 million) set in a pretty valley divided by the Han River covers an area as large as Los Angeles and is home to more than a fifth of the country’s population. Abuzz with traffic and energy it has become one of the best places in the world for those who are there to buy and sell: Its large hotels target the business traveler with impressively equipped executive suites.

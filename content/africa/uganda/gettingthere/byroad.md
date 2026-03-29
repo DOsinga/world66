@@ -1,6 +1,8 @@
 ---
 title: "By road"
 type: poi
+latitude: 0.312767
+longitude: 32.591729
 ---
 
 "/>

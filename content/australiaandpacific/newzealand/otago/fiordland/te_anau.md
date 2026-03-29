@@ -1,6 +1,8 @@
 ---
 title: "Te Anau"
 type: location
+latitude: -45.41449
+longitude: 167.717489
 ---
 
 Travel Guide

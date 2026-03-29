@@ -1,6 +1,8 @@
 ---
 title: "Afghanistan"
 type: location
+latitude: 24.815534
+longitude: 67.026411
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: poi
 address: "3500 Las Vegas Blvd S # R05"
 phone: "(702) 792-9222"
 type: "Seafood"
+latitude: 36.077863
+longitude: -115.172264
 ---
 
 From their famous home in Miami Beach, the crabs have arrived in Vegas!

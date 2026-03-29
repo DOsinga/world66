@@ -1,6 +1,8 @@
 ---
 title: "Woods Hole"
 type: location
+latitude: 41.523875
+longitude: -70.669402
 ---
 
 Travel Guide

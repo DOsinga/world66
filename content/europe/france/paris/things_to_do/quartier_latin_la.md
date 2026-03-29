@@ -3,6 +3,8 @@ title: "Quartier Latin (Latin Quarter)"
 type: poi
 address: "5th Arrondissement"
 type: "Other"
+latitude: 48.845973
+longitude: 2.34435
 ---
 
 The Latin Quarter lies in the 5th Arrondissement around St. Germain, Boulevard St. Michel. Here, visitors can bask in the creative energy of the street performers outside the Centre Pompidou.

@@ -1,6 +1,8 @@
 ---
 title: "Coventry"
 type: location
+latitude: 41.7001
+longitude: -71.682844
 ---
 
 Travel Guide

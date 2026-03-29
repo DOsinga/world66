@@ -1,6 +1,8 @@
 ---
 title: "Humber Bridge"
 type: location
+latitude: 53.707968
+longitude: -0.450105
 ---
 
 The River Humber estuary is the second largest water barrier in England [The Wash is wider.] The bridge spans the estuary a few miles west of [Hull](/europe/unitedkingdom/england/leeds_sheffield_a/hull)and has a main span of over 1,400 meters and the side spans combined add a further 800 meters. This makes it England's biggest bridge and it sometimes has to close because of high side winds.

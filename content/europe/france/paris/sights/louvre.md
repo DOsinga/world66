@@ -1,6 +1,8 @@
 ---
 title: "Louvre"
 type: poi
+latitude: 48.861147
+longitude: 2.338028
 ---
 
 "/>

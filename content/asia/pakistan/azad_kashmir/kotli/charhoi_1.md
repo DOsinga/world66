@@ -1,6 +1,8 @@
 ---
 title: "CHARHOI"
 type: location
+latitude: 33.307242
+longitude: 73.963652
 ---
 
 Travel Guide

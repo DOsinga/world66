@@ -1,6 +1,8 @@
 ---
 title: "Lassithi plateau"
 type: location
+latitude: 35.180857
+longitude: 25.467855
 ---
 
 Travel Guide

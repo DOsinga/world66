@@ -1,6 +1,8 @@
 ---
 title: "Pistoia"
 type: location
+latitude: 43.974096
+longitude: 10.868708
 ---
 
 Travel Guide

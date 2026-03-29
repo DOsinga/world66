@@ -1,6 +1,8 @@
 ---
 title: "Moenjo-daro (Dokri)"
 type: location
+latitude: 27.367071
+longitude: 68.115729
 ---
 
 Travel Guide

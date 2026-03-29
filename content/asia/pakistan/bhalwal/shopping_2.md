@@ -5,6 +5,8 @@ address: "Liaqat Shaheed Road"
 email: "hujjantraders@gmail.com"
 phone: "048.6644084"
 type: "Speciality shops"
+latitude: 32.26938
+longitude: 72.903932
 ---
 
 Cell Phone Shop

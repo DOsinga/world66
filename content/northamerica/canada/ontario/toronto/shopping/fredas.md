@@ -6,6 +6,8 @@ email: "paulina@fredas.com"
 phone: "(416) 703-0304"
 type: "Speciality shops"
 url: "www.fredas.com"
+latitude: 43.643485
+longitude: -79.402791
 ---
 
 Freda's offers a unique shopping experience unlike any other boutique.

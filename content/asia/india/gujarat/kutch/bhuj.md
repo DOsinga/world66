@@ -1,6 +1,8 @@
 ---
 title: "Bhuj"
 type: location
+latitude: 23.247245
+longitude: 69.668339
 ---
 
 Bhuj is the biggest city in the [Kutch](/asia/india/gujarat/kutch) . It is a very old city and worth a visit. It is also an ideal starting point for visiting the Rann of Kutch, a nature reserve where you may see tha famous wil ass of Rann. 

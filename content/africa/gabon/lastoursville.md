@@ -1,6 +1,8 @@
 ---
 title: "Lastoursville"
 type: location
+latitude: -0.810295
+longitude: 12.731025
 ---
 
 We currently have no information about Lastoursville.

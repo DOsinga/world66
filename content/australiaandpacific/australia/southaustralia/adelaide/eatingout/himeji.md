@@ -4,6 +4,8 @@ type: poi
 address: "O’Connell 61"
 phone: "+61 (0)8 8267 5417"
 type: "Japanese"
+latitude: 53.350315
+longitude: -6.260958
 ---
 
 type: Japanese

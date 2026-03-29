@@ -1,6 +1,8 @@
 ---
 title: "Hjo"
 type: location
+latitude: 58.3
+longitude: 14.216667
 ---
 
 Travel Guide

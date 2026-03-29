@@ -1,6 +1,8 @@
 ---
 title: "Yogyakarta"
 type: location
+latitude: -7.977838
+longitude: 110.367226
 ---
 
 Yogya is the main centre of Javanese culture. [Solo](/asia/indonesia/java/solo) is a good runner up, but Yoghya is the number one for traditional dance, Wayang and music. 

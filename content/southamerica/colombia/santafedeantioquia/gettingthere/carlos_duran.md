@@ -4,6 +4,8 @@ type: poi
 address: "Medellin"
 email: "karlos.duran@hotmail.com"
 type: "By Road"
+latitude: 6.269732
+longitude: -75.60256
 ---
 
 From Medellin, take the metro towards Niquia and get off at the Estacion Caribe cross the pedestrian bridge to the (Terminal del Norte).

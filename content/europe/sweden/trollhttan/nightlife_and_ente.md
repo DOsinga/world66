@@ -5,6 +5,8 @@ address: "Torggatan 3"
 phone: "+46 (0)520 448090"
 type: "Pubs"
 url: "www.olearys.se"
+latitude: 63.073754
+longitude: 21.714919
 ---
 
 Both for the the party animal and the sports interested it is quite well provided in Trollhättan, considering that the city is not so big.

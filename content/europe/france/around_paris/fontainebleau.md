@@ -1,6 +1,8 @@
 ---
 title: "Fontainebleau"
 type: location
+latitude: 48.404938
+longitude: 2.701587
 ---
 
 Fontainebleau is a small village just south of Paris, surrounded by forests. It’s a great place to get some fresh air and get out of the chaos Paris usually represents. Furthermore this is an excellent base of operations if you’re seeking tranquility and culture more than the fast life in a megalopolis. 

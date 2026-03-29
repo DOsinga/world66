@@ -3,6 +3,8 @@ title: "The Tass"
 type: poi
 address: "1 High Street, Edinburgh"
 type: "Pubs"
+latitude: 55.950708
+longitude: -3.184422
 ---
 
 Traditional music session every Wednesday night, from just after 9pm till 11.45pm.

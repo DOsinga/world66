@@ -1,6 +1,8 @@
 ---
 title: "Melide"
 type: location
+latitude: 42.914574
+longitude: -8.013614
 ---
 
 Travel Guide

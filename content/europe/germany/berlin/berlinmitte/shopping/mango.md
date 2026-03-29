@@ -5,6 +5,8 @@ address: "Alte Potsdamer Str. 7"
 connections: "S+U Potsdamer Platz, U Mendelssohn-Bartholdy Platz"
 opening_hours: "Mo-Fr 10am -8pm, Sa 9:30am -4pm"
 type: "Fashion"
+latitude: 52.507412
+longitude: 13.374115
 ---
 
 This Spanish company sells stylish modern ladies fashions at reasonable prices. Other branches at Tauentzienstr. 11 in Charlottenburg and in the Schönhauser Alle Arcades.

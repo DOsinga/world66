@@ -7,6 +7,8 @@ email: "sales@sendflowerindia.com"
 phone: "919897064001"
 type: "Shopping centers and malls"
 url: "www.sendflowerindia.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 Send Flower India Send Flowers to India Florists Gift Flowers in India

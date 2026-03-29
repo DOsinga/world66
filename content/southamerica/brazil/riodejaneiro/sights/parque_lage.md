@@ -6,6 +6,8 @@ address: "Escola de Artes Visuais do Parque Lage Rua Jardim Botânico, 414"
 opening_hours: "9:00 - 17:30; weekends until 22:30"
 type: "Parks, Gardens and Zoos"
 url: "www.riodejaneirophotoguide.com"
+latitude: -22.96003
+longitude: -43.212038
 ---
 
 The "Parque Enrique Lage" is a public park in the southern zone (Zona Sul)of Rio de Janeiro, located in the Jardim Botânico neighborhood beside the Lagoa Rodrigo de Freitas, directly at the foot of the Corcovado mountain with the Cristo Redentor statue on its top.

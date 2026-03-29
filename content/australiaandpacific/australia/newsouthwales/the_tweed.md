@@ -1,6 +1,8 @@
 ---
 title: "The Tweed"
 type: location
+latitude: -28.177643
+longitude: 153.544623
 ---
 
 **The Tweed ~ Jewel in the Crown of the Northern Rivers Region on the Far North Coast of NSW, Australia**

@@ -2,6 +2,8 @@
 title: "Family Restaurants"
 type: poi
 type: "Japanese"
+latitude: 35.733836
+longitude: 139.747893
 ---
 
 The various establishments known collectively as “Family Restaurants”

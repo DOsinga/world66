@@ -1,6 +1,8 @@
 ---
 title: "Cambridge"
 type: location
+latitude: 52.205531
+longitude: 0.118664
 ---
 
 Cambridge is one of Britain's smaller cities, but also one of the fastest growing. Only a hundred years ago the population was just 36,000, and the main sources of employment were agriculture and the world-famous University. 

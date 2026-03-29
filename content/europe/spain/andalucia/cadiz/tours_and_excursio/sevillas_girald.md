@@ -5,6 +5,8 @@ address: "Cadiz"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 10.956652
+longitude: 123.305703
 ---
 
 On this full-day private shore excursion you will be taken on a guided walking tour of Sevilla's most important monuments...

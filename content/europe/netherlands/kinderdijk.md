@@ -1,6 +1,8 @@
 ---
 title: "Kinderdijk"
 type: location
+latitude: 51.888695
+longitude: 4.635697
 ---
 
 Kinderdijk is a region located south west of [Rotterdam](/europe/netherlands/rotterdam) famous for the

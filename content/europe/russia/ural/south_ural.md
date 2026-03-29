@@ -1,6 +1,8 @@
 ---
 title: "South Ural"
 type: location
+latitude: 54.256939
+longitude: 57.950404
 ---
 
 Travel Guide

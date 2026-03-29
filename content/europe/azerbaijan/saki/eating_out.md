@@ -6,6 +6,8 @@ email: "farrukh@nuxa .az"
 phone: "+994557957489"
 price: "good price"
 type: "Local"
+latitude: 41.202435
+longitude: 47.171634
 ---
 
 **Restaurants:**

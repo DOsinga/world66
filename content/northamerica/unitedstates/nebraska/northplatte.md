@@ -1,6 +1,8 @@
 ---
 title: "North Platte"
 type: location
+latitude: 41.136833
+longitude: -100.761282
 ---
 
 ..

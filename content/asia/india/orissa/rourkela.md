@@ -1,6 +1,8 @@
 ---
 title: "Rourkela"
 type: location
+latitude: 22.230926
+longitude: 84.86787
 ---
 
 There is a nursery rhyme in Oriya that reads:* "Rourkelare Dina raati, Gadhaa hue luha kete Jati"* . (which means "Rourkela is busy day and night, with making of iron of many kinds") Rourkela (in the Sundergarh district), the steel city of Orissa came into existence in the late fifties with the implementation of first five year plan of India and the tribal land culminated into a beautiful township. Rourkela boasts one of the most modern and largest steel plant of India built with a Indo-German collaboration. Rourkela Steel Plant, owned by SAIL (Steel Authority of India Ltd.) is one of the first few fully integrated steel plants.

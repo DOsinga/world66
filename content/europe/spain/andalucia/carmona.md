@@ -1,6 +1,8 @@
 ---
 title: "Carmona"
 type: location
+latitude: 37.471788
+longitude: -5.641291
 ---
 
 Carmona is quite a small city only a local bus ride from Sevilla and may well prove a cheaper alternative for accommodation. 

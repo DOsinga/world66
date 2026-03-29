@@ -1,6 +1,8 @@
 ---
 title: "Westgate"
 type: location
+latitude: 42.769712
+longitude: -91.996279
 ---
 
 Caught between Campbell and Cupertino, the Westgate region is probably best known for quiet neighborhoods, shopping and the occasional resident seeing what he can edit on a travel site. 

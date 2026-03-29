@@ -1,6 +1,8 @@
 ---
 title: "Taunton"
 type: location
+latitude: 51.014789
+longitude: -3.102909
 ---
 
 Travel Guide

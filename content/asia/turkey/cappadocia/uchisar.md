@@ -1,6 +1,8 @@
 ---
 title: "Uchisar"
 type: location
+latitude: 38.629383
+longitude: 34.804614
 ---
 
 Travel Guide

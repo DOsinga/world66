@@ -7,6 +7,8 @@ opening_hours: "Tues - Fri: 11am to 5pm; Sat: 10am to 5pm"
 phone: "(860) 522-6766"
 type: "Landmarks"
 url: "www.ctosh.org"
+latitude: 41.766095
+longitude: -72.672701
 ---
 
 There are a number of sights in Hartford. The Old State House, the Wadworth Atheneum, The Capitol, amongst others.

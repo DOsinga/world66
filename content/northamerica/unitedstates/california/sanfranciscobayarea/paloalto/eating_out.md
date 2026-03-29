@@ -4,6 +4,8 @@ type: section
 address: "566 Emerson Street"
 phone: "(650) 323-3131"
 type: "American"
+latitude: 37.44389
+longitude: -122.161767
 ---
 
 University Avenue, running from Stanford University to 101, offers a large variety of restaurants. Just park the car in one of the many parking areas in the side roads and take a walk in the evening. There will be a restaurant for every taste.

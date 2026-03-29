@@ -1,6 +1,8 @@
 ---
 title: "Ashtarak"
 type: location
+latitude: 40.288685
+longitude: 44.361306
 ---
 
 Travel Guide

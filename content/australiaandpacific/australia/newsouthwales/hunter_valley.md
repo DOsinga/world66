@@ -1,6 +1,8 @@
 ---
 title: "Hunter Valley"
 type: location
+latitude: -32.450678
+longitude: 150.926241
 ---
 
 The Hunter Valley is NSW's famous wine region. Two hours from Sydney and 40 minutes from Newcastle, the region has has some of the best wine producers in Australia.

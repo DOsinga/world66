@@ -1,6 +1,8 @@
 ---
 title: "CONGO-NILE HIKING TRAIL"
 type: location
+latitude: -1.83521
+longitude: 29.292134
 ---
 
 Travel Guide

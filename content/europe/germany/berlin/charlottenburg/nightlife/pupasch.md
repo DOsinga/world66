@@ -4,6 +4,8 @@ type: poi
 address: "Lietzenburgerstr. 89"
 connections: "U Uhlandstr"
 type: "Disco & Dancing"
+latitude: 52.499658
+longitude: 13.321485
 ---
 
 Hit music from the charts -admission 10 DM including drink token for 5 DM. Singles party every Friday.

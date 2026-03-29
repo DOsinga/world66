@@ -1,6 +1,8 @@
 ---
 title: "Vagar"
 type: location
+latitude: 62.089898
+longitude: -7.234584
 ---
 
 Travel Guide

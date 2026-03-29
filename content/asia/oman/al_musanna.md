@@ -1,6 +1,8 @@
 ---
 title: "AL- Musanna"
 type: location
+latitude: 23.743673
+longitude: 57.578943
 ---
 
 Travel Guide

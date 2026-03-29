@@ -1,6 +1,8 @@
 ---
 title: "ChengDe"
 type: location
+latitude: 40.950715
+longitude: 117.956703
 ---
 
 Travel Guide

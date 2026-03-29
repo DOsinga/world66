@@ -1,6 +1,8 @@
 ---
 title: "Beja"
 type: location
+latitude: 38.015448
+longitude: -7.865037
 ---
 
 We currently have no information about Beja.

@@ -5,6 +5,8 @@ address: "Street 14, Lane 3, Wazir Akbar Khan"
 phone: "0799 567 291"
 price: "$6-$12"
 type: "Indian and Pakistani"
+latitude: 34.538166
+longitude: 69.18147
 ---
 
 Delicious Indian food. They also have Thai and Chinese dishes.

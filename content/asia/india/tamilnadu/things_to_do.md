@@ -7,6 +7,8 @@ email: "Contact@SendFlowersToChennai.com"
 phone: "919897064001"
 type: "Other"
 url: "www.sendflowerstochennai.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 Chennai Florist - Send Flowers to Chennai India Florists to send Flowers to Chennai, Gifts, Roses, Flower Gift Shop India

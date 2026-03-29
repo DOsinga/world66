@@ -1,6 +1,8 @@
 ---
 title: "Vernal"
 type: location
+latitude: 40.455683
+longitude: -109.528474
 ---
 
 Travel Guide

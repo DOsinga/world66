@@ -1,6 +1,8 @@
 ---
 title: "Nukus"
 type: location
+latitude: 42.460023
+longitude: 59.61766
 ---
 
 Nukus is the bleak capital of the autonomous Karakalpak Republic, which comprises roughly the western 1/3 of the country. If you're heading to the Aral Sea or want to see Karakalpak culture, this is your best bet. However, Nukus has one extrordinary museum, that you have to check out if you are around. 

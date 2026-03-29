@@ -1,6 +1,8 @@
 ---
 title: "Koprivshtitsa"
 type: location
+latitude: 42.637532
+longitude: 24.357799
 ---
 
 We currently have no information about Koprivshtitsa.

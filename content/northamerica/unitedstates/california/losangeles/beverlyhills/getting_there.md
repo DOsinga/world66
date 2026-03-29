@@ -5,6 +5,8 @@ address: "Beverly Hills,CA"
 email: "z@zachgriffith.com"
 type: "By Air"
 url: "www.reservationsbeverlyhills.com"
+latitude: 34.06965
+longitude: -118.396306
 ---
 
 This section is dedicated to travel agents that specialize in getting you to Beverly Hills.

@@ -1,6 +1,8 @@
 ---
 title: "Nea Anchialos"
 type: location
+latitude: 39.280167
+longitude: 22.81861
 ---
 
 Travel Guide

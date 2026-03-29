@@ -6,6 +6,8 @@ email: "rafting@lostpaddlerafting.com"
 phone: "1-866-766-7238"
 type: "Rafting"
 url: "www.lostpaddlerafting.com"
+latitude: 38.445354
+longitude: -105.228032
 ---
 
 **Whitewater Rafting**

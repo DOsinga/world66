@@ -5,6 +5,8 @@ address: "9570 Wilshire Boulevard"
 phone: "310-276-4400"
 type: "Speciality shops"
 url: "www.johnvarvatos.com"
+latitude: 34.066687
+longitude: -118.402712
 ---
 
 John Varvatos is a high-end designer of men's fashions with locations around the world and several Beverly Hills locations. The John Varvatos collection features suits, t-shirts, vests, and shoes.

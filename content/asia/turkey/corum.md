@@ -1,6 +1,8 @@
 ---
 title: "Corum"
 type: location
+latitude: 40.549911
+longitude: 34.953734
 ---
 
 Corum is a city in north-central Turkey. It lies on the edge of a

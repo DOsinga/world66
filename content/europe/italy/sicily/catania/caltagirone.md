@@ -1,6 +1,8 @@
 ---
 title: "Caltagirone"
 type: location
+latitude: 37.237201
+longitude: 14.513202
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: poi
 accessibility: "Central MTR"
 address: "G/F, 2 Glenealy, Central"
 phone: "852 2537 2281"
+latitude: 22.279703
+longitude: 114.155237
 ---
 
 v\:* behavior:url(#default#VML);

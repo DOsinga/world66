@@ -1,6 +1,8 @@
 ---
 title: "Quemado"
 type: location
+latitude: 28.948023
+longitude: -100.623971
 ---
 
 Travel Guide

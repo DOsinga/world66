@@ -1,6 +1,8 @@
 ---
 title: "Toms River"
 type: location
+latitude: 39.952839
+longitude: -74.196741
 ---
 
 Toms River is located on the Jersey Shore on the center/southern side of the state in Ocean County. This town has a little bit of everything for everyone. Located on the coast, there are abundant beaches, inlets, and parks for the outdoor-loving soul. For those more inclined to be indoors, there are skating rinks, gyms, and indoor sports centers.

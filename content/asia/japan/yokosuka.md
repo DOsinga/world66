@@ -1,6 +1,8 @@
 ---
 title: "Yokosuka"
 type: location
+latitude: 35.281478
+longitude: 139.67196
 ---
 
 Travel Guide

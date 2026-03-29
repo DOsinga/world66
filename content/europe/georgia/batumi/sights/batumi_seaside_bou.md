@@ -3,6 +3,8 @@ title: "Batumi Seaside Boulevard"
 type: poi
 address: "Batumi"
 type: "Parks, Gardens and Zoos"
+latitude: 41.65095
+longitude: 41.636009
 ---
 
 The seaside park is one of the charms of the city. It was established in 1884. Batumi-dwellers called it "Boulevard". It stretches like a green line, along the seashore, to the north-west of Batumi. Its length has grown from its original 1500m to 7000m. The original project of the seaside park was created by Reseller, a famous German gardener. he did not live long enough to carry out the project and his work was carried on by the equally prominent French gardener, D'Alphonse.

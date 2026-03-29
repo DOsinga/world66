@@ -5,6 +5,8 @@ address: "157 W. Ontario"
 closing_time: "9-4am"
 type: "Clubs and dancing"
 zipcode: "www.demomix.com"
+latitude: 34.065846
+longitude: -117.64843
 ---
 
 Chicago's Premiere Sexy Upscale Downtown club.

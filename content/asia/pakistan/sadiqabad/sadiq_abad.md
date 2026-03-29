@@ -1,6 +1,8 @@
 ---
 title: "sadiq abad"
 type: location
+latitude: 27.573491
+longitude: 67.840782
 ---
 
 Travel Guide

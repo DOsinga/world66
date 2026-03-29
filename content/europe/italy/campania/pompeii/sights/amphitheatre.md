@@ -1,11 +1,14 @@
 ---
 title: "Amphitheatre"
 type: poi
+latitude: 41.890257
+longitude: 12.492384
 ---
 
 The amphitheatre was once the warm hart of Pompeii entertainment. Gladiator fights were immensly popular in the Roman empire, and especially in Campania, where fights took place as early as the fouth century BC. One battle in the theatre of Pompeii was so large and bloody, that it even made Tacitus' Annales.
 
- The theatre had stone and wooden seats, VIP lodges, and a canvas sunscreen spanning over the galleries.
+
+ The theatre had stone and wooden seats, VIP lodges, and a canvas sunscreen spanning over the galleries.
 
 Annales.
 

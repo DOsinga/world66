@@ -1,6 +1,8 @@
 ---
 title: "Chamonix"
 type: location
+latitude: 45.92467
+longitude: 6.872751
 ---
 
 Travel Guide

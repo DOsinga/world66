@@ -4,6 +4,8 @@ type: poi
 address: "11 Km Delhi Road"
 opening_hours: "7 am to 7 pm"
 type: "Palaces"
+latitude: -28.576742
+longitude: 29.77717
 ---
 
 Amber, the ancient capital of Jaipur state is a magnificient piece of architecture with perfect blend of Mughal and Rajput style.

@@ -1,6 +1,8 @@
 ---
 title: "Ascoli Piceno"
 type: location
+latitude: 42.88342
+longitude: 13.539593
 ---
 
 Travel Guide

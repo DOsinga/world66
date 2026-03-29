@@ -1,6 +1,8 @@
 ---
 title: "Aragatsotn Marz"
 type: location
+latitude: 40.296791
+longitude: 44.360961
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "jonathan"
 type: poi
 email: "xr200_jonathan@yahoo.com"
 type: "Local"
+latitude: 6.126579
+longitude: 125.153443
 ---
 
 Restaurant service in Tuguegarao is so poor compared to other cities in the philippines. Tka efor instance - Cafe Michelle of Hotel Roma. Its got good architecture, nice lightng, cool rustic furniture, swide space and comfortable airconditining. Downside, your lunch i served one hour after ordering. GOODNESS! YOur lightbeer is served in 30 minutes. Your bill is given 1 hour after requesting. AND YOU HAVE TO FOLLOW-IT-UP AT LEAST 4 TIMES FOR EACH ORDER.

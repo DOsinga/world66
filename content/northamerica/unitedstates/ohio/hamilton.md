@@ -1,6 +1,8 @@
 ---
 title: "Hamilton"
 type: location
+latitude: 31.642935
+longitude: -97.971597
 ---
 
 Travel Guide

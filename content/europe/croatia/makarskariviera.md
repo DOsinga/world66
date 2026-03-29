@@ -1,6 +1,8 @@
 ---
 title: "Makarska riviera"
 type: location
+latitude: 43.235537
+longitude: 17.090723
 ---
 
 Makarska riviera is one of the most beautiful parts of adriatic coast ( and many says THE most beautiful ). 

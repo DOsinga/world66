@@ -6,6 +6,8 @@ email: "internet@theinkaadventure.com"
 phone: "084-9932430"
 type: "Tourist information"
 url: "www.theinkaadventure.com"
+latitude: -13.517089
+longitude: -71.978536
 ---
 
 It is advisable NOT to drink tap water in Peru. The Peruvians boil their own water from the fountains or only drink bottled water.

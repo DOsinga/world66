@@ -1,6 +1,8 @@
 ---
 title: "Nakuru"
 type: location
+latitude: -0.280272
+longitude: 36.071205
 ---
 
 Travel Guide

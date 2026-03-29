@@ -2,6 +2,8 @@
 title: "Piazza Vecchia"
 type: poi
 type: "Squares"
+latitude: 45.704038
+longitude: 9.662898
 ---
 
 The best thing about Italy is the idea of the town square. It's a central focusing point where you can go to see people, have an ice cream, an aperitif or dinner and sometimes even take in a puppet show or medieval dancing.

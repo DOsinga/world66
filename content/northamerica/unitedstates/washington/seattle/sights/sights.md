@@ -4,6 +4,8 @@ type: poi
 address: "2101 N Northlake Way"
 type: "Hotspots"
 url: "www.cityofseattle.net"
+latitude: 47.646902
+longitude: -122.333805
 ---
 
 Between the University District and Wallingford area. It has a great view of the waterfront of Downtown Seattle and is often packed for the 4th of July fireworks display.

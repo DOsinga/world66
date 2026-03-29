@@ -7,6 +7,8 @@ email: "igcbangalore@yahoo.com"
 phone: "9620714436"
 type: "Shopping centers and malls"
 url: "www.indiangiftscenter.com"
+latitude: 23.793627
+longitude: 90.360084
 ---
 
 Indian Gifts Center offers gifts, flowers, cake, chocolates, sweets delivery to Hyderabad on birthday,

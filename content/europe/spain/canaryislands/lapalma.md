@@ -1,6 +1,8 @@
 ---
 title: "La Palma"
 type: location
+latitude: 28.655116
+longitude: -17.857269
 ---
 
 La Palma, the third most populated island, is a long way from experiencing the tourist growth sustained by Gran Canaria and Tenerife. Its scenic beauty, peace and quiet, local color, and enormous possibilities offered for rural tourism have made it focus on visitors wishing to combine rest and relaxation with the pleasures of nature.

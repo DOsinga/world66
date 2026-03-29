@@ -7,6 +7,8 @@ phone: "34954223583"
 type: "Spanish"
 url: "www.barriosantacruz.com"
 zipcode: "41004"
+latitude: 37.385063
+longitude: -5.989787
 ---
 
 **Restaurant **SANTA CRUZ. In Santa Cruz District, Sevilla. 

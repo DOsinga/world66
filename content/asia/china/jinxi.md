@@ -1,6 +1,8 @@
 ---
 title: "Jinxi"
 type: location
+latitude: 40.751544
+longitude: 120.840479
 ---
 
 Travel Guide

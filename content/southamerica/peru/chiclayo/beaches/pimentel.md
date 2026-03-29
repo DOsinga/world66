@@ -1,6 +1,8 @@
 ---
 title: "Pimentel"
 type: poi
+latitude: -6.835836
+longitude: -79.935832
 ---
 
 This village has an attractive beach, with sufficient touristic infrastructure to keep you happy. Quite a few rich people have appartments here, gining it a feel remotely similar to Blankenberge. There are plenty of bars and restaurants.

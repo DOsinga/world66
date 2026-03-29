@@ -1,6 +1,8 @@
 ---
 title: "Wayanad"
 type: location
+latitude: 11.715129
+longitude: 76.127118
 ---
 
 Travel Guide

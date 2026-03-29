@@ -1,6 +1,8 @@
 ---
 title: "Saksun"
 type: location
+latitude: 62.24423
+longitude: -7.171247
 ---
 
 Travel Guide

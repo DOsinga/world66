@@ -6,6 +6,8 @@ closing_time: "3:00 am"
 phone: "035 561575"
 type: "Clubs and dancing"
 url: "www.bobadilla.it"
+latitude: 45.644765
+longitude: 9.588247
 ---
 
 Dance, dine, listen to music and have a drink.

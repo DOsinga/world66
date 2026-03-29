@@ -1,6 +1,8 @@
 ---
 title: "Toila"
 type: location
+latitude: 59.420903
+longitude: 27.513252
 ---
 
 Travel Guide

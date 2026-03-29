@@ -5,6 +5,8 @@ address: "217 E. 49th St"
 phone: "(212) 888-2839"
 type: "Indian and Pakistani"
 url: "www.bukharagrillusa.com"
+latitude: 40.754998
+longitude: -73.970288
 ---
 
 Bukhara Grill is offering New York a new dining experience...flavors of the long-forgotten Northwest frontiers of India.

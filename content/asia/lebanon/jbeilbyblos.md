@@ -1,6 +1,8 @@
 ---
 title: "Jbeil (Byblos)"
 type: location
+latitude: 34.120244
+longitude: 35.651858
 ---
 
 The ancient city of Byblos or Jbeil, 37 kilometers North of Beirut, is one of the oldest towns in the world, its history goes back over 9000 years. It has been continuously occupied by many civilizations for seven thousand years. Phoenicians, Egyptians, Assyrians, Greeks, Romans, Arabs, Crusaders and Ottomans all left their imprint on the city. The traces they left in this area make it one of the richest archaeological sites in the Middle East. 

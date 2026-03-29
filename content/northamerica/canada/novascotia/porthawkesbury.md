@@ -1,6 +1,8 @@
 ---
 title: "Port Hawkesbury"
 type: location
+latitude: 45.618085
+longitude: -61.357459
 ---
 
 We currently have no information about Port Hawkesbury.

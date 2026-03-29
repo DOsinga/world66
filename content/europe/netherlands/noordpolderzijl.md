@@ -1,6 +1,8 @@
 ---
 title: "Noordpolderzijl"
 type: location
+latitude: 53.432069
+longitude: 6.582255
 ---
 
 Don't expect a booming harbour village here; there's just about a landing stage for 3 or 4 ships and a cafe... but it will be hard to find a more authentic spot in the whole Netherlands...

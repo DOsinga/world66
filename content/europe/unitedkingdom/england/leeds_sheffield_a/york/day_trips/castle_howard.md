@@ -2,6 +2,8 @@
 title: "Castle Howard"
 type: poi
 url: "www.castlehoward.co.uk"
+latitude: 54.121563
+longitude: -0.906648
 ---
 
 Castle Howard is within easy driving distance of York and is well worth

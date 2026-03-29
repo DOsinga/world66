@@ -6,6 +6,8 @@ phone: "(56-2) 2358649 - 2641400"
 price: "$35 and above"
 type: "Local"
 url: "www.aquiestacoco.cl"
+latitude: -33.424009
+longitude: -70.6167
 ---
 
 One of the best seafood restaurants in Santiago. As for Chilean cuisine, seafood is where it's at. Don't miss the the *machas* (chilean clams) or the *Ceviche*. The wine cellar is also very good.

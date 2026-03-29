@@ -5,6 +5,8 @@ address: "Cebu City IT"
 email: "info@c-stream.net"
 type: "Embassies and Consulates"
 url: "www.c-stream.net"
+latitude: 10.330798
+longitude: 123.906826
 ---
 
 Cebu is a hotbed of IT outsourcing companies. Just three years ago, Web design and development for example was unheard of other than local companies. Today, however, they are one of dozens of niches that are popping right and left with foreign investment.

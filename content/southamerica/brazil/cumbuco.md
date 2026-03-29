@@ -1,6 +1,8 @@
 ---
 title: "Cumbuco"
 type: location
+latitude: -3.625859
+longitude: -38.725635
 ---
 
 Cumbuco is a small fishers village 25 km north from the million-city Fortaleza. Around Fortaleza is Cumbuco the best place to stay. With nice uncrowded sandy beaches and palm trees everywhere. Characteristic for Cumbuco is how it is situated. At one side the nice blue sea at the other side the big sand dunes. The nice small centre of Cumbuco is build around a town square like they do this in Brazil. In the middle of this Town Square is a football field. Where they play football every day. Around the town square are lots of restaurants and small super markets. Brazil has excellent value for money. 

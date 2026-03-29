@@ -5,6 +5,8 @@ address: "8440 Sunset Blvd."
 phone: "323 650 8999"
 type: "Pubs"
 url: "www.mondrianhotel.com"
+latitude: 34.094383
+longitude: -118.374365
 ---
 
 For those opting for a casual communal dining experience, Seabar serves innovative sushi, sake and specialty drinks nightly, offering 32 ringside seats. Located in the Mondrian's lobby, the dramatic 35-foot long Philippe Starck illuminated alabaster table is the ideal spot for a quick, informal bite, a casual drink, and non-stop people-watching. Seabar is also available for private functions.

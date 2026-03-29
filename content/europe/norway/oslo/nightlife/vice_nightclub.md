@@ -7,6 +7,8 @@ email: "vice@vice.no"
 type: "Erotic clubs and bars"
 url: "www.vice.no"
 zipcode: "0100"
+latitude: 59.915143
+longitude: 10.741124
 ---
 
 VICE is a 80s nightclub situated in Downtown Oslo. The exclusive nightclub captures the glitz and glamour of the 80s; with neonlights, dancers, checkboard-illuminated dancefloor and cocktaildrinks. Favorite partyspot of Oslos trendiest and most beautiful bunch. The nightclub is open all weekends, and entrance is invitation only.

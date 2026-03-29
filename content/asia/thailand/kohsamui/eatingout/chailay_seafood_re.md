@@ -8,6 +8,8 @@ phone: "0894 647 125"
 price: "50 Baht +"
 type: "Thai"
 url: "www.chailayseafood.com"
+latitude: 9.565004
+longitude: 100.06219
 ---
 
 ***Authentic Thai food at authentic Thai prices served in a stunning

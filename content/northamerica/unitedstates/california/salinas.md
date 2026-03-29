@@ -1,6 +1,8 @@
 ---
 title: "Salinas"
 type: location
+latitude: 36.674412
+longitude: -121.655037
 ---
 
 Travel Guide

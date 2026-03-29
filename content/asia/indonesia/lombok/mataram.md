@@ -1,6 +1,8 @@
 ---
 title: "Mataram"
 type: location
+latitude: -8.583773
+longitude: 116.10685
 ---
 
 Mataram is the capital of Lombok. The town actually consists of four different towns Ampenan, Mataram, Cakranegara (Cakra) and Sweta. 

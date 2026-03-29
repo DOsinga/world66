@@ -2,6 +2,8 @@
 title: "By Air"
 type: poi
 type: "By Air"
+latitude: 32.562422
+longitude: 76.180594
 ---
 
 Almost every big city in this country has an airport. Some major points-of-entry are:

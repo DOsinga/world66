@@ -1,6 +1,8 @@
 ---
 title: "Geraldton"
 type: location
+latitude: -28.77035
+longitude: 114.614716
 ---
 
 **S**ituated 400 kilometres North of [Perth](/australiaandpacific/australia/westernaustralia/perth) in the heart of the Batavia Coast, Geraldton is the major regional City of the Midwest region of Western Australia. Geraldton is the main hub for the fishing, farming and mining industries of the surrounding areas and serves as the only deep-water port for the region. The surrounding waters are well known for quality rock lobster fishing and Geraldton is often referred to as a world leader in this area, a result of the pristine reefs and islands created by the Leeuwin current flowing Southward along the coast in this region. 

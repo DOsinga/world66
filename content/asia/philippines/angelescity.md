@@ -1,6 +1,8 @@
 ---
 title: "Angeles City"
 type: location
+latitude: 15.138935
+longitude: 120.587532
 ---
 
 Travel Guide

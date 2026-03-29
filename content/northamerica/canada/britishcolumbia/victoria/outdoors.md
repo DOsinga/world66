@@ -1,11 +1,14 @@
 ---
 title: "Things to do"
 type: location
+latitude: 43.647892
+longitude: -79.384206
 ---
 
 Use Victoria as your base to explore the neighbouring region.
 
- 
+
+ 
 
 
 
@@ -17,15 +20,22 @@ Offer individual & group tours, destination management and pre/post convention t
 
 **First Island Tours . **
 
-Year-round and all inclusive personalized tours.  Tel: 250 658-5367 Fax: 250 658-8169  Address: 5060 Cordova Bay Rd Victoria BC V8Y 2K4  
+Year-round and all inclusive personalized tours. 
+ Tel: 250 658-5367 Fax: 250 658-8169 
+ Address: 5060 Cordova Bay Rd Victoria BC V8Y 2K4 
+ 
 
 **Johathan Touristik Inc. . **
 
-Vacation opportunities including kayaking with killer whales, watching grizzly bears, or exploring the Island's beautiful regions.  Tel: 1 (250) 245-4220 Fax: 1 (250) 245-4261  Address: P.O. Box 2781 Ladysmith BC V0R 2E0  
+Vacation opportunities including kayaking with killer whales, watching grizzly bears, or exploring the Island's beautiful regions. 
+ Tel: 1 (250) 245-4220 Fax: 1 (250) 245-4261 
+ Address: P.O. Box 2781 Ladysmith BC V0R 2E0 
+ 
 
 **Salt Spring Island Tours . **
 
-Packaged or custom tours originating in Vancouver or Victoria to Salt Spring Island. Choose from predesigned packages including transportation, ferries, accommodations and activities or build one to suit your special requirements. Daytrips, weekends, on-island sightseeing, parties or weddings.  [more..](/northamerica/canada/britishcolumbia/victoria/outdoors/saltspringislandtours)
+Packaged or custom tours originating in Vancouver or Victoria to Salt Spring Island. Choose from predesigned packages including transportation, ferries, accommodations and activities or build one to suit your special requirements. Daytrips, weekends, on-island sightseeing, parties or weddings. 
+ [more..](/northamerica/canada/britishcolumbia/victoria/outdoors/saltspringislandtours)
 
 **The Great Canadian Adventure Company . **
 

@@ -1,6 +1,8 @@
 ---
 title: "Komarna"
 type: location
+latitude: 42.945522
+longitude: 17.533784
 ---
 
 Travel Guide

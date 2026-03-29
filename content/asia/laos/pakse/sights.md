@@ -4,6 +4,8 @@ type: section
 address: "Champassak"
 opening_hours: "8am - 4.30pm"
 type: "Landmarks"
+latitude: 14.882847
+longitude: 105.842079
 ---
 
 There are a number of sights in and around Pakse

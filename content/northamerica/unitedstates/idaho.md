@@ -1,6 +1,8 @@
 ---
 title: "Idaho"
 type: location
+latitude: 43.644764
+longitude: -114.015407
 ---
 
 Idaho offers great outdoor opportunities. [The Panhandle area](/northamerica/unitedstates/idaho/thepanhandlearea) has more than 2000 lakes, great rivers with kayaking opportunities. [Sun valley](/northamerica/unitedstates/idaho/sunvalley) has some of the best skiing possibilities in the US. [Wallace](/northamerica/unitedstates/idaho/sunvalley/wallace) is a small town in the middle of historic mining area. The mountains are all around and the scenery is great. Wallace is also the town they used in the filming of "Dantes Peak".

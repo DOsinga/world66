@@ -2,6 +2,8 @@
 title: "Taktsang Monastery (Tiger Nest)"
 type: poi
 type: "Monasteries"
+latitude: 27.491932
+longitude: 89.363445
 ---
 
 The beautiful and sacred Taktsang Monastery located about 20 minutes drive north of [Paro](/asia/bhutan/paro) is a must see. The place where the Guru Rimpoche flew over the Himilaya from Tibet in the 7th century on the back of a flying Tigress is said to be the origin of Bhuddism in Bhutan. From the parking lot at the base of the hill it is about a 2 hour hike to the best view point. It is often closed to the public but just seeing it from the outside is well worth the effort.

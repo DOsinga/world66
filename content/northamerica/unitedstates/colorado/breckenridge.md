@@ -1,6 +1,8 @@
 ---
 title: "Breckenridge"
 type: location
+latitude: 32.755479
+longitude: -98.90268
 ---
 
 We currently have no information about .

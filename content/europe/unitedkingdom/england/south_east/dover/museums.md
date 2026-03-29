@@ -3,6 +3,8 @@ title: "Museums in Dover"
 type: section
 phone: "01304 201066"
 type: "general"
+latitude: 51.124729
+longitude: 1.313218
 ---
 
 ### [Dover Museum](/europe/unitedkingdom/england/south_east/dover/museums/dovermuseum)

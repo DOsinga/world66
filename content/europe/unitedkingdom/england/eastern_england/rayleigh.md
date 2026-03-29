@@ -1,6 +1,8 @@
 ---
 title: "Rayleigh"
 type: location
+latitude: 51.586884
+longitude: 0.606311
 ---
 
 A reasonable size town in SE Essex that offers a few attractions for the tourist. A Dutch Cottage (Thattched roof dwelling that used to be at the toll gate to enter town in past times), Church, Castle Mount & a windmill.

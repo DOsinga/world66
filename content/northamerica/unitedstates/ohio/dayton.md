@@ -1,6 +1,8 @@
 ---
 title: "Dayton"
 type: location
+latitude: 39.758948
+longitude: -84.191607
 ---
 
 Dayton has continued to progress in a growth of industrial power, in its blossoming as a center of high technology, research and information services, and in its development as a service and distribution center. In transportation, Dayton is the hub of one of the largest "90-Minute" markets in the nation. 

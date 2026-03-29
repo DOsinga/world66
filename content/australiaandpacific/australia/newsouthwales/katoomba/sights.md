@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Landmarks"
+latitude: -37.743586
+longitude: 142.023179
 ---
 
 The mountains are the main sights in general, but there are a few other things travellers can do while visiting Katoomba.

@@ -1,6 +1,8 @@
 ---
 title: "Les Beaux de Provence"
 type: location
+latitude: 43.234892
+longitude: 5.413336
 ---
 
 Amazing, that's the first word that springs to mind thinking about Les Beaux de Provence. This it true for both the village itself and the landscape surrounding it.

@@ -1,6 +1,8 @@
 ---
 title: "Sadarak"
 type: location
+latitude: 39.672741
+longitude: 44.913874
 ---
 
 Travel Guide

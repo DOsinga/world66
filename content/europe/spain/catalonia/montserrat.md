@@ -1,6 +1,8 @@
 ---
 title: "Montserrat"
 type: location
+latitude: 39.357649
+longitude: -0.6031
 ---
 
 Montserrat is the spiritual heart of Catalonia and here you can find the high peaks of the Serra de Montserrat. These weird sawtoothed peaks have given rise to countless legends: Here, Parsifal found the Holy Grail, St Peter left a statue of the Virgin Mary and Wagner sought inspiration for his opera.

@@ -1,6 +1,8 @@
 ---
 title: "Ponferrada"
 type: location
+latitude: 42.545412
+longitude: -6.593872
 ---
 
 **Ponferrada**, the origin

@@ -5,6 +5,8 @@ address: "Enschotsestraat  115"
 phone: "+31 (0)13 543 8931"
 type: "Pubs"
 zipcode: "5014DD"
+latitude: 51.565348
+longitude: 5.099918
 ---
 
 type: Pubs

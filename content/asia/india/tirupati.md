@@ -1,6 +1,8 @@
 ---
 title: "TIRUPATI"
 type: location
+latitude: 13.631637
+longitude: 79.423171
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Kanawat"
 type: location
+latitude: 32.755418
+longitude: 36.616865
 ---
 
 We currently have no information about Kanawat.

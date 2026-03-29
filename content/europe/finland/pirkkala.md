@@ -1,6 +1,8 @@
 ---
 title: "Pirkkala"
 type: location
+latitude: 61.466146
+longitude: 23.646265
 ---
 
 Travel Guide

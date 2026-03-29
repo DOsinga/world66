@@ -1,6 +1,8 @@
 ---
 title: "Erbent"
 type: location
+latitude: 41.85255
+longitude: 59.933487
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "isak khel"
 type: location
+latitude: 32.503912
+longitude: 70.962833
 ---
 
 Travel Guide

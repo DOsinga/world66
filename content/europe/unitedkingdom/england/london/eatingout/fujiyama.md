@@ -6,6 +6,8 @@ phone: "020 7737 2369"
 price: "£5-7 Main Course."
 type: "Japanese"
 url: "www.newfujiyama.com"
+latitude: 51.461339
+longitude: -0.111674
 ---
 
 Fujiyama is a Japanese noodle bar, the food isn't vastly different from somewhere like Wagamama's but here it's much smaller and friendlier. It's very good value for money, for about £6 you get a plate of noodles that will fill up any big appetite.

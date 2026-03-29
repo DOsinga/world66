@@ -1,6 +1,8 @@
 ---
 title: "Sang Kee Peking Duck House"
 type: poi
+latitude: 39.9564
+longitude: -75.154173
 ---
 
 A modest-looking establishment on the edge of Philadelphia's Chinatown, but one of the best Chinese restaurants in the city. The food is outstanding, service is fast, and it's quite cheap. I went there regularly when I was in college, and revisit every chance I get. The restaurant was renovated a few years ago, and replaced its crowded formica-and-linoleum grittiness for something brighter and friendlier; fortunately, they didn't touch the food.

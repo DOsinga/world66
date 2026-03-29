@@ -1,6 +1,8 @@
 ---
 title: "Arad"
 type: location
+latitude: 46.175379
+longitude: 21.319634
 ---
 
 We currently have no information about Arad.

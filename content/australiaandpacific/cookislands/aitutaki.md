@@ -1,6 +1,8 @@
 ---
 title: "Aitutaki"
 type: location
+latitude: -18.888378
+longitude: -159.783188
 ---
 
 We currently have no information about Aitutaki.

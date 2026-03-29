@@ -1,6 +1,8 @@
 ---
 title: "Figuig"
 type: location
+latitude: 32.726313
+longitude: -2.644627
 ---
 
 If you are the adventurous type, the desert trip from Er-Rachidia to Figuig will blow your mind. It is a 10 hour journey through the isolated lands of Morocco, dominated by spectacular red mountains. While peering out the window of your bus, you’ll notice there is very little human presence in the arid landscape, only a couple mining villages and military outposts. You’ll probably have to change buses at Bouarfa , a lovely place with a couple of hotels, if you need to rest. 

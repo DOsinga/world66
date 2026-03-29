@@ -5,6 +5,8 @@ address: "Colden Common,Winchester Hampshire"
 type: "Parks, Gardens and Zoos"
 url: "www.marwell.org.uk"
 zipcode: "SO21 1JH"
+latitude: 50.99882
+longitude: -1.317143
 ---
 
 see some of the most beautiful and interesting animals in the world. Marwell has 200 different species from tropical frogs to big cats, from little lovebirds to awesome ostrich. Marwell is a delightful setting for our precious rare animals and it’s a great day out for everyone.

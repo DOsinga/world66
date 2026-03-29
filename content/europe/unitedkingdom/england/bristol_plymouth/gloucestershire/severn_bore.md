@@ -1,6 +1,8 @@
 ---
 title: "Severn Bore"
 type: location
+latitude: 51.807553
+longitude: -2.448843
 ---
 
 Travel Guide

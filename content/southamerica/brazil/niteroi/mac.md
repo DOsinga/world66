@@ -1,6 +1,8 @@
 ---
 title: "MAC"
 type: location
+latitude: -23.515149
+longitude: -46.617476
 ---
 
 MAC - Museu de Arte Contemporanea

@@ -1,6 +1,8 @@
 ---
 title: "Mezokovesd"
 type: location
+latitude: 47.809753
+longitude: 20.566089
 ---
 
 Both during the Turkish occupation of Hungary (in the 16th and 17th century) and later, the people of Mezokovesd have suffered a great deal. But being very hard working citizens they have always reconstructed their town if it was destroyed. They lived in straitened circumstances, though theirs is the most ornamented Hungarian traditional costume.

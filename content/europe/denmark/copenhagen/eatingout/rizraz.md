@@ -1,6 +1,8 @@
 ---
 title: "Riz Raz"
 type: poi
+latitude: 55.680183
+longitude: 12.574286
 ---
 
 Riz-Raz is known for its great 'Mediterranean' all-you-can-eat buffet, which offers many delicious options for vegetarians, including an impressive selection of falafel, flavoured couscous,olives, rice selections, hummus, beans, pastas, salads, flatbreads and desserts. There are smoking and non-smoking sections, and the restaurant serves water and sodas, along with a good selection of beer and wine. 

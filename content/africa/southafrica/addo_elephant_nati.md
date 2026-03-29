@@ -1,6 +1,8 @@
 ---
 title: "Addo Elephant National Park"
 type: location
+latitude: -33.168212
+longitude: 25.282611
 ---
 
 Travel Guide

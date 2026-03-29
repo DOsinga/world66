@@ -1,6 +1,8 @@
 ---
 title: "Gobustan"
 type: location
+latitude: 40.082678
+longitude: 49.412082
 ---
 
 Travel Guide

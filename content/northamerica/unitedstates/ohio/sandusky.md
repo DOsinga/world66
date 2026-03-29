@@ -1,6 +1,8 @@
 ---
 title: "Sandusky"
 type: location
+latitude: 41.295156
+longitude: -83.155544
 ---
 
 Sandusky, Ohio is a city located on the banks of Lake Erie, about half

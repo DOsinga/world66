@@ -1,6 +1,8 @@
 ---
 title: "Tour to Nepal"
 type: location
+latitude: 28.212898
+longitude: 83.957265
 ---
 
 Travel Guide

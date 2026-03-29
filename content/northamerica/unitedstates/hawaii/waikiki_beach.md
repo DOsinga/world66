@@ -1,6 +1,8 @@
 ---
 title: "Waikiki Beach"
 type: location
+latitude: 42.528272
+longitude: -70.86748
 ---
 
 ?

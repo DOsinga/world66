@@ -1,6 +1,8 @@
 ---
 title: "Brattleboro"
 type: location
+latitude: 42.850759
+longitude: -72.557291
 ---
 
 Travel Guide

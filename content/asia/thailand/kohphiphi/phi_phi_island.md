@@ -1,6 +1,8 @@
 ---
 title: "Phi Phi Island"
 type: location
+latitude: 12.935749
+longitude: 100.67411
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Siddhpur"
 type: location
+latitude: 23.918279
+longitude: 72.368185
 ---
 
 Travel Guide

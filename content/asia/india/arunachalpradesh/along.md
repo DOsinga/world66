@@ -1,6 +1,8 @@
 ---
 title: "Along"
 type: location
+latitude: 28.1698
+longitude: 94.79854
 ---
 
 Travel Guide

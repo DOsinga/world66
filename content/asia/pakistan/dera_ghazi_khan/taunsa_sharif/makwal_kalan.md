@@ -1,6 +1,8 @@
 ---
 title: "Makwal Kalan"
 type: location
+latitude: 30.585244
+longitude: 70.731126
 ---
 
 Travel Guide

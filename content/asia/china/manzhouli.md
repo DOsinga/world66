@@ -1,6 +1,8 @@
 ---
 title: "Manzhouli"
 type: location
+latitude: 49.591404
+longitude: 117.446432
 ---
 
 Travel Guide

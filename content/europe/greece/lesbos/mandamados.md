@@ -1,6 +1,8 @@
 ---
 title: "Mandamados"
 type: location
+latitude: 39.310716
+longitude: 26.336002
 ---
 
 Travel Guide

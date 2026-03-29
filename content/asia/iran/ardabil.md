@@ -1,6 +1,8 @@
 ---
 title: "Ardabil"
 type: location
+latitude: 38.458398
+longitude: 47.9313
 ---
 
 Ardabil is an Old city of Iran. It was a capital of Iran when shah esmaeel safavi was governing. 

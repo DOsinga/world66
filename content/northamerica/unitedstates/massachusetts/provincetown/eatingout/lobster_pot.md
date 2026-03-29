@@ -6,6 +6,8 @@ email: "info@ptownlobsterpot.com"
 phone: "(508) 487-0842"
 type: "Seafood"
 url: "www.ptownlobsterpot.com"
+latitude: 42.051951
+longitude: -70.185231
 ---
 
 A famous restaurant on the waterfront, serving traditional seafood.

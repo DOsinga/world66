@@ -1,6 +1,8 @@
 ---
 title: "Campeche"
 type: location
+latitude: 19.0
+longitude: -90.5
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Spencer"
 type: location
+latitude: 38.028881
+longitude: -86.997645
 ---
 
 Travel Guide

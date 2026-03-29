@@ -1,6 +1,8 @@
 ---
 title: "Prambanan Temple"
 type: location
+latitude: -7.752016
+longitude: 110.491456
 ---
 
 Located about 20 kms east of

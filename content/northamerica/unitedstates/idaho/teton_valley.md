@@ -1,6 +1,8 @@
 ---
 title: "Teton Valley"
 type: location
+latitude: 43.755492
+longitude: -110.929613
 ---
 
 Travel Guide

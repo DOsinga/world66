@@ -2,6 +2,8 @@
 title: "Airport Pinto Martins"
 type: poi
 type: "By Air"
+latitude: -3.776115
+longitude: -38.535541
 ---
 
 Fortaleza has a modern airport, the Pinto Martins; the airport was refurbished recently, to cope with the increase in the number of tourists.

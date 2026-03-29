@@ -3,6 +3,8 @@ title: "Things to do"
 type: section
 type: "Other"
 url: "santafe.org"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 Santa Fe draws so many visitors because of its combination of heritage and location. But what to do once you arrive?

@@ -1,6 +1,8 @@
 ---
 title: "Ichikawa"
 type: location
+latitude: 35.721634
+longitude: 139.930944
 ---
 
 Travel Guide

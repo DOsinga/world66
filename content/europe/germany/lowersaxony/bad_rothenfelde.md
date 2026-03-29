@@ -1,6 +1,8 @@
 ---
 title: "Bad Rothenfelde"
 type: location
+latitude: 52.11102
+longitude: 8.161528
 ---
 
 Travel Guide

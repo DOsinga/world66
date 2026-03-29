@@ -1,6 +1,8 @@
 ---
 title: "Briston"
 type: location
+latitude: 51.453802
+longitude: -2.597298
 ---
 
 Travel Guide

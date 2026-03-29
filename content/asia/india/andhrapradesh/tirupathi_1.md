@@ -1,6 +1,8 @@
 ---
 title: "Tirupathi"
 type: location
+latitude: 16.954528
+longitude: 81.256569
 ---
 
 Travel Guide

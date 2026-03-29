@@ -1,6 +1,8 @@
 ---
 title: "Korenmarkt"
 type: location
+latitude: 51.982533
+longitude: 5.904751
 ---
 
 The Korenmarkt offers everything for an nice evening in Arnhem. The rather small square and the streets around it contain more nice places than you might think in the first place. 

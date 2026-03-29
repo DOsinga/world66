@@ -1,6 +1,8 @@
 ---
 title: "Fort Collins"
 type: location
+latitude: 40.587178
+longitude: -105.077011
 ---
 
 We currently have no information about Fort Collins.

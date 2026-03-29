@@ -1,6 +1,8 @@
 ---
 title: "Bukhara"
 type: location
+latitude: 39.775984
+longitude: 64.415153
 ---
 
 Bukhara is one of the most famous cities on the ancient Silk Road. [Samarkand](/asia/uzbekistan/samarkand) is maybe a bit more famous, but Bukhara wins hands down when it comes to atmosphere. This city is alive! 

@@ -1,6 +1,8 @@
 ---
 title: "Preslav"
 type: location
+latitude: 42.144137
+longitude: 24.74503
 ---
 
 We currently have no information about Preslav.

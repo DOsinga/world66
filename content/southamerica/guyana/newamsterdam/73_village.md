@@ -1,6 +1,8 @@
 ---
 title: "73 village"
 type: location
+latitude: 5.942154
+longitude: -57.14972
 ---
 
 Travel Guide

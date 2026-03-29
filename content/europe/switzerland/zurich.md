@@ -1,6 +1,8 @@
 ---
 title: "Zurich"
 type: location
+latitude: 47.374449
+longitude: 8.541042
 ---
 
 Zurich (better: Zürich), located 409 meters above sea level at the northern end of the Lake of Zurich on the Swiss central plateau, is charming and multilateral. Its well-preserved Old Town is to be found on both banks of the River Limmat which flows out of the lake in a northerly direction. With a population of some 360.000 inhabitants, Zurich is the largest city in Switzerland. The canton of the same name hosts 1.1 million inhabitants and is thus the country's most densely populated canton. 

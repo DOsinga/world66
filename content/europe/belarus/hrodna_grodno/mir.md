@@ -1,6 +1,8 @@
 ---
 title: "Mir"
 type: location
+latitude: 53.453744
+longitude: 26.465913
 ---
 
 Travel Guide

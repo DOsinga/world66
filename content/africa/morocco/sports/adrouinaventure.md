@@ -7,6 +7,8 @@ email: "adrouinaventure@yahoo.com"
 phone: "00 212 671 185 787"
 type: "Spa and Sauna"
 url: "www.adrouinaventure.c.la"
+latitude: 31.138236
+longitude: -3.970775
 ---
 
 Morocco is very close to Europe, but despite its proximity has many differences, as Islamic country it is. So, say the fastest way for a European to enter a new world of Africa.

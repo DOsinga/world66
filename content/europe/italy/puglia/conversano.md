@@ -1,6 +1,8 @@
 ---
 title: "Conversano"
 type: location
+latitude: 40.968514
+longitude: 17.115044
 ---
 
 Travel Guide

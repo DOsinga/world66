@@ -1,6 +1,8 @@
 ---
 title: "Wrexham"
 type: location
+latitude: 53.046508
+longitude: -2.993787
 ---
 
 Not only renowned for it's buzzing fast food culture and street fighting, Wrexham is also home to some of the finest modified Novas in Wales.

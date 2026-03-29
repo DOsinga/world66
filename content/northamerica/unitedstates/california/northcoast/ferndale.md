@@ -1,6 +1,8 @@
 ---
 title: "Ferndale"
 type: location
+latitude: 40.577855
+longitude: -124.262115
 ---
 
 Ferndale is a quaint town full of ornate Victorian homes. It's a nice place to stop for a while on a journey up 101.

@@ -1,6 +1,8 @@
 ---
 title: "Lancaster County"
 type: location
+latitude: 40.08067
+longitude: -76.241128
 ---
 
 We currently have no information about Lancaster County.

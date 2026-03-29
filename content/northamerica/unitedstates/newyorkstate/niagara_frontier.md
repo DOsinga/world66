@@ -1,6 +1,8 @@
 ---
 title: "Niagara Frontier"
 type: location
+latitude: 43.026099
+longitude: -78.873424
 ---
 
 Encompassing a wide area of the western-most end of New York State, the Niagara Frontier region includes Buffalo, Niagara Falls, the "Twin Cities" of Tonawanda and North Tonawanda, and areas in between.

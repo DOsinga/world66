@@ -1,6 +1,8 @@
 ---
 title: "Belgium"
 type: location
+latitude: 50.640281
+longitude: 4.666715
 ---
 
 Located in north-western Europe, Belgium is a small country bordered by The Netherlands, France, Germany, and Luxemburg. There's more to the country than Belgian glass and beer: multicultural and multilingual, Belgium is a veritable Europe in miniature. 

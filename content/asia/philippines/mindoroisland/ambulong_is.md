@@ -1,6 +1,8 @@
 ---
 title: "ambulong is"
 type: location
+latitude: 12.210208
+longitude: 121.018732
 ---
 
 Travel Guide

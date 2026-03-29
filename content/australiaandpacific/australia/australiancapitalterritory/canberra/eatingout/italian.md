@@ -1,6 +1,8 @@
 ---
 title: "Italian"
 type: poi
+latitude: -37.11207
+longitude: 144.204039
 ---
 
 **Restaurants**
@@ -39,7 +41,8 @@ tel: (02) 6257 2718
 
 **Caffe' Della Piazza **
 
-19 Garema Pl  
+19 Garema Pl 
+ 
 
 tel: (02) 6248 9711
 

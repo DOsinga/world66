@@ -4,6 +4,8 @@ type: section
 address: "Schmiedgasse 2"
 phone: "0043/(0) 316/81 98 52"
 type: "Japanese"
+latitude: 47.07022
+longitude: 15.437893
 ---
 
 This section contains a list of interesting restaurants.

@@ -1,6 +1,8 @@
 ---
 title: "Mount Fuji"
 type: location
+latitude: 35.362838
+longitude: 138.730768
 ---
 
 Travel Guide

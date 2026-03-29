@@ -1,6 +1,8 @@
 ---
 title: "Utica"
 type: location
+latitude: 43.100903
+longitude: -75.232664
 ---
 
 Travel Guide

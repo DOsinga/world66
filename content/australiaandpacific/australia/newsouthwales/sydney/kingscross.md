@@ -1,6 +1,8 @@
 ---
 title: "Kings Cross"
 type: location
+latitude: -33.874487
+longitude: 151.222231
 ---
 
 We currently have no information about .

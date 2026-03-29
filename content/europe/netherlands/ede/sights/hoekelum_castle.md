@@ -6,6 +6,8 @@ email: "kasteelhoekelum@tref.nl"
 phone: "+31(0)318-632124"
 type: "Castles"
 url: "www.kasteelhoekelum.nl"
+latitude: 52.015529
+longitude: 5.676759
 ---
 
 Hoekelum is a large park with a castle.

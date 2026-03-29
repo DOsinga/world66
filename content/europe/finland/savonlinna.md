@@ -1,6 +1,8 @@
 ---
 title: "Savonlinna"
 type: location
+latitude: 61.869874
+longitude: 28.880045
 ---
 
 Located in Europe´s largest lake district, Savonlinna has around 30,000 inhabitants and was built on three islands joined together by bridges. Besides the scenic natural environment the main attraction is St. Olaf's Castle. This great looking fortress was founded in 1475 by Erik Axelsson Tott. The castle served to repel attacks from the east and to guarantee control of the Savo region for the Swedish Crown. 

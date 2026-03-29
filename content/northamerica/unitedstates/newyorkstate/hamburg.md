@@ -1,6 +1,8 @@
 ---
 title: "Hamburg"
 type: location
+latitude: 40.604446
+longitude: -95.657771
 ---
 
 Travel Guide

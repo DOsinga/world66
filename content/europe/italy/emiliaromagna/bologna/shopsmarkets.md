@@ -1,6 +1,8 @@
 ---
 title: "Shopping"
 type: location
+latitude: 40.805495
+longitude: 14.195558
 ---
 
 Markets and Shops in Bologna 

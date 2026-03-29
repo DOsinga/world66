@@ -6,6 +6,8 @@ closing_time: "Mo-Sa 11:30-24:00; Su 14:00-24:00"
 phone: "+41 44 - 252 47 10"
 type: "Pubs"
 url: "www.pickwick.ch"
+latitude: 47.372238
+longitude: 8.544272
 ---
 
 A great pub with good beer & pub food. Most sporting events are shown on the tele.

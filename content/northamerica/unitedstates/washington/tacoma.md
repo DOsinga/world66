@@ -1,6 +1,8 @@
 ---
 title: "Tacoma"
 type: location
+latitude: 47.245501
+longitude: -122.438329
 ---
 
 About thirty minutes south from [Seattle](/northamerica/unitedstates/washington/seattle), Tacoma juts northward into Puget Sound with the port Commencement Bay to the east and the Tacoma Narrows to the west. With a beautiful backdrop of the Olympic Mountains and Mount Rainier looming on the horizon, the city boasts more scenic views than Seattle.

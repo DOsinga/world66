@@ -1,6 +1,8 @@
 ---
 title: "Salang Beach"
 type: poi
+latitude: 2.874404
+longitude: 104.15332
 ---
 
 Salang Beach is the northern most beach on the Island. The last stop of the ferries and speed boats. It is the most developed beach on the island but still retains the island charm. There is an abundance of fairly cheap accomodation and quite a few restaurants. There are also a couple of bars. Cafe S in the middle of the 'strip' and B B Bar which is located down at the end of the beach near the abandoned hotel. Tioman is duty free, so a Tiger or Carlsberg beer should cost around 5ringits.

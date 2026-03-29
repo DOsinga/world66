@@ -1,6 +1,8 @@
 ---
 title: "Gidole"
 type: location
+latitude: 5.650546
+longitude: 37.366053
 ---
 
 We currently have no information about Gidole.

@@ -6,6 +6,8 @@ email: "post@uis.no"
 phone: "+4751 83 10 00"
 type: "Public Buildings"
 url: "www.uis.no"
+latitude: 58.93667
+longitude: 5.690441
 ---
 
 The University of Stavanger is Norways 5th university, opened January 1st 2005 by the minister of education, Dagfinn Høybråten.

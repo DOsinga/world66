@@ -1,6 +1,8 @@
 ---
 title: "La Spezia"
 type: location
+latitude: 44.238366
+longitude: 9.691233
 ---
 
 Although best known as a naval base La Spezia is a surprisingly elegant city best seen on foot. Exotic palm-studded gardens line the sea front before giving way to the magnificent nineteenth-century gardens and the airy shaded arcades of the Via Chiodo. The classical architecture, wide avenues and arcades in turn give way to the old town centre. Today the centre of the town is a pedestrian area. The bustling Via del Prone is lined with small shops and stalls whilst the elegance of the Piazza Sant' Agostino speaks of an earlier time. 

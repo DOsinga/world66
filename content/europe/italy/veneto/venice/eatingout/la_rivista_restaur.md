@@ -7,6 +7,8 @@ phone: "+390412401425"
 price: "30-40€ per person no drinks"
 type: "Italian"
 url: "www.restaurantlarivista.com"
+latitude: 45.433132
+longitude: 12.319034
 ---
 
 La Rivista is a very new place where to have dinner in Venice, a

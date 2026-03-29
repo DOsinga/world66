@@ -2,6 +2,8 @@
 title: "Echo Point"
 type: poi
 type: "Landmarks"
+latitude: -33.732239
+longitude: 150.312166
 ---
 
 Echo Point viewing area is very famous and almost always crowded by tourists who come in bus loads to view the magnificent scenery the Blue Mountains has to offer. Echo Point is located at the edge of the town and about 2 km from the Katoomba railway station.

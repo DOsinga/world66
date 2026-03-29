@@ -1,6 +1,8 @@
 ---
 title: "Tunis"
 type: location
+latitude: 33.843941
+longitude: 9.400138
 ---
 
 Tunis is a big city that has managed not to lose too much of its charm. The inner city is still the Casbah with its small winding streets that work their way up to the top of the hill where the Big Mosque and the old palace of the Dey of Tunis stand. 

@@ -1,6 +1,8 @@
 ---
 title: "Campobello Island"
 type: location
+latitude: 44.893847
+longitude: -66.91937
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: poi
 address: "Ansab"
 email: "ammar_in_da_house@hotmail.com"
 type: "Shopping centers and malls"
+latitude: 14.507135
+longitude: 46.493618
 ---
 
 **Muscat City Centre

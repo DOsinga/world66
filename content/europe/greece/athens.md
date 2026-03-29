@@ -1,6 +1,8 @@
 ---
 title: "Athens"
 type: location
+latitude: 37.975565
+longitude: 23.734832
 ---
 
 A visit to 3,000-years-old Athens, the capital of Greece can be a dream come true or a nightmare. Usually it is a little of both. On the one hand, the city with its 4 million inhabitants, is surrounded by beautiful hills. On the other hand, the peaks can be obscured by terrible pollution. At times, the horn honking and hustle and bustle of downtown will drive you crazy. Suddenly, however, you will find yourself in the Plaka area wandering cobblestone streets lined with colourful houses, gardens, quaint shops and small *tavernas*. From the vantage point of ancient monuments and amphitheatres, you can look down on modern skyscrapers. The centre of the modern city on its turn borders the Agora, the ancient marketplace. 

@@ -1,6 +1,8 @@
 ---
 title: "Holyhead"
 type: location
+latitude: 53.310671
+longitude: -4.633097
 ---
 
 Travel Guide

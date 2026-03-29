@@ -1,6 +1,8 @@
 ---
 title: "Brong Ahafo Region"
 type: location
+latitude: 7.504739
+longitude: -2.912896
 ---
 
 In the mid west of Ghana, between Ashanti Region and the Côte d'Ivoire Border lies Brong Ahafo Region, with **Sunyani** as it's capital.

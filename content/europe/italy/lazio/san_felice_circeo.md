@@ -1,6 +1,8 @@
 ---
 title: "San Felice Circeo"
 type: location
+latitude: 41.232617
+longitude: 13.089398
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ accessibility: "Trek"
 address: "bangalore"
 email: "amarnath.pramanik@gmail.com"
 type: "Hiking"
+latitude: 12.976794
+longitude: 77.590082
 ---
 
 Here are a few suggested activities.

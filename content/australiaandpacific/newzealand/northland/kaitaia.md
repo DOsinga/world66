@@ -1,6 +1,8 @@
 ---
 title: "Kaitaia"
 type: location
+latitude: -35.114126
+longitude: 173.263996
 ---
 
 Kaitaia is the most northern town of the [Northland](/australiaandpacific/newzealand/northland) region and the gateway to the Far

@@ -1,6 +1,8 @@
 ---
 title: "Asyut"
 type: location
+latitude: 27.183282
+longitude: 31.185384
 ---
 
 Travel Guide

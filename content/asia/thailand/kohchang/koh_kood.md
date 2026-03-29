@@ -1,6 +1,8 @@
 ---
 title: "Koh Kood"
 type: location
+latitude: 11.662155
+longitude: 102.568105
 ---
 
 Travel Guide

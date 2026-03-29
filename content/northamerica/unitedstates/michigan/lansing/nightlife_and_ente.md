@@ -4,6 +4,8 @@ type: section
 address: "316 E. Michigan Ave."
 phone: "(517) 371-4500"
 type: "Erotic clubs and bars"
+latitude: 33.653687
+longitude: -112.069574
 ---
 
 Join the fun, from the dueling piano bar at Rum Runners to adult entertainment at Omar's.

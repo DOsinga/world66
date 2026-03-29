@@ -5,6 +5,8 @@ address: "General Martínez Campos, 37"
 opening_hours: "Tu-Sat 0930-2000 Sun 1000-1500"
 phone: "(00 34) 91 3101584"
 url: "museosorolla.mcu.es"
+latitude: 40.435393
+longitude: -3.692512
 ---
 
 Sorolla may be less well known outside Spain than many other painters but a recent exhibition of his works at the Prado was the best attended for 10 years!

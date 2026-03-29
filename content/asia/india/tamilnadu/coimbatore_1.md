@@ -1,6 +1,8 @@
 ---
 title: "coimbatore"
 type: location
+latitude: 11.001812
+longitude: 76.962842
 ---
 
 Travel Guide

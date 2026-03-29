@@ -1,6 +1,8 @@
 ---
 title: "Onyang"
 type: location
+latitude: 35.41516
+longitude: 129.26248
 ---
 
 We currently have no information about Onyang.

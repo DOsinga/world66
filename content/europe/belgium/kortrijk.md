@@ -1,6 +1,8 @@
 ---
 title: "Kortrijk"
 type: location
+latitude: 50.827643
+longitude: 3.265988
 ---
 
 Kortrijk (Courtrai in English and French) is the cultural, social and economic centre of an agglomeration of more than 300,000 inhabitants. Courtrai is a city on the Leie River. Its most famous moment in history was the Battle of the Golden Spurs, when a peasant militia scored a victory against an army of heavily armed French nobility. Due to this victory Flandern became independant from the dominion of the French King Louis IVX. 

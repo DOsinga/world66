@@ -1,6 +1,8 @@
 ---
 title: "Wanganui"
 type: location
+latitude: -39.93249
+longitude: 175.051931
 ---
 
 Wanganui (population 40,000) is a small city on the west coast of the North Island, near the mouth of the Whanganui river.

@@ -1,6 +1,8 @@
 ---
 title: "Lousa"
 type: location
+latitude: 38.889811
+longitude: -9.205958
 ---
 
 Travel Guide

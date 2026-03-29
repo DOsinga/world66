@@ -1,6 +1,8 @@
 ---
 title: "Delhi"
 type: location
+latitude: 28.613895
+longitude: 77.209006
 ---
 
 There’s no second chance to make a first impression and for many travellers, the first experiences in Delhi set the tone for their judgement of the city, if not for the rest of the country. Some travellers are put on the first plane back again, screaming like a pig. Others never ever want to leave again (or at least not for the forthcoming year). Decide for yourself which side you’re on in this inevitable love-hate relationship. ‘ Delhi, love it or hate it’. (And when you don’t love it, leave it for one of the other fascinating places.) 

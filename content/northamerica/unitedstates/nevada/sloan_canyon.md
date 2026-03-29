@@ -1,6 +1,8 @@
 ---
 title: "Sloan Canyon"
 type: location
+latitude: 35.90321
+longitude: -115.020182
 ---
 
 Sloan Canyon is the newest addition to the National Landscape Conservation System -- 26 million acres of Bureau of Land Management lands protected for their spectacular environment and historical and cultural sites.

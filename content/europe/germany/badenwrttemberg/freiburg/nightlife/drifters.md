@@ -3,4 +3,6 @@ title: "DRIFTERS"
 type: poi
 address: "Schnewlinstraße 7, 79098 Freiburg"
 phone: "0761 383234"
+latitude: 47.993778
+longitude: 7.839847
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Austin"
 type: location
+latitude: 30.271129
+longitude: -97.7437
 ---
 
 Travel Guide

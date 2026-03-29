@@ -1,6 +1,8 @@
 ---
 title: "Krakatoa"
 type: location
+latitude: -6.125012
+longitude: 105.407771
 ---
 
 Krakatoa is an Island about 1.5 miles in diamtere.

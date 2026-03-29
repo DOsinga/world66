@@ -2,6 +2,8 @@
 title: "JR rail"
 type: poi
 type: "By Rail"
+latitude: 43.799345
+longitude: 142.410379
 ---
 
 Directly from Sapporo Chitose Airport to the main train station in Sapporo for 1040Yen.

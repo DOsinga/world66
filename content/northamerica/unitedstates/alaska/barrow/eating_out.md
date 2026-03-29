@@ -4,6 +4,8 @@ type: section
 address: "5122 Herman St"
 phone: "(907) 852-3300"
 type: "International"
+latitude: 71.30135
+longitude: -156.758675
 ---
 
 Barrow has a few surprisingly great restaurants. The prices are all over $10+ per plate. Barrow is a damp town - no restaurants sell alcohol.

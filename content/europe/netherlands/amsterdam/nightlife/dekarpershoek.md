@@ -9,6 +9,8 @@ phone: "+31 (0)20 624 7886"
 type: "Pubs"
 url: "www.cafekarpershoek.nl"
 zipcode: "1012TP  Amsterdam"
+latitude: 52.378123
+longitude: 4.896763
 ---
 
 The oldest café’s in Amsterdam dating accessibility: Central Station

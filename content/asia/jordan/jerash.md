@@ -1,6 +1,8 @@
 ---
 title: "Jerash"
 type: location
+latitude: 32.278448
+longitude: 35.88968
 ---
 
 Jerash is a must see. Well-preserved 2 000-year-old Greco-Roman ruins are the reason to come. Hundreds of columns, temples, a theater and streets are worth a detour. 

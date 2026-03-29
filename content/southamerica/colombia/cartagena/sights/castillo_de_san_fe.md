@@ -1,6 +1,8 @@
 ---
 title: "Castillo de San Felipe"
 type: poi
+latitude: 10.422711
+longitude: -75.539366
 ---
 
 The historic Spanish Fortress "Castillo de San Felipe De Barajas," majestically stands guard on a hillside overlooking the city and harbor.

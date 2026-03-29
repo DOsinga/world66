@@ -1,6 +1,8 @@
 ---
 title: "Big Bear"
 type: location
+latitude: 29.667517
+longitude: -98.455686
 ---
 
 Big Bear Valley was first occupied by the Serrano Indians approximately 3,000 years ago. In 1845, while in pursuit of Indians, Benjamin D. Wilson discovered and named Bear Valley because "the place was alive with bears!" and some of them were BIG. In 1860 William Holcomb was hunting one of those bears and discovered gold instead! What followed was Southern California 's largest gold rush. There are several abandoned mines in the area, a famous one is the Lucky Baldwin mine. Be wary of finding scruffy characters who might challenge your presence in some areas. There are some who are still searching for the “mother lode.”

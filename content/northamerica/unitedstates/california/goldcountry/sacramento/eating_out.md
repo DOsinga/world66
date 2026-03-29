@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 address: "1730 L Street"
 type: "French"
+latitude: 33.784905
+longitude: -118.290688
 ---
 
 Sacramento has many excellent places to grab a bite to eat.

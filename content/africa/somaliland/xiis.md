@@ -1,6 +1,8 @@
 ---
 title: "XIIS"
 type: location
+latitude: 10.896318
+longitude: 46.919332
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Cabanatuan City"
 type: location
+latitude: 15.484602
+longitude: 120.97578
 ---
 
 Travel Guide

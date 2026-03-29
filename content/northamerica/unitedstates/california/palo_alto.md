@@ -1,6 +1,8 @@
 ---
 title: "Palo Alto"
 type: location
+latitude: 37.444329
+longitude: -122.159847
 ---
 
 Travel Guide

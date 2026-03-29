@@ -1,6 +1,8 @@
 ---
 title: "Coromandel"
 type: location
+latitude: -36.760161
+longitude: 175.497274
 ---
 
 The Coromandel Peninsula lies east of Auckland, across the Hauraki Gulf. Looking across the Hauraki Gulf from Auckland, the north of the Coromandel Peninsula can be seen on the horizon. Although only 90 minutes from Auckland, the Coromandel feels like it's a world away. 

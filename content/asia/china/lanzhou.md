@@ -1,6 +1,8 @@
 ---
 title: "Lanzhou"
 type: location
+latitude: 36.474436
+longitude: 103.733224
 ---
 
 Lanzhou, the capital of Gansu Province, is a regional communication and transportation hub since ancient times. Lanzhou is not a major tourist spot, however, it is an important stopover in the ancient Silk Road.There hosts many cultural heritage sites, like the 5th century cave shrines and stone statues at Bingling Temple (also called Thousand Buddha Caves), and a 27-meter-high Buddha at the White Pagoda Hill. 

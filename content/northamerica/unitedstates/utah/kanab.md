@@ -1,6 +1,8 @@
 ---
 title: "Kanab"
 type: location
+latitude: 37.048172
+longitude: -112.528524
 ---
 
 Travel Guide

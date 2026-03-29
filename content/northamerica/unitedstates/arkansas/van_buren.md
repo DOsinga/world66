@@ -1,6 +1,8 @@
 ---
 title: "Van Buren"
 type: location
+latitude: 42.271076
+longitude: -86.013973
 ---
 
 Travel Guide

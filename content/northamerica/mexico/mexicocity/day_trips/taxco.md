@@ -1,6 +1,8 @@
 ---
 title: "Taxco"
 type: poi
+latitude: 18.556545
+longitude: -99.605284
 ---
 
 The beautiful silver town of [Taxco](/northamerica/mexico/taxco) is about 150 minutes from the

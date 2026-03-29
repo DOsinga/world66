@@ -1,6 +1,8 @@
 ---
 title: "Queyras"
 type: location
+latitude: 44.729805
+longitude: 6.844817
 ---
 
 The Queyras Regional Natural Park is south of Grenoble and Briançon and to the far east of France bordering on Italy. It enjoys a micro-climate of its own and has sun for over 300 days in a year. It is much less frequented and somewhat lower than the better known areas further north in Savoie and Haut-Savoie but it is extremely beautiful with some of the best Alpine flower meadows in France. 

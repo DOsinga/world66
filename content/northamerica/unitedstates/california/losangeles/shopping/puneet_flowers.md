@@ -6,6 +6,8 @@ address: "16/96 the mall ,kanpur"
 email: "rajesh_wahi2000@yahoo.com"
 phone: "9450154733/9336174753"
 type: "Speciality shops"
+latitude: 26.476497
+longitude: 80.338341
 ---
 
 [Send Cakes,Flowers,Chocolates to INDIA from PUNEET FLOWERS](/asia/india/maharashtra/mumbai/shopping/send_cakesflowers)

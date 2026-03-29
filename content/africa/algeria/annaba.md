@@ -1,6 +1,8 @@
 ---
 title: "Annaba"
 type: location
+latitude: 36.898216
+longitude: 7.754927
 ---
 
 Annaba is in the extreme northeast of Algeria. It is close to the border with [Tunisia](/africa/tunisia) and can even be visited as a day trip from there. 

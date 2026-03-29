@@ -3,6 +3,8 @@ title: "La Bodega"
 type: poi
 address: "16-18 Jalan Telawi 2"
 type: "Spanish"
+latitude: 3.132098
+longitude: 101.671709
 ---
 
 Popular tapas bar in Bangsar Baru

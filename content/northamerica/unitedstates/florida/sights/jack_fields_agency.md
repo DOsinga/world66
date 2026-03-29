@@ -6,6 +6,8 @@ email: "druffej@nationwide.com"
 opening_hours: "9am-5pm"
 phone: "407-870-5534"
 type: "Public Buildings"
+latitude: 39.76366
+longitude: -84.192606
 ---
 
 Located in quaint downtown Kissimmee, Jack Fields Agency is among some of the most historic storefronts, with most buildings built around 1900. Take a stroll down Main St. and you'll be transported

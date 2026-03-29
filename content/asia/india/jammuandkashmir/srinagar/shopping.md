@@ -6,6 +6,8 @@ email: "majidbachh@yahoo.com"
 phone: "0194 2480371"
 type: "Speciality shops"
 url: "www.zaibaish.com"
+latitude: 34.068544
+longitude: 74.806701
 ---
 
 ### [Zaibaish](/asia/india/jammuandkashmir/srinagar/shopping/zaibaish)

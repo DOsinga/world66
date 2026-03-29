@@ -6,6 +6,8 @@ email: "capohornpub@2night.it"
 opening_hours: "daily (clodes only sunday morning)"
 phone: "+39 (0)41 - 5242177"
 type: "Pubs"
+latitude: 45.435648
+longitude: 12.325097
 ---
 
 Pub & Bar located near Campo Santa Margherita, unexpensive and popular, snacks available.

@@ -1,6 +1,8 @@
 ---
 title: "Nkob"
 type: location
+latitude: 30.609612
+longitude: -7.433334
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Shopping"
 type: section
 type: "Shopping centers and malls"
+latitude: 37.443192
+longitude: -122.170916
 ---
 
 Mall of Americas

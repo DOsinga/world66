@@ -3,6 +3,8 @@ title: "U CEDRU"
 type: poi
 address: "Na hutich 13, Praha 6"
 phone: "+42 (0)02 312 2974"
+latitude: 50.100223
+longitude: 14.398075
 ---
 
 Open: Daily. 11.00 - 23.00

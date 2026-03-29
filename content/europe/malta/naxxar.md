@@ -1,6 +1,8 @@
 ---
 title: "Naxxar"
 type: location
+latitude: 35.91334
+longitude: 14.443285
 ---
 
 The Naxxar Locality is spread over an area of eleven kilometres squared and has a population of over eleven thousand persons. The whole locality comprises the Naxxar centre, Sghajtar area, Santa Marija tax-Xaghra, San Pawl tat-Targa, Birguma, Maghtab, Salina, Bahar ic-Caghaq and part of Madliena. 

@@ -1,6 +1,8 @@
 ---
 title: "Glencoe"
 type: location
+latitude: 56.682765
+longitude: -5.101455
 ---
 
 There is a village at Glencoe with two hotels , a youth hostel and a private bunkhouse. However the name also covers the immediate area around the village and, in particular, the excellent mountain chains on each side of the road. 

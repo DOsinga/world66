@@ -4,6 +4,8 @@ type: section
 address: "institute of management sciences"
 email: "leaperd2003_ilyas@yahoo.com"
 type: "Local"
+latitude: 33.958388
+longitude: 71.416313
 ---
 
 NUSHKAL

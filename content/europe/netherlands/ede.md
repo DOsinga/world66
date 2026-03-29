@@ -1,6 +1,8 @@
 ---
 title: "Ede"
 type: location
+latitude: 52.071683
+longitude: 5.745511
 ---
 
 The municipality of Ede has over 106.430 inhabitants. It is a rapidly developing residential and business area, rich in greenery, with continually expanding economic activity. Provisions in the field of education, culture and health are keeping apace with this. Does this surprise you?

@@ -1,6 +1,8 @@
 ---
 title: "Elko"
 type: location
+latitude: 41.195813
+longitude: -115.327286
 ---
 
 Elko is in northeast Nevada, west of Salt Lake City. It is home to one of the largest Basque communities in North America, so the restaurants and food are exquisite. The Ruby Mountains are just south of Elko, where you can arrange to be dropped onto a ski slope from a helicopter. 

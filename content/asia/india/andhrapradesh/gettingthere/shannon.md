@@ -3,6 +3,8 @@ title: "Shannon"
 type: poi
 phone: "415-203-6763"
 type: "By Air"
+latitude: 19.055778
+longitude: 72.832412
 ---
 
 Please tell me how to get to **Andhra** Pradesh India from Santa barbara california USA

@@ -1,6 +1,8 @@
 ---
 title: "Calbayog"
 type: location
+latitude: 12.066963
+longitude: 124.594666
 ---
 
 Calbayog City is situated on the western part of Samar, bounded on the north by Catarman, Mondragon, San Isidro and Pambujan, on the east by Sta. Margarita and Gandara, and on the west and south by the Samar Sea. It has 157 barangays.

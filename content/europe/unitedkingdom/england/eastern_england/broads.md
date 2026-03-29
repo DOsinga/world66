@@ -1,6 +1,8 @@
 ---
 title: "Broads"
 type: location
+latitude: 52.630742
+longitude: 1.642913
 ---
 
 The area covered by the Norfolk and Suffolk Broads is England’s largest wetland area and the Broads Authority is similar to a National Park Authority.

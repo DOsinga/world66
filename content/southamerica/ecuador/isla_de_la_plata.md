@@ -1,6 +1,8 @@
 ---
 title: "Isla de la Plata"
 type: location
+latitude: -1.274094
+longitude: -81.0708
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "25 Sukhumvit Soi 8"
 phone: "+66 2253 1200"
 price: "reasonable"
 type: "Italian"
+latitude: 13.739374
+longitude: 100.555697
 ---
 
 If you want to taste the real Italian cuisine, you have to come

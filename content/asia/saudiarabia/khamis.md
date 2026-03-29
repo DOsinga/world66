@@ -1,6 +1,8 @@
 ---
 title: "Khamis"
 type: location
+latitude: 18.3
+longitude: 42.733333
 ---
 
 We currently have no information about Khamis.

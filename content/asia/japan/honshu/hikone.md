@@ -1,6 +1,8 @@
 ---
 title: "Hikone"
 type: location
+latitude: 35.271701
+longitude: 136.263448
 ---
 
 Travel Guide

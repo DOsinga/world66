@@ -4,6 +4,8 @@ type: section
 address: "Cinema Road"
 phone: "07267223366"
 type: "Book shops"
+latitude: 30.046983
+longitude: 76.337508
 ---
 
 Have a great Shopping Experiance in Malkapur.

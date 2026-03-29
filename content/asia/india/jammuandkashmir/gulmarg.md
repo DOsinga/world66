@@ -1,6 +1,8 @@
 ---
 title: "Gulmarg"
 type: location
+latitude: 34.04897
+longitude: 74.39212
 ---
 
 Gulmarg is a beautiful valley best known for its winter sports. J&K

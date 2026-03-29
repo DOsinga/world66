@@ -1,6 +1,8 @@
 ---
 title: "Ilesa"
 type: location
+latitude: 7.624589
+longitude: 4.741466
 ---
 
 Travel Guide

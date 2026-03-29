@@ -5,6 +5,8 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
+latitude: 29.850964
+longitude: 31.220947
 ---
 
 Pay a visit to Cairo the capital city of Egypt and the cradle of civilization,visit The 3 large pyramids of Giza,Sphinx,museum,old Cairo,Islamic,Coptic and much much more..book now.

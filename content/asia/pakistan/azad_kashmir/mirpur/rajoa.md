@@ -1,6 +1,8 @@
 ---
 title: "Rajoa"
 type: location
+latitude: 33.303294
+longitude: 73.04961
 ---
 
 Travel Guide

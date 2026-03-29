@@ -5,6 +5,8 @@ address: "Lebanon"
 email: "charlotte.seguin@nelinteractif.com"
 type: "Tourist information"
 url: "www.iloubnan.info"
+latitude: 33.875063
+longitude: 35.843409
 ---
 
 Normal

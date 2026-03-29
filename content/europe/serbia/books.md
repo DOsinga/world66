@@ -5,6 +5,8 @@ author: "Rebecca West"
 isbn: "0140188479"
 subject: "travel"
 type: "general"
+latitude: 44.8023
+longitude: 20.471354
 ---
 
 ### [Black Lamb and Grey Falcon:A Journey through Yugoslavia](/europe/serbia/books/blacklambandgreyfalconajourneythroughyugoslavia)

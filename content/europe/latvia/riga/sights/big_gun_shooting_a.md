@@ -8,6 +8,8 @@ opening_hours: "24-hours on call"
 phone: "+371 29389450"
 type: "Hotspots"
 url: "www.rigaoutthere.com"
+latitude: 56.973665
+longitude: 24.13777
 ---
 
 Here are a some of the more interesting activities on offer in Riga:

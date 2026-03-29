@@ -5,6 +5,8 @@ address: "1621 W Sunflower Ave"
 phone: "(714) 546-3474"
 type: "Seafood"
 zipcode: "Santa Ana, CA 92704-7459"
+latitude: 33.695718
+longitude: -117.890459
 ---
 
 ### Display all

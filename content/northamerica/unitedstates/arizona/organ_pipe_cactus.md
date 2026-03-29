@@ -1,6 +1,8 @@
 ---
 title: "Organ Pipe Cactus National Monument"
 type: location
+latitude: 32.008175
+longitude: -112.875184
 ---
 
 Organ Pipe Cactus National Monument is a biosphere reserve set aside to protect species endemic to the Sonoran Desert in which it resides. Beautifully preserved lands with Organ Pipe, Saguaro, Cholla, and other cacti fill the monument. This is one of the only places where Organ Pipe cacti can be found within the [United States](/northamerica/unitedstates) -- there are more in the southern Sonoran Desert, in [Mexico](/northamerica/mexico).

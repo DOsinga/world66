@@ -1,6 +1,8 @@
 ---
 title: "Alagna"
 type: location
+latitude: 45.169861
+longitude: 8.889846
 ---
 
 Travel Guide

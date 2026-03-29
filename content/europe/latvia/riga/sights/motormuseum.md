@@ -2,6 +2,8 @@
 title: "Motor Museum."
 type: poi
 type: "Museums"
+latitude: 56.970606
+longitude: 24.227771
 ---
 
 Eizensteina 6, tel.: 7097170. Open 10-18. Closed Mon. Admission: 1Ls. (Taxi (recommended) or bus N 21 from Brivibas to the Pansionats stop in Mezciems).

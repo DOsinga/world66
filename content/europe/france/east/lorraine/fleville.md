@@ -1,6 +1,8 @@
 ---
 title: "Fleville"
 type: location
+latitude: 49.305342
+longitude: 4.970557
 ---
 
 Just outside of Nancy the chateau de Fleville is one of the finest Renaissance castles of the East of France. 

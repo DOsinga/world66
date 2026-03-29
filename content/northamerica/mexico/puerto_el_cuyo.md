@@ -1,6 +1,8 @@
 ---
 title: "Puerto El Cuyo"
 type: location
+latitude: 21.516438
+longitude: -87.674312
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ciudad Obregón"
 type: location
+latitude: 27.484662
+longitude: -109.933778
 ---
 
 Ciudad Obregón, also known as Cajeme, is located on the central southern part of the State of Sonora, 250 miles south of Hermosillo, on the fertile Río Yaqui Valley.

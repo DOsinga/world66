@@ -7,6 +7,8 @@ phone: "08942 227691 - 94"
 price: "Reasonable"
 type: "First Class"
 url: "www.hotelvijethainn.com"
+latitude: 18.294931
+longitude: 83.893884
 ---
 
 one and only tempul froom world wied

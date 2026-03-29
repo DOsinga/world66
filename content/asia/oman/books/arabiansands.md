@@ -4,6 +4,8 @@ type: poi
 author: "Wilfried Thesiger"
 isbn: "0140095144"
 subject: "Travel"
+latitude: 19.955186
+longitude: 56.271056
 ---
 
 One of the best books in its kind! 

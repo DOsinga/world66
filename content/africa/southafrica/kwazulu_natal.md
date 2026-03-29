@@ -1,6 +1,8 @@
 ---
 title: "Kwazulu Natal"
 type: location
+latitude: -28.503833
+longitude: 30.887501
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Vietnamese Tet Festival"
 type: poi
 address: "Santa Clara County Fairgrounds"
+latitude: 37.299959
+longitude: -121.851196
 ---
 
 Thousands came to the Santa Clara County Fairgrounds on Saturday for

@@ -1,6 +1,8 @@
 ---
 title: "Morbi"
 type: location
+latitude: 22.800396
+longitude: 70.886232
 ---
 
 Morbi is a City of Rajkot District, 64 Km from Rajkot. Government ST is the main mean of transport.

@@ -1,6 +1,8 @@
 ---
 title: "Banagher"
 type: location
+latitude: 53.189878
+longitude: -7.986853
 ---
 
 Travel Guide

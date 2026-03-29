@@ -5,6 +5,8 @@ email: "nelly-forestparadise@hotmail.com"
 phone: "0094 572228797,0094779212657"
 type: "Hotspots"
 url: "www.forestparadise.net"
+latitude: 6.873606
+longitude: 81.048993
 ---
 
 ** lla

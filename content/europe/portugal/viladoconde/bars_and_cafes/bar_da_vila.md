@@ -3,6 +3,8 @@ title: "Bar da Vila"
 type: poi
 type: "general"
 zipcode: "http://bardavila.web.pt/"
+latitude: 39.414303
+longitude: -7.454476
 ---
 
 The best bar in the Vila is the “Bar da Vila”. Visit our official site, temporarily offline. The best nights are spent in this special bar!

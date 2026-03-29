@@ -1,6 +1,8 @@
 ---
 title: "Courtenay"
 type: location
+latitude: 49.689406
+longitude: -124.995496
 ---
 
 A visit to Courtenay and it's sister community of Comox ( together, known as the Comox Valley ) is a must for travellers looking to explore the natural wonders of Vancouver Island.

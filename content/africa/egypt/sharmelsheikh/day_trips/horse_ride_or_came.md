@@ -5,6 +5,8 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
+latitude: 29.850964
+longitude: 31.220947
 ---
 
 Enjoy that new experience in Sharm Elshiekh,one hour with Arabian horse or with camel in Sinai desert with Bedouin tea in their traditional Bedouin tent...book now.

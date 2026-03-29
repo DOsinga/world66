@@ -1,9 +1,12 @@
 ---
 title: "GAP"
 type: poi
+latitude: 48.891289
+longitude: 8.612812
 ---
 
-Basic fashions for young and old. 
+Basic fashions for young and old.
+ 
 
 connection: U Kurfürstendamm, U Zoologischer Garten,
 

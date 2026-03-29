@@ -1,6 +1,8 @@
 ---
 title: "Brighton"
 type: location
+latitude: 50.821463
+longitude: -0.140056
 ---
 
 Travel Guide

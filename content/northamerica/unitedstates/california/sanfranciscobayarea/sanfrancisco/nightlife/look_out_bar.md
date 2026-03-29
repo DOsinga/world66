@@ -4,6 +4,8 @@ type: poi
 address: "3600 16th St."
 type: "Gay and Lesbian"
 url: "www.sfgaybarlist.com#lookout"
+latitude: 37.764369
+longitude: -122.433311
 ---
 
 In the space formerly occupied by Metro City Bar (which relocated down

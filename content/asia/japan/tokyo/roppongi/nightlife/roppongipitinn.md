@@ -3,6 +3,8 @@ title: "Roppongi Pit Inn"
 type: poi
 address: "3-17-7 Roppongi"
 type: "Jazz"
+latitude: 35.662925
+longitude: 139.731495
 ---
 
 Features acts by many famous musicians.

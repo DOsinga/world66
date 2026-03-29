@@ -7,6 +7,8 @@ phone: "040 / 45 81 19"
 price: "average"
 type: "Local"
 url: "www.restaurant-brodersen.de"
+latitude: 53.566643
+longitude: 9.989225
 ---
 
 Rothenbaumchaussee 46, Telefon 040 / 45 81 19

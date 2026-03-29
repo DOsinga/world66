@@ -1,6 +1,8 @@
 ---
 title: "Karakoram Highway"
 type: location
+latitude: 36.448842
+longitude: 74.893065
 ---
 
 Travel Guide

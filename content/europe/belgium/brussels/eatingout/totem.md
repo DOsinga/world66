@@ -3,6 +3,8 @@ title: "Totem"
 type: poi
 address: "rue des Grands Carmes 6"
 type: "Belgian"
+latitude: 50.845594
+longitude: 4.348475
 ---
 
 Hidden behind Grand Place this small and fashionable restaurant is the hit with Brussels Vegetarians, who comes for the friendly atmosphere and wholesome food - organic soups, fresh salads, tofu ... quiet cheap, good choice of wines. Metro: Bourse

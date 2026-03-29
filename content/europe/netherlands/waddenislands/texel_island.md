@@ -1,6 +1,8 @@
 ---
 title: "Texel island"
 type: location
+latitude: 53.089372
+longitude: 4.821347
 ---
 
 Texel is the largest and south westernmost of the Dutch Wadden islands.

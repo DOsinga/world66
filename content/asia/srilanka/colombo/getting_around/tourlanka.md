@@ -5,6 +5,8 @@ address: "colombo"
 email: "rajatours10@gmail.com"
 phone: "+94777065438"
 url: "www.members.aon.at"
+latitude: 6.938861
+longitude: 79.854201
 ---
 
 Hello, I am Raja Ranasinghe of **Indigo Ocean Travels**

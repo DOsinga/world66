@@ -5,6 +5,8 @@ address: "travessa do Buel, 40"
 phone: "227 623 509"
 type: "Portuguese"
 url: "www.locanda.com.pt"
+latitude: 41.075909
+longitude: -8.599497
 ---
 
 **Porto restaurants** are offering all standard European dishes, but much more interesting is the traditional Portuguese cuisine. Here are a couple of places that offer traditional meals and worth visiting.**

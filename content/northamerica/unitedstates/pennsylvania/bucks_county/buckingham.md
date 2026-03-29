@@ -1,6 +1,8 @@
 ---
 title: "Buckingham"
 type: location
+latitude: 37.555883
+longitude: -78.554717
 ---
 
 Travel Guide

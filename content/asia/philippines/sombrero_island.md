@@ -1,6 +1,8 @@
 ---
 title: "Sombrero Island"
 type: location
+latitude: 13.698194
+longitude: 120.82911
 ---
 
 Travel Guide

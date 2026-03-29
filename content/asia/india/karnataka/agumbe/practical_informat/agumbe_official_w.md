@@ -6,6 +6,8 @@ email: "info@agumbe.com"
 phone: "08181 233075"
 type: "Tourist information"
 url: "www.agumbe.com"
+latitude: 12.701092
+longitude: 77.252775
 ---
 
 http://www.agumbe.com

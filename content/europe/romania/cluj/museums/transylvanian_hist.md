@@ -1,6 +1,8 @@
 ---
 title: "Transylvanian History Museum"
 type: poi
+latitude: 46.771639
+longitude: 23.586375
 ---
 
 The Transylvanian History Museum has a unique collection of old artifacts, Roman pottery and medieval vestiges of the city. the visitor can see the history of Transylvania while walking through the halls filled with unique pieces, old tools and crafts built by the region's inhabitants since the Paleolithic. Moreover, it includes vestiges brought to the city by local explorers, including an original Egyptian Mummy.

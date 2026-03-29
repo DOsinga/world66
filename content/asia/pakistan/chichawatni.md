@@ -1,6 +1,8 @@
 ---
 title: "Chichawatni"
 type: location
+latitude: 30.531691
+longitude: 72.691405
 ---
 
 Travel Guide

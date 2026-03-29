@@ -4,6 +4,8 @@ type: section
 address: "India"
 type: "Tourist information"
 url: "www.theincredibleindiatravel.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 Incredible India Travel provides Travel and Tour Packages to India. For more information about Travel Agents To India, Travel Plan In India, Travel Agent In India, India Travel Package follow link:http://www.theincredibleindiatravel.com/

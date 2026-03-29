@@ -1,6 +1,8 @@
 ---
 title: "Yangzhou"
 type: location
+latitude: 32.396855
+longitude: 119.407766
 ---
 
 Travel Guide

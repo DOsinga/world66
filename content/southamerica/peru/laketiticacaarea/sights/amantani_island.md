@@ -2,6 +2,8 @@
 title: "Amantani Island"
 type: poi
 type: "Hotspots"
+latitude: -15.665001
+longitude: -69.710661
 ---
 
 Amantani Island is a beautiful island, more than 3 hours by boat from Puno. Its rather remote location makes it less touristic. The community that lives there maintains traditional agricultural life. It seems like not much has changed during time.

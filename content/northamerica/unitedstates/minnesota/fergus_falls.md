@@ -1,6 +1,8 @@
 ---
 title: "Fergus Falls"
 type: location
+latitude: 46.283015
+longitude: -96.077558
 ---
 
 Travel Guide

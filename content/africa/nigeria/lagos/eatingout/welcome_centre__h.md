@@ -7,6 +7,8 @@ phone: "00234 1 271 9254"
 price: "N1500 to N3000"
 type: "International"
 url: "www.welcomecentrehotels.com"
+latitude: 6.553939
+longitude: 3.327429
 ---
 
 Welcome Centre & Hotels offers a wholesome mix of continental and Nigerian food in a beautiful ideallic setting. It is located close to the International Airport terminals and its a great location for business meetings, romantic dinners, family or group celebrations or just un-winding after a hard day.

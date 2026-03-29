@@ -1,6 +1,8 @@
 ---
 title: "Warnemunde"
 type: location
+latitude: 54.177904
+longitude: 12.081288
 ---
 
 Travel Guide

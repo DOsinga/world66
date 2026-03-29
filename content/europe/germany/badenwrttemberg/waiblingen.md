@@ -1,6 +1,8 @@
 ---
 title: "Waiblingen"
 type: location
+latitude: 48.832566
+longitude: 9.316382
 ---
 
 Travel Guide

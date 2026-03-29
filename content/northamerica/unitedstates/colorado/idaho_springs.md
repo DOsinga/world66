@@ -1,6 +1,8 @@
 ---
 title: "Idaho Springs"
 type: location
+latitude: 39.742597
+longitude: -105.513637
 ---
 
 Travel Guide

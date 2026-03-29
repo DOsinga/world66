@@ -1,6 +1,8 @@
 ---
 title: "Massa"
 type: location
+latitude: 44.035932
+longitude: 10.139552
 ---
 
 Travel Guide

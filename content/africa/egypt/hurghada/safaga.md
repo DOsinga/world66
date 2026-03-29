@@ -1,6 +1,8 @@
 ---
 title: "Safaga"
 type: location
+latitude: 26.763333
+longitude: 33.938382
 ---
 
 Travel Guide

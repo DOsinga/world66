@@ -1,6 +1,8 @@
 ---
 title: "Quelimane"
 type: location
+latitude: -17.87751
+longitude: 36.890216
 ---
 
 We currently have no information about Quelimane.

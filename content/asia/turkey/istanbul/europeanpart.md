@@ -1,6 +1,8 @@
 ---
 title: "European Part"
 type: location
+latitude: 41.910603
+longitude: 27.129933
 ---
 
 The European side of Istanbul again is divided into two parts by an estuary with a width about 500 metres; so the southern part - that some call **Stamboul** - is a penisular and the very oldest part of the European side. This is the old **Byzantium**, or in Roman times **Constantinople** (the city of Emperor Constantin). Here you can find the seven hills with the most spectacular sights: 

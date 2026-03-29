@@ -1,6 +1,8 @@
 ---
 title: "Kulgam"
 type: location
+latitude: 33.64469
+longitude: 75.018843
 ---
 
 Travel Guide

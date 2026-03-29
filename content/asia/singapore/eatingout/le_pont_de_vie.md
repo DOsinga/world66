@@ -8,6 +8,8 @@ phone: "(+65) 62388682"
 price: "$60"
 type: "French"
 url: "www.lpdv.com.sg"
+latitude: 1.298427
+longitude: 103.850822
 ---
 
 This cool new French restaurant offers the finest cuisine in a

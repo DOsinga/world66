@@ -1,6 +1,8 @@
 ---
 title: "Owasso"
 type: location
+latitude: 36.26597
+longitude: -95.854856
 ---
 
 Travel Guide

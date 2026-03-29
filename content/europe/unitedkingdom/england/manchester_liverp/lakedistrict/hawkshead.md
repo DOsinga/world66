@@ -1,6 +1,8 @@
 ---
 title: "Hawkshead"
 type: location
+latitude: 54.375002
+longitude: -2.998966
 ---
 
 Travel Guide

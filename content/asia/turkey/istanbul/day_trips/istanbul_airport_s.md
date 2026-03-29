@@ -5,6 +5,8 @@ address: "sultan ahmet / Istanbul"
 email: "info@allistanbultours.com"
 phone: "+90 212 516 77 01"
 url: "www.allistanbultours.com"
+latitude: 41.004114
+longitude: 28.976909
 ---
 
 **Istanbul Transfers Airport - Hotel - Pier**

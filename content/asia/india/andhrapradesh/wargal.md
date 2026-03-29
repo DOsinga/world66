@@ -1,6 +1,8 @@
 ---
 title: "Wargal"
 type: location
+latitude: 17.774802
+longitude: 78.616565
 ---
 
 Travel Guide

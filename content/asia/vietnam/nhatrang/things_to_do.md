@@ -6,6 +6,8 @@ email: "bluedivingclub@gmail.com"
 phone: "(+84) 058 527034"
 type: "Diving"
 url: "www.vietnam-diving.com"
+latitude: 21.030537
+longitude: 105.841934
 ---
 
 **** Diving in Vietnam :***

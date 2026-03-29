@@ -1,6 +1,8 @@
 ---
 title: "Silent Valley National park"
 type: location
+latitude: 11.131041
+longitude: 76.444333
 ---
 
 Travel Guide

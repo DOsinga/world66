@@ -5,6 +5,8 @@ address: "Avenida Padre Eutíquio, 1078"
 phone: "+5591 4008 5800"
 type: "Shopping centers and malls"
 url: "www.iguatemibelem.com.br"
+latitude: -1.474684
+longitude: -48.471774
 ---
 
 Belém is the biggest center of purchases of all the Amazônia, for

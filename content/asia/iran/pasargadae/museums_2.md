@@ -1,6 +1,8 @@
 ---
 title: "Museums"
 type: location
+latitude: 36.286664
+longitude: 59.615989
 ---
 
 The Art of Achaemenids

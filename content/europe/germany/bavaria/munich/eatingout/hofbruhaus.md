@@ -1,6 +1,8 @@
 ---
 title: "Hofbräuhaus"
 type: poi
+latitude: 48.137633
+longitude: 11.579979
 ---
 
 For every fan of bavarian and beer culture the 1589 founded "Hofbräuhaus" is a Must. Food, beer and atmosphere are absolutely unique. Try the bavarian home-made specialities and the famous HB-beer. To understand this bavarian institution, have a short look at the history:
@@ -15,7 +17,8 @@ For every fan of bavarian and beer culture the 1589 founded "Hofbräuhaus" is a 
 
 Opening Hours:
 
-daily: 9.00 - 24.00  
+daily: 9.00 - 24.00 
+ 
 
 address: Platzl 9, 80331 München
 

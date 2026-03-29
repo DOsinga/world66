@@ -1,6 +1,8 @@
 ---
 title: "Lemmer"
 type: location
+latitude: 52.844486
+longitude: 5.709914
 ---
 
 Located on the IJsselmeer, Lemmer is a main water sport center. 

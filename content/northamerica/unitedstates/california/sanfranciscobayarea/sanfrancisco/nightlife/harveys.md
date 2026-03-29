@@ -4,6 +4,8 @@ type: poi
 address: "500 Castro St."
 type: "Gay and Lesbian"
 url: "www.sfgaybarlist.com#harveys"
+latitude: 37.760772
+longitude: -122.435182
 ---
 
 Harvey's is a gay and lesbian bar/restaurant that is a perfect place to meet your

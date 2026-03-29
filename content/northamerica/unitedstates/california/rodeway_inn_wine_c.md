@@ -1,6 +1,8 @@
 ---
 title: "Rodeway Inn Wine Country"
 type: location
+latitude: 38.348866
+longitude: -122.715632
 ---
 
 Travel Guide

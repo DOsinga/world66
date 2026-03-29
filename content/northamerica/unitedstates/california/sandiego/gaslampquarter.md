@@ -1,6 +1,8 @@
 ---
 title: "Gaslamp Quarter"
 type: location
+latitude: 32.711499
+longitude: -117.16014
 ---
 
 The Gaslamp Quarter is [San Diego](/northamerica/unitedstates/california/sandiego)'s best dining, shopping and entertainment district. You'll find a diverse range of food, fun and culture centred around one of [California](/northamerica/unitedstates/california)'s most historic urban areas.

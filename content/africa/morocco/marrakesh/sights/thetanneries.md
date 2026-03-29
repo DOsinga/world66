@@ -1,6 +1,8 @@
 ---
 title: "The tanneries"
 type: poi
+latitude: 31.633714
+longitude: -7.978875
 ---
 
 I don't recommend this for everyone & I'm not sure I'd especially want to go there again for some time, if ever. But, for an experience of a life so different from our own & to assail your jaded traveller's senses with sights & smells of an intensity (mostly the smells!)which you won't forget in a hurry, just go!

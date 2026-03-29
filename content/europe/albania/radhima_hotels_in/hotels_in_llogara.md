@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Llogara"
 type: location
+latitude: 40.196717
+longitude: 19.594982
 ---
 
 Travel Guide

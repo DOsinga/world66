@@ -1,6 +1,8 @@
 ---
 title: "Laitse"
 type: location
+latitude: 59.207089
+longitude: 24.40409
 ---
 
 Travel Guide

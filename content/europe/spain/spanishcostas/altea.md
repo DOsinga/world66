@@ -1,6 +1,8 @@
 ---
 title: "Altea"
 type: location
+latitude: 38.602824
+longitude: -0.047206
 ---
 
 Altea is probably one of the most beautiful coastal resorts in Spain. The town was originally a fortress of the Habsburg Empire. The old town sits atop a hill, and is dominated by the glazed blue-tiled domes of the church. 

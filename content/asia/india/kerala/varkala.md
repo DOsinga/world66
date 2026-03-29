@@ -1,6 +1,8 @@
 ---
 title: "Varkala"
 type: location
+latitude: 8.734043
+longitude: 76.725285
 ---
 
 Most travellers spend some time at the popular Kovalam beach, south of Trivandrum. Varkala, north of the state's capital, was less easily reachable, but always worth the extra effort. High red rocks, coconut trees and unspoiled sea with high waves, that is the wonderful sight of the Arabian Sea coastline. 

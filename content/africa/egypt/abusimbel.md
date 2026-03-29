@@ -1,6 +1,8 @@
 ---
 title: "Abu Simbel"
 type: location
+latitude: 22.33712
+longitude: 31.625797
 ---
 
 Abu Simbel is on the top priority list of anyone going to Egypt. The temples of Abu Simbel are located in the southernmost part of the country; go any further and you are in the Sudan. 

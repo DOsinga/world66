@@ -1,6 +1,8 @@
 ---
 title: "Lazio"
 type: location
+latitude: 41.980165
+longitude: 12.766797
 ---
 
 Lazio (Latium in those days) was the heart of the Roman Empire. It still is very much the province of the perennial city of Rome. Although there are other interesting sights, most tourists will head for [Rome](/europe/italy/lazio/rome) immediately. And who can blame them? Rome is one of the most beautiful cities on the planet and a must see for everyone. 

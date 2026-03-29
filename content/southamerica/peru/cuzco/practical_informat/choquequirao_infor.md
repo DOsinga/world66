@@ -6,6 +6,8 @@ email: "internet@theinkaadventure.com"
 phone: "084-9932430"
 type: "Tourist information"
 url: "www.theinkaadventure.com"
+latitude: -13.517089
+longitude: -71.978536
 ---
 
 Some of the impressive features of Choquequirao, are the amazing stone walls protecting it, the greenness of their fabulous land shelves, and the entire atmosphere charged with energy probably coming from old ceremonies the Inkas used to perform to please the Sun god.

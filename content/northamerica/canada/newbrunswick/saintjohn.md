@@ -1,6 +1,8 @@
 ---
 title: "Saint John"
 type: location
+latitude: 45.278799
+longitude: -66.058519
 ---
 
 Saint John is NOT the capital of New Brunswick. If you would like to recommend any feature of this city to other travellers, please send us the information. 

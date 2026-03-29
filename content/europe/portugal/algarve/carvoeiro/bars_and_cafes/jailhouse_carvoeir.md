@@ -4,6 +4,8 @@ type: poi
 accessibility: "next to the post office"
 address: "rua do Escondidinho no 9"
 phone: "282 356235"
+latitude: 38.61567
+longitude: -9.190421
 ---
 
 The only place in Carvoeiro that has live music every night. Guest musicians are welcome and generally a fun atmosphere for locals and tourists alike.

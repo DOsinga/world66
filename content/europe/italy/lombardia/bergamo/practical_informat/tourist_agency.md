@@ -6,6 +6,8 @@ email: "aptbg@apt.bergamo.it"
 phone: "Tel. +39 035 210204"
 type: "Tourist information"
 url: "eng.turismo.bergamo.it"
+latitude: 44.79884
+longitude: 11.973498
 ---
 
 There are many tourist agencies in Bergamo to help you with any information you may need to make your stay complete. A guided tour? Skiing in the mountains? A special event?

@@ -5,6 +5,8 @@ address: "Vigo, Galicia"
 email: "tours@euroadventures.net"
 phone: "+34 (986) 22 13 99"
 url: "www.euroadventures.net"
+latitude: 42.23766
+longitude: -8.724721
 ---
 
 Journey with us on a Small Ship Cruise to the far edges of Western

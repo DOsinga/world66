@@ -1,6 +1,8 @@
 ---
 title: "Tofo"
 type: location
+latitude: -23.853606
+longitude: 35.547171
 ---
 
 Located just east of [Inhambane](/africa/mozambique/inhambane), Tofo offers nice beaches, nice surfing and excelent diving. There are several backpacker places: camping for 100,000 Meticais, dormitories for 200,000, though prices tend to change alot. Also there's an internet cafe (2,000 Meticais per minute).

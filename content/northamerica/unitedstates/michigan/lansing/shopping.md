@@ -5,6 +5,8 @@ address: "15487 S. US Hwy. 27"
 phone: "(517) 487-3275"
 type: "Antiques"
 url: "www.themegamall.net"
+latitude: 26.67604
+longitude: -80.723172
 ---
 
 Greater Lansing offers endless places to address those last minute

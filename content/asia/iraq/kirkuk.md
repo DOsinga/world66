@@ -1,6 +1,8 @@
 ---
 title: "Kirkuk"
 type: location
+latitude: 35.471931
+longitude: 44.39539
 ---
 
 We currently have no information about Kirkuk.

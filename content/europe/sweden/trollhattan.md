@@ -1,6 +1,8 @@
 ---
 title: "Trollhattan"
 type: location
+latitude: 58.282793
+longitude: 12.290861
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Jepara"
 type: location
+latitude: -6.589915
+longitude: 110.667299
 ---
 
 Travel Guide

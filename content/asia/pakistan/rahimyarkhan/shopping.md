@@ -4,6 +4,8 @@ type: section
 address: "Club Road Rahim Yar Khan"
 phone: "0685884648"
 type: "Shopping centers and malls"
+latitude: 28.301809
+longitude: 70.133677
 ---
 
 There are many things to see and do in the Pakistani city of Rahim Yar Khan, and here are some **Rahim Yar Khan shopping **places:

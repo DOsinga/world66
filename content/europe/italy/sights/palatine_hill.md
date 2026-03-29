@@ -2,6 +2,8 @@
 title: "Palatine Hill"
 type: poi
 type: "Landmarks"
+latitude: 41.889306
+longitude: 12.487109
 ---
 
 Incredible doesn't come close to describing it. Spectacle from lost ages on all sides, whist treading upon the ancient roadways constructed by the slaves of the Roman Empire. Starting at the Colosseum, winding up hill on the ancient stones of Via Sacra, (the road depicted in movies with the Roman Legions marching down it and the crowds standing on the sides of the road cheering), passing Caligula's Palace, the Basilica of Emperor Constantine, and through the archway of the Roman Senate.

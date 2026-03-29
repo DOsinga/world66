@@ -2,6 +2,8 @@
 title: "Shopping"
 type: section
 type: "Shopping centers and malls"
+latitude: 21.986308
+longitude: -99.016289
 ---
 
 PLAZA FORUM

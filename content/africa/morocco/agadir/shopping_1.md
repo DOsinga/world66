@@ -1,6 +1,8 @@
 ---
 title: "Shopping"
 type: location
+latitude: 33.60687
+longitude: -7.62065
 ---
 
 L'artisanat marocain ne cesse de fasciner le monde entier par sa beauté et par le talent des artisans maroains.

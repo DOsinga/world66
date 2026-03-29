@@ -2,6 +2,8 @@
 title: "Quetta International Airport"
 type: poi
 type: "By Air"
+latitude: 30.25249
+longitude: 66.938016
 ---
 
 Quetta International Airport (IATA: UET, ICAO: OPQT) is located at Quetta, the provincial capital of Balochistan, Pakistan.

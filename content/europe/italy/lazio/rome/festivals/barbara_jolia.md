@@ -5,6 +5,8 @@ address: "n/a"
 date: "april 9th 2005"
 email: "barbjolia@kutty.com"
 phone: "623-878-3128"
+latitude: 51.566874
+longitude: 4.928497
 ---
 
 hey there,

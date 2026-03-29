@@ -5,6 +5,8 @@ address: "Peru"
 email: "info@peruadventurestours.com"
 phone: "0051 54 221658"
 url: "www.peruadventurestours.com"
+latitude: -6.86997
+longitude: -75.045851
 ---
 
 **The Highest Sand Dune In The World - A Full Day Adrenaline**

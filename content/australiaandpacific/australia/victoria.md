@@ -1,6 +1,8 @@
 ---
 title: "Victoria"
 type: location
+latitude: -36.59861
+longitude: 144.678005
 ---
 
 Although the gold prospectors nearly got down-hearted, things changed around the 1850s. It turned out to be that most of what glistered in the Victorian soil actually was gold. The rich goldfields of Ballarat and Bendigo regions attracted hopeful immigrants from all over the world who came to one of the smallest states of Australia in the hope to find their fortune. Victoria slowly changed from a small pastoral area into Australia’s financial capital. 

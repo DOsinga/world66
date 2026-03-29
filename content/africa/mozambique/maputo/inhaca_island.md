@@ -1,6 +1,8 @@
 ---
 title: "Inhaca Island"
 type: location
+latitude: -26.024827
+longitude: 32.943683
 ---
 
 Travel Guide

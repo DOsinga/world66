@@ -1,6 +1,8 @@
 ---
 title: "Buffalo"
 type: location
+latitude: 42.886416
+longitude: -78.878149
 ---
 
 Travel Guide

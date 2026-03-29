@@ -1,6 +1,8 @@
 ---
 title: "Kinston"
 type: location
+latitude: 35.262664
+longitude: -77.581635
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ferries"
 type: poi
+latitude: 38.464647
+longitude: -8.866038
 ---
 
 Not only is it pleasant for visitors to use ferries for their own sake but, if you look at the traffic queues for the bridge in the rush period, you will realise that it's sometimes the quickest way!

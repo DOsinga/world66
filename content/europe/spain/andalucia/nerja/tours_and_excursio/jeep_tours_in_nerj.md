@@ -5,6 +5,8 @@ address: "Nerja Costa del Sol"
 email: "info@lifeadventure.es"
 phone: "0034 95 252 0748"
 url: "www.lifeadventure.es"
+latitude: 36.746552
+longitude: -3.880521
 ---
 
 Life Adventure Combi Jeep Tour, This is definitely one of our most popular jeep tours because of its great variety.

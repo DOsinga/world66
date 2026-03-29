@@ -1,6 +1,8 @@
 ---
 title: "Rost"
 type: location
+latitude: 67.397286
+longitude: 12.032691
 ---
 
 **RØST** 

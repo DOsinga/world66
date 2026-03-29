@@ -1,6 +1,8 @@
 ---
 title: "LAXMANGARH,SIKAR"
 type: location
+latitude: 27.821438
+longitude: 75.025065
 ---
 
 Travel Guide

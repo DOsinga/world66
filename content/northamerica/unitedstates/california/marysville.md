@@ -1,6 +1,8 @@
 ---
 title: "Marysville"
 type: location
+latitude: 48.051743
+longitude: -122.176821
 ---
 
 Travel Guide

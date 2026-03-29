@@ -6,6 +6,8 @@ email: "lahierbasanta@gmail.com"
 phone: "516 3543"
 price: "65 pesos"
 type: "International"
+latitude: 20.527578
+longitude: -100.805734
 ---
 
 November 2008

@@ -1,6 +1,8 @@
 ---
 title: "Tequila"
 type: location
+latitude: 21.11582
+longitude: -103.810137
 ---
 
 Travel Guide

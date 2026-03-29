@@ -1,6 +1,8 @@
 ---
 title: "Dartmoor"
 type: location
+latitude: 50.565735
+longitude: -3.900971
 ---
 
 Dartmoor is a huge granite area of moorland with fascinating outcrops of rock on top of the hills, called Tors. It is worth noting that Burrator is not actually a tor but a reservoir supplying the city of [Plymouth](/europe/unitedkingdom/england/bristol_plymouth/devon/plymouth) which is near to the south edge of the Moor.

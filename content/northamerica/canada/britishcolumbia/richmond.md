@@ -1,6 +1,8 @@
 ---
 title: "Richmond"
 type: location
+latitude: 49.163168
+longitude: -123.137414
 ---
 
 Travel Guide

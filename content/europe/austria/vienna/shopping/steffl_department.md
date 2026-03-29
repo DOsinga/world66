@@ -6,6 +6,8 @@ email: "office@steffl-vienna.at"
 phone: "+43 1 930 56 - 0"
 type: "Shopping centers and malls"
 url: "www.steffl-vienna.at"
+latitude: 48.206406
+longitude: 16.372121
 ---
 
 The Steffl Department Store Vienna is centrally located on Vienna's oldest shopping street Kärntner Straße in the 1st district, right around the corner from the famous St. Stephen's Cathedral.

@@ -7,6 +7,8 @@ email: "reservas@shenanigans.com.br"
 phone: "2540.0870"
 type: "Pubs"
 url: "www.shenanigans.com.br"
+latitude: -22.984037
+longitude: -43.208755
 ---
 
 **Shenanigans** is an Irish pub found right in the middle of Zona Sul Rio. You can order drinks and attempt to sit or play pool (the pub is generally crowded) or make your way through the people to the small balcony and enjoy conversation, a beer, and a cigarette.

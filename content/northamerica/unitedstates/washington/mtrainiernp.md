@@ -1,6 +1,8 @@
 ---
 title: "Mt. Rainier NP"
 type: location
+latitude: 46.854338
+longitude: -121.706334
 ---
 
 Mount Rainier National Park is a 14,410' volcano about 2 hours from Seattle. It encompasses 235,625 acres, ranging in elevation from 1,610' to 14,410' above sea level. The "mountain" (as locals call it) is an active volcano encased in over 35 square miles of snow and ice, surrounded by old growth forest and stunning wildflower meadows.

@@ -6,6 +6,8 @@ email: "elsaligia@hotmail.com"
 phone: "0057-5-4316714"
 type: "Other"
 url: "www.neotropical.se"
+latitude: 21.004943
+longitude: -89.553061
 ---
 
 Study Spanish with Elsa, 8 USD per hour in central Santa Marta.

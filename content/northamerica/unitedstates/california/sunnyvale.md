@@ -1,6 +1,8 @@
 ---
 title: "Sunnyvale"
 type: location
+latitude: 37.36883
+longitude: -122.036349
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Natural History Collection"
 type: poi
 address: "Kornhausgasse 3"
+latitude: 47.55652
+longitude: 7.583684
 ---
 
 History of the Earth - roks, minerals, excavatory finds and indigenous animals. Special echibitions

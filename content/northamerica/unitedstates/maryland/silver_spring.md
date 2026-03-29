@@ -1,6 +1,8 @@
 ---
 title: "Silver Spring"
 type: location
+latitude: 38.999762
+longitude: -77.024037
 ---
 
 Travel Guide

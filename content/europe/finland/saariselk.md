@@ -1,6 +1,8 @@
 ---
 title: "Saariselkä"
 type: location
+latitude: 68.421398
+longitude: 27.417764
 ---
 
 Travel Guide

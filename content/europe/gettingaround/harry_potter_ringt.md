@@ -5,6 +5,8 @@ address: "Patrick"
 email: "shawn@yahoo.com"
 phone: "Patrick"
 url: "gushi.org"
+latitude: 36.681871
+longitude: -80.284636
 ---
 
 Nice site!

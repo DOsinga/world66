@@ -2,6 +2,8 @@
 title: "East Side"
 type: poi
 type: "Quarter"
+latitude: 41.713569
+longitude: -87.532781
 ---
 
 East Side

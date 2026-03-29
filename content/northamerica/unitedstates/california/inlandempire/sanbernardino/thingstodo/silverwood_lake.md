@@ -3,6 +3,8 @@ title: "Silverwood Lake"
 type: poi
 type: "Hunting and Fishing"
 url: "www.parks.ca.gov"
+latitude: 34.290636
+longitude: -117.324176
 ---
 
 Lake Silverwood is located just 30 miles from the city of San Bernadino. This beautiful 2400 acre recreation area is at an altitude of 3380 feet. The surface area of the lake is 980 acres with 13 miles of shoreline.

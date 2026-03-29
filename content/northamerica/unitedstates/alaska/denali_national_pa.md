@@ -1,6 +1,8 @@
 ---
 title: "Denali National Park and Preserve"
 type: location
+latitude: 63.734757
+longitude: -148.885135
 ---
 
 Travel Guide

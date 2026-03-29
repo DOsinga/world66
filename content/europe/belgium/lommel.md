@@ -1,6 +1,8 @@
 ---
 title: "Lommel"
 type: location
+latitude: 51.230566
+longitude: 5.30769
 ---
 
 Travel Guide

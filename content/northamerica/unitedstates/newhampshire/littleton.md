@@ -1,6 +1,8 @@
 ---
 title: "Littleton"
 type: location
+latitude: 39.613321
+longitude: -105.016649
 ---
 
 Travel Guide

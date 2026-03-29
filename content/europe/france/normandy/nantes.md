@@ -1,6 +1,8 @@
 ---
 title: "Nantes"
 type: location
+latitude: 47.218637
+longitude: -1.554136
 ---
 
 Travel Guide

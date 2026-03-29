@@ -4,6 +4,8 @@ type: poi
 address: "Shanghai St 653"
 phone: "3294 1765"
 type: "Local Specialities"
+latitude: 45.760864
+longitude: 126.596108
 ---
 
 type: Local Specialities

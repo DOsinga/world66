@@ -1,6 +1,8 @@
 ---
 title: "Golden Coast"
 type: location
+latitude: 22.235768
+longitude: 113.961326
 ---
 
 Travel Guide

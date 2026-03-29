@@ -1,6 +1,8 @@
 ---
 title: "Hawalli"
 type: location
+latitude: 29.323661
+longitude: 48.115315
 ---
 
 We currently have no information about Hawalli.

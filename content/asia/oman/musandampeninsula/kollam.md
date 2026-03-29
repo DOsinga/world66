@@ -1,6 +1,8 @@
 ---
 title: "Kollam"
 type: location
+latitude: 8.812786
+longitude: 76.757741
 ---
 
 Travel Guide

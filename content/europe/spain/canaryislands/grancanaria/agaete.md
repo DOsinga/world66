@@ -1,6 +1,8 @@
 ---
 title: "Agaete"
 type: location
+latitude: 28.10085
+longitude: -15.702348
 ---
 
 Travel Guide

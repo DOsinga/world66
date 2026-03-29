@@ -5,6 +5,8 @@ address: "Arlington St."
 phone: "617-522-1966"
 type: "Parks, Gardens and Zoos"
 url: "www.swanboats.com"
+latitude: 40.39712
+longitude: -80.137355
 ---
 
 Adjacent to the [Boston Common](/northamerica/unitedstates/massachusetts/boston/sights/boston_common)

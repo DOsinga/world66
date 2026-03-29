@@ -5,6 +5,8 @@ address: "Avenida Nossa Senhora de Copacabana 492"
 phone: "2548 9966"
 type: "Health and Safety"
 url: "www.galdinocampos.com.br"
+latitude: -22.986298
+longitude: -43.189898
 ---
 
 **GALDINO CAMPOS CLINIC **is an amazing medical clinic that is specialized in

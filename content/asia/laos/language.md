@@ -1,6 +1,8 @@
 ---
 title: "Language"
 type: location
+latitude: 17.9694
+longitude: 102.592612
 ---
 
 The official language is Lao, the language of the largest ethnic group in Laos, which sounds similar to Thai. Instead of Sawadee-kap as in thailand they simply say Sawadee.

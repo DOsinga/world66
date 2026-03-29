@@ -1,9 +1,12 @@
 ---
 title: "Gallery Reykjavík"
 type: poi
+latitude: 64.144107
+longitude: -21.939219
 ---
 
-Icelandic contemporary art.  
+Icelandic contemporary art. 
+ 
 
 email: gallery.reykjavik@simnet.is
 

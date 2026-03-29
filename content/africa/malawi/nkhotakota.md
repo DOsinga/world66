@@ -1,6 +1,8 @@
 ---
 title: "Nkhotakota"
 type: location
+latitude: -12.832197
+longitude: 34.032918
 ---
 
 We currently have no information about Nkhotakota.

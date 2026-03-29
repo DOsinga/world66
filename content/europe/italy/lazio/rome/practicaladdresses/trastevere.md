@@ -2,6 +2,8 @@
 title: "Trastevere"
 type: poi
 type: "Quarter"
+latitude: 41.891159
+longitude: 12.466846
 ---
 
 Trastevere

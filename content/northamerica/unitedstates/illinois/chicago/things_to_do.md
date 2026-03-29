@@ -4,6 +4,8 @@ type: section
 address: "1600 N. Lake Shore Drive"
 phone: "773-327-2706"
 type: "Going to the Beach"
+latitude: 45.866471
+longitude: -87.017487
 ---
 
 Winter, summer, spring or fall, there is always something fun and exciting to do in Chicago. This means, no matter when you decide to take your Chicago trip, you will always find something to suit your fancy. During the winter months, Millennium Park is like a winter wonderland with ice skaters enjoying the 16,000-square-foot ice- skating rink or tourists checking out the artwork and architecture by famous artists, designers, and landscapers such as Kathryn Gustafson, Frank Gehry, Juame Plensa, and Anish Kapoor. During the warmer months, biking along the Lake Shore Drive bike path is popular or sunbathing at North Avenue Beach. Continue reading to find out more about things to do in Chicago -- for all seasons!

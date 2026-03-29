@@ -4,6 +4,8 @@ type: poi
 address: "rua 3 Setembro"
 phone: "00351262990091"
 type: "Portuguese"
+latitude: -2.522559
+longitude: -44.23924
 ---
 
 Excellent private restaurant with traditional food and special service.

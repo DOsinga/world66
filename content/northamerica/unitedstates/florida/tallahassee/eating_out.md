@@ -5,6 +5,8 @@ address: "1710 W. Tharpe St."
 phone: "850-383-8333"
 price: "$8-$11 per person"
 type: "International"
+latitude: 30.463887
+longitude: -84.314235
 ---
 
 For a relatively small city, Tallahassee has a surprising variety of delicious and eclectic restaurants at reasonable prices.

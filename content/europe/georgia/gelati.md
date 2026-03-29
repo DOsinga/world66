@@ -1,6 +1,8 @@
 ---
 title: "Gelati"
 type: location
+latitude: 41.818719
+longitude: 46.194441
 ---
 
 The Gelati Monastery , once a major centre of enlightenment in Georgia for many long centuries, was a repository of many outstanding monuments of art, and still is even today.

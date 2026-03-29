@@ -1,6 +1,8 @@
 ---
 title: "Princetown"
 type: location
+latitude: 50.544391
+longitude: -3.991498
 ---
 
 This claims to be England's highest town. It was once connected to Yelverton by a branch line of the Great Western Railwy's line from

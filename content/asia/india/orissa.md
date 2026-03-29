@@ -1,6 +1,8 @@
 ---
 title: "Orissa"
 type: location
+latitude: 20.543124
+longitude: 84.689732
 ---
 
 Orissa, one of the 25 states of India, is the best of ancient and modern India. It is the one of the areas where people share a strong sense of holiness, a sense of belonging and attachment to their beautiful land, and cherish their enduring links with the past. It contains exquisite temples, superb monuments, inviting beaches, enchanting wildlife and astonishing natural landscapes. It is a must on the itinerary of any tourist visiting India. 

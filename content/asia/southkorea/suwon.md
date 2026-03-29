@@ -1,6 +1,8 @@
 ---
 title: "Suwon"
 type: location
+latitude: 37.263332
+longitude: 127.028747
 ---
 
 We currently have no information about Suwon.

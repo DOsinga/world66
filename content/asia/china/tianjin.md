@@ -1,6 +1,8 @@
 ---
 title: "Tianjin"
 type: location
+latitude: 39.303262
+longitude: 117.416364
 ---
 
 The poor man’s version of Beijing. If you’re a foreigner, Tianjin a great place to live for a few years. Prices are cheap, people are overwhelmingly friendly and laid-back, and it has all the conveniences of a big city with the atmosphere of a small town (if that’s possible for a metropolis of 9m). If you’re a tourist however, Tianjin offers only minimal destinations of note, and most of these center around food. To be specific, Tianjin is most famous for four types of food:

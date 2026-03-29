@@ -1,6 +1,8 @@
 ---
 title: "Gyumri"
 type: location
+latitude: 40.785209
+longitude: 43.841609
 ---
 
 Travel Guide

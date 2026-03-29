@@ -4,6 +4,8 @@ type: poi
 price: "20$-30$"
 type: "Japanese"
 url: "www.yakitoriya.ru"
+latitude: 55.45714
+longitude: 37.294642
 ---
 
 This is the chain of popular japanese restaurants in town. You can find it almost anywhere. Open even at nights. The most famous: Noviy Arbat street, 10; 1 Tverskaya-Yamskaya street, 29; Novoslabodskaya street, 20

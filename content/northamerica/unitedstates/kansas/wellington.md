@@ -1,6 +1,8 @@
 ---
 title: "Wellington"
 type: location
+latitude: 34.85599
+longitude: -100.213587
 ---
 
 Travel Guide

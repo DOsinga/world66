@@ -1,6 +1,8 @@
 ---
 title: "Tarija"
 type: location
+latitude: -21.583333
+longitude: -63.833333
 ---
 
 This is the most Argentine city of Bolivia in two ways: it´s habitants are descended from Argentine gauchos, and more importantly, it is a great wine region. The city has the same feel as towns like [Jujuy](/southamerica/argentina/jujuy) and [Salta](/southamerica/argentina/salta) in Argentina, you have the exotic Bolivian reality, but it has metropolitan edges. In a place like El Gattopardo on the central plaza, you can really feel like being in an excellent European or Argentine restaurant, while sipping on an excellent local Concepcion wine, and all that for Bolivian prices.

@@ -1,6 +1,8 @@
 ---
 title: "Aeolian islands"
 type: location
+latitude: 38.48137
+longitude: 14.939662
 ---
 
 The Aeolian islands are located just north of

@@ -1,6 +1,8 @@
 ---
 title: "Rexburg"
 type: location
+latitude: 43.826079
+longitude: -111.783728
 ---
 
 Travel Guide

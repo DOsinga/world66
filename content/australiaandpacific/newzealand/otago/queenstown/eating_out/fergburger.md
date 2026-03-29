@@ -5,6 +5,8 @@ address: "42 Shotover street"
 price: "$9.00 - $15.50"
 type: "Fast food"
 url: "www.fergburger.com"
+latitude: -45.031742
+longitude: 168.659462
 ---
 
 Everyone on the south island in [New Zealand](/australiaandpacific/newzealand) knows this place. Fergburger serves the best burgers in the southern hemisphere, maybe even in the world.

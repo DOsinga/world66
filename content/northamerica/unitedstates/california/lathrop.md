@@ -1,6 +1,8 @@
 ---
 title: "Lathrop"
 type: location
+latitude: 37.822705
+longitude: -121.27661
 ---
 
 Travel Guide

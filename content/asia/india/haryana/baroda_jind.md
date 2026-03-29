@@ -1,6 +1,8 @@
 ---
 title: "Baroda Jind"
 type: location
+latitude: 29.439207
+longitude: 76.207731
 ---
 
 Travel Guide

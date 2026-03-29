@@ -1,6 +1,8 @@
 ---
 title: "Tavira"
 type: location
+latitude: 37.126249
+longitude: -7.649912
 ---
 
 With its inviting long beaches, typical roofs and chimneys, this picturesque town offers a beautiful view over the Gilão river and its Roman bridge.

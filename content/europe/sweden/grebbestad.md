@@ -1,6 +1,8 @@
 ---
 title: "Grebbestad"
 type: location
+latitude: 58.692007
+longitude: 11.254233
 ---
 
 Travel Guide

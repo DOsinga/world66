@@ -4,6 +4,8 @@ type: section
 address: "Gamla Torget"
 opening_hours: "17.00 -21.00"
 type: "Squares"
+latitude: 59.858897
+longitude: 17.636367
 ---
 
 There are a lot of sights and events in the area of Kungälv

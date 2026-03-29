@@ -1,6 +1,8 @@
 ---
 title: "Susoom Lasht Karimabad"
 type: location
+latitude: 36.080525
+longitude: 71.828504
 ---
 
 Travel Guide

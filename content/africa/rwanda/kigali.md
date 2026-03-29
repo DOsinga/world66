@@ -1,6 +1,8 @@
 ---
 title: "Kigali"
 type: location
+latitude: -1.953436
+longitude: 30.114009
 ---
 
 Kigali is the capital of Rwanda and it's most important city. It's mainly an administrative centre and even before the civil war in Rwanda there wasn't really a lot to do and see.

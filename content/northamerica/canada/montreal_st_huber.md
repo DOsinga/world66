@@ -1,6 +1,8 @@
 ---
 title: "Montreal St. Hubert street"
 type: location
+latitude: 45.309372
+longitude: -66.015079
 ---
 
 Travel Guide

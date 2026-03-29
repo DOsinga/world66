@@ -4,6 +4,8 @@ type: poi
 address: "Savignyplatz 590"
 connections: "S Savignyplatz,"
 opening_hours: "Mo-Fr 10am -8pm, Sa 10am -4pm"
+latitude: 52.505776
+longitude: 13.323066
 ---
 
 Modern lights in all shapes and sizes shine out here.connection: S Savignyplatz,

@@ -6,6 +6,8 @@ email: "info@luxuryshoppingdeluxecard.com"
 phone: "212-613-3179"
 type: "Speciality shops"
 url: "www.luxuryshoppingdeluxecard.com"
+latitude: 40.761126
+longitude: -73.970627
 ---
 
 Normal

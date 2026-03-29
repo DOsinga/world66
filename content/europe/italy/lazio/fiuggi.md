@@ -1,6 +1,8 @@
 ---
 title: "Fiuggi"
 type: location
+latitude: 41.798561
+longitude: 13.220489
 ---
 
 Travel Guide

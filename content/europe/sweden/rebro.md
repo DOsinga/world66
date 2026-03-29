@@ -1,6 +1,8 @@
 ---
 title: "Örebro"
 type: location
+latitude: 59.274729
+longitude: 15.215118
 ---
 
 Travel Guide

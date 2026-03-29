@@ -1,6 +1,8 @@
 ---
 title: "Leeds"
 type: location
+latitude: 53.797418
+longitude: -1.543794
 ---
 
 Leeds is the principal city of the north of England. It is a centre of commerce, finance and industry situated at the crossroads where the main north-south and east-west motorways and railways cross. It is Britain’s greenest city with more parkland in ratio to its population than any other lying second in Europe only to Vienna. Its two major parks are at Temple Newsam which at 1000 acres is Europe’s largest urban park and Roundhay with its two lakes that covers 750 acres. 

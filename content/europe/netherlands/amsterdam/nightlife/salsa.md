@@ -1,6 +1,8 @@
 ---
 title: "Salsa"
 type: poi
+latitude: 51.818371
+longitude: 5.820307
 ---
 
 Insiders call Amsterdam the capital of Salsa in Europe and there is some truth in it. Hardly any city in Europe provides so many dancing possibilities, especially if you include the neighboring cities like [Utrecht](/europe/netherlands/utrecht) and [Haarlem](/europe/netherlands/haarlem). It is possible to dance every day even on Mondays. Every weekend there are irregular or occasional Salsa parties going on. At most Salsa places you will get the monthly Salsa programme K-SALSA keeping you updated on all events around Latin dancing. 
@@ -9,7 +11,10 @@ Insiders call Amsterdam the capital of Salsa in Europe and there is some truth i
 
 **La Pachanga**
 
-The best place in Greater Amsterdam for dancing on a Thursday. At 11 o'clock the places starts to get crowded. Also a possible choice on Saturdays, but not as great as on a Thursday.    ** Jost Wagner:** On Thursday the best dancers meet here, but on most other days you can give t [more..](/europe/netherlands/amsterdam/nightlife/salsa/lapachanga)
+The best place in Greater Amsterdam for dancing on a Thursday. At 11 o'clock the places starts to get crowded. Also a possible choice on Saturdays, but not as great as on a Thursday. 
+ 
+ 
+ ** Jost Wagner:** On Thursday the best dancers meet here, but on most other days you can give t [more..](/europe/netherlands/amsterdam/nightlife/salsa/lapachanga)
 
 address: Jan van Galenstraat 24 inside Ram's Party Center
 

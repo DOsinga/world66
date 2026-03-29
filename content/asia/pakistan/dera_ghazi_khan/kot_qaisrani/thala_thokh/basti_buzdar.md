@@ -1,6 +1,8 @@
 ---
 title: "Basti Buzdar"
 type: location
+latitude: 30.771089
+longitude: 70.542929
 ---
 
 Travel Guide

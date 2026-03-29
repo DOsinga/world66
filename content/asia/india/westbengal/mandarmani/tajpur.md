@@ -1,6 +1,8 @@
 ---
 title: "Tajpur"
 type: location
+latitude: 25.859477
+longitude: 85.661332
 ---
 
 Travel Guide

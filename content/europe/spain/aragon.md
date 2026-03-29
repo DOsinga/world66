@@ -1,6 +1,8 @@
 ---
 title: "Aragon"
 type: location
+latitude: 41.378729
+longitude: -0.763937
 ---
 
 ** Aragon**

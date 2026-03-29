@@ -1,6 +1,8 @@
 ---
 title: "Kelantan"
 type: location
+latitude: 5.40213
+longitude: 102.063597
 ---
 
 ** ** 

@@ -1,6 +1,8 @@
 ---
 title: "Santarem"
 type: location
+latitude: -2.438489
+longitude: -54.699611
 ---
 
 Travel Guide

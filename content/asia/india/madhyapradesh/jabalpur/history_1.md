@@ -1,6 +1,8 @@
 ---
 title: "History"
 type: location
+latitude: 11.663315
+longitude: 78.160071
 ---
 
 hhfjjjjjjjjjjjjjjjjjjjjjjhh

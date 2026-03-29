@@ -2,6 +2,8 @@
 title: "Train"
 type: poi
 email: "agungyoga@gmail.com"
+latitude: -6.91991
+longitude: 107.631385
 ---
 
 I think by far Plane is the efficient way to travel in Indonesia.

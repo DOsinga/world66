@@ -2,6 +2,8 @@
 title: "Getting There"
 type: section
 type: "By Air"
+latitude: 39.841319
+longitude: -88.966486
 ---
 
 Boulder is 25 miles Northwest of Denver, up against the Rocky Mountains.

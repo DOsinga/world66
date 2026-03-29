@@ -1,6 +1,8 @@
 ---
 title: "Casela"
 type: location
+latitude: -20.305063
+longitude: 57.407975
 ---
 
 Set in a magnificient site between Bambous and Tamarin in the Riviere Noire district, the Casela Bird Park hosts some 140 varieties of birds from around the world. 

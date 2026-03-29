@@ -5,6 +5,8 @@ address: "v Kinsbergenstraat 11"
 phone: "+31 (0)55 521 7630"
 type: "Bars"
 zipcode: "7311BL"
+latitude: 52.080969
+longitude: 4.295144
 ---
 
 type: Bars

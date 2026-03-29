@@ -8,6 +8,8 @@ phone: "+358 3 233 4400"
 price: "15-40 eur"
 type: "Spanish"
 url: "www.huviopas.net"
+latitude: 61.497253
+longitude: 23.770714
 ---
 
 A great place to eat is Telakka, situated not far from the rear entrance of the station.

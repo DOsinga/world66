@@ -3,6 +3,8 @@ title: "Minar-e-Pakistan"
 type: poi
 address: "Lahore, Pakistan"
 type: "Landmarks"
+latitude: 31.565682
+longitude: 74.314183
 ---
 
 **Minar-e-Pakistan** is a tall minaret in Iqbal Park Lahore, built in commemoration of the Lahore Resolution. The minaret reflects a blend of Mughal and modern architecture, and is constructed on the site where on March 23, 1940, seven years before the formation of Pakistan, the Muslim League passed the Lahore Resolution ( Qarardad-e-Lahore ), demanding the creation of Pakistan. This was the first official declaration to establish a separate homeland for the Muslims living in the South Asia. Pakistan now celebrates this day as a national holiday each year.

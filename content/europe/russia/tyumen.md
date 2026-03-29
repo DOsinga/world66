@@ -1,6 +1,8 @@
 ---
 title: "Tyumen"
 type: location
+latitude: 57.153534
+longitude: 65.542274
 ---
 
 Tyumen is a support center for the surrounding oil industry.

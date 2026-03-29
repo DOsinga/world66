@@ -6,6 +6,8 @@ email: "shohin.rajagency@gmail.com"
 phone: "40098158"
 price: "up to 200"
 type: "International"
+latitude: -26.657346
+longitude: 153.094563
 ---
 
 **Nirvana Cafe** ,

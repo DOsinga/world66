@@ -1,6 +1,8 @@
 ---
 title: "Wharfedale"
 type: location
+latitude: 54.004185
+longitude: -1.903296
 ---
 
 It is upper Wharfedale and its headwaters in Langstrothdale which lie in the National Park. This forms one of the most attractive of the Dales. Langstrothdale, before it gets to anywhere at all, has some fabulous places to stop, picnic and letthe children build dams or paddle. Then it reaches Hubberholme, perhaps the prettiest of all the Dales villages [htough it has competition].

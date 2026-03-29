@@ -1,6 +1,8 @@
 ---
 title: "High Atlas"
 type: location
+latitude: 31.06
+longitude: -7.9
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "vanga"
 type: location
+latitude: 44.91016
+longitude: 13.729999
 ---
 
 We currently have no information about vanga.

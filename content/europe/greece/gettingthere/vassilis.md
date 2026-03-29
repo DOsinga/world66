@@ -2,6 +2,8 @@
 title: "Athens International Airport"
 type: poi
 type: "By Air"
+latitude: 37.937253
+longitude: 23.954622
 ---
 
 The main entrance to Greece is Athens featuring its new, modern and

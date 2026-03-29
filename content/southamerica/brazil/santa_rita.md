@@ -1,6 +1,8 @@
 ---
 title: "Santa Rita"
 type: location
+latitude: -7.128465
+longitude: -34.984619
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Theatre"
 type: poi
+latitude: 50.8496
+longitude: 4.354241
 ---
 
 **Place to go outs**

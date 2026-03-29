@@ -5,6 +5,8 @@ address: "Puigmolto"
 email: "info@sitges4u.com"
 type: "Going to the Beach"
 url: "www.sitges4u.com"
+latitude: 41.249251
+longitude: 1.769413
 ---
 
 Playa Balmins

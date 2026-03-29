@@ -6,6 +6,8 @@ phone: "01 44 32 00 32"
 price: "35 Euros"
 type: "French"
 url: "zekitchengalerie.abemadi.com"
+latitude: 48.855258
+longitude: 2.34032
 ---
 
 “Ze Kitchen Galerie” is lcoated 4, rue des Grands Augustins, Paris 75006 - Téléphone. 01 44 32 00 32. Cuisine is made by Chef William Ledeuil.

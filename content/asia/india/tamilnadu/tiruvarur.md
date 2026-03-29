@@ -1,6 +1,8 @@
 ---
 title: "Tiruvarur"
 type: location
+latitude: 10.938061
+longitude: 79.413043
 ---
 
 The District of Tiruvarur has been carved out as a separate district

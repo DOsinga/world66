@@ -1,6 +1,8 @@
 ---
 title: "Kirkenes"
 type: location
+latitude: 69.727148
+longitude: 30.044897
 ---
 
 **KIRKENES**

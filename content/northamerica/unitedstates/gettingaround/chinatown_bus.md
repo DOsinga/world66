@@ -2,6 +2,8 @@
 title: "Chinatown Bus"
 type: poi
 url: "www.GotoBus.com"
+latitude: 40.442734
+longitude: -79.994113
 ---
 
 By far the least expensive way to travel within the United States is on a “* Chinatown bus*”. This term is used to describe low-fare, no-frills bus service that is offered in most major cities on the east and west coast. There are many bus operators that run this type of service and they often (though not always) pickup and drop-off in a city’s Chinatown district. These bus companies do not usually have a formal bus station and run very basic service. The cost is commonly about two thirds to one half of what it costs to take traditional bus service.

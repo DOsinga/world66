@@ -1,6 +1,8 @@
 ---
 title: "Vologda"
 type: poi
+latitude: 60.039146
+longitude: 43.121521
 ---
 
 This old Russian town located in about 500 km to the north of Moscow well worth visiting. In fact you could spend in this region much more than one day. But even one day here is better then nothing.

@@ -1,6 +1,8 @@
 ---
 title: "Shandong Province"
 type: location
+latitude: 36.398987
+longitude: 118.505569
 ---
 
 Shandong is often considered to be the seat of Chinese culture. Located

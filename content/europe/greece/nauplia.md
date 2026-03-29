@@ -1,6 +1,8 @@
 ---
 title: "Nauplia"
 type: location
+latitude: 37.565923
+longitude: 22.806878
 ---
 
 Nafplio (or Navplion, Nauplia or Navplio, depending on what you read; but, definitely, it is **Ναύπλιο**) is on the eastern shores of the Peloponnese. The first capital city of independent Greece in 1823, Nafplio is today a very attractive town of 12,000. The narrow streets of the old town are lined with Venetian, neo-classical and Ottoman buildings, and dramatically overlooking it all is the towering but graceful Palamidi Fortress perched on a 216 metre outcrop to the northwest. 

@@ -1,6 +1,8 @@
 ---
 title: "Kalimantan"
 type: location
+latitude: 1.429783
+longitude: 114.741041
 ---
 
 Kalimantan is one of the least visited parts of Indonesia. The main reason for this is that it takes a long time and a fair amount of money and effort to explore. The good thing about the lack of tourists is that Kalimantan has remained unspoilt. 

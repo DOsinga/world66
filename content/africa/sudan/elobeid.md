@@ -1,6 +1,8 @@
 ---
 title: "El obeid"
 type: location
+latitude: 13.183366
+longitude: 30.222559
 ---
 
 We currently have no information about El obeid.

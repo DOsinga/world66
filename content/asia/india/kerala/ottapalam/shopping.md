@@ -7,6 +7,8 @@ email: "na"
 phone: "na"
 type: "Antiques"
 url: "na"
+latitude: 10.773223
+longitude: 76.377245
 ---
 
 There are big shopping complexes are in the city like KVK Bros, Municipal Shoping cmplx etc.

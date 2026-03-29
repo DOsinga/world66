@@ -1,6 +1,8 @@
 ---
 title: "Ile de Ré"
 type: location
+latitude: 46.200538
+longitude: -1.40028
 ---
 
 Very nice island, just in front of La Rochelle, must be discovered at random, by bicycle.

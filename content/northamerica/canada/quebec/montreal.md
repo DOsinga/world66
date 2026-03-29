@@ -1,6 +1,8 @@
 ---
 title: "Montreal"
 type: location
+latitude: 45.503182
+longitude: -73.569806
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Husavik"
 type: location
+latitude: 66.043317
+longitude: -17.34104
 ---
 
 Travel Guide

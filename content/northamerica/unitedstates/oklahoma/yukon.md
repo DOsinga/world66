@@ -1,6 +1,8 @@
 ---
 title: "Yukon"
 type: location
+latitude: 35.506726
+longitude: -97.762539
 ---
 
 Travel Guide

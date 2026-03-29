@@ -3,6 +3,8 @@ title: "FAKHRELDINE"
 type: poi
 address: "Klimentska 48, Praha 1"
 phone: "+42 (0)02 232 1659"
+latitude: 50.092411
+longitude: 14.434423
 ---
 
 Open: Daily. 12.00 - 24.00

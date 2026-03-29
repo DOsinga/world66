@@ -1,6 +1,8 @@
 ---
 title: "Comodoro Rivadavia"
 type: location
+latitude: -45.863202
+longitude: -67.475262
 ---
 
 Travel Guide

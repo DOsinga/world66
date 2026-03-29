@@ -1,6 +1,8 @@
 ---
 title: "Canmore, Alberta"
 type: location
+latitude: 51.08669
+longitude: -115.348113
 ---
 
 Travel Guide

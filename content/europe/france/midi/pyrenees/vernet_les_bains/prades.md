@@ -1,6 +1,8 @@
 ---
 title: "Prades"
 type: location
+latitude: 42.618123
+longitude: 2.423093
 ---
 
 Travel Guide

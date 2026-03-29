@@ -4,6 +4,8 @@ type: poi
 email: "info@berberadventures.com"
 type: "Other"
 url: "berberadventures.com"
+latitude: 31.3006
+longitude: -6.152485
 ---
 
 **Weekly Market:** Without doubt, if you can manage to get to

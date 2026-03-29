@@ -1,6 +1,8 @@
 ---
 title: "Ba Be"
 type: location
+latitude: 22.410703
+longitude: 105.722868
 ---
 
 Travel Guide

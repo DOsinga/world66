@@ -1,6 +1,8 @@
 ---
 title: "Glastonbury"
 type: location
+latitude: 41.712322
+longitude: -72.608146
 ---
 
 Travel Guide

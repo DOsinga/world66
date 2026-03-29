@@ -1,6 +1,8 @@
 ---
 title: "Gravina in Puglia"
 type: location
+latitude: 40.819725
+longitude: 16.422779
 ---
 
 Travel Guide

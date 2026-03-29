@@ -2,6 +2,8 @@
 title: "Mt. Fuji"
 type: poi
 type: "Climbing"
+latitude: 35.362838
+longitude: 138.730768
 ---
 
 Approx. 45 minutes south of Tokyo. A historical beautiful inactive volcano known world wide for it's beauty. Mt Fuji is 3,776 metres high.

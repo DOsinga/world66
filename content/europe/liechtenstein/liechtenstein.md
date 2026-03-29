@@ -1,6 +1,8 @@
 ---
 title: "Liechtenstein"
 type: location
+latitude: 47.141631
+longitude: 9.553153
 ---
 
 High in the mountain range of the Alps, Liechtenstein is not only landlocked, but only borders landlocked countries as well. This small country is ruled by a real prince, His highness Hans-Adam of Liechtenstein. One of the oldest royal families in Europe.

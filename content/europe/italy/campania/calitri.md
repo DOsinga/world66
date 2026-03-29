@@ -1,6 +1,8 @@
 ---
 title: "Calitri"
 type: location
+latitude: 40.902119
+longitude: 15.430556
 ---
 
 Travel Guide

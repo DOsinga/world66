@@ -1,6 +1,8 @@
 ---
 title: "kumarakom"
 type: location
+latitude: 9.596054
+longitude: 76.430538
 ---
 
 Travel Guide

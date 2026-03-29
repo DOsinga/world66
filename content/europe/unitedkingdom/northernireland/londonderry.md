@@ -1,6 +1,8 @@
 ---
 title: "Londonderry"
 type: location
+latitude: 54.997868
+longitude: -7.321306
 ---
 
 Travel Guide

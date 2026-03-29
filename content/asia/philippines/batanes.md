@@ -1,6 +1,8 @@
 ---
 title: "Batanes"
 type: location
+latitude: 20.644247
+longitude: 121.893946
 ---
 
 Travel Guide

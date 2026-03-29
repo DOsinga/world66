@@ -1,6 +1,8 @@
 ---
 title: "Pachmarhi"
 type: location
+latitude: 22.473682
+longitude: 78.436054
 ---
 
 Travel Guide

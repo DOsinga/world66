@@ -1,6 +1,8 @@
 ---
 title: "Cesis"
 type: location
+latitude: 57.313171
+longitude: 25.274855
 ---
 
 Travel Guide

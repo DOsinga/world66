@@ -6,6 +6,8 @@ email: "SMITDOG@GMAIL.COM"
 phone: "+55219411155"
 type: "Other"
 url: "www.flex1delta.com.br"
+latitude: 37.354113
+longitude: -121.955174
 ---
 
 HANG GLIDE IN [Rio de Janeiro](/southamerica/brazil/riodejaneiro)

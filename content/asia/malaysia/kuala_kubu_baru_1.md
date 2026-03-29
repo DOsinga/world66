@@ -1,6 +1,8 @@
 ---
 title: "Kuala Kubu Baru"
 type: location
+latitude: 3.553288
+longitude: 101.639532
 ---
 
 Travel Guide

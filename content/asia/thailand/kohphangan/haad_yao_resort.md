@@ -1,6 +1,8 @@
 ---
 title: "Haad Yao Resort"
 type: location
+latitude: 9.774484
+longitude: 99.966462
 ---
 
 Travel Guide

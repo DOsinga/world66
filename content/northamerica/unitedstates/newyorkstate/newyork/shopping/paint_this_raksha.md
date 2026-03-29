@@ -6,6 +6,8 @@ email: "supriya.rakhi@hotmail.co.in"
 phone: "9230721101"
 type: "Shopping centers and malls"
 url: "www.indiafloristnetwork.com"
+latitude: 35.336529
+longitude: -97.148571
 ---
 
 The color of certain celebrations is always glitterier, and it is because of the purest emotions that

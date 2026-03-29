@@ -1,6 +1,8 @@
 ---
 title: "Maine"
 type: location
+latitude: 45.709097
+longitude: -68.85902
 ---
 
 Maine's motto, *The Way it Should Be *sums up the character of this vast and ruggedly diverse New England state. From the moment you leave the highway, you become overwhelmed with a sense of balance between industry, progress, and natural beauty - inspired by the locals, and appreciated by the tourists. From its' awe inspiring Seacoast, to the solitude of the [Great North Woods](/northamerica/unitedstates/newhampshire/greatnorthwoods) , Maine is a playground for the adventureous, and solitude for the stressed. It offers numerous opportunities for the avid outdoorsman: whitewater rafting, wilderness camping, great mountain ranges, hiking and the infamous Appalachian Trail, the ocean, and incredible hunting and fishing. 

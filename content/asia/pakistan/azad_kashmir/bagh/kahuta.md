@@ -1,6 +1,8 @@
 ---
 title: "kahuta"
 type: location
+latitude: 33.591316
+longitude: 73.388235
 ---
 
 Travel Guide

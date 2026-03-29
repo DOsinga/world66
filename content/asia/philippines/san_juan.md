@@ -1,6 +1,8 @@
 ---
 title: "San Juan"
 type: location
+latitude: 14.604436
+longitude: 121.029947
 ---
 
 Travel Guide

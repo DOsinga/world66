@@ -1,6 +1,8 @@
 ---
 title: "Wah Village"
 type: location
+latitude: 33.798203
+longitude: 72.69533
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Placentia"
 type: location
+latitude: 33.871481
+longitude: -117.861734
 ---
 
 Travel Guide

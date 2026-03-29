@@ -4,6 +4,8 @@ type: poi
 address: "Khulo"
 opening_hours: "10:00-18:00"
 url: "www.georgianmuseums.ge"
+latitude: 41.643467
+longitude: 42.31409
 ---
 
 Museum was established in 1983

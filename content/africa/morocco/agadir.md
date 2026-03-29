@@ -1,6 +1,8 @@
 ---
 title: "Agadir"
 type: location
+latitude: 30.420516
+longitude: -9.583853
 ---
 
 Agadir has a beautiful beach, however it tends to attract the wrong kind of tourism. As the result of an earthquake in 1960, Agadir is a completely modern city, which reminded me of towns in Northern Germany. It is also permanently full of tourists, especially German tourists (German is the second language of the land). It does have excellent luxury hotels, where activities are organized and there is some form of night-life. In addition, there are some beautiful golf courses. But if you are searching for:* 

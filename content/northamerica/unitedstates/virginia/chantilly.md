@@ -1,6 +1,8 @@
 ---
 title: "Chantilly"
 type: location
+latitude: 38.885219
+longitude: -77.448677
 ---
 
 Travel Guide

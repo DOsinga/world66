@@ -1,6 +1,8 @@
 ---
 title: "Lido di Venezia"
 type: poi
+latitude: 45.416459
+longitude: 12.370612
 ---
 
 The Lido of Venice (also known simply Lido) is a thin long and narrow island that stretches for about 11 km between the Venice lagoon and the Adriatic Sea, bordered by the ports of San Nicolò and Malamocco, connected to the city and the mainland only through Vaporetti and motozattere to transport vehicles (ferry-boat).

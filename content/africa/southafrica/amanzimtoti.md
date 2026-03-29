@@ -1,6 +1,8 @@
 ---
 title: "Amanzimtoti"
 type: location
+latitude: -30.049722
+longitude: 30.888611
 ---
 
 Travel Guide

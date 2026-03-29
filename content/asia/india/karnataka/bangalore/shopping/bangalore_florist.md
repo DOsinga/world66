@@ -7,6 +7,8 @@ email: "contact@sendflowerstobangalore.com"
 phone: "0091 9997 333 595"
 type: "Shopping centers and malls"
 url: "www.sendflowerstobangalore.com"
+latitude: 12.976794
+longitude: 77.590082
 ---
 
 Bangalore Florist Send Flowers to Bangalore Gifts Flowers to Bangalore India

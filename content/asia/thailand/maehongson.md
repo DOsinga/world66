@@ -1,6 +1,8 @@
 ---
 title: "Mae Hong Son"
 type: location
+latitude: 19.392746
+longitude: 98.203111
 ---
 
 Mae Hong Son is a peaceful spot located in the north-western corner of the Kingdom. Visitors will notice a strong Burmese influence. The city has been a place known for power struggles between various Tai and Burmese kingdoms over the years.

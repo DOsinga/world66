@@ -3,6 +3,8 @@ title: "Sillustani funerary towers"
 type: poi
 address: "Sillustani"
 type: "Graves and Cemeteries"
+latitude: -15.721654
+longitude: -70.15899
 ---
 
 Sillustani is located on a hill near a small and beutiful lake. Both Incan and pre-Incan cultures used this site to build towers for burrying their kings and noblemen. They were burried with their familes, and also with offerings to the gods, such as llamas, alpacas, quinua, etc..

@@ -2,6 +2,8 @@
 title: "L'OLIVIER"
 type: poi
 type: "general"
+latitude: 44.16274
+longitude: 4.029694
 ---
 
 12, rue Aristide Ollivier 

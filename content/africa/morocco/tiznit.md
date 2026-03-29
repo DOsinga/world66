@@ -1,6 +1,8 @@
 ---
 title: "Tiznit"
 type: location
+latitude: 29.698624
+longitude: -9.731281
 ---
 
 Tiznit is a pretty town with ochre walls around the city center.

@@ -1,6 +1,8 @@
 ---
 title: "North York Moors"
 type: location
+latitude: 54.331777
+longitude: -0.690194
 ---
 
 There are two national parks in Yorkshire, this being one and the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales) the other. Although it would be difficult to distinguish between them, based on their names, they are quite different. One difference is that the North York Moors embrace some of the most scenic places on the Yorkshire Coast. Inland both contain dales and both contain moors but the dales here are smaller and more intimate than the largest in the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales)

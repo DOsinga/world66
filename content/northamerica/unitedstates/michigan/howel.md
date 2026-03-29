@@ -1,6 +1,8 @@
 ---
 title: "Howel"
 type: location
+latitude: 36.699214
+longitude: -87.535568
 ---
 
 We currently have no information about Howel.

@@ -1,6 +1,8 @@
 ---
 title: "Shush"
 type: location
+latitude: 32.200369
+longitude: 48.248984
 ---
 
 We currently have no information about Shush.

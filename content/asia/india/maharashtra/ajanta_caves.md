@@ -1,6 +1,8 @@
 ---
 title: "Ajanta Caves"
 type: location
+latitude: 20.55245
+longitude: 75.699531
 ---
 
 Ajanta Caves providea complete record of the evolution of buddhist,

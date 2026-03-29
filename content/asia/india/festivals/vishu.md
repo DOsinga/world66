@@ -3,6 +3,8 @@ title: "Vishu"
 type: poi
 address: "Coimbatore"
 date: "13.04.07"
+latitude: 11.001812
+longitude: 76.962842
 ---
 
 Keralites celebrate their New Year on the first day of the Malayalam month of Medam according to the Kollam calendar. This usually falls on 14th April. A festival of gaiety and renewal, this day is celebrated with great fun in Kerala.

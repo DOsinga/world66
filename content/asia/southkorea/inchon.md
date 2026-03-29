@@ -1,6 +1,8 @@
 ---
 title: "Inchon"
 type: location
+latitude: 37.456
+longitude: 126.7052
 ---
 
 We currently have no information about Inchon.

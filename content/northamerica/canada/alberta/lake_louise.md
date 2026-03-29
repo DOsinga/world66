@@ -1,6 +1,8 @@
 ---
 title: "Lake Louise"
 type: location
+latitude: 51.424967
+longitude: -116.177535
 ---
 
 Travel Guide

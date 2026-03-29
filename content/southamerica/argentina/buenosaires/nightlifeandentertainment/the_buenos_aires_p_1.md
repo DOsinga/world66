@@ -6,6 +6,8 @@ address: "See Website"
 email: "pubcrawlBA@gmail.com"
 type: "Pubs"
 url: "www.pubcrawlBA.com"
+latitude: 60.197144
+longitude: 24.949906
 ---
 
 Welcome to The Buenos Aires Pub Crawl If you are looking to experience the only nightlife tour in Buenos Aires, you've come to the right place!

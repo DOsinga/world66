@@ -1,6 +1,8 @@
 ---
 title: "Anda"
 type: location
+latitude: 46.516981
+longitude: 125.419293
 ---
 
 Travel Guide

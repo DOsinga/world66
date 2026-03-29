@@ -1,6 +1,8 @@
 ---
 title: "Georgia"
 type: location
+latitude: 32.329381
+longitude: -83.113737
 ---
 
 Georgia is an old state in the Caucasus, with a beautiful coast, great mountain scenery and towns. Due to civil problems following independance after the break up of the Soviet Union, Geogria has suffered a lot. The infrastructure has taken a severe blow, parts of the Georgian Riviera are hard to access. 

@@ -1,6 +1,8 @@
 ---
 title: "Colorado National Monument"
 type: location
+latitude: 39.051139
+longitude: -108.697946
 ---
 
 Travel Guide

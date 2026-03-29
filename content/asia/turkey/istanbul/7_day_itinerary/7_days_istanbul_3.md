@@ -5,6 +5,8 @@ address: "dalbastı sokak no: 3/b"
 email: "info@newdealtravel.net"
 phone: "+90 212 638 8622"
 url: "www.privateistanbultours.com"
+latitude: 40.193187
+longitude: 29.101096
 ---
 
 **Gallipoli - Troy - Ephesus - Pamukkale & Cappadocia Travel - 7 Days - 6 Nights

@@ -1,6 +1,8 @@
 ---
 title: "Diani Beach Kenya"
 type: location
+latitude: -4.31112
+longitude: 39.57861
 ---
 
 Travel Guide

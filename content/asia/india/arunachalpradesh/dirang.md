@@ -1,6 +1,8 @@
 ---
 title: "Dirang"
 type: location
+latitude: 27.36008
+longitude: 92.24121
 ---
 
 Travel Guide

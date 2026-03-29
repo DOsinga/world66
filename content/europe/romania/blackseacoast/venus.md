@@ -1,6 +1,8 @@
 ---
 title: "venus"
 type: location
+latitude: 43.845948
+longitude: 28.593125
 ---
 
 Travel Guide

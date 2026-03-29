@@ -1,6 +1,8 @@
 ---
 title: "Afghanistan"
 type: location
+latitude: 33.768006
+longitude: 66.238514
 ---
 
 Afghanistan is a landlocked country in Central-Asia. It has long borders with [Iran](/asia/iran) and [Pakistan](/asia/pakistan). It borders on three of the new Central Asian republics: [Kyrgyzstan](/asia/kyrgyzstan), [Uzbekistan](/asia/uzbekistan), and Tajikstan. It has a very short border with [China](/asia/china) which is the result of a strange 19-th century Anglo-Russian deal. 

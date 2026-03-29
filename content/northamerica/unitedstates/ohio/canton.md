@@ -1,6 +1,8 @@
 ---
 title: "Canton"
 type: location
+latitude: 40.798546
+longitude: -81.374951
 ---
 
 We currently have no information about Canton.

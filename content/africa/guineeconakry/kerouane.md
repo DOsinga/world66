@@ -1,6 +1,8 @@
 ---
 title: "Kerouane"
 type: location
+latitude: 11.908611
+longitude: -10.180909
 ---
 
 We currently have no information about Kerouane.

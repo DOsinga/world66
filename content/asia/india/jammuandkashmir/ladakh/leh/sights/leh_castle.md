@@ -2,6 +2,8 @@
 title: "Leh Palace"
 type: poi
 type: "Palaces"
+latitude: 34.165948
+longitude: 77.586203
 ---
 
 Leh Palace is a nine storey structure built in the 17'th Century by Ladakh ruler of the time, Sengge Namgyal. The palace towers over the regional capital like a smaller version of the Potala in Lhasa, and provides stunning views across the valleys and to the mountains south of the capital.

@@ -6,6 +6,8 @@ email: "psetsara@gmail.com"
 phone: "0121911328"
 price: "2-5$"
 type: "Thai"
+latitude: 13.940568
+longitude: 121.629562
 ---
 
 The Setsara restaurant is a homey little place located in the thrilling st 278. Thai and French food is provided at budget prices, as well as fresh fruit shakes and real expresso.

@@ -2,6 +2,8 @@
 title: "Paseo de Gracia"
 type: poi
 type: "Quarter"
+latitude: 40.927546
+longitude: -6.070013
 ---
 
 Paseo de Gracia

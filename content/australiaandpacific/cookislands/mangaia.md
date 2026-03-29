@@ -1,6 +1,8 @@
 ---
 title: "Mangaia"
 type: location
+latitude: -21.925029
+longitude: -157.918069
 ---
 
 We currently have no information about Mangaia.

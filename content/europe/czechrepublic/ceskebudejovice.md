@@ -1,6 +1,8 @@
 ---
 title: "Ceske budejovice"
 type: location
+latitude: 48.974736
+longitude: 14.474285
 ---
 
 We currently have no information about Ceske budejovice.

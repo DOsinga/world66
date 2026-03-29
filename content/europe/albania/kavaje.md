@@ -1,6 +1,8 @@
 ---
 title: "Kavaje"
 type: location
+latitude: 41.183424
+longitude: 19.559949
 ---
 
 Travel Guide

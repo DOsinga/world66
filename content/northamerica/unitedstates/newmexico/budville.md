@@ -1,6 +1,8 @@
 ---
 title: "Budville"
 type: location
+latitude: 35.072378
+longitude: -107.526466
 ---
 
 Travel Guide

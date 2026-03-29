@@ -1,6 +1,8 @@
 ---
 title: "Rajendra nagar"
 type: location
+latitude: 22.670019
+longitude: 75.829223
 ---
 
 Travel Guide

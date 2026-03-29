@@ -1,6 +1,8 @@
 ---
 title: "El Reno"
 type: location
+latitude: 35.532198
+longitude: -97.955058
 ---
 
 Travel Guide

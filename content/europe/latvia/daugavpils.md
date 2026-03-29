@@ -1,6 +1,8 @@
 ---
 title: "Daugavpils"
 type: location
+latitude: 55.871227
+longitude: 26.515934
 ---
 
 Travel Guide

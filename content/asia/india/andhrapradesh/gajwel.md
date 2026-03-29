@@ -1,6 +1,8 @@
 ---
 title: "Gajwel"
 type: location
+latitude: 17.845675
+longitude: 78.682874
 ---
 
 Travel Guide

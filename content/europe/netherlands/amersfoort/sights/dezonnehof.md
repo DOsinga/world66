@@ -4,6 +4,8 @@ type: poi
 address: "Zonnehof 8"
 phone: "033-4633034"
 type: "Museums"
+latitude: 51.879584
+longitude: 4.505635
 ---
 
 Designed by Dutch architect Gerrit Rietveld, de Zonnehof has modern art exhibits that are worth checking out.

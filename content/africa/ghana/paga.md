@@ -1,6 +1,8 @@
 ---
 title: "Paga"
 type: location
+latitude: 10.970036
+longitude: -1.101674
 ---
 
 Travel Guide

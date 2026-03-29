@@ -1,6 +1,8 @@
 ---
 title: "Mavelikara"
 type: location
+latitude: 9.250489
+longitude: 76.540243
 ---
 
 Travel Guide

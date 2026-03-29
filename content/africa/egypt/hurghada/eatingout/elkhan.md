@@ -1,6 +1,8 @@
 ---
 title: "El Khan"
 type: poi
+latitude: 25.598607
+longitude: 34.608932
 ---
 
 Traditional Egyptian dishes.

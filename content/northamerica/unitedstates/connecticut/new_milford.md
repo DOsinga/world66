@@ -1,6 +1,8 @@
 ---
 title: "New Milford"
 type: location
+latitude: 41.577099
+longitude: -73.41058
 ---
 
 Travel Guide

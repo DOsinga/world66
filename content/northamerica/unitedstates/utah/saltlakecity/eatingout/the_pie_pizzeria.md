@@ -5,6 +5,8 @@ address: "1320 East 200 South, Salt Lake City, Utah"
 phone: "+1 (801) 582-5700"
 type: "Italian"
 url: "www.thepie.com"
+latitude: 40.764783
+longitude: -111.852888
 ---
 
 Home of the 23" giant pie. No short cuts are taken here! Our dough is

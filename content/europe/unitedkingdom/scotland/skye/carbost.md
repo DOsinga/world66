@@ -1,6 +1,8 @@
 ---
 title: "Carbost"
 type: location
+latitude: 57.301539
+longitude: -6.353226
 ---
 
 Carbost is a tiny village, lying almost under the Coolin. It has two huge points of appeal.

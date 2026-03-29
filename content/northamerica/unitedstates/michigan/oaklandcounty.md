@@ -1,6 +1,8 @@
 ---
 title: "oakland county"
 type: location
+latitude: 42.661884
+longitude: -83.380444
 ---
 
 rv parks

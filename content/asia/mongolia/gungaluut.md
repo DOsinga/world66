@@ -1,6 +1,8 @@
 ---
 title: "Gun-Galuut"
 type: location
+latitude: 47.629486
+longitude: 108.297961
 ---
 
 Travel Guide

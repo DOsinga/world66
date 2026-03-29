@@ -1,6 +1,8 @@
 ---
 title: "Rawalakot"
 type: location
+latitude: 33.857228
+longitude: 73.760575
 ---
 
 Travel Guide

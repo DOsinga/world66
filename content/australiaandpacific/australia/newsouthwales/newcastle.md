@@ -1,6 +1,8 @@
 ---
 title: "Newcastle"
 type: location
+latitude: -32.927288
+longitude: 151.781253
 ---
 
 Newcastle is a city about 2 hours north of Sydney (by car). Newcastle is a fascinating harbour city, an ideal location for a short break of for an extended stay. Newcastle is the sixth largest city in Australia, however, the friendliness and welcoming ambience of the city creates a very special greeting for all visitors.

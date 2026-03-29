@@ -1,6 +1,8 @@
 ---
 title: "Roses"
 type: location
+latitude: 42.263202
+longitude: 3.175533
 ---
 
 Travel Guide

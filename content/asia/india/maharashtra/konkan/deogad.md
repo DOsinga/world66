@@ -1,6 +1,8 @@
 ---
 title: "Deogad"
 type: location
+latitude: 19.73347
+longitude: 79.024712
 ---
 
 Travel Guide

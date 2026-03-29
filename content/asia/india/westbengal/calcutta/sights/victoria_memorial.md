@@ -2,6 +2,8 @@
 title: "Victoria Memorial Hall"
 type: poi
 type: "Memorials"
+latitude: 22.54508
+longitude: 88.342643
 ---
 
 Built in

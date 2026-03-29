@@ -1,6 +1,8 @@
 ---
 title: "Binningen"
 type: location
+latitude: 47.53656
+longitude: 7.570077
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Santo Antao"
 type: location
+latitude: 17.055529
+longitude: -25.172305
 ---
 
 It's the most north island of the archipel. The main cities there are **Porto Novo** and **Povo Sao**. The views from the mountains are immensely beautiful. 

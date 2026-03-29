@@ -1,6 +1,8 @@
 ---
 title: "Ben Lomond, California"
 type: location
+latitude: 37.089114
+longitude: -122.086352
 ---
 
 In the San Lorenzo Valley, nestled in the redwoods is Ben Lomond.

@@ -3,6 +3,8 @@ title: "Le Mura"
 type: poi
 type: "Landmarks"
 url: "fondazione.bergamoestoria.it"
+latitude: 43.457594
+longitude: 11.598445
 ---
 
 Le Mura, the majestic walls seen around the upper town today, were built by the Venetians starting in 1561.

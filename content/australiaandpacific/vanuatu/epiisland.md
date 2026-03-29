@@ -1,6 +1,8 @@
 ---
 title: "Epi island"
 type: location
+latitude: -16.703832
+longitude: 168.224881
 ---
 
 We currently have no information about Epi island.

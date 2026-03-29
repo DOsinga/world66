@@ -2,6 +2,8 @@
 title: "Things to do"
 type: section
 type: "Spa and Sauna"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 ### [Monterey Bay Aquarium](/northamerica/unitedstates/california/centralcoast/monterey/thingstodo/montereybayaquarium)
@@ -16,7 +18,11 @@ type: Spa and Sauna
 
 ### [Cannery Row Marketing Council](/northamerica/unitedstates/california/centralcoast/monterey/thingstodo/canneryrowmarketingcouncil)
 
-Cannery Row is Monterey's hot spot for shopping, tasting Central Coast wines, dining in world-class restaurants. Footsteps from beautiful white sandy beaches all located on Steinbeck's Cannery Row. 765 Wave St. 93940 831/649-6690 Fax: 831/373-4812 www.canneryrow.com Wheelchair Access  Monterey Cotton Hall Museum Civic Center Pacific St. near Jefferson St. 93942 831/646-5640
+Cannery Row is Monterey's hot spot for shopping, tasting Central Coast wines, dining in world-class restaurants. Footsteps from beautiful white sandy beaches all located on Steinbeck's Cannery Row. 765 Wave St. 93940 831/649-6690 Fax: 831/373-4812 www.canneryrow.com Wheelchair Access
+ 
+ Monterey
+ Cotton Hall Museum Civic Center
+ Pacific St. near Jefferson St. 93942 831/646-5640
 
 type: general
 

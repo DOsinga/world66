@@ -1,6 +1,8 @@
 ---
 title: "Internet Cafe"
 type: location
+latitude: 5.567133
+longitude: -0.163702
 ---
 
 Travel Guide

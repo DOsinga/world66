@@ -1,6 +1,8 @@
 ---
 title: "Grevenmacher"
 type: location
+latitude: 49.679313
+longitude: 6.443098
 ---
 
 We currently have no information about Grevenmacher.

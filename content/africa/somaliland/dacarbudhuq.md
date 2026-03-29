@@ -1,6 +1,8 @@
 ---
 title: "Dacarbudhuq"
 type: location
+latitude: 9.85644
+longitude: 44.5272
 ---
 
 Travel Guide

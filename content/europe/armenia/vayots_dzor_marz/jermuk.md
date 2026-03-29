@@ -1,6 +1,8 @@
 ---
 title: "Jermuk"
 type: location
+latitude: 39.838819
+longitude: 45.671264
 ---
 
 Travel Guide

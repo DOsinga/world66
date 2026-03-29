@@ -1,6 +1,8 @@
 ---
 title: "Kokrobite"
 type: location
+latitude: 5.497718
+longitude: -0.364879
 ---
 
 We currently have no information about Kokrobite.

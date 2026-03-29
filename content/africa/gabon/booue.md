@@ -1,6 +1,8 @@
 ---
 title: "Booue"
 type: location
+latitude: -0.101573
+longitude: 11.948146
 ---
 
 We currently have no information about Booue.

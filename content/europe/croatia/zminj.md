@@ -1,6 +1,8 @@
 ---
 title: "Zminj"
 type: location
+latitude: 45.14391
+longitude: 13.908675
 ---
 
 Travel Guide

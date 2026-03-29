@@ -1,6 +1,8 @@
 ---
 title: "Stonehenge"
 type: location
+latitude: 51.178829
+longitude: -1.826183
 ---
 
 **Stonehenge** is a well-known Neolithic period stone monument

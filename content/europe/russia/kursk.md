@@ -1,6 +1,8 @@
 ---
 title: "Kursk"
 type: location
+latitude: 51.727036
+longitude: 36.192248
 ---
 
 Travel Guide

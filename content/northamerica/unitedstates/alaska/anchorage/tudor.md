@@ -1,6 +1,8 @@
 ---
 title: "Tudor"
 type: location
+latitude: 39.004894
+longitude: -121.623575
 ---
 
 We currently have no information about Tudor.

@@ -2,6 +2,8 @@
 title: "Eysturoy"
 type: poi
 type: "Landmarks"
+latitude: 62.19887
+longitude: -6.817845
 ---
 
 This is the second largest island with the highest mountain. There is a fabulous mountain road between Eiði, in the north-west of the island, and Gjovk, a village where there is a remankable cleft in the rocks forming a relatively sheltered harbour.

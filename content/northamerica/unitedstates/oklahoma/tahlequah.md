@@ -1,6 +1,8 @@
 ---
 title: "Tahlequah"
 type: location
+latitude: 35.91537
+longitude: -94.969956
 ---
 
 Travel Guide

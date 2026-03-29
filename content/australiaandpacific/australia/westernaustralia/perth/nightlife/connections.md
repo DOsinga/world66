@@ -4,6 +4,8 @@ type: poi
 address: "James St 81"
 phone: "+61 8 9328 1870"
 type: "Gay and Lesbian"
+latitude: -31.948837
+longitude: 115.858454
 ---
 
 Perth's original Gay bar - has got a bit tired over the years, like an aging drag queen.

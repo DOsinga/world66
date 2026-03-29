@@ -2,6 +2,8 @@
 title: "People's Park"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: 7.070933
+longitude: 125.608788
 ---
 
 Among the city 's newest and grandest free attractions, the People's Park stands on the former site of the PTA Grounds. The new city landmark is barraged by people from all walks of life, and of every age. On its busiest days, it is here where you'll be able to witness how cosmopolitan the city of Davao is. The park is also conveniently located near the downtown area and is flanked with dining amenities from almost every side. The nearest place for tourist or local visitor accommodation is the Apo View Hotel. The Royal Mandaya is also just some walking distance away.

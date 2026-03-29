@@ -4,6 +4,8 @@ type: poi
 address: "20 Kent Rd Picton Australia"
 email: "gandgfjacksonn@bigpond.com.au"
 phone: "0401 895750"
+latitude: -34.212944
+longitude: 150.611413
 ---
 
 Hi

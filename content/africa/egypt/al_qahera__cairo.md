@@ -1,6 +1,8 @@
 ---
 title: "Al Qahera - Cairo"
 type: location
+latitude: 29.982036
+longitude: 31.34535
 ---
 
 Travel Guide

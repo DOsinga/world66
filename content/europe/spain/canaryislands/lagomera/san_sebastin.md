@@ -1,6 +1,8 @@
 ---
 title: "San Sebastián"
 type: location
+latitude: 43.322422
+longitude: -1.983889
 ---
 
 Travel Guide

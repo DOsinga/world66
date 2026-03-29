@@ -5,6 +5,8 @@ email: "shantibhawan@gmail.com"
 phone: "091291 5105712-2621689"
 price: "Rs.25 - 300"
 type: "Vegetarian"
+latitude: 26.913933
+longitude: 70.914028
 ---
 
 Midtown vegetatian restaurant near train station, serves indian chinese continental rajasthani specialities there rajasthani thali is delicious, kabuli,rajasthani pizza is great, cold coffee, burger, lassi is delicious.

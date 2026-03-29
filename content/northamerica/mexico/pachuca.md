@@ -1,6 +1,8 @@
 ---
 title: "Pachuca"
 type: location
+latitude: 20.116541
+longitude: -98.741354
 ---
 
 We currently have no information about .

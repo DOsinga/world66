@@ -6,6 +6,8 @@ email: "delhiblossoms@hotmail.com"
 phone: "91-0124-25217117"
 type: "Shopping centers and malls"
 url: "www.delhiblossoms.com"
+latitude: 28.497174
+longitude: 77.081351
 ---
 
 Send Gifts and flowers for Guaranteed and Same Day delivery to Delhi . Exclusive Range of Gifts is available for all kind of Occasions. http://www.delhiblossoms.com

@@ -4,6 +4,8 @@ type: section
 address: "India"
 type: "Tourist information"
 url: "www.theincredibleindiatravel.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 ishan-1

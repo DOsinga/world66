@@ -6,6 +6,8 @@ email: "info@superwalltiles.com"
 type: "Antiques"
 url: "www.superwalltiles.com"
 zipcode: "363641"
+latitude: 34.987413
+longitude: 118.251585
 ---
 
 Ceramics

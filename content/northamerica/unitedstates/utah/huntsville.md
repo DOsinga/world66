@@ -1,6 +1,8 @@
 ---
 title: "Huntsville"
 type: location
+latitude: 34.729847
+longitude: -86.585901
 ---
 
 Travel Guide

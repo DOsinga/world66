@@ -1,6 +1,8 @@
 ---
 title: "Peoria"
 type: location
+latitude: 40.693861
+longitude: -89.589101
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Arbil"
 type: location
+latitude: 36.191174
+longitude: 44.009414
 ---
 
 We currently have no information about Arbil.

@@ -1,6 +1,8 @@
 ---
 title: "wardha"
 type: location
+latitude: 20.825623
+longitude: 78.613146
 ---
 
 Travel Guide

@@ -8,6 +8,8 @@ opening_hours: "0900-1700"
 phone: "none"
 type: "Hotspots"
 url: "www.treksagency.com"
+latitude: 29.081329
+longitude: 89.297308
 ---
 
 Normal

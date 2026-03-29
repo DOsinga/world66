@@ -1,6 +1,8 @@
 ---
 title: "corvallis"
 type: location
+latitude: 44.564566
+longitude: -123.262044
 ---
 
 We currently have no information about corvallis.

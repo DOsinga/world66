@@ -7,6 +7,8 @@ email: "info@goldendolls.lv"
 phone: "0037126222370"
 type: "Erotic clubs and bars"
 url: "goldendolls.lv"
+latitude: 56.947605
+longitude: 24.114077
 ---
 
 Amazing erotic club located in center of Riga's old town. Gorgeous looking girls who aren't pushy. Luxurious and at the same time comfy atmosphere will allow you to fully enjoy best erotic show-programs in Riga at Golden Dolls Night Club!

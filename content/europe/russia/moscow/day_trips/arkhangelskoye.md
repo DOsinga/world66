@@ -1,6 +1,8 @@
 ---
 title: "Arkhangelskoye"
 type: poi
+latitude: 54.405724
+longitude: 56.784122
 ---
 
 Arkhangelskoye (*Архангельское*) is one of the great estates that were built by Russian aristocracy in the 17-th - 18-th centuries.

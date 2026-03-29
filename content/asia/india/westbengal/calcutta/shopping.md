@@ -6,6 +6,8 @@ email: "sales@allindiaflorist.com"
 phone: "00919897064001"
 type: "Shopping centers and malls"
 url: "www.allindiaflorist.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 http://www.allindiaflorist.com/flowers-to-kolkata.htm

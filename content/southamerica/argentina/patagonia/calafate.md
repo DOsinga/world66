@@ -1,6 +1,8 @@
 ---
 title: "CaLafate"
 type: location
+latitude: -54.802248
+longitude: -68.312003
 ---
 
 Travel Guide

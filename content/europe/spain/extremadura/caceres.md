@@ -1,6 +1,8 @@
 ---
 title: "Caceres"
 type: location
+latitude: 39.474517
+longitude: -6.371676
 ---
 
 Caceres, lies on a hill and is characterised by its constant evolution in history from Roman times until the present day. Two periods in it development have left their mark on today's city: the Arab stronghold before it fell to the Christians in 1229, and the feudal city between the 14th and 16th C, when it was swamped with palaces and towers of aristocratic families. This urban complex full of its own personality became part of World Heritage in 1986. 

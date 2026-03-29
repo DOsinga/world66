@@ -1,6 +1,8 @@
 ---
 title: "Shikoku"
 type: location
+latitude: 33.560875
+longitude: 133.371886
 ---
 
 **Takamatsu-** This city is probably the first city you'll reach when traveling by train to Shikoku. One of the largest cities of Shikoku (at 350000 people), it is known for it's cosmopolitan and moderness. Even before the **Seto-Hashi Bridge **was built, there were many ships and boats in it's harbour. Takamatsu is well-known by it's **Ritsurin -Koen Park**. It boasts it's wide, spacious gardens which are beautifully designed. Another park to look into is the **Tamamo-koen Park.** The remains of the ancient **Takamatsu-jyo** can be found here, although very little still exists. The **Kagawa History Museum** is found beside (east) of the Tamamo Park. Here you can see much of Kagawa Prefecture's history

@@ -4,6 +4,8 @@ type: poi
 address: "Lower Mainstreet"
 closing_time: "1"
 type: "Pubs"
+latitude: 53.132159
+longitude: 8.18374
 ---
 
 Large pub and restaurant. Kareoke on Sundays.

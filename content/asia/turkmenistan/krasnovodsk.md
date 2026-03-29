@@ -1,6 +1,8 @@
 ---
 title: "Krasnovodsk"
 type: location
+latitude: 40.005539
+longitude: 52.993283
 ---
 
 We currently have no information about Krasnovodsk.

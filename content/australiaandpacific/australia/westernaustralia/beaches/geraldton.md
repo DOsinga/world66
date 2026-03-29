@@ -1,6 +1,8 @@
 ---
 title: "Geraldton"
 type: poi
+latitude: -28.77035
+longitude: 114.614716
 ---
 
 **S**ituated 400 kilometres North of

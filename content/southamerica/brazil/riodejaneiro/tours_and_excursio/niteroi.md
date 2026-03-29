@@ -1,6 +1,8 @@
 ---
 title: "Niteroi"
 type: poi
+latitude: -22.8884
+longitude: -43.1147
 ---
 
 City linked to Rio de Janeiro by a bridge (13km) over Guanabara Bay (Ponte Rio-Niteroi).

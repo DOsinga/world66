@@ -5,6 +5,8 @@ address: "Andalucia"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 37.339996
+longitude: -4.581161
 ---
 
 Explore Andalucia in-depth! On this tour you will have the chance to discover the charm of Southern Spain. 

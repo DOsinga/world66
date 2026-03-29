@@ -1,6 +1,8 @@
 ---
 title: "Arnay"
 type: location
+latitude: 24.865841
+longitude: 71.892986
 ---
 
 Travel Guide

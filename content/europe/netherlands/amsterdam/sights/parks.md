@@ -1,11 +1,16 @@
 ---
 title: "Parks"
 type: poi
+latitude: 52.082776
+longitude: 4.308533
 ---
 
-Though Amsterdam does not have many parks, it makes a pretty green impression due to the trees alongside the canals. Most squares do have some green spots, but you cannot really consider them parks. The parks that are in the 19th and 20th century city expansions all have their own quality.  
+Though Amsterdam does not have many parks, it makes a pretty green impression due to the trees alongside the canals. Most squares do have some green spots, but you cannot really consider them parks. The parks that are in the 19th and 20th century city expansions all have their own quality. 
+ 
 
-To see an overview of the most important parks you can take tramline 3 from the Vondel park, along the Sarphati park to the Ooster (Easter) park. Or better still take a bicycle. On your way you’ll also pass the redecorated Museum square, which also serves as a recreational zone.   
+To see an overview of the most important parks you can take tramline 3 from the Vondel park, along the Sarphati park to the Ooster (Easter) park. Or better still take a bicycle. On your way you’ll also pass the redecorated Museum square, which also serves as a recreational zone. 
+ 
+ 
 
 The oldest really green quarter is the Plantage. Here rich citizens had their country homes. It’s also the area in which the Artis zoo, the Hortus Botanicus and the less well-known Wertheim plansoen are located. With its green canal sided boundaries its still a lovely neighborhood to walk through.
 
@@ -41,4 +46,6 @@ openinghours: 9:00-17:00 weekdays, 11:00-17:00 weekend, closes at 16:00 in winte
 
 **Vondelpark**
 
-The vondelpark is one of the nicest parks in the world and should not be missed. It is perfect to walk, to cycle or to skate. You can rent inlines at the far end.  Designed in English Landscape style at the end of the 19-th century. It runs roughly speaking from Leidseplein to the Amstelveense [more..](/europe/netherlands/amsterdam/sights/parks/vondelpark)
+The vondelpark is one of the nicest parks in the world and should not be missed. It is perfect to walk, to cycle or to skate. You can rent inlines at the far end.
+ 
+ Designed in English Landscape style at the end of the 19-th century. It runs roughly speaking from Leidseplein to the Amstelveense [more..](/europe/netherlands/amsterdam/sights/parks/vondelpark)

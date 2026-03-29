@@ -1,6 +1,8 @@
 ---
 title: "Jiaxing"
 type: location
+latitude: 30.747442
+longitude: 120.751097
 ---
 
 Travel Guide

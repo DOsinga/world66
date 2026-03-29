@@ -4,6 +4,8 @@ type: poi
 address: "875 North Michigan Avenue, Chicago, IL 60611"
 phone: "(312) 337-1101"
 type: "American"
+latitude: 41.898881
+longitude: -87.623096
 ---
 
 The Cheesecake Factory is located in the lower level of the John Hancock Center on Michigan Ave.

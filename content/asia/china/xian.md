@@ -1,6 +1,8 @@
 ---
 title: "Xian"
 type: location
+latitude: 38.190493
+longitude: 116.119102
 ---
 
 Xian does not look special. But it holds one treasure that makes it different from all the other Chinese cities with 3 million inhabitants: the army of Xian.

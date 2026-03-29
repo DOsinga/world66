@@ -1,6 +1,8 @@
 ---
 title: "Ouagadougou"
 type: location
+latitude: 12.368187
+longitude: -1.527094
 ---
 
 Ouaga, as the capital of Burkina Faso is generally known as the home to the Mossi, the largest ethnic group in the nation. Located in the center of the country the city has wide tree-lined boulevards and several interesting sights including the National Museum of Arts and Craft, the Nouveau Grand Marche and the Moro Naba Palace. 

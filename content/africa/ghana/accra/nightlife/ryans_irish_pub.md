@@ -5,6 +5,8 @@ address: "Osu, Accra"
 phone: "021-762334"
 type: "Pubs"
 url: "www.irishpubghana.com"
+latitude: 5.560593
+longitude: -0.182439
 ---
 
 [Ryan's](/africa/ghana/accra/nightlife/ryans_irish_pub) is the first and only Irish Pub in West Africa. Situated in historic Osu, in the heart of the shopping and nightlife centre of Ghana's capital city.

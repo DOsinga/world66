@@ -1,6 +1,8 @@
 ---
 title: "Pamir Highway"
 type: location
+latitude: 37.490482
+longitude: 71.530706
 ---
 
 Travel Guide

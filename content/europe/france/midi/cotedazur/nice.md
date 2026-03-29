@@ -1,6 +1,8 @@
 ---
 title: "Nice"
 type: location
+latitude: 43.700936
+longitude: 7.268391
 ---
 
 Nice is really one of these places everybody has heard of or has seen in television and cinema. James Bond was here of course and the most of the rich and beautiful, the jet set, from the fifties through the sixties and seventies. Some say it is not the hottest spot anymore but many stars have bought houses and villas along the coast ('French Riviera' is one of the most beautiful coast lines in Europe).

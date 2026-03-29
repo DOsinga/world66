@@ -1,6 +1,8 @@
 ---
 title: "Mackinac Island"
 type: location
+latitude: 45.84907
+longitude: -84.619857
 ---
 
 Travel Guide

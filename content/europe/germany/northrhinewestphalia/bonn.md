@@ -1,6 +1,8 @@
 ---
 title: "Bonn"
 type: location
+latitude: 50.735262
+longitude: 7.102463
 ---
 
 Bonn may not be able to compete with the great cities of the world or even Germany, but it is a place of many attractions consisting of three once independent towns and numerous villages each with its own character and surrounded by beautiful countryside. 

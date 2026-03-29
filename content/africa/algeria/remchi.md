@@ -1,6 +1,8 @@
 ---
 title: "Remchi"
 type: location
+latitude: 35.061727
+longitude: -1.431833
 ---
 
 We currently have no information about Remchi.

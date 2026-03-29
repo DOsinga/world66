@@ -2,6 +2,8 @@
 title: "Tian Tan Buddha"
 type: poi
 type: "Hotspots"
+latitude: 22.25396
+longitude: 113.905012
 ---
 
 **Lantau Island**

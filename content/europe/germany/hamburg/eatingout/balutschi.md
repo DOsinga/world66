@@ -1,9 +1,12 @@
 ---
 title: "Balutschi"
 type: poi
+latitude: 53.565705
+longitude: 9.982249
 ---
 
-Vegetarian and Pakistan cooking  
+Vegetarian and Pakistan cooking 
+ 
 
 address: Grindelallee 33
 

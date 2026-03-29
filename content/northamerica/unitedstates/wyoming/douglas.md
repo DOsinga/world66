@@ -1,6 +1,8 @@
 ---
 title: "Douglas"
 type: location
+latitude: 39.762842
+longitude: -88.217052
 ---
 
 Travel Guide

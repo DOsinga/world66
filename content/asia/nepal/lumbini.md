@@ -1,6 +1,8 @@
 ---
 title: "Lumbini"
 type: location
+latitude: 27.980713
+longitude: 82.953185
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Supetar"
 type: location
+latitude: 43.382583
+longitude: 16.553211
 ---
 
 Island Brač,Supetar,apartaments(1/6,2/4), and rooms for rent in peacefull part of town.(from 01.06-15.07 very favorable,rooms:10 Euros adults,8 Euros children, Apartaments:11 Euros adults,9 Euros children(all per day)).Parking,grill,350 m far from sea. 

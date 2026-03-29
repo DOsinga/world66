@@ -5,6 +5,8 @@ address: "Don"
 email: "olga@gmail.com"
 phone: "Don"
 url: "mhwee.org"
+latitude: 50.546154
+longitude: 2.915878
 ---
 
 Well done!

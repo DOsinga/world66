@@ -1,6 +1,8 @@
 ---
 title: "Lima"
 type: location
+latitude: 40.739978
+longitude: -84.105006
 ---
 
 Lima is located in northwestern Ohio along Interstate 75, in Allen County (of which it is the county seat) on the banks of the Ottawa River. Founded in 1831, Lima was named after Lima, Peru, the source of the "quinine bark" used for the treatment of "swamp fever" or malaria in pioneer days.

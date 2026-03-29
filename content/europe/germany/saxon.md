@@ -1,6 +1,8 @@
 ---
 title: "Saxon"
 type: location
+latitude: 50.915573
+longitude: 14.14002
 ---
 
 Travel Guide

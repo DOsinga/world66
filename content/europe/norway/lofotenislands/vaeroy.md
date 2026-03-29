@@ -1,6 +1,8 @@
 ---
 title: "Vaeroy"
 type: location
+latitude: 67.654812
+longitude: 12.726179
 ---
 
 **VÆRØY** 

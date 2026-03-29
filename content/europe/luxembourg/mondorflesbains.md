@@ -1,6 +1,8 @@
 ---
 title: "Mondorf les bains"
 type: location
+latitude: 49.507175
+longitude: 6.281424
 ---
 
 We currently have no information about Mondorf les bains.

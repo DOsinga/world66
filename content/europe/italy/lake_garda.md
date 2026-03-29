@@ -1,6 +1,8 @@
 ---
 title: "Lake Garda"
 type: location
+latitude: 45.662431
+longitude: 10.686157
 ---
 
 Travel Guide

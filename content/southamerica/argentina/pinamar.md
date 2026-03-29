@@ -1,6 +1,8 @@
 ---
 title: "Pinamar"
 type: location
+latitude: -37.109949
+longitude: -56.853901
 ---
 
 Travel Guide

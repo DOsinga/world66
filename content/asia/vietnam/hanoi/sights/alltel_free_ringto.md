@@ -8,6 +8,8 @@ opening_hours: "Vincent"
 phone: "Vincent"
 type: "1"
 url: "startupordie.com"
+latitude: 46.7862
+longitude: 5.48925
 ---
 
 Nice site!

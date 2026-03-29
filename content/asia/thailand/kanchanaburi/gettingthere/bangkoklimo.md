@@ -6,6 +6,8 @@ email: "info@bangkoklimo.org"
 phone: "0813480241"
 type: "By Road"
 url: "www.bangkoklimo.org"
+latitude: 18.4045
+longitude: 98.676883
 ---
 
 Kanchana Buri is located in the west of Bangkok. This province has a lot of attractions from natural to History.A traveller could spend overnight to explore . But there are many tourists also spend a full day tour to visit The River Kwai Bridge, The hell fire pass, ride on the train that get experience very good. There are many waterfall that you can taste a real Nature, The weather is cool the whole year. So please do not miss when you have a chance to visit Thailand. For a transport and private arrangement the excursions. You can send a request to www.bangkoklimo.org

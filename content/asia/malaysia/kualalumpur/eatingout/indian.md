@@ -1,6 +1,8 @@
 ---
 title: "Indian"
 type: poi
+latitude: 3.236272
+longitude: 101.673385
 ---
 
 **Restaurants**
@@ -15,13 +17,18 @@ tel: 03-245-0366.
 
 **Daz Corne**
 
-Open only for breakfast and lunch 
+Open only for breakfast and lunch
+ 
 
 address: Jalan 2, Selayang Baru.
 
 **Restoran Rannad**
 
-Open 24 hours. Prices start from RM3 per person.  8D:Rojak A very popular rojak stall which is open only in the afternoon. 
+Open 24 hours. Prices start from RM3 per person.
+ 
+ 8D:Rojak
+ A very popular rojak stall which is open only in the afternoon.
+ 
 
 address: Jalan Klang Lama, at Shell Station
 

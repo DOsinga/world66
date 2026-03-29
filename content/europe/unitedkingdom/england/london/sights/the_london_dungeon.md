@@ -1,6 +1,8 @@
 ---
 title: "The London Dungeon"
 type: poi
+latitude: 51.5026
+longitude: -0.119219
 ---
 
 The london Dungeon is a great little taste of the early times in london. Walk down the streets where Jack "The Ripper" waited, visit the tortous dungeons, be scentenced to death!!. 

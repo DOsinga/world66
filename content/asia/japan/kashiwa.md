@@ -1,6 +1,8 @@
 ---
 title: "Kashiwa"
 type: location
+latitude: 35.867622
+longitude: 139.975688
 ---
 
 Travel Guide

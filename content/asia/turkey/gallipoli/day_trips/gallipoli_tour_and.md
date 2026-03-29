@@ -5,6 +5,8 @@ address: "gallipoli canakkale"
 email: "info@traveltoplanet.com"
 phone: "902125114869"
 url: "www.traveltoplanet.com"
+latitude: 40.310675
+longitude: 26.406377
 ---
 
 **Gallipoli Tour

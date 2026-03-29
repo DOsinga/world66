@@ -1,6 +1,8 @@
 ---
 title: "Tartus"
 type: location
+latitude: 34.893622
+longitude: 35.885167
 ---
 
 We currently have no information about Tartus.

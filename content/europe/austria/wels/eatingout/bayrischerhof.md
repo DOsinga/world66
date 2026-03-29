@@ -1,9 +1,12 @@
 ---
 title: "Bayrischer Hof"
 type: poi
+latitude: 48.164138
+longitude: 14.028188
 ---
 
-Typical regional food, 85 seats, closed on Sat & Sun  
+Typical regional food, 85 seats, closed on Sat & Sun 
+ 
 
 email: office@bayrischerhof.at
 

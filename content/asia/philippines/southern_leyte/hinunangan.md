@@ -1,6 +1,8 @@
 ---
 title: "Hinunangan"
 type: location
+latitude: 10.39404
+longitude: 125.200194
 ---
 
 Travel Guide

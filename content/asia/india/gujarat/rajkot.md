@@ -1,6 +1,8 @@
 ---
 title: "Rajkot"
 type: location
+latitude: 22.305326
+longitude: 70.802838
 ---
 
 We currently have no information about Rajkot.

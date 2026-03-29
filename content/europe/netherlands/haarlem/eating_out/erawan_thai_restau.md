@@ -7,6 +7,8 @@ phone: "+31 (0)23-5342923"
 price: "Euro 10,15 and up"
 type: "Thai"
 url: "www.erawan.nl"
+latitude: 52.379381
+longitude: 4.636123
 ---
 
 Authentic Thai restaurant in the center of Haarlem.

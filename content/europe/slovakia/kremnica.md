@@ -1,6 +1,8 @@
 ---
 title: "Kremnica"
 type: location
+latitude: 48.704213
+longitude: 18.917485
 ---
 
 A visit to Kremnica usually begins at the Lower Gatehouse. The sloping regular square with the Holy Trinity Plague Column affords a nice view of the imposing castle. History - lovers may visit several attractive museums, they will go to the Franciscan church to admire its interior. To reach the square from another side, they may go accross the site of the former Upper Gatehouse behind the mint.

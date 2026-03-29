@@ -2,6 +2,8 @@
 title: "By Bus"
 type: poi
 type: "By Road"
+latitude: 17.448818
+longitude: 78.496484
 ---
 
 Rourkela has one of the best city bus services in Orissa.Adding delight to commuters it has got auto rickshaw service that is on a shared basis which is even more comfortable and faster.The frequencies of buses are 5 mins as compared to 2 mins for autos.

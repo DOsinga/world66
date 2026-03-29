@@ -1,6 +1,8 @@
 ---
 title: "Bodrum"
 type: location
+latitude: 37.034399
+longitude: 27.430651
 ---
 
 Bodrum is a mainly known for its nightlife on the Aegean Coast. One of Turkey's best known and longest established resorts, the town is known for its lively port, good beaches, and colorful nightlife. During the day, yachting, boating, swimming, snorkeling and scuba diving are the main diversions. Bodrum is a good place to arrange for a boat trip to neighboring islands and secluded beaches for sunning and snorkeling. At night, bars, pubs, clubs and discos rock late into the night. 

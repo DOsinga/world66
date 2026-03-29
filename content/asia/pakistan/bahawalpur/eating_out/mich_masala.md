@@ -8,6 +8,8 @@ phone: "0300 8754077"
 price: "150+"
 type: "African"
 url: "none"
+latitude: 28.707334
+longitude: 77.188523
 ---
 
 the best BBQ piece n paratha...hani karhai with hot nan and etc :)

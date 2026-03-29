@@ -3,6 +3,8 @@ title: "Tutti Frutti Plaza"
 type: poi
 email: "praymond2008@gmail.com"
 type: "Pubs"
+latitude: 40.410897
+longitude: -3.707464
 ---
 
 Tutti Frutti Plaza.

@@ -6,6 +6,8 @@ email: "manager@newshanghaiboston.com"
 phone: "617-338-6688"
 type: "Chinese"
 url: "www.newshanghaiboston.com"
+latitude: 42.3469
+longitude: -71.062431
 ---
 
 To enjoy authentic Chinese food in the US and other countries, one often must go to a local Chinatown. The Chinatown in Boston is such a place. In the past, Cantonese cuisine predominated. More recently, one can even enjoy Vietnamese, Malaysian, Korean, and Japanese food there – a reflection of the changing taste of the consumers. Now, because of the emergence of China as a economic superpower and the City of Shanghai the center of international commerce, Shanghai cuisine as one of the four major cooking styles in China, also has gained immense popularity and a huge following among those who have visited the city.

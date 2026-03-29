@@ -7,6 +7,8 @@ phone: "214-526-1515"
 price: "Varies $1 to ?"
 type: "French"
 url: "www.eatzis.com"
+latitude: 32.811018
+longitude: -96.806469
 ---
 
 Eatzi's provides 'chef crafted meal solutions.' A team of onsite chefs provide meal preparation before your eyes at a variety of stations that resemble a miniature european market. Food is excellent in quality and reasonable in price.

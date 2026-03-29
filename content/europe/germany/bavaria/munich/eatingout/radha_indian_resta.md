@@ -8,6 +8,8 @@ phone: "0891297341"
 price: "10"
 type: "Indian and Pakistani"
 url: "www.radha-restaurant.de"
+latitude: 48.148998
+longitude: 11.542844
 ---
 
 RADHA INDIAN RESTAURANT

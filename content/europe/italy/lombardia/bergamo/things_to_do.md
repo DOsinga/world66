@@ -6,6 +6,8 @@ email: "info@bergamosportspa.it"
 phone: "035 251171/fax 035 4329388"
 type: "Swimming"
 url: "www.bergamosportspa.it"
+latitude: 45.702717
+longitude: 9.652925
 ---
 
 Go SWIMMING at the Pesenti swimming pool near the Hospital Maggiore di Bergamo. There is an indoor pool for adults and one for little children for the winter. In summer there is a diving pool, an olympic pool and a childrens pool divided into two parts according to age - one for babies who can just barely sit up! Sit either on the wide cement terraces to watch all the action in the pools or sit on the great lawn sourrounding the pools and enjoy the view of the hills. Go down to the underwater viewing window at the diver's pool and see the divers splash into the water.

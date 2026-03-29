@@ -8,6 +8,8 @@ phone: "x"
 price: "naira"
 type: "African"
 url: "xx"
+latitude: -32.022249
+longitude: -63.969874
 ---
 
 Following is a list of** Benin City restaurants** which will help you to locate all the local delicacies.

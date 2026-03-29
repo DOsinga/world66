@@ -1,6 +1,8 @@
 ---
 title: "Adel"
 type: location
+latitude: 41.617412
+longitude: -94.018518
 ---
 
 Travel Guide

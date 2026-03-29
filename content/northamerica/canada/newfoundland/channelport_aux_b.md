@@ -1,6 +1,8 @@
 ---
 title: "Channel-Port aux Basques"
 type: location
+latitude: 47.577663
+longitude: -59.142419
 ---
 
 Travel Guide

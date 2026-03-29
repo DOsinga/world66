@@ -6,6 +6,8 @@ email: "marsel@nedbatam.com"
 phone: "62 813 6468 9261"
 url: "nedbatam.com"
 zipcode: "123456"
+latitude: 1.103082
+longitude: 104.03837
 ---
 
 Duriankang Dam East Shore - Ride or Walk.

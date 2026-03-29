@@ -1,6 +1,8 @@
 ---
 title: "Peking Duck"
 type: poi
+latitude: 39.927831
+longitude: 116.45613
 ---
 
 **Restaurants**

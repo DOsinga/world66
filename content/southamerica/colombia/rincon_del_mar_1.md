@@ -1,6 +1,8 @@
 ---
 title: "Rincon del MAr"
 type: location
+latitude: 9.766779
+longitude: -75.641092
 ---
 
 Travel Guide

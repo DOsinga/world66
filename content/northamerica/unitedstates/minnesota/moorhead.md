@@ -1,6 +1,8 @@
 ---
 title: "Moorhead"
 type: location
+latitude: 46.873908
+longitude: -96.753867
 ---
 
 Travel Guide

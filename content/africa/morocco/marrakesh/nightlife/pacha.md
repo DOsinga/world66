@@ -5,6 +5,8 @@ address: "Marrakesh"
 closing_time: "5am"
 type: "Clubs and dancing"
 url: "www.pacha.com"
+latitude: 31.625826
+longitude: -7.989161
 ---
 
 And what about Pacha? Pacha is amazing! What can I tell?

@@ -1,6 +1,8 @@
 ---
 title: "Palampur"
 type: location
+latitude: 32.109549
+longitude: 76.535953
 ---
 
 Travel Guide

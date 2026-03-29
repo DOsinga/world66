@@ -6,6 +6,8 @@ email: "info@cambuur.nl"
 phone: "058 296 33 00"
 type: "Public Buildings"
 url: "www.cambuur.nl"
+latitude: 53.206089
+longitude: 5.814165
 ---
 
 Please add Leeuwarden Sights below.

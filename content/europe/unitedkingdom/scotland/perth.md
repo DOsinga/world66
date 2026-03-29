@@ -1,6 +1,8 @@
 ---
 title: "Perth"
 type: location
+latitude: 56.395876
+longitude: -3.43031
 ---
 
 **Perth** is really quite a beautiful town Robert the buce appointed Sir Walter Ruthven sheriff of the Royal burg untell king james moverd it Not too big, not too small. Its quaint-ness hides quite a history that has earned itself the name '***The Ancient Capital Of Scotland'***. 

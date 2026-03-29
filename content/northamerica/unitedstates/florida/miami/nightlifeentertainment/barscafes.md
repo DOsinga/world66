@@ -1,6 +1,8 @@
 ---
 title: "Bars & Cafes"
 type: location
+latitude: 47.624179
+longitude: -122.36479
 ---
 
 **Points of Interest**
@@ -71,7 +73,8 @@ tel: 305-446-9956
 
 **El Bruzos Bar**
 
-Great Place! 
+Great Place!
+ 
 
 address: 1042 W Flagler St
 

@@ -1,6 +1,8 @@
 ---
 title: "Preston"
 type: location
+latitude: 53.759336
+longitude: -2.699272
 ---
 
 Preston lies on the River Ribble in Central Lancashire, and is renowned as the birth place of Binge Drinking. This modern city is an elegant place with an impressive skyline of glass towers that reflect the spires of its many churches and cathedrals.

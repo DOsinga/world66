@@ -1,6 +1,8 @@
 ---
 title: "Mariehamn"
 type: location
+latitude: 60.102423
+longitude: 19.94126
 ---
 
 Mariehamn is actually a town rather than a city, the only town in, and the capital of, Åland. It represents the only port of call on the Viking and Silja lines between Sweden and Finland. The Åland assembly is, of course, located here.

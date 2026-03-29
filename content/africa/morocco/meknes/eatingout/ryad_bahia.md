@@ -1,6 +1,8 @@
 ---
 title: "RYAD BAHIA"
 type: poi
+latitude: 33.8943
+longitude: -5.56623
 ---
 
 It's a typical ryad in the heart of the medina in Meknes,not far from the famous gate BAB MANSOUR ,between the musuem DAR JAMAI and the MEDERSA BOUANANIA .. 

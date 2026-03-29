@@ -2,6 +2,8 @@
 title: "Pantheon"
 type: poi
 type: "Churches and Cathedrals"
+latitude: 41.898616
+longitude: 12.476833
 ---
 
 Another two blocks along and on your left you'll find the Torre Argentina, a large square. In the center are remains of several Republican Temples (i.e., before Caesar Augustus, probably 2nd or 1st century before the Christian Era). Across (on your right as you were walking down Corso V. Emanuele II) you'll find via di Torre Argentina. This eventually becomes via Rotondo, which will in turn take you into Piazza Rotondo, the square in which you'll find the Pantheon.

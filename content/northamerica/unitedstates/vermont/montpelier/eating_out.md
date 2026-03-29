@@ -5,6 +5,8 @@ address: "118 Main Street, Montpelier"
 phone: "802.223.3188"
 type: "American"
 url: "www.necidining.com"
+latitude: 44.260877
+longitude: -72.574956
 ---
 
 Montpelier is home to the New England Culinary Institute, which has a few training restaurants in town!

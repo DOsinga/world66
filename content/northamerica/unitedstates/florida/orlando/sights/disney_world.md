@@ -2,6 +2,8 @@
 title: "Disney World"
 type: poi
 type: "Hotspots"
+latitude: 28.399446
+longitude: -81.571272
 ---
 
 If you have never visited the Disney World theme park in Orlando Florida, it is easy to become overwhelmed by the sheer volume of sights, attractions and must-do activities. The following guide will put you on the right track.

@@ -8,6 +8,8 @@ phone: "Tel.&Fax +39.035.24.78.13"
 price: "€40"
 type: "Italian"
 url: "www.liopellegrini.it"
+latitude: 45.703445
+longitude: 9.675343
 ---
 
 This fine restaurant is located across the square from the Carrara Art Museum and is quite a work of art in itself. It has a restaurant, a veranda, an outdoor garden restaurant in warm weather and a suite which includes breakfast and parking.

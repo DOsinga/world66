@@ -1,6 +1,8 @@
 ---
 title: "Brenham"
 type: location
+latitude: 30.166883
+longitude: -96.397744
 ---
 
 Travel Guide

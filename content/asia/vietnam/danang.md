@@ -1,6 +1,8 @@
 ---
 title: "Da Nang"
 type: location
+latitude: 16.068
+longitude: 108.212
 ---
 
 Travel Guide

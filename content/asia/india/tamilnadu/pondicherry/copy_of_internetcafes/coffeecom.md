@@ -8,6 +8,8 @@ phone: "0413 - 420 1245 & 420 0003"
 price: "indian rs.20/30minits"
 type: "Internet Cafe"
 url: "www.coffeedotcom.net"
+latitude: 37.791624
+longitude: -122.395364
 ---
 
 it is cyber cafe.

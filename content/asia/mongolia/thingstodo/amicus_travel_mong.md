@@ -6,6 +6,8 @@ email: "marketing@amicusmongolia.com"
 phone: "976-99061160"
 type: "Trekking"
 url: "www.amicusmongolia.com"
+latitude: 47.918468
+longitude: 106.917702
 ---
 
 **Amicus Travel Mongolia -Lighting yours ways to Asia.**

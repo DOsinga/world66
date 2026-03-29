@@ -5,6 +5,8 @@ address: "Gedempte zuiderdiep 65 9711 HC Groningen"
 email: "info@depaardebloem.nl"
 phone: "050-3132672"
 type: "Markets"
+latitude: 53.214755
+longitude: 6.566551
 ---
 
 One of the most interesting shopping streets is the Folkingestraat, which leads straight from the train station over the Museum Bridge to the Vismarkt. Before 1945 this used to be the centre of the jewish shops. Nowadays you find art galleries and some arabic shops.

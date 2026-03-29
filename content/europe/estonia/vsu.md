@@ -1,6 +1,8 @@
 ---
 title: "Võsu"
 type: location
+latitude: 59.576518
+longitude: 25.955366
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Edmond"
 type: location
+latitude: 35.657137
+longitude: -97.464904
 ---
 
 Travel Guide

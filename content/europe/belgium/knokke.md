@@ -1,6 +1,8 @@
 ---
 title: "Knokke"
 type: location
+latitude: 51.339827
+longitude: 3.284322
 ---
 
 Knokke is in fact the " Petit Nice" of the Belgium.

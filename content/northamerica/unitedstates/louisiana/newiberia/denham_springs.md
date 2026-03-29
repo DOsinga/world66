@@ -1,6 +1,8 @@
 ---
 title: "Denham Springs"
 type: location
+latitude: 30.486856
+longitude: -90.956213
 ---
 
 Travel Guide

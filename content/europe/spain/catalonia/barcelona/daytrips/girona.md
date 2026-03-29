@@ -1,6 +1,8 @@
 ---
 title: "Girona"
 type: poi
+latitude: 41.979301
+longitude: 2.819944
 ---
 
 The small Barcelona with a Firenzian touch. Colorful houses over Onyar river,

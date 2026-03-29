@@ -1,6 +1,8 @@
 ---
 title: "Inari"
 type: location
+latitude: 68.906246
+longitude: 27.026077
 ---
 
 Inari is located in Finnish Lapland. The main reason to travel this far north is to see the breathtaking natural wilderness of Lapland. 

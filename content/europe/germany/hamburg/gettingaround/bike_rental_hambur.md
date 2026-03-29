@@ -5,6 +5,8 @@ address: "Karolinenstrasse 17 20357 Hamburg"
 email: "info@hhcitycycles.de"
 phone: "0176 - 64 33 06 23"
 url: "www.hhcitycycles.de"
+latitude: 53.56033
+longitude: 9.975468
 ---
 
 Centrally located, offers Bike rental and Guided bike tours. Also open on weekends.

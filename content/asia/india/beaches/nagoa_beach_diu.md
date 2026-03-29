@@ -3,6 +3,8 @@ title: "Nagoa beach Diu"
 type: poi
 email: "mrugesh_thaker@rediffmail.com"
 url: "www.diu-info.blogspot.com"
+latitude: 20.706593
+longitude: 70.915625
 ---
 
 **Nagoa beach **is a horseshoe shaped beach with various water

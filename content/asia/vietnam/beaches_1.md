@@ -1,6 +1,8 @@
 ---
 title: "Beaches"
 type: location
+latitude: 10.684031
+longitude: 103.299594
 ---
 
 Vietnam is blessed with a coastline stretching 3,000 kilometers with hundreds of beaches up and down the country that cater to all tastes; from white sand beaches where you can view sunsets, to beaches with 5 star facilities, and beaches with nothing at all to do except swim, relax and enjoy the local culture.

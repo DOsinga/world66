@@ -1,6 +1,8 @@
 ---
 title: "Gothenburg"
 type: location
+latitude: 57.707233
+longitude: 11.967017
 ---
 
 Gothenburg is the second city of Sweden and can be seen as the capital of the South. The city is quite different from Stockholm and something of a swedish beach destination. 

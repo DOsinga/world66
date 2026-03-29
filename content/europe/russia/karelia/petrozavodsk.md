@@ -1,6 +1,8 @@
 ---
 title: "Petrozavodsk"
 type: location
+latitude: 61.789221
+longitude: 34.368804
 ---
 
 Travel Guide

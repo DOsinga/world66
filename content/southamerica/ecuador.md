@@ -1,6 +1,8 @@
 ---
 title: "Ecuador"
 type: location
+latitude: -1.339767
+longitude: -79.366697
 ---
 
 Ecuador is small country in South America. It derives its name from the fact that it lies exactly on the Equator. 

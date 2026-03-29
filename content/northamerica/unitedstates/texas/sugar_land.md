@@ -1,6 +1,8 @@
 ---
 title: "Sugar Land"
 type: location
+latitude: 29.619679
+longitude: -95.634946
 ---
 
 We currently have no information about Sugar Land.

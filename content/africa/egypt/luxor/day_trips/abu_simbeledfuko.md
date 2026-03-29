@@ -5,6 +5,8 @@ address: "Luxor"
 email: "emiltut@yahoo.com"
 phone: "+2 0123702314"
 url: "emiltut.tripod.com"
+latitude: 25.702096
+longitude: 32.647186
 ---
 
 Abu Simbel Temples are situated 280 km to the south of Aswan and close to the Sudanese border. The two temple were built more than 3250 years ago by one of the greatest and most famous Pharaoh Ramses II, who reigned for 67 years during the 13th century BC (19th Dynasty). The temples were built at a site on the west bank of the Nile south of Aswan in the land of Nubia, known today as Abu Simbel. Because of their remote location near the Sudanese border in southern Egypt, the temples were unknown until their rediscovery in 1813.

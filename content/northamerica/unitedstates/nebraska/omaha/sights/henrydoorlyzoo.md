@@ -6,6 +6,8 @@ phone: "(402) 733-8400"
 type: "general"
 url: "www.omahazoo.com"
 zipcode: "68107"
+latitude: 41.225114
+longitude: -95.924087
 ---
 
 The Henry Doorly Zoo is one of the state's most popular tourist attractions, with attendance reaching 1.6 million annually. Henry Doorly Zoo has the second largest family membership in the United States. This world-class zoo sits on 130 acres and is home to over 600 species and more than 18,600 specimens. Among the numerous exhibits are the world's second largest free-flight aviary, a collection of rare white tigers, and the world's largest captive herds of gaur and Nile Lechwe.

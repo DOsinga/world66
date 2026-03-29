@@ -6,6 +6,8 @@ address: "A Block Market, Model Town, Lahore"
 email: "abbasnpm@gmail.com"
 price: "40-60 rs"
 type: "Local"
+latitude: 31.4828
+longitude: 74.330328
 ---
 
 Its a best place for breakfast in Model Town, Lahore.

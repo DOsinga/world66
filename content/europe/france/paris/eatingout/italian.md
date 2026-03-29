@@ -1,6 +1,8 @@
 ---
 title: "Italian"
 type: poi
+latitude: 49.18943
+longitude: 3.840665
 ---
 
 **Restaurants**

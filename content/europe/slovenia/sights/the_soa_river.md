@@ -8,6 +8,8 @@ opening_hours: "every day"
 phone: "+ 386 5 3896 444"
 type: "Parks, Gardens and Zoos"
 url: "www.bovec.si"
+latitude: 46.338585
+longitude: 13.552419
 ---
 
 THE SOČA RIVER (*Bovec area )*

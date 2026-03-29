@@ -6,6 +6,8 @@ email: "tours@euroadventures.net"
 phone: "(986) 851455 - (986) 843238"
 url: "www.euroadventures.net"
 zipcode: "36002"
+latitude: 42.432372
+longitude: -8.64333
 ---
 
 Winter (October 1st-31st May)

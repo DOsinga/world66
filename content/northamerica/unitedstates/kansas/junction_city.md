@@ -1,6 +1,8 @@
 ---
 title: "Junction City"
 type: location
+latitude: 39.028609
+longitude: -96.831398
 ---
 
 Travel Guide

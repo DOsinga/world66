@@ -1,6 +1,8 @@
 ---
 title: "Guangzhou"
 type: location
+latitude: 23.128845
+longitude: 113.259006
 ---
 
 Guangzhou, neighboring [Hong Kong](/asia/china/hongkong) and [Macau](/asia/china/macau), is the capital of Guangdong Province, and the largest city in South China as well. The city has a population of 6,290,000 people. It has long been one of China's ports of foreign trade and friendly exchanges. The past decade has seen great economic achievements in the city thanks to the policy of reform and opening to the outside world which was first carried out in Guangdong. Now the city has become a well-known industrial city. Guangzhou has a few beautiful and legendary nick names, Huacheng (the Flower City), Yangcheng (the Goat City) and Suicheng (the Rice-ear City). It is 2,100 years old, the same ages as the world-renowned ancient cultural city [Rome](/europe/italy/lazio/rome) of Italy.

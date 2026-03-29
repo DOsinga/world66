@@ -4,6 +4,8 @@ type: poi
 address: "Carrera 9, #70-34"
 phone: "345-9010"
 type: "Italian"
+latitude: 4.654272
+longitude: -74.058034
 ---
 
 All variety of pastas and meats. Typical Italian comfort food.

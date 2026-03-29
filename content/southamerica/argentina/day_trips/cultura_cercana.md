@@ -4,6 +4,8 @@ type: poi
 address: "Lavalle 1546 5 F"
 email: "info@culturacercana.com.ar"
 url: "www.culturacercana.com.ar"
+latitude: 48.070669
+longitude: -0.773402
 ---
 
 Trips and tours in Argentina:

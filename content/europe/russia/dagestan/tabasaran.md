@@ -1,6 +1,8 @@
 ---
 title: "Tabasaran"
 type: location
+latitude: 41.949132
+longitude: 47.982698
 ---
 
 Travel Guide

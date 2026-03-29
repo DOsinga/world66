@@ -1,6 +1,8 @@
 ---
 title: "Kayseri"
 type: location
+latitude: 38.721901
+longitude: 35.487321
 ---
 
 We currently have no information about Kayseri.

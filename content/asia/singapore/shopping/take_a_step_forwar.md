@@ -5,6 +5,8 @@ address: "Singapore"
 email: "singaporeflower@hotmail.com"
 type: "Antiques"
 url: "www.singaporeflowershop.com"
+latitude: 1.357107
+longitude: 103.819499
 ---
 
 Normal

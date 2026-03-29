@@ -1,6 +1,8 @@
 ---
 title: "Pattaya"
 type: location
+latitude: 12.936692
+longitude: 100.8865
 ---
 
 Travel Guide

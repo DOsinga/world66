@@ -1,6 +1,8 @@
 ---
 title: "Tendele"
 type: location
+latitude: -26.040928
+longitude: 27.996719
 ---
 
 Travel Guide

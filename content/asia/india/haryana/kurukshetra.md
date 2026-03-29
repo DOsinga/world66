@@ -1,6 +1,8 @@
 ---
 title: "Kurukshetra"
 type: location
+latitude: 29.969375
+longitude: 76.848279
 ---
 
 Travel Guide

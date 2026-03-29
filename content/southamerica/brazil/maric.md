@@ -1,6 +1,8 @@
 ---
 title: "Maricá"
 type: location
+latitude: -22.908876
+longitude: -42.817191
 ---
 
 Travel Guide

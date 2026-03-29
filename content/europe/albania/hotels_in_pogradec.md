@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Pogradec"
 type: location
+latitude: 40.902854
+longitude: 20.65831
 ---
 
 Travel Guide

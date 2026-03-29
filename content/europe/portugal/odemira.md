@@ -1,6 +1,8 @@
 ---
 title: "Odemira"
 type: location
+latitude: 37.5976
+longitude: -8.6422
 ---
 
 Travel Guide

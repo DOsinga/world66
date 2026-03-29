@@ -7,6 +7,8 @@ email: "info@hydshop.in"
 phone: "04064533307"
 type: "Antiques"
 url: "www.hydshop.in"
+latitude: 17.360589
+longitude: 78.474061
 ---
 
 Hyderabad online shopping site www.hydshop.in offers items from wide range of categories @ low prices with same day delivery Service in Hyderabad.

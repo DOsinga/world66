@@ -1,6 +1,8 @@
 ---
 title: "Cozumel"
 type: location
+latitude: 20.43206
+longitude: -86.920691
 ---
 
 Cozumel is a small island just of the coast of

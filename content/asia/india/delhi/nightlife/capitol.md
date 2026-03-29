@@ -7,6 +7,8 @@ email: "capitol.club@gmail.com"
 opening_hours: "Wednesday to Sunday"
 phone: "01126879802 / 03"
 type: "Clubs and dancing"
+latitude: 28.597031
+longitude: 77.195701
 ---
 
 The latest and most happening place in town. On the weekend very crowded.

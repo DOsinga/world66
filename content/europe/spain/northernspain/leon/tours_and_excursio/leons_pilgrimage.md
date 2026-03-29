@@ -5,6 +5,8 @@ address: "Leon"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 31.271513
+longitude: -95.995338
 ---
 
 On this private tour you will discover Leon's cathedral and other important monuments of the Old Quarter.... 

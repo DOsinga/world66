@@ -1,6 +1,8 @@
 ---
 title: "La Coronilla"
 type: location
+latitude: -33.896136
+longitude: -53.515474
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Sohagpur"
 type: location
+latitude: 22.693795
+longitude: 78.194872
 ---
 
 Travel Guide

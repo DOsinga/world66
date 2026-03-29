@@ -1,6 +1,8 @@
 ---
 title: "Handorf"
 type: location
+latitude: -37.7814
+longitude: 145.16371
 ---
 
 Travel Guide

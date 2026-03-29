@@ -4,6 +4,8 @@ type: poi
 address: "Bedse"
 email: "bhatkanti@gmail.com"
 url: "bhatkanti.wordpress.com"
+latitude: 18.721337
+longitude: 73.535022
 ---
 
 10 miles South of Karle close to the Kamshet Railway Station is this

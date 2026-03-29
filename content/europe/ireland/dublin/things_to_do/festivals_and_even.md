@@ -6,6 +6,8 @@ email: "dublinaccommodations@gmail.com"
 phone: "00353 1 8510512"
 type: "Other"
 url: "www.hidden-dublin.com"
+latitude: 53.382457
+longitude: -6.245046
 ---
 
 For all upcoming events see humorous local website Hidden Dublin http://www.hidden-dublin.com it's written and updated by a Dubliner and is packed with hints and money saving tips.

@@ -1,6 +1,8 @@
 ---
 title: "Nagapattinam"
 type: location
+latitude: 10.60262
+longitude: 79.761935
 ---
 
 Travel Guide

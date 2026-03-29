@@ -1,6 +1,8 @@
 ---
 title: "Monterey"
 type: location
+latitude: 36.223108
+longitude: -121.387742
 ---
 
 Monterey has a small town aptmosphere, but is one of the most beautiful places on earth. 

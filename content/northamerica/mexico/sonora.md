@@ -1,6 +1,8 @@
 ---
 title: "Sonora"
 type: location
+latitude: 29.333333
+longitude: -110.666667
 ---
 
 The state of Sonora at the north western part of México and south of the state of Arizona , USA is an unique and unspoiled destiny of México.

@@ -1,6 +1,8 @@
 ---
 title: "Battambang"
 type: location
+latitude: 12.925679
+longitude: 103.231714
 ---
 
 Battambang lies on the route from Phnom penh to [Bangkok](/asia/thailand/bangkok). It is a large regional city with strong ties to Thailand. Much of the trade between the two countries passes through Battambang. There are several interesting temples in the city and day excursions to surrounding areas can easily be arranged. The temples of Angkor wat and the Tonle Sap lake are also easily reached from the city. 

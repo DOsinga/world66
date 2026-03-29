@@ -1,6 +1,8 @@
 ---
 title: "Attractions"
 type: location
+latitude: 49.186292
+longitude: -122.84752
 ---
 
 Toronto possesses a diversity of interesting places to visit. 
@@ -21,12 +23,21 @@ For information on the Art Gallery and its exhibits, visit Art Gallery
 
 **Markham Museum & Historic Village . **
 
-Exhibits of horse-drawn vehicles, railway cars, pioneer homes are just some of the attractions which cover 25 acres.  Tel: 1 905 294-4576 Fax: 1 905 294-4590  Directions: W side of Hwy 48, 2 km N of Hwy 7  Address: 9350 Hwy 48 Markham ON L3P 3J3 
+Exhibits of horse-drawn vehicles, railway cars, pioneer homes are just some of the attractions which cover 25 acres. 
+ Tel: 1 905 294-4576 Fax: 1 905 294-4590 
+ Directions: W side of Hwy 48, 2 km N of Hwy 7 
+ Address: 9350 Hwy 48 Markham ON L3P 3J3
+ 
 
 **Harbourside Playhouse . **
 
-Harbourside Playhouse is a year round, professional theatre company offering patrons quality entertainment at affordable prices. Located in Port Credit, Mississauga's Village on the Lake, Harbourside Playhouse has quickly become one of Ontario's fastest growing theatres.   Tel: 905 274-7345 Fa [more..](/northamerica/canada/ontario/toronto/attractions/harboursideplayhouse)
+Harbourside Playhouse is a year round, professional theatre company offering patrons quality entertainment at affordable prices. Located in Port Credit, Mississauga's Village on the Lake, Harbourside Playhouse has quickly become one of Ontario's fastest growing theatres. 
+ 
+ Tel: 905 274-7345 Fa [more..](/northamerica/canada/ontario/toronto/attractions/harboursideplayhouse)
 
 **Stock Market Place . **
 
-Visit the Toronto Stock Exchange's interactive entertainment centre in downtown Toronto.  Tel: 1 416 947-4676 Fax: 1 416 814-8823 Toll Free: 1-800-729-5556  Address: 130 King St W Toronto ON M5X 1J2
+Visit the Toronto Stock Exchange's interactive entertainment centre in downtown Toronto. 
+ Tel: 1 416 947-4676 Fax: 1 416 814-8823
+ Toll Free: 1-800-729-5556 
+ Address: 130 King St W Toronto ON M5X 1J2

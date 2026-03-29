@@ -3,6 +3,8 @@ title: "Lake Iseo"
 type: poi
 email: "karen@europealacarte.co.uk"
 url: "www.europealacarte.co.uk"
+latitude: 45.738878
+longitude: 10.070866
 ---
 
 [Lake Iseo](/europe/italy/lombardia/bergamo/day_trips/lake_iseo) has many hidden cities all along its banks and the biggest southernmost one is Sarnico. Here the lake is also called Lake of Sarnico. There are boat trips, restaurants, camp grounds, boating, windsurfing and beaches with parks.

@@ -5,6 +5,8 @@ address: "Esplanade 6"
 phone: "+49 (0)40 - 35713969"
 type: "Casinos"
 zipcode: "20354  Hamburg - Neustadt"
+latitude: 10.70273
+longitude: 122.56417
 ---
 
 Has reopened as a bavarian Beer-house.

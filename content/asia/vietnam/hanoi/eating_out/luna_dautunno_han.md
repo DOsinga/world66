@@ -6,6 +6,8 @@ email: "luna.hanoi@fpt.vn"
 phone: "+84 4 8237338"
 price: "10$"
 type: "Italian"
+latitude: 10.80129
+longitude: 106.711757
 ---
 
 Luna d’autunno Hanoi is an Italian restaurant that offers flavorful and genuine Italian food.

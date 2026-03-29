@@ -1,6 +1,8 @@
 ---
 title: "Abruzzo"
 type: location
+latitude: 42.227681
+longitude: 13.854983
 ---
 
 Abruzzo is a mountainous region to the northeast of

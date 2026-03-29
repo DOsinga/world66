@@ -1,6 +1,8 @@
 ---
 title: "Mussoorie"
 type: location
+latitude: 30.456901
+longitude: 78.078291
 ---
 
 Travel Guide

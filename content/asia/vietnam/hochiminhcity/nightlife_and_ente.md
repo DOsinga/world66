@@ -7,6 +7,8 @@ closing_time: "2am"
 email: "merc533@lycos.com"
 phone: "11 street"
 type: "Clubs and dancing"
+latitude: 46.657499
+longitude: 11.362235
 ---
 
 Entertainment/Nightlife.....

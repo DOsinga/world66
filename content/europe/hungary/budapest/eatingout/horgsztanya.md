@@ -1,9 +1,15 @@
 ---
 title: "Horgásztanya"
 type: poi
+latitude: 46.980793
+longitude: 18.93845
 ---
 
-** Gloria Goodman:** This is a very good restaurant. Not a touristy one either. Excellent food with very good service and very reasonably priced.   It's location is at the foot of Castle Hill opposite the Danube.  Wonderful. I highly recommend it.
+** Gloria Goodman:** This is a very good restaurant. Not a touristy one either. Excellent food with very good service and very reasonably priced. 
+ 
+ It's location is at the foot of Castle Hill opposite the Danube.
+ 
+ Wonderful. I highly recommend it.
 
 address: Fö u. 27
 

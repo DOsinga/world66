@@ -1,6 +1,8 @@
 ---
 title: "Marugame"
 type: location
+latitude: 34.288813
+longitude: 133.798242
 ---
 
 Travel Guide

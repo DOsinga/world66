@@ -1,6 +1,8 @@
 ---
 title: "Metlaoui"
 type: location
+latitude: 34.315723
+longitude: 8.401829
 ---
 
 Metlaoui is the starting point for the 'lezard rouge' train line. It is only a 40 minute train ride, but it takes you through one of the most spectacular landscape you have ever seen. 

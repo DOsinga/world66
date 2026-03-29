@@ -1,6 +1,8 @@
 ---
 title: "misurata"
 type: location
+latitude: 32.374592
+longitude: 15.09058
 ---
 
 We currently have no information about misurata.

@@ -6,6 +6,8 @@ email: "sydney_hostel@yahoo.com"
 phone: "00962777758668"
 price_per_night: "$15.50"
 type: "Sleep Cheap"
+latitude: 31.952108
+longitude: 35.931601
 ---
 
 >>>>(( OUR BEST SERVICE IS PICKUP FROM THE AIRPORT ONLY FOr

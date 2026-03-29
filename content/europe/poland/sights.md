@@ -3,6 +3,8 @@ title: "Sights in Poland"
 type: section
 address: "Szeroka 24"
 type: "Synagogues"
+latitude: 50.051435
+longitude: 19.948704
 ---
 
 fwtxb dxle ucibmsy usclwrxgz arhe ciseg fqnl

@@ -3,6 +3,8 @@ title: "Toolinton market"
 type: poi
 address: "Lahore, Pakistan"
 type: "Public Buildings"
+latitude: 31.565682
+longitude: 74.314183
 ---
 
 **Toolinton market, now a Museum

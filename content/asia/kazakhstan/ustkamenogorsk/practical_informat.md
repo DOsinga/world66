@@ -5,6 +5,8 @@ address: "Ust-Kamenogorsk"
 email: "yerzhan.s@mail.ru"
 phone: "87778569092"
 type: "Embassies and Consulates"
+latitude: 49.948444
+longitude: 82.627479
 ---
 
 **Travel Tips for Ust-Kamenogorsk**

@@ -1,6 +1,8 @@
 ---
 title: "Babylon"
 type: location
+latitude: 32.537792
+longitude: 44.427003
 ---
 
 The Hanging Gardens of Babylon were one of the seven wonders of the world and the name Babylon still brings to mind images of past glory. 

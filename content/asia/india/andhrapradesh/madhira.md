@@ -1,6 +1,8 @@
 ---
 title: "Madhira"
 type: location
+latitude: 16.923463
+longitude: 80.362932
 ---
 
 We currently have no information about Madhira.

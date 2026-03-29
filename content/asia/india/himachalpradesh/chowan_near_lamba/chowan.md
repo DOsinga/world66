@@ -1,6 +1,8 @@
 ---
 title: "chowan"
 type: location
+latitude: 26.925696
+longitude: 75.7132
 ---
 
 Travel Guide

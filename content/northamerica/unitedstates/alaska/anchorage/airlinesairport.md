@@ -1,6 +1,8 @@
 ---
 title: "Airlines/Airport"
 type: location
+latitude: 32.731748
+longitude: -117.195251
 ---
 
 **Anchorage International Airport **

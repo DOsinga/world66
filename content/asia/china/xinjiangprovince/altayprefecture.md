@@ -1,6 +1,8 @@
 ---
 title: "Altay Prefecture"
 type: location
+latitude: 47.100178
+longitude: 88.434175
 ---
 
 Travel Guide

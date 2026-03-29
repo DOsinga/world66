@@ -6,6 +6,8 @@ email: "reply@venetian.com"
 phone: "702-414-1000 or 877-883-6423"
 type: "Sailing"
 url: "www.venetian.com"
+latitude: 36.121707
+longitude: -115.169335
 ---
 
 This romantic ride is the perfect for couples and it is also a relaxing ride for singles looking to take a break from the Strip. The trip travels down the Grand Canal past cafes, under bridges and balconies and past other boats. Venetian Gondola rides also feature a singing gondolier and passengers have their choice of indoor or outdoor rides. Indoor rides cost $15 (gondola seats 4) and $60 for a private two-passenger gondola. Outdoor rides cost $12.50 (gondola seats 4) and $50 for a private two-passenger gondola. You can catch a Venetian Gondola ride just about anytime. Hours are Sunday-Thursday 10 a.m.-11 p.m. and Friday-Saturday 10 a.m.-midnight.

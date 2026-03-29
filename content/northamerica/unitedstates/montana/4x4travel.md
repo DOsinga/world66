@@ -1,6 +1,8 @@
 ---
 title: "4x4 travel"
 type: location
+latitude: 26.697974
+longitude: -81.886275
 ---
 
 Montana has thousands of miles of roads for four wheel drive travelers.

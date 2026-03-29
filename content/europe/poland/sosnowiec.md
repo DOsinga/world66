@@ -1,6 +1,8 @@
 ---
 title: "Sosnowiec"
 type: location
+latitude: 50.27124
+longitude: 19.215563
 ---
 
 Travel Guide

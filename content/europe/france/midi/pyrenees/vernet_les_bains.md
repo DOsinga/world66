@@ -1,6 +1,8 @@
 ---
 title: "Vernet les Bains"
 type: location
+latitude: 42.548483
+longitude: 2.387871
 ---
 
 This is a small town on the eastern side of the Pyrenees, near to Villefranche des Conflents which is on the train line from Perpignan and the start of the Petit Train Jeane journey to Latour de Carol. A bus runs from the station to Vernet les Bains 

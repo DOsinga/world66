@@ -1,6 +1,8 @@
 ---
 title: "Things to do"
 type: location
+latitude: -45.525137
+longitude: 168.372192
 ---
 
 Coast to Coast Tours is an eco-tour of the west Auckland region. It is operated by New Zealander's where they show you this area; (-*it's where their family has lived since 1922, and you also visit their own sheep farm and have afternoon tea inside their historic Homestead!*)

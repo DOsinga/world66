@@ -5,6 +5,8 @@ address: "Mijas"
 email: "info@vipmalagatours.com"
 phone: "633364647"
 url: "www.vipmalagaours.com"
+latitude: 36.595747
+longitude: -4.637519
 ---
 
 On this full day excursion to the** Rock of Gibraltar** you'll be able to learn something of its long and fascinating history.

@@ -1,6 +1,8 @@
 ---
 title: "Sonargaon"
 type: location
+latitude: 23.753686
+longitude: 90.376586
 ---
 
 We currently have no information about Sonargaon.

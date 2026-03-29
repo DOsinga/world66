@@ -4,6 +4,8 @@ type: poi
 address: "Cha Am Beach"
 type: "Thai"
 url: "www.platoorestaurant.com"
+latitude: 12.78648
+longitude: 99.981078
 ---
 
 **One of the best delicious on the

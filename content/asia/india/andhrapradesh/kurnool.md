@@ -1,6 +1,8 @@
 ---
 title: "Kurnool"
 type: location
+latitude: 15.830925
+longitude: 78.042537
 ---
 
 We currently have no information about Kurnool.

@@ -1,6 +1,8 @@
 ---
 title: "Pittsburgh"
 type: location
+latitude: 40.440697
+longitude: -80.002567
 ---
 
 Pittsburgh is a major city in the southwest corner of Pennsylvania. It was formed in the 1750s at the confluence of 3 rivers (Allegheny and Monongahela which flow into the Ohio). A strategic fort was built there, Fort Pitt, that formed the foundation for the creation of a city around it. This "Golden Triangle" is now the downtown area, marked with skyscrapers, banks, large corporations and hotels. 

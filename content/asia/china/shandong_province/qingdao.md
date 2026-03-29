@@ -1,6 +1,8 @@
 ---
 title: "Qingdao"
 type: location
+latitude: 36.066325
+longitude: 120.377766
 ---
 
 Travel Guide

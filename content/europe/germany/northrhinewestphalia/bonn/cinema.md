@@ -1,6 +1,8 @@
 ---
 title: "Cinema"
 type: location
+latitude: 51.225507
+longitude: 6.773318
 ---
 
 To many foreigners it is surprising that the big movies in Germany are all dubbed - not subtitled. So it might be funny to hear Tom Cruise with a German voice, but also interesting to hear Schwarzenegger! 
@@ -57,7 +59,8 @@ tel: +49-228-478489
 
 **Kinopolis**
 
-Bonn's biggest. Actually it is placed in Bad Godesberg and can be reached in 15 min. by car or in 20 min. by tram (Nr. 16). Absolut Hollywood.  
+Bonn's biggest. Actually it is placed in Bad Godesberg and can be reached in 15 min. by car or in 20 min. by tram (Nr. 16). Absolut Hollywood. 
+ 
 
 address: Moltkestr. 7
 

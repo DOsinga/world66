@@ -1,6 +1,8 @@
 ---
 title: "Kotli"
 type: location
+latitude: 32.975975
+longitude: 73.72761
 ---
 
 Travel Guide

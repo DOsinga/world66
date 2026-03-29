@@ -1,6 +1,8 @@
 ---
 title: "Egypt"
 type: poi
+latitude: 26.254049
+longitude: 29.267547
 ---
 
 Travel Guide

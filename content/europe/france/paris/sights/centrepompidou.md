@@ -1,6 +1,8 @@
 ---
 title: "Centre Pompidou"
 type: poi
+latitude: 48.860496
+longitude: 2.352422
 ---
 
 The Centre Pompidou is a strange looking building in the heart of Paris. It's a great example of modern architecture. It houses a good collection of modern art. It has nice expositions every now and then. For up to date info on expositions, check the website of the Centre Pompidou.

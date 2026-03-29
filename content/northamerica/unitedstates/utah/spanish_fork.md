@@ -1,6 +1,8 @@
 ---
 title: "Spanish Fork"
 type: location
+latitude: 40.115013
+longitude: -111.654777
 ---
 
 Travel Guide

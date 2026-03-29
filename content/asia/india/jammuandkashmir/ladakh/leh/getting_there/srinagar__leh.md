@@ -2,6 +2,8 @@
 title: "Srinagar - Leh"
 type: poi
 type: "By Road"
+latitude: 34.149064
+longitude: 77.574455
 ---
 
 National Highway 1 (NH1) connects Leh with Srinagar. The distance of

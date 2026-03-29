@@ -5,6 +5,8 @@ address: "181 Ellicott St @ North Division"
 email: "info@nfta.com"
 phone: "(716) 855-7211"
 url: "www.nfta.com"
+latitude: 42.882835
+longitude: -78.872836
 ---
 
 The Niagara Frontier Transportation Authority operates a multi-modal transit system, using buses, light rail, and shuttle vans to service the counties of Erie and Niagara.

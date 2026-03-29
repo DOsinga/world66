@@ -1,6 +1,8 @@
 ---
 title: "Walters"
 type: location
+latitude: 34.359808
+longitude: -98.307826
 ---
 
 Travel Guide

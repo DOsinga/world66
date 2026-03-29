@@ -1,6 +1,8 @@
 ---
 title: "Berlin Mitte"
 type: location
+latitude: 52.533217
+longitude: 13.359796
 ---
 
 You can take a stroll through Mitte at almost any time of day or night. Whether shoe shops or designer stores, cafés or bars, restaurants or theatres, you will always find scene meeting-places that are open. And when it comes to nightlife entertainment, Mitte is quite clearly the No. 1 Berlin district at the moment. Oranienburger Straße, now well known from radio and TV, is actually out of fashion again and rather too full of tourist buses. But there are still quite a few places on this street worth a visit. Top of the list are long-established pubs and party locations like Tacheles, Obst & Gemüse, Café Silberstein and Mitte-Bar. WMF (lots of house, drum & bass), is just behind Friedrichstadtpalast. Across the street is Kalkscheune, which offers cabaret, concerts and standard dance evenings as well as special events. For the morning after, a good place for breakfast is Goa in Oranienburgerstraße at the corner of Linienstraße. There's even an Asiatic chill-out lounge in the basement.

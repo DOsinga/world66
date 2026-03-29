@@ -1,6 +1,8 @@
 ---
 title: "Thanjavur"
 type: location
+latitude: 10.659037
+longitude: 79.201428
 ---
 
 We currently have no information about Thanjavur.

@@ -1,6 +1,8 @@
 ---
 title: "BorÃ¥s"
 type: location
+latitude: 57.701743
+longitude: 11.643724
 ---
 
 Travel Guide

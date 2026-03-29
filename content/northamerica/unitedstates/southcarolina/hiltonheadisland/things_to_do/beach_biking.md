@@ -6,6 +6,8 @@ email: "contact@hiltonheadrentals.com"
 phone: "1.800.368.5975"
 type: "Cycling"
 url: "www.hiltonheadrentals.com"
+latitude: 32.157781
+longitude: -80.754368
 ---
 
 With over 30 miles of green, winding trails through Sea Pines, Palmetto Dunes, Forest Beach and the rest of the island, with 19 miles of wide, densely packed sandy beaches, biking is at once exercise, leisure, and an exploration of Hilton Head Island. On the south end of the island, in Sea Pines and Forest Beach, biking can be your primary mode of transportation, the area having trails, beaches, restaurants, grocery stores, hotels and villas, all in a small radius.

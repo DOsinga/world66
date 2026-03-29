@@ -1,6 +1,8 @@
 ---
 title: "Borongan"
 type: location
+latitude: 11.607985
+longitude: 125.432243
 ---
 
 Travel Guide

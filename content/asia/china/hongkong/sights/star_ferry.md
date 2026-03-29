@@ -3,6 +3,8 @@ title: "Star Ferry"
 type: poi
 address: "Kowloon"
 type: "Hotspots"
+latitude: 22.304925
+longitude: 114.1616
 ---
 
 The

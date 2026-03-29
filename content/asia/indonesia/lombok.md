@@ -1,6 +1,8 @@
 ---
 title: "Lombok"
 type: location
+latitude: -8.583564
+longitude: 116.358082
 ---
 
 Lombok has gotten more popular over the past few years. People who think
@@ -10,7 +12,8 @@ Lombok has gotten more popular over the past few years. People who think
 gunung Rinjani is great for trekking, the
 [Wadden islands](/europe/netherlands/waddenislands) offer some of the best snorkeling in Indonesia. Lobok's Kuta beach has big waves and good surfing.
 
- Add all of these elements together and you have a pretty good holiday destination. Not as crowded as Bali but with the same fun, sun and action.
+
+ Add all of these elements together and you have a pretty good holiday destination. Not as crowded as Bali but with the same fun, sun and action.
 
 ## Destinations in Lombok
 

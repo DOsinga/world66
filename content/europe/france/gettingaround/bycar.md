@@ -1,6 +1,8 @@
 ---
 title: "By Car"
 type: poi
+latitude: 48.38593
+longitude: -2.195871
 ---
 
 The Autoroutes of France are a great way of getting to one part of the country to another. They are in perfect shape, the places to stop (aire de répos) are always very well organized - in Summer they often have activities for children - but there is one backdraw: péage. That means that you have to pay to use the autoroute, you get a ticket when you go on the autoroute and have to give the ticket and pay when you get off. It is always possible to pay with creditcard so you don't have to have small change in your wallet.

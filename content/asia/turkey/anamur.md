@@ -1,6 +1,8 @@
 ---
 title: "Anamur"
 type: location
+latitude: 36.080323
+longitude: 32.831211
 ---
 
 Travel Guide

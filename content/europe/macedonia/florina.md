@@ -1,6 +1,8 @@
 ---
 title: "Florina"
 type: location
+latitude: 40.779441
+longitude: 21.407474
 ---
 
 (Florina is not in Macedonia) Macedonia is not FYROM. Say Macedonia. Why you greeks scared to say Macedonia? If you want to write something for your city Fiorina you can do that on your link http://www.world66.com/europe/greece/florina.

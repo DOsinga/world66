@@ -1,13 +1,16 @@
 ---
 title: "Cinema"
 type: poi
+latitude: 51.225507
+longitude: 6.773318
 ---
 
 **Place to go outs**
 
 **Bambi **
 
-Cinema Arthouse that has won prizes with its program. For kids there’s a special feature.  
+Cinema Arthouse that has won prizes with its program. For kids there’s a special feature. 
+ 
 
 address: Klosterstraße 78
 
@@ -23,7 +26,8 @@ tel: +49 (0)211 32 57 07
 
 **IMAX-Filmtheater **
 
-Intergrated in the UFA-Palast multiplex 
+Intergrated in the UFA-Palast multiplex
+ 
 
 address: Worringer Straße 142
 
@@ -33,7 +37,8 @@ tel: +49 (0)211 177 17-21/-22
 
 **Metropol **
 
-This is the oldest cinema in Dusseldorf. It recently celebrated its 60th anniversary.  
+This is the oldest cinema in Dusseldorf. It recently celebrated its 60th anniversary. 
+ 
 
 address: Brunnenstraße 20
 
@@ -41,7 +46,8 @@ tel: +49 (0)211 34 97 09
 
 **Black Box **
 
-Located in the Filmmuseum 
+Located in the Filmmuseum
+ 
 
 address: Schulstraße 4
 
@@ -49,7 +55,8 @@ tel: +49 (0)211 899 24 90
 
 **Neues Cinema **
 
-Small cinema arthouse 
+Small cinema arthouse
+ 
 
 address: Schneider-Wibbel-Gasse 5-7
 
@@ -67,7 +74,8 @@ tel: +49 (0)211 6306701/2
 
 **UCI Kinowelt **
 
-Build in the shape of a ships hull on Düsseldorfs Medienmeile near the Unterbilker harbour. Not just for the latest Holiwood productions, but also for the longest escalator in North Rhine Westphalia, you should pay a visit here. 
+Build in the shape of a ships hull on Düsseldorfs Medienmeile near the Unterbilker harbour. Not just for the latest Holiwood productions, but also for the longest escalator in North Rhine Westphalia, you should pay a visit here.
+ 
 
 address: Straße 29-31
 

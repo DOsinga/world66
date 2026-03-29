@@ -1,6 +1,8 @@
 ---
 title: "Calcutta"
 type: location
+latitude: 22.572646
+longitude: 88.363895
 ---
 
 Some people call it the city of joy. One of the busiest and most crowded and oldest of Indian cities, you wont believe unless you have seen Calcutta with your own eyes how heritage and modernization can all flourish at the same place. 

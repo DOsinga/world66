@@ -1,6 +1,8 @@
 ---
 title: "Crovie"
 type: location
+latitude: 57.678967
+longitude: -2.324055
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Vladimir"
 type: poi
+latitude: 56.12889
+longitude: 40.40752
 ---
 
 [Vladimir](/europe/russia/vladimir) is very nice one day trip from Moscow.

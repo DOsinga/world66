@@ -7,6 +7,8 @@ email: "order@bangalorecakeshop.com"
 phone: "00919923604545"
 type: "Shopping centers and malls"
 url: "www.BangaloreCakeShop.com"
+latitude: 12.976794
+longitude: 77.590082
 ---
 
 Indiangiftscenter.com is an online gifts center that

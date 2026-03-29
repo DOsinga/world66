@@ -1,6 +1,8 @@
 ---
 title: "Kratie"
 type: location
+latitude: 12.678302
+longitude: 106.058173
 ---
 
 Kratie is a lovely little country town on the way to the Cambodia/Laos

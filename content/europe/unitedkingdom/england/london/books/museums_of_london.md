@@ -3,6 +3,8 @@ title: "Museums of London"
 type: poi
 author: "Paul Skinner"
 isbn: "978 1 59416 048 6"
+latitude: 51.488886
+longitude: -0.290401
 ---
 
 A superb guide to nearly 150 of the capital's museums and galleries, half of them offering free admission and almost all within easy travelling distance from the centre.

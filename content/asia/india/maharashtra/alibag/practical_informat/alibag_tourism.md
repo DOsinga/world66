@@ -6,6 +6,8 @@ email: "alibagtourism@gmail.com"
 phone: "9271624008"
 type: "Tourist information"
 url: "www.alibagtourism.com"
+latitude: 18.649843
+longitude: 72.876547
 ---
 
 www.alibagtourism.com

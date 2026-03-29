@@ -1,6 +1,8 @@
 ---
 title: "Karimnagar"
 type: location
+latitude: 18.434812
+longitude: 79.132804
 ---
 
 We currently have no information about Karimnagar.

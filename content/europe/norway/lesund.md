@@ -1,6 +1,8 @@
 ---
 title: "Ålesund"
 type: location
+latitude: 62.480236
+longitude: 6.555074
 ---
 
 Ålesund, situated on the west coast of Norway south of Trondheim, is completely atypical. A disastrous fire early in the twentieth century led to international aid [the German Kaiser was fond of the city and put a lot into the fund] Rebuilding in the style of the time led to this extraordinary anomaly, an art nouveau styled city on the Norwegian coast. 

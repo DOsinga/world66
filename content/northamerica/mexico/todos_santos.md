@@ -1,6 +1,8 @@
 ---
 title: "Todos Santos"
 type: location
+latitude: 23.450067
+longitude: -110.225374
 ---
 
 Travel Guide

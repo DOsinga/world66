@@ -1,6 +1,8 @@
 ---
 title: "Ruhengeri"
 type: location
+latitude: -1.497769
+longitude: 29.63226
 ---
 
 We currently have no information about Ruhengeri.

@@ -1,6 +1,8 @@
 ---
 title: "Accommodation"
 type: location
+latitude: 44.864252
+longitude: 13.852679
 ---
 
 ** www.vodice.info

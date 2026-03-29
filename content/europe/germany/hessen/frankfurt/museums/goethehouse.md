@@ -5,6 +5,8 @@ address: "Grosser Hirschgraben 23-25"
 opening_hours: "Mon to Sat 9am to 6pm"
 phone: "+49 (0)69 13 88 00"
 type: "Museums"
+latitude: 50.111201
+longitude: 8.677593
 ---
 
 The Goethe House is in honour of the famous German poet Johann Wolfgang Goethe. Most of the furniture is not original but just reproduction. It was reconstructed after World War II true to the style of Goethe’s time.

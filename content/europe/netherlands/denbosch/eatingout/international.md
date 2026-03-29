@@ -1,6 +1,8 @@
 ---
 title: "International"
 type: poi
+latitude: 52.217281
+longitude: 6.894813
 ---
 
 **Restaurants**

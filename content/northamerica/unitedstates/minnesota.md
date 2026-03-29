@@ -1,6 +1,8 @@
 ---
 title: "Minnesota"
 type: location
+latitude: 45.989659
+longitude: -94.611329
 ---
 
 Minnesota is located in the North of the U.S. and borders on [Wisconsin](/northamerica/unitedstates/wisconsin), [Iowa](/northamerica/unitedstates/iowa), [North Dakota](/northamerica/unitedstates/northdakota) and [South Dakota](/northamerica/unitedstates/southdakota). 

@@ -1,6 +1,8 @@
 ---
 title: "Slovenia"
 type: location
+latitude: 46.119944
+longitude: 14.815333
 ---
 
 Slovenia is the ex-Yugoslav Republic that is most like Western Europe. Bordering on Italy, Austria, Hungary and Croatia, this small state is easy to explore. It has both natural beauty and historical sights, so it makes for a good destination.

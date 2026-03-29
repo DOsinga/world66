@@ -1,6 +1,8 @@
 ---
 title: "Longreach"
 type: location
+latitude: -23.437839
+longitude: 144.25869
 ---
 
 Travel Guide

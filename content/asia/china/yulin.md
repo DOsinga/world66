@@ -1,6 +1,8 @@
 ---
 title: "Yulin"
 type: location
+latitude: 22.419919
+longitude: 110.214315
 ---
 
 Travel Guide

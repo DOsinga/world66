@@ -1,6 +1,8 @@
 ---
 title: "Jackson"
 type: location
+latitude: 32.299869
+longitude: -90.183041
 ---
 
 Enjoy the beauty of **Cascade Falls Park** with plenty to do for all walks of life. Hiking, ice skating in the winter and paddle boats in the summer, miniature golf and more. Be sure to visit the world famous **Cascade Falls**, a man-made concrete fountain that has been lit with lights for as long as I can remember (over 30 years).

@@ -5,6 +5,8 @@ address: "Egypt - Hurghada - Red Sea"
 email: "marketing3@albaraagroup.com"
 phone: "0162922290"
 url: "www.albaraagroup.com"
+latitude: 27.248156
+longitude: 33.823142
 ---
 
 ***Tour Itinerary:

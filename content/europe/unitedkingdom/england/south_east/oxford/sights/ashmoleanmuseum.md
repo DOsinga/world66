@@ -5,6 +5,8 @@ address: "Beaumont"
 opening_hours: "Tues-Sat 10am-4pm, Sun 2-4pm"
 phone: "01865 278000"
 type: "Museums"
+latitude: 30.082934
+longitude: -94.098428
 ---
 
 type: Museums

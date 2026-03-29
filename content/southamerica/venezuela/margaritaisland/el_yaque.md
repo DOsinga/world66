@@ -1,6 +1,8 @@
 ---
 title: "El Yaque"
 type: location
+latitude: 10.32975
+longitude: -63.996023
 ---
 
 Travel Guide

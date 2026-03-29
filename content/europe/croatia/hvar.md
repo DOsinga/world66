@@ -1,6 +1,8 @@
 ---
 title: "Hvar"
 type: location
+latitude: 43.173941
+longitude: 16.556516
 ---
 
 South of [Brac](/europe/croatia/brac) and close to the city of [Split](/europe/croatia/split) is Hvar, the longest island of the Adriatic. The island is covered with vineyards, olive groves and lavender. 

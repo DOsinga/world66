@@ -1,6 +1,8 @@
 ---
 title: "Alton"
 type: location
+latitude: 38.890858
+longitude: -90.184309
 ---
 
 Travel Guide

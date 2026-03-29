@@ -1,6 +1,8 @@
 ---
 title: "Kunitachi, Tokyo"
 type: location
+latitude: 35.681991
+longitude: 139.43624
 ---
 
 Travel Guide

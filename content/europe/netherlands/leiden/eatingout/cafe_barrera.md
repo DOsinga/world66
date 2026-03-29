@@ -1,6 +1,8 @@
 ---
 title: "Cafe Barrera"
 type: poi
+latitude: 52.157081
+longitude: 4.486168
 ---
 
 Barrera, the place in leiden on the beatifull Rapenburg canal for a lunch or a drink. Visit us at our site: http://www.cafebarrera.nl/

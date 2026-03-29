@@ -1,6 +1,8 @@
 ---
 title: "The Alamo"
 type: poi
+latitude: 40.757492
+longitude: -96.645646
 ---
 
 The Alamo is a mission in San Antonio which was the scene of a famous battle between Mexican and Texan forces during the Texas Revolution.

@@ -7,6 +7,8 @@ phone: "+49 (0)69 439 03 96"
 price: "Euro 12"
 type: "Local"
 url: "www.selected-restaurants.com"
+latitude: 50.962777
+longitude: 6.900094
 ---
 
 For many a guest the Mosebach is like their own living room - a real

@@ -1,6 +1,8 @@
 ---
 title: "Matara"
 type: location
+latitude: 5.947851
+longitude: 80.546336
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Pocatello"
 type: location
+latitude: 42.862029
+longitude: -112.450627
 ---
 
 We currently have no information about Pocatello.

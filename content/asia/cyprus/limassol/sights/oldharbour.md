@@ -2,6 +2,8 @@
 title: "Old Harbour"
 type: poi
 type: "Landmarks"
+latitude: 35.324992
+longitude: 33.980408
 ---
 
 In the Old Harbour you will find pittoresque fishing boats and nice seafood restaurants, especially in the corner of Safi and Spyrou Araouzou Street. There is also a Reptile House with free entrance. Opening Hours: 9am - 7pm, Tel: (05) 372 779

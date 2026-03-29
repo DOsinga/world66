@@ -5,6 +5,8 @@ address: "Brogade 2"
 phone: "+45 74 42 27 07"
 type: "South American"
 url: "www.ox-en.dk"
+latitude: 55.397064
+longitude: 10.395614
 ---
 
 ### [Ox-En Latino steak house](/europe/denmark/sonderborg/eatingout/oxen_latino_steak)

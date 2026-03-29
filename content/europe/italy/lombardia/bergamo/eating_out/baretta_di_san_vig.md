@@ -5,6 +5,8 @@ address: "Via Castello, 1, Città Alta"
 phone: "035 253191"
 type: "Italian"
 url: "www.baretto.it"
+latitude: 45.708446
+longitude: 9.650211
 ---
 
 A la carte restaurant with an outdoor front terrace in summer

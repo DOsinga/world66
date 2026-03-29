@@ -2,6 +2,8 @@
 title: "Amtrak"
 type: poi
 type: "By Rail"
+latitude: 39.167766
+longitude: -76.696336
 ---
 
 Cleveland is served by Amtrak. Trains to Chicago, Washington, D.C. and

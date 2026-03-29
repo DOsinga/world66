@@ -1,6 +1,8 @@
 ---
 title: "Södertälje"
 type: location
+latitude: 59.196429
+longitude: 17.627166
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Vama Veche"
 type: location
+latitude: 43.752529
+longitude: 28.57224
 ---
 
 Travel Guide

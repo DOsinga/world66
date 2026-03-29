@@ -5,6 +5,8 @@ address: "north orange avenue"
 email: "info@orlandosocial.com"
 type: "Clubs and dancing"
 url: "www.orlandosocial.com"
+latitude: 41.941451
+longitude: -87.823989
 ---
 
 Indie rock, great international underground electronic music acts, and

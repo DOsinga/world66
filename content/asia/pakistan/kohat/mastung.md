@@ -1,6 +1,8 @@
 ---
 title: "MASTUNG"
 type: location
+latitude: 29.799093
+longitude: 66.847593
 ---
 
 Travel Guide

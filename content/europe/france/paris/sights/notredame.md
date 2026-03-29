@@ -1,6 +1,8 @@
 ---
 title: "Notre Dame"
 type: poi
+latitude: 48.852937
+longitude: 2.35005
 ---
 
 "/>

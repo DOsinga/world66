@@ -7,6 +7,8 @@ email: "ktrujillo@turnberry.com"
 phone: "702-269-5005"
 type: "Shopping centers and malls"
 url: "www.townsquarelasvegas.com"
+latitude: 36.067547
+longitude: -115.177939
 ---
 
 Around every corner of Town Square Las Vegas are spectacular shops, architectural hallmarks of the world?s greatest cities and anecdotes for memorable experiences. The open-air shopping, dining and entertainment center on the Las Vegas Strip has introduced a new generation of lifestyle centers to a city famous for its evolving landscape.

@@ -1,6 +1,8 @@
 ---
 title: "Elk City"
 type: location
+latitude: 37.289227
+longitude: -95.911652
 ---
 
 Travel Guide

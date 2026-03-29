@@ -1,6 +1,8 @@
 ---
 title: "Beaches"
 type: location
+latitude: 22.363924
+longitude: 114.069236
 ---
 
 eeeeeeeeeeesaf asdf

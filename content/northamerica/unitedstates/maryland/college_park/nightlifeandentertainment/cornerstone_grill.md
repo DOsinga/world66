@@ -6,6 +6,8 @@ email: "csgrill@comcast.net"
 phone: "301-779-7044"
 type: "Pubs"
 url: "www.cornerstonegrillandloft.com"
+latitude: 38.980657
+longitude: -76.937534
 ---
 
 The

@@ -1,6 +1,8 @@
 ---
 title: "Round Top"
 type: location
+latitude: 30.065101
+longitude: -96.695545
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Menlo Park"
 type: location
+latitude: 37.451967
+longitude: -122.177992
 ---
 
 Travel Guide

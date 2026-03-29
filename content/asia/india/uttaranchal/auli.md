@@ -1,6 +1,8 @@
 ---
 title: "Auli"
 type: location
+latitude: 30.537787
+longitude: 79.565724
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 address: "Via Rocca, Città Alta, Bergamo"
 type: "Castles"
+latitude: 45.703362
+longitude: 9.665431
 ---
 
 Everywhere you go there is something to see. A castle, a fountain, the view and the buildings.

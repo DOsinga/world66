@@ -1,6 +1,8 @@
 ---
 title: "Munshausen"
 type: location
+latitude: 50.035145
+longitude: 6.039484
 ---
 
 Travel Guide

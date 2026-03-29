@@ -1,6 +1,8 @@
 ---
 title: "Seychelles"
 type: location
+latitude: -4.657498
+longitude: 55.454015
 ---
 
 The Seychelles are right in the heart of the Indian Ocean between the African East Coast and [India](/asia/india). They are a bit closer to Africa geographically speaking but culturally and geologically speaking it is maybe closer to the Indian subcontinent. The Seychelles are the only granitic islands in the world (all the others are volcanic or biological in origin) which accounts for it's unusual rock formations. The islands were "left behind" as the Indian sub-continent moved northward on its way to collide with Asia.

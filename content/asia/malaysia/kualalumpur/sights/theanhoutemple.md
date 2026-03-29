@@ -2,6 +2,8 @@
 title: "Thean Hou Temple"
 type: poi
 type: "Hotspots"
+latitude: 3.121843
+longitude: 101.687645
 ---
 
 Located on the hill near the junction of Jalan Syed Putra and Jalan Klang Lama.

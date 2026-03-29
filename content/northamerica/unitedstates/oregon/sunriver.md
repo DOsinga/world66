@@ -1,6 +1,8 @@
 ---
 title: "Sunriver"
 type: location
+latitude: 43.883997
+longitude: -121.438516
 ---
 
 Travel Guide

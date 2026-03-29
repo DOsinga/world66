@@ -1,6 +1,8 @@
 ---
 title: "Argassi"
 type: location
+latitude: 37.763994
+longitude: 20.923841
 ---
 
 We currently have no information about Argassi.

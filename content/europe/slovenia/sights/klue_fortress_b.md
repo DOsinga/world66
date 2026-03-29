@@ -8,6 +8,8 @@ opening_hours: "every day in spring, summer and autmn"
 phone: "+386 5 3896 444"
 type: "Castles"
 url: "www.bovec.si"
+latitude: 46.338585
+longitude: 13.552419
 ---
 
 KLUŽE FORT (Bovec* area*)

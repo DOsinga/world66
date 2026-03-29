@@ -1,6 +1,8 @@
 ---
 title: "Datil"
 type: location
+latitude: 34.145033
+longitude: -107.843356
 ---
 
 Travel Guide

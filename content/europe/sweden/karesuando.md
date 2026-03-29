@@ -1,6 +1,8 @@
 ---
 title: "Karesuando"
 type: location
+latitude: 68.440505
+longitude: 22.474315
 ---
 
 **KARESUANDO**

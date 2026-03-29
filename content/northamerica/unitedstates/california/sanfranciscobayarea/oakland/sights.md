@@ -4,6 +4,8 @@ type: section
 address: "2050 Broadway"
 phone: "94612 510/465-6400"
 type: "general"
+latitude: 40.77725
+longitude: -73.981797
 ---
 
 ### Display all

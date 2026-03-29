@@ -1,6 +1,8 @@
 ---
 title: "Bursa"
 type: location
+latitude: 40.182573
+longitude: 29.067504
 ---
 
 We currently have no information about Bursa.

@@ -6,6 +6,8 @@ closing_time: "02.00h"
 email: "anbbar@gmail.com"
 phone: "213472830"
 type: "Casinos"
+latitude: 38.715988
+longitude: -9.150327
 ---
 
 Nice bar to start the night.

@@ -1,6 +1,8 @@
 ---
 title: "Tomsk"
 type: location
+latitude: 58.612428
+longitude: 82.047532
 ---
 
 Travel Guide

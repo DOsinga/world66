@@ -1,6 +1,8 @@
 ---
 title: "Berbera"
 type: location
+latitude: 10.438621
+longitude: 45.013401
 ---
 
 Travel Guide

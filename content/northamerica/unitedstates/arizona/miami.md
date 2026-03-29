@@ -1,6 +1,8 @@
 ---
 title: "Miami"
 type: location
+latitude: 25.774157
+longitude: -80.193597
 ---
 
 Travel Guide

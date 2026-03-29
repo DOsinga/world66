@@ -1,6 +1,8 @@
 ---
 title: "Baiyin"
 type: location
+latitude: 36.536461
+longitude: 104.784953
 ---
 
 Travel Guide

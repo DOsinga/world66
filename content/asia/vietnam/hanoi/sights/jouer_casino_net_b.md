@@ -8,6 +8,8 @@ opening_hours: "Elaine"
 phone: "Elaine"
 type: "1"
 url: "hdlighthouse.org"
+latitude: 34.308933
+longitude: -90.854671
 ---
 
 Nice site!

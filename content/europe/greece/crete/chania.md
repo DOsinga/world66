@@ -1,6 +1,8 @@
 ---
 title: "Chania"
 type: location
+latitude: 35.512083
+longitude: 24.019154
 ---
 
 Travel Guide

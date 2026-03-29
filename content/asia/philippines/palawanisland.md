@@ -1,6 +1,8 @@
 ---
 title: "Palawan island"
 type: location
+latitude: 9.667103
+longitude: 118.534668
 ---
 
 Travel Guide

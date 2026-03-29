@@ -2,6 +2,8 @@
 title: "Parking"
 type: poi
 type: "By Road"
+latitude: 52.713037
+longitude: -8.892023
 ---
 
 If Arriving in Dublin from the South West or West by car, you can park

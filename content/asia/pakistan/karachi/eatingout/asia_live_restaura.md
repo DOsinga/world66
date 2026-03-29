@@ -5,6 +5,8 @@ address: "Avari Towers Hotel, Fatima Jinnah Road"
 email: "towers@avari.com"
 phone: "(92-21) 566-0100"
 type: "Local"
+latitude: 24.852339
+longitude: 67.03192
 ---
 
 ASIA LIVE is an all day casual dining outlet overlooking the poolside and lush tropical gardens of the Avari Towers Hotel, dominated by a spacious open show kitchen with pungent Tandoor ovens and panoramic floor to ceiling windows which wash the entire area with natural light. The 200 seat capacity restaurant opens each day at 7.00am for ASIA LIVE BREAKFAST, featuring Continental and Asian breakfast favorites, followed by ASIA LIVE LUNCH offering freshly cooked Asian, European, and contemporary global favorites from it’s wide range of buffet dishes.

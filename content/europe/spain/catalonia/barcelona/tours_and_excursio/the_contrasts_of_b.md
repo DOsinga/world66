@@ -5,6 +5,8 @@ address: "Barcelona"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 41.38258
+longitude: 2.177073
 ---
 
 On this private half day tour you will see the contact between Barcelona's Gothic Cathedral and Gaudi's Modernist Sagrada Familia Church… 

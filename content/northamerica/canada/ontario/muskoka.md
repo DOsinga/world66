@@ -1,6 +1,8 @@
 ---
 title: "Muskoka"
 type: location
+latitude: 45.130701
+longitude: -79.383961
 ---
 
 Travel Guide

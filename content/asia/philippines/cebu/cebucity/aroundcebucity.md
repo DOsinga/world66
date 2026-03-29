@@ -1,6 +1,8 @@
 ---
 title: "Around Cebu City"
 type: location
+latitude: 10.326331
+longitude: 123.898228
 ---
 
 **all**

@@ -1,11 +1,14 @@
 ---
 title: "Deutsches Museum"
 type: poi
+latitude: 48.130041
+longitude: 11.582909
 ---
 
 The largest museum of technology and natural sciences in the world, with over 13 acres of exhibitions containing invaluable original machines and equipment, models and reconstructions, from classical mechanics to telecommunications, from a full-size reconstructed coal mine to space travel technology.
 
-Webpage of the museum 
+Webpage of the museum
+ 
 
 address: Auf der Isarinsel (Ludwigsbrücke)
 

@@ -1,6 +1,8 @@
 ---
 title: "gingoog city"
 type: location
+latitude: 8.823275
+longitude: 125.101298
 ---
 
 Travel Guide

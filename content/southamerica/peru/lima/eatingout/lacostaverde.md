@@ -4,6 +4,8 @@ type: poi
 address: "Barranquito Beach"
 phone: "4772172"
 type: "Expensive"
+latitude: -12.143567
+longitude: -77.026564
 ---
 
 Great fish and wine, but very expensive.

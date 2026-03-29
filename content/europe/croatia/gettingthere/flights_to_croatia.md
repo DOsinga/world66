@@ -5,6 +5,8 @@ address: "Nice, France"
 email: "jeanne@croatiatraveller.com"
 type: "By Air"
 url: "www.croatiatraveller.com"
+latitude: 43.700936
+longitude: 7.268391
 ---
 
 If and when Croatia ever becomes part of the EU, there will be many more low cost flights to Croatia. The cheapest way to get to Croatia from London is to take Ryanair or Easyjet from London to Ancona, Bari, Trieste, Venice or Pescara in Italy or from London to Ljubljana in Slovenia.

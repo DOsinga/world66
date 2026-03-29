@@ -1,6 +1,8 @@
 ---
 title: "Wadi rum"
 type: location
+latitude: 29.508444
+longitude: 35.336215
 ---
 
 Wadi Rum is Lawrence of Arabia. It's a great desert landscape. with spectacular scenery is spectacular: dry riverbeds, natural rock bridge high mountains and wind-swept black hills. 

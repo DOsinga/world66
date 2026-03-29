@@ -1,6 +1,8 @@
 ---
 title: "San Jose"
 type: location
+latitude: 37.336166
+longitude: -121.890591
 ---
 
 Travel Guide

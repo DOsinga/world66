@@ -1,6 +1,8 @@
 ---
 title: "Raahe"
 type: location
+latitude: 64.684531
+longitude: 24.481635
 ---
 
 The Town of Raahe is situated between the diversified industrial regions of Ylivieska and Oulu, next to the main high way and the railway routes. 

@@ -1,6 +1,8 @@
 ---
 title: "Jacksdale"
 type: location
+latitude: 53.059686
+longitude: -1.336202
 ---
 
 Located in Jacksdale on the Nottinghamshire / Derbyshire boarder.

@@ -1,6 +1,8 @@
 ---
 title: "Us"
 type: location
+latitude: 38.908879
+longitude: -77.036117
 ---
 
 Travel Guide

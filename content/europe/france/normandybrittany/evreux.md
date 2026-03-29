@@ -1,6 +1,8 @@
 ---
 title: "Evreux"
 type: location
+latitude: 49.02689
+longitude: 1.151016
 ---
 
 We currently have no information about .

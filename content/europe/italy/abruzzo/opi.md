@@ -1,6 +1,8 @@
 ---
 title: "Opi"
 type: location
+latitude: 41.780873
+longitude: 13.829524
 ---
 
 Travel Guide

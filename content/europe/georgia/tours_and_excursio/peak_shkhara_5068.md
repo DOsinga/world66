@@ -6,6 +6,8 @@ email: "travel@iridium.ge"
 phone: "+995 99 94 20 10"
 url: "www.iridium-travel.com"
 zipcode: "0194"
+latitude: 41.693459
+longitude: 44.801449
 ---
 
 **Day 1.** Our guide will meet you in Tbilisi Airport with poster: "IRIDIUM TRAVEL". Luggage carriers will be at your service at Airport. Formalities at the Airport (visas, passport control, luggage delivery). Transfer Airport-Hotel (15 km) by comfortable minibus. Hotel. Light lunch during check-in (cool or hot drinks, sandwiches). Rest. Small sightseeing tour to Tbilisi. Supper.

@@ -5,6 +5,8 @@ address: "45000 Indian Wells Ln"
 phone: "7603417200"
 type: "Other"
 url: "www.miramonteresort.com"
+latitude: 42.136804
+longitude: -87.870779
 ---
 
 The Grove Artisan Kitchen, an upscale restaurant at Miramonte

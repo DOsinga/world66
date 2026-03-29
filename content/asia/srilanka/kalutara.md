@@ -1,6 +1,8 @@
 ---
 title: "Kalutara"
 type: location
+latitude: 6.57453
+longitude: 80.028631
 ---
 
 Travel Guide

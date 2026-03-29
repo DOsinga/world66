@@ -3,6 +3,8 @@ title: "Adarve"
 type: poi
 address: "c/ Melchor Almagro 6"
 type: "Bars & Cafes"
+latitude: 37.178089
+longitude: -3.607372
 ---
 
 type: Bars & Cafes

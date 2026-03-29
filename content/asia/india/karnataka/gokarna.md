@@ -1,6 +1,8 @@
 ---
 title: "Gokarna"
 type: location
+latitude: 14.543963
+longitude: 74.318442
 ---
 
 Travel Guide

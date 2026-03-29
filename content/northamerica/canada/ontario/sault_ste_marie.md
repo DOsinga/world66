@@ -1,6 +1,8 @@
 ---
 title: "Sault Ste. Marie"
 type: location
+latitude: 46.512655
+longitude: -84.33303
 ---
 
 Travel Guide

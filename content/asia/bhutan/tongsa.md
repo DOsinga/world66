@@ -1,6 +1,8 @@
 ---
 title: "Tongsa"
 type: location
+latitude: 27.501613
+longitude: 90.507595
 ---
 
 We currently have no information about Tongsa.

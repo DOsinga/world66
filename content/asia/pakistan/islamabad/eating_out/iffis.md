@@ -4,6 +4,8 @@ type: poi
 address: "Rana Market, F-7"
 phone: "51-26550601"
 type: "International"
+latitude: 33.72125
+longitude: 73.051427
 ---
 
 Restaurant/ Bakery

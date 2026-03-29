@@ -4,6 +4,8 @@ type: poi
 address: "Sispony"
 phone: "821 381"
 type: "Local"
+latitude: 42.533872
+longitude: 1.515627
 ---
 
 Probably one of the best of the country.

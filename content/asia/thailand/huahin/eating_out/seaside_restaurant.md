@@ -4,6 +4,8 @@ type: poi
 address: "31/4 Naresdamri Road, Hua Hin"
 type: "Thai"
 url: "www.seaside-restaurant.com"
+latitude: 12.574585
+longitude: 99.958681
 ---
 
 At the Seaside Restaurant, Hua Hin, we aim to provide the very best in Thai and

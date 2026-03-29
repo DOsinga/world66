@@ -1,6 +1,8 @@
 ---
 title: "Boonville"
 type: location
+latitude: 38.975155
+longitude: -92.744028
 ---
 
 Travel Guide

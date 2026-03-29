@@ -7,6 +7,8 @@ email: "info@vinology.com"
 phone: "215-965-1514"
 type: "Wine bars"
 url: "www.vinology.com"
+latitude: 39.967092
+longitude: -75.170536
 ---
 
 The school is a not-for-profit school that trains winemakers and sommeliers. However, its wine tasting classes are open to the public.

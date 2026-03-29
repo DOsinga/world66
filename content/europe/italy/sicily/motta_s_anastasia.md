@@ -1,6 +1,8 @@
 ---
 title: "Motta S. Anastasia"
 type: location
+latitude: 37.46482
+longitude: 14.935524
 ---
 
 Travel Guide

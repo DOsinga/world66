@@ -1,6 +1,8 @@
 ---
 title: "Latin"
 type: poi
+latitude: 13.649453
+longitude: 100.444389
 ---
 
 Suprisingly Bangkok offers now also some good places to dance Salsa and other trendy Latin dance,but a number of them closed down after one year. The Latin expatriate community is very happy about that, but also more and more Thai people go crazy for Latin rhytms. A few dancing teachers settled in Bangkok. Check the local magazines for contact details.
@@ -17,7 +19,10 @@ Located at Ploenchit Rd. next to Planet Hollywood and not far from the World Tra
 
 **Bar Latino**
 
-Address: RCA Plaza, Phetpuri Rd.,  Phone: +66-2-6414169, Open dialy 7 pm - 2 am. All white them bar. No live music, but good Salsa CDs. A salsa leader motivates the the crowd.   
+Address: RCA Plaza, Phetpuri Rd., 
+ Phone: +66-2-6414169, Open dialy 7 pm - 2 am. All white them bar. No live music, but good Salsa CDs. A salsa leader motivates the the crowd. 
+ 
+ 
 
 **La Havana**
 
@@ -25,4 +30,5 @@ Located at 6/5/6 Sukhumvit Soi 22, opposite Washington Square you will find the 
 
 **The Salsa Club **
 
-Pathumwan Princess Hotel, MBK Centre, Phyathai Rd., next to National Stadium. Popular with Thais going crazy for Salsa. Live band playing except Mondays. Free Salsa classes. from 7 - 8 pm.
+Pathumwan Princess Hotel, MBK Centre, Phyathai Rd., next to National Stadium.
+ Popular with Thais going crazy for Salsa. Live band playing except Mondays. Free Salsa classes. from 7 - 8 pm.

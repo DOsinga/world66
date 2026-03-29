@@ -6,6 +6,8 @@ email: "marlin@sushi-club.de"
 phone: "+49-221-257 0 651"
 type: "Japanese"
 url: "www.sushi-club.de"
+latitude: 50.937829
+longitude: 6.946676
 ---
 
 The Blue Marlin is a Sushi bar (not a regular style reastaurant)

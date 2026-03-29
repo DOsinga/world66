@@ -1,6 +1,8 @@
 ---
 title: "Tingambato"
 type: location
+latitude: 19.506387
+longitude: -101.85337
 ---
 
 Travel Guide

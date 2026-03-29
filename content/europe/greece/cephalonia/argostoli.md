@@ -1,6 +1,8 @@
 ---
 title: "Argostoli"
 type: location
+latitude: 38.175673
+longitude: 20.48788
 ---
 
 Travel Guide

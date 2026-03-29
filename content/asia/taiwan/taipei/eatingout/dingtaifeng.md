@@ -5,6 +5,8 @@ address: "194 Xinyi Road Section 2, Taipei."
 phone: "+886.2.23218928"
 type: "Chinese"
 url: "www.dintaifung.com.tw"
+latitude: 25.041044
+longitude: 121.566103
 ---
 
 Listed as one of the top ten restaurants in the world by the New York

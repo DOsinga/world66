@@ -1,6 +1,8 @@
 ---
 title: "Morocco"
 type: location
+latitude: 28.334772
+longitude: -10.371338
 ---
 
 Morocco is a safe place to visit. For any traveler, even post September 11th, Morocco is still a fascinating country filled with mysterious beauty and extreme contrasts. Even though it is only one hour by ferry from Spain, it seems worlds apart with a deeply traditional culture based on Islam, that might be quite unknown to some of you. In one day, you will see young ladies in short skirts, women totally covered and only revealing their eyes, old men in 'jellabas' (long robes with a hood) and water sellers in traditional costume. You can explore thousand years' old medinas, where you may feel as if you are walking in medieval times. Feel the modern rush of cosmopolitan cities, the quiet beauty and solitude of sand dunes in the desert near [Merzouga](/africa/morocco/merzouga) or see snowcapped mountains dotted with Berber villages and beautiful beaches. 

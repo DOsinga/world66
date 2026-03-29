@@ -1,6 +1,8 @@
 ---
 title: "Nakhchivan City"
 type: location
+latitude: 39.217626
+longitude: 45.408542
 ---
 
 Travel Guide

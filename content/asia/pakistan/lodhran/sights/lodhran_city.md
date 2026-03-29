@@ -5,6 +5,8 @@ address: "lodhran"
 email: "wasim_mahmood56@yahoo.com"
 phone: "03336427087"
 type: "Mosques"
+latitude: 29.53904
+longitude: 71.63442
 ---
 
 Lodhran city is not a very big city but it is rich by handicrafts.

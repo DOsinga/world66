@@ -4,6 +4,8 @@ type: poi
 address: "C/ Romero, 16"
 type: "Spanish"
 url: "www.elchurrasco.com"
+latitude: 37.880086
+longitude: -4.781903
 ---
 
 Traditional cordobesian food. Very good quality.

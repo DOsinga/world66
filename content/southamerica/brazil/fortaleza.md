@@ -1,6 +1,8 @@
 ---
 title: "Fortaleza"
 type: location
+latitude: -3.730451
+longitude: -38.521799
 ---
 
 Fortaleza is a major fishing port and fast growing tourist destination in the northeast of Brazil. In the centre there are a few interesting colonial buildings. The **Mercado Central** and the **Cathedral** are the major sights in the area. 

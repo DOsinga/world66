@@ -1,6 +1,8 @@
 ---
 title: "Wendover, Ontario"
 type: location
+latitude: 45.572598
+longitude: -75.127092
 ---
 
 Travel Guide

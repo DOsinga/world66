@@ -5,6 +5,8 @@ address: "Goudsesingel 342a"
 phone: "010-2135566"
 price: "10 euro"
 type: "African"
+latitude: 51.924363
+longitude: 4.486597
 ---
 
 Good and cheap African dishes in a very nice atmosphere..

@@ -1,6 +1,8 @@
 ---
 title: "Jeita grotto"
 type: location
+latitude: 33.943401
+longitude: 35.641868
 ---
 
 We currently have no information about Jeita grotto.

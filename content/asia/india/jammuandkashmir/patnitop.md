@@ -1,6 +1,8 @@
 ---
 title: "Patnitop"
 type: location
+latitude: 33.09082
+longitude: 75.32639
 ---
 
 If you like a peaceful and quiet place, then this hill station in the Jammu area is the place for you to stay. Patnitop is located at a considerable height and is surrounded by trees. It takes four hours to reach the top via Katra. The best place to stay is JKTDC Cottages, owned by the government. The location is perfect, amidst the trees and in the centre of town. Other options to spend the night at Patnitop are GreenTop hotel, Hotel Samsar, Hotel Vardaan Resort, Hotel Oasis Resort and Hotel Jaiskahan. 

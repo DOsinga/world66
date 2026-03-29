@@ -4,6 +4,8 @@ type: poi
 address: "Beach Hua Hin"
 type: "Going to the Beach"
 zipcode: "77110"
+latitude: 12.555521
+longitude: 99.963929
 ---
 
 Beach just a few km south of Hua Hin Town Center and is popular for

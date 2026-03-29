@@ -5,6 +5,8 @@ address: "Barcelona"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 41.38258
+longitude: 2.177073
 ---
 
 On this half-day wine tour you will taste the "Wines of Hollywood". Enjoy a detailed tour & tasting at Jean Leon winery, who's wines where savored by many famous American Actor's at La Scala in Hollywood... 

@@ -1,6 +1,8 @@
 ---
 title: "Winnipeg"
 type: location
+latitude: 49.895537
+longitude: -97.138458
 ---
 
 Winnipeg is located almost exactly in the center of North America, and contrary to popular belief, isn't known as "the armpit of Canada" (That's Sudbury). This location makes it ideally located as a major transportation hub and a home for a top level disease and virus research labratory. It is also considered to be the gateway to Western Canada and a great place to shag. Archeological evidence shows that the site of Winnipeg has been a place of settlement for over 6000 years.

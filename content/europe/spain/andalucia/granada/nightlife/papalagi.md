@@ -3,6 +3,8 @@ title: "Papalagi"
 type: poi
 address: "c/ Capitanía 6"
 type: "Bars & Cafes"
+latitude: 37.174461
+longitude: -3.596311
 ---
 
 type: Bars & Cafes

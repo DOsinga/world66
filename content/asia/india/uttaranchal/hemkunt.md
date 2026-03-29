@@ -1,6 +1,8 @@
 ---
 title: "Hemkunt"
 type: location
+latitude: 28.54895
+longitude: 77.247193
 ---
 
 Travel Guide

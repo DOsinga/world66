@@ -1,6 +1,8 @@
 ---
 title: "Winter Park"
 type: location
+latitude: 28.597771
+longitude: -81.351026
 ---
 
 Travel Guide

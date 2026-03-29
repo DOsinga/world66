@@ -1,6 +1,8 @@
 ---
 title: "San José de Lourdes"
 type: location
+latitude: -5.103104
+longitude: -78.913821
 ---
 
 Travel Guide

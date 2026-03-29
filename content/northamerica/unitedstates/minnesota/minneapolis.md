@@ -1,6 +1,8 @@
 ---
 title: "Minneapolis"
 type: location
+latitude: 44.9773
+longitude: -93.265469
 ---
 
 From an urban sculpture garden to the largest mall in America, Minneapolis boasts an abundance of unique sights. Throughout the city, neighborhoods house unique shops and ethnic eateries, while the Mississippi River and more than 20 lakes add to the landscape. During your stay, you will find no shortage of leisure activities in the area, including cultural events, professional sports and festivals galore.

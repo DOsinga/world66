@@ -1,6 +1,8 @@
 ---
 title: "Jodhpur"
 type: location
+latitude: 26.296772
+longitude: 73.035143
 ---
 
 Travel Guide

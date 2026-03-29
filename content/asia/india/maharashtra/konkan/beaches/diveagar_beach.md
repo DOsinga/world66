@@ -1,6 +1,8 @@
 ---
 title: "Diveagar Beach"
 type: poi
+latitude: 18.175263
+longitude: 72.98425
 ---
 
 Diveagar Beach can easily rival any beach on the west coast of India for its clear waters, white sand & serenity. Diveagar is situated approximately 200 km from Mumbai & 150 km from Pune. Reaching Diveagar is quite easy, take a right turn from Mangaon on the Mumbai-Goa highway, from here it’s a one-hour drive to Diveagar.

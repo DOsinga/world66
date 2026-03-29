@@ -1,6 +1,8 @@
 ---
 title: "Cancun"
 type: location
+latitude: 21.152747
+longitude: -86.842576
 ---
 
 Cancun is one of the major tourist destinations in Mexico. The city is located on a beautiful bay, along a long broad sunny beach. Nearby are many Maya sites that are easy to explore. They offer a unique insight in the precolombian civilization of Mexico.

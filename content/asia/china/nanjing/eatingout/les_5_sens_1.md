@@ -8,6 +8,8 @@ phone: "025-83 59 58 59"
 price: "38 / 78 / 119 Rmb"
 type: "French"
 url: "www.restaurantles5sens.blogspot.com"
+latitude: 26.915095
+longitude: 115.912545
 ---
 
 Les 5 Sens is the oldest French Restaurant in the city, opened for more than 3 years now and the only one with a French Chef.

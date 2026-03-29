@@ -1,6 +1,8 @@
 ---
 title: "Kochi"
 type: location
+latitude: 33.558848
+longitude: 133.531092
 ---
 
 Travel Guide

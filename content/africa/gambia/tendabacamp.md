@@ -1,6 +1,8 @@
 ---
 title: "Tendaba camp"
 type: location
+latitude: 13.438909
+longitude: -15.80868
 ---
 
 We currently have no information about Tendaba camp.

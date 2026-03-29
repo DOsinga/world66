@@ -1,6 +1,8 @@
 ---
 title: "Ghomrassen"
 type: location
+latitude: 33.059899
+longitude: 10.339057
 ---
 
 Ghomrassen is located in the south of Tunisia. It's a nice place to visit. The town is surrounded by mountians and you have great views of the sanctuary perched on a cliff right over the centre. 

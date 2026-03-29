@@ -4,6 +4,8 @@ type: poi
 phone: "(032) 512-021-38"
 type: "Japanese"
 url: "www.hua-hin-travel.com"
+latitude: 12.568697
+longitude: 99.960037
 ---
 
 Japanese food at it's best in the

@@ -7,6 +7,8 @@ email: "info@iiigallery.com"
 phone: "+32 2 5123012"
 type: "Antiques"
 url: "www.iiigallery.com"
+latitude: 48.867074
+longitude: 2.335979
 ---
 
 About iii-gallery

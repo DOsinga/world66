@@ -8,6 +8,8 @@ opening_hours: "Naomi"
 phone: "Naomi"
 type: "1"
 url: "pages.slc.edu"
+latitude: 41.486163
+longitude: -84.144115
 ---
 
 Well done!

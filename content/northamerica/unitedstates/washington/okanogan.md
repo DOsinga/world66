@@ -1,6 +1,8 @@
 ---
 title: "Okanogan"
 type: location
+latitude: 48.515851
+longitude: -119.652748
 ---
 
 Travel Guide

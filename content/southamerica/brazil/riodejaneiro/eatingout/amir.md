@@ -6,6 +6,8 @@ email: "amirrestaurante@terra.com.br  "
 phone: "21 2275 5596"
 type: "International"
 url: "www.amirrestaurante.com.br"
+latitude: -22.965539
+longitude: -43.176642
 ---
 
 **AMIR RESTAURANT **

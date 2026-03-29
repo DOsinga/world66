@@ -1,6 +1,8 @@
 ---
 title: "Pic du Midi"
 type: location
+latitude: 42.811723
+longitude: 1.993453
 ---
 
 We currently have no information about Pic du Midi.

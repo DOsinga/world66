@@ -1,6 +1,8 @@
 ---
 title: "East Brent"
 type: location
+latitude: 51.263155
+longitude: -2.934737
 ---
 
 Travel Guide

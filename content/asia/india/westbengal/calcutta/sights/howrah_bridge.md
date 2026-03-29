@@ -2,6 +2,8 @@
 title: "Howrah Bridge"
 type: poi
 type: "Hotspots"
+latitude: 11.832008
+longitude: 93.013962
 ---
 
 Crossed over by more

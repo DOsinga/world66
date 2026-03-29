@@ -2,6 +2,8 @@
 title: "Airlines"
 type: poi
 type: "By Air"
+latitude: 33.65728
+longitude: -84.423678
 ---
 
 Airlines currently serving Tbilisi:

@@ -7,6 +7,8 @@ email: "na"
 phone: "na"
 type: "Antiques"
 url: "na"
+latitude: 10.773223
+longitude: 76.377245
 ---
 
 Biggest shopping complex in Ottapalm

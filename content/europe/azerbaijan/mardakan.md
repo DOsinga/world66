@@ -1,6 +1,8 @@
 ---
 title: "Mardakan"
 type: location
+latitude: 40.493588
+longitude: 50.149548
 ---
 
 Travel Guide

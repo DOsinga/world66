@@ -5,6 +5,8 @@ email: "aspirit@asianspirit.com"
 phone: "(63-2) 855-3333"
 type: "By Air"
 url: "www.asianspirit.com"
+latitude: 6.919315
+longitude: 122.061134
 ---
 
 Asian Spirit flies to/from Davao from/to Manila once daily.

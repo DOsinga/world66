@@ -1,6 +1,8 @@
 ---
 title: "Ankify"
 type: location
+latitude: -13.557766
+longitude: 48.367412
 ---
 
 Travel Guide

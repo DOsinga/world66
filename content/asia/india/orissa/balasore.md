@@ -1,6 +1,8 @@
 ---
 title: "Balasore"
 type: location
+latitude: 21.500642
+longitude: 86.919884
 ---
 
 Travel Guide

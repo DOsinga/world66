@@ -4,6 +4,8 @@ type: poi
 address: "84 Queensway, London W2"
 phone: "20-7229-4320"
 type: "Chinese"
+latitude: 51.512925
+longitude: -0.187373
 ---
 
 Along Queensway, this is the place to eat Cantonese style roast duck,

@@ -1,6 +1,8 @@
 ---
 title: "Tarpon Springs"
 type: location
+latitude: 28.147096
+longitude: -82.756367
 ---
 
 Travel Guide

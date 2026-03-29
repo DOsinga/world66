@@ -1,6 +1,8 @@
 ---
 title: "Cebrayil"
 type: location
+latitude: 39.395888
+longitude: 47.0286
 ---
 
 Travel Guide

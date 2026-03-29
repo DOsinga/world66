@@ -4,6 +4,8 @@ type: poi
 address: "Spui"
 type: "Squares"
 url: "www.artplein-spui.nl"
+latitude: 52.368782
+longitude: 4.889683
 ---
 
 On the spui square you find some of the oldest buildings of Amsterdam. Be sure not the miss the Begijnhof.

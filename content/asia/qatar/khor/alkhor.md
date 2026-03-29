@@ -1,6 +1,8 @@
 ---
 title: "alkhor"
 type: location
+latitude: 25.67517
+longitude: 51.50132
 ---
 
 Travel Guide

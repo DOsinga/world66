@@ -1,6 +1,8 @@
 ---
 title: "Vengurla"
 type: location
+latitude: 15.861987
+longitude: 73.632156
 ---
 
 Travel Guide

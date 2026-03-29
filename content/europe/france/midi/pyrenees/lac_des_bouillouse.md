@@ -1,6 +1,8 @@
 ---
 title: "Lac des Bouillouses"
 type: location
+latitude: 42.570695
+longitude: 1.999136
 ---
 
 Travel Guide

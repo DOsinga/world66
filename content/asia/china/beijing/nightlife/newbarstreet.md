@@ -3,6 +3,8 @@ title: "New Bar Street"
 type: poi
 address: "Beihai"
 type: "Bars & Cafes"
+latitude: 21.484517
+longitude: 109.116577
 ---
 
 In Beijing, there is "New Bar Street" and "Old Bar Street". New Bar Street is along the edges of Beihai Park (Northwest of the Forbidden City). These bars are where the hip young locals go for a night on the town, whereas the Old Bar Street is a bit more for the tourist clientele. New Bar Street is a wonderful place to stroll around on a warm summer evening, with gorgeous views around Beihai.

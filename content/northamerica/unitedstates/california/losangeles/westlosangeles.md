@@ -1,6 +1,8 @@
 ---
 title: "West Los Angeles"
 type: location
+latitude: 34.046855
+longitude: -118.430254
 ---
 
 SANTA MONICA

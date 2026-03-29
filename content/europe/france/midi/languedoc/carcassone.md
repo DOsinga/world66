@@ -1,6 +1,8 @@
 ---
 title: "Carcassone"
 type: location
+latitude: 43.213036
+longitude: 2.349107
 ---
 
 Sitting on the banks of the Aude, a pyrenean river flowing to the Mediterranean, Carcassonne is waiting for you. Carcassone is one of the most perfectly preserved walled towns of the world. It is also the largest walled city in Europe, it encompasses towers, dungeons, moats and drawbridges and serves as one of the most impressive examples of medieval France. At Carcassonne, time lies imprisoned in the stones. Since the ancient times of the Colonia Julia Carcasso, each successive generation has acted out the History of this town governing power building and leaving the mark and style of their passing. 

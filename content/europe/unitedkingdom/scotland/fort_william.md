@@ -1,6 +1,8 @@
 ---
 title: "Fort William"
 type: location
+latitude: 56.817826
+longitude: -5.110952
 ---
 
 This is a fair sized town by the standards of north Scotland and it is probably easier to find somewhere to stay here without planing than anywhere else around, though you may have a fair wait for attention in the TIC. The town itself may have little to commend it other than position but with a position like this, who needs much else?

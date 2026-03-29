@@ -1,6 +1,8 @@
 ---
 title: "Kalaiya"
 type: location
+latitude: 27.032719
+longitude: 85.00219
 ---
 
 Travel Guide

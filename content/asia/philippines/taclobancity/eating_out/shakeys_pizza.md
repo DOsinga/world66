@@ -5,6 +5,8 @@ address: "Zamora Street, Tacloban"
 price: "150-500"
 type: "American"
 url: "www.shakeyspizza.ph"
+latitude: 11.245379
+longitude: 125.001306
 ---
 
 Shakeys is a well established American style restaurant situated on Zamora street in the heart of Tacloban City.

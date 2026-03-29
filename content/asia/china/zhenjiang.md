@@ -1,6 +1,8 @@
 ---
 title: "Zhenjiang"
 type: location
+latitude: 32.189196
+longitude: 119.420007
 ---
 
 Travel Guide

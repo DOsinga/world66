@@ -5,6 +5,8 @@ address: "Haram street, giza, egypt"
 email: "amany@egyptonlinetours.com"
 phone: "0121354820"
 url: "www.egyptonlinetours.com"
+latitude: 29.781817
+longitude: 31.284695
 ---
 
 Normal

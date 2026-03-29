@@ -1,6 +1,8 @@
 ---
 title: "Gabiley"
 type: location
+latitude: 9.761973
+longitude: 43.679231
 ---
 
 Travel Guide

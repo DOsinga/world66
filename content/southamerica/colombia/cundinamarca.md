@@ -1,6 +1,8 @@
 ---
 title: "cundinamarca"
 type: location
+latitude: 4.783199
+longitude: -73.673128
 ---
 
 Travel Guide

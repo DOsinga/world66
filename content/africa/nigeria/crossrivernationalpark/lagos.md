@@ -1,6 +1,8 @@
 ---
 title: "Lagos"
 type: location
+latitude: 6.455057
+longitude: 3.394179
 ---
 
 Travel Guide

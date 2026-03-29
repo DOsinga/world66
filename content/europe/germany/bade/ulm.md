@@ -1,6 +1,8 @@
 ---
 title: "Ulm"
 type: location
+latitude: 48.398497
+longitude: 9.991246
 ---
 
 Travel Guide

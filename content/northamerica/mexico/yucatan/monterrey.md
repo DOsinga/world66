@@ -1,6 +1,8 @@
 ---
 title: "Monterrey"
 type: location
+latitude: 25.680202
+longitude: -100.315258
 ---
 
 Founded in the 16-th century and named after the Spanish Viceroy Count Monterrey, the city of Monterrey is most important city in the north of [Mexico](/northamerica/mexico) and an industrial and economic powerhouse. 

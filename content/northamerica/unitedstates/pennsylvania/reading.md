@@ -1,6 +1,8 @@
 ---
 title: "Reading"
 type: location
+latitude: 40.335345
+longitude: -75.927949
 ---
 
 Located between Harrisburg and Philadelphia, Reading is one of the oldest cities in the state. At night, look for the historic Pagoda lined in red atop the hills overlooking the city. Visit the Pagoda by day for a free historical introduction to the city, and a breathtaking view of the surrounding area. 

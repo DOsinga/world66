@@ -1,6 +1,8 @@
 ---
 title: "Naucalpan"
 type: location
+latitude: 19.478836
+longitude: -99.232799
 ---
 
 Travel Guide

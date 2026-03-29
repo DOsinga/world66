@@ -1,6 +1,8 @@
 ---
 title: "Muskogee"
 type: location
+latitude: 35.66302
+longitude: -95.392771
 ---
 
 Travel Guide

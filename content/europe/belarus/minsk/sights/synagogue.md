@@ -1,6 +1,8 @@
 ---
 title: "Synagogue"
 type: poi
+latitude: 52.556615
+longitude: 24.453239
 ---
 
 The seat of the Jewish community and a Rabbinical School between 1805 - 1941. The Jewish community used to be the majority in many of the large cities of Belarus. Today only a few remain.

@@ -1,6 +1,8 @@
 ---
 title: "Conakry"
 type: location
+latitude: 9.51706
+longitude: -13.699843
 ---
 
 Conakry is the capital of [Guinee Conakry](/africa/guineeconakry) and is located at the tip of a narrow peninsula. The centre of town is right at the end of the peninsula. Because of the fact that the city has expanded quite fast in recent years it can take quite some time to get from the centre to the outskirts. The main axis in town is called the Avenue de la Republique in the centre, changes its name into Route du Niger and later into Autoroute if you move further to the north. 

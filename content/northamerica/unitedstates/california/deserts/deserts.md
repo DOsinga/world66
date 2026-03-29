@@ -1,6 +1,8 @@
 ---
 title: "Deserts"
 type: location
+latitude: 33.494169
+longitude: -111.663645
 ---
 
 Write up on 17 February 04

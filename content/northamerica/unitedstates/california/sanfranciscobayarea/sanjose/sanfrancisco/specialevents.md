@@ -2,6 +2,8 @@
 title: "Special Events"
 type: location
 phone: "(415) 982-3000"
+latitude: 36.787863
+longitude: -76.333322
 ---
 
 **Albertsons Bay To Breakers** 

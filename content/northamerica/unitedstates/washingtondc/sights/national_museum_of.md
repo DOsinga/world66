@@ -6,6 +6,8 @@ opening_hours: "Tuesday through Saturday, 7:30 am to 12:30 pm"
 phone: "202-456-7041"
 type: "Public Buildings"
 url: "www.whitehouse.gov"
+latitude: 42.031923
+longitude: -76.880309
 ---
 
 Home of American presidents since John Adams, the White House has

@@ -5,6 +5,8 @@ accessibility: "near the city of Hunedoara, 18 km/9 miles south of Deva."
 address: "Romania"
 opening_hours: "daily from 9:00 AM to 5:00 PM."
 type: "Castles"
+latitude: 45.985213
+longitude: 24.685923
 ---
 
 ***

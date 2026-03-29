@@ -1,6 +1,8 @@
 ---
 title: "Koh Talu"
 type: location
+latitude: 11.122436
+longitude: 99.486958
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Allahabad"
 type: location
+latitude: 25.43813
+longitude: 81.8338
 ---
 
 Allahabad is one of the most sacred cities in India, located at confuence of three of the most important and sacred rivers, Ganga, Yamuna and Saraswati (only two are visible and scientifically known, third Saraswati is hypothetical under Hindu mythology).

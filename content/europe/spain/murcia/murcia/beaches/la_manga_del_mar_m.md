@@ -1,6 +1,8 @@
 ---
 title: "La Manga Del Mar Menor"
 type: poi
+latitude: 37.645922
+longitude: -0.71747
 ---
 
 La Manga is a strip of sand approximately 22kms long which forms a barrier and encloses the Mar Menor - Little Sea- and separates it from the Mar Mayor - Big Sea - or Mediterranean .

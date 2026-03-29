@@ -1,6 +1,8 @@
 ---
 title: "Sleman"
 type: location
+latitude: -7.689418
+longitude: 110.38129
 ---
 
 Travel Guide

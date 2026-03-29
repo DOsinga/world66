@@ -5,6 +5,8 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
+latitude: 29.850964
+longitude: 31.220947
 ---
 
 Experience the Nile River and discover its treasures, is the best way to get away from the hustle & bustle, without missing the Pharonic cities..join now.

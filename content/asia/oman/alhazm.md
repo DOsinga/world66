@@ -1,6 +1,8 @@
 ---
 title: "Al-hazm"
 type: location
+latitude: 23.58835
+longitude: 58.558397
 ---
 
 We currently have no information about Al-hazm.

@@ -5,6 +5,8 @@ address: "No. 11 Binjiang Road, Guilin 541002, P.R. China"
 email: "service @chinahighlights.com"
 phone: "86 773  2831999"
 url: "www.chinahighlights.com"
+latitude: 25.27693
+longitude: 110.295299
 ---
 
 This tour covers the most important Xi’an tourist attractions within 2 days, Get a good experiences by visit the Terracotta Army and cycle up the ancient City Wall.

@@ -3,6 +3,8 @@ title: "Via Recta"
 type: poi
 opening_hours: "Always open"
 type: "general"
+latitude: 34.550933
+longitude: 38.269041
 ---
 
 Farther south is the Street Called Straight the 2 000-year-old Roman Via Recta which runs the entire length of the old city. (Unfortunately it’s also the major thoroughfare for cars in the Old City making it an unpleasant route for pedestrians.) The halfway point is marked by a Roman archway and east of that is the Christian quarter.

@@ -1,6 +1,8 @@
 ---
 title: "Taytay"
 type: location
+latitude: 14.558709
+longitude: 121.135966
 ---
 
 Travel Guide

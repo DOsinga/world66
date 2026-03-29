@@ -3,6 +3,8 @@ title: "Newschannel 20"
 type: poi
 phone: "800-263-9720"
 url: "www.wics.com"
+latitude: 39.794399
+longitude: -89.616698
 ---
 
 **Downtown Springfield, IL by Newschannel 20 **

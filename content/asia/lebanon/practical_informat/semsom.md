@@ -4,6 +4,8 @@ type: poi
 address: "Achrafieh"
 type: "Tourist information"
 url: "www.semsom.com"
+latitude: 33.884214
+longitude: 35.521502
 ---
 
 Normal

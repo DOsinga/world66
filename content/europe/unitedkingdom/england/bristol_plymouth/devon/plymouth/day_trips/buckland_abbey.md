@@ -5,6 +5,8 @@ address: "Yelverton,"
 phone: "+44 [0]1822 853607"
 url: "www.nationaltrust.org.uk"
 zipcode: "PL20 6EY"
+latitude: 52.574912
+longitude: 1.38098
 ---
 
 This is equally easy to visit from

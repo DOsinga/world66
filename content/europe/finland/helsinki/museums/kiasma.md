@@ -2,6 +2,8 @@
 title: "Kiasma"
 type: poi
 url: "typo.kiasma.fi"
+latitude: 60.17204
+longitude: 24.936742
 ---
 
 Kiasma is a museum of contemporary art

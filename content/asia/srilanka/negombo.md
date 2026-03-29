@@ -1,6 +1,8 @@
 ---
 title: "Negombo"
 type: location
+latitude: 7.209428
+longitude: 79.833117
 ---
 
 This is one of the most touristy places of Sri Lanka.

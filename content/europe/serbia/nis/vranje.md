@@ -1,6 +1,8 @@
 ---
 title: "vranje"
 type: location
+latitude: 42.554351
+longitude: 21.8979
 ---
 
 Travel Guide

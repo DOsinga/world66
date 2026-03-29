@@ -1,6 +1,8 @@
 ---
 title: "Cooranbong NSW"
 type: location
+latitude: -33.07621
+longitude: 151.453613
 ---
 
 Travel Guide

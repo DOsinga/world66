@@ -1,6 +1,8 @@
 ---
 title: "Canazei"
 type: location
+latitude: 46.476881
+longitude: 11.771075
 ---
 
 Travel Guide

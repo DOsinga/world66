@@ -1,6 +1,8 @@
 ---
 title: "Guthrie"
 type: location
+latitude: 41.672198
+longitude: -94.498598
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Via del Fosso Macinante, 2 50144 Firenze, Italy"
 closing_time: "6am"
 phone: "055 35 35 05"
 type: "Clubs and dancing"
+latitude: 43.77832
+longitude: 11.23388
 ---
 
 If you want to dance all night long you can go at central park disco.

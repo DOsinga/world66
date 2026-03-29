@@ -1,6 +1,8 @@
 ---
 title: "San Cristobal Island"
 type: location
+latitude: -0.820489
+longitude: -89.424818
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Iba"
 type: location
+latitude: 15.326461
+longitude: 119.980104
 ---
 
 Travel Guide

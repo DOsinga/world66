@@ -7,6 +7,8 @@ email: "info@savannah.gi"
 phone: "00350 200 66666"
 type: "Clubs and dancing"
 url: "www.savannah.gi"
+latitude: 33.451349
+longitude: -86.327271
 ---
 
 New Restaurant and Nightclub on Leisure Island, Ocean Village....

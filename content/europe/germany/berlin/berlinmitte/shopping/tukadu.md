@@ -5,6 +5,8 @@ address: "Rosenthaler Str. 46/47"
 connections: "U Weinmeisterstr."
 opening_hours: "Mo-Fr 11am -7pm, Sa 11am -3pm"
 type: "Funshopping"
+latitude: 52.524594
+longitude: 13.403242
 ---
 
 Lovely beads and fun jewelry oposite the Hackesche Höfe.

@@ -8,6 +8,8 @@ opening_hours: "Cassie"
 phone: "Cassie"
 type: "1"
 url: "startupordie.com"
+latitude: 35.426754
+longitude: -95.629594
 ---
 
 Great work!

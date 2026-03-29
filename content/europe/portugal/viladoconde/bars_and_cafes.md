@@ -4,6 +4,8 @@ type: section
 accessibility: "Near the beach."
 address: "Av do Brasil, 690, Vila do Conde"
 type: "general"
+latitude: 41.341972
+longitude: -8.750879
 ---
 
 ### [Café, Snack Bar,Gelataría, Oásis.](/europe/portugal/viladoconde/bars_and_cafes/geletaria_osis)

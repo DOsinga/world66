@@ -8,6 +8,8 @@ phone: "(902) 533-2128"
 price: "$6 -16"
 type: "Local"
 url: "www.rarebirdpub.com"
+latitude: 54.212029
+longitude: -3.276112
 ---
 
 Rare Bird Pub & Eatery

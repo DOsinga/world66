@@ -1,6 +1,8 @@
 ---
 title: "Jamestown"
 type: location
+latitude: 37.208918
+longitude: -76.7783
 ---
 
 Travel Guide

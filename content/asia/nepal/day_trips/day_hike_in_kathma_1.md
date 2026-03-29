@@ -4,6 +4,8 @@ type: poi
 address: "Kathmandu"
 email: "madan@mountmerutreks.com"
 url: "www.mountmerutreks.com"
+latitude: 27.708317
+longitude: 85.320582
 ---
 
 A trip to the Newar villages in the southwestern settlements of Kathmandu valley. The day start with a short drive to explore the historic town of Kirtipur, we hike through beautiful cultivated countryside and scattered settlements.

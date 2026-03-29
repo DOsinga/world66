@@ -1,6 +1,8 @@
 ---
 title: "Arcata"
 type: location
+latitude: 40.866517
+longitude: -124.08284
 ---
 
 Arcata's town square, called The Plaza, is big on sophisticated shops and restaurants; the central square is a convenient hangout for college students and retired hippies.

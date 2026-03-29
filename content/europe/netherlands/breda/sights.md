@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 address: "Wilhelminasingel"
 type: "Castles"
+latitude: 50.847555
+longitude: 5.703001
 ---
 
 coffee shop

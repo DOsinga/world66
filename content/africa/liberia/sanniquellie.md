@@ -1,6 +1,8 @@
 ---
 title: "Sanniquellie"
 type: location
+latitude: 7.36127
+longitude: -8.71385
 ---
 
 We currently have no information about Sanniquellie.

@@ -1,6 +1,8 @@
 ---
 title: "Sahagun Hidalgo"
 type: location
+latitude: 19.767701
+longitude: -98.584116
 ---
 
 We currently have no information about .

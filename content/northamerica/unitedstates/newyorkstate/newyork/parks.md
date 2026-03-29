@@ -1,6 +1,8 @@
 ---
 title: "Parks"
 type: location
+latitude: 35.260615
+longitude: -111.948546
 ---
 
 The main park in New York is of course Central Park, but there are a number of other green places where you can relax and enjoy the sunshine during the warmer season !

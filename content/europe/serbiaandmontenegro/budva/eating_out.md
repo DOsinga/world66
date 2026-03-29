@@ -6,6 +6,8 @@ email: "quick@cg.yu"
 price: "Affable"
 type: "Fast food"
 url: "www.quick.co.yu"
+latitude: 42.286366
+longitude: 18.852524
 ---
 
 Here are a few suggested restaurants.

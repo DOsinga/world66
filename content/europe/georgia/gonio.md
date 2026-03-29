@@ -1,6 +1,8 @@
 ---
 title: "Gonio"
 type: location
+latitude: 41.559165
+longitude: 41.569467
 ---
 
 Located just a few kilometers south of [Batumi](/europe/georgia/batumi), Gonio has one sight worth visiting, the old Roman Byzantine fort. It's impressive by it sheer size. There is not much to see inside -fruit trees, mostly - so it is not really necessary to go in. 

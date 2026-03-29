@@ -1,6 +1,8 @@
 ---
 title: "Bolsena"
 type: location
+latitude: 42.644107
+longitude: 11.984955
 ---
 
 Travel Guide

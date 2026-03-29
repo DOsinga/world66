@@ -1,6 +1,8 @@
 ---
 title: "Liverpool"
 type: location
+latitude: -33.952589
+longitude: 150.898844
 ---
 
 We currently have no information about .

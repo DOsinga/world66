@@ -1,6 +1,8 @@
 ---
 title: "Aksu-Zhabagly"
 type: location
+latitude: 42.307532
+longitude: 70.634596
 ---
 
 Travel Guide

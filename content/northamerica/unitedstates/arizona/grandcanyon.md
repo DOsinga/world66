@@ -1,6 +1,8 @@
 ---
 title: "Grand Canyon"
 type: location
+latitude: 36.098041
+longitude: -112.096279
 ---
 
 Located entirely in northern Arizona, the park encompasses 277

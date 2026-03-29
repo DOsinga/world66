@@ -8,6 +8,8 @@ opening_hours: "Pamela"
 phone: "Pamela"
 type: "1"
 url: "www.mysticg.com"
+latitude: 42.203025
+longitude: -83.279846
 ---
 
 Great work!

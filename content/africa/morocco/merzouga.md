@@ -1,6 +1,8 @@
 ---
 title: "Merzouga"
 type: location
+latitude: 31.099917
+longitude: -4.014088
 ---
 
 Watching the sun rise or set over the sand dunes of Merzouga may be the most spectacular experience you have on your trip to Morocco. The Erg Chebbi, the name of these sand dunes, is said to have some of the highest dunes in Morocco. Indeed, the dunes and the desert wildlife are impressive. Merzouga is an excellent base from which to explore the desert and bird-watchers will be enthralled with what they see. In spring, a lake forms near Merzouga which attracts pink flamingos. Other rare birds stop here during spring migration. The desert is also the year round environment for many desert reptiles and mammals.

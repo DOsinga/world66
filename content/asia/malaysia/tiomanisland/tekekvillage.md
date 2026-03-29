@@ -1,6 +1,8 @@
 ---
 title: "Tekek Village"
 type: location
+latitude: 2.818736
+longitude: 104.158587
 ---
 
 Tekek village can be considered as the heart of Tioman. The airport is located at Tekek and so does police station, the hospital, local authorities, other government offices and of course the mosque. You also find a few well-stocked shops and an Internet Café. 

@@ -1,6 +1,8 @@
 ---
 title: "Grodno"
 type: location
+latitude: 53.68346
+longitude: 23.834265
 ---
 
 We currently have no information about Grodno.

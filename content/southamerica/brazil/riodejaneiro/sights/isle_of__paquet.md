@@ -4,6 +4,8 @@ type: poi
 address: "Paqueta Rio de Janeiro"
 type: "Hotspots"
 url: "www.riodejaneirophotoguide.com"
+latitude: -22.758926
+longitude: -43.109199
 ---
 
 The island of Paquetá is located in the Bay of Guanabara.

@@ -1,6 +1,8 @@
 ---
 title: "Cape coast"
 type: location
+latitude: 5.107467
+longitude: -1.243079
 ---
 
 We currently have no information about Cape coast.

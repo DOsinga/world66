@@ -2,6 +2,8 @@
 title: "Grand Place"
 type: poi
 type: "Squares"
+latitude: 50.846729
+longitude: 4.352408
 ---
 
 The most famous and finest square in the Lower Town area. After a

@@ -1,6 +1,8 @@
 ---
 title: "San sebastian"
 type: location
+latitude: 43.322422
+longitude: -1.983889
 ---
 
 **San Sebastian** is in important city in the Basque Region in the north of Spain. It lies in the shelter of the Monte lgueldo, Urgull and Ulía, and the river Urumea flows through the middle of it. 

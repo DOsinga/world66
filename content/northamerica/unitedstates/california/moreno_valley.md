@@ -1,6 +1,8 @@
 ---
 title: "Moreno Valley"
 type: location
+latitude: 33.937518
+longitude: -117.230579
 ---
 
 Travel Guide

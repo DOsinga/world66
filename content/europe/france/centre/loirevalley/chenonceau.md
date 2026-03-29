@@ -1,6 +1,8 @@
 ---
 title: "Chenonceau"
 type: location
+latitude: 49.402035
+longitude: 2.816391
 ---
 
 A masterpiece of French renaissance, the Chateau de Chenonceau was built in the beginning of the 16-th century by Thomas Bohier, the Minister of Finance of Francois I. After his death, Henri II gave it to one of his mistresses, Diane de Poitiers. Since then the castle has always been under femal proprietorship. 

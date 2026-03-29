@@ -1,6 +1,8 @@
 ---
 title: "El Paso"
 type: location
+latitude: 31.7601
+longitude: -106.487048
 ---
 
 We currently have no information about El Paso.

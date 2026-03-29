@@ -3,6 +3,8 @@ title: "Oxford Centre for Islamic Studies"
 type: poi
 address: "Marston Road"
 type: "Historical Buildings & Bridges"
+latitude: 51.59515
+longitude: 0.053503
 ---
 
 It is not an historic building yet, as it is just in the process of being built, but in a few years time, this stone clad building will be an attraction worth seeing

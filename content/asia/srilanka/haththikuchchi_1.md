@@ -1,6 +1,8 @@
 ---
 title: "Haththikuchchi"
 type: location
+latitude: 8.061609
+longitude: 80.2463
 ---
 
 Travel Guide

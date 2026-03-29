@@ -5,6 +5,8 @@ address: "Dean"
 email: "karl@yahoo.com"
 phone: "Dean"
 url: "thaitechnics.com"
+latitude: 33.950375
+longitude: -98.34616
 ---
 
 Great work!

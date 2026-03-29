@@ -4,6 +4,8 @@ type: poi
 address: "Via Rosina 2r"
 price: "pastas & mains €5"
 type: "Italian"
+latitude: 43.776573
+longitude: 11.254544
 ---
 
 Don't skip this place if you're visiting Florence! I never ate such

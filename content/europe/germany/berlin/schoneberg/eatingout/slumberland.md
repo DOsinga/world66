@@ -1,9 +1,12 @@
 ---
 title: "Slumberland"
 type: poi
+latitude: 52.496825
+longitude: 13.353784
 ---
 
-Nice café with good food and an African setting. 
+Nice café with good food and an African setting.
+ 
 
 connection: U-Bhf. Nollendorfplatz
 

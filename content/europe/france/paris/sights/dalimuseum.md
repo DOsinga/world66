@@ -1,6 +1,8 @@
 ---
 title: "Dali Museum"
 type: poi
+latitude: 48.88648
+longitude: 2.339902
 ---
 
 The Espace Dali-Montmartre was set up by the Stratton Foundation, a non profit-making association operating from Lichtenstein whose main aim is to promote Art. 

@@ -1,6 +1,8 @@
 ---
 title: "Auckland"
 type: location
+latitude: -36.852095
+longitude: 174.76318
 ---
 
 Auckland is situated on a narrow isthmus, bounded by two harbours - the Waitemata and the Manukau - at the southern end of the Auckland Peninsula. 

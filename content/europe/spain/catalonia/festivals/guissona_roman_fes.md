@@ -6,6 +6,8 @@ date: "15th July"
 email: "info@cultourabcn.com"
 phone: "0034 93 473 1731"
 url: "www.cultourabcn.com"
+latitude: 41.38258
+longitude: 2.177073
 ---
 
 In July (date varies), as the afternoon heat sizzles away to leave a

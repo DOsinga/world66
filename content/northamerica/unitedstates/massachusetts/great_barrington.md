@@ -1,6 +1,8 @@
 ---
 title: "Great Barrington"
 type: location
+latitude: 42.193936
+longitude: -73.362773
 ---
 
 Travel Guide

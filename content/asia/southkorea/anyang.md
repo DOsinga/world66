@@ -1,6 +1,8 @@
 ---
 title: "Anyang"
 type: location
+latitude: 37.393853
+longitude: 126.95706
 ---
 
 Travel Guide

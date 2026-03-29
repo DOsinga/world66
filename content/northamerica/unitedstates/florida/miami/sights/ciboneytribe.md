@@ -7,6 +7,8 @@ opening_hours: "Tuesday-Saturday 10:00 a.m.-5:00 p.m., Sunday 11:00 a.m.-5:00 p.
 phone: "305-673-7530"
 type: "Hotspots"
 url: "www.bassmuseum.org."
+latitude: 25.797685
+longitude: -80.130174
 ---
 
 The Bass Museum of Art is located in the center of Miami’s historic district and it has been on the National Register of Historic Places since 1978. The museum features works by Pablo Picasso, Juan Gris, and Julio Gonzalez as well as works by pop artists such as Andy Warhol and Richard Linder. The exhibition schedule changes every several months or so, so please check the website before your visit. Admission $8.

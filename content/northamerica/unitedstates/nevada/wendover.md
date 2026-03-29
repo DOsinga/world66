@@ -1,6 +1,8 @@
 ---
 title: "Wendover"
 type: location
+latitude: 40.737597
+longitude: -114.03142
 ---
 
 Travel Guide

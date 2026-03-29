@@ -5,6 +5,8 @@ email: "hadleyscom@hadleyfruitorchards.com"
 phone: "1-800-854-5655"
 type: "Speciality shops"
 url: "www.hadleyfruitorchards.com"
+latitude: 33.923277
+longitude: -116.807035
 ---
 
 Hadley Fruit Orchards

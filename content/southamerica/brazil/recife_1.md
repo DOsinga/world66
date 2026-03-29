@@ -1,6 +1,8 @@
 ---
 title: "recife"
 type: location
+latitude: -8.058493
+longitude: -34.884819
 ---
 
 Travel Guide

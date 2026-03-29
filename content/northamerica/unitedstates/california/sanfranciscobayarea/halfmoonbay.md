@@ -1,6 +1,8 @@
 ---
 title: "Half Moon Bay"
 type: location
+latitude: 37.463552
+longitude: -122.428586
 ---
 
 On the San Francisco Peninsula, watch the fishing boats at Pillar Point Harbor just north of Half Moon Bay and walk the Baylands. It's a charming little seaside town, if a bit heavily touristed.

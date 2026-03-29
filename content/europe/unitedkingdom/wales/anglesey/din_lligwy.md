@@ -1,6 +1,8 @@
 ---
 title: "Din Lligwy"
 type: location
+latitude: 53.350679
+longitude: -4.259507
 ---
 
 Travel Guide

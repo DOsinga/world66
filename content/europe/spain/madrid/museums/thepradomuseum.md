@@ -4,6 +4,8 @@ type: poi
 address: "Paseo del Prado"
 phone: "91 420 36 63"
 type: "The Art Walk"
+latitude: 20.564873
+longitude: -103.38912
 ---
 
 Probably one of the best museums with an incredible collection of paintings by Goya.

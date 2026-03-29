@@ -1,6 +1,8 @@
 ---
 title: "Anand"
 type: location
+latitude: 22.558656
+longitude: 72.962723
 ---
 
 It is located between Ahmedabad and Vadodara. Anand is known as Milk

@@ -4,6 +4,8 @@ type: poi
 address: "Edomit Hotel"
 phone: "972-8-6372517"
 type: "Thai"
+latitude: 29.551479
+longitude: 34.951713
 ---
 
 Completely renovated and very modern - it's a very classy restaurant with a serene atmosphere. I noticed that my Mai Thai (the restaurant once in this place) favorites were still on the menu along with a lot of new dishes.

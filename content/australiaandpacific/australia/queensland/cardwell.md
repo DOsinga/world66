@@ -1,6 +1,8 @@
 ---
 title: "Cardwell"
 type: location
+latitude: -18.270588
+longitude: 146.016354
 ---
 
 Travel Guide

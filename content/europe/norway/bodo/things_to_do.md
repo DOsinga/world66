@@ -6,6 +6,8 @@ email: "post@nordlandturselskap.no"
 phone: "+47 90 63 60 86"
 type: "Trekking"
 url: "www.nordlandturselskap.no"
+latitude: 44.841225
+longitude: -0.580036
 ---
 
 Bodø with its surrounding nature-area is a very good place to start your journey in Northern Norway. Lots of nature-based activities, charming places to go and stay overnight.

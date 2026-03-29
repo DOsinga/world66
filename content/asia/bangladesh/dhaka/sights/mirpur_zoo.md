@@ -4,6 +4,8 @@ type: poi
 accessibility: "By bus from ZIA"
 address: "Mirpur-2,Dhaka"
 type: "Parks, Gardens and Zoos"
+latitude: 23.80634
+longitude: 90.357026
 ---
 
 Dhaka zoo is largest zoo in Bangladesh situated in Mirpur,Dhaka.It is the national zoo under the Ministry of Fisheries and Livestock.it was ceremonially opened for public on June 23, 1974.Area of this zoo is nearly about 75 ha.It has two lakes of about 13 ha, which receive thousands of waterfowls every year in winter.

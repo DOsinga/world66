@@ -1,6 +1,8 @@
 ---
 title: "The Village"
 type: location
+latitude: 35.565855
+longitude: -97.549419
 ---
 
 Travel Guide

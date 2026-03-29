@@ -1,6 +1,8 @@
 ---
 title: "Karanprayag"
 type: location
+latitude: 30.26239
+longitude: 79.216163
 ---
 
 Travel Guide

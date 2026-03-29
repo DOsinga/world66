@@ -1,6 +1,8 @@
 ---
 title: "St. Helena"
 type: location
+latitude: 38.505229
+longitude: -122.470042
 ---
 
 Saint Helena is the heart of the Wine Country, just a half-hours drive from

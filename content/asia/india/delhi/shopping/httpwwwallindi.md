@@ -6,6 +6,8 @@ email: "info@allindiaflorist.com"
 phone: "00919897064001"
 type: "Speciality shops"
 url: "www.allindiaflorist.com"
+latitude: 28.613895
+longitude: 77.209006
 ---
 
 Delhi Florist Flowers Shop send Flowers to Delhi by local Delhi florists flower delivery

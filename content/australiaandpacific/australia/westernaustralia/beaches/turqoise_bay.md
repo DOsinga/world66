@@ -1,6 +1,8 @@
 ---
 title: "Turquoise Bay"
 type: poi
+latitude: -22.096018
+longitude: 113.887625
 ---
 
 Ningaloo Marine Park is found in the Cape Range National Park in Western Australia. Turquoise Bay is found just outside of Exmouth, WA.

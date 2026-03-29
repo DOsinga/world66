@@ -1,6 +1,8 @@
 ---
 title: "Valledupar"
 type: location
+latitude: 10.465173
+longitude: -73.252951
 ---
 
 Travel Guide

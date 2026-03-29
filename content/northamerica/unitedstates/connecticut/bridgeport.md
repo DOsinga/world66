@@ -1,6 +1,8 @@
 ---
 title: "Bridgeport"
 type: location
+latitude: 41.179269
+longitude: -73.188786
 ---
 
 We currently have no information about Bridgeport.

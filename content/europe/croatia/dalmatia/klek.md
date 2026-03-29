@@ -1,6 +1,8 @@
 ---
 title: "Klek"
 type: location
+latitude: 42.945587
+longitude: 17.563313
 ---
 
 Travel Guide

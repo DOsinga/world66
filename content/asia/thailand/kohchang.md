@@ -1,6 +1,8 @@
 ---
 title: "Koh chang"
 type: location
+latitude: 12.054617
+longitude: 102.337343
 ---
 
 Off Thailand’s southeastern coast Koh Chang is Thailand’s second-largest island after Phuket. The Koh Chang National Marine Park occupies most of Koh Chang as well as several nearby islands. The island is located 140 mi/225 km southeast of Bangkok. In recent years the island has become more popular with travelers and Thai people alike. There are only a few beach resorts. The standards of beach huts vary quite a bit. Some are open only the dry seasons. Most better beaches (and better accommodation) you can find on the west coast. Besides hanging around at the beach you can do some nice walking on Ko Chang. 

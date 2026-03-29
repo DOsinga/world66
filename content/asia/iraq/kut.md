@@ -1,6 +1,8 @@
 ---
 title: "Kut"
 type: location
+latitude: 32.501027
+longitude: 45.829633
 ---
 
 We currently have no information about Kut.

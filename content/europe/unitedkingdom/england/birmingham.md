@@ -1,6 +1,8 @@
 ---
 title: "Birmingham"
 type: location
+latitude: 52.479699
+longitude: -1.902691
 ---
 
 Birmingham is Britain's second largest city. It is situated in the heart of England, about halfway between [London](/europe/unitedkingdom/england/london) and [Liverpool](/europe/unitedkingdom/england/liverpool). It is a city of mixed cultures, beliefs and lifestyles and has recently become a fashionable place to set up a business or to hold a conference. But it still retains pride in being a city built on industry.

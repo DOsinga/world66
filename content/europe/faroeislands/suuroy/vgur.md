@@ -1,6 +1,8 @@
 ---
 title: "Vágur"
 type: location
+latitude: 61.473886
+longitude: -6.811462
 ---
 
 Travel Guide

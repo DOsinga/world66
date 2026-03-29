@@ -1,6 +1,8 @@
 ---
 title: "Lower saxony"
 type: location
+latitude: 52.839853
+longitude: 9.075962
 ---
 
 Lower Saxony ("Niedersachsen" in German) is the second largest federal state (Bundesland) of Germany. Situated in the north-west of the country, it measures 350 km from Schnackenburg on the River Elbe to the Dutch border in the west, and 300km from Cuxhaven on the North Sea coast to Hannoversch Münden at the southern extremity of the state. Its population is almost equal to that of Sweden. 

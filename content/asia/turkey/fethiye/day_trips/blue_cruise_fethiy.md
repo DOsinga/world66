@@ -5,6 +5,8 @@ address: "Sultanahmet"
 email: "info@turkeytravelservice.com"
 phone: "+90 532 340 01 52"
 url: "www.turkeytravelservice.com"
+latitude: 41.004114
+longitude: 28.976909
 ---
 
 **DAY 01**

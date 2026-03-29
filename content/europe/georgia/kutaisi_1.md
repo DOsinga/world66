@@ -1,6 +1,8 @@
 ---
 title: "Kutaisi"
 type: location
+latitude: 42.271608
+longitude: 42.705447
 ---
 
 Travel Guide

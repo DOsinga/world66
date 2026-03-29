@@ -1,6 +1,8 @@
 ---
 title: "Warri"
 type: location
+latitude: 5.518619
+longitude: 5.74802
 ---
 
 **Warri** is one of Nigeria's oldest riverine towns. It is situated on the banks of the Lower Niger delta which is presently a part of Delta State. The town is is located roughly halfway between [Lagos](/africa/nigeria/lagos) and [Port harcourt](/africa/nigeria/portharcourt). It is an important sea port and a very busy town. 

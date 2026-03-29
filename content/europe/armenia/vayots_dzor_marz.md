@@ -1,6 +1,8 @@
 ---
 title: "Vayots Dzor Marz"
 type: location
+latitude: 39.760256
+longitude: 45.709698
 ---
 
 Travel Guide

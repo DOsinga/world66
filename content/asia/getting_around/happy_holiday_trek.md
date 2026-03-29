@@ -5,6 +5,8 @@ address: "Lazimpat -2 Kathmandu, Nepal"
 email: "info@holidaynepaltrek.com"
 phone: "+977 9841575061"
 url: "www.holidaynepaltrek.com"
+latitude: 27.721508
+longitude: 85.320765
 ---
 
 **Happy Holidays Treks & Expedition**

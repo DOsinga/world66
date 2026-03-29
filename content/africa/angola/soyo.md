@@ -1,6 +1,8 @@
 ---
 title: "Soyo"
 type: location
+latitude: -6.138795
+longitude: 12.369014
 ---
 
 Small city in the far north of Angola, in Zaire province, where the Congo River meets the Atlantic Ocean. You can reach Soyo by plane on TAAG or by car from [Luanda](/africa/angola/luanda) -- the first stretch to Caxito is paved, but the remaining 360 kilometers are unpaved and rough. It is an adventure.

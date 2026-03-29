@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Berat"
 type: location
+latitude: 40.704657
+longitude: 19.954919
 ---
 
 Travel Guide

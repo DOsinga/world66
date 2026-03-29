@@ -1,6 +1,8 @@
 ---
 title: "Sanahin"
 type: location
+latitude: 41.091835
+longitude: 44.656951
 ---
 
 Sanahin (Սանահին, meaning "older than the other one", probably related

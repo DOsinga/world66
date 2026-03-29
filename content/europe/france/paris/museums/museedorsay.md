@@ -1,6 +1,8 @@
 ---
 title: "Musee d'Orsay"
 type: poi
+latitude: 48.859918
+longitude: 2.326585
 ---
 
 The Musée d'Orsay is an old trainstation converted into a Museum. The conversion has been very successful and the museum is worth a visit for the special setting alone. The old Gare (train station) d'Orsay was built by Victor Laloux and inaugurated in 1900 for the Universal Exhibition. The station was closed in 1939. 

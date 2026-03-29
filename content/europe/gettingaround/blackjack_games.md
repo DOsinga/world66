@@ -5,6 +5,8 @@ address: "Ron"
 email: "elaine@yahoo.com"
 phone: "Ron"
 url: "mhwee.net"
+latitude: 45.880235
+longitude: 4.564534
 ---
 
 Thank you!

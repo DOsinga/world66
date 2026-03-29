@@ -6,6 +6,8 @@ email: "welcome@hotelursulines.fr"
 phone: "+33 (0)385865858"
 type: "First Class"
 url: "www.hotelursulines.fr"
+latitude: 46.943425
+longitude: 4.298502
 ---
 
 ### [Hotel Restaurant Les Ursulines](/europe/france/east/burgundy/autun/eatingout/hotel_restaurant_l)

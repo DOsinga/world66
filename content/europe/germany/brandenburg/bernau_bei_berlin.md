@@ -1,6 +1,8 @@
 ---
 title: "Bernau bei Berlin"
 type: location
+latitude: 52.678725
+longitude: 13.588111
 ---
 
 Travel Guide

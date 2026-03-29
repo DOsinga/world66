@@ -1,6 +1,8 @@
 ---
 title: "Thies"
 type: location
+latitude: 14.791461
+longitude: -16.925605
 ---
 
 We currently have no information about Thies.

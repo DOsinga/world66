@@ -1,6 +1,8 @@
 ---
 title: "Zivogosce"
 type: location
+latitude: 43.188147
+longitude: 17.160586
 ---
 
 http://www.zivogosce.hr

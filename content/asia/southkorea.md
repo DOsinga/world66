@@ -1,6 +1,8 @@
 ---
 title: "South Korea"
 type: location
+latitude: 36.638392
+longitude: 127.696119
 ---
 
 South Korea is located in East Asia. It borders only on [North Korea](/asia/northkorea) . After the dramatic split up in the fifties, the South has fared very well. It has become one of the richest countries in East Asia and has managed to keep up a rather frenetic pace of economic development. 

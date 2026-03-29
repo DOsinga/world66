@@ -1,6 +1,8 @@
 ---
 title: "Puglia"
 type: location
+latitude: 40.984254
+longitude: 16.621003
 ---
 
 Puglia is the the heel of the boot. Not many tourists make it this far and those who do, probably do it to take the boat to

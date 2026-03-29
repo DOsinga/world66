@@ -1,6 +1,8 @@
 ---
 title: "Lopud island"
 type: location
+latitude: 42.685867
+longitude: 17.950775
 ---
 
 The island of Lopud is located northwest of [Dubrovnik](/europe/croatia/dubrovnik) and is a part of the

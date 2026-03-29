@@ -1,6 +1,8 @@
 ---
 title: "Mangareva"
 type: location
+latitude: -23.104536
+longitude: -134.969596
 ---
 
 Travel Guide

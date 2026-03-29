@@ -1,6 +1,8 @@
 ---
 title: "Kabli"
 type: location
+latitude: 58.002466
+longitude: 24.446867
 ---
 
 Travel Guide

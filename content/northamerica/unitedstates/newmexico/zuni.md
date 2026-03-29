@@ -1,6 +1,8 @@
 ---
 title: "Zuni"
 type: location
+latitude: 35.069396
+longitude: -108.84939
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Aden"
 type: location
+latitude: 12.789585
+longitude: 45.028504
 ---
 
 Aden is the old capital of south yemen. It is still one of the most modern cities in the world, it is a busy port and more open to external influences than the rest of the country. 

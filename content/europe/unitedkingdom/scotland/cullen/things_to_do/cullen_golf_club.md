@@ -4,6 +4,8 @@ type: poi
 phone: "01542 840685"
 type: "Golf"
 url: "www.cullengolfclub.co.uk"
+latitude: 57.696346
+longitude: -2.843784
 ---
 
 Situated at the west end of the town the Cullen Golf Club is popular with locals and tourists. It was founded in 1870 and from the greens spectacular views of the Moray Firth are to be had.

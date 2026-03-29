@@ -1,6 +1,8 @@
 ---
 title: "Chandraghona"
 type: location
+latitude: 22.470107
+longitude: 92.129572
 ---
 
 Travel Guide

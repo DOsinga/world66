@@ -1,6 +1,8 @@
 ---
 title: "Woodward"
 type: location
+latitude: 36.374499
+longitude: -99.245538
 ---
 
 Travel Guide

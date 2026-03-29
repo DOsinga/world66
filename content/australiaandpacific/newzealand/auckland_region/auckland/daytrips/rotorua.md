@@ -2,6 +2,8 @@
 title: "Rotorua"
 type: poi
 type: "general"
+latitude: -38.136073
+longitude: 176.252543
 ---
 
 Three hours drive south of Auckland you'll find Rotorua,the best known

@@ -1,6 +1,8 @@
 ---
 title: "Lindos"
 type: location
+latitude: 36.091557
+longitude: 28.08548
 ---
 
 Lindos is less than 50 kilometer from

@@ -1,6 +1,8 @@
 ---
 title: "Bozeman"
 type: location
+latitude: 45.679429
+longitude: -111.044047
 ---
 
 Travel Guide

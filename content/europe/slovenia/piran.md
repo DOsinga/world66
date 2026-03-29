@@ -1,6 +1,8 @@
 ---
 title: "Piran"
 type: location
+latitude: 45.528492
+longitude: 13.568449
 ---
 
 Piran is an old medieval town in the west of Slovenia. It is located on the the tip of the peninsula that is the westernmost part of Slovenia on the coastal Adriatic. 

@@ -1,6 +1,8 @@
 ---
 title: "Things to do"
 type: location
+latitude: 43.647892
+longitude: -79.384206
 ---
 
 Use Calgary as your home base while you explore the region.
@@ -37,8 +39,11 @@ Offering individual & group tours, destination management and pre/post conventio
 
 **Good Earth Travel Adventures . **
 
-Local tour company providing discerning travellers with high quality, self-drive packages and custom travel planning. Enjoy relaxing touring or easy to moderate hands-on nature & soft adventure experiences. 3-7 day wildlife research holidays in Canada's National Parks. Reservations required.  Te [more..](/northamerica/canada/alberta/calgary/outdoors/goodearthtraveladventures)
+Local tour company providing discerning travellers with high quality, self-drive packages and custom travel planning. Enjoy relaxing touring or easy to moderate hands-on nature & soft adventure experiences. 3-7 day wildlife research holidays in Canada's National Parks. Reservations required. 
+ Te [more..](/northamerica/canada/alberta/calgary/outdoors/goodearthtraveladventures)
 
 **Mountain Quest . **
 
-Tel: 1 403 270-0000 Fax: 1 403 283-6555 Toll Free: 800-269-8735  Address: 210, 223 - 10th St NW Calgary AB T2N 1V5
+Tel: 1 403 270-0000 Fax: 1 403 283-6555
+ Toll Free: 800-269-8735 
+ Address: 210, 223 - 10th St NW Calgary AB T2N 1V5

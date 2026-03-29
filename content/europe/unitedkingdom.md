@@ -1,6 +1,8 @@
 ---
 title: "United Kingdom"
 type: location
+latitude: 54.702354
+longitude: -3.276575
 ---
 
 Hi there, my name is Richard and being English I consider that I own the world. I will set my football hooligans on you if you dare think otherwise! O ya and we lick Bush's ass!!!!!

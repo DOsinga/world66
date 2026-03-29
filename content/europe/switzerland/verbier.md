@@ -1,6 +1,8 @@
 ---
 title: "Verbier"
 type: location
+latitude: 46.096101
+longitude: 7.228676
 ---
 
 We currently have no information about Verbier.

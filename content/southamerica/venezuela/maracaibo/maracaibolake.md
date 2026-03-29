@@ -1,6 +1,8 @@
 ---
 title: "Maracaibo Lake"
 type: location
+latitude: 10.025111
+longitude: -71.616313
 ---
 
 We currently have no information about Maracaibo Lake.

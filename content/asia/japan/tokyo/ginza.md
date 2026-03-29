@@ -1,6 +1,8 @@
 ---
 title: "Ginza"
 type: location
+latitude: 35.672013
+longitude: 139.76472
 ---
 
 For more than 100 years Ginza stands for luxury, high society and shopping. The whole of Ginza was designed by an English architect after it was destroyed in 1872. At first the brick shops focussed on selling western style consuming goods, like men's suits and women's dresses. Unfortunately Ginza was flattened again in the second World War. The Wako Department store is one of the few buildings still standing and gives you an idea of what Ginza must have been like. For more info see the shopping. 

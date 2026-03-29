@@ -8,6 +8,8 @@ email: "W"
 phone: "W"
 type: "Clubs and dancing"
 url: "W"
+latitude: -23.299332
+longitude: -48.054657
 ---
 
 Shanghai`s social networking for expats,parties,Dating

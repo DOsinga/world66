@@ -1,6 +1,8 @@
 ---
 title: "Peschiera"
 type: location
+latitude: 43.275206
+longitude: 13.470579
 ---
 
 Peschiera is a small town of some 8,000 inhabitants located on the south side of the Garda Lake. A good base for exploring the region and conveniently close to Verona. 

@@ -6,6 +6,8 @@ email: "jpz6699@163.com"
 opening_hours: "8am-5pm"
 phone: "86-0354-5888406"
 type: "Hotspots"
+latitude: 37.139393
+longitude: 112.284997
 ---
 
 Here are a few things you can see in Pinyao.

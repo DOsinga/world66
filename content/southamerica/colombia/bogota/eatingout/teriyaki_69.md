@@ -7,6 +7,8 @@ phone: "321-0215"
 price: "Moderate"
 type: "Japanese"
 url: "www.teriyaki.com.co"
+latitude: 4.65175
+longitude: -74.056014
 ---
 
 Not just limited to Japanese food - there is a wide selection of Asian food. I'm not a big fan of sushi but friends of mine that are say that it is very good.

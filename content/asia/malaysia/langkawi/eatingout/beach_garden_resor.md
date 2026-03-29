@@ -7,6 +7,8 @@ phone: "+ 60 4 9551363"
 price: "from US $ 6"
 type: "International"
 url: "www.beachgardenresort.com"
+latitude: 6.291336
+longitude: 99.72894
 ---
 
 **The Restaurant**

@@ -2,6 +2,8 @@
 title: "Hollywood Sign"
 type: poi
 type: "Landmarks"
+latitude: 34.134099
+longitude: -118.321652
 ---
 
 The Hollywood sign is one of the most famous California icons. It was erected in 1923 by real

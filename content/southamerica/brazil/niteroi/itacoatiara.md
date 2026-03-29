@@ -1,6 +1,8 @@
 ---
 title: "Itacoatiara"
 type: location
+latitude: -3.14779
+longitude: -58.446104
 ---
 
 Travel Guide

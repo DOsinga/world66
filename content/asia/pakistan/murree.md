@@ -1,6 +1,8 @@
 ---
 title: "Murree"
 type: location
+latitude: 33.905683
+longitude: 73.392674
 ---
 
 Travel Guide

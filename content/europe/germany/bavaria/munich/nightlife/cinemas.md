@@ -1,6 +1,8 @@
 ---
 title: "Cinemas"
 type: poi
+latitude: 51.474276
+longitude: 7.232355
 ---
 
 **Place to go outs**

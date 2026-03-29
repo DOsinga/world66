@@ -3,6 +3,8 @@ title: "Brixton"
 type: poi
 address: "Electric Avenue, London SW9"
 type: "Markets"
+latitude: 51.462267
+longitude: -0.115025
 ---
 
 Brixton is a colourful, unique area, that is like nowhere else in London. Down Electric Avenue (made famous by Eddy Grant's song), it's packed with stalls supplying exotic fruit and vegetables, fish and meat from Africa and the Caribbean. Wander down Atlantic Road to access more indoor markets, and enter 'Brixton Village', and indoor market off Pope's Road, which has household goods, greasy spoons, a pet shop and a specialist wig shop. Brixton is also home to the famous Brixton academy, the grand town hall at the centre of it all and many libraries and historical sites.

@@ -1,6 +1,8 @@
 ---
 title: "Long Beach Island"
 type: location
+latitude: 39.634865
+longitude: -74.185576
 ---
 
 We currently have no information about .

@@ -1,6 +1,8 @@
 ---
 title: "Shawnee"
 type: location
+latitude: 39.027368
+longitude: -95.762754
 ---
 
 Travel Guide

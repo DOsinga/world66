@@ -8,6 +8,8 @@ phone: "(902) 533-2099"
 price: "$18 - $36"
 type: "First Class"
 url: "www.desbarresmanor.com"
+latitude: 40.712742
+longitude: -74.010651
 ---
 
 The DesBarres Manor Inn dining room offers contemporary Canadian cuisine with an East Coast flair and an extensive international wine list.

@@ -1,6 +1,8 @@
 ---
 title: "Eau Claire"
 type: location
+latitude: 44.811349
+longitude: -91.498494
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ubon Ratchatani"
 type: location
+latitude: 15.352986
+longitude: 104.630206
 ---
 
 Travel Guide

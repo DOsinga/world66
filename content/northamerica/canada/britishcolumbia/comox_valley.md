@@ -1,6 +1,8 @@
 ---
 title: "Comox Valley"
 type: location
+latitude: 49.670981
+longitude: -125.035325
 ---
 
 Travel Guide

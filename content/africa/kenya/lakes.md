@@ -1,6 +1,8 @@
 ---
 title: "Lakes"
 type: location
+latitude: -2.416688
+longitude: 38.082422
 ---
 
 There are numerous lakes throughout Kenya, mostly lying in the great Rift Valley. Most of these are shallow soda lakes, but there are also a few freshwater lakes, including Lake Victoria, Africa's largest. Several lakes have been designated National Parks or Reserves, which hold a great variety of birds and other wildlife. For specific information on Kenya's beautiful lakes, click on the locations below.

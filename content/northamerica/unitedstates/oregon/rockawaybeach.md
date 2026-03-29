@@ -1,6 +1,8 @@
 ---
 title: "Rockaway Beach"
 type: location
+latitude: 45.613598
+longitude: -123.943147
 ---
 
 Robin's Cyber Cafe. 1095 S Hwy 101, Rockaway Beach, OR

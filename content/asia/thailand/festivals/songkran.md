@@ -1,6 +1,8 @@
 ---
 title: "Songkran"
 type: poi
+latitude: 13.758714
+longitude: 100.4855
 ---
 
 Songkran

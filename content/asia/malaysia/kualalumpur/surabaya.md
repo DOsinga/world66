@@ -1,6 +1,8 @@
 ---
 title: "surabaya"
 type: location
+latitude: 4.452301
+longitude: 114.040249
 ---
 
 Travel Guide

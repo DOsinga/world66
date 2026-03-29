@@ -1,6 +1,8 @@
 ---
 title: "Porretta Terme"
 type: location
+latitude: 44.15916
+longitude: 10.972301
 ---
 
 Travel Guide

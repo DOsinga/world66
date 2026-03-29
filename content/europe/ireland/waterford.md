@@ -1,6 +1,8 @@
 ---
 title: "Waterford"
 type: location
+latitude: 52.261
+longitude: -7.111908
 ---
 
 Waterford has some of the most spectacular river scenery with the Rivers Suir and Blackwater running through the County.

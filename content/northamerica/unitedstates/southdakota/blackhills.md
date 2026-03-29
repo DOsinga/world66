@@ -1,6 +1,8 @@
 ---
 title: "Black Hills"
 type: location
+latitude: 43.869281
+longitude: -103.526487
 ---
 
 We currently have no information about Black Hills.

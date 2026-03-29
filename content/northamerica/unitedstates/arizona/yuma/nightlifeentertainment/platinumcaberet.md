@@ -6,6 +6,8 @@ closing_time: "2:00 am"
 phone: "928-783-5000"
 type: "Erotic clubs and bars"
 zipcode: "Yuma, AZ 85365"
+latitude: 40.633674
+longitude: -73.956953
 ---
 
 **Platinum Cabaret is one of the two topless clubs in Yuma. There is always a variety of ladies who are friendly! There's a full bar, one main stage and two side stages. Table dances are usually $15 and private dances are $40.

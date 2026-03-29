@@ -1,6 +1,8 @@
 ---
 title: "Carunchio"
 type: location
+latitude: 41.916634
+longitude: 14.526722
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Trekking in Nepal"
 type: location
+latitude: 27.711649
+longitude: 85.312296
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Surinam"
 type: location
+latitude: -20.512291
+longitude: 57.509683
 ---
 
 Travel Guide

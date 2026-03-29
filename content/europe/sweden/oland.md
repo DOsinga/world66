@@ -1,6 +1,8 @@
 ---
 title: "Oland"
 type: location
+latitude: 56.781596
+longitude: 16.662156
 ---
 
 Oland is an island off the coast of Sweden in the Baltic Sea, but it is connected to the mainland by a 6 km long bridge. [Kalmar](/europe/sweden/kalmar) is at the other side of the bridge. 

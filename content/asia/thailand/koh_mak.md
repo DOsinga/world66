@@ -1,6 +1,8 @@
 ---
 title: "Koh Mak"
 type: location
+latitude: 11.816
+longitude: 102.492633
 ---
 
 Travel Guide

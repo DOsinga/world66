@@ -1,6 +1,8 @@
 ---
 title: "Lidice"
 type: location
+latitude: 50.143583
+longitude: 14.190522
 ---
 
 Travel Guide

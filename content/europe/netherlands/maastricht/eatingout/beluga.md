@@ -2,6 +2,8 @@
 title: "Beluga"
 type: poi
 type: "First Class"
+latitude: 50.846109
+longitude: 5.699085
 ---
 
 - two Michelin stars

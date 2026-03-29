@@ -1,6 +1,8 @@
 ---
 title: "Shanxi Province"
 type: location
+latitude: 37.0
+longitude: 112.0
 ---
 
 Shanxi is in the middle reaches of Huang He (Yellow River). Located to the west of the Taihang range of mountain, it is so named Shanxi (west of the mountain) which makes it easy to distinguish from its neighbour Shaanxi. The total area of the province is 156,000 sq km with 31.4 million in population.

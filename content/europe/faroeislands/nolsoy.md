@@ -1,6 +1,8 @@
 ---
 title: "Nolsoy"
 type: location
+latitude: 61.985446
+longitude: -6.653137
 ---
 
 Travel Guide

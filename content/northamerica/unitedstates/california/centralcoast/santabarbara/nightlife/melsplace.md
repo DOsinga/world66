@@ -5,6 +5,8 @@ address: "6 W De La Guerra St"
 phone: "(805) 963-2211"
 type: "Lounges"
 zipcode: "Santa Barbara, CA 93101"
+latitude: 34.418455
+longitude: -119.700657
 ---
 
 type: Lounges

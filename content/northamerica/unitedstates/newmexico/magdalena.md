@@ -1,6 +1,8 @@
 ---
 title: "Magdalena"
 type: location
+latitude: 34.11699
+longitude: -107.243372
 ---
 
 Travel Guide

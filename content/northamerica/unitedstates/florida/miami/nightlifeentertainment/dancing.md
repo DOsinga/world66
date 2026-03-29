@@ -1,6 +1,8 @@
 ---
 title: "Dancing"
 type: location
+latitude: 47.640484
+longitude: -121.947722
 ---
 
 **Points of Interest**

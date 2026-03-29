@@ -1,6 +1,8 @@
 ---
 title: "Mombasa"
 type: location
+latitude: -4.05052
+longitude: 39.667169
 ---
 
 Travel Guide

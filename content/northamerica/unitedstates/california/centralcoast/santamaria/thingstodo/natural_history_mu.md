@@ -6,6 +6,8 @@ email: "naturalhistory.santamaria@verizon.net"
 phone: "(805) 614-0806"
 type: "Other"
 url: "www.naturalhistorysantamaria.com"
+latitude: 34.949527
+longitude: -120.434212
 ---
 
 **

@@ -1,6 +1,8 @@
 ---
 title: "Nosy be"
 type: location
+latitude: -13.311953
+longitude: 48.253399
 ---
 
 Along the north-west coast lies a number of islands, the largest of which is Nosy Be. Marvelous beaches and coral reef in a protected national zone, natural lemur reserve, wonderful fishing, numerous nearby desert islands, all await the lucky traveller. 

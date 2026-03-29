@@ -2,6 +2,8 @@
 title: "Botanical Gardens"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: 17.454771
+longitude: 78.357232
 ---
 
 The Botanical Gardens are the largest and the oldest in India. This

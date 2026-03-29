@@ -1,6 +1,8 @@
 ---
 title: "Segou"
 type: location
+latitude: 14.048761
+longitude: -6.004709
 ---
 
 Segou is mostly famous form the book by Mrayse Conde. It still is the main city (pop. 65 000) of the Bambara tribe and it's located near the remains of Mbella, the ancient Bambara capital.

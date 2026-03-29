@@ -3,6 +3,8 @@ title: "ADONIS"
 type: poi
 address: "Jungmannova 21, Praha 1"
 phone: "+42 (0)02 268 908"
+latitude: 50.08124
+longitude: 14.422285
 ---
 
 Open: Daily. 11.00 - 20.00

@@ -5,6 +5,8 @@ address: "Parallel Boulevard 208 - 2202 HT Noordwijk"
 email: "beach@flyingpig.nl"
 phone: "+31 (0)71 362 25 33"
 url: "www.beachhostel.nl"
+latitude: 52.24615
+longitude: 4.43297
 ---
 
 The Noordwijk Beach is the home to sun, fun, golden sand, surfing of all kinds; especially kite surfing: The worlds number two kitesurfer calls Noordwijk home. The local surf clubs can teach you how to kitesurf or rent you all the surf gear you could ever want.

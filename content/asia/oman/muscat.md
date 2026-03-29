@@ -1,6 +1,8 @@
 ---
 title: "Muscat"
 type: location
+latitude: 23.612363
+longitude: 58.593813
 ---
 
 **

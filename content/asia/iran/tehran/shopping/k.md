@@ -7,6 +7,8 @@ email: "stonegold89@hotmail.com"
 phone: "0216635044"
 type: "Shopping centers and malls"
 url: "a"
+latitude: 24.942872
+longitude: 67.036638
 ---
 
 p

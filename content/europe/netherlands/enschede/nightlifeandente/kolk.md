@@ -1,6 +1,8 @@
 ---
 title: "Kolk"
 type: poi
+latitude: 52.015378
+longitude: 4.353658
 ---
 
 address: Oosterstr 136

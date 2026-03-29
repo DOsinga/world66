@@ -1,6 +1,8 @@
 ---
 title: "Karula National Park"
 type: location
+latitude: 57.708134
+longitude: 26.494712
 ---
 
 Travel Guide

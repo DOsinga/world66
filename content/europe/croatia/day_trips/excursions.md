@@ -3,6 +3,8 @@ title: "Excursions"
 type: poi
 email: "info@lsadriatic.com"
 url: "www.dubrovnik-excursion.com"
+latitude: 43.7328
+longitude: 15.891918
 ---
 
 **Excursions** With huge variety of excursions from our offer, we give you the opportunity to visit a beautiful scenery and cultural and historical places of southern Dalmacia.

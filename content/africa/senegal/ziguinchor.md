@@ -1,6 +1,8 @@
 ---
 title: "Ziguinchor"
 type: location
+latitude: 12.563493
+longitude: -16.272461
 ---
 
 We currently have no information about Ziguinchor.

@@ -7,6 +7,8 @@ phone: "+43 (0664) 5248408"
 price: "5,50"
 type: "Middle East"
 url: "www.al-gebra.com"
+latitude: 48.207112
+longitude: 16.388187
 ---
 
 Welcome to 'Al'Gebra', kindly visit our website, which gives you,

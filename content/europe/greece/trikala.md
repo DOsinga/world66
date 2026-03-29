@@ -1,6 +1,8 @@
 ---
 title: "Trikala"
 type: location
+latitude: 39.556087
+longitude: 21.767884
 ---
 
 Travel Guide

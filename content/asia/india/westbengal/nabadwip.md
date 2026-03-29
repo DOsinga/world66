@@ -1,6 +1,8 @@
 ---
 title: "Nabadwip"
 type: location
+latitude: 23.408668
+longitude: 88.365799
 ---
 
 Travel Guide

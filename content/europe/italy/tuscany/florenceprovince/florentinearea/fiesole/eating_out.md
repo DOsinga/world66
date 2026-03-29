@@ -6,6 +6,8 @@ address: "Piazza Mino 45, 50014 Fiesole"
 price: "Very reasonable."
 type: "Italian"
 url: "www.struffolo.it"
+latitude: 43.806877
+longitude: 11.291924
 ---
 
 **Ristorante Perseus

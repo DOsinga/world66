@@ -1,6 +1,8 @@
 ---
 title: "Man, Isle of"
 type: location
+latitude: 53.395252
+longitude: -4.327693
 ---
 
 The Isle of Man, situated in the sea almost half way between Ireland, England, Wales and Scotland, is one of the most beautiful spots in Britain. It is a mountainous, cliff-fringed island just thirty-one miles by thirteen with austere moorlands, wooded glens, sandy beaches, lonely castles and scores of standing stones and Celtic crosses. 

@@ -1,6 +1,8 @@
 ---
 title: "Karimunjawa"
 type: location
+latitude: -5.879626
+longitude: 110.432907
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Marsala"
 type: location
+latitude: 37.797922
+longitude: 12.434209
 ---
 
 Travel Guide

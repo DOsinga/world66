@@ -1,6 +1,8 @@
 ---
 title: "Alfalfa County"
 type: location
+latitude: 36.720182
+longitude: -98.308791
 ---
 
 We currently have no information about Alfalfa County.

@@ -1,6 +1,8 @@
 ---
 title: "Car Rentals"
 type: poi
+latitude: 53.307631
+longitude: -113.582894
 ---
 
 All major international car rental companies offer their services in

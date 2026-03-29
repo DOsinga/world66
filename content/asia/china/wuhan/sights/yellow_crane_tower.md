@@ -1,6 +1,8 @@
 ---
 title: "Yellow crane tower"
 type: poi
+latitude: 30.547081
+longitude: 114.297047
 ---
 
 Huanghelou (Yellow Crane Tower), located near the southern end of the Yangtze River Bridge in Wuhan, is one of China's most famous towers. The tower inspired many ancient poets and artists. Following is one example, written by Li Bai during the Tang Dynasty:

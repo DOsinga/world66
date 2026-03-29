@@ -1,6 +1,8 @@
 ---
 title: "Mogilev"
 type: location
+latitude: 53.909025
+longitude: 30.342984
 ---
 
 We currently have no information about Mogilev.

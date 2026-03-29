@@ -1,6 +1,8 @@
 ---
 title: "Damoh"
 type: location
+latitude: 23.798101
+longitude: 79.541936
 ---
 
 Damoh rose to importance in the 14th century. The Khiljis had the regional administrative center of the Chanderi province at Batihadim (Batiagarh) which was transferred to Damova (Damoh). Damoh was the seat of Maratha governors. During the British Raj, it became a part of the Central Provinces It was constituted a municipality in 1867. 

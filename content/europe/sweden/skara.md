@@ -1,6 +1,8 @@
 ---
 title: "Skara"
 type: location
+latitude: 58.384608
+longitude: 13.439768
 ---
 
 Travel Guide

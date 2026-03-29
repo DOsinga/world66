@@ -2,6 +2,8 @@
 title: "By Road"
 type: poi
 type: "By Road"
+latitude: 52.739426
+longitude: 1.385036
 ---
 
 Cardiff is well served by road links to other parts of South Wales and the South West of England.

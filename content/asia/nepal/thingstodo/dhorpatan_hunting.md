@@ -2,6 +2,8 @@
 title: "DHORPATAN HUNTING RESERVE"
 type: poi
 type: "Hunting and Fishing"
+latitude: 28.647131
+longitude: 82.996023
 ---
 
 ***DHORPATAN HUNTING RESERVE***

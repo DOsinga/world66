@@ -1,6 +1,8 @@
 ---
 title: "Monument"
 type: location
+latitude: 39.091659
+longitude: -104.872758
 ---
 
 Travel Guide

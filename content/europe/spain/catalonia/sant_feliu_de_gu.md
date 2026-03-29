@@ -1,6 +1,8 @@
 ---
 title: "Sant Feliu de Guíxols"
 type: location
+latitude: 41.783883
+longitude: 3.028319
 ---
 
 Travel Guide

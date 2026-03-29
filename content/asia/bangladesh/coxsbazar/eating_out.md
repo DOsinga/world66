@@ -7,6 +7,8 @@ phone: "123-456-789"
 price: "1 dollar"
 type: "First Class"
 url: "www.mcdonalds.com"
+latitude: 48.277738
+longitude: -58.762099
 ---
 
 **Cox's Bazar Restaurants** offer a wide variety of seafood cuisine showcasing Bangladesh's local recipes, but there are also fast food and European dishes to taste. The western dishes are served mostly in major hotels. Prices are in Taka (tk) and American dollars. Follow these restaurant tips:

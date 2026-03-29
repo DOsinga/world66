@@ -1,6 +1,8 @@
 ---
 title: "Manti"
 type: location
+latitude: 39.268295
+longitude: -111.636862
 ---
 
 Travel Guide

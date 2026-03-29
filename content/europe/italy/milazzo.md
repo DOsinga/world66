@@ -1,6 +1,8 @@
 ---
 title: "Milazzo"
 type: location
+latitude: 38.220805
+longitude: 15.241513
 ---
 
 Travel Guide

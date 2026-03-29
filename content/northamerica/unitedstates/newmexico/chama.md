@@ -1,6 +1,8 @@
 ---
 title: "Chama"
 type: location
+latitude: 36.903656
+longitude: -106.579887
 ---
 
 Travel Guide

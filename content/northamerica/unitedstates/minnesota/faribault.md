@@ -1,6 +1,8 @@
 ---
 title: "Faribault"
 type: location
+latitude: 43.664796
+longitude: -93.95105
 ---
 
 Travel Guide

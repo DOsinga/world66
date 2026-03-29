@@ -1,10 +1,14 @@
 ---
 title: "Goreme"
 type: location
+latitude: 38.642089
+longitude: 34.829623
 ---
 
 Goreme is the centre of [Cappadocia](/asia/turkey/cappadocia) and one of the best starting points for seeing the fairy chimneys in the area. The famous fairy chimneys are strange rock formations made of soft volcanic stone. They are of naturla origin but humans have added a special touch to their beauty. For centuries and centuries people have lived and worked in these chimneys and today you can see their churches with their painted walls, their houses and even carpet shops.
 
- Goreme has decent accommodation, restaurants and many, many tour organizations that take you past the most important sights in a mini-bus. They are well organized and if you don't mind stopping in a pottery and or carpet shop, they are quite a convenient way to do the sights.
 
- The sights not to miss include the Goreme Museum, The Ihlara Valley and [Zelve](/asia/turkey/cappadocia/zelve). Allow some time to see the underground city of [Derinkuyu](/asia/turkey/cappadocia/derinkuyu) as well.
+ Goreme has decent accommodation, restaurants and many, many tour organizations that take you past the most important sights in a mini-bus. They are well organized and if you don't mind stopping in a pottery and or carpet shop, they are quite a convenient way to do the sights.
+
+
+ The sights not to miss include the Goreme Museum, The Ihlara Valley and [Zelve](/asia/turkey/cappadocia/zelve). Allow some time to see the underground city of [Derinkuyu](/asia/turkey/cappadocia/derinkuyu) as well.

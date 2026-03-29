@@ -5,6 +5,8 @@ address: "2920 W Warner Ave"
 phone: "(714) 556-8956"
 type: "Night Clubs"
 zipcode: "Santa Ana, CA 92704"
+latitude: 33.714801
+longitude: -117.908698
 ---
 
 type: Night Clubs

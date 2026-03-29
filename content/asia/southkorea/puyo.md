@@ -1,6 +1,8 @@
 ---
 title: "Puyo"
 type: location
+latitude: 36.308377
+longitude: 126.517783
 ---
 
 We currently have no information about Puyo.

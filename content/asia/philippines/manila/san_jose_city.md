@@ -1,6 +1,8 @@
 ---
 title: "San Jose City"
 type: location
+latitude: 14.810198
+longitude: 121.047409
 ---
 
 Travel Guide

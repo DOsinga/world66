@@ -1,6 +1,8 @@
 ---
 title: "Fochabers"
 type: location
+latitude: 57.6141
+longitude: -3.097447
 ---
 
 Travel Guide

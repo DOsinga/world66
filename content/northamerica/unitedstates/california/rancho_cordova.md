@@ -1,6 +1,8 @@
 ---
 title: "Rancho Cordova"
 type: location
+latitude: 38.589072
+longitude: -121.302728
 ---
 
 Travel Guide

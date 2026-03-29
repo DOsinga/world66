@@ -4,6 +4,8 @@ type: poi
 address: "Wynn Las Vegas"
 type: "Concerts"
 url: "www.res99.com"
+latitude: 36.126622
+longitude: -115.165404
 ---
 
 Featuring aerial acrobatics, provocative choreography, and artistic athleticism, Le Reve ("the dream") immerses the audience into a world of fantasy, adventure and intrigue, through its magnificent live music and elaborate special effects. The cast of 85 captures the imagination with outrageous antics and daring feats of agility, making the show an experience where dreams--quite literally, in fact--swim in the air and dance on the water

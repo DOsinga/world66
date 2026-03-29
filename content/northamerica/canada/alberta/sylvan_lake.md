@@ -1,6 +1,8 @@
 ---
 title: "Sylvan Lake"
 type: location
+latitude: 52.310214
+longitude: -114.097415
 ---
 
 Travel Guide

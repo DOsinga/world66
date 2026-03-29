@@ -1,6 +1,8 @@
 ---
 title: "Souvenirs"
 type: poi
+latitude: 52.365143
+longitude: 4.890357
 ---
 
 **Shops**
@@ -19,7 +21,8 @@ tel: 020 - 531 34 00
 
 **Pj. Hajenius**
 
-The best cigar shop of Amsterdam, located on the Rokin, close to the Dam square. Great choice and very nice interior. 
+The best cigar shop of Amsterdam, located on the Rokin, close to the Dam square. Great choice and very nice interior.
+ 
 
 **Diamonds**
 

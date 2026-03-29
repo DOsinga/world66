@@ -1,6 +1,8 @@
 ---
 title: "Delphi"
 type: location
+latitude: 40.587537
+longitude: -86.675006
 ---
 
 Travel Guide

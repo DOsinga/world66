@@ -1,6 +1,8 @@
 ---
 title: "Swindon"
 type: location
+latitude: 51.561533
+longitude: -1.785432
 ---
 
 Swindon really does not have anything out of the ordinary for any

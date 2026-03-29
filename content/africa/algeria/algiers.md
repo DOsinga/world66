@@ -1,6 +1,8 @@
 ---
 title: "Algiers"
 type: location
+latitude: 36.772933
+longitude: 3.058845
 ---
 
 Algeria’s capital and major port (pop. 2 500 000) has been called the “White City” because of the light-colored stones that make up its older structures. It’s beautiful and alluring but walking its streets remains extremely dangerous. Thus far attacks on foreigners have mostly been opportunistic with gunmen bumping into foreigners in marketplaces and busy streets almost at random. (There seems to have been little surveillance of victims beforehand.) The best survival strategy remains minimizing the time spent exposed on the street—and staying away from obvious tourist places including the 450-year-old Casbah which remains the soul of the city. The hotels are reasonably safe; most top hotels are protected by armed guards. Survival is generally a matter of keeping one’s head down. Dressing down is also important: The last thing you want to do is stand out on the street.

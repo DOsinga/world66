@@ -6,6 +6,8 @@ email: "info@vendueinn.com"
 phone: "843-577-7970"
 type: "Spa and Sauna"
 url: "www.vendueinn.com"
+latitude: 32.778619
+longitude: -79.926498
 ---
 
 Hunley Submarine

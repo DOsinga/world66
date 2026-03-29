@@ -1,6 +1,8 @@
 ---
 title: "Yanbu"
 type: location
+latitude: 24.089019
+longitude: 38.068708
 ---
 
 We currently have no information about Yanbu.

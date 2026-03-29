@@ -5,6 +5,8 @@ address: "170 E 17th Pl"
 phone: "(520) 329-1414"
 type: "By Bus"
 zipcode: "Yuma, AZ 85364"
+latitude: 32.695879
+longitude: -114.61961
 ---
 
 type: By Bus

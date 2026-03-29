@@ -1,6 +1,8 @@
 ---
 title: "New York"
 type: location
+latitude: 40.712728
+longitude: -74.006015
 ---
 
 The Big ZApple does not need an intro. It is every thing you ever thought it could be and more. When you walk between the high skyscrapers you feel small, and let's face it: you are. New York is like a small universe. You will find every people on earth represented not only in the UN buildings but also on the street and in different parts of town. Among the main interests of New York are the many museums, the architecture and the endless shopping possibilities, especially along Madison Avenue. 

@@ -1,6 +1,8 @@
 ---
 title: "Marcon"
 type: location
+latitude: 45.554352
+longitude: 12.299328
 ---
 
 Travel Guide

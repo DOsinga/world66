@@ -6,6 +6,8 @@ email: "aptbg@apt.bergamo.it"
 phone: "Tel. +39 035 210204"
 type: "Tourist information"
 url: "www.turismo.bergamo.it"
+latitude: 44.79884
+longitude: 11.973498
 ---
 
 Sometimes traveling involves buying a house in a position to give a larger advantage point to traveling as far as position and time spent abroad is concerned. Many travel web sites have real estate on them. It makes sense. Sell everything you own and live abroad in order to make your money and life style go farther - or just buy that second house. Need just one month? Rent a house! What a better way to see the world!

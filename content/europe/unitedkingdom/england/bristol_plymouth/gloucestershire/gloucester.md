@@ -1,6 +1,8 @@
 ---
 title: "Gloucester"
 type: location
+latitude: 51.86537
+longitude: -2.245819
 ---
 
 Gloucester is the capital of Gloucestershire and located in the Severn

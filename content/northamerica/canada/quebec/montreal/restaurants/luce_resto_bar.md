@@ -6,6 +6,8 @@ phone: "514.858.5823"
 price: "$15-$30"
 type: "Italian"
 url: "www.restomontreal.ca"
+latitude: 45.54533
+longitude: -73.63818
 ---
 
 **Restaurant Bar Luce** located on

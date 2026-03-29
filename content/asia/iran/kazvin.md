@@ -1,6 +1,8 @@
 ---
 title: "Kazvin"
 type: location
+latitude: 36.015629
+longitude: 49.839816
 ---
 
 We currently have no information about Kazvin.

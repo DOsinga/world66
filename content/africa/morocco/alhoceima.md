@@ -1,6 +1,8 @@
 ---
 title: "Al Hoceima"
 type: location
+latitude: 35.245114
+longitude: -3.930186
 ---
 
 Al Hoceima is mainly known as a beach resort. It is a pleasant place to rest while touring the Rif. Al Hoceima was built by the Spanish in 1926, after they suppressed a Rif rebellion. The Spanish influences remain, however most new construction is cheap North African style. 

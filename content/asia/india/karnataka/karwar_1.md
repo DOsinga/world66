@@ -1,6 +1,8 @@
 ---
 title: "Karwar"
 type: location
+latitude: 14.812093
+longitude: 74.131923
 ---
 
 Travel Guide

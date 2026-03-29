@@ -1,6 +1,8 @@
 ---
 title: "Malhamdale"
 type: location
+latitude: 54.023331
+longitude: -2.145729
 ---
 
 Malham itself is a delightful hamlet when it's allowed to be; i.e. when its not bursting at hte seams with visitors. It has no church for which would-be worshippers or sightseers have to go to nearby Kirkby Malham. There is a National Park information centre and carpark Meals can be obtained at the Buck or at a local cafe.

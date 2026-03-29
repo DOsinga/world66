@@ -1,6 +1,8 @@
 ---
 title: "Beverley"
 type: location
+latitude: 53.842549
+longitude: -0.431568
 ---
 
 Beverley has managed to be the county town of two counties, first and for many centuries of the historic East Riding of Yorkshire and more recently of the ill-fated and short-lived Humberside. Couty hall remains as a memorial to this past glory.

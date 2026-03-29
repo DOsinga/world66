@@ -1,6 +1,8 @@
 ---
 title: "Banff"
 type: location
+latitude: 57.664546
+longitude: -2.521754
 ---
 
 Travel Guide

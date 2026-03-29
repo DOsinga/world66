@@ -1,6 +1,8 @@
 ---
 title: "Melfi"
 type: location
+latitude: 40.996127
+longitude: 15.655655
 ---
 
 Located in the north of Basilicate, Melvi is a medieval town set at the foot of Mount

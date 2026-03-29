@@ -3,6 +3,8 @@ title: "Orio al Serio Airport (Bergamo)"
 type: poi
 type: "By Rail"
 url: "www.orioaeroporto.it"
+latitude: 45.670894
+longitude: 9.698754
 ---
 
 There is a third Airport which is considered a Milan Airport. It has three different names (or even more combinations of names): Milan Airport - Orio al Serio, Bergamo Airport, Orio al Serio Airport and so on. In any case its code is BGY just like the airport code of Malpensa Airport is MXP or Los Angeles International Airport is LAX.

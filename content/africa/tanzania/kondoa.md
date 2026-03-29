@@ -1,6 +1,8 @@
 ---
 title: "Kondoa"
 type: location
+latitude: -4.643114
+longitude: 35.95904
 ---
 
 Kondoa (or Kondoa-Irangi) is a small town along the old caravan route from the Indian Ocean to Lake Tanganyika. A still existing artesic water source here provided the caravans with good and plenty of water. Today the main communication route is north-south, from Arusha to Dodoma, a road that looks impressive on the map, being a section of the old Cape-Cairo highway. In reality the road is in poor condition and difficult during rains. It is supposed to become asphalted before the end of 2006.

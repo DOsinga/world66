@@ -1,6 +1,8 @@
 ---
 title: "Ennis"
 type: location
+latitude: 32.329311
+longitude: -96.625268
 ---
 
 Travel Guide

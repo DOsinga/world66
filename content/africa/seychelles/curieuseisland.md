@@ -1,6 +1,8 @@
 ---
 title: "Curieuse island"
 type: location
+latitude: -4.284277
+longitude: 55.721042
 ---
 
 We currently have no information about Curieuse island.

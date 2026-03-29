@@ -1,6 +1,8 @@
 ---
 title: "Marseille"
 type: location
+latitude: 43.296174
+longitude: 5.369953
 ---
 
 Marseille is the second biggest city of France. The city is located on tthe shores of the Mediterranean coast. It was founded by the Greeks some 2 500 years ago. Nowadays, it is a lively, picturesque and rundown industrial port city. 

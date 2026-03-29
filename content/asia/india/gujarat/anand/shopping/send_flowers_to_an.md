@@ -7,6 +7,8 @@ email: "sales@allindiaflorist.com"
 phone: "919897064001"
 type: "Shopping centers and malls"
 url: "www.allindiaflorist.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 ** Send flowers to Anand.

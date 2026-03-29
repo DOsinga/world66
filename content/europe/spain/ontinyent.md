@@ -1,6 +1,8 @@
 ---
 title: "Ontinyent"
 type: location
+latitude: 38.820852
+longitude: -0.609993
 ---
 
 Travel Guide

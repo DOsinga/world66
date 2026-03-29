@@ -6,6 +6,8 @@ address: "Rosenthaler Str. 36, 10178 Berlin"
 phone: "0049-30-27582035"
 type: "International"
 url: "www.kulakarma.de"
+latitude: 52.524606
+longitude: 13.40285
 ---
 
 The Kula Karma in Berlin-Mitte at the Hackescher Markt, is a mix between restaurant, bar and lounge. You can eat there as well as just chill out and have a drink...

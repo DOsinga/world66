@@ -1,6 +1,8 @@
 ---
 title: "Riedstadt"
 type: location
+latitude: 49.842521
+longitude: 8.482945
 ---
 
 Travel Guide

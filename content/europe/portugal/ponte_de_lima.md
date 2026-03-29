@@ -1,6 +1,8 @@
 ---
 title: "Ponte de Lima"
 type: location
+latitude: 41.767502
+longitude: -8.583099
 ---
 
 The Romans are supposed to have thought the Lima was the mythical river, Lethe, which was so beautiful that it took men's memories away. The story is that they wouldn't touch the river until their commander had swum across and shown that he still remembered their names.

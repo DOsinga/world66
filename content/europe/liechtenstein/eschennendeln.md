@@ -1,6 +1,8 @@
 ---
 title: "Eschen-nendeln"
 type: location
+latitude: 47.197472
+longitude: 9.541659
 ---
 
 We currently have no information about Eschen-nendeln.

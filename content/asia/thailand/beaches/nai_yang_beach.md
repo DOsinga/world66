@@ -2,6 +2,8 @@
 title: "Nai Yang Beach"
 type: poi
 address: "Nai Yang, Phuket"
+latitude: 8.085801
+longitude: 98.304393
 ---
 
 **Nai Yang beach** is on the north west side of Phuket, about 2 miles south of the aiport. The name means 'inside rubber' because the a long stretch of the beach is in a nature reserve with of lots of rubber trees.

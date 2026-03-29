@@ -1,6 +1,8 @@
 ---
 title: "Cabaret"
 type: poi
+latitude: 13.803272
+longitude: 100.574481
 ---
 
 **Place to go outs**

@@ -1,6 +1,8 @@
 ---
 title: "Sierras de Córdoba"
 type: location
+latitude: -31.986439
+longitude: -64.93628
 ---
 
 Travel Guide

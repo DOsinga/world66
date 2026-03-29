@@ -1,6 +1,8 @@
 ---
 title: "Dayuan"
 type: location
+latitude: 30.551885
+longitude: 104.044166
 ---
 
 Travel Guide

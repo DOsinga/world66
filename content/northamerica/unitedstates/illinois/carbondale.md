@@ -1,6 +1,8 @@
 ---
 title: "Carbondale"
 type: location
+latitude: 37.727469
+longitude: -89.216655
 ---
 
 Carbondale is located in the south of Illinois. It is a good base for exploring the Shawnee National Forest and home to Southern Illinois University. 

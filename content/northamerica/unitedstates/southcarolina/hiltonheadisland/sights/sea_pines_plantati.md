@@ -7,6 +7,8 @@ opening_hours: "9 AM - 5 PM"
 phone: "843-671-4700"
 type: "Hotspots"
 url: "www.hiltonheadrentals.com"
+latitude: 32.157781
+longitude: -80.754368
 ---
 
 Hilton Head Island is one of the nicest places to vacation, regardless of what time of year you decide to stay. And I must inform you that a stay in Sea Pines Plantation must be top on your list. The island is home to more than 40,000 full time residents and over 2.2 million vacationers each year. With an average temperature around 70 degrees and so many outdoor activities available, this is a vacation that will keep you active and healthy.

@@ -7,6 +7,8 @@ opening_hours: "9am"
 phone: "831.423.8897"
 type: "Hotspots"
 url: "www.mysteryspot.com"
+latitude: 37.017269
+longitude: -122.003314
 ---
 
 The Mystery Spot breaks the laws of physics and gravity. Visit it and be impressed, you just might get naseous from the optical illusions.

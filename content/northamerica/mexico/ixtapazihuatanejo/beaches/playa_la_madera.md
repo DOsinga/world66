@@ -1,6 +1,8 @@
 ---
 title: "Playa La Madera"
 type: poi
+latitude: 17.63855
+longitude: -101.551524
 ---
 
 Between Playa Municipal and Playa La Ropa is Playa La Madera. This

@@ -1,6 +1,8 @@
 ---
 title: "Modesto"
 type: location
+latitude: 37.639342
+longitude: -120.996889
 ---
 
 Travel Guide

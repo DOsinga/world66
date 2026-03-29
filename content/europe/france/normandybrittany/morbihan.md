@@ -1,6 +1,9 @@
 ---
 title: "Morbihan"
 type: location
+latitude: 47.825981
+longitude: -2.763349
 ---
 
-Golfe of Morbihan "Morbihan" means "small sea" in Breton, because the coast, after the presqu'ile of Quiberon, shelters a marvellous ecosystem including dozens of islands. Some of them can be visited (I recommend "l'Ile aux moines") from the city of Vannes. Vannes owns a pretty walled downtown, full of delicious restaurants. One can see numerous mediaeval houses and... postcards sellers! Nearby, the small city of Auray worth the detour: its neighborough of Saint Goustan shelters a museum-sail boat, twisty mediaeval streets and... the house where Benjamin Franklin stopped on his way to Paris to convince France to help the United States during the war of independance! Along the river which links Auray with the Golfe of Morbihan, I advice you to stopover at the village of Le Bono: the sight from the bridge is gorgeous and you will learn how to raise oysters! The inhabitants of the region are proud to be Breton but it's a pride they are willing to share with the visitors. I found them friendly and very interesting to listen to.
+Golfe of Morbihan
+ "Morbihan" means "small sea" in Breton, because the coast, after the presqu'ile of Quiberon, shelters a marvellous ecosystem including dozens of islands. Some of them can be visited (I recommend "l'Ile aux moines") from the city of Vannes. Vannes owns a pretty walled downtown, full of delicious restaurants. One can see numerous mediaeval houses and... postcards sellers! Nearby, the small city of Auray worth the detour: its neighborough of Saint Goustan shelters a museum-sail boat, twisty mediaeval streets and... the house where Benjamin Franklin stopped on his way to Paris to convince France to help the United States during the war of independance! Along the river which links Auray with the Golfe of Morbihan, I advice you to stopover at the village of Le Bono: the sight from the bridge is gorgeous and you will learn how to raise oysters! The inhabitants of the region are proud to be Breton but it's a pride they are willing to share with the visitors. I found them friendly and very interesting to listen to.

@@ -4,6 +4,8 @@ type: section
 address: "Bachstr. 35, 54346 Mehring"
 phone: "+49-6502-99123"
 type: "general"
+latitude: 49.796585
+longitude: 6.823961
 ---
 
 ### Landgasthaus Müller

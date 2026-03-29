@@ -1,6 +1,8 @@
 ---
 title: "Skildpadden"
 type: poi
+latitude: 55.260091
+longitude: 11.863075
 ---
 
 **Open hours:** 11am to midnight Thursday-Saturday; 11am to 11pm Sunday to Wednesday **

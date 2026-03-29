@@ -3,6 +3,8 @@ title: "Muara Karang Seafood corners"
 type: poi
 address: "Muara Karang, Jakarta Utara"
 type: "Seafood"
+latitude: -6.10961
+longitude: 106.784711
 ---
 
 While enjoy a day trip to the old harbour Sunda Kelapa, visit Muara Karang Seafood corners will be nice and becomes new experience.

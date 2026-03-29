@@ -1,6 +1,8 @@
 ---
 title: "Bay of islands"
 type: location
+latitude: -35.255009
+longitude: 174.162673
 ---
 
 We currently have no information about Bay of islands.

@@ -1,6 +1,8 @@
 ---
 title: "Zarra"
 type: location
+latitude: 39.091467
+longitude: -1.075165
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Jerusalem"
 type: location
+latitude: 31.788454
+longitude: 35.218771
 ---
 
 Jerusalem is the three times holy capital of the twice promised land. In the old city you will see priests, nuns, mollahs and rabbi's all over the place. Churches of every possible denomination dot the town, the gold domed mosque of the Haram-al-Sharif is seen from afar, the wailing wall is always busy. 

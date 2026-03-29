@@ -1,6 +1,8 @@
 ---
 title: "Round Rock"
 type: location
+latitude: 30.508592
+longitude: -97.678806
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Northern"
 type: location
+latitude: 15.175365
+longitude: 145.737934
 ---
 
 Northern Virginia is a beautiful place to stay if you want to see Washington DC but don't want to pay for the DC hotels. Alexandria has nice affordable hotels within walking distance of the Metro (which for $1.85 takes you downtown DC in a few minutes). But don't limit yourself to DC just because that's all you know, Northern Virginia has a multitude of sites to see. 

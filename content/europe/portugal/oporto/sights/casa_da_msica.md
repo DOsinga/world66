@@ -4,6 +4,8 @@ type: poi
 address: "Rotunda da Boavista"
 type: "Public Buildings"
 url: "www.casadamusica.com"
+latitude: 41.157932
+longitude: -8.629136
 ---
 
 Head to Boavista and find the newest (and most amazing) addition to Porto's architecture portfolio: the Casa da Música. Designed by architecture guru Rem Koolhaas, it is the place to be if you love music (check out the link - available only in portuguese for now).

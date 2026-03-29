@@ -1,6 +1,8 @@
 ---
 title: "Dolceacqua"
 type: location
+latitude: 43.850926
+longitude: 7.623636
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Kuala Lumpur"
 type: location
+latitude: 3.151696
+longitude: 101.694237
 ---
 
 Kuala Lumpur, the capital of Malaysia, is located on the west coast of Peninsular Malaysia. Covering some 243 sq km, it lies approximately 40 km from the coast. Kuala Lumpur -or KL as it is commonly called- lies in a valley surrounded by jagged hills. Kuala Lumpur was originally a mining settlement in the late 1800s where tin was discovered at the confluence of the Klang and Gombak rivers. Although KL's tin trade has declined since, the prosperity of the city has continued to grow.

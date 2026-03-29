@@ -1,6 +1,8 @@
 ---
 title: "Sälen"
 type: location
+latitude: 61.155724
+longitude: 13.269409
 ---
 
 Travel Guide

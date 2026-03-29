@@ -1,6 +1,8 @@
 ---
 title: "Gradiste"
 type: poi
+latitude: 40.996727
+longitude: 20.798149
 ---
 
 This is the best place to chill with your friends, have something to

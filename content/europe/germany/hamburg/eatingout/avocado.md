@@ -1,6 +1,8 @@
 ---
 title: "Avocado"
 type: poi
+latitude: 48.206625
+longitude: 12.402765
 ---
 
 address: Kanalstr. 9

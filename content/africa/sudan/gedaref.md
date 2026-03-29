@@ -1,6 +1,8 @@
 ---
 title: "Gedaref"
 type: location
+latitude: 14.040941
+longitude: 35.398832
 ---
 
 Travel Guide

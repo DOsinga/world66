@@ -1,6 +1,8 @@
 ---
 title: "Liepaja"
 type: location
+latitude: 56.504843
+longitude: 21.00709
 ---
 
 Liepaja is located in the southwest of the Republic of Latvia in the central part of the eastern coast of the Baltic Sea.

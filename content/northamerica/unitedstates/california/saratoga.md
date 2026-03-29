@@ -1,6 +1,8 @@
 ---
 title: "Saratoga"
 type: location
+latitude: 43.083323
+longitude: -73.871216
 ---
 
 Travel Guide

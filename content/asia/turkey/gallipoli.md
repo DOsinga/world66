@@ -1,6 +1,8 @@
 ---
 title: "Gallipoli"
 type: location
+latitude: 40.310675
+longitude: 26.406377
 ---
 
 The World War 1 battlefields known as Gallipoli are just 15 kms from [Canakkale](/asia/turkey/canakkale).

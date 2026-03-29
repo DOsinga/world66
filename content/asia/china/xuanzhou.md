@@ -1,6 +1,8 @@
 ---
 title: "Xuanzhou"
 type: location
+latitude: 30.94867
+longitude: 118.751428
 ---
 
 Travel Guide

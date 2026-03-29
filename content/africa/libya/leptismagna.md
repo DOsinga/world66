@@ -1,6 +1,8 @@
 ---
 title: "Leptis magna"
 type: location
+latitude: 32.636483
+longitude: 14.290983
 ---
 
 Even those who have no interest in ruins will be impressed by the Roman remians you can find at Leptis Magna. The setting is impressive as well: overlooking the Mediterranean.

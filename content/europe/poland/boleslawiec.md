@@ -1,6 +1,8 @@
 ---
 title: "Boleslawiec"
 type: location
+latitude: 51.262169
+longitude: 15.55502
 ---
 
 Right near the border between Germany and Poland is a small town is the center of the Polish pottery industry. There are many factories in town, most with a factory shop that sells the pottery. The pottery is quite popular with the US military personnel living in Germany. So popular in fact that Boleslawiec is one of the few places in Poland where you can purchase items with U.S. Dollars. You are more apt to hear English than Polish in these shops. 

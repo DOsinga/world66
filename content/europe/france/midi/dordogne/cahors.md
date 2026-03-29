@@ -1,6 +1,8 @@
 ---
 title: "Cahors"
 type: location
+latitude: 44.4495
+longitude: 1.4365
 ---
 
 We currently have no information about Cahors.

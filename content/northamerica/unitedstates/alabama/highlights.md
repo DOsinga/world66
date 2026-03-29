@@ -1,6 +1,8 @@
 ---
 title: "Highlights"
 type: location
+latitude: 39.050038
+longitude: -94.606203
 ---
 
 **general**
@@ -111,13 +113,17 @@ The W.C. Handy Birthplace, Library and Museum, located in Florence, houses many 
 
 **Theme Parks!**
 
- *Alabama has a few theme parks*:
 
- **Visionland** - Bessemer. Features a wooden rollercoaster, a water park, dinosaur exhibit and more.
+ *Alabama has a few theme parks*:
 
- **Water World** - Dothan. Water theme park.
 
- **Styx River Water World** - Exit 53 off I-10 in Baldwin Co [more..](/northamerica/unitedstates/alabama/highlights/bthemeparksb)
+ **Visionland** - Bessemer. Features a wooden rollercoaster, a water park, dinosaur exhibit and more.
+
+
+ **Water World** - Dothan. Water theme park.
+
+
+ **Styx River Water World** - Exit 53 off I-10 in Baldwin Co [more..](/northamerica/unitedstates/alabama/highlights/bthemeparksb)
 
 **Alabama Fan Club and Museum**
 
@@ -145,7 +151,8 @@ They call the city of Boaz a shopper's paradise for good reason. Hundreds of fac
 
 **Boll Weevil Monument**
 
-Alabama can be an odd place. Case in point, Enterprise, home to the Boll Weevil Monument. The Weevil destroyed the local cotton crop in 1915 and forced the farmers to diversify. They became so prosperous they erected a monument to the critter. 
+Alabama can be an odd place. Case in point, Enterprise, home to the Boll Weevil Monument. The Weevil destroyed the local cotton crop in 1915 and forced the farmers to diversify. They became so prosperous they erected a monument to the critter.
+ 
 
 ## Different kinds of Highlights
 

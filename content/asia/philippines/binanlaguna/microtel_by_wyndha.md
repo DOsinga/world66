@@ -1,6 +1,8 @@
 ---
 title: "Microtel by Wyndham South Forbes near Nuvali Sta. Rosa"
 type: location
+latitude: 14.248841
+longitude: 121.048493
 ---
 
 Travel Guide

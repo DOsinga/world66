@@ -1,6 +1,8 @@
 ---
 title: "El Bierzo"
 type: location
+latitude: 42.65265
+longitude: -6.623184
 ---
 
 Bierzo is in a sheltered mountain valley on the

@@ -1,6 +1,8 @@
 ---
 title: "Hallein"
 type: location
+latitude: 47.682152
+longitude: 13.095631
 ---
 
 Hallein is the second biggest town in the Slazburg province. the main reason to visit is the Dürrnberg salt mines. 

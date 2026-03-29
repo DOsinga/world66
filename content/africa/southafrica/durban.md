@@ -1,12 +1,20 @@
 ---
 title: "Durban"
 type: location
+latitude: -29.861825
+longitude: 31.009909
 ---
 
 Located in KwaZulu-Natal on the east coast of South Africa, on the warm shores of the Indian Ocean, Durban is the city where the sun never sets. It is a melting pot of African, European and Asian influences which heve led to a myriad of styles in the city. Architectural variety is expressed in the Victorian houses of the Berea, in the Hindu temples, the largest Mosque in the Southern Hemisphere in Grey Street, the skyscrapers in the CBD. It has many sides to it. Thanks to the beautiful, soft weather all year round, Durban is a real holiday paradise, with warm beaches lined by hotels and appartments with great views over the ocean. It's also a major buisness centre and a gateway to Africa, with its port (the busiest on the continent), airport, and many roads leading inland.
 
-  The name Durban comes from Sir Benjamin D'Urban, in 1835 the first successful European settler in the area. The area was colonised first by Dutch and later by English settlers. They brought over large groups of Indian labourers to work in the emerging sugar industry. Durban still houses the largest Indian population outside of India. This becomes clear when you walk the through the Grey Streets area and smell the spices and curries and see Indian women in traditional dress.
 
-  Surrounded by sugar cane fields and subtropical vegetation Durban is the perfect place to start your visit of KwaZulu-Natal. You can take a tour of one of the townships and experience a very special part of South African life, or wander around the harbour. This harbour was once a natural lagoon. This bay also gives Durban its Zulu name: eThekwini. Visitors arriving by boat enter the harbour mouth between the piers and against the green backdrop of the Bluff, a long unspoilt forested peninsula that provides protection from ocean winds. From the harbour there are uninterrupted views across the central city up to the residential Berea Ridge with its flowering trees in all the colours of the rainbow. On the other side of the harbour lies the Golden Mile, the Durban beachfront lined with hotels. On the beaches there are opportunities for all kinds of water sports. Swimming, scuba diving, surfing, sailing, fishing, everything is available.
+ 
+ The name Durban comes from Sir Benjamin D'Urban, in 1835 the first successful European settler in the area. The area was colonised first by Dutch and later by English settlers. They brought over large groups of Indian labourers to work in the emerging sugar industry. Durban still houses the largest Indian population outside of India. This becomes clear when you walk the through the Grey Streets area and smell the spices and curries and see Indian women in traditional dress.
 
-  But it's not just beaches and harbours that Durban's got to offer. The city also sports a fair amount of theatres, art galleries, shopping centres, museums, and a very respectable nightlife. You can take a leisurely walk trough town, take the kids to an amusement park, or dance the night away in a trendy nightclub. Durban caters for every taste.
+
+ 
+ Surrounded by sugar cane fields and subtropical vegetation Durban is the perfect place to start your visit of KwaZulu-Natal. You can take a tour of one of the townships and experience a very special part of South African life, or wander around the harbour. This harbour was once a natural lagoon. This bay also gives Durban its Zulu name: eThekwini. Visitors arriving by boat enter the harbour mouth between the piers and against the green backdrop of the Bluff, a long unspoilt forested peninsula that provides protection from ocean winds. From the harbour there are uninterrupted views across the central city up to the residential Berea Ridge with its flowering trees in all the colours of the rainbow. On the other side of the harbour lies the Golden Mile, the Durban beachfront lined with hotels. On the beaches there are opportunities for all kinds of water sports. Swimming, scuba diving, surfing, sailing, fishing, everything is available.
+
+
+ 
+ But it's not just beaches and harbours that Durban's got to offer. The city also sports a fair amount of theatres, art galleries, shopping centres, museums, and a very respectable nightlife. You can take a leisurely walk trough town, take the kids to an amusement park, or dance the night away in a trendy nightclub. Durban caters for every taste.

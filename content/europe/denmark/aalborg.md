@@ -1,6 +1,8 @@
 ---
 title: "Aalborg"
 type: location
+latitude: 57.046263
+longitude: 9.921526
 ---
 
 Aalborg is located in the north of Jutland. The local tourist board calls it the "little Paris of the North". Although this may seem a bit far fetched, the location by the Limfjord is truly superb, and the town is well worth a visit. 

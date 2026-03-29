@@ -1,6 +1,8 @@
 ---
 title: "Iowa"
 type: location
+latitude: 41.921673
+longitude: -93.31227
 ---
 
 Corn. Lots of Corn.

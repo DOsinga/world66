@@ -6,6 +6,8 @@ email: "degreegastrobar@xtra.co.nz"
 phone: "09 377 1200"
 type: "International"
 url: "www.degree.co.nz"
+latitude: -36.842641
+longitude: 174.76379
 ---
 
 This restaurant serves all kind of stonegrill food. They have mexican food as well.

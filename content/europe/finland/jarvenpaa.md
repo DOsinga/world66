@@ -1,6 +1,8 @@
 ---
 title: "Jarvenpaa"
 type: location
+latitude: 60.471081
+longitude: 25.087611
 ---
 
 We currently have no information about .

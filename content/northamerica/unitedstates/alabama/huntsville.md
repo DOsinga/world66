@@ -1,6 +1,8 @@
 ---
 title: "Huntsville"
 type: location
+latitude: 34.729847
+longitude: -86.585901
 ---
 
 Huntsville is the biggest city of North Alabama and a nice place to spend a few days - although you shouldn't expect anything spectacular. 

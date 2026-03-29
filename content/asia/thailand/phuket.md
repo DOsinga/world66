@@ -1,6 +1,8 @@
 ---
 title: "Phuket"
 type: location
+latitude: 7.936602
+longitude: 98.352929
 ---
 
 Phuket (pronounced 'Poo-ket') is a large island in the Indian Ocean about the size of Singapore and with some 40km (25 miles) of beach. It is located about 900 kms South from the capital Bangkok and connected to the mainland by a 100 meter long bridge 

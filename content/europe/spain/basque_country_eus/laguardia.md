@@ -1,6 +1,8 @@
 ---
 title: "Laguardia"
 type: location
+latitude: 42.553501
+longitude: -2.585085
 ---
 
 Laguardia is a small village built on a hill that overlooks the

@@ -7,6 +7,8 @@ email: "info@neworleansrum.com"
 phone: "5049459400"
 type: "Other"
 url: "www.neworleansrum.com"
+latitude: 29.986506
+longitude: -90.059135
 ---
 
 Alot of people do not even know this place exists and it is only a 10

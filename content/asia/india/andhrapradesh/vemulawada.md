@@ -1,6 +1,8 @@
 ---
 title: "Vemulawada"
 type: location
+latitude: 18.467479
+longitude: 78.8699
 ---
 
 Travel Guide

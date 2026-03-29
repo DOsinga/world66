@@ -1,6 +1,8 @@
 ---
 title: "Maruata"
 type: location
+latitude: 18.273235
+longitude: -103.348683
 ---
 
 Travel Guide

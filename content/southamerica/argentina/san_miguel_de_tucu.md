@@ -1,6 +1,8 @@
 ---
 title: "San Miguel de Tucuman"
 type: location
+latitude: -26.83037
+longitude: -65.203813
 ---
 
 Travel Guide

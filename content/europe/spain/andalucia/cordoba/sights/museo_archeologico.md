@@ -4,6 +4,8 @@ type: poi
 address: "Plaza Jeronimo 7"
 phone: "957 474 011"
 zipcode: "http://www.andalucia.com/cities/cordoba/archmus.htm"
+latitude: 33.622941
+longitude: -117.68396
 ---
 
 This museum had an early stroke of luck - the discovery of an actual Roman patio on site which, with some of its artefacts, is now incorporated.

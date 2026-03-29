@@ -1,6 +1,8 @@
 ---
 title: "Ojai"
 type: location
+latitude: 34.44805
+longitude: -119.242889
 ---
 
 We currently have no information about .

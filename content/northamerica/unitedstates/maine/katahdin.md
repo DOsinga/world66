@@ -1,6 +1,8 @@
 ---
 title: "Katahdin"
 type: location
+latitude: 45.903847
+longitude: -68.91454
 ---
 
 Katahdin is the end of the Apalachian Trail, or the beginning, depends on which way you are coming. Whitewater Rafting, Kayaking, Canoeing, Fishing, Boating, Foliage Viewing, Hiking, Photography, Snowmobiling, Moose Watching Tours: Four seasons of outdoor excitement and wonder await you in the Katahdin Region.

@@ -2,6 +2,8 @@
 title: "Mughal Gardens"
 type: poi
 type: "Parks & Gardens"
+latitude: 28.526041
+longitude: 77.186508
 ---
 
 Situated within the Presient's Estate, these gardens boast of the finest varieties of roses in the country besides other flowers which are maintained with the utmost care and thought. The lawns of the gardens is the place where the President hosts tea parties. Besides this there are several artificial ponds where one can get to see a variety of fish and perhaps one of the most interesting sights are the almost romantically designed fountains illuminated with multicoloured lights.

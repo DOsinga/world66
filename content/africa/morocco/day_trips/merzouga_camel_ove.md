@@ -5,6 +5,8 @@ address: "Merzouga, Morocco"
 email: "merzouga.excursions@gmail.com"
 phone: "00212666304194"
 url: "www.Merzouga-Excursions.com"
+latitude: 31.099917
+longitude: -4.014088
 ---
 
 Morocco Desert Tours, Camps OverNight In Erg Chebbi Dunes

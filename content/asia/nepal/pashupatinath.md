@@ -1,6 +1,8 @@
 ---
 title: "Pashupatinath"
 type: location
+latitude: 27.710677
+longitude: 85.348116
 ---
 
 Pashupatinath is to the Hindus in Nepal what Varanasi is to the Hindus in India: a sacred city where Hindus come (to die and) to be cremated. The Hindu religious belief is that dying and being cremated in Pashupatinath and having your ashes scattered in the Bagmati river will give you salvation. The water of the Bagmati is holy because it eventually flows into the holy Ganges river. In this way, the Hindu will be released from the cycles of rebirth, the ultimate object worth pursuing. 

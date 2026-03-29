@@ -1,6 +1,8 @@
 ---
 title: "Puerto Penasco"
 type: location
+latitude: 31.530172
+longitude: -113.389719
 ---
 
 Travel Guide

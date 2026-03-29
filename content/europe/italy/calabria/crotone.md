@@ -1,6 +1,8 @@
 ---
 title: "Steccato"
 type: location
+latitude: 42.545713
+longitude: 13.124021
 ---
 
 Travel Guide

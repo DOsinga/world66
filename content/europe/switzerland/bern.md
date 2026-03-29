@@ -1,6 +1,8 @@
 ---
 title: "Bern"
 type: location
+latitude: 46.948474
+longitude: 7.452175
 ---
 
 Switzerland’s capital city (pop. 136 000) is beautiful. It was destroyed by a fire in 1405 and then totally rebuilt so it has many fine examples of early-15th-century architecture—so many that the U.N. has declared it a World Heritage site. Climb to the top of the cathedral for a sweeping view of the city. The thick-walled stone houses in the Old Town are brightened by boxes of geraniums on the balconies; providing sharp contrast are majestic green-domed government buildings that hang on a high bluff overlooking the Aare River, Europes fastest flowing river.

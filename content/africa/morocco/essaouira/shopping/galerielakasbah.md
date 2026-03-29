@@ -2,8 +2,11 @@
 title: "Galerie la Kasbah"
 type: poi
 type: "general"
+latitude: 35.788513
+longitude: -5.814579
 ---
 
-4, rue de Tétouan  Tél. : (212 4) 447 36 82
+4, rue de Tétouan 
+ Tél. : (212 4) 447 36 82
 
 type: general

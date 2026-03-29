@@ -1,6 +1,8 @@
 ---
 title: "Yakutsk"
 type: location
+latitude: 62.027408
+longitude: 129.731979
 ---
 
 Travel Guide

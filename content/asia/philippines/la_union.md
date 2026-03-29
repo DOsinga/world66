@@ -1,6 +1,8 @@
 ---
 title: "La Union"
 type: location
+latitude: 16.573596
+longitude: 120.40899
 ---
 
 Travel Guide

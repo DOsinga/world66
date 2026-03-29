@@ -7,6 +7,8 @@ email: "contact@sofianights.com"
 phone: "(+35902) 9166 777"
 url: "sofianights.com"
 zipcode: "1000"
+latitude: 43.805687
+longitude: 25.922072
 ---
 
 The new Rio Restaurant offers** **Rodizio - a unique Brazilian

@@ -1,6 +1,8 @@
 ---
 title: "Ranger"
 type: location
+latitude: 32.470573
+longitude: -98.680822
 ---
 
 Travel Guide

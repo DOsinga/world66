@@ -3,6 +3,8 @@ title: "Bubble"
 type: poi
 address: "PornPing Tower Hotel ChiangMai"
 type: "Casinos"
+latitude: 18.785273
+longitude: 99.0023
 ---
 
 PornPing Tower Hotel ChiangMai

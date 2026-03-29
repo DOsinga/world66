@@ -1,6 +1,8 @@
 ---
 title: "Yeghegnadzor"
 type: location
+latitude: 39.760101
+longitude: 45.330227
 ---
 
 Travel Guide

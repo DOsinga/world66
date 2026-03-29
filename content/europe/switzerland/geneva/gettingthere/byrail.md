@@ -1,6 +1,8 @@
 ---
 title: "By Rail"
 type: poi
+latitude: 46.942901
+longitude: 7.457809
 ---
 
 Geneva is linked to many European and Swiss cities by rail.

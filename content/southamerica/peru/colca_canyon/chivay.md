@@ -1,6 +1,8 @@
 ---
 title: "Chivay"
 type: location
+latitude: -15.636688
+longitude: -71.602217
 ---
 
 Travel Guide

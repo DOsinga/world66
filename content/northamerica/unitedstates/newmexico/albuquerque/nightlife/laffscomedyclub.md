@@ -5,6 +5,8 @@ address: "3100 Juan Tabo Blvd NE # D,"
 phone: "(505)296-5653"
 type: "Clubs"
 zipcode: "Albuquerque, NM"
+latitude: 35.099185
+longitude: -106.515326
 ---
 
 type: Clubs

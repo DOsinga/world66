@@ -1,6 +1,8 @@
 ---
 title: "Blagoevgrad"
 type: location
+latitude: 41.750287
+longitude: 23.487341
 ---
 
 Located some 100 km. south of [Sofia](/europe/bulgaria/sofia), Blagoevgrad is home to the American University in Bulgaria (AUBG), founded there in 1990 and the Bulgarian South Western University. At AUBG English is the language of instruction and evaluation procedures follow the US academic system. Most of the faculty are American scholars.

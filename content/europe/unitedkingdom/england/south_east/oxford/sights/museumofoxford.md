@@ -5,6 +5,8 @@ address: "St. Aldate's"
 opening_hours: "Tues-Sat 10am-5pm"
 phone: "01865 815559"
 type: "Museums"
+latitude: 51.746723
+longitude: -1.256379
 ---
 
 type: Museums

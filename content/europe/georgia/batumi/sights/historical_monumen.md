@@ -2,6 +2,8 @@
 title: "Historical Monuments"
 type: poi
 type: "Landmarks"
+latitude: 42.043796
+longitude: -82.601998
 ---
 
 Gonio-Apsaros Fortress had a unique strategic importance. It protected the entrances to chorokhi and western inlands to the black sea coast. Its location was what made the Gonio Fortress, one of the citadels of the Roman Empire and later Byzantine. It is a region where Cholchic bronze culture and the first Georgian state unions found their birthplace. According to Roman and Byzantine sources, Apsaros was formed as a settlement during that period. Its history is closely connected to the myth of the Argonauts. According to legend, this is the site where king ayet buried his son Apsaros, whose body was dismembered and thrown into the sea by Jason. One of the twelve apostles of christ, or St Mathias, is also buried in apsaros.

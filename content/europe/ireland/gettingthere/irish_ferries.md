@@ -1,6 +1,8 @@
 ---
 title: "Irish Ferries"
 type: poi
+latitude: 53.348753
+longitude: -6.202168
 ---
 
 Irish Ferries operate top quality ferry services from Dublin to Holyhead ([Wales](/europe/unitedkingdom/wales)) and from Rosslare to Pembroke ([Wales](/europe/unitedkingdom/wales)), Cherbourg ([France](/europe/france)) and Roscoff ([France](/europe/france)). Special offers are often given on internet bookings.

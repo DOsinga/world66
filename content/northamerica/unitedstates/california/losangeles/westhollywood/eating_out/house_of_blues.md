@@ -3,6 +3,8 @@ title: "House of Blues"
 type: poi
 type: "American"
 url: "www.hob.com"
+latitude: 41.888244
+longitude: -87.629109
 ---
 
 The House of Blues offers live

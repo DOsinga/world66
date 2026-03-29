@@ -5,6 +5,8 @@ address: "Brasov - 500041, Sirul Livezii 2"
 email: "office@taxi4u.ro"
 phone: "+4 0722 405 646"
 url: "www.taxi4u.ro"
+latitude: 45.646096
+longitude: 25.587675
 ---
 
 Trips, Tours, Transfers, Travel.

@@ -7,6 +7,8 @@ email: "hillec@gmail.com"
 phone: "02-6262762"
 type: "International"
 url: "cprestaurant.googlepages.com"
+latitude: 24.429929
+longitude: 54.572085
 ---
 
 Since the residents come from so many countries you can easily find out different cuisine of restaurants. The most important things is that the independent restaurants out side hotels are much cheaper and much specific. It is believed that you can enjoy the food with more cash comfortable than many countries.

@@ -1,6 +1,8 @@
 ---
 title: "Alba"
 type: location
+latitude: 44.700724
+longitude: 8.035779
 ---
 
 Travel Guide

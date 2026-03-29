@@ -1,6 +1,8 @@
 ---
 title: "Iraq"
 type: location
+latitude: 33.095579
+longitude: 44.174977
 ---
 
 Iraq is the country of Mesopotamia or Land Between the Rivers in classical times. It has a subtropical climate, with a tendency in direction of continental climate in the north. Iraq is very dependent on water from Tigris and Euphrates, as there is little rain falling here. The west and south is mostly stone desert. The country became known as Iraq in the 7th century. It’s the land were paradise allegedly once was. The region's extensive alluvial plains gave rise to the world's earliest civilizations, though in recent times it was not all that civilized. The modern Iraq was created in the aftermath of World War I and gained independence in 1932. Since then there was war on Iran, Syria, and most recently the invasion of Kuwait that led to the Gulf War. Internally the country has known violent uprising of Kurdish minorities answered by bloody suppression. After the monarchy was overthrown in 1958 there was a period of political instability with coups and countercoups until Saddam Hussein seized power in the 70s. 

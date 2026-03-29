@@ -1,6 +1,8 @@
 ---
 title: "Bakkhali"
 type: location
+latitude: 21.560769
+longitude: 88.267317
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ address: "33040"
 closing_time: "12 Noon to 6 A.M"
 email: "choices.barichoroad@gmail.com"
 type: "Pubs"
+latitude: 46.097682
+longitude: 13.392848
 ---
 
 Coolest club for mature clientelle, guaranteed no young boy or girl will jump onto your toes. Lovely and clashy upmarket clientelle. Playing more of international music including rock mix by Kenya's finest rock deejay Jack and every Sundays, local Live band performances by Juma and The Tutu Band every Thursday, Dj Morris and Dj Shady on the deck Fridays and Saturday respectively.

@@ -1,6 +1,8 @@
 ---
 title: "Qalaat al mudiq"
 type: location
+latitude: 35.420126
+longitude: 36.392623
 ---
 
 We currently have no information about Qalaat al mudiq.

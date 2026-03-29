@@ -1,6 +1,8 @@
 ---
 title: "Jibla"
 type: location
+latitude: 13.922493
+longitude: 44.145761
 ---
 
 We currently have no information about Jibla.

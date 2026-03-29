@@ -1,6 +1,8 @@
 ---
 title: "Salar de Uyuni"
 type: location
+latitude: -20.204264
+longitude: -67.514995
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Termez"
 type: location
+latitude: 37.244247
+longitude: 67.283151
 ---
 
 Travel Guide

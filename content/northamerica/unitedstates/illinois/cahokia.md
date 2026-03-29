@@ -1,6 +1,8 @@
 ---
 title: "Cahokia"
 type: location
+latitude: 38.566161
+longitude: -90.179424
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "124, haram street, giza, egypt"
 email: "info@middleeastonlinetravel.com"
 phone: "01143151569"
 url: "www.middleeastonlinetravel.com"
+latitude: 29.781817
+longitude: 31.284695
 ---
 
 Egypt and Middle East Tour Packages Itinerary:-

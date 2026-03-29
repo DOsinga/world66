@@ -5,6 +5,8 @@ address: "Rua de S. Bento, 70"
 email: "museus@cm-viladoconde.pt"
 phone: "252248470"
 zipcode: "4480-782 Vila do Conde"
+latitude: 37.927209
+longitude: -7.410427
 ---
 
 **Museum of Bilros Lace**

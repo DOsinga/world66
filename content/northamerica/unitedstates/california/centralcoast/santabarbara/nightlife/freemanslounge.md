@@ -5,6 +5,8 @@ address: "2711 De La Vina St"
 phone: "(805) 687-1144"
 type: "Lounges"
 zipcode: "Santa Barbara, CA 93105"
+latitude: 34.435573
+longitude: -119.725357
 ---
 
 type: Lounges

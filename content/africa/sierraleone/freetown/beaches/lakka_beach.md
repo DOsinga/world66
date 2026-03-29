@@ -1,6 +1,8 @@
 ---
 title: "Lakka Beach"
 type: poi
+latitude: 8.391484
+longitude: -13.263881
 ---
 
 Half way to River Number 2 is Lakka Beach. Not as remote as the beaches

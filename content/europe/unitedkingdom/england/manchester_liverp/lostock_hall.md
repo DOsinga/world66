@@ -1,6 +1,8 @@
 ---
 title: "Lostock Hall"
 type: location
+latitude: 53.72435
+longitude: -2.687001
 ---
 
 A suburb of Preston notable for being the location of the headquarters of the International **Calvary Fellowship** - a hardline Christian fundamentalist group. Lostock Hall was named in 2004 as the preferred site for the pioneering Asylum and Refugee Societal Exchange Programme: A.R.S.E.P.

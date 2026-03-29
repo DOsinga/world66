@@ -4,6 +4,8 @@ type: poi
 address: "Taunusanlage 12"
 phone: "+49 (0)69 724 07 95"
 type: "Latin American"
+latitude: 50.113513
+longitude: 8.668363
 ---
 
 type: Latin American

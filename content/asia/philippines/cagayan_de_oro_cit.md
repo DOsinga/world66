@@ -1,6 +1,8 @@
 ---
 title: "Cagayan de Oro City"
 type: location
+latitude: 8.486071
+longitude: 124.656805
 ---
 
 Travel Guide

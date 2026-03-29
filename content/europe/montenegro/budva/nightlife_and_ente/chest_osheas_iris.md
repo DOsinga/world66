@@ -7,6 +7,8 @@ email: "chestosheas@gmail.com"
 phone: "0038269579468"
 type: "Pubs"
 url: "www.chestosheas.com"
+latitude: 42.278178
+longitude: 18.837901
 ---
 
 A really friendly and lively little pub located in Budva Old Town perfect for a few relaxed pints of Guinness or watching a bit of live sport. Always good craic, with a nice mixed crowd and occasional random sessions and sing songs depending on the crowd.

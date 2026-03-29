@@ -1,6 +1,8 @@
 ---
 title: "Ingleton"
 type: location
+latitude: 54.154358
+longitude: -2.467275
 ---
 
 Ingleton is on the west side of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales) and has a small national park information office in the main carpark. It is located among some great limestone scenery. 

@@ -1,6 +1,8 @@
 ---
 title: "Kyustendil"
 type: location
+latitude: 42.334943
+longitude: 22.888412
 ---
 
 We currently have no information about Kyustendil.

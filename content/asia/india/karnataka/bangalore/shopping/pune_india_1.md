@@ -7,6 +7,8 @@ email: "sales@globalflowerdelivery.com"
 phone: "912026133809"
 type: "Speciality shops"
 url: "www.mumbaigiftsflowers.com"
+latitude: 18.521374
+longitude: 73.854507
 ---
 
 Send flowers to Pune, gifts, cakes,

@@ -1,6 +1,8 @@
 ---
 title: "Corsica"
 type: location
+latitude: 42.188098
+longitude: 9.068314
 ---
 
 Although Corsica is still ruled by France, one can hardly deny the Italian atmosphere the island exhales. The island is, except for a few cities on the coasts, such as [Ajaccio](/europe/france/corsica/ajaccio) and [Bastia](/europe/france/corsica/bastia) , not densely populated. As a result, Corsica still exists of vast areas of unspoiled scenery. Hence why its inhabitants (round and about a quarter of a million) call it the Island of Beauty to which you can probably only agree when you see the versatile character composed of lakes and snow-capped mountains. 

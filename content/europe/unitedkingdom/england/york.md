@@ -1,6 +1,8 @@
 ---
 title: "York"
 type: location
+latitude: 53.965658
+longitude: -1.074305
 ---
 
 You’ll love York. On the one hand, it’s a thriving modern city with modern shopping areas and two universities. On the other hand, you'll find constant reminders of its Roman, Viking and Medieval past. The city is surrounded by walls that have a Roman base. They were rebuilt by the Saxons, destroyed by William the Conqueror and rebuilt, first by the Normans and then in the 14th century in much the same form as today. One of the four impressive gateways, Monk Bar, has a small museum where you can trace the impact of one of York’s famous citizens, Richard III. 

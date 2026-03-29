@@ -1,6 +1,8 @@
 ---
 title: "Quweira"
 type: location
+latitude: 29.805227
+longitude: 35.311861
 ---
 
 The last stop before you head into the wilderness of Wadi Rumm. 

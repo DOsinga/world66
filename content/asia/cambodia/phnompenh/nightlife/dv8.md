@@ -7,6 +7,8 @@ email: "info@dv8-cambodia.com"
 phone: "(855) 12 620 441"
 type: "Erotic clubs and bars"
 url: "www.dv8-cambodia.com"
+latitude: 11.568711
+longitude: 104.926609
 ---
 
 A great way to start or finish your night in Phnom Penh. Ideal for the single man but also very friendly to everyone.

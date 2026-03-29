@@ -1,6 +1,8 @@
 ---
 title: "Wilmington"
 type: location
+latitude: 39.745947
+longitude: -75.546589
 ---
 
 Founded in 1731 as Willingtown, Wilmington is the corporate capital of the world, with over half of the Fortune 500 companies incorporated there. Home to DuPont and MBNA America, Wilmington is the biggest city in the state of Delaware.

@@ -1,6 +1,8 @@
 ---
 title: "Island Solta"
 type: location
+latitude: 43.369525
+longitude: 16.324983
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Antioch"
 type: location
+latitude: 38.00933
+longitude: -121.810693
 ---
 
 Travel Guide

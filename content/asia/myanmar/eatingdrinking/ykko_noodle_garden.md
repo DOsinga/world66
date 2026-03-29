@@ -5,6 +5,8 @@ accessibility: "very accessible"
 address: "Saya San Rd, Yangon, Myanmar"
 price: "$2 or so"
 type: "International"
+latitude: 16.823094
+longitude: 96.162381
 ---
 
 **YKKO Noodles Saya San Road, Yangon, Myanmar****

@@ -1,6 +1,8 @@
 ---
 title: "hutu"
 type: location
+latitude: -8.905158
+longitude: -140.042294
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "La Mancha"
 type: location
+latitude: 28.377437
+longitude: -16.69775
 ---
 
 La Mancha is part of Castille. It is formed by five territories [Toledo](/europe/spain/centralspain/toledo), [Ciudad Real](/europe/spain/centralspain/ciudadreal), [Albacete](/europe/spain/la_mancha/albacete), [Cuenca](/southamerica/ecuador/cuenca) and [Guadalajara](/northamerica/mexico/guadalajara).

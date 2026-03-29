@@ -1,6 +1,8 @@
 ---
 title: "Nyungwe National Park"
 type: location
+latitude: -2.559061
+longitude: 29.293926
 ---
 
 Travel Guide

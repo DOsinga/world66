@@ -2,6 +2,8 @@
 title: "By Air"
 type: poi
 type: "By Air"
+latitude: 47.346768
+longitude: -3.15354
 ---
 
 Grenoble Airport is about 50km from the city. Low cost airlines such

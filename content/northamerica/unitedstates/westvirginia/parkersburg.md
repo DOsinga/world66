@@ -1,6 +1,8 @@
 ---
 title: "Parkersburg"
 type: location
+latitude: 39.266731
+longitude: -81.562076
 ---
 
 Parkersburg is located in northwest [West Virginia](/northamerica/unitedstates/westvirginia) on the Ohio River. It is a small port city. 

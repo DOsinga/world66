@@ -3,6 +3,8 @@ title: "Dome cathedral"
 type: poi
 accessibility: "3 EUR per person"
 type: "Churches and Cathedrals"
+latitude: 56.949099
+longitude: 24.10477
 ---
 
 One of the oldests structures in Riga contains one of the biggest organs in the world with 6718 pipes.

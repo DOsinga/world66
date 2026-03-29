@@ -1,6 +1,8 @@
 ---
 title: "Estonia"
 type: location
+latitude: 58.752378
+longitude: 25.331908
 ---
 
 The most northern of the three Baltic States, Estonia has fared well since the break up of the Soviet Union. When in the capital Talinn you notice right away that people are doing well. 

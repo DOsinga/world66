@@ -1,6 +1,8 @@
 ---
 title: "Hotel in Fier"
 type: location
+latitude: 40.724566
+longitude: 19.560128
 ---
 
 Travel Guide

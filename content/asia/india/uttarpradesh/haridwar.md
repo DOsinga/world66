@@ -1,6 +1,8 @@
 ---
 title: "Haridwar"
 type: location
+latitude: 29.912351
+longitude: 78.008718
 ---
 
 **Haridwar** stands as the gateway to the four pilgrimages of Uttrakhand. Geographically and geological, Haridwar, lying at the feet of Shiva's hills, i.e., Shivaliks, in the Haridwar district of Uttar Pradesh, is a doorway. It is at Haridwar that Kumbh fairs are held when millions of devote hindus take the holy dip in the holiest of India's rivers. Mythological, drops of the nectar churned out from the world ocean fell at four places- Haridwar, Prayag (Allahabad), Ujjain and Nasik- the four sites of Kumbh fair. Haridwar mentioned as Mayapuri, Gangadwar, Mokshadwar in the ancient scriptures and epics, Haridwar has always remained as a major ShaktiPeeth for the devotees. Of such significance is Haridwar in the thought of India's traditional Hindus that is has earned its sobriquet of honor, 'The Gateway to the Gods' 

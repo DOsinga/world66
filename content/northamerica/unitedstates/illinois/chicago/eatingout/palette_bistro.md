@@ -7,6 +7,8 @@ phone: "773 477 2565"
 price: "entrees: $14-29"
 type: "American"
 url: "www.paletteonsouthport.com"
+latitude: 41.933508
+longitude: -87.663886
 ---
 
 Palette Bistro is a romantic American restaurant in Chicago's Lakeview neighborhood. They serve dinner Tuesday through Sunday starting at 5pm and brunch on the weekends. Palette Bistro has a full bar and affordable wine list. Outdoor seating is available in the summer.

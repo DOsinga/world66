@@ -1,6 +1,8 @@
 ---
 title: "Kitakyushu"
 type: location
+latitude: 33.883
+longitude: 130.874901
 ---
 
 Kitakyushu is a metropolitan city of two million people located midway between [Tokyo](/asia/japan/tokyo) and [Shanghai](/asia/china/shanghai), China. The area has been an important trade center since ancient times, and an important industrial area in more recent times. Kitakyushu City was created in 1963 with the world's first five-city merger.

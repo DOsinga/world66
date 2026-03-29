@@ -1,6 +1,8 @@
 ---
 title: "Kisumu City"
 type: location
+latitude: -0.102911
+longitude: 34.754176
 ---
 
 Travel Guide

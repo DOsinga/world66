@@ -1,6 +1,8 @@
 ---
 title: "Russell"
 type: location
+latitude: -35.261792
+longitude: 174.121529
 ---
 
 Travel Guide

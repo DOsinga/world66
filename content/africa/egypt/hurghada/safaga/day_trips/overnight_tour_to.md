@@ -5,6 +5,8 @@ address: "Hurghada, Egypt"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Two days trip to **Luxor** from **port Safaga **to visit famous sightseeing of West and East banks of Nile River with private vehicle and private guide in** Luxor**.

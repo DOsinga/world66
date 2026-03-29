@@ -1,6 +1,8 @@
 ---
 title: "Ushuaia"
 type: location
+latitude: -54.807306
+longitude: -68.308413
 ---
 
 Travel Guide

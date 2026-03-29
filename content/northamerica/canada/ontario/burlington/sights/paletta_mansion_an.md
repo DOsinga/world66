@@ -5,6 +5,8 @@ address: "4250 Lakeshore Road"
 phone: "(905) 632-7809"
 type: "Parks, Gardens and Zoos"
 url: "cms.burlington.ca"
+latitude: 43.353264
+longitude: -79.754795
 ---
 
 **Paletta Lakefront Park** is located on the shores of Lake Ontario adjacent to Shoreacres Creek.

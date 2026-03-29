@@ -1,6 +1,8 @@
 ---
 title: "Kristiansund"
 type: location
+latitude: 63.216819
+longitude: 7.545259
 ---
 
 **KRISTIANSUND** (Kristiansund N)

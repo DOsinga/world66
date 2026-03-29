@@ -1,6 +1,8 @@
 ---
 title: "Wolferton"
 type: location
+latitude: 52.829321
+longitude: 0.462582
 ---
 
 Travel Guide

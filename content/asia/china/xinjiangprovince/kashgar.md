@@ -1,6 +1,8 @@
 ---
 title: "Kashgar"
 type: location
+latitude: 39.466598
+longitude: 75.990014
 ---
 
 The oasis of Kasghar with a view of the last tops of West Himalaya is the last stop in China on the Silk Road. From here you can go to [Pakistan](/asia/pakistan) over the Karakoram or to [Kyrgyzstan](/asia/kyrgyzstan) over the Torugart pass.

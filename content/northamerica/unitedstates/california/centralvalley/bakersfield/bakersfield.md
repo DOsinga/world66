@@ -1,6 +1,8 @@
 ---
 title: "Bakersfield"
 type: location
+latitude: 35.373871
+longitude: -119.019463
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Peniscola"
 type: location
+latitude: 40.357784
+longitude: 0.407379
 ---
 
 Travel Guide

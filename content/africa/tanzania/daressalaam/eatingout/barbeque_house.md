@@ -4,6 +4,8 @@ type: poi
 address: "ALYKHAN ROAD, UPANGA"
 price: "REASONABLE"
 type: "Indian and Pakistani"
+latitude: -6.811186
+longitude: 39.281426
 ---
 
 SERVING DELICIOUS BARBEQUE CHICKEN, MISHKAKI AND FISH SEKELA.

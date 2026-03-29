@@ -4,6 +4,8 @@ type: poi
 address: "Bhatti Gate, Lahore"
 opening_hours: "By Invitation"
 url: "www.Fakirkhana.com"
+latitude: 31.578937
+longitude: 74.308878
 ---
 
 Fakir Khana Museum "the largest antiques collection in south Asia" is

@@ -5,6 +5,8 @@ address: "Segovia"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 40.948119
+longitude: -4.11721
 ---
 
 Half Day tour with a private guide to visit Segovia's Roman Aqueduct and Alcazar. 

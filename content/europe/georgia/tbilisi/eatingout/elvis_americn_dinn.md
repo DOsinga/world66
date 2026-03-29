@@ -5,6 +5,8 @@ address: "usa"
 email: "isacc@ngm.com"
 phone: "00165656434"
 type: "International"
+latitude: 39.78373
+longitude: -100.445882
 ---
 
 restaurant** elvis americn dinner** in tbilisi very nice the restaurant in Philharmonic house

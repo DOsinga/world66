@@ -1,6 +1,8 @@
 ---
 title: "Xiangfan"
 type: location
+latitude: 32.010998
+longitude: 112.116378
 ---
 
 Travel Guide

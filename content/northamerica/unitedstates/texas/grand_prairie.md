@@ -1,6 +1,8 @@
 ---
 title: "Grand Prairie"
 type: location
+latitude: 32.745964
+longitude: -96.997785
 ---
 
 Travel Guide

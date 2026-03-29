@@ -1,6 +1,8 @@
 ---
 title: "Hainan island"
 type: location
+latitude: 19.160286
+longitude: 109.628891
 ---
 
 Situated in the southernmost of China, well-known for its “the end of sky and the rim of the sea?(Tianyahaijiao), Hainan Island, is the famous scenic spot in China for its golden beach, blue sea and the tropical climate. The province is administratively divided into the Hainan, Nansha, Xisha, Zhongsha islands, etc. Also having 3 municipalities, 16 counties and the agencies of the Xisha, Nansha, Zhongsha islands. 

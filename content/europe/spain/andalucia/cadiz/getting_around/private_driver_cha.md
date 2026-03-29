@@ -5,6 +5,8 @@ address: "Cadiz"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 10.956652
+longitude: 123.305703
 ---
 
 If Cadiz is on your itinerary for a stop during

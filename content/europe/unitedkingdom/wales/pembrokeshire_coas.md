@@ -1,6 +1,8 @@
 ---
 title: "Pembrokeshire Coast National Park"
 type: location
+latitude: 52.016855
+longitude: -4.825811
 ---
 
 Pembrokeshire is at the south-west of Wales with a long coast line because of a major indentation from the west. There are beaches galore, some being practically like resorts with donkeys, such as Broad Haven and Little Haven. At the other end of the spectrum are Druidson Haven, whose inadequate parking keeps it quiet and those which need a walk like some near the cathedral cty, the smallest in Britain, of St. David's. 

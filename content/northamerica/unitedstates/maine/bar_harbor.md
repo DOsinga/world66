@@ -1,6 +1,8 @@
 ---
 title: "Bar Harbor"
 type: location
+latitude: 44.387638
+longitude: -68.204336
 ---
 
 Travel Guide

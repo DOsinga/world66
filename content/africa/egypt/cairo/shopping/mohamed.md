@@ -7,6 +7,8 @@ email: "mohamedkaren@aol.com"
 phone: "0020233453549"
 type: "Markets"
 url: "www.karenscoffee.com"
+latitude: 30.044388
+longitude: 31.235726
 ---
 
 **Karen’s is a modern café in Egypt. It has built its success by providing simple, elegant and clean environment with a modern atmosphere. With very reasonable prices it’s a popular choice for socialising.

@@ -3,6 +3,8 @@ title: "Krka National Park"
 type: poi
 type: "Parks, Gardens and Zoos"
 url: "www.dalmacijalink.com"
+latitude: 43.918919
+longitude: 15.978529
 ---
 
 **The Krka National Park is a spacious, largely unchanged region of exceptional and multifaceted natural value, and includes one or more preserved or insignificantly altered ecosystems. **

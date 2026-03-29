@@ -6,6 +6,8 @@ email: "sunwraywes@aol.com"
 phone: "909/793-2031"
 type: "Other"
 url: "www.edwardsmansion.com"
+latitude: 34.069501
+longitude: -117.22312
 ---
 
 The magnificent Edwards mansion was built on

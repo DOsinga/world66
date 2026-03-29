@@ -1,6 +1,8 @@
 ---
 title: "Mohammedia"
 type: location
+latitude: 33.695838
+longitude: -7.389329
 ---
 
 Travel Guide

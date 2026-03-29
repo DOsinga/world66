@@ -1,6 +1,8 @@
 ---
 title: "Faisalabad"
 type: location
+latitude: 31.422056
+longitude: 73.092325
 ---
 
 Travel Guide

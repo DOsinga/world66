@@ -2,6 +2,8 @@
 title: "UGC De Brouckère"
 type: poi
 type: "Cinemas"
+latitude: 50.851722
+longitude: 4.352378
 ---
 
 Nice modern cinema complex in the centre of Brussels near 'De Munt'/'La Monnaie', the city's big concerthalls. It is easy accesible by underground or by foot. It has several normal sized rooms and one special big room called 'el dorado' where the big blockbusters are played. This room's walls are painted white and gold and one can notice different animals and plants, especially carved into the walls with the use of gold. A great visual experience is guarenteed!

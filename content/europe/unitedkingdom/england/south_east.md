@@ -1,6 +1,8 @@
 ---
 title: "South East"
 type: location
+latitude: 51.468032
+longitude: -0.066685
 ---
 
 South of [London](/europe/unitedkingdom/england/london) you find a region that is steeped in history, but whose towns and cities buzz with life.

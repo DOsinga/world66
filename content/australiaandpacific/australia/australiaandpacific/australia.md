@@ -1,6 +1,8 @@
 ---
 title: "Australia"
 type: location
+latitude: -24.776109
+longitude: 134.755
 ---
 
 Australia is and always has been an immigration country. About 40,000 years ago, the Aborigines were the first to settle. They lived as hunters and gatherers in a and profound understanding for nature. Their way of living developed into a complex culture based on oral tradition and intricate social bounds, which was almost destroyed by the second wave of settlers. 

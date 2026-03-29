@@ -1,6 +1,8 @@
 ---
 title: "Bicol"
 type: location
+latitude: 13.076449
+longitude: 123.516239
 ---
 
 The Bicol Region, also known as Region V, is a political subdivision

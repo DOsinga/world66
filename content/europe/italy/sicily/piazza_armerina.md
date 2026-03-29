@@ -1,6 +1,8 @@
 ---
 title: "Piazza Armerina"
 type: location
+latitude: 37.385946
+longitude: 14.367174
 ---
 
 Travel Guide

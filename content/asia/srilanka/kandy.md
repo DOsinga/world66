@@ -1,6 +1,8 @@
 ---
 title: "Kandy"
 type: location
+latitude: 7.293121
+longitude: 80.635036
 ---
 
 Kandy, the second largest city in Sri Lanka lies 2hrs30 mins north east of the capital Colombo. Whilst not as polluted and hectic as Columbo, Kandy is still a bustling city, albeit with a small town feel. A large lake dominates the centre of the city while Sri Lanka's famous Temple of the Tooth sits noisily alongside. If you're staying near the temple, be prepared to be woken up with buddha prayers through [very] loudspeakers at 12am, 4am and 7am on a bad day. All very amusing, and strangely endearing though! 

@@ -2,6 +2,8 @@
 title: "Bhandardara"
 type: poi
 url: "www.maharashtratourism.gov.in"
+latitude: 19.555131
+longitude: 73.755842
 ---
 
 Bhandardara – the perfect weekend getaway for the stressed out Mumbaikar! Situated at a distance of about 180kms, it can be reached in about three to four hours from Mumbai.

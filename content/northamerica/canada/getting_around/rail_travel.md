@@ -1,6 +1,8 @@
 ---
 title: "Rail Travel"
 type: poi
+latitude: 49.510673
+longitude: -115.774115
 ---
 
 More than 100 years ago construction of the Canadian Pacific Railway

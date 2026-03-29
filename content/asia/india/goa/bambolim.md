@@ -1,6 +1,8 @@
 ---
 title: "Bambolim"
 type: location
+latitude: 15.454921
+longitude: 73.846448
 ---
 
 Travel Guide

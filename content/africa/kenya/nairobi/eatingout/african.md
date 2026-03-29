@@ -1,6 +1,8 @@
 ---
 title: "African"
 type: poi
+latitude: -0.5
+longitude: 37.0
 ---
 
 **Restaurants**
@@ -71,6 +73,7 @@ tel: (254)-02-241197
 
 **Daas Ethiopian Restaurant**
 
- A very popular place serving great Ethiopian food. If in doubt, order the mixed dish and sample a variety of tastes. Try the Ethiopian wine tej, made with honey, and the strong Ethiopian coffee r[more..](/africa/kenya/nairobi/eatingout/african/daasethiopianrestaurant)
+
+ A very popular place serving great Ethiopian food. If in doubt, order the mixed dish and sample a variety of tastes. Try the Ethiopian wine tej, made with honey, and the strong Ethiopian coffee r[more..](/africa/kenya/nairobi/eatingout/african/daasethiopianrestaurant)
 
 address: Lenana Road

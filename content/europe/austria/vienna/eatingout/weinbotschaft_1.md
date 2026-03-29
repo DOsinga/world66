@@ -6,6 +6,8 @@ email: "weinbotschaft@weinbotschaft.at"
 phone: "+43/1/512 85 10"
 type: "First Class"
 url: "www.weinbotschaft.at"
+latitude: 48.204163
+longitude: 16.372335
 ---
 
 Normal

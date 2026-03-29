@@ -1,6 +1,8 @@
 ---
 title: "Cuddapah"
 type: location
+latitude: 14.49566
+longitude: 78.834928
 ---
 
 We currently have no information about Cuddapah.

@@ -4,6 +4,8 @@ type: section
 address: "UK/Erie"
 type: "By Air"
 url: "www.ryanair.com"
+latitude: 53.473337
+longitude: -2.289152
 ---
 
 You can fly from the UK to Santiago with Ryanair. The journey by road will be about

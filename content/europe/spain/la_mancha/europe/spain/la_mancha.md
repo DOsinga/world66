@@ -1,6 +1,8 @@
 ---
 title: "Castille - La Mancha"
 type: location
+latitude: 39.017435
+longitude: -3.749094
 ---
 
 La Mancha is part of Castille. It is formed by five territories

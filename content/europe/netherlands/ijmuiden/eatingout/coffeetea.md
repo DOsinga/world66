@@ -1,6 +1,8 @@
 ---
 title: "Coffee & Tea"
 type: poi
+latitude: 52.380994
+longitude: 4.883982
 ---
 
 **Restaurants**

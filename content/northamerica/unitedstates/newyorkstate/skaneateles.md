@@ -1,6 +1,8 @@
 ---
 title: "Skaneateles"
 type: location
+latitude: 42.947011
+longitude: -76.429102
 ---
 
 Travel Guide

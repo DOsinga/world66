@@ -2,6 +2,8 @@
 title: "Makasiinit"
 type: poi
 type: "Landmarks"
+latitude: 60.165171
+longitude: 24.951984
 ---
 
 Almost burned down on the first of may 2006. ( And finally week later someone burned southern wing.)

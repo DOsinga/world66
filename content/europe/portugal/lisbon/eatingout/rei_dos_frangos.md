@@ -1,6 +1,8 @@
 ---
 title: "Rei dos Frangos"
 type: poi
+latitude: 40.20947
+longitude: -8.432216
 ---
 
 Cheap - yes. Tasty - yes. Atmospheric - yes. Plentiful - and how!!

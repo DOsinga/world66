@@ -1,6 +1,8 @@
 ---
 title: "Glen Rock"
 type: location
+latitude: 40.962876
+longitude: -74.132921
 ---
 
 Travel Guide

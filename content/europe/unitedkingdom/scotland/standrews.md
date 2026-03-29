@@ -1,6 +1,8 @@
 ---
 title: "St Andrews"
 type: location
+latitude: 56.34039
+longitude: -2.795584
 ---
 
 St. Andrew's is an eclectic town busling with tourists, students and golf zealots alike. Located 50 miles north of Edinburgh, this university town has a lot to offer in a relatively small setting. The heart of the city extends only for a few blocks along North Street, Market Street, and South Street, so it easy to walk around the city, see the St Andrews University buildings and other sights, and decide which restaurant or pub to try.

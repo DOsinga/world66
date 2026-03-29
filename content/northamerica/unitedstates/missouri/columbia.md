@@ -1,13 +1,16 @@
 ---
 title: "Columbia"
 type: location
+latitude: 34.000754
+longitude: -81.035231
 ---
 
 FACTS ABOUT COLUMBIA
 
 
 
- 
+
+ 
 
 POPULATION
 

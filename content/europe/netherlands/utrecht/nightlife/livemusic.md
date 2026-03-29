@@ -1,6 +1,8 @@
 ---
 title: "Live Music"
 type: poi
+latitude: 52.312261
+longitude: 4.944217
 ---
 
 **Place to go outs**
@@ -33,7 +35,8 @@ pc: 3511LL
 
 **RASA **
 
-Worldmusic venue 
+Worldmusic venue
+ 
 
 fax: +31 (0)30 231 5507
 

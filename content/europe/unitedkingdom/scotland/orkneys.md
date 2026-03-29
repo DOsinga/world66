@@ -1,6 +1,8 @@
 ---
 title: "Orkneys"
 type: location
+latitude: 50.859797
+longitude: -2.162905
 ---
 
 A wonderful Jewel of Scotland in the North Sea, The Orkney Isles are by far some of the most remote, but pleasurable, islands in Scotland. If you seek solitude but friendly and outgoing people this is the area to visit. From the ring of Brodgar, Standing Stones of Stennes, Maes Howe Tomb, and Tomb of the Eagles, to the city center of Kirkwall and Stromness and the bustling Ba held once a year on New Years, Orkney is a relaxing and solitary hot spot for tourism.

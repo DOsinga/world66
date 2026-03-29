@@ -4,6 +4,8 @@ type: section
 address: "4559 hurontario st"
 price: "not bad for thali"
 type: "Indian and Pakistani"
+latitude: 43.607873
+longitude: -79.64985
 ---
 
 indianresturants

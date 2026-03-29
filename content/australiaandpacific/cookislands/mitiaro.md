@@ -1,6 +1,8 @@
 ---
 title: "Mitiaro"
 type: location
+latitude: -19.868431
+longitude: -157.69795
 ---
 
 We currently have no information about Mitiaro.

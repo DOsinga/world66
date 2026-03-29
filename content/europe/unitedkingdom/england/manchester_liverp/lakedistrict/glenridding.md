@@ -1,6 +1,8 @@
 ---
 title: "Glenridding"
 type: location
+latitude: 54.544293
+longitude: -2.949884
 ---
 
 Glenridding lies on the A592 from Windermere to Penrith at the southern end of Ullswater. For some its main attraction is as an embarcation point for lake steamers.

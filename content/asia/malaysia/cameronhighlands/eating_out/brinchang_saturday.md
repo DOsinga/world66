@@ -3,6 +3,8 @@ title: "Brinchang Saturday Night Market"
 type: poi
 address: "Brinchang"
 type: "Local"
+latitude: 4.491666
+longitude: 101.388536
 ---
 
 Lotsa yummy local food at the Brinchang market every Saturday evening.

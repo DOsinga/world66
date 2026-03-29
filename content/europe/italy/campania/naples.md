@@ -1,6 +1,8 @@
 ---
 title: "Naples"
 type: location
+latitude: 40.835885
+longitude: 14.248768
 ---
 
 In the shadow of the Mount Vesuvius, the fertile crescent of [Campania](/europe/italy/campania) cradles the Bay of Naples and the larger Gulf of Salerno. Some say, this is Italy's most spectacular natural setting. Sunny climate, a wealth of historic sights, and hospitable populance make the area around Naples a well-touristed domain. 

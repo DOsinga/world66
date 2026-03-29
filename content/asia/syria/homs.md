@@ -1,6 +1,8 @@
 ---
 title: "Homs"
 type: location
+latitude: 34.733333
+longitude: 36.716667
 ---
 
 We currently have no information about Homs.

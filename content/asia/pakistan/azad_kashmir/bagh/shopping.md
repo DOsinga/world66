@@ -5,6 +5,8 @@ address: "rangla dhirkot bagh"
 email: "rasifkk2000@yahoo.com"
 phone: "03455312295"
 type: "Speciality shops"
+latitude: 34.050768
+longitude: 73.640186
 ---
 
 **ASSLAM O ALIKUM**

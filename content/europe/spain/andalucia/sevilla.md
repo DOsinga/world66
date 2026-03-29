@@ -1,6 +1,8 @@
 ---
 title: "Sevilla"
 type: location
+latitude: 37.38863
+longitude: -5.99534
 ---
 
 We currently have no information about .

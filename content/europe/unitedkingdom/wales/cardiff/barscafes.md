@@ -1,6 +1,8 @@
 ---
 title: "Bars and Cafes"
 type: location
+latitude: 50.202956
+longitude: -5.247741
 ---
 
 **all**

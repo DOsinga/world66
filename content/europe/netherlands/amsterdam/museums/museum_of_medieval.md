@@ -6,6 +6,8 @@ email: "info@tortureamsterdam.com"
 opening_hours: "9:00 am to 22:00 pm"
 phone: "+31(0)205285482"
 url: "www.tortureamsterdam.com"
+latitude: 52.376027
+longitude: 4.896507
 ---
 
 Travel back in Time with the Museum of Medieval Torture Instruments!

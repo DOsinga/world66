@@ -1,6 +1,8 @@
 ---
 title: "Torbay"
 type: location
+latitude: 50.446247
+longitude: -3.5395
 ---
 
 Travel Guide

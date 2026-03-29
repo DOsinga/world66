@@ -1,6 +1,8 @@
 ---
 title: "Borit Lake"
 type: location
+latitude: 36.430774
+longitude: 74.862402
 ---
 
 Travel Guide

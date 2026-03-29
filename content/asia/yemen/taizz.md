@@ -1,6 +1,8 @@
 ---
 title: "Ta'izz"
 type: location
+latitude: 13.575224
+longitude: 44.021527
 ---
 
 We currently have no information about Ta'izz.

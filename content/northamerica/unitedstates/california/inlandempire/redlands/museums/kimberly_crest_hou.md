@@ -6,6 +6,8 @@ email: "info@kimberlycrest.org"
 opening_hours: "Hours: Thursday-Sunday, 1:00-4:00 p.m."
 phone: "909 792-2111"
 url: "www.kimberlycrest.org"
+latitude: 34.037376
+longitude: -117.173435
 ---
 
 Kimberly Crest

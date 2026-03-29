@@ -1,6 +1,8 @@
 ---
 title: "Langfang"
 type: location
+latitude: 39.530206
+longitude: 116.692613
 ---
 
 Travel Guide

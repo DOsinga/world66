@@ -1,6 +1,8 @@
 ---
 title: "Suðuroy"
 type: location
+latitude: 61.521065
+longitude: -6.814187
 ---
 
 Travel Guide

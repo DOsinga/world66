@@ -4,6 +4,8 @@ type: section
 accessibility: "PUV north bound"
 address: "Lacson Street, Bacolod City"
 type: "Speciality shops"
+latitude: 10.6696
+longitude: 122.950352
 ---
 
 Bacolod had at least 17 Shopping centers. Scattered around the city to cater the whole populace.

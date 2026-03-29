@@ -7,6 +7,8 @@ email: "clickhere@alice.it"
 opening_hours: "9am to 11pm"
 price: "3.00 hourly"
 type: "Internet Cafe"
+latitude: 41.880975
+longitude: 12.512051
 ---
 
 Point Internet and Phone Center is well located near Metro in Re Di Roma. The staff is very helpful and speak Italian, English, and Russian.

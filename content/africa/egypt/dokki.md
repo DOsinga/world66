@@ -1,6 +1,8 @@
 ---
 title: "Dokki"
 type: location
+latitude: 30.038895
+longitude: 31.212556
 ---
 
 We currently have no information about Dokki.

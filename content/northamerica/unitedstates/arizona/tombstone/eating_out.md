@@ -4,6 +4,8 @@ type: section
 address: "15 N 4Th St"
 phone: "520-457-3647"
 type: "general"
+latitude: 40.262554
+longitude: -76.880544
 ---
 
 ### [Don Teodoro's Mexican Restaurants](/northamerica/unitedstates/arizona/tombstone/eatingout/donteodorosmexicanrestaurants)

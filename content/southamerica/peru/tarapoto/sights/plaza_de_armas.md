@@ -2,6 +2,8 @@
 title: "Plaza de Armas"
 type: poi
 type: "Squares"
+latitude: -13.516767
+longitude: -71.978779
 ---
 
 A tour of Tarapoto will almost always begin with a mototaxi (or taxi if you have a lot of luggage) ride from the airport to the Plaza de Armas, the downtown district where many hotels are located. The Plaza de Armas is the center of the world for many Tarapotinos. Most banks, many retail stores and government agencies are within a block or two from the Plaza de Armas, It is where they go to gather in the cool (sometimes "not so hot" rather) of the evening. It is where they go to see and be seen. On weekends there are often live bands and other entertainment and occasionally food or book fairs.

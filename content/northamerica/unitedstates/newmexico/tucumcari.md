@@ -1,6 +1,8 @@
 ---
 title: "Tucumcari"
 type: location
+latitude: 35.171943
+longitude: -103.72504
 ---
 
 Travel Guide

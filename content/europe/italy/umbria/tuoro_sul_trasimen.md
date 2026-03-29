@@ -1,6 +1,8 @@
 ---
 title: "Tuoro sul Trasimeno"
 type: location
+latitude: 43.206848
+longitude: 12.074615
 ---
 
 Travel Guide

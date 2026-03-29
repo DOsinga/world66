@@ -1,6 +1,8 @@
 ---
 title: "Palangka Raya"
 type: location
+latitude: -2.207292
+longitude: 113.916437
 ---
 
 Travel Guide

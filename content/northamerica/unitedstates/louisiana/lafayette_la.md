@@ -1,6 +1,8 @@
 ---
 title: "Lafayette, LA"
 type: location
+latitude: 30.226219
+longitude: -92.01782
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Parks"
 type: poi
+latitude: 49.173867
+longitude: -117.497064
 ---
 
 Canada features a tremendous assortment of national parks featuring wildlife, natural features, historical and heritage sites. Some parks are in such remote locations there is a reasonable chance you would not meet other visitors as you explored such parks. Others are located along major highway systems.

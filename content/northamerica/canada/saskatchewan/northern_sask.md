@@ -1,6 +1,8 @@
 ---
 title: "Northern Sask."
 type: location
+latitude: 55.438427
+longitude: -107.898523
 ---
 
 La Ronge

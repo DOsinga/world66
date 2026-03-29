@@ -4,6 +4,8 @@ type: poi
 address: "Sajith"
 date: "27.01.2009"
 email: "chonatsajith@rediffmail.com"
+latitude: 8.912247
+longitude: 76.723098
 ---
 
 ****

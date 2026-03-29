@@ -1,6 +1,8 @@
 ---
 title: "Gniezno"
 type: location
+latitude: 52.52465
+longitude: 17.598152
 ---
 
 **Tourist Information PTTK** 

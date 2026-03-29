@@ -4,6 +4,8 @@ type: poi
 accessibility: "by road"
 type: "Hotspots"
 url: "mysteryperu.com"
+latitude: -14.123244
+longitude: -76.26315
 ---
 
 The Paracas National Reserve offers visitors a great chance to spot wonderful desert landscape, right next to the Pacific Ocean, and also some rock formations and gorgeous beaches.

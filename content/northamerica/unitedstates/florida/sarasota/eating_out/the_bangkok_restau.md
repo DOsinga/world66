@@ -4,6 +4,8 @@ type: poi
 address: "4691 Swift Rd"
 phone: "(941) 922-0703"
 type: "Thai"
+latitude: 27.287342
+longitude: -82.514057
 ---
 
 Good ass food that you will have to wait in line for. There is alway a line for this place, even on a weekday. So get there early and stand in line.

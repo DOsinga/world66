@@ -1,6 +1,8 @@
 ---
 title: "Wewoka"
 type: location
+latitude: 35.151164
+longitude: -96.493551
 ---
 
 Travel Guide

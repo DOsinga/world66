@@ -6,6 +6,8 @@ email: "luxor@hilton.com"
 phone: "+20 (95) 237 4933"
 type: "African"
 url: "www.hiltonworldresorts.com"
+latitude: 25.730308
+longitude: 32.656141
 ---
 
 Lie back and enjoy the waterfront views at this chic shisha café, where

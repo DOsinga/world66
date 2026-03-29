@@ -4,6 +4,8 @@ type: poi
 address: "15 E 7th Street"
 type: "Pubs"
 url: "www.mcsorleysnewyork.com"
+latitude: 40.728814
+longitude: -73.989663
 ---
 
 Normal

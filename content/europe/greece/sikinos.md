@@ -1,6 +1,8 @@
 ---
 title: "Sikinos"
 type: location
+latitude: 36.675554
+longitude: 25.116233
 ---
 
 An out of the way and relatively untouristed island in the Cyclades, Sikinos offers some real respite from the tourist hordes to view the real Greek life on some of the more isolated islands. Upon arrival, you have two destinations to choose from for accommodations: a pension adjacent to the port, or in the Hora at the top of the central hill on the island. 

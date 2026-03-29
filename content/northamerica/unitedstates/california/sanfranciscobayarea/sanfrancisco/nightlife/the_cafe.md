@@ -5,6 +5,8 @@ address: "2367 Market St"
 closing_time: "2 am"
 phone: "415-861-3846"
 type: "Bars & Cafes"
+latitude: 37.763309
+longitude: -122.434558
 ---
 
 Propbably the best mixed gay bar in the city. A great place to start if your coming into town, it's got people in it every day of the week, and a very low cover charge on weekend nights ($2 last I was in). The customers are friendly and on a weeknight the atmosphere is more casual and open. The weekends are full to bursting and great for cruising. It's a favorite locals' hangout, too.

@@ -1,6 +1,8 @@
 ---
 title: "Neretva"
 type: location
+latitude: 42.814317
+longitude: 17.374663
 ---
 
 The Neretva Valley is an area where tribes, nations and their armies have fought for dominance since the beginning of time. The trade routes have gone through Neretva Valley since prehistoric time. Those who controlled the valley and its many robbers and pirates could control the trade for all of presentday Croatia and Bosnia-Herzegovina. Neretva River emerges beneath Zelengora Mountain in eastern Bosnia-Herzegovina. Through canyons, cliffs and hollows in its upper and middle courses, it forces its way through the Dinaric

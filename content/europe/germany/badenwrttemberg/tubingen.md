@@ -1,6 +1,8 @@
 ---
 title: "Tubingen"
 type: location
+latitude: 48.520326
+longitude: 9.053596
 ---
 
 Tubingen is one of the nicest university towns in germany. With 25,000 of its 85,000 inhabitants students at the University, the saying runs that Tubingen is a town on the university campus. 

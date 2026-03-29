@@ -7,6 +7,8 @@ phone: "(813) 248-4961"
 price: "$25 per person"
 type: "Spanish"
 url: "www.columbiarestaurant.com"
+latitude: 27.960014
+longitude: -82.435133
 ---
 
 ### [The Columbia](/northamerica/unitedstates/florida/tampabayarea/yborcity/eatingout/the_columbia)

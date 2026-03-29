@@ -1,6 +1,8 @@
 ---
 title: "Bandipur"
 type: location
+latitude: 27.938022
+longitude: 84.406696
 ---
 
 Travel Guide

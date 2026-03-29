@@ -1,6 +1,8 @@
 ---
 title: "piracicaba"
 type: location
+latitude: -22.725165
+longitude: -47.649327
 ---
 
 Travel Guide

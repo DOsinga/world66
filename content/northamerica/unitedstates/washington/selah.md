@@ -1,6 +1,8 @@
 ---
 title: "Selah"
 type: location
+latitude: 46.654007
+longitude: -120.530272
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ouarzazate"
 type: location
+latitude: 30.920193
+longitude: -6.910923
 ---
 
 Travel Guide

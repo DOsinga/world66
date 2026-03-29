@@ -1,6 +1,8 @@
 ---
 title: "Sikkim"
 type: location
+latitude: 27.601611
+longitude: 88.45502
 ---
 
 Sikkim is one of the small former Himalayan kingdoms now integrated into India. Sikkim is probably one of the best known, which is due to the famous tea of the same name. Tucked away in the foothills of the Himalayas, Sikkim is a Himalayan wonderland with its lovely views, exotic orchids and its forest-trails. A virtual Shangrila overlooked by Mt. Kanchenjunga, the world’s third highest peak, Sikkim is attractive equally for the sightseer, the adventure sports enthusiast and those interested in Buddhism and Tibetology. 

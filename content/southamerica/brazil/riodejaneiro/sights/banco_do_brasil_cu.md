@@ -4,6 +4,8 @@ type: poi
 address: "Rua Visconde de Itaborai, 78 - Centro"
 type: "Public Buildings"
 url: "www.rio.rj.gov.br"
+latitude: -21.764963
+longitude: -41.325201
 ---
 
 Two theaters, four exhibition halls, a computerized library, an auditorium, video rooms, a movie theater, tea room, bookstore.

@@ -1,6 +1,8 @@
 ---
 title: "Tubarão"
 type: location
+latitude: -28.471488
+longitude: -49.014132
 ---
 
 Characteristics Between the mountain range and the sea, Tubarão enchants for its beauties. Endowed with excellent urban infrastructure, its tourist potential is concentrated in thermal waters, canalized for comfortable hoteleiros complexes. Date of foundation - 27 of May of 1836. Festive date - 27 of May (anniversary of the city) and 15 of September (Day of Ours Lady of the Mercy, padroeira of the city). Main economic activities - Tubarão is distinguished in the cattle one and agriculture. It is as the commercial center of the south of the State, mainly in the ceramics area. Prominence also for the tourism, centered in its hidrominerais ranches. Population - 90,000 inhabitants. Settling - Italian, German and açoriana. Main etnias - Italian, German and açoriana. Localization - In the south of the State, 66km of Criciúma and 133km of Florianópolis. Area - 313km2. Climate - Subtropical, with average temperature of 23ºC. Altitude - 09m above of the level of the sea. Next cities - Mafra, Gravatal, Thirteen of May, Great Jaguaruna, Rocks, Lagoon, Capivari de Baixo, Are Ludgero, Orleans.

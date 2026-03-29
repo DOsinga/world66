@@ -4,6 +4,8 @@ type: section
 address: "Mayflower St 36=38"
 phone: "01752 661290"
 type: "restaurants"
+latitude: 51.499854
+longitude: -0.055508
 ---
 
 ### Display all

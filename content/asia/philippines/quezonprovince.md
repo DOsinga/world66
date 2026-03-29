@@ -1,6 +1,8 @@
 ---
 title: "Quezon Province"
 type: location
+latitude: 6.539209
+longitude: 124.963126
 ---
 
 Travel Guide

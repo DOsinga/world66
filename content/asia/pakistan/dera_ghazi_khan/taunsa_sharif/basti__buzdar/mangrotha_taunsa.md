@@ -1,6 +1,8 @@
 ---
 title: "mangrotha taunsa"
 type: location
+latitude: 30.709283
+longitude: 70.589381
 ---
 
 Travel Guide

@@ -8,6 +8,8 @@ phone: "(514)-861-6640,"
 price: "20-40$"
 type: "Indian and Pakistani"
 url: "www.restaurantkashmir.com"
+latitude: 45.507007
+longitude: -73.552496
 ---
 
 **Restaurant Kashmir

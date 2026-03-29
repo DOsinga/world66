@@ -1,6 +1,8 @@
 ---
 title: "Nosy mangabe"
 type: location
+latitude: -15.49518
+longitude: 49.769367
 ---
 
 We currently have no information about Nosy mangabe.

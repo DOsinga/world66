@@ -8,6 +8,8 @@ opening_hours: "Ida"
 phone: "Ida"
 type: "1"
 url: "forms.flavinrealty.com"
+latitude: 42.378837
+longitude: -95.494941
 ---
 
 Thank you!

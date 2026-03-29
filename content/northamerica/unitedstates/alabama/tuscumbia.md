@@ -1,6 +1,8 @@
 ---
 title: "Tuscumbia"
 type: location
+latitude: 34.7312
+longitude: -87.70253
 ---
 
 Travel Guide

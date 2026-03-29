@@ -1,6 +1,8 @@
 ---
 title: "The Gravensteen"
 type: poi
+latitude: 51.057181
+longitude: 3.720765
 ---
 
 Gravensteen is the Dutch name for the 'castle of the count'. The counts of Flanders had castles built in the principal cities of the county. Because they had to maintain law and order, they continuously had to move from one city to the other. Therefore, they built a castle in most cities where they wanted to stay for a few months. The castle of Ghent is the only one which survived the centuries more or less intact.

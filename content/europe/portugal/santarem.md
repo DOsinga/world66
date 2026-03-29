@@ -1,6 +1,8 @@
 ---
 title: "Santarem"
 type: location
+latitude: 39.236364
+longitude: -8.686708
 ---
 
 imagem

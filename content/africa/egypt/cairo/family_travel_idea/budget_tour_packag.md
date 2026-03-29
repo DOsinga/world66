@@ -5,6 +5,8 @@ address: "Hurghada, egypt"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Discover **Egypt and Jordan** in **all inclusive tour package** and visit Cairo, Aswan, Luxor with it sightseeing in **Egypt**, Wadi Rum and legend Petra city in **Jordan**, which became one of Wonders of the World. Enjoy your **holiday vacation package**.

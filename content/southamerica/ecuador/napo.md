@@ -1,6 +1,8 @@
 ---
 title: "Napo"
 type: location
+latitude: -0.608197
+longitude: -77.952034
 ---
 
 Travel Guide

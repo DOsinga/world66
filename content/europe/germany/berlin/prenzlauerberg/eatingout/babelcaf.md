@@ -4,6 +4,8 @@ type: poi
 address: "Käthe-Niederkirchner-Str. 2"
 phone: "+49 (0)30 424 75 52"
 type: "African"
+latitude: 52.531551
+longitude: 13.428822
 ---
 
 Cosy place that offers the right atmosphere and good food.

@@ -6,6 +6,8 @@ email: "aria_potter62@yahoo.com"
 phone: "+628811525501"
 type: "Antiques"
 url: "ariantobl.co.nr"
+latitude: -6.175405
+longitude: 106.827168
 ---
 
 Surabaya has many shopping places. The most famous is the Plaza

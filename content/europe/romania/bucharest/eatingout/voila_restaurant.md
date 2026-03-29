@@ -1,6 +1,8 @@
 ---
 title: "Voila Restaurant"
 type: poi
+latitude: 44.184379
+longitude: 28.646299
 ---
 
 Voilà, a French – Asian fusion cuisine restaurant, has recently opened in Bucharest. Lying in the heart of the capital city, in a residential area, Voilà offers quality services in an elegant atmosphere. With discreet, quality music in the background, the restaurant’s guests can enjoy a carefully selected menu, fine drinks and exotic cocktails. 

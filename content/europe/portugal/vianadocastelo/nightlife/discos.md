@@ -1,6 +1,8 @@
 ---
 title: "Discos"
 type: poi
+latitude: 38.705574
+longitude: -9.171736
 ---
 
 **Place to go outs**

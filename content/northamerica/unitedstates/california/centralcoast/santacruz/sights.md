@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 address: "West Cliff Drive"
 type: "Streets"
+latitude: 31.767263
+longitude: -106.497015
 ---
 
 Here are a few places to see.

@@ -1,6 +1,8 @@
 ---
 title: "Kazakhstan"
 type: location
+latitude: 48.101295
+longitude: 66.778082
 ---
 
 Kazakhstan is a country in Central Asia. It borders on [Russia](/europe/russia) , [China](/asia/china) , [Uzbekistan](/asia/uzbekistan) , [Kyrgyzstan](/asia/kyrgyzstan) and [Turkmenistan](/asia/turkmenistan) . 

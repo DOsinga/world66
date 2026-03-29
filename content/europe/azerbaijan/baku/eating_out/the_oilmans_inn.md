@@ -5,6 +5,8 @@ address: "21 Boyuk Gala St., Old City, Baku, Azerbaijan"
 phone: "418-1901 / 492-3526"
 type: "International"
 url: "baku.oilmansinn.com"
+latitude: 40.366214
+longitude: 49.835854
 ---
 
 Situated in the Old City / Icheri Sheher ( centre of Baku, Azerbaijan

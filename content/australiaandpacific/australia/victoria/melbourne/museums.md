@@ -4,6 +4,8 @@ type: section
 address: "North Warf Rd 2"
 phone: "+61 3 9614 4285"
 type: "Museums"
+latitude: 35.601697
+longitude: -77.131105
 ---
 
 Melbourne has a lot of museums to choose from. Here's the list.

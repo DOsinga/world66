@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Hotspots"
+latitude: 39.788474
+longitude: -92.929598
 ---
 
 Take a trip around the world without leaving Brooklyn, New

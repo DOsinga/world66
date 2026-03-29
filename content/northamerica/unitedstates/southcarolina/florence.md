@@ -1,6 +1,8 @@
 ---
 title: "Florence"
 type: location
+latitude: 34.79981
+longitude: -87.677251
 ---
 
 Travel Guide

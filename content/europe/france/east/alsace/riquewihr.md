@@ -1,6 +1,8 @@
 ---
 title: "Riquewihr"
 type: location
+latitude: 48.166077
+longitude: 7.298014
 ---
 
 We currently have no information about Riquewihr.

@@ -1,6 +1,8 @@
 ---
 title: "Hastings"
 type: location
+latitude: -39.641768
+longitude: 176.843078
 ---
 
 Welcome. Stay awhile. Bask in our sunshine.

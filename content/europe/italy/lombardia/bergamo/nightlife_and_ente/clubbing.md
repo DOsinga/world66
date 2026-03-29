@@ -5,6 +5,8 @@ address: "Via Dalmine, 10/a, Curno (Bergamo)"
 phone: "349 4606801"
 type: "Clubs and dancing"
 url: "www.papido.it"
+latitude: 45.690391
+longitude: 9.602993
 ---
 
 on Sunday with revival and house music. Wednesday night is latino night. Every week a theme party like Halloween and more to make your night in Bergamo a fun night. Open Weds, Fri, Sat and Sun.

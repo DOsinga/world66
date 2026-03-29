@@ -1,6 +1,8 @@
 ---
 title: "Quang Nam"
 type: location
+latitude: 11.953707
+longitude: 108.43061
 ---
 
 Travel Guide

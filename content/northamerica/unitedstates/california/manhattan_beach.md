@@ -1,6 +1,8 @@
 ---
 title: "Manhattan Beach"
 type: location
+latitude: 33.887278
+longitude: -118.410432
 ---
 
 Travel Guide

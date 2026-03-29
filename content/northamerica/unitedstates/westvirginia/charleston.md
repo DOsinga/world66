@@ -1,6 +1,8 @@
 ---
 title: "Charleston"
 type: location
+latitude: 32.788436
+longitude: -79.939931
 ---
 
 Charleston is the capital city of

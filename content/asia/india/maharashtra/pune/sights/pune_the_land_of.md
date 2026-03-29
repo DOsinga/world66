@@ -4,6 +4,8 @@ type: poi
 email: "bhatkanti@gmail.com"
 type: "Hotspots"
 url: "bhatkanti.blogspot.com"
+latitude: 19.198371
+longitude: 73.859613
 ---
 
 About 90 kms away from Pune is **Shivneri fort** where Shivaji Maharaj was born, it was in 1627. The fort is very difficult to climb hence safe from enemies, so Shahaji kept Jijabai in this fort during her pregnancy. Shivaji was named after the name of a goddess 'Devi Shivai'.

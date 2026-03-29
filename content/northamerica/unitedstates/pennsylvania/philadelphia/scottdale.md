@@ -1,6 +1,8 @@
 ---
 title: "Scottdale"
 type: location
+latitude: 40.100351
+longitude: -79.586984
 ---
 
 Travel Guide

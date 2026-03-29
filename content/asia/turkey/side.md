@@ -1,6 +1,8 @@
 ---
 title: "Side"
 type: location
+latitude: 36.766444
+longitude: 31.38922
 ---
 
 **Side** (pronounced 'see day')

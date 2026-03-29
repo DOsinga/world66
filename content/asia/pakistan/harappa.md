@@ -1,6 +1,8 @@
 ---
 title: "Harappa"
 type: location
+latitude: 30.59459
+longitude: 72.911174
 ---
 
 Travel Guide

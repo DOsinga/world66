@@ -3,6 +3,8 @@ title: "Club Asia"
 type: poi
 address: "1-8 Maruyama-cho"
 type: "Casinos"
+latitude: 35.65768
+longitude: 139.695029
 ---
 
 Club Asia is mainly aimed at young Japanese who are into J-Hip Hop and R&B styles. There are other events but the above is predominantly true.

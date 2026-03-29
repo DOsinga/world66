@@ -1,9 +1,12 @@
 ---
 title: "Il Guscio"
 type: poi
+latitude: 43.769075
+longitude: 11.240446
 ---
 
-Just try it: We recommend lattuce pudding, grilled eggplant with tomatoes, sheepcheese with green salad, raw meat with fresh cheese, potatos gnocchi with eggplant zucchini and prawns, white beans soup with farro and black cabbage, Fillet steak with sweet wine and fois gras with spinach and mashed potatoes. And don't forget the wines !! 
+Just try it: We recommend lattuce pudding, grilled eggplant with tomatoes, sheepcheese with green salad, raw meat with fresh cheese, potatos gnocchi with eggplant zucchini and prawns, white beans soup with farro and black cabbage, Fillet steak with sweet wine and fois gras with spinach and mashed potatoes. And don't forget the wines !!
+ 
 
 email: ilguscio@cosmos.it
 

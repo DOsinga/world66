@@ -1,6 +1,8 @@
 ---
 title: "Ventura County"
 type: location
+latitude: 34.445825
+longitude: -119.077936
 ---
 
 Travel Guide

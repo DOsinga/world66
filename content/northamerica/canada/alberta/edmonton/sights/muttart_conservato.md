@@ -6,6 +6,8 @@ opening_hours: "Monday to Friday: 9 am to 5:30 pm Weekends and Holidays: 11 a.m.
 phone: "(780) 496-8735"
 type: "Parks, Gardens and Zoos"
 url: "www.edmonton.ca"
+latitude: 53.535295
+longitude: -113.47756
 ---
 
 The Muttart is one of the easily recongized parts of Edmonton's

@@ -1,6 +1,8 @@
 ---
 title: "Nevada"
 type: location
+latitude: 39.515882
+longitude: -116.853722
 ---
 
 Travel Guide

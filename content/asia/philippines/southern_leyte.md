@@ -1,6 +1,8 @@
 ---
 title: "Southern Leyte"
 type: location
+latitude: 10.34751
+longitude: 125.12509
 ---
 
 Located in the southern part of the Leyte Island. This province is

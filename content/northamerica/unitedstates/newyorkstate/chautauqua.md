@@ -1,6 +1,8 @@
 ---
 title: "Chautauqua"
 type: location
+latitude: 42.289467
+longitude: -79.421728
 ---
 
 Travel Guide

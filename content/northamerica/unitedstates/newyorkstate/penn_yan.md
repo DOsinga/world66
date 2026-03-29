@@ -1,6 +1,8 @@
 ---
 title: "Penn Yan"
 type: location
+latitude: 42.660304
+longitude: -77.054099
 ---
 
 Travel Guide

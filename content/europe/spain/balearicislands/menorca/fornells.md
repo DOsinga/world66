@@ -1,6 +1,8 @@
 ---
 title: "Fornells"
 type: location
+latitude: 41.931967
+longitude: 2.809034
 ---
 
 Fornells is on the Bay of Fornells, in the North of Minorca. It's reported to be a very unspoilt area.

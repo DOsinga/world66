@@ -1,6 +1,8 @@
 ---
 title: "Papallacta"
 type: location
+latitude: -0.377676
+longitude: -78.140888
 ---
 
 Travel Guide

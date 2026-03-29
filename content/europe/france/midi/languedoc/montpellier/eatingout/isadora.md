@@ -2,6 +2,8 @@
 title: "ISADORA"
 type: poi
 type: "general"
+latitude: 48.867283
+longitude: 2.351414
 ---
 
 6, rue du Petit Scel 

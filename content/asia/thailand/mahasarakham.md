@@ -1,6 +1,8 @@
 ---
 title: "Mahasarakham"
 type: location
+latitude: 16.24703
+longitude: 103.250562
 ---
 
 Travel Guide

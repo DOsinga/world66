@@ -1,6 +1,8 @@
 ---
 title: "Malaga"
 type: location
+latitude: 36.721303
+longitude: -4.421637
 ---
 
 Travel Guide

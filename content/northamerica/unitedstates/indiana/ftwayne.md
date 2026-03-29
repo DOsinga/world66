@@ -1,6 +1,8 @@
 ---
 title: "Ft. Wayne"
 type: location
+latitude: 41.07999
+longitude: -85.138601
 ---
 
 We currently have no information about Ft. Wayne.

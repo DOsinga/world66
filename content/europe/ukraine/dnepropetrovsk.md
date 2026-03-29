@@ -1,6 +1,8 @@
 ---
 title: "Dnepropetrovsk"
 type: location
+latitude: 48.468022
+longitude: 35.041771
 ---
 
 We currently have no information about Dnepropetrovsk.

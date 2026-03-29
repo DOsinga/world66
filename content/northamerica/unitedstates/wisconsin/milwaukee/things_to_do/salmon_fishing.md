@@ -6,6 +6,8 @@ email: "captain.jim@bluemaxcharters.com"
 phone: "414-828-1094"
 type: "Hunting and Fishing"
 url: "www.bluemaxcharters.com"
+latitude: 43.040022
+longitude: -87.911831
 ---
 
 Charter Salmon fishing is an exciting option for the adventurous

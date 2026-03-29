@@ -3,6 +3,8 @@ title: "drszaszpeter"
 type: location
 address: "1112 Budapest, Barackfa u. 2."
 email: "drszaszpeter@freemail.hu"
+latitude: 47.481373
+longitude: 18.998546
 ---
 
 Auguszt Coffee house / Confectionary

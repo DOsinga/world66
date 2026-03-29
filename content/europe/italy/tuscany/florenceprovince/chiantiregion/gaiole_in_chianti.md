@@ -1,6 +1,8 @@
 ---
 title: "Gaiole in Chianti"
 type: location
+latitude: 43.468295
+longitude: 11.4342
 ---
 
 Travel Guide

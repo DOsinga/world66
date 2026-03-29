@@ -6,6 +6,8 @@ email: "rsmicromax@hotmail.com"
 phone: "033-44067777"
 type: "Embassies and Consulates"
 url: "www.rightshopping.in"
+latitude: 35.336529
+longitude: -97.148571
 ---
 
 Normal

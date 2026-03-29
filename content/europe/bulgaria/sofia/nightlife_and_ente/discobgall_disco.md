@@ -7,6 +7,8 @@ email: "office@disco.bg"
 phone: "+359-88-700-8000"
 type: "Clubs and dancing"
 url: "www.disco.bg"
+latitude: 47.142473
+longitude: 10.567865
 ---
 
 Disco.BG- is your best guide to All Disco & Night Clubs in BULGARIA

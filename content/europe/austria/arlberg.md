@@ -1,6 +1,8 @@
 ---
 title: "Arlberg"
 type: location
+latitude: 47.129845
+longitude: 10.21063
 ---
 
 Travel Guide

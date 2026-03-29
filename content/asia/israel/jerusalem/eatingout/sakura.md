@@ -5,6 +5,8 @@ address: "Jaffa st. 31"
 phone: "02-6235244"
 type: "Japanese"
 url: "www.rest.co.il"
+latitude: -33.871572
+longitude: 150.928195
 ---
 
 Sakura is the only good Sushi place in Jerusalem.

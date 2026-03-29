@@ -7,6 +7,8 @@ email: "info@banffsasquatch.com"
 phone: "+14037624002"
 type: "Clubs and dancing"
 url: "www.banffsasquatch.com"
+latitude: 51.175505
+longitude: -115.570506
 ---
 
 Banff's newest night club.

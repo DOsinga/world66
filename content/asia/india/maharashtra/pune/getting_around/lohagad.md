@@ -1,6 +1,8 @@
 ---
 title: "Lohagad"
 type: poi
+latitude: 21.342587
+longitude: 78.723564
 ---
 
 Lohagad is 3400 feet high and is very wide spread fort. There are 4

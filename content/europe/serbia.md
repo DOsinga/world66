@@ -1,6 +1,8 @@
 ---
 title: "Serbia"
 type: location
+latitude: 44.024323
+longitude: 21.076574
 ---
 
 Travel Guide

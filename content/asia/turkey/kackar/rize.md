@@ -1,6 +1,8 @@
 ---
 title: "Rize"
 type: location
+latitude: 40.956962
+longitude: 40.884428
 ---
 
 Travel Guide

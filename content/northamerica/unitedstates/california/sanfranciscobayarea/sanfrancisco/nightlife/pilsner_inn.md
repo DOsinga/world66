@@ -4,6 +4,8 @@ type: poi
 address: "225 Church St"
 type: "Gay and Lesbian"
 url: "www.sfgaybarlist.com#pilsner"
+latitude: 37.767136
+longitude: -122.428795
 ---
 
 The Pilsner has a pub-like atmosphere with a pool table, darts, pin

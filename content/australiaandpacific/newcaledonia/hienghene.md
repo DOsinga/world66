@@ -1,6 +1,8 @@
 ---
 title: "Hienghene"
 type: location
+latitude: -20.689369
+longitude: 164.944037
 ---
 
 We currently have no information about Hienghene.

@@ -1,6 +1,8 @@
 ---
 title: "Berrien Springs"
 type: location
+latitude: 41.946434
+longitude: -86.338897
 ---
 
 Home of Andrews University and Pioneer Memorial Church, Berrien Springs is a small town just off of US-31. The town itself isn't more than a few stores, gas stations and restaurants (mostly fast food) but is full of historical landmarks, specifially relating to the beginnings of Seventh-day Adventism.

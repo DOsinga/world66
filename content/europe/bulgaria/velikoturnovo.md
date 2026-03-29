@@ -1,6 +1,8 @@
 ---
 title: "Veliko turnovo"
 type: location
+latitude: 43.082058
+longitude: 25.632131
 ---
 
 Veliko Turnovo, ( Veliko Tarnovo, Veliko Trnovo ) was a medieval capital of Bulgaria. It is situated in the foothills between the Danube Plain and the Stara Planina ("old mountains") of the Balkan range. 

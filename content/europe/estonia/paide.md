@@ -1,6 +1,8 @@
 ---
 title: "Paide"
 type: location
+latitude: 58.886927
+longitude: 25.569912
 ---
 
 Travel Guide

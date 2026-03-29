@@ -1,6 +1,8 @@
 ---
 title: "Safranbolu"
 type: location
+latitude: 41.245666
+longitude: 32.692957
 ---
 
 Travel Guide

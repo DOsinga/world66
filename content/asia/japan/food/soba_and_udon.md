@@ -2,6 +2,8 @@
 title: "Soba and Udon"
 type: poi
 type: "Japanese"
+latitude: 33.594915
+longitude: 130.416789
 ---
 
 Soba and Udon are Japan’s traditional noodles. Soba noodles are

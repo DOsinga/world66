@@ -1,6 +1,8 @@
 ---
 title: "Blaricum"
 type: location
+latitude: 52.281133
+longitude: 5.293714
 ---
 
 Travel Guide

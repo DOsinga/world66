@@ -1,6 +1,8 @@
 ---
 title: "Kowloon"
 type: location
+latitude: 22.304925
+longitude: 114.1616
 ---
 
 Kowloon is one of the four parts that makes the Hong Kong territory these days. The tip of the peninsula, which faces Hong Kong island, is probably the best known part of Kowloon. It is one big melting pot of streets crawled with shops and tourists, covered up under a spell of neon at night. In this sense, the 'nine dragons' (the literal translation of 'Kowloon') beat the touristy tiger of the neighbouring Hong Kong island!

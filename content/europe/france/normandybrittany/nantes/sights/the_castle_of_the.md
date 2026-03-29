@@ -8,6 +8,8 @@ opening_hours: "All year round except national holidays."
 phone: "+33 (0)2 51 17 49 48"
 type: "Castles"
 url: "www.chateau-nantes.fr"
+latitude: 47.216117
+longitude: -1.549313
 ---
 
 Build in the 13th century, the first ducal castle was demolished in the 15th century to make room for today's building. This is the work of *François II*, the last duke of the independent Brittany, and his daughter *Anne of Brittany*, twice queen of France.

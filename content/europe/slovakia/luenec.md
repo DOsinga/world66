@@ -1,6 +1,8 @@
 ---
 title: "Lučenec"
 type: location
+latitude: 48.330389
+longitude: 19.663415
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ email: "restaurantearmadillo@hotmail.com"
 phone: "345-9992"
 price: "Moderate"
 type: "International"
+latitude: 4.551666
+longitude: -74.108103
 ---
 
 Nice atmosphere and very friendly. Very good food, with a good selection and variety on the menu. Very popular among gringos.

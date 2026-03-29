@@ -1,6 +1,8 @@
 ---
 title: "Lydford"
 type: location
+latitude: 50.645999
+longitude: -4.082794
 ---
 
 Lydford is a lovely village which lies a bit north east of [Tavistock](/europe/unitedkingdom/england/bristol_plymouth/devon/tavistock)

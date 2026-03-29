@@ -1,6 +1,8 @@
 ---
 title: "Gujranwala"
 type: location
+latitude: 32.152531
+longitude: 74.193375
 ---
 
 Travel Guide

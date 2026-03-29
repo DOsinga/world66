@@ -1,6 +1,8 @@
 ---
 title: "Ma'in"
 type: location
+latitude: 31.680476
+longitude: 35.732646
 ---
 
 From Madaba, travelers can hire a taxi for a ride to Ma'in, a beautiful hot spring located in the desert. While the drive is about an hour or so, it's worth the ride; for most of the trip you can see the Dead Sea in the distance, and through the haze you can make out the West Bank. 

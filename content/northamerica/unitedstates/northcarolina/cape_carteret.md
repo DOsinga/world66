@@ -1,6 +1,8 @@
 ---
 title: "Cape Carteret"
 type: location
+latitude: 34.691551
+longitude: -77.063003
 ---
 
 Travel Guide

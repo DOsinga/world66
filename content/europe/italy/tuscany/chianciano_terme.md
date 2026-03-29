@@ -1,6 +1,8 @@
 ---
 title: "Chianciano Terme"
 type: location
+latitude: 43.058255
+longitude: 11.828429
 ---
 
 Travel Guide

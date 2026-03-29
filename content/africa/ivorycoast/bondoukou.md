@@ -1,6 +1,8 @@
 ---
 title: "Bondoukou"
 type: location
+latitude: 8.039799
+longitude: -2.798426
 ---
 
 We currently have no information about Bondoukou.

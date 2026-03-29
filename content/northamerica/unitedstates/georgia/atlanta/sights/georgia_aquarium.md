@@ -8,6 +8,8 @@ opening_hours: "8 AM - 8 PM"
 phone: "(404) 581-4000"
 type: "Parks, Gardens and Zoos"
 url: "www.georgiaaquarium.org"
+latitude: 33.763267
+longitude: -84.395117
 ---
 
 World’s Largest Aquarium. With over 8 million gallons of fresh and marine water, 100,000 animals representing 500 species from around the globe and over 505,000 sq. ft of total space.

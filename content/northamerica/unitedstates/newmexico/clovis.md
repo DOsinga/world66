@@ -1,6 +1,8 @@
 ---
 title: "Clovis"
 type: location
+latitude: 34.405472
+longitude: -103.205071
 ---
 
 Travel Guide

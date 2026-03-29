@@ -1,6 +1,8 @@
 ---
 title: "Bixby"
 type: location
+latitude: 35.942043
+longitude: -95.883324
 ---
 
 Travel Guide

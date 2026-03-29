@@ -5,6 +5,8 @@ accessibility: "Admission S/. 5.50 (approx. $1.75)"
 address: "Trans-American Highway"
 opening_hours: "M-F 9 a.m.-5 p.m."
 type: "Landmarks"
+latitude: 8.098614
+longitude: -80.962419
 ---
 
 Peru is a country rich in history and culture. It is very diverse and offers great places that are worth a visit. One might start the journey by the Peruvian Coast with its enigmatic Nazca Lines, the beautiful Marine Reserve of Paracas and the Oasis of Huacachina, where one can practice one of the ultimate sports of the country -- sandboarding.

@@ -4,6 +4,8 @@ type: location
 address: "Berlin"
 email: "nadavgablinger@yahoo.co.uk"
 url: "www.gablinger.com"
+latitude: 52.517389
+longitude: 13.395131
 ---
 
 Gablinger Berlin Tours offer tours in Berlin and the region - Sachsenhausen, Potsdam and even Dresden. The Berlin Tours can start from the Waremuende (Rostock) Port. Guiding both groups and individual private tours in several languages (including Hebrew language tours and English language tours in Berlin), and in several themes including:

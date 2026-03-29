@@ -1,6 +1,8 @@
 ---
 title: "Siwa"
 type: location
+latitude: 29.203466
+longitude: 25.519227
 ---
 
 Siwa is one of Egypt's most attractive locations. Known for its tribal

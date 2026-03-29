@@ -1,6 +1,8 @@
 ---
 title: "Barrow"
 type: location
+latitude: 33.984861
+longitude: -83.699648
 ---
 
 Travel Guide

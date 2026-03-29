@@ -5,6 +5,8 @@ address: "21 Zhongshan South Road, Taipei 100."
 opening_hours: "CKS Memorial Hall: 09:00 to 17:00 daily; park/gardens: 06:00 to midnight daily."
 type: "Hotspots"
 url: "www.cksmh.gov.tw"
+latitude: 25.034576
+longitude: 121.521781
 ---
 
 This memorial hall is dedicated to the memory of Chiang Kai-shek, the former

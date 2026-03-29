@@ -3,6 +3,8 @@ title: "Sights in Nakhchivan City"
 type: section
 address: "naxcivan city"
 type: "Memorials"
+latitude: 39.207888
+longitude: 45.411695
 ---
 
 Please add Nakhchivan Sights below.

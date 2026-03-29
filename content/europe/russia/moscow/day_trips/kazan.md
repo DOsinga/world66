@@ -1,6 +1,8 @@
 ---
 title: "Kazan"
 type: poi
+latitude: 55.794649
+longitude: 49.111502
 ---
 
 You may go to [Kazan](/europe/russia/kazan) from Moscow for a day if you are ready to sleep two nights aboard a train.

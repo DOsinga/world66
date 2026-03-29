@@ -1,6 +1,8 @@
 ---
 title: "Spain"
 type: location
+latitude: 39.326068
+longitude: -4.837979
 ---
 
 Spain is more than bullfights, flamenco dancers and crowded beaches. It's a spectacular and diverse country, the north resembling the rolling, green hills of Ireland and the south giving you a taste of Moroccan landscapes and architecture. Its tremendous history is reflected in its prehistoric cave paintings, Moorish palaces, crumbling castles, Roman ruins, Gothic and Renaissance cathedrals as well as some very unique modern architecture. The uniqueness of Spain lies in the separate kingdoms which made up the original Spanish nation. These regions remain diverse in their language, culture, cuisine and art. These regions include: Andalucía, [Aragon](/europe/spain/aragon), Asturias, Basque Country, the Balearic Islands, the Canary Islands, Cantabria, Castilla La Mancha, Castilla León, Catalonia, Extremadura, Galicia, La Rioja, Madrid, Murcia, Navarra and Valencia. Areas of interest are not limited to each region, here are some highlights:

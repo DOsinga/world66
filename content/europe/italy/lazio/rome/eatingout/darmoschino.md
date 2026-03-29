@@ -4,6 +4,8 @@ type: poi
 address: "Piazza Benedetto Brin, 5 (Ostiense)"
 phone: "+39 (0)6  5139473"
 type: "Local"
+latitude: 41.862257
+longitude: 12.482491
 ---
 
 Closed Sunday, Price: inexpensive

@@ -1,6 +1,8 @@
 ---
 title: "Rockhampton"
 type: location
+latitude: -23.378214
+longitude: 150.513423
 ---
 
 We currently have no information about Rockhampton.

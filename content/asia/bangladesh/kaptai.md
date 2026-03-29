@@ -1,6 +1,8 @@
 ---
 title: "Kaptai"
 type: location
+latitude: 22.500116
+longitude: 92.215599
 ---
 
 We currently have no information about Kaptai.

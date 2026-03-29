@@ -1,6 +1,8 @@
 ---
 title: "Visby"
 type: location
+latitude: 57.637936
+longitude: 18.297982
 ---
 
 Travel Guide

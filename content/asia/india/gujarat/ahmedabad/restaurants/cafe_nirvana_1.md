@@ -5,6 +5,8 @@ address: "Commerce 6 Road"
 email: "shohin.rajagency@gmail.com"
 phone: "40098158"
 type: "International"
+latitude: -26.657346
+longitude: 153.094563
 ---
 
 **

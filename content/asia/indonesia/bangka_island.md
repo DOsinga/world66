@@ -1,6 +1,8 @@
 ---
 title: "Bangka Island"
 type: location
+latitude: -2.308124
+longitude: 106.028152
 ---
 
 Bangka lies east of sumatra. From Jakarta it is one hour by plane.

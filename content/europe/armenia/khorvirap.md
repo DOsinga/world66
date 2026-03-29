@@ -1,6 +1,8 @@
 ---
 title: "Khor Virap"
 type: location
+latitude: 39.878388
+longitude: 44.57635
 ---
 
 Khor Virap is located some 30 kilometers south of [Yerevan](/europe/armenia/yerevan) and can be seen as a daytrip from there, possible combined with [Garni](/europe/armenia/garni).

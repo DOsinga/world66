@@ -1,6 +1,8 @@
 ---
 title: "Ales"
 type: location
+latitude: 44.125366
+longitude: 4.085282
 ---
 
 We currently have no information about .

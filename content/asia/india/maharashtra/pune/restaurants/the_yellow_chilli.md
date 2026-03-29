@@ -6,6 +6,8 @@ email: "theyellowchillipune@citymaxindia.com"
 phone: "+91 20-41285454"
 price: "$5-$7"
 type: "Indian and Pakistani"
+latitude: 18.536639
+longitude: 73.899937
 ---
 
 Celebrity Chef Sanjeev Kapoor’s The Yellow Chilli at Koregaon park is housed in a beautiful bungalow surrounded by lush green lawns! The Yellow Chilli serves all the goodness of exotic and delicious Indian cuisine.. The restaurant offers a lavish Indian fare from North India as well as a wide range of Maharashtrian dishes to tempt the taste buds. Sanjeev Kapoor has crafted some signature dishes like Aloo Nazakat,which is Succulent Stuffed potatoes grilled in the tandoor or the Sham Savera which is Spinach kofta stuffed with Malai Paneer and served in tomato and honey gravy and many more signature dishes. The contemporary Décor with little splashes of colour makes the entire restaurant come alive. The most popular being the intimate seating along the veranda. Service is immaculate at this fine dine restaurant. The smartly dresses service crew have a temperate rust shade attire to complement the bright morning and a sparkling fresh turquoise attire to suit the soft lighting in the evening.

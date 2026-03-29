@@ -1,6 +1,8 @@
 ---
 title: "La Tortuga"
 type: poi
+latitude: -5.280444
+longitude: -81.12274
 ---
 
 This is a very poor village, living mostly from artisanal fishing. That's about all they eat too. A good place to volunteer, I'd say.

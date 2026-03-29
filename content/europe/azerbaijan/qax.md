@@ -1,6 +1,8 @@
 ---
 title: "Qax"
 type: location
+latitude: 41.256376
+longitude: 46.80064
 ---
 
 Travel Guide

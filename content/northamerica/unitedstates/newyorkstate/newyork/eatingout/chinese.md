@@ -1,6 +1,8 @@
 ---
 title: "Chinese"
 type: poi
+latitude: 34.102073
+longitude: -118.34095
 ---
 
 **Restaurants**

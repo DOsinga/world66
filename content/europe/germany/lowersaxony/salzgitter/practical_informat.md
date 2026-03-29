@@ -4,6 +4,8 @@ type: section
 accessibility: "Monday to Friday: 8.30 a.m. to 6 p.m.; Saturday: 8.30 a.m. to 1 p.m."
 address: "Joachim-Campe-Str. 1 - 3, 38226 Salzgitter"
 type: "Post office"
+latitude: 52.155087
+longitude: 10.323139
 ---
 
 You can get all important information about Salzgitter at the local ***Touristinformation***.

@@ -1,6 +1,8 @@
 ---
 title: "Haliburton"
 type: location
+latitude: 45.15254
+longitude: -78.514813
 ---
 
 Travel Guide

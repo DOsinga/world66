@@ -1,6 +1,8 @@
 ---
 title: "Burlington"
 type: location
+latitude: 43.324892
+longitude: -79.796684
 ---
 
 Travel Guide

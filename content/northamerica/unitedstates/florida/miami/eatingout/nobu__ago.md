@@ -5,6 +5,8 @@ address: "1901 Collins Avenue"
 phone: "305 695 3100"
 type: "Japanese"
 url: "www.shoreclub.com"
+latitude: 25.794866
+longitude: -80.12856
 ---
 
 Serving cutting-edge Japanese cuisine, Nobu Matsuhisa and Robert DeNiro's renowned NOBU comes to Miami Beach. Inspired by traditional Japanese techniques and infused with Latin influences, this sophisticated cuisine offers an enticing new twist on sushi, sashimi and other Japanese classics. Dinner only.

@@ -1,9 +1,12 @@
 ---
 title: "Felsenkeller"
 type: poi
+latitude: 51.332822
+longitude: 12.338525
 ---
 
-Popular place with the youngsters. 
+Popular place with the youngsters.
+ 
 
 connection: U7 Eisenacher Straße
 

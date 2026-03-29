@@ -4,6 +4,8 @@ type: poi
 address: "Pulchowk"
 phone: "2111230"
 zipcode: "30"
+latitude: 27.696858
+longitude: 84.421112
 ---
 
 Our Services are: Internet sufring, Live Web conference, Laptop connection support, Chatting, Word processing, Scanning, CD writing, Floppy Disk copying, Graphics workstation, Web site developing, Laser Jet printing & International call in moderate cost. 

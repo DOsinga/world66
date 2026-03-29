@@ -1,6 +1,8 @@
 ---
 title: "Everest Region"
 type: location
+latitude: 29.081329
+longitude: 89.297308
 ---
 
 To see the roof of the world you should come to Sagarmatha National Park, where the Everest is.

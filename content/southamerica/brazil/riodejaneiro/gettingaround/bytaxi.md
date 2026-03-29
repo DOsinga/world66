@@ -1,6 +1,8 @@
 ---
 title: "By taxi"
 type: poi
+latitude: 3.5588
+longitude: -60.666769
 ---
 
 "/>

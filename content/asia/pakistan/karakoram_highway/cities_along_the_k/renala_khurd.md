@@ -1,6 +1,8 @@
 ---
 title: "Renala Khurd"
 type: location
+latitude: 30.878251
+longitude: 73.599877
 ---
 
 Travel Guide

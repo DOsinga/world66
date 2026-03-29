@@ -1,6 +1,8 @@
 ---
 title: "Vava'u island"
 type: location
+latitude: -18.623147
+longitude: -174.002138
 ---
 
 We currently have no information about Vava'u island.

@@ -2,6 +2,8 @@
 title: "Cala Benirras"
 type: poi
 type: "general"
+latitude: 39.089444
+longitude: 1.453923
 ---
 
 Cala Benirras is a known for its fine sand and extremely clear water. It offers some privacy because of its isolated stretches of beach. You can have a good meal at one of the beach-tents.

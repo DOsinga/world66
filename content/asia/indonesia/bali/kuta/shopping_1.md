@@ -1,6 +1,8 @@
 ---
 title: "Shopping"
 type: location
+latitude: -6.195745
+longitude: 106.821593
 ---
 
 Shopping Handicraft on Kuta Bali

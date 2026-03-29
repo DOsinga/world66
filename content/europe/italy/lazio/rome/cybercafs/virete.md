@@ -8,6 +8,8 @@ phone: "+39 06 39749626"
 price: "2 € per hour"
 type: "Internet Cafe"
 url: "www.viarete.it"
+latitude: 41.908312
+longitude: 12.452097
 ---
 
 If you are looking for a very resting place to surf the web, chat with your friends, download and save pictures you just shooted with your camera, come to Vi@rete Internet Point. You can find us very close the vatican museums, in Via La Goletta, 3.

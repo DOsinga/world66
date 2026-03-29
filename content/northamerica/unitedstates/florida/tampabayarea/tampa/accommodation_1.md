@@ -8,6 +8,8 @@ phone: "1 800 980 6431"
 price_per_night: "Varies"
 type: "First Class"
 url: "www.ichotelsgroup.com"
+latitude: 27.944257
+longitude: -82.525326
 ---
 
 Tampa offers a wide variety of accommodations for business and pleasure.

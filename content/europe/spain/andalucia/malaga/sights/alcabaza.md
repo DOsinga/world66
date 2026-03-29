@@ -2,6 +2,8 @@
 title: "Alcazaba"
 type: poi
 type: "Palaces"
+latitude: 37.177098
+longitude: -3.591821
 ---
 
 The King’s palace with beautiful gardens dating from the 11th century.

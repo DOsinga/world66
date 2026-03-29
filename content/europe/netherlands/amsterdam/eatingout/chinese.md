@@ -1,9 +1,12 @@
 ---
 title: "Chinese"
 type: poi
+latitude: 52.06006
+longitude: 4.226765
 ---
 
-Amsterdam's China Town is mainly between the Central Station and the Nieuwmarkt. This is also the place, where you will find delicious indonesian and thai food. The street to be is the Zeedijk, which is lined with Chinese shops and restaurants. The area around Niewmarkt and Waaggebouw is perfect for everyones wallet. You can choose between small, not very atmospheric Inns, that offer very delicious food (also to take away) and there are lots of really nice furnished restaurants with a wide choice of chinese food. Try the followings: 
+Amsterdam's China Town is mainly between the Central Station and the Nieuwmarkt. This is also the place, where you will find delicious indonesian and thai food. The street to be is the Zeedijk, which is lined with Chinese shops and restaurants. The area around Niewmarkt and Waaggebouw is perfect for everyones wallet. You can choose between small, not very atmospheric Inns, that offer very delicious food (also to take away) and there are lots of really nice furnished restaurants with a wide choice of chinese food. Try the followings:
+ 
 
 **Restaurants**
 

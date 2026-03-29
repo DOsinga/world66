@@ -1,6 +1,8 @@
 ---
 title: "Kotor"
 type: location
+latitude: 42.42492
+longitude: 18.771333
 ---
 
 Travel Guide

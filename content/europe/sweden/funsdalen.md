@@ -1,6 +1,8 @@
 ---
 title: "Funäsdalen"
 type: location
+latitude: 62.546151
+longitude: 12.541826
 ---
 
 Travel Guide

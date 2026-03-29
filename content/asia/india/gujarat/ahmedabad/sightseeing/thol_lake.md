@@ -2,6 +2,8 @@
 title: "Thol Lake"
 type: location
 type: "Parks, Gardens and Zoos"
+latitude: 23.132645
+longitude: 72.379496
 ---
 
 25km from the hustling city of Ahmedabad lies this beautiful lake situated in the village of Thol. It is an ideal place for birdwatchers.

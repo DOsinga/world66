@@ -1,6 +1,8 @@
 ---
 title: "Swift Current"
 type: location
+latitude: 50.284914
+longitude: -107.79845
 ---
 
 Travel Guide

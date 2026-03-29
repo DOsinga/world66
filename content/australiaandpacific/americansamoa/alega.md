@@ -1,6 +1,8 @@
 ---
 title: "Alega"
 type: location
+latitude: -14.27967
+longitude: -170.636687
 ---
 
 Travel Guide

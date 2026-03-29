@@ -5,6 +5,8 @@ address: "124, Haram street, Giza, Egypt"
 email: "Hend@egyptonlinetours.net"
 phone: "0020111029094"
 url: "www.egyptonlinetours.net"
+latitude: 29.781817
+longitude: 31.284695
 ---
 
 We offer a unique selection of **Egypt** **shore excursions, Egypt quick trips**, **Egypt port trips**, **Egypt port excursions**, from **Alexandria Port, Alexandria shore excursions** from all the ships docking at **Alexandria Port**, Middle East & Africa **shore excursions Cruises** such as NCL Norwegian **shore excursions cruises**, P & **shore excursions Cruises**,** **Legend of the Seas **shore excursions cruise**, Nautica **shore excursions Cruise**, Brilliance of the Seas Princess **shore excursions** **cruise**, Cunard** shore excursions** **cruise**, Silversea **shore excursions** Cruise, Rotterdam **shore excursions** Cruises, Crystal Symphony **shore excursions**, Costa Cruise Line, Seabourn **shore excursions** Cruises, Sea Whisper, Visions of the Seas, Celebrity Equinox Cruise Line, Royal Caribbean cruise line.

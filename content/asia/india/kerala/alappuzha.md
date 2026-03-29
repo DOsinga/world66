@@ -1,6 +1,8 @@
 ---
 title: "Alappuzha"
 type: location
+latitude: 9.500342
+longitude: 76.412336
 ---
 
 **Welcome to Alappuzha** 

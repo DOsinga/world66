@@ -1,6 +1,8 @@
 ---
 title: "Bellevue"
 type: location
+latitude: 47.614422
+longitude: -122.192337
 ---
 
 We currently have no information about Bellevue.

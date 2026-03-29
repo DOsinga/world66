@@ -1,6 +1,8 @@
 ---
 title: "Cherrapunji"
 type: location
+latitude: 25.277734
+longitude: 91.729242
 ---
 
 Travel Guide

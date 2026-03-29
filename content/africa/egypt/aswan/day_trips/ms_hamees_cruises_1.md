@@ -5,6 +5,8 @@ address: "Hurghada"
 email: "magdy@egypttravelhotdeals.com"
 phone: "00201062922290"
 url: "www.egypttravelhotdeals.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 MS Hamees Nile Cruise

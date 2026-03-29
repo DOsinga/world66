@@ -1,6 +1,8 @@
 ---
 title: "Accommodation"
 type: location
+latitude: 41.894072
+longitude: 12.490341
 ---
 
 HOTEL DEMO' - Milano/Italy

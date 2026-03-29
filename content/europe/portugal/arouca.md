@@ -1,6 +1,8 @@
 ---
 title: "Arouca"
 type: location
+latitude: 40.928921
+longitude: -8.244175
 ---
 
 Arouca é uma vila portuguesa no

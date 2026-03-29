@@ -2,6 +2,8 @@
 title: "Sindhudurg Fort"
 type: poi
 type: "Hotspots"
+latitude: 16.04279
+longitude: 73.46009
 ---
 
 Constructed by Shivaji in 1664, at a site personally selected by him.

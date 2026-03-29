@@ -1,6 +1,8 @@
 ---
 title: "Rugby, Tennessee"
 type: location
+latitude: 36.360093
+longitude: -84.700523
 ---
 
 This small isolated village on Tennessee's rugged Cumberland Plateau was founded as the Rugby Colony in 1880, by famous British author, statesman and social reformer Thomas Hughes. He named the new town for his Alma Mater in England. Rugby was to be a cooperative class-free agricultural community for younger sons of English gentry and others wishing to "begin live anew" in America.

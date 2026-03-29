@@ -1,6 +1,8 @@
 ---
 title: "Monticello"
 type: location
+latitude: 38.010319
+longitude: -78.452333
 ---
 
 Travel Guide

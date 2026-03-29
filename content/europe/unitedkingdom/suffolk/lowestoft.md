@@ -1,6 +1,8 @@
 ---
 title: "Lowestoft"
 type: location
+latitude: 52.476631
+longitude: 1.753764
 ---
 
 Travel Guide

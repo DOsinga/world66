@@ -1,6 +1,8 @@
 ---
 title: "Trans Canada HWY"
 type: poi
+latitude: 46.191523
+longitude: -63.777203
 ---
 
 A cross country national highway. Canada's Main Street, the Trans

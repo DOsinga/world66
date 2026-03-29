@@ -4,6 +4,8 @@ type: poi
 email: "csvc@wmata.com"
 phone: "202-962-1234"
 url: "www.metroopensdoors.com"
+latitude: 34.256234
+longitude: -118.389965
 ---
 
 Metro buses run through all of DC and much of the surrounding

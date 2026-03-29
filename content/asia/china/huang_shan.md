@@ -1,6 +1,8 @@
 ---
 title: "Huang Shan"
 type: location
+latitude: 25.708641
+longitude: 104.225653
 ---
 
 Sitauted in Anhui province, Huang Shan (Yello

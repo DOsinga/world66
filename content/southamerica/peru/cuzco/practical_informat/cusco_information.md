@@ -6,6 +6,8 @@ email: "internet@theinkaadventure.com"
 phone: "084-9932430"
 type: "Tourist information"
 url: "www.theinkaadventure.com"
+latitude: -13.517089
+longitude: -71.978536
 ---
 
 CUSCO (also spelt Cuzco with a "z"), mythical capital of the Inca Empire, preserves its stone walls and battlements with pride, evoking the greatness of the "Children of the Sun". It's a city packed full of historical monuments and relics, of myths and legends, which seem to come to life every time you walk through its century old streets.

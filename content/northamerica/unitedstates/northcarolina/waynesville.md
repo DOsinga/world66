@@ -1,6 +1,8 @@
 ---
 title: "Waynesville"
 type: location
+latitude: 35.488748
+longitude: -82.988872
 ---
 
 A great city to visit. Set in the heart of the blue Ridge

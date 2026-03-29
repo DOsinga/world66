@@ -5,6 +5,8 @@ address: "42 Shotover street"
 price: "$9.00 - $15.50"
 type: "Fast food"
 url: "www.fergburger.com"
+latitude: -45.031742
+longitude: 168.659462
 ---
 
 Queenstown is a real perty town with some good restaurants and food places (in the widest sense of the word "food"). Don´t expect ´haute-cuisine´ but do expect the best burgers and some nice places to eat full with atmosphere.

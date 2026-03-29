@@ -1,6 +1,8 @@
 ---
 title: "Spokane"
 type: location
+latitude: 47.657193
+longitude: -117.42351
 ---
 
 Spokane is Washington's third largest city, and the largest city in eastern Washington. Unlike its western neighbor

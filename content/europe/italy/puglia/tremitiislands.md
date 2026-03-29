@@ -1,6 +1,8 @@
 ---
 title: "Tremiti islands"
 type: location
+latitude: 42.1148
+longitude: 15.487124
 ---
 
 The Tremiti Islands are an exceptionally isolated archipelago in the Adriatic Sea approximately 40 km east of

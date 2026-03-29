@@ -1,6 +1,8 @@
 ---
 title: "Rayleigh"
 type: location
+latitude: 51.586884
+longitude: 0.606311
 ---
 
 We currently have no information about Rayleigh.

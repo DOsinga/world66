@@ -6,6 +6,8 @@ email: "sales@lensic.com"
 phone: "505 988 7050/Fax 505 988 4370"
 type: "Theatres"
 url: "www.lensic.com"
+latitude: 35.687911
+longitude: -105.941065
 ---
 
 During the evening you can go to the Santa Fe Hotel or other hotels for a drink in the lounge while listening to an Indian play flute music, take in a History seminar in one of the conference rooms or see the Vegan display of information in another room, all depending on what's on for that evening.

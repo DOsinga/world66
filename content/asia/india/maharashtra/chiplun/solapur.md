@@ -1,6 +1,8 @@
 ---
 title: "Solapur"
 type: location
+latitude: 17.849907
+longitude: 75.27632
 ---
 
 Travel Guide

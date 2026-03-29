@@ -4,6 +4,8 @@ type: poi
 address: "3 Iktinou st."
 phone: "+30 31 - 274022"
 type: "Restaurants"
+latitude: 38.055337
+longitude: 23.703217
 ---
 
 type: Restaurants

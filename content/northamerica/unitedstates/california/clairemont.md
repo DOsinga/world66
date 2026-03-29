@@ -1,6 +1,8 @@
 ---
 title: "Clairemont"
 type: location
+latitude: 32.819505
+longitude: -117.18234
 ---
 
 We currently have no information about Clairemont.

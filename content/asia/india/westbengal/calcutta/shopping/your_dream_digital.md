@@ -6,6 +6,8 @@ email: "rightdigicam@hotmail.com"
 phone: "9874090194"
 type: "Antiques"
 url: "www.rightgadgets.in"
+latitude: 22.572646
+longitude: 88.363895
 ---
 
 When you wish to capture something really beautiful, or wish to keep your lovely and memorable moments alive forever, it has to be digital camera you will consider.

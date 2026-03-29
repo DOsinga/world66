@@ -1,6 +1,8 @@
 ---
 title: "The Cathedral"
 type: poi
+latitude: 37.387264
+longitude: -5.99333
 ---
 
 The Cathedral, construction begins in the year 1129,

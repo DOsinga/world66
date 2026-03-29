@@ -1,6 +1,8 @@
 ---
 title: "Vormsi Island"
 type: location
+latitude: 59.004464
+longitude: 23.248781
 ---
 
 Travel Guide

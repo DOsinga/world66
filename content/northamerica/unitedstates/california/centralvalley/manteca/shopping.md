@@ -5,6 +5,8 @@ address: "1356 Bass Pro Dr"
 phone: "209-825-8400"
 type: "Speciality shops"
 url: "www.basspro.com"
+latitude: 37.782248
+longitude: -121.226179
 ---
 
 Beyond the basics

@@ -1,6 +1,8 @@
 ---
 title: "Warrington"
 type: location
+latitude: 53.401858
+longitude: -2.568022
 ---
 
 Travel Guide

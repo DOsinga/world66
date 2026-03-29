@@ -5,6 +5,8 @@ address: "25 Matheson Road, Kensington, London W14 8SN"
 email: "Shamina@hospitalityzone.org"
 phone: "020 7602 9954"
 url: "www.kensingtonwest.org"
+latitude: 51.493511
+longitude: -0.205974
 ---
 
 Kensington West is a budget London hotel close to Hyde Park, Harrods, Olympia and Earls court Exhibition centre. Offering 24 hour reception, airport transfers, wireless internet, flat screen tv’s, refreshments, and much more.

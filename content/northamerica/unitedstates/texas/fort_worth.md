@@ -1,6 +1,8 @@
 ---
 title: "Fort Worth"
 type: location
+latitude: 32.753177
+longitude: -97.332746
 ---
 
 Travel Guide

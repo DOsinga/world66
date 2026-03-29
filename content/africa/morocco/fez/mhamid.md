@@ -1,6 +1,8 @@
 ---
 title: "Mhamid"
 type: location
+latitude: 29.825084
+longitude: -5.719808
 ---
 
 Travel Guide

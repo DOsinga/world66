@@ -1,6 +1,8 @@
 ---
 title: "Santaní"
 type: location
+latitude: -24.665743
+longitude: -56.44168
 ---
 
 Travel Guide

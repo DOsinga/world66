@@ -2,6 +2,8 @@
 title: "Castle"
 type: poi
 type: "Hotspots"
+latitude: 49.348255
+longitude: 2.977962
 ---
 
 The first castle in Blois was built in the 10th century, but the oldest

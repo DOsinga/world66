@@ -1,6 +1,8 @@
 ---
 title: "Askersund"
 type: location
+latitude: 58.866667
+longitude: 14.916667
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Kornati- National park"
 type: location
+latitude: 43.773447
+longitude: 15.336512
 ---
 
 Travel Guide

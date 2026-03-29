@@ -1,6 +1,8 @@
 ---
 title: "Wadi dahr"
 type: location
+latitude: 15.47178
+longitude: 47.559226
 ---
 
 We currently have no information about Wadi dahr.

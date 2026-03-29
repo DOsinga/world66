@@ -6,6 +6,8 @@ closing_time: "4:00"
 phone: "02/514 44 34"
 type: "Beer Gardens"
 url: "www.deliriumcafe.be"
+latitude: 50.848494
+longitude: 4.353896
 ---
 
 Delirium Cafe is located right in the center of Brussels within

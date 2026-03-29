@@ -1,6 +1,8 @@
 ---
 title: "Victor Harbour"
 type: location
+latitude: -35.554527
+longitude: 138.624097
 ---
 
 Travel Guide

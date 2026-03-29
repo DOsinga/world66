@@ -1,6 +1,8 @@
 ---
 title: "Baia Sant Anna"
 type: location
+latitude: 40.6853
+longitude: 9.744008
 ---
 
 Travel Guide

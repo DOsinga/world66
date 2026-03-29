@@ -1,6 +1,8 @@
 ---
 title: "Scheemda"
 type: location
+latitude: 53.177619
+longitude: 6.971654
 ---
 
 We currently have no information about Scheemda.

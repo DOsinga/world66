@@ -1,6 +1,8 @@
 ---
 title: "Gooty Fort."
 type: location
+latitude: 15.114078
+longitude: 77.650876
 ---
 
 Gooty is located at a distance of 52 kms, from Anantapur. It is one of the oldest hill forts of Andhra Pradesh. The earliest inscriptions are in Kannada and Sanskrit, and is assigned to about the 7th century. An inscription refers to a fort, 'Gadha', while an inscription of Bukka, the Vijayanagar monarch refers to it as the 'King of Forts'. The Marathas under Murari Rao conquered it.

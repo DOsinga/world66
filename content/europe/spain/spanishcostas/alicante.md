@@ -1,6 +1,8 @@
 ---
 title: "Alicante"
 type: location
+latitude: 38.343637
+longitude: -0.488171
 ---
 
 Alicante is part of the Valencia region. It is one of the most popular tourist areas in Spain. Near Alicante you can find mountains, castles, forests, etc. There are numerous places to explore as Upper Marina, with the towns of Jávea, Teulada, Benitachell and Calpe. Lower Marina includes the tourist centre of [Benidorm](/europe/spain/spanishcostas/benidorm), as well as beautiful [Altea](/europe/spain/spanishcostas/altea) and Villajoyosa. 

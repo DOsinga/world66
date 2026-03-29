@@ -1,6 +1,8 @@
 ---
 title: "Mizoram"
 type: location
+latitude: 23.214617
+longitude: 92.868761
 ---
 
 The hill state of Mizoram is in the North-East corner of India. It is hard to reach and only a few travellers make teh effort to come all this way. This is quite a pity because Mizoram does have a few (although well hidden) treasures. 

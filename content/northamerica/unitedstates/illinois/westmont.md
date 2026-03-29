@@ -1,6 +1,8 @@
 ---
 title: "Westmont"
 type: location
+latitude: 33.941403
+longitude: -118.302296
 ---
 
 Travel Guide

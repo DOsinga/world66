@@ -1,6 +1,8 @@
 ---
 title: "Helsinki"
 type: location
+latitude: 60.16662
+longitude: 24.943541
 ---
 
 Helsinki, the White Daughter of the Baltic and the capital of Finland, has wide boulevards and a beautiful blue harbor. The city centre is built on a windblown peninsula and many of the sights are within walking distance of each other. The plan of the down town is a clear one and cordial Finns, most of whom speak at least English, help you around. Although Helsinki was founded in 1550, as a trading center, most of its architecture is rather modern and some even avant garde: Helsinki became the capital of Finland in 1812 and the whole centre area war rebuilt, much in the Empire style. 

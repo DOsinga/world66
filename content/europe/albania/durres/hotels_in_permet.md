@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Permet"
 type: location
+latitude: 40.233457
+longitude: 20.353233
 ---
 
 Travel Guide

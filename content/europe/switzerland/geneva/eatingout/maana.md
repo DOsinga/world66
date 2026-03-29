@@ -4,6 +4,8 @@ type: poi
 address: "Rue Chaponnière 3"
 phone: "+41 (0)22 732 21 31"
 type: "South American"
+latitude: 46.209216
+longitude: 6.14445
 ---
 
 Downstairs is the Cactus Bar and a charming place to go to when you’ve had your enormous tacos and burritos.

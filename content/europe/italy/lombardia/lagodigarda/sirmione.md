@@ -1,6 +1,8 @@
 ---
 title: "Sirmione"
 type: location
+latitude: 45.468849
+longitude: 10.607824
 ---
 
 On the south shore of the Lago di Garda you find the peninsula of Sirmione. The peninsula is famous for its beautiful countryside and the Caves of Catullo, an archaeological site of a former Roman villa situated on the tip of the peninsula. 

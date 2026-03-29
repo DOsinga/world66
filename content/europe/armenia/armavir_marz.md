@@ -1,6 +1,8 @@
 ---
 title: "Armavir Marz"
 type: location
+latitude: 40.163382
+longitude: 44.29412
 ---
 
 Travel Guide

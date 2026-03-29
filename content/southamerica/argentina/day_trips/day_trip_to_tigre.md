@@ -5,6 +5,8 @@ address: "beruti 3000"
 email: "slbengo@ciudad.com.ar"
 phone: "5411 4 8243366"
 url: "www.barbacharters.com.ar"
+latitude: -34.589767
+longitude: -58.406269
 ---
 
 If you are in Buenos Aires and want to see a nice landscape take the train to Tigre, in the suburbs.

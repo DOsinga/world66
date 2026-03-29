@@ -1,6 +1,8 @@
 ---
 title: "Madaba"
 type: location
+latitude: 31.716594
+longitude: 35.794386
 ---
 
 Madaba is just 30km south of [Amman](/asia/jordan/amman). It's a perfect daytrip. Madaba has some stunninly beautiful Byzantine-era mosaics, including the 'Madaba map', a 6th-century mosaic map of Palestine. 

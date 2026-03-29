@@ -1,6 +1,8 @@
 ---
 title: "Zabbougha"
 type: location
+latitude: 33.953097
+longitude: 35.735791
 ---
 
 ****

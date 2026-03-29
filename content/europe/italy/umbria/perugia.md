@@ -1,6 +1,8 @@
 ---
 title: "Perugia"
 type: location
+latitude: 43.107032
+longitude: 12.402996
 ---
 
 Perugia is a nice medieval town, its setting in the hills of [Umbria](/europe/italy/umbria) is enchanting, but this fact makes the town arduous for people with knee problems. However, I never saw a city with more steps. Furthermore Perugia is very famous for its university. Every year hundreds of exchange students join different language courses, mainly italian ones. This makes the city lively and multicultural. The burghers of Perugia are probably some of the politest and most pleasant people in Italy, although they once imprisoned St. Francis of [Assisi](/europe/italy/umbria/assisi). More than this, the town was infamous for celebrating the "Battaglia de' Sassi" (Battle of Stones), during which two teams threw rocks at each other until a sufficient number of casualties or fatalities left a winner.

@@ -1,6 +1,8 @@
 ---
 title: "Accommodation"
 type: location
+latitude: 16.74296
+longitude: -92.632189
 ---
 
 There are various kind of accomodation in the city.

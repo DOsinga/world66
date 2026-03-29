@@ -1,6 +1,8 @@
 ---
 title: "Timbuktu"
 type: location
+latitude: 16.771909
+longitude: -3.008727
 ---
 
 In the minds of the West the name Timbuktu evokes the end of the world. The city gained its reputation as a city of mystery because no European ever saw it and returned to tell the tale until 1828. 

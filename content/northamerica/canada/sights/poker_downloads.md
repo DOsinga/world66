@@ -8,6 +8,8 @@ opening_hours: "Glen"
 phone: "Glen"
 type: "1"
 url: "finalbell.hostanime.com"
+latitude: 42.894399
+longitude: -74.344867
 ---
 
 Nice site!

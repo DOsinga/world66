@@ -1,6 +1,8 @@
 ---
 title: "Wine"
 type: location
+latitude: 48.198703
+longitude: 16.374468
 ---
 
 No other country produces as much wine as France. [Spain](/europe/spain) and [Italy](/europe/italy) are good runner ups, but France is still the uncontested number one wine producing country. 

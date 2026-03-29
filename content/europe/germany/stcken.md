@@ -1,6 +1,8 @@
 ---
 title: "Stücken"
 type: location
+latitude: 52.245708
+longitude: 13.078821
 ---
 
 Travel Guide

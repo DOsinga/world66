@@ -1,6 +1,8 @@
 ---
 title: "overberg"
 type: location
+latitude: -33.909897
+longitude: 18.84814
 ---
 
 Travel Guide

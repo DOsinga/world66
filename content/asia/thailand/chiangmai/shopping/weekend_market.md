@@ -3,6 +3,8 @@ title: "Weekend Market"
 type: poi
 address: "Tapae Gate"
 type: "Markets"
+latitude: 18.787762
+longitude: 98.99327
 ---
 
 Held on Sundays just outside Tapae Gate, this weekend market brings the

@@ -1,6 +1,8 @@
 ---
 title: "Tell City"
 type: location
+latitude: 37.950848
+longitude: -86.769701
 ---
 
 Travel Guide

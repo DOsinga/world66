@@ -5,6 +5,8 @@ address: "Andalucia"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 37.339996
+longitude: -4.581161
 ---
 
 In Spain a vast Jewish Heritage can be found, and on this tour you will get a chance to discover some of the most emblematic Historic Jewish Quarters in Spain! 

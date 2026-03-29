@@ -2,6 +2,8 @@
 title: "Cinema"
 type: poi
 type: "Theatres"
+latitude: -25.467711
+longitude: -56.446233
 ---
 
 There are several options for moviebuffs. There is a *cine* right on the Plaza de Armes, which offers films in a very peculiar atmosphere.

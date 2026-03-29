@@ -1,6 +1,8 @@
 ---
 title: "Port Ghalib"
 type: location
+latitude: 25.531711
+longitude: 34.633762
 ---
 
 Travel Guide

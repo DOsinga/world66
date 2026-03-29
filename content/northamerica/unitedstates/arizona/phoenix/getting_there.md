@@ -2,6 +2,8 @@
 title: "Getting There"
 type: section
 type: "By Road"
+latitude: 39.841319
+longitude: -88.966486
 ---
 
 **Air

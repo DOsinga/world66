@@ -8,6 +8,8 @@ phone: "+359889001000"
 price: "10BGN"
 type: "Local"
 url: "www.restaurant.bg"
+latitude: 42.697703
+longitude: 23.321736
 ---
 
 Restaurant.BG is guide to all Restaurants in Sofia and Bulgaria - phone, address, e-mail , cuisine, photos - welcome to Restaurant.bg - all Restaurants in Sofia and Bulgaria

@@ -1,6 +1,8 @@
 ---
 title: "Panguitch"
 type: location
+latitude: 37.82282
+longitude: -112.435756
 ---
 
 Travel Guide

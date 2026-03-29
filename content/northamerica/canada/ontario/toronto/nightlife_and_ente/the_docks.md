@@ -5,6 +5,8 @@ address: "11 Polson"
 phone: "416-461-DOCK"
 type: "Clubs and dancing"
 url: "www.thedocks.com"
+latitude: 43.64008
+longitude: -79.354445
 ---
 
 Toronto's largest dance club 

@@ -1,6 +1,8 @@
 ---
 title: "Nora"
 type: location
+latitude: 59.533333
+longitude: 15.016667
 ---
 
 Travel Guide

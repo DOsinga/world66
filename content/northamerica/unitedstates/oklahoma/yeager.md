@@ -1,6 +1,8 @@
 ---
 title: "Yeager"
 type: location
+latitude: 37.39177
+longitude: -82.521542
 ---
 
 Travel Guide

@@ -1,9 +1,12 @@
 ---
 title: "Leander"
 type: poi
+latitude: 53.08153
+longitude: 8.789228
 ---
 
-Big light friendly café with a very popular breakfast menu. The buffet brunch on Sa and Su runs out quickly because of the crowds. 
+Big light friendly café with a very popular breakfast menu. The buffet brunch on Sa and Su runs out quickly because of the crowds.
+ 
 
 address: Jungstr. 29
 

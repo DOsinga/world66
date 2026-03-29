@@ -1,6 +1,8 @@
 ---
 title: "Reading"
 type: location
+latitude: 51.451495
+longitude: -0.983634
 ---
 
 Located west of London, you can easily get to Reading from London's Paddington station. Journey time , approx. 30 minutes. A town of roughly 200,000 inhabitants, it features a recently opened shopping complex in the centre, which is like any other identikit shopping mall, so it's best avoided. 

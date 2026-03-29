@@ -1,6 +1,8 @@
 ---
 title: "Batam"
 type: location
+latitude: 1.103082
+longitude: 104.03837
 ---
 
 If you just want to get away from it all for a holiday in the lush warmth of a very cheap, easily accessible tropical island then it’s all here with beautiful waterfront, marina and golf course resorts waiting to cater to your every whim with grace and style.

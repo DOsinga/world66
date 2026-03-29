@@ -1,6 +1,8 @@
 ---
 title: "Yasin Valley"
 type: location
+latitude: 36.594104
+longitude: 73.446416
 ---
 
 Travel Guide

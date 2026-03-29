@@ -8,6 +8,8 @@ phone: "22-10-15"
 price: "Lunch - 25 Gel; Dinner - 50 Gel."
 type: "European"
 url: "www.hospitality.com.ge"
+latitude: 41.707382
+longitude: 44.773343
 ---
 
 Since its opening, the locally owned and operated **Restaurant Mediterranean** has become the popular European Restaurant in Tbilisi .

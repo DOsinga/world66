@@ -5,6 +5,8 @@ address: "1 r Poste, 64200. BIARRITZ"
 closing_time: "Late..."
 phone: "(+33) 05 59 22 33 10"
 type: "Clubs and dancing"
+latitude: 43.481806
+longitude: -1.56011
 ---
 
 Ibiza is dancing alright! This is the place you want to be, and this is the place everybody goes!

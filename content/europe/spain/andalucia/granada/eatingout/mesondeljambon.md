@@ -4,6 +4,8 @@ type: poi
 address: "Obispo Hurtado 14"
 phone: "+34 (958) 26 59 31"
 type: "Traditional"
+latitude: -33.576457
+longitude: -70.675029
 ---
 
 Here you can to taste the best Cerano ham.

@@ -1,6 +1,8 @@
 ---
 title: "Isle of Coll"
 type: location
+latitude: 56.623511
+longitude: -6.527204
 ---
 
 Travel Guide

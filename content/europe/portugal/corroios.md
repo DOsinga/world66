@@ -1,6 +1,8 @@
 ---
 title: "Corroios"
 type: location
+latitude: 38.641533
+longitude: -9.152233
 ---
 
 O nome Corroios provém, possivelmente, da existência de arroios, pelo menos era assim que o pároco, Pedro Simões Duarte o explicava em 1758, dizendo " A quem talvez os antigos pusessem este nome por ficar ao Sul dela de nascente ao poente um não pequeno campo baixo e tão húmido que ainda em o mais ardente e dilecto Verão conserva alguns arroios ainda que pequenos de águas, que nascido nopoente,corre,por entre os brejos do mar ".

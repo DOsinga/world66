@@ -1,6 +1,8 @@
 ---
 title: "Kotagede"
 type: location
+latitude: -7.81831
+longitude: 110.397941
 ---
 
 Travel Guide

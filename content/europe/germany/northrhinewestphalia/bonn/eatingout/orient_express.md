@@ -4,6 +4,8 @@ type: poi
 address: "Bertha-Von-Suttner-Platz"
 price: "1,5"
 type: "Fast food"
+latitude: 50.737368
+longitude: 7.101276
 ---
 
 The best AND cheapest AND freshest falafels in town. Right at the Bertha-Von-Suttner-Place. Its the newer part in the center, where the Konrad-Adenauer-Bridge comes from Beuel into the city. Has "Döners" as well.

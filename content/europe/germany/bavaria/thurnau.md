@@ -1,6 +1,8 @@
 ---
 title: "Thurnau"
 type: location
+latitude: 50.024448
+longitude: 11.394472
 ---
 
 Travel Guide

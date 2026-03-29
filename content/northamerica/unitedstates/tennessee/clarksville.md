@@ -1,6 +1,8 @@
 ---
 title: "Clarksville"
 type: location
+latitude: 36.527761
+longitude: -87.35887
 ---
 
 Travel Guide

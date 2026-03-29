@@ -1,6 +1,8 @@
 ---
 title: "Udzungwa National Park"
 type: location
+latitude: -7.780512
+longitude: 36.72792
 ---
 
 Udzungwa National Park, unlike most other national parks in Tanzania, is a high forest area and a place for walking. It is situated along the major fault line delimiting the eastern side of the Southern Highlands. The predominantly westerly winds here have to rise to higher and cooler levels with frequent rains as the result. The vegetation is therefore different from the usual woodlands; it consists of high and dense forest. It is very unusual in Africa to have continuous forest as here, from as low altitudes as about 200 m a.s.l. up to more than 2,000 m. with a gradual change of tree species composition.

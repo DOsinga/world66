@@ -1,6 +1,8 @@
 ---
 title: "M’zab"
 type: location
+latitude: 32.482007
+longitude: 3.665531
 ---
 
 We currently have no information about .

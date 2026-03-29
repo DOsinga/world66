@@ -5,6 +5,8 @@ address: "124 El Haram St.,"
 email: "viajes@egyptonlinetours.com"
 phone: "01114214428"
 url: "www.spanish.egyptonlinetours.com"
+latitude: 24.465533
+longitude: 39.614114
 ---
 
 **Itinerario: Cada Lunes de Luxor a Aswan crucero por 4 Noches.

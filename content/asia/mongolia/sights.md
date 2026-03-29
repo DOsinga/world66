@@ -4,6 +4,8 @@ type: section
 address: "Uvurkhangai Kharkhorin"
 type: "Churches and Cathedrals"
 url: "www.erdenezuu.mn"
+latitude: 47.154981
+longitude: 103.064913
 ---
 
 There will be a total eclipse of the sun on August 1, 2008. The path of totality will pass over Greenland, Russia (the Urals), Mongolia, and China. To view an eclipse, the sky must be clear, and the best conditions for this Eclipse may be in Westen Mongolia. There will be about 2 minutes of totality.

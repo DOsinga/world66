@@ -3,6 +3,8 @@ title: "Angeethi - the Grill"
 type: poi
 address: "Shangrila Resort Hotel"
 type: "Local"
+latitude: 35.427566
+longitude: 75.45574
 ---
 
 The grill is located adjacent to the Huqqa Pani lounge and follows the same earthen traditional theme. So after relexing in the lounge, you can come and watch our chefs prepare a variety of mountwatering barbeque dishes.

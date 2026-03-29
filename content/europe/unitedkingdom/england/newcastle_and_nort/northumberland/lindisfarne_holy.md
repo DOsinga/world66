@@ -1,6 +1,8 @@
 ---
 title: "Lindisfarne [Holy Island}"
 type: location
+latitude: 55.678526
+longitude: -1.793678
 ---
 
 This is a lovely place in its own right and an exceptionally important site for England's religious history, Christianity having emerged in a pagan area in the 7th century.

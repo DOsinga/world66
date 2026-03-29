@@ -1,6 +1,8 @@
 ---
 title: "Leyte island"
 type: location
+latitude: 10.784116
+longitude: 124.892321
 ---
 
 Travel Guide

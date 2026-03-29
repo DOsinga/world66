@@ -1,6 +1,8 @@
 ---
 title: "Port Clinton"
 type: location
+latitude: 41.511995
+longitude: -82.937692
 ---
 
 Travel Guide

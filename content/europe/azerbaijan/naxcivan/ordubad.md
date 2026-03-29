@@ -1,6 +1,8 @@
 ---
 title: "Ordubad"
 type: location
+latitude: 39.076022
+longitude: 45.922805
 ---
 
 Travel Guide

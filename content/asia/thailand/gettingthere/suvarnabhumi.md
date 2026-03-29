@@ -2,6 +2,8 @@
 title: "Suvarnabhumi"
 type: poi
 type: "By Air"
+latitude: 13.694267
+longitude: 100.751288
 ---
 
 All the flights to and from Bangkok are from Suvarnabhumi (pronounced soo-van-a-poom) airport these days. Getting to and from Subarnabhumi can take at least two hours; be prepared!

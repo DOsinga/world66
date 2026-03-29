@@ -6,6 +6,8 @@ email: "atahualpa@skynet.be"
 phone: "04/232.17.27"
 type: "South American"
 url: "users.skynet.be"
+latitude: 50.64435
+longitude: 5.574653
 ---
 
 Greate service, with an owner who creates a familiar atmosphere. Like in most places i Liege the personnel only speaks French, but you get by with pointing at the English menu. You acually don't see English menus that often in Liege.

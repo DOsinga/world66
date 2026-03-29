@@ -7,6 +7,8 @@ phone: "407-351-6000"
 price: "$5 - $30"
 type: "Middle East"
 url: "www.cedarsoforlando.com"
+latitude: 28.44986
+longitude: -81.488461
 ---
 
 Fabulous Lebanese food! The Kibbeh Nayeh is incredible. A

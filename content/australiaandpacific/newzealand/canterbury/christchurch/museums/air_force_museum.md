@@ -2,6 +2,8 @@
 title: "Air Force Museum"
 type: poi
 type: "general"
+latitude: -43.546598
+longitude: 172.547661
 ---
 
 Let the **Air Force Museum** take you on a unique journey of discovery and adventure, with 28 amazing aircraft, captivating displays and fun, hands-on entertainment. One of Christchurch’s “must see” attractions, the Air Force Museum is a sensational family day out with a difference! 

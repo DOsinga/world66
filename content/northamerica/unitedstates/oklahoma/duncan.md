@@ -1,6 +1,8 @@
 ---
 title: "Duncan"
 type: location
+latitude: 34.502303
+longitude: -97.957813
 ---
 
 Travel Guide

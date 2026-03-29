@@ -2,6 +2,8 @@
 title: "By Air"
 type: poi
 type: "By Air"
+latitude: 50.834701
+longitude: -0.26421
 ---
 
 Cardiff is served by it's own International Airport, situated in around 15 miles to the south west of the city centre - next to the small village of Rhoose in South Glamorgan. It is linked to the city centre via a bus link into the city's main bus and rail terminal, just off St Mary's Street.

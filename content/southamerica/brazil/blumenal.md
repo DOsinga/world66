@@ -1,6 +1,8 @@
 ---
 title: "Blumenal"
 type: location
+latitude: -24.41873
+longitude: -53.88156
 ---
 
 Characteristics With superior standard of living to the Brazilian average, Blumenau possesss the dynamism of a modern center, high per capita income and baixíssimos indices of illiteracy and violence. It is a modern city, that offers good tourist infrastructure with tempers it of the German traditions. Date of foundation - 02 of September of 1850. Festive date - October (Oktoberfest). Main economic activities - Tourism, commerce and industry, with prominence for the textile production and of crystals, being also known for the production of ceramics, porcelains, chocolates caretakers and musical instruments. Population - 250,000 inhabitants. Settling - German. Main etnias - German and Italian. Localization - Average valley of the Itajaí-Açu, the 50 km of the coast. Area - the city had, initially, more than 10 a thousand Km2. Today the area of Blumenau is reduced little more than the 510 Km2, due to emancipation of more than 40 on cities to the old colony. Climate - Tempered hot, with average temperature between 16ºC and 27ºC. Altitude - 21m above of the level of the sea. Next Cities - Brusque, Indaial, Pomerode, Islet, Caspar, Apiúna, Timbó.

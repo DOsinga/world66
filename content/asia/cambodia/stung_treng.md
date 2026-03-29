@@ -1,6 +1,8 @@
 ---
 title: "Stung Treng"
 type: location
+latitude: 13.853291
+longitude: 106.088978
 ---
 
 Travel Guide

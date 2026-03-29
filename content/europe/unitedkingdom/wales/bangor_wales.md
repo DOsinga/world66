@@ -1,6 +1,8 @@
 ---
 title: "Bangor, Wales"
 type: location
+latitude: 53.227716
+longitude: -4.126882
 ---
 
 Travel Guide

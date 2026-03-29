@@ -1,6 +1,8 @@
 ---
 title: "Mexican Hat"
 type: location
+latitude: 37.172314
+longitude: -109.866209
 ---
 
 Travel Guide

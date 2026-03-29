@@ -1,6 +1,8 @@
 ---
 title: "Bardejov"
 type: location
+latitude: 49.292687
+longitude: 21.275603
 ---
 
 Bardejov is a small jewel in the north east of Slovakia. It has a

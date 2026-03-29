@@ -7,6 +7,8 @@ phone: "070-280-751 0799-614-872"
 price: "$10-$15"
 type: "Mexican"
 url: "www.lacantinakabul.blogspot.com"
+latitude: 47.46464
+longitude: 2.421208
 ---
 
 Mexican Food in Kabul

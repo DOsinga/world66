@@ -1,6 +1,8 @@
 ---
 title: "Salo"
 type: location
+latitude: 45.605677
+longitude: 10.520069
 ---
 
 For about two years Salo was the capital of Fascist Italy. In 1943 Italy surrendered to Allied Forces. Mussolini set up a fascist republic in Salo.

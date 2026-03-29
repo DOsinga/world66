@@ -1,6 +1,8 @@
 ---
 title: "Wollongong"
 type: location
+latitude: -34.424394
+longitude: 150.89385
 ---
 
 Travel Guide

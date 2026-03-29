@@ -1,6 +1,8 @@
 ---
 title: "Tanzania"
 type: location
+latitude: -6.524712
+longitude: 35.787844
 ---
 
 Tanzania is a big country in East Africa: it is a prime destination for people interested in big game and wildlife. 

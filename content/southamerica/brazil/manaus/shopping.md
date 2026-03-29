@@ -3,6 +3,8 @@ title: "Shopping"
 type: section
 email: "megacds27@hotmail.com"
 type: "Shopping centers and malls"
+latitude: -15.832444
+longitude: -47.950674
 ---
 
 Manaus is a great city to go shopping because of the Manaus Free Trade Zone. Products are cheaper than in other cities of Brazil. Manaus has the biggest shopping mall of the north of Brazil, the Amazonas Shopping Mall.

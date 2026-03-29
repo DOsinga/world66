@@ -1,6 +1,8 @@
 ---
 title: "Alberton"
 type: location
+latitude: -26.266989
+longitude: 28.122055
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ email: "info@itremercanti.it"
 phone: "+39041522290"
 type: "Other"
 url: "www.itremercanti.it"
+latitude: 45.436315
+longitude: 12.339359
 ---
 
 I tre Mercanti, Ponte della Guerra near San Marco Square

@@ -1,6 +1,8 @@
 ---
 title: "Ulyanovsk"
 type: location
+latitude: 54.315028
+longitude: 48.403373
 ---
 
 **Ulyanovsk** is the center of the Ulyanovsk Region that is located in the central part of European Russia. The region is a part of the Middle Volga Valley. 

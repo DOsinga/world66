@@ -1,6 +1,8 @@
 ---
 title: "Poiana Brasov"
 type: location
+latitude: 45.59671
+longitude: 25.556189
 ---
 
 Travel Guide

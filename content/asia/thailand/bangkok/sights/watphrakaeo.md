@@ -2,6 +2,8 @@
 title: "Wat Phra Kaeo"
 type: poi
 type: "Temples"
+latitude: 13.751497
+longitude: 100.492659
 ---
 
 Wat Phra Kaeo , situated in the same compound of the Grand Palace, is a treasure house of Thai arts, and houses the Emerald Buddha, the most revered Buddha image in Thailand. Three main buildings inside the temple which form up a glittering scene are the Golden Stupa, enshrining the relics of the Buddha, the Phra Mondop or the Library, housing the Tripitaka or a Buddhist scripture, the Royal Pantheon which is a pavilion used for keeping statues of deceased kings of Chakri dynasty. Besides, the 178 section mural paintings which depict the story of the Ramayana are the superb masterpiece of Rattanakosin artisans.

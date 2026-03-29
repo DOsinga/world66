@@ -1,6 +1,8 @@
 ---
 title: "Negros island"
 type: location
+latitude: 10.020665
+longitude: 122.97716
 ---
 
 Travel Guide

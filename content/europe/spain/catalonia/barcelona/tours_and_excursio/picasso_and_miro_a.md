@@ -5,6 +5,8 @@ address: "Barcelona"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 41.38258
+longitude: 2.177073
 ---
 
 On this private half day tour you will discover the art expressions of Picasso and Miro with an expect Local Art Guide…

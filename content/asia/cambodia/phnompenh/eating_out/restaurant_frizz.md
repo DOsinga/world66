@@ -5,6 +5,8 @@ address: "67 Street 240"
 phone: "+855(0)12-524801"
 type: "Local"
 url: "www.frizz-restaurant.com"
+latitude: 25.193336
+longitude: 55.436723
 ---
 
 Restaurant frizz (yes, no capital letter) at Phnom Penh's riverside

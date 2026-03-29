@@ -1,6 +1,8 @@
 ---
 title: "Savai’i"
 type: location
+latitude: -13.750162
+longitude: -172.2281
 ---
 
 We currently have no information about Savai’i.

@@ -1,6 +1,8 @@
 ---
 title: "karakoram lodge khaplu"
 type: location
+latitude: 35.162011
+longitude: 76.335454
 ---
 
 Travel Guide

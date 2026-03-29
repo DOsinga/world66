@@ -1,6 +1,8 @@
 ---
 title: "Morvan"
 type: location
+latitude: 47.097814
+longitude: 4.086389
 ---
 
 Think of Burgundy and you think of wine - and delicious wine at that. However Morvan is not a wine-growing area but a very large forest, home to wild boars and deer. It might not be one of the areas of France most suitable for a whole holiday but it provides some fine transit places - and could well be combined with seeing Vézelay.

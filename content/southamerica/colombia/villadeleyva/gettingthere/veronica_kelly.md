@@ -2,6 +2,8 @@
 title: "By Road"
 type: poi
 type: "By Road"
+latitude: 4.609726
+longitude: -75.740095
 ---
 
 Well it takes about 2 hours 30 minutes to get there, and you can

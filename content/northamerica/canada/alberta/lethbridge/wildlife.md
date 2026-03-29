@@ -1,9 +1,13 @@
 ---
 title: "Wildlife"
 type: location
+latitude: 44.018061
+longitude: -78.039865
 ---
 
-The prairie may look flat, but it is filled with a wide variety of interesting creatures.  
+The prairie may look flat, but it is filled with a wide variety of interesting creatures.
+ 
+ 
 
 **all**
 

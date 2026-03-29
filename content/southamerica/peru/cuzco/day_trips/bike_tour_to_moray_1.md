@@ -5,6 +5,8 @@ address: "CUZCO - PERU"
 email: "info@peruadventurestours.com"
 phone: "0051 54 221658"
 url: "www.peruadventurestours.com"
+latitude: -13.516954
+longitude: -71.979271
 ---
 
 **Mixed Tour To Discover Agricultural Laboratory, Salt Mines And The Best Inca Archaeological Site Of South America 2 Days - 1 Night**

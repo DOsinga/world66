@@ -2,6 +2,8 @@
 title: "The Piers"
 type: poi
 type: "Hotspots"
+latitude: 50.751673
+longitude: -1.896734
 ---
 
 Apart from the Pavilion, the other infamous image of Brighton is the

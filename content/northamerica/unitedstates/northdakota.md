@@ -1,6 +1,8 @@
 ---
 title: "North Dakota"
 type: location
+latitude: 47.620146
+longitude: -100.540737
 ---
 
 North Dakota is located in the north of the United States, between

@@ -1,6 +1,8 @@
 ---
 title: "Big Sur"
 type: location
+latitude: 36.143704
+longitude: -121.564593
 ---
 
 **Big Sur **is located on HWY 1 in ancient groves of redwood and oak trees in Pfeiffer Big Sur State Park. Big Sur, California is famous for its pristine natural beauty and dramatic, rugged coastline and has been an inspiration to writers, artists, and seekers of a more simple life.

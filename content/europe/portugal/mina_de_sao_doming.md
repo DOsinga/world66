@@ -1,6 +1,8 @@
 ---
 title: "Mina de Sao Domingos"
 type: location
+latitude: 37.671347
+longitude: -7.498263
 ---
 
 Travel Guide

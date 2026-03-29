@@ -1,6 +1,8 @@
 ---
 title: "Leibnitz"
 type: location
+latitude: 46.780476
+longitude: 15.5407
 ---
 
 You can see the wine hills of the Seggau castle from afar and you know:

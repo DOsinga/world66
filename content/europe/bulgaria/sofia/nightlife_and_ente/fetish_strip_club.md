@@ -7,6 +7,8 @@ email: "contact@fetishstripclub.com"
 phone: "+35929810770"
 type: "Erotic clubs and bars"
 url: "www.fetishstripclub.com"
+latitude: 42.623418
+longitude: 23.375828
 ---
 
 Fetish Club - the first, the best and the only

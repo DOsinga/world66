@@ -1,6 +1,8 @@
 ---
 title: "Durango"
 type: location
+latitude: 37.276948
+longitude: -107.8766
 ---
 
 Travel Guide

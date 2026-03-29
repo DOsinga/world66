@@ -2,6 +2,8 @@
 title: "Airports"
 type: poi
 type: "By Air"
+latitude: 37.090443
+longitude: -121.602362
 ---
 
 Washington has three major airports within its vicinity, all with pros and cons for traveling through them:

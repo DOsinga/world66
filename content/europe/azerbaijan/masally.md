@@ -1,6 +1,8 @@
 ---
 title: "Masally"
 type: location
+latitude: 39.032211
+longitude: 48.672109
 ---
 
 Travel Guide

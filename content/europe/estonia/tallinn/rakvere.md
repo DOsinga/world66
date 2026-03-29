@@ -1,6 +1,8 @@
 ---
 title: "Rakvere"
 type: location
+latitude: 59.348223
+longitude: 26.361717
 ---
 
 Travel Guide

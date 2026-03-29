@@ -1,6 +1,8 @@
 ---
 title: "Bouake"
 type: location
+latitude: 7.689021
+longitude: -5.028355
 ---
 
 We currently have no information about Bouake.

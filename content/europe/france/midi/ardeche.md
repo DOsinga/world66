@@ -1,6 +1,8 @@
 ---
 title: "Ardeche"
 type: location
+latitude: 44.815194
+longitude: 4.398652
 ---
 
 The Ardèche is a region that is most famous for its gorges. The impressive limestone canyon stretches out for over 30 kilometres and offers an altering view of steep rock walls covered on the top with green trees and disappearing at the bottom in the winding river with its rapids. The astonishing views, combined with an abundance of sportive activities, such as climbing and canoeing, make this area into a popular holiday spot.

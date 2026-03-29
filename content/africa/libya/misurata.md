@@ -1,6 +1,8 @@
 ---
 title: "Misurata"
 type: location
+latitude: 32.374592
+longitude: 15.09058
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ email: "info@marshallhouse.com"
 phone: "(912) 644-7896"
 type: "Local Specialities"
 url: "www.themarshallhouse.com"
+latitude: 32.078414
+longitude: -81.09055
 ---
 
 Featuring a glass roofed courtyard and an exposed kitchen, the 90 seat Marshall House restaurant, Cafe M, offers many traditional dishes, paired with the cuisine of the New South.

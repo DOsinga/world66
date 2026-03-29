@@ -1,6 +1,8 @@
 ---
 title: "Hov"
 type: location
+latitude: 61.506936
+longitude: -6.755742
 ---
 
 Travel Guide

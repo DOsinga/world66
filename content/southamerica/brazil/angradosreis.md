@@ -1,6 +1,8 @@
 ---
 title: "Angra dos reis"
 type: location
+latitude: -23.155541
+longitude: -44.234481
 ---
 
 Angra dos reis is one of the most paradise like destinations in Brazil. With loads of islands just off the coast and spectacular beaches it is a dream destination.

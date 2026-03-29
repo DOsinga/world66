@@ -1,6 +1,8 @@
 ---
 title: "Winelands"
 type: location
+latitude: -33.15101
+longitude: 19.615931
 ---
 
 Whether it is its magnificent natural beauty, its rich cultural heritage or its world-renowned wines, the Winelands Region is synonymous with all the best that the Cape has to offer. A 45-minute drive from Cape Town brings you to this area where splendid mountains form a dramatic backdrop to lush vineyards and gabled Cape Dutch homesteads steeped in history. Come experience the hospitality and beauty of [Stellenbosch](/africa/southafrica/capetown/stellenbosch), [Paarl](/africa/southafrica/capetown/paarl), [Wellington](/australiaandpacific/newzealand/wellington), Franschhoek and Pniel. The diversity of the Winelands will capture every heart. 

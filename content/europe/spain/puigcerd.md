@@ -1,6 +1,8 @@
 ---
 title: "Puigcerdà"
 type: location
+latitude: 42.431797
+longitude: 1.927869
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ opening_hours: "Dawn to Dusk"
 phone: "717-334-1124"
 type: "Graves and Cemeteries"
 url: "www.nps.gov"
+latitude: 39.819115
+longitude: -77.232693
 ---
 
 The main attraction in Gettysburg is the Gettysburg National Military Park, which was the sight of the largest battle ever waged during the American Civil War.

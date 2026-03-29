@@ -1,6 +1,8 @@
 ---
 title: "The Dead Sea"
 type: poi
+latitude: 31.196755
+longitude: 35.361366
 ---
 
 Stark beauty, splendid isolation; desert oases; Masada; rock climbing; cave exploration. Take your successful winners here any time of the year, for the pampering wonders of the Dead Sea spas. Mineral baths, mud packs and massage. They'll feel in heaven, at the lowest spot on earth. 

@@ -1,6 +1,8 @@
 ---
 title: "Ho"
 type: location
+latitude: 6.61266
+longitude: 0.468893
 ---
 
 Travel Guide

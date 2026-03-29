@@ -1,6 +1,8 @@
 ---
 title: "Louisville"
 type: location
+latitude: 38.254238
+longitude: -85.759407
 ---
 
 Sometimes called the biggest small town in America, Louisville is (literally and figuratively) at the crossroads of the urban north and rural south. 

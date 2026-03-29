@@ -1,6 +1,8 @@
 ---
 title: "Darling Harbour"
 type: location
+latitude: -33.867552
+longitude: 151.199562
 ---
 
 There’s always something ‘happening’ at Darling Harbour. Transformed in the 1980s from a derelict dockyard into one of the world’s great waterfront destinations, this amazing place is ‘a must see’ for visitors and a favourite playground for Sydneysiders and their guests. 

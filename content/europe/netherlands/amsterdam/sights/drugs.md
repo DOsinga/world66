@@ -1,6 +1,8 @@
 ---
 title: "Drugs"
 type: poi
+latitude: 51.942998
+longitude: 4.484308
 ---
 
 A lot of people come to Amsterdam for a little drug experimentation. Contrary to what most visitors seem to think, drugs are far from legal in Amsterdam. 
@@ -25,11 +27,17 @@ I have had several excellent 'lost' weekends in Amsterdam and it highly.
 
 **Abraxas**
 
-Do not miss this spot! You may have noticed (how could you miss it?) that there seems to be 2 types of coffeeshops - those that are opened strictly to make money and those that are born out of their owners desire to create a truly wonderful environment in which to 'travel'!  ABRAXAS coffeeshop is one of the latter. What could be more enticing than a comfortable, well-lit, space in which most (if not all!) of your senses are stimulated? Music, art, furniture, overall ambience, and of course some solid ganja to bring it all together. The owners of this place (I don't know them) have obviously spent a lot of time in putting this multi-level place together. Comprised of 4 floors of various rooms, it is a joy to wander around checking out the place and deciding in which environment you'd like to sort yourself out in and fly away.  Internet access, fun cameras trained on the lower-level, beautiful lighting, a grow-and-show attic lounge, great munchies bar and decent trees make ABRAXAS a really special place. Don't miss it and have fun. [more..](/europe/netherlands/amsterdam/drugs/abraxas)
+Do not miss this spot! You may have noticed (how could you miss it?) that there seems to be 2 types of coffeeshops - those that are opened strictly to make money and those that are born out of their owners desire to create a truly wonderful environment in which to 'travel'!
+ 
+ ABRAXAS coffeeshop is one of the latter. What could be more enticing than a comfortable, well-lit, space in which most (if not all!) of your senses are stimulated? Music, art, furniture, overall ambience, and of course some solid ganja to bring it all together. The owners of this place (I don't know them) have obviously spent a lot of time in putting this multi-level place together. Comprised of 4 floors of various rooms, it is a joy to wander around checking out the place and deciding in which environment you'd like to sort yourself out in and fly away.
+ 
+ Internet access, fun cameras trained on the lower-level, beautiful lighting, a grow-and-show attic lounge, great munchies bar and decent trees make ABRAXAS a really special place. Don't miss it and have fun.
+ [more..](/europe/netherlands/amsterdam/drugs/abraxas)
 
 **Greenhouse Tolstraat**
 
-THIS is one of the best if not the best in ADam. In the "old south" lower part of the city, it has the best atmosphere, best hashish, a full bar, a friendly helpful staff, and for my money the best ambience of all coffee shops. I went to many of the others listed as well, but this is always my favorite. Much mellower than Grey Area, and the dope is just as good.**hendrickx :**  [more..](/europe/netherlands/amsterdam/drugs/greenhousetolstraat)
+THIS is one of the best if not the best in ADam. In the "old south" lower part of the city, it has the best atmosphere, best hashish, a full bar, a friendly helpful staff, and for my money the best ambience of all coffee shops. I went to many of the others listed as well, but this is always my favorite. Much mellower than Grey Area, and the dope is just as good.**hendrickx :** 
+ [more..](/europe/netherlands/amsterdam/drugs/greenhousetolstraat)
 
 **Anyday**
 
@@ -37,11 +45,14 @@ A wonderful coffeeshop just minutes away from Centraal Station. The vaporisers a
 
 **Coffeeshop Anyday**
 
-This fabulous coffeeshop probably has the best enviroment of them all. The staff are extremely friendly and helpful. They will help find what your looking for. The vaporiser there is bar none the best design I have ever seen. The shop is small, but there was plans to open a second floor. I will find out soon, but until then this is a FIVE STAR place. Highly recomended [more..](/europe/netherlands/amsterdam/drugs/coffeeshopanyday)
+This fabulous coffeeshop probably has the best enviroment of them all. The staff are extremely friendly and helpful. They will help find what your looking for. The vaporiser there is bar none the best design I have ever seen. The shop is small, but there was plans to open a second floor. I will find out soon, but until then this is a FIVE STAR place. Highly recomended
+ [more..](/europe/netherlands/amsterdam/drugs/coffeeshopanyday)
 
 **De Tweede Kamer**
 
-Tweede Kamer is one of forerunners in the scene. Some years ago they opened De Dampkring, which is more widely known. Bigger doesn't really mean better, they sell the same stuff, but the Tweede Kamer is more intimate and more in crowd.  [more..](/europe/netherlands/amsterdam/drugs/detweedekamer)
+Tweede Kamer is one of forerunners in the scene. Some years ago they opened De Dampkring, which is more widely known. Bigger doesn't really mean better, they sell the same stuff, but the Tweede Kamer is more intimate and more in crowd.
+ 
+ [more..](/europe/netherlands/amsterdam/drugs/detweedekamer)
 
 address: Heisteeg 6
 
@@ -49,7 +60,8 @@ tel: +31 (0)20 4222236
 
 **The Rookies**
 
-The Rookies, close to the Leidseplein, is a perfect mixture between a coffeshop and a bar. Here you can just sit on the terrace or shoot some pool if you feel like it, or smoke some grass if you feel like something else. Cannabis is not a hot thing, which makes it very relaxed.**Anthon :** Geen donker hol met wat lowlifes in een hoekje, wat sommige mensen nog steeds denken dat een coffeeshop is, maar meer een zonnig cafe. Een hoop incrowd maar ook veel touristen uit het bijbehorend hotel, dus lekker gemengd. Je kunt hier ook prima op het terras zitten of poolen zonder dat je rookt! [more..](/europe/netherlands/amsterdam/drugs/therookies)
+The Rookies, close to the Leidseplein, is a perfect mixture between a coffeshop and a bar. Here you can just sit on the terrace or shoot some pool if you feel like it, or smoke some grass if you feel like something else. Cannabis is not a hot thing, which makes it very relaxed.**Anthon :** Geen donker hol met wat lowlifes in een hoekje, wat sommige mensen nog steeds denken dat een coffeeshop is, maar meer een zonnig cafe. Een hoop incrowd maar ook veel touristen uit het bijbehorend hotel, dus lekker gemengd. Je kunt hier ook prima op het terras zitten of poolen zonder dat je rookt!
+ [more..](/europe/netherlands/amsterdam/drugs/therookies)
 
 address: Korte Leidsedwarsstraat 145-147
 
@@ -59,19 +71,24 @@ zipcode: 1017 PZ
 
 **The Greenhouse Effect **
 
-Little and cosy, with an excelent selection of different kinds, available pre-rolled. They sell also seeds, if you want to try something at home (but be sure to realize any legal consequences).  ** Tarina:** Stayed in hotel right across the street. Favorite spot to go. Great selection, friendlist service and atmosphere!! Loved it and will return in April 01'. Happy 420!** :**  [more..](/europe/netherlands/amsterdam/drugs/thegreenhouseeffect)
+Little and cosy, with an excelent selection of different kinds, available pre-rolled. They sell also seeds, if you want to try something at home (but be sure to realize any legal consequences). 
+ ** Tarina:** Stayed in hotel right across the street. Favorite spot to go. Great selection, friendlist service and atmosphere!! Loved it and will return in April 01'. Happy 420!** :** 
+ [more..](/europe/netherlands/amsterdam/drugs/thegreenhouseeffect)
 
 address: Warmoestraat 53-55
 
 **De Grasshopper**
 
-Don't go here to meet the locals. This is definitely a tourist place. On the other hand, they're very much used to tourists, so you might feel more comfortable here then in one the smaller hidden away establishments. ** bob orange:** i found this place sells very tasty cakes
+Don't go here to meet the locals. This is definitely a tourist place. On the other hand, they're very much used to tourists, so you might feel more comfortable here then in one the smaller hidden away establishments.
+ ** bob orange:** i found this place sells very tasty cakes
 
 address: Oudebrugsteeg 16
 
 **De Dampkring **
 
-De Dampkring is really a sight to see. If you’re not sure you want to smoke, and just want to observe a coffee shop form inside, this is one of the most interesting places to go to, though far from average. Painted in bright colors and overall sculptured, you easily get the impression you’ve left Amsterdam for more oriental regions.  [more..](/europe/netherlands/amsterdam/drugs/dedampkring)
+De Dampkring is really a sight to see. If you’re not sure you want to smoke, and just want to observe a coffee shop form inside, this is one of the most interesting places to go to, though far from average. Painted in bright colors and overall sculptured, you easily get the impression you’ve left Amsterdam for more oriental regions.
+ 
+ [more..](/europe/netherlands/amsterdam/drugs/dedampkring)
 
 address: Handboogstraat 29
 

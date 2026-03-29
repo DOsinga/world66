@@ -1,6 +1,8 @@
 ---
 title: "kelaa m'gouna"
 type: location
+latitude: 31.240588
+longitude: -6.119259
 ---
 
 Travel Guide

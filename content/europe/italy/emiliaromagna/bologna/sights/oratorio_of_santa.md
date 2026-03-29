@@ -4,6 +4,8 @@ type: poi
 address: "Via Zamboni 15"
 opening_hours: "closed between 1300 and 1500"
 type: "Churches and Cathedrals"
+latitude: 44.495966
+longitude: 11.350121
 ---
 
 Small and tucked away in a side street of the Via Zamboni, entrance

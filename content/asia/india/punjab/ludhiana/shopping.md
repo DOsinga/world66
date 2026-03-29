@@ -4,6 +4,8 @@ type: section
 email: "info@allindiaflorist.com"
 type: "Antiques"
 url: "www.allindiaflorist.com"
+latitude: 10.673995
+longitude: 76.186901
 ---
 
 http://www.allindiaflorist.com/flowers-to-ludhiana.htm

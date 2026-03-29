@@ -1,6 +1,8 @@
 ---
 title: "CHIPLUN"
 type: location
+latitude: 17.525341
+longitude: 73.515567
 ---
 
 Travel Guide

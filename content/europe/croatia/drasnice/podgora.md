@@ -1,6 +1,8 @@
 ---
 title: "Podgora"
 type: location
+latitude: 43.243347
+longitude: 17.075071
 ---
 
 Travel Guide

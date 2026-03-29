@@ -1,6 +1,8 @@
 ---
 title: "Murnau am Staffelsee"
 type: location
+latitude: 47.677882
+longitude: 11.20119
 ---
 
 Travel Guide

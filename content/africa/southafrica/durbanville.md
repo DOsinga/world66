@@ -1,6 +1,8 @@
 ---
 title: "Durbanville"
 type: location
+latitude: -33.840278
+longitude: 18.649444
 ---
 
 Durbanville is an upmarket residential suburb situated in the heart of

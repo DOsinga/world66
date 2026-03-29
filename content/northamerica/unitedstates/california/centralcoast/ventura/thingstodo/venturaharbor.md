@@ -2,6 +2,8 @@
 title: "Ventura Harbor"
 type: poi
 type: "general"
+latitude: 34.249448
+longitude: -119.264833
 ---
 
 1603 Anchors Way Dr. 93001 805/642-8538

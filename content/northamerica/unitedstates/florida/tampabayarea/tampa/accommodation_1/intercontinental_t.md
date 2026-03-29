@@ -8,6 +8,8 @@ phone: "1 800 980 6431"
 price_per_night: "Varies"
 type: "First Class"
 url: "www.ichotelsgroup.com"
+latitude: 27.944257
+longitude: -82.525326
 ---
 
 After a $20 million renovation, the [InterContinental Tampa](/northamerica/unitedstates/florida/tampabayarea/tampa) is the newest luxury hotel in the bustling, upscale Westshore business & shopping district. Centrally located in the heart of Tampa, the hotel is 3 miles from Tampa Airport and 5 miles from downtown and the Convention Center. The InterContinental Tampa Hotel is conveniently located to Tampa area attractions including Raymond James Stadium, Legends Field, The St Petersburg Times Forum and the beautiful Gulf Coast Beaches. World class shopping and dining are all within walking distance of the hotel.

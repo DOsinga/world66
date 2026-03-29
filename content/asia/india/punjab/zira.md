@@ -1,6 +1,8 @@
 ---
 title: "Zira"
 type: location
+latitude: 30.971299
+longitude: 74.98818
 ---
 
 Travel Guide

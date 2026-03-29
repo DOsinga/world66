@@ -1,6 +1,8 @@
 ---
 title: "Ypres"
 type: location
+latitude: 50.852195
+longitude: 2.884605
 ---
 
 Ypres (locally: Ieper) is a small cosy town in Western Flanders, Belgium's coastal region. Its roots are back in the early middle ages. In those days, Ypres lived from its sheet-weaving industry. The trade was mainly with France, London, Italian States, and also up north with the Hanze. As the wealth was amounting quickly, the inhabitants raised some very impressing buildings, such as the cathedral. In the end of the 18th century, Flanders and Ieper were under French rule. Their famous architect Vauban designed the impressing fortifications, still in place today. 

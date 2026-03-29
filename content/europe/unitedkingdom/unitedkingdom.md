@@ -1,6 +1,8 @@
 ---
 title: "United Kingdom"
 type: location
+latitude: 54.702354
+longitude: -3.276575
 ---
 
 The United Kingdom is formed by [England](/europe/unitedkingdom/england), [Scotland](/europe/unitedkingdom/scotland), [Wales](/europe/unitedkingdom/wales) and [Northern Ireland](/europe/unitedkingdom/northernireland) and has been called the biggest small country on Earth due to its sheer diversity. 

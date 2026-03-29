@@ -2,6 +2,8 @@
 title: "Pune Airport (PNQ)"
 type: poi
 type: "By Air"
+latitude: 18.580375
+longitude: 73.918227
 ---
 
 Airport code: PNQ Pune is a military airport, be aware that airforce jet training might delay civil flights.

@@ -5,6 +5,8 @@ address: "The Fort, Bonifacio Global City, Manila"
 phone: "+632.8893963"
 type: "Italian"
 url: "www.loperagroup.com"
+latitude: 14.556726
+longitude: 121.054268
 ---
 
 A budget accommodation in Las Pinas Philippines.

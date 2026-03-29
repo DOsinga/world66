@@ -1,6 +1,8 @@
 ---
 title: "Makati"
 type: location
+latitude: 14.556795
+longitude: 121.021123
 ---
 
 Travel Guide

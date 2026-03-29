@@ -3,6 +3,8 @@ title: "AVALON, Bar + Grill"
 type: poi
 address: "Malostranske namesti 12, Praha 1"
 phone: "+42 (0)02 53 02 76, 53 02 63"
+latitude: 50.087649
+longitude: 14.402354
 ---
 
 Open: Daily 11.00 - 01.00

@@ -1,6 +1,8 @@
 ---
 title: "Bay City"
 type: location
+latitude: 43.596211
+longitude: -83.888171
 ---
 
 Travel Guide

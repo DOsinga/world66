@@ -1,6 +1,8 @@
 ---
 title: "GILAWALA"
 type: location
+latitude: 29.715196
+longitude: 71.476555
 ---
 
 Travel Guide

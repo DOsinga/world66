@@ -1,6 +1,8 @@
 ---
 title: "Salgueira Beach"
 type: poi
+latitude: 41.383531
+longitude: -8.771371
 ---
 
 Salgueira Beach is *Passeio Alegre*'s north end beach and

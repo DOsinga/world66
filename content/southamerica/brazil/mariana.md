@@ -1,6 +1,8 @@
 ---
 title: "Mariana"
 type: location
+latitude: -20.378147
+longitude: -43.417486
 ---
 
 mg

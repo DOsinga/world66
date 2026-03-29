@@ -1,6 +1,8 @@
 ---
 title: "Thai"
 type: poi
+latitude: 52.362517
+longitude: 4.936459
 ---
 
 love. 

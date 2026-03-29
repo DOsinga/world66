@@ -1,6 +1,8 @@
 ---
 title: "Marikina"
 type: location
+latitude: 14.633108
+longitude: 121.099354
 ---
 
 Travel Guide

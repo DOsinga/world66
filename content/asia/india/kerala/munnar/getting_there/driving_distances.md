@@ -2,6 +2,8 @@
 title: "tiruppur"
 type: poi
 type: "By Road"
+latitude: 10.791527
+longitude: 77.532547
 ---
 
 Driving distances from important places and routes (approximate distances)

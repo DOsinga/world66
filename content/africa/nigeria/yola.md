@@ -1,6 +1,8 @@
 ---
 title: "Yola"
 type: location
+latitude: 9.208925
+longitude: 12.480249
 ---
 
 We currently have no information about Yola.

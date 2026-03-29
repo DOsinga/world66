@@ -1,6 +1,8 @@
 ---
 title: "Atlantic City"
 type: location
+latitude: 39.364285
+longitude: -74.422935
 ---
 
 'Put your make up on & fix your hair up pretty, and meet me tonight in Atlantic City!' Bruce Springsteen knows - he was born and raised in New Jersey - that New Jersey is the best place to have fun East of [Las Vegas](/northamerica/unitedstates/nevada/lasvegas). And since Vegas does not have the ccean so close by, you might as well head for Atlantic City straight away.

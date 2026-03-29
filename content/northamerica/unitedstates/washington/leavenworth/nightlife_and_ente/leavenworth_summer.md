@@ -3,6 +3,8 @@ title: "Leavenworth Summer Theater"
 type: poi
 phone: "509.548.2000"
 url: "www.leavenworthsummertheater.org"
+latitude: 47.587875
+longitude: -120.672909
 ---
 
 Leavenworth Summer Theater Presents OUR 2005 SEASON *The Sound of Music* 

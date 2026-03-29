@@ -1,6 +1,8 @@
 ---
 title: "Brussels"
 type: location
+latitude: 50.846737
+longitude: 4.352493
 ---
 
 Beer, waffles and festivals - if this is what you’re looking for you will find them in abundance when you visit the country’s capital city (pop. 989 000). Brussels is the major gateway for the country: it is on the main routes heading inland from the Channel ports via the Flemish art towns and it is as well a convenient stopover on the train between France and the Netherlands. 

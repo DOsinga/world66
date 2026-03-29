@@ -1,6 +1,8 @@
 ---
 title: "Amanohashidate"
 type: location
+latitude: 35.568002
+longitude: 135.190638
 ---
 
 Travel Guide

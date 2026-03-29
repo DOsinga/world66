@@ -3,6 +3,8 @@ title: "Botanical Garden"
 type: poi
 address: "Green Cape"
 type: "Parks, Gardens and Zoos"
+latitude: -37.206667
+longitude: 149.987778
 ---
 
 The Batumi Botanical Garden is situated 9km north of Batumi. The area where it is located is called Mtsvane Kontskhi (Green Cape). The garden is tied to the name of Andrey Krasnov, who was an acknowledged scientist in botanical and physical geography. The Batumi Botanical Garden has no analogue in the world. Plants from completely diverse climatic and landscape zones co-exist side by side.

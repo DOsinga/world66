@@ -3,6 +3,8 @@ title: "Drive yourself"
 type: poi
 phone: "for  car  bookings at:  +31 517 491 500 (English spoken)"
 type: "By Road"
+latitude: 52.368455
+longitude: 4.948339
 ---
 
 **Ijsselmeer Dam route** (also called Closing dike or Afsluitdijk route).

@@ -1,6 +1,8 @@
 ---
 title: "Sakakah"
 type: location
+latitude: 29.978401
+longitude: 40.20477
 ---
 
 We currently have no information about Sakakah.

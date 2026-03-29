@@ -4,6 +4,8 @@ type: poi
 address: "Calle dei Do Mori"
 phone: "00 39 041 522 5401"
 type: "Wine bars"
+latitude: 45.438958
+longitude: 12.333955
 ---
 
 Probably one of the best. It's a bit hard to find but it's just west of the market near Rialto bridge. It is the place where the market salesmen hang out and have their drinks.

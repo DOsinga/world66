@@ -1,6 +1,8 @@
 ---
 title: "Abomey"
 type: location
+latitude: 7.182001
+longitude: 1.993632
 ---
 
 We currently have no information about Abomey.

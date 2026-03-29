@@ -1,6 +1,8 @@
 ---
 title: "Elimäki"
 type: location
+latitude: 60.720061
+longitude: 26.444932
 ---
 
 Travel Guide

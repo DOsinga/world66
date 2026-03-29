@@ -1,6 +1,8 @@
 ---
 title: "Coos Bay"
 type: location
+latitude: 43.367894
+longitude: -124.217465
 ---
 
 Coos Bay is the largest of the communities that comprise Oregon's Bay Area. The city, founded in the 1850's, was named Marshfield after the Massachusetts hometown of the city's founder J. C. Tolman, and was incorporated in 1874 under that name. In 1944, residents voted to change the name to Coos Bay.

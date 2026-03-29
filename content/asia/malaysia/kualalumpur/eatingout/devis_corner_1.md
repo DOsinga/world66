@@ -6,6 +6,8 @@ phone: "(603) 2282-7591"
 price: "RM3"
 type: "Indian and Pakistani"
 url: "my.pagenation.com"
+latitude: 3.135983
+longitude: 101.670594
 ---
 
 Excellent food at around every corner!

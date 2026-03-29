@@ -1,6 +1,8 @@
 ---
 title: "Diamante"
 type: location
+latitude: 39.67773
+longitude: 15.821128
 ---
 
 Travel Guide

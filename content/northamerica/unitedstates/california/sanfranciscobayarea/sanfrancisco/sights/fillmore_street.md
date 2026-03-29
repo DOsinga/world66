@@ -4,6 +4,8 @@ type: poi
 address: "Pacific Street & Market Street"
 type: "Streets"
 url: "www.zurdogo.com"
+latitude: 37.796909
+longitude: -122.430256
 ---
 
 The Fillmore neighborhood of San Francisco is not an "official"

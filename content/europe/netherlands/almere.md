@@ -1,6 +1,8 @@
 ---
 title: "Almere"
 type: location
+latitude: 52.441751
+longitude: 5.209294
 ---
 
 Almere (Flevoland) is a totally new-built town on the bottom of the former Zuiderzee / Ijsselmeer. The town was started in 1975 but now has already 180.000 inhabitants, now being the fastest growing city in The Netherlands.

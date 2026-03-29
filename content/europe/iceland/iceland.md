@@ -1,6 +1,8 @@
 ---
 title: "Iceland"
 type: location
+latitude: 64.984182
+longitude: -18.105901
 ---
 
 Iceland was settled in the 9th century by Norse vikings. The first settlement to last was that of Ingolfur Arnarson in Reykjavik. This is where most of the people of Iceland live. Reykjavik has a bustling nightlive, an exciting arts scene, and offers visitors the opportunity to explore the countryside in short trips to areas such as Thingvellir, Gullfoss and Geysir. 

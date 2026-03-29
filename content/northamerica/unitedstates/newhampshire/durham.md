@@ -1,6 +1,8 @@
 ---
 title: "Durham"
 type: location
+latitude: 35.996653
+longitude: -78.901805
 ---
 
 Travel Guide

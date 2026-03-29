@@ -3,6 +3,8 @@ title: "JJ's"
 type: poi
 address: "76 Xinjiekou Bei Dajie, Xicheng District."
 type: "Dancing"
+latitude: 39.945932
+longitude: 116.365951
 ---
 
 Tel 6618 9305

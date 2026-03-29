@@ -1,6 +1,8 @@
 ---
 title: "Natal South Coast"
 type: location
+latitude: -30.263826
+longitude: 30.740166
 ---
 
 The Natal "South Coast" is in fact on the eastern (Indian Ocean) seaboard of South Africa. It is probably the most popular holiday destination in South Africa due to the all year around warm climate caused by the Benguela current. 

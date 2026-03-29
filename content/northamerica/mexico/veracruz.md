@@ -1,6 +1,8 @@
 ---
 title: "Veracruz"
 type: location
+latitude: 19.333333
+longitude: -96.666667
 ---
 
 Veracruz is one of Mexico's most popular beach destinations. It has big hotels, lots of restaurants, but for the real Mexico you need to move on to other places.

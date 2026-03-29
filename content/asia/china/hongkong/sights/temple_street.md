@@ -2,6 +2,8 @@
 title: "Temple Street"
 type: poi
 type: "Hotspots"
+latitude: 22.30423
+longitude: 114.169693
 ---
 
 **The Yaumatei District**

@@ -1,6 +1,8 @@
 ---
 title: "Praia Verde"
 type: location
+latitude: 37.173886
+longitude: -7.479309
 ---
 
 Travel Guide

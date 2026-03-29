@@ -1,6 +1,8 @@
 ---
 title: "Alameda"
 type: location
+latitude: 37.609029
+longitude: -121.899142
 ---
 
 Travel Guide

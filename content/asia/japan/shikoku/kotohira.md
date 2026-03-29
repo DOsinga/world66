@@ -1,6 +1,8 @@
 ---
 title: "Kotohira"
 type: location
+latitude: 34.191594
+longitude: 133.82325
 ---
 
 Travel Guide

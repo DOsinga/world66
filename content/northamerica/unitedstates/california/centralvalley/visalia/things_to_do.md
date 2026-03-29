@@ -2,6 +2,8 @@
 title: "Things to do"
 type: section
 type: "general"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 ### [Central California Chinese Cultural Center](/northamerica/unitedstates/california/centralvalley/visalia/thingstodo/centralcaliforniachineseculturalcenter)

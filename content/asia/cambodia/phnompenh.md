@@ -1,6 +1,8 @@
 ---
 title: "Phnompenh"
 type: location
+latitude: 11.568271
+longitude: 104.922443
 ---
 
 Travel Guide

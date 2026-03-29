@@ -1,6 +1,8 @@
 ---
 title: "Kohat"
 type: location
+latitude: 33.596714
+longitude: 71.439994
 ---
 
 Travel Guide

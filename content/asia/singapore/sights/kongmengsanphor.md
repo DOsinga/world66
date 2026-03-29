@@ -4,6 +4,8 @@ type: poi
 address: "88 Bright Hill Drive"
 type: "Hotspots"
 url: "www.kmspks.org"
+latitude: 41.288046
+longitude: -72.516873
 ---
 
 This stunning temple is the largest Buddhist temple in Singapore,

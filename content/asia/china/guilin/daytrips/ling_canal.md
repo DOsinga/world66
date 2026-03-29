@@ -2,6 +2,8 @@
 title: "Ling Canal"
 type: poi
 url: "www.guilinchina.net"
+latitude: 25.613261
+longitude: 110.648911
 ---
 
 Ling Canal , situated at north of Xing' an, is 58 kilometers far from Guilin . It was built in 214B.C. (Qin Dynasty 33), and is also is called Qin Canal . It is 34 km long. It is the oldest canal in the world.

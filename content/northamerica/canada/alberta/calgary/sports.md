@@ -1,6 +1,8 @@
 ---
 title: "Things to do"
 type: location
+latitude: 43.647892
+longitude: -79.384206
 ---
 
 What's your preference - participating in a sport, or watching the sport? Either way, here are some options to consider.
@@ -29,11 +31,14 @@ See the Calgary Flames take on other National Hockey League teams at the Pengrow
 
 **Calgary Soccer Centre . **
 
-The first purpose-built indoor soccer facility in North America, the centre has two 63-foot clearspan roofs covering seven indoor soccer fields, three with flooring to allow in-line hockey and ball hockey, spectator seating and support facilities. A restaurant and pub are also on-site.   Tel: [more..](/northamerica/canada/alberta/calgary/sports/calgarysoccercentre)
+The first purpose-built indoor soccer facility in North America, the centre has two 63-foot clearspan roofs covering seven indoor soccer fields, three with flooring to allow in-line hockey and ball hockey, spectator seating and support facilities. A restaurant and pub are also on-site. 
+ 
+ Tel: [more..](/northamerica/canada/alberta/calgary/sports/calgarysoccercentre)
 
 **Calgary Stampeders . **
 
-The Stampeders have been in the Canadian Football League since 1945 and are winners of the 1948, 1971 and 1992 Grey Cups. Home games are July to November. Prices vary. 289-0258. Games held at McMahon Stadium. Across Crowchild Trail from the northwest Banff Trail C-Train station.  
+The Stampeders have been in the Canadian Football League since 1945 and are winners of the 1948, 1971 and 1992 Grey Cups. Home games are July to November. Prices vary. 289-0258. Games held at McMahon Stadium. Across Crowchild Trail from the northwest Banff Trail C-Train station. 
+ 
 
 **Canadian Airlines Saddledome . **
 

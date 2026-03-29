@@ -8,6 +8,8 @@ price: "100 EEK"
 type: "African"
 url: "www.valgelaev.ee"
 zipcode: "76805"
+latitude: 59.350352
+longitude: 24.058812
 ---
 
 ### [Valge Laev (eng. White Ship)](/europe/estonia/paldiski/eatingout/valge_laev_eng_w)

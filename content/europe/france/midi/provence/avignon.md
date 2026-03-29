@@ -1,6 +1,8 @@
 ---
 title: "Avignon"
 type: location
+latitude: 43.949249
+longitude: 4.805901
 ---
 
 Avignon is a agreat city in the south of France and is home to the beautiful Pope's Palace. This enchanting historical city was built has a rich history and would make a perfect vacation stop on the way to the

@@ -1,6 +1,8 @@
 ---
 title: "Marion"
 type: location
+latitude: 32.793166
+longitude: -94.344488
 ---
 
 Travel Guide

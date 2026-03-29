@@ -5,6 +5,8 @@ address: "25 Bennetts Lane"
 closing_time: "Midnight"
 type: "Jazz"
 url: "www.bennettslane.com"
+latitude: 45.325627
+longitude: -61.031065
 ---
 
 Like most good things in Melbourne, Bennett's Lane is at the back of a

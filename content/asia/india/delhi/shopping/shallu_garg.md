@@ -6,6 +6,8 @@ email: "giftwithlove@hotmail.com"
 phone: "91-80-41161529"
 type: "Shopping centers and malls"
 url: "www.giftwithlove.com"
+latitude: 12.98463
+longitude: 77.737733
 ---
 
 Same day delivery of Gifts and flowers to all over India. Gifts are available for all kind of Occasion for anytime anywhere delivery. http://www.giftwithlove.com

@@ -6,6 +6,8 @@ address: "springs"
 email: "kato.umar@yahoo.com"
 phone: "0721020013"
 type: "Other"
+latitude: -26.255003
+longitude: 28.437315
 ---
 
 Some travelers probably think of Johannesburg, South Africa, as a place to land, do business and then leave, but, if that is their attitude they are missing many worthwhile sites as the South African city broadens its travel offerings of **Johannesburg things to do**.

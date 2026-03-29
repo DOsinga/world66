@@ -6,6 +6,8 @@ email: "info@skandinavianbar.com"
 phone: "00306948573202"
 type: "Clubs and dancing"
 url: "www.skandinavianbar.com"
+latitude: 37.445038
+longitude: 25.325966
 ---
 
 In the summertime Mykonos has for sure the most vibrant nightlife in

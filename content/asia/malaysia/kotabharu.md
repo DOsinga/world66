@@ -1,6 +1,8 @@
 ---
 title: "Kota bharu"
 type: location
+latitude: 6.124791
+longitude: 102.237807
 ---
 
 **KOTA BHARU, KELANTAN, MALAYSIA** 

@@ -1,6 +1,8 @@
 ---
 title: "Gay"
 type: poi
+latitude: 51.43657
+longitude: 5.473388
 ---
 
 **Place to go outs**

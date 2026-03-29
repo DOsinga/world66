@@ -1,6 +1,8 @@
 ---
 title: "Negros Oriental"
 type: location
+latitude: 9.75
+longitude: 123.0
 ---
 
 Travel Guide

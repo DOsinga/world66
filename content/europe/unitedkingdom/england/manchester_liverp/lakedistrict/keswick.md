@@ -1,6 +1,8 @@
 ---
 title: "Keswick"
 type: location
+latitude: 54.601026
+longitude: -3.1377
 ---
 
 Travel Guide

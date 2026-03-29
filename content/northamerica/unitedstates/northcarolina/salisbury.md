@@ -1,6 +1,8 @@
 ---
 title: "Salisbury"
 type: location
+latitude: 35.670973
+longitude: -80.474226
 ---
 
 Travel Guide

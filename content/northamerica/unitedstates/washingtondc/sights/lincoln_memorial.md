@@ -4,6 +4,8 @@ type: poi
 opening_hours: "Open 24/7, closed December 25"
 type: "Memorials"
 url: "www.nps.gov"
+latitude: 38.889212
+longitude: -77.050172
 ---
 
 The **Lincoln Memorial** at the west end of the Mall is

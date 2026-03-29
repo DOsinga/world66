@@ -1,6 +1,8 @@
 ---
 title: "Asmara"
 type: location
+latitude: 15.338967
+longitude: 38.932676
 ---
 
 Amsara is the capital of Eritrea. It is located some 60 km inland at an altitude of 2000 meters. It is a lot cooler and more pleasant than [Massawa](/africa/eritrea/massawa) on the coast. 

@@ -1,9 +1,12 @@
 ---
 title: "KATOCH GARH TIRA SUJANPUR"
 type: location
+latitude: 31.828577
+longitude: 76.51212
 ---
 
-KATOCH GARH TIRA SUJANPUR By Katoch B Mr 
+KATOCH GARH TIRA SUJANPUR
+ By Katoch B Mr 
 
 Himachal Travels Dharamsala HP. 
 

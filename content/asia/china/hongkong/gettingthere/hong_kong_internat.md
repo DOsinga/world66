@@ -3,6 +3,8 @@ title: "Hong Kong International Airport"
 type: poi
 type: "By Sea"
 url: "www.air-port-transfer.net"
+latitude: 22.312599
+longitude: 113.9173
 ---
 
 You can fly to Hong Kong from virtually anywhere, since Hong Kong is one of the major transit points for many flights. From the airport you can easily access the city by all modes of transportation available: taxi, train, bus, and hired limousine.

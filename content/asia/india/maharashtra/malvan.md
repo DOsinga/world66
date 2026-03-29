@@ -1,6 +1,8 @@
 ---
 title: "Malvan"
 type: location
+latitude: 16.06064
+longitude: 73.46695
 ---
 
 Travel Guide

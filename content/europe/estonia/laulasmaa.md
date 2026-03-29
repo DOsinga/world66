@@ -1,6 +1,8 @@
 ---
 title: "Laulasmaa"
 type: location
+latitude: 59.370955
+longitude: 24.24225
 ---
 
 Travel Guide

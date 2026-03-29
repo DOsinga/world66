@@ -1,6 +1,8 @@
 ---
 title: "Kenya"
 type: location
+latitude: 1.441968
+longitude: 38.431398
 ---
 
 Kenya has something for any traveller. There are many different landscapes and cultures, all quite different and beautiful. There is the desert of the north, and The Rift Valley where evidence of protohumans was first found. There are many brilliant Lakes , including Lake Victoria in western Kenya, Lake Naivasha and many more. Kenya has the second highest peak in Africa, the great Mt. Kenya . It has twenty National Parks and Reserves packed full of the exlusive “Big Five” (Elephant, Leopard, Lion, Cape Buffalo, and Rhinoceros).

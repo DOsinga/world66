@@ -6,6 +6,8 @@ email: "info@panevino.com.vn"
 phone: "8269080"
 type: "Italian"
 url: "www.panevino.com.vn"
+latitude: 21.863325
+longitude: 106.761211
 ---
 
 Very popular Italian restaurant and wine shop located near the Opera House in a perfectly restored colonial building.

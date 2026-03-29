@@ -1,6 +1,8 @@
 ---
 title: "Tiberias"
 type: location
+latitude: 32.787004
+longitude: 35.518781
 ---
 
 We currently have no information about Tiberias.

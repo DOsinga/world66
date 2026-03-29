@@ -1,6 +1,8 @@
 ---
 title: "Whitby"
 type: location
+latitude: 54.487414
+longitude: -0.615511
 ---
 
 Travel Guide

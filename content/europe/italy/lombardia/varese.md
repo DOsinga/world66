@@ -1,6 +1,8 @@
 ---
 title: "Varese"
 type: location
+latitude: 45.83972
+longitude: 8.754134
 ---
 
 Travel Guide

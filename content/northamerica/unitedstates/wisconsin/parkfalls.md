@@ -1,6 +1,8 @@
 ---
 title: "Park Falls"
 type: location
+latitude: 45.933825
+longitude: -90.451745
 ---
 
 Located in Price County, with 300,000 acres of unspoiled public land, Park Falls is the headquarters of the 850,000-acre Chequamegon National Forest.

@@ -1,6 +1,8 @@
 ---
 title: "John"
 type: location
+latitude: 43.263841
+longitude: -2.939489
 ---
 
 Travel Guide

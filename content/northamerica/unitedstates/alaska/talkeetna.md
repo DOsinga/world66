@@ -1,6 +1,8 @@
 ---
 title: "Talkeetna"
 type: location
+latitude: 62.267644
+longitude: -150.029529
 ---
 
 Talkeetna is about three hours north of Anchorage, by rail on the Alaska Railroad ( www.alaskarailroad.com). It's to the south east of Denali National Park, a well known place to visit in Alaska. Talkeetna is the staging point for climbers who are tackling Mt McKinley/Mt Denali, and it's rumoured that it was the inspiration for the television series, Northern Exposure. It's a small town, one paved road (Talkeetna Spur Road, the road in to Talkeetna from the highway), but with lots and lots of character. It's at the end of the road too, so you won't pass through Talkeetna on the way to somewhere else; you need to make the effort to go - do it, it's worth it.

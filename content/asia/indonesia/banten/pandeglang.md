@@ -1,6 +1,8 @@
 ---
 title: "Pandeglang"
 type: location
+latitude: -6.547377
+longitude: 105.799488
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Wildlife"
 type: location
 type: "general"
+latitude: 44.018061
+longitude: -78.039865
 ---
 
 Artic wildlife is spectacular and well worth any efforts taken to carry yourself into the north country. Do not irritate the wildlife or treat them as pets. No point getting eaten on your holiday travels. 

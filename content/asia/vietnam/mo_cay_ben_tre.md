@@ -1,6 +1,8 @@
 ---
 title: "Mo Cay, Ben Tre"
 type: location
+latitude: 10.130133
+longitude: 106.334446
 ---
 
 ** Introduction **

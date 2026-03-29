@@ -6,6 +6,8 @@ email: "ace.asis07@gmail.com"
 opening_hours: "8:00 a.m"
 type: "Hotspots"
 url: "kawasanfalls.blogspot.com"
+latitude: 9.811039
+longitude: 123.367682
 ---
 
 A brief trip brings you to the famous Kawasan Waterfalls, a three tiered cascade of crystal clear mountain springs. Enjoy the picnic to lush scenery, tropical forest, and a cool swim. A very unique experience. **How to get there**

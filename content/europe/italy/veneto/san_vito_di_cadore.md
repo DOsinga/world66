@@ -1,6 +1,8 @@
 ---
 title: "San Vito di Cadore"
 type: location
+latitude: 46.476412
+longitude: 12.207878
 ---
 
 Travel Guide

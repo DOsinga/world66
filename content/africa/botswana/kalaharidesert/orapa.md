@@ -1,6 +1,8 @@
 ---
 title: "Orapa"
 type: location
+latitude: -21.336196
+longitude: 25.364964
 ---
 
 Orapa is the diamond capital of Botswana. Diamonds were discovered in Botswana just over thirty years ago. De Beer geologists discovered the first diamonds in 1967 in Orapa, only a year after Botswana’s Independence.

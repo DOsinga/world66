@@ -7,6 +7,8 @@ phone: "(978) 452-8092 or (978) 459-7652"
 price: "$8.00-$21.00"
 type: "Greek"
 url: "www.newolympia.com"
+latitude: 42.646499
+longitude: -71.316762
 ---
 
 The variety of restaurant options in Lowell is reflective of the city's rich cultural history. Whether you want American, Poruguese, Greek, Italian, Asian, Brazilian, or Spanish, it's available in Lowell.

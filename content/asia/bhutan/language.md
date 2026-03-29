@@ -1,6 +1,8 @@
 ---
 title: "Language"
 type: location
+latitude: 27.475743
+longitude: 89.63902
 ---
 
 For centuries, the different valleys of Bhutan were isolated from each other by torrential rivers and deep gorges. As a result, most of these valleys developed their own dialects. At present, there are about 13 different dialects spoken in Bhutan. 

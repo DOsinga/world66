@@ -1,6 +1,8 @@
 ---
 title: "Bokaro"
 type: location
+latitude: 23.699128
+longitude: 85.991069
 ---
 
 Travel Guide

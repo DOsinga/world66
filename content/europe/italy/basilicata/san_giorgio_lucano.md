@@ -1,6 +1,8 @@
 ---
 title: "San Giorgio Lucano"
 type: location
+latitude: 40.11191
+longitude: 16.387986
 ---
 
 Travel Guide

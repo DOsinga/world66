@@ -1,6 +1,8 @@
 ---
 title: "Kołobrzeg"
 type: location
+latitude: 54.176068
+longitude: 15.576554
 ---
 
 Travel Guide

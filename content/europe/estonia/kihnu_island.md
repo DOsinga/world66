@@ -1,6 +1,8 @@
 ---
 title: "Kihnu Island"
 type: location
+latitude: 58.126136
+longitude: 23.985261
 ---
 
 Travel Guide

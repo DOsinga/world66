@@ -5,6 +5,8 @@ address: "9, Galaktion Tabidze street"
 email: "info@exotour.ge"
 phone: "99532 913191"
 url: "www.exotour.ge"
+latitude: 41.691642
+longitude: 44.801035
 ---
 
 Located in 20 km. from Tbilisi City center Mtskheta is beloved place for local travellers and foreign visitors of Country. Favourite places to visit in

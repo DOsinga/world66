@@ -1,6 +1,8 @@
 ---
 title: "Sikasso"
 type: location
+latitude: 11.529684
+longitude: -6.866326
 ---
 
 We currently have no information about Sikasso.

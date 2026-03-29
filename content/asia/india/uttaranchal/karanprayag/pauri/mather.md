@@ -1,6 +1,8 @@
 ---
 title: "Mather"
 type: location
+latitude: 9.957296
+longitude: 76.295328
 ---
 
 Travel Guide

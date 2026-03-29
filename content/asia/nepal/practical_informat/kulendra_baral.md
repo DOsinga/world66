@@ -7,6 +7,8 @@ email: "info@nepalvisitors.com"
 phone: ":+977-1-4263133"
 type: "Tourist information"
 url: "www.nepalvisitors.com"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 Nepal Visitors Network

@@ -1,6 +1,8 @@
 ---
 title: "Surry Hills"
 type: location
+latitude: -33.884512
+longitude: 151.21003
 ---
 
 We currently have no information about Surry Hills.

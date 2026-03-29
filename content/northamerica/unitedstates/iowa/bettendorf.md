@@ -1,6 +1,8 @@
 ---
 title: "Bettendorf"
 type: location
+latitude: 41.525379
+longitude: -90.509864
 ---
 
 Travel Guide

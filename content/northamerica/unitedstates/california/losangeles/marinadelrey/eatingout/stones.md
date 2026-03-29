@@ -6,6 +6,8 @@ phone: "310/ 301-3000"
 price: "Dinner entrees $14 - $35"
 type: "Local"
 url: "www.marriotthotels.com"
+latitude: 33.982156
+longitude: -118.460155
 ---
 
 Located in the Marina Marriott Hotel, serving California Cuisine. Open daily for breakfast, lunch and dinner. Patio has Habor views. Validated 2 hour parking.

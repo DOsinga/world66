@@ -1,6 +1,8 @@
 ---
 title: "Jiuzhaigou"
 type: location
+latitude: 33.30716
+longitude: 103.932599
 ---
 
 Travel Guide

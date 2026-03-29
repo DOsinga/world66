@@ -8,6 +8,8 @@ opening_hours: "8 Am to 10 Pm"
 phone: "223344"
 type: "Hotspots"
 url: "www.statewatchco.in"
+latitude: -8.981433
+longitude: 13.393312
 ---
 
 Buy and Sell excellent watches for down to earth Rates

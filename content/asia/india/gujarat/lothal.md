@@ -1,6 +1,8 @@
 ---
 title: "Lothal"
 type: location
+latitude: 22.522677
+longitude: 72.249308
 ---
 
 Travel Guide

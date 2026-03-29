@@ -2,6 +2,8 @@
 title: "Plaza SantaMaría"
 type: location
 type: "Bullfights"
+latitude: 4.6131
+longitude: -74.068429
 ---
 
 Located near the [Parque de la Independencia](/southamerica/colombia/bogota/sights/parquedelaindependencia),

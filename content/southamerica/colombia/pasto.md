@@ -1,6 +1,8 @@
 ---
 title: "Pasto"
 type: location
+latitude: 1.214028
+longitude: -77.27851
 ---
 
 Pasto is the capital of the Narino department, in the south of Colombia. For centuries it has been an important religious and cultural centre and in town you will find a number of richly decorated colonial churches, the most notable being the Iglesia de Cristo Rey and the Iglesia de San Juan Bautista. 

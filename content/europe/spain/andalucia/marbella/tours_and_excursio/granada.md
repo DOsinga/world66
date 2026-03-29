@@ -1,6 +1,8 @@
 ---
 title: "Granada"
 type: poi
+latitude: 37.173499
+longitude: -3.599534
 ---
 
 Travel Guide

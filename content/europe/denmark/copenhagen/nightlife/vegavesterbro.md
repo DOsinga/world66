@@ -4,4 +4,6 @@ type: poi
 address: "40, Enghavevej"
 phone: "+45 33 25 80 12"
 url: "http:"
+latitude: 55.667996
+longitude: 12.544246
 ---

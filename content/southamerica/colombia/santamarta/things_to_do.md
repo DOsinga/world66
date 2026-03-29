@@ -6,6 +6,8 @@ email: "elsaligia@hotmail.com"
 phone: "0057-5-4316714"
 type: "Other"
 url: "www.neotropical.se"
+latitude: 21.004943
+longitude: -89.553061
 ---
 
 When it comes to Colombia, **Santa Marta things to do** are among the best activities in the entire region. A natural beauty, Santa Marta is nestled between fantastic mountains and sparkling seas. The history, the beauty and the fun can’t be beat in Santa Marta. Below are some things you just can’t miss out on during your trip to Santa Marta, South America’s oldest city.

@@ -5,6 +5,8 @@ address: "Spain"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 39.326068
+longitude: -4.837979
 ---
 
 Galicia, Northwestern Spain has always been known by National Spanish travelers as a destination to eat and drink an abundance of fresh Seafood and Fine Wines. Well, now Galicia's fame is becoming internationally known, thanks to high wine ratings in popular wine magazines like Wine Spectator and many others.

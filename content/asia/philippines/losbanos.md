@@ -1,6 +1,8 @@
 ---
 title: "Los Banos"
 type: location
+latitude: 14.17909
+longitude: 121.221791
 ---
 
 Travel Guide

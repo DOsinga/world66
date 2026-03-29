@@ -1,6 +1,8 @@
 ---
 title: "Oak Bluffs"
 type: location
+latitude: 41.453622
+longitude: -70.568434
 ---
 
 Travel Guide

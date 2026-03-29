@@ -1,6 +1,8 @@
 ---
 title: "Hurghada 360"
 type: location
+latitude: 27.249501
+longitude: 33.83303
 ---
 
 Travel Guide

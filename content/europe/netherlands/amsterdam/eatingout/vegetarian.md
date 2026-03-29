@@ -1,9 +1,12 @@
 ---
 title: "Vegetarian"
 type: poi
+latitude: 12.11314
+longitude: -68.872506
 ---
 
-You do not have to enter a special vegetarian restaurant, to receive fresh and delicious vegetarian food in Amsterdam. Most of the international Restaurants offer a big choice of vegetarian plates. The following places have more or less specialised on vegetarian food: 
+You do not have to enter a special vegetarian restaurant, to receive fresh and delicious vegetarian food in Amsterdam. Most of the international Restaurants offer a big choice of vegetarian plates. The following places have more or less specialised on vegetarian food:
+ 
 
 **Restaurants**
 

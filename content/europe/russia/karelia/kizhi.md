@@ -1,6 +1,8 @@
 ---
 title: "Kizhi"
 type: location
+latitude: 61.769693
+longitude: 34.370758
 ---
 
 Travel Guide

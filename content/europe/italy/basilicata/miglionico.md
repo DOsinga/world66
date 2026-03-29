@@ -1,6 +1,8 @@
 ---
 title: "Miglionico"
 type: location
+latitude: 40.569392
+longitude: 16.500966
 ---
 
 Travel Guide

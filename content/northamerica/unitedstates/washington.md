@@ -1,6 +1,8 @@
 ---
 title: "Washington"
 type: location
+latitude: 38.895037
+longitude: -77.036543
 ---
 
 [Seattle](/northamerica/unitedstates/washington/seattle) is one of the nicest cities to spend some time. Its location is really great and it is an excellent base for exploring the state. If you're into coffee, this is the place. Many a funky little coffee shop, including The Hurricane, on Seventh downtown. Highly recommended. 

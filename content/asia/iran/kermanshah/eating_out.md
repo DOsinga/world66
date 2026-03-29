@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 address: "Bargh st."
 type: "International"
+latitude: 29.560155
+longitude: 52.508428
 ---
 
 Zagros Pizza,Mosadegh St

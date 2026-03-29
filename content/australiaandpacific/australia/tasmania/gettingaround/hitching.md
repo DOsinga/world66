@@ -1,6 +1,8 @@
 ---
 title: "Hitching"
 type: poi
+latitude: -31.4548
+longitude: 118.851524
 ---
 
 "/>

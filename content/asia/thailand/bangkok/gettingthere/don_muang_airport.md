@@ -3,6 +3,8 @@ title: "Don Muang Airport"
 type: poi
 type: "By Air"
 url: "www.SigmaHotels.com"
+latitude: 13.912221
+longitude: 100.603531
 ---
 
 Don Muang International Airport is located north of the city. A departure tax of 500 Baht is levied on all international

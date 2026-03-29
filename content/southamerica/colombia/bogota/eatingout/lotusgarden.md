@@ -1,6 +1,8 @@
 ---
 title: "LOTUS GARDEN"
 type: poi
+latitude: 49.103594
+longitude: -122.492193
 ---
 
 This is my favourite place.

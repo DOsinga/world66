@@ -1,6 +1,8 @@
 ---
 title: "Quanzhou"
 type: location
+latitude: 25.190186
+longitude: 118.338717
 ---
 
 Travel Guide

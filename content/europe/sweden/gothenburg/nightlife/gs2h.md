@@ -6,6 +6,8 @@ closing_time: "03:00"
 email: "info@gs2h.com"
 type: "Gay and Lesbian"
 url: "www.gs2h.com"
+latitude: 59.322739
+longitude: 18.07307
 ---
 
 Gay Straight To Hell

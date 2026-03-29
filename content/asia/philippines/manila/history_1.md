@@ -1,6 +1,8 @@
 ---
 title: "History"
 type: location
+latitude: 14.583296
+longitude: 120.982276
 ---
 
 COlleges/Universities

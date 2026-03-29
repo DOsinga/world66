@@ -1,6 +1,8 @@
 ---
 title: "Buuhoodle"
 type: location
+latitude: 8.232184
+longitude: 46.325565
 ---
 
 Travel Guide

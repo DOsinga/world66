@@ -1,6 +1,8 @@
 ---
 title: "Pergamon"
 type: location
+latitude: 39.130623
+longitude: 27.184482
 ---
 
 We currently have no information about Pergamon.

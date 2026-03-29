@@ -1,6 +1,8 @@
 ---
 title: "Anjalankoski"
 type: location
+latitude: 60.697933
+longitude: 26.815071
 ---
 
 Travel Guide

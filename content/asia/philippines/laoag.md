@@ -1,6 +1,8 @@
 ---
 title: "Laoag"
 type: location
+latitude: 18.197323
+longitude: 120.593543
 ---
 
 Travel Guide

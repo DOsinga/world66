@@ -1,6 +1,8 @@
 ---
 title: "Shusha"
 type: location
+latitude: 39.763257
+longitude: 46.75115
 ---
 
 Travel Guide

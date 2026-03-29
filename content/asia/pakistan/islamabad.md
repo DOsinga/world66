@@ -1,6 +1,8 @@
 ---
 title: "Islamabad"
 type: location
+latitude: 33.693812
+longitude: 73.065151
 ---
 
 Islamabad, the capital of Pakistan, is located against the backdrop of Margalla Hills at the northern edge of Potohar Plateau. In contrast to its twin city Rawalpindi, it is lush green, spacious and peaceful. Most travelers will prefer the hustle and bustle of Pindi, but Islamabad has all the embassies and some other very useful institutions for travelers, so it is quite likely you will at least be coming over from Pindi a few times. 

@@ -1,6 +1,8 @@
 ---
 title: "Mount Emei"
 type: location
+latitude: 29.522665
+longitude: 103.336864
 ---
 
 Travel Guide

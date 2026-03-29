@@ -1,6 +1,8 @@
 ---
 title: "Versailles"
 type: location
+latitude: 48.80354
+longitude: 2.126689
 ---
 
 Versailles is known for one reason: the chateau. This marvellous palace of Louis XIV, the sun king is one of the most beautiful sights in the world and it takes at least a day to explore the palace and the gardens around it. Back in 1623, Louis XIII - father of Louis XIV - built a 'hunting lodge, a little gentleman's chateau' of brick, stone, and slate at Versailles. The king liked it so much that he soon had it enlarged by his 'royal engineer and architect', Philibert Le Roy (this early chateau survives in the buildings that flank the Marble Courtyard). Then from 1661 to 1668 the young Louis XIV, known as the Sun King, had his own architect, Louis Le Vau, embellish the residence. Yet this 'little house of cards', as the memorialist Duc de Saint-Simon called it, remained too small. Extensions were deemed necessary. 

@@ -1,6 +1,8 @@
 ---
 title: "Napier"
 type: location
+latitude: -39.49021
+longitude: 176.917839
 ---
 
 **Napier**

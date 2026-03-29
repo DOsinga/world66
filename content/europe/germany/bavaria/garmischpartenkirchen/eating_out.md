@@ -4,6 +4,8 @@ type: section
 address: "schmiedstrasse 1 82467 garmisch-partenkirchen"
 phone: "0049-882152181"
 type: "Chinese"
+latitude: 47.492691
+longitude: 11.088016
 ---
 
 **Contributors**

@@ -1,6 +1,8 @@
 ---
 title: "Midway Islands"
 type: location
+latitude: 28.241754
+longitude: -177.37543
 ---
 
 "/>

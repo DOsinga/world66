@@ -1,6 +1,8 @@
 ---
 title: "Santuario Nacional Tabaconas Namballe"
 type: location
+latitude: -5.172406
+longitude: -79.278118
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "1230 Danby Road"
 phone: "607-273-1505"
 type: "Gay and Lesbian"
 url: "www.ithacacommonground.com"
+latitude: 42.393719
+longitude: -76.497722
 ---
 
 As mentioned, Ithaca is known for a number of colleges and universities, which make up a substantial portion of the city population.

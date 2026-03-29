@@ -1,6 +1,8 @@
 ---
 title: "Peljesac"
 type: location
+latitude: 42.904567
+longitude: 17.47521
 ---
 
 **Peljesac peninsula **is the second largest in **Croatiam, **located in south Dalmatia in immediate proximity of [Dubrovnik](/europe/croatia/dubrovnik) . Natural beauty on Peljesac still stands against commercial and urban values. 

@@ -1,6 +1,8 @@
 ---
 title: "Kishtwar"
 type: location
+latitude: 33.310791
+longitude: 75.769421
 ---
 
 Travel Guide

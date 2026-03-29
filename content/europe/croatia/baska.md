@@ -1,6 +1,8 @@
 ---
 title: "baska"
 type: location
+latitude: 44.970933
+longitude: 14.750801
 ---
 
 Travel Guide

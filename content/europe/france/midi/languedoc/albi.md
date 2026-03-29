@@ -1,6 +1,8 @@
 ---
 title: "Albi"
 type: location
+latitude: 43.927755
+longitude: 2.147899
 ---
 
 We currently have no information about Albi.

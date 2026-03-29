@@ -1,6 +1,8 @@
 ---
 title: "Bad Gastein"
 type: location
+latitude: 47.087112
+longitude: 13.160853
 ---
 
 **Bad Gastein** in the **Salzburgerland** in [Austria](/europe/austria) once was the place where Kings, Queens and the "Rich and Famous" went. It has always been famous of their healthy baths containing radon. Using these baths is supposed to help against many diseases, in particular rheumatic diseases. Furthermore its splendid waterfall in the centre of the small town is a sight on its own, and worth a detour!

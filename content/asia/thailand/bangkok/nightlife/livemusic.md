@@ -1,6 +1,8 @@
 ---
 title: "Live music"
 type: poi
+latitude: 7.771052
+longitude: 98.319396
 ---
 
 **Place to go outs**
@@ -15,7 +17,8 @@ Also Bangkok has the unavoidable Hard Rock Cafe. Nevertheless it hosts the best 
 
 **Brown Sugar**
 
-This is one of Bangkok's best places for jazz music. The bar is located north of Lumpini parc on Sarasin Rd. Live music usually starts at 10 pm. Call 2550103 for more information. 
+This is one of Bangkok's best places for jazz music. The bar is located north of Lumpini parc on Sarasin Rd. Live music usually starts at 10 pm. Call 2550103 for more information.
+ 
 
 **Rock Pub**
 

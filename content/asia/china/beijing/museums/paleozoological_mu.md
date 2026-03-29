@@ -7,6 +7,8 @@ email: "pmc@ivpp.ac.cn"
 opening_hours: "Tuesday through Sunday, 9:00 to 16:30, last admission on 16:00"
 phone: "86-10-88369280; 86-10-88360210"
 url: "www.paleozoo.cn"
+latitude: 39.939789
+longitude: 116.430133
 ---
 
 Founded by and affiliated to the Institute of Vertebrate Paleontology and Paleoanthropology (IVPP), the Paleozoological Museum of China (PMC) is a natural science museum that is exclusively devoted to systematically popularizing knowledge of paleontology, paleoecology, paleoanthropology and the theory of evolution. It is also the largest specialized museum in Asia for the topic of the evolution of vertebrate animals.

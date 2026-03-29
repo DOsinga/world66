@@ -1,6 +1,8 @@
 ---
 title: "Tulsa"
 type: location
+latitude: 36.156312
+longitude: -95.992752
 ---
 
 Located northeast of

@@ -1,6 +1,8 @@
 ---
 title: "Pierre"
 type: location
+latitude: 44.368364
+longitude: -100.351136
 ---
 
 We currently have no information about Pierre.

@@ -1,6 +1,8 @@
 ---
 title: "Atiu"
 type: location
+latitude: -19.916358
+longitude: -158.197198
 ---
 
 We currently have no information about Atiu.

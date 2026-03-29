@@ -1,6 +1,8 @@
 ---
 title: "Ajmer"
 type: location
+latitude: 26.4691
+longitude: 74.639
 ---
 
 Ajmer is a main destination for muslim pligrims. It houses the Dargah of Sufi Saint Hazrat Khwaja Moinuddin Hasan Chisti. 

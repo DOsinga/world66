@@ -1,6 +1,8 @@
 ---
 title: "Oporto"
 type: location
+latitude: 41.150219
+longitude: -8.61035
 ---
 
 Built on the right bank of the Douro river, Oporto (or Porto) is a city where the old features contrast with the new. Its winding, hilly, narrow streets in the old town are a complement to its wide modern avenues which spread out to the suburbs. As capital of the north, Porto is very unpretentious and unashamedly commercial. As a Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies and Porto works". 

@@ -1,6 +1,8 @@
 ---
 title: "Cox's Bazar"
 type: location
+latitude: 21.442004
+longitude: 91.981246
 ---
 
 Travel Guide

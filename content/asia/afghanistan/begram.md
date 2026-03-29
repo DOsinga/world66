@@ -1,6 +1,8 @@
 ---
 title: "Begram"
 type: location
+latitude: 34.966944
+longitude: 69.265
 ---
 
 We currently have no information about Begram.

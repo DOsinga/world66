@@ -1,6 +1,8 @@
 ---
 title: "Ocean Isle"
 type: location
+latitude: 32.784463
+longitude: -79.789826
 ---
 
 Travel Guide

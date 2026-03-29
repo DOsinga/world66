@@ -1,6 +1,8 @@
 ---
 title: "Myrtle Beach"
 type: location
+latitude: 33.695646
+longitude: -78.890041
 ---
 
 Myrtle Beach is one of the top tourist spots on the Atlantic Coast for Canadians and white-trash from Ohio. It is one of the best places to go golfing in the whole of the US, with over 100 challenging courses that you probably can't afford. A temperate year round climate (except today with the freezing rain and all...), breathtaking scenic beauty, and first class accommodations, as well as a host of flea-bag motels, all contribute to Myrtle Beach being the top choice of racist golfers the world over! 

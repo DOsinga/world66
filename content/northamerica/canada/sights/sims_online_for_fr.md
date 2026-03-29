@@ -8,6 +8,8 @@ opening_hours: "Naomi"
 phone: "Naomi"
 type: "1"
 url: "www.mrcf.pub.ro"
+latitude: 41.486163
+longitude: -84.144115
 ---
 
 Well done!

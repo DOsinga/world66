@@ -1,6 +1,8 @@
 ---
 title: "Pipa"
 type: location
+latitude: -6.237259
+longitude: -35.044165
 ---
 
 Pipa is a small village near [Natal](/southamerica/brazil/natal) now a thriving international tourist destination, most of the one hundred plus hotels or Pousadas as they are known in Brazil are now owned by europeans. There are probably around ten really good quality restruants, my favourite is the Pacifico on the main street, owned and run by the chef James an american who got tired of the rat race international hotel buisness and now devotes his time to preparing some of the finest sea food dishes you are likely to experience. 

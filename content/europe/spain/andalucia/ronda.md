@@ -1,6 +1,8 @@
 ---
 title: "Ronda"
 type: location
+latitude: 36.742134
+longitude: -5.166592
 ---
 
 The natural drama of Ronda will leave you breathless! Ronda is divided in half by a steep river gorge which falls a sheer 130 m on each side. There is spectacular arched bridge crossing the gorge, where, according to our tour guide, the Arabs and the Christians used to keep their prisoners. The main attraction of this white-washed town, is the extraordinary views of the valley and the many walking possibilities. Also, if you have the extra money, a stay in the Ronda Parador, a beautiful hotel leaning from the gorge’s precipitous edge, is heavenly. 

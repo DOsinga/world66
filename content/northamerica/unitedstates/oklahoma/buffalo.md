@@ -1,6 +1,8 @@
 ---
 title: "Buffalo"
 type: location
+latitude: 42.886416
+longitude: -78.878149
 ---
 
 A Rust-Belt former industrial city, just rebounding from a decades

@@ -1,6 +1,8 @@
 ---
 title: "New London"
 type: location
+latitude: 41.355619
+longitude: -72.09978
 ---
 
 Travel Guide

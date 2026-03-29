@@ -1,6 +1,8 @@
 ---
 title: "Surat Thani"
 type: location
+latitude: 9.467466
+longitude: 98.830042
 ---
 
 Travel Guide

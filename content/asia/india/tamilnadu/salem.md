@@ -1,6 +1,8 @@
 ---
 title: "Salem"
 type: location
+latitude: 11.646962
+longitude: 78.210696
 ---
 
 Travel Guide

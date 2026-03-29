@@ -1,6 +1,8 @@
 ---
 title: "Oolagah"
 type: location
+latitude: 36.447366
+longitude: -95.692735
 ---
 
 Travel Guide

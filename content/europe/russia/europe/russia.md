@@ -1,6 +1,8 @@
 ---
 title: "Russia"
 type: location
+latitude: 64.686314
+longitude: 97.745306
 ---
 
 Russia has for many years been a land of mystery and intrigue to Westerners. For hundreds of years, depending on the direction of political winds, Russia has been an enigma, a friend, or an enemy of the West. 

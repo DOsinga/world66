@@ -6,6 +6,8 @@ email: "infor@ahhons.zzn.com"
 phone: "0888211391"
 type: "general"
 url: "free.hostdepartment.com"
+latitude: 41.877982
+longitude: -86.632855
 ---
 
 International Oriental and Chinese antiques sourcing agents. Only the finest, genuine examples at the best prices.

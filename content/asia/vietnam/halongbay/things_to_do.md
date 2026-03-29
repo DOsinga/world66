@@ -6,6 +6,8 @@ email: "hanoipeacetour@yahoo.com"
 phone: "(84-4) 568 2115"
 type: "Rowing and Canoeing"
 url: "www.hanoipeacetour.vn"
+latitude: 21.033857
+longitude: 105.855037
 ---
 
 **Kayak Halong Bay**

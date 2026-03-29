@@ -1,6 +1,8 @@
 ---
 title: "Al jahra"
 type: location
+latitude: 29.520518
+longitude: 47.306211
 ---
 
 We currently have no information about Al jahra.

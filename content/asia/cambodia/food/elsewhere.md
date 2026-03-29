@@ -7,6 +7,8 @@ email: "elsewhere@online.com.kh"
 phone: "+ 855 (0) 12 660 232"
 price: "8 USD"
 type: "European"
+latitude: 49.11812
+longitude: -122.738006
 ---
 
 elsewhere has an increadible setting. Eat on huge beds, set in a lush garden, arround a swimming pool and a 1920 colonial villa. A large variety of dumplings. Cocktail bar and fashion designer's shop in the house.

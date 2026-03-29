@@ -5,6 +5,8 @@ address: "Rio de Janeiro - Rua Felicio dos Santos, 54a"
 email: "southerncross@uol.com.br"
 phone: "**55 21 2252-6793"
 url: "www.brazil-nature-adventours.com"
+latitude: -22.922527
+longitude: -43.188061
 ---
 
 Brazil's Colonial Past

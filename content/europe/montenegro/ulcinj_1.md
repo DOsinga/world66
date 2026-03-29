@@ -1,6 +1,8 @@
 ---
 title: "Ulcinj"
 type: location
+latitude: 41.926012
+longitude: 19.205556
 ---
 
 Travel Guide

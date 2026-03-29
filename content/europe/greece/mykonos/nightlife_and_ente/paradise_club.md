@@ -5,6 +5,8 @@ address: "Paradise Club Mykonos"
 email: "info@paradiseclub-mykonos.com"
 type: "Clubs and dancing"
 url: "www.paradiseclub-mykonos.com"
+latitude: 37.410356
+longitude: 25.355498
 ---
 
 Paradise Club is a discoteque (open from 00 a.m. to 6 a.m.). The No1. Club in Mykonos with an amazing line up!

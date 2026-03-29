@@ -1,6 +1,8 @@
 ---
 title: "Great Falls"
 type: location
+latitude: 47.504885
+longitude: -111.29189
 ---
 
 Travel Guide

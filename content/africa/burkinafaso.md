@@ -1,6 +1,8 @@
 ---
 title: "Burkina Faso"
 type: location
+latitude: 12.075308
+longitude: -1.688031
 ---
 
 Burkina Faso — "the land of upright people" — is one of West Africa's most rewarding and least visited countries. Landlocked between Mali, Niger, Ghana, and Ivory Coast, it has none of the obvious drawcards that pull tourists to its neighbors: no coast, no Saharan dunes, no famous game reserves. What it has instead is an extraordinary cultural richness, warm and genuinely welcoming people, and landscapes that surprise anyone who imagines the Sahel as featureless scrub.

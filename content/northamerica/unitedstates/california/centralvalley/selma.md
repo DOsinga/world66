@@ -1,6 +1,8 @@
 ---
 title: "Selma"
 type: location
+latitude: 32.407863
+longitude: -87.020747
 ---
 
 In 1890 four farmers (J.D. Whitson, E.H. Tucker, George Otis and Monroe Snyder) formed a partnership, developed a townsite and began auctioning lots. The city of Selma was incorporated just three years later. 

@@ -1,6 +1,8 @@
 ---
 title: "Guiuan, Eastern Samar"
 type: location
+latitude: 11.030669
+longitude: 125.723669
 ---
 
 Travel Guide

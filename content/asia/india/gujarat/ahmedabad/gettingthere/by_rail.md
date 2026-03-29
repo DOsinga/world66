@@ -2,6 +2,8 @@
 title: "By Rail"
 type: poi
 type: "By Rail"
+latitude: 31.03859
+longitude: 77.376033
 ---
 
 Given here are some details of train schedules. It might be a good idea, for your own convenience, to check the exact Train Timings and Details. Vadodara and Baroda are two names used for the same place interchangeably.

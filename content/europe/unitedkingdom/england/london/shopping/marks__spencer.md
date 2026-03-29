@@ -5,6 +5,8 @@ address: "458 Oxford Street"
 phone: "+44 020 7935 7954"
 type: "Shopping centers and malls"
 url: "www.marksandspencer.com"
+latitude: 51.514583
+longitude: -0.154627
 ---
 
 Retail giant with more than 600 stores throughout the UK. Marks & Spencer sells everything from womenswear, menswear, lingerie, and electronics to books, CDs and DVDs, and luggage, and home furnishings.

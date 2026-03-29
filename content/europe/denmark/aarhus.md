@@ -1,6 +1,8 @@
 ---
 title: "Aarhus"
 type: location
+latitude: 56.149628
+longitude: 10.213405
 ---
 
 **Aarhus** is the second largest city of Denmark and the capital of Jutland, the mainland. It has a well-preserved historic centre, a few good museums and nice old churches. Close to the city are some good beaches, as well as opportunities for hiking and biking. 

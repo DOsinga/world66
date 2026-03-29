@@ -1,6 +1,8 @@
 ---
 title: "Dilijan"
 type: location
+latitude: 40.741713
+longitude: 44.872221
 ---
 
 Travel Guide

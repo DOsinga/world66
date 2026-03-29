@@ -1,6 +1,8 @@
 ---
 title: "Komodo"
 type: location
+latitude: -8.589191
+longitude: 119.462412
 ---
 
 Komodo is famous for its dragons. Giant lizards (probably not the right technical term) that can swallow an entire goat. 

@@ -1,6 +1,8 @@
 ---
 title: "Mangalagiri"
 type: location
+latitude: 16.431821
+longitude: 80.568807
 ---
 
 Travel Guide

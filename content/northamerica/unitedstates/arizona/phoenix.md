@@ -1,6 +1,8 @@
 ---
 title: "Phoenix"
 type: location
+latitude: 33.448437
+longitude: -112.074141
 ---
 
 Phoenix is the capital and largest city of the state of Arizona, United States. The biggest draw of Phoenix is its winter-time climate. You can expect frost about once every other year in Phoenix. Hordes of midwesterners flee to Phoenix each winter to escape the brutal cold back home. 

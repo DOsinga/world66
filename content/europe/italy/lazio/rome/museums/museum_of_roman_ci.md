@@ -5,6 +5,8 @@ accessibility: "Full access for persons with disabilities"
 address: "Piazza Giovanni Agnelli, 10 (EUR)"
 opening_hours: "Tue-Fri 9 - 14.00, Sat and Sun 9 - 19.00, Mon closed."
 phone: "+39.6.5926041"
+latitude: 41.832082
+longitude: 12.478099
 ---
 
 ** Museo della

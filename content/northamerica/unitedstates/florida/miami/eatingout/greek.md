@@ -1,6 +1,8 @@
 ---
 title: "Greek"
 type: poi
+latitude: 40.710145
+longitude: -74.01323
 ---
 
 Greek cuisine is one of the choices offered in Miami's multicultural melting pot

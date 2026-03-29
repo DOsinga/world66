@@ -1,6 +1,8 @@
 ---
 title: "Fubine"
 type: location
+latitude: 44.962752
+longitude: 8.42994
 ---
 
 We currently have no information about .

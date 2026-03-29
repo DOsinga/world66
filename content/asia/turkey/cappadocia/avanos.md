@@ -1,6 +1,8 @@
 ---
 title: "Avanos"
 type: location
+latitude: 38.870906
+longitude: 34.853666
 ---
 
 Avanos is the pottery centre of Cappadocia. The city is set on the banks of the Kizilirmak, meaning the Red River. The river gets its name from the clay that it deposits - the caly that is used for the pottery Avanos is famous for. 

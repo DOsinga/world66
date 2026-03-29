@@ -6,6 +6,8 @@ closing_time: "11 pm"
 email: "info@apartment195.co.uk"
 phone: "020 7351 5195"
 type: "Wine bars"
+latitude: 51.481382
+longitude: -0.182669
 ---
 
 **Apartment 195** is right in the heart of stylish Chelsea, making it perfect for unwinding after shopping or a busy day at work. Relax in the elegant surroundings of this beautiful listed building and admire the original fireplaces and contemporary art.

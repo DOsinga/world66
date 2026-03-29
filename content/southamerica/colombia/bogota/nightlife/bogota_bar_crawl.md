@@ -5,6 +5,8 @@ address: "Bogota"
 email: "eduardo@bogotabarcrawl.com"
 type: "Clubs and dancing"
 url: "www.BogotaBarCrawl.com"
+latitude: 4.653382
+longitude: -74.083633
 ---
 
 Experience the best of Bogota Nightlife in an all inclusive tour of the cities most popular pubs, bars and clubs!

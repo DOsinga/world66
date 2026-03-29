@@ -8,6 +8,8 @@ phone: "+855 92 328 051"
 price: "2.5$ - 6$"
 type: "International"
 url: "www.thelook-bar.com"
+latitude: 10.634925
+longitude: 103.505846
 ---
 
 A stylish but reasonable priced Bar- Restaurant. Chill out on our Veranda overlooking the Street Scène, play Pool for free, watch sport- events on multiple TV- Screens, Surf the Web (WiFi), make new Friends on our large Bar and enjoy a wide selection of Drinks and Khmer, Swiss and International Food.

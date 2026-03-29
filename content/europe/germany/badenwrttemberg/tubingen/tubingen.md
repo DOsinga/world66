@@ -1,6 +1,8 @@
 ---
 title: "Tubingen"
 type: location
+latitude: 48.520326
+longitude: 9.053596
 ---
 
 We currently have no information about .

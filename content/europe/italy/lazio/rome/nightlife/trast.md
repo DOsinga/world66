@@ -6,6 +6,8 @@ closing_time: "02,00"
 phone: "06 5894430"
 type: "Wine bars"
 url: "www.traste.it"
+latitude: 41.889424
+longitude: 12.474691
 ---
 
 Wonderfull cocktails, great athmosphere.

@@ -1,6 +1,8 @@
 ---
 title: "Khatgal"
 type: location
+latitude: 50.444229
+longitude: 100.157935
 ---
 
 Travel Guide

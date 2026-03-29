@@ -1,6 +1,8 @@
 ---
 title: "Simatai"
 type: location
+latitude: 39.781429
+longitude: 115.625229
 ---
 
 Travel Guide

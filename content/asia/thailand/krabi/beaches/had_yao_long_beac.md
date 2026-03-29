@@ -1,6 +1,8 @@
 ---
 title: "Had Yao (Long Beach)"
 type: poi
+latitude: 7.960259
+longitude: 98.958956
 ---
 
 Located in the rural backwaters of Krabi province in the south of Thailand you find the longest untouched beach of mainland Krabi. In convenient distance from the hordes of tourists poring into nearby Phuket and Au Nang, but only 25 kilometer from the new international airport of Krabi.

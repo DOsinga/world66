@@ -5,6 +5,8 @@ address: "Carrer Ferran 82"
 email: "reservas@sagardi.es"
 phone: "93 317 94 07"
 type: "Spanish"
+latitude: 41.410569
+longitude: 2.143565
 ---
 
 Right in the heart of the Barri Gotic, near Placa Jaime 1, a fusion

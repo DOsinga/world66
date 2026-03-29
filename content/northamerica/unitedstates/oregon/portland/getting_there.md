@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 type: "By Road"
 url: "www.greyhound.com"
+latitude: 39.841319
+longitude: -88.966486
 ---
 
 Here is how you can reach Portland.

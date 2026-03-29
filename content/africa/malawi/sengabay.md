@@ -1,6 +1,8 @@
 ---
 title: "Senga bay"
 type: location
+latitude: -13.766036
+longitude: 34.610703
 ---
 
 We currently have no information about Senga bay.

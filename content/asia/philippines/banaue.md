@@ -1,6 +1,8 @@
 ---
 title: "Banaue"
 type: location
+latitude: 16.911791
+longitude: 121.061407
 ---
 
 Travel Guide

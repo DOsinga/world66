@@ -1,6 +1,8 @@
 ---
 title: "Grand Rapids"
 type: location
+latitude: 42.963242
+longitude: -85.667864
 ---
 
 We currently have no information about Grand Rapids.

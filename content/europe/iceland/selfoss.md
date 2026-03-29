@@ -1,6 +1,8 @@
 ---
 title: "Selfoss"
 type: location
+latitude: 63.936809
+longitude: -21.003532
 ---
 
 The biggest town in South Iceland, about 4.900 inhabitants. Situated at the Ölfusá river.

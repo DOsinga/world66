@@ -1,6 +1,8 @@
 ---
 title: "Brazil"
 type: location
+latitude: -10.333333
+longitude: -53.2
 ---
 
 Brazil is the largest country of South America. It borders every other country of the continent except Chile and Ecuador.

@@ -1,6 +1,8 @@
 ---
 title: "Baltistan"
 type: location
+latitude: 35.999997
+longitude: 75.000002
 ---
 
 Travel Guide

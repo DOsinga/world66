@@ -1,6 +1,8 @@
 ---
 title: "Lake of the Ozarks"
 type: location
+latitude: 38.144373
+longitude: -92.659474
 ---
 
 The Lake of the Ozarks is located in the center of the state, 45 miles

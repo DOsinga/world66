@@ -1,6 +1,8 @@
 ---
 title: "Wye Valley"
 type: location
+latitude: 51.706856
+longitude: -2.692298
 ---
 
 The Wye starts in Mid-Wales and joins the Severn at its mouth going into the Bristol Channel. At times it forms the border between England and Wales but at other times it is entirely in Wales. 

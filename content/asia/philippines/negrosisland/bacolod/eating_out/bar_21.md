@@ -7,6 +7,8 @@ phone: "034.4334096"
 price: "A+"
 type: "First Class"
 url: "www.21restaurant.com"
+latitude: 14.621966
+longitude: 120.96347
 ---
 
 A Classy restobar along lacson

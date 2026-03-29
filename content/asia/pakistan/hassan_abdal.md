@@ -1,6 +1,8 @@
 ---
 title: "Hassan Abdal"
 type: location
+latitude: 33.816874
+longitude: 72.68572
 ---
 
 Hasan Abdal is 50 km west of [Rawalpindi](/asia/pakistan/rawalpindi). It is a beautiful, quiet place and a good place to stop on the way to [Peshawar](/asia/pakistan/peshawar) or Abbottabad.

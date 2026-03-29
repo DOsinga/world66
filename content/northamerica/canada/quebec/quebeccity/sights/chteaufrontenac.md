@@ -1,6 +1,8 @@
 ---
 title: "Château Frontenac"
 type: poi
+latitude: 46.811308
+longitude: -71.205054
 ---
 
 The historic Château Frontenac is not only a beautiful hotel but it is also a part of Québec City's history and culture. It is a romantic getaway and an excellent attraction to mark on your must-see list. 

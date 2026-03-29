@@ -1,6 +1,8 @@
 ---
 title: "south waziristan agency"
 type: location
+latitude: 32.333333
+longitude: 69.75
 ---
 
 Travel Guide

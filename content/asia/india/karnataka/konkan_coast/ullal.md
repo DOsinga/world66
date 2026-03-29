@@ -1,6 +1,8 @@
 ---
 title: "Ullal"
 type: location
+latitude: 12.81812
+longitude: 74.845938
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Searcy"
 type: location
+latitude: 35.901899
+longitude: -92.709874
 ---
 
 Travel Guide

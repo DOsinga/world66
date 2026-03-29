@@ -1,6 +1,8 @@
 ---
 title: "Vehari"
 type: location
+latitude: 30.044927
+longitude: 72.350095
 ---
 
 Travel Guide

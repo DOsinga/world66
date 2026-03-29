@@ -1,6 +1,8 @@
 ---
 title: "Bawku"
 type: location
+latitude: 11.06076
+longitude: -0.242288
 ---
 
 Travel Guide

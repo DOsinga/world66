@@ -1,6 +1,8 @@
 ---
 title: "Woodland Hills"
 type: location
+latitude: 34.168436
+longitude: -118.605838
 ---
 
 Travel Guide

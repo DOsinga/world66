@@ -1,6 +1,8 @@
 ---
 title: "Kosice"
 type: location
+latitude: 48.717227
+longitude: 21.249677
 ---
 
 We currently have no information about Kosice.

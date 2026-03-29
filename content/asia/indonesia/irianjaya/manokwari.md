@@ -1,6 +1,8 @@
 ---
 title: "Manokwari"
 type: location
+latitude: -0.977676
+longitude: 133.753804
 ---
 
 Travel Guide

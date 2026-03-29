@@ -1,6 +1,8 @@
 ---
 title: "Ladha sadha"
 type: location
+latitude: 32.587616
+longitude: 74.179415
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Independence Avenue & 7th Street"
 opening_hours: "Museum: 10 a.m. - 5:30 p.m., Plaza: 7:30 a.m. - 5:30 p.m., Sculpture Garden: 7:30 a.m. - dusk"
 phone: "202 560 0350"
 url: "hirshhorn.si.edu"
+latitude: 39.073732
+longitude: -108.560061
 ---
 
 The most modern of the Smithsonian museums, the Hirshhorn is when one

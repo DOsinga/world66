@@ -1,6 +1,8 @@
 ---
 title: "Khanpur Mahar"
 type: location
+latitude: 27.841123
+longitude: 69.411988
 ---
 
 Travel Guide

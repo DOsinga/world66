@@ -3,6 +3,8 @@ title: "Metropolitan Transit Authority"
 type: poi
 type: "By Road"
 url: "www.metro.net"
+latitude: 29.731813
+longitude: -95.31534
 ---
 
 When heading to Anaheim from Los Angeles International Airport (LAX), the Los Angeles County Metropolitan Transity Authority offers an easy journey, perfect for the budget traveller.

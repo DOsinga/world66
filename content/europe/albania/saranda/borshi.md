@@ -1,6 +1,8 @@
 ---
 title: "borshi"
 type: location
+latitude: 40.061448
+longitude: 19.857678
 ---
 
 Travel Guide

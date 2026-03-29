@@ -1,6 +1,8 @@
 ---
 title: "Rock Hall"
 type: location
+latitude: 39.138166
+longitude: -76.234954
 ---
 
 Travel Guide

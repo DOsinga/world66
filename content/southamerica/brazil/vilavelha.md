@@ -1,6 +1,8 @@
 ---
 title: "Vila velha"
 type: location
+latitude: -20.329704
+longitude: -40.292017
 ---
 
 Vila Velha (*Old Village) *is the name of a group of natural sculptures that look like ruins of a deserted city. Situated approximately 80 Km Northwest from [Curitiba](/southamerica/brazil/curitiba) and 20 Km Southeast of Ponta Grossa, Vila Velha is as a well-known tourist attraction.

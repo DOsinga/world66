@@ -1,6 +1,8 @@
 ---
 title: "Landskrona"
 type: location
+latitude: 55.869801
+longitude: 12.829673
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Thorar"
 type: location
+latitude: 33.847409
+longitude: 73.640555
 ---
 
 Travel Guide

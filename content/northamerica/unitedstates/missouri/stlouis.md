@@ -1,6 +1,8 @@
 ---
 title: "St. Louis"
 type: location
+latitude: 38.625406
+longitude: -90.190009
 ---
 
 St. Louis was French and Spanish before it became American. Even before the European explorers traveled up the river, this area was home to the Mississippians, a mighty Indian civilization of mound builders.

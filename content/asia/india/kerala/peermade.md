@@ -1,6 +1,8 @@
 ---
 title: "Peermade"
 type: location
+latitude: 9.572015
+longitude: 76.995899
 ---
 
 Peermade is a small hill station in teh idukki district of kerela.

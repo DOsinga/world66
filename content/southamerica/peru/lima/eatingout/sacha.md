@@ -8,6 +8,8 @@ phone: "4215395"
 price: "U$ 20"
 type: "Local"
 url: "www.sacha.com.pe"
+latitude: -25.513369
+longitude: -54.640803
 ---
 
 A young and very professional team waited on us courteously and naturally, they told us that the restaurant is new, their offer matches quality with an excellent combination of selected peruvian classical dishes.

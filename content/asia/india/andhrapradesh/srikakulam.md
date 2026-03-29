@@ -1,6 +1,8 @@
 ---
 title: "Srikakulam"
 type: location
+latitude: 18.294931
+longitude: 83.893884
 ---
 
 **

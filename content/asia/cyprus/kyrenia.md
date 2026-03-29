@@ -1,6 +1,8 @@
 ---
 title: "Kyrenia"
 type: location
+latitude: 35.339629
+longitude: 33.320529
 ---
 
 is situated in *Northern Cyprus*.Whilst being one of the poorest areas I have ever travelled to, it was also one of the most beautifull.There is a beautifull view of the sea aswell as being able to see the mountains in their full glory. 

@@ -1,6 +1,8 @@
 ---
 title: "Butuan"
 type: location
+latitude: 8.947456
+longitude: 125.543197
 ---
 
 Travel Guide

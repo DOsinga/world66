@@ -1,6 +1,8 @@
 ---
 title: "Rio Verde, Goiás"
 type: location
+latitude: -17.792126
+longitude: -50.919122
 ---
 
 Rio Verde means green river. It is a booming town of

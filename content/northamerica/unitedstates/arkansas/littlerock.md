@@ -1,6 +1,8 @@
 ---
 title: "Little Rock"
 type: location
+latitude: 34.746507
+longitude: -92.289627
 ---
 
 Little Rock is the capital of [Arkansas](/northamerica/unitedstates/arkansas). Much of Little Rock’s history and many of the important sights for travelers is encompassed by the Quapaw Quarter, a nine square mile area which includes Little Rock’s central business district and adjacent residential neighborhoods. "Quapaw Quarter" is a special name that since 1961 has been used to identify this oldest and most historic portion of Little Rock. (The word "Quapaw" was borrowed from the Quapaw Indians, who lived in central Arkansas before the arrival of white settlers in the early 19th century.)

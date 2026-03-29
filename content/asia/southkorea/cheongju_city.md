@@ -1,6 +1,8 @@
 ---
 title: "Cheongju City"
 type: location
+latitude: 36.642117
+longitude: 127.489174
 ---
 
 Travel Guide

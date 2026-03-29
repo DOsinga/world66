@@ -4,6 +4,8 @@ type: section
 phone: "1-866-KAYAK-41"
 type: "Rowing and Canoeing"
 url: "www.kayak41north.com"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 Northeast Ohio is not immediately associated with natural beauty or recreational opportunities, but Greater Cleveland has more parks and opportunities for recreation than most metropolitan areas. Excellent park systems, a national park within the metropolitan area, and miles of Lake Erie shoreline make Cleveland an excellent destination for the naturalist enthusiasts. Naturalist enthusiasts will discover all kinds of opportunities for year-round enjoyment.

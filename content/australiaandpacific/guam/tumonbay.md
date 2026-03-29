@@ -1,6 +1,8 @@
 ---
 title: "Tumon bay"
 type: location
+latitude: 13.516465
+longitude: 144.795736
 ---
 
 We currently have no information about Tumon bay.

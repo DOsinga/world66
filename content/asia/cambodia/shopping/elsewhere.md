@@ -6,6 +6,8 @@ address: "175 street 51"
 email: "elsewhere@online.com.kh"
 phone: "+ 855 (12) 660232"
 type: "Art Galleries"
+latitude: 49.11812
+longitude: -122.738006
 ---
 
 elseswere is a shop offering locally designed fashion made of coton and linen.

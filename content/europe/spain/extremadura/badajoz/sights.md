@@ -3,6 +3,8 @@ title: "Sights in Badajoz"
 type: section
 address: "Plaza San Juan s/n"
 type: "Churches and Cathedrals"
+latitude: 25.696392
+longitude: -100.46102
 ---
 
 Located

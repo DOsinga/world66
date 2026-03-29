@@ -2,6 +2,8 @@
 title: "St. Peter"
 type: poi
 url: "www.newadvent.org"
+latitude: 46.602292
+longitude: 11.610594
 ---
 
 Though neither a cathedral, nor the mother church, this enormous church is in fact the center of the Catholic World, a role once performed by the St John Lateran. From here the pope, the successor of St Peter, tends his flock. The church was built over the grave of St Peter. Because of the location of this tomb on the hill, the St Peter is one of few churches that are not orientated towards the east, but just the other way around. Some people read in this orientation a reference to the crucifixion of St Peter, who was crucified up side down.

@@ -6,6 +6,8 @@ address: "Garcia Vigil 512"
 phone: "516-1800"
 price: "100 pesos +/-"
 type: "Mexican"
+latitude: 17.066398
+longitude: -96.724525
 ---
 
 Los Danzantes restaurant

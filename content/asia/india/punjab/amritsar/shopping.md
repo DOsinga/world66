@@ -5,6 +5,8 @@ email: "sales@allindiaflorist.com"
 phone: "919897064001"
 type: "Shopping centers and malls"
 url: "www.allindiaflorist.com"
+latitude: 10.673995
+longitude: 76.186901
 ---
 
 All India FlowersAll India Flowers send flowers to India, Delhi Mumbai Chennai Calcutta Bangalore Hyderabad and all India at affordable prices. Guaranteed delivery of flowers in India and sweets gifts chocolates and cakes to India.

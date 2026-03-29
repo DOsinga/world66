@@ -1,6 +1,8 @@
 ---
 title: "Kokkola"
 type: location
+latitude: 63.839142
+longitude: 23.133685
 ---
 
 We currently have no information about Kokkola.

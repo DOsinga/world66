@@ -4,6 +4,8 @@ type: poi
 address: "Hilton Luxor Resort & Spa, New Karnak, Luxor, Egypt"
 phone: "+20 (95) 237 4933"
 type: "Middle East"
+latitude: 25.730308
+longitude: 32.656141
 ---
 
 Directly beside the river Nile and the pool, Olives serves lunch and

@@ -7,6 +7,8 @@ phone: "(951) 784 - 4417"
 price: "$8 - $12"
 type: "Italian"
 url: "www.osf.com"
+latitude: 33.980437
+longitude: -117.367627
 ---
 
 Come eat in one of the many restaurants in Riverside.

@@ -8,6 +8,8 @@ opening_hours: "Sarah"
 phone: "Sarah"
 type: "1"
 url: "helpdesk.ncat.edu"
+latitude: -35.028066
+longitude: -63.685882
 ---
 
 Great work!

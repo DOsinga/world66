@@ -5,6 +5,8 @@ address: "Krijn Taconiskade 328-330"
 email: "mail@dok48.nl"
 type: "International"
 url: "www.dok48.nl"
+latitude: 52.352433
+longitude: 5.004637
 ---
 
 Dok 48 is a new restaurant situated in IJburg at the waterfront. A combination of a beautiful setting, friendly staff and great food makes it an outstanding restaurant.

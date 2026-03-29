@@ -1,6 +1,8 @@
 ---
 title: "Le Canard"
 type: poi
+latitude: 52.452631
+longitude: 13.330469
 ---
 
 With certainty one of Germany's best known restaurants. First class service and prices are alike. Reservations required.

@@ -5,6 +5,8 @@ address: "carilo partido de pinamar"
 email: "info@carilo.com"
 phone: "+54 2254"
 url: "www.carilo.com"
+latitude: -37.161103
+longitude: -56.899787
 ---
 
 **Cariló**, es una localidad del partido de Pinamar, provincia de Buenos Aires. Está emplazado al sur del mismo, lindando con el Municipio de Villa Gesell.

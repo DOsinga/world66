@@ -1,6 +1,8 @@
 ---
 title: "Ravensthorpe"
 type: location
+latitude: -33.581345
+longitude: 120.04735
 ---
 
 Travel Guide

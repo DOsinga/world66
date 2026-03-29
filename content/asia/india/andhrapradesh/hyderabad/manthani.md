@@ -1,6 +1,8 @@
 ---
 title: "Manthani"
 type: location
+latitude: 18.651247
+longitude: 79.665771
 ---
 
 Travel Guide

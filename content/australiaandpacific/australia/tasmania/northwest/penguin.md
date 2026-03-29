@@ -1,6 +1,8 @@
 ---
 title: "Penguin"
 type: location
+latitude: -41.115104
+longitude: 146.07248
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Asansol"
 type: location
+latitude: 23.68713
+longitude: 86.974659
 ---
 
 Travel Guide

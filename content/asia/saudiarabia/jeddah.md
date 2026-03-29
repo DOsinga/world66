@@ -1,6 +1,8 @@
 ---
 title: "Jeddah"
 type: location
+latitude: 21.550443
+longitude: 39.174236
 ---
 
 Jeddah is as close as a non-mulsim can get to the holy cities of [Mecca](/asia/saudiarabia/mecca) and [Medina](/asia/saudiarabia/medina) . It is by far the most cosmopolitan city in the Kingdom, which is due to the fact that for centuries it has been an important port town. Until the 1980s many western countries had their embassadies in Jeddah, now they have all move to [Riyadh](/asia/saudiarabia/riyadh) . Nevertheless, there are still a large number of foreign consulates in Jeddah as the city retains its importance as the commercial capital of the Kingdom and it is, of course, the main port of entry for the millions of pilgrims who visit the Holy Cities each year. 

@@ -1,6 +1,8 @@
 ---
 title: "Hrazdan"
 type: location
+latitude: 40.519687
+longitude: 44.750071
 ---
 
 Travel Guide

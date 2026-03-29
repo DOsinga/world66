@@ -3,6 +3,8 @@ title: "Yves St. Laurent Garden"
 type: poi
 address: "Yacoub El Mansour"
 type: "Parks, Gardens and Zoos"
+latitude: 33.973878
+longitude: -6.892613
 ---
 
 Majorelle Gardens are a must. This beautifully layed out garden was designed by The Yves St. Laurent himself. It is decorated with brighrt colors and VERY blue pots and vases.

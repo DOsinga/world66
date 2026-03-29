@@ -1,6 +1,8 @@
 ---
 title: "Pälkäne"
 type: location
+latitude: 61.337132
+longitude: 24.264942
 ---
 
 Pälkäne is a municipality in [Tampere region (Pirkanmaa)](/europe/finland/tampere). It has abt.

@@ -1,6 +1,8 @@
 ---
 title: "Kangra"
 type: location
+latitude: 32.076867
+longitude: 76.298587
 ---
 
 Kangra one of Himachal's beautiful valleys rolls down the southern edge of the magnificent Dhauladhar range in gentle slopes covered with forests of pine, orchards, green tea gardens and terraced fields. 

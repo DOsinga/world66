@@ -1,6 +1,8 @@
 ---
 title: "Lawndale"
 type: location
+latitude: 33.895122
+longitude: -118.352632
 ---
 
 Travel Guide

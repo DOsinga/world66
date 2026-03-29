@@ -8,6 +8,8 @@ price: "$5.00 - $10.00"
 type: "general"
 url: "www.bobacafeanddeli.com"
 zipcode: "Windows Professional"
+latitude: 32.08079
+longitude: -81.095148
 ---
 
 Located in the Savannah Historic District, Featuring a balcony view of the famed "City Market", serving deli style sandwiches, a full espresso bar, imported and domestic beer and wine.

@@ -1,6 +1,8 @@
 ---
 title: "Coober Pedy"
 type: location
+latitude: -29.013368
+longitude: 134.753616
 ---
 
 Coober Pedy is reputed to mean 'white fellow's hole in the ground', and this is a very good description of the place. The 'opal capital' of Australia (and the world) largely consists of holes in the ground. Not only are thre over 25,000 mine shafts in the area (so mind your step!), a large percentage of the population actually lives in dugouts to shelter from the harsh enviroment: summer temperatures can rise up to over 50ºC, while the winter nights get freezing cold. These weather extremes make Coober Pedy a popular tourist destination. You will have to look very hard to find a place more desolate looking than this. In fact, if you walk around, you may recognise scenery from the post-apocalyptic classic *Mad Max II*, which was filmed here. 

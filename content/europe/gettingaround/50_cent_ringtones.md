@@ -5,6 +5,8 @@ address: "Brad"
 email: "ethan@pismo.com"
 phone: "Brad"
 url: "gushi.org"
+latitude: 46.130241
+longitude: 22.792152
 ---
 
 Nice site!

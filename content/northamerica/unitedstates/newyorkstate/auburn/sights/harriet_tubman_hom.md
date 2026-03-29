@@ -5,6 +5,8 @@ address: "180 South Street, Auburn NY"
 email: "HTHome@localnet.com"
 phone: "315-252-2081"
 type: "Memorials"
+latitude: 42.911525
+longitude: -76.563723
 ---
 
 **The Harriet Tubman Home** preserves the legacy of "The Moses of Her People" in the place where she lived and died in freedom. The site is located on 26 acres of land in Auburn, New York, and is owned and operated by the [AME Zion Church](/northamerica/unitedstates/newyorkstate/auburn/amez.htm). It includes four buildings, two of which were used by Harriet Tubman.

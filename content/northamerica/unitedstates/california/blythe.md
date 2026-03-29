@@ -1,6 +1,8 @@
 ---
 title: "Blythe"
 type: location
+latitude: 33.613477
+longitude: -114.593754
 ---
 
 Travel Guide

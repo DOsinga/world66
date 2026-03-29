@@ -5,6 +5,8 @@ address: "6853 Lundy's lane"
 email: "g.logreco@yahoo.ca"
 phone: "905-356-6789"
 type: "Speciality shops"
+latitude: 45.198811
+longitude: -75.833084
 ---
 
 Shopping in Niagara Falls

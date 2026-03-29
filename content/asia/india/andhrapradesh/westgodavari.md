@@ -1,6 +1,8 @@
 ---
 title: "West Godavari"
 type: location
+latitude: 16.644303
+longitude: 81.588525
 ---
 
 West Godavari is a regional center in Andhra Pradesh. 

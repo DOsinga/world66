@@ -2,6 +2,8 @@
 title: "Space"
 type: poi
 type: "Clubs and dancing"
+latitude: 43.299324
+longitude: -3.006304
 ---
 
 Great club with the best electro Dj's (Carl Cox,David Guetta,Bob Sinclair...). If you have a camera with you, there is a big chance that you'll have to leave it at the entrance. Anyway, this place is full at every part of the day and night!!

@@ -1,6 +1,8 @@
 ---
 title: "Nurmes"
 type: location
+latitude: 63.542138
+longitude: 29.140742
 ---
 
 We currently have no information about Nurmes.

@@ -1,6 +1,8 @@
 ---
 title: "Basti Fauja"
 type: location
+latitude: 29.782201
+longitude: 70.599785
 ---
 
 Travel Guide

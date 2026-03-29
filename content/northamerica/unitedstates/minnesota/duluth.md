@@ -1,6 +1,8 @@
 ---
 title: "Duluth"
 type: location
+latitude: 46.783829
+longitude: -92.105268
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ha Long 1 day"
 type: location
+latitude: 20.983495
+longitude: 107.021729
 ---
 
 Travel Guide

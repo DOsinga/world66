@@ -1,6 +1,8 @@
 ---
 title: "Pelling"
 type: location
+latitude: 27.300372
+longitude: 88.23565
 ---
 
 **Pelling** is the jumping-off point for most trekkers in Sikkim. With easy access to the popular four-day "Local Trek," the village has basic amenities as well as spectacular views. Don't miss the lovely walks and awesome vistas from the nearby monasteries. 

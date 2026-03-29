@@ -1,6 +1,8 @@
 ---
 title: "Muskegon"
 type: location
+latitude: 43.234181
+longitude: -86.248392
 ---
 
 Travel Guide

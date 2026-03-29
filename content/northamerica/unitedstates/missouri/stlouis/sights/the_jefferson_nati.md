@@ -6,6 +6,8 @@ opening_hours: "The Gateway Arch and Museum of Westward Expansion are open daily
 phone: "314-655-1700"
 type: "Landmarks"
 url: "www.nps.gov"
+latitude: 38.624626
+longitude: -90.184964
 ---
 
 The Jefferson National Expansion Memorial, a 91-acre park on the banks of the Mississippi river, is centrepiece St Louis. Although the National Park in itself is tiny compared to others on the nation-wide roster its attractions include the superbly stunning Gateway Arch and a courthouse famous for the historically important Dredd Scott decision.

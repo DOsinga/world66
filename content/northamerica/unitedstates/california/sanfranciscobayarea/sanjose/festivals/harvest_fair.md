@@ -6,6 +6,8 @@ date: "11/15/2008"
 email: "harvestfair@weavercraft.org"
 phone: "408-255-5520"
 url: "www.weavercraft.org"
+latitude: 37.306404
+longitude: -121.986575
 ---
 
 Harvest Fun for the Whole Family!

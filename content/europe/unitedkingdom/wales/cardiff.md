@@ -1,6 +1,8 @@
 ---
 title: "Cardiff"
 type: location
+latitude: 51.481655
+longitude: -3.179193
 ---
 
 Cardiff became the capital of Wales in 1955, but it has risen to the occasion pretty fast. The town is getting a real European capital like atmosphere and is very much alive and kicking. The area near Tiger Bay is completely being renovated there is a new Opera house. 

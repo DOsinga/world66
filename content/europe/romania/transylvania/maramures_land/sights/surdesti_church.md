@@ -3,6 +3,8 @@ title: "Surdesti Church"
 type: poi
 address: "Maramures, Romania"
 type: "Churches and Cathedrals"
+latitude: 47.671255
+longitude: 24.196461
 ---
 
 The highest church in the

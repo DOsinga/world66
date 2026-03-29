@@ -1,6 +1,8 @@
 ---
 title: "Vezelay"
 type: location
+latitude: 47.465731
+longitude: 3.746285
 ---
 
 We currently have no information about Vezelay.

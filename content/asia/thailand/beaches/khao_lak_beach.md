@@ -3,6 +3,8 @@ title: "Khao Lak Beach Thailand"
 type: poi
 address: "Khao Lak, Pang Nga, Thailand"
 url: "www.nongasia.com"
+latitude: 8.612528
+longitude: 98.241917
 ---
 
 Khao Lak Beach, in Phang Nga Province is about 80 Km north of Phuket Airport, or about 1 to 1 1/2 hours drive. The beach itself is about 2 miles long, quite narrow and offers spectacular views over the Andaman sea and the various Island rock formations.

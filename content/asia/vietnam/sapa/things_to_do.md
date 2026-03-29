@@ -6,6 +6,8 @@ email: "manage@hanoipeacetour.vn"
 phone: "(84-4) 568 2115"
 type: "Hiking"
 url: "www.hanoipeacetour.vn"
+latitude: 21.033857
+longitude: 105.855037
 ---
 
 ***Guide for traveling around Sapa. You can trek Mt. Fansipan - the highest peak in Vietnam, trek to Cat Cat, Ta Phin, Ta Van, Sin Chai villages, or visit the incredible Tram Ton Pass. Check the article out for more details.***

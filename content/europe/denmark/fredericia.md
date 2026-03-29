@@ -1,6 +1,8 @@
 ---
 title: "Fredericia"
 type: location
+latitude: 55.565268
+longitude: 9.756217
 ---
 
 Travel Guide

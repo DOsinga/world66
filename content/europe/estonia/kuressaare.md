@@ -1,6 +1,8 @@
 ---
 title: "Kuressaare"
 type: location
+latitude: 58.252769
+longitude: 22.484921
 ---
 
 Kuressaare

@@ -8,6 +8,8 @@ email: "afrolatinodance@gmail.com"
 phone: "+258 847814056"
 type: "Clubs and dancing"
 url: "www.afrolatinodance.weebly.com"
+latitude: -25.967447
+longitude: 32.597744
 ---
 
 ***(Afrolatino Dance Art Co)

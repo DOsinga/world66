@@ -1,6 +1,8 @@
 ---
 title: "Shangri-La"
 type: location
+latitude: 27.871702
+longitude: 99.83655
 ---
 
 Shangri-La (Pinyin: Xianggelila), previously known as Zhongdian, is a

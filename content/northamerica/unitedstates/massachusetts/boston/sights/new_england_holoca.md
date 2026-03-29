@@ -3,6 +3,8 @@ title: "New England Holocaust Memorial"
 type: poi
 type: "Memorials"
 url: "www.nehm.org"
+latitude: 42.36137
+longitude: -71.057324
 ---
 
 ** The

@@ -4,6 +4,8 @@ type: poi
 address: "Marton, England"
 email: "wearmouth_v'@hotmail.com"
 type: "By Air"
+latitude: 53.208949
+longitude: -2.231651
 ---
 
 From the UK, you can get to Sri Lanka via your local airport, rail or road to either Glasgow, Manchester, Gatwick or Heathrow.

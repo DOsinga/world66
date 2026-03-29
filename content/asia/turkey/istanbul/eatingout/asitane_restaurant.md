@@ -6,6 +6,8 @@ email: "info@asitanerestaurant.com"
 phone: "+90 (212) 534 8414"
 type: "Local"
 url: "www.asitanerestaurant.com"
+latitude: 41.030651
+longitude: 28.938607
 ---
 
 [Asitane Restaurant](/asia/turkey/istanbul/eatingout) is located in Edirnekapi, considered by many to be

@@ -1,6 +1,8 @@
 ---
 title: "Cesky krumlov"
 type: location
+latitude: 48.810653
+longitude: 14.315059
 ---
 
 We currently have no information about Cesky krumlov.

@@ -1,6 +1,8 @@
 ---
 title: "Winnemucca"
 type: location
+latitude: 40.972429
+longitude: -117.734802
 ---
 
 Travel Guide

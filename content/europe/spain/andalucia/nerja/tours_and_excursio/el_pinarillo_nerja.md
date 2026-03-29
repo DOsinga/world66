@@ -5,6 +5,8 @@ address: "Nerja"
 email: "info@lifeadventure.es"
 phone: "0034 95 252 7058"
 url: "www.lifeadventure.es"
+latitude: 36.746856
+longitude: -3.879016
 ---
 
 El Pinarillo Nerja,

@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Ksamil"
 type: location
+latitude: 39.769762
+longitude: 20.003919
 ---
 
 Travel Guide

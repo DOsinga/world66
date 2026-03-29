@@ -1,6 +1,8 @@
 ---
 title: "Bologna"
 type: location
+latitude: 44.49382
+longitude: 11.342633
 ---
 
 Travel Guide

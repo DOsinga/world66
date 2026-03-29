@@ -1,6 +1,8 @@
 ---
 title: "Medan"
 type: location
+latitude: 3.589462
+longitude: 98.674162
 ---
 
 Medan (pop. 1 806 000) in northern Sumatra serves as a gateway city to such attractions as

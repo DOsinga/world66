@@ -7,6 +7,8 @@ email: "cjrestaurante@netcabo.pt"
 phone: "21 3977138"
 price: "25/30 €"
 type: "African"
+latitude: 38.709348
+longitude: -9.157637
 ---
 
 The prestigious Press Club's restaurant is set in a charming XVIII th century building with a lovely inner-garden. Among it's habituées you can find diplomats, politcians and,of course, journalists. The kitchen offers creative Mediterranean food and the wine cellar is representative of the portuguese winemaking tradition. The very nice garden is one of the city's most romantic spots to eat outdoors.

@@ -6,6 +6,8 @@ email: "info@santambroeus.org"
 phone: "0276000540"
 type: "Italian"
 url: "www.santambroeus.org"
+latitude: 40.90159
+longitude: 9.103594
 ---
 
 The most beautiful *pasticceria* of the city. Sant Ambroeus is in the heart of the fashion district, near Via Montenapoleone and offers hand made candies, which can be either packed (even for travelling!) or eated inside in the internal tea room and outside.

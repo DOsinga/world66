@@ -1,6 +1,8 @@
 ---
 title: "Jaya Pura"
 type: location
+latitude: -2.538754
+longitude: 140.703739
 ---
 
 Jayapura is the capital city of Irian jaya Province was known as Hollandaise

@@ -1,6 +1,8 @@
 ---
 title: "Al mokha"
 type: location
+latitude: 13.321128
+longitude: 43.245242
 ---
 
 "/>

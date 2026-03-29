@@ -6,6 +6,8 @@ email: "Raw@GlaserOrganicFarms.com"
 phone: "305-238-7747"
 type: "Markets"
 url: "www.glaserorganicfarms.com"
+latitude: 25.727727
+longitude: -80.247289
 ---
 
 If you want the freshest foods produce the city of Miami has to offer, head over to the Coconut Grove Farmers Market at Grand Avenue and Margaret Street. The market, which sells organically grown locally grown produce and foods that you can eat on the go, has been around since 1977. Expect to find several dozen vendors selling everything from vegetables and fruit to cakes, herbs, spices, and muffins.

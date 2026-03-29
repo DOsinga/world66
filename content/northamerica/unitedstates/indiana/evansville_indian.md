@@ -1,6 +1,8 @@
 ---
 title: "Evansville"
 type: location
+latitude: 37.970495
+longitude: -87.571564
 ---
 
 Travel Guide

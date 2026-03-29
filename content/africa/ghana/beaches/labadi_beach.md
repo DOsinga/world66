@@ -2,6 +2,8 @@
 title: "Labadi Beach"
 type: poi
 address: "Labadi Accra"
+latitude: 5.560232
+longitude: -0.157641
 ---
 
 A quite nice, but very very crowded beach in Accra.

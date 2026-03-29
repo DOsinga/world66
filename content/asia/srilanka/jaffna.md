@@ -1,6 +1,8 @@
 ---
 title: "Jaffna"
 type: location
+latitude: 9.665093
+longitude: 80.009303
 ---
 
 Travel Guide

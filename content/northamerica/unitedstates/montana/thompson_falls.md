@@ -1,6 +1,8 @@
 ---
 title: "Thompson Falls"
 type: location
+latitude: 47.597129
+longitude: -115.344309
 ---
 
 Travel Guide

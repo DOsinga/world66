@@ -2,6 +2,8 @@
 title: "Petroglyphs"
 type: poi
 email: "parigy08@yahoo.com"
+latitude: 32.509566
+longitude: -110.980177
 ---
 
 The greatest place that I have found to experience petroglyphs near Las Vegas. Go south of the city to Grapevine Canyon. An easy drive in on a dirt road. plenty of parking. A level walk to the canyon entrance. An opportunity to see petrofglyphs up close and personal.

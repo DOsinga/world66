@@ -4,6 +4,8 @@ type: poi
 address: "No 40 Street 136"
 phone: "012 769920"
 type: "Local"
+latitude: 30.13693
+longitude: 31.364301
 ---
 
 P.KD1 (Open Daily 2pm - Late)

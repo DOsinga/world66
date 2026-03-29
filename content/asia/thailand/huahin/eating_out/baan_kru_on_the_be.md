@@ -5,6 +5,8 @@ address: "Khao Takiab Bay 5"
 phone: "Hua Hin"
 price: "THB 200+"
 type: "Seafood"
+latitude: 12.516832
+longitude: 99.977774
 ---
 
 Thai seafood restaurant right on the beach at Khao Takiab Bay. Large and extensive seafood menu, cheap drinks, walk on the beach in moonlight, fun and relax atmosphere, live music at weekends.

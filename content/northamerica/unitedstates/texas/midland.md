@@ -1,6 +1,8 @@
 ---
 title: "MidLand"
 type: location
+latitude: 31.83688
+longitude: -102.010377
 ---
 
 Travel Guide

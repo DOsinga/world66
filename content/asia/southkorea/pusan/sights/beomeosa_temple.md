@@ -2,6 +2,8 @@
 title: "Beomeosa Temple"
 type: poi
 type: "Churches and Cathedrals"
+latitude: 35.281988
+longitude: 129.07111
 ---
 
 A Buddhist Temple only a mile or so from Pusan, yet totally secluded in the mountains. It is a very good example of a Korean temple.

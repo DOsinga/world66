@@ -1,6 +1,8 @@
 ---
 title: "Ait Ourir"
 type: location
+latitude: 31.563898
+longitude: -7.662276
 ---
 
 Ait Ourir is located between [Marrakesh](/africa/morocco/marrakesh) and [Ouarzazate](/africa/morocco/ouarzazate) (40 Kms from Marrakesh) and it can be seen on the way if you are going over the Tizi-n-Tichka pass. It is a typical Berber town with a very lively market on Tuesdays. 

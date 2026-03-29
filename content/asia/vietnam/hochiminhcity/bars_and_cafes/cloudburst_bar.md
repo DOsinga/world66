@@ -2,6 +2,8 @@
 title: "Cloudburst Bar"
 type: poi
 address: "169b De Tham Street"
+latitude: 10.768044
+longitude: 106.693639
 ---
 
 Cloudburst Bar is a low-budget late-night British/Canadian/Vietnamese-run bar in Saigon's backpacker central. At night-time, it is primarily geared towards sophisticated (alternative/indie/rock/dance) music lovers, but caters to a wide range of customers. Early on in the evening and the week, it tends to be dominated by locals and tourists, but late and at the weekend there is a much heavier expat presence. Whilst the presence of "bar girls" is seemingly ubiquitous in Saigon,

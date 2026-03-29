@@ -1,6 +1,8 @@
 ---
 title: "Boardman"
 type: location
+latitude: 45.839855
+longitude: -119.700583
 ---
 
 Travel Guide

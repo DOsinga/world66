@@ -2,6 +2,8 @@
 title: "Uros islands"
 type: poi
 type: "Hotspots"
+latitude: -15.816344
+longitude: -69.971907
 ---
 
 The Uros islands, also known as the floating islands, are the major tourist attraction in Lake Titicaca. Nowadays, it has become very touristic. The locals jump at visitors when they land on one of the islands and try to sell them all kinds of souvenirs. They claim that they are original from the islands, but it can't really be guaranteed.

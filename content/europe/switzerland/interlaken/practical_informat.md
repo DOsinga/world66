@@ -7,6 +7,8 @@ phone: "076 321 3800"
 type: "Tourist information"
 url: "taxi-taxi.info"
 zipcode: "3800"
+latitude: 48.228412
+longitude: 16.357053
 ---
 
 Free Taxi-Minibus for guest of : Mystery & Koreahostel

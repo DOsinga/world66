@@ -1,6 +1,8 @@
 ---
 title: "Guarda"
 type: location
+latitude: 40.704607
+longitude: -7.195139
 ---
 
 We currently have no information about Guarda.

@@ -5,6 +5,8 @@ address: "dalbastı sokak no: 3/b"
 email: "info@newdealtravel.net"
 phone: "+90 212 638 8622"
 url: "newdealtravel.net"
+latitude: 40.193187
+longitude: 29.101096
 ---
 
 **ours Duration** Starts @ 08:15 Finishes @ 17:30 **What to see** * Hagia Sophia museum

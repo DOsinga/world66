@@ -1,6 +1,8 @@
 ---
 title: "Al Khums"
 type: location
+latitude: 32.652183
+longitude: 14.26801
 ---
 
 Travel Guide

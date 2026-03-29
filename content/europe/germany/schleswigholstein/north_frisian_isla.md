@@ -1,6 +1,8 @@
 ---
 title: "North Frisian Islands"
 type: location
+latitude: 54.717352
+longitude: 8.495763
 ---
 
 Travel Guide

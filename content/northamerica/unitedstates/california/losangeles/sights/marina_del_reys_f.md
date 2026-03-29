@@ -6,6 +6,8 @@ address: "13755 Fiji Way, Marina del Rey"
 phone: "310/822-6866"
 type: "Landmarks"
 url: "www.visitmarina.com"
+latitude: 33.971073
+longitude: -118.445668
 ---
 
 **Marina del Rey's Fisherman's Village **

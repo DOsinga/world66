@@ -1,6 +1,8 @@
 ---
 title: "Wheeling"
 type: location
+latitude: 42.138889
+longitude: -87.931094
 ---
 
 Small city in the Northern Panhandle of West Virginia. In the early 1800s, Wheeling was the western terminus of the National Road and the site of the only bridge over the Ohio River.

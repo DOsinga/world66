@@ -1,6 +1,8 @@
 ---
 title: "Hanksville"
 type: location
+latitude: 38.373776
+longitude: -110.706401
 ---
 
 Travel Guide

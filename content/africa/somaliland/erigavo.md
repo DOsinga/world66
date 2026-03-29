@@ -1,6 +1,8 @@
 ---
 title: "Erigavo"
 type: location
+latitude: 10.61806
+longitude: 47.37
 ---
 
 Erigavo lies NE of Somaliland, at the bottom of the highest peak in

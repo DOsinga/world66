@@ -1,6 +1,8 @@
 ---
 title: "Wake Island"
 type: location
+latitude: 19.296086
+longitude: 166.626978
 ---
 
 Wake Island, part of the United States is located in the Pacific Ocean and uninhabited. The fame of the small Atoll is mostly due to the role it played in WW II. 

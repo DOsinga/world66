@@ -1,6 +1,8 @@
 ---
 title: "Vilanculos"
 type: location
+latitude: -21.998996
+longitude: 35.320475
 ---
 
 We currently have no information about Vilanculos.

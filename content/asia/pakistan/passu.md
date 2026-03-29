@@ -1,6 +1,8 @@
 ---
 title: "Passu"
 type: location
+latitude: 36.465816
+longitude: 74.894326
 ---
 
 Passu has two Beautiful Glaciers Passu glacier and Batura glacier which is longest in pakistan .Very nice area for Treakking Glacier Breeze Restaurant Passu has nice view and exclent food and we have nice camping site .Passu is roughly halfway between Hunza valley and the border with China. It is an excellent place to stop for a while to make a short hike. If you want to cross the border to China you can't do it in one day from Karimabad anyway, because the only bus leaves very early from the border and you need to get tickets a day in advance. 

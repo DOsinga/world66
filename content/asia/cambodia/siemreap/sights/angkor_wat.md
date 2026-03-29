@@ -4,6 +4,8 @@ type: poi
 opening_hours: "Pre-dawn to dusk"
 type: "Landmarks"
 url: "www.affiliate.viator.com"
+latitude: 13.412438
+longitude: 103.866588
 ---
 
 Probably the reason why tourists come to Siem Reap in the first place.

@@ -5,6 +5,8 @@ accessibility: "Top of funicular"
 address: "Via Rocca, CittÃ  Alta, Bergamo"
 type: "Castles"
 url: "fondazione.bergamoestoria.it"
+latitude: 45.703362
+longitude: 9.665431
 ---
 
 As well as being a great fort to explore, La Rocca has a park and naturally a commanding view in three directions. From the top is a great overview of CittÃ Alta and the lower town.

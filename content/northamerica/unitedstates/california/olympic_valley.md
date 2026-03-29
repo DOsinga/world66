@@ -1,6 +1,8 @@
 ---
 title: "Olympic Valley"
 type: location
+latitude: 39.198416
+longitude: -120.22986
 ---
 
 Travel Guide

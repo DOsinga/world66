@@ -1,6 +1,8 @@
 ---
 title: "Broken Hill"
 type: location
+latitude: -31.965
+longitude: 141.451111
 ---
 
 Broken Hill is a hospitable place in the middle of desert-like surroundings. It is an important silver mining centre that became prosperous after Charles Rasp found the first silver lode in the area. His mining company BHP became the largest company in Australia. Today, silver is still an important product of Broken Hill, although zinc is now the most important mineral in SIlver City, as Broken Hill is also know. You can visit several mines, the most adventurous of whis is perhaps the Delprat's Mine, where you don a miners outfil and go 130 meters underground on a two hour tour.

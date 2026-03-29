@@ -1,6 +1,8 @@
 ---
 title: "Oklahoma"
 type: location
+latitude: 34.955082
+longitude: -97.268406
 ---
 
 Many people in the world associate Oklahoma City with a terriorist act, while others think of the state as a desolate and windswept depression-era landscape that's described in Steinbeck's ***The Grapes of Wrath***.

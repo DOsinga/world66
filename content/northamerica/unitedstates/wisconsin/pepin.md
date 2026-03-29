@@ -1,6 +1,8 @@
 ---
 title: "Pepin"
 type: location
+latitude: 44.635157
+longitude: -92.010193
 ---
 
 Travel Guide

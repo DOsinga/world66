@@ -1,6 +1,8 @@
 ---
 title: "Pskov"
 type: location
+latitude: 57.817392
+longitude: 28.334346
 ---
 
 Pskov is an ancient Russian city, situated almost on the border with Latvija and Estonia, on the shores of the river Velikaya. It was founded in IX century and soon become a center of a big medieval feudal republic. It was a city of merchants and because of its agressive neighbours - Teutonic Order, Litva and Poland - it needed a good fortifications. Thus Pskov was one of the strongest fortresses in medieval Europe, it was besieged 42 times, only 2 times stormed succesfully.

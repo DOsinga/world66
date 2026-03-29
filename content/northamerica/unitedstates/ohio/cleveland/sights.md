@@ -6,6 +6,8 @@ opening_hours: "Mon, Wed: 7AM-4PM; Fri, Sat: 7AM-6PM"
 phone: "(216) 664-3387"
 type: "Public Buildings"
 url: "www.westsidemarket.com"
+latitude: 41.484659
+longitude: -81.703
 ---
 
 There are a number of things you should while visiting Cleveland. It has a rich diverse history and contains many beautiful historic buildings, monuments, and churches. There are several operators of sightseeing tours available.

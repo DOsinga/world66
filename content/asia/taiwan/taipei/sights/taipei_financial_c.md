@@ -4,6 +4,8 @@ type: poi
 address: "Xinyi District, Taipei."
 type: "Hotspots"
 url: "www.taipei101tower.com.tw"
+latitude: 25.033345
+longitude: 121.566896
 ---
 
 Taipei 101 is, at the time of writing (2005), the tallest building in

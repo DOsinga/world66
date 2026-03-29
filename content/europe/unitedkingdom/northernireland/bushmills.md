@@ -1,6 +1,8 @@
 ---
 title: "Bushmills"
 type: location
+latitude: 55.205991
+longitude: -6.523416
 ---
 
 We currently have no information about Bushmills.

@@ -1,6 +1,8 @@
 ---
 title: "Lebanon"
 type: location
+latitude: 40.375713
+longitude: -76.462612
 ---
 
 Travel Guide

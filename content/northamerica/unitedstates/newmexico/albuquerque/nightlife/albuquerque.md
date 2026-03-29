@@ -1,6 +1,8 @@
 ---
 title: "Albuquerque"
 type: poi
+latitude: 35.084103
+longitude: -106.650985
 ---
 
 Travel Guide

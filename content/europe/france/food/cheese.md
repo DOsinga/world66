@@ -1,6 +1,8 @@
 ---
 title: "Cheese"
 type: poi
+latitude: 43.943271
+longitude: 4.323091
 ---
 
 The French produce more different kinds of cheese than any other country. A system of "Appelation Controle" applies just like for the wines. Here are some regional highlights.

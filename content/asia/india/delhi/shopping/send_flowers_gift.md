@@ -7,6 +7,8 @@ email: "contactus@liliesnroses.com"
 phone: "9739136936"
 type: "Speciality shops"
 url: "www.liliesnroses.com"
+latitude: 12.976794
+longitude: 77.590082
 ---
 
 liliesnroses.com is an online shopping facilitator for users in India and abroad for delivery of various products & services for anywhere in Bangalore.

@@ -7,6 +7,8 @@ phone: "+49 (0)30 -782 92 23"
 price: "9-25€"
 type: "Indian and Pakistani"
 url: "www.yogi-haus.de"
+latitude: 52.486256
+longitude: 13.350585
 ---
 
 Yogi-Haus offers a large variety of Indian food. The place is very popular so in the winter they use the sidewalk as well by putting up tents and heaters, so the restaurant is about twice the regular size. Always filled with people who enjoy Indish food for regular prices (meals from 9-20 €/person) The place to meet old friends again, teachers for example.

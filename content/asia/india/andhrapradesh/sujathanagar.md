@@ -1,6 +1,8 @@
 ---
 title: "Sujathanagar"
 type: location
+latitude: 17.484414
+longitude: 80.57122
 ---
 
 We currently have no information about Sujathanagar.

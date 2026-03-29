@@ -8,6 +8,8 @@ phone: "+49(0)69 45 93 96"
 price: "Euro 14"
 type: "Local"
 url: "www.selected-restaurants.com"
+latitude: 50.130259
+longitude: 8.714549
 ---
 
 Despite repeated references in guides about Frankfurt, it is just not

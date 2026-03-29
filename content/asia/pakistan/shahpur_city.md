@@ -1,6 +1,8 @@
 ---
 title: "Shahpur City"
 type: location
+latitude: 32.28669
+longitude: 72.430172
 ---
 
 Travel Guide

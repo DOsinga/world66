@@ -1,6 +1,8 @@
 ---
 title: "Dzūkija National park"
 type: location
+latitude: 54.083359
+longitude: 24.278474
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ashqelon"
 type: location
+latitude: 31.665319
+longitude: 34.565044
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Phuket City"
 type: location
+latitude: 7.88479
+longitude: 98.38915
 ---
 
 **Phuket City** (until 2005 called Phuket Town).

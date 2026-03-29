@@ -1,6 +1,8 @@
 ---
 title: "Bundi"
 type: location
+latitude: 25.436766
+longitude: 75.736147
 ---
 
 Travel Guide

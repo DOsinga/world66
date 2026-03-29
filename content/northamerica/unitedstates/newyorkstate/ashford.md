@@ -1,6 +1,8 @@
 ---
 title: "Ashford"
 type: location
+latitude: 31.183832
+longitude: -85.235844
 ---
 
 Travel Guide

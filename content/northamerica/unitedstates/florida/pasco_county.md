@@ -1,6 +1,8 @@
 ---
 title: "Pasco County"
 type: location
+latitude: 28.299618
+longitude: -82.45227
 ---
 
 **Pasco County** offers an all-natural glimpse of Florida. Visitors enjoy boating the Gulf of Mexico, fishing the lakes and rivers, hiking the nature trails, skydiving over the lush countryside, shopping in quaint small town downtowns, and exploring the pristine wilderness through ecotours.

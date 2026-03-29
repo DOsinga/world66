@@ -3,6 +3,8 @@ title: "Lexington Queen"
 type: poi
 address: "3-13-14 Roppongi"
 type: "Dancing"
+latitude: 35.662457
+longitude: 139.733498
 ---
 
 When you want to meet Japanese movie stars this is the place to go.

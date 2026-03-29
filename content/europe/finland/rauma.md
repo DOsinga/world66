@@ -1,6 +1,8 @@
 ---
 title: "Rauma"
 type: location
+latitude: 61.128915
+longitude: 21.50394
 ---
 
 We currently have no information about .

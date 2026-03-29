@@ -1,6 +1,8 @@
 ---
 title: "Madhya Pradesh"
 type: location
+latitude: 23.814342
+longitude: 77.534072
 ---
 
 Madhya Pradesh is the heart and also the largest state of india. The most important destination in Madhya Pradesh is, without any doubt, [Khajuraho](/asia/india/madhyapradesh/khajuraho) . This World Heritage Site with its impressive carved temples, must be on the menu of every tourist. Although only a small group of all the temples have erotic carvings, this is the main reason for the popular reputation of Khajuraho. 

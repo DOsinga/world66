@@ -1,6 +1,8 @@
 ---
 title: "Chittorgarh"
 type: location
+latitude: 24.717158
+longitude: 74.471813
 ---
 
 Chittorgarh has many sights: old city walls and ruined palaces.

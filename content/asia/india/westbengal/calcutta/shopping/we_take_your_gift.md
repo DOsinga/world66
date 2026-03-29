@@ -6,6 +6,8 @@ email: "rightflorist8@hotmail.com"
 phone: "9230727368"
 type: "Shopping centers and malls"
 url: "www.rightflorist.in"
+latitude: 22.510929
+longitude: 88.366123
 ---
 
 Normal

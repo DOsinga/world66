@@ -1,6 +1,8 @@
 ---
 title: "Debre Damo"
 type: location
+latitude: 14.373127
+longitude: 39.289344
 ---
 
 Travel Guide

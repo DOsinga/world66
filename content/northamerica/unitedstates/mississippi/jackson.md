@@ -1,6 +1,8 @@
 ---
 title: "Jackson"
 type: location
+latitude: 32.299869
+longitude: -90.183041
 ---
 
 We currently have no information about Jackson.

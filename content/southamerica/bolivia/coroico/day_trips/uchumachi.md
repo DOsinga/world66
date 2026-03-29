@@ -1,6 +1,8 @@
 ---
 title: "Uchumachi"
 type: poi
+latitude: -16.211577
+longitude: -67.713257
 ---
 
 Coroico is built on one of the flanks of the Uchumachi. The 2500 meter high mountain is inviting for a climb, because of the views, the forest and its orchids. From an altitude of 2100 meter the mountain is natural reservation, hence most of it is forested (especially on the south flank).

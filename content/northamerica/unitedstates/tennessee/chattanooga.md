@@ -1,6 +1,8 @@
 ---
 title: "Chattanooga"
 type: location
+latitude: 35.045722
+longitude: -85.309488
 ---
 
 Chattanooga is the site of three Civil War battles. It is nestled in a valley through which the Tennessee River runs. It used to be a highly industrial town, but now caters mostly to tourists.

@@ -1,6 +1,8 @@
 ---
 title: "Mito"
 type: location
+latitude: 36.365917
+longitude: 140.473174
 ---
 
 Mito is the perfect Japanese little, big city, close to Hitachi-naka, where I lived. Mito is situated in the southeast of Honshu Island 125 km north of Tokyo. It is the capital of Ibaraki prefecture and has a wonderful mix of old and new. 

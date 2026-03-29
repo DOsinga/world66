@@ -1,6 +1,8 @@
 ---
 title: "Mirpur Hall Road"
 type: location
+latitude: 25.52436
+longitude: 68.993487
 ---
 
 Travel Guide

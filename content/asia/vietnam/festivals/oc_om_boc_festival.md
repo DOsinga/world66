@@ -7,6 +7,8 @@ date: "25th Sep 2008"
 email: "info@keytovietnam.com"
 phone: "+8442944911"
 url: "keytovietnam.com"
+latitude: 21.045626
+longitude: 105.813458
 ---
 
 Oc Om Boc Festival, Vietnam is a religious ceremony when the moon god of Kho Me minority group is worshipped in Soc Trang Province of South Vietnam. One of the most prominent of the festivals of Vietnam, it falls in October as per the Gregorian Calendar and on December 15th of the Buddhist calendar.

@@ -7,6 +7,8 @@ email: "starsweetfairy@tmail.com"
 phone: "408.277.3000"
 type: "Other"
 url: "www.happyhollowparkandzoo.org"
+latitude: 37.325832
+longitude: -121.861677
 ---
 
 Happy Hollow Park is a peaceful, creative, and safe place for children of all ages - with the main focus on "little ones" between the ages of 2-10. There are creative play areas, children's rides, Puppet Shows, special events, and birthday areas.

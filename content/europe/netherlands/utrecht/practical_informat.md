@@ -6,6 +6,8 @@ email: "info@VVVUtrecht.nl"
 phone: "+31 30 236 00 10"
 type: "Tourist information"
 url: "www.UtrechtYourWay.com"
+latitude: 52.090619
+longitude: 5.121749
 ---
 
 ### [VVV Utrecht](/europe/netherlands/utrecht/practical_informat/vvv_utrecht)

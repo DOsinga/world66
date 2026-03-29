@@ -1,6 +1,8 @@
 ---
 title: "Greolieres"
 type: location
+latitude: 43.795181
+longitude: 6.943595
 ---
 
 How did I end up in Greolieres? Just plain old divine intervention, I guess.

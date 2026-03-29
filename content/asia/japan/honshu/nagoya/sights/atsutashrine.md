@@ -1,9 +1,12 @@
 ---
 title: "Atsuta Shrine"
 type: poi
+latitude: 35.125431
+longitude: 136.909254
 ---
 
-One of the three major shrines in Japan along with Ise and Meiji. Atsuta Shrine houses the Kusanagi (grass-mowing) Sword, one of the three Sacred Treasures of the Imperial Family. Numerous annual traditional festivals and special religious ceremonies are held here. The Nohgakuden (Noh drama theater) on the grounds of the shrine stages Japanese Noh dramas and other traditional performing arts nearly every weekend.  
+One of the three major shrines in Japan along with Ise and Meiji. Atsuta Shrine houses the Kusanagi (grass-mowing) Sword, one of the three Sacred Treasures of the Imperial Family. Numerous annual traditional festivals and special religious ceremonies are held here. The Nohgakuden (Noh drama theater) on the grounds of the shrine stages Japanese Noh dramas and other traditional performing arts nearly every weekend. 
+ 
 
 openinghours: 9:00~16:30 closed last wednesday of month and following day.
 

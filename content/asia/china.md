@@ -1,6 +1,8 @@
 ---
 title: "China"
 type: location
+latitude: 35.000074
+longitude: 104.999927
 ---
 
 Travel Guide

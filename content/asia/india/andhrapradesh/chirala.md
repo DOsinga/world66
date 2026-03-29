@@ -1,6 +1,8 @@
 ---
 title: "Chirala"
 type: location
+latitude: 15.836152
+longitude: 80.363664
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Mymensingh"
 type: location
+latitude: 24.888931
+longitude: 90.384519
 ---
 
 We currently have no information about Mymensingh.

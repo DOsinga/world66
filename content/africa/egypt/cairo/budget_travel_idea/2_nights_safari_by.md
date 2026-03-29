@@ -5,6 +5,8 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
+latitude: 29.850964
+longitude: 31.220947
 ---
 
 Enjoy the Egyptian desert safari tours, overland expeditions and adventure tours into the Western desert of Egypt to discover the Grand Sand Sea, the Oasis of Egypt: Siwa oasis, Bahariya oasis..book now.

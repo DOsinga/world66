@@ -1,6 +1,8 @@
 ---
 title: "Harvard Glacier"
 type: location
+latitude: 61.401156
+longitude: -147.388974
 ---
 
 Travel Guide

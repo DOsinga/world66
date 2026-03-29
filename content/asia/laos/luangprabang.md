@@ -1,6 +1,8 @@
 ---
 title: "Luang prabang"
 type: location
+latitude: 19.888744
+longitude: 102.135898
 ---
 
 Luang Prabang is the old capital city of the Lan Xang Kingdom. According to the Luang Prabang legend, the first name of Luang Parabang was Muang Swa, named after King Khun Xua around the eighth century, later known as Xieng Dong and Xieng Thong. During the reign of King Fa Ngum between 1354 and 1372 A.D., Xieng Dong, and Xieng Thong cities were renamed Luang Prabang in the name of the gold image of Buddha, the Phrabang. 

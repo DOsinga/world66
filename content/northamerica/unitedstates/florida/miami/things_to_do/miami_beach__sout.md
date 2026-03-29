@@ -4,6 +4,8 @@ type: poi
 phone: "305-673-7714"
 type: "Going to the Beach"
 url: "www.miamiandbeaches.com"
+latitude: 25.777193
+longitude: -80.129302
 ---
 
 South Beach features excellent swimming conditions, numerous walking trails, volleyball courts, watersports rentals, and beach chair and umbrella rentals. Considered one of Miami's sexiest beaches, South Beach is also a great spot for people watching. Entrance is through the park at 1 Washington Avenue. The beach is located at the southern tip of South Beach.

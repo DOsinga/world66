@@ -2,6 +2,8 @@
 title: "Gatwick Airport"
 type: poi
 type: "Airport"
+latitude: 51.154077
+longitude: -0.182323
 ---
 
 Gatwick Airport (IATA: LGW, ICAO: EGKK) is London's second airport and

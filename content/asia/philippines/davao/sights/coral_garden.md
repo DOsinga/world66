@@ -2,6 +2,8 @@
 title: "Coral Garden"
 type: poi
 type: "Hotspots"
+latitude: 13.51193
+longitude: 120.943816
 ---
 
 This garden can only be accessed by boat. Near the coast of samal this

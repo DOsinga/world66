@@ -1,6 +1,8 @@
 ---
 title: "Hvalba"
 type: location
+latitude: 61.600628
+longitude: -6.956834
 ---
 
 Travel Guide

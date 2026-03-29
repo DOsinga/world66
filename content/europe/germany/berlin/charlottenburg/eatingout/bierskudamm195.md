@@ -5,6 +5,8 @@ address: "Kurfürstendamm 195"
 connections: "U Uhlandstr., S Savignyplatz"
 opening_hours: "Daily 11 am - 5 am, Su from noon"
 type: "International"
+latitude: 52.501196
+longitude: 13.318602
 ---
 
 One of the city's best-known snack bars, famous all over Germany for its combination of champagne and currywurst.

@@ -6,6 +6,8 @@ address: "Burgos Extension, Bacolod City"
 email: "lopues.east@yahoo.com"
 phone: "+6344352561 to 66"
 type: "Shopping centers and malls"
+latitude: 10.664825
+longitude: 123.011896
 ---
 
 Very Nice.

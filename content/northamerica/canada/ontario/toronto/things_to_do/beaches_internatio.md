@@ -6,6 +6,8 @@ email: "infobeachesjazz@rogers.com"
 phone: "416-698-2152"
 type: "Going to the Beach"
 url: "www.beachesjazz.com"
+latitude: 43.669558
+longitude: -79.302246
 ---
 
 Every year jazz lovers in Toronto head to the Beaches. The Queen Street East between Woodbine and Victoria Park humms with the sounds of saxofones, trumpets, pianos, drums...

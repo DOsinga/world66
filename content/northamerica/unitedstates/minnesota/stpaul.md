@@ -1,6 +1,8 @@
 ---
 title: "St. Paul"
 type: location
+latitude: 44.949749
+longitude: -93.093103
 ---
 
 St.Paul is the capital of Minnesota, and together with its twin sister city of [Minneapolis](/northamerica/unitedstates/minnesota/minneapolis) it is a great metropolis with lots of things to see and do. 

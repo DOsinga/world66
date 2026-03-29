@@ -8,6 +8,8 @@ opening_hours: "Lena"
 phone: "Lena"
 type: "1"
 url: "startupordie.com"
+latitude: 60.639823
+longitude: 121.288941
 ---
 
 Nice site!

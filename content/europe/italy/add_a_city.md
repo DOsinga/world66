@@ -1,6 +1,8 @@
 ---
 title: "Add a City"
 type: location
+latitude: 37.329908
+longitude: -121.90261
 ---
 
 Travel Guide

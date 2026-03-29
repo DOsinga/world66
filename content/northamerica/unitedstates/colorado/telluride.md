@@ -1,6 +1,8 @@
 ---
 title: "Telluride"
 type: location
+latitude: 37.937494
+longitude: -107.812285
 ---
 
 We currently have no information about .

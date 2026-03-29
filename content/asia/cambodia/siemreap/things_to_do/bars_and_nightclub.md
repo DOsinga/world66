@@ -4,6 +4,8 @@ type: poi
 accessibility: "Easy."
 address: "Central Siem Reap."
 type: "Other"
+latitude: 13.356561
+longitude: 103.857877
 ---
 
 Visitors to Siem Reap fall into three main groups - tour parties, older wealthier tourists and then younger free independent travellers. For this group Siem Reap is starting to develop a very lively night scene - not only with fairly global styled bars of that funky backpacker style - the **Angkor What?** or **Dead Fish Tower** and **Red Piano** come to mind - but also the cool neoon-lit cocktail bars. A good example is the (inevitably named) **Buddha Bar** in Siem's Reap "bar street." Huge cocktails and tres cool environment. For something with a little more local flavour the **Temple Club** (again in Bar Street) offer a free show of traditional Khmer Apsara Dance each evening.

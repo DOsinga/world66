@@ -1,6 +1,8 @@
 ---
 title: "Kiruna"
 type: location
+latitude: 68.166667
+longitude: 19.5
 ---
 
 Located in the very north of Sweden, the municipality of Kiruna is the largest in area (half the size of Switzerland) but with only 25,000 inhabitants it's not very densely populated. Most of the people live in the town of Kiruna, set at the foot of mount Kebnekaise, Sweden's highest mountain at 2,117 metres above sea level.

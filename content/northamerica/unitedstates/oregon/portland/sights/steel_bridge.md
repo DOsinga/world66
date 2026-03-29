@@ -6,6 +6,8 @@ opening_hours: "24 hours daily"
 phone: "+1 503 275 8355"
 type: "Hotspots"
 url: "egov.oregon.gov"
+latitude: 45.047335
+longitude: -122.955313
 ---
 
 The Steel Bridge was built in 1888 and was used to carry trains across the Willamette River. In addition, the electric trolley that runs through Portland now rides over the Steel Bridge. This is probably the best way to experience the bridge in that you can see the excellent view from the bridge as well as exactly how large it is. The bridge is known as one of the largest dual-lift bridges in the world. There is an upper and lower part of this bridge and the bottom holds pedestrians and bikers. The upper portion of the bridge takes car of all of the car and vehicle traffic as well as the electric trolley.

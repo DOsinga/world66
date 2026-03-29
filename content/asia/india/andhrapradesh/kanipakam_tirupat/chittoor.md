@@ -1,6 +1,8 @@
 ---
 title: "CHITTOOR"
 type: location
+latitude: 13.325036
+longitude: 79.648061
 ---
 
 Travel Guide

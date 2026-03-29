@@ -1,6 +1,8 @@
 ---
 title: "Panauti"
 type: location
+latitude: 27.580735
+longitude: 85.522857
 ---
 
 Travel Guide

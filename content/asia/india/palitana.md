@@ -1,6 +1,8 @@
 ---
 title: "Palitana"
 type: location
+latitude: 21.52361
+longitude: 71.82196
 ---
 
 Travel Guide

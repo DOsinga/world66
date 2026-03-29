@@ -7,6 +7,8 @@ phone: "00353 1 679 0043"
 price: "A La Carte Main Course from €16.95"
 type: "International"
 url: "www.shackrestaurant.ie"
+latitude: 37.57002
+longitude: -77.432491
 ---
 
 The Shack Restaurant is located in the heart of Temple Bar, Dublin's Cultural District. The menu provides good value traditional Irish food as well as a range of international cuisine. The restaurant is very popular with both locals and tourists because of its excellent food and convenient location.

@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Durres"
 type: location
+latitude: 41.311923
+longitude: 19.446652
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ accessibility: "easy to find"
 address: "Kalaw highway"
 price: "$2-5"
 type: "International"
+latitude: 20.66557
+longitude: 96.535461
 ---
 
 Kalaw has many great places to eat and the food is especially good because of the freshness of the vegetables and other ingredients in the area.

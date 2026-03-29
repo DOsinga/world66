@@ -1,6 +1,8 @@
 ---
 title: "Ndola"
 type: location
+latitude: -12.969306
+longitude: 28.636589
 ---
 
 Ndola is the capital of what is known as the Copperbelt region of

@@ -1,6 +1,8 @@
 ---
 title: "Mrauk-U"
 type: location
+latitude: 20.590127
+longitude: 93.191577
 ---
 
 Travel Guide

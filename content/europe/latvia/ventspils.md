@@ -1,6 +1,8 @@
 ---
 title: "Ventspils"
 type: location
+latitude: 57.390392
+longitude: 21.563599
 ---
 
 http://www.ventspils.lv/ENG/4Viesi/

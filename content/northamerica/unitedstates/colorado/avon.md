@@ -1,6 +1,8 @@
 ---
 title: "AVON"
 type: location
+latitude: 40.664206
+longitude: -90.434851
 ---
 
 Travel Guide

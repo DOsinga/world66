@@ -1,6 +1,8 @@
 ---
 title: "Tehran"
 type: location
+latitude: 35.689252
+longitude: 51.3896
 ---
 
 Tehran, with a population of around 14 million, is the biggest city in Iran and one of the largest cities in the Middle East, comparable in size with London and New York. The city is very lively in days, and the population is very young. There are many quality museums to visit and plentiful of good restaurants to dine in. People are very friendly especially towards foreigners, and the majority of the young generation have a good command of English.

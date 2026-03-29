@@ -1,6 +1,8 @@
 ---
 title: "Budva"
 type: location
+latitude: 42.288566
+longitude: 18.84195
 ---
 
 Travel Guide

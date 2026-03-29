@@ -1,6 +1,8 @@
 ---
 title: "Shenandoah"
 type: location
+latitude: 38.856559
+longitude: -78.589089
 ---
 
 This locale is in [Virginia](/northamerica/unitedstates/virginia), not [West Virginia](/northamerica/unitedstates/westvirginia)

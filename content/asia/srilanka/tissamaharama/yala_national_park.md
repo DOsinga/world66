@@ -1,6 +1,8 @@
 ---
 title: "Yala National Park"
 type: location
+latitude: 6.570972
+longitude: 81.507282
 ---
 
 Travel Guide

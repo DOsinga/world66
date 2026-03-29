@@ -4,6 +4,8 @@ type: poi
 address: "Sagar Nagar"
 date: "30th Sept - 2nd October"
 url: "www.visitvizag.in"
+latitude: 17.767149
+longitude: 83.358054
 ---
 
 Grand Cultural Fest called "ISKCON UTSAV" at Hare Krishna Land,Sagaranagar from Sept 30th to Oct 2nd 2006 during Dassera Holidays. to promote Indian culture and create awareness about the activities of ISKCON(International Society for Krishna Consciousness).

@@ -5,6 +5,8 @@ address: "Suwon"
 phone: "(031) 228-2766"
 type: "Palaces"
 url: "eng.suwon.ne.kr"
+latitude: 37.263332
+longitude: 127.028747
 ---
 
 Hwaseong Fortress wes built by Jo Sim-tae, county governor of Hwaseong,under the supervision of Prime Minister Chae Je-gong, based on the theories of fortress designs of Yu Hyeong-won and Jeong Yak-yong, scholars of the Practical School. The most scientific of all fortress walls in Korea, its structures are elaborately arranged, assuming graceful and majestic aspects. Nothing a few special features of the fortress: stone and mud bricks were used in combination; a modern structure of defense was prepared not only against arrows, spears and swords,but also against guns; the materials standardized and the machines such as conventional cranes were used.

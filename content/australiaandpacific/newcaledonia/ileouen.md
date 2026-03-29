@@ -1,6 +1,8 @@
 ---
 title: "Ile ouen"
 type: location
+latitude: -22.43055
+longitude: 166.804958
 ---
 
 We currently have no information about Ile ouen.

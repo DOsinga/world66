@@ -1,6 +1,8 @@
 ---
 title: "Marlborough"
 type: location
+latitude: -41.474475
+longitude: 173.833026
 ---
 
 **Marlborough** is a major winegrowing region of

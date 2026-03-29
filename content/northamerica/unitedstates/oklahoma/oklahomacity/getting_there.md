@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 type: "By Road"
 url: "www.greyhound.com"
+latitude: 39.841319
+longitude: -88.966486
 ---
 
 Like most major cities, there are many ways to get to Oklahoma City. Here is a list of the best.

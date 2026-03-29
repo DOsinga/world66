@@ -4,6 +4,8 @@ type: poi
 address: "211 Guangzhou Road"
 type: "Hotspots"
 url: "www.lungshan.org.tw"
+latitude: 24.953015
+longitude: 121.233132
 ---
 
 Located in west of Taipei, this temple is dedicated to Guanyin (the Buddhist representation of compassion).

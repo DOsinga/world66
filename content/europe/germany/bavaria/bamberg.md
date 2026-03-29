@@ -1,6 +1,8 @@
 ---
 title: "Bamberg"
 type: location
+latitude: 49.891604
+longitude: 10.886848
 ---
 
 Bamberg is one of these postcard Bavarian towns, always full of tourists, but you can't afford to miss it if you want to see the old, medieval Germany. 

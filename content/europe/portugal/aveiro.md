@@ -1,6 +1,8 @@
 ---
 title: "Aveiro"
 type: location
+latitude: 40.640496
+longitude: -8.653784
 ---
 
 Travel Guide

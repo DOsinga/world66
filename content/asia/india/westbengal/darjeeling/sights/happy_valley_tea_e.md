@@ -2,6 +2,8 @@
 title: "Happy Valley Tea Estate"
 type: poi
 type: "Hotspots"
+latitude: 27.051105
+longitude: 88.258533
 ---
 
 Happy Valley Tea Estate is a tea estate in Darjeeling district in the Indian state of West Bengal.

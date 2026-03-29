@@ -1,6 +1,8 @@
 ---
 title: "Pie Town"
 type: location
+latitude: 34.299643
+longitude: -108.132542
 ---
 
 Travel Guide

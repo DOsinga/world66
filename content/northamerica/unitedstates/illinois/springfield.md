@@ -1,6 +1,8 @@
 ---
 title: "Springfield"
 type: location
+latitude: 39.799017
+longitude: -89.643957
 ---
 
 Mayor Davlin describes his city as follows:

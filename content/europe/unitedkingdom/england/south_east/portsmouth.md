@@ -1,6 +1,8 @@
 ---
 title: "Portsmouth"
 type: location
+latitude: 50.800031
+longitude: -1.090602
 ---
 
 Portsmouth (England)The Gateway to Europe.

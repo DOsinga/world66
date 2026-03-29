@@ -2,6 +2,8 @@
 title: "Janadriya"
 type: poi
 type: "general"
+latitude: 26.994896
+longitude: 49.648173
 ---
 
 An annual cultural festival is held at

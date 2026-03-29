@@ -1,6 +1,8 @@
 ---
 title: "Assur"
 type: location
+latitude: 33.331604
+longitude: 44.361733
 ---
 
 We currently have no information about Assur.

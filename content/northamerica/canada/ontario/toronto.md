@@ -1,6 +1,8 @@
 ---
 title: "Toronto"
 type: location
+latitude: 43.653482
+longitude: -79.383935
 ---
 
 Toronto and its greater metropolitan area has a population of almost five and a half million and is the fifth largest city in North America (2002). It is most ethnically-diverse city in the world according to the U.N. and offers much to attract any visitor. 

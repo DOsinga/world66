@@ -7,6 +7,8 @@ date: "1th of July 2009"
 email: "office@timisul.ro"
 phone: "0040256498214"
 url: "www.timisul.ro"
+latitude: 51.995961
+longitude: -2.154852
 ---
 
 **The Festival of Hearts (Festivalul Inimilor)**

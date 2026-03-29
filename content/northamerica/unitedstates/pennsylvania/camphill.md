@@ -1,6 +1,8 @@
 ---
 title: "Camp Hill"
 type: location
+latitude: 32.800406
+longitude: -85.653566
 ---
 
 We currently have no information about Camp Hill.

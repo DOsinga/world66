@@ -3,6 +3,8 @@ title: "La Brujidera"
 type: poi
 address: "c/ Monjas del Carmen 2"
 type: "Bars & Cafes"
+latitude: 37.176003
+longitude: -3.596151
 ---
 
 type: Bars & Cafes

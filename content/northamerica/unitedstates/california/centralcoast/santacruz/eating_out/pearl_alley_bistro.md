@@ -7,6 +7,8 @@ phone: "831-429-8070"
 price: "$$"
 type: "International"
 url: "www.pearlalley.com"
+latitude: 36.973228
+longitude: -122.026555
 ---
 
 This is another great restaurant located in downtown Santa Cruz at 110 Pearl Alley. Try the Mongolian BBQ, it is like asian fajitas, but with rice papers instead of tortillas. Reservations are recommended.

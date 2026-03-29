@@ -8,6 +8,8 @@ email: "info@rushdahab.com"
 phone: "002 06936 41867"
 type: "Concerts"
 url: "www.rushdahab.com"
+latitude: 28.497484
+longitude: 34.516074
 ---
 
 The Hottest party place in Dahab. Now even throwing Full Moon Beach parties at Nuweiba once a month. When Rush is throwing a party, no place else in Dahab has any pulse.

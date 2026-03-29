@@ -1,6 +1,8 @@
 ---
 title: "Yorkville"
 type: location
+latitude: 41.641141
+longitude: -88.447295
 ---
 
 Travel Guide

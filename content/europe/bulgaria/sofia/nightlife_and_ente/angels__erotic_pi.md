@@ -7,6 +7,8 @@ email: "contact@sofianights.com"
 phone: "+3592 9 807 930"
 type: "Erotic clubs and bars"
 url: "sofianights.com"
+latitude: 42.696955
+longitude: 23.322283
 ---
 
 ANGELS EROTIC PIANO BAR

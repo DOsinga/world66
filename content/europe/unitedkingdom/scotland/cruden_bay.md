@@ -1,6 +1,8 @@
 ---
 title: "Cruden Bay"
 type: location
+latitude: 57.416373
+longitude: -1.852931
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Slutsk"
 type: location
+latitude: 53.027735
+longitude: 27.551975
 ---
 
 We currently have no information about Slutsk.

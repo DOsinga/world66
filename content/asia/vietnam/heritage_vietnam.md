@@ -1,6 +1,8 @@
 ---
 title: "Heritage Vietnam"
 type: location
+latitude: 9.978551
+longitude: 105.722907
 ---
 
 Travel Guide

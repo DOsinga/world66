@@ -1,6 +1,8 @@
 ---
 title: "New Mexico"
 type: location
+latitude: 34.580207
+longitude: -105.996047
 ---
 
 New Mexico's natural landscapes, traditional architecture, and magnificent sunsets, provide the perfect backdrop for the rich history and proud heritage that exist in the "Land of Enchantment." The unique blend of Native American, Mexican, Spanish and Western cultural influences helped New Mexico to develop a colorful and distinctive spirit. 

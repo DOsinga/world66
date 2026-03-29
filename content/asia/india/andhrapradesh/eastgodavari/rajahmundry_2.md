@@ -1,6 +1,8 @@
 ---
 title: "Rajahmundry"
 type: location
+latitude: 17.005045
+longitude: 81.780473
 ---
 
 Travel Guide

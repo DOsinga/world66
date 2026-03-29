@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Public Buildings"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 Culcutta or Kolkata has many of old Victorian charms reminding us the

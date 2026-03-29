@@ -1,6 +1,8 @@
 ---
 title: "Robertsport"
 type: location
+latitude: 6.752571
+longitude: -11.366953
 ---
 
 We currently have no information about Robertsport.

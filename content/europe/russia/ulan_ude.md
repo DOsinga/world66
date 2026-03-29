@@ -1,6 +1,8 @@
 ---
 title: "Ulan Ude"
 type: location
+latitude: 51.835784
+longitude: 107.583911
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Taejon"
 type: location
+latitude: 36.349701
+longitude: 127.384902
 ---
 
 We currently have no information about Taejon.

@@ -1,6 +1,8 @@
 ---
 title: "Star Valley (Afton)"
 type: location
+latitude: 42.712068
+longitude: -110.932589
 ---
 
 Travel Guide

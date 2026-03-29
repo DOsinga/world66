@@ -1,6 +1,8 @@
 ---
 title: "Nynäshamn"
 type: location
+latitude: 58.905646
+longitude: 17.947099
 ---
 
 Travel Guide

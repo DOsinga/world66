@@ -1,6 +1,8 @@
 ---
 title: "Cheyenne"
 type: location
+latitude: 41.139981
+longitude: -104.820246
 ---
 
 We currently have no information about Cheyenne.

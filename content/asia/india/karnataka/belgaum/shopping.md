@@ -2,6 +2,8 @@
 title: "Shopping"
 type: section
 type: "Antiques"
+latitude: 10.673995
+longitude: 76.186901
 ---
 
 ADS MAGIC

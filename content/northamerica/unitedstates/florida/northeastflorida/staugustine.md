@@ -1,6 +1,8 @@
 ---
 title: "St. Augustine"
 type: location
+latitude: 40.718373
+longitude: -90.410962
 ---
 
 St. Augustine, the oldest continually inhabited city in America, it was founded 42 years before the English colonized Jamestown. St. Augustine is sometimes a little more touristy than it should be, but it must not be bypassed. Parking can be a bit problematic; refer to the map for the location of the school and the tourist center, where most parking is found. 

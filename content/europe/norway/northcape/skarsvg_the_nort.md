@@ -1,6 +1,8 @@
 ---
 title: "Skarsvåg"
 type: location
+latitude: 71.112765
+longitude: 25.825204
 ---
 
 Travel Guide

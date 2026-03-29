@@ -1,6 +1,8 @@
 ---
 title: "Museum of World Culture"
 type: poi
+latitude: 57.694651
+longitude: 11.989581
 ---
 
 Being the latest addition to Gothenburg's museums it is well worth a visit.

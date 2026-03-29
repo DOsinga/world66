@@ -1,6 +1,8 @@
 ---
 title: "Mariwan"
 type: location
+latitude: 36.771298
+longitude: 45.727774
 ---
 
 Travel Guide

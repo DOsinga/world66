@@ -6,6 +6,8 @@ email: "SamakiSamaki@gmail.com"
 phone: "+255 776359003"
 type: "Seafood"
 url: "www.facebook.com"
+latitude: -6.771789
+longitude: 39.221614
 ---
 
 Started in 2007,

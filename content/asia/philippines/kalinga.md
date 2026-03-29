@@ -1,6 +1,8 @@
 ---
 title: "Kalinga"
 type: location
+latitude: 17.46
+longitude: 121.31
 ---
 
 Kalinga Province

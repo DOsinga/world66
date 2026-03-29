@@ -1,6 +1,8 @@
 ---
 title: "Enniskerry"
 type: location
+latitude: 53.192732
+longitude: -6.170357
 ---
 
 Travel Guide

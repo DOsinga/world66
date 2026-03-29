@@ -2,6 +2,8 @@
 title: "Tibet Tours"
 type: location
 url: "www.travelchinaguide.com"
+latitude: 29.694027
+longitude: 91.132265
 ---
 
 TravelChinaGuide offers China Tibet tour packages, private and group

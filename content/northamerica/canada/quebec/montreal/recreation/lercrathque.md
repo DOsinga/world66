@@ -6,6 +6,8 @@ email: "info@recreatheque.com"
 phone: "450.688.8880"
 type: "general"
 url: "www.recreatheque.com"
+latitude: 45.541159
+longitude: -73.748883
 ---
 
 Recreatheque

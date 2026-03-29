@@ -1,6 +1,8 @@
 ---
 title: "The Norfolk Broads"
 type: location
+latitude: 52.630742
+longitude: 1.642913
 ---
 
 Travel Guide

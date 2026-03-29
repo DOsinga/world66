@@ -1,6 +1,8 @@
 ---
 title: "Hanoi"
 type: location
+latitude: 21.028333
+longitude: 105.854041
 ---
 
 Travel Guide

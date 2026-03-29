@@ -1,6 +1,8 @@
 ---
 title: "Otepää"
 type: location
+latitude: 58.058491
+longitude: 26.49606
 ---
 
 Travel Guide

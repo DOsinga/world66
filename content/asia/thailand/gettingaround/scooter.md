@@ -1,6 +1,8 @@
 ---
 title: "Scooter"
 type: poi
+latitude: 7.594987
+longitude: 99.035103
 ---
 
 Though not reccomened in citties or other high-traffic areas, Scooters,

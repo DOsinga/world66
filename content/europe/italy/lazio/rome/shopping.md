@@ -4,6 +4,8 @@ type: section
 address: "Via Torino 130"
 phone: "+39 06 4746877"
 type: "Book shops"
+latitude: 41.901336
+longitude: 12.495782
 ---
 
 Shopping is one of Rome's top leisure activities. The city has a wonderful assortment of boutiques and shops as well as department stores and discount shops. However, the bulk of the boutiques and shops are pricey and the districts you will find them in are extremely high-end as well. The good news is, if you do drop a small fortune on blouse, a pair of jeans or some cool shoes -- they will certainly be one of a kind creations you won't find anywhere else.

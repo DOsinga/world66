@@ -1,6 +1,8 @@
 ---
 title: "Tsukuba"
 type: location
+latitude: 36.083326
+longitude: 140.077279
 ---
 
 Travel Guide

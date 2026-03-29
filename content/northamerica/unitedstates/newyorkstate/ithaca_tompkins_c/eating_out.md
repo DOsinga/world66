@@ -6,6 +6,8 @@ phone: "(607) 272-1545"
 price: "$2-$5"
 type: "Cheap"
 url: "www.purityicecream.com"
+latitude: 42.444464
+longitude: -76.509301
 ---
 
 Like many other cities of the world, Ithaca is home to a diverse collection of restaurants sure to please nearly every palate.

@@ -4,6 +4,8 @@ type: poi
 address: "1293-1295 Charoen Krung Rd."
 phone: "+66-22340053"
 type: "Thai"
+latitude: 13.720853
+longitude: 100.516117
 ---
 
 Pretty good Thai food in a special environment - four floors of Asian and modern art. Tom Yam Kung soup has been recommended. Lunch and dinner.

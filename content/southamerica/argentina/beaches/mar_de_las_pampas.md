@@ -4,6 +4,8 @@ type: poi
 address: "partido de villa gesell"
 phone: "+54 2254"
 url: "www.mardelaspampas.net"
+latitude: -37.368045
+longitude: -57.066331
 ---
 
 En abril de 1957 una firma de rematadores publicó un aviso sobre dos grandes

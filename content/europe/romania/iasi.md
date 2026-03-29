@@ -1,6 +1,8 @@
 ---
 title: "Iasi"
 type: location
+latitude: 47.16156
+longitude: 27.583781
 ---
 
 Iasi is also better known as the cultural capital of Moldavia and one of its highlights is the splendid neo-gothic Palace of Culture. It will take you more than a day to visit the palace, not in the least because it houses four museums (its most famous two probably being the Art Museum and the Moldavian History Museum).

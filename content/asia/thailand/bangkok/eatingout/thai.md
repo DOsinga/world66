@@ -1,6 +1,8 @@
 ---
 title: "Thai"
 type: poi
+latitude: 14.897192
+longitude: 100.83273
 ---
 
 **Restaurants**

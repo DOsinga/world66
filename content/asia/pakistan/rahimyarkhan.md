@@ -1,6 +1,8 @@
 ---
 title: "Rahim Yar Khan"
 type: location
+latitude: 28.422541
+longitude: 70.303424
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "hurghada,egypt"
 email: "info@albaraagroup.com"
 phone: "0020162922290"
 url: "www.albaraagroup.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 v\:* behavior:url(#default#VML);

@@ -1,6 +1,8 @@
 ---
 title: "Meghri"
 type: location
+latitude: 38.9013
+longitude: 46.245912
 ---
 
 Travel Guide

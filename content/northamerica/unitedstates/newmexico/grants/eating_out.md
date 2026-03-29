@@ -5,6 +5,8 @@ address: "820 E Santa Fe Ave"
 phone: "505-285-6229"
 price: "inexpensive"
 type: "Mexican"
+latitude: 38.023935
+longitude: -121.873674
 ---
 
 Typical of a small town, choices here are a bit limited, but the chow is good. New Mexican dominates, and it's easy to find southwest favorites like Indian Tacos, sopaipillas, carne adovada, and other treats. Look for local Indians selling the famed oven bread by the side of the road.

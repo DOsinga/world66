@@ -1,6 +1,8 @@
 ---
 title: "Mexicali"
 type: location
+latitude: 32.624531
+longitude: -115.452604
 ---
 
 Travel Guide

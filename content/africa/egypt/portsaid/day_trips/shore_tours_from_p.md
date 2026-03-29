@@ -5,6 +5,8 @@ address: "124, Haram street, Giza, Egypt"
 email: "amany@egyptonlinetours.com"
 phone: "01221354820"
 url: "www.middleeastonlinetravel.com"
+latitude: 29.781817
+longitude: 31.284695
 ---
 
 Normal

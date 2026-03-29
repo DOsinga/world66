@@ -5,6 +5,8 @@ address: "1315 - 1 St SW"
 closing_time: "4:30"
 phone: "1 403 266-1133"
 type: "Pubs"
+latitude: 51.046582
+longitude: -114.064237
 ---
 
 Part of the 1 St SW nightclub strip, in an atmospheric old boiler room.

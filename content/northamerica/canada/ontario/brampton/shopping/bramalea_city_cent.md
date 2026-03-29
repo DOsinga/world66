@@ -6,6 +6,8 @@ phone: "(905) 793-4682"
 type: "Shopping centers and malls"
 url: "www.bramaleacitycentre.ca"
 zipcode: "L6T 3R5"
+latitude: 43.71559
+longitude: -79.722585
 ---
 
 Brampton's regional-sized shopping centre, this two-level mall is overall the most visited.

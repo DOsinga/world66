@@ -1,6 +1,8 @@
 ---
 title: "Corregidor"
 type: location
+latitude: 9.692838
+longitude: 126.077419
 ---
 
 Travel Guide

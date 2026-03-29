@@ -1,6 +1,8 @@
 ---
 title: "Things to do"
 type: location
+latitude: -45.525137
+longitude: 168.372192
 ---
 
 Adventure Seekers should definitely go white water rafting with Kaituna Cascades which includes the highest commercially rafted waterfall at 7m (21ft) in the Southern Hemisphere. All equipment inclusive and professional photos capture every moment.

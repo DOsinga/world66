@@ -6,6 +6,8 @@ email: "gtirakhi@hotmail.com"
 phone: "9230721098"
 type: "Shopping centers and malls"
 url: "www.gifts-to-india.com"
+latitude: 22.572646
+longitude: 88.363895
 ---
 
 Normal

@@ -3,6 +3,8 @@ title: "La Consolacion College"
 type: poi
 address: "Rizal Street, Bacolod City"
 type: "Parks, Gardens and Zoos"
+latitude: 10.664645
+longitude: 122.958562
 ---
 
 One of the most admired college when it comes to Architecture, Fine Arts, and Hospitality Management

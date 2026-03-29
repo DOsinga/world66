@@ -1,6 +1,8 @@
 ---
 title: "Pusan"
 type: location
+latitude: 35.179953
+longitude: 129.075236
 ---
 
 Pusan is the second city of South Korea. It is a big industrial port with almost 4 million inhabitants. It is not a very attractive city, but there are a few nice beaches nearby. More importantly : Pusan is also the departure point for [Cheju island](/asia/southkorea/chejuisland) . 

@@ -5,6 +5,8 @@ address: "8768 Sunset Boulevard, West Hollywood, 90069"
 phone: "+1-310-659-6022"
 type: "International"
 url: "www.mirabellehollywood.com"
+latitude: 34.091148
+longitude: -118.38239
 ---
 
 A culinary fixture on the Sunset

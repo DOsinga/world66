@@ -1,6 +1,8 @@
 ---
 title: "Lozovik"
 type: location
+latitude: 44.467749
+longitude: 21.100723
 ---
 
 Travel Guide

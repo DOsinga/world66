@@ -1,6 +1,8 @@
 ---
 title: "Orheiul Vechi"
 type: location
+latitude: 47.305712
+longitude: 28.974868
 ---
 
 Travel Guide

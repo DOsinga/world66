@@ -6,6 +6,8 @@ email: "beverlyhills@ruthschris.com"
 phone: "+1-310-859-8744"
 type: "American"
 url: "www.ruthschris.com"
+latitude: 34.063916
+longitude: -118.3989
 ---
 
 Always busy, it seems, this steakhouse chain sits comfortably

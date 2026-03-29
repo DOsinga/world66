@@ -1,6 +1,8 @@
 ---
 title: "Dembidollo"
 type: location
+latitude: 8.535272
+longitude: 34.800338
 ---
 
 We currently have no information about Dembidollo.

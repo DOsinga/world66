@@ -5,6 +5,8 @@ address: "St. Alban-Vorstadt 74"
 phone: "+41 (0)61 -  272 54 15"
 type: "French"
 zipcode: "4052 Basel"
+latitude: 47.554077
+longitude: 7.599202
 ---
 
 Small and cosy restaurant in the old town, French cuisine and fish specialties, good wine selection and cigars. Closed on sat evenings and sun.

@@ -1,6 +1,8 @@
 ---
 title: "Phong Nha - Ke Bang"
 type: location
+latitude: 17.555264
+longitude: 106.112304
 ---
 
 Travel Guide

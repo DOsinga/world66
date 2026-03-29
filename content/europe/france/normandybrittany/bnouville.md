@@ -1,6 +1,8 @@
 ---
 title: "Bénouville"
 type: location
+latitude: 49.246607
+longitude: -0.278193
 ---
 
 The famous Pegasus Bridge is there with its Café Gondrée which was the first house in France to be liberated during the night of the 5th-6th of June 1944 by the British gliders of Major Howard. 

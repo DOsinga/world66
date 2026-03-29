@@ -1,6 +1,8 @@
 ---
 title: "Seminyak"
 type: location
+latitude: -8.69056
+longitude: 115.168704
 ---
 
 Travel Guide

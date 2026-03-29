@@ -1,6 +1,8 @@
 ---
 title: "Krishnanagar"
 type: location
+latitude: 23.405848
+longitude: 88.495893
 ---
 
 Travel Guide

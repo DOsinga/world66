@@ -1,6 +1,8 @@
 ---
 title: "Patiala"
 type: location
+latitude: 30.209278
+longitude: 76.339723
 ---
 
 Travel Guide

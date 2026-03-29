@@ -1,6 +1,8 @@
 ---
 title: "Kumamoto"
 type: location
+latitude: 32.645047
+longitude: 130.634134
 ---
 
 Travel Guide

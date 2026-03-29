@@ -1,6 +1,8 @@
 ---
 title: "Viipuri"
 type: location
+latitude: 60.158476
+longitude: 23.080537
 ---
 
 **VIIPURI (VIBORG)**

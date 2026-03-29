@@ -4,6 +4,8 @@ type: section
 address: "Napo # 138"
 phone: "225785"
 type: "South American"
+latitude: -8.103067
+longitude: -79.01768
 ---
 
 Kikiriki, for Chicken in Iquitos

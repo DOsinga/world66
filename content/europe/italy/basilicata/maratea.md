@@ -1,6 +1,8 @@
 ---
 title: "Maratea"
 type: location
+latitude: 39.993103
+longitude: 15.723124
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Little America"
 type: location
+latitude: 41.544369
+longitude: -109.858126
 ---
 
 Travel Guide

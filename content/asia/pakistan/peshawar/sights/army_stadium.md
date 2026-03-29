@@ -5,6 +5,8 @@ address: "Khyber Road"
 opening_hours: "am-late"
 phone: "091-"
 type: "Public Buildings"
+latitude: 51.46937
+longitude: -0.170162
 ---
 
 A big park in a posh locality...If you fancy a few rides,its got Dragon Boat, with a 360' degree swing for REAL! and many more small rides to choose, Better at night when the crap's out, car parking is very cheap and security is Military operated.Nice music shops where you can find anything copied to genuine, but hey! thats too much for a city like peshawar, which has seen it changing from a civilized community and a safe city.

@@ -2,6 +2,8 @@
 title: "All aboard!"
 type: poi
 url: "www.usa-by-rail.com"
+latitude: 34.768174
+longitude: -92.351583
 ---
 
 US passenger trains go to all the big cities as well as to Disney World, Niagara Falls and the Grand Canyon. You can travel from coast to coast, explore the Rocky Mountains and ride directly alongside two oceans. Less expensive than flying, more comfortable than the bus, trains keep you relaxed and in touch with an ever-changing landscape. 

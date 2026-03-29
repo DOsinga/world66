@@ -1,6 +1,8 @@
 ---
 title: "Lost Gardens of Heligan"
 type: location
+latitude: 50.283414
+longitude: -4.807851
 ---
 
 These gardens were literally lost, after supplying all the food needs of the big house and a large amount of pleasure for many years. The gardeners left to serve in WW1 and did not return. The story of the reclamation of the gardens is told by a book entitled 'The Lost Gardens of Heligan,' prior reading of which contributes much to the enjoyment of a visit.

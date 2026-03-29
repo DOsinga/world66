@@ -1,6 +1,8 @@
 ---
 title: "Lichtenfels"
 type: location
+latitude: 50.14568
+longitude: 11.06382
 ---
 
 Travel Guide

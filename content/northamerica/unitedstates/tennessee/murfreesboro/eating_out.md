@@ -5,6 +5,8 @@ address: "113 East Main Street, Murfreesboro, TN  37130"
 phone: "(615) 893-1303"
 type: "Lunch"
 url: "www.meatandthree.com"
+latitude: 35.846058
+longitude: -86.390801
 ---
 
 This college town has added many new dining choices in the past several years.

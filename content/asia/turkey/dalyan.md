@@ -1,6 +1,8 @@
 ---
 title: "Dalyan"
 type: location
+latitude: 36.835018
+longitude: 28.642391
 ---
 
 Travel Guide

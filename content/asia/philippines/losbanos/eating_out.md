@@ -5,6 +5,8 @@ accessibility: "walking distance from university gate"
 address: "Lopez Avenue, Los Baños"
 price: "$2 - up"
 type: "Local"
+latitude: 14.178011
+longitude: 121.242311
 ---
 
 ### [LB Square](/asia/philippines/losbanos/eatingout/lb_square)

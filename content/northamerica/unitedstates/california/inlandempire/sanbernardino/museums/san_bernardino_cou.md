@@ -6,6 +6,8 @@ email: "museum@sbcounty.gov"
 opening_hours: "see text"
 phone: "(909) 307-2669"
 url: "www.co.san-bernardino.ca.us"
+latitude: 34.068221
+longitude: -117.222693
 ---
 
 The

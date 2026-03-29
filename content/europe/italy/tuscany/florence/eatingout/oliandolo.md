@@ -1,9 +1,12 @@
 ---
 title: "Oliandolo"
 type: poi
+latitude: 43.774836
+longitude: 11.257094
 ---
 
-Perfect lunch restaurant next to the Palazzo Vecchio. The afternoon is the best time to avoid the crowds at Michelangelo's David and at Oliandolo. Visit the museum first and plan to arrive at Oliandolo after the lunch rush subsides around 2:30. It's more relaxed then and the service can be more attentive.  
+Perfect lunch restaurant next to the Palazzo Vecchio. The afternoon is the best time to avoid the crowds at Michelangelo's David and at Oliandolo. Visit the museum first and plan to arrive at Oliandolo after the lunch rush subsides around 2:30. It's more relaxed then and the service can be more attentive. 
+ 
 
 address: Via Ricasoli, 38-40R
 

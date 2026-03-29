@@ -4,6 +4,8 @@ type: section
 address: "Washington & Scott"
 type: "Concerts"
 url: "www.hsbcarena.com"
+latitude: 46.507362
+longitude: -118.605822
 ---
 
 In the Buffalo area, three distinct areas stand out for Nightlife.

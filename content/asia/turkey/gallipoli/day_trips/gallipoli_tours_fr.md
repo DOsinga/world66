@@ -5,6 +5,8 @@ address: "Sirkeci istanbul"
 email: "info@traveltoplanet.com"
 phone: "00902125114869"
 url: "www.traveltoplanet.com"
+latitude: 41.013607
+longitude: 28.977144
 ---
 
 **Gallipoli Tour

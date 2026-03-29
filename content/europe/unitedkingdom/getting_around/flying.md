@@ -2,6 +2,8 @@
 title: "Flying"
 type: poi
 url: "www.flycheapo.com"
+latitude: 51.486572
+longitude: -2.763295
 ---
 
 The UK has the largest domestic network of airline routes of any European country. It is now possible to fly all over the UK using low-cost airlines, and frequently the cost is considerably less than traveling by train (which is notoriously expensive in the UK).

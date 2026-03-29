@@ -1,6 +1,8 @@
 ---
 title: "Freetown"
 type: location
+latitude: 8.479004
+longitude: -13.26795
 ---
 
 Freetown is the capital city of Sierra Leone. It wasn't much of a tourist destination when things were relatively quiet in the country, and has developed to a tourits free zone. No Japanese groups with their camera's, no Americans in shorts... 

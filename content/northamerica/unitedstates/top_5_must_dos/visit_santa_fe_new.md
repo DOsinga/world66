@@ -5,6 +5,8 @@ address: "Santa Fe New Mexico"
 email: "www.SantaFeCreativeTourism@gmail.com"
 phone: "505-955-6215"
 url: "www.SantaFeCreativeTourism.org"
+latitude: 35.68761
+longitude: -105.938456
 ---
 
 About Santa Fe

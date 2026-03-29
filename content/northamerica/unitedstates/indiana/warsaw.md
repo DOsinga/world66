@@ -1,6 +1,8 @@
 ---
 title: "Warsaw"
 type: location
+latitude: 41.238102
+longitude: -85.853054
 ---
 
 Travel Guide

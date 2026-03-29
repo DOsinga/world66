@@ -1,6 +1,8 @@
 ---
 title: "Ashdod"
 type: location
+latitude: 31.795741
+longitude: 34.648866
 ---
 
 Travel Guide

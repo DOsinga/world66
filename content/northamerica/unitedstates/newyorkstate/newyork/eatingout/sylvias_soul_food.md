@@ -6,6 +6,8 @@ email: "info@sylviasrestaurant.com"
 phone: "212-996-0660"
 type: "Local"
 url: "www.sylviassoulfood.com"
+latitude: 40.808628
+longitude: -73.944519
 ---
 
 Sylvia’s is hands down the best soul food restaurant in the city of New York, if not the world. Former President Bill Clinton, Reverend Al Sharpton, and the infamous Bill O’Reilly are just a few of the famous people that have eaten at Sylvia’s. The menu features items such as sweet potatoes, barbecued ribs, chicken, spicy greens, and more. With room for more than 450 guests, Sylvia’s Soul Food Restaurant takes up a good portion of a city block.

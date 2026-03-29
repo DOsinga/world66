@@ -1,6 +1,8 @@
 ---
 title: "Ullal Beach"
 type: location
+latitude: 12.811446
+longitude: 74.840728
 ---
 
 Travel Guide

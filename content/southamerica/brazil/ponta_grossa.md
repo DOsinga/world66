@@ -1,6 +1,8 @@
 ---
 title: "Ponta Grossa"
 type: location
+latitude: -25.089168
+longitude: -50.160181
 ---
 
 Located 110 km from Curitiba (PR), Ponta Grossa is one of Parana State's main towns.

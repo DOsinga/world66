@@ -1,6 +1,8 @@
 ---
 title: "Gainesville"
 type: location
+latitude: 29.651968
+longitude: -82.324985
 ---
 
 Gainesville, Florida is located smack dab in the middle of Florida.

@@ -1,6 +1,8 @@
 ---
 title: "Ashgabat"
 type: location
+latitude: 37.937832
+longitude: 58.235947
 ---
 
 To sum up Ashgabat in one word... toilet.

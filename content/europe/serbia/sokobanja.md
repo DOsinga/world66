@@ -1,6 +1,8 @@
 ---
 title: "Sokobanja"
 type: location
+latitude: 43.644051
+longitude: 21.873072
 ---
 
 Travel Guide

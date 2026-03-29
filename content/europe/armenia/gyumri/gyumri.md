@@ -1,6 +1,8 @@
 ---
 title: "Gyumri"
 type: location
+latitude: 40.785209
+longitude: 43.841609
 ---
 
 Gyumri-Alexandrapol has been famous not only for its craftsmen, men of arts and cultural values but also for its churches.

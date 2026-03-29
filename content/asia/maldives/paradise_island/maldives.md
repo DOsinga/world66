@@ -1,6 +1,8 @@
 ---
 title: "Maldives"
 type: location
+latitude: 3.72035
+longitude: 73.224415
 ---
 
 Absolutely amazing...

@@ -3,6 +3,8 @@ title: "The Street of the EverChanging Graffiti"
 type: poi
 address: "Werregarenstraat"
 type: "Fountains and statues"
+latitude: 51.05504
+longitude: 3.72434
 ---
 
 In this street everyone with graffitiskills are left unbothered to perform their art. Sometimes it's rubish, sometimes it's wonderfull. Right in the center, it should be included in any tour of the city. Look in the pictures section to find it on the map.

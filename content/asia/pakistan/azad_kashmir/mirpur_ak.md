@@ -1,6 +1,8 @@
 ---
 title: "Mirpur A.K."
 type: location
+latitude: 33.148635
+longitude: 73.74821
 ---
 
 Travel Guide

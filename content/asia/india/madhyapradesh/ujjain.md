@@ -1,6 +1,8 @@
 ---
 title: "Ujjain"
 type: location
+latitude: 23.188513
+longitude: 75.771656
 ---
 
 Travel Guide

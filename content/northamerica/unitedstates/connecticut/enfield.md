@@ -1,6 +1,8 @@
 ---
 title: "Enfield"
 type: location
+latitude: 41.976772
+longitude: -72.591711
 ---
 
 Travel Guide

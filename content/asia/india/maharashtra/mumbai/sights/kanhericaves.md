@@ -3,6 +3,8 @@ title: "Kanheri Caves"
 type: poi
 email: "johnmanjali@yahoo.com"
 type: "Hotspots"
+latitude: 19.224946
+longitude: 72.883257
 ---
 
 These Buddhists caves are located in the centre of the Borivali National Park, also known as Sanjay Gandhi National Park. Although they are not as ornamentally carved as the caves at Elephanta Island, they still are impressive in their bare nature. The ancient name of these 100 rock cut cave precinct was *Kri-sh-na-gi-ri , *meaning the 'black mountain'.* *Out of the 100* *only 5 to 9 caves has some measure of sculptures and *stupas.*

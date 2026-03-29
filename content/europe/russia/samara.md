@@ -1,6 +1,8 @@
 ---
 title: "Samara"
 type: location
+latitude: 53.195625
+longitude: 50.101493
 ---
 
 Travel Guide

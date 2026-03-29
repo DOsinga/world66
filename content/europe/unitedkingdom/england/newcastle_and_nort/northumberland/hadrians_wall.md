@@ -1,6 +1,8 @@
 ---
 title: "Hadrian's Wall"
 type: location
+latitude: 55.028385
+longitude: -2.291307
 ---
 
 Hadrian's Wall was built by the Romans in the second century AD as protection against the northern British tribes and was manned until it was abandoned in the 4th century. It was an absolutely monumental feat at the time as the wall stretched all the way from Wallsend near

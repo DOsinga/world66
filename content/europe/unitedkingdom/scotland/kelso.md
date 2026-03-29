@@ -1,6 +1,8 @@
 ---
 title: "Kelso"
 type: location
+latitude: 55.598379
+longitude: -2.433837
 ---
 
 Kelso's abbey remains are the least of the four main Borders abbeys and there is no charge for entry. Even so they enhance the appeal of this delightful town with some 'real' [not chain] shops, built at the junction of the Tweed and Teviot rivers.

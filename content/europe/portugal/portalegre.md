@@ -1,6 +1,8 @@
 ---
 title: "Portalegre"
 type: location
+latitude: 39.207645
+longitude: -7.721513
 ---
 
 We currently have no information about Portalegre.

@@ -1,6 +1,8 @@
 ---
 title: "Blanding"
 type: location
+latitude: 37.623962
+longitude: -109.47802
 ---
 
 Travel Guide

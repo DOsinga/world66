@@ -1,6 +1,8 @@
 ---
 title: "Prato"
 type: location
+latitude: 43.935718
+longitude: 11.094147
 ---
 
 We currently have no information about Prato.

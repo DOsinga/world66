@@ -1,6 +1,8 @@
 ---
 title: "DUBRAN"
 type: location
+latitude: 33.914868
+longitude: 73.12812
 ---
 
 Travel Guide

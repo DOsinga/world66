@@ -3,6 +3,8 @@ title: "Uireung"
 type: poi
 address: "Imunsamgeori"
 type: "Shrines & Tombs"
+latitude: 36.23898
+longitude: 128.290756
 ---
 
 This historic site houses the burial place of King Gyeongjong.

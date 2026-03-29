@@ -2,6 +2,8 @@
 title: "Pfalzel"
 type: poi
 type: "general"
+latitude: 49.780247
+longitude: 6.692911
 ---
 
 Summer residence of Roman emperors and of the Trier prince electors; collegiate church, city wall, old houses. (Bus 8, railway, in summer boat service from Zurlauben).

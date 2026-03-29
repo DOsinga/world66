@@ -5,6 +5,8 @@ address: "270 23 Křivoklát"
 email: "krivoklat@stc.npu.cz"
 type: "Castles"
 url: "www.krivoklat.cz"
+latitude: 50.026917
+longitude: 13.860344
 ---
 
 There are several things to see in Krivoklat. The most famous is the hunting castle, Krivoklat Castle.

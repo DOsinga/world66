@@ -1,6 +1,8 @@
 ---
 title: "Trujillo"
 type: location
+latitude: -8.111678
+longitude: -79.028774
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Souris"
 type: location
+latitude: 46.356529
+longitude: -62.250428
 ---
 
 Travel Guide

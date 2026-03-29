@@ -5,6 +5,8 @@ address: "lodhran"
 email: "wasim_mahmood56@yahoo.com"
 phone: "03336427087"
 type: "Mosques"
+latitude: 29.53904
+longitude: 71.63442
 ---
 
 ### [lodhran city](/asia/pakistan/lodhran/sights/lodhran_city)

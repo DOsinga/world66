@@ -1,6 +1,8 @@
 ---
 title: "Tarapoto"
 type: location
+latitude: -6.48772
+longitude: -76.359871
 ---
 
 Travel Guide

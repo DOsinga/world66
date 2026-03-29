@@ -1,6 +1,8 @@
 ---
 title: "Paloncha"
 type: location
+latitude: 17.574305
+longitude: 80.66595
 ---
 
 It is fully developed by gaint companies like KTPS(Kothagudem Thermal Power Station), SIIL ( Sponge Iron India Limited) and NFL ( Navabharat Ferro Alloys Ltd). These companies brought very big image in the world alos brought good development in the town. SILL is the first Sponge Iron in the Asia it self. I think it is the 2nd largest in the world. It is a central Govt company resulting with high profits even though the company is a samll one. KTPS is one of the biggest power plant in the state. 

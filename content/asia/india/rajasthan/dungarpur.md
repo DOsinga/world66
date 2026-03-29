@@ -1,6 +1,8 @@
 ---
 title: "Dungarpur"
 type: location
+latitude: 23.853889
+longitude: 73.708718
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Bagh Ibne Qasim"
 type: poi
+latitude: 24.809734
+longitude: 67.024757
 ---
 
 The Bagh Ibne Qasim (old name Jehangir Kothari Park) is located in Clifton, Karachi, Sindh, Pakistan.

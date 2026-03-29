@@ -3,6 +3,8 @@ title: "Parvati Temple"
 type: poi
 opening_hours: "Open daily from 09.00 to 18.00. Lunch break: 12.00 to 15.00."
 type: "Churches and Cathedrals"
+latitude: 24.853237
+longitude: 79.921968
 ---
 
 This hill, located in Southern Pune, is visible from many parts of Pune. The temple atop, after a climb, is dedicated to Parvati, Vishnu, Ganesh, Kartikeya and Devadeshwar.

@@ -1,6 +1,8 @@
 ---
 title: "Mahajanga"
 type: location
+latitude: -15.718149
+longitude: 46.317258
 ---
 
 "/>

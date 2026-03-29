@@ -1,6 +1,8 @@
 ---
 title: "Cripple Creek"
 type: location
+latitude: 38.746656
+longitude: -105.178315
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ email: "info@nyerimunicipal.go.ke"
 phone: "+254-061-2030537"
 type: "Post office"
 url: "www.nyerimunicipal.go.ke"
+latitude: 61.115958
+longitude: 64.111117
 ---
 
 Nyeri municipality is an urban centre of the larger Nyeri district. It is also is the administrative head quarters for Central Provice, Nyeri district and Municipality division. Its 165 kilometers from Nairobi City the Capital of Republic of Kenya.

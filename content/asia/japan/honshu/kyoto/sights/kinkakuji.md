@@ -2,6 +2,8 @@
 title: "Kinkakuji"
 type: poi
 type: "Hotspots"
+latitude: 35.039529
+longitude: 135.729537
 ---
 
 Kinkakuji is the famed Golden Pavilion. Be prepared for massive crowds,

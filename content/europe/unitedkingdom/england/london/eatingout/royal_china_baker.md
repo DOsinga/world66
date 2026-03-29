@@ -4,6 +4,8 @@ type: poi
 address: "24-26 Baker Street, London W1"
 phone: "20-7487-4688"
 type: "Chinese"
+latitude: 51.517791
+longitude: -0.155288
 ---
 
 At this location was formerly another Chinese restaurant, which closed

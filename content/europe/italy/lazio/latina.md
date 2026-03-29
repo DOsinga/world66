@@ -1,6 +1,8 @@
 ---
 title: "Latina"
 type: location
+latitude: 41.459526
+longitude: 13.012591
 ---
 
 Travel Guide

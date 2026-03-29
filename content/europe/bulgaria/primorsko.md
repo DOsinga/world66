@@ -1,6 +1,8 @@
 ---
 title: "Primorsko"
 type: location
+latitude: 42.269867
+longitude: 27.750618
 ---
 
 Travel Guide

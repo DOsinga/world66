@@ -6,6 +6,8 @@ email: "riaz.shaikh@tdap.gov.pk"
 phone: "9221-111444111"
 type: "Hotspots"
 url: "www.tdap.gov.pk"
+latitude: 31.449202
+longitude: 73.110959
 ---
 
 It is created with modern facilities. The complex is centrally air-conditioned.

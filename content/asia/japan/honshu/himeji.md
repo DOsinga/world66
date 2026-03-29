@@ -1,6 +1,8 @@
 ---
 title: "Himeji"
 type: location
+latitude: 34.815353
+longitude: 134.685479
 ---
 
 Travel Guide

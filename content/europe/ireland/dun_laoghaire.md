@@ -1,6 +1,8 @@
 ---
 title: "Dun Laoghaire"
 type: location
+latitude: 53.292279
+longitude: -6.136008
 ---
 
 Dun Laoghaire is a large town about 11kms south-east of [Dublin](/europe/ireland/dublin), on the southern curve of Dublin Bay.

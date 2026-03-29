@@ -3,6 +3,8 @@ title: "Things to do"
 type: section
 address: "Jalan Satok"
 type: "Other"
+latitude: 1.553105
+longitude: 110.339266
 ---
 
 ### [Sunday Market (weekend market)](/asia/malaysia/kuching/things_to_do/sunday_market_wee)

@@ -5,6 +5,8 @@ address: "Imlil"
 email: "info@darachainimlil.com"
 phone: "+212670341714"
 url: "www.darachainimlil.com"
+latitude: 31.763789
+longitude: -6.997999
 ---
 
 **Tizi n'Tamaterte (2279m of Altitude) Half or Full Day - **

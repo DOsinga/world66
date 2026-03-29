@@ -1,6 +1,8 @@
 ---
 title: "Torshavn"
 type: location
+latitude: 62.01014
+longitude: -6.771571
 ---
 
 Travel Guide

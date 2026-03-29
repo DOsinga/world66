@@ -1,6 +1,8 @@
 ---
 title: "Raigad"
 type: location
+latitude: 18.492809
+longitude: 73.138071
 ---
 
 Travel Guide

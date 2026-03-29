@@ -1,6 +1,8 @@
 ---
 title: "Bondi Beach"
 type: location
+latitude: -33.890698
+longitude: 151.272412
 ---
 
 **Bondi Beach**, Australia’s most famous beach, is located in the suburb of Bondi, in the Municipality of Waverley, seven kilometres from the centre of Sydney. Bondi is believed to be an Aboriginal word meaning the sound of breaking waves. There are Aboriginal Rock carvings on the northern end of the beach at Ben Buckler and south of Bondi Beach near McKenzies Beach on the coastal walk. Bondi Beach is approximately one kilometre long. The width of Bondi Beach averages 50m at the north end, widening out to 100m at the south end. It is the widest beach in the Sydney region. The average water temperature at Bondi Beach in summer is 21 degrees. The average water temperature in September/October is 16 degrees. A shark net is laid about 150m off the beach, set in 8m of water. (There has been no shark fatality since 1937). At the southern end of the beach is the Bondi Baths, which are over 100 years old and have been used by the famous Bondi Icebergs for many years. At the northern end of the beach there is the Children’s Wading Pool and the Wally Weekes Pool. Swimming areas are designated by red and yellow flags, which are moved according to surf conditions. The northern end and the centre of the beach is usually the safest for swimming. The south end of the beach is available for board riders who are not permitted to go into the areas set aside for swimmers. 

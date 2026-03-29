@@ -2,6 +2,8 @@
 title: "Melrose Avenue"
 type: poi
 type: "Hotspots"
+latitude: 40.826618
+longitude: -73.912581
 ---
 
 Melrose Avenue between La Brea and Fairfax is the place to be for those wanting to see the latest fashion. Unlike the rest of Melrose and Rodeo drive, this strip of Melrose is for the younger crowd. The designs at these stores are reasonably priced and straight from LA's downtown design studios.

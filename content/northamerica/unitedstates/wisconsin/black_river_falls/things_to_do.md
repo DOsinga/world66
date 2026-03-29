@@ -5,6 +5,8 @@ address: "612 N. 11th Street"
 phone: "715-284-2613"
 type: "Golf"
 url: "www.golfskyline.com"
+latitude: 39.96325
+longitude: -75.155979
 ---
 
 There are all kinds of activities to occupy almost everyone.

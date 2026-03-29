@@ -1,6 +1,8 @@
 ---
 title: "Emili"
 type: location
+latitude: 45.520133
+longitude: 10.355594
 ---
 
 Travel Guide

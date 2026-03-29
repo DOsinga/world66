@@ -4,6 +4,8 @@ type: poi
 address: "Postrera 51"
 email: "puertasevilla@mixmail.com"
 phone: "957 297 380"
+latitude: 37.875257
+longitude: -4.785787
 ---
 
 Open until midnight (which is not late for Spanish standards).

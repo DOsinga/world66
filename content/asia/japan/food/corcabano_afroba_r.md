@@ -7,6 +7,8 @@ phone: "1-800-777-0000"
 price: "205"
 type: "South American"
 url: "2-MAX"
+latitude: 59.935084
+longitude: 9.816408
 ---
 
 An Andean Restaurant with food:

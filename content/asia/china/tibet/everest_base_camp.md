@@ -1,6 +1,8 @@
 ---
 title: "Everest Base Camp"
 type: location
+latitude: 28.136531
+longitude: 86.855474
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Hanatokei Coffee and Tea"
 type: poi
 address: "874-0922　大分県　別府市　船小路町　1－32"
 type: "Japanese"
+latitude: 33.301304
+longitude: 131.50156
 ---
 
 Hanatokei Coffee and Tea 「花時計きっさてん」

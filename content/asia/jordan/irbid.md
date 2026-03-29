@@ -1,6 +1,8 @@
 ---
 title: "Irbid"
 type: location
+latitude: 32.401009
+longitude: 35.560793
 ---
 
 ***Irbid, Arabella,*** the ancient city of the Aramics, now the 2nd city of Jordanian Arabs. Lies in midst of the country side that used to be a legendary scene of vast wheat fields in the nothern region of Jordan. The "Bride of the North" Jordanians call it well meaning that they consider it the "Pride" of their north as well. 

@@ -2,6 +2,8 @@
 title: "Bus"
 type: poi
 type: "By Road"
+latitude: 18.526053
+longitude: 73.850086
 ---
 
 You will get Deluxe and Luxury Buses from Delhi, from Kalka during whole day enrouting from National Highway 22. If you are a member of WIAA, You will also get a road map at a nominal fees for Kalka to Shimla or from Delhi to Shimla route.

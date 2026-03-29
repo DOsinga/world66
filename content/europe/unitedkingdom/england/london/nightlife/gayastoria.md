@@ -5,6 +5,8 @@ address: "157 Charing Cross Road, Soho"
 phone: "020 7734 6963"
 type: "Gay and Lesbian"
 url: "www.g-a-y.co.uk"
+latitude: 51.514553
+longitude: -0.129968
 ---
 
 The largest, campest gay club in Europe. Where else can you see Mariah Carey, Kylie Minogue, Westlife, Steps, Lisa Stansfield, Geri Halliwell and many other international stars? Camp Attack is the best Friday night in Western Europe and Saturdays host the largest names on the planet.

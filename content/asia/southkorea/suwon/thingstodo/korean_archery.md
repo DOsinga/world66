@@ -4,6 +4,8 @@ type: poi
 address: "Yeonmudae"
 phone: "(031) 228-2763"
 type: "Other"
+latitude: 36.124287
+longitude: 127.087901
 ---
 
 Opportunities are presented to experience the culture of old times by practicing traditional Korean archery wearing traditional costumes at the military exercise grounds of Hwaseong Fortress.

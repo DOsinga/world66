@@ -1,6 +1,8 @@
 ---
 title: "Diyarbakir"
 type: location
+latitude: 37.916222
+longitude: 40.236354
 ---
 
 The great basalt anitque citywalls of Diyarbakir surround a city of many mosques packed on a rather small area. You can spend about two days here easy by just going to the tourist office in Kultur Sarayi and ask for a map showing you the mosques and other places of interest.

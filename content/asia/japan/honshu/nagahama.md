@@ -1,6 +1,8 @@
 ---
 title: "Nagahama"
 type: location
+latitude: 35.380862
+longitude: 136.278507
 ---
 
 Travel Guide

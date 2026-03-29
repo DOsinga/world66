@@ -1,6 +1,8 @@
 ---
 title: "Rotorua"
 type: location
+latitude: -38.136073
+longitude: 176.252543
 ---
 
 **Rotorua** is a geothermal wonderland. In addition to providing the foundation for regional Maori mythology, geothermal activity in the region has spawned a brisk and longstanding spa culture and tourist trade. Thermal pools, parks and mudpits abound. Don't be surprised to see steam issuing from the ground. 

@@ -4,6 +4,8 @@ type: poi
 address: "1500 Naglee Avenue"
 type: "Other"
 url: "www.sjparks.org"
+latitude: 37.332807
+longitude: -121.925409
 ---
 
 Rolling

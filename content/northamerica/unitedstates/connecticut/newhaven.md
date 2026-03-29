@@ -1,6 +1,8 @@
 ---
 title: "New Haven"
 type: location
+latitude: 41.308214
+longitude: -72.925052
 ---
 
 New Haven is located only some 30 km from [Bridgeport](/northamerica/unitedstates/california/highsierra/bridgeport). The town pretty much equals Yale University. The university and the surrounding area has the feel of a walled encampment in the middle of a depressed downtown.

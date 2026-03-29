@@ -7,6 +7,8 @@ email: "bb-Miller7971@escapedemail.com"
 phone: "360-246-5768"
 type: "Antiques"
 url: "www.none.com"
+latitude: 42.368292
+longitude: -71.10215
 ---
 
 None

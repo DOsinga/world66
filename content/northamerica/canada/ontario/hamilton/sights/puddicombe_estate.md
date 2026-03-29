@@ -6,6 +6,8 @@ email: "info@puddicombefarms.com"
 phone: "(905) 643-1015"
 type: "Parks, Gardens and Zoos"
 url: "www.puddicombefarms.com"
+latitude: 43.208659
+longitude: -79.65604
 ---
 
 We are a 210 year old family fruit farm. Our story begins in 1797 as cattle farmers. In the early 1900's we became fruit farmers.

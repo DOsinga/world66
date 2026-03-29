@@ -1,6 +1,8 @@
 ---
 title: "West Bromwich"
 type: location
+latitude: 52.518658
+longitude: -1.992311
 ---
 
 Travel Guide

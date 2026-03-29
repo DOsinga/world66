@@ -1,6 +1,8 @@
 ---
 title: "Okinawa Island"
 type: location
+latitude: 26.474895
+longitude: 127.911469
 ---
 
 O

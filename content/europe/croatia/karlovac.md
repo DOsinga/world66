@@ -1,6 +1,8 @@
 ---
 title: "Karlovac"
 type: location
+latitude: 45.489252
+longitude: 15.54863
 ---
 
 Karlovac was founded in 1579, but the parish was already mentioned in 1334. Around it grew an important cultural, commercial and industrial centre. Still, the main reason to come are the sacral buildings of the town, including the early Baroque church of the Holy Trinity.

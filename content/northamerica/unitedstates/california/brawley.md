@@ -1,6 +1,8 @@
 ---
 title: "Brawley"
 type: location
+latitude: 32.978657
+longitude: -115.530267
 ---
 
 Travel Guide

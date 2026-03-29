@@ -6,6 +6,8 @@ email: "beachcombers.bungalows@gmail.com"
 phone: "6287863333309"
 price_per_night: "$50"
 type: "Middle Class"
+latitude: -8.35034
+longitude: 116.036262
 ---
 
 Welcome to the pristine, exotic, tropical island of Gili Trawangan – one of the most beautiful islands in Indonesia. Our deluxe, beachfront bungalows are located on the tranquil northern side of the island away from the hustle & bustle of the nightclub strip.

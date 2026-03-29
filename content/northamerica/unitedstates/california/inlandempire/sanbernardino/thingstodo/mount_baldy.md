@@ -4,6 +4,8 @@ type: poi
 phone: "909 981-3344"
 type: "Skiing"
 url: "www.mtbaldy.com"
+latitude: 34.289121
+longitude: -117.646405
 ---
 
 Mt.

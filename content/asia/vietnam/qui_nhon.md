@@ -1,6 +1,8 @@
 ---
 title: "Qui Nhon"
 type: location
+latitude: 13.754949
+longitude: 109.17676
 ---
 
 Nestled at the bottom of a mountain lies a small French hospital where the famous Vietnamese poet, Han Mac Tu, was recieving treatment of beri beri. Inside the walls are protected beaches that are clean and beautiful with a small little gift shop and refreshment stand. Han Mac Tu was also buried here.

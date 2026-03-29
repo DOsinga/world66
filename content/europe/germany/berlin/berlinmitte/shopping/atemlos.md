@@ -4,6 +4,8 @@ type: poi
 address: "Oranienburger Str."
 connections: "S Hackescher Markt"
 type: "Fashion"
+latitude: 52.525225
+longitude: 13.393014
 ---
 
 Fashion shopping!

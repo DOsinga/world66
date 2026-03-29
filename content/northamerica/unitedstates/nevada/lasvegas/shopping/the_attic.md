@@ -6,6 +6,8 @@ email: "theattic@wizard.com"
 phone: "702-388-4088"
 type: "Speciality shops"
 url: "www.atticvintage.com"
+latitude: 36.82942
+longitude: -76.284411
 ---
 
 The Attic Vintage Clothing Company is a star in its own right. Featured on a national Visa commercial, The Attic sells a mix of vintage and vintage-inspired clothing and accessories in one of the largest vintage clothing spaces in the Vegas, if not the country!

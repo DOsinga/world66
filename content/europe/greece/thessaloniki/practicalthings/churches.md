@@ -4,6 +4,8 @@ type: poi
 address: "Paleon Patron Germanou 13"
 phone: "2310 42 67 56 or 2310 25 60 02"
 type: "Tourist information"
+latitude: 37.962533
+longitude: 23.647697
 ---
 
 The Anglican Chaplaincy of Thessaloniki

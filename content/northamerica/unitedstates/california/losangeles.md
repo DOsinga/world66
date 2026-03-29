@@ -1,6 +1,8 @@
 ---
 title: "Los Angeles"
 type: location
+latitude: 34.053691
+longitude: -118.242766
 ---
 
 Los Angeles is a city for everything; one thinks of New York for big business, St. Paul or Minneapolis for wholesome living and Tampa for retiring. 

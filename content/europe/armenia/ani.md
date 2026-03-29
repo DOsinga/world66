@@ -1,6 +1,8 @@
 ---
 title: "Ani"
 type: location
+latitude: 40.177711
+longitude: 44.512623
 ---
 
 Travel Guide

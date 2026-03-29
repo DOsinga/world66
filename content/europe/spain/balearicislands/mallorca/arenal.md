@@ -1,6 +1,8 @@
 ---
 title: "Arenal"
 type: location
+latitude: 43.381535
+longitude: -3.217232
 ---
 
 Travel Guide

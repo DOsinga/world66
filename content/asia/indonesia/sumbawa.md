@@ -1,6 +1,8 @@
 ---
 title: "Sumbawa"
 type: location
+latitude: -8.594902
+longitude: 117.271607
 ---
 
 Sumbawa is the vastest Goverment Regency in the West Nusa Tenggara Province. It's 8,493 Km2 and incorporates 38 small islands. The population is about half a million. The main island of Sumbawa is larger than [Bali](/asia/indonesia/bali) and [Lombok](/asia/indonesia/lombok) combined. Its divided into three administrative districts or regencies that correspond roughly to the former sulatnates, Bima in the east, [Sumbawa](/asia/indonesia/sumbawa) in the west and Dompu in the middle. 

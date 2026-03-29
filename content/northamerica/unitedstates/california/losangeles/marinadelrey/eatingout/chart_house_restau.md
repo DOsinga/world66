@@ -7,6 +7,8 @@ phone: "310/822-4144"
 price: "dinner entrees $15 to $35"
 type: "Seafood"
 url: "chart-house.com"
+latitude: 33.979073
+longitude: -118.453333
 ---
 
 Open daily for dinner.

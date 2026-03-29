@@ -1,6 +1,8 @@
 ---
 title: "Thane"
 type: location
+latitude: 19.36536
+longitude: 73.368544
 ---
 
 We currently have no information about Thane.

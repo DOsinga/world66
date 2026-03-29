@@ -1,6 +1,8 @@
 ---
 title: "Auckland Region"
 type: location
+latitude: -37.011479
+longitude: 174.850578
 ---
 
 The **Auckland Region** of the North Island, with a population of over 1 million, includes the cities of

@@ -2,6 +2,8 @@
 title: "Teishoku"
 type: poi
 type: "Japanese"
+latitude: 35.009214
+longitude: 135.768793
 ---
 
 The* teishoku*, or set meal, is a standard part of the Japanese

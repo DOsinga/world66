@@ -1,6 +1,8 @@
 ---
 title: "Ballycastle"
 type: location
+latitude: 55.200688
+longitude: -6.250282
 ---
 
 We currently have no information about Ballycastle.

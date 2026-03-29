@@ -1,6 +1,8 @@
 ---
 title: "Valladolid"
 type: location
+latitude: 41.652181
+longitude: -4.728605
 ---
 
 We currently have no information about .

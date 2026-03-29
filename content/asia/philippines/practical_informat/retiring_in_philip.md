@@ -6,6 +6,8 @@ email: "Retire@Yats-International.com"
 phone: "(632) 637-5019"
 type: "Tourist information"
 url: "www.YatsLeisure.com"
+latitude: 15.195258
+longitude: 120.597682
 ---
 
 A clean, safe and laid-back lifestyle is offered by Yats Clearwater Resort & Country Club for people to retire in Philippines.

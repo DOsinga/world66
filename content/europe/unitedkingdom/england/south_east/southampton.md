@@ -1,6 +1,8 @@
 ---
 title: "Southampton"
 type: location
+latitude: 50.902535
+longitude: -1.404189
 ---
 
 Southampton, while having a strong naval and maritime history, has only been a city since the 1960's. This shows, as the city centre is considerably smaller than somewhere such as Reading (still a town) for instance. This makes walking very easy, as all major streets are now pedestrianised. The parks are very agreeable for a picnic lunch, but don't venture in to them after dark - pikeys abound!

@@ -2,6 +2,8 @@
 title: "Nelson"
 type: poi
 email: "parigy08@yahoo.com"
+latitude: 37.775535
+longitude: -78.897362
 ---
 
 Just south of the City is an old mining town of Nelson. This is the famous Eldorado Canyon. Great views, wonderful country store, tours of the mine.

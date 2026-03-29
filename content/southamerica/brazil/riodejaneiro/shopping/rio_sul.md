@@ -3,6 +3,8 @@ title: "Rio de janeiro"
 type: poi
 address: "Rua Lauro Muller, 116 - Botafogo."
 type: "Shopping centers and malls"
+latitude: -22.957246
+longitude: -43.176255
 ---
 
 Located close to Botafogo Beach and beside the tunnel that leads to Copacabana, is Rio's most traditional shopping. You'll find there anything you're looking for.

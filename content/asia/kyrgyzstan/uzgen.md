@@ -1,6 +1,8 @@
 ---
 title: "Uzgen"
 type: location
+latitude: 40.768814
+longitude: 73.298663
 ---
 
 Travel Guide

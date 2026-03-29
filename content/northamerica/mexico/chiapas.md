@@ -1,6 +1,8 @@
 ---
 title: "Chiapas"
 type: location
+latitude: 16.5
+longitude: -92.5
 ---
 
 Travel Guide

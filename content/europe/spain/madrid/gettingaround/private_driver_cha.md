@@ -5,6 +5,8 @@ address: "Madrid"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 40.416782
+longitude: -3.703507
 ---
 
 Durign your stay in Madrid, you can have a private English-speaking chauffeur as your Madrid travel guide. The chaffeur will pick you up and drop you off at your Madrid Hotel, the airport or any location within city limits. Or you can customize your own chauffeur driven tour for a day. You can customize your tour to take you to Madrid activities and sights or from town to town around the Madrid area such as Toledo, Avila, Segovia, and El Escorial. This is a perfect choice for those seeking a stress free vacation while exploring Madrid.

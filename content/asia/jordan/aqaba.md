@@ -1,6 +1,8 @@
 ---
 title: "Aqaba"
 type: location
+latitude: 29.526648
+longitude: 35.007543
 ---
 
 Aqaba is located in the south of Jordan just accross the border from Eilat in Israel and is the only place in the whole country where you can go to the beach. Although the beaches aren't great, snorkeling and diving is. The red sea has a fantastic underwaterscape and although a few spots in Egypt may have better opportunities, Aqaba is pretty okay. 

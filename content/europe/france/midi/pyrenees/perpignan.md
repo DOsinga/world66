@@ -1,6 +1,8 @@
 ---
 title: "Perpignan"
 type: location
+latitude: 42.69853
+longitude: 2.895312
 ---
 
 Travel Guide

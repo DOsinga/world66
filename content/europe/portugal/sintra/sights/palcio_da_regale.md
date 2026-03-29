@@ -2,6 +2,8 @@
 title: "Palácio da Regaleira"
 type: poi
 type: "Palaces"
+latitude: 41.143774
+longitude: -8.615585
 ---
 
 **Palácio da Regaleira**, built at the beginning of the 20th century, emerges from the scenery like an enormous, marvelous monument.

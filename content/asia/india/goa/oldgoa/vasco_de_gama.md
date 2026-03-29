@@ -1,6 +1,8 @@
 ---
 title: "Vasco De Gama"
 type: location
+latitude: 15.397877
+longitude: 73.810728
 ---
 
 Travel Guide

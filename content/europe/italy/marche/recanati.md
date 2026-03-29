@@ -1,6 +1,8 @@
 ---
 title: "Recanati"
 type: location
+latitude: 43.403509
+longitude: 13.548602
 ---
 
 Travel Guide

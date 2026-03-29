@@ -1,6 +1,8 @@
 ---
 title: "Shahbuz"
 type: location
+latitude: 39.438582
+longitude: 45.607133
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Safari World"
 type: location
+latitude: 13.865017
+longitude: 100.70306
 ---
 
 Safari World is in Minburi District at Km 9 on Ramintra Road, 10 km northeast of downtown Bangkok.

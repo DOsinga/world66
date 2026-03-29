@@ -1,6 +1,8 @@
 ---
 title: "Magnetic Island"
 type: location
+latitude: -19.142142
+longitude: 146.833549
 ---
 
 Magnetic Island, is located approximately 8 kms north east off the coast of Townsville in Tropical North, in the north of Queensland.

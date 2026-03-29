@@ -5,6 +5,8 @@ address: "Eppendorfer Weg 58"
 phone: "+49 (0)40 - 4918121"
 type: "Bars & Pubs"
 zipcode: "20259  Hamburg - Eimsbüttel"
+latitude: 53.572336
+longitude: 9.959638
 ---
 
 Pub and restaurant, terrace, sunday brunch

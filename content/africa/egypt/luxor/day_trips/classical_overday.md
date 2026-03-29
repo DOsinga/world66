@@ -5,6 +5,8 @@ address: "Luxor"
 email: "emiltut@yahoo.com"
 phone: "+2 0123702314"
 url: "emiltut.tripod.com"
+latitude: 25.702096
+longitude: 32.647186
 ---
 
 ** **

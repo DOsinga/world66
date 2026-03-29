@@ -1,6 +1,8 @@
 ---
 title: "Novi Beograd"
 type: location
+latitude: 44.813305
+longitude: 20.418338
 ---
 
 Travel Guide

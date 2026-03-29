@@ -1,6 +1,8 @@
 ---
 title: "Terrace"
 type: location
+latitude: 54.517271
+longitude: -128.599548
 ---
 
 Historically, Terrace is the main junction connecting Canada's Pacific Northern ports -- Prince Rupert and Kitimat -- to the BC interior and the Praires. With an area population of 36,000 and growing fast, and regional trading area of more than 100,000 inhabitants, Terrace is the rural northern link for communications, transportation and resource product trade.

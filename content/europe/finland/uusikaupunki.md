@@ -1,6 +1,8 @@
 ---
 title: "Uusikaupunki"
 type: location
+latitude: 60.801651
+longitude: 21.408614
 ---
 
 We currently have no information about .

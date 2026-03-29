@@ -1,6 +1,8 @@
 ---
 title: "Brandon"
 type: location
+latitude: 49.851114
+longitude: -99.960892
 ---
 
 Travel Guide

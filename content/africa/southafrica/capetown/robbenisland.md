@@ -1,6 +1,8 @@
 ---
 title: "Robben Island"
 type: location
+latitude: -33.8053
+longitude: 18.368883
 ---
 
 We currently have no information about Robben Island.

@@ -1,6 +1,8 @@
 ---
 title: "Mangatarem"
 type: location
+latitude: 15.788536
+longitude: 120.293864
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Timisoara"
 type: location
+latitude: 45.753836
+longitude: 21.225747
 ---
 
 Timisoara is the most important city in the Western part of Romania. Timisoara is the capital of the Timis County, a county bordering Yugoslavia and [Hungary](/europe/hungary)

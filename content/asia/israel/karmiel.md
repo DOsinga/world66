@@ -1,6 +1,8 @@
 ---
 title: "Karmiel"
 type: location
+latitude: 32.91591
+longitude: 35.293429
 ---
 
 A quality city in the Galilee (Israel)

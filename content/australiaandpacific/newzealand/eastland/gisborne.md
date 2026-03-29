@@ -1,6 +1,8 @@
 ---
 title: "Gisborne"
 type: location
+latitude: -38.661326
+longitude: 178.020649
 ---
 
 Gisborne, the first city in the world to see the sun each day, is located on the sunny East Coast of the North Island.

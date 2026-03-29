@@ -1,6 +1,8 @@
 ---
 title: "Tepelene"
 type: location
+latitude: 40.298226
+longitude: 20.020873
 ---
 
 We currently have no information about Tepelene.

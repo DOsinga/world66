@@ -6,6 +6,8 @@ opening_hours: "10 am-8 pm"
 phone: "+34 91 330 7300"
 type: "Public Buildings"
 url: "www.esmadrid.com"
+latitude: 40.41114
+longitude: -3.693568
 ---
 
 The CaixaForum (sic) is a free cultural centre. It has no permanent exhibitions but two floors consist of very large halls for trmporary exhibitons and there is a fine auditorium for concerts and theatrical ventures.

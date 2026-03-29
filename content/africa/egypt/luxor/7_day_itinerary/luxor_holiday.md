@@ -5,6 +5,8 @@ address: "15 luxor st"
 email: "info@egyptlastminute.com"
 phone: "00201005759364"
 url: "www.egyptlastminute.com"
+latitude: 51.467397
+longitude: -0.100937
 ---
 
 Enjoy one week of life-changing sights and experiences that you can use all your 5

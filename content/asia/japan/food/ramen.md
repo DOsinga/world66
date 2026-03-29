@@ -2,6 +2,8 @@
 title: "Ramen"
 type: poi
 type: "Japanese"
+latitude: 35.640801
+longitude: 139.674168
 ---
 
 Ramen is quite simply Japan's premiere fast food. Ramen is

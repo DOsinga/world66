@@ -5,6 +5,8 @@ address: "op de bult 43"
 email: "awl267@compuserve.de"
 phone: "01724038000"
 type: "Speciality shops"
+latitude: 53.383982
+longitude: 10.030548
 ---
 
 Cigars

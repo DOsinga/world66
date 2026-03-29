@@ -1,6 +1,8 @@
 ---
 title: "Vlieland island"
 type: location
+latitude: 53.255663
+longitude: 4.954893
 ---
 
 Travel Guide

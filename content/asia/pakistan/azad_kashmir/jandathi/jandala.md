@@ -1,6 +1,8 @@
 ---
 title: "JANDALA"
 type: location
+latitude: 32.939147
+longitude: 73.506034
 ---
 
 Travel Guide

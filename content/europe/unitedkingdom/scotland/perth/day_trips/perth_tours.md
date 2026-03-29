@@ -5,6 +5,8 @@ address: "Perth"
 email: "tours@goscotlandtours.com"
 phone: "(+44) (0) 750 466 1828"
 url: "www.goscotlandtours.com"
+latitude: -31.955897
+longitude: 115.860578
 ---
 
 Welcome to wild Scotland. **Perthshire**

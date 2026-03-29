@@ -3,6 +3,8 @@ title: "Ryfylke"
 type: poi
 type: "Hotspots"
 url: "www.ryfylke.com"
+latitude: 59.39197
+longitude: 10.48116
 ---
 
 Explore Ryfylke!

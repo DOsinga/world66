@@ -5,6 +5,8 @@ address: "1201 North Galvin Parkway"
 phone: "(480) 941-1225"
 type: "Hotspots"
 url: "dbg.org"
+latitude: 33.45726
+longitude: -111.95164
 ---
 
 **JOBS**

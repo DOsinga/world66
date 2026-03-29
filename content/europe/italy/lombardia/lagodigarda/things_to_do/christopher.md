@@ -6,6 +6,8 @@ email: "info@lakegarda.biz"
 phone: "+256774498640"
 type: "Other"
 url: "www.lakegarda.biz"
+latitude: 42.638426
+longitude: 12.674297
 ---
 
 Lake Garda is the largest and most popular lake in Italy. It was formed in the last Ice Age and covers 370 sq. kilometres, reaching right up into the Alps. This beautiful mountain location makes it one of the most spectacular settings in the world. If you stay at any of our recommended hotels or holiday homes you will find yourself right at the heart of this landscape.

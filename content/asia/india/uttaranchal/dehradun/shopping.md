@@ -7,6 +7,8 @@ email: "sales@dehradunflorist.com"
 phone: "919897064001"
 type: "Shopping centers and malls"
 url: "www.dehradunflorist.com"
+latitude: 30.325565
+longitude: 78.043681
 ---
 
 flowers to dehradun

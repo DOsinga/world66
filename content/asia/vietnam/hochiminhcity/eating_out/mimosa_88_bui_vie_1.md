@@ -6,6 +6,8 @@ address: "88 Bui Vien St,HCMC"
 phone: "8.377544"
 price: "$1-$5 U.S."
 type: "Local"
+latitude: 10.765741
+longitude: 106.690757
 ---
 
 Mimosa is a locally run restaurant, very clean, with an excellent chef. I tried many dishes of different ethnicities and all were well prepared, Western and Asian.

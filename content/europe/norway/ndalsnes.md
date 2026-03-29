@@ -1,6 +1,8 @@
 ---
 title: "Åndalsnes"
 type: location
+latitude: 62.568169
+longitude: 7.686762
 ---
 
 Sometimes comments on travel boards about Åndalsnes are little short of caustic yet it has plenty going for it. It is between [Molde](/europe/norway/molde) and the Romsdal rail line from its terminus here and the bus ride to {Geirangerfjord. 

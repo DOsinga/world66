@@ -1,6 +1,8 @@
 ---
 title: "Monferrato"
 type: location
+latitude: 45.324086
+longitude: 8.423028
 ---
 
 Travel Guide

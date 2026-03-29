@@ -4,6 +4,8 @@ type: poi
 phone: "909-793-7316"
 type: "Concerts"
 url: "www.redlandsbowl.org"
+latitude: 34.053552
+longitude: -117.184918
 ---
 
 Redlands

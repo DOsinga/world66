@@ -6,6 +6,8 @@ email: "rightgadgets3@hotmail.com"
 phone: "9874090194"
 type: "Antiques"
 url: "www.rightgadgets.in"
+latitude: 22.572646
+longitude: 88.363895
 ---
 
 Normal

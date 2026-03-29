@@ -1,6 +1,8 @@
 ---
 title: "Tanjay"
 type: location
+latitude: 9.516451
+longitude: 123.156635
 ---
 
 Travel Guide

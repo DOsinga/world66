@@ -1,6 +1,8 @@
 ---
 title: "Fairfax"
 type: location
+latitude: 38.846224
+longitude: -77.306373
 ---
 
 Travel Guide

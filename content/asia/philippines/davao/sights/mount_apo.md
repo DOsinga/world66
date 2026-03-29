@@ -2,6 +2,8 @@
 title: "Mount Apo National Park"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: 6.947052
+longitude: 125.274259
 ---
 
 At 2,954 meters, this is the country's tallest peak. Other

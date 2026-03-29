@@ -1,6 +1,8 @@
 ---
 title: "Muine - Phan Thiet"
 type: location
+latitude: 10.953376
+longitude: 108.247176
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Kansas City"
 type: location
+latitude: 39.100105
+longitude: -94.578142
 ---
 
 Kansas City spans part of two states, [Kansas](/northamerica/unitedstates/kansas) and [Missouri](/northamerica/unitedstates/missouri).

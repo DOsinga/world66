@@ -5,6 +5,8 @@ address: "61 Wualai road Chiang Mai"
 phone: "66 53 201683"
 type: "Other"
 url: "thailandweddings.com"
+latitude: 18.779292
+longitude: 98.987309
 ---
 
 One of the most unique and romantic things to do in Chiang Mai is to get married. Yes I said get married!

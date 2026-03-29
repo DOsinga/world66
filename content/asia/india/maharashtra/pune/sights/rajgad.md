@@ -1,6 +1,8 @@
 ---
 title: "Rajgad"
 type: poi
+latitude: 20.317494
+longitude: 76.769802
 ---
 
 About 85 kms from Pune, this fort has great historical relevance, as it

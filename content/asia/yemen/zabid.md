@@ -1,6 +1,8 @@
 ---
 title: "Zabid"
 type: location
+latitude: 14.195298
+longitude: 43.315149
 ---
 
 We currently have no information about Zabid.

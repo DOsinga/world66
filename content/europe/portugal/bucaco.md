@@ -1,6 +1,8 @@
 ---
 title: "Bucaco"
 type: location
+latitude: 40.368587
+longitude: -8.358415
 ---
 
 We currently have no information about Bucaco.

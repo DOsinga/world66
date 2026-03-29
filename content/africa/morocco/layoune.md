@@ -1,6 +1,8 @@
 ---
 title: "Layoune"
 type: location
+latitude: 31.515266
+longitude: -9.763775
 ---
 
 Travel Guide

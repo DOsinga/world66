@@ -1,6 +1,8 @@
 ---
 title: "Tama-Toledo"
 type: location
+latitude: 41.238054
+longitude: -84.400199
 ---
 
 Travel Guide

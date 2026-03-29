@@ -2,23 +2,31 @@
 title: "Things to do"
 type: section
 type: "Trekking"
+latitude: 12.833965
+longitude: 79.714809
 ---
 
 ### [Dos and Dont's](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/dosanddonts)
 
 While trekking in Ladakh, you are advised to follow certain instructions which is in terms of preserving the environment. You can also get the copy of **"While in Himalaya's- Dos and Dont's " **a publication of Indian Mountaineering Foundation, which is at Delhi. The address is:
 
- **Indian Mountaineering Foundation**
 
- Benito Juarez Road,
+ **Indian Mountaineering Foundation**
 
- New Delhi-110021.
 
- PH: +91 11 671211 / 602245
+ Benito Juarez Road,
 
- FAX: + 91 11 6883412
 
- ** vilayat:** Zansker trek starts from lamayuru,so how can you go from Leh - Shey - Thiksey - Hemis - Alchi - to [more..](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/dosanddonts)
+ New Delhi-110021.
+
+
+ PH: +91 11 671211 / 602245
+
+
+ FAX: + 91 11 6883412
+
+
+ ** vilayat:** Zansker trek starts from lamayuru,so how can you go from Leh - Shey - Thiksey - Hemis - Alchi - to [more..](/asia/india/jammuandkashmir/ladakh/leh/thingstodo/dosanddonts)
 
 type: Trekking
 
@@ -40,7 +48,8 @@ type: Hiking
 
 The things required for Trekking:
 
- A Sturdy pair of Walking Shoes, Thick Cotton or Woollen Socks, Sleeping Beg, Waterproof Tent, Toiletries, First Aid Kit, Necessary Medicines for High Altitude Sickness, Flash Light or Torch with Extra batteries, Hat, Sunglasses, Kerosene for Cooking Stove(If you are carrying).
+
+ A Sturdy pair of Walking Shoes, Thick Cotton or Woollen Socks, Sleeping Beg, Waterproof Tent, Toiletries, First Aid Kit, Necessary Medicines for High Altitude Sickness, Flash Light or Torch with Extra batteries, Hat, Sunglasses, Kerosene for Cooking Stove(If you are carrying).
 
 type: Trekking
 

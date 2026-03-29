@@ -1,6 +1,8 @@
 ---
 title: "Lucena"
 type: location
+latitude: 13.93577
+longitude: 121.612861
 ---
 
 Travel Guide

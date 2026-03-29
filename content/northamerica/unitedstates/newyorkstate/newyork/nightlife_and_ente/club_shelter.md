@@ -5,6 +5,8 @@ address: "150 Varick Street,New York, NY 10013"
 phone: "(646)862-6117"
 type: "Clubs and dancing"
 url: "www.clubshelter.com"
+latitude: 40.726195
+longitude: -74.005488
 ---
 
 This is an exceedingly attractive dance club in NY!

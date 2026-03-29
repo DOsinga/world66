@@ -1,6 +1,8 @@
 ---
 title: "dapoli"
 type: location
+latitude: 17.758046
+longitude: 73.188708
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Lee County Florida"
 type: location
+latitude: 26.686487
+longitude: -81.917473
 ---
 
 Ft Myers, Florida is one of the best unknown places of Southwest Florida. It is a persons dream. You can visit the Winter Estates of Thomas Edison and Henry Ford. These estates are along Mac Gregor Blvd. This is about 12 miles of road lined with Royal Palm Trees. Heading down Mac Gregor you can head over to the Shelling Captial of the world of Sanibel Island and Captiva Island. This is a nice drive either by car or motorcycle which I prefer.

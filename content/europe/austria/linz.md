@@ -1,6 +1,8 @@
 ---
 title: "Linz"
 type: location
+latitude: 48.305908
+longitude: 14.286198
 ---
 
 Linz is Austria's third-largest city after [Vienna](/europe/austria/vienna) and [Graz](/europe/austria/graz). It is located in the north of the country about halfway between Vienna and [Salzburg](/europe/austria/salzburg). Linz is quite an elegant city with an interesting historic Old Town Quarter with many nice patrician houses and a large pedestrian zone. 

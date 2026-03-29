@@ -1,6 +1,8 @@
 ---
 title: "River Cess"
 type: location
+latitude: 5.908733
+longitude: -9.393827
 ---
 
 We currently have no information about River Cess.

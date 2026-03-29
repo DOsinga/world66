@@ -1,6 +1,8 @@
 ---
 title: "Grado"
 type: location
+latitude: 45.678106
+longitude: 13.397909
 ---
 
 We currently have no information about Grado.

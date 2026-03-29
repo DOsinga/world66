@@ -6,6 +6,8 @@ closing_time: "After 12pm, until last customer"
 email: "bebe@equinox-cambodia.com"
 type: "Pubs"
 url: "www.equinox-cambodia.com"
+latitude: 52.181477
+longitude: 21.038232
 ---
 
 Equinox is located in the buzzing st 278, in an old-style house.

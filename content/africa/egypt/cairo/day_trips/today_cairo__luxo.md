@@ -5,6 +5,8 @@ address: "124, Haram street, Giza, Egypt"
 email: "amanywaw@egyptonlinetours.com"
 phone: "002 / 0101437309"
 url: "www.egyptonlinetours.com"
+latitude: 29.781817
+longitude: 31.284695
 ---
 
 Departure : Daily

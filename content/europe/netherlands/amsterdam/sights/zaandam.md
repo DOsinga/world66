@@ -2,6 +2,8 @@
 title: "Zaandam"
 type: poi
 type: "Landmarks"
+latitude: 52.442493
+longitude: 4.829861
 ---
 
 Zaandam is a pitoresque village north west of Amsterdam.

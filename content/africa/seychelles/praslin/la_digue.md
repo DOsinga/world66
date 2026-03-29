@@ -1,6 +1,8 @@
 ---
 title: "La Digue"
 type: location
+latitude: -4.360087
+longitude: 55.838478
 ---
 
 Travel Guide

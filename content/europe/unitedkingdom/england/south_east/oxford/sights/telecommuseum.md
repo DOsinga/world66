@@ -3,6 +3,8 @@ title: "Telecom Museum"
 type: poi
 address: "35 Speedwell St."
 type: "Museums"
+latitude: 51.748137
+longitude: -1.258298
 ---
 
 type: Museums

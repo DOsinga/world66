@@ -1,6 +1,8 @@
 ---
 title: "Altus"
 type: location
+latitude: 34.638126
+longitude: -99.333975
 ---
 
 Travel Guide

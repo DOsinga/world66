@@ -1,6 +1,8 @@
 ---
 title: "Kasungu"
 type: location
+latitude: -12.992179
+longitude: 33.472454
 ---
 
 Travel Guide

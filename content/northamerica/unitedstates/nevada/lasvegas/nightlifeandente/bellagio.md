@@ -3,6 +3,8 @@ title: "Bellagio"
 type: poi
 address: "3600 Las Vegas Blvd South"
 type: "Casinos"
+latitude: 36.113115
+longitude: -115.177007
 ---
 
 Extremely elegant Casino and Hotel in European style. Shopping is taken

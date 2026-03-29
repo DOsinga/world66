@@ -1,9 +1,12 @@
 ---
 title: "Mast"
 type: poi
+latitude: 44.72792
+longitude: 11.29099
 ---
 
-The Sport and Tourism in the Environment Show involves exhibitors from all around the world who are interested in promoting outdoor-activity-related products and offers. The well-qualified event that is the only one of its kind in the sector is backed by the Turin Marathon, a prestigious race that brings over professional and amateur sportspeople onto the streets. 
+The Sport and Tourism in the Environment Show involves exhibitors from all around the world who are interested in promoting outdoor-activity-related products and offers. The well-qualified event that is the only one of its kind in the sector is backed by the Turin Marathon, a prestigious race that brings over professional and amateur sportspeople onto the streets.
+ 
 
 fax: (39) 011 6634638
 

@@ -1,6 +1,8 @@
 ---
 title: "Dungannon"
 type: location
+latitude: 54.503909
+longitude: -6.770362
 ---
 
 We currently have no information about Dungannon.

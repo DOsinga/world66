@@ -5,6 +5,8 @@ address: "28 rue de Verdun"
 phone: "283289"
 type: "Speciality shops"
 url: "www.tikipacific.com"
+latitude: 48.825183
+longitude: 2.406349
 ---
 
 Neo-Caledonian Beachwear. Very cute shop.

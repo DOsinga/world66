@@ -1,6 +1,8 @@
 ---
 title: "Grand Portage"
 type: location
+latitude: 47.963776
+longitude: -89.684812
 ---
 
 Located on the magnificent shore and boreal forest of Lake Superior in northeastern Minnesota, Grand Portage National Monument preserves a vital headquarters of 18th, 19th and 20th century fur trade activity and Ojibwe heritage.

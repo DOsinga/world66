@@ -1,6 +1,8 @@
 ---
 title: "Beppu"
 type: location
+latitude: 33.284575
+longitude: 131.491306
 ---
 
 Travel Guide

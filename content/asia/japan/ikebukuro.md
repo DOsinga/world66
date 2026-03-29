@@ -1,6 +1,8 @@
 ---
 title: "Ikebukuro"
 type: location
+latitude: 35.731142
+longitude: 139.708944
 ---
 
 Travel Guide

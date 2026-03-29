@@ -6,6 +6,8 @@ email: "info@designmuseum.org"
 opening_hours: "10.00-17.45 Fri until 21.00"
 phone: "0870 833 9955"
 url: "www.designmuseum.org"
+latitude: 51.50342
+longitude: -0.073548
 ---
 
 The design museum is a must for anyone with an interest in modern and contemporary design. The permanent exhibition follows the change in British homes from the 20th century until present day, which is constantly updated to include new design classics.

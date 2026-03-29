@@ -1,6 +1,8 @@
 ---
 title: "Podgorica"
 type: location
+latitude: 42.441524
+longitude: 19.262108
 ---
 
 Travel Guide

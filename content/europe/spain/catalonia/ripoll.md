@@ -1,6 +1,8 @@
 ---
 title: "Ripoll"
 type: location
+latitude: 42.198239
+longitude: 2.19325
 ---
 
 Ripoll is a small town which can be reached by bus from Gerona, if you plan carefully involving a circular route via or by train from

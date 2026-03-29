@@ -6,6 +6,8 @@ email: "borbirosag@axelero.hu"
 phone: "219-0902"
 type: "Local"
 url: "www.borbirosag.com"
+latitude: 47.486926
+longitude: 19.060096
 ---
 
 Hungarian dishes with a nice selection of wines.

@@ -1,6 +1,8 @@
 ---
 title: "Bor Sang Village"
 type: poi
+latitude: 18.767484
+longitude: 99.083572
 ---
 
 Bor Sang Village is located at Highway 1006. This road serves as the location to the largest amount and the most popular of handicraft factories . and shops in Chiang Mai.

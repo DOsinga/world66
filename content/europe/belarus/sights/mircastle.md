@@ -1,6 +1,8 @@
 ---
 title: "Mir Castle"
 type: poi
+latitude: 53.451197
+longitude: 26.473282
 ---
 
 "/>

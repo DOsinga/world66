@@ -4,6 +4,8 @@ type: poi
 address: "3079 16th St."
 type: "Gay and Lesbian"
 url: "www.sfgaybarlist.com#estanoche"
+latitude: 37.764705
+longitude: -122.421344
 ---
 
 Latino's meet drag queens at San Francisco's latin gay bar. Esta Noche

@@ -2,6 +2,8 @@
 title: "Things to do"
 type: section
 type: "Hiking"
+latitude: 43.660139
+longitude: -79.417114
 ---
 
 Naples is home to more than 1 million lucky residents. This means that the city is constantly moving forward with plenty of things to do, places to go, and people to see. During your Naples vacation, you will never run out of things to do and places to go. The problem is trying to fit them all into your schedule. If you don't have a few years to spend here exploring the hundreds of different attractions, you *will* find several dozen that should fall somewhere at the top of your must-see/must-do list. Continue reading through the listings to find out about some of the most popular things to do on your Naples trip!

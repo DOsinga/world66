@@ -6,6 +6,8 @@ email: "info@lostpaddlerafting.com"
 phone: "1-866-766-7238"
 type: "Rafting"
 url: "www.lostpaddlerafting.com"
+latitude: 38.445354
+longitude: -105.228032
 ---
 
 Fun trips for all abilities on Colorado's premier river! The Arkansas River! Daily trips through the Royal Gorge. Half-day, Full day, and multi-day river-side camping trips available.

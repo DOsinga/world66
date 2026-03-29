@@ -6,6 +6,8 @@ email: "info@almarabb.com"
 phone: "00353 1 8510512"
 type: "International"
 url: "www.freewebs.com"
+latitude: 53.384586
+longitude: -6.250209
 ---
 
 Kitty Kiernans Pub and Restaurant is a popular venue for Dublin locals.

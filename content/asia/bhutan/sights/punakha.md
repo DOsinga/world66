@@ -2,6 +2,8 @@
 title: "Punakha"
 type: poi
 type: "Monasteries"
+latitude: 27.584286
+longitude: 89.859309
 ---
 
 A three and a half hour drive from the town of Paro is the

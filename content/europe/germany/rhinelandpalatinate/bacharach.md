@@ -1,6 +1,8 @@
 ---
 title: "Bacharach"
 type: location
+latitude: 50.059794
+longitude: 7.7684
 ---
 
 We currently have no information about Bacharach.

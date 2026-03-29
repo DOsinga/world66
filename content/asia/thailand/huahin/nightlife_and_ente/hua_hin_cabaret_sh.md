@@ -8,6 +8,8 @@ email: "mail@huahincabaretshow.com"
 phone: "089 6913137"
 type: "Concerts"
 url: "www.huahincabaretshow.com"
+latitude: 12.525943
+longitude: 99.902096
 ---
 
 This is one of the very best shows to hit the Hua Hin area.

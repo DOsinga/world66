@@ -8,6 +8,8 @@ opening_hours: "8 am"
 phone: "919897064001"
 type: "Hotspots"
 url: "www.allindiaflorist.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 All India Florist - Send Flowers to India Florists India Floral Blooms Gifts Roses Blossoms Flower Gift Shop

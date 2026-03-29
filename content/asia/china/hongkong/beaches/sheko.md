@@ -2,6 +2,8 @@
 title: "Shek O"
 type: poi
 type: "general"
+latitude: 22.233167
+longitude: 114.250033
 ---
 
 Seen from the hill above, the popular seaside destination of Shek O looks great. The ambience is still traditional and rustic. Take the Metro to Shau Kei Wan MTR Station, exit A3. Then take bus no. 9 to Shek O.

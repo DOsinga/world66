@@ -1,6 +1,8 @@
 ---
 title: "Nîmes"
 type: location
+latitude: 43.837425
+longitude: 4.360069
 ---
 
 Travel Guide

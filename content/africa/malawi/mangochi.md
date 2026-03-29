@@ -1,6 +1,8 @@
 ---
 title: "Mangochi"
 type: location
+latitude: -14.141111
+longitude: 35.326749
 ---
 
 We currently have no information about Mangochi.

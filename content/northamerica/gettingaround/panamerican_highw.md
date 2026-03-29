@@ -2,6 +2,8 @@
 title: "Pan-American Highway"
 type: poi
 address: "International Highway"
+latitude: 30.610016
+longitude: -98.14751
 ---
 
 Auto enthusiasts have been intrigued by the idea of being able to travel the entire length of the Americas, from Alaska to Argentina, since the inception of the Pan-American Highway in 1923. There is some debate as to what the route of the North American section of the Pan-American Highway is, because official routes have not been dedicated in Canada and the United States.

@@ -1,6 +1,8 @@
 ---
 title: "Ekaterinburg"
 type: location
+latitude: 56.838207
+longitude: 60.600789
 ---
 
 Ekaterinburg is the historical and economic center of the [Ural](/europe/russia/ural)s which forms a natural border between [Europe](/europe) and [Asia](/asia). It is also the administrative center of the Sverdlovsk region and the [Ural](/europe/russia/ural) federal district. The city lies on Iset River.

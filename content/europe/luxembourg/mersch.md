@@ -1,6 +1,8 @@
 ---
 title: "Mersch"
 type: location
+latitude: 49.750675
+longitude: 6.106659
 ---
 
 We currently have no information about Mersch.

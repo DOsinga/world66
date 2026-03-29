@@ -1,6 +1,8 @@
 ---
 title: "Airway Heights"
 type: location
+latitude: 47.644611
+longitude: -117.593272
 ---
 
 Travel Guide

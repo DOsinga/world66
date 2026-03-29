@@ -1,6 +1,8 @@
 ---
 title: "Shrewsbury"
 type: location
+latitude: 52.707755
+longitude: -2.754066
 ---
 
 Travel Guide

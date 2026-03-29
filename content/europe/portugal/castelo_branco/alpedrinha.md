@@ -1,6 +1,8 @@
 ---
 title: "Alpedrinha"
 type: location
+latitude: 40.098898
+longitude: -7.467898
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ email: "info@leespalace.com"
 phone: "416.532.1598"
 type: "Concerts"
 url: "www.leespalace.com"
+latitude: 43.66537
+longitude: -79.409496
 ---
 
 Great mid sized venue in the heart of the Bloor West Village

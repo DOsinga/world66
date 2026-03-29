@@ -1,6 +1,8 @@
 ---
 title: "Le Pu"
 type: location
+latitude: 46.727727
+longitude: -2.354004
 ---
 
 Travel Guide

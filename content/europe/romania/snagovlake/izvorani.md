@@ -1,6 +1,8 @@
 ---
 title: "Izvorani"
 type: location
+latitude: 44.872028
+longitude: 24.939507
 ---
 
 Travel Guide

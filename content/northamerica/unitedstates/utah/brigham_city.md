@@ -1,6 +1,8 @@
 ---
 title: "Brigham City"
 type: location
+latitude: 41.511043
+longitude: -112.015499
 ---
 
 Travel Guide

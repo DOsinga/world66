@@ -4,6 +4,8 @@ type: poi
 address: "Kuwait"
 type: "Markets"
 url: "www.q8daily.com"
+latitude: 29.273396
+longitude: 47.497948
 ---
 
 Kuwait Classifieds is a free classifieds portal for Kuwait community to buy and sell and offer services. For sale, real estate, jobs, cars and much more.

@@ -1,6 +1,8 @@
 ---
 title: "Prairie du Rocher"
 type: location
+latitude: 38.083108
+longitude: -90.095946
 ---
 
 This small town contains the remains of Fort de Chartres, the French seat of government in Illinois and the last French possession surrendered to the British at the conclusion of the French and Indian War. The fort has been partially reconstructed to the form it would have had in the 1750s and 1760s and includes a small museum on the French colony in Illinois.

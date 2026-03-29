@@ -1,6 +1,8 @@
 ---
 title: "Arusha"
 type: location
+latitude: -3.369683
+longitude: 36.688079
 ---
 
 Arusha is one of the bigger cities in the north of

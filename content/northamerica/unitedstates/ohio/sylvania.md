@@ -1,6 +1,8 @@
 ---
 title: "Sylvania"
 type: location
+latitude: 32.750444
+longitude: -81.636776
 ---
 
 Travel Guide

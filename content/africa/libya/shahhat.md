@@ -1,6 +1,8 @@
 ---
 title: "Shahhat"
 type: location
+latitude: 32.808215
+longitude: 21.869684
 ---
 
 We currently have no information about Shahhat.

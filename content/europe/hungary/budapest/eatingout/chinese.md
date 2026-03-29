@@ -1,9 +1,12 @@
 ---
 title: "Chinese"
 type: poi
+latitude: 47.519542
+longitude: 19.057863
 ---
 
-If you think Chinese food is the same everywere, a visit to a Hungarian Chinese may be an eye-opener.  
+If you think Chinese food is the same everywere, a visit to a Hungarian Chinese may be an eye-opener. 
+ 
 
 **Restaurants**
 

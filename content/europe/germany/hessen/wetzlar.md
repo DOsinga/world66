@@ -1,6 +1,8 @@
 ---
 title: "Wetzlar"
 type: location
+latitude: 50.570561
+longitude: 8.531245
 ---
 
 Travel Guide

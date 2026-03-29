@@ -2,6 +2,8 @@
 title: "Cabot Tower"
 type: poi
 type: "general"
+latitude: 51.454029
+longitude: -2.606818
 ---
 
 *A Bristol landmark. Visible from many parts of the city, and at night its beacon flashes a message in Morse code B-R-I-S-T-O-L. 100 feet high tower commemorates John Cabot's voyage to America in 1497 (he discovered Newfoundland). *

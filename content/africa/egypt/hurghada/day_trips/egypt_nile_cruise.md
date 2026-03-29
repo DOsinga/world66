@@ -5,6 +5,8 @@ address: "Egypt, Hurghada"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 **Egypt** **Nile cruise** holiday** tour** from **hurghada** to visit **luxor**, Edfu, Kom ombo and **Aaswan** **sightseeing** by **luxury** ship sailing between **luxor** and **aswan**. Take a **Nile** **cruise** from **Luxor** to **Aswan** from **Hurghada** Red Sea as a part of your Beach **Holiday**.

@@ -1,6 +1,8 @@
 ---
 title: "Everest"
 type: location
+latitude: 27.988061
+longitude: 86.92521
 ---
 
 Travel Guide

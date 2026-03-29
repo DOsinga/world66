@@ -1,6 +1,8 @@
 ---
 title: "Tuvalu"
 type: location
+latitude: -8.640521
+longitude: 179.158292
 ---
 
 Tuvalu consists of nine remote atolls in the great Pacific. The islands are low-lying coral formations, covered by coconut palms. The nearest island nations are

@@ -1,6 +1,8 @@
 ---
 title: "La Gomera"
 type: location
+latitude: 28.119236
+longitude: -17.225747
 ---
 
 **An Ecological Paradise** 

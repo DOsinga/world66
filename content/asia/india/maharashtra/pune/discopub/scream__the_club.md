@@ -3,6 +3,8 @@ title: "Scream - The Club Le Meriden"
 type: location
 address: "pune"
 phone: "Ph-6050505/6050506"
+latitude: 18.521374
+longitude: 73.854507
 ---
 
 The most happening place of Pune [COUPLES ONLY unless you are staying at the hotel], started on 1st of December 2000. The beautiful ambiance & the luxury of a five star hotel is the reason of crowd being so crazy about this place. The total area of 3000.sq feet is divided in two parts namely dance floor & bar. The club is open from 9.00 pm to 12.15 am in the night on Friday and Saturday.

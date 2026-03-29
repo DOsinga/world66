@@ -1,6 +1,8 @@
 ---
 title: "Derinkuyu"
 type: location
+latitude: 38.400309
+longitude: 34.699588
 ---
 
 We currently have no information about Derinkuyu.

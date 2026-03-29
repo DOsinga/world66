@@ -4,6 +4,8 @@ type: poi
 address: "4A-Hang But-Hoan Kiem-Ha Noi"
 email: "contact@dulichbonmua.net"
 phone: "0462700945"
+latitude: 21.035014
+longitude: 105.847741
 ---
 
 v\:* behavior:url(#default#VML);

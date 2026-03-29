@@ -1,6 +1,8 @@
 ---
 title: "Njombe"
 type: location
+latitude: -9.121089
+longitude: 34.431677
 ---
 
 Travel Guide

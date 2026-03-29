@@ -1,6 +1,8 @@
 ---
 title: "Sogod"
 type: location
+latitude: 10.747195
+longitude: 124.004473
 ---
 
 Travel Guide

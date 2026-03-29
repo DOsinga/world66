@@ -1,6 +1,8 @@
 ---
 title: "Hasilpur"
 type: location
+latitude: 29.688981
+longitude: 72.552545
 ---
 
 Travel Guide

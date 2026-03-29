@@ -2,6 +2,8 @@
 title: "By Rail"
 type: poi
 type: "By Rail"
+latitude: 52.716492
+longitude: -0.692263
 ---
 
 **Cardiff Central - Caerdydd Canolog**

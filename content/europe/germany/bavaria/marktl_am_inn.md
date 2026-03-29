@@ -1,6 +1,8 @@
 ---
 title: "Marktl am Inn"
 type: location
+latitude: 48.248032
+longitude: 12.833433
 ---
 
 Located near the border to Austria and near Burghausen (with

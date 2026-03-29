@@ -1,6 +1,8 @@
 ---
 title: "Vestvagoy"
 type: location
+latitude: 68.160722
+longitude: 13.784107
 ---
 
 **VESTVÅGØY 

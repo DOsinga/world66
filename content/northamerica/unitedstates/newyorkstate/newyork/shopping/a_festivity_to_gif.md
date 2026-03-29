@@ -6,6 +6,8 @@ email: "indiaonlineflorists2@hotmail.com"
 phone: "0000000000"
 type: "Shopping centers and malls"
 url: "www.indiaonlineflorists.com"
+latitude: 28.613895
+longitude: 77.209006
 ---
 
 Normal

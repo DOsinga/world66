@@ -7,6 +7,8 @@ email: "info@sfiziopizza.it"
 price: "5-10 Euro"
 type: "Italian"
 url: "www.sfiziopizza.it"
+latitude: 41.899829
+longitude: 12.501245
 ---
 
 Great place to eat cheap in Rome with a good quality. Several menus and very clean place.

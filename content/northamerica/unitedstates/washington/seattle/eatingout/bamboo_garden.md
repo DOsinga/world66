@@ -7,6 +7,8 @@ phone: "(206) 282-6616"
 price: "$10"
 type: "Vegetarian"
 url: "www.bamboogarden.net"
+latitude: 47.625599
+longitude: -122.349409
 ---
 
 Kosher and Vegetarian. No meat or seafood served, just vegetarian fare with different protein substitutes.

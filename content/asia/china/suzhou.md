@@ -1,6 +1,8 @@
 ---
 title: "Suzhou"
 type: location
+latitude: 31.311123
+longitude: 120.621288
 ---
 
 Suzhou is located about 1 hour west of Shanghai on the Nanjing-Shanghai

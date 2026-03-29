@@ -1,6 +1,8 @@
 ---
 title: "Krabi"
 type: location
+latitude: 8.111165
+longitude: 99.10973
 ---
 
 Travel Guide

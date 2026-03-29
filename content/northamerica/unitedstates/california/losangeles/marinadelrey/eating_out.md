@@ -6,6 +6,8 @@ address: "4175 Admiralty Way"
 phone: "310/823-5333"
 price: "$7 to 11"
 type: "American"
+latitude: 33.982464
+longitude: -118.457562
 ---
 
 ### Display all

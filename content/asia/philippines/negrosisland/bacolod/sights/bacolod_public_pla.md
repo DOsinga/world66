@@ -4,6 +4,8 @@ type: poi
 accessibility: "by all transportation modes"
 address: "Rizal Street, Bacolod City"
 type: "Parks, Gardens and Zoos"
+latitude: 10.664645
+longitude: 122.958562
 ---
 
 This is an important part of the city of bacolod, with an adobe in the center, the park also lushed by trees and fountains.

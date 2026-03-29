@@ -1,6 +1,8 @@
 ---
 title: "Crawfordville, Georgia"
 type: location
+latitude: 33.553994
+longitude: -82.89619
 ---
 
 Travel Guide

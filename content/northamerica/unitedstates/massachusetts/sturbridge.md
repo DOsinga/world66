@@ -1,6 +1,8 @@
 ---
 title: "Sturbridge"
 type: location
+latitude: 42.108438
+longitude: -72.080777
 ---
 
 Travel Guide

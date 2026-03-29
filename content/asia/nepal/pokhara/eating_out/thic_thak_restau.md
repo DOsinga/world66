@@ -6,6 +6,8 @@ email: "thicthakrestaurant@gmail.com"
 phone: "061464634"
 price: "195to465 nepali rupees"
 type: "International"
+latitude: 28.167151
+longitude: 84.101751
 ---
 
 we have specailly hole live fish, fire wood pizza, russian magic pot and interanational food also can served foy u thank yu and see u our restaurant

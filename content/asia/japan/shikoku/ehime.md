@@ -1,6 +1,8 @@
 ---
 title: "Ehime"
 type: location
+latitude: 33.601365
+longitude: 132.818527
 ---
 
 We currently have no information about Ehime.

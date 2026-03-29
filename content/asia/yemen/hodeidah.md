@@ -1,6 +1,8 @@
 ---
 title: "Hodeidah"
 type: location
+latitude: 14.797868
+longitude: 42.954487
 ---
 
 We currently have no information about Hodeidah.

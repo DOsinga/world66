@@ -1,6 +1,8 @@
 ---
 title: "Saurimo"
 type: location
+latitude: -9.65893
+longitude: 20.398112
 ---
 
 Travel Guide

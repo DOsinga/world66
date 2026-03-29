@@ -4,6 +4,8 @@ type: section
 address: "mian waheed ud din park"
 opening_hours: "5 AM To 10 PM"
 type: "Parks, Gardens and Zoos"
+latitude: 32.585167
+longitude: 73.494992
 ---
 
 1. Mian waheed-u-deen park

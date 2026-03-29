@@ -5,6 +5,8 @@ address: "Rebecca"
 email: "tonya@yahoo.com"
 phone: "Rebecca"
 url: "phpicalendar.net"
+latitude: 31.806569
+longitude: -83.486829
 ---
 
 Great work!

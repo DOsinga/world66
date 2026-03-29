@@ -1,6 +1,8 @@
 ---
 title: "Langrial"
 type: location
+latitude: 32.836805
+longitude: 74.041281
 ---
 
 Travel Guide

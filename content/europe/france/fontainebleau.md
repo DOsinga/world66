@@ -1,6 +1,8 @@
 ---
 title: "Fontainebleau"
 type: location
+latitude: 48.404938
+longitude: 2.701587
 ---
 
 Travel Guide

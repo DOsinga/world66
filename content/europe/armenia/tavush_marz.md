@@ -1,6 +1,8 @@
 ---
 title: "Tavush Marz"
 type: location
+latitude: 40.739466
+longitude: 44.852009
 ---
 
 Travel Guide

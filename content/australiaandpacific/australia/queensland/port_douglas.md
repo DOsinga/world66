@@ -1,6 +1,8 @@
 ---
 title: "Port Douglas"
 type: location
+latitude: -16.484598
+longitude: 145.463629
 ---
 
 Travel Guide

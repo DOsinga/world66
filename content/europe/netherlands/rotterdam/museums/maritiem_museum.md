@@ -6,6 +6,8 @@ email: "info@maritiemmuseum.nl"
 opening_hours: "10.00-17.00, su 11.00-17.00. mo closed"
 phone: "31 10 413 26 80"
 url: "www.maritiemmuseum.nl"
+latitude: 51.917627
+longitude: 4.481887
 ---
 
 Rotterdam is a real maritime town, with one of the worlds biggest harbours and the river Rhine flowing through the heart of the city.

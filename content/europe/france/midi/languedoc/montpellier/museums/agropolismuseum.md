@@ -1,9 +1,12 @@
 ---
 title: "AGROPOLIS MUSEUM"
 type: poi
+latitude: 43.646294
+longitude: 3.867941
 ---
 
-It is the cultural way of expression of Agropolis' scientific community. It presents the History and  Future of Food in the world. 
+It is the cultural way of expression of Agropolis' scientific community. It presents the History and 
+ Future of Food in the world. 
 
 Location : 951, avenue d'Agropolis 
 

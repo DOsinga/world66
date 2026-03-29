@@ -1,6 +1,8 @@
 ---
 title: "Sand Springs"
 type: location
+latitude: 36.139434
+longitude: -96.110002
 ---
 
 Travel Guide

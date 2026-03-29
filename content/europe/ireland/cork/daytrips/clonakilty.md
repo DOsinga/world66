@@ -1,6 +1,8 @@
 ---
 title: "Clonakilty"
 type: poi
+latitude: 51.623216
+longitude: -8.891407
 ---
 
 The real gateway to West Cork, 30 miles from Cork city. 

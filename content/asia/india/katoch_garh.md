@@ -1,6 +1,8 @@
 ---
 title: "katoch garh"
 type: location
+latitude: 31.828577
+longitude: 76.51212
 ---
 
 By Katoch B Mr 
@@ -33,4 +35,12 @@ To travel in and around this area: ** ****TOYOTAQUALIS , ****sumo , cartaxi.** *
 
 www.katoch.blogspot.com
 
-Recomended by Lonely Plannet and India The Rough Guide     adsonar_pid=3061; adsonar_ps=2187; adsonar_zw=120; adsonar_zh=600; adsonar_jv='ads.adsonar.com';
+Recomended by Lonely Plannet and India The Rough Guide 
+ 
+ 
+ 
+ adsonar_pid=3061;
+ adsonar_ps=2187;
+ adsonar_zw=120;
+ adsonar_zh=600;
+ adsonar_jv='ads.adsonar.com';

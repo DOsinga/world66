@@ -1,6 +1,8 @@
 ---
 title: "Tropea"
 type: location
+latitude: 38.675267
+longitude: 15.894851
 ---
 
 Wonderful place in Calabria. Great sandy beaches, old town, steep

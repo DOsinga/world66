@@ -1,6 +1,8 @@
 ---
 title: "Things to do"
 type: location
+latitude: 43.647892
+longitude: -79.384206
 ---
 
 Tours and outdoor adventures galore! Just a matter of getting to Jasper to try some of them.
@@ -21,7 +23,10 @@ Hosting over 200 tour buses (over 10,000 clients) each and every year. Our prese
 
 **Jasper Travel . **
 
-Travel and tour planning in Jasper and the surrounding National Parks. Booking of accommodations, activities such as hiking, biking, canoeing, rafting, cruises, and sightseing in the Rocky Mountains.  Tel: 1 780 852-4400 Fax: 1 780 852-3030 Toll Free: 1-800-672-1127  Address: Box 320 Jasper [more..](/northamerica/canada/alberta/jasper/outdoors/jaspertravel)
+Travel and tour planning in Jasper and the surrounding National Parks. Booking of accommodations, activities such as hiking, biking, canoeing, rafting, cruises, and sightseing in the Rocky Mountains. 
+ Tel: 1 780 852-4400 Fax: 1 780 852-3030
+ Toll Free: 1-800-672-1127 
+ Address: Box 320 Jasper [more..](/northamerica/canada/alberta/jasper/outdoors/jaspertravel)
 
 **Moon Shadow Adventures . **
 
@@ -45,11 +50,16 @@ Moderate activities, soft adventure and backcountry excursions are combined with
 
 **Maligne Lake Guided Fishing . **
 
-Fishermen are given a crack at the trout for which Maligne Lake is renowned on outings aboard 7 m (16 ft) freight canoes with electric trolling motors. Half- and full-day (includes campfire shore lunch) $110-$195, GST included.  Tel: 1 780 852-3370 Fax: 1 780 962-9150  Address: Reservations: 62 [more..](/northamerica/canada/alberta/jasper/outdoors/malignelakeguidedfishing)
+Fishermen are given a crack at the trout for which Maligne Lake is renowned on outings aboard 7 m (16 ft) freight canoes with electric trolling motors. Half- and full-day (includes campfire shore lunch) $110-$195, GST included. 
+ Tel: 1 780 852-3370 Fax: 1 780 962-9150 
+ Address: Reservations: 62 [more..](/northamerica/canada/alberta/jasper/outdoors/malignelakeguidedfishing)
 
 **Tightwad Tours**
 
-The source for budget ski accommodations and ski packages in Whistler, Banff, Lake Louise, Jasper and Mont Tremblant  Tel: 403-762-6700 Fax: 403-762-6750 Toll Free: 1-888-401-6802 (North America)  Address: PO Box 1140 Banff Alberta T0L 0C0 
+The source for budget ski accommodations and ski packages in Whistler, Banff, Lake Louise, Jasper and Mont Tremblant 
+ Tel: 403-762-6700 Fax: 403-762-6750
+ Toll Free: 1-888-401-6802 (North America) 
+ Address: PO Box 1140 Banff Alberta T0L 0C0 
 
 **Brewster . **
 

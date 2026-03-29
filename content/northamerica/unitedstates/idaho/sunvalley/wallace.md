@@ -1,6 +1,8 @@
 ---
 title: "Wallace"
 type: location
+latitude: 38.907385
+longitude: -101.75651
 ---
 
 We currently have no information about Wallace.

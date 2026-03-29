@@ -1,6 +1,8 @@
 ---
 title: "Korenica"
 type: location
+latitude: 44.743857
+longitude: 15.706562
 ---
 
 Travel Guide

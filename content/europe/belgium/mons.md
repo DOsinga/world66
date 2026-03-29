@@ -1,6 +1,8 @@
 ---
 title: "Mons"
 type: location
+latitude: 50.454957
+longitude: 3.951958
 ---
 
 Travel Guide

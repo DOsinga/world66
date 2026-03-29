@@ -2,6 +2,8 @@
 title: "Lighthouse"
 type: poi
 type: "Local"
+latitude: 11.34219
+longitude: 124.109763
 ---
 
 This place has

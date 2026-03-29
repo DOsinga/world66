@@ -6,6 +6,8 @@ email: "thewhitehallhotel@milestoneinternet.com"
 phone: "312-944-6300"
 type: "Bed and Breakfast"
 url: "www.thewhitehallhotel.com"
+latitude: 41.898933
+longitude: -87.625716
 ---
 
 The Whitehall Hotel is a luxury boutique lodging in downtown Chicago. The Whitehall Hotel is a chic,

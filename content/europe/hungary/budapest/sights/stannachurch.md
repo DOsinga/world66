@@ -1,9 +1,12 @@
 ---
 title: "St. Anna Church"
 type: poi
+latitude: 47.526649
+longitude: 21.629744
 ---
 
-The Church of St. Anna is a fine example of a Baroque church. Its well-proportioned exterior is a good match with the interior, containing some good statues of the Virgin Mary, St. Anne, and various angels, as well as a beautiful oval domed ceiling fresco by Pál Molnar. 
+The Church of St. Anna is a fine example of a Baroque church. Its well-proportioned exterior is a good match with the interior, containing some good statues of the Virgin Mary, St. Anne, and various angels, as well as a beautiful oval domed ceiling fresco by Pál Molnar.
+ 
 
 address: Battyhány tér 8
 

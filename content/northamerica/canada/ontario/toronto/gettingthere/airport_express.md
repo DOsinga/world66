@@ -3,6 +3,8 @@ title: "Airport Express"
 type: poi
 type: "By Road"
 url: "www.torontoairportexpress.com"
+latitude: 45.343333
+longitude: -75.667154
 ---
 
 Each day, thousands of visitors arriving at Toronto’s Lester B. Pearson International Airport take advantage of Pacific Western's Airport Express to downtown Toronto.

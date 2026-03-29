@@ -1,6 +1,8 @@
 ---
 title: "Innsbruck"
 type: location
+latitude: 47.26543
+longitude: 11.392769
 ---
 
 Innsbruck is the capital of Tirol and - contrary to some expectations - it is not only an alpine ski village; it's a bustling city of over one hundred thousand inhabitants. Nonetheless, it attracts more North American winter visitors than any other European ski destination. Undoubtedly, some are drawn by the renown created by two modern Winter Olympics in 1964 and 1976, which is perpetuated in the form of a very efficient infrastructure for winter sports fans. 

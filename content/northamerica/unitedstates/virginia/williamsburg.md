@@ -1,6 +1,8 @@
 ---
 title: "Williamsburg"
 type: location
+latitude: 37.270879
+longitude: -76.707404
 ---
 
 We currently have no information about Williamsburg.

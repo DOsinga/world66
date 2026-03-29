@@ -6,6 +6,8 @@ email: "kanpurflower@gmail.com"
 phone: "9230765100"
 type: "Speciality shops"
 url: "www.kanpurflowershop.com"
+latitude: 43.249966
+longitude: -77.483937
 ---
 
 Flowers to flow your heartfelt passions, fabulous and yummy foodstuffs, candid and cool hampers, and above everything, a fun and frolicking shopping experience- that’s

@@ -1,6 +1,8 @@
 ---
 title: "Languedoc"
 type: location
+latitude: 43.654203
+longitude: 3.67467
 ---
 
 The Occitans speak thier own language and some even propagate independence from "Paris". To a foreigner however, this region may seem quintessential French. The peaceful little villages near the high mountains, impressive old cities, the good food and the joie de vivre are all so "French".

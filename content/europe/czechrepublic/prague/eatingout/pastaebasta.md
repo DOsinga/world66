@@ -3,6 +3,8 @@ title: "PASTA E BASTA"
 type: poi
 address: "Senovazne namesti 21, Praha 1"
 phone: "+42 (0)02 2210 5518"
+latitude: 50.08567
+longitude: 14.432265
 ---
 
 Daily. 11.00 - 23.00

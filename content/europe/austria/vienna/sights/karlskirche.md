@@ -3,6 +3,8 @@ title: "Karlskirche"
 type: poi
 address: "Karlsplatz"
 type: "Churches"
+latitude: 48.201553
+longitude: 16.369111
 ---
 
 Probably the most pompous church in the whole of Austria. The brilliant white Baroque church with it's two thin towers and green roof is certainly worth a visit. The interior is pleasantly light and covered in colourful fresco's. The church is dedicated to saint Carlo Borromeo and was built by Emperor Karl VI in the early 18th century.

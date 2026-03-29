@@ -1,6 +1,8 @@
 ---
 title: "Palm Coast"
 type: location
+latitude: 29.554143
+longitude: -81.220767
 ---
 
 Travel Guide

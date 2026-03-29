@@ -1,6 +1,8 @@
 ---
 title: "Bijapur"
 type: location
+latitude: 18.793568
+longitude: 80.815939
 ---
 
 Hi! This is just the beginning! Expect a lot of interesting stuff to be soon put up here for widening your horizons of knowledge. Keep coming back for ever more. 

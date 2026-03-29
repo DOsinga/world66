@@ -6,6 +6,8 @@ email: "wangz@dnalan.com"
 phone: "(08) 9409 4060"
 type: "Internet Cafe"
 url: "www.dnalan.com"
+latitude: -31.790943
+longitude: 115.820354
 ---
 
 Opposite Wanneroo Markets, in Wangara. Several high-end computers, internet access, gaming etc Formerly located on Hepburn Avenue.

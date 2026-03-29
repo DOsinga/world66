@@ -5,6 +5,8 @@ accessibility: "Admission is free"
 address: "3 Tsar Osvoboditel Blvd."
 opening_hours: "Daily 0730 - 1800"
 type: "Churches and Cathedrals"
+latitude: 42.695694
+longitude: 23.328935
 ---
 
 The Tsurkva Sveta Nikolai - "St Nicolai Mirlikiiski Russian Church", considered by many to be the prettiest church in Sofia. 'I had to agree.' We were only given a quick glimpse inside.

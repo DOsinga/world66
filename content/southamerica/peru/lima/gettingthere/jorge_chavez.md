@@ -1,6 +1,8 @@
 ---
 title: "Jorge Chavez"
 type: poi
+latitude: -6.941751
+longitude: -78.054977
 ---
 
 If coming from another country into Peru (even from most destinations inside the country), it is almost certain that you will be flying into Lima's Jorge Chavez airport, which has recently been given a substantial make-over. The new mezzanine floor has a number of shops and cafes, plus a small amount of similar facilities the other side of the departure gates. 

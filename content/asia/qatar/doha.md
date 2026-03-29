@@ -1,6 +1,8 @@
 ---
 title: "Doha"
 type: location
+latitude: 25.310881
+longitude: 51.508181
 ---
 
 **Doha **means 'the big tree; in Arabic. It is not quite clear why. Located on the eastern side of the main peninsula Doha ( is the capital of Qatar and the only really large city in the country. Almost 80% of all Qatari's live there. So it is not suprising that Doha is where it all happens in Qatar. 

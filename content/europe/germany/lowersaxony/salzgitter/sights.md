@@ -3,6 +3,8 @@ title: "Sights in Salzgitter"
 type: section
 address: "38228 Salzgitter-Lichtenberg"
 type: "Castles"
+latitude: 52.147671
+longitude: 10.277228
 ---
 
 Here are a few interesting sights in Salzgitter.

@@ -1,6 +1,8 @@
 ---
 title: "Paracas"
 type: location
+latitude: -13.835043
+longitude: -76.249622
 ---
 
 There is really not much to do in Paracas except for hopping on a boat to visit the Islas Ballestas or the Reserva Nacional de Paracas. 

@@ -1,6 +1,8 @@
 ---
 title: "Limassol"
 type: location
+latitude: 34.68529
+longitude: 33.033266
 ---
 
 Limassol (Lemessos) is situated in the south of the island and it is Cyprus´ main industrial and maritime area and also the second biggest town of the country. Its population is about 135.000 and rises during holiday times because of the tourism. Most of the tourists only pass by on their way to the more historic sites like Akrotiri or the Troodos mountains, but there is actually a lot to see in Limassol besides a busy industrial centre.

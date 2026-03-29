@@ -1,6 +1,8 @@
 ---
 title: "Vegetarian"
 type: poi
+latitude: 25.694423
+longitude: 32.639491
 ---
 
 **Restaurants**

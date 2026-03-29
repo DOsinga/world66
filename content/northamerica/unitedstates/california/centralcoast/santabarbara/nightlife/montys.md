@@ -5,6 +5,8 @@ address: "5114 Hollister Ave"
 phone: "(805) 683-1003"
 type: "Lounges"
 zipcode: "Santa Barbara, CA 93111"
+latitude: 34.435502
+longitude: -119.802892
 ---
 
 type: Lounges

@@ -1,6 +1,8 @@
 ---
 title: "Azad Kashmir"
 type: location
+latitude: 33.84412
+longitude: 73.796642
 ---
 
 Kashmir is a very beautiful place to visit. Muzaffarabad is the capital of Azad Kashmir. Natural sceneries are the main things to watch. Kashmir has been known as paradise on earth, even Michael Palin who has travelled across the world, was stunned is has said Kashmir is the most enchanting beautiful place on earth. Its really a beautiful gift from God to us. Mirpur is a second big and major city of Azad Kashmir. Mangla Fort is situated beside Mirpur. Mangla Fort is also very historical and beautiful place to visit.

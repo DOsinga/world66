@@ -1,6 +1,8 @@
 ---
 title: "BIJAR"
 type: location
+latitude: 35.872107
+longitude: 47.600064
 ---
 
 Travel Guide

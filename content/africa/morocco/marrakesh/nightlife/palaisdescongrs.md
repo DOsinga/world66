@@ -3,6 +3,8 @@ title: "Palais des Congrès"
 type: poi
 address: "Avenue de France"
 type: "Discos & Clubs"
+latitude: 48.830334
+longitude: 2.377053
 ---
 
 Several bars and discotheques in one. But be prepared to pay the same as you would in France.

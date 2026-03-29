@@ -1,6 +1,8 @@
 ---
 title: "Rahimyar Khan"
 type: location
+latitude: 28.417607
+longitude: 70.303651
 ---
 
 Travel Guide

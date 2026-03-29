@@ -1,6 +1,8 @@
 ---
 title: "Keelung"
 type: location
+latitude: 25.131723
+longitude: 121.744652
 ---
 
 We currently have no information about Keelung.

@@ -1,6 +1,8 @@
 ---
 title: "Shirak Marz"
 type: location
+latitude: 40.829435
+longitude: 43.827601
 ---
 
 Travel Guide

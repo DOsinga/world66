@@ -1,6 +1,8 @@
 ---
 title: "Bird island"
 type: location
+latitude: -3.718812
+longitude: 55.206296
 ---
 
 We currently have no information about Bird island.

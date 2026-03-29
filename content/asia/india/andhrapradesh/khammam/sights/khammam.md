@@ -5,6 +5,8 @@ address: "Ramesh"
 email: "ever4your@yahoo.co.in"
 type: "Landmarks"
 url: "www.ever4your.zoomshare.com"
+latitude: 26.782486
+longitude: 59.10374
 ---
 
 **please visit**

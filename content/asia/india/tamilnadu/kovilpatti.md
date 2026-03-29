@@ -1,6 +1,8 @@
 ---
 title: "Kovilpatti"
 type: location
+latitude: 9.17559
+longitude: 77.8687
 ---
 
 Wonderfull place to visit and enjoy

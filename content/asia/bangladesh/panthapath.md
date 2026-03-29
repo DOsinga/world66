@@ -1,6 +1,8 @@
 ---
 title: "Panthapath"
 type: location
+latitude: 23.750194
+longitude: 90.390679
 ---
 
 Travel Guide

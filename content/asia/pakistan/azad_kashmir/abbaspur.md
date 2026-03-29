@@ -1,6 +1,8 @@
 ---
 title: "Abbaspur"
 type: location
+latitude: 30.612653
+longitude: 72.888369
 ---
 
 Travel Guide

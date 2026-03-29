@@ -1,6 +1,8 @@
 ---
 title: "Rayagada"
 type: location
+latitude: 19.44267
+longitude: 83.587305
 ---
 
 Travel Guide

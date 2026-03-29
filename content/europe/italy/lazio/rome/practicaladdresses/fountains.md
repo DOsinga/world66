@@ -2,6 +2,8 @@
 title: "Fountains"
 type: poi
 type: "Tourist information"
+latitude: 41.901969
+longitude: 12.490741
 ---
 
 The water that is continually flowing out of those little fountains

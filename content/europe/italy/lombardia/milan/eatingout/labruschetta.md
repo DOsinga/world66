@@ -3,6 +3,8 @@ title: "La Bruschetta"
 type: poi
 address: "Piazza Beccaria 12"
 type: "Italian"
+latitude: 45.821616
+longitude: 8.825423
 ---
 
 La Bruschetta is one of the best and most popular pizzerias in the center. If you have information about La Bruschetta's menu or food choices, tell our readers about it by adding/editing this page.

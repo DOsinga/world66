@@ -1,6 +1,8 @@
 ---
 title: "Fairmont"
 type: location
+latitude: 39.484898
+longitude: -80.142654
 ---
 
 Travel Guide

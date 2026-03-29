@@ -4,6 +4,8 @@ type: section
 address: "Queen Street"
 type: "Shopping centers and malls"
 url: "www.oxfordcity.co.uk"
+latitude: -27.466902
+longitude: 153.028785
 ---
 
 During your Oxford vacation, you may want to take a break from touring all of the historic sites, museums, and gardens and explore Oxford's shopping scene. Head to Oxford city centre where you will find stores like GAP, Lush, Virgin stores, Miss Selfridge, WHSmith, and lots more. If you're on a budget, you might want to try going to Primark at 27 Westgate, they sell super affordable clothes. Check out the listings to find out about more places to shop in Oxford.

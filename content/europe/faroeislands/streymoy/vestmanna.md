@@ -1,6 +1,8 @@
 ---
 title: "Vestmanna"
 type: location
+latitude: 62.155192
+longitude: -7.174975
 ---
 
 Travel Guide

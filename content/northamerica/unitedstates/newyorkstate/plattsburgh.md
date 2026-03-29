@@ -1,6 +1,8 @@
 ---
 title: "Plattsburgh"
 type: location
+latitude: 44.696086
+longitude: -73.454291
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Trattoria Romana"
 type: poi
 address: "Tavastgatan 9, Turku"
 type: "Italian"
+latitude: 60.451769
+longitude: 22.281366
 ---
 
 A small Italian restaurant, with excellent food and generous portions. Don't miss it!

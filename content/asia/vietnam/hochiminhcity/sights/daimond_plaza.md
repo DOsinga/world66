@@ -5,6 +5,8 @@ address: "34 Le Duan St., Ho Chi Minh City, Vietnam"
 opening_hours: "10:00am - 9:00pm"
 phone: "08/822-7897"
 type: "Hotspots"
+latitude: 11.059565
+longitude: 106.684622
 ---
 
 Department Store, District 1

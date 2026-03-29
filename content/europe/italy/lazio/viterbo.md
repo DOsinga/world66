@@ -1,12 +1,21 @@
 ---
 title: "Viterbo"
 type: location
+latitude: 42.492952
+longitude: 11.948814
 ---
 
 The ancient city of Viterbo is located about a 100 km northwest of Rome, between the lakes of Bolsano and Vico. Historically, Viterbo was the administrative and economic capital of Upper Latium once even seat of the papacy. The town contains some interesting monuments and museums such as the Museo Civico, the Museo Nazionale Archeologico and the Museo della Ceramica Medievale e Rinascimentale.
 
-  Although heavy Allied bombing shattered Viterbo's old city walls, the medieval character of the town is almost perfectly preserved in the San Pellegrino quarter in the centre. This medieval identity is perhaps epitomised by the gothic Palazzo degli Alessandri built in the first half of the 13th century. The 11th-century San Pellegrino church stands in the small square of the same name. In the mediaeval quarter is the Ospedale dei Pellegrini founded in 1150-1200 by a married couple, Guidone and Diletta, and donated to the town clergy as a hospice for pilgrims.
 
-  By far the most interesting and magnificent building in the mediaeval centre is beyond doubt the Papal Palace. The building itself and the wealth of artistic treasures within attest to the great historical significance of Viterbo. Completed in 1266, the Palace was ready to receive the Papal court when it decided to flee the turbulence of Rome. No less than five conclaves were held in the rooms of this fortress-residence, including a conclave that lasted 33 months before it elected the new pope, Gregory X, in 1271.
+ 
+ Although heavy Allied bombing shattered Viterbo's old city walls, the medieval character of the town is almost perfectly preserved in the San Pellegrino quarter in the centre. This medieval identity is perhaps epitomised by the gothic Palazzo degli Alessandri built in the first half of the 13th century. The 11th-century San Pellegrino church stands in the small square of the same name. In the mediaeval quarter is the Ospedale dei Pellegrini founded in 1150-1200 by a married couple, Guidone and Diletta, and donated to the town clergy as a hospice for pilgrims.
 
-  Viterbo has other important monumental buildings such as the Rocca Albornoz, a fortress that now contains the national museum; the Church of St Maria della Verità and, next door, the City Museum. The Churches of San Andrea (Saint Andrew’s) and Maria in Gradi (St Mary’s) are both buildings of architectural and historical merit. Viterbo also has numerous lovely fountains, chief amongst which is the Fontana Grande located in the Piazza of the same name. Upon the Via Cassia stand the remains of an ancient bridge called the Camillario, as well as the imposing ruins of the baths. The bridge is composed of a single wide arch formed by large blocks mounted upon one another without the use of mortar. The sheer size of the bridge is indicative of the former importance of the Via Cassia. The original bridge was built sometime in first century BC and a later one was built on the same site in the late Middle Ages.
+
+ 
+ By far the most interesting and magnificent building in the mediaeval centre is beyond doubt the Papal Palace. The building itself and the wealth of artistic treasures within attest to the great historical significance of Viterbo. Completed in 1266, the Palace was ready to receive the Papal court when it decided to flee the turbulence of Rome. No less than five conclaves were held in the rooms of this fortress-residence, including a conclave that lasted 33 months before it elected the new pope, Gregory X, in 1271.
+
+
+ 
+ Viterbo has other important monumental buildings such as the Rocca Albornoz, a fortress that now contains the national museum; the Church of St Maria della Verità and, next door, the City Museum. The Churches of San Andrea (Saint Andrew’s) and Maria in Gradi (St Mary’s)
+ are both buildings of architectural and historical merit. Viterbo also has numerous lovely fountains, chief amongst which is the Fontana Grande located in the Piazza of the same name. Upon the Via Cassia stand the remains of an ancient bridge called the Camillario, as well as the imposing ruins of the baths. The bridge is composed of a single wide arch formed by large blocks mounted upon one another without the use of mortar. The sheer size of the bridge is indicative of the former importance of the Via Cassia. The original bridge was built sometime in first century BC and a later one was built on the same site in the late Middle Ages.

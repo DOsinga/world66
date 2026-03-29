@@ -1,6 +1,8 @@
 ---
 title: "Orumiyeh"
 type: location
+latitude: 37.548341
+longitude: 45.066711
 ---
 
 Travel Guide

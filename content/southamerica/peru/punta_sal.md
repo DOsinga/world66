@@ -1,6 +1,8 @@
 ---
 title: "Punta sal"
 type: location
+latitude: -3.979853
+longitude: -80.974422
 ---
 
 We currently have no information about Punta sal.

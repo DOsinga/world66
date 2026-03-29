@@ -1,6 +1,8 @@
 ---
 title: "Kellogg"
 type: location
+latitude: 41.717679
+longitude: -92.90735
 ---
 
 Travel Guide

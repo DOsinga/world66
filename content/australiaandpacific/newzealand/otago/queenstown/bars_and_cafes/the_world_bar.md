@@ -2,6 +2,8 @@
 title: "The World Bar"
 type: poi
 address: "27 Shotover street"
+latitude: -45.031029
+longitude: 168.659974
 ---
 
 Personally I think this is one of the nicest bars to relax in Queenstown. It´s not a real party bar like the Altitude Bar, but it´s a nice place to sit down with your friends and relax.

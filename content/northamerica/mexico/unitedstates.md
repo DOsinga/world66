@@ -1,6 +1,8 @@
 ---
 title: "United States"
 type: location
+latitude: 39.169763
+longitude: -91.882948
 ---
 
 The land of opportunity, that's the States and it's certainly true for traveling. The USA offers a unique combination of bigger than big cities with their fast paced life and great outdoor opportunities and lots of fun. 

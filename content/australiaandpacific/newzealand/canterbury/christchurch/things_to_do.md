@@ -2,6 +2,8 @@
 title: "Things to do"
 type: section
 type: "Skiing"
+latitude: -45.525137
+longitude: 168.372192
 ---
 
 Things to do

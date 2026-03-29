@@ -1,6 +1,8 @@
 ---
 title: "Arizona"
 type: location
+latitude: 34.395342
+longitude: -111.763275
 ---
 
 Arizona is located in the South West of the United States. It is a

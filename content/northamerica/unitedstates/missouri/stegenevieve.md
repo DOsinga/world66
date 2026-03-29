@@ -1,6 +1,8 @@
 ---
 title: "Ste. Genevieve"
 type: location
+latitude: 37.88958
+longitude: -90.185664
 ---
 
 Records indicate that Missouri's oldest community was founded as early as 1735. Ste. Genevieve's French immigrant architecture is nationally famous, especially the "vertical log" cabin construction. The town's French heritage is remembered in street and family names, in architecture, and in celebrations during the year 

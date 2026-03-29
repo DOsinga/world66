@@ -6,6 +6,8 @@ email: "labiferia@etb.net.com"
 phone: "345-6190"
 price: "Moderate"
 type: "International"
+latitude: 4.651702
+longitude: -74.055925
 ---
 
 Typical selection of various meats, etc. Rather mixed results here. Some found the food good, for others the beef was rather tough.

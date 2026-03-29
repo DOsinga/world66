@@ -1,6 +1,8 @@
 ---
 title: "Vasco"
 type: location
+latitude: 15.398416
+longitude: 73.812883
 ---
 
 Travel Guide

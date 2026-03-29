@@ -1,6 +1,8 @@
 ---
 title: "Tel Aviv"
 type: location
+latitude: 32.0853
+longitude: 34.781806
 ---
 
 Tel Aviv is the most modern and westernized place in Israel. Jerusalem is the official capital (although not internationally recognized as such) and the religiuos capital, Tel Aviv is the party capital (almost officialy recognized). When you walk the streets at night you can hardly imagine you are in the holy land.

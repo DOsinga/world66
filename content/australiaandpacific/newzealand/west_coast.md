@@ -1,6 +1,8 @@
 ---
 title: "West Coast"
 type: location
+latitude: -42.56389
+longitude: 171.452334
 ---
 
 The **West Coast** is *only* the *West Coast* of the

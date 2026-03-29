@@ -6,6 +6,8 @@ address: "3025 Walnut Street, Philadelphia, PA 19104"
 phone: "215.222.1400"
 type: "Concerts"
 url: "www.worldcafelive.com"
+latitude: 39.952161
+longitude: -75.185151
 ---
 
 Philadelphia is a classic of the East Coast mold: a decaying manufacturing powerhouse that re-invents itself as a cultural mecca.

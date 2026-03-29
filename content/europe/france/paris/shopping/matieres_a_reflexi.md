@@ -5,6 +5,8 @@ address: "19 rue de Poitou - 75003 Paris"
 phone: "+33 (0)1 42 72 16 31"
 type: "Speciality shops"
 url: "www.matieresareflexion.com"
+latitude: 48.861529
+longitude: 2.362836
 ---
 
 Matières à réflexion is a great shop in the **Haut Marais **area where the designer hand make bags from vintage leather jackets - for Women and Men. You can also bring in your OWN leather jacket and get your bag done from that old jacket of yours !

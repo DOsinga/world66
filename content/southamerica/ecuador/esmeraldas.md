@@ -1,6 +1,8 @@
 ---
 title: "Esmeraldas"
 type: location
+latitude: 0.734362
+longitude: -79.385887
 ---
 
 We currently have no information about Esmeraldas.

@@ -1,6 +1,8 @@
 ---
 title: "Sulmona"
 type: location
+latitude: 42.047423
+longitude: 13.927011
 ---
 
 This is further east than lÁquila and hence is a better location for exploring the National Park area.

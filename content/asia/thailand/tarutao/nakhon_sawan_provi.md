@@ -1,6 +1,8 @@
 ---
 title: "Nakhon sawan Province"
 type: location
+latitude: 15.705477
+longitude: 99.928848
 ---
 
 Travel Guide

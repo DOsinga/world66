@@ -4,6 +4,8 @@ type: poi
 address: "Langkawi"
 type: "Hotspots"
 url: "www.emmes.net"
+latitude: 6.370039
+longitude: 99.792863
 ---
 
 Entire Langkawi is built around the Legend of Mahsuri. The visit of this place is a must.

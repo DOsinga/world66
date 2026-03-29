@@ -1,6 +1,8 @@
 ---
 title: "Lake Burton"
 type: location
+latitude: 34.840301
+longitude: -83.557707
 ---
 
 Travel Guide

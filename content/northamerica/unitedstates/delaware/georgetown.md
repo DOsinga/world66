@@ -1,6 +1,8 @@
 ---
 title: "Georgetown"
 type: location
+latitude: 30.637015
+longitude: -97.677563
 ---
 
 On May 9, 1791, 10 state appointed commissioners headed by President of the State Senate George Mitchell negotiated the purchase of 76 acres in central Sussex County and Commissioner Rhodes Shankland began the survey by laying out "a spacious square of 100 yards each way." Eventually the Town was laid out in a circle one mile across, centered on the original square surveyed by Shankland and now listed on the National Register of Historic Places. 

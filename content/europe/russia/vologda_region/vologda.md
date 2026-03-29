@@ -1,6 +1,8 @@
 ---
 title: "Vologda"
 type: location
+latitude: 60.039146
+longitude: 43.121521
 ---
 
 Travel Guide

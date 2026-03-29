@@ -5,6 +5,8 @@ address: "Tverskaya, 16"
 closing_time: "24/7"
 phone: "+70952091848"
 type: "Clubs and dancing"
+latitude: 55.77297
+longitude: 37.591632
 ---
 
 The most popular club, which is located in center of Moscow. Every Wednesday Famouse Rnb party take place, be sure u'll have a great time!

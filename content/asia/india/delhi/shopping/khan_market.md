@@ -2,6 +2,8 @@
 title: "Khan Market"
 type: poi
 type: "Music"
+latitude: 28.599514
+longitude: 77.225978
 ---
 
 Khan Market is one of the more upmarket and expensive places to shop in Delhi. It is located in the city center, surrounded by residential complexes and the greenery of Lodhi Gardens.

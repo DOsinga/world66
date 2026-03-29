@@ -1,6 +1,8 @@
 ---
 title: "Laurel Highlands"
 type: location
+latitude: 39.103545
+longitude: -76.816842
 ---
 
 Travel Guide

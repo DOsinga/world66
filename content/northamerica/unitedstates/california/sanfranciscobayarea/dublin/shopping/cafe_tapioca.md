@@ -5,6 +5,8 @@ address: "7160 Regional St. Dublin, CA 94568"
 phone: "925-479-0968"
 type: "Shopping centers and malls"
 url: "www.cafetapioca.com"
+latitude: 37.70418
+longitude: -121.935177
 ---
 
 Cafe Tapioca is the best pearl tea/boba joint in the entire Tri-Valley! Family-owned and operated, Cafe Tapioca offers a very wide variety of pearl teas ranging from the popular Strawberry-Bannana to the unusually tasty Avacado Green Tea smoothie. Don't like tapioca? Enjoy a smoothie without the pearls. Or try some of Cafe Tapioca's tasty chicken.

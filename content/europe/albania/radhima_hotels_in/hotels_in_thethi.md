@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Thethi"
 type: location
+latitude: 42.395065
+longitude: 19.776465
 ---
 
 Travel Guide

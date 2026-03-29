@@ -1,6 +1,8 @@
 ---
 title: "Patan"
 type: location
+latitude: 23.773753
+longitude: 71.679858
 ---
 
 Travel Guide

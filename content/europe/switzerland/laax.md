@@ -1,6 +1,8 @@
 ---
 title: "Laax"
 type: location
+latitude: 46.806412
+longitude: 9.258127
 ---
 
 We currently have no information about Laax.

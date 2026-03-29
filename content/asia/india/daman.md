@@ -1,6 +1,8 @@
 ---
 title: "Daman"
 type: location
+latitude: 20.41697
+longitude: 72.833173
 ---
 
 Travel Guide

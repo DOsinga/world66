@@ -8,6 +8,8 @@ opening_hours: "9.30-12.30  14.00-17.00"
 phone: "289829525"
 type: "Graves and Cemeteries"
 url: "www.farojewishheritagecenre.org"
+latitude: 37.023905
+longitude: -7.928091
 ---
 
 Photo Gallery

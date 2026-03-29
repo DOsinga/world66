@@ -1,6 +1,8 @@
 ---
 title: "Bilasuvar"
 type: location
+latitude: 39.456128
+longitude: 48.546561
 ---
 
 Travel Guide

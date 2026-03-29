@@ -2,6 +2,8 @@
 title: "Sights"
 type: location
 type: "Hotspots"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 ***

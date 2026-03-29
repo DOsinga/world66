@@ -1,6 +1,8 @@
 ---
 title: "Bay of Kotor"
 type: location
+latitude: 42.454249
+longitude: 18.67203
 ---
 
 Travel Guide

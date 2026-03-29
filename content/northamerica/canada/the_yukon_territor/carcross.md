@@ -1,6 +1,8 @@
 ---
 title: "Carcross"
 type: location
+latitude: 60.166789
+longitude: -134.708665
 ---
 
 Travel Guide

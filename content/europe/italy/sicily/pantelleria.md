@@ -1,6 +1,8 @@
 ---
 title: "Pantelleria"
 type: location
+latitude: 36.831458
+longitude: 11.94504
 ---
 
 Travel Guide

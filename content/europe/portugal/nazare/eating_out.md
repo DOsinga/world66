@@ -4,6 +4,8 @@ type: section
 address: "rua 3 Setembro"
 phone: "00351262990091"
 type: "Portuguese"
+latitude: -2.522559
+longitude: -44.23924
 ---
 
 ### [O Remo](/europe/portugal/nazare/eatingout/o_remo)

@@ -5,6 +5,8 @@ address: "Iran-Tehran"
 email: "zahooastaeh@yahoo.com"
 phone: "+9124899332"
 url: "www.astaneh1.net"
+latitude: 35.689252
+longitude: 51.3896
 ---
 
 **Dear sir**

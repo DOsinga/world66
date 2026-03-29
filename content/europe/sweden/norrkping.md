@@ -1,6 +1,8 @@
 ---
 title: "Norrköping"
 type: location
+latitude: 58.590912
+longitude: 16.190351
 ---
 
 Travel Guide

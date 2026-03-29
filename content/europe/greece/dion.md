@@ -1,6 +1,8 @@
 ---
 title: "Dion"
 type: location
+latitude: 40.172173
+longitude: 22.487426
 ---
 
 We currently have no information about Dion.

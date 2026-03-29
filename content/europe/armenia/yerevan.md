@@ -1,6 +1,8 @@
 ---
 title: "Yerevan"
 type: location
+latitude: 40.177711
+longitude: 44.512623
 ---
 
 Yerevan is the capital of Armenia. It is a very old city, but it has been scarred quite a bit by history. You will still find it the best place to start exploring Armenia, and there are many museums and parks in town. With Yerevan as your base you can easily visit [Echmiadzin](/europe/armenia/echmiadzin), the Holy See of the Armenian Church, the Hellenistic temple of [Garni](/europe/armenia/garni) and [Geghard](/europe/armenia/geghard) monastery on daytrips. 

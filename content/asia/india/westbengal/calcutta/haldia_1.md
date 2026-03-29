@@ -1,6 +1,8 @@
 ---
 title: "Haldia"
 type: location
+latitude: 22.028124
+longitude: 88.063265
 ---
 
 Travel Guide

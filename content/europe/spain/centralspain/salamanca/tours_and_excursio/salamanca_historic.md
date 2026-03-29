@@ -5,6 +5,8 @@ address: "Salamanca"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 40.965157
+longitude: -5.664018
 ---
 
 Half day tour of the old quarter of Salamanca with an expert Private English-Speaking Local Guide. The city of Salamanca is a true museum of architecture, and there are examples of constructions from all the different eras and in all the different styles. The buildings of Salamanca were constructed using stone from the nearby Villamayor quarry. It was as soft as sandstone, and during the 16C was finely worked to produce the marvellous filigree work of an art that became known as Plateresque. It is a stone that is composed of iron ore which hardens and rusts in contact with the air. Consequently, with the passing of time it takes on the beautiful golden colour which has always been associated with the city. 

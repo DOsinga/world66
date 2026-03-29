@@ -7,6 +7,8 @@ email: "info@oniricodeco.com.ar"
 phone: "011 48579291"
 type: "Antiques"
 url: "www.oniricodeco.com.ar"
+latitude: -34.586847
+longitude: -58.445363
 ---
 
 Decoration, Desing, & Antiques. An Ecletyc Style.

@@ -1,6 +1,8 @@
 ---
 title: "Wajir"
 type: location
+latitude: 1.93944
+longitude: 40.024736
 ---
 
 Travel Guide

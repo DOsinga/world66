@@ -1,6 +1,8 @@
 ---
 title: "Singapore"
 type: location
+latitude: 1.357107
+longitude: 103.819499
 ---
 
 Singapore is an island city located at the tip of Peninsula Malaysia. It is well-known for being one of the richest, most well organized countries in the world. Singapore is an island with "1000 shopping malls" or so they say. Despite the hot climate, it is a tropical paradise for most tourists. This great diversity of lifestyles, cultures and religions thrives within the framework of a regulated society. Singapore's "FINE" city reputation is well-earned, and in fact, many will admire at once the clean, modern metropolis. Surrounded by artificially 'ordered' parks, its tall housing projects are populated by almost 4 million people - whose smiling native charms often belie underlying tensions of the way the island is progressing after 30 years of development. 

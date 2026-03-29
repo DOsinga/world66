@@ -5,6 +5,8 @@ address: "513 State St"
 phone: "(805) 962-2688"
 type: "Lounges"
 zipcode: "Santa Barbara, CA 93101"
+latitude: 43.07473
+longitude: -89.394126
 ---
 
 type: Lounges

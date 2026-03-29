@@ -1,6 +1,8 @@
 ---
 title: "Zhuhai"
 type: location
+latitude: 22.273734
+longitude: 113.572133
 ---
 
 Travel Guide

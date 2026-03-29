@@ -1,6 +1,8 @@
 ---
 title: "Rameshwaram"
 type: location
+latitude: 9.284466
+longitude: 79.312555
 ---
 
 **Rameshwaram**

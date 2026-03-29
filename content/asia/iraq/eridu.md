@@ -1,6 +1,8 @@
 ---
 title: "Eridu"
 type: location
+latitude: 30.825865
+longitude: 45.994869
 ---
 
 We currently have no information about Eridu.

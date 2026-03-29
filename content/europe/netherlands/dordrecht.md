@@ -1,6 +1,8 @@
 ---
 title: "Dordrecht"
 type: location
+latitude: 51.768955
+longitude: 4.686789
 ---
 
 Dordrecht is one of the oldest citys in Holland.

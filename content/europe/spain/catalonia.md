@@ -1,6 +1,8 @@
 ---
 title: "Catalonia"
 type: location
+latitude: 41.852309
+longitude: 1.574504
 ---
 
 Catalonia is situated under the French border and is a very prosperous region. In the north you find the Pyrenees which end in the famous white coastline of the Costa Brava. 

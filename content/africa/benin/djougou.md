@@ -1,6 +1,8 @@
 ---
 title: "Djougou"
 type: location
+latitude: 9.710668
+longitude: 1.665161
 ---
 
 Travel Guide

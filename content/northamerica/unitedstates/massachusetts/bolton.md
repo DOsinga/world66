@@ -1,6 +1,8 @@
 ---
 title: "Bolton"
 type: location
+latitude: 42.434234
+longitude: -71.609774
 ---
 
 Travel Guide

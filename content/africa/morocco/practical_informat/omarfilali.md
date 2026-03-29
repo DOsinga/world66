@@ -3,6 +3,8 @@ title: "Press"
 type: poi
 type: "Embassies and Consulates"
 url: "www.moroccotimes.com"
+latitude: 34.016156
+longitude: -6.834081
 ---
 
 **[Morocco Times](/africa/morocco/practical_informat)**

@@ -1,6 +1,8 @@
 ---
 title: "Sandvig-Allinge"
 type: location
+latitude: 55.283008
+longitude: 14.791535
 ---
 
 Travel Guide

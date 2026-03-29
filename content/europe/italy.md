@@ -1,6 +1,8 @@
 ---
 title: "Italy"
 type: location
+latitude: 42.638426
+longitude: 12.674297
 ---
 
 Italy is one of those countries to which you probably have already quite a number of preconceptions even before you have put one foot into the country. Country of olive oil and pasta, wine and sunshine, roman ruins and renaissance palaces. 

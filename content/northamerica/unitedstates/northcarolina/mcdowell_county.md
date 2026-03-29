@@ -1,6 +1,8 @@
 ---
 title: "McDowell County"
 type: location
+latitude: 35.660887
+longitude: -82.048217
 ---
 
 Travel Guide

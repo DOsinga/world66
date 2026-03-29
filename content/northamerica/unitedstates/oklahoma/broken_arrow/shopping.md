@@ -4,6 +4,8 @@ type: section
 address: "6227 S, 115th E. Ave"
 phone: "(918) 252-7113"
 type: "Antiques"
+latitude: 39.904982
+longitude: -104.926708
 ---
 
 Persimmon Hollow Antique Village is one of the unique places that can be found only in Broken Arrow, Oklahoma.

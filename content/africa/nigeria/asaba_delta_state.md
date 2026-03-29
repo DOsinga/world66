@@ -1,6 +1,8 @@
 ---
 title: "Asaba, Delta State"
 type: location
+latitude: 6.185882
+longitude: 6.729707
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Caltabellotta"
 type: location
+latitude: 37.577341
+longitude: 13.216548
 ---
 
 Travel Guide

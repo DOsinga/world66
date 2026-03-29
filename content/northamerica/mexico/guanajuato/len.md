@@ -1,6 +1,8 @@
 ---
 title: "León"
 type: location
+latitude: 21.121965
+longitude: -101.682977
 ---
 
 Travel Guide

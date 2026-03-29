@@ -6,6 +6,8 @@ email: "info@bamontesrestaurant.com"
 phone: "718.384.8831/718.384.9634"
 type: "Italian"
 url: "www.bamontesrestaurant.com"
+latitude: 40.716446
+longitude: -73.951194
 ---
 
 Brooklyn is rapidly stealing some of the culinary spotlight from Manhattan. Brooklyn is an ethnically diverse borough and this is reflected in the many different cuisines available. If you have the time, and it only takes 10 minutes from Union Square, pop over to Williamsburg and sample a little old-school Italian; extremely cheap yet tasty Thai at Sea; or yummy French fare at Fada. If you are up for a longer train ride (30-50 minutes) visit Carroll Gardens, Park Slope or Red Hook. There are so many great places to visit and enjoy.

@@ -1,6 +1,8 @@
 ---
 title: "Otopeni"
 type: location
+latitude: 44.550794
+longitude: 26.072927
 ---
 
 Travel Guide

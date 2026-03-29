@@ -1,6 +1,8 @@
 ---
 title: "Karlovy vary"
 type: location
+latitude: 50.230622
+longitude: 12.870144
 ---
 
 Karlovy Vary, or Carlsbad as it was formerly known, is an important Spa. The town boomed in the 19th century and many of the attractions date from that period. So even if you are not interested in thermal baths, the town is absolutely worth a visit.

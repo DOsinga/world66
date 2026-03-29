@@ -1,6 +1,8 @@
 ---
 title: "Hamilton"
 type: location
+latitude: -37.787881
+longitude: 175.281788
 ---
 
 **Hamilton** 

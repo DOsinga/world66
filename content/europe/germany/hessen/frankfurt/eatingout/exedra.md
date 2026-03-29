@@ -7,6 +7,8 @@ phone: "+49 (0)69 28 73 97"
 price: "Euro 14"
 type: "Greek"
 url: "www.selected-restaurants.com"
+latitude: 50.11553
+longitude: 8.689092
 ---
 
 **Neo-Greco**

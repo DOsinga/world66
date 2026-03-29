@@ -1,6 +1,8 @@
 ---
 title: "Modena"
 type: location
+latitude: 44.538473
+longitude: 10.935961
 ---
 
 Travel Guide

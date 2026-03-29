@@ -6,6 +6,8 @@ opening_hours: "Daily, 9:30 am–6:00 pm. Last admission is at 5:30 pm"
 phone: "305-361-5705"
 type: "Hotspots"
 url: "www.miamiseaquarium.com"
+latitude: 25.732999
+longitude: -80.16556
 ---
 
 See sharks and dolphins, sea lions and seals. Learn about manatees and

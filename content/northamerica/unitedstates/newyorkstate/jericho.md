@@ -1,6 +1,8 @@
 ---
 title: "Jericho"
 type: location
+latitude: 40.78743
+longitude: -73.543461
 ---
 
 Travel Guide

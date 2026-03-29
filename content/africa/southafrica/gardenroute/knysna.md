@@ -1,6 +1,8 @@
 ---
 title: "Knysna"
 type: location
+latitude: -34.035734
+longitude: 23.048485
 ---
 
 Knysa and its lagoons are one of the most popular stops on the Garden Route. The lagoon is guarded by two sandstone cliffs known as The Heads. There are spectacular views from the Eastern Head.

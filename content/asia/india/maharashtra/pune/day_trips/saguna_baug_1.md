@@ -2,6 +2,8 @@
 title: "Saguna Baug"
 type: poi
 url: "sagunabaug.com"
+latitude: 19.041241
+longitude: 73.324123
 ---
 
 Saguna Baug is a dream becoming reality, dream of a Gandhian freedom fighter, popularly known as Harikaka Bhadsavle, being developed by his son. The dream envisage in late 60’s was to set up a strong farming outfit, which will effectively support the family of this social worker and thus will set an example for those who are running away from farming profession. The son, Shekhar, returned in 1976 from U.S.A. to follow up the goal.

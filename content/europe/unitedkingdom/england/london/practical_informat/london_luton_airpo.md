@@ -2,6 +2,8 @@
 title: "London Luton Airport"
 type: poi
 type: "Airport"
+latitude: 51.878102
+longitude: -0.366426
 ---
 
 London Luton Airport (IATA: LTN, ICAO: EGGW) (previously called Luton

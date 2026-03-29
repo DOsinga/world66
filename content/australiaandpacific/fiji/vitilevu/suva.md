@@ -1,6 +1,8 @@
 ---
 title: "Suva"
 type: location
+latitude: -18.141588
+longitude: 178.442166
 ---
 
 Travel Guide

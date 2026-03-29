@@ -1,6 +1,8 @@
 ---
 title: "AIRPORT LJUBLJANA"
 type: location
+latitude: 46.222475
+longitude: 14.463829
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Playa Blanca"
 type: poi
+latitude: 11.218704
+longitude: -74.238209
 ---
 
 Soft, white sands, cristal clear waters, and fresh sea-food served to you right on the beach.

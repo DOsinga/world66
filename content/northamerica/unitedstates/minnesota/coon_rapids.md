@@ -1,6 +1,8 @@
 ---
 title: "Coon Rapids"
 type: location
+latitude: 45.172892
+longitude: -93.30239
 ---
 
 Travel Guide

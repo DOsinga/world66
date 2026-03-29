@@ -1,6 +1,8 @@
 ---
 title: "Vila do conde"
 type: location
+latitude: 41.35404
+longitude: -8.74354
 ---
 
 Vila do conde (74 057 inhabitants) has an area of 149,1 km2 and is one of the 18 municipalities in the Porto dostrict.

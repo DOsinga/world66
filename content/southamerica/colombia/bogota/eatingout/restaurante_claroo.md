@@ -7,6 +7,8 @@ email: "rclarooscuro@hotmail.com"
 phone: "249-0940"
 price: "Moderate"
 type: "International"
+latitude: 4.681796
+longitude: -74.094425
 ---
 
 Cozy restaurant in the Zona G. Very good selection - something for everyone.

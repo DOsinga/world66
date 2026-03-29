@@ -1,6 +1,8 @@
 ---
 title: "Parana"
 type: location
+latitude: -31.733014
+longitude: -60.529851
 ---
 
 .

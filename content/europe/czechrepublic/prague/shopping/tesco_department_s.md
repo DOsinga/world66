@@ -4,6 +4,8 @@ type: poi
 address: "Narodni 26"
 type: "Shopping centers and malls"
 url: "www.tesco-shop.cz"
+latitude: 50.082096
+longitude: 14.419699
 ---
 
 Tesco Department Store is probably the biggest deparment store in the city centre.

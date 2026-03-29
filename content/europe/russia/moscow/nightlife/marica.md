@@ -6,6 +6,8 @@ closing_time: "6"
 phone: "+7(095) 924-03-58"
 type: "Clubs and dancing"
 url: "www.marica.ru"
+latitude: 45.489908
+longitude: 34.283117
 ---
 
 Great place to party and one of the best club in Moscow. Music: best RnB.

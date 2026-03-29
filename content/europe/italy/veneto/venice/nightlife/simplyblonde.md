@@ -5,6 +5,8 @@ address: "Via Orsato 18, Marghera"
 opening_hours: "6pm - 2am daily"
 phone: "041 - 928181"
 type: "Casinos"
+latitude: 45.464344
+longitude: 12.214479
 ---
 
 Popular pub with preferences in rock, blues, funk and reggae music.

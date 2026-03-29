@@ -1,6 +1,8 @@
 ---
 title: "Saki"
 type: location
+latitude: 41.203222
+longitude: 47.180327
 ---
 
 We currently have no information about Saki.

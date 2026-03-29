@@ -2,6 +2,8 @@
 title: "Nosa Señora da Antiga"
 type: poi
 type: "Public Buildings"
+latitude: 42.518392
+longitude: -7.51697
 ---
 
 The school **'Nosa Señora da Antiga' **is

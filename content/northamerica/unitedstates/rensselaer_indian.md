@@ -1,6 +1,8 @@
 ---
 title: "Rensselaer, Indiana"
 type: location
+latitude: 40.936704
+longitude: -87.150856
 ---
 
 Travel Guide

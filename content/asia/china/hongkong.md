@@ -1,6 +1,8 @@
 ---
 title: "Hong Kong"
 type: location
+latitude: 22.279297
+longitude: 114.162891
 ---
 
 Hong Kong (Xianggang) has the big city specials like smog, odour, 14 million elbows and an insane love of clatter. But it's also efficient, hushed and peaceful: the transport network is excellent, the shopping centres are sublime, and the temples and quiet corners of parks are contemplative oases. 

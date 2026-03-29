@@ -4,6 +4,8 @@ type: poi
 address: "Raekoja plats 14"
 phone: "6442160"
 type: "Erotic clubs and bars"
+latitude: 59.437453
+longitude: 24.746445
 ---
 
 Open: 11-23

@@ -1,6 +1,8 @@
 ---
 title: "Uzhgorod"
 type: location
+latitude: 48.622373
+longitude: 22.302257
 ---
 
 Travel Guide

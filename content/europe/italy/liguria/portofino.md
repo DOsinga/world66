@@ -1,6 +1,8 @@
 ---
 title: "Portofino"
 type: location
+latitude: 44.303665
+longitude: 9.209345
 ---
 
 Portofino is on one of the most attractive sections of the Italian Riviera southeast of [Genoa](/europe/italy/liguria/genoa). It has mountains, clear bays, thick evergreen forests, a National Park and divine villas. Several weeks could be spent exploring this charming area and the Italian Riviera in general. Rather than staying in Portofino (overnight) however we recommend nearly Santa Margherita Ligure - a favorite of wealthy yachters - or [Rapallo](/europe/italy/liguria/italianriviera/tigullio/rapallo) as Portofino’s bay is so small and the access road to town is very narrow. In the summertime expect lots of people waiting in line to find a spot to park their cars. Nevertheless we recommend spending a whole day in Portofino and enjoy its favourable natural position that already attracted very early human settlement. As we learned from Pliny, "Portus Delphini" was already known in Roman times. 

@@ -1,6 +1,8 @@
 ---
 title: "Manarola"
 type: location
+latitude: 44.106326
+longitude: 9.727481
 ---
 
 Travel Guide

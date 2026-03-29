@@ -1,6 +1,8 @@
 ---
 title: "Baijnath Temple"
 type: location
+latitude: 29.907236
+longitude: 79.615225
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Amizmiz"
 type: location
+latitude: 31.217101
+longitude: -8.233275
 ---
 
 Travel Guide

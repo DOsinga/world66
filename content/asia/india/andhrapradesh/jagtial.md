@@ -1,6 +1,8 @@
 ---
 title: "Jagtial"
 type: location
+latitude: 18.821359
+longitude: 78.915066
 ---
 
 Jagtial is a Mandal or Taluka in Karimnagar District of Andhra Pradesh, which is in 5 hours travel distance from the State Capital Hyderabad. 

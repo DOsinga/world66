@@ -4,6 +4,8 @@ type: section
 address: "Montaña La Data, 36"
 phone: "928 14 12 88"
 type: "Local"
+latitude: 27.789182
+longitude: -15.613109
 ---
 
 It is not easy to find restaurants where the locals go to, asking around may not be the best way to find them either.

@@ -5,6 +5,8 @@ address: "Nieuwe Molstraat 10"
 phone: "070-3602559"
 price: "13 euro"
 type: "Vegetarian"
+latitude: 52.074421
+longitude: 4.313426
 ---
 
 Cheap vegetarian option.

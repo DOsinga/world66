@@ -1,6 +1,8 @@
 ---
 title: "Olympia"
 type: location
+latitude: 37.63825
+longitude: 21.630566
 ---
 
 We currently have no information about Olympia.

@@ -1,6 +1,8 @@
 ---
 title: "Chapada dos Veadeiros"
 type: location
+latitude: -23.46191
+longitude: -46.866092
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Viroqua"
 type: location
+latitude: 43.556917
+longitude: -90.888741
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Jonesboro"
 type: location
+latitude: 35.834809
+longitude: -90.70453
 ---
 
 ...

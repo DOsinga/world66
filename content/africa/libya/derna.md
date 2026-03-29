@@ -1,6 +1,8 @@
 ---
 title: "Derna"
 type: location
+latitude: 32.75938
+longitude: 22.63832
 ---
 
 We currently have no information about Derna.

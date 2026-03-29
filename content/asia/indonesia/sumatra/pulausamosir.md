@@ -1,6 +1,8 @@
 ---
 title: "Pulau Samosir"
 type: location
+latitude: 2.593629
+longitude: 98.801082
 ---
 
 We currently have no information about Pulau Samosir.

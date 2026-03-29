@@ -1,6 +1,8 @@
 ---
 title: "Abbotsford"
 type: location
+latitude: 44.947109
+longitude: -90.319479
 ---
 
 Travel Guide

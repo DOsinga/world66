@@ -1,6 +1,8 @@
 ---
 title: "Lexington"
 type: location
+latitude: 38.046407
+longitude: -84.497039
 ---
 
 Lexington is the home of the University of Kentucky, and as such is a college town--but not entirely. Rowdy Wildcat Basketball games cohabitate with the elite world of race horses. Lexington has named itself "the Horse Capital of the World" and it is not a stretch.

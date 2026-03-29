@@ -6,6 +6,8 @@ email: "info@bishopairport.org"
 phone: "(810) 235-6560"
 type: "By Air"
 url: "www.bishopairport.org"
+latitude: 42.973939
+longitude: -83.702855
 ---
 
 ### [Bishop International Airport](/northamerica/unitedstates/michigan/flint/gettingthere/bishop_internation)

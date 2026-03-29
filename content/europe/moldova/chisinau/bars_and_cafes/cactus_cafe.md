@@ -3,6 +3,8 @@ title: "Cactus Cafe"
 type: poi
 address: "Armeana 41"
 phone: "(+373 22) 50-40-94"
+latitude: 31.77484
+longitude: 35.228722
 ---
 
 An international menu, summer terrace and great place for rendez-vous.

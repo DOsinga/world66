@@ -7,6 +7,8 @@ date: "6f49+sf4"
 email: "ds+4fd84"
 phone: "4f6s4f64"
 url: "489d4"
+latitude: 3.972456
+longitude: 73.502134
 ---
 
 rh ljih gjdfkjgbfdhbhafj dj jgdhjk jh jdhfjkhjkgdjgk

@@ -3,6 +3,8 @@ title: "Fort Point"
 type: poi
 type: "Landmarks"
 url: "www.zurdogo.com"
+latitude: 37.810486
+longitude: -122.476882
 ---
 
 San Francisco Fort Point is located at the tip of the San Francisco Presidio and beneath the arch of the southern end of the San Francisco Golden Gate Bridge.

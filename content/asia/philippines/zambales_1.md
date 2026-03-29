@@ -1,6 +1,8 @@
 ---
 title: "Zambales"
 type: location
+latitude: 15.23
+longitude: 120.12
 ---
 
 Travel Guide

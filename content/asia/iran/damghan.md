@@ -1,6 +1,8 @@
 ---
 title: "damghan"
 type: location
+latitude: 36.167451
+longitude: 54.337999
 ---
 
 Travel Guide

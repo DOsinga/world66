@@ -1,6 +1,8 @@
 ---
 title: "Patterson"
 type: location
+latitude: 41.348348
+longitude: -93.880355
 ---
 
 Travel Guide

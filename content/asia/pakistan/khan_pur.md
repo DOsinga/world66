@@ -1,6 +1,8 @@
 ---
 title: "Khan Pur"
 type: location
+latitude: 31.683026
+longitude: 74.103466
 ---
 
 Khan Pur is an important city in southern Punjab.It is a major railway junction on Karachi-Pashawar railway line.Before independence it was a district headquarter in Bahawal pur State but now it is a tehsil of Rahim yar khan district.Khan Pur is a city of rich culture and educated people.There are many educational institutes in the city.In this area people speak urdu,punjabi and sraiki languages.Khan Pur is close to Indian border in Cholistan area.Cholistan is a largest desert in Pakistan with very old archeological history. 

@@ -5,6 +5,8 @@ address: "Chitta Khana Chowk, Junagadh - Gujarat - India."
 phone: "+91 285 2620302"
 type: "First Class"
 url: "www.reliefhotel.com"
+latitude: 21.522462
+longitude: 70.460207
 ---
 
 Garden cafe open air restaurant, serve south indian and punjabi dishes . time evening only 6.30 to 10.30. wednesday closed. Address:- Dulbi road, near girnar darwaja junagadh. ph. 0285-2623565.

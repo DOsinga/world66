@@ -4,6 +4,8 @@ type: section
 address: "2908 W. Cary Street"
 phone: "804-353-9911"
 type: "Theatres"
+latitude: 37.55243
+longitude: -77.477852
 ---
 
 From parks to bars to movies to shopping, Richmond is an exciting spot to be.

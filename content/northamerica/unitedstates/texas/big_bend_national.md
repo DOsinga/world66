@@ -1,6 +1,8 @@
 ---
 title: "Big Bend National Park"
 type: location
+latitude: 29.333248
+longitude: -103.194172
 ---
 
 Words cannot describe its beauty.

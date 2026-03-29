@@ -1,6 +1,8 @@
 ---
 title: "Pandurangapuram"
 type: location
+latitude: 17.715961
+longitude: 83.321721
 ---
 
 Travel Guide

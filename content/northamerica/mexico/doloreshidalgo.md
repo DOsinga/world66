@@ -1,6 +1,8 @@
 ---
 title: "Dolores Hidalgo"
 type: location
+latitude: 21.104942
+longitude: -100.913161
 ---
 
 On the night of September 15, 1810, Miguel Hidalgo y Costillo, the 57-year-old parish priest of Dolores, and Ignacio Allende learned that their plans for insurrection against Spain had been **discovered. They decided to act immediately and soon after dawn the next morning, September 16, Padre** Hidalgo delivered his now famous Grito (Cry for Freedom) from the Parroquia of Dolores. This was the beginning of *Mexico's struggle for freedom* from Spanish rule which was to drag on until 1824 and take some 600,000 lives. 

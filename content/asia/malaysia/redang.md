@@ -1,6 +1,8 @@
 ---
 title: "Redang"
 type: location
+latitude: 5.783416
+longitude: 103.014076
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Awdal"
 type: location
+latitude: 10.695115
+longitude: 43.490496
 ---
 
 Awdal**Borama

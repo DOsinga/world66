@@ -5,6 +5,8 @@ address: "Village Road"
 email: "info.redseadolphin@gmail.com"
 phone: "0020 (0)19446205"
 url: "www.facebook.com"
+latitude: 51.637716
+longitude: -0.080574
 ---
 
 ***enjoy a 2 hours of unforgettable tour sailoring over the colorful and rich reefs taking the advantage of the panoramic windows where everyone can enjoy the unique Red Sea's underwater life...***

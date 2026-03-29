@@ -1,6 +1,8 @@
 ---
 title: "Montgomery"
 type: location
+latitude: 32.377711
+longitude: -86.309078
 ---
 
 We currently have no information about Montgomery.

@@ -1,6 +1,8 @@
 ---
 title: "Hastiere"
 type: location
+latitude: 50.2158
+longitude: 4.826825
 ---
 
 **Hastiere** is a rural commune located along the most romantical part of the Meuse in the Belgian Ardennes at the boarder with France . You can discover 

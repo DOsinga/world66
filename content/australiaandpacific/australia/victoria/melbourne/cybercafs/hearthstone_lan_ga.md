@@ -8,6 +8,8 @@ phone: "03 9584 9869"
 price: "$6/hr guests. $4/hr Members"
 type: "Internet Cafe"
 url: "www.hearthstonegames.com.au"
+latitude: -37.966726
+longitude: 145.055173
 ---
 
 Check website for more details.

@@ -1,6 +1,8 @@
 ---
 title: "East Belgium"
 type: location
+latitude: 50.644634
+longitude: 6.00795
 ---
 
 Travel Guide

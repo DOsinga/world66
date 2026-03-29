@@ -3,6 +3,8 @@ title: "Murud / Janjira"
 type: poi
 email: "bhatkanti@gmail.com"
 url: "bhatkanti.blogspot.com"
+latitude: 18.299947
+longitude: 72.9644
 ---
 
 Formerly the capital town of the Siddis of Janjira, Murud is today

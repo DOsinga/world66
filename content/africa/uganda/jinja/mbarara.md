@@ -1,6 +1,8 @@
 ---
 title: "Mbarara"
 type: location
+latitude: -0.418085
+longitude: 30.573737
 ---
 
 Travel Guide

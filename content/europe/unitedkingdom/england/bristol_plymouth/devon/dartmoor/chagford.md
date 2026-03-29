@@ -1,6 +1,8 @@
 ---
 title: "Chagford"
 type: location
+latitude: 50.673136
+longitude: -3.840229
 ---
 
 Travel Guide

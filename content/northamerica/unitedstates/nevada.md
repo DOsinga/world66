@@ -1,6 +1,8 @@
 ---
 title: "Nevada"
 type: location
+latitude: 39.515882
+longitude: -116.853722
 ---
 
 Every year the Burning Man festival is held in the desert in Northern Nevada. It is a week-long, insane counter culture celebration of art, community and technology.. See the [Black Rock City](/northamerica/unitedstates/nevada/blackrockcity) section for more info. 

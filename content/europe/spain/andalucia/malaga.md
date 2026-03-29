@@ -1,6 +1,8 @@
 ---
 title: "Malaga"
 type: location
+latitude: 36.721303
+longitude: -4.421637
 ---
 
 Málaga's coastline forms part of the Costa del Sol, a special part of the Mediterranean. The climate is temperate, and the mean temperature is 2200 C - from 16 to 19000 in winter. This is due to the mountains that protect the coast from cold north winds. Málaga was first a Phoenician colony and later came under the control of the Greeks, Carthaginians, Visigoths, Arabs and Christians. 

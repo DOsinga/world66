@@ -1,6 +1,8 @@
 ---
 title: "Batabat"
 type: location
+latitude: 40.446371
+longitude: 49.83942
 ---
 
 Travel Guide

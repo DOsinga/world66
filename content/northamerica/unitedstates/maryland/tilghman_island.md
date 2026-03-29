@@ -1,6 +1,8 @@
 ---
 title: "Tilghman Island"
 type: location
+latitude: 38.707633
+longitude: -76.338169
 ---
 
 Experience a small piece of paradise in the agreeable latitudes of Tilghman Island, the pearl of the Chesapeake Bay. Unspoiled. Authentic. Sprinkled with unexpected pleasures. All with an attitude that's noticeably relaxed.

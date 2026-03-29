@@ -7,6 +7,8 @@ phone: "1-509-548-8000"
 type: "European"
 url: "www.icicleinn.com"
 zipcode: "98826"
+latitude: 45.131769
+longitude: -63.359982
 ---
 
 Leavenworth offers a variety of restaurants and food stands. your are encouraged to experience the authentic international foods that are available throughout the village. Learn more at http://www.icicleinn.com/offsite.htm

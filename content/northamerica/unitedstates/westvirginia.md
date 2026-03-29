@@ -1,6 +1,8 @@
 ---
 title: "West Virginia"
 type: location
+latitude: 38.475841
+longitude: -80.840841
 ---
 
 West Virginia is a state in the central Appalachians, with two "panhandles" or long, narrow arms of territory which reach East almost to Washington DC and North almost to Pittsburgh PA. 

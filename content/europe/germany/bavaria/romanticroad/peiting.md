@@ -1,16 +1,23 @@
 ---
 title: "Peiting"
 type: location
+latitude: 47.795986
+longitude: 10.922873
 ---
 
 Located in the Upper Bavarian "Pfaffenwinkel" between the rivers Lech and Ammer Peiting is a very attractive town with some 12th century buildings such as the St. Michael Church and the Maria chapel. Peiting is as well a good starting point for a tour to the "Hoher Peissenberg"
 
- More informations:
 
- Tourist office Peiting
+ More informations:
 
- Verkehrsamt
 
- Ammergauer Strasse 2, 86971 Peiting
+ Tourist office Peiting
 
- Tel. +49 8861 - 6535
+
+ Verkehrsamt
+
+
+ Ammergauer Strasse 2, 86971 Peiting
+
+
+ Tel. +49 8861 - 6535

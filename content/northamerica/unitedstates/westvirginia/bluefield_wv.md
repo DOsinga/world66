@@ -1,6 +1,8 @@
 ---
 title: "Bluefield, WV"
 type: location
+latitude: 37.26984
+longitude: -81.222319
 ---
 
 Travel Guide

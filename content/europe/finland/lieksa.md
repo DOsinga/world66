@@ -1,6 +1,8 @@
 ---
 title: "Lieksa"
 type: location
+latitude: 63.317821
+longitude: 30.019131
 ---
 
 The town of Brahea was founded in 1653 by Pietari Brahe, in the early 1680s the town was suppressed. On 1 January 1936 the Borough of Lieksa was separated from the Municipality of Pielisjärvi. On 1 January 1973 the Borough of Lieksa and Municipality of Pielisjärvi were again merged and the City of Lieksa was founded.

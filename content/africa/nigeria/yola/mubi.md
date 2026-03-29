@@ -1,6 +1,8 @@
 ---
 title: "Mubi"
 type: location
+latitude: 10.267607
+longitude: 13.264359
 ---
 
 We currently have no information about Mubi.

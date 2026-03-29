@@ -7,6 +7,8 @@ email: "anish@gmail.com"
 opening_hours: "8"
 phone: "9820781651"
 type: "Hotspots"
+latitude: 18.933266
+longitude: 72.834515
 ---
 
 Beaches...forts .....

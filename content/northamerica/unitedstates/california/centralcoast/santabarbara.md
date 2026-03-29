@@ -1,6 +1,8 @@
 ---
 title: "Santa Barbara"
 type: location
+latitude: 34.422132
+longitude: -119.702667
 ---
 
 Santa Barbare is just one of those places that seems to have it all. It's beautiful, has a lot of history, a great climate, good beaches and some of America's best vineyards are only miles away. Santa Barbara has a number of sights that are historically and culturally significant. 

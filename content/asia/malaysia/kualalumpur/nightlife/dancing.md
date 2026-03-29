@@ -1,9 +1,12 @@
 ---
 title: "Dancing"
 type: poi
+latitude: 3.148191
+longitude: 101.695541
 ---
 
-KL's nightlife is mostly found in the Golden Triangle in Jalan Sultan Ismail. 
+KL's nightlife is mostly found in the Golden Triangle in Jalan Sultan Ismail.
+ 
 
 **Place to go outs**
 

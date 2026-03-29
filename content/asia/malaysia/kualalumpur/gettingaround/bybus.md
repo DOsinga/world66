@@ -1,6 +1,8 @@
 ---
 title: "By Bus"
 type: poi
+latitude: 3.934117
+longitude: 102.358917
 ---
 
 In KL there are two types of city buses: mini buses and omnibuses. Mini buses charge a standard fare of 60 sen (70 & 90 sen for air-cond mini buses) to any destination within their route. The fare for omnibuses starts at 20 sen and varies with the distance travelled.
@@ -11,7 +13,8 @@ To Kota Raya Shopping Complex/Menara Maybank:Bus No. 13, 25, 44, 103, 104, 121, 
 
 
 
-To Jalan Cheras, Sri Petaling, Serdang Lama:Taman  Kelang Bus Station Bus No.32 & 33.
+To Jalan Cheras, Sri Petaling, Serdang Lama:Taman 
+ Kelang Bus Station Bus No.32 & 33.
 
 
 

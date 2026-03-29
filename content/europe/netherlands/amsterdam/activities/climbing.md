@@ -1,9 +1,12 @@
 ---
 title: "Climbing"
 type: poi
+latitude: 52.71909
+longitude: 4.667371
 ---
 
-Climbing is not the first things that comes to mind when you think of Amsterdam. There are three indoor climbing halls however, and they offer good possibilities in a relaxed atmosphere. 
+Climbing is not the first things that comes to mind when you think of Amsterdam. There are three indoor climbing halls however, and they offer good possibilities in a relaxed atmosphere.
+ 
 
 **Recommendations**
 

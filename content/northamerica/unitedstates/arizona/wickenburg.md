@@ -1,6 +1,8 @@
 ---
 title: "Wickenburg"
 type: location
+latitude: 33.968096
+longitude: -112.730135
 ---
 
 Travel Guide

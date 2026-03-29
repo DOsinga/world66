@@ -1,6 +1,8 @@
 ---
 title: "Toli Pir rawalakot"
 type: location
+latitude: 33.861799
+longitude: 73.828321
 ---
 
 Travel Guide

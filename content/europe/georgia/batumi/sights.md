@@ -3,6 +3,8 @@ title: "Sights in Batumi"
 type: section
 address: "6th may park"
 type: "Parks, Gardens and Zoos"
+latitude: 53.376441
+longitude: -6.217362
 ---
 
 Batumi has many different places to visit. At the beach you can visit Batumi Seaside Boulevard, which is 7km long. From there you can walk to cafes and restaurants or go to beach. There are even special places for cycling. You can also visit several parks, which are located in or near Batumi, such as the Botanical Garden, Mtirala's National Park, and several protected area museums and historical monuments.

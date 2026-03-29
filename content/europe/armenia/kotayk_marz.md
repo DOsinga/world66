@@ -1,6 +1,8 @@
 ---
 title: "Kotayk Marz"
 type: location
+latitude: 40.187273
+longitude: 44.599438
 ---
 
 Travel Guide

@@ -8,6 +8,8 @@ phone: "00977-1-4700481"
 price_per_night: "US$15"
 type: "Bed and Breakfast"
 url: "www.edenresort.com.np"
+latitude: 27.580163
+longitude: 84.502306
 ---
 
 **Eden jungle resot is situated at the bank of chitwan national park(CNP), which is listed at unesco world heritage site at 1984. chitwan national park is famous for wildlife conservation. at CNP you can see endangarous animals like royal bangal tiger, one horned rihnoceros, beer, crocodile and many more.**

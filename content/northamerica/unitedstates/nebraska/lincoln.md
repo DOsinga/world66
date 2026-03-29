@@ -1,6 +1,8 @@
 ---
 title: "Lincoln"
 type: location
+latitude: 40.808886
+longitude: -96.707775
 ---
 
 We currently have no information about Lincoln.

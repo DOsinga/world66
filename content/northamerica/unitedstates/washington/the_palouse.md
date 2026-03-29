@@ -1,6 +1,8 @@
 ---
 title: "The Palouse"
 type: location
+latitude: 43.585855
+longitude: -116.229552
 ---
 
 About six hours east of Seattle in the south-eastern section of the state you'll find beautiful farming bliss. A favorite location for **photography** this region also offers some great back road America exploring. A really fun place to get lost for a long weekend.

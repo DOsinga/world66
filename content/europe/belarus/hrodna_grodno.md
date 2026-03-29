@@ -1,6 +1,8 @@
 ---
 title: "Hrodna (Grodno)"
 type: location
+latitude: 53.675368
+longitude: 23.827524
 ---
 
 Travel Guide

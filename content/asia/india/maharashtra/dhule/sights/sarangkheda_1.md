@@ -3,6 +3,8 @@ title: "Sarangkheda:"
 type: poi
 type: "Hotspots"
 url: "dhulecity.com"
+latitude: 21.433671
+longitude: 74.527866
 ---
 
 ** Sarangkheda: **

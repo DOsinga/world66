@@ -6,6 +6,8 @@ email: "jpz6699@163.com"
 phone: "86-0354-5888406"
 type: "Tourist information"
 url: "www1.ipiao.com.cn"
+latitude: 37.139393
+longitude: 112.284997
 ---
 
 Here you can find some useful information for your visit to Pinyao.

@@ -5,6 +5,8 @@ address: "Brasov, Romania"
 email: "tours@goromaniatours.com  "
 phone: "+40 748 70 05 12 (In Romania - 0748 70 05 12)"
 url: "www.goromaniatours.com"
+latitude: 45.65251
+longitude: 25.610565
 ---
 
 While enjoying the slopes you can take a break from skiing and

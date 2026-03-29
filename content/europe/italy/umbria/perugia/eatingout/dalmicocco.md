@@ -1,9 +1,12 @@
 ---
 title: "Dal mi Cocco"
 type: poi
+latitude: 43.115334
+longitude: 12.389563
 ---
 
-Student clientele, traditional cuicine near the university. (Closed Mondays) 
+Student clientele, traditional cuicine near the university. (Closed Mondays)
+ 
 
 address: Corso Garibaldi 12
 

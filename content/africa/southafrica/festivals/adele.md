@@ -1,6 +1,8 @@
 ---
 title: "Adele"
 type: poi
+latitude: -34.036196
+longitude: 18.468424
 ---
 
 maybe you'd like to link to festivals.co.za

@@ -8,6 +8,8 @@ price: "100 EEK"
 type: "African"
 url: "www.valgelaev.ee"
 zipcode: "76805"
+latitude: 59.350352
+longitude: 24.058812
 ---
 
 We are glad to invite you to new hotel-restaurant White Ship. It is situated in the center of sea town Paldiski (address Rae str. 32).

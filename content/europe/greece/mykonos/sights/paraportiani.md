@@ -2,6 +2,8 @@
 title: "Paraportiani"
 type: poi
 type: "Churches and Cathedrals"
+latitude: 37.447104
+longitude: 25.325715
 ---
 
 Paraportiani

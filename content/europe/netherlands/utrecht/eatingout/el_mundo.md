@@ -6,6 +6,8 @@ phone: "++31 302364543"
 price: "20"
 type: "European"
 url: "www.tapasbar-elmundo.nl"
+latitude: 52.038169
+longitude: 4.38062
 ---
 
 Here you can eat the best tapas in Utrecht.

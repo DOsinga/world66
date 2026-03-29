@@ -1,6 +1,8 @@
 ---
 title: "Millau"
 type: location
+latitude: 44.100669
+longitude: 3.077759
 ---
 
 Millau, situated on the valley of the scenic River Tarn, was until recently [Dec 04] noted as a bottleneck on the way south and secondly for its status as a centre of leather production.

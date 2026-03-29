@@ -3,6 +3,8 @@ title: "Millennium Mall"
 type: poi
 address: "Rashid Minhas Road, Gulshan-e-Iqbal"
 type: "Shopping centers and malls"
+latitude: 24.909399
+longitude: 67.107741
 ---
 
 Centrally Air Conditioned: Sometimes

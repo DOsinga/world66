@@ -1,6 +1,8 @@
 ---
 title: "Sinj"
 type: location
+latitude: 43.701731
+longitude: 16.63734
 ---
 
 [Sinj](/europe/croatia) is a town in the continental part of Split-Dalmatia county , Croatia . The town itself has a population of 11,500 (2001 census), while the population of the administrative municipality which includes surrounding villages is 25,373 (2001).

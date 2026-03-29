@@ -5,6 +5,8 @@ address: "lakeroad"
 email: "rgcompaq@hotmail.com"
 phone: "9874090194"
 url: "www.rightgadgets.in"
+latitude: 35.336529
+longitude: -97.148571
 ---
 
 While comparing **Compaq laptop series **with the other brands, certainly you can spot the distinctiveness. The immediate and most prominent distinction that

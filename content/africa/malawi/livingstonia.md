@@ -1,6 +1,8 @@
 ---
 title: "Livingstonia"
 type: location
+latitude: -10.609915
+longitude: 34.107348
 ---
 
 We currently have no information about Livingstonia.

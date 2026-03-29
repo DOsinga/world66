@@ -1,6 +1,8 @@
 ---
 title: "Haeinsa"
 type: location
+latitude: 35.801042
+longitude: 128.098038
 ---
 
 We currently have no information about Haeinsa.

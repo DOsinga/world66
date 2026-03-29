@@ -1,6 +1,8 @@
 ---
 title: "Mecca"
 type: location
+latitude: 21.420847
+longitude: 39.826869
 ---
 
 Mecca is the holiest of cities to Islam: it was the place of birth of the Prophet Muhammed, it is where you find the Grand Mosque with the Kaaba and the well of Zemzem. All muslims dream of performing the pilgrimage to Mecca at least once in their life. 

@@ -1,6 +1,8 @@
 ---
 title: "Fort Bend County"
 type: location
+latitude: 29.511218
+longitude: -95.780735
 ---
 
 Fort Bend County is one of the fastest growing areas in the United States (2002 est. 399,537). Situated southwest of [Houston](/northamerica/unitedstates/texas/houston) (which actually is in part of the county as well), the area has enjoyed growth due to the city next door. 

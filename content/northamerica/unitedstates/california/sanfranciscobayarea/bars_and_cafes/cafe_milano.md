@@ -1,6 +1,8 @@
 ---
 title: "Cafe Milano"
 type: poi
+latitude: 38.906166
+longitude: -77.06366
 ---
 
 One of the best cafes in Berkeley-- and given how crowded Berkeley is with great cafes, that's saying a lot. Across the street from the U.C. Berkeley campus, Milano is a favorite with students, faculty, and others who are part of the area's intellectual public culture.

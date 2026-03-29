@@ -1,6 +1,8 @@
 ---
 title: "Netzahualcoyotl"
 type: location
+latitude: 17.710579
+longitude: -91.442352
 ---
 
 Travel Guide

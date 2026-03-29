@@ -7,6 +7,8 @@ email: "www.losy.nor"
 phone: "01642 222222"
 type: "Going to the Beach"
 url: "123456"
+latitude: 36.648297
+longitude: -93.274533
 ---
 
 ### [nice](/europe/france/midi/cotedazur/nice/things_to_do/nice)

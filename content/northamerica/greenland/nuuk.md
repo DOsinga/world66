@@ -1,6 +1,8 @@
 ---
 title: "Nuuk"
 type: location
+latitude: 64.176705
+longitude: -51.736144
 ---
 
 Nuuk is the capital of Greenland and located on the southwest coast, some 300 km from [Qaqortoq](/northamerica/greenland/qaqortoq).

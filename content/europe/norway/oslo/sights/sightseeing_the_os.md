@@ -7,6 +7,8 @@ opening_hours: "go to website, båtOpplevelse - Sightseeing"
 phone: "+47 66 91 30 00"
 type: "Hotspots"
 url: "www.vikingsaga.no"
+latitude: 59.910035
+longitude: 10.732859
 ---
 
 **Sightseeing boat trips on the Oslo Fjord!**

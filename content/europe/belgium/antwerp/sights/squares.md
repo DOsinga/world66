@@ -1,6 +1,8 @@
 ---
 title: "Squares"
 type: poi
+latitude: 50.846949
+longitude: 4.383085
 ---
 
 There are many squares in the centre of Antwerp. Here there are the most important ones:

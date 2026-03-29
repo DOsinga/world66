@@ -2,6 +2,8 @@
 title: "Gatorland"
 type: poi
 type: "Hotspots"
+latitude: 28.354993
+longitude: -81.401899
 ---
 
 Gatorland started out as one of those little roadside

@@ -1,6 +1,8 @@
 ---
 title: "Konark"
 type: location
+latitude: 19.907429
+longitude: 86.14202
 ---
 
 **Konark** is famous for its magnificent 13th century Sun Temple constructed by Narasinha Deva of Ganga dynasty. Standing in solitary splendour amongst the sand dunes, the temple is the most striking example of Kalinga architecture. Though most part of the temple was destroyed by the British during their reign in India, the remnants are still remarkable for the architecture and every tourist gets spellbound seeing the sculptures and carvings around the temple.

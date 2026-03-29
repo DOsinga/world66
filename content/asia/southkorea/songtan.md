@@ -1,6 +1,8 @@
 ---
 title: "Songtan"
 type: location
+latitude: 37.075356
+longitude: 127.054366
 ---
 
 Songtan is in Pyeongtaek, about an hours drive south of Seoul. Going there you will pass Suwon City, take the Osan Ciy exit, and continue south to Songtan City.

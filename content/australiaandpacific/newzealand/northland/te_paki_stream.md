@@ -1,6 +1,8 @@
 ---
 title: "Te Paki Stream"
 type: location
+latitude: -34.524582
+longitude: 172.773549
 ---
 
 Te Paki Stream is the northern most off ramp / on ramp for the [Ninety Mile Beach](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach).

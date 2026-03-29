@@ -1,6 +1,8 @@
 ---
 title: "Inis Mor"
 type: location
+latitude: 53.120352
+longitude: -9.705632
 ---
 
 Inis Mor is the largest of the three islands. It also has the most facilities for the traveler. It has safe, sandy beaches for bathing; clear water for sailboarding or boating. Facilities are provided for deep sea angling, or you can find many spots suitable for rock fishing. For conviviality, there are the islands pubs, where you can often hear the best of music, instrumental and vocal. Dances (sometimes ceilís) are held in Halla Rónáin. In the open air, Árainn is a paradise for bird watchers or the lover of wild flowers and plants. Many visitors like best of all to savour in the total freedom of the island's peace and quiet: walking our roads (there are two where no bus or car run) or the small myriad of small winding paths between stone walls or over open sandy dunes or by dizzying cliff heights. These walks are for many an enduring Árainn memory. 

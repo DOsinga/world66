@@ -1,6 +1,8 @@
 ---
 title: "Downtown"
 type: poi
+latitude: 34.047996
+longitude: -118.2521
 ---
 
 Downtown is recognizable for the tallest building on the west coast – the Library Tower and many iconic buildings seen in countless TV shows and movies – including the round glass tower Bonaventure Hotel (TRUE LIES), the Arco Towers and the Wells Fargo Building (LA LAW). Even the streets in the area are often featured as they rise up and down on different tiers so a) the chase scene in a confined area can look different with every new shot and b) Downtown is pretty much deserted on the weekends. The Museum of Contemporary Art is here as is the new Frank Gehry Disney Symphony Hall. Other architectural showpieces are the Italianate Renaissance-style Biltmore Hotel, facing renewed Pershing Square, and the Beaux Arts-style Central Library, and the Mission-style Union Station captures the heyday of train travel. You can also catch the ANGEL’S FLIGHT cable car here – doesn’t really travel very far. LA DOWNTOWN is slowly evolving into more residential but for a huge massive metropolitan area, it’s essentially deserted past 6 PM and on the weekends. As it’s tilted towards financially related companies, they do tend to keep banker’s hours in DOWNTOWN. There are some hidden (night) clubs and other hangouts for artists but you have to know where to look.

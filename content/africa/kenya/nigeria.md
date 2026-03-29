@@ -1,6 +1,8 @@
 ---
 title: "Nigeria"
 type: location
+latitude: -1.265258
+longitude: 36.848826
 ---
 
 Travel Guide

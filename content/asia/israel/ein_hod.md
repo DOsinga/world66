@@ -1,6 +1,8 @@
 ---
 title: "Ein Hod"
 type: location
+latitude: 32.700502
+longitude: 34.982596
 ---
 
 Travel Guide

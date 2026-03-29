@@ -1,6 +1,8 @@
 ---
 title: "Lillooet"
 type: location
+latitude: 50.693938
+longitude: -121.933691
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Island Čiovo"
 type: location
+latitude: 43.497875
+longitude: 16.300507
 ---
 
 Travel Guide

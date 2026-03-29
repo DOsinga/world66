@@ -1,6 +1,8 @@
 ---
 title: "Volterra"
 type: location
+latitude: 43.400337
+longitude: 10.860019
 ---
 
 Travel Guide

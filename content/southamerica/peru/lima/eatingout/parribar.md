@@ -7,6 +7,8 @@ phone: "telf. 447 2923 / 973 31187"
 price: "10 soles menu on weekdays"
 type: "International"
 url: "www.parribar.com"
+latitude: -12.123894
+longitude: -77.026999
 ---
 
 This grill and bar is a great place to eat quality meat. The owners import the meat from Argentina and Uruguay, so meat lovers understand the meaning.

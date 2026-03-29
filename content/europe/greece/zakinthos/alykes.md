@@ -1,6 +1,8 @@
 ---
 title: "Alykes"
 type: location
+latitude: 36.884925
+longitude: 27.170572
 ---
 
 ALYKES is situated on the east coast of the island. 

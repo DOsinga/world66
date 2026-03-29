@@ -1,6 +1,8 @@
 ---
 title: "Kumla"
 type: location
+latitude: 59.117955
+longitude: 15.120621
 ---
 
 Travel Guide

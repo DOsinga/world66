@@ -1,6 +1,8 @@
 ---
 title: "Killeen"
 type: location
+latitude: 31.117144
+longitude: -97.727796
 ---
 
 Killeen, in Bell County, central Texas, is not one of those places

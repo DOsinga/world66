@@ -1,6 +1,8 @@
 ---
 title: "Angul"
 type: location
+latitude: 21.102538
+longitude: 84.953682
 ---
 
 Travel Guide

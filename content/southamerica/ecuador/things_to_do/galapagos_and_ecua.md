@@ -6,6 +6,8 @@ email: "info@zenithecuador.com"
 phone: "+593-2-2529993"
 type: "Spa and Sauna"
 url: "www.zenithecuador.com"
+latitude: -0.220164
+longitude: -78.512327
 ---
 
 Find Galapagos cruises, cultural tours, city tours, trips to indigenous markets,

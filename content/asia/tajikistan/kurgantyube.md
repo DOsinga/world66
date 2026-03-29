@@ -1,6 +1,8 @@
 ---
 title: "Kurgan-tyube"
 type: location
+latitude: 37.835722
+longitude: 68.782096
 ---
 
 We currently have no information about Kurgan-tyube.

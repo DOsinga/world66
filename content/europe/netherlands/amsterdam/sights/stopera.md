@@ -2,6 +2,8 @@
 title: "Stopera"
 type: poi
 address: "Waterlooplein 1"
+latitude: 52.369102
+longitude: 4.900853
 ---
 
 The Opera building at the end of the Amstel river is in fact two buildings in one: the opera and the city hall. The name Stopera is a combination of the Dutch words for city hall (**st**adhuis) and **opera**.

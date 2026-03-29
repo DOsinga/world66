@@ -1,6 +1,8 @@
 ---
 title: "Fresno"
 type: location
+latitude: 36.739442
+longitude: -119.78483
 ---
 
 Fresno is known for its agriculture, although it seems more and more of the farmland is being replaced by houses. Be sure to stop by a fruit stand and try the figs, fresh sweet grapes, strawberries so sweet they don't need sugar, and oranges you can pick right off a tree by the roadside (though the local farmers may not appreciate you taking part of their crop). 

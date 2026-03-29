@@ -1,6 +1,8 @@
 ---
 title: "Grayslake"
 type: location
+latitude: 42.343352
+longitude: -88.041219
 ---
 
 Travel Guide

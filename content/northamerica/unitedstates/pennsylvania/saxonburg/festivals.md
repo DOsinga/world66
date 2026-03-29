@@ -3,6 +3,8 @@ title: "Festivals"
 type: section
 date: "early September"
 type: "general"
+latitude: 30.260738
+longitude: -97.749501
 ---
 
 Knoch events (year-round, excepting summer): Pretty much the usual stuff: sports of football/soccer/cross country in the fall, basketball/swimming in the winter, track/tennis/baseball/softball in the spring. Also, the fall play (October-November) and spring musical (mid-March) keep students busy and residents entertained.

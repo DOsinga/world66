@@ -1,6 +1,8 @@
 ---
 title: "Northampton"
 type: location
+latitude: 52.23433
+longitude: -0.902804
 ---
 
 Northampton is a major town and administrive headquarters for the county of Northamptonshire in the East Midlands of the UK.

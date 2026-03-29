@@ -2,6 +2,8 @@
 title: "Nyamata Genocide Memorial"
 type: poi
 type: "Memorials"
+latitude: -2.148958
+longitude: 30.093763
 ---
 
 **Nyamata Genocide Memorial** is a worthwhile complement

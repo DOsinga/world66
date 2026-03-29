@@ -1,6 +1,8 @@
 ---
 title: "Bal Harbour"
 type: location
+latitude: 29.549072
+longitude: -95.522051
 ---
 
 Travel Guide

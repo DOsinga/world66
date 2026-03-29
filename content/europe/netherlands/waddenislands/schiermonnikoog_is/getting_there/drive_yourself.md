@@ -2,6 +2,8 @@
 title: "Drive yourself"
 type: poi
 url: "www.wpd.nl"
+latitude: 52.368455
+longitude: 4.948339
 ---
 
 In the fact sheet below, click the link to access the ferry company's detailed **routeplanner**. Two different itineraries are available:

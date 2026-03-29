@@ -1,6 +1,8 @@
 ---
 title: "Morgan Hill"
 type: location
+latitude: 37.130408
+longitude: -121.654497
 ---
 
 Travel Guide

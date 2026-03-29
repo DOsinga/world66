@@ -7,6 +7,8 @@ phone: "(From USA 011+572+) 668-2611"
 price: "American and International Food, with Moderate Prices"
 type: "American"
 url: "caliplaza.com"
+latitude: 19.347267
+longitude: -99.035851
 ---
 
 Located lobby level of CALI PLAZA HOTEL with entrance to the street.

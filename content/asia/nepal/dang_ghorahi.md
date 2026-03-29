@@ -1,6 +1,8 @@
 ---
 title: "dang ghorahi"
 type: location
+latitude: 28.045865
+longitude: 82.487683
 ---
 
 Travel Guide

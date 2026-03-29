@@ -5,6 +5,8 @@ accessibility: "Tram: 6"
 address: "Hietalahdenkatu 14, 00180 Helsinki"
 type: "European"
 url: "www.konstanmolja.fi"
+latitude: 60.163926
+longitude: 24.926781
 ---
 
 Some good restaurants, when seeking finnish traditions:

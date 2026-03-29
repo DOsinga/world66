@@ -1,6 +1,8 @@
 ---
 title: "Thorntown"
 type: location
+latitude: 40.129484
+longitude: -86.606671
 ---
 
 Travel Guide

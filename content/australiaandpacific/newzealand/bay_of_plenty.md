@@ -1,6 +1,8 @@
 ---
 title: "Bay of Plenty"
 type: location
+latitude: -37.950376
+longitude: 176.938287
 ---
 
 The **Bay of Plenty** has plenty for the tourist, including

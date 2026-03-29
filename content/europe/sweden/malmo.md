@@ -1,6 +1,8 @@
 ---
 title: "Malmo"
 type: location
+latitude: 55.605293
+longitude: 13.000157
 ---
 
 Malmo is a modern city in the south of Sweden. In the process of modernization, from industrial town to knowlegde trown, the town has lost most of its old charm. It is the third of Swedens towns in size and with a population of 255,000 inhabitants, has a modern and continental atmosphere. A 35 minutes short trip by train takes you to [Copenhagen](/europe/denmark/copenhagen), over the newly build Oresunds brigde (expansion brigde). The train can also take you to the boat for Bornholm or Lübeck.

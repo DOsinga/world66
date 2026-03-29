@@ -1,6 +1,8 @@
 ---
 title: "Halkidiki"
 type: location
+latitude: 40.330963
+longitude: 23.362146
 ---
 
 In the center of Macedonia and to the South lies Halkidiki peninsula 69km Southeast of the northern port city of Thessaloniki between Thermaikos and Strimonikos gulfs.

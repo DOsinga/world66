@@ -1,6 +1,8 @@
 ---
 title: "Kalbarri"
 type: location
+latitude: -27.710999
+longitude: 114.163816
 ---
 
 A tourism hotspot, Kalbarri is located 170 kilometres North of the main Midwest City of [Geraldton](/australiaandpacific/australia/westernaustralia/geraldton) or 570 kilometres North of [Perth](/australiaandpacific/australia/westernaustralia/perth) the capital of Western Australia.

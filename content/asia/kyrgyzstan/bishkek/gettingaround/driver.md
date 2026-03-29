@@ -1,6 +1,8 @@
 ---
 title: "Driver"
 type: poi
+latitude: 41.933825
+longitude: 74.528857
 ---
 
 It is possible to hire a driver and car (usually late model Audi, BMW or Mercedes) through a local contact. Most businesses will have a number of drivers on their books (or in reality in their mobile phones) that they will recommend to you.

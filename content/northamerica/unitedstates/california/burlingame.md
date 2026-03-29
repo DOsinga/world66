@@ -1,6 +1,8 @@
 ---
 title: "Burlingame"
 type: location
+latitude: 37.578097
+longitude: -122.34731
 ---
 
 Travel Guide

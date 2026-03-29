@@ -1,6 +1,8 @@
 ---
 title: "Fahaheel"
 type: location
+latitude: 29.081324
+longitude: 48.127512
 ---
 
 Travel Guide

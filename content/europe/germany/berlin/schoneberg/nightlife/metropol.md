@@ -4,6 +4,8 @@ type: poi
 address: "Nollendorfplatz 5"
 connections: "U Nollendorfplatz"
 type: "Dancing"
+latitude: 52.49894
+longitude: 13.352705
 ---
 
 Nice big dancing. Beware however, also occasional sex parties by the West disco on the ground floor, funk and mainstream in the main disco. On Sunday evening from 9pm gay evening. Winter Fr+Sa from 9pm, summer from 10pm, admission: 10-20 DM, student rates.

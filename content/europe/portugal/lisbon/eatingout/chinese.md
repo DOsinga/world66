@@ -1,13 +1,16 @@
 ---
 title: "Chinese"
 type: poi
+latitude: 38.746045
+longitude: -9.182685
 ---
 
 **Restaurants**
 
 **Hua Ta Li **
 
-As if you’re not dining in Lisbon, but rather somewhere in China. Quick service and excellent food. 
+As if you’re not dining in Lisbon, but rather somewhere in China. Quick service and excellent food.
+ 
 
 address: R. Bacalhoeiros, 109 - 115
 
@@ -15,7 +18,8 @@ tel: +35 21 887 91 70
 
 **Li Yaun **
 
-Undoubtedly the number one Chinese restaurant in Lisbon. 
+Undoubtedly the number one Chinese restaurant in Lisbon.
+ 
 
 address: R. Viriato, 23 B
 

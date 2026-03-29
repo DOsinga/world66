@@ -1,6 +1,8 @@
 ---
 title: "Cowichan Bay"
 type: location
+latitude: 48.741701
+longitude: -123.626404
 ---
 
 Travel Guide

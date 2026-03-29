@@ -1,6 +1,8 @@
 ---
 title: "New Brunswick"
 type: location
+latitude: 40.495137
+longitude: -74.443925
 ---
 
 If you are into theater, there is the State Theater on Livingston Avenue or various shows through Rutgers University.

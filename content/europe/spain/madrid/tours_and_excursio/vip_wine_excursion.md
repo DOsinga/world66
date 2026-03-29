@@ -5,6 +5,8 @@ address: "Madrid"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 40.416782
+longitude: -3.703507
 ---
 
 Then **Ribera del Duero** is not a new wine-producing region, since wine has been produced here for centuries, but until relatively recently there were only two bodegas whose wines were available outside the district -- Vega Sicilia and Penafiel. 

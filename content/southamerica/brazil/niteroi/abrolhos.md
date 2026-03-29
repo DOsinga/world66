@@ -1,6 +1,8 @@
 ---
 title: "Abrolhos"
 type: location
+latitude: -17.963404
+longitude: -38.70369
 ---
 
 We currently have no information about Abrolhos.

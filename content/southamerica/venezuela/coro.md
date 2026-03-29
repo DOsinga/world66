@@ -1,6 +1,8 @@
 ---
 title: "Coro"
 type: location
+latitude: 11.40558
+longitude: -69.667912
 ---
 
 We currently have no information about Coro.

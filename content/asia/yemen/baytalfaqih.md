@@ -1,6 +1,8 @@
 ---
 title: "Bayt al faqih"
 type: location
+latitude: 14.516353
+longitude: 43.324459
 ---
 
 We currently have no information about Bayt al faqih.

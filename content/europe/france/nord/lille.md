@@ -1,6 +1,8 @@
 ---
 title: "Lille"
 type: location
+latitude: 50.636565
+longitude: 3.063528
 ---
 
 To many people Lille sounds like a boring, industrial, coal mining town. Are they in for a suprise! Lille has got a vey nice historic centre, with old houses and mansions that look like those of [Brussels](/europe/belgium/brussels) or [Amsterdam](/europe/netherlands/amsterdam) , it's got narrow streets with nice bars and restaurants and it is very much alive.

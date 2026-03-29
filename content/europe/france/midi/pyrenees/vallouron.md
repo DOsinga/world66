@@ -1,6 +1,8 @@
 ---
 title: "Val Louron"
 type: location
+latitude: 42.791965
+longitude: 0.389952
 ---
 
 We currently have no information about Val Louron.

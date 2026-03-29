@@ -8,6 +8,8 @@ phone: "61 3 6261 4461"
 price: "$15 to $30"
 type: "International"
 url: "www.verandahsvalley.com.au"
+latitude: -42.780297
+longitude: 147.061487
 ---
 
 Verandahs is a capital city style restaurant in New Norfolk just 25 mins up-river from Hobart Local wine list, local produce, Genovese coffee.

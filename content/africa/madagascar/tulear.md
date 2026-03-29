@@ -1,6 +1,8 @@
 ---
 title: "Tulear"
 type: location
+latitude: -23.354173
+longitude: 43.66966
 ---
 
 We currently have no information about Tulear.

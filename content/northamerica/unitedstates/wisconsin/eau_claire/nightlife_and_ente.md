@@ -4,6 +4,8 @@ type: section
 address: "422 Water Street"
 type: "Clubs and dancing"
 url: "www.house-of-rock.com"
+latitude: 42.574643
+longitude: -71.79001
 ---
 
 Live Music Bars - House of Rock on Water Street, Stone's Throw located downtown

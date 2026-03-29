@@ -1,6 +1,8 @@
 ---
 title: "Assam"
 type: location
+latitude: 26.407384
+longitude: 93.25513
 ---
 
 Assam is the land of the Tea Gardens. There are nearly 750 tea plantations in the state. Assam contributes 15.6 %of the world's tea production and 55%of the country's output. Assam is also one of the wettest parts of the country because the highest rainfall in the world is recorded in Assam. It varies between 178 to 305 cms. All the rainfall is concentrated in the four months from June to September. Geographically the state can be divided into two major physical regions - the Barak Valley and the Brahmaputra Valley. Assam is dominated by the Brahmaputra river. 

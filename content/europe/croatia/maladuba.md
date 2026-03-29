@@ -1,6 +1,8 @@
 ---
 title: "Mala Duba"
 type: location
+latitude: 43.17686
+longitude: 17.170397
 ---
 
 Mala Duba* *is situated 20 km southeastern of Makarska, the main town in Makarska Riviera and famous tourist resort in Croatia, Europe. It is also 80 km southern from Split ( capital of Dalmatia ) and 120 km northern from Dubrovnik. It is surrounded from north with mountain Biokovo ( Sutvid 1160 m ) and from south with island Hvar. Summer period start in June and last at the end of September. It is ideal place for family holiday. 

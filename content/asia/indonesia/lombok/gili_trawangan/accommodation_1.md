@@ -5,6 +5,8 @@ accessibility: "by boot"
 address: "Gili Trawangan"
 type: "First Class"
 url: "www.hotelombak.com"
+latitude: -8.35034
+longitude: 116.036262
 ---
 
 Hotel Villa Ombak

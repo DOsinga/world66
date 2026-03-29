@@ -5,6 +5,8 @@ address: "Eendrachtsweg 29"
 phone: "+31 (0)10-4121708"
 type: "Coffee Shops"
 zipcode: "3012LB"
+latitude: 51.808785
+longitude: 4.025142
 ---
 
 type: Coffee Shops

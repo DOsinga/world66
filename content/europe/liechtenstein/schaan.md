@@ -1,6 +1,8 @@
 ---
 title: "Schaan"
 type: location
+latitude: 47.16634
+longitude: 9.510312
 ---
 
 We currently have no information about Schaan.

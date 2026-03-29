@@ -4,6 +4,8 @@ type: section
 address: "Skolgatan 1"
 phone: "+46 511 32580"
 type: "Tourist information"
+latitude: 57.699334
+longitude: 11.957991
 ---
 
 Some miscellaneous info

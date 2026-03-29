@@ -6,6 +6,8 @@ email: "kh.beselia@concordtravel.ge"
 phone: "+99532 220960"
 type: "Other"
 url: "www.concordtravel.ge"
+latitude: 41.706961
+longitude: 44.777093
 ---
 
 **Concord Travel Georgia**

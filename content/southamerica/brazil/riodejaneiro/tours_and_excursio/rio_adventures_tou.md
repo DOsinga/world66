@@ -5,6 +5,8 @@ address: "rio de janeiro"
 email: "info@rioadventures.com"
 phone: "55 21 2705 5747"
 url: "www.rioadventures.com"
+latitude: -22.911014
+longitude: -43.209373
 ---
 
 Adventure Tour Operator located in Rio de Janeiro city, Brazil. Provides all outdoor activities one can imagine. Hiking , rock climbing, paragliding, hang gliding, skydiving, tree canopy tour, jungle tours, rafting, scuba diving, rappelling, bodyboarding, beach tours, city tours and else.

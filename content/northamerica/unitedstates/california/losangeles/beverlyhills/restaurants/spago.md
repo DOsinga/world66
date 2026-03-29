@@ -5,6 +5,8 @@ address: "176 N. Cañon Drive, Beverly Hills, CA, 90210"
 phone: "+1-310-385-0880"
 type: "First Class"
 url: "www.wolfgangpuck.com"
+latitude: 34.067665
+longitude: -118.397807
 ---
 
 Wolfgangs Puck's flagship is worth a splurge, and you can say you ate

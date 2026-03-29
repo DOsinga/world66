@@ -1,6 +1,8 @@
 ---
 title: "Jaén (province)"
 type: location
+latitude: -5.711312
+longitude: -78.817177
 ---
 
 Travel Guide

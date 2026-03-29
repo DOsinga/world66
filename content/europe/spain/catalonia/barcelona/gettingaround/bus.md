@@ -1,6 +1,8 @@
 ---
 title: "Bus"
 type: poi
+latitude: 28.046754
+longitude: -16.582668
 ---
 
 City buses run daily from 5:30am to 11:30pm and the route maps are displayed at the bus-stops. They do not drive very carefully, like the rest of the traffic in Barcelona, so beware. The ones with a red band always have a stop at a central square and blue bands indicate night buses. The single ticket costs 1,10€, so it's better to take a 10-ticket card for 6,00€. If you will stay just a couple of days and want to use it a lot a unipersonal ticket for 2 days costs 8,40€ and the 3 days card 11,80€ 

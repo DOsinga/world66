@@ -2,6 +2,8 @@
 title: "Hamilton Street Railway"
 type: poi
 url: "www.myhamilton.ca"
+latitude: 43.185225
+longitude: -79.903466
 ---
 
 The Hamilton Street Railway is the primary provider of public transportation for the City of Hamilton and Regional Municipality of Hamilton-Wentworth, including Stoney Creek, Dundas, and Ancaster.

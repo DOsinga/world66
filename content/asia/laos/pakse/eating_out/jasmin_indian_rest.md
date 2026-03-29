@@ -4,6 +4,8 @@ type: poi
 address: "Road no. 13, Pakse"
 price: "About US$1.50 per dish"
 type: "Indian and Pakistani"
+latitude: 15.091144
+longitude: 105.8325
 ---
 
 Pleasant tables on the sidewalk and inside. Good service. All the usual Indian fare with vegetarian a specialty.

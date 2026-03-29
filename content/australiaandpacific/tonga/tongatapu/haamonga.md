@@ -1,6 +1,8 @@
 ---
 title: "Ha'amonga"
 type: location
+latitude: -21.13565
+longitude: -175.046971
 ---
 
 Ha'amonga 'a Maui -- is an ancient trilathon at "Nuitoua" 32 km from Nuka'alofa. The name translated, "Burden of God Mau." Two upright pillars of coral support a central lintel weighing more than 8900 kilos. Thought to be the gateway to an old royal compound..., the arch now forms the entrance to recently created archeological reserve. Nearby is a large upright slab, said the be the backrest of the Tui'itatui who reigned about 1200 AD. 

@@ -1,6 +1,8 @@
 ---
 title: "Vesima"
 type: location
+latitude: 44.418266
+longitude: 8.714812
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ithra"
 type: location
+latitude: 31.385867
+longitude: 37.623931
 ---
 
 We currently have no information about Ithra.

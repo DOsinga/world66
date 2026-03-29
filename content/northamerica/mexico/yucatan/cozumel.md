@@ -1,6 +1,8 @@
 ---
 title: "Cozumel"
 type: location
+latitude: 20.43206
+longitude: -86.920691
 ---
 
 Cozumel is a small island just of the coast of [Yucatan](/northamerica/mexico/yucatan). It is an ideal place to go scuba diving. It has some of the best underwater scenery in the world. 

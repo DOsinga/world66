@@ -1,6 +1,8 @@
 ---
 title: "Diekirch"
 type: location
+latitude: 49.86909
+longitude: 6.160055
 ---
 
 We currently have no information about Diekirch.

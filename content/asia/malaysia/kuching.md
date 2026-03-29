@@ -1,6 +1,8 @@
 ---
 title: "Kuching"
 type: location
+latitude: 1.559756
+longitude: 110.345397
 ---
 
 Kuching is the capital of [Sarawak](/asia/malaysia/sarawak). It is an attractive exotic city with modern buildings that blend in nicely with structures from colonial days and colorful Malay and Chinese shop houses.

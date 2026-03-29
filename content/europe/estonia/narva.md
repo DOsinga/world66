@@ -1,6 +1,8 @@
 ---
 title: "Narva"
 type: location
+latitude: 59.376746
+longitude: 28.191931
 ---
 
 We currently have no information about Narva.

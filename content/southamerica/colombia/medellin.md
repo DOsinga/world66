@@ -1,6 +1,8 @@
 ---
 title: "Medellin"
 type: location
+latitude: 6.269732
+longitude: -75.60256
 ---
 
 Medellin is probably mostly know for the same named cocaine cartel run by Pablo Escobar, but that is now all history. 

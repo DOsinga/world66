@@ -4,6 +4,8 @@ type: poi
 address: "kabul afghanistan"
 email: "baray_2008@hotmail.com"
 phone: "0700488880"
+latitude: 34.52695
+longitude: 69.185058
 ---
 
 heloo

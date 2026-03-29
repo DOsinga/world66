@@ -1,6 +1,8 @@
 ---
 title: "Pawleys Island"
 type: location
+latitude: 33.429349
+longitude: -79.121591
 ---
 
 Travel Guide

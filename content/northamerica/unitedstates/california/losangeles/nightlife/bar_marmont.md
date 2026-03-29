@@ -7,6 +7,8 @@ email: "agrandinetti@chateaumarmont.com"
 phone: "323-650-0575"
 type: "Wine bars"
 url: "www.chateaumarmont.com"
+latitude: 34.098195
+longitude: -118.367391
 ---
 
 The exclusive Bar Marmont, adjacent to the world famous Chateau Marmont is a must-see before you leave L.A. Stellar service, a sophisticated, yet hip environment, and some of the most magnificent signature cocktails in town are just a few of the things that will make you fall in love with Bar Marmont over and over again.

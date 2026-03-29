@@ -1,6 +1,8 @@
 ---
 title: "Goytepe"
 type: location
+latitude: 39.119731
+longitude: 48.595135
 ---
 
 Travel Guide

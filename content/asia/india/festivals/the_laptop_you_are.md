@@ -5,6 +5,8 @@ address: "P-545 Lake Road"
 email: "rightbooks@rightflorist.co.in"
 phone: "03324650926"
 url: "www.rightgadgets.in"
+latitude: 21.079025
+longitude: 105.79445
 ---
 
 Laptops are the present day portable gadgets that not just come real handy

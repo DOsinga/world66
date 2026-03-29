@@ -1,6 +1,8 @@
 ---
 title: "Christmas"
 type: location
+latitude: 53.027271
+longitude: 20.892973
 ---
 
 **Christmas** 

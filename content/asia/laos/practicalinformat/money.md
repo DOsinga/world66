@@ -1,6 +1,8 @@
 ---
 title: "Money"
 type: poi
+latitude: 17.966854
+longitude: 102.615021
 ---
 
 There is no ATMs in Laos so make sure that you bring enough cash with you.

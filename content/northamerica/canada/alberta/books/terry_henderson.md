@@ -3,6 +3,8 @@ title: "MUTE"
 type: poi
 author: "Brad Steel"
 isbn: "0973642106"
+latitude: 46.519514
+longitude: -76.43683
 ---
 
 **Set largely in the province of Alberta**, Brad Steel's MUTE is a

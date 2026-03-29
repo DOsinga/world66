@@ -1,6 +1,8 @@
 ---
 title: "Coorg"
 type: location
+latitude: 12.382733
+longitude: 75.664072
 ---
 
 Travel Guide

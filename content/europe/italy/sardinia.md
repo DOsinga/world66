@@ -1,6 +1,8 @@
 ---
 title: "Sardinia"
 type: location
+latitude: 40.091281
+longitude: 9.030577
 ---
 
 When approaching the island of Sardinia by boat, you’ll be impressed by the colors of its rocks, ranging from black to basalt, from silver to granite and from red to porphyry. Sardinia is a very striking island, not in the least because of its History : Every Mediterranean power has controlled the island at one time —Romans, Phoenicians, Spaniards and even a pope. Present-day Sardinia is the favourite holiday spot of Italy’s extremely wealthy (which explains Sardinia’s high prices). 

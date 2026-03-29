@@ -8,6 +8,8 @@ opening_hours: "Kimberly"
 phone: "Kimberly"
 type: "1"
 url: "hdlighthouse.org"
+latitude: 44.271709
+longitude: -88.340081
 ---
 
 Thank you!

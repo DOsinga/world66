@@ -1,6 +1,8 @@
 ---
 title: "Old Fort"
 type: location
+latitude: 35.629337
+longitude: -82.181083
 ---
 
 Travel Guide

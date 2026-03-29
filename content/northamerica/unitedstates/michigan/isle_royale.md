@@ -1,6 +1,8 @@
 ---
 title: "Isle Royale"
 type: location
+latitude: 48.007382
+longitude: -88.828987
 ---
 
 Travel Guide

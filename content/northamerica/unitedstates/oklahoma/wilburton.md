@@ -1,6 +1,8 @@
 ---
 title: "Wilburton"
 type: location
+latitude: 34.918702
+longitude: -95.309781
 ---
 
 Travel Guide

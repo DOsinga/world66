@@ -7,6 +7,8 @@ phone: "972-991-6684"
 price: "$7 to $11"
 type: "American"
 url: "www.studiomoviegrill.com"
+latitude: 42.203513
+longitude: -89.107377
 ---
 
 Dinner and a Movie in one pleasant location with great prices on both.

@@ -1,6 +1,8 @@
 ---
 title: "Casa Tumi"
 type: location
+latitude: -29.608322
+longitude: 27.762649
 ---
 
 Travel Guide

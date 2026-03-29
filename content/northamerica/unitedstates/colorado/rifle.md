@@ -1,6 +1,8 @@
 ---
 title: "Rifle"
 type: location
+latitude: 39.534702
+longitude: -107.78312
 ---
 
 We currently have no information about .

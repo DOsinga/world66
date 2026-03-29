@@ -1,6 +1,8 @@
 ---
 title: "Gran Roque"
 type: location
+latitude: 11.947856
+longitude: -66.676558
 ---
 
 Travel Guide

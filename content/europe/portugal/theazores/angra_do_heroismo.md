@@ -1,6 +1,8 @@
 ---
 title: "Angra do Heroismo"
 type: location
+latitude: 38.659317
+longitude: -27.219558
 ---
 
 Travel Guide

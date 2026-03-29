@@ -1,6 +1,8 @@
 ---
 title: "qom"
 type: location
+latitude: 34.642294
+longitude: 50.880118
 ---
 
 Travel Guide

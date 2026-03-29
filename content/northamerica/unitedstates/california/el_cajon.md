@@ -1,6 +1,8 @@
 ---
 title: "El Cajon"
 type: location
+latitude: 32.794773
+longitude: -116.962526
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Dalvíkurbyggð"
 type: location
+latitude: 65.893406
+longitude: -18.563879
 ---
 
 Travel Guide

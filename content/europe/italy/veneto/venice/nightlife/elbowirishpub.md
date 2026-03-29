@@ -5,6 +5,8 @@ address: "Cannaregio 3847, Venezia"
 opening_hours: "every evening"
 phone: "041 5239930"
 type: "Pubs"
+latitude: 45.441541
+longitude: 12.334142
 ---
 
 Cozy and very popular Irish pub. Inexpensive and snuggy. Good beer, good ambiance. Great place to watch football and down a few pints. And there's also a Kebab shop right next door for a deliscious snack.

@@ -1,6 +1,8 @@
 ---
 title: "Pune"
 type: location
+latitude: 18.521374
+longitude: 73.854507
 ---
 
 Pune a city of culture.
@@ -65,7 +67,10 @@ Osho Commune:*** Pune has become a international tourist spot because of the Osh
 
 
 
-***Pashan Lake:*** This lake is situated 12 Kms off the road to N.D.A. It is an Orinthologists delight, as it is the favourite haunt of a number of migratory and residential birds. For birdwatching head towards this little lake.   
+***Pashan Lake:*** This lake is situated 12 Kms off the road to N.D.A. It is an Orinthologists delight, as it is the favourite haunt of a number of migratory and residential birds. For birdwatching head towards this little lake.
+ 
+ 
+ 
 
 ***Pataleshwar Caves:*** This 8th century rock cut temple is hidden in the heart of the city in the midst of modern high rise structures and developments, at Shivajinagar. Reminiscent of Ellora, the temple has been carved out of a single boulder of awe inspiring size which includes massive pillars, a Shiva shrine and a Nandi bull. the temple is used by worshippers even today.
 

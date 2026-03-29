@@ -1,6 +1,8 @@
 ---
 title: "Ilsan Beach"
 type: poi
+latitude: 35.495446
+longitude: 129.430873
 ---
 
 Upon arriving in the area you may feel like

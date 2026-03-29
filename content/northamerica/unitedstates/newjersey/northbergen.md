@@ -1,6 +1,8 @@
 ---
 title: "North Bergen"
 type: location
+latitude: 40.804267
+longitude: -74.012084
 ---
 
 We currently have no information about North Bergen.

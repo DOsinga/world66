@@ -1,6 +1,8 @@
 ---
 title: "San Luis Potosi"
 type: location
+latitude: 22.5
+longitude: -100.494914
 ---
 
 **SAN LUIS POTOSI**, elevation 6,157', capital of the state of the same name, dates from the late 1500s when it was established as a mining settlement. Today is is a sprawling city with more than half a million residents, and the local economy is no longer based on gold, silver, lead and copper production.

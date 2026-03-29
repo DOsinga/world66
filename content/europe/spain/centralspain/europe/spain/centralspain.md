@@ -1,6 +1,8 @@
 ---
 title: "Around Madrid"
 type: location
+latitude: 40.519041
+longitude: -3.902174
 ---
 
 The old region Castile and Leon encompasses two ancient kingdoms of the meseta- a flat semi-arid table-top 700-1000 m above sea level. Here they have nine months of winter and -as they say it in Catalan, three months of hell. Besides all this Castile and Leon contains much farmland, splendid cathedrals and palaces. Cities of interest here are

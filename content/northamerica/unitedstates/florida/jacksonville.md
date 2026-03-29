@@ -1,6 +1,8 @@
 ---
 title: "Jacksonville"
 type: location
+latitude: 30.326225
+longitude: -81.657918
 ---
 
 Travel Guide

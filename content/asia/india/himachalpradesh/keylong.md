@@ -1,6 +1,8 @@
 ---
 title: "Keylong"
 type: location
+latitude: 32.57134
+longitude: 77.03452
 ---
 
 Keylong is the main town of Lahaul-Spiti district of Himachal Pradesh.

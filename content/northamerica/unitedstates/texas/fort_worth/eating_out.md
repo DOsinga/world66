@@ -7,6 +7,8 @@ phone: "817-332-8834"
 price: "$2.25-$9.00 for food, good and cheap!"
 type: "Vegetarian"
 url: "www.spiraldiner.com"
+latitude: 32.73081
+longitude: -97.340127
 ---
 
 There is a wide selection of quality food in Fort Worth, from vegan restaurants to indian buffets, from all-night pancake houses to little mexican taquerias.

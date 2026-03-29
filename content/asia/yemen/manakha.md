@@ -1,6 +1,8 @@
 ---
 title: "Manakha"
 type: location
+latitude: 15.074217
+longitude: 43.741564
 ---
 
 We currently have no information about Manakha.

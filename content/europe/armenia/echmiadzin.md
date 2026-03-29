@@ -1,6 +1,8 @@
 ---
 title: "Echmiadzin"
 type: location
+latitude: 40.162776
+longitude: 44.293166
 ---
 
 Echmiadzin is the site of one of the oldest churches of Christianity. The city was the capital of the country for almost two centuries. Today, Echmiadzin remains the spiritual capital of Armenia, as it is the home of the Supreme Catholicos, the spiritual leader of the Armenian Church. 

@@ -1,6 +1,8 @@
 ---
 title: "Cap skirring"
 type: location
+latitude: 12.388451
+longitude: -16.738502
 ---
 
 We currently have no information about Cap skirring.

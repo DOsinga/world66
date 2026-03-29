@@ -2,6 +2,8 @@
 title: "Transportation"
 type: poi
 type: "Tourist information"
+latitude: 38.87582
+longitude: -77.00285
 ---
 
 The best way to travel in New York City is using mass transportation. You can view the subway maps here: http://www.mta.nyc.ny.us/nyct/maps/submap.htm. Depending on how many days you are visiting NYC, purchasing the Unlimited Ride MetroCard will allow you to board the subway and buses, cheaper than a Pay-Per-Ride. You can also purchase an One Day Fun Pass.

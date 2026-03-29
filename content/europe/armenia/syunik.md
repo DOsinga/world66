@@ -1,6 +1,8 @@
 ---
 title: "Syunik"
 type: location
+latitude: 39.328141
+longitude: 46.15303
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Virginia"
 type: location
+latitude: 37.123224
+longitude: -78.492772
 ---
 
 Travel Guide

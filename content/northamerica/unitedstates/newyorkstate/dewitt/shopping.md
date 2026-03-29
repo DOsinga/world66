@@ -4,6 +4,8 @@ type: section
 address: "Erie Boulevard East"
 type: "Shopping centers and malls"
 zipcode: "13214"
+latitude: 43.052621
+longitude: -76.111288
 ---
 
 Erie Boulevard is the place to find your shopping in DeWitt, NY.

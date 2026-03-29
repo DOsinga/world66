@@ -1,6 +1,8 @@
 ---
 title: "Ouargla"
 type: location
+latitude: 31.9445
+longitude: 5.321781
 ---
 
 We currently have no information about Ouargla.

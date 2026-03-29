@@ -1,6 +1,8 @@
 ---
 title: "Kemijarvi"
 type: location
+latitude: 66.716118
+longitude: 27.433353
 ---
 
 Kemijarvi is a small town in the North of Finland located on a beautifully typical Finnish lake. The town centre itself is quite small, offering amongst other things, a scattering of restaurants and pubs, a good selection of supermarkets and one excellent hat shop!!

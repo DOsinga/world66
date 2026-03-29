@@ -8,6 +8,8 @@ opening_hours: "10 am - 6 pm"
 phone: "0977-1-4700085"
 type: "Hotspots"
 url: "www.nepal-himalaya.com"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 We are government authorized Nepal Trekking Agency & Nepal Tour Operator of Nepal.

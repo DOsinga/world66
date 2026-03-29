@@ -1,6 +1,8 @@
 ---
 title: "Alaminos"
 type: location
+latitude: 16.155386
+longitude: 119.97922
 ---
 
 Travel Guide

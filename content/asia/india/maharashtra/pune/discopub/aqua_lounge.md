@@ -1,6 +1,8 @@
 ---
 title: "Aqua Lounge"
 type: location
+latitude: 12.863825
+longitude: 77.553352
 ---
 
 In Auroa towers

@@ -1,6 +1,8 @@
 ---
 title: "Concepcion"
 type: location
+latitude: -23.1775
+longitude: -57.1675
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Skikda"
 type: location
+latitude: 36.880132
+longitude: 6.907736
 ---
 
 Travel Guide

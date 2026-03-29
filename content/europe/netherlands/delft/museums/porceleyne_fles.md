@@ -5,6 +5,8 @@ address: "Rotterdamseweg 196"
 email: "tourism@royaldelft.com"
 phone: "tel. 015 - 251 20 30"
 url: "www.royaldelft.com"
+latitude: 52.001492
+longitude: 4.366873
 ---
 
 The Porceleyne Fles (aka Royal Delft) is not really a museum: it is a working factory of Delft Blue or Delftware, the traditional pottery the city is famous for.

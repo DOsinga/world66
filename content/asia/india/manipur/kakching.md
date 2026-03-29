@@ -1,6 +1,8 @@
 ---
 title: "Kakching"
 type: location
+latitude: 24.497483
+longitude: 93.983554
 ---
 
 Travel Guide

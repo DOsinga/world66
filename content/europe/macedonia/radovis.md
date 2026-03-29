@@ -1,6 +1,8 @@
 ---
 title: "Radovis"
 type: location
+latitude: 41.639832
+longitude: 22.464589
 ---
 
 Travel Guide

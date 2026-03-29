@@ -4,6 +4,8 @@ type: poi
 address: "Jalan Telawi 3, Bangsar Baru"
 phone: "284-2446"
 type: "Dancing"
+latitude: 3.13072
+longitude: 101.671069
 ---
 
 type: Dancing

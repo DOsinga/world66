@@ -1,6 +1,8 @@
 ---
 title: "Kaga"
 type: location
+latitude: 36.302762
+longitude: 136.315116
 ---
 
 Travel Guide

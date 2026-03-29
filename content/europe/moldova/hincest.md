@@ -1,6 +1,8 @@
 ---
 title: "Hincest"
 type: location
+latitude: 46.859126
+longitude: 28.523544
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "COSTA BRAVA"
 type: location
+latitude: 41.703767
+longitude: 2.941594
 ---
 
 Travel Guide

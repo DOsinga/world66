@@ -1,6 +1,8 @@
 ---
 title: "Hyde Park"
 type: poi
+latitude: 51.507489
+longitude: -0.162207
 ---
 
 Hyde Park, together with Kensington Gardens to the west, is the largest of the three royal parks. On the northeast side is Speakers' Corner, where people are free to speak their mind--as long as they don't debase the Queen. 

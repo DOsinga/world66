@@ -5,6 +5,8 @@ address: "124, Haram street, Giza, Egypt"
 email: "hend@egyptonlinetours.net"
 phone: "002 0111029094"
 url: "www.egyptonlinetours.net"
+latitude: 29.781817
+longitude: 31.284695
 ---
 
 Get excited by a **fantastic excursion** from **Safaga Port to enjoy a snorkeling day trip in Hurghada on the red sea**, which is full of corals and magnificent colorful fish with a chance to swim with dolphins.

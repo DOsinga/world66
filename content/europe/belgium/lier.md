@@ -1,6 +1,8 @@
 ---
 title: "Lier"
 type: location
+latitude: 51.131069
+longitude: 4.569652
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ email: "blossoms.chennai@yahoo.com"
 phone: "9886138863"
 type: "Antiques"
 url: "www.chennaiblossoms.com"
+latitude: 13.083694
+longitude: 80.270186
 ---
 
 http://www.chennaiblossoms.com

@@ -1,6 +1,8 @@
 ---
 title: "Mrljane"
 type: location
+latitude: 43.966521
+longitude: 15.356302
 ---
 
 Travel Guide

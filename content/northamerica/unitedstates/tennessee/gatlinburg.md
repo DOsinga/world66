@@ -1,6 +1,8 @@
 ---
 title: "Gatlinburg"
 type: location
+latitude: 35.714259
+longitude: -83.510164
 ---
 
 Most people either love Gatlinburg or they hate it - or both. Thousands - perhaps millions - of people visit this little mountain town once or several times a year and think it is the neatest place in the world. Often first time visitors, who expected to find a quaint little out-of-the-way mountain village, arrive in Gatlinburg and are shocked by the congested glare. Gatlinburg is literally within footsteps of the most visited National Park in the United States, The Great Smoky Mountains, and has been in a non-stop boom ever since the formation of the Park, in the 1930s. However, expansion of the town is severely limited by the mountains and surrounding parkland. Not to be deterred, developers just keep tearing down old structures and building bigger and better ones. First the development was to provide accomodations and sell hand-made mountain crafts to visitors to the park. Today, sad to say, many people come for the tourist attractions of Gatlinburg and never give the Park a second look.

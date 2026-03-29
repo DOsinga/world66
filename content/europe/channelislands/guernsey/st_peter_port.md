@@ -1,6 +1,8 @@
 ---
 title: "St Peter Port"
 type: location
+latitude: 49.457841
+longitude: -2.534967
 ---
 
 The main town, home to 15,000 people, is the home of the island's main

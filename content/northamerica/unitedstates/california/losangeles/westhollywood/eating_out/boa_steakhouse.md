@@ -5,6 +5,8 @@ address: "8462 W. Sunset Blvd."
 phone: "+1 323-650-8383"
 type: "American"
 url: "www.boasteak.com"
+latitude: 34.094276
+longitude: -118.375058
 ---
 
 Upscale, post-modern steakhouse located inside The Grafton Hotel -

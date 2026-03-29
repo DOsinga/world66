@@ -1,6 +1,8 @@
 ---
 title: "Tula"
 type: poi
+latitude: 22.947882
+longitude: -99.805588
 ---
 
 The capital of the Toltec is situated outside the town of Tula Allende

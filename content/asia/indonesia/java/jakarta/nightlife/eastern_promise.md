@@ -8,6 +8,8 @@ email: "lens@bugils.com"
 phone: "7179 0151"
 type: "Pubs"
 url: "www.bugilsnews.com"
+latitude: -6.255239
+longitude: 106.810785
 ---
 
 **Eastern Promise** is one of Kemang’s most popular hangouts for expatriates and Indonesians alike. The atmospheric front bar has a darts corner and 9ft billiards table, free WI-FI internet connection, the daily Guardian Newspaper and Sunday Times. The restaurant offers British/Indian curries (the Chicken Tika Masala is a must try!), fresh homemade meat pies, full breakfasts and a wide range of snacks.

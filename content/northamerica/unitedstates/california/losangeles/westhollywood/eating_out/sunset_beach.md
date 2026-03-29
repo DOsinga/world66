@@ -5,6 +5,8 @@ address: "8240 W. Sunset Boulevard, West Hollywood, CA, 90046"
 phone: "+1-323-654-8100"
 type: "American"
 url: "www.sunsetbeachla.com"
+latitude: 34.097214
+longitude: -118.368517
 ---
 
 Formerly the home of Dublin's, an Irish-themed bar and weekend hotspot, Sunset Strip officially opened on November 28th of 2006. This revamped nightlife attraction on the Sunset Strip is a glitzy, beach-themed restaurant/lounge and

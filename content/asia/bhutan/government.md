@@ -1,6 +1,8 @@
 ---
 title: "Government"
 type: location
+latitude: 27.476703
+longitude: 89.634836
 ---
 
 Bhutan is a monarchy. King Jigme Singye Wangchuk is the fourth hereditary king of Bhutan. He is a very good king whose top priority has always been the welfare and happiness of the people. He enjoys very great popularity among all sections of his people. 

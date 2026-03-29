@@ -2,6 +2,8 @@
 title: "La Gran Plaza Mall"
 type: poi
 type: "Shopping centers and malls"
+latitude: 20.673648
+longitude: -103.405004
 ---
 
 While no one on vacation wants to go to a mall, sometimes you just gotta - and there are people that actually come to live in Merida for a few months at a time so...

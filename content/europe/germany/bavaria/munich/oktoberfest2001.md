@@ -1,6 +1,8 @@
 ---
 title: "Oktoberfest"
 type: location
+latitude: 48.131489
+longitude: 11.549755
 ---
 
 **September 18th to October 3rd 2004**

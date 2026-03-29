@@ -5,6 +5,8 @@ address: "1100 South Hayes Street Arlington, VA 22202"
 phone: "(703) 415-2400"
 type: "Shopping centers and malls"
 url: "www.simon.com"
+latitude: 38.863131
+longitude: -77.060622
 ---
 
 Between the Courthouse and Clarendon metro stops is the Market Commons. This mixed-use space combines retail outlets, apartments and townhouses.

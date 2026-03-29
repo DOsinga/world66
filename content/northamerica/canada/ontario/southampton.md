@@ -1,6 +1,8 @@
 ---
 title: "Southampton"
 type: location
+latitude: 44.495739
+longitude: -81.371584
 ---
 
 Travel Guide

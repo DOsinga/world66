@@ -1,11 +1,15 @@
 ---
 title: "Live Music"
 type: poi
+latitude: 52.312261
+longitude: 4.944217
 ---
 
 Amsterdam has many live music venues, ranging from small intimate podiums as the Kapitein Zeppos and OT301 to the mega stage of The Amsterdam Arena, home of the Ajax soccer club. In-between there's a wide range featuring all sorts of gigs from world music to experimental jazz and from armature jam sessions to surprise shows by super bands like The Stones.
 
- Check the uitlijn agenda 
+
+ Check the uitlijn agenda
+ 
 
 **Recommendations**
 
@@ -57,7 +61,8 @@ tel: +31 (0)20 6221330
 
 **Cafe De Koe**
 
-Live music bar focussed on Soul, kitchen open til 11pm.  
+Live music bar focussed on Soul, kitchen open til 11pm. 
+ 
 
 address: Marnixstraat 381
 

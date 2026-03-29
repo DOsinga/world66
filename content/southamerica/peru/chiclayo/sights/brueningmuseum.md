@@ -7,6 +7,8 @@ opening_hours: "9 am to 5 pm, except Mondays"
 phone: "+51 074 283977"
 type: "Hotspots"
 url: "www.museosipan.com"
+latitude: -6.705466
+longitude: -79.900475
 ---
 
 In nearby [Lambayeque](/southamerica/peru/lambayeque). Great collection of pre-colombian artifacts from the Pyramids of Sipan.

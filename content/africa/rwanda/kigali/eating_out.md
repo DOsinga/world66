@@ -4,6 +4,8 @@ type: section
 address: "Airport Road"
 price: "5,000"
 type: "Chinese"
+latitude: 23.843144
+longitude: 90.405303
 ---
 
 Kigali offers 2 types of eateries: international restaurants catering mostly to foreigners and local establishments serving brochettes and buffets. Street food is non existent.

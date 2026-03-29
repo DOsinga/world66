@@ -1,6 +1,8 @@
 ---
 title: "Pallandri"
 type: location
+latitude: 33.718111
+longitude: 73.688286
 ---
 
 Travel Guide

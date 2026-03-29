@@ -1,6 +1,8 @@
 ---
 title: "Tagaytay"
 type: location
+latitude: 14.099261
+longitude: 120.939182
 ---
 
 Travel Guide

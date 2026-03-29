@@ -2,6 +2,8 @@
 title: "By Sea"
 type: poi
 type: "By Sea"
+latitude: 50.912897
+longitude: -2.928854
 ---
 
 Not generally reccomended - There is no passenger ferry service into Cardiff; although freight will leave from time to time.

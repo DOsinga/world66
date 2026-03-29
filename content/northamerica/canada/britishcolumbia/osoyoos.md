@@ -1,6 +1,8 @@
 ---
 title: "Osoyoos"
 type: location
+latitude: 49.033333
+longitude: -119.466667
 ---
 
 Osoyoos is a pretty little town situated in a desert in the middle of the southern Okanagan region. This area is well-known for the high quality of its local wines. Osoyoos may be the most northerly point ever reached by the Spanish Conquistadors during their explorations of North America in the 1500s. 

@@ -1,6 +1,8 @@
 ---
 title: "Mitad del Mundo"
 type: location
+latitude: -1.260787
+longitude: -78.609882
 ---
 
 Travel Guide

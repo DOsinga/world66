@@ -6,6 +6,8 @@ email: "virginie@lacachemirerie.com"
 phone: "0033145486380"
 type: "Speciality shops"
 url: "www.lacachemirerie.com"
+latitude: 48.853017
+longitude: 2.331346
 ---
 
 LA CACHEMIRERIE Paris offers fashionable basics for men and women in 100% pure cashmere and cashmere blends. Only available at LA CACHEMIRERIE Boutique in the atmospheric Saint-Germain-des-Prés quartier in Paris. Prices from €90 to €210.

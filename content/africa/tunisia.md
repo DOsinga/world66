@@ -1,6 +1,8 @@
 ---
 title: "Tunisia"
 type: location
+latitude: 33.843941
+longitude: 9.400138
 ---
 
 Tunisia is more than an excellent place to play golf in the winter: on a small surface you can find real deserts with beuatiful oasis, old cities, lots of carpets and fine beaches. Combined with the good climate, warm people and good opportunities for a relaxed holiday makes Tunisia a popular destination. 

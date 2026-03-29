@@ -1,6 +1,8 @@
 ---
 title: "Amberd"
 type: location
+latitude: 40.239984
+longitude: 44.271155
 ---
 
 Travel Guide

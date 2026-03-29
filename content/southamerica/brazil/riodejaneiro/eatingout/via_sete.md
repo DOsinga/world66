@@ -5,6 +5,8 @@ address: "Rua Garcia D' Ávila, 125 - Ipanema"
 phone: "(55) (21) 2512-8100"
 type: "International"
 url: "www.viasete.com.br"
+latitude: -22.98348
+longitude: -43.209185
 ---
 
 Via Sete has a great atmosphere! I was on a diet, while in Brazil, and there I could choose lots of light foods to eat. There they offer great plates made with salads and grilled meat. To drink, I ordered strawberry frozen, that was made with 100% of fruit.

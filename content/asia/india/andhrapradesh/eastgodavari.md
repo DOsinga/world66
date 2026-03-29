@@ -1,6 +1,8 @@
 ---
 title: "East Godavari"
 type: location
+latitude: 16.995664
+longitude: 81.715438
 ---
 
 We currently have no information about East Godavari.

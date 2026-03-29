@@ -4,6 +4,8 @@ type: location
 address: "300 West Georgia"
 type: "Clubs and dancing"
 url: "uqevents.com"
+latitude: 34.738778
+longitude: -82.040346
 ---
 
 The

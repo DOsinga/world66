@@ -1,6 +1,8 @@
 ---
 title: "Pic Carlit"
 type: location
+latitude: 42.569841
+longitude: 1.932093
 ---
 
 This is not one of the highest Pyrannean peaks at a little under 3,000 metres but it is the highest in its area , the Eastern Pyrenees near the ski resort of Font-Romeu. It seems to be in a micro-climate area which gives it more sun than many of the peaks. 

@@ -1,6 +1,8 @@
 ---
 title: "Apollo"
 type: poi
+latitude: 52.201976
+longitude: 5.388661
 ---
 
 **Leonie van Krimpen :** Een leuk restaurantje op een leuke lokatie in het centrum van Leiden dat helaas wel vaak onverwachts dicht kan zijn. Het eten is wat je verwacht bij goed Grieks eten, veel vlees en veel knoflook. 

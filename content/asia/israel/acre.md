@@ -1,6 +1,8 @@
 ---
 title: "Acre"
 type: location
+latitude: 32.928173
+longitude: 35.075638
 ---
 
 Acre had a long history behind it when the Crusaders made it one of thier most important harbour towns of the Holy Land. 

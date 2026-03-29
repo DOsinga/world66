@@ -7,6 +7,8 @@ phone: "214-526-1515"
 price: "Varies $1 to ?"
 type: "French"
 url: "www.eatzis.com"
+latitude: 32.811018
+longitude: -96.806469
 ---
 
 ### [Eatzi's Bakery, Market, & Restaurant](/northamerica/unitedstates/texas/dallas/eatingout/eatzis_bakery_ma)

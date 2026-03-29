@@ -1,6 +1,8 @@
 ---
 title: "Suweida"
 type: location
+latitude: 32.738657
+longitude: 36.899909
 ---
 
 We currently have no information about Suweida.

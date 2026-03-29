@@ -5,6 +5,8 @@ address: "1365 Rue Ontario Est"
 phone: "514.527.7067"
 price: "20-30$ per meal"
 type: "Portuguese"
+latitude: 45.523183
+longitude: -73.561288
 ---
 
 Great choices of fish and seafood and grilled meats. Warm atmosphere with a mix between Portugal and modern ambiance. Great choice of porto ( 100 different brands)

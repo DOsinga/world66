@@ -3,6 +3,8 @@ title: "U ZELENE ZABY"
 type: poi
 address: "U Radnice 8, Praha 1"
 phone: "+42 (0)02 2422 8133"
+latitude: 50.087464
+longitude: 14.419413
 ---
 
 Open: Daily. 18.00 - 24.00

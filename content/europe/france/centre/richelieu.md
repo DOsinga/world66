@@ -1,6 +1,8 @@
 ---
 title: "Richelieu"
 type: location
+latitude: 47.012492
+longitude: 0.324055
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Arlington"
 type: location
+latitude: 32.735582
+longitude: -97.107119
 ---
 
 Arlington is a community in northern Virginia, just across the Potomac River from D.C.. Although it is considered a suburb of Washington, Arlington retains its own identity. 

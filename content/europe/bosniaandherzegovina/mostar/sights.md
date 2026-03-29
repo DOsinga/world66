@@ -4,6 +4,8 @@ type: section
 accessibility: "by bus or car from Mostar"
 address: "Blagaj"
 type: "Hotspots"
+latitude: 45.213314
+longitude: 15.544176
 ---
 
 **

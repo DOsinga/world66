@@ -1,6 +1,8 @@
 ---
 title: "Joutseno"
 type: location
+latitude: 61.118416
+longitude: 28.501549
 ---
 
 We currently have no information about .

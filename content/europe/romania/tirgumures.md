@@ -1,6 +1,8 @@
 ---
 title: "Tirgu mures"
 type: location
+latitude: 46.526186
+longitude: 24.531692
 ---
 
 We currently have no information about Tirgu mures.

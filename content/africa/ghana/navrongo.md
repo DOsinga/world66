@@ -1,6 +1,8 @@
 ---
 title: "Navrongo"
 type: location
+latitude: 10.892812
+longitude: -1.088373
 ---
 
 Northern village between Bole and the Burkina Faso boarder.

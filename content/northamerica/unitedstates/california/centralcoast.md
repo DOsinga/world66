@@ -1,6 +1,8 @@
 ---
 title: "Central Coast"
 type: location
+latitude: 35.269768
+longitude: -120.653701
 ---
 
 Spanish explorer Juan Rodriguez Cabrillo set a precedent for future chamber of commerce officials when he described the Central Coast as "the land of endless summers." A tranquil expanse between Los Angeles and San Francisco, this region is tagged the Middle Kingdom. It is a realm of small towns in lovely settings, with peaceful quiet beaches, and beautiful evergreen forests. Agriculture defines life amid the golden rolling hills, and the many coastal locales make idyllic destinations.

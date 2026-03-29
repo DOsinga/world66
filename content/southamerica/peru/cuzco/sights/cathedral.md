@@ -3,6 +3,8 @@ title: "Cathedral"
 type: poi
 address: "Plaze de Armas"
 type: "Hotspots"
+latitude: -6.47421
+longitude: -78.885575
 ---
 
 One of the cities best repositories of colonial art, the Cathedral was begun in 1559. Entrance for tourists via the Iglesia el Triunfo.

@@ -2,6 +2,8 @@
 title: "JFK Airport"
 type: poi
 type: "Airport"
+latitude: 40.642948
+longitude: -73.779373
 ---
 
 JFK Airport

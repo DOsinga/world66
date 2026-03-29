@@ -1,6 +1,8 @@
 ---
 title: "Truth or Consequences"
 type: location
+latitude: 33.128349
+longitude: -107.252906
 ---
 
 Travel Guide

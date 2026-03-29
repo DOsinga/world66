@@ -4,6 +4,8 @@ type: poi
 address: "hoekwierde 34"
 email: "walters.wagenaar@chello.nl"
 zipcode: "1353 pb"
+latitude: 52.337528
+longitude: 5.199587
 ---
 
 Grande Randonee no. 5 takes you to the hills around [Nice](/europe/france/midi/cotedazur/nice) and shows you that the Cote d'Azur has a hinterland that is just as pretty as the coastline. 

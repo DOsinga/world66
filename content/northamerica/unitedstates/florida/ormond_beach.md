@@ -1,6 +1,8 @@
 ---
 title: "Ormond Beach"
 type: location
+latitude: 29.285413
+longitude: -81.055792
 ---
 
 Travel Guide

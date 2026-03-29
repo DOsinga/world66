@@ -5,6 +5,8 @@ address: "11 Mohamed Hamam st,Nasr city,Cairo,Egypt"
 email: "info@goegypt-travel.com"
 phone: "+202 24052246/7/8"
 url: "www.guidetouregypt.com"
+latitude: 30.065541
+longitude: 31.3356
 ---
 
 With Go Egypt Travel, enjoy a private tour to visit Cata Comb, Alexandria Library, Pompeii’s Pillar, Kaitbay Citadel, Pyramids of Queops, and Quephren&Mykerinus, Great Sphinx, Egyptian Museum, Old Cairo...

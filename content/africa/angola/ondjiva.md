@@ -1,6 +1,8 @@
 ---
 title: "Ondjiva"
 type: location
+latitude: -17.070523
+longitude: 15.728011
 ---
 
 Travel Guide

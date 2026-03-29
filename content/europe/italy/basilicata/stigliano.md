@@ -1,6 +1,8 @@
 ---
 title: "Stigliano"
 type: location
+latitude: 40.401238
+longitude: 16.231594
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Luz Church"
 type: poi
 email: "rshridhar2002@hotmail.com"
+latitude: 13.038208
+longitude: 80.262348
 ---
 
 Like the San Thome Church, Luz Church is also one of the oldest churches in

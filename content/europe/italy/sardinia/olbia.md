@@ -1,6 +1,8 @@
 ---
 title: "Olbia"
 type: location
+latitude: 40.923266
+longitude: 9.502744
 ---
 
 Olbia is the real "main port" for tourist on Sardinia. It has a big port where the ferries from the Italian mainland arrive and a small airport. 

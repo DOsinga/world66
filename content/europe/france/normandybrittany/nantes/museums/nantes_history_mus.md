@@ -7,6 +7,8 @@ email: "contact@chateau-nantes.fr"
 opening_hours: "Closed on Tuesdays."
 phone: "Booking service: +33 (0)2 51 17 49 99"
 url: "www.chateau-nantes.fr"
+latitude: 47.216117
+longitude: -1.549313
 ---
 
 (Inside the *Castle of the Dukes of Brittany*)

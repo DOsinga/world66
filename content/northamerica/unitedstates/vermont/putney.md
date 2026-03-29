@@ -1,6 +1,8 @@
 ---
 title: "Putney"
 type: location
+latitude: 42.975177
+longitude: -72.521597
 ---
 
 Travel Guide

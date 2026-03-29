@@ -5,6 +5,8 @@ address: "1523 Walnut Street"
 phone: "(215) 567-1000"
 type: "French"
 url: "www.lebecfin.com"
+latitude: 39.949935
+longitude: -75.16701
 ---
 
 Le Bec-Fin, Philadelphia’s premiere fine dining restaurant, has been providing memorable dining experiences since 1970. Chef and owner Georges Perrier created a restaurant that has become a Philadelphia landmark and an international gastronomical destination.

@@ -1,6 +1,8 @@
 ---
 title: "Amarillo"
 type: location
+latitude: 35.20729
+longitude: -101.837119
 ---
 
 We currently have no information about Amarillo.

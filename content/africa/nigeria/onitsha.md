@@ -1,6 +1,8 @@
 ---
 title: "Onitsha"
 type: location
+latitude: 6.146162
+longitude: 6.801909
 ---
 
 We currently have no information about Onitsha.

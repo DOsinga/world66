@@ -1,6 +1,8 @@
 ---
 title: "Gipuzkoa"
 type: location
+latitude: 43.144528
+longitude: -2.203796
 ---
 
 Travel Guide

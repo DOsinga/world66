@@ -6,6 +6,8 @@ email: "huizuhotwok@post.com"
 phone: "+6012 9027178"
 type: "Chinese"
 url: "www.restoranchinahalal.com"
+latitude: 1.519442
+longitude: 103.637336
 ---
 
 Johor Bahru, Malaysia is the second largest city in Malaysia, behind

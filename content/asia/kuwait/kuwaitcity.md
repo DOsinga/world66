@@ -1,6 +1,8 @@
 ---
 title: "Kuwait city"
 type: location
+latitude: 29.379653
+longitude: 47.973417
 ---
 
 Kuwait City is the capital of Kuwait. Although it goes back a long time in history, the present day city is very modern. 

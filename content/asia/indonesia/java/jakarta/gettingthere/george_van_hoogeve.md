@@ -5,6 +5,8 @@ address: "Vaassen /Netherlands"
 email: "geveha@veteranen.nl"
 phone: "0031578576112"
 type: "By Air"
+latitude: 52.290172
+longitude: 5.968673
 ---
 
 I have the following questions:

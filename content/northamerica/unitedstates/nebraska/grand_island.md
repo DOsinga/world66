@@ -1,6 +1,8 @@
 ---
 title: "Grand Island"
 type: location
+latitude: 40.924271
+longitude: -98.338685
 ---
 
 Travel Guide

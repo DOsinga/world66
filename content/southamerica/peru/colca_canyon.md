@@ -1,6 +1,8 @@
 ---
 title: "Colca Canyon"
 type: location
+latitude: -15.594596
+longitude: -72.048777
 ---
 
 The Colca Canyon is considered one of the deepest canyons in the world and is an interesting region for hiking, watching the Andean Condor at the Cruz del Condor and see people in one of the nicest traditional clothing in South America.

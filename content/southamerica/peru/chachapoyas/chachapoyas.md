@@ -1,6 +1,8 @@
 ---
 title: "Chachapoyas"
 type: location
+latitude: -6.371827
+longitude: -77.809338
 ---
 
 Travel Guide

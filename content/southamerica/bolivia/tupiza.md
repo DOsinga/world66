@@ -1,6 +1,8 @@
 ---
 title: "Tupiza"
 type: location
+latitude: -21.443772
+longitude: -65.720837
 ---
 
 It´s a small city, with nothing much to do. But it´s located in a fantastic mountain area. It´s a great place for horsebackriding, in a western-style landscape. The canyonfloors are perfect for galoping until your ass comes off. You can do jeep tours in the region, which includes the grand Salar de Uyuni and various highland lakes. And it´s cheap: four days, all included should be no more than 100 dollars.

@@ -1,6 +1,8 @@
 ---
 title: "Pontrieux"
 type: location
+latitude: 48.697242
+longitude: -3.162979
 ---
 
 We currently have no information about .

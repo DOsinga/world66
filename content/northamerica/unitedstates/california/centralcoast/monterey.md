@@ -1,6 +1,8 @@
 ---
 title: "Monterey"
 type: location
+latitude: 36.223108
+longitude: -121.387742
 ---
 
 Highways 1 and 101 nearly converge in Monterey County. Here, rugged California headlands shelter numerous campsites in Pfeiffer Big Sur, Julia Pfeiffer Burns, and Andrew Molera state parks at world-famous Big Sur. The jagged shoreline of Point Lobos State Reserve, an underwater ocean preserve, is home to a variety of sea mammals. For more civilized pursuits, the quaint community of Carmel-by-the-Sea offers inviting shops and restaurants and the 1770 mission, San Carlos Borromeo de Carmelo. 

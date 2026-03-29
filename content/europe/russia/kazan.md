@@ -1,6 +1,8 @@
 ---
 title: "Kazan"
 type: location
+latitude: 55.794649
+longitude: 49.111502
 ---
 
 **Kazan** is the capital of the Republic of Tatarstan on the junction of the Volga and Kazanka Rivers about 500 miles south-east of **Moscow**. Founded circa 1005 AD, it later served as the capital of the Kazan Khanate.

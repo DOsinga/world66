@@ -6,6 +6,8 @@ email: "info@esperanceguesthouse.com.au"
 phone: "+61 8 9071 3784"
 type: "Sleep Cheap"
 url: "www.esperanceguesthouse.com.au"
+latitude: -33.84148
+longitude: 121.902107
 ---
 
 Esperance has a range of accommodation including hotels, motels, apartments, guest houses, bed & breakfasts, cottages and caravan parks.

@@ -1,6 +1,8 @@
 ---
 title: "Missoula"
 type: location
+latitude: 46.870105
+longitude: -113.995267
 ---
 
 We currently have no information about Missoula.

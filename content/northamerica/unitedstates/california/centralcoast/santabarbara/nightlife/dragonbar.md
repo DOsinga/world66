@@ -5,6 +5,8 @@ address: "434 State St"
 phone: "(805) 962-5516"
 type: "Lounges"
 zipcode: "Santa Barbara, CA 93101"
+latitude: 40.686848
+longitude: -73.982991
 ---
 
 type: Lounges

@@ -2,6 +2,8 @@
 title: "To Budapest"
 type: poi
 type: "By Rail"
+latitude: 47.497879
+longitude: 19.040238
 ---
 
 There are some direct trains to the Capital, e.g. form Vienna (more

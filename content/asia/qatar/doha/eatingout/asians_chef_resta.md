@@ -7,6 +7,8 @@ phone: "44982957"
 price: "5Qr to 50Qr"
 type: "Indian and Pakistani"
 url: "www.facebook.com"
+latitude: 25.271849
+longitude: 51.544497
 ---
 
 **Asian's Chef is The Best Filipino Restaurant in Doha**

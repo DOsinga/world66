@@ -4,6 +4,8 @@ type: poi
 address: "Ålgrytevägen 90"
 phone: "08-646 80 50"
 type: "general"
+latitude: 59.301302
+longitude: 17.936205
 ---
 
 Built in 1867 as a summerhouse, this yellow wooden house is now a café. It is possible to sit inside, in the garden, or on the veranda facing Mälaren.

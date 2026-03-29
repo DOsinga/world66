@@ -1,6 +1,8 @@
 ---
 title: "Pleebo"
 type: location
+latitude: 4.588848
+longitude: -7.67349
 ---
 
 We currently have no information about Pleebo.

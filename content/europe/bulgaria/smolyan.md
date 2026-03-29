@@ -1,6 +1,8 @@
 ---
 title: "Smolyan"
 type: location
+latitude: 41.624097
+longitude: 24.59133
 ---
 
 We currently have no information about Smolyan.

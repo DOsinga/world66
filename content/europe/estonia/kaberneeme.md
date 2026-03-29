@@ -1,6 +1,8 @@
 ---
 title: "Kaberneeme"
 type: location
+latitude: 59.518844
+longitude: 25.272958
 ---
 
 Travel Guide

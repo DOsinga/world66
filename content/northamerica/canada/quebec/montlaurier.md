@@ -1,6 +1,8 @@
 ---
 title: "Mont-Laurier"
 type: location
+latitude: 46.552407
+longitude: -75.49689
 ---
 
 Travel Guide

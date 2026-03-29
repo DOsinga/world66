@@ -1,6 +1,8 @@
 ---
 title: "Henderson"
 type: location
+latitude: 32.182598
+longitude: -95.789318
 ---
 
 Travel Guide

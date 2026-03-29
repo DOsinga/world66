@@ -1,6 +1,8 @@
 ---
 title: "Sheru"
 type: location
+latitude: 31.134163
+longitude: 71.738958
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Upper West"
 type: location
+latitude: 10.366953
+longitude: -2.092143
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Neftchala"
 type: location
+latitude: 39.379053
+longitude: 49.248607
 ---
 
 Travel Guide

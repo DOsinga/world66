@@ -1,6 +1,8 @@
 ---
 title: "Batangas"
 type: location
+latitude: 13.914683
+longitude: 121.086757
 ---
 
 Travel Guide

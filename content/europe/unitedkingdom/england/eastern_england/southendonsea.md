@@ -1,6 +1,8 @@
 ---
 title: "Southend-on-sea"
 type: location
+latitude: 51.538824
+longitude: 0.712814
 ---
 
 Travel Guide

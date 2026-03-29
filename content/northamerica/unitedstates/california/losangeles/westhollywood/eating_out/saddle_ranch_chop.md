@@ -5,6 +5,8 @@ address: "8371 Sunset Boulevard, West Hollywood, CA, 90069"
 phone: "+1-323-656-2007"
 type: "American"
 url: "www.srrestaurants.com"
+latitude: 34.095687
+longitude: -118.372373
 ---
 
 This Western-style

@@ -4,6 +4,8 @@ type: poi
 address: "Maramures, Romania"
 type: "Monasteries"
 url: "www.goromaniatours.com"
+latitude: 47.671255
+longitude: 24.196461
 ---
 
 Built in the 16th century by

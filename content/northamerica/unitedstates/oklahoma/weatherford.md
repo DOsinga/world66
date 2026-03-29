@@ -1,6 +1,8 @@
 ---
 title: "Weatherford"
 type: location
+latitude: 32.758965
+longitude: -97.797075
 ---
 
 Travel Guide

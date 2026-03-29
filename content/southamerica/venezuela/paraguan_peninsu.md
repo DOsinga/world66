@@ -1,6 +1,8 @@
 ---
 title: "Paraguaná peninsula"
 type: location
+latitude: 11.900622
+longitude: -70.052037
 ---
 
 At the Northwest end of Venezuela, in Falcon State to the North of Coro, is the charming Paraguana Peninsula, which will warmly welcome you. The dry climate and the steady breeze that blows all the year round make this land a privileged one.

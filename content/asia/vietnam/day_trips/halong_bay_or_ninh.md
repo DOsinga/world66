@@ -5,6 +5,8 @@ address: "45A Tran Phu , Hanoi ,Vietnam"
 email: "hanoipeacetour@yahoo.com"
 phone: "(84-4) 3568 2115"
 url: "www.hanoipeacetour.vn"
+latitude: 20.832786
+longitude: 105.670738
 ---
 
 **Halong Bay 01 Day - Daily ****code: HL 01B **

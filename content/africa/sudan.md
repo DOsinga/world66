@@ -1,6 +1,8 @@
 ---
 title: "Sudan"
 type: location
+latitude: 14.584444
+longitude: 29.491769
 ---
 
 Sudan is a vast country in northeastern Africa, bordering the Red Sea between [Egypt](/africa/egypt) and [Eritrea](/africa/eritrea). Since [South Sudan](/africa/southsudan) split away in 2011, it remains Africa's third-largest country by area. The landscape ranges from the Sahara in the north through the fertile Nile valley to the mountains of Darfur in the west.

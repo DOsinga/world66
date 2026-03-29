@@ -1,6 +1,8 @@
 ---
 title: "Buchanan"
 type: location
+latitude: 5.88129
+longitude: -10.0494
 ---
 
 We currently have no information about Buchanan.

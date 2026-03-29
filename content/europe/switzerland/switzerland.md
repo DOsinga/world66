@@ -1,6 +1,8 @@
 ---
 title: "Switzerland"
 type: location
+latitude: 46.798562
+longitude: 8.231974
 ---
 
 Located in central Europe, Switzerland is bordered by [Germany](/europe/germany) , [Austria](/europe/austria) , [Liechtenstein](/europe/liechtenstein) , [Italy](/europe/italy) , and [France](/europe/france) . A small country, Switzerland's very name conjures up images of chocolates, cheese, watches, bankers, and snow-capped mountains. 

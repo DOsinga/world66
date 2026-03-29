@@ -1,6 +1,8 @@
 ---
 title: "Lucignano"
 type: location
+latitude: 43.274463
+longitude: 11.746
 ---
 
 Travel Guide

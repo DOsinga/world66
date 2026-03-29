@@ -1,6 +1,8 @@
 ---
 title: "Gjogv"
 type: location
+latitude: 62.325743
+longitude: -6.943029
 ---
 
 Travel Guide

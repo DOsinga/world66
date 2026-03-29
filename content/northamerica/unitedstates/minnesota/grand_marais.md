@@ -1,6 +1,8 @@
 ---
 title: "Grand Marais"
 type: location
+latitude: 47.750467
+longitude: -90.334675
 ---
 
 Travel Guide

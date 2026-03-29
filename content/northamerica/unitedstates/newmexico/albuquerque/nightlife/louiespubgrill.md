@@ -5,6 +5,8 @@ address: "5603 Menaul Blvd NE,"
 phone: "(505)881-5333"
 type: "Cafes & B"
 zipcode: "Albuquerque, NM"
+latitude: 35.1092
+longitude: -106.581804
 ---
 
 type: Cafes & B

@@ -1,6 +1,8 @@
 ---
 title: "viganj"
 type: location
+latitude: 42.982063
+longitude: 17.102213
 ---
 
 Travel Guide

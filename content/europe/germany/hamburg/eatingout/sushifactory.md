@@ -1,9 +1,12 @@
 ---
 title: "Sushi Factory"
 type: poi
+latitude: 51.21941
+longitude: 6.794091
 ---
 
-Japanese restaurant, non smoking area, closed on mon. 
+Japanese restaurant, non smoking area, closed on mon.
+ 
 
 address: Dammtorstr. 32
 

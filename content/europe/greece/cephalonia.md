@@ -1,6 +1,8 @@
 ---
 title: "Cephalonia"
 type: location
+latitude: 38.266032
+longitude: 20.53739
 ---
 
 Cephalonia (or Kefallonia) is one of the seven main islands of the Ionian’s group. It was not until the beginning of the nineties that tourists discovered the island, not in the least because of the lack of proper roads. Things have changed and although the largest island of the group is still not overrun by loads of tourists, it has everything to offer for a pleasant stay off the commercial track. 

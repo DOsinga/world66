@@ -5,6 +5,8 @@ address: "Westlands - Woodvale Grove"
 closing_time: "Midnight"
 type: "Salsa"
 url: "www.havana.co.ke"
+latitude: -1.262896
+longitude: 36.80314
 ---
 
 Nice Latin style cocktail bar with surprisingly good food. Mixed, cosmopolitan crowd. Best Mojitos in town. Laid-back atmosphere.

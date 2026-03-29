@@ -6,6 +6,8 @@ phone: "035 6942587"
 price: "35 euro (3 courses"
 type: "African"
 url: "www.restaurantpromers.nl"
+latitude: 52.29407
+longitude: 5.164513
 ---
 
 **Contributors**

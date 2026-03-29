@@ -1,6 +1,8 @@
 ---
 title: "Florianopolis"
 type: location
+latitude: -27.5973
+longitude: -48.54961
 ---
 
 Florianopolis is the capital of Santa Catarina State. Part of the city is located on an island, part on the mainland. The island half of the city is the best place for travelers. Great surfing, beautiful colonial buildings, old forts, baroque churches. 

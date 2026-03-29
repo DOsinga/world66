@@ -1,6 +1,8 @@
 ---
 title: "Suffolk"
 type: location
+latitude: 52.241001
+longitude: 1.046572
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "gedo"
 type: location
+latitude: 3.0
+longitude: 42.0
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "KalarWala"
 type: location
+latitude: 31.474297
+longitude: 72.565009
 ---
 
 Travel Guide

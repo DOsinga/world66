@@ -1,6 +1,8 @@
 ---
 title: "Qurna"
 type: location
+latitude: 36.191257
+longitude: 44.828209
 ---
 
 We currently have no information about Qurna.

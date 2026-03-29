@@ -1,6 +1,8 @@
 ---
 title: "Lancashire"
 type: location
+latitude: 53.861171
+longitude: -2.565094
 ---
 
 Travel Guide

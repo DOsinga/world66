@@ -1,6 +1,8 @@
 ---
 title: "Riverside"
 type: location
+latitude: 33.982495
+longitude: -117.374238
 ---
 
 Travel Guide

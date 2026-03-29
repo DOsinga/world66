@@ -1,6 +1,8 @@
 ---
 title: "Damak"
 type: location
+latitude: 26.670146
+longitude: 87.680101
 ---
 
 Travel Guide

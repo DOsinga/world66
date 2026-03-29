@@ -1,6 +1,8 @@
 ---
 title: "South Bend"
 type: location
+latitude: 41.683381
+longitude: -86.250007
 ---
 
 Travel Guide

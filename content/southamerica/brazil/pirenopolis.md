@@ -1,6 +1,8 @@
 ---
 title: "Pirenopolis"
 type: location
+latitude: -15.850162
+longitude: -48.957317
 ---
 
 Travel Guide

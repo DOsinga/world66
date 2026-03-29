@@ -1,6 +1,8 @@
 ---
 title: "pandan is"
 type: location
+latitude: 11.589393
+longitude: 122.45361
 ---
 
 Travel Guide

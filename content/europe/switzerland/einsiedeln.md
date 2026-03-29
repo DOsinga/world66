@@ -1,6 +1,8 @@
 ---
 title: "Einsiedeln"
 type: location
+latitude: 47.12861
+longitude: 8.75003
 ---
 
 Einsiedeln is one of the oldest cantons. The city is located in the heart of the country, just one hour by train from

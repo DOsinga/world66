@@ -3,6 +3,8 @@ title: "Slainte Bar"
 type: poi
 accessibility: "Opossite Chili Bar"
 address: "Nagoya district"
+latitude: -5.817755
+longitude: 145.851364
 ---
 
 The Slainte Bar is a new bar that opened it's door for business on 6 May 2012.

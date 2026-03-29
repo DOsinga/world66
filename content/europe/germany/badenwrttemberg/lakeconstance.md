@@ -1,6 +1,8 @@
 ---
 title: "Lake constance"
 type: location
+latitude: 47.647769
+longitude: 9.34718
 ---
 
 The Lake Constance - "Bodensee" is the German word - is located between Germany and Switzerland. On the Swiss side are the famous Rhine falls, best reached from Schaffhausen. The lake area has one of the warmest summer microclimates in the country. 

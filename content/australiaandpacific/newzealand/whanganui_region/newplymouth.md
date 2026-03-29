@@ -1,6 +1,8 @@
 ---
 title: "New Plymouth"
 type: location
+latitude: -39.057994
+longitude: 174.080647
 ---
 
 Beautiful sunsets, access to excellent surfing and the gateway to Mount Taranaki.

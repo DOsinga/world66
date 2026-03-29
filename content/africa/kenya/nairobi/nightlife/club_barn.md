@@ -8,6 +8,8 @@ email: "patricq@clubarn.com"
 phone: "0722298609"
 type: "Clubs and dancing"
 url: "www.clubarn.com"
+latitude: 34.355262
+longitude: -83.943394
 ---
 
 The CLUBarn is located off Ngong’ Road inside the Ngong’ RaceCourse, Nairobi (Kenya). It was opened eight years after The Barn (A famous night club) was closed. Today known as the CLUBarn , it rests on the same concept but recently renovated to blend in with modern times.

@@ -2,6 +2,8 @@
 title: "Galleria Cafe"
 type: poi
 address: "Thamel"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 The latest cafe in Thamel - Kathmandu's busy and popular backpacker area. Very stylish and the closest to Starbucks in Thame. Some great food available and free wirless internet.

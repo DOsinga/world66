@@ -1,6 +1,8 @@
 ---
 title: "Dusa Mareb"
 type: location
+latitude: 5.535591
+longitude: 46.383108
 ---
 
 Travel Guide

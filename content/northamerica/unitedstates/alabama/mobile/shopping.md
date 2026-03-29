@@ -3,6 +3,8 @@ title: "Shopping"
 type: section
 type: "Book shops"
 url: "www.booksamillion.com"
+latitude: 37.443192
+longitude: -122.170916
 ---
 
 ### [Books A Million](/northamerica/unitedstates/alabama/mobile/shopping/books_a_million)

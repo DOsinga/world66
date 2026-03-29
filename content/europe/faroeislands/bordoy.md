@@ -1,6 +1,8 @@
 ---
 title: "Bordoy"
 type: location
+latitude: 62.263797
+longitude: -6.51996
 ---
 
 Travel Guide

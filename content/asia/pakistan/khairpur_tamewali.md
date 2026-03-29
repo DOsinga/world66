@@ -1,6 +1,8 @@
 ---
 title: "Khairpur Tamewali"
 type: location
+latitude: 29.579302
+longitude: 72.245333
 ---
 
 Travel Guide

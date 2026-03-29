@@ -1,6 +1,8 @@
 ---
 title: "Little Big Horn"
 type: location
+latitude: 41.091748
+longitude: -74.317231
 ---
 
 Little Bighorn Battlefield National Monument is the site of the June 25, 1876 battle between the U.S. Army's seventh cavalry, guided by Crow and Arikara scouts, and several bands of Lakota Sioux, Cheyenne, and Araphaho. Led mainly by Chief Sitting Bull. 

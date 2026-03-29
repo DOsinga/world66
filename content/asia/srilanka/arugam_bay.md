@@ -1,6 +1,8 @@
 ---
 title: "Arugam Bay"
 type: location
+latitude: 6.846623
+longitude: 81.830553
 ---
 
 Travel Guide

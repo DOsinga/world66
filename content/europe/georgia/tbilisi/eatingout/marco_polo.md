@@ -6,6 +6,8 @@ phone: "93 53 83"
 price: "Cheap meals cost about 10 lari including drinks."
 type: "Local"
 url: "www.restaurant.ge; www.entertainment.ge"
+latitude: 41.702391
+longitude: 44.792485
 ---
 
 ***Marco Polo*** consists of 4 floors: Banquet hall, restaurant, bar and tavern.

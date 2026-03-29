@@ -1,6 +1,8 @@
 ---
 title: "Syunik Marz"
 type: location
+latitude: 39.203322
+longitude: 46.402114
 ---
 
 Travel Guide

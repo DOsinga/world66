@@ -1,6 +1,8 @@
 ---
 title: "Bulgaria"
 type: location
+latitude: 42.607397
+longitude: 25.485662
 ---
 
 Bulgaria has changed a lot during the last 15 years. From being a communist-ruled state "on the other side of the Iron Curtain," it has enacted some free-market reforms. The Bulgarian nation has made progress since Russia freed it from its 500-year domination by the Ottoman Empire in the 1870's, but is now still struggling to cope with the aftermath of the demise of the Soviet empire, of which Bulgaria was a client state.

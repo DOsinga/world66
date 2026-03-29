@@ -1,6 +1,8 @@
 ---
 title: "Ramah"
 type: location
+latitude: 39.121655
+longitude: -104.165794
 ---
 
 Travel Guide

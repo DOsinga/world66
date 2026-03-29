@@ -3,6 +3,8 @@ title: "Shopping"
 type: section
 type: "Public Buildings"
 url: "www.powells.com"
+latitude: 37.443192
+longitude: -122.170916
 ---
 
 Here are a few suggestions for your shopping in Portland.

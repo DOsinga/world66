@@ -1,6 +1,8 @@
 ---
 title: "Darkhan"
 type: location
+latitude: 49.492243
+longitude: 105.936161
 ---
 
 Darkhan itself is not a prime attraction. It's a pretty normal mining town with hardly anything special. The ciy is located some 200 km northwest from [Ulaanbaatar](/asia/mongolia/ulaanbaatar) and is connected to the capital by daily busses and frequent express trains. 

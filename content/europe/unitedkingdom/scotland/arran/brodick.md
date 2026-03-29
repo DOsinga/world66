@@ -1,6 +1,8 @@
 ---
 title: "Brodick"
 type: location
+latitude: 55.577516
+longitude: -5.150686
 ---
 
 Travel Guide

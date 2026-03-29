@@ -1,6 +1,8 @@
 ---
 title: "Sitiawan"
 type: location
+latitude: 4.216232
+longitude: 100.69519
 ---
 
 Travel Guide

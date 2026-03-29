@@ -4,6 +4,8 @@ type: poi
 address: "Colaba Causeway"
 phone: "2020131/2873362"
 type: "Jazz"
+latitude: 18.917651
+longitude: 72.827717
 ---
 
 Best bar for traveller. Economical and elegant, it is designed to suite the needs of westerners.

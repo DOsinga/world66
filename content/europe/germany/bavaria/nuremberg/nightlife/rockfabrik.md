@@ -1,6 +1,8 @@
 ---
 title: "Rockfabrik"
 type: poi
+latitude: 48.341018
+longitude: 10.897437
 ---
 
 Huge rock club, probably the best in the state. 

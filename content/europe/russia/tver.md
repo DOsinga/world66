@@ -1,6 +1,8 @@
 ---
 title: "Tver"
 type: location
+latitude: 56.858675
+longitude: 35.920828
 ---
 
 Travel Guide

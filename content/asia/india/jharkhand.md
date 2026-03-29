@@ -1,6 +1,8 @@
 ---
 title: "Jharkhand"
 type: location
+latitude: 23.455981
+longitude: 85.25573
 ---
 
 One of the oldest demands for a separate state was fulfilled when the Parliament passed the Bihar Reorganization Bill on August, 2, 2000 to create the **state of Jharkhand.** The genesis of the demand can be traced to early 1900s when Jaipal Singh, the Oxford educated hockey Captain of the 1928 Olympics mooted the idea of a separate state consisting of the Southern districts of Bihar. After that there had been no looking back. Jharkhand Movement had begun.

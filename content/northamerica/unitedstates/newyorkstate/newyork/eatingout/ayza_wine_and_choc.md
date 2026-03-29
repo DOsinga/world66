@@ -7,6 +7,8 @@ phone: "212-693-15-78"
 price: "20$"
 type: "French"
 url: "www.ayzanyc.com"
+latitude: 40.729705
+longitude: -74.004852
 ---
 
 Came here for a birthday party with 10 people and we had a great time.The service was excellent, the food was delicious, and the wine was well-selected.  Offers a great atmosphere for a party or group because there's a lot of mingling and socializing.  The staff were more than accommodating for everything we needed. They even let us split the

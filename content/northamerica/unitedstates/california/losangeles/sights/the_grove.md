@@ -6,6 +6,8 @@ opening_hours: "Mon–Thurs 10am–9pm, Fri–Sat 10am–10pm, Sun 11am–8pm"
 phone: "(323) 900-8080"
 type: "Hotspots"
 url: "www.thegrovela.com"
+latitude: 34.073082
+longitude: -118.358415
 ---
 
 Created by retail development superstar Rick Caruso, The Grove is a 575,000-square-foot European-style extension added on to the historic Los Angeles Farmers Market. The shopping mall contains more than 60 stores and restaurants, along with a first-class movie theater in the heart of the mall. The Grove is also home to a unique fountain that is not only choreographed to music, but is only the second of its kind in the world, with only Las Vegas' Bellagio Hotel in Las Vegas beating The Grove to the punch.

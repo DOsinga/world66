@@ -1,6 +1,8 @@
 ---
 title: "Montegrotto Terme"
 type: location
+latitude: 45.331491
+longitude: 11.791208
 ---
 
 Travel Guide

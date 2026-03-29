@@ -1,6 +1,8 @@
 ---
 title: "Matsuyama"
 type: location
+latitude: 33.839519
+longitude: 132.765352
 ---
 
 Travel Guide

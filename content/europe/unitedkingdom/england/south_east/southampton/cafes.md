@@ -4,6 +4,8 @@ type: location
 address: "6, High St Totton, Southampton Hampshire SO40 9HN"
 phone: "023 8086 9734"
 type: "general"
+latitude: 50.916212
+longitude: -1.484349
 ---
 
 ### [The Bakehouse](/europe/unitedkingdom/england/south_east/southampton/cafes/thebakehouse)

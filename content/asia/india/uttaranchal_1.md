@@ -1,6 +1,8 @@
 ---
 title: "UTTARANCHAL"
 type: location
+latitude: 30.041738
+longitude: 79.089691
 ---
 
 Travel Guide

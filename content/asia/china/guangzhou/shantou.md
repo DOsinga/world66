@@ -1,6 +1,8 @@
 ---
 title: "Shantou"
 type: location
+latitude: 23.356392
+longitude: 116.677586
 ---
 
 Travel Guide

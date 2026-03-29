@@ -6,6 +6,8 @@ address: "1400 Main St, Winfield, KS 67156"
 phone: "(620) 229-2278"
 price: "Family pricing"
 type: "Italian"
+latitude: 37.234966
+longitude: -96.996651
 ---
 
 Many kinds of food, from fast burgers to great steaks, can be found in Winfield, Kansas.

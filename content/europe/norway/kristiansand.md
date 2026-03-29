@@ -1,6 +1,8 @@
 ---
 title: "Kristiansand"
 type: location
+latitude: 58.085628
+longitude: 7.931858
 ---
 
 Kristiansand is the biggest city on the South Coast (*Sorlandet*), and the southernmost city in Norway. It is a charming city, retaining many of the 17th century buildings from its founding days by King Christian IV. The town is home to some of the best beaches in Norway.

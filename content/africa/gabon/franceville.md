@@ -1,6 +1,8 @@
 ---
 title: "Franceville"
 type: location
+latitude: -1.634398
+longitude: 13.589481
 ---
 
 We currently have no information about Franceville.

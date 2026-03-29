@@ -1,6 +1,8 @@
 ---
 title: "Huraymila"
 type: location
+latitude: 25.126667
+longitude: 46.1225
 ---
 
 We currently have no information about Huraymila.

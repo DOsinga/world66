@@ -4,6 +4,8 @@ type: section
 address: "814 Mission St., 2nd Fl."
 phone: "94103 415/227-8666"
 type: "Museums & Galleries"
+latitude: 37.73633
+longitude: -122.424387
 ---
 
 There are some great museums in SF. Here is a short list.

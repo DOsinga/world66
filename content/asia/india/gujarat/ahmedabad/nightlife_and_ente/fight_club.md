@@ -5,6 +5,8 @@ address: "asia"
 phone: "9898048483"
 type: "Clubs and dancing"
 url: "rajkotfightclub.blogspot.com"
+latitude: 51.208697
+longitude: 89.234375
 ---
 
 [**http://rajkotfightclub.blogspot.com/**](/asia/india/gujarat/ahmedabad/nightlife_and_ente)

@@ -1,6 +1,8 @@
 ---
 title: "Stavanger"
 type: location
+latitude: 58.969968
+longitude: 5.73181
 ---
 
 Stavanger is a charming, typical southern Norwegian city, and an exciting mix of old and new. Its proximity to the North Sea oil fields has made it the fast growing and wealthy oil capital of Norway. But its narrow lanes and white timber houses are all in well preserved traditional style, from classic style to *funkis*. It is a modern city with a wide variety of shops, cafes and restaurants. Contrast characterises this city, the people who live there, the surrounding landscape - and the weather! All this makes Stavanger a pleasant and very charming city. 

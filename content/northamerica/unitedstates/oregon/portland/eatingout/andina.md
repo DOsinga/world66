@@ -5,6 +5,8 @@ address: "1314 NW Glisan"
 phone: "503-228-9535"
 price: "$$"
 type: "general"
+latitude: 45.526337
+longitude: -122.684597
 ---
 
 Peruvian food in the trendy Pearl District www.andinarestaurant.com

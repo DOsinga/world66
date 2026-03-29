@@ -1,6 +1,8 @@
 ---
 title: "Cakranegara"
 type: location
+latitude: -8.588074
+longitude: 116.130792
 ---
 
 Travel Guide

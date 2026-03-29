@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Parks & Animals"
+latitude: 39.788474
+longitude: -92.929598
 ---
 
 ### [Sacramento Zoo](/northamerica/unitedstates/california/goldcountry/sacramento/sights/sacramentozoo)

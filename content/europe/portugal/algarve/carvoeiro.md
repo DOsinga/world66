@@ -1,6 +1,8 @@
 ---
 title: "carvoeiro"
 type: location
+latitude: 41.650999
+longitude: -8.663638
 ---
 
 We currently have no information about carvoeiro.

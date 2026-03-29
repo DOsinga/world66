@@ -6,6 +6,8 @@ email: "lapintadabcn@gmail.com"
 phone: "933681617"
 type: "Speciality shops"
 url: "lapintadabcn.blogspot.com"
+latitude: 41.39893
+longitude: 2.158604
 ---
 
 La

@@ -1,6 +1,8 @@
 ---
 title: "Stepanakert"
 type: location
+latitude: 40.154066
+longitude: 44.4864
 ---
 
 Travel Guide

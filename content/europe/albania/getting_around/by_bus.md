@@ -3,6 +3,8 @@ title: "By Bus"
 type: poi
 address: "New Zealand"
 email: "windsurfing_dan@hotmail.com"
+latitude: -41.500083
+longitude: 172.834408
 ---
 
 Albania is not as difficult as you might expect to travel around. My wife and I recently spent 8 days exploring the country with our 18th month old daughter while she was 28 weeks pregnant with our second child! There is a relatively good public bus system which can take you pretty much anywhere you want to go in the country. We entered the country on foot after getting dropped at the border by a taxi at Han i Hotit which is between Podgorica ( Montenegro ) and Shkodra ( Albania ). The border guards were very helpful and called a local taxi for us to continue down to Shkodra. While the taxi's might not be as cheap as you may expect, sometimes it's the only way to get somewhere as we found out.

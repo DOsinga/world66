@@ -1,6 +1,8 @@
 ---
 title: "Porto"
 type: location
+latitude: 41.150219
+longitude: -8.61035
 ---
 
 Travel Guide

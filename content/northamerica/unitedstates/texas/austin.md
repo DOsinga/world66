@@ -1,6 +1,8 @@
 ---
 title: "Austin"
 type: location
+latitude: 30.271129
+longitude: -97.7437
 ---
 
 Austin is the capital of Texas and one of the fastest-growing, most vibrant cities in the United States. Say the word "Austin" and a myriad of images come to mind: Hip, cool, trendy and high tech.

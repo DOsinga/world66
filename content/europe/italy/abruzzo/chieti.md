@@ -1,6 +1,8 @@
 ---
 title: "Chieti"
 type: location
+latitude: 42.102693
+longitude: 14.415905
 ---
 
 Travel Guide

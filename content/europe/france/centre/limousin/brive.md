@@ -1,6 +1,8 @@
 ---
 title: "Brive"
 type: location
+latitude: 46.373889
+longitude: 5.79779
 ---
 
 We currently have no information about Brive.

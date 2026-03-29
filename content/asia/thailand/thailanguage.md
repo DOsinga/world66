@@ -1,6 +1,8 @@
 ---
 title: "Thai Language"
 type: location
+latitude: 13.730137
+longitude: 100.57276
 ---
 
 There are four main Thai languages spoken in Thailand (Central Thai, Southern Thai, Northeastern Thai (the same language is used in Laos) and Northern Thai, but the language refered to as Standard Thai is close to Central Thai. Being in Bangkok you might notice that Bangkokians skip the "r" in words like the polite ending "khrap". 

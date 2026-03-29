@@ -1,6 +1,8 @@
 ---
 title: "Parnu"
 type: location
+latitude: 58.387083
+longitude: 24.502831
 ---
 
 We currently have no information about Parnu.

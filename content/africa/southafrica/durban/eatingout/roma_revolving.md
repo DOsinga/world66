@@ -6,6 +6,8 @@ email: "roma@ion.co.za"
 phone: "+27 31 3682275"
 type: "Italian"
 zipcode: "32nd Floor John Ross House"
+latitude: 51.51046
+longitude: -0.115689
 ---
 
 One of the only revolving restaurants in the world, this restaurant serves delicious Italian food. They also offer some more unusual dishes such as crocodile steak!

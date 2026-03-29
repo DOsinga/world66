@@ -1,6 +1,8 @@
 ---
 title: "Leshan"
 type: location
+latitude: 29.22335
+longitude: 103.596608
 ---
 
 Travel Guide

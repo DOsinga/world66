@@ -1,6 +1,8 @@
 ---
 title: "Uttarey"
 type: location
+latitude: 27.268944
+longitude: 88.092145
 ---
 
 Travel Guide

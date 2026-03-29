@@ -1,6 +1,8 @@
 ---
 title: "Onstwedde"
 type: location
+latitude: 53.036791
+longitude: 7.038894
 ---
 
 Onstwedde is a place about 30 kilometers south-east of Groningen. It is more than 1100 years old. It was called Uneswido at that time, and can be found in old documents. 

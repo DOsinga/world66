@@ -1,6 +1,8 @@
 ---
 title: "Narva-Jõesuu"
 type: location
+latitude: 59.459643
+longitude: 28.0421
 ---
 
 Travel Guide

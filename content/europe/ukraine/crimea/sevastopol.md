@@ -1,6 +1,8 @@
 ---
 title: "Sevastopol"
 type: location
+latitude: 44.605443
+longitude: 33.522084
 ---
 
 ## Destinations in Sevastopol

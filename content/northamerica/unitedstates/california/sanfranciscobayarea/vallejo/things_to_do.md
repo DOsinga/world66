@@ -5,6 +5,8 @@ address: "1001 Fairgrounds Drive, Vallejo, CA 94590"
 phone: "(707) 643-6722"
 type: "Other"
 url: "www.sixflags.com"
+latitude: 38.133583
+longitude: -122.22966
 ---
 
 ### [Six Flags Discovery Kingdom](/northamerica/unitedstates/california/sanfranciscobayarea/vallejo/thingstodo/sixflagsmarineworld)

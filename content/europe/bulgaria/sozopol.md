@@ -1,6 +1,8 @@
 ---
 title: "Sozopol"
 type: location
+latitude: 42.418156
+longitude: 27.694312
 ---
 
 Sozopol is one of the nicest resorts on the Bulgarian Black Sea coast. Lying on the Gulf of Bourgas, Sozopol was one of Ancient Greece's oldest settlements - formerly known as "Apolonia Pontica" named after Apollo, the patron of seafarers. Today teh city resembles a cluster of welcoming turn-of-the century housess dotted along the rocky headland, interested with small garden shrines. 

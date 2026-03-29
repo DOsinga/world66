@@ -1,6 +1,8 @@
 ---
 title: "Montauriol"
 type: location
+latitude: 43.2778
+longitude: 1.83538
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Biak"
 type: location
+latitude: -1.183609
+longitude: 136.081632
 ---
 
 Biak is the name of the island and a town on the island just north of Irian Jaya or today call as Papua.

@@ -1,6 +1,8 @@
 ---
 title: "Lövstabruk"
 type: location
+latitude: 60.408741
+longitude: 17.87941
 ---
 
 Travel Guide

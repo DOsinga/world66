@@ -1,6 +1,8 @@
 ---
 title: "Maharashtra"
 type: location
+latitude: 19.567032
+longitude: 76.416456
 ---
 
 Bordering on the Indian Ocean in the west, Maharashtra occupies the western and central areas of the subcontinent and extends over the Sahyadri Mountains. The to-and-fro of people caused the state's present cosmopolitan character. At the same time, however, it has been able to keep up its typical Maharashtrian spirit -not in the least because of the various Marathi tribes that still prevail in the region. 

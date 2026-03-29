@@ -6,6 +6,8 @@ address: "Jr. Rioja #252"
 phone: "(042) 52 4393"
 price: "Inexpensive"
 type: "Chinese"
+latitude: -11.960672
+longitude: -77.007499
 ---
 
 In Tarapoto, as with anywhere in the Amazon Rainforest, what is available in restaurants depends on what is found locally in the jungle. Tarapoto is largely an agricultural community, so many varieties of plants Fruits and vegetables, fish, chicken, beef, and pork are all readily available fresh each day.

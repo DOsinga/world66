@@ -1,6 +1,8 @@
 ---
 title: "Fairplay"
 type: location
+latitude: 39.225189
+longitude: -106.001952
 ---
 
 Travel Guide

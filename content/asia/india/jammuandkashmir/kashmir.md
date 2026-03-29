@@ -1,6 +1,8 @@
 ---
 title: "Kashmir"
 type: location
+latitude: 26.26442
+longitude: 71.60275
 ---
 
 Travel Guide

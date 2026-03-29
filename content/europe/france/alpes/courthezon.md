@@ -1,6 +1,8 @@
 ---
 title: "Courthezon"
 type: location
+latitude: 44.086709
+longitude: 4.883513
 ---
 
 Located in the river Rhone valley between

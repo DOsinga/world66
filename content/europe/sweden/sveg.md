@@ -1,6 +1,8 @@
 ---
 title: "Sveg"
 type: location
+latitude: 62.036071
+longitude: 14.359839
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Pinellas Trail"
 type: location
+latitude: 33.819442
+longitude: -84.303432
 ---
 
 We currently have no information about Pinellas Trail.

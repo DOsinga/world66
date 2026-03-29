@@ -6,6 +6,8 @@ email: "oscarsbar@nb.aibn.com"
 phone: "455-6014"
 type: "International"
 url: "www.oscarsbarandbistro.ca"
+latitude: 45.942948
+longitude: -66.672096
 ---
 
 There are different restaurant in the city.

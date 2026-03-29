@@ -7,6 +7,8 @@ email: "hillec@gmail.com"
 phone: "02-6262762"
 type: "International"
 url: "cprestaurant.googlepages.com"
+latitude: 24.429929
+longitude: 54.572085
 ---
 
 Authentic and contemporary Chinese cuisine are available in the restaurant. This 4-floor restaurant is able to accommodate a total of 300 customers. The party hall and luxury Karaoke room are popularly occupied on the weekend.

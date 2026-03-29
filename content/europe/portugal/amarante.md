@@ -1,6 +1,8 @@
 ---
 title: "Amarante"
 type: location
+latitude: 41.269932
+longitude: -8.080456
 ---
 
 B

@@ -5,6 +5,8 @@ address: "Xian China"
 email: "travel@travelchinaguide.com"
 phone: "1-800-315-3949"
 url: "www.travelchinaguide.com"
+latitude: 38.190493
+longitude: 116.119102
 ---
 
 **4 Days Luxury Tour of Beijing (Starting from $249 per person)**

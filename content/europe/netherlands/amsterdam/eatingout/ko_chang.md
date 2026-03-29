@@ -7,6 +7,8 @@ phone: "020-6381039"
 price: "€ 20- € 25"
 type: "Thai"
 url: "www.ko-chang.nl"
+latitude: 52.380762
+longitude: 4.618498
 ---
 
 Authentic Tai food served in a cozy Amsterdam atmosphere in the heart of Jordaan

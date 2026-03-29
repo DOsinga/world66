@@ -5,6 +5,8 @@ address: "1350 N Tustin Ave"
 phone: "(714) 558-3057"
 type: "Lounges"
 zipcode: "Santa Ana, CA 92705-8617"
+latitude: 33.756856
+longitude: -117.834857
 ---
 
 ### Display all

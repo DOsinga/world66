@@ -1,6 +1,8 @@
 ---
 title: "Big Bear Lake"
 type: location
+latitude: 34.244059
+longitude: -116.91018
 ---
 
 Travel Guide

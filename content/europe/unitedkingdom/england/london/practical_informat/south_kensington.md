@@ -2,6 +2,8 @@
 title: "South Kensington"
 type: poi
 type: "Embassies and Consulates"
+latitude: 51.495582
+longitude: -0.183137
 ---
 
 South Kensington is a district in the Royal Borough of Kensington and Chelsea. It is a built-up area located 2.4 miles (3.9 km) west south-west of Charing Cross.

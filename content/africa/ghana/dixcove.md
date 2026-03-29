@@ -1,6 +1,8 @@
 ---
 title: "Dixcove"
 type: location
+latitude: 4.794787
+longitude: -1.9464
 ---
 
 Dixcove is a fishermans village in the south-west of Ghana. 

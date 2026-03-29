@@ -1,6 +1,8 @@
 ---
 title: "Misamis Occidental"
 type: location
+latitude: 8.333333
+longitude: 123.7
 ---
 
 Travel Guide

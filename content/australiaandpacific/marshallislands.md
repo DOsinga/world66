@@ -1,6 +1,8 @@
 ---
 title: "Marshall Islands"
 type: location
+latitude: 8.999555
+longitude: 168.000258
 ---
 
 The Marshall islands are a group of islands in the pacific. Located about haldway between [Australia](/australiaandpacific/australia) and Hawai m the Marshall islands offer natural beauty and rich culture. Pristine coral reefs teeming with marine life make the Marshalls a premiere dive destination. 

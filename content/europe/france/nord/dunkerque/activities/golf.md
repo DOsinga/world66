@@ -2,6 +2,8 @@
 title: "Golf"
 type: poi
 type: "general"
+latitude: 45.717952
+longitude: 4.783237
 ---
 
 The golf of Dunkerque is situated on a historic zone: the Fort Vallières. You can come to practise golf, whether you are a beginner or an expert, everything is provided for you to have good time. 

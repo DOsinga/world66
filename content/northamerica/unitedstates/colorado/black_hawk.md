@@ -1,6 +1,8 @@
 ---
 title: "Black Hawk"
 type: location
+latitude: 42.460753
+longitude: -92.303023
 ---
 
 Black Hawk, located in the Rocky Mountains approximately an hour west

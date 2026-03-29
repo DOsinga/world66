@@ -1,6 +1,8 @@
 ---
 title: "Russia"
 type: location
+latitude: 64.686314
+longitude: 97.745306
 ---
 
 **Russia** :: Bashkortostan [Dagestan](/europe/russia/dagestan) [Irkutsk](/europe/russia/irkutsk) [Kazan](/europe/russia/kazan) [Kizhi](/europe/russia/kizhi) [Moscow](/europe/russia/moscow) [Murmansk](/europe/russia/murmansk) [Novgorod](/europe/russia/novgorod) [Novosibirsk](/europe/russia/novosibirsk) [Orel](/europe/russia/orel) [Ossetia](/europe/russia/ossetia) [Pyatigorsk](/europe/russia/pyatigorsk), Siberia and the far east [St. Petersburg](/northamerica/unitedstates/florida/tampabayarea/stpetersburg) [Suzdal](/europe/russia/suzdal) [Tula](/europe/russia/tula) [Ulyanovsk](/europe/russia/ulyanovsk) [Vladimir](/europe/russia/vladimir) [Vladivostok](/europe/russia/vladivostok) [Volgograd](/europe/russia/volgograd) [Yakutsk](/europe/russia/yakutsk) - so many things to do.... 

@@ -1,6 +1,8 @@
 ---
 title: "Salzgitter"
 type: location
+latitude: 52.150372
+longitude: 10.359315
 ---
 
 Travel Guide

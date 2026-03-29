@@ -1,6 +1,8 @@
 ---
 title: "Comacchio"
 type: location
+latitude: 44.696379
+longitude: 12.180427
 ---
 
 Comacchio is like a small [Venice](/europe/italy/veneto/venice), just 30 km north of [Ravenna](/europe/italy/emiliaromagna/ravenna). The

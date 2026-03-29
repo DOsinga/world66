@@ -1,6 +1,8 @@
 ---
 title: "Lititz"
 type: location
+latitude: 40.157132
+longitude: -76.307162
 ---
 
 Travel Guide

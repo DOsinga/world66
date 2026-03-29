@@ -4,6 +4,8 @@ type: poi
 accessibility: "bus, subway"
 address: "Avenida Paulista"
 type: "Hotspots"
+latitude: -23.557202
+longitude: -46.661039
 ---
 
 Skyscraper-lined Avenida Paulista was the street where coffee barons

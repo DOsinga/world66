@@ -1,6 +1,8 @@
 ---
 title: "Viseu"
 type: location
+latitude: 40.657471
+longitude: -7.913866
 ---
 
 Travel Guide

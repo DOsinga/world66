@@ -5,6 +5,8 @@ address: "Vicente Machado"
 email: "mail@shoppingantartica.com.br"
 type: "Shopping centers and malls"
 url: "www.shoppingantartica.com.br"
+latitude: -25.435429
+longitude: -49.282737
 ---
 
 The best place for shopping in Ponta Grossa.

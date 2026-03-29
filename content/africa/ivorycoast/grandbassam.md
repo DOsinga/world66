@@ -1,6 +1,8 @@
 ---
 title: "Grand bassam"
 type: location
+latitude: 5.212884
+longitude: -3.743226
 ---
 
 From 1893 to 1899 Grand Bassam was the capital of the French colonial power in Cote d'Ivoire. They left in a hurry because of a yellow fevere epidemy and moved to [Bingerville](/africa/ivorycoast/bingerville). 

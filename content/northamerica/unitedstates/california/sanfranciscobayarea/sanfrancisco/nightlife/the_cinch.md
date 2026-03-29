@@ -4,6 +4,8 @@ type: poi
 address: "1723 Polk St."
 type: "Gay and Lesbian"
 url: "www.sfgaybarlist.com#cinch"
+latitude: 37.792743
+longitude: -122.421437
 ---
 
 This western bar,complete with saloon doors, is my favorite gay bar on Polk Street. Also, don't miss the

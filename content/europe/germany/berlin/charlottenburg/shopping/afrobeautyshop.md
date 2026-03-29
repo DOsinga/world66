@@ -1,9 +1,12 @@
 ---
 title: "Afro Beauty Shop"
 type: poi
+latitude: 52.567615
+longitude: 13.364802
 ---
 
-Out of Africa but stocked with everything a desert mouse need: cosmetics, wigs, hairpieces, fabrics - not all produced in Africa but very authentic-looking. 
+Out of Africa but stocked with everything a desert mouse need: cosmetics, wigs, hairpieces, fabrics - not all produced in Africa but very authentic-looking.
+ 
 
 connection: U+S Zoologischer Garten
 

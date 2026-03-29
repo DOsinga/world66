@@ -1,6 +1,8 @@
 ---
 title: "Wells"
 type: location
+latitude: 51.209451
+longitude: -2.64512
 ---
 
 Wells actually is a city, England's smallest. Like the village city of St David's in Wales, its claim to fame is its cathedral and what a cathedral at that. It rivals the totally different cathedrals of

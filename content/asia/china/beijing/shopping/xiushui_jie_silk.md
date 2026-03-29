@@ -3,6 +3,8 @@ title: "Xiushui Jie (Silk Alley)"
 type: poi
 address: "Jianguomen Dajie"
 type: "Markets"
+latitude: 39.907045
+longitude: 116.416298
 ---
 
 Once this was a crowded alley where vendors sold fake goods and people bargained to not get ripped off too badly.

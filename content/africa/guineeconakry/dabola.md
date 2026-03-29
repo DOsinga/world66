@@ -1,6 +1,8 @@
 ---
 title: "Dabola"
 type: location
+latitude: 10.742172
+longitude: -11.106486
 ---
 
 We currently have no information about Dabola.

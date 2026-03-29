@@ -1,6 +1,8 @@
 ---
 title: "Juchipila"
 type: location
+latitude: 21.378099
+longitude: -103.126093
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Sintra"
 type: poi
+latitude: 38.835545
+longitude: -9.352237
 ---
 
 This village placed a few miles from Lisbon has an undisputable beauty. Once favourite resting place for the Portuguese Kings, **Sintra **is

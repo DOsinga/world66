@@ -1,6 +1,8 @@
 ---
 title: "Cetinje"
 type: location
+latitude: 42.389633
+longitude: 18.924609
 ---
 
 Travel Guide

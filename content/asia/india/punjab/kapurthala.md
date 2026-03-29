@@ -1,6 +1,8 @@
 ---
 title: "Kapurthala"
 type: location
+latitude: 31.385648
+longitude: 75.30533
 ---
 
 Travel Guide

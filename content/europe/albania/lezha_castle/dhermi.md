@@ -1,6 +1,8 @@
 ---
 title: "Dhermi"
 type: location
+latitude: 40.151199
+longitude: 19.641412
 ---
 
 Travel Guide

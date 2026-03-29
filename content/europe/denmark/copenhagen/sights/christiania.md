@@ -2,6 +2,8 @@
 title: "Christiania"
 type: poi
 type: "Hotspots"
+latitude: 55.677211
+longitude: 12.610452
 ---
 
 Christiania is a 'free state' inside Copenhagen. Originally a

@@ -1,6 +1,8 @@
 ---
 title: "Vårgårda"
 type: location
+latitude: 58.034007
+longitude: 12.776927
 ---
 
 Travel Guide

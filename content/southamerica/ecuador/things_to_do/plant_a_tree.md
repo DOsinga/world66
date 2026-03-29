@@ -4,6 +4,8 @@ type: poi
 address: "San Luis de Pambil, Bolivar, Ecuador"
 type: "Other"
 url: "www.farmstaysecuador.org"
+latitude: -1.233547
+longitude: -79.239342
 ---
 
 A charity-run ecotourism project supporting reforestation and the local community offers basic farmstays in family homes in a poor agricultural area of great natural beauty. The farmstay price includes bed, breakfast & planting a tree.

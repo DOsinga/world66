@@ -2,6 +2,8 @@
 title: "Central Park"
 type: poi
 type: "Hotspots"
+latitude: 40.782773
+longitude: -73.965363
 ---
 
 The Central park in New York city was furnished in 1859 as a scenery park and is used since then also as a national park. Today he applies on a length of 4.1 km of 59. up to the 110th street and 840-m width between the 5th and 8th avenue, and the green lung of New York is also called. With approx. 3.4 km ² he takes about 5% of the ground surface Manhattans.

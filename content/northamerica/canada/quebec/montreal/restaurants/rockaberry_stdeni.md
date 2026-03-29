@@ -7,6 +7,8 @@ price: "$5-$15"
 type: "Lunch"
 url: "www.restomontreal.ca"
 zipcode: "H2J 2K9"
+latitude: 45.522459
+longitude: -73.579206
 ---
 
 Rockaberry on St-Denis in Montreal offers customers a wide array of home-made pies made with only the finest ingredients.

@@ -1,6 +1,8 @@
 ---
 title: "Internet Cafes"
 type: location
+latitude: 44.435157
+longitude: 8.962876
 ---
 
 update test
@@ -9,7 +11,8 @@ update test
 
 **Internet Point city**
 
-At 200 mt. from Vatican. Facilities: 12 computers available, printer, scanner, video conference, aol 'friendly'. The first Internet Point born in Rome fast connections with DUAL ISDN and more multimedials workstations. HOURS: from 9 A.M. to 8 P.M.  
+At 200 mt. from Vatican. Facilities: 12 computers available, printer, scanner, video conference, aol 'friendly'. The first Internet Point born in Rome fast connections with DUAL ISDN and more multimedials workstations. HOURS: from 9 A.M. to 8 P.M. 
+ 
 
 fax: +39 (0)6 - 68809737
 
@@ -25,9 +28,12 @@ tel: +39 (0)6 - 68308823
 
 The Internet Train Cafe is located at 300 meters in front of the main railway station (Stazione Termini). Large air conditioned rooms, friendly english and spanish speaking staff. Japanese write/read program, 25 PC's available.
 
- Opening Hours: 10:00am - 12:00am
 
- WEBPAGE Mail 
+ Opening Hours: 10:00am - 12:00am
+
+
+ WEBPAGE Mail
+ 
 
 fax: 06 478 23 862
 
@@ -41,7 +47,9 @@ tel: 06 478 23 862
 
 Near the university "La Sapienza" you will find this cybercafé with a quite comfortable bar and a really good PC equipment.
 
- [Internet Cafes](/europe/italy/lazio/rome/cybercafs)WEBPAGE Mail  
+
+ [Internet Cafes](/europe/italy/lazio/rome/cybercafs)WEBPAGE Mail 
+ 
 
 fax: +39 (0)6 4454953
 
@@ -55,7 +63,8 @@ tel: +39 (0)6 4454953
 
 Restaurant, bar and Internet Café with warm and relaxed atmosphere. Located in Ostia near to Rome a shot walk from the sea. Opening Hours: every day 19:30 - 01.00 (summertime up to 24.00 only), Friday and Saturday 19:30 - 2:00
 
-WEBPAGE 
+WEBPAGE
+ 
 
 address: Via Delle Antille, 39, Ostia, Rome
 
@@ -65,7 +74,8 @@ tel: +39 (0)6 - 5610915
 
 **THENETGATE **
 
-Located near the Pantheon, large air conditioned rooms, friendly english and spanish speaking staff. Japanese write/read browser available. Multilingual webmail, 35 computers available. Openings: 10.30 am to 9 pm. 
+Located near the Pantheon, large air conditioned rooms, friendly english and spanish speaking staff. Japanese write/read browser available. Multilingual webmail, 35 computers available. Openings: 10.30 am to 9 pm.
+ 
 
 fax: +39 (0)6 6879098
 
@@ -79,7 +89,8 @@ tel: +39 (0)6 6893445
 
 **EXCAPE Internet Cafe**
 
-The Café offers nice atmosphere, snacks, music, 23 Personal Computers, Printers & Scanner and a internet connection @ 128 kb/s.  
+The Café offers nice atmosphere, snacks, music, 23 Personal Computers, Printers & Scanner and a internet connection @ 128 kb/s. 
+ 
 
 fax: +39 (0)68 638 2721
 

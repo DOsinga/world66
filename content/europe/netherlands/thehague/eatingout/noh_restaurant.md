@@ -7,6 +7,8 @@ phone: "0031703633320"
 price: "30-35"
 type: "Japanese"
 url: "www.nohrestaurant.nl"
+latitude: 52.07971
+longitude: 4.304507
 ---
 
 NOH is one of the most relaxing and finest Japanese restaurant in The Hague, providing all the basics for an enjoyable evening.

@@ -7,6 +7,8 @@ phone: "+ 351 226 180 152 / 226 100 691"
 price: "20 euros"
 type: "International"
 url: "www.tavi.pt"
+latitude: 41.15207
+longitude: -8.677473
 ---
 
 Located on the Rua Senhora da Luz, in the heart of the seaside Foz district, is one of

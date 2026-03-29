@@ -1,6 +1,8 @@
 ---
 title: "Dunmore"
 type: location
+latitude: 41.419803
+longitude: -75.632411
 ---
 
 Travel Guide

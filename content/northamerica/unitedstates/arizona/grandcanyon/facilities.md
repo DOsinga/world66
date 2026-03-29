@@ -2,6 +2,8 @@
 title: "Facilities"
 type: location
 type: "general"
+latitude: 34.221363
+longitude: -118.42065
 ---
 
 ### [NORTH RIM: There is a small camper store adjacent to the North Rim Campground.](/northamerica/unitedstates/arizona/grandcanyon/facilities/northrimthereisasmallcamperstoreadjacenttothenorthrimcampground)

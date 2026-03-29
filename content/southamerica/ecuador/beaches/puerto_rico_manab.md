@@ -1,6 +1,8 @@
 ---
 title: "Puerto Rico, Manabi"
 type: poi
+latitude: -1.636782
+longitude: -80.828563
 ---
 
 One of the beautiful beaches in the world. It's almost three hours from Guayaquil going throught La Ruta del Sol. Next to Puerto Rico is Piqueros, Puerto López, Los Frailes.

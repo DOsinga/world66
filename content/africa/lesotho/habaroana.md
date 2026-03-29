@@ -1,6 +1,8 @@
 ---
 title: "Ha baroana"
 type: location
+latitude: -29.364567
+longitude: 27.798295
 ---
 
 We currently have no information about Ha baroana.

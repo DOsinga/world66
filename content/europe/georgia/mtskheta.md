@@ -1,6 +1,8 @@
 ---
 title: "Mtskheta"
 type: location
+latitude: 41.846295
+longitude: 44.719559
 ---
 
 Mtskheta, the ancient capital of Georgia, is one of the most interesting historic towns in Georgia. The main attraction in town is the cathedral. 

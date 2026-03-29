@@ -6,6 +6,8 @@ email: "postmaster@inkanatura.com.pe"
 phone: "51 1 4402022"
 url: "www.inkanatura.com"
 zipcode: "Lima 27"
+latitude: -12.094254
+longitude: -77.034065
 ---
 
 Tour operator with offices in different cities in Peru offers tour in the North of Peru including Trujillo, Chiclayo, Chachapoyas and Kuelap.

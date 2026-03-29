@@ -1,6 +1,8 @@
 ---
 title: "Sitia"
 type: location
+latitude: 35.156218
+longitude: 26.081482
 ---
 
 Travel Guide

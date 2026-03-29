@@ -1,6 +1,8 @@
 ---
 title: "Denman Island"
 type: location
+latitude: 49.54177
+longitude: -124.794502
 ---
 
 Travel Guide

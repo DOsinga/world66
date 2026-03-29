@@ -4,6 +4,8 @@ type: section
 address: "Bangatan 3"
 phone: "+46 510 - 20020"
 type: "Tourist information"
+latitude: 55.589811
+longitude: 13.009807
 ---
 
 Miscellaneous practical information

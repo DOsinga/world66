@@ -7,6 +7,8 @@ closing_time: "6pm to 2am Tues to Sat"
 phone: "03 5786 2887"
 type: "Jazz"
 url: "www.bourbonstreet-tokyo.com"
+latitude: 35.664248
+longitude: 139.727927
 ---
 
 Bar Bourbon Street is an intimate N'Orleans style blues bar with free live music every night. Not at all like the rest of Roppongi, it's a very laid back kind of comfortable neighborhood bar. 20 kinds of wines by the glass, about 35 brands of bourbon, regular N'Orleans cocktails like Hurricanes & Sazeracs and also Cuban cigars !! Live blues or Dixieland jazz everynight with no cover charge makes it a great place to chill. The colourfull owner adds to the charm. Let the good times roll....

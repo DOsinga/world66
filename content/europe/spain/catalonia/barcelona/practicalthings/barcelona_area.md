@@ -2,6 +2,8 @@
 title: "Barcelona Area"
 type: poi
 type: "Tourist information"
+latitude: 41.398657
+longitude: 2.073086
 ---
 
 City is full of tourists. Try to speak Spanish or Catalan at the first begging and then ask to speak in English. Even that Barcelona is the Spanish cities where the English is more common in the street does not mean that everybody would udnertand a minimum.

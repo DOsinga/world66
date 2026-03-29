@@ -1,6 +1,8 @@
 ---
 title: "Hama"
 type: location
+latitude: 35.134337
+longitude: 36.749628
 ---
 
 North of Damascus in a rich agricultural region Hama (pop. 237 000) is an ancient Syrian city—it’s mentioned in accounts of 4 000 years ago. It’s an attractive town in spite of the fact that most of its Old City was razed following the 1982 uprising by the Muslim Brotherhood (some 20 000 townspeople were killed during the rebellion).

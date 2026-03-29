@@ -4,6 +4,8 @@ type: poi
 address: "Albareda, 15"
 phone: "+34 (954) 210 521"
 type: "Spanish"
+latitude: 37.38942
+longitude: -5.995822
 ---
 
 type: Spanish

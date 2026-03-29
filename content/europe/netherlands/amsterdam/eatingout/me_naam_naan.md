@@ -7,6 +7,8 @@ phone: "020 4233344"
 price: "€ 27.50"
 type: "Thai"
 url: "www.menaamnaan.nl"
+latitude: 52.37236
+longitude: 4.902047
 ---
 
 The best Thai Food in town. Thai restaurant Me Naam Naan is located

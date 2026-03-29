@@ -6,6 +6,8 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Other"
 url: "egypttourinfo.com"
+latitude: 30.044388
+longitude: 31.235726
 ---
 
 For those who haven’t much time, the Cairo Egypt Budget Tour is extensive and stimulating, offering the best of Egypt to participants.

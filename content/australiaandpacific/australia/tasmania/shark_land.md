@@ -1,6 +1,8 @@
 ---
 title: "shark land"
 type: location
+latitude: -41.613701
+longitude: 145.711187
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "The Ovens Bar"
 type: location
 address: "16/17 Oliver Plunkett St."
 phone: "(021) 4279663"
+latitude: 51.898188
+longitude: -8.469265
 ---
 
 Located on Oliver Plunkett Street, 'The Ovens' is an ideal spot for a

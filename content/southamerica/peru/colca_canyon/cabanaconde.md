@@ -1,6 +1,8 @@
 ---
 title: "Cabanaconde"
 type: location
+latitude: -15.622076
+longitude: -71.98087
 ---
 
 Travel Guide

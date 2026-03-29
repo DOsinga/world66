@@ -1,6 +1,8 @@
 ---
 title: "Agropoli"
 type: location
+latitude: 40.346905
+longitude: 14.996553
 ---
 
 Travel Guide

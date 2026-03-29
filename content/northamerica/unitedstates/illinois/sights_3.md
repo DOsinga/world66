@@ -1,6 +1,8 @@
 ---
 title: "Sights"
 type: location
+latitude: 39.788474
+longitude: -92.929598
 ---
 
 **Chicago **- 

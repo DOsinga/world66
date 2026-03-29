@@ -8,6 +8,8 @@ email: "info@sushidiscoclub.com"
 phone: "244852264"
 type: "Clubs and dancing"
 url: "www.sushidiscoclub.com"
+latitude: 41.478184
+longitude: -7.178508
 ---
 
 All the first Friday in the month, there is a special Sushi Eletronic Party. Apart from that, is simple the best disco in town and surroundings.

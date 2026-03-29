@@ -1,6 +1,8 @@
 ---
 title: "Menemsha"
 type: location
+latitude: 41.351779
+longitude: -70.764195
 ---
 
 Travel Guide

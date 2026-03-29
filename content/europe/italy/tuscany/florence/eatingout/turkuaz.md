@@ -5,6 +5,8 @@ accessibility: "24 hours"
 address: "via dei Servi  65r"
 phone: "055 2399959"
 type: "Cheap"
+latitude: 43.7752
+longitude: 11.259055
 ---
 
 Turkuaz is a local resturant that specializes in turkish and middle eastern food. It is in via dei Servi, 5 minutes walk from the duomo and the accademia where you can see the "David".

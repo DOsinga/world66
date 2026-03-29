@@ -1,6 +1,8 @@
 ---
 title: "Jakar"
 type: location
+latitude: 27.549639
+longitude: 90.752735
 ---
 
 Travel Guide

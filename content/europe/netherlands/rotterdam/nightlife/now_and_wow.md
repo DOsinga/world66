@@ -5,6 +5,8 @@ address: "maashaven 22"
 closing_time: "6am?"
 type: "Clubs and dancing"
 url: "www.now-wow.com"
+latitude: 51.198394
+longitude: 5.984985
 ---
 
 Rotterdam's hippest and most popular club in 2005. €15 entrance on Sat

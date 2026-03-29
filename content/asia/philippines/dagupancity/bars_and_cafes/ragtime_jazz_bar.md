@@ -2,6 +2,8 @@
 title: "Ragtime Jazz Bar"
 type: poi
 address: "Perez Blvd"
+latitude: 15.926327
+longitude: 120.356963
 ---
 
 Ragtime, located at the corner of Perez, Herrero and MH del Pilar

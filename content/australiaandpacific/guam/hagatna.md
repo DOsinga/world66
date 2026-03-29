@@ -1,6 +1,8 @@
 ---
 title: "Hagatna"
 type: location
+latitude: 13.473861
+longitude: 144.752056
 ---
 
 We currently have no information about Hagatna.

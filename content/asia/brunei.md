@@ -1,6 +1,8 @@
 ---
 title: "Brunei"
 type: location
+latitude: 4.413716
+longitude: 114.565391
 ---
 
 Travel Guide

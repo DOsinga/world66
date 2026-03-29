@@ -5,6 +5,8 @@ address: "4100 Central Ave SE,"
 phone: "(505)255-3334"
 type: "Clubs"
 zipcode: "Albuquerque, NM"
+latitude: 35.078988
+longitude: -106.598664
 ---
 
 type: Clubs

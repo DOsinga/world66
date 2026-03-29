@@ -8,6 +8,8 @@ email: "contact@nirvanamasaj.ro"
 phone: "+40721.90.44.19"
 type: "Erotic clubs and bars"
 url: "www.nirvanamasaj.ro"
+latitude: 44.43423
+longitude: 26.070453
 ---
 
 Normal

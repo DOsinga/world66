@@ -1,6 +1,8 @@
 ---
 title: "By bus"
 type: poi
+latitude: -23.513594
+longitude: -46.651812
 ---
 
 "/>

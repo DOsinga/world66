@@ -6,6 +6,8 @@ email: "hapersnationwide18@hotmail.com"
 phone: "9230721101"
 type: "Antiques"
 url: "www.hampersnationwide.com"
+latitude: 43.264849
+longitude: -77.02494
 ---
 
 It’s a rich collection of gift items that’s waiting your visit at **www.hampersnationwide.com **to rock the celebration bash, no matter which celebration and where you want to have them. Its **HampersNationWide.Com **wonder collections that do this magic for you, and all the individual gift items, you name it floral bouquet,

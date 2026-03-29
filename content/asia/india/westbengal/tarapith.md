@@ -1,6 +1,8 @@
 ---
 title: "Tarapith"
 type: location
+latitude: 24.115199
+longitude: 87.796868
 ---
 
 Travel Guide

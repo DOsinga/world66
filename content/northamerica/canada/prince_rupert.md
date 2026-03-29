@@ -1,6 +1,8 @@
 ---
 title: "Prince Rupert"
 type: location
+latitude: 54.312657
+longitude: -130.32549
 ---
 
 **The City Of Prince Rupert... **

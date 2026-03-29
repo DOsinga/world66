@@ -7,6 +7,8 @@ email: "info@touchohiocity.com"
 phone: "216.631.5200"
 type: "Clubs and dancing"
 url: "www.touchohiocity.com"
+latitude: 41.483591
+longitude: -81.704887
 ---
 
 Any

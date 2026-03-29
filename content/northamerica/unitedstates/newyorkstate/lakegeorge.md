@@ -1,6 +1,8 @@
 ---
 title: "Lake George"
 type: location
+latitude: 43.425996
+longitude: -73.712425
 ---
 
 "Lake George is without comparison, the most beautiful water I ever saw; formed by a contour of mountains into a basin... finely interspersed with islands, its water limpid as crystal, and the mountain sides covered with rich groves... down to the water-edge: here and there precipices of rock to checker the scene and save it from monotony." 

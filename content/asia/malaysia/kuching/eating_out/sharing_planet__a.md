@@ -8,6 +8,8 @@ phone: "082 242428"
 price: "RM5.8 - RM38.8"
 type: "International"
 url: "www.sharing-planet.com"
+latitude: 1.534317
+longitude: 110.328497
 ---
 
 Sharing Planet is an uniquely designed wooden built restaurant in Kuching, you can enjoy western food anywhere else, but dinning here will definitely be one of your unforgetable experience!

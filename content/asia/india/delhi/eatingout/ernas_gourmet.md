@@ -7,6 +7,8 @@ phone: "+91-9818895546"
 price: "500"
 type: "European"
 url: "www.ernas.at"
+latitude: 28.554886
+longitude: 77.171084
 ---
 
 Erna's Gourmet offers a range of bread-spreads and fingerfood made to age-old Austrian and European recipes.

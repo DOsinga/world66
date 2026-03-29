@@ -1,6 +1,8 @@
 ---
 title: "Fatâl"
 type: poi
+latitude: 47.489097
+longitude: 19.055918
 ---
 
 Fatâl actually means 'wooden platter', which is how most dishes are presented to a mainly tourist clientele. Good, simple country food served at a reasonable price. No credit cards accepted.

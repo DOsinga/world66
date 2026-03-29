@@ -4,6 +4,8 @@ type: poi
 address: "148 S. Barrington Ave. Los Angeles, 90049"
 phone: "(310) 476-3511"
 type: "American"
+latitude: 34.064616
+longitude: -118.469148
 ---
 
 Equal parts art gallery and hip eatery, this

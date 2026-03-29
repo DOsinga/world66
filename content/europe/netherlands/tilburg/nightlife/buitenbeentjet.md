@@ -6,6 +6,8 @@ closing_time: "03.00"
 phone: "+31 (0)13 536 0466"
 type: "Pubs"
 zipcode: "5038CN"
+latitude: 51.718698
+longitude: 5.272508
 ---
 
 't Buitenbeentje has one the best positions in the centre of town; it's

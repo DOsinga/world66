@@ -1,6 +1,8 @@
 ---
 title: "Ely"
 type: location
+latitude: 52.39902
+longitude: 0.262039
 ---
 
 Ely is one of two cities in England, Wells being the other, that is virtually dependent on its cathedral for its number of visitors. The Cathedral is covered under ‘Sights.’ 

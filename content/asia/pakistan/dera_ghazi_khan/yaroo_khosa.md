@@ -1,6 +1,8 @@
 ---
 title: "Yaroo Khosa"
 type: location
+latitude: 30.164857
+longitude: 70.611919
 ---
 
 Travel Guide

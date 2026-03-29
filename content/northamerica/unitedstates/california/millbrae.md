@@ -1,6 +1,8 @@
 ---
 title: "Millbrae"
 type: location
+latitude: 37.598958
+longitude: -122.400941
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "El Alto"
 type: location
+latitude: -16.504823
+longitude: -68.162434
 ---
 
 Travel Guide

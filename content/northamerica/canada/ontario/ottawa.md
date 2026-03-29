@@ -1,6 +1,8 @@
 ---
 title: "Ottawa"
 type: location
+latitude: 45.420878
+longitude: -75.690111
 ---
 
 Ottawa is Canada's capital, and it is a city well worth a visit. For a current view of the Parliament Buildings, visit Parliament Hill.

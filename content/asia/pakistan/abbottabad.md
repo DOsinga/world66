@@ -1,6 +1,8 @@
 ---
 title: "Abbottabad"
 type: location
+latitude: 34.143614
+longitude: 73.213275
 ---
 
 Travel Guide

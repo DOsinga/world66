@@ -1,6 +1,8 @@
 ---
 title: "Tui"
 type: location
+latitude: 42.050137
+longitude: -8.646641
 ---
 
 **Tui** has a legendary origin, explained by its privileged location

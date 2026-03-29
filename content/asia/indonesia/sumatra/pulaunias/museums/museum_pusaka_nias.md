@@ -8,6 +8,8 @@ opening_hours: "0"
 phone: "0"
 type: "general"
 url: "www.museum-nias.org"
+latitude: 1.236156
+longitude: 97.619774
 ---
 
 Museum Pusaka Nias is located in Jl. Yos Sudarso No. 134-A, Gunungsitoli 22812 Nias, its about 2 km from GunungSitoli town.

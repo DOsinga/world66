@@ -1,6 +1,8 @@
 ---
 title: "San Donato Milanese"
 type: location
+latitude: 45.41807
+longitude: 9.27165
 ---
 
 Travel Guide

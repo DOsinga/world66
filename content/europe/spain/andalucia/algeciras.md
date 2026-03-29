@@ -1,6 +1,8 @@
 ---
 title: "Algeciras"
 type: location
+latitude: 36.131172
+longitude: -5.447399
 ---
 
 Algeciras since the Roman Empire is the capital of the Gibraltar field. This big, industrial city is very important by its harbour, the second in Europe.

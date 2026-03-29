@@ -1,6 +1,8 @@
 ---
 title: "San Policarpo Eastern Samar"
 type: location
+latitude: 12.179706
+longitude: 125.507246
 ---
 
 Travel Guide

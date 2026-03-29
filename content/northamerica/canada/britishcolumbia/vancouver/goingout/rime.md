@@ -5,6 +5,8 @@ address: "1050 Commercial Drive"
 closing_time: "later"
 type: "Jazz"
 url: "rime.ca"
+latitude: 37.737651
+longitude: -84.268777
 ---
 
 Live music 7 nights a week. Located on the bohemian strip of Commercial Drive.

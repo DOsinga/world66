@@ -1,6 +1,8 @@
 ---
 title: "Perast"
 type: location
+latitude: 42.486268
+longitude: 18.698859
 ---
 
 Travel Guide

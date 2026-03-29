@@ -1,6 +1,8 @@
 ---
 title: "Kackar"
 type: location
+latitude: 41.098659
+longitude: 40.814018
 ---
 
 Travel Guide

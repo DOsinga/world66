@@ -1,6 +1,8 @@
 ---
 title: "Yorktown"
 type: location
+latitude: 37.235666
+longitude: -76.513649
 ---
 
 This locale is in [Virginia](/northamerica/unitedstates/virginia), not [West Virginia](/northamerica/unitedstates/westvirginia)

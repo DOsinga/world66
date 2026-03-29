@@ -1,6 +1,8 @@
 ---
 title: "Umag"
 type: location
+latitude: 45.432359
+longitude: 13.52241
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Sixt Fer-à-Cheval"
 type: location
+latitude: 46.054705
+longitude: 6.775372
 ---
 
 Although Sixt is not far as the crow - or eagle? - flies form Chamonix, Mont Blanc and the areas of mass tourism and Mont Blanc may well be visible from your tent, it is at the end of a road through Samoens into the high Alps and is thus a bit of a backwater. 

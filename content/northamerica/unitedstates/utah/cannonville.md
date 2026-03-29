@@ -1,6 +1,8 @@
 ---
 title: "Cannonville"
 type: location
+latitude: 37.566958
+longitude: -112.053855
 ---
 
 Travel Guide

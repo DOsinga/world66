@@ -1,6 +1,8 @@
 ---
 title: "Galichnik"
 type: location
+latitude: 41.594841
+longitude: 20.654209
 ---
 
 Galichnik is a village on Bistra mountain in Western Macedonia. Each summer on the Orthodox Christian holliday of* St. Peter's day* (old calendar, the weekend around July 12) the **Galichnik Wedding Festival** takes place. 

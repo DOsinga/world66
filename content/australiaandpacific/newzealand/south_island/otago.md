@@ -1,6 +1,8 @@
 ---
 title: "Otago"
 type: location
+latitude: -45.397505
+longitude: 170.177892
 ---
 
 **Otago** is one of the origin provinces of [New Zealand](/australiaandpacific/newzealand). It's largest city is [Dunedin](/australiaandpacific/newzealand/dunedin), a city founded by Scots and named after [Edinburgh](/europe/unitedkingdom/scotland/edinburgh), the capital of [Scotland](/europe/unitedkingdom/scotland). Scottish place names abound thoughout the region.

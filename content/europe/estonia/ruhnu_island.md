@@ -1,6 +1,8 @@
 ---
 title: "Ruhnu Island"
 type: location
+latitude: 57.802439
+longitude: 23.243165
 ---
 
 Travel Guide

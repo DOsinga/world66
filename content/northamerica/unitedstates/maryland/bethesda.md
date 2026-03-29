@@ -1,6 +1,8 @@
 ---
 title: "Bethesda"
 type: location
+latitude: 38.981273
+longitude: -77.123359
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ opening_hours: "Sun-Thu 10.00-18.00, Fri-Sat 10.00-22.00"
 phone: "020 7887 8000"
 type: "Hotspots"
 url: "www.tate.org.uk"
+latitude: 51.508176
+longitude: -0.099134
 ---
 
 Since Tate Modern opened in 2000 in the former power station building, it's become one of London's biggest tourist attractions. Upon entering the gallery you are greeted by a cavernous hall, which different artists have tried to fill; from a huge golden sun to a large tube that snaked from one end to the other.

@@ -1,6 +1,8 @@
 ---
 title: "Misano Adriatico"
 type: location
+latitude: 43.977495
+longitude: 12.698695
 ---
 
 This resort has three kilometres of beach that marks the borcler line between the Regions of Romagna and Marche. 

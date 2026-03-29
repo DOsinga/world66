@@ -2,6 +2,8 @@
 title: "St. John's."
 type: poi
 type: "Churches"
+latitude: 56.94762
+longitude: 24.110632
 ---
 
 Jana7, tel.: 7224028/7225171. Open 11-18.

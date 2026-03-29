@@ -5,6 +5,8 @@ address: "Phyllis"
 email: "samuel@mail.com"
 phone: "Phyllis"
 url: "thaitechnics.com"
+latitude: 37.442605
+longitude: -82.335978
 ---
 
 Nice site!

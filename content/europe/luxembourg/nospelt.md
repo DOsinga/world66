@@ -1,6 +1,8 @@
 ---
 title: "Nospelt"
 type: location
+latitude: 49.674537
+longitude: 6.007951
 ---
 
 We currently have no information about Nospelt.

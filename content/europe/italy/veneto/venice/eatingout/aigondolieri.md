@@ -7,6 +7,8 @@ phone: "+39 (0)41 - 528 63 96"
 price: "€ 50,-"
 type: "Local"
 url: "www.aigondolieri.com"
+latitude: 45.430288
+longitude: 12.330769
 ---
 
 "Ai Gondolieri" is probably one of the best Venetian restaurant today, but its origin dates tel: +39 (0)41 - 528 63 96

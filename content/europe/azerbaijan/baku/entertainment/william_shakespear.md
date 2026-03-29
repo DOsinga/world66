@@ -3,6 +3,8 @@ title: "WILLIAM SHAKESPEARE PUB"
 type: location
 closing_time: "03.00 p.m."
 type: "Pubs"
+latitude: 40.368997
+longitude: 49.838577
 ---
 
 August 2009 - Shakespeares has relocated and is now nestled between Finnegans Irish Pub and Adams on A. Alizade Street. It is run by the same owner so the overall standard remains high.

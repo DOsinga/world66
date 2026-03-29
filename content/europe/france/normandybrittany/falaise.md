@@ -1,6 +1,8 @@
 ---
 title: "Falaise"
 type: location
+latitude: 48.896474
+longitude: -0.199913
 ---
 
 Birthplace of William the Conqueror, Falaise preserves a heritage of exceptional architecture: the Anglo-Norman keeps, the city walls, the ramparts flanked by towers. 

@@ -1,6 +1,8 @@
 ---
 title: "Castro Marim"
 type: location
+latitude: 37.217937
+longitude: -7.44571
 ---
 
 Travel Guide

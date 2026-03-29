@@ -2,6 +2,8 @@
 title: "Elephanta Caves"
 type: poi
 type: "Hotspots"
+latitude: 18.96341
+longitude: 72.931359
 ---
 
 Elephanta Island makes Mumbai an obligatory stop. The island, reachable within an hour by boat, has old rock-cut Hindu temples, shrines and caves that date back from the 6th century. The whole island is dedicated to the Hindu Lord Siva. The Elephanta Caves have been declared a World Heritage Site by UNESCO. You can catch a boat at the Gateway of India.

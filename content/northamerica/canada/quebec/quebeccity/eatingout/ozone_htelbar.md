@@ -5,6 +5,8 @@ address: "2800, boulevard Laurier  G1V 2M1"
 phone: "1-877-778-8977"
 type: "Local"
 url: "www.global-reservation.com"
+latitude: 46.768197
+longitude: -71.28684
 ---
 
 Nice place for a lunch or dinner, in Ste Foy, outside the main centre of Quebec, on Boulevard Laurier.

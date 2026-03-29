@@ -1,6 +1,8 @@
 ---
 title: "Museums"
 type: poi
+latitude: -25.746614
+longitude: 28.182028
 ---
 
 **Sights**

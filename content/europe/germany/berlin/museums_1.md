@@ -3,6 +3,8 @@ title: "Museums"
 type: location
 email: "pr@kulturprojekte-berlin.de"
 url: "www.museumsportal-berlin.de"
+latitude: 51.337379
+longitude: 12.387171
 ---
 
 e1mst1ngvuhb46h docvq25ua9p tn9zjfllqt9uw4u

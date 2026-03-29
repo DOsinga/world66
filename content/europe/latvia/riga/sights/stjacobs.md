@@ -2,6 +2,8 @@
 title: "St. Jacob's."
 type: poi
 type: "Churches"
+latitude: 56.969321
+longitude: 24.137879
 ---
 
 Klostera 2.

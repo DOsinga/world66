@@ -4,6 +4,8 @@ type: poi
 address: "Wilhelm-Hauff-Strasse 5"
 phone: "+49 (0)69 75 23 75"
 type: "Indian"
+latitude: 52.469112
+longitude: 13.336921
 ---
 
 type: Indian

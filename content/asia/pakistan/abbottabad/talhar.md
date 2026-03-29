@@ -1,6 +1,8 @@
 ---
 title: "TALHAR"
 type: location
+latitude: 24.881266
+longitude: 68.814296
 ---
 
 Travel Guide

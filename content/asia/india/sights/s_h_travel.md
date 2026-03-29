@@ -7,6 +7,8 @@ opening_hours: "9.30am-6pm"
 phone: "+91 177 2860630"
 type: "Hotspots"
 url: "www.sikkimhotravel.com"
+latitude: 13.017253
+longitude: 80.212299
 ---
 
 Heritage Tour to Sikkim Monasteries

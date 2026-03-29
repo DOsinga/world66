@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Landmarks"
+latitude: 54.046233
+longitude: -2.900523
 ---
 
 The center of Dover is small. There are a couple of interesting sights though.

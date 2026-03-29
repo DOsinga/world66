@@ -1,6 +1,8 @@
 ---
 title: "Shikarpur"
 type: location
+latitude: 27.957908
+longitude: 68.646748
 ---
 
 We currently have no information about Shikarpur.

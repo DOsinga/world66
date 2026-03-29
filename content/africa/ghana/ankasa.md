@@ -1,6 +1,8 @@
 ---
 title: "Ankasa"
 type: location
+latitude: 5.300011
+longitude: -2.613273
 ---
 
 Travel Guide

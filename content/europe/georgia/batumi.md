@@ -1,6 +1,8 @@
 ---
 title: "Batumi"
 type: location
+latitude: 41.65095
+longitude: 41.636009
 ---
 
 Batumi is located in the south, on the [Black Sea Coast](/europe/romania/blackseacoast), close to the border with [Turkey](/asia/turkey). 

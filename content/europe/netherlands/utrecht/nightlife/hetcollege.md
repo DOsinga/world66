@@ -5,6 +5,8 @@ address: "Mariastraat 3"
 phone: "+31 (0)30 231 9136"
 type: "Pubs"
 zipcode: "3511LN"
+latitude: 52.090589
+longitude: 5.117072
 ---
 
 type: Pubs

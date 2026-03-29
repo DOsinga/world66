@@ -3,6 +3,8 @@ title: "Reiner de Klerk Huis"
 type: poi
 address: "Jalan Gajah Mada, Kota"
 type: "Public Buildings"
+latitude: -6.16461
+longitude: 106.819978
 ---
 
 Reiner de Klerk Huis now becomes Gedung Arsip Nasional [National Archive Building]. Situated in Jalan Gajah Mada, Kota, this building bring us to the memory about "living in the VOC [Verenigde Oost Indies Compagnie]".

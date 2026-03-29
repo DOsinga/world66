@@ -1,6 +1,8 @@
 ---
 title: "MARIE"
 type: location
+latitude: 35.61207
+longitude: -90.081854
 ---
 
 Travel Guide

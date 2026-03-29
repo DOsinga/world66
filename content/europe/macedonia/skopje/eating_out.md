@@ -4,6 +4,8 @@ type: section
 address: "ivo lola ribar 72"
 phone: "02 3079994"
 type: "European"
+latitude: 42.311072
+longitude: 21.646273
 ---
 
 Skopje has a big community of foreign people, mainly due to the presence of diplomatics and international delegations. A lot of restaurants, in general of local cuisine, but the quality is in average medium and the prices low.

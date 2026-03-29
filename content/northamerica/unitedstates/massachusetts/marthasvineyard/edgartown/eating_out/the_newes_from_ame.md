@@ -5,6 +5,8 @@ address: "23 Kelley Street"
 price: "$8-15"
 type: "American"
 url: "www.kelley-house.com"
+latitude: 42.147155
+longitude: -71.413572
 ---
 
 Old-world style pub offering big selection of bar food and a wide choice of beers.

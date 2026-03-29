@@ -1,6 +1,8 @@
 ---
 title: "Fiji"
 type: location
+latitude: -18.12397
+longitude: 179.012274
 ---
 
 Fiji is one of these paradise on earth islands in the Pacific. But the island has more to offer than just beaches where you can bum, and water where you can snorkel. 

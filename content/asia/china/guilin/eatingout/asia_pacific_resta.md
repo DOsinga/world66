@@ -3,6 +3,8 @@ title: "Asia Pacific Restaurant"
 type: poi
 address: "No. 15 Wenming Road"
 type: "Local"
+latitude: 23.00983
+longitude: 113.383994
 ---
 
 It is an upmarket restaurant which can seat more than a thousand people

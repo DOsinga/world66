@@ -1,6 +1,8 @@
 ---
 title: "Dade City"
 type: location
+latitude: 28.364725
+longitude: -82.195918
 ---
 
 Tucked amid the lush rolling hills (yes, we said rolling hills!) of eastern Pasco County sits Dade City, the county seat. Downtown Dade City makes the perfect small town getaway with quaint restaurants and more than 50 antique shops, gift stores and chic boutiques all within walking distance of each other.

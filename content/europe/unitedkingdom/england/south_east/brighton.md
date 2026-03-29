@@ -1,6 +1,8 @@
 ---
 title: "Brighton"
 type: location
+latitude: 50.821463
+longitude: -0.140056
 ---
 
 Brighton is a great seaside resort in Britain. With its cosmopolitan air, oodles of restaurants, feverish nightlife and abundance of culture, the place defies comparison with anywhere else this side of the English Channel.

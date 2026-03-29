@@ -1,6 +1,8 @@
 ---
 title: "Pertouli"
 type: location
+latitude: 39.541089
+longitude: 21.466158
 ---
 
 Travel Guide

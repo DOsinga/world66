@@ -1,6 +1,8 @@
 ---
 title: "Mainamati"
 type: location
+latitude: 23.479458
+longitude: 91.118219
 ---
 
 We currently have no information about Mainamati.

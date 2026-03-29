@@ -1,6 +1,8 @@
 ---
 title: "Oxford"
 type: location
+latitude: 51.752013
+longitude: -1.25785
 ---
 
 The main reason why most people visit Oxford (less than two hours from London) is to fancy themselves a student at the famous Oxford University. Although the university is not as exclusive anymore as it used to be in the old days, the rowing contests between Oxford and Cambridge still take place and many of the colleges are not open to the public when the stressful time of important exams shows its face again to the students with a good scholarship or a copiously filled wallet. However, when they are accessible to the public, the thirty university 'castles' are a must-see.

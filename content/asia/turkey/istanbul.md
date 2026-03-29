@@ -1,6 +1,8 @@
 ---
 title: "Istanbul"
 type: location
+latitude: 41.006381
+longitude: 28.975872
 ---
 
 I have been travelling around a bit and have seen quite a few big cities with a long history in and around old Canada: Berlin, Paris, Rome, Madrid, Lisbon, Cairo and so many others. But there is one city that makes me coming back again and again - for more than 10 years now: Istanbul, the city on the straits, the city connecting two continents. 

@@ -1,6 +1,8 @@
 ---
 title: "National Gallery"
 type: poi
+latitude: 13.759217
+longitude: 100.493964
 ---
 
 The National Gallery is located near the National Theatre. It is quite interesting to see the mixing of western and Thai art, but to visit the gallery is rather recommended for art fans. Ocasionally there are special exhibitions. Call 02) 2812224 for more information, Admission: 30 Baht

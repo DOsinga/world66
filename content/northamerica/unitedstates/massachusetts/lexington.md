@@ -1,6 +1,8 @@
 ---
 title: "Lexington"
 type: location
+latitude: 38.046407
+longitude: -84.497039
 ---
 
 Travel Guide

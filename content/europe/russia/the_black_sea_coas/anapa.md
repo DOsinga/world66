@@ -1,6 +1,8 @@
 ---
 title: "Anapa"
 type: location
+latitude: 44.894272
+longitude: 37.316887
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ phone: "(+354) 588 3090"
 price: "Low price in general"
 type: "Fast food"
 zipcode: "108"
+latitude: 64.133572
+longitude: -21.874378
 ---
 
 Hamburgers, fries, steaks, lamb steaks, fish (pan or deepfried), subs, pitas, sandwhiches, thai food during lunch time and many more foods.

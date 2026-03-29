@@ -1,6 +1,8 @@
 ---
 title: "Nanchang"
 type: location
+latitude: 28.647212
+longitude: 116.034848
 ---
 
 Travel Guide

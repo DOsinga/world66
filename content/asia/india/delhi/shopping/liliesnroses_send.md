@@ -7,6 +7,8 @@ email: "contactus@liliesnroses.com"
 phone: "09980463870"
 type: "Speciality shops"
 url: "www.liliesnroses.com"
+latitude: 12.976794
+longitude: 77.590082
 ---
 
 Online service provider to send chocolates, flowers and cakes to Bangalore Hyderabad Pune and more then 60 cities in India same day.

@@ -1,6 +1,8 @@
 ---
 title: "Midsland"
 type: location
+latitude: 53.382839
+longitude: 5.285649
 ---
 
 Located centrally, this village is well equiped for tourists. Dancings, restaurants, camp sites and bars - it's all here.

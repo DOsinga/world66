@@ -1,6 +1,8 @@
 ---
 title: "San Francisco"
 type: location
+latitude: 37.787936
+longitude: -122.40752
 ---
 
 If you're going to San Francisco.... 

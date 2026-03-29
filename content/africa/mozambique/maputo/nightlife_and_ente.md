@@ -8,6 +8,8 @@ email: "afrolatinodance@gmail.com"
 phone: "+258 847814056"
 type: "Clubs and dancing"
 url: "www.afrolatinodance.weebly.com"
+latitude: -25.967447
+longitude: 32.597744
 ---
 
 **Maputo nightlife** is active and alive, especially on the weekends. You might not find as many bars and clubs in other parts of Mozambique as you would in Maputo. There are numerous clubs that offer varied music--from quintessential Mozambique beats and rhythms to the more popular western hip-hop and pop. So, if you&rsquo;ve booked yourself at a hotel in Mozambique and have had a long day, head on over to Maputo to witness this city come alive by night.

@@ -1,6 +1,8 @@
 ---
 title: "Kufri"
 type: location
+latitude: 31.100663
+longitude: 77.263384
 ---
 
 Travel Guide

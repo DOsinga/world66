@@ -4,6 +4,8 @@ type: section
 address: "Österlånggatan 1-3"
 phone: "+46 33 - 357090"
 type: "Tourist information"
+latitude: 59.324238
+longitude: 18.073859
 ---
 
 Miscellaneous practical info.

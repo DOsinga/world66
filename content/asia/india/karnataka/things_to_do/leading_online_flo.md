@@ -6,6 +6,8 @@ email: "info@allindiaflorist.com"
 phone: "00919897064001"
 type: "Spa and Sauna"
 url: "www.allindiaflorist.com"
+latitude: 12.976794
+longitude: 77.590082
 ---
 
 http://www.allindiaflorist.com

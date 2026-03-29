@@ -6,6 +6,8 @@ email: "contact@extranomical.com"
 phone: "415-357-0700"
 type: "Other"
 url: "www.extranomical.com"
+latitude: 37.775326
+longitude: -122.39766
 ---
 
 ### [Extranomical Adventures](/northamerica/unitedstates/california/northcoast/sonoma/thingstodo/extranomical_adven)

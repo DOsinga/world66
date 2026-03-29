@@ -8,6 +8,8 @@ opening_hours: "Victor"
 phone: "Victor"
 type: "1"
 url: "phpicalendar.net"
+latitude: 38.70999
+longitude: -105.13998
 ---
 
 Thank you!

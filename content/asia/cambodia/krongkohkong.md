@@ -1,6 +1,8 @@
 ---
 title: "Krong Koh Kong"
 type: location
+latitude: 11.611009
+longitude: 102.981859
 ---
 
 **Krong Koh Kong** is a coastal village in the south-west corner of Cambodia. To the north are the Cardaman mountains. The island is only 80 km away from Thailand's island

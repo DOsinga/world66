@@ -6,6 +6,8 @@ email: "backtorajandahal@yahoo.com"
 phone: "4700356"
 type: "By Air"
 url: "www.treksntours.com"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 [Everest Base Camp / Kala Pattar Trek](/asia/nepal/getting_there/nepal_trek_and_tou)

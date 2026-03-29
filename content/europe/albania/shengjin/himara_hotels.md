@@ -1,6 +1,8 @@
 ---
 title: "Himara Hotels"
 type: location
+latitude: 40.101326
+longitude: 19.745312
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Minden"
 type: location
+latitude: 41.466715
+longitude: -95.542622
 ---
 
 Travel Guide

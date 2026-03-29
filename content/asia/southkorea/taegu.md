@@ -1,6 +1,8 @@
 ---
 title: "Taegu"
 type: location
+latitude: 35.8713
+longitude: 128.6018
 ---
 
 We currently have no information about Taegu.

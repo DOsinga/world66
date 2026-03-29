@@ -8,6 +8,8 @@ opening_hours: "-"
 phone: "-"
 type: "Landmarks"
 url: "-"
+latitude: 51.510138
+longitude: -0.133936
 ---
 
 Piccadilly Circus is a famous traffic intersection and public space of London's West End in the City of Westminster.

@@ -1,6 +1,8 @@
 ---
 title: "Bradford, Pennsylvania"
 type: location
+latitude: 41.774668
+longitude: -76.526461
 ---
 
 Travel Guide

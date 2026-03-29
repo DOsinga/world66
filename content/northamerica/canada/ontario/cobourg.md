@@ -1,6 +1,8 @@
 ---
 title: "Cobourg"
 type: location
+latitude: 43.9596
+longitude: -78.167778
 ---
 
 Travel Guide

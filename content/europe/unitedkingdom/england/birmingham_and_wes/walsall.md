@@ -1,6 +1,8 @@
 ---
 title: "Walsall"
 type: location
+latitude: 52.584795
+longitude: -1.982269
 ---
 
 Travel Guide

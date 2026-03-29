@@ -1,6 +1,8 @@
 ---
 title: "Pleven"
 type: location
+latitude: 43.480989
+longitude: 24.606067
 ---
 
 Travel Guide

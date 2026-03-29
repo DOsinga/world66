@@ -1,6 +1,8 @@
 ---
 title: "Pano Platres"
 type: location
+latitude: 34.888621
+longitude: 32.864864
 ---
 
 Travel Guide

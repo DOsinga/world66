@@ -1,6 +1,8 @@
 ---
 title: "Chaparral"
 type: location
+latitude: 32.02387
+longitude: -106.40895
 ---
 
 Travel Guide

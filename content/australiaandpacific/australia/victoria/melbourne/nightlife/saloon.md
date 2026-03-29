@@ -4,6 +4,8 @@ type: poi
 address: "King St 195"
 phone: "+61 3 9670 0980"
 type: "Dancing"
+latitude: 40.6797
+longitude: -74.013818
 ---
 
 type: Dancing

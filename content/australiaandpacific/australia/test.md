@@ -1,6 +1,8 @@
 ---
 title: "test"
 type: location
+latitude: -31.871787
+longitude: 133.456037
 ---
 
 Travel Guide

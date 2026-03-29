@@ -1,6 +1,8 @@
 ---
 title: "Erzincan"
 type: location
+latitude: 39.607343
+longitude: 39.201321
 ---
 
 **ERZİNCAN**

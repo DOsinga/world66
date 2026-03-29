@@ -2,6 +2,8 @@
 title: "Stony Plain"
 type: location
 type: "general"
+latitude: 53.528986
+longitude: -114.004873
 ---
 
 Stony Plain offers a community alive with arts and culture, the home of

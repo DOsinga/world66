@@ -1,6 +1,8 @@
 ---
 title: "Asir"
 type: location
+latitude: 19.166667
+longitude: 43.166667
 ---
 
 asir

@@ -3,6 +3,8 @@ title: "Schnitzelwirt"
 type: poi
 address: "Neubaugasse 52, 7. Bezirk"
 type: "African"
+latitude: 47.297691
+longitude: 11.589768
 ---
 
 A great place to eat the traditional "Wiener Schnitzel", normally served with french fries and salad.

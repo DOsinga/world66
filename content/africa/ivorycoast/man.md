@@ -1,6 +1,8 @@
 ---
 title: "Man"
 type: location
+latitude: 7.410258
+longitude: -7.550372
 ---
 
 Man itself is not a very beautiful town in Ivory Coast, but the lush green hills around it make it a great place to travel to.

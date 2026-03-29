@@ -1,6 +1,8 @@
 ---
 title: "Bakau"
 type: location
+latitude: 13.477453
+longitude: -16.677909
 ---
 
 Travel Guide

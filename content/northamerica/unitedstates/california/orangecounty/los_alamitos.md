@@ -1,6 +1,8 @@
 ---
 title: "Los Alamitos"
 type: location
+latitude: 33.803886
+longitude: -118.077243
 ---
 
 Travel Guide

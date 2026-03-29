@@ -1,6 +1,8 @@
 ---
 title: "Bridgton"
 type: location
+latitude: 44.054384
+longitude: -70.70887
 ---
 
 Travel Guide

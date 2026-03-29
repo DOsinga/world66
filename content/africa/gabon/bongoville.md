@@ -1,6 +1,8 @@
 ---
 title: "Bongoville"
 type: location
+latitude: -1.645841
+longitude: 13.859819
 ---
 
 We currently have no information about Bongoville.

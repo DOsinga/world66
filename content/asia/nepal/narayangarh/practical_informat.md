@@ -3,6 +3,8 @@ title: "Practical Information"
 type: section
 address: "Bharatpur"
 type: "Airport"
+latitude: 27.024696
+longitude: 77.292012
 ---
 
 [Internet service provider](/asia/nepal/narayangarh)

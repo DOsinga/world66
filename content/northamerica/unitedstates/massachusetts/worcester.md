@@ -1,6 +1,8 @@
 ---
 title: "Worcester"
 type: location
+latitude: 42.262562
+longitude: -71.801888
 ---
 
 Worcester was established as a town on June 14, 1722 and as a city on February 29, 1848. Worcester is located in central [Massachusetts](/northamerica/unitedstates/massachusetts) approximately 45 miles west of [Boston](/northamerica/unitedstates/massachusetts/boston), has a population of 172,648 and is the third largest city in New England, behind [Boston](/northamerica/unitedstates/massachusetts/boston) and [Providence](/northamerica/unitedstates/rhodeisland/providence). Worcester, MA is the home of nine colleges and universities, the University of [Massachusetts](/northamerica/unitedstates/massachusetts) Medical Center, and the Massachusetts Bio-Technology Research Park.

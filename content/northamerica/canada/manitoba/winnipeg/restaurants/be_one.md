@@ -5,6 +5,8 @@ address: "1811 Portage Ave"
 phone: "(204) 831-8377"
 price: "Entrées: $9.99-$16.99"
 type: "International"
+latitude: 41.699862
+longitude: -86.272608
 ---
 
 Be One is a traditinal **Korean** barbeque restaurant. The front entrance is very non-descript and hides what is waiting for you when you enter! Upon opening the front door, we were greeted by smiling wait staff who welcomed us. We were shown into a large dining area with traditional wood decor, nice music and a lovely aroma.

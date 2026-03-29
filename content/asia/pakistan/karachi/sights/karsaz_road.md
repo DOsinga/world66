@@ -3,6 +3,8 @@ title: "Karsaz Road"
 type: poi
 address: "Karsaz Road"
 type: "Streets"
+latitude: 24.874128
+longitude: 67.097157
 ---
 
 The road is known for the 'Arena' games arcade, Aga Khan University hospital, Golf club, Expo

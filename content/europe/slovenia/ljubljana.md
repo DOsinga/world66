@@ -1,6 +1,8 @@
 ---
 title: "Ljubljana"
 type: location
+latitude: 46.050027
+longitude: 14.506929
 ---
 
 Ljubljana is the capital of [Slovenia](/europe/slovenia). It's also the biggest city in the country and the political, cultural and commercial centre. With a population of around 300,000 it has the intimacy of a small town mixed with the cultural heritage and cosmopolitan feel of a vibrant city. 

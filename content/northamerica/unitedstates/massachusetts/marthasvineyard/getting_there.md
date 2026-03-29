@@ -4,6 +4,8 @@ type: section
 phone: "(508) 477-8600"
 type: "By Sea"
 url: "www.steamshipauthority.com"
+latitude: 39.841319
+longitude: -88.966486
 ---
 
 Most people arrive by boat and there are several ports and destinations but there is also a small airport.

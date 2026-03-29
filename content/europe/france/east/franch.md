@@ -1,6 +1,8 @@
 ---
 title: "Franch"
 type: location
+latitude: 43.78339
+longitude: 4.84658
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: section
 address: "333 Canal Street, New Orleans LA, 70130"
 phone: "504-522-9200"
 type: "Shopping centers and malls"
+latitude: 29.951667
+longitude: -90.065247
 ---
 
 New Orleans is one of the most unique cities in the world and the shopping scene reflects this uniqueness. Sure, you will find plenty of high-end fashion designer boutiques and retail chains here, but you will also find so many galleries, antique stores, thrift stores, accessories shops, and kitschy mom and pop shops that you will always come home with a handful of items that no one else in the world will have! New Orleans' best shopping areas for off-the-wall items or unique finds include the French Quarters antique stores and art galleries, Magazine Street, and Maple Street/Riverbend. For high-end (designer) merchandise visit the CBD & Warehouse District (Canal Place and Riverwalk Marketplace). Continue reading through the listings to learn more about New Orleans' best places to treasure hunt and shop.

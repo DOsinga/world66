@@ -1,6 +1,8 @@
 ---
 title: "Nagrota Surian"
 type: location
+latitude: 32.050658
+longitude: 76.088832
 ---
 
 Travel Guide

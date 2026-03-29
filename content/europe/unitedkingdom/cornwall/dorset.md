@@ -1,6 +1,8 @@
 ---
 title: "Dorset"
 type: location
+latitude: 50.796837
+longitude: -2.344732
 ---
 
 Travel Guide

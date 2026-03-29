@@ -1,6 +1,8 @@
 ---
 title: "Komodo Island"
 type: location
+latitude: -8.589191
+longitude: 119.462412
 ---
 
 Travel Guide

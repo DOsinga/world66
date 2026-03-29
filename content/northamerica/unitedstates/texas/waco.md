@@ -1,6 +1,8 @@
 ---
 title: "Waco"
 type: location
+latitude: 31.54919
+longitude: -97.147463
 ---
 
 We currently have no information about Waco.

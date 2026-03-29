@@ -1,6 +1,8 @@
 ---
 title: "Plymouth"
 type: location
+latitude: 50.371412
+longitude: -4.142445
 ---
 
 Plymouth's naval dockyard made it a prime bombing target in WW2 and it was one of the very first English cities to make its plans for post-war recovery. Initially it was celebrated and visited for this but of course other cities learned from Plymouth's mistakes and the centre is something like a museum of the late forties.

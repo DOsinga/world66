@@ -1,6 +1,8 @@
 ---
 title: "Sumba"
 type: location
+latitude: 61.403327
+longitude: -6.711736
 ---
 
 Travel Guide

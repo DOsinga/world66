@@ -5,6 +5,8 @@ address: "Basilio Badillo 429 Puerto Vallarta, Jalisco, Mexico"
 email: "gerardo2220@hotmail.com"
 phone: "222 62 33"
 type: "Antiques"
+latitude: 20.602178
+longitude: -105.23684
 ---
 
 If you are looking for the Best deal to buy furniture, art, antiques and one of kind items for your home. I sugest you visit the shop Unique Consignment a fun place where you can find a selective items for sale and re-sale such antiques, art, furniture, decorative items from your home, unique furniture desings and much more, always with the Best deal in town for our and new clientele.

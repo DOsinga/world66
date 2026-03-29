@@ -1,6 +1,8 @@
 ---
 title: "Bullfrog Marina"
 type: location
+latitude: 37.516723
+longitude: -110.745501
 ---
 
 Travel Guide

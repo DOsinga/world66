@@ -1,6 +1,8 @@
 ---
 title: "Manihiki"
 type: location
+latitude: -10.422228
+longitude: -160.995904
 ---
 
 We currently have no information about Manihiki.

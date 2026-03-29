@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 type: "Churches and Cathedrals"
 zipcode: "www.yorkshire-tour.co.uk/yt/hubber.htm"
+latitude: 54.046233
+longitude: -2.900523
 ---
 
 Almost any view in the Yorkshire Dales could be deemed a sight so it is necessary both to be choosy and only to select a few.

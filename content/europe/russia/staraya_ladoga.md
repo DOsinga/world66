@@ -1,6 +1,8 @@
 ---
 title: "Staraya Ladoga"
 type: location
+latitude: 59.996994
+longitude: 32.296246
 ---
 
 Small village, situated on the southern shore of Ladoga Lake, in North-West Russia.

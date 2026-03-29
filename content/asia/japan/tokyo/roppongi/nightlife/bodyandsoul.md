@@ -3,6 +3,8 @@ title: "Body and Soul"
 type: poi
 address: "7-14-12 Roppongi"
 type: "Jazz"
+latitude: 35.664248
+longitude: 139.727927
 ---
 
 Jazz by japanese musicians.

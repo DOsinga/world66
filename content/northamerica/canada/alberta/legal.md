@@ -1,6 +1,8 @@
 ---
 title: "Legal"
 type: location
+latitude: 53.948741
+longitude: -113.595427
 ---
 
 Travel Guide

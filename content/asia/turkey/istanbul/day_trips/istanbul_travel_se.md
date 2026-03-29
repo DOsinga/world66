@@ -5,6 +5,8 @@ address: "sultanahmet Istanbul"
 email: "info@turkeytravelservice.com"
 phone: "+905357220175"
 url: "www.turkeytravelservice.com"
+latitude: 41.004114
+longitude: 28.976909
 ---
 
 **Contributors**

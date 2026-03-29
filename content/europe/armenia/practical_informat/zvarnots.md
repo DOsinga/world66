@@ -2,6 +2,8 @@
 title: "stepanakert"
 type: poi
 type: "Airport"
+latitude: 40.154066
+longitude: 44.4864
 ---
 
 Zvarnots is the main hub for air traffic in and out of Armenia. It is located in Yerevan. Construction is occuring to improve this Soviet style relic.

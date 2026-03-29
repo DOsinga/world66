@@ -1,6 +1,8 @@
 ---
 title: "Puram"
 type: location
+latitude: 10.273117
+longitude: 78.874369
 ---
 
 We currently have no information about Puram.

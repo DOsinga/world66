@@ -1,6 +1,8 @@
 ---
 title: "Lenwade (Great Witchingham)"
 type: location
+latitude: 52.722386
+longitude: 1.103916
 ---
 
 Travel Guide

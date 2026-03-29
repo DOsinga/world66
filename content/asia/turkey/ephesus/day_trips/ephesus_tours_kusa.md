@@ -5,6 +5,8 @@ address: "Sultanahmet"
 email: "info@allistanbultours.com"
 phone: "+90 532 340 01 52"
 url: "www.allistanbultours.com"
+latitude: 41.004114
+longitude: 28.976909
 ---
 
 3 Days - Gallipoli - Troy - Pergamum- Ephesus

@@ -5,6 +5,8 @@ address: "11161 E. 25TH ST"
 email: "scgcyuma@msn.com"
 phone: "928-539-0830"
 type: "Local"
+latitude: 39.804477
+longitude: -85.969958
 ---
 
 When in Magdalena do not leave without tasting the most delicious corn cocktail in Sonora, the yellow cart is in the Juarez plaza usually there after 4 pm,

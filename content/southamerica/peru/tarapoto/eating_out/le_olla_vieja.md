@@ -5,6 +5,8 @@ accessibility: "Not wheelchair accessible.  Easy access from commercial district
 address: "Alegria Arias de Morey #228"
 price: "Inexpensive"
 type: "Italian"
+latitude: -6.485244
+longitude: -76.358867
 ---
 
 A new restaurant opened in Tarapoto in January 2008 called **La Olla Vieja** (The Old Pot). Co-owner Milagros, a Peru native, has been cooking this food for years, having been one of the original cooks at Cafe de Mundo down the street. The pizza served at **La Olla Vieja** is a cracker-thin crust cooked in a brick oven out in the back yard by the other co-owner Werner, a German immigrant who is honing his horno skills.

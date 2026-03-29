@@ -1,6 +1,8 @@
 ---
 title: "Asakusa"
 type: location
+latitude: 35.717597
+longitude: 139.797563
 ---
 
 Asakusa retains the old athmosphere of Edo. Although most of the buildings are actually quite new (this part was heavily bombed during World War II) the low-rise buildings evoke a time long gone by. 

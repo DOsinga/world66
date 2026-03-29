@@ -1,8 +1,11 @@
 ---
 title: "Chartres"
 type: location
+latitude: 48.44386
+longitude: 1.488143
 ---
 
 Chartres is less than 100 km west of [Paris](/europe/france/paris). A visit to the city can be combined with many different itineraries. The castles of the [Loire valley](/europe/france/centre/loirevalley) are close by, Normandy and Brittany are not too far either.
 
- The cathedral of Chartres is your main reason to come. It is probably the most complete gothic cathedral complex in the world. The old center around the cathedral is very nice as well, with many old houses going
+
+ The cathedral of Chartres is your main reason to come. It is probably the most complete gothic cathedral complex in the world. The old center around the cathedral is very nice as well, with many old houses going

@@ -1,6 +1,8 @@
 ---
 title: "Taichung"
 type: location
+latitude: 24.163162
+longitude: 120.647828
 ---
 
 We currently have no information about Taichung.

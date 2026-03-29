@@ -1,6 +1,8 @@
 ---
 title: "Widecombe"
 type: location
+latitude: 50.576819
+longitude: -3.812579
 ---
 
 Travel Guide

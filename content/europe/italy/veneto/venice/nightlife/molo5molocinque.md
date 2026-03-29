@@ -5,6 +5,8 @@ address: "Via dell'elettricità 8 Marghera"
 opening_hours: "Mon - Fri noon - 3pm and Wed - Sun 8pm - 4am"
 phone: "041.928538 or 0335.8190377"
 type: "Casinos"
+latitude: 45.477874
+longitude: 12.235664
 ---
 
 The Molocinque is more than only a disco: enjoy the restaurant and pizzeria lounge as well as the music of the 70's, live concerts or latin music.

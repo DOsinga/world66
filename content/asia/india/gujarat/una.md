@@ -1,6 +1,8 @@
 ---
 title: "UNA"
 type: location
+latitude: 31.583464
+longitude: 76.235145
 ---
 
 Travel Guide

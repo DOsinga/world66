@@ -1,6 +1,8 @@
 ---
 title: "Abkhazia"
 type: location
+latitude: 43.150023
+longitude: 41.229979
 ---
 
 Once the Cote d'Azur of the USSR, now a war zone, no-one goes. Ten years ago the region started a war to become independent from Tbilisi. The result: hundreds of thousands of refugees.

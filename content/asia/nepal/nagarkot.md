@@ -1,6 +1,8 @@
 ---
 title: "Nagarkot"
 type: location
+latitude: 27.718508
+longitude: 85.51973
 ---
 
 Travel Guide

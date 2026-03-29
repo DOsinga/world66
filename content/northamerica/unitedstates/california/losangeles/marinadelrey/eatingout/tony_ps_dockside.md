@@ -6,6 +6,8 @@ phone: "310/ 823-4534"
 price: "Dinner entrees $10 to $14, kid menu too"
 type: "Local"
 url: "www.tonyps.com"
+latitude: 33.983957
+longitude: -118.447613
 ---
 
 California /Steak /Seafood. Open daily for lunch and dinner; weekends breakfast; daily Happy Hour with food and drink specials. Dinner entrees: $10 - $14; kids menu, too.

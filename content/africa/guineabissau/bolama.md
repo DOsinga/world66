@@ -1,6 +1,8 @@
 ---
 title: "Bolama"
 type: location
+latitude: 11.279506
+longitude: -16.029442
 ---
 
 We currently have no information about Bolama.

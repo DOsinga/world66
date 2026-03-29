@@ -2,6 +2,8 @@
 title: "Cathedral Sé"
 type: poi
 type: "general"
+latitude: 38.709818
+longitude: -9.1328
 ---
 
 The cathedral's cloister is much more impressing than the interior of this old church at the edge of the old town. From the dazzling chapterhouse you have a nice view over the old quarter.

@@ -5,6 +5,8 @@ address: "304 Highway 101 S"
 email: "ncol0095@linkcc.om"
 phone: "(707) 464-4900"
 type: "Other"
+latitude: 44.303935
+longitude: -124.105092
 ---
 
 ### [Ocean World](/northamerica/unitedstates/california/northcoast/crescentcity/thingstodo/oceanworld)

@@ -5,6 +5,8 @@ address: "Marrakech\ Morocco"
 email: "yaakoubi.iddir@gmail.com"
 phone: "+212 667 410 741"
 url: "www.marvelous-moroccotours.com"
+latitude: 31.625826
+longitude: -7.989161
 ---
 
 DAY 1: Marrakech - Ouarzazate - Dades Valley

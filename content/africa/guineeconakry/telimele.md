@@ -1,6 +1,8 @@
 ---
 title: "Telimele"
 type: location
+latitude: 10.902033
+longitude: -13.032671
 ---
 
 We currently have no information about Telimele.

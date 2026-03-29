@@ -6,6 +6,8 @@ email: "filipe.freitas@madeirasidecartours.com"
 phone: "+351969691007"
 type: "Other"
 url: "www.madeirasidecartours.com"
+latitude: 32.656269
+longitude: -16.987604
 ---
 
 "Madeira Sidecar Tours" was created to make your visit to Madeira even more unforgettable and enriching. For this, we have created and developed Sidecar tours, which include: the main tourist sites and other less known but equally interesting.

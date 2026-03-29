@@ -8,6 +8,8 @@ phone: "580416"
 type: "Pubs"
 url: "www.geocities.com"
 zipcode: "324512"
+latitude: 41.406565
+longitude: 43.487957
 ---
 
 Cheers disco-pub is the only real western-style bar in Yerevan. The bar

@@ -1,6 +1,8 @@
 ---
 title: "South San Francisco"
 type: location
+latitude: 37.65354
+longitude: -122.416866
 ---
 
 Travel Guide

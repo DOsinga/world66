@@ -1,6 +1,8 @@
 ---
 title: "Pinedale Wyoming"
 type: location
+latitude: 42.86665
+longitude: -109.891965
 ---
 
 Travel Guide

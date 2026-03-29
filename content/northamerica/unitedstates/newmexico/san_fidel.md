@@ -1,6 +1,8 @@
 ---
 title: "San Fidel"
 type: location
+latitude: 35.082801
+longitude: -107.598048
 ---
 
 Travel Guide

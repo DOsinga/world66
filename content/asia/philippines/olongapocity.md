@@ -1,6 +1,8 @@
 ---
 title: "Olongapo City"
 type: location
+latitude: 14.838885
+longitude: 120.284359
 ---
 
 Travel Guide

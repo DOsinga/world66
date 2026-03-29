@@ -1,6 +1,8 @@
 ---
 title: "Julian"
 type: location
+latitude: 33.073963
+longitude: -116.587846
 ---
 
 Ascend Mt. Helix for a dazzling view of San Diego County. The hills around Julian ring with legends of gold. On Mt. Palomar, see the Hale Telescope, the world's second-largest telescope that has a lens with a range surpassing one billion light years. The adjacent gallery displays photographs of Milky Way stars and other celestial wonders. 

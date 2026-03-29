@@ -2,6 +2,8 @@
 title: "Calle 18 and 17"
 type: poi
 type: "Clubs and dancing"
+latitude: 12.582457
+longitude: -81.710196
 ---
 
 On this street, between carrera 2 and 4 is where the main scene is.

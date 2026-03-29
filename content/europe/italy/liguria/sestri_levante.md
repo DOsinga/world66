@@ -1,6 +1,8 @@
 ---
 title: "Sestri Levante"
 type: location
+latitude: 44.271453
+longitude: 9.395863
 ---
 
 Travel Guide

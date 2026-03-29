@@ -1,6 +1,8 @@
 ---
 title: "Cayambe"
 type: location
+latitude: 0.025159
+longitude: -77.988956
 ---
 
 Travel Guide

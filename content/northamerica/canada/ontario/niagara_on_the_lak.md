@@ -1,6 +1,8 @@
 ---
 title: "Niagara on the Lake"
 type: location
+latitude: 43.255612
+longitude: -79.072326
 ---
 
 Travel Guide

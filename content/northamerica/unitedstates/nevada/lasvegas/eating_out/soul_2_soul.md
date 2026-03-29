@@ -4,6 +4,8 @@ type: poi
 address: "2101 North Rainbow Blvd. Suite #102"
 phone: "791-CHEF (791-2433)"
 type: "African"
+latitude: 36.273476
+longitude: -115.242369
 ---
 
 Soul 2 Soul - Southern-Cajun-Caribbean Fusion

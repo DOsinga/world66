@@ -1,6 +1,8 @@
 ---
 title: "Mekele"
 type: location
+latitude: 13.496664
+longitude: 39.476826
 ---
 
 We currently have no information about Mekele.

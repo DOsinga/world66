@@ -6,6 +6,8 @@ opening_hours: "Mon-Fri 11-17h30, guided visits at 14h15"
 phone: "(+352) 40155901"
 type: "Galleries"
 zipcode: "L-2954 Luxembourg"
+latitude: 49.605378
+longitude: 6.127304
 ---
 
 type: Galleries

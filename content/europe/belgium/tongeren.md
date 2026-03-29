@@ -1,6 +1,8 @@
 ---
 title: "Tongeren"
 type: location
+latitude: 50.780627
+longitude: 5.463917
 ---
 
 We currently have no information about Tongeren.

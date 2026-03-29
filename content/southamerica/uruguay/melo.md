@@ -1,6 +1,8 @@
 ---
 title: "Melo"
 type: location
+latitude: -32.368085
+longitude: -54.169715
 ---
 
 We currently have no information about Melo.

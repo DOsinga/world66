@@ -4,6 +4,8 @@ type: poi
 address: "Rue du Marché 3"
 phone: "+41 (0)22 810 07 20"
 type: "Dancing"
+latitude: 45.77418
+longitude: 4.806907
 ---
 
 Popular spot with students and youngsters who like techno music.

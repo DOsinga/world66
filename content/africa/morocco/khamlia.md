@@ -1,6 +1,8 @@
 ---
 title: "Khamlia"
 type: location
+latitude: 31.035117
+longitude: -4.007253
 ---
 
 Travel Guide

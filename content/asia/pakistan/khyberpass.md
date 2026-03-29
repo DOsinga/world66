@@ -1,6 +1,8 @@
 ---
 title: "Khyber Pass"
 type: location
+latitude: 34.094027
+longitude: 71.144142
 ---
 
 The Khyber Pass is situated in the Sulaiman Hills which form the western barrier of Pakistan. The hills dip down here, leaving a passage sometimes as broad as 1 ½ kms (1 mile) and sometimes as narrow as 16 metres (42 feet). The Pass begins near Jamrud Fort (18 kms 11 miles) from [Peshawar](/asia/pakistan/peshawar) and extends beyond the border of Pakistan at Torkham 58 kms away. At Torkham PTDC has a Motel-cum-Information Centre which is closed at present due to unsettled conditions in Afghanistan. 

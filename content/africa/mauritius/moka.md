@@ -1,6 +1,8 @@
 ---
 title: "Moka"
 type: location
+latitude: -20.252139
+longitude: 57.587224
 ---
 
 We currently have no information about Moka.

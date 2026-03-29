@@ -1,6 +1,8 @@
 ---
 title: "Botosani"
 type: location
+latitude: 47.852826
+longitude: 26.759334
 ---
 
 We currently have no information about Botosani.

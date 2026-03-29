@@ -8,6 +8,8 @@ phone: "23884145"
 price: "250 Per Head"
 type: "Indian and Pakistani"
 url: "www.purohitcaterers.com"
+latitude: 18.996856
+longitude: 72.845391
 ---
 
 We serve caterering service

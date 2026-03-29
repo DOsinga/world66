@@ -1,6 +1,8 @@
 ---
 title: "Tarlac"
 type: location
+latitude: 15.493725
+longitude: 120.496409
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Vlora Hotels"
 type: location
+latitude: 40.471016
+longitude: 19.492074
 ---
 
 Travel Guide

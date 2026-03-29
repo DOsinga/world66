@@ -1,6 +1,8 @@
 ---
 title: "Bars"
 type: poi
+latitude: 52.67255
+longitude: 6.538777
 ---
 
 **Place to go outs**

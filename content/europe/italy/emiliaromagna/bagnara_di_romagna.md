@@ -1,6 +1,8 @@
 ---
 title: "Bagnara di Romagna"
 type: location
+latitude: 44.389141
+longitude: 11.826442
 ---
 
 Travel Guide

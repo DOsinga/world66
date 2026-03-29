@@ -1,6 +1,8 @@
 ---
 title: "Musée de l'Orangerie"
 type: poi
+latitude: 48.863765
+longitude: 2.32266
 ---
 
 This museum in the Tuilleries Gardens has some important collections but its principal claim to fame is possession of four huge paintings of water lilies by Claude Monet. The history is explained on http://www.ngv.vic.gov.au/orangerie/musee.html 

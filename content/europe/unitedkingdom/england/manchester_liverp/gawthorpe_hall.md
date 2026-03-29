@@ -1,6 +1,8 @@
 ---
 title: "Gawthorpe Hall"
 type: location
+latitude: 53.802752
+longitude: -2.294802
 ---
 
 This Hall is at Padiham, near Burnley, a pleasant small town though one with no other particular appeal to the visitor. It was home to the Kaye-Shuttleworths [textile inventions fame] and is now owned by the National Trust.

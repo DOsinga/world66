@@ -1,6 +1,8 @@
 ---
 title: "Saxonburg"
 type: location
+latitude: 40.750601
+longitude: -79.814118
 ---
 
 A small western Pennsylvania town, in south Butler County. Saxonburg is located 23 miles northeast of Pittsburgh and 8 miles southeast of Butler. The one zip code in Saxonburg is 16056. As of November 2002, the borough population of Saxonburg is approximately 1,345 (the community population is 4,693). The approximate number of families is 580. The amount of land area in Saxonburg is 2.266 square kilometers. Saxonburg is positioned 40.75 degrees north of the equator and 79.81 degrees west of the prime meridian. Elevation is 1288 feet. Nearby towns are Cabot, Valencia, Sarver, and Bairdford.

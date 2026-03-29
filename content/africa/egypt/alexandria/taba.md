@@ -1,6 +1,8 @@
 ---
 title: "Taba"
 type: location
+latitude: 29.492821
+longitude: 34.892366
 ---
 
 Travel Guide

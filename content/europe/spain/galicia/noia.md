@@ -1,6 +1,8 @@
 ---
 title: "Noia"
 type: location
+latitude: 42.785076
+longitude: -8.887738
 ---
 
 The holiday town of Noia is located at the foot of the Muros bay in the

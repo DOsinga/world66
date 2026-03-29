@@ -1,6 +1,8 @@
 ---
 title: "Apeldoorn"
 type: location
+latitude: 52.179574
+longitude: 5.930078
 ---
 
 By the turn of the century Apeldoorn was not more than a village, on the edge of the Veluwe. It has now rapidly grown to be a modern city but you can still recognize the different villages it originated from. It’s a fairly large city with a relatively small center.

@@ -6,6 +6,8 @@ email: "ILoveWine@AdirondackWinery.com"
 phone: "518-668-9463"
 type: "Other"
 url: "www.AdirondackWinery.com"
+latitude: 43.426029
+longitude: -73.712878
 ---
 
 northeast nationals

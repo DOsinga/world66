@@ -1,9 +1,12 @@
 ---
 title: "Sushi Zen"
 type: poi
+latitude: 50.823881
+longitude: 6.98005
 ---
 
-Sushi and other Japanese dishes 
+Sushi and other Japanese dishes
+ 
 
 address: Baaderstrasse 62
 

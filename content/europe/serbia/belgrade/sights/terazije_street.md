@@ -2,6 +2,8 @@
 title: "Terazije Street"
 type: poi
 type: "Streets"
+latitude: 44.810822
+longitude: 20.461961
 ---
 
 Terazije Street with the Moskva Hotel (1906) and the Old drinking fountain (1868).

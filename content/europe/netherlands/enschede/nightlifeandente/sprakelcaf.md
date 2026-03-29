@@ -1,6 +1,8 @@
 ---
 title: "Sprakel café"
 type: poi
+latitude: 52.249741
+longitude: 6.911007
 ---
 
 address: Dorpsstr 137

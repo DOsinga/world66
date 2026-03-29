@@ -1,6 +1,8 @@
 ---
 title: "Brecon"
 type: location
+latitude: 51.947205
+longitude: -3.391696
 ---
 
 We currently have no information about .

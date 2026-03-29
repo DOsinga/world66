@@ -1,6 +1,8 @@
 ---
 title: "Vandalia"
 type: location
+latitude: 38.960601
+longitude: -89.093678
 ---
 
 Travel Guide

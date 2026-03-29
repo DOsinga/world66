@@ -1,6 +1,8 @@
 ---
 title: "Gran Canaria"
 type: location
+latitude: 27.958
+longitude: -15.606231
 ---
 
 Gran Canaria assembles in an almost perfect circle of 1,532 square

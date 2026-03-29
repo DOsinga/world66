@@ -5,6 +5,8 @@ address: "Via Borgo Canale 5, 24129 Bergamo"
 email: "info@bergamotourguides.eu"
 phone: "+39 035/0601917"
 url: "www.bergamotourguides.eu"
+latitude: 45.706328
+longitude: 9.656161
 ---
 
 **VISIT THE CITY

@@ -4,6 +4,8 @@ type: section
 address: "414 E Allen St"
 phone: "520-457-3055"
 type: "general"
+latitude: 39.96796
+longitude: -75.127748
 ---
 
 ### [Legends Of The West](/northamerica/unitedstates/arizona/tombstone/barsandcafes/legendsofthewest)

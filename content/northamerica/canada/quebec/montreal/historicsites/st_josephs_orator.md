@@ -4,6 +4,8 @@ type: location
 address: "3800, Queen Mary Road"
 type: "Churches and Cathedrals"
 url: "www.saint-joseph.org"
+latitude: 51.420679
+longitude: -0.10343
 ---
 
 Perched near the top of Mount Royal, it is the most visible landmark in Montreal. The dome of St. Josephs Oratory can be seen from almost anywhere in the eastern part of the island.

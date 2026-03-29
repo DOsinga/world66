@@ -6,6 +6,8 @@ address: "Romanou 4"
 closing_time: "when everyone leaves"
 phone: "2310 287 788"
 type: "Pubs"
+latitude: 40.574777
+longitude: 22.963398
 ---
 
 Lotos Bar first opened its door 20yrs ago and has been a main haunt for students and the rest of us from that day forth..

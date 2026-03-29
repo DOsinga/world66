@@ -6,6 +6,8 @@ email: "itrulli@pacbell.net"
 phone: "760 943-6800"
 type: "Italian"
 url: "www.itrulli.signonsandiego.com"
+latitude: 33.041394
+longitude: -117.293517
 ---
 
 This is the best Italian restaurant in the San Diego Area!

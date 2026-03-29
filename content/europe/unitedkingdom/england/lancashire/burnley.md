@@ -1,6 +1,8 @@
 ---
 title: "Burnley"
 type: location
+latitude: 53.790726
+longitude: -2.24392
 ---
 
 Travel Guide

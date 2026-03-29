@@ -1,6 +1,8 @@
 ---
 title: "Rockland"
 type: location
+latitude: 41.151932
+longitude: -74.035727
 ---
 
 Travel Guide

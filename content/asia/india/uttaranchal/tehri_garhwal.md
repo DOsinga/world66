@@ -1,6 +1,8 @@
 ---
 title: "Tehri Garhwal"
 type: location
+latitude: 30.465818
+longitude: 78.483735
 ---
 
 Travel Guide

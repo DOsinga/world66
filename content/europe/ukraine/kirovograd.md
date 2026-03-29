@@ -1,6 +1,8 @@
 ---
 title: "Kirovograd"
 type: location
+latitude: 48.510581
+longitude: 32.265628
 ---
 
 Kirovograd region is situated on the right bank of Dnieper between the rivers Dnieper and Southern Bug. At the centre of Ukraine where the boundless steppe replace the forest- steppe Kirovograd - the regional centre with the almost 300-thousand population is placed. Kirovograd is spread over the two hill-side near the river Ingul among the boundless steppes of Ukraine. 

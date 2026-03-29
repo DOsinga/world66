@@ -3,6 +3,8 @@ title: "Barocco"
 type: location
 address: "Viehmarktplatz 10"
 type: "general"
+latitude: 49.752172
+longitude: 6.637407
 ---
 
 The (local) rich & beauty - here you'll find them. Highly recommended for very good cocktails. Special prices for certain cocktails on each days except on Fridays and Saturdays. Cocktails cost only half price from sunday till thursday. On Friday they have Black, RnB and the best Salsa Dance Party in town and on Saturday they present Housetracks with a famous DJ "Carlos" who plays excellent Deep-, Ibiza- and Dubhouse. Very cool sound.

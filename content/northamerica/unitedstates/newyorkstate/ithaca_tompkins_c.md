@@ -1,6 +1,8 @@
 ---
 title: "Ithaca (Tompkins County)"
 type: location
+latitude: 42.439172
+longitude: -76.505061
 ---
 
 Travel Guide

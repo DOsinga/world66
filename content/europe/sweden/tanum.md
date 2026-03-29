@@ -1,6 +1,8 @@
 ---
 title: "Tanum"
 type: location
+latitude: 58.75
+longitude: 11.416667
 ---
 
 Travel Guide

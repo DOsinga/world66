@@ -1,6 +1,8 @@
 ---
 title: "Cape Horn"
 type: location
+latitude: -55.977457
+longitude: -67.263054
 ---
 
 Travel Guide

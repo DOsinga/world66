@@ -1,6 +1,8 @@
 ---
 title: "Jharsuguda"
 type: location
+latitude: 21.801937
+longitude: 83.971396
 ---
 
 Jharsuguda district has a rich and developed cultural heritage. Various fairs and festivals observed round the year for centuries, indicates its cultural and religious richness. Though many of the fairs and festivals are common to other parts of Orissa there are few which are distinct and special. There are (1) Ranjta Festival (2) Ratha Jatra of Kukurjunga (3) Famous Gokulastami Jatra of Rajpur and 4) Makar Rathajatra of Belpahar.

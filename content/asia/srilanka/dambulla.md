@@ -1,6 +1,8 @@
 ---
 title: "Dambulla"
 type: location
+latitude: 7.874203
+longitude: 80.651092
 ---
 
 The entrance to the cultural triangle, they say. Well, it has the best and the worst of buddhism. It has the massively ugly Golden Temple, the biggest buddha in the world! Yes. And it has some cheap hotels. It has some fine people (just try and talk to the people selling wooden sculptures - give my regards to Seneca). It has a massive granite little mountain. And in that hill a wonderful cave, with a carved out reclining buddha and several ancient paintings.

@@ -1,6 +1,8 @@
 ---
 title: "Moray"
 type: location
+latitude: -13.519527
+longitude: -71.981605
 ---
 
 Travel Guide

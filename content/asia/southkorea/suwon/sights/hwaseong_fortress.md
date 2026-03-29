@@ -5,6 +5,8 @@ address: "Suwon"
 phone: "(031) 228-2766"
 type: "Palaces"
 url: "eng.suwon.ne.kr"
+latitude: 37.263332
+longitude: 127.028747
 ---
 
 "Hwaseong is a military building of the early modern times, fully equipped with the most advanced and scientific features in the oriental and occidental world. " (Execution Board of World Heritage Committee) 

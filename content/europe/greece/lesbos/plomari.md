@@ -1,6 +1,8 @@
 ---
 title: "Plomari"
 type: location
+latitude: 38.975389
+longitude: 26.368424
 ---
 
 Travel Guide

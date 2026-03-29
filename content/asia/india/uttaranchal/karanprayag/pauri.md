@@ -1,6 +1,8 @@
 ---
 title: "pauri"
 type: location
+latitude: 30.065231
+longitude: 78.731572
 ---
 
 Travel Guide

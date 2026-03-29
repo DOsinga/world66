@@ -1,6 +1,8 @@
 ---
 title: "Huainan"
 type: location
+latitude: 32.586683
+longitude: 117.013002
 ---
 
 Travel Guide

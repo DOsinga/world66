@@ -1,6 +1,8 @@
 ---
 title: "Greensboro"
 type: location
+latitude: 36.072635
+longitude: -79.791975
 ---
 
 Greensboro is located in the Central Piedmont section of North Carolina. Once the textile center of North Carolina, it is now becoming the transportation and education center of the state, with an interstate junction and the home of five universities. 

@@ -7,6 +7,8 @@ phone: "416-777-2591"
 type: "Golf"
 url: "www.exasport.com"
 zipcode: "M5A 1L6"
+latitude: 43.651268
+longitude: -79.368298
 ---
 
 The online community will feature listings of neighborhood schools, Community Recreation Centres, post-secondary institutions, club teams, organizations & associations. Please contact us for any information - 416 777 2591

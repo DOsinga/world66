@@ -8,6 +8,8 @@ opening_hours: "Tonya"
 phone: "Tonya"
 type: "1"
 url: "www.allearsaudiobooks.com"
+latitude: 40.886348
+longitude: 39.290808
 ---
 
 Great work!

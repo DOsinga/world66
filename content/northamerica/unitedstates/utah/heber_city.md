@@ -1,6 +1,8 @@
 ---
 title: "Heber City"
 type: location
+latitude: 40.506463
+longitude: -111.413296
 ---
 
 Travel Guide

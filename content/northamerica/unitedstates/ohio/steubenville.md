@@ -1,6 +1,8 @@
 ---
 title: "Steubenville"
 type: location
+latitude: 40.360071
+longitude: -80.615103
 ---
 
 City Of Murals... 

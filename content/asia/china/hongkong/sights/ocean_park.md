@@ -6,6 +6,8 @@ opening_hours: "10:00 a.m. to 7:00 p.m."
 phone: "(852) 3923 2323"
 type: "Parks, Gardens and Zoos"
 url: "www.oceanpark.com.hk"
+latitude: 22.234767
+longitude: 114.170817
 ---
 
 Hong Kong is a a playground for teenagers and adults, and luckily for children, there are two great options--Ocean Park and Water World. Ocean

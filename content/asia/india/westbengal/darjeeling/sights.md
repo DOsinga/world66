@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Hotspots"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 DARJEELING provides the perfect ambiance of a hill resort with its mild climate and laid back charm. Its verdant hills and valleys are steeped in color, and are interspersed with vast stretches of lush green tea gardens. Presiding over all these is the 8,586 m Mount Khangchendzonga looming over the northern horizon, giving a magical aura to the land that entices thousands to its environs and leaves all the senses intoxicated.

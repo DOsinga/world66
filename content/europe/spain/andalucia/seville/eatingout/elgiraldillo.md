@@ -1,6 +1,8 @@
 ---
 title: "El Giraldillo"
 type: poi
+latitude: 40.859124
+longitude: -2.635289
 ---
 
 El Giraldillo, Restaurant & Tapas Bar

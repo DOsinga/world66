@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Landmarks"
+latitude: 39.788474
+longitude: -92.929598
 ---
 
 One of the most visible sights of the City of Buffalo is its rich history of notable architecture.

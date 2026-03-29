@@ -7,6 +7,8 @@ email: "kanda@knn.com"
 phone: "090-7889-3604"
 type: "Beer Gardens"
 url: "snbar.ameblo.jp"
+latitude: -16.860278
+longitude: 145.570278
 ---
 
 Social Networking dotBAR is perfect member ship BAR.

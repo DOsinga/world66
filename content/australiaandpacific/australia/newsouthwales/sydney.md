@@ -1,6 +1,8 @@
 ---
 title: "Sydney"
 type: location
+latitude: -33.869844
+longitude: 151.208285
 ---
 
 When flying to Australia, the foreign traveller is most likely to arrive in Sydney. The airport is located to the South of the city in Botany Bay, where Cook originally arrived. This bay was originally intended as the place for the city Sydney, but the subsequent fleet found an even more beautiful spot in Port Jackson Harbour: there where the Opera House and the Sydney Bridge are located. 

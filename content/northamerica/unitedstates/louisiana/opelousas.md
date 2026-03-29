@@ -1,6 +1,8 @@
 ---
 title: "Opelousas"
 type: location
+latitude: 30.53353
+longitude: -92.081509
 ---
 
 Travel Guide

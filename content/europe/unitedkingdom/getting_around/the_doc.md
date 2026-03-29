@@ -1,6 +1,8 @@
 ---
 title: "Bus (coach) travel"
 type: poi
+latitude: 52.311326
+longitude: -1.776245
 ---
 
 Travelling by bus (coach) in the UK is generally cheaper than by train. There are 2 major coach operators in the UK. The first, National Express (www.nationalexpress.com) have been in business for many years. They offer an extensive network of routes, however their prices are not the cheapest.

@@ -4,6 +4,8 @@ type: section
 address: "Hessle Rd 390"
 phone: "01482 225910"
 type: "general"
+latitude: 53.411865
+longitude: -1.506366
 ---
 
 ### [Halfway Cafe](/europe/unitedkingdom/england/leeds_sheffield_a/hull/eatingout/halfwaycafe)

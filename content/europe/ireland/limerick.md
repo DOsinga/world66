@@ -1,6 +1,8 @@
 ---
 title: "Limerick"
 type: location
+latitude: 52.661252
+longitude: -8.630124
 ---
 
 Limerick is the Irish Republic’s third largest city. It is one of Ireland’s leading tourist and business centres. Limerick’s most striking feature is the river shannon, flowing majestically beneath the city’s three bridges.

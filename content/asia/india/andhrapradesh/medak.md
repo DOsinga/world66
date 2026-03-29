@@ -1,6 +1,8 @@
 ---
 title: "Medak"
 type: location
+latitude: 17.93751
+longitude: 78.211745
 ---
 
 We currently have no information about Medak.

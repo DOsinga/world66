@@ -1,6 +1,8 @@
 ---
 title: "JALAL PUR JATTAN"
 type: location
+latitude: 32.600576
+longitude: 74.213003
 ---
 
 Travel Guide

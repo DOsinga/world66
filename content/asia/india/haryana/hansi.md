@@ -1,6 +1,8 @@
 ---
 title: "Hansi"
 type: location
+latitude: 29.140992
+longitude: 75.978714
 ---
 
 Travel Guide

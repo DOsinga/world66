@@ -3,6 +3,8 @@ title: "Jimmy's Kitchen"
 type: poi
 address: "Wyndham Street"
 type: "International"
+latitude: 51.520924
+longitude: -0.162068
 ---
 
 [Don't let name turn you off!](/asia/china/hongkong/eating_out)

@@ -3,6 +3,8 @@ title: "Richard Bowden"
 type: poi
 address: "Rua Do Infante Dom Henrique 18, Porto"
 phone: "222005366"
+latitude: 41.141273
+longitude: -8.613854
 ---
 
 Ryan's Irish Bar (http://www.ryansirishbar.com). Great selection of beer and whisky and they have live music sometimes

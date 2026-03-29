@@ -1,6 +1,8 @@
 ---
 title: "Colmar"
 type: location
+latitude: 48.077752
+longitude: 7.357964
 ---
 
 Lying in the heart of the vineyards of the Alsace, Colmar is a city made for strolling. Its famed historic district is now a vast pedestrian zone, with medieval houses boasting carved gables, galleries with beautiful bannisters, and doors adorned with lavish woodwork.

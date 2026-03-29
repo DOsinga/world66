@@ -1,6 +1,8 @@
 ---
 title: "Akaroa"
 type: location
+latitude: -43.804317
+longitude: 172.967833
 ---
 
 Akaroa is the small settlement approximately a 2 hours driving out on to Banks Peninsula from [Christchurch](/australiaandpacific/newzealand/christchurch). Originally settled as a French colony, Akaroa prides itself on it's french hertiage, maintaining streets and buildings using French names and styles.

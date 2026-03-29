@@ -5,6 +5,8 @@ address: "15 luxor st"
 email: "info@egyptlastminute.com"
 phone: "00201005759364"
 url: "www.egyptlastminute.com"
+latitude: 51.467397
+longitude: -0.100937
 ---
 
 Our Egypt Last Minute Egyptologist will pick you up from your hotel to start your private tour of the pyramids. He or she is at your service and your trip can be personalized to suit your needs so please discuss how long you want to stay at each place with your Egyptologist.

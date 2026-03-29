@@ -1,6 +1,8 @@
 ---
 title: "Krka National Park"
 type: location
+latitude: 43.918919
+longitude: 15.978529
 ---
 
 The Krka National Park is located near Šibnik and is about 10o square kilometers big. It is located along the

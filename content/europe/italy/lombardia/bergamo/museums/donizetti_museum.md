@@ -5,6 +5,8 @@ address: "Via Borgo Canale,14, Bergamo"
 opening_hours: "Sat. & Sun. 11-18:30"
 phone: "035 244483"
 url: "www.emmeti.it"
+latitude: 45.706286
+longitude: 9.656155
 ---
 
 The Museum is in the seat of the Istituto Musicale (Palazzo della Misericordia) and has autographs, belongings and books of the great musician from Bergamo. Open Tuesday through Saturday from 9:30 to 12 and 14:00 to 17:00. Sunday 10 to 12 and 14 to 16.

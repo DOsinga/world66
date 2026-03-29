@@ -1,6 +1,8 @@
 ---
 title: "Beaches"
 type: poi
+latitude: 45.614786
+longitude: -122.652069
 ---
 
 Manhattan Beach - (http://www.ci.manhattan-beach.ca.us/). Plently of long-term parking (up to 8 hours), nice beach, surfing, a marine museum on the pier, plenty of shops and restaurants, and it's all within walking distance (a rarity in LA). A great restaurant is *The Kettle*, located on the corner of Highland Ave and Manhattan Beach Blvd.

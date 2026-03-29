@@ -1,6 +1,8 @@
 ---
 title: "Aliso Viejo"
 type: location
+latitude: 33.576138
+longitude: -117.725812
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Richmond"
 type: location
+latitude: 37.538509
+longitude: -77.43428
 ---
 
 **Richmond** is the county seat of **Wayne County, Indiana**. It was founded by Quakers from North Carolina who settled along the Whitewater River Gorge. Pioneers flowed through the community via the National Road (U.S. 40).

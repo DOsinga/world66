@@ -1,6 +1,8 @@
 ---
 title: "Laugharne"
 type: location
+latitude: 51.770035
+longitude: -4.464705
 ---
 
 Laugharne is just accoss the river from Llansteffan and where both towns have impressive castles, Laugharne has something no other town has: it's where Dylan Thomas lived wrote and drank. 

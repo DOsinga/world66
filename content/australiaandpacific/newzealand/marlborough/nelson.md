@@ -1,6 +1,8 @@
 ---
 title: "Nelson"
 type: location
+latitude: -41.271085
+longitude: 173.283676
 ---
 
 Travel Guide

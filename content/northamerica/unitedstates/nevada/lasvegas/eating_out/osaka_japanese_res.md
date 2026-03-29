@@ -5,6 +5,8 @@ address: "4205 W Sahara Ave"
 phone: "(702) 876-4988"
 type: "Japanese"
 url: "www.activediner.com"
+latitude: 36.143967
+longitude: -115.196679
 ---
 
 The first Japanese restaurant in Las Vegas since 1968.

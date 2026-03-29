@@ -6,6 +6,8 @@ address: "Mall Road"
 closing_time: "04.10"
 email: "info@paktraveler.com"
 type: "Salsa"
+latitude: 31.104774
+longitude: 77.161717
 ---
 
 Unlike most other cities in Pakistan, Lahore boasts a happening nightlife. There are movie houses, a theatre going public, music concerts and adult entertainment on traditional lines. Located on the beautifully tree lined, Mall Road is the Al-Hamra Cultural Centre. where a lot is usually going. Located on the Mall, Lahore’s intellectuals and artists are to be found here. As such it allows one to get a pulse on the city’s cultural activities. It is also possible to learn of Pakistani pop music concerts playing around town. If possible, try to go to one, as well behaved crowds of young people dance and sway to the rhythm.

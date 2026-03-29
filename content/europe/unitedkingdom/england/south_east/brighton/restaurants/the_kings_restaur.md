@@ -7,6 +7,8 @@ phone: "01273 224300"
 price: "from £25"
 type: "African"
 url: "www.grandbrighton.co.uk"
+latitude: -33.962522
+longitude: 151.152334
 ---
 
 Dine in splendour in the Grand's own restaurant. The menu has a modern European style and is open for lunch and dinner. Sunday lunches are also available.

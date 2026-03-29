@@ -3,6 +3,8 @@ title: "BarraShopping"
 type: poi
 address: "Av. das Americas, 4666, Barra da Tijuca."
 type: "Shopping centers and malls"
+latitude: -22.998257
+longitude: -43.357461
 ---
 
 BarraShopping is a large mall located in Barra da Tijuca, minutes from Zona Sul. The mall contains tons of shops.

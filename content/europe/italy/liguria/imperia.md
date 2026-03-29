@@ -1,6 +1,8 @@
 ---
 title: "Imperia"
 type: location
+latitude: 43.958375
+longitude: 7.866743
 ---
 
 We currently have no information about Imperia.

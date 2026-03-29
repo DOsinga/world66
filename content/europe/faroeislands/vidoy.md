@@ -1,6 +1,8 @@
 ---
 title: "Vidoy"
 type: location
+latitude: 62.335627
+longitude: -6.522563
 ---
 
 Travel Guide

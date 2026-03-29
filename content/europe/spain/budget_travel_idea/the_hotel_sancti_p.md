@@ -1,6 +1,8 @@
 ---
 title: "The hotel Sancti Petri"
 type: poi
+latitude: 36.33477
+longitude: -6.157958
 ---
 
 Most of the hotels of Sancti Petri are usually situated along near to the well known historical sites and sceneries of Sancti Petri for easy access of guests or those tourists individuals who wanted to enjoy exploring and experiencing the traditional lifestyle of Sancti Petri along with their family, friends or even business associates for those individuals who will be joining business events and dealing out various business transactions. Quite near from most hotel accommodation of Sancti Petri usually found various beaches and resorts that provide white sandy beaches. Aside of that, most of the hotel accommodation of Sancti Petri entails those consider as wonderfully and generously made green environment in a huge space.

@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 address: "Lacson Street, Bacolod City"
 type: "Monasteries"
+latitude: 10.6696
+longitude: 122.950352
 ---
 
 Sights around the city are so marvelous, from old mansions to Churches to parks and Universities, all gave the city a different perspective of a highly urbanized city, making Bacolod the most Livable Cit in the whole Philippines.

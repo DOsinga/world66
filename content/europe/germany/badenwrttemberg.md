@@ -1,6 +1,8 @@
 ---
 title: "Baden-Wurttemberg"
 type: location
+latitude: 48.53775
+longitude: 9.041169
 ---
 
 Baden-Württemberg is together with [Bavaria](/europe/germany/bavaria) the largest Southern region in Germany. Famous tourist attractions are the [Black Forest](/europe/germany/badenwrttemberg/blackforest) with its sparkling mineral springs. The best known spa (and also casino) here is [Baden-Baden](/europe/germany/badenwrttemberg/badenbaden) which is visited for its healing water. [Freiburg](/europe/germany/badenwrttemberg/freiburg) is also called the gateway to the Black forest. This university-city has a lot of architectical work to offer, and a lot of south German atmosphere as well. Another older university town situated in the north of Baden-Württemberg is [Heidelberg](/europe/germany/badenwrttemberg/heidelberg), the most famous place on the river Rhine. 

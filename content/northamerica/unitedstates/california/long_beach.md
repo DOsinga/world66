@@ -1,6 +1,8 @@
 ---
 title: "Long Beach"
 type: location
+latitude: 33.769016
+longitude: -118.191604
 ---
 
 Travel Guide

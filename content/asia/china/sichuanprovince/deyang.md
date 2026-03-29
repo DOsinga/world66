@@ -1,6 +1,8 @@
 ---
 title: "Deyang"
 type: location
+latitude: 31.124403
+longitude: 104.39013
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Goettingen"
 type: location
+latitude: 51.532833
+longitude: 9.935181
 ---
 
 Travel Guide

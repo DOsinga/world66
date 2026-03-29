@@ -1,6 +1,8 @@
 ---
 title: "Eisenach"
 type: location
+latitude: 50.974713
+longitude: 10.319356
 ---
 
 **Facts about Eisenach

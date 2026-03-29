@@ -1,6 +1,8 @@
 ---
 title: "Holly"
 type: location
+latitude: 42.791973
+longitude: -83.627725
 ---
 
 Old downtown Holly is like stepping back in time to the turn of the last century. Lots of antique shops and local artist can be found downtown. Locals seem to know everyone! Right off I-75 exit 102 west takes you into Holly. East takes you to Mt Holly for skiing in the winter.

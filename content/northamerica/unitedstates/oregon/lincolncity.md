@@ -1,6 +1,8 @@
 ---
 title: "Lincoln City"
 type: location
+latitude: 44.961792
+longitude: -124.015952
 ---
 
 We currently have no information about Lincoln City.

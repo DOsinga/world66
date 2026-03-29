@@ -2,6 +2,8 @@
 title: "St. Sava Temple"
 type: poi
 type: "Churches and Cathedrals"
+latitude: 44.798045
+longitude: 20.469188
 ---
 
 Although still under construction, this monumental temple is the third

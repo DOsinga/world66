@@ -6,6 +6,8 @@ email: "info@beursvanberlage.nl"
 phone: "0031 20 6383914"
 type: "Lunch"
 url: "www.beursvanberlage.nl"
+latitude: 51.204465
+longitude: 3.215766
 ---
 
 The former Exchange of Amsterdam, the monumental "Beurs van Berlage", nowadays is a prestigous center for culture, conferences and events.

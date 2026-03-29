@@ -3,6 +3,8 @@ title: "Boxhagener Platz flea market"
 type: poi
 address: "Boxhagener Platz"
 type: "Shopping centers and malls"
+latitude: 52.510808
+longitude: 13.459703
 ---
 
 This is the freakier flea market in Berlin. Every Sunday the punks and deliquent 30somethings in platform shoes come here to sell their wares. Retro furniture, antiques, record collections, hand screened political t-shirts, junk, goa hippie bags: they've got it all! Certainly one of the more interesting people watching activites in the city.

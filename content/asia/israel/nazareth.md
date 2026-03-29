@@ -1,6 +1,8 @@
 ---
 title: "Nazareth"
 type: location
+latitude: 32.704636
+longitude: 35.297185
 ---
 
 Nazareth, a small and insignificant village in the period of Jesus, has now grown to be a modern city that serves as a regional economic center. It is the largest Arab city in Israel with a population of 60,000 most Christians and Moslems, living side by side in harmony. 

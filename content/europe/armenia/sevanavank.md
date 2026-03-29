@@ -1,6 +1,8 @@
 ---
 title: "Sevanavank"
 type: location
+latitude: 40.564011
+longitude: 45.010913
 ---
 
 Sevanavank (Սևանավանք) is a monastery at the Lake Sevan, near the

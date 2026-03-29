@@ -1,6 +1,8 @@
 ---
 title: "Kawar"
 type: location
+latitude: 13.547754
+longitude: 2.09332
 ---
 
 The Kawar is the string of oases stretching from Bilma north toward the Libyan border. An ancient salt producing center and western edge of Toubou territory, these towns are about as remote as it gets. 

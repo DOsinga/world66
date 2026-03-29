@@ -1,6 +1,8 @@
 ---
 title: "Wervik"
 type: location
+latitude: 50.778224
+longitude: 3.04397
 ---
 
 Travel Guide

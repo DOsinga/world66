@@ -1,6 +1,8 @@
 ---
 title: "Altinkum"
 type: location
+latitude: 38.264118
+longitude: 41.061631
 ---
 
 Travel Guide

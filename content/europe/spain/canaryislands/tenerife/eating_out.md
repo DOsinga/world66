@@ -5,6 +5,8 @@ address: "C/del Lomo 23"
 phone: "922 / 368 523"
 price: "expensive"
 type: "Italian"
+latitude: 40.253329
+longitude: -5.003563
 ---
 
 ### [Rosa di Bari](/europe/spain/canaryislands/tenerife/eatingout/rosa_di_bari)

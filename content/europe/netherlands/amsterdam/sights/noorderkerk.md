@@ -1,6 +1,8 @@
 ---
 title: "Noorderkerk"
 type: poi
+latitude: 52.379629
+longitude: 4.886399
 ---
 
 At the northernmost end of the Jordaan, the Noorderkerk is an impressive building, overlooking the Noordermarkt.

@@ -1,6 +1,8 @@
 ---
 title: "Costa Blanca"
 type: location
+latitude: 41.340649
+longitude: 1.788725
 ---
 
 Travel Guide

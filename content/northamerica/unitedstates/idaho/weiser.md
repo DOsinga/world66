@@ -1,6 +1,8 @@
 ---
 title: "Weiser"
 type: location
+latitude: 44.245466
+longitude: -116.970238
 ---
 
 Travel Guide

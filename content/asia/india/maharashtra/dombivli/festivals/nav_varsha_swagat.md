@@ -3,6 +3,8 @@ title: "Nav varsha swagat yatra"
 type: poi
 address: "dombivli"
 email: "iomkar.osi@gmail.com"
+latitude: 19.21486
+longitude: 73.091027
 ---
 
 **Gudi Padwa**

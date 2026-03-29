@@ -6,6 +6,8 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Spa and Sauna"
 url: "egypttourinfo.com"
+latitude: 30.044388
+longitude: 31.235726
 ---
 
 The 10 Days: Egypt Oasis Tour is a relaxing yet completely surreal adventure for anyone who enjoys culture, nature, and history.

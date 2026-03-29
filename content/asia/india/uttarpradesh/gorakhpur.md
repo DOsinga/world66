@@ -1,6 +1,8 @@
 ---
 title: "Gorakhpur"
 type: location
+latitude: 26.667798
+longitude: 83.364233
 ---
 
 Travel Guide

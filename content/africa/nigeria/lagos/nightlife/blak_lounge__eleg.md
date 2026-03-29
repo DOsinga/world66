@@ -5,6 +5,8 @@ address: "Elegushi Beach Lekki"
 closing_time: "6am"
 email: "ralph0603@gmail.com"
 type: "Clubs and dancing"
+latitude: 6.432671
+longitude: 3.481932
 ---
 
 One of the trendiest hangout locations in Lagos, Blak Lounge is located at Elegushi Beach in Lekki Lagos. Its about 10 minutes drive from the upscale Victoria Island.

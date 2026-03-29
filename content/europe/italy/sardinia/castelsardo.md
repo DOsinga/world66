@@ -1,6 +1,8 @@
 ---
 title: "Castelsardo"
 type: location
+latitude: 40.910466
+longitude: 8.718313
 ---
 
 Travel Guide

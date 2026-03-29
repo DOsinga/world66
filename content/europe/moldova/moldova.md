@@ -1,6 +1,8 @@
 ---
 title: "Moldova"
 type: location
+latitude: 47.287961
+longitude: 28.567094
 ---
 
 Moldova was badly badly damaged during World War II. Two thirds of the larger cities were destroyed. In Stalinist times most of it was rebuild, but of course in Stalinist style.

@@ -1,6 +1,8 @@
 ---
 title: "Hälsingland"
 type: location
+latitude: 61.66727
+longitude: 16.510913
 ---
 
 Travel Guide

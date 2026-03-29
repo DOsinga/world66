@@ -7,6 +7,8 @@ opening_hours: "Open year-round from 9am to 5pm, closed only on Christmas Day an
 phone: "(905) 679-4183"
 type: "Hotspots"
 url: "www.warplane.com"
+latitude: 43.159835
+longitude: -79.924915
 ---
 
 Please find below a listing of sights worth seeing in Hamilton.

@@ -1,6 +1,8 @@
 ---
 title: "Basque Country Euskadi"
 type: location
+latitude: 43.350822
+longitude: -3.068281
 ---
 
 Located in the north of Spain, the Basque Country is well known for its

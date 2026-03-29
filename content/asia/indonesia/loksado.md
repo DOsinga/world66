@@ -1,6 +1,8 @@
 ---
 title: "Loksado"
 type: location
+latitude: -2.794682
+longitude: 115.496021
 ---
 
 Travel Guide

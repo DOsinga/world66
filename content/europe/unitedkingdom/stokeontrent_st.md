@@ -1,6 +1,8 @@
 ---
 title: "Stoke-on-Trent, Staffordshire"
 type: location
+latitude: 53.020564
+longitude: -2.229993
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Suez"
 type: location
+latitude: 29.974498
+longitude: 32.537086
 ---
 
 Suez is located at the south end of the canal of the same name. It is a transport hub for travel to the Sinai and a good place to watch big ships sailing through a desert landscape. 

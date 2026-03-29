@@ -1,6 +1,8 @@
 ---
 title: "Trpanj"
 type: location
+latitude: 43.008044
+longitude: 17.273354
 ---
 
 **Trpanj** is a small pitoresque resort situated on north-western part of **Peljesac peninsula** in **county of Dubrovnik, Croatia**. 

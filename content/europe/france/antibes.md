@@ -1,6 +1,8 @@
 ---
 title: "Antibes"
 type: location
+latitude: 43.581388
+longitude: 7.123697
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Raleigh"
 type: location
+latitude: 35.780398
+longitude: -78.639099
 ---
 
 Raleigh is the capital of North Carolina and a very attractive city. You can spend the morning exploring three free state museums of art, history and natural sciences. 

@@ -1,6 +1,8 @@
 ---
 title: "Acitrezza"
 type: location
+latitude: 37.56634
+longitude: 15.161036
 ---
 
 Travel Guide

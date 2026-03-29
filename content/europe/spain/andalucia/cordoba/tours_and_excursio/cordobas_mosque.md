@@ -5,6 +5,8 @@ address: "Cordoba"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 37.884581
+longitude: -4.776014
 ---
 
 Half-day guided walking tour to visit Cordoba’s Mosque (La Mezquita) and Jewish quarter, walk the Calle de los Judios (Street of the Jews) to the ancient synagogue and then the Alcazar…

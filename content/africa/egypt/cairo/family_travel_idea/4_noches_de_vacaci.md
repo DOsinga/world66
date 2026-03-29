@@ -5,6 +5,8 @@ address: "hurghada,egypt"
 email: "tamer@albaraagroup.com"
 phone: "0020100850146"
 url: "www.albaraagroup.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Normal

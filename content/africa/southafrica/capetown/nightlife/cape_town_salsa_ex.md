@@ -5,6 +5,8 @@ address: "Cape Town"
 email: "sarah@salsaexplosion.co.za"
 type: "Salsa"
 url: "www.salsaexplsosion.co.za"
+latitude: -33.92883
+longitude: 18.41722
 ---
 
 Normal

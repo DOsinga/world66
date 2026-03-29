@@ -1,6 +1,8 @@
 ---
 title: "Ameland island"
 type: location
+latitude: 53.448327
+longitude: 5.739961
 ---
 
 Beautiful island - great place to spend some days.

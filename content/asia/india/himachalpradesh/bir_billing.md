@@ -1,6 +1,8 @@
 ---
 title: "Bir Billing"
 type: location
+latitude: 32.047219
+longitude: 76.74065
 ---
 
 Sheltered by the mountains and surrounded by tea gardens, Bir a small village with a Tibetan Colony and monasteries in Kangra district, Himachal Pradesh; serves as a landing ground and a base for Hang and Para gliders. Their launching (take-off) destination 'Billing', is a little meadow at 2,400m (8500 ft) on the Dhauladhar ranges, 14-km up from Bir. This meadow one of the wonders of nature, perfectly designed as a launch pad, has become a legend on the international paragliding circuits and a destination for World Champion Paraglider pilots. The meadow directly above the villages of Bir and Chaugan, is one of the best gliding sites in the world. 

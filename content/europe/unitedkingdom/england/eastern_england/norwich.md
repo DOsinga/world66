@@ -1,6 +1,8 @@
 ---
 title: "Norwich"
 type: location
+latitude: 52.628558
+longitude: 1.292395
 ---
 
 The Forum which is next to the main market square, includes the library and the Tourist Information Center. B&B bookings can be made there. 

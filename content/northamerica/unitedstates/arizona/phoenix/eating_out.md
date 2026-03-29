@@ -6,6 +6,8 @@ address: "3225 East Camelback Road Phoenix, AZ 85015"
 phone: "602-956-0836"
 price: "expensive"
 type: "Italian"
+latitude: 33.509883
+longitude: -112.011224
 ---
 
 Places to eat.

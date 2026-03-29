@@ -1,6 +1,8 @@
 ---
 title: "Tulle"
 type: location
+latitude: 45.267835
+longitude: 1.77068
 ---
 
 We currently have no information about Tulle.

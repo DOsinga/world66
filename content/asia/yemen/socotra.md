@@ -1,6 +1,8 @@
 ---
 title: "Socotra"
 type: location
+latitude: 12.5
+longitude: 53.833333
 ---
 
 We currently have no information about Socotra.

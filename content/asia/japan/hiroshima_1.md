@@ -1,6 +1,8 @@
 ---
 title: "Hiroshima"
 type: location
+latitude: 34.391724
+longitude: 132.451759
 ---
 
 Travel Guide

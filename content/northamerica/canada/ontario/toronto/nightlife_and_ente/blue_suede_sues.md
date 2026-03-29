@@ -7,6 +7,8 @@ email: "contactus@bluesuedesues.ca"
 phone: "905-890-0690"
 type: "Clubs and dancing"
 url: "www.bluesuedesues.ca"
+latitude: 43.622367
+longitude: -79.671193
 ---
 
 Toronto's hottest nightclub is in Mississauga. Since 1989 the great atmosphere and distrinctive clientele have made

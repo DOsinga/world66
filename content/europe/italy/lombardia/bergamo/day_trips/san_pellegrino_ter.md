@@ -2,6 +2,8 @@
 title: "San Pellegrino Terme"
 type: poi
 url: "members.virtualtourist.com"
+latitude: 45.838631
+longitude: 9.664731
 ---
 
 Queen Elizabeth came here by train, when the train was still functioning. She would stay at the Grand Palace Hotel, walk by the river or go to the Casinò.

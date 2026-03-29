@@ -1,6 +1,8 @@
 ---
 title: "Van Gogh"
 type: poi
+latitude: 51.551249
+longitude: 5.325468
 ---
 
 This is one the most popular museums in Amsterdam and not for nothing. It really is a nice museum. The paintings tell the story of Van Goghs tragic life, from his start in the Netherlands to his brilliant time in France.

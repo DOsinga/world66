@@ -1,6 +1,8 @@
 ---
 title: "Bolgatanga"
 type: location
+latitude: 10.785396
+longitude: -0.848732
 ---
 
 We currently have no information about Bolgatanga.

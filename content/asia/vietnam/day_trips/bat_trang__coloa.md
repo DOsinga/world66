@@ -5,6 +5,8 @@ address: "224 Thuy Khue"
 email: "info@keytovietnam.com"
 phone: "+84432944911"
 url: "keytovietnam.com"
+latitude: 21.043065
+longitude: 105.82184
 ---
 
 **Program - 1 :

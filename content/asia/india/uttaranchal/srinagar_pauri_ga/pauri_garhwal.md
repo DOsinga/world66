@@ -1,6 +1,8 @@
 ---
 title: "Pauri Garhwal"
 type: location
+latitude: 29.847317
+longitude: 78.707048
 ---
 
 Travel Guide

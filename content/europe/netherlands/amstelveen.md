@@ -1,6 +1,8 @@
 ---
 title: "Amstelveen"
 type: location
+latitude: 52.302821
+longitude: 4.859684
 ---
 
 Amstelveen is a city situated in the province North-Holland (in the

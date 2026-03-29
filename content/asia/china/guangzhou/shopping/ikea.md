@@ -4,6 +4,8 @@ type: poi
 accessibility: "take the subway #1 to the East Train Station (last stop) and exit D,E, or F."
 type: "Speciality shops"
 url: "www.ikea.com"
+latitude: 22.280945
+longitude: 114.186509
 ---
 
 For tourists, IKEA is more like an attraction than a shopping destination. Obviously you don't want to buy furnitures here to bring them home. But it may be fasinating to look at, comparing to your IKEA at home.

@@ -1,6 +1,8 @@
 ---
 title: "Whales"
 type: location
+latitude: 49.071509
+longitude: -125.766281
 ---
 
 The waters of British Columbia support healthy populations of grey, humpback and killer whales. Many communities along the coast have benefited through eco-tourism focussing on whale watching tours. These tours are normally available throughout the year, but the whales are most likely to be seen during the spring and summer months.

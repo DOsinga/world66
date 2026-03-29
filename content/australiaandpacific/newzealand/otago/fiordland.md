@@ -1,6 +1,8 @@
 ---
 title: "Fiordland"
 type: location
+latitude: -45.291553
+longitude: 167.487993
 ---
 
 Travel Guide

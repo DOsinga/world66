@@ -5,6 +5,8 @@ address: "Hurghada Red Sea"
 email: "marketing3@albaraagroup.com"
 phone: "002 01062922290"
 url: "www.albaraagroup.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Tour Type:Hurghada all inclusive and Red Sea diving

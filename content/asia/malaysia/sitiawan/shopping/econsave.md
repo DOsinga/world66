@@ -2,6 +2,8 @@
 title: "Econsave"
 type: poi
 type: "Shopping centers and malls"
+latitude: 5.499644
+longitude: 100.549215
 ---
 
 A "*pasar besar*" (supermarket) that opened in 2006, just between Sitiawan and Seri Manjung.

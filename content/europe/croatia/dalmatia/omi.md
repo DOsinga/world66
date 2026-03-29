@@ -1,6 +1,8 @@
 ---
 title: "OMIŠ"
 type: location
+latitude: 43.443497
+longitude: 16.692277
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Hobe Sound"
 type: location
+latitude: 27.080492
+longitude: -80.139918
 ---
 
 Centrally located between Jupiter and Stuart, Hobe Sound is home to some of the most beautiful nature spots in the state.

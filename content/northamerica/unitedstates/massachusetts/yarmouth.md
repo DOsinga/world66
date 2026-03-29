@@ -1,6 +1,8 @@
 ---
 title: "Yarmouth"
 type: location
+latitude: 43.800913
+longitude: -70.187578
 ---
 
 Travel Guide

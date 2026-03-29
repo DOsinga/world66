@@ -1,6 +1,8 @@
 ---
 title: "British Columbia"
 type: location
+latitude: 55.001251
+longitude: -125.002441
 ---
 
 "/>

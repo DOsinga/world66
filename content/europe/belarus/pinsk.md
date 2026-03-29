@@ -1,6 +1,8 @@
 ---
 title: "Pinsk"
 type: location
+latitude: 52.111386
+longitude: 26.102527
 ---
 
 We currently have no information about Pinsk.

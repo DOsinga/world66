@@ -1,6 +1,8 @@
 ---
 title: "Vaishnodevi"
 type: location
+latitude: 21.148027
+longitude: 79.136406
 ---
 
 **Mata Vaishnodevi** is located at the Height of 5200 Feet from the sea level and 61 Km at the North of Jammu on the Mountain Trikuta. There are millions of devotees, regularly visits Mata Vaishnodevi, throughout the Year. There are images of Three dieties or known as Pindies i.e Maha-Kali, Maha-Lakshmi and Maha-Saraswati. 

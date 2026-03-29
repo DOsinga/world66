@@ -7,6 +7,8 @@ phone: "0041 33 822 65 12"
 price: "between 15 and 25 SFR"
 type: "American"
 url: "www.hooters-interlaken.ch"
+latitude: 50.655386
+longitude: 7.311985
 ---
 
 Hooters, the famous restaurant chain has now a branch in Switzerland. Great food and wonderful service.

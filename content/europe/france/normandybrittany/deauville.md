@@ -1,6 +1,8 @@
 ---
 title: "Deauville"
 type: location
+latitude: 49.359502
+longitude: 0.074664
 ---
 
 Deauville is the most glamorous seaside resort of Northern Fance. It is one the favourite resorts for well off Parisiens. The name symbolizes elegance, prestige and sophistication. Just a few of the nicknames of the town are "The city of the horse" and "gateway to Calvados".

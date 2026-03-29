@@ -2,6 +2,8 @@
 title: "Zoo"
 type: poi
 type: "Hotspots"
+latitude: 0.051778
+longitude: 32.477527
 ---
 
 The Entebbe Zoo run by a chimp-loving British zoologist has become a ramshackle orphanage for animals rescued after being illegally taken from the wild.

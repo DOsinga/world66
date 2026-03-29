@@ -6,6 +6,8 @@ email: "hanoipeacetour@yahoo.com"
 phone: "(84-4) 3568 2115"
 type: "Cycling"
 url: "www.hanoipeacetour.com"
+latitude: 20.832786
+longitude: 105.670738
 ---
 
 **Overnight Cruise for 3 days/2nights on Halong Bay • Daily Departure**

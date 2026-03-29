@@ -5,6 +5,8 @@ address: "Unter den Linden 10, Berlin"
 type: "Books & Records"
 url: "www.BerlinStory.de"
 zipcode: "10117"
+latitude: 52.517451
+longitude: 13.39042
 ---
 
 On one of Berlin's most famous boulevards, the bookstore Berlin Story offers books that delve into everything from Prussian and Third Reich history to the latest modern architecture and where to party the latest.

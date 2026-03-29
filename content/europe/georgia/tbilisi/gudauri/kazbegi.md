@@ -1,6 +1,8 @@
 ---
 title: "Kazbegi"
 type: location
+latitude: 42.65799
+longitude: 44.640808
 ---
 
 Travel Guide

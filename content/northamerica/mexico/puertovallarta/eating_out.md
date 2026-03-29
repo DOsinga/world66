@@ -5,6 +5,8 @@ accessibility: "taxi."
 address: "Bucerias Mexico"
 price: "Mid range"
 type: "International"
+latitude: 21.512057
+longitude: -104.919532
 ---
 
 Puerto Vallarta holds a gourmet festival yearly (http://www.festivalgourmet.com/), expect fabulous dining, not only at participant restaurants but throughout the area.

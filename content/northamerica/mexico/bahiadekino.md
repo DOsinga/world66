@@ -1,6 +1,8 @@
 ---
 title: "Bahia De Kino"
 type: location
+latitude: 28.824598
+longitude: -111.937186
 ---
 
 One of the finest beach towns, natural beaches, good food, la gente simpatico, desert meeting the sea without the glitz of disco nights. 

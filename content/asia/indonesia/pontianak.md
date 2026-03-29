@@ -1,6 +1,8 @@
 ---
 title: "Pontianak"
 type: location
+latitude: -0.02269
+longitude: 109.344749
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ opening_hours: "9 a.m. to 5 p.m"
 phone: "(800) 966-8877"
 type: "Hotspots"
 url: "www.stlzoo.org"
+latitude: 38.637525
+longitude: -90.296527
 ---
 
 Located in Forest Park this a world-class zoo with more than 6,000 animals. Recent openings include The River's Edge and the Monsanto Insectarium. Natural habitat areas include Big Cat Country, Jungle of the Apes and the Children's Zoo. Daily except Christmas and New Years Day, 9 a.m. - 5 p.m.; until 8 p.m. on Tue. in summer. Admission to the Zoo is FREE although there are fees for some attractions.

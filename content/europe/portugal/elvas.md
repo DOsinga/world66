@@ -1,6 +1,8 @@
 ---
 title: "Elvas"
 type: location
+latitude: 38.880612
+longitude: -7.163724
 ---
 
 We currently have no information about Elvas.

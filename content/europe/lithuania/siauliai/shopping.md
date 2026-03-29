@@ -2,6 +2,8 @@
 title: "Shopping"
 type: section
 type: "Shopping centers and malls"
+latitude: 54.939683
+longitude: 23.892661
 ---
 
 prekyvietė

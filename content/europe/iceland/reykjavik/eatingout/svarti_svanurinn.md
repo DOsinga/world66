@@ -6,6 +6,8 @@ phone: "+354 551 6040"
 price: "good"
 type: "Local"
 zipcode: "105"
+latitude: 64.142942
+longitude: -21.914791
 ---
 
 Great hot meals for lunch time........

@@ -6,6 +6,8 @@ email: "bruce@walkingtoursmanhattan.com"
 phone: "917-842-4319"
 type: "Hiking"
 url: "www.walkingtoursmanhattan.com"
+latitude: 38.299264
+longitude: -77.458217
 ---
 
 Immerse yourself in an eco-friendly walking

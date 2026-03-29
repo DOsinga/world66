@@ -1,6 +1,8 @@
 ---
 title: "Tirgoviste"
 type: location
+latitude: 44.926771
+longitude: 25.462816
 ---
 
 We currently have no information about Tirgoviste.

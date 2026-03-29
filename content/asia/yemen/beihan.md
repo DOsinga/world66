@@ -1,6 +1,8 @@
 ---
 title: "Beihan"
 type: location
+latitude: 14.800669
+longitude: 45.718891
 ---
 
 We currently have no information about Beihan.

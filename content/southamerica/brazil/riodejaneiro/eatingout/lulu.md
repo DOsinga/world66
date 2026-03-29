@@ -5,6 +5,8 @@ address: "Rua Visconde de carandaí, 2"
 phone: "2294 7830"
 type: "Italian"
 url: "www.restaurantelulu.com.br"
+latitude: -22.965473
+longitude: -43.220149
 ---
 
 Can you image that in Rio de Janeiro there's a place so unique that

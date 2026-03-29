@@ -1,6 +1,8 @@
 ---
 title: "Krynica-Zdroj"
 type: location
+latitude: 49.420614
+longitude: 20.959418
 ---
 
 Travel Guide

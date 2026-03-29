@@ -6,6 +6,8 @@ email: "info@havanna-bar-ffm.de"
 phone: "+49 (0)173 69 13 697"
 type: "Wine bars"
 url: "www.havanna-bar-ffm.de"
+latitude: 50.111271
+longitude: 8.694834
 ---
 
 Visit the first HAVANNA BAR in Germany. (since 1995)

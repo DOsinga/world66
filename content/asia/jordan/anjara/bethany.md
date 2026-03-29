@@ -1,6 +1,8 @@
 ---
 title: "Bethany"
 type: location
+latitude: 40.836903
+longitude: -96.625625
 ---
 
 Travel Guide

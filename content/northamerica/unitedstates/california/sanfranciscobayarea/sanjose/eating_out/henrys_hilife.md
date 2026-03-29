@@ -5,6 +5,8 @@ address: "301 West St. John Street"
 phone: "408-295-5414"
 type: "American"
 url: "www.henryshilife.com"
+latitude: 37.33548
+longitude: -121.898188
 ---
 
 A visit to San Jose would not be complete without visiting historic Henry's Hi-Life. Located just west of downtown, the atmosphere is...well...let's say festive. This is classic American red-meat cuisine. Bring your appetite and your sense of adventure. If you're in the mood for a steak, don't pass on Henry's.

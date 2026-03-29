@@ -1,6 +1,8 @@
 ---
 title: "Newton"
 type: location
+latitude: 30.811899
+longitude: -93.740504
 ---
 
 Travel Guide

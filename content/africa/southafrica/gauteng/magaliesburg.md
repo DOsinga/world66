@@ -1,6 +1,8 @@
 ---
 title: "Magaliesburg"
 type: location
+latitude: -26.000223
+longitude: 27.547809
 ---
 
 Travel Guide

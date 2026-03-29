@@ -4,6 +4,8 @@ type: section
 address: "Piazza Marconi, Bergamo"
 type: "By Rail"
 url: "www.trenitalia.it"
+latitude: 45.533104
+longitude: 9.670096
 ---
 
 Flights to Bergamo make getting there easier and easier as more companies use this stragetic position.

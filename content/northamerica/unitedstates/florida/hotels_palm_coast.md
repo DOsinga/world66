@@ -1,6 +1,8 @@
 ---
 title: "Hotels Palm Coast Florida"
 type: location
+latitude: 29.47732
+longitude: -81.195331
 ---
 
 Travel Guide

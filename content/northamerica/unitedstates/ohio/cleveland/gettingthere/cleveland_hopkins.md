@@ -2,6 +2,8 @@
 title: "Cleveland Hopkins International Airport"
 type: poi
 type: "By Air"
+latitude: 41.406454
+longitude: -81.851015
 ---
 
 Cleveland Hopkins International Airport is on the West Side of

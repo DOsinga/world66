@@ -1,6 +1,8 @@
 ---
 title: "Tirth"
 type: location
+latitude: 18.69791
+longitude: 77.008291
 ---
 
 A sacred sanctum, this abode of the most revered Sadgurudev Ji

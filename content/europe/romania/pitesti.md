@@ -1,6 +1,8 @@
 ---
 title: "Pitesti"
 type: location
+latitude: 44.857288
+longitude: 24.872116
 ---
 
 We currently have no information about Pitesti.

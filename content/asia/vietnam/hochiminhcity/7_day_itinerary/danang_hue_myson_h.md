@@ -5,6 +5,8 @@ address: "45A Tran Phu - Hanoi"
 email: "hanoipeacetour@yahoo.com"
 phone: "+84-4 35682115"
 url: "www.hanoipeacetour.vn"
+latitude: 20.832786
+longitude: 105.670738
 ---
 
 **Day 1 : Danang Arrival - Hue (D)**

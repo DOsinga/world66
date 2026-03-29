@@ -8,6 +8,8 @@ opening_hours: "24 hours"
 phone: "800-773-0862"
 type: "Hotspots"
 url: "www.chinaodysseytours.com"
+latitude: 25.277989
+longitude: 110.291062
 ---
 
 The most adventurous sightseeing in Lijiang

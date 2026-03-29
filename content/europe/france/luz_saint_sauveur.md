@@ -1,6 +1,8 @@
 ---
 title: "Luz Saint Sauveur"
 type: location
+latitude: 42.872114
+longitude: -0.004342
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "The azores"
 type: location
+latitude: 37.746316
+longitude: -25.662919
 ---
 
 We currently have no information about The azores.

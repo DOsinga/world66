@@ -1,6 +1,8 @@
 ---
 title: "waterloo"
 type: location
+latitude: 42.498275
+longitude: -92.332874
 ---
 
 We currently have no information about waterloo.

@@ -1,6 +1,8 @@
 ---
 title: "Le Blanc"
 type: location
+latitude: 46.633229
+longitude: 1.06323
 ---
 
 Le Blanc

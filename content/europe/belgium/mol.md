@@ -1,6 +1,8 @@
 ---
 title: "Mol"
 type: location
+latitude: 51.184042
+longitude: 5.115527
 ---
 
 Travel Guide

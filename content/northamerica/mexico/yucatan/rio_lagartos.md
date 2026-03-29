@@ -1,6 +1,8 @@
 ---
 title: "Rio lagartos"
 type: location
+latitude: 21.520497
+longitude: -88.133154
 ---
 
 Travel Guide

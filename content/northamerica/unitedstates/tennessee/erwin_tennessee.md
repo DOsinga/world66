@@ -1,6 +1,8 @@
 ---
 title: "Erwin"
 type: location
+latitude: 42.131675
+longitude: -77.141161
 ---
 
 Travel Guide

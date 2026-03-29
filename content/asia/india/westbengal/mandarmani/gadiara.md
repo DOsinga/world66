@@ -1,6 +1,8 @@
 ---
 title: "Gadiara"
 type: location
+latitude: 22.222494
+longitude: 88.047416
 ---
 
 Travel Guide

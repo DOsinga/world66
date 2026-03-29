@@ -1,6 +1,8 @@
 ---
 title: "Panzhihua"
 type: location
+latitude: 26.58601
+longitude: 101.717928
 ---
 
 Travel Guide

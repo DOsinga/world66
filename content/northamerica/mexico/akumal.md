@@ -1,6 +1,8 @@
 ---
 title: "Akumal"
 type: location
+latitude: 20.398797
+longitude: -87.31734
 ---
 
 Travel Guide

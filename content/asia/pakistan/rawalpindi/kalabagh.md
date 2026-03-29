@@ -1,6 +1,8 @@
 ---
 title: "Kalabagh"
 type: location
+latitude: 34.074143
+longitude: 73.370849
 ---
 
 Travel Guide

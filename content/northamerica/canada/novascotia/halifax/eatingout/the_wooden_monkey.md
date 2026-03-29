@@ -6,6 +6,8 @@ phone: "902-444-3844"
 price: "Moderate"
 type: "Vegetarian"
 url: "www.thewoodenmonkey.ca"
+latitude: 44.646736
+longitude: -63.574382
 ---
 
 This is an awesome organic food restaurant, not just veggie stuff but that's their area of expertise. They buy all their ingredients from local farmers.

@@ -1,6 +1,8 @@
 ---
 title: "Montrose"
 type: location
+latitude: 38.437539
+longitude: -108.240386
 ---
 
 The Montrose area is known as Houston's gayest neighborhood and -- as so often happens -- its most bohemian neighborhood as well. Tony antique shops share the blocks with tatoo parlors and piercing palaces. Gay bars cluster around Pacific Street, while shopping is centered on the busy intersection of Montrose and Westheimer. 

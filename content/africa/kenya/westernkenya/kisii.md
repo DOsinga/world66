@@ -1,6 +1,8 @@
 ---
 title: "Kisii"
 type: location
+latitude: -0.738942
+longitude: 34.753985
 ---
 
 Travel Guide

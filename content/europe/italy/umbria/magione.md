@@ -1,6 +1,8 @@
 ---
 title: "magione"
 type: location
+latitude: 43.142737
+longitude: 12.203496
 ---
 
 Travel Guide

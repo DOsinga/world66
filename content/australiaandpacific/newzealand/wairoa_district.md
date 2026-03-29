@@ -1,6 +1,8 @@
 ---
 title: "Wairoa District"
 type: location
+latitude: -38.924796
+longitude: 177.277662
 ---
 
 The Wairoa District is never short of things to see and do. Whether you are a local resident or an international visitor, Wairoa has something for everyone. Following is just a small selection of activities and attractions within the region. 

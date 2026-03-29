@@ -4,6 +4,8 @@ type: section
 email: "info@tangierdreamer.com"
 type: "Markets"
 url: "www.tangierdreamer.com"
+latitude: 33.60687
+longitude: -7.62065
 ---
 
 Tearooms and perfumeries from the colonial era, shops like little poems, handmade products that at the same time leave an ecological footstep that is in no comparison to European or American products... Tangier is a shopping destination unlike any other.

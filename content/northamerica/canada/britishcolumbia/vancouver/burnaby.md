@@ -1,6 +1,8 @@
 ---
 title: "Burnaby"
 type: location
+latitude: 49.24338
+longitude: -122.972545
 ---
 
 Burnaby lies just east of Vancouver, bordered by the Burrard Inlet from the north, Burnaby Mtn. from the east, and the Fraser River from the south. It is probably Vancouver's loveliest suburb, with a few pretty hills like Capitol Hill and Burnaby Heigths, and a chain of small lakes - Deer Lake, Squint Lake and Burnaby Lake (rowing competitions are held there). 

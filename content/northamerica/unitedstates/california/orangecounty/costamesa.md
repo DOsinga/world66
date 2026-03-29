@@ -1,6 +1,8 @@
 ---
 title: "Costa Mesa"
 type: location
+latitude: 33.663339
+longitude: -117.903317
 ---
 
 Another shopper's paradise is Costa Mesa's world-class South Coast Plaza. It's department stores, designer boutiques, gardens, theater, and cinema have long been ranked among the world's finest. Just east of the Plaza, the Orange County Performing Arts Center hosts ballet, opera, and musical performances. While in Costa Mesa, visit The Lab, a zany shopping complex in a converted warehouse.

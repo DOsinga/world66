@@ -7,6 +7,8 @@ phone: "+47 22 35 36 00"
 price: "Inexpensive"
 type: "European"
 url: "www.dyrevaacafe.no"
+latitude: 59.918718
+longitude: 10.757965
 ---
 
 Trendy cafe, restaurant and bar serving lunch and dinner. Dyre Vaa is focusing on great food to affordable prizes. Is also open night-time in weekends. Serves brunch every Sunday.

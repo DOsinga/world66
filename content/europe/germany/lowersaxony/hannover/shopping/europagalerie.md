@@ -6,6 +6,8 @@ email: "info@europa-galerie.de"
 phone: "+49 (0)511-3068225"
 type: "Galleries"
 url: "www.europa-galerie.de"
+latitude: 52.368528
+longitude: 9.740336
 ---
 
 type: Galleries

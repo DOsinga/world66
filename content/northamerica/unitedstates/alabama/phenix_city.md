@@ -1,6 +1,8 @@
 ---
 title: "Phenix City"
 type: location
+latitude: 32.470976
+longitude: -85.000765
 ---
 
 Travel Guide

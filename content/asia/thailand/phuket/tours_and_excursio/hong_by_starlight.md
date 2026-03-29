@@ -5,6 +5,8 @@ address: "Phuket, Thailand"
 email: "info@phukethotdeals.com"
 phone: "+66 81 271 6875"
 url: "phukethotdeals.com"
+latitude: 7.936602
+longitude: 98.352929
 ---
 
 **Hong By Starlight - Sea Canoe to Phang Nga Bay**

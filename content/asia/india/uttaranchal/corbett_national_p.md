@@ -1,6 +1,8 @@
 ---
 title: "Corbett national park"
 type: location
+latitude: 29.557475
+longitude: 78.842495
 ---
 
 Travel Guide

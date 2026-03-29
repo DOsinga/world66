@@ -1,6 +1,8 @@
 ---
 title: "Mt Hagen"
 type: location
+latitude: -5.858784
+longitude: 144.231637
 ---
 
 Travel Guide

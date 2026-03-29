@@ -8,6 +8,8 @@ opening_hours: "Peggy"
 phone: "Peggy"
 type: "1"
 url: "hdlighthouse.org"
+latitude: 28.739848
+longitude: -98.179431
 ---
 
 Great work!

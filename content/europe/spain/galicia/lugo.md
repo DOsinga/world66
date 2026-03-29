@@ -1,6 +1,8 @@
 ---
 title: "Lugo"
 type: location
+latitude: 43.039527
+longitude: -7.456798
 ---
 
 Built by the Romans in the 3rd

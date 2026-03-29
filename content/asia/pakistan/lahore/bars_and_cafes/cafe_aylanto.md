@@ -3,6 +3,8 @@ title: "Cafe Aylanto"
 type: poi
 address: "2-C 9th Commercial Lane"
 phone: "92-21-587-5724"
+latitude: 24.818938
+longitude: 67.040079
 ---
 
 Has the

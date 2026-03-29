@@ -1,6 +1,8 @@
 ---
 title: "Hatteras Island"
 type: location
+latitude: 35.484929
+longitude: -75.480568
 ---
 
 Travel Guide

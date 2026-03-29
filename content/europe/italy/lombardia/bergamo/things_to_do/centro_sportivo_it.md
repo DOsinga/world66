@@ -6,6 +6,8 @@ email: "info@bergamosportspa.it"
 phone: "035 251171/fax 035 4329388"
 type: "Other"
 url: "www.bergamosportspa.it"
+latitude: 45.702717
+longitude: 9.652925
 ---
 
 Swim all year round - in the outdoor pools in summer and in the indoor pools in winter. The gymnasium has bleachers to seat 1,000 people for the viewing of sporting events such as volley ball, basket ball, indoor soccer or other events like Karate and so on.

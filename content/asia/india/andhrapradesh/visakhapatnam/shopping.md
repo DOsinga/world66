@@ -3,6 +3,8 @@ title: "Shopping"
 type: section
 address: "Jagadamba Junction"
 type: "Speciality shops"
+latitude: 17.712378
+longitude: 83.303004
 ---
 
 Here are a few suggested places where you can go shopping.

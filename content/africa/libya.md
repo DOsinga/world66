@@ -1,6 +1,8 @@
 ---
 title: "Libya"
 type: location
+latitude: 26.823447
+longitude: 18.123672
 ---
 
 Libya does not sound like an every day tourist destination, and it's not. That doesn't mean that that you shouldn't go. Quite on the contrary. Libya has marvellous monuments dating [Al Qatrun](/africa/libya/alqatrun)

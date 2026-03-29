@@ -2,6 +2,8 @@
 title: "Eagle County Airport"
 type: poi
 type: "By Air"
+latitude: 39.642257
+longitude: -106.917221
 ---
 
 The eagle airport is located approx. 35 minutes east of Vail. It is served during the ski season by *American Airlines*, *US Air*, *Continintal*, *Northwest*, *Delta*, and *United*.

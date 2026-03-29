@@ -1,6 +1,8 @@
 ---
 title: "Hiroshima"
 type: location
+latitude: 34.391724
+longitude: 132.451759
 ---
 
 When the first atomic bomb exploded over Hiroshima on 6 Aug 1945 the city became an immediate symbol for the horrors of war. Today Hiroshima (pop. 1 086 000) has several moving reminders of that day of utter devastation. 

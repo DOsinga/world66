@@ -1,9 +1,12 @@
 ---
 title: "Police"
 type: location
+latitude: 51.5436
+longitude: 5.073425
 ---
 
--- end of section 
+-- end of section
+ 
 
 **Practical addresss**
 

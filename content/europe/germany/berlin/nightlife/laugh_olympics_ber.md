@@ -6,6 +6,8 @@ email: "news@laugholympics.de"
 phone: "030 48623186"
 type: "Theatres"
 url: "www.laugholympics.de"
+latitude: 52.528882
+longitude: 13.409541
 ---
 
 Laugh

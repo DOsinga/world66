@@ -4,6 +4,8 @@ type: poi
 address: "Hochbrückenstrasse 3"
 phone: "+49 (0)89  29 51 18"
 type: "Bars"
+latitude: 48.136404
+longitude: 11.579485
 ---
 
 Miracles do happen in this mysterious bar with a charming atmosphere.

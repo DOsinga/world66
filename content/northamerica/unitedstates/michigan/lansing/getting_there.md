@@ -5,6 +5,8 @@ address: "229 S. Cedar St."
 phone: "(517) 482-1444"
 type: "By Road"
 url: "www.capitoltransport.com"
+latitude: 35.231026
+longitude: -80.851971
 ---
 
 ### [Capitol Transport LLC, Spartan/Yellow Cab](/northamerica/unitedstates/michigan/lansing/gettingthere/capitol_transport)

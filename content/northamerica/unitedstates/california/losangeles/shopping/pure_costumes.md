@@ -6,6 +6,8 @@ email: "admin@purecostumes.com"
 phone: "626.443.6188"
 type: "Speciality shops"
 url: "www.purecostumes.com"
+latitude: 34.049706
+longitude: -118.055515
 ---
 
 Pure Costumes sells Halloween costume for adults, teens, children, and toddlers.

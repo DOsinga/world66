@@ -1,6 +1,8 @@
 ---
 title: "New Aberdour"
 type: location
+latitude: 57.658793
+longitude: -2.195062
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Bhimashankar"
 email: "bhatkanti@gmail.com"
 type: "Palaces"
 url: "bhatkanti.blogspot.com"
+latitude: 19.071995
+longitude: 73.535764
 ---
 
 **Bhimashankar **in Maharashtra is an ancient shrine, enshrining

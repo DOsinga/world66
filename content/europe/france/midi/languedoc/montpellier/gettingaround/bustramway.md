@@ -1,6 +1,8 @@
 ---
 title: "BUS / TRAMWAY"
 type: poi
+latitude: 43.580168
+longitude: 3.869855
 ---
 
 Tramway : Commissioning of Tramline N°1 in July 2000 Mosson (North of Montpellier) – Odysseum (South of Montpellier)

@@ -1,6 +1,8 @@
 ---
 title: "Ely"
 type: location
+latitude: 39.248059
+longitude: -114.891718
 ---
 
 Travel Guide

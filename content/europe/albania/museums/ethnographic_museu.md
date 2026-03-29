@@ -1,6 +1,8 @@
 ---
 title: "Ethnographic Museum"
 type: poi
+latitude: 40.472244
+longitude: 19.491705
 ---
 
 **Contributors**

@@ -7,6 +7,8 @@ phone: "416 596-1908"
 price: "$$$"
 type: "International"
 url: "rivoli.ca"
+latitude: 43.649408
+longitude: -79.394943
 ---
 
 This is a popular with locals and has been for many years. There is

@@ -4,6 +4,8 @@ type: poi
 address: "56-58 Nguyen Thai Hoc Street"
 price: "$5-$10"
 type: "European"
+latitude: 21.030191
+longitude: 105.837644
 ---
 
 A lovely restaurant serves Germany food and drinks.

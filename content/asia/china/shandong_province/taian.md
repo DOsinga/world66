@@ -1,6 +1,8 @@
 ---
 title: "Tai'an"
 type: location
+latitude: 36.200297
+longitude: 117.080932
 ---
 
 Travel Guide

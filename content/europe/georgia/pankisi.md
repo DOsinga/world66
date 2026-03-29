@@ -1,6 +1,8 @@
 ---
 title: "Pankisi"
 type: location
+latitude: 42.134331
+longitude: 45.289397
 ---
 
 Travel Guide

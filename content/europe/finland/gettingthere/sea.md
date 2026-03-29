@@ -2,6 +2,8 @@
 title: "Sea"
 type: poi
 type: "By Sea"
+latitude: 60.44994
+longitude: 26.93752
 ---
 
 Estonia-Finland = www.tallink.com

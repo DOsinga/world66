@@ -7,6 +7,8 @@ email: "jcestur_gsk@yahoo.com"
 phone: "0352254502"
 price: "P20-P140"
 type: "Chinese"
+latitude: 9.310203
+longitude: 123.306482
 ---
 
 The best grilled seafood, native filipino delicacies.

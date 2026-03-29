@@ -1,6 +1,8 @@
 ---
 title: "Ardmore"
 type: location
+latitude: 34.172927
+longitude: -97.130912
 ---
 
 Ardmore, in south central Oklahoma, is the capital of Oklahoma's Fun

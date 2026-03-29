@@ -1,6 +1,8 @@
 ---
 title: "Pegli"
 type: location
+latitude: 44.427161
+longitude: 8.814922
 ---
 
 Travel Guide

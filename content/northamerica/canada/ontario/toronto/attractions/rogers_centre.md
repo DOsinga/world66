@@ -4,6 +4,8 @@ type: location
 address: "One Blue Jays Way, Toronto, ON M5V 1J1"
 phone: "(416) 341-1707"
 url: "www.rogerscentre.com"
+latitude: 43.642186
+longitude: -79.390943
 ---
 
 The Rogers Stadium, home of the Toronto Blue Jays and a whole host of other sports teams offers a wonderful tour of bits and pieces you wouldn’t usually get to see game day. And if you’re lucky you’ll get a really enthusiastic and endearing guide who’ll make the whole thing that little extra special.

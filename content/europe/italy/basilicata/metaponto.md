@@ -1,6 +1,8 @@
 ---
 title: "Metaponto"
 type: location
+latitude: 40.374078
+longitude: 16.810096
 ---
 
 **Metaponto **was

@@ -3,6 +3,8 @@ title: "Law Garden"
 type: poi
 address: "Law Garden"
 type: "Markets"
+latitude: 23.026394
+longitude: 72.561057
 ---
 
 A place to pick up authentic gujarati stuff, but remember to bargain down to half the quoted price.

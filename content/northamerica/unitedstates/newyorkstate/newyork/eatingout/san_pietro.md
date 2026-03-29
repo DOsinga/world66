@@ -6,6 +6,8 @@ phone: "212-753-9015"
 type: "Italian"
 url: "www.sanpietro.net"
 zipcode: "10022"
+latitude: 40.760261
+longitude: -73.974413
 ---
 
 Upmarket Italian that's ideal for two, three or four people. Quite a small dining area but the cosiness is appealling. Ideal for that 'special' treat.

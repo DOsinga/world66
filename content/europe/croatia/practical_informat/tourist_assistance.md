@@ -5,6 +5,8 @@ address: "Croatia"
 email: "info@mitvcard.com"
 type: "Embassies and Consulates"
 url: "www.mitvcard.com"
+latitude: 45.365844
+longitude: 15.657521
 ---
 
 Tourist Assistance Card provides safeness when you are in a foreign

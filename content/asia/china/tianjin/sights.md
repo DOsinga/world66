@@ -5,6 +5,8 @@ address: "Zi Jin Shan Lu"
 opening_hours: "8:30am-10:00pm"
 type: "Hotspots"
 url: "tianjintower.tianjinguidebook.com"
+latitude: 35.189526
+longitude: 136.152305
 ---
 
 Tianjin's a great place. I recommend a walk around the Concession

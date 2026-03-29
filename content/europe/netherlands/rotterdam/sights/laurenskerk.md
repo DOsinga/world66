@@ -1,6 +1,8 @@
 ---
 title: "Laurens kerk"
 type: poi
+latitude: 51.451181
+longitude: 6.053288
 ---
 
 "/>

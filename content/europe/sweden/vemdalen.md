@@ -1,6 +1,8 @@
 ---
 title: "Vemdalen"
 type: location
+latitude: 62.445167
+longitude: 13.86282
 ---
 
 Travel Guide

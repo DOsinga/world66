@@ -6,6 +6,8 @@ phone: "310/ 823-5451"
 price: "Dinner entrees $17 -$27"
 type: "International"
 url: "thewarehousemdr.com"
+latitude: 33.98371
+longitude: -118.446279
 ---
 
 Open daily: lunch and dinner; Sunday Champagne Buffet Brunch; Happy Hour.

@@ -1,6 +1,8 @@
 ---
 title: "Shusha"
 type: location
+latitude: 39.763257
+longitude: 46.75115
 ---
 
 Shusha (Şuşa) is a town in [Nagorno-Karabakh](/europe/azerbaijan/nagornokarabakh) region of Azerbaijan.

@@ -1,6 +1,8 @@
 ---
 title: "Zabadani"
 type: location
+latitude: 33.724446
+longitude: 36.100194
 ---
 
 ** A** summer resort some 45 kilometers north of Damascus, 1175 meters above

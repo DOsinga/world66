@@ -1,6 +1,8 @@
 ---
 title: "Trincomalee"
 type: location
+latitude: 8.576425
+longitude: 81.234495
 ---
 
 This could have been one of the major city's of the region because of its huge natural harbour, yet it became a quite town - for Asian norms that is - of the beaten track. Although war sometimes beats the track, so check with the locals if it's safe to go there.

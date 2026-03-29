@@ -5,6 +5,8 @@ address: "8440 Sunset Blvd."
 phone: "323 650 8999"
 type: "Pubs"
 url: "www.mondrianhotel.com"
+latitude: 34.094383
+longitude: -118.374365
 ---
 
 The Skybar, an open air, ivy-covered pavilion perched above the Pool and Outdoor Living Room , has been one of Los Angeles' hottest nightspots from the day it opened.

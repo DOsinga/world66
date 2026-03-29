@@ -1,6 +1,8 @@
 ---
 title: "Internet Cafes"
 type: location
+latitude: 44.435157
+longitude: 8.962876
 ---
 
 In Venice you'll find many cybercafés. We list a couple of them here but you'd better just walk around and you will see them everywhere.

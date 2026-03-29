@@ -1,6 +1,8 @@
 ---
 title: "Bhaderwah"
 type: location
+latitude: 32.97837
+longitude: 75.718564
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Valdes Peninsula"
 type: location
+latitude: -42.47522
+longitude: -64.114851
 ---
 
 Miles and miles of unspoilt beaches - that's what Valdes Peninsula offers you. Since it's often too cold to lie on the beach yourself you are probably here to admire the sea lions, whales and elephant seals. 

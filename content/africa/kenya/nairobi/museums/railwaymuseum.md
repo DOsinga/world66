@@ -2,6 +2,8 @@
 title: "Railway Museum"
 type: poi
 type: "general"
+latitude: -1.293613
+longitude: 36.822641
 ---
 
 The Railway Museum is at the end of Station Rd. near the Haile Selassie Ave roundabout. The road approach is from Nairobi Railway Station, from where it is signposted. If coming by taxi, make sure you tell your driver it's NOT the National Museum, since they are often confused!

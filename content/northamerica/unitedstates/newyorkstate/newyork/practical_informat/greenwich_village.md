@@ -2,6 +2,8 @@
 title: "Greenwich Village"
 type: poi
 type: "Quarter"
+latitude: 40.733584
+longitude: -74.002817
 ---
 
 Greenwich Village

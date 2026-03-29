@@ -1,6 +1,8 @@
 ---
 title: "Charleston"
 type: location
+latitude: 32.788436
+longitude: -79.939931
 ---
 
 An all time favourite with honeymooners and in the top 5 of most romantic American cities, Charleston has a big crowd of fans. The historic centre with its mansions from attracting over 25,000 participants, is one of the most popular roadraces in the the 18-th century, Fort Sumter, the many museums and the location of the Atlantic, make this city a very attractive destination.

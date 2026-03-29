@@ -1,6 +1,8 @@
 ---
 title: "San Jose"
 type: location
+latitude: 37.336166
+longitude: -121.890591
 ---
 
 In San Jose-the heart of Silicon Valley-take the family to the Tech Museum of Innovation, loaded with interactive exhibits. Children also love the Children's Discovery Museum and the Winchester Mystery House, a rambling, 160-room Victorian mansion.

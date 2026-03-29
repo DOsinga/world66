@@ -1,6 +1,8 @@
 ---
 title: "Del City"
 type: location
+latitude: 35.442007
+longitude: -97.440871
 ---
 
 Travel Guide

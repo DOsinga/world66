@@ -1,6 +1,8 @@
 ---
 title: "’amran"
 type: location
+latitude: 16.230218
+longitude: 43.909834
 ---
 
 We currently have no information about ’amran.

@@ -6,6 +6,8 @@ email: "stellathebrave@gmail.com"
 phone: "+348 400 138 848"
 type: "Speciality shops"
 url: "www.stellathebrave.com"
+latitude: 60.164497
+longitude: 24.937067
 ---
 
 A beautiful and unique boutique located at Bulevardi 11, which is the most picturesque street in Helsinki.

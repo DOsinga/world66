@@ -1,6 +1,8 @@
 ---
 title: "Inis Oirr"
 type: location
+latitude: 53.056968
+longitude: -9.525355
 ---
 
 WIth it's strong Irish language roots and fascinating landscape it is not really any wonder why Inis Oirr (Inisheer) is one of themost historic and intriguing of the three Aran Islands. Situated at the base of all three islands it is easily accessible from Galway city and also from Doolin, Co. Clare. Recently alot of new information has come to light regarding the happening of the Bronze Age in Inis Oirr. A discovery in 1885 produced a dry stone wall encircling a low mound. It was on closer inspecion that two pottery urns were unearthed, inverted over cremated human bones along with a small bronze pin. This discovery, in tandem with many others such as Teampall Chaomhain, Caislean Ui Bhriain, Dun Fhorma, Cill Ghobnait, Tobar Einne and The Plassey Wreck have truely brought Inish Oirr onto a more recognisable platform and it is not being truely seen for all its beauty and interest. Measuring in at just 3.2km x 3.2km it is the smallest of the island but is nestled in the middle regarding its density witha population of approx. 350 as opposed to Inis Mean's 200. SO why choose the Aran Islands and Inis Oirr for your holiday? Simple... because you wont regret it!

@@ -1,6 +1,8 @@
 ---
 title: "Ogbomoso"
 type: location
+latitude: 8.133
+longitude: 4.25
 ---
 
 Travel Guide

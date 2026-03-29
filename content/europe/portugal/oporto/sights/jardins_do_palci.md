@@ -4,6 +4,8 @@ type: poi
 address: "Rua D. Manuel II"
 opening_hours: "8/19 hrs (winter) - 8/21hrs (summer)"
 type: "Parks, Gardens and Zoos"
+latitude: 40.839305
+longitude: -8.481409
 ---
 
 These gardens are well worth a visit if you want to rest for a while in a peaceful environment or just to get to know a bit more about the city's green spaces. Get inside and enjoy the calm atmosphere, and if you go all the way to the end (south) you'll have a fantastic view over the river and the sea. Grab your camera!

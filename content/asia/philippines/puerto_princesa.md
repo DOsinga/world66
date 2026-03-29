@@ -1,6 +1,8 @@
 ---
 title: "Puerto Princesa"
 type: location
+latitude: 9.739856
+longitude: 118.743819
 ---
 
 Travel Guide

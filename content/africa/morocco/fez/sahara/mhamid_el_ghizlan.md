@@ -1,6 +1,8 @@
 ---
 title: "M'Hamid el Ghizlane"
 type: location
+latitude: 29.827329
+longitude: -5.723878
 ---
 
 Travel Guide

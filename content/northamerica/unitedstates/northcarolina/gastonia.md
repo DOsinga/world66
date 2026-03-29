@@ -1,6 +1,8 @@
 ---
 title: "Gastonia"
 type: location
+latitude: 35.262265
+longitude: -81.183819
 ---
 
 Travel Guide

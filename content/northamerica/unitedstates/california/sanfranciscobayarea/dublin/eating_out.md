@@ -5,6 +5,8 @@ address: "7772 Regional Street"
 phone: "(925) 803-8485"
 type: "Italian"
 url: "ww6.pastaprimaveracafe.com"
+latitude: 37.704413
+longitude: -121.934432
 ---
 
 There are many fine choices:

@@ -1,6 +1,8 @@
 ---
 title: "Matera"
 type: location
+latitude: 40.447642
+longitude: 16.473574
 ---
 
 Travel Guide

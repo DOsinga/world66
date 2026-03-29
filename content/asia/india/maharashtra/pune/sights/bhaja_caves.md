@@ -5,6 +5,8 @@ address: "Bhaje Caves"
 email: "bhatkanti@gmail.com"
 type: "Hotspots"
 url: "bhatkanti.wordpress.com"
+latitude: 18.728914
+longitude: 73.481309
 ---
 
 **Bhaje,** a famous Buddhist rock cut shrine of 2nd century is situated 6 kms away from Lonavala in Maharastra. You are to climb almost half a km to reach this beautiful scenic spot where Viharas (hostel) and a huge Chaitya hall (worship place) were chiselled for Buddhist monks and devotees in pre Chistian era.

@@ -1,6 +1,8 @@
 ---
 title: "Freudenstadt"
 type: location
+latitude: 48.463773
+longitude: 8.411173
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Fountains and statues"
+latitude: 34.933722
+longitude: 135.701377
 ---
 
 Kyoto is loaded with UNESCO Cultural Heritage sites, including Shrines, Temples and Palaces.

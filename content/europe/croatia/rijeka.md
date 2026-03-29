@@ -1,6 +1,8 @@
 ---
 title: "Rijeka"
 type: location
+latitude: 45.326798
+longitude: 14.442208
 ---
 
 With its 150,000 inhabitants, located on an area of only 44m², Rijeka is the third city in Croatia. On the basis of its turbulent history and rich cultural heritage, Rijeka created its recognisable identity as an open city, a multinational and multicultural centre, in which tolerance, understanding and coexistence have a special meaning and value.

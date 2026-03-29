@@ -1,6 +1,8 @@
 ---
 title: "Goa"
 type: location
+latitude: 15.300454
+longitude: 74.085513
 ---
 
 The former Portuguese colony of Goa is one of the most relaxed places in India. In the seventies when all of India was full with European and American hippies, Goa was really packed with them. Now most of the hippies have left, but new travellers keep pouring in.

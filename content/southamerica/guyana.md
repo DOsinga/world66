@@ -1,6 +1,8 @@
 ---
 title: "Guyana"
 type: location
+latitude: 4.84171
+longitude: -58.641689
 ---
 
 Guyana, or British Guyana, was the first of the three Guyana's to be independent. Before may 1966 it was the only British colony on the South American mainland. 

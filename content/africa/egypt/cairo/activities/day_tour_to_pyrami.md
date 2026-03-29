@@ -6,6 +6,8 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Spa and Sauna"
 url: "www.egyptonlinetours.com"
+latitude: 30.044388
+longitude: 31.235726
 ---
 
 Itinerary :

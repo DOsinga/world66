@@ -1,6 +1,8 @@
 ---
 title: "Khagrachari"
 type: location
+latitude: 23.214773
+longitude: 91.959102
 ---
 
 Travel Guide

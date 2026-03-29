@@ -1,6 +1,8 @@
 ---
 title: "Mazara del Vallo"
 type: location
+latitude: 37.653729
+longitude: 12.588691
 ---
 
 Travel Guide

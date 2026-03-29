@@ -1,6 +1,8 @@
 ---
 title: "Ontario"
 type: location
+latitude: 50.000678
+longitude: -86.000977
 ---
 
 A feast for the senses awaits you in Ontario. From lush wilderness to urban adventures, Ontario offers a variety of year-round travel experiences and vacation ideas. Celebrate the seasons, arts, sports, heritage and culture. Whatever your passion, there's more to discover in Ontario.

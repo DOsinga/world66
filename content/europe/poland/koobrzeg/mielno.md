@@ -1,6 +1,8 @@
 ---
 title: "Mielno"
 type: location
+latitude: 54.256077
+longitude: 16.052059
 ---
 
 Travel Guide

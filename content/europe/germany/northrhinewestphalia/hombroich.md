@@ -1,6 +1,8 @@
 ---
 title: "Hombroich"
 type: location
+latitude: 51.141632
+longitude: 6.655372
 ---
 
 In a lush garden setting on a small island in a river art and nature meet. The artist Erwin Heerich has created 11 pavillions that present works of other artists to the visitor.

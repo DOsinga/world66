@@ -1,6 +1,8 @@
 ---
 title: "Malay"
 type: location
+latitude: 11.900094
+longitude: 121.9099
 ---
 
 Travel Guide

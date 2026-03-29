@@ -5,6 +5,8 @@ address: "Moshi, Kilimanjaro"
 email: "alfred_mtui@hotmail.com"
 phone: "+255-754-561578"
 url: "www.cultureandnaturegroup.com"
+latitude: -3.348646
+longitude: 37.343525
 ---
 
 Culture & Nature Group organises Tanzania safaris, holidays and honeymoons. Based in Moshi, Tanzania they are a registered Tour Operator.

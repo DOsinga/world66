@@ -1,6 +1,8 @@
 ---
 title: "Western"
 type: poi
+latitude: 16.943718
+longitude: 105.919806
 ---
 
 **Restaurants**
@@ -13,6 +15,7 @@ address: Thanon Phothisalat
 
 **Le Saladier**
 
-Old colonial shophouse serving many dishes.  
+Old colonial shophouse serving many dishes. 
+ 
 
 address: Thanon Phothisalat

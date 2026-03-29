@@ -7,6 +7,8 @@ phone: "0228614161"
 price: "€7"
 type: "International"
 url: "www.fiddlers-bonn.com"
+latitude: 50.727562
+longitude: 7.074956
 ---
 
 The Fiddlers in Bonn is the city's international Pub serving

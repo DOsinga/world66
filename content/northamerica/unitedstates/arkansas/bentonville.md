@@ -1,6 +1,8 @@
 ---
 title: "Bentonville"
 type: location
+latitude: 36.372861
+longitude: -94.208787
 ---
 
 Travel Guide

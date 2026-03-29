@@ -5,6 +5,8 @@ address: "344 N. Camden Dr., Beverly Hills, 90210"
 phone: "(310) 278-9911"
 type: "Chinese"
 url: "mrchow.com"
+latitude: 34.068073
+longitude: -118.403323
 ---
 
 Longtime, swanky refuge for celebrities, wanna-be

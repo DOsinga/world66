@@ -1,6 +1,8 @@
 ---
 title: "Bikini atoll"
 type: location
+latitude: 11.538887
+longitude: 165.272232
 ---
 
 We currently have no information about Bikini atoll.

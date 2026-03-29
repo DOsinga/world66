@@ -1,6 +1,8 @@
 ---
 title: "Malshej"
 type: poi
+latitude: 19.341711
+longitude: 73.790889
 ---
 
 If you love the mountains and wish to spend some time communing with nature, without having to spend too much of time or money, Malshej is the perfect weekend getaway from corporate Mumbai! On the State Highway 222, at a distance of 140kms from Bandra, Mumbai, Malshej is the sole resort to assist you unwind in any season – summer, winter or monsoon. As a matter of fact, in the monsoons the bird (winged variety) watchers flock to sight the flamingoes which home in there too and the resort was named Flamingo resort when a private entrepreneur had leased it. Now MTDC has it back under its control and the bookings can be done at the regular MTDC rates at their offices.

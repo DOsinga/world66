@@ -4,6 +4,8 @@ type: section
 address: "Market Street"
 price: "Below $20.00"
 type: "American"
+latitude: 40.860133
+longitude: -74.115984
 ---
 
 An interesting blend of tastes.

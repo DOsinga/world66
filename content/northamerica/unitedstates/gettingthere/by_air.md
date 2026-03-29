@@ -5,6 +5,8 @@ address: "400 summit dr greenville sc 29609"
 email: "kim2fine07@yahoo.cm"
 phone: "8643499654"
 type: "By Road"
+latitude: 34.873649
+longitude: -82.382556
 ---
 
 Almost every city in the United States has a commercial airport with in a hour and a half drive of it. Many large cities will have two, three and sometimes even five commercial airports. Most major European and Asian Carriers fly to the United States . Most South American and Caribbean Carriers fly to the United States also. Some African Carriers like Egypt Air and South African Airways fly to the US too.

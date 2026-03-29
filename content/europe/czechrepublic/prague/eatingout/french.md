@@ -1,6 +1,8 @@
 ---
 title: "french"
 type: poi
+latitude: 50.087432
+longitude: 14.454647
 ---
 
 **Restaurants**
@@ -11,7 +13,8 @@ International kitchen, open daily 12-16 and 18-23. The champagne Sunday brunch b
 
 **LA CREPERIE **
 
-Open: Mon.-Sat. 12.00 - 23.00. Very cosy, French-owned, French atmosphere pancake house. Lovely savoury and sweet offerings, small, maybe, but well cooked and presented.  
+Open: Mon.-Sat. 12.00 - 23.00. Very cosy, French-owned, French atmosphere pancake house. Lovely savoury and sweet offerings, small, maybe, but well cooked and presented. 
+ 
 
 address: Janovskeho 4, Praha 7
 
@@ -19,7 +22,8 @@ tel: +42 (0)02 878 040
 
 **LE ST. JACQUES **
 
-Open: Mon.-Fri. 11-15, 18-01, Sat. 18-01. Excellent French cuisine with superb salads. (AMEX, V, MC, EC, DC, JCB) 
+Open: Mon.-Fri. 11-15, 18-01, Sat. 18-01. Excellent French cuisine with superb salads. (AMEX, V, MC, EC, DC, JCB)
+ 
 
 address: Jakubska 4, Praha 1
 
@@ -61,7 +65,8 @@ tel: +42 (0)02 231 5676
 
 **LA PERLE DE PRAGUE **
 
-Open: 12.30 - 14.30, 19.30 - 22.30. The building might make you feel a touch queasy, but the food won't. Had a few hiccups starting but now the chefs are going great guns. Beautifully presented and cooked food. (AMEX, V, MC, EC, DC, JCB) 
+Open: 12.30 - 14.30, 19.30 - 22.30. The building might make you feel a touch queasy, but the food won't. Had a few hiccups starting but now the chefs are going great guns. Beautifully presented and cooked food. (AMEX, V, MC, EC, DC, JCB)
+ 
 
 address: Rasinovo nabrezi/Resslerova ulice, Praha 2
 

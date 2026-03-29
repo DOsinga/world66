@@ -1,6 +1,8 @@
 ---
 title: "Menton"
 type: location
+latitude: 43.775349
+longitude: 7.502921
 ---
 
 Menton is located on a small strip of Frence between [Monaco](/europe/monaco) and [Italy](/europe/italy) in the French Riviera. Menton was founded by the Counts of Vintimiglia, it belonged to Grimaldi family of Monaco from 1346 till 1848, and on the 2nd february 1861 officialy became french. 

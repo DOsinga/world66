@@ -1,6 +1,8 @@
 ---
 title: "Aburi"
 type: location
+latitude: 5.847476
+longitude: -0.175266
 ---
 
 We currently have no information about Aburi.

@@ -1,6 +1,8 @@
 ---
 title: "Napier"
 type: location
+latitude: -39.49021
+longitude: 176.917839
 ---
 
 Napier, the city by the sea, is renowned for its 1930s Art Deco architecture, events such as the Brebner Print Art Deco Weekend in February, stately Norfolk pines, surrounding wineries, local fresh produce and national tourist attractions.

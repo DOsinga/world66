@@ -2,6 +2,8 @@
 title: "Manali - Leh"
 type: poi
 type: "By Road"
+latitude: 32.291078
+longitude: 77.180125
 ---
 
 A trip on the road from Manali to Leh, which passes over a number of the highest passes in the world, has to be one of the highlights of any trip to the Himalaya. Before the road was built, these passes were traversed by traders who plied between Central Asia and India.

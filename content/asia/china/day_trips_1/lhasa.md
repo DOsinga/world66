@@ -3,6 +3,8 @@ title: "Lhasa"
 type: location
 email: "faizaimmi@hotmail.com"
 url: "www.silkroad-adventure.com"
+latitude: 29.654205
+longitude: 91.117301
 ---
 
 **Lhasa**

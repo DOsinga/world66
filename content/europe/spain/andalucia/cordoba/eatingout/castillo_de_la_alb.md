@@ -4,6 +4,8 @@ type: poi
 address: "Carretera de Trassierra, Km. 3 CÓRDOBA"
 type: "Spanish"
 url: "www.maciahoteles.com"
+latitude: 37.89631
+longitude: -4.812534
 ---
 
 In the foothills of the sierra of Córdoba, overlooking

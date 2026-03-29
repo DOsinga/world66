@@ -1,6 +1,8 @@
 ---
 title: "Lughaya"
 type: location
+latitude: 10.730573
+longitude: 43.691688
 ---
 
 Travel Guide

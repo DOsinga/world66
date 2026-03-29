@@ -5,6 +5,8 @@ address: "4901 Lomas Blvd NE"
 phone: "(505)255-5079"
 type: "Mexican"
 zipcode: "Albuquerque, NM"
+latitude: 35.087726
+longitude: -106.590474
 ---
 
 type: Mexican

@@ -1,6 +1,8 @@
 ---
 title: "Fresno"
 type: location
+latitude: 36.739442
+longitude: -119.78483
 ---
 
 Travel Guide

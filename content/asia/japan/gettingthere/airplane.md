@@ -2,6 +2,8 @@
 title: "Airplane"
 type: poi
 type: "By Air"
+latitude: 31.362348
+longitude: 130.434174
 ---
 
 Being an island country, Japan is usually entered via airplane. There

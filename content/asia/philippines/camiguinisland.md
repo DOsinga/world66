@@ -1,6 +1,8 @@
 ---
 title: "Camiguin Island"
 type: location
+latitude: 9.168201
+longitude: 124.713708
 ---
 
 Travel Guide

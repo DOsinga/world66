@@ -1,6 +1,8 @@
 ---
 title: "Nazare"
 type: location
+latitude: 39.602911
+longitude: -9.070157
 ---
 
 We currently have no information about Nazare.

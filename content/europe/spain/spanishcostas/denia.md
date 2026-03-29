@@ -1,6 +1,8 @@
 ---
 title: "Denia"
 type: location
+latitude: 38.840838
+longitude: 0.10611
 ---
 
 We currently have no information about Denia.

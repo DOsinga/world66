@@ -1,6 +1,8 @@
 ---
 title: "Ainsa"
 type: location
+latitude: 42.41719
+longitude: 0.138644
 ---
 
 Ainsa is the terminus of the minibus from Sabiñanigo through Torla, which skirts Ordesa National Park.

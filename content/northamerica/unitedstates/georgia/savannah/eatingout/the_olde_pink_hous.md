@@ -6,6 +6,8 @@ email: "marc@savannahplantersinn.com"
 phone: "800-554-1187"
 type: "African"
 url: "www.plantersinnsavannah.com"
+latitude: 32.079019
+longitude: -81.088918
 ---
 
 **The Olde Pink House Restaurant.**Built in 1771, this restaurant was originally a private home and has

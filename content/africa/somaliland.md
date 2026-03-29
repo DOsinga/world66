@@ -1,6 +1,8 @@
 ---
 title: "Somaliland"
 type: location
+latitude: 9.727747
+longitude: 46.009913
 ---
 
 Although Somaliland is not recognized by any state as a country, it is listed seperately here, because it effectively behaves like a state of its own. And might we add, a state that is a lot saver to travel in than neighbouring Somalia. 

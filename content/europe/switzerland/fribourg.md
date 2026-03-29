@@ -1,6 +1,8 @@
 ---
 title: "Fribourg"
 type: location
+latitude: 46.678912
+longitude: 7.102711
 ---
 
 Picturesque Swiss city built along similiar defensive lines as Bern. An excellent jumping off point to nearby Geneva and Bern. Home of the famous kinetic sculpturer, Jean Tinguely. 

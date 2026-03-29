@@ -2,6 +2,8 @@
 title: "Chateau de Versailles"
 type: poi
 type: "Public Buildings"
+latitude: 48.804425
+longitude: 2.120285
 ---
 
 Probably the most spectacular and monumental castle in France. Home of the French Kings from Louis XIV to Louis XVI.

@@ -1,6 +1,8 @@
 ---
 title: "Muros"
 type: location
+latitude: 42.774411
+longitude: -9.057535
 ---
 
 Muros is situated on a particularly unspoilt ria named after it and

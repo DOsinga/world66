@@ -1,6 +1,8 @@
 ---
 title: "Spavinaw"
 type: location
+latitude: 36.391198
+longitude: -95.046628
 ---
 
 Travel Guide

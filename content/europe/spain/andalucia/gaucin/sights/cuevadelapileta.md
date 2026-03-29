@@ -1,6 +1,8 @@
 ---
 title: "Cueva de la Pileta"
 type: poi
+latitude: 36.691232
+longitude: -5.269992
 ---
 
 The prehistoric Cueva de la Pileta is on the route between

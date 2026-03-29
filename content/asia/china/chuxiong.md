@@ -1,6 +1,8 @@
 ---
 title: "Chuxiong"
 type: location
+latitude: 25.432036
+longitude: 101.704785
 ---
 
 Travel Guide

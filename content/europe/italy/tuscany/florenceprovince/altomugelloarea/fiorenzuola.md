@@ -1,6 +1,8 @@
 ---
 title: "Fiorenzuola"
 type: location
+latitude: 44.928756
+longitude: 9.917384
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Geveltje, Het"
 type: poi
+latitude: 52.12729
+longitude: 4.661559
 ---
 
 address: Gronausestr 1214

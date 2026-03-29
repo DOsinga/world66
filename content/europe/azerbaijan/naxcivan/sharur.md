@@ -1,6 +1,8 @@
 ---
 title: "Sharur"
 type: location
+latitude: 39.589265
+longitude: 45.036218
 ---
 
 Travel Guide

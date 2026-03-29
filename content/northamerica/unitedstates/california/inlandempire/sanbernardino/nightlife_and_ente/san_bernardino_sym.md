@@ -6,6 +6,8 @@ email: "info@sanbernardinosymphony.org"
 phone: "(909) 381-5388"
 type: "Concerts"
 url: "www.sanbernardinosymphony.org"
+latitude: 34.131695
+longitude: -117.29181
 ---
 
 The San

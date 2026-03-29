@@ -1,9 +1,12 @@
 ---
 title: "Odysseus"
 type: poi
+latitude: 53.576769
+longitude: 9.945819
 ---
 
-Greek and Italian cooking, cocktails, open every day 
+Greek and Italian cooking, cocktails, open every day
+ 
 
 address: Hellkamp 1
 

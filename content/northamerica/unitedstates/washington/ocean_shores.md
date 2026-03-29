@@ -1,6 +1,8 @@
 ---
 title: "Ocean Shores"
 type: location
+latitude: 46.973703
+longitude: -124.156277
 ---
 
 Ocean Shores is in Washington state. It is located between

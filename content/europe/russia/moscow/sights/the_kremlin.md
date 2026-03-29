@@ -4,6 +4,8 @@ type: poi
 address: "The Kremlin"
 type: "Landmarks"
 url: "www.kreml.ru"
+latitude: 55.751621
+longitude: 37.618122
 ---
 
 Moscow Kremlin is the most famous landmark of Russia.

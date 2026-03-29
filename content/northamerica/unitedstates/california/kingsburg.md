@@ -1,6 +1,8 @@
 ---
 title: "Kingsburg"
 type: location
+latitude: 36.51384
+longitude: -119.553893
 ---
 
 Travel Guide

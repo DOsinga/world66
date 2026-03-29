@@ -1,6 +1,8 @@
 ---
 title: "Mount Etna park"
 type: location
+latitude: 37.748787
+longitude: 14.96685
 ---
 
 Travel Guide

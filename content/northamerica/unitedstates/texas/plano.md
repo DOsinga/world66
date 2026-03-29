@@ -1,6 +1,8 @@
 ---
 title: "Plano"
 type: location
+latitude: 33.013676
+longitude: -96.69251
 ---
 
 Travel Guide

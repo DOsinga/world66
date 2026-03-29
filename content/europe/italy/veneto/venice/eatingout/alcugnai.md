@@ -3,6 +3,8 @@ title: "Al Cugnai"
 type: poi
 address: "Piscina del Forner, Dorsoduro"
 type: "Local"
+latitude: 45.430671
+longitude: 12.329494
 ---
 
 Make sure to be on time in this charming trattoria, because people might kill for a seat and meal after 8PM. Closed on Mondays.

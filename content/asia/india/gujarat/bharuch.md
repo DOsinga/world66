@@ -1,6 +1,8 @@
 ---
 title: "BHARUCH"
 type: location
+latitude: 21.708043
+longitude: 72.995694
 ---
 
 Travel Guide

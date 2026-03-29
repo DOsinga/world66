@@ -1,6 +1,8 @@
 ---
 title: "Bath"
 type: location
+latitude: 51.381386
+longitude: -2.359696
 ---
 
 Bath is a beautiful Roman city which nestles in the heart of the county of Avon and Sommerset. Its characterisitic rolling hills and limestone facades have been attracting visitors for many years.

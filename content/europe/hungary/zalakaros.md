@@ -1,6 +1,8 @@
 ---
 title: "Zalakaros"
 type: location
+latitude: 46.560786
+longitude: 17.122153
 ---
 
 Its spa water with a temperature of 96 degrees centigrade, rich in minerals, was found when they were looking for mineral oil in 1962. The water from a depth of 2,307.5 metres is beneficial for the following health problems: chronic gynaecological diseases, the deterioration of the articular cartilage, disc degeneration, lesions of the spinal joints due to cartilage wear, chronic discitis.

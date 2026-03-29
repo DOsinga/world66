@@ -1,6 +1,8 @@
 ---
 title: "Laxey"
 type: location
+latitude: 50.986068
+longitude: 0.956689
 ---
 
 This is a small village with a Youth Hostel and a station on the atmospheric electric railway from Douglas to Ramsey.

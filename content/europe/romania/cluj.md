@@ -1,6 +1,8 @@
 ---
 title: "Cluj"
 type: location
+latitude: 46.769379
+longitude: 23.589954
 ---
 
 The unofficial capital of Transylvania, the 2000 years old Cluj-Napoca (during the Roman occupation it was called Napoca) is one of the most vibrant cities in Romania. With a population of around 400000 people out of which around 70000 college students, the city is bursting with energy year round. Located in a hilly area, the city spreads itself around the Somes river towards the surrounding hills. The architecture in the downtown is reminiscent of the old Austro-Hungarian Empire, while elements of modernism have now been added to give the city a modern, exciting feel. 

@@ -1,6 +1,8 @@
 ---
 title: "Campos dos Goytacazes"
 type: location
+latitude: -21.7546
+longitude: -41.3242
 ---
 
 Travel Guide

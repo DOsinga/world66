@@ -7,6 +7,8 @@ phone: "00 49 30 85072969"
 price: "2,90€ - 15,50"
 type: "Spanish"
 url: "www.conzuela.de"
+latitude: 52.466407
+longitude: 13.327659
 ---
 
 Conzuela

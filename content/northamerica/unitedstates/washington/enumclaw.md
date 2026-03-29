@@ -1,6 +1,8 @@
 ---
 title: "Enumclaw"
 type: location
+latitude: 47.204779
+longitude: -121.991637
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Jind"
 type: location
+latitude: 29.315207
+longitude: 76.314082
 ---
 
 Travel Guide

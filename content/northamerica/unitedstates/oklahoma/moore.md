@@ -1,6 +1,8 @@
 ---
 title: "Moore"
 type: location
+latitude: 35.815612
+longitude: -101.910436
 ---
 
 Travel Guide

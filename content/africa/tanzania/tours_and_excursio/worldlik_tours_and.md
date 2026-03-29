@@ -5,6 +5,8 @@ address: "3rd Parklands Highridge"
 email: "safaris@worldlinksafaris.com"
 phone: "+254 3750174"
 url: "www.wordlinksafaris.com"
+latitude: -1.261421
+longitude: 36.821495
 ---
 
 Normal

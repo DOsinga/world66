@@ -1,6 +1,8 @@
 ---
 title: "Morondava"
 type: location
+latitude: -20.514427
+longitude: 44.345577
 ---
 
 We currently have no information about Morondava.

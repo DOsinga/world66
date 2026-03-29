@@ -6,6 +6,8 @@ email: "info@143india.com"
 phone: "9848129143"
 type: "Shopping centers and malls"
 url: "www.143india.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 http://www.allindiaflorist.com

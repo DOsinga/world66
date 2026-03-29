@@ -1,6 +1,8 @@
 ---
 title: "Stanley, VA"
 type: location
+latitude: 38.5754
+longitude: -78.502509
 ---
 
 Travel Guide

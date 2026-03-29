@@ -1,6 +1,8 @@
 ---
 title: "Palm Beach"
 type: location
+latitude: 26.62798
+longitude: -80.449417
 ---
 
 The town of Palm Beach is located within the county of Palm Beach.

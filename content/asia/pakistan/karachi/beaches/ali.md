@@ -1,6 +1,8 @@
 ---
 title: "Clifton Beach"
 type: poi
+latitude: 24.801721
+longitude: 67.025712
 ---
 
 Clifton Beach was the most popular silver-sand beach during 20th century but now it is affected by an oil spill that occurred in 2003.

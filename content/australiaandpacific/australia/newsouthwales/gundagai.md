@@ -1,6 +1,8 @@
 ---
 title: "Gundagai"
 type: location
+latitude: -35.062734
+longitude: 148.100678
 ---
 
 Travel Guide

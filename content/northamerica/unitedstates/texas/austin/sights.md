@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Parks, Gardens and Zoos"
+latitude: 39.788474
+longitude: -92.929598
 ---
 
 Sightseeing spots in Austin, Texas

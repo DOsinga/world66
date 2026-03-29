@@ -6,6 +6,8 @@ email: "info@ksarbicha.com"
 phone: "+212 535577113"
 type: "Spa and Sauna"
 url: "www.ksarbicha.com"
+latitude: 31.099917
+longitude: -4.014088
 ---
 
 Riad Ksarbicha in Merzouga, offers the best true desert experience,Whatever your dream, we can arrange it. Treks include all meals, desert bivoac with mattresses and bedding, camels !, and guide.

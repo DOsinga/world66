@@ -1,6 +1,8 @@
 ---
 title: "Internet Cafes"
 type: location
+latitude: 38.874697
+longitude: 115.508197
 ---
 
 -end of Cybercafes section

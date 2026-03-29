@@ -1,6 +1,8 @@
 ---
 title: "Oshikango"
 type: location
+latitude: -17.399188
+longitude: 15.89408
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Levoca"
 type: location
+latitude: 49.025087
+longitude: 20.58871
 ---
 
 We currently have no information about Levoca.

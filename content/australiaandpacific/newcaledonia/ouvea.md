@@ -1,6 +1,8 @@
 ---
 title: "Ouvea"
 type: location
+latitude: -20.549001
+longitude: 166.567395
 ---
 
 We currently have no information about Ouvea.

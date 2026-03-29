@@ -4,6 +4,8 @@ type: section
 address: "Juedenstrasse"
 email: "www.rodeo-bar.de"
 type: "Clubs and dancing"
+latitude: 52.516535
+longitude: 13.410592
 ---
 
 Because this city is considered a "student-town", there are several

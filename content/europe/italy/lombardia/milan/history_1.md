@@ -1,6 +1,8 @@
 ---
 title: "History"
 type: location
+latitude: 45.527144
+longitude: 9.116986
 ---
 
 Italys biggest region is Milan and it is one of the most stylished region

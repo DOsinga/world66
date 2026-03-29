@@ -1,6 +1,8 @@
 ---
 title: "Andalucia"
 type: location
+latitude: 37.339996
+longitude: -4.581161
 ---
 
 hh Andalucia is a fascinating place for its spectacular Moorish monuments, beautiful white hill towns, sparkling blue coast and natural beauty of its mountainous country. The Moors were a mixed race of Berbers and Arabs that occupied Spain (Al-Andalus) for almost eight hundred years. They developed the most sophisticated civilization in the Middle Ages, centered in [Seville](/europe/spain/andalucia/seville) , [Cordoba](/europe/spain/andalucia/cordoba) and [Granada](/northamerica/nicaragua/granada) . Every city, town and village, is a wonderful mixture of Christian and Muslim influence. Granada preserves the most beautiful Moorish monuments, the Alhambra palace, being the largest and most sensual building in Europe. [Seville](/europe/spain/andalucia/seville) boasts the most spectacular of all Gothic cathedrals and largest church in the world. 

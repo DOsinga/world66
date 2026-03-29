@@ -1,6 +1,8 @@
 ---
 title: "Paris"
 type: location
+latitude: 48.85889
+longitude: 2.320041
 ---
 
 Paris is known as *The City of Light* and absolutely deserves this name. But it is much more than just the City of Light. Paris is one of the best travel destinations. It has everything a traveler could possibly wish for: good Eating Out (both expensive and cheap), good Accommodation at moderate prices, some of the best museums in the world, as well as a couple of Landmarks you must have seen at least once in your life. 

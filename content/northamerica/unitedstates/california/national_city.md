@@ -1,6 +1,8 @@
 ---
 title: "National City"
 type: location
+latitude: 32.678109
+longitude: -117.099197
 ---
 
 Travel Guide

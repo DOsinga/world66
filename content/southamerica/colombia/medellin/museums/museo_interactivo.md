@@ -5,6 +5,8 @@ address: "Carrera 57 No. 42 - 139 Medellín"
 opening_hours: "Tues. to Fri. 8:00 am to 8:00 pm; Sat. & Sun. 10:00 - 8:00, closed Mondays"
 phone: "(57)(4) 380 6956 - (57)(4) 380 6959"
 url: "www.museointeractivoepm.org.co"
+latitude: 6.212302
+longitude: -75.585781
 ---
 
 The Museo Interactivo (Interactive Museum) is a stylish, tech-saavy museum with a mix of immersion experiences, group activities, hands-on exhibits, and displays of new technology. Built and operated by the Empresas Públicas de Medellín ( the Public Utilities of Medellin), much of the museum is about the services that are provided by that company: electricity, water, gas, and telecommunications. For kids, the phenomenological exhibits are great tools for learning the science of materials, resources, and the infrastructure of the city. The exhibits also illustrate the history of the development of the infrastructure that makes Medellin and its suburbs go, so it has a lot to offer tourists wanting to get an understanding of Colombia's modern development.

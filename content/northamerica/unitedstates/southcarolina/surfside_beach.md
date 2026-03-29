@@ -1,6 +1,8 @@
 ---
 title: "Surfside Beach"
 type: location
+latitude: 28.950706
+longitude: -95.287429
 ---
 
 Travel Guide

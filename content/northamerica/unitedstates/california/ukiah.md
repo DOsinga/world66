@@ -1,6 +1,8 @@
 ---
 title: "Ukiah"
 type: location
+latitude: 39.150166
+longitude: -123.207786
 ---
 
 Travel Guide

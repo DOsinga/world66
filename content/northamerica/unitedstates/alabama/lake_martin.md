@@ -1,6 +1,8 @@
 ---
 title: "Lake Martin"
 type: location
+latitude: 32.803925
+longitude: -85.893942
 ---
 
 Travel Guide

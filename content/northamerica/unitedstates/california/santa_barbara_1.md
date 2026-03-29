@@ -1,6 +1,8 @@
 ---
 title: "Santa Barbara"
 type: location
+latitude: 34.422132
+longitude: -119.702667
 ---
 
 Travel Guide

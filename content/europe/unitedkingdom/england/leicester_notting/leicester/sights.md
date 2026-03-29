@@ -5,6 +5,8 @@ address: "St. Nicholas Circle"
 opening_hours: "Mon– Sun 11am to 4:30pm"
 phone: "0116 247 3021"
 type: "Hotspots"
+latitude: 52.634818
+longitude: -1.140341
 ---
 
 ### [Jewry Wall Museum](/europe/unitedkingdom/england/leicester_notting/leicester/sights/jewrywallmuseum)
@@ -73,7 +75,8 @@ tel: +0116 253 2569
 
 ### [The Castle](/europe/unitedkingdom/england/leicester_notting/leicester/sights/thecastle)
 
-Dating from the beginning of the 11th century and probably built by  William the Conqueror. Impressive Medieval hall, courtyards and dark vaults.
+Dating from the beginning of the 11th century and probably built by 
+ William the Conqueror. Impressive Medieval hall, courtyards and dark vaults.
 
 type: Historical Sights
 

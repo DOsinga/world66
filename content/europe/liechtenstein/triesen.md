@@ -1,6 +1,8 @@
 ---
 title: "Triesen"
 type: location
+latitude: 47.106994
+longitude: 9.527488
 ---
 
 We currently have no information about Triesen.

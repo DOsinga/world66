@@ -2,6 +2,8 @@
 title: "BBB"
 type: poi
 type: "European"
+latitude: 21.981776
+longitude: 96.090801
 ---
 
 The BBB has excellent European food. The steak with mushrooms (the

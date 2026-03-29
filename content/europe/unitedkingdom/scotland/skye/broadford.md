@@ -1,6 +1,8 @@
 ---
 title: "Broadford"
 type: location
+latitude: 57.241015
+longitude: -5.90618
 ---
 
 We currently have no information about Broadford.

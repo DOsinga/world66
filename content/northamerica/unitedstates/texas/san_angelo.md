@@ -1,6 +1,8 @@
 ---
 title: "San Angelo"
 type: location
+latitude: 31.464969
+longitude: -100.440509
 ---
 
 Travel Guide

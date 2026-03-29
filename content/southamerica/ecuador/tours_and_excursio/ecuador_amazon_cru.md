@@ -5,6 +5,8 @@ address: "Av. Ruminahui 221, Quito - Ecuador"
 email: "reservations@latintrails.com"
 phone: "1-800-747-0567"
 url: "www.amazoncruise.net"
+latitude: -0.261945
+longitude: -78.488488
 ---
 
 Riverboat cruises in the Amazon basin of Ecuador, join us on board our Manatee Amazon Explorer on our weekly departures in search of wildlife in the worlds largest rainforest, you will be in company of naturalist guides as you explore the tropical jungles by the Equator.

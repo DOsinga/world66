@@ -1,6 +1,8 @@
 ---
 title: "Karnataka"
 type: location
+latitude: 14.956205
+longitude: 75.789674
 ---
 
 If you want to see the green lushy state where the north and the south of India truly meet, go to Karnataka. Situated on a tableland, it is bounded by Maharashtra and Goa in the north, by the Arabian sea in the West; by Kerala and Tamil Nadu in the south and by Andhra Pradesh in the east. 

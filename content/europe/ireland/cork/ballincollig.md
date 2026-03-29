@@ -1,6 +1,8 @@
 ---
 title: "Ballincollig"
 type: location
+latitude: 51.888264
+longitude: -8.591841
 ---
 
 **Ballincollig** 

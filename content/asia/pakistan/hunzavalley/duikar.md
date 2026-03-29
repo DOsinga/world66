@@ -1,6 +1,8 @@
 ---
 title: "Duikar"
 type: location
+latitude: 36.325798
+longitude: 74.690994
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Naufrage"
 type: location
+latitude: 46.467384
+longitude: -62.416511
 ---
 
 Naufrage is real PEI. Quiet farm country bordered by clear oceans and red beaches. 

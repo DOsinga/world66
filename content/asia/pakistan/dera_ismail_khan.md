@@ -1,6 +1,8 @@
 ---
 title: "Dera Ismail Khan"
 type: location
+latitude: 31.827527
+longitude: 70.909092
 ---
 
 Travel Guide

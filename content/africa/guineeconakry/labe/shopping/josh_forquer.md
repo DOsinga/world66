@@ -5,6 +5,8 @@ address: "101 Mt. Lebanon blvd."
 email: "jforquer@yahoo.com"
 phone: "330 417 7722"
 type: "Markets"
+latitude: 40.365611
+longitude: -80.043316
 ---
 
 The markets in Labe are quite lively. The main market is located in the

@@ -4,6 +4,8 @@ type: poi
 address: "1947 Scarth Street"
 phone: "566 -4094"
 type: "Cheap"
+latitude: 51.0366
+longitude: -114.065708
 ---
 
 This place has to be the best Irish pub in Canada. The decor, music and staff make it as authentic as possible. The food is out of this world and cheap like borsht.

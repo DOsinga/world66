@@ -1,6 +1,8 @@
 ---
 title: "Jid Hafs"
 type: location
+latitude: 26.216345
+longitude: 50.540717
 ---
 
 Travel Guide

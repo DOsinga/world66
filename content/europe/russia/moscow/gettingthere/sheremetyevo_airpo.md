@@ -3,6 +3,8 @@ title: "Sheremetyevo airport"
 type: poi
 type: "By Air"
 url: "www.sheremetyevo-airport.ru"
+latitude: 55.976088
+longitude: 37.423801
 ---
 
 Sheremetyevo airport is one of three big airports around Moscow. Go to their site to see airport map and Timetable.

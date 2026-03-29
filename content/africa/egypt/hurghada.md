@@ -1,6 +1,8 @@
 ---
 title: "Hurghada"
 type: location
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Hurghada, known in Egypt as Ghardaga, was at one time just a simple fishing village. But now, with it's crystal clear water, untouched reefs and a multitude of ship wrecks, it has become one of the best Egyptian tourist destinations. The small town centre with its bazaars, mosques and lively atmosphere reflects typical Egyptian life. Further inland lie the Desert Mountains, ideal for desert tours. Most of all Hurghada offers sunshine and relaxation - all you could want for your holiday. 

@@ -6,6 +6,8 @@ phone: "035 819377/fax 035 829821"
 price: "€38/59"
 type: "Italian"
 url: "www.acena.it"
+latitude: 45.777927
+longitude: 9.936013
 ---
 
 Along the lake in an elegant setting with carefully selected furnishings for a romantic evening. Closed in March and Wednesday at noon.

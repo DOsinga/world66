@@ -6,6 +6,8 @@ email: "zaza@zazabistro.com.br"
 phone: "22479101"
 type: "International"
 url: "www.zazabistro.com.br"
+latitude: -22.985476
+longitude: -43.204869
 ---
 
 **The Zazá Bistrô kitsch decoration. Walls in colors and famous phrases in everywhere, red roses in velvet.

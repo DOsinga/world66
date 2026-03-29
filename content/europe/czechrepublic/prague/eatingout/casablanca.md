@@ -3,6 +3,8 @@ title: "CASABLANCA"
 type: poi
 address: "Na prikope 10, Praha 1"
 phone: "+42 (0)02 2421 0519"
+latitude: 50.084907
+longitude: 14.424957
 ---
 
 Open: Daily. 19.00 - 02.00

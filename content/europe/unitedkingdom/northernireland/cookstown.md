@@ -1,6 +1,8 @@
 ---
 title: "Cookstown"
 type: location
+latitude: 54.643673
+longitude: -6.741601
 ---
 
 We currently have no information about Cookstown.

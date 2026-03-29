@@ -1,6 +1,8 @@
 ---
 title: "Clackamas"
 type: location
+latitude: 45.160882
+longitude: -122.230504
 ---
 
 Travel Guide

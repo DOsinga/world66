@@ -1,6 +1,8 @@
 ---
 title: "Arabsiyo"
 type: location
+latitude: 9.681532
+longitude: 43.764145
 ---
 
 Travel Guide

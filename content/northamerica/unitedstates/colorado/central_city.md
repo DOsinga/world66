@@ -1,6 +1,8 @@
 ---
 title: "Central City"
 type: location
+latitude: 39.801932
+longitude: -105.514163
 ---
 
 Central City is one of several locations in Colorado where it is legal

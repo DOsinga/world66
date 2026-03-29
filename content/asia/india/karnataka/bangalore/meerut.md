@@ -1,6 +1,8 @@
 ---
 title: "Meerut"
 type: location
+latitude: 29.001856
+longitude: 77.767967
 ---
 
 Travel Guide

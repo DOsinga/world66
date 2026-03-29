@@ -5,6 +5,8 @@ address: "35 Chu Van An"
 email: "sale@waterlandtravel.com"
 phone: "054.3844844"
 url: "www.world66.com"
+latitude: 16.469347
+longitude: 107.595444
 ---
 
 Normal

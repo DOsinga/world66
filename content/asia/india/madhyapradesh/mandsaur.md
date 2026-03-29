@@ -1,6 +1,8 @@
 ---
 title: "Mandsaur"
 type: location
+latitude: 24.262815
+longitude: 75.385692
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Spreewald"
 type: location
+latitude: 51.953298
+longitude: 13.884878
 ---
 
 Spreewald is the green lung of the Berlin Area. The towns of Lubben and Lubbenau, only 13 km apart, rival as the charm capital of the Wald. The nicest thing to do in the Spreewald is to visit the forrest by boat. There are small punt boats that can take you over the canals. 

@@ -8,6 +8,8 @@ opening_hours: "Mo - Sa noon-midnight, Su 2pm -1am"
 phone: "+49 30-3087 2643"
 type: "Vietnamese"
 url: "www.monsieurvuong.de"
+latitude: 52.526642
+longitude: 13.407951
 ---
 
 Mr. Vuong is utterly charming and his Vietnamese food attracts the

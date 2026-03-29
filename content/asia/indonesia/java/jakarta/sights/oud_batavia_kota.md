@@ -3,6 +3,8 @@ title: "Oud Batavia [Kota]"
 type: poi
 address: "Kota"
 type: "Landmarks"
+latitude: 25.173702
+longitude: 75.857419
 ---
 
 The words Kota, literally means 'city'. But once Jakartans saying Kota, it means Oud Batavia or Old Dutch quarter during past era.

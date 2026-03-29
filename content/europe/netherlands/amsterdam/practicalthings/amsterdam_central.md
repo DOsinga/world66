@@ -3,6 +3,8 @@ title: "Amsterdam Central Station"
 type: poi
 type: "Train station"
 url: "www.ns.nl"
+latitude: 52.378901
+longitude: 4.900581
 ---
 
 Located on the IJ river, it's connected with several European and Dutch destinations. For train schedule, visit the website of the Dutch Railways: www.ns.nl

@@ -1,6 +1,8 @@
 ---
 title: "Zimbabwe"
 type: location
+latitude: -18.455496
+longitude: 29.746841
 ---
 
 Zimbabwe could be a fantastic place for tourism. Only 20 years ago, it was the richest country in Africa. However, the present economical and political situation make it not a country you want to visit as a tourist. While the eastern parts of the country are strife torn, the western part is somewhat more safe for the traveller. 

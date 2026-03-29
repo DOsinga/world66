@@ -1,6 +1,8 @@
 ---
 title: "Ciudad juarez"
 type: location
+latitude: 31.690798
+longitude: -106.425321
 ---
 
 Ciudad Juarez, Mexico's fifth largest city, is located on the Mexico (Chihuahua) and American (Texas) border. It is only minutes from the city of El Paso,TX. It is a very lively city with lots of entertainment, sport events and nightlife. 

@@ -1,6 +1,8 @@
 ---
 title: "Norðoyggjar"
 type: location
+latitude: 62.269355
+longitude: -6.370266
 ---
 
 Travel Guide

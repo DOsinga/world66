@@ -1,6 +1,8 @@
 ---
 title: "Matagorda County"
 type: location
+latitude: 28.887982
+longitude: -96.00351
 ---
 
 Travel Guide

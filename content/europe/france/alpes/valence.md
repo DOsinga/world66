@@ -1,6 +1,8 @@
 ---
 title: "Valence"
 type: location
+latitude: 44.933228
+longitude: 4.892081
 ---
 
 Valence, a town of south-eastern [France](/europe/france), capital of the département of Drôme, situated on the left bank of the Rhone, 65 miles south of [Lyon](/europe/france/alpes/lyon) on the railway to [Marseille](/europe/france/midi/cotedazur/marseille). The industries of this city include metallurgical products, textiles, leather goods, jewelry and munitions, as well as being a processing and trade center for the surrounding agricultural region. 

@@ -1,9 +1,12 @@
 ---
 title: "Stadtcafe"
 type: poi
+latitude: 47.263925
+longitude: 11.394976
 ---
 
-Popular with young people and a cheap option. 
+Popular with young people and a cheap option.
+ 
 
 address: Universitätsstr. 1, 6020 Innsbruck
 

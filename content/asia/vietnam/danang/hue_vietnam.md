@@ -1,6 +1,8 @@
 ---
 title: "hue vietnam"
 type: location
+latitude: 16.469722
+longitude: 107.593968
 ---
 
 Travel Guide

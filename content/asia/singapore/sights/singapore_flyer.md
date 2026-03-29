@@ -8,6 +8,8 @@ opening_hours: "8:30am to 10:30pm"
 phone: "67348829"
 type: "Landmarks"
 url: "www.singaporeflyer.com.sg"
+latitude: 1.289438
+longitude: 103.86326
 ---
 
 **SINGAPORE FLYER - A MOVING EXPERIENCE AT EVERY TURN**

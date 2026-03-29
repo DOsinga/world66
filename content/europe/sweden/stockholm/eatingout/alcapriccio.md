@@ -1,6 +1,8 @@
 ---
 title: "Al Capriccio"
 type: poi
+latitude: 59.439957
+longitude: 17.949935
 ---
 
 address: Birger Jarlsgatan 101

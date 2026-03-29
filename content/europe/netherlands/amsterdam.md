@@ -1,6 +1,8 @@
 ---
 title: "Amsterdam"
 type: location
+latitude: 52.37308
+longitude: 4.892453
 ---
 
 A visit to this beautiful city is sometimes like taking a walk in the 17th century. The center of Amsterdam has a lot of charming architecture dating from this period. It’s an excellent city to tour on foot. However, Amsterdam may boast a lot of 17th century architecture, but that's about all that's old fashioned about the place. 

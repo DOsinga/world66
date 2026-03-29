@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 address: "Shrewsbury St."
 type: "International"
+latitude: 42.269034
+longitude: -71.781481
 ---
 
 Worcester has a wide variety of restaurants for every taste. Some of the best are tucked away hole-in-the-wall sort of places that are almost always found by accident, unless you know what you're looking for.

@@ -1,6 +1,8 @@
 ---
 title: "Comfort Suites Lexington - South Carolina"
 type: location
+latitude: 34.075367
+longitude: -81.151496
 ---
 
 Travel Guide

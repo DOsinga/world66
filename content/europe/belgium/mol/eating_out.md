@@ -5,6 +5,8 @@ address: "Corbiestraat, 22"
 phone: "+32 (0)14 322662"
 type: "Belgian"
 url: "www.bellevue-mol.be"
+latitude: 51.033358
+longitude: 3.723632
 ---
 
 As with most places Several of the places listed under "Nightlife and entertainment" also acts as restaurants during daytime and transforms to clubs / pubs etc at arond 10 PM on Thursdays and weekends. Below are sites that are primary restaurants

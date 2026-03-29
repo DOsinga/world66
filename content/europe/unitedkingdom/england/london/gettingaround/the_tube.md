@@ -2,6 +2,8 @@
 title: "The Tube"
 type: poi
 email: "steve9631@comcast.net"
+latitude: 51.231188
+longitude: -0.44266
 ---
 
 When I'm traveling I'm a frequent user of public transportation, and the Tube in London, England is probably the best mass transit system I have ever been on. Take heed America, in this case, Britain does it better, and does it with a comprehensive transit network, and frequent convienient local stops that are designed to move massive amounts of people quickly and efficiently, and it works.

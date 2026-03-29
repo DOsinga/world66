@@ -1,6 +1,8 @@
 ---
 title: "Broadstone"
 type: location
+latitude: 53.354244
+longitude: -6.274077
 ---
 
 Everything below here is untrue. The photograph is also in breach of the copyright of Irish-architecture.com

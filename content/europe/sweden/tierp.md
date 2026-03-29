@@ -1,6 +1,8 @@
 ---
 title: "Tierp"
 type: location
+latitude: 60.333333
+longitude: 17.616667
 ---
 
 Travel Guide

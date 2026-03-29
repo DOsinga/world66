@@ -1,6 +1,8 @@
 ---
 title: "Batu Pahat"
 type: location
+latitude: 1.933333
+longitude: 103.0
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ opening_hours: "May - Oct: 8.30 am - 10.30 pm; Oct - April:09:00 am-09:00 pm"
 phone: "604-689-0421"
 type: "Landmarks"
 url: "www.vancouverlookout.com"
+latitude: 49.284465
+longitude: -123.111972
 ---
 
 The **Best First Stop** for visitors to Vancouver. Your journey starts with a 50 second ride in a glass elevator, which delivers you 50 storeys above street level to a fantastic 360 view of Vancouver, the majestic North Shore Mountains and perhaps even Vancouver Island just off the Pacific Coast.

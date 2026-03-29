@@ -1,6 +1,8 @@
 ---
 title: "Green River"
 type: location
+latitude: 41.529093
+longitude: -109.466473
 ---
 
 Travel Guide

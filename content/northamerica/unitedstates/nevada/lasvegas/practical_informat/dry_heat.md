@@ -2,6 +2,8 @@
 title: "Dry Heat"
 type: poi
 type: "Health and Safety"
+latitude: 35.085197
+longitude: -106.653784
 ---
 
 If you are not use to being in dry heat do drink lots of water. With an arid climate you dont feel as hot, but when you perspire it evaporates so quickly that you dont know that you were even perspiring at all. Becoming dehydraded on your trip is no fun, and with all the alcohol it can make for a really bad hangover the next morning. So I highly recomend to drink lots of water.

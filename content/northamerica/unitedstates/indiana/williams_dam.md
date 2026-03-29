@@ -1,6 +1,8 @@
 ---
 title: "Williams Dam"
 type: location
+latitude: 43.226489
+longitude: -72.807292
 ---
 
 Travel Guide

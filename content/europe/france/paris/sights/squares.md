@@ -1,6 +1,8 @@
 ---
 title: "Squares"
 type: poi
+latitude: 49.201014
+longitude: -0.335537
 ---
 
 **Sights**

@@ -1,6 +1,8 @@
 ---
 title: "Noarootsi"
 type: location
+latitude: 59.037843
+longitude: 23.509101
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Gunungsitoli"
 type: location
+latitude: 1.290057
+longitude: 97.615077
 ---
 
 Travel Guide

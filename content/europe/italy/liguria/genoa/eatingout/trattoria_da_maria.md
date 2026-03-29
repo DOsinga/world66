@@ -4,6 +4,8 @@ type: poi
 address: "Vico Testadoro, 14/R Genova"
 phone: "+39 010 581080"
 type: "Italian"
+latitude: 44.409613
+longitude: 8.935414
 ---
 
 ***Also known as "la sucida" by the Genovese people.

@@ -5,6 +5,8 @@ address: "Marienstr.116, 30159 Hannover"
 opening_hours: "Daily 17-3 , in summer also 12-15 Uhr"
 phone: "+49-0511/283 11 39"
 type: "Bars & Pubs"
+latitude: 52.370182
+longitude: 9.760862
 ---
 
 A small but noble bar on Marienstraße with a decoration of a lot of timber and glass. Here you will mainly meet regular costumers, who enjoy themselves with black music and prefer to stay to themselves. But new guests are always welcome. When you arrive, the bar keeper will be in charge for you and get you a cocktail or a draught beer. The best time to arrive here ist "Happy Hour" between 5 and 8 o'clock in the evening. Then you can stay all night. The Central Park has no neighbour, so the evening can go on and on... If you are lucky we have a "special event" like the Gourmet Dinner every three months. 

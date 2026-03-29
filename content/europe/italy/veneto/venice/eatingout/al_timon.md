@@ -3,6 +3,8 @@ title: "Al Timon"
 type: poi
 address: "Fondamenta Ormesini, Cannaregio, Venezia"
 type: "Local"
+latitude: 45.44559
+longitude: 12.328156
 ---
 
 Really a cosy little *Osteria *that's worth a visit.

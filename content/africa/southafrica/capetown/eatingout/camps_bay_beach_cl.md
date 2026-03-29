@@ -6,6 +6,8 @@ email: "res@campsbaybeachclub.com"
 phone: "+27 (0) 21 438 3972"
 type: "African"
 url: "www.campsbaybeachclub.com"
+latitude: -33.952684
+longitude: 18.378234
 ---
 
 Camps Bay Beach Club boasts the unique concept of being 'an

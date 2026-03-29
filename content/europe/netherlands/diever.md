@@ -1,6 +1,8 @@
 ---
 title: "Diever"
 type: location
+latitude: 52.854658
+longitude: 6.318266
 ---
 
 An old village on the edge of the Drents-FrieseWoud It is situated

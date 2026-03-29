@@ -1,6 +1,8 @@
 ---
 title: "Region"
 type: location
+latitude: -30.053852
+longitude: -51.283483
 ---
 
 Travel Guide

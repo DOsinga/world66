@@ -1,6 +1,8 @@
 ---
 title: "Alaverdi"
 type: location
+latitude: 41.098144
+longitude: 44.646091
 ---
 
 Travel Guide

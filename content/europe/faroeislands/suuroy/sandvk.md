@@ -1,6 +1,8 @@
 ---
 title: "Sandvík"
 type: location
+latitude: 61.634177
+longitude: -6.928838
 ---
 
 Travel Guide

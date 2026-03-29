@@ -5,6 +5,8 @@ address: "216 Main Street"
 phone: "715-284-5700"
 type: "Antiques"
 url: "www.themerchantgeneralstore.com"
+latitude: 36.139423
+longitude: -5.353753
 ---
 
 Black River Falls has become well known for it's antique shopping.

@@ -1,6 +1,8 @@
 ---
 title: "Bilbao"
 type: location
+latitude: 43.263002
+longitude: -2.935004
 ---
 
 Set on the banks of the Nervion River **Bilbao** (pop. 369 000) the largest city in the Basque region is a rather grimy industrial port. Although it is not a tourist center, this city is rapidly working at re-inventing itself as one and warrants at least a day’s visit to see its attractions. 

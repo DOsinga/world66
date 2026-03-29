@@ -5,6 +5,8 @@ address: "3320 Mendocino Ave"
 phone: "(707) 546-1958"
 type: "Lounges"
 zipcode: "Santa Rosa, CA 95403"
+latitude: 38.470128
+longitude: -122.72236
 ---
 
 type: Lounges

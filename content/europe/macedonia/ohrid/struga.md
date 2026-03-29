@@ -1,6 +1,8 @@
 ---
 title: "Struga"
 type: location
+latitude: 41.177028
+longitude: 20.679059
 ---
 
 Travel Guide

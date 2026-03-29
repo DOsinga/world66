@@ -1,6 +1,8 @@
 ---
 title: "moncofa"
 type: location
+latitude: 39.808205
+longitude: -0.145266
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ninh Binh"
 type: location
+latitude: 20.242114
+longitude: 105.974621
 ---
 
 Travel Guide

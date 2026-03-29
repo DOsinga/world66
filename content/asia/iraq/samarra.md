@@ -1,6 +1,8 @@
 ---
 title: "Samarra"
 type: location
+latitude: 34.2
+longitude: 43.9
 ---
 
 We currently have no information about Samarra.

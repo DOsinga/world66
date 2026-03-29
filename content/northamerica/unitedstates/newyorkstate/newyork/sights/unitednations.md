@@ -2,6 +2,8 @@
 title: "United Nations"
 type: poi
 type: "Hotspots"
+latitude: 40.750214
+longitude: -73.967272
 ---
 
 If you travel east on 42nd street until you hit 1st ave you will come to the United Nations. With acres of parkland, the U.N. grounds are a beautiful place to stroll and watch the beautiful river traffic. The visitors entrance is located at the North end of the marble and limestone building, at 46th St. During a guided tour you can admire the treasures contributed by member nations.

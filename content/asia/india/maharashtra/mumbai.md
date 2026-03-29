@@ -1,6 +1,8 @@
 ---
 title: "Mumbai"
 type: location
+latitude: 19.054999
+longitude: 72.869203
 ---
 
 **Mumbai** (Bombay), the cosmopolitan capital of Maharashtra, is located in the west of India. Not in the least because of its location and the mark the British left on the city, it changed from a fairly isolated town into a major commercial city with over a million inhabitants. Recently, the government changed the city's former, Anglicised name Bombay, into Mumbai. But what's in a name? Mumbai still is a must for travelers and is, to a certain extent, a match for cities such as Paris and London. 

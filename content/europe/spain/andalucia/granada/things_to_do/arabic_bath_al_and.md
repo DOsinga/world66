@@ -7,6 +7,8 @@ phone: "+34 958 229978"
 type: "Spa and Sauna"
 url: "www.hammamspain.com"
 zipcode: "18009"
+latitude: -11.948411
+longitude: -77.09287
 ---
 
 **Hammam - Arab Baths**

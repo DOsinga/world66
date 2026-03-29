@@ -1,6 +1,8 @@
 ---
 title: "Malbork"
 type: location
+latitude: 54.035836
+longitude: 19.03685
 ---
 
 The Teutonic Castle in Malbork – enlisted in the UNESCO list of the World Heritage. 

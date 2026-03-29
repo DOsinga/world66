@@ -6,6 +6,8 @@ phone: "+46 30310101"
 price: "5 to 25 Euro"
 type: "International"
 url: "www.gourmetboden.se"
+latitude: 57.865508
+longitude: 11.9947
 ---
 
 Kungälv has a huge variety of restaurants from gourmet to take away. If you fancy chinese, pizza, asian, fish, meat, simple home cocking, medievil or what ever, we have it in Kungälv, no sushi though but real men don't eat sushi.

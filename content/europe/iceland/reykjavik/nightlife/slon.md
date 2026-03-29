@@ -2,6 +2,8 @@
 title: "Sólon"
 type: poi
 type: "Clubs"
+latitude: 64.146766
+longitude: -21.933708
 ---
 
 Kaffi Sólon, on the corner of Bankastræti and Ingólfstræti, in the center of capital of Iceland, Reykjavik. It is one of these places that have the wonderful quality of being all in one, bistro, café, bar, restaurant and club.

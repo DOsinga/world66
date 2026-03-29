@@ -4,6 +4,8 @@ type: section
 address: "Salignac"
 phone: "05 53 28 99 71"
 type: "Parks & Gardens"
+latitude: 45.021053
+longitude: -0.374294
 ---
 
 The medieval town is centred around Place de la Liberte, Rue de la Liberte, and Place du Peyrou. At place de la Liberte, you can visit the Cathedrale St. Sacerdos and the Hangman’s Tower (the one left of the eighteen protecting the city). Behind the Cathedral is an impressive garden complex, Les Jardins du Manoir d'Eyrignac.

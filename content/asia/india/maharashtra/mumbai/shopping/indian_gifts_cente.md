@@ -7,6 +7,8 @@ email: "igcseo@yahoo.com"
 phone: "9620714436"
 type: "Shopping centers and malls"
 url: "www.indiangiftscenter.com"
+latitude: 19.121892
+longitude: 72.850608
 ---
 
 Normal

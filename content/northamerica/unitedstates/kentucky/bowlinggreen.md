@@ -1,6 +1,8 @@
 ---
 title: "Bowling Green"
 type: location
+latitude: 36.99292
+longitude: -86.442868
 ---
 
 We currently have no information about Bowling Green.

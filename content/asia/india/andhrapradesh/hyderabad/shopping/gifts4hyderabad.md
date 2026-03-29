@@ -5,6 +5,8 @@ address: "Hyderabad"
 email: "gifts4hyderabad1@hotmail.com"
 type: "Speciality shops"
 url: "www.gifts4hyderabad.com"
+latitude: 17.360589
+longitude: 78.474061
 ---
 
 Normal

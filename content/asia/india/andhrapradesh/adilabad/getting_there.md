@@ -5,6 +5,8 @@ address: "chanai"
 email: "rpnk1981@gmail.com"
 phone: "23423423"
 type: "By Road"
+latitude: 19.719182
+longitude: 78.960864
 ---
 
 It is well connected by roadways.you can reach here by state buses from hyderabad, the capital city and also nagpur. It is also connected by all mandals by road. Railways only to kinwat and no air and water services.

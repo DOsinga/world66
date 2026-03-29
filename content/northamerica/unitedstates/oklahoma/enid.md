@@ -1,6 +1,8 @@
 ---
 title: "Enid"
 type: location
+latitude: 36.396762
+longitude: -97.879134
 ---
 
 Travel Guide

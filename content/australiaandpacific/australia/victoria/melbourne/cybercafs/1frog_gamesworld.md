@@ -9,6 +9,8 @@ phone: "0398151005"
 price: "$7 guests / $3.50 members"
 type: "Internet Cafe"
 url: "www.1gamesworld.com.au"
+latitude: -37.821431
+longitude: 145.035573
 ---
 
 Our shop features computers which are the latest

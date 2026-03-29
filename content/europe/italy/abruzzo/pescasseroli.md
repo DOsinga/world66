@@ -1,6 +1,8 @@
 ---
 title: "Pescasseroli"
 type: location
+latitude: 41.808401
+longitude: 13.789282
 ---
 
 For all practical purposes Pescasseroli is the best base for exploring the

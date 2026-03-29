@@ -1,6 +1,8 @@
 ---
 title: "Rosh Pina"
 type: location
+latitude: 32.968215
+longitude: 35.543824
 ---
 
 Travel Guide

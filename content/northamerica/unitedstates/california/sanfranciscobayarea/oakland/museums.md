@@ -4,6 +4,8 @@ type: section
 address: "8260 Boeing St."
 phone: "94614 510/638-7100"
 type: "general"
+latitude: 37.733274
+longitude: -122.21274
 ---
 
 ### [Western Aerospace Museum](/northamerica/unitedstates/california/sanfranciscobayarea/oakland/museums/westernaerospacemuseum)

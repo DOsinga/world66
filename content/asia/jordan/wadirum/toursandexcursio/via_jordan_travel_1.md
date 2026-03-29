@@ -5,6 +5,8 @@ address: "Jordan - Petra"
 email: "viajordan@viajordan.com"
 phone: "00962 777 282 730"
 url: "www.viajordan.com"
+latitude: 30.325836
+longitude: 35.474567
 ---
 
 Our unswerving philosophy is that “for each guest, a tour with VIA JORDAN TRAVEL should be completely satisfying, totally unforgettable and one of the best things they have ever done in their lifetime.” We offer tours that go beyond conventional sightseeing packages and reach out to people and the environment of the countries the tour is being conducted in Jordan . Our trips allow you to really explore and experience a country, from its famous sights, white sand beaches, Jerash, Madaba, Mount Nebo , King's Way, Dead Sea , Petra in great tours to human encounter of sharing a dinner with a local family or help in one of the many community

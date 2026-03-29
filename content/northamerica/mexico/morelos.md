@@ -1,6 +1,8 @@
 ---
 title: "Morelos"
 type: location
+latitude: 18.75
+longitude: -99.0
 ---
 
 We currently have no information about Morelos.

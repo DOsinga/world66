@@ -8,6 +8,8 @@ phone: "0020101929170"
 price: "10-50 $"
 type: "International"
 url: "www.alibaba-dahab.com"
+latitude: 28.497484
+longitude: 34.516074
 ---
 
 Ali Baba Restaurant is one of the most famous restaurants in Dahab.

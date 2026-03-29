@@ -1,6 +1,8 @@
 ---
 title: "Lecanto"
 type: location
+latitude: 28.826879
+longitude: -82.500156
 ---
 
 Travel Guide

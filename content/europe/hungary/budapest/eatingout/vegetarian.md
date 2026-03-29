@@ -1,9 +1,12 @@
 ---
 title: "Vegetarian"
 type: poi
+latitude: 47.906665
+longitude: 20.372784
 ---
 
-The Hungarians are a meat eating people, but if you know where to look, you will find some vegetarian restaurants as well. 
+The Hungarians are a meat eating people, but if you know where to look, you will find some vegetarian restaurants as well.
+ 
 
 **Restaurants**
 
@@ -25,6 +28,7 @@ tel: 269-4944
 
 **Govinda**
 
-Great location by the banks of the Danube, compensates for the distinctly average vegetarian cuisine at Govinda. Set meals lack adventure, although prices are very reasonable. 
+Great location by the banks of the Danube, compensates for the distinctly average vegetarian cuisine at Govinda. Set meals lack adventure, although prices are very reasonable.
+ 
 
 address: Belgrád rakpart 18

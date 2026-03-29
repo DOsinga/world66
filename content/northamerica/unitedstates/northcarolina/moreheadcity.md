@@ -1,6 +1,8 @@
 ---
 title: "Morehead City"
 type: location
+latitude: 34.722939
+longitude: -76.726044
 ---
 
 We currently have no information about Morehead City.

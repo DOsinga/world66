@@ -8,6 +8,8 @@ opening_hours: "Nancy"
 phone: "Nancy"
 type: "1"
 url: "artisticgfx.com"
+latitude: 48.693722
+longitude: 6.18341
 ---
 
 Nice site!

@@ -1,6 +1,8 @@
 ---
 title: "Wonsan"
 type: location
+latitude: 39.172595
+longitude: 127.428424
 ---
 
 We currently have no information about Wonsan.

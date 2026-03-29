@@ -1,6 +1,8 @@
 ---
 title: "Lesbos"
 type: location
+latitude: 39.175842
+longitude: 25.998914
 ---
 
 Lebos is located at a very short distance of the Turkish coast. The island is the third largest in Greece and its people traditionally made a living from fishing, farming, making cheese and growing olives, fruit and vegetables. Tourism is a comparative newcomer to the scene and accounts for only 10% of the local economy. This helps keep a traditional feel to the place. 

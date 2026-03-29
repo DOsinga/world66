@@ -1,6 +1,8 @@
 ---
 title: "Djerba"
 type: location
+latitude: 33.773598
+longitude: 10.886189
 ---
 
 Travel Guide

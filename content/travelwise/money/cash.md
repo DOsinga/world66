@@ -1,6 +1,8 @@
 ---
 title: "Cash"
 type: location
+latitude: 43.806558
+longitude: -79.473951
 ---
 
 [TravelWise](/world/travelwise) **>** [Money](/world/travelwise/money) **>** [Cash](/world/travelwise/money/cash)

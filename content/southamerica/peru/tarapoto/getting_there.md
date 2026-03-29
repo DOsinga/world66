@@ -6,6 +6,8 @@ email: "reservasweb@starperu.com"
 phone: "Reservations: (511) 705-9000"
 type: "By Air"
 url: "www.starperu.com"
+latitude: -12.119004
+longitude: -77.033039
 ---
 
 Daily flights from Lima make getting to Tarapoto easy. From Tarapoto, travellers can access Iquitos, the city at the start of the Amazon River or head via [Chachapoyas](/southamerica/peru/chachapoyas/chachapoyas) on the [Northern Pacific to Amazon crossing](/southamerica/peru/northern_pacific_t).

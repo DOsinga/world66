@@ -1,6 +1,8 @@
 ---
 title: "Gauteng"
 type: location
+latitude: -25.936344
+longitude: 28.081311
 ---
 
 Travel Guide

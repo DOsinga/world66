@@ -1,6 +1,8 @@
 ---
 title: "Hermosillo"
 type: location
+latitude: 29.094821
+longitude: -110.96922
 ---
 
 Hermosillo, the capital of the State of Sonora, is located 246 miles south of the border with the USA. It was founded in 1700, alongside the Sonora River, as *Santísima Trinidad del Pitic* . In 1828 it is named in honor of General José Maria Gonzáles Hermosillo, who fought in the Independence war against the Spaniards. In 1879 it is declared capital of the state.

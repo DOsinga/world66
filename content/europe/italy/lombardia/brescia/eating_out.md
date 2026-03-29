@@ -8,6 +8,8 @@ phone: "0302004224"
 price: "65"
 type: "Italian"
 url: "www.castellomalvezzi.it"
+latitude: 41.567799
+longitude: 14.054144
 ---
 
 More information about eating out in Brescia coming soon.

@@ -1,6 +1,8 @@
 ---
 title: "Petatlan"
 type: poi
+latitude: 17.632954
+longitude: -101.133509
 ---
 
 A lovely side trip to Petatlan is easily accomplished by taking a bus

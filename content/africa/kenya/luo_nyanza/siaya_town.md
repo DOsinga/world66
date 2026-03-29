@@ -1,6 +1,8 @@
 ---
 title: "Siaya Town"
 type: location
+latitude: 0.059332
+longitude: 34.283514
 ---
 
 Travel Guide

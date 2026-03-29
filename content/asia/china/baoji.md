@@ -1,6 +1,8 @@
 ---
 title: "Baoji"
 type: location
+latitude: 34.360971
+longitude: 107.232238
 ---
 
 Travel Guide

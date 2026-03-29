@@ -7,6 +7,8 @@ closing_time: "late"
 email: "elsewhere@online.com.kh"
 phone: "012 660 232"
 type: "Wine bars"
+latitude: 45.607757
+longitude: -74.617714
 ---
 
 Elsewhere is the only bar in Phnom Penh with an exotic garden and a small (free) swimming pool. The house is a French colonial villa built in 1920.

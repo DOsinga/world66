@@ -1,6 +1,8 @@
 ---
 title: "Aquitaine"
 type: location
+latitude: 44.246206
+longitude: -0.183998
 ---
 
 Travel Guide

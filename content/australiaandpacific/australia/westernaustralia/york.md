@@ -1,6 +1,8 @@
 ---
 title: "York"
 type: location
+latitude: -31.888903
+longitude: 116.769148
 ---
 
 Travel Guide

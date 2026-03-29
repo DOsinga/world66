@@ -1,6 +1,8 @@
 ---
 title: "Prague"
 type: location
+latitude: 50.087465
+longitude: 14.421254
 ---
 
 We think Prague is one of the prettiest cities in the world. Built on seven hills and divided by the pretty Vltava (Moldau) River this capital city of 1 216 000 is unique among Eastern European capitals: It survived World War II nearly intact. As a result it has beautiful architecture ranging from Romanesque and Gothic to Renaissance and baroque. For younger travelers Prague is very much the place to be in Europe and many foreigners have moved in attracted by the city’s beauty and commercial opportunities. 

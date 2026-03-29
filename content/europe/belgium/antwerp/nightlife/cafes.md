@@ -1,6 +1,8 @@
 ---
 title: "Cafes"
 type: poi
+latitude: 50.573855
+longitude: 4.77649
 ---
 
 **Place to go outs**

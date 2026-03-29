@@ -6,6 +6,8 @@ closing_time: "4am"
 email: "waxydan@gmail.com"
 phone: "(+55 21) 2287 2134"
 type: "Pubs"
+latitude: -22.986
+longitude: -43.202949
 ---
 
 **Waxy's is Rio' newest nightspot. A contempory Irish Bar originating from Dubai, Waxy's boasts award winning menues, live bands and Dj's entertaining throughout the week.**

@@ -1,6 +1,8 @@
 ---
 title: "Rhodes City"
 type: location
+latitude: 36.443723
+longitude: 28.227369
 ---
 
 Rhodes City contains many sights worth exploring. The medieval city is still very much alive. 6,000 people live and work in the same buildings in which the Knights of St. John lived six centuries ago; as a living monument to the past it must be nearly unique in Europe, if not the world.

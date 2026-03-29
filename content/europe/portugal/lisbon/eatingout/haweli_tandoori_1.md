@@ -6,6 +6,8 @@ address: "Travessa do Monte , 14 , Graça , Lisbon"
 phone: "351- 219810951"
 price: "12-20 euros"
 type: "Indian and Pakistani"
+latitude: 38.718741
+longitude: -9.130315
 ---
 
 Come visit one of best indian restaurant in lisbon , with great genuine food, we have good vegeterian food too.

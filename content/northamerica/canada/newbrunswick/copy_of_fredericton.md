@@ -1,6 +1,8 @@
 ---
 title: "Fredericton"
 type: location
+latitude: 45.948828
+longitude: -66.629183
 ---
 
 Fredericton is New Brunswick’s Capital City. Situated along the banks of the beautiful St. John River, in the heart of the province, Fredericton is a great place to live, work and play. 

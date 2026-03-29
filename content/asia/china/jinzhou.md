@@ -1,6 +1,8 @@
 ---
 title: "Jinzhou"
 type: location
+latitude: 41.108711
+longitude: 121.118616
 ---
 
 Travel Guide

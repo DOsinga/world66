@@ -1,6 +1,8 @@
 ---
 title: "Penrhyn"
 type: location
+latitude: -9.001434
+longitude: -157.968492
 ---
 
 We currently have no information about Penrhyn.

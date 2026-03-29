@@ -3,6 +3,8 @@ title: "Asistencia"
 type: poi
 type: "Other"
 url: "missiontour.org"
+latitude: 34.048903
+longitude: -117.216706
 ---
 
 Established as an adjunct to Mission San Gabriel

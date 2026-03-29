@@ -1,6 +1,8 @@
 ---
 title: "Bars & Cafes"
 type: poi
+latitude: 47.624179
+longitude: -122.36479
 ---
 
 **Recommendations**

@@ -1,6 +1,8 @@
 ---
 title: "Canal Cruise"
 type: poi
+latitude: 52.378676
+longitude: 4.897165
 ---
 
 If you haven't much time but want to get a complete overview of the

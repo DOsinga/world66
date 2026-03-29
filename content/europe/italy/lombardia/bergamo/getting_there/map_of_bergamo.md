@@ -4,6 +4,8 @@ type: poi
 address: "Via Martinella, Bergamo"
 type: "By Air"
 url: "www.bergamotour.it"
+latitude: 45.710894
+longitude: 9.700886
 ---
 
 There is an autostrada that links Bergamo to other cities. There are also state roads that go to the mountains, lakes or the surrounding country. You can go by bicycle, motorcycle, car or caravan.

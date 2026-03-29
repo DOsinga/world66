@@ -1,6 +1,8 @@
 ---
 title: "Lori Marz"
 type: location
+latitude: 40.907832
+longitude: 44.120832
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Tamil Nadu"
 type: location
+latitude: 11.332372
+longitude: 78.609864
 ---
 
 Tamil Nadu is India’s southernmost state. Tamil is the most spoken language as opposed to Hindi in most other parts and if you’re looking for the cradle of all vegetarian dishes, you’ve hit the right state. You might get the feeling that people less often speak English, which might be true. Sometimes it feels as if in the south, and especially Tamil Nadu, the atmosphere is different than in most other parts of India. Maybe a bit warmer, a bit more relaxing combined with the proud south Indians and their welcoming and friendly nature in general.

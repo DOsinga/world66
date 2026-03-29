@@ -3,6 +3,8 @@ title: "Zouk"
 type: poi
 address: "MM Alam Rd"
 phone: "92-42-571-2731"
+latitude: 31.522609
+longitude: 74.350038
 ---
 
 Zouk means the beginning of a Rhythm or the beginning of something new. It is a style of rhythmic music originating from the Caribbean islands of Guadeloupe and Martinique. It has its roots in Cadence music from Dominica popularizes by Grammacks and Exile. One Zouk means “Party” in the local Creole of French with English and African influences, all three of which contribute to the sound.

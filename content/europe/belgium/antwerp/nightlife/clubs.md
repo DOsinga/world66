@@ -1,6 +1,8 @@
 ---
 title: "Clubs"
 type: poi
+latitude: 51.174543
+longitude: 4.397775
 ---
 
 **Place to go outs**
@@ -21,18 +23,21 @@ tel: +32 3 475 20 58
 
 **Swingcafé**
 
-Jazz and blues. Closes its doors around midnight. 
+Jazz and blues. Closes its doors around midnight.
+ 
 
 address: Suikerrui 13
 
 **Sloppy Store**
 
-Good club when you feel like dancing. Open Thurs.-Sat. 
+Good club when you feel like dancing. Open Thurs.-Sat.
+ 
 
 address: Jan van Gentstraat 7
 
 **Café de Muze**
 
-Music bar with performances of local bands. ** Barton:** Every night live Jazz bands. Cool!!!
+Music bar with performances of local bands.
+ ** Barton:** Every night live Jazz bands. Cool!!!
 
 address: Melkmarkt 15

@@ -1,6 +1,8 @@
 ---
 title: "Livorno"
 type: location
+latitude: 42.790238
+longitude: 10.340224
 ---
 
 Travel Guide

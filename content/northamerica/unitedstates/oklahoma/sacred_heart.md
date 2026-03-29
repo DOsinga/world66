@@ -1,6 +1,8 @@
 ---
 title: "Sacred Heart"
 type: location
+latitude: 44.786903
+longitude: -95.351678
 ---
 
 Travel Guide

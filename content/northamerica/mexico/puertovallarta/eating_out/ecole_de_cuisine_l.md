@@ -7,6 +7,8 @@ phone: "(329) 298.1532"
 price: "US $55 pp prix fixe, wine incl."
 type: "French"
 url: "www.lefort.com.mx"
+latitude: 20.751029
+longitude: -105.332567
 ---
 
 If you spend one evening outside of Puerto Vallarta while visiting Banderas Bay, make it a point to have dinner chez Margarita and Gilles Le Fort.

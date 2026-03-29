@@ -6,6 +6,8 @@ closing_time: "8 AM"
 phone: "+352-492486"
 type: "Clubs and dancing"
 url: "www.byblos.lu"
+latitude: 49.60475
+longitude: 6.129327
 ---
 
 Very fine club, perfect place to party or chill, pool table in the basement, good sound from disco to funk. 10 euro entrance you get 10 euro credits for the drinks.

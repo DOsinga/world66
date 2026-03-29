@@ -1,6 +1,8 @@
 ---
 title: "Singapore river"
 type: poi
+latitude: 1.290115
+longitude: 103.84121
 ---
 
 The Singapore River has undergone dramatic transformation since its early days. Once the lifeline of the nation, it was the economic artery of Singapore where pioneers lived and worked together.

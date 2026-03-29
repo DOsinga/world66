@@ -1,6 +1,8 @@
 ---
 title: "Silvassa"
 type: location
+latitude: 20.273677
+longitude: 73.004579
 ---
 
 We currently have no information about .

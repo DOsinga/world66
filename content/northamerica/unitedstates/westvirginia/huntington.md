@@ -1,6 +1,8 @@
 ---
 title: "Huntington"
 type: location
+latitude: 38.41925
+longitude: -82.445154
 ---
 
 Huntington lies in the western extreme of [West Virginia](/northamerica/unitedstates/westvirginia), across the river from Ohio and just down the road from Kentucky. Founded as a railroad town and named in honor of railroad baron Collis P. Huntington, industry has been the heartbeat of the city from its infancy. It is an important port on the Ohio River, and the city has put much effort into making the riverfront area attractive and leisurely. 

@@ -1,6 +1,8 @@
 ---
 title: "Restaurants"
 type: poi
+latitude: 50.813635
+longitude: 4.392383
 ---
 
 **Restaurants**
@@ -23,7 +25,8 @@ tel: 03.328.6197
 
 **Hippodroom**
 
-Closed on Sundays 
+Closed on Sundays
+ 
 
 address: Leopold de Waelplaats 10
 
@@ -37,7 +40,8 @@ tel: 03.227.4696
 
 **Hoffy's**
 
-Jewish food 
+Jewish food
+ 
 
 address: Lange Kievitstraat 52
 
@@ -45,7 +49,8 @@ tel: 03.234.3535
 
 **Hoorn des Overvloed**
 
-Seafood restaurant 
+Seafood restaurant
+ 
 
 address: Melkmarkt 1
 

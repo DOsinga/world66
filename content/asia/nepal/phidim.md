@@ -1,6 +1,8 @@
 ---
 title: "Phidim"
 type: location
+latitude: 27.144134
+longitude: 87.766096
 ---
 
 Travel Guide

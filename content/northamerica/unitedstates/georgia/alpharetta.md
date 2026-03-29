@@ -1,6 +1,8 @@
 ---
 title: "Alpharetta"
 type: location
+latitude: 34.075596
+longitude: -84.294596
 ---
 
 Travel Guide

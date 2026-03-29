@@ -1,6 +1,8 @@
 ---
 title: "Gythio"
 type: location
+latitude: 36.761578
+longitude: 22.56595
 ---
 
 Travel Guide

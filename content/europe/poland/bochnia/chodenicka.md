@@ -1,6 +1,8 @@
 ---
 title: "Chodenicka"
 type: location
+latitude: 49.982235
+longitude: 20.397645
 ---
 
 We currently have no information about Chodenicka.

@@ -1,6 +1,8 @@
 ---
 title: "Moncarapacho"
 type: location
+latitude: 37.084209
+longitude: -7.788246
 ---
 
 Travel Guide

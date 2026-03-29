@@ -1,6 +1,8 @@
 ---
 title: "Museums"
 type: location
+latitude: 41.892666
+longitude: 12.482201
 ---
 
 **Church of San Giovanni Elemosinaro

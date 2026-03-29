@@ -1,6 +1,8 @@
 ---
 title: "Thulhagiri Resort"
 type: location
+latitude: 4.311811
+longitude: 73.48746
 ---
 
 Travel Guide

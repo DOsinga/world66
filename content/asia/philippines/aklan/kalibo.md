@@ -1,6 +1,8 @@
 ---
 title: "Kalibo"
 type: location
+latitude: 11.708897
+longitude: 122.364023
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "History"
 type: location
+latitude: 11.663315
+longitude: 78.160071
 ---
 
 Dhule District is located in northern side of Maharashtra state spread between Lattitude 20 38' to 21 61' N and Longitude 73 50' to 75 11' E.

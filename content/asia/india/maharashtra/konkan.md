@@ -1,6 +1,8 @@
 ---
 title: "Konkan"
 type: location
+latitude: 17.919394
+longitude: 73.189508
 ---
 
 'Konkan' is the coastal region of Maharashtra state linning the Arabian sea. It extends from north to south and is made up of the districts of Thane, Mumbai, Raigad, Ratnagiri & Sindhudurg. The Konkan region is seperated from the rest of the state by the Sahyadri mountain range also known as the western ghats. This region has remained in isolation (thankfully) for a long time for lack of proper means of transport. About ten years ago (around early 90s), this region opened up with the advent of the 'Konkan railway' - the rail route that connects Mumbai (Bombay) with the entire western coast of India. 'Konkan railway' in itself is an unparalleled achievment of engineering excellence for India involving construction of several bridges and tunnels through its entire run across the state.

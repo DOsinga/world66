@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 opening_hours: "8am to 5pm"
 type: "Parks, Gardens and Zoos"
+latitude: 29.999987
+longitude: 102.980403
 ---
 
 Visit Suzhou for its renowned gardens!

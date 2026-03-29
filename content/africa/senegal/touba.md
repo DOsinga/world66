@@ -1,6 +1,8 @@
 ---
 title: "Touba"
 type: location
+latitude: 14.864559
+longitude: -15.876047
 ---
 
 Touba is located some 200 km inland from [Dakar](/africa/senegal/dakar). It's a pretty strange city. The first thing that strikes you is the number of Mercedeses you see driving up and down the streets. Touba is the centre of the Mourid Sect, the most powerful islamic brotherhood of Senegal.The brootherhood strengh is their unity in a common goal of selfimprovement and solidarity.

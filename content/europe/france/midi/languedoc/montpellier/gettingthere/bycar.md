@@ -1,11 +1,14 @@
 ---
 title: "BY CAR"
 type: poi
+latitude: 48.38593
+longitude: -2.195871
 ---
 
 Montpellier is served by the A9 and the new A75 highways (Paris / Clermont-Ferrand).
 
- From the A9 Highway you can reach Montpellier through 4 exits :
+
+ From the A9 Highway you can reach Montpellier through 4 exits :
 
 
 

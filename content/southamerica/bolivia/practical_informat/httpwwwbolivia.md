@@ -3,6 +3,8 @@ title: "Bolivia"
 type: poi
 type: "Tourist information"
 url: "www.travel-bolivia.com"
+latitude: -17.05687
+longitude: -64.991229
 ---
 
 Travel Guide

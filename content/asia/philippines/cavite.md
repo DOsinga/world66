@@ -1,6 +1,8 @@
 ---
 title: "Cavite"
 type: location
+latitude: 14.255407
+longitude: 120.86715
 ---
 
 Travel Guide

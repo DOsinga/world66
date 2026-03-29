@@ -7,6 +7,8 @@ email: "info@vinology.com"
 phone: "215-965-1514"
 type: "Wine bars"
 url: "www.vinology.com"
+latitude: 39.967092
+longitude: -75.170536
 ---
 
 Philadelphia is a classic of the East Coast mold: a decaying manufacturing powerhouse that re-invents itself as a cultural mecca.

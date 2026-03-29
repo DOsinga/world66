@@ -4,6 +4,8 @@ type: poi
 address: "Rindermarkt 12"
 phone: "01 251 23 36"
 zipcode: "CH-8001 Zurich"
+latitude: 48.575761
+longitude: 13.461347
 ---
 
 Nice, small bar with lots of tradition. One of the traditions is that

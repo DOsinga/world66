@@ -1,6 +1,8 @@
 ---
 title: "Hollister"
 type: location
+latitude: 36.852455
+longitude: -121.401602
 ---
 
 Travel Guide

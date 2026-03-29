@@ -1,6 +1,8 @@
 ---
 title: "Voronezh"
 type: location
+latitude: 51.680008
+longitude: 39.183725
 ---
 
 Travel Guide

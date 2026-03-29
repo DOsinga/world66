@@ -5,6 +5,8 @@ address: "C/. Montesdeoca, 10"
 email: "casamontesdeoca@telefonica.net"
 phone: "928 333 466"
 price: "¬30"
+latitude: 28.101682
+longitude: -15.413482
 ---
 
 Classic spanish food in the old part of Las Palmas called Vegueta. 

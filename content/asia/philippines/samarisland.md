@@ -1,6 +1,8 @@
 ---
 title: "Samar Island"
 type: location
+latitude: 11.798222
+longitude: 125.169042
 ---
 
 Travel Guide

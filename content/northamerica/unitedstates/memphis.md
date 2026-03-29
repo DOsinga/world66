@@ -1,6 +1,8 @@
 ---
 title: "Memphis"
 type: location
+latitude: 35.146025
+longitude: -90.051764
 ---
 
 Travel Guide

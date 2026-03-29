@@ -1,6 +1,8 @@
 ---
 title: "Marianske lazne"
 type: location
+latitude: 49.973952
+longitude: 12.703319
 ---
 
 We currently have no information about Marianske lazne.

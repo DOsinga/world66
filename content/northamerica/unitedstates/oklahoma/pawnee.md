@@ -1,6 +1,8 @@
 ---
 title: "Pawnee"
 type: location
+latitude: 38.185876
+longitude: -99.240825
 ---
 
 Travel Guide

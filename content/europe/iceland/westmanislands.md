@@ -1,6 +1,8 @@
 ---
 title: "Westman islands"
 type: location
+latitude: 63.426665
+longitude: -20.269882
 ---
 
 **Vestmannaeyjar**- Westman Islands- Vestman-islands 

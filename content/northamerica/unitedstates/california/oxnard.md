@@ -1,6 +1,8 @@
 ---
 title: "Oxnard"
 type: location
+latitude: 34.197631
+longitude: -119.180381
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Anshan"
 type: location
+latitude: 40.822222
+longitude: 122.8275
 ---
 
 Travel Guide

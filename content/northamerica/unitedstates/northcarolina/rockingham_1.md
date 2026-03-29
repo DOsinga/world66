@@ -1,6 +1,8 @@
 ---
 title: "Rockingham"
 type: location
+latitude: 36.39268
+longitude: -79.744144
 ---
 
 Travel Guide

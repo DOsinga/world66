@@ -1,6 +1,8 @@
 ---
 title: "Mauke"
 type: location
+latitude: -20.160399
+longitude: -157.341222
 ---
 
 We currently have no information about Mauke.

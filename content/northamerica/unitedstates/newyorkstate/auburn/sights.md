@@ -5,6 +5,8 @@ address: "180 South Street, Auburn NY"
 email: "HTHome@localnet.com"
 phone: "315-252-2081"
 type: "Memorials"
+latitude: 42.911525
+longitude: -76.563723
 ---
 
 A stop along the Underground Railroad, the City of Auburn is home to the Harriet Tubman Home, among other sites.

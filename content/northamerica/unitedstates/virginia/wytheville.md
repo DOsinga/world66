@@ -1,6 +1,8 @@
 ---
 title: "Wytheville"
 type: location
+latitude: 36.947997
+longitude: -81.086975
 ---
 
 Travel Guide

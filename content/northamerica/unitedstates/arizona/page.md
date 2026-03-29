@@ -1,6 +1,8 @@
 ---
 title: "Page"
 type: location
+latitude: 40.736337
+longitude: -95.16024
 ---
 
 Travel Guide

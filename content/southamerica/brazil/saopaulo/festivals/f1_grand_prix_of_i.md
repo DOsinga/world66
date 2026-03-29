@@ -3,6 +3,8 @@ title: "F1 Grand Prix of Interlagos"
 type: poi
 address: "Av. Senador Teotônio Vilela, 261"
 url: "www.autodromointerlagos.com"
+latitude: -23.701824
+longitude: -46.696916
 ---
 
 Placed at the Interlagos Autodrome, where Ayrton Senna, Emerson

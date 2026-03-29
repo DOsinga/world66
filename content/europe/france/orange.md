@@ -1,6 +1,8 @@
 ---
 title: "Orange"
 type: location
+latitude: 44.137131
+longitude: 4.807878
 ---
 
 Travel Guide

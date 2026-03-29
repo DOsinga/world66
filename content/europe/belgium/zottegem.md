@@ -1,6 +1,8 @@
 ---
 title: "Zottegem"
 type: location
+latitude: 50.864231
+longitude: 3.810269
 ---
 
 Travel Guide

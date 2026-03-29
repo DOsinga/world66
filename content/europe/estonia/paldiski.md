@@ -1,6 +1,8 @@
 ---
 title: "Paldiski"
 type: location
+latitude: 59.349089
+longitude: 24.080174
 ---
 
 We currently have no information about Paldiski.

@@ -1,6 +1,8 @@
 ---
 title: "Daviston"
 type: location
+latitude: 33.052899
+longitude: -85.639678
 ---
 
 On the morning of 27 March 1814, General Andrew Jackson and an army of 3,300 men consisting of Tennessee militia, United States regulars and both Cherokee and Lower Creek allies attacked Chief Menawa and 1,000 Upper Creek or Red Stick warriors fortified in the "horseshoe" bend of the Tallapoosa River. To seal off the bend of the river, the Upper Creeks built an incredibly strong 400 yard long barricade made of dirt and logs. As the Cherokee and Lower Creek warriors swam the Tallapoosa and attacked from the rear, Jackson launched the militia and regular soldiers against the barricade.

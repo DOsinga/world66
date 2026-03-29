@@ -1,6 +1,8 @@
 ---
 title: "Menton"
 type: location
+latitude: 43.775349
+longitude: 7.502921
 ---
 
 Travel Guide

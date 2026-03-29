@@ -1,6 +1,8 @@
 ---
 title: "Regina"
 type: location
+latitude: 50.447973
+longitude: -104.615876
 ---
 
 Regina is the capital of Saskatchewan. If you would like to recommend any feature of this city to other travellers, please send us the information. 

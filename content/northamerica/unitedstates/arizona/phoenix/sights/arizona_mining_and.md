@@ -6,6 +6,8 @@ opening_hours: "Open Hours8a-5p M-F, 11a-4p Sa"
 phone: "+1 602 771 1600"
 type: "Hotspots"
 url: "mines.az.gov"
+latitude: 33.448538
+longitude: -112.09187
 ---
 
 If you have any interest in rocks and gems then the Arizona Mining and Mineral Museum is definitely the place for you. With a wide variety of exhibits that include fossils, mineral samples, turquoise ore, meteorites, moon rocks, this museum will have everything you need to take a closer look at Phoenix’ past. If you are interested in purchasing minerals and rocks, the gift shop offers a wide variety of product for the eager customer to consume. Before looking at other Phoenix attractions, make your way to Ross Mofford’s personal collection, where tons of Arizona memorabilia is contained in its very own exibit.

@@ -8,6 +8,8 @@ phone: "56 32 2498192"
 price: "$30 US average"
 type: "International"
 url: "restaurantlaconcepcion.cl"
+latitude: -32.50493
+longitude: -71.453308
 ---
 
 A traditional, but informal atmosphere characterizes the dining

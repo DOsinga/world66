@@ -1,6 +1,8 @@
 ---
 title: "Miri"
 type: location
+latitude: 4.39401
+longitude: 113.98802
 ---
 
 Travel Guide

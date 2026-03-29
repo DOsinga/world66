@@ -1,6 +1,8 @@
 ---
 title: "Budgam"
 type: location
+latitude: 33.909875
+longitude: 74.627036
 ---
 
 Travel Guide

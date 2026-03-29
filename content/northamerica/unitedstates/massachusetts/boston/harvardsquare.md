@@ -1,6 +1,8 @@
 ---
 title: "Harvard Square"
 type: location
+latitude: 42.373473
+longitude: -71.118943
 ---
 
 Over the Charles River in [Cambridge](/northamerica/unitedstates/massachusetts/cambridge), Harvard Square is the place to be. Home of the famous Harvard University, founded in 1636, it is often frequented by tourists looking to put a place to a name. Aside from the University, however, is an area which used to be home to unique shops and restaurants, more recently taken over by the influx of chain stores in the main square, with the kitschy spots on the radius of the hub of Harvard College.

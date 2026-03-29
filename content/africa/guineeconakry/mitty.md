@@ -1,6 +1,8 @@
 ---
 title: "mitty"
 type: location
+latitude: 10.832157
+longitude: -12.319328
 ---
 
 Travel Guide

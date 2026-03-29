@@ -1,6 +1,8 @@
 ---
 title: "Baijnath"
 type: location
+latitude: 32.053021
+longitude: 76.672197
 ---
 
 Travel Guide

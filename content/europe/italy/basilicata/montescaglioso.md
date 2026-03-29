@@ -1,6 +1,8 @@
 ---
 title: "Montescaglioso"
 type: location
+latitude: 40.552221
+longitude: 16.666887
 ---
 
 Travel Guide

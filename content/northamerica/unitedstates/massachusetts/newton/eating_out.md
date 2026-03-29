@@ -4,6 +4,8 @@ type: section
 address: "344 Eliot St."
 phone: "617 527 6271"
 type: "Local"
+latitude: 42.266793
+longitude: -71.083511
 ---
 
 Since it's so close to the city, and home to a diverse and affluent population, Newton does not lack for great places to eat. From traditional "mom and pop" one of a kind restaurants to upscale chain restaurants, Newton caters to most peoples' tastebuds. High schoolers can be found crowding local sub shops (*Bob's Sub Stop* in Newton Upper Falls and *Mighty Subs* on Needham Street are local favorites) and bagel shops (*Finagle a Bagel* on Route 9 and East Coast favorite *Dunkin Donuts*), while adults can enjoy a meal at the upscale *Capital Grille* on Route 9 or the family *Cheesecake Factory* in the Atrium Mall. However, for good restaurants in Newton, prepare for a long wait because they are high in demand. The city provides a balanced mix of commercial restaurants and local favorites that give residents and visitors plenty of eating choices for a mid-sized suburb.

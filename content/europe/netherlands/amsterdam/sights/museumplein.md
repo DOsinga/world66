@@ -3,6 +3,8 @@ title: "Museumplein"
 type: poi
 address: "Museumplein"
 type: "Squares"
+latitude: 52.357271
+longitude: 4.88154
 ---
 
 Totally redesigned in 2000, the Museumplein is more of a park than a

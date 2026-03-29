@@ -5,6 +5,8 @@ address: "Malaga"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 36.721303
+longitude: -4.421637
 ---
 
 On this half day private tour you will visit Malaga Cathedral, Castle and the House Musuem of the famous artist Pablo Picasso…

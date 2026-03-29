@@ -1,6 +1,8 @@
 ---
 title: "Gävle"
 type: location
+latitude: 60.675013
+longitude: 17.146702
 ---
 
 Travel Guide

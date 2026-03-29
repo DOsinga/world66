@@ -8,6 +8,8 @@ phone: "561 368 6880"
 price: "$8-$35"
 type: "Middle East"
 url: "www.eilatcafe.com"
+latitude: 26.332615
+longitude: -80.150742
 ---
 
 Kosher dairy restaurant in Boca Raton Fl, fresh fish, pastas, salads and pizza. Great for vegetarians and vegans too as no meat or meat products used. Under the Orthodox Rabbinical Board so strictly kosher. Lakeside deck and seating, beer and wine license.

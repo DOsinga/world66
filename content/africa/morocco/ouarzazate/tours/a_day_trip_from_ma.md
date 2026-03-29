@@ -5,6 +5,8 @@ address: "Ouarzazate Morocco"
 email: "info@ouarzazate-unlimited.com"
 phone: "00212661301853"
 url: "www.ouarzazate-unlimited.com"
+latitude: 30.920193
+longitude: -6.910923
 ---
 
 If you are already in Marrakech for a short stay and you're seeking a day trip to taste the beauty of the southern Morocco, to cross the snow-capped peaks of the Atlas Mountains, to visit the classified village of Ait benhaddou by the UNESCO world heritage and admire the old decorations used for movies tournament in the area including the cinema studios closed to Ouarzazate city, do not hesitate to give us a call to +212661301853 or email us to : enquiries@ouarzazate-unlimited.com , we will arrange the trip for you in best conditions and affordable prices.

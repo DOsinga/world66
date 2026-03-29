@@ -1,6 +1,8 @@
 ---
 title: "Mari"
 type: location
+latitude: 34.550134
+longitude: 40.888427
 ---
 
 We currently have no information about Mari.

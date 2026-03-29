@@ -6,6 +6,8 @@ address: "kluang"
 phone: "07"
 price: "less than 50"
 type: "African"
+latitude: 2.032347
+longitude: 103.319077
 ---
 
 All the about the food and where to go, well I've stayed in Kluang most of my life. Its a pretty small town with the exceptional of Kluang Rail Coffee. Maybe people would not even know where the heck is Kluang. The food here is great if you know where to go. Here is a list of places worth going to.

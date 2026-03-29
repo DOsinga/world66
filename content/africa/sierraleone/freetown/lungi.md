@@ -1,6 +1,8 @@
 ---
 title: "Lungi"
 type: location
+latitude: 7.965266
+longitude: -11.634904
 ---
 
 Travel Guide

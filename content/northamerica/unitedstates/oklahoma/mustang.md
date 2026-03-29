@@ -1,6 +1,8 @@
 ---
 title: "Mustang"
 type: location
+latitude: 35.384227
+longitude: -97.724481
 ---
 
 Travel Guide

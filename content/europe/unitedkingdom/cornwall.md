@@ -1,6 +1,8 @@
 ---
 title: "Cornwall"
 type: location
+latitude: 50.443349
+longitude: -4.624657
 ---
 
 Travel Guide

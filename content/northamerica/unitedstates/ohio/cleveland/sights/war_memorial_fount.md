@@ -3,6 +3,8 @@ title: "War Memorial Fountain"
 type: poi
 address: "Civic Center"
 type: "Fountains and statues"
+latitude: 37.779594
+longitude: -122.416794
 ---
 
 This fountain is a memorial to the 4,000 Clevelanders who perished in World War II and the Korean War whose names are engraved on bronze plates. The figure represents humanity humanity reaching for peace, and it was designed by Marshall Fredericks and installed on the mall of the Civic Center in 1964.

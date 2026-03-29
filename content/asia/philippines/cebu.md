@@ -1,6 +1,8 @@
 ---
 title: "Cebu"
 type: location
+latitude: 10.47
+longitude: 123.83
 ---
 
 Travel Guide

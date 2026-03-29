@@ -1,6 +1,8 @@
 ---
 title: "Nanyuki"
 type: location
+latitude: 0.01403
+longitude: 37.074632
 ---
 
 Nanyuki is a medium sized town northwest of Mt Kenya. The town has one of the most beautiful views of the mountain, and is a hub for trekkers climbing the Sirimon and Burguret routes. 

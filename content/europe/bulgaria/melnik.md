@@ -1,6 +1,8 @@
 ---
 title: "Melnik"
 type: location
+latitude: 41.522942
+longitude: 23.393246
 ---
 
 We currently have no information about Melnik.

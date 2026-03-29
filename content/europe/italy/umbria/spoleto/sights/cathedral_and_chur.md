@@ -1,6 +1,8 @@
 ---
 title: "Cathedral and churches"
 type: poi
+latitude: 39.218764
+longitude: 9.116982
 ---
 
 In spite of its fine Roman remains, Spoleto will strike you as a largely mediaeval town. 

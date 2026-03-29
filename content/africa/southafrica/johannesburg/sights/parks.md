@@ -1,6 +1,8 @@
 ---
 title: "Parks"
 type: poi
+latitude: -26.190164
+longitude: 28.11583
 ---
 
 **Sights**

@@ -2,6 +2,8 @@
 title: "AirEuropa"
 type: poi
 url: "www.aireuropa.com"
+latitude: 38.287955
+longitude: -0.552569
 ---
 
 This charter airline from Spain also has some good deals.

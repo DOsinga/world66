@@ -1,9 +1,12 @@
 ---
 title: "Fischerhaus"
 type: poi
+latitude: 47.772614
+longitude: 9.309798
 ---
 
-Specialized in fish, regional and Vegetarina dishes, open evry day 
+Specialized in fish, regional and Vegetarina dishes, open evry day
+ 
 
 address: St. Pauli Fischmarkt 14
 

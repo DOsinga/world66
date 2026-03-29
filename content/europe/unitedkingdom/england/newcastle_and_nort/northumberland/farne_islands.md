@@ -1,6 +1,8 @@
 ---
 title: "Farne Islands"
 type: location
+latitude: 55.616665
+longitude: -1.6558
 ---
 
 The Farne Islands, a Paradise for seabirds, particularly puffins and for seals, both common and grey, are reached by boat from the village of Seahouses on the Northumberland coast.

@@ -1,6 +1,8 @@
 ---
 title: "Heze China"
 type: location
+latitude: 35.225057
+longitude: 115.472021
 ---
 
 Travel Guide

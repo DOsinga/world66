@@ -1,6 +1,8 @@
 ---
 title: "Epinal"
 type: location
+latitude: 48.174768
+longitude: 6.450364
 ---
 
 We currently have no information about Epinal.

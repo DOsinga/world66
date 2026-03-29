@@ -1,6 +1,8 @@
 ---
 title: "Okemah"
 type: location
+latitude: 35.432585
+longitude: -96.305006
 ---
 
 Travel Guide

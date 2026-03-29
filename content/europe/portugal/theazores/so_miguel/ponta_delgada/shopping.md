@@ -5,6 +5,8 @@ address: "Rua da Juventude, 9500-211"
 phone: "296 307 575"
 type: "Shopping centers and malls"
 url: "www.parqueatlanticoshopping.pt"
+latitude: 37.747453
+longitude: -25.676227
 ---
 
 Shopping is not the main reason that one visits the Azores, but it can keep you busy for a day or so.

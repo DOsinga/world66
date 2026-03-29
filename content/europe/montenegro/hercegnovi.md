@@ -1,6 +1,8 @@
 ---
 title: "Herceg-novi"
 type: location
+latitude: 42.451762
+longitude: 18.536752
 ---
 
 Travel Guide

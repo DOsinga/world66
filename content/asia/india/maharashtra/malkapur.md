@@ -1,6 +1,8 @@
 ---
 title: "Malkapur"
 type: location
+latitude: 20.891958
+longitude: 76.204035
 ---
 
 Malkapur is a City of Historic Value.

@@ -1,6 +1,8 @@
 ---
 title: "Tulamba"
 type: location
+latitude: 30.526476
+longitude: 72.240494
 ---
 
 Travel Guide

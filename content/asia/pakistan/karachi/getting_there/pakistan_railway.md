@@ -5,6 +5,8 @@ email: "dskarachi@pr.gov.pk"
 phone: "92-021-9213500"
 type: "By Rail"
 url: "www.pakrail.com"
+latitude: 24.839592
+longitude: 67.02613
 ---
 
 Pakistan Railway forms the life line of the country by catering to its needs for large scale movement of freight as well as passenger traffic. It not only contributes to its economic growth but also promotes national integration.

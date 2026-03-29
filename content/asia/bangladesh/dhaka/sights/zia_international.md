@@ -3,6 +3,8 @@ title: "Zia International Airport"
 type: poi
 address: "Uttara"
 type: "Squares"
+latitude: 20.204011
+longitude: 85.856566
 ---
 
 Zia International Airport (IATA: DAC, ICAO: VGZR) (Bengali: Zia Antorjatik Bimanbôndor) is the largest airport in Bangladesh located in Uttara, Dhaka. It started operation in 1981, and was named after Bangladesh's former president, Ziaur Rahman. It is the home base and hub of Biman Bangladesh Airlines and GMG Airlines.

@@ -1,6 +1,8 @@
 ---
 title: "Rangareddy"
 type: location
+latitude: 16.934415
+longitude: 77.778834
 ---
 
 We currently have no information about Rangareddy.

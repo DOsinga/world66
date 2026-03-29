@@ -1,6 +1,8 @@
 ---
 title: "Albania"
 type: location
+latitude: 41.000028
+longitude: 19.999962
 ---
 
 Albania is located in the south-eastern coast of the Adriatic Sea, Albania is a small country bordered by Yugoslavia and Greece. The country has witnessed many vicissitudes in its eventful history-from fleeing refugees and blood vendettas, to years of dictatorial rule. Yet, Albania manages to offer tourists the traditional Mediterranean charm and a heady blend of different religions, cultures and landscapes. 

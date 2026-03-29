@@ -1,6 +1,8 @@
 ---
 title: "Figueira da foz"
 type: location
+latitude: 40.148581
+longitude: -8.855655
 ---
 
 We currently have no information about Figueira da foz.

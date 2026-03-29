@@ -1,6 +1,8 @@
 ---
 title: "Adana"
 type: location
+latitude: 36.98636
+longitude: 35.325286
 ---
 
 We currently have no information about Adana.

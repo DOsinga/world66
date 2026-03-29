@@ -1,6 +1,8 @@
 ---
 title: "Newfane"
 type: location
+latitude: 43.286723
+longitude: -78.710312
 ---
 
 Travel Guide

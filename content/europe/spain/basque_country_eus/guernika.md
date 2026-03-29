@@ -1,6 +1,8 @@
 ---
 title: "Guernika"
 type: location
+latitude: 42.992426
+longitude: -3.008872
 ---
 
 Guernika is most famous for the painting by Pablo Picasso - they have a copy of it in the local museum, the original is in

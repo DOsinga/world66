@@ -1,6 +1,8 @@
 ---
 title: "Huddersfield"
 type: location
+latitude: 53.646664
+longitude: -1.782248
 ---
 
 Huddersfield is located in the northern part of England, close to Manchester. It's a nice town with a few goof sights and worth a visit.

@@ -4,6 +4,8 @@ type: poi
 address: "Sterntorbrücke 4"
 phone: "+49-228-65 06 10"
 type: "Local"
+latitude: 50.736839
+longitude: 7.097332
 ---
 
 A must for everyone that is new in Bonn. The kitchen is home cooking

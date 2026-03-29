@@ -1,6 +1,8 @@
 ---
 title: "Tula"
 type: location
+latitude: 54.193032
+longitude: 37.61754
 ---
 
 **Tula** is one of the oldest cities in Russia that has been founded in 1146. 

@@ -1,6 +1,8 @@
 ---
 title: "Waynoka"
 type: location
+latitude: 36.582256
+longitude: -98.879814
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Siong Lim Temple"
 type: poi
 address: "184E Jalan Toa Payoh"
 type: "Hotspots"
+latitude: 1.330012
+longitude: 103.864253
 ---
 
 This is the oldest Buddhist Temple in Singapore. Built in 1898, 79 years after the founding of modern Singapore. The building of Siong Lim was initiated by a local business Mr. Low Kim Pong. Donations for its construction came from all over south east asia. It is built in the style of a cong lin monastery. The layout is similiar to most Chinese Mahayana monastery so visiting this place offers a blueprint to understand Buddhist monasteries in general.

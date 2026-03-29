@@ -7,6 +7,8 @@ phone: "03096516211"
 price: "5,90€-13,50€"
 type: "Indian and Pakistani"
 url: "www.Karma-berlin.de"
+latitude: 52.447385
+longitude: 13.396882
 ---
 
 Karma restaurant indische,nepalesische & tibetische Hochland Küche

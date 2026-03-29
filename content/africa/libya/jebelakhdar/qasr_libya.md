@@ -1,6 +1,8 @@
 ---
 title: "QASR LIBYA"
 type: location
+latitude: 32.614438
+longitude: 21.399456
 ---
 
 Travel Guide

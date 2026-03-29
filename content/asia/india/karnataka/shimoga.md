@@ -1,6 +1,8 @@
 ---
 title: "Shimoga"
 type: location
+latitude: 14.05565
+longitude: 75.238055
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Lynton and Lynmouth"
 type: location
+latitude: 51.204884
+longitude: -3.850564
 ---
 
 These are twin villages in the Devon section of the National Park. They are linked by a funicular railway or, if you like driving really steep hills, this is your chance. You will have to anyway if you want to see Lynmouth, on the coast and the beautiful Valley of hte Rocks which stretches westward from Lynton.

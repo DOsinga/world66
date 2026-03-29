@@ -5,6 +5,8 @@ address: "1 Philips Drive"
 phone: "(404) 878-3000"
 type: "Hotspots"
 url: "www.philipsarena.com"
+latitude: 33.75737
+longitude: -84.396385
 ---
 
 Philips Arena is located in downtown Atlanta, near many of the city's other attractions including the Georgia Dome, [CNN Center](/northamerica/unitedstates/georgia/atlanta/cnn_center), and Centennial Olympic Park. The arena is home to the National Basketball Association's Atlanta Hawks and the National Hockey League's Atlanta Thrashers, as well as the host venue for many concerts, conventions and exhibitions.

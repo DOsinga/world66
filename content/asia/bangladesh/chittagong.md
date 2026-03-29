@@ -1,6 +1,8 @@
 ---
 title: "Chittagong"
 type: location
+latitude: 22.333778
+longitude: 91.834435
 ---
 
 Travel Guide

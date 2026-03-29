@@ -1,6 +1,8 @@
 ---
 title: "Nerja"
 type: location
+latitude: 36.746856
+longitude: -3.879016
 ---
 
 Nerja is located at the foot of the Sierra Tejera on soaring cliffs high above the sea some 50 kms to the east of

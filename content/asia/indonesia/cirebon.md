@@ -1,6 +1,8 @@
 ---
 title: "Cirebon"
 type: location
+latitude: -6.713704
+longitude: 108.560848
 ---
 
 Travel Guide

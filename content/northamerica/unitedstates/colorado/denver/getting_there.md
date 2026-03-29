@@ -5,6 +5,8 @@ address: "8500 Peña Boulevard, Denver, Colorado"
 phone: "303-342-2000"
 type: "By Air"
 url: "www.flydenver.com"
+latitude: 39.860668
+longitude: -104.685367
 ---
 
 ### [Denver International Airport](/northamerica/unitedstates/colorado/denver/gettingthere/denver_internation)

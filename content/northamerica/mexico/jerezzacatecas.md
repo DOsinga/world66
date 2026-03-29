@@ -1,6 +1,8 @@
 ---
 title: "Jerez Zacatecas"
 type: location
+latitude: 26.874167
+longitude: -101.402642
 ---
 
 We currently have no information about Jerez Zacatecas.

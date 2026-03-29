@@ -5,6 +5,8 @@ address: "Kolkata"
 phone: "9831266077"
 type: "Shopping centers and malls"
 url: "www.righttoys.in"
+latitude: 22.572646
+longitude: 88.363895
 ---
 
 Normal

@@ -1,6 +1,8 @@
 ---
 title: "Bodo"
 type: location
+latitude: 67.284431
+longitude: 14.38175
 ---
 
 **BODØ** 

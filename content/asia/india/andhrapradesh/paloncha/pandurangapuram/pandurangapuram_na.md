@@ -1,6 +1,8 @@
 ---
 title: "pandurangapuram nandyal"
 type: location
+latitude: 15.439879
+longitude: 78.433226
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Skye"
 type: location
+latitude: 57.363018
+longitude: -6.302346
 ---
 
 For centuries and centuries the MacLeods and the macDonalds disputed the Misty Island. And for good reason, the closest Hebridean island to the mainland is of a fierce beauty, with daunting mountain ranges, lush stretches of greenery and a dented coastline.

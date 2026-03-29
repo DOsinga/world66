@@ -5,6 +5,8 @@ address: "via gramsci 85"
 email: "rentalbikevenice@gmail.com"
 phone: "39346 847 1141"
 url: "rentalbikevenice.blogspot.com"
+latitude: 37.247917
+longitude: 15.221052
 ---
 
 daily cost from 8am to 8pm = 12 euro

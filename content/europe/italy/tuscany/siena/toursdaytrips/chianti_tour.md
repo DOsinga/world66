@@ -5,6 +5,8 @@ address: "2Be In Siena"
 email: "info@2beinsiena.com"
 phone: "3349363253"
 url: "www.2beinsiena.com"
+latitude: 43.357798
+longitude: 11.314745
 ---
 
 Day tour in which you can visit the lovely medieval village of Castellina in Chianti, driving through the famous road "Chiantigiana" also called the road of wine, and wine tasting of the Chianti red wine in a typical winery.

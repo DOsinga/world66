@@ -1,6 +1,8 @@
 ---
 title: "Hisarya"
 type: location
+latitude: 42.513279
+longitude: 24.694845
 ---
 
 We currently have no information about Hisarya.

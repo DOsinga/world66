@@ -1,6 +1,8 @@
 ---
 title: "The Finger Lakes"
 type: location
+latitude: 42.151524
+longitude: -77.063574
 ---
 
 Travel Guide

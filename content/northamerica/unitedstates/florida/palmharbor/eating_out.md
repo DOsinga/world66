@@ -6,6 +6,8 @@ email: "thirstymarlin@verizon.net"
 phone: "727 784 3469"
 type: "American"
 url: "www.thirstymarlin.com"
+latitude: 28.078279
+longitude: -82.766412
 ---
 
 ### [Thirsty Marlin](/northamerica/unitedstates/florida/palmharbor/eatingout/thirsty_marlin)

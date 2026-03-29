@@ -3,6 +3,8 @@ title: "Birdland"
 type: poi
 address: "3-10-3 Roppongi"
 type: "Jazz"
+latitude: 35.662457
+longitude: 139.733498
 ---
 
 One of many clubs in the same building. Birdland is an intimate jazz club worth checking out.

@@ -1,6 +1,8 @@
 ---
 title: "Holon"
 type: location
+latitude: 32.019312
+longitude: 34.780408
 ---
 
 Travel Guide

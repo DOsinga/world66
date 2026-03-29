@@ -1,6 +1,8 @@
 ---
 title: "Neva valley"
 type: location
+latitude: 46.146416
+longitude: 11.907394
 ---
 
 We currently have no information about Neva valley.

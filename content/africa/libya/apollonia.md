@@ -1,6 +1,8 @@
 ---
 title: "Apollonia"
 type: location
+latitude: 32.897843
+longitude: 21.96507
 ---
 
 We currently have no information about Apollonia.

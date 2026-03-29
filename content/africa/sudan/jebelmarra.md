@@ -1,6 +1,8 @@
 ---
 title: "Jebel marra"
 type: location
+latitude: 13.166667
+longitude: 24.366667
 ---
 
 We currently have no information about Jebel marra.

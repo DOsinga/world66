@@ -5,6 +5,8 @@ address: "Hallbergsplatsen 2"
 phone: "+46 33 - 108200"
 type: "Clubs and dancing"
 url: "www.firsthotelgrand.se"
+latitude: 57.719314
+longitude: 12.937322
 ---
 
 A hotel with a large night club area in the lower floors.

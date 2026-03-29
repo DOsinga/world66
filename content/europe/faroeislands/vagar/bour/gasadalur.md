@@ -1,6 +1,8 @@
 ---
 title: "Gasadalur"
 type: location
+latitude: 62.109738
+longitude: -7.436009
 ---
 
 Travel Guide

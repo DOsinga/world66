@@ -4,6 +4,8 @@ type: poi
 address: "Canal Bank Road"
 type: "Public Buildings"
 url: "www.pu.edu.pk"
+latitude: 13.023488
+longitude: 80.255498
 ---
 
 Established in 1882 at Lahore, the University of

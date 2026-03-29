@@ -1,6 +1,8 @@
 ---
 title: "Mexico City"
 type: location
+latitude: 19.320772
+longitude: -99.151468
 ---
 
 Mexico city is located on the spot where the Aztecs built their capital city Tenochtitlan. That city impressed the Spaniards when the first arrived by the beautiful setting in the middle of a lake. The present day Mexico City is sure to impress you, but for completely different reasons. 

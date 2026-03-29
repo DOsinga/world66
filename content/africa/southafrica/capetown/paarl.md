@@ -1,6 +1,8 @@
 ---
 title: "Paarl"
 type: location
+latitude: -33.731028
+longitude: 18.964212
 ---
 
 50 km north-east of Cape Town, Paarl is one of the three oldest European settlements in South Africa. Here in 1687, on the banks of the Berg River, farmlands were given to Dutch settlers, just 30 years after Jan van Riebeeck's landing at the Cape. The fertile ground and the Mediterranean climate provided perfect conditions for farming. The settlers planted orchards, vegetable gardens and above all, vineyards.

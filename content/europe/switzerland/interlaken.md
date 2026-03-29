@@ -1,6 +1,8 @@
 ---
 title: "Interlaken"
 type: location
+latitude: 46.685523
+longitude: 7.858514
 ---
 
 Interlaken is the secret capital Switzerland's beautiful Bernese Oberland. The town is located between the lakes of Thun and Brienz, at the foot of the towering trio of the Eiger, Mönch & Jungfrau. Located in the German-speaking heart of Switzerland, Interlaken offers winter sport's fans access to some of the most spectacular skiing in the Alps, with their base in a service-packed small city in a spectacular lakeside setting. 

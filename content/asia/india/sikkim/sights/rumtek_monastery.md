@@ -2,6 +2,8 @@
 title: "Rumtek Monastery"
 type: poi
 type: "Hotspots"
+latitude: 27.288758
+longitude: 88.56142
 ---
 
 Built in – 1960 A 24 km drive from Gangtok will take you to Rumtek

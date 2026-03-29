@@ -5,6 +5,8 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
+latitude: 29.850964
+longitude: 31.220947
 ---
 
 Enjoy a day tour in Alexandria,It is the most important City in Egypt after Cairo (the second capital) and one of the most summer resort in the Middle East..join now.

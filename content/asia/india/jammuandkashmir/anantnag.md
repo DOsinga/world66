@@ -1,6 +1,8 @@
 ---
 title: "Anantnag"
 type: location
+latitude: 33.74611
+longitude: 75.185447
 ---
 
 Travel Guide

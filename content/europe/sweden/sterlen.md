@@ -1,6 +1,8 @@
 ---
 title: "Österlen"
 type: location
+latitude: 55.599331
+longitude: 14.114107
 ---
 
 Travel Guide

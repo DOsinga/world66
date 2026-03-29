@@ -1,6 +1,8 @@
 ---
 title: "Three Forks"
 type: location
+latitude: 45.892606
+longitude: -111.551448
 ---
 
 Travel Guide

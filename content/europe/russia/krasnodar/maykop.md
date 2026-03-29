@@ -1,6 +1,8 @@
 ---
 title: "Maykop"
 type: location
+latitude: 44.606208
+longitude: 40.104053
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Qormi"
 type: location
+latitude: 35.877464
+longitude: 14.47396
 ---
 
 We currently have no information about Qormi.

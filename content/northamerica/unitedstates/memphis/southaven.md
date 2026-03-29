@@ -1,6 +1,8 @@
 ---
 title: "Southaven"
 type: location
+latitude: 34.987382
+longitude: -90.003486
 ---
 
 Travel Guide

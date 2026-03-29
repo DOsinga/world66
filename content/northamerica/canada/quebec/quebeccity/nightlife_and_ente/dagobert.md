@@ -6,6 +6,8 @@ address: "Grande-Allée"
 closing_time: "3 AM"
 email: "www.dagobert.ca"
 type: "Clubs and dancing"
+latitude: 48.786926
+longitude: 2.391569
 ---
 
 That is the club to go!!!

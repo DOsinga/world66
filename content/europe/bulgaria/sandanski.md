@@ -1,6 +1,8 @@
 ---
 title: "Sandanski"
 type: location
+latitude: 41.565416
+longitude: 23.278643
 ---
 
 Travel Guide

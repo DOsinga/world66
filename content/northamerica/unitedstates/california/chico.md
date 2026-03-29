@@ -1,6 +1,8 @@
 ---
 title: "Chico"
 type: location
+latitude: 39.728494
+longitude: -121.837478
 ---
 
 Travel Guide

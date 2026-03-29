@@ -1,6 +1,8 @@
 ---
 title: "Winfield"
 type: location
+latitude: 37.239749
+longitude: -96.995592
 ---
 
 Travel Guide

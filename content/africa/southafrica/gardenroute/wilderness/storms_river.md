@@ -1,6 +1,8 @@
 ---
 title: "Storms River"
 type: location
+latitude: -33.961996
+longitude: 23.931055
 ---
 
 Travel Guide

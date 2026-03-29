@@ -7,6 +7,8 @@ email: "sales@globalflowerdelivery.com"
 phone: "912026133809"
 type: "Shopping centers and malls"
 url: "www.punegiftsflowers.com"
+latitude: 18.521374
+longitude: 73.854507
 ---
 
 We are online florist for delivery of flowers and gifts to 250

@@ -1,6 +1,8 @@
 ---
 title: "Tampa"
 type: location
+latitude: 27.944985
+longitude: -82.458311
 ---
 
 Travel Guide

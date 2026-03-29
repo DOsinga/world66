@@ -1,6 +1,8 @@
 ---
 title: "Tabarjal"
 type: location
+latitude: 30.500676
+longitude: 38.216505
 ---
 
 Travel Guide

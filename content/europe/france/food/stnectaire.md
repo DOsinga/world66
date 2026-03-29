@@ -1,6 +1,8 @@
 ---
 title: "St. Nectaire"
 type: poi
+latitude: 45.588527
+longitude: 2.992456
 ---
 
 "/>

@@ -6,6 +6,8 @@ phone: "070 - 345 52 91"
 price: "22"
 type: "Italian"
 url: "www.dasebastiano.nl"
+latitude: 52.089541
+longitude: 4.310985
 ---
 
 Lovely Italian restaurant on the beautiful Javastraat, close to the city center.

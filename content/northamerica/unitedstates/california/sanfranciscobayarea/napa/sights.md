@@ -4,6 +4,8 @@ type: section
 address: "151 Camino Dorado"
 phone: "94558 707/252-3408"
 type: "general"
+latitude: 38.22919
+longitude: -122.256985
 ---
 
 ### [Napa Seguin Moreau Napa Cooperage](/northamerica/unitedstates/california/sanfranciscobayarea/napa/sights/napaseguinmoreaunapacooperage)

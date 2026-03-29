@@ -2,6 +2,8 @@
 title: "Julia"
 type: poi
 email: "stargirl5@comcast.net"
+latitude: 10.505269
+longitude: -66.811535
 ---
 
 July 24t is Simon Bolivars birthday. This is a well known holiday throughout venezuela because he is one of venezuela's most reveered citizens. Simon bolivar accomlished many thing throughout his 47 year life ( 1783-1830).

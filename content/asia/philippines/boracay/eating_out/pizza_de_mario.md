@@ -4,6 +4,8 @@ type: poi
 address: "Near station 3"
 phone: "036 288 3601"
 type: "African"
+latitude: 11.95061
+longitude: 121.935071
 ---
 
 Enjoy a reasonably priced pizza or pasta dish at Pizza de Mario, a beachfront restaurant with a relaxed ambience.

@@ -6,6 +6,8 @@ email: "info@sfs-salzgitter.de"
 phone: "0049-5341-8511-0"
 type: "Other"
 url: "www.salzgitter.de"
+latitude: 52.1497
+longitude: 10.302769
 ---
 
 Salzgitter Recreation

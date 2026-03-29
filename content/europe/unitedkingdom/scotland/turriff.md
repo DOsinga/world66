@@ -1,6 +1,8 @@
 ---
 title: "Turriff"
 type: location
+latitude: 57.537482
+longitude: -2.464084
 ---
 
 Travel Guide

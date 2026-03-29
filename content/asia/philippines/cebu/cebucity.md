@@ -1,6 +1,8 @@
 ---
 title: "Cebu City"
 type: location
+latitude: 10.293495
+longitude: 123.901818
 ---
 
 Cebu City is the capital and the main city of the island of Cebu. It is one of the oldest cities of the country and Colon Street is said to be the oldest street of the Philippines.

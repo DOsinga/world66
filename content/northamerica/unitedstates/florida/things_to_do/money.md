@@ -1,6 +1,8 @@
 ---
 title: "Money"
 type: poi
+latitude: 37.400697
+longitude: -76.520784
 ---
 
 BUY EVERYTHING YOU BUY

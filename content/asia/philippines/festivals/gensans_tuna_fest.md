@@ -5,6 +5,8 @@ address: "general santos city, Philippines"
 date: "February 14, 2009"
 email: "harlemjudeferolino@yahoo.com"
 phone: "304- 0275"
+latitude: 6.112222
+longitude: 125.172189
 ---
 
 **General Santos City** celebrated Tuna Festival during the month of September. Every year, lots of events gives life to the *GENERALS*, including:

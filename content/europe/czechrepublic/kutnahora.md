@@ -1,6 +1,8 @@
 ---
 title: "Kutna hora"
 type: location
+latitude: 49.948656
+longitude: 15.268112
 ---
 
 We currently have no information about Kutna hora.

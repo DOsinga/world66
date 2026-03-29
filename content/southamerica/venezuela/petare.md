@@ -1,6 +1,8 @@
 ---
 title: "Petare"
 type: location
+latitude: 10.47871
+longitude: -66.807223
 ---
 
 Travel Guide

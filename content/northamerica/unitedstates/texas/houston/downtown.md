@@ -1,6 +1,8 @@
 ---
 title: "Downtown"
 type: location
+latitude: 34.047996
+longitude: -118.2521
 ---
 
 That Familiar Skyline...

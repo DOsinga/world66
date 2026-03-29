@@ -4,6 +4,8 @@ type: poi
 address: "3, Tamar Mepe Ave."
 phone: "+99522253399"
 type: "Local"
+latitude: 41.662353
+longitude: 41.680692
 ---
 
 Despite the comparatively large size – holding 150 people- the restaurant creates a cozy atmosphere. The service is of high level. The highly-qualified staff and cooks will never disappoint even the great gourmets.

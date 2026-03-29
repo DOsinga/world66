@@ -1,6 +1,8 @@
 ---
 title: "Vardzia"
 type: location
+latitude: 41.380974
+longitude: 43.28447
 ---
 
 Vardzia is situated in South-West part of Georgia. It's a great sight, one of the most spectacular in the whole of Georgia. A complete monastery, with hundreds of cells of monks as well as a chruch carved out of the rock of a mountain overlooking the Kura river. 

@@ -1,6 +1,8 @@
 ---
 title: "Røros"
 type: location
+latitude: 62.569515
+longitude: 11.660441
 ---
 
 Røros is a town south of Trondheim not far from the Swedish border. Its history is based largely on copper mining and there are many remains of the industry there. There is also a bus trip arranged to the mine itself. The town is now a World Heritage site. 

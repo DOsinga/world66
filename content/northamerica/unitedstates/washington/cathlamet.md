@@ -1,6 +1,8 @@
 ---
 title: "Cathlamet"
 type: location
+latitude: 46.203167
+longitude: -123.383189
 ---
 
 Travel Guide

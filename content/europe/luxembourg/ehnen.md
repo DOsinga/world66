@@ -1,6 +1,8 @@
 ---
 title: "Ehnen"
 type: location
+latitude: 49.60204
+longitude: 6.386696
 ---
 
 We currently have no information about Ehnen.

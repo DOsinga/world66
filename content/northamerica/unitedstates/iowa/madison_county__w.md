@@ -1,6 +1,8 @@
 ---
 title: "Madison County & Winterset"
 type: location
+latitude: 41.335189
+longitude: -94.016041
 ---
 
 Travel Guide

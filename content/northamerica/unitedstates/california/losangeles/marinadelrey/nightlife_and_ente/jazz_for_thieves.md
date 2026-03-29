@@ -8,6 +8,8 @@ email: "jenniferscabaret@yahoo.com"
 phone: "805-708-1550 event info"
 type: "Jazz"
 url: "www.jazzforthieves.com"
+latitude: 33.98318
+longitude: -118.456691
 ---
 
 THE MARINA'S NEW CABARET - JAZZ FOR THIEVES

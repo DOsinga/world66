@@ -1,6 +1,8 @@
 ---
 title: "Furnas"
 type: location
+latitude: 37.772469
+longitude: -25.313307
 ---
 
 The town Furnas on the south coast of São Miguel has two main attractions: the volcanic activity and the botanical garden. The former can easily be seen at the lake Lagoa das Furnas, a few kilometres SW of the town. In a small scale it is similar to what can be seen in other volcanic areas like Iceland or Dominica: The odour of sulphur is heavy and small fumaroles of bubbling, boiling water can be seen here and there in the ground. Some of these are used for cooking of special food, later to be served at the restaurant in the town centre.

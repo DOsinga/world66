@@ -1,9 +1,12 @@
 ---
 title: "Il Girasole"
 type: poi
+latitude: 51.009108
+longitude: 13.783094
 ---
 
-Nice Italian restaurant specialized in fish. 
+Nice Italian restaurant specialized in fish.
+ 
 
 address: Kohlhöfen 6
 

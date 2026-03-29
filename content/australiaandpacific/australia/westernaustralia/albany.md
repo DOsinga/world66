@@ -1,6 +1,8 @@
 ---
 title: "Albany"
 type: location
+latitude: -35.024782
+longitude: 117.883608
 ---
 
 Established in 1826, Albany is the oldest European town in Western Australia. Before it was occupied by European settelers, the area was inhabited by Aboriginal people and there is much evidence of their historic presence, especially around Oyster Harbour. Thanks to it's excellent harbour, Albany was a thriving whaling town up to the 1970's, and when steamships started travelling between the UK and Australia, it also was coaling station. 

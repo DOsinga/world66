@@ -5,6 +5,8 @@ address: "350 Davie Street, Vancouver, BC, V6B 5Z6"
 phone: "1 604-642-0557"
 type: "Wine bars"
 url: "www.opusbar.ca"
+latitude: 49.274724
+longitude: -123.122703
 ---
 
 Painfully ‘hip’ bar/lounge inside the much-hyped Opus Hotel in

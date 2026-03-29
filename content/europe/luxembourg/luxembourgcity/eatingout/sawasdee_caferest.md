@@ -8,6 +8,8 @@ phone: "483345 - new not avail."
 price: "about 20 Euro"
 type: "Thai"
 url: "www.res24asia.com"
+latitude: 49.602859
+longitude: 6.141168
 ---
 
 The best thai food available in Luxembourg, cooked and served by Thai people. Nicely decorated interior too. And best of all, it's affordable and delicious. Also known as Thai cafe by people who go there often. It is recommended to reserve your table.

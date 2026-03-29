@@ -5,6 +5,8 @@ address: "123U Thuy Khue Street"
 email: "info@keytovietnam.com"
 phone: "+8442944911"
 url: "keytovietnam.com"
+latitude: 21.045626
+longitude: 105.813458
 ---
 
 Vietnam Train Travel provides the best opportunity to view the beautiful scenery while traveling through the country. The first railway tracks laid in Vietnam was from Saigon to Mytho in 1881. This gave birth to Vietnam Railways.

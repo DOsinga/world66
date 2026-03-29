@@ -1,6 +1,8 @@
 ---
 title: "Gangdong Beach"
 type: poi
+latitude: 35.626846
+longitude: 129.442625
 ---
 
 The Jeongja coast, incorporating Jeongja Harbour and Gangdong Beach, out along the north-east coast of Ulsan captures “the essence of the winter sea”. It is ideal place for a windswept lonesome visit and/or private reflection time. You’ll find it hard to believe that the city is still so close.

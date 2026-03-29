@@ -6,6 +6,8 @@ closing_time: "1 or 3 am"
 email: "info@theviking.lu"
 type: "Pubs"
 url: "www.theviking.lu"
+latitude: 49.59823
+longitude: 6.128736
 ---
 
 The Viking and is a 100% nordic/scandinavian place! It is situated a couple of minutes from the main trainstation in a street called, rue de Hollerich. Crazy atmosphere, nice drinks and friendly staff!

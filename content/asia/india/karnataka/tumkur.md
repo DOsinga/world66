@@ -1,6 +1,8 @@
 ---
 title: "Tumkur"
 type: location
+latitude: 13.340077
+longitude: 77.100621
 ---
 
 Tumkur, the seat of administration of Tumkur District, is a leading commercial, industrial and business center and a famous health resort in the Devarayanadurga Hills. It is situated 70 km north-west of Bangalore on the Bangalore– Pune highway.

@@ -1,6 +1,8 @@
 ---
 title: "Congonhas"
 type: location
+latitude: -20.501517
+longitude: -43.856459
 ---
 
 mg

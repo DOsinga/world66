@@ -7,6 +7,8 @@ email: "higibigizx14@gmail.com"
 phone: "+919886231329"
 type: "Speciality shops"
 url: "www.lovenwishes.com"
+latitude: 28.613895
+longitude: 77.209006
 ---
 
 Send Flowers to India, Cakes to India, Gifts to India, Chocolates toIndia. Same day Delivery

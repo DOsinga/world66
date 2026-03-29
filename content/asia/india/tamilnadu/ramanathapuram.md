@@ -1,6 +1,8 @@
 ---
 title: "Ramanathapuram"
 type: location
+latitude: 9.520558
+longitude: 78.518463
 ---
 
 We currently have no information about Ramanathapuram.

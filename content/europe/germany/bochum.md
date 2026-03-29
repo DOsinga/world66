@@ -1,6 +1,8 @@
 ---
 title: "Bochum"
 type: location
+latitude: 51.481811
+longitude: 7.219664
 ---
 
 Travel Guide

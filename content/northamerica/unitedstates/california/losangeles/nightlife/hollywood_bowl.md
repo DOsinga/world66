@@ -6,6 +6,8 @@ email: "museum@laphil.org"
 phone: "323-850-2058"
 type: "Concerts"
 url: "www.hollywoodbowl.com"
+latitude: 33.892467
+longitude: -118.414087
 ---
 
 Hollywood Bowl has been an L.A. institution since 1922 and only the world's greatest musicians perform here. The Rolling Stones, Jimi Hendrix, Sting, and Janis Joplin have all performed here. In addition to concerts of all kinds, Hollywood bowl also features the "Hollywood Bowl Museum" which offers a peek inside the fascinating history of the Bowl.

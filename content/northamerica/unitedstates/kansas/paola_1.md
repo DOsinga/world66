@@ -1,6 +1,8 @@
 ---
 title: "Paola"
 type: location
+latitude: 38.572332
+longitude: -94.878648
 ---
 
 Travel Guide

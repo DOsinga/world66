@@ -3,6 +3,8 @@ title: "Things to do in Morelos"
 type: section
 address: "Central Square"
 type: "Spa and Sauna"
+latitude: 43.287001
+longitude: -76.14636
 ---
 
 Please go to the main Puerto Morelos page on this site for this information

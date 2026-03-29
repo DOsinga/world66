@@ -1,6 +1,8 @@
 ---
 title: "The Palm"
 type: poi
+latitude: 34.0426
+longitude: -118.264062
 ---
 
 Great steakhouse!

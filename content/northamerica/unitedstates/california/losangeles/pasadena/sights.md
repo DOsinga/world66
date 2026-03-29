@@ -5,6 +5,8 @@ address: "1200 E. California Blvd. 91125"
 email: "mrowka207@excite.com"
 phone: "626/395-6811"
 type: "Hotspots"
+latitude: 34.135903
+longitude: -118.124228
 ---
 
 Here are a few suggestions for a visit.

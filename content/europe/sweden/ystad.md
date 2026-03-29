@@ -1,6 +1,8 @@
 ---
 title: "Ystad"
 type: location
+latitude: 55.42952
+longitude: 13.820117
 ---
 
 Travel Guide

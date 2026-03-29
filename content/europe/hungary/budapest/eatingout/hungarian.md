@@ -1,9 +1,12 @@
 ---
 title: "Hungarian"
 type: poi
+latitude: 47.501263
+longitude: 19.046134
 ---
 
-For the real taste of Hungary, try the local cuisine. Most people will know goulash, but there are many more traditional Hungarian recipes worth trying. Most of them do contain a fair amount of meat, so if you’re a vegetarian, you will probably not have much choice.  
+For the real taste of Hungary, try the local cuisine. Most people will know goulash, but there are many more traditional Hungarian recipes worth trying. Most of them do contain a fair amount of meat, so if you’re a vegetarian, you will probably not have much choice. 
+ 
 
 **Restaurants**
 
@@ -49,7 +52,8 @@ tel: 117-5910
 
 **Náncsi Néni**
 
-The name of this restaurant literally means Auntie Náncsi. It’s a favourite with the locals, and what you get is decent Hungarian home cooking at affordable prices. Couples get a free glass of champagne each. Book ahead if you can. 
+The name of this restaurant literally means Auntie Náncsi. It’s a favourite with the locals, and what you get is decent Hungarian home cooking at affordable prices. Couples get a free glass of champagne each. Book ahead if you can.
+ 
 
 address: Ördögárok útca 80
 
@@ -73,7 +77,8 @@ tel: 188-8745
 
 **Apostolok**
 
-Centrally located, this restaurant with the church like interior serves up a good meal. 
+Centrally located, this restaurant with the church like interior serves up a good meal.
+ 
 
 address: Kigyó u. 4-6
 
@@ -113,7 +118,8 @@ tel: 138-2759
 
 **Fatâl**
 
-Fatâl actually means 'wooden platter', which is how most dishes are presented to a mainly tourist clientele. Good, simple country food served at a reasonable price. No credit cards accepted. 
+Fatâl actually means 'wooden platter', which is how most dishes are presented to a mainly tourist clientele. Good, simple country food served at a reasonable price. No credit cards accepted.
+ 
 
 address: Váci u. 67
 
@@ -137,7 +143,11 @@ tel: 156-1446
 
 **Horgásztanya**
 
-** Gloria Goodman:** This is a very good restaurant. Not a touristy one either. Excellent food with very good service and very reasonably priced.   It's location is at the foot of Castle Hill opposite the Danube.  Wonderful. I highly recommend it.
+** Gloria Goodman:** This is a very good restaurant. Not a touristy one either. Excellent food with very good service and very reasonably priced. 
+ 
+ It's location is at the foot of Castle Hill opposite the Danube.
+ 
+ Wonderful. I highly recommend it.
 
 address: Fö u. 27
 
@@ -161,7 +171,8 @@ tel: 333-5972
 
 **Kárpátia Étterem**
 
-Excellent food but please save some place for a dessert, they are devine. 
+Excellent food but please save some place for a dessert, they are devine.
+ 
 
 fax: 318 0591
 
@@ -245,7 +256,8 @@ tel: 352-1395
 
 **Király**
 
-One of the Castle District's better restaurants, the Király serves mainly Hungarian fare in relaxed, elegant surroundings. Puddings are a strong point; the chestnut strudel in particular is recommended.  
+One of the Castle District's better restaurants, the Király serves mainly Hungarian fare in relaxed, elegant surroundings. Puddings are a strong point; the chestnut strudel in particular is recommended. 
+ 
 
 fax: 212-8566
 
@@ -255,7 +267,8 @@ tel: 212-8565/212-9891
 
 **Kis Buda Gyöngye**
 
-Charming restaurant in Óbuda, which roughly translated means 'small pearl of Buda'. Elegant setting, with a warm atmosphere and turn of the century feel. Well cooked traditional Hungarian specialities with a decent piano/violin duo to round things off nicely. 
+Charming restaurant in Óbuda, which roughly translated means 'small pearl of Buda'. Elegant setting, with a warm atmosphere and turn of the century feel. Well cooked traditional Hungarian specialities with a decent piano/violin duo to round things off nicely.
+ 
 
 address: Kenyeres u. 34
 

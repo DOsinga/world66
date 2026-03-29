@@ -2,6 +2,8 @@
 title: "Leduc"
 type: location
 type: "general"
+latitude: 53.260782
+longitude: -113.551168
 ---
 
 This town, south of Edmonton on Hwy. 2, and 5 minutes from the

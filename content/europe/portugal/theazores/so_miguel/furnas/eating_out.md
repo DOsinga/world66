@@ -4,6 +4,8 @@ type: section
 address: "Rua Dr. Frederico Moniz Pereira, 15"
 phone: "296 584 422 & 296 584 406"
 type: "Local"
+latitude: 37.773514
+longitude: -25.310171
 ---
 
 Furnas is frequently visited by tourists and has some restaurants that can be recommended.

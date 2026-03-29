@@ -6,6 +6,8 @@ email: "info@sendflowerstomumbai.com"
 phone: "00919897064001"
 type: "Shopping centers and malls"
 url: "www.sendflowerstomumbai.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 http://www.sendflowerstomumbai.com

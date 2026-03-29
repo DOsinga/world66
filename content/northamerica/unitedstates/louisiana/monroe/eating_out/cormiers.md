@@ -5,6 +5,8 @@ address: "Forsythe Ave"
 price: "$6 to $15"
 type: "Local"
 zipcode: "72101"
+latitude: 39.988861
+longitude: -83.012001
 ---
 
 Traditional cajun food served in a traditional Cajun fashion.. On picnic table while drinking a cold beer. 

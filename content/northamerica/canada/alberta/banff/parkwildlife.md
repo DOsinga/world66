@@ -1,6 +1,8 @@
 ---
 title: "Park & Wildlife"
 type: location
+latitude: 48.649846
+longitude: -67.271217
 ---
 
 Banff is a beautiful location full of natural wonders and thriving wildlife populations.
@@ -19,8 +21,11 @@ The Banff Centre is offering a new series called Live and Learn in which the par
 
 **Buffalo Paddock . **
 
-This drive-through enclosure contains wood bison. Visitors may drive into the area between May and Oct. Free admission.  Address: 1 km (0.6 mi) W of the Banff interchange, just off the Trans-Canada Hwy.  
+This drive-through enclosure contains wood bison. Visitors may drive into the area between May and Oct. Free admission. 
+ Address: 1 km (0.6 mi) W of the Banff interchange, just off the Trans-Canada Hwy. 
+ 
 
 **Cascade Gardens . **
 
-One of western Canada's finest historic landscapes. Enjoy gazebos, waterworks, pools and flower gardens.  Address: in the Park Administration building grounds at the S end of Banff Ave
+One of western Canada's finest historic landscapes. Enjoy gazebos, waterworks, pools and flower gardens. 
+ Address: in the Park Administration building grounds at the S end of Banff Ave

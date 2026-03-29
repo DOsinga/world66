@@ -1,6 +1,8 @@
 ---
 title: "Tiraspol"
 type: location
+latitude: 46.83711
+longitude: 29.610999
 ---
 
 We currently have no information about Tiraspol.

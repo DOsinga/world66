@@ -1,6 +1,8 @@
 ---
 title: "Kerala"
 type: location
+latitude: 10.352874
+longitude: 76.51204
 ---
 
 It’s up to you to decide whetherKerala is the most beautiful state of India. At least it is the greenest and is a melting pot of cultures, activities and other interesting sights. It is situated in the south of India with the Arabian sea along its western coast, that paved the way for international trade, and the mountain range of western Ghats on the east with its marvellous nature. It is the most literate state in India and travellers will soon find out that English is widely understood although the native language is Malayalam. 

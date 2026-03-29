@@ -4,6 +4,8 @@ type: poi
 address: "Kiev"
 email: "heel@mail.com"
 url: "thiscool.info"
+latitude: 50.450034
+longitude: 30.524136
 ---
 
 fortecultra lifetime bin

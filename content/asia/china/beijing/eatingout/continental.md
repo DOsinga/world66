@@ -1,6 +1,8 @@
 ---
 title: "Continental"
 type: poi
+latitude: 41.779451
+longitude: 123.371417
 ---
 
 **Restaurants**

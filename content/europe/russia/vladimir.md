@@ -1,6 +1,8 @@
 ---
 title: "Vladimir"
 type: location
+latitude: 56.12889
+longitude: 40.40752
 ---
 
 **Vladimir** one of the oldest and most famous cities of Russia is the center of the Vladimir region. 

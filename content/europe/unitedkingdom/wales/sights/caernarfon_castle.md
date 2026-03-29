@@ -2,6 +2,8 @@
 title: "Caernarfon Castle"
 type: poi
 type: "Hotspots"
+latitude: 53.139345
+longitude: -4.276846
 ---
 
 Built between 1283 and 1301, this castle was Edward I's most

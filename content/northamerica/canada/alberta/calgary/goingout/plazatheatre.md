@@ -3,6 +3,8 @@ title: "Plaza Theatre"
 type: location
 address: "1133 Kensington Rd NW"
 type: "Theatres"
+latitude: 51.052209
+longitude: -114.087933
 ---
 
 The city's longest-running art film theatre, specializing in first-run

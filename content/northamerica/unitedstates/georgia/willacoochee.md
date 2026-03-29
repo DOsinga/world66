@@ -1,6 +1,8 @@
 ---
 title: "Willacoochee"
 type: location
+latitude: 31.340755
+longitude: -83.045983
 ---
 
 ** ****WILLACOOCHEE HISTORY**

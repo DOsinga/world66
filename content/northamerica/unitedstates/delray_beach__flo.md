@@ -1,6 +1,8 @@
 ---
 title: "Delray Beach , Florida"
 type: location
+latitude: 26.461462
+longitude: -80.07282
 ---
 
 Known worldwide as a first-class resort town, Delray Beach is located

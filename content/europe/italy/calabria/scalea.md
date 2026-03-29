@@ -1,6 +1,8 @@
 ---
 title: "Scalea"
 type: location
+latitude: 39.81444
+longitude: 15.791422
 ---
 
 Travel Guide

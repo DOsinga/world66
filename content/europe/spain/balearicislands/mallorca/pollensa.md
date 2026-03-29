@@ -1,6 +1,8 @@
 ---
 title: "Pollensa"
 type: location
+latitude: 39.879207
+longitude: 3.01571
 ---
 
 Travel Guide

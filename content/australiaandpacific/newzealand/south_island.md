@@ -1,6 +1,8 @@
 ---
 title: "South Island"
 type: location
+latitude: -43.586562
+longitude: 171.212329
 ---
 
 The **South Island** of [New Zealand](/australiaandpacific/newzealand) is renown for its spectacular scenery. The majestic [Southern Alps](/europe/france/midi/southern_alps) run the length of the island, like its spine.

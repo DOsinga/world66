@@ -7,6 +7,8 @@ email: "hossam@goegyptonline.com"
 phone: "0020101709105"
 type: "Other"
 url: "www.goegyptonline.com"
+latitude: 26.254049
+longitude: 29.267547
 ---
 
 **Memphis Tours Egypt - Since 1955

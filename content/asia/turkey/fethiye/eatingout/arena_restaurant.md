@@ -5,6 +5,8 @@ address: "Milton Keynes"
 email: "martin_boundstaxis@yahoo.co.uk"
 phone: "07941101333"
 type: "Local"
+latitude: 52.04065
+longitude: -0.759409
 ---
 
 The Arena Restaurant is situated overlooking Palm Island and the marina

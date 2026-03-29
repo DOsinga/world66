@@ -2,6 +2,8 @@
 title: "Johor Bahru"
 type: poi
 type: "general"
+latitude: 1.452627
+longitude: 103.769254
 ---
 
 A bustling Malaysian city right at the border with Singapore. Comfortable air-conditioned busses leave at intervals of 7 minutes from Singapore and the trip takes about 30 minutes- Johor Bahru is only 10KM from Singapore's borders

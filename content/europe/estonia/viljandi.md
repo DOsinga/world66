@@ -1,6 +1,8 @@
 ---
 title: "Viljandi"
 type: location
+latitude: 58.36454
+longitude: 25.587807
 ---
 
 We currently have no information about Viljandi.

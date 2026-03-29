@@ -1,6 +1,8 @@
 ---
 title: "Cook Islands"
 type: location
+latitude: -19.996972
+longitude: -157.785871
 ---
 
 Suprising fact: the Cook islands cover a surface bigger than [India](/asia/india). Most of it is Pacific Ocean of course, but still, the 15 islands in the heart of the South Pacific known as the Cook islands spread over an area the size of India with a total population of just 14,000 souls.

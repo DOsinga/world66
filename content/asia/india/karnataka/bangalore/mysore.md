@@ -1,6 +1,8 @@
 ---
 title: "Mysore"
 type: location
+latitude: 12.305183
+longitude: 76.655361
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: poi
 address: "c/ Ave María 15"
 phone: "91 527 44 83"
 price: "fixed menu: 9 euros"
+latitude: 42.547847
+longitude: -6.60132
 ---
 
 Indian-Pakistani Food; very authentic and cheap, delicious food 

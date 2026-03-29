@@ -1,6 +1,8 @@
 ---
 title: "Manneken Pis"
 type: poi
+latitude: 50.844986
+longitude: 4.349993
 ---
 
 Manneken Pis is Brussels' answer to the Statue of Liberty. The statue is smaller than you might expect.

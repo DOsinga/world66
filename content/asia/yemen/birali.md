@@ -1,6 +1,8 @@
 ---
 title: "Bir ’ali"
 type: location
+latitude: 15.634624
+longitude: 44.485118
 ---
 
 We currently have no information about Bir ’ali.

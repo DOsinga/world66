@@ -1,6 +1,8 @@
 ---
 title: "Thanh Hoa"
 type: location
+latitude: 19.978157
+longitude: 105.481611
 ---
 
 Travel Guide

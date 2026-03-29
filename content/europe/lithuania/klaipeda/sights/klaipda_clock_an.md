@@ -7,6 +7,8 @@ opening_hours: "Tues-Sat 12.00–18.00 (March – Oct.), 11.00–17.00 (Nov. –
 phone: "Tel. (+370 6) 410 413, 410 414, 410 415"
 type: "Parks, Gardens and Zoos"
 url: "www.muziejai.lt"
+latitude: 57.140735
+longitude: 27.257394
 ---
 
 An exhibition 'Manufacture and deal

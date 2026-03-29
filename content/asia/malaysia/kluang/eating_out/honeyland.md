@@ -5,6 +5,8 @@ address: "No.54 Jalan Lambak, 86000 Kluang, Johor"
 email: "unlisted1968@hotmail.com"
 phone: "07 7711685"
 type: "African"
+latitude: 2.022976
+longitude: 103.322783
 ---
 
 A family-owned business since 1964

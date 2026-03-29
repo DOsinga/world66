@@ -1,6 +1,8 @@
 ---
 title: "Palanpur"
 type: location
+latitude: 24.170979
+longitude: 72.436638
 ---
 
 Travel Guide

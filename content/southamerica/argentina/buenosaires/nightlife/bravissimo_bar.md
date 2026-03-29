@@ -8,6 +8,8 @@ email: "bravissimobar@hotmail.com"
 phone: "49629857"
 type: "Pubs"
 url: "www.bravissimobar.50g.com"
+latitude: -34.59549
+longitude: -58.415326
 ---
 
 This is a local bar in the Palermo nighbourhoud with a very friendly Rasta Guy who you need to talk to to start your nightlife experience. Be there around 11 to start a crazy night. There is always a good alternative music playing and very nice cocktails.

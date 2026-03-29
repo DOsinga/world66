@@ -1,6 +1,8 @@
 ---
 title: "Autoworld"
 type: poi
+latitude: 50.839457
+longitude: 4.393554
 ---
 
 Autoworld opens its doors and invites you to discover the automotive history through a unique and outstanding collection : more than 300 vehicles, of all origins. 

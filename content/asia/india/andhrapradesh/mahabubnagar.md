@@ -1,6 +1,8 @@
 ---
 title: "Mahabubnagar"
 type: location
+latitude: 16.696569
+longitude: 77.959115
 ---
 
 We currently have no information about Mahabubnagar.

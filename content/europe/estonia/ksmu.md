@@ -1,6 +1,8 @@
 ---
 title: "Käsmu"
 type: location
+latitude: 59.603462
+longitude: 25.896749
 ---
 
 Travel Guide

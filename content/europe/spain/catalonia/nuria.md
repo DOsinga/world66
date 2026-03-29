@@ -1,6 +1,8 @@
 ---
 title: "Nuria"
 type: location
+latitude: 40.438269
+longitude: -3.653697
 ---
 
 Far from being a city, this is scarcely even a village. It is a group of monastic buildings in a mountain setting. You may well find the trip to it and up from it more entertaining than the place itself. 

@@ -1,6 +1,8 @@
 ---
 title: "Chelyabinsk"
 type: location
+latitude: 55.159841
+longitude: 61.402555
 ---
 
 Travel Guide

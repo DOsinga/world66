@@ -1,6 +1,8 @@
 ---
 title: "Las Vegas"
 type: location
+latitude: 36.167426
+longitude: -115.148413
 ---
 
 Viva Las Vegas! In the middle of the desert Las Vegas is like a mirage, like a fata morgana. The colours of the casinos' and their neon lights, contrast sharply with the dry and barren land around. 

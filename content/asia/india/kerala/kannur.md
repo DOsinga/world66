@@ -1,6 +1,8 @@
 ---
 title: "Kannur"
 type: location
+latitude: 11.876384
+longitude: 75.373797
 ---
 
 We currently have no information about Kannur.

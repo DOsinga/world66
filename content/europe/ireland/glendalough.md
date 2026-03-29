@@ -1,6 +1,8 @@
 ---
 title: "Glendalough"
 type: location
+latitude: 53.010554
+longitude: -6.32737
 ---
 
 Glendalough is located in Co.Wicklow. It is a monastic city dating . It recieves thousands of visitors each year from all parts of the world. 

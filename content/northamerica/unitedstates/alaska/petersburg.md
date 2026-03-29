@@ -1,6 +1,8 @@
 ---
 title: "Petersburg"
 type: location
+latitude: 37.227928
+longitude: -77.401927
 ---
 
 **Petersburg**.... The "Little Norway" of Alaska

@@ -1,6 +1,8 @@
 ---
 title: "Scotland"
 type: location
+latitude: 56.786111
+longitude: -4.114052
 ---
 
 Untamed and beautiful, Scotland is located in northern Europe and is bounded by the North Sea, the Atlantic Ocean and England. It is around half the size of England, but most of its landmass is comprised of moorlands, mountains and about 800 islands. 

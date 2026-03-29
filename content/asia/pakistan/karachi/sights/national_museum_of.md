@@ -4,6 +4,8 @@ type: poi
 address: "Dr. Ziauddin Ahmed Road"
 type: "Hotspots"
 url: "www.caroun.com"
+latitude: 27.917197
+longitude: 78.084466
 ---
 
 It was originally established in 1949 in a building in Frere Hall and in 1970, re-located to the present location.

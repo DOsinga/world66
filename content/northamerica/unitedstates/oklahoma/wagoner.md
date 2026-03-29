@@ -1,6 +1,8 @@
 ---
 title: "Wagoner"
 type: location
+latitude: 35.954222
+longitude: -95.563624
 ---
 
 Travel Guide

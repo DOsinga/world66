@@ -1,6 +1,8 @@
 ---
 title: "Lifou"
 type: location
+latitude: -20.932861
+longitude: 167.165785
 ---
 
 We currently have no information about Lifou.

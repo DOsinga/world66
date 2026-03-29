@@ -1,6 +1,8 @@
 ---
 title: "Half moon beach"
 type: poi
+latitude: 14.517973
+longitude: 74.330944
 ---
 
 A cliff separates Half moon beach from Om beach. It's a wonderful 20

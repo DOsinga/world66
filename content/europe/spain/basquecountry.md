@@ -1,6 +1,8 @@
 ---
 title: "Basque Country"
 type: location
+latitude: 42.991182
+longitude: -2.554302
 ---
 
 Travel Guide

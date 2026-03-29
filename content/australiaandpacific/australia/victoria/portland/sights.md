@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 address: "Lee Breakwater Road"
 type: "general"
+latitude: -38.345248
+longitude: 141.606947
 ---
 
 Portland will keep the dedicated visitor busy for at least a day. It has some nice museums on local history and you can take a two hour tour of the aluminium smelter (Mon., Wed. and Fri., 10.00, booking essential, 55232 2671).

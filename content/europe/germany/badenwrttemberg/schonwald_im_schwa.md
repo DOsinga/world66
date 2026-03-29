@@ -1,6 +1,8 @@
 ---
 title: "Schonwald im Schwarzwald"
 type: location
+latitude: 48.105768
+longitude: 8.195194
 ---
 
 Enjoy the beauty of nature, the romantic villages, and top European

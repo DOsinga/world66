@@ -2,6 +2,8 @@
 title: "LA GRANGE"
 type: poi
 type: "general"
+latitude: 47.282062
+longitude: 6.665586
 ---
 
 30 rue Jean Jacques Rousseau 
@@ -12,6 +14,7 @@ Tel : 04.67.54.68.80
 
 SALON DE THE RESTAURANT GALERIE D'ART 
 
-Traditional cooking, tearoom in a country and artistic setting  Art gallery 20 seats
+Traditional cooking, tearoom in a country and artistic setting 
+ Art gallery 20 seats
 
 type: general

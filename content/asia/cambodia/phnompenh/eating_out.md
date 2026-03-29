@@ -5,6 +5,8 @@ address: "335 Sisowath Quay"
 phone: "+855(0)23-220953"
 type: "Local"
 url: "www.frizz-restaurant.com"
+latitude: 11.567474
+longitude: 104.931146
 ---
 
 Cambodia, and Phnom Penh and Siem Reap in particular, is home to a huge

@@ -3,6 +3,8 @@ title: "University of Negros Occidental Recoletos"
 type: poi
 address: "Lizares Avenue, Bacolod City"
 type: "Landmarks"
+latitude: 10.659152
+longitude: 122.947212
 ---
 
 The Oldest University in Negros Occidental. Standing on a 15 Hectare property Donated by the Lizares Family.

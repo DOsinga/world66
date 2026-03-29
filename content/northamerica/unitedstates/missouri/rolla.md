@@ -1,6 +1,8 @@
 ---
 title: "Rolla"
 type: location
+latitude: 37.950932
+longitude: -91.770808
 ---
 
 Nestled in the foothills of the Ozarks, you will find Rolla --

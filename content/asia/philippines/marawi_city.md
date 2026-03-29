@@ -1,6 +1,8 @@
 ---
 title: "Marawi City"
 type: location
+latitude: 8.004726
+longitude: 124.285435
 ---
 
 Travel Guide

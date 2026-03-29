@@ -1,6 +1,8 @@
 ---
 title: "ohio"
 type: location
+latitude: 39.445063
+longitude: -83.120464
 ---
 
 Travel Guide

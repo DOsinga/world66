@@ -1,6 +1,8 @@
 ---
 title: "Woodinville"
 type: location
+latitude: 47.754583
+longitude: -122.15889
 ---
 
 Travel Guide

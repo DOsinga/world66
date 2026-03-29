@@ -1,6 +1,8 @@
 ---
 title: "Stockbridge"
 type: location
+latitude: 42.282398
+longitude: -73.312368
 ---
 
 Travel Guide

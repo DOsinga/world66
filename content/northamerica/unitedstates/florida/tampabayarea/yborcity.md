@@ -1,6 +1,8 @@
 ---
 title: "Ybor City"
 type: location
+latitude: 27.960048
+longitude: -82.44116
 ---
 
 We currently have no information about Ybor City.

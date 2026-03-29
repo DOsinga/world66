@@ -1,6 +1,8 @@
 ---
 title: "Vijaydurga"
 type: location
+latitude: 15.271234
+longitude: 76.379201
 ---
 
 Travel Guide

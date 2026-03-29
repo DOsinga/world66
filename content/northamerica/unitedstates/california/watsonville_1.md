@@ -1,6 +1,8 @@
 ---
 title: "Watsonville"
 type: location
+latitude: 36.909277
+longitude: -121.752907
 ---
 
 Travel Guide

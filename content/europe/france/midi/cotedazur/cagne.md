@@ -1,6 +1,8 @@
 ---
 title: "Cagne"
 type: location
+latitude: 44.314386
+longitude: 0.465642
 ---
 
 Travel Guide

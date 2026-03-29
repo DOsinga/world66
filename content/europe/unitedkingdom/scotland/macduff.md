@@ -1,6 +1,8 @@
 ---
 title: "Macduff"
 type: location
+latitude: 57.670211
+longitude: -2.494438
 ---
 
 Travel Guide

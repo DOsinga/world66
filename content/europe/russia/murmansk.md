@@ -1,6 +1,8 @@
 ---
 title: "Murmansk"
 type: location
+latitude: 68.970665
+longitude: 33.07497
 ---
 
 **Murmansk** known as Romanov-on-Murman at the date of its foundation September 21, 1916 is the centre of Murmansk region and the largest Russian seaport on the Arctic Ocean. The city was named after the Russian Royal Dinasty Romanovs *Romanov-on-Murman*. The name *Murmansk* the city got after the Revolution in 1917. Some consider that the word *Murman* is decsended from "Nurman" (Normann). Peoples of Scandinavia Russians called as "Murmans". 

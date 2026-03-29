@@ -1,6 +1,8 @@
 ---
 title: "Scottsdale"
 type: location
+latitude: 33.494219
+longitude: -111.926018
 ---
 
 Scottsdale is a popular holiday destination in Arizona. It has many well equipped resorts, great golf courses and you are sure to tan fast in the middle of the desert.

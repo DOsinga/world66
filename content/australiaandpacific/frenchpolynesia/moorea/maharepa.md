@@ -1,6 +1,8 @@
 ---
 title: "Maharepa"
 type: location
+latitude: -17.485308
+longitude: -149.798751
 ---
 
 Travel Guide

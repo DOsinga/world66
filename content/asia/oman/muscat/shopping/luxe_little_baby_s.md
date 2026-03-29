@@ -6,6 +6,8 @@ email: "info@luxelittle.com"
 phone: "+971 557 368 308"
 type: "Speciality shops"
 url: "www.luxelittle.com"
+latitude: 25.074282
+longitude: 55.188539
 ---
 
 **A Chic Boutique for Mama & Baby**

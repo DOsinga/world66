@@ -1,6 +1,8 @@
 ---
 title: "Binan Laguna"
 type: location
+latitude: 14.273541
+longitude: 121.062611
 ---
 
 Travel Guide

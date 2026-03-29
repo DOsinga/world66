@@ -5,6 +5,8 @@ address: "1575 Argyle Street"
 email: "johnnyd@theargyle.ca"
 type: "general"
 url: "www.theargyle.ca"
+latitude: 50.453681
+longitude: -104.63226
 ---
 
 Traditional Greek and modern dishes in a casual, cozy atmosphere. Large rooftop patio. Dance club in the late evenings.

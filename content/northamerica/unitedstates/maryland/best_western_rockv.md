@@ -1,6 +1,8 @@
 ---
 title: "Best Western Rockville"
 type: location
+latitude: 39.089348
+longitude: -77.176505
 ---
 
 Travel Guide

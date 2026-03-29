@@ -5,6 +5,8 @@ address: "11 North Water Street"
 closing_time: "1"
 type: "Pubs"
 url: "www.davidryans.com"
+latitude: 30.693238
+longitude: -88.039985
 ---
 
 The nightlife in Edgartown is quiet, even during the peak season. But there are a couple of nice bars spread around the town.

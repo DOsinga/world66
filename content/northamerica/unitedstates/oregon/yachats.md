@@ -1,6 +1,8 @@
 ---
 title: "Yachats"
 type: location
+latitude: 44.312756
+longitude: -124.104999
 ---
 
 Travel Guide

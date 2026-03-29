@@ -1,6 +1,8 @@
 ---
 title: "Otterburn Hall Hotel"
 type: location
+latitude: 55.243027
+longitude: -2.185228
 ---
 
 Travel Guide

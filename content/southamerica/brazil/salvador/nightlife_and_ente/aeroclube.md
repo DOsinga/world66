@@ -6,6 +6,8 @@ closing_time: "02:00"
 phone: "(71) 3462-8000"
 type: "Clubs and dancing"
 url: "www.aeroclubeplazashow.com.br"
+latitude: -14.85044
+longitude: -40.846816
 ---
 
 Aeroclube is a huge area with lots of different kind of stuff. They

@@ -4,6 +4,8 @@ type: poi
 address: "434 N. Canon Dr."
 phone: "310-275-0579"
 type: "Italian"
+latitude: 34.071315
+longitude: -118.401456
 ---
 
 Original La Scala dominated the culinary scene (specifically Italian

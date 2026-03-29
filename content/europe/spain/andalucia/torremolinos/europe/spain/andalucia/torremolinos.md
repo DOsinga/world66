@@ -1,6 +1,8 @@
 ---
 title: "Torremolinos"
 type: location
+latitude: 36.624284
+longitude: -4.499545
 ---
 
 Torremolinos is a seaside resort not too far from

@@ -6,6 +6,8 @@ address: "Calle Castelar 22"
 email: "Sallywristen@hotmail.com"
 phone: "637897862"
 type: "Speciality shops"
+latitude: 37.387422
+longitude: -5.996762
 ---
 
 Delicious gift boutique ...

@@ -1,6 +1,8 @@
 ---
 title: "Rancagua"
 type: location
+latitude: -34.170243
+longitude: -70.740718
 ---
 
 City situated 85 kilometres to Santiago, was founded 1743 for Manso de Velasco, is next to Cachapoal River and has 250.000 inhabitants. 

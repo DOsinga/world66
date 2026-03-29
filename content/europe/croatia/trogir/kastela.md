@@ -1,6 +1,8 @@
 ---
 title: "Kastela"
 type: location
+latitude: 43.556138
+longitude: 16.364605
 ---
 
 Travel Guide

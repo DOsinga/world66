@@ -3,6 +3,8 @@ title: "Tapu"
 type: poi
 author: "Judy Corbalis"
 isbn: "978-0749386788"
+latitude: -36.984712
+longitude: 175.50161
 ---
 
 Historical novel set at the time of the first missionaries to N.Z.

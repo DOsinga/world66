@@ -1,6 +1,8 @@
 ---
 title: "Mani"
 type: location
+latitude: 36.599502
+longitude: 22.423934
 ---
 
 The Mani is a region of Greece's southern Peleponneses. It has a unique history, people, and architcture.

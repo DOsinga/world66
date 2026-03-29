@@ -6,6 +6,8 @@ phone: "210-341-0045"
 price: "$5 to $10"
 type: "Mexican"
 zipcode: "78216"
+latitude: 29.503547
+longitude: -98.506936
 ---
 
 San Antonio is rich in history and sights but don't for get to sample the amazing variety of food available in the Alamo City.

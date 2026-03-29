@@ -1,6 +1,8 @@
 ---
 title: "Monterey"
 type: location
+latitude: 36.223108
+longitude: -121.387742
 ---
 
 Travel Guide

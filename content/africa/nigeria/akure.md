@@ -1,6 +1,8 @@
 ---
 title: "Akure"
 type: location
+latitude: 7.25256
+longitude: 5.193265
 ---
 
 Akure is the Capital city of Ondo State. It is refer to as Akure Oloyemekun.

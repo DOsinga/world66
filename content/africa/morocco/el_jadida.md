@@ -1,6 +1,8 @@
 ---
 title: "El Jadida"
 type: location
+latitude: 33.243331
+longitude: -8.49884
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Srilanka"
 type: location
+latitude: 7.555494
+longitude: 80.713785
 ---
 
 Travel Guide

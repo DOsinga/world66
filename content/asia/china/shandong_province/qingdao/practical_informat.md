@@ -6,6 +6,8 @@ email: "admin@thatsqingdao.com"
 phone: "(+86) 134 6583 4624"
 type: "Tourist information"
 url: "www.thatsqingdao.com"
+latitude: 36.066325
+longitude: 120.377766
 ---
 
 Please check Practical Information below.

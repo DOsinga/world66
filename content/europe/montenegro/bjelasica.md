@@ -1,6 +1,8 @@
 ---
 title: "Bjelasica"
 type: location
+latitude: 42.243136
+longitude: 19.052315
 ---
 
 Travel Guide

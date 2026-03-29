@@ -8,6 +8,8 @@ phone: "0703465757, 0649392400"
 price: "25 Euro [on average]"
 type: "Indian and Pakistani"
 url: "www.ramnarestaurant.nl"
+latitude: 52.080011
+longitude: 4.307047
 ---
 
 Indian cuisine is a combination of subtle tastes. Flavours are

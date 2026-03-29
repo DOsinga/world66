@@ -5,6 +5,8 @@ address: "6500 Magazine Street, New Orleans LA, 70118"
 phone: "504-581-4629 or 800-774-7394"
 type: "Other"
 url: "www.auduboninstitute.org"
+latitude: 29.924361
+longitude: -90.127358
 ---
 
 Excellent area zoo featuring a family of rare albino alligators, an impressive butterfly exhibit, and everything from lions and tigers to bears in natural habitat settings. There is also a popular children's petting zoo onsite. Please visit the website for hours.

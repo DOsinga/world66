@@ -1,6 +1,8 @@
 ---
 title: "Kungälv"
 type: location
+latitude: 57.870795
+longitude: 11.979962
 ---
 
 Travel Guide

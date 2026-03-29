@@ -1,6 +1,8 @@
 ---
 title: "Kayenta"
 type: location
+latitude: 36.71501
+longitude: -110.246091
 ---
 
 Travel Guide

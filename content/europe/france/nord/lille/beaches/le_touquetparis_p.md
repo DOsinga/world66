@@ -1,6 +1,8 @@
 ---
 title: "Le Touquet-Paris Plage"
 type: poi
+latitude: 50.520008
+longitude: 1.586453
 ---
 
 This is a very posh beach and a vacation spot for many Parisians (hence

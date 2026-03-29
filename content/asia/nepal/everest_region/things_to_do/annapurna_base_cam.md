@@ -6,6 +6,8 @@ email: "info@greathimalaya.com"
 phone: "+977-4701263"
 type: "Trekking"
 url: "www.greathimalaya.com"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 **ABC Trek - Annapurna Base Camp Trek**

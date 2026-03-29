@@ -6,6 +6,8 @@ email: "merajmi@hotmail.com"
 phone: "9849991888"
 type: "Indian and Pakistani"
 url: "www.hyderabadhouse.com"
+latitude: 17.40707
+longitude: 78.451697
 ---
 
 The dual nature of Hyderabad is also very evident in its unique cuisine. The Nizam's influence and its location in the South has made it a culinary melting point of South Indian Cuisine with Mughlai tastes from the North.

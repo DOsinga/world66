@@ -4,6 +4,8 @@ type: poi
 address: "Kastanienallee 16"
 connections: "U Eberswalder Str."
 type: "Dancing"
+latitude: 52.538496
+longitude: 13.409347
 ---
 
 A hiphop bastion for the young crowd with live DJ every day who makes the graffiti shiver. Su-Th 5pm -3am, Fr & Sa 5pm -open end.

@@ -1,6 +1,8 @@
 ---
 title: "Cavalcante"
 type: location
+latitude: -13.792841
+longitude: -47.456852
 ---
 
 The municipality of Cavalcante is situated at the northeast of the Goi&aacute;s state. The main area of the municipality is located on an altitude of approximately 800m, at the whole territory it varies from 400 to 1300 meters. Cavalcante is the major municipality at Chapada dos Veadeiros with a territorial length of approximately 7.000 square kilometers. A big share of the area of the Chapada dos Veadeiros National Park is located in-between its borders. Because it was the first municipality in the region, furthermore with the presence of a gold smelting, Cavalcante has a lot of odd stories. Meanwhile its historic heritage is almost gone. Beautiful buildings like churches, houses and an old jailhouse were destroyed. Nowadays is left only a small amount of houses that still maintain the characteristic of the architecture of this period. Nevertheless the municipality kept their highest treasure intact: nature. For being embedded between mountains, Cavalcante has a very special air. As you get closer to the city the immense stone walls of the surrounding make it possible to foresee the beauties hidden behind them. Another treasure found there, is the rich popular culture. The traditions are celebrated until today by the countless feasts and memorial celebrations, the majority of them have a religious background. Finally, visiting Cavalcante is a essential walk for those who strive for the contact to effusive nature and a historic culture rich in curious stories. For mor information have a look at this site: www.valedasararas.com.br. It is from an inn located inside an ecological reserve.

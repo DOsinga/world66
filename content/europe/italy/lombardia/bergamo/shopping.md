@@ -3,6 +3,8 @@ title: "Shopping"
 type: section
 type: "Shopping centers and malls"
 url: "www.centrocommercialecurno.it"
+latitude: 40.805495
+longitude: 14.195558
 ---
 
 Shopping in Italy is very important since clothes, leather goods and even marble and furniture are world famous as well as being of high quality and style. Take some wine, cheeses, sweets, typical italian Florence wrapping paper, matching pencils, calendars or/and stationery to friends and family back home. Some of the best places to shop in Bergamo are Via XX Settembre and Orio Center Centro Commerciale.

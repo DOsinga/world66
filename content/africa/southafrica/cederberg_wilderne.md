@@ -1,6 +1,8 @@
 ---
 title: "Cederberg Wilderness Area"
 type: location
+latitude: -32.365037
+longitude: 19.112816
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: poi
 address: "Pier 2000"
 type: "Hotspots"
 url: "www.imaxmalecon2000.com"
+latitude: -33.877538
+longitude: 151.201496
 ---
 
 Along the harbor anyone can reach the IMAX theater this unique theater offers 3D movies and documentary enriched with culture and information of today's event.

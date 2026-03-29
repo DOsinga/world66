@@ -1,6 +1,8 @@
 ---
 title: "Shengjin"
 type: location
+latitude: 41.809783
+longitude: 19.598976
 ---
 
 Travel Guide

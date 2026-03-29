@@ -1,6 +1,8 @@
 ---
 title: "Reading"
 type: location
+latitude: 40.335345
+longitude: -75.927949
 ---
 
 Hardly a city, Reading sports a population of about 700.

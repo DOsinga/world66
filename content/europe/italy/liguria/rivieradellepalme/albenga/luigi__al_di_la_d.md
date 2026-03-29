@@ -1,6 +1,8 @@
 ---
 title: "Luigi , al di la del"
 type: location
+latitude: 41.849066
+longitude: 12.590559
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Nyingchi"
 type: location
+latitude: 29.548791
+longitude: 94.638474
 ---
 
 Travel Guide

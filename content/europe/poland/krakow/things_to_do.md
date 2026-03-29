@@ -5,6 +5,8 @@ address: "Rynek Glowny 1"
 phone: "-"
 type: "Rafting"
 url: "www.cracowonline.com"
+latitude: 50.061486
+longitude: 19.936415
 ---
 
 The best idea to visit Krakow is to rent a bike. There is a lot of

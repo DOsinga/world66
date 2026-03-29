@@ -1,6 +1,8 @@
 ---
 title: "Chinle"
 type: location
+latitude: 36.150143
+longitude: -109.567069
 ---
 
 Travel Guide

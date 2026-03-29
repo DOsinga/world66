@@ -1,6 +1,8 @@
 ---
 title: "Děčín"
 type: location
+latitude: 50.78242
+longitude: 14.214722
 ---
 
 The town of Děčín

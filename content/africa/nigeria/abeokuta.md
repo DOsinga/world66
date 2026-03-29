@@ -1,6 +1,8 @@
 ---
 title: "Abeokuta"
 type: location
+latitude: 7.161
+longitude: 3.348
 ---
 
 Travel Guide

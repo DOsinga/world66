@@ -1,6 +1,8 @@
 ---
 title: "Wilmington"
 type: location
+latitude: 39.745947
+longitude: -75.546589
 ---
 
 Travel Guide

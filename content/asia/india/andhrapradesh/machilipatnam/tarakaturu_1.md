@@ -1,6 +1,8 @@
 ---
 title: "Tarakaturu"
 type: location
+latitude: 16.227526
+longitude: 81.03404
 ---
 
 Travel Guide

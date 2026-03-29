@@ -1,6 +1,8 @@
 ---
 title: "Belem"
 type: location
+latitude: -1.45056
+longitude: -48.468245
 ---
 
 The city of Mango trees is the main port of the Amazon, and as harbor cities go a very busy and industrialized area. It’s the economic center of the north and the capital of the state of Para. Being close to Equator line it’s also very hot, and almost contradictory to this also one of the rainiest cities in the world. Attracted to the possible job offers, Belem has many poor inhabitants and quite extensive slum areas around it, but the center has quite some pretty places. 

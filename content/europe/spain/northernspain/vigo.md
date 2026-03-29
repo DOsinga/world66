@@ -1,6 +1,8 @@
 ---
 title: "Vigo"
 type: location
+latitude: 42.23766
+longitude: -8.724721
 ---
 
 We currently have no information about Vigo.

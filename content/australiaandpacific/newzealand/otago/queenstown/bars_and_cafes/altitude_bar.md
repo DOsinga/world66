@@ -2,6 +2,8 @@
 title: "Altitude Bar"
 type: poi
 address: "49 Shotover street."
+latitude: -45.031938
+longitude: 168.6585
 ---
 
 THE backpacker bar in Queenstown. It´s part of the Discovery Lodge hostel so you´ll find a lot of backpackers here and a good atmosphere. It can get tacky sometimes, but hey, what do you expect in a backpackers bar?

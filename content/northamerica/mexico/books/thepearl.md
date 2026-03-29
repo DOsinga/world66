@@ -4,6 +4,8 @@ type: poi
 author: "John Steinbeck"
 isbn: "014017737X"
 subject: "history"
+latitude: 20.626721
+longitude: -87.071443
 ---
 
 **hendrickx :** 

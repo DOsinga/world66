@@ -1,6 +1,8 @@
 ---
 title: "Ireland"
 type: location
+latitude: 52.865196
+longitude: -7.97946
 ---
 
 Located in northwestern Europe, the **Republic of Ireland** is bordered by the United Kingdom, the North Atlantic Ocean, and the Irish Sea. It is a land steeped in history, but not particularly well endowed with historical marvels. Ireland is known for its misty green countryside, its culture and tradition (including legends and folklores), and its warm-hearted and friendly people.

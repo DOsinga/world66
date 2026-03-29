@@ -4,6 +4,8 @@ type: poi
 address: "63 / 65 rue de la Monnaie, 59800 Lille"
 phone: "03.20.74.29.00"
 type: "Brasserie"
+latitude: 50.640846
+longitude: 3.063384
 ---
 
 type: Brasserie

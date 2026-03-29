@@ -1,6 +1,8 @@
 ---
 title: "Long Island"
 type: location
+latitude: 40.851497
+longitude: -73.09943
 ---
 
 Travel Guide

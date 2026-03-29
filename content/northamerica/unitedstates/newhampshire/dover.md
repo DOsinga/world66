@@ -1,6 +1,8 @@
 ---
 title: "Dover"
 type: location
+latitude: 39.158168
+longitude: -75.524368
 ---
 
 Settled in 1623, Dover is the oldest permanent settlement in N.H. and the 7th oldest in the U.S.

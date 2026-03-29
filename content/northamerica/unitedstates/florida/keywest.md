@@ -1,6 +1,8 @@
 ---
 title: "Key West"
 type: location
+latitude: 24.554826
+longitude: -81.802072
 ---
 
 No one should ever die without taking at least one trip to Key West. There is no other more relaxing place in the United States. It's completely out of a travel guide. 

@@ -7,6 +7,8 @@ phone: "541-861-5039"
 price: "9-30$ for main"
 type: "Italian"
 url: "www.restaurantgalianos.com"
+latitude: 33.666069
+longitude: -117.791089
 ---
 
 Galianos is a unique opportunity to sample the exquisite flavours and aromas of Italy in Old Montréal. Galianos faces a pedestrian walkway famous for artistic exhibitions drawing thousands of visitors yearly. It offers pasta, pizza, veal, steak, filet mignon and seafood dishes, individually prepared using the freshest ingredients.

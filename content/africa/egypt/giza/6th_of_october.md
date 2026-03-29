@@ -1,6 +1,8 @@
 ---
 title: "6th of October"
 type: location
+latitude: 29.972346
+longitude: 30.940921
 ---
 
 Travel Guide

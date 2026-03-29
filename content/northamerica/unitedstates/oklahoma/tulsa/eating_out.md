@@ -6,6 +6,8 @@ phone: "(918) 492-8040"
 price: "$6.95 lunch buffet; Dinner entrees from $9.95 to $12.50."
 type: "Indian and Pakistani"
 url: "www.indiapalacetulsa.com"
+latitude: 36.061681
+longitude: -95.956666
 ---
 
 "Tulsa is the cultural center of the universe!" That is what an an advertisement for Pizza Hut Restaurants said a couple of decades ago. Well they were joking. But when it comes to food, Tulsa might just be the cultural culinary center of the region. Tulsa sits right in the middle of three regional cultures that strongly influence its food and restaurants -- Midwestern, Southern, and Southwestern cuisines are all represented well in what is going on in restaurants in Tulsa, Oklahoma.

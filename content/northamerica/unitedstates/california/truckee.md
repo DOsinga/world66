@@ -1,6 +1,8 @@
 ---
 title: "Truckee"
 type: location
+latitude: 39.327945
+longitude: -120.183577
 ---
 
 Travel Guide

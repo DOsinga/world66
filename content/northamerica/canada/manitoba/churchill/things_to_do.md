@@ -5,6 +5,8 @@ email: "churchill@gctc-mst.com"
 phone: "1 800 661-3830"
 type: "Other"
 url: "www.greatcanadiantravel.com"
+latitude: 43.660139
+longitude: -79.417114
 ---
 
 Pick up a copy of the Hudson Bay Post, Churchill's community newspaper can be found at various locations around town and back issues can be found at www.muncks.ca 

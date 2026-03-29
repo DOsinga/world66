@@ -1,6 +1,8 @@
 ---
 title: "Ilulissat"
 type: location
+latitude: 69.219713
+longitude: -51.098638
 ---
 
 Travel Guide

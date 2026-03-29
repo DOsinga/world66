@@ -1,6 +1,8 @@
 ---
 title: "Honshu"
 type: location
+latitude: 37.489923
+longitude: 139.835651
 ---
 
 If you stick to Honshu on your trip to Japan, you're not shortchanging yourself. Honshu has all the fun and all the attractions.

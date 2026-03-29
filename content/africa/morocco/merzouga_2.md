@@ -1,6 +1,8 @@
 ---
 title: "Merzouga"
 type: location
+latitude: 31.099917
+longitude: -4.014088
 ---
 
 Travel Guide

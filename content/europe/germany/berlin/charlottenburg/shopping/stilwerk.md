@@ -1,9 +1,12 @@
 ---
 title: "Stilwerk"
 type: poi
+latitude: 53.544813
+longitude: 9.949181
 ---
 
-Close to Kerfürstendamm on the corner of Uhlandstr. is a new complex specialising in interior decor and design, with 48 shops on 5 floors covering an area of 19,000m2. The restaurant Stil, the bar Remington and the sushi bar Heiku offer culinary delights and "The Forum" is open for events and exhibitions.  
+Close to Kerfürstendamm on the corner of Uhlandstr. is a new complex specialising in interior decor and design, with 48 shops on 5 floors covering an area of 19,000m2. The restaurant Stil, the bar Remington and the sushi bar Heiku offer culinary delights and "The Forum" is open for events and exhibitions. 
+ 
 
 connection: U+S Zoologischer Garten, S Savignyplatz,
 

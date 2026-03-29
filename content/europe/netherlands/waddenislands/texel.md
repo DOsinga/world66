@@ -1,6 +1,8 @@
 ---
 title: "Texel"
 type: location
+latitude: 53.076785
+longitude: 4.905757
 ---
 
 We currently have no information about Texel.

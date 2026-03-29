@@ -4,6 +4,8 @@ type: poi
 email: "info@adriastar.com"
 phone: "00385913715210"
 url: "www.dalmatien-tourist.eu"
+latitude: 42.904567
+longitude: 17.47521
 ---
 
 ** Peljesac** is situated in southern Dalmatia between Neretva bay in the north and Mali Ston bay eastward (between which is so called Little Sea). Mljet channel is south of **Peljesac**, and **Peljesac** channel on the western side.

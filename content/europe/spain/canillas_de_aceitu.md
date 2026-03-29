@@ -1,6 +1,8 @@
 ---
 title: "Canillas de Aceituno"
 type: location
+latitude: 36.873167
+longitude: -4.082126
 ---
 
 Travel Guide

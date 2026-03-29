@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Golem"
 type: location
+latitude: 41.232434
+longitude: 19.519795
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Karnala"
 type: location
+latitude: 18.881349
+longitude: 73.118167
 ---
 
 Travel Guide

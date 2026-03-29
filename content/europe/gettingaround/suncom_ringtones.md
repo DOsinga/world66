@@ -5,6 +5,8 @@ address: "Ida"
 email: "jason@fromru.net"
 phone: "Ida"
 url: "www.kunstradio.at"
+latitude: 42.378837
+longitude: -95.494941
 ---
 
 Thank you!

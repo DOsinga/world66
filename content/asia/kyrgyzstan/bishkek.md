@@ -1,6 +1,8 @@
 ---
 title: "Bishkek"
 type: location
+latitude: 42.876142
+longitude: 74.603672
 ---
 
 Bishkek is a classic modern Soviet-style city with marble buildings and boulevards that seem too large for its population of around 700,000. Among the high rise apartment blocks typical of Soviet times, you'll find Central Asia creeping in again. Farmer markets (*bazaars*) are springing up everywhere and money changing seems to be one of the main industry. 

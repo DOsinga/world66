@@ -4,6 +4,8 @@ type: poi
 address: "The President Hotel"
 phone: "2150808"
 type: "Dancing"
+latitude: 41.00776
+longitude: 28.96578
 ---
 
 *D:Library Bar

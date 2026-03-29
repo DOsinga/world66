@@ -1,6 +1,8 @@
 ---
 title: "Cha Am"
 type: location
+latitude: 12.799834
+longitude: 99.96621
 ---
 
 Travel Guide

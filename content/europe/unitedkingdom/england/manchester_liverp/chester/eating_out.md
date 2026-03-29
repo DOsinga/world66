@@ -5,6 +5,8 @@ address: "59 Northgate Street, Chester, CH1 2HQ"
 phone: "01244 321750"
 type: "European"
 url: "www.nicholsonspubs.co.uk"
+latitude: 53.193182
+longitude: -2.893112
 ---
 
 From plush wine bars, pricey pavement cafes and award-winning restaurants to cosy tea rooms and charming traditional pubs, Chester is a city with a wonderfully varied dining scene. The picturesque walled city sees vast numbers of tourists pass through each year, so be prepared for some popular spots to be seriously packed during the summer (July to August), and book in advance at formal restaurants. The city is gaining a reputation as a top spot for gastronomic delights, but be wary of over-priced style bars where food comes second to the image.

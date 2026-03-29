@@ -4,6 +4,8 @@ type: poi
 address: "via Ostiense, 106 Centrale Montemartini"
 phone: "+39.06.57991"
 url: "www.centralemontemartini.org"
+latitude: 41.866547
+longitude: 12.478015
 ---
 
 450 Greek and Roman sculptures coming from the Musei Capitolini exhibited in the former Montemartini electric plant. A unique combination of classical art and industrial machinery

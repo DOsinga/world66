@@ -1,19 +1,23 @@
 ---
 title: "Chinese"
 type: poi
+latitude: 3.140656
+longitude: 101.706927
 ---
 
 **Restaurants**
 
 **Ong Lai Restaurant.**
 
-Closed on Monday. 
+Closed on Monday.
+ 
 
 address: Jalan Raja Laut and Lorong Tiong Nam 60.
 
 **Low Yau Kee**
 
-Price from RM3 per person. 
+Price from RM3 per person.
+ 
 
 address: Jalan Tun HS Lee 82
 
@@ -51,7 +55,8 @@ tel: 03-221-8428
 
 **Restaurant Lee Tong Kee**
 
-Closed on Sunday. 
+Closed on Sunday.
+ 
 
 address: Jalan Tun HS Lee 77.
 
@@ -59,7 +64,8 @@ tel: 03-230-9276
 
 **Koon Kee Wantan Noodle**
 
-Probably the most well known wantan noodle place.  
+Probably the most well known wantan noodle place. 
+ 
 
 address: Jalan Hang Lekir, Jalan Cecil.
 
@@ -97,7 +103,8 @@ tel: 03-241-2233.
 
 **Celestial Court**
 
-Very expensive 
+Very expensive
+ 
 
 address: Hotel Imperial Sheraton, Jalan Sultan Ismail.
 
@@ -127,7 +134,8 @@ tel: 03-264-9166
 
 **Janbo Seafood Restaurant**
 
-Chinese restaurant specialised in Seafood  
+Chinese restaurant specialised in Seafood 
+ 
 
 address: 22-24, Jalan Radin Tengah, Seri Petaling
 

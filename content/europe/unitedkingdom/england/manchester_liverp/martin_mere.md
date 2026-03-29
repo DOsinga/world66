@@ -1,6 +1,8 @@
 ---
 title: "Martin Mere"
 type: location
+latitude: 53.623422
+longitude: -2.865352
 ---
 
 Martin Mere is a reserve owned by the Wildfowl and Wetlands Trust near Burscough, West

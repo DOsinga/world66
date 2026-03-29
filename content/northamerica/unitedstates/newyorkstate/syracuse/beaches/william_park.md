@@ -2,6 +2,8 @@
 title: "Williams Park"
 type: poi
 address: "Cicero, NY"
+latitude: 43.175624
+longitude: -76.119368
 ---
 
 Williams Park has a small beach on Oneida Lake in the town of Cicero. It's located on Lake Shore Road.

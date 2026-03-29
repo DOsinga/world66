@@ -7,6 +7,8 @@ email: "info@sdc.com.sg"
 opening_hours: "9am - 6pm"
 phone: "+65 6792 6188"
 url: "www.sdc.com.sg"
+latitude: 1.332652
+longitude: 103.679086
 ---
 
 A museum? An art gallery? A science centre?

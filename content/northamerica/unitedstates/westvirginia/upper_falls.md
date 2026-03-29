@@ -1,6 +1,8 @@
 ---
 title: "Upper Falls"
 type: location
+latitude: 39.43733
+longitude: -76.403294
 ---
 
 Travel Guide

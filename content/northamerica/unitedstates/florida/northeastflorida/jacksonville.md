@@ -1,6 +1,8 @@
 ---
 title: "Jacksonville"
 type: location
+latitude: 30.326225
+longitude: -81.657918
 ---
 
 If you're in town on a Sunday in the fall you might be able to catch the Jaguars football team in action-the city is very **proud of its new** franchise. The Cummer Museum of Art, in the Riverside neighborhood near downtown, has a good collection of American artists and a fascinating garden with a view of downtown. Architecture buffs will find the Riverside district fascinating. Many homes here were designed by noted Jacksonville architect Henry Klutho, a student of Frank Lloyd Wright's Prairie Style. 

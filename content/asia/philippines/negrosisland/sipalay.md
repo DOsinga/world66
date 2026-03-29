@@ -1,6 +1,8 @@
 ---
 title: "Sipalay"
 type: location
+latitude: 9.749127
+longitude: 122.40406
 ---
 
 Travel Guide

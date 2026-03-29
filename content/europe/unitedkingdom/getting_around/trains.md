@@ -2,6 +2,8 @@
 title: "Trains"
 type: poi
 url: "http:"
+latitude: 52.401896
+longitude: -1.520863
 ---
 
 The UK has an extensive rail system allbeit rather expensive with trains often running late. That aside it's possible to visit the majority of mainland Britain via train and it's still far faster than road transport.

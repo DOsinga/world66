@@ -8,6 +8,8 @@ phone: "600435058"
 price: ">10"
 type: "Vegetarian"
 url: "www.barelchamuco.com"
+latitude: 41.402798
+longitude: 2.160065
 ---
 
 Vegetarian and almost Vegan Fast Food.

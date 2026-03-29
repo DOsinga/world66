@@ -2,6 +2,8 @@
 title: "Little Venice"
 type: poi
 type: "Streets"
+latitude: 37.445862
+longitude: 25.326431
 ---
 
 Little Venice

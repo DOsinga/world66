@@ -1,6 +1,8 @@
 ---
 title: "Guildford"
 type: location
+latitude: 51.235607
+longitude: -0.573206
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Fort Smith"
 type: location
+latitude: 60.005852
+longitude: -111.890259
 ---
 
 Travel Guide

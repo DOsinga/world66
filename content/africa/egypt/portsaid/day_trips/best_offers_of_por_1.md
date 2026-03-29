@@ -5,6 +5,8 @@ address: "hurghada, egypt"
 email: "info@sunraytours.com"
 phone: "01002145878"
 url: "sunraytours.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Normal

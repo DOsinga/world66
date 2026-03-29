@@ -1,6 +1,8 @@
 ---
 title: "Buljarica"
 type: location
+latitude: 42.182802
+longitude: 18.979156
 ---
 
 Travel Guide

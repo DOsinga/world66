@@ -1,6 +1,8 @@
 ---
 title: "Mexican"
 type: poi
+latitude: 52.376668
+longitude: 4.902027
 ---
 
 **Restaurants**

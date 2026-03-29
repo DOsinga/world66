@@ -1,6 +1,8 @@
 ---
 title: "Hainan"
 type: location
+latitude: 19.2
+longitude: 109.6
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ústí nad Labem"
 type: location
+latitude: 50.660333
+longitude: 14.038136
 ---
 
 Travel Guide

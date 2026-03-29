@@ -1,6 +1,8 @@
 ---
 title: "Kamchia"
 type: location
+latitude: 42.887127
+longitude: 26.970267
 ---
 
 25km south of the sea capital of Bulgaria, Varna, is situated an

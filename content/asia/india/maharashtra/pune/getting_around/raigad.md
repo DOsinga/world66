@@ -1,6 +1,8 @@
 ---
 title: "Raigad"
 type: poi
+latitude: 18.492809
+longitude: 73.138071
 ---
 
 This is the very heart of Maratha country -- Raigad, the capital of

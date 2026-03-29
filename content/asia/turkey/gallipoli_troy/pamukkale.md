@@ -1,6 +1,8 @@
 ---
 title: "Pamukkale"
 type: location
+latitude: 37.920038
+longitude: 29.121753
 ---
 
 Travel Guide

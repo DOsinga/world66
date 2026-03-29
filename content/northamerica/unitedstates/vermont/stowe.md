@@ -1,6 +1,8 @@
 ---
 title: "Stowe"
 type: location
+latitude: 44.464377
+longitude: -72.68562
 ---
 
 Stowe is known as the "Ski Capitol of the East" Stowe is also a year round destination for it's Mountains, recreation, unspoiled scenery, galleries, spas and shops. Stowe is home to the Trapp Family Lodge founded and still operated by the Trapp Family of "Sound of Music" fame. It is near Ben & Jerry's Ice Cream factory and the Vermont Ski Museum.

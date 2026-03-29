@@ -5,6 +5,8 @@ address: "54 Clubhouse Drive, Plymouth, MA 02360"
 phone: "566-855-GOLF; 508-209-3000"
 type: "Golf"
 url: "www.pinehillsgolf.com"
+latitude: 41.890022
+longitude: -70.591864
 ---
 
 One thing is certain about Boston -- no matter how long you stay in "The Hub" you will always find something new to do. Your Boston vacation will take you on a trip back in time via visits to world-renowned museums and some of the nation's most historic sites. Even a seemingly simple subway ride offers a history lesson or two. Boston happens to be home of America's very first subway. And when you're finished exploring the many museums and historic landmarks, you may want to spend some time outdoors. Boston also offers tons of great places to golf, bike, picnic, swim or sail. The list of Boston activities is virtually endless!

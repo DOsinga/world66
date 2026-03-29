@@ -4,6 +4,8 @@ type: poi
 address: "Polonezkoy, Beykoz, Istanbul"
 date: "5-13 June 2010"
 url: "www.polonezkoy.com"
+latitude: 41.110036
+longitude: 29.211811
 ---
 
 Polonezkoy is a touristic Polish village in

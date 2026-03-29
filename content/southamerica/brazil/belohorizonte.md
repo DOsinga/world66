@@ -1,6 +1,8 @@
 ---
 title: "Belo horizonte"
 type: location
+latitude: -19.922732
+longitude: -43.945095
 ---
 
 Belo Horizonte is the 4th largest city in Brazil coming after [Sao Paulo](/southamerica/brazil/saopaulo), [Rio de Janeiro](/southamerica/brazil/riodejaneiro) and [Salvador](/southamerica/brazil/salvador). You'll find this city at about 2/3 of the way from Brasilia to Rio. It is the capital of Minas Gerais state. The name means Beautiful Horizon. The city of Belo Horizonte was completely built on a plan corresponding to that of Washington D.C., with a very long highway circling the whole city. 

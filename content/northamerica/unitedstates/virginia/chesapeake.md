@@ -1,6 +1,8 @@
 ---
 title: "Chesapeake"
 type: location
+latitude: 36.716831
+longitude: -76.249445
 ---
 
 ***Chesapeake*** is an independent city located in the South Hampton

@@ -3,9 +3,12 @@ title: "Valfarre"
 type: poi
 address: "7-14-22"
 type: "Dancing"
+latitude: 48.222842
+longitude: 16.485206
 ---
 
-Biggest dicso around. Closes at midnight.  ** obie:** hip place to go
+Biggest dicso around. Closes at midnight. 
+ ** obie:** hip place to go
 
 type: Dancing
 

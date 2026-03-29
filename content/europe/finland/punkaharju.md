@@ -1,6 +1,8 @@
 ---
 title: "Punkaharju"
 type: location
+latitude: 61.756102
+longitude: 29.389238
 ---
 
 Punkaharju is some 35 kilometres from [Savonlinna](/europe/finland/savonlinna) and is a beautiful

@@ -1,6 +1,8 @@
 ---
 title: "Chatham islands"
 type: location
+latitude: -43.917534
+longitude: -176.18734
 ---
 
 We currently have no information about Chatham islands.

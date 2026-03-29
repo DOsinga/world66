@@ -4,6 +4,8 @@ type: section
 address: "Yeonmudae"
 phone: "(031) 228-2763"
 type: "Other"
+latitude: 36.124287
+longitude: 127.087901
 ---
 
 ### [Korean Archery](/asia/southkorea/suwon/thingstodo/korean_archery)

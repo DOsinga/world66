@@ -1,6 +1,8 @@
 ---
 title: "Nantes"
 type: location
+latitude: 47.218637
+longitude: -1.554136
 ---
 
 Over the centuries, Nantes has thrived by making the most of its strategic position at a natural cross-roads between the land and the sea. The castle that was once the residence of the Dukes of Brittany is now undergoing a major restoration. It was here, four centuries ago, that Henri IV signed the Edict of Nantes, formally recognising the right to individual choice. 

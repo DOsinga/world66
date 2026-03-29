@@ -1,6 +1,8 @@
 ---
 title: "Bour"
 type: location
+latitude: 62.087978
+longitude: -7.371455
 ---
 
 Travel Guide

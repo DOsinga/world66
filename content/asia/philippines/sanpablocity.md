@@ -1,6 +1,8 @@
 ---
 title: "San Pablo City"
 type: location
+latitude: 14.06534
+longitude: 121.320819
 ---
 
 Travel Guide

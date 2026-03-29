@@ -1,6 +1,8 @@
 ---
 title: "Morgantina"
 type: location
+latitude: 42.443815
+longitude: 11.745908
 ---
 
 Travel Guide

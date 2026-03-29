@@ -5,6 +5,8 @@ address: "Sm Mall,Ecoland,Davao City"
 email: "www.smmall@ davao.com"
 opening_hours: "10.A.M."
 type: "Hotspots"
+latitude: 7.049021
+longitude: 125.588644
 ---
 
 **Kieran,

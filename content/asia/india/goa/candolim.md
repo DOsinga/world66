@@ -1,6 +1,8 @@
 ---
 title: "Candolim"
 type: location
+latitude: 15.520153
+longitude: 73.765942
 ---
 
 We currently have no information about Candolim.

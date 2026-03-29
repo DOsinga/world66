@@ -1,6 +1,8 @@
 ---
 title: "Toamasina"
 type: location
+latitude: -18.155399
+longitude: 49.409835
 ---
 
 Toamasina is Madagascar's largest port. The central market in the heart of the city appears to be the one and only sight deemed worth showing to the few tourists who visit this city. Driving around, the economic deprivation is palpable. One of the poorest nations in the world, Madagascar has a per capita GDP of just US$750, only 60,000 passenger vehicles in the whole country, 20 TV sets per 1000 population, and less than 50,000 telephone land-lines. Rarely does one see such urban poverty and infrastructure decay. The metalled roads both in and out of town are badly damaged and pot-holed everywhere; public buildings are black with tropical mildew and pollution and undoubtedly receive no maintenance. The town's 120,000 or so inhabitants do not appear to be starving, but clearly they live at a subsistence level in their metal shacks or bamboo and atap huts. Very little sophisticated economic activity is to be seen, and even small-scale businesses apparently depend on foreign capital. The tour company handling our ground arrangements was owned by a Frenchman, and the restaurant we stopped at for refreshments by an Englishwoman. 

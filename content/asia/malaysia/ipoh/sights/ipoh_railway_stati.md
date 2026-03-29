@@ -3,6 +3,8 @@ title: "Ipoh Railway Station"
 type: poi
 address: "Jalan Panglima Bukit Gantang Wahab"
 type: "Landmarks"
+latitude: 4.593933
+longitude: 101.073494
 ---
 
 Built during the mining boom days, this once-impressive building with elements of Moorish architecture has often been referred to as the Taj Mahal of Ipoh. It was an important loading station for the rich ore in the valley, and as such was built to reflect this fact. It resembles its counterpart in Kuala Lumpur, hardly a surprise considering both were designed by the same architect, AB Hubback. It has a garden in front which is notable for being one of the places where the* ipoh* tree can still be seen. It also contains the once upper-class establishment of the Station Hotel, where patrons would sit on the wide verandahs and be served cooling drinks under whirling fans.

@@ -1,6 +1,8 @@
 ---
 title: "Annapolis"
 type: location
+latitude: 38.97864
+longitude: -76.492786
 ---
 
 We currently have no information about Annapolis.

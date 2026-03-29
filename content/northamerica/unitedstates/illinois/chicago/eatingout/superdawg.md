@@ -6,6 +6,8 @@ phone: "(773) 763-0660"
 price: "About $6 per person with drink"
 type: "Local"
 url: "www.superdawg.com"
+latitude: 41.996782
+longitude: -87.787038
 ---
 
 Drive-in Style Superdawg(Hot Dog) and Burger hot dog stand. Look for the Superdawgs on the roof with a winking eye.

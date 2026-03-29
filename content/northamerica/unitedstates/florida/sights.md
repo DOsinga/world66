@@ -6,6 +6,8 @@ email: "druffej@nationwide.com"
 opening_hours: "9am-5pm"
 phone: "407-870-5534"
 type: "Public Buildings"
+latitude: 39.76366
+longitude: -84.192606
 ---
 
 cities

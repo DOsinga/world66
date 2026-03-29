@@ -7,6 +7,8 @@ email: "stmarksbooks@mindspring.com"
 phone: "212-260-7853"
 type: "Book shops"
 url: "www.stmarksbookshop.com"
+latitude: 51.531324
+longitude: 0.158081
 ---
 
 Located in New York's funky East Village, St. Mark's Bookshop is the number one choice for the city's eclectic readers. In addition to cultural and critical theory books, St. Mark's Bookshop also has literature, literary journals, and a hefty number of self-published books.

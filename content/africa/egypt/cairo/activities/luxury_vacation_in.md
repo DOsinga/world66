@@ -6,6 +6,8 @@ email: "adsense@seoera.net"
 phone: "0"
 type: "Spa and Sauna"
 url: "egypttourinfo.com"
+latitude: 30.044388
+longitude: 31.235726
 ---
 
 Itinerary: Luxury Vacation in Egypt, 12 Days

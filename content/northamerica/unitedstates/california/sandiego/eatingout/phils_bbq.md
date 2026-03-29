@@ -4,6 +4,8 @@ type: poi
 address: "4030 Goldfinch St., San Diego, CA 92101-6027"
 phone: "619-688-0559"
 type: "American"
+latitude: 32.75046
+longitude: -117.171574
 ---
 
 The best barbecue restaurant in town - ribs, chicken.

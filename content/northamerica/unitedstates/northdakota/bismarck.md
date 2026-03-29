@@ -1,6 +1,8 @@
 ---
 title: "Bismarck"
 type: location
+latitude: 46.808327
+longitude: -100.783739
 ---
 
 Bismarck is the capital of North Dakota and one of the most attractive places to visit. Attractions include the stately former Governor’s Mansion as well as the modernist-style state capitol, but the major draw is the North Dakota Heritage Center, a combination of museum, state archives and art gallery. Other interesting things to do are and see the Railroad Museum, as well as a tour of the Cathedral Area Historic District.

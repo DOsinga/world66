@@ -2,6 +2,8 @@
 title: "ExCeL Exhibition Centre"
 type: poi
 type: "Convention Center"
+latitude: 51.508012
+longitude: 0.026142
 ---
 
 The ExCeL Exhibition Centre is a large purpose built exhibition centre situated in the Royal Docks area of London's redeveloped Docklands, at grid reference TQ408807. The centre opened in November 2000 and its name is formed from the words Exhibition, Centre and London.

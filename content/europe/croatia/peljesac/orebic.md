@@ -1,6 +1,8 @@
 ---
 title: "Orebic"
 type: location
+latitude: 42.976914
+longitude: 17.183237
 ---
 
 Travel Guide

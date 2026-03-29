@@ -1,6 +1,8 @@
 ---
 title: "Indian"
 type: poi
+latitude: 60.987796
+longitude: -149.514272
 ---
 
 **Restaurants**
@@ -15,7 +17,8 @@ tel: (212) 888-2839
 
 **Bay Leaf**
 
-Good lunch buffet. 
+Good lunch buffet.
+ 
 
 address: 49 W. 56th St.
 

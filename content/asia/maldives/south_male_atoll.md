@@ -1,6 +1,8 @@
 ---
 title: "South Male Atoll"
 type: location
+latitude: 3.969066
+longitude: 73.431127
 ---
 
 The South Male Atoll is located south of [Male](/asia/maldives/male).

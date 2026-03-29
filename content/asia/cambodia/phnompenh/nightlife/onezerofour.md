@@ -6,6 +6,8 @@ closing_time: "2am"
 email: "info@104-cambodia.com"
 type: "Erotic clubs and bars"
 url: "www.104-cambodia.com"
+latitude: 30.133074
+longitude: 31.367589
 ---
 
 OneZeroFour, the only bar on 104 street that is open and not

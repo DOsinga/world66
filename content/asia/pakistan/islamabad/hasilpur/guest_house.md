@@ -1,6 +1,8 @@
 ---
 title: "Guest house"
 type: location
+latitude: 25.377256
+longitude: 68.337734
 ---
 
 Travel Guide

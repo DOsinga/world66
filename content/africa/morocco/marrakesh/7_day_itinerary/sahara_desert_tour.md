@@ -5,6 +5,8 @@ address: "Hay salam Marrakech"
 email: "toursofpeace@gmail.com"
 phone: "+212676239065"
 url: "www.toursofpeace.com"
+latitude: 32.99714
+longitude: -7.619192
 ---
 
 Normal

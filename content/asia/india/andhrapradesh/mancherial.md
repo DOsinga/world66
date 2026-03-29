@@ -1,6 +1,8 @@
 ---
 title: "Mancherial"
 type: location
+latitude: 18.981297
+longitude: 79.51981
 ---
 
 Travel Guide

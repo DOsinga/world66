@@ -1,6 +1,8 @@
 ---
 title: "Sete Cidades"
 type: location
+latitude: 37.861983
+longitude: -25.796881
 ---
 
 Travel Guide

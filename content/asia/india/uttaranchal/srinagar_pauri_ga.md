@@ -1,6 +1,8 @@
 ---
 title: "Srinagar (Pauri Garhwal)"
 type: location
+latitude: 30.222175
+longitude: 78.77079
 ---
 
 Travel Guide

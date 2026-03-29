@@ -1,6 +1,8 @@
 ---
 title: "Payyanur"
 type: location
+latitude: 12.091893
+longitude: 75.195176
 ---
 
 Payyanur is situated in the Kannur district of Kerala. Sprawling in the valley of the lofty Ezhimala Hills, Payyanur has a distinguished place in the history and culture of the country. The place derives its name from the renowned Sri Subrahmanya Swami Temple located here. 'Payyan' is an appellation of Lord Subrahmanya and ‘Ooru' means the place. Thus Payyanur means the land of Lord Subrahmanya. Payyanur is also well known for Pavithra Mothiram, Astrology, art forms like Theyyam and Poorakkali. 

@@ -1,6 +1,8 @@
 ---
 title: "Pensacola Beach"
 type: location
+latitude: 30.334235
+longitude: -87.135098
 ---
 
 Travel Guide

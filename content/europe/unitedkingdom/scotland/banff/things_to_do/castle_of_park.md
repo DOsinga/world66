@@ -3,6 +3,8 @@ title: "Castle of Park"
 type: poi
 type: "Other"
 url: "www.castleofpark.net"
+latitude: 54.875997
+longitude: -4.825562
 ---
 
 Painting, writing and photography courses available at the Castle of Park, 10 miles south of Banff.

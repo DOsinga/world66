@@ -1,6 +1,8 @@
 ---
 title: "Qila Didar Singh"
 type: location
+latitude: 32.131942
+longitude: 74.015206
 ---
 
 Travel Guide

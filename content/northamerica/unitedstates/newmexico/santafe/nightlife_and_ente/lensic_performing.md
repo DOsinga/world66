@@ -6,6 +6,8 @@ email: "sales@lensic.com"
 phone: "505 988 7050/Fax 505 988 4370"
 type: "Theatres"
 url: "www.lensic.com"
+latitude: 35.687911
+longitude: -105.941065
 ---
 
 The Lensic Theater is a renovated historical theater with state-of-the-art lighting and sound systems. In this splendid theater of the west, built in 1931, Rita Hayworth, Roy Rogers and Judy Garland have performed.

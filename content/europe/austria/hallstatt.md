@@ -1,6 +1,8 @@
 ---
 title: "Hallstatt"
 type: location
+latitude: 47.56217
+longitude: 13.64867
 ---
 
 We currently have no information about Hallstatt.

@@ -1,6 +1,8 @@
 ---
 title: "Phuntsholing"
 type: location
+latitude: 26.863961
+longitude: 89.383736
 ---
 
 YOU ARE GAY Phuntsholing is the most famous gateway to Bhutan from India. It is located on the southwest corner of Bhutan on the Indian border (along the Torsa River). It is about 180 km from Thimphu, the capital city of Bhutan. It takes about 7 hours by bus to travel between Thimphu and Phuntsholing. 

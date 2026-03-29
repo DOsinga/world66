@@ -6,6 +6,8 @@ phone: "0703647134"
 price: "19.50"
 type: "French"
 url: "www.eetcafe-paraplu.nl"
+latitude: 52.013839
+longitude: 4.352568
 ---
 
 Very nice restaurant/ pub. For less than 20 euros, one can choose a three course meal, that changes every month. Great service by the staff.. 23 sorts of beer, reservation almost needed because it's a very busy place.

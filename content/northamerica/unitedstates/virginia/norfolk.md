@@ -1,6 +1,8 @@
 ---
 title: "Norfolk"
 type: location
+latitude: 36.84937
+longitude: -76.289954
 ---
 
 Norfolk has a nice airport. There is a brand new mall downtown.

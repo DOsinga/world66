@@ -1,6 +1,8 @@
 ---
 title: "St. Michaels"
 type: location
+latitude: 35.661175
+longitude: -109.097439
 ---
 
 St. Michaels is the center of a unique and magical waterworld on Maryland's fabled Eastern Shore, about halfway between the Susquehanna source and the Atlantic mouth of the Chesapeake Bay.

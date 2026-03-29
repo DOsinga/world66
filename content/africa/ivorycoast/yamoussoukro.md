@@ -1,6 +1,8 @@
 ---
 title: "Yamoussoukro"
 type: location
+latitude: 6.820007
+longitude: -5.277603
 ---
 
 In 1983 Yamoussoukro became the official capital of Cote d'Ivoir. But some twenty years later it is still capital only in name: [Abidjan](/africa/ivorycoast/abidjan) is where everything happens. 

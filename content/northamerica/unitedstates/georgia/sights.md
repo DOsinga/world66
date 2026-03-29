@@ -8,6 +8,8 @@ opening_hours: "10AM-5PM, Tues-Sun"
 phone: "404-733-HIGH"
 type: "Public Buildings"
 url: "www.high.org"
+latitude: 33.789546
+longitude: -84.386272
 ---
 
 athens university

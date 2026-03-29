@@ -3,6 +3,8 @@ title: "Valentina"
 type: poi
 address: "c/ Cuesta de Gomérez  5"
 type: "Bars & Cafes"
+latitude: 37.392027
+longitude: -3.527294
 ---
 
 type: Bars & Cafes

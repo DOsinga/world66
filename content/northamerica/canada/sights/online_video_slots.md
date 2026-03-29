@@ -8,6 +8,8 @@ opening_hours: "Ingrid"
 phone: "Ingrid"
 type: "1"
 url: "mhwee.org"
+latitude: -68.812559
+longitude: -90.743282
 ---
 
 Well done!

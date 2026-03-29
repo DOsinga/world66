@@ -5,6 +5,8 @@ address: "Borgo Ognissanti 129r"
 email: "firenze@segway.it"
 phone: "+39 055 291958"
 url: "www.segwayfirenze.com"
+latitude: 43.771696
+longitude: 11.246754
 ---
 
 This once-in-a-lifetime experience is enriched with the most important

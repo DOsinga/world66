@@ -1,6 +1,8 @@
 ---
 title: "Attendorn"
 type: location
+latitude: 51.125054
+longitude: 7.901099
 ---
 
 Travel Guide

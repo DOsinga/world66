@@ -1,6 +1,8 @@
 ---
 title: "Shiprock"
 type: location
+latitude: 36.785814
+longitude: -108.684495
 ---
 
 Travel Guide

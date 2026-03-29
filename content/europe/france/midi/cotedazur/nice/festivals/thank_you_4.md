@@ -4,6 +4,8 @@ type: poi
 address: "Vegas"
 email: "neo@hotmail.com"
 url: "thiscool.info"
+latitude: 49.099811
+longitude: 14.572662
 ---
 
 superhead and mr marcus

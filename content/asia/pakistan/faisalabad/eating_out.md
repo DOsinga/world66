@@ -4,6 +4,8 @@ type: section
 address: "Kohinoor Chowk"
 email: "faisal_hz@hotmail.com"
 type: "Indian and Pakistani"
+latitude: 31.41291
+longitude: 73.113787
 ---
 
 1:Bholi Nashta

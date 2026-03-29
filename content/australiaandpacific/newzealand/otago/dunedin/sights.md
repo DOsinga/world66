@@ -6,6 +6,8 @@ email: "larnach@larnachcastle.co.nz "
 phone: "+64 3 4761616"
 type: "general"
 url: "www.larnachcastle.co.nz"
+latitude: -45.86559
+longitude: 170.625838
 ---
 
 ### Larnach Castle

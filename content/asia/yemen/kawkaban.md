@@ -1,6 +1,8 @@
 ---
 title: "Kawkaban"
 type: location
+latitude: 15.500517
+longitude: 43.901626
 ---
 
 We currently have no information about Kawkaban.

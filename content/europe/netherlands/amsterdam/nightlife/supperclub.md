@@ -6,6 +6,8 @@ opening_hours: "19:00 - 03:00"
 phone: "020 63 80 513"
 type: "Casinos"
 url: "www.supperclub.nl"
+latitude: 52.372063
+longitude: 4.89139
 ---
 
 Restaurant and loungeclub. In the restaurant the guests lay on white

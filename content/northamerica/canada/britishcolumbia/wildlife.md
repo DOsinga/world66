@@ -1,11 +1,16 @@
 ---
 title: "Wildlife"
 type: location
+latitude: 44.018061
+longitude: -78.039865
 ---
 
 British Columbia offers an incredible variety of wildlife viewing opportunities. Travelling through the province to explore its natural history could fill an entire trip with adventure and beauty.
 
-  Please do not feed any wildlife anywhere in the province, either in city parks or in the countryside. Fed animals develop a dependence on humans and lose their fear of approaching people. Fed animals start approaching humans, people make complaints, and the animal is usually destroyed. Keep the animals alive, don't feed them. 
+
+ 
+ Please do not feed any wildlife anywhere in the province, either in city parks or in the countryside. Fed animals develop a dependence on humans and lose their fear of approaching people. Fed animals start approaching humans, people make complaints, and the animal is usually destroyed. Keep the animals alive, don't feed them.
+ 
 
 **all**
 

@@ -1,6 +1,8 @@
 ---
 title: "Pajala"
 type: location
+latitude: 67.25
+longitude: 23.0
 ---
 
 **PAJALA** 

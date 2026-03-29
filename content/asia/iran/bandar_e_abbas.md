@@ -1,6 +1,8 @@
 ---
 title: "Bandar e Abbas"
 type: location
+latitude: 27.190194
+longitude: 56.284221
 ---
 
 Travel Guide

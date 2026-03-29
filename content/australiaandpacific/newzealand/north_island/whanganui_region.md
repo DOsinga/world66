@@ -1,6 +1,8 @@
 ---
 title: "Whanganui Region"
 type: location
+latitude: -41.285019
+longitude: 174.774281
 ---
 
 The **Whanganui** , or *Wanganui*, region is named for its river. 

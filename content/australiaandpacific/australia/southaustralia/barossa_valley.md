@@ -1,6 +1,8 @@
 ---
 title: "Barossa Valley"
 type: location
+latitude: -34.600905
+longitude: 138.890809
 ---
 
 The Barossa Valley is the largest & best developed Wine region in South Australia. SA produces 60% of Australia's wine & this district has a hand in it all in some way.

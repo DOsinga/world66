@@ -1,6 +1,8 @@
 ---
 title: "Amherst"
 type: location
+latitude: 42.373195
+longitude: -72.519876
 ---
 
 Travel Guide

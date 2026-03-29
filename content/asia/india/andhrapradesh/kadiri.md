@@ -1,6 +1,8 @@
 ---
 title: "Kadiri"
 type: location
+latitude: 14.10823
+longitude: 78.161069
 ---
 
 Travel Guide

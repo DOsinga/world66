@@ -1,6 +1,8 @@
 ---
 title: "Oudtshoorn"
 type: location
+latitude: -33.590295
+longitude: 22.204206
 ---
 
 Oudtshoorn got its wealth from the Ostrich feature industry. In the roaring twenties the town boomed and got istelf the name of "The Feather Capital of the World". Today, Oudtshoorn's attraction include three show farms: Highgate, Safari and Cango Ostrich Farm. The great Palaces the nouveau riche of the feather boom built for themselves are a distinctive feature of the town. The CP Nel Museusm also goed into the history of the animal that made this a rich city. 

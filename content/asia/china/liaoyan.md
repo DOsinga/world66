@@ -1,6 +1,8 @@
 ---
 title: "Liaoyan"
 type: location
+latitude: 26.366726
+longitude: 119.423697
 ---
 
 Travel Guide

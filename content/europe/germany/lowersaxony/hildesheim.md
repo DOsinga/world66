@@ -1,6 +1,8 @@
 ---
 title: "Hildesheim"
 type: location
+latitude: 52.152719
+longitude: 9.951808
 ---
 
 Travel Guide

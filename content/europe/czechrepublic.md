@@ -1,6 +1,8 @@
 ---
 title: "Czech Republic"
 type: location
+latitude: 49.743905
+longitude: 15.338106
 ---
 
 After the fall of the Berlin wall millions of people from the west sped to the Czech republic and specially its capital Prague. And with some reason. This central European country really has a lot to show and Prague is definitely one of the most beautiful cities in the whole world. The ancient tradition of brewing beer (Budweiser was originally a czech beer) makes your stay in the country an even more enjoyable one.

@@ -1,6 +1,8 @@
 ---
 title: "Lund"
 type: location
+latitude: 49.981663
+longitude: -124.759123
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Aba"
 type: location
+latitude: 31.901569
+longitude: 102.222924
 ---
 
 Travel Guide

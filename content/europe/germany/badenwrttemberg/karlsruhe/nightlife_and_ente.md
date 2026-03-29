@@ -8,6 +8,8 @@ email: "upbum@killme.org"
 phone: "889-97453"
 type: "Casinos"
 url: "none"
+latitude: 38.874239
+longitude: 48.986771
 ---
 
 Some of Karlsruhe's nightclubs, from the perspective of a local:

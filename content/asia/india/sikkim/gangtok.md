@@ -1,6 +1,8 @@
 ---
 title: "Gangtok"
 type: location
+latitude: 27.329046
+longitude: 88.612267
 ---
 
 At first glance, **Gangtok**, Sikkim's bustling capital, is like most Indian cities much noisier and much dirtier than you might care for. A little ways into town, however, the city reflects more of the peace and tranquility you might expect from its picturesque setting in the Himalayan foothills. 

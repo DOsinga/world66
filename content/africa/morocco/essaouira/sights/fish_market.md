@@ -2,6 +2,8 @@
 title: "Fish Market"
 type: poi
 type: "Hotspots"
+latitude: 34.679588
+longitude: -1.910768
 ---
 
 Essaouira was the first commercial fishing port in Morocco and it was built around 1875.

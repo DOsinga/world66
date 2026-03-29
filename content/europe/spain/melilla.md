@@ -1,6 +1,8 @@
 ---
 title: "Melilla"
 type: location
+latitude: 35.29187
+longitude: -2.940903
 ---
 
 Melilla is one of the two Spanish enclaves that lies on the coast of [Morocco](/africa/morocco). 

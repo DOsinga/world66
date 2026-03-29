@@ -1,6 +1,8 @@
 ---
 title: "Sights"
 type: location
+latitude: 45.492668
+longitude: -73.645515
 ---
 
 There are many historic sites in Quebec City.
@@ -13,7 +15,8 @@ Tel: 418 648-4205 Fax: 418 648-4825
 
 Toll Free: 1-800-463-6769 (North America)
 
-Address: 2 d'Auteuil St (Box 2474 Postal Terminal) Québec QC G1K 7R3  
+Address: 2 d'Auteuil St (Box 2474 Postal Terminal) Québec QC G1K 7R3 
+ 
 
 **National Battlefields Park **
 

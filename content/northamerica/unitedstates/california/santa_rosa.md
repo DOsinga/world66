@@ -1,6 +1,8 @@
 ---
 title: "Santa Rosa"
 type: location
+latitude: 38.440492
+longitude: -122.714105
 ---
 
 Travel Guide

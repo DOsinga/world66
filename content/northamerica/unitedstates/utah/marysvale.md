@@ -1,6 +1,8 @@
 ---
 title: "Marysvale"
 type: location
+latitude: 38.44942
+longitude: -112.230202
 ---
 
 Travel Guide

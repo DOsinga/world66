@@ -7,6 +7,8 @@ phone: "(604) 879-7119"
 price: "under $20"
 type: "general"
 url: "www.chambar.com"
+latitude: 49.280266
+longitude: -123.109748
 ---
 
 A new funky stylish Belgian restauraunt, opened downtown near the Queen Elizabeth Theatre, the library and both stadiums. It is a stone's throw away from the Stadium Skytrain Station.

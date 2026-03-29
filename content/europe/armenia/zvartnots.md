@@ -1,6 +1,8 @@
 ---
 title: "Zvartnots"
 type: location
+latitude: 40.169757
+longitude: 44.327218
 ---
 
 Zvartnots is the name of the airport of Yerevan, but also the site of one of the oldest cathedrals of the Armenian church, Zvartnots cathedral. It was built in the seventh century by Catholicos Nerses II, but destroyed by an earthquake in the 10 century and never restored.

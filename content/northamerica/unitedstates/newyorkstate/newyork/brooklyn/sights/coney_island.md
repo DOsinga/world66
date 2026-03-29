@@ -2,6 +2,8 @@
 title: "Coney Island"
 type: poi
 type: "Hotspots"
+latitude: 40.576508
+longitude: -73.992942
 ---
 
 Coney Island is a peninsula in Brooklyn, NY. It was once a major

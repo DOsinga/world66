@@ -8,6 +8,8 @@ phone: "070-3651404"
 price: "15 euro"
 type: "Indian and Pakistani"
 url: "www.himalayarestaurant.nl"
+latitude: 52.077376
+longitude: 4.310515
 ---
 
 The first restaurant in The Hague that serves foods from whole of the Himalayan Region (Nepalese, Indian and Bhutanese). Momo, Pure vegetable dishes like that of Vegetable Thali and Dal Bhat are the most popular dishes of this newly started restaurant.

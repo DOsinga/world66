@@ -2,6 +2,8 @@
 title: "Sitges"
 type: poi
 type: "general"
+latitude: 41.236671
+longitude: 1.822814
 ---
 
 [Sitges](/europe/spain/catalonia/sitges) is the prettiest and most popular resort in Barcelona's immediate environs and has an excellent beach.

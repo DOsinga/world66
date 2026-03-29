@@ -1,6 +1,8 @@
 ---
 title: "Kumasi"
 type: location
+latitude: 6.698561
+longitude: -1.623309
 ---
 
 Kumasi is the heart of Ashanti country. The palace of the Ashanti hene (Ashanti king) now functions as one of the largest cultural centres and is the biggest tourist attractions in town. 

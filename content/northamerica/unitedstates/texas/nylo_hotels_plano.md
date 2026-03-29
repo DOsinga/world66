@@ -1,6 +1,8 @@
 ---
 title: "NYLO HOTELS Plano"
 type: location
+latitude: 33.088925
+longitude: -96.806269
 ---
 
 Travel Guide

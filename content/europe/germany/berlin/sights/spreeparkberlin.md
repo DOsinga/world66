@@ -4,6 +4,8 @@ type: poi
 address: "Kiehnwerderallee 1-3, Treptow"
 phone: "+49 (0)30 -  533350"
 type: "Hotspots"
+latitude: 52.484234
+longitude: 13.491195
 ---
 
 Update: The Spreepark has been closed since 2002.

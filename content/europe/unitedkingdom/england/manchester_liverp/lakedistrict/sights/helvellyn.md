@@ -3,6 +3,8 @@ title: "Helvellyn"
 type: poi
 opening_hours: "h"
 type: "general"
+latitude: 54.52697
+longitude: -3.017539
 ---
 
 This is the second of the three Lake District mountains over 3,000 feet. Even so, if popularity depended on the nature of the top, few would come here except for the view. This is as full and uninterrupted as any in the whole area.

@@ -1,6 +1,8 @@
 ---
 title: "Snowdonia"
 type: location
+latitude: 53.07123
+longitude: -4.074173
 ---
 
 For great treks head North for Snowdonia. This rugged mountain land, with the highest peaks of Wales (the Snowdon) offers great walking tracks and small rustic villages where you can halt and rest.

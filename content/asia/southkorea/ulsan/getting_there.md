@@ -5,6 +5,8 @@ address: "522 Songjeong-dong, Buk-Gu, Ulsan Metropolitan City."
 phone: "052 288 7011"
 type: "By Air"
 url: "ulsan.airport.co.kr"
+latitude: 35.601922
+longitude: 129.366846
 ---
 
 Ulsan is not a difficult city to get to or away from once you are in Korea. If you have time and your own mode of transport that is.

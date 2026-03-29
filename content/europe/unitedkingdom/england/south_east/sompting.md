@@ -1,6 +1,8 @@
 ---
 title: "Sompting"
 type: location
+latitude: 50.83479
+longitude: -0.353152
 ---
 
 Travel Guide

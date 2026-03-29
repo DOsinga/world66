@@ -1,6 +1,8 @@
 ---
 title: "Butre"
 type: location
+latitude: 4.822941
+longitude: -1.916935
 ---
 
 Travel Guide

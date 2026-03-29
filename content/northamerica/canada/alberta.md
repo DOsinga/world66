@@ -1,6 +1,8 @@
 ---
 title: "Alberta"
 type: location
+latitude: 55.001251
+longitude: -115.002136
 ---
 
 Alberta's grandeur and beauty are obvious from the moment you arrive. With vast blue skies and the snow-capped Rocky Mountains, and thousands of hectares of farmland and forests, it won't be long before you're engulfed by Alberta's natural features. 

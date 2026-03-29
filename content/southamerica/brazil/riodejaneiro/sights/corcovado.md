@@ -6,6 +6,8 @@ address: "Parque Nacional da Tijuca"
 phone: "(21) 2558-1329"
 type: "Landmarks"
 url: "www.rio.rj.gov.br"
+latitude: -22.960648
+longitude: -43.250593
 ---
 
 Elected one of the "New 7 Wonders of the World".

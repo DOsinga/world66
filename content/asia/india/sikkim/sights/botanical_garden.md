@@ -2,6 +2,8 @@
 title: "Botanical Garden"
 type: poi
 type: "Hotspots"
+latitude: 28.563905
+longitude: 77.333837
 ---
 
 Located very close to Rumtek Monastery just half a kilometer before reaching Rumtek Monastery on the highway, it is maintained by the parks and Gardens unit of the Forest Department of the Government of Sikkim, the Garden is an enchanting and soothing experience among the lush green vegetation, rare plants and trees and certain species of Himalayan flowers and Orchids.

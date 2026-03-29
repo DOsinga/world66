@@ -1,6 +1,8 @@
 ---
 title: "Porto santo"
 type: location
+latitude: 33.065784
+longitude: -16.336224
 ---
 
 We currently have no information about Porto santo.

@@ -1,6 +1,8 @@
 ---
 title: "Losinj island"
 type: location
+latitude: 44.510725
+longitude: 14.503652
 ---
 
 We currently have no information about Losinj island.

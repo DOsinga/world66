@@ -1,6 +1,8 @@
 ---
 title: "Cirque des Navacelles"
 type: location
+latitude: 43.892762
+longitude: 3.509978
 ---
 
 This is a natural phenomenon without doubt, a huge circle of limestone with the village at the bottom. There is a zig-zag track down but even by motor the descent is exciting.

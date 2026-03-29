@@ -1,6 +1,8 @@
 ---
 title: "Wausau"
 type: location
+latitude: 44.959786
+longitude: -89.627279
 ---
 
 Travel Guide

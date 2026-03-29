@@ -1,6 +1,8 @@
 ---
 title: "Palair"
 type: location
+latitude: 15.184393
+longitude: 78.098817
 ---
 
 We currently have no information about Palair.

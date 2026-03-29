@@ -1,6 +1,8 @@
 ---
 title: "Agumbe"
 type: location
+latitude: 13.508483
+longitude: 75.096257
 ---
 
 For those who have

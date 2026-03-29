@@ -1,6 +1,8 @@
 ---
 title: "Eagle Bend"
 type: location
+latitude: 46.164963
+longitude: -95.039194
 ---
 
 Eagle Bend, with its population of 525 is located almost in the center of Minnesota. It is located on U.S. Highway 71 about 150 miles northwest of Minneapolis in the heart of Minnesota's dairy country. A half hour's drive will take you to some of the best fishing in the state, as well as camping, theatres and large shopping centers. 

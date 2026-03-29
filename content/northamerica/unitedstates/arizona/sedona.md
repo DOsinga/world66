@@ -1,6 +1,8 @@
 ---
 title: "Sedona"
 type: location
+latitude: 34.868861
+longitude: -111.761439
 ---
 
 Sedona was voted "The Most Beautiful Place in America" by USA's

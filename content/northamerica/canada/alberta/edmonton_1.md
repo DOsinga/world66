@@ -1,6 +1,8 @@
 ---
 title: "Edmonton"
 type: location
+latitude: 53.546205
+longitude: -113.491241
 ---
 
 Travel Guide

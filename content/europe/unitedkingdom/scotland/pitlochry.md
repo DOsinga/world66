@@ -1,6 +1,8 @@
 ---
 title: "Pitlochry"
 type: location
+latitude: 56.701969
+longitude: -3.730685
 ---
 
 Tucked away in the hills nestles the beautiful town of **Pitlochry**. It's a real trap for tourists, particularly during the Pitlochry Festival which takes place every summer at the The Pitlochry Festival Theatre.

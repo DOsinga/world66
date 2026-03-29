@@ -1,6 +1,8 @@
 ---
 title: "Doctors"
 type: location
+latitude: 52.36076
+longitude: 4.89761
 ---
 
 **Practical addresss**

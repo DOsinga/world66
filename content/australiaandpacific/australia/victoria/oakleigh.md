@@ -1,6 +1,8 @@
 ---
 title: "Oakleigh"
 type: location
+latitude: -37.90063
+longitude: 145.088637
 ---
 
 Travel Guide

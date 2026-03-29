@@ -1,13 +1,16 @@
 ---
 title: "Japanese"
 type: poi
+latitude: 48.858837
+longitude: 2.364372
 ---
 
 **Restaurants**
 
 **Tomo**
 
-Japanese family restaurant with original cooking, menues about 200 FF, closed on Sundays and Mondays, open till 10pm. Métro: Quatre Septembre, Pyramides. 
+Japanese family restaurant with original cooking, menues about 200 FF, closed on Sundays and Mondays, open till 10pm. Métro: Quatre Septembre, Pyramides.
+ 
 
 address: 39, rue Ste-Anne, Paris
 

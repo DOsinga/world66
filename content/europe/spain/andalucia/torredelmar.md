@@ -1,6 +1,8 @@
 ---
 title: "Torre del Mar"
 type: location
+latitude: 36.741385
+longitude: -4.094613
 ---
 
 We currently have no information about .

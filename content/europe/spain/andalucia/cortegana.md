@@ -1,6 +1,8 @@
 ---
 title: "Cortegana"
 type: location
+latitude: 37.909302
+longitude: -6.819617
 ---
 
 Cortegana is one of the delightful villages of the Sierra de [Aracena](/europe/spain/andalucia/aracena). It is large enough to have a few shops and at the top - which feels like a top - is the old fort and a chapel/monastery.

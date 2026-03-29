@@ -1,6 +1,8 @@
 ---
 title: "Portugalete"
 type: location
+latitude: 43.318965
+longitude: -3.019863
 ---
 
 Travel Guide

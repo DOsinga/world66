@@ -1,6 +1,8 @@
 ---
 title: "Vittoriosa"
 type: location
+latitude: 35.888112
+longitude: 14.523844
 ---
 
 Travel Guide

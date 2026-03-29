@@ -5,6 +5,8 @@ address: "Regati 1"
 opening_hours: "10-18, closed Mon., Fr."
 phone: "6 398 024"
 type: "Museums"
+latitude: 59.467615
+longitude: 24.824538
 ---
 
 type: Museums

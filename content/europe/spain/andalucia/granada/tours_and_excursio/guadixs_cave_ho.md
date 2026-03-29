@@ -5,6 +5,8 @@ address: "Granada"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 37.173499
+longitude: -3.599534
 ---
 
 A private tour to Guadix, where almost half of the inhabitants live underground. Here we will visit the "Barrio Troglodyte" to see the Cave homes. Then visit the Moorish Castle & old quarter of the village… 

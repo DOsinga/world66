@@ -5,6 +5,8 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
+latitude: 29.850964
+longitude: 31.220947
 ---
 
 Out of the complications and the normal stress of a huge city of 20 million inhabitants like Cairo,sure you need sun,sea and desert to enjoy the splendid nature..here is the solution..book now.

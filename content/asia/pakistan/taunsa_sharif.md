@@ -1,6 +1,8 @@
 ---
 title: "Taunsa Sharif"
 type: location
+latitude: 30.702589
+longitude: 70.651128
 ---
 
 Travel Guide

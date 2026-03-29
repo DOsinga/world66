@@ -1,6 +1,8 @@
 ---
 title: "History"
 type: location
+latitude: 51.496511
+longitude: -0.176002
 ---
 
 Back in the middle ages Birmingham was developing as a centre of industry. Metalwork has long been just one of the inhabitants' many skills, no doubt assisted by the seemingly endless quantities of coal and iron to hand. Over the centuries, craftsmen and their small workshops concentrated in the town and its reputation grew. The canal system developed in the late 18th century, further enhancing trade, and suddenly Birmingham began producing guns, jewellery, pins, screws and buckles by the narrowboat-load. By 1790, the population had grown up 90,000 and the city had become one of Britain's most important trade centres.In 1838 Robert Stephenson engineered the London-Birmingham railway line, which would supersede the canal trade-link to the capital. The subsequent plummeting of transport costs and resulting explosion in trade resulted in a population boom - 296,000 inhabitants by 1860.

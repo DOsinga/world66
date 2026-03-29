@@ -5,6 +5,8 @@ address: "29 El-Hegaz Street, Heliopolis, Cairo"
 email: "info@santamaria-tours.com"
 phone: "+ 2 02 22 58 99 92"
 url: "www.santamaria-tours.com"
+latitude: 30.09874
+longitude: 31.323229
 ---
 
 Our Budget cheap Egypt holidays enable you saving more money for

@@ -4,6 +4,8 @@ type: poi
 address: "Badger Creek Road, Healesville, Victoria"
 phone: "03-5957 2800"
 url: "www.zoo.org.au"
+latitude: -37.668815
+longitude: 145.530022
 ---
 
 If you’re a fan of “Croc Hunter” Steve Irwin, you’ll know just how

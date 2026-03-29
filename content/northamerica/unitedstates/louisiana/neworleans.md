@@ -1,6 +1,8 @@
 ---
 title: "New Orleans"
 type: location
+latitude: 29.956142
+longitude: -90.073393
 ---
 
 Practically everything in the New Orleans is different and special. It's a city that never ceases to amaze its visitors as well as its inhabitants, and Ryan Tamm.

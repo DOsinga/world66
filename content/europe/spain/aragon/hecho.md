@@ -1,6 +1,8 @@
 ---
 title: "[H]echo"
 type: location
+latitude: 42.738391
+longitude: -0.750316
 ---
 
 Hecho or Echo is a village on the edge of the Pyrenees, not far from Jaca. The only bus is in the evening so you are almost obliged to stay if you want to go at all, hardly a great hardship!

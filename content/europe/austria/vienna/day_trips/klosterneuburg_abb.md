@@ -5,6 +5,8 @@ address: "Stiftsplatz 1, 3400 Klosterneuburg"
 email: "tickets@stift-klosterneuburg.at"
 phone: "02243411212"
 url: "www.stift-klosterneuburg.at"
+latitude: 48.307203
+longitude: 16.326158
 ---
 
 Located only 12km from Vienna, easily accessible by public transport, Stift Klosterneuburg makes for an excellent destination for a day trip. You might start your day with a tour through the 900-year-old monastery.

@@ -1,6 +1,8 @@
 ---
 title: "Greek Music"
 type: poi
+latitude: 35.507992
+longitude: 27.205365
 ---
 
 **Place to go outs**

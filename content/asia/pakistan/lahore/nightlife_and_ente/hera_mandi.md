@@ -6,6 +6,8 @@ address: "Mall Road"
 closing_time: "04.10"
 email: "info@paktraveler.com"
 type: "Salsa"
+latitude: 31.104774
+longitude: 77.161717
 ---
 
 There are many hotels in Lahore, a few of these are located on the Mall Road, also known as "Cool Road" or "Thandi Sarak"

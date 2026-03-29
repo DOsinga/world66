@@ -1,6 +1,8 @@
 ---
 title: "Beaufort"
 type: location
+latitude: 35.469331
+longitude: -76.892752
 ---
 
 A city of rich history, Southern hospitality and casual seaside charm, the “Queen of the Carolina Sea Islands” was discovered by the Spanish in 1514 and chartered by the British in 1711. Enjoying great prosperity in the eighteenth century as indigo and rice plantations thrived, Sea Island Cotton also brought tremendous wealth to the area prior to the Civil War.

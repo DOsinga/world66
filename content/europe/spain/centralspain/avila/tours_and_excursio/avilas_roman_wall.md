@@ -5,6 +5,8 @@ address: "Avila"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 40.656478
+longitude: -4.700217
 ---
 
 Ávila is one of the oldest of all the cities in Castilla y León. The Celtic Iberians were the first to leave their mark, which can be seen in the stone boars and the nearby Castro de las Cogotas (hill fort), epicentre of the Vettone culture. The Romans also reached this area and the Arabs filled the area with their culture until the final conquest by the Christians. 

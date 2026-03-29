@@ -2,6 +2,8 @@
 title: "Face Bar"
 type: poi
 type: "Pubs"
+latitude: 22.305197
+longitude: 114.169298
 ---
 
 Face Bar in Luohu is good. Good hip hop music every night.

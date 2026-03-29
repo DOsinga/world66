@@ -4,6 +4,8 @@ type: poi
 address: "Stadhouderslaan 43"
 opening_hours: "noon - 8 pm"
 url: "www.gem-online.com"
+latitude: 52.089564
+longitude: 5.143752
 ---
 
 Located next to the gemeentemuseum, GEM is the Hague's museum of

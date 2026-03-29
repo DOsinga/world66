@@ -3,6 +3,8 @@ title: "Shivneri Fort"
 type: poi
 email: "bhatkanti@gmail.com"
 url: "bhatkanti.blogspot.com"
+latitude: 19.198371
+longitude: 73.859613
 ---
 
 About 90 kms away from Pune is **Shivneri fort** where Shivaji Maharaj was

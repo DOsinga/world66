@@ -5,6 +5,8 @@ address: "U Zvonarky 9"
 phone: "+420 222511103"
 type: "Speciality shops"
 url: "www.incognitofashion.com"
+latitude: 50.070512
+longitude: 14.434057
 ---
 
 Here are a few places where you can go shopping.

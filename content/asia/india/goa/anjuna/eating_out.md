@@ -5,6 +5,8 @@ accessibility: "u could walk there.."
 address: "Anjuna Beach"
 price: "very reasonable"
 type: "European"
+latitude: 15.576096
+longitude: 73.740184
 ---
 
 ### [SanFrancisco Restaurant](/asia/india/goa/anjuna/eatingout/sanfrancisco_resta)

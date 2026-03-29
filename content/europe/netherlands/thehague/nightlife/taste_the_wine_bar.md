@@ -8,6 +8,8 @@ email: "lateralshoot@gmail.com"
 phone: "(070) 360 53 95"
 type: "Wine bars"
 url: "www.lateralshoot.com"
+latitude: 52.084546
+longitude: 4.312194
 ---
 
 Interesting upmarket wine bar in the Hague. Worth a go if you're sick of beer.

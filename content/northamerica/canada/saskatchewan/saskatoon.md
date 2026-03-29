@@ -1,6 +1,8 @@
 ---
 title: "Saskatoon"
 type: location
+latitude: 52.131802
+longitude: -106.660767
 ---
 
 **Location** 

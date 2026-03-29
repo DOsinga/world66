@@ -1,6 +1,8 @@
 ---
 title: "Molimo-nthuse"
 type: location
+latitude: -29.421127
+longitude: 27.906126
 ---
 
 We currently have no information about Molimo-nthuse.

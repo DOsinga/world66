@@ -1,9 +1,12 @@
 ---
 title: "Aladino"
 type: poi
+latitude: 41.857047
+longitude: 12.570721
 ---
 
-Closed Tuesdays  
+Closed Tuesdays 
+ 
 
 address: Via delle Prome, 11
 

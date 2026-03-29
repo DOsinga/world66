@@ -4,6 +4,8 @@ type: poi
 address: "815 7th St NW"
 phone: "(202)408-9292"
 type: "Indian"
+latitude: 38.900243
+longitude: -77.021752
 ---
 
 type: Indian

@@ -1,6 +1,8 @@
 ---
 title: "Kitwe"
 type: location
+latitude: -12.820369
+longitude: 28.215597
 ---
 
 Copper is the backbone of the Azmbian economy. Kitwe is right in the heart of the copper producing area. A visit to the copper belt must include a trip to Kitwe. It is the hub of the Copperbelt and the major industrial and commercial centre of the area.

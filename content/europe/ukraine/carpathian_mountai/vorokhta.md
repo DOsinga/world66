@@ -1,6 +1,8 @@
 ---
 title: "Vorokhta"
 type: location
+latitude: 48.292983
+longitude: 24.563579
 ---
 
 Travel Guide

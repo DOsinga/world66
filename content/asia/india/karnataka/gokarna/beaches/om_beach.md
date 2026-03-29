@@ -1,6 +1,8 @@
 ---
 title: "Om Beach"
 type: poi
+latitude: 14.519065
+longitude: 74.325424
 ---
 
 Shaped like the Hindu spiritual symbol of Om, this is the most famous

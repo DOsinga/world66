@@ -1,6 +1,8 @@
 ---
 title: "Upper Kern River"
 type: location
+latitude: 35.999282
+longitude: -118.478468
 ---
 
 Travel Guide

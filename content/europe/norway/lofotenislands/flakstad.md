@@ -1,6 +1,8 @@
 ---
 title: "Flakstad"
 type: location
+latitude: 68.120468
+longitude: 13.049638
 ---
 
 Flakstad Municipality consists of Flakstad Island and the northern tip of Moskenes Island. The origin of the name Flakstad is debatable. It might derive from the word "flag", meaning "cliff". An older name for the island was "Vargfot", meaning "wolfªs paw". The E10, officially named "King Olav V´s Road", passes through Flakstad on its way to ». Most of the Flakstad habitation is to be found along the outer edge of Lofoten, facing the ocean, in fishing hamlets such as Ramberg and Fredvang. On the Vestfjord side, we find Sund, Skjelfjord, Nesland and Nusfjord. 

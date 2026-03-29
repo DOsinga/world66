@@ -2,6 +2,8 @@
 title: "Shopping"
 type: section
 type: "Shopping centers and malls"
+latitude: 3.156069
+longitude: 101.611368
 ---
 
 [

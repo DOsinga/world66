@@ -4,6 +4,8 @@ type: poi
 address: "Namesti Republiky 8"
 type: "Shopping centers and malls"
 url: "www.od-kotva.cz"
+latitude: 50.089098
+longitude: 14.427705
 ---
 
 Kotva is a large department store, selling all kind of goods - clothes, shoes, jewellery, stationary, perfumery, sports clothes & equipment and much more.

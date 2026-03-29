@@ -1,6 +1,8 @@
 ---
 title: "Kenting"
 type: location
+latitude: 21.945308
+longitude: 120.798785
 ---
 
 Kenting in the south of [Taiwan](/asia/taiwan) is quite a popular beach area and bordering on the tropical region of Taiwan with its banana trees, sugar cane and rice paddies. Don’t hesitate to rent a bike and explore the (flat) surroundings. 

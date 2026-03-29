@@ -1,6 +1,8 @@
 ---
 title: "Kintampo"
 type: location
+latitude: 8.053714
+longitude: -1.728919
 ---
 
 This place is especially known for it's beautyfull and very touristic waterfalls. 

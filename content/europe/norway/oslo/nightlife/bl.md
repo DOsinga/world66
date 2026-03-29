@@ -8,6 +8,8 @@ email: "post@blaaoslo.no"
 phone: "+47 40004277"
 type: "Clubs and dancing"
 url: "www.blaaoslo.no"
+latitude: 59.92044
+longitude: 10.752733
 ---
 
 BLÅ

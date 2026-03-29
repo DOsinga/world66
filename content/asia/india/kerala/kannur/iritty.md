@@ -1,6 +1,8 @@
 ---
 title: "Iritty"
 type: location
+latitude: 11.977312
+longitude: 75.723164
 ---
 
 Travel Guide

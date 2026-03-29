@@ -1,6 +1,8 @@
 ---
 title: "Oxford"
 type: location
+latitude: 34.366377
+longitude: -89.518766
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Mompiche"
 type: location
+latitude: 0.500201
+longitude: -80.019672
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Pudukkottai"
 type: location
+latitude: 10.290307
+longitude: 78.817362
 ---
 
 Travel Guide

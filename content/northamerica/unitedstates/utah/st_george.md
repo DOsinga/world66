@@ -1,6 +1,8 @@
 ---
 title: "St. George"
 type: location
+latitude: 37.109877
+longitude: -113.583206
 ---
 
 Travel Guide

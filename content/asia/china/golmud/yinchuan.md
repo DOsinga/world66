@@ -1,6 +1,8 @@
 ---
 title: "Yinchuan"
 type: location
+latitude: 38.48717
+longitude: 106.226657
 ---
 
 Travel Guide

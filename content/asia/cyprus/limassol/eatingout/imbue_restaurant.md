@@ -8,6 +8,8 @@ phone: "00357-25952550"
 price: "£7 cyp main course"
 type: "Vegetarian"
 url: "www.imbuefood.com"
+latitude: 34.75922
+longitude: 32.853051
 ---
 
 A little out of the way from the hustle of Limassol in the village of Akrotiri is imbue Restaurant.

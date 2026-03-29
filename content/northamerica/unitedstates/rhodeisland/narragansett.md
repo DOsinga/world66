@@ -1,6 +1,8 @@
 ---
 title: "Narragansett"
 type: location
+latitude: 41.432557
+longitude: -71.457984
 ---
 
 Travel Guide

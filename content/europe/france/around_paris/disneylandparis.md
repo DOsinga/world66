@@ -1,6 +1,8 @@
 ---
 title: "Disneyland Paris"
 type: location
+latitude: 48.870093
+longitude: 2.77405
 ---
 
 Disneyland Paris is very popular with children all over Europe. It is a big theme park with many attractions. We will not describe all of them in detail - whatever we say about them, your children will have a better idea of what it is like, anyway. 

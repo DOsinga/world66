@@ -1,6 +1,8 @@
 ---
 title: "St.Bernard"
 type: location
+latitude: 10.279493
+longitude: 125.139486
 ---
 
 Travel Guide

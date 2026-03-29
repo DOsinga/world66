@@ -1,6 +1,8 @@
 ---
 title: "Bryggen"
 type: poi
+latitude: 60.397726
+longitude: 5.322933
 ---
 
 Facing the water from the market, you will see the impressive old buildings of Bryggen to your right across the water. These are reminiscent of the days when Bergen was an important port of the Hanseatic League.

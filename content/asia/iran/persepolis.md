@@ -1,6 +1,8 @@
 ---
 title: "Persepolis"
 type: location
+latitude: 29.935167
+longitude: 52.890404
 ---
 
 **Persepolis** is one of the most ancient sites of [Iran](/asia/iran) located in 30 miles or 48 km northeast of Shiraz. It was founded by Darius the Great in the 6th century BC. 

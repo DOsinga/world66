@@ -1,6 +1,8 @@
 ---
 title: "Festivals"
 type: location
+latitude: 33.839959
+longitude: 135.773971
 ---
 
 Hija River Koi-nobori Festival:

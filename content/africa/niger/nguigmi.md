@@ -1,6 +1,8 @@
 ---
 title: "Nguigmi"
 type: location
+latitude: 14.256858
+longitude: 13.115596
 ---
 
 Located in the farthest reaches of eastern Niger N’Guigmi is the last town on the dirt road to Chad. It’s a gray dusty frontier outpost that feels very much like the end of the road. The market to the south does a big trade in camels because the area is primarily populated by nomadic people the Canori and Toubou. The Toubou who are particularly imposing produce interesting leather and metal work including sharp knives in colorful red scabbards that the men wear strapped on their arms.

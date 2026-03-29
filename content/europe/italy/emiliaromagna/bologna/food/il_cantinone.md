@@ -3,6 +3,8 @@ title: "Il Cantinone"
 type: poi
 address: "Via del Pratello 56A"
 type: "Italian"
+latitude: 44.495439
+longitude: 11.331764
 ---
 
 **Il Cantinone**, Via del Pratello 56A, A great place to

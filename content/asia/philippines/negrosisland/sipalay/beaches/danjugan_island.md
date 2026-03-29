@@ -2,6 +2,8 @@
 title: "Danjugan Island"
 type: poi
 address: "Sipalay City"
+latitude: 9.749127
+longitude: 122.40406
 ---
 
 Very Beautiful, one of the World's Best Island Paradise.

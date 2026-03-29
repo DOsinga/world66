@@ -6,6 +6,8 @@ email: "luxor@hilton.com"
 phone: "+20 (95) 237 4933"
 type: "International"
 url: "www.hiltonworldresorts.com"
+latitude: 25.730308
+longitude: 32.656141
 ---
 
 With contemporary interiors inspired by the Rosetta Stone, our informal

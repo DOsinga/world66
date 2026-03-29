@@ -1,6 +1,8 @@
 ---
 title: "South African"
 type: poi
+latitude: -28.816624
+longitude: 24.991639
 ---
 
 For a real taste of South Africa you can dine at one of these restaurants.

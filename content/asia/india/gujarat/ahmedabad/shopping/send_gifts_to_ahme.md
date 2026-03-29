@@ -7,6 +7,8 @@ email: "sales@allindiaflorist.com"
 phone: "919897064001"
 type: "Shopping centers and malls"
 url: "www.allindiaflorist.com"
+latitude: 59.983339
+longitude: 30.336459
 ---
 
 Send gifts to Ahmedabad, cakes to Ahmedabad, Flower and cake delivery in

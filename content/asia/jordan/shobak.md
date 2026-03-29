@@ -1,6 +1,8 @@
 ---
 title: "Shobak"
 type: location
+latitude: 30.503981
+longitude: 35.566664
 ---
 
 Shobak is located between [Karak](/asia/jordan/karak) and [Petra](/asia/jordan/petra). It's 250 km from [Amman](/asia/jordan/amman). The reason to come here is the large Crusader castle. It was built around 1115 ADand was captured by Saladin in 1189. 

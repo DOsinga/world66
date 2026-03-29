@@ -5,6 +5,8 @@ address: "NA"
 email: "globalcrosssafaris@yahoo.com"
 phone: "+254 0720 780052"
 url: "www.globalcrosssafaris.con"
+latitude: -23.23355
+longitude: 17.323111
 ---
 
 Nairobi Excursions (GCS:1)

@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "general"
+latitude: 29.999987
+longitude: 102.980403
 ---
 
 ### [Three Pagodas](/asia/china/yunnanprovince/dali/sights/threepagodas)

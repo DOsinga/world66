@@ -1,6 +1,8 @@
 ---
 title: "Pere Lachaise"
 type: poi
+latitude: 48.86113
+longitude: 2.394009
 ---
 
 Quite a strange sight: a graveyard. Full of tourists on their way to the tomb of their favourite writer, singer, rockstar. Jim Morisson is the number one now. His fans outnumber those of Moliere, Balzac, Proust, Edith Piaf, Chopin, Oscar Wilde and Isadora Duncan.

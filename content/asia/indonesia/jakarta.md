@@ -1,6 +1,8 @@
 ---
 title: "Jakarta"
 type: location
+latitude: -6.175405
+longitude: 106.827168
 ---
 
 Travel Guide

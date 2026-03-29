@@ -1,6 +1,8 @@
 ---
 title: "Folgaria"
 type: location
+latitude: 45.914973
+longitude: 11.173015
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Carfax Tower"
 type: poi
 address: "Carfax"
 type: "Cathedral & Churches"
+latitude: 51.751978
+longitude: -1.257934
 ---
 
 Remnants of the city church dating from the 14th century.

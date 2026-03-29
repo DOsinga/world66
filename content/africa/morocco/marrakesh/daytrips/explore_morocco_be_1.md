@@ -5,6 +5,8 @@ address: "Marrakech"
 email: "berbertoursofmorocco@gmail.com"
 phone: "+212 673 199 248"
 url: "berber-tours-morocco.com"
+latitude: 31.625826
+longitude: -7.989161
 ---
 
 Taking a day trip out is perfect if you only have a short stay in Marrakech and want

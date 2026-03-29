@@ -1,6 +1,8 @@
 ---
 title: "Aracataca"
 type: location
+latitude: 10.590601
+longitude: -74.18768
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Vilnius Airport"
 type: poi
 type: "By Air"
+latitude: 54.634969
+longitude: 25.290539
 ---
 
 Vilnius international airport is currently being modernised, as such it's a bit of a mess with the construction work. However, it's small enough to be comfortable, big enough to get what you need. Most major European carriers have daily flights. Good deals on the national carrier FlyLAL - but older planes and so-so service.

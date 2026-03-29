@@ -1,6 +1,8 @@
 ---
 title: "Chambery"
 type: location
+latitude: 45.566267
+longitude: 5.920364
 ---
 
 We currently have no information about Chambery.

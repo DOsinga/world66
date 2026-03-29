@@ -1,6 +1,8 @@
 ---
 title: "Madison"
 type: location
+latitude: 43.07469
+longitude: -89.384166
 ---
 
 Madison is the capital of Wisconsin. It blends big city culture with small town charm. The city center is dominated by the State Capitol, modeled after the Capitol in Washington, D.C. Its stunning rotunda is always open to visitors. Saturday mornings from early spring to late fall, area farmers transform the Capitol Square into an open-air market. There's everything from twenty different varieties of bean sprouts to freshly made summer sausage. The people-watching is unbeatable. Directly south of the Capitol, perched on the edge of Lake Monona, is the celebrated Monona Terrace Community and Convention Center. The center, completed in 1997, is based on a 1938 design by one of Wisconsin's most notable native sons, Frank Lloyd Wright. 

@@ -6,6 +6,8 @@ date: "2007/3/13"
 email: "yayawilliam@gmail.com"
 phone: "Festivals of Ethnic Minority Peoples"
 url: "www.china-tour.cn"
+latitude: 34.261004
+longitude: 108.942336
 ---
 
 Chinese ethnic minority peoples also have their own unique festivities.

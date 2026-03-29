@@ -6,6 +6,8 @@ email: "none"
 phone: "none"
 type: "Trekking"
 url: "none"
+latitude: 43.660139
+longitude: -79.417114
 ---
 
 Here are a few things you can do in Embrun.

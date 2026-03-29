@@ -5,6 +5,8 @@ address: "Route 3, Chester, NS"
 phone: "(902) 275-4425"
 type: "Parks, Gardens and Zoos"
 url: "parks.gov.ns.ca"
+latitude: 44.54732
+longitude: -64.232154
 ---
 
 Joined

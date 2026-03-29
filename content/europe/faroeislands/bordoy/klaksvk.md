@@ -1,6 +1,8 @@
 ---
 title: "Klaksvík"
 type: location
+latitude: 62.225492
+longitude: -6.583775
 ---
 
 Travel Guide

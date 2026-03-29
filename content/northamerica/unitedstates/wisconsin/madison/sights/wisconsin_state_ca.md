@@ -3,6 +3,8 @@ title: "Wisconsin State Capitol"
 type: poi
 type: "Public Buildings"
 url: "www.wisconsin.gov"
+latitude: 43.074692
+longitude: -89.384166
 ---
 
 Facts About the Capitol's Architect George Browne Post (1837 - 1913) started his career in 1858 after graduating from New York University with a degree in civil engineering. For two years, he studied architecture at the New York Studios of renowned architect Richard Morris Hunt.

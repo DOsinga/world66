@@ -1,6 +1,8 @@
 ---
 title: "Northern Ireland"
 type: location
+latitude: 54.585984
+longitude: -6.959155
 ---
 
 The capital of Northern Ireland, and also the largest city by far is

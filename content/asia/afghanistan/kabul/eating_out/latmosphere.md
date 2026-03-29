@@ -5,6 +5,8 @@ address: "Street 4 Qalai Fatullah"
 phone: "070-224-982"
 type: "French"
 url: "latmospherekabul.blogs.com"
+latitude: 34.54568
+longitude: 69.165989
 ---
 
 Pool is nice to sit and drink by when the weather is nice.

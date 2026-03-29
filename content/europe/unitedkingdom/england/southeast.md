@@ -1,6 +1,8 @@
 ---
 title: "Southeast"
 type: location
+latitude: -22.984987
+longitude: -43.207398
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Planken"
 type: location
+latitude: 47.185885
+longitude: 9.545221
 ---
 
 We currently have no information about Planken.

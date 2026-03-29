@@ -1,6 +1,8 @@
 ---
 title: "Jhelum"
 type: location
+latitude: 32.924726
+longitude: 73.719388
 ---
 
 Jhelum is located in northern Pakistan. Jhelum river is one of the subsiaries of the Punjab river. It's a very old city. It was known to the Greeks as Hydaspes - Alexander the great dropped by when he tried to conquer the planet.

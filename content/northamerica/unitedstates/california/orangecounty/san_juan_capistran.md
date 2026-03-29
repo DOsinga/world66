@@ -1,6 +1,8 @@
 ---
 title: "San Juan Capistrano"
 type: location
+latitude: 33.501693
+longitude: -117.662551
 ---
 
 Travel Guide

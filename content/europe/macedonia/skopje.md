@@ -1,6 +1,8 @@
 ---
 title: "Skopje"
 type: location
+latitude: 41.996182
+longitude: 21.431921
 ---
 
 Skopje is the capital and most important city in Macedonia. At first sight it looks like a very modern city. A visit to the parts of Old Skopje that survived the catastrophic 1963 earthquake will show you that it is actually a city with a long and rich past. 

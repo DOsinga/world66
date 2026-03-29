@@ -7,6 +7,8 @@ email: "biarritz.tourisme@biarritz.fr"
 phone: "(+33) 05 59 22 37 00"
 type: "Casinos"
 url: "www.ville-biarritz.fr"
+latitude: 43.483713
+longitude: -1.558382
 ---
 
 Looking for nightlife in Biarritz? No problem! There are alot to choose from!

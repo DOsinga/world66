@@ -3,6 +3,8 @@ title: "CORNUCOPIA"
 type: poi
 address: "Jungmannova 10, Praha 1"
 phone: "+42 (0)02 2422 0950"
+latitude: 50.080298
+longitude: 14.422515
 ---
 
 Open: Mon.-Thurs. 09.30 - 23.00, Fri.-Sun. 10.00 - 20.00

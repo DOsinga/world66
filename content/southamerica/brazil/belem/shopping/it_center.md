@@ -6,6 +6,8 @@ email: "sac@mercadaodaspecas.com.br"
 phone: "+55914005 0007"
 type: "Shopping centers and malls"
 url: "www.inteligentesite.com.br"
+latitude: -1.429952
+longitude: -48.485467
 ---
 
 The IT Center is a shopping of the neighborhood. It has a small size

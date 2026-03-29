@@ -3,6 +3,8 @@ title: "Museum of Contemporary Art"
 type: poi
 address: "220 E Chicago Ave"
 phone: "(312) 280-2660"
+latitude: 41.897222
+longitude: -87.621123
 ---
 
 The MCA is one of the nation's largest modern art museums, featuring work created since 1945 by artists like Franz Kline, Andy Warhol and Jeff Koons.

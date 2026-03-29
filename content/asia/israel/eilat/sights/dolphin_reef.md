@@ -7,6 +7,8 @@ opening_hours: "09:00-17:00"
 phone: "972-8-6371846"
 type: "Parks, Gardens and Zoos"
 url: "www.dolphinreef.co.il"
+latitude: -37.970347
+longitude: 144.703333
 ---
 
 A secluded beach on the shores of the Red Sea where visitors get a chance to see bottle-nose dolphins in their natural habitat. Visitors can get close to the dolphins either by participating in a guided swim/dive or from floating piers and observation points.

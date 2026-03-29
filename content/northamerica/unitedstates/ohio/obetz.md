@@ -1,6 +1,8 @@
 ---
 title: "Obetz"
 type: location
+latitude: 39.878953
+longitude: -82.950736
 ---
 
 Travel Guide

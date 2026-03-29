@@ -3,6 +3,8 @@ title: "Booking"
 type: poi
 type: "Tourist information"
 url: "www.hurtigruten.com"
+latitude: 60.392361
+longitude: 5.315612
 ---
 
 Everything can be booked in advance, and other requirements can be added to the basic travel price , including cabins, meals and car booking.

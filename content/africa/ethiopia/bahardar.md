@@ -1,6 +1,8 @@
 ---
 title: "Bahar dar"
 type: location
+latitude: 11.594966
+longitude: 37.388225
 ---
 
 We currently have no information about Bahar dar.

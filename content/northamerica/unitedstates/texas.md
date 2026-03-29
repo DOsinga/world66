@@ -1,6 +1,8 @@
 ---
 title: "Texas"
 type: location
+latitude: 31.26389
+longitude: -98.545612
 ---
 
 Vast plains. Rolling hills. A beautiful seaside. Hard to believe that all of this and more can be found in one State: Texas. 

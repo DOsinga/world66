@@ -1,6 +1,8 @@
 ---
 title: "Frankfurt"
 type: location
+latitude: 50.110644
+longitude: 8.682092
 ---
 
 Frankfurt am Main, also known as **Mainhattan** and **Bankfurt**, is a rich city in central Germany with 650.000 inhabitants. For many travellers coming from overseas it will be the first point of call in Europe, because of its airport, the leading freight airport in Europe and largest in terms of passengers on the european continent. Frankfurt is a city with two faces: on the one hand it is the cut-throat financial capital of Germany and on the other it is a civilized place which spends more per year on the arts than any other city in Europe. And although other German towns have done a better job in preserving their beautiful traditional city centres, a stay in Frankfurt will permit you to discover a very lively and international city with many things to do, both during daytime and at night.

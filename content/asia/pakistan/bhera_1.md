@@ -1,6 +1,8 @@
 ---
 title: "bhera"
 type: location
+latitude: 32.482001
+longitude: 72.911052
 ---
 
 Travel Guide

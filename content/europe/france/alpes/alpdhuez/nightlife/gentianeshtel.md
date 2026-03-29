@@ -5,6 +5,8 @@ address: "Avenue de Brandes"
 phone: "04 76 80 35 76"
 type: "Bars & Cafes"
 zipcode: "38750 ALPE D'HUEZ"
+latitude: 45.090383
+longitude: 6.070619
 ---
 
 type: Bars & Cafes

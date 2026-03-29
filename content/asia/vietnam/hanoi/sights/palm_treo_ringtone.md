@@ -8,6 +8,8 @@ opening_hours: "Betty"
 phone: "Betty"
 type: "1"
 url: "startupordie.com"
+latitude: 37.450933
+longitude: -82.839328
 ---
 
 Well done!

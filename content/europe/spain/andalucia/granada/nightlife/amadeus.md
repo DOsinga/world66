@@ -3,6 +3,8 @@ title: "Amadeus"
 type: poi
 address: "c/ Pintor López Mezquita"
 type: "Bars & Cafes"
+latitude: 37.177275
+longitude: -3.607484
 ---
 
 type: Bars & Cafes

@@ -1,6 +1,8 @@
 ---
 title: "Lasanod"
 type: location
+latitude: 8.474261
+longitude: 47.355194
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ phone: "+21235577113/ fax:35573410"
 price: "80 MAD"
 type: "African"
 url: "www.ksarbicha.com"
+latitude: 31.099917
+longitude: -4.014088
 ---
 
 **

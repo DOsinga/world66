@@ -2,6 +2,8 @@
 title: "Royal Park"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: -37.786163
+longitude: 144.949509
 ---
 
 Bounded by Flemington Road, Royal Parade, Park Street, Royal Park is a wonderful inner city respite, frequented by locals walking their dogs, or who cut across the park on the way to and from work, runners, bike riders, rollerbladers....you get the idea. Hot air balloons use the Park as their landing and take-off spot on some morning, creating an impressive sight in the early morning light. The wonderful Melbourne trams run through the middle of the park, but it's not as bad as it sounds - they create yet another unique characteristic for the park.

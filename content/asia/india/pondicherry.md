@@ -1,6 +1,8 @@
 ---
 title: "Pondicherry"
 type: location
+latitude: 10.915649
+longitude: 79.806949
 ---
 
 Travel Guide

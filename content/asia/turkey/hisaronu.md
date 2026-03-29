@@ -1,6 +1,8 @@
 ---
 title: "Hisaronu"
 type: location
+latitude: 41.560951
+longitude: 32.024659
 ---
 
 Travel Guide

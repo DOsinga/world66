@@ -1,6 +1,8 @@
 ---
 title: "JEANNETTE PA 15644"
 type: location
+latitude: 40.31051
+longitude: -79.610929
 ---
 
 Travel Guide

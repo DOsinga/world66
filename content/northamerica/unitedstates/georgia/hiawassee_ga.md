@@ -1,6 +1,8 @@
 ---
 title: "Hiawassee GA"
 type: location
+latitude: 34.947959
+longitude: -83.756992
 ---
 
 Travel Guide

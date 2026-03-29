@@ -1,6 +1,8 @@
 ---
 title: "Museum"
 type: poi
+latitude: 51.209459
+longitude: 4.394045
 ---
 
 **Sights**
@@ -39,7 +41,8 @@ bookingurl: [www.rockoxhuis.be](http://www.rockoxhuis.be)
 
 **Mayer van den Bergh Museum**
 
-This museum is dedicated to fine and applied arts, particularly from the 14th to the 16th century. Besides pictures and sculptures, you will find a unique collection of tapestries an furniture. 
+This museum is dedicated to fine and applied arts, particularly from the 14th to the 16th century. Besides pictures and sculptures, you will find a unique collection of tapestries an furniture.
+ 
 
 address: Lange Gasthuisstraat 19
 
@@ -47,7 +50,8 @@ tel: 03.232.4237
 
 **MUKHA -The Museum of Contemporary Art**
 
-This museum has a collection of mainly Belgian art from the nineteen-seventies. 
+This museum has a collection of mainly Belgian art from the nineteen-seventies.
+ 
 
 address: Leuvensstraat 32
 
@@ -55,7 +59,8 @@ tel: 03.238.5960
 
 **Nationaal Scheepsvaart Museum (The National Maritime Museum)**
 
-It is housed in the 'Steen', the oldest building in Antwerp. An impressive range of ship's models and an open-air department with real ships, make this museum one of the most fascinating in the city -if the maritime business makes your heart beat faster. 
+It is housed in the 'Steen', the oldest building in Antwerp. An impressive range of ship's models and an open-air department with real ships, make this museum one of the most fascinating in the city -if the maritime business makes your heart beat faster.
+ 
 
 address: Steenplein 1
 

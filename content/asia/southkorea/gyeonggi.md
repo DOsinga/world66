@@ -1,6 +1,8 @@
 ---
 title: "Gyeonggi"
 type: location
+latitude: 37.288468
+longitude: 127.053523
 ---
 
 Travel Guide

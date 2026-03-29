@@ -2,6 +2,8 @@
 title: "Dover Castle"
 type: poi
 type: "Castles"
+latitude: 51.128976
+longitude: 1.322876
 ---
 
 Towering high above Dover is Dover Castle. At this spot the Romans built the Pharos Light house in the 1st century AD.

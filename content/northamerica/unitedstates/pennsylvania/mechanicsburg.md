@@ -1,6 +1,8 @@
 ---
 title: "Mechanicsburg"
 type: location
+latitude: 40.210197
+longitude: -77.004728
 ---
 
 Travel Guide

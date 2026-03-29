@@ -6,6 +6,8 @@ closing_time: "4 am"
 email: "casabar1150@gmail.com"
 phone: "(+5411) 4816 2712"
 type: "Pubs"
+latitude: -32.61544
+longitude: -62.682267
 ---
 
 This is a new bar in the heart of Recoleta ( Santa Fe & Rodriguez Pena ) situated in a 3 story classic petite style house. It is an International themed bar with an Argentine flavor. Currently it opens at 7 PM for Happy Hour ( 7 - 12 - 2 x 1 beers, double shot drinks, free food ) and keeps going until 4 AM or later depending on the crowd. They offer a large selection of top import beers, Heineken on tap, and the best spirits shelf in the city.

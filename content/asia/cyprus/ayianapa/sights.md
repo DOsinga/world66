@@ -5,6 +5,8 @@ accessibility: "downtown"
 address: "ayia napa centre"
 opening_hours: "7.00 am"
 type: "Monasteries"
+latitude: 34.987769
+longitude: 33.988796
 ---
 
 napa plaza hotel

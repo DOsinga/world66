@@ -1,6 +1,8 @@
 ---
 title: "Condeixa"
 type: location
+latitude: 40.113873
+longitude: -8.498632
 ---
 
 Travel Guide

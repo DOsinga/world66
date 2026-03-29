@@ -1,6 +1,8 @@
 ---
 title: "Boston"
 type: location
+latitude: 42.358834
+longitude: -71.05783
 ---
 
 'Boston, a place where everybody knows your name and they're always glad you came'. Many people probably know Boston because it houses, in the Bull & Finch Club, the set of the popular television series 'Cheers` 

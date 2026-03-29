@@ -5,6 +5,8 @@ address: "lahore"
 email: "www.adminaqeel@gmail.com"
 price: "many more"
 type: "Indian and Pakistani"
+latitude: 31.565682
+longitude: 74.314183
 ---
 
 **Akhtar bhai kabab shop modle town d block lahore and son aqeel akhtar**

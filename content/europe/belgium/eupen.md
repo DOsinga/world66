@@ -1,6 +1,8 @@
 ---
 title: "Eupen"
 type: location
+latitude: 50.630567
+longitude: 6.031272
 ---
 
 We currently have no information about Eupen.

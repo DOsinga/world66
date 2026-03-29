@@ -1,6 +1,8 @@
 ---
 title: "Manchester"
 type: location
+latitude: 42.99564
+longitude: -71.454789
 ---
 
 Travel Guide

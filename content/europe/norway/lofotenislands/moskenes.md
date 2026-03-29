@@ -1,6 +1,8 @@
 ---
 title: "Moskenes"
 type: location
+latitude: 67.90234
+longitude: 13.041871
 ---
 
 **MOSKENES 

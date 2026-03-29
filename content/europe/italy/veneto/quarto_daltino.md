@@ -1,6 +1,8 @@
 ---
 title: "Quarto D'altino"
 type: location
+latitude: 45.580451
+longitude: 12.3705
 ---
 
 Travel Guide

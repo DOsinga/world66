@@ -1,6 +1,8 @@
 ---
 title: "Pemba"
 type: location
+latitude: -5.169062
+longitude: 39.799425
 ---
 
 Travel Guide

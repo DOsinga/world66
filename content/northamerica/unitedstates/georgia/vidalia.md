@@ -1,6 +1,8 @@
 ---
 title: "Vidalia"
 type: location
+latitude: 32.217686
+longitude: -82.413461
 ---
 
 Travel Guide

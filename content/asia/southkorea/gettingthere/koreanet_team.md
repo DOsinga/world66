@@ -6,6 +6,8 @@ email: "rowenadr@korea.net"
 phone: "(82-2) 398-1990"
 url: "www.korea.net"
 zipcode: "110-050"
+latitude: 37.575745
+longitude: 126.976692
 ---
 
 **Domestic flights:** Korean Air and Asiana Airlines provide domestic air transport service, connecting Seoul with other major cities, involving one-hour flights at most. They also connect Jejudo Island with major cities in Korea. 

@@ -1,6 +1,8 @@
 ---
 title: "Shopping"
 type: location
+latitude: 54.939683
+longitude: 23.892661
 ---
 
 the market of Siauliai

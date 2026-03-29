@@ -1,6 +1,8 @@
 ---
 title: "Braganca"
 type: location
+latitude: 41.807118
+longitude: -6.758984
 ---
 
 We currently have no information about Braganca.

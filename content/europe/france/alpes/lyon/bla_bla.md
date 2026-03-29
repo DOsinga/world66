@@ -1,6 +1,8 @@
 ---
 title: "bla bla"
 type: location
+latitude: 43.945102
+longitude: 4.806468
 ---
 
 bla bla bla

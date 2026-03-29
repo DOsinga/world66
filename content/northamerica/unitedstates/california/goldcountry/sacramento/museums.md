@@ -2,6 +2,8 @@
 title: "Museums"
 type: section
 type: "general"
+latitude: 35.782387
+longitude: -78.640062
 ---
 
 ### [Travel Through Time Science Fiction Museum](/northamerica/unitedstates/california/goldcountry/sacramento/museums/travelthroughtimesciencefictionmuseum)

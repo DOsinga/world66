@@ -3,6 +3,8 @@ title: "Kuzhupilly Beach"
 type: poi
 email: "binish.kuruvilla@gmail.com"
 url: "picasaweb.google.com"
+latitude: 10.109453
+longitude: 76.187397
 ---
 
 T he beach is 26km from Cochin

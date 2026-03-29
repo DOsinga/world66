@@ -1,6 +1,8 @@
 ---
 title: "Colombo"
 type: location
+latitude: 6.938861
+longitude: 79.854201
 ---
 
 Travel Guide

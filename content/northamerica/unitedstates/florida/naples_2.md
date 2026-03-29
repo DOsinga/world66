@@ -1,6 +1,8 @@
 ---
 title: "Naples"
 type: location
+latitude: 26.142198
+longitude: -81.794294
 ---
 
 Travel Guide

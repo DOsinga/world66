@@ -5,6 +5,8 @@ address: "Jerusalen 410"
 email: "info@peruadventurestours.com"
 phone: "0051 54 221658"
 url: "www.peruadventurestours.com"
+latitude: -31.672617
+longitude: -64.434739
 ---
 
 **Mixed Tour To Discover Agricultural Laboratory, Salt Mines And The Best Inca Archaeological Site Of South America 2 Days - 1 Night**

@@ -1,6 +1,8 @@
 ---
 title: "Paraga Beach"
 type: poi
+latitude: 39.854867
+longitude: 25.066647
 ---
 
 Nice beach located 5km south of Mykonos Beach. After 6 p.m. the beach

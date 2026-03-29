@@ -1,6 +1,8 @@
 ---
 title: "Alcains"
 type: location
+latitude: 39.915137
+longitude: -7.461465
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ibra"
 type: location
+latitude: 22.708177
+longitude: 58.540993
 ---
 
 Travel Guide

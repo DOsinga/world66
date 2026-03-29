@@ -5,6 +5,8 @@ address: "239 South Beverly Drive"
 phone: "800-345-2210"
 type: "Speciality shops"
 url: "www.beverlyhillsbehere.com"
+latitude: 34.063882
+longitude: -118.399172
 ---
 
 Rodeo Drive in Beverly Hills is the world's most famous shopping street with more designer names than any other shopping area on the planet. The minute you step onto Rodeo Drive you will notice the gorgeous designer shops of Versace, Dior, Gucci, Escada, Cartier, Valentino, Armani, Prada, Tiffany, and the list goes on and on. If you're looking for a less formal atmosphere, just head one block east to Beverly Drive. Here you will find the flagship stores of The Gap, Banana Republic, Crate & Barrel, and Pottery Barn. Head one more block east and you will find Canon Drive -- home to an amazing assortment of smaller high-end boutiques and the world famous Spago of Beverly Hills.

@@ -1,6 +1,8 @@
 ---
 title: "Winchester"
 type: location
+latitude: 39.185218
+longitude: -78.16524
 ---
 
 Winchester and Frederick County, at the top of the Shenandoah Valley and Virginia, was once Shawnee Indian camping grounds to which Pennsylvania Quakers came to settle in 1732. Today the population of the city is approximately 21,000 and the county is 35,000. The town was named Frederick Town after Frederick, father of George III of England. In 1752 the name was changed to Winchester in honor of the ancient English capital.

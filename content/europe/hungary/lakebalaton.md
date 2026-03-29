@@ -1,6 +1,8 @@
 ---
 title: "Lake balaton"
 type: location
+latitude: 46.883931
+longitude: 17.84768
 ---
 
 **BALATON**

@@ -5,6 +5,8 @@ address: "69 Turf Club Street, Turffontein, Johannesburg"
 phone: "(011) 683-5390"
 type: "Portuguese"
 url: "www.calistos.co.za"
+latitude: -26.239396
+longitude: 28.035038
 ---
 
 Located in the suthern suburbs of Johannesburg, Calisto's serves seafood and Portugese food. They also do take-away.

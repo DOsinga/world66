@@ -1,6 +1,8 @@
 ---
 title: "St. Andrews"
 type: location
+latitude: 56.34039
+longitude: -2.795584
 ---
 
 St. Andrew's is an eclectic town busling with tourists, students and golf zealots alike. 

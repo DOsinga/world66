@@ -3,6 +3,8 @@ title: "Higienópolis"
 type: poi
 address: "Av Higienopolis"
 type: "Shopping centers and malls"
+latitude: -23.473479
+longitude: -53.08595
 ---
 
 flowers

@@ -1,6 +1,8 @@
 ---
 title: "Gondar"
 type: location
+latitude: 12.610368
+longitude: 37.466766
 ---
 
 Gondar, founded by Emperor Fasilidas around 1635, is famous for its many medieval castles and the design and decoration of its churches - in particular, Debra Berhan Selassie which represents a masterpiece of the Gondarene school of art. 

@@ -1,6 +1,8 @@
 ---
 title: "Tonawanda"
 type: location
+latitude: 43.020679
+longitude: -78.878383
 ---
 
 The "Tonawandas" are also known regionally as "the Twin

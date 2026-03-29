@@ -5,6 +5,8 @@ address: "Cruz del Defensor 955"
 closing_time: "12am, weekends 2 am"
 phone: "600 800"
 type: "general"
+latitude: -25.303793
+longitude: -57.583537
 ---
 
 "Alexander´s Garden" is an elegant bar with huge tropical garden located in Asuncions safe and quite district Villa Morra.

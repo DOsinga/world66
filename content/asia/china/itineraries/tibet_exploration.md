@@ -4,6 +4,8 @@ type: location
 address: "China"
 phone: "1-800-806-0838"
 url: "www.chinatour360.com"
+latitude: 35.000074
+longitude: 104.999927
 ---
 
 ** 12-Day China Tibet Tours of Beijing - Xian - Lhasa - Shanghai**

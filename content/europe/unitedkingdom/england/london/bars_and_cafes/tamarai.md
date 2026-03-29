@@ -3,6 +3,8 @@ title: "Tamarai"
 type: poi
 accessibility: "WC2B 5PG, in Central London, UK"
 address: "167 Drury Lane, Covent Garden,"
+latitude: 51.513525
+longitude: -0.119603
 ---
 
 **Tamarai Bar : http://www.tamarai.co.uk/**

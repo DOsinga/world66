@@ -1,6 +1,8 @@
 ---
 title: "Luxembourg city"
 type: location
+latitude: 49.599833
+longitude: 6.13572
 ---
 
 Luxembourg City is the heart of the country in cultural, political and social respect. It is not only the country's capital but also one of the three capitals of the European Community (the other two being Strassbourg and Brussels). 

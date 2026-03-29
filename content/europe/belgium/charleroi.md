@@ -1,6 +1,8 @@
 ---
 title: "Charleroi"
 type: location
+latitude: 50.411623
+longitude: 4.444528
 ---
 
 Charleroi is the third biggest city of Belgium, situated in Wallonia, the French-speaking part of Belgium.

@@ -6,6 +6,8 @@ email: "mail.ox@blackwell.co.uk"
 phone: "+44 0 1865 333000"
 type: "Book shops"
 url: "www.bookshop.blackwell.co.uk"
+latitude: 51.754409
+longitude: -1.256538
 ---
 
 From antiques and art to travel and true crime, Blackwell's Books has the one of the largest selection of books in the world. Established in 1879 by Benjamin Henry Blackwell, B.H. Blackwell's opened its doors on one of the most celebrated days of the year around the world -- New Years Day.

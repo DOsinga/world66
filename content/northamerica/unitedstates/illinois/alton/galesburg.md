@@ -1,6 +1,8 @@
 ---
 title: "Galesburg"
 type: location
+latitude: 40.947565
+longitude: -90.371217
 ---
 
 Travel Guide

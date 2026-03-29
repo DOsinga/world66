@@ -1,6 +1,8 @@
 ---
 title: "Rosemont"
 type: location
+latitude: 41.994133
+longitude: -87.875674
 ---
 
 Travel Guide

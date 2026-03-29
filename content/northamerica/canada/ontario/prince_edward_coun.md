@@ -1,6 +1,8 @@
 ---
 title: "Prince Edward County"
 type: location
+latitude: 44.031827
+longitude: -77.246933
 ---
 
 Travel Guide

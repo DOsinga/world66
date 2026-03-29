@@ -1,6 +1,8 @@
 ---
 title: "Petoskey"
 type: location
+latitude: 45.373343
+longitude: -84.95533
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Ahmedabad"
 type: location
+latitude: 23.021537
+longitude: 72.580057
 ---
 
 Ahmedabad is named after a sultan who founded it in 1411. Besides being the largest city in Gujarat, it is also the second largest prosperous city in western India, covering an area of 204,6 km. The most widely spoken language is Gujarati, with Hindi and English. You might have heard of the city beacuse of one of its famous former residents, Mahatma Gandhi, whose ashram is on the banks of the river Sabarmati and became a national pilgrimage site. 

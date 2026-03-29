@@ -1,6 +1,8 @@
 ---
 title: "Il Tempo"
 type: poi
+latitude: 59.316492
+longitude: 18.071092
 ---
 
 address: Högbergsgatan 40

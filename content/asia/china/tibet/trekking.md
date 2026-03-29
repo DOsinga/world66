@@ -1,6 +1,8 @@
 ---
 title: "Trekking"
 type: location
+latitude: 30.174803
+longitude: 97.305942
 ---
 
 Himalayan treks can be taken throughout the mountainous areas of Nepal that are open to visitors (and these areas are slowly expanding). Trekking permits are needed obtained with a minimum of fuss in Kathmandu (for all of Nepal) and Pokhara (for Pokhara-based treks only). Treks can be taken with an escorted organized group or arranged independently though independent treks should be considered only by experienced adventurous travelers who have a few extra days to get things together. Most escorted treks employ Sherpa guides as well as porters to carry everyone’s belongings set up tents and cook meals. The best porters are usually employed by the tour companies but competent ones can usually be found by independents especially during the spring trekking season. Before hiring porters and guides get recommendations from other independent trekkers. Tents and other gear can be rented in Kathmandu and to a lesser extent Pokhara or you can stay in villagers’ homes along the more popular routes (this may not be very comfortable). Guest houses tea houses and lodges are also available on many routes (bedbugs included at no extra charge).

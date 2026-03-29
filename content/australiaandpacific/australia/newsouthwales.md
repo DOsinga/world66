@@ -1,6 +1,8 @@
 ---
 title: "New South Wales"
 type: location
+latitude: -31.875984
+longitude: 147.286949
 ---
 
 My favourite state - love it because it encorporates some of the most beautiful beaches, beautiful bushland and bushwalking opportunities, the gorgeous [Sydney](/australiaandpacific/australia/newsouthwales/sydney) harbour scene, and the Blue Mountains area is colder and the air is fresher there. 

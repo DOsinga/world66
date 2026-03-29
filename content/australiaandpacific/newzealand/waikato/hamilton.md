@@ -1,6 +1,8 @@
 ---
 title: "Hamilton"
 type: location
+latitude: -37.787881
+longitude: 175.281788
 ---
 
 Hamilton City is situated in the North Island and straddles the banks of the Waikato River. It is a major service centre for the fertile agricultural region of the Waikato (which generates nineteen percent of New Zealand's total export earnings).

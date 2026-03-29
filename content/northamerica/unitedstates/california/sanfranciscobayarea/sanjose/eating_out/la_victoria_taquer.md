@@ -5,6 +5,8 @@ address: "140 E. San Carlos St"
 phone: "408.293.5335"
 type: "Mexican"
 url: "www.lavicsj.com"
+latitude: 37.332549
+longitude: -121.884373
 ---
 
 A friend fond of bad-mouthing Northern California, where he's lived for

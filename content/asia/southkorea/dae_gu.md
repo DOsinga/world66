@@ -1,6 +1,8 @@
 ---
 title: "Dae Gu"
 type: location
+latitude: 35.723412
+longitude: 126.676008
 ---
 
 Travel Guide

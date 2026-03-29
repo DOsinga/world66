@@ -1,6 +1,8 @@
 ---
 title: "Naga City"
 type: location
+latitude: 13.624012
+longitude: 123.185032
 ---
 
 Travel Guide

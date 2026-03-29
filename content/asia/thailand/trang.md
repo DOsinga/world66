@@ -1,6 +1,8 @@
 ---
 title: "Trang"
 type: location
+latitude: 7.589294
+longitude: 99.5032
 ---
 
 The city of Trang with a population about 600,000 used to be an important trading port in former centuries. During the Ayuthaya period, Trang was a common port of entry for Western visitors. Most visitors come to see the nearby beaches and islands. Like the provinces of Krabi and Phang Nga, Trang has a geography of limestone mountains pocked with caves and fine sandy beaches facing beautiful idyllic islands.

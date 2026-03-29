@@ -1,6 +1,8 @@
 ---
 title: "Furore"
 type: location
+latitude: 40.618792
+longitude: 14.553348
 ---
 
 Travel Guide

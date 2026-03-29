@@ -1,6 +1,8 @@
 ---
 title: "Osoyoos"
 type: location
+latitude: 49.033333
+longitude: -119.466667
 ---
 
 Travel Guide

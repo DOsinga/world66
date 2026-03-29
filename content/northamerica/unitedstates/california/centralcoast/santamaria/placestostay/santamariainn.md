@@ -6,6 +6,8 @@ email: "innkeeper@santamariainn.com"
 phone: "805-928-7777"
 type: "Sleep Cheap"
 url: "www.santamariainn.com"
+latitude: 34.944366
+longitude: -120.435817
 ---
 
 A Central Coast landmark since 1917, The

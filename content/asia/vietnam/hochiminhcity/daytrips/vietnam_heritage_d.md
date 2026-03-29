@@ -5,6 +5,8 @@ address: "Hanoi"
 email: "sale@vietnambookingtour.com"
 phone: "084983272766"
 url: "www.vietnambookingtour.com"
+latitude: 21.028333
+longitude: 105.854041
 ---
 
 **Tour introduction**

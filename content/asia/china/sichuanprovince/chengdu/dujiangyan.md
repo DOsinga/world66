@@ -1,6 +1,8 @@
 ---
 title: "Dujiangyan"
 type: location
+latitude: 30.996525
+longitude: 103.614272
 ---
 
 Travel Guide

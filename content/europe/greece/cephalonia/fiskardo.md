@@ -1,6 +1,8 @@
 ---
 title: "Fiskardo"
 type: location
+latitude: 38.460928
+longitude: 20.575236
 ---
 
 Travel Guide

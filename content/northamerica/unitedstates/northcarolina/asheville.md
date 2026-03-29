@@ -1,6 +1,8 @@
 ---
 title: "Asheville"
 type: location
+latitude: 35.595363
+longitude: -82.550841
 ---
 
 "Land of the Sky" 

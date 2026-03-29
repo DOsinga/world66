@@ -5,6 +5,8 @@ address: "Station Avenue, Tile Hill, Coventry, CV4 9HS"
 phone: "0247 6470852"
 type: "European"
 url: "www.sizzlingpubs.co.uk"
+latitude: 52.399261
+longitude: -1.595253
 ---
 
 A Sizzling Pub For Tile Hill

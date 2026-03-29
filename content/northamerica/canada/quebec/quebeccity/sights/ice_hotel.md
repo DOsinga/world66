@@ -2,6 +2,8 @@
 title: "Ice hotel"
 type: poi
 type: "Hotspots"
+latitude: 46.944727
+longitude: -71.475826
 ---
 
 Yes, this really is an ice hotel!!!!

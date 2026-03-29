@@ -2,11 +2,18 @@
 title: "Sights"
 type: section
 type: "general"
+latitude: 29.999987
+longitude: 102.980403
 ---
 
 ### [Longmen Caves](/asia/china/henan_province/luoyang/sights/longmencaves)
 
-As one of the three caves representing the peak of Buddhist cave art, together with the Dunhuang Grottos and Datong Grottos, the Longmen caves at Luoyang is very impressed to the entire people home and overseas. It is a group of more than 100,000 statues of Buddha and his disciples caved on the cliff of the Yi River in 494 AD.   During the 19th and 20th century, the western hunters rushed into China. They beheaded many figures as possible as they can. These heads now are kept in the museums and private collections of the Europe and the North America.  Around the Longmen [more..](/asia/china/henan_province/luoyang/sights/longmencaves)
+As one of the three caves representing the peak of Buddhist cave art, together with the Dunhuang Grottos and Datong Grottos, the Longmen caves at Luoyang is very impressed to the entire people home and overseas. It is a group of more than 100,000 statues of Buddha and his disciples caved on the cliff of the Yi River in 494 AD.
+ 
+ 
+ During the 19th and 20th century, the western hunters rushed into China. They beheaded many figures as possible as they can. These heads now are kept in the museums and private collections of the Europe and the North America.
+ 
+ Around the Longmen [more..](/asia/china/henan_province/luoyang/sights/longmencaves)
 
 type: general
 
@@ -34,6 +41,9 @@ type: general
 
 ### [White Horse Temple](/asia/china/henan_province/luoyang/sights/whitehorsetemple)
 
-In front of the Mount. Mang, facing the Luoshui River, the world-famous White Horse Temple in Luoyang, one of the most ancient cities in China, is the first Buddhist temple introduced into China. The original architectures inside are of Ming and Qing style, and the 18 arhats statues reserved is the only statues of the kind in China.    With more than 1, 900 years history , the White Horse Temple was connected with a famous mythical Chinese novel Journey to the West. In the story, Xuan Zhuang, a famous monk of the Tang Dynasty traveled to India in order to get the Buddhist [more..](/asia/china/henan_province/luoyang/sights/whitehorsetemple)
+In front of the Mount. Mang, facing the Luoshui River, the world-famous White Horse Temple in Luoyang, one of the most ancient cities in China, is the first Buddhist temple introduced into China. The original architectures inside are of Ming and Qing style, and the 18 arhats statues reserved is the only statues of the kind in China. 
+ 
+ 
+ With more than 1, 900 years history , the White Horse Temple was connected with a famous mythical Chinese novel Journey to the West. In the story, Xuan Zhuang, a famous monk of the Tang Dynasty traveled to India in order to get the Buddhist [more..](/asia/china/henan_province/luoyang/sights/whitehorsetemple)
 
 type: general

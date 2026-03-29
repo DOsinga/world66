@@ -1,6 +1,8 @@
 ---
 title: "Gorski Kotar"
 type: location
+latitude: 44.958411
+longitude: 14.409484
 ---
 
 Travel Guide

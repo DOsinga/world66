@@ -5,6 +5,8 @@ address: "14 Telawi 4, Bangsar Baru"
 phone: "03-2282-0009"
 price: "reasonable - moderate"
 type: "Chinese"
+latitude: 3.131556
+longitude: 101.671599
 ---
 
 Long-standing Bangsar installation and all-time favorite for many expats - western and asian alike. Laid back, family-friendly atmosphere with an extensive menu featuring the usual array of Chinese dishes at reasonable prices.

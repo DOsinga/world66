@@ -5,6 +5,8 @@ address: "Beekpark 17"
 phone: "+31 (0)55 521 5698"
 type: "Bars"
 zipcode: "7311BZ"
+latitude: 52.216441
+longitude: 5.956872
 ---
 
 type: Bars

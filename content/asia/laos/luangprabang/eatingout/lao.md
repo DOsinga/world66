@@ -1,9 +1,12 @@
 ---
 title: "Lao"
 type: poi
+latitude: 20.017111
+longitude: 103.378253
 ---
 
-It is highly recommended to stroll around the city and check out places where the locals eat. Along the Mekong River you can find several small open-air restaurants with quite good Lao food.  
+It is highly recommended to stroll around the city and check out places where the locals eat. Along the Mekong River you can find several small open-air restaurants with quite good Lao food. 
+ 
 
 **Restaurants**
 

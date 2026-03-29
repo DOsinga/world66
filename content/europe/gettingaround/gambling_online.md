@@ -5,6 +5,8 @@ address: "Vicky"
 email: "troy@gmail.com"
 phone: "Vicky"
 url: "thaitechnics.com"
+latitude: 38.392755
+longitude: -90.38011
 ---
 
 Well done!

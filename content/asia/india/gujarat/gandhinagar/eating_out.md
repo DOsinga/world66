@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 address: "GH-5 Circle"
 type: "First Class"
+latitude: 23.233201
+longitude: 72.651488
 ---
 
 ### [Chopati (GH-5)](/asia/india/gujarat/gandhinagar/eatingout/chopati_gh5)

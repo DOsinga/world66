@@ -5,6 +5,8 @@ address: "Egypt, Cairo, Giza"
 email: "magdy@egyptonlinetours.com"
 phone: "022 0162922290"
 url: "www.egyptonlinetours.com"
+latitude: 29.976824
+longitude: 31.403346
 ---
 
 ***This article is about the Egyptian capital.***

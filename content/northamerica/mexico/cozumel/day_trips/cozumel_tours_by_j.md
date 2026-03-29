@@ -5,6 +5,8 @@ address: "Cozumel, Quintana Roo"
 email: "info@cozumel-tours.com"
 phone: "1 (866) 728-1438"
 url: "www.cozumel-tours.com"
+latitude: 20.43206
+longitude: -86.920691
 ---
 
 Cozumel Tours by Johann & Sandra offers discounted tours, activities, and cruise shore excursions in Cozumel Mexico. Excursions offered include snorkeling, scuba diving, sightseeing tours, beach breaks, horseback riding, Mayan ruins, pleasure cruises, among others. They offer their exclusive Cozumel Fun Discount Card free with every tour reservation, for additional discounts on shopping and dining at many locations in Cozumel.

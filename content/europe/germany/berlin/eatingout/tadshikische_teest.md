@@ -4,6 +4,8 @@ type: poi
 address: "Am Festungsgraben 1, 10117 Berlin"
 phone: "0049-30-2041112"
 type: "International"
+latitude: 52.518524
+longitude: 13.395498
 ---
 
 If you are touring Berlin-Mitte and you need a rest, stop at the "*Tadshikische Teestube*" (Tajikistan teahouse). You can take off your shoes, stretch out on oriental-style cushions, relax and feel like a "pasha". Let yourself be enchanted by an interiour of traditional Tadjik paintings on the wall and carved wooden beams!

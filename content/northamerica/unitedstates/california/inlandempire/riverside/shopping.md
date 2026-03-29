@@ -5,6 +5,8 @@ address: "1299 Galleria at Tyler, Riverside, California 92503"
 phone: "(951) 351-3110"
 type: "Shopping centers and malls"
 url: "www.galleriatyler.com"
+latitude: 33.909827
+longitude: -117.456987
 ---
 
 **Contributors**

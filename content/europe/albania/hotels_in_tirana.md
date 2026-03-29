@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Tirana"
 type: location
+latitude: 41.329845
+longitude: 19.818639
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "vekariya"
 type: location
+latitude: 22.819446
+longitude: 72.063445
 ---
 
 Travel Guide

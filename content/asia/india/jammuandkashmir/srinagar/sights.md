@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Hotspots"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 ### [Shankaracharya Temple](/asia/india/jammuandkashmir/srinagar/sights/shankaracharyatemple)
@@ -42,7 +44,8 @@ tel: 09910399386
 
 It is believed that this Moghul Gardens are made specially for Maharajas for taking Rest and spend their time in pleasure with their Queens. The best thing is, Hire a Shikara for this visit of Moghul Gardens, and with this you will finish your day by visiting Dal Lake and Nagin Lake also.
 
- Now, if you are ready to go- lets begin our Journey.Start early in the Morning by 9' O clock. You can Hire a Good Looking Shikara at the rate of Rs: 350 to Rs: 700 depending on the season. Ofcourse, You can bargain for the rates. Bargaining is the best choice. Dont forget to take your [more..](/asia/india/jammuandkashmir/srinagar/sights/moghulgardens)
+
+ Now, if you are ready to go- lets begin our Journey.Start early in the Morning by 9' O clock. You can Hire a Good Looking Shikara at the rate of Rs: 350 to Rs: 700 depending on the season. Ofcourse, You can bargain for the rates. Bargaining is the best choice. Dont forget to take your [more..](/asia/india/jammuandkashmir/srinagar/sights/moghulgardens)
 
 type: general
 

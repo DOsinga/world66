@@ -3,6 +3,8 @@ title: "Critical Mass"
 type: location
 address: "Embarcadero Plaza"
 url: "www.critical-mass.org"
+latitude: 37.794897
+longitude: -122.394947
 ---
 
 Every last Friday of a month, a large group of bicyclists gathers at

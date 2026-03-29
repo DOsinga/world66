@@ -1,6 +1,8 @@
 ---
 title: "Yea"
 type: location
+latitude: -37.213047
+longitude: 145.422469
 ---
 
 Travel Guide

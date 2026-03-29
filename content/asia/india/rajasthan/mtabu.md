@@ -1,6 +1,8 @@
 ---
 title: "Mt Abu"
 type: location
+latitude: 24.592433
+longitude: 72.708188
 ---
 
 dungarpur

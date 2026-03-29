@@ -8,6 +8,8 @@ opening_hours: "09.00 - 17.30"
 phone: "+353 1 453 5984"
 type: "Hotspots"
 url: "www.heritageireland.ie"
+latitude: 53.342078
+longitude: -6.307954
 ---
 
 Kilmainham Gaol (Irish: Príosún Chill Mhaighneann) is a former prison, located in Kilmainham in Dublin, which is now a museum. It has been run since the mid-1980s by the Office of Public Works (O.P.W.), an Irish Government agency.

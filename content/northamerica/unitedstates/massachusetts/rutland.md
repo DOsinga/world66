@@ -1,6 +1,8 @@
 ---
 title: "Rutland"
 type: location
+latitude: 43.608479
+longitude: -72.972477
 ---
 
 Travel Guide

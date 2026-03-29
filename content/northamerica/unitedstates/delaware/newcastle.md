@@ -1,6 +1,8 @@
 ---
 title: "New Castle"
 type: location
+latitude: 40.99992
+longitude: -80.347186
 ---
 
 New Castle, originally named Fort Casimir, was founded in 1651 by Peter Stuyvesant, who was sent to provide the Dutch with command of all river traffic. Because of its strategic locations, ownership of the settlement was constantly changing. The flags of the Netherlands, Sweden and Great Britain have all flown over New Castle.

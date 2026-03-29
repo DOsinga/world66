@@ -1,6 +1,8 @@
 ---
 title: "Gudauri"
 type: location
+latitude: 42.476558
+longitude: 44.477029
 ---
 
 Travel Guide

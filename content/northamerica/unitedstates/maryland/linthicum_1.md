@@ -1,6 +1,8 @@
 ---
 title: "Linthicum"
 type: location
+latitude: 39.203909
+longitude: -76.659709
 ---
 
 Travel Guide

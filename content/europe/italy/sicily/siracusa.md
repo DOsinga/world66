@@ -1,6 +1,8 @@
 ---
 title: "Siracusa"
 type: location
+latitude: 37.064614
+longitude: 15.29072
 ---
 
 Siracusa was for a short period of time the main rival of Athens in Greece. Back then it was the capital one of the most powerful states in the mediteranean. It has been continuously inhabtied since and this explains why some of the remains can be hard to spot. 

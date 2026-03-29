@@ -1,6 +1,8 @@
 ---
 title: "Shepparton"
 type: location
+latitude: -36.383163
+longitude: 145.398887
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Dancing"
 type: poi
+latitude: -6.0879
+longitude: 106.730721
 ---
 
 **Place to go outs**

@@ -1,6 +1,8 @@
 ---
 title: "Jakobstad"
 type: location
+latitude: 63.67447
+longitude: 22.705538
 ---
 
 Also known as Pietarsaari (in Finnish - Jakobstad is Swedish),

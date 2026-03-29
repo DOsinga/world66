@@ -1,6 +1,8 @@
 ---
 title: "Valle de Elqui"
 type: location
+latitude: -33.553253
+longitude: -70.582463
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Jersey City"
 type: location
+latitude: 40.721568
+longitude: -74.047455
 ---
 
 We currently have no information about Jersey City.

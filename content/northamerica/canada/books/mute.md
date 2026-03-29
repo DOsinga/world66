@@ -3,6 +3,8 @@ title: "MUTE"
 type: poi
 author: "Brad Steel"
 isbn: "0973642106"
+latitude: 46.519514
+longitude: -76.43683
 ---
 
 Katherine "Kat" Francis, a charming and gifted Victoria animal doctor, has just watched her life turned upside-down after a series of deaths, including the demise of her six-year marriage. But when a mysterious package shows up at her clinic-filled with gruesome photos of mutilated cattle-things are about to get a whole lot worse.

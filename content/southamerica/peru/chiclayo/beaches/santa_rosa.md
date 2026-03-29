@@ -1,6 +1,8 @@
 ---
 title: "Santa Rosa"
 type: poi
+latitude: -8.527077
+longitude: -78.067262
 ---
 
 Santa Rosa has little or no touristic infrastructure. It's a fishing village and nothing more.

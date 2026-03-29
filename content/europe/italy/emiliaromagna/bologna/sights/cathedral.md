@@ -2,6 +2,8 @@
 title: "Cathedral"
 type: poi
 type: "Churches and Cathedrals"
+latitude: 43.0922
+longitude: 11.78073
 ---
 
 Right in the center of town stands the cathedral, with an odd facade,

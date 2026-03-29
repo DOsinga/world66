@@ -1,6 +1,8 @@
 ---
 title: "Giessen"
 type: location
+latitude: 50.58088
+longitude: 8.693816
 ---
 
 Giessen is a more than 850-years old city in the middle of Hessen, between [Frankfurt](/europe/germany/hessen/frankfurt) and [Marburg](/europe/germany/hessen/marburg). It is located on the River Lahn and has more than 73.000 inhabitants. Though the inner city was destroyed in World War 2, there are a few beautiful Sites as the Burgmannenhaus, The Old Castle and the Zeughaus. 

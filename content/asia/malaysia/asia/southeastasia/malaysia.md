@@ -1,6 +1,8 @@
 ---
 title: "Malaysia"
 type: location
+latitude: 4.569375
+longitude: 102.265682
 ---
 
 Malaysia is one of the so-called Asian Dragons, of rapidly-growing economies. Located in the heart of South-East Asia, it comprises two parts: Peninsular Malaysia, bordering with Thailand in the North and Singapore in the South; and East Malaysia, with with the states of Sarawak and Sabah sharing the island of Borneo, with Indonesia. 

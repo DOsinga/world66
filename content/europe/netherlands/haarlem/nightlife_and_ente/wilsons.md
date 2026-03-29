@@ -7,6 +7,8 @@ email: "see website"
 phone: "see website"
 type: "Gay and Lesbian"
 url: "www.wilsons.nl"
+latitude: 52.377177
+longitude: 4.627771
 ---
 
 This smallish gay bar with small dance floor forms the centre of the gay scene in Haarlem. Very friendly people, clientele ranges between 16 and 160.

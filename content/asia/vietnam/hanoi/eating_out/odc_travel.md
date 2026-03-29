@@ -7,6 +7,8 @@ phone: "04 7150789"
 price: "from 5$ to 20$"
 type: "Vietnamese"
 url: "www.odctravel.com.vn"
+latitude: 21.047782
+longitude: 105.84159
 ---
 
 We are a travel company in Vietnam. We have a system restaurants over the whole Vietnam. For more information, please contact us.

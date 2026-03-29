@@ -1,9 +1,12 @@
 ---
 title: "Bavarian"
 type: poi
+latitude: 48.147396
+longitude: 11.580613
 ---
 
-If you ask a foreigner outside of Germany, what he connects with german food, he will surely mention some bavarian specialties like **Sauerkraut, Knödel, Eisbein** or **Weisswurst**. But even if the rest of Germany knows these things, they are most common in Bavaria. And right - all these things you can order in an original bavarian restaurant - and there is much more to discover! 
+If you ask a foreigner outside of Germany, what he connects with german food, he will surely mention some bavarian specialties like **Sauerkraut, Knödel, Eisbein** or **Weisswurst**. But even if the rest of Germany knows these things, they are most common in Bavaria. And right - all these things you can order in an original bavarian restaurant - and there is much more to discover!
+ 
 
 **Restaurants**
 
@@ -11,7 +14,8 @@ If you ask a foreigner outside of Germany, what he connects with german food, he
 
 Good plain cooking in bavarian atmosphere, with big and shady beergarden (900 seats)
 
-Opening Hours: from 9 am to 1 am 
+Opening Hours: from 9 am to 1 am
+ 
 
 fax: +49 (0)89 / 834 04 26
 
@@ -23,7 +27,8 @@ tel: +49 (0)89 / 88 18 05
 
 A traditional bavarian restaurant with open fire, huge portions and moderate prices. They offer a jazz-breakfast on weekends.
 
-Opening Hours: from 5 pm to 1 am 
+Opening Hours: from 5 pm to 1 am
+ 
 
 fax: +49 (0)89 / 44 8 24 00
 
@@ -35,7 +40,8 @@ tel: +49 (0)89 / 44 8 14 00
 
 Paulaner is one of the most favorite beers in bavaria, the Paulaner im Tal is furnished in a rustic style, the dishes are not only bavarian, but also international, good quality
 
-Opening Hours: from 10 am to 1 am 
+Opening Hours: from 10 am to 1 am
+ 
 
 fax: +49 (0)/ 21 99 40 22
 
@@ -59,7 +65,8 @@ tel: +49 (0)89 - 38 38 73 0
 
 **Augustiner Bräustüberl **
 
-Here you can admire the famous Bavarian service: to carry 10 beer jugs or 6 plates is not problem at all. The Bavarian "Schmankerl" (plain specialties) are natural and incomparably unexpensive. Open every day from 10am to midnight. 
+Here you can admire the famous Bavarian service: to carry 10 beer jugs or 6 plates is not problem at all. The Bavarian "Schmankerl" (plain specialties) are natural and incomparably unexpensive. Open every day from 10am to midnight.
+ 
 
 address: Landsberger Straße 19, München-Westend
 
@@ -79,7 +86,8 @@ tel: +49 (0) 89 22 16 76
 
 **Hackerhaus**
 
-The Hackerhaus of the family Pongratz is synonymous with both Bavarian tradition and avant-garde. The interior and menu are traditional, the service great store by friendliness and does everything to make you feel welcome  
+The Hackerhaus of the family Pongratz is synonymous with both Bavarian tradition and avant-garde. The interior and menu are traditional, the service great store by friendliness and does everything to make you feel welcome 
+ 
 
 fax: +49 (0)89 2 60 50 27
 
@@ -89,7 +97,8 @@ tel: +49 (0)89 2 60 50 26
 
 **Augustiner Restaurant**
 
-The Augustiner restaurants in Munich are nearly as famous as the "Hofbräuhaus". Many locals prefer the less-touristic restaurants (altogether five) of the Augustiner brewery. They serve Bavarian specialties and the popular Augustiner beer.  
+The Augustiner restaurants in Munich are nearly as famous as the "Hofbräuhaus". Many locals prefer the less-touristic restaurants (altogether five) of the Augustiner brewery. They serve Bavarian specialties and the popular Augustiner beer. 
+ 
 
 fax: +49 (0) 89 26 053 79
 
@@ -99,7 +108,8 @@ tel: +49 (0) 89 23 183 257
 
 **Welser Küche im Feldherrnkeller**
 
-Like in the middle-ages you feel, when you try out the "Mittelalterliches Schlemmermahl". In the way the Knights ate - with fingers and middle-age customs - you can enjoy the carouse for about 3 hours. The restaurant offers a 5, 6 or 10-course meal. Reservation is obligatory 
+Like in the middle-ages you feel, when you try out the "Mittelalterliches Schlemmermahl". In the way the Knights ate - with fingers and middle-age customs - you can enjoy the carouse for about 3 hours. The restaurant offers a 5, 6 or 10-course meal. Reservation is obligatory
+ 
 
 fax: +49 (0)8231 96 11 28
 
@@ -117,7 +127,8 @@ tel: +49 / 89 / 24 23 80 30
 
 **Dreigroschenkeller**
 
-The "Dreigroschenkeller", which means "Three-penny-cellar", is a very good place to eat delicous foods - and to enjoy the surrounding. The restaurant lounge is furnished with the former set of some Brecht-Weill-operas. 
+The "Dreigroschenkeller", which means "Three-penny-cellar", is a very good place to eat delicous foods - and to enjoy the surrounding. The restaurant lounge is furnished with the former set of some Brecht-Weill-operas.
+ 
 
 address: Lilienstr. 2, München
 

@@ -5,6 +5,8 @@ address: "3101 W Harvard St"
 phone: "(714) 540-0404"
 type: "Museums"
 zipcode: "Santa Ana, CA 92704"
+latitude: 33.721801
+longitude: -117.909651
 ---
 
 ### [Discovery Museum Of Orange County](/northamerica/unitedstates/california/sanfranciscobayarea/santaana/sights/discoverymuseumoforangecounty)

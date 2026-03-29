@@ -1,6 +1,8 @@
 ---
 title: "American Samoa"
 type: location
+latitude: -14.297124
+longitude: -170.713148
 ---
 
 American Samoa consists of seven islands in the Pacific. While

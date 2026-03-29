@@ -1,6 +1,8 @@
 ---
 title: "Abilene"
 type: location
+latitude: 32.44645
+longitude: -99.747591
 ---
 
 Travel Guide

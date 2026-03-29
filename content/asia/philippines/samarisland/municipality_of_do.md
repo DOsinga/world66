@@ -1,6 +1,8 @@
 ---
 title: "Municipality of Dolores"
 type: location
+latitude: 17.648598
+longitude: 120.708165
 ---
 
 a Rich in culture municipality, 3rd largest municipality of Eastern

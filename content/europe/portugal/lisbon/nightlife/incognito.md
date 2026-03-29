@@ -4,6 +4,8 @@ type: poi
 closing_time: "4"
 type: "Clubs and dancing"
 url: "www.incognitobar.com"
+latitude: 38.710767
+longitude: -9.150902
 ---
 
 This is one of the oldest clubs in Lisbon! The music is great... 

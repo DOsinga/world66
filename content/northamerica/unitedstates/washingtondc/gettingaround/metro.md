@@ -4,6 +4,8 @@ type: poi
 email: "csvc@wmata.com"
 phone: "202-962-1234"
 url: "www.metroopensdoors.com"
+latitude: 42.876579
+longitude: -78.877381
 ---
 
 The Metro system in DC is built to bring people living outside the downtown to the downtown, and was never concieved of as public transportation. It's is however the best way to navigate DC without a car, and durring any major festivites. A normal fare runs $1.20, though rush hour fares are more.

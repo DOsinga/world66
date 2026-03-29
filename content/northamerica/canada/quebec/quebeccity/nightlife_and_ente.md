@@ -6,6 +6,8 @@ closing_time: "3h00am"
 phone: "(418) 649-7212"
 type: "Gay and Lesbian"
 url: "www.ledrague.com"
+latitude: 46.810936
+longitude: -71.21681
 ---
 
 Québec's main street for bars in the Grande Allée where, in the summer,

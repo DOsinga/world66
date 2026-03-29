@@ -1,6 +1,8 @@
 ---
 title: "Batumi"
 type: location
+latitude: 41.65095
+longitude: 41.636009
 ---
 
 Travel Guide

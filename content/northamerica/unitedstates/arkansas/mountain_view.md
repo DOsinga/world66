@@ -1,6 +1,8 @@
 ---
 title: "Mountain View"
 type: location
+latitude: 37.389389
+longitude: -122.08321
 ---
 
 Travel Guide

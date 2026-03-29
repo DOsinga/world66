@@ -1,6 +1,8 @@
 ---
 title: "Eilenriede"
 type: poi
+latitude: 52.385632
+longitude: 9.769627
 ---
 
 Virtually a "city forest" and Hannover's true "green lung" is the Eilenriede forest. It covers an area of 650 hectares in the middle of the city, which makes it unique in the whole of Europe. Accordingly, the citizens of Hannover are very proud of "their" Eilenriede. The privilege to use and cultivate the Eilenriede as their possession, granted in 1371 by the dukes Wenzeslaus and Albrecht of Sachsen, is the foundation of its development. The forest stretches across the city, almost into the city centre. It takes its name from the alder trees (germ. Erlen or Ellern), which used to grow on its moist, marshy soil. The earlier "Ellernried" eventually became "Eilenriede". 

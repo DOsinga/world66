@@ -1,6 +1,8 @@
 ---
 title: "calicut"
 type: location
+latitude: 11.245909
+longitude: 75.780386
 ---
 
 We currently have no information about calicut.

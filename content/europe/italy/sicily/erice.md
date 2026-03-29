@@ -1,6 +1,8 @@
 ---
 title: "Erice"
 type: location
+latitude: 38.03823
+longitude: 12.587182
 ---
 
 Travel Guide

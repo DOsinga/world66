@@ -6,6 +6,8 @@ email: "marketing@kashmirhotravel.com"
 phone: "+91-177- 2860601"
 type: "Hotspots"
 url: "www.kashmirhotravel.com"
+latitude: 13.017253
+longitude: 80.212299
 ---
 
 ** Jammu Kashmir- “Heaven on Earth” **

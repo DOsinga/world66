@@ -1,6 +1,8 @@
 ---
 title: "Tarim"
 type: location
+latitude: 16.099041
+longitude: 49.022897
 ---
 
 We currently have no information about Tarim.

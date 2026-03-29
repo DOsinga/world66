@@ -1,6 +1,8 @@
 ---
 title: "Coral Bay"
 type: location
+latitude: -23.143675
+longitude: 113.770165
 ---
 
 Travel Guide

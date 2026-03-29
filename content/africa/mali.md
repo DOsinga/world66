@@ -1,6 +1,8 @@
 ---
 title: "Mali"
 type: location
+latitude: 16.370036
+longitude: -2.290024
 ---
 
 Mali is landlocked country in Africa. It is bordered by [Mauritania](/africa/mauritania) , [Algeria](/africa/algeria) , [Niger](/africa/niger) , [Burkina Faso](/africa/burkinafaso) , [Ivory Coast](/africa/ivorycoast) , [Guinee Conakry](/africa/guineeconakry) and [Senegal](/africa/senegal) . 

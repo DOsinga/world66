@@ -6,6 +6,8 @@ phone: "(310) 475-0729"
 price: "$40"
 type: "Middle East"
 url: "koutoubia.abemadi.com"
+latitude: 34.045009
+longitude: -118.432586
 ---
 
 If you like a nice Morrocan restaurant with lots of fun I recommend to go there on week-ends as they have entertainment with belly dancing.

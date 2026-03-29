@@ -1,6 +1,8 @@
 ---
 title: "Sivakasi"
 type: location
+latitude: 9.462799
+longitude: 77.789101
 ---
 
 Sivakasi , renowned the world over for its printing, Litho Presses,

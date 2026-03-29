@@ -1,6 +1,8 @@
 ---
 title: "Umm el jimal"
 type: location
+latitude: 32.328503
+longitude: 36.365952
 ---
 
 Umm al jimal means mother of the camel. This area, less then 100 km from [Amman](/asia/jordan/amman), is known as the 'black oasis', due to the large amount of dark volcanic stone here. The city was built on an earlier Nabataean settlement and is constructed from big chunks of basalt rock. It is once believed to have been a staging post for camel caravans. 

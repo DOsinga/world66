@@ -1,6 +1,8 @@
 ---
 title: "Events"
 type: location
+latitude: 47.093439
+longitude: 8.318217
 ---
 
 **all**

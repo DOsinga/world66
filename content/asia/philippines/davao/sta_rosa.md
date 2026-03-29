@@ -1,6 +1,8 @@
 ---
 title: "Sta. Rosa"
 type: location
+latitude: 14.314604
+longitude: 121.1137
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Prospect Park"
 type: poi
 type: "Parks, Gardens and Zoos"
 url: "www.prospectpark.org"
+latitude: 40.661774
+longitude: -73.97109
 ---
 
 The Prospect park in the New York town district Brooklyn is an open in 1867, today 2.4 km ² big park. She is on the edge of the town quarter of the same name centrally in Brooklyn about 3 km southeast of the historical centre Brooklyn Heights. The park contain a 36-hectare-lake, a zoo as well as several historical buildings and villas which are used for events. The park itself is a popular venue of open-air events like concerts. The markankten access to the park in the northwest forms the Grand Army Plaza. The landscape architects of the park were the same which finished the Central park in Manhattan few years before: Calvert Vaux and Frederick Law Olmsted. The Prospect park was taken up on the 17th of September, 1980 in the Nationwide register of Historic Places.

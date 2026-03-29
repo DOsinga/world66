@@ -6,6 +6,8 @@ email: "lsflorist05@gmail.com"
 phone: "9997515288"
 type: "Shopping centers and malls"
 url: "www.lankaflorist.com"
+latitude: 6.938861
+longitude: 79.854201
 ---
 
 Gifts to Sri Lanka, Flowers to Sri Lanka,

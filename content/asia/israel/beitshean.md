@@ -1,6 +1,8 @@
 ---
 title: "Beit Shean"
 type: location
+latitude: 32.496752
+longitude: 35.497302
 ---
 
 This park is one of the largest and unique ancient sites in Israel. It includes the mound of the city which stood here as early as the 5th millennium BCE, and the Roman-Byzantine and Arab "lower city", with its impressive remains. 

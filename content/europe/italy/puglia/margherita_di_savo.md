@@ -1,6 +1,8 @@
 ---
 title: "Margherita di Savoia"
 type: location
+latitude: 41.374235
+longitude: 16.150166
 ---
 
 We currently have no information about Margherita di Savoia.

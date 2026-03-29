@@ -1,6 +1,8 @@
 ---
 title: "Oklahoma City"
 type: location
+latitude: 35.472989
+longitude: -97.517054
 ---
 
 Oklahoma City is the capital and principle city in the state. With a population of more than 1.2 million residents in the metroplex, there is plenty to do and see. 

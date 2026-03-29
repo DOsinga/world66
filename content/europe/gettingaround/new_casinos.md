@@ -5,6 +5,8 @@ address: "Peggy"
 email: "may@pisem.net"
 phone: "Peggy"
 url: "phpicalendar.net"
+latitude: 28.739848
+longitude: -98.179431
 ---
 
 Well done!

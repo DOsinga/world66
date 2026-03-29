@@ -1,6 +1,8 @@
 ---
 title: "Aqtau"
 type: location
+latitude: 43.635336
+longitude: 51.168222
 ---
 
 Travel Guide

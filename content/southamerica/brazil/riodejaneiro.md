@@ -1,6 +1,8 @@
 ---
 title: "Rio de Janeiro"
 type: location
+latitude: -22.911014
+longitude: -43.209373
 ---
 
 **Rio de Janeiro** is one of the most spectacular cities in the world. A natural harbour surrounded by high green mountains and good beaches nearby. The best way to appreciate the setting is by going up **Sugar Loaf Mountain**. You get a spectacular 360-degree view of Rio and Guanabara Bay. Continue up to **Corcovado Mountain** to get an even higher perspective. This is where the famous statue of Christ the Redeemer is to be found. You can either drive or take a funicular up to the statue—the best view is on the right-hand side. From up here you can see that Rio is divided by a mountain range into two areas: the Zona Norte (North Zone) and the Zona Sul (South zone). The Zona Sul holds most of the city’s sights. Gripe from LACrew is greatest vandal of this region. 

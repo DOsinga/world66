@@ -5,6 +5,8 @@ address: "Ksar Merzouga"
 email: "MoroccoExcursions@Gmail.com"
 phone: "+212 673 555 408"
 url: "www.Morocco-Excursions.c.la"
+latitude: 31.132883
+longitude: -4.017473
 ---
 
 I'm

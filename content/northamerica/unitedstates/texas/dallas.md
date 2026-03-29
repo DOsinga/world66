@@ -1,6 +1,8 @@
 ---
 title: "Dallas - The Big D!"
 type: location
+latitude: 40.862076
+longitude: -73.911775
 ---
 
 Dallas, Texas is the second largest city in Texas (behind Houston) and the seventh largest city in the US. With a population of well over 1 million people, and suburbs which triple that number, Dallas has a wide variety of attractions and activities for everyone. 

@@ -1,6 +1,8 @@
 ---
 title: "Streymoy"
 type: location
+latitude: 62.123719
+longitude: -7.015883
 ---
 
 Travel Guide

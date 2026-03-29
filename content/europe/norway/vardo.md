@@ -1,6 +1,8 @@
 ---
 title: "Vardo"
 type: location
+latitude: 70.330816
+longitude: 30.961821
 ---
 
 **VARDØ**

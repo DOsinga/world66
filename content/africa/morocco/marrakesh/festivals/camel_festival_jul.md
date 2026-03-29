@@ -5,6 +5,8 @@ address: "373  Broadway, B2"
 email: "onlymorocco@yahoo.com"
 phone: "212-925-6151"
 url: "www.Morocco-Travel-Agency.com"
+latitude: 40.770202
+longitude: -73.982242
 ---
 
 The people of Goulimine hold the Camel Festival once a year on top of

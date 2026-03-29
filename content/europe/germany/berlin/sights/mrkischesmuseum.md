@@ -1,11 +1,15 @@
 ---
 title: "Märkisches Museum"
 type: poi
+latitude: 52.513531
+longitude: 13.414606
 ---
 
 The permanent exhibition "schaut auf diese Stadt" (... Look at this city) shows the central themes of Berlin’s history in the form of an essay. Themes include "the nobility and the military", "theatre city" and "in the Cold War". Admission: 8DM, ed. 4DM
 
- Connections: U Märkisches Museum 
+
+ Connections: U Märkisches Museum
+ 
 
 address: Am Köllnischen Park 5, Mitte
 

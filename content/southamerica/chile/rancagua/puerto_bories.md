@@ -1,6 +1,8 @@
 ---
 title: "Puerto Bories"
 type: location
+latitude: -51.689948
+longitude: -72.536373
 ---
 
 Travel Guide

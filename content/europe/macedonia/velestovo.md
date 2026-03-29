@@ -1,6 +1,8 @@
 ---
 title: "Velestovo"
 type: location
+latitude: 41.083209
+longitude: 20.828204
 ---
 
 Travel Guide

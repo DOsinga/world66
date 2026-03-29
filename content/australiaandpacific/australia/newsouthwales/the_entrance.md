@@ -1,6 +1,8 @@
 ---
 title: "The Entrance"
 type: location
+latitude: -33.344059
+longitude: 151.496017
 ---
 
 The Entrance is a quiet beachy suburb north of Sydney and South of

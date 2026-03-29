@@ -1,6 +1,8 @@
 ---
 title: "Mountain View"
 type: location
+latitude: 37.389389
+longitude: -122.08321
 ---
 
 Mountain View is a big/small town in the heart of Silicon Valley, small in that the center it self basically is one street (Castro Street) with some decent coffee shops, three book shops and loads of Asian restaurants. For beer, the Irish have cornered the market with two pubs. Big it is too, since it is really spread out, overflowing into Palo Alto .

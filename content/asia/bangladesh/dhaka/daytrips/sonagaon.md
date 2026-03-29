@@ -1,6 +1,8 @@
 ---
 title: "Sonargaon"
 type: poi
+latitude: 23.753686
+longitude: 90.376586
 ---
 
 Although all but a few remnants of the ancient capital of Bengal are long-since gone, this is a town well worth visiting.

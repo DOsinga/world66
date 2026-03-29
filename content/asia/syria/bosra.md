@@ -1,6 +1,8 @@
 ---
 title: "Bosra"
 type: location
+latitude: 32.519138
+longitude: 36.480573
 ---
 
 We currently have no information about Bosra.

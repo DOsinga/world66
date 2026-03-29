@@ -1,6 +1,8 @@
 ---
 title: "La Crosse"
 type: location
+latitude: 43.812284
+longitude: -91.251435
 ---
 
 La Crosse is a small city (pop. 55,000) located in southwest Wisconsin on the Mississippi River. There is an old Native American legend that says there will never be a tornado where three rivers meet, and La Crosse welcomes the Black River and the La Crosse River along with the Mississippi at Riverside Park. Whether or not this is true, there has been no major reported damage by a tornado in recent history. 

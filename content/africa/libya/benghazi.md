@@ -1,6 +1,8 @@
 ---
 title: "Benghazi"
 type: location
+latitude: 32.120017
+longitude: 20.081217
 ---
 
 Benghazi is the capital of the east of Libya, a part of the country that has more Middle-East atmosphere, whereas the West is a real Maghreb-country. 

@@ -1,6 +1,8 @@
 ---
 title: "Civitavecchia"
 type: location
+latitude: 42.093752
+longitude: 11.792246
 ---
 
 Civitavecchia was almost completely destroyed in the second world war. But it has been rebuilt since. Certainly the recent constructions have made the urban layout rather difficult to appreciate, but if you take your time ther is plenty to discover. 

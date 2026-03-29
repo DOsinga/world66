@@ -1,6 +1,8 @@
 ---
 title: "Santiago de Compostela"
 type: location
+latitude: 42.880422
+longitude: -8.545861
 ---
 
 In the early 9th century, Bishop Teodomiro of Iria, discovered the tomb of the Apostle Saint James. Kings Alphonso II and Alphonso III built churches and founded the Antealtares and Pinario Monasteries. The worship of St James made the Moorish chief Al-Mansur distrustful, so he set fire and razed Compostela, taking the bells to Cordoba.

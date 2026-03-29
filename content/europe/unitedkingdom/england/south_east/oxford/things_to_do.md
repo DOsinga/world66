@@ -6,6 +6,8 @@ email: "postmaster@obg.ox.ac.uk"
 phone: "+44 0 1865 286690"
 type: "Other"
 url: "www.botanic-garden.ox.ac.uk"
+latitude: 51.751506
+longitude: -1.248413
 ---
 
 Oxford may be a small city, but you'll find lots to and see during your Oxford trip and even better is that the city is so small, you can walk just about everywhere! Continue reading through the listings to find out about many of the unique Oxford activities and plenty of sights that should not be missed. Enjoy!

@@ -1,6 +1,8 @@
 ---
 title: "Nõva"
 type: location
+latitude: 59.22471
+longitude: 23.688303
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Sendai"
 type: location
+latitude: 38.267755
+longitude: 140.86915
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Things to do"
 type: section
 type: "Trekking"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 ocean poolside...

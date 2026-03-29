@@ -1,6 +1,8 @@
 ---
 title: "Kanchipuram"
 type: location
+latitude: 12.964716
+longitude: 79.983969
 ---
 
 The

@@ -1,6 +1,8 @@
 ---
 title: "Utopia"
 type: location
+latitude: 29.615227
+longitude: -99.526993
 ---
 
 Travel Guide

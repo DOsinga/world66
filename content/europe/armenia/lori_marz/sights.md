@@ -3,6 +3,8 @@ title: "Sights in Lori Marz"
 type: section
 address: "Sanahin Village"
 type: "Monasteries"
+latitude: 41.091835
+longitude: 44.656951
 ---
 
 Bearing one of the richest troves of Monasteries, Fortresses, forests, canyons, rivers and mountains, Lori is a place you could easily spend a week without running out of things to see or do. Most of the sites are Monasteries, but the nature they are found in is beautiful, and some are impossible to reach with cars, so hiking through the forest is your only option.

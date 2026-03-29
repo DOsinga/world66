@@ -1,6 +1,8 @@
 ---
 title: "Binga"
 type: location
+latitude: -17.687128
+longitude: 27.705971
 ---
 
 We currently have no information about .

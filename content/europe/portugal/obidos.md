@@ -1,6 +1,8 @@
 ---
 title: "Obidos"
 type: location
+latitude: 39.361951
+longitude: -9.157153
 ---
 
 This is a perfectly walled city north of Lisbon, reputably [and believably] terribly crowded in high season but wondrous at other times. The old castle at the top of the town is now a pousada and it is worth going in, if only for a coffee - which is regarded as quite legitimate. Th old stocks are in the village streets.

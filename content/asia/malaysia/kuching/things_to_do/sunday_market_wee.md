@@ -3,6 +3,8 @@ title: "Sunday Market (weekend market)"
 type: poi
 address: "Jalan Satok"
 type: "Other"
+latitude: 1.553105
+longitude: 110.339266
 ---
 
 This is the weekend market that most local people will get really busy selling & buying local stuffs here, ranging from vegetables, fruits, fishes, cloths, souvenirs, local foods & basically, just anything that locally produced.

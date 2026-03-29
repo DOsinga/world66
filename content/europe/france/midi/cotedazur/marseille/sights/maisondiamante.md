@@ -1,6 +1,8 @@
 ---
 title: "Maison Diamantée"
 type: poi
+latitude: 43.29698
+longitude: 5.369376
 ---
 
 This was built in 1570 and owes its name to the " diamond point " stones making up the façade it houses the Museum of Marseilles Traditions. 

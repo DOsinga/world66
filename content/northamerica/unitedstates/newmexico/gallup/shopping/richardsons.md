@@ -5,6 +5,8 @@ address: "222 W Route 66"
 phone: "505-722-4762"
 type: "Speciality shops"
 url: "www.richardsontrading.com"
+latitude: 35.250642
+longitude: -112.189049
 ---
 
 Their ad says "come to where the Indians trade," and they aren't making it up. The store is a classic old trading post, right on Route 66 in the downtown. Go inside, and be blown away by the sheer overwhelming volume of "Indian stuff" that they have. Go back out, take a long break, then go back inside to look some more.

@@ -1,6 +1,8 @@
 ---
 title: "Chantada"
 type: location
+latitude: 42.609622
+longitude: -7.770586
 ---
 
 ** Chantada** is the agricultural capital of the Miño. From the 'Serra do Faro' the lands

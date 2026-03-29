@@ -5,6 +5,8 @@ address: "Gulfishan Colony"
 email: "mallick101@gmail.com"
 phone: "04126050342"
 type: "Hotspots"
+latitude: 31.546556
+longitude: 74.292981
 ---
 
 **UCHHALI**

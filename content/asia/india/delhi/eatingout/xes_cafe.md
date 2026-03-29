@@ -8,6 +8,8 @@ phone: "91-11-41034444"
 price: "Rs. 1800"
 type: "International"
 url: "canas.in"
+latitude: 28.527835
+longitude: 77.22058
 ---
 
 Xes Cafe is nestled in the in the "bustling" Party and Shopping Area of Delhi - DLF South Court, which is also the part of the Mall Strip of Saket.

@@ -5,6 +5,8 @@ accessibility: "24 hours"
 email: "travel@travelchinaguide.com"
 type: "Hotspots"
 url: "www.travelchinaguide.com"
+latitude: 40.485204
+longitude: 116.198701
 ---
 
 Should you want to explore the splendid great wall in China? Now follow with TravelChinaGuide to get some basic facts of china great wall.

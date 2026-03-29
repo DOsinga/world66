@@ -4,6 +4,8 @@ type: poi
 email: "info@stepperiders.com"
 type: "Trekking"
 url: "www.stepperiders.com"
+latitude: 47.727551
+longitude: 106.790393
 ---
 
 Stepperiders is located just outside of [Ulaanbaatar](/asia/mongolia/ulaanbaatar), great if you don't have the time to travel further into the countryside.

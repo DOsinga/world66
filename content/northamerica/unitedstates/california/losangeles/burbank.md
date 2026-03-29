@@ -1,6 +1,8 @@
 ---
 title: "Burbank"
 type: location
+latitude: 34.181209
+longitude: -118.307201
 ---
 
 Burbank is the location of NBC’s West Coast HQ’s and Disney’s main HQ’s (both on Olive St.). A block away is Disney Animation and Disney Channel’s building. The Disney HQ features the 7 dwarves “holding up” the roof – the lot also houses a small studio. It is closed to the public but you can photograph from the street. The Tonight Show is taped at the NBC studios. There is a queue out front on taping days starting by early afternoon. If you look up to the mountain range, the back part of Griffith Park – that is where MASH was filmed. A few blocks further west is the WARNER BROS. STUDIO – you can’t miss the mammoth advertising – it is also a working studio and there are tours. You probably have to call ahead to reserve (unlike Universal Studios). As you continue along Ventura Blvd., there are other studios (mostly TV) that are discreet in appearance such as the CBS STUDIO CENTER where there are always dozens of sitcoms being taped there (Seinfeld was there). You can get free tickets – sitcoms usually tape Friday nights. At that point, you can swing south and no more than a few miles away is UNIVERSAL STUDIOS. No great detail needed here, as it’s internationally known.

@@ -5,6 +5,8 @@ address: "4A-Hang But-Hoan Kiem-Ha Noi"
 email: "contact@dulichbonmua.net"
 phone: "0462700945"
 url: "dulichbonmua.net"
+latitude: 21.035014
+longitude: 105.847741
 ---
 
 DAY 1 : HANOI- CUC PHUONG (L,D)

@@ -1,6 +1,8 @@
 ---
 title: "Lambertville"
 type: location
+latitude: 40.365619
+longitude: -74.945406
 ---
 
 The view of Lambertville has changed little over the last one hundred years. Nestled on the east bank of the Delaware River, its tree-lined streets, Victorian houses and Federal row homes and the graceful lines of its church spires continue to greet the eye as they did in the 1800s.

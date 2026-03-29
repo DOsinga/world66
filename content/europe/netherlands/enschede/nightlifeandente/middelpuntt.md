@@ -1,6 +1,8 @@
 ---
 title: "Middelpunt, 't"
 type: poi
+latitude: 52.005732
+longitude: 6.349007
 ---
 
 address: T de Keyserstr 4

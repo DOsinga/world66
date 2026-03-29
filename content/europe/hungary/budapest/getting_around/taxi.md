@@ -1,6 +1,8 @@
 ---
 title: "Taxi"
 type: poi
+latitude: 46.044427
+longitude: 18.215279
 ---
 
 Taxi fares are of course much higher than the BKV public transport

@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Voskopoja"
 type: location
+latitude: 40.632553
+longitude: 20.590633
 ---
 
 Travel Guide

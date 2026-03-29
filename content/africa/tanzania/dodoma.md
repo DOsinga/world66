@@ -1,6 +1,8 @@
 ---
 title: "Dodoma"
 type: location
+latitude: -6.179118
+longitude: 35.746817
 ---
 
 Travel Guide

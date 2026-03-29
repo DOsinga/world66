@@ -1,6 +1,8 @@
 ---
 title: "Eilat"
 type: poi
+latitude: 29.556935
+longitude: 34.949795
 ---
 
 Israel's Red Sea playground. A world of its own. Gateway to watersports, desert adventure and just plain lazy fun. For some memorable moments, come down during late August for a day or two, when Eilat's annual Jazz Festival takes place - showcasing both local artists and some of the top names on the international circuit.

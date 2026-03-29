@@ -1,6 +1,8 @@
 ---
 title: "Vetapalem"
 type: location
+latitude: 15.783148
+longitude: 80.300675
 ---
 
 Travel Guide

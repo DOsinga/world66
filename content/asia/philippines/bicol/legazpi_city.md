@@ -1,6 +1,8 @@
 ---
 title: "Legazpi City"
 type: location
+latitude: 13.138851
+longitude: 123.734575
 ---
 
 Travel Guide

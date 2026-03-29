@@ -1,6 +1,8 @@
 ---
 title: "Burgundy"
 type: location
+latitude: 47.278087
+longitude: 4.222486
 ---
 
 Burgundy is not just a region in France. It stands for a lifestyle: the

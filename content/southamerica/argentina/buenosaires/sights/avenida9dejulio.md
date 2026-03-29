@@ -2,6 +2,8 @@
 title: "Avenida 9 de Julio"
 type: poi
 type: "Hotspots"
+latitude: -34.603819
+longitude: -58.381071
 ---
 
 The world’s widest avenue Avenida 9 de Julio.

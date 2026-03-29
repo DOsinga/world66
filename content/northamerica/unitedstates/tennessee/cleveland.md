@@ -1,6 +1,8 @@
 ---
 title: "Cleveland"
 type: location
+latitude: 41.499657
+longitude: -81.693677
 ---
 
 Cleveland, is a small city in southeastern Tennessee, about 25 miles north of Chattanooga and 80 miles south of Knoxville. It is the county seat of Bradley County, with a population of approximately 90,000. There is a diversified economy here, with agriculture still playing an important role in the county and a broad local industrial base. More kitchen ranges are manufactured in Cleveland than anywhere else in America with Brown, Hardwick, and Maytag all having large factories. Other industries include the manufacture of Duracell Batteries, M&M Chocolates, Bowaters Paper MIll, golf balls, furniture, clothing, publishing and more.

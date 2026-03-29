@@ -1,6 +1,8 @@
 ---
 title: "Beverly"
 type: location
+latitude: 42.548974
+longitude: -70.878188
 ---
 
 Founded in 1626, the

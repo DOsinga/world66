@@ -1,6 +1,8 @@
 ---
 title: "Xanthi"
 type: location
+latitude: 41.13805
+longitude: 24.886409
 ---
 
 Xanthi is located in the north of Greece, some 220 km west of {Thessaloniki}. It is close to the border with {Bulgaria}.

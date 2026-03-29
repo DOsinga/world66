@@ -1,6 +1,8 @@
 ---
 title: "Galdogob"
 type: location
+latitude: 7.048863
+longitude: 47.206094
 ---
 
 Travel Guide

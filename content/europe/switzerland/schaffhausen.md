@@ -1,6 +1,8 @@
 ---
 title: "Schaffhausen"
 type: location
+latitude: 47.696049
+longitude: 8.634513
 ---
 
 **Schaffhausen** is a city in north-eastern Switzerland on the river

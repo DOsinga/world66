@@ -1,6 +1,8 @@
 ---
 title: "Saturnia"
 type: location
+latitude: 42.665224
+longitude: 11.504989
 ---
 
 We currently have no information about .

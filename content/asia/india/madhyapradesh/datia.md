@@ -1,6 +1,8 @@
 ---
 title: "Datia"
 type: location
+latitude: 25.918295
+longitude: 78.664496
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Port louis"
 type: location
+latitude: -20.162452
+longitude: 57.502804
 ---
 
 Capital and main port of Mauritius, Port Louis was founded by the French governor, Mahé de Labourdonnais, in 1735. The harbour lies sheltered in a semi-circle of mountains. The town has plenty of character, and shows in certain quarters of its past elegance. Off the main square, palm-lined Place d'Armes, there are some particularly fine French colonial buildings, especially the Government House (eighteenth century) and the Municipal Theatre, built around the same time. There are two Cathedrals, Anglican and Catholic, a Mosque, a chinese Casino, a fine Supreme Court, some 18th century Barracks, a Natural History Museum.

@@ -1,6 +1,8 @@
 ---
 title: "Mingechevir"
 type: location
+latitude: 40.920633
+longitude: 46.757101
 ---
 
 Travel Guide

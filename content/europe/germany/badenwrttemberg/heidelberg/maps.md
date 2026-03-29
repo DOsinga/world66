@@ -1,6 +1,8 @@
 ---
 title: "Maps"
 type: location
+latitude: 52.496725
+longitude: 13.37856
 ---
 
 There is an excellent and detailed city map available, which has so far only description in German. 

@@ -1,6 +1,8 @@
 ---
 title: "Sa’da"
 type: location
+latitude: 17.063405
+longitude: 43.914884
 ---
 
 We currently have no information about Sa’da.

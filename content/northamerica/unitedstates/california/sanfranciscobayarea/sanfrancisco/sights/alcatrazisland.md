@@ -1,6 +1,8 @@
 ---
 title: "Alcatraz Island"
 type: poi
+latitude: 37.826721
+longitude: -122.422759
 ---
 
 Alcatraz is a small island in the middle of San Francisco Bay, California, USA. It was formerly used as a maximum security prison. Today the island is a historic site supervised by the National Park Service.

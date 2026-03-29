@@ -4,6 +4,8 @@ type: poi
 address: "Centro Comercial Neptuno"
 closing_time: "6 am"
 type: "Clubs and dancing"
+latitude: 37.398253
+longitude: -5.926647
 ---
 
 Think TGI Fridays in a mall but with dance music. Very fun, i think its where the locals go.

@@ -5,6 +5,8 @@ address: "103 sequoya dr"
 email: "beckerexfred@hotmail.com"
 phone: "(423)773-38-96"
 zipcode: "37604"
+latitude: 33.566612
+longitude: -97.004495
 ---
 
 cabezas de verga

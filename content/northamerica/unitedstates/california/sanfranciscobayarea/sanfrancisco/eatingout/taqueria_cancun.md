@@ -6,6 +6,8 @@ phone: "(415) 864-6773"
 price: "$2-6 per item"
 type: "Mexican"
 url: "sanfrancisco.citysearch.com"
+latitude: 38.255729
+longitude: -85.76015
 ---
 
 There are two Cancun locations - one in the Mission near 20th and

@@ -4,6 +4,8 @@ type: poi
 address: "Delhi, India"
 type: "Shopping centers and malls"
 url: "www.uttarbharat.com"
+latitude: 28.613895
+longitude: 77.209006
 ---
 
 http://www.uttarbharat.com

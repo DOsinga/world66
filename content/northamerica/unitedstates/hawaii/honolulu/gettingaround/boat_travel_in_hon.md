@@ -4,6 +4,8 @@ type: poi
 address: "Honolulu, Hawaii"
 email: "info@yachtchartershawaii.com"
 url: "www.yachtchartershawaii.com"
+latitude: 21.304547
+longitude: -157.855676
 ---
 
 Getting around and between the islands on a boat is a great way to explore the islands of Hawaii. Charter a private yacht to have the ultimate tour of Hawaii.

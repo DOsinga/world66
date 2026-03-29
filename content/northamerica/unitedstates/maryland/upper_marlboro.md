@@ -1,6 +1,8 @@
 ---
 title: "Upper Marlboro"
 type: location
+latitude: 38.816245
+longitude: -76.751708
 ---
 
 Travel Guide

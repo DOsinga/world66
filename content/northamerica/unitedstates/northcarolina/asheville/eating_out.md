@@ -5,6 +5,8 @@ address: "570 Brevard Road"
 phone: "828) 255-0920"
 price: "inexpensive"
 type: "American"
+latitude: 35.554874
+longitude: -82.597528
 ---
 
 There is lots of fine dining for vacationers and residents to experience in Asheville, NC. At "Vicenzo's Italian Ristorante and Bistro" there are award-winning choices of the finest wines and luscious desserts. There's an abundance of coffee choices and delicious foods in a smoke free restaurant with live Jazz performances every night. At "La Caterina Trattoria, there is Italian dishes prepared traditional ways. At "The Greenery" you can order very creative and different foods like trout, lamb, or even crab cakes served in a tranquil environment. "The Grove Park Inn and Resort and Spa" has wonderful cooking. They have been presented with many honors including the "AAA's Four Diamond Award". The "Cafe Soliel" has an outdoor patio along with graceful music and you can watch the cooks as they make fresh crepes right in front of you. "The Boathouse Restaurant" offers "simply fresh seafood" in a surrounding with a one-of-a-kind structural design. "Province Restaurant" was voted as the "best of 2003" and is open from lunch through dinner seven days a week. And there is also "Cafe on the Square" where their menu changes every season and presents a broad variety of fine foods. These restaurants are only a few of the fine dining experiences that the Asheville area has to offer. There are many more restaurants with succulent foods and inviting atmospheres to go to as well. (Asheville)

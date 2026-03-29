@@ -1,6 +1,8 @@
 ---
 title: "Sights"
 type: location
+latitude: 39.788474
+longitude: -92.929598
 ---
 
 The sights on Kauai are considered to be some of the most breathtaking and spectacular in all of Hawaii, if not the world. This small dot of island has every terrain from rainforest that touts being the wettest spot on earth to desert areas that recieve only a few inches of rain a year.

@@ -4,6 +4,8 @@ type: poi
 address: "Street 10, Wazir Akbar Khan"
 phone: "0799-16 0368"
 type: "International"
+latitude: 34.537138
+longitude: 69.18094
 ---
 
 Croatian Restaurant

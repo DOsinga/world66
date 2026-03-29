@@ -1,6 +1,8 @@
 ---
 title: "Urbana-Champaign"
 type: location
+latitude: 40.112681
+longitude: -88.192976
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Prachuap Khiri Khan"
 type: location
+latitude: 12.043267
+longitude: 99.748723
 ---
 
 Travel Guide

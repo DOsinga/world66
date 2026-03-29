@@ -1,6 +1,8 @@
 ---
 title: "Sørvágur"
 type: location
+latitude: 62.070745
+longitude: -7.306047
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "4637 Hollywood Boulevard"
 phone: "323-663-2867"
 type: "Speciality shops"
 url: "www.ozziedots.com"
+latitude: 34.100401
+longitude: -118.290348
 ---
 
 Do you know all of those rumors you hear about how much people like to shop in L.A. and all of those jokes about women spending thousands of dollars on shoes in L.A.? Well, they’re all true! Shopping here is probably one of the top Los Angeles activities, and rightly so – there are so many places to shop and so many places to don your new duds, that locals can’t help but eat, sleep and drink shopping! And that’s not all -- L.A. is listed as one of the "Top Ten Fashion Capitals of the World" by *The Global Language Monitor* (GLM), along with other famously fashionable cities such as New York (#1), Rome, Paris, London, Milan, Tokyo, Hong Kong, Las Vegas, and Singapore. So, shopping in L.A. is a must during your visit as you can find the most cutting edge fashions on the planet here along with the world’s biggest designer names such as Armani, Balenciaga, Dior, Fendi, Prada, Versace, and more.

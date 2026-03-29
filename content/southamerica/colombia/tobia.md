@@ -1,6 +1,8 @@
 ---
 title: "Tobia"
 type: location
+latitude: 5.123693
+longitude: -74.449072
 ---
 
 Tobia is a little town, 75 kilometers from [Bogota](/southamerica/colombia/bogota). For most people the reason to visit Tobia is to go rafting in the close by rivers. River rafting is most often done in a group of 6 to 12 on a inflatable oar boats. Rafting may look and feel dangerous, but actually it's not. Before going down the rapids you will get a training. You will also wear a helmet and life jacket. It is a a suitable "adventure activity" to all; from families and friends to group of colleagues from office. Tobia was grown around a simple train station where the train's steam engines use to supplement their wood carriage. Nowadays there is no more trains, but Tobia is still there. Tobia is a small town: a shop, chruch, police station and several houses around the plaza. What is interesting in Tobia is the nature around and the rivers with the rapids. You can do rafting, treking, climbing, swiming etc. The mountains with the rivers are right there. There are several companies that are organizing rafting trips to Tobia from Bogota. You can also stay over night in Tobia. For more informantion in Bogota, call (057) 6813992 or email: Info@naturaltrip.com. From the site www.naturaltrip.com there is more information in Spanish.

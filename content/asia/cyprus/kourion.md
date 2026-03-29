@@ -1,6 +1,8 @@
 ---
 title: "Kourion"
 type: location
+latitude: 34.665471
+longitude: 32.885786
 ---
 
 Kourion has the most interesting excavations of Cyprus. You find the

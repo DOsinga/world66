@@ -6,6 +6,8 @@ email: "info@nycbyfoot.com"
 phone: "(646) 450-6831"
 type: "Trekking"
 url: "www.freetoursbyfoot.com"
+latitude: 40.7339
+longitude: -73.992488
 ---
 
 Offers free, name-your-own-price walking tours of New York City. Guides work for tips, so that you can name your own price. Also includes food, bike and bus tours.

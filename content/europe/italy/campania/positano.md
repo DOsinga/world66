@@ -1,6 +1,8 @@
 ---
 title: "Positano"
 type: location
+latitude: 40.628658
+longitude: 14.485496
 ---
 
 Positano is a small sea-side resort town litteraly built into the side of a moutain.

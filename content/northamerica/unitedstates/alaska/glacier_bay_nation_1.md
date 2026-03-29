@@ -1,6 +1,8 @@
 ---
 title: "Glacier Bay National Park"
 type: location
+latitude: 58.814175
+longitude: -136.872094
 ---
 
 Travel Guide

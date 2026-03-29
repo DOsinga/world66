@@ -1,6 +1,8 @@
 ---
 title: "the Old Town"
 type: poi
+latitude: 49.463227
+longitude: 11.084594
 ---
 
 In the days before the Second World War there was a large old town in the centre of Hannover with narrow lanes and many half-timbered buildings from the Middle Ages. A lot of poor people lived there under bad conditions. Ordinary Hannoverians stayed away from the old town because they also considered it a place of crime and demimonde. The historic value of the picturesque old buildings interested but a few. 

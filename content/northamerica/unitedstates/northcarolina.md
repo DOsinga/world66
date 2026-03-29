@@ -1,6 +1,8 @@
 ---
 title: "North Carolina"
 type: location
+latitude: 35.672964
+longitude: -79.039292
 ---
 
 North Carolina is a state full of wonderful things to visit. From the

@@ -1,6 +1,8 @@
 ---
 title: "Meribel"
 type: location
+latitude: 45.40795
+longitude: 6.577333
 ---
 
 Travel Guide

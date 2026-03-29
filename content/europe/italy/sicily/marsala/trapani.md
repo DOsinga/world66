@@ -1,6 +1,8 @@
 ---
 title: "Trapani"
 type: location
+latitude: 38.017396
+longitude: 12.516023
 ---
 
 Travel Guide

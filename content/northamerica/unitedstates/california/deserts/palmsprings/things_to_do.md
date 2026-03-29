@@ -4,6 +4,8 @@ type: section
 phone: "(800) 790-3398"
 type: "Trekking"
 url: "www.indian-canyons.com"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 ### [Indian Canyons](/northamerica/unitedstates/california/deserts/palmsprings/thingstodo/indiancanyonspalmcanyon)

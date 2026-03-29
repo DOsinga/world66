@@ -3,6 +3,8 @@ title: "Razoo Club & Patio"
 type: poi
 address: "Bourbon Street"
 type: "Clubs and dancing"
+latitude: 29.959035
+longitude: -90.065259
 ---
 
 Razoo Club & Patio is arguably one of the wildest venues of its

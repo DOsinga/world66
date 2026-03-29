@@ -1,6 +1,8 @@
 ---
 title: "Davao"
 type: location
+latitude: 7.064831
+longitude: 125.608062
 ---
 
 Travel Guide

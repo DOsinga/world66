@@ -1,6 +1,8 @@
 ---
 title: "Bars & Cafes"
 type: poi
+latitude: 38.810252
+longitude: -9.117579
 ---
 
 **Place to go outs**

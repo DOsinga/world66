@@ -1,6 +1,8 @@
 ---
 title: "Chattroh"
 type: location
+latitude: 33.274602
+longitude: 73.63589
 ---
 
 Travel Guide

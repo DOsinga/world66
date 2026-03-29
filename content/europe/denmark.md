@@ -1,6 +1,8 @@
 ---
 title: "Denmark"
 type: location
+latitude: 55.670249
+longitude: 10.333328
 ---
 
 Located in northern Europe, Denmark is bordered by the North Sea, the Baltic Sea, and Germany, which is its only connection to the European mainland. Most of its landmass is occupied by the Jutland peninsula while the remaining 500 islands, of which only a hundred are occupied, comprise the rest of the country. The Skagerrak and Kattegat straits separate it from Norway and Sweden. 

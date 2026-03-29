@@ -5,6 +5,8 @@ address: "Luxor"
 email: "shennog@yahoo.com"
 phone: "002 010 3055 759"
 url: "www.ourexplorer.com"
+latitude: 25.702096
+longitude: 32.647186
 ---
 
 Luxor **'World's Greatest Open Air Museum'** as it contains a major amount of Monuments of the world which remain till today.

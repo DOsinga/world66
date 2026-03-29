@@ -1,6 +1,8 @@
 ---
 title: "Khaplu"
 type: location
+latitude: 35.163499
+longitude: 76.344152
 ---
 
 Travel Guide

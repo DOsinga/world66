@@ -5,6 +5,8 @@ address: "rua dos fanqueiros nº 18"
 email: "info@redtourgps.com"
 phone: "+351 91 080 2000"
 url: "www.redtourgps.com"
+latitude: 38.708746
+longitude: -9.135167
 ---
 
 GPS SELF GUIDED TOURS - A NEW WAY OF EXPLORING A CITY

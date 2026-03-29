@@ -3,6 +3,8 @@ title: "Sights in Maramures Land"
 type: section
 address: "Maramures, Romania"
 type: "Monasteries"
+latitude: 47.671255
+longitude: 24.196461
 ---
 
 Maramures is an intriguing

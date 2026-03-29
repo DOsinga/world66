@@ -3,6 +3,8 @@ title: "Taza Post Offices"
 type: poi
 type: "Post office"
 url: "www.bam.net.ma"
+latitude: 34.230759
+longitude: -4.0099
 ---
 
 Taza has three post offices, one at the Medina and two in the Ville Nouvelle at the Place de l'Indépendance and near the train station.

@@ -1,6 +1,8 @@
 ---
 title: "Vidharbha"
 type: location
+latitude: 20.699056
+longitude: 77.01477
 ---
 
 Travel Guide

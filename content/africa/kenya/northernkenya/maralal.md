@@ -1,6 +1,8 @@
 ---
 title: "Maralal"
 type: location
+latitude: 1.1
+longitude: 36.7
 ---
 
 **Maralal** is a small town north of Nyahururu and Nanyuki. It’s in a beautiful spot, surrounded by Maralal National Sanctuary. The area is home to the Samburu people, relatives of the Maasai. They are perhaps the smartest dressed tribe in the country. The area is impoverished, so expect to be severely harassed by locals trying to sell trinkets or beg. 

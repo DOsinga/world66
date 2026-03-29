@@ -5,6 +5,8 @@ address: "342 Lexington Ave, New York 10016"
 phone: "212-697-8330"
 type: "Japanese"
 url: "www.tokyorestaurant.net"
+latitude: 40.749928
+longitude: -73.977469
 ---
 
 This is a very authentic Japanese restaurant (as can be seen by the

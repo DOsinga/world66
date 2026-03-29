@@ -1,6 +1,8 @@
 ---
 title: "Crans Montana"
 type: location
+latitude: 46.306917
+longitude: 7.469015
 ---
 
 Travel Guide

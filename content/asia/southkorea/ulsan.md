@@ -1,6 +1,8 @@
 ---
 title: "Ulsan"
 type: location
+latitude: 35.53917
+longitude: 129.311914
 ---
 
 Travel Guide

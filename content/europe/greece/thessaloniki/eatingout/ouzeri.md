@@ -1,6 +1,8 @@
 ---
 title: "Ouzeri"
 type: poi
+latitude: 37.015094
+longitude: 26.967956
 ---
 
 **Restaurants**

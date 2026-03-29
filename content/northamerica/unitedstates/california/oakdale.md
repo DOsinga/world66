@@ -1,6 +1,8 @@
 ---
 title: "Oakdale"
 type: location
+latitude: 44.985624
+longitude: -92.964579
 ---
 
 Travel Guide

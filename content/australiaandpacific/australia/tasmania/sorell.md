@@ -1,6 +1,8 @@
 ---
 title: "Sorell"
 type: location
+latitude: -42.788587
+longitude: 147.667083
 ---
 
 We currently have no information about .

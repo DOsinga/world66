@@ -1,6 +1,8 @@
 ---
 title: "Malaysia"
 type: location
+latitude: 4.569375
+longitude: 102.265682
 ---
 
 Travel Guide

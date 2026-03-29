@@ -1,6 +1,8 @@
 ---
 title: "Tuy Hoa"
 type: location
+latitude: 13.087723
+longitude: 109.299358
 ---
 
 Tuy Hoa is located roughly 85km south of Qui Nhon and roughly 100km north of Nha Trang. The city reminds me of NYC: dirty and filled with people everywhere. In the middle of the city is a shopping area, which reminds of me Chinatown in NYC. Imagine, crammed in tiny shops offering the same type of clothing. Little Asian women trying to sell you everything they have.

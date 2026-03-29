@@ -1,6 +1,8 @@
 ---
 title: "Bukoba"
 type: location
+latitude: -1.331151
+longitude: 31.812561
 ---
 
 **Location and Climate** 

@@ -1,6 +1,8 @@
 ---
 title: "Hurtigruten Museum Stokmarknes"
 type: poi
+latitude: 68.569308
+longitude: 14.912549
 ---
 
 Stokmarknes, in the Vesterålen islands, is said to be where the Hurtigruten originated.

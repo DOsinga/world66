@@ -7,6 +7,8 @@ opening_hours: "9 AM - 5 PM"
 phone: "843.671.4700"
 type: "Hotspots"
 url: "www.hiltonheadrentals.com"
+latitude: 32.157781
+longitude: -80.754368
 ---
 
 Shipyard Plantation covers over 800 acres of land on beautiful Hilton Head Island . With a full spectrum of amenities, Shipyard Plantation is known as being both a residential as well as a resort community. There are over 2,000 homes and villas, consisting of single family homes as well as condo residences and rental properties.

@@ -1,6 +1,8 @@
 ---
 title: "North Smithfield"
 type: location
+latitude: 41.966765
+longitude: -71.549507
 ---
 
 Travel Guide

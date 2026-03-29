@@ -1,6 +1,8 @@
 ---
 title: "Pingyao"
 type: location
+latitude: 37.139393
+longitude: 112.284997
 ---
 
 Travel Guide

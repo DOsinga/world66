@@ -3,6 +3,8 @@ title: "Vittala Temple"
 type: poi
 opening_hours: "0830-1830"
 type: "Hotspots"
+latitude: 15.342277
+longitude: 76.475493
 ---
 
 The most decorated temple in Hampi is Vittala Temple. As with most

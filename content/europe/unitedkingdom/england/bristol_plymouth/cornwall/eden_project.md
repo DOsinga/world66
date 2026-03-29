@@ -1,6 +1,8 @@
 ---
 title: "Eden Project"
 type: location
+latitude: 50.361285
+longitude: -4.744397
 ---
 
 Travel Guide

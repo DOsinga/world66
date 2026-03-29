@@ -1,6 +1,8 @@
 ---
 title: "Civil Rights"
 type: location
+latitude: 33.515991
+longitude: -86.814148
 ---
 
 Alabama has a rich heritage when it comes to black American's struggles for equality. The key civil rights historical locations are scattered throughout the state. A simple guide is located here for easy reference. Martin Luther King was one that helped black americans have freedom

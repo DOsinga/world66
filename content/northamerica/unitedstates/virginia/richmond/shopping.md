@@ -5,6 +5,8 @@ address: "Midlothian Station Shopping Center"
 phone: "804-794-7158"
 type: "Speciality shops"
 url: "www.thriftyquaker.com"
+latitude: 37.505316
+longitude: -77.66455
 ---
 
 With everything from local boutiques to great thrift stores to designer chains, shopping in Richmond, Virginia is a pleasure.

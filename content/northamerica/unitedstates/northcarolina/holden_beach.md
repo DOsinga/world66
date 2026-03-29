@@ -1,6 +1,8 @@
 ---
 title: "Holden Beach"
 type: location
+latitude: 33.913506
+longitude: -78.303889
 ---
 
 **Holden Beach** is a quiet island located on the coast of North Carolina. Just 45 minutes north of Myrtle Beach, SC, and 45 minutes south of Wilmington, NC. Getting here can be a bit tricky the first time since there are no major roads leading to the island. I-95 and I-40 are the main interstates that bring you into the area. From there you can make your way to highway 17, the east coast highway which will lead you to the little town of Shallotte, NC. Be sure to buy most of your supplies here, then follow the signs to **Holden Beach**. Paradise awaits on the opposite side of the connector. 

@@ -6,6 +6,8 @@ email: "info@partyintallinn.com"
 phone: "+372 6836380"
 type: "Clubs and dancing"
 url: "www.partyintallinn.com"
+latitude: 59.436301
+longitude: 24.740941
 ---
 
 Come to have an unforgettable party time in Tallinn!

@@ -1,6 +1,8 @@
 ---
 title: "Linköping"
 type: location
+latitude: 58.409813
+longitude: 15.624525
 ---
 
 Travel Guide

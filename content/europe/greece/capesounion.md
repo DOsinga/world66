@@ -1,6 +1,8 @@
 ---
 title: "Cape sounion"
 type: location
+latitude: 37.650107
+longitude: 24.026282
 ---
 
 We currently have no information about Cape sounion.

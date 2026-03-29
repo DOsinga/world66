@@ -1,6 +1,8 @@
 ---
 title: "Padua"
 type: location
+latitude: 45.407717
+longitude: 11.873446
 ---
 
 Padua, also known as the City of the Saint, is a strange but charming mixture of both a cultural and an industrial city. After heavy damage caused by bombing during World War II, the city has been extensively rebuilt and is today Veneto's most important economic centre. Although "Padova" is not one of the most alluring cities of northern Italy, it is one of the most ancient and filled with remains of its history. 

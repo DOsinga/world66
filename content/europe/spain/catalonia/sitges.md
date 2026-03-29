@@ -1,6 +1,8 @@
 ---
 title: "Sitges"
 type: location
+latitude: 41.236671
+longitude: 1.822814
 ---
 
 Sitges is the chicest resort on the Costa Dorada, and is famous for its blinding, white beaches. Here you can take beautiful, long ocean-side walks, and admire the white washed houses.

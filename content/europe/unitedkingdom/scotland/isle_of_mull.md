@@ -1,6 +1,8 @@
 ---
 title: "Isle of Mull"
 type: location
+latitude: 56.459699
+longitude: -5.86206
 ---
 
 This is the third largest of the islands off the west coast of Scotland and is perhaps best known for its wildlife. Binoculars are part of the 'uniform' here.

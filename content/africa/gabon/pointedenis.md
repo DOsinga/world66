@@ -1,6 +1,8 @@
 ---
 title: "Pointe denis"
 type: location
+latitude: 0.329185
+longitude: 9.365424
 ---
 
 "/>

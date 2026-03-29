@@ -1,6 +1,8 @@
 ---
 title: "Belitung"
 type: location
+latitude: -2.884281
+longitude: 107.66316
 ---
 
 Travel Guide

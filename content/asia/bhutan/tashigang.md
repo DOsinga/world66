@@ -1,6 +1,8 @@
 ---
 title: "Tashigang"
 type: location
+latitude: 27.331284
+longitude: 91.552067
 ---
 
 Tashigang, located in the east of Bhutan is the largest district of Bhutan. It is comprised of many valleys and villages. Compared to the valleys in the west like Paro and Thimphu, the valleys in the east are narrow and steep. 

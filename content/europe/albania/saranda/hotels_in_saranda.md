@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Saranda"
 type: location
+latitude: 39.875433
+longitude: 20.007113
 ---
 
 Travel Guide

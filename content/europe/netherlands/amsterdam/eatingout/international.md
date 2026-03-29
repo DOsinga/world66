@@ -1,6 +1,8 @@
 ---
 title: "International"
 type: poi
+latitude: 52.217281
+longitude: 6.894813
 ---
 
 **Restaurants**
@@ -19,7 +21,8 @@ tel: 020-6762495
 
 The Febo is the Dutch answer to MacDonalds. Everything is deep fried in oil, most of it can be purchased 'from the wall'. Little windows seperate you from your food. Insert a few guilders and the window opens and the goodies are yours.
 
- The fried chicken is not to bad though after a night of d [more..](/europe/netherlands/amsterdam/eatingout/international/febo)
+
+ The fried chicken is not to bad though after a night of d [more..](/europe/netherlands/amsterdam/eatingout/international/febo)
 
 **Anders**
 

@@ -1,6 +1,8 @@
 ---
 title: "Lough Derg"
 type: location
+latitude: 52.952181
+longitude: -8.303211
 ---
 
 Travel Guide

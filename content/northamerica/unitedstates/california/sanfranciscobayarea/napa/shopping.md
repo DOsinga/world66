@@ -5,6 +5,8 @@ address: "7481 St. Helena Highway - Oakville, CA 94562"
 phone: "800.535.6400"
 type: "Speciality shops"
 url: "www.napacellars.com"
+latitude: 38.428832
+longitude: -122.395533
 ---
 
 Wineries

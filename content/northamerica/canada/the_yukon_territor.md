@@ -1,6 +1,8 @@
 ---
 title: "The Yukon Territory"
 type: location
+latitude: 60.273755
+longitude: -138.901269
 ---
 
 Travel Guide

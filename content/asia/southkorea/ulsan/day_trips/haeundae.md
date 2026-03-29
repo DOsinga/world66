@@ -1,6 +1,8 @@
 ---
 title: "Haeundae"
 type: poi
+latitude: 35.163753
+longitude: 129.158747
 ---
 
 Haeundae, an hour and half away from Samsandong express bus terminal is an excellent day trip, serving up a prestigious golden sand beach, western shopping and eating opportunities along with some laidback café culture and sizzling nightlife.

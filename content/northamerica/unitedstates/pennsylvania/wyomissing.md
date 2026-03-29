@@ -1,6 +1,8 @@
 ---
 title: "Wyomissing"
 type: location
+latitude: 40.329537
+longitude: -75.965212
 ---
 
 Travel Guide

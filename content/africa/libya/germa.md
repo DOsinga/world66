@@ -1,6 +1,8 @@
 ---
 title: "Germa"
 type: location
+latitude: 26.528497
+longitude: 13.069634
 ---
 
 We currently have no information about Germa.

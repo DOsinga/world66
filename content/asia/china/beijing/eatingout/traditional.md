@@ -1,6 +1,8 @@
 ---
 title: "Traditional"
 type: poi
+latitude: 29.890676
+longitude: 121.514966
 ---
 
 **Restaurants**

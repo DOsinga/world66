@@ -1,6 +1,8 @@
 ---
 title: "Harrisburg"
 type: location
+latitude: 40.266311
+longitude: -76.886112
 ---
 
 We currently have no information about Harrisburg.

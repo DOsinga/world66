@@ -1,6 +1,8 @@
 ---
 title: "Hugo"
 type: location
+latitude: 34.010621
+longitude: -95.513122
 ---
 
 Travel Guide

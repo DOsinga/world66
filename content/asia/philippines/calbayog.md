@@ -1,6 +1,8 @@
 ---
 title: "Calbayog"
 type: location
+latitude: 12.066963
+longitude: 124.594666
 ---
 
 Malajog Beach, Calbayog City

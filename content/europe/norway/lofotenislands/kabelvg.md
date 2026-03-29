@@ -1,6 +1,8 @@
 ---
 title: "Kabelvåg"
 type: location
+latitude: 68.21012
+longitude: 14.477379
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Timothy"
 email: "rebecca@pisem.net"
 phone: "Timothy"
 url: "www.kunstradio.at"
+latitude: 39.303093
+longitude: -88.129482
 ---
 
 Great work!

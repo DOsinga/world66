@@ -1,6 +1,8 @@
 ---
 title: "Brancaster"
 type: location
+latitude: 52.963441
+longitude: 0.639549
 ---
 
 Travel Guide

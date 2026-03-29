@@ -1,6 +1,8 @@
 ---
 title: "Wellington"
 type: location
+latitude: -41.288795
+longitude: 174.777211
 ---
 
 The

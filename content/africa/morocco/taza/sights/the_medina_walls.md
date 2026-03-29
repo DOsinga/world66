@@ -3,6 +3,8 @@ title: "The Medina Walls"
 type: poi
 address: "Taza-Haut"
 type: "Hotspots"
+latitude: 34.208754
+longitude: -4.014511
 ---
 
 A very beautiful promenade is the way around the *Medina walls*. Along the route around the Medina there are some points with a beautiful view on the surrounding valleys.

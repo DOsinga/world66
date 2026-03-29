@@ -1,6 +1,8 @@
 ---
 title: "Transylvania"
 type: location
+latitude: 46.597162
+longitude: 24.374029
 ---
 
 We currently have no information about Transylvania.

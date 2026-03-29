@@ -1,6 +1,8 @@
 ---
 title: "Predeal"
 type: location
+latitude: 45.502688
+longitude: 25.576158
 ---
 
 We currently have no information about Predeal.

@@ -1,6 +1,8 @@
 ---
 title: "Kedarnath"
 type: location
+latitude: 30.733888
+longitude: 79.066907
 ---
 
 Travel Guide

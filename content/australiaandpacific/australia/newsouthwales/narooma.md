@@ -1,6 +1,8 @@
 ---
 title: "Narooma"
 type: location
+latitude: -36.219015
+longitude: 150.131724
 ---
 
 Travel Guide

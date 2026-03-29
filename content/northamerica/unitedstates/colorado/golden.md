@@ -1,6 +1,8 @@
 ---
 title: "Golden"
 type: location
+latitude: 39.754635
+longitude: -105.22058
 ---
 
 Travel Guide

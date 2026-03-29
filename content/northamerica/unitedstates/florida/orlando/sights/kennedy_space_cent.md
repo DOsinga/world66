@@ -2,6 +2,8 @@
 title: "Kennedy Space Center"
 type: poi
 type: "Landmarks"
+latitude: 28.52428
+longitude: -80.681856
 ---
 
 The Kennedy Space Center was built in 1962 and renamed in 1963 to

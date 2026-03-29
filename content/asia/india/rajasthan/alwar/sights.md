@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "general"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 There are several interesting sight in the old city of Alwar. Visit, for example, the Bala Quilla or Bala Fort, the City Palace, the Neemrana Fort Palace, the Jai Samand Lake and one of the several temples. Sariska Tiger Reserve is the main reason why most people come to Alwar.

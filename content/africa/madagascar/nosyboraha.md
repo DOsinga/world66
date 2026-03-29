@@ -1,6 +1,8 @@
 ---
 title: "Nosy boraha"
 type: location
+latitude: -16.903789
+longitude: 49.899282
 ---
 
 We currently have no information about Nosy boraha.

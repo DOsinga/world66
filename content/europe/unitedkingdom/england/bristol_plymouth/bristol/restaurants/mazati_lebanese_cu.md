@@ -8,6 +8,8 @@ phone: "0117 927 7937"
 price: "starter:£4.00/main course:£11.00"
 type: "Middle East"
 url: "www.mazati.co.uk"
+latitude: 51.455357
+longitude: -2.595161
 ---
 
 Mazati occupies a romantically-lit basement arch off Bristol's busy Corn Street. Most evenings find its formally laid tables alive with chatty young couples, business people and families. Mazati translates as Lebanese for 'my mezze' and there are plenty of them on the impressive and innovative menu. Best sellers include the familiar hummous and tabbouleh, and less familiar dishes for the adventurous. Choice is big, ranging from succulent sharing platters, colorful national dishes, salads, and chef's specials such as farrouj meshwi (marinated boneless chicken, charcoal grilled, and served with garlic sauce), and lahm meshwi (charcoal grilled lamb cubes). Several unusual dishes. The Lebanese pizzas makes a satisfying change to the usual.

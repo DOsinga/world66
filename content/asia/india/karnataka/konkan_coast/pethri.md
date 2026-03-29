@@ -1,6 +1,8 @@
 ---
 title: "Pethri"
 type: location
+latitude: 13.419287
+longitude: 74.825349
 ---
 
 Travel Guide

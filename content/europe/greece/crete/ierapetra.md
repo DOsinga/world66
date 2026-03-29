@@ -1,6 +1,8 @@
 ---
 title: "Ierapetra"
 type: location
+latitude: 35.075679
+longitude: 25.83883
 ---
 
 Ierapetra

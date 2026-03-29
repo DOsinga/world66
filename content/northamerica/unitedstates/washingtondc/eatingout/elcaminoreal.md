@@ -4,6 +4,8 @@ type: poi
 address: "1815 14th Street NW"
 price: "entrees $8-12"
 type: "Mexican"
+latitude: 45.071711
+longitude: -93.21155
 ---
 
 Mexican and Salvadoran food. The service is excellent, and many of the dishes are delicious, if overly heavy. A lesser-known and affordable spot for good food, though not the best in town.

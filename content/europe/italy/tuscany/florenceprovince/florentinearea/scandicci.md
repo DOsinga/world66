@@ -1,6 +1,8 @@
 ---
 title: "Scandicci"
 type: location
+latitude: 43.75671
+longitude: 11.184762
 ---
 
 We currently have no information about Scandicci.

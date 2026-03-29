@@ -1,6 +1,8 @@
 ---
 title: "Chinese"
 type: poi
+latitude: 11.241274
+longitude: -74.187755
 ---
 
 **Points of Interest**

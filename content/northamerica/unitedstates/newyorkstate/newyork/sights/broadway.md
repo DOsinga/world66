@@ -2,6 +2,8 @@
 title: "Broadway"
 type: poi
 type: "Hotspots"
+latitude: 40.874278
+longitude: -73.910081
 ---
 
 The Broadway [ˈb ɹɑː dwe ɪ] is a high street and shopping street in the New York part of town of Manhattan and at the same time the oldest and with more than 25-km length the longest north south crossing of the island. This street comes to parts still from an old Indian's path which the first Dutch colonists have taken over and have developed to a street. The southern end of the Broadways lies with the bowling Green near the south point Manhattans. He leads straight through the island to the most northern point where he crosses the Harlem River by means of the Broadway bridge, further goes by the Bronx and the circle of Westchester, along the Hudson River, until he becomes, finally, the New-York-Albany-Poststraße and leads to Albany, the capital of the state New York. When the first Dutch colonists settled on the island and founded Amsterdam Anew, they took over – in contrast to the Englishmen who fell back by the construction of her settlements rather on her present principle of English town planning manner – this already existing Indian's path to reach from Amsterdam Anew, in the south of the island, to other places in the north.

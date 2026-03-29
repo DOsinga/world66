@@ -6,6 +6,8 @@ email: "info@golf-hilton-head-island.com"
 phone: "843.671.4700"
 type: "Golf"
 url: "www.golf-hilton-head-island.com"
+latitude: 32.157781
+longitude: -80.754368
 ---
 
 Hilton Head Island is one of the country's foremost golf destinations. Golf Digest named Hilton Head Island Number 10 on its list of the world's best golf resorts.

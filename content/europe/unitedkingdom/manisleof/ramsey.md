@@ -1,6 +1,8 @@
 ---
 title: "Ramsey"
 type: location
+latitude: 52.449407
+longitude: -0.102114
 ---
 
 We currently have no information about Ramsey.

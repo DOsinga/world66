@@ -1,6 +1,8 @@
 ---
 title: "Mentor"
 type: location
+latitude: 41.666478
+longitude: -81.339977
 ---
 
 Mentor is a small town in Ohio not too far from [Cleveland](/northamerica/unitedstates/ohio/cleveland). The main reason to come and visit is the James A. Garfield National Historic Site, which preserves the property associated with the 20th President of the United States.

@@ -1,6 +1,8 @@
 ---
 title: "Leadville"
 type: location
+latitude: 39.250823
+longitude: -106.292524
 ---
 
 We currently have no information about .

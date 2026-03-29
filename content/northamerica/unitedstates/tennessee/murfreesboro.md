@@ -1,6 +1,8 @@
 ---
 title: "Murfreesboro"
 type: location
+latitude: 35.84604
+longitude: -86.39211
 ---
 
 Murfreesboro lies smack-dab

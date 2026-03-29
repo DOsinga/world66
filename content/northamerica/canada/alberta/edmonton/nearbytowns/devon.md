@@ -2,6 +2,8 @@
 title: "Devon"
 type: location
 type: "general"
+latitude: 53.363354
+longitude: -113.731699
 ---
 
 Located southwest of Edmonton, the town of Devon is nestled along the

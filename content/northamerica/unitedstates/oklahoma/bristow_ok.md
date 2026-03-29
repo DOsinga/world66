@@ -1,6 +1,8 @@
 ---
 title: "Bristow, OK"
 type: location
+latitude: 35.830894
+longitude: -96.390775
 ---
 
 **Welcome to Route 66 Cottage in Bristow, OK!**

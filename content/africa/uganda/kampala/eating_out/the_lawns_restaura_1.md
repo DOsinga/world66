@@ -8,6 +8,8 @@ phone: "+256 414 250337"
 price: "$8 to $20"
 type: "International"
 url: "www.the.lawns.co.ug"
+latitude: 0.331334
+longitude: 32.598751
 ---
 
 GREAT INTERNATIONAL CUISINE & BEST GAME MEAT IN UGANDA

@@ -6,6 +6,8 @@ email: "siteadmin@only2ndhand.com"
 phone: "9090208029"
 type: "Markets"
 url: "www.only2ndhand.com"
+latitude: 20.260296
+longitude: 85.839452
 ---
 
 During your stay you may need products for temporary use. If you want a secondhand/used product you can quickly find a lot of seller details at www.kinabika.com. This site exclusively deals with buying and selling activity in the state of orissa and capital city bhubaneswar. Another such usefull site is www.only2ndhand.com . You might have guessed it right, it is the perfect site if you are looking at buying or selling only 2nd hand items.

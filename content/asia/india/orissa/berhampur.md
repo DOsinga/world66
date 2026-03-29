@@ -1,6 +1,8 @@
 ---
 title: "Berhampur"
 type: location
+latitude: 21.493085
+longitude: 86.63273
 ---
 
 **BERHAMPUR **

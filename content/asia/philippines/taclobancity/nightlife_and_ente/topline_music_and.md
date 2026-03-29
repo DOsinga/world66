@@ -4,6 +4,8 @@ type: poi
 address: "Sto. Niño Street"
 email: "topline.musicandbar@gmail.com"
 type: "Wine bars"
+latitude: 14.475862
+longitude: 120.994571
 ---
 
 Normal

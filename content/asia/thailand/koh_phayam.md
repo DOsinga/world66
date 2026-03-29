@@ -1,6 +1,8 @@
 ---
 title: "Koh Phayam"
 type: location
+latitude: 9.740532
+longitude: 98.403646
 ---
 
 Travel Guide

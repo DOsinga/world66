@@ -7,6 +7,8 @@ phone: "0522-3946930"
 price: "very cheap"
 type: "Cheap"
 url: "no"
+latitude: 26.866192
+longitude: 80.889516
 ---
 
 ### [zuhaib parvez](/asia/nepal/lalitpur/eatingout/zuhaib_parvez)

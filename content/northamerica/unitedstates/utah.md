@@ -1,6 +1,8 @@
 ---
 title: "Utah"
 type: location
+latitude: 39.422519
+longitude: -111.714358
 ---
 
 Utah is a landlocked state that borders on [Colorado](/northamerica/unitedstates/colorado), [Idaho](/northamerica/unitedstates/idaho), [Nevada](/northamerica/unitedstates/nevada), [Arizona](/northamerica/unitedstates/arizona) and [Wyoming](/northamerica/unitedstates/wyoming). The capital of the state, Salt Lake City hosted the 2002 Olympics. It is most famous for being the state where the Mormon Church (The Church of Jesus Christ of Latter Day Saints) has its world headquarters, as well as the location of many gorgeous places.

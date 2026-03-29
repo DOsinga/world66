@@ -1,6 +1,8 @@
 ---
 title: "Puyallup"
 type: location
+latitude: 47.184901
+longitude: -122.29214
 ---
 
 Travel Guide

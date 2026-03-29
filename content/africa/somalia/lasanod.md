@@ -1,6 +1,8 @@
 ---
 title: "Las-Anod"
 type: location
+latitude: 8.326895
+longitude: 47.658135
 ---
 
 **Las-Anod is the capital city of SOOL REGION of Somalia, wich located northern Somalia.**

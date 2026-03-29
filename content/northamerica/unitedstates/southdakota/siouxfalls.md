@@ -1,6 +1,8 @@
 ---
 title: "Sioux Falls"
 type: location
+latitude: 43.547601
+longitude: -96.729363
 ---
 
 We currently have no information about Sioux Falls.

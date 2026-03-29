@@ -1,6 +1,8 @@
 ---
 title: "Zamora"
 type: location
+latitude: 41.685769
+longitude: -5.942315
 ---
 
 Zamora is accessible from [Madrid](/europe/spain/madrid), Ávila or southern Galicia by Talgo and from [Salamanca](/europe/spain/centralspain/salamanca)or León by bus, bus from Salamanca taking less than an hour. 

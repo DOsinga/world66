@@ -1,6 +1,8 @@
 ---
 title: "Kabankalan City"
 type: location
+latitude: 9.988915
+longitude: 122.81348
 ---
 
 Travel Guide

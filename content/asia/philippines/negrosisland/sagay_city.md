@@ -1,6 +1,8 @@
 ---
 title: "Sagay City"
 type: location
+latitude: 10.896068
+longitude: 123.415462
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Padova"
 type: location
+latitude: 45.391408
+longitude: 11.805849
 ---
 
 Travel Guide

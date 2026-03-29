@@ -1,6 +1,8 @@
 ---
 title: "Finland"
 type: location
+latitude: 63.246778
+longitude: 25.920916
 ---
 
 Finland is a northern European country of four seasons for the discerning traveler, not a land of mass tourism. Summer season in Helsinki, winter at the skiing centers in Lapland and few happenings all year round temp enough people to make it a crowd, otherwise you can enjoy the space and silence in the pure northern nature. During the winter months you can have a skiing holiday or visit the Santa Claus and take a reindeer tour. Summer offers you a wide variety of activity from trekking to urban holidays, or you can simply relax at a hidden summer cottage with a sauna near a lake. Besides the mainland with vast forests and thousands of lakes separated by few agricultural and urban areas, the Baltic Sea with widespread archipelagos offers plenty of possibilities for sailing and fishing. Helsinki and few other places are worth of visiting throughout the year. Finland has a high standard of living, comparable to Scandinavian countries, facilities are good and especially the telecommunications are next to none in the world.

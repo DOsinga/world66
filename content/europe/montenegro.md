@@ -1,6 +1,8 @@
 ---
 title: "Montenegro"
 type: location
+latitude: 42.775562
+longitude: 19.202242
 ---
 
 Travel Guide

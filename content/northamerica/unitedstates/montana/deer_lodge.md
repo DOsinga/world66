@@ -1,6 +1,8 @@
 ---
 title: "Deer Lodge"
 type: location
+latitude: 46.075379
+longitude: -113.089332
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Zomba plateau"
 type: location
+latitude: -15.368322
+longitude: 35.30807
 ---
 
 We currently have no information about Zomba plateau.

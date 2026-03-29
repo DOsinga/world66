@@ -1,6 +1,8 @@
 ---
 title: "Luxembourg"
 type: location
+latitude: 49.815868
+longitude: 6.129675
 ---
 
 The Grand Duchy of Luxembourg with a population of only 435,700 is bordered by Belgium on the north and west, Germany on the east, and France on the south. It has an area of 2,586 sq km (998 sq mi). Until the EU expansion of May 1 2004, Luxembourg was the smallest member country in the European Union (now Malta is the smallest EU member country). Luxembourg is one of the world's most industrialised countries and has the highest standard of living in the EU. 

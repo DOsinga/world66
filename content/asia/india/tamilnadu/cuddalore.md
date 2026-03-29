@@ -1,6 +1,8 @@
 ---
 title: "Cuddalore"
 type: location
+latitude: 11.520207
+longitude: 79.339636
 ---
 
 Travel Guide

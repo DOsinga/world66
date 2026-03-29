@@ -1,6 +1,8 @@
 ---
 title: "Corniglia"
 type: location
+latitude: 44.119961
+longitude: 9.708687
 ---
 
 Travel Guide

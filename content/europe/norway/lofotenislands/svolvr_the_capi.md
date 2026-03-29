@@ -1,6 +1,8 @@
 ---
 title: "Svolvær"
 type: location
+latitude: 68.232171
+longitude: 14.564602
 ---
 
 Svolvær is today Lofoten´s regional centre with about 4,120 inhabitants. The Svolvær Goat, is the town´s most characteristic feature, and it represents a challenge to climbers. The peak was reached for the first time in 1910. The Svolvær Goat peak, a characteristic feature of Svolvær, challenges mountaineers to jump from one of its horns to the other. Would you dare to jump?

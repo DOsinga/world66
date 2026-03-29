@@ -7,6 +7,8 @@ opening_hours: "See website"
 phone: "02392 463419"
 type: "Parks, Gardens and Zoos"
 url: "www.langstoneharbour.org.uk"
+latitude: 50.817851
+longitude: -1.014309
 ---
 
 Langstone Harbour is the centre of three linked harbours on Hampshire's southeast coast, with Portsmouth Harbour to the west and Chichester Harbour to the east. The harbour is important for its environmental designations, and commercial shipping, fishing and recreational boating have been supported in the harbour for many years.

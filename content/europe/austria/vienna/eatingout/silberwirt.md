@@ -4,6 +4,8 @@ type: poi
 accessibility: "good"
 address: "Schlossgasse 21"
 type: "Local"
+latitude: 48.1913
+longitude: 16.359417
 ---
 
 Very cozy Viennese restaurant, quite high prices, but worth it! All kind of food, including own menu for vegetarians.

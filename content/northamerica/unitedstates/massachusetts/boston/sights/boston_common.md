@@ -3,6 +3,8 @@ title: "Boston Common"
 type: poi
 address: "Tremont St."
 type: "Parks, Gardens and Zoos"
+latitude: 34.060565
+longitude: -118.196454
 ---
 
 Boston Common is impossible to avoid on a visit to Boston, but happily it is the most pleasant of crossroads. The Common dates from the founding of the city in the 1630s, and is the country's oldest public park. It was the 'living room' of the city then, just as it is now, except with then it was where the cows grazed.

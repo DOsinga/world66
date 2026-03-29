@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Gjirokastra"
 type: location
+latitude: 40.074449
+longitude: 20.138631
 ---
 
 Travel Guide

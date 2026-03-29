@@ -1,13 +1,19 @@
 ---
 title: "Dance"
 type: poi
+latitude: 52.372912
+longitude: 4.87816
 ---
 
 **Place to go outs**
 
 **Bredance -Sounds Of The City**
 
- **De Bredase partyorganisatie Bredance is terug !** ****  Na een afwezigheid van 2 jaar ,is de Bredase partyorganisatie Bredance weer helemaal bookingurl: [www.bredance.nl](http://www.bredance.nl)
+
+ **De Bredase partyorganisatie Bredance is terug !**
+ **** 
+ Na een afwezigheid van 2 jaar ,is de Bredase partyorganisatie Bredance weer helemaal
+ bookingurl: [www.bredance.nl](http://www.bredance.nl)
 
 fax: 00
 

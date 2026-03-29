@@ -5,6 +5,8 @@ address: "Abingdon, Oxfordshire"
 phone: "0844 576 5503"
 type: "By Sea"
 url: "www.aferry.co.uk"
+latitude: 51.671484
+longitude: -1.277972
 ---
 
 AFerry.co.uk offer **18 routes** to and from the Republic

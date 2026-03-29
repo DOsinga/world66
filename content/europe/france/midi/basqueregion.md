@@ -1,6 +1,8 @@
 ---
 title: "Basque region"
 type: location
+latitude: 43.377584
+longitude: -1.738844
 ---
 
 Although most of the Basque country or Euskal Herria in Basque is in Spain, there is a small triangle in the southwest corner of France. Located between the

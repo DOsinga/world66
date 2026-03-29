@@ -4,6 +4,8 @@ type: poi
 address: "Praça da República, 94 - Vila do Conde - Portugal"
 phone: "+351 252 631 119"
 type: "French"
+latitude: 41.351835
+longitude: -8.741051
 ---
 
 Cuisine: French and Portuguese Ambience. All debit and credit cards accepted. Closed Monday.

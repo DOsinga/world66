@@ -8,6 +8,8 @@ email: "JoshandMyoShow@mac.com"
 phone: "323 656 1336"
 type: "Theatres"
 url: "www.jshandmyoshow.com"
+latitude: 34.098197
+longitude: -118.364474
 ---
 
 How can Live Comedy ever make your evening? The answer lies on Friday nights at the Laugh Factory where the Josh and Myo Show takes place at 7:30 pm. After a tough working week, it is the ideal remedy for a Friday night that’s sure to take your mind off of stuff and keep you humming the rest of the weekend. That is what was on my mind when I came out of the Josh and Myo Show. Sure, every live comedy show has its moments and some of them have more than just one. To have as many as these guys is nothing short of incredible. The show is ridiculously funny with Joshua on the mike and his trusted partner DJ Myo.

@@ -1,6 +1,8 @@
 ---
 title: "Playa Municipal"
 type: poi
+latitude: 20.629588
+longitude: -87.077899
 ---
 
 Playa Municipal, also known as Playa Principal, is located by the

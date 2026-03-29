@@ -1,6 +1,8 @@
 ---
 title: "Dunvegan"
 type: location
+latitude: 57.436714
+longitude: -6.5814
 ---
 
 Dunvegan is set on a sea loch between the peninsula of Vaternish and Duirnish. It is located some 20 miles fro [Portree](/europe/unitedkingdom/scotland/skye/portree). The main reason to come here is to visit the MacLeod castle up on a hil just outside of town. 

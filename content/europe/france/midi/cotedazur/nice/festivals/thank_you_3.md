@@ -4,6 +4,8 @@ type: poi
 address: "Paris"
 email: "aaron@yahoo.com"
 url: "thiscool.info"
+latitude: 48.85889
+longitude: 2.320041
 ---
 
 blake lively nude pictures

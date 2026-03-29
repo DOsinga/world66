@@ -1,6 +1,8 @@
 ---
 title: "Broken Bow"
 type: location
+latitude: 41.401812
+longitude: -99.639329
 ---
 
 Travel Guide

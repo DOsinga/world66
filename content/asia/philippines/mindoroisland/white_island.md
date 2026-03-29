@@ -1,6 +1,8 @@
 ---
 title: "white island"
 type: location
+latitude: 9.257984
+longitude: 124.655465
 ---
 
 Travel Guide

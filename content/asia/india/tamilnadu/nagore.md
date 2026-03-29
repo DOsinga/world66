@@ -1,6 +1,8 @@
 ---
 title: "Nagore"
 type: location
+latitude: 10.816698
+longitude: 79.840364
 ---
 
 Travel Guide

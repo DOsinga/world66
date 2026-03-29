@@ -1,6 +1,8 @@
 ---
 title: "Harihareshwar"
 type: poi
+latitude: 17.99509
+longitude: 73.024531
 ---
 
 Harihareshwar is one of the finest places in Konkan. It is just 230 Kms. from Pune. It is famous for a temple on the seashore as well as the beach and the natural beauties here. Harihareshwar is only 25 Kms for Shri Vardhan. If one wants to enjoy travelling by sea, the launches are also available between the two towns. The temple here is one of the major attractions. Harihareshwar is known as Kashi of Southern India . The hill on the seashore at Harihareshwar is also known as 'Harihar' or 'Pushpadri'.

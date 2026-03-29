@@ -1,6 +1,8 @@
 ---
 title: "Nusa dua"
 type: location
+latitude: -8.801678
+longitude: 115.22393
 ---
 
 We currently have no information about Nusa dua.

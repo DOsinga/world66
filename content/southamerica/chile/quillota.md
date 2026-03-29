@@ -1,6 +1,8 @@
 ---
 title: "Quillota"
 type: location
+latitude: -32.879997
+longitude: -71.247355
 ---
 
 Travel Guide

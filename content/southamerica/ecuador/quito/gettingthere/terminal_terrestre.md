@@ -5,6 +5,8 @@ address: "Maldonado 3077"
 phone: "+593 2 2 57 11 63"
 type: "By Road"
 url: "www.quito.gov.ec"
+latitude: -31.447435
+longitude: -64.185556
 ---
 
 This is Quito's main bus station for bus lines to and from other cities in Ecuador. It is located in the Cumandá neighborhood.

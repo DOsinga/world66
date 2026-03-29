@@ -2,6 +2,8 @@
 title: "Tavush Province (Marz)"
 type: poi
 type: "Hotspots"
+latitude: 40.739466
+longitude: 44.852009
 ---
 
 Tavush Province

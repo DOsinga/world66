@@ -1,6 +1,8 @@
 ---
 title: "North Battleford"
 type: location
+latitude: 52.776186
+longitude: -108.300476
 ---
 
 Travel Guide

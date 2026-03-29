@@ -1,6 +1,8 @@
 ---
 title: "Cape Reinga"
 type: location
+latitude: -34.426579
+longitude: 172.677468
 ---
 
 This is the northern most accessible part of the North Island, and from

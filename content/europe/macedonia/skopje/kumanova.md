@@ -1,6 +1,8 @@
 ---
 title: "Kumanova"
 type: location
+latitude: 42.135913
+longitude: 21.718547
 ---
 
 Travel Guide

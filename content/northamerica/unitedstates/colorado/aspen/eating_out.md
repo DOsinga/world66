@@ -5,6 +5,8 @@ address: "Aspen"
 price: "From under $10 to over $100"
 type: "Local"
 url: "www.EatAspen.com"
+latitude: 39.191113
+longitude: -106.82356
 ---
 
 Aspen is a diner's paradise with many restaurants located within walking distance of the downtown core.

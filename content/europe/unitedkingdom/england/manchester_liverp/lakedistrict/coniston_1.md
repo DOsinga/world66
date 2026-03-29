@@ -1,6 +1,8 @@
 ---
 title: "Coniston"
 type: location
+latitude: 54.369017
+longitude: -3.075764
 ---
 
 The village of Coniston is situated in the south of the

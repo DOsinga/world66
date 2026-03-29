@@ -1,6 +1,8 @@
 ---
 title: "Charlotte"
 type: location
+latitude: 35.227209
+longitude: -80.843083
 ---
 
 Charlotte has a long history and walking through the center of the city is like walking back in the 18-th century. 

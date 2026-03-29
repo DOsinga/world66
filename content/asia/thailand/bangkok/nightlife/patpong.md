@@ -1,6 +1,8 @@
 ---
 title: "Patpong"
 type: poi
+latitude: 13.728853
+longitude: 100.531749
 ---
 
 Patpong used to be known as the red light district of South-East Asia. It probably does not live up to its international image any more - most of the old Patpong sex scene has shifted to Soi Cowboy (Sukhmuwit 23) and Nana Plaza (Sukhumwit 3). Still, there are plenty of go-go bars remaining and enough touts to retain a raucous atmosphere. 

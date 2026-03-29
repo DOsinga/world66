@@ -7,6 +7,8 @@ email: "information@clancys-bar.com"
 phone: "(021) 427 6097"
 type: "Clubs and dancing"
 url: "www.clancys-bar.com"
+latitude: -34.076107
+longitude: 150.777193
 ---
 
 Reminiscent of the stylish living room-type clubs around the world, this late lounge stands out from the rest with extensive comfortable seating, sleek VIP area, and atmospheric music, which sets the mood without taking away from your

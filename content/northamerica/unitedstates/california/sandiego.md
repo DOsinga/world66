@@ -1,6 +1,8 @@
 ---
 title: "San Diego"
 type: location
+latitude: 32.71742
+longitude: -117.162772
 ---
 
 San Diego is a city located in the southwestern corner of the state of California (and thus in the southwestern corner of the continental United States). The city is noted for its temperate climate and excellent beaches. As of the 2000 census, the city had a total population of 1,223,400. 

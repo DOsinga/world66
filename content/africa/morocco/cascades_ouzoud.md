@@ -1,6 +1,8 @@
 ---
 title: "Cascades Ouzoud"
 type: location
+latitude: 31.989795
+longitude: -6.713693
 ---
 
 Cascade Ouzoud should be classified as one of the "natural wonders" of Morocco. Approximately 300 meters high, the cascade is northeast of Marrakech about 150km. Like some stage-plays in New York City being "off-off Broadway," the cascade is also "off-off" the beaten path. But the journey there is well worth the effort. You will find at the top quaint and cheap little hostels, good restaurants serving excellent meals and small shops selling hand-made Moroccan goods. 

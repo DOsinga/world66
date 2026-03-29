@@ -5,6 +5,8 @@ address: "Thailand"
 email: "tours@tontantravel.com"
 phone: "+66 (0)87 87 45 794"
 url: "www.tontantravel.com"
+latitude: 14.897192
+longitude: 100.83273
 ---
 
 TonTan Travel runs tours in Thailand's greatest parks like [Khao yai national park](/asia/thailand/khaoyainationalpark), [Ayutthaya](/asia/thailand/ayutthaya) and more.

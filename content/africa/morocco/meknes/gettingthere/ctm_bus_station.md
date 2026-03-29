@@ -5,6 +5,8 @@ address: "Meknès, Avenue des Forces Royales / Avenue de Fès"
 phone: "00212-35-522583 or 00212-35-514618"
 type: "By Road"
 url: "www.ctm.co.ma"
+latitude: 34.036259
+longitude: -5.002531
 ---
 
 If you are looking for a cheap way to travel to Meknès, taking the bus is a good idea.

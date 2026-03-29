@@ -5,6 +5,8 @@ address: "4806 SE Stark Street"
 phone: "503-228-1509"
 price: "$7-15 per person"
 type: "Thai"
+latitude: 45.519099
+longitude: -122.61319
 ---
 
 Sivilaya Thai Restaurant, with a large menu of typical Thai dishes,

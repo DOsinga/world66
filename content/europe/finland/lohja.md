@@ -1,6 +1,8 @@
 ---
 title: "Lohja"
 type: location
+latitude: 60.251204
+longitude: 24.067695
 ---
 
 We currently have no information about .

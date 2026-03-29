@@ -2,6 +2,8 @@
 title: "Folly Field"
 type: poi
 type: "Hotspots"
+latitude: 32.203391
+longitude: -80.68859
 ---
 
 The second largest barrier island on the East Coast and a premier

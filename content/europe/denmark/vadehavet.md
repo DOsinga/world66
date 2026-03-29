@@ -1,6 +1,8 @@
 ---
 title: "Vadehavet"
 type: location
+latitude: 55.107369
+longitude: 8.553121
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "New Brunswick"
 type: location
+latitude: 46.500283
+longitude: -66.750183
 ---
 
 Known as the "Picture Province", New Brunswick has a variety of attractions that contribute to this reputation.

@@ -1,6 +1,8 @@
 ---
 title: "Western Mongolia"
 type: location
+latitude: 40.434103
+longitude: 106.194227
 ---
 
 Travel Guide

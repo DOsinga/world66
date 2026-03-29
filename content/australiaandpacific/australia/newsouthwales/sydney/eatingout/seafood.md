@@ -1,13 +1,16 @@
 ---
 title: "Seafood"
 type: poi
+latitude: -17.740544
+longitude: 139.544297
 ---
 
 **Restaurants**
 
 **Villa Caprese**
 
-Located at the northern end of the Sydney Harbour Bridge, with stunning water views and creative Italian cuisine. Very impressive decor and specialising in seafood. Lunch Monday to Friday, dinner Monday to Saturday. Major cards. 
+Located at the northern end of the Sydney Harbour Bridge, with stunning water views and creative Italian cuisine. Very impressive decor and specialising in seafood. Lunch Monday to Friday, dinner Monday to Saturday. Major cards.
+ 
 
 address: Alfred Street 52
 
@@ -79,7 +82,8 @@ tel: (02) 9328 2822
 
 **Carlo's Place **
 
-Carlo's Place is a good local restaurant, small and friendly and offers good seafood.  
+Carlo's Place is a good local restaurant, small and friendly and offers good seafood. 
+ 
 
 address: Corner Austin St & Longueville Road, Lane Cove
 

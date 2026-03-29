@@ -1,6 +1,8 @@
 ---
 title: "Can Tho"
 type: location
+latitude: 10.036205
+longitude: 105.787266
 ---
 
 Travel Guide

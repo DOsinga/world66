@@ -1,6 +1,8 @@
 ---
 title: "Basingstoke"
 type: location
+latitude: 51.262826
+longitude: -1.086198
 ---
 
 Located in the centre of Hampshire, west of London. You can get to Basingstoke quite easily by taking one of the many trains that stop there from Waterloo station in London. Take one of the faster trains (which stop at Woking only before reaching Basingstoke) and you'll get there in around 40 to 50 minutes. 

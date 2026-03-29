@@ -1,6 +1,8 @@
 ---
 title: "Eysturoy"
 type: location
+latitude: 62.19887
+longitude: -6.817845
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Achrafieh"
 email: "Charlotte.seguin@nelinteractif"
 type: "Hotspots"
 url: "www.liveachrafieh.com"
+latitude: 33.884214
+longitude: 35.521502
 ---
 
 Normal

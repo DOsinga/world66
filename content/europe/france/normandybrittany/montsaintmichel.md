@@ -1,6 +1,8 @@
 ---
 title: "Mont-Saint-Michel"
 type: location
+latitude: 48.635954
+longitude: -1.51146
 ---
 
 Mont-Saint Michel is one of the most important sights in the world. It consists of a mountain, which is largely occupied by a convent. So far, nothing too spectacular. But this mountain is placed in the sea, and used to be accessible only on low tide. At high tide, the mountain is an island, at low tide, it is right on one of the largest and widest sandy beaches you'll find. The monastery build by Cistercian monks played an important role in hundred year war between France and England, when it was an almost impenetrable stronghold.

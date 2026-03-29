@@ -3,6 +3,8 @@ title: "OSCAR'S"
 type: poi
 address: "Tyn 1, Praha 1"
 phone: "+42 (0)02 2489 5403"
+latitude: 50.088091
+longitude: 14.423353
 ---
 
 Open: Daily. 11.00 - 01.00

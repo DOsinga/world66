@@ -1,6 +1,8 @@
 ---
 title: "Rajshahi"
 type: location
+latitude: 24.628543
+longitude: 89.037686
 ---
 
 Travel Guide

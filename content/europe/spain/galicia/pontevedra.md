@@ -1,6 +1,8 @@
 ---
 title: "Pontevedra"
 type: location
+latitude: 42.431888
+longitude: -8.643159
 ---
 
 Pontevedra is the capital of the province of the same name, that contains the much larger city of Vigo. This is one of the four provinces in Galicia. Connoiseurs often rate it as the most impressive place in southern Galicia.

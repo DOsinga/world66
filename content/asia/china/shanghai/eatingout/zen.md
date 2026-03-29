@@ -4,6 +4,8 @@ type: poi
 address: "1399 Nanjing West Road"
 phone: "62897877"
 type: "Chinese"
+latitude: 25.053485
+longitude: 121.516889
 ---
 
 Cantonese cuisine at its best in Shanghai, Zen has a few locations including Xintiandi, Tian Hu Garden and Plaza 66.

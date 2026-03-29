@@ -2,6 +2,8 @@
 title: "Metro/RER"
 type: poi
 email: "sarimyy@hotmail.com"
+latitude: 48.84064
+longitude: 2.367037
 ---
 
 Best way within the city (NOT including the CDG or Orly airports) is to get a carnet of 10 metro tickets and use to come and go as you please. Obviously if you don't use some of the tickets they're not refundable. So if you won't use 10 tickets, just get individual tickets.

@@ -1,6 +1,8 @@
 ---
 title: "Kluang"
 type: location
+latitude: 2.032347
+longitude: 103.319077
 ---
 
 One of the charming places to visit in Kluang is the Kluang Railway station, in service since 1915. Like nearby Sungai Mengkibol, the railway passes through Kluang town, basically cutting it into two halves. As the road to the town is temporarily closed for the train to pass, local residents once said that when the trains approach Kluang Railway station, the entire Kluang town stands still. The station itself withstood the test of time and should be of interest for those who have passion for nostalgic photographs. 

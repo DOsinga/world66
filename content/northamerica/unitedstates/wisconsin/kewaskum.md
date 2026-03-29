@@ -1,6 +1,8 @@
 ---
 title: "Kewaskum"
 type: location
+latitude: 43.52138
+longitude: -88.227864
 ---
 
 Travel Guide

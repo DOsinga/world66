@@ -7,6 +7,8 @@ email: "info@cookinrio.com"
 phone: "21-8761-3653"
 type: "Other"
 url: "www.cookinrio.com"
+latitude: -22.964274
+longitude: -43.17728
 ---
 
 **Learn to cook Brazilian

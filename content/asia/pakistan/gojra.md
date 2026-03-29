@@ -1,6 +1,8 @@
 ---
 title: "Gojra"
 type: location
+latitude: 31.148237
+longitude: 72.685908
 ---
 
 Travel Guide

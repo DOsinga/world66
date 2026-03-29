@@ -1,6 +1,8 @@
 ---
 title: "Catanzaro"
 type: location
+latitude: 38.82996
+longitude: 16.431557
 ---
 
 Travel Guide

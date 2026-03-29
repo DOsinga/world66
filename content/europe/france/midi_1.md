@@ -1,6 +1,8 @@
 ---
 title: "Midi"
 type: location
+latitude: 43.809907
+longitude: 1.434493
 ---
 
 Travel Guide

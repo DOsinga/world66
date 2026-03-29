@@ -1,6 +1,8 @@
 ---
 title: "Air Mountains"
 type: location
+latitude: 17.85
+longitude: 8.75
 ---
 
 The Air Mountains are north of [Agadez](/africa/niger/agadez). They are a very impressive natural wonder and absolutely worth a visit. North of the Air mountains tsart the Tenere desert, and further northeast you can find the Djado Plateau. 

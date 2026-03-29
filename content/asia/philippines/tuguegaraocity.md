@@ -1,6 +1,8 @@
 ---
 title: "Tuguegarao City"
 type: location
+latitude: 17.611886
+longitude: 121.730038
 ---
 
 Travel Guide

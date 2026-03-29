@@ -1,6 +1,8 @@
 ---
 title: "Pasay City"
 type: location
+latitude: 14.5437
+longitude: 120.99465
 ---
 
 Travel Guide

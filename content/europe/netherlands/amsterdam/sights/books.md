@@ -1,6 +1,8 @@
 ---
 title: "Books"
 type: poi
+latitude: 52.355375
+longitude: 4.891864
 ---
 
 Amsterdam has many good bookshops. The biggest one is Scheltema which is located at the Koningsplein. In the Kalverstraat you can find English books at WH Smith and The American Bookstore.
@@ -95,7 +97,8 @@ subject: drugs
 
 a nose for shops sights and restaurants in amsterdam.
 
-A great guide for Amsterdam with fun shops, great walking tours, restaurants with character. It had great reviews in the Wallpaper January issue 2001. www.brummsbooks.nl 
+A great guide for Amsterdam with fun shops, great walking tours, restaurants with character. It had great reviews in the Wallpaper January issue 2001. www.brummsbooks.nl
+ 
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/90-804546-2-1/ref=ase_osingacom?v=glance&s=books)
 

@@ -1,6 +1,8 @@
 ---
 title: "Ettelbruck"
 type: location
+latitude: 49.847002
+longitude: 6.098466
 ---
 
 We currently have no information about Ettelbruck.

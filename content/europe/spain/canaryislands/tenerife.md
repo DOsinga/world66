@@ -1,6 +1,8 @@
 ---
 title: "Tenerife"
 type: location
+latitude: 28.293578
+longitude: -16.621447
 ---
 
 The beautiful scenery throughout the Canary Islands and their Atlantic culture contribute to the pleasures derived from the island climate and the sea without having to give up nature excursions or cultural visits. This is especially true on the island of Tenerife, where the marked contrasts and dramatic beauty of its scenery, as well as the rich traditions, can be indulged in at the two large, renowned tourist centers: one in the fertile north, the other in the sunny south.

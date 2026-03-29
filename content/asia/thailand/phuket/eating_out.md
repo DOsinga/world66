@@ -5,6 +5,8 @@ address: "Kata Beach Phuket"
 price: "THB 300-500"
 type: "Thai"
 url: "www.phuket-luxury-hotels.com"
+latitude: 7.81936
+longitude: 98.29805
 ---
 
 Phuket has a wide choice of restaurants that range from food stalls on the streets to luxury haute cuisine restaurants. Many of the best restaurants are found in and near the beach resorts alsong the west coast of the Island of Phuket. Thai restaurants and also restaurants offering other Asian cuisine, also Italian and French restaurants are popular of Phuket.

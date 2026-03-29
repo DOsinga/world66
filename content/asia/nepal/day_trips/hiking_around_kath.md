@@ -5,6 +5,8 @@ address: "Thamel, Kathmandu Nepal"
 email: "ecotreknepal@gmail.com"
 phone: "977 1 4255715"
 url: "www.itournepal.com"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 Kathmandu valley lies in the middle hills of Nepal that is subordinate to the majestic Himalayas in the north. Lush hills with its ridges above 2,000 m surrounds the 218 sq miles area of Kathmandu valley. These hills offer beautiful walking tour from a day to week with the Himalayan backdrop. The whole surrounding hills in easy access from Kathmandu could be divided into two main parts, the southern part and the northern part.

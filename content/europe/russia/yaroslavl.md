@@ -1,6 +1,8 @@
 ---
 title: "Yaroslavl"
 type: location
+latitude: 57.626388
+longitude: 39.893371
 ---
 
 The City of Yaroslavl, located at the confluence of the Volga and Kotorosl rivers, is today a World Heritage Sight. Said to be founded in 1010 by Prince Yaroslavl the Wise, it was incorporated into the principality of Muscovy in 1463.

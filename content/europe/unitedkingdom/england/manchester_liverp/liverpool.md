@@ -1,6 +1,8 @@
 ---
 title: "Liverpool"
 type: location
+latitude: 53.407199
+longitude: -2.99168
 ---
 
 Situated on a broad curve on the Mersey river, prone to fogs, battering seas and long rains, Liverpool is a seafarer's dream. Liverpool was and still is one of the world's great ports, and was second only to London as the greatest city in an enormous empire that stretched across the world. A cosmopolitan and diverse city, Liverpool was the departing port where millions of immigrants left for the Americas. If you live in North America, your ancestors more than likely left from the famous Mersey docks. Right now is an exciting time for Liverpool as it is recovering from a depressing slump and it is revitalizing its streets. The city is bracing for an exciting future and taking its rightful place as one of Europe's premier cities.

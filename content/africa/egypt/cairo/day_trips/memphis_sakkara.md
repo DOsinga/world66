@@ -5,6 +5,8 @@ address: "29 El-Hegaz Street, Heliopolis, Cairo"
 email: "info@santamaria-tours.com"
 phone: "+ 2 02 22 58 99 92"
 url: "www.santamaria-tours.com"
+latitude: 30.09874
+longitude: 31.323229
 ---
 
 Tour by private Car visit the ancient capital of Egypt **Memphis **where colossal statue of **Ramses II** and the great **Alabaster** **sphinx**, then proceed to visit the **step pyramid** of **Sakkara** (The first proper Pyramids built for the **king Zoser**, it is considered evolution of the Pyramid from the simple Mastaba to the Pyramid in its known from). After explore the only remainder of the seven ancient wonders of the world. The great **pyramid Khufu (Cheops), Khafre (Chephren), Menkaure (Mykerinus)**. They have fired human imagination, with much speculation as to their origin and purpose, but most evidence supports the theory that they were built by the ancient civilization as tombs in which to bury their kings, a place to start their mystic journey to the afterlife. After, visit the **sphinx (Abu al Hol)** the inscrutable guardian lion of the plateau with its carved body of a lion and the headdress of the Pharaohs.

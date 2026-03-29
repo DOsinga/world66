@@ -2,6 +2,8 @@
 title: "Altstadt"
 type: poi
 type: "Markets"
+latitude: 53.550493
+longitude: 9.99778
 ---
 
 The Old Town (Altstadt), known to most for its cheek-by-jowl line-up of

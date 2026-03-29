@@ -1,11 +1,14 @@
 ---
 title: "Covered Bridges"
 type: location
+latitude: 41.114018
+longitude: -76.339293
 ---
 
 Believe it or not, Alabama has covered bridges. If you're a fan of the old wooden, one lane covered crossings, you might want to visit some of our 12 bridges still standing. Some are still in use, even!
 
- Below is a sample of some of the bridges in the state.
+
+ Below is a sample of some of the bridges in the state.
 
 **all**
 

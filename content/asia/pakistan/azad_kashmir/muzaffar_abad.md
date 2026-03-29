@@ -1,6 +1,8 @@
 ---
 title: "Muzaffar abad"
 type: location
+latitude: 34.373644
+longitude: 73.469583
 ---
 
 Travel Guide

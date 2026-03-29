@@ -1,6 +1,8 @@
 ---
 title: "Qusar"
 type: location
+latitude: 41.449868
+longitude: 48.288893
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Sturgis"
 type: location
+latitude: 44.414477
+longitude: -103.509139
 ---
 
 Travel Guide

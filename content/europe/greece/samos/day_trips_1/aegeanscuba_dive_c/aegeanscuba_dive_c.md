@@ -5,6 +5,8 @@ address: "Samos Marina Pythagorio"
 email: "info@aegeanscuba.gr"
 phone: "00302273061194"
 url: "www.aegeanscuba.gr"
+latitude: 37.690575
+longitude: 26.955138
 ---
 
 Escape to a different world. Scuba diving in Samos depth takes you to a different world with new colors, shapes, textures and creatures – a world where the roles you play – husband, wife, mother, father, friend – take on a new dimension. Dive in Samos and escape to a peaceful place to renew your energy and excite your senses.

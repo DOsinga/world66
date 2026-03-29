@@ -1,6 +1,8 @@
 ---
 title: "Bautzen"
 type: location
+latitude: 51.180913
+longitude: 14.4276
 ---
 
 Travel Guide

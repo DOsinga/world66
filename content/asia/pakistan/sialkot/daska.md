@@ -1,6 +1,8 @@
 ---
 title: "Daska"
 type: location
+latitude: 32.332369
+longitude: 74.352516
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Phitsanulok"
 type: location
+latitude: 16.977998
+longitude: 100.384824
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Hoofdstraat 194"
 phone: "+31 (0)55 578 8975"
 type: "Bars"
 zipcode: "7311BE"
+latitude: 52.216887
+longitude: 5.957753
 ---
 
 type: Bars

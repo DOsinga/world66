@@ -6,6 +6,8 @@ email: "rightgadgetsin@hotmail.com"
 phone: "9874090194"
 type: "Shopping centers and malls"
 url: "www.rightgadgets.in"
+latitude: 21.079025
+longitude: 105.79445
 ---
 
 Normal

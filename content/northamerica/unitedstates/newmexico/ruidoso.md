@@ -1,6 +1,8 @@
 ---
 title: "Ruidoso"
 type: location
+latitude: 33.33158
+longitude: -105.673099
 ---
 
 Travel Guide

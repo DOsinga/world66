@@ -1,6 +1,8 @@
 ---
 title: "Ptuj"
 type: location
+latitude: 46.41981
+longitude: 15.871738
 ---
 
 Ptuj is the oldest city in Slovenia; it obtained town rights in 977. It has survived the centuries well, and the visitor will find its historic centre filled with beautiful sights and monuments. 

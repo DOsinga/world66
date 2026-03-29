@@ -1,6 +1,8 @@
 ---
 title: "Coral Coast"
 type: location
+latitude: -18.134239
+longitude: 178.42557
 ---
 
 Travel Guide

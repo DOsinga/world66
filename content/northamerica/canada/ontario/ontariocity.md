@@ -1,6 +1,8 @@
 ---
 title: "Windsor"
 type: location
+latitude: 42.285854
+longitude: -82.97807
 ---
 
 Windsor

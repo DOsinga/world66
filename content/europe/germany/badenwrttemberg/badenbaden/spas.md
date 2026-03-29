@@ -1,6 +1,8 @@
 ---
 title: "Spas"
 type: location
+latitude: 50.491424
+longitude: 12.177248
 ---
 
 Spas are what people used to come to Baden-Baden for. So don't miss to at least have a look at the different bathing options.
@@ -17,7 +19,8 @@ The remains of the Roman Baths prove that Baden-Baden was a spa in the old days 
 
 **Friedrichsbad**
 
-19-th century posh. 36 DM for a bathing program of three or more hours. Open Monday to Saturday 9am-10 pm, Sunday from 2pm. ** kaye king:** Just returned from Baden-Baden. In our opinion the Friedrichsbad Spa was the "highlight" of our trip. We have visited many spas in the world and on a scale of 1 - 10 we would give this spa a definite "10"........ Can't wait to return next year. [more..](/europe/germany/badenwrttemberg/badenbaden/spas/friedrichsbad)
+19-th century posh. 36 DM for a bathing program of three or more hours. Open Monday to Saturday 9am-10 pm, Sunday from 2pm. ** kaye king:** Just returned from Baden-Baden. In our opinion the Friedrichsbad Spa was the "highlight" of our trip. We have visited many spas in the world and on a scale of 1 - 10 we would give this spa a definite "10"........ Can't wait to return next year.
+ [more..](/europe/germany/badenwrttemberg/badenbaden/spas/friedrichsbad)
 
 **Caracalla Therme**
 

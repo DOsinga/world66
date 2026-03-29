@@ -4,6 +4,8 @@ type: poi
 address: "Süda 7"
 phone: "6461847"
 type: "Casinos"
+latitude: 59.429314
+longitude: 24.74648
 ---
 
 German style bar.

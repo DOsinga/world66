@@ -1,6 +1,8 @@
 ---
 title: "Manzanita"
 type: location
+latitude: 45.718616
+longitude: -123.935038
 ---
 
 Just south of [Cannon Beach](/northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach), Manzanita is the quiet, non-commercial alternative to it's northern neighbor.

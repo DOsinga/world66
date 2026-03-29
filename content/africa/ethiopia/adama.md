@@ -1,6 +1,8 @@
 ---
 title: "Adama"
 type: location
+latitude: 8.541026
+longitude: 39.270546
 ---
 
 Travel Guide

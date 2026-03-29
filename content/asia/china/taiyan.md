@@ -1,6 +1,8 @@
 ---
 title: "Taiyan"
 type: location
+latitude: 42.990054
+longitude: 129.428862
 ---
 
 Travel Guide

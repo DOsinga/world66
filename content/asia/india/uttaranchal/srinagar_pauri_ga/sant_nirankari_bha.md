@@ -1,6 +1,8 @@
 ---
 title: "SANT NIRANKARI BHAWAN"
 type: location
+latitude: 28.702793
+longitude: 77.274619
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Beggs"
 type: location
+latitude: 35.742598
+longitude: -96.070273
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "An Teallach"
 type: poi
+latitude: 57.802346
+longitude: -5.254253
 ---
 
 This is an impressive and beautiful ridge walk, with excellent chances of seeing golden eagles, deer or ptarmigan - but not one for anybody who is unfit and/or without a good head for heights. Start at Dundonell, where you can note the pub. You will deserve a drink there when you return! Take the track to Coire Toll an Lochain [this is one of the best corries on the mainland and **the walk this far is suitable for anyone who is fit. **

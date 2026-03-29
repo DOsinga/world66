@@ -1,6 +1,8 @@
 ---
 title: "Boca Raton"
 type: location
+latitude: 26.358688
+longitude: -80.083098
 ---
 
 Travel Guide

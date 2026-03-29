@@ -1,6 +1,8 @@
 ---
 title: "Vijayanagaram"
 type: location
+latitude: 18.114126
+longitude: 83.411439
 ---
 
 We currently have no information about Vijayanagaram.

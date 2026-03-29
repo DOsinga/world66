@@ -2,6 +2,8 @@
 title: "Museums in Bakersfield"
 type: section
 type: "general"
+latitude: 35.376918
+longitude: -119.008939
 ---
 
 ### [Kern County Museum & Lori Brock Children's Discovery Center](/northamerica/unitedstates/california/centralvalley/bakersfield/museums/kerncountymuseumloribrockchildrensdiscoverycenter)

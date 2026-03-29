@@ -1,6 +1,8 @@
 ---
 title: "Norman"
 type: location
+latitude: 35.222572
+longitude: -97.439482
 ---
 
 Travel Guide

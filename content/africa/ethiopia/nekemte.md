@@ -1,6 +1,8 @@
 ---
 title: "Nekemte"
 type: location
+latitude: 9.090524
+longitude: 36.548157
 ---
 
 We currently have no information about Nekemte.

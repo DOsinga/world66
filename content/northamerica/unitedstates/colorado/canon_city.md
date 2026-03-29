@@ -1,6 +1,8 @@
 ---
 title: "Canon City"
 type: location
+latitude: 38.442251
+longitude: -105.23488
 ---
 
 Travel Guide

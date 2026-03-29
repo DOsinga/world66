@@ -3,6 +3,8 @@ title: "Nightlife and Entertainment"
 type: section
 address: "Lacson Street, Bacolod City"
 type: "Casinos"
+latitude: 10.6696
+longitude: 122.950352
 ---
 
 Here are a few suggestions to enjoy yourself in Bacolod City.

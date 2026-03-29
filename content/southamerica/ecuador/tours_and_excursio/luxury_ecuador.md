@@ -5,6 +5,8 @@ address: "colon 1346"
 email: "flash@uio.satnet.net"
 phone: "556032"
 url: "www.galapagosfirst.com"
+latitude: -31.439828
+longitude: -60.92597
 ---
 
 Ecuador Luxury Travel

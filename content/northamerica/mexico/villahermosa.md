@@ -1,6 +1,8 @@
 ---
 title: "Villahermosa"
 type: location
+latitude: 17.988466
+longitude: -92.936633
 ---
 
 **http://www.tabasco.gob.mx/**

@@ -1,6 +1,8 @@
 ---
 title: "Kilimanjaro"
 type: location
+latitude: -3.078653
+longitude: 37.419856
 ---
 
 **Part of history**

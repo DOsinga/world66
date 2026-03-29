@@ -1,6 +1,8 @@
 ---
 title: "Vilalba"
 type: location
+latitude: 43.296282
+longitude: -7.678767
 ---
 
 Vilalba , capital of the Terra Cha',

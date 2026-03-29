@@ -6,6 +6,8 @@ email: "kami@californiawinefestival.com"
 phone: "805-223-1880"
 type: "Spa and Sauna"
 url: "www.californiawinefestival.com"
+latitude: 34.415553
+longitude: -119.682589
 ---
 
 ***The Quintessential Wine Tasting Experience!

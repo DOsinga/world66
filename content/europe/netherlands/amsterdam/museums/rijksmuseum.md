@@ -7,6 +7,8 @@ opening_hours: "Daily from 9.00 to 18.00 (closed on 1 January)."
 phone: "+31 (0)20 6747047"
 url: "rijksmuseum.nl"
 zipcode: "1071 ZD Amsterdam"
+latitude: 52.360827
+longitude: 4.884463
 ---
 
 This is the number one museum in the city. Located in a majestic 1885 building designed by Pierre Cuypers who also designed the Stadsschouwburg and the Central Station. 

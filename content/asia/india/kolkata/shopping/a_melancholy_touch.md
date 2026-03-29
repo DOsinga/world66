@@ -6,6 +6,8 @@ email: "rightipod@hotmail.com"
 phone: "9874090194"
 type: "Shopping centers and malls"
 url: "www.rightshopping.in"
+latitude: 42.972216
+longitude: -71.0444
 ---
 
 Your music actually defines the inner self of yours. Different moods define different music preferences, and you prefer to carry them

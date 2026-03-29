@@ -1,6 +1,8 @@
 ---
 title: "Triesenberg"
 type: location
+latitude: 47.118618
+longitude: 9.543366
 ---
 
 "/>

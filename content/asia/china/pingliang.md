@@ -1,6 +1,8 @@
 ---
 title: "Pingliang"
 type: location
+latitude: 35.5432
+longitude: 106.660811
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Sligachan"
 type: location
+latitude: 57.290059
+longitude: -6.174426
 ---
 
 We currently have no information about Sligachan.

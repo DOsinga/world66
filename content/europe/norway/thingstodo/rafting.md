@@ -1,6 +1,8 @@
 ---
 title: "Rafting"
 type: poi
+latitude: 61.709292
+longitude: 9.430349
 ---
 
 **Troll Mountain is a professional outdoor company with a wide range of activities running throughout the year. **
@@ -15,7 +17,11 @@ We also cover the counties of Rogaland, Agder, Telemark and Vestfold. Whichever 
 
 www.norwaydirect.co.uk
 
-    
+
+ 
+ 
+ 
+ 
 
 **Rafting**
 
@@ -33,13 +39,38 @@ Sailing in Norway is a growing sport and we offer both rental and instructional 
 
 **Water skiing, Wakeboard and Bronco Riding**
 
-We offer these activities throughout the summer. No previous experience is necessary. And we include instruction and all safety equipment. Trips are run on Byglandsfjord only 5 minutes north from the rafting centre. Here we have plenty of room to let you carve your turns on skis or to tip you all of the Bronco. Our boat is a Zodiac Pro II with a 90 HP motor t his gives us plenty of acceleration for all activities. The Bronco is well suited to parties and groups that will have some fun together.       **** About Troll Mountain  **** Rafting & Watersports  **** Skiing  **** Other Activities  **** SPECIAL OFFER!  **** Reservation Enquiry
+We offer these activities throughout the summer. No previous experience is necessary. And we include instruction and all safety equipment. Trips are run on Byglandsfjord only 5 minutes north from the rafting centre. Here we have plenty of room to let you carve your turns on skis or to tip you all of the Bronco. Our boat is a Zodiac Pro II with a 90 HP motor t his gives us plenty of acceleration for all activities. The Bronco is well suited to parties and groups that will have some fun together. 
+ 
+ 
+ 
+ 
+ 
+ ****
+ About Troll Mountain
+ 
+ ****
+ Rafting & Watersports
+ 
+ ****
+ Skiing
+ 
+ ****
+ Other Activities
+ 
+ ****
+ SPECIAL OFFER!
+ 
+ ****
+ Reservation Enquiry
 
- 
+
+ 
 
 
 
-  
+
+ 
+ 
 
 **Setesdal Rafting Centre**
 

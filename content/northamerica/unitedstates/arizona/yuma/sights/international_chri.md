@@ -8,6 +8,8 @@ opening_hours: "Sun @ 10:00 am and Wed @ 6:00 pm"
 phone: "(928) 329-1099"
 type: "Churches and Cathedrals"
 url: "hhtp:"
+latitude: 32.694368
+longitude: -114.664548
 ---
 
 INTERNATIONAL CHRISTIAN CENTER of the Assemblies of God

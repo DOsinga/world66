@@ -1,6 +1,8 @@
 ---
 title: "Culross"
 type: location
+latitude: 56.055663
+longitude: -3.62837
 ---
 
 This little village on the north bank of the Firth of Forth is a connoiseur's piece.It is quite near the shipyard area of Rosyth and there is nothing to suggest in advance the delight of this place.

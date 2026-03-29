@@ -3,6 +3,8 @@ title: "Jose Karlo"
 type: poi
 accessibility: "can be reached by tricycles and jeep"
 address: "Juan Luna Street"
+latitude: 16.056683
+longitude: 120.521064
 ---
 
 a haven for coffee lovers. it also has an internet cafe.

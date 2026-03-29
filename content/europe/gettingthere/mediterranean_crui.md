@@ -6,6 +6,8 @@ email: "superlastsecond.servizi@yahoo.it"
 phone: "06500540121"
 type: "By Sea"
 url: "www.superlastsecond.it"
+latitude: 40.906829
+longitude: 9.497531
 ---
 
 to travel in the Mediterranean, visiting

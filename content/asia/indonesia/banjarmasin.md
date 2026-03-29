@@ -1,6 +1,8 @@
 ---
 title: "Banjarmasin"
 type: location
+latitude: -3.31875
+longitude: 114.592583
 ---
 
 Travel Guide

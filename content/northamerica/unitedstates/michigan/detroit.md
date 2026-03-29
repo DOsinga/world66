@@ -1,6 +1,8 @@
 ---
 title: "Detroit"
 type: location
+latitude: 42.331551
+longitude: -83.04664
 ---
 
 **Detroit**'s population has fallen below the 1,000,000 mark to 970,000, 48 percent below its 1950 peak of 1,850,000. It is now the 10th largest city in the United States. From 1905 to 1924 immigrants rushed to Detroit, making it one of the most diverse cities in the Midwest. Detroit is home to more Arab-Americans than any other city in the United States. It also has a high population of Albanians, Belgians, Maltese, and Poles. Detroit, with its 75% African-American population, is recognized as a national center of African-American culture. Mayor Dennis Archer replaced the combative Colman Young in 1994 and has helped the city start its revival in housing, commerce and arts. Detroit celebrated its 300th year aniversery in 2001. The current Mayor, Kwame M. Kilpatrick has picked up where Archer left off.

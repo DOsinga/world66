@@ -8,6 +8,8 @@ email: "rootshosting@gmail.com"
 phone: "0236302691"
 type: "Clubs and dancing"
 url: "www.qgphnompenh.com"
+latitude: 30.997563
+longitude: 29.784984
 ---
 
 Hi,

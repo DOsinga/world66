@@ -1,6 +1,8 @@
 ---
 title: "Stockholm-Västerås Airport"
 type: poi
+latitude: 59.589579
+longitude: 16.631215
 ---
 
 Ryanair takes you to and from [London](/europe/unitedkingdom/england/london) Stansted in just a little over two hours. Traffic will be diverted to London [Luton](/europe/unitedkingdom/england/eastern_england/luton) from january 19 2005. 

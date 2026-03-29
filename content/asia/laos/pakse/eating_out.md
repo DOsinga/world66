@@ -4,6 +4,8 @@ type: section
 address: "Road no. 46, Pakse"
 price: "US$2.60 for huge beef hotpot (cook yourself at table) for 2 people & 0.67 cents for a large bottle of beer."
 type: "Cheap"
+latitude: 15.091144
+longitude: 105.8325
 ---
 
 Plenty of cheap restaurants withing a few blocks of each other.

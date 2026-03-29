@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Dhermi"
 type: location
+latitude: 40.154373
+longitude: 19.612051
 ---
 
 Travel Guide

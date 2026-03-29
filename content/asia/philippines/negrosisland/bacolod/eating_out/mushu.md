@@ -5,6 +5,8 @@ accessibility: "Jeepneys and Taxi's"
 address: "20th street"
 price: "A-"
 type: "Japanese"
+latitude: 37.7605
+longitude: -122.388577
 ---
 
 A new nice japanese bar and resto along lacson.

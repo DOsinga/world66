@@ -1,6 +1,8 @@
 ---
 title: "Mae Sariang"
 type: location
+latitude: 18.159646
+longitude: 97.930113
 ---
 
 Travel Guide

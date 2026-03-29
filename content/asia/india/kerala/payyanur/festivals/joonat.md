@@ -5,6 +5,8 @@ address: "OMAN"
 date: "17-07-2009"
 email: "aruvadi1977@gmail.com"
 phone: "0096896773266"
+latitude: 21.000029
+longitude: 57.00369
 ---
 
 **SREE KOORMBA BHAGAVATHI KSHETRA,KANDOTH

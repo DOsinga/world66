@@ -1,6 +1,8 @@
 ---
 title: "Sandavágur"
 type: location
+latitude: 62.054477
+longitude: -7.151071
 ---
 
 Travel Guide

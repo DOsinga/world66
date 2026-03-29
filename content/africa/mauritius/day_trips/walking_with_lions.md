@@ -5,6 +5,8 @@ address: "Royal Road, Cascavelle"
 email: "safari-adventures@intnet.mu"
 phone: "+230 452 55 46"
 url: "www.safari-adventures-mauritius.com"
+latitude: -20.27947
+longitude: 57.404449
 ---
 
 **Trips Available

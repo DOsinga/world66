@@ -1,6 +1,8 @@
 ---
 title: "Midi"
 type: location
+latitude: 43.809907
+longitude: 1.434493
 ---
 
 The official Region is Midi-Pyrénées but the mountain departments are included under the heading of Pyrenees on this site. Hence this site can hold locations in the departments of Aveyron, Cher, Lot, Tarn and Tarn et Garonne.

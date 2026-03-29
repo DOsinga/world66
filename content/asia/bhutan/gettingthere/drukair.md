@@ -2,6 +2,8 @@
 title: "Druk Air"
 type: poi
 type: "By Air"
+latitude: 27.478697
+longitude: 89.632595
 ---
 
 Druk Air, the national flagship airline, is the only such service

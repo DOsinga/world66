@@ -1,6 +1,8 @@
 ---
 title: "Takayama"
 type: location
+latitude: 36.139625
+longitude: 137.251032
 ---
 
 Travel Guide

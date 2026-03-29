@@ -1,6 +1,8 @@
 ---
 title: "Dundalk"
 type: location
+latitude: 54.004603
+longitude: -6.400888
 ---
 
 Dundalk is located halfway

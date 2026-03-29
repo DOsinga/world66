@@ -1,6 +1,8 @@
 ---
 title: "Banner Elk,NC"
 type: location
+latitude: 36.163334
+longitude: -81.871901
 ---
 
 Travel Guide

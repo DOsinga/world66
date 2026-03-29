@@ -1,6 +1,8 @@
 ---
 title: "Rattray Head"
 type: location
+latitude: 57.610059
+longitude: -1.816293
 ---
 
 Travel Guide

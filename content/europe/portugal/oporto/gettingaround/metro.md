@@ -2,6 +2,8 @@
 title: "Metro"
 type: poi
 url: "www.metro-porto.pt"
+latitude: 41.799622
+longitude: -6.766855
 ---
 
 The city's transport network has been upgraded

@@ -1,6 +1,8 @@
 ---
 title: "Kingston"
 type: location
+latitude: 44.305415
+longitude: -76.428378
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ email: "ecostation@starinc.org"
 opening_hours: "weekends 10 am - 4 pm. Open weekdays 1pm-4pm during summer months (thru Sept 2). Open to school and group tours weekdays 10 am  -4 pm by appointment only."
 phone: "310-842-8060"
 url: "www.ecostation.org"
+latitude: 34.012534
+longitude: -118.389732
 ---
 
 STAR ECO Station is a non-profit environmental education museum and exotic wildlife rescue center dedicated to a mission of *Preservation Through Education. *The 18,000 square-foot sanctuary is a* last chance* for over 100 species of endangered, at-risk and abandoned exotic animals, including tropical birds, reptiles, wildcats and sea life.

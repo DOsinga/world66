@@ -1,6 +1,8 @@
 ---
 title: "Tioman Island"
 type: location
+latitude: 2.806544
+longitude: 104.172156
 ---
 
 Pulau Tioman is one of the most beautiful islands of Malaysia. It is located on the eastern side of the Malaysian peninsular. It has been regarded as a jewel in the sea. One early Malaysian legend claims Tioman to be a transformed dragon princess. Apparently the beautiful princess stopped enroute to Singapore from China to admire the charms of this spot. She was so pleased, so she decided to discontinue her journey, take the form of an island, and remain there as a place of shelter and comfort to passing travellers. 

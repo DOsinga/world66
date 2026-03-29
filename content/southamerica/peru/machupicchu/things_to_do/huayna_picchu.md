@@ -2,6 +2,8 @@
 title: "Huayna Picchu"
 type: poi
 type: "Hiking"
+latitude: -13.42174
+longitude: -71.853348
 ---
 
 Hauyna Picchu is the mountain that appears behind the citadel in the famous pictures of Machupicchu.

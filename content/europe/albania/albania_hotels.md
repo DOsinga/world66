@@ -1,6 +1,8 @@
 ---
 title: "Albania Hotels"
 type: location
+latitude: 41.520352
+longitude: 19.519013
 ---
 
 Travel Guide

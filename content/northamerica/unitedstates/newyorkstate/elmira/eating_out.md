@@ -5,6 +5,8 @@ address: "212 Baldwin St"
 phone: "607-732-9417"
 price: "Below $10.00"
 type: "American"
+latitude: 45.502287
+longitude: -76.084624
 ---
 
 While there are not many exotic cuisines located in Elmira, there are a

@@ -7,6 +7,8 @@ opening_hours: "8.30-16.30"
 phone: "+32(0)71/86.22.65"
 type: "general"
 url: "www.charleroi-museum.org"
+latitude: 50.406344
+longitude: 4.501275
 ---
 
 Here you can see the whole history of glass, from the present time until its discovery address: Musée du Verre, Bois du Cazier, rue du Cazier 80, 6001 Marcinelle.

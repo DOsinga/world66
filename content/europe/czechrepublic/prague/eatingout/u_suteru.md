@@ -4,6 +4,8 @@ type: poi
 address: "Palackeho 4 Praha 1"
 phone: "224 947 120"
 type: "Local"
+latitude: 50.080972
+longitude: 14.42316
 ---
 
 Excellent restaurant.

@@ -3,6 +3,8 @@ title: "Roti Prata in Brinchang"
 type: poi
 address: "Brinchang"
 type: "Local"
+latitude: 4.491666
+longitude: 101.388536
 ---
 
 Have a roti prata in Brinchang!

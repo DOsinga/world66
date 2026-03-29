@@ -5,6 +5,8 @@ address: "224 Ponce De Leon Avenue NE"
 phone: "404-876-1800"
 price: "$7-$11"
 type: "American"
+latitude: 33.772836
+longitude: -84.379942
 ---
 
 Delicious southern favorites with many vegetarian options. Choose a side sampler platter to get the most variety. Delicious breads and sweet tea.

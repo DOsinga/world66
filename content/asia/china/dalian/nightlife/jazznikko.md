@@ -4,6 +4,8 @@ type: poi
 address: "Nikko Hotel Dalian"
 phone: "The Place to be!"
 type: "Jazz"
+latitude: 38.926147
+longitude: 121.63781
 ---
 
 The Nikko hotel Dalian has invited the Blue parrot Jazz quartet to perform live in the beautiful Lounge

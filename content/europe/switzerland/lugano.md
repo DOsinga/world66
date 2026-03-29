@@ -1,6 +1,8 @@
 ---
 title: "Lugano"
 type: location
+latitude: 46.00501
+longitude: 8.952028
 ---
 
 ****

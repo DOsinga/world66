@@ -1,6 +1,8 @@
 ---
 title: "Mandaue City"
 type: location
+latitude: 10.333474
+longitude: 123.961591
 ---
 
 Travel Guide

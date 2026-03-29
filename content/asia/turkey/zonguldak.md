@@ -1,6 +1,8 @@
 ---
 title: "Zonguldak"
 type: location
+latitude: 41.250324
+longitude: 31.838974
 ---
 
 Travel Guide

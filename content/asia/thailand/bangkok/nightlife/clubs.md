@@ -1,6 +1,8 @@
 ---
 title: "Clubs"
 type: poi
+latitude: 13.726931
+longitude: 100.77531
 ---
 
 **Place to go outs**

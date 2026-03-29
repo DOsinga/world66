@@ -8,6 +8,8 @@ opening_hours: "24 hours"
 phone: "+27844998310"
 type: "Hotspots"
 url: "www.kingdomofthezulu.com"
+latitude: -29.861825
+longitude: 31.009909
 ---
 
 Come experience the wonders of the most spectacular beaches in Africa!

@@ -7,6 +7,8 @@ email: "pr.habitot@gmail.com"
 opening_hours: "Mon-Thurs 9:30-12:30pm; Fri-Sat 9:30-4:30; Sun Closed"
 phone: "(510) 647-1111"
 url: "www.habitot.org"
+latitude: 37.868485
+longitude: -122.268959
 ---
 
 Habitot Children's Museum

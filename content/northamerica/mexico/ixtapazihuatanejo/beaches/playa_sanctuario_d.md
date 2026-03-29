@@ -2,6 +2,8 @@
 title: "Playa Sanctuario De Las Tortugas"
 type: poi
 address: "La Barra de Potosí"
+latitude: 22.152812
+longitude: -100.97625
 ---
 
 No restaurants. No hotels. No beach vendors. No people!

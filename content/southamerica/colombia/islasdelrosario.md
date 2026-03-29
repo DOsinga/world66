@@ -1,6 +1,8 @@
 ---
 title: "Islas del Rosario"
 type: location
+latitude: 4.615004
+longitude: -74.103366
 ---
 
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhThe National Park of Corales del Rosario embraces the 30 islands of the Rosario archipelago and the mangrove coast of Baru island. 

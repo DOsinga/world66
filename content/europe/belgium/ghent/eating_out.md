@@ -5,6 +5,8 @@ address: "Onderbergen 42"
 phone: "09.224.36.27"
 price: "15-25 €"
 type: "Italian"
+latitude: 51.052024
+longitude: 3.719474
 ---
 
 ### [Kastart](/europe/belgium/ghent/eating_out/kastart)

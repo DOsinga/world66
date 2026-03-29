@@ -1,6 +1,8 @@
 ---
 title: "Botou"
 type: location
+latitude: 38.076422
+longitude: 116.569639
 ---
 
 Travel Guide

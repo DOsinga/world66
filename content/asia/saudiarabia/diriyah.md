@@ -1,6 +1,8 @@
 ---
 title: "Dir’iyah"
 type: location
+latitude: 24.732996
+longitude: 46.573384
 ---
 
 We currently have no information about Dir’iyah.

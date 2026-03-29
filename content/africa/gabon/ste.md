@@ -1,6 +1,8 @@
 ---
 title: "Ste"
 type: location
+latitude: 0.418571
+longitude: 9.445957
 ---
 
 "/>

@@ -1,6 +1,8 @@
 ---
 title: "Fámjin"
 type: location
+latitude: 61.524687
+longitude: -6.87927
 ---
 
 Travel Guide

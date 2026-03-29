@@ -1,6 +1,8 @@
 ---
 title: "Kochi"
 type: location
+latitude: 9.967903
+longitude: 76.244438
 ---
 
 Kochi or Cochin is a really neat and compact town in Kerala. The town has a distinct european feel, due to the fact that it was controled by the Portugese, Dutch and English who each left buildings and foot prints in the culture. It is a very nice town to walk around and has quite some sights of it self.

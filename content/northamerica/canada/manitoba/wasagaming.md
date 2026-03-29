@@ -1,6 +1,8 @@
 ---
 title: "wasagaming"
 type: location
+latitude: 50.657838
+longitude: -99.97188
 ---
 
 We currently have no information about .

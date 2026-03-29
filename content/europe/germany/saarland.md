@@ -1,6 +1,8 @@
 ---
 title: "Saarland"
 type: location
+latitude: 49.384187
+longitude: 6.953737
 ---
 
 The Saarland is, beside the city states Berlin, Hamburg and Bremen the smallest of Germany's state regions. It is situated in the very Southwest of Germany, between

@@ -6,6 +6,8 @@ phone: "508 627 7000"
 price: "Expensive"
 type: "Local"
 url: "www.harbor-view.com"
+latitude: 37.53583
+longitude: -96.643974
 ---
 
 A popular restaurant located a few minutes walk from downtown, with spectacular view of the Edgartown Lighthouse.

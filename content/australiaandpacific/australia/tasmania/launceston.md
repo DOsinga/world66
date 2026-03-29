@@ -1,6 +1,8 @@
 ---
 title: "Launceston"
 type: location
+latitude: -41.434081
+longitude: 147.13735
 ---
 
 Launceston is Tasmania's second largest city, and the administrative centre for the northern half of the state. It was founded in 1805 by settlers who crossed Bass Strait from Melbourne. Thus unlike Hobart, which grew from a military outpost and penal colony, Launceston was developed by free settlers, with an emphasis on commercial development of the region. 

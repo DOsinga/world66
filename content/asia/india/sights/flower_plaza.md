@@ -5,6 +5,8 @@ address: "G-51, ITPL, Bangalore - 560017"
 email: "indiagiftservices@gmail.com"
 type: "Hotspots"
 url: "www.indiagiftservices.com"
+latitude: 12.98463
+longitude: 77.737733
 ---
 
 Send

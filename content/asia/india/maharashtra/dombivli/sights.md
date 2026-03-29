@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Hotspots"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 The most important thing about city is it has a very old stone sculpture (Shilalekh) placed near the Gaavdevi temple on the East side of city. Although often times overlooked by the citizens, it's historical value must be appreciated.

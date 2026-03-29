@@ -5,6 +5,8 @@ address: "Cluny Road, Singapore 259569"
 phone: "1-800-6-471-7300"
 type: "Mosques"
 url: "www.nparks.gov.sg"
+latitude: 1.312
+longitude: 103.817109
 ---
 
 The botanic garden is great,

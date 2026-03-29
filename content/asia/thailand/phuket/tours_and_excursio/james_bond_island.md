@@ -1,6 +1,8 @@
 ---
 title: "James Bond Island"
 type: poi
+latitude: 8.275422
+longitude: 98.500578
 ---
 
 The James Bond Film 'The Man With The Golden Gun' was filmed on an island in Phang Nga Bay, near Phuket. Locals even renamed the island 'James Bond Island'. Ironically, James Bond Island is the lowlight of the tour. The island is rather boring unless you're a James Bond fanatic. There are a few touristy stalls on the island.

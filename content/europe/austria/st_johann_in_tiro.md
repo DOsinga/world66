@@ -1,6 +1,8 @@
 ---
 title: "St. Johann in Tirol"
 type: location
+latitude: 47.522414
+longitude: 12.428681
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "odelouca"
 type: location
+latitude: 37.206256
+longitude: -8.513188
 ---
 
 We currently have no information about odelouca.

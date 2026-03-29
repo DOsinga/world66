@@ -4,6 +4,8 @@ type: poi
 address: "Seilerstraße 34"
 phone: "+49 (0)69 28 50 55"
 type: "Gay and Lesbian"
+latitude: 53.550587
+longitude: 9.964522
 ---
 
 Parties take place on Tuesdays at club nouveau. They start at 22:00 and go on to 3:00.

@@ -1,6 +1,8 @@
 ---
 title: "Luz Ardiden"
 type: location
+latitude: 42.885087
+longitude: -0.058821
 ---
 
 We currently have no information about Luz Ardiden.

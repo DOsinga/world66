@@ -6,6 +6,8 @@ email: "rakhitousa60@gmail.com"
 phone: "9230721098"
 type: "Speciality shops"
 url: "www.rakhitousa.in"
+latitude: 51.591687
+longitude: -0.145245
 ---
 
 **RightBooks.In **has done the wonder thing for you in a unique manner. So many best selling books are there in the market. Books, right from the winning strategies to children comics,

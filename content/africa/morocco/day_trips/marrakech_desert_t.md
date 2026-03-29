@@ -5,6 +5,8 @@ address: "Marrakech 40000"
 email: "bihitiniri@gmail.com"
 phone: "+212670250110"
 url: "www.morocco-culture-tours.com"
+latitude: 31.633629
+longitude: -8.007817
 ---
 
 Morocco Culture Tours is a small company based in Marrakech run by Mohamed, offering private tailored guided cultural tours for singles, couples, families and small groups all around Morocco highlighting the very best of it’s imperial cities, ancient Medinas, Atlas Mountains, Kasbahs and Sahara desert.

@@ -1,6 +1,8 @@
 ---
 title: "Ludvika"
 type: location
+latitude: 60.2
+longitude: 14.833333
 ---
 
 Travel Guide

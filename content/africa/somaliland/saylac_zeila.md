@@ -1,6 +1,8 @@
 ---
 title: "Saylac (Zeila)"
 type: location
+latitude: 11.353485
+longitude: 43.474723
 ---
 
 Travel Guide

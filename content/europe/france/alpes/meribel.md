@@ -1,6 +1,8 @@
 ---
 title: "Meribel"
 type: location
+latitude: 45.40795
+longitude: 6.577333
 ---
 
 Meribel was founded by Scotsman Colonel Peter Lindsay in 1938 when he built the first lift (a 31-seater fixed rope sled that was installed above Les Allues). His aim was to create a purpose built ski resort, which remained faithful to the mountains that surrounded it. 

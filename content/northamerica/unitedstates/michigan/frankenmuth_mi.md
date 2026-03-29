@@ -1,6 +1,8 @@
 ---
 title: "Frankenmuth, MI"
 type: location
+latitude: 43.332368
+longitude: -83.739229
 ---
 
 Travel Guide

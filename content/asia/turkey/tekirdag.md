@@ -1,6 +1,8 @@
 ---
 title: "Tekirdag"
 type: location
+latitude: 41.07314
+longitude: 27.410201
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Baler"
 type: location
+latitude: 15.759086
+longitude: 121.562725
 ---
 
 Travel Guide

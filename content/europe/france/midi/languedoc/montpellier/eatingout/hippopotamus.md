@@ -2,6 +2,8 @@
 title: "HIPPOPOTAMUS"
 type: poi
 type: "general"
+latitude: 48.830411
+longitude: 2.355177
 ---
 
 Esplanade de l'Europe 

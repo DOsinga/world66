@@ -7,6 +7,8 @@ email: "zodiacweb@bellsouth.net"
 phone: "(256) 764-1700"
 type: "Theatres"
 url: "www.zodiactheatre.com"
+latitude: 34.803823
+longitude: -87.677786
 ---
 
 The nightlife in the Shoals area is as varied and eclectic as everything else in this culturally rich community. Concerts and clubs feature a musical mix of Country, Southern Rock, Celtic, Symphony, Jazz, Chamber, Blues and much more. There are 3 active theatre groups in the Shoals area that offer a variety of genres in their performances. A number of the local restaurants and art galleries feature live entertainment regularly. There are a number of festivals which attract entertainers from all over the United States and there are several venues where concert promoters schedule a variety of performances.

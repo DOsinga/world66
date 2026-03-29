@@ -1,6 +1,8 @@
 ---
 title: "Uchhali"
 type: location
+latitude: 32.557287
+longitude: 72.02694
 ---
 
 Travel Guide

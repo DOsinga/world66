@@ -1,6 +1,8 @@
 ---
 title: "Valley of Flowers"
 type: location
+latitude: 30.70568
+longitude: 79.595855
 ---
 
 Travel Guide

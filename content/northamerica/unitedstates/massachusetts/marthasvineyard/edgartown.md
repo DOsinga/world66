@@ -1,6 +1,8 @@
 ---
 title: "Edgartown"
 type: location
+latitude: 41.38942
+longitude: -70.512968
 ---
 
 Travel Guide

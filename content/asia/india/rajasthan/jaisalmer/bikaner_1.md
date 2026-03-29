@@ -1,6 +1,8 @@
 ---
 title: "Bikaner"
 type: location
+latitude: 28.015929
+longitude: 73.317137
 ---
 
 Travel Guide

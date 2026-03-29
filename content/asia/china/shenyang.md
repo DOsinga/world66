@@ -1,6 +1,8 @@
 ---
 title: "Shenyang"
 type: location
+latitude: 41.80261
+longitude: 123.42791
 ---
 
 **Shenyang** is the biggest center city in northeast China. It has

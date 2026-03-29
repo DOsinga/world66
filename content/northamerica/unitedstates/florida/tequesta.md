@@ -1,6 +1,8 @@
 ---
 title: "Tequesta"
 type: location
+latitude: 26.960937
+longitude: -80.089205
 ---
 
 Tequesta's natural beauty and serenity of the river to the deep blue ocean, tempts people in search of a pleasant friendly environment.

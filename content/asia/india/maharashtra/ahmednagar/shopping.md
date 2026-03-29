@@ -4,6 +4,8 @@ type: section
 email: "contact@aumflowersindiaflorists.com"
 type: "Shopping centers and malls"
 url: "www.aumflowersindiaflorists.com"
+latitude: 19.118097
+longitude: 74.735097
 ---
 
 Florist india

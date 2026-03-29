@@ -1,6 +1,8 @@
 ---
 title: "Noumea"
 type: location
+latitude: -22.274526
+longitude: 166.442419
 ---
 
 We currently have no information about Noumea.

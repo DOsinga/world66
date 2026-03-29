@@ -1,6 +1,8 @@
 ---
 title: "Ninevah"
 type: location
+latitude: 36.344321
+longitude: 43.134583
 ---
 
 Nineveh is mentioned in the bible in the book of Jonah. It is described as a very powerful city, whose people live in sin. It was the third capital of Assyria dating from the reign of Sennacherib (704-681BC)and was one of the most powerful cities of the Middle East, the hub of the civilised ancient world. Its downfall came in 612BC, when it was sacked by the Medes of Northern Persia. About the sinfulness of the population little is known with certainty. 

@@ -5,6 +5,8 @@ address: "Markendaalseweg 68"
 phone: "076 521 32 06"
 type: "Indonesian"
 zipcode: "4811 KD"
+latitude: 51.585089
+longitude: 4.774195
 ---
 
 The 'rijsttafel' is huge and almost too big for the small tables. Nice setting and good atmosphere.

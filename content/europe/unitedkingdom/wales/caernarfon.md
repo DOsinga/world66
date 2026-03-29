@@ -1,6 +1,8 @@
 ---
 title: "Caernarfon"
 type: location
+latitude: 53.139436
+longitude: -4.276975
 ---
 
 **Caernarfon** is a historic town in northern Wales.

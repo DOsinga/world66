@@ -1,6 +1,8 @@
 ---
 title: "Tully"
 type: location
+latitude: -17.942923
+longitude: 145.928582
 ---
 
 Travel Guide

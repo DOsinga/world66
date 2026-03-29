@@ -1,6 +1,8 @@
 ---
 title: "Koronadal City"
 type: location
+latitude: 6.500404
+longitude: 124.843544
 ---
 
 Travel Guide

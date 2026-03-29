@@ -1,6 +1,8 @@
 ---
 title: "Banlung"
 type: location
+latitude: 13.741475
+longitude: 106.987366
 ---
 
 Travel Guide

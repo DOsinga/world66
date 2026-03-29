@@ -1,6 +1,8 @@
 ---
 title: "Gharyan"
 type: location
+latitude: 32.171587
+longitude: 13.021145
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Eureka Springs"
 type: location
+latitude: 36.40008
+longitude: -93.739242
 ---
 
 We currently have no information about Eureka Springs.

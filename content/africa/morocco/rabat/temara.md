@@ -1,6 +1,8 @@
 ---
 title: "Temara"
 type: location
+latitude: 33.917166
+longitude: -6.923804
 ---
 
 Travel Guide

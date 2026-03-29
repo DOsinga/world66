@@ -6,6 +6,8 @@ email: "sknies@sjdowntown.com"
 phone: "(408) 279-1775"
 type: "Speciality shops"
 url: "sjdowntown.com"
+latitude: 41.538192
+longitude: -72.810499
 ---
 
 If you are visiting the city and want to get your San Jose shopping on, check out Eastridge Shopping Center on Eastridge Loop and Tully Road. There are definitely many great stores to find sales and bargains in. Enjoy shopping at Bed, Bath & Beyond, Trade Secret, Game Stop, Barnes & Noble, Christopher & Banks, New York and Company, and Epic for Men. Afterwards, take in a movie at AMC theatres with 15 screens. When you get hungry, dine at Great Kahn Mongolian BBQ, Macaroni Grill, Chili's or Red Robin. For directions and information, visit the website at eastridgecenter.com.

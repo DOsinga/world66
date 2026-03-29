@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Parks"
+latitude: 54.046233
+longitude: -2.900523
 ---
 
 ### Display all
@@ -29,7 +31,11 @@ type: Parks
 
 ### [Woodgate Valley Country Park](/europe/unitedkingdom/england/birmingham_and_wes/birmingham/sights/woodgatevalleycountrypark)
 
-Woodgate Valley is an area of meadows, hedgerows, woods and streams on the western edge of Birmingham. Most of the Country Park was originally farmland, although there were also brick works, clay pits and nailmaking sites. It is now a haven for wildlife and, therefore, a valuable educational resource for schools.  The visitor centre has a room that is used as a classroom base/lunch area. There is also a small café and toilet facilities. Souvenirs can be bought from the information desk. Outside there is seating, a small playground and playing fields.  There is currently a [more..](/europe/unitedkingdom/england/birmingham_and_wes/birmingham/sights/woodgatevalleycountrypark)
+Woodgate Valley is an area of meadows, hedgerows, woods and streams on the western edge of Birmingham. Most of the Country Park was originally farmland, although there were also brick works, clay pits and nailmaking sites. It is now a haven for wildlife and, therefore, a valuable educational resource for schools.
+ 
+ The visitor centre has a room that is used as a classroom base/lunch area. There is also a small café and toilet facilities. Souvenirs can be bought from the information desk. Outside there is seating, a small playground and playing fields.
+ 
+ There is currently a [more..](/europe/unitedkingdom/england/birmingham_and_wes/birmingham/sights/woodgatevalleycountrypark)
 
 type: Parks
 

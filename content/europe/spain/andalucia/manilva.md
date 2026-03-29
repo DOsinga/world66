@@ -1,6 +1,8 @@
 ---
 title: "Manilva"
 type: location
+latitude: 36.376998
+longitude: -5.248979
 ---
 
 The municipality of Manilva lies on the coast at the

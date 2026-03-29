@@ -8,6 +8,8 @@ phone: "4,92E+11"
 price: "3 Euro"
 type: "general"
 url: "www.coffenet.com"
+latitude: 51.244835
+longitude: 6.786436
 ---
 
 Wir bieten 20 Pl?tze zum Surfen. Zus?tzlich k?nnen Sie

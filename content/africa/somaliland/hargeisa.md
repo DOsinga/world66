@@ -1,6 +1,8 @@
 ---
 title: "Hargeisa"
 type: location
+latitude: 9.561733
+longitude: 44.061803
 ---
 
 Hargeisa is the Capital of the Republic of Somaliland. Hargeisa is

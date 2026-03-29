@@ -3,6 +3,8 @@ title: "San Bernardino County lakes"
 type: poi
 type: "Swimming"
 url: "www.co.san-bernardino.ca.us"
+latitude: 34.250197
+longitude: -117.189975
 ---
 
 Whether your idea of outdoor recreation involves a hammock, a

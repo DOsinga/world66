@@ -1,6 +1,8 @@
 ---
 title: "Cumbria"
 type: location
+latitude: 54.614314
+longitude: -2.94209
 ---
 
 Travel Guide

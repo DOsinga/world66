@@ -2,6 +2,8 @@
 title: "Fiji Museum"
 type: poi
 url: "www.fijimuseum.org.fj"
+latitude: -18.149702
+longitude: 178.425605
 ---
 
 Fiji Museum is a 'must see' destination for all visitors to Suva. It

@@ -4,6 +4,8 @@ type: section
 address: "3457 Bagley Ave."
 phone: "(313) 841-5811"
 type: "Mexican"
+latitude: 44.537482
+longitude: -93.301837
 ---
 
 Detroit has many excellent places to eat in the city, and its surrounding suburbs.

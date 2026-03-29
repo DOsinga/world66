@@ -7,6 +7,8 @@ email: "trekkingnepaltour@gmail.com"
 phone: "+977(01) 4442922"
 type: "Trekking"
 url: "www.enepalholidays.com"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 **Trekking in Nepal**

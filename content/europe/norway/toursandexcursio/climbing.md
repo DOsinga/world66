@@ -1,6 +1,8 @@
 ---
 title: "Climbing"
 type: location
+latitude: 61.876314
+longitude: 6.773108
 ---
 
 **Climbing

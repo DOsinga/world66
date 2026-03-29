@@ -1,6 +1,8 @@
 ---
 title: "Cies Islands"
 type: location
+latitude: 42.199049
+longitude: -8.902985
 ---
 
 The Cíes Islands are one of the main tourist attractions in the south of Galicia. They were declared a Natural Reserve in 1980 and part of "The Archipelago Atlantic Islands National Park" in 2002. The archipelago, situated at the mouth of the Ria of Vigo, is formed by three main islands: Monteagudo, Monte Faro and San Martiño, along with small islets such as Agoeira, Viños, Carabelos and O Ruzo.

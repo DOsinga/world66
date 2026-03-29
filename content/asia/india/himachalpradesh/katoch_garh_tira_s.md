@@ -1,6 +1,8 @@
 ---
 title: "Sujanpur"
 type: location
+latitude: 32.31549
+longitude: 75.606966
 ---
 
 Sujanpur is 82 kms from [Dharamsala](/asia/india/himachalpradesh/dharamsala) and only 25 km from Hamirpur town.

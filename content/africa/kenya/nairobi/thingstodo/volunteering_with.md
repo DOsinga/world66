@@ -7,6 +7,8 @@ email: "kambamusic@yahoo.com"
 phone: "+254 0720 615730"
 type: "Other"
 url: "africanchildinitiative.blogspot.com"
+latitude: -1.339528
+longitude: 37.354945
 ---
 
 AFRICAN CHILD INITIATIVE AND COMMUNITY DEVELOPMENT FORUM

@@ -5,6 +5,8 @@ address: "Strada Latina 3, Brasov, Romania"
 email: "tours@goromaniatours.com  "
 phone: "+40 748 70 05 12"
 url: "www.goromaniatours.com"
+latitude: 45.633956
+longitude: 25.578197
 ---
 
 When driving in Romania a driver's license (foreign licenses are

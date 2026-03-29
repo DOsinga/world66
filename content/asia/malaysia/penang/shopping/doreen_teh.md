@@ -6,6 +6,8 @@ email: "help@queensbayshoppingmall.com"
 phone: "(604) 646 88 88"
 type: "Shopping centers and malls"
 url: "www.queensbayshoppingmall.com"
+latitude: 5.406501
+longitude: 100.255908
 ---
 
 For list of retail stores and new stores, please visit Queensbay Mall official website at http://www.queensbaymallmalaysia.com and Queensbay Mall Blog at http://www.queensbayshoppingmall.com.

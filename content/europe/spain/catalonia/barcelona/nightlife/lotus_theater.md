@@ -7,6 +7,8 @@ email: "rrpp@lotustheater.info"
 phone: "692 043 191"
 type: "Clubs and dancing"
 url: "www.lotustheater.info"
+latitude: -33.08561
+longitude: -68.474667
 ---
 
 Lotus Theater is a new club in Barcelona that opened on 10th July. It's a place where many types of shows are presented, especially live music shows.

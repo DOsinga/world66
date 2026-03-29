@@ -1,6 +1,8 @@
 ---
 title: "Glenwood Springs"
 type: location
+latitude: 39.546638
+longitude: -107.324694
 ---
 
 Travel Guide

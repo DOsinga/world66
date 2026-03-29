@@ -6,6 +6,8 @@ closing_time: "About 3am on weekends"
 phone: "86 + 28 + 8522243"
 type: "Pubs"
 url: "www.carolsbytheriver.com"
+latitude: 38.801727
+longitude: 121.265794
 ---
 
 **BAR HOURS:** 3pm - 12am or until late ... Great music & parties every night.

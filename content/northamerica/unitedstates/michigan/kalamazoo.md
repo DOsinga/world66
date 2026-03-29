@@ -1,6 +1,8 @@
 ---
 title: "Kalamazoo"
 type: location
+latitude: 42.291707
+longitude: -85.587229
 ---
 
 We currently have no information about Kalamazoo.

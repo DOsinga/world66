@@ -1,6 +1,8 @@
 ---
 title: "Saudi Arabia"
 type: location
+latitude: 25.624262
+longitude: 42.352833
 ---
 
 For centuries Arabia has appealed to travelers all over the world, inspired by travel reports and of course the tales of 1001 nights and the romanticism. Todayâ€™s Saudi Arabia is still a land of mystery largely due to its fundamentalist Islam state form and its rigid admission policy. Saudi Arabia is incredibly difficult to visit, there's no tourist visa in this country. Best way to get in is by invitation of a Saudi person or company, or, if youâ€™re a Muslim, on a pilgrimage to one of the holy cities. 

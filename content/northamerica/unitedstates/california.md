@@ -1,6 +1,8 @@
 ---
 title: "California"
 type: location
+latitude: 36.701463
+longitude: -118.755997
 ---
 
 California is one of the largest states in the US (trailing Alaska and Texas in size) and is commonly referred to as the Golden State (so called because of the gold rush of 1849).

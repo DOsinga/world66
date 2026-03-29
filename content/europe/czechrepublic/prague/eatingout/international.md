@@ -1,6 +1,8 @@
 ---
 title: "International"
 type: poi
+latitude: 50.109346
+longitude: 14.393265
 ---
 
 What about Czeck section?

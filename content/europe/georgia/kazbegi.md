@@ -1,6 +1,8 @@
 ---
 title: "Kazbegi"
 type: location
+latitude: 42.65799
+longitude: 44.640808
 ---
 
 Kazbegi is to be found in the mountains of the Caucasus, near to the

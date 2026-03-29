@@ -1,6 +1,8 @@
 ---
 title: "Moenjodaro"
 type: location
+latitude: 27.321657
+longitude: 68.136593
 ---
 
 Moenjodaro is one of the archeological highlights of the world. The discovery of this site and that opf Harappa showed the existence of the Indus civilization that had its peak from the 3rd till the middle of the 2nd millennium BC.

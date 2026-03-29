@@ -3,6 +3,8 @@ title: "The Suspension Bridge"
 type: poi
 address: "Clanezzo"
 url: "www.castelloclanezzo.it"
+latitude: 45.761907
+longitude: 9.602518
 ---
 
 In dialect this bridge over the Brembo River and Beach is called "the bridge that dances" because when you walk over it - that's what it does. It is a good place for going to the beach because two rivers join here - the Brembo and the Imagna Rivers.

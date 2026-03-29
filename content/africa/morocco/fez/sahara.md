@@ -1,6 +1,8 @@
 ---
 title: "Sahara"
 type: location
+latitude: 35.244458
+longitude: -5.80489
 ---
 
 Travel Guide

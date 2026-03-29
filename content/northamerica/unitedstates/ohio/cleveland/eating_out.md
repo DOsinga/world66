@@ -4,6 +4,8 @@ type: section
 address: "1276 W 6th St."
 phone: "(216) 623-1212"
 type: "Japanese"
+latitude: 41.500263
+longitude: -81.699324
 ---
 
 Cleveland is quite a culinary destination. Downtown there are many delis proclaiming to have world famous corned beef. Cleveland is very fortunate to have so many ethnic restaurants in Slavic Village and Chinatown. Ethnic restaurants mix with more contemporary restaurants in places like Little Italy, Ohio City and Tremont. Trendy and chic restaurants often with vallet parking and excellent sidewalk seating for people-watching are in no shortage in downtown's Warehouse District or Lower Euclid Avenue District. The diners along W.117th make greasy-spoon dining an art and are open twenty-four hours. Casual riverfront dining is very popular in the Flats during the summer. There are relatively few chain restaurants in Cleveland compared to other cities, but there are no shortage of chain restaurants in the suburbs. There is a good restaurant in Cleveland for all tastes and price-ranges.

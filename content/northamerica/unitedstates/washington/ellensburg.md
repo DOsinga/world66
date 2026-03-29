@@ -1,6 +1,8 @@
 ---
 title: "Ellensburg"
 type: location
+latitude: 46.997064
+longitude: -120.545122
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Nakhon Pathom"
 type: location
+latitude: 13.891842
+longitude: 100.016566
 ---
 
 Travel Guide

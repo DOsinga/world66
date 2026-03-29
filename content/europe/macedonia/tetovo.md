@@ -1,6 +1,8 @@
 ---
 title: "Tetovo"
 type: location
+latitude: 42.00683
+longitude: 20.972856
 ---
 
 Tetovo (Albanian: Tetova) is located at the foothills of the Shar Mountain in north-western Macedonia, 468 m above the sea level, on the edge of the Polog Valley. The city is separated by the river Pena, which flows from the Shar mountain.

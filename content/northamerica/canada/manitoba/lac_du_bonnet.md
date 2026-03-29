@@ -1,6 +1,8 @@
 ---
 title: "Lac du bonnet"
 type: location
+latitude: 50.254898
+longitude: -96.062136
 ---
 
 Travel Guide

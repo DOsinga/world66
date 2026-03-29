@@ -6,6 +6,8 @@ address: "Jalan 2, Selayang Baru."
 phone: "012-2105014"
 price: "very reasonable"
 type: "Indian and Pakistani"
+latitude: 3.256133
+longitude: 101.658301
 ---
 
 Open only for breakfast and lunch

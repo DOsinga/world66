@@ -1,6 +1,8 @@
 ---
 title: "El Gouna"
 type: location
+latitude: 27.398927
+longitude: 33.674156
 ---
 
 Travel Guide

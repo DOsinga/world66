@@ -1,6 +1,8 @@
 ---
 title: "Makokou"
 type: location
+latitude: 0.561909
+longitude: 12.852505
 ---
 
 We currently have no information about Makokou.

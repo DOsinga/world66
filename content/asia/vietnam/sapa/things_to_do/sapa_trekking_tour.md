@@ -6,6 +6,8 @@ email: "manage@hanoipeacetour.vn"
 phone: "(84-4) 568 2115"
 type: "Hiking"
 url: "www.hanoipeacetour.vn"
+latitude: 21.033857
+longitude: 105.855037
 ---
 
 **SAPA TOURS Code: SP G02 **

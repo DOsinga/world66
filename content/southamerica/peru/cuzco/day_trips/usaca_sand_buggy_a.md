@@ -5,6 +5,8 @@ address: "Jerusalen 410 - Peru"
 email: "info@peruadventurestours.com"
 phone: "0051 54 221658"
 url: "www.peruadventurestours.com"
+latitude: -16.395544
+longitude: -71.533769
 ---
 
 **4x4, Archaeology And Adventure Tour In The Nazca Desert - Half Day Tour**

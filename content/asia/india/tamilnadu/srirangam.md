@@ -1,6 +1,8 @@
 ---
 title: "Srirangam"
 type: location
+latitude: 10.857331
+longitude: 78.693085
 ---
 
 Travel Guide

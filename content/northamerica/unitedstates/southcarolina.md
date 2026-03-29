@@ -1,6 +1,8 @@
 ---
 title: "South Carolina"
 type: location
+latitude: 33.687439
+longitude: -80.436374
 ---
 
 South Carolina is one of the prettiest states in the U.S. Located on the East Coast between [North Carolina](/northamerica/unitedstates/northcarolina) and [Georgia](/europe/georgia), The Palmetto State offers many seaside resorts on the Atlantic that combine sandy beaches with an historical center. You will get a good impression of what life in the early years of the Unites States was like, walking the cobbled streets of [Charleston](/northamerica/unitedstates/southcarolina/charleston) visiting an 18th century mansion, or taking a ferry ride to Ft. Sumter, where the civil war began. Another coastal city, Myrtle Beach is a part of the Grand Strand and is a haven for golfers, swimmers and other recreational enthusiasts. The Grand Strand is a perfect family or romantic vacation spot along the sun-soaked coast. 

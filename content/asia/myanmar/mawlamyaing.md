@@ -1,6 +1,8 @@
 ---
 title: "mawlamyaing"
 type: location
+latitude: 16.490803
+longitude: 97.628483
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: poi
 address: "410 N. Canon Dr."
 phone: "310-786-8236"
 type: "Italian"
+latitude: 34.070933
+longitude: -118.401072
 ---
 
 Already lauded for his popular Italian restaurants Drago and Il

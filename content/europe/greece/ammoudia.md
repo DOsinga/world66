@@ -1,6 +1,8 @@
 ---
 title: "Ammoudia"
 type: location
+latitude: 39.238995
+longitude: 20.481996
 ---
 
 Travel Guide

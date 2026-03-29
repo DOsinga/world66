@@ -2,6 +2,8 @@
 title: "Canadian Exchange"
 type: poi
 type: "Money matters"
+latitude: 49.090549
+longitude: -123.06573
 ---
 
 Unlike most islands where it is more practical to change Canadian money into American money before you leave, the exchange rate from Canadian to Colombian is very favourable.

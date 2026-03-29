@@ -1,6 +1,8 @@
 ---
 title: "Speyer"
 type: location
+latitude: 49.316555
+longitude: 8.433615
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Rua Dias Ferreira 233, Leblon"
 phone: "3205 7154"
 type: "International"
 url: "www.zuka.com.br"
+latitude: -22.982187
+longitude: -43.224804
 ---
 
 Brazil is famous for

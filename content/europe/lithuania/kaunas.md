@@ -1,6 +1,8 @@
 ---
 title: "Kaunas"
 type: location
+latitude: 54.898214
+longitude: 23.904482
 ---
 
 Best city in Lithuania

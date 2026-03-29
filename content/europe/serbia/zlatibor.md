@@ -1,6 +1,8 @@
 ---
 title: "Zlatibor"
 type: location
+latitude: 43.674241
+longitude: 19.612463
 ---
 
 Travel Guide

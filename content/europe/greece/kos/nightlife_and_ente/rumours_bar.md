@@ -6,6 +6,8 @@ email: "rumours@kardamena-kos.com"
 phone: "0030 22420 91702"
 type: "Pubs"
 url: "www.kardamena-kos.com"
+latitude: 36.782394
+longitude: 27.143279
 ---
 
 Rumours bar in Kardamena on Kos island establised June 9th 1989. Huge

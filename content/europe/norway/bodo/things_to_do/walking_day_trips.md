@@ -6,6 +6,8 @@ email: "post@nordlandturselskap.no"
 phone: "+47 90 63 60 86"
 type: "Trekking"
 url: "www.nordlandturselskap.no"
+latitude: 44.841225
+longitude: -0.580036
 ---
 
 The city of Bodo in Northern Norway has a huge range of possibilities for walking, both along the coast out in the archipelago (!) or in the mountain areas. The terrain is ideal for walking, you will find routes suitable even for families with young children.

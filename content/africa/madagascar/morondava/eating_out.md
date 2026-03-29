@@ -7,6 +7,8 @@ phone: "+ 261.20.95.52347"
 price: "$ 15.00"
 type: "Seafood"
 url: "www.chezmaggie.com"
+latitude: -20.298178
+longitude: 44.269011
 ---
 
 ### [Le Masoandro Restaurant / Chez Maggie Hotel](/africa/madagascar/morondava/eatingout/le_masoandro_resta)

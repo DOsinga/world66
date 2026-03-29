@@ -1,6 +1,8 @@
 ---
 title: "Pliska"
 type: location
+latitude: 43.362065
+longitude: 27.124826
 ---
 
 We currently have no information about Pliska.

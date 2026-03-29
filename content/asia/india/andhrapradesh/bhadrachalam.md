@@ -1,6 +1,8 @@
 ---
 title: "Bhadrachalam"
 type: location
+latitude: 17.668802
+longitude: 80.894008
 ---
 
 We currently have no information about Bhadrachalam.

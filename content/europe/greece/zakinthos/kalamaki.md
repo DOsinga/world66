@@ -1,6 +1,8 @@
 ---
 title: "kalamaki"
 type: location
+latitude: 38.999977
+longitude: 22.351614
 ---
 
 Travel Guide

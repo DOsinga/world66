@@ -4,6 +4,8 @@ type: section
 accessibility: "easy - close to road"
 type: "Parks, Gardens and Zoos"
 url: "www.bbc.co.uk"
+latitude: 54.046233
+longitude: -2.900523
 ---
 
 **Penrhyn Castle

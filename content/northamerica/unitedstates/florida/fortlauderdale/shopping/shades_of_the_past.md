@@ -7,6 +7,8 @@ email: "readyfla@aol.com"
 phone: "954-829-3726"
 type: "Antiques"
 url: "www.shadesofthepastantiques.com"
+latitude: 26.151267
+longitude: -80.140834
 ---
 
 The best of Fort Lauderdale shopping should include a visit to Shades of the Past, a wonderful antique store that has a full line of lighting, paintings, furniture and decorative art for the home. Items carried by Shades of the Past run the gamut from antique to mid-century modern. Antique chandeliers, bronze candelabras, sconces and Murano glass are a specialty at Shades of the Past, which guarantees that all antique electrical fixtures are rewired and will work. In addition to the Fort Lauderdale showroom, Shades of the Past has a strong online presence at eBay.

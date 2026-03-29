@@ -1,6 +1,8 @@
 ---
 title: "History"
 type: location
+latitude: 38.991056
+longitude: -1.85521
 ---
 
 öölgöl

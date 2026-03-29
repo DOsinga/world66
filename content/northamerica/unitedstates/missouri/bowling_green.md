@@ -1,6 +1,8 @@
 ---
 title: "Bowling Green"
 type: location
+latitude: 36.99292
+longitude: -86.442868
 ---
 
 **History** Bowling Green is the county seat of Pike County and is only 12 miles from the Mississippi River. The first pioneer was John W. Bayse and arrived in 1820 and by 1823 a settlement was made. Settlers were initially drew to the area for its plentiful spring water.

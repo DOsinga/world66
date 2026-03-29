@@ -1,6 +1,8 @@
 ---
 title: "Zermatt"
 type: location
+latitude: 46.021208
+longitude: 7.749254
 ---
 
 We currently have no information about Zermatt.

@@ -1,6 +1,8 @@
 ---
 title: "Skiing"
 type: location
+latitude: -33.776924
+longitude: 151.252551
 ---
 
 Maybe you are more familiar with Australia’s deserts and tropical forests, but there are some excellent skiing possibilities as well. In the Snowy Mountains, part of the Dividing Range, there are several places where you can ski whether high up or at the bottom of the hill.

@@ -7,6 +7,8 @@ phone: "202.332.3710"
 price: "Entrees $12-24"
 type: "American"
 url: "www.logantavern.com"
+latitude: 38.909813
+longitude: -77.032887
 ---
 
 This upscale but casual restaurant serves sophisticated comfort food (wasabe-encrusted meatloaf, excellent burgers and salads, and a splendid brunch menu) in a hip but unpretentious atmosphere. The youthful waitstaff is as attentive as they are attractive, and local neighborhood residents have been making regulars of themselves since the restaurant's opening early in Fall 2003. Although a handful of new places are starting to open, there are still far too few restaurants of this quality in this part of town. For an added feel for the neighborhood, sit at the "community table," where you can sit next to other diners and join in the conversation. Or just request a booth in the corner for a (slightly) more intimate feel.

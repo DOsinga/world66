@@ -1,6 +1,8 @@
 ---
 title: "Streator"
 type: location
+latitude: 41.121023
+longitude: -88.835736
 ---
 
 Travel Guide

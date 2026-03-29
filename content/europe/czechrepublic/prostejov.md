@@ -1,6 +1,8 @@
 ---
 title: "Prostejov"
 type: location
+latitude: 49.472147
+longitude: 17.111798
 ---
 
 Prostejov - Ger. *Prossnitz,* city

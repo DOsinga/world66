@@ -1,6 +1,8 @@
 ---
 title: "Claremore"
 type: location
+latitude: 36.312601
+longitude: -95.616069
 ---
 
 Travel Guide

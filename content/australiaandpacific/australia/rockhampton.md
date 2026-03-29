@@ -1,6 +1,8 @@
 ---
 title: "Rockhampton"
 type: location
+latitude: -23.378214
+longitude: 150.513423
 ---
 
 Rockhampton – on the Tropic of Capricorn, just 40 kilometres inland from the Pacific Ocean – sits astride Queensland’s largest

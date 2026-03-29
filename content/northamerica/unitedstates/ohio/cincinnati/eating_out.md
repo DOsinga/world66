@@ -8,6 +8,8 @@ phone: "859.442.8486"
 price: "$14-$30"
 type: "African"
 url: "www.vitoscafe.com"
+latitude: 45.381504
+longitude: -75.75612
 ---
 
 There are some good Cincinnati restaurants, but for great Indian food, try Ambar Indian Restaurant at 350 Ludlow Avenue. Ambar has created some dishes that are uniquely their own. Be sure not to miss the chicken tandoori or the chicken tikka. Other great dishes here are the lamb vindaloo, shrimp masala, and shrimp bhuna. For dinner, feast on their shrimp and lamb curry or the Ambar India Special which is a portion of a few dishes served on a platter. There is a vegetarian menu section as well with such as aloo choley (chickpeas and potatoes) or malai kofta (vegetables).

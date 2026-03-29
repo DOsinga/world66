@@ -1,6 +1,8 @@
 ---
 title: "Soria"
 type: location
+latitude: 41.60125
+longitude: -2.721938
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Mondorf"
 type: location
+latitude: 50.775987
+longitude: 7.071675
 ---
 
 Mondorf is a medium-sized village just south of Bonn. From Bonn take bus number 550 from the Hauptbahnhof to Mondorf.

@@ -2,6 +2,8 @@
 title: "Lange Voorhout"
 type: poi
 type: "Streets"
+latitude: 52.08251
+longitude: 4.31312
 ---
 
 The Lange Voorhout is one of the most beautiful and unusual inner city streets in the Netherlands.

@@ -1,6 +1,8 @@
 ---
 title: "Debre Zeit"
 type: location
+latitude: 8.750004
+longitude: 38.981734
 ---
 
 Travel Guide

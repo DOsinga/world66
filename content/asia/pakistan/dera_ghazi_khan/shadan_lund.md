@@ -1,6 +1,8 @@
 ---
 title: "Shadan Lund"
 type: location
+latitude: 30.463593
+longitude: 70.725383
 ---
 
 Travel Guide

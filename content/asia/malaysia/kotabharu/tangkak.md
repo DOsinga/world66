@@ -1,6 +1,8 @@
 ---
 title: "Tangkak"
 type: location
+latitude: 2.25
+longitude: 102.583333
 ---
 
 Travel Guide

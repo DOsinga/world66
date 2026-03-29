@@ -1,6 +1,8 @@
 ---
 title: "Bohol"
 type: location
+latitude: 9.880782
+longitude: 124.206461
 ---
 
 Travel Guide

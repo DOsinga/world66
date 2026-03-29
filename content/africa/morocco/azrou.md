@@ -1,6 +1,8 @@
 ---
 title: "Azrou"
 type: location
+latitude: 35.157249
+longitude: -3.768611
 ---
 
 Azrou is a very friendly Berber town situated 80 kilometer south of [Fez](/africa/morocco/fez). It’s a wonderful place to stop and relax when you can’t take anymore souks and hustlers. The town lies between steep wooded hills and a volcanic outcrop, at an altitude of 1200 meters. Thus, the town’s name comes from the Berber word, Azrou or"rock". Azrou has a tradition of weaving as it was an old market town of a nomadic people. Newly woven rugs and blankets can be found at the Tuesday souk or the Ensemble Artisanal. The town is famous for its green tiled roofs. 

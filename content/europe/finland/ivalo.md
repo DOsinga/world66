@@ -1,6 +1,8 @@
 ---
 title: "ivalo"
 type: location
+latitude: 68.658818
+longitude: 27.534811
 ---
 
 ivalo

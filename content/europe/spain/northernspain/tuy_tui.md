@@ -1,6 +1,8 @@
 ---
 title: "Tuy [Tui]"
 type: location
+latitude: 42.050137
+longitude: -8.646641
 ---
 
 Tuy is in the south of Galicia just by the Portuguese border, which is crossed at this point by a bridge designed by Eiffel. Being a frontier city in a previously bellicose area, it is on top of a hill and it has three major things goind for it:

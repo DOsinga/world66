@@ -1,6 +1,8 @@
 ---
 title: "Alegria"
 type: location
+latitude: 9.729387
+longitude: 123.339675
 ---
 
 Travel Guide

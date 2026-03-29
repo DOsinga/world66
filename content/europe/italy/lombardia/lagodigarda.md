@@ -1,6 +1,8 @@
 ---
 title: "Lago di Garda"
 type: location
+latitude: 45.662431
+longitude: 10.686157
 ---
 
 Lago di Garda is located on the border of [Lombardia](/europe/italy/lombardia), [Conegliano Veneto](/europe/italy/veneto/coneglianoveneto) and [Trentino Alto Adige](/europe/italy/trentinoaltoadige). It is one of the most beautiful places in Italy and that's saying quite a lot. Over the centuries the lake has always been very popular with holiday makers. 

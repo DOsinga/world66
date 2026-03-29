@@ -1,6 +1,8 @@
 ---
 title: "Lake bohinj"
 type: location
+latitude: 46.282265
+longitude: 13.864531
 ---
 
 Lake Bohinj is located in the Julian Alps not far from more touristy Bled. It is close to the border with [Italy](/europe/italy) and [Austria](/europe/austria) in the northwest of Slovenia. 

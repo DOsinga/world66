@@ -1,6 +1,8 @@
 ---
 title: "Charlottetown"
 type: location
+latitude: 46.235419
+longitude: -63.126539
 ---
 
 Charlottetown is the capital of the province of Prince Edward Island. A small city of about 35,000 residents in a largely rural province, Charlottetown has an uncommonly diverse collection of resources and facilities -- shopping, dining, culture, sports -- for a city of its size. On "the Island," it is only in Charlottetown that you will find a Thai restaurant, a Taiwanese tea house, national chains' local outlets, and a national arts centre.

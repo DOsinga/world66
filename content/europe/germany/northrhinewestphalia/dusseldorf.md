@@ -1,6 +1,8 @@
 ---
 title: "Dusseldorf"
 type: location
+latitude: 51.225402
+longitude: 6.776314
 ---
 
 Dusseldorf, better **Düsseldorf**, is one of the richest towns in Germany. It is a handsome and elegant, modern city on the banks of the Rhine River. Düsseldorf is a city where everything is close together: just near the **Kö** is the **Altstadt**, the old quarter of the city. With its 260 cosy pubs and home-brew taverns it is well known as “the longest bar in the world”. 

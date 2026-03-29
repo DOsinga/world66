@@ -8,6 +8,8 @@ phone: "+ 31 (0)23 5712524"
 price: "+/- € 35.-"
 type: "Seafood"
 url: "www.albatros-zandvoort.nl"
+latitude: 52.373428
+longitude: 4.530637
 ---
 
 Riminis Italian Restaurant Good Value Friendly Service

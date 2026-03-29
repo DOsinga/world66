@@ -1,6 +1,8 @@
 ---
 title: "Angels Camp"
 type: location
+latitude: 38.069573
+longitude: -120.540503
 ---
 
 Travel Guide

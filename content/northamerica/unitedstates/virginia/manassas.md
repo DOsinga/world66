@@ -1,6 +1,8 @@
 ---
 title: "Manassas"
 type: location
+latitude: 38.750949
+longitude: -77.475267
 ---
 
 In 1608, Captain John Smith and his band of frontiersmen rode a barge along the Potomac River, the first white men to touch the unnamed wilderness that is now known as Prince William County. The county was formed in 1731 and was named for William Augustus, Duke of Cumberland, second son of King George II. 

@@ -8,6 +8,8 @@ phone: "296 288 930"
 price: "€35"
 type: "International"
 url: "www.colegio27.com"
+latitude: 37.742016
+longitude: -25.669477
 ---
 
 If dinner is as big a part on the vacation as the daytime activities, pick your restaurant with care when you're visiting the Azores.

@@ -5,6 +5,8 @@ address: "Guilin, China"
 email: "contact@lycheetravel.net"
 phone: "+86-773-5828338"
 url: "www.lycheetravel.com"
+latitude: 25.277989
+longitude: 110.291062
 ---
 
 Day 1 Guilin (-/L/-)

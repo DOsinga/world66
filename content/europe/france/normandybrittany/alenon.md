@@ -1,6 +1,8 @@
 ---
 title: "Alençon"
 type: location
+latitude: 48.431206
+longitude: 0.091137
 ---
 
 Travel Guide

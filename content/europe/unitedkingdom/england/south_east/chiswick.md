@@ -1,6 +1,8 @@
 ---
 title: "Chiswick"
 type: location
+latitude: 51.492314
+longitude: -0.263818
 ---
 
 Chiswick is located west of [London](/europe/unitedkingdom/england/london), about 20 minutes by Tube from Turnham Green station. One can even travel back

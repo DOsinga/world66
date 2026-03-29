@@ -1,6 +1,8 @@
 ---
 title: "Kawartha Lakes"
 type: location
+latitude: 44.359682
+longitude: -78.742173
 ---
 
 Travel Guide

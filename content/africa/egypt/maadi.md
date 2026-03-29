@@ -1,6 +1,8 @@
 ---
 title: "Maadi"
 type: location
+latitude: 29.960331
+longitude: 31.263055
 ---
 
 Travel Guide

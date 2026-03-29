@@ -1,6 +1,8 @@
 ---
 title: "Colwyn Bay"
 type: location
+latitude: 53.295327
+longitude: -3.726253
 ---
 
 Colwyn Bay and its close neighbour Rhos-On-Sea promise something for all the family - from hugh action watersports to the high drama of lifesize dinosaurs in the flesh! Gentler persuits include visiting the local mountain zoo (free bus available from c/bay station), cycling along a coastal track, watching a puppet theatre show or simply strolling along historic sights such as St Trillo's Chapel and Llys Euryn. The Emphasis is firmly on fun and enjoyment 

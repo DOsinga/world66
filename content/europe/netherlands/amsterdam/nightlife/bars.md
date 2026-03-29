@@ -1,6 +1,8 @@
 ---
 title: "Bars"
 type: poi
+latitude: 52.67255
+longitude: 6.538777
 ---
 
 **Recommendations**
@@ -35,7 +37,8 @@ tel: 020 553 5151
 
 **Ebeling**
 
-1054HK Amsterdam  
+1054HK Amsterdam 
+ 
 
 fax: +31 (0)20 689 4858
 
@@ -45,7 +48,8 @@ tel: +31 (0)20 689 1218
 
 **Eik en Linde**
 
-A bit off center but with a great ‘50s interior.  
+A bit off center but with a great ‘50s interior. 
+ 
 
 fax: +31 (0)20 625 3118
 
@@ -57,7 +61,8 @@ tel: +31 (0)20 622 5716
 
 **Gollem**
 
-This place is almost to small to hold all the different types of beer they offer. A very good place to start your education on the difference between one beer and the other.  
+This place is almost to small to hold all the different types of beer they offer. A very good place to start your education on the difference between one beer and the other. 
+ 
 
 address: Raamsteeg 4
 
@@ -67,7 +72,8 @@ pc: 1012VZ Amsterdam
 
 **Havelaar**
 
-A bit rundown, but usually not to crowded. On the first floor you can shoot pool on two crappy tables. The do have a tendency to overexpose their customers to the favorite music of the bartender. 
+A bit rundown, but usually not to crowded. On the first floor you can shoot pool on two crappy tables. The do have a tendency to overexpose their customers to the favorite music of the bartender.
+ 
 
 address: Voetboogstr 22-24
 
@@ -77,7 +83,8 @@ pc: 1012XL Amsterdam
 
 **De Heeren van Aemstel**
 
-A typical brown café and a second home to many students. 
+A typical brown café and a second home to many students.
+ 
 
 fax: +31 (0)20 622 1609
 
@@ -89,7 +96,9 @@ tel: +31 (0)20 620 2173
 
 [**Hesp **](http://go.to/hesp )
 
-1091ER Amsterdam  This café is a favorite of many journalists. **Anthon :** Een welkome afwisseling voor de bedrijfs recepties van Volkskrant en Parool. Favoriet van veel schrijvers en journalisten, die hier eens niet boven op het nieuws zitten. Je vindt hier altijd wel iemand v [more..](/europe/netherlands/amsterdam/nightlife/bars/hesp)
+1091ER Amsterdam 
+ This café is a favorite of many journalists.
+ **Anthon :** Een welkome afwisseling voor de bedrijfs recepties van Volkskrant en Parool. Favoriet van veel schrijvers en journalisten, die hier eens niet boven op het nieuws zitten. Je vindt hier altijd wel iemand v [more..](/europe/netherlands/amsterdam/nightlife/bars/hesp)
 
 fax: +31 (0)20 463 0085
 
@@ -109,7 +118,8 @@ pc: 1017XJ Amsterdam
 
 **De Karpershoek**
 
-One of the oldest café’s in Amsterdam, conveniently close to the Central Station 
+One of the oldest café’s in Amsterdam, conveniently close to the Central Station
+ 
 
 fax: +31 (0)20 624 7886
 

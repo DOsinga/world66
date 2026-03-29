@@ -1,6 +1,8 @@
 ---
 title: "Ladakh"
 type: location
+latitude: 33.945641
+longitude: 77.656858
 ---
 
 Travel Guide

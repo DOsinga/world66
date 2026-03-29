@@ -7,6 +7,8 @@ email: "enquiries@durbanpartyanimaltours.com"
 phone: "+2773 078 3971"
 type: "Clubs and dancing"
 url: "www.durbanpartyanimaltours.com"
+latitude: 51.566874
+longitude: 4.928497
 ---
 
 **COME PARTY WITH US!

@@ -3,6 +3,8 @@ title: "La Tomatina"
 type: poi
 address: "Bunyol"
 date: "last wednesday of August"
+latitude: 39.418958
+longitude: -0.790964
 ---
 
 The Tomatina is a bizarre and extravagant festival that takes place the last wednesday of August in the little town of Buñol, near Valencia. Armed with some 140 tons of tomatoes, locals and tourists alike enter into a merciless war and *nobody* emerges unscathed and stain free.

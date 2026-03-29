@@ -1,6 +1,8 @@
 ---
 title: "Pigna"
 type: location
+latitude: 43.932714
+longitude: 7.663314
 ---
 
 Travel Guide

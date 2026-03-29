@@ -7,6 +7,8 @@ email: "travel@info-tbilisi.com"
 phone: "99532 18 22 44"
 type: "Tourist information"
 url: "www.travel.info-tbilisi.com"
+latitude: 41.554279
+longitude: 45.020664
 ---
 
 Info Tbilisi Travel assists the travelers in their trips. www.travel.info-tbilisi.com

@@ -8,6 +8,8 @@ phone: "0256 6182821"
 price: "Style at sensible prices"
 type: "European"
 url: "www.dejazarwinebar.com"
+latitude: 39.87937
+longitude: 41.259503
 ---
 
 **Dejazar Wine Bar is a casually sophisticated grill/bistro and wine bar that invites you to discover the sensational flavours of our seasonally changing menu.**

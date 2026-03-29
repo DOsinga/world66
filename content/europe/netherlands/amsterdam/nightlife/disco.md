@@ -1,9 +1,12 @@
 ---
 title: "Disco"
 type: poi
+latitude: 52.423145
+longitude: 6.222791
 ---
 
-**Dance till you drop ... ** There are lots of Discos that give you dozens of opportunities. If you prefer certain music styles please check our Clubs Section or the Rock and Salsa Subsection. 
+**Dance till you drop ... ** There are lots of Discos that give you dozens of opportunities. If you prefer certain music styles please check our Clubs Section or the Rock and Salsa Subsection.
+ 
 
 **Recommendations**
 

@@ -3,6 +3,8 @@ title: "Sights in Meteora"
 type: section
 address: "Meteora"
 type: "Monasteries"
+latitude: 39.721905
+longitude: 21.632232
 ---
 
 Now there are six monasteries that could be visited in Meteora: **Moni Megalou Meteorou** (Grand Meteora), **Agia Triada** (Holy Trinity), **Moni Varlaam** (Varlaam Monastery), **Moni Agias Varvaras Rousanou**, **Moni Agiou Nikolaou Anapafsa** (Saint Nikolas) and **Moni Agiou Stefanou** (Saint Stephan).

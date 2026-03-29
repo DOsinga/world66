@@ -7,6 +7,8 @@ email: "LeonardoMiljko@gmail.com"
 phone: "+387-63-997-996"
 type: "Speciality shops"
 url: "www.webMedjugorje.com"
+latitude: 43.343586
+longitude: 17.807658
 ---
 
 WebMedjugorje is a company that manages web sites www.webMedjugorje.com , www.Medjugorje.pro and www.shop.webMedjugorje.com . Our company is based in Mostar, capital of Herzegovina area in Bosnia and Herzegovina, only 20 km from Medjugorje. Our company is specialized for the production of worship and religious souvenirs. All items present on the web sites www.webMedjugorje.com , www.Medjugorje.proand www.shop.webMedjugorje.com come from Medjugorje, where they are sold to pilgrims who come to the village of Blessed Virgin Mary.

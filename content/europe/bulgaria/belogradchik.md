@@ -1,6 +1,8 @@
 ---
 title: "Belogradchik"
 type: location
+latitude: 43.626683
+longitude: 22.686117
 ---
 
 We currently have no information about Belogradchik.

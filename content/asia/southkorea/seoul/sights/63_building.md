@@ -5,6 +5,8 @@ address: "Yeouinaru"
 phone: "02 789 5663 5"
 type: "Public Buildings"
 url: "www.63city.co.kr"
+latitude: 37.526853
+longitude: 126.932529
 ---
 
 The 63 Building (known also as the Daehan Life Insurance) sits on Yeouinaru Island in the south central area of Seoul. Open since 1985 it was once the tallest building in Asia.

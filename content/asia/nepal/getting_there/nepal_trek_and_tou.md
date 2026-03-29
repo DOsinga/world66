@@ -6,6 +6,8 @@ email: "sanjibac@gmail.com"
 phone: "977+9841613822"
 type: "By Air"
 url: "www.nepalguideinfo.com"
+latitude: 26.563151
+longitude: 88.007102
 ---
 
 **Dear Travellers,

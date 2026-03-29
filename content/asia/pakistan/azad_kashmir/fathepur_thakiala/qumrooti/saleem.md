@@ -1,6 +1,8 @@
 ---
 title: "saleem"
 type: location
+latitude: 24.956207
+longitude: 66.982533
 ---
 
 Travel Guide

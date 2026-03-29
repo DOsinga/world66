@@ -1,6 +1,8 @@
 ---
 title: "Ahmednagar"
 type: location
+latitude: 19.162772
+longitude: 74.858024
 ---
 
 Ahmednagar (often shortened to Nagar) is located about 117 km (73 miles) northeast of Pune in a predominantly agricultural district. A drive through downtown Ahmednagar is a challenging obstacle course round yellow and red S.T. buses, trucks spewing forth smoky exhaust, three-wheeled motorized rickshaws, scooters, and bicycles that materialize out of nowhere, horse-drawn tongas, and the ever-present stray cow or dog.

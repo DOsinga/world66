@@ -2,6 +2,8 @@
 title: "Water Sports"
 type: poi
 type: "Surfing"
+latitude: 18.35361
+longitude: -64.755587
 ---
 
 Swift-flowing tributaries, turbulent sounds, and the open Atlantic

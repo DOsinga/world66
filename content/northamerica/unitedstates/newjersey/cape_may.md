@@ -1,6 +1,8 @@
 ---
 title: "Cape May"
 type: location
+latitude: 39.176539
+longitude: -74.801212
 ---
 
 Travel Guide

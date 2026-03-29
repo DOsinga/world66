@@ -1,6 +1,8 @@
 ---
 title: "Black Meadow Landing"
 type: location
+latitude: 34.351364
+longitude: -114.195006
 ---
 
 Travel Guide

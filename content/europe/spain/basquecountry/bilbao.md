@@ -1,6 +1,8 @@
 ---
 title: "Bilbao"
 type: location
+latitude: 43.263002
+longitude: -2.935004
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Air Travel"
 type: poi
 type: "By Air"
+latitude: 28.460907
+longitude: 77.079219
 ---
 
 [Madurai](/asia/india/tamilnadu/madurai) and [Kochi](/asia/india/kerala/kochi) (Ernakulam) are the two closest airports to [Munnar](/asia/india/kerala/munnar). Once you land in the airport, next option is to arrange a road transport to reach [Munnar](/asia/india/kerala/munnar).

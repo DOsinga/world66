@@ -1,6 +1,8 @@
 ---
 title: "Things to do"
 type: location
+latitude: 12.833965
+longitude: 79.714809
 ---
 
 **You can only type plain text here, all HTML tags will be filtered out.

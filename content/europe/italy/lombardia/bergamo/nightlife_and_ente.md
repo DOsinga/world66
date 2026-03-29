@@ -5,6 +5,8 @@ address: "Via Cavour, 14"
 phone: "035 4 160 602"
 type: "Jazz"
 url: "www.teatrodonizetti.it"
+latitude: 41.900145
+longitude: 12.499283
 ---
 
 Concerts, Opera, and Theater are just some of the cultural entertainment. And depending on the date, you may run into culture in the streets in the form of puppet shows, Carnivale parades, processions, dancing, music and performances.

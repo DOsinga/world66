@@ -5,6 +5,8 @@ address: "Rua da Juventude, 9500-211"
 phone: "296 307 575"
 type: "Shopping centers and malls"
 url: "www.parqueatlanticoshopping.pt"
+latitude: 37.747453
+longitude: -25.676227
 ---
 
 Located at the nothern part of the city centra. If you walk up from Praça Vasco da Gama you eventually reach it. You can also take the green minibus, Course B.

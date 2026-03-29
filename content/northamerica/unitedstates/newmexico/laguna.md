@@ -1,6 +1,8 @@
 ---
 title: "Laguna"
 type: location
+latitude: 35.040423
+longitude: -107.426628
 ---
 
 Travel Guide

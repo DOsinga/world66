@@ -1,6 +1,8 @@
 ---
 title: "Sur"
 type: location
+latitude: 22.569426
+longitude: 59.52972
 ---
 
 **Sur** is on the edge of the world. A seaside town 350kms approximatley from the capital** Muscat**. Before you arrive in **Sur **driving from **Muscat **be sure to go to the incredible **Wadi Bani Khalid**. You will need a good four wheel drive, a bathing suit, and a solid packed lunch to make a day of it. 

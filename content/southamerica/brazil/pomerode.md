@@ -1,6 +1,8 @@
 ---
 title: "Pomerode"
 type: location
+latitude: -26.735622
+longitude: -49.177009
 ---
 
 Characteristics more German City of the Country, Pomerode is synonymous of tradition, natural beauty and quality of life. It is the main gastronômico polar region of the region. Date of foundation - 21 of January of 1959. Festive date - the first monday after the Passover and 26 of December. Main economic activities - the city counts on one of the most diversified industrial parks of the State, including metallurgic, chemical and moveleiras confections, industries. The company most traditional of Pomerode is of Porcelains the Schmidt. Agriculture is responsible for 7% of the municipal collection. Population - 22,000 inhabitants. Settling - German. Main etnias - German. Localization - In the Valley of the Itajaí, 32km of Blumenau. Area - 217km2. Climate - Tempered, with average temperature between 15ºC and 25ºC. Altitude - 85m above of the level of the sea. Next cities - Blumenau, River of the Cedars, Indaial, Jaraguá of the South, Timbó.

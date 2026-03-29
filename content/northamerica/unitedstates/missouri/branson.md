@@ -1,6 +1,8 @@
 ---
 title: "Branson"
 type: location
+latitude: 36.644077
+longitude: -93.216926
 ---
 
 We currently have no information about Branson.

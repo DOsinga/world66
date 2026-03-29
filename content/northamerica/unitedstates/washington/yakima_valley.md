@@ -1,6 +1,8 @@
 ---
 title: "Yakima Valley"
 type: location
+latitude: 46.58642
+longitude: -120.527821
 ---
 
 Travel Guide

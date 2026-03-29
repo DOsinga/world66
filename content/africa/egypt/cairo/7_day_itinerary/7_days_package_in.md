@@ -5,6 +5,8 @@ address: "Semouha, Alexandria"
 email: "info@ramsestours.com"
 phone: "002 010 214 2948"
 url: "www.ramsestours.com"
+latitude: 31.20964
+longitude: 29.953018
 ---
 
 **Day 1:

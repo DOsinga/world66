@@ -1,6 +1,8 @@
 ---
 title: "Eilat"
 type: location
+latitude: 29.556935
+longitude: 34.949795
 ---
 
 Travel Guide

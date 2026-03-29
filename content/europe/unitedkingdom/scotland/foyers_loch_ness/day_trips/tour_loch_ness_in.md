@@ -5,6 +5,8 @@ address: "Loch Ness, Scotland"
 email: "tours@goscotlandtours.com"
 phone: "(+44) (0) 750 466 1828"
 url: "www.goscotlandtours.com"
+latitude: 57.274122
+longitude: -4.484968
 ---
 
 Savour the delights of the **Scottish Highlands** with your **tour guide**;

@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "general"
+latitude: 45.485563
+longitude: -73.629782
 ---
 
 Here are a few suggestions for a visit.

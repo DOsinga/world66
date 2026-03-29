@@ -2,6 +2,8 @@
 title: "Things to do"
 type: section
 type: "Other"
+latitude: 24.934706
+longitude: 67.077162
 ---
 
 There are various things you can do in Rawalpindi. A few of them are:

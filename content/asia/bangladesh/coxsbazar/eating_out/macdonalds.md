@@ -7,6 +7,8 @@ phone: "123-456-789"
 price: "1 dollar"
 type: "First Class"
 url: "www.mcdonalds.com"
+latitude: 48.277738
+longitude: -58.762099
 ---
 
 **This is a good place to eat dinner. Especially the dollar menu.

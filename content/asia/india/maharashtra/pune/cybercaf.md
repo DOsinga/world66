@@ -1,25 +1,33 @@
 ---
 title: "Internet Cafes"
 type: location
+latitude: 28.641005
+longitude: 77.212539
 ---
 
 **Internet cafes**
 
 **cyber cafe**
 
-millennium cyber cafe shop no.5,sinhagad road,vadgaon bk.,pune-411041. ph. no.-4356069
+millennium cyber cafe
+ shop no.5,sinhagad road,vadgaon bk.,pune-411041.
+ ph. no.-4356069
 
 **Millennium Cyber Cafe**
 
 Shop No.5,
 
- Sinhagad Road,
 
- Vadgaon bk.,
+ Sinhagad Road,
 
- Pune-411041
 
- Ph: 4356069
+ Vadgaon bk.,
+
+
+ Pune-411041
+
+
+ Ph: 4356069
 
 
 
@@ -35,7 +43,11 @@ tel: +91 20-629866
 
 **CYBER VISION**
 
-2, Tarangan Building, Rambaug Colony, Near Raj Motors, Paud Road, Pune-411038. 
+2, Tarangan Building, Rambaug Colony,
+ Near Raj Motors,
+ Paud Road,
+ Pune-411038.
+ 
 
 tel: +91 20-261600
 

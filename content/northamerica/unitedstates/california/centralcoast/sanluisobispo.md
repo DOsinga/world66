@@ -1,6 +1,8 @@
 ---
 title: "San Luis Obispo"
 type: location
+latitude: 35.354021
+longitude: -120.375716
 ---
 
 San Luis Obispo was established in 1772 with the construction of Mission San Luis Obispo de Tolosa. A town quickly grew around and eventually on the mission grounds which included San Luis Creek.

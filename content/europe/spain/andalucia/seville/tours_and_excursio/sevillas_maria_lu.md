@@ -5,6 +5,8 @@ address: "Seville"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 37.38863
+longitude: -5.99534
 ---
 
 On this private tour you will enjoy a panoramic tour of Sevilla's Plaza España and adjoining Maria Luisa Park... 

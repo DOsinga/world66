@@ -1,9 +1,12 @@
 ---
 title: "Gucci"
 type: poi
+latitude: 52.50098
+longitude: 13.317182
 ---
 
-Elegant clubwear and essential accessories for big spenders. There's also a branch at Friedrichstr. 71 in Mitte. 
+Elegant clubwear and essential accessories for big spenders. There's also a branch at Friedrichstr. 71 in Mitte.
+ 
 
 connection: U Kurfürstendamm
 

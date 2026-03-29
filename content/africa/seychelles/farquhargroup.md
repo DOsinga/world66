@@ -1,6 +1,8 @@
 ---
 title: "Farquhar group"
 type: location
+latitude: -9.331495
+longitude: 50.727735
 ---
 
 We currently have no information about Farquhar group.

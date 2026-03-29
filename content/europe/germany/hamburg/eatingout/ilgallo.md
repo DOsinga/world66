@@ -1,9 +1,12 @@
 ---
 title: "Il Gallo"
 type: poi
+latitude: 49.069074
+longitude: 10.315683
 ---
 
-Closed on Tue 
+Closed on Tue
+ 
 
 address: Eulenstr. 38
 

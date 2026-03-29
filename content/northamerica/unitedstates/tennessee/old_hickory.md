@@ -1,6 +1,8 @@
 ---
 title: "Old Hickory"
 type: location
+latitude: 36.259713
+longitude: -86.648088
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "San Ysidro"
 type: location
+latitude: 32.552001
+longitude: -117.043081
 ---
 
 Travel Guide

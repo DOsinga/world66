@@ -2,6 +2,8 @@
 title: "Newark International Airport"
 type: poi
 type: "Airport"
+latitude: 40.689064
+longitude: -74.177255
 ---
 
 Newark International Airport

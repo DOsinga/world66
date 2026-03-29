@@ -2,6 +2,8 @@
 title: "Botanic Garden"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: -35.27775
+longitude: 149.10761
 ---
 
 We try to visit as many botanic gardens as possible, if we visit a

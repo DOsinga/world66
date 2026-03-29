@@ -1,6 +1,8 @@
 ---
 title: "Bankya"
 type: location
+latitude: 42.710125
+longitude: 23.146497
 ---
 
 We currently have no information about Bankya.

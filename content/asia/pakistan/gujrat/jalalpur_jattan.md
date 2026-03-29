@@ -1,6 +1,8 @@
 ---
 title: "Jalalpur Jattan"
 type: location
+latitude: 32.640586
+longitude: 74.203863
 ---
 
 Travel Guide

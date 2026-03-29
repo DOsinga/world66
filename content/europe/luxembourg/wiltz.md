@@ -1,6 +1,8 @@
 ---
 title: "Wiltz"
 type: location
+latitude: 49.966691
+longitude: 5.932102
 ---
 
 We currently have no information about Wiltz.

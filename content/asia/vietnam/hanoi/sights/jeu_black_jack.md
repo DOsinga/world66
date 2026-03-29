@@ -8,6 +8,8 @@ opening_hours: "Barbara"
 phone: "Barbara"
 type: "1"
 url: "hdlighthouse.org"
+latitude: 43.581154
+longitude: 13.026481
 ---
 
 Nice site!

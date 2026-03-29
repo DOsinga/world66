@@ -2,6 +2,8 @@
 title: "Abu Qir"
 type: poi
 type: "general"
+latitude: 31.320302
+longitude: 30.064198
 ---
 
 A small fishing town, you can sunbathe, fish, swim and eat fresh seafood.

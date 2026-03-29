@@ -1,6 +1,8 @@
 ---
 title: "UNNAO"
 type: location
+latitude: 26.567326
+longitude: 80.619819
 ---
 
 Travel Guide

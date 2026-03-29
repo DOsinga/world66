@@ -1,6 +1,8 @@
 ---
 title: "Hotel Wailea"
 type: location
+latitude: 20.677475
+longitude: -156.432216
 ---
 
 Travel Guide

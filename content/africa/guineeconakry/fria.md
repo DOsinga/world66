@@ -1,6 +1,8 @@
 ---
 title: "Fria"
 type: location
+latitude: 10.363036
+longitude: -13.581185
 ---
 
 We currently have no information about Fria.

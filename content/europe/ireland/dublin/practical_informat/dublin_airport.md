@@ -2,6 +2,8 @@
 title: "Dublin Airport"
 type: poi
 type: "Airport"
+latitude: 53.428292
+longitude: -6.247274
 ---
 
 Dublin Airport is about 12km north from the city center. A ride to the

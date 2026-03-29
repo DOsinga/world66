@@ -1,6 +1,8 @@
 ---
 title: "Mukeiras"
 type: location
+latitude: 13.936864
+longitude: 45.656956
 ---
 
 We currently have no information about Mukeiras.

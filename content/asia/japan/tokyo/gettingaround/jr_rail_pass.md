@@ -2,6 +2,8 @@
 title: "JR Rail Pass"
 type: poi
 url: "www.japanrailpass.net"
+latitude: 35.628692
+longitude: 139.738755
 ---
 
 The JR Rail Pass is a special ticket that is available

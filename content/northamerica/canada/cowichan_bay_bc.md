@@ -1,6 +1,8 @@
 ---
 title: "Cowichan Bay BC"
 type: location
+latitude: 48.729657
+longitude: -123.640389
 ---
 
 The delightful village of Cowichan Bay is central to all of southern

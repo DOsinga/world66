@@ -1,6 +1,8 @@
 ---
 title: "Attractions"
 type: location
+latitude: 55.803078
+longitude: 49.113879
 ---
 
 **The Novosibirsk Philharmonic Orchestra** is on of major attractions in the city. The Orchestra is well-known outside Siberia and Russia. 

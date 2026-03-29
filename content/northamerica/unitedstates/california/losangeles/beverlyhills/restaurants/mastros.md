@@ -5,6 +5,8 @@ address: "246 N. Cañon Dr."
 phone: "310-888-8782"
 type: "American"
 url: "www.mastrossteakhouse.com"
+latitude: 34.068801
+longitude: -118.398793
 ---
 
 Expert mix of classic steakhouse, chic bar scene and well-heeled

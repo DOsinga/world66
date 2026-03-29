@@ -1,6 +1,8 @@
 ---
 title: "Lysekil"
 type: location
+latitude: 58.396573
+longitude: 11.419634
 ---
 
 Travel Guide

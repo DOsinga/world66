@@ -1,6 +1,8 @@
 ---
 title: "Bluff"
 type: location
+latitude: 37.29423
+longitude: -109.55118
 ---
 
 Travel Guide

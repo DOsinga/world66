@@ -1,6 +1,8 @@
 ---
 title: "Madagascar"
 type: location
+latitude: -18.92496
+longitude: 46.441642
 ---
 
 The island of Madagascar, situated off the east coast of Africa, is often considered to be the world’s eighth continent. 

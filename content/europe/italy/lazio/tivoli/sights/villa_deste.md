@@ -1,6 +1,8 @@
 ---
 title: "Villa d'Este"
 type: poi
+latitude: 41.962967
+longitude: 12.79599
 ---
 
 Unlike Hadrian’s Villa the Villa d’Este is right in the middle of Tivoli, about a quarter of an hours walk from the station. It is the gardens that really scream for attention here and the gardens are famous. This involves descending great flights of steps – and of course ascending again – but for those who find this daunting, there is a god enough view from the building itself. 

@@ -1,6 +1,8 @@
 ---
 title: "Franschhoek"
 type: location
+latitude: -33.909167
+longitude: 19.119444
 ---
 
 Travel Guide

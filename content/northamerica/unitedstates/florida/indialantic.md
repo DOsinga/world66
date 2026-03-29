@@ -1,6 +1,8 @@
 ---
 title: "Indialantic"
 type: location
+latitude: 28.091192
+longitude: -80.567988
 ---
 
 Travel Guide

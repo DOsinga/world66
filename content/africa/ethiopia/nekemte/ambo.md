@@ -1,6 +1,8 @@
 ---
 title: "Ambo"
 type: location
+latitude: 8.982104
+longitude: 37.855441
 ---
 
 Travel Guide

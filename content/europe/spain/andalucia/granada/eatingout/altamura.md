@@ -4,6 +4,8 @@ type: poi
 address: "Avenida Andaluces, 2"
 phone: "+34 958 272 908 - 958 272 909"
 type: "Italian"
+latitude: 37.185969
+longitude: -3.608737
 ---
 
 type: Italian

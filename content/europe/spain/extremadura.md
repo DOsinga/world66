@@ -1,6 +1,8 @@
 ---
 title: "Extremadura"
 type: location
+latitude: 39.174843
+longitude: -6.152989
 ---
 
 Located between Madrid and Portugal this is one of the less visited

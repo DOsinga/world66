@@ -1,6 +1,8 @@
 ---
 title: "Bandar e anzali"
 type: location
+latitude: 37.471636
+longitude: 49.46859
 ---
 
 Bandar e Anzali is a beautiful piece of land, dream of my childhood and my retirement destination.

@@ -1,6 +1,8 @@
 ---
 title: "Masbate"
 type: location
+latitude: 12.166667
+longitude: 123.583333
 ---
 
 Travel Guide

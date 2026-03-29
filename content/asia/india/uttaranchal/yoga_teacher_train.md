@@ -1,6 +1,8 @@
 ---
 title: "Yoga Teacher Training India"
 type: location
+latitude: 8.414503
+longitude: 76.973293
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ opening_hours: "Tue- 10-8, Wed-Sat 10-5, Sun 1-5"
 phone: "402-444-5071"
 type: "Hotspots"
 url: "www.dwhm.org"
+latitude: 41.251398
+longitude: -95.9281
 ---
 
 The Museum is s real treat. You can spend a lot of time wondering through the permanent exhibits that include Nebraska and Midwestern history. My favorite parts were the Byron Reed coin collection and Union Station Gallery.

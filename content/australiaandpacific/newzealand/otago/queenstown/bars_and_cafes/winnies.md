@@ -2,6 +2,8 @@
 title: "Winnies"
 type: poi
 address: "7-9 The Mall"
+latitude: -37.772127
+longitude: 145.113051
 ---
 
 This restaurant/bar is a nice place to get a gourmet pizza and other food. They have a pretty good menu to choose from and you can certainly get stuffed with their good foods.

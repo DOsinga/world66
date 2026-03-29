@@ -5,6 +5,8 @@ address: "Batam Golf"
 phone: "+65 31080729"
 type: "Golf"
 url: "www.coconut-golf.com"
+latitude: 1.094484
+longitude: 104.034079
 ---
 
 Batam boasts several championship golf courses. Prices are are a fraction of what you would pay in nearby Singapore.

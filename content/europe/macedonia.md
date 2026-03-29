@@ -1,6 +1,8 @@
 ---
 title: "Macedonia"
 type: location
+latitude: 41.192774
+longitude: -95.42562
 ---
 
 Macedonia is a landlocked country in the heart of the Balkan. It is bordered by [Bulgaria](../bulgaria) , Serbia , [Greece](../greece) and [Albania](../albania) . It is easiest to reach from Greece or Bulgaria. 

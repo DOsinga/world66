@@ -1,6 +1,8 @@
 ---
 title: "Bade"
 type: location
+latitude: 48.53775
+longitude: 9.041169
 ---
 
 Travel Guide

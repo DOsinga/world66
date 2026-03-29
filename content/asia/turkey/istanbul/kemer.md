@@ -1,6 +1,8 @@
 ---
 title: "Kemer"
 type: location
+latitude: 36.601382
+longitude: 30.563856
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "St. Augustine"
 type: location
+latitude: 40.718373
+longitude: -90.410962
 ---
 
 Travel Guide

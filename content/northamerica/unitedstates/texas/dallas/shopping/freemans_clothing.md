@@ -4,6 +4,8 @@ type: poi
 address: "400 N Saint Paul St, ste 105"
 phone: "2147401114"
 type: "Speciality shops"
+latitude: 53.043534
+longitude: -2.206493
 ---
 
 Big store in downtown Dallas selling urban clothing, shoes and accessiores for men and women.

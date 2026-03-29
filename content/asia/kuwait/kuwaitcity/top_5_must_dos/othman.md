@@ -2,6 +2,8 @@
 title: "Othman"
 type: poi
 email: "alfanosalazrag@gmail.com"
+latitude: 29.373778
+longitude: 47.976778
 ---
 
 shop at Kuwait's shopping malls.

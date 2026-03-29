@@ -3,6 +3,8 @@ title: "Golden Globe"
 type: poi
 address: "Jl. Imam Bonjol, Lubuk Baja"
 phone: "0778-459888"
+latitude: 1.148711
+longitude: 104.00956
 ---
 
 Golden Globe also know as GG (locals pronounce this as GeeGee)

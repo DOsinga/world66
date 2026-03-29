@@ -1,6 +1,8 @@
 ---
 title: "Neijiang"
 type: location
+latitude: 29.66022
+longitude: 104.919281
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Culture & Food"
 type: location
+latitude: 3.144061
+longitude: 101.71048
 ---
 
 Cultural Heritage 

@@ -5,6 +5,8 @@ address: "sorrento"
 email: "angelostinca@yahoo.it"
 phone: "+39 3394999884"
 url: "www.positanoprivatedrivers.com"
+latitude: 40.624906
+longitude: 14.374836
 ---
 
 As a native of Sorrento has lived in London for one year and in Australia for 2 years and travelled to many countries , he had the opportunity of meeting people from different cultures and backgrounds, which he enjoyed a lot.

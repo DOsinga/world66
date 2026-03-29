@@ -1,6 +1,8 @@
 ---
 title: "Kobe"
 type: location
+latitude: 34.693238
+longitude: 135.194376
 ---
 
 Located roughly in the center of Honshu, Japan's main island, Kobe is easily accessible by land, sea, and air. It is about 3 hours and 20 minutes from [Tokyo](/asia/japan/tokyo) by Bullet Train. Together with [Osaka](/asia/japan/honshu/osaka) and [Kyoto](/asia/japan/honshu/kyoto), it forms the focal point for the economy of western Japan.

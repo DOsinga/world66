@@ -1,6 +1,8 @@
 ---
 title: "St. Peter's"
 type: location
+latitude: 45.656033
+longitude: -60.875068
 ---
 
 Travel Guide

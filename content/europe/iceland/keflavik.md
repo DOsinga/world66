@@ -1,6 +1,8 @@
 ---
 title: "Keflavik"
 type: location
+latitude: 63.999769
+longitude: -22.556537
 ---
 
 Keflavik is a small town (as are almost all Icelandic towns) on a peninsula in the southwest corner. I lived there (more exactly, on a military base there) for 12 months (1985-1986). I found the people friendly, the wind very cold, and the "hot springs" a wonderful place to swim when the wind chill is -40F. The most popular spot, by far, in the area is referred to as the "Blue Lagoon".

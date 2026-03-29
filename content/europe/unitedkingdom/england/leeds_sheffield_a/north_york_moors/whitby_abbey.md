@@ -1,6 +1,8 @@
 ---
 title: "Whitby Abbey"
 type: location
+latitude: 54.487584
+longitude: -0.606573
 ---
 
 Travel Guide

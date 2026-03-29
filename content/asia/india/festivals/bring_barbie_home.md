@@ -3,6 +3,8 @@ title: "Bring Barbie home for your smarty kid"
 type: poi
 address: "lakeroad"
 email: "barbietoys@LIVE.IN"
+latitude: 35.336529
+longitude: -97.148571
 ---
 
 If you are asked to name a single doll brand that has been a legendary one in the toy industry, the instant answer is Barbie. Not just for the fashionable doll, Barbie

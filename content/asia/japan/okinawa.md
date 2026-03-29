@@ -1,6 +1,8 @@
 ---
 title: "Okinawa"
 type: location
+latitude: 26.570775
+longitude: 128.02559
 ---
 
 Travel Guide

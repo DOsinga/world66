@@ -1,6 +1,8 @@
 ---
 title: "Playa del Rey"
 type: poi
+latitude: 33.954145
+longitude: -118.438807
 ---
 
 Quietly tucked along the Los Angeles coastline halfway between

@@ -1,6 +1,8 @@
 ---
 title: "Sorong"
 type: location
+latitude: -0.86341
+longitude: 131.25448
 ---
 
 Sorong is definitely not a tourist town. The town of Sorong is a fading

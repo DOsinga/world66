@@ -8,6 +8,8 @@ phone: "5409889-86-28623-=68-3=925"
 type: "Public Buildings"
 url: "www.pelgrimbier.nl"
 zipcode: "67543"
+latitude: 43.018694
+longitude: -78.76876
 ---
 
 One of the most interesting sites of Rotterdam which is not very known because of it's distance to the city centre, is the neighbourhood of Delfshaven. Interesting because of two reasons: first of all in the centre of Delfshaven you will find a magnificent historical part, full of old warehouses and interesting public buildings. Main street is Voorhaven, where today you'll also find many sites for eating and dining. Don't miss brewery De Pelgrim where they still brew the Rotterdam oldest beer!

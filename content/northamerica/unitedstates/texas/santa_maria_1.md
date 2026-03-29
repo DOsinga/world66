@@ -1,6 +1,8 @@
 ---
 title: "Santa Maria"
 type: location
+latitude: 34.95313
+longitude: -120.435857
 ---
 
 Travel Guide

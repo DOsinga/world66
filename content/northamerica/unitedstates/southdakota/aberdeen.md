@@ -1,6 +1,8 @@
 ---
 title: "Aberdeen"
 type: location
+latitude: 45.464981
+longitude: -98.487813
 ---
 
 We currently have no information about Aberdeen.

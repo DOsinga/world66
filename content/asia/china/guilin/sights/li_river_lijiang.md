@@ -3,6 +3,8 @@ title: "Li River (Lijiang River)"
 type: poi
 type: "Hotspots"
 url: "www.guilinchina.net"
+latitude: 26.638308
+longitude: 112.451214
 ---
 
 Originating in Mao'er Mountain in Xin'an county northeast of Guilin, the Li River winds its way southeast for about 437 km, passing through Guilin, Yangshuo, Pingle, Zhaoping and finally meets Xi River in Wulin. It boasts the largest and most beautiful scenic area in China and attracts thousands of visitors each year.

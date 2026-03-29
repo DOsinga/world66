@@ -6,6 +6,8 @@ email: "contact@foodtoursofny.com"
 phone: "917-617-7158"
 type: "Other"
 url: "www.foodtoursofny.com"
+latitude: 40.712728
+longitude: -74.006015
 ---
 
 Normal.dotm

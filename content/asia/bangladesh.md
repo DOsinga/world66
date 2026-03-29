@@ -1,6 +1,8 @@
 ---
 title: "Bangladesh"
 type: location
+latitude: 24.476929
+longitude: 90.293441
 ---
 
 Travel Guide

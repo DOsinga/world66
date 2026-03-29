@@ -1,6 +1,8 @@
 ---
 title: "Andros"
 type: location
+latitude: 37.840835
+longitude: 24.862382
 ---
 
 Travel Guide

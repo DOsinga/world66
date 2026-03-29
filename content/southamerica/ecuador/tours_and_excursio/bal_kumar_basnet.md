@@ -5,6 +5,8 @@ address: "nepal"
 email: "parikarma@wlink.com.np"
 phone: "4379006"
 url: "paritreks.com"
+latitude: 28.378046
+longitude: 83.99999
 ---
 
 Dear Travel & Tour Operators and Colleagues,

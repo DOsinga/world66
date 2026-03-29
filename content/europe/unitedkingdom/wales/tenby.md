@@ -1,6 +1,8 @@
 ---
 title: "Tenby"
 type: location
+latitude: 51.672613
+longitude: -4.705044
 ---
 
 Tenby is one of those old fashion beach resorts. There is a lot of glitter and glamour here, but it is all done in a rather stylish way. Although it is mostly popular with retired people, there are quite a few activities for the young as well. In summer the town is really crowded and it is wise to book ahead. 

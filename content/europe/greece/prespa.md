@@ -1,6 +1,8 @@
 ---
 title: "Prespa"
 type: location
+latitude: 40.751054
+longitude: 21.0999
 ---
 
 Travel Guide

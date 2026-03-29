@@ -1,6 +1,8 @@
 ---
 title: "Playa del Ingles"
 type: location
+latitude: 27.759481
+longitude: -15.574086
 ---
 
 This small city is mostly built out of hotels. 

@@ -1,6 +1,8 @@
 ---
 title: "Hyderabad"
 type: location
+latitude: 25.386829
+longitude: 68.371497
 ---
 
 Not to be confused with Hyderabad in [India](/asia/india). 

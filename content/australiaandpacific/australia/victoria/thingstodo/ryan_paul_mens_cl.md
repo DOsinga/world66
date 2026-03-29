@@ -5,6 +5,8 @@ accessibility: "Club type:  Gay and Lesbian"
 address: "Melbourne, Victoria, Australia"
 phone: "(03)98016326"
 type: "Other"
+latitude: -37.814245
+longitude: 144.963173
 ---
 
 type:

@@ -1,6 +1,8 @@
 ---
 title: "Concepcion"
 type: location
+latitude: -36.82707
+longitude: -73.050206
 ---
 
 We currently have no information about Concepcion.

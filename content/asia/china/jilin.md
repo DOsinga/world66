@@ -1,6 +1,8 @@
 ---
 title: "Jilin"
 type: location
+latitude: 43.728967
+longitude: 126.199737
 ---
 
 Travel Guide

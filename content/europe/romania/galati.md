@@ -1,6 +1,8 @@
 ---
 title: "Galati"
 type: location
+latitude: 45.433822
+longitude: 28.054939
 ---
 
 Located in the eastern part of [Romania](/europe/romania), the city is based on the siderurgic industry.

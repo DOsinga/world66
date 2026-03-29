@@ -1,6 +1,8 @@
 ---
 title: "h"
 type: location
+latitude: 50.589395
+longitude: 6.2612
 ---
 
 Travel Guide

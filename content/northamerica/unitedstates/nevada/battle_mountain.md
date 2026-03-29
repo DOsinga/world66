@@ -1,6 +1,8 @@
 ---
 title: "Battle Mountain"
 type: location
+latitude: 40.633653
+longitude: -116.953964
 ---
 
 Travel Guide

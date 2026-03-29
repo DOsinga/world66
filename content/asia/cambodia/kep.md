@@ -1,6 +1,8 @@
 ---
 title: "Kep"
 type: location
+latitude: 10.402154
+longitude: 104.265062
 ---
 
 The sleepy seaside town of Kep wasn't always so sleepy. Before Pol Pot and the Khmer Rouge kicked everybody out, this was [Cambodia](/asia/cambodia)s major tourist destination. Evidence of this can be seen everywhere, from the hollowed out remains of what were once lavish beach resorts to the overgrown tennis courts. 

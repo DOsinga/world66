@@ -1,6 +1,8 @@
 ---
 title: "Trevi"
 type: location
+latitude: 42.877497
+longitude: 12.747455
 ---
 
 Travel Guide

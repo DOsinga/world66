@@ -1,6 +1,8 @@
 ---
 title: "Palolem Beach Canacona"
 type: location
+latitude: 15.009308
+longitude: 74.024229
 ---
 
 One of the Worlds number One Beach is Called as Palolem Beach....

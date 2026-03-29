@@ -1,6 +1,8 @@
 ---
 title: "Paxi"
 type: location
+latitude: 39.209398
+longitude: 20.161634
 ---
 
 Paxos is in the Ionian group of Greek islands, a few miles south of Corfu. As there is no airport on Paxos, most people travel there by ferry from either Corfu or Igoumenitsa. 

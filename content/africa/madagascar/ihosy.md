@@ -1,6 +1,8 @@
 ---
 title: "Ihosy"
 type: location
+latitude: -22.449163
+longitude: 46.138987
 ---
 
 We currently have no information about Ihosy.

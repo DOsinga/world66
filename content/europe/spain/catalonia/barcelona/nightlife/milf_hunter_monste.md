@@ -6,6 +6,8 @@ email: "dundbegefeeve@vp.pl"
 phone: "123456"
 type: "Casinos"
 url: "www.milf.com"
+latitude: 59.103735
+longitude: 9.736354
 ---
 
 40inchplus.com

@@ -1,6 +1,8 @@
 ---
 title: "Henry Mountains"
 type: location
+latitude: 38.018614
+longitude: -110.775178
 ---
 
 Travel Guide

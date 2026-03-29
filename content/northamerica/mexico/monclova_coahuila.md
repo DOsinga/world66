@@ -1,6 +1,8 @@
 ---
 title: "Monclova, Coahuila"
 type: location
+latitude: 26.87924
+longitude: -101.199234
 ---
 
 Travel Guide

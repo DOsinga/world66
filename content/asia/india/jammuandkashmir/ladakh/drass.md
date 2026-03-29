@@ -1,6 +1,8 @@
 ---
 title: "Drass"
 type: location
+latitude: 34.42927
+longitude: 75.750761
 ---
 
 Travel Guide

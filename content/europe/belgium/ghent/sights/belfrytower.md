@@ -5,6 +5,8 @@ address: "Sint Baafsplein"
 admission: "€ 3.00"
 opening_hours: "from 10 a.m. to 12a.m. and fron 2 p.m. to 5.30 p.m"
 type: "Hotspots"
+latitude: 51.053328
+longitude: 3.726063
 ---
 
 The Belfry tower of Ghent is perhaps one of the most impressive ones in Flanders. It dominates, together with the St-Nicholas tower and the cathedral tower the medieval center of the city. The architects were Jan van Aelst and Filips van Beergine. The tower was completed in 1338, when the bells were rung for the English king Edward II. At the top corners of the towers a stone soldier on watch was placed. The only remaining original stone soldier was placed in the treasury room in 1870 to preserve the sculpture from further withering. Copies now adorn the four corners of the tower. The 'secret', or treasury room, was protected by two large doors, each with three locks. The keys of these locks were in the hands of the different guilds of Ghent. Therefore, the 'secret' could only be opened in the presence of the main representatives of these powerful leaders of the economic life of the city. In Ghent, there were always four soldiers on guard on top of the tower. Every hour, they had to blow their horns as a sign that the city was still being guarded.

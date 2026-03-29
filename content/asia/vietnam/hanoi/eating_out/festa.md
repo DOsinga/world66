@@ -6,6 +6,8 @@ email: "festa@asiamail.com"
 phone: "042431589"
 price: "starts at Us $6.-"
 type: "Italian"
+latitude: 20.95336
+longitude: 107.043811
 ---
 
 An Italian restaurant with a twist.

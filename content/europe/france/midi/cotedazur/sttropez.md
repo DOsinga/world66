@@ -1,6 +1,8 @@
 ---
 title: "St Tropez"
 type: location
+latitude: 43.272719
+longitude: 6.640523
 ---
 
 If you look hard, you might still catch a glimpse of the old days. Especially when you walk you're way up to the citadelle, dating from the 16th century, and visit the tiny windy graveyard that faces the robust sea. And of course, St Tropez still has its small winding street, its discloured houses (either by the impact of the sea or the sun) with green shutters and aged men that play pétanque under the trees in the shade. 

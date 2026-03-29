@@ -8,6 +8,8 @@ phone: "503-445-4716"
 price: "$2-21. dollars"
 type: "Italian"
 url: "www.ioriorestaurant.com"
+latitude: 45.512066
+longitude: -122.656391
 ---
 
 Organic and sustainable southern Italian dining tucked away in a storefront just across the Willamette River from downtown PDX.

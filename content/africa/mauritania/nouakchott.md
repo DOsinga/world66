@@ -1,6 +1,8 @@
 ---
 title: "Nouakchott"
 type: location
+latitude: 18.079238
+longitude: -15.978007
 ---
 
 Nouakchott is the capital of Mauritania. When Mauritania was still part of French West-Africa it did not have a capital city; most of its inhabitants were nomads. Nouakchott was founded at the independence in 1960. Since it has grown at an incredible rate and now a third of the population of the country lives in the city; that means 800,000 people. 

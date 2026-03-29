@@ -1,6 +1,8 @@
 ---
 title: "Tacurong"
 type: location
+latitude: 6.688437
+longitude: 124.678658
 ---
 
 Travel Guide

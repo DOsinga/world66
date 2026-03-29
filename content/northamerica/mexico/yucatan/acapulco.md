@@ -1,6 +1,8 @@
 ---
 title: "Acapulco"
 type: location
+latitude: 16.86805
+longitude: -99.894018
 ---
 
 Going Loco, in Acapulco that's what visitors of the beach resort come to do. And if you're into that kind of thing, it's a perfect place to do it. There are great beaches, the water is always warm, and the sun always shines. When the sun doesn't shine there is nightlife until the sun comes back up again. 

@@ -5,6 +5,8 @@ address: "4b Forests Road, Nelson, New Zealand"
 email: "neil@flyingkiwi.com"
 phone: "+64 3 547 0171"
 url: "www.flyingkiwi.com"
+latitude: -41.299634
+longitude: 173.235758
 ---
 
 Flying Kiwi's award winning trips give you the chance to experience the natural beauty and excitement of New Zealand up close and personal. With great value trips ranging from 3-27 days and accommodation by lakes, mountains and coasts its the perfect way to get beyond the tourist trail. **Explore, Experience, Enjoy.**

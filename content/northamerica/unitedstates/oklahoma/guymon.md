@@ -1,6 +1,8 @@
 ---
 title: "Guymon"
 type: location
+latitude: 36.682804
+longitude: -101.481549
 ---
 
 Travel Guide

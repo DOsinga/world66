@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 opening_hours: "10am. to 5pm"
 type: "Hotspots"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 Here are a few sights.

@@ -1,6 +1,8 @@
 ---
 title: "Poteau"
 type: location
+latitude: 35.056805
+longitude: -94.619997
 ---
 
 Travel Guide

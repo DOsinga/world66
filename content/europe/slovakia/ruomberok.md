@@ -1,6 +1,8 @@
 ---
 title: "Ružomberok"
 type: location
+latitude: 49.081572
+longitude: 19.303417
 ---
 
 Travel Guide

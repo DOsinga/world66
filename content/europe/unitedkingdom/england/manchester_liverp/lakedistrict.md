@@ -1,6 +1,8 @@
 ---
 title: "Lake District"
 type: location
+latitude: 54.47853
+longitude: -3.065533
 ---
 
 tourists and the m6 moterway, which slices through the North West region from the West Midlands to the Scottish border, brings an ever growing stream from the south to enjoy it's beauty. The road up Langdale from Ambleside, passing through Elterwater and Langdale villages, is one of the classic roads of the Lake District tour, culminating in the impressive view of the Langdale pikes accross Blea Tarn. The main peaks -Pike o'stickle, Harrison Stickle, Loft Crag and Peveey Ark- are all above 2000 feet (600m) but in their solitude, they seem much higher. This view of Derwentwater emphasizes one of the great charms of the Lake District.

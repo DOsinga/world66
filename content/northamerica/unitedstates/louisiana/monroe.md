@@ -1,6 +1,8 @@
 ---
 title: "Monroe"
 type: location
+latitude: 41.040042
+longitude: -75.324947
 ---
 
 The home of Delta Airlines and the worlds first Coca-Cola Bottling Plant, Monroe, Louisiana is rich in history.

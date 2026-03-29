@@ -1,6 +1,8 @@
 ---
 title: "Albuquerque"
 type: location
+latitude: 35.084103
+longitude: -106.650985
 ---
 
 Albuquerque is located centrally in New Mexico and is an ideal base for exploring the wonder of the state. But the city itself has quite a few sights as well. From Historic Old Town, where the Villa of Albuquerque was founded in 1706, to the Albuquerque International Balloon Fiesta, the most popular ballooning event in the world, there is a lot to discover here.

@@ -8,6 +8,8 @@ phone: "65540636"
 price: "$5 - $26"
 type: "International"
 url: "ww.stevos-saladsnsuch.com"
+latitude: 1.352544
+longitude: 103.834749
 ---
 
 Very casual and laid-back atmosphere with an outdoor eating area.

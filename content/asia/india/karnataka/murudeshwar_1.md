@@ -1,6 +1,8 @@
 ---
 title: "Murudeshwar"
 type: location
+latitude: 15.341086
+longitude: 75.119711
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ phone: "0035621551315"
 price: "5Euro - 15 Euro"
 type: "Local"
 url: "www.mariblugozo.com"
+latitude: 36.038392
+longitude: 14.254544
 ---
 
 **The Mariblu Restaurant & Pizzeria specialises in Traditional Local Home Cooking done by the lady of the house, Maria.**

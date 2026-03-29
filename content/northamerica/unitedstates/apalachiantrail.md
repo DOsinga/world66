@@ -1,6 +1,8 @@
 ---
 title: "Apalachian Trail"
 type: location
+latitude: 37.337851
+longitude: -80.756589
 ---
 
 The Appalachian National Scenic Trail is a 2,167-mile (3,488 km) footpath along the ridge crests and across the major valleys of the Appalachian Mountains from [Katahdin](/northamerica/unitedstates/maine/katahdin) in Maine to [Springer Mountain](/northamerica/unitedstates/georgia/springermountain) in north Georgia. The trail traverses Maine, New Hampshire, Vermont, Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, Maryland, West Virginia, Virginia, Tennessee, North Carolina and Georgia. The Appalachian Trail (A.T.) is used by day, weekend and other short-term hikers, section hikers and thru-hikers. Thru-hikers hike the entire length of the Trail in one season. 

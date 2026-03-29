@@ -1,6 +1,8 @@
 ---
 title: "Mechelen"
 type: location
+latitude: 51.028138
+longitude: 4.480345
 ---
 
 The city of Mechelen, known as Malines to the French speaking, is

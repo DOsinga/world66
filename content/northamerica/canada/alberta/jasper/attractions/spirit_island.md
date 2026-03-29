@@ -2,6 +2,8 @@
 title: "Spirit Island"
 type: location
 email: "christianward2003@yahoo.co.uk"
+latitude: 49.23603
+longitude: -58.327326
 ---
 
 Spirit Island is only accessible by boat from the shore of Maligne Lake. Tickets for a guided boat tour can be purchased at $35 CAD in advance from the ticket office in Jasper town centre or bought at Maligne Lake itself. The boat trip is a 90 minute round-trip, with a 10 minute stop off at Spirit Island.

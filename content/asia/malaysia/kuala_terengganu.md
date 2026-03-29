@@ -1,6 +1,8 @@
 ---
 title: "Kuala Terengganu"
 type: location
+latitude: 5.329646
+longitude: 103.138327
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ opening_hours: "varies, check site"
 phone: "312.443.3600"
 type: "Public Buildings"
 url: "www.artic.edu"
+latitude: 41.879605
+longitude: -87.623072
 ---
 
 Here are a few suggested hotspots.

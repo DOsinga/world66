@@ -1,6 +1,8 @@
 ---
 title: "Norfolk"
 type: location
+latitude: 52.666667
+longitude: 1.0
 ---
 
 Travel Guide

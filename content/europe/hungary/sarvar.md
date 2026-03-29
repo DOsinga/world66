@@ -1,6 +1,8 @@
 ---
 title: "Sarvar"
 type: location
+latitude: 47.251743
+longitude: 16.934217
 ---
 
 A long stone bridge leads to the five sided Nadasdy Castle (1 Varkerulet), which used to be surrounded by a moat and, beginning from the 16th century, served as a fortress and aristocratic family residence.

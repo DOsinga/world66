@@ -1,6 +1,8 @@
 ---
 title: "Christchurch"
 type: location
+latitude: -43.530955
+longitude: 172.636434
 ---
 
 Christchurch City is located midway down the east coast of the South Island, just north of Banks Peninsula. The South Island's largest city (population 337,000) and main international gateway is a vibrant, cosmopolitan place with exciting festivals, theatre, modern art galleries, great shopping, award-winning attractions and a host of activities.

@@ -7,6 +7,8 @@ date: "6th Jan 2009"
 email: "info@keytovietnam.com"
 phone: "+84-46 297 7616"
 url: "vietnamtravelrates.com"
+latitude: 21.043065
+longitude: 105.82184
 ---
 
 The New Year’s Day is celebrated with great festivities and fervor around the world and Asia is no exception. Nevertheless it is a fact the New Year’s Day in Vietnam or in other Asian Countries is not the same as the West. This is because most of the Asian nations go by the lunar calendar especially while celebrating their festivals. However leaving aside the traditions for a while youth and the general crowd in Vietnam go all the way out to welcome the New Year’s Day in Vietnam along with the rest of the world.

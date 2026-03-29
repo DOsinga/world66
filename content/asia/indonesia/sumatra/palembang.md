@@ -1,6 +1,8 @@
 ---
 title: "Palembang"
 type: location
+latitude: -2.988824
+longitude: 104.756851
 ---
 
 We currently have no information about .

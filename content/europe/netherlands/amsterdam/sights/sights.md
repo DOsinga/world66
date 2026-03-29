@@ -1,6 +1,8 @@
 ---
 title: "Sights"
 type: poi
+latitude: 50.847517
+longitude: 5.693056
 ---
 
 Amsterdam is home to some of the most beautiful sights in Europe. The canals that flow through the city give it great character and style and the museums are renowned all over the world. 

@@ -1,6 +1,8 @@
 ---
 title: "Bocca di Magra"
 type: location
+latitude: 44.046648
+longitude: 9.984746
 ---
 
 Travel Guide

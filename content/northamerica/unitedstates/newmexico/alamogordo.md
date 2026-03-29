@@ -1,6 +1,8 @@
 ---
 title: "Alamogordo"
 type: location
+latitude: 32.899882
+longitude: -105.960208
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Sultanahmet - Istanbul"
 email: "info@allistanbultours.com"
 phone: "00902124582191"
 url: "www.allistanbultours.com"
+latitude: 41.004114
+longitude: 28.976909
 ---
 
 FULL DAY BOSPHORUS CRUISE & TWO CONTINENTS TOUR

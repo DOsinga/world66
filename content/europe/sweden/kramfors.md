@@ -1,6 +1,8 @@
 ---
 title: "Kramfors"
 type: location
+latitude: 62.916667
+longitude: 17.666667
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Lake malawi"
 type: location
+latitude: -14.059423
+longitude: 34.887221
 ---
 
 We currently have no information about Lake malawi.

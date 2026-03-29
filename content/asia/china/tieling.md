@@ -1,6 +1,8 @@
 ---
 title: "Tieling"
 type: location
+latitude: 42.289523
+longitude: 123.83949
 ---
 
 Travel Guide

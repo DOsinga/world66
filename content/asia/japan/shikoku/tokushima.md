@@ -1,6 +1,8 @@
 ---
 title: "Tokushima"
 type: location
+latitude: 33.919642
+longitude: 134.250963
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Things to do"
 type: section
 type: "Hiking"
 url: "www.zurdogo.com"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 While San Francisco is a very expensive city to live in, much like any other major city, you will find that there are plenty of *free* (or nearly free) things to do during your San Francisco trip. Just a few fun free things to do during your San Francisco vacation include:

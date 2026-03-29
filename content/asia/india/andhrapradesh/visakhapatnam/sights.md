@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 type: "Parks, Gardens and Zoos"
 url: "www.visitvizag.in"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 Visakhapatnam (Vizag) City though not jeweled with famous land marks,

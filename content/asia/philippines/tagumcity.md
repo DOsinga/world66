@@ -1,6 +1,8 @@
 ---
 title: "Tagum City"
 type: location
+latitude: 7.447078
+longitude: 125.809485
 ---
 
 Travel Guide

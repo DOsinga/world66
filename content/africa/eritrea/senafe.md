@@ -1,6 +1,8 @@
 ---
 title: "senafe"
 type: location
+latitude: 14.701755
+longitude: 39.424382
 ---
 
 hello

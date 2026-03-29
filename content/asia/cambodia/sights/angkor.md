@@ -2,6 +2,8 @@
 title: "Angkor"
 type: poi
 type: "Hotspots"
+latitude: 13.412438
+longitude: 103.866588
 ---
 
 The celebrated temples of Angkor are Cambodia's greatest tourist attraction. The 100 or so temples are the sacred remains of what was once a much larger administrative and religious centre, and were built between the 9th and 13th centuries to glorify a succession of Khmer kings. The three most magnificent temples are Bayon, Ta Prohm and the immense [Angkor wat](/asia/cambodia/angkorwat). Most of Angkor was abandoned in the 15th century and the temples were gradually cloaked by forest. The site became the source of scholarly interest in the late-19th century after the publication of Voyage à Siam et dans le Cambodge by French naturalist Henri Mouhot. Efforts were undertaken to clear away the jungle vegetation that threatened to completely destroy the monuments, and restoration continues today.

@@ -5,6 +5,8 @@ address: "628 Divisadero"
 phone: "415-771-1421"
 type: "Concerts"
 url: "www.independentsf.com"
+latitude: 37.775528
+longitude: -122.437641
 ---
 
 There's a show here nearly every night. A small venue with great beers on draught (including Fat Tire!) and a full liquor bar. Lots of indie and obscure music, hardly anything mainstream.

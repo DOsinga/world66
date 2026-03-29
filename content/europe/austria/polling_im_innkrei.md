@@ -1,6 +1,8 @@
 ---
 title: "Polling im Innkreis"
 type: location
+latitude: 48.229848
+longitude: 13.28322
 ---
 
 Travel Guide

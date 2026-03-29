@@ -1,6 +1,8 @@
 ---
 title: "Bominaco"
 type: location
+latitude: 42.243811
+longitude: 13.65779
 ---
 
 Bominaco is a village only about 30km from L' Áquila and connected with it by bus. There is a castle on the hill which must give a slendid view of the mountains across the main road to [Sulmona](/europe/italy/abruzzo/sulmona). 

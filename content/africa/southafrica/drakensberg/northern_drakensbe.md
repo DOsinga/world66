@@ -1,6 +1,8 @@
 ---
 title: "Northern Drakensberg"
 type: location
+latitude: -28.617207
+longitude: 29.031599
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Pardi"
 type: location
+latitude: 20.513794
+longitude: 72.92422
 ---
 
 Travel Guide

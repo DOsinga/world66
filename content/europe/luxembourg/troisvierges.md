@@ -1,6 +1,8 @@
 ---
 title: "Troisvierges"
 type: location
+latitude: 50.121265
+longitude: 6.002074
 ---
 
 We currently have no information about Troisvierges.

@@ -6,4 +6,6 @@ email: "mumtaz@em-t.com"
 phone: "04 76 87 19 20"
 url: "www.em-t.com"
 zipcode: "4553"
+latitude: 43.359481
+longitude: 5.335657
 ---

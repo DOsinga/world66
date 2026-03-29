@@ -4,6 +4,8 @@ type: poi
 address: "Av. Fernão de Magalhães"
 type: "Hotspots"
 url: "www.stadiumguide.com"
+latitude: -25.969324
+longitude: 32.570068
 ---
 
 Inaugurated on 16 November 2003, Estádio do Dragão, with a impressive design, has been classified as a five-star ground by UEFA. With seating for more than 50,000 spectators, has a fantastic transparent roof, which has been called a 'veil'.

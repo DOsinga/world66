@@ -4,6 +4,8 @@ type: poi
 address: "Man Hatten"
 email: "dominic@mail.com"
 url: "thiscool.info"
+latitude: 59.483258
+longitude: 16.73864
 ---
 
 printable bowling score sheets

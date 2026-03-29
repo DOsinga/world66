@@ -1,6 +1,8 @@
 ---
 title: "Kombo South"
 type: location
+latitude: 13.214047
+longitude: -16.731177
 ---
 
 Travel Guide

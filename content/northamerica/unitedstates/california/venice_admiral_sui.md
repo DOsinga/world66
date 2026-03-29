@@ -1,6 +1,8 @@
 ---
 title: "Venice Admiral Suites"
 type: location
+latitude: 33.996339
+longitude: -118.481003
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Huesca"
 type: location
+latitude: 42.136061
+longitude: -0.029803
 ---
 
 Huesca lies at the foot of the Pyrenees. It is the second biggest city of the Community of Aragon.

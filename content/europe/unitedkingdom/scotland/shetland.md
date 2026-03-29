@@ -1,6 +1,8 @@
 ---
 title: "Shetland"
 type: location
+latitude: 60.333333
+longitude: -1.333333
 ---
 
 Shetland islands is a group of over one hundred islands north of

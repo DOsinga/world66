@@ -1,6 +1,8 @@
 ---
 title: "Fort Payne"
 type: location
+latitude: 34.444255
+longitude: -85.719689
 ---
 
 Travel Guide

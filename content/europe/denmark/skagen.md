@@ -1,6 +1,8 @@
 ---
 title: "Skagen"
 type: location
+latitude: 57.72597
+longitude: 10.58446
 ---
 
 Skagens Gren is the northernmost tip of the European continent where the meeting of two seas makes surreal wave shapes for miles out to sea. Walking out to the point, a derelict bunker at the edge of the beach is a stark reminder of the strategic importance of this particular stretch of the [Denmark](/europe/denmark) coastline. 

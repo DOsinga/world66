@@ -6,6 +6,8 @@ email: "info@greathimalaya.com"
 phone: "00977-4701263"
 type: "Trekking"
 url: "greathimalaya.com"
+latitude: 28.378046
+longitude: 83.99999
 ---
 
 **"Trekking

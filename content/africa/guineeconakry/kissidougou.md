@@ -1,6 +1,8 @@
 ---
 title: "Kissidougou"
 type: location
+latitude: 9.192389
+longitude: -10.098269
 ---
 
 We currently have no information about Kissidougou.

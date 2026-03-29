@@ -1,6 +1,8 @@
 ---
 title: "Tilton"
 type: location
+latitude: 43.442188
+longitude: -71.588804
 ---
 
 Travel Guide

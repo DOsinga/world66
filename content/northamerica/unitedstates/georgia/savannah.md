@@ -1,6 +1,8 @@
 ---
 title: "Savannah"
 type: location
+latitude: 32.079007
+longitude: -81.092134
 ---
 
 Savannah is very beautiful city in the Southeast of Georgia. History is still very much alive in its streets and stately squares. 

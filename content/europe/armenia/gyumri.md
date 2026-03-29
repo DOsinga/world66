@@ -1,6 +1,8 @@
 ---
 title: "Gyumri"
 type: location
+latitude: 40.785209
+longitude: 43.841609
 ---
 
 Gyumir is a large city in the north of Armenia, close to the border with [Georgia](/northamerica/unitedstates/georgia). The city was almost completely destroyed by an earthquake in 1988, some people still live in temporary houses.

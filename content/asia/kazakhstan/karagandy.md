@@ -1,6 +1,8 @@
 ---
 title: "Karagandy"
 type: location
+latitude: 49.176732
+longitude: 74.181127
 ---
 
 Travel Guide

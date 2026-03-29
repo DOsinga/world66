@@ -3,6 +3,8 @@ title: "Blue Sky Western Bar & Restaurant"
 type: poi
 address: "77 Shanghai Lu"
 phone: "86639197"
+latitude: 21.986091
+longitude: -100.852341
 ---
 
 **Blue Sky Western Bar & Restaurant**

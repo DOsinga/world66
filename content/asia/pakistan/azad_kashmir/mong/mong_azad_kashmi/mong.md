@@ -1,6 +1,8 @@
 ---
 title: "mong"
 type: location
+latitude: 32.64744
+longitude: 73.509144
 ---
 
 Travel Guide

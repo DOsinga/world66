@@ -1,6 +1,8 @@
 ---
 title: "Cambridge"
 type: location
+latitude: 42.365635
+longitude: -71.104002
 ---
 
 Cambridge, [Boston](/northamerica/unitedstates/massachusetts/boston)'s sister city of sorts, lies just across the river, but maintains a charm all of its own. Cambridge serves as an intellectual and cultural center for the greater Boston area, home of Harvard, MIT, and numerous arenas of culture.

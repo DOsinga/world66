@@ -1,6 +1,8 @@
 ---
 title: "Monopoli"
 type: location
+latitude: 40.952237
+longitude: 17.299948
 ---
 
 Travel Guide

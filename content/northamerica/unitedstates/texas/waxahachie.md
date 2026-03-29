@@ -1,6 +1,8 @@
 ---
 title: "Waxahachie"
 type: location
+latitude: 32.394491
+longitude: -96.843936
 ---
 
 Travel Guide

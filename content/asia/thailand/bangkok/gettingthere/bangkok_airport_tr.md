@@ -6,6 +6,8 @@ email: "info@bangkoklimo.org"
 phone: "0813480241"
 type: "By Road"
 url: "www.bangkoklimo.org"
+latitude: 13.761019
+longitude: 100.555675
 ---
 
 There are many choices that you can travel or use transportation at Bangkok Suvarnabhumi Airport. You can take a public bus, a limousine service from airport or taxi where there are crowed people. The better way for you to secure your time and travel is by booking in advance. You can find many transport companies on their website. There is one company which is reliable which is BangkokLimo. You can reserve your trip with them for all around Thailand. This company offers one of the better prices around.

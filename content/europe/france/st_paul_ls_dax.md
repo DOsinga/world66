@@ -1,6 +1,8 @@
 ---
 title: "St Paul lès Dax"
 type: location
+latitude: 43.725316
+longitude: -1.051549
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Amorgos"
 type: location
+latitude: 36.852524
+longitude: 25.898487
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Hong Kong Disneyland"
 type: poi
 type: "Hotspots"
+latitude: 22.31307
+longitude: 114.040985
 ---
 
 Hong Kong Disneyland opened in the Fall of 2005. There are about one-third the

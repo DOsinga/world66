@@ -1,6 +1,8 @@
 ---
 title: "Aliabad"
 type: location
+latitude: 36.305981
+longitude: 74.616672
 ---
 
 Travel Guide

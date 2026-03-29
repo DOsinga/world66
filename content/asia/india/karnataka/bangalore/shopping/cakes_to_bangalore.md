@@ -7,6 +7,8 @@ email: "info@onlinecakedelivery.com"
 phone: "080 4114 3590"
 type: "Antiques"
 url: "www.onlinecakedelivery.com"
+latitude: 12.976794
+longitude: 77.590082
 ---
 
 **Send cakes to bangalore** through

@@ -1,6 +1,8 @@
 ---
 title: "Hakodate"
 type: location
+latitude: 41.768793
+longitude: 140.729008
 ---
 
 Travel Guide

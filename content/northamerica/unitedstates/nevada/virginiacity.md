@@ -1,6 +1,8 @@
 ---
 title: "Virginia City"
 type: location
+latitude: 39.310813
+longitude: -119.649517
 ---
 
 No place defines the old west like Virginia City. In the old days, a huge silver deposit known as the Comstock Lode brought thousands to this hillside east of [Carson City](/northamerica/unitedstates/nevada/carsoncity), even Mark Twain himself spent considerable time here. Once considered more civilized than any other place in the west (including San Francisco), the mines of Virginia City financed a good portion of the Civil War and subsequent boom years. Railroads were built to take out the silver and bring in provisions. Unfortunately, when silver lost favor to gold, Virginia City lost its main source of income. 

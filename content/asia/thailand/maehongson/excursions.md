@@ -1,6 +1,8 @@
 ---
 title: "Excursions"
 type: location
+latitude: 17.154834
+longitude: 103.043506
 ---
 
 **all**

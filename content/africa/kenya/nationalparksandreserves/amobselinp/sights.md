@@ -7,6 +7,8 @@ email: "africanholidaysafaris@yahoo.com"
 phone: "254722971226"
 type: "Hotspots"
 url: "www.africanholidaysafaris.com"
+latitude: 22.350278
+longitude: -102.203611
 ---
 
 African Sermon Safaris offers exciting African Safari holidays, Kenya Safaris, African wildlife tours and travel, Tanzania Safaris, Gorilla Safaris, Uganda Safaris, Gorilla Trekking, Beach Holidays, adventure camping safaris and tours, Kenya and Tanzania safari holidays, incentive tours, Beach safaris, walking safaris

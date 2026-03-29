@@ -4,6 +4,8 @@ type: poi
 address: "via Circonvallazione 1,  Salzano (VE)"
 phone: "041 5745801"
 type: "Bars & Pubs"
+latitude: 45.513382
+longitude: 12.111302
 ---
 
 type: Bars & Pubs

@@ -6,6 +6,8 @@ email: "GlassMuseums@aol.com"
 opening_hours: "Admission by donation, visit Saturdays, Sundays 12-4"
 phone: "909-793-3333"
 url: "glassmuseums.com"
+latitude: 34.068063
+longitude: -117.182769
 ---
 
 The Museum is housed in a 1905 Victorian style home in the picturesque city of Redlands, California. The house at 1157 Orange is the former home of Emma Cryer, daughter of early Redland's settlers Jerome E. and Martha Seymour, and is an historic structure.

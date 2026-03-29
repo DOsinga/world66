@@ -1,6 +1,8 @@
 ---
 title: "Hotels In Albania"
 type: location
+latitude: 40.997765
+longitude: 20.023685
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Mykonos"
 email: "info@mykonostour.com"
 type: "Casinos"
 url: "www.mykonostour.com"
+latitude: 37.451394
+longitude: 25.392315
 ---
 
 mykonos

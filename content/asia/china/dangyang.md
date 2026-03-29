@@ -1,6 +1,8 @@
 ---
 title: "Dangyang"
 type: location
+latitude: 30.823864
+longitude: 111.782397
 ---
 
 Travel Guide

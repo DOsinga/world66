@@ -1,6 +1,8 @@
 ---
 title: "Stamsund"
 type: location
+latitude: 68.130075
+longitude: 13.849229
 ---
 
 Travel Guide

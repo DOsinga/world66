@@ -1,6 +1,8 @@
 ---
 title: "Dundee"
 type: location
+latitude: 56.460594
+longitude: -2.97019
 ---
 
 There are many well known cities in Scotland that offer many exciting cultural attractions, and Dundee is not one of them; not 'well known', that is, but 'cultural attractions' it does have. Being that Dundee has been consistently voted one of the top ten cities in Britain for quality of life probably hints to why it is now the choice of most Edinburgh professionals looking for a hometown without the price tag of said 'Edinburgh'. Still, with growing popularity Dundee remains a lesser known city, good or bad. 

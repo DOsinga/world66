@@ -1,6 +1,8 @@
 ---
 title: "thanjavur"
 type: location
+latitude: 10.659037
+longitude: 79.201428
 ---
 
 Travel Guide

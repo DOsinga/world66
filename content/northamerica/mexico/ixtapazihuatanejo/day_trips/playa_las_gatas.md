@@ -1,6 +1,8 @@
 ---
 title: "Playa Las Gatas"
 type: poi
+latitude: 17.620919
+longitude: -101.551548
 ---
 
 A trip to Las Gatas beach for a day of snorkeling is a "must do" when in Zihuatanejo.

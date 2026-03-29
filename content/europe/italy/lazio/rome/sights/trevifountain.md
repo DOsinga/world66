@@ -2,6 +2,8 @@
 title: "Trevi fountain"
 type: poi
 type: "Hotspots"
+latitude: 41.900978
+longitude: 12.483285
 ---
 
 Halfway between via del Corso and Piazza Barberini on via del Tritone

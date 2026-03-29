@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Shengjin"
 type: location
+latitude: 41.809716
+longitude: 19.598139
 ---
 
 Travel Guide

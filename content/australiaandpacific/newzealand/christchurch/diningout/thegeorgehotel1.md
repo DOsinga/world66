@@ -1,6 +1,8 @@
 ---
 title: "The George Hotel"
 type: location
+latitude: -43.525901
+longitude: 172.628746
 ---
 
 Pescatore Restaurant has an international reputation for its innovative modern cuisine. Open Tuesday to Saturday 6.30pm- 10.00 pm Ph (03) 371 0257 

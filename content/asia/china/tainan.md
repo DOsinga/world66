@@ -1,6 +1,8 @@
 ---
 title: "Tainan"
 type: location
+latitude: 41.360476
+longitude: 122.402956
 ---
 
 Travel Guide

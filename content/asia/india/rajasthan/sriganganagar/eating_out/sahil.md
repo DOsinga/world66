@@ -5,6 +5,8 @@ address: "2 c ravindra path"
 email: "vikas899@yahoo.com"
 phone: "0154 2470259 2472903"
 type: "Indian and Pakistani"
+latitude: 29.927358
+longitude: 73.871159
 ---
 
 Location: located in the heart of sriganganagar, on ravinder path.

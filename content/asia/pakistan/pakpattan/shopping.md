@@ -2,6 +2,8 @@
 title: "Shopping"
 type: section
 type: "Shopping centers and malls"
+latitude: 31.546011
+longitude: 74.376189
 ---
 
 DEPARTMENTAL STORES

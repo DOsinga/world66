@@ -5,6 +5,8 @@ address: "Mali i Robit, Albania"
 email: "c.stanbury@sunrise.ch"
 phone: "+41765166908"
 url: "www.flipkey.com"
+latitude: 41.236268
+longitude: 19.51756
 ---
 
 One of the greatest assets of Albania is its Adriatic coastline, the water and beaches being very clean by Mediterranean norms.

@@ -3,6 +3,8 @@ title: "PIA Planetarium"
 type: poi
 address: "University Road"
 type: "Hotspots"
+latitude: 51.420485
+longitude: -0.176969
 ---
 
 "A planetarium administrated by Pakistan International Airlines offering

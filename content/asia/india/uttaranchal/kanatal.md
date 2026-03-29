@@ -1,6 +1,8 @@
 ---
 title: "Kanatal"
 type: location
+latitude: 30.415334
+longitude: 78.32119
 ---
 
 Travel Guide

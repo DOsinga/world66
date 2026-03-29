@@ -1,6 +1,8 @@
 ---
 title: "Novo mesto"
 type: location
+latitude: 45.804048
+longitude: 15.169668
 ---
 
 Travel Guide

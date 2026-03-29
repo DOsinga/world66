@@ -1,6 +1,8 @@
 ---
 title: "Stirling"
 type: location
+latitude: 49.503059
+longitude: -112.525082
 ---
 
 Located just 20 minutes north of the 401 at Belleville, about halfway between Toronto and Montreal, this community of 2,000 urban residents offers a lifestyle unique to Ontario. Surrounded by rolling, hills and large dairy farms this area has much to offer. 

@@ -1,6 +1,8 @@
 ---
 title: "Badajoz"
 type: location
+latitude: 38.878187
+longitude: -6.970111
 ---
 
 Travel Guide

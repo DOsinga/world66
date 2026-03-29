@@ -5,6 +5,8 @@ email: "info@allindiaflorist.com"
 phone: "00919897064001"
 type: "Hotspots"
 url: "www.allindiaflorist.com"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 http://www.allindiaflorist.com

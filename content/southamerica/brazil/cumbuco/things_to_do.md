@@ -7,6 +7,8 @@ email: "office@casa-cohiba.com"
 phone: "0055 85 8555 1678"
 type: "Surfing"
 url: "www.casa-cohiba.com"
+latitude: -3.632335
+longitude: -38.720235
 ---
 
 You must try kitesurfing. Cumbuco is place with perfect wind for this sport.

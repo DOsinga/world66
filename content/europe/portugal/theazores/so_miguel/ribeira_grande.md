@@ -1,6 +1,8 @@
 ---
 title: "Ribeira Grande"
 type: location
+latitude: 37.822523
+longitude: -25.519491
 ---
 
 Travel Guide

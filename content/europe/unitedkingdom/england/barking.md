@@ -1,6 +1,8 @@
 ---
 title: "Barking"
 type: location
+latitude: 51.540268
+longitude: 0.079324
 ---
 
 Barking has risen from a small fishing village 200 years ago into a a big London Borough together with Dagenham. In some ways it is difficult to imagine modern day Barking as it once was, a fifteenth Century fishing port. The town is easily accessible by road and rail.

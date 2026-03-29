@@ -1,6 +1,8 @@
 ---
 title: "Baramulla"
 type: location
+latitude: 34.20869
+longitude: 74.343498
 ---
 
 Travel Guide

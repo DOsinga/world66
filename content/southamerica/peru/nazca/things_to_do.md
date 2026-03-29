@@ -5,6 +5,8 @@ address: "Nazca"
 email: "fpillaca-alarcon@hotmail.com"
 phone: "0051 56 956814891"
 type: "Trekking"
+latitude: -14.82772
+longitude: -74.937062
 ---
 
 Overflights to the Nazca Lines and Best Adventure in Nazca

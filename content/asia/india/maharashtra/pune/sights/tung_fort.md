@@ -4,6 +4,8 @@ type: poi
 address: "Pune"
 email: "bhatkanti@gmail.com"
 url: "bhatkanti.blogspot.com"
+latitude: 18.521374
+longitude: 73.854507
 ---
 
 Tung is also known as 'Kathingad'. As the name suggests, the fort is

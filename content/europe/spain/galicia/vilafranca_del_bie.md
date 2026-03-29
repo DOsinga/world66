@@ -1,6 +1,8 @@
 ---
 title: "Vilafranca del Bierzo"
 type: location
+latitude: 42.602288
+longitude: -6.815031
 ---
 
 Vilafranca del Bierzo, is the last stage on the

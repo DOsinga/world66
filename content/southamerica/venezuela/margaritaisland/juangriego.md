@@ -1,6 +1,8 @@
 ---
 title: "Juan Griego"
 type: location
+latitude: 11.072075
+longitude: -63.965196
 ---
 
 This is a small but very famous town for only one thing: Its terrific sunshine! There's no better place to watch the sun falling down. Juan Griego is placed in a small bay with an old and tiny spanish fort. It'll be for sure one of you're favorite places.

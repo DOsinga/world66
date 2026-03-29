@@ -1,6 +1,8 @@
 ---
 title: "cairo"
 type: location
+latitude: 30.044388
+longitude: 31.235726
 ---
 
 Travel Guide

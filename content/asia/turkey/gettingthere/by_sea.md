@@ -2,6 +2,8 @@
 title: "By Sea"
 type: poi
 type: "By Sea"
+latitude: 42.591563
+longitude: -70.759374
 ---
 
 **Passenger Ferries: **Apart from numerous cruises in

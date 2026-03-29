@@ -1,6 +1,8 @@
 ---
 title: "Kui Buri"
 type: location
+latitude: 12.069553
+longitude: 99.872073
 ---
 
 Travel Guide

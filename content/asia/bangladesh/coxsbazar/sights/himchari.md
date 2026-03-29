@@ -2,6 +2,8 @@
 title: "Himchari"
 type: poi
 type: "Hotspots"
+latitude: 21.353503
+longitude: 92.047526
 ---
 
 Himchari, is really a hotspot for visitors coming to Cox'sbazar, be

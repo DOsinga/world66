@@ -1,6 +1,8 @@
 ---
 title: "Madison"
 type: location
+latitude: 43.07469
+longitude: -89.384166
 ---
 
 Madison is a town in northern New Jersey and in the Morris County. As

@@ -1,6 +1,8 @@
 ---
 title: "Tuscany"
 type: location
+latitude: 43.458654
+longitude: 11.13892
 ---
 
 Tuscany, Toscana in Italian, is the best known Italian province and the name alone evokes an image of sun, dolce vita and pittoresque little towns. 

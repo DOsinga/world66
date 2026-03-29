@@ -6,6 +6,8 @@ email: "gujrat@yahoogroups.com"
 phone: "0304-4400275"
 type: "Tourist information"
 url: "groups.yahoo.com"
+latitude: 32.562785
+longitude: 74.064535
 ---
 
 Misc Information

@@ -5,6 +5,8 @@ address: "Via Colleoni, 17, Città Alta"
 phone: "035 218535"
 type: "Italian"
 url: "www.ristorantemimmo.com"
+latitude: 45.705005
+longitude: 9.661093
 ---
 
 Pizza and beer or regular restaurant with a white table cloth and an outdoor garden patio for the summer. In the Upper Town.

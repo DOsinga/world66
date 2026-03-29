@@ -1,6 +1,8 @@
 ---
 title: "Pulau Nias"
 type: location
+latitude: 1.042737
+longitude: 97.645176
 ---
 
 One of Indonesia's most exotic destinations, Nias Island combines a great surfing break, the most beautiful of beaches and a culture older than history. 

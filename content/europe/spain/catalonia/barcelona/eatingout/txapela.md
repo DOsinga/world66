@@ -6,6 +6,8 @@ phone: "93 412 0289"
 price: "1/1.50 euro for each tapa"
 type: "Spanish"
 url: "www.angrup.com"
+latitude: 41.389628
+longitude: 2.168314
 ---
 
 A very nice* taperia* right in the Passeig de Gracia, the street of the famous buildings (Casa Batllò and the "Pedrera") created by Gaudi.

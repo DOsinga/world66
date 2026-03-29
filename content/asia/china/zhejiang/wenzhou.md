@@ -1,6 +1,8 @@
 ---
 title: "Wenzhou"
 type: location
+latitude: 27.99639
+longitude: 120.695345
 ---
 
 Travel Guide

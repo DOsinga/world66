@@ -1,6 +1,8 @@
 ---
 title: "Prague"
 type: location
+latitude: 35.486737
+longitude: -96.685017
 ---
 
 Travel Guide

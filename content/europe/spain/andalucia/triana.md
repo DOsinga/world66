@@ -1,6 +1,8 @@
 ---
 title: "Triana"
 type: location
+latitude: 37.383452
+longitude: -6.004067
 ---
 
 We currently have no information about .

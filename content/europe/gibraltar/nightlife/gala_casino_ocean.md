@@ -2,6 +2,8 @@
 title: "Gala Casino Ocean Village"
 type: poi
 type: "Casinos"
+latitude: 36.147918
+longitude: -5.353586
 ---
 
 The new Casino in Ocean Village, Gibraltar is by far the best place to go for a great night out in Gibraltar.

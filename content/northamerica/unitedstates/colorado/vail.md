@@ -1,6 +1,8 @@
 ---
 title: "Vail"
 type: location
+latitude: 39.643803
+longitude: -106.388823
 ---
 
 We currently have no information about .

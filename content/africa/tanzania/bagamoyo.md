@@ -1,6 +1,8 @@
 ---
 title: "Bagamoyo"
 type: location
+latitude: -6.442208
+longitude: 38.906219
 ---
 
 Travel Guide

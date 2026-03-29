@@ -4,6 +4,8 @@ type: section
 address: "Rua Guedes Cabral, 81"
 phone: "3334-3041 / 9197-9415"
 type: "Concerts"
+latitude: -13.01202
+longitude: -38.491695
 ---
 
 Nightlife in Salvador is legendary, and meant to be enjoyed in large, hot helpings. Pelourinho is crammed with little clubs, but for the really great ones head to Rio Vermelho. Along the beach on the east are several good bars and clubs as well.

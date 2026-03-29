@@ -6,6 +6,8 @@ closing_time: "2am"
 phone: "(415)221-7300"
 type: "Pool and billiards"
 url: "FIZZEES.COM"
+latitude: 37.78141
+longitude: -122.461686
 ---
 
 5 TV's, 2 Pool Tables, 2 Pinball Machines, 3 Megatouch Video Machines, Internet Juke Box, Video Golf. Free Pool on Sundays from 10am-2am and Saturdays 10am-6pm.

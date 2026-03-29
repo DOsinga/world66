@@ -1,13 +1,16 @@
 ---
 title: "Dancing"
 type: poi
+latitude: 48.792315
+longitude: 9.297834
 ---
 
 **Place to go outs**
 
 **Baby Love **
 
-A very small club or lounge decorated in'50s style with good house. 
+A very small club or lounge decorated in'50s style with good house.
+ 
 
 address: Kurze Straße 3
 
@@ -29,7 +32,8 @@ tel: +49 (0)211 730350
 
 **Ballermann 6 **
 
-Dusseldorfs best known party place attracts a very mixed crowd. 
+Dusseldorfs best known party place attracts a very mixed crowd.
+ 
 
 address: Bolker Straße 20
 
@@ -37,7 +41,8 @@ tel: +49 (0)211 86 58 90
 
 **Bhagwan **
 
-Extremely popular with the young people, but on Thursdays Club 25 also attracts people in their mid twenties.  
+Extremely popular with the young people, but on Thursdays Club 25 also attracts people in their mid twenties. 
+ 
 
 address: Graf-Adolf-Straße 87
 

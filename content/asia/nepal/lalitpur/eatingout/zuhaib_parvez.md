@@ -7,6 +7,8 @@ phone: "0522-3946930"
 price: "very cheap"
 type: "Cheap"
 url: "no"
+latitude: 26.866192
+longitude: 80.889516
 ---
 
 you may eat as much as you like you shell not have any type of probleb beacuse

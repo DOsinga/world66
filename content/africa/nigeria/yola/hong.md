@@ -1,6 +1,8 @@
 ---
 title: "Hong"
 type: location
+latitude: 10.262295
+longitude: 12.947925
 ---
 
 We currently have no information about Hong.

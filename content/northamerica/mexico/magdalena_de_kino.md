@@ -1,6 +1,8 @@
 ---
 title: "Magdalena de Kino"
 type: location
+latitude: 30.62688
+longitude: -110.961453
 ---
 
 Travel Guide

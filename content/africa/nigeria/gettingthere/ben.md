@@ -3,6 +3,8 @@ title: "Ben"
 type: poi
 email: "benade12@aol.com"
 type: "By Air"
+latitude: 11.907712
+longitude: 6.406962
 ---
 
 You can get to Nigeria mainly by air or road. There are 4 major international airports, Lagos,Abuja,Kano and port Harcourt. Lagos and Abuja being the busiest airports of the four.There are direct flights from several major cities in Europe,Africa,Asia and the Usa some of them are,

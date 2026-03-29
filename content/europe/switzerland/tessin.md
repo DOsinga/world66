@@ -1,6 +1,8 @@
 ---
 title: "Tessin"
 type: location
+latitude: 46.335191
+longitude: 8.75259
 ---
 
 Ticino is a latin land: the Romans brought the vineyards and left important public structures (towns, bridges, alpine passes). The names of numerous villages such as Sonvico and Vico-Morcote testify it.

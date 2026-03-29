@@ -1,6 +1,8 @@
 ---
 title: "Hartlepool"
 type: location
+latitude: 54.685728
+longitude: -1.20937
 ---
 
 Situated on the North East coast of England, Hartlepool enjoys its status as one of England's five "Port Cities" along with Bristol, Liverpool, London, and Southampton.

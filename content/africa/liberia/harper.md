@@ -1,6 +1,8 @@
 ---
 title: "Harper"
 type: location
+latitude: 4.378938
+longitude: -7.706099
 ---
 
 In August 1963,I was sent by my government , to assume the postion of Bandmaster,for the Cape-Palmas Military Band. Following an invitation by President William V S Tubman. I arrived with my wife Edna and our two little children.

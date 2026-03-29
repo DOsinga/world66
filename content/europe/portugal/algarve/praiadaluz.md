@@ -1,6 +1,8 @@
 ---
 title: "Praia da Luz"
 type: location
+latitude: 37.086757
+longitude: -8.725514
 ---
 
 Praia da Luz is a beach destination in the Algarve. 

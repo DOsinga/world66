@@ -5,6 +5,8 @@ address: "Centre de Jour"
 phone: "04 76 80 33 99"
 type: "Italian"
 zipcode: "38750 ALPE D'HUEZ"
+latitude: 49.472043
+longitude: 6.083137
 ---
 
 type: Italian

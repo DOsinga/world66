@@ -1,6 +1,8 @@
 ---
 title: "Ta’if"
 type: location
+latitude: 21.27028
+longitude: 40.415831
 ---
 
 We currently have no information about Ta’if.

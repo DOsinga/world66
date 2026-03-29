@@ -1,6 +1,8 @@
 ---
 title: "Vancouver"
 type: location
+latitude: 49.260872
+longitude: -123.113952
 ---
 
 In both 2001 and 2000, Vancouver has been rated as the city with the best quality of life ... in the world (surveys by the William M. Mercer company). Those of us who live in the area can't argue with that statement. 

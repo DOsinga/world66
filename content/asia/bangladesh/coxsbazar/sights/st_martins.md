@@ -4,6 +4,8 @@ type: poi
 accessibility: "By sea truck from Teknaf."
 address: "Teknaf"
 type: "Landmarks"
+latitude: 20.868457
+longitude: 92.298748
 ---
 
 St. Martin's Island is a small island in the northeast part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. It is about 8 km west of the northwest coast of Myanmar at the mouth of the Naf River. The local name of the island is "Narical Gingira".

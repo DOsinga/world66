@@ -1,6 +1,8 @@
 ---
 title: "Ponca City"
 type: location
+latitude: 36.703647
+longitude: -97.081898
 ---
 
 Travel Guide

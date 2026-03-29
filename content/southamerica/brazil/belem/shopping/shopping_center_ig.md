@@ -5,6 +5,8 @@ address: "Avenida Padre Eutíquio, 1078"
 phone: "+5591 4008 5800"
 type: "Shopping centers and malls"
 url: "www.iguatemibelem.com.br"
+latitude: -1.474684
+longitude: -48.471774
 ---
 
 The Iguatemi Belém was inaugurated in 27 of October of 1993 and is

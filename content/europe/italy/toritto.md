@@ -1,6 +1,8 @@
 ---
 title: "Toritto"
 type: location
+latitude: 40.99823
+longitude: 16.679779
 ---
 
 Travel Guide

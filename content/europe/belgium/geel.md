@@ -1,6 +1,8 @@
 ---
 title: "Geel"
 type: location
+latitude: 51.161083
+longitude: 4.990319
 ---
 
 Travel Guide

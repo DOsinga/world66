@@ -1,6 +1,8 @@
 ---
 title: "Vidin"
 type: location
+latitude: 43.985724
+longitude: 22.877219
 ---
 
 We currently have no information about Vidin.

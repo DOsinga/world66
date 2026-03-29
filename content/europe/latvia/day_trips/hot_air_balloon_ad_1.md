@@ -5,6 +5,8 @@ address: "Riga, Latvia"
 email: "agnese@activetravellatvia.com"
 phone: "+37129116666"
 url: "www.activetravellatvia.com"
+latitude: 56.949398
+longitude: 24.105185
 ---
 
 You will learn to fly in a vertical wind tunnel, to do a hot air balooning. Travel to Latvia, Riga. Make a hot air baloon flight! Enjoy unforgettable experience with the proffessional hot air balloon pilot - see the splendid views of Latvia from above!

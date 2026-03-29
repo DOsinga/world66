@@ -1,6 +1,8 @@
 ---
 title: "Cleveland"
 type: location
+latitude: 41.499657
+longitude: -81.693677
 ---
 
 Cleveland is located on the shores of Lake Erie. It's quite a busy town with many things going on. One of the main attractions is that Cleveland is home to the Rock and Roll Hall of Fame! Where else can you relive the soundtrack of your life? In the museum you can experience over 50 exhibits, dynamic cinema presentations plus the world's largest single collection of rock and roll artifacts. 

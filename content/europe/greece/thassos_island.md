@@ -1,6 +1,8 @@
 ---
 title: "Thassos Island"
 type: location
+latitude: 40.684448
+longitude: 24.651206
 ---
 
 Travel Guide

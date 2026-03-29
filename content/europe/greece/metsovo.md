@@ -1,6 +1,8 @@
 ---
 title: "Metsovo"
 type: location
+latitude: 39.769301
+longitude: 21.183048
 ---
 
 Travel Guide

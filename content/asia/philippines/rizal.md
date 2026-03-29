@@ -1,6 +1,8 @@
 ---
 title: "Rizal"
 type: location
+latitude: 14.65
+longitude: 121.25
 ---
 
 Travel Guide

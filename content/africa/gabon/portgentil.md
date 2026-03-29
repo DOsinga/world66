@@ -1,6 +1,8 @@
 ---
 title: "Port gentil"
 type: location
+latitude: -0.715197
+longitude: 8.778792
 ---
 
 We currently have no information about Port gentil.

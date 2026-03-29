@@ -2,6 +2,8 @@
 title: "Kalijai Island"
 type: poi
 type: "Hotspots"
+latitude: 19.665464
+longitude: 85.214053
 ---
 
 The island of Kalijai is famous as a centre of religious worship due to

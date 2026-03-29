@@ -4,6 +4,8 @@ type: poi
 email: "karimsunderji@msn.com"
 phone: "212493/213238"
 type: "International"
+latitude: -1.2877
+longitude: 36.779085
 ---
 
 Want to twist your taste buds, then why not vist one of the four branches of Tipsy Restaurant located within the city.

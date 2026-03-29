@@ -2,6 +2,8 @@
 title: "Subway Metro"
 type: poi
 url: "www.shenzhenparty.com"
+latitude: 39.844807
+longitude: 116.416828
 ---
 
 The Shenzhen Metro is now a good way to get around. It connects to Hong Kong. A full metro map can be found here:

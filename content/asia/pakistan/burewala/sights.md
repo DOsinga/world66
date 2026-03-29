@@ -3,6 +3,8 @@ title: "Sights in Burewala"
 type: section
 address: "sarwar road lahore cantt"
 type: "Monasteries"
+latitude: 31.540004
+longitude: 74.377003
 ---
 
 **burewala textile mill **is the biggest textile mill in asia and 2nd bigger in the world

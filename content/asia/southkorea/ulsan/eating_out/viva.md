@@ -3,6 +3,8 @@ title: "Viva"
 type: poi
 phone: "052 211 4224"
 type: "Italian"
+latitude: 37.745371
+longitude: 127.217122
 ---
 
 A relatively new addition to the restaurant inventory in Seongnamdong is Italian eatery Viva. It's delectable menu and setting is a taste of Italy in Korea - and all at very reasonable prices.

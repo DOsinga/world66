@@ -1,6 +1,8 @@
 ---
 title: "Baden Baden"
 type: location
+latitude: 48.761072
+longitude: 8.239959
 ---
 
 Travel Guide

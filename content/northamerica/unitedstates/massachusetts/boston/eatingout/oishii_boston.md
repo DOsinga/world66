@@ -7,6 +7,8 @@ phone: "617-482-8868"
 price: "$3-$10 per piece"
 type: "Japanese"
 url: "www.oishiibostohn.com"
+latitude: 42.3433
+longitude: -71.066012
 ---
 
 Although Oishii Boston is considered an upscale restaurant, the environment is rather relaxed. The front dining room features an open sushi bar for your viewing pleasure. The menu focuses on sushi but you can order A la Carte or you can choose between several Japanese entrees and appetizers if you want a bit more than sushi.

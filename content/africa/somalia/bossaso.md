@@ -1,6 +1,8 @@
 ---
 title: "Bossaso"
 type: location
+latitude: 11.002615
+longitude: 49.410723
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Köthen (Anhalt)"
 type: location
+latitude: 51.751033
+longitude: 11.973698
 ---
 
 Travel Guide

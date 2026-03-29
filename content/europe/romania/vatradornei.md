@@ -1,6 +1,8 @@
 ---
 title: "Vatra dornei"
 type: location
+latitude: 47.346926
+longitude: 25.355764
 ---
 
 **Vatra Dornei - **Well known ski resort in the north of Romania. Besides skiing you can visit the monasteries nearby: 

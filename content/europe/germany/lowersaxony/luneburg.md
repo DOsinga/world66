@@ -1,6 +1,8 @@
 ---
 title: "Luneburg"
 type: location
+latitude: 53.248706
+longitude: 10.407855
 ---
 
 Lüneburg, located southeast of Hamburg, is the main economic and administrative centre for the region of northeastern Lower-Saxony. Since the city is directly connected with the A250 highway, the drive to [Hamburg](/europe/germany/hamburg) is only half an hour by car or train. The region of Lüneburg grows by some 2000 people every year. Soon, the city of Lüneburg will reach 70.000 inhabitants. 

@@ -1,6 +1,8 @@
 ---
 title: "England"
 type: location
+latitude: 52.531021
+longitude: -1.264906
 ---
 
 England, the heart of the United Kingdom, shows a lot of different faces: pulsing city life and lonely landscapes, old-fashioned customs and avantgarde culture, mediterranean beaches and rough mountains. 

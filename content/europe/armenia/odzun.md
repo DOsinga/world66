@@ -1,6 +1,8 @@
 ---
 title: "Odzun"
 type: location
+latitude: 41.051653
+longitude: 44.615615
 ---
 
 Odzun (Օձուն) is a village at a dissected plateau above the Debed

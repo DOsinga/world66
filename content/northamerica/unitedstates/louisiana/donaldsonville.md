@@ -1,6 +1,8 @@
 ---
 title: "Donaldsonville"
 type: location
+latitude: 30.105194
+longitude: -90.987592
 ---
 
 Travel Guide

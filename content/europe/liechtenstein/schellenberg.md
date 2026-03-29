@@ -1,6 +1,8 @@
 ---
 title: "Schellenberg"
 type: location
+latitude: 47.231202
+longitude: 9.545802
 ---
 
 We currently have no information about Schellenberg.

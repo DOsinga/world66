@@ -1,6 +1,8 @@
 ---
 title: "Nakhchivan"
 type: location
+latitude: 39.217497
+longitude: 45.406967
 ---
 
 Travel Guide

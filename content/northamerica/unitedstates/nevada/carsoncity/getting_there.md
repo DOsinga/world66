@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 email: "HamsterPumpkin@AOL.com"
 type: "By Road"
+latitude: 39.841319
+longitude: -88.966486
 ---
 
 Carson City is a wonderful place to visit. But how do you get there?

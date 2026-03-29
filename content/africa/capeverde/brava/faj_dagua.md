@@ -1,6 +1,8 @@
 ---
 title: "Fajã d’Agua"
 type: location
+latitude: 14.87149
+longitude: -24.731451
 ---
 
 Travel Guide

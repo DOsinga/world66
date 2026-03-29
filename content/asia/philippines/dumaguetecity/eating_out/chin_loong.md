@@ -3,6 +3,8 @@ title: "Chin Loong"
 type: poi
 address: "Boulevard"
 type: "Chinese"
+latitude: 32.662773
+longitude: -116.290546
 ---
 
 Located along Dumaguete's famous Boulevard stretch. It serves mostly

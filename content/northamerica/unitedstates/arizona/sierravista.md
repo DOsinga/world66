@@ -1,6 +1,8 @@
 ---
 title: "Sierra Vista"
 type: location
+latitude: 31.564769
+longitude: -110.274299
 ---
 
 The City of Sierra Vista was founded around 1956 by a bunch of very bored people looking for a good place to coagulate and subsequently die. Sitting right next to the historic and oft controversial Fort Huachuca, Sierra Vista has one of the most unique and diverse populations in Southern Arizona. Having said that, prepare to meet the freaks. 

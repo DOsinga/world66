@@ -1,6 +1,8 @@
 ---
 title: "Kärdla"
 type: location
+latitude: 59.001242
+longitude: 22.741145
 ---
 
 Travel Guide

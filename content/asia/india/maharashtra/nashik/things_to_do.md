@@ -3,6 +3,8 @@ title: "Things to do"
 type: section
 type: "Other"
 url: "www.trimbakeshwar.com"
+latitude: 12.833965
+longitude: 79.714809
 ---
 
 Visit Trambakeshwar temple, Shirdi Temple, Vani Temple..........

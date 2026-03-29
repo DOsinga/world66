@@ -6,6 +6,8 @@ email: "internet@theinkaadventure.com"
 phone: "084-9932430"
 type: "Tourist information"
 url: "www.theinkaadventure.com"
+latitude: -13.517089
+longitude: -71.978536
 ---
 
 There are many restaurants in all places; these can range from just a few soles to few hundred dollars. Generally a good meal will cost about 15 soles.

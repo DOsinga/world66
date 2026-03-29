@@ -2,6 +2,8 @@
 title: "White cliffs"
 type: poi
 type: "Landmarks"
+latitude: 50.664478
+longitude: -1.5726
 ---
 
 The white cliffs are found along the coast on both sides of Dover. You

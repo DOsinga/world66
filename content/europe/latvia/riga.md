@@ -1,6 +1,8 @@
 ---
 title: "Riga"
 type: location
+latitude: 56.949398
+longitude: 24.105185
 ---
 
 Riga is located on the Baltic Sea. It is the capital of [Latvia](/europe/latvia) and a third of all Latvians live here. In almost all respects the city is the point around which life in Latvia revolves.

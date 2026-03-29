@@ -1,6 +1,8 @@
 ---
 title: "Kritsa"
 type: location
+latitude: 35.155763
+longitude: 25.646143
 ---
 
 Travel Guide

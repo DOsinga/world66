@@ -1,6 +1,8 @@
 ---
 title: "Taxila"
 type: location
+latitude: 33.742279
+longitude: 72.81452
 ---
 
 Travel Guide

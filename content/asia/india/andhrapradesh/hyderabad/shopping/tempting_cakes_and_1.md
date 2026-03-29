@@ -4,6 +4,8 @@ type: poi
 address: "hydrabad"
 email: "cakestohydrabad@hotmail.com"
 type: "Antiques"
+latitude: 24.830564
+longitude: 67.127714
 ---
 
 Right gifts for right person for the right event-that’s the fabulous trio fused together to lift the momentum of your celebration

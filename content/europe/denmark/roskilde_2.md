@@ -1,6 +1,8 @@
 ---
 title: "Roskilde"
 type: location
+latitude: 55.643348
+longitude: 12.081925
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Stanley"
 type: location
+latitude: -51.693062
+longitude: -57.856525
 ---
 
 Travel Guide

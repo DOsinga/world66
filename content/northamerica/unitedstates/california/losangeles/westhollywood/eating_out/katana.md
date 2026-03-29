@@ -5,6 +5,8 @@ address: "8439 W. Sunset Blvd.  West Hollywood, 90069"
 phone: "(323) 650-8585"
 type: "Japanese"
 url: "katanarobata.com"
+latitude: 34.095099
+longitude: -118.374291
 ---
 
 Designer Dodd Mitchell’s sleek, Japanese-style bar/restaurant on the

@@ -1,6 +1,8 @@
 ---
 title: "Lieser"
 type: location
+latitude: 49.919055
+longitude: 7.020769
 ---
 
 Travel Guide

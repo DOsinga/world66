@@ -1,13 +1,18 @@
 ---
 title: "Central Spain"
 type: location
+latitude: 10.648656
+longitude: -61.512539
 ---
 
-The old region Castile and Leon encompasses two ancient kingdoms of the meseta- a flat semi-arid table-top 700-1000 m above sea level. Here they have nine months of winter and -as they say it in Catalan, three months of hell. Besides all this Castile and Leon contains much farmland, splendid cathedrals and palaces.  Cities of interest here are [Ciudad Rodrigo](/europe/spain/centralspain/ciudadrodrigo), [Salamanca](/europe/spain/centralspain/salamanca) and [Valladolid](/europe/spain/centralspain/valladolid). 
+The old region Castile and Leon encompasses two ancient kingdoms of the meseta- a flat semi-arid table-top 700-1000 m above sea level. Here they have nine months of winter and -as they say it in Catalan, three months of hell. Besides all this Castile and Leon contains much farmland, splendid cathedrals and palaces. 
+ Cities of interest here are [Ciudad Rodrigo](/europe/spain/centralspain/ciudadrodrigo), [Salamanca](/europe/spain/centralspain/salamanca) and [Valladolid](/europe/spain/centralspain/valladolid).
+ 
 
 The region of La Mancha you find right beneath the centre of Spain. It's famous for its manchego cheese. It is a rather empty place, there are little notable towns and monuments, but the scenery is quite impressive.
 
-The main attractions here are [Toledo](/europe/spain/centralspain/toledo) and [Ciudad Real](/europe/spain/centralspain/ciudadreal). 
+The main attractions here are [Toledo](/europe/spain/centralspain/toledo) and [Ciudad Real](/europe/spain/centralspain/ciudadreal).
+ 
 
 The Land of the Conquistadores is located along the Portuguese border. The vast majority of Spain’s New World conquerors and explorers came out of this once-harsh region to win an empire for Spain. Today Extremadura is rarely visited by tourists yet it has several towns of interest among them [Merida](/northamerica/mexico/merida) [Caceres](/europe/spain/centralspain/caceres) (a picture-perfect Gothic town that retains much of its medieval character) and Badajoz (a quiet little town with nice architecture).
 

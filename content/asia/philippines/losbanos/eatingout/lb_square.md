@@ -5,6 +5,8 @@ accessibility: "walking distance from university gate"
 address: "Lopez Avenue, Los Baños"
 price: "$2 - up"
 type: "Local"
+latitude: 14.178011
+longitude: 121.242311
 ---
 
 LB Square is the place to go after office for a few rounds of drinks and also for dinner and another few rounds of drinks. :)

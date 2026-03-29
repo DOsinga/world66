@@ -1,6 +1,8 @@
 ---
 title: "Imus"
 type: location
+latitude: 14.429022
+longitude: 120.936584
 ---
 
 Travel Guide

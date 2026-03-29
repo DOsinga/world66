@@ -3,6 +3,8 @@ title: "Vnukovo airport"
 type: poi
 type: "By Air"
 url: "www.vnukovo.ru"
+latitude: 55.607309
+longitude: 37.287276
 ---
 
 Go to their site. They have english version and there is very good "Airport Maps & Directions" section there.

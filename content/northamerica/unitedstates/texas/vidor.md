@@ -1,6 +1,8 @@
 ---
 title: "Vidor"
 type: location
+latitude: 30.131328
+longitude: -94.014802
 ---
 
 Travel Guide

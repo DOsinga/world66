@@ -7,6 +7,8 @@ email: "reservations@hallmarkhotel.com"
 phone: "04-2221999"
 price: "60 AED"
 type: "Chinese"
+latitude: 25.263134
+longitude: 55.327154
 ---
 
 Newly open Restaurant in HALLMARK HOTEL - DEIRA (Star Hospitality L.L.C.)

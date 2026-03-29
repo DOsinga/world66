@@ -1,6 +1,8 @@
 ---
 title: "Corvallis"
 type: location
+latitude: 44.564566
+longitude: -123.262044
 ---
 
 Travel Guide

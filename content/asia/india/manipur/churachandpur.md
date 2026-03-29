@@ -1,11 +1,14 @@
 ---
 title: "Churachandpur"
 type: location
+latitude: 24.346884
+longitude: 93.699414
 ---
 
 Churanchandpur is 59 kilometer to the south of Imphal. It is the district Head Quarter of South-Manipur and an advanced tribal ( Kuki ) town where local hanicrafts are available in the market. 
 
- Acco : Tourist Bunglow. Rs. 50 (D). Resv. : Deputy Director of Tourism, Govt. of Manipur, Imphal, Tel. 220802;
+
+ Acco : Tourist Bunglow. Rs. 50 (D). Resv. : Deputy Director of Tourism, Govt. of Manipur, Imphal, Tel. 220802;
 
 Hotel Rajdoot, Rs. 30-80 (S), 50- 150 (D);
 

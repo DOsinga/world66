@@ -1,6 +1,8 @@
 ---
 title: "Lidköping"
 type: location
+latitude: 58.50372
+longitude: 13.157643
 ---
 
 Travel Guide

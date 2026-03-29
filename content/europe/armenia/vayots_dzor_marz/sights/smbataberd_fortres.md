@@ -2,6 +2,8 @@
 title: "Smbataberd Fortress"
 type: poi
 type: "Castles"
+latitude: 39.87192
+longitude: 45.338159
 ---
 
 This fortress, on a thin peninsula with tall sheer sides, is naturally

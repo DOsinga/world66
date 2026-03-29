@@ -4,6 +4,8 @@ type: poi
 address: "18 Sanlitun Lu, Chaoyang District."
 phone: "6415 1227"
 type: "Dancing"
+latitude: 39.923783
+longitude: 116.448967
 ---
 
 type: Dancing

@@ -1,6 +1,8 @@
 ---
 title: "Townsend, Tn. 37882"
 type: location
+latitude: 35.675366
+longitude: -83.755728
 ---
 
 Travel Guide

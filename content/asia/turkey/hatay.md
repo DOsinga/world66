@@ -1,6 +1,8 @@
 ---
 title: "Hatay"
 type: location
+latitude: 36.345133
+longitude: 36.074802
 ---
 
 We currently have no information about .

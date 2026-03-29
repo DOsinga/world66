@@ -4,6 +4,8 @@ type: poi
 address: "170 Main St"
 phone: "1 (204) 943-2655"
 type: "Fast food"
+latitude: 45.409376
+longitude: -75.678465
 ---
 
 Classic hamburger joint. Sloppy and delicious.

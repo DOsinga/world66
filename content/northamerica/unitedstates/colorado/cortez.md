@@ -1,6 +1,8 @@
 ---
 title: "Cortez"
 type: location
+latitude: 37.349453
+longitude: -108.584073
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Coloane"
 type: location
+latitude: 22.126082
+longitude: 113.567644
 ---
 
 Until quite recently (1910) Coloane was a pirates' nest. Now it's a place to get away from the amazingly crowded city. Coloane has many parks that occupy 20 hectare of land including squares, swan lakes etc. in which more than hundred kinds of birds are bred. In the parks you find the Lord Tan (aka Kam Tong) Temple of Coloane, where you find a dragon boat made of big whale bone. It is decorated with fascinating silk banners. 

@@ -1,6 +1,8 @@
 ---
 title: "Formerum"
 type: location
+latitude: 53.38918
+longitude: 5.305595
 ---
 
 Travel Guide

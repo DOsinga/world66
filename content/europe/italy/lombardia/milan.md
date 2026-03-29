@@ -1,6 +1,8 @@
 ---
 title: "Milan"
 type: location
+latitude: 45.464194
+longitude: 9.189635
 ---
 
 Milan is the biggest city of North Italy. The powerhouse of the country and one of the most stylish cities of the polanet. 

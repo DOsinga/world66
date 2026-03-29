@@ -1,6 +1,8 @@
 ---
 title: "Somerville"
 type: location
+latitude: 42.387597
+longitude: -71.099497
 ---
 
 Travel Guide

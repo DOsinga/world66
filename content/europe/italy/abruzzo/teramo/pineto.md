@@ -1,6 +1,8 @@
 ---
 title: "Pineto"
 type: location
+latitude: 42.607771
+longitude: 14.067103
 ---
 
 Travel Guide

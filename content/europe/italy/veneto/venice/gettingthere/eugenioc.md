@@ -6,6 +6,8 @@ email: "info@venicelink.com"
 phone: "3489210538"
 type: "By Air"
 url: "www.venicelink.com"
+latitude: 43.226802
+longitude: -8.289078
 ---
 
 Marco Polo airport have connections with Venice by Alilaguna water-bus, where €13 gets you a

@@ -1,6 +1,8 @@
 ---
 title: "St. Valery sur Somme"
 type: location
+latitude: 50.188701
+longitude: 1.627915
 ---
 
 St Valery sur Somme - a wonderful medieval town from where William the Conqueror set sail for England.

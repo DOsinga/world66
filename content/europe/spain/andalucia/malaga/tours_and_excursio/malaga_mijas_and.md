@@ -5,6 +5,8 @@ address: "Malaga"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 36.721303
+longitude: -4.421637
 ---
 
 On this private tour you will visit Malaga, Mijas and Ronda with a private local guide and transportation from Malaga…

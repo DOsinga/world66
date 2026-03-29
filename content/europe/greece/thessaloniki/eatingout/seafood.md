@@ -1,9 +1,12 @@
 ---
 title: "Seafood"
 type: poi
+latitude: 37.987163
+longitude: 23.721194
 ---
 
-Thessaloniki is a big port and has great seafood. 
+Thessaloniki is a big port and has great seafood.
+ 
 
 **Restaurants**
 

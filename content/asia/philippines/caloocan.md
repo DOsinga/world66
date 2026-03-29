@@ -1,6 +1,8 @@
 ---
 title: "Caloocan"
 type: location
+latitude: 14.651348
+longitude: 120.9724
 ---
 
 Travel Guide

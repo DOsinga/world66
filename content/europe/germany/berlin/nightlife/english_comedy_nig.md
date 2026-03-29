@@ -6,6 +6,8 @@ email: "info@comedyclub.de"
 phone: "030 48 62 31 86"
 type: "Theatres"
 url: "www.comedyclub.de"
+latitude: 52.529801
+longitude: 13.410003
 ---
 
 Come

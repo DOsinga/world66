@@ -1,6 +1,8 @@
 ---
 title: "Warung Jawa"
 type: poi
+latitude: 12.107299
+longitude: -68.907822
 ---
 
 Combi of food from Surinam and Java. 

@@ -2,6 +2,8 @@
 title: "Lang Co Beach"
 type: location
 type: "general"
+latitude: 16.26927
+longitude: 108.062178
 ---
 
 10km in length, Lang Co beach borders a section of the 1A National Highway close to Hai Van pass, and only 24 km from the Bach Ma. Aside from partaking in the wonderful seafood, you can check out the scenic beauty of nearby Chan May and Lang Co fishing village.

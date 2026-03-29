@@ -5,6 +5,8 @@ address: "Västra g. 59, SE-44231 KUNGÄLV"
 closing_time: "02:00"
 phone: "+46 (0)303-24 97 00"
 type: "Pubs"
+latitude: 57.869268
+longitude: 11.983614
 ---
 
 There are a couple of nice clubs in the center of Kungälv with different trends like football, rock and dancing

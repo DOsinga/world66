@@ -1,6 +1,8 @@
 ---
 title: "Matheran"
 type: location
+latitude: 18.990154
+longitude: 73.270019
 ---
 
 **Matheran** 

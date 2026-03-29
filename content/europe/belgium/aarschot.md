@@ -1,6 +1,8 @@
 ---
 title: "Aarschot"
 type: location
+latitude: 50.984274
+longitude: 4.836429
 ---
 
 Travel Guide

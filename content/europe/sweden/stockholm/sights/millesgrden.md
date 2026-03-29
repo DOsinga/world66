@@ -1,6 +1,8 @@
 ---
 title: "Millesgården"
 type: poi
+latitude: 59.359006
+longitude: 18.121267
 ---
 
 This is sited on the coast of one of the larger islands, Lidingö, with fine views back over the city. It has indoor exhibits, mostly of paintings, but the outdoor sculptures are what you will remember. These are both works by Carl Milles and works that he colllected.

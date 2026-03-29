@@ -1,6 +1,8 @@
 ---
 title: "Pawhuska"
 type: location
+latitude: 36.66334
+longitude: -96.340121
 ---
 
 Travel Guide

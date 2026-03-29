@@ -1,6 +1,8 @@
 ---
 title: "Kitale"
 type: location
+latitude: 1.018076
+longitude: 35.000236
 ---
 
 Kitale is a good-sized town north of Kakamega in the western highlands, and is a very productive agricultural area. It’s important to tourists because it serves as a base for traveling to Mt Elgon to the west and Lodwar to the north. There’s a museum in town which has a nice nature trail out back, and an agroforestry project next to the museum.

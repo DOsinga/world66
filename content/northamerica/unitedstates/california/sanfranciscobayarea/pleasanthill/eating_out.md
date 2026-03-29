@@ -7,6 +7,8 @@ phone: "944-0402"
 price: "$2-12"
 type: "International"
 url: "www.nibblerseatery.com"
+latitude: 30.203305
+longitude: -93.194516
 ---
 
 ### [Nibblers Eatery & Wine Bar](/northamerica/unitedstates/california/sanfranciscobayarea/pleasanthill/eatingout/nibblers_eatery)

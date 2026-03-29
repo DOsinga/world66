@@ -1,6 +1,8 @@
 ---
 title: "Porto Colom"
 type: location
+latitude: 39.423044
+longitude: 3.261471
 ---
 
 Travel Guide

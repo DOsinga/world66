@@ -1,6 +1,8 @@
 ---
 title: "Uttar Pradesh"
 type: location
+latitude: 27.130334
+longitude: 80.859666
 ---
 
 Often reffered to as the cow belt or Hindi belt, Uttar Pradesh has been the most dominant state in Indian politics and culture since Independence, producing nine of India's 13 prime ministers. This is partly because it's the nation's most populous state - it has as many inhabitants as Brazil -and partly because of the central role the region plays in the religious landscape of Hindus. 

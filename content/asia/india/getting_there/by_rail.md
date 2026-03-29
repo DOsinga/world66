@@ -2,6 +2,8 @@
 title: "By Rail"
 type: poi
 type: "By Road"
+latitude: 31.03859
+longitude: 77.376033
 ---
 
 India boasts the biggest network of railway lines in the world, and the rail system is surprisingly efficient. Luxurious it is not, but India's railways are perhaps the best way to get to know the country and its people. A few important tips regarding rail travel:

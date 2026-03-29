@@ -8,6 +8,8 @@ opening_hours: "Call for schedules"
 phone: "323-469-1181"
 type: "Graves and Cemeteries"
 url: "www.hollywoodforever.com"
+latitude: 34.090502
+longitude: -118.319779
 ---
 
 Some of the most famous people on the planet are at rest at this historic Hollywood cemetery. The facility features LifeStory Theaters, web-wired funeral chapels, historic celebrity memorials, gardens, monuments, mausoleums, and more. Walking tours are available on weekends and private tours are avaiable by reservation during the week. During the tour, expect to see the final resting places of Jayne Mansfield, Rudolph Valentino, John Huston, and many more.

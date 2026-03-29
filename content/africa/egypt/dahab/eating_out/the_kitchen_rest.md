@@ -7,6 +7,8 @@ phone: "0020195959764"
 price: "15-30 $"
 type: "Japanese"
 url: "www.thekitchendahab.com"
+latitude: 28.497484
+longitude: 34.516074
 ---
 
 The Kitchen Restaurant is located in the heart of Dahab, offering

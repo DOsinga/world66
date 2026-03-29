@@ -1,6 +1,8 @@
 ---
 title: "Kashan"
 type: location
+latitude: 33.987653
+longitude: 51.442886
 ---
 
 We currently have no information about Kashan.

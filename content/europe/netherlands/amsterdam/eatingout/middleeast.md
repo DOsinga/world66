@@ -1,6 +1,8 @@
 ---
 title: "Middle East"
 type: poi
+latitude: 52.371957
+longitude: 4.895373
 ---
 
 **Restaurants**

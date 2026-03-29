@@ -6,6 +6,8 @@ closing_time: "3h00am"
 phone: "(418) 649-7212"
 type: "Gay and Lesbian"
 url: "www.ledrague.com"
+latitude: 46.810936
+longitude: -71.21681
 ---
 
 This is the main gay place to go to in Quebec city. Multi-area

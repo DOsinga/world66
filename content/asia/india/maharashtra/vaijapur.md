@@ -1,6 +1,8 @@
 ---
 title: "Vaijapur"
 type: location
+latitude: 19.948905
+longitude: 74.833248
 ---
 
 We currently have no information about Vaijapur.

@@ -1,6 +1,8 @@
 ---
 title: "Tirana"
 type: location
+latitude: 41.328148
+longitude: 19.818444
 ---
 
 "/>

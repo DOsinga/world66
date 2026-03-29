@@ -1,6 +1,8 @@
 ---
 title: "Tahiti"
 type: location
+latitude: -17.687344
+longitude: -149.445168
 ---
 
 With a superficy of 1042 km2, Tahiti is the largest of the Polynesian islands. Tahiti population is also the most concentrated especially in [Papeete](/australiaandpacific/frenchpolynesia/tahiti/papeete). 

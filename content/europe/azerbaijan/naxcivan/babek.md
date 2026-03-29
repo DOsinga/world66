@@ -1,6 +1,8 @@
 ---
 title: "Babek"
 type: location
+latitude: 39.254717
+longitude: 45.518982
 ---
 
 Travel Guide

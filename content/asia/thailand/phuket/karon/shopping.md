@@ -6,6 +6,8 @@ email: "info@uniquetailor.com"
 phone: "+66 81 2716875"
 type: "Antiques"
 url: "www.uniquetailor.com"
+latitude: 7.830183
+longitude: 98.295501
 ---
 
 Karon Beach is one of the more exposed beaches on Phuket and in off season the water is too rough for safe swimming, especially for children. The sand is yellower and far grainier than other Phuket beaches (except for Mai Khao Beach in the north). In season however the waters are largely calm and the beach is terrific for swimming. There is almost no shade on the beach, so bring litres of sunscreen or invest in a deckchair and umbrella.

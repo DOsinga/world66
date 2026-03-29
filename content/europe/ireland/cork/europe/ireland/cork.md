@@ -1,6 +1,8 @@
 ---
 title: "Cork"
 type: location
+latitude: 51.898514
+longitude: -8.472642
 ---
 
 It began on an island in the swampy estuary of the River Lee (the name Corcaigh means a marsh), and gradually climbed up the steep banks on either side like a bogman emerging from a stagnant pool.

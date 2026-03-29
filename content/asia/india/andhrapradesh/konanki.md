@@ -1,6 +1,8 @@
 ---
 title: "Konanki"
 type: location
+latitude: 16.504948
+longitude: 79.925341
 ---
 
 Konanki is historical village in Ongole Region.

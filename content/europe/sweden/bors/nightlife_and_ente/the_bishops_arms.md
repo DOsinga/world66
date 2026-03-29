@@ -6,6 +6,8 @@ closing_time: "See above"
 phone: "+46 33 - 101590"
 type: "Pubs"
 url: "www.bishopsarms.com"
+latitude: 57.720155
+longitude: 12.936444
 ---
 
 I have always wondered if the arms are the upper extremities or some kind of weapon. :-)

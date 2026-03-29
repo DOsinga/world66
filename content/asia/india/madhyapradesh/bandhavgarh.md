@@ -1,6 +1,8 @@
 ---
 title: "bandhavgarh"
 type: location
+latitude: 23.644413
+longitude: 81.024502
 ---
 
 Travel Guide

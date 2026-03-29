@@ -1,6 +1,8 @@
 ---
 title: "ojo caliente"
 type: location
+latitude: 36.304045
+longitude: -106.046624
 ---
 
 Travel Guide

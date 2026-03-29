@@ -6,6 +6,8 @@ address: "Calle 69A, #6-19"
 phone: "313-0652"
 price: "Moderate"
 type: "International"
+latitude: 4.703494
+longitude: -74.124891
 ---
 
 In my opinion, one of the best restaurants in the Zona G. Good selection and variety on the menu.

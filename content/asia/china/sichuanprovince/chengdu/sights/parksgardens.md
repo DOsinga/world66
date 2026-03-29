@@ -1,13 +1,16 @@
 ---
 title: "Parks & Gardens"
 type: poi
+latitude: 22.313118
+longitude: 114.044128
 ---
 
 **Sights**
 
 **Chengdu Cultural Park**
 
-Chengdu Cultural Park is next door to the Green Goat Temple. Admission: 5 yuan.  
+Chengdu Cultural Park is next door to the Green Goat Temple. Admission: 5 yuan. 
+ 
 
 address: Yihuan Lu (Chengdu's ring road)
 

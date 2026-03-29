@@ -1,6 +1,8 @@
 ---
 title: "Chikmaglur"
 type: location
+latitude: 22.723924
+longitude: 75.862131
 ---
 
 Travel Guide

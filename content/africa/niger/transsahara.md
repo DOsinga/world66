@@ -1,11 +1,14 @@
 ---
 title: "Trans Sahara"
 type: location
+latitude: 16.900055
+longitude: 7.967952
 ---
 
 To cross the biggest desert of them all is dream many people have. Going through Niger is an option. Here I will try to gather recent reports of travelers who've done it.
 
- Basically there are two routes. One to Algeria and one to Libya, I will try to deal with both of them seperately.
+
+ Basically there are two routes. One to Algeria and one to Libya, I will try to deal with both of them seperately.
 
 **Points of Interest**
 
@@ -13,11 +16,15 @@ To cross the biggest desert of them all is dream many people have. Going through
 
 The route to Algeria passes via [Arlit](/africa/niger/arlit). This is the last major stop before the border.
 
- Recent reports about this route are to be found on the following web pages:
 
- Sahara Overland.  
+ Recent reports about this route are to be found on the following web pages:
 
- Other options include hoing to [more..](/africa/niger/transsahara/algeria)
+
+ Sahara Overland. 
+ 
+
+
+ Other options include hoing to [more..](/africa/niger/transsahara/algeria)
 
 **Libya**
 

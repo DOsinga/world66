@@ -1,6 +1,8 @@
 ---
 title: "Baling Hai Beach"
 type: poi
+latitude: 11.979464
+longitude: 121.909456
 ---
 
 Baling Hai Beach is a quiet little spot far removed from the busy White Beach. It can be reached by the road, but it is far nicer to rent a little boat and sail around the coast to reach this peaceful cove.

@@ -1,6 +1,8 @@
 ---
 title: "Remich"
 type: location
+latitude: 49.544227
+longitude: 6.367606
 ---
 
 We currently have no information about Remich.

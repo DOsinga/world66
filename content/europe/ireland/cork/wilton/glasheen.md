@@ -1,6 +1,8 @@
 ---
 title: "Glasheen"
 type: location
+latitude: 51.884431
+longitude: -8.497009
 ---
 
 More or less wilton like....

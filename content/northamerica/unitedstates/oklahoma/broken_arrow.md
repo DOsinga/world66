@@ -1,6 +1,8 @@
 ---
 title: "Broken Arrow"
 type: location
+latitude: 36.052599
+longitude: -95.790819
 ---
 
 Travel Guide

@@ -3,6 +3,8 @@ title: "Castro 2"
 type: poi
 address: "85 Church St."
 type: "Gay and Lesbian"
+latitude: 52.106811
+longitude: 0.794969
 ---
 
 A Gay Bar So You & Your Mate can Enjoy!

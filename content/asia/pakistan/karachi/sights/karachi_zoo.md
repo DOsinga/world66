@@ -4,6 +4,8 @@ type: poi
 address: "Garden Road, Karachi West."
 opening_hours: "9 AM to 7 PM"
 type: "Parks, Gardens and Zoos"
+latitude: 24.869293
+longitude: 67.022684
 ---
 
 Karachi Zoo Garder, The Biggest Zoo Garden of Pakistan.

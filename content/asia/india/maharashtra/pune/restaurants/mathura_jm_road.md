@@ -4,6 +4,8 @@ type: poi
 address: "JM Road, Pune"
 price: "50-100"
 type: "Indian and Pakistani"
+latitude: 18.519123
+longitude: 73.845096
 ---
 
 Authentic country side indian food at very reasonable prices. It is not very hygenic though. Try zunka bhakri.

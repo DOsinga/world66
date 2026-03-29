@@ -1,6 +1,8 @@
 ---
 title: "Rensselaer"
 type: location
+latitude: 42.709139
+longitude: -73.510773
 ---
 
 Travel Guide

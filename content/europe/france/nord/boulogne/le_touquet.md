@@ -1,6 +1,8 @@
 ---
 title: "Le Touquet"
 type: location
+latitude: 50.520008
+longitude: 1.586453
 ---
 
 Travel Guide

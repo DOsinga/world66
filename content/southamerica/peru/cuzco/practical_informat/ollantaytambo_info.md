@@ -6,6 +6,8 @@ email: "internet@theinkaadventure.com"
 phone: "084-9932430"
 type: "Tourist information"
 url: "www.theinkaadventure.com"
+latitude: -13.517089
+longitude: -71.978536
 ---
 
 The temple-fortress of Ollantaytambo is located some 30 miles outside Cuzco and is built on the hillside above the modern-day village of Ollantaytambo. The huge, steep terraces that form the outer defences of the fortress successfully repelled a Spanish attack in 1536.

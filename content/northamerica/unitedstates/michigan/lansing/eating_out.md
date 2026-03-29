@@ -5,6 +5,8 @@ address: "2006 W. Willow St."
 phone: "(517) 487-6087"
 type: "Italian"
 url: "www.delucaspizza.com"
+latitude: 42.748772
+longitude: -84.578714
 ---
 
 The area’s ethnic restaurants showcase the diverse flavor of our

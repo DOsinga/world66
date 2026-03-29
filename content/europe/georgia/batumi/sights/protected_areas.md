@@ -2,6 +2,8 @@
 title: "Protected Areas"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: 41.898051
+longitude: 46.32552
 ---
 
 Kintrishi

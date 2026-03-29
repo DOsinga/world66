@@ -5,6 +5,8 @@ address: "Ida"
 email: "patrick@fromru.com"
 phone: "Ida"
 url: "www.orienttouch.com"
+latitude: 42.378837
+longitude: -95.494941
 ---
 
 Thank you!

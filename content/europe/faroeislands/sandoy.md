@@ -1,6 +1,8 @@
 ---
 title: "Sandoy"
 type: location
+latitude: 61.833388
+longitude: -6.72399
 ---
 
 Travel Guide

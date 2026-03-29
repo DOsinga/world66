@@ -6,6 +6,8 @@ email: "info@kingfisherseafood.com"
 phone: "(843)785-4442"
 type: "Seafood"
 url: "www.kingfisherseafood.com"
+latitude: 40.038019
+longitude: -124.055745
 ---
 
 Fresh Fish "Never Frozen", spacious dining (inside or outside deck)

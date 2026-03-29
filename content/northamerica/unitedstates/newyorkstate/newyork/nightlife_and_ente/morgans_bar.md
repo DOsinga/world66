@@ -5,6 +5,8 @@ address: "237 Madison Ave"
 phone: "212 686 0300"
 type: "Pubs"
 url: "www.morganshotel.com"
+latitude: 40.74979
+longitude: -73.981086
 ---
 
 One of New York’s hottest nightspots, Morgans Bar is tucked away in a surreally glamorous subterranean world beneath the hotel Lobby. The bar’s rustic exposed brick walls, poured concrete floor, and dozens of flickering candles evoke the feeling of a charming wine-cellar – but for the outrageous collection of furniture, from Louis XVI gilded fauteuil chairs upholstered in bold digitized prints of flowers, an enormous carved sleigh bed fashioned entirely of clear Lucite, chain metal curtains, and side tables that look like melting blocks of ice.

@@ -1,6 +1,8 @@
 ---
 title: "Paihia"
 type: location
+latitude: -35.281241
+longitude: 174.092088
 ---
 
 Travel Guide

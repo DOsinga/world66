@@ -1,6 +1,8 @@
 ---
 title: "Wildlife"
 type: location
+latitude: 21.245642
+longitude: 70.821501
 ---
 
 The state Gujarat offers a great diversity of habitats and has a lot to offer to those that love wildlife. The deep forests at Dang and the Gir give shelter to various sorts of animals, including some of the rarest species that can only be found in Gujarat, such as the Asian lion, the wild ass, the Indian bustard, the four horned antelope (Chowsingha). There are also special bird sanctuaries and an excellent maritime park, when you’re more into the ways of the water. The list that follows is by no means satisfactory and gives only a few names of the many sanctuaries in Gujarat
@@ -17,7 +19,8 @@ tel: +91-278-428644
 
 **Nalsarovar Bird Sanctuary**
 
- 
+
+ 
 
 **Narayan Sarovar Chinkara Sanctuary**
 

@@ -1,6 +1,8 @@
 ---
 title: "Poindimie"
 type: location
+latitude: -20.936936
+longitude: 165.334259
 ---
 
 We currently have no information about Poindimie.

@@ -4,6 +4,8 @@ type: poi
 address: "Bankok International Airport"
 type: "By Air"
 url: "www.sigmahotels.com"
+latitude: 13.912221
+longitude: 100.603531
 ---
 
 International and Domestic flights are now from **Suvarnabhumi**

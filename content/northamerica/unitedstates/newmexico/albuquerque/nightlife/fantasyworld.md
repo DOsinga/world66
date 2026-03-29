@@ -5,6 +5,8 @@ address: "5000 Jefferson St NE,"
 phone: "(505)884-2446"
 type: "Clubs"
 zipcode: "Albuquerque, NM"
+latitude: 41.194881
+longitude: -95.991631
 ---
 
 type: Clubs

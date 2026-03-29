@@ -1,6 +1,8 @@
 ---
 title: "Bahawalnagar"
 type: location
+latitude: 29.993592
+longitude: 73.252762
 ---
 
 Travel Guide

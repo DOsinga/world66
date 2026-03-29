@@ -1,6 +1,8 @@
 ---
 title: "Satara"
 type: location
+latitude: 17.636129
+longitude: 74.298278
 ---
 
 We currently have no information about Satara.

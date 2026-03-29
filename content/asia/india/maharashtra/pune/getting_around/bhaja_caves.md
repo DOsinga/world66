@@ -4,6 +4,8 @@ type: poi
 address: "Bhaja Caves"
 email: "bhatkanti@gmail.com"
 url: "bhatkanti.wordpress.com"
+latitude: 18.728914
+longitude: 73.481309
 ---
 
 Bhaja, a famous Buddhist rock cut shrine of 2nd century is situated

@@ -1,6 +1,8 @@
 ---
 title: "Forest Grove"
 type: location
+latitude: 45.51904
+longitude: -123.111055
 ---
 
 A tiny place on the edge of the Portland area where Oregon hasn't changed much for 30 years but it has everything a person could want including the beach, bus transit to Portland, Skiing and windsurfing (depending on seasons which are generally mild) all within a hour drive. 

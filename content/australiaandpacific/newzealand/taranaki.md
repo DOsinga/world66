@@ -1,6 +1,8 @@
 ---
 title: "Taranaki"
 type: location
+latitude: -39.384806
+longitude: 174.19735
 ---
 
 **Taranaki** lies on the western coast of the

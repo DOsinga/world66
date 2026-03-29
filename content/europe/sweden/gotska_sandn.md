@@ -1,6 +1,8 @@
 ---
 title: "Gotska Sandön"
 type: location
+latitude: 58.367546
+longitude: 19.257578
 ---
 
 Gotska Sandön is a very isolated island in the middle of the Baltic Sea, 38 km N of Gotland. It consists entirely of sand, which is about 70 m deep. It is 9 by 6 km in size and the sand is constantly shaping and re-shaping its surface. The highest sand dune reaches 43 m a.s.l. The whole island is a national park.

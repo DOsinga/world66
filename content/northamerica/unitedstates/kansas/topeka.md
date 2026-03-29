@@ -1,6 +1,8 @@
 ---
 title: "Topeka"
 type: location
+latitude: 39.049011
+longitude: -95.677556
 ---
 
 Topeka is the capital of Kansas. It is located in the middle of the eastern half of the state. 

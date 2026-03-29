@@ -1,6 +1,8 @@
 ---
 title: "Serres"
 type: location
+latitude: 41.091071
+longitude: 23.549803
 ---
 
 Travel Guide

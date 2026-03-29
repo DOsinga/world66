@@ -1,6 +1,8 @@
 ---
 title: "Passu"
 type: location
+latitude: 36.465816
+longitude: 74.894326
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ email: "alyakhor@gmail.com"
 phone: "+962 779 831 414"
 type: "Spa and Sauna"
 url: "www.alyakhorturkishbath.com"
+latitude: 30.322166
+longitude: 35.454857
 ---
 
 An experience beyond your imagination

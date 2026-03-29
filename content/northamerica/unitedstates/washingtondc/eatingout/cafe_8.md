@@ -8,6 +8,8 @@ phone: "202 547 1555"
 price: "$15"
 type: "International"
 url: "www.cafe8dc.com"
+latitude: 38.883037
+longitude: -76.994678
 ---
 
 www.cafe8dc.com

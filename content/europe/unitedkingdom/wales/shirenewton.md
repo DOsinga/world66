@@ -1,6 +1,8 @@
 ---
 title: "Shirenewton"
 type: location
+latitude: 51.638722
+longitude: -2.753262
 ---
 
 Shirenewton is a small village close to Earlswood forest, on the road B4235 between Usk and Chepstow. Though only 15 minutes from the Severn bridges and some 40 minutes from Newport it's well situated in a very nice environment. There are several pubs, golfcourses and at Parsons Grove cottages are for rent. (www.parsonsgrove.co.uk)

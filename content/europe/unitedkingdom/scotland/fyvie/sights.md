@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 type: "Parks, Gardens and Zoos"
 url: "www.nts.org.uk"
+latitude: 54.046233
+longitude: -2.900523
 ---
 
 If you are situated in Fyvie you are well placed to explore the countryside and coastline of Aberdeenshire.

@@ -1,6 +1,8 @@
 ---
 title: "Eze-bord-de-mer"
 type: location
+latitude: 43.721683
+longitude: 7.356326
 ---
 
 We currently have no information about Eze-bord-de-mer.

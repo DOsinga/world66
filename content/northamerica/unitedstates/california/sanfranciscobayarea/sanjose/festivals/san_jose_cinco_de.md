@@ -5,6 +5,8 @@ address: "downtown"
 email: "sjgif@sjgif.org"
 phone: "408-288-9470"
 url: "www.sjgif.org"
+latitude: 34.047996
+longitude: -118.2521
 ---
 
 Every Cinco de Mayo weekend there's a parade in downtown San Jose in honor of

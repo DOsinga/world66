@@ -6,6 +6,8 @@ opening_hours: "7.55-810"
 phone: "9880046144"
 type: "Hotspots"
 url: "www.kovalam.com"
+latitude: 12.972772
+longitude: 77.724139
 ---
 
 ### Kovalam International Beach

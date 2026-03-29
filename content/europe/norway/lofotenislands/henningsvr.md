@@ -1,6 +1,8 @@
 ---
 title: "Henningsvær"
 type: location
+latitude: 68.152888
+longitude: 14.200724
 ---
 
 Travel Guide

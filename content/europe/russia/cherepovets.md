@@ -1,6 +1,8 @@
 ---
 title: "Cherepovets"
 type: location
+latitude: 59.124218
+longitude: 37.912335
 ---
 
 Travel Guide

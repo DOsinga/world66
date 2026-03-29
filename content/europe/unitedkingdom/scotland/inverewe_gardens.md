@@ -1,6 +1,8 @@
 ---
 title: "Inverewe Gardens"
 type: location
+latitude: 55.80093
+longitude: -4.333188
 ---
 
 Inverewe Gardens might not normally be regarded as a region but it cannot be less like a city! It is not near any town of any size but is between Gairloch and Ullapool beyond the end of beautiful Loch Maree. It should be included in any tour of northwest Scotland if you have the slightest interest in gardens or plants.

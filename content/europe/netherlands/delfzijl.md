@@ -1,6 +1,8 @@
 ---
 title: "Delfzijl"
 type: location
+latitude: 53.332564
+longitude: 6.913514
 ---
 
 We currently have no information about Delfzijl.

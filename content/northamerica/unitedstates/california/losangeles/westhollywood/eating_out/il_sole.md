@@ -4,6 +4,8 @@ type: poi
 address: "8741 Sunset Blvd."
 phone: "(310) 657-1182"
 type: "Italian"
+latitude: 34.091268
+longitude: -118.382137
 ---
 
 Located in the always-bustling Sunset Plaza on

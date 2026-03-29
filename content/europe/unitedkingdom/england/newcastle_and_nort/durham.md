@@ -1,6 +1,8 @@
 ---
 title: "Durham"
 type: location
+latitude: 54.666667
+longitude: -1.75
 ---
 
 It is surprising how many visitors to the UK rush from [London](/europe/unitedkingdom/england/london) to

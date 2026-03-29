@@ -1,6 +1,8 @@
 ---
 title: "Norwich"
 type: location
+latitude: 52.628558
+longitude: 1.292395
 ---
 
 Travel Guide

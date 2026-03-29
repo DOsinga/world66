@@ -8,6 +8,8 @@ phone: "604 932 0688"
 price: "moderate"
 type: "Local"
 url: "www.edgewater-lodge.com"
+latitude: -36.165942
+longitude: 148.065331
 ---
 
 **The Edgewater**

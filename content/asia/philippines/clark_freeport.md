@@ -1,6 +1,8 @@
 ---
 title: "Clark Freeport"
 type: location
+latitude: 15.181068
+longitude: 120.527429
 ---
 
 Travel Guide

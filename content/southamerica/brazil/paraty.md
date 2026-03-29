@@ -1,6 +1,8 @@
 ---
 title: "Paraty"
 type: location
+latitude: -23.219646
+longitude: -44.71542
 ---
 
 Beautiful colonial city, located 125 miles southeast of Rio de Janeiro, considered a National Historical Monument(Unesco), it preserves until today its countless natural and architectural charms.

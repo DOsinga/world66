@@ -1,6 +1,8 @@
 ---
 title: "Arvind"
 type: location
+latitude: 23.272592
+longitude: 85.413495
 ---
 
 Travel Guide

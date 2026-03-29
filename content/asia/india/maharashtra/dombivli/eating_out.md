@@ -8,6 +8,8 @@ phone: "1"
 price: "1"
 type: "Local"
 url: "1"
+latitude: 69.179381
+longitude: 17.968714
 ---
 
 cricket

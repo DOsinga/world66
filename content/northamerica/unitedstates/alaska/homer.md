@@ -1,6 +1,8 @@
 ---
 title: "Homer"
 type: location
+latitude: 59.645406
+longitude: -151.544564
 ---
 
 Homer has a lot to offer besides the abundant **espresso** cafes. For a full background and cultural feel of this weird *drinking town with a fishing problem* the Pratt Museum is a must go. Located on the corner of Bartlett Street and Pioneer Avenue which is the primary business and tourist thoroughfare of upper Homer, it provides cultural insights of the residents and a guided **botanical garden** to learn of the many edible plants that grow wild on the Kenai Penninsula of Alaska. If you desire fine dinning and a pleasant wine and beer patio, be sure to stop in at **Cups Cafe** just down the ave. about half a block. 

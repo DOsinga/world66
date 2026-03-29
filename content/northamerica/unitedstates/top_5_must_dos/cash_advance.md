@@ -5,6 +5,8 @@ address: "538 W 21st St #65155"
 email: "caroldmoore820@gmail.com"
 phone: "866-613-2567"
 url: "www.cashadvance.com"
+latitude: 40.746771
+longitude: -74.006204
 ---
 
 Normal

@@ -4,4 +4,6 @@ type: poi
 address: "106 Beach St"
 phone: "(831) 423-5271"
 zipcode: "Santa Cruz, CA 95060-5413"
+latitude: -33.917388
+longitude: 151.258507
 ---

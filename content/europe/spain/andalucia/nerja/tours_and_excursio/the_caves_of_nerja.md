@@ -5,6 +5,8 @@ address: "Malaga"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 36.721303
+longitude: -4.421637
 ---
 
 On this half day private tour we will visit Nerja from Malaga, the major coastal city of Andalucia and is a genuine. Nerja is perched on a captivating cliff, Nerja's natural scenery is an artist's delight. Its immense caves, dating to prehistoric times were discovered only in 1959.

@@ -1,6 +1,8 @@
 ---
 title: "Volgograd"
 type: location
+latitude: 48.708191
+longitude: 44.515335
 ---
 
 We currently have no information about Volgograd.

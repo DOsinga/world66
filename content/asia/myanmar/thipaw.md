@@ -1,6 +1,8 @@
 ---
 title: "Thipaw"
 type: location
+latitude: 16.839098
+longitude: 96.277096
 ---
 
 Travel Guide

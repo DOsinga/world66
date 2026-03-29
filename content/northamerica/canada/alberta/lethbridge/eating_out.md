@@ -4,6 +4,8 @@ type: section
 address: "1264 3 Av S"
 phone: "1.403.329.8979"
 type: "Italian"
+latitude: 49.696247
+longitude: -112.82542
 ---
 
 Lethbridge has a wide range of traditional Western foods as well as

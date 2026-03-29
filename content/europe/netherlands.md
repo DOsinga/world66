@@ -1,6 +1,8 @@
 ---
 title: "Netherlands"
 type: location
+latitude: 52.243498
+longitude: 5.634323
 ---
 
 The Netherlands is a small monarchy in the Northwest of Europe, between the North Sea, [Germany](/europe/germany) and [Belgium](/europe/belgium), known for much more than cheese, windmills, tulips.

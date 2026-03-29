@@ -1,6 +1,8 @@
 ---
 title: "Jhansi"
 type: location
+latitude: 25.529855
+longitude: 78.65278
 ---
 
 Jhansi lies on the Delhi-Bombay and DelhiMadras lines. Situated at ah

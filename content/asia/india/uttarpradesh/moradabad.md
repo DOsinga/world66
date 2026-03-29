@@ -1,6 +1,8 @@
 ---
 title: "Moradabad"
 type: location
+latitude: 28.879655
+longitude: 78.809534
 ---
 
 Travel Guide

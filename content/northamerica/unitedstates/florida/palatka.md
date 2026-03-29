@@ -1,6 +1,8 @@
 ---
 title: "Palatka"
 type: location
+latitude: 29.648788
+longitude: -81.637211
 ---
 
 Travel Guide

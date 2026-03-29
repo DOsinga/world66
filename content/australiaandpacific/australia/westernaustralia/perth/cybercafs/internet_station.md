@@ -8,6 +8,8 @@ phone: "61-8-9226-5373"
 price: "A$3/hour"
 type: "Internet Cafe"
 url: "www.internetstation.com.au"
+latitude: -31.951145
+longitude: 115.858189
 ---
 
 18 PCs, printers, scanners, CD/DVD burn, memory card reader, soft drinks, mineral water, greeting cards, foto copy, fax (send & receive).

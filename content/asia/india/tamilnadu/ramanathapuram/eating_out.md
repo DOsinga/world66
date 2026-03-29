@@ -5,6 +5,8 @@ address: "Raja Veethi"
 price: "Economical"
 type: "Vegetarian"
 zipcode: "623 501"
+latitude: 10.412241
+longitude: 76.122613
 ---
 
 Idly, Vada, Dosai, Masala Dosai, Rava Dosai, Uttappam, Variety sweets, Pongal, Curd Rice, Lemon Rice, Poori, Chappathi,....

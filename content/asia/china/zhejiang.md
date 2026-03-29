@@ -1,6 +1,8 @@
 ---
 title: "Zhejiang"
 type: location
+latitude: 29.0
+longitude: 120.0
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: section
 accessibility: "by train from Helsinki, Kotka, Kouvola"
 address: "Myllykoski"
 type: "Hotspots"
+latitude: 60.771009
+longitude: 26.786649
 ---
 
 **Kymmene River**, **Kuusankoski**, **Ankkapurha**, **Myllykoski Falls** and **Valkeala lake district** are most famous

@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Shkodra"
 type: location
+latitude: 42.068306
+longitude: 19.516265
 ---
 
 Travel Guide

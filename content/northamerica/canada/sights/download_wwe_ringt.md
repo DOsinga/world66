@@ -8,6 +8,8 @@ opening_hours: "Vicky"
 phone: "Vicky"
 type: "1"
 url: "pages.slc.edu"
+latitude: 38.392755
+longitude: -90.38011
 ---
 
 Great work!

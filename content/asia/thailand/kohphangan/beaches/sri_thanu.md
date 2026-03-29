@@ -1,6 +1,8 @@
 ---
 title: "Sri Thanu"
 type: poi
+latitude: 9.750715
+longitude: 99.966235
 ---
 
 **Sri Thanu** is a volcanic peninsula that is positioned on the west coast of Koh Phangan within 5 minutes of Thongsala. There is a coral reef offshore that is easily accessible for swimmers. The bay is pictureesque and offers a range of accommodation including [**Loyfa Bungalows.**](/asia/thailand/kohphangan/accommodation/loyfa_bungalows)

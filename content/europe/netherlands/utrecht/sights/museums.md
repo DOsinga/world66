@@ -1,6 +1,8 @@
 ---
 title: "Museums"
 type: poi
+latitude: 52.357271
+longitude: 4.88154
 ---
 
 **Sights**
@@ -51,7 +53,8 @@ pc: 3511 NP
 
 **Rietveld-Schröderhuis**
 
-One of the best examples of the ‘Style’ architecture and designed by the famous Dutch architect Rietveld. Make appointments 
+One of the best examples of the ‘Style’ architecture and designed by the famous Dutch architect Rietveld. Make appointments
+ 
 
 address: Prins Hendriklaan 50 A
 

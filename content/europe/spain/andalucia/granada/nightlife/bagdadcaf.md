@@ -3,6 +3,8 @@ title: "Bagdad Café"
 type: poi
 address: "c/ Elvira"
 type: "Bars & Cafes"
+latitude: 25.661024
+longitude: -107.651553
 ---
 
 type: Bars & Cafes

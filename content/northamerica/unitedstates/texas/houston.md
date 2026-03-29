@@ -1,6 +1,8 @@
 ---
 title: "Houston"
 type: location
+latitude: 29.758938
+longitude: -95.367697
 ---
 
 With great restaurants, easy transportation via trolley and one of the finest convention centers in the country, Houston is a great city to spend some time. 

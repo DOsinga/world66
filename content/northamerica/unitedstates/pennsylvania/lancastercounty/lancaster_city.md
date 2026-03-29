@@ -1,6 +1,8 @@
 ---
 title: "Lancaster City"
 type: location
+latitude: 42.84683
+longitude: -90.709258
 ---
 
 Travel Guide

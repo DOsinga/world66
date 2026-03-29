@@ -2,6 +2,8 @@
 title: "London Heathrow Airport"
 type: poi
 type: "Airport"
+latitude: 51.467739
+longitude: -0.45878
 ---
 
 London Heathrow Airport (IATA: LHR, ICAO: EGLL), often referred to as

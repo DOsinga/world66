@@ -6,6 +6,8 @@ opening_hours: "varies by season"
 phone: "312 742 2000"
 type: "Parks, Gardens and Zoos"
 url: "www.lpzoo.com"
+latitude: 41.920382
+longitude: -87.637698
 ---
 
 **Lincoln Park Zoo** has as many events as it does exhibits. It's very family-oriented, with a huge petting zoo/living farm program. They do many presentations during the day, often in smaller, intimate groups - and often with animals.

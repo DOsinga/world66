@@ -4,6 +4,8 @@ type: poi
 accessibility: "Natasha Homes"
 address: "South Highway - Banilad"
 phone: "09057789299"
+latitude: 9.260896
+longitude: 123.293851
 ---
 
 A fab new resto-bar, with live acts every Friday and Saturday Evening, followed by a disco, playing all your favourite tracks on request

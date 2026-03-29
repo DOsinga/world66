@@ -1,6 +1,8 @@
 ---
 title: "Itaipu"
 type: location
+latitude: -25.424615
+longitude: -54.567029
 ---
 
 Travel Guide

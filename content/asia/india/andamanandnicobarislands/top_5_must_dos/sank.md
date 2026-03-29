@@ -1,6 +1,8 @@
 ---
 title: "sank"
 type: poi
+latitude: 21.937266
+longitude: 79.000187
 ---
 
 Radhanagar Beach

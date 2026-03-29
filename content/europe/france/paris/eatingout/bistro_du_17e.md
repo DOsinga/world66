@@ -4,6 +4,8 @@ type: poi
 email: "toby.mcquire@yahoo.com"
 type: "French"
 url: "www.weetra.com"
+latitude: 48.875862
+longitude: 2.293757
 ---
 
 This place is great for a nice romantic dinner or maybe with friends or family (nothing for kids though (meaning, you would get the looks you don't need)).

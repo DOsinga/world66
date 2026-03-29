@@ -5,6 +5,8 @@ accessibility: "Wheelchair accessible."
 address: "1111 South Eastern"
 phone: "(405) 670-2611"
 type: "Antiques"
+latitude: 35.453335
+longitude: -97.479058
 ---
 
 From the antiques and collectibles shops up and down May Street to several great flea markets, Oklahoma City is a great place for antiques, collectibles and good ole junk.

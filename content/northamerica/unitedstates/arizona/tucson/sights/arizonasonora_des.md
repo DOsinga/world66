@@ -7,6 +7,8 @@ opening_hours: "Open daily March-October: 7:30am-5pm, October-February: 8:30am-5
 phone: "(520) 883-2702"
 type: "Parks, Gardens and Zoos"
 url: "www.desertmuseum.org"
+latitude: 32.243707
+longitude: -111.167396
 ---
 
 Zoo, botanical garden and natural history museum featuring the plants

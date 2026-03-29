@@ -1,6 +1,8 @@
 ---
 title: "Stockholm"
 type: location
+latitude: 47.042522
+longitude: -68.139954
 ---
 
 Travel Guide

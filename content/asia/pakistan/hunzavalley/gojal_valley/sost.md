@@ -1,6 +1,8 @@
 ---
 title: "Sost"
 type: location
+latitude: 36.689719
+longitude: 74.820554
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Mahabaleshwar"
 type: location
+latitude: 17.924276
+longitude: 73.65758
 ---
 
 Mahabaleshwar is a very popular hill station at an altitude of 1372 mtrs. above sea level. When you feel like even fresher air, go there suring winter (October to February)or when you want to flee from the heat of the plains, go there during summer (March to June) or suring the dampy Monsoon (June until September). Mahabaleshwar is also better known as Strawberry Country and is a true paradise for honeymoon couples. 

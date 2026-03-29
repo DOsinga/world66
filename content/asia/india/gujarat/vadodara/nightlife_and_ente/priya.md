@@ -3,6 +3,8 @@ title: "Priya"
 type: poi
 address: "Gotri"
 type: "Theatres"
+latitude: 22.314249
+longitude: 73.138812
 ---
 
 This is a single screen cinema.

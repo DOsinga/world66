@@ -2,6 +2,8 @@
 title: "By Air"
 type: poi
 type: "By Air"
+latitude: 32.562422
+longitude: 76.180594
 ---
 
 Indian Airlines, Jagson and recently Deccan Airlines have their regular flights from

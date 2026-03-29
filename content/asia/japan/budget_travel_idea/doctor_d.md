@@ -4,6 +4,8 @@ type: poi
 email: "benedict.davies@gmail.com"
 phone: "+44 (0)7801 445156"
 url: "www.iconicguides.com"
+latitude: 43.556684
+longitude: -5.92534
 ---
 
 Iconic Guides are a series of in-depth and absorbing audio tours of the monuments of some of the world’s greatest ancient civilisations, including Japan, Egypt and Greece. The Japanese series contains a range of guides to some of the most popular temple sites in ancient Kyoto and Nara.

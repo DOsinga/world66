@@ -3,6 +3,8 @@ title: "Sinapdan Island"
 type: poi
 address: "Sinapdan island, 6500 Tacloban City, Philippines"
 phone: "+639296716015"
+latitude: 11.271121
+longitude: 124.981295
 ---
 
 Situated on the idyllic San Juanico Strait is the island of Sinapdan. Embark on a 15-minute water ride via a Pump-boat (outrigger) from the city of Tacloban to the island of Sinapdan. Enjoy the clear waters and a great view of Tacloban City and San Juanico Bridge. From time to time, get a chance to take a glimpse of the nearly extinct pawikans and pagi (sting rays) whose habitat is the surrounding waters of Sinapdan.

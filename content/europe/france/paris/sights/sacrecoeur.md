@@ -1,6 +1,8 @@
 ---
 title: "Sacre Coeur"
 type: poi
+latitude: 48.886806
+longitude: 2.343015
 ---
 
 The Sacre Coeur probably numbers in the top 5 of monuments of Paris. This is a bit strange, because the basilica is not very old. It probably stems from the great location; in one of the nicest quarters of Paris, on top of a hill and overlooking all of Paris.

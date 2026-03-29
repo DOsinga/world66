@@ -1,6 +1,8 @@
 ---
 title: "Geirangerfjord"
 type: location
+latitude: 62.101714
+longitude: 7.096739
 ---
 
 Of course it is common for fjiords to make claim to be the best, the prettiest or what have you. It's almost impossible to compare some but if this doesn't rank maong Norway's best sights, it would be fantastic to see places that do! 

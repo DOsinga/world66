@@ -6,6 +6,8 @@ email: "ciccio@ristoranteciccio.it"
 phone: "+39 0187 65568"
 type: "Italian"
 url: "ristoranteciccio.it"
+latitude: 43.53371
+longitude: 10.309402
 ---
 
 Choices for eating out go from local cuisine being mainly based on fish to crepes or eating a hot dog sittin on the dock o' the bay.

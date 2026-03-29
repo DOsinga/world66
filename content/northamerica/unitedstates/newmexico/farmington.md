@@ -1,6 +1,8 @@
 ---
 title: "Farmington"
 type: location
+latitude: 44.640243
+longitude: -93.14355
 ---
 
 Travel Guide

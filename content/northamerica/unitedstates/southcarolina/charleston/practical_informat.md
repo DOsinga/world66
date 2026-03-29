@@ -6,6 +6,8 @@ email: "kristi@thetraceygroup.com"
 phone: "843-270-1300"
 type: "Money matters"
 url: "www.follybeachrealestateguide.com"
+latitude: 32.719417
+longitude: -79.966641
 ---
 
 If you are interested in relocating to Charleston, you will need a knowledgeable real estate agent. Kristi Reagor is the expert on several of the James Island neighborhoods such as Stonefield and Wexford Sound.

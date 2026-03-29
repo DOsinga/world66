@@ -2,6 +2,8 @@
 title: "Surfing"
 type: location
 type: "Spa and Sauna"
+latitude: -34.043821
+longitude: 18.350318
 ---
 
 Cape Town has many exellent surf spots. About 48 spot lie within an

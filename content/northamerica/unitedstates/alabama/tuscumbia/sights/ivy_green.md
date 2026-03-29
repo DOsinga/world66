@@ -6,6 +6,8 @@ opening_hours: "See text"
 phone: "(256) 383-4066"
 type: "Memorials"
 url: "www.helenkellerbirthplace.org"
+latitude: 34.737197
+longitude: -87.690759
 ---
 
 This is the birthplace of Helen Keller. An excellent time to visit Ivy

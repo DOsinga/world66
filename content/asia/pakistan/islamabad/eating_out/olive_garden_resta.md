@@ -7,6 +7,8 @@ phone: "051 2610914-15"
 price: "normal"
 type: "Italian"
 url: "www.olivegareden.com.pk"
+latitude: 33.694594
+longitude: 73.034856
 ---
 
 **Olive Garden** is snuggly tucked away in the posh

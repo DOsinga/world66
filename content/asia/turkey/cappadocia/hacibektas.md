@@ -1,6 +1,8 @@
 ---
 title: "Hacibektas"
 type: location
+latitude: 38.942884
+longitude: 34.560882
 ---
 
 Travel Guide

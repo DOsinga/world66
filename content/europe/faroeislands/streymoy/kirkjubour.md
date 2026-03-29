@@ -1,6 +1,8 @@
 ---
 title: "Kirkjubour"
 type: location
+latitude: 61.953708
+longitude: -6.793406
 ---
 
 Travel Guide

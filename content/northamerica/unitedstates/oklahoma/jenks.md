@@ -1,6 +1,8 @@
 ---
 title: "Jenks"
 type: location
+latitude: 36.022873
+longitude: -95.968328
 ---
 
 Travel Guide

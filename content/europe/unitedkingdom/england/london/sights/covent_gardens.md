@@ -2,6 +2,8 @@
 title: "Covent Gardens"
 type: poi
 type: "Hotspots"
+latitude: 52.085171
+longitude: -2.354716
 ---
 
 This bustling little hotspot in the heart of London is the perfect place to wander, shop, and party. Filled with amusing street performers, wacky stores, many theatres, and numerous pubs, Covent Gardens is open 24 hours. The perfect place to shop during the day, go to the theatre, then drink the night away.

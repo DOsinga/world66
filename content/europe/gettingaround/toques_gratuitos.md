@@ -5,6 +5,8 @@ address: "Monica"
 email: "jane@pisem.net"
 phone: "Monica"
 url: "gushi.org"
+latitude: 37.584254
+longitude: -83.601578
 ---
 
 Great work!

@@ -2,6 +2,8 @@
 title: "Wildlife"
 type: location
 type: "general"
+latitude: -34.841881
+longitude: 138.814027
 ---
 
 ### [Tongan Wildlife Center](/australiaandpacific/tonga/tongatapu/wildlife/tonganwildlifecenter)

@@ -7,6 +7,8 @@ email: "info@grpg.org"
 phone: "408-298-7657"
 type: "Trekking"
 url: "www.grpg.org"
+latitude: 37.343235
+longitude: -121.904597
 ---
 
 Guadalupe River Park is a three-mile ribbon

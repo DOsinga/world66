@@ -1,6 +1,8 @@
 ---
 title: "Cagayan de Oro"
 type: location
+latitude: 8.475642
+longitude: 124.642153
 ---
 
 We currently have no information about Cagayan de Oro.

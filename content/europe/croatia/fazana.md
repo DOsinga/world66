@@ -1,6 +1,8 @@
 ---
 title: "Fazana"
 type: location
+latitude: 44.927333
+longitude: 13.805077
 ---
 
 Fazana, a town, small port and fishermen's centre in the south-western

@@ -1,11 +1,14 @@
 ---
 title: "MOGERE CASTLE"
 type: location
+latitude: 43.600522
+longitude: 3.925767
 ---
 
 Built in the 18thcentury, fitted out in the 19th century, with 18th century furniture and garland gypsery... French Formal Gardens with a stunning rockwork "buffet d'eau". 
 
- Location : route de Vauguières à Montpellier sur la D 172E
+
+ Location : route de Vauguières à Montpellier sur la D 172E
 
 Tel : 04 67 65 72 01
 

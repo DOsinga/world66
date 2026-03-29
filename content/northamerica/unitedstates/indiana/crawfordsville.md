@@ -1,6 +1,8 @@
 ---
 title: "Crawfordsville"
 type: location
+latitude: 40.040863
+longitude: -86.899738
 ---
 
 Travel Guide

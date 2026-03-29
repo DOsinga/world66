@@ -1,6 +1,8 @@
 ---
 title: "Schweinfurt"
 type: location
+latitude: 50.049932
+longitude: 10.233509
 ---
 
 Travel Guide

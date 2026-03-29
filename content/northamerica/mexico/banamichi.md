@@ -1,6 +1,8 @@
 ---
 title: "Banamichi"
 type: location
+latitude: 30.063494
+longitude: -110.298452
 ---
 
 Travel Guide

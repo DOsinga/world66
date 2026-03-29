@@ -1,6 +1,8 @@
 ---
 title: "Mersea Island Essex"
 type: location
+latitude: 51.790976
+longitude: 0.952176
 ---
 
 Travel Guide

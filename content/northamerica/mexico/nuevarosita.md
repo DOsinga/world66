@@ -1,6 +1,8 @@
 ---
 title: "Nueva Rosita"
 type: location
+latitude: 27.937833
+longitude: -101.218748
 ---
 
 Nueva Rosita is a city located in northeastern Mexico. It is situated 1,410 feet (430 m) above sea level, on the Sabinas River, 100 km south of the border with the United States

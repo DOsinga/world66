@@ -3,6 +3,8 @@ title: "Socsargen Grill"
 type: poi
 address: "302 P.Burgos Street"
 type: "Local"
+latitude: 11.24362
+longitude: 125.000084
 ---
 
 This popular little restaurant is located in the garden of the Rosvenil Pensione hotel, on P.Burgos street, close to its junction with Real street

@@ -1,6 +1,8 @@
 ---
 title: "Haeundae Beach"
 type: poi
+latitude: 35.157781
+longitude: 129.158132
 ---
 
 One of the most popular beaches in Korea.

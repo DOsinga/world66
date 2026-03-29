@@ -1,6 +1,8 @@
 ---
 title: "Thank you"
 type: location
+latitude: 49.35847
+longitude: 6.170474
 ---
 
 div love layouts

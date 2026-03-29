@@ -1,6 +1,8 @@
 ---
 title: "Buckskin Gulch"
 type: location
+latitude: 39.290111
+longitude: -106.084834
 ---
 
 Travel Guide

@@ -6,6 +6,8 @@ email: "flowersmumbai@hotmail.com"
 phone: "81306480000"
 type: "Antiques"
 url: "www.flowerdeliverymumbai.com"
+latitude: 35.336529
+longitude: -97.148571
 ---
 
 It’s flowers that you always bank on, as far as the celebrations are concerned. Not just because they are beautiful, but also because

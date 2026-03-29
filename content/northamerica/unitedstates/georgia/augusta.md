@@ -1,6 +1,8 @@
 ---
 title: "Augusta"
 type: location
+latitude: 33.470971
+longitude: -81.974843
 ---
 
 Travel Guide

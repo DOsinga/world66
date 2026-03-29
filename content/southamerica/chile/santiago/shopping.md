@@ -2,6 +2,8 @@
 title: "Shopping"
 type: section
 type: "Markets"
+latitude: -33.634361
+longitude: -71.609558
 ---
 
 The place to go is Los Dominicos market. This outdoor market, where it

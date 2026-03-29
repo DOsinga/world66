@@ -1,6 +1,8 @@
 ---
 title: "Sayun"
 type: location
+latitude: 15.944081
+longitude: 48.792579
 ---
 
 We currently have no information about Sayun.

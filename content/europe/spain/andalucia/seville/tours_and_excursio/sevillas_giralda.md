@@ -5,6 +5,8 @@ address: "Seville"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 37.38863
+longitude: -5.99534
 ---
 
 Sevilla was at one time Spain's largest city, the gateway through which the riches of the New World poured. Enjoy a private walking tour to visit the Alcazar, Giralda tower of Sevilla's cathedral… 

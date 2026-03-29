@@ -1,6 +1,8 @@
 ---
 title: "Laguardia - Rioja"
 type: location
+latitude: 42.544151
+longitude: -2.545422
 ---
 
 A walled Villa and capital of Rioja Alavesa, its name derives from Navarra´s " La Guarda " ( The Guardian ) due to the strategic position it holds against Castilla. To this day, Laguardia holds true to a Medieval Atmosphere, and still Counts with the presence oh high surrounding walls built during the 13 TH Century with cobble Stone. 

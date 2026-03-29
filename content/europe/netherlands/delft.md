@@ -1,6 +1,8 @@
 ---
 title: "Delft"
 type: location
+latitude: 52.011402
+longitude: 4.35839
 ---
 
 Delft is a nice old garrison town halfway between [Rotterdam](/europe/netherlands/rotterdam) and [The Hague](/europe/netherlands/thehague) . The name Delft actually means "Ditch".

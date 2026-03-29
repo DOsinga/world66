@@ -6,6 +6,8 @@ email: "info@berlininternationalopera.de"
 phone: "030 - 6809-3779"
 type: "Opera"
 url: "www.berlininternationalopera.de"
+latitude: 52.476962
+longitude: 13.439215
 ---
 
 Five day

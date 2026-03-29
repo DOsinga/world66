@@ -7,6 +7,8 @@ email: "info@parkhotel-ptuj.si"
 phone: "+386 (0) 2 749 33 00"
 type: "Tourist information"
 url: "www.parkhotel-ptuj.si"
+latitude: 46.420293
+longitude: 15.865866
 ---
 
 Do you have any information or travel information about Ptuj? Feel free to add/edit this page with Ptuj information.

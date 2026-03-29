@@ -3,6 +3,8 @@ title: "Jack's Ridge"
 type: poi
 address: "Shrine Hills, Matina, Davao City"
 type: "Local"
+latitude: 7.070794
+longitude: 125.577932
 ---
 
 Located at the top of Shrine Hills in Matina, this place offers a

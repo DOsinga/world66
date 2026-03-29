@@ -1,6 +1,8 @@
 ---
 title: "Al ghaydah"
 type: location
+latitude: 17.0
+longitude: 51.5
 ---
 
 We currently have no information about Al ghaydah.

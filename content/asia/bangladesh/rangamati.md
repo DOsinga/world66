@@ -1,6 +1,8 @@
 ---
 title: "Rangamati"
 type: location
+latitude: 22.650921
+longitude: 92.181433
 ---
 
 We currently have no information about Rangamati.

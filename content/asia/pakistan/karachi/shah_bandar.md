@@ -1,6 +1,8 @@
 ---
 title: "Shah Bandar."
 type: location
+latitude: 24.165895
+longitude: 67.900009
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Hurghada, Egypt"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Overnight **tour** from **Safaga port** to biggest cities of Egypt -** Cairo**, capital of Egypt with famous in the world Giza Pyramids and other ancient places, and **Alexandria**, city of Alexander Macedonean famous by Alexandrian library and Pharos lighthouse.

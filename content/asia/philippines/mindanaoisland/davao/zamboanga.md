@@ -1,6 +1,8 @@
 ---
 title: "Zamboanga"
 type: location
+latitude: 18.188871
+longitude: 120.547657
 ---
 
 Travel Guide

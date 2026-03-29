@@ -1,6 +1,8 @@
 ---
 title: "Beaumaris"
 type: location
+latitude: 53.264834
+longitude: -4.08976
 ---
 
 Travel Guide

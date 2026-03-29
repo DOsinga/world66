@@ -1,6 +1,8 @@
 ---
 title: "Shreveport"
 type: location
+latitude: 32.513536
+longitude: -93.747784
 ---
 
 Shreveport is a progressive city in Northwest Louisiana steeped in Southern Style! Rich in attractions, festivals, cultural activities, fine food, recreational facilities, restaurants, shopping areas, museums and the best in riverboat gaming, which are unsurpassed.

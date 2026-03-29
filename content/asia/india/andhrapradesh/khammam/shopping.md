@@ -5,6 +5,8 @@ address: "Timber Market"
 email: "dhavalpatel07@yahoo.co.in"
 phone: "+919885008366"
 type: "Markets"
+latitude: 31.599096
+longitude: 74.300915
 ---
 
 The best place for shopping in khammam is khaman bazar,

@@ -1,6 +1,8 @@
 ---
 title: "Forte dei Marmi"
 type: location
+latitude: 43.959589
+longitude: 10.169939
 ---
 
 Travel Guide

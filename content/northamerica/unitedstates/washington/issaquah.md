@@ -1,6 +1,8 @@
 ---
 title: "Issaquah"
 type: location
+latitude: 47.534878
+longitude: -122.043297
 ---
 
 Travel Guide

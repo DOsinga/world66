@@ -1,6 +1,8 @@
 ---
 title: "Quang Tri"
 type: location
+latitude: 17.216696
+longitude: 106.954825
 ---
 
 Travel Guide

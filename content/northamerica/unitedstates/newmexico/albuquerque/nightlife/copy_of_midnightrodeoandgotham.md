@@ -5,6 +5,8 @@ address: "4901 Mcleod Rd NE,"
 phone: "(505)888-0100"
 type: "Clubs"
 zipcode: "Albuquerque, NM"
+latitude: 35.138257
+longitude: -106.588807
 ---
 
 type: Clubs

@@ -1,6 +1,8 @@
 ---
 title: "Saputara"
 type: location
+latitude: 20.579669
+longitude: 73.747888
 ---
 
 Travel Guide

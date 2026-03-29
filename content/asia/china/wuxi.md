@@ -1,6 +1,8 @@
 ---
 title: "Wuxi"
 type: location
+latitude: 31.577663
+longitude: 120.295275
 ---
 
 Travel Guide

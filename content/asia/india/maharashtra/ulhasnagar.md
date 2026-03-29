@@ -1,6 +1,8 @@
 ---
 title: "Ulhasnagar"
 type: location
+latitude: 19.223633
+longitude: 73.167152
 ---
 
 We currently have no information about Ulhasnagar.

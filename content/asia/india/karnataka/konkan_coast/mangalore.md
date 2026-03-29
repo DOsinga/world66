@@ -1,6 +1,8 @@
 ---
 title: "Mangalore"
 type: location
+latitude: 12.86981
+longitude: 74.843008
 ---
 
 Travel Guide

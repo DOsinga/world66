@@ -1,6 +1,8 @@
 ---
 title: "River Rafting"
 type: location
+latitude: 30.108842
+longitude: 78.380222
 ---
 
 **RIVER RAFTING** 

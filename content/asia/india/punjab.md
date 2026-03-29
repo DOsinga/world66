@@ -1,6 +1,8 @@
 ---
 title: "Punjab"
 type: location
+latitude: 30.929321
+longitude: 75.500484
 ---
 
 Punjab is the state of the Sikhs. In the streets, you will see many turbands and bearded men in traditional dress. The capital of both Punjab and Haryana is [Chandigarh](/asia/india/punjab/chandigarh) . Chandigarh is actually not part of either but a union territory. For Sikhs, [Amritsar](/asia/india/punjab/amritsar) , almost on the border with Pakistan, is of greater importance because it is the city where the General is located. Although Amritsar is quite a busy and congested town, the tranquil atmosphere of the Golden Temple and its surroundings will make a lasting impression. 

@@ -1,6 +1,8 @@
 ---
 title: "Degerfors"
 type: location
+latitude: 59.266667
+longitude: 14.433333
 ---
 
 Travel Guide

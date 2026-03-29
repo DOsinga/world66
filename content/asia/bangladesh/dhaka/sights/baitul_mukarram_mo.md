@@ -2,6 +2,8 @@
 title: "Baitul Mukarram Mosque"
 type: poi
 type: "Mosques"
+latitude: 22.368478
+longitude: 89.306447
 ---
 
 Baitul Mukarram Mosque is the National Mosque of Bangladesh. Its

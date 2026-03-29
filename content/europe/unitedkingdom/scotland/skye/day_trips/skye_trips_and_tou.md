@@ -5,6 +5,8 @@ address: "Isle of Skye, Scotland"
 email: "tours@goscotlandtours.com"
 phone: "(+44) (0) 750 466 1828"
 url: "www.goscotlandtours.com"
+latitude: 57.363018
+longitude: -6.302346
 ---
 
 Enjoy stunning natural beauty, unforgettable

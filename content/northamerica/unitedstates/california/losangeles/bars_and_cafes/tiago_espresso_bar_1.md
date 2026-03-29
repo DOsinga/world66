@@ -4,6 +4,8 @@ type: poi
 accessibility: "driving, walking, biking, public transportation"
 address: "7080 Hollywood Blvd"
 phone: "323-466-5600"
+latitude: 34.101125
+longitude: -118.344458
 ---
 
 Tiago Espresso Bar + Kitchen is a third wave coffee house that was established in 2009 in Hollywood California. At Tiago a Direct-Trade model is used and we are ecco friendly. Intelligentsia and Barefoot coffee roasters are the main coffee's used. Execution is rooted in the Italian tradition, in which coffee is embraced as a culinary art.

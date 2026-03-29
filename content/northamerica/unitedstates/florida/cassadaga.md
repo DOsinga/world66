@@ -1,6 +1,8 @@
 ---
 title: "Cassadaga"
 type: location
+latitude: 42.344225
+longitude: -79.309489
 ---
 
 Travel Guide

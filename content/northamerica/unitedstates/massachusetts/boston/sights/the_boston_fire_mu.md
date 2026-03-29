@@ -8,6 +8,8 @@ April thru October"
 phone: "(617) 482-1344"
 type: "Hotspots"
 url: "www.bostonfiremuseum.com"
+latitude: 42.350832
+longitude: -71.04875
 ---
 
 The Boston Fire Museum is comprised of Antique fire apparatus, Fire

@@ -1,6 +1,8 @@
 ---
 title: "Reykjavik"
 type: location
+latitude: 64.145981
+longitude: -21.942237
 ---
 
 Iceland's capital is different from other European cities. It is the world's northernmost capital, and one of the newest, having established itself only in the late 19th century.Reykjavík offers all the pleasures of a modern European city and addditionally an interesting old town, white-washed wooden buildings, and lines of brightly painted concrete houses. Almost all places of interest are within a walking distance of the old settlement. 

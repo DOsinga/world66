@@ -1,6 +1,8 @@
 ---
 title: "Lebanon"
 type: location
+latitude: 33.875063
+longitude: 35.843409
 ---
 
 Lebanon is a small country in the Middle East. Until mid 70s, it was a very popular destination for both travelers and businessmen. The capital [Beirut](/asia/lebanon/beirut) was considered as Paris of the middle east. 

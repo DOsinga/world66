@@ -6,6 +6,8 @@ opening_hours: "from 8.30 till late"
 phone: "(0800 759 2489)"
 type: "Public Buildings"
 url: "www.skycityauckland.co.nz"
+latitude: -33.877377
+longitude: 151.221618
 ---
 
 The Sky Tower is the tallest tower in the Southern Hemisphere. You get an overview over whole Auckland.

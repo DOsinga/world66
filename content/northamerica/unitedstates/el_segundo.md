@@ -1,6 +1,8 @@
 ---
 title: "El Segundo"
 type: location
+latitude: 33.917028
+longitude: -118.415634
 ---
 
 Travel Guide

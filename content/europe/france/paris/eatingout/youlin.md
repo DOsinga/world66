@@ -7,6 +7,8 @@ phone: "01 43 26 05 32"
 price: "Euro 30"
 type: "Japanese"
 url: "youlin.abemadi.com"
+latitude: 48.847887
+longitude: 2.347095
 ---
 
 Youlin a nice **japanese isakaya** located close to the famous Sorbone university in Paris 75005.

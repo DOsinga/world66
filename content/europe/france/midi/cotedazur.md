@@ -1,6 +1,8 @@
 ---
 title: "Cote d'Azur"
 type: location
+latitude: 43.426417
+longitude: 6.722662
 ---
 
 The name Côte d’Azur for one of France’s most southern region becomes clear as soon as one arrives at the southern coastline of France. This is where the sky-blue sea beats against the stone beaches and where purple coloured Bougainville crawls up the discoloured walls of charming old houses. Thriving cities such as Nice , with its abundance of museums, and fashionable Marseille are facing the Mediterranean sea.

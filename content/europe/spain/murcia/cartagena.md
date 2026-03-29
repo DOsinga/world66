@@ -1,6 +1,8 @@
 ---
 title: "Cartagena"
 type: location
+latitude: 37.615502
+longitude: -0.987511
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Mazagon"
 type: location
+latitude: 37.136742
+longitude: -6.827835
 ---
 
 Travel Guide

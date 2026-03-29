@@ -6,6 +6,8 @@ phone: "928 46 90 56"
 type: "International"
 url: "www.laspalmasgccb.com"
 zipcode: "35005"
+latitude: 41.000213
+longitude: -5.682993
 ---
 
 Try the Canarian cuisine in the capitol of Gran Canaria

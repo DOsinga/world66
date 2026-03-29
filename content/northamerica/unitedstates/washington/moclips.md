@@ -1,6 +1,8 @@
 ---
 title: "Moclips"
 type: location
+latitude: 47.233264
+longitude: -124.205063
 ---
 
 Travel Guide

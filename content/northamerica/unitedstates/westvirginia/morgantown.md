@@ -1,6 +1,8 @@
 ---
 title: "Morgantown"
 type: location
+latitude: 39.629681
+longitude: -79.955944
 ---
 
 Morgantown is the home of West Virginia University and a quintessential university town. Visit Morgantown (or Mo'town to most of the locals) in the summer and you'll be bored. Visit while school is in session and you'll be pleasantly surprised by the quasi-bohemian atmosphere and extensive nightlife. 

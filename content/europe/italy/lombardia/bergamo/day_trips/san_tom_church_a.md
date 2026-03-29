@@ -4,6 +4,8 @@ type: poi
 address: "Almenno San Bartolomeo"
 phone: "035/548617"
 url: "webcache.googleusercontent.com"
+latitude: 45.742681
+longitude: 9.582251
 ---
 
 San Tomè is a Romanesque religious temple built between the XI and XII centuries. It is of circular form with a cross-shaped window that lets the sun shine on the altar on the day of summer equinox. Next to it is a restored convent from the XIII century.

@@ -5,6 +5,8 @@ address: "Xi'an,Shaanxi,China."
 email: "backpackerinchina@yahoo.com"
 phone: "0086-29-87436874"
 url: "www.adventurechina.info"
+latitude: 34.261004
+longitude: 108.942336
 ---
 
 **Xining 2 Days Tour**

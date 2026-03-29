@@ -5,6 +5,8 @@ address: "Samos Marina Pythagorio"
 email: "info@aegeanscuba.gr"
 phone: "00302273061194"
 url: "www.aegeanscuba.gr"
+latitude: 37.690575
+longitude: 26.955138
 ---
 
 Samos Dive Center offers you many possibilities for exploring the underwater world around Samos island. From first time snorkeling to the advanced PADI Divemaster course there is a little something for everyone.

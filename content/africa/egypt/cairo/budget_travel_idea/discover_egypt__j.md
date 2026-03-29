@@ -5,6 +5,8 @@ address: "Hurghada, Egypt"
 email: "nataly@egypttravelhotdeals.com"
 phone: "0020100850146"
 url: "www.egypttravelhotdeals.com"
+latitude: 27.222556
+longitude: 33.830706
 ---
 
 Discover **Egypt** & **Jordan** is an adventure takes you to the treasure of the ancient world , it will give you the chance to see the greatness of the ancient civilization in **Egypt** & **Jordan**...

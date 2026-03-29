@@ -1,6 +1,8 @@
 ---
 title: "Paradise Point"
 type: poi
+latitude: 24.843075
+longitude: 66.775429
 ---
 
 Paradise Point, on the Arabian Sea, is a beach in Karachi, Sindh, Pakistan. Paradise Point is a sandstone rock promontory with a natural arch.

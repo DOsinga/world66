@@ -5,6 +5,8 @@ accessibility: "very easy"
 address: "near bus station"
 price: "average.. fits most budgets"
 type: "Indian and Pakistani"
+latitude: 40.443866
+longitude: -79.992055
 ---
 
 Food is quite Tasty. Make sure you have the Paneer Sashlik.

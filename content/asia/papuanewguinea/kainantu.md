@@ -1,6 +1,8 @@
 ---
 title: "Kainantu"
 type: location
+latitude: -6.290775
+longitude: 145.867877
 ---
 
 We currently have no information about Kainantu.

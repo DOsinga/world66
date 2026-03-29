@@ -1,6 +1,8 @@
 ---
 title: "Best Western Vineyard Inn and Suites - Penn Yan, NY"
 type: location
+latitude: 42.656384
+longitude: -77.054592
 ---
 
 Travel Guide

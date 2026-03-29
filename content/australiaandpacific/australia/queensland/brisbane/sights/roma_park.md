@@ -3,6 +3,8 @@ title: "Roma park"
 type: poi
 address: "Roma street"
 type: "Parks, Gardens and Zoos"
+latitude: -27.464981
+longitude: 153.018353
 ---
 
 This place is huge (for a

@@ -2,6 +2,8 @@
 title: "Kujukuri Beach"
 type: poi
 type: "Swimming"
+latitude: 35.699064
+longitude: 140.677445
 ---
 
 Beautiful white sand beaches on the Pacific Ocean side of the Boso Penensula of Chiba Prefecture just one hour North of Tokyo and 30 minutes from Narita Airport.

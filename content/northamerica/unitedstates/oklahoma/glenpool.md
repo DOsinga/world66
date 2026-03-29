@@ -1,6 +1,8 @@
 ---
 title: "Glenpool"
 type: location
+latitude: 35.955352
+longitude: -96.008778
 ---
 
 Travel Guide

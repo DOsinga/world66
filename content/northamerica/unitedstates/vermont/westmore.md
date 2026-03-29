@@ -1,6 +1,8 @@
 ---
 title: "Westmore"
 type: location
+latitude: 44.77112
+longitude: -72.054872
 ---
 
 Travel Guide

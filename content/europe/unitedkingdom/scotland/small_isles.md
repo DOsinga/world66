@@ -1,6 +1,8 @@
 ---
 title: "Small Isles"
 type: location
+latitude: 55.837267
+longitude: -5.933947
 ---
 
 The Small Isles is a name given collectively to the islands of Rum, Canna, Eigh and Muck. When Skye is added they are more often called Inner Hebrides [as opposed to the Outer Hebrides or

@@ -1,6 +1,8 @@
 ---
 title: "Samchok"
 type: location
+latitude: 37.449874
+longitude: 129.165297
 ---
 
 We currently have no information about Samchok.

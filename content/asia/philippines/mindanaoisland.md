@@ -1,6 +1,8 @@
 ---
 title: "Mindanao island"
 type: location
+latitude: 7.689779
+longitude: 125.236531
 ---
 
 Travel Guide

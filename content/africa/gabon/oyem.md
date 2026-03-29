@@ -1,6 +1,8 @@
 ---
 title: "Oyem"
 type: location
+latitude: 1.59979
+longitude: 11.5751
 ---
 
 We currently have no information about Oyem.

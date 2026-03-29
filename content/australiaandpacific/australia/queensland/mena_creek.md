@@ -1,6 +1,8 @@
 ---
 title: "Mena Creek"
 type: location
+latitude: -17.65487
+longitude: 145.956352
 ---
 
 Travel Guide

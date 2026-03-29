@@ -4,6 +4,8 @@ type: poi
 address: "Erbprinzenstraße 13"
 type: "Public Buildings"
 zipcode: "http://www.smnk.de/"
+latitude: 49.378935
+longitude: 8.684071
 ---
 
 (Called "Naturkunde Museum"). At the "Friedrichsplatz" in the Erbprinzenstraße 13 you find a zoological museum with lot of exponats of flora and fauna and a large collection of prehistorical objects.

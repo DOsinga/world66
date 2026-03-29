@@ -7,6 +7,8 @@ phone: "01 (222) 403 63 09"
 price: "5-30 US"
 type: "European"
 url: "www.hackl.com.mx"
+latitude: -33.019259
+longitude: -71.541545
 ---
 
 Puebla cuisine is very famous worldwide and there are some options to taste it.

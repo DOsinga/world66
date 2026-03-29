@@ -1,6 +1,8 @@
 ---
 title: "Villa di Teolo"
 type: location
+latitude: 45.354029
+longitude: 11.687776
 ---
 
 Travel Guide

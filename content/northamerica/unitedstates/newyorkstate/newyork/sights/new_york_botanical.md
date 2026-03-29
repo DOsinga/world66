@@ -4,6 +4,8 @@ type: poi
 address: "Bronx, New York"
 type: "Parks, Gardens and Zoos"
 url: "www.nybg.org"
+latitude: 40.846651
+longitude: -73.878594
 ---
 
 The New York Botanical Garden is one of the oldest botanical gardens in America – it is also one of the largest. The New York Botanical Garden features 50 gardens and collections, horticultural displays in several pavilions, Haupt Conservatory, and dozens of walking trails. The sight covers 250 acres, including approximately 50 acres of New York’s original Forest.

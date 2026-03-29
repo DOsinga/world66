@@ -2,6 +2,8 @@
 title: "Ellora caves"
 type: poi
 type: "Landmarks"
+latitude: 20.026753
+longitude: 75.177515
 ---
 
 The Ellora and Ajanta caves between Aurangabad and Jalgon Junction are world heritage sites with outstanding buddhist caves systems

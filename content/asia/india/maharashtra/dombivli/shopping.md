@@ -4,6 +4,8 @@ type: section
 phone: "sales@valentinesdayflowersindia.com"
 type: "Shopping centers and malls"
 url: "www.valentinesdayflowersindia.com"
+latitude: 10.673995
+longitude: 76.186901
 ---
 
 Flowers India

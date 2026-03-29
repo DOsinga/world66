@@ -3,6 +3,8 @@ title: "Brighton"
 type: poi
 address: "Brighton"
 type: "Hotspots"
+latitude: 50.821463
+longitude: -0.140056
 ---
 
 Near London is Brighton, sometimes referred as "London-by-the-sea". With only being an hour by train from London Victoria, it is worth visiting.

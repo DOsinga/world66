@@ -4,6 +4,8 @@ type: poi
 address: "3818 Meadows Lane"
 phone: "702 258-1554"
 type: "American"
+latitude: 29.827661
+longitude: -95.572247
 ---
 
 Full service restaurant, offering breakfast, lunch and dinners menus. Located on the south end of the Meadows Mall.

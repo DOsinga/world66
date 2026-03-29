@@ -1,6 +1,8 @@
 ---
 title: "By Bike"
 type: poi
+latitude: -28.329736
+longitude: 153.402754
 ---
 
 "/>

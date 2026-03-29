@@ -1,6 +1,8 @@
 ---
 title: "Adilabad"
 type: location
+latitude: 19.675945
+longitude: 78.53399
 ---
 
 We currently have no information about Adilabad.

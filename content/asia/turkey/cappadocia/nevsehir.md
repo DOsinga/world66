@@ -1,6 +1,8 @@
 ---
 title: "Nevsehir"
 type: location
+latitude: 38.723507
+longitude: 34.719417
 ---
 
 We currently have no information about Nevsehir.

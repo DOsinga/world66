@@ -1,6 +1,8 @@
 ---
 title: "Iringa"
 type: location
+latitude: -7.774272
+longitude: 35.482634
 ---
 
 Travel Guide

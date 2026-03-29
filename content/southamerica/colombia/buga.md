@@ -1,6 +1,8 @@
 ---
 title: "Buga"
 type: location
+latitude: 3.900058
+longitude: -76.302013
 ---
 
 Travel Guide

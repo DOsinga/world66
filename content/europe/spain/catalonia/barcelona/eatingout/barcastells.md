@@ -4,6 +4,8 @@ type: poi
 address: "Pl.  Bonsuccés  1"
 phone: "+34 93 302 10 54"
 type: "Tapas"
+latitude: 41.384109
+longitude: 2.169799
 ---
 
 type: Tapas

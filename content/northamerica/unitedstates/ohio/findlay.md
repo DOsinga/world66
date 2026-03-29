@@ -1,6 +1,8 @@
 ---
 title: "Findlay"
 type: location
+latitude: 41.041387
+longitude: -83.650398
 ---
 
 Travel Guide

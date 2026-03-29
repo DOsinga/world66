@@ -1,6 +1,8 @@
 ---
 title: "kvariati"
 type: location
+latitude: 41.547606
+longitude: 41.563765
 ---
 
 Travel Guide

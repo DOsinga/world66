@@ -1,6 +1,8 @@
 ---
 title: "Amantea"
 type: location
+latitude: 39.133189
+longitude: 16.074591
 ---
 
 Travel Guide

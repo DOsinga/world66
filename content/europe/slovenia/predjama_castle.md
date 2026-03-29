@@ -1,6 +1,8 @@
 ---
 title: "Predjama Castle"
 type: location
+latitude: 45.815806
+longitude: 14.126772
 ---
 
 Predjama castle is located in a 123 m high limestone cliff, in the entrance of a cave. This extraordinary and romanic location made it well known.

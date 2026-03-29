@@ -4,6 +4,8 @@ type: poi
 address: "31 rue Augustins 33000"
 phone: "+33 (0)5 56 91 96 47"
 type: "Spanish"
+latitude: 46.98943
+longitude: 1.17308
 ---
 
 Section:Eating Out:Caribbean

@@ -4,6 +4,8 @@ type: poi
 address: "93-107 Shaftesbury Avenue"
 phone: "020 7434 0909"
 type: "Musicals"
+latitude: 51.510436
+longitude: -0.134163
 ---
 
 The Palace Theatre has Spamalot playing. It is an extremely funny musical performance.

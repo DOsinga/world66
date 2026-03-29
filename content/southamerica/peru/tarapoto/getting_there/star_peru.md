@@ -6,6 +6,8 @@ email: "reservasweb@starperu.com"
 phone: "Reservations: (511) 705-9000"
 type: "By Air"
 url: "www.starperu.com"
+latitude: -12.119004
+longitude: -77.033039
 ---
 
 Flights on Star Peru from Lima to Tarapoto are generally scheduled for 2:30 p.m. each day, and the flight is about one hour long. Passengers are required to check in at the airport two hours ahead of the scheduled time of the flight.

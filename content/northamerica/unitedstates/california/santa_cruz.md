@@ -1,6 +1,8 @@
 ---
 title: "Santa Cruz"
 type: location
+latitude: 36.974363
+longitude: -122.029467
 ---
 
 Travel Guide

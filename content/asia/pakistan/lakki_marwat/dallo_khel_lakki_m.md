@@ -1,6 +1,8 @@
 ---
 title: "Dallo Khel Lakki Marwat"
 type: location
+latitude: 32.600373
+longitude: 70.86103
 ---
 
 Travel Guide

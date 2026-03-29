@@ -1,6 +1,8 @@
 ---
 title: "Marco Island, Florida"
 type: location
+latitude: 25.937251
+longitude: -81.71573
 ---
 
 The beaches of Marco Island Florida are a shell hunter's delight!

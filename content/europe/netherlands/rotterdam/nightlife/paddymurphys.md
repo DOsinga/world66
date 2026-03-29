@@ -7,6 +7,8 @@ phone: "+31 10 - 411 00 78"
 type: "Pubs"
 url: "www.paddymurphys.nl"
 zipcode: "3011AM"
+latitude: 51.92119
+longitude: 4.481403
 ---
 
 A very nice pub in the centre, with live music, excellent ambiance and amazing decoration. Beer is good and there is regularly some sport on tv screens in the backroom.

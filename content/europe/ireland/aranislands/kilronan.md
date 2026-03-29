@@ -1,6 +1,8 @@
 ---
 title: "Kilronan"
 type: location
+latitude: 53.120215
+longitude: -9.669452
 ---
 
 Travel Guide

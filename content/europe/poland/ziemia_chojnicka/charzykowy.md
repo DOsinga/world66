@@ -1,6 +1,8 @@
 ---
 title: "Charzykowy"
 type: location
+latitude: 53.73576
+longitude: 17.51131
 ---
 
 We currently have no information about .

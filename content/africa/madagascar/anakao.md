@@ -1,6 +1,8 @@
 ---
 title: "Anakao"
 type: location
+latitude: -23.658058
+longitude: 43.646858
 ---
 
 Travel Guide

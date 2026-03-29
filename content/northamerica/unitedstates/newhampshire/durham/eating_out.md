@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 address: "Main Street, Durham"
 type: "American"
+latitude: 54.68876
+longitude: -1.557661
 ---
 
 The thriving metropolis of Durham, N.H.. features pizza parlors and a cafe!

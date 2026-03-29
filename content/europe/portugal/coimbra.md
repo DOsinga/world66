@@ -1,6 +1,8 @@
 ---
 title: "Coimbra"
 type: location
+latitude: 40.211193
+longitude: -8.429463
 ---
 
 Coimbra is the third largest portuguese city with 150.000 inhabitants and it is the biggest city in the central area of Portugal. Coimbra, the first capital of Portugal, is home of Coimbra University, one of the oldest in Europe, founded in Lisbon in 1290 by king Dinis and then transferred to Coimbra in 1537 by King João III. The old University buildings are situated on the top of a hill, which overlooks the city and the river. It is well worth a visit. You enter the old part of the University through an Iron Gate with stone works from the XVII century in manierist style. Inside the gate is the enormous University Patio, with a large statute of João III. Beside the gate, to the left when entering, you will see the long low palace wing with several rooms that worth a visit. 

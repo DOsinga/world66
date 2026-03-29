@@ -1,6 +1,8 @@
 ---
 title: "Ratu Boko"
 type: location
+latitude: -7.770512
+longitude: 110.489464
 ---
 
 Travel Guide

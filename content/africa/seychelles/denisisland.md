@@ -1,6 +1,8 @@
 ---
 title: "Denis island"
 type: location
+latitude: -3.806786
+longitude: 55.667499
 ---
 
 We currently have no information about Denis island.

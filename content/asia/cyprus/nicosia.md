@@ -1,6 +1,8 @@
 ---
 title: "Nicosia"
 type: location
+latitude: 35.17465
+longitude: 33.363878
 ---
 
 Nicosia / Levkosia or Levkosa, like the Turkish people call the city, is still a divided city (since 1974) – there is a Turkish part, that belongs to the Turkish Republic of Northern Cyprus, and a Greek part. The Greek part of Nicosia is the capital of Cyprus’ Republic and its largest city, which has a population of about 170.000. The atmosphere is modern and traditional, dynamic and calm at the same time. Its without any doubt the most interesting city on the island and very different from the tranquility of the rest of the islands towns and villages. Nicosia is the seat of government and home to all major business. What really characterizes the city is the borderline. It crosses streets, alleys and even houses and gardens. On many corners you will see small bunkers and guard posts, manned with armed soldiers. 

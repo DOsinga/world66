@@ -1,9 +1,13 @@
 ---
 title: "Pastelarias"
 type: poi
+latitude: 41.552128
+longitude: -8.625336
 ---
 
-As in most Mediterranean countries Portuguese drink coffee in between meals. In Lisbon there are hundreds of small cafes and cafeterias or pastelarias. Here you can have breakfast or lunch with your coffee, but don’t expect to much from it. Portuguese love to have a small piece of pastry with their coffee. Especially bolus de nate, a cream pastry, is very popular The Portuguese are very particular about their coffee and always demand the best. It is served in various ways and given different names. If you want a French coffee with a lot of milk, order a “galão”, if you want less milk, that’s a "cafe com leite". If you like espresso you’ll love a “bica”, which is the Portuguese variant on the small cup of strong coffee theme. Tea in Portugal served rather weak to the English taste, and without milk.  
+As in most Mediterranean countries Portuguese drink coffee in between meals. In Lisbon there are hundreds of small cafes and cafeterias or pastelarias. Here you can have breakfast or lunch with your coffee, but don’t expect to much from it. Portuguese love to have a small piece of pastry with their coffee. Especially bolus de nate, a cream pastry, is very popular
+ The Portuguese are very particular about their coffee and always demand the best. It is served in various ways and given different names. If you want a French coffee with a lot of milk, order a “galão”, if you want less milk, that’s a "cafe com leite". If you like espresso you’ll love a “bica”, which is the Portuguese variant on the small cup of strong coffee theme. Tea in Portugal served rather weak to the English taste, and without milk. 
+ 
 
 **Restaurants**
 
@@ -97,7 +101,8 @@ tel: +35 21 - 801186
 
 **Pastelaria A Central da Baixa **
 
-Next to the Santa Justa elevator, half way down toward Praca do comercio. Lots of pastry and sandwiches.  
+Next to the Santa Justa elevator, half way down toward Praca do comercio. Lots of pastry and sandwiches. 
+ 
 
 address: Rua do ouro 94-98, 1100 Lisboa
 
@@ -115,13 +120,15 @@ tel: +35 21 - 342809
 
 **Pastelaria Sul-América **
 
-Avenida de Roma, 74-B  
+Avenida de Roma, 74-B 
+ 
 
 tel: +35 21 - 849572
 
 **Pastelaria Versailles **
 
-Avenida da República, 15 A  
+Avenida da República, 15 A 
+ 
 
 tel: +35 21 - 354634
 

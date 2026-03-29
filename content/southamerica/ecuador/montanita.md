@@ -1,6 +1,8 @@
 ---
 title: "Montanita"
 type: location
+latitude: -1.828165
+longitude: -80.752906
 ---
 
 Montanita is a small surfing village on the west coast of Ecuador. Montanita has developed in to a mecca of surf enthusiasts which come from all over the world to experience possibly Ecuador´s best surfing location. The town is tiny and basically is only two streets filled with cafes, surf board renters, and vendors.

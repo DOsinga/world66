@@ -1,11 +1,15 @@
 ---
 title: "Traditional"
 type: poi
+latitude: 38.709927
+longitude: -9.13008
 ---
 
 The Portuguese kitchen is a simple one, not refined like French tradition, but one of fisherman, sailors and farmers. Main dish is grilled meat or fish with cooked potatoes and some vegetables. If you order cooked meat, you’ll get your potatoes baked. Portuguese cuisine does not offer a great variety of side dishes of vegetables or salads, perhaps because it is felt that the soups include enough vegetables. So you should order soup as a starter, often the cheapest are the best, thick and creamy.
 
- Portugal is famous for its dried and salted cod called Bacalãu, which you can buy or order in many varieties. In fact the Portuguese are proud the have more recipes for it than there are days in a year. It is also the base for the traditional Christmas meal, which eaten at midnight on Christmas Eve.  
+
+ Portugal is famous for its dried and salted cod called Bacalãu, which you can buy or order in many varieties. In fact the Portuguese are proud the have more recipes for it than there are days in a year. It is also the base for the traditional Christmas meal, which eaten at midnight on Christmas Eve. 
+ 
 
 **Restaurants**
 
@@ -233,7 +237,8 @@ tel: +35 21 - 3939346
 
 **Restaurante Frei Papinhas **
 
-Cosy restaurant above the old town “Alfama” (10 min walk from the cathedral), very local dishes, extensive lunch costs about 2000 Esc. per person. 
+Cosy restaurant above the old town “Alfama” (10 min walk from the cathedral), very local dishes, extensive lunch costs about 2000 Esc. per person.
+ 
 
 address: Rua Santo Tome 13 / 21, 1100 Lisboa
 

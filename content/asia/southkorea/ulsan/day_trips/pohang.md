@@ -2,6 +2,8 @@
 title: "Pohang"
 type: poi
 url: "www.ipohang.org"
+latitude: 36.018932
+longitude: 129.342938
 ---
 
 The city of Pohang is just within comfortable journey time for a day trip, though one could really spend a whole weekend exploring everything it has to offer. It’s a change of scenery, a change of people and a taste of what life is like in a city that shares similarities with Ulsan, yet with some subtle differences underneath.

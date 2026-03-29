@@ -4,6 +4,8 @@ type: poi
 accessibility: "By Road"
 address: "Hall Road,Murree"
 phone: "+92-300-6939968"
+latitude: 33.639408
+longitude: 73.076556
 ---
 
 **Hotel Move-N-Pick Murree**

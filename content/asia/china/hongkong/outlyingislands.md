@@ -1,6 +1,8 @@
 ---
 title: "Outlying Islands"
 type: location
+latitude: 22.224736
+longitude: 114.109632
 ---
 
 The biggest of the Outlying islands is [Lantau](/asia/china/hongkong/lantau) . The others are Lamma island , Cheng Chau and a few really small ones. 

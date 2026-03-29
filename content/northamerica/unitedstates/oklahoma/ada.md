@@ -1,6 +1,8 @@
 ---
 title: "Ada"
 type: location
+latitude: 38.839894
+longitude: -83.50517
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Valaam"
 type: location
+latitude: 61.388986
+longitude: 30.944978
 ---
 
 Travel Guide

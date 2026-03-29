@@ -1,6 +1,8 @@
 ---
 title: "Surabaya"
 type: location
+latitude: -7.246284
+longitude: 112.737767
 ---
 
 Most people go to Surabaya to take the boat to [Bali](/asia/indonesia/bali) or [Sulawesi](/asia/indonesia/sulawesi) but there is a lot more to do and see than just the harbor, the docks and the piers. Surabaya has an interseting old city, great shopping in the modern center and the bustling kind of city life you can find only in Asian megacities. 

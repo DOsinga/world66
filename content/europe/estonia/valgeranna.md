@@ -1,6 +1,8 @@
 ---
 title: "Valgeranna"
 type: location
+latitude: 58.393349
+longitude: 24.364001
 ---
 
 Travel Guide

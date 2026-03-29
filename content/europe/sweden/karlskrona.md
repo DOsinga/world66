@@ -1,6 +1,8 @@
 ---
 title: "Karlskrona"
 type: location
+latitude: 56.162107
+longitude: 15.586642
 ---
 
 Travel Guide

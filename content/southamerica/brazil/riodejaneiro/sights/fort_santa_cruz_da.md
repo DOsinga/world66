@@ -4,6 +4,8 @@ type: poi
 address: "Niteroi"
 type: "Hotspots"
 url: "www.riodejaneirophotoguide.com"
+latitude: -22.8884
+longitude: -43.1147
 ---
 
 This is not Rio de Janeiro, but [Niteroi](/southamerica/brazil/niteroi), another city!

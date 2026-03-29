@@ -1,6 +1,8 @@
 ---
 title: "Baton Rouge"
 type: location
+latitude: 30.449416
+longitude: -91.186966
 ---
 
 We currently have no information about Baton Rouge.

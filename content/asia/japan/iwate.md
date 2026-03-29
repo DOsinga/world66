@@ -1,6 +1,8 @@
 ---
 title: "Iwate"
 type: location
+latitude: 39.571376
+longitude: 141.425357
 ---
 
 Travel Guide

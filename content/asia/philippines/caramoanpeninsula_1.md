@@ -1,6 +1,8 @@
 ---
 title: "Caramoan Peninsula"
 type: location
+latitude: 13.758889
+longitude: 123.922778
 ---
 
 ***T***he name Caramoan has been officially adapted since 1619, the year it was founded by a zealous missionary, the venerable Spanish friar Francisco De La Cruz Y Oropesa. This 60-year old priest penetrated the thick virgin forest of the Caramoan Peninsula and found a small settlement in a place called Baluarte. Later on, this settlement was turned over to the administration of the Holy Bishopric in 1696.

@@ -4,6 +4,8 @@ type: poi
 address: "19 Pushkin str"
 opening_hours: "10:00-17:00"
 url: "www.georgianmuseums.ge"
+latitude: 40.181696
+longitude: 44.513949
 ---
 
 Museum was established in 1936

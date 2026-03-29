@@ -7,6 +7,8 @@ opening_hours: "Tuesday - Sunday 11am - 5pm"
 phone: "408.271.6840"
 type: "general"
 url: "www.sjmusart.org"
+latitude: 37.33367
+longitude: -121.890042
 ---
 
 San Jose many diverese museums

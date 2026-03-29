@@ -5,6 +5,8 @@ address: "Via Magrini, 9, Bergamo"
 email: "info@visitbergamo.info"
 phone: "39 346 8122006 - +39.035.234182"
 url: "www.visitbergamo.info"
+latitude: 45.686804
+longitude: 9.665837
 ---
 
 Bergamo Su & Giù: the newly born Association of tourist guides and private citizens for the promotion of Bergamo in the world.

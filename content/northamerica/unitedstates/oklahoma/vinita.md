@@ -1,6 +1,8 @@
 ---
 title: "Vinita"
 type: location
+latitude: 36.640837
+longitude: -95.156363
 ---
 
 Travel Guide

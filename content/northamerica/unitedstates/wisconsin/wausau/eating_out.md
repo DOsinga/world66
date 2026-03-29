@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 address: "422 3rd St"
 type: "European"
+latitude: 40.67174
+longitude: -73.981643
 ---
 
 Some of the more interesting and local dining options.

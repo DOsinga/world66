@@ -5,6 +5,8 @@ address: "Rosenthaler Str. 40-41"
 connections: "S Hackescher Markt, U Weinmeisterstr"
 opening_hours: "Mo-Sa noon -6:30pm"
 type: "Fashion"
+latitude: 52.524042
+longitude: 13.402083
 ---
 
 Individual fashion in the Hackesche Höfe. In courtyard you’ll find her experimental outfits and pieces from shows.

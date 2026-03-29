@@ -1,6 +1,8 @@
 ---
 title: "Seokguram Grotto"
 type: poi
+latitude: 35.794788
+longitude: 129.34925
 ---
 
 If you are visiting Bulguksa, adding Seokguram Grotto to a day’s

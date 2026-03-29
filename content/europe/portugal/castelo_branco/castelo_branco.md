@@ -1,6 +1,8 @@
 ---
 title: "Castelo Branco"
 type: location
+latitude: 39.976758
+longitude: -7.44606
 ---
 
 Travel Guide

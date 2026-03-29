@@ -1,6 +1,8 @@
 ---
 title: "Tashkorgan"
 type: location
+latitude: 37.770817
+longitude: 75.228089
 ---
 
 Travel Guide

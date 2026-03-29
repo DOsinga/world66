@@ -1,6 +1,8 @@
 ---
 title: "Puerto Iguazu"
 type: location
+latitude: -25.610751
+longitude: -54.57642
 ---
 
 We currently have no information about Puerto Iguazu.

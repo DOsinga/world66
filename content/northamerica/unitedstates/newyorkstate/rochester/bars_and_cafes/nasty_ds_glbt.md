@@ -2,6 +2,8 @@
 title: "Nasty D's (GLBT)"
 type: poi
 address: "170 Alexander (@ Broadway)"
+latitude: 35.980957
+longitude: -83.927106
 ---
 
 Located just south of Downtown, at the corner of Broadway and Alexander Streets, the bar has recently changed hands in ownership.

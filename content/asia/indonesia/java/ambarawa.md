@@ -1,6 +1,8 @@
 ---
 title: "Ambarawa"
 type: location
+latitude: -7.265508
+longitude: 110.401694
 ---
 
 Travel Guide

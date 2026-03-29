@@ -1,6 +1,8 @@
 ---
 title: "Chitradurga"
 type: location
+latitude: 14.304917
+longitude: 76.529667
 ---
 
 Travel Guide

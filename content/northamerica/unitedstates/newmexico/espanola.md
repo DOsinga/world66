@@ -1,6 +1,8 @@
 ---
 title: "Espanola"
 type: location
+latitude: 36.002801
+longitude: -106.057801
 ---
 
 Travel Guide

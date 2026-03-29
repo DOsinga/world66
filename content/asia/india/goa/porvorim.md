@@ -1,6 +1,8 @@
 ---
 title: "Porvorim"
 type: location
+latitude: 15.525136
+longitude: 73.828272
 ---
 
 We currently have no information about Porvorim.

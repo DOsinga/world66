@@ -1,6 +1,8 @@
 ---
 title: "Seekonk"
 type: location
+latitude: 41.808434
+longitude: -71.336997
 ---
 
 Travel Guide

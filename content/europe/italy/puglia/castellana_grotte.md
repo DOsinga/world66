@@ -1,6 +1,8 @@
 ---
 title: "Castellana Grotte"
 type: location
+latitude: 40.886431
+longitude: 17.165495
 ---
 
 Travel Guide

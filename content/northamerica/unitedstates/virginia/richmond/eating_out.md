@@ -5,6 +5,8 @@ address: "1700 Dock Street"
 phone: "804-644-4400"
 price: "$8-$11"
 type: "Italian"
+latitude: 37.532315
+longitude: -77.429407
 ---
 
 Richmond is a city with a huge number of interesting restaurant choices in every area of the city. From quick and cheap to upper crust, you can find it in Richmond.

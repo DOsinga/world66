@@ -1,6 +1,8 @@
 ---
 title: "Benicàssim"
 type: location
+latitude: 40.055418
+longitude: 0.064465
 ---
 
 Travel Guide

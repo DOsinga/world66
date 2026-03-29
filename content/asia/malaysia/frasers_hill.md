@@ -1,6 +1,8 @@
 ---
 title: "Fraser's Hill"
 type: location
+latitude: 3.713048
+longitude: 101.736557
 ---
 
 Fraser's Hill is a pleasant retreat from the hustle and bustle of Kuala Lumpur. It is a bird watcher's delight, and there are innumerable walking trails to suit novice or experienced trekkers. Due to its altitude, the temperature is always mild. The evenings can be quite cool, so it's a good idea to bring along a sweater or light jacket. 

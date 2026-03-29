@@ -1,6 +1,8 @@
 ---
 title: "Selcuk"
 type: location
+latitude: 38.433365
+longitude: 30.301647
 ---
 
 We currently have no information about Selcuk.

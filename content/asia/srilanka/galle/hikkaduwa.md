@@ -1,6 +1,8 @@
 ---
 title: "Hikkaduwa"
 type: location
+latitude: 6.140753
+longitude: 80.102818
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Gardone"
 type: location
+latitude: 45.618785
+longitude: 10.5591
 ---
 
 Gardone is just north of Salo on the eastern side of the Garda lake. It is a very small and rather charming place. The main sight is the Vittoriale, the house of Gabriele D'Anniunzio, an Italian writer. His houses is jammed with all sorts of stuff that is beautiful on its own but taken together it sort of creates a data overflow to your eyes. 

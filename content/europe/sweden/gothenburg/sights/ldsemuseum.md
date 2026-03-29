@@ -1,39 +1,52 @@
 ---
 title: "Lödöse museum"
 type: poi
+latitude: 58.034603
+longitude: 12.152477
 ---
 
 Archaeological museum, located about 45 km north of Gothenburg. It’s devoted to the history of Lödöse, the original Gothenburg in the Middle Ages. There’s a permanent exhibition on Medieval life in Swedens oldest harbour, and several smaller exhibitions that change from time to time.
 
- Entrance fee
 
- Adults: SEK 40
-
- Children 0 – 17 free
+ Entrance fee
 
 
-
- Opening hours
-
+ Adults: SEK 40
 
 
- October – March
-
- Tues – Fri: 13 - 16
-
- Sat - Sun: 11 – 19
+ Children 0 – 17 free
 
 
 
- April – September
 
- Tues – Sun from 10 – 18
-
+ Opening hours
 
 
- Mondays closed
 
- 
+
+ October – March
+
+
+ Tues – Fri: 13 - 16
+
+
+ Sat - Sun: 11 – 19
+
+
+
+
+ April – September
+
+
+ Tues – Sun from 10 – 18
+
+
+
+
+ Mondays closed
+
+
+ 
 
 address: Musievägen 1
 

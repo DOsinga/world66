@@ -1,6 +1,8 @@
 ---
 title: "Markets"
 type: poi
+latitude: 52.360356
+longitude: 4.890652
 ---
 
 **Shops**

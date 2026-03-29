@@ -1,6 +1,8 @@
 ---
 title: "Buttes Chaumont"
 type: poi
+latitude: 48.878396
+longitude: 2.381201
 ---
 
 Paris is a number one destination, but few people would go there to see natural beauty. Still, Paris has a waterfall that is almost as high as Niagara falls!

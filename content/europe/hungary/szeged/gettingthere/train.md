@@ -3,6 +3,8 @@ title: "Train"
 type: poi
 type: "By Rail"
 url: "elvira.mavinformatika.hu"
+latitude: 47.46433
+longitude: 19.020133
 ---
 
 MÃV - Hungarian State Railways.

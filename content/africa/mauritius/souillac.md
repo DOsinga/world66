@@ -1,6 +1,8 @@
 ---
 title: "Souillac"
 type: location
+latitude: -20.518724
+longitude: 57.522503
 ---
 
 We currently have no information about Souillac.

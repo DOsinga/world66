@@ -5,6 +5,8 @@ address: "82 Kintore Ave"
 phone: "+61 (0)8 8207 7580"
 type: "Hotspots"
 url: "www.history.sa.gov.au"
+latitude: -34.919704
+longitude: 138.602067
 ---
 
 The Migration Museum works towards the preservation, understanding and

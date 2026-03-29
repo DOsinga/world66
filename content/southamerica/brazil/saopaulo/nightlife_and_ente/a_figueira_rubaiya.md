@@ -5,6 +5,8 @@ address: "Rua Haddock Lobo 1738, Jd. Paulista - São Paulo"
 phone: "Tel:011/3063-3888"
 type: "Wine bars"
 url: "www.rubaiyat.com.br"
+latitude: -23.565148
+longitude: -46.669843
 ---
 
 One of the most beautiful restaurants in the city, Figueira ("fig tree") Rubaiyat is built around a magnificent fig tree, 150 years old. Seating can either be "outside" in the gazebo around and under the tree or inside in the ultra chic and modernistic restaurant.

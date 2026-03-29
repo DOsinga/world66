@@ -6,6 +6,8 @@ email: "bluedivingclub@gmail.com"
 phone: "(+84) 058 527034"
 type: "Diving"
 url: "www.vietnam-diving.com"
+latitude: 21.030537
+longitude: 105.841934
 ---
 
 Since 1995: Blue Diving Club is the first dive center in Vietnam.Blue Diving Club is managed by a couple of French people whose names are André & Chrystel SALVATGÉ.The boat is also completly new and plenty of space, more comfortable, more pleasant.The new shop located at 66 Tran Phu st. Our club is already qualified a PADI 5 Stars Dive Center. The main words of the club are: sécurity, profesionalism and quality of service for customers’ satisfaction.Best and safety dive center with professional team.

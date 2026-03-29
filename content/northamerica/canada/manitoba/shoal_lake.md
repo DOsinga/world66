@@ -1,6 +1,8 @@
 ---
 title: "Shoal Lake"
 type: location
+latitude: 50.4379
+longitude: -100.591171
 ---
 
 Travel Guide

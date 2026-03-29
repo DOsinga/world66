@@ -1,6 +1,8 @@
 ---
 title: "Kennebunkport"
 type: location
+latitude: 43.361499
+longitude: -70.477113
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ email: "info@keytovietnam.com"
 phone: "+8442944911"
 type: "Other"
 url: "keytovietnam.com"
+latitude: 21.045626
+longitude: 105.813458
 ---
 
 HN 01: **Hanoi city tour ( Full day - Daily )**

@@ -6,6 +6,8 @@ email: "mail@laeiszhalle.de"
 phone: "+49 40 357666-0.... Tickets: +49 40 - 34 69 20"
 type: "Concerts"
 url: "laeiszhalle.de"
+latitude: 53.555746
+longitude: 9.980333
 ---
 
 The Laeiszhalle (former Musikhalle Hamburg, English: Music hall Hamburg) is a concert hall in Hamburg, Germany and home to the Hamburger Symphoniker. Also concerts of popular music were held in this music venue, like the concert of the band Bob Marley & The Wailers during the Rastaman Vibration Tour in 1976.

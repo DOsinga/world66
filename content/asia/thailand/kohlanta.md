@@ -1,6 +1,8 @@
 ---
 title: "Koh Lanta"
 type: location
+latitude: 13.821274
+longitude: 100.630694
 ---
 
 Several years ago, Ko Lanta was an offbeat destination inhabited only by Muslim fishermen who couldn't understand why anyone would visit their hot, remote island. Ko Lanta today has over a dozen bungalows stretched along the west coast, from the northern village of Ban Sala Dan down to Ban Sangka U at the southern tip. Getting to this island can be a bit difficult. A long ride in a small ferry from Krabi must be taken. You can also take a train to Trang and find a local truck with seats in the back that will take you for an hour long ride to another ferry point. 

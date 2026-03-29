@@ -1,6 +1,8 @@
 ---
 title: "Placerville"
 type: location
+latitude: 38.729625
+longitude: -120.798546
 ---
 
 Travel Guide

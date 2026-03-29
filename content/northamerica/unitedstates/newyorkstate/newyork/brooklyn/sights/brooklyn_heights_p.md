@@ -2,6 +2,8 @@
 title: "Brooklyn Heights Promenade"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: 40.697371
+longitude: -73.997389
 ---
 
 The Brooklyn Heights Promenade runs along the East River in

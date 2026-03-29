@@ -1,6 +1,8 @@
 ---
 title: "Ras shamra"
 type: location
+latitude: 35.605723
+longitude: 35.781972
 ---
 
 We currently have no information about Ras shamra.

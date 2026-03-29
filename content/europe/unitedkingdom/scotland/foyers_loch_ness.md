@@ -1,6 +1,8 @@
 ---
 title: "Foyers, Loch Ness"
 type: location
+latitude: 57.255637
+longitude: -4.48654
 ---
 
 Innumerable cars pass by Loch Ness on the main road from Fort William or Kyle of Lochalsh to Inverness. If it's Nessie, the Loch Ness monster, that is your main fascination, this is certainly the best route as there are two monster exhibition centres at Drumnadrochit which lies on your way.

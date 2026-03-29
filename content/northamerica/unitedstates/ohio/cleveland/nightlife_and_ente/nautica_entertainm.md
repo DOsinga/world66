@@ -5,6 +5,8 @@ address: "1231 Main Avenue"
 phone: "216.861.4080"
 type: "Clubs and dancing"
 url: "www.nauticaflats.com"
+latitude: 41.495853
+longitude: -81.70668
 ---
 
 This place is unbelievablely large and eclectic in variety of things to do. It is one of the largest entertainment complexes in the country. From major concerts, charity poker, pubs, comedy, dancing, pool and billiards, restaurants and trolley tours Nautica has it all! Most of these individual establishments are packed within an old factory building nicknamed "the powerhouse" here in Cleveland. It is a stronghold of entertainment on the west bank of the Flats. Many of these places at Nautica boast excellent views of the Cuyahoga river and the Cleveland skyline.

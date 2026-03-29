@@ -1,6 +1,8 @@
 ---
 title: "Sakra"
 type: location
+latitude: -8.680518
+longitude: 116.470313
 ---
 
 Travel Guide

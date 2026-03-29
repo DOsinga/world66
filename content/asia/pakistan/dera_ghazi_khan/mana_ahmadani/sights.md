@@ -5,6 +5,8 @@ address: "mana ahmadani"
 email: "shahidfraz_83@hotmail.com"
 type: "Hotspots"
 url: "www.youtube.com"
+latitude: 29.805162
+longitude: 70.621741
 ---
 
 shahid fraz house

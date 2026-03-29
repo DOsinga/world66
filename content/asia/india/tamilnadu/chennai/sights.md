@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Religious Buildings"
+latitude: -20.190009
+longitude: 57.481837
 ---
 
 Chennai has many sights you don't want to miss out on once you've arrived. Besides the fort St Georges, you can visit the temples and museums or relax a bit in one of the parks.

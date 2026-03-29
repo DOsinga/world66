@@ -1,6 +1,8 @@
 ---
 title: "Trouville"
 type: location
+latitude: 49.367982
+longitude: 0.080911
 ---
 
 You would say Trouville is an elegant seaside resort if it wasn't just next from [Deauville](/europe/france/normandybrittany/deauville) which is more elegant. Still, Trouville is a very charming resort. It has beautiful buildings lining the beach, it has a boardwalk, it has lots to do for children, golden sand and nice rolling waves. 

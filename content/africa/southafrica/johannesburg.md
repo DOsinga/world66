@@ -1,6 +1,8 @@
 ---
 title: "Johannesburg"
 type: location
+latitude: -26.205
+longitude: 28.049722
 ---
 
 ‘Jo’burg’, the capital of the region Gauteng, is a fascinating city with a modern centre, combining its ways with the older surroundings. 

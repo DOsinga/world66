@@ -1,6 +1,8 @@
 ---
 title: "Zanzibar"
 type: location
+latitude: -6.099971
+longitude: 39.320954
 ---
 
 Zanzibar is called the "The Island of Sensations" and deserves this name. It has a fascinating history. But don’t expect it to be locked in the past. Stone Town still retains some of the charm it had in the days when it was a flourishing seaport (it’s a UNESCO World Heritage Site).The city offers a blend of Portuguese East Indian Persian and Omani Arab architecture. Highlights in Stone Town include the sultan’s palace the old Arab fort and the old slave quarters. 

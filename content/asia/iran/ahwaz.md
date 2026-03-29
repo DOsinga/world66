@@ -1,6 +1,8 @@
 ---
 title: "Ahwaz"
 type: location
+latitude: 31.323064
+longitude: 48.67932
 ---
 
 Travel Guide

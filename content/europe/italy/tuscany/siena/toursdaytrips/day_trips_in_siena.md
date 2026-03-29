@@ -4,6 +4,8 @@ type: location
 address: "siena"
 email: "info@2beinsiena.com"
 url: "www.2beinsiena.com"
+latitude: 43.167206
+longitude: 11.467561
 ---
 
 There are a lot of possibilities for travellers in Siena. You'll have at least two days to the visit of the city. The famous Piazza del Campo, with the town building and the tall Tower of Mangia, the imposing Cathedral made of white and black marble, the medieval alleys, the fountains. It is worth to get lost in the historical center that can be crossed from one side to the other in half an hour by foot.

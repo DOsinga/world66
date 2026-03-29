@@ -7,6 +7,8 @@ opening_hours: "Mon-Sat 11.00-18.00, Thu 11.00-20.00, Sun 12.00-18.00"
 phone: "020 7831 1772"
 type: "Hotspots"
 url: "www.photonet.org.uk"
+latitude: 51.511861
+longitude: -0.127973
 ---
 
 The Photographer's Gallery is actually split across two galleries, No.8 houses the main exhibition and an interesting little bookshop (with a small stock of novelty lomo cameras), and No.5 has a small cafe with more photos on the walls.

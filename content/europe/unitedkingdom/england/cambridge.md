@@ -1,6 +1,8 @@
 ---
 title: "Cambridge"
 type: location
+latitude: 52.205531
+longitude: 0.118664
 ---
 
 Punting on the Cam. Having a pint in the Champion of the Thames. Sausage and mash in the Richmond Arms.

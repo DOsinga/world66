@@ -1,6 +1,8 @@
 ---
 title: "Visakha"
 type: location
+latitude: 13.677033
+longitude: 79.347546
 ---
 
 We currently have no information about Visakha.

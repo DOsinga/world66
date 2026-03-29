@@ -1,6 +1,8 @@
 ---
 title: "Moorea"
 type: location
+latitude: -17.533306
+longitude: -149.838601
 ---
 
 Moorea, along with Bora Bora, is considered one of the most beautiful areas in the South Pacific (and by extension, the world). It is a laid-back island with white sand beaches, turquoise lagoons, and green mountains jutting into the sky.

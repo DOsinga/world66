@@ -1,6 +1,8 @@
 ---
 title: "San Bruno"
 type: location
+latitude: 37.624854
+longitude: -122.414599
 ---
 
 Travel Guide

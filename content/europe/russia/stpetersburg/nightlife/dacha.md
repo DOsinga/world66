@@ -5,6 +5,8 @@ address: "Dumskaya ul. #9"
 closing_time: "0600"
 phone: "No Phone installed"
 type: "Pubs"
+latitude: 59.932886
+longitude: 30.327477
 ---
 
 This place rocks the free world! On Dumskaya.

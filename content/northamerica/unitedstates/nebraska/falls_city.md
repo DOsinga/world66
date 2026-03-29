@@ -1,6 +1,8 @@
 ---
 title: "Falls City"
 type: location
+latitude: 28.98147
+longitude: -98.018322
 ---
 
 We currently have no information about Falls City.

@@ -1,6 +1,8 @@
 ---
 title: "hi"
 type: location
+latitude: 12.750349
+longitude: 122.73121
 ---
 
 Travel Guide

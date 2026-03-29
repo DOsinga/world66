@@ -1,6 +1,8 @@
 ---
 title: "Panama City"
 type: location
+latitude: 30.158652
+longitude: -85.660294
 ---
 
 We currently have no information about Panama City.

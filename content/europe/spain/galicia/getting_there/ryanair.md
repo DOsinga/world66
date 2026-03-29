@@ -3,6 +3,8 @@ title: "Ryanair"
 type: poi
 type: "By Air"
 url: "www.ryanair.com"
+latitude: 41.663481
+longitude: -1.007945
 ---
 
 Low cost airline flying from London. Flights depart daily from London

@@ -1,6 +1,8 @@
 ---
 title: "Okmulgee"
 type: location
+latitude: 35.667708
+longitude: -95.969012
 ---
 
 Travel Guide

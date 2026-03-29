@@ -6,6 +6,8 @@ email: "giftsrakhi@hotmail.com"
 phone: "9230721098"
 type: "Shopping centers and malls"
 url: "www.rakhiworldwide.com"
+latitude: 22.572646
+longitude: 88.363895
 ---
 
 The auspicious celebration of Rakhi is on 2nd August 2012. It’s the perfect time to celebrate the special bond of a brother and sister.

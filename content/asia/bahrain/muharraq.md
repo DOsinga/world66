@@ -1,6 +1,8 @@
 ---
 title: "Muharraq"
 type: location
+latitude: 26.246595
+longitude: 50.616413
 ---
 
 We currently have no information about Muharraq.

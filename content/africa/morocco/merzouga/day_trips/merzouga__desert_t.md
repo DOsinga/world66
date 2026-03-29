@@ -5,6 +5,8 @@ address: "Merzouga Desert"
 email: "ksarbicha@gmail.com"
 phone: "+212 535577113"
 url: "www.ksarbicha.com"
+latitude: 31.096692
+longitude: -4.00552
 ---
 
 Riad Ksarbicha in Merzouga, offers the best true desert experience,Whatever your dream, we can arrange it. Treks include all meals, desert bivoac with mattresses and bedding, camels !, and guide.

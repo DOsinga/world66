@@ -1,6 +1,8 @@
 ---
 title: "Ruaha national park"
 type: location
+latitude: -7.801654
+longitude: 34.373008
 ---
 
 Travel Guide

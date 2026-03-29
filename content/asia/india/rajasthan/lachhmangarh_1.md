@@ -1,6 +1,8 @@
 ---
 title: "Lachhmangarh"
 type: location
+latitude: 27.363774
+longitude: 76.858193
 ---
 
 Travel Guide

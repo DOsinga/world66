@@ -1,6 +1,8 @@
 ---
 title: "Golf"
 type: location
+latitude: 13.6779
+longitude: 101.237398
 ---
 
 **Points of Interest**

@@ -1,6 +1,8 @@
 ---
 title: "mana ahmadani"
 type: location
+latitude: 29.805162
+longitude: 70.621741
 ---
 
 Travel Guide

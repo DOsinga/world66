@@ -1,6 +1,8 @@
 ---
 title: "Kerimaki"
 type: location
+latitude: 61.912084
+longitude: 29.281483
 ---
 
 Travel Guide

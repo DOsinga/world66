@@ -1,6 +1,8 @@
 ---
 title: "Nam-Tso Lake"
 type: location
+latitude: 30.716451
+longitude: 90.588925
 ---
 
 Travel Guide

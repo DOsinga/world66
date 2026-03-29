@@ -6,6 +6,8 @@ email: "steaks@el-gaucho.de"
 phone: "+49 221 246797"
 type: "South American"
 url: "www.el-gaucho.de"
+latitude: 50.92916
+longitude: 6.94256
 ---
 
 Since 1971 the Restaurant El Gaucho has served its guests with genuine,

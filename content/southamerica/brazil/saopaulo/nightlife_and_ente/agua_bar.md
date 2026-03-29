@@ -7,6 +7,8 @@ email: "faleconosco@aguabar.com.br"
 phone: "55-11-3168-6027"
 type: "Clubs and dancing"
 url: "www.aguabar.com.br"
+latitude: -23.581527
+longitude: -46.676637
 ---
 
 Nice environment, great place for happy hour, dinner and party.

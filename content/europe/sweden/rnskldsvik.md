@@ -1,6 +1,8 @@
 ---
 title: "Örnsköldsvik"
 type: location
+latitude: 63.288861
+longitude: 18.716021
 ---
 
 We currently have no information about .

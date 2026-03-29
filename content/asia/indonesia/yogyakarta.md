@@ -1,6 +1,8 @@
 ---
 title: "Yogyakarta"
 type: location
+latitude: -7.977838
+longitude: 110.367226
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Alte Schönhauser Str. 38"
 connections: "U Weinmeisterstr."
 opening_hours: "Mo-Fr noon -7pm"
 type: "Fashion"
+latitude: 52.525931
+longitude: 13.407345
 ---
 
 "The headquarters for combating the slopy look". The clubwear is wickedly good, as the three 6's suggest - some items are also really chaep and so damned tiny that gogos coma and go here.

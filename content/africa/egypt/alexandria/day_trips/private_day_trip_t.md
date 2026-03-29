@@ -5,6 +5,8 @@ address: "Haram,Giza"
 email: "egypttourguide@yahoo.com"
 phone: "+20121450455"
 url: "www.egypttips.com"
+latitude: 29.850964
+longitude: 31.220947
 ---
 
 Experience a private day trip to Cairo where the civilization started and visit Giza pyramids,Sphinx and the Egyptian museum from vessels, cruise ships arriving Alexandria..join now .

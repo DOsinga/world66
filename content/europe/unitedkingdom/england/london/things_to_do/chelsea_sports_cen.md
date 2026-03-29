@@ -6,6 +6,8 @@ email: "information@rbkc.gov.uk"
 phone: "020 7352 6985"
 type: "Swimming"
 url: "www.rbkc.gov.uk"
+latitude: 51.488085
+longitude: -0.168132
 ---
 
 Located just off King's Road, Chelsea Sports Centre features an early 20th-century swimming pool that's popular with kids and adults alike. The 32 by 12 meter pool is indoors, of course, and it costs as little as a cup of coffee and a pastry to enjoy the facility all day.

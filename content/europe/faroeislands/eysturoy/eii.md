@@ -1,6 +1,8 @@
 ---
 title: "Eiði"
 type: location
+latitude: 62.299608
+longitude: -7.091043
 ---
 
 Travel Guide

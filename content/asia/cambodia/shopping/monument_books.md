@@ -7,6 +7,8 @@ email: "webmaster@monument-books.com"
 phone: "(+855 23) 217 617"
 type: "Book shops"
 url: "www.monument-books.com"
+latitude: 11.555565
+longitude: 104.910903
 ---
 
 **Monument Books **is a bookstore located in Phnom Penh on Norodom Boulevard (just nearby the Independence Monument), International Airport and Siem Reap (Airport and National Museum) as well as on the internet on [www.monument-books.com.](/asia/cambodia/shopping)

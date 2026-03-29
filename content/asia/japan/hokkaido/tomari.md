@@ -1,6 +1,8 @@
 ---
 title: "Tomari"
 type: location
+latitude: 43.063128
+longitude: 140.499003
 ---
 
 Travel Guide

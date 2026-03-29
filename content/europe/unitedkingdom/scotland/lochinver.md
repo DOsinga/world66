@@ -1,6 +1,8 @@
 ---
 title: "Lochinver"
 type: location
+latitude: 58.152391
+longitude: -5.240577
 ---
 
 Although little, if any, more than a village, Lochinver, with a hotel and shops is more like a capital in the largely unpopulated area of the Sutherland coast where it is located. Any route to it is spectacular, none more so than the tiny, winding, single track road to Achltibuie. Only careful drivers need come here!

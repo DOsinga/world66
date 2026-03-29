@@ -1,9 +1,12 @@
 ---
 title: "Speicher"
 type: poi
+latitude: 49.935463
+longitude: 6.638982
 ---
 
-An old warehouse at the Oberbaumbrücke, now with American food and music on several floors. The "Black music bar" in the basement, American food in "Wheels", disco and cocktails in "Pitcarn". Brunch from 10am to 3pm for 20DM. 
+An old warehouse at the Oberbaumbrücke, now with American food and music on several floors. The "Black music bar" in the basement, American food in "Wheels", disco and cocktails in "Pitcarn". Brunch from 10am to 3pm for 20DM.
+ 
 
 address: Mühlenstr. 70-80
 

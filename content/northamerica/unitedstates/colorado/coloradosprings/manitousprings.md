@@ -1,6 +1,8 @@
 ---
 title: "Manitou Springs"
 type: location
+latitude: 38.858578
+longitude: -104.917873
 ---
 
 Just outside

@@ -8,6 +8,8 @@ phone: "+919655174805"
 price: "50-100 INR"
 type: "African"
 url: "www.facebook.com"
+latitude: 10.916045
+longitude: 79.832894
 ---
 
 We are one of the leading hotel in Ramanathapuram to provide coastal area food dishes in authentic local taste.

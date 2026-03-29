@@ -2,6 +2,8 @@
 title: "Old Town Square"
 type: poi
 type: "Squares"
+latitude: 50.087445
+longitude: 14.420971
 ---
 
 The old Town Square (Staromestske namesti) is from the 12th century. Old Town Hall with Astronomical Clock (on

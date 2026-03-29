@@ -1,6 +1,8 @@
 ---
 title: "Jubail"
 type: location
+latitude: 27.000697
+longitude: 49.653216
 ---
 
 We currently have no information about Jubail.

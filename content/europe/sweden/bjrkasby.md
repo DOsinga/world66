@@ -1,6 +1,8 @@
 ---
 title: "Bjärka-Säby"
 type: location
+latitude: 58.268325
+longitude: 15.740942
 ---
 
 Travel Guide

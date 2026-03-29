@@ -1,6 +1,8 @@
 ---
 title: "Capri Due"
 type: poi
+latitude: 59.341314
+longitude: 18.030884
 ---
 
 New Iranian owner with no experience in the hospitality trade. Totally unworthy of being called an Italian restaurant. the food sucks

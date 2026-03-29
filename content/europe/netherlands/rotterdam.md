@@ -1,6 +1,8 @@
 ---
 title: "Rotterdam"
 type: location
+latitude: 51.924442
+longitude: 4.47775
 ---
 
 This large and modern port city has risen phoenixlike from the ashes of World War II. In 1940 the Germans bombed the city to force a fast surrender of the Netherlands. Most demolition was actually done in the process or rebuilding the city to modern standards. Only three large buildings in the center have survived miraculously: the city hall, the St. Laurence church and the White House.

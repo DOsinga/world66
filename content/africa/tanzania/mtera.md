@@ -1,6 +1,8 @@
 ---
 title: "Mtera"
 type: location
+latitude: -7.161444
+longitude: 35.776251
 ---
 
 Travel Guide

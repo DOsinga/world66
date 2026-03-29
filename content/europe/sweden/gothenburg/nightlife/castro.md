@@ -7,6 +7,8 @@ email: "castro@haket.se"
 phone: "+46 (0)31-145888"
 type: "Gay and Lesbian"
 url: "www.castro.nu"
+latitude: 57.699108
+longitude: 11.942211
 ---
 
 Gay and lesbian bar and nightclub. Two floors, two bars, one dancefloor.

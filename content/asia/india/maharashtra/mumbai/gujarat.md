@@ -1,6 +1,8 @@
 ---
 title: "gujarat"
 type: location
+latitude: 22.385005
+longitude: 71.745261
 ---
 
 Travel Guide

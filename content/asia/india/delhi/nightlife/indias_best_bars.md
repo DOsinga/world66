@@ -8,6 +8,8 @@ email: "lounge@indiasbestbars.com"
 phone: "00-91-11-24610111"
 type: "Beer Gardens"
 url: "www.indiasbestbars.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 www.indiasbestbars.com

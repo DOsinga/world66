@@ -1,6 +1,8 @@
 ---
 title: "San Teodoro"
 type: location
+latitude: 37.845954
+longitude: 14.70202
 ---
 
 Travel Guide

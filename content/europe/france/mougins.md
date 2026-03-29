@@ -1,6 +1,8 @@
 ---
 title: "Mougins"
 type: location
+latitude: 43.60089
+longitude: 6.996354
 ---
 
 Travel Guide

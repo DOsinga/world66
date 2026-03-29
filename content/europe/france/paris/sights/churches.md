@@ -1,6 +1,8 @@
 ---
 title: "Churches"
 type: poi
+latitude: 48.879852
+longitude: 2.302226
 ---
 
 **Sights**

@@ -3,6 +3,8 @@ title: "U DRAGOUNA"
 type: poi
 address: "Parlerova 5, Praha 6"
 phone: "+42 (0)02 2051 1282"
+latitude: 50.087397
+longitude: 14.384164
 ---
 
 Open: Daily. 11.00 - 23.00

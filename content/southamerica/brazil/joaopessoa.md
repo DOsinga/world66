@@ -1,6 +1,8 @@
 ---
 title: "Joao pessoa"
 type: location
+latitude: -7.121598
+longitude: -34.882028
 ---
 
 Joao Pessoa is the extreme eastern point of continental Brazil (as well as Americas!), and greenest city in Brazil, just north of [Olinda](/southamerica/brazil/olinda) and [Recife](/southamerica/brazil/recife) and south of [Pipa](/southamerica/brazil/pipa) and [Natal](/southamerica/brazil/natal). The Cabo Branco (White Cape), with Longitude W34º44'55" is a must for visitors. The main reason people come here is for the beaches, but before you head for the prayas you should at least check out the Igreja Sao Francisco, one of the nicest churches in the country (there's a panel in perspective on its ceiling, said to be the third largest in the world...). 

@@ -6,6 +6,8 @@ email: "grannyfeelgoods@gmail.com"
 phone: "0214342463"
 price: "cheap"
 type: "American"
+latitude: -33.907878
+longitude: 18.409114
 ---
 
 Diner/Cafe open 7 days a week and serving all day breakfast, sandwiches and salads. Great coffee and atmosphere. Friendly and affordable with wireless internet access.

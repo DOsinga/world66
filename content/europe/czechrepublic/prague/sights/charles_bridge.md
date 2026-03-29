@@ -2,6 +2,8 @@
 title: "Charles Bridge"
 type: poi
 type: "Landmarks"
+latitude: 50.086799
+longitude: 14.40898
 ---
 
 The Charles Bridge (Karluv most) is the heart of Prague.

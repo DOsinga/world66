@@ -6,6 +6,8 @@ phone: "(918) 492-8040"
 price: "$6.95 lunch buffet; Dinner entrees from $9.95 to $12.50."
 type: "Indian and Pakistani"
 url: "www.indiapalacetulsa.com"
+latitude: 36.061681
+longitude: -95.956666
 ---
 
 There is no better place to get your curry on for an incredible eating experience than at India Palace. Guldeep and Manjit Singh are two brothers who came with their family recipes from India to bring the spices and atmosphere of their culture to Oklahoma.

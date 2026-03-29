@@ -5,6 +5,8 @@ address: "Market place"
 email: "tourism@kokkola.fi"
 type: "Tourist information"
 url: "tourism.kokkola.fi"
+latitude: 53.077855
+longitude: -0.955453
 ---
 
 ** 384 year old Kokkola is a great town of events during the year. **

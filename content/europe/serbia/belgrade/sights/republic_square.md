@@ -2,6 +2,8 @@
 title: "Republic Square"
 type: poi
 type: "Squares"
+latitude: 44.816222
+longitude: 20.460295
 ---
 
 Republic square with the National Theatre (1868) and the Monument to Prince Michael

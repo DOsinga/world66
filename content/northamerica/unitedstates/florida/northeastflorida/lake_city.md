@@ -1,6 +1,8 @@
 ---
 title: "Lake City"
 type: location
+latitude: 30.189425
+longitude: -82.63948
 ---
 
 Travel Guide

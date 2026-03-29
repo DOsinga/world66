@@ -1,6 +1,8 @@
 ---
 title: "Capanda Dam"
 type: location
+latitude: -9.795746
+longitude: 15.466835
 ---
 
 Travel Guide

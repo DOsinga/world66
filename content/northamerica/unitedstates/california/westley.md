@@ -1,6 +1,8 @@
 ---
 title: "Westley"
 type: location
+latitude: 37.550491
+longitude: -121.210129
 ---
 
 Travel Guide

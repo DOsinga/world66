@@ -1,6 +1,8 @@
 ---
 title: "Clawson"
 type: location
+latitude: 42.533368
+longitude: -83.146317
 ---
 
 Travel Guide

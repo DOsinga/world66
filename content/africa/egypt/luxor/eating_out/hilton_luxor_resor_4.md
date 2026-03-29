@@ -6,6 +6,8 @@ email: "luxor@hilton.com"
 phone: "+20 (95) 237 4933"
 type: "International"
 url: "www.hiltonworldresorts.com"
+latitude: 25.730308
+longitude: 32.656141
 ---
 
 Whether you prefer to recline on soft, shaded seating outdoors or

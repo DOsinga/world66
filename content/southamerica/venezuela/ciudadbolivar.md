@@ -1,6 +1,8 @@
 ---
 title: "Ciudad bolivar"
 type: location
+latitude: 8.102853
+longitude: -63.546956
 ---
 
 We currently have no information about Ciudad bolivar.

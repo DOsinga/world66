@@ -1,6 +1,8 @@
 ---
 title: "Miðvágur"
 type: location
+latitude: 62.047955
+longitude: -7.192204
 ---
 
 Travel Guide

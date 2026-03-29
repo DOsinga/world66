@@ -7,6 +7,8 @@ email: "sarafinacurios@yahoo.com"
 phone: "062-32692, +254722770521"
 price: "standard"
 type: "African"
+latitude: 0.01403
+longitude: 37.074632
 ---
 
 Marina Grill. Kenyatta Avenue..Offering Pizza Steaks Curry Choma cold beers and good music. all day long. The best restaurant in town. Opposite Post Office and near Barclays Bank. Visit the website at www.marinasteak.com to make reservations with us.

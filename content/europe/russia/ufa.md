@@ -1,6 +1,8 @@
 ---
 title: "Ufa"
 type: location
+latitude: 54.726141
+longitude: 55.947499
 ---
 
 Travel Guide

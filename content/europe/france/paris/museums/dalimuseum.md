@@ -5,6 +5,8 @@ address: "11, rue Poulbot, 75018 Paris"
 connections: "Metro: Anvers + RER - Abbesses - Blanche – Pigalle. Bus: 64- 80."
 opening_hours: "daily without interruption, including public holidays, from 10 am to 6 pm"
 phone: "01 42 64 40 10"
+latitude: 48.88648
+longitude: 2.339902
 ---
 
 The Espace Dali-Montmartre was set up by the Stratton Foundation, a non profit-making association operating from Lichtenstein whose main aim is to promote Art. 

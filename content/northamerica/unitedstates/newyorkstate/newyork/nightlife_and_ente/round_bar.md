@@ -6,6 +6,8 @@ closing_time: "2:00 a.m. Sunday-Wednesday, 4:00 a.m. Thursday-Saturday"
 phone: "212-727-7741"
 type: "Wine bars"
 url: "www.flatironlounge.com"
+latitude: 40.740067
+longitude: -73.993167
 ---
 
 This high-end cocktail lounge features guest mixologists, a seasonal menu, and daily flights as well as classic drinks by request.

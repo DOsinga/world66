@@ -1,6 +1,8 @@
 ---
 title: "Teotihucán"
 type: poi
+latitude: 18.019418
+longitude: -102.2168
 ---
 
 Where the Men Became Gods, or so the Aztecs thought. This UNESCO

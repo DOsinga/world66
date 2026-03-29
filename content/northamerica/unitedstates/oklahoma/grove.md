@@ -1,6 +1,8 @@
 ---
 title: "Grove"
 type: location
+latitude: 42.476149
+longitude: -77.916155
 ---
 
 Travel Guide

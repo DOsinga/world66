@@ -1,6 +1,8 @@
 ---
 title: "AZAKHEL BALA"
 type: location
+latitude: 33.996582
+longitude: 71.856697
 ---
 
 Travel Guide

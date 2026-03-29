@@ -4,6 +4,8 @@ type: section
 address: "212 High St"
 phone: "(423) 265-5033"
 type: "Italian"
+latitude: 51.369532
+longitude: -0.100026
 ---
 
 One will never go hungry or want to stay in for dinner in Chattanooga. There is a taste for everyone amongst the numerous restaurants to choose from. There are the classics such as Sticky Fingers, Buffalo Wild Wings, Chili's, Panera, and Mellow Mushroom, but there are also Thai, Chinese, Italian and many other types to choose from. Residents of the area sometimes enjoy eating in the dining rooms of the Chattanooga Golf and Country Club at which they have membership. If you are feeling fancy, Northshore Grill, St. John's, Sushi Nabe, Tony's, or the Back Inn Café may be just the place for you. Dessert should never be a problem with Clumpy's and Ben and Jerry's ice cream shops, the Cake Factory, and Rembrandt's.

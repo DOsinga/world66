@@ -7,6 +7,8 @@ email: "info@nepalguideinfo.com"
 phone: "+9779841613822"
 type: "Trekking"
 url: "www.hikehimalayas.com"
+latitude: 27.708317
+longitude: 85.320582
 ---
 
 http://www.nepalguideinfo.com/index.php?link=home

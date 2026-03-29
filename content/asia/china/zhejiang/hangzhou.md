@@ -1,6 +1,8 @@
 ---
 title: "Hangzhou"
 type: location
+latitude: 30.248963
+longitude: 120.205234
 ---
 
 Travel Guide

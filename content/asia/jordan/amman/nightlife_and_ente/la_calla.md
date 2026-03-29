@@ -5,6 +5,8 @@ address: "Jabal Amman"
 closing_time: "1 Am"
 phone: "0795073956"
 type: "Wine bars"
+latitude: 31.951573
+longitude: 35.921364
 ---
 
 Italian Restaurant

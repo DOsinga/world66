@@ -1,6 +1,8 @@
 ---
 title: "Canoa"
 type: location
+latitude: -0.46255
+longitude: -80.455838
 ---
 
 Travel Guide

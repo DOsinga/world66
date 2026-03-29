@@ -1,6 +1,8 @@
 ---
 title: "Takamatsu"
 type: location
+latitude: 34.342559
+longitude: 134.046534
 ---
 
 Travel Guide

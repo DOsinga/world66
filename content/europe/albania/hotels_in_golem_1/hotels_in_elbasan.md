@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Elbasan"
 type: location
+latitude: 41.111964
+longitude: 20.080892
 ---
 
 Travel Guide

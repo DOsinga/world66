@@ -7,6 +7,8 @@ email: "andy@riverside-bistro.com"
 price: "$3 and up"
 type: "European"
 url: "www.riverside-bistro.com"
+latitude: 11.569432
+longitude: 104.930147
 ---
 
 T he Riverside Bistro is located in the heart of Phnom Penh's riverfront, With its spectacular riverfront

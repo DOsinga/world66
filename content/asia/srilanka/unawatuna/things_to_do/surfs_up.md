@@ -2,6 +2,8 @@
 title: "Surf's Up"
 type: poi
 type: "Surfing"
+latitude: 5.972792
+longitude: 80.43377
 ---
 
 Surfin's catching on fast in Unawatuna, many of the local kids have

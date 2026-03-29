@@ -4,6 +4,8 @@ type: location
 address: "Kathmandu, Nepal"
 email: "info@ghalegroup.com"
 phone: "0097714411001"
+latitude: 27.708317
+longitude: 85.320582
 ---
 
 ### [Nepal Tourism Year 2011 Special ---Save 25% Over](/asia/nepal/kathmandu/7dayitinerary/nepal_tourism_year)

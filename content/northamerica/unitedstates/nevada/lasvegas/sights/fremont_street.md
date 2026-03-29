@@ -2,6 +2,8 @@
 title: "Fremont Street"
 type: poi
 type: "Squares"
+latitude: 40.637542
+longitude: -74.081011
 ---
 
 Fremont Street is where Las Vegas and all its glory originated from.It

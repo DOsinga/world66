@@ -1,6 +1,8 @@
 ---
 title: "rabwah"
 type: location
+latitude: 31.758
+longitude: 72.906056
 ---
 
 Travel Guide

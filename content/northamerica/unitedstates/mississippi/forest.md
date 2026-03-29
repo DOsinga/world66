@@ -1,6 +1,8 @@
 ---
 title: "Forest"
 type: location
+latitude: 41.532976
+longitude: -79.264091
 ---
 
 Travel Guide

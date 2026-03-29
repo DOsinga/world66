@@ -1,6 +1,8 @@
 ---
 title: "Uwajima"
 type: location
+latitude: 33.223231
+longitude: 132.560651
 ---
 
 Travel Guide

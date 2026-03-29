@@ -5,6 +5,8 @@ address: "301 West Martin St. Raleigh, NC 27601"
 phone: "919.836.9338"
 type: "African"
 url: "www.cherrybombgrill.com"
+latitude: 35.776846
+longitude: -78.643792
 ---
 
 If you are looking for good seafood, then one of your Raleigh restaurants should be 42nd Street Oyster Bar. The fried oysters are the best. With this, try the spinach salad. The hot bacon dressing and shrimp are excellent. You wouldn't think that a seafood bar could serve good greens and black eyed peas. The greens and peas are seasoned just right, and the ham adds nice flavor. Other entrees to try are the clams, catfish, seafood penne, crabcakes, calamari, and the Norfolk style scallops. Make sure you leave room for desert-the homemade key lime pie is to die for.

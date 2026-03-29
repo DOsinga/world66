@@ -1,6 +1,8 @@
 ---
 title: "Warangal"
 type: location
+latitude: 17.982064
+longitude: 79.597095
 ---
 
 Warangal is the most important historic city in the Telangana region. It was the capital of the Kakatiya rulers who practised Veera Shaivam which led to the constrcution of some magnificient Shiva temples in the area.The temples at Ramappa and Hanamkonda stand as testament to the artistic and architectural finery of the times. The remains of the fort they built suggest the erstwhile glory of the town.

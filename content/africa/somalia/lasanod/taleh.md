@@ -1,6 +1,8 @@
 ---
 title: "Taleh"
 type: location
+latitude: 9.146098
+longitude: 48.421937
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Alva"
 type: location
+latitude: 36.80305
+longitude: -98.666028
 ---
 
 Travel Guide

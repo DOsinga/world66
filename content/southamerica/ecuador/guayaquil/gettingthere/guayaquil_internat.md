@@ -4,6 +4,8 @@ type: poi
 address: "Americas Avenue"
 type: "By Air"
 url: "www.tagsa.aero"
+latitude: -23.006101
+longitude: -43.4325
 ---
 
 This renovated airport had been going throught an investment over 300 million dollars a new Airport facility is schedule to be open on February 2006, the current building had been renew completly, and all the service accomplish the IATA standards, **Guayaquil's International Airport** <Simon Bolivar> offers non stop service to the Galapagos Islands as well as most US cities and Europe.

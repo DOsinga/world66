@@ -5,6 +5,8 @@ accessibility: "Bus, car, on foot"
 address: "Piazza Vecchia,  Città Alta"
 type: "Squares"
 url: "www.duepassinelmistero.com"
+latitude: 45.704038
+longitude: 9.662898
 ---
 
 From Piazza Vecchia the covered arched porch of the Palazzo della Ragione extends south. It is full of interesting historical facts and monuments. To the right near the Caffe' del Tasso is a statue of the famous poet, Torquato Tasso, up on a column.

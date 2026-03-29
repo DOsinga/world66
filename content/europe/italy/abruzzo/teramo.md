@@ -1,6 +1,8 @@
 ---
 title: "Teramo"
 type: location
+latitude: 42.658118
+longitude: 13.697875
 ---
 
 Travel Guide

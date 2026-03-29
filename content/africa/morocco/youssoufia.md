@@ -1,6 +1,8 @@
 ---
 title: "Youssoufia"
 type: location
+latitude: 32.245801
+longitude: -8.532439
 ---
 
 Travel Guide

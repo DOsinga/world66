@@ -5,6 +5,8 @@ address: "Hackescher Markt."
 connections: "U Weinmeisterstr."
 opening_hours: "Mo-Fr 11am -8pm, Sa 11am -5pm"
 type: "Fashion"
+latitude: 52.522681
+longitude: 13.402342
 ---
 
 Avant-garde Berlin fashions for women in the Fountain Courtyard in the Hackescher Markt.

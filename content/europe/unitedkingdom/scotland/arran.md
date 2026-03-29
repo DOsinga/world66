@@ -1,6 +1,8 @@
 ---
 title: "Arran"
 type: location
+latitude: 55.577451
+longitude: -5.252161
 ---
 
 Aran is on of Scotland's most southerly islands and is often said to be like 'Scotland in Miniature', presumably on the grounds that it is mountainous in the north. However this may be it is a lovely island with some glorious mountains and beaches. It is one of the islands easiest to reach from the south. 

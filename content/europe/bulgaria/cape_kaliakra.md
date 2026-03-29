@@ -1,6 +1,8 @@
 ---
 title: "cape Kaliakra"
 type: location
+latitude: 43.360374
+longitude: 28.465223
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "Spui 224"
 phone: "070-3452853"
 price: "€ 60.50"
 type: "French"
+latitude: 52.075621
+longitude: 4.319151
 ---
 
 Mediterranean kitchen with good fish dishes. When the weather permits you, you can eat in the garden.

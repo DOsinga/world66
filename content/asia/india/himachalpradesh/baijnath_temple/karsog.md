@@ -1,6 +1,8 @@
 ---
 title: "Karsog"
 type: location
+latitude: 31.342294
+longitude: 77.200766
 ---
 
 Travel Guide

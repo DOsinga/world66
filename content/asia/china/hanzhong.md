@@ -1,6 +1,8 @@
 ---
 title: "Hanzhong"
 type: location
+latitude: 33.171124
+longitude: 107.045009
 ---
 
 Travel Guide

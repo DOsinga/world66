@@ -1,6 +1,8 @@
 ---
 title: "Gamprin-bendern"
 type: location
+latitude: 47.211882
+longitude: 9.504071
 ---
 
 We currently have no information about Gamprin-bendern.

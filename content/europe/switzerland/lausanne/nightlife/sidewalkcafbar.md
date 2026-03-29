@@ -4,6 +4,8 @@ type: poi
 address: "Place du Tunnel 9"
 phone: "41 (0)21 323 80 08"
 type: "Bars & Cafes"
+latitude: 46.525952
+longitude: 6.635049
 ---
 
 type: Bars & Cafes

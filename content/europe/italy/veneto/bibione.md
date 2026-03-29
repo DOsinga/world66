@@ -1,6 +1,8 @@
 ---
 title: "Bibione"
 type: location
+latitude: 45.642726
+longitude: 13.05467
 ---
 
 Travel Guide

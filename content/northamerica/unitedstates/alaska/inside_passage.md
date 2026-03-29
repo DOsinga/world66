@@ -1,6 +1,8 @@
 ---
 title: "Inside Passage"
 type: location
+latitude: 47.62228
+longitude: -117.284872
 ---
 
 Travel Guide

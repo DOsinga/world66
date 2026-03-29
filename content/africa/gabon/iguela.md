@@ -1,6 +1,8 @@
 ---
 title: "Iguela"
 type: location
+latitude: -1.906706
+longitude: 9.322674
 ---
 
 We currently have no information about Iguela.

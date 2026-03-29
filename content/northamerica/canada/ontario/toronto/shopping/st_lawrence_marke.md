@@ -6,6 +6,8 @@ email: "market@stlawrencemarket.com"
 phone: "416.392.7120"
 type: "Markets"
 url: "www.stlawrencemarket.com"
+latitude: 43.649687
+longitude: -79.37198
 ---
 
 Over 50 specialty vendors in Toronto's premier market. Located at Front and Jarvis, it is the centre of the historic St. Lawrence Neighbourhood, close to the hub of today's downtown.

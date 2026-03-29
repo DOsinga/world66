@@ -1,6 +1,8 @@
 ---
 title: "Mihintale"
 type: location
+latitude: 8.3583
+longitude: 80.512158
 ---
 
 Mihintale in North Central Sri Lanka is the cradle of Theravada

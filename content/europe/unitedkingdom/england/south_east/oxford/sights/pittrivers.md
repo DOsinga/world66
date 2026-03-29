@@ -5,6 +5,8 @@ address: "Parks Road"
 opening_hours: "Mon-Sat 1-4.30pm"
 phone: "01865 270949"
 type: "Museums"
+latitude: 18.094705
+longitude: -76.866489
 ---
 
 type: Museums

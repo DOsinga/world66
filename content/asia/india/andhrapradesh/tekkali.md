@@ -1,6 +1,8 @@
 ---
 title: "Tekkali"
 type: location
+latitude: 18.608435
+longitude: 84.231095
 ---
 
 This town is located 50 kms far from Srikakulam towards North direction. This is central point to reach Ravivalasa and Telinilapuram. Late Dr. N.T.Rama Rao, The Great Actor and Ex-Chief Minister of Andhra Pradesh got elected from Tekkali Legislative constituency once. 

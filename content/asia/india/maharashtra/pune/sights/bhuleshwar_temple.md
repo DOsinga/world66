@@ -5,6 +5,8 @@ address: "Pune"
 email: "bhatkanti@gmail.com"
 type: "Palaces"
 url: "bhatkanti.blogspot.com"
+latitude: 18.521374
+longitude: 73.854507
 ---
 
 Just about 50 Kms. from Pune. **Bhuleshwar **is a nice and cool place to

@@ -1,6 +1,8 @@
 ---
 title: "Ninety Mile Beach"
 type: location
+latitude: -34.852456
+longitude: 173.045929
 ---
 
 90 Mile Beach, also known as

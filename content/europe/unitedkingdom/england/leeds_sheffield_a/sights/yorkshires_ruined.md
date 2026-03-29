@@ -3,6 +3,8 @@ title: "Yorkshire's ruined Abbeys and Priories"
 type: poi
 address: "various"
 url: "britannia.com"
+latitude: 21.702345
+longitude: 108.359024
 ---
 
 Yorkshires abbey ruins are as noted as any in the UK and a week's holiday could well be spent with this as a theme. 

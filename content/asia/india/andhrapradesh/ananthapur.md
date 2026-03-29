@@ -1,6 +1,8 @@
 ---
 title: "Ananthapur"
 type: location
+latitude: 19.504885
+longitude: 78.430935
 ---
 
 We currently have no information about Ananthapur.

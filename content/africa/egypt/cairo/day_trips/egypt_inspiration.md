@@ -5,6 +5,8 @@ address: "124 Haram street, Giza, Egypt"
 email: "hend@egyptonlinetours.net"
 phone: "002 / 0111029094"
 url: "egyptonlinetours.net"
+latitude: 29.781817
+longitude: 31.284695
 ---
 
 Departure : Everyday

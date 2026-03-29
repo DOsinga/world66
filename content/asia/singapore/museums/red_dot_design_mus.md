@@ -7,6 +7,8 @@ email: "museum@red-dot.sg"
 opening_hours: "weekdays: 11am-6pm; weekends: 11am-8pm; closed on Weds, Thus and during private events"
 phone: "(65) 65347194"
 url: "www.reddottraffic.com"
+latitude: 1.278242
+longitude: 103.845557
 ---
 
 Preview how our future will evolve with an exhibition of award winning

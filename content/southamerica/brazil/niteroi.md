@@ -1,6 +1,8 @@
 ---
 title: "Niteroi"
 type: location
+latitude: -22.8884
+longitude: -43.1147
 ---
 
 We currently have no information about .

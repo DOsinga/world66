@@ -1,6 +1,8 @@
 ---
 title: "St Ives"
 type: location
+latitude: 50.214906
+longitude: -5.479508
 ---
 
 Travel Guide

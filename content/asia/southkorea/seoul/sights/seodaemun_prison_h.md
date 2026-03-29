@@ -5,6 +5,8 @@ opening_hours: "09:30 - 17:00 (18:00 Summer)"
 phone: "02 363 9750 1"
 type: "Memorials"
 url: "www.sscmc.or.kr"
+latitude: 37.574537
+longitude: 126.956317
 ---
 
 A harrowing and grisly reminder of Korea under Japanese occupation can be found at Seodeamun Prison. Watchtowers, cells and execution rooms are all preserved complete with graphic dioramas depicting the torture of prisoners.

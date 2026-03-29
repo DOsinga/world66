@@ -1,6 +1,8 @@
 ---
 title: "Somaliland"
 type: location
+latitude: 10.374367
+longitude: 45.109858
 ---
 
 Although Somaliland is not recognized by the international community as an independent country, it is listed seperately here, because it effectively behaves like a state of its own. And might we add, a state that is a lot saver to travel in than neighbouring Somalia. 

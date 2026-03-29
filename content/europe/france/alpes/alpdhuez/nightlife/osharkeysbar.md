@@ -5,6 +5,8 @@ address: "Rue  de la Grenouillère"
 phone: "04 76 11 36 39"
 type: "Bars & Cafes"
 zipcode: "38750 ALPE D'HUEZ"
+latitude: 46.166314
+longitude: -1.027935
 ---
 
 type: Bars & Cafes

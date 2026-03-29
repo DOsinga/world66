@@ -1,6 +1,8 @@
 ---
 title: "Paranaguá"
 type: location
+latitude: -25.514882
+longitude: -48.522669
 ---
 
 For many people Paranguá is just a port city, the end of the line from

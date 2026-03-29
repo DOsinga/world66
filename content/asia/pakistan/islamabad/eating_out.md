@@ -8,6 +8,8 @@ phone: "+92514100191"
 price: "pheasable."
 type: "Local"
 url: "www.dunkindonuts.com.pk"
+latitude: 43.589866
+longitude: 39.806538
 ---
 
 qdsddsafds

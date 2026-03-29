@@ -1,6 +1,8 @@
 ---
 title: "Kaghan"
 type: location
+latitude: 34.780626
+longitude: 73.524155
 ---
 
 Travel Guide

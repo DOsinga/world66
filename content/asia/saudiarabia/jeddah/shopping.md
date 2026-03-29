@@ -5,6 +5,8 @@ address: "Heraa Street"
 phone: "+966 2 6541654"
 type: "Speciality shops"
 url: "www.heraamall.com"
+latitude: 30.363935
+longitude: 30.501643
 ---
 
 Shopping malls in Jeddah

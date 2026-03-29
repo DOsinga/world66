@@ -4,6 +4,8 @@ type: poi
 accessibility: "Yes"
 address: "Kolksteeg 2"
 phone: "020 - 6249049"
+latitude: 52.376185
+longitude: 4.895521
 ---
 
 Burger Bar is newly opened in Amsterdam Centrum with a new concept of serving healthier fast food such as Hamburgers. Normally, people tend to confuse fast food with non-healthy food. Burger Bar Amsterdam challenges this confusion and is dedicated to serving tasty and healthy hamburgers.

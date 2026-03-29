@@ -1,6 +1,8 @@
 ---
 title: "Porkeri"
 type: location
+latitude: 61.481959
+longitude: -6.746296
 ---
 
 Travel Guide

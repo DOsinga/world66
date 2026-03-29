@@ -1,6 +1,8 @@
 ---
 title: "Gelephu"
 type: location
+latitude: 26.870365
+longitude: 90.48558
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Varanasi"
 type: location
+latitude: 25.335649
+longitude: 83.007629
 ---
 
 Travel Guide

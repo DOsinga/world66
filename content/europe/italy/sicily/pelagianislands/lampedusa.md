@@ -1,6 +1,8 @@
 ---
 title: "Lampedusa"
 type: location
+latitude: 35.511134
+longitude: 12.596291
 ---
 
 Lampedusa is situated between Malta and Tunisia and belongs geologically and geographically to the African Continent. The most extensive of the Pelagian Islands, it is a 240 square-kilometre strip of land full of inlets, sky-blue grottoes and cliffs with an almost lunar appearance that have been sculpted by the perpetual lapping of the waves.

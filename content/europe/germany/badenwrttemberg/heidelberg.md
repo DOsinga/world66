@@ -1,6 +1,8 @@
 ---
 title: "Heidelberg"
 type: location
+latitude: 49.409358
+longitude: 8.694724
 ---
 
 **Heidelberg** (pop. 132 000) on Neckar river is set among lovely hills, where the Neckar valley opens into the Rhine valley. Its famous 600-year-old University of Heidelberg (the oldest in Germany, founded in 1386) has several Renaissance towers and turrets at the base of a hill near **Heidelberg Castle**. Be warned: It is a draw for fleets of tour buses in the summer.

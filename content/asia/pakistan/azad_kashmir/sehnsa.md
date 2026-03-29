@@ -1,6 +1,8 @@
 ---
 title: "sehnsa"
 type: location
+latitude: 33.513437
+longitude: 73.755566
 ---
 
 Travel Guide

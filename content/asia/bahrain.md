@@ -1,6 +1,8 @@
 ---
 title: "Bahrain"
 type: location
+latitude: 26.155125
+longitude: 50.534461
 ---
 
 Bahrain is a small island in the Persian Gulf (or the Arabic Gulf, as the Arabs call it). It is linked to its big neighbour Saudi Arabia by a bridge and seperated by a small strait from Qatar. The population is, like in neighbouring Iran in large majority Shia Muslim. 

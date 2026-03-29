@@ -1,6 +1,8 @@
 ---
 title: "Hotels in Velipoje"
 type: location
+latitude: 41.866523
+longitude: 19.42636
 ---
 
 Travel Guide

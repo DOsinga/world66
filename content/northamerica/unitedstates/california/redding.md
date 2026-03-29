@@ -1,6 +1,8 @@
 ---
 title: "Redding"
 type: location
+latitude: 40.586356
+longitude: -122.391675
 ---
 
 Travel Guide

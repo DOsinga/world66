@@ -6,6 +6,8 @@ phone: "+31 (0)10 412 2613"
 type: "Pubs"
 url: "www.xs4all.nl"
 zipcode: "3011HS"
+latitude: 51.922816
+longitude: 4.482915
 ---
 
 type: Pubs

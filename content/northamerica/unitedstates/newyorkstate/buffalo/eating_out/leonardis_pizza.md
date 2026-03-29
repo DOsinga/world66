@@ -5,6 +5,8 @@ address: "614 Grover Cleveland Highway, Amherst, NY 14226"
 phone: "(716) 835-8700"
 price: "$10.00 and Up"
 type: "Italian"
+latitude: 42.970484
+longitude: -78.807353
 ---
 
 This is an authentic Italian made Buffalo Grown and made pizza. The peperoni is home made and so is the sauce. As well, they use a combination of cheeses on the pizza for a fantastic taste. If you are looking for a Pizza that is the best Buffalo has to offer, drop by and give them a try. You will be glad you did!

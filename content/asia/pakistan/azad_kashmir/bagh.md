@@ -1,6 +1,8 @@
 ---
 title: "Bagh"
 type: location
+latitude: 33.980008
+longitude: 73.773788
 ---
 
 Travel Guide

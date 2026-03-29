@@ -7,6 +7,8 @@ email: "cnx@pornpinghotelchiangmai.com"
 phone: "66-5327-0099"
 type: "Clubs and dancing"
 url: "www.pornpinghotelchiangmai.com"
+latitude: 18.294692
+longitude: 99.491737
 ---
 
 The Space Bubble is a well known night club in Chiang Mai. It is a hotel disco and part of the Pornping Tower Hotel.

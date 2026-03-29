@@ -1,6 +1,8 @@
 ---
 title: "Kalispell"
 type: location
+latitude: 48.202158
+longitude: -114.315321
 ---
 
 Travel Guide

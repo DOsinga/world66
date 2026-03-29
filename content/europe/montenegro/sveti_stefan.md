@@ -1,6 +1,8 @@
 ---
 title: "Sveti Stefan"
 type: location
+latitude: 42.255651
+longitude: 18.89695
 ---
 
 Travel Guide

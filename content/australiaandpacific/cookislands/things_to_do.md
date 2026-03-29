@@ -5,6 +5,8 @@ address: "4 highbury street"
 email: "asalty@hotmail.com"
 phone: "01803 752544"
 type: "Spa and Sauna"
+latitude: -37.804828
+longitude: 144.875164
 ---
 
 On Cook Islands you have lot of thing you can do. Most famous is surfing and diving, but you can do lot of other activities.

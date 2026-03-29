@@ -5,6 +5,8 @@ address: "162 B, Mayur Vihar, Phase 1"
 email: "subinfo8@gmail.com"
 phone: "0091 935016224"
 url: "www.indiatraveltours.com"
+latitude: 28.602958
+longitude: 77.289286
 ---
 
 Leaving in the morning on speed train and returning same day is the best way to accomplish day tour of Taj Mahal. Follow the itinerary as:

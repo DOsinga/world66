@@ -1,6 +1,8 @@
 ---
 title: "Tarragona"
 type: poi
+latitude: 41.117236
+longitude: 1.254606
 ---
 
 In

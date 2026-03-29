@@ -5,6 +5,8 @@ address: "see website"
 email: "info@pubcrawlBA.com"
 type: "Pubs"
 url: "www.pubcrawlBA.com"
+latitude: 60.197144
+longitude: 24.949906
 ---
 
 Welcome to The Buenos Aires Pub Crawl

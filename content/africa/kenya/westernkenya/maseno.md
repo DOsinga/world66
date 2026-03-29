@@ -1,6 +1,8 @@
 ---
 title: "Maseno"
 type: location
+latitude: 0.001538
+longitude: 34.605756
 ---
 
 Travel Guide

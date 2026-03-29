@@ -6,6 +6,8 @@ address: "Poltava"
 email: "fragov@gmail.com"
 type: "Other"
 url: "www.poltavaforum.com"
+latitude: 49.860781
+longitude: 33.749879
 ---
 
 Go to Koktebel

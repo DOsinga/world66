@@ -1,6 +1,8 @@
 ---
 title: "Oostende"
 type: location
+latitude: 51.225856
+longitude: 2.919496
 ---
 
 Oostende is one of the nicest beach resorts on the North Sea. With its Pier, its Casino and its Boulevard it has the grandeur of any of the resorts on the riviera. Combine that with the Belgian charm, the Moules & Frites and the great Belgian beer and you have an ideal place to spend your beach holiday.

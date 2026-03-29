@@ -5,6 +5,8 @@ address: "Granada"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 37.173499
+longitude: -3.599534
 ---
 
 On this private tour you will visit Malaga and Granada with a private local guide and transportation from Malaga… 

@@ -1,6 +1,8 @@
 ---
 title: "Oriental"
 type: poi
+latitude: 30.633277
+longitude: 31.789374
 ---
 
 **Restaurants**
@@ -71,7 +73,8 @@ tel: +20 2 578 5161
 
 **Thailandia**
 
-Great atmosphere and beautiful interior.  
+Great atmosphere and beautiful interior. 
+ 
 
 address: 3 Sphinx Square.
 

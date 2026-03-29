@@ -7,6 +7,8 @@ date: "December 3, 2006"
 email: "sjholidayparade@sanjoseca.gov"
 phone: "(408) 793-4170"
 url: "www.sanjoseholidayparade.com"
+latitude: 37.338034
+longitude: -121.885323
 ---
 
 The SAN JOSE HOLIDAY PARADE, considered one of the "TOP 25" PARADES

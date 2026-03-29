@@ -1,6 +1,8 @@
 ---
 title: "Kalsoy"
 type: location
+latitude: 62.298151
+longitude: -6.74299
 ---
 
 Travel Guide

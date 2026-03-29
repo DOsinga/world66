@@ -2,6 +2,8 @@
 title: "Tiger Hill"
 type: poi
 type: "Hotspots"
+latitude: 26.994901
+longitude: 88.285331
 ---
 
 Passing through primitive forests of Oak, Magnolia etc. with beautiful ferns ablaze with colour, adorning the hill-sides is the steeply ascending road to Senchal, running through Ghoom on its way to Tiger Hill, 11 kms from the town and at an elevation of 2,590m (8482 ft).

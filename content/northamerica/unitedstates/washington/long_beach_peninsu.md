@@ -1,6 +1,8 @@
 ---
 title: "Long Beach Peninsula"
 type: location
+latitude: 46.466614
+longitude: -124.042991
 ---
 
 Travel Guide

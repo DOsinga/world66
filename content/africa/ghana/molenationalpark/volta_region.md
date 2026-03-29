@@ -1,6 +1,8 @@
 ---
 title: "Volta Region"
 type: location
+latitude: 6.534862
+longitude: 0.455605
 ---
 
 We currently have no information about .

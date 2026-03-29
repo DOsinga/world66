@@ -1,6 +1,8 @@
 ---
 title: "Gallery i8"
 type: poi
+latitude: 64.14983
+longitude: -21.942985
 ---
 
 email: i8@itn.is

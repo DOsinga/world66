@@ -1,6 +1,8 @@
 ---
 title: "Chichen Itza"
 type: location
+latitude: 20.682852
+longitude: -88.56872
 ---
 
 Travel Guide

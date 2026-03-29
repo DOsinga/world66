@@ -1,6 +1,8 @@
 ---
 title: "Strumica"
 type: location
+latitude: 41.439008
+longitude: 22.637414
 ---
 
 The city of Strumica is situated in the Strumica Valley in southeastern Macedonia. The Strumcia valley stretches over an area of 259 square meters and lies at 239 meters above the sea level. Strumica is the biggest settlement in the valley, which is also the home of 72 villages. According to the census of 1991, the population of Strumcia is 34,424, while the population of the whole community of Strumica and the 72 villages amounts to 94,520 inhabitants. 

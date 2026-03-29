@@ -5,6 +5,8 @@ address: "College Ave"
 email: "sam_clemens@cityofelmira.net"
 opening_hours: "all year round"
 type: "Landmarks"
+latitude: 41.868343
+longitude: -88.090295
 ---
 
 There are a number of interesting sites in Elmira, mostly relating to Mark Twain.,,

@@ -1,6 +1,8 @@
 ---
 title: "A Perfect Day"
 type: location
+latitude: 36.233633
+longitude: -115.253784
 ---
 
 A Perfect Day in Chicago 

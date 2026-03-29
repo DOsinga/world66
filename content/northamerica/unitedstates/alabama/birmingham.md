@@ -1,6 +1,8 @@
 ---
 title: "Birmingham"
 type: location
+latitude: 33.520682
+longitude: -86.802433
 ---
 
 Birmingham is the largest city in the state. Nestled in the foothills of the Appalachian Mountains, it sprawls along a single valley, while suburbs dot the surrounding valleys. Red Mountain is in the center of town and runs east to west. Along the mountain, iron ore was mined and used in the numerous steel mills that once dotted the landscape. Birmingham's steel heritage is long gone now, given way to other industries like banking and medical research. The University of Alabama at Birmingham makes up much of the downtown area. 

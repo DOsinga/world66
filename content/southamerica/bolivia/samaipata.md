@@ -1,6 +1,8 @@
 ---
 title: "Samaipata"
 type: location
+latitude: -18.179655
+longitude: -63.875825
 ---
 
 Travel Guide

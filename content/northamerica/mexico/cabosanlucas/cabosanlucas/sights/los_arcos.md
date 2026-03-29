@@ -2,6 +2,8 @@
 title: "Los Arcos"
 type: poi
 type: "Landmarks"
+latitude: 20.674436
+longitude: -103.384826
 ---
 
 Los Arcos is the most recognizable landmark in Cabo San Lucas. It marks the southernmost tip of the Baja Peninsula as it fades away into the beautiful Sea of Cortez.

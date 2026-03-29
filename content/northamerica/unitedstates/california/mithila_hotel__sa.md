@@ -1,6 +1,8 @@
 ---
 title: "Mithila Hotel - San Francisco, CA"
 type: location
+latitude: 37.788497
+longitude: -122.416359
 ---
 
 Travel Guide

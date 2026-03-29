@@ -5,6 +5,8 @@ address: "Riyadh Saudi Arabia"
 email: "jamshaidnwr@yahoo.com"
 phone: "0509492185"
 type: "Spa and Sauna"
+latitude: 23.333333
+longitude: 45.333333
 ---
 
 http://riazhussain879.page.tl/

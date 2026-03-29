@@ -1,6 +1,8 @@
 ---
 title: "Ordesa National Park"
 type: location
+latitude: 42.609568
+longitude: 0.07656
 ---
 
 The best entry point for Ordesa is Torla - see 'getting there.' There is no access for private cars, except in the winter, but a coach runs up every 20 minutes from the large car park There is a limit to the number allowed in at any one time but this is certainly not a problem outside the main holiday season. You can get off the coach at the Exhibition Centre [well worth while] and continue in another coach to the Ordesa coach park on the same ticket. here there is an information centre for walks, a cafeteria and toilets. 

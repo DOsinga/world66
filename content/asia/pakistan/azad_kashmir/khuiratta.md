@@ -1,6 +1,8 @@
 ---
 title: "Khuiratta"
 type: location
+latitude: 33.353414
+longitude: 74.026328
 ---
 
 Travel Guide

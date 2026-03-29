@@ -5,6 +5,8 @@ address: "Buenavista, Quindio"
 email: "info@colombiaecotravel.com"
 phone: "+57 (311) 319 - 3195"
 url: "www.colombiaecotravel.com"
+latitude: 4.359916
+longitude: -75.738678
 ---
 
 OVERVIEW

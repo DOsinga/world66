@@ -1,6 +1,8 @@
 ---
 title: "LOHAR WALA"
 type: location
+latitude: 29.957652
+longitude: 70.59676
 ---
 
 Travel Guide

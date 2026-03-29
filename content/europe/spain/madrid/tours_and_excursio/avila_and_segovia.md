@@ -5,6 +5,8 @@ address: "Madrid"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 40.416782
+longitude: -3.703507
 ---
 
 On this tour you will visit Avila, the best preserved walled city in the world. Its walls, which form an impressive monument, are rectangular in shape, with a perimeter of about two and a half kilometres, some two metres high and three broad. The walls are reinforced by stout turrets at intervals of roughly twenty-five metres, ninety of them altogether, and the most important of them all is the one called "Cimorro" or cathedral apse. It has nine gates, each of them open between strong turrets, among which the most outstandingly monumental are the ones called the gates of San Vicente and the Alcázar. 

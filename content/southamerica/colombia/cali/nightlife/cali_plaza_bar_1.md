@@ -7,6 +7,8 @@ email: "Mail@CaliPlaza.com"
 phone: "668-2611"
 type: "Clubs and dancing"
 url: "caliplaza.com"
+latitude: 2.448936
+longitude: -76.598082
 ---
 
 Cali Plaza Restaurant and Bar is located in the middle of the Entertainment District of Sixth Avenue in Cali, Colombia . Cali Plaza Bar offers Beer, Wine, and Mixed Drinks. The music is easy listening. The mood is relaxing. Many Locals and Cali Plaza Hotel Guests often meet for Drinks and socializing before and after going out for a Night on the Town.

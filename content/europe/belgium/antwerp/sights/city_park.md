@@ -2,6 +2,8 @@
 title: "City Park"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: -26.10607
+longitude: 28.23814
 ---
 
 The triangular shaped city park is okay for a stroll. There is a high

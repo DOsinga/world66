@@ -1,6 +1,8 @@
 ---
 title: "Cat Ba Island"
 type: location
+latitude: 20.722149
+longitude: 107.054357
 ---
 
 Travel Guide

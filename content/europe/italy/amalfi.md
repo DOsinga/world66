@@ -1,6 +1,8 @@
 ---
 title: "Amalfi"
 type: location
+latitude: 40.63367
+longitude: 14.602609
 ---
 
 Travel Guide

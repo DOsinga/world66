@@ -3,6 +3,8 @@ title: "Sights"
 type: section
 type: "general"
 url: "www.dickinsonhomestead.org"
+latitude: 39.788474
+longitude: -92.929598
 ---
 
 ### [Emily Dickinson House](/northamerica/unitedstates/massachusetts/amherst/sights/emilydickinsonhouse)

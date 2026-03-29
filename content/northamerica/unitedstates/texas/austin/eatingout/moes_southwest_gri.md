@@ -7,6 +7,8 @@ phone: "512-478-6637"
 price: "$10 or less"
 type: "Mexican"
 url: "www.moes.com"
+latitude: 30.286302
+longitude: -97.741949
 ---
 
 Moes is a Tex Mex/Fresh mex restaurant that caters for both Vegetarian* and meat eaters alike. You will be greeted with a **loud** "Welcome to Moe's" from the employees as soon as you step in the door.

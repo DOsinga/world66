@@ -3,6 +3,8 @@ title: "Things to do"
 type: location
 address: "Pune"
 type: "Other"
+latitude: 18.521374
+longitude: 73.854507
 ---
 
 Pune city is one of the major travel and tourist destinations of India.

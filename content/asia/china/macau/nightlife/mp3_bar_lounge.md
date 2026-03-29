@@ -7,6 +7,8 @@ email: "info@mp3barlounge.com"
 phone: "+853.6161108"
 type: "Clubs and dancing"
 url: "www.mp3barlounge.com"
+latitude: 49.286179
+longitude: -123.112219
 ---
 
 Live DJ and Live GOGO Dancers. Special localtion by the Water front, what they call Macau's 'Lan Kwai Fong'.

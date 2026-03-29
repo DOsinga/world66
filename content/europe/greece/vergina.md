@@ -1,6 +1,8 @@
 ---
 title: "Vergina"
 type: location
+latitude: 40.487114
+longitude: 22.317275
 ---
 
 We currently have no information about Vergina.

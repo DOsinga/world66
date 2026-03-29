@@ -3,6 +3,8 @@ title: "Cruise in The Ping River"
 type: location
 address: "Japan"
 email: "blackmagicwoman.5@gmail.com"
+latitude: 36.574844
+longitude: 139.239418
 ---
 
 The source of the Ping

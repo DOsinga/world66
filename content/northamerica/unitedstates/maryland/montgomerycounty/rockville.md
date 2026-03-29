@@ -1,6 +1,8 @@
 ---
 title: "Rockville"
 type: location
+latitude: 39.081798
+longitude: -77.151684
 ---
 
 Rockville is one of the larger incorporated cities in Montgomery County.

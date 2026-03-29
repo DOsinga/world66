@@ -1,6 +1,8 @@
 ---
 title: "orford"
 type: location
+latitude: -42.56066
+longitude: 147.871986
 ---
 
 We currently have no information about orford.

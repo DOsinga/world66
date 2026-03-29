@@ -7,6 +7,8 @@ email: "indo_africa@yahoo.com"
 phone: "0721-743556/ 0722-559687"
 price: "cheaper end"
 type: "African"
+latitude: 5.560958
+longitude: -0.191425
 ---
 
 On Haile Selassie Rd,between railway stn & Digo Rd, a white curtained restaurant next door to Chetna Rest

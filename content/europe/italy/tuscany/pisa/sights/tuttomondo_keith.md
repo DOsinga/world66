@@ -6,6 +6,8 @@ address: "Piazza Sant'Antonio"
 opening_hours: "0-24"
 type: "Hotspots"
 url: "www.comune.pisa.it"
+latitude: 40.746757
+longitude: 14.64551
 ---
 
 Keith Haring made the the last public work of his life in Pisa, on the rear of the Church of S. Antonio Abate: the mural "TuttoMondo" ("WholeWorld"). Painted in June 1989, few months before Haring's death, it has a surface of about 180 square meters, and it is a permanent work: it will never be erased or removed.

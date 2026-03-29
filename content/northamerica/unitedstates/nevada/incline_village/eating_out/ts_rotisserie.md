@@ -2,6 +2,8 @@
 title: "T's Rotisserie"
 type: poi
 type: "American"
+latitude: 39.248922
+longitude: -119.952198
 ---
 
 T's barbecues tri-tip and chicken daily. Their burritos are incredible. I used to work nearby and made T's a lunchtime stop two or three times a week. What it lacks in ambiance, it make up in flavor. The locals definitely know about this place!

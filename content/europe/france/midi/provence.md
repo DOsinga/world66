@@ -1,6 +1,8 @@
 ---
 title: "Provence"
 type: location
+latitude: 44.058056
+longitude: 6.063851
 ---
 
 Whereas Provence already attracted painters and foreign visitors a long time ago, it still attracts a lot of Francophils. Hills, covered with thyme, olive groves and lavender fields are altered with old villages.

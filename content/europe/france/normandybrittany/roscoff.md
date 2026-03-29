@@ -1,6 +1,8 @@
 ---
 title: "Roscoff"
 type: location
+latitude: 48.725582
+longitude: -3.982898
 ---
 
 Roscoff must be the quietest of the French ports connected by ferry with the UK, in this case with Plymouth. It is frequently abandoned quickly by motorists wanting to get on quickly to other places in Brittany or further south in France. However it is a very attractive little town in its own right and worth at least a few hours of anybody's time.

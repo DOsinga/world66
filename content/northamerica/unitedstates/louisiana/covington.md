@@ -1,6 +1,8 @@
 ---
 title: "Covington"
 type: location
+latitude: 39.083171
+longitude: -84.510755
 ---
 
 Travel Guide

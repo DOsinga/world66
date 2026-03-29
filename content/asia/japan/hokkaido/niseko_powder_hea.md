@@ -1,6 +1,8 @@
 ---
 title: "Niseko"
 type: location
+latitude: 42.804684
+longitude: 140.687303
 ---
 
 Travel Guide

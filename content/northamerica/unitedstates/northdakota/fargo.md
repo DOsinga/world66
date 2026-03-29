@@ -1,6 +1,8 @@
 ---
 title: "Fargo"
 type: location
+latitude: 46.877229
+longitude: -96.789821
 ---
 
 Fargo may not be the capital of the state but it's the most cosmopolitan city by far. It is located in the far east, across the Red River from Moorhead, [Minnesota](/northamerica/unitedstates/minnesota). The main attractions of town are beautiful old architecture, including Victorian houses and buildings in Art Moderne and other distinctive styles. One major example of the classic Art Moderne style is structure is the Fargo Theatre. 

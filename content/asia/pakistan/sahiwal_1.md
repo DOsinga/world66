@@ -1,6 +1,8 @@
 ---
 title: "Sahiwal"
 type: location
+latitude: 30.67151
+longitude: 73.111057
 ---
 
 Travel Guide

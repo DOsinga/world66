@@ -1,6 +1,8 @@
 ---
 title: "Tarkarli"
 type: poi
+latitude: 16.006814
+longitude: 73.49184
 ---
 
 Tarkarli situated 6 kms. south of Malvan has the long and narrow stretch of beach, with its pristine waters.

@@ -1,6 +1,8 @@
 ---
 title: "Knoll Lake"
 type: location
+latitude: 34.424697
+longitude: -111.088127
 ---
 
 Travel Guide

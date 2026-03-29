@@ -1,6 +1,8 @@
 ---
 title: "Tuba City"
 type: location
+latitude: 36.123307
+longitude: -111.242188
 ---
 
 Travel Guide

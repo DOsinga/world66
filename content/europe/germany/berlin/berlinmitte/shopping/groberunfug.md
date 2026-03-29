@@ -5,9 +5,12 @@ address: "Weinmeisterstr. 9b"
 connections: "U Gneisenaustr."
 opening_hours: "Mo-Fr 11am -7pm, Sa 11am -4pm"
 type: "Funshopping"
+latitude: 52.525207
+longitude: 13.405927
 ---
 
-The comic shop with a huge selection and witty accessories. Changing exhibitions by well-known artists. Also a branch in at: Zossener Str. 32-33.
+The comic shop with a huge selection and witty accessories. Changing
+ exhibitions by well-known artists. Also a branch in at: Zossener Str. 32-33.
 
 type: Funshopping
 

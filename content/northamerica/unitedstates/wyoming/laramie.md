@@ -1,6 +1,8 @@
 ---
 title: "Laramie"
 type: location
+latitude: 41.311644
+longitude: -105.591788
 ---
 
 Travel Guide

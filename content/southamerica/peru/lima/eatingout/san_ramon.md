@@ -1,6 +1,8 @@
 ---
 title: "San Ramon"
 type: poi
+latitude: -11.121402
+longitude: -75.352148
 ---
 
 Also known as Little Italy, this lively street contains some of Miraflores' best restaurants and cafes for those on a budget - nothing too exotic or extravagant, but well worth an evenings' attention. At the top of the inlet, an always-busy open-air bar is populated by scantily-clad cowgirls serving enormous tankards of lager, whilst further down a couple of Italians on the left offer decent pizzas and pastas, with a touch of local cuisine (good Ceviche). 

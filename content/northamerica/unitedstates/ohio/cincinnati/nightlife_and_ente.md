@@ -5,6 +5,8 @@ address: "35 East Pete Rose Way"
 closing_time: "2am"
 phone: "513-744-9096"
 type: "Pubs"
+latitude: 39.102259
+longitude: -84.498763
 ---
 
 Cincinnati is the home to The Cincinnati Opera and The Cincinnati

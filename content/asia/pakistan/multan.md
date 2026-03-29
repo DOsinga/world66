@@ -1,6 +1,8 @@
 ---
 title: "Multan"
 type: location
+latitude: 30.197838
+longitude: 71.471968
 ---
 
 We currently have no information about Multan.

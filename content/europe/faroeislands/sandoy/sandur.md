@@ -1,6 +1,8 @@
 ---
 title: "Sandur"
 type: location
+latitude: 61.834815
+longitude: -6.817583
 ---
 
 Travel Guide

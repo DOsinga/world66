@@ -1,6 +1,8 @@
 ---
 title: "Uddevalla"
 type: location
+latitude: 58.349055
+longitude: 11.938285
 ---
 
 Travel Guide

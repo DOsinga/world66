@@ -5,6 +5,8 @@ address: "1313 Harbor Blvd. 92803"
 phone: "714/781-4565"
 type: "Other"
 url: "www.disneyland.com"
+latitude: 33.756332
+longitude: -117.920433
 ---
 
 ### [Disneyland

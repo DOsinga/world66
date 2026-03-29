@@ -1,6 +1,8 @@
 ---
 title: "Rome"
 type: location
+latitude: 41.89332
+longitude: 12.482932
 ---
 
 Roma: the name inverts neatly to form 'amor'. And that’s it - people tend either to love or to hate the place and Rome can reward you as no other city can. Rome, the eternal city which exerts the most compelling fascination, has to be visited by the Italy traveler. 29 million pilgrims and tourists went to Rome in the year 2000 alone.

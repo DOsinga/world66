@@ -1,6 +1,8 @@
 ---
 title: "Valladolid"
 type: location
+latitude: 20.690251
+longitude: -88.2017
 ---
 
 Travel Guide

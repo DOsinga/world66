@@ -1,6 +1,8 @@
 ---
 title: "La Sila"
 type: location
+latitude: 39.260011
+longitude: 16.507491
 ---
 
 Travel Guide

@@ -8,6 +8,8 @@ email: "ilcovo@ilcovo.net"
 phone: "254 41 5487481"
 type: "Clubs and dancing"
 url: "www.ilcovo.net"
+latitude: -3.990605
+longitude: 39.737289
 ---
 
 Il Covo - Italian and Japanese Restaurant

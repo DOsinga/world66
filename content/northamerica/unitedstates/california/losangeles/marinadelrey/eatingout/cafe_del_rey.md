@@ -6,6 +6,8 @@ phone: "310/ 823-6395"
 price: "$16- $32 dinner entree"
 type: "Local"
 url: "cafedelreymarina.com"
+latitude: 33.983929
+longitude: -118.447465
 ---
 
 Eclectic World; open daily for lunch and dinner; Sunday a la carte brunch.

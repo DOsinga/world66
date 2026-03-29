@@ -1,6 +1,8 @@
 ---
 title: "Wat Xieng Khouang"
 type: poi
+latitude: 19.440678
+longitude: 103.205301
 ---
 
 Buddah Park is situated about 25 minutes drive outside the centre of the city. Although not an old temple, it is nevertheless fascinating for its huge structures that combine Buddhist and Hindu Philosophies.

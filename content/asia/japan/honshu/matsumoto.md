@@ -1,6 +1,8 @@
 ---
 title: "Matsumoto"
 type: location
+latitude: 36.238205
+longitude: 137.968714
 ---
 
 Travel Guide

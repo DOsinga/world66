@@ -1,6 +1,8 @@
 ---
 title: "Atacames"
 type: location
+latitude: 0.797109
+longitude: -79.879084
 ---
 
 Travel Guide

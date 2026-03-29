@@ -1,6 +1,8 @@
 ---
 title: "Cinema"
 type: poi
+latitude: 53.201174
+longitude: 5.790921
 ---
 
 **Place to go outs**

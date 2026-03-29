@@ -5,6 +5,8 @@ address: "7160 Regional St. Dublin, CA 94568"
 phone: "925-479-0968"
 type: "Shopping centers and malls"
 url: "www.cafetapioca.com"
+latitude: 37.70418
+longitude: -121.935177
 ---
 
 Dublin is home to numberous shopping centers and plazas:

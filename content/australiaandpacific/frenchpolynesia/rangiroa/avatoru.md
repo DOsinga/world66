@@ -1,6 +1,8 @@
 ---
 title: "Avatoru"
 type: location
+latitude: -14.941972
+longitude: -147.706148
 ---
 
 Travel Guide

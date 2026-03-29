@@ -1,6 +1,8 @@
 ---
 title: "Vänersborg"
 type: location
+latitude: 58.381199
+longitude: 12.322688
 ---
 
 Travel Guide

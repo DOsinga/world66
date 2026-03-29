@@ -7,6 +7,8 @@ email: "sales@globalflowerdelivery.com"
 phone: "912026133809"
 type: "Shopping centers and malls"
 url: "www.flowersfloristsgifts.com"
+latitude: 22.351115
+longitude: 78.667743
 ---
 
 Send flowers to Pune, gifts, cakes,

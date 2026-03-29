@@ -1,6 +1,8 @@
 ---
 title: "Boley"
 type: location
+latitude: 35.493489
+longitude: -96.483611
 ---
 
 Travel Guide

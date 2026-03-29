@@ -1,6 +1,8 @@
 ---
 title: "Playa El Palmar"
 type: poi
+latitude: 25.474621
+longitude: -100.977385
 ---
 
 Playa el Palmar is Ixtapa's main beach, along which stretches Ixtapa's Hotel zone. Most of its major hotels are found in this area. Paseo Ixtapa, the resort's main, tree-lined boulevard, runs behind the first line of multi-storied hotels all the way to Marina Ixtapa. On the boulevard you can find a variety of excellent restaurants as well as stores selling beach clothing and accessories, souvenirs and arts and crafts.

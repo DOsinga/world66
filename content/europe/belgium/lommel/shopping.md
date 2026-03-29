@@ -6,6 +6,8 @@ address: "Leuken 14"
 phone: "+32 11665535"
 type: "Antiques"
 url: "www.antiek-anresto.be"
+latitude: 51.233408
+longitude: 5.365376
 ---
 
 Antiques

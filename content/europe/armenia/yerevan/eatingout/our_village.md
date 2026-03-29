@@ -5,6 +5,8 @@ address: "Sayat-Nova 7"
 phone: "+374 1 584700"
 price: "2-3 $"
 type: "Local"
+latitude: 40.796925
+longitude: 44.499946
 ---
 
 If you stay at any of the ladies at Sayat-Nova 5, you'll only have to

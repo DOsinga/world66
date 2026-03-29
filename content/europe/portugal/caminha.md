@@ -1,6 +1,8 @@
 ---
 title: "Caminha"
 type: location
+latitude: 41.87576
+longitude: -8.838838
 ---
 
 Caminha is the northernmost town on the Portuguese coast, after which the road and railway from Porto both follow up the Minho [Miño in Spanish] frontier river. The town’s main square is very attractive and its ferry setting out for A Guardia in Spain looks most appealing as the lights are just coming on. 

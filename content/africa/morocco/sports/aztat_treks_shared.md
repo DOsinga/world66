@@ -7,6 +7,8 @@ email: "info@atlastrekshop.com"
 phone: "0668760165"
 type: "Other"
 url: "www.atlastrekshop.com"
+latitude: 31.763789
+longitude: -6.997999
 ---
 
 **Aztat Treks ( Part of Mountain Travel Morocco )**

@@ -1,6 +1,8 @@
 ---
 title: "Robbinsville, North Carolina"
 type: location
+latitude: 35.32276
+longitude: -83.806999
 ---
 
 Travel Guide

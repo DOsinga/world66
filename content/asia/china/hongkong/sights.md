@@ -2,6 +2,8 @@
 title: "Sights"
 type: section
 type: "Landmarks"
+latitude: 29.999987
+longitude: 102.980403
 ---
 
 Hong Kong is one of the

@@ -1,6 +1,8 @@
 ---
 title: "forward kahuta"
 type: location
+latitude: 33.88374
+longitude: 74.104667
 ---
 
 Travel Guide

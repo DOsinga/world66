@@ -1,6 +1,8 @@
 ---
 title: "Dhaka"
 type: location
+latitude: 23.764386
+longitude: 90.389014
 ---
 
 Dhaka is friendly and relatively clean (compared to Indian cities with 5 million people). But there are not many sights to attract visitors. 

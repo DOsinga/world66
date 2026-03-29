@@ -1,6 +1,8 @@
 ---
 title: "Guwahati"
 type: location
+latitude: 26.180598
+longitude: 91.753943
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: section
 email: "info@pumpkin-maze.com"
 type: "Other"
 url: "www.pumpkinmaze.com"
+latitude: 35.321009
+longitude: -83.237684
 ---
 
 Attractions for every season

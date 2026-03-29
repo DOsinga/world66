@@ -4,6 +4,8 @@ type: poi
 address: "4212 18th St"
 phone: "(415)626-9320"
 type: "Dancing"
+latitude: 42.190203
+longitude: -83.173872
 ---
 
 type: Dancing

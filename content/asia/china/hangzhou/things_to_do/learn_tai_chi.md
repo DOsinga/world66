@@ -6,6 +6,8 @@ email: "taichinese@163.com"
 phone: "+86 571 85632789"
 type: "Other"
 url: "www.taichinese.com"
+latitude: 30.248963
+longitude: 120.205234
 ---
 
 hi, everyone! my name is james and i'm a tai chi instructor in Hangzhou. If you happen

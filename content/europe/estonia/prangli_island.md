@@ -1,6 +1,8 @@
 ---
 title: "Prangli Island"
 type: location
+latitude: 59.627617
+longitude: 25.011903
 ---
 
 Travel Guide

@@ -2,6 +2,8 @@
 title: "Skiing"
 type: poi
 type: "Skiing"
+latitude: 50.371702
+longitude: 12.91323
 ---
 
 Skiing in Czech is nice for beginners (it is a middle-high mountain area) and very cheap. 2 good places for skiing are Harachov and Rokytnice nad Jizerou.

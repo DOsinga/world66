@@ -1,6 +1,8 @@
 ---
 title: "Östersund"
 type: location
+latitude: 63.179366
+longitude: 14.635706
 ---
 
 Travel Guide

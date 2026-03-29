@@ -1,6 +1,8 @@
 ---
 title: "Rasdhoo"
 type: location
+latitude: 4.262992
+longitude: 72.991745
 ---
 
 Travel Guide

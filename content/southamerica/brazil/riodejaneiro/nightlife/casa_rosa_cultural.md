@@ -5,6 +5,8 @@ address: "Rua Alice 550, Laranjeiras"
 phone: "55 21 25572562"
 type: "Clubs and dancing"
 url: "www.casarosa.com.br"
+latitude: -22.93543
+longitude: -43.193345
 ---
 
 Once a luxurious cabaret, Casa Rosa was built in the 1920's and served Rio's high society figures. In the the 90's, after decades of slow decline, it was transformed into a culture center, offering workshops and courses during the day and having live concerts and themed parties at night.Review:

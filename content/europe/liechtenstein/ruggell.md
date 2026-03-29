@@ -1,6 +1,8 @@
 ---
 title: "Ruggell"
 type: location
+latitude: 47.239758
+longitude: 9.526287
 ---
 
 We currently have no information about Ruggell.

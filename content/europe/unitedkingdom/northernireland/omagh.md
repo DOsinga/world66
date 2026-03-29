@@ -1,6 +1,8 @@
 ---
 title: "Omagh"
 type: location
+latitude: 54.599249
+longitude: -7.302991
 ---
 
 Travel Guide

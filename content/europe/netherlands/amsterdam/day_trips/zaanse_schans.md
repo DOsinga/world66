@@ -2,6 +2,8 @@
 title: "Zaanse Schans"
 type: poi
 url: "www.zaanseschans.nl"
+latitude: 52.475053
+longitude: 4.817976
 ---
 
 The Zaanse Schans is a delightful old hamlet on the banks of the river Zaan with characteristic green wooden houses, charming styalised gardens, small hump-backed bridges, tradesmen's workshops, historic windmills and engaging little shops. This enchanting hamlet gives an excellent impression of how a typical Zaanse village must have looked like in the seventeenth and eighteenth centuries. Apart from the cluster of windmills and houses there are also several museums, restaurants and a visitors' centre to be found as well as

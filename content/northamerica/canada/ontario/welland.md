@@ -1,6 +1,8 @@
 ---
 title: "Welland"
 type: location
+latitude: 42.992218
+longitude: -79.248419
 ---
 
 Travel Guide

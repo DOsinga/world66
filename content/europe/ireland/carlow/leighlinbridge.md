@@ -1,6 +1,8 @@
 ---
 title: "Leighlinbridge"
 type: location
+latitude: 52.736023
+longitude: -6.976626
 ---
 
 Travel Guide

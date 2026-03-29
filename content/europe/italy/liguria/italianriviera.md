@@ -1,6 +1,8 @@
 ---
 title: "Italian Riviera"
 type: location
+latitude: 44.14828
+longitude: 8.271494
 ---
 
 The Italian Riviera, an extension of the French Riviera, is dotted with mountains villages small and often secluded beaches (sandy to rocky) a wide range of hotels, entrancing scenery and remarkable culture. Visit several beaches and towns in the area: Each is different. If you are in the area, remember to visit [Sanremo](/europe/italy/liguria/italianriviera/sanremo) , the city of the flowers.

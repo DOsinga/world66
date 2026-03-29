@@ -1,6 +1,8 @@
 ---
 title: "Los Alamos"
 type: location
+latitude: 35.88137
+longitude: -106.298959
 ---
 
 Located between [Santa Fe](/northamerica/unitedstates/newmexico/santafe) and [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque), Los Alamos is a good base for visiting Best Bandelier National Park.

@@ -1,6 +1,8 @@
 ---
 title: "Vihti"
 type: location
+latitude: 60.416996
+longitude: 24.323664
 ---
 
 Travel Guide

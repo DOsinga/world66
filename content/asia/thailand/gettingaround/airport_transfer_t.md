@@ -5,6 +5,8 @@ address: "NEW PETCHBURI ROAD"
 email: "info@airporttransfersthailand.com"
 phone: "+66869076425"
 url: "www.airporttransfersthailand.com"
+latitude: 13.748354
+longitude: 100.566813
 ---
 
 Airport transfer services from [Bangkok](/asia/thailand/bangkok), [Phuket](/asia/thailand/phuket), Samui, [Chiang mai](/asia/thailand/chiangmai)

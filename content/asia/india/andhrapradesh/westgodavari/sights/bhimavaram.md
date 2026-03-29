@@ -4,6 +4,8 @@ type: poi
 email: "contact@bhimavaraminfo.com"
 type: "Landmarks"
 url: "www.bhimavaraminfo.com"
+latitude: 16.542769
+longitude: 81.527344
 ---
 
 Bhimavaram is famous for the Gunupudi Someswara temple, which is considered to be one of the holy **Pancharamas**. Built during the 3rd century A.D., the Shivalinga in the temple is believed to assume a black-cum-brown colour on no-moon days and a kind of white on full-moon days.

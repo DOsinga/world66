@@ -1,6 +1,8 @@
 ---
 title: "Jerez de Garcia"
 type: location
+latitude: 22.661065
+longitude: -102.992443
 ---
 
 We currently have no information about .

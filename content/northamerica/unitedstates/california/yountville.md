@@ -1,6 +1,8 @@
 ---
 title: "Yountville"
 type: location
+latitude: 38.402201
+longitude: -122.359506
 ---
 
 Travel Guide

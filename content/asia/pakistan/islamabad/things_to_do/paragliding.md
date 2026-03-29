@@ -6,6 +6,8 @@ email: "info@emac.pk"
 phone: "051 4349345"
 type: "Other"
 url: "www.emac.pk"
+latitude: 33.693812
+longitude: 73.065151
 ---
 
 The largest and still the fastest growing adventure company in Pakistan. E.M.A.C presents the widest range of thrilling adventure activities in and around Islamabad.

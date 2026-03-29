@@ -1,6 +1,8 @@
 ---
 title: "People"
 type: poi
+latitude: 41.418635
+longitude: 22.018012
 ---
 
 The Census of Population, Households and Dwellings 2002 results show that a total of 2.022.547 persons live in Macedonia.

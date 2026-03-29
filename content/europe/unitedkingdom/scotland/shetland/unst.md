@@ -1,6 +1,8 @@
 ---
 title: "Unst"
 type: location
+latitude: 60.75952
+longitude: -0.896019
 ---
 
 Travel Guide

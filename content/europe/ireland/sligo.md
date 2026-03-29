@@ -1,6 +1,8 @@
 ---
 title: "Sligo"
 type: location
+latitude: 54.27207
+longitude: -8.475136
 ---
 
 Sligo is located in the North West of Ireland. It has been a popular destination for centuries. The town of Sligo gracefully combines its busy market role with a relaxed attitude. The tightly packed streets and laneways are crowded with a diverse array of shops and pubs, while bridges and benches are welcome points for quiet reflection. 

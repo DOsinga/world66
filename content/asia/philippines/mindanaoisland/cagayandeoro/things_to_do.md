@@ -3,6 +3,8 @@ title: "Things to do"
 type: section
 address: "CDO"
 type: "Other"
+latitude: 8.475642
+longitude: 124.642153
 ---
 
 The city is now known for its whitewater rafting activities after

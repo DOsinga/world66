@@ -1,6 +1,8 @@
 ---
 title: "Ile de goree"
 type: location
+latitude: 14.667205
+longitude: -17.398356
 ---
 
 We currently have no information about Ile de goree.

@@ -8,6 +8,8 @@ opening_hours: "Phillip"
 phone: "Phillip"
 type: "1"
 url: "helpdesk.ncat.edu"
+latitude: -35.347044
+longitude: 149.091009
 ---
 
 Great work!

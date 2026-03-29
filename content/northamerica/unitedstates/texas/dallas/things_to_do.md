@@ -6,6 +6,8 @@ email: "wemaster@dallascityhall.com"
 phone: "(214) 670-8890"
 type: "Cycling"
 url: "www.dallascityhall.com"
+latitude: 39.847339
+longitude: -105.100967
 ---
 
 Dallas can meet the interests of almost any aficionado of any interest.

@@ -1,6 +1,8 @@
 ---
 title: "Universities"
 type: location
+latitude: 43.520992
+longitude: -80.229573
 ---
 
 The UVic campus is a scenic and pleasant place to visit or conduct business with the academics.

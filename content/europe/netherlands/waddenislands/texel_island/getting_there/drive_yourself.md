@@ -2,6 +2,8 @@
 title: "Drive yourself"
 type: poi
 type: "By Road"
+latitude: 52.368455
+longitude: 4.948339
 ---
 
 Route

@@ -1,6 +1,8 @@
 ---
 title: "Golmud"
 type: location
+latitude: 36.739753
+longitude: 93.54239
 ---
 
 Travel Guide

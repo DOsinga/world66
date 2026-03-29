@@ -4,6 +4,8 @@ type: poi
 address: "sanapiro"
 phone: "855207700"
 type: "Local"
+latitude: 7.989737
+longitude: -5.567946
 ---
 
 Exellent traditional barbecue, and locally brewed beer.

@@ -4,6 +4,8 @@ type: poi
 address: "R. Gilberto Rola, 30"
 phone: "+35 21 397 45 57"
 type: "Chinese"
+latitude: 38.705466
+longitude: -9.172564
 ---
 
 type: Chinese

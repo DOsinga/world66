@@ -1,6 +1,8 @@
 ---
 title: "Coroico"
 type: location
+latitude: -16.188602
+longitude: -67.727464
 ---
 
 Travel Guide

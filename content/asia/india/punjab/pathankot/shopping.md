@@ -4,6 +4,8 @@ type: section
 phone: "sales@punjabflowers.com"
 type: "Antiques"
 url: "www.punjabflowers.com"
+latitude: 10.673995
+longitude: 76.186901
 ---
 
 punjabflowers

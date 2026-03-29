@@ -6,6 +6,8 @@ email: "info@spindleruv-mlyn.cz"
 phone: "+420 499 433 148"
 type: "Embassies and Consulates"
 url: "www.spindleruv-mlyn.cz"
+latitude: 50.699082
+longitude: 15.587999
 ---
 
 ***INFOCENTER Michluv Mlyn, Predni Labska 47, Spindleruv Mlyn***

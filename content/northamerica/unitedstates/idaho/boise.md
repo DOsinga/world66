@@ -1,6 +1,8 @@
 ---
 title: "Boise"
 type: location
+latitude: 43.616616
+longitude: -116.200886
 ---
 
 We currently have no information about Boise.

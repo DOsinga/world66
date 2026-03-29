@@ -3,6 +3,8 @@ title: "Eating Out in Bhalwal"
 type: section
 address: "suleman pura"
 type: "African"
+latitude: 32.48919
+longitude: 74.546916
 ---
 
 1) Teste Point Satellite Town Bhalwal

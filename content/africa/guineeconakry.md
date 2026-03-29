@@ -1,6 +1,8 @@
 ---
 title: "Guinee Conakry"
 type: location
+latitude: 10.722623
+longitude: -10.708359
 ---
 
 Guinee Conakry is one of those countries where traveling means hard work. Roads are in bad shape in the dry season and in no shape during the rainy season. But hard work is often the most rewarding work; the people of Guinee are very friendly and the landscape can be breathtaking 

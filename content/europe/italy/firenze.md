@@ -1,6 +1,8 @@
 ---
 title: "Firenze"
 type: location
+latitude: 43.769796
+longitude: 11.25564
 ---
 
 Travel Guide

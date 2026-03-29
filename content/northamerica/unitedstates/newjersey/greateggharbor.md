@@ -1,6 +1,8 @@
 ---
 title: "Great Egg Harbor"
 type: location
+latitude: 39.515542
+longitude: -74.382172
 ---
 
 The Great Egg Harbor River one of the best spots for kayaking in New Jersey. The river runs through the heart of New Jersey's Pinelands Reserve on its way to the Atlantic Ocean. 

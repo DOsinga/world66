@@ -1,6 +1,8 @@
 ---
 title: "Guimaras"
 type: location
+latitude: 10.573063
+longitude: 122.623891
 ---
 
 Travel Guide

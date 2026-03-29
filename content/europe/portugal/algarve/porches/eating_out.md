@@ -6,6 +6,8 @@ phone: "282 381 692"
 price: "Main courses cost from EUR 12.80"
 type: "Portuguese"
 url: "www.porches-velho.com"
+latitude: 37.12613
+longitude: -8.398255
 ---
 
 Coming from Portimão follow the N 125 into the direction Faro, approx 4kms after Lagoa and the International School of Algarve and the Porches Pottery please turn right off N 125 to Porches. After 15ms turn left into the village.

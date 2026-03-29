@@ -1,6 +1,8 @@
 ---
 title: "Lahaska"
 type: location
+latitude: 40.34652
+longitude: -75.031152
 ---
 
 Travel Guide

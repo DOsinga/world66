@@ -3,6 +3,8 @@ title: "Nightlife and Entertainment"
 type: section
 address: "White Beach, Boracay"
 type: "Beer Gardens"
+latitude: 11.967711
+longitude: 121.919869
 ---
 
 Boracay has a lively nightlife scene, and there is a wide variety of beach bars to choose from - from small, friendly places where you can relax, meet other travellers and chat to the popular late night venues where you can dance the night away under the stars.

@@ -1,6 +1,8 @@
 ---
 title: "Presov"
 type: location
+latitude: 48.988934
+longitude: 21.219099
 ---
 
 We currently have no information about Presov.

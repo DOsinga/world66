@@ -1,6 +1,8 @@
 ---
 title: "Chita"
 type: location
+latitude: 52.033409
+longitude: 113.500893
 ---
 
 Travel Guide

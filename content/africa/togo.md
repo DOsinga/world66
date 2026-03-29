@@ -1,6 +1,8 @@
 ---
 title: "Togo"
 type: location
+latitude: 8.780026
+longitude: 1.019977
 ---
 
 Togo is a little gem; it really is one of the nicest countries to visit in West-Africa. Roads are pretty good, distances small, beaches sandy and white, people friendly, hills and mountains waiting to be explored. What else do you need? 

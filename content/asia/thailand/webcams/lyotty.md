@@ -4,6 +4,8 @@ type: poi
 address: "Chiang Mai"
 email: "l.yotty@gmail.com"
 url: "webcamthailand.blogspot.com"
+latitude: 18.788278
+longitude: 98.98588
 ---
 
 http://webcamthailand.blogspot.com

@@ -2,6 +2,8 @@
 title: "Abdullah Mubarak"
 type: poi
 type: "Hotspots"
+latitude: 31.918071
+longitude: 35.911379
 ---
 
 Hello and welcome to Irbid

@@ -1,6 +1,8 @@
 ---
 title: "Lezha"
 type: location
+latitude: 41.781664
+longitude: 19.643354
 ---
 
 Travel Guide

@@ -4,6 +4,8 @@ type: section
 address: "Rawa Pening, Ambarawa"
 opening_hours: "from dusk until dawn"
 type: "Parks, Gardens and Zoos"
+latitude: -7.287794
+longitude: 110.434403
 ---
 
 Ambarawa have several point of interest, such as lake for nature and loco exhibition for historical visit. And added with flower market and Hindu temple nearby Ambarawa.

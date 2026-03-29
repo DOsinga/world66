@@ -1,6 +1,8 @@
 ---
 title: "Belgrade"
 type: location
+latitude: 44.815332
+longitude: 20.445659
 ---
 
 Travel Guide

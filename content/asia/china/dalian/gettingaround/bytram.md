@@ -2,6 +2,8 @@
 title: "By tram"
 type: poi
 type: "general"
+latitude: 21.402678
+longitude: 110.900427
 ---
 
 If you’re not in a hurry, take the tram which provides you the charming

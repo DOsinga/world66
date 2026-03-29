@@ -1,6 +1,8 @@
 ---
 title: "Fort de Soto"
 type: location
+latitude: 27.615303
+longitude: -82.735014
 ---
 
 We currently have no information about Fort de Soto.

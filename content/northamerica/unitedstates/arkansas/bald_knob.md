@@ -1,6 +1,8 @@
 ---
 title: "Bald Knob"
 type: location
+latitude: 35.309807
+longitude: -91.567911
 ---
 
 Travel Guide

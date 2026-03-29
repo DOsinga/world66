@@ -1,6 +1,8 @@
 ---
 title: "Todmorden"
 type: location
+latitude: 53.713725
+longitude: -2.097753
 ---
 
 Todmorden is to the far west of West Yorkshire. In fact the border between Yorkshire and Lancashire was once a brook running under its large Italianate town hall. It is now part of [Calderdale](/europe/unitedkingdom/england/leeds_sheffield_a/calderdale) in Yorkshire. 

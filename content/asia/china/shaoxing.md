@@ -1,6 +1,8 @@
 ---
 title: "Shaoxing"
 type: location
+latitude: 29.999243
+longitude: 120.576854
 ---
 
 Travel Guide

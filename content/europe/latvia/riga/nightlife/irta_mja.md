@@ -8,6 +8,8 @@ phone: "7393939"
 type: "Salsa"
 url: "www.larocca.lv"
 zipcode: "LV - 1000"
+latitude: 57.129875
+longitude: 27.282058
 ---
 
 Very nice place for Latvian gansi. Usually a lot of alchohol and gay humour. You'll love it!

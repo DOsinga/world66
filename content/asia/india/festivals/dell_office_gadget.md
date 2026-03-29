@@ -4,6 +4,8 @@ type: poi
 address: "P-545 Lake Road"
 email: "rightgadgetsdell01@gmail.com"
 url: "www.rightgadgets.in"
+latitude: 21.079025
+longitude: 105.79445
 ---
 
 Office gadgets actually play a diversified role in your work place. Office gadgets, whether the printers to print the documents with

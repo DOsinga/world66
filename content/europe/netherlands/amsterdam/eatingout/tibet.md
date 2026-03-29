@@ -8,6 +8,8 @@ price: "20 Euro"
 type: "Chinese"
 url: "www.tibet-restaurant.nl"
 zipcode: "1012 CT"
+latitude: 52.374843
+longitude: 4.898939
 ---
 
 Close to the central station, cosy, very tasty, cheap... I go there everytime I'm in Amsterdam and even now when I write it I start feeling hungry :)

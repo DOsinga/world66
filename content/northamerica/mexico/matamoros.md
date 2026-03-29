@@ -1,6 +1,8 @@
 ---
 title: "Matamoros"
 type: location
+latitude: 25.881016
+longitude: -97.506487
 ---
 
 We currently have no information about .

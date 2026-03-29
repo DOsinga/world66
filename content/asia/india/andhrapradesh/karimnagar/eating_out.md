@@ -3,6 +3,8 @@ title: "Eating Out in Karimnagar"
 type: section
 address: "sawaran street"
 type: "Local"
+latitude: 18.439301
+longitude: 79.13009
 ---
 
 ### [Pappus Tea Point](/asia/india/andhrapradesh/karimnagar/eatingout/pappus_tea_point)

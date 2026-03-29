@@ -1,6 +1,8 @@
 ---
 title: "Warren"
 type: location
+latitude: 41.81196
+longitude: -79.265445
 ---
 
 Travel Guide

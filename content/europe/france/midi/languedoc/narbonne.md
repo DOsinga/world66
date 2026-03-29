@@ -1,6 +1,8 @@
 ---
 title: "Narbonne"
 type: location
+latitude: 43.183776
+longitude: 3.004191
 ---
 
 Travel Guide

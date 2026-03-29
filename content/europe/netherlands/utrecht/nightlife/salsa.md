@@ -1,6 +1,8 @@
 ---
 title: "Salsa"
 type: poi
+latitude: 51.818371
+longitude: 5.820307
 ---
 
 **Place to go outs**

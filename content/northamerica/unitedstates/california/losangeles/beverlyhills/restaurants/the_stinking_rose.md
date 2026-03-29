@@ -6,6 +6,8 @@ email: "comments@thestinkingrose.com"
 phone: "+1-310-652-7673"
 type: "International"
 url: "www.thestinkingrose.com"
+latitude: 34.066683
+longitude: -118.376534
 ---
 
 A classy restaurant with a menu focused on garlic. Make sure to order

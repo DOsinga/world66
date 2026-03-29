@@ -1,6 +1,8 @@
 ---
 title: "Around Paris"
 type: location
+latitude: 48.85521
+longitude: 2.387194
 ---
 
 There are numerous interesting things just around Paris. The palaces of

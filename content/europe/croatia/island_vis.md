@@ -1,6 +1,8 @@
 ---
 title: "Island Vis"
 type: location
+latitude: 43.043421
+longitude: 16.165472
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Volos"
 type: location
+latitude: 39.362483
+longitude: 22.940186
 ---
 
 We currently have no information about Volos.

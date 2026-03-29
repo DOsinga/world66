@@ -6,6 +6,8 @@ phone: "(206) 706-7703"
 price: "$10-$20"
 type: "Vegetarian"
 url: "www.carmelita.net"
+latitude: 47.682265
+longitude: -122.355108
 ---
 
 Fresh produce, a seasonal menu, vegan and vegetarian options, and a fancy decor yet relaxed and comfortable environment make it a worthy splurge.

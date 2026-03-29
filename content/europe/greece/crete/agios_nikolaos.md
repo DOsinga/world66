@@ -1,6 +1,8 @@
 ---
 title: "Agios Nikolaos"
 type: location
+latitude: 35.365858
+longitude: 24.263889
 ---
 
 Travel Guide

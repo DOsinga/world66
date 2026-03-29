@@ -3,6 +3,8 @@ title: "Malpensa Airport"
 type: poi
 type: "By Air"
 url: "www.sea-aeroportimilano.it"
+latitude: 45.629627
+longitude: 8.723548
 ---
 
 This is the biggest airport of Milan. There are three Milan Airports so be sure you know which one you are landing at. Then there are two Terminals so make sure you know which Terminal you are landing at. Terminal 1 or Terminal 2. There is a free 24 hour shuttle bus that leaves every 20 minutes between the two Terminals.

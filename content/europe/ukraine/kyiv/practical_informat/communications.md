@@ -2,6 +2,8 @@
 title: "Communications"
 type: poi
 type: "Tourist information"
+latitude: 46.482523
+longitude: 30.723267
 ---
 
 The international country code for Ukraine is +038

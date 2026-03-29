@@ -1,6 +1,8 @@
 ---
 title: "Vienne"
 type: location
+latitude: 46.612117
+longitude: 0.465407
 ---
 
 We currently have no information about .

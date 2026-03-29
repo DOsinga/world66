@@ -1,6 +1,8 @@
 ---
 title: "Butrint"
 type: location
+latitude: 39.745869
+longitude: 20.020999
 ---
 
 Butrint is a major archeoligal site in Albania. It has been included in the World Heritage list of UNESCO.

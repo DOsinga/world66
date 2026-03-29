@@ -1,9 +1,12 @@
 ---
 title: "Museums"
 type: poi
+latitude: 52.357271
+longitude: 4.88154
 ---
 
-Don't forget to visit Rotterdams most famous museums during your stay here. Check the list below for some more details. 
+Don't forget to visit Rotterdams most famous museums during your stay here. Check the list below for some more details.
+ 
 
 **Sights**
 

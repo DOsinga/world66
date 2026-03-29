@@ -1,6 +1,8 @@
 ---
 title: "Huayang Village"
 type: location
+latitude: 23.07785
+longitude: 113.57173
 ---
 
 Huayang Village is a tiny Chinese village where people still live a traditional lifestyle and practise traditional agricultural methods. The village's one hotel is modern, and equipped with air conditioning/heating, ensuite bathroom and televisions. Famous local dishes and Shaanxi Province specialties can be eaten in the restaurant opposite the hotel.

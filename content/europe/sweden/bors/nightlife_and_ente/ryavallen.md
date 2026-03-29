@@ -4,6 +4,8 @@ type: poi
 address: "Skaraborgsvägen"
 phone: "+46 33 3574 13."
 type: "Sport stadiums"
+latitude: 57.725682
+longitude: 12.938453
 ---
 
 Ryavallen is an arena suitable for football as well as athletics.

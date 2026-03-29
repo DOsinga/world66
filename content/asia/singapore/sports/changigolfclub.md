@@ -4,6 +4,8 @@ type: location
 address: "20 Netheravon Road, Changi, Singapore 508505"
 phone: "Tel: +65-5455133 Fax: +65-5452531"
 type: "Golf"
+latitude: 1.38595
+longitude: 103.984783
 ---
 
 The Changi Golf Club was founded in 1946.

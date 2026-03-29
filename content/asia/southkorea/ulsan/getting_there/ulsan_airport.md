@@ -5,6 +5,8 @@ address: "522 Songjeong-dong, Buk-Gu, Ulsan Metropolitan City."
 phone: "052 288 7011"
 type: "By Air"
 url: "ulsan.airport.co.kr"
+latitude: 35.601922
+longitude: 129.366846
 ---
 
 As Ulsan recieves no international flights it is only possible to arrive in the city via the air from two destinations - Seoul (Gimpo) and Jeju-do.

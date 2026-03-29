@@ -1,6 +1,8 @@
 ---
 title: "Banda islands"
 type: location
+latitude: -4.540414
+longitude: 129.938961
 ---
 
 We currently have no information about Banda islands.

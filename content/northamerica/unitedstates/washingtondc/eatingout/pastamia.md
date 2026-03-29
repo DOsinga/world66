@@ -5,6 +5,8 @@ address: "1790 Columbia Rd"
 phone: "(202)667-2400"
 price: "main dishes are $10 to $13"
 type: "Italian"
+latitude: 42.33193
+longitude: -71.029483
 ---
 
 They serve Italian fares that make people line up on the sidewalk to get a seats.

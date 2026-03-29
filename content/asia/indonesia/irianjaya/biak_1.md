@@ -1,6 +1,8 @@
 ---
 title: "biak"
 type: location
+latitude: -1.183609
+longitude: 136.081632
 ---
 
 biak

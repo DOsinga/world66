@@ -1,6 +1,8 @@
 ---
 title: "Kanchipuram"
 type: location
+latitude: 12.964716
+longitude: 79.983969
 ---
 
 Kanchipuram is a Spectacular Temple city known as city of thousand temples which reflects the Glorious Traditions of South India with its noted temples

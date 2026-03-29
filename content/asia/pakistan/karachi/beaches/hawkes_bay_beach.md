@@ -1,6 +1,8 @@
 ---
 title: "Hawke's Bay Beach"
 type: poi
+latitude: 24.853174
+longitude: 66.881069
 ---
 
 Hawke's Bay or Hawkesbay is a beach in Pakistan situated a couple of kilometers away from Sandspit Beach in Karachi. It is a sandy beach with natural beauty. Visitors enjoy weekend picnics, swimming, fishing, and camel and horse riding.

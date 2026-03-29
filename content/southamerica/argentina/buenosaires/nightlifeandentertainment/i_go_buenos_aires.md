@@ -7,6 +7,8 @@ email: "Info@IGoBuenosAires.com"
 phone: "156 527 6993"
 type: "Pubs"
 url: "www.IGoBuenosAires.com"
+latitude: -34.723448
+longitude: -56.204427
 ---
 
 For all Portenos, expats, tourists, and everyone who lies somewhere in between, I Go Buenos Aires Pub Crawl is waiting for you.

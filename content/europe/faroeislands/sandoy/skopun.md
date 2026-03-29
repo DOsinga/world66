@@ -1,6 +1,8 @@
 ---
 title: "Skopun"
 type: location
+latitude: 61.903942
+longitude: -6.884644
 ---
 
 Travel Guide

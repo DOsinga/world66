@@ -5,6 +5,8 @@ address: "29 El-Hegaz Street, Heliopolis, Cairo"
 email: "info@santamaria-tours.com"
 phone: "+ 2 02 22 58 99 92"
 url: "www.santamaria-tours.com"
+latitude: 30.09874
+longitude: 31.323229
 ---
 
 We will pick you from your hotel in Sharm El Sheikh at 10:30 p.m., drive towards **St. Catherine** for about 3 hours, arrive to St. Catherine Monastery start to climb **Moses Mountain**

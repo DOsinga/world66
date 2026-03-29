@@ -1,6 +1,8 @@
 ---
 title: "Bahadur garh"
 type: location
+latitude: 31.565563
+longitude: 74.282394
 ---
 
 Travel Guide

@@ -7,6 +7,8 @@ email: "info@trekshimalaya.com"
 phone: "0097714422021"
 type: "Trekking"
 url: "www.trekshimalaya.com"
+latitude: 27.716658
+longitude: 85.312702
 ---
 
 <a href="http://www.nepalhikingteam.com/everest-base-camp-trekking" target="_self">Everest base camp trek</a>

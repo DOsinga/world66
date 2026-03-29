@@ -4,6 +4,8 @@ type: poi
 accessibility: "145, 186, 131, 130"
 address: "201 Balestier Road Singapore 329926"
 phone: "6233 6363"
+latitude: 1.320058
+longitude: 103.852506
 ---
 
 Great

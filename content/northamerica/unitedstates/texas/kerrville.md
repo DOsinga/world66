@@ -1,6 +1,8 @@
 ---
 title: "Kerrville"
 type: location
+latitude: 30.048469
+longitude: -99.139946
 ---
 
 Travel Guide

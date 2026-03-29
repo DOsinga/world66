@@ -2,6 +2,8 @@
 title: "Zeeburg"
 type: poi
 type: "Hotspots"
+latitude: 51.452662
+longitude: 3.65403
 ---
 
 Zeeburg is a new quarter that is being built north east of Amsterdam on a series of artificial island on the river IJ.

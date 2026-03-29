@@ -1,6 +1,8 @@
 ---
 title: "Jiangsu Province"
 type: location
+latitude: 33.0
+longitude: 120.0
 ---
 
 Travel Guide

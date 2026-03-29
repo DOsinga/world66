@@ -1,6 +1,8 @@
 ---
 title: "Hampton Beach"
 type: location
+latitude: 42.91202
+longitude: -70.81742
 ---
 
 Travel Guide

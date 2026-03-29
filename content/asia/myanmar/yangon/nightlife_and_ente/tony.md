@@ -2,6 +2,8 @@
 title: "Tony"
 type: poi
 type: "Beer Gardens"
+latitude: 16.862344
+longitude: 96.121607
 ---
 
 JJ Club (Lucky Club)

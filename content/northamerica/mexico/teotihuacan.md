@@ -1,6 +1,8 @@
 ---
 title: "Teotihuacan"
 type: location
+latitude: 19.693357
+longitude: -98.883126
 ---
 
 Travel Guide

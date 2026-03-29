@@ -6,6 +6,8 @@ email: "info@highstreetcincinnati.com"
 phone: "513-723-1901"
 type: "Speciality shops"
 url: "www.highstreetcincinnati.com"
+latitude: 39.111941
+longitude: -84.503572
 ---
 
 If you want to enjoy some Cincinnati shopping while on vacation, take a trip to Northgate Mall at 9501 Colerain Avenue. This place has all the great stores you will ever imagine. Shop until you drop at Charlotte Russe, Ashley Stewart, Dillard’s, Express, Christopher & Banks, Victoria’s Secret, and Borders. There is a food court, so you can grab a bite at Subway, Arby’s, Great Steak & Potato, Sbarro, or Burger King. If you want to sit down and dine, there is an Applebee’s and TGI Friday’s as well. For directions and hours of operation, visit their website at mynorthgatemall.com.

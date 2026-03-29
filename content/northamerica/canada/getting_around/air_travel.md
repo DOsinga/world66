@@ -1,6 +1,8 @@
 ---
 title: "Air Travel"
 type: poi
+latitude: 45.32571
+longitude: -75.664959
 ---
 
 Although Toronto's Lester B. Pearson International Airport can be

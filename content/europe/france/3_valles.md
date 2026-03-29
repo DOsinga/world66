@@ -1,6 +1,8 @@
 ---
 title: "3 Vallées"
 type: location
+latitude: 45.31237
+longitude: 6.581785
 ---
 
 Travel Guide

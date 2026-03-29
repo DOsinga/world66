@@ -1,6 +1,8 @@
 ---
 title: "Saranac Lake"
 type: location
+latitude: 44.329661
+longitude: -74.13112
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Koulamoutou"
 type: location
+latitude: -1.134001
+longitude: 12.467275
 ---
 
 We currently have no information about Koulamoutou.

@@ -1,6 +1,8 @@
 ---
 title: "Waikato"
 type: location
+latitude: -37.779227
+longitude: 175.201032
 ---
 
 The **Waikato** is named for its mighty river.

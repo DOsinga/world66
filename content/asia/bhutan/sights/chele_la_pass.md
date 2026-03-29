@@ -2,6 +2,8 @@
 title: "Chele La Pass"
 type: poi
 type: "Landmarks"
+latitude: 27.369877
+longitude: 89.346673
 ---
 
 Chele La Pass at over 13,000 ft to the west above the Paro Valley is

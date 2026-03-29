@@ -1,6 +1,8 @@
 ---
 title: "Ludwigsburg"
 type: location
+latitude: 48.895394
+longitude: 9.189515
 ---
 
 "Ludwigsburg is a very special town" were the words used by Leopold Mozart to describe the town he visited with his son Wolfgang Amadeus in July 1763. This is still true of Ludwigsburg today which is an active, lively and friendly town in the centre of one of the most economically sound regions in Germany. The baroque palaces and the large parks, the Baroque-in-Bloom gardens and the culture and convention centre "Forum am Schlosspark", the famous porcelain factory, or the renowned palace festival are all part of the unique profile of this town. 

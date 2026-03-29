@@ -1,6 +1,8 @@
 ---
 title: "Commerce"
 type: location
+latitude: 34.003218
+longitude: -118.154196
 ---
 
 Travel Guide

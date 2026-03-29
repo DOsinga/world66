@@ -2,6 +2,8 @@
 title: "Restoran Hoi Yin"
 type: poi
 type: "Chinese"
+latitude: 3.812491
+longitude: 103.369976
 ---
 
 Hoi Yin restaurant on the way to Teluk Cempedak beach serves the best curry laksa in Kuantan. A lot of locals now residing in Australia make a trip there to eat without fail whenever they return to their hometown. The curry is tasty, filled with a generous serve of ingredients and noodles.

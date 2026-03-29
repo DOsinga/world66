@@ -5,6 +5,8 @@ address: "Hay Salam 378"
 email: "info@tripstomorocco.com"
 phone: "+212667380748"
 url: "www.tripstomorocco.com"
+latitude: 32.999106
+longitude: -7.633543
 ---
 
 **1st day :Marrakech

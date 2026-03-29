@@ -1,6 +1,8 @@
 ---
 title: "Andijon"
 type: location
+latitude: 40.783347
+longitude: 72.350675
 ---
 
 We currently have no information about Andijon.

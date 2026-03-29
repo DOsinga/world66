@@ -1,6 +1,8 @@
 ---
 title: "Interference"
 type: poi
+latitude: 43.631489
+longitude: 1.48974
 ---
 
 clothes for men & women

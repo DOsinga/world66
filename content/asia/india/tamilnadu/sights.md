@@ -8,6 +8,8 @@ opening_hours: "24 hours"
 phone: "919897064001"
 type: "Hotspots"
 url: "www.sendflowerstochennai.com"
+latitude: 13.083694
+longitude: 80.270186
 ---
 
 Chennai Florist - Send Flowers to Chennai India Florists to send Flowers to Chennai, Gifts, Roses, Flower Gift Shop India

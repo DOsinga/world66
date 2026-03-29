@@ -1,6 +1,8 @@
 ---
 title: "Maribor"
 type: location
+latitude: 46.557644
+longitude: 15.645585
 ---
 
 Maribor is Slovenia's often overlooked second city. A thriving university city of just over 100,000, Maribor is situated on the Drava river in north-eastern Slovenia. 

@@ -6,6 +6,8 @@ email: "info@bangkoklimo.org"
 phone: "0813480241"
 type: "By Air"
 url: "www.bangkoklimo.org"
+latitude: 13.761019
+longitude: 100.555675
 ---
 
 Travel by bus or train south of Bangkok, you can also take local bus and train from Hua Hin along the coast to Kui Buri.

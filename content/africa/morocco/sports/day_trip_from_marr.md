@@ -6,6 +6,8 @@ email: "info@indigosafari.com"
 phone: "+212673808084"
 type: "Trekking"
 url: "www.indigosafari.com"
+latitude: 31.625826
+longitude: -7.989161
 ---
 
 On this day trip to Ouarzazate you will visit

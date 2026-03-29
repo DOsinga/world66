@@ -1,6 +1,8 @@
 ---
 title: "Nachod"
 type: location
+latitude: 50.416702
+longitude: 16.162287
 ---
 
 Nachod is a beautiful town on the Czech-Polish border (literally - go shopping in the hypermarket and you're right next to the border patrol). Picturesque and situated in stunning countryside, walks in the surrounding area are a must (especially when covered in snow, as they were over the Christmas period). 

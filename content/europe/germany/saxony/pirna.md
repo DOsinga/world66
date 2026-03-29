@@ -1,6 +1,8 @@
 ---
 title: "Pirna"
 type: location
+latitude: 50.961692
+longitude: 13.938664
 ---
 
 Travel Guide

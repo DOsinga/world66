@@ -1,6 +1,8 @@
 ---
 title: "Midura"
 type: location
+latitude: -34.183355
+longitude: 142.162799
 ---
 
 Travel Guide

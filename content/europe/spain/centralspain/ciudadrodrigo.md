@@ -1,6 +1,8 @@
 ---
 title: "Ciudad Rodrigo"
 type: location
+latitude: 40.597392
+longitude: -6.533518
 ---
 
 Ciudad Rodrigo is basically a frontier city although it is still some way to Portugal. A trip from Salamanca is a welcome change from the touristic frenzy which sometimes dominates Salamanca.

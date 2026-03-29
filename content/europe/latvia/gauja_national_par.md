@@ -1,6 +1,8 @@
 ---
 title: "Gauja National Park"
 type: location
+latitude: 57.299892
+longitude: 25.079247
 ---
 
 Travel Guide

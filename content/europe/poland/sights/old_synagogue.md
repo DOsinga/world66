@@ -3,6 +3,8 @@ title: "Old Synagogue"
 type: poi
 address: "Szeroka 24"
 type: "Synagogues"
+latitude: 50.051435
+longitude: 19.948704
 ---
 
 Kazimierz has seven big Synagogues which form a unique set of this kind of buildings, not only in Poland, but in Europe as well.

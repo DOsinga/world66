@@ -5,6 +5,8 @@ address: "Willemstraat 10"
 phone: "+31 (0)30 231 3129"
 type: "Pubs"
 zipcode: "3511RK"
+latitude: 52.063406
+longitude: 4.354261
 ---
 
 type: Pubs

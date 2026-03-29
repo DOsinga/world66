@@ -1,6 +1,8 @@
 ---
 title: "Jal"
 type: location
+latitude: 20.761817
+longitude: -103.694736
 ---
 
 Travel Guide

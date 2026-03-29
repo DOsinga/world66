@@ -1,6 +1,8 @@
 ---
 title: "New Jersey"
 type: location
+latitude: 40.075738
+longitude: -74.404162
 ---
 
 New Jersey is just south of

@@ -7,6 +7,8 @@ phone: "0030-2860-71469"
 price: "30"
 type: "Greek"
 url: "www.papagalosrestaurant.com"
+latitude: 36.462212
+longitude: 25.375726
 ---
 
 New Greek cuisine with focus on organic, farm-direct produce and seafood from the Mediterranean. Overlooking the volcanic Caldera of Oia Santorini.

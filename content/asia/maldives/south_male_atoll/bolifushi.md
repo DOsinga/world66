@@ -1,6 +1,8 @@
 ---
 title: "Bolifushi"
 type: location
+latitude: 4.097216
+longitude: 73.400108
 ---
 
 Travel Guide

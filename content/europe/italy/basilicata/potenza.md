@@ -1,6 +1,8 @@
 ---
 title: "Potenza"
 type: location
+latitude: 40.517312
+longitude: 15.821609
 ---
 
 Travel Guide

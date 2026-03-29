@@ -1,6 +1,8 @@
 ---
 title: "Sapulpa"
 type: location
+latitude: 36.000504
+longitude: -96.104961
 ---
 
 Travel Guide

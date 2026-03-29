@@ -1,6 +1,8 @@
 ---
 title: "Cuyahoga Falls"
 type: location
+latitude: 41.136273
+longitude: -81.482812
 ---
 
 Travel Guide

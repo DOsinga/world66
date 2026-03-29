@@ -4,6 +4,8 @@ type: poi
 address: "Koh Phayam island, Ranong, Thailand"
 email: "info@kohphayam.org"
 url: "www.kohphayam.org"
+latitude: 9.740532
+longitude: 98.403646
 ---
 
 Koh Phayam island - kangaroo shape small Thailand island, located in North Andaman sea, near Ranong, Thailand and Port Victoria - Burma.

@@ -1,6 +1,8 @@
 ---
 title: "Las Palmas"
 type: location
+latitude: 28.128869
+longitude: -15.434902
 ---
 
 The capitol of the island, located on the north-west shore. Not many tourists find their way here from the south side, but it is well worth the bus trip.

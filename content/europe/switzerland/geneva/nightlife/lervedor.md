@@ -4,6 +4,8 @@ type: poi
 address: "Quai des Forces-Motrices 4"
 phone: "+41 (0)22 329 01 29"
 type: "Dancing"
+latitude: 46.204152
+longitude: 6.137233
 ---
 
 Don’t be afraid that you’ll fall asleep in this club where they play electronic music most of the time. Can get crowded in the weekends.

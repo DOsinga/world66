@@ -6,6 +6,8 @@ email: "travel@iridium.ge"
 phone: "+995 99 94 20 10"
 url: "www.iridium-travel.com"
 zipcode: "0194"
+latitude: 41.693459
+longitude: 44.801449
 ---
 
 **Ultramontane Khevsureti – 9 days**

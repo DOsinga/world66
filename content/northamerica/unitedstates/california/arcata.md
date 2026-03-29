@@ -1,6 +1,8 @@
 ---
 title: "Arcata"
 type: location
+latitude: 40.866517
+longitude: -124.08284
 ---
 
 Travel Guide

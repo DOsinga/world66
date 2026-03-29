@@ -1,6 +1,8 @@
 ---
 title: "Sintok"
 type: location
+latitude: 6.445125
+longitude: 100.481139
 ---
 
 Sintok is located near the border of the Thailand-Malaysia. It is located about 16 kilometers to the north from Bukit Kayu Hitam, Kedah. Perhaps this small town is famous for the Universiti Utara Malaysia or Northen University of Malaysia. This management university which has been established since 1984 in Jitra, Kedah was moved to Sintok in 1993. 

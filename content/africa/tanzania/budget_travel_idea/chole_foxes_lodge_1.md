@@ -5,6 +5,8 @@ address: "mafia island tanazania"
 email: "mkilopola@yahoo.com"
 phone: "+255654512639"
 url: "www.cholefoxeslodge.webs.com"
+latitude: -7.842998
+longitude: 39.785257
 ---
 
 CHOLE FOXES LODGE

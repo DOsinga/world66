@@ -1,6 +1,8 @@
 ---
 title: "Dublin"
 type: location
+latitude: 53.349379
+longitude: -6.260559
 ---
 
 Dublin is the capital city of the Republic of Ireland, with a population of over a million people. Plan to stay at least two nights to take advantage of its superb cultural offerings (theatres, museums and bookstores) as well as its lovely parks, friendly pubs, interesting historical sites and vibrant street scenes.

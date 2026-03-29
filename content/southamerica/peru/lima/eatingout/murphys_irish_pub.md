@@ -8,6 +8,8 @@ phone: "0051 1 2421212"
 price: "20 soles"
 type: "Cheap"
 url: "www.irishpublima.com"
+latitude: 39.52911
+longitude: -83.936248
 ---
 
 An Irish theme pub in the center or Miraflores. Serving local and international "Pub Grub". Live music Thursday, Friday and Saturday. Only a few blocks from Parque Kennedy.

@@ -1,6 +1,8 @@
 ---
 title: "Las Medulas"
 type: location
+latitude: 42.454439
+longitude: -6.762921
 ---
 
 Las Medulas , the

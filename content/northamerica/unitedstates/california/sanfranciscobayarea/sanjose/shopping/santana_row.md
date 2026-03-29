@@ -7,6 +7,8 @@ email: "srconcierge@federalrealty.com"
 phone: "408.551.4611"
 type: "Speciality shops"
 url: "www.santanarow.com"
+latitude: 37.32098
+longitude: -121.9486
 ---
 
 Once

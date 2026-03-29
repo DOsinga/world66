@@ -4,6 +4,8 @@ type: poi
 address: "East Molesey, Surrey, England"
 phone: "+44 (0)870 752 7777"
 url: "www.historicroyalpalaces.org"
+latitude: 51.399102
+longitude: -0.357136
 ---
 
 A great day trip out of London for history buffs is Hampton Court Palace where the 16 th century is alive again. A 30 minute train ride from London 's Waterloo Station brings you to this palace of Henry VIII 's, originally donated to him by Cardinal Wolsey. Wolsey had renovated the Palace to reflect his role as Lord Chancellor of England, and included rooms for Henry, Catherine of Aragon and their daughter Mary – all these rooms you can see today.

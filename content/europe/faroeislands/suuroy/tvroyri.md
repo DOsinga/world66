@@ -1,6 +1,8 @@
 ---
 title: "Tvøroyri"
 type: location
+latitude: 61.555329
+longitude: -6.804682
 ---
 
 Travel Guide

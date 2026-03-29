@@ -3,6 +3,8 @@ title: "Indian Airlines"
 type: poi
 type: "By Rail"
 url: "www.indian-airlines.nic.in"
+latitude: 19.080559
+longitude: 72.870824
 ---
 
 IndianrAirlines Daily flights to Visakhapatnam From Hyderabad, Channai.

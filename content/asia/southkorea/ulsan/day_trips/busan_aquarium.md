@@ -4,6 +4,8 @@ type: poi
 email: "webmaster@busanaquarium.com"
 phone: "051-740-170"
 url: "www.busanaquarium.com"
+latitude: 35.159188
+longitude: 129.161022
 ---
 
 The largest Aquarium in Korea is at Haeundae beach in Busan, once again a short journey from Ulsan.

@@ -1,6 +1,8 @@
 ---
 title: "Khan Tengri"
 type: location
+latitude: 43.221216
+longitude: 76.927036
 ---
 
 Travel Guide

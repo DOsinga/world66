@@ -7,6 +7,8 @@ email: "info@cafeshamrock.nl"
 phone: "043-3500095"
 type: "Pubs"
 url: "www.cafeshamrock.nl"
+latitude: 50.879789
+longitude: 4.697941
 ---
 
 The Shamrock is a fun youthful bar that has tons of great shots and lots of drink specials.

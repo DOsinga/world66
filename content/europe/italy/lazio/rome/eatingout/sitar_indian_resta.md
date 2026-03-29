@@ -6,6 +6,8 @@ email: "sitar_risto@yahoo.it"
 phone: "06 - 4884004"
 type: "Indian and Pakistani"
 url: "www.geocities.com"
+latitude: 41.894306
+longitude: 12.492335
 ---
 
 Indian food reflects influences that have shaped its particular style of cooking. The Mughals, brought with them exotic spices and dried fruits and nuts, which they combined with meat, vegetables, milk and cream to create rich Mughlai dishes. These are amongst the finest in Indian regional cuisine.

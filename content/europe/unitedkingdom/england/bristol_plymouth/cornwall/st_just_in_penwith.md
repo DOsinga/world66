@@ -1,6 +1,8 @@
 ---
 title: "St Just in Penwith"
 type: location
+latitude: 50.124369
+longitude: -5.679704
 ---
 
 Travel Guide

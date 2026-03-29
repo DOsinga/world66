@@ -5,6 +5,8 @@ address: "Berlin"
 email: "mail@tour-the-east.com"
 phone: "+49 (0)30 4703 4747"
 url: "www.tour-the-east.com"
+latitude: 52.517389
+longitude: 13.395131
 ---
 
 For Baltic or North Sea cruise passengers they pick you up personally (and not just a driver or driver-guide) in Warnemunde (Rostock) or Hamburg port for a private tour to Berlin, Potsdam, Hamburg or the beautiful countryside in northern Germany

@@ -1,6 +1,8 @@
 ---
 title: "Gegharkunik Marz"
 type: location
+latitude: 40.352445
+longitude: 45.127131
 ---
 
 Travel Guide

@@ -1,6 +1,8 @@
 ---
 title: "Puri Rai Hotel"
 type: location
+latitude: -8.530337
+longitude: 115.509925
 ---
 
 Travel Guide

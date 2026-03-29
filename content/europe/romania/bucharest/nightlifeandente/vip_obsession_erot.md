@@ -8,6 +8,8 @@ email: "contact@vip-obsession.ro"
 phone: "+40755141868"
 type: "Erotic clubs and bars"
 url: "www.vip-obsession.ro"
+latitude: 44.425821
+longitude: 26.12552
 ---
 
 **THE

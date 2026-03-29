@@ -1,6 +1,8 @@
 ---
 title: "Exeter"
 type: location
+latitude: 50.725614
+longitude: -3.526921
 ---
 
 The ancient city of Exeter, Devon's county town, gets enough tourists, though less than some parts of the county since it is neither on the coast nor in a national park 

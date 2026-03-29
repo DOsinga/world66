@@ -3,6 +3,8 @@ title: "Main post office"
 type: poi
 address: "Singel 250"
 type: "Post office"
+latitude: 52.373126
+longitude: 4.888289
 ---
 
 The main post office is at the Singel 250, on the corner with

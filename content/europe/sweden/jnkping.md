@@ -1,6 +1,8 @@
 ---
 title: "Jönköping"
 type: location
+latitude: 57.782563
+longitude: 14.165719
 ---
 
 Travel Guide

@@ -5,6 +5,8 @@ address: "villa verde"
 email: "thinkgeekcanada09@gmail.com"
 type: "Hiking"
 url: "www.geekcantina.com"
+latitude: 39.795246
+longitude: 8.821131
 ---
 
 Geeky Gifts , Geeky Christmas Gifts , Gifts For Geek Nerds Gamers , Shirt For Geeks , Unique Gifts For Christmas ,

@@ -6,6 +6,8 @@ phone: "310/ 301-2000"
 price: "Dinner entrees $8 - $25"
 type: "American"
 url: "www.marinaintlhotel.com"
+latitude: 33.983896
+longitude: -118.458069
 ---
 
 Located in the Marina International Hotel, Continental fare; open daily for breakfast, lunch and dinner. Daily Happy Hour. Courtyard Patio dining.

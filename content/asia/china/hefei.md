@@ -1,6 +1,8 @@
 ---
 title: "Hefei"
 type: location
+latitude: 31.866568
+longitude: 117.281428
 ---
 
 Travel Guide

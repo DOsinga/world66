@@ -1,6 +1,8 @@
 ---
 title: "Culfa (Julfa)"
 type: location
+latitude: 38.954059
+longitude: 45.627034
 ---
 
 Travel Guide

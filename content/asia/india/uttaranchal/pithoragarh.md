@@ -1,6 +1,8 @@
 ---
 title: "Pithoragarh"
 type: location
+latitude: 29.585871
+longitude: 80.215167
 ---
 
 Travel Guide

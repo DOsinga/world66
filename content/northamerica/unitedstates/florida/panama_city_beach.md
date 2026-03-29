@@ -1,6 +1,8 @@
 ---
 title: "Panama City Beach"
 type: location
+latitude: 30.176591
+longitude: -85.805386
 ---
 
 Travel Guide

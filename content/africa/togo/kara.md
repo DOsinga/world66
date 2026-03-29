@@ -1,6 +1,8 @@
 ---
 title: "Kara"
 type: location
+latitude: 9.541111
+longitude: 0.787602
 ---
 
 Kara is quite a pleasant town, but that's probably not why you are here. It's the beauty of the area that brings you up north. Mont Kabye and [Tamberma](/africa/togo/tamberma) offer great hiking. The villages of the [Tamberma](/africa/togo/tamberma) are very beautiful, their castle-like houses are the major attraction. 

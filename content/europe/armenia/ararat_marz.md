@@ -1,6 +1,8 @@
 ---
 title: "Ararat Marz"
 type: location
+latitude: 39.952015
+longitude: 44.539323
 ---
 
 Travel Guide

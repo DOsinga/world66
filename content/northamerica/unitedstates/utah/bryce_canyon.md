@@ -1,6 +1,8 @@
 ---
 title: "Bryce Canyon"
 type: location
+latitude: 37.618407
+longitude: -112.142179
 ---
 
 Travel Guide

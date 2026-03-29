@@ -4,6 +4,8 @@ type: poi
 address: "322 F St Eureka CA"
 phone: "(707) 476-0991"
 type: "Other"
+latitude: 40.803087
+longitude: -124.166454
 ---
 
 **

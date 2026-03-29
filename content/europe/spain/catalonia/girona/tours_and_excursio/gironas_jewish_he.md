@@ -5,6 +5,8 @@ address: "Girona"
 email: "tours@euroadventures.net"
 phone: "+34 986 22 13 99"
 url: "www.euroadventures.net"
+latitude: 41.979301
+longitude: 2.819944
 ---
 
 Half day tour of the old quarter of Girona with an expert Private Local Guide…

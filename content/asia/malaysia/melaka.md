@@ -1,6 +1,8 @@
 ---
 title: "Melaka"
 type: location
+latitude: 2.329374
+longitude: 102.288096
 ---
 
 Travel Guide

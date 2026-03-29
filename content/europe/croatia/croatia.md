@@ -1,6 +1,8 @@
 ---
 title: "Croatia"
 type: location
+latitude: 45.365844
+longitude: 15.657521
 ---
 
 Senj

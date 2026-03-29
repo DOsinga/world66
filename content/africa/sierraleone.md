@@ -1,6 +1,8 @@
 ---
 title: "Sierra Leone"
 type: location
+latitude: 8.640035
+longitude: -11.840027
 ---
 
 Unfortunately, Sierra Leone has been ravaged by internal wars the last couple of years. This diamond rich small country in West Africa has been on the news more often than most travelers like - and most of the news coverage was about hands cut off and refugees. 

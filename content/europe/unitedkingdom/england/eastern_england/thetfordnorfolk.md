@@ -1,6 +1,8 @@
 ---
 title: "Thetford"
 type: location
+latitude: 52.4156
+longitude: 0.748712
 ---
 
 thetford norfolk england 

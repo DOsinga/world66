@@ -6,6 +6,8 @@ email: "info@bangkoklimo.org"
 phone: "0813480241"
 type: "By Road"
 url: "www.bangkoklimo.org"
+latitude: 13.761019
+longitude: 100.555675
 ---
 
 Jomtien Beach can be reached by express bus, taxi or limousine service from Bangkok. From Bangkok Airport to Jomtien beach is about 90 minutes. from central Bangkok buses leave at regular intervals, journey time about 2 hours. Although most visitors travel through Bangkok to reach Jomtien Beach there are also flights from the Pattaya and Jomtien Beach area from Utapao Airport direct to Koh Samui and Phuket.

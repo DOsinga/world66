@@ -1,6 +1,8 @@
 ---
 title: "Taizhong"
 type: location
+latitude: 24.5006
+longitude: 100.938
 ---
 
 Travel Guide

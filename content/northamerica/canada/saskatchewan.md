@@ -1,6 +1,8 @@
 ---
 title: "Saskatchewan"
 type: location
+latitude: 55.532126
+longitude: -106.141224
 ---
 
 ***Land of Living Skies*** 

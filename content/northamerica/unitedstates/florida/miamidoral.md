@@ -1,6 +1,8 @@
 ---
 title: "Miami-Doral"
 type: location
+latitude: 25.806163
+longitude: -80.348269
 ---
 
 Travel Guide

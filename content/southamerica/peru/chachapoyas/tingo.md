@@ -1,6 +1,8 @@
 ---
 title: "Tingo"
 type: location
+latitude: -6.390398
+longitude: -77.941677
 ---
 
 Travel Guide

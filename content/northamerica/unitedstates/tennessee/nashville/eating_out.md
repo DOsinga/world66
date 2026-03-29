@@ -5,6 +5,8 @@ address: "222 Woodruff Street, Madison, TN  37115"
 phone: "(615) 865-4126"
 type: "Lunch"
 url: "www.meatandthree.com"
+latitude: 36.260332
+longitude: -86.714573
 ---
 
 Nashville is a growing city that possesses many types of dining choices for leisure and business travelers. Music City has become a hub for Southern Comfort Food, featuring many cafe's, restaurants, and diners that are commonly called "Meat and Three's".

@@ -1,6 +1,8 @@
 ---
 title: "Ishigaki Island"
 type: location
+latitude: 24.471017
+longitude: 124.238506
 ---
 
 Ishigaki island is the main island in the Yaeyama Archipelago; an island chain about 420km southwest of Okinawa island. This Island is nationally noted for it's large number of artistic people that are born and raised on the island. 

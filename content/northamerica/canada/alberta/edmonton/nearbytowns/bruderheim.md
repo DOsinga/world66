@@ -2,6 +2,8 @@
 title: "Bruderheim"
 type: location
 type: "general"
+latitude: 53.801907
+longitude: -112.928117
 ---
 
 Bruderheim means “home of the brethren” and was named by German

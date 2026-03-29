@@ -2,6 +2,8 @@
 title: "Ujung Kulon National Park"
 type: poi
 type: "Parks, Gardens and Zoos"
+latitude: -6.751449
+longitude: 105.317796
 ---
 
 **Ujung

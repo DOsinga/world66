@@ -1,6 +1,8 @@
 ---
 title: "Saranda Hotels"
 type: location
+latitude: 39.871142
+longitude: 19.995434
 ---
 
 Travel Guide

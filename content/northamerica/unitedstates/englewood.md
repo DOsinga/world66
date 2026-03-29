@@ -1,6 +1,8 @@
 ---
 title: "Englewood"
 type: location
+latitude: 40.892933
+longitude: -73.972651
 ---
 
 We currently have no information about Englewood.

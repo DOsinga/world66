@@ -2,6 +2,8 @@
 title: "PATCHWORK CAFE"
 type: poi
 type: "general"
+latitude: 45.750213
+longitude: 4.857273
 ---
 
 15 rue Saint Firmin 

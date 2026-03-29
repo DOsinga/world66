@@ -109,6 +109,34 @@ longitude: 139.6503
 Your content here...
 ```
 
+## Contributing with the /todo skill
+
+If you're using [Claude Code](https://claude.com/claude-code) (or another agent that supports skills), the fastest way to contribute is with the built-in `/todo` skill.
+
+The `todo/` directory contains batched tasks — things like cleaning up country pages, adding missing sections, or fixing outdated content. Each task has a `TASK.md` explaining what to do and `.txt` shard files listing the items to process.
+
+To get started:
+
+```bash
+# Clone, set up, and run the site
+git clone https://github.com/DOsinga/world66.git
+cd world66
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+python3 manage.py runserver 8066
+
+# Make sure gh (GitHub CLI) is installed and authenticated
+brew install gh  # if needed
+gh auth login    # if needed
+
+# Then just tell your agent:
+/todo
+```
+
+Running `/todo` without arguments shows the available tasks. Running `/todo country_cleanup` (for example) picks a random batch, processes all items, and opens a PR. One batch = one PR. The agent handles everything: reading the task description, making the changes, committing, pushing, and creating the PR.
+
+You can also contribute manually — see the section above.
+
 ## Tools
 
 The `tools/` directory contains the scripts used to restore and enrich the content:

@@ -242,12 +242,56 @@ function initLocationMap(elementId, markers) {
         .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
         .addTo(map);
 
-    // Expand/collapse
-    const el = document.getElementById(elementId);
-    el.addEventListener('click', function() {
-        el.classList.toggle('map-expanded');
-        setTimeout(() => map.invalidateSize(), 300);
-    });
+    // Fullscreen expand/collapse via button
+    const wrapper = document.getElementById(elementId).closest('.map-wrapper');
+    if (wrapper) {
+        const el = document.getElementById(elementId);
+        const btn = wrapper.querySelector('.map-expand-btn');
+        if (btn) {
+            function refitMap() {
+                map.invalidateSize();
+                if (markers.length > 1) {
+                    map.fitBounds(group.getBounds().pad(0.1));
+                } else if (markers.length === 1) {
+                    map.setView([markers[0].lat, markers[0].lng], 13);
+                }
+            }
+
+            function enterFullscreen() {
+                wrapper.classList.add('map-fullscreen');
+                btn.innerHTML = '&#x2715;';
+                btn.title = 'Close';
+                // Wait for the layout to settle before resizing the map
+                requestAnimationFrame(function() {
+                    requestAnimationFrame(refitMap);
+                });
+            }
+
+            function exitFullscreen() {
+                wrapper.classList.remove('map-fullscreen');
+                btn.innerHTML = '&#x26F6;';
+                btn.title = 'Fullscreen';
+                requestAnimationFrame(function() {
+                    requestAnimationFrame(refitMap);
+                });
+            }
+
+            btn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                if (wrapper.classList.contains('map-fullscreen')) {
+                    exitFullscreen();
+                } else {
+                    enterFullscreen();
+                }
+            });
+
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && wrapper.classList.contains('map-fullscreen')) {
+                    exitFullscreen();
+                }
+            });
+        }
+    }
 
     return map;
 }

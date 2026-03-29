@@ -2,7 +2,7 @@
 
 ## What is this project?
 
-World66 is a restored open-content travel guide. The content was crawled from the Wayback Machine and converted to markdown files with YAML frontmatter. The site is served by Django, reading directly from the filesystem — no database.
+World66 is a restored open-content travel guide. The site is served by Django, reading directly from the filesystem
 
 ## Project structure
 
@@ -20,8 +20,6 @@ world66/           # Django settings
 source venv/bin/activate
 python3 manage.py runserver 8066
 ```
-
-No database, no migrations. Content changes are live immediately.
 
 ## Content format
 

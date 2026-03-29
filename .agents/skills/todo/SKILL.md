@@ -1,10 +1,12 @@
 ---
 name: todo
-description: Pick up a random shard from a todo task folder, process all items per TASK.md, and create a PR. Use when the user wants to work through batched todo items.
+description: help update the content of world66 in batches. invoke when the user asks you to help with a to do item
 argument-hint: <task-name>
 ---
 
-Pick up a random shard from `todo/$ARGUMENTS/` and process it.
+If no task name is provided, list the available tasks by looking at subdirectories of `todo/`. Show the task name, a one-line summary from TASK.md, and how many shards remain. Let the user pick one.
+
+If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and process it. These tasks are typically about updating the content in `content/`, so make sure you understand the task at hand in terms of folder structure. Read CLAUDE.md, STYLE.md, and any other docs referenced by TASK.md before starting.
 
 ## Steps
 

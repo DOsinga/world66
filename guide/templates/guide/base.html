@@ -28,7 +28,6 @@
         <li><a href="{{ continent.get_absolute_url }}"><span>{{ continent.title }}</span></a></li>
         {% endfor %}
       </ul>
-      <button class="mobile-menu-btn" aria-label="Menu">&#9776;</button>
     </nav>
 
     {% block breadcrumbs %}{% endblock %}
@@ -55,9 +54,37 @@
 <script src="{% static 'geo/mappings.js' %}"></script>
 <script src="{% static 'js/world66map.js' %}"></script>
 <script>
-document.querySelector('.mobile-menu-btn').addEventListener('click', function() {
-  document.querySelector('.top-nav ul').classList.toggle('open');
-});
+(function() {
+  var toggle = document.querySelector('.sidebar-toggle');
+  if (!toggle) return;
+  var sidebar = document.getElementById('sidebar');
+  if (!sidebar) return;
+
+  // Create overlay for closing sidebar on mobile
+  var overlay = document.createElement('div');
+  overlay.className = 'sidebar-overlay';
+  document.body.appendChild(overlay);
+
+  function openSidebar() {
+    sidebar.classList.add('sidebar-open');
+    overlay.classList.add('active');
+    toggle.textContent = '\u2715 Close';
+  }
+  function closeSidebar() {
+    sidebar.classList.remove('sidebar-open');
+    overlay.classList.remove('active');
+    toggle.textContent = '\u2630 Menu';
+  }
+
+  toggle.addEventListener('click', function() {
+    if (sidebar.classList.contains('sidebar-open')) {
+      closeSidebar();
+    } else {
+      openSidebar();
+    }
+  });
+  overlay.addEventListener('click', closeSidebar);
+})();
 </script>
 {% block extra_js %}{% endblock %}
 

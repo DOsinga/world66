@@ -48,18 +48,27 @@
   </div>
   {% endif %}
 
-  {% if locations %}
+  {% if locations or parent_locations %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
-      Places in {{ page.title }}
+      Places in {% if parent_locations %}{{ parent.title }}{% else %}{{ page.title }}{% endif %}
     </h3>
     <ul class="sidebar-nav">
-      {% for child in locations|slice:":30" %}
-      <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
-      {% endfor %}
-      {% if locations|length > 30 %}
-      <li class="more"><a href="#">Show all {{ locations|length }} &rarr;</a></li>
+      {% if parent_locations %}
+        {% for child in parent_locations|slice:":30" %}
+        <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
+        {% endfor %}
+        {% if parent_locations|length > 30 %}
+        <li class="more"><a href="#">Show all {{ parent_locations|length }} &rarr;</a></li>
+        {% endif %}
+      {% else %}
+        {% for child in locations|slice:":30" %}
+        <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
+        {% endfor %}
+        {% if locations|length > 30 %}
+        <li class="more"><a href="#">Show all {{ locations|length }} &rarr;</a></li>
+        {% endif %}
       {% endif %}
     </ul>
   </div>
@@ -82,15 +91,21 @@
 {% endblock %}
 
 {% block content %}
+<h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
+
 {% if is_continent %}
 <div id="country-map" class="country-map"></div>
 {% elif markers_json != "[]" %}
-<div id="location-map" class="location-map-small" title="Click to expand"></div>
+<div class="map-wrapper">
+  <div id="location-map" class="location-map-small"></div>
+  <button class="map-expand-btn" aria-label="Fullscreen map" title="Fullscreen">&#x26F6;</button>
+</div>
 {% elif lat and lng %}
-<div id="location-map" class="location-map-small" title="Click to expand"></div>
+<div class="map-wrapper">
+  <div id="location-map" class="location-map-small"></div>
+  <button class="map-expand-btn" aria-label="Fullscreen map" title="Fullscreen">&#x26F6;</button>
+</div>
 {% endif %}
-
-<h1>{{ page.title }}</h1>
 
 {% if page.properties %}
 <div class="info-box">

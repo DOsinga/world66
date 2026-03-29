@@ -42,8 +42,9 @@ def location_or_section(request, path):
         parent = load_page(parent_path)
 
     parent_sections = []
+    parent_locations = []
     if parent:
-        parent_sections, _, _ = parent.children()
+        parent_sections, parent_locations, _ = parent.children()
 
     body_html = md.markdown(page.body) if page.body else ""
     sections, locations, pois = page.children()
@@ -70,6 +71,7 @@ def location_or_section(request, path):
         "locations": locations,
         "pois": pois,
         "parent_sections": parent_sections,
+        "parent_locations": parent_locations,
         "body_html": body_html,
         "breadcrumbs": page.breadcrumbs(),
         "lat": lat,

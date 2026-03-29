@@ -3,8 +3,6 @@ title: "Holguin"
 type: location
 ---
 
-Travel Guide
-
 Holguin is located
 in the eastern part of Cuba, and is home to 1.5 million people. On
 October 27, 1492, Christopher Columbus landed in *Bariay*, on the
@@ -50,5 +48,3 @@ other attractions, *Holguín* offers the *Loma de la Cruz*
 (the Hill of the Cross), the most famous place in the city, featuring a
 450-step stairway that is steeped with history and legends.
 
-**Contributors**
-June 05, 2006

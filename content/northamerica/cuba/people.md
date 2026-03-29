@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 11 050 729 (July 1998 est.)
+Cuba has a population of around 11 million, a figure that has been slowly declining as emigration accelerates. Since 2020, hundreds of thousands of Cubans have left the island — many heading for the United States via Mexico — driven by the deepening economic crisis. The people who remain are, on the whole, remarkably warm and hospitable toward foreigners, which makes Cuba an unusually easy country to travel independently despite its difficulties.
 
-**Age structure:**
+The population is a mix of Spanish colonial descent (about 37%), Afro-Cuban (around 11%), and the majority — around 51% — who are mixed race, reflecting four centuries of blending between European settlers, enslaved Africans, and small numbers of Chinese contract workers who arrived in the 19th century. The indigenous Taíno population was virtually exterminated within a century of Spanish contact.
 
-*0-14 years:* 22% (male 1 247 339; female 1 182 612)
+Spanish is the sole official language and is spoken universally. The Cuban accent is distinct — rapid, with consonants dropped — and can take a few days to tune into. English is spoken in Havana and at tourist facilities; outside the capital, expect to need some Spanish.
 
-*15-64 years:* 69% (male 3 795 310; female 3 777 454)
+Religion was suppressed under early socialism but tolerated from the 1990s onward. The most interesting thread is Santería (also called Lucumí or Regla de Ocha), an Afro-Cuban tradition that fuses Yoruba religious practice with Catholic imagery. It is deeply woven into Cuban life, particularly in Santiago de Cuba and the Oriente region. You will encounter it in music, in the white-clad initiates you see on city streets, and — if you are lucky — at a ceremony.
 
-*65 years and over:* 9% (male 490 883; female 557 131) (July 1998 est.)
-
-**Population growth rate:** 0.42% (1998 est.)
-
-**Birth rate:** 13.13 births/1 000 population (1998 est.)
-
-**Death rate:** 7.35 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.53 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.88 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 7.89 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 75.64 years
-
-*male:* 73.29 years
-
-*female:* 78.13 years (1998 est.)
-
-**Total fertility rate:** 1.57 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Cuban(s)
-
-*adjective:* Cuban
-
-**Ethnic groups:** mulatto 51% white 37% black 11% Chinese 1%
-
-**Religions:** nominally Roman Catholic 85% prior to CASTRO assuming power; Protestants Jehovah's Witnesses Jews and Santeria are also represented
-
-**Languages:** Spanish
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 95.7%
-
-*male:* 96.2%
-
-*female:* 95.3% (1995 est.)
+Cuba has very high literacy rates (around 99%) and free universal education through university, outcomes that are genuine achievements of the revolution. The healthcare system, though strained by shortages of medicine and equipment, trains excellent doctors.

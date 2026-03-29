@@ -3,110 +3,20 @@ title: "Books"
 type: section
 ---
 
-For more information on Cuba, its history, people or wildlife ... consider reading some of these books before your trip.
+Cuba has inspired a rich body of writing — history, memoir, fiction, and photography. A few recommendations for before and during your trip.
 
-**Books**
+**Our Man in Havana** by Graham Greene (1958) — Greene's spy comedy set in the last years of Batista's Cuba. Funny, sharp, and still the best literary portrait of Havana's faded glamour. Essential reading.
 
-**Cuba Libre**
+**Cuba Libre** by Elmore Leonard (1998) — a novel set during the Spanish-American War of 1898. Vintage Leonard: fast dialogue, morally complicated characters, and a good feel for the period.
 
+**Waiting for Snow in Havana** by Carlos Eire (2003) — a memoir of childhood in pre-revolutionary Havana and the chaos of the 1959 revolution. Won the National Book Award. Beautiful and painful.
 
+**Cuba: A New History** by Richard Gott (2004) — a serious, readable one-volume history from pre-colonial times through the early 2000s. Good for understanding how the country arrived where it is.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0440225590/ref=ase_osingacom?v=glance&s=books)
+**Trading with the Enemy** by Tom Miller (1996) — an American journalist travels Cuba illegally in the mid-1990s. Vivid street-level portraits and a useful corrective to both pro- and anti-Castro mythologies.
 
-author: Elmore Leonard
+**Dirty Havana Trilogy** by Pedro Juan Gutiérrez (1998, translated 2002) — raw, explicit fiction set in 1990s Special Period Havana. Not for the squeamish, but nothing captures the desperation and black humor of that era like this.
 
-isbn: 0440225590
+**The Old Man and the Sea** by Ernest Hemingway (1952) — technically set off the north coast of Cuba at Cojímar. Hemingway lived in Cuba for 20 years and is inescapable in Havana; this is his best work, and the setting matters.
 
-subject: travel
-
-**Castro's Curveball**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0345424417/ref=ase_osingacom?v=glance&s=books)
-
-author: Tim Wendel
-
-isbn: 0345424417
-
-subject: travel
-
-**Insight Guide Cuba**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887291317/ref=ase_osingacom?v=glance&s=books)
-
-author: Danny Aeberhard (Editor)
-
-isbn: 0887291317
-
-subject: travel
-
-**Rum Drinks & Havanas:Cuba Classics**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0789205270/ref=ase_osingacom?v=glance&s=books)
-
-author: Ernst Lechthaler,Amiel Pretsch (Photographer)..
-
-isbn: 0789205270
-
-subject: culture
-
-**Cubans:The Ultimate Cigars**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558216448/ref=ase_osingacom?v=glance&s=books)
-
-author: William P. Mara
-
-isbn: 1558216448
-
-subject: culture
-
-**Walker Evans:Hungry Eyes**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810932598/ref=ase_osingacom?v=glance&s=books)
-
-author: Gilles Mora,John T. Hill,Walker Evans (Photog..
-
-isbn: 0810932598
-
-subject: culture
-
-**Cuba Libre**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0440225590/ref=ase_osingacom?v=glance&s=books)
-
-author: Elmore Leonard
-
-isbn: 0440225590
-
-subject: history
-
-**Havana Dreams: A Story of Cuba**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679750703/ref=ase_osingacom?v=glance&s=books)
-
-author: Wendy Gimbel
-
-isbn: 0679750703
-
-subject: history
-
-**Birds of Cuba**
-
-This book represents the first new field guide for Cuban birds published in the last 80 years. The book is well-illustrated and includes range maps.
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-subject: Bird Guide
+**Birds of Cuba** by Garrido and Kirkconnell — the standard field guide, useful if you're heading into the Zapata wetlands or the eastern mountains.

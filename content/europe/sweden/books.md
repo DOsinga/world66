@@ -3,102 +3,24 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## Fiction
 
-**Fodor's Sweden '99**
+**The Millennium Trilogy** by Stieg Larsson — *The Girl with the Dragon Tattoo* and its sequels put Stockholm (and the Swedish crime thriller genre) on the international map. Dark, gripping, and surprisingly good on Swedish social texture.
 
+**The 100-Year-Old Man Who Climbed Out the Window and Disappeared** by Jonas Jonasson — A lighter choice: absurdist comedy that sweeps through 20th-century history. Fun for long train journeys north.
 
+**Pippi Longstocking** by Astrid Lindgren — If you're travelling with kids, or just want to understand Sweden's beloved outsider spirit, Lindgren is essential. Vimmerby in Småland, where she grew up, is now a major attraction.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679035397/ref=ase_osingacom?v=glance&s=books)
+**August is a Wicked Month** by Edna O'Brien — Not Swedish, but set partly in Sweden and captures a particular mood of Nordic summer.
 
-author: Fodor Travel Publications,Fodors Travel
+## Non-Fiction and Background
 
-isbn: 0679035397
+**The Almost Nearly Perfect People** by Michael Booth — An irreverent British journalist's examination of Scandinavian society. Funny and sharp, with good chapters on Sweden's relationship with its Nordic neighbours.
 
-subject: travel
+**Sweden: The Nation's History** by Franklin D. Scott — Dry but thorough academic history if you want proper context before visiting.
 
-**Insight Sweden**
+**The Nordic Secret** by Lene Rachel Andersen and Tomas Björkman — An argument about how Nordic societies developed their particular political cultures. Dense but interesting for those who want to understand the modern welfare state.
 
+## Crime Fiction Set in Sweden
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887297765/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Publications,Brian Bell (Editor)
-
-isbn: 0887297765
-
-subject: travel
-
-**The Rough Guide to Scandinavia:Denmark, Norway, Sweden and Finland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858282365/ref=ase_osingacom?v=glance&s=books)
-
-author: Jules Brown,Sinclair Brow,Marc Singer
-
-isbn: 1858282365
-
-subject: travel
-
-**Absolut Book:The Absolut Vodka Advertising Story**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1885203292/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard W. Lewis
-
-isbn: 1885203292
-
-subject: culture
-
-**Culture Shock!:Sweden**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558682996/ref=ase_osingacom?v=glance&s=books)
-
-author: Charlotte Rosen Svensson,Charlotte Rosen
-
-isbn: 1558682996
-
-subject: culture
-
-**Notorious:The Life of Ingrid Bergman**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0060187026/ref=ase_osingacom?v=glance&s=books)
-
-author: Donald Spoto
-
-isbn: 0060187026
-
-subject: culture
-
-**A Long Way to a New Land**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0064441008/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/1885203292/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard W. Lewis
-
-isbn: 1885203292
-
-subject: history
-
-**Neoclassicism in the North:Swedish Furniture and Interiors 1770-1850**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0500281068/ref=ase_osingacom?v=glance&s=books)
-
-author: Hakan Groth,Fritz Von der Schulenburg (Photog..
-
-isbn: 0500281068
-
-subject: history
+Henning Mankell's Kurt Wallander novels are set in and around Ystad in Skåne — worth reading if you're heading to southern Sweden. Camilla Läckberg sets her thrillers in Fjällbacka on the Bohuslän coast.

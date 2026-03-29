@@ -3,112 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+A short reading list for travelers to Switzerland, from practical guides to fiction and history.
 
-**Frommer's Switzerland**
+**The White Spider** by Heinrich Harrer (1959) is the classic account of the first ascent of the Eiger's north face in 1938, one of alpinism's most dangerous routes. Harrer writes with the matter-of-fact intensity of someone who survived something that killed many others. Required reading if you are going anywhere near Grindelwald.
 
+**A Tramp Abroad** by Mark Twain (1880) includes a long and very funny account of his time in Switzerland, including a description of ascending the Riffelberg above Zermatt that is mostly fiction but highly entertaining.
 
+**Heidi** by Johanna Spyri (1881) is the defining Swiss novel, set in the Graubünden Alps. It shaped the international image of Switzerland more than any other book and is worth reading as a cultural artifact even if the sentimentality is not to your taste.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028620836/ref=ase_osingacom?v=glance&s=books)
+**Asterix in Switzerland** by René Goscinny and Albert Uderzo (1970) is the Asterix album set partly in Switzerland, featuring a satirical portrait of Swiss bankers, cuckoo clocks, and fondue. Accurate enough in its caricature to remain funny.
 
-author: Darwin Porter,Danforth Prince
+**The Magic Mountain** by Thomas Mann (1924) is set in a tuberculosis sanatorium above Davos and is one of the great European novels of the 20th century. Heavy going but rewarding; it captures the peculiar suspended time of mountain resort life better than anything else written.
 
-isbn: 0028620836
-
-subject: travel
-
-**Rick Steves' Germany, Austria and Switzerland 1999**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1562614630/ref=ase_osingacom?v=glance&s=books)
-
-author: Rick Steves
-
-isbn: 1562614630
-
-subject: travel
-
-**Fodor's Switzerland '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679001514/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 0679001514
-
-subject: travel
-
-**The Wines of the Rhone Valley**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0684800136/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert M. Parker,Designed by Levavi & Levavi ..
-
-isbn: 0684800136
-
-subject: culture
-
-**Culture Shock!:Switzerland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558682481/ref=ase_osingacom?v=glance&s=books)
-
-author: Shirley Eu-Wong
-
-isbn: 1558682481
-
-subject: culture
-
-**Asterix in Switzerland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0917201574/ref=ase_osingacom?v=glance&s=books)
-
-author: Rene de Goscinny
-
-isbn: 0917201574
-
-subject: culture
-
-**Barry:The Bravest Saint Bernard (Step into Reading Books Series: A Step 4 Book)**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679830545/ref=ase_osingacom?v=glance&s=books)
-
-author: Lynn Hall,Antonio Castro (Illustrator)
-
-isbn: 0679830545
-
-subject: history
-
-**The White Spider:The Classic Account of the Ascent of the Eiger**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0874779405/ref=ase_osingacom?v=glance&s=books)
-
-author: Heinrich Harrer,Hugh Merrick (Translator),Kur..
-
-isbn: 0874779405
-
-subject: history
-
-**The Climb up to Hell**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312194501/ref=ase_osingacom?v=glance&s=books)
-
-author: Jack Olsen
-
-isbn: 0312194501
-
-subject: history
+**Rick Steves Switzerland** is updated regularly and remains the most practical English-language guidebook for independent travelers on a moderate budget. Strong on train itineraries and honest about costs.

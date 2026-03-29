@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 39 133 996 (July 1998 est.)
+Spain has a population of around 48 million, making it the fifth-largest country in the EU by population. It is less homogeneous than many outsiders assume.
 
-**Age structure:**
+**Regional identities** are strong and politically charged. Catalans, Basques, and Galicians have their own languages, cultural traditions, and, to varying degrees, aspirations for greater autonomy or independence. Castilian Spanish is the national language, but Catalan is spoken by around 10 million people in Catalonia, Valencia, and the Balearics; Basque (Euskara) by around 750,000 in the Basque Country and Navarre; and Galician by around 2.4 million in the northwest. Using a few words in the regional language is appreciated, not mocked.
 
-*0-14 years:* 15% (male 3 057 919; female 2 879 109)
+**Religion** has historically been Roman Catholic, but Spain is now largely secular in practice. Religious observance has declined sharply since the Franco era, though the Church retains cultural and institutional influence. The festivals of Semana Santa, patron saints' days, and local romerías (pilgrimages) remain important community events regardless of personal belief.
 
-*15-64 years:* 69% (male 13 407 270; female 13 408 685)
+**Social life** is lived in public. The bar is an extension of the living room — Spaniards meet friends for a coffee or a caña (small beer) standing at the counter, often several times a day. Dinner at 10pm is not unusual; nightclubs don't fill until after midnight. This schedule takes adjustment if you're used to northern European rhythms.
 
-*65 years and over:* 16% (male 2 651 149; female 3 729 864) (July 1998 est.)
+**Immigration** has transformed Spain since the 1990s. Significant communities from Morocco, Latin America, Romania, China, and sub-Saharan Africa have settled in the major cities and agricultural regions. Spanish cities are noticeably multicultural in ways that were barely visible a generation ago.
 
-**Population growth rate:** 0.08% (1998 est.)
-
-**Birth rate:** 9.73 births/1 000 population (1998 est.)
-
-**Death rate:** 9.62 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.66 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.07 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.71 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.51 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 77.56 years
-
-*male:* 73.78 years
-
-*female:* 81.59 years (1998 est.)
-
-**Total fertility rate:** 1.21 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Spaniard(s)
-
-*adjective:* Spanish
-
-**Ethnic groups:** composite of Mediterranean and Nordic types
-
-**Religions:** Roman Catholic 99% other 1%
-
-**Languages:** Castilian Spanish 74% Catalan 17% Galician 7% Basque 2%
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 96%
-
-*male:* 98%
-
-*female:* 94% (1986 est.)
+Spaniards are generally warm and helpful to visitors, especially if you make any effort with the language. The stereotype of mañana indifference is mostly wrong — Spanish bureaucracy can be slow, but people are not.

@@ -3,112 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**For Whom the Bell Tolls** — Ernest Hemingway's novel set during the Spanish Civil War remains essential reading for anyone trying to understand the weight of that conflict on the Spanish landscape and psyche.
 
-**Frommer's Spain '99**
+**Homage to Catalonia** — George Orwell's account of fighting in the Spanish Civil War, particularly his time in Barcelona and with the POUM militias. Clear-eyed and deeply personal.
 
+**The Sun Also Rises** — Hemingway again, this time in 1920s Pamplona. The festival of San Fermín is depicted with enough truth that it still feels relevant.
 
+**Iberia: Spanish Travels and Reflections** — James Michener's sprawling 1968 exploration of Spain. Dated in places but still a generous and perceptive introduction to the country's regions and character.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/002862372X/ref=ase_osingacom?v=glance&s=books)
+**Driving Over Lemons** — Chris Stewart's memoir of buying a farm in the Alpujarras mountains of Andalusia. Funny, affectionate, and a good picture of rural Spanish life.
 
-author: Darwin Porter,Danforth Prince
+**South from Granada** — Gerald Brenan's account of living in a remote Andalusian village in the 1920s. One of the best portraits of pre-war rural Spain.
 
-isbn: 002862372X
+**The New Spaniards** — John Hooper's thorough and updated survey of modern Spanish society, politics, and culture. Good background reading before a longer stay.
 
-subject: travel
-
-**Eyewitness Travel Guide:Spain**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0789410680/ref=ase_osingacom?v=glance&s=books)
-
-author: DK Travel Writers,Deni Bown
-
-isbn: 0789410680
-
-subject: travel
-
-**Fodor Spain '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679001441/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 0679001441
-
-subject: travel
-
-**Culture Shock!:Spain**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155868106X/ref=ase_osingacom?v=glance&s=books)
-
-author: Marie Louise Graff
-
-isbn: 155868106X
-
-subject: culture
-
-**Salvador Dali**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810908301/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Descharnes,Salvador Dali (Artist)
-
-isbn: 0810908301
-
-subject: culture
-
-**Hotels of Character and Charm in Spain**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679002103/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 0679002103
-
-subject: culture
-
-**The Sun Also Rises**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0684800713/ref=ase_osingacom?v=glance&s=books)
-
-author: Ernest Hemingway,Designed by Dierdre C. Amtho..
-
-isbn: 0684800713
-
-subject: history
-
-**For Whom the Bell Tolls**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0684803356/ref=ase_osingacom?v=glance&s=books)
-
-author: Ernest Hemingway
-
-isbn: 0684803356
-
-subject: history
-
-**Iberia:Spanish Travels & Reflections**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0449207331/ref=ase_osingacom?v=glance&s=books)
-
-author: James A. Michener,Robert Vavra (Photographer)
-
-isbn: 0449207331
-
-subject: history
+**Carlos Ruiz Zafón's Barcelona quartet** (beginning with *The Shadow of the Wind*) — not travel writing, but Zafón's gothic Barcelona is rendered with enough detail to function as a literary map of the Gothic Quarter.

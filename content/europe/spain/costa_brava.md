@@ -1,5 +1,5 @@
 ---
-title: "COSTA BRAVA"
+title: "Costa Brava"
 type: location
 latitude: 41.703767
 longitude: 2.941594

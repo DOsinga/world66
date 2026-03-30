@@ -1,54 +1,16 @@
 ---
-title: "Budget Travel Ideas in Pakistan"
+title: "Budget Travel Ideas"
 type: section
 ---
 
-Already being a cheap country to
-travel in - according to Western budgets anyway - Pakistan makes for a
-great destination for those spendthrift travelers out there. First of
-all, you can fly there pretty cheaply from within Asia with airlines
-such as Air Blue and Air Arabia and from outside the continent with
-airlines like Emirates and Etihad. Tourist buses and trains within the
-country are also highly efficient and extraordinarily cheap. You get
-the best deals on taxis by negotiating ahead of the actual ride.
+Pakistan is one of the cheapest countries to travel in Asia, by a wide margin. The exchange rate, low local prices, and the absence of mass tourism infrastructure mean that independent travel costs much less here than in neighboring India or Southeast Asia.
 
-**Accommodations**
+**Getting around** is the main daily cost — and it's low. Daewoo Express and similar intercity bus companies charge a few dollars for journeys of several hours. Pakistan Railways offers overnight sleeper berths between major cities for a handful of dollars. Within cities, Careem and Uber are cheap by any standard.
 
-Like many other parts of Asia, you
-can get First World accommodations in Pakistan for Third World prices.
-For only $20 to $25 you can get an air-conditioned ensuite room with such
-amenities as cable TV and WiFi. If you want to spend even less than
-this you can get decent-quality fan rooms that are clean and perfectly
-secure.
+**Eating well on a budget** is easy. Street food in Pakistan is outstanding and costs almost nothing — a full plate of daal, rice, and naan will set you back less than a dollar in most cities. Lahore's food streets, Karachi's street stalls, and the roadside dhabas everywhere are where locals eat. Sit-down restaurants in the old city bazaars of [Lahore](/asia/pakistan/lahore) and [Peshawar](/asia/pakistan/peshawar) serve enormous, high-quality meals for a few dollars.
 
-**Great Attractions for Next to Nothing**
+**Accommodation** ranges from basic guesthouses at a few dollars a night to comfortable air-conditioned rooms with WiFi for $15–25. In the north, cheap guesthouses in [Hunza](/asia/pakistan/hunzavalley), [Gilgit](/asia/pakistan/gilgit), and [Skardu](/asia/pakistan/skardu) cater to trekkers and backpackers.
 
-Once you
-are in Pakistan you can really stretch your currency because most of
-the really interesting attractions are free or incredibly cheap.
-National monuments such as Lahore Mosque are a must and will set you
-back only a little. Also in Lahore you can go to the Lahore Zoo for less
-than $11, a really fun day out for hardly anything at all. Pakistan is
-full of great markets such as Zainab Market in Karachi. There is no law
-to say that you must purchase anything in the market so you can simply
-enjoy yourself looking at the huge range of spices, indigenous
-craftwork, local clothing and precious stones. Pakistan is also one of
-the most naturally picturesque nations in the world so for the basic
-price of a driver or train fare you can venture into the beautiful
-countryside and enjoy the scenery.
+**The main costs** for a budget traveler are transport to the north (flights to Gilgit or Skardu are not cheap, though NATCO buses are) and any organized trekking that requires permits or guides. Most historical sites charge minimal or no entry fees. Taxila, Moenjodaro, and Lahore Fort are all very affordable.
 
-**The Beach is Always Free**
-
-In cities like Karachi you
-can pass the time on some splendid public beaches and, of course, this
-is about the most "budget" thing you can do because it's totally free. So
-you can kick back with a nice picnic, go swimming and get a nice sun
-tan without shelling out a penny. Many travelers' favorite budget
-beach is Hawke's Bay Beach, not far from Karachi. It is a gorgeous
-stretch of white sand featuring immense natural beauty. Activities
-available include fishing, picnicking, swimming and camel and horse
-riding. If you are really lucky you can spot green marine turtles
-laying their eggs, which is an experience that money truly can't buy!
-
-**Contributors**
-February 02, 2010
+Pakistan is not the place to economize on safety. In more remote areas, traveling with a reliable local guide or through an established tour operator adds a modest cost that's worth it.

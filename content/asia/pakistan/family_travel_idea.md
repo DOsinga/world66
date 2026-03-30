@@ -1,55 +1,16 @@
 ---
-title: "Family Travel Ideas in Pakistan"
+title: "Family Travel Ideas"
 type: section
 ---
 
-**Pakistan family travel** has a lot to offer as there are many activities to enjoy in Pakistan. Pakistan has everything from
-beautiful scenery to fascinating historical attractions. With the wide
-range of activities there is something for everyone in your family to
-enjoy.
+Pakistan with children is more practical than you might expect. Pakistanis are extremely fond of children, and a family traveling together will be welcomed warmly almost everywhere.
 
-**Beaches**
+**Islamabad** is the most family-friendly base in Pakistan. The city is relatively clean, green, and organized. Rawal Lake offers boating, fishing, and pleasant walks around its perimeter. The Pakistan Monument and the Lok Virsa Museum give children an accessible introduction to the country's culture without being overwhelming.
 
-Pakistan has an abundance of beautiful beaches. Beach trips are a fun
-family outing and the beaches that are frequented by tourists have
-activities for children. A well known beach is Clifton Beach. This
-beach is located in Karachi which is a cultural and economical center
-in Pakistan. Clifton Beach is a good place to go for a walk and enjoy
-the site of the beautiful ocean. However, it is not a swimming beach.
-There are exciting activities for children including horse riding and
-camel rides. The beach is quite until the afternoon when people visit
-for an evening walk. Refreshments and snacks are on sale in the
-vicinity of the beach. There are many public transport options and
-taxis in this area so getting around is easy. Hawkes Bay is another
-beach that is popular with tourists.
+**Lahore's Mughal sites** work well with older children who can handle a full day of walking. The Lahore Fort has enough scale and visual drama to hold attention. The Lahore Zoo, one of the largest in South Asia, is a lively outing.
 
-**Rawal Lake**
+**The northern valleys** — [Hunza](/asia/pakistan/hunzavalley), [Swat](/asia/pakistan/swat), and the Kaghan Valley — are a good choice in summer when the plains are unbearably hot. The scenery is dramatic, the towns are small and manageable, and there's room to walk and explore without the sensory overload of the cities. Swat in particular is green and relatively accessible.
 
-Rawal Lake is a man-made lake which is situated in Islamabad.
-Surrounding the lake are beautiful gardens that provide the perfect
-spot for a family picnic. There are also paths where you can take a
-walk and enjoy the tranquility of the area. If you walk up to higher
-ground you can see views over the whole lake. The Islamabad Club has
-sporting facilities. Children can enjoy fishing or going on a boat
-trip. Canoes and rowing boats are available for rent. There are also
-facilities for diving and sailing. Animals that can be spotted include
-foxes and porcupines. This is a good place for bird watchers as there
-is a variety of bird species here including species that are unique to
-Pakistan. A suggested activity is to watch the sun set at the park.
-There is a restaurant where you can buy refreshments.
+**Karachi's beaches** at Hawke's Bay and Sandpit are popular with local families, with camel and horse rides available on the beach. Note that swimming conditions vary and strong currents are present — ask locals before getting in the water.
 
-**National Parks**
-
-There are many national parks in Pakistan which offer opportunities to
-view the wildlife that is native to Pakistan. Well known parks include
-Kunjerab, Hingol and Machiara.
-
-**Entertainment**
-
-Water parks offer a day's entertainment. Sozo and Fiesta Water Park are 2 examples. Watching a movie at Karachi Cineplex is another option for a family activity. The
-Arena in Karachi boasts a variety of entertainment to keep children busy for
-hours. You can enjoy a family game of bowling or mini-golf. There are
-also ice skating and rock climbing facilities.
-
-**Contributors**
-February 23, 2010
+Pakistan is a conservative country and family groups are welcomed more easily than solo travelers in some contexts. The downside is that the country requires more preparation than most: healthcare facilities outside major cities are limited, the heat in summer is severe, and some areas carry genuine security risks. Stick to the main tourist circuits and you'll be fine.

@@ -1,6 +1,7 @@
 ---
 title: "Pasticceria Cova"
 type: poi
+category: "Cafe"
 address: "Via Monte Napoleone 8, 20121 Milan"
 opening_hours: "Mon–Sat 08:00–20:00; Sun 10:00–19:00"
 latitude: 45.4690

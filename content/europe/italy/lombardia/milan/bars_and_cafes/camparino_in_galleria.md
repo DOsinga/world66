@@ -1,6 +1,7 @@
 ---
 title: "Camparino in Galleria"
 type: poi
+category: "Bar"
 address: "Piazza del Duomo 21, 20121 Milan"
 opening_hours: "Tue–Sun 08:00–20:00; closed Mon"
 latitude: 45.4654

@@ -1,6 +1,7 @@
 ---
 title: "La Casa del Caffè Tazza d'Oro"
 type: poi
+category: "Cafe"
 address: "Via degli Orfani 84, 00186 Rome"
 opening_hours: "Mon–Sat 07:00–20:00; Sun 10:30–19:30"
 latitude: 41.8990

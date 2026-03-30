@@ -1,6 +1,7 @@
 ---
 title: "Bar Luce"
 type: poi
+category: "Cafe"
 address: "Largo Isarco 2, 20139 Milan (inside Fondazione Prada)"
 opening_hours: "Mon, Wed–Fri 09:00–21:00; Sat–Sun 09:00–21:00; closed Tue"
 latitude: 45.4396

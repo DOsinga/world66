@@ -1,6 +1,7 @@
 ---
 title: "Sant'Eustachio il Caffè"
 type: poi
+category: "Cafe"
 address: "Piazza di Sant'Eustachio 82, 00186 Rome"
 opening_hours: "Daily 07:30–01:00"
 latitude: 41.8985

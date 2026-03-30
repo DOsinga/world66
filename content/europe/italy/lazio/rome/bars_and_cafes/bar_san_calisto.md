@@ -1,6 +1,7 @@
 ---
 title: "Bar San Calisto"
 type: poi
+category: "Bar"
 address: "Piazza di San Calisto 3, 00153 Rome"
 opening_hours: "Mon–Sat 06:00–02:00; closed Sun"
 latitude: 41.8896

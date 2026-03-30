@@ -1,6 +1,7 @@
 ---
 title: "Bar Basso"
 type: poi
+category: "Cocktail Bar"
 address: "Via Plinio 39, 20129 Milan"
 opening_hours: "Wed–Mon 09:00–01:30; closed Tue"
 latitude: 45.4756

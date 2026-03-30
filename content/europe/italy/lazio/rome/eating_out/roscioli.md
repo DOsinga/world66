@@ -1,6 +1,7 @@
 ---
 title: "Roscioli Salumeria con Cucina"
 type: poi
+category: "Deli"
 address: "Via dei Giubbonari 21, 00186 Rome"
 url: "www.salumeriaroscioli.com"
 opening_hours: "Mon–Sat 12:30–16:00, 19:30–midnight; closed Sun"

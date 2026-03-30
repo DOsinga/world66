@@ -1,6 +1,7 @@
 ---
 title: "Cantine Isola"
 type: poi
+category: "Wine Bar"
 address: "Via Paolo Sarpi 30, 20154 Milan"
 opening_hours: "Mon–Sat 09:00–14:00, 17:00–21:00; closed Sun"
 latitude: 45.4801

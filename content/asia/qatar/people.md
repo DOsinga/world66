@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 697 126 (July 1998 est.)
+Qatar has a total population of around 3.1 million, but only about 360,000 of those are Qatari nationals — roughly 12% of the country's own population. This is one of the most extreme citizen-to-expat ratios in the world, a product of the sudden oil and gas wealth of the 1970s that required importing labor on a vast scale.
 
-*note:* includes 516 508 non-nationals (July 1997 est.)
+The largest expat groups are from South Asia. Indians make up the single largest community (around 700,000), followed by Bangladeshis, Nepalis, Pakistanis, and Filipinos. Egyptians, Jordanians, and other Arab nationals make up a significant portion of the white-collar workforce. Western expats — Europeans, Americans, Australians — are a smaller but visible presence, concentrated in finance, energy, education, and media.
 
-**Age structure:**
+This demographic imbalance shapes everything about life here. The 76% male majority reflects the preponderance of male labor migrants in construction, oil, and services. The situation for migrant workers has drawn significant international scrutiny, particularly in the lead-up to the 2022 World Cup, when reporting on the kafala sponsorship system — which ties workers to their employers — exposed serious abuses. Qatar has made some reforms to the system, including abolishing exit visa requirements and introducing minimum wage legislation, though human rights organizations say enforcement remains inconsistent.
 
-*0-14 years:* 27% (male 97 317; female 93 532)
+Qatari nationals tend to be relatively conservative and private. The culture is rooted in Bedouin traditions of hospitality and honor. If you are invited into a Qatari home or a traditional gathering, you will be treated with great generosity. In public, most Qatari men wear the thobe (white robe) and ghutra (headscarf); Qatari women typically wear the abaya and often a niqab. Not all nationals dress this way, but it remains the dominant public presentation.
 
-*15-64 years:* 71% (male 353 700; female 138 564)
-
-*65 years and over:* 2% (male 9 731; female 4 282) (July 1998 est.)
-
-**Population growth rate:** 3.82% (1998 est.)
-
-**Birth rate:** 16.97 births/1 000 population (1998 est.)
-
-**Death rate:** 3.53 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 24.76 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 2.55 male(s)/female
-
-*65 years and over:* 2.27 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 18.09 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 73.89 years
-
-*male:* 71.38 years
-
-*female:* 76.54 years (1998 est.)
-
-**Total fertility rate:** 3.5 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Qatari(s)
-
-*adjective:* Qatari
-
-**Ethnic groups:** Arab 40% Pakistani 18% Indian 18% Iranian 10% other 14%
-
-**Religions:** Muslim 95%
-
-**Languages:** Arabic (official) English commonly used as a second language
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 79.4%
-
-*male:* 79.2%
-
-*female:* 79.9% (1995 est.)
+Arabic is the native language; Islam (predominantly Sunni) is the state religion and shapes the legal code and social expectations. Friday is the holy day; the working week runs Sunday to Thursday for most government and private sector offices.

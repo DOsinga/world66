@@ -1,35 +1,16 @@
 ---
 title: "National Parks"
-type: location
-latitude: 18.74993
-longitude: 98.915446
+type: section
 ---
 
-There are number of interesting and beautiful national parks in Thailand. If you want to find more information about them you can contact the National Park Division of the Royal Forestry Department at Phahonyothin Road, Bang Khen in Bangkok. Phone is +66-5614292-3, Extension is 724 or 725.
+Some 14 percent of Thailand's land area has been set aside for environmental protection — 79 national parks, 89 wildlife sanctuaries, and 35 forest reserves. The quality and accessibility varies considerably.
 
-Some 14 percent of Thailand's land area has been set aside for environmental protection. In total, there are now 79 national parks, 89 wildlife and non-hunting sanctuaries, and 35 forest reserves. 
- 
- 
- 
- 
- 
- 
- 
+**Khao Yai National Park** is Thailand's oldest and most visited, spanning four provinces northeast of Bangkok. This 2,000-square-kilometre forest contains elephants, tigers, gibbons, and over 320 bird species. It's a UNESCO World Heritage site. The park has over 50km of hiking trails, though it's easy to get lost — hiring a guide is recommended. The park is straightforward to reach from Bangkok as a day trip or overnight.
 
-**Points of Interest**
+**Doi Inthanon National Park**, near [Chiang Mai](/asia/thailand/chiangmai), sits on Thailand's highest peak (2,565m). Home to nearly 400 bird species, it's a favourite of birdwatchers, and the slopes support orchids, lichens, and mosses unusual in tropical Asia. The cooler temperatures are welcome after the heat of the plains.
 
-**Kao Laem Ya **
+**Khao Sok National Park** in the south protects ancient rainforest — older than the Amazon — and the spectacular Cheow Lan Lake, a reservoir surrounded by sheer limestone karst cliffs. Floating bungalow accommodation on the lake is one of the most unusual places to stay in Thailand.
 
-This marine national park is the nearest park from Bangkok. It is located at [Ko Samet](/asia/thailand/kosamet).
+**Ko Tarutao National Marine Park** in the far south is one of the most pristine marine reserves in the region — remote, with basic facilities, and worth the effort if you're interested in quiet beaches and clear water.
 
-**Doi Inthanon National Park**
-
-The park is located near the northern city of [Chiang mai](/asia/thailand/chiangmai). At 2,565 metres, the park is the kingdom's highest peak and its 482 sq km area forms one of the best mountain national parks in Thailand. Home to nearly 400 bird species and hailed as the Mecca of Thailand's bird watchers, the Inthanon mountain range is also a sanctuary for such threatened animals as the Asiatic black bear and the leaf monkey. Luxuriant flora such as orchids, lichens and mosses flourishes on its slopes.
- [more..](/asia/thailand/nationalparks/doiinthanonnationalpark)
-
-**{Khao Yai National Park}**
-
-Khao Yai is Thailand's oldest and most revered national park. Spanning four provinces, this 2,000-square-kilometer biological wonderland contains more than 70 mammal species, including tigers and elephants, as well as 320 varieties of birds. It has been declared an ASEAN National heritage site and probably it will be by the United Nations soon, too.
- Like most of Asia's wildlife sanctuaries, Khao Yai has been long under threat from poachers who are stripping the forest of its plant and animal wealth. In March 2000 the government launched the so-called Khao Yai Conservation Project, so hopefully future generations are able to visit this outstanding piece of nature. The park has over 50 km hiking trails, many of them formed by wildlife movement. Elevations range from 100 to 1400 metres. It is easy to get lost so it's recommended to hire a guide. Trips to the park can be arranged easily from Bangkok. 
- 
- [more..](/asia/thailand/nationalparks/khaoyainationalpark)
+**Kaeng Krachan National Park**, southwest of Bangkok, is Thailand's largest national park and a good destination for wildlife and birdwatching, particularly in the cool season.

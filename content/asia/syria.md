@@ -5,25 +5,26 @@ latitude: 34.640186
 longitude: 39.049411
 ---
 
-Syria is one of the most beautiful destinations in the world and still relatively undiscovered by mass tourism. Landscape ranges from forests in the northwest to beaches on Syria's Mediterranean coast. Syria is often called "The cradle of civilizations" because there is no civilization in the east or west throughout the world history that didn't pass through Syria to leave a mark, but also to be deeply affected by Syria's long history.
- 
+Syria is one of the most historically rich countries on earth, and also one of the most difficult to visit right now. The civil war that began in 2011 ended in December 2024 when Bashar al-Assad's regime collapsed and he fled to Russia. A transitional government under Ahmed al-Sharaa took power in early 2025. The country is reopening, cautiously, to the outside world.
 
-It was here the first alphabets were invented that Greek and Roman culture helped to conquer over the world. It was here that civilization began over ten thousand years ago at Mereibet, Jeyround and Yabroud.
- 
+Most Western governments still advise against all travel to Syria, and their advice is worth taking seriously. Armed factions remain active outside the main cities, Israeli airstrikes continue, and the situation can change with little warning. That said, some travelers and tour operators have returned, and in the relatively stable areas — [Damascus](/asia/syria/damascus), [Aleppo](/asia/syria/aleppo), the coast — conditions are calmer than at any point in the last fourteen years.
 
-Due to its unique position at the point three continents meet each other Syria has been the focal point of ancient civilization. It was the crossroad between the Caspian Sea, the Indian Ocean, the Black Sea, and the Nile River. For thousands of years Syria controlled the silk route which led from China to Doura Europos (Salhiyeh), from Palmyra and Homs to the Syrian ports on Mediterranean, where Syrian seafarers had ridden the wave in their enormous fleets with their famous white sails. Up to this day silk is an important industry in Syria. In [Damascus](/asia/syria/damascus), [Hama](/asia/syria/hama) and [Aleppo](/asia/syria/aleppo) the silk weavers still work at the same sort of wooden handlooms their ancestors used in Ebla four thousand years ago.
- 
+If you go, understand what you're walking into. This is not a country where things are back to normal. It is a country in the early stages of reconstruction, with extraordinary things to see and genuinely warm people, and real risk.
 
-If you are interested in history and historical monuments, you cannot miss Syria. The country is literary packed with the ruins and monuments of almost all civilizations that passed through here. Today these ancient sites are still the most visited attractions. 
- 
+## The country
 
-There’s Qalaat Samaan were St Simeon sat on his 15 meter tall pillar for 36 years and preached to thousands of pilgrims that cam to visit this most holy man in the early middle ages.
- 
+Syria sits at the eastern end of the Mediterranean, wedged between Turkey, Iraq, Jordan, Lebanon, and Israel. The landscape moves from a narrow fertile coast, through the Anti-Lebanon and Alawi mountains, down onto the vast Syrian plateau and desert. The Euphrates cuts through the northeast. In the south, the black basalt hills of the Hauran give way to the Golan.
 
-There’s [Palmyra](/asia/syria/palmyra), the ancient caravans stop between the Mediterranean world and the empires of the East - Mesopotamia, Persia and [India](/asia/india). In the days of desert queen Zenobia it really was a cosmopolitan city, were east met west and exchanged exotics. It was here the gigantic temple of Baal rose up in the heart of the city. Now it’s a city in ruins, best known for the “Valley of Tombs”.
- 
+Historically this is some of the most contested ground on earth. Phoenicians, Assyrians, Persians, Greeks, Romans, Byzantines, Arabs, Crusaders, Mongols, Ottomans, and French have all left their mark. The Silk Road passed through here. The first alphabet was invented here. [Damascus](/asia/syria/damascus) is among the oldest continuously inhabited cities in the world, and [Aleppo](/asia/syria/aleppo) is not far behind.
 
-In the North you will find the big crusaders' castle Le Crac des Chevaliers and the cities of [Aleppo](/asia/syria/aleppo) and [Hama](/asia/syria/hama). And, adjacent to the Turkish border close to Hatay, there’s the ruins of the “Dead Cities” Al Bara, Serdjilla, Qalbe Lbrse and Qirbirze. Piles of rock that were once houses palaces and churches lay abandoned on the vast desolated plains of the Idleb Province.
- 
+The population is mostly Arab, with significant Kurdish, Armenian, Assyrian, Circassian, and Druze communities. The religious mix — Sunni, Alawi, Christian, Druze, Ismaili — shaped both the country's culture and the course of its war. Syrians are, almost universally, hospitable to foreign visitors in a way that can catch you off guard after the weight of the news.
 
-All these things and the very pleasant population make a trip to Syria an unforgettable one.
+## Destinations
+
+- [Damascus](/asia/syria/damascus) — the capital; the old city, the Umayyad Mosque, and the souks survived the war largely intact
+- [Aleppo](/asia/syria/aleppo) — Syria's second city, badly damaged but partially recovered; the old city and citadel are being restored
+- [Palmyra](/asia/syria/palmyra) — the Roman and pre-Roman ruins in the desert, heavily damaged by ISIS but still magnificent
+- [Hama](/asia/syria/hama) — famous for its ancient waterwheels; an attractive stop on the Damascus–Aleppo road
+- [Latakia](/asia/syria/latakia) — Syria's main port, gateway to the Mediterranean coast
+- [Arwad Island](/asia/syria/arwadisland) — a small island off the coast with a Phoenician and Crusader-era castle
+- [Zabadani](/asia/syria/zabadani) — a mountain resort in the Anti-Lebanon, northwest of Damascus

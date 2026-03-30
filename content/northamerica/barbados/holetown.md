@@ -1,4 +1,0 @@
----
-title: "Holetown"
-type: location
----

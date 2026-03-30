@@ -1,18 +1,12 @@
 ---
-title: "Getting Around in Vatican City"
+title: "Getting Around"
 type: section
 ---
 
-**Enjoy The Vatican City on Your Feet
+Vatican City is tiny — about 44 hectares — and you navigate it entirely on foot. There is no public transport within the walls. The main visitor circuit from St. Peter's Square to the Vatican Museums entrance takes about 15 minutes to walk.
 
-**Tourists don&rsquo;t really need to worry about **Vatican City transportation**, as there is only one way to navigate this area, and that is on foot. The Vatican City measures approximately 100 acres within the walls, so tourists, both young and old, can easily travel around on foot. Many places around the Vatican City are closed for tourists. The Vatican museum and St Peter Basilica are some of the few places tourists have access to inside Vatican City.
+The Vatican offers two types of guided tours: religious and history-focused tours covering sacred sites, and architectural tours taking in the museums, sculpture, and gardens. Official Vatican tours can be booked online through the Vatican Museums website; some include areas not open to independent visitors.
 
-**Get Around with Tours
+For the Vatican Gardens, access is by guided tour only. Tours run most mornings and can be booked alongside museum tickets. If you want to see the gardens, book separately — they are not included in standard museum admission.
 
-**Though it measures less than half a Square kilometer, the Vatican City boasts of numerous sights that can take visitors days to see completely. If you are here on a short trip, it is best to hire a tour of the place so that you don&rsquo;t miss out on attractions that are interesting to you. There are mainly two kinds of tours to choose from. These include religious and architectural history tours. The former takes you to important religious sights like the Basilica and churches, while the latter shows you the many museums, statues and fountains in the Vatican. Depending on your preferences, you can select the appropriate tour for you.
-
-**Fast and Convenient
-
-**One of the best reasons to take these tours is that you will be treated to some of the most beautiful and important attractions in the Vatican City without wasting your time. This is especially helpful if you are not visiting for long. Another reason to take these tours is that you don&rsquo;t have to worry about going around in circles and visiting the same places over and over again.
-
-An important tip for tourists visiting the Vatican City—wear comfortable shoes, as you will have to do a lot of walking. This is essential if you are visiting Mount Mario, as it&rsquo;s a long climb to the top.
+Wear comfortable shoes. The Vatican Museums involve several kilometres of walking on marble and stone floors, and if you're combining them with St. Peter's Basilica and the dome climb, you'll be on your feet for most of the day.

@@ -3,66 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 11 044 147 (July 1998 est.)
+Zimbabwe's population of around 16 million is dominated by two main ethnic groups. The Shona, who make up roughly 70% of the population, live primarily in the northern and eastern parts of the country. The Ndebele, about 20%, are concentrated in the southwest around [Bulawayo](/africa/zimbabwe/bulawayo). Smaller groups include the Tonga along [Lake Kariba](/africa/zimbabwe/lakekariba) and the Shangaan in the southeast. English is the official language, but Shona and Ndebele are the languages of daily life. Most Zimbabweans speak at least two languages, and English is widely understood in towns and cities.
 
-**Age structure:**
+Zimbabweans are famous across southern Africa for their warmth and courtesy. The concept of *ubuntu* — roughly, "I am because we are" — runs deep. Greetings matter enormously. A simple "Mangwanani" (good morning in Shona) or "Salibonani" (hello in Ndebele) will be met with genuine delight. People take time to ask after your family and your journey before getting to business. Handshakes are common, often with the left hand supporting the right forearm as a sign of respect.
 
-*0-14 years:* 44% (male 2 439 907; female 2 397 761)
+Zimbabwe has produced some of Africa's most celebrated musicians. Thomas Mapfumo pioneered chimurenga music, blending traditional mbira melodies with electric guitar to create a sound that became the voice of the independence struggle. Oliver Mtukudzi, beloved as "Tuku," fused Shona traditions with jazz and Afrobeat until his death in 2019 — his legacy lives on in every minibus and bar across the country. The mbira (thumb piano) remains central to Shona spiritual practice, and you may encounter *bira* ceremonies where musicians play through the night to communicate with ancestral spirits.
 
-*15-64 years:* 54% (male 2 914 336; female 3 000 442)
-
-*65 years and over:* 2% (male 133 232; female 158 469) (July 1998 est.)
-
-**Population growth rate:** 1.12% (1998 est.)
-
-**Birth rate:** 31.32 births/1 000 population (1998 est.)
-
-**Death rate:** 20.09 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** NA migrant(s)/1 000 population
-
-*note:* there is a small but steady flow of Zimbabweans into South Africa in search of better paid employment
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.01 male(s)/female
-
-*15-64 years:* 0.97 male(s)/female
-
-*65 years and over:* 0.84 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 61.75 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 39.16 years
-
-*male:* 39.12 years
-
-*female:* 39.19 years (1998 est.)
-
-**Total fertility rate:** 3.86 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Zimbabwean(s)
-
-*adjective:* Zimbabwean
-
-**Ethnic groups:** African 98% (Shona 71% Ndebele 16% other 11%) white 1% mixed and Asian 1%
-
-**Religions:** syncretic (part Christian part indigenous beliefs) 50% Christian 25% indigenous beliefs 24% Muslim and other 1%
-
-**Languages:** English (official) Shona Sindebele (the language of the Ndebele sometimes called Ndebele) numerous but minor tribal dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write in English
-
-*total population:* 85%
-
-*male:* 90%
-
-*female:* 80% (1995 est.)
+The country also has a remarkable tradition of stone sculpture. Since the 1950s, Shona sculptors have carved serpentine, springstone and opal into works that have found their way into galleries worldwide. The best collections are at Chapungu Sculpture Park near [Harare](/africa/zimbabwe/harare) and the National Gallery in Bulawayo. Zimbabwe's literacy rate, long among the highest in Africa, reflects a deep cultural value placed on education — something that has survived even the worst economic years.

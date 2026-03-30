@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 22 167 195 (July 1998 est.)
+Uganda is one of the most ethnically diverse countries in Africa, with over 50 distinct groups. The largest is the Baganda, who dominate the central region around [Kampala](/africa/uganda/kampala) and whose traditional kingdom, Buganda, predates colonialism. The Baganda have their own king (the Kabaka), their own parliament, and a strong cultural identity that you will notice immediately in the capital. Other major groups include the Banyankole in the west, the Basoga in the east, the Iteso and Langi in the north, and the Karamojong -- semi-nomadic pastoralists in the remote northeast who have maintained a remarkably traditional way of life.
 
-**Age structure:**
+English is the official language and you will get by with it everywhere. Luganda is the most widely spoken local language, and you will hear it constantly in [Kampala](/africa/uganda/kampala). Learning a few words goes a long way -- "oli otya" (how are you?) and "webale" (thank you) will earn you smiles. Swahili is spoken in some border areas and is gaining ground as a regional lingua franca.
 
-*0-14 years:* 51% (male 5 682 510; female 5 643 962)
+Ugandans are deeply religious. Christianity dominates, roughly split between Catholics and Protestants, with a significant Muslim minority concentrated in the east and in Kampala's old town. Religion matters in daily life -- expect Sunday services to be packed and conversations to reference God regularly. Traditional beliefs also persist alongside the major religions, especially in rural areas.
 
-*15-64 years:* 47% (male 5 157 818; female 5 199 080)
+What travelers notice most is how friendly and curious people are. You will be greeted constantly, children will shout "mzungu!" (white person) and wave, and strangers will go out of their way to help you find your way. Ugandans are direct and hospitable. Handshakes are important -- use your right hand, and take your time with greetings before getting to business. Dress is generally conservative, especially outside Kampala. Shorts on men and revealing clothing on women will attract stares in rural areas.
 
-*65 years and over:* 2% (male 236 374; female 247 451) (July 1998 est.)
-
-**Population growth rate:** 2.85% (1998 est.)
-
-**Birth rate:** 49.21 births/1 000 population (1998 est.)
-
-**Death rate:** 18.95 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.8 migrant(s)/1 000 population (1998 est.)
-
-*note:* Uganda is host to refugees from a number of neighboring countries including: Sudan 175 000 Rwanda possibly 10 000 and Democratic Republic of the Congo about 5 000
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.95 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 92.86 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 42.6 years
-
-*male:* 41.81 years
-
-*female:* 43.41 years (1998 est.)
-
-**Total fertility rate:** 7.09 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Ugandan(s)
-
-*adjective:* Ugandan
-
-**Ethnic groups:** Baganda 17% Karamojong 12% Basogo 8% Iteso 8% Langi 6% Rwanda 6% Bagisu 5% Acholi 4% Lugbara 4% Bunyoro 3% Batobo 3% non-African (European Asian Arab) 1% other 23%
-
-**Religions:** Roman Catholic 33% Protestant 33% Muslim 16% indigenous beliefs 18%
-
-**Languages:** English (official national language taught in grade schools used in courts of law and by most newspapers and some radio broadcasts) Ganda or Luganda (most widely used of the Niger-Congo languages preferred for native language publications and may be taught in school) other Niger-Congo languages Nilo-Saharan languages Swahili Arabic
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 61.8%
-
-*male:* 73.7%
-
-*female:* 50.2% (1995 est.)
+Uganda has one of the youngest populations in the world. The energy is palpable, especially in [Kampala](/africa/uganda/kampala), where the average age feels like it might be about twenty-five. This youthful energy drives the country's music scene, its tech startups, and its increasingly confident cultural identity.

@@ -3,78 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Tunisia is well served by good writing -- history, fiction and travel. Here are some worth reading before you go.
 
-**Let's Go Italy '99**
+**Carthage Must Be Destroyed** by Richard Miles is the definitive English-language account of Carthage from its Phoenician founding to its annihilation by Rome in 146 BC. Readable and well-researched, it makes the ruins at [Carthage](/africa/tunisia/carthage) and the Bardo Museum dramatically more vivid.
 
+**The Pillar of Salt** by Albert Memmi (1953) is an autobiographical novel by a Tunisian Jewish author who grew up in Tunis. It deals with the impossible position of someone who is neither fully accepted as Arab nor fully European, and it remains one of the most honest accounts of colonial Tunisia.
 
+**The Tremor of Forgery** by Patricia Highsmith was written while Highsmith was living in Tunisia and is set almost entirely there. Graham Greene called it her finest novel. The atmosphere of expatriate dislocation and Tunisian heat is rendered with characteristic precision.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312194889/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0864425120/ref=ase_osingacom?v=glance&s=books)
-
-author: David Willett
-
-isbn: 0864425120
-
-subject: travel
-
-**The Rough Guide to Tunisia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858283361/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Morris,Daniel Jacobs
-
-isbn: 1858283361
-
-subject: travel
-
-**A Night in Tunisia:Imaginings of Africa in Jazz**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0879101679/ref=ase_osingacom?v=glance&s=books)
-
-author: Norman C. Weinstein
-
-isbn: 0879101679
-
-subject: culture
-
-**Hannibal**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0880296674/ref=ase_osingacom?v=glance&s=books)
-
-author: Ernle Bradford
-
-isbn: 0880296674
-
-subject: history
-
-**Hannibal :Enemy of Rome**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0306804980/ref=ase_osingacom?v=glance&s=books)
-
-author: Leonard Cottrell
-
-isbn: 0306804980
-
-subject: history
-
-**Perpetua's Passion:The Death and Memory of a Young Roman Woman**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0415918375/ref=ase_osingacom?v=glance&s=books)
-
-author: Joyce E. Salisbury
-
-isbn: 0415918375
-
-subject: history
+**A Night in Tunisia** by Norman C. Weinstein explores the unlikely but real connections between the country and jazz -- from Dizzy Gillespie's famous tune to the broader influence of North African music on American jazz.

@@ -1,6 +1,7 @@
 ---
 title: "Galleria Borghese"
 type: poi
+category: "Museum"
 address: "Piazzale Scipione Borghese 5, 00197 Rome"
 url: "www.galleriaborghese.it"
 opening_hours: "Tue–Sun 09:00–19:00; closed Mon"

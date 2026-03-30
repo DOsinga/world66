@@ -1,6 +1,7 @@
 ---
 title: "Trastevere"
 type: poi
+category: "Neighbourhood"
 admission: "Free"
 latitude: 41.8893
 longitude: 12.4703

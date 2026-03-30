@@ -1,6 +1,7 @@
 ---
 title: "Roman Forum"
 type: poi
+category: "Sight"
 address: "Via della Salara Vecchia 5/6, 00186 Rome"
 opening_hours: "Daily from 09:00; closing varies by season"
 admission: "Included in combined Colosseum ticket"

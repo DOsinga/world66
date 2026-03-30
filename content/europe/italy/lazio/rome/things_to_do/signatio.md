@@ -1,6 +1,7 @@
 ---
 title: "Sant'Ignazio"
 type: poi
+category: "Sight"
 address: "Piazza di Sant'Ignazio, 00186 Rome"
 opening_hours: "Daily 07:30–19:00"
 admission: "Free"

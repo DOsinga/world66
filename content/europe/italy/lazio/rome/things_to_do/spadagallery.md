@@ -1,6 +1,7 @@
 ---
 title: "Galleria Spada"
 type: poi
+category: "Museum"
 address: "Piazza Capodiferro 13, 00186 Rome"
 opening_hours: "Tue–Sun 08:30–19:30; closed Mon"
 admission: "€5"

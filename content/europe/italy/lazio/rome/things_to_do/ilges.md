@@ -1,6 +1,7 @@
 ---
 title: "Il Gesù"
 type: poi
+category: "Sight"
 address: "Piazza del Gesù, 00186 Rome"
 opening_hours: "Daily 07:00–12:30, 16:00–19:45"
 admission: "Free"

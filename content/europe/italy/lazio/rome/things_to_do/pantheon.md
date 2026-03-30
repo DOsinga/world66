@@ -1,6 +1,7 @@
 ---
 title: "Pantheon"
 type: poi
+category: "Sight"
 address: "Piazza della Rotonda, 00186 Rome"
 url: "www.pantheonroma.com"
 opening_hours: "Mon–Sat 09:00–19:00; Sun 09:00–18:00; closed public holidays"

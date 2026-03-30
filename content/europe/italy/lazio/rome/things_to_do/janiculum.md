@@ -1,6 +1,7 @@
 ---
 title: "Janiculum Hill"
 type: poi
+category: "Sight"
 address: "Piazzale Giuseppe Garibaldi, 00152 Rome"
 admission: "Free"
 latitude: 41.8924

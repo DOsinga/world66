@@ -1,6 +1,7 @@
 ---
 title: "Piazza Venezia"
 type: poi
+category: "Sight"
 type: "Hotspots"
 latitude: 41.8963
 longitude: 12.482347

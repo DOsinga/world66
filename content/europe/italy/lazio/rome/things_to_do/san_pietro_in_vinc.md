@@ -1,6 +1,7 @@
 ---
 title: "San Pietro in Vincoli"
 type: poi
+category: "Sight"
 address: "Piazza di San Pietro in Vincoli 4a, 00184 Rome"
 opening_hours: "Daily 08:00–12:30, 15:00–19:00"
 admission: "Free"

@@ -1,6 +1,7 @@
 ---
 title: "Capitoline Museums"
 type: poi
+category: "Museum"
 address: "Piazza del Campidoglio 1, 00186 Rome"
 url: "www.museicapitolini.org"
 opening_hours: "Daily 09:30–19:30"

@@ -1,6 +1,7 @@
 ---
 title: "St. Peter's Basilica & Vatican"
 type: poi
+category: "Sight"
 address: "Piazza San Pietro, 00120 Vatican City"
 url: "www.vatican.va"
 opening_hours: "Basilica daily 07:00–19:00; dome 08:00–18:00 (17:00 in winter); Vatican Museums Tue–Sun 09:00–18:00"

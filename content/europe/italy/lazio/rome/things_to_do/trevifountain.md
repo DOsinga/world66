@@ -1,6 +1,7 @@
 ---
 title: "Trevi Fountain"
 type: poi
+category: "Sight"
 address: "Piazza di Trevi, 00187 Rome"
 admission: "Free"
 latitude: 41.9009

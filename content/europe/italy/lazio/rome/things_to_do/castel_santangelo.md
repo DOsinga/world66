@@ -1,6 +1,7 @@
 ---
 title: "Castel Sant'Angelo"
 type: poi
+category: "Sight"
 address: "Lungotevere Castello 50, 00193 Rome"
 url: "www.castelsantangelo.beniculturali.it"
 opening_hours: "Tue–Sun 09:00–19:30; closed Mon"

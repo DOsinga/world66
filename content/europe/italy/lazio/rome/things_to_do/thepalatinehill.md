@@ -1,6 +1,7 @@
 ---
 title: "Palatine Hill"
 type: poi
+category: "Sight"
 address: "Via Sacra, 00186 Rome"
 opening_hours: "Daily from 09:00; closing varies by season (17:00–19:30)"
 admission: "Included in Colosseum combined ticket"

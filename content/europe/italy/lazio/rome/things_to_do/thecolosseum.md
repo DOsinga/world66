@@ -1,6 +1,7 @@
 ---
 title: "Colosseum"
 type: poi
+category: "Sight"
 address: "Piazza del Colosseo 1, 00184 Rome"
 url: "www.colosseo.it"
 opening_hours: "Daily from 09:00; closing varies by season (17:00–19:30)"

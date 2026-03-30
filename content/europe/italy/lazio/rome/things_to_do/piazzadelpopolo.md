@@ -1,6 +1,7 @@
 ---
 title: "Piazza del Popolo"
 type: poi
+category: "Sight"
 latitude: 41.910748
 longitude: 12.476361
 ---

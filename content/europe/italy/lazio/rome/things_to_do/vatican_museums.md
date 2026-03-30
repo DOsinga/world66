@@ -1,6 +1,7 @@
 ---
 title: "Vatican Museums & Sistine Chapel"
 type: poi
+category: "Museum"
 address: "Viale Vaticano, 00165 Rome"
 url: "www.museivaticani.va"
 opening_hours: "Mon–Sat 09:00–18:00 (last entry 16:00); closed Sun except last Sunday of month"

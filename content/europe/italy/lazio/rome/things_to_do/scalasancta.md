@@ -1,6 +1,7 @@
 ---
 title: "Scala Sancta"
 type: poi
+category: "Sight"
 address: "Piazza di San Giovanni in Laterano 14, 00184 Rome"
 opening_hours: "Daily 06:00–13:30, 15:00–18:30"
 admission: "Free"

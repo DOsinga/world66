@@ -1,6 +1,7 @@
 ---
 title: "Bernini's Elephant & Obelisk"
 type: poi
+category: "Sight"
 address: "Piazza della Minerva, 00186 Rome"
 admission: "Free"
 latitude: 41.8979

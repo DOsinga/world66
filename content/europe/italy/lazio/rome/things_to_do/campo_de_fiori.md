@@ -1,6 +1,7 @@
 ---
 title: "Campo de' Fiori"
 type: poi
+category: "Sight"
 address: "Campo de' Fiori, 00186 Rome"
 admission: "Free"
 latitude: 41.8955

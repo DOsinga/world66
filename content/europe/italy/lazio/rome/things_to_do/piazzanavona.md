@@ -1,6 +1,7 @@
 ---
 title: "Piazza Navona"
 type: poi
+category: "Sight"
 admission: "Free"
 latitude: 41.8989
 longitude: 12.4730

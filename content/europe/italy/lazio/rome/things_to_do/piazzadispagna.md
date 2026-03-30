@@ -1,6 +1,7 @@
 ---
 title: "Spanish Steps"
 type: poi
+category: "Sight"
 address: "Piazza di Spagna, 00187 Rome"
 admission: "Free"
 latitude: 41.9060

@@ -1,59 +1,26 @@
 ---
-title: "Day Trips in Banjul"
+title: "Day Trips"
 type: section
 ---
 
-Banjul doesn’t have a very distinct appeal or an instantly evocative
-character. However, its accessibility to coastal resorts and tropical
-forest getaways make it a strategic starting point to take some amazing day trips.
+[Banjul](/africa/gambia/banjul) itself is small and can be seen in half a day, but it makes a useful starting point for excursions along the coast and upriver.
 
-**Bakau, Fajara Kotu and Kololi**
+**Bakau, Fajara, Kotu and Kololi**
 
-Located at a distance of approximately 30 kilometers from Banjul are
-the beautiful, albeit crowded beach resorts Bakau, Fajara, Kotu and
-Kololi. The pristine coastal getaways boast lovely sun-kissed
-weather all year round and are ideal for swimming and sunbathing. Book
-a tourist taxi to take you these idyllic hotspots, or, for a more jagged
-experience, move in a minibus with the locals. You can inquire about
-the bus route beforehand and wave your palms in the air to stop the
-vehicle once you spot it. The public transport will whisk you to the
-nearest spot from where you can mosey up the resorts and discover the
-rugged charm and chaste air of the region. Make sure to take plenty of
-water and some food as well since the beach side stalls and hawkers
-don’t exactly offer the most hygienic cuisine.
+The main beach resort strip runs about 30 kilometres south of Banjul along the Atlantic coast. [Bakau](/africa/gambia/bakau) has the crocodile pool and the fish market, Fajara has upmarket restaurants and a golf course, Kotu has a quieter beach and excellent birdwatching along Kotu Stream, and Kololi has the liveliest bar and restaurant scene. Yellow town taxis or minibuses will get you there cheaply. Tourist taxis are also available for a fixed fare.
 
-**Dakar **
+**Juffure and Kunta Kinteh Island**
 
-Located at a distance of approximately 187 kilometers from Banjul,
-Dakar in Senegal is a good day trip option for its old ‘Arabian Nights
-style’ markets, imposing mosques, clean beaches, adroitly built
-Cathedrals, sprawling parks and most importantly a marked west African
-character and highly conspicuous native culture. There are other
-heritage sites and historical centers that reverberate with Senegal’s
-erstwhile glory.
+The most popular day trip in The Gambia. Cross the river by ferry to Barra, then travel overland to [Juffure](/africa/gambia/juffure), the village from Alex Haley's *Roots*, and take a boat to the UNESCO-listed Kunta Kinteh Island. Organised river excursions from the coast combine the boat trip, the island, and the village in a full day. The history is powerful and the river scenery is beautiful.
 
-**Jinack Island **
+**Abuko Nature Reserve**
 
-The more daring and action-seeking travelers can explore the Jinack
-Island, which is faction of the castaway and sparsely populated Niumi
-National Park. You can reach this lush reserve with hairpin walking
-trails by crossing to the northern bank of the Gambia River. There are
-a few wild animals and mostly migratory birds that inhabit this
-ecologically diverse park. The place is more for walking and hiking
-enthusiasts than wildlife purists. The experience of walking through a
-dense natural reserve in the surrounding of a vociferous river is wild
-Africa at its best.
+A compact but species-rich reserve about 25 minutes from the coast. Over 270 bird species have been recorded here, plus monkeys, crocodiles, and other wildlife. A local guide at the gate will help you spot birds you would otherwise miss. It is an easy half-day trip.
 
-**Bird watching Getaways**
+**Jinack Island and Niumi National Park**
 
-Banjul has several rich bird watching regions and parks that
-accentuate the tropical ambiance and untamed spirit of Gambia. The best
-places to go bird watching are Abuko, the dramatic Tanbi Wetland region
-and the vast Makasutu Forest. View several species of indigenous
-aerials maneuver through the eclectic topography of the region. Don’t
-forget to take along a camera, since there are plenty of photogenic
-vistas in the wild forests of Gambia.
+For something more adventurous, cross to the north bank and head to Niumi National Park, which includes Jinack Island. The park has mangroves, tidal flats, and good birdwatching. Jinack Island has empty beaches and a castaway feel. Getting there involves a ferry and some rough road, so allow a full day.
 
-Banjul is surrounded by several picturesque coastal resorts,
-wildlife getaways and historical cities that salute and celebrate the
-feral identity of western Africa.
+**Makasutu Culture Forest**
+
+A private reserve on a creek off the Gambia River, offering guided forest walks, river kayaking, and cultural demonstrations. It is well run, scenic, and gives a concentrated experience of Gambian nature and hospitality. Half-day and full-day trips run from the coast.

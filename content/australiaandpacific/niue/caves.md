@@ -1,4 +1,0 @@
----
-title: "Caves"
-type: location
----

@@ -5,33 +5,18 @@ latitude: -35.375509
 longitude: 173.947011
 ---
 
-**Northland** is the northern part of the
-[North Island](/australiaandpacific/newzealand/north_island), north of
-[Auckland](/australiaandpacific/newzealand/auckland).
+**Northland** is the long peninsula stretching north from [Auckland](/australiaandpacific/newzealand/auckland) to Cape Reinga, where the Tasman Sea meets the Pacific Ocean. It's the warmest and most subtropical part of New Zealand.
 
-Giant kauri trees, stunning coaslines, top diving spots and history make up northland.
+The region is defined by its coastlines: the rugged west coast faces the Tasman Sea with towering sand dunes and isolated beaches. The calmer east coast (Pacific Ocean side) has sheltered bays where dolphins and whales are common. The [Bay of Islands](/australiaandpacific/newzealand/bayofislands) on the east coast is Northland's biggest draw — 144 islands, a protected harbour, sailing, fishing, and dolphin swimming. Nearby Kerikeri and Paihia are the main bases.
 
-Northland's coastline embraces the rugged west coast (Tasman Sea with
-Australia on the other side) towering sand dunes, isolated beaches and
-"beach roads" like [Ninety Mile Beach](/australiaandpacific/newzealand/northland/ninety_mile_beach).
+Giant kauri trees are Northland's other distinctive feature. Ancient kauris were logged heavily in the 19th century; the remaining old-growth trees, some over 2,000 years old, are found in Waipoua Forest.
 
-The calmer seat coast (Pacific Ocean) whales, dolphins, fish
-thrive. Also on this coast are great dive sposts, including the
-Rainbow Warrior.
+The wreck of the Rainbow Warrior — the Greenpeace ship sunk by French intelligence in Auckland in 1985 — lies off Matauri Bay and is now one of New Zealand's best dive sites.
 
-Places in Northland include:
-
-**Whangarei** - largest city in the region
-**
-Mangawhai heads** - a beach near Mangawhai - a tiny town in south Northland
-
-**[Kaitaia](/australiaandpacific/newzealand/northland/kaitaia)**- in the Far North
-
-**[Bay of islands](/australiaandpacific/newzealand/northland/bayofislands)** including Kerikeri and Romantic Russell.
+[Whangarei](/australiaandpacific/newzealand/whangarei) is the largest city in the region, roughly two hours north of Auckland. [Kaitaia](/australiaandpacific/newzealand/kaitaia) is the main town of the Far North.
 
 ## Destinations in Northland
 
-[Kaitaia](http://www2.world66.com/australiaandpacific/newzealand/northland/kaitaia)
-[Cape Reinga](http://www2.world66.com/australiaandpacific/newzealand/northland/cape_reinga)
-[Te Paki Stream](http://www2.world66.com/australiaandpacific/newzealand/northland/te_paki_stream)
-[Ninety Mile Beach](http://www2.world66.com/australiaandpacific/newzealand/northland/ninety_mile_beach)
+[Bay of Islands](/australiaandpacific/newzealand/bayofislands)
+[Whangarei](/australiaandpacific/newzealand/whangarei)
+[Kaitaia](/australiaandpacific/newzealand/kaitaia)

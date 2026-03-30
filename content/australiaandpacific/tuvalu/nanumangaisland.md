@@ -5,4 +5,4 @@ latitude: -6.287145
 longitude: 176.319991
 ---
 
-Hausleitner Manfred from Vienna will upload some pictures soon - pls be patient
+Nanumanga is a raised coral island in the northern part of the group, one of the few islands in Tuvalu that is not a true atoll. It is home to a small, self-contained community and is rarely visited by outsiders.

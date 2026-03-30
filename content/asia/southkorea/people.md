@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 46 416 796 (July 1998 est.)
+South Korea has a population of around 52 million, nearly all of them ethnically Korean. The country is one of the most ethnically homogeneous in the world, though immigration — particularly from Southeast Asia and China — has grown steadily in recent decades, especially in industrial cities.
 
-**Age structure:**
+Koreans are, by and large, a hard-working and highly educated people. The country has a near-total literacy rate and an intensely competitive education system: the college entrance exam (*suneung*) is treated as a national event, with air traffic rerouted to reduce noise during listening sections. This drive extends into working life; long hours are normal and expected in most offices.
 
-*0-14 years:* 22% (male 5 505 564; female 4 894 780)
+Confucianism provides the underlying social framework. Respecting elders is not merely courtesy but a near-obligation — expressed in the language itself, which has distinct formal and informal registers depending on the relative age and status of the people speaking. Hierarchy based on age, seniority, and education is deeply embedded. Foreigners are generally given a pass on the formalities, but being polite and deferential to older Koreans will always go down well.
 
-*15-64 years:* 71% (male 16 772 319; female 16 272 145)
+Buddhism and Christianity are roughly equal in size and the dominant religions, with Buddhism slightly more concentrated outside Seoul and Christianity — particularly Protestantism — very strong in the cities. A significant portion of the population describes itself as non-religious, though Confucian customs remain influential across all groups.
 
-*65 years and over:* 7% (male 1 126 963; female 1 845 025) (July 1998 est.)
+Koreans are justifiably proud of what the country has achieved economically since the devastation of the Korean War (1950–53). The transformation from near-total poverty to one of the world's largest economies within two generations is sometimes called the Miracle on the Han River, and it shapes national identity in a way that is hard to overstate. At the same time, the pressure of that success — intense work culture, high housing costs, low birth rates, and a deep anxiety about status — creates real social strains that younger Koreans openly discuss.
 
-**Population growth rate:** 1.01% (1998 est.)
-
-**Birth rate:** 16.08 births/1 000 population (1998 est.)
-
-**Death rate:** 5.67 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.31 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.14 male(s)/female
-
-*under 15 years:* 1.12 male(s)/female
-
-*15-64 years:* 1.03 male(s)/female
-
-*65 years and over:* 0.61 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 7.79 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 73.95 years
-
-*male:* 70.37 years
-
-*female:* 78 years (1998 est.)
-
-**Total fertility rate:** 1.79 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Korean(s)
-
-*adjective:* Korean
-
-**Ethnic groups:** homogeneous (except for about 20 000 Chinese)
-
-**Religions:** Christianity 49% Buddhism 47% Confucianism 3% pervasive folk religion (shamanism) Chondogyo (Religion of the Heavenly Way) and other 1%
-
-**Languages:** Korean English widely taught in junior high and high school
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 98%
-
-*male:* 99.3%
-
-*female:* 96.7% (1995 est.)
+Visitors often remark on Korean warmth and curiosity toward foreigners, especially outside the capital. In smaller towns, being invited for a meal or a drink by someone you have just met is not unusual.

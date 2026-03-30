@@ -1,37 +1,28 @@
 ---
-title: "When to Go in Pakistan"
+title: "When to Go"
 type: section
 ---
 
-The weather has an impact on deciding when to travel to Pakistan. There are 3 distinct seasons, namely the hot season, cool season and monsoon season. However, in Pakistan due to the diverse topography of the country the weather differs greatly from region to region. It is therefore important to obtain additional information about the specific area you plan to visit. There are often large temperature differences between day and night time.
+Pakistan's geography is so varied that there's no single best time to visit — it depends entirely on where you're going.
 
-**Cool Season**
+## The Plains and Cities (Lahore, Karachi, Islamabad, Multan)
 
-The cool season is from October to February. During the winter the mountainous areas in the north experience extreme cold while the other lower lying areas of Pakistan cool down and experience pleasant temperatures.
+**October to March** is the best window. Temperatures are manageable — cool in winter, pleasant in autumn and early spring. Lahore and Islamabad in January can get genuinely cold at night, but daytime is fine. Avoid April through September: the heat in the Punjab plains is brutal, reaching 45°C or above in peak summer. Karachi is somewhat more moderate on the coast but still oppressive from May to August.
 
-**Hot Season**
+## The North (Gilgit-Baltistan, Hunza, Skardu, Swat)
 
-The hot season is from March to June. During summer the mountainous areas in the north of Pakistan experience mild temperatures, making this a pleasant time to visit these areas. However other areas of Pakistan, such as the Indus Valley, experience extreme temperatures that can reach 40C.
+**May to October** is when the mountains are accessible. The Karakoram Highway is at its best from June to September. Trekking season runs roughly late April to October, with June to September being the peak for high-altitude routes. At these elevations, even midsummer nights can be cold, so pack layers.
 
-**Monsoon Season**
+The Khunjerab Pass (the China border crossing on the KKH) opens officially from May 1 and closes in October — check current dates before planning a crossing.
 
-The monsoon season is July until September. During monsoon season there is heavy rainfall, hot temperatures and strong winds which blow in the rain. The amount of rainfall is erratic and because of the high temperatures the water evaporates quickly. Due to the erratic nature of Pakistan's weather Pakistan has faced both flooding and drought. If you are staying near the Indus River be aware that the river may flood during heavy rainfall. Humidity levels are high during monsoon season.
+## The Monsoon
 
-The ideal time to go to Pakistan is November to March if you are visiting the south. The ideal time to visit Pakistan is April to October if you are visiting the north. It is important to take note of the political situation before going to
-Pakistan as travel during political campaigns or elections is not
-advisable.
+The summer monsoon arrives from the south and east, affecting most of the country from **July to September**. It brings heavy rains, flooding risk along rivers like the Indus, and can cause landslides that close roads in the north. The 2022 floods were catastrophic; the risk is real every year. Plan northern trips for August with some flexibility for delays.
 
-**Trekking**
+## Festivals
 
-Trekking season begins at the end of April and finishes in
-October. The peak season for trekking is from June to September.
-
-**Festivals**
-
-Festivals can add an exciting aspect to your travels and it is therefore worth considering festival dates to help you decide when to visit Pakistan.
-- Nauroza - This festival is celebrated in Gilit, Hunza, Skardu as well as Chitral. The festival involves sports such as polo and football. Traditional dancing is performed and traditional music is played. The festival is held from 21 March until 23 March.- Mela Chiraghan - This is the festival of lamps and it takes place at the end of March outside Shalimar Gardens in Lahore.- Lok Mela - Lok Mela is held in the beginning of October and is 1 week long. It takes place in Islamabad. The festival showcases a variety of arts such as music, dancing and crafts. You can watch craftsmen at work and buy some of their goods. The festival offers tourists a cultural experience and a chance to learn more about Pakistan.
-
-**Contributors**
-January 16, 2010
-
-January 26, 2010
+- **Shandur Polo Festival** (July) — Chitral and Gilgit teams play at the world's highest polo ground; a spectacular three-day event with music and dancing
+- **Lok Mela** (early October, Islamabad) — a week-long folk festival showcasing crafts, music, and dance from across Pakistan
+- **Nauroz** (March 21–23) — Persian New Year celebrated in Gilgit, Hunza, and Chitral with polo, dancing, and traditional sports
+- **Mela Chiraghan** (late March, Lahore) — festival of lamps outside Shalimar Gardens
+- **Eid ul-Fitr and Eid ul-Adha** — the two major Islamic festivals follow the lunar calendar, shifting around 10 days earlier each year. Both are worth experiencing but require advance planning for accommodation and transport as the whole country is on the move

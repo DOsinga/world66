@@ -3,100 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Last King of Scotland** by Giles Foden. A gripping novel told through the eyes of a fictional Scottish doctor who becomes personal physician to Idi Amin. It captures the paranoia and violence of Amin's regime while painting a vivid picture of 1970s Uganda. The film adaptation with Forest Whitaker is excellent too, but the book goes deeper.
 
-**Adventuring in East Africa:The Sierra Club Travel Guide to the Great Safaris of Kenya, Tanzania, Eastern Zaire, Rwa..**
+**The Abyssinian Chronicles** by Moses Isegawa. An epic novel that follows a Ugandan family from the final years of British colonialism through Amin's terror and Obote's second reign. Isegawa writes with fierce energy about the chaos of post-independence Uganda. Not an easy read, but a rewarding one.
 
+**Uganda: The Bradt Travel Guide** by Philip Briggs. The most detailed and reliable guidebook dedicated to Uganda. Briggs has been writing about East Africa for decades and knows the country intimately. Essential if you are planning an independent trip.
 
+**The Gorilla Highlands** by various contributors. A community-driven guide to the southwestern corner of Uganda -- the gorilla tracking region around Bwindi, Lake Bunyonyi, and Kisoro. Available free online. Excellent for cultural context and off-the-beaten-track suggestions in a region most visitors rush through.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0871567474/ref=ase_osingacom?v=glance&s=books)
+**A Grain of Wheat** by Ngugi wa Thiong'o. While set in Kenya rather than Uganda, this novel about the Mau Mau uprising illuminates the colonial dynamics that shaped all of East Africa. Short, powerful, and essential reading for understanding the region.
 
-author: Allen Bechky
-
-isbn: 0871567474
-
-subject: travel
-
-**Uganda :The Bradt Travel Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1898323798/ref=ase_osingacom?v=glance&s=books)
-
-author: Briggs,Philip,Philip Briggs
-
-isbn: 1898323798
-
-subject: travel
-
-**Spectrum Guide to Uganda**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566562708/ref=ase_osingacom?v=glance&s=books)
-
-author: Camerapix Publishing
-
-isbn: 1566562708
-
-subject: travel
-
-**The Chiga of Uganda**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1560002484/ref=ase_osingacom?v=glance&s=books)
-
-author: May M. Edel
-
-isbn: 1560002484
-
-subject: culture
-
-**Songs and Stories from Uganda**
-
- 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0690752415/ref=ase_osingacom?v=glance&s=books)
-
-author: W. Moses Serwadda (Illustrator),Leo Dillon (I..
-
-isbn: 0690752415
-
-subject: culture
-
-**The Last King of Scotland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0375403604/ref=ase_osingacom?v=glance&s=books)
-
-author: Giles Foden
-
-isbn: 0375403604
-
-subject: history
-
-**East Africa Handbook 1999 with Kenya, Tanzania, Uganda and Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844249785/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0871567474/ref=ase_osingacom?v=glance&s=books)
-
-author: Allen Bechky
-
-isbn: 0871567474
-
-subject: history
-
-**Uganda Handbook**
-
-The first edition of the Uganda country guide from the Footprint series.
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1903471346/ref=ase_osingacom?v=glance&s=books)
-
-isbn: 1903471346
-
-author: Michael Hodd and Angela Roche
+**The Wizard of the Crow** by Ngugi wa Thiong'o. A wildly satirical novel about a fictional East African dictatorship that draws on the absurdities of real post-independence politics. Funny and furious in equal measure.

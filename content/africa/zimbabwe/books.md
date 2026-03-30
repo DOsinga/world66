@@ -3,112 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The House of Hunger** by Dambudzo Marechera is a raw, experimental novella set in a Rhodesian township in the 1970s. It won the Guardian Fiction Prize in 1979 and remains the most important work of Zimbabwean literature — intense, angry and brilliant.
 
-**Zimbabwe, Botswana and Namibia**
+**Nervous Conditions** by Tsitsi Dangarembga follows a young Shona girl's struggle for education in 1960s Rhodesia. It was the first novel published in English by a black Zimbabwean woman and captures the tension between tradition and modernity with quiet precision.
 
+**Zenzele: A Letter for My Daughter** by J. Nozipo Maraire is a mother's letter to her daughter leaving for Harvard, weaving personal history with Zimbabwe's story of colonialism and independence. Warm, wise and beautifully written.
 
+**The Soul of Mbira** by Paul Berliner is the definitive study of the mbira thumb piano and its role in Shona spiritual life. Part ethnomusicology, part cultural history — essential reading if the music of Zimbabwe interests you.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425457/ref=ase_osingacom?v=glance&s=books)
+**Voices from the Rocks** by Terence Ranger explores the cultural and political history of the Matobo Hills, from their significance to the Ndebele people through the colonial period. A fascinating study of how landscape shapes identity.
 
-author: Deanna Swaney
+**Don't Let's Go to the Dogs Tonight** by Alexandra Fuller is a memoir of growing up white in Rhodesia during the civil war. Vivid, unsentimental and darkly funny — one of the best memoirs to come out of southern Africa.
 
-isbn: 0864425457
-
-subject: travel
-
-**Zimbabwe and Botswana:The Rough Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858281865/ref=ase_osingacom?v=glance&s=books)
-
-author: Rough Guide Publications,Tony Pinchuck
-
-isbn: 1858281865
-
-subject: travel
-
-**Zimbabwe**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1853683663/ref=ase_osingacom?v=glance&s=books)
-
-author: Paul Tingay,Globetrotter (Editor)
-
-isbn: 1853683663
-
-subject: travel
-
-**Zimbabwe Dance :Rhythmic Forces, Ancestral Voices, and Aesthetic Analysis**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/086543493X/ref=ase_osingacom?v=glance&s=books)
-
-author: Kariamu Welsh Asante,Kariamu Welsh-Asante
-
-isbn: 086543493X
-
-subject: culture
-
-**The Soul of Mbira:Music and Traditions of the Shona People of Zimbabwe: with an Appendix, Building and Playing a Sh..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0226043797/ref=ase_osingacom?v=glance&s=books)
-
-author: Paul F. Berliner
-
-isbn: 0226043797
-
-subject: culture
-
-**Voices from the Rocks:Nature, Culture and History in the Matopos Hills of Zimbabwe**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/025321288X/ref=ase_osingacom?v=glance&s=books)
-
-author: Terence O. Ranger,T. O. Ranger
-
-isbn: 025321288X
-
-subject: culture
-
-**Zimbabwe, Botswana and Namibia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425457/ref=ase_osingacom?v=glance&s=books)
-
-author: Deanna Swaney
-
-isbn: 0864425457
-
-subject: history
-
-**Zimbabwe and Botswana:The Rough Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858281865/ref=ase_osingacom?v=glance&s=books)
-
-author: Rough Guide Publications,Tony Pinchuck
-
-isbn: 1858281865
-
-subject: history
-
-**Zenzele:A Letter for My Daughter**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0385318227/ref=ase_osingacom?v=glance&s=books)
-
-author: J. Nozipo Maraire
-
-isbn: 0385318227
-
-subject: history
+**Mukiwa: A White Boy in Africa** by Peter Godwin covers similar territory from a different angle — the author's journey from Rhodesian schoolboy to journalist covering the country's transformation into Zimbabwe.

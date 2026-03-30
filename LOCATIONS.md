@@ -202,6 +202,30 @@ Precision to 4 decimal places is enough (roughly 10m accuracy). Look them up via
 
 ---
 
+## Day trips — linking to real locations
+
+Day trip destinations should be real locations in the hierarchy, not POIs buried under the city. Use `linked_locations:` in `day_trips.md` to list their paths:
+
+```yaml
+---
+title: "Day Trips"
+type: section
+order: 8
+linked_locations:
+  - europe/italy/lazio/frascati
+  - europe/italy/lazio/ostiaantica
+  - europe/italy/lazio/tarquinia
+---
+
+Brief overview of day trip options from the city.
+```
+
+The template automatically renders these as a table linking to the real location pages. If a destination doesn't have a location page yet, create one in the correct place in the hierarchy before adding it here.
+
+Delete any old POI files in `day_trips/` and add redirects pointing to the real location URLs.
+
+---
+
 ## Reference implementations
 
 | City | Path | Notes |

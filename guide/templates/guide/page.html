@@ -186,6 +186,22 @@
 {% endif %}
 {% endif %}
 
+{% if linked_location_pages %}
+<table class="poi-table">
+  <thead>
+    <tr><th>Destination</th><th></th></tr>
+  </thead>
+  <tbody>
+    {% for loc in linked_location_pages %}
+    <tr>
+      <td class="poi-table-name"><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></td>
+      <td class="poi-table-details">{{ loc.body|truncatewords:30 }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
 {% if neighbourhood_pois %}
 <h2 class="neighbourhood-pois-heading">Places in this neighbourhood</h2>
 <table class="poi-table">

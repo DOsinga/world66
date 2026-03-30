@@ -58,6 +58,14 @@ def location_or_section(request, path):
     if page.page_type == "section" and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
 
+    # For sections with linked_locations, load those real location pages
+    linked_location_pages = []
+    if page.page_type == "section":
+        for loc_path in page.meta.get("linked_locations", []):
+            loc = load_page(loc_path)
+            if loc:
+                linked_location_pages.append(loc)
+
     # For neighbourhood POIs, gather all POIs tagged with this neighbourhood
     neighbourhood_pois = []
     if page.page_type == "poi" and page.category == "Neighbourhood":
@@ -94,6 +102,7 @@ def location_or_section(request, path):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "neighbourhood_pois": neighbourhood_pois,
+        "linked_location_pages": linked_location_pages,
     })
 
 

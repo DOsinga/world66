@@ -1,43 +1,30 @@
 ---
 title: "Getting Around"
 type: section
-email: "jan@komarna.com"
-url: "www.komarna.com"
 ---
 
-Komarna is on the Croatian coast 70 kilometres North of Dubrovnik. All
-the holiday villas and apartments have a clear view of the azure
-Adriatic Sea beyond the beach.
+## By Bus
 
-The village lies in the bay of Mali Ston engulfed by the mainland
-and the peninsula of Peljesac whose coasts are dotted with small
-uninhabited islands, reefs and cliffs offering a spectacular view much
-like Southern Thailand or Greece.
+Buses are the backbone of Croatian public transport and the best way to move between cities. The network is extensive and reliable. Zagreb to Split costs around €15 and takes about five hours; Split to Dubrovnik is roughly €12 and three hours. Buy tickets in advance online or at bus stations — routes fill up in summer. Main operators include FlixBus, Arriva, and Čazmatrans. Baggage fees apply for luggage stored under the bus.
 
-Komarna is the perfect place for making a vacation if you want to be
-disturbed by nothing but the sound of rattling palm leaves and soft
-waves rolling in on the beach. There is no chance of getting bored
-though. Just three kilometres to the South you'll find the tourist town
-of Klek offering a wide selection of restaurants, bars, shops and
-discotheques, and there are a lot of historical sights nearby and
-world-class tourist attractions to be easily reached in a day-trip.
+## By Ferry
 
-On the Komarna web site you can find information on the village and
-surroundings which include the ancient Greek colony of Narona in
-Neretva Valley, the holy place in Medjugorje and the world heritage
-site of Dubrovnik one hour drive to the South. And you may find
-accommodation for a great family holiday or senior holiday.
+Ferries and catamarans are essential for reaching the islands. Jadrolinija is the main operator, running car ferries and passenger-only catamarans. Krilo also runs fast catamaran services on Dalmatian routes.
 
-### [How to get there
+Key routes: Split to Hvar (about 1 hour, from €10), Split to Brač (50 minutes), Dubrovnik to Korčula, and the long-distance summer catamaran linking Dubrovnik, Hvar, Korčula, and Split. Only Krk and Pag are connected to the mainland by bridge; all other islands need a ferry.
 
-Komarna is just off the main North-South highway (E65) that cuts
-along the coast. It is about 70 km. North of Dubrovnik and 120 km.
-South of Split. Coming from the North take note of the "km stones"
-there is a small road leading down to Komarna on your right 700m after
-the stone with km 733.
+Car ferries are first-come, first-served for vehicles — arrive early in summer or you may miss the boat literally. Foot passengers can board up to 10 minutes before departure. Most inter-island schedules thin out significantly between November and April.
 
-If you are coming from inland (Metkovic) turn left in Opuzen towards
-Dubrovnik and follow the instructions as if you were coming from the
-North. Coming from the South you'll pass through the tourist town of
-Klek. Notice the "km stones". Three km after Klek there is a small road
-on more..](/europe/croatia/getting_around/how_to_get_there)
+## By Train
+
+Croatia's rail network is limited and generally slower than buses. Trains are useful for Zagreb to Rijeka, and Zagreb to Osijek. The Zagreb–Split line exists but is infrequent and takes longer than the bus. Trains are comfortable for inland routes but don't reach most coastal or island destinations.
+
+## By Car
+
+Renting a car gives you the most freedom, especially in Istria, on the larger islands, and for national park visits. Rentals start around €15–25 per day. Croatian roads are good; the A1 motorway runs most of the coastal length with tolls. Petrol stations are common on major roads but sparse on islands — fill up before boarding a ferry.
+
+Driving in [Dubrovnik](/europe/croatia/dubrovnik) and [Split](/europe/croatia/split) old towns is pointless and often restricted. Park outside and walk.
+
+## By Domestic Flight
+
+Croatia Airlines connects Zagreb with Dubrovnik, Split, Pula, and Zadar. One-way fares start around €50. Practical if you need to cover large distances quickly, but buses and ferries usually suffice.

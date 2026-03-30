@@ -3,6 +3,6 @@ title: "People"
 type: section
 ---
 
-**Population:** uninhabited
+Baker Island has no permanent population and has been uninhabited since 1942. The last residents were a small group of young men from Hawaii brought to the island in 1935 as part of a U.S. colonization program. They maintained a presence on the island until Japanese attacks during World War II forced their evacuation. No civilian population has lived there since.
 
-*note:* American civilians evacuated in 1942 after Japanese air and naval attacks during World War II; occupied by US military during World War II but abandoned after the war; public entry is by special-use permit only and generally restricted to scientists and educators; a cemetery and cemetery ruins are located near the middle of the west coast
+The only people who visit today are scientists and researchers working under special-use permits from the U.S. Fish & Wildlife Service. A small cemetery near the middle of the west coast is the most tangible reminder of the brief human settlement.

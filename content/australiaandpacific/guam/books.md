@@ -3,64 +3,10 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Destiny's Landfall: A History of Guam** by Robert F. Rogers is the most thorough single-volume history of the island, covering everything from the first Chamorro settlements through Spanish colonialism, the war years, and postwar American rule. Dry in places but genuinely informative — essential reading if you want to understand why Guam is the way it is.
 
-**The Island of the Colorblind**
+**The Island of the Colorblind** by Oliver Sacks visits Pingelap in Micronesia rather than Guam specifically, but it's the best English-language book about the broader region — curious, humane, and beautifully written. It gives you a feel for what the Pacific archipelagos are actually like.
 
+**Fiesta de Guam** edited by Patrick Flores is a collection of short writing and oral history from Chamorro perspectives, harder to find but worth seeking out for a view from inside rather than outside.
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0375700730/ref=ase_osingacom?v=glance&s=books)
-
-author: Oliver Sacks
-
-isbn: 0375700730
-
-subject: travel
-
-**Invitation to Guam:Everything You Need to Know about Guam, Its People, and Culture Revised Ed.**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0962353000/ref=ase_osingacom?v=glance&s=books)
-
-author: Tommy B. Chase,Patrick Degan (Illustrator)
-
-isbn: 0962353000
-
-subject: travel
-
-**The Liberation of Guam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/089141651X/ref=ase_osingacom?v=glance&s=books)
-
-author: Harry Gailey
-
-isbn: 089141651X
-
-subject: history
-
-**Territories and Possessions:Puerto Rico, U.S. Virgin Islands, Guam, American Samoa, Wake, Midway, and Other Islands..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1555465676/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas G. Aylesworth,Virginia L. Aylesworth,W..
-
-isbn: 1555465676
-
-subject: history
-
-**Destiny's Landfall:A History of Guam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0824816781/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert F. Rogers
-
-isbn: 0824816781
-
-subject: history
+For a practical regional guide, **Moon Micronesia** (various editions) covers Guam in depth alongside Saipan, Palau, and the wider region, and is useful for planning if you're island-hopping.

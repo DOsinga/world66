@@ -3,16 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air** is the only practical way for most visitors. Libreville's Leon Mba International Airport receives direct flights from Paris (Air France, several times weekly), Addis Ababa (Ethiopian Airlines), Casablanca (Royal Air Maroc), and various West and Central African capitals. From North America, you will almost certainly connect through Paris or Addis Ababa.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+Flights from Paris take about six and a half hours. Ethiopian Airlines via Addis Ababa is often cheaper but involves a longer journey. Regional carriers connect Libreville with Douala, Cotonou, Lagos, and Brazzaville, though schedules can be unreliable.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+Port-Gentil also has an airport with limited international connections, mainly to regional destinations.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+**By land**, Gabon shares borders with Cameroon, Equatorial Guinea, and the Republic of Congo. Border crossings exist but are slow and bureaucratic. The road from Cameroon via Bitam and Oyem to Libreville is the most commonly used overland route, though road conditions are poor, especially in the rainy season. The crossing from Equatorial Guinea at Ebebiyin is straightforward. From Congo-Brazzaville, crossings are possible but remote and challenging.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+**By sea**, occasional cargo boats and ferries connect Libreville and Port-Gentil with other Gulf of Guinea ports, but these are not reliable passenger services. A regular ferry runs between Libreville and Port-Gentil (about four hours, roughly $60-85), which is useful since there is no road connecting the two cities.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+All visitors need a visa arranged in advance. Gabon has introduced an e-visa system, though processing times and requirements change frequently. Check current requirements before booking flights.

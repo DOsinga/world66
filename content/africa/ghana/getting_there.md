@@ -3,16 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air** is how almost everyone arrives. Kotoka International Airport (ACC) in [Accra](/africa/ghana/accra) is the country's main gateway, with direct flights from London, Amsterdam, New York (JFK), Washington (Dulles), and many African capitals. Major carriers serving Accra include British Airways, KLM, Delta, Emirates, Ethiopian Airlines, and South African Airways. Kumasi also has a domestic airport with limited regional connections.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+From Europe, the cheapest flights tend to route through London or Amsterdam. From North America, Delta flies direct from New York, or you can connect through Addis Ababa on Ethiopian Airlines, which often has competitive fares. From elsewhere in West Africa, Africa World Airlines and local carriers connect Accra to Lagos, Abidjan, Dakar, and other regional cities.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**By land**, Ghana shares borders with Togo to the east, Burkina Faso to the north, and Cote d'Ivoire to the west. The most popular overland crossing is the Aflao border between Ghana and Togo, which connects Accra to Lome. STC and other bus companies run regular services. The crossing at Elubo connects to Abidjan in Cote d'Ivoire. Northern crossings to Burkina Faso are possible via Paga or Hamile, but the roads are rougher and transport less frequent.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+All land border crossings can be slow. Arrive early, have your paperwork in order, and be patient. ECOWAS nationals can cross freely; others will need a valid visa.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
-
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+**By sea** is not a practical option for most travelers. Tema port near Accra handles cargo shipping, but there are no regular passenger ferry services to Ghana from other countries.

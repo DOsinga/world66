@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 18 497 206 (July 1998 est.)
+Ghana has a population of around 34 million people, spread across more than 100 ethnic groups who generally get along remarkably well. The country's post-independence motto, "Freedom and Justice," reflects a genuine national pride that you will encounter constantly.
 
-**Age structure:**
+The **Akan** are the largest ethnic group, making up roughly 48% of the population. This includes the Ashanti, the Fante, the Akyem, and several other subgroups. The Ashanti, centred on [Kumasi](/africa/ghana/kumasi), are the most culturally prominent, with a powerful chieftaincy tradition, spectacular kente cloth, and gold jewellery that reflects centuries of wealth from the gold trade. Ashanti society is matrilineal -- inheritance and clan membership pass through the mother's line.
 
-*0-14 years:* 43% (male 3 985 219; female 3 947 640)
+The **Ewe** in the southeast, the **Ga-Adangbe** around Accra, and the **Mole-Dagbani** in the north are the other major groups. The north is predominantly Muslim, the south predominantly Christian, and traditional religious practices run underneath both -- you will see shrines, pour libations at ceremonies, and hear people consult spiritual leaders regardless of their official faith.
 
-*15-64 years:* 54% (male 4 905 442; female 5 077 521)
+English is the official language and is spoken widely, making Ghana one of the easiest countries in West Africa for English-speaking travelers. Most Ghanaians also speak at least one local language -- Twi is the most widely understood, followed by Ga, Ewe, Hausa, and Dagbani.
 
-*65 years and over:* 3% (male 275 192; female 306 192) (July 1998 est.)
+Ghanaians are famously hospitable. Strangers greet each other, conversations happen easily, and invitations to share a meal are common and sincere. The greeting culture is important -- always say hello before launching into a question or request. Handshakes are standard, and the snap-shake (where your middle fingers snap against each other at the end) is a satisfying local variation you will quickly pick up.
 
-**Population growth rate:** 2.13% (1998 est.)
-
-**Birth rate:** 32.81 births/1 000 population (1998 est.)
-
-**Death rate:** 10.63 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.9 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.89 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 77.53 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 56.82 years
-
-*male:* 54.77 years
-
-*female:* 58.92 years (1998 est.)
-
-**Total fertility rate:** 4.27 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Ghanaian(s)
-
-*adjective:* Ghanaian
-
-**Ethnic groups:** black African 99.8% (major tribesAkan 44% Moshi-Dagomba 16% Ewe 13% Ga 8%) European and other 0.2%
-
-**Religions:** indigenous beliefs 38% Muslim 30% Christian 24% other 8%
-
-**Languages:** English (official) African languages (including Akan Moshi-Dagomba Ewe and Ga)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 64.5%
-
-*male:* 75.9%
-
-*female:* 53.5% (1995 est.)
+Funerals are major social events in Ghana, often larger and more elaborate than weddings. If you see a parade of people in matching red and black cloth on a Saturday, that is a funeral celebration. You may well be invited to join.

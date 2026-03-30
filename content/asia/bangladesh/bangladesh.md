@@ -1,25 +1,24 @@
 ---
 title: "Bangladesh"
 type: location
-latitude: 23.685
-longitude: 90.3563
+latitude: 23.684994
+longitude: 90.356331
 ---
 
-Bangladesh is one of the most densely populated countries on earth, and one of the least visited by Western travelers. That is a shame, because this small nation wedged between India and Myanmar has a warmth -- both in its climate and its people -- that rewards anyone willing to navigate its chaos.
+Bangladesh is one of the most densely populated countries on earth, a watery delta nation squeezed between India on three sides and Myanmar to the southeast, with the Bay of Bengal opening to the south. It is not an easy country to travel — the infrastructure is rough, traffic is chaotic, and the heat and humidity in summer are genuinely punishing — but travelers who come here find something they rarely expected: warmth, generosity, and landscapes of extraordinary beauty.
 
-This is a country defined by water. The Ganges, Brahmaputra, and Meghna rivers converge here in the world's largest delta, creating a landscape of emerald-green rice paddies, winding waterways, and seasonal floods that reshape the land each year. The southwest holds the [Sundarbans](/asia/bangladesh/sundarbans), the largest mangrove forest on earth and the last stronghold of the Bengal tiger. The northeast around [Sylhet](/asia/bangladesh/sylhet) is carpeted with tea gardens and rolling hills. In the southeast, [Cox's Bazar](/asia/bangladesh/coxsbazar) boasts 120 kilometers of unbroken sandy beach -- the longest in the world, and still remarkably uncrowded by international standards.
+The country is essentially a river delta. The Ganges, the Brahmaputra, and the Meghna all converge here, splitting into hundreds of channels before emptying into the Bay of Bengal. In monsoon season, vast stretches of the country flood completely. In the dry season, the same landscape turns startlingly green. The rivers are not just scenery — they are roads, markets, and livelihood for millions of people.
 
-[Dhaka](/asia/bangladesh/dhaka) is the beating heart of the country: loud, gridlocked, and overwhelming, but also fascinating. The Old City's Mughal architecture, the modernist masterpiece of Louis Kahn's National Assembly Building, and the sheer energy of 22 million people crammed into one metro area make it an unforgettable experience. [Chittagong](/asia/bangladesh/chittagong), the country's second city, serves as a gateway to the hill tracts and the coast.
+Most travelers pass through [Dhaka](/asia/bangladesh/dhaka), the chaotic and endlessly energetic capital. It is worth more than a transit stop. The old city, Puran Dhaka, is one of the most atmospheric historic neighborhoods in South Asia: narrow lanes, Mughal mosques, rickshaw traffic jams, and street food at every corner. From Dhaka, the rest of the country opens up.
 
-Bangladesh is not an easy country to travel in. Infrastructure is basic, traffic is genuinely frightening, and the monsoon season can bring devastating floods and cyclones. But the food is extraordinary -- rice and fish in a thousand variations, fiery curries, and street snacks that rival anything in the subcontinent. The people are among the most hospitable you will encounter anywhere. And the landscapes, when the light hits the rivers and paddies just right, are breathtaking.
+To the south, [Cox's Bazar](/asia/bangladesh/coxsbazar) has one of the longest natural beaches in the world — 120 kilometers of sand with relatively few tourists by international standards. To the southeast, the Chittagong Hill Tracts — the forested hill country around [Bandarban](/asia/bangladesh/banderban_hill_tra), Rangamati, and Khagrachhari — are home to a dozen or more indigenous peoples with distinct languages, religions, and cultures. Permits are required to visit some areas. Further east, the Sundarbans, a vast mangrove forest shared with India, is home to the Royal Bengal Tiger and is a UNESCO World Heritage Site.
 
-Most travelers pass through Bangladesh quickly, if at all. Those who stay longer discover a country that is rapidly changing, deeply proud of its culture, and eager to share it with anyone curious enough to show up.
+The northeast — [Sylhet](/asia/bangladesh/sylhet) and the surrounding tea country — is Bangladesh at its most lush. Rolling plantations, clear rivers descending from Meghalayan hills, and swamp forests full of birds draw travelers willing to make the journey.
 
 ## Destinations
 
-- [Dhaka](/asia/bangladesh/dhaka) -- the capital, chaotic and compelling
-- [Chittagong](/asia/bangladesh/chittagong) -- port city and gateway to the southeast
-- [Cox's Bazar](/asia/bangladesh/coxsbazar) -- the world's longest beach
-- [Sylhet](/asia/bangladesh/sylhet) -- tea gardens and green hills
-- [Rajshahi](/asia/bangladesh/rajshahi) -- the silk city in the northwest
-- [Bandarban](/asia/bangladesh/banderban_hill_tra) -- hill tracts and tribal culture
+- [Dhaka](/asia/bangladesh/dhaka) — the capital, old and new, overwhelming and compelling
+- [Chittagong](/asia/bangladesh/chittagong) — port city, gateway to the hill tracts and Cox's Bazar
+- [Cox's Bazar](/asia/bangladesh/coxsbazar) — the long beach on the Bay of Bengal
+- [Sylhet](/asia/bangladesh/sylhet) — tea country and river valleys in the northeast
+- [Rajshahi](/asia/bangladesh/rajshahi) — silk city on the Padma river, gateway to Paharpur ruins

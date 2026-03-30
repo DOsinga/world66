@@ -3,14 +3,12 @@ title: "Food"
 type: section
 ---
 
-Bangladeshi food is rice-based, richly spiced, and almost always involves fish or meat. Vegetarians will struggle here — even dal often comes cooked in fish oil, and the concept of a fully meat-free meal is foreign to most kitchens. Ask carefully and expect limited options.
+Bangladeshi food is close to Bengali cuisine on the Indian side of the border but with its own character — more fish, more mustard oil, and a heavy presence of the rivers in everything. The national fish is hilsa (ilish), a large, fatty river fish that Bangladeshis are deeply attached to. Hilsa steamed in mustard paste inside a banana leaf is a dish worth traveling for. During monsoon season, when hilsa runs upriver to spawn, the whole country seems to eat nothing else.
 
-Rice appears at every meal, but the biryanis are where it gets exciting. [Dhaka](/asia/bangladesh/dhaka)'s Old Town biryanis — particularly the kacchi biryani from places like Haji Biryani — are legendary, slow-cooked with goat meat and potatoes in sealed pots. Worth the trip alone.
+The everyday meal across Bangladesh is rice and dal — plain boiled rice with lentil soup, vegetable curries, and whatever fish or meat is available. Bhorta (mashed vegetables or fish, mixed with mustard oil, green chilli, and onion) is a staple and ranges from mashed potato to dried fish to roasted eggplant. It is unassuming and very good.
 
-Hilsa (ilish) is the national fish and practically a religion. Fried, steamed in banana leaf, or cooked in mustard sauce (ilish bhapa), it shows up everywhere during monsoon season. Bangladeshis abroad get emotional about it. Other curries lean heavy on mustard oil and spice — bhuna khichuri, a rich lentil-and-rice dish often served on rainy days, is comfort food at its best.
+For celebrations and special occasions, kacchi biryani is the dish — raw marinated meat layered with fragrant rice and slow-cooked together until everything melts into one. [Dhaka](/asia/bangladesh/dhaka)'s Old Town has restaurants that have been doing this for generations.
 
-Street food is where Bangladesh really shines. Fuchka (the local pani puri) is tangy and addictive. Chotpoti is a chickpea stew served in small bowls on the sidewalk. Jhal muri — puffed rice tossed with mustard oil, chili, and lime — costs almost nothing and tastes like everything.
+Street food is everywhere and excellent. Fuchka (hollow crispy shells filled with spiced potato and tamarind water) are the universal snack. Chotpoti (chickpeas and potato with tamarind and egg) is another. Jhalmuri — puffed rice tossed with mustard oil, onion, green chilli, and chopped vegetables — is sold by cart vendors across the country and is exactly what you want at any time of day.
 
-The sweets are extraordinary. Mishti doi (sweetened yogurt) from Bogra is the gold standard. Roshogolla and sandesh come in dozens of regional variations, all made from fresh chhana. Every neighborhood has a sweet shop worth stopping at.
-
-Chai is constant. Sweet, milky, boiled hard, and served in tiny glasses at stalls on every corner. It costs a few taka and fuels the entire country.
+Bangladesh is a Muslim-majority country, so pork is essentially absent and alcohol is harder to find than in neighboring India — available in upmarket hotels and some restaurants in Dhaka, but not widely. Tea (cha) is universal and good, often served very sweet. In [Sylhet](/asia/bangladesh/sylhet) tea country, you can drink it straight from the source.

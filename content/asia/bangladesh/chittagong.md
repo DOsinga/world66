@@ -5,16 +5,8 @@ latitude: 22.333778
 longitude: 91.834435
 ---
 
-Travel Guide
+Chittagong (officially Chattogram) is Bangladesh's second city and its main port, sitting on the Karnaphuli River near where it meets the Bay of Bengal. It is a working city rather than a tourist one — crowded, commercial, and a gateway to other places more than a destination in its own right.
 
-We currently have no information about Chittagong.
+The old town has some genuine points of interest: the Bayazid Bostami shrine with its large tank of soft-shelled turtles, the 14th-century Qadam Mubarak Mosque said to contain a footprint of the Prophet, and the hillside Shah Jame Mosque with views over the city. The World War II Commonwealth War Cemetery is well maintained and worth visiting. The harbor area (Sadarghat) is the city's oldest quarter and worth a wander.
 
-If you do know any general information about Chittagong, please [Edit this article].
-
-If you know any hotels in Chittagong or restaurants in Chittagong, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/bangladesh/chittagong)
-
-Chittagong is the second-largest city of Bangladesh with a population of about 2 million (and rising). The city is located on Karnaphuli River on the Bay of Bengal. 
-
-Among the city’s sights are several tombs and religious shrines including the Tomb of Sultan Bayazid Bostami (note the hundreds of tortoises in the tank representing evil souls). The Shah Jame Mosque built on a hillside offers excellent views. The 14th-century Qadam (Kadam) Mubarak Mosque contains what’s said to be a footprint of the Prophet. 
-
-Other attractions include the ethnological museum in Agrabad the World War II Military Cemetery (graves of British Australian and other soldiers) the 300-year-old Portuguese Arsenal (interesting architecture) and the harbor area (called the “Sadarghat ” it’s the city’s oldest area).
+Chittagong is the jumping-off point for [Cox's Bazar](/asia/bangladesh/coxsbazar) to the south and the Chittagong Hill Tracts to the east. Most travelers pass through rather than linger.

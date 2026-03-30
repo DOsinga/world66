@@ -3,16 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-Getting around Bangladesh requires patience and a sense of humor. The country is small but densely packed, and distances that look short on a map can take surprisingly long due to traffic, road conditions, and river crossings.
+Bangladesh is a country of rivers, and water transport is one of the most practical — and pleasant — ways to travel. The BIWTC (Bangladesh Inland Water Transport Corporation) runs passenger ferries and larger "launches" on many routes, especially to the south and southwest. An overnight ferry from Dhaka to Khulna (the gateway to the Sundarbans) takes about 20 hours and is a genuine experience: you sleep on the deck under the stars, passing fishing villages and rice paddies. Buying a cabin berth is worth it for a comfortable night.
 
-**Buses** are the most common way to travel between cities. Intercity coaches from companies like Green Line, Hanif Enterprise, Shyamoli, and Ena Transport offer air-conditioned services on major routes with reclining seats and reasonable comfort. The driving, however, is genuinely terrifying -- overtaking on blind corners at high speed is standard practice. Night buses are best avoided if possible.
+Trains are the best option for longer overland routes. Bangladesh Railway connects Dhaka to [Chittagong](/asia/bangladesh/chittagong), [Sylhet](/asia/bangladesh/sylhet), Rajshahi, and other major cities. Intercity express trains are comfortable and relatively punctual by regional standards. Book tickets in advance if possible — busy routes sell out. Nearly all rail routes radiate from Dhaka, so traveling between two cities without going through the capital usually means a change.
 
-**Trains** are slower but far more comfortable and scenic. Bangladesh Railway connects [Dhaka](/asia/bangladesh/dhaka) with [Chittagong](/asia/bangladesh/chittagong), [Sylhet](/asia/bangladesh/sylhet), [Rajshahi](/asia/bangladesh/rajshahi), and Khulna, among other cities. First-class air-conditioned berths on overnight trains are excellent value. Book in advance through the Bangladesh Railway website or at station counters -- popular routes sell out, especially around holidays.
+Buses cover most of the country and are cheap. Air-conditioned coaches on major routes (Dhaka–Chittagong, Dhaka–Sylhet) are reasonable. On rural routes, buses are often crowded and schedules are loose. Allow extra time and a degree of flexibility.
 
-**Domestic flights** connect Dhaka with [Cox's Bazar](/asia/bangladesh/coxsbazar), Chittagong, Sylhet, Jessore, and Barisal. US-Bangla Airlines and Novoair are the main carriers. All routes go through Dhaka, so there are no direct flights between other cities.
+Within cities, cycle rickshaws are the default for short trips — cheap, slow, and good for navigating narrow lanes. Auto-rickshaws (CNG-powered three-wheelers) are faster and better for longer urban distances. Ride-hailing apps (Pathao and Shohoz) now operate in Dhaka and Chittagong and are considerably less stressful than negotiating a fare. In Dhaka, the new Metro Rail line is a revelation — fast, clean, air-conditioned, and genuinely useful for crossing the city.
 
-**River transport** is a uniquely Bangladeshi experience. Overnight launches from Dhaka's Sadarghat terminal to Barisal and other southern destinations depart in the early evening and arrive by morning. The deck class is an adventure; the VIP cabins are surprisingly pleasant. Smaller boats and ferries are essential for reaching river islands and the Sundarbans.
-
-**Within cities**, cycle rickshaws are everywhere and are the best way to cover short distances in traffic. Auto-rickshaws (called CNGs, since they run on compressed natural gas) are faster for medium distances. [Dhaka](/asia/bangladesh/dhaka) now has a metro line connecting the northern suburbs to the city center. Ride-hailing apps like Pathao and Uber work in Dhaka and Chittagong.
-
-Always negotiate the fare before getting into any rickshaw, CNG, or unmetered taxi.
+Road travel in Bangladesh requires patience. Traffic in Dhaka ranks among the worst in Asia, and intercity roads can be unpredictable. For multi-day trips into the hill tracts or the countryside, hiring a car and driver is worth considering.

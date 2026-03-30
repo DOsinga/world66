@@ -5,12 +5,8 @@ latitude: 58.752378
 longitude: 25.331908
 ---
 
-The most northern of the three Baltic States, Estonia has fared well since the break up of the Soviet Union. When in the capital Talinn you notice right away that people are doing well. 
+The most northern of the three Baltic states, Estonia punches well above its weight. It's small — 1.3 million people, roughly the size of the Netherlands — but it packs in a medieval capital, unspoilt national parks, hundreds of islands, and a tech culture that pioneered e-governance and gave the world Skype.
 
+The Soviet occupation ended in 1991, and Estonia has moved fast since then. [Tallinn](/europe/estonia/tallinn) has a strikingly intact medieval old town alongside a buzzing startup scene. [Tartu](/europe/estonia/tartu), two hours south, is the country's university city and intellectual heart. Beyond the cities, more than half the country is forested, the western islands are among the least-visited in Europe, and the national parks fill with mushroom pickers and hikers from spring through autumn.
 
-
-
-
-For the visitor Estonia offers some nice natural parks, a few old towns, some remains from the Middle Ages and a lot of Islands just off the coast. 
-
-Right now we do not have an editor for this region. If you are interested click here
+Estonia uses the euro, English is widely spoken among younger people and in the cities, and the infrastructure is modern and easy to navigate. It rewards slow travel: spend a few days in Tallinn, then head out to Lahemaa National Park or the islands.

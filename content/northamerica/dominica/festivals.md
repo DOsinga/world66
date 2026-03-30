@@ -1,14 +1,14 @@
 ---
-title: "Festivals in Dominica"
+title: "Festivals"
 type: section
 ---
 
-Despite a multitude of local festivities, here are a few **Domincan Republic festivals** most popular among tourists.
+Dominica punches well above its weight for festivals given its population of around 70,000.
 
-**Jazz Festival**
+**Carnival (Mas Dominik)** takes place on the Monday and Tuesday before Ash Wednesday, usually in February or early March. Dominica's carnival is generally considered more authentic and less commercialised than those on neighbouring islands. The focus is on calypso, soca, and traditional mas — costume bands parading through Roseau. Jouvert (the pre-dawn street jump-up) is the rawest and most fun part. The island gets busy; book accommodation early.
 
-The Dominican Republic Jazz Festival is a large event with ties to the very essence of life in this Caribbean nation. Held in three separate localities across the country, this November festival is celebrated in Cabarete, Puerto Plata, and Sosua. The stage is shared between local artists still working to make a name for themselves and international jazz stars who are already working professionally. Aside from daily concerts on the main stage, there are also a number of workshops that you can enroll in if you're into playing jazz and want a unique hands-on experience. There are also special stage sets performed by bands that have a youthful teenage audience following, making this a family friendly festival. You'll find many local hotels offer rates and special packages for this event. You should mention that you're traveling to attend the festival when you book your room.
+**World Creole Music Festival** is Dominica's biggest annual event and one of the Caribbean's finest music festivals. Held over three days in late October — typically the last weekend — it draws Creole musicians from across the diaspora: Martinique, Guadeloupe, Haiti, Reunion, Mauritius, Louisiana, and Dominica itself. The concerts are held at Windsor Park Stadium in Roseau. The festival coincides with Dominica's Independence Day celebrations on November 3, so the whole last week of October into early November has a festive atmosphere.
 
-**Other Major Festivals**
+**Jazz 'n Creole** is held annually in May at Fort Shirley in Cabrits National Park, with the ruins of the 18th-century garrison as the backdrop. It's smaller and more laid-back than the October festival, combining jazz with Creole folk music.
 
-Other major festivals worth looking into include the Santa Domingo Merengue festival in July and the Dominican Republic Global Film Festival, which does not have a set date for each year's occurrence. The film festival, especially, has a wide variety of event offerings. It is held on Cofresi beach and boasts film screenings, discussions, and VIP events. Like all smaller festivals and holidays, these festivals brag lively Latin music, colorful food, handmade crafts, and dancing.
+**Independence Day (November 3)** marks Dominica's independence from Britain in 1978 and is celebrated with parades, cultural shows, and community events across the island.

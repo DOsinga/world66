@@ -5,7 +5,8 @@ latitude: 33.243331
 longitude: -8.49884
 ---
 
-El Jadida, literally meaning 'the new one' is a nice old town on the Atlantic coast, about 100 kilometer south of Casablanca. El Jadida’s open stretch of beach is the town’s main highlight. The beach is a Moroccan destination in the summer, large crowds of Moroccans from Casablanca, Marrakesh, and Fes arrive to tan, swim, and play soccer on the enormous beach. It’s a great place to swim!
- 
+El Jadida, about 100km south of Casablanca on the Atlantic coast, is one of Morocco's most undervisited historic towns. The Portuguese built a fortified settlement here in 1513, naming it Mazagan; the Moroccan sultan Mohammed ben Abdallah captured it in 1769 and renamed it El Jadida ("the new one"). The old Portuguese quarter — the Cité Portugaise — was designated a UNESCO World Heritage Site in 2004.
 
-The Medina is very European in style, a walled seaside village with a few churches lining the roads. The medina was founded in 1513 by the Portuguese and named Mazagan. In 1769, the city was captured by the Moroccans and re-named "El-Jadida". The old town, also called the Cite Portugaise is constantly being restored. Don’t miss a walk around the old town (especially around sunset over the Atlantic), exploring the walls and many chapels. The Portuguese Cistern (9-6) is worth a look if there is water in the underground vault. However, it’s a bit of a disappointment if there is not a thin layer of water to mirror its roof. The cistern was used in Orson Welle’s film Othello.
+The main attraction is the Portuguese Cistern, an underground vaulted chamber originally built to store water. It's atmospheric even when empty, but extraordinary when a thin layer of water covers the floor and mirrors the vaulted ceiling. Orson Welles used it in his 1952 film of Othello. Wandering the walled Portuguese medina at sunset, with the Atlantic visible through the ramparts, is one of the better quiet experiences on the Moroccan coast.
+
+El Jadida's beach is long, wide, and popular with Moroccans from Casablanca and Marrakech in summer. Outside of August, it's uncrowded and pleasant. The town has enough to fill a day, or you could use it as a stop between Casablanca and Essaouira.

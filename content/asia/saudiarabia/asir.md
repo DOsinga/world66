@@ -5,10 +5,8 @@ latitude: 19.166667
 longitude: 43.166667
 ---
 
-asir
+The Asir region in southwest Saudi Arabia is one of the country's best-kept secrets. The mountains around Abha rise above 3,000 metres, trapping monsoon clouds from the Indian Ocean and producing a landscape of terraced hillsides, juniper forests, and waterfalls that feels nothing like the rest of the country. In summer, when the rest of Saudi Arabia bakes, Asir stays comfortably cool — locals and Saudis from the interior come here specifically to escape the heat.
 
-We currently have no information about Asir.
+The traditional stone villages of the region, particularly in the Rijal Alma heritage area, are among the most visually striking in the Arab world: multi-story houses built of dark stone and coloured quartz, with painted interiors. The weekly market at Khamis Mushait draws traders and farmers from across the mountains.
 
-If you do know any general information about Asir, please [Edit this article].
-
-If you know any hotels in Asir or restaurants in Asir, please [[Add].](/destinations/addItemWizard?addwhere=asia/middleeast/saudiarabia/asir)
+Abha is the regional capital and main base. It has a cable car that gives views over the escarpment, a good central market, and decent onward connections. The road south toward Jizan, dropping through the mountains to the Tihama coastal plain, is one of the most dramatic drives in the country.

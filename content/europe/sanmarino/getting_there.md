@@ -3,18 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+San Marino has no airport and no railway station, so you will arrive by road.
 
-Europe can be reached by surface transport from Africa and Asia. Getting there from the other continents involves flying.
+**From Rimini** -- The easiest approach is from Rimini, 22 km away on the Italian Adriatic coast. Bonelli Bus runs a regular service from Rimini train station (the stop is across the road, in front of the Napoleon Hotel) to San Marino's bus terminal near the historic center. The journey takes about 50 minutes and costs around 6 EUR each way. Services run several times daily, with a reduced schedule on Sundays and holidays. Rimini itself is well connected by train to Bologna, Florence, and other Italian cities.
 
- **Air**
+**From Bologna** -- Bologna's Guglielmo Marconi Airport is the nearest major international airport, about 135 km away. From Bologna, take a train to Rimini (about 1-1.5 hours) and then the bus to San Marino.
 
- Europe has lot's of airconnections with all the other continents, except for Antarctica. Indeed, for some connections from Asia to the America's it makes sense to pick up a flight to Europe and then head on. London, Paris, Amsterdam and the bigger German cities have competitive markets for cheap flights. Return Flights to North America (mostly New York) can be had for under 250 Euro. The rest of the world has some excellent connections too.
+**By car** -- San Marino is easy to reach by car from the Italian motorway system. There is no border control. Parking is available outside the old town walls, with the main car parks at P1 and P2 near the bus terminal. In summer, parking fills up quickly on weekends.
 
- Note that the cheapest flight tend to use cheapish Eastern European Airlines. Most of them are ok, but connections tend to be unpractical - although if you pay attention you can get a free hotel night thrown in.
-
- **Surface**
-
- Asia and Europe share the longest continent border of the planet, though most people will cross from/to Asia in Istanbul, where a bridge spans the gap between the continent. Taking the transiberian express is another possiblity. From Greece there are boats to Turkey, Cyprus, Israel, Syria and Libanon.
-
- To Africa the most used route is without doubt the crossing of the Street of Gibraltar, which is easily done, but there are also ships between France and Algeria and from Italy to Tunis, Lybia and Egypt.
+**A cable car** connects the town of Borgo Maggiore at the base of Monte Titano to the historic center of San Marino at the top. If you arrive by car or bus to Borgo Maggiore, this is a scenic and convenient way up.

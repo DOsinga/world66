@@ -3,14 +3,12 @@ title: "Day Trips"
 type: section
 ---
 
-[Here are a few daytrips!
-](/europe/croatia/day_trips)
+Croatia lends itself to day trips, especially from the major coastal bases. A few worth considering:
 
-Minor corrections on 21 May 05
+**From Dubrovnik:** The [Trsteno Arboretum](/europe/croatia/day_trips/the_trsteno_arbore), 18km north of the city, is one of the oldest arboretums in Europe with Renaissance gardens and extraordinary old plane trees. Boat trips to the Elafiti Islands (Šipan, Lopud, Koločep) take you to quieter island life with good swimming beaches.
 
-### [The Trsteno Arboretum
+**From Split:** The Roman ruins of Salona (Solin), just outside the city, were once a city larger than Split itself. Easy to visit by bus. The island of Brač is a short ferry ride away. Klis fortress, perched dramatically above the Kaštela valley, is a good half-day.
 
-More than 300 species of trees and numerous
-plants from around The Mediterranean and the world set around architecture from
-the Gothic-Renaissance period onwards makes The Trsteno Arboretum widely
-acknowledged as one of the finest gardens in this part of Europe. more..](/europe/croatia/day_trips/the_trsteno_arbore)
+**From Zadar:** The waterfalls of the Krka National Park are the most popular excursion. Plitvice Lakes are reachable in around two hours by bus — a long day but doable.
+
+Boat excursions from most coastal towns run to sea caves, national park waters, and nearby islands throughout the summer.

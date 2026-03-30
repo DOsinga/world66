@@ -1,12 +1,16 @@
 ---
-title: "Livingstone"
+title: "Livingston"
 type: location
+latitude: 15.8281
+longitude: -88.7533
 ---
 
-In the midst of a region with very little tourist infrastructure, the Caribbean coast of Guatemala is abundant with beauty yet to be explored. While touring Guatemala's Jade Coast, enjoy the beauty of its animals, plants and tourist attractions: Río Dulce, city of Livingston and
+Livingston is unlike anywhere else in Guatemala. A Garífuna town on the Caribbean coast, it is accessible only by boat — there are no roads in or out — which gives it a pleasantly stranded, tropical atmosphere. The Garífuna are descendants of Afro-Caribbean and indigenous Arawak people, and their culture, language, music, and food are distinct from the rest of the country.
 
-Lake Izabal.  Following a ride along the Rio Dulce river, you reach Livingston, a village with the magic of the Caribbean Garífuna people. The place becomes liveliest during their exotic Afro-Caribbean festivals and celebrations, mainly on December 12th, New Year's and during Carnival. 
+The approach by boat from Río Dulce is half the experience. The river narrows into a spectacular gorge flanked by jungle cliffs before opening into the Caribbean, with Livingston at the mouth. The town itself is small and relaxed, with painted wooden houses, a beach lined with fishing boats, and a reggae-and-cumbia soundtrack.
 
- Above Livingston, the Río Dulce plunges through a great gorge between green cliffs. Tropical and sea birds flitter about and soar above the tangled vegetation. About two miles north of Livingston are the "siete Altares", a series of small pools and waterfalls where the river empties into the sea. Adequate accommodations are found in small hotels.
+The main attraction beyond the atmosphere is the Rio Dulce gorge and its tributaries. Just above Livingston, the river passes through steep canyon walls before widening. Two miles north of town are the Siete Altares — seven small waterfalls and natural pools where the water runs cold and clear. The walk there follows the coastline through forest and is manageable independently.
 
-  We also recommend a visit to the San Gil Ecological Reserve, to the east of the Sierra de los Micos mountain range, over Las Escobas River, a Central American wilderness refuge. It can be accessed from that point 15 km. on a paved and then dirt road. Las Escobas River gives the traveller the opportunity to gaze at the untouched forest, and venture into the jungle where he will find 24 crystalline pools and 14 waterfalls for a refreshing swim.
+Livingston's Garífuna festivals — particularly December 12th (Our Lady of Guadalupe), New Year, and the Garífuna Settlement Day celebrations — are the liveliest times to be in town.
+
+Getting there: lanchas run from Puerto Barrios (30 min) and from Río Dulce town (2 hours through the gorge). There is also a twice-weekly boat to Punta Gorda in Belize.

@@ -1,4 +1,0 @@
----
-title: "Dependencies"
-type: location
----

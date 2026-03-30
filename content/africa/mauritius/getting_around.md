@@ -3,8 +3,22 @@ title: "Getting Around"
 type: section
 ---
 
-"/>
+## Bus
 
-Sir Seewoosagur Ramgoolam International Airport is near Mah&eacute;bourg in south-eastern Mauritius at the opposite end of the island from Port Louis. While there are no direct airport buses express buses travel between the capital and Mah&eacute;bourg several times a day stopping at the airport. Allow yourself at least two hours from Port Louis. Air Mauritius flies to Rodrigues Island (about 90 minutes) daily; the company also offer 15-20 minute helicopter tours of Mauritius. For those with money to burn the helicopters can be hired by the hour. The MV *Mauritius Pride* plies between Mauritius and Rodrigues several times per month.
+Buses are the cheapest way to travel and cover most of the island. Fares are low — typically Rs 20–40 depending on distance. Port Louis and Curepipe are the main hubs; almost all routes connect through one or the other. Buses run from around 5:30am to 8pm on main routes, less frequently in the evening and to remote areas. They can be slow and crowded during rush hours but are reliable enough for getting between major towns and beaches.
 
-Mauritian buses are generally good - albeit a bit slow - and can take you to (or near) just about any place on the island. There are several different operators none of which cover the entire island. Port Louis and Curepipe are the main hubs. Tickets are cheap and should be kept handy as inspectors check them frequently. Mauritian roads range from smooth to potholed and pavement-free. Driving is sketchy at best on Mauritius with speed limits often ignored headlights a rarity and weaving pedestrians all too common. If you think you're up to it you can rent a car in one of the major towns or at the airport. Smallish motorbikes can be rented around Grand Baie. All drivers should have an international drivers' licence and most rental agencies require drivers to be over 23. Driving is on the left. Bicycles and boats can be rented wherever tourists congregate.
+## Metro Express
+
+A light rail line runs between Port Louis and Curepipe via Rose Hill, Quatre Bornes, and Vacoas. It's fast, air-conditioned, and cheap. You'll need an MECard (a prepaid smart card) to ride — available at stations. The Metro Express is the most comfortable public transport option on the island and well worth using if your route covers the central corridor.
+
+## Taxi
+
+Taxis are plentiful but have no meters. Always agree on a fare before getting in. A journey from the airport to Grand Baie costs around Rs 1,500–2,000. Within Port Louis, short hops run Rs 150–300. Apps including Yugo and MauriRide offer fixed pricing and are a good way to avoid haggling.
+
+## Car Rental
+
+Renting a car gives you the most freedom. Rates start at around Rs 1,200–2,000 per day for a basic manual. All major agencies are at the airport; local operators in tourist areas tend to be cheaper. Driving is on the left. An international driving licence is required, and most agencies will not rent to drivers under 23. Roads in the central highlands and south are narrow; the main coastal roads are generally good. Traffic around Port Louis during rush hour is severe.
+
+## Air and Sea to Rodrigues
+
+Air Mauritius flies to Rodrigues daily (approximately 1 hour 30 minutes) from Sir Seewoosagur Ramgoolam Airport. The MV Mauritius Trochetia operates a passenger ferry service two to three times per month (roughly 36 hours each way).

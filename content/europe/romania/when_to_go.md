@@ -1,16 +1,16 @@
 ---
-title: "When to Go in Romania"
+title: "When to Go"
 type: section
 ---
 
-Romania is a fascinating country full of medieval towns and churches, greatly beautiful landscapes and natural, undeveloped areas, and if you are planning a trip to **Romania**,** when to go** is a question you'll probably like to have answered. Although Romania is not one of the most popular tourist destinations for visitors from the western countries, it is nonetheless a popular destination amongst eastern Europeans and other travelers, and there are certain times of the year when it is better or worse to go in order to avoid the throngs of tourists that can clog up some of the most popular destinations and attractions. Additionally, although the weather throughout most of the year is generally mild, Romania does experience some bad weather that may cause you to think twice about visiting during certain months.
+Romania has four distinct seasons, and the right time to visit depends on what you're planning to do.
 
-**Weather Considerations**
+**Spring (April–June)** is the best all-round season. The countryside turns green, wildflowers blanket the meadows, and temperatures are pleasant across most of the country — warm in the lowlands, cool in the mountains. Crowds are modest and prices reasonable. Easter, celebrated with particular intensity in Romania (Orthodox Easter falls in April or May), is worth experiencing if you can time it right.
 
-The best weather for all of Romania is during the spring and early summer months, from around March through June. The early fall is also quite a nice time to visit as well. Most of Romania gets reasonably hot during July and August, and the bigger concern for many travelers is the frigid winter that extends from November through February or March. Keep in mind also that areas closer to the Black Sea at lower elevation will generally be a bit warmer, and areas high up in the mountains are usually colder by 15 or so degrees than the average temperature.
+**Summer (July–August)** brings heat to the plains and the Black Sea coast. The coast becomes crowded and expensive in July and August, and even mountain resorts fill up. That said, summer is festival season — Untold and Electric Castle draw huge crowds to Cluj, and village festivals animate the countryside. Hiking in the Carpathians is excellent in summer, with long daylight hours.
 
-**Tourists**
+**Autumn (September–October)** is arguably the most beautiful time to visit Transylvania and the mountain regions. Forests turn red and gold, the harvest is in, and tourist numbers drop sharply after mid-September. Temperatures are still comfortable. Wine country around Cotnari and Dealul Mare is at its best.
 
-While there is a constant stream of European tourists between the months of March and August, as many Europeans have the summer months free, there are generally not as many throughout the rest of the year. Still, expect that some of the most popular sites, including the Black Sea coast, Dracula's castle, and the capital city of Bucharest, will be quite crowded at all times. For this reason, if you want to see these sites, you should probably avoid going during the summer months.
+**Winter (November–March)** is cold and often snowy, especially in Transylvania and the mountains. The ski resorts at Poiana Brasov, Sinaia, and Predeal come into their own. Christmas markets in Sibiu, Brașov, and Bucharest are atmospheric and increasingly popular. Expect some rural roads to be difficult or impassable without winter tyres. The Painted Monasteries of Bucovina look particularly striking under snow, and you'll have many of them almost to yourself.
 
-For more information about visiting Romania and on deciding when to schedule your trip, consult with a travel company in your area. You can also visit the tourism board website for the city or region of the country that you're planning to visit for additional guidance as to how to plan your trip. All in all, however, Romania experiences lower tourism levels and milder weather than many other destinations in the area
+The Black Sea coast is essentially a summer destination — most hotels and restaurants close between October and May.

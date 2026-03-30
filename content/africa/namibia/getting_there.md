@@ -3,26 +3,26 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Namibia's national airline is *Air Namibia (SW)* * *which provides thrice-weekly direct flights from Heathrow to Windhoek via Frankfurt/M. Other airlines include *South African Airways * *Lufthansa* and *LTU International Airways*.
+The main international gateway is **Hosea Kutako International Airport (WDH)**, 45km east of [Windhoek](/africa/namibia/windhoek). Most international visitors fly in via Johannesburg or Cape Town, which have frequent connections to Europe, North America, and Asia. Ethiopian Airlines flies direct from Addis Ababa, providing a useful connection from East Africa and beyond. European charter and scheduled services land directly in Windhoek during peak season — Edelweiss Air (from Zurich) and Condor (from Frankfurt) among them.
 
-Approximate flight time:
+Airlink is the dominant regional carrier, with multiple daily flights between Windhoek and South African cities. SAA, FlyNamibia, and Proflight Zambia also serve the region.
 
-From *London* to Windhoek is 12 hours (including a stopover of 2 hours and 35 minutes in Frankfurt/M).
+A second airport, Eros Airport, handles domestic and short-haul regional flights and is closer to the city center.
 
-International airport
+## Visa Requirements
 
-*Windhoek (WDH)* (Windhoek International Airport) is 40km (25 miles) from the city (travel time  35 minutes). Buses and taxis go to the city. Airport facilities include restaurant bar snack bar post office currency exchange and car hire.
+From April 2025, citizens of many countries — including the USA, UK, Canada, Australia, Germany, and France — require a visa to enter Namibia. A visa on arrival is available at Hosea Kutako Airport and major border crossings, costing around N$1,600 per adult. You can also apply for an e-visa before you travel. Citizens of South Africa, Zimbabwe, Zambia, Botswana, and most SADC countries remain visa-exempt. Check current requirements at the official Namibia e-visa portal before travelling.
 
-Sea
+Your passport must be valid for at least six months beyond your arrival date and have at least three blank pages.
 
-There is a modern deep-water harbour at Walvis Bay. There is also a small port at L&uuml;deritz.
+## Overland
 
-Rail
+The main land borders are with South Africa, Botswana, Zimbabwe, Zambia, and Angola. The Noordoewer/Vioolsdrift border with South Africa on the N7 is the main southern entry point for self-drivers coming from Cape Town. The Trans-Kalahari Highway links Namibia to Botswana and onward to South Africa's Gauteng province — a popular route for overlanders.
 
-The railway network linking most towns in Namibia to Windhoek is joined to the RSA rail system at Ariamsulie Namibia. There is one train per week with connections from Cape Town and Johannesburg as follows: JohannesburgDe AarKeetmanshoopWindhoek and Cape TownWindhoek.
+Intercape runs scheduled coach services between Windhoek and Cape Town (around 18 hours) and between Windhoek and Johannesburg. Book well in advance during school holidays.
 
-Road
+## By Sea
 
-A tarred road runs from the south through Upington in South Africa to Gr&uuml;nau where it connects with the tarred road from Cape Town. The untarred road from the east from Botswana to Gobabis is currently being upgraded as part of a new trans-Kalahari highway.
+Walvis Bay has a functioning deep-water port that occasionally receives cruise ships. Lüderitz has a small harbour used mainly for fishing and oyster boats. Neither offers regular passenger ferry services.

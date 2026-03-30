@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 23 784 321 (July 1998 est.)
+Uzbekistan has a population of around 37 million, making it the most populous country in Central Asia by some margin. The majority are ethnic Uzbeks, with significant Tajik, Russian, Kazakh, and Karakalpak minorities. The Tajik community is concentrated in [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara), where Tajik-speakers have lived for centuries alongside Uzbek-speakers — the linguistic boundary between the two is fluid and historically contested.
 
-**Age structure:**
+The Russian population, once substantial across all the Soviet republics, has diminished since independence in 1991 through emigration. Russian is still widely spoken, particularly in Tashkent and among urban professionals.
 
-*0-14 years:* 38% (male 4 591 140; female 4 451 246)
+Islam is the dominant religion, mostly Sunni, and has been part of Central Asian life for over a millennium. The Soviet era suppressed religious practice, and the post-independence government maintained tight control over religious institutions out of concern about extremism. In practice, Uzbeks are generally moderate in their observance: you'll see mosques in use throughout the country, women with and without headscarves, and the occasional vodka bottle at the dinner table. The culture is Muslim by identity and tradition rather than strictly by practice.
 
-*15-64 years:* 57% (male 6 755 371; female 6 874 483)
+Uzbeks are genuinely hospitable people. An invitation for tea — or more likely, a full meal — is genuine and common. Sharing food and sitting with guests is a serious cultural value. The teahouse (chaikhana) is a social institution: men gather to drink green tea, eat, and talk for hours. Don't hurry anyone.
 
-*65 years and over:* 5% (male 435 036; female 677 045) (July 1998 est.)
+Traditional practices around hospitality, communal labor (hashar), and social hierarchy around age are still strong, particularly outside of Tashkent. Elders are addressed formally and given deference. Shoes are removed at the entrance to homes. Pointing the soles of your feet at someone is considered rude.
 
-**Population growth rate:** 1.33% (1998 est.)
-
-**Birth rate:** 23.69 births/1 000 population (1998 est.)
-
-**Death rate:** 7.68 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -2.68 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 0.98 male(s)/female
-
-*65 years and over:* 0.64 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 71.04 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 64.11 years
-
-*male:* 60.49 years
-
-*female:* 67.91 years (1998 est.)
-
-**Total fertility rate:** 2.87 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Uzbekistani(s)
-
-*adjective:* Uzbekistani
-
-**Ethnic groups:** Uzbek 80% Russian 5.5% Tajik 5% Kazakh 3% Karakalpak 2.5% Tatar 1.5% other 2.5% (1996 est.)
-
-**Religions:** Muslim 88% (mostly Sunnis) Eastern Orthodox 9% other 3%
-
-**Languages:** Uzbek 74.3% Russian 14.2% Tajik 4.4% other 7.1%
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 97%
-
-*male:* 98%
-
-*female:* 96% (1989 est.)
+The Karakalpak people of the autonomous region in the west are ethnically and linguistically distinct from Uzbeks — closer to the Kazakhs — and have a strong tradition of felt-work, jewelry, and yurt-making that the Savitsky Museum in [Nukus](/asia/uzbekistan/nukus) documents extensively.

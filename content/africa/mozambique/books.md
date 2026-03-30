@@ -3,100 +3,22 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Mozambique has produced some of Africa's finest contemporary literature. Reading a few of these before or during your trip will give the country real depth.
 
-**Lonely Planet Malawi, Mozambique and Zambia**
+**Fiction**
 
+*Sleepwalking Land* (Terra Sonâmbula) by **Mia Couto** is the place to start. Mozambique's most internationally celebrated writer — and Nobel Prize contender — weaves magical realism through a story set during the civil war, following a boy and an old man sheltering in a burnt-out bus. Beautiful and devastating. Couto's *The Tuner of Silences* and *Under the Frangipani* are also excellent.
 
+*Niketche: A Story of Polygamy* by **Paulina Chiziane** — Mozambique's first published female novelist — follows a woman who discovers her husband has four other wives and decides to take radical action. Sharp, funny, and unsparing about gender and tradition.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424620/ref=ase_osingacom?v=glance&s=books)
+*Ualalapi* by **Ungulani Ba Ka Khosa** reconstructs the violent final years of Ngungunhana, the last Tsonga king of the Gaza Empire before Portuguese conquest. Short and intense.
 
-author: David Else
+**History and non-fiction**
 
-isbn: 0864424620
+*A History of Mozambique* by **Malyn Newitt** remains the standard academic account — thorough if dry. For something more readable, **William Finnegan**'s *A Complicated War: The Harrowing of Mozambique* (1992) covers the civil war through on-the-ground reporting and holds up extraordinarily well.
 
-subject: travel
+*Guns, Germs, and Steel* author **Jared Diamond** devotes discussion to how Mozambique's geography shaped its history — a useful framing for understanding the north-south divide you'll notice travelling the country.
 
-**Three Plays:Bagdad Saloon, Beyond Mozambique, Ramona and the White Slaves**
+**Poetry**
 
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0889100780/ref=ase_osingacom?v=glance&s=books)
-
-author: George F. Walker
-
-isbn: 0889100780
-
-subject: culture
-
-**Political Posters in Ethiopia and Mozambique:Visual Imagery in a Revolutionary Context**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9155426425/ref=ase_osingacom?v=glance&s=books)
-
-author: Berit SahlstrFom
-
-isbn: 9155426425
-
-subject: culture
-
-**Work Culture and Identity:Migrant Laborers in Mozambique and South Africa, Circa 1860-1910**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/043508092X/ref=ase_osingacom?v=glance&s=books)
-
-author: Patrick Harries
-
-isbn: 043508092X
-
-subject: culture
-
-**Fifty Days on Board a Slave-Vessel :In the Mozambique Channel April and May, 1843**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0933121466/ref=ase_osingacom?v=glance&s=books)
-
-author: Pascoe Grenfell Hill
-
-isbn: 0933121466
-
-subject: history
-
-**A History of Mozambique**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0253340071/ref=ase_osingacom?v=glance&s=books)
-
-author: Malyn Newitt
-
-isbn: 0253340071
-
-subject: history
-
-**A Different Kind of War Story**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0812216210/ref=ase_osingacom?v=glance&s=books)
-
-author: Carolyn Nordstrom
-
-isbn: 0812216210
-
-subject: history
-
-**Touring Southern Africa:Independent Holidays in South Africa, Botswanan, Namibia, Lesotho, Swaziland, Mozambique an..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844247596/ref=ase_osingacom?v=glance&s=books)
-
-author: Melissa Shales
-
-isbn: 0844247596
-
-subject: travel
+**José Craveirinha** is considered Mozambique's greatest poet — anti-colonial, lyrical, and deeply rooted in Maputo street life. His collected works are harder to find in translation but worth seeking out.

@@ -1,52 +1,20 @@
 ---
 title: "Festivals"
 type: section
-address: "Everwehere!"
-date: "26th January"
-email: "info@australiaday.gov.au"
-phone: "02 6120 0600"
-url: "www.australiaday.gov.au"
 ---
 
-### [Australia Day](/australiaandpacific/australia/festivals/australia_day)
+Australia's festival calendar is varied and often world-class. The concentration of outdoor events in summer (December–February) reflects the climate, though the arts festivals tend to cluster in autumn, when the heat has eased.
 
-Australia Day, January 26, is the biggest day of celebration in the country and is observed as a public holiday in all states and territories.
+**Sydney Gay and Lesbian Mardi Gras** (February–March) is one of the largest LGBTQ+ events in the world. The parade along Oxford Street draws hundreds of thousands of spectators; the festival surrounding it runs for several weeks. Sydney is genuinely welcoming during this period and the atmosphere is exceptional.
 
-On Australia Day we come together as a nation celebrate what's great about Australia and being Australian. It's the day to reflect on what we have achieved and what we can be proud of in our great nation.
+**Adelaide Festival** (March, biennial) is Australia's most prestigious arts festival — opera, theatre, dance, music, and literature staged across the city over three weeks. The associated Adelaide Fringe (every year, also March) is the world's second-largest fringe festival after Edinburgh, with hundreds of acts in venues ranging from theatres to converted carparks.
 
-It's the day for us to re-commit to making Australia an even better place for the future.
+**Melbourne International Comedy Festival** (March–April) is one of the world's largest, running for four weeks with local and international acts across the city.
 
-What's great about Australia?
-There are many great things about this country:
+**Byron Bay Bluesfest** (Easter long weekend, April) gathers blues and roots musicians — local and international — to a festival site just outside Byron Bay. The lineup consistently punches above its weight, and the setting (a short drive from the beach) is hard to fault.
 
-The people - The life savers on [more..](/australiaandpacific/australia/festivals/australia_day)
+**Vivid Sydney** (May–June) turns the harbour precinct into an immersive light installation for three weeks each winter. Light projections onto the Opera House and Harbour Bridge, music events, and an ideas forum. Free to attend (the outdoor light walks).
 
+**Melbourne Cup** (first Tuesday in November) is a horse race at Flemington that genuinely stops the country. It's a public holiday in Victoria; the rest of Australia watches at whatever bar or workplace has a screen. The fashion — particularly the hats — is as much an event as the race itself.
 
-
-[[rate it]](/australiaandpacific/australia/festivals/australia_day)
-
-tel: 02 6120 0600
-
-url: [www.australiaday.gov.au](http://www.australiaday.gov.au/)
-
-date: 26th January
-
-address: Everwehere!
-
-email:
-
-### [Coogee Arts Festival](/australiaandpacific/australia/festivals/coogee_arts_festiv)
-
-The [**Crowne Plaza** **Coogee Arts Festival**](/australiaandpacific/australia/festivals) is the largest arts festival in the eastern suburbs of Sydney. Commencing in 2004 with performances of Shakespeare's "Twelfth Night" the festival now encompasses over 30 days and nights of theatre, music, film, comedy and community events, every February, in and around the parks and beaches of Coogee, Sydney.
-
-
-
-[[rate it]](/australiaandpacific/australia/festivals/coogee_arts_festiv)
-
-url: [www.coogeeartsfestival.com.au](http://www.coogeeartsfestival.com.au)
-
-date: every February
-
-address: Coogee Beach, Sydney
-
-email:
+**Australia Day** (26 January) marks the 1788 arrival of the First Fleet at Sydney Cove. It is a public holiday, observed with barbecues, fireworks, citizenship ceremonies, and increasingly, public debate. For many Aboriginal Australians it represents the beginning of colonisation; the date is contested, and "Invasion Day" counter-events are now held in most cities.

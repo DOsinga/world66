@@ -3,24 +3,14 @@ title: "Sights"
 type: section
 ---
 
-**all**
+Windhoek's sights are modest — this is a small capital, not a museum city — but there are a handful of things worth seeing, mostly clustered in the walkable city center.
 
-**Alte Feste and the Owela museum **
+**Christuskirche** is the city's most recognisable landmark: a German Lutheran church from 1907 sitting on a traffic island at the top of Peter Muller Strasse. The neo-Gothic and Art Nouveau hybrid design is striking, and you can go inside during opening hours.
 
-The whitewashed ramparts of Alte Feste, Windhoek’s oldest surviving building, date from 1890-92. It originally served as the headquarters of the Schutztruppe, which arrived in 1889 under the command of Major Curt von Francois. Minor alterations of made in 1901 didn’t affect the overall charac [more..](/africa/namibia/windhoek/sights/altefesteandtheowelamuseum)
+**Alte Feste** is Windhoek's oldest surviving building, a whitewashed German colonial fort from 1890 that originally served as the headquarters of the Schutztruppe. It now houses the Independence Memorial Museum. The adjacent **Owela Museum** covers Namibian natural history and is worth an hour.
 
-**National Gallery **
+**The National Gallery of Namibia** on the corner of Robert Mugabe Avenue and John Meinert Strasse holds a permanent collection of work reflecting Namibian history and contemporary art, as well as visiting exhibitions. It's small but well curated.
 
-The national Gallery (061) 231160), on the corner of Robert Mugabe Ave and John Meinert Strasse, contains a permanent collection of works reflecting Namibia’s historical and natural heritage. It also hosts visiting exhibition. 
+**Post Street Mall** in the pedestrian center has the famous Gibeon meteorite display — fragments of an ancient meteorite shower scattered along the walkway. It's an odd, charming touch in the middle of an otherwise ordinary shopping precinct.
 
-**Tsumeb Mining Museum **
-
-Tsumeb’s history is told in this museum, housed in the old German private school, which dates from 1925. The building served two brief periods as a school and also did a stint as a hospital for German troops. In addition to outstanding mineral displays (I guarantee you’ll never have seen anyt [more..](/africa/namibia/windhoek/sights/tsumebminingmuseum)
-
-**Kaiseliche Realschule **
-
-Windhoek’s first German primary school, which was build in1907-8. It opened in1909 with 74 students, but over the next few years’ enrolment increased and the building had to be enlarged. The building later housed Windhoek’s first German high school and after WWII an English middle school. A [more..](/africa/namibia/windhoek/sights/kaiselicherealschule)
-
-**Christuskirche**
-
-Windhoek’s best-recognised landmark, the German Lutheran Christuskirche, stands on a traffic island at the top of Peter Muller Strasse.
+**Katutura township** to the northwest is not a sight in the conventional sense, but a guided walking or driving tour through the former apartheid-era township gives real insight into modern Namibia. Several operators run half-day tours; the kapana grilled-meat market is a highlight.

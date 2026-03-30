@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 10 174 922 (July 1998 est.)
+Belgium has a population of around 11.6 million, making it one of the most densely populated countries in Europe. It is also one of the most divided — the language boundary between Dutch-speaking Flanders in the north and French-speaking Wallonia in the south runs east-west through the middle of the country, cutting through Brussels' suburbs. The capital itself is officially bilingual, though French dominates in daily life.
 
-**Age structure:**
+The Flemish and Walloons have co-existed uneasily for most of Belgium's history. The country has set records for going without a functioning federal government — after the 2010 elections it went 541 days without one, and broke that record again after 2019. In practice, most things that affect daily life are handled at the regional level, and Belgium continues to function regardless.
 
-*0-14 years:* 17% (male 903 954; female 860 940)
+A small German-speaking community of around 75,000 people lives in the cantons east of [Liege](/europe/belgium/liege), around the towns of Eupen and Malmedy. They have their own regional government and are constitutionally recognized as a third linguistic community.
 
-*15-64 years:* 66% (male 3 387 329; female 3 318 221)
+Brussels is highly international — roughly a third of its residents are non-Belgian, reflecting its role as home to EU institutions, NATO, and a large number of international companies. The city has significant Moroccan, Turkish, and Congolese communities, a legacy of both labour immigration and Belgium's colonial past.
 
-*65 years and over:* 17% (male 693 519; female 1 010 959) (July 1998 est.)
-
-**Population growth rate:** 0.09% (1998 est.)
-
-**Birth rate:** 10.21 births/1 000 population (1998 est.)
-
-**Death rate:** 10.41 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 1.05 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1.02 male(s)/female
-
-*65 years and over:* 0.68 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.27 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 77.35 years
-
-*male:* 74.13 years
-
-*female:* 80.74 years (1998 est.)
-
-**Total fertility rate:** 1.49 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Belgian(s)
-
-*adjective:* Belgian
-
-**Ethnic groups:** Fleming 55% Walloon 33% mixed or other 12%
-
-**Religions:** Roman Catholic 75% Protestant or other 25%
-
-**Languages:** Flemish 56% French 32% German 1% legally bilingual 11%
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99% (1980 est.)
-
-*male:* NA%
-
-*female:* NA%
+Belgians are generally reserved on first acquaintance but warm and hospitable once the ice is broken. They take food and drink seriously — a quality meal or a well-chosen beer is a point of civic pride. They also have a strong tradition of self-deprecating humour, and are accustomed to outsiders knowing almost nothing specific about their country.

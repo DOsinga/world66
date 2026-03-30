@@ -1,18 +1,14 @@
 ---
-title: "When to Go in Bahamas"
+title: "When to Go"
 type: section
 ---
 
-**Weather**
+The Bahamas has two clear seasons. The dry season runs from December through April — cooler temperatures (around 21–27°C / 70–80°F), low humidity, and minimal rain. This is peak tourist season: prices are higher, hotels fill up, and Nassau's cruise-ship crowds are at their thickest. Book well in advance if you're coming between Christmas and Easter.
 
-When should you travel to the Bahamas? Isn't that a wonderful dilemma to have? If you're basing this decision purely on weather, then there is great news. There really isn't a bad time to visit the tropical paradise that is the Bahamas. Temperatures in the winter and fall usually stay between 70 and 80 degrees. Nights during these seasons rarely drop below 65 degrees and makes for a very comfortable vacation. Spring and summer temperatures stay between 80 and 90 degrees. This may sound hot, but winds that below across the islands really help cool things off. Thus whatever season that you choose to visit the Bahamas you can still wear your bikini and enjoy the warm water.
+The wet season runs from May through November. Temperatures climb to 29–32°C (84–90°F) with higher humidity, and afternoon rain showers are common. Hurricane season officially runs June through November, with September the most active month. That said, direct hits on the Bahamas are relatively rare, and storms are well-tracked — with some flexibility in your plans you can usually dodge bad weather.
 
-Hurricane season, lasting from June until November, may pose a threat to travelers. However, hurricanes are easy to track and you can tell if the Bahamas are going to be in the potential line of danger. Vacation plans can be canceled and set for another date. Hotels are usually more than willing to reschedule, but before you make reservations it is always important to ask their policy on cancellations. Rain does get more frequent during this time, especially throughout the month of September.
+The shoulder months of May and November offer a reasonable compromise: fewer crowds, lower prices, and weather that's warm without being oppressive. The Exumas and outer islands are at their most beautiful in calm summer conditions, when the water is flat and visibility for snorkeling and diving is excellent.
 
-**The "In" Season**
+**Junkanoo** draws the biggest crowds over Christmas and New Year. If you want to see it, plan around Boxing Day (26 December) or New Year's Day in Nassau, when the main parades run through the night on Bay Street.
 
-During the "in" season, which last between December and April, the islands of the Bahamas become very vibrant. It's a fun time to visit this destination, but it's also the most busy time of the year to visit. Hotel rates do tend to be much higher during this time and reservations should be made at least three months ahead of time. Flights should even be booked early as well. Smaller groups should visit the Bahamas when it is the "in" season. It becomes very stressful for larger groups or families to navigate through the crowds and enjoy their time on the islands.
-
-**The "Off" Season**
-
-The "off" season last from the end of April until the beginning of December. During this time the islands resume their laid-back attitude and things are done at a slower pace. Also, hotels and flights can be booked at a price that can be up to 60% cheaper. Although, sometimes many of the attractions and tours cut their hours or close throughout the "off" season. This is a nice time for families to visit and enjoy the tropical sun.
+For **diving and fishing**, the Bahamas is good year-round. Bonefishing is best from November through June when the fish are most active in the shallows. Blue marlin peaks between May and August.

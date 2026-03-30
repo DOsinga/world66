@@ -1,27 +1,14 @@
 ---
-title: "Herceg-novi"
+title: "Herceg Novi"
 type: location
 latitude: 42.451762
 longitude: 18.536752
 ---
 
-Travel Guide
+Herceg Novi sits at the entrance to the Bay of Kotor, just a few kilometres from the Croatian border. It's the first town you'll reach coming from Dubrovnik, and it makes for a pleasant introduction to Montenegro — less touristed than Kotor, more authentic than Budva.
 
-Herceg Novi is located close to the border with Bosnia Herzegovina and
-[Croatia](/europe/croatia), some 70 km by road west of
-[Podgorica](/europe/serbiaandmontenegro/podgorica) the
-capital of Montenegro. Just north of the Bay of Kotor the strategical
-position of Herceg Novi gave the city its importance. Hardly surprising
-that the main sights are the city gates and some fortresses. You may
-also want to have a look at the church and the monastery of Savina.
+The old town climbs steeply up the hillside, with a mix of architectural layers reflecting centuries of different rulers: the Kanli Kula (Bloody Tower) fortress at the top, the Sahat Kula (Clock Tower) in the main square, Ottoman mosques, and a baroque seafront. The Forza Mare castle sits right on the water. There are good views of the bay from the upper town.
 
-During summer tourist season you can enjoy
-great nightlife in Herceg Novi. This town has a lot of interesting dance nightclubs, cafes
-and restaurants located by the sea, or placed on beautiful old fortresses.
+Herceg Novi has a reputation among Montenegrins for its mild climate — mimosas bloom in winter, and it's noticeably warmer than inland areas. The main promenade runs along the seafront below the old town, with restaurants and cafes that get lively on summer evenings.
 
-A visit to Herceg Novi can be combined with
-[Perast](/europe/serbiaandmontenegro/perast) and
-[Kotor](/europe/serbiaandmontenegro/kotor).
-
-More information on
-*Herceg Novi Travel*
+The town is a good base for exploring the northern part of the bay, and a starting point for the ferry shortcut across the bay to Lepetane (saving the long drive around). It's about 40km by road to [Kotor](/europe/montenegro/kotor), or 15 minutes by ferry across the narrowest part of the bay.

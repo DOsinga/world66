@@ -5,8 +5,8 @@ latitude: 43.626683
 longitude: 22.686117
 ---
 
-We currently have no information about Belogradchik.
+Belogradchik is a small town in northwest Bulgaria, best known for the extraordinary rock formations that surround it. The Belogradchik Rocks are sandstone and conglomerate formations rising up to 200 metres, carved by erosion into towers, pillars, and figures that local legend has given names — "The Madonna", "The Monks", "The Bear". The setting is genuinely dramatic.
 
-If you do know any general information about Belogradchik, please [Edit this article].
+Built into the rocks is the Belogradchik Fortress, one of the best-preserved medieval fortresses in Bulgaria. The Romans laid the original foundations; the Bulgarians and then the Ottomans expanded it over centuries. The walls and towers integrate seamlessly with the rock faces — it's an impressive piece of military engineering. Combined with a walk among the rock formations, a visit takes a half-day.
 
-If you know any hotels in Belogradchik or restaurants in Belogradchik, please [[Add].](/destinations/addItemWizard?addwhere=europe/bulgaria/belogradchik)
+The town itself is small and unhurried. There are a handful of guesthouses and restaurants. Most visitors come as a day trip from [Vidin](/europe/bulgaria/vidin) (about 50 km to the north) or as a stop on the way between Sofia and the Danube.

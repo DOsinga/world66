@@ -1,32 +1,30 @@
 ---
 title: "Getting Around"
 type: section
-address: "Kulendra"
-email: "info@nepalvisitors.com"
-phone: "+977-1-4263133"
-url: "nepalvisitors.com"
 ---
 
-Nepal is a small country on the lap of the Himalayas but full of diverse attractions for travelers. From trekking in the Himalayas to elephant back safaris and the the medieval arts and architectures of Kathmandu , all are very alluring for foreign visitors.
+Nepal is small on the map but slow to cross. The roads are rough, mountain terrain adds hours to journeys, and the monsoon regularly closes routes. Build in plenty of time and don't plan connections that depend on arriving exactly when expected.
 
-With world's eight out of ten highest mountains in its territories, Nepal is the ideal destination for trekking and climbing the Himalayas. Most popular trekking regions are the famous Everest and Annapurna regions. Treks of different duration from a week long hiking to several weeks of trek crosssing challenging himalayan passes are available.
+## Buses
 
-For further information on [Nepal trekking](/asia/nepal/everest_region) you can visit our following website.
+Buses are the backbone of domestic travel. Tourist buses between Kathmandu and Pokhara (about 7–8 hours) are comfortable enough and run daily from the tourist areas; fares are around NPR 1,000–2,000. Night buses to more distant destinations exist but are tiring and arrive at awkward hours.
 
-www.greatholidaysnepal.com
+Local buses are the cheapest option but cramped, slow, and prone to delays. For short trips or if you're not in a hurry, they work fine. For anything over four hours, the tourist bus is worth the extra cost.
 
-### [Nepal Visitors](/asia/nepal/getting_around/nepal_visitors)
+The road from Kathmandu to Pokhara is the country's main highway and still takes most of a day. Journeys to the Terai or eastern Nepal can take 8–14 hours.
 
-http://nepalvisitors.com/
+## Domestic Flights
 
+Flying is often the sensible choice. Buddha Air and Yeti Airlines operate reliable scheduled services between Kathmandu, Pokhara, and regional airports. One-way tickets typically cost $80–150. Flights to mountain airstrips like Lukla (the main gateway to the Everest region) are weather-dependent and subject to delays — build in extra days on either side of these connections.
 
+Note: during peak trekking season (October–December), domestic flights to Lukla depart from Ramechhap, about five hours from Kathmandu by road. Factor in the early morning drive when planning.
 
-[[rate it]](/asia/nepal/getting_around/nepal_visitors)
+## Taxis and Rickshaws
 
-tel: +977-1-4263133
+In Kathmandu, metered taxis exist but drivers rarely use the meter. Agree on a fare before getting in, or use a ride-hailing app (Pathao and InDrive both operate in Kathmandu). A typical trip within the city costs NPR 200–500. Auto-rickshaws and cycle rickshaws are useful for short hops in the old city.
 
-url: [nepalvisitors.com](http://nepalvisitors.com/)
+## Trekking Transport
 
-address: Kulendra
+Most trek starting points are reached by jeep, bus, or domestic flight. Jeep hire (private or shared) is the standard way to reach trailheads that aren't served by regular buses. Local teahouse operators can arrange this; it's not expensive when split between a group.
 
-email: info@nepalvisitors.com
+For the Annapurna region, [Pokhara](/asia/nepal/pokhara) is the base. For the Everest region, you fly to Lukla or occasionally start from Jiri (by bus, for a longer traditional approach). For Langtang, a bus or jeep from Kathmandu gets you to Syabrubesi.

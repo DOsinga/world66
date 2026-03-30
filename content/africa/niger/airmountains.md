@@ -5,18 +5,16 @@ latitude: 17.85
 longitude: 8.75
 ---
 
-The Air Mountains are north of [Agadez](/africa/niger/agadez). They are a very impressive natural wonder and absolutely worth a visit. North of the Air mountains tsart the Tenere desert, and further northeast you can find the Djado Plateau. 
+The Air Mountains rise dramatically from the Sahara north of [Agadez](/africa/niger/agadez) — a volcanic massif roughly the size of Switzerland, with peaks reaching above 2,000 metres. Mt Bagzane, about 150 km north of Agadez, is the highest point at around 2,022 metres. The contrast with the surrounding desert is startling: the mountains support real vegetation, permanent springs, and wildlife that doesn't exist in the plains below.
 
-The mountain massif covers an area about the size of Switzerland. One of the more surprising aspects of the Mountains is that there is some really interesting flora anf fauna, not just camels. 
+The Air contains some of the finest prehistoric rock art in Africa. The Dabous petroglyphs — two massive neolithic giraffe carvings in stone — are among the most famous examples of Saharan rock art in the world.
 
-The highest peaks reach 2000 meters, Mt Bagzane some 150 km north of Agadez is just above that. 
+## Timia
 
-Timia
+Timia is the jewel of the Air Mountains — a lush oasis about a day's drive east of Agadez, surrounded by date palms and vegetable gardens irrigated by a permanent spring. The town is unspoiled, the Tuareg community welcoming, and the setting extraordinary. A restored French Foreign Legion fort on the hilltop can provide meals and simple accommodation. It's one of the finest places to spend a few days in all of Niger.
 
-Timia is a small oasis in the middle of the Aiir Mountains, about a days drive to the East of Agadez. It features a rehabilitated French Foreign Legion fort on the hill top that can provide meals and a place to sleep. The town itself is unspoiled and easy to visit. The Tuareg in Timia are very friendly and very gracious. It's one of the finest places to visit in Niger
+## Getting There
 
+The Air Mountains are not independently accessible. You need a 4WD, a guide, and government permits. Tour operators in Agadez arrange everything, typically as part of a 5-7 day circuit that combines the mountains with the Tenere Desert. See the [Tours section in Agadez](/africa/niger/agadez/tours) for details.
 
-
-Air Massif/Tenere Desert Tour
-
-Recommended Tour and Guide for the Air Massif and Tenere Desert. Tours begin from Niamey or Agadez. Contact Caravane Tours by email at Moussa.Haidara@caramail.com. Our tour included visit Iferouane and Timia in the Massif. Timia is especially beautiful, there is a spring there. We also stayed in an area of fabulous dunes in the Tenere Desert. Our highlight though was having our tuareg guide take us to spend a night in a tuareg camp. I highly recommend this tour and guide. Can be arranged with driver only or complete with food and cook.
+The security situation in the Air region has fluctuated over the years and armed incidents have occurred. Always get a current briefing from your tour operator before setting out.

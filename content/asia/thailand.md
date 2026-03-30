@@ -5,52 +5,14 @@ latitude: 14.897192
 longitude: 100.83273
 ---
 
-Travel Guide
+More people visit Thailand than any other country in Southeast Asia, and it's not hard to see why. The country has excellent infrastructure, extraordinary food, a rich Buddhist culture, some of the best beaches in Asia, and a reputation for genuine hospitality. It ranges from the chaos and energy of [Bangkok](/asia/thailand/bangkok) to mountain forests, ruined ancient capitals, and remote islands. You can spend a week or a year and feel like you've barely started.
 
-We currently have no information about Thailand.
+[Bangkok](/asia/thailand/bangkok) is the entry point for most visitors and a destination in its own right. The Grand Palace, Wat Phra Kaew, and the temple of Wat Pho are the obvious starting points, but the city rewards wandering — through Chinatown, along the river canals, into the night markets. From Bangkok, day trips run to the ancient capital [Ayutthaya](/asia/thailand/ayutthaya) and to [Kanchanaburi](/asia/thailand/kanchanaburi), where the Death Railway and River Kwai bridge are a sobering reminder of the Second World War.
 
-If you do know any general information about Thailand, please [Edit this article].
+North of Bangkok, the road and rail lines lead to [Sukhothai](/asia/thailand/sukhothai) — another former capital, with atmospheric ruins — and eventually to [Chiang Mai](/asia/thailand/chiangmai), the main city of the north. Chiang Mai is a civilised, walkable place with a beautiful old city, excellent markets, and easy access to trekking in the surrounding hills. [Chiang Rai](/asia/thailand/chiangrai) and [Mae Hong Son](/asia/thailand/maehongson) are quieter and wilder.
 
-If you know any hotels in Thailand or restaurants in Thailand, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/thailand)
+The south splits into two coastlines. The Andaman side — [Phuket](/asia/thailand/phuket), [Krabi](/asia/thailand/krabi), [Koh Lanta](/asia/thailand/kohlanta), [Koh Phi Phi](/asia/thailand/kohphiphi) — has the more dramatic scenery, with limestone karst formations rising from the sea. The Gulf side — [Koh Samui](/asia/thailand/kohsamui), [Koh Phangan](/asia/thailand/kohphangan), [Koh Tao](/asia/thailand/kohtao) — is slightly less spectacular but popular for good reason. [Koh Tao](/asia/thailand/kohtao) is one of the cheapest places in the world to learn to dive.
 
-The combination of cultures and backgrounds makes **Thailand** an interesting and memorable country to visit. More people visit Thailand than any other country in Southeast Asia. This is no surprise as the Royal Kingdom of Thailand has much to offer for the visitor: historic culture, lively arts, beautiful beaches, a good nightlife, friendly and hospitable people and last but not least one of the best cuisines in the world. Travel in Thailand is easy due to a good network of trains, busses and airplanes. Most visitors enter the country via the Southeast Asian travel hub 
- [Bangkok](/asia/thailand/bangkok)
- , the City of Angels. From there you can do great daytrips to cities like the former capital 
- [Ayutthaya](/asia/thailand/ayutthaya)
- and 
- [Kanchanaburi](/asia/thailand/kanchanaburi)
- , known for the River Kwai bridge. 
- 
+The Northeast, known as Isaan, is the least visited part of the country and possibly the most authentically Thai. The food is excellent, the people are warm, and the pace is slower. The great national park at Khao Yai is here too.
 
-
- From there most visitors head either north or south. In the north you can visit the interesting cities of 
- [Sukhothai](/asia/thailand/sukhothai)
- , 
- [Chiang mai](/asia/thailand/chiangmai)
- , 
- [Chiang Rai](/asia/thailand/chiangrai)
- or 
- [Mae Hong Son](/asia/thailand/maehongson)
- . The north is known for its fantastic trekking possibilities and the interesting hill tribes. In the south the traveler can relax at some of the most beautiful beaches in the world, for example, 
- [Koh Tao](/asia/thailand/kohtao)
- , 
- [Krabi](/asia/thailand/krabi)
- , 
- [Koh Samui](/asia/thailand/kohsamui)
- or 
- [Phuket](/asia/thailand/phuket)
- . Some areas are very touristy, but it is easy to find some quiet spots. 
- 
-
-
- The Northeast is popular with independent travelers. Known by Thais as Isaan this area hosts some lovely forested mountains and national parks and very friendly people. The major highlight is probably the famous 
- [Khao yai national park](/asia/thailand/khaoyainationalpark)
- , but other interesting places are easily found in this area. 
- 
-
-
- People with a limited time budget might go to the East Coast. There are many popular resorts, including 
- [Pattaya](/asia/thailand/pattaya)
- . Asia's premier beach resort. The region is rich in natural resources, including rubber, rice, fishing, orchards and gemstones, and scenically arresting with several national parks containing waterfalls, virgin forest and uninhabited, remote islands. One popular island is 
- [Koh chang](/asia/thailand/kohchang)
- .
+Thailand handles enormous numbers of tourists without losing its essential character. The temples still function, the monks still walk the streets at dawn, the street food is still excellent, and the country still feels like itself even in its most visited corners.

@@ -3,28 +3,26 @@ title: "Getting Around"
 type: section
 ---
 
-Morocco's Office National des Chemins de Fer (ONCF) operates one of the most modern rail systems in Africa linking most of the main centres. The trains are generally comfortable fast and a better option than the buses - if only because sleeping cars are available for many overnight trips. Lines go as far south as Marrakesh. For a time-table see: ONCF.
+**Trains**
 
-But if you miss the train the buses and grand taxis are by no means a last-ditch option.
+Morocco's rail network (ONCF) is comfortable, reliable, and the best option for travelling between major northern cities. The high-speed Al Boraq train links Casablanca and Tangier in just over two hours, stopping at Rabat and Kenitra. Slower trains continue east to Fez and Meknes, and south to Marrakech. The network doesn't extend to Agadir, the south, or the desert — for those you'll need buses or a car. Check timetables at oncf.ma.
 
-Traveling Between Cities:
+**Buses**
 
-CTM: The national bus line, very comfortable, on schedule, seats are reserved and can be purchased in advance.
+CTM is the national bus company: comfortable air-conditioned coaches, reserved seating, reliable schedules, and service to most cities and towns including Agadir, Ouarzazate, and Merzouga. Supratours (affiliated with ONCF) fills in similar routes. Book ahead for popular destinations in high season. Local "souk buses" are slower, cheaper, and can be chaotic — they stop anywhere and negotiate luggage storage separately.
 
-Souk buses: Souk buses do not always leave or arrive on time. They may stop in the middle of nowhere or in towns along the way looking for passengers. You’ll have to bargain for the price to store your luggage on top of the bus. It’s advisable to carry smaller pieces of luggage you can store on the bus with you.
+**Grand taxis**
 
-Grand taxis: These large mercedes travel between large towns and cities. They carry 6 passengers, however you can pay for empty seats so that the taxi goes earlier and you have more room. Ask the other passengers in the car what the fare is, if they don’t know ask the driver. Baggage does not cost extra in a taxi.
+These large shared Mercedes sedans run fixed routes between towns, cramming in six passengers. They leave when full. If you want to go sooner or have more space, pay for two seats. Fares are fixed — ask fellow passengers what the going rate is before agreeing to a price. Grand taxis are the backbone of rural transport and often faster than buses on shorter routes.
 
-Pick-up trucks (camio): In areas where there is no public transportation, people use these trucks to carry supplies and people to their village. They also take travelers at a rate they determine themselves.
+**Car rental**
 
-If time is your enemy and you've got a bit cash to splash about consider the occasional internal flight to make the most of this beautiful country.
+Renting a car gives you the most freedom, especially for the south, the Atlas, and the pre-Sahara. International companies (Avis, Hertz, Europcar) operate at airports; local agencies are cheaper and can usually be haggled with. Roads are generally good, though mountain routes demand attention. Police and customs checkpoints are common on main roads — stop, be polite, and have your documents ready.
 
-Airport transportation: There is a train from Rabat ville to the Casablanca airport. You can also hire a grand taxi from the bus station for $60.
+**Petits taxis**
 
-Renting a car isn't cheap in Morocco but deals can be struck with the smaller dealers. Gas is available pretty much everywhere. Take note that Moroccan roads are festooned with police and customs roadblocks.
+Within cities, petits taxis (usually small Dacia or Fiat cars) carry up to three passengers and use meters. At night the meter rate rises by 50%. If the driver claims the meter is broken, agree on a price before you get in. They're cheap, ubiquitous, and the right way to get around in cities.
 
-Within cities:
+**Internal flights**
 
-Petit taxis: Every city has petit taxis which carry only three passengers. The fare is calculated by a meter. If there is no meter, or it does not work, ask the price before you begin. He may pick up other passengers. At night until sunrise the fare 50% more than daytime.
-
-The bigger cities have public bus services and the average ticket price is about Dr2. Petits taxis are a common sight in most cities and major towns. They're licensed to carry up to three passengers and can be a useful way to avoid heat exhaustion and/or hustlers. .
+Royal Air Maroc and budget carriers serve domestic routes (Casablanca to Agadir, Marrakech to Ouarzazate, etc.). Useful if time is short, but buses and trains are much cheaper and often not that much slower on short routes.

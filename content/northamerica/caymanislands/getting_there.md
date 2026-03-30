@@ -3,24 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-Air
+Almost everyone arrives by air into Owen Roberts International Airport (GCM) on Grand Cayman, which is about 2 miles east of George Town. Cayman Brac has its own airport, Sir Charles Kirkconnell International (CYB), which handles some regional and charter flights.
 
-The Cayman Islands national airline is *Cayman Airways (KX)*. *Cayman Airways* flies to the Cayman Islands from Miami Tampa Atlanta Houston and Jamaica. *British Airways* operates three scheduled flights per week on Monday Wednesday and Friday from London Gatwick to Grand Cayman. *American Airlines * *United Airlines* and *Northwest Airlines* also fly to Grand Cayman.
+Cayman Airways is the national carrier and flies direct from Miami, Tampa, Atlanta, Houston, Orlando, and several other US cities, as well as Kingston, Jamaica. American Airlines connects from Miami, Charlotte, Chicago, Dallas, and Philadelphia. JetBlue flies from New York and Boston. British Airways operates five flights a week from London Heathrow.
 
-Approximate flight times
+Miami is by far the most convenient hub — flights take about an hour and there are multiple departures daily. From New York or Toronto expect around four hours. From London it's about ten hours.
 
-From *London* to Grand Cayman is 9 hours 55 minutes and from *Miami* to Grand Cayman is 1 hour 5 minutes. From *Miami* to Cayman Brac is 1 hour and 35 minutes.
+Cruise ships dock at George Town's cruise terminal on Grand Cayman. The port is a major call for Caribbean cruise itineraries departing from Florida, and on busy days multiple ships arrive simultaneously, flooding the small capital with day-trippers.
 
-International airports
-
-*Grand Cayman (GCM)* (Owen Roberts International Airport) is 2.5km (1.5 miles) east of the city.
-
-*Cayman Brac (CYB)* (Gerard Smith Airport) is 8km (5 miles) from the town. Taxis meet all flights (travel time  10 minutes). Airport facilities in Grand Cayman include an outgoing duty-free shop for all international departures car hire and a bar/restaurant (open for all arrivals and departures).
-
-Departure tax:
-
-CI$10 *or* US$12.50 payable by all travellers over 12 years of age.
-
-Sea
-
-The main port of George Town on Grand Cayman is an important port of call for leading international cruise lines. Passenger lines operate from North America Mexico and Europe.
+There is no departure tax charged separately at the airport — it is included in the airfare.

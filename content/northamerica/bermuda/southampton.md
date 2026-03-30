@@ -15,5 +15,3 @@ Hotels in the area include the gorgeous Fairmont Southampton Princess, and the E
 
 Hire a moped and explore! The South Shore Road runs all the way through Southampton and will take you towards Hamilton or The Dockyard easily. Or jump on a pink bus.
 
-**Contributors**
-September 14, 2005

@@ -1,150 +1,20 @@
 ---
-title: "Books"
+title: 'Books'
 type: section
 ---
 
-**Books**
+**A Short History of Laos** by Grant Evans is the best single-volume introduction to Lao history, covering the kingdom of Lan Xang through French colonialism to the communist revolution and beyond. Essential background reading.
 
-**Faces of the Unreached in Laos: Southeast Asia's Forgotten Nation**
+**The Ravens** by Christopher Robbins tells the story of the American pilots who fought the secret war in Laos during the Vietnam era. A gripping account of one of the most heavily bombed countries in history.
 
+**Tragic Mountains: The Hmong, the Americans, and the Secret Wars for Laos** by Jane Hamilton-Merritt is a deeply researched account of the Hmong people's involvement in the CIA's covert war. Moving and important.
 
+**Another Quiet American** by Brett Dakin is a wry, perceptive memoir of two years spent working for the Lao national tourism authority. It captures the absurdities and charms of modern Laos better than any guidebook.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9748530272 /ref=ase_osingacom?v=glance&s=books)
+**The Coroner's Lunch** by Colin Cotterill is the first in a series of crime novels set in 1970s Laos, featuring an elderly Lao coroner. Light, witty, and full of local color. Great holiday reading.
 
-author: Asian Minorities Outreach
+**Traditional Recipes of Laos** by Phia Sing is a classic cookbook based on recipes from the former royal chef of Luang Prabang. If you fall in love with Lao food -- and you will -- this is the book to take home.
 
-isbn: 9748530272
+**Ant Egg Soup** by Natacha Du Pont De Bie is a food-focused travelogue through Laos. Engaging and full of recipes.
 
-subject: culture
-
-**Traditional Recipes of Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0907325602/ref=ase_osingacom?v=glance&s=books)
-
-author: Phia Sing
-
-isbn: 0907325602
-
-subject: Traditional Food
-
-**Lao for Beginners: An Introduction to the Spoken and Written Language of Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0804816298 /ref=ase_osingacom?v=glance&s=books)
-
-author: Tatsuo Hoshino, Russell Marcus, Tatsuo Hoshimo
-
-isbn: 0804816298
-
-subject: Language
-
-**Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864426178/ref=ase_osingacom?v=glance&s=books)
-
-author: Joe Cummings
-
-isbn: 0864426178
-
-subject: travel
-
-**Vietnam Cambodia and Laos Handbook**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566911311/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Buckley
-
-isbn: 1566911311
-
-subject: travel
-
-**Fielding's Vietnam :Including Cambodia and Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1569521549/ref=ase_osingacom?v=glance&s=books)
-
-author: Wink Dulles,Kathy Knoles (Editor)
-
-isbn: 1569521549
-
-subject: travel
-
-**Culture Shock! Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558683011/ref=ase_osingacom?v=glance&s=books)
-
-author: Stephen Mansfield
-
-isbn: 1558683011
-
-subject: culture
-
-**Costume and Culture:Vanishing Textiles of Some of the TAI Groups in Laos P. D. R.**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0824814541/ref=ase_osingacom?v=glance&s=books)
-
-author: Patricia C. Naenna
-
-isbn: 0824814541
-
-subject: culture
-
-**Chansons Et Fetes Du Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0404603726/ref=ase_osingacom?v=glance&s=books)
-
-author: P. Lefevre-Pontalis
-
-isbn: 0404603726
-
-subject: culture
-
-**Covert OPS:The CIA's Secret War in Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312963408/ref=ase_osingacom?v=glance&s=books)
-
-author: James E. Parker
-
-isbn: 0312963408
-
-subject: history
-
-**Tragic Mountains :The Hmong, the Americans, and the Secret Wars for Laos, 1942-1992**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0253327318/ref=ase_osingacom?v=glance&s=books)
-
-author: Jane Hamilton-Merritt
-
-isbn: 0253327318
-
-subject: history
-
-**Codename Mule:Fighting the Secret War in Laos for the CIA**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155750668X/ref=ase_osingacom?v=glance&s=books)
-
-author: James E. Parker,Foreword by William M. Leary
-
-isbn: 155750668X
-
-subject: history
+For current practical information, the Lonely Planet guide to Laos is regularly updated and useful for trip planning.

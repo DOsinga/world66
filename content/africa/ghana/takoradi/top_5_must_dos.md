@@ -3,11 +3,11 @@ title: "Top 5 Must Do's in Takoradi"
 type: section
 ---
 
-The second-largest city in Ghana appears to be a boring industrial town on the surface, but has much to offer to anyone willing to delve deep. Here is a list of **Takoradi Must Do&rsquo;s**.
+The second-largest city in Ghana appears to be a boring industrial town on the surface, but has much to offer to anyone willing to delve deep. Here is a list of **Takoradi must do's**.
 
 **Go on an Eco-trail**
 
-With ecotourism becoming trendy and popular in the Western world, it&rsquo;s no wonder that Ghana has caught on. The Kakum National Park in Takoradi is a wonderful place to start. At a small fee, tourists can enter the park to view the amazing rainforests that are such a large part of Ghana. Now fast-depleting, the National Park promises to keep these beauties for a much longer period. Tree-top walks can be available, with the construction of hanging suspension bridges that go almost 100 feet over the ground above the tree canopies.
+With ecotourism becoming trendy and popular in the Western world, it's no wonder that Ghana has caught on. The Kakum National Park in Takoradi is a wonderful place to start. At a small fee, tourists can enter the park to view the amazing rainforests that are such a large part of Ghana. Now fast-depleting, the National Park promises to keep these beauties for a much longer period. Tree-top walks can be available, with the construction of hanging suspension bridges that go almost 100 feet over the ground above the tree canopies.
 
 **Visit the Schools**
 

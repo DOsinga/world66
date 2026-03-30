@@ -1,9 +1,6 @@
 ---
-title: "The Sabean well"
+title: "The Sabean Well"
 type: poi
-type: "general"
 ---
 
-Six km to be west of old Marib, the Sabean well is located on top of a sandy hill a few meters higher than the adjacent fields. The opening of the well is located on top of the hill and is about 35m deep. The well is square in shspe, built in a distinctive style, one stone in each side. Its archaeological value was only discovered after the unearthing of the Barran Temple and the discovery of the sacred well at the Temple of the Bilqis Throne.
-
-type: general
+Six kilometres west of old Marib, the Sabean well sits on top of a sandy hill a few metres above the adjacent fields. The well opening is at the top of the hill and descends about 35 metres. It is square in cross-section, built in a distinctive style with one stone per side. Its archaeological significance became apparent after the excavation of the Barran Temple and the discovery of the sacred well at the Bilqis Throne.

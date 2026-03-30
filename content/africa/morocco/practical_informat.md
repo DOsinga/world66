@@ -1,67 +1,38 @@
 ---
 title: "Practical Information"
 type: section
-type: "Post office"
 ---
+
+**Visas**
+
+Citizens of the US, Canada, UK, EU countries, Australia, and many others can enter Morocco visa-free for up to 90 days. Check your country's requirements before travelling — the list changes occasionally. Your passport must be valid for at least six months beyond your intended stay.
 
 **Currency**
 
-The local currency is the Moroccan Dirham (MAD)
+The currency is the Moroccan dirham (MAD or DH). Dirhams cannot be obtained outside Morocco and cannot legally be taken out in large quantities — you're limited to 2,000 DH on departure. ATMs are widely available in cities and most towns; Marjane supermarkets and train stations are reliable spots. Most ATMs dispense up to 4,000–6,000 DH per transaction depending on the bank. Bureau de change offices at airports are convenient but offer slightly worse rates than city banks. Credit cards are accepted at upscale hotels and restaurants, but cash is king for souks, taxis, and rural areas.
 
-### [Moroccan Zip Codes](/africa/morocco/practical_informat/moroccan_zip_codes)
+**Language**
 
-Often the zip codes for Moroccan towns are not indicated. Most
-Moroccans don't add it, when they address a letter. It is most probable
-that your letter or package will reach its recipient nonetheless, but
-it's faster and easier if you add the zip code.
+Arabic (Darija dialect) is the everyday language. Tamazight (Berber) is widely spoken in the Atlas and the south. French is a near-universal second language for educated Moroccans and is used in business, government, and signs. Spanish is useful in the north (Tangier, Tetouan, Chefchaouen). In tourist areas, enough English is spoken to get by, but a few words of French or Arabic will make a big difference.
 
-You can look up the codes at:
+**Health**
 
-- the official site (in French) of the **Poste Maroc** (Moroccan Postal Services):
-**www.bam.net.ma**
-(Click "infos pratiques", then "code postal" and "rechercher un code postal".)
+No vaccinations are required for entry, but hepatitis A and typhoid are recommended. Tap water is technically treated in cities but most travellers stick to bottled water in rural areas. The main risk is stomach upsets from food — eat at busy places, be cautious with salads and raw vegetables in smaller towns. Pharmacies (pharmacies) are excellent, well-stocked, and pharmacists will advise on minor ailments. For serious issues, private clinics in Casablanca, Rabat, and Marrakech are the best bet.
 
-- the official site (in French) of the [more..](/africa/morocco/practical_informat/moroccan_zip_codes)
+**Safety**
 
-type: Post office
+Morocco is generally safe for tourists. Violent crime against visitors is rare. The most common issues are petty theft in crowded medinas and persistent attention from unofficial "guides" (faux guides) who will offer to show you around before steering you to shops. The classic scam is someone telling you a sight is closed and offering an alternative. The best response is politely declining and walking on. In the medinas of Fez and Marrakech, being briefly disoriented is almost inevitable — accept it, don't panic, and it resolves itself.
 
+Women travelling alone receive more unwanted attention than in many countries, particularly in smaller cities. Dressing modestly (covered shoulders and knees) reduces this considerably. Most harassment is verbal and persistent rather than threatening.
 
+**Electricity**
 
-[[rate it]](/africa/morocco/practical_informat/moroccan_zip_codes)
+220V, 50Hz. Plugs are the European two-pin round type. UK and US travellers need adaptors.
 
-### [Moroccan Prefix Numbers](/africa/morocco/practical_informat/moroccan_prefix_nu)
+**Time**
 
-At the end of March 2006 the prefix numbers of Moroccan towns have changed.
+Morocco is on Western European Time (UTC+0 in winter, UTC+1 in summer). Since Morocco stopped observing Ramadan time changes in 2019, the country stays on UTC+1 year-round (with a brief dip during Ramadan itself).
 
-You can look up the new numbers on this site (in French):
-**www.toutrabat.com/indicatif-maro c-villes-du-maroc-rabat-casablanc a-etc.php**
+**Religion and customs**
 
-type: Post office
-
-
-
-[[rate it]](/africa/morocco/practical_informat/moroccan_prefix_nu)
-
-### [Press](/africa/morocco/practical_informat/omarfilali)
-
-**[Morocco Times](/africa/morocco/practical_informat)**
-
-English speaking local newspaper
-
-type: Embassies and Consulates
-
-
-
-url: [www.moroccotimes.com](http://www.moroccotimes.com/)
-
-### [Papers](/africa/morocco/practical_informat/papers)
-
-**[Morocco Times](/africa/morocco/practical_informat/omarfilali)**
-
-type: Libraries, books and papers
-
-
-
-url: [www.moroccotimes.com](http://www.moroccotimes.com/)
-
-address: editors@moroccoTimes.com
+Morocco is a Muslim country and Islamic customs should be respected. During Ramadan, eating, drinking, or smoking in public during daylight hours is inappropriate and technically illegal. Many restaurants close or offer limited service. Outside Ramadan, dress modestly when visiting mosques and religious sites — non-Muslims are not permitted to enter most mosques in Morocco (Casablanca's Hassan II Mosque is one of the few exceptions).

@@ -3,88 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Pilgrim Among the Shadows** by Boris Pahor -- A memoir by Slovenia's greatest living writer (he died in 2022 at age 108), recounting his experiences in Nazi concentration camps. It is harrowing and beautifully written, and essential for understanding the Slovenian experience in the 20th century.
 
-**Lonely Planet Slovenia**
+**Lonely Planet Slovenia** by various authors -- The most comprehensive English-language travel guide to the country, with thorough coverage of outdoor activities, practical information, and off-the-beaten-path destinations.
 
+**A Farewell to Arms** by Ernest Hemingway -- Not a book about Slovenia, but set partly in the Soca Valley during World War I. Reading it before visiting Kobarid and the Isonzo Front adds a powerful dimension to the landscape.
 
+**The Glory of the Duchy of Carniola** by Janez Vajkard Valvasor -- This 17th-century encyclopedia of what is now Slovenia is a landmark of European natural history. You will not read all 15 volumes, but you will see references to Valvasor everywhere in Slovenia, and knowing the name adds context.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425384/ref=ase_osingacom?v=glance&s=books)
-
-author: Steve Fallon
-
-isbn: 0864425384
-
-subject: travel
-
-**Mecklenburg Collection:The Iron Age Cemetery of Magdalenska Gora in Slovenia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0873655354/ref=ase_osingacom?v=glance&s=books)
-
-author: Hugh O'Neill Hencken
-
-isbn: 0873655354
-
-subject: culture
-
-**Independent Slovenia:Origins, Movements, Prospects**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312164475/ref=ase_osingacom?v=glance&s=books)
-
-author: Jill Benderly (Editor),Evan Kraft (Editor)
-
-isbn: 0312164475
-
-subject: history
-
-**Pilgrim among the Shadows:A Memoir**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0151719586/ref=ase_osingacom?v=glance&s=books)
-
-author: Boris Pahor,Michael Biggins (Translator)
-
-isbn: 0151719586
-
-subject: history
-
-**Evasion and Repatriation:Slovene Partisans and Rescued American Airmen in World War II**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0897451619/ref=ase_osingacom?v=glance&s=books)
-
-author: Edi Selhaus,Julie Riley Bush (Editor)
-
-isbn: 0897451619
-
-subject: history
-
-**Slovenia Country Review 1999/2000**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1583103759/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert C. Kelly (Editor), Debra Ewing (Editor)
-
-isbn: 1583103759
-
-subject: country data
-
-**National and University Library**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0714829382/ref=ase_osingacom?v=glance&s=books)
-
-author: Mel Gooding
-
-isbn: 0714829382
-
-subject: architecture, Joze Plecnik
+**Independent Slovenia: Origins, Movements, Prospects** edited by Jill Benderly and Evan Kraft -- For those interested in how this small nation emerged from Yugoslavia largely peacefully, this collection of essays provides good background on the independence movement and the first years of statehood.

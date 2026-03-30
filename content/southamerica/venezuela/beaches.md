@@ -7,9 +7,3 @@ This country has countless beaches of all kinds to offer for any type of travell
 
 Some of the best and easiest beaches to get to from Caracas are Bahia de Cata and Choroni. The road to Choroni goes through Parque Henri Pittier and is not to be missed (and not for the faint hearted). Everyone refers to the beach as Choroni, but it is actually the name of the quaint colonial village a few kilometers inland from the sea. The town on the sea is called Puerto Colombia and has many, many posadas (Bed & Breakfasts) available .
 
-**Contributors**
-September 28, 2006
-
-September 01, 2005
-
-September 29, 2006

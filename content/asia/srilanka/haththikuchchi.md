@@ -5,10 +5,4 @@ latitude: 8.061609
 longitude: 80.2463
 ---
 
-Travel Guide
-
-Haththikuchchi is an ancient place of Sri Lanka. It is situated in Kurunegala district and near the Galgamuwa city.
-
-Many people of Sri Lanka belived the King "Siri Sangabo" gave away his head to a poor man who had given a meal to the King, at this place. There are many evidence to prove it.(Some people belived that, this happened in Aththanagalla temple near the Nittambuwa city.)
-
-The pinacle of Ruwanweliseya and Mihinthale are visible at the top of this rock
+Haththikuchchi is an ancient site in the Kurunegala district, near the town of Galgamuwa. According to tradition, this is where King Siri Sangabo — revered in Sri Lanka as a saint — gave his head to a poor man, fulfilling a vow of sacrifice. The story is disputed; some place the event at Aththanagalla near Nittambuwa. From the top of the rock the pinnacles of the Ruwanwelisaya stupa at Anuradhapura and the hill of Mihintale are said to be visible on a clear day.

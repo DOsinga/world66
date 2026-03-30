@@ -5,26 +5,12 @@ latitude: 41.000028
 longitude: 19.999962
 ---
 
-Albania is located in the south-eastern coast of the Adriatic Sea, Albania is a small country bordered by Yugoslavia and Greece. The country has witnessed many vicissitudes in its eventful history-from fleeing refugees and blood vendettas, to years of dictatorial rule. Yet, Albania manages to offer tourists the traditional Mediterranean charm and a heady blend of different religions, cultures and landscapes. 
+Albania is a small country on the southeastern Adriatic coast, wedged between Montenegro, Kosovo, North Macedonia, and Greece. It spent 45 years under one of the most extreme communist regimes in the world, sealed off from outside contact until 1991. That isolation left the country economically behind its neighbours but also, paradoxically, preserved things: landscapes unmarked by mass tourism, cities with genuine character, villages where the old ways held.
 
+That is changing. Albania has become one of the fastest-growing destinations in Europe, and the infrastructure has improved dramatically. The Albanian Riviera now draws visitors from across the continent. But much of the country — the northern mountains, the interior, the smaller towns — remains genuinely off the beaten track.
 
+The two UNESCO-listed towns, [Berat](/europe/albania/berat) and [Gjirokastër](/europe/albania/gjirokaster), are among the best-preserved examples of Ottoman urban architecture anywhere in the Balkans. The ruins at [Butrint](/europe/albania/butrint), near [Saranda](/europe/albania/saranda), layer Greek, Roman, Byzantine, and Venetian history on a single forested peninsula. [Tirana](/europe/albania/tirana), the capital, has reinvented itself as a lively, colourful city.
 
+Albanians have a fierce sense of hospitality — being invited in, fed, and helped by strangers happens more here than almost anywhere else in Europe. The currency, the lek, goes a long way. And for anyone arriving from Italy or Greece, the contrast in prices is immediate and welcome.
 
-
-
-
-Albania is the poorest country of Europe and one of the least visited by travelers. This is partly because travel infrastructure is far from extensive. 
-
-But Albania does have a few things to offer to the visitor. Rough scenery, a beautiful coast, authentic villages that have survived the communist period to name a few. 
-
-[Tirana](/europe/albania/tirana) , the capital city, is a small and compact place that is best explored on foot. Its architecture bears considerable influence of Italian as well as Turkish monuments, lying as it does exactly between Rome and Istanbul. The Skënderberg Square is a huge open space in the centre of the city while Mt. Dajti, at 5,030 ft, towers over the eastern side. Tirana is dotted by many museums. 
-
-Durrës (also Durazzo ) is a historical city founded by the Greeks. You are unlikely to miss the magnificent Roman Amphitheatre and the King Ahmet Zog Palace, both of which stand on a hillside. 
-
-[Shkoder](/europe/albania/shkoder) and [Butrint](/europe/albania/butrint) are two places that would be of much interest to a history buff. Shkodra is one of the oldest cities in Europe while the ruins of [Butrint](/europe/albania/butrint) are a treasure trove of antiquities relating to the Illyrians and Greeks. 
-
-Among the lesser-known places, [Berat](/europe/albania/berat) , Gjirokastra, Elbasan, [Korce](/europe/albania/korce) , and Kukës are worth exploring. Also, Albania has some of the finest beaches in Europe. Hiking, trekking and cycling are some other options in Albania. 
-
-Since Albania experiences scorching summers and cool winters, the best months to visit the country are September and October, when the days are long and the climate quite pleasant
-
-I was disappointed in Albania's lack of albinos.
+Albania is not without friction. Traffic is chaotic, roads outside the main corridors can be rough, and English is less universal outside the cities. But these are minor inconveniences against what the country offers. It rewards patience and curiosity.

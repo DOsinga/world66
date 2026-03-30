@@ -3,112 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**In Trouble Again: A Journey Between the Orinoco and the Amazon** by Redmond O'Hanlon (1988) — O'Hanlon's hilarious and harrowing account of a canoe journey into the Venezuelan jungle to find the Yanomami. Captures the wildness and unpredictability of the Orinoco basin with honesty and dark humor. Still one of the best travel books about South America.
 
-**Venezuela**
+**A Guide to the Birds of Venezuela** by Rodolphe Meyer de Schauensee and William H. Phelps Jr. — The classic field reference for Venezuela's extraordinary birdlife. Venezuela has over 1,400 recorded species. Even non-birders may find the density of birds remarkable.
 
+**Venezuela** by Krzysztof Dydynski (Lonely Planet) — The most comprehensive English-language practical travel guide to the country, though editions are dated given the pace of change since 2010. Useful for background and destination overviews.
 
+**The Silence and the Storm** — For background on the political crisis, Rory Carroll's **Comandante: Hugo Chávez's Venezuela** (2013) is a readable and balanced account of the Chávez years written by the Guardian's Caracas correspondent. It covers politics, society, and daily life with clear-eyed reporting.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425147/ref=ase_osingacom?v=glance&s=books)
-
-author: Krzysztof Dydynski
-
-isbn: 0864425147
-
-subject: travel
-
-**In Trouble Again:A Journey Between the Orinoco and the Amazon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679727140/ref=ase_osingacom?v=glance&s=books)
-
-author: Redmond O'Hanlon,Marty Asher (Editor)
-
-isbn: 0679727140
-
-subject: travel
-
-**Venezuela Alive**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155650800X/ref=ase_osingacom?v=glance&s=books)
-
-author: Susan Brushaber,Arnold Greenberg
-
-isbn: 155650800X
-
-subject: travel
-
-**Democracy for the Privileged:Crisis and Transition in Venezuela**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1555874126/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard S. Hillman
-
-isbn: 1555874126
-
-subject: culture
-
-**Funeral Music and Customs in Venezuela**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0879180501/ref=ase_osingacom?v=glance&s=books)
-
-author: Sharon Girard
-
-isbn: 0879180501
-
-subject: culture
-
-**Teresa CarreäNo:By the Grace of God**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0306708701/ref=ase_osingacom?v=glance&s=books)
-
-author: Marta Milinowski
-
-isbn: 0306708701
-
-subject: culture
-
-**One Day in the Tropical Rain Forest**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0064420167/ref=ase_osingacom?v=glance&s=books)
-
-author: Jean Craighead George,Gary Allen (Illustrato..
-
-isbn: 0064420167
-
-subject: history
-
-**In Trouble Again:A Journey Between the Orinoco and the Amazon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679727140/ref=ase_osingacom?v=glance&s=books)
-
-author: Redmond O'Hanlon,Marty Asher (Editor)
-
-isbn: 0679727140
-
-subject: history
-
-**A Guide to the Birds of Venezuela**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0691082057/ref=ase_osingacom?v=glance&s=books)
-
-author: Rodlophe Meyer Deschauenesee,M. De Schauensee..
-
-isbn: 0691082057
-
-subject: history
+**Doña Bárbara** by Rómulo Gallegos (1929) — Venezuela's most celebrated novel, set on the llanos and pitting a modern landowner against a powerful, mythical woman who rules the plains by violence and superstition. Gives a vivid sense of the llanero world.

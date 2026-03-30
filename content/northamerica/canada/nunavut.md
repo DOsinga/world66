@@ -5,25 +5,12 @@ latitude: 65.037773
 longitude: -92.554079
 ---
 
-The Editors appreciate the following contribution:
+Nunavut is Canada's newest and largest territory, established on April 1, 1999 through the largest Indigenous land claim agreement in Canadian history. It covers about 2 million square kilometres — roughly one-fifth of Canada's total landmass — and yet has a population of only about 40,000 people, predominantly Inuit.
 
+The territorial capital is Iqaluit, on Baffin Island, with a population of around 8,000. Most of Nunavut's communities are accessible only by air; there are no roads connecting them.
 
- 
- Nunavut is Canada's newest territory, established in 1999 and yet, an ancient land with a rich cultural heritage preserved to provide the visitor with a truly unique experience.
+The range of activities is genuinely extraordinary for those willing to make the journey. Kayaking among icebergs, snowmobiling across frozen tundra, dog-sledding, and Arctic wildlife watching — polar bears, walrus, beluga whales, caribou, and Arctic wolves — are all possible. Birdwatching is spectacular in summer, when millions of seabirds nest on the cliffs. The midnight sun in summer and the northern lights in winter are both unforgettable.
 
+Inuit culture is alive and practiced here more than anywhere else in Canada. Local artists produce exceptional carving, printmaking, and textile work; the Cape Dorset art community is internationally recognized. Try some traditional food — Arctic char, maktaaq (beluga skin and blubber), country food generally.
 
- The territorial capital is Iqualuit.
-
-The photograph in this section shows the beauty of the northern lights that can frequently be seen in the north.
-
-
- The range of activities available in Nunavut seems endless. The local Inuit are famous for their crafts and artwork. The people provide visitors to their communities with a true welcome, be sure to try some of the unique cuisine.
-
-
- Fishing opportunities in Nunavut are outstanding.
- Try kayaking amongst the icebergs, snowmobiling, or dog-sleigh riding. The range of wildlife to be seen includes polar bears, seals, caribou, whales and walrus. If you are a birdwatcher there is a large variety of birds that fly north to nest and raise their young because of the midnight sun in summertime.
-
-
- THE EARLY YEARS
- There was once a world before this, and in it lived people who were not of our tribe. But the pillars of the earth collapsed, and all were destroyed. And the world was emptiness. Then two men grew up from a hummock of earth. They were born and fully grown all at once. And they wished to have children. A magic song changed one of them into a woman, and they had children. These were our earliest forefathers, and from them all the lands were peopled.
- — Tuglik, Igloolik area, 1922
+Getting to Nunavut requires flying, usually through Ottawa or Winnipeg. Costs are high and logistics require planning. But for travellers who want genuine wilderness and a culture genuinely unlike anywhere else, there is nowhere else quite like it.

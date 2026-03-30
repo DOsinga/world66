@@ -5,19 +5,10 @@ latitude: 57.390392
 longitude: 21.563599
 ---
 
-http://www.ventspils.lv/ENG/4Viesi/
+Ventspils is a port city on Latvia's northwest coast, about 190 kilometres from Riga. It's one of the cleanest and best-maintained cities in Latvia — the municipality has had money from its busy commercial port and has spent it visibly, on parks, cycle paths, and a renovated city centre.
 
-Description
-The city of Ventspils is located in the northwestern part of Latvia, by the estuary of the River Venta on the coast of the Baltic Sea, 189 km from the capital of Latvia Riga.
+The **Livonian Order Castle** at the heart of the old city dates to 1290, making it one of the oldest buildings in Latvia. It now houses the Ventspils Museum with exhibits on the city's maritime and cultural history. The harbour area along the Venta River is pleasant to walk, with the waterfront park and the fountain known as the "Boats of the Sun."
 
-The territory of Ventspils city is 55.4 km2, 38% of which is covered with forests, parks and watercourses. Judging by population, Ventspils is the sixth largest city in Latvia (44,085 residents in the beginning of 2004).
+The **city beach** is wide and awarded a Blue Flag; it has dunes and some facilities for summer visitors. Ventspils is popular with Latvian families but sees fewer foreign tourists than Jurmala.
 
-Entertainment
-At sunny week-ends local residents and visitors of Ventspils like to walk down Ostas street along the River Venta; other popular places are the fountain “Boats of The Sun” and the tidy and modern city centre. During summers the most popular spot is the city beach, that has been awarded the Blue Flag. The city parks and squares are nice places for having a chat. Some people might love to have good time at the skate-park, but children gather at the *Children’s Town* (the Children’s Recreation park).
-
-Culture
-A lot has been done in Ventspils during the last years to develop a rich cultural life in the city. Different cultural activities of local and international significance regularly take place in the city. The regional Ventspils College has been created and the Old City, Ventspils Castle and other historical objects have been renovated.
-
-History
-
-Ventspils is one of the oldest cities of Latvia. The Castle of the Livonian Order, first mentioned in historical documents of 1290, is considered to be the first building in the present territory of Ventspils. Near the castle, that was built in an economically and strategically important place, the camp of the German colonists and later the city of Ventspils gradually formed.
+Stena Line ferries connect Ventspils with Nynashamn in Sweden and with Finland, making it a useful entry or exit point if you're travelling by sea.

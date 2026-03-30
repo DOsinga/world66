@@ -3,22 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-Air:
+## By Air
 
-The national airline of Mauritius is *Air Mauritius (MK).* *Air France Austrian Airlines British Airways Cathay Pacific Singapore Airlines* and* South Africa Airways *also fly to Mauritius.
+Sir Seewoosagur Ramgoolam International Airport (MRU) is the main entry point, located at Plaine Magnien in the southeast of the island, about 48 kilometres from Port Louis. It handles direct flights from London, Paris, Frankfurt, Dubai, Singapore, Hong Kong, Nairobi, Johannesburg, and Mumbai, among others.
 
-Approximate flight time:
+Air Mauritius (MK) is the national carrier and flies to and from most major hubs. Other airlines operating to Mauritius include Air France, British Airways, Emirates, Turkish Airlines, Kenya Airways, South African Airways, Condor, and Air India. Direct flights from London take around 11–12 hours.
 
-From Mauritius to *London *is 11 hours 30 minutes (non-stop).
+The departure tax is included in your ticket price. On arrival, the airport has ATMs, currency exchange counters (open 24 hours), car rental desks (Avis, Europcar, Hertz, and local operators), and a taxi rank outside arrivals. There are no direct airport buses, but express buses run frequently between the airport and both Mahébourg and Port Louis — allow 45 minutes to an hour for Port Louis.
 
-International airport:
+## By Sea
 
-*Mauritius (MRU)* (Sir Seewoosagur Ramgoolam) is 48km (30 miles) southeast of Port Louis. Buses and taxis are available to the city (travel time  45 minutes to 2 hours). Airport facilities include duty-free shops banks/bureaux de change snack bar post office shops and car hire (*Avis* *Europcar *and *Hertz*).
-
-Departure tax:
-
-MRs300. Passengers transiting within 48 hours and children under two years of age are exempt.
-
-Sea:
-
-Port Louis is the main port. It is primarily commercial but there is a limited passenger service to R&eacute;union and Rodrigues Island.
+Port Louis has a commercial passenger ferry to Réunion (operated by CTM, roughly 12 hours) and to Rodrigues Island (the MV Mauritius Trochetia, roughly 36 hours). The Rodrigues ferry runs two to three times per month and is worth considering if you have time — the journey across open ocean is an experience in itself.

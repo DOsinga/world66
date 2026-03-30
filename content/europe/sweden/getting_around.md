@@ -3,14 +3,32 @@ title: "Getting Around"
 type: section
 ---
 
-The easiest way to get around is by car. All roads and bridges are for free and so are also the state operated car boats. The highway system is modern and there is plenty of nice guided de-tours from the main roads. Car rentals is widely available and almost every petrol station have cars to rent and at airports all the main international companies are represented.
+Sweden is large — roughly the size of California — so how you travel depends on how much ground you want to cover.
 
-If you plan to go from city to city the cheapest way is the coach system. Most big cities have a bus station where you can get information on departures. Swebus Express is the biggest company with connections to most cities and guarantee you a seat. Smaller companies are often cheaper but require you to book.
+## By Train
 
-Going by train is often expensive, but you can find lower fares at some departures. If you are under 26 you can get a cheap last minute train ticket online or at the station. Most routes are operated by the state owned company SJ but some routes are now being given to new companies which have separate ticket systems.
+The national rail operator SJ runs trains between most major cities. The Stockholm–Gothenburg route (around 3 hours on the fast X2000) is one of the most travelled, and booking in advance can bring prices down considerably. For regional travel, tickets are sold through regional operators but can often be booked via the SJ website. Night trains run between Stockholm and the far north (Kiruna, Gällivare), which saves both time and a night's accommodation.
 
-Flying are getting cheaper but most flights go through Stockholm. SAS offers very cheap stand-by tickets for if you are under 26. New airlines are starting all the time so look around for your options.
+## By Bus
 
-Hitch hiking is not very common but is relatively safe.
+Long-distance coaches are significantly cheaper than trains, though slower. Flixbus and Vy are the main operators, covering most major cities and many smaller towns. The coach network is often the only practical option for reaching smaller destinations not served by rail.
 
-An international student id card can give you plenty of discounts however some places require a Swedish one.
+## By Car
+
+For exploring the countryside, the islands of Bohuslän, or Swedish Lapland, a car is the most flexible option. Roads are generally excellent, fuel is expensive by international standards, and speed cameras are common. In winter, snow tyres are mandatory in many areas. Car rental is available at all major airports and city centres.
+
+## By Domestic Flight
+
+SAS and BRA Airlines fly between Stockholm and cities in the far north — Luleå, Umeå, Kiruna — where distances are immense. Prices vary but booking ahead usually pays off.
+
+## By Boat
+
+In the Stockholm archipelago and along the Bohuslän coast, ferries and local boats are an essential part of getting around. Waxholmsbolaget operates the archipelago service out of Stockholm; many islands are only accessible by boat.
+
+## Hitch-hiking and Cycling
+
+Hitch-hiking is relatively safe but slow and uncommon. Cycling is excellent in southern Sweden, particularly in Skåne and around the lakes of Dalarna, where the terrain is flat and cycle routes are well maintained. Rental bikes and e-bikes are available in most cities.
+
+## City Transport
+
+Stockholm, Gothenburg, and Malmö all have integrated public transport (metro, tram, bus). Buy an all-day or multi-day card rather than paying per journey.

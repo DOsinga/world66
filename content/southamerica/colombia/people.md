@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 38 580 949 (July 1998 est.)
+Colombia has a population of around 52 million, making it the third most populous country in Latin America. The mix of indigenous, European, and African ancestry is part of what gives Colombian culture its richness and variety.
 
-**Age structure:**
+The ethnic makeup reflects the country's layered history: most Colombians are mestizo (mixed indigenous and European descent) or white, with significant Afro-Colombian communities concentrated along the Caribbean and Pacific coasts. Indigenous groups, though a small percentage of the total, maintain distinct cultures across dozens of communities, from the Wayuu in the Guajira Peninsula to the Arhuaco in the Sierra Nevada de Santa Marta.
 
-*0-14 years:* 33% (male 6 474 927; female 6 321 404)
+Spanish is the official language, spoken throughout the country, though Colombians are quick to point out regional accent differences — the melodic paisa accent from Medellín sounds nothing like the costeño drawl of the Caribbean coast. English is increasingly common in tourist areas and among younger urban Colombians, but don't count on it outside the cities.
 
-*15-64 years:* 62% (male 11 725 078; female 12 333 982)
+The dominant religion is Roman Catholic, with deep roots in everyday life and the calendar of national holidays. In recent decades, evangelical Protestant churches have grown significantly, particularly in poorer urban neighborhoods.
 
-*65 years and over:* 5% (male 780 486; female 945 072) (July 1998 est.)
-
-**Population growth rate:** 1.89% (1998 est.)
-
-**Birth rate:** 24.93 births/1 000 population (1998 est.)
-
-**Death rate:** 5.69 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.34 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.95 male(s)/female
-
-*65 years and over:* 0.83 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 25.44 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 70.06 years
-
-*male:* 66.15 years
-
-*female:* 74.11 years (1998 est.)
-
-**Total fertility rate:** 2.9 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Colombian(s)
-
-*adjective:* Colombian
-
-**Ethnic groups:** mestizo 58% white 20% mulatto 14% black 4% mixed black-Amerindian 3% Amerindian 1%
-
-**Religions:** Roman Catholic 95%
-
-**Languages:** Spanish
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 91.3%
-
-*male:* 91.2%
-
-*female:* 91.4% (1995 est.)
+Colombians are generally warm and hospitable, with a strong sense of regional identity. A person from Medellín will tell you they're paisa before Colombian. A native of Cali will talk about salsa and vallunos. The coastal costeños have a different energy from highland cachacos — the internal diversity is real and worth paying attention to as you travel.

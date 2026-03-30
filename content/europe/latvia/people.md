@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 2 385 396 (July 1998 est.)
+Latvia has a population of around 1.8 million — a significant decline from the 2.7 million counted at independence in 1991, due to emigration and a low birth rate. The population is concentrated in [Riga](/europe/latvia/riga), which accounts for roughly a third of the country's residents.
 
-**Age structure:**
+Latvians make up around 62% of the population. Russians are the largest minority at about 25%, a legacy of Soviet-era migration, and are concentrated in Riga and the eastern Latgale region. Belarusians, Ukrainians, and Poles make up most of the remainder.
 
-*0-14 years:* 19% (male 227 634; female 218 321)
+The relationship between the Latvian-speaking majority and the Russian-speaking minority has been a defining tension in post-Soviet Latvian society. A substantial portion of Russian speakers long held "non-citizen" status — a distinctive legal category that has gradually diminished through naturalisation. The Russian invasion of Ukraine in 2022 sharpened Latvia's sense of national identity and accelerated a shift away from Russian in public life.
 
-*15-64 years:* 66% (male 754 416; female 829 801)
-
-*65 years and over:* 15% (male 113 925; female 241 299) (July 1998 est.)
-
-**Population growth rate:** -1.41% (1998 est.)
-
-**Birth rate:** 8.14 births/1 000 population (1998 est.)
-
-**Death rate:** 15.78 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -6.47 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.9 male(s)/female
-
-*65 years and over:* 0.47 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 17.44 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 67.11 years
-
-*male:* 61.02 years
-
-*female:* 73.5 years (1998 est.)
-
-**Total fertility rate:** 1.2 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Latvian(s)
-
-*adjective:* Latvian
-
-**Ethnic groups:** Latvian 56.5% Russian 30.4% Byelorussian 4.3% Ukrainian 2.8% Polish 2.6% other 3.4%
-
-**Religions:** Lutheran Roman Catholic Russian Orthodox
-
-**Languages:** Lettish (official) Lithuanian Russian other
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 100%
-
-*male:* 100%
-
-*female:* 99% (1989 est.)
+Latvians are by reputation reserved with strangers but warm once you've earned their trust — a temperament that fits neatly with the broader Baltic character. Latvian culture has deep roots in folk traditions, particularly the *dainas* — short lyrical folk songs that were central to cultural survival through centuries of foreign rule. The nationwide Song and Dance Festival, held every five years, draws tens of thousands of participants and is genuinely moving even for visitors who stumble into it by accident.

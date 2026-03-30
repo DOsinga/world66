@@ -1,4 +1,0 @@
----
-title: "Apaneca"
-type: location
----

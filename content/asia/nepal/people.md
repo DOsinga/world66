@@ -3,68 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 23 698 421 (July 1998 est.)
+Nepal is remarkably diverse for a small country. Around 30 million people speak more than 120 languages and belong to over 125 distinct ethnic groups — a complexity that defies any simple summary.
 
-**Age structure:**
+The broad divide is between the Pahadi (hill people) and the Madhesi (Terai plain people), but within each group is a dense weave of caste and ethnicity. The hill Brahmin and Chhetri castes have historically dominated political and social life. The Newar people — the original inhabitants of the Kathmandu Valley — have their own distinct language, architecture, and festival traditions. The Tamang, Gurung, Magar, and Rai communities populate the Middle Hills; the Sherpa are concentrated in the high Khumbu region around Everest; the Tharu live in the western Terai.
 
-*0-14 years:* 42% (male 5 087 855; female 4 779 941)
+**The Sherpa** are the group most visible to trekkers. Originally from Tibet, they settled in the Khumbu valley centuries ago and adapted to high-altitude life with remarkable physiological efficiency. Their reputation as guides and high-altitude climbers is deserved — but it is worth remembering that the porter carrying 40 kg on a tumpline past you on the trail is also a person with a family, not just scenery.
 
-*15-64 years:* 55% (male 6 655 865; female 6 387 255)
+**Religion** is present everywhere. Nepal was the world's only official Hindu state until 2008, and Hinduism remains dominant (around 80% of the population). But the distinction between Hinduism and Buddhism is often blurred — many Nepalis participate in both traditions, worship at temples associated with both faiths, and observe overlapping festival calendars. The Newar community in particular blends both religions seamlessly.
 
-*65 years and over:* 3% (male 392 141; female 395 364) (July 1998 est.)
+Nepal's population is young (median age under 25) and increasingly urban. The Kathmandu Valley has grown explosively since the 1990s, with migrants from the hills seeking education and work. Roughly 4 million Nepalis work abroad — mainly in the Gulf states, Malaysia, and India — and their remittances make up a significant portion of the national economy.
 
-**Population growth rate:** 2.52% (1998 est.)
-
-**Birth rate:** 35.66 births/1 000 population (1998 est.)
-
-**Death rate:** 10.44 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 1.04 male(s)/female
-
-*65 years and over:* 0.99 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 75.98 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 57.89 years
-
-*male:* 58.04 years
-
-*female:* 57.74 years (1998 est.)
-
-**Total fertility rate:** 4.87 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Nepalese (singular and plural)
-
-*adjective:* Nepalese
-
-**Ethnic groups:** Newars Indians Tibetans Gurungs Magars Tamangs Bhotias Rais Limbus Sherpas
-
-**Religions:** Hindu 90% Buddhist 5% Muslim 3% other 2% (1981)
-
-*note:* only official Hindu state in the world although no sharp distinction between many Hindu and Buddhist groups
-
-**Languages:** Nepali (official) 20 other languages divided into numerous dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 27.5%
-
-*male:* 40.9%
-
-*female:* 14% (1995 est.)
-
-**Peoplenote:** refugee issue over the presence in Nepal of approximately 91 000 Bhutanese refugees 90% of whom are in seven United Nations Office of the High Commissioner for Refugees (UNHCR) camps
+In rural areas, hospitality is deep and genuine. Being invited into a home for tea is common and should be accepted graciously. Remove shoes before entering a home or temple. Don't touch food or water vessels belonging to others without being invited. Photography of people should always be with permission, particularly at religious sites.

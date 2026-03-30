@@ -3,18 +3,34 @@ title: "Practical Information"
 type: section
 ---
 
-Traveling to Belarus is difficult enough to make many people that would go there give up. With a few pointers traveling to and in Belarus can be not only easy, but exciting. Getting a visa can be frustrating and once you get it you have to make your way around Belarus, which can also be very frustrating. The key is information. If you know what to expect then your travels will go much more smoothly.
+Belarus is a country that rewards careful preparation. The political climate under Lukashenko is authoritarian, and the rules around what you can photograph, say, or carry are stricter than most travellers are used to. That said, many visitors pass through without incident, particularly tourists who stick to the main sights and stay out of politics.
 
-**Practical addresss**
+**Currency**
 
-**Visas**
+The currency is the Belarusian ruble (BYN). ATMs are widely available in Minsk and in most larger cities. Visa and Mastercard may have limited acceptance due to sanctions — check before travel, as the situation evolves. Carry enough cash to cover your needs, especially outside the capital.
 
-There are three options:   A transit visa valid for 72 hours, intended for those who only want to pass through. Even if you are going from Russia to Poland you will need to get one of these.  A single-entry visa (also known as an 'ordinary' visa) which is valid for 30 days. It only allows you [more..](/europe/belarus/practicalthings/visas)
+**Language**
 
-**Laws**
+Belarusian and Russian are both official languages. In practice, Russian is dominant in Minsk and most cities. Outside the main tourist circuit, English is rarely spoken. Learning a few words of Russian is genuinely useful. Signs are often in Belarusian and Russian only.
 
-There are many laws in Belarus and there are many more police to enforce them. Do your best to keep all of the laws in the country. Do cross only on crosswalks, I missed one by ten feet and was fined. Do pay for all buses you ride as soon as you get on the bus, and hang on to your ticket. You nev [more..](/europe/belarus/practicalthings/laws)
+**Phones and internet**
 
-**Taxis**
+Local SIM cards are easy to buy and inexpensive. The internet works, though it is subject to government monitoring and some sites are blocked. Using a VPN is technically restricted but widely done.
 
-If you decide to travel by taxi keep in mind that the taxi drivers of Belarus are underpaid, so many of them jump at the chance to earn a few extra dollars. Taxis are required by law to charge by the meter. If they don't have a meter, or don't turn it on, they are driving illegally. Insist that [more..](/europe/belarus/practicalthings/taxis)
+**Safety and law**
+
+The streets in Belarus are physically safe — crime rates are low. The risks are political. Arbitrary detention of foreigners does occur, particularly for anyone perceived to be critical of the government or photographing security infrastructure, official buildings, or military equipment. Do not photograph these subjects. Avoid any demonstrations or public gatherings. Do not discuss politics openly, especially not Lukashenko, the 2020 election, or the war in Ukraine.
+
+Police are present in large numbers throughout the country. Carry your passport at all times. Jaywalking can result in a fine. Transit by taxi without a working meter is technically illegal.
+
+**LGBTQ+ travel**
+
+Belarus has no legal protections for LGBTQ+ people, and the social and political climate is hostile. Public displays of affection between same-sex couples carry real risk. Exercise significant caution.
+
+**Health**
+
+No vaccinations are specifically required, but standard European travel precautions apply. Medical care in Minsk is adequate; outside the capital it is more basic. Travel insurance with medical coverage is required by law for entry.
+
+**Travel advisories**
+
+Many Western governments — including the US, UK, Ireland, and Australia — currently advise against all non-essential travel to Belarus, citing the political situation, the risk of arbitrary detention, and the impact of the Russia-Ukraine war on regional stability. Review your government's current advisory before booking.

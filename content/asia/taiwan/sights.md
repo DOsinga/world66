@@ -1,22 +1,20 @@
 ---
-title: "Sights in Taiwan"
+title: "Sights"
 type: section
 ---
 
-To explore a host of **Taiwan sights**, consider that Taiwan, also known as Formosa, is the largest island of Peoples Republic of China located to the southwest of the country. During World War II, Taiwan became a very strategic country for control of the Eastern Pacific and during that period the country saw meteoric rise in its economy. The country continued to do well during the next decades. It is one of the few developed regions in Asia as considered by IMF. This mountainous country has many natural sights as well as a host of man-made wonders. The best of the Taiwan Sights are as below.
+Taiwan packs an enormous range of things to see into a relatively small island. The concentration of temples, mountain scenery, and cultural sites makes it easy to move between very different kinds of travel within a single trip.
 
-**Sun Moon Lake**
+**Taroko Gorge** in the northeast is the most dramatic natural sight in Taiwan — a marble canyon carved by the Liwu River, with sheer walls rising hundreds of metres above the road. The Eternal Spring Shrine, built over a waterfall and dedicated to the workers who died constructing the Cross-Island Highway, is one of the most memorable spots in Asia. Base yourself in Hualien to explore.
 
-Located in the center of Taiwan, Sun Moon Lake is one of the most visited tourist attractions in Taiwan. The lake is surrounded by green mountains and the water is crystal clear. The lake is so named because the eastern part of the lake is shaped like a round sun and the western part is shaped like a crescent moon. There is a beautiful small island in the middle of the lake which can only be visited by the Shao people. Others are not allowed.
+**Taipei 101** remains a landmark even if it no longer holds the world height record. The building's bamboo-inspired design and its interior observation deck at 89 floors are worth the visit. The surrounding Xinyi district is [Taipei](/asia/taiwan/taipei)'s most modern quarter.
 
-**Alishan**
+**National Palace Museum** in Taipei houses one of the world's great collections of Chinese imperial art — jade, bronzes, ceramics, calligraphy, and paintings accumulated by successive dynasties and brought to Taiwan in 1949. The jade cabbage and jade meat stone are the unlikely crowd-pleasers. Budget at least half a day.
 
-There is a common saying in Taiwan that if you wish to see the real beauty of Taiwan then you must visit Alishan. You will realize the truth behind the axiom when you will reach the summit of Alishan, also known as the Ali Peak. This peak is also accessible via mountain train. The journey is dotted with numerous flying waterfalls and small and big cliffs and gorges. Once you reach the top, the cherry trees among the sea of clouds will make you feel on top of the earth.
+**Sun Moon Lake** in Nantou County is Taiwan's largest lake and its most visited inland resort. The scenery — tea-covered hills, mist on the water — is genuinely beautiful. Cycling around the lake on the dedicated path is the best way to see it at a relaxed pace.
 
-**Taipei 101**
+**Alishan** in the mountains of Chiayi County is famous for its dawn light, sea of clouds, and the narrow-gauge mountain railway that climbs through cypress forests. The cherry blossoms in late March and early April draw large crowds but for good reason.
 
-Bamboo is the national tree of Taiwan. Taipei 101 construction was inspired by the shape of bamboo. This 508-meter-high building is one of the top five tallest buildings of the world. This is often considered as the trademark of Taiwan to the outside world and it displays suitably the developments of Taiwan.
+**Tainan** is the oldest city in Taiwan and the one with the deepest historical layers. Former Dutch colonial fort Anping, dozens of temples in various states of grandeur, and a food scene considered the best on the island make it a destination in its own right. See [Tainan](/asia/taiwan/tainan).
 
-**Kenting National Park**
-
-Kenting National Park is located to the southwest of Taiwan and is one of the most scenic places in the entire Island. Unlike most of the national parks of the world, this park is not teeming with animals. This park with its varied terrain and landscape is known for the rare species of tress and vegetation and some very rare living beings.
+**Jiufen** is a former gold-mining town in the hills north of Taipei, now famous for its narrow stone-stepped lanes, red lanterns, and tea houses with views over the northeast coast. It's crowded on weekends but magical on a misty weekday.

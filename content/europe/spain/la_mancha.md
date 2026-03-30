@@ -1,11 +1,11 @@
 ---
 title: "La Mancha"
 type: location
-latitude: 28.377437
-longitude: -16.69775
+latitude: 39.499954
+longitude: -2.799990
 ---
 
-La Mancha is part of Castille. It is formed by five territories [Toledo](/europe/spain/centralspain/toledo), [Ciudad Real](/europe/spain/centralspain/ciudadreal), [Albacete](/europe/spain/la_mancha/albacete), [Cuenca](/southamerica/ecuador/cuenca) and [Guadalajara](/northamerica/mexico/guadalajara).
+La Mancha is part of Castille. It is formed by five provinces: [Toledo](/europe/spain/centralspain/toledo), [Ciudad Real](/europe/spain/centralspain/ciudadreal), [Albacete](/europe/spain/la_mancha/albacete), Cuenca and Guadalajara.
 
 It is located in central Spain and the territory is mainly plane and dried, cold in winter and very hot in summer. There are several ranges like Cuenca range, Toledo mounts and Central Range. The most important river is Tajo, Guadiana and Júcar.
 

@@ -3,54 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 108 207 (July 1998 est.)
+Tongans are Polynesian, closely related to Samoans and Niueans. The population is around 100,000, though this figure fluctuates — emigration to New Zealand, Australia, and the United States is high, and remittances from the diaspora are a significant part of the economy. You'll meet Tongans who have relatives in Auckland or Salt Lake City as readily as those who've never left the islands.
 
-**Age structure:**
+Christianity is central to Tongan life, not just culturally but legally. The Free Wesleyan Church is the largest denomination, followed by the LDS (Mormon) Church — which has a notable presence here — and the Roman Catholic Church. Sunday is genuinely a day of rest: most businesses close, alcohol is not served in many places, and swimming in public is technically discouraged. Visitors are expected to respect this.
 
-*0-14 years:* NA
+Tongan society is hierarchical. The nobility holds formal political power alongside elected commoner representatives, and the king remains a figure of genuine authority. Family and church are the organising pillars of daily life. Extended family obligations — contributing to church fundraisers, supporting relatives — take precedence over individual accumulation in ways that visitors may notice.
 
-*15-64 years:* NA
-
-*65 years and over:* NA
-
-**Population growth rate:** 0.81% (1998 est.)
-
-**Birth rate:** 26.43 births/1 000 population (1998 est.)
-
-**Death rate:** 6.07 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.23 migrant(s)/1 000 population (1998 est.)
-
-**Infant mortality rate:** 38.57 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 69.54 years
-
-*male:* 67.51 years
-
-*female:* 71.96 years (1998 est.)
-
-**Total fertility rate:** 3.63 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Tongan(s)
-
-*adjective:* Tongan
-
-**Ethnic groups:** Polynesian Europeans about 300
-
-**Religions:** Christian (Free Wesleyan Church claims over 30 000 adherents)
-
-**Languages:** Tongan English
-
-**Literacy:**
-
-*definition:* can read and write Tongan and/or English
-
-*total population:* 98.5%
-
-*male:* 98.4%
-
-*female:* 98.7% (1996 est.)
+Tonga was never colonised, which Tongans are quietly proud of. This independence has shaped a national character that is welcoming to visitors without being deferential. English is widely spoken and taught in schools alongside Tongan.

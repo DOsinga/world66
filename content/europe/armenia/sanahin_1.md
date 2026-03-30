@@ -31,7 +31,3 @@ but cheap Debed (no telephone, just show up, it very likely always has
 vacancies, the manager's daughter speaks some English), is located
 among some high rise buildings at the "village's" main square.
 
-See also http://en.wikipedia.org/wiki/Sanahin
-
-**Contributors**
-April 22, 2005

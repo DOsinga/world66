@@ -3,42 +3,16 @@ title: "Books"
 type: section
 ---
 
-There is an enormous number of books to read about Russia's cultural, political and social life. However, the small amount of the books on this site will give you hints on how to plan and be prepared for a trip to the mysterious land called [Russia](/europe/russia). 
+Russia has one of the richest literary traditions in the world, and reading before you go will deepen any visit enormously.
 
-**Books**
+**A Gentleman in Moscow** by Amor Towles -- A count under house arrest in Moscow's Metropol Hotel for thirty years watches Soviet history unfold from his elegant prison. Witty, warm, and deeply Russian in spirit despite being written by an American.
 
-**Time Out Moscow & St. Petersburg **
+**The Master and Margarita** by Mikhail Bulgakov -- The devil visits Soviet Moscow, accompanied by a giant cat and a retinue of chaos. Part satire, part love story, part fantasy, it is the great Russian novel of the 20th century. Read it before visiting Moscow and you will see the city differently.
 
-A very helpful guide to Moscow and St. Petersburg. Both sections of the book provide detailed information on many different beautiful places to see. They also recommend the best routes and transportation. Besides, you will a lot of other very necessary information for travelers.
+**Anna Karenina** by Leo Tolstoy -- The definitive Russian novel of society, love, and moral reckoning. Set in Moscow and St. Petersburg, it captures the world of the Russian aristocracy with astonishing depth.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/014027314X /ref=ase_osingacom?v=glance&s=books)
+**In Siberia** by Colin Thubron -- Thubron traveled across Siberia by train, bus, and on foot, writing one of the finest travel books about Russia. It captures the vastness, the beauty, and the sadness of the Russian interior.
 
-author: Penguin,USA
+**The Big Red Train Ride** by Eric Newby -- A classic comic travel account of riding the Trans-Siberian Railway. Dated now but still entertaining, and it captures the experience of Soviet-era train travel beautifully.
 
-isbn: 014027314X
-
-subject: Travel Guide
-
-**Lonely Planet Moscow **
-
-The Lonely Planet Moscow explores the magic of the city. It provides pertinent information about this unique metropolitan that is filled with magnificent museums, historic sites, and famous theaters. The book provides useful maps, essential predestination information and important facts for the v [more..](/europe/russia/books/lonelyplanetmoscow)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1864500549 /ref=ase_osingacom?v=glance&s=books)
-
-author: by Ryan Ver Berkmoes, Ryan Ver Berkmoes
-
-isbn: 1864500549
-
-subject: Travel Survival Kit
-
-**Russia's Orient: Imperial Borderlands and Peoples **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0253211131 /ref=ase_osingacom?v=glance&s=books)
-
-author: Daniel R. Brower (ed.)
-
-isbn: 0253211131
-
-subject: Russian History
+**Secondhand Time** by Svetlana Alexievich -- An oral history of post-Soviet Russia, compiled from hundreds of interviews. It is devastating and essential reading for understanding modern Russia, by the 2015 Nobel Prize winner in Literature.

@@ -5,8 +5,14 @@ latitude: -23.378214
 longitude: 150.513423
 ---
 
-Rockhampton – on the Tropic of Capricorn, just 40 kilometres inland from the Pacific Ocean – sits astride Queensland’s largest
+Rockhampton sits astride the Tropic of Capricorn on the Fitzroy River, about 40 km inland from the Capricorn Coast. It's Queensland's beef capital — the region runs more cattle than most Australian states — and the tropics marker at the highway entrance to town makes it a popular photo stop for travellers heading north.
 
-river, the Fitzroy. Queensland’s favourite tropical city, Rockhampton is bounded by the magnificent Berserker Ranges and Mount Archer (607 metres high) which provide an imposing backdrop to a busy, growing city that is both friendly and vibrant. 
+The city has a handsome stock of Victorian and Edwardian architecture along Quay Street, a legacy of the gold rush era when Rockhampton was a prosperous staging point for the central Queensland goldfields. The Rockhampton Museum of Art has a surprisingly good collection for a regional city.
 
-The city area covers 187 square kilometres and offers all the benefits of metropolitan living with room to breathe. The region extends to the Capricorn Coast in the east and Mount Morgan in the west. Rockhampton’s location between the coast and the rural hinterland provides visitors and residents with the choice of unlimited investment and recreational pursuits.
+The Berserker Ranges and Mount Archer (607 m) rise to the northeast, and the national park around the summit has pleasant bushwalks and views over the city and coast.
+
+**Capricorn Caves** — a network of ancient limestone caves 23 km north of the city — are the main natural attraction in the area. Some chambers have openings that allow a sunbeam to light the cave floor at exactly noon around the summer solstice. Guided tours operate daily.
+
+The Capricorn Coast — Yeppoon and the beaches to its north and south — is 45 minutes east and provides the nearest swimming and seafood. Great Keppel Island lies offshore, accessible by ferry from Rosslyn Bay.
+
+Rockhampton is a practical stopover on the Bruce Highway between Brisbane (690 km) and Cairns (1,000 km), but it rewards a day of exploration beyond the fuel stop.

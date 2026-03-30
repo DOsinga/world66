@@ -1,11 +1,7 @@
 ---
-title: "Air Fiji"
+title: "Fiji Link"
 type: poi
-url: "www.airfiji.com.fj"
+url: "www.fijiairways.com/fiji-link"
 ---
 
-Air Fiji runs frequent flights in small planes between the major islands of Fiji.
-
-
-
-url: [www.airfiji.com.fj](http://www.airfiji.com.fj)
+The domestic arm of Fiji Airways, operating small planes between the main islands. Destinations include Labasa, Savusavu, Taveuni, Kadavu, Levuka, Koro, and others. Baggage limits are stricter than on international routes (typically 15kg per bag), so repack accordingly before connecting flights.

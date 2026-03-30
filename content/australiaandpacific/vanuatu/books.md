@@ -3,76 +3,12 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Tales of the South Pacific** by James A. Michener — Michener spent part of World War II based on Espiritu Santo and used his experiences in the New Hebrides as the backdrop for this Pulitzer Prize-winning collection of linked stories. The islands are thinly disguised but recognisable. Essential reading before any trip.
 
-**Moon Handbooks South Pacific**
+**Return to Paradise** by James A. Michener — A follow-up collection of essays and fiction in which Michener revisited the Pacific islands a few years after the war. The Vanuatu chapter captures the New Hebrides before tourists arrived.
 
-This classic, comprehensive guide to travel around hundreds of islands provides full coverage of Vanuatu.
+**Kava: Medicine Hunting in Paradise** by Chris Kilham — A readable account of kava's cultural role across the Pacific, with substantial attention to Vanuatu, where kava culture is deepest.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566914116/ref=ase_osingacom?v=glance&s=books)
+**Arts of Vanuatu** edited by Joel Bonnemaison and Darrell Tryon — An academic but accessible survey of traditional art, material culture, and kastom across the archipelago. Good for understanding what you are looking at in village contexts.
 
-author: David Stanley
-
-isbn: 1566914116
-
-subject: travel
-
-**Lonely Planet Vanuatu**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864426607/ref=ase_osingacom?v=glance&s=books)
-
-author: Denis O'Byrne,David Harcombe
-
-isbn: 0864426607
-
-subject: travel
-
-**Kava:Medicine Hunting in Paradise**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0892816406/ref=ase_osingacom?v=glance&s=books)
-
-author: Christopher Kilham
-
-isbn: 0892816406
-
-subject: travel
-
-**Arts of Vanuatu**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/082481956X/ref=ase_osingacom?v=glance&s=books)
-
-author: Joel Bonnemaison (Editor),Darrell Tryon (Edit..
-
-isbn: 082481956X
-
-subject: culture
-
-**France and the South Pacific since, 1940**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0824815580/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Aldrich
-
-isbn: 0824815580
-
-subject: history
-
-**John Paton: Missionary to the Cannibals:His Autobiography**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1556614950/ref=ase_osingacom?v=glance&s=books)
-
-author: Benjamin Unseth,John Gibson Paton
-
-isbn: 1556614950
-
-subject: history
+**Tanna** (film, 2015, directed by Bentley Dean and Martin Butler) — Not a book, but worth noting: this Oscar-nominated film was shot on Tanna with a cast of real kastom villagers telling a story about love and tradition. Watch it before visiting the island's interior.

@@ -1,12 +1,12 @@
 ---
-title: "Fachi"
+title: "Bilma"
 type: location
-latitude: 18.107578
-longitude: 11.584665
+latitude: 18.686
+longitude: 12.916
 ---
 
-Bilma is the end of the world. When you're done with your 500+ km of desert from [Agadez](/africa/niger/agadez) this not the reward you were looking for. If you want to cross the desert to [Libya](/africa/libya) this is your last stop. 
+Bilma is about as far as you can get from anywhere in Niger. After 500 km of desert from [Agadez](/africa/niger/agadez), this remote oasis in the [Kawar](/africa/niger/kawar) region is the last significant stop before the Libyan border. The salt pans here have been mined for centuries — caravans once carried Bilma salt south to Hausa markets in exchange for millet.
 
+The town itself is small and the welcome basic, but the scenery is extraordinary: red and black escarpments to the east, the endless dunes of the Tenere to the west, and improbably lush palm-shaded springs at the heart of the oasis. The contrast between desert and water here is one of the most striking sights in Niger.
 
-
-There seem to be people who have made this trip in 1999. I've read two reports both by Belgian, who came from Libya and got thier Nigerien visa in [Sebha](/africa/libya/sebha) . They spend the night in the old Italian fort in al Qatrun , 200 km north of the border. For more info see this travel report.
+Getting to Bilma without your own 4WD means hitching with a truck convoy from Agadez or joining an organized tour. It's not a place to be stranded without resources.

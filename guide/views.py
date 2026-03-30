@@ -4,11 +4,11 @@ from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import Http404
+from django.http import FileResponse, Http404
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page, load_tag_index, load_search_index, load_neighbourhood_index
+from .models import CONTENT_DIR, load_page, load_tag_index, load_search_index, load_neighbourhood_index
 
 
 @lru_cache(maxsize=1)
@@ -83,6 +83,12 @@ def location_or_section(request, path):
     # Collect map markers from children
     markers = _collect_markers(page, sections, locations, pois)
 
+    # Build hero image URL if page has an image
+    hero_image_url = None
+    img_rel = _image_path(page)
+    if img_rel:
+        hero_image_url = f'/content-image/{img_rel}'
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
@@ -103,6 +109,7 @@ def location_or_section(request, path):
         "poi_categories": poi_categories,
         "neighbourhood_pois": neighbourhood_pois,
         "linked_location_pages": linked_location_pages,
+        "hero_image_url": hero_image_url,
     })
 
 
@@ -170,6 +177,31 @@ def _collect_markers(page, sections, locations, pois):
             add(_marker_from_page(poi, highlight=is_sight))
 
     return markers
+
+
+def _image_path(page) -> str | None:
+    """Build the content-relative path to a page's hero image."""
+    image = page.meta.get('image', '')
+    if not image:
+        return None
+    # Check both possible locations for the image file
+    for candidate in [
+        f'{page.path}/{image}',                                          # inside directory
+        f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,  # next to .md
+    ]:
+        if (CONTENT_DIR / candidate).is_file():
+            return candidate
+    return None
+
+
+def content_image(request, path):
+    """Serve an image file from the content directory."""
+    file_path = (CONTENT_DIR / path).resolve()
+    if not file_path.is_relative_to(CONTENT_DIR.resolve()):
+        raise Http404
+    if not file_path.is_file() or file_path.suffix.lower() not in ('.jpg', '.jpeg', '.png', '.webp'):
+        raise Http404
+    return FileResponse(open(file_path, 'rb'))
 
 
 def _safe_float(value):

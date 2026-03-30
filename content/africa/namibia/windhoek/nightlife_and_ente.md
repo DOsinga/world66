@@ -3,40 +3,12 @@ title: "Nightlife and Entertainment"
 type: section
 ---
 
-**all**
+Windhoek punches above its weight for nightlife given its size. The scene is concentrated in a few areas and tends to get going late.
 
-Club Thriller
+The **Franco-Namibian Cultural Centre** on the corner of Sam Nujoma Drive screens independent and international films and hosts live music events. It's the main venue for anything culturally ambitious in the city.
 
-For funkiness, Club Thriller can not be beaten!. 
+**Joe's Beer House** on Independence Avenue is a Windhoek institution — a sprawling, lively outdoor bar that draws locals and visitors alike. The portions are huge and the atmosphere convivial.
 
-Franco-Namibian Cultural Centre
+The **Warehouse Theatre** on Tal Street hosts jazz and theatre performances, with occasional international artists. Check local listings on arrival.
 
-On the corner of Sam Nujoma Drive. shows french Films anbd other international films.  
-
-address: 1 Mahler St.
-
-tel: 061 225672
-
-Joe's Beer House
-
-
-
-address: 440 Independence Ave
-
-tel: 061 232457
-
-Nightlife
-
-There are different types of Entertainment around, including; theatres, concerts and jazz at Windhoek Theatres. 
-
-Taj Pomodzir
-
-Also for good Zairian and Zimbabwean music, don't hesitate to visit Club Taj Pomodzir.  
-
-Warehouse Theatre
-
-       Jazz with some international names coming to play.
-
-address: Tal Street
-
-tel: 061 225059
+For clubs, Windhoek has a handful of spots that stay open until the early hours. The scene shifts — venues open and close — so ask locally for current recommendations.

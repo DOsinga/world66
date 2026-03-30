@@ -3,56 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 68 325 (July 1998 est.)
+Aruba has a population of around 110,000, a remarkable figure for an island only 30 km long. The population is genuinely multicultural: over 90 nationalities are represented, a result of centuries of trade, colonial history and the modern tourism economy drawing workers from across the Caribbean, Latin America and Europe.
 
-**Age structure:**
+The indigenous Arawak people were Aruba's first inhabitants. Spanish colonizers arrived in 1499, and the Dutch took control in 1636. African slaves were brought to work on the island during the colonial period. These overlapping influences are reflected in the Aruban character and in Papiamento, the local creole language.
 
-*0-14 years:* 22% (male 7 775; female 7 114)
+About 80% of Arubans identify as mixed white and Caribbean Amerindian heritage. The dominant religion is Roman Catholic, a legacy of the Spanish and later Dutch Catholic missionaries.
 
-*15-64 years:* 69% (male 22 616; female 24 700)
+**Language**
 
-*65 years and over:* 9% (male 2 523; female 3 597) (July 1998 est.)
+Papiamento is the mother tongue — a creole language blending Spanish, Portuguese, Dutch, African languages and Arawak. It is distinctive from the Papiamentu spoken in Curaçao and Bonaire (Aruba spells it with an "o"; the other islands with a "u"). Dutch is the other official language. Most Arubans also speak English and Spanish fluently, and you will often hear all four languages in a single conversation.
 
-**Population growth rate:** 0.47% (1998 est.)
-
-**Birth rate:** 13.74 births/1 000 population (1998 est.)
-
-**Death rate:** 6.4 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -2.63 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.09 male(s)/female
-
-*15-64 years:* 0.92 male(s)/female
-
-*65 years and over:* 0.7 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 7.96 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.92 years
-
-*male:* 73.22 years
-
-*female:* 80.81 years (1998 est.)
-
-**Total fertility rate:** 1.81 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Aruban(s)
-
-*adjective:* Aruban
-
-**Ethnic groups:** mixed white/Caribbean Amerindian 80%
-
-**Religions:** Roman Catholic 82% Protestant 8% Hindu Muslim Confucian Jewish
-
-**Languages:** Dutch (official) Papiamento (a Spanish Portuguese Dutch English dialect) English (widely spoken) Spanish
-
-**Literacy:** NA
+Arubans are generally warm and outgoing with visitors. The "One Happy Island" tag is a bit of a tourist-industry construct, but the relaxed, inclusive atmosphere is real enough.

@@ -1,5 +1,0 @@
-asia/kuwait
-asia/kyrgyzstan
-asia/laos
-asia/lebanon
-asia/malaysia

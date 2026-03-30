@@ -9,16 +9,12 @@
   <a href="/">World</a>
   {% for name, path in breadcrumbs %}
     <span class="sep">&rsaquo;</span>
-    {% if forloop.last and not parent %}
+    {% if forloop.last %}
       <span class="current">{{ name }}</span>
     {% else %}
       <a href="/{{ path }}">{{ name }}</a>
     {% endif %}
   {% endfor %}
-  {% if parent %}
-    <span class="sep">&rsaquo;</span>
-    <span class="current">{{ page.title }}</span>
-  {% endif %}
 </nav>
 {% endblock %}
 
@@ -92,6 +88,12 @@
 
 {% block content %}
 <h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
+
+{% if hero_image_url %}
+<div class="hero-image">
+  <img src="{{ hero_image_url }}" alt="{{ page.title }}" width="780" loading="lazy">
+</div>
+{% endif %}
 
 {% if is_continent %}
 <div id="country-map" class="country-map"></div>

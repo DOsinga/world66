@@ -3,28 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-**Points of Interest**
+Mongolia is landlocked between Russia and China, which limits your options — but makes the journey part of the adventure.
 
-**By road**
+**By air** is the quickest route. All international flights land at Chinggis Khaan International Airport (UBN), located about 50 kilometres southwest of Ulaanbaatar. MIAT Mongolian Airlines flies to Beijing, Moscow, Seoul, Tokyo, Frankfurt, and a handful of other cities. Korean Air, Air China, Turkish Airlines, and Aeroflot also serve Ulaanbaatar. United Airlines launched the first direct US-carrier service in 2025, operating three weekly flights between Tokyo Narita and Ulaanbaatar. From Europe, expect a connection in Moscow, Frankfurt, or Istanbul, with total travel time around 10–12 hours. From East Asia, flights are 3–4 hours.
 
-There are several international road links; the principal route is via Irkutsk (East Siberia) to Ulan Bator. 
+**By train** on the Trans-Mongolian Railway is a classic journey. The route runs from Moscow through Irkutsk and Ulaanbaatar to Beijing — one of the great overland passages in the world. The weekly Moscow–Beijing express (train 4) takes about 6 days from Moscow. There are also regular services between Irkutsk and Ulaanbaatar (approximately 36 hours) and between Ulaanbaatar and Beijing (about 30 hours). The Beijing–Ulaanbaatar service resumed in 2025 after a suspension during the pandemic years. Book through a specialist agency well in advance, especially in summer, as sleeper berths sell out.
 
-**By plane**
+**By road** from Russia is possible at several border crossings, the main one being Altanbulag (Russian side: Kyakhta), about 340 kilometres north of Ulaanbaatar. Shared taxis and buses run between Ulaanbaatar and the border. Crossing from China is possible at Zamyn-Uud (opposite the Chinese town of Erlian), also reachable by train.
 
-Mongolia's national airline MIAT - Mongolian Airlines (OM) operates flights to Ulan Bator from Moscow Beijing Tokyo and Seoul. The approx. flight time to the capital is from London is 14 hours including stopovers. 
-
-. International airports you can find only at  Ulan Bator (ULN) (Buyant Ukh [more..](/asia/mongolia/gettingthere/byplane)
-
-**By rail**
-
-Ulan Bator is linked to Russia and China by the Trans-Mongolian Railway. An express train runs once a week between Moscow Ulan Bator and Beijing. Trains on international routes have sleeping and restaurant cars. There are also two other weekly trains from Ulan Bator to Beijing as well as one to M [more..](/asia/mongolia/gettingthere/byrail)
-
-**By train**
-
-Ulan Bator is linked to Russia and China by the Trans-Mongolian Railway. An express train runs once a week between Moscow Ulan Bator and Beijing. Trains on international routes have sleeping and restaurant cars. There are also two other weekly trains from Ulan Bator to Beijing as well as one to M [more..](/asia/mongolia/gettingthere/bytrain)
-
-**By plane**
-
-Mongolia's national airline MIAT - Mongolian Airlines (OM) operates flights to Ulan Bator from Moscow, Beijing, Tokyo and Seoul. The approx. flight time to the capital is from London is 14 hours including stopovers. 
-
-. International airports you can find only at  Ulan Bator (ULN) (Buyant U [more..](/asia/mongolia/gettingthere/byplane1)
+Mongolia has no ferry connections — it is landlocked.

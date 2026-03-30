@@ -1,13 +1,13 @@
 ---
 title: "Medical Services"
 type: poi
-type: "general"
-latitude: -17.627392
-longitude: 18.614461
+address: "Windhoek, Namibia"
 ---
 
-In the Telephone Directory, Doctors are listed under Medical DR. Rabie and Retief, Tel: 061 237213 near the corner of John Meinert Strasse and Stubel Strasse.
- Medi-City Hospital, Tel: 061 222687, on the Holidor Streetin Eros.
- State Hospital, Tel: 061 3039111; or Goverment Clinic on Robert Mugabe Avenue near John Meinert Strasse.
+**Medi-City Hospital**: +264 61 222687, on Holiday Street in Eros. The main private hospital for emergencies and specialist care.
 
-type: general
+**Rhino Park Private Hospital**: +264 61 375000, on Rhino Park Street. Another well-equipped private option.
+
+**State Hospital** (Windhoek Central Hospital): +264 61 303 9111, on Harvey Street. Public hospital — better resourced than rural state facilities but private hospitals are preferable where possible.
+
+For pharmacies, Dis-Chem in Maerua Mall is well-stocked. Most pharmacies are open Mon-Fri 8am-6pm and Sat 8am-1pm.

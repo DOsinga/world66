@@ -3,18 +3,14 @@ title: "Tours and Excursions"
 type: section
 ---
 
-**all**
+Organized tours are worth considering in Pakistan, particularly for trekking and travel in remote northern areas where a local guide is both practically useful and in some areas required.
 
-**Karakorum Explorers www.karakorumexplorers.com.pk**
+**Trekking and mountaineering** in Gilgit-Baltistan — including routes to K2 base camp, Concordia, the Baltoro Glacier, and Fairy Meadows — is best arranged through established Pakistani tour operators who handle permits, porters, and logistics. Look for operators registered with the Tourism Development Corporation of Pakistan (TDCP). Reputable companies include Adventure Tours Pakistan, Karakoram Explorers (Islamabad), and Gasherbrum Treks.
 
-K-2 and Concordia, Chitral and the Hindu Kush, Rakaposhi and the Hunza Valley, all names to quicken the pulse of those who love mountains and their people. Northern Pakistan is blessed with the greatest mass of high mountains on earth, where the mighty Himalaya, Karakorum, Pamirs and Hindukush al [more..](/asia/pakistan/toursandexcursions/karakorum_explorer)
+**Cultural tours** focusing on the historical sites of [Lahore](/asia/pakistan/lahore), [Taxila](/asia/pakistan/taxila), Moenjodaro, and Harappa can be arranged independently or through local guides. Lahore in particular has many independent guides available near the Lahore Fort.
 
-fax: +92-51-4442127
+**The Karakoram Highway** is commonly covered as part of organized jeep tours that allow stops and side trips that a bus itinerary would miss. Three- to ten-day packages from Islamabad to Khunjerab Pass are widely available.
 
-address: 1870, St. 27, I-10/2, Islamabad, Pakistan
+**Photography tours** are a growing niche, particularly in the northern valleys and in the old cities of Lahore and Peshawar — the landscape and cultural material is extraordinary.
 
-tel: +92-51-4441258
-
-email: info@karakorumexplorers.com.pk
-
-PC: www.karakorumexplorers.com
+It's worth researching current operators online rather than relying on dated listings. The Pakistan Tourism Development Corporation website (tourism.gov.pk) maintains some official information.

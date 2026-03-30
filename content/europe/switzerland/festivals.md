@@ -1,38 +1,20 @@
 ---
-title: "Festivals in Switzerland"
+title: "Festivals"
 type: section
 ---
 
-Some of the many **Switzerland festivals** commemorate religious (and not-so-religious) holidays, patriotism, and music.
+Switzerland has a strong tradition of both civic and folk festivals, alongside some internationally significant cultural events.
 
-**February: Mardi Gras or Fasnacht**
+**Fasnacht (Basel, February/March)** is the biggest carnival in Switzerland and one of the oldest in Europe. It begins at precisely 4am on the Monday after Ash Wednesday with Morgestraich — all city lights go out and thousands of lantern-carrying, costumed participants pour into the streets accompanied by drums and piccolo. It lasts 72 hours. The Basel Fasnacht is listed as a UNESCO Intangible Cultural Heritage.
 
-Mardi Gras is not just for party animals in New Orleans or Rio. Switzerland knows how to celebrate in the days leading up to Lent. Costumed parades, brass bands, piccolo and drum competitions, a city aglow with dozens of lanterns and lots of street musicians keep the celebration colorful in Basel.
+**Sechseläuten (Zurich, April)** marks the arrival of spring. Guild members parade through the old town in historical costume, and the celebration culminates with the burning of the Böögg — a snowman figure stuffed with fireworks — atop a bonfire. According to tradition, the faster the Böögg's head explodes, the better the coming summer.
 
-**April: Sechseläuten (Zurich)**
+**Montreux Jazz Festival (July)** is one of the most respected music festivals in the world, held on the shores of Lake Geneva since 1967. Despite the name it has always covered a wide range of genres. Most outdoor stage performances are free; ticketed hall concerts book out months in advance.
 
-Literally ringing in the summer (and celebrating the sun-lit hours that workers now have after the workday is finished), the festivities of Sechseläuten, among them guild parades and balls, are accompanied by a blazing bonfire - the burning of Böögg, a snowman figure representing winter.
+**Swiss National Day (1 August)** celebrates the founding of the Confederation with fireworks, bonfires on hilltops, and community gatherings across the country. It has the feel of a genuinely national celebration rather than a government-imposed holiday.
 
-**July: Music Festivals**
+**Zibelemärit (Bern, fourth Monday in November)** is the famous onion market: farmers from across the Bernese Mittelland bring braided ropes of onions, onion soup, tarts, and other allium products to sell in the old city. It ends with children pelting each other with confetti.
 
-Since 1967, the** **Montreux International Jazz Festival, one of the most famous music festivals in the world, has been held on the shores of Lake Geneva during the first 2 weeks of July. Jazz has always been an important element of the Montreux Festival, but lovers of blues, soul, rock and other music genres (Swiss alphorn, anyone?) will not be disappointed.
+**Christmas Markets (December)** are excellent throughout German-speaking Switzerland. Zurich's market inside and outside the main station is particularly atmospheric. Geneva celebrates the Escalade in December, a festival commemorating a 1602 military victory over Savoy forces, with a costumed procession through the old town and the traditional smashing of chocolate cauldrons.
 
-If you miss the alphorn at Montreux, the International Alphorn Festival in the canton of Valais is held later in July. Besides the melodies of the over-sized horn, festival goers can hear yodelers and bell ringers and see Swiss folk dancers.
-
-**August 1: Swiss National Day**
-
-Like their American counterparts on the 4th of the July or their French compatriots on Bastille Day (July 14), the Swiss celebrate their national holiday with fireworks and barbecues. Bonfires, reminiscent of a time when mountaintop fires were used to scare off invaders, also figure prominently in towns and villages all over the country. Even though the holiday has been recognized only since the late 1800s it commemorates the founding of the Swiss confederation some 600 years before.
-
-**November: Zibelemärit (Bern)**
-
-Who knew a whole festival could have been developed around the humble onion? Yet, this festival, in Switzerland's capital city, has done just that. Starting before dawn on the fourth Monday in November, the day offers all manner of onion produce from soup to sausages to pies. It officially ends with a confetti battle on the streets of town waged by local children.
-
-**December: Christmas Markets**
-
-Christmas markets abound throughout German-speaking Europe and Switzerland is no exception. Visitors to Zurich's Christmas market can start shopping and eating (the fondue-like raclette is particularly good) before they even step outside the train station. In Geneva, the Escalade, celebrates a 17th century military victory over foreign invaders with bowls of vegetable soup! According to legend, the aggressors were turned back when a certain Mme Royaume poured hot soup down upon them.
-
-**
-**
-
-**Contributors**
-February 26, 2010
+**Art Basel (June)** is the most important contemporary and modern art fair in the world, drawing galleries, collectors, and museums from across the globe to Basel for a week each June.

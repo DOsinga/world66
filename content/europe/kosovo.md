@@ -1,6 +1,8 @@
 ---
 title: "Kosovo"
 type: location
+latitude: 42.6026
+longitude: 20.9030
 ---
 
 Kosovo declared independence from [Serbia](/europe/serbia) in 2008 and is recognized by over 100 countries, though not by all. It is small, young, and still figuring itself out — which makes it an interesting place to visit. The atmosphere is hopeful and the welcome is warm, especially toward Westerners whose countries supported independence.

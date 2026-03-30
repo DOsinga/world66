@@ -1,73 +1,26 @@
 ---
-title: "Festivals in Mexico"
+title: "Festivals"
 type: section
 ---
 
-**Mexico festivals** are colorful and diverse. There are plenty that focus on religion, some that celebrate patriotism, and still many more that showcase the rich culture of the country. Here's a look at some of Mexico's festivals with suggestions on some of the best places to experience them.
+Mexico celebrates intensely. Religious and civic holidays are observed across the country, but each region adds its own character to the national calendar.
 
-**January**
+**January 6 — Día de Reyes (Three Kings Day).** Children receive gifts in honor of the Magi. Tizimín in Yucatan hosts a large cattle fair and traditional dancing.
 
-New Year's Day - San Juan Chamula is a great place to spend January 1, as the new year celebration includes traditional dances by the local Chamula Indians.
+**February — Carnaval.** The week before Ash Wednesday. [Veracruz](/northamerica/mexico/veracruz) holds one of the country's biggest carnivals, with parades, dancing, and the ceremonial burning of effigies. Mazatlán also puts on a major celebration.
 
-Three Kings Day - On January 6, children receive presents in a representation of the gifts brought to Jesus by the 3 wise men. Head to Tizimin to take part in the cattle fair and local dancing that accompanies this event from January 2 to 6 each year.
+**March/April — Semana Santa (Holy Week).** The week leading up to Easter is Mexico's biggest domestic travel period. [Oaxaca](/northamerica/mexico/oaxaca) is particularly impressive, with processions and passion plays throughout the week. Beaches fill to capacity — book accommodation months ahead or avoid the coast entirely.
 
-**February**
+**May 5 — Cinco de Mayo.** Celebrates the Mexican army's unlikely victory over French forces at the Battle of Puebla in 1862. Observed throughout Mexico but more enthusiastically celebrated in the US; [Puebla](/northamerica/mexico/puebla) itself holds the most authentic events.
 
-Blessing of the Sea Festival - February 1 to 3 is the time to celebrate all things marine when in the city of [San Blas](/northamerica/mexico/sanblas). There is dancing and general revelry accompanied by horse races.
+**September 16 — Independence Day.** The main national holiday. The president reenacts the Grito de Independencia from the balcony of the National Palace in [Mexico City](/northamerica/mexico/mexicocity) on the night of the 15th. Fireworks and parties follow in every town.
 
-Mardi Gras- This particular day can fall between February and March, as it is the day before Ash Wednesday. [Veracruz](/northamerica/mexico/veracruz) holds one of the biggest celebrations, with dancing, parades, crowning of the king and queen of the festival and even the burning of effigies.
+**Late July — Guelaguetza.** [Oaxaca's](/northamerica/mexico/oaxaca) major indigenous festival, held over two weeks. Dance troupes from across the state's eight regions perform traditional dances at an outdoor amphitheater on the hill of Monte Albán. One of Mexico's most distinctive cultural events; book tickets and accommodation well in advance.
 
-**March**
+**October — Festival Internacional Cervantino.** [Guanajuato](/northamerica/mexico/guanajuato) hosts this major international arts festival for two weeks in October, filling the city's theaters, plazas, and streets with music, theater, and dance from around the world.
 
-Easter - Falling in March of April is the Easter celebration which includes the crafts and parades on Palm Sunday and continues with passion plays and even flogging. [Oaxaca](/northamerica/mexico/oaxaca) is impressive at Easter, but you'll find these celebrations in most every town.
+**November/December — Monarch Butterfly Migration.** From November through March, millions of monarch butterflies overwinter in the forests of Michoacan and Mexico State. The sanctuaries near [Morelia](/northamerica/mexico/morelia) and Angangueo are accessible by day trip and offer a genuinely remarkable natural spectacle.
 
-Day of Our Lord of Xalpa - March 6 is a day to spend in [Taxco](/northamerica/mexico/taxco) to see the local indigenous people performing traditional dances.
+**November 1–2 — Día de los Muertos (Day of the Dead).** The most visually striking Mexican tradition. Families build elaborate altars (ofrendas), decorate graves with marigolds, and hold candlelit vigils for the dead. Oaxaca and Pátzcuaro in Michoacan are the most famous places to witness it, but smaller towns often offer a more intimate experience without the crowds.
 
-**April**
-
-Flower Fair - Head to [Cuernavaca](/northamerica/mexico/cuernavaca) to see famous entertainers promoting the flower exhibits and competitions. It all ends with a fantastic light show.
-
-San Marcos National Fair - [Aguascalientes](/northamerica/mexico/aguascalientes)holds a massive expo with handicrafts, theater, sports, marimba contests and more every year from April 17 to 19.
-
-**May**
-
-Cinco de Mayo - May 5 is the celebration of the Mexican victory over the French at Puebla. Most cities will have food, music, dancing and arts and crafts events.
-
-**June**
-
-Mexican Navy Day - Go to [Guaymas](/northamerica/mexico/guaymas) on June 1 to watch the battle reenactment that culminates in a fireworks display.
-
-Corpus Cristi Day - June 18 is the time to be in Papantla, where the Flying Pole Dancers perform every year at this city where they first became famous.
-
-**July**
-
-Day of Our Lord of Mt Carmel - There are native costumes that create an explosion of colors at this Mexico festival held on July 15 every year in Catemaco.
-
-Guelaguetza- This 2-week festival at the end of the month takes place in Oaxaca. Famous dancers perform at this cultural event.
-
-**August**
-
-Cuauhtemoc Day - August 2 celebrates the last of the Aztec emperors. Celebrate with dances and ceremonies in [Mexico City](/northamerica/mexico/mexicocity).
-
-Assumption Day - From August 5 to 20, you can revel in the flowers, dances, fairs, markets and even a running of the bulls in Huamantia, Mexico.
-
-**September**
-
-International Mariachi Day - Go to [Guadalajara](/northamerica/mexico/guadalajara) to watch the mariachi competitions on September 4 and 5.
-
-Independence Day - Celebrated throughout Mexico on September 16 is Independence Day, filled with fireworks and parades.
-
-**October**
-
-Octoberfest - All month in Guadalajara you can take part in music, dancing, food tastings and more.
-
-**November**
-
-Day of the Dead - November 2 is Mexico's day to honor the dead. Head to any major city to check out the museum displays honoring the traditions of the day or watch the proceedings at local cemeteries.
-
-**December**
-
-Las Posados- The days leading up to Christmas are filled with a reenactment of Mary and Joseph's search for shelter before the birth of Jesus. Songs are a big part of this Mexico festival.
-
-**Contributors**
-March 04, 2010
+**December — Las Posadas.** From December 16 to 24, neighborhoods reenact Mary and Joseph's search for shelter with nightly processions, songs, and the breaking of piñatas. A deeply communal tradition best experienced in smaller cities and towns.

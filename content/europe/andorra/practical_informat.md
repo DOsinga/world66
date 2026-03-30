@@ -1,19 +1,18 @@
 ---
-title: "Practical Information in Andorra"
+title: "Practical Information"
 type: section
 ---
 
-**Useful Information Before Visiting the Capital of ****Andorra****
-**
+**Currency**: The euro is used, though Andorra is not an EU member. There are no exchange controls. ATMs are widely available throughout Andorra la Vella and the main villages. Credit cards are accepted nearly everywhere.
 
-Prior to visiting the Capital of Andorra, it is a good idea to learn some **Andorra**** la Vella practical information**. Here are some details on the demographics of Andorra la Vella and the currency used around town. **
-**
+**Language**: Catalan is the official language and a genuine point of pride. Spanish and French are widely spoken in shops and hotels — most service workers speak at least two of the three. English is increasingly common in tourist areas but don't count on it in smaller villages.
 
-#### **Demographics**
+**Shopping and tax**: Andorra's VAT (called IGI) is just 4.5%, compared to 20% in France and 21% in Spain. This makes electronics, cosmetics, alcohol, tobacco, and luxury goods noticeably cheaper. The main shopping strip runs along Avinguda Meritxell in Andorra la Vella and continues into Escaldes-Engordany. When leaving into Spain or France, customs allowances apply: up to 900 euros of goods per adult, plus 1.5 litres of spirits and 5 litres of wine.
 
-Andorra la Vella has a population of almost 23,000 residents with a mix of ethnic backgrounds. About 33 percent of the people are native Andorrans, which makes them a minority in their own town. All native Andorrans are actually Catalans born in Andorra. The rest of the population is Spanish (43 percent), Portuguese (11 percent) and French (7 percent). This colorful combination explains the fact that all 4 languages are spoken in Andorra la Vella, although Catalonian is considered the official language.**
-**
+**Phones**: The international dialling code is +376. Mobile coverage is good throughout the main valleys; the high mountain areas can drop out. Roaming charges from EU plans may apply since Andorra is not in the EU.
 
-#### **Currency**
+**Health**: No vaccinations are required. The standard of medical care is high. The main hospital is the Hospital Nostra Senyora de Meritxell in Escaldes-Engordany. EU health insurance cards (EHIC/GHIC) are accepted.
 
-Andorra has no official currency or its own, so the currency used in Andorra la Vella is the Euro. Since this currency is used by all major European countries, it can be easily bought or exchanged in nearly any country in Europe. However, exchanging money in one of the banks in Andorra la Vella is a much better option, since you can get some of the best exchange rates. All major credit cards are accepted as well. In case you&rsquo;re not familiar with the Euro, 1 Euro is equal to about $1.22 in summer 2010.
+**Safety**: Andorra is one of the safest countries in Europe. Petty crime is rare. Mountain weather can change fast — take precautions on high trails.
+
+**Time**: Central European Time (CET), UTC+1 in winter, UTC+2 in summer.

@@ -1,14 +1,20 @@
 ---
-title: "Getting Around in Port louis"
+title: "Getting Around in Port Louis"
 type: section
 ---
 
-Port Louis, the capital city of Mauritius offers its tourists various **Port Louis**** transportation** options. Apart from being the main port of Mauritius, Port Louis is also a tourist hotspot, full of historic and colonial buildings that have been preserved throughout centuries. The best time to visit Port Louis is from July to September when the average temperature ranges around 24 degrees C. Given its several attractions, ease of getting around holds a lot of importance in the city. Given below are some details on the Port Louis Transportation.
+Port Louis is compact enough to walk between most central sights. The main points of interest — the central market, Chinatown, Caudan Waterfront, Place d'Armes, and Aapravasi Ghat — are all within 15–20 minutes on foot.
 
-**Buses**
+## Bus
 
-Buses form the backbone of the city and are the most commonly used mode of transport in Port Louis. There are primarily two main bus stations in Port Louis located on either side of the city center. These bus stations are located in the heart of the city. They are known as the Labourdonnais bus terminus and the Victoria Square bus terminus. In case you plan to travel within the city then you will have to avail the bus services from Immigrations Square. Buses provide transportation service till 11:00 p.m. between main towns and till 6:00 p.m. to remote areas. Plan your trip in advance so that you do not miss your bus.
+Two main bus stations serve Port Louis: Victoria Square bus terminus on the western side of the city centre, and Immigration Square (also called Labourdonnais terminus) on the northern edge. Most inter-city routes radiate from one of these two stations. City-centre bus fares are Rs 20–30. Buses stop running around 8pm; services to outlying areas stop earlier.
 
-**Taxi**
+The Metro Express light rail connects Port Louis to Curepipe via Rose Hill and Quatre Bornes — faster and more comfortable than the bus for that route. The station is near Victoria Square.
 
-Taxi services are another mode of transport in Port Louis. However this is very expensive when compared to its alternative. There are several car rental agencies which provide this service to tourists. Ensure that you confirm the rates with the rate card before finalizing on the price.
+## Taxi
+
+Taxis are plentiful around the Caudan Waterfront, at the bus stations, and outside the main hotels. Agree on a fare before you get in — there are no meters. Short hops within the city centre cost Rs 150–250. A taxi to the airport from Port Louis is around Rs 1,200–1,500. For fixed pricing, apps like Yugo and MauriRide work in Port Louis.
+
+## Driving
+
+Traffic in Port Louis during rush hours (7–9am and 4–6:30pm) is severe. If you're renting a car, avoid driving in or out of the city at those times. Parking in the centre is limited; the Caudan Waterfront has a large paid car park.

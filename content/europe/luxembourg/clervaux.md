@@ -5,7 +5,7 @@ latitude: 50.054791
 longitude: 6.027551
 ---
 
-Clervaux is a medieval market town, set in a narrow valley and surrounded by wood covered hills. The imposing castle which dates and Prüm.
+Clervaux is a medieval market town set in a narrow valley and surrounded by wooded hills. The imposing castle dates back to the 12th century and dominates the town from above.
 
 
  A venerable witness to a prestigious past, Clervaux castle now houses the offices of the local government, the reception of the "Syndicat d'Initiative" (local Tourist Office), a collection of models of Luxembourg's old fortified castles, a small war museum exhibiting weapons and souvenirs from the 1944-1945 Ardennes offensive (Battle of the Bulge), and the remarkable collection of documentary art photography, the "Family of Man" by Edward Steichen.

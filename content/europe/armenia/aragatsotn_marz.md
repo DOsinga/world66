@@ -5,8 +5,6 @@ latitude: 40.296791
 longitude: 44.360961
 ---
 
-Travel Guide
-
 Aragatsotn Marz consists of the huge volcanic shield of Mt. Aragats,
 formerly Alagyaz, whose main cone rises 4090 meters above sea level.
 The high uplands provide grazing in summer for Yezidi shepherds, as
@@ -68,4 +66,4 @@ The only major city in the region, this historic town is home to 3 churches stan
 
 **Saghmosavank Monastery** - Also on the edge of the large Kasagh river gorge, across from Mt. Ara, Saghmosavank is a photogenic monastery with lots of interesting details. The bell towers, khachkars, ceiling patterns and frescoes are all fun to explore.
 
-**Kasagh Basilica** -Worth a quick stop on a trip to Vanadzor, this small old black basilica dates way
+**Kasagh Basilica** — Worth a quick stop on a trip to Vanadzor, this small old basalt basilica is one of the earliest Christian churches in Armenia, dating to the 4th century.

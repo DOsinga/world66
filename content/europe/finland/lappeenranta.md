@@ -5,16 +5,12 @@ latitude: 61.058342
 longitude: 28.186229
 ---
 
-Located at the south-west point of lake Saimaa, Lappeenranta has served a important role as a bridge between the Finnish and Russian cultures for over 350 years. Nowadays, its strategic position makes it an ideal environment for hi-tech companies with an eye on the Russian market. 
+Lappeenranta sits at the southwest corner of Lake Saimaa, Finland's largest lake, close to the Russian border. Its position has shaped it historically — for over 350 years it has been a crossing point between Finnish and Russian cultures, a garrison town guarding the eastern frontier.
 
-City of Lappeenranta
+The fortress area on the lakeside hill is the main sight: 18th-century ramparts housing museums, craft shops, and cafes. The harbour below is busy in summer, with boat trips heading out onto the labyrinthine lake system and day cruises through the Saimaa Canal toward Vyborg in Russia (check current border rules before planning this).
 
-Lappeenranta is a friendly town of great natural beauty with 58,000 inhabitants. It is the administrative, commercial and cultural centre of South Karelia, and a hub of lakeside tourism. 
-
-Lappeenranta has many nicknames, including the Town of Lindens, Cavalry Town, Gate to Lake Saimaa, Gateway to the East… Naturally, each appellation has its roots in the history of the town. For example, the first linden trees were planted in the parks of Lappeenranta in the 1780s, today nearly 2,600 lindens line the streets of the town. The centuries old cavalry tradition continues with the cavalrymen riding through the streets of the town dressed in red trousers and elaborately embroidered jackets. The Fortress, with its museums, craftsmen's shops and cafés breathes history. Every day, around ten ships depart from the harbour, heading for the labyrinth of islands on Lake Saimaa or through the Saimaa Canal. 
-
-Winter in Lappeenranta is a lively and active season. A rich variety of theatre performances and concerts, excellent accommodation, fascinating museums and magnificent opportunities for outdoor activities, seasoned with Karelian hospitality, make Lappeenranta an all-year-round tourist destination. Well-kept cross country skiing tracks start from the centre of the town, with many skiing events to enliven the atmosphere in the late winter.
+Lappeenranta has about 75,000 people and serves as the administrative centre of South Karelia. It's a pleasant city to spend a day or two, especially in summer when the lakeshore fills up.
 
 ## Destinations in Lappeenranta
 
-[Saimaa Canal Saiman kanava](/europe/finland/lappeenranta/saimaacanalsaimankanava)
+[Saimaa Canal](/europe/finland/lappeenranta/saimaacanalsaimankanava)

@@ -3,36 +3,22 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**By air**
 
-The Bahamas' national airline is *Bahamasair (UP)*. Other airlines with regular flights to the Bahamas include *American Airlines Air Canada Air Jamaica Continental Airlines Delta Airlines British Airways* *AOM French Airlines* * USAir* and *United Airlines*.
+The two main international airports are Nassau's **Lynden Pindling International Airport (NAS)**, about 16km west of downtown, and **Grand Bahama International Airport (FPO)** in Freeport. Both receive direct flights from the US, Canada, and the UK. American, Delta, United, JetBlue, Air Canada, and British Airways all serve Nassau. Bahamasair, the national carrier, connects Nassau to many of the Family Islands.
 
-For free advice on air travel from the UK call the *Air Travel Advisory Bureau* in the UK on (0171) 636 5000 (London) *or *(0161) 832 2000 (Manchester).
+Several outer islands have their own airports with direct connections from the US: **Exuma International (GGT)**, **Marsh Harbour (MHH)** in the Abacos, and **North Eleuthera (ELH)** all receive flights from Miami, Fort Lauderdale, and New York. Southern Air and Flamingo Air run small-plane charters and scheduled services between islands.
 
-Approximate flight times
+Nassau offers US pre-clearance, so flights from Nassau to American airports clear customs and immigration before departure — you land as if arriving domestically.
 
-From *Los Angeles* to Nassau is 7 hours from *New York* is 3 hours and from *Singapore* is 33 hours.
+**By sea**
 
-International airports
+Cruise ships dock in Nassau at Prince George Wharf, a short walk from downtown. Nassau is one of the busiest cruise ports in the Caribbean. Several lines also call at Princess Cays (Eleuthera), Castaway Cay (Abaco), and Half Moon Cay (Little San Salvador).
 
-*Nassau International (NAS)* is 16km (10 miles) west of the city. An airport bus and taxi services are available. Airport facilities include banking (0930-1500 Monday to Thursday and 0930-1700 Friday) car hire *(Avis Budget Dollar *and *Hertz*) post office bars restaurants (0600-2000) and duty-free shops (0930-1900).
+Balearia Caribbean runs a fast ferry between Fort Lauderdale and Grand Bahama Island — a practical option if you're not flying. The crossing takes about three hours.
 
-*Freeport International (FPO)* is 5km (3 miles) from the city. Taxis are available. Airport facilities include banking car hire car parking bar/restaurant and a duty-free shop.
+Private boaters crossing from Florida must check in with Bahamian customs immediately upon arrival. BIMINI is the traditional first landfall; it has a customs office and is only 50 nautical miles from Miami.
 
-There are scheduled turbo-prop services between several airports in Florida and *Treasure Cay (TCB)* Abaco Island *Rock Sound (RSD)* Eleuthera and *Georgetown (GGT).*
+**Entry requirements**
 
-The new international airport at Moss Town Exuma has been completed.
-
-Departure tax
-
-B$15 (Freeport  B$18). Children under six years of age and passengers for immediate transit are exempt.
-
-Sea
-
-A large number of international passenger ships from New York and Miami call at Nassau. Nassau has direct passenger-cargo connections with the United States the UK the West Indies and South America. In addition a large number of cruise ships call there*.* Facilities for cruisers in Nassau and some harbours of the Out Islands (Eleuthera Andros and Exuma) are being improved.
-
-Contact Bahamas Tourist Office for an up-to-date list of cruise operators to The Bahamas with all relevant contact numbers.
-
-
-
-x
+Citizens of the US, Canada, UK, EU, Australia, and most other Western countries do not need a visa for stays up to three months. A valid passport is required — it must be valid for at least six months beyond your departure date. Since 2025, all visitors must complete a digital immigration form online before arrival (free, takes about five minutes). You will also need a return or onward ticket.

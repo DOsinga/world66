@@ -1,69 +1,24 @@
 ---
-title: "Top 5 Must Do's in Colombia"
+title: "Top 5 Must-Dos"
 type: section
 ---
 
-Located in South America is the diverse and cultural country
-of **Colombia. Must do’s** range from
-Caribbean beaches to coffee plantations as this country has much to offer. And
-after years of civil conflict, Colombia is finally safe to visit and
-vacationers are uncovering the beauty of this culturally diversified land.**
+**1. Walk the walled city of Cartagena**
 
-1. Visit the World Heritage Site in Cartagena**
+The centro histórico of [Cartagena](/southamerica/colombia/cartagena) is one of the finest colonial old towns in the Americas — a UNESCO World Heritage Site of pastel-painted buildings, flower-draped balconies, and fortifications that held off pirates and the British Navy. Spend an evening on the walls at sunset, then get lost in the streets of Getsemaní, the neighbourhood just outside the walls that has become one of Colombia's best spots for street art and independent restaurants.
 
-The port, the monuments, and the fortresses of Cartagena de
-Indias were selected by UNESCO in 1984 as having the most substantial
-fortifications in South America. Located on the Caribbean Sea, visitors can
-relax on the sunny beaches, admire the colonial architecture, wander the old
-city, and dine on a wide variety of seafood and fish restaurants. This is the
-place to travel if you want to see what life was like in the colonial era, as
-the old city of Cartagena showcases a clock tower and numerous street vendors
-and open air cafes.**
+**2. Trek to Ciudad Perdida**
 
-2. Explore the Colombian National Coffee Park in Quindio****
+The Lost City, built by the Tayrona people around the 9th century, predates Machu Picchu by several hundred years. The five- or six-day return hike through the Sierra Nevada de Santa Marta is tough — river crossings, steep climbs, high humidity — but the site itself is remarkable, and relatively few tourists reach it compared to more famous ruins. Tours depart from [Santa Marta](/southamerica/colombia/santamarta).
 
-**
+**3. Spend time in the Coffee Region**
 
-This theme park and museum is a fascinating destination
-where visitors will learn of the traditions of Colombian coffee and the myths
-and legends of the region. The park features attractions such as a cable car
-providing an aerial view from high above, an animatronic orchids musical show,
-a roller coaster, miniature go-kart racing, a train ride and a splash ride.
-And the park’s location in the lush and green regions of Quindio makes it a
-relaxing spot to visit as well.
+The Eje Cafetero — centred on the cities of [Manizales](/southamerica/colombia/manizales), Armenia, and [Pereira](/southamerica/colombia/pereira) — is where most of Colombia's coffee is grown. Stay at a working finca, walk the fields at dawn, and hike through Cocora Valley, where the wax palm (Colombia's national tree) grows to 60 metres. The landscape is some of the most beautiful in the country.
 
-**3. Discover the Beauty of the Bogota Botanical Garden**
+**4. Explore Medellín's neighbourhoods**
 
-As Colombia’s biggest botanical garden, this massive
-landmark features a greenhouse that holds plants from every region and climate
-in Colombia. It also showcases the biggest aquatic Amazonian flower as well as
-the Colombian national tree, the Palma de Cera. While enjoying the plant life
-of the Bogota Botanical Garden, tourists can also venture off and see the
-artificial waterfall or the labs for studying various plant life.
+[Medellín](/southamerica/colombia/medellin) has transformed dramatically from the violence of the 1980s and 90s. Take the Metrocable up to the hillside comunas, visit the outdoor escalators and murals of Comuna 13, and spend an evening in El Poblado or Laureles. The Museo de Antioquia, with its collection of Botero sculptures, is downtown. The city is genuinely good — energetic, affordable, and proud of how far it has come.
 
-**4. Admire Colombian Architecture at the Salt Cathedral of
-Zipaquirá**
+**5. Swim at Parque Nacional Natural Tayrona**
 
-This cathedral is considered one of Colombia’s most
-remarkable architectural structures, and has also been called the “Jewel of
-Modern Architecture.” The Salt Cathedral of Zipaquirá is located underground
-and was built by the Romans within the tunnels of a salt mine in a Halite
-mountain near the town of Zipaquirá. Visitors can explore the 3 sections of
-the lower temple, which represent the birth, life, and death of Jesus, and the
-various marble structures within.
-
-**5. Enjoy the Shopping and Dining of Cali**
-
-It is here you will find a wide variety of restaurants,
-boutiques, fashion stores and hotels. In Cali, you can locate whole districts
-dedicated to tourism. Cali is also ranked as one of the first-class restaurant
-options in Colombia, closely following Bogota. It is said that the ideal time
-to explore Cali is after 4 p.m., when the weather is perfect and the breeze
-starts, making it a refreshing and exciting experience.
-
-** **
-
-**Contributors**
-February 01, 2010
-
-February 09, 2010
+[Tayrona](/southamerica/colombia/santamarta) is one of the best national parks in South America: tropical forest meeting the Caribbean Sea, with a handful of beaches — Cabo San Juan, La Piscina, Arrecifes — reachable only on foot or horseback. The swimming is excellent at some beaches, prohibited at others (the currents can be lethal — follow the signs). Combine a visit with time in Santa Marta and a stop at Aracataca, the birthplace of García Márquez.

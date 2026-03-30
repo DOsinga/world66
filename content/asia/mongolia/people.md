@@ -3,66 +3,16 @@ title: "People"
 type: section
 ---
 
-**Population:** 2 578 530 (July 1998 est.)
+Mongolia has a population of around 3.4 million — an average density of just two people per square kilometre, making it the least densely populated sovereign country on earth. About half of all Mongolians live in [Ulaanbaatar](/asia/mongolia/ulaanbaatar). The other half are spread across a country the size of Western Europe.
 
-**Age structure:**
+Around 90 percent of the population is ethnically Mongolian, mostly of the Khalkha subgroup. The largest minority are the Kazakhs, about four percent, concentrated in the far west around Bayan-Olgii province. They are Muslim, speak a Turkic language, and maintain distinct traditions including the eagle hunting culture that draws visitors to the region. Smaller communities of Chinese, Russians, and other Turkic peoples make up the remainder.
 
-*0-14 years:* 37% (male 483 795; female 468 700)
+**Nomadic life** is not a performance put on for tourists. An estimated 600,000–700,000 Mongolians still live as pastoral nomads, moving their gers (circular felt tents) several times a year to follow the grazing. A family typically keeps a mix of horses, cattle, sheep, goats, and camels. The livestock are not just livelihood — they are identity. Being invited into a ger is an act of genuine hospitality.
 
-*15-64 years:* 59% (male 764 665; female 764 825)
+If you visit a nomadic family, accept what is offered. Milk tea (suutei tsai, salty and sometimes buttery) will come first, followed by dried curds (aaruul), and possibly airag — fermented mare's milk, slightly alcoholic and an acquired taste. Decline politely if you must, but accept a token sip if you can. Take and receive things with your right hand, or with both hands. Never step on the threshold. Walk clockwise inside the ger. Don't whistle indoors.
 
-*65 years and over:* 4% (male 41 488; female 55 057) (July 1998 est.)
+**Buddhism** returned strongly after the fall of communism in 1990. The communist purges of the 1930s destroyed most of Mongolia's monasteries and killed thousands of monks. Today, Tibetan-style Buddhism is again the dominant religion, with monasteries being rebuilt and new monks ordained. The Dalai Lama is enormously revered. Buddhism blends in practice with older shamanist beliefs — you will see ovoo (stone cairns topped with blue cloth and offerings) throughout the countryside.
 
-**Population growth rate:** 1.54% (1998 est.)
+The Kazakh minority in the west is predominantly Muslim. Western Mongolia is conservative by Mongolian standards; dress and behave accordingly in Bayan-Olgii.
 
-**Birth rate:** 23.56 births/1 000 population (1998 est.)
-
-**Death rate:** 8.19 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.75 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 66.34 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 61.46 years
-
-*male:* 59.4 years
-
-*female:* 63.61 years (1998 est.)
-
-**Total fertility rate:** 2.75 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Mongolian(s)
-
-*adjective:* Mongolian
-
-**Ethnic groups:** Mongol 90% Kazakh 4% Chinese 2% Russian 2% other 2%
-
-**Religions:** predominantly Tibetan Buddhist Muslim 4%
-
-*note:* previously limited religious activity because of communist regime
-
-**Languages:** Khalkha Mongol 90% Turkic Russian Chinese
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 82.9%
-
-*male:* 88.6%
-
-*female:* 77.2% (1988 est.)
+Mongolians are proud people. The legacy of Genghis Khan — complicated elsewhere — is a source of uncomplicated national pride here. Don't make jokes about him, and don't confuse Mongolia with Inner Mongolia (the Chinese autonomous region).

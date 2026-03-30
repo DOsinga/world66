@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 36 265 463 (July 1998 est.)
+Argentina has a population of around 46 million, concentrated heavily in and around Buenos Aires, which is home to roughly a third of the country. The rest of the population is spread across a handful of large cities — Córdoba, Rosario, Mendoza, Tucumán — and vast, sparsely inhabited rural areas.
 
-**Age structure:**
+Argentina is one of the most European-descended countries in Latin America. Mass immigration from Spain and Italy in the late 19th and early 20th centuries shaped the ethnic and cultural character of the country profoundly. There are also significant communities of German, Welsh (notably in Patagonia), Eastern European, Jewish, Arab, and East Asian descent. Indigenous peoples — Quechua, Mapuche, Guaraní, and others — make up a smaller percentage of the population, more visible in the northwest and Patagonia.
 
-*0-14 years:* 27% (male 5 078 061; female 4 888 883)
+Argentines are famously talkative, opinionated, and passionate about food, football, and politics. Mealtimes are late — lunch around 1–2pm, dinner rarely before 9pm and often closer to 10 or 11pm. Greeting someone you know with a kiss on the cheek is standard, regardless of gender.
 
-*15-64 years:* 62% (male 11 299 155; female 11 315 522)
+Spanish is spoken across the country, but the Argentine accent and the use of *vos* instead of *tú* take some getting used to. Porteños (people from Buenos Aires) have a particular lilt influenced by Italian immigration. In the Welsh-settled Chubut valley, Welsh is still spoken in some communities.
 
-*65 years and over:* 11% (male 1 526 682; female 2 157 160) (July 1998 est.)
+Catholicism is the dominant religion, though practiced with varying degrees of observance. Argentina has a sizeable Jewish community, one of the largest in Latin America. Pope Francis — born Jorge Mario Bergoglio in Buenos Aires — is a source of considerable national pride.
 
-**Population growth rate:** 1.3% (1998 est.)
-
-**Birth rate:** 19.96 births/1 000 population (1998 est.)
-
-**Death rate:** 7.67 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.66 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.71 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 19.03 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 74.54 years
-
-*male:* 70.9 years
-
-*female:* 78.34 years (1998 est.)
-
-**Total fertility rate:** 2.68 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Argentine(s)
-
-*adjective:* Argentine
-
-**Ethnic groups:** white 85% mestizo Amerindian or other nonwhite groups 15%
-
-**Religions:** nominally Roman Catholic 90% (less than 20% practicing) Protestant 2% Jewish 2% other 6%
-
-**Languages:** Spanish (official) English Italian German French
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 96.2%
-
-*male:* 96.2%
-
-*female:* 96.2% (1995 est.)
+The *asado* (barbecue) is not just a meal but a social ritual, often lasting several hours on a Sunday. The *mate* gourd is a constant companion — sharing mate is a gesture of friendship and hospitality.

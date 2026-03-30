@@ -3,76 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+The literature on Liechtenstein is thin — the country is small and has not generated much in the way of English-language writing. These are the most useful starting points.
 
-**Fragmentation and the International Relations of Micro-States**
+**For history and context**, Jorri Duursma's *Fragmentation and the International Relations of Micro-States* (ISBN 0521563607) places Liechtenstein alongside San Marino, Monaco, and Andorra in a scholarly comparative study of how very small states manage sovereignty and international relations. Dry in places but thorough.
 
+*The House of Liechtenstein* by James Bentley (ISBN 0881622788) is the more accessible option — a narrative history of the princely family and how they built and preserved one of Europe's oldest dynastic collections.
 
+**For art**, *Liechtenstein: The Princely Collections* by Reinhold Baumstark (ISBN 0870993860) documents the extraordinary holdings of the royal family, which include works by Rubens, van Dyck, and Raphael. Much of the collection is now displayed at the Liechtenstein Museum in Vienna; this catalogue remains the best guide to it.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0521563607/ref=ase_osingacom?v=glance&s=books)
-
-author: Jorri Duursma
-
-isbn: 0521563607
-
-subject: travel
-
-**Austria and Liechtenstein Handbook**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/076050881X/ref=ase_osingacom?v=glance&s=books)
-
-author: Press, Limited Rector (Editor)
-
-isbn: 076050881X
-
-subject: travel
-
-**The Graphic Work**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/371651036X/ref=ase_osingacom?v=glance&s=books)
-
-author: Franz-Joachi Verspohl,With Franz-Joachim Vers..
-
-isbn: 371651036X
-
-subject: culture
-
-**Italian Glass :Murano Milan 1930-1970 : The Collection of the Steinberg Foundation**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/3791317369/ref=ase_osingacom?v=glance&s=books)
-
-author: Helmut Ricke (Editor),Eva Schmitt (Editor)
-
-isbn: 3791317369
-
-subject: history
-
-**The House of Liechtenstein**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0881622788/ref=ase_osingacom?v=glance&s=books)
-
-author: James Bentley
-
-isbn: 0881622788
-
-subject: history
-
-**Liechtenstein:The Princely Collections**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0870993860/ref=ase_osingacom?v=glance&s=books)
-
-author: Reinhold Baumstark
-
-isbn: 0870993860
-
-subject: history
+**For travel**, the *Austria and Liechtenstein Handbook* (ISBN 076050881X) covers the country as part of a regional guide and is practical if dated.

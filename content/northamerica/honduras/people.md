@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 5 861 955 (July 1998 est.)
+Honduras has a population of around 10.5 million. The large majority — roughly 90 percent — are mestizo, of mixed Spanish and indigenous descent. The country is also home to several distinct indigenous and Afro-descendant communities that have maintained their own languages and cultures.
 
-**Age structure:**
+The **Lenca** are the largest indigenous group, concentrated in the western highlands around the departments of Intibucá, Lempira, and La Paz. Their warrior chief Lempira, who led resistance against the Spanish in the 1530s, gave his name to the national currency. The Lenca have largely lost their original language but retain distinctive craft traditions, especially pottery.
 
-*0-14 years:* 42% (male 1 248 291; female 1 204 574)
+The **Garifuna** live in a string of communities along the Caribbean coast, from the Guatemalan border east past La Ceiba and Trujillo. They are descendants of Afro-Caribbean and indigenous Carib people who were exiled from the island of St Vincent by the British in 1797. Their language, music, and dances were inscribed by UNESCO as Intangible Cultural Heritage in 2001. Garifuna cooking — particularly the seafood stew called tapado, made with coconut milk, yucca, and plantain — is among the best food in Honduras.
 
-*15-64 years:* 55% (male 1 591 995; female 1 615 449)
+The **Miskito** (or Mosquito) people live in La Mosquitia in the northeast, an area so remote it was never effectively colonized by Spain. English-influenced Creole is also spoken by communities in the Bay Islands and on the north coast, a legacy of British presence in the region.
 
-*65 years and over:* 3% (male 96 017; female 105 629) (July 1998 est.)
+The **Maya Ch'ortí** live in the far west near Copán, descendants of the people who built the city. The **Pech**, **Tawahka**, and **Tolupán** are smaller groups in the north and east.
 
-**Population growth rate:** 2.33% (1998 est.)
-
-**Birth rate:** 31.79 births/1 000 population (1998 est.)
-
-**Death rate:** 7.02 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.48 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.91 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 41.88 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 65.01 years
-
-*male:* 63.31 years
-
-*female:* 66.8 years (1998 est.)
-
-**Total fertility rate:** 4.12 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Honduran(s)
-
-*adjective:* Honduran
-
-**Ethnic groups:** mestizo (mixed Amerindian and European) 90% Amerindian 7% black 2% white 1%
-
-**Religions:** Roman Catholic 97% Protestant minority
-
-**Languages:** Spanish Amerindian dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 72.7%
-
-*male:* 72.6%
-
-*female:* 72.7% (1995 est.)
+Spanish is spoken throughout the country. The Bay Islands have an English-speaking majority, a result of their time as a British colony in the 19th century.

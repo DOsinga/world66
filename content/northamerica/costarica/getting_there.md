@@ -3,30 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-**Points of Interest**
+## By Air
 
-**Road**
+Costa Rica has two international airports. Juan Santamaría International Airport (SJO) outside San José handles the majority of international traffic and has direct connections from most major North American cities (Miami, New York, Houston, Los Angeles, Toronto) as well as European hubs including Madrid, London, Paris, and Amsterdam. Flight times are roughly 3 hours from Miami, 5–6 hours from New York, and 10–11 hours from Europe.
 
-  The Inter-American Highway runs through Costa Rica from La Cruz on the Nicaraguan border through San José to Progreso on the Panamanian border.   
+Guanacaste International Airport (LIR) near Liberia serves the northern Pacific beaches and receives direct flights from several North American cities, a useful alternative if you're heading straight to the Nicoya Peninsula or Guanacaste.
 
-**By air**
+Booking two to three months ahead usually gets better fares. High season (December through April) sees peak prices and demand.
 
-The Costa Rican national airline is Lineas Aéras Costarricenses LACSA (LR). LACSA flies direct to Costa Rica from Miami New Orleans Los Angeles New York Mexico Colombia Venezuela and Panama. For routes via the USA a change of plane is necessary. Flights with one or two stops which do not go via the USA are available from Iberia in Madrid and KLM in Amsterdam. They take longer but the need to change planes is eliminated. The Visit Central America Pass is available from LACSA and is an economical way to travel to Costa Rica from the USA and from Costa Rica to other Central American countries.   Approximate flight times From San José to London is 12 hours (including stopover time) to Los Angeles is 11 hours and to New York is 7 hours.   [more..](/northamerica/costarica/gettingthere/byair)
+## By Land
 
-**Sea**
+The Pan-American Highway (Interamericana) runs through Costa Rica from the Nicaraguan border at Peñas Blancas in the north to the Panamanian border at Paso Canoas in the south. Long-distance buses connect San José to Managua, Panama City, and other Central American capitals. Tica Bus and Transnica are the main operators; the journey from San José to Managua takes around 9–10 hours, to Panama City around 8–9 hours.
 
-   Lauro Lines run regular services to Puerto Limón from the Mediterranean (Genoa Barcelona). Costa Lines run cruises which call at Puntarenas.
+Border crossings can be slow, especially on weekends. Bring patience and more cash than you think you'll need.
 
-**all**
+## By Sea
 
-**By air**
-
-The Costa Rican national airline is Lineas Aéras Costarricenses LACSA (LR). LACSA flies direct to Costa Rica from Miami New Orleans Los Angeles New York Mexico Colombia Venezuela and Panama. For routes via the USA a change of plane is necessary. Flights with one or two stops which do not go via [more..](/northamerica/costarica/gettingthere/byair)
-
-**Road**
-
-  The Inter-American Highway runs through Costa Rica from La Cruz on the Nicaraguan border through San José to Progreso on the Panamanian border.   
-
-**Sea**
-
-   Lauro Lines run regular services to Puerto Limón from the Mediterranean (Genoa Barcelona). Costa Lines run cruises which call at Puntarenas.
+Cruise ships call at Puntarenas on the Pacific and Puerto Limón on the Caribbean. Independent travelers rarely arrive by sea.

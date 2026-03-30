@@ -1,10 +1,16 @@
 ---
-title: "Tzakhadzor"
+title: "Tsaghkadzor"
 type: location
+latitude: 40.543651
+longitude: 44.734297
 ---
 
-Tzakhadzor is the place to go skiing. It is located some 60 km from [Yerevan](/europe/armenia/yerevan), just off the main road to Sevan. 
+Tsaghkadzor (also spelled Tzakhadzor) is Armenia's main ski resort, located about 50km north of [Yerevan](/europe/armenia/yerevan) in the Kotayk highlands. The name means "valley of flowers" in Armenian.
 
-From the mountain you have great views over the valley and on a good day you can see the lake Sevan. The nuclear plant in the valley is also visible on cloudy days.
+The ski area has several chairlifts and runs from around 1,950m to 2,819m. The season typically runs December to March. The resort has modernised considerably since the Soviet era — lifts and facilities are in reasonable condition. Day passes and equipment rental are available at the base, and prices are lower than Western European resorts.
 
-The lifts are not running every day, but it is always possible to convince the people who operate the machines to turn them on for you. A half day of skiing, gear and lifts, would cost you 20 dollars, cheaper if you are in a group.
+In summer the gondola continues to operate and the mountain is popular for walking. Views from the top extend to Lake Sevan on a clear day.
+
+The 12th-century Kecharis Monastery at the edge of town is worth a visit whatever the season.
+
+Buses and marshrutkas from Yerevan run regularly. Many guesthouses and small hotels operate year-round in the town.

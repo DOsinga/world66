@@ -3,88 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Year of Living Danishly** by Helen Russell (2015) — A British journalist moves to rural Jutland and spends a year investigating what makes Danes the world's happiest people. Warm, funny, and genuinely informative about Danish society. A good read before you go.
 
-**Fodor's Scandinavia:The Complete Guide to Denmark, Finland, Iceland, Norway and Swedan**
+**The Almost Nearly Perfect People** by Michael Booth (2014) — A British writer examines the Nordic countries with a fond but unsentimental eye. The Denmark sections are sharp on hygge, Janteloven, and the gap between the country's self-image and reality.
 
-kkkkkkkkkkkkkk 
+**Smilla's Sense of Snow** by Peter Høeg (1992) — A thriller set in Copenhagen, involving a Greenlander woman investigating a child's death. Atmospheric, dark, and a reminder that Denmark's relationship with Greenland is complicated.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679035311/ref=ase_osingacom?v=glance&s=books)
+**The Invention of Nature** by Andrea Wulf — Not Denmark-specific, but Alexander von Humboldt had significant Danish connections and the book illuminates the era when Copenhagen was a centre of natural science.
 
-author: Fodor Travel Publications,Inc Staff Fodor's T..
+**Number the Stars** by Lois Lowry (1989) — A young adult novel about the Danish rescue of Jewish citizens during the Nazi occupation. Historically accurate and moving; the Danish rescue operation — in which the population helped ferry roughly 7,000 Jews to neutral Sweden in fishing boats — is one of the more remarkable stories of the war.
 
-isbn: 0679035311
+**Hamlet** by William Shakespeare — It's set here. [Kronborg Castle](/europe/denmark/helsingor) in Helsingør will make more sense if you've read it.
 
-subject: travel
-
-**The Rough Guide to Scandinavia:Denmark, Norway, Sweden and Finland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858282365/ref=ase_osingacom?v=glance&s=books)
-
-author: Jules Brown,Sinclair Brow,Marc Singer
-
-isbn: 1858282365
-
-subject: travel
-
-**The Hamlet:Prince of Denmark**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/067172262X/ref=ase_osingacom?v=glance&s=books)
-
-author: William Shakespeare,Paul Werstine (Editor),Ba..
-
-isbn: 067172262X
-
-subject: culture
-
-**Number the Stars**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0440403278/ref=ase_osingacom?v=glance&s=books)
-
-author: Lois Lowry
-
-isbn: 0440403278
-
-subject: history
-
-**Hamlet:Prince of Denmark (Cliffs Notes)**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0822000180/ref=ase_osingacom?v=glance&s=books)
-
-author: William Shakespeare
-
-isbn: 0822000180
-
-subject: history
-
-**The Hamlet:Prince of Denmark**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/067172262X/ref=ase_osingacom?v=glance&s=books)
-
-author: William Shakespeare,Paul Werstine (Editor),Ba..
-
-isbn: 067172262X
-
-subject: history
-
-**Denmark:The Complete Guide with the Best of Copenhagen, the Countryside and the Islands**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679036156/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Inc Staff Fodor's T..
-
-isbn: 0679036156
-
-subject: travel
+For travel guides, the **Lonely Planet Denmark** and **Rough Guide to Denmark** are both solid. Rick Steves covers Denmark well in his Scandinavia guide, with emphasis on practical self-guided walking tours of Copenhagen and Helsingør.

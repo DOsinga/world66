@@ -5,14 +5,12 @@ latitude: 40.769627
 longitude: 44.673665
 ---
 
-Armenia is the oldest Christian state in the world. The landlocked state in the Caucasus has quite a few sites that testify of its early Christian origins. This togheter with the great mountain scenery and some good wines make it a interesting destination.
+Armenia is one of the oldest Christian nations on earth, a small landlocked country in the South Caucasus wedged between Turkey, Georgia, Azerbaijan, and Iran. It is compact — you can cross the whole country in a few hours — but remarkably dense with ancient monasteries, Roman-era temples, medieval fortresses, volcanic mountains, and one of the largest alpine lakes in the world.
 
-Armenia has only acquired its independence from the Soviet Union recently and the start of the new republic has been a bumpy one. A war with neighbouring [Azerbaijan](/europe/azerbaijan) over Nagorny Karabach being the main problem.
+[Yerevan](/europe/armenia/yerevan), the capital, is the obvious base. It is a pleasant, walkable city with good food, lively café culture, and easy access to the country's most-visited sites. Within an hour or two you can reach the Hellenistic temple at [Garni](/europe/armenia/garni), the rock-carved monastery of [Geghard](/europe/armenia/geghard), the holy see at [Echmiadzin](/europe/armenia/echmiadzin), and the monastery of [Khor Virap](/europe/armenia/khorvirap) at the foot of Mount Ararat.
 
+Beyond the day-trip circuit, the north offers deep gorges, dense forests, and a string of UNESCO-listed monasteries in the Debed canyon near [Alaverdi](/europe/armenia/alaverdi). To the east, [Lake Sevan](/europe/armenia/sevanavank) sits at 2,000 metres and is dotted with beaches and monasteries. The south, Syunik province, feels remote and dramatic — petroglyphs, the cable-car-accessed Tatev Monastery, and a land border with Iran.
 
- If you fly in your trip will probably start in [Yerevan](/europe/armenia/yerevan), the capital city. Culturally and economically it is the most important place in Armenia. [Garni](/europe/armenia/garni) and [Geghard](/europe/armenia/geghard) are excellent daytrips from the capital.
+Armenia has absorbed a painful recent shock. In September 2023, following a nine-month blockade and a swift military offensive by Azerbaijan, the entire ethnic Armenian population of Nagorno-Karabakh — over 100,000 people — fled to Armenia within days. The enclave, historically known to Armenians as Artsakh, is now fully under Azerbaijani control. This is a raw subject and one that weighs on the country. The old route from Goris through the Lachin corridor to Stepanakert is no longer accessible to travellers.
 
-[Echmiadzin](/europe/armenia/echmiadzin) is the religious capital of Armenia and is the place of residence of the leader of the Aremenian Church.
-
-
- The region of [Nagorno-karabakh](/europe/armenia/nagornokarabakh) is not only famous for its excellent horses but more so for the civil war that has been raging there after the independence of Armenia and neighboring [Azerbaijan](/europe/azerbaijan). The region is quite pretty, but getting there may be hard and the situation is still tense.
+Despite this, Armenia itself is safe and very welcoming to visitors. Tourism has been growing steadily, and Yerevan in particular has developed a genuinely good food and drink scene. The country rewards slow travel.

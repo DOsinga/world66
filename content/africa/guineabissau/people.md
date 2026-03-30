@@ -1,66 +1,14 @@
 ---
-title: "People"
+title: 'People'
 type: section
 ---
 
-**Population:** 1 206 311 (July 1998 est.)
+Guinea-Bissau is home to around two million people and a remarkable diversity of ethnic groups for such a small country. The largest groups are the Balanta (about 30%), Fula (about 20%), Manjaco (14%), and Mandinka (13%), each with their own language, customs, and social structure. The Papel, Bijago, and several smaller groups make up the rest.
 
-**Age structure:**
+The Balanta are the largest group and traditionally rice farmers in the coastal lowlands. The Fula, who are predominantly Muslim, dominate the interior and have a strong trading culture. The Bijago people of the [Bijagos Islands](/africa/guineabissau/bijagosislands) are among the most culturally distinct, maintaining matriarchal societies where women choose their husbands and hold significant social power.
 
-*0-14 years:* 42% (male 256 315; female 255 208)
+Portuguese is the official language, a legacy of colonial rule that ended in 1974 after a long independence war led by Amilcar Cabral. But the real lingua franca is Kriol, a Portuguese-based creole that everyone speaks regardless of ethnic background. It is the language of the markets, the streets, and daily life.
 
-*15-64 years:* 55% (male 313 270; female 347 431)
+Religion is a fluid affair. About 45% of the population is Muslim, concentrated among the Fula and Mandinka. Around 20% are Christian, mostly Catholic. Many people, regardless of their nominal religion, also practice animist traditions -- spirit worship, ancestor veneration, and sacred rituals that predate the arrival of either Islam or Christianity.
 
-*65 years and over:* 3% (male 15 986; female 18 101) (July 1998 est.)
-
-**Population growth rate:** 2.32% (1998 est.)
-
-**Birth rate:** 38.67 births/1 000 population (1998 est.)
-
-**Death rate:** 15.48 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.9 male(s)/female
-
-*65 years and over:* 0.88 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 111.61 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 49.14 years
-
-*male:* 47.47 years
-
-*female:* 50.85 years (1998 est.)
-
-**Total fertility rate:** 5.17 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Guinean (s)
-
-*adjective:* Guinean
-
-**Ethnic groups:** African 99% (Balanta 30% Fula 20% Manjaca 14% Mandinga 13% Papel 7%) European and mulatto less than 1%
-
-**Religions:** indigenous beliefs 50% Muslim 45% Christian 5%
-
-**Languages:** Portuguese (official) Crioulo African languages
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 53.9%
-
-*male:* 67.1%
-
-*female:* 40.7% (1997 est.)
+Bissau-Guineans are generally warm and welcoming to the few foreigners who make it to their country. Life moves at a slow pace, conversations are unhurried, and hospitality is genuine. Cashew harvesting season (March to June) is a major event -- Guinea-Bissau is one of the world's largest cashew producers, and the harvest shapes the rhythm of rural life.

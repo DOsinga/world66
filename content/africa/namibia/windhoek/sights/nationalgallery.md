@@ -1,11 +1,9 @@
 ---
-title: "National Gallery"
+title: "National Gallery of Namibia"
 type: poi
-type: "Museums"
+address: "Corner of Robert Mugabe Avenue and John Meinert Street, Windhoek"
 latitude: -22.562318
 longitude: 17.085738
 ---
 
-The national Gallery (061) 231160), on the corner of Robert Mugabe Ave and John Meinert Strasse, contains a permanent collection of works reflecting Namibia’s historical and natural heritage. It also hosts visiting exhibition.
-
-type: Museums
+The National Gallery holds a permanent collection of work reflecting Namibia's historical and natural heritage, alongside rotating visiting exhibitions. A small but well-curated institution worth an hour of your time.

@@ -1,15 +1,24 @@
 ---
-title: "Top 5 Must Do's in Netherlands"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-Netherlands hotels are vast in what they offer and what they cost. Although the Netherlands is not exactly a budget travelers place there are still some places to find a cheap place to sleep that is clean and safe. Those in the moderate price bracket will have far more choice at their finger tips with guest houses, bed and breakfasts and pensions available to them. For those travelers that desire luxury accommodation The Netherlands can definitely provide it. Nearly all of the major hotel chains operate out of The Netherlands serving the needs of their most loyal customers.
+**1. Get lost in Amsterdam's canal ring**
 
-Budget Accommodation
-Those traveling through The Netherlands on a budget will have several options available. One of the most obvious is the YHA International Youth Hostels. Membership is required but only takes minutes. YHA operates over 30 hostels throughout the Netherlands offering a safe and clean place to sleep. There are also several independent hostels across The Netherlands all with varying levels of service. Travelers should try to look beyond the price when booking a place in one of these. Some are fantastic while others terrible. Extra care and caution should be taken toward security when using independant hostels in the larger cities, especially Amsterdam. Despite this hostels can provide a place to stay for under 20 euros per night. Cash is generally the only method of payment accepted.
+The 17th-century canal ring — Herengracht, Keizersgracht, Prinsengracht — is a UNESCO World Heritage Site and one of the most distinctive urban environments in the world. Walk it, cycle it, or take a canal boat, but most importantly get off the main tourist drag. The Jordaan neighbourhood west of Prinsengracht has the best mix of brown cafés, independent shops, and quiet residential streets. The Nine Streets (De Negen Straatjes) shopping district is where the canal ring is at its most elegant.
 
-Mid-range Accommodation
-Those that can afford the mid range price hotels, guest houses and pensions are going to have a much greater range of choice. Mid-range hotels generally cost between 60-90 euros per night but offer much more in terms of security, comfort and cleanliness. Taking the Best Western in Amsterdam as an example, customers can expect a location central to the city, a multilingual staff, laundry, Internet access and 24 hour front desk. Rooms start at approximately 65 euros per night but do fluctuate depending on availability and time of year. The Best Western Hotel in Amsterdam is just one example of the many wonderful mid-range hotels that are available throughout The Netherlands.
+**2. Visit the Rijksmuseum and the Van Gogh Museum on the same day**
 
-Luxury Accommodation
-No one can accuse the Dutch of skimping on luxury. The Netherlands offers a wide range of luxury accommodations for those that are fortunate enough to travel at this level. Rooms can start anywhere from 200 euros per night and continue upward. Taking the Grand Hotel Huis Ter Duin as an example, guests have their pick of enormous amenities including spa treatments, fitness centers, gourmet restaurants, tennis courts and a multilingual, pet friendly staff. Rooms start at 300 euros per night but the extra cost is soon outweighed by what you receive.
+Amsterdam's Museumplein houses two world-class collections within a 10-minute walk of each other. The Rijksmuseum holds the greatest collection of Dutch Golden Age painting anywhere — Rembrandt's Night Watch is the centrepiece, but the surrounding rooms are equally extraordinary. The Van Gogh Museum then takes you forward 200 years, through Van Gogh's development from dark Brabant canvases to the blazing yellows of his Arles period. Book both well in advance; queues without reservations can be brutal.
+
+**3. Eat haring from a street stall**
+
+Raw herring (nieuwe haring) eaten at a fish stall is the most authentic Dutch street food experience. The season runs from late May, when the first new catch arrives, through summer. You eat it whole, tilting your head back, or in a soft roll (broodje haring) with raw onion. It sounds confrontational, but the herring is delicate, slightly sweet, and nothing like what you'd expect. Go to a proper visboer, not a tourist market stall.
+
+**4. Cycle through the countryside**
+
+Renting a bike and riding through the Dutch countryside is the best possible way to understand why the Dutch love cycling. The landscape is genuinely unlike anywhere else — dead flat, enormous skies, farms and windmills at intervals, long straight cycling paths that seem to go on forever. The area around [Kinderdijk](/europe/netherlands/kinderdijk) with its 19 windmills, the bulb fields of the Bollenstreek in April, or the quiet back roads of Zeeland all reward a day on a bike.
+
+**5. Take the ferry to a Wadden Island**
+
+The Wadden Sea — a shallow tidal zone along the north coast — is a UNESCO World Heritage Site of extraordinary ecological importance. The islands are flat, quiet, and surprisingly beautiful. Texel is the largest and easiest to reach; Vlieland is car-free. In summer, the islands fill with Dutch families; off-season, you can walk for miles along empty beaches with only oystercatchers for company. The bird life alone — including massive migrations in spring and autumn — is worth the trip.

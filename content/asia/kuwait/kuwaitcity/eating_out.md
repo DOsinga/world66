@@ -1,59 +1,24 @@
 ---
-title: "Eating Out in Kuwait city"
+title: "Eating Out"
 type: section
 ---
 
-The largest city and capital of Kuwait, Kuwait City, is also known by its Arabic name “Madinat Al Kuwait.” The
-city is home to the country’s Parliament and several other government offices.
-Kuwait City is the main economic, cultural and political center of the
-Emirates. With its rich history and culture, Kuwait City is a destination worth
-visiting. One of the first things that will strike you when you arrive in Kuwait
-City is the restaurants. There are several amazing restaurants in this
-spectacular city.
+Kuwait City's restaurant scene is one of the best reasons to visit. With alcohol off the menu, Kuwaitis channel their social energy into food, and the result is a city with an extraordinary range of restaurants -- from traditional Kuwaiti, Iranian, and Indian to Japanese, Chinese, and American.
 
-**Totally Fish**
+**Souk Al-Mubarakiya** is where to go for authentic, inexpensive Kuwaiti food. Small eateries serve machboos, grilled kebabs, and fresh bread at communal tables. This is the real Kuwait, and the prices reflect it.
 
-Walk into this fine restaurant in the center of Kuwait City
-for an amazing choice of seafood dishes. One of the most popular dishes at this
-restaurant is the Sea Bass – Baked and Crusted. It is absolutely mouthwatering
-and will make you want to come back for more. Alcohol is not served so you will
-have to enjoy your meal with the other soft drinks on the menu.
+**Totally Fish** in central Kuwait City does excellent seafood -- the baked sea bass is outstanding. No alcohol, but the food speaks for itself.
 
-**Ashas**
+**Asha's** is a popular Indian restaurant with South African-trained staff and reliably good chicken tikka and prawn curry. Book ahead; it fills up fast.
 
-One of the best places to enjoy fusion cuisine is at Ashas.
-This is an Indian restaurant that serves mouthwatering dishes. The whole staff
-is from South Africa and they make sure you are comfortable and offer good
-service. Make sure you book before going as the restaurant is normally full.
-Try the Chicken Tikka, Prawn Curry or the Garlic Naan. The thing about Indian
-restaurants is that there are so many dishes to choose from. You can ask the
-waiters to advise you on making the best choice if you are unsure what to
-choose.
+**Peacock** is one of the best Chinese restaurants in the city, centrally located with a good lobster dish and decent sweet and sour chicken. Pricey but worth it for a special meal.
 
-**Peacock**
+**Fuddruckers** serves American-style burgers and milkshakes for when you need something familiar. The steak burger with a strawberry milkshake is a reliable crowd-pleaser.
 
-This restaurant is ideally located in the center of the city
-and is one of the best Chinese restaurants in Kuwait City. You can stop by at
-this restaurant as you shop around the city. The restaurant has a variety of
-dishes to choose from, you can try the lobster – it’s simply fabulous. You can
-also ask for the mouthwatering Sweet and Sour Chicken. The menu is priced
-a bit high, but given the quality and service it is worth the price.
+**Villa Fayrouz** on Istaqlal Street does excellent lentil soup and grilled chicken in a relaxed setting. Good value.
 
-**Fudrockers**
+**Badar Al Badoor** near the Safir Hotel is the go-to for a quick, authentic shawarma.
 
-If you want to go in for some American food, Fudrockers is
-the right place to stop by for lunch or dinner. The restaurant serves American
-food and is very popular with many in Kuwait City. While you are here, try the
-Steak Burger, you will not be sorry! Top that off with a strawberry milkshake and
-you will be glad you stopped here for a bite.
+For the experience as much as the food, **The Horizon Le Cafe** in the Kuwait Towers offers a rotating buffet 82 metres up, with views of the city and the Gulf. It is a tourist experience, but a worthwhile one.
 
-**Sakura**
-
-If Japanese food gets you going, Sakura is the place to stop
-by to satisfy your taste buds. The restaurant is located in the Crowne Plaza
-Hotel and is a great place to enjoy a romantic dinner. Like every Japanese
-restaurant, Sakura also serves mouthwatering sushi. Or you can try some
-other regular Japanese cuisine. Whatever you choose you will not be disappointed.
-
-**Contributors**
-January 22, 2010
+Thursday night is the big night out in Kuwait. Families and friends crowd into restaurants across the city for long, social dinners. If you want to experience Kuwait at its most convivial, eat out on a Thursday.

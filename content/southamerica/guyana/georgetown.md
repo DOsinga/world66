@@ -5,10 +5,12 @@ latitude: 6.803256
 longitude: -58.14554
 ---
 
-Guyana's chief town and port, Georgetown, is located on the banks of the Demerara river. The climate is tropical with an avarage temperature of 27 degrees Celsius but very often there is a coll sea breeze that makes life supportable. The city is built on a grid, with braod boulevards lined with aplm trees. Part of the city are quite nice, with elegant old buildings raised on stilts and many flowering trees. The Sea Wall is the place to go at night. Many young people come here to parade.
+Georgetown is unlike any other capital in South America. It sits below sea level — protected by a seawall and a Dutch-engineered canal system — and its architecture is almost entirely wooden, a legacy of colonial-era construction that gives the city an improbable, slightly ramshackle elegance. Victorian Gothic churches, colonial government buildings, and merchants' houses raised on stilts above the flood line line broad, palm-shaded boulevards. Much of it needs paint, and some of it is actively falling apart, but the bones are extraordinary.
 
+The city has grown fast in recent years with the oil boom, and a new confidence shows in the construction cranes and new restaurants appearing around the centre. But it remains a manageable, walkable city with a genuine character.
 
- The main sights in town include the St. George's Cathedral (Anglican), the Gothic style City Hall, the Public Buildings and the Stabroek Market, the tower of which offers a good view over the city.
+The main sights are in central Georgetown. St. George's Cathedral is one of the largest wooden churches in the world, an Anglican Gothic structure from 1899 that rises 43 metres above the city. City Hall, the Law Courts (the Public Buildings), and the National Museum are all within walking distance. The Stabroek Market — a cast-iron Victorian market hall with a distinctive clocktower — is always busy and makes a good orientation point. The Botanic Gardens, 120 acres of lotus lilies, palms, and orchids on the edge of the city, are worth a couple of hours.
 
+The Sea Wall along the Atlantic coast is where Georgetown's residents come in the evenings to walk, eat, and socialise. A string of food stalls and vendors sets up here at dusk. It is the best place to watch life go by and to understand why Guyanese are so attached to their unusual city.
 
- For a bit of relaxing you can choose from the botanical gardens, a zoo and Promenade gardens on Middle Street. The Georgetown Cricket club has very beautiful grounds.
+Safety requires attention. Do not walk at night in most of Georgetown, and be cautious during the day in unfamiliar areas. Use licensed taxis arranged through your hotel.

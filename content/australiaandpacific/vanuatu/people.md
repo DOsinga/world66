@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 185 204 (July 1998 est.)
+Vanuatu's population is around 330,000, over 97% of whom are Melanesian — known collectively as Ni-Vanuatu. The rest are mainly expatriates from Australia, New Zealand, France, and other Pacific nations. Around 78% of the population lives in rural areas, most of them in small villages with subsistence gardens and fishing.
 
-**Age structure:**
+What makes Vanuatu extraordinary among nations is its linguistic density. More than 100 indigenous languages are spoken across the archipelago — one of the highest concentrations of languages per capita anywhere in the world. Individual islands sometimes have five or six mutually unintelligible languages. The lingua franca is Bislama, a creole with English-derived vocabulary and a Melanesian grammatical structure. It is the language of the market, the radio, and political debate. English and French are also official languages and are used in formal education and government, though in practice the country runs on Bislama.
 
-*0-14 years:* 39% (male 36 865; female 35 576)
+The concept of kastom (from the English word "custom") shapes Ni-Vanuatu identity. It encompasses traditional law, land rights, ceremonies, and the authority of chiefs. Kastom is not treated as folklore or nostalgia — it governs real disputes over land and inheritance, and it defines how communities relate to the outside world. Visitors who travel beyond Port Vila will encounter it constantly, and respectfully engaging with it is essential.
 
-*15-64 years:* 58% (male 55 066; female 52 142)
-
-*65 years and over:* 3% (male 3 013; female 2 542) (July 1998 est.)
-
-**Population growth rate:** 2.07% (1998 est.)
-
-**Birth rate:** 29.18 births/1 000 population (1998 est.)
-
-**Death rate:** 8.44 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1.06 male(s)/female
-
-*65 years and over:* 1.19 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 61.27 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 61 years
-
-*male:* 59.02 years
-
-*female:* 63.07 years (1998 est.)
-
-**Total fertility rate:** 3.74 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Ni-Vanuatu (singular and plural)
-
-*adjective:* Ni-Vanuatu
-
-**Ethnic groups:** indigenous Melanesian 94% French 4% Vietnamese Chinese Pacific Islanders
-
-**Religions:** Presbyterian 36.7% Anglican 15% Catholic 15% indigenous beliefs 7.6% Seventh-Day Adventist 6.2% Church of Christ 3.8% other 15.7%
-
-**Languages:** English (official) French (official) pidgin (known as Bislama or Bichelama)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 53%
-
-*male:* 57%
-
-*female:* 48% (1979 est.)
+Religion is widespread. Presbyterians, Catholics, Anglicans, and Seventh-Day Adventists make up the majority of the Christian population. The John Frum cargo cult on Tanna remains active and is one of the few such movements still practiced anywhere in the Pacific.

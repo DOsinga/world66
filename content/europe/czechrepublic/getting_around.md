@@ -5,12 +5,22 @@ type: section
 
 **By Train**
 
-Czech Railways ( http://www.cd.cz) offer a good, cheap, if sometimes slow service around the country. Trains range from what appear to be communist-era leftovers to to ultra-comfortable modern trains which put to shame a lot of what you'll travel on in western Europe.
+Czech Railways (České dráhy, [cd.cz](https://www.cd.cz)) run a dense network that connects all major cities and most smaller towns. The trains range from aging regional rolling stock to sleek modern intercity trains — often better than what you'd ride in Western Europe. Trains are generally affordable, punctual on mainlines, and scenic.
 
-Those who are visiting and travelling around for a while may like to check out the "Sitove Jizdenky" network tickets - unlimited, virtually supplement-free train travel in the Czech Republic for 2 or 7 days or 1 month. http://www.cd.cz/static/eng/pricereduction4.htm is the link to follow for details in English, with prices linked from that page - a 1st class ticket for 7 days costs CZK 1 053, which works out at less than GBP 25 for the British readers, slightly over EUR 35 for those from the Euro-countries or just under USD 45 for our American friends. A bargain.
+RegioJet ([regiojet.com](https://www.regiojet.com)) operates competing intercity services on key routes with newer trains, free coffee, and competitive fares. Booking online is advisable for long-distance trains.
 
-If you're looking at a weekend ride, CD also offer a version of the German "Schönes-Wochenende-Ticket" called SONE+ at CZK 130 for local trains only and CZK 360 if you add in the express traisn as well.
+The busiest routes — Prague–Brno, Prague–Ostrava, Prague–Plzeň — run frequently throughout the day.
 
-Oh, and if you're using a Schönes-Wochenende-Ticket, it's valid on some of the border lines in the Czech Republic, so you may not have to buy another ticket at all! More information on that from the German Railways website http://www.bahn.de.
+**By Bus**
 
-Finally, if you're going to buy one of the special tickets, British railway staffers' experiences suggest that it's helpful to print off the pricepage mentioned above and circle the ticket you want - it makes life easier on the Czech staff who often speak little English, and they do appreciate it!
+FlixBus and RegioJet buses cover routes that trains don't, and are often quicker between certain city pairs. Student Agency (now RegioJet) pioneered comfortable coach travel in Czechia and still sets the standard. For regional destinations, local buses fill in the gaps left by rail.
+
+**By Car**
+
+Renting a car opens up Czechia enormously — especially for exploring Bohemian Switzerland, Moravian wine country, and the spa triangle of western Bohemia. Driving is on the right. Headlights must be on at all times, day and night, year-round. The alcohol limit is zero — no exceptions. Winter tires are legally required from 1 November to 31 March.
+
+A motorway vignette is required on Czech motorways (dálnice). Buy it online at [edalnice.cz](https://www.edalnice.cz) or at petrol stations; it comes in 10-day, 30-day, and annual options. City centers often have paid parking or restricted zones — check signs carefully in Prague and Brno.
+
+**In Prague**
+
+Prague's public transport (metro, trams, buses) is excellent and covers the whole city. A single time-based ticket works on all modes. Buy tickets from yellow machines at metro stations, from Trafika newsagents, or via the Lítačka app. Validate your ticket before boarding.

@@ -1,16 +1,18 @@
 ---
-title: "Day Trips in Gibraltar"
+title: "Day Trips"
 type: section
 ---
 
-**Travel from Britain to Spain as a Day Trip from Gibraltar**
+Gibraltar's location at the southern tip of the Iberian Peninsula makes it a good base for a few days, with Andalusia and Morocco both within easy reach.
 
-Most **Gibraltar Day Trips** include a visit to Costa del Sol. Gibraltar is a British territory, located at the very tip of the Iberian Peninsula. Gibraltar is mainly known for the world-famous Rock of Gibraltar. It is connected to the northern end of Spain&rsquo;s international borders via a narrow isthmus. The nearest international destination from here is the town of Costa del Sol or the Sun Coast Town.
+**Algeciras** is the nearest Spanish city — about 20 minutes by car or bus. It's a working port town with no great tourist attractions, but useful for its ferry terminal (boats to Morocco) and as a transport hub.
 
-#### **Costa del Sol**
+**La Línea de la Concepción**, directly across the border, is where most day-tripping Spaniards come from. A functional town with cheaper supermarkets than Gibraltar and a good Tuesday market. Worth knowing as a practical resource rather than a destination in itself.
 
-Costa del Sol is a popular tourist destination, famous for its coastal towns and Mediterranean culture. Sandwiched between Costa Tropical and Costa de Luz, this Spanish town is easily accessible from Gibraltar. The town consists of many fishing communities and has a typical, medieval-era landscape. Costa del Sol is about 50 miles from Gibraltar. Traveling to Costa del Sol means crossing international borders and entering Spanish territory. Visitors should have no apprehension regarding this, since it is a daily affair with no administrative issues. These two destinations are connected via high-speed catamarans (small, modified boats).
+**Tarifa** is about 35 kilometres west along the coast — Spain's southernmost town, an ancient walled settlement on the narrow strait, renowned for wind- and kitesurfing. On a clear day you can see Morocco from the battlements. A very good day out, with a more authentic character than many Andalusian coastal towns. Regular buses from Algeciras.
 
-#### **What to See in Costa del Sol**
+**Ronda** is one of Andalusia's most dramatic towns — a city split by a deep gorge, with an 18th-century bridge and a well-preserved old town. About 100 kilometres from Gibraltar and roughly 90 minutes by car. Worth the trip.
 
-The tour usually begins early in the day since most day trips to Costa del Sol stretch between 10 to 12 hours. Here, visitors can explore small, Spanish townships and walk around villages like Alameda and Alfarnate. Located in the Malaga province, Costa del Sol is famous for its rocky cliffs, particularly those around the Sierra Almijara. Visitors can also visit Mara, a popular coastal plain which is home to traditional forms of agriculture practices. Visitors can travel a bit further into the town of Nerja and visit the famous Nerja Caves.
+**Morocco**: regular ferries run from Algeciras to Ceuta (the Spanish enclave on the Moroccan coast) and to Tangier. Tangier is the most accessible Moroccan city, and a day trip gives you a compelling contrast — medina, souks, mint tea, and the Atlantic. The crossing from Algeciras takes about 35 minutes on the fast ferry. Allow a full day to make it worthwhile.
+
+**Dolphin watching** in the Strait of Gibraltar is one of the most rewarding half-day activities from Gibraltar itself. Three species of dolphin — common, striped, and bottlenose — are resident in the strait, and orcas pass through seasonally. Several operators run trips from the marina; the strait is one of the best places in Europe for guaranteed dolphin sightings.

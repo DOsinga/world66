@@ -5,12 +5,20 @@ latitude: -36.59861
 longitude: 144.678005
 ---
 
-Although the gold prospectors nearly got down-hearted, things changed around the 1850s. It turned out to be that most of what glistered in the Victorian soil actually was gold. The rich goldfields of Ballarat and Bendigo regions attracted hopeful immigrants from all over the world who came to one of the smallest states of Australia in the hope to find their fortune. Victoria slowly changed from a small pastoral area into Australia’s financial capital. 
+Victoria is Australia's smallest mainland state and its most densely populated. The Gold Rush of the 1850s made it fabulously wealthy for a generation, and that wealth built [Melbourne](/australiaandpacific/australia/victoria/melbourne) — the elegant, European-feeling city that still considers itself the country's cultural capital, to the mild irritation of Sydney.
 
-[Melbourne](/australiaandpacific/australia/victoria/melbourne) is the state’s capital and the second-largest city of Australia. It is one of those cities where you can find everything. Find out for yourself whether it is entitled to claim the title of cultural capital. Famed for the diversity of resturants and cafes in the famous Lygon St Carlton throught to the heady highs of the Melbourne Formula 1 Grand Prix held right in the city. There sure are a lot of cultural events going on and people attend more community events, such as sport games and watching groovy bands. A lot of people set off for a visit to the former goldfields or one of the nearby National Parks. The residents are known to be friendlier and more casual than in NSW. 
+Melbourne is the reason to come. The city has excellent restaurants, a serious coffee culture, the National Gallery of Victoria, a tram network that works, and a genuine street life that most Australian cities lack. It's also the sporting capital of the country: the AFL Grand Final, the Melbourne Cup, the Australian Open, and the Formula 1 Grand Prix all happen here. The markets (Queen Victoria Market, the Prahran Market) are outstanding.
 
-If you plan on visiting the city and need to find everything in one place, try coming in March when the F1 Grand Prix circus is in town, togther with the Moomba Festival following closely in the Melbourne Comedy Festival. If you have more time, Melbourne is famed as being able to surf in the morning, hike or browse in a winery over lunch and ski in the afternoons, it's all here. 
+The **Great Ocean Road** runs west of Melbourne for 243 km along one of the world's most dramatic coastlines. The Twelve Apostles — limestone stacks rising from the Southern Ocean — are the famous landmark, but the drive itself is the point. Koalas are reliably spotted in the roadside trees near Kennett River. Allow at least two days.
 
-The seaside offers some excellent views of nature’s forces. You might know the Great Ocean Road, a fabulous drive along the coast that offers beaches, waves and perfect places to go walking or simply enjoy the scenery. The seascape also known as the ShipWreck Coast feature famous natural features such as the 12 Apostles and is the home of the surfing meca Bells Beach. If you want to see more of nature at its best, go to the Victorian Alps in the northeast area. The ski slopes are the best down here and the area is also offers excellent opportunities for bush-walking and horse riding. 
+The **Yarra Valley**, an hour east of Melbourne, has good wineries, the Healesville Sanctuary (native wildlife), and pleasant driving through orchard and vineyard country. The **Mornington Peninsula** offers ocean beaches, hot springs at Peninsula Hot Springs, and more wineries. Both make easy day trips from the city.
 
-Basically, whatever you want you can find in Victoria using Melbourne as the jumpoff or base for your trips. Be it seeing the native flora and fauna at the world famous Heallsville Sactuary or Melbourne Zoo, going into anyone of the 100+ National and Satae Parks and Forests, hiking, climbing, white water rafting, hot air balloning, F1 Cars, 500cc Motor Cycle Grand Prixs, airshows, or opera, ballet and simple cultural happenings. It's all to be found here in Melbourne. Known as the Event Capital of Australia.
+The **Victorian Alps** in the northeast have ski resorts (Falls Creek, Mount Buller, Hotham) that operate June to September. In summer, the high country turns into excellent hiking and mountain biking terrain. The Bogong High Plains are beautiful and little visited.
+
+Gold country — **Ballarat** and **Bendigo** — is a couple of hours from Melbourne and retains the ornate Victorian architecture of its prosperous past. Sovereign Hill in Ballarat is an outdoor museum of a 1850s goldfield; it's well done and genuinely interesting.
+
+## Destinations in Victoria
+
+[Melbourne](/australiaandpacific/australia/victoria/melbourne)
+[Ballarat](/australiaandpacific/australia/victoria/ballarat)
+[Bendigo](/australiaandpacific/australia/victoria/bendigo)

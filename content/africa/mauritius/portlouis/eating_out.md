@@ -1,64 +1,16 @@
 ---
-title: "Eating Out in Port louis"
+title: "Eating Out in Port Louis"
 type: section
 ---
 
-Port Louis has recently developed into a modern city
-that, because of its past, is as multiculturally diverse as its
-food; almost every nationality in the world has been there either to
-stay or visit while journeying to other ports.
+Port Louis has the best and most varied eating on the island, reflecting the full range of Mauritian culinary influences — Indian, Chinese, Creole, and French.
 
-**Keg and Marlin Pub**
+The central market is the place to start. The food vendors on the upper floor sell dholl puri, roti, mine frite, and boulettes for a few rupees each — better than anything at tourist prices. Go for lunch on a weekday when it's busiest.
 
-So, to start off an introduction to Port Louis's diverse food
-offerings, visit the Keg and Marlin, an English pub located at Caudan
-Waterfront. Try a pint of the local Mauritius beer, Phoenix, and snack
-on a variety of pub food. Take note, however, that prices here by the
-waterfront are relatively high. You're looking at spending about 115
-rupees just for that pint of beer.
+Chinatown, a few streets north of the market, has a cluster of Chinese restaurants where you can eat well for under Rs 500 per person. The cooking is honest and filling; don't expect anything glamorous.
 
-**Shooters Pub**
+La Flore Mauricienne, across from the parliament building, has been there since 1848 and calls itself the oldest restaurant in the city. It's a reliable lunchtime spot with Mauritian and French dishes at reasonable prices.
 
-Shooters, one of Caudan Waterfront's most famous restaurants, is
-also well worth a visit. Amazing decor and great food. You have your
-kids with you? No problem. Shooters offers a menu just for kids. Please
-note that food here is pricey. But then again, the view of the
-Mauritian coastline might be well worth the extra rupees shelled out.
+The Caudan Waterfront has a large concentration of restaurants and bars with good views of the harbour. Food and drink prices here are significantly higher than elsewhere in the city — budget double what you'd pay in the market. The Keg and Marlin is a long-running pub in the waterfront complex, popular with locals and expats.
 
-**Chinatown**
-
-From Europe we journey on to the East. Like many cities around
-the world, Port Louis has its very own Chinatown district, where you
-will find quite a handful of restaurants to choose from. Try New
-Chinatown Deli, a good-sized restaurant in the district's heart. Be
-warned: the menu is entirely in French. But since the waiters are all
-pretty fluent in English, maybe that won't dampen your appetite much.
-And it shouldn't. This restaurant offers an extensive selection. Try
-their Chopsuey Crevettes, small shrimps in a tasty sauce.
-
-**Black Steer Restaurant**
-
-Of course, if you are a
-not-too-adventurous tourist and desire food from your hometown, you can
-find restaurants with food you're more accustomed to. Do you have a
-taste for steak? The Black Steer Restaurant, also by the waterfront, is
-a steakhouse that people have been raving over for years. Delicious and
-familiar-tasting food that seem to have come straight from Texas
-kitchens.
-
-**La FLore Mauricienne**
-
-La Flore Mauricienne, another must-visit, is a restaurant opposite
-the parliament in the center of the city. It was established in 1848
-and is called the oldest restaurant in the city. It is a regular
-lunchtime haunt, with good prices.
-
-**Le Courtyard**
-
-Next is Le Courtyard, a restaurant that doesn’t subscribe to just
-one cuisine. They may have Japanese food one week and change to French
-the next. Whatever it is, it is certainly tasty. So whether you're from
-the United States, France, or Japan, your taste buds will feel right at
-home in Port Louis.
-
-So, get ready for a gastronomic adventure. Port Louis is a savory delight you're sure to want to come
+Le Safran in the city centre does good Indian cooking. For fresh fish, explore the streets around the fishing port early in the morning where vendors sell the night's catch.

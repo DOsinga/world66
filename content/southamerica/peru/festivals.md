@@ -3,14 +3,16 @@ title: "Festivals"
 type: section
 ---
 
-There is probably a major event or festival every other day in Peru. No one knows festivals like South American Catholics, who have a festival for everything. Other events include major concerts and other attractions for all ages.
+Peru celebrates with a density that can overwhelm a first-time visitor. Catholic feast days fill the calendar, but many of the most spectacular events blend pre-Columbian Andean ritual with the Church — often in ways that make the older tradition impossible to disentangle from the newer.
 
-### [Rock Concerts in Peru](/southamerica/peru/festivals/rock_concerts_in_p)
+**Inti Raymi** (Festival of the Sun) is held on June 24 in [Cusco](/southamerica/peru/cuzco), the winter solstice in the Southern Hemisphere. It was the most important ceremony in the Inca calendar, re-enacted today with thousands of costumed participants at the Sacsayhuaman fortress above the city. Book accommodation in Cusco months in advance if you plan to attend.
 
-Rock music is alive and well in Peru. One of the biggest stars in Peru is Pink Floyd's Roger Waters, who has been scheduled for his first concert in Peru on March 12, 2007. The concert on Water's Dark Side of the Moon Tour is scheduled to run 2 hours and 45 minutes and will include standard Pink Floyd hits as well as songs from Waters solo albums. The concert will include a 1 hour 15 minute rendition of The Dark Side of the Moon.
+**Qoyllur Riti** takes place in May or early June in the Sinakara Valley near Cusco, a few weeks before Inti Raymi. A massive pilgrimage of indigenous communities from across the Andes, it draws hundreds of thousands of people to a glacier at around 4,700m. The music, costumes, and devotional energy are extraordinary.
 
-March 9 and 10, 2007, are the dates scheduled for concerts by popular Spanish musician Alejandro Sanz [more..](/southamerica/peru/festivals/rock_concerts_in_p)
+**Corpus Christi** falls 60 days after Easter and is celebrated across Peru but with particular intensity in Cusco, where the statues of 15 saints and virgins are paraded through the streets in a procession that takes all day.
 
+**Carnaval** is observed in February or March across much of the country. In highland towns, it involves water fights (anyone outside is fair game), music, and dancing. The festival in Cajamarca in the north is one of the most exuberant in South America.
 
+**Semana Santa** (Holy Week, before Easter) sees large processions in most cities. Ayacucho's celebrations are among the most visually striking in the country.
 
-[[rate it]](/southamerica/peru/festivals/rock_concerts_in_p)
+**Fiesta de la Virgen de la Candelaria** is held in Puno in early February, with elaborately costumed folk dances and music from communities around Lake Titicaca. It is one of the largest folk festivals in the Americas.

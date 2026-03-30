@@ -3,10 +3,4 @@ title: "Samara"
 type: location
 ---
 
-Travel Guide
-
-The small beach town Samara is located in the Guanacaste
-province. Samara is a popular tourist destination by families, because this is
-a good beach for swimming.
-
-All the roads on the way from San Jose to Samara are paved.
+Samara is a small beach town on the Nicoya Peninsula in Guanacaste province. The beach curves gently around a protected bay, making it calmer for swimming than many Pacific beaches — which is why it's popular with families. The surrounding waters are good for snorkeling and kayaking. All roads from San José to Samara are now paved, making it a comfortable 4-hour drive.

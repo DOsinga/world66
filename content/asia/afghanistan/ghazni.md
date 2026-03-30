@@ -5,4 +5,6 @@ latitude: 33.544897
 longitude: 68.413211
 ---
 
-Conveniently close to [Kabul](/asia/afghanistan/kabul), Ghazni used to be the capital of the empire of Mahmoud of Ghazni. He made raids all the way to Delhi and brough back the spoils of war to this city in the mountains. In the 11-th century the court of Ghazni hosted the best poest, musicians and scientist from the region. Don't expect to find amny of that now. Afghanistan has a long history of wars of destruction and Ghazni has not preserved the palaces of its earkier groly.
+Conveniently close to [Kabul](/asia/afghanistan/kabul), Ghazni was once the capital of a vast empire. In the 11th century, Sultan Mahmud of Ghazni launched raids as far as Delhi and brought back the spoils to build a court that attracted the finest poets, musicians and scientists in the region. The city was one of the great cultural centers of the Islamic world.
+
+Don't expect to find much of that splendor now. Centuries of invasion and civil war have left little standing from Ghazni's golden age. The two star-shaped minarets from the 12th century survive on the outskirts of the city, and the citadel still dominates the town, but the palaces are long gone. The old city has a crumbling, dusty charm, and the bazaar is lively, but Ghazni today is a conservative provincial town in a volatile part of the country.

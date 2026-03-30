@@ -1,0 +1,5 @@
+europe/switzerland/zurich
+europe/switzerland/bern
+europe/poland/warsaw
+europe/poland/krakow
+europe/russia/moscow

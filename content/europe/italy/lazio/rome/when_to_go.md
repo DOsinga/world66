@@ -1,7 +1,6 @@
 ---
 title: "When to Go"
 type: section
-order: 10
 ---
 
 **April–May** and **September–October** are the best months: mild temperatures (18–25°C), long days, and crowds that are heavy but manageable. Spring brings wisteria and outdoor terraces; autumn brings the vendemmia and lower prices than summer.

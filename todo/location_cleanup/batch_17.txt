@@ -1,0 +1,5 @@
+southamerica/chile/santiago
+southamerica/brazil/saopaulo
+southamerica/ecuador/quito
+southamerica/bolivia/lapaz
+southamerica/uruguay/montevideo

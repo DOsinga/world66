@@ -1,7 +1,6 @@
 ---
 title: "Getting Around"
 type: section
-order: 12
 ---
 
 The only way to really get around Naples and stay sane is to walk. However, Naples is a large, sprawling city, so sooner or later it's recommendable to use the means of public transport (bus, trolley and subway). It may be a bit complicated but it's in any case better than going by private car or taxi. Furthermore it is the best solution to avoid heavy traffic jams. The public transport ticket is the same no matter which way of transport you use, you can buy it at counters in the metro/train/funicolare stations and in all the shops that show the logo **Gira Napoli - Napoli Pass**.

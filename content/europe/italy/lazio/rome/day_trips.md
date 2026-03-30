@@ -1,7 +1,6 @@
 ---
 title: "Day Trips"
 type: section
-order: 8
 linked_locations:
   - europe/italy/lazio/frascati
   - europe/italy/lazio/ostiaantica

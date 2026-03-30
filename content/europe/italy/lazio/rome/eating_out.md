@@ -1,7 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-order: 3
 ---
 
 Rome, pasta, wine, pizza. Here is no need to search for restaurants. Everywhere you will find small and cheap but nice **trattorie**, **osterie** and **ristoranti**. Prices, even in the centre, are reasonable and the quality remains of a fair standard. Many nice places are to be found in the Centro Storico, along Via Cavour and around Stazione Termini. Similarly, you can eat cheaply in the Borgo district around the Vatican.

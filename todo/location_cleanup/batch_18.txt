@@ -1,0 +1,5 @@
+asia/india/karnataka/bangalore
+asia/india/westbengal/kolkata
+asia/india/kerala/kochi
+asia/srilanka/colombo
+asia/pakistan/lahore

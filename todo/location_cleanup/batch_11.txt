@@ -1,0 +1,5 @@
+europe/spain/andalucia/seville
+europe/spain/valenciacommunity/valencia
+europe/germany/bavaria/munich
+europe/germany/hamburg
+europe/france/ile-de-france/versailles

@@ -1,7 +1,6 @@
 ---
 title: "Bars and Cafes"
 type: section
-order: 4
 ---
 
 The list of **Naples Bars and Cafes** provides information on a variety of entertainment spots for both the young and old. Naples is known for its many castles and other places of historical interest, and is currently the capital of the Campania region in Italy. Aside from the city's rich culture, history and architecture, you can also find a number of bars and cafes that could make you feel relaxed or get your party mood started. Here are two recommendations for you to enjoy while you visit this vibrant Italian city in.

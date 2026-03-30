@@ -1,0 +1,5 @@
+northamerica/unitedstates/washingtondc
+northamerica/unitedstates/massachusetts/boston
+northamerica/unitedstates/louisiana/neworleans
+northamerica/unitedstates/washington/seattle
+northamerica/unitedstates/texas/austin

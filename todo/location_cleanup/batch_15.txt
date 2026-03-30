@@ -1,0 +1,5 @@
+africa/morocco/fes
+africa/morocco/casablanca
+africa/tanzania/zanzibar
+africa/ethiopia/addisababa
+africa/ghana/accra

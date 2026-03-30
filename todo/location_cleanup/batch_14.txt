@@ -1,0 +1,5 @@
+asia/japan/honshu/osaka
+asia/japan/honshu/hiroshima
+asia/southkorea/seoul
+asia/taiwan/taipei
+asia/india/rajasthan/jaipur

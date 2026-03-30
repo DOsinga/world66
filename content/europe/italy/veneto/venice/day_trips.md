@@ -1,7 +1,6 @@
 ---
 title: "Day Trips"
 type: section
-order: 8
 address: "Lido Tourist Office: Gran Viale 6"
 ---
 

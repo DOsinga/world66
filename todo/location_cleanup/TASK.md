@@ -17,11 +17,7 @@ The Italian cities (Florence, Rome, Venice, Milan, Naples) are already done and 
 3. **Fix section titles** — remove city name suffixes:
    - "Bars and Cafes in London" → "Bars and Cafes"
    - "Getting There in Paris" → "Getting There"
-4. **Add `order` fields** to all kept sections per the standard order:
-   - Curated Itineraries: 1, Sights/Things to Do: 2, Eating Out: 3, Bars and Cafes: 4
-   - Museums: 5, Nightlife: 6, Shopping: 7, Day Trips: 8, Beaches: 9
-   - When to Go: 10, Getting There: 11, Getting Around: 12
-5. **Add redirects** in `redirects.json` for any deleted section URLs
+4. **Add redirects** in `redirects.json` for any deleted section URLs
 6. **Add curated itineraries** per CLAUDE.md — find 2–3 good blog itineraries, create guide entries, add tagged POIs
 7. **Review POIs** in existing section directories:
    - Delete spam, junk, or obviously wrong entries (sports venues, gibberish, wrong-country content)
@@ -38,20 +34,28 @@ Use the `things_to_do` + category-filter approach (like Milan) when the city has
 
 See LOCATIONS.md for full detail on both approaches.
 
+## Tracking
+
+When a city is done, add its path (one per line) to `done.txt` in this directory.
+This is the source of truth for what has been completed.
+
+```
+echo "europe/italy/lazio/rome" >> todo/location_cleanup/done.txt
+```
+
 ## Batch files
 
 Each file contains 5 cities. Process all 5 in a batch, commit each separately.
-Remove a city from its batch file once done.
 
 ### Tier 1 — Major tourist destinations
-`batch_00.txt` through `batch_11.txt` cover ~55 major world cities.
+`batch_00.txt` through `batch_19.txt` cover 100 major world cities.
 
-### Tier 2 — All other cities
-The full list of 1156 qualifying cities can be generated with:
+### Tier 2 — Secondary cities
+`batch_20.txt` onwards covers secondary cities. The full list of qualifying
+cities can be generated with:
 ```bash
 python3 tools/list_cities.py
 ```
-(See tools/ for the script, or ask Claude to generate the full batch list.)
 
 ## Reference implementations
 

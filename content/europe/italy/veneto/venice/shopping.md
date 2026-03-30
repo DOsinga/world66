@@ -1,7 +1,6 @@
 ---
 title: "Shopping"
 type: section
-order: 7
 address: "Ponte della Guerra, Saint Mark"
 email: "info@itremercanti.it"
 phone: "+390415222901"

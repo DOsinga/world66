@@ -1,0 +1,5 @@
+europe/finland/helsinki
+europe/ukraine/kiev
+europe/romania/bucharest
+europe/serbia/belgrade
+europe/slovakia/bratislava

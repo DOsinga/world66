@@ -1,7 +1,6 @@
 ---
 title: "Nightlife"
 type: section
-order: 6
 address: "Via Manzoni, 207"
 phone: "+39 081-769.08.06"
 ---

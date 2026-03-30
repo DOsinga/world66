@@ -1,7 +1,6 @@
 ---
 title: "Shopping"
 type: section
-order: 7
 address: "Via Torino 130"
 phone: "+39 06 4746877"
 type: "Book shops"

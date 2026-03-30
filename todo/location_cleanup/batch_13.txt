@@ -1,0 +1,5 @@
+asia/singapore
+asia/malaysia/kualalumpur
+asia/vietnam/hochiminh
+asia/cambodia/siemreap
+asia/myanmar/yangon

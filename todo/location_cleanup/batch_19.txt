@@ -1,0 +1,5 @@
+europe/portugal/porto
+europe/iceland/reykjavik
+europe/malta/valletta
+europe/cyprus/nicosia
+europe/lithuania/vilnius

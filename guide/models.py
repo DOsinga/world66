@@ -7,6 +7,7 @@ The frontmatter title is the source of truth — no runtime name mapping.
 """
 
 import re
+import time
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
@@ -15,6 +16,23 @@ import yaml
 from django.conf import settings
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
+
+# Canonical section order — keyed by slug, same for all locations.
+# Sections not listed here sort alphabetically after ordered ones.
+SECTION_ORDER = {
+    "day_guides": 1,
+    "things_to_do": 2,
+    "sights": 2,
+    "eating_out": 3,
+    "bars_and_cafes": 4,
+    "museums": 5,
+    "shopping": 7,
+    "day_trips": 8,
+    "beaches": 9,
+    "when_to_go": 10,
+    "getting_there": 11,
+    "getting_around": 12,
+}
 
 DISPLAY_PROPERTIES = {
     "address": "Address",
@@ -150,7 +168,7 @@ class Page:
                     elif child.page_type == "section":
                         sections.append(child)
 
-        sections.sort(key=lambda s: (s.meta.get("order", 99), s.title))
+        sections.sort(key=lambda s: (SECTION_ORDER.get(s.slug, 99), s.title))
         return sections, locations, pois
 
     def pois(self):
@@ -209,9 +227,19 @@ def load_page(path):
     return None
 
 
+_mtime_ttl_cache = (0.0, 0.0)  # (checked_at, mtime)
+
+
 def _content_mtime():
-    """Return the most recent modification time across all content files."""
-    return max((f.stat().st_mtime for f in CONTENT_DIR.rglob("*.md")), default=0)
+    """Return the most recent modification time across all content files.
+    Result is cached for 5 seconds to avoid stat-ing every file on each request."""
+    global _mtime_ttl_cache
+    now = time.time()
+    if now - _mtime_ttl_cache[0] < 5.0:
+        return _mtime_ttl_cache[1]
+    mtime = max((f.stat().st_mtime for f in CONTENT_DIR.rglob("*.md")), default=0)
+    _mtime_ttl_cache = (now, mtime)
+    return mtime
 
 
 _search_index_cache = (None, None)       # (mtime, entries)

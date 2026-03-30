@@ -1,7 +1,6 @@
 ---
 title: "Getting There"
 type: section
-order: 11
 ---
 
 Florence, a city with a population of around half a million inhabitants, spreads on the banks of the Arno, between the Adriatic and the Tyrrhenian seas, almost in the middle of the Italian peninsula. It is a city which bustles with industry and craft, commerce and culture, art and science. Being on the main national railway lines, it is easily accessible from most important places both in Italy and abroad.

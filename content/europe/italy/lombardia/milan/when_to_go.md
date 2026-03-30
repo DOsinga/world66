@@ -1,7 +1,6 @@
 ---
 title: "When to Go"
 type: section
-order: 10
 ---
 
 Milan's weather is fairly temperate and mild, but the seasons vary enough to make them worth weighing in. If you want to add a bit of pizazz to your trip, you could also try to schedule your time to coincide with a major festival. Finally, you should always consider the peak travel times for hot spot destinations such as Milan.

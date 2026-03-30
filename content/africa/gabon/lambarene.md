@@ -1,17 +1,14 @@
 ---
 title: "Lambarene"
 type: location
-latitude: -0.69426
-longitude: 10.223648
+latitude: -0.6943
+longitude: 10.2236
 ---
 
-Lambarene was put on the world map by Albert Schweitzer, and his hospitaly is still the major attraction of the small riverside town. Located some 300 km upstream from Port-Gentil the town now has a population of 30,000 making it the third city of the country.
+Lambarene was put on the map by Albert Schweitzer, and his hospital remains the main reason travelers come to this small riverside town. Located about 250 km southeast of Libreville on the Ogooue River, Lambarene has a population of around 30,000, making it Gabon's third-largest town.
 
+Schweitzer arrived here in 1913 and built his hospital on the riverbanks, attracting patients from the surrounding villages by providing food and shelter along with medical care. The original hospital still stands alongside a modern facility that is one of the best-equipped in Central Africa. The old hospital is now a museum, with Schweitzer's living quarters preserved much as he left them. You can visit in a couple of hours, and there is a small gift shop with postcards, books, and local handicrafts.
 
- Schweitzer cam here in 1913 and build his hospital on the river banks. He wanted to attract as many patients as possible from the surroundings and provided the people who cam with food and shelter. His hospital was a big success, also because of good marketing and PR in Europe.
+The real draw of Lambarene beyond the hospital is the lake system. The Ogooue River spreads into a network of lakes surrounded by forest, and exploring them by pirogue (dugout canoe) is the best thing you can do here. A full-day motorized pirogue trip to lakes Ezanga, Evaro, and Onangue takes you through beautiful scenery with good birdwatching and the chance to spot hippos. Shorter half-day trips to the nearer lakes are also easy to arrange.
 
-
- The original hospital stands alongside the new one - one of the best equiped hospitals in all of Africa. The old hospital is now a museum and it can be visited. You can buy postcards, t-shirts and there is a gifshop with handicrafts.
-
-
- Once you've seen the hospital -which shouldn't take more than a couple of hours - you should make a trip on the lakes with a dugout canoe or pirogue as they call them in French. A trip to the lake of Ezanga, Evaro and Onague takes up a whole day in a motorized pirogue and can be arranged through the Sofitel. A trip to one or more of the smaller lakes close by can be done in half a day.
+Lambarene is reachable by road from Libreville, a drive of three to four hours on one of the better-maintained routes in the country. The town itself is modest and quiet, with a handful of basic hotels and restaurants.

@@ -1,40 +1,16 @@
 ---
-title: "Day Trips in Libreville"
+title: "Day Trips"
 type: section
 ---
 
-Libreville, the capital of Gabon, is a beautiful beach side city
-that offers some great opportunities for travelers and people looking
-to enjoy the African experience. Enjoy the city, go shopping, check out
-the Arboretumde Sybang, a huge park of trees inside the city, and visit
-the National Museum of Arts and Traditions. Gabon's
-position on the west coast of Africa means that you are surrounded by
-some wonderful wildlife. Here are a few day trips that will make your
-vacation to Libreville that much better.**
+Libreville's position on the coast and near several national parks makes it a good base for excursions, though some of these "day trips" are more honestly one- or two-night outings.
 
-Akanda National Park**
+**Pointe Denis** is the easiest escape from the city. A 30-minute boat ride across the Gabon Estuary brings you to a sandy peninsula with quiet beaches and calm water. Pirogues and speedboats depart from the port area throughout the day. It is a popular weekend spot for Libreville residents, but during the week you may have the beach mostly to yourself.
 
-To the immediate north of Libreville you will find Akanda National Park. To get there you have to take a boat from Libreville to the mouth of the Moka River, where you will disembark in the park. The park is mostly made up of Mangroves, a shrub-like tree that grows in coastal habitats, and tidal beaches. The Akanda
-National Park was founded in 2002 by the president, Omar Bongo. It is a site for migratory birds of all kinds, and is also home to
-some important species of turtle. Day trips are easy to arrange from
-Libreville, as one of the main reasons the park was founded in the
-first place was to promote tourism.**
+**Akanda National Park** lies just north of Libreville and is accessible by boat from the city to the mouth of the Moka River. The park is mostly mangroves and tidal mudflats, and it is an important site for migratory birds. If you are a birder, this is an easy half-day trip. For others, the scenery is pleasant but not spectacular.
 
-Ivindo National Park**
+**Lope National Park** is reachable via the Trans-Gabon railway from Libreville, though the journey takes the better part of a day each way. A serious day trip it is not, but a two- or three-day visit is very doable. The park offers savanna and rainforest, large troops of mandrills, forest elephants, and gorillas. It is a UNESCO World Heritage Site and the most accessible of Gabon's major parks.
 
-Part of the same 2002 edict that established Akanda National Park, Ivindo
-National Park lies in central-east Gabon, making it more of a journey
-from Libreville. The handy existence of the Trans-Gabon railway,
-however, makes it a very doable trip during your Libreville vacation,
-and it's well worth it. The park boasts gorillas, buffalo, elephants,
-chimpanzees, leopards and more, as well as a number of stunning
-waterfalls. Because there are a number of rivers running throughout the
-park, tours are sometimes taken by boat, though some still go on foot.**
+**Ivindo National Park**, further east along the railway, is home to thundering waterfalls and extraordinary wildlife clearings. Plan on at least two days. The train to Booue followed by a drive into the park is an adventure in itself.
 
-Lope National Park**
-
-If you're running a tight schedule, you can visit Lope and Ivindo
-parks in the same day, since they both are accessed from the
-Trans-Gabon railway. If you have the time, however, both parks deserve
-at least a day's worth of exploration, if not more. Located in the heart
-of Gabon, Lope National Park is mostly rainforest, with some areas of grass Savannah to the north. The Ogooue River runs through the park, and is home to a wide variety of species. Animals you will find in Lope include forest elephants, the western lowland gorilla, mandrills and the crowned hawk eagle.
+**Pongara National Park** sits on the southern shore of the Gabon Estuary, opposite Libreville. Between October and March, leatherback turtles nest along its beaches. Ekwata Beach within the park is a quiet stretch of sand worth visiting even outside nesting season.

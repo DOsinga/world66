@@ -1,11 +1,9 @@
 ---
-title: "Hotel Permeti"
+title: "Permet"
 type: location
 latitude: 40.233457
 longitude: 20.353233
 ---
-
-Travel Guide
 
 Përmeti is a rather nondescript town, but in many ways the spiritual heart of Albanian communism. It was very deeply involved in the anti- Fascist struggle and as a result was completly burnt down by the Germans in 1943-1944. So all the buildings are modern. Much of the population of the surrounding mountains is of Vlach descent.
 A British Special Operations Executive liason officer, T.W. Tilman, passing through Përmet in August 1943, noted the damage the area had suffered in the Balkan Wars of 1911-1912, and other recent conflict:

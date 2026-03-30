@@ -5,4 +5,10 @@ latitude: 39.87522
 longitude: 20.006526
 ---
 
-.Saranda can be reached easily from the Greek island of Corfu by ferry. The town is a good base for exploring the most beautiful part of the Albanian coast - a strip also known as the Albanian riviera. Butrint is also a good excursion. You can visit the museum city, Gjirokastra. It is about 2 hours by bus. The city center of Saranda has been scarred by communist architecture but since the fall of communism many small shops and bars have sprung up which give the city a very nice Mediterranean feel.Not far from the resort of Saranda lie the impressive ruins of Butrint. Ignored for many years, rambling creepers hid ancient masonry and buildings so effectively that a Roman Theatre and Baptistery have only recently been discovered.
+Saranda is the main resort town of the Albanian Riviera, sitting at the southern tip of the Ionian coast a short crossing from the Greek island of Corfu. It is a useful base and a pleasant enough place, though the town itself — a ring of apartment blocks and hotels around a bay — is less distinguished than the scenery surrounding it.
+
+The main reason to come is the access it provides. [Butrint](/europe/albania/butrint), one of Albania's most impressive archaeological sites, is 18 km south and should not be missed. The Blue Eye (*Syri i Kaltër*), a spring of extraordinary clarity, is about 25 km east up the valley — the water wells up from an apparently bottomless pool in shades of deep blue. Both are easy day trips.
+
+The beaches of Ksamil, 14 km south, are the best in the immediate area: small sandy coves with shallow, clear water and tiny islands you can wade or swim to. They are very popular in July and August.
+
+Saranda is directly connected to Corfu by fast ferry (30–45 minutes), making it an easy entry or exit point if you're combining Albania with Greece. [Gjirokastër](/europe/albania/gjirokaster) is about 2 hours by bus — a worthwhile detour.

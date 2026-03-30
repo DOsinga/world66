@@ -5,22 +5,22 @@ latitude: 12.543322
 longitude: 104.814491
 ---
 
-Due to its politically and economically shaky position Cambodia is one of the least known and traveled to destinations in the South East Asia. Since the 1800s, the country has endured French rule, the Lon Nol government, the Khmer Rouge regime and Vietnamese intervention in 1979. In the relative political stability that followed the U.N.-sponsored elections in Cambodia in 1993, tourism began to flourish. But the coup in 1997 and the resulting military and political upheaval, has brought the country's fastest-growing industry to a near standstill. 
- It’s hard to say exactly how safe the country is to tourists. As long as you stay within the vicinity of Phnom Penh and Angkor, you should be reasonably safe. Just remember, the people are very poor here and a living tourist is worth a lot of money.
+Cambodia is one of Southeast Asia's most absorbing countries — a place where one of history's greatest civilizations left its mark in stone, and where a more recent history of extraordinary suffering is still within living memory. The contrast between Angkor's immense temples and the Khmer Rouge killing fields gives Cambodia a weight that few countries in the region can match.
 
+The country has come a long way since the chaos of the 1990s. Tourism has grown steadily, infrastructure has improved, and the Cambodian people — having endured decades of war, genocide, and foreign occupation — greet visitors with a warmth and resilience that tends to stay with you long after you leave.
 
- .
- Cambodia borders on by [Vietnam](/asia/vietnam), [Laos](/asia/laos) and [Thailand](/asia/thailand), but it's not advisable to cross the borders between these countries. The best way to travel to Cambodia it to fly directly to it's capital [Phnom penh](/asia/cambodia/phnompenh). Phnom Penh has been the home of the Khmer Rouge since 1975. Traveling to Cambodia is almost impossible without a visit here. The city is renowned for its beauty, though recent history took its toll here too. Especially the area surrounding the Royal Palace with the magnificent Khmer towers and the French villas overlooking the banks of the Tonle Sap river is worth a visit.
+Most visitors arrive for [Angkor](/asia/cambodia/angkorwat), and rightly so. The temple complex outside [Siem Reap](/asia/cambodia/siemreap) is one of the genuine wonders of the world. But Cambodia rewards those who venture beyond it. [Phnom Penh](/asia/cambodia/phnompenh), once called the "Paris of the Orient," is a compelling capital with world-class museums, a riverfront lined with cafes, and the sobering Tuol Sleng genocide museum. The south coast around [Sihanoukville](/asia/cambodia/sihanoukville) and [Kep](/asia/cambodia/kep) has beaches and seafood. The northeast — [Kratie](/asia/cambodia/kratie), Stung Treng, Ratanakiri — offers the Mekong, rare Irrawaddy dolphins, and hill tribe communities largely untouched by mass tourism.
 
-[Angkor wat](/asia/cambodia/angkorwat) is the key tourist attraction of Cambodia. The nearly 900-year-old temple has been described as the jewel of the country, transporting visitors in time and spirit. Since it’s rediscovery in the late 19th century it has been competing with monuments like the Taj Mahal to be listed as the eighth world wonder. 
- 
+Cambodia borders [Vietnam](/asia/vietnam) to the east, [Laos](/asia/laos) to the northeast, and [Thailand](/asia/thailand) to the north and west. The country is dominated by the Mekong River and the vast Tonle Sap lake, which swells dramatically during the monsoon season and provides much of the country's fish protein.
 
-Another touristy hotspot is [Sihanoukville](/asia/cambodia/sihanoukville) on the South Coast. Here paradise like bays and empty white sand beaches lined with palm trees are waiting for you to relax and sunbathe.
+**Destinations:**
 
-Other major cities are [Battambang](/asia/cambodia/battambang), the second largest city, Kampong Cham, Kandal, Prey Veng, Takeo, Kampung Thom, Svay Rieng and Kampong Speu. 
- 
- 
- 
- 
-
-Cambodia has three seasons. The rainy, monsoon season, lasts from May to October. November to April is the dry season, this is split into cold season from November to January and the hot season is from February to April. Temperatures change can be very slight between each season and can range from between 21 to 35 degrees celcius
+- [Phnom Penh](/asia/cambodia/phnompenh) — the capital, on the confluence of the Mekong and Tonle Sap rivers
+- [Siem Reap](/asia/cambodia/siemreap) — gateway to the Angkor temples
+- [Angkor Wat](/asia/cambodia/angkorwat) — the temple complex itself
+- [Sihanoukville](/asia/cambodia/sihanoukville) — the main beach town on the Gulf of Thailand
+- [Battambang](/asia/cambodia/battambang) — Cambodia's second city, with colonial architecture and a slower pace
+- [Kratie](/asia/cambodia/kratie) — Mekong town, Irrawaddy dolphins
+- [Kep](/asia/cambodia/kep) — quiet seaside town, famous for crab
+- [Kampong Cham](/asia/cambodia/kampongcham) — Mekong port with Khmer temples nearby
+- [Krong Koh Kong](/asia/cambodia/krongkohkong) — border town with access to the Cardamom Mountains

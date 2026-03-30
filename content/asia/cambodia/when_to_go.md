@@ -3,10 +3,12 @@ title: "When to Go"
 type: section
 ---
 
-Cambodia is hot year-round, but the type of hot varies considerably. The **cool dry season** from November through February is the most comfortable time to visit. Temperatures hover around 25-30°C, humidity is manageable, and the skies are clear. This is peak season, so expect higher prices and bigger crowds at [Angkor Wat](/asia/cambodia/angkorwat), but the weather makes it worthwhile.
+Cambodia has two seasons — dry and wet — and the difference matters.
 
-From March to May, the **hot season** is exactly what it sounds like. Temperatures push past 40°C and the air is thick and still. Temple-hopping in this heat is genuinely punishing. If you must travel now, start early, rest through the afternoon, and drink more water than you think you need.
+**November to April** is the dry season and the peak tourist period. The cool season from November to February has the most pleasant temperatures — 24–30°C, low humidity, blue skies. This is the best time to visit if comfort is the priority. December and January are the coolest months and the busiest, with Angkor and Phnom Penh at their most crowded. February and March are still good: warmer but not punishing. By April, temperatures climb toward 35–38°C and the heat can be oppressive, particularly inland. Khmer New Year in mid-April brings celebrations but also means many businesses close and prices rise.
 
-The **rainy season** from June through October is underrated. Yes, it rains — usually a dramatic afternoon downpour that clears within an hour or two. Mornings are often fine. The countryside turns impossibly green, the temples look their best draped in mist, and you will have far fewer people in your photos. This is also when Tonle Sap floods spectacularly, reversing the flow of the Tonle Sap River and expanding the lake across the floodplain.
+**May to October** is the wet season, brought by the southwest monsoon. Rain comes in heavy afternoon downpours rather than all-day drizzle — mornings are often fine. The countryside turns intensely green, the Tonle Sap swells to five times its dry-season size, and tourist numbers drop significantly. This means emptier temples, lower prices, and a more local atmosphere. Angkor in particular is beautiful in the wet season, with moats full and vegetation lush. Roads in rural areas can become impassable, and the far northeast (Ratanakiri, Mondulkiri) is difficult to reach.
 
-If you can time it, aim for November. The rains taper off, the landscape is still lush, and you may catch **Bon Om Touk**, the Water Festival. Hundreds of longboats race along the Phnom Penh riverfront while the whole country seems to turn out to watch. It is Cambodia at its most joyful.
+**October** is a good shoulder-month compromise: the rains are easing, the countryside is still green, and crowds haven't yet built up. The Water Festival in Phnom Penh (October or November, depending on the lunar calendar) is one of Cambodia's greatest festivals and worth timing a visit around.
+
+If you're going primarily for Angkor, any time works — the site is worth visiting year-round. The dry-season crowds at peak times (Christmas, Chinese New Year) are real; go early in the morning regardless of when you visit.

@@ -5,8 +5,6 @@ latitude: 40.907832
 longitude: 44.120832
 ---
 
-Travel Guide
-
 The Lori region of Armenia is in the very north, in the center of
 Armenia's border with Georgia. The three four main geographic features
 are the valley that Vanadzor - Armenia's third largest city lies in,

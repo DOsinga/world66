@@ -3,64 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Andorra doesn't have a large body of dedicated travel literature, but a few titles are worth knowing.
 
-**Andorra:1998/1999**
+**Andorra** by Peter Cameron (1997) is a novel that uses a fictional version of the country — landlocked, mountainous, but with an invented coast — as the setting for a story about a man running from his past. Cameron's Andorra is a mood rather than a place, but the book captures something about the principality's ambiguity and smallness. Worth reading on the bus in.
 
+**Andorra** by Max Frisch (1961) is a Swiss play, not set in the actual country at all — Frisch uses "Andorra" as a fictional stand-in for a society consumed by prejudice. It's one of the great works of 20th-century European theatre. Nothing to do with the real place but perpetually in print.
 
+**The Pyrenees** by Hilaire Belloc (1909) covers the whole range and includes passages on Andorra. Belloc walked through the principality and wrote about it with his usual mix of sharp observation and eccentric opinions. Still readable.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1583100172/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert C. Kelly,Debra Ewing,Stanton Doyle,Den..
-
-isbn: 1583100172
-
-subject: travel
-
-**Fragmentation and the International Relations of Micro-States**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0521563607/ref=ase_osingacom?v=glance&s=books)
-
-author: Jorri Duursma
-
-isbn: 0521563607
-
-subject: travel
-
-**Three Plays:The Fire Raisers, Andorra**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0413665607/ref=ase_osingacom?v=glance&s=books)
-
-author: Max Frisch,Geoffrey Skelton (Translator),Mich..
-
-isbn: 0413665607
-
-subject: culture
-
-**Andorra**
-
-**hendrickx :** This book is a dark comedy about a man who tries to escape his mysterious past by traveling to this remote and beautiful country. However, the Andorra depicted in Cameron's book is purely fiction. His Andorra is in a simular location, but has a coastline on the oce [more..](/europe/andorra/books/andorra)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0452279445/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Cameron
-
-isbn: 0452279445
-
-subject: history
-
-**Three Plays:The Fire Raisers, Andorra**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0413665607/ref=ase_osingacom?v=glance&s=books)
-
-author: Max Frisch,Geoffrey Skelton (Translator),Mich..
-
-isbn: 0413665607
-
-subject: history
+For background on the region's history and culture, anything on Catalan identity and the Crown of Aragon will provide useful context — Andorra's peculiar status as a co-principality dates from a 1278 treaty that has never been superseded.

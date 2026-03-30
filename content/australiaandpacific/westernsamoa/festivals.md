@@ -1,54 +1,14 @@
 ---
-title: "Festivals in Western Samoa"
+title: "Festivals"
 type: section
 ---
 
-In the middle of the South Pacific lies the Independent State of
-Samoa which includes Western Samoa. Life in this part of the world is
-still very much rooted in tradition and spirituality. This connection
-that the Samoan people have with their heritage is reflected in **Western Samoa Festivals**.
-Festivals and celebrations are important parts of the traditional
-culture of the area; they give families and friends time to get
-together and dance, eat good food, have sporting competitions and just
-relax. Some festivals are small and held only on certain islands, while
-others are huge and celebrated all over Western Samoa. The time of year
-with the most festivals is from June to October
+Samoa's festival calendar runs mostly from June to October, when the dry season makes outdoor celebrations possible.
 
-**Independence Day**
+**Independence Day** (1–3 June) is the biggest event of the year. Fautasi races — traditional long outrigger canoes paddled by large crews — take place in Apia harbour. There are also horse races, an independence triathlon, sporting finals, speeches from tulafale (talking chiefs), and feasting in both public and private settings.
 
-The festivities for Western Samoa's day of independence are held
-from June 1 to June 3. This is probably the biggest celebration on
-the islands. Wise talking chiefs, or tulafale, give inspiring speeches
-to the public, and a variety of parties, both public and private, are
-created with abundant food, traditional music and dancing. The
-celebrations for Independence Day also include tons of sporting events
-and competitions. There is an international fishing tournament, horse
-races, an independence triathlon, and, more traditionally, a fautasi
-race, which is a race in traditional long paddling canoes.
+**Teuila Festival** runs for about two weeks in early September and is the second major celebration. Named after the red ginger flower, it features fautasi races, church choir competitions, traditional dance and song performances, talent shows, beauty competitions, and the cricket and squash finals. It is lively and well worth timing your visit around.
 
-**Teuila Festival**
+**Palolo Rising** happens once a year in late October or early November, at a date determined by the lunar calendar. Palolo are small reef worms that rise to the surface to spawn in vast numbers in the hours before dawn. Villages across Samoa send boats out in the dark with lanterns and nets to scoop up the worms, which are then eaten raw or cooked — they taste something like caviar. It is one of the most distinctly Samoan events a visitor can witness.
 
-Taking place during the first 2 weeks of September, the Teuila
-Festival is the second biggest festival in Western Samoa. Traditional
-food is served, fautasi races are held, and there is a church choir
-competition. There are colorful costumes all around, and there is much
-dancing, singing, and merriment. During the Teuila Festival, talent
-shows are common, as are beauty competitions, and the cricket and
-squash finals are almost always scheduled at the time of the festival.
-
-**Savai'i Palolo Festival**
-
-Palolo is a Western Samoan delicacy, a small, salt water, spaghetti
-like, reef worm that was historically, and still is, an integral part
-of the Samoan culture. They rise out of the reef only once a year to
-spawn at night in huge numbers. This is a very important event for the
-Samoans and, therefore, has its own festival. Locals go out in boats in
-the middle of the night during late October and wait with nets and
-lanterns to catch the palolo when they rise. Afterwards, they feast
-upon the palolo, either cooked in various ways or just eaten raw. It is
-similar to a sort of caviar.
-
-**Contributors**
-February 02, 2010
-
-February 09, 2010
+**White Sunday** (second Sunday in October) is a national holiday dedicated to children. Children wear white, lead church services, and are served first at the family feast — a reversal of the usual order.

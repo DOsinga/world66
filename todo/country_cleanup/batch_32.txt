@@ -1,5 +1,0 @@
-northamerica/belize
-northamerica/bermuda
-northamerica/canada
-northamerica/caymanislands
-northamerica/costarica

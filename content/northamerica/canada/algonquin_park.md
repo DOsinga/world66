@@ -21,5 +21,3 @@ You’ll cross the lake again, with the breeze in your favour this time, and arr
 
 By the time you leave, the light is changing, and evening shadows ripple across the lake. With the sunset, the night shift appears – owls starting their nightly hunt, foxes and raccoons going on the prowl, and even a shy and elusive moose might appear from the shelter of the forest. The moon’s light casts a silver path across the water and silence returns to paradise.
 
-**Contributors**
-May 16, 2005

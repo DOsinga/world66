@@ -5,8 +5,6 @@ latitude: 55.001251
 longitude: -125.002441
 ---
 
-"/>
-
 From snowy Rocky Mountain slopes to sunny beaches in downtown Vancouver, Canada's southwest coast offers an unparalleled tourist destination. Whatever excitement you crave, you'll find it in super, natural British Columbia. 
 
 

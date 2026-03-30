@@ -3,22 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Bermuda has no national airline but *British Airways *operates regular weekly flights to and from London Gatwick and Bermuda. Other airlines serving Bermuda include *American Airlines Air Canada Delta* *USAir *and *Continental Airlines (CO)*.
+Bermuda is served by L.F. Wade International Airport (BDA), located at the east end of the island near St. George's. There are no direct flights from the airport into Hamilton; taxis and buses cover the roughly 30-minute journey.
 
-Approximate flight times
+US carriers dominate: American Airlines, Delta, United, and JetBlue all fly from multiple East Coast cities. Flights from New York, Boston, and Philadelphia take under two hours. Charlotte and Atlanta are around two and a half hours. Air Canada and WestJet connect Toronto. From the UK, British Airways operates nonstop service from London Gatwick; the flight takes about seven hours. BermudAir, a small Bermuda-based carrier, has added nonstop routes from several US cities including Boston and New York LaGuardia.
 
-To Bermuda from *London *is 7 hours and from *New York* is 1 hour 50 minutes.
+The departure tax is included in all ticket prices.
 
-International airport
+## By Sea
 
-*Bermuda International (BDA) *(Web site: http://www.bermuda.bm/airportops) 16km (10 miles) from Hamilton. Bermuda Hosts (buses) meet all arrivals. Taxis are also available. The journey to Hamilton takes 30 minutes. There are duty-free shops and bureaux de change at the airport. Duty-free goods may also be purchased in town shops for collection at the airport on departure.
-
-Departure tax:
-
-A tax of Bda$20 levied on passengers over 2 years old is included in air tickets. Children under two years and passengers in immediate transit are exempt.
-
-Sea
-
-UK cruise ships of the *Cunard* *Line* occasionally call en route from Australia New Zealand and UK*. Royal Caribbean International Norwegian Cruise Lines *and *Celebrity Cruises *operate a fly-cruise programme from the UK via New York to Bermuda (April to September).
+Bermuda is a major port of call for cruise ships. Ships dock at three locations: Hamilton, St. George's, and the Royal Naval Dockyard. Most cruise itineraries arrive from the US East Coast (New York, Baltimore, Boston, Cape Liberty) between April and October. The major lines — Royal Caribbean, Norwegian, Celebrity, and MSC — all include Bermuda in their seasonal rosters. Ships typically stay two to three nights, long enough to see the island properly.

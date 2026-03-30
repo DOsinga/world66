@@ -17,6 +17,7 @@ import io
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 from dataclasses import dataclass
@@ -270,45 +271,57 @@ def make_thumbnail(image_bytes: bytes) -> bytes | None:
         return None
 
 
-def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_text: str, gemini_key: str) -> int | None:
-    """Use Gemini Vision to pick the best photo. Returns candidate index or None."""
-    from google import genai
-    from google.genai import types
-
-    client = genai.Client(api_key=gemini_key)
-
-    parts = [
-        f'You are selecting the best photo for a travel guide page. '
-        f'Below are {len(thumb_data)} candidate photos numbered 0 to {len(thumb_data) - 1}.\n\n'
-        f'Page content:\n{page_text[:1000]}\n\n'
-        f'Pick the single best photo based on:\n'
-        f'1. Relevance to this specific destination/topic\n'
-        f'2. Visual quality and composition\n'
-        f'3. How well it represents the place to a traveler\n\n'
-        f'If NONE of the photos are suitable, respond with just "NONE".\n'
-        f'Otherwise respond with just the number (0-{len(thumb_data) - 1}) of the best photo.'
-    ]
-
-    for i, thumb in enumerate(thumb_data):
-        parts.append(f'\nPhoto {i}:')
-        parts.append(types.Part.from_bytes(data=thumb, mime_type='image/jpeg'))
-
+def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_text: str) -> int | None:
+    """Use Gemini CLI to pick the best photo. Returns candidate index or None."""
+    tmp_dir = SCRIPT_DIR / '.tmp_photos'
+    tmp_dir.mkdir(exist_ok=True)
+    tmp_files = []
     try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=parts,
+        for i, thumb in enumerate(thumb_data):
+            path = tmp_dir / f'photo_{i}.jpg'
+            path.write_bytes(thumb)
+            tmp_files.append(path)
+
+        file_list = ' '.join(f'tools/.tmp_photos/photo_{i}.jpg' for i in range(len(thumb_data)))
+        prompt = (
+            f'Read these image files and select the best photo for a travel guide page: {file_list}\n\n'
+            f'The images are numbered 0 to {len(thumb_data) - 1} matching the filenames.\n\n'
+            f'Page content:\n{page_text[:1000]}\n\n'
+            f'Pick the single best photo based on:\n'
+            f'1. Relevance to this specific destination/topic\n'
+            f'2. Visual quality and composition\n'
+            f'3. How well it represents the place to a traveler\n\n'
+            f'If NONE of the photos are suitable, respond with just "NONE".\n'
+            f'Otherwise respond with just the number (0-{len(thumb_data) - 1}) of the best photo.'
         )
-        answer = response.text.strip()
+
+        cmd = ['/opt/homebrew/bin/gemini', '-p', prompt, '--approval-mode', 'yolo']
+        result = subprocess.run(
+            cmd, capture_output=True, text=True, timeout=300,
+            cwd=SCRIPT_DIR.parent,
+        )
+
+        if result.returncode != 0:
+            print(f'  Gemini CLI error: {result.stderr.strip()}')
+            return None
+
+        answer = result.stdout.strip()
 
         if 'NONE' in answer.upper():
             return None
 
-        # Extract first number from response
-        match = re.search(r'\d+', answer)
-        if match:
-            idx = int(match.group())
-            if 0 <= idx < len(thumb_data):
-                return idx
+        # Gemini CLI may output reasoning before the answer; check last line first
+        for line in reversed(answer.splitlines()):
+            line = line.strip()
+            if not line:
+                continue
+            if 'NONE' in line.upper():
+                return None
+            match = re.search(r'\d+', line)
+            if match:
+                idx = int(match.group())
+                if 0 <= idx < len(thumb_data):
+                    return idx
 
         print(f'  Gemini returned unexpected answer: {answer}')
         return None
@@ -316,6 +329,10 @@ def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_t
     except Exception as e:
         print(f'  Gemini evaluation failed: {e}')
         return None
+    finally:
+        for f in tmp_files:
+            f.unlink(missing_ok=True)
+        tmp_dir.rmdir()
 
 
 # ---------------------------------------------------------------------------
@@ -393,7 +410,7 @@ def save_progress(processed: set):
 # Main pipeline
 # ---------------------------------------------------------------------------
 
-def process_page(content_path: str, gemini_key: str, force: bool = False) -> bool:
+def process_page(content_path: str, force: bool = False) -> bool:
     """Process a single page. Returns True if a photo was saved."""
     md_path = resolve_md_path(content_path)
     if not md_path:
@@ -450,7 +467,7 @@ def process_page(content_path: str, gemini_key: str, force: bool = False) -> boo
 
     # Ask Gemini to pick the best
     page_text = f'Title: {meta.get("title", "")}\n\n{body[:1500]}'
-    best_idx = pick_best_photo(valid_candidates, thumb_data, page_text, gemini_key)
+    best_idx = pick_best_photo(valid_candidates, thumb_data, page_text)
 
     if best_idx is None:
         print(f'  Gemini: no suitable photo found')
@@ -517,17 +534,11 @@ def find_all_pages(page_type: str = 'location') -> list[str]:
 def main():
     parser = argparse.ArgumentParser(description='Find photos for World66 content pages')
     parser.add_argument('path', nargs='?', help='Content path (e.g., /europe/netherlands/amsterdam)')
-    parser.add_argument('--gemini-key', help='Gemini API key (default: GEMINI_API_KEY env var)')
     parser.add_argument('--batch', action='store_true', help='Process all pages')
     parser.add_argument('--type', default='location', help='Page type filter for batch mode (default: location)')
     parser.add_argument('--force', action='store_true', help='Replace existing images')
     parser.add_argument('--dry-run', action='store_true', help='List pages without processing')
     args = parser.parse_args()
-
-    gemini_key = args.gemini_key or os.environ.get('GEMINI_API_KEY')
-    if not gemini_key:
-        print('Error: Gemini API key required. Set GEMINI_API_KEY or use --gemini-key')
-        sys.exit(1)
 
     if args.batch:
         pages = find_all_pages(args.type)
@@ -549,7 +560,7 @@ def main():
                     continue
 
                 print(f'\n[{i + 1}/{len(pages)}]')
-                if process_page(content_path, gemini_key, args.force):
+                if process_page(content_path, args.force):
                     success += 1
 
                 processed.add(content_path)
@@ -563,7 +574,7 @@ def main():
         print(f'\nDone: {success} photos saved, {skipped} skipped (already processed)')
 
     elif args.path:
-        process_page(args.path, gemini_key, args.force)
+        process_page(args.path, args.force)
 
     else:
         parser.print_help()

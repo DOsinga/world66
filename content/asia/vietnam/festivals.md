@@ -3,26 +3,24 @@ title: "Festivals"
 type: section
 ---
 
-**Go Thap festival (held in Mekong Delta, Southern of Vietnam) **
+## Tet (Lunar New Year)
 
-Go Thap festival takes place twice a year in March and November of the lunar calendar in the southern province of An Giang . A memorial festival for Ba Chua Xu, who had great contribution to the discovery, construction and development of Go Thap, is held from afternoon of the 14th to morning of the 16th of lunar March.
+Tet Nguyen Dan — the Lunar New Year — is Vietnam's most important holiday and the one that reshapes the country most dramatically. It falls in January or February depending on the lunar calendar. In the weeks before Tet, markets fill with peach blossoms (north) and apricot flowers (south), kumquat trees, and mountains of decorative items. On New Year's Eve, fireworks light up Hoan Kiem Lake in Hanoi and the riverfront in Ho Chi Minh City.
 
-A festival to memorise two national heroes Thien Ho Duong and Doc Binh Kieu, leaders of the resistance against French colonialists in the second half of the 19th century is also held on lunar November 14-16.
+For travelers, Tet is a complex time. The spectacle is real — lion dances, flower markets, decorated streets — but much of the country shuts down for a week or more as people return to their home villages. Restaurants close, transport is chaotic, and ATMs run out of cash. If you want to experience Tet, arrive a few days before and book accommodation well in advance. Avoid the peak travel days around the holiday itself unless you enjoy organized chaos.
 
-The atmosphere there changes when the festival is held. Many visitors from all over Vietnam travel to the festivals by all means of transport such as trains, boats and buses. The festivals attract nearly fifty thousand visitors a year.
+## Hung Kings Temple Festival
 
-The Go Thap festival consists of two separate parts: worshipping ceremonies and amusement activities.
+Held on the 10th day of the third lunar month (typically April), this national holiday commemorates the legendary Hung Kings, founders of the Vietnamese nation. The main ceremonies take place at the Hung Kings Temple complex in Phu Tho province, north of Hanoi, drawing hundreds of thousands of pilgrims. It's a major cultural event and an official public holiday.
 
-In addition to main ceremonies such as worshiping Ba Chua Xu, Thien Ho Duong and Doc Binh Kieu, several other ceremonies are held to pray for peace and worship Than Nong (Emperor Shen Nong). Each ceremony has different contents but has a similar funeral oration performed by an elder man who is responsible for worshipping.
+## Mid-Autumn Festival (Tet Trung Thu)
 
-The content of the funeral oration is to praise the ancestors’ great contribution or to pray Gods for happiness, wealth and bumper crops.
+Celebrated on the 15th day of the eighth lunar month (September or October), this is particularly a children's festival. Towns fill with paper lanterns, lion dances, and mooncakes. Hoi An is one of the best places to see it — the lantern-lit ancient town at mid-autumn is genuinely beautiful.
 
-For amusement, art and cultural activities such as song and dance performances and traditional games help attendants forget difficulties in daily life and lead a happy and honest life.
+## Hoi An Lantern Festival
 
-The Go Thap festival is a harmonious combination of different cultural features: between material and spirit, belief and culture, sacredness and daily life and between outdatedness and modernity.
+On the 14th of each lunar month, Hoi An dims its electric lights and the ancient town glows with silk lanterns hung along the streets and reflected in the Thu Bon River. This happens monthly, not just once a year, making it easy to time a visit.
 
-Those who attend the festivals often contribute rice, firewood, vegetables to the kitchen of Doc Binh Kieu and Thien Ho Duong Temples .
+## Kate Festival
 
-Money contributed by visitors is spent on restoring the existing vestiges. Besides the State funds, people have contributed both efforts and money to completing the reconstruction of the historical site. A road from My An town to the historical area has been asphalted.
-
-The Go Thap festival, full of traditional features reflecting Dong Thap Muoi (Plain of Reeds) residents’ hope and aspiration, is more and more attractive to tourists.
+The Kate Festival is the most important religious ceremony of the Cham people, held at Cham towers (most notably the Po Klong Garai towers near Phan Rang) in late September or early October. It's a vivid display of music, dance, and religious ritual largely unknown to most tourists — worth seeking out if you're in the central coast region at the right time.

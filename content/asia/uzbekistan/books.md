@@ -3,96 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Great Game** by Peter Hopkirk is the essential background read for anyone traveling to Central Asia. It covers the 19th-century rivalry between Britain and Russia for control of the region, with Bukhara playing a starring role including the imprisonment and execution of two British officers. Gripping as a thriller, useful as history.
 
-**Uzbekistan:The Golden Road to Samarkand**
+**Samarkand** by Amin Maalouf is a historical novel that begins with the 11th-century poet Omar Khayyam writing his Rubaiyat in Samarkand and follows the manuscript's fate through conquest, revolution, and the 20th century. More fiction than history, but it puts you in the right mood before you stand in front of the Registan.
 
+**A Ride to Khiva** by Frederick Burnaby (1876) is the account of a British officer's disguised journey across the steppe to Khiva in winter — partly to see whether a Russian invasion of British India was feasible, partly because he was an adventurer. Entertaining and revealing of the era.
 
+**Uzbekistan: The Golden Road to Samarkand** by Calum MacLeod and Bradley Mayhew (Odyssey Guides) is the most thorough English-language guidebook to the country, covering history and archaeology in real depth alongside practical information. Worth reading before you go, not just carrying around.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9622175821/ref=ase_osingacom?v=glance&s=books)
-
-author: Calum MacLeod,Bradley Mayhew
-
-isbn: 9622175821
-
-subject: travel
-
-**A Ride to Khiva:Travels and Adventures in Central Asia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0192880500/ref=ase_osingacom?v=glance&s=books)
-
-author: Frederick Burnaby,Peter Hopkirk
-
-isbn: 0192880500
-
-subject: travel
-
-**Uzbekistan :The Golden Road to Samarkand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844248525/ref=ase_osingacom?v=glance&s=books)
-
-author: Calum MacLeod,Bradley Mayhew
-
-isbn: 0844248525
-
-subject: travel
-
-**Essays on Uzbek History, Culture, and Language**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0933070292/ref=ase_osingacom?v=glance&s=books)
-
-author: BakhtiFer Nazarov,Devin A. DeWeese,Denis Sino..
-
-isbn: 0933070292
-
-subject: culture
-
-**Samarkand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566562937/ref=ase_osingacom?v=glance&s=books)
-
-author: Amin Maalouf,Russell Harris (Translator)
-
-isbn: 1566562937
-
-subject: history
-
-**The Modern Uzbeks: From the Fourteenth Century to the Present:A Cultural History**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0817987320/ref=ase_osingacom?v=glance&s=books)
-
-author: Edward A. Allworth
-
-isbn: 0817987320
-
-subject: history
-
-**Samarkand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566562007/ref=ase_osingacom?v=glance&s=books)
-
-author: Amin Maalouf,Russell Harris (Translator)
-
-isbn: 1566562007
-
-subject: history
-
-**The Great Game**
-
-A fantastic review of the history and politics of Central Asia through the eyes of a foreigner. Specail interest is payed to Bukhara and the death of English spies.
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-subject: English/Russian Expansion into Central Asia
+**The Possessed: Adventures with Russian Books and the People Who Read Them** by Elif Batuman includes a chapter on the Savitsky Museum in Nukus that is the best introduction to the collection and the extraordinary story of how it came to exist. The rest of the book is also wonderful.

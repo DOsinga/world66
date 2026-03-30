@@ -167,11 +167,46 @@ When a city already has `sights/` and `museums/` with POIs:
 
 ---
 
-## Adding POIs from Curated Itineraries
+## Adding Curated Itineraries
 
-When you add a Curated Itinerary (see CLAUDE.md for the full workflow), every place it mentions should become a real POI. Use the `tags` field to link the POI to the itinerary.
+Each curated itinerary is a real blog post or travel guide written by someone who knows the city. The World66 entry links out to the original post and adds all the places it mentions as proper POIs — tagged so the tag page aggregates the guide entry and all its places together.
 
-### Which section does the POI go in?
+### Step-by-step
+
+**1. Research**
+Find 2–3 well-written, specific itineraries for the city (blog posts, travel guides, food guides). Prefer posts that name specific restaurants, cafes, sights, and bars rather than generic advice.
+
+**2. Create the section** (if it doesn't exist)
+Create `content/{path}/day_guides.md`:
+```yaml
+---
+title: "Curated Itineraries"
+type: section
+---
+
+Curated itineraries for spending time in {City}, drawn from travellers who know it well.
+```
+The `day_guides` slug is in `SECTION_ORDER` in `guide/models.py` — no `order` field needed.
+
+**3. Create a guide entry for each itinerary**
+Create `content/{path}/day_guides/{slug}.md`:
+```yaml
+---
+title: "One Day in Rome — Walks of Italy"
+type: poi
+url: "www.walksofitaly.com/blog/rome/one-day-in-rome"
+tags: ["One Day in Rome"]
+---
+
+A well-paced single-day itinerary from a Rome-based tour company, covering the Colosseum area in the morning, the centro storico at lunch, and the Vatican in the afternoon. Practical and realistic about timing.
+```
+- The tag (e.g. `"One Day in Rome"`) links the guide to its places — use the same tag on every POI the itinerary mentions
+- Keep the description to 2–3 sentences: what makes this guide worth reading, who it's for, what it covers
+- File naming: slugs from the blog title — `one_day_rome.md`, `48_hours_florence.md`
+- Tag naming: `"One Day in {City}"`, `"48 Hours in {City}"`, `"3 Days in {City}"` etc. — match the itinerary's framing. The tag becomes the URL at `/tags/{tag}`
+
+**4. Add the places as POIs**
+For each place the itinerary mentions, check if a POI already exists in the relevant section. If it does, add the tag. If not, create it:
 
 | Place type | Section |
 |-----------|---------|
@@ -179,27 +214,27 @@ When you add a Curated Itinerary (see CLAUDE.md for the full workflow), every pl
 | Restaurant, trattoria, osteria, café serving food | `eating_out/` |
 | Bar, café, gelateria, pasticceria, aperitivo spot | `bars_and_cafes/` |
 
-### POI template with itinerary tag
-
 ```yaml
 ---
-title: "Trattoria Mario"
+title: "Trattoria da Enzo al 29"
 type: poi
-address: "Via Rosina 2/r, 50123 Florence"
-opening_hours: "Mon–Sat 12:00–15:30; closed Sun"
-latitude: 43.7760
-longitude: 11.2530
-tags: ["3 Days in Florence"]
+address: "Via dei Vascellari 29, Rome"
+opening_hours: "Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun"
+latitude: 41.889
+longitude: 12.472
+tags: ["One Day in Rome"]
 ---
 
-Description — practical, opinionated, 3–5 sentences. What makes it worth going to,
-what to order, when to go, what to watch out for.
+A no-frills Roman trattoria in Trastevere...
 ```
 
-- Use the **exact tag string** from the itinerary's guide entry (e.g. `"3 Days in Florence"`, `"48 Hours in Rome"`)
-- A POI can appear in multiple itineraries: `tags: ["One Day in Florence", "3 Days in Florence"]`
-- If the POI already exists in the section, add the tag to its existing list rather than creating a duplicate
+- Use the **exact tag string** from the guide entry
+- A POI can carry multiple tags: `tags: ["One Day in Florence", "3 Days in Florence"]`
 - Always include `category` on POIs in `things_to_do/`
+- Make sure the relevant section files exist — create them if not
+
+**5. Commit and push**
+Stage all new and modified files, commit with a message like `Add curated itineraries for {City}`, and push.
 
 ---
 

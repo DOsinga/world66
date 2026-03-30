@@ -1,11 +1,9 @@
 ---
-title: "cape Kaliakra"
+title: "Cape Kaliakra"
 type: location
 latitude: 43.360374
 longitude: 28.465223
 ---
-
-Travel Guide
 
 Kaliakra
 (Bulgarian: Калиакра; Romanian: Caliacra) is a long and narrow headland

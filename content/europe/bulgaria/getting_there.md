@@ -3,18 +3,22 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air**
 
-Europe can be reached by surface transport from Africa and Asia. Getting there from the other continents involves flying.
+[Sofia](/europe/bulgaria/sofia) Airport is the main hub, served by most major European carriers — British Airways, Lufthansa, Austrian, KLM — as well as low-cost options including Ryanair and Wizz Air. Direct flights connect Sofia to London, Amsterdam, Frankfurt, Vienna, Madrid, and most European capitals. There are no direct transatlantic flights; travelers from North America typically connect through London, Frankfurt, or Istanbul. [Varna](/europe/bulgaria/varna) and [Burgas](/europe/bulgaria/burgas) airports handle heavy summer charter and low-cost traffic from the UK, Germany, and Scandinavia, making them convenient entry points if you're heading straight for the Black Sea coast.
 
- **Air**
+**By rail**
 
- Europe has lot's of airconnections with all the other continents, except for Antarctica. Indeed, for some connections from Asia to the America's it makes sense to pick up a flight to Europe and then head on. London, Paris, Amsterdam and the bigger German cities have competitive markets for cheap flights. Return Flights to North America (mostly New York) can be had for under 250 Euro. The rest of the world has some excellent connections too.
+Bulgaria has rail connections to Belgrade, Thessaloniki, Bucharest, and Istanbul. Trains are slow by Western European standards — the Sofia–Bucharest run takes around 10 hours — but perfectly comfortable and cheap. BDZ (Bulgarian State Railways) handles all domestic and international services; book at bdz.bg or at any station. Bucharest is the main overland gateway for travelers coming from Central Europe by train.
 
- Note that the cheapest flight tend to use cheapish Eastern European Airlines. Most of them are ok, but connections tend to be unpractical - although if you pay attention you can get a free hotel night thrown in.
+**By bus**
 
- **Surface**
+Long-distance coaches are often faster and cheaper than trains for international routes. Services run regularly from Istanbul, Thessaloniki, Skopje, Belgrade, and Bucharest. FlixBus and a number of Balkan operators serve these routes. Buses arrive at Sofia's Central Bus Station (next to the Central Railway Station) or directly to regional cities.
 
- Asia and Europe share the longest continent border of the planet, though most people will cross from/to Asia in Istanbul, where a bridge spans the gap between the continent. Taking the transiberian express is another possiblity. From Greece there are boats to Turkey, Cyprus, Israel, Syria and Libanon.
+**By car**
 
- To Africa the most used route is without doubt the crossing of the Street of Gibraltar, which is easily done, but there are also ships between France and Algeria and from Italy to Tunis, Lybia and Egypt.
+Bulgaria is well connected by road to its neighbors. Main border crossings: Kalotina (Serbia), Kulata (Greece), Kapitan Andreevo (Turkey), and Vidin/Calafat via the Danube bridge to Romania. Roads are generally in decent condition on the main corridors; mountain routes and secondary roads can be rough. An e-vignette is required to drive on Bulgarian roads — buy it online at bgtoll.bg before you travel.
+
+**Entry**
+
+Bulgaria is a full Schengen member as of January 2025. EU/EEA citizens need only a valid ID card. Most other nationalities — US, UK, Canada, Australia — can enter without a visa for up to 90 days in any 180-day period under Schengen rules. Check current requirements for your nationality before travel.

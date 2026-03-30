@@ -3,110 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Lonely Planet Malawi, Mozambique and Zambia**
+**Zambia Safari Guide** by Chris and Susie McIntyre (Bradt). The definitive guide to Zambia's national parks and safari areas, now in its sixth edition. McIntyre has been writing about Zambia for decades and knows the country intimately. Essential reading if you are planning a safari, with detailed coverage of lodges, wildlife, and logistics.
 
+**North of South: An African Journey** by Shiva Naipaul. A sharp, funny, and sometimes uncomfortable travelogue through East and Southern Africa in the 1970s, including Zambia. Naipaul's observations about post-independence society are perceptive and unsparing. Not always comfortable reading, but excellent writing.
 
+**The Rise of Nationalism in Central Africa** by Robert Rotberg. The academic history of how Zambia (and Malawi) moved from colonial rule to independence. Dense but rewarding if you want to understand the political forces that shaped modern Zambia, from the Federation years through Kenneth Kaunda's rise.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424620/ref=ase_osingacom?v=glance&s=books)
+**Don't Let's Go to the Dogs Tonight** by Alexandra Fuller. A memoir of growing up white in Rhodesia, Malawi, and Zambia during the turbulent 1970s and 1980s. Fuller captures the landscape, the absurdity, and the beauty of southern African life with unflinching honesty. One of the best books about the region.
 
-author: David Else
-
-isbn: 0864424620
-
-subject: travel
-
-**North of South:An African Journey**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0140188266/ref=ase_osingacom?v=glance&s=books)
-
-author: Shiva Naipaul
-
-isbn: 0140188266
-
-subject: travel
-
-**Guide to Zambia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0762700165/ref=ase_osingacom?v=glance&s=books)
-
-author: Chris McIntyre
-
-isbn: 0762700165
-
-subject: travel
-
-**For Prayer and Profit:The Ritual, Economic and Social Importance of Beer in Gwembe District, Zambia, 1950-1982**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0804714444/ref=ase_osingacom?v=glance&s=books)
-
-author: Elizabeth Colson,Thayer Scudder
-
-isbn: 0804714444
-
-subject: culture
-
-**Hymns:A Comparison of the Four Last Things in Some English and Zambian Hymns in Intercultural Perspective**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/3631432682/ref=ase_osingacom?v=glance&s=books)
-
-author: Brian C. Castle,Walter J. Hollenweger (Editor..
-
-isbn: 3631432682
-
-subject: culture
-
-**Theatre and Social Change in Zambia:The Chikwakwa Theatre**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0773489592/ref=ase_osingacom?v=glance&s=books)
-
-author: Patrick E. Idoye
-
-isbn: 0773489592
-
-subject: culture
-
-**Guide to Zambia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0762700165/ref=ase_osingacom?v=glance&s=books)
-
-author: Chris McIntyre
-
-isbn: 0762700165
-
-subject: history
-
-**Handy Guide to Victoria Falls**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1868258912/ref=ase_osingacom?v=glance&s=books)
-
-author: BHB International,Robert T. Teske
-
-isbn: 1868258912
-
-subject: history
-
-**The Rise of Nationalism in Central Africa:The Making of Malawi and Zambia, 1873-1964**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0674771915/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert I. Rotberg,Rotberg Robert I E
-
-isbn: 0674771915
-
-subject: history
+**For Prayer and Profit** by Elizabeth Colson and Thayer Scudder. A fascinating ethnographic study of the role of beer in Tonga society in Zambia's Gwembe Valley. Academic in approach but readable, and a window into rural Zambian life that most visitors never see.

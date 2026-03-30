@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 9 460 736 (July 1998 est.)
+Zambia is home to over 20 million people and more than 72 ethnic groups, yet it is one of the most peaceful and unified countries in Africa. Unlike many of its neighbors, Zambia has largely avoided ethnic conflict since independence. First president Kenneth Kaunda's motto -- "One Zambia, One Nation" -- genuinely took root, and you will find Zambians identify with their country as much as with their tribe.
 
-**Age structure:**
+The largest ethnic groups are the Bemba in the north and the Tonga in the south, but you will also encounter Lozi in the west (with their own king, the Litunga, and the spectacular Kuomboka ceremony), Ngoni in the east, and Lunda and Luvale in the northwest. Each group has distinct traditions, but intermarriage and urbanization have blurred many boundaries. In cities like Lusaka, people from every corner of the country mix easily.
 
-*0-14 years:* 49% (male 2 342 043; female 2 316 357)
+English is the official language and widely spoken in cities and tourist areas. The seven recognized local languages are Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda, and Luvale, with Bemba and Nyanja the most commonly heard in Lusaka. Attempting even a few words of greeting in the local language will earn you broad smiles. In Nyanja, try "Muli bwanji?" (How are you?) with the response "Ndili bwino" (I am fine). In Bemba, the greeting is "Muli shani?" with "Ndifye bwino" as the reply. "Zikomo" (Nyanja) and "Natotela" (Bemba) both mean thank you.
 
-*15-64 years:* 48% (male 2 244 251; female 2 326 159)
-
-*65 years and over:* 3% (male 106 950; female 124 976) (July 1998 est.)
-
-**Population growth rate:** 2.13% (1998 est.)
-
-**Birth rate:** 44.6 births/1 000 population (1998 est.)
-
-**Death rate:** 22.55 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.8 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.01 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.85 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 92.57 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 37.07 years
-
-*male:* 36.81 years
-
-*female:* 37.33 years (1998 est.)
-
-**Total fertility rate:** 6.41 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Zambian(s)
-
-*adjective:* Zambian
-
-**Ethnic groups:** African 98.7% European 1.1% other 0.2%
-
-**Religions:** Christian 50%-75% Muslim and Hindu 24%-49% indigenous beliefs 1%
-
-**Languages:** English (official) major vernacularsBemba Kaonda Lozi Lunda Luvale Nyanja Tonga and about 70 other indigenous languages
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write in English
-
-*total population:* 78.2%
-
-*male:* 85.6%
-
-*female:* 71.3% (1995 est.)
+Zambia is overwhelmingly Christian, with churches of every denomination on practically every street corner. Traditional beliefs remain important too, woven into daily life in ways that coexist comfortably with Christianity. Zambians are generous, hospitable, and genuinely curious about visitors. Do not be surprised if strangers invite you to share a meal or walk you to your destination when you ask for directions.

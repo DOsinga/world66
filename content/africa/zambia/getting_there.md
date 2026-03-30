@@ -3,16 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air.** Most international flights arrive at Kenneth Kaunda International Airport (LUN) in [Lusaka](/africa/zambia/lusaka). The airport has improved significantly in recent years with a new terminal. Ethiopian Airlines, Emirates, Qatar Airways, and Kenya Airways all serve Lusaka with connections through their respective hubs. South African Airlink flies from Johannesburg. From Europe, Ethiopian Airlines via Addis Ababa is often the best value. Harry Mwanga Nkumbula International Airport in [Livingstone](/africa/zambia/livingstone) receives some international flights, mostly from Johannesburg and Nairobi, and is the gateway to Victoria Falls.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+**By land.** Zambia shares borders with eight countries, and overland crossings are generally straightforward. The busiest crossing is between [Livingstone](/africa/zambia/livingstone) and Victoria Falls, Zimbabwe -- you can walk across the bridge in minutes. The KAZA UniVisa covers both Zambia and Zimbabwe plus a day trip to Botswana via Kazungula, which is convenient if you are visiting the Falls area. The Kazungula Bridge, opened in 2021, connects Zambia directly to Botswana across the Zambezi. From Tanzania, buses and the TAZARA railway run between Dar es Salaam and Kapiri Mposhi. Crossings into Malawi (at Chipata/Mchinji), Mozambique, Namibia (at Katima Mulilo/Sesheke), and the DRC are all possible, though some are remote and slow.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
-
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
-
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
-
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+**Visas.** As of 2025, citizens of 167 countries can enter Zambia visa-free for up to 30 days. This includes most European, North American, and many Asian nationalities. For those who do need a visa, single-entry costs $25 and is available on arrival at major airports and border posts. Your passport must be valid for at least six months with three blank pages. Check the Zambia Department of Immigration website for the latest requirements.

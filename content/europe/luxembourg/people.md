@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 425 017 (July 1998 est.)
+Luxembourg has a population of around 680,000 — remarkably small for a sovereign state. What makes it unusual is the proportion of foreigners: nearly half the resident population holds non-Luxembourgish citizenship. The largest groups are Portuguese, French, Italian, Belgian, and German. In Luxembourg City itself, Luxembourgers are actually a minority.
 
-**Age structure:**
+This diversity is partly a legacy of the steel industry, which drew labour from southern Europe in the 1960s and 70s, and partly a result of the booming financial sector, which continues to attract workers from across the EU. The country also hosts a large number of cross-border workers — *frontaliers* — who commute daily from France, Germany, and Belgium, adding another 200,000 or so people to the daily population.
 
-*0-14 years:* 18% (male 39 565; female 37 824)
+Despite this cosmopolitan mix, there is a strong sense of Luxembourgish identity. The national motto — *Mir wëlle bleiwe wat mir sin* ("We want to remain what we are") — dates to the 19th century and still resonates. Luxembourgish became an official language in 1984 and is taught in schools; it functions as the everyday glue that holds this diverse society together.
 
-*15-64 years:* 67% (male 145 060; female 139 628)
+Luxembourgers tend to be reserved on first meeting but warm once a connection is made. The country is prosperous — it has one of the highest GDPs per capita in the world — and this shows in a comfortable, well-ordered quality of life. The expat and international community is large enough that English is widely understood and used, particularly in the capital.
 
-*65 years and over:* 15% (male 25 449; female 37 491) (July 1998 est.)
+**Religion**
 
-**Population growth rate:** 1.02% (1998 est.)
-
-**Birth rate:** 11.12 births/1 000 population (1998 est.)
-
-**Death rate:** 9.29 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 8.4 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.04 male(s)/female
-
-*65 years and over:* 0.68 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 5.04 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 77.49 years
-
-*male:* 74.41 years
-
-*female:* 80.68 years (1998 est.)
-
-**Total fertility rate:** 1.63 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Luxembourger(s)
-
-*adjective:* Luxembourg
-
-**Ethnic groups:** Celtic base (with French and German blend) Portuguese Italian and European (guest and worker residents)
-
-**Religions:** Roman Catholic 97% Protestant and Jewish 3%
-
-**Languages:** Luxembourgian German French English
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 100%
-
-*male:* 100%
-
-*female:* 100% (1980 est.)
+Historically strongly Roman Catholic, though regular attendance has declined steadily. The Catholic Church retains a visible cultural presence — village churches, religious festivals — but Luxembourg is functionally a secular society.

@@ -3,18 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-Air:
+Air New Zealand is the only airline serving Niue. Flights operate from Auckland, with a journey time of just over three hours. There are two flights per week in the peak season (roughly April to October) and one per week in the off-season — always check the current schedule before planning your trip, as it changes seasonally.
 
-*Royal Tongan Airlines (WR)* provides flights to Niue from Tonga with connections from Auckland New Zealand and from Sydney Australia via Auckland.
+Niue International Airport (IUE), also known as Hanan Airport, is just a few kilometres north of Alofi. Most accommodation providers offer airport pickups; arrange this in advance as there are no taxis waiting.
 
-International airport:
+All visitors entering Niue must have a confirmed return or onward ticket — you cannot buy a one-way flight to Niue. Your passport must be valid for at least three months beyond your arrival date. Most nationalities are granted a visitor permit on arrival for stays up to 30 days, provided you have a return ticket, confirmed accommodation, and sufficient funds.
 
-*Niue International (IUE)* (Hanan) is 7km (4 miles) north of Alofi. Tour buses are available from the airport to all tourist destinations. There are some shops at the airport open for scheduled flights.
+If you are coming from outside New Zealand, your journey will route through Auckland. Make sure you meet New Zealand's entry requirements as well.
 
-Departure tax:
-
-NZ$20. Children under 5 years are exempt.
-
-Sea:
-
-It is possible to visit Niue by yacht; weekday arrivals are preferred. Moorings and buoys are available.
+By sea, Niue has a small harbour at Alofi. Private yachts are welcome; contact the port authority in advance. There is no regular passenger ferry service.

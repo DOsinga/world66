@@ -3,88 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Bone People** by Keri Hulme — Booker Prize-winning novel set on the South Island's West Coast. Dense, at times difficult, but one of the most singular works New Zealand has produced. It deals with Maori identity, isolation, and violence without flinching.
 
-**Xena X-Posed:The Unauthorized Biography of Lucy Lawless and Her on-Screen Character**
+**The Luminaries** by Eleanor Catton — Another Booker winner, set during the 1860s Otago gold rush. A formally ambitious, highly structured novel that also works as a gripping period mystery.
 
+**Once Were Warriors** by Alan Duff — Confronting novel about urban Maori life in Auckland. The 1994 film brought it international attention. Important reading for understanding the social fractures the country is still working through.
 
+**Making Peoples / Paradise Reforged** by James Belich — Two-volume social history of New Zealand. The most readable and comprehensive account of how the country came to be what it is. Start here for context.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0761512659/ref=ase_osingacom?v=glance&s=books)
+**The New Zealand Wars** by James Belich — Authoritative history of the 19th century land wars between Maori and the Crown. Belich was among the first historians to take Maori military strategy seriously.
 
-author: Nadine Crenshaw
+**The Piano** — Jane Campion's screenplay published in book form. The 1993 film is worth watching before or after visiting the rugged Taranaki coast where it was filmed.
 
-isbn: 0761512659
+**Wild New Zealand** by Les Molloy and Gerald Cubitt — A dated but still evocative natural history, covering the unique flora, fauna, and landscapes of a country that evolved in near-total isolation.
 
-subject: culture
-
-**The Piano**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0786880961/ref=ase_osingacom?v=glance&s=books)
-
-author: Jane Campion,With Kate Pullinger
-
-isbn: 0786880961
-
-subject: culture
-
-**Wine Companion, Australia and New Zealand Wine 1999**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0732258529/ref=ase_osingacom?v=glance&s=books)
-
-author: James Halliday
-
-isbn: 0732258529
-
-subject: culture
-
-**Wild New Zealand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0262133040/ref=ase_osingacom?v=glance&s=books)
-
-author: Les Molloy,Gerald Cubitt
-
-isbn: 0262133040
-
-subject: history
-
-**Lonely Planet New Zealand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425651/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Turner,Jeff Williams
-
-isbn: 0864425651
-
-subject: travel
-
-**Insight New Zealand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887294812/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Publications
-
-isbn: 0887294812
-
-subject: travel
-
-**Fodor's New Zealand '99:The Complete Guide to the Country Roads, Charming Cities, Alps, and Fjordlands**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679036121/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications
-
-isbn: 0679036121
-
-subject: travel
+For tramping and outdoors, the **DOC (Department of Conservation) website** (doc.govt.nz) is more useful than any printed guide for current track conditions, hut bookings, and permit requirements.

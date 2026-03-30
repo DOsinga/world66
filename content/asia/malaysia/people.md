@@ -3,64 +3,16 @@ title: "People"
 type: section
 ---
 
-**Population:** 20 932 901 (July 1998 est.)
+Malaysia's population of around 34 million is one of Southeast Asia's most diverse. The country's identity is built on the interaction -- sometimes harmonious, sometimes tense -- between its major ethnic groups.
 
-**Age structure:**
+**Malays** make up about 57% of the population and are defined by the constitution as Muslim. They predominate in government, the civil service and rural areas. Malay culture -- with its emphasis on courtesy, community and Islam -- sets the public tone of the country, particularly on the east coast of the Peninsula and in the smaller towns.
 
-*0-14 years:* 36% (male 3 832 040; female 3 635 136)
+**Chinese Malaysians** account for roughly 23% and are concentrated in the cities, particularly [Kuala Lumpur](/asia/malaysia/kualalumpur), [Penang](/asia/malaysia/penang), [Ipoh](/asia/malaysia/ipoh) and [Melaka](/asia/malaysia/melaka). They dominate much of the private sector and business. Chinese Malaysians speak a mix of Mandarin, Hokkien, Cantonese and Hakka depending on region and family background.
 
-*15-64 years:* 60% (male 6 314 693; female 6 324 389)
+**Indian Malaysians**, mostly Tamil, make up about 7% of the population. Many are descendants of workers brought by the British to work rubber plantations. The Indian influence is most visible in food -- mamak restaurants serving roti canai, teh tarik and banana leaf rice are everywhere -- and in the spectacular Hindu temples at sites like Batu Caves.
 
-*65 years and over:* 4% (male 359 006; female 467 637) (July 1998 est.)
+**Indigenous peoples** (Orang Asli on the Peninsula, and the many ethnic groups of Sabah and Sarawak including the Iban, Kadazan-Dusun, Bidayuh and Orang Ulu) make up the remaining share. In Borneo especially, indigenous cultures remain strong, with longhouse communities, traditional festivals and distinct languages still very much alive.
 
-**Population growth rate:** 2.11% (1998 est.)
+The relationship between these groups is Malaysia's central social reality. The government's bumiputera (sons of the soil) policies give Malays and indigenous peoples preferential access to education, housing and business opportunities -- a source of ongoing debate. Despite the tensions, daily life in Malaysia is remarkably integrated: people of all backgrounds eat together, work together and share neighborhoods, even if they tend to socialize within their own communities.
 
-**Birth rate:** 26.5 births/1 000 population (1998 est.)
-
-**Death rate:** 5.36 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.77 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 22.45 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 70.36 years
-
-*male:* 67.35 years
-
-*female:* 73.56 years (1998 est.)
-
-**Total fertility rate:** 3.37 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Malaysian(s)
-
-*adjective:* Malaysian
-
-**Ethnic groups:** Malay and other indigenous 58% Chinese 26% Indian 7% others 9%
-
-**Religions:** Peninsular MalaysiaMuslim (Malays) Buddhist (Chinese) Hindu (Indians); SabahMuslim 38% Christian 17% other 45%; Sarawaktribal religion 35% Buddhist and Confucianist 24% Muslim 20% Christian 16% other 5%
-
-**Languages:** Peninsular MalaysiaMalay (official) English Chinese dialects Tamil; SabahEnglish Malay numerous tribal dialects Chinese (Mandarin and Hakka dialects predominate); SarawakEnglish Malay Mandarin numerous tribal languages
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 83.5%
-
-*male:* 89.1%
-
-*female:* 78.1% (1995 est.)
+Malaysians are generally warm, hospitable and curious about visitors. English is widely spoken, making conversation easy. The culture values politeness -- people tend to be indirect and avoid confrontation, and a smile goes a long way.

@@ -1,87 +1,42 @@
 ---
-title: "Festivals in France"
+title: "Festivals"
 type: section
-address: "Espace Georges Bauquier, 30500 Les Mages"
-date: "dec 17th, 2010"
-email: "claudette.thomas (at) lesmagesfestival.com"
-url: "www.lesmagesfestival.com"
 ---
 
-As a traditionally Catholic country, France celebrates many holidays
-and festivities that are rooted in religious tradition; others reflect
-an agricultural past, great moments in French history and sports, or
-regional pride.
+France has a rich calendar of festivals, markets, and public events drawing on Catholic tradition, agricultural heritage, regional pride, and world-class arts programming.
 
-**Summer in France**
+**Bastille Day (July 14)**
 
-Bastille Day, or Quatorze Juillet (July 14), celebrates the
-storming of the Bastille prison in Paris in 1789, which precipitated
-other events leading to the French Revolution and the eventual fall of
-the French monarchy. It is commemorated with family activities, street
-fairs, fireworks and general revelry.
+The national holiday celebrates the storming of the Bastille in 1789. Every town and village in France marks the date in some way — fireworks, street dances, and communal meals. The military parade down the Champs-Elysées in Paris is the grandest version, but the local celebrations in smaller towns are often more fun.
 
-The Tour de France bicycle race is one the most famous
-sporting events in the world. The rigorous 3-week race begins in late
-June or early July, ending with the final sprint down the Champs-Elysées
-in late July.
+**Fête de la Musique (June 21)**
 
-Music and theatre festivals abound throughout France during the
-summer months. Among the most famous: Fête de la Musique held all over
-France on the first day of summer in June, Avignon Theatre Festival
-(Provence) and the International Jazz Festival in Antibes and
-Juan-les-Pins (Riviera) in July and the Interceltic Festival (music
-and arts) in Lorient (Brittany) in August.
+On the summer solstice, free music takes over the streets of every city and town in France. Amateur bands, orchestras, jazz groups, and DJs play in squares, courtyards, and parks from afternoon into the early hours. It's one of the better ideas France has exported to the world.
 
-**Autumn in France**
+**Tour de France (late June–late July)**
 
-Wine and harvest festivals can be found in villages and small towns
-all over the country in September, October and November. The world
-famous wine auction at the Hospice de Beaune in Burgundy is held in
-November.
+The world's most famous cycling race covers roughly 3,500 km over three weeks, finishing on the Champs-Elysées. Watching a stage from the roadside is free and one of the great sporting spectacles — find a mountain stage for the most dramatic viewing.
 
-The Gypsy pilgrimage to Saints-Maries-de-la-Mer (Provence) is in October.
+**Cannes Film Festival (May)**
 
-Toussaint (All Saints Day) on November 1 is a family affair,
-remembering those who have passed on. It is a national holiday, as is
-November 11, the day that World War I ended.
+The red carpet on the Croisette draws the global film industry every May. Most events are industry-only, but the atmosphere in town is unmistakable and some screenings are open to the public.
 
-**Winter in France **
+**Avignon Theatre Festival (July)**
 
-Christmas markets in Alsace and Provence attract visitors looking for traditional crafts and age-old rituals.
+The largest performing arts festival in the world fills the city of Avignon with theatre, dance, and street performance throughout July. The official festival features curated work; the off-festival is open to anyone with a show and runs concurrently.
 
-Carnaval is the 2-week period leading up to the Catholic season of fasting and self-denial, called Lent. Nice
-hosts the biggest carnival in France, attracting more than 1 million revelers
-each February with parades and the famous Battle of the Flowers.
+**Interceltic Festival, Lorient (August)**
 
-**Spring in France**
+Brittany's biggest cultural event brings together Celtic musicians from Brittany, Ireland, Scotland, Wales, Galicia, and beyond for ten days of concerts, parades, and traditional music. One of Europe's finest folk music gatherings.
 
-Easter and the Holy Week that precedes it is an important holiday
-period in France and despite the fact that children of many religions
-now attend French public schools, spring breaks are organized around
-Easter.
+**Wine Harvest Festivals (September–November)**
 
-The Cannes Film Festival is the place to be seen in mid-May, when
-movie people of all types and nationalities show up on the red carpet
-along the Mediterranean.
+Villages across Burgundy, Champagne, Alsace, and Bordeaux celebrate the vendange (grape harvest) with festivals, tastings, and markets. The wine auction at the Hospice de Beaune in November is the most famous — its prices set benchmarks for Burgundy wines globally.
 
-Traditional transhumance festivals take place in rural villages at
-the end of May, when the flocks are moved to summer pastures at higher
-elevations.
+**Christmas Markets (December)**
 
-### [Travel film festival in les Mages, Gard, France](/europe/france/festivals/travel_film_festiv)
+Alsace, particularly Strasbourg and Colmar, has the oldest and most authentic Christmas markets in France, dating back to the 16th century. Provence also has good markets with a more Mediterranean character. Strasbourg's market opens in late November and runs until Christmas Eve.
 
-**Travel film festival in les Mages, Gard, France**
+**Nice Carnival (February)**
 
-A two day film festival to discover foreign exotic countries, hiking path or just people
-
-
-
-[[rate it]](/europe/france/festivals/travel_film_festiv)
-
-url: [www.lesmagesfestival.com](http://www.lesmagesfestival.com/)
-
-date: dec 17th, 2010
-
-address: Espace Georges Bauquier, 30500 Les Mages
-
-email: claudette.thomas (at) lesmagesfestival.com
+The biggest carnival in France runs for two weeks before Lent, with the famous Battle of the Flowers, giant papier-mâché floats, and fireworks over the Promenade des Anglais.

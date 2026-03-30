@@ -13,4 +13,4 @@ In the middle ages Tetovo was an important trade center for the local farmers an
 
 The great plant growth conditions of the Polog valley have been well used for the development of agriculture. The well-known ski resort Popova Shapka (Kodra e Diellit in albanian) lies above Tetovo in the Shara Mountain. An 18 km long asphalt road is takes you from Tetovo to Popova Shapka skiing center. While in winter Tetovo is a popular destination for the skiing fanatics, in the summer Tetovo is the beloved resort for paragliders.
 
-Some of the mosques in the town are date
+The Šarena Džamija (Painted Mosque), built in 1438 on the bank of the Pena river, is Tetovo's most striking landmark — its exterior walls are covered in intricate floral frescoes, unusual for an Ottoman mosque. The Bektashi tekke on the hillside above town is another notable religious site, belonging to a Sufi order with deep roots in the western Balkans.

@@ -3,58 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 2 009 387 (July 1998 est.)
+North Macedonia has a population of around 1.8 million. Ethnic Macedonians make up roughly two-thirds of the population; ethnic Albanians account for about a quarter, concentrated mainly in the west and northwest — in cities like [Tetovo](/europe/macedonia/tetovo) and Gostivar. Smaller communities include Turks, Roma, Serbs, and Vlachs.
 
-*note:* the Macedonian government census of July 1994 put the population at 1.94 million but ethnic allocations were likely undercounted
+The country is predominantly Orthodox Christian, with a sizeable Muslim minority (mostly ethnic Albanians and Turks). Religion is generally practised with a relaxed attitude, and the two communities coexist peacefully in most daily life, though the 2001 armed conflict left some fault lines.
 
-**Age structure:**
+Macedonians are famously hospitable. Guests are taken seriously here — coffee visits become long conversations, and being invited into someone's home means eating well. The culture values family and community above almost everything else.
 
-*0-14 years:* 24% (male 244 636; female 230 103)
+The Roma community, though often marginalised economically, contributes significantly to Macedonian musical culture. The brass and clarinet music you'll hear at festivals and weddings draws heavily on Roma traditions.
 
-*15-64 years:* 67% (male 675 783; female 669 878)
-
-*65 years and over:* 9% (male 85 030; female 103 957) (July 1998 est.)
-
-**Population growth rate:** 0.68% (1998 est.)
-
-**Birth rate:** 15.71 births/1 000 population (1998 est.)
-
-**Death rate:** 8.08 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.88 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.08 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.81 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 19.49 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 72.77 years
-
-*male:* 70.67 years
-
-*female:* 75.03 years (1998 est.)
-
-**Total fertility rate:** 2.06 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Macedonian(s)
-
-*adjective:* Macedonian
-
-**Ethnic groups:** Macedonian 65% Albanian 22% Turkish 4% Serb 2% Gypsies 3% other 4%
-
-**Religions:** Eastern Orthodox 67% Muslim 30% other 3%
-
-**Languages:** Macedonian 70% Albanian 21% Turkish 3% Serbo-Croatian 3% other 3%
-
-**Literacy:** NA
+Emigration has been significant — large Macedonian diaspora communities exist in Australia, Germany, Switzerland, and Sweden — so you'll occasionally meet locals who switch mid-conversation into surprisingly fluent Australian-accented English.

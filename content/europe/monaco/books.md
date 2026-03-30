@@ -3,100 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Monaco's outsized cultural footprint — royalty, glamour, crime, and political intrigue — has inspired a steady stream of books. Here are some worth reading before or after a visit.
 
-**Monte Carlo:A Living Legend**
+**The Royal House of Monaco** by John Glatt covers the Grimaldi dynasty from its medieval origins through the late 20th century, focusing on the scandals, marriages, and succession crises that have defined the family. Readable popular history.
 
+**The Grimaldis of Monaco** by Anne Edwards is a thorough biography of the ruling family, with substantial focus on Grace Kelly's transformation from Hollywood star to princess.
 
+**Grace** by Robert Lacey is one of the more thoughtful biographies of Grace Kelly — less fixated on glamour than most, more interested in the complicated reality of her life in Monaco.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0865659532/ref=ase_osingacom?v=glance&s=books)
-
-author: Frederic Mitterrand,Societe Des Bains De Mer ..
-
-isbn: 0865659532
-
-subject: history
-
-**The Grimaldis of Monaco**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0708987494/ref=ase_osingacom?v=glance&s=books)
-
-author: Anne Edwards
-
-isbn: 0708987494
-
-subject: history
-
-**Inside Monaco**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0911445080/ref=ase_osingacom?v=glance&s=books)
-
-author: Siri Campbell
-
-isbn: 0911445080
-
-subject: travel
-
-**The Magic Principality :A Pocket Guide to Monaco-Monte Carlo**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0910155305/ref=ase_osingacom?v=glance&s=books)
-
-author: Eringer Travel Guide
-
-isbn: 0910155305
-
-subject: travel
-
-**Monaco :Plan Guide**
-
-rue ténao
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/2741600252/ref=ase_osingacom?v=glance&s=books)
-
-author: Michelin Travel Publications (Editor)
-
-isbn: 2741600252
-
-subject: travel
-
-**Grace Kelly:A Life in Pictures**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1567996469/ref=ase_osingacom?v=glance&s=books)
-
-author: Jenny Curtis,Francine Hornberger (Editor),Sar..
-
-isbn: 1567996469
-
-subject: culture
-
-**Grace**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0766903311/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Lacey
-
-isbn: 0766903311
-
-subject: culture
-
-**The Royal House of Monaco:Dynasty of Glamour, Tragedy and Scandal**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312193262/ref=ase_osingacom?v=glance&s=books)
-
-author: John Glatt
-
-isbn: 0312193262
-
-subject: history
+**Monte Carlo: A Living Legend** by Frédéric Mitterrand traces the history of the casino quarter and the Société des Bains de Mer, the company that has controlled Monte Carlo's grand hotels and gaming since the 19th century.

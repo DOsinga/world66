@@ -141,3 +141,4 @@ The `type` field in frontmatter is the source of truth. Directory filtering in t
 - Don't modify `guide/models.py` to add hardcoded section lists — use the `type` field
 - Don't create a database or migrations — the filesystem is the data store
 - Don't change the URL structure — it matches the original World66 paths
+- Don't use compound-engineering skills (prefixed `compound-engineering:` or `ce:`) unless the user explicitly invokes them with that prefix. In particular, `/todo` refers to this project's own `todo` skill, NOT `compound-engineering:resolve-todo-parallel`

@@ -5,5 +5,4 @@ uvicorn[standard]
 geopy
 httpx
 Pillow
-google-genai
 python-dotenv

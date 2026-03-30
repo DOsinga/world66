@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 5 291 020 (July 1998 est.)
+Paraguay has a population of around 7.5 million. The vast majority — roughly 95% — are mestizo, descended from the blending of Spanish colonists and the indigenous Guaraní people that began in the 16th century. Pure indigenous communities account for a small but culturally significant portion of the population.
 
-**Age structure:**
+What makes Paraguay genuinely unusual among South American nations is its bilingualism. Spanish and Guaraní are both official languages, and around 80% of Paraguayans speak both fluently. More than a third of the population uses Guaraní as their primary language at home. Guaraní is not merely a survival relic — it's a living part of everyday life across town and countryside, spoken by mestizo and elite alike. Street names, food, music, and casual conversation are saturated with it. Children are educated in both languages from elementary school. This makes Paraguay one of the only countries in the Americas where a pre-Columbian language has genuinely thrived in a national context.
 
-*0-14 years:* 39% (male 1 061 972; female 1 026 983)
+The Catholic Church remains central to social life; around 90% of the population is at least nominally Catholic, though Evangelical Protestant communities have grown significantly in recent decades. Mennonite colonies in the [Gran Chaco](/southamerica/paraguay/granchaco) — descendants of German-speaking settlers who arrived in the 1920s and 1930s — maintain a distinct culture and language of their own and have been instrumental in developing agriculture in that harsh region.
 
-*15-64 years:* 56% (male 1 483 089; female 1 473 372)
-
-*65 years and over:* 5% (male 113 298; female 132 306) (July 1998 est.)
-
-**Population growth rate:** 2.68% (1998 est.)
-
-**Birth rate:** 32.21 births/1 000 population (1998 est.)
-
-**Death rate:** 5.29 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.1 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 1.01 male(s)/female
-
-*65 years and over:* 0.86 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 37.39 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 72.23 years
-
-*male:* 70.27 years
-
-*female:* 74.29 years (1998 est.)
-
-**Total fertility rate:** 4.26 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Paraguayan(s)
-
-*adjective:* Paraguayan
-
-**Ethnic groups:** mestizo (mixed Spanish and Amerindian) 95% white plus Amerindian 5%
-
-**Religions:** Roman Catholic 90% Mennonite and other Protestant denominations
-
-**Languages:** Spanish (official) Guarani
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 92.1%
-
-*male:* 93.5%
-
-*female:* 90.6% (1995 est.)
+The country is predominantly young, and the interior provinces are notably poor and rural. Migration from the countryside to [Asuncion](/southamerica/paraguay/asuncion) and the border city of [Ciudad del Este](/southamerica/paraguay/ciudaddeleste) has accelerated in recent decades. Despite persistent inequality, Paraguayans are generally considered warm and welcoming towards visitors — a quality that stands out in a country that sees relatively few tourists.

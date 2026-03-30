@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 416 439 (July 1998 est.)
+Guadeloupe's population is around 400,000. The majority are Creole — people of mixed African, European, and sometimes East Indian descent, born of the island's history as a French sugar colony. There are also smaller communities of metropolitan French (Békés), South Asians descended from indentured laborers brought after the abolition of slavery, Lebanese, Chinese, and more recent migrants from other Caribbean islands. The population has been declining slowly as younger Guadeloupeans leave for metropolitan France.
 
-**Age structure:**
+The Arawak and Carib peoples were the original inhabitants; by the time French colonists arrived in the 17th century, European diseases and violence had decimated the indigenous population. The French established sugar plantations that relied on enslaved Africans, and by the 18th century Guadeloupe was one of the most productive sugar colonies in the Caribbean. Slavery was abolished in 1848, largely through the efforts of Victor Schœlcher, a French abolitionist whose name appears on streets and schools across the island.
 
-*0-14 years:* 25% (male 53 239; female 51 148)
+Today Guadeloupe is legally part of France, sending elected representatives to the Assemblée Nationale and the Sénat in Paris. But Guadeloupean identity is distinct from French identity — the Creole language, cuisine, music, and cultural traditions reflect something that is Caribbean first and French second. There have been independence movements, particularly active in the 1970s, but polls generally show most Guadeloupeans prefer to maintain their status as a French region.
 
-*15-64 years:* 66% (male 136 439; female 139 555)
+French is the official language and the language of education and government. But in daily life — in markets, among friends, at home — people speak Guadeloupean Creole, a rich language born from the encounter of French, African languages, and Amerindian words. Visitors who speak French will manage fine; those who don't will find English spoken in tourist areas but less so elsewhere.
 
-*65 years and over:* 9% (male 15 243; female 20 815) (July 1998 est.)
-
-**Population growth rate:** 1.1% (1998 est.)
-
-**Birth rate:** 16.73 births/1 000 population (1998 est.)
-
-**Death rate:** 5.61 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.16 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth :* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.98 male(s)/female
-
-*65 years and over:* 0.73 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 8.79 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 77.8 years
-
-*male:* 74.78 years
-
-*female:* 80.97 years (1998 est.)
-
-**Total fertility rate:** 1.84 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Guadeloupian(s)
-
-*adjective:* Guadeloupe
-
-**Ethnic groups:** black or mulatto 90% white 5% East Indian Lebanese Chinese less than 5%
-
-**Religions:** Roman Catholic 95% Hindu and pagan African 4% Protestant sects 1%
-
-**Languages:** French (official) 99% Creole patois
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 90%
-
-*male:* 90%
-
-*female:* 90% (1982 est.)
+Music is central to Guadeloupean life. Gwoka, a traditional percussive music and dance born during the slavery era, was recognized by UNESCO as intangible cultural heritage in 2014. Zouk, a more modern genre that fused Caribbean rhythms with electronic production, emerged from Guadeloupe and Martinique in the 1980s and spread across the French-speaking world. On any given weekend, you'll hear both.

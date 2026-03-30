@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 270 311 756 (July 1998 est.)
+The United States has a population of around 335 million, making it the third most populous country in the world. It is one of the most ethnically diverse nations on earth — the product of centuries of immigration from Europe, Africa, Asia, and Latin America, layered on top of indigenous populations that predate European settlement.
 
-**Age structure:**
+There is no single "American type." Attitudes, customs, and social norms vary enormously between regions. The South has its own traditions of hospitality and religious observance. The Northeast is more secular and formal. The West Coast leans casual and progressive. The Midwest tends toward directness and practical friendliness. Visitors often find Americans warmer and more approachable than they expect.
 
-*0-14 years:* 22% (male 29 952 220; female 28 560 357)
+English is the de facto national language, though the country has no official language at the federal level. Spanish is the second most spoken language, with around 42 million native speakers, concentrated in the Southwest, Florida, and urban centres nationwide. In many cities — Los Angeles, Miami, New York, Chicago — dozens of languages are spoken daily.
 
-*15-64 years:* 66% (male 88 113 895; female 89 399 501)
+About 63% of Americans identify as Christian, though religious observance varies widely. Evangelical Christianity is a significant cultural force in the South and parts of the Midwest. About 28% of Americans identify as non-religious. Cities are generally more secular than rural areas.
 
-*65 years and over:* 12% (male 14 088 571; female 20 197 212) (July 1998 est.)
-
-**Population growth rate:** 0.87% (1998 est.)
-
-**Birth rate:** 14.4 births/1 000 population (1998 est.)
-
-**Death rate:** 8.8 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 3 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.7 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.44 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.13 years
-
-*male:* 72.85 years
-
-*female:* 79.58 years (1998 est.)
-
-**Total fertility rate:** 2.07 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* American(s)
-
-*adjective:* American
-
-**Ethnic groups:** white 83.4% black 12.4% Asian 3.3% Amerindian 0.8% (1992)
-
-**Religions:** Protestant 56% Roman Catholic 28% Jewish 2% other 4% none 10% (1989)
-
-**Languages:** English Spanish (spoken by a sizable minority)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 97%
-
-*male:* 97%
-
-*female:* 97% (1979 est.)
+The United States is a country of profound regional and economic inequality. Visitors moving between cities will encounter very different realities — prosperous urban centres, struggling post-industrial towns, wealthy suburbs, and deep rural poverty. This is part of understanding the country honestly.

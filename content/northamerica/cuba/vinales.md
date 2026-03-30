@@ -12,5 +12,3 @@ The valley is stunning. The flat land, full of tobacco and palmtrees is scatered
 [Cappadocia](/asia/turkey/cappadocia), (Turkey) but here's the mogotes are completely covered with green vegetation.
 
 Like everywhere in Cuba, the people in Vinales are very friendely. The village, with it's colonial main street has a nice and friendly atmosphere.
-
-Minor corrections by [hpharmsen](/world/member/hpharmsen) on 26 December 04

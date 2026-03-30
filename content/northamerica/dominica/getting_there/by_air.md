@@ -1,28 +1,10 @@
 ---
-title: "Caribbean Star Airlines and Leeward Islands Aviation"
+title: "By Air"
 type: poi
 ---
 
-There are two airports, one at Melville in the NE and one at Canefield near Roseau. Intercontinental aricrafts cannot land on any of these. It is therefore necessary to fly through neighbouring islands. Caribbean Star Airlines and (8B) and Leeward Islands Aviation (LI) operate on the island. Choices are as follows (not necessarily complete):
+Dominica has two airports. **Douglas-Charles Airport** (DOM, also called Melville Hall) on the northeast coast is the larger of the two and handles most inter-island traffic. It is about one hour from Roseau by road. **Canefield Airport** sits just north of Roseau and is used by small charter and inter-island flights.
 
-Antigua: LI
+Neither airport can handle wide-body jets. Most international visitors connect through Antigua, Barbados, St. Lucia, Puerto Rico, Guadeloupe, or Martinique. American Airlines has offered direct Miami service; United has run weekly flights from Newark. LIAT provides regional connections, though its schedule and reliability have been inconsistent — confirm current routes before booking.
 
-Beef Island (British Virgin Islands) 8B, LI
-
-Bridgetown (Barbados): LI, 8B
-
-Pointe a Pitre (Guadeloupe) LI
-
-Port of Spain (Trinidad) 8B
-
-San Juan (Puerto Rico) LI, American Airlines
-
-St Kitts 8B
-
-St Lucia LI, 8B
-
-St Maarten 8B, LI
-
-St Vincent 8B
-
-Minor corrections on 05 February 05
+A new international airport capable of handling larger aircraft was under construction as of 2025, with an expected opening around 2027.

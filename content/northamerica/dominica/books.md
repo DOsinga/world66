@@ -3,100 +3,12 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Wide Sargasso Sea** by Jean Rhys (1966) is the most famous novel set in Dominica — a prequel to Jane Eyre told from the perspective of Mr Rochester's first wife, the Creole heiress Antoinette Cosway. Rhys herself was born in Roseau in 1890, and the Dominican landscape runs through all her work. Essential reading before or after a visit.
 
-**Alive Guide Martinque, Guadeloupe, Dominica and St. Lucia**
+**Phyllis Shand Allfrey: A Caribbean Life** by Lizabeth Paravisini-Gebert (isbn: 081352265X) is a biography of Dominica's own political figure and novelist, founder of the Dominica Labour Party and author of *The Orchid House*. A good companion to Dominican history.
 
+**Peasants and Capital: Dominica in the World Economy** by Michel-Rolph Trouillot (isbn: 0801834813) is an anthropological study of rural Dominica and the banana economy. More academic than travel reading, but Trouillot was one of the Caribbean's greatest thinkers and this remains sharp.
 
+**Diving and Snorkeling Dominica** by Michael Lawrence (isbn: 0864427646) is an older but useful guide to the island's dive sites if you're planning time in the water.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1556508573/ref=ase_osingacom?v=glance&s=books)
-
-author: Lynne M. Sullivan
-
-isbn: 1556508573
-
-subject: travel
-
-**Diving and Snorkeling Dominica**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864427646/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Lawrence
-
-isbn: 0864427646
-
-subject: travel
-
-**Merengue:Dominican Music and Dominican Identy**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566394848/ref=ase_osingacom?v=glance&s=books)
-
-author: Paul Austerlitz,Foreword by Robert Farris Tho..
-
-isbn: 1566394848
-
-subject: culture
-
-**Dominican Republic:A Guide to the People, Politics and Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566562430/ref=ase_osingacom?v=glance&s=books)
-
-author: David Howard
-
-isbn: 1566562430
-
-subject: culture
-
-**Merengue:Dominican Music and Dominican Identity**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/156639483X/ref=ase_osingacom?v=glance&s=books)
-
-author: Paul Austerlitz
-
-isbn: 156639483X
-
-subject: culture
-
-**Phyllis Shand Allfrey:A Caribbean Life**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/081352265X/ref=ase_osingacom?v=glance&s=books)
-
-author: Lizabeth Paravisini-Gebert
-
-isbn: 081352265X
-
-subject: history
-
-**Peasants and Capital :Dominion in the World Economy**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0801834813/ref=ase_osingacom?v=glance&s=books)
-
-author: Michel-Rolph Trouillot
-
-isbn: 0801834813
-
-subject: history
-
-**Phyllis Shand Allfrey:A Caribbean Life**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0813522641/ref=ase_osingacom?v=glance&s=books)
-
-author: Lizabeth Paravisini-Gebert
-
-isbn: 0813522641
-
-subject: history
+For current trail conditions and park information, the Dominica Tourism Authority (dominica.dm) and the Forestry, Wildlife and Parks Division are better resources than any printed guide, given how quickly conditions change after storms.

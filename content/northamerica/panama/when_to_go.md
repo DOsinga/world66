@@ -1,22 +1,24 @@
 ---
-title: "When to Go in Panama"
+title: "When to Go"
 type: section
 ---
 
-There are many things people need to know about **Panama City; when to go** is one of them. This city has recently become a popular place to retire to because the weather stays relatively nice all year round.
+Panama sits close to the equator and has a tropical climate with two seasons: dry (December to April) and wet (May to November). Temperatures in Panama City stay around 28–32°C year-round. There is no real winter.
 
-#### Spring
+## Dry Season (December–April)
 
-Spring time in Panama city has an average temperature of 80 degrees Fahrenheit, and being the driest season of the year, has an average precipitation of .04 inches. Spring is a relatively popular season for people to visit if they do not like too much rain, but enjoy the heat.
+This is the most popular time to visit and for good reason. Days are sunny, roads are reliable, and the beaches are at their best. January and February are the peak months — expect higher prices and more crowds at popular destinations. March and April are hot and dusty by the end of the season.
 
-#### Summer
+## Wet Season (May–November)
 
-Summer time in Panama City has an average temperature of 86 degrees Fahrenheit, and has a precipitation average of 2.39 inches. Summer is the most popular season of the year to visit Panama because it is prime weather time, without too much rain for the beach scene. Summer is the best season to visit Panama City.
+The rains typically come in the afternoon and evening, leaving mornings clear. Outside of the peak wet months (September and October), this is often an excellent time to travel. The countryside is intensely green, waterfalls are running full, and prices are lower. Bird-watching is good year-round but excellent in the wet season highlands.
 
-#### Fall
+The Caribbean side of Panama (Bocas del Toro, Colón, Guna Yala) operates on a different weather pattern to the Pacific side — it tends to rain more in July–August and again in November–December, with drier spells in September–October. Be flexible if you're heading that way.
 
-The Fall season in Panama has a slightly rising temperature of 88 degrees Fahrenheit, and average precipitation of 2.63 inches. Fall is not a favored season because it is the beginning of the wet storm season in Panama, although some extreme surfers enjoy visiting Panama for the surf.
+## Festivals
 
-#### Winter
+If Carnival is on your list, plan for the four days before Ash Wednesday (usually February). Las Tablas on the Azuero Peninsula is the place to see it at its most exuberant.
 
-The winter season in Panama City is the least visited tourist season of the year. With an average temperature of 87 degrees Fahrenheit, the temperature itself isn't bad, but the average rain precipitation raises up to 4 inches. With Panama's bad drain system, sinkholes and landslides regularly occur during this season. Winter is not a good season to visit Panama City.
+For the Festival of the Black Christ in Portobelo, go on or around 21 October, when thousands of pilgrims converge on the town.
+
+The highland town of Boquete hosts its popular Flower and Coffee Festival in January.

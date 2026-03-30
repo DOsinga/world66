@@ -3,46 +3,22 @@ title: "Practical Information"
 type: section
 ---
 
-Capital city: La Paz (Administrative) and Sucre (Constitutional):
+**Capital:** La Paz is the administrative capital and seat of government; Sucre is the constitutional capital and home to the Supreme Court.
 
-Official Language: Spanish, Quechua and Aymara.
+**Language:** Spanish is the main language for everyday life, but Bolivia recognises 36 indigenous languages in its constitution. Quechua and Aymara are widely spoken in the highlands. In tourist areas you'll find enough English, but even basic Spanish goes a long way.
 
-Government Type: Democratic.
+**Currency:** The boliviano (BOB). The rate has been around 6.9 bolivianos to the US dollar for years, though the black market rate has diverged in recent years — check the current situation before you go. US dollars are accepted at many hotels and tour operators. ATMs are available in cities and larger towns but can run dry; carry some cash when heading to remote areas. Credit cards work in upmarket restaurants and hotels but not much else.
 
-Religion: 90 % Catholics, but freedom of worship is guaranteed by law.
+**Altitude:** This is the single biggest practical issue for most visitors. La Paz sits at 3,630 metres, El Alto at 4,150m, Potosí above 4,000m. Even fit travellers can feel breathless, headachy, and nauseous for the first day or two. Take it slow — don't rush around on arrival, eat lightly, skip alcohol for the first 24 hours, and drink plenty of water. Coca tea is a local remedy that many swear by. If symptoms are severe, descend. Consult your doctor about acetazolamide (Diamox) if you're concerned.
 
-Environment: A safe country. Index of robbery and theft to tourists is the lowest in South America, Bolivia is probably the safest country of Latin America.
+**Health:** Yellow fever vaccination is required if arriving from certain countries and strongly recommended for the lowland jungle regions. Dengue and malaria are present in tropical lowland areas — use repellent and cover up at dusk. Bolivia's public hospitals are under-resourced; private clinics in major cities are better and work with international insurance. Bring any prescription medicines you need and keep a small first-aid kit.
 
-Shopping : Distinctive handicrafts at bargaining prices, gold, silver, alpaca wool, etc.
+**Safety:** Bolivia is generally safe for travellers exercising normal caution. Petty theft and pickpocketing happen in crowded markets and bus stations. The Witches' Market area and busy tourist zones in La Paz attract opportunists. Protests (bloqueos) can block roads for hours or days — they're usually peaceful but can strand you. Check local news before travel, particularly if there's political tension.
 
-Altitude: Eat and drink moderately and take your time at first.
+**Electricity:** 220V, 50Hz. Plug types vary — you may find both flat two-pin and round two-pin sockets. Bring a universal adapter.
 
-Seasons: Rainy from December to March, rest of the year mild and sunny.
+**Time zone:** Bolivia Standard Time (BOT), UTC-4. No daylight saving.
 
-Monetary: 6.7 Bolivianos per American Dollar.
+**Business hours:** Many businesses, especially outside big cities, still observe a midday break from around noon to 2:30pm or 3pm. Government offices typically work through, 8:30am to 4:30pm.
 
-Business Hour: 9:00 to 12:00 in the morning, 14:30 to 18:30 in the afternoon. Government and some financial institutions are now working strait from 08:30 to 16:30.
-
-Local Time: 4 hours behind Greenwich Mean Time (GMT), Bolivian Time is constant throughout the year and throughout the country.
-
-Electric currency: La Paz runs on 220V and 110V current. The rest of the country is 220V, the current is in 50 cycles AC.
-
-Accommodation: From first-class hotels to typical lodgings.
-
-Entrance Ways: By air with several carriers, operating to Bolivia. However, the most attractive and usual way to enter Bolivia is from Peru, crossing the Sacred Lake of the Incas by catamaran. A Titikaka Catamaran Cruise Line offers daily connections from Cusco/Puno to La Paz.
-
-Holidays: New Years day - January 1st.
-
-Carnival - Monday and Tuesday before Ash Wednesday.
-
-Good Friday - Friday before Easter.
-
-Labor Day - May 1.
-
-Corpus Christi - 60 days after Good Friday.
-
-Independence Day - August 6.
-
-All Saints Day - November 2.
-
-Christmas Day - December 25.
+**Public holidays:** New Year's Day (Jan 1), Carnaval Monday and Tuesday (Feb/Mar), Good Friday, Labour Day (May 1), Corpus Christi, Independence Day (Aug 6), All Saints' Day (Nov 2), Christmas (Dec 25).

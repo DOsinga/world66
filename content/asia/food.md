@@ -3,38 +3,16 @@ title: "Food"
 type: section
 ---
 
-Asian food has a good reputation and deserves it. A journey through the countries of Asia is always a culinary experience. From Falafel and Humus in the Middle East, via Nasi Goreng & Peking Duck to Sushi in Japan.
+Asian food is extraordinarily varied — varied enough that lumping it all together barely makes sense. What unites it is freshness, the central role of rice or noodles, and a sophistication with spice and balance that has taken the rest of the world centuries to appreciate.
 
- [Thailand](/asia/thailand) has some great culinary specialities. The combination of spicey and fresh makes the Thai cuisine a treat for travelers, check the [Thailand](/asia/thailand) section for more info.
+**East Asia** — [China](/asia/china), [Japan](/asia/japan), [South Korea](/asia/southkorea), [Taiwan](/asia/taiwan) — is where food becomes obsession. [Japan](/asia/japan) has arguably the most developed food culture on earth: ramen shops that have been perfecting their broth for generations, sushi bars where fish is treated as carefully as fine wine, izakayas where you can graze for hours. [South Korea](/asia/southkorea)'s barbecue and kimchi are famous, but the depth of the cuisine goes much further. [Taiwan](/asia/taiwan)'s night markets — stinky tofu, scallion pancakes, beef noodle soup — are a sensory education. Chinese regional cooking is its own universe: the fiery numbing heat of Sichuan, the dim sum tradition of Guangdong, the Islamic lamb dishes of Xinjiang, the dumplings and wheat noodles of the north.
 
- Chinese cooking can be found everywhere in the world - but the best place to get it is of course [China](/asia/china) itself. A trip to China will help you distinguish between the kitchen of [Beijing](/asia/china/beijing) (hot), [Guangzhou](/asia/china/guangzhou) a.k.a Cantonese, (very hot) and Sichuan (extremely hot).
+**Southeast Asia** — [Thailand](/asia/thailand), [Vietnam](/asia/vietnam), [Malaysia](/asia/malaysia), [Indonesia](/asia/indonesia), [Singapore](/asia/singapore) — is where street food culture reaches its peak. Bangkok's sidewalk stalls produce pad thai, som tam, and mango sticky rice that no restaurant version anywhere else has matched. Vietnamese food is built around freshness: pho, banh mi, and bun cha are deceptively simple and endlessly good. [Malaysia](/asia/malaysia) and [Singapore](/asia/singapore) are where Chinese, Malay, and Indian traditions have fused into something distinctive — laksa, char kway teow, nasi lemak. [Indonesia](/asia/indonesia)'s rice table (rijsttafel) is the best way to sample a cuisine that varies enormously across thousands of islands.
 
- [Japan](/asia/japan) offers sushi (raw fish), tepanyaki (cook prepares food on your table) and many more exquisite things you will not find anywhere else. Have a cup of Sake with it, and you are sure to enjoy yourself. 
+**South Asia** — [India](/asia/india), [Sri Lanka](/asia/srilanka), [Nepal](/asia/nepal) — has a cuisine so regional that traveling from state to state feels like changing countries entirely. The spiced lamb of Rajasthan is nothing like the coconut curries of Kerala or the fish dishes of Bengal. [Sri Lanka](/asia/srilanka) does things with coconut milk, curry leaf, and dried fish that are distinct from Indian cooking despite the geographic proximity. South Asian food is also the most vegetarian-friendly in the world — not by accident, but by deep cultural tradition.
 
- The Indonesian cuisine is great and mostly quite cheap. You can order a rice table with 20 different plates for less than 10 dollar almost anywhere in [Indonesia](/asia/indonesia). Vegetarians will find the Indonesian kitchen quite a treat as well. 
+**The Middle East** — [Lebanon](/asia/lebanon), [Israel](/asia/israel), [Turkey](/asia/turkey), [Iran](/asia/iran) — offers food built on fresh vegetables, legumes, and grilled meat. Lebanese mezze is one of the great eating traditions: hummus, tabbouleh, fattoush, kibbeh, and a dozen other dishes arriving at the table in small portions. [Turkey](/asia/turkey) offers extraordinary range, from Aegean olive oil dishes to the kebab culture of the southeast. [Iran](/asia/iran) is underrated as a food destination — saffron rice dishes, herb-heavy stews, and excellent pomegranate-walnut sauces reward any visitor who makes it there.
 
- The [Middle East](/asia/middleeast) has a great variety of tastes. Humus, Falafel and Kebab are the best known examples of Middle East cooking.
+**Central Asia** — [Uzbekistan](/asia/uzbekistan), [Kazakhstan](/asia/kazakhstan), [Kyrgyzstan](/asia/kyrgyzstan) — has a heartier tradition rooted in nomadic and Silk Road culture. Plov (rice pilaf cooked with meat and carrots) is the signature dish of Uzbekistan, cooked in enormous quantities for celebrations. Samsa (baked meat pastries), lagman (hand-pulled noodles), and various grilled meats feature across the region. The bread — lepyoshka, baked in clay ovens — is excellent.
 
-Food in the Middle East is great. Fresh vegetables, great salads, good dips. Falafel, humus, pita bread and kebab / shoarma.
-
-[Israel](/asia/israel) and [Lebanon](/asia/lebanon) probably offer the best in food in the region. Lebanese Humus is the best in the world. In Israel you will also find food from all over the world - from Russian stews to Yemenite pancakes.
-
-**Points of Interest**
-
-**Kebab**
-
-Delicious Middle Eastern food. Beef cooked on the grill with spices. Tastes very good.
-
-**Falafel**
-
-Falafel are spicy Middle Eastern chick-pea patties usually deep-fat fried and served in pita breads. Great fro veggies!
-
- For a recipe see: this site.
-
-**Humus**
-
-The unique flavor of traditional hummus comes from tahini, a peanut butter-like paste made from sesame seeds that's high in fat. It's great as a dip with tradtional Pita bread or fresh vegetables.** hampig:** Humus, the food of Lebanon, has something that i cant quite put my finger on. It has kind of a spicy yet sweet flavor. It is put on bread, and you can put on kemun, a lebanese spice with tahini and red pepper. I reccomned this food to anyone. [more..](/asia/food/humus)
-
-**Tabbouleh**
-
-Great fresh Bulgur (sort of grain) Salad with lots of parsley and lemon juice.
+One practical note: in much of Asia, the best food is not in restaurants. It is at street stalls, market counters, and small family-run spots with plastic chairs. Eat where locals eat, follow the longest queues, and be suspicious of menus translated into six languages.

@@ -1,21 +1,26 @@
 ---
-title: "North Korea"
-type: location
 latitude: 40.373661
 longitude: 127.087042
+title: North Korea
+type: location
 ---
 
-North Korea still is one of the most reclusive countries of the world. Although there is a slight opening and some selected koreans are now allowed to visit their families in the south for a short day stay, visiting the country is still a highly organised operation for limited numbers of group tourists. Since access to North Koreea is mainly via China, most visits are tacked on to China tours.
+North Korea — officially the Democratic People's Republic of Korea — is the most closed country on earth and, for that reason, one of the most compelling. Every visitor goes as a guest of the state. You will be met at the airport, escorted everywhere by two government-assigned guides, and shown a carefully curated version of the country. You will not wander freely. You will not speak to locals without a minder present. And yet people come back transformed.
 
+The country is a living museum of mid-20th century socialist architecture, ideology made physical: vast plazas, bronze statues on every ridge, murals of beaming workers, and a city — [Pyongyang](/asia/northkorea/pyongyang) — unlike anywhere else on earth. Beyond the capital lie mountains, ancient kingdoms, and a countryside that moves at a different pace entirely.
 
- 
- More than 22 millions inhabitants live in this country. Most of its 120.500 sqkm territory is demilitarized zone, where you are not allowed to enter. The Democratic People's Republic of Korea is situated on the northern half of the Korean Peninsula. It shares borders in the south with the demilitarized zone (separating it from the Republic of Korea, see South_Korea), in the east with Japan (by sea), in the north with China and in the west with the Yellow Sea.
+Be honest with yourself before you go. Tourism here funds the regime. Your presence is used for propaganda purposes. Those are real considerations, and thoughtful people disagree about whether visiting does more harm or good. The counterargument — that engagement and human contact matter, that understanding is better than ignorance — is also real. You will have to make your own call.
 
+What you will not get is a typical holiday. North Korea is demanding, strange, occasionally tedious (a lot of monuments), and utterly unforgettable.
 
- 
- Following World War II, Korea was split into a northern, communist half and a southern, Western-oriented half. Kim Chong Il has ruled North Korea since his father and the country's founder, president Kim Il Sung, died in 1994. After decades of mismanagement, the North relies heavily on international food aid to feed its population.
- Most of the land consists of hills and low mountains, separated by deep, narrow valleys. Only a small area is cultivable. The eastern coast is rocky and steep with mountains rising from the water, the western coast is characterized by coastal plains. The average climate is temperate with rainfall concentrated in summer.
+## Accessibility in 2026
 
+North Korea closed its borders completely in January 2020 at the start of COVID and has not fully reopened for Western tourism. As of early 2026, the Pyongyang Marathon — which had previously brought limited foreign visitors — was cancelled at short notice. The international passenger train between Beijing and Pyongyang resumed in March 2026, and Air China relaunched its Beijing–Pyongyang route, suggesting gradual reopening. Russian citizens have had limited access to the Wonsan-Kalma beach resort. Most Western nationals should assume that tourism remains suspended; check with Koryo Tours or Young Pioneer Tours for current status before making any plans.
 
- 
- North Korea’s population is racially almost homogeneous, there is only a small Chinese community and a few ethnic Japanese. Most of the population is traditionally Buddhist and Confucianist, there are some Christian and syncretic Chondogyo (Religion of the Heavenly Way).
+US citizens face additional restrictions: the US State Department has prohibited use of US passports for travel to North Korea since 2017, with exceptions only for journalists and humanitarian workers.
+
+## Where to go
+
+[Pyongyang](/asia/northkorea/pyongyang) is the showcase capital — where almost all tours begin and end. [Kaesong](/asia/northkorea/kaesong), the ancient Koryo dynasty capital near the DMZ, is a day trip from Pyongyang and has genuine historical depth. [Myoyangsan](/asia/northkorea/myoyangsan) (Mt. Myohyang) is two hours north of Pyongyang, known for its forests, Buddhist temples, and the extraordinary International Friendship Exhibition. [Wonsan](/asia/northkorea/wonsan) on the east coast has a new mega-resort and decent beaches.
+
+Outside these main destinations, access depends entirely on your tour operator and what the authorities permit for that particular week.

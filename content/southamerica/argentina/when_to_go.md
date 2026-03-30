@@ -1,22 +1,30 @@
 ---
-title: "When to Go in Argentina"
+title: "When to Go"
 type: section
 ---
 
-There are many things one needs to know about **Argentina:When To Go** is one of them. The best time differs with different places. Argentina has a reverse climate as compared to that of the Northern Hemisphere. It is best to visit the southern parts of Argentina in the warmer months of the season and opt for the North Western part of Argentina during the cold winters.
+Argentina's seasons are the reverse of the Northern Hemisphere. Summer runs December to February, winter June to August. The country spans nearly 4,000km from the subtropical north to the subpolar south, so the right time to visit depends heavily on where you are going.
 
-#### Winter
+## Buenos Aires
 
-Winters are very cold in the northern part of Argentina. Most of the international tourists visit Buenos Aires in the peak seasons. July and August is the winter time and January is hot and humid in Buenos Aires. Since the vacation times coincide with the Americans and the Europeans, the best time to visit this place is during the peak seasons. If one is looking for moderate weather, then March through September and October would be ideal.
+Spring (October–November) and autumn (March–April) are ideal — mild temperatures, low humidity, and the city at its most pleasant. Summer (December–February) is hot and humid, and many porteños leave the city in January. Winter is mild and rarely very cold; it's a perfectly fine time to visit.
 
-#### Summer
+## Patagonia
 
-January and February are the hottest in Argentina with a temperature of about 97 to 100 degrees Fahrenheit. The summer duration is from December to March in the Argentina.
+Go in summer (December–February) for trekking, glacier visits, and wildlife watching. Days are long, weather is warmest (though wind is always a factor in the south), and most services are open. Shoulder season — October to November, and March to April — is less crowded and can be beautiful. In winter, many lodges and parks close.
 
-#### Fall
+## Northwest (Salta, Jujuy, the Andes)
 
-The period between March and May is Ideal for the vacations. Most of the tourists take advantage of fall season in Argentina.
+April and May offer dry, clear days and striking light on the altiplano landscapes. Avoid the summer wet season (November–March) when roads can flood. The northwest is accessible year-round but is at its best in the dry season.
 
-#### Spring
+## Iguazú Falls
 
-August through to October is the spring time in Argentina. The temperature at this time is mild to moderate. Travelers are advised to avoid the summer months when visiting Iguazu Falls as it would be very humid. The shoulder seasons are very much recommended for the tourists if they are interested in extending their stay at the place.
+The falls are most dramatic after rain, which means the wet season (November–March) produces impressive flows — but also intense heat and humidity. April to September is drier, cooler, and more comfortable for walking the trails.
+
+## Mendoza (wine country)
+
+March is harvest season (vendimia), the best time to visit wineries and attend the Fiesta Nacional de la Vendimia. Autumn is also beautiful. Summer can be very hot in the vineyards.
+
+## Skiing
+
+The ski season runs June to September. Bariloche and Las Leñas are the main resorts and get busy with Argentine and Brazilian tourists in July (school holidays).

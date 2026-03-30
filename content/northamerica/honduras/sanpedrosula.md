@@ -1,10 +1,12 @@
 ---
-title: "San pedro sula"
+title: "San Pedro Sula"
 type: location
+latitude: 15.5026
+longitude: -88.0252
 ---
 
-Heavily damaged by the tornado Mitch, San Pedro Sula is getting back on its feet. The fastest growing town in Honduras is still an important travel hub.
+San Pedro Sula is Honduras's second city and its industrial and commercial capital, a flat, hot city in the Sula valley near the north coast. It is the main gateway for travelers heading to [Copán](/northamerica/honduras/copan) (about three hours by bus to the west), the north coast, and the Bay Islands.
 
-San Pedro can serve as a base from which to visit many different destinations. While it is best to make arrangements for tours into the countryside before arriving in San Pedro Sula excellent local operators can be found through the major hotels. One favorite outing is to the [Copan](/northamerica/honduras/copan) Ruins which are a three-hour drive away.
+As a place to visit, San Pedro Sula has limited appeal beyond its role as a transport hub. Most travelers pass through quickly. That said, it has decent infrastructure — good hotels, restaurants, a functioning airport — and the surrounding countryside offers several worthwhile day trips. [Lake Yojoa](/northamerica/honduras/lakeyojoa), an hour south, is the largest lake in Honduras and excellent for birdwatching. The Pulhapanzak waterfalls are nearby. Cusuco National Park, a cloud forest reserve in the Merendón mountains about 40 km west of the city, has hiking and exceptional biodiversity.
 
- Other possibilities include [Lake yojoa](/northamerica/honduras/lakeyojoa) and Pulhapanzak Waterfalls (a scenic one-day trip); Cusuco Cloud Forest (a four-wheel-drive outing to see birds orchids bromeliads and sometimes tapirs and armadillos); [Tela](/northamerica/honduras/tela) (including visits to a banana plantation a mahogany-wood-carving factory the Lancetilla Botanical Gardens a swim at the beach at Villas Telemar and a tour of a Garifuna village); and Omoa Fortress (a tour of a 1700s outpost combined with a trip to a beach resort).
+The city has a difficult reputation for violent crime, and some caution is warranted — use radio-dispatched taxis, avoid local buses, and don't wander into unfamiliar areas. The main commercial and hotel districts are reasonably safe during the day.

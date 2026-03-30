@@ -3,16 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Tunisia is easy to reach from Europe. Tunis-Carthage International Airport sits about 7 km from the city centre and receives direct flights from London, Paris, Frankfurt, Rome, Amsterdam and most other major European hubs. Tunis Air and Nouvelair operate regional routes, while budget carriers like Transavia and TUI fly in seasonally from across Europe. Flying time from London is around two and a half hours.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+The secondary airports at [Monastir](/africa/tunisia/monastir) (Habib Bourguiba International) and [Jerba](/africa/tunisia/jerba) (Djerba-Zarzis International) also take direct charter and scheduled flights from Europe, making them good entry points if you're heading straight for the coast or the south.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**By ferry** is a genuinely pleasant option if you're coming from southern Europe. The main routes connect Tunis (La Goulette port) with:
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+- **Marseille** (France): around 24 hours, operated by Grandi Navi Veloci and COTUNAV
+- **Genoa** (Italy): around 24 hours, Grandi Navi Veloci
+- **Civitavecchia** (Rome's port): around 18 hours, Grimaldi Lines
+- **Salerno** (Italy): around 22 hours, Grimaldi Lines
+- **Palermo** (Sicily): around 10 hours, Grimaldi Lines
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+Ferries range from basic deck passage to comfortable cabins. The Palermo crossing is the shortest -- a good route if you're driving through Italy.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+**By land**, Tunisia shares borders with Algeria to the west and Libya to the southeast. The Algerian border crossings are generally open but require a visa in advance for most nationalities. The Libyan border situation changes; check current travel advisories before relying on it.

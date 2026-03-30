@@ -5,6 +5,7 @@ address: "Vicolo del Bologna 45, 00153 Rome"
 opening_hours: "Daily 12:00–midnight"
 latitude: 41.8897
 longitude: 12.4688
+neighbourhood: "Trastevere"
 tags: ["48 Hours in Rome"]
 ---
 

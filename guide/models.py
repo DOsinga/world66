@@ -100,6 +100,10 @@ class Page:
     def category(self):
         return self.meta.get("category", "")
 
+    @property
+    def neighbourhood(self):
+        return self.meta.get("neighbourhood", "")
+
     def breadcrumbs(self):
         crumbs = []
         parts = self.path.split("/")
@@ -210,8 +214,9 @@ def _content_mtime():
     return max((f.stat().st_mtime for f in CONTENT_DIR.rglob("*.md")), default=0)
 
 
-_search_index_cache = (None, None)  # (mtime, entries)
-_tag_index_cache = (None, None)     # (mtime, index)
+_search_index_cache = (None, None)       # (mtime, entries)
+_tag_index_cache = (None, None)          # (mtime, index)
+_neighbourhood_index_cache = (None, None)  # (mtime, index)
 
 
 def load_search_index():
@@ -278,6 +283,35 @@ def load_tag_index():
         for tag in raw_tags:
             index.setdefault(tag, []).append(page)
     _tag_index_cache = (mtime, index)
+    return index
+
+
+def load_neighbourhood_index():
+    """Scan all content files and return a dict mapping neighbourhood name -> list of Pages."""
+    global _neighbourhood_index_cache
+    mtime = _content_mtime()
+    if _neighbourhood_index_cache[0] == mtime:
+        return _neighbourhood_index_cache[1]
+    index = {}
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, _ = result
+        neighbourhood = meta.get("neighbourhood", "")
+        if not neighbourhood:
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        page = _load_page_from_file(md_file, url_path)
+        if page:
+            index.setdefault(neighbourhood, []).append(page)
+    _neighbourhood_index_cache = (mtime, index)
     return index
 
 

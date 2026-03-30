@@ -5,6 +5,7 @@ address: "Via Mastro Giorgio 29, 00153 Rome"
 opening_hours: "Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun"
 latitude: 41.8782
 longitude: 12.4775
+neighbourhood: "Testaccio"
 tags: ["3 Days in Rome"]
 ---
 

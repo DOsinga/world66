@@ -8,7 +8,7 @@ from django.http import Http404
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page, load_tag_index, load_search_index
+from .models import load_page, load_tag_index, load_search_index, load_neighbourhood_index
 
 
 @lru_cache(maxsize=1)
@@ -58,6 +58,12 @@ def location_or_section(request, path):
     if page.page_type == "section" and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
 
+    # For neighbourhood POIs, gather all POIs tagged with this neighbourhood
+    neighbourhood_pois = []
+    if page.page_type == "poi" and page.category == "Neighbourhood":
+        nb_index = load_neighbourhood_index()
+        neighbourhood_pois = [p for p in nb_index.get(page.title, []) if p.path != page.path]
+
     # Map context — validate lat/lng as floats
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
@@ -87,6 +93,7 @@ def location_or_section(request, path):
         "tags": page.tags,
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
+        "neighbourhood_pois": neighbourhood_pois,
     })
 
 

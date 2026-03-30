@@ -186,6 +186,36 @@
 {% endif %}
 {% endif %}
 
+{% if neighbourhood_pois %}
+<h2 class="neighbourhood-pois-heading">Places in this neighbourhood</h2>
+<table class="poi-table">
+  <thead>
+    <tr><th>Place</th><th>Details</th></tr>
+  </thead>
+  <tbody>
+    {% for poi in neighbourhood_pois %}
+    <tr>
+      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
+      <td class="poi-table-details">
+        {% for key, value in poi.properties.items %}
+        <span class="poi-detail">
+          <span class="poi-detail-key">{{ key }}</span>
+          {% if key == "Website" %}
+          <a href="http://{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>
+          {% elif key == "Email" %}
+          <a href="mailto:{{ value }}">{{ value }}</a>
+          {% else %}
+          {{ value }}
+          {% endif %}
+        </span>
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
+
 {% if tags %}
 <div class="tags">
   {% for tag in tags %}

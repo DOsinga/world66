@@ -5,6 +5,7 @@ address: "Piazza di San Calisto 3, 00153 Rome"
 opening_hours: "Mon–Sat 06:00–02:00; closed Sun"
 latitude: 41.8896
 longitude: 12.4713
+neighbourhood: "Trastevere"
 tags: ["48 Hours in Rome", "3 Days in Rome"]
 ---
 

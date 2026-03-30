@@ -90,6 +90,39 @@ Description text...
 | `Architecture` | Buildings valued primarily for their design (not open as museums) |
 | `Neighbourhood` | Districts and areas worth wandering — canals, market streets, etc. |
 
+### Neighbourhood POIs (large cities)
+
+For large cities, add `Neighbourhood` POIs for the most characterful districts — typically 3–5 per city. These work like any other POI in `things_to_do/`, but they have a special feature: **other POIs tagged with `neighbourhood: "Name"` are automatically listed on the neighbourhood page**.
+
+This means a visitor reading the Trastevere page will see all the restaurants and bars in Trastevere listed inline — without Trastevere being a separate location in the hierarchy.
+
+**How to set it up:**
+
+1. Create the neighbourhood POI in `things_to_do/` with `category: "Neighbourhood"`:
+```yaml
+---
+title: "Trastevere"
+type: poi
+category: "Neighbourhood"
+latitude: 41.8893
+longitude: 12.4703
+---
+
+Description of the neighbourhood...
+```
+
+2. Add `neighbourhood: "Trastevere"` to any POI (in `eating_out/`, `bars_and_cafes/`, etc.) that belongs to the neighbourhood:
+```yaml
+---
+title: "Bar San Calisto"
+type: poi
+neighbourhood: "Trastevere"
+...
+---
+```
+
+The neighbourhood name in `neighbourhood:` must match the neighbourhood POI's `title` exactly. The matching is case-sensitive.
+
 ### Migrating from existing `sights/` and `museums/` directories
 
 When a city already has `sights/` and `museums/` with POIs:

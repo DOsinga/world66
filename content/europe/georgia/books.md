@@ -3,100 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Knight in the Panther's Skin** by Shota Rustaveli (12th century) — Georgia's national epic poem, written during the reign of Queen Tamara. Essential background for understanding Georgian culture and the pride Georgians take in their medieval golden age.
 
-**Frommer's Carolinas and Georgia**
+**Bread and Ashes: A Walk Through the Mountains of Georgia** by Tony Anderson — A traveller's account of walking through Georgia's mountain regions in the post-Soviet era. Personal, well-observed, and still relevant for the country's character even if some of the political details have moved on.
 
+**The Crossing Place: A Journey Among the Armenians** by Philip Marsden — Covers Armenia primarily but travels through the South Caucasus broadly, including Georgia. Good regional context.
 
+**Young Stalin** by Simon Sebag Montefiore — Stalin was born in [Gori](/europe/georgia/gori), Georgia. This biography covers his formative years in the Caucasus with vivid detail and is the best preparation for a visit to the Stalin Museum in Gori (which remains open and is worth seeing).
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028623703/ref=ase_osingacom?v=glance&s=books)
-
-author: Darwin Porter,Danforth Prince
-
-isbn: 0028623703
-
-subject: travel
-
-**Fodor's Carolinas and Georgia '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679001646/ref=ase_osingacom?v=glance&s=books)
-
-author: Linda Cabasin (Editor),Anto Howard (Editor)
-
-isbn: 0679001646
-
-subject: travel
-
-**A.K.A.. Jane**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0446606677/ref=ase_osingacom?v=glance&s=books)
-
-author: Maureen Tan
-
-isbn: 0446606677
-
-subject: travel
-
-**Georgia O'Keeffe:One Hundred Flowers**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0760711127/ref=ase_osingacom?v=glance&s=books)
-
-author: Georgia O'Keeffe (Artist)
-
-isbn: 0760711127
-
-subject: culture
-
-**Georgia O'Keeffe**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0516422979/ref=ase_osingacom?v=glance&s=books)
-
-author: Mike Venezia
-
-isbn: 0516422979
-
-subject: culture
-
-**Address Book-Georgia O'Keefe**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0876545029/ref=ase_osingacom?v=glance&s=books)
-
-author: Pomegranate Publishers
-
-isbn: 0876545029
-
-subject: culture
-
-**Midnight in the Garden of Good and Evil**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679429220/ref=ase_osingacom?v=glance&s=books)
-
-author: John Berendt
-
-isbn: 0679429220
-
-subject: history
-
-**Gone with the Wind**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0446365386/ref=ase_osingacom?v=glance&s=books)
-
-author: Margaret Mitchell
-
-isbn: 0446365386
-
-subject: history
+**Georgia: A Sovereign Country of the Caucasus** by Roger Rosen — A solid general introduction to the country: history, culture, geography. Getting dated but still a useful overview before visiting.

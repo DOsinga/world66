@@ -1,4 +1,0 @@
----
-title: "Attractions"
-type: location
----

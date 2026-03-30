@@ -1,40 +1,20 @@
 ---
-title: "Beaches in Gibraltar"
+title: "Beaches"
 type: section
 ---
 
-For some, going to the beach is a ritualistic vacation. You pack the kids in the car with their shovels and buckets, a picnic lunch and a good book. Or if you&rsquo;re single and ready to mingle, it&rsquo;s your hottest beach wear and a promise to meet another sun-kissed lone vacationer looking for romance. But unlike the normal beach destinations, the **Gibraltar Beaches** offers an experience that surpasses all of your fun-in-the-sun expectations.
+Gibraltar has six beaches — a surprisingly varied mix given the territory's tiny size. The eastern beaches, shielded from the prevailing wind by the Rock, tend to be calmer and cleaner.
 
-This history-rich peninsula is located at the southern edge of Spain and is best known for its 300 days of summer and monstrous geological formation called the Rock. Visitors from all over the world flock to discover the Rock&rsquo;s wonder and take in the six diverse beaches that surround it. Whether your sand cravings call for soft white beaches that promise relaxation or rock terrain that satisfies your inner explorer, the six Gibraltar beaches have you covered in your adventures:
+**Eastern Beach** is the largest and most accessible. It faces south-east, gets more sun than the western beaches, and has facilities including bars and sun lounger rental. It can get crowded in summer, particularly on weekends when people come over from the Costa del Sol.
 
-**WESTERN BEACHES******
+**Catalan Bay** is the most characterful of Gibraltar's beaches. A small village of whitewashed houses clings to the cliff behind it, giving it a distinctly Mediterranean fishing village feel. The beach is popular with locals, the seafood restaurants are good, and it hosts an annual religious festival for Our Lady of Sorrows. Less busy than Eastern Beach.
 
-**Little Bay**
+**Sandy Bay**, further south, is smaller and harder to reach — which keeps the crowds down. It's a local favourite precisely because visitors tend not to bother finding it.
 
-Cliff jumpers and bird watchers love this beach since it primarily consists of rocks, cliffs and a rough landscape.
+On the western side of the Rock, the beaches are more dramatic in landscape but less appealing for a lazy day in the sun.
 
-**Camp Bay**
+**Camp Bay** and **Little Bay** are on the south-western coastline. Camp Bay has man-made pools and is the more developed of the two. Little Bay is rougher — rockier and wilder, favoured by those who like clambering around cliffs. There are reportedly over 30 dive sites in the surrounding waters, covering wrecks and reefs.
 
-One of the more adventuresome beaches, this south-west facing wonder gives tourists man-made waterfalls and over 30 wreckage sites for guided dives.
+**Western Beach**, between the border and the town, is small and often overlooked by tourists. It's handy if you don't want to travel far, but the views of the border fence and airport runway don't add much to the atmosphere.
 
-**Western Beach**
-
-A less crowded beach, this small yet soft sanded beauty is one that locals enjoy since the tourists tend to pass it up for the more active beaches.
-
-**EASTERN BEACHES******
-
-**Eastern Beach **
-
-Not only the biggest stretch of beach but also the sunniest, as it sits on the side not shadowed by the infamous Rock.
-
-**Catalan Bay**
-
-A tourist&rsquo;s favorite, this popular fishing beach is known for its fresh seafood and the religious festival for the statute of Our Lady of Sorrows.
-
-**Sandy Bay**
-
-Locals like to keep this smaller beach a secret which is why driving to it and parking are a tad difficult. But despite the traffic woes, this little section of seclusion is worth the journey.
-
-The Gibraltar beaches provide an array of accommodations, restaurants and transportation for every budget. From hostels to historic stays, there are plenty of places to choose from. One place common for tourists is the Rock Hotel that sits the Bay of Gibraltar. With prices averaging around $300 a night, this 1932 Gibraltar cornerstone gives visitors views that make up for its slightly worn charm. A recommended mode of transportation is to rent a car so as to not be limited in where your travels will take you.
-
-The mild temperatures, cultural diversity and family--friendly settings of the six Gibraltar beaches** **are an inviting escape of all who seek the visual intensity of one of nature&rsquo;s miracles and the pleasures that accompany a little known secret in vacation destinations.
+The sea temperature is pleasant from June through October — around 20–24°C in peak summer.

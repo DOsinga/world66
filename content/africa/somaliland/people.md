@@ -3,35 +3,12 @@ title: "People"
 type: section
 ---
 
-Borders: Djibouti, Ethiopia, Somalia
+The population of Somaliland is estimated at around four to five million, though reliable census data is hard to come by given the high proportion of nomadic and semi-nomadic people. Hargeisa has grown rapidly since the end of the civil war and is now a city of well over a million, swelled by diaspora returnees and internal migration.
 
-Population: 3.5 million Population growth rate: 2.76%
+Somalis are a single ethnic group with a deeply clan-based social structure. The Isaaq clan confederacy forms the demographic and political core of Somaliland; the Issa and Gadabursi clans dominate the Awdal region in the west, and the Harti (Dhulbahante and Warsangali) clans are predominant in the eastern regions. Clan identity is central to politics, business, and daily life, though urban Hargeisa has a more mixed character than rural areas.
 
-Internally displaced people: 100,000
+The language is Somali. Arabic is used in religious contexts and is taught in schools. English is spoken by some educated Somalis and members of the diaspora, particularly in hotels and businesses that deal with foreigners, but outside Hargeisa you will need gestures, patience, or a guide.
 
-Refugees in neighbouring countries: 246,400
+Traditional pastoralism remains a major way of life. Livestock — camels, goats, sheep, and cattle — are the basis of the rural economy and a source of deep cultural pride. The camel holds particular status: it's a unit of wealth, a food source, and a measure of social standing. Watching a camel market outside Hargeisa gives you more insight into Somali culture than most museums would.
 
-Life expectancy: 47 years
-
-Maternal mortality: 1600/100,000 live births
-
-Infant mortality: 132/1000 live births
-
-Under 5 child mortality: 224/1000 live births
-
-Access to health services: 28%
-
-HIV/AIDS Prevalence: 0.002 % (illegal ethiopians mostly)
-
-Education Literacy rate - total: 17.1%
-
-Literacy rate - male: 22.1%
-
-Literacy rate - female aged 15 and above: 12%
-
-BY: S. Warsame
-
-*All statistics derived from the UNDP Human Development Report on Somalia 2001 *
-
-**Contributors**
-December 06, 2006
+Hospitality to guests is a strong social value. If invited into someone's home or offered tea, accept it.

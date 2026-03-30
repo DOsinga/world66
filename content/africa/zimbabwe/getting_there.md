@@ -3,30 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By air
 
-Zimbabwe's national airline is *Air Zimbabwe (UM).*
+Zimbabwe has three international airports. **Robert Gabriel Mugabe International Airport (HRE)** in [Harare](/africa/zimbabwe/harare) is the main gateway, with connections to Johannesburg, Addis Ababa, Nairobi, Dubai and several regional capitals. Ethiopian Airlines, South African Airways, Kenya Airways and Emirates are the most reliable carriers. **Joshua Mqabuko Nkomo International Airport (BUQ)** serves [Bulawayo](/africa/zimbabwe/bulawayo) with limited international flights, mostly via Johannesburg. **Victoria Falls Airport (VFA)** has expanded significantly and now handles direct flights from Johannesburg, Nairobi, Addis Ababa and several other African cities — convenient if the Falls are your main destination.
 
-Approximate flight time
+Most European and North American travelers connect through Johannesburg or Addis Ababa. Flight time from London to Harare is approximately 10 hours via Addis or 12 hours via Johannesburg.
 
-From Harare to *London *is 9 hours 50 minutes. (There are no direct flights connecting London with Bulawayo or Victoria Falls; connections from the capital to either take approximately one hour.)
+## Overland
 
-International airports:
+The busiest border crossing is **Beitbridge** on the South African border — expect long queues, especially around holidays. From [Botswana](/africa/botswana), the **Kazungula** border near Victoria Falls is straightforward, and there is a crossing at **Plumtree** west of Bulawayo. From [Zambia](/africa/zambia), you can cross at Victoria Falls bridge (walking across is possible) or at Chirundu on the Harare-Lusaka road. The **Forbes** border post connects to [Mozambique](/africa/mozambique) via Mutare.
 
-*Harare (HRE)* is 12km (7 miles) southeast of the city. Coaches run at regular intervals to the city (travel time  20 minutes). Taxis are available. Airport facilities include post office (0830-1600 Monday to Friday; 0830-1130 Saturday) restaurant (1200-1430 and 1800-2230) duty-free shop and bank/bureau de change.
+Intercape and Greyhound run bus services from Johannesburg to Harare and Bulawayo. The journey from Johannesburg to Harare takes roughly 14 hours.
 
-*Bulawayo (BUQ)* is 24km (15 miles) from the city. Limited bus and taxi services are available.
+## By rail
 
-*Victoria Falls (VFA) *is* *22km (13 miles) from the town. Bus and taxi services are available.
-
-Departure tax
-
-US$20 (non-residents) or Z$20 (residents). Children under 12 years and transit passengers are exempt.
-
-Rail
-
-There are train connections from South Africa through Botswana to Bulawayo. There is a link to Zambia via Victoria Falls.
-
-Road
-
-There are roads from Tanzania Malawi South Africa Mozambique Botswana and Zambia. Off the main routes (Beitbridge and Victoria Falls) travel conditions are often primitive and difficult during heavy rains. For details contact the Embassy or High Commission (see address section).
+A rail connection runs from Botswana to Bulawayo, and there is a link to Zambia via Victoria Falls. Services are infrequent and slow but atmospheric if you have time.

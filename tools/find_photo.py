@@ -6,8 +6,8 @@ Searches Wikimedia Commons and Flickr for landscape photos, uses an AI CLI
 tool to pick the best match, and saves it next to the markdown file with
 frontmatter updates.
 
-Supports Gemini CLI, OpenAI Codex CLI, and Cline CLI. Auto-detects which
-is installed, or use --cli to force one.
+Supports Gemini CLI and OpenAI Codex CLI. Auto-detects which is installed,
+or use --cli to force one.
 
 Usage:
     python tools/find_photo.py /europe/netherlands/amsterdam
@@ -271,7 +271,7 @@ class GeminiAdapter(CLIAdapter):
         file_refs = ' '.join(f'@{p}' for p in image_paths)
         result = subprocess.run(
             ['gemini', '-p', f'{prompt} {file_refs}'],
-            capture_output=True, text=True, timeout=120
+            capture_output=True, text=True, stdin=subprocess.DEVNULL, timeout=120
         )
         if result.returncode != 0:
             raise RuntimeError(f'gemini failed: {result.stderr}')
@@ -284,33 +284,18 @@ class CodexAdapter(CLIAdapter):
     name = 'codex'
 
     def run(self, prompt: str, image_paths: list[Path]) -> str:
-        cmd = ['codex', 'exec', '--full-auto']
+        cmd = ['codex', 'exec', '--full-auto', prompt]
         for p in image_paths:
             cmd.extend(['-i', str(p)])
-        cmd.append(prompt)
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        result = subprocess.run(
+            cmd, capture_output=True, text=True, stdin=subprocess.DEVNULL, timeout=120
+        )
         if result.returncode != 0:
             raise RuntimeError(f'codex failed: {result.stderr}')
         return result.stdout.strip()
 
 
-class ClineAdapter(CLIAdapter):
-    """Cline CLI — configurable model provider."""
-
-    name = 'cline'
-
-    def run(self, prompt: str, image_paths: list[Path]) -> str:
-        cmd = ['cline', '-y']
-        for p in image_paths:
-            cmd.extend(['-i', str(p)])
-        cmd.append(prompt)
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
-        if result.returncode != 0:
-            raise RuntimeError(f'cline failed: {result.stderr}')
-        return result.stdout.strip()
-
-
-CLI_ADAPTERS = [GeminiAdapter, CodexAdapter, ClineAdapter]
+CLI_ADAPTERS = [GeminiAdapter, CodexAdapter]
 
 
 def get_cli_adapter(force: str = None) -> CLIAdapter:
@@ -325,7 +310,7 @@ def get_cli_adapter(force: str = None) -> CLIAdapter:
     for cls in CLI_ADAPTERS:
         if shutil.which(cls.name):
             return cls()
-    raise RuntimeError('No supported AI CLI found. Install one of: gemini, codex, cline')
+    raise RuntimeError('No supported AI CLI found. Install one of: gemini, codex')
 
 
 # ---------------------------------------------------------------------------

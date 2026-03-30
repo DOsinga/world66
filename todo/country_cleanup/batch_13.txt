@@ -1,5 +1,0 @@
-asia/oman
-asia/pakistan
-asia/papuanewguinea
-asia/philippines
-asia/qatar

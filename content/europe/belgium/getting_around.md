@@ -3,30 +3,28 @@ title: "Getting Around"
 type: section
 ---
 
-**By Air** 
+## By Train
 
-Belgium is a relatively small country; so flying around is not really an option to get around. There are some private charters from small local airports though and a tour over the country can also be arranged. 
+The Belgian rail network (SNCB/NMBS) is excellent and covers most of the country. Trains between major cities run frequently — Brussels, [Ghent](/europe/belgium/ghent), [Bruges](/europe/belgium/bruges), [Antwerp](/europe/belgium/antwerp), [Liege](/europe/belgium/liege), and [Leuven](/europe/belgium/leuven) are all within an hour of each other. For most visitors, trains are the obvious way to get between cities.
 
-**By Car** 
+Check timetables and buy tickets at www.belgiantrain.be. The Go Pass (10 trips for a flat rate) is good value if you're making several journeys. Seat reservations are not required on domestic trains.
 
-The most comfortable way to travel is by car. This does not only give you freedom to move without having to meet schedules. Furthermore there are a lot of sights in-between the cities that are hard to visit without your own means of transport. A dense network of highways connects all of Belgium. It’s probably the country that has the highest highway per square kilometer rate in Europe. The Belgian highways are renown for their illumination, so try to do at least some nocturnal driving. [Recently the government decided to shut all freeway lights between 1am and 6am to save power. Except on the R0 around Brussels] 
+## By Car
 
-<i>Driving Rules<\i> 
+Belgium is a small, densely connected country, and a car opens up the Ardennes and the rural areas between cities that trains don't reach well. The motorway network is among the densest in Europe and is entirely toll-free. Navigation by road sign requires some adjustment: place names switch languages at the language boundary — what is "Liège" in French becomes "Luik" in Dutch, and "Mons" becomes "Bergen". Bring a bilingual map or use GPS.
 
-Belgians and law: it doens't go along very well. Speeding limits are 120km/h on freeways, 90km/h outside build-up areas (in Flanders, however, more and more roads have a speed limit of 70km/h), 50km/h in towns and cities, 30km/h in schoolzones. Driving is on the right hand side of the road. On freeways this means you always have to drive on the right lane, and use the middle or left lane only to pass. Passing someone on the right is forbidden (even on the freeway). Since many Belgians and foreigners like driving in the middle lane, this may cause some problems. 
+Speed limits: 120 km/h on motorways, 90 km/h on main roads, 50 km/h in towns, and 30 km/h in residential zones — the last is widely enforced with cameras.
 
-When driving somewhere, make sure you have prepared your trip. Not only will you need to totally focus on hectic driving, but there are also a lot of intersections you'll have to take and cities are not US-like. Bear in mind when driving you won't see any signs like "I-5 north", but you'll rather see "E19 towards Antwerpen". Here we have another difficult thing: Language. When driving in Flanders, every sign is in Dutch, in Wallonia everything is in French and in Brussels everything is in both the languages. For example, you're somewhere in Flanders near the state border. You want to go to Mons in Walonia. But there aren't any signs! At that point you should know that Mons is translated "Bergen" in Dutch, so follow these signs... So when buying a map, be sure to buy one with both versions of cities on it... 
+Street parking in cities is limited and paid; underground car parks are usually the easier option.
 
-**By Train** 
+## By Bus
 
-If you don’t want to rent a car, or don’t want the hassle of finding an affordable parking place, traveling by train is very convenient. Belgium has an extensive rail net and also excursions to the neighboring countries are quite easy. 
+Buses fill in gaps in smaller towns and rural areas but are slower and less frequent than trains. De Lijn covers Flanders, TEC covers Wallonia, and STIB/MIVB operates Brussels city buses. For intercity travel, stick to trains.
 
-National and international passes like the Benelux Pass, which can be used to travel between Belgium, Holland and Luxembourg, are available at all major train stations. Seat reservations are not available on national trains (except for groups over 15 persons). The main international train station is "Brussel-Zuid / Bruxelles-Midi". There you can connect to the Eurostar (reservations obligated) towards London, Paris and Lille (France); the Thalys (reservations obligated) to Paris, Amsterdam, Köln (Germany) and special Summer/Winter locations; normal IC (intercity) trains towards Amsterdam; Köln and Luxembourg; ICE trains (reservations obligated) towards Frankfurt am Mein (Germany) as well as a lot of national destinations. 
+## By Bike
 
-Buses connecting cities are available but not recommended. 
+Cycling infrastructure in Flanders is genuinely impressive — dedicated lanes, signposted routes, and a flat landscape make it a pleasure. Wallonia is hillier but has routes in the Ardennes for mountain biking. Most train stations have bike hire (Blue-bike scheme), and many cities have rental options.
 
-For more info check the official railroad sites for national and international travel. http://www.b-rail.be 
+## By Tram and Metro
 
-**Hiking** 
-
-Actually it’s not uncommon to walk or bike trough some parts of it. Especially the Southeast is well known hiking territory.
+[Brussels](/europe/belgium/brussels) has an extensive metro, tram, and bus network. [Antwerp](/europe/belgium/antwerp) and [Ghent](/europe/belgium/ghent) are well served by trams. The coast is famously served by the Kusttram — the longest tram line in the world — running 68 km from De Panne near the French border to Knokke near the Dutch.

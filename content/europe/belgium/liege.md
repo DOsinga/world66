@@ -17,4 +17,3 @@ Liège, daughter of the Meuse river. Liège is called 'La cité ardente' (the fi
  If you like local specialties you cannot leave the city without having tasted a sweet 'Gaufre de Liège' (Waffle of Liège). You will find this delicacy at every bakery and even at stands in the street.
 
 
- ***In courtesy of***

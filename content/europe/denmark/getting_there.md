@@ -1,29 +1,12 @@
 ---
-title: "Getting There in Denmark"
+title: "Getting There"
 type: section
 ---
 
-**Easy-to-Use Denmark Getting There Information
-**
+**By air.** Copenhagen Airport (CPH) at Kastrup is the main hub, about 8km south of the city centre and well connected by Metro (around 15 minutes to the centre). Most European capitals have multiple daily flights. From London there are frequent services with SAS, British Airways, and Ryanair among others. Billund Airport in central Jutland handles a good number of European routes and is more convenient if you're heading anywhere other than Copenhagen.
 
-People planning a trip to Denmark should have some basic, **Denmark getting there **information. Denmark transportation facilities are at par with the best in Europe, offering a wide range of options.
+**By train.** Direct trains run from Hamburg to Copenhagen in about four and a half hours, crossing into Denmark via the Jutland line or by ferry connection. Eurostar connections from London require a change (typically via Brussels or Amsterdam), but the journey is doable in a day. DSB (Danske Statsbaner) is the national rail operator and runs frequent intercity services between Copenhagen, Odense, and Aarhus. Rail passes covering Scandinavia are available and worth considering if you plan to travel widely.
 
-#### **Getting to Denmark by Air**
+**By ferry.** Ferry connections are still a practical way to arrive. DFDS runs routes from Oslo to Copenhagen and from various German and Dutch ports. From Germany, the Puttgarden–Rødby crossing on the E47 corridor takes about 45 minutes and runs very frequently — convenient if you're driving through from Central Europe. Ferries from Norway (Kristiansand, Bergen) arrive at Hirtshals in northern Jutland.
 
-The nation&rsquo;s main international airport is located about 8 kilometers from Copenhagen. Regular flights to Denmark are hosted from major cities like London, Los Angeles, New York and Sydney. The second busiest international airport is located at a distance of about 45 kilometers from the outskirts of the city of Aarhus. The distance to Copenhagen from either of these airports can be easily covered in cabs available throughout the day. The scheduled services from Copenhagen serve as the major linking point to all major cities in Denmark.
-
-#### **Reaching Denmark Cities by Air**
-
-Regional airports in Denmark act as connecting points. These airports are located at Esbjerg, Billund and Aalborg. Most of the internal flights take less than 30 minutes to reach any of the prominent destinations in Denmark. These airports regularly receive charter flights from the Scandinavian nations and some from the U.K. Domestic airlines like SAS and Sterling Airlines provide services along the connecting routes.
-
-#### **Reaching Denmark by Road**
-
-Denmark is accessible via road from some of the neighboring European nations like Sweden and Germany. Copenhagen has a network of international road links that extend to Germany.
-
-**Reaching Denmark by Water**
-
-Denmark has a vast network of waterways with numerous tunnels, bridges and ports supporting fast movement of ferries. Most of the connecting ports are linked to the Jutland Peninsula. Popular islands in Denmark, such as the Faroe Islands, are connected by regularly scheduled ferry services. Ferry services are regularly run between Denmark and neighboring nations like Norway, Sweden, Germany, Iceland, United Kingdom and Poland. In terms of water transport facilities, the most recommended ports are located at Esbjerg, Frederikshavn and Copenhagen. Apart from the ferry service, visitors can also choose international cruise liners that operate along the mentioned routes.
-
-#### **Reaching Denmark by Rail**
-
-Copenhagen has the best rail network system in Denmark. It is connected to many European cities including London, Berlin and Hamburg. After reaching Copenhagen, passengers can choose from a host of connecting rails run by the national provider, Danish State Railways, to most Danish cities. People traveling in Denmark by rail should buy rail passes. These passes represent highly discounted fares along international rail routes.
+**By road.** Denmark is connected by motorway to Germany. From Sweden, the Øresund Bridge links Malmö directly to Copenhagen by road and rail — one of the more satisfying ways to arrive, with good views of the bridge and the city skyline.

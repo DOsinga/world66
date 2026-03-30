@@ -3,39 +3,14 @@ title: "Beaches in Tunisia"
 type: section
 ---
 
-**Tunisia Beaches **
-are a favorite among European travelers because they are a perfect hideaway for rest, relaxation, and a whole new experience of exotic natural beauty.
-Though the smallest country in Africa, Tunisia has a major key role for the tourism business it brings for its breathtaking beaches.
+Tunisia has around 1,300 km of coastline, and the beaches are one of the country's main draws for European visitors. The best stretch from [Tabarka](/africa/tunisia/tabarka) in the northwest all the way around to [Jerba](/africa/tunisia/jerba) in the south.
 
-**Sousse Beach Tunisia**
+**[Hammamet](/africa/tunisia/hammamet)** has one of the longest and most accessible stretches of beach -- around 40 km of fine sand along the Gulf of Hammamet. The downside is the density of resort hotels, but the old medina is a short walk away and the water is genuinely good.
 
-Boujaffar Beach in Sousse has fine sand and clear blue waters and is a popular favorite beach destination for tourists with their families. As you walk
-along the soft sandy stretch, you'll find a row of high-rise hotel towers. You can enjoy some water sports and rent necessary equipment for the
-activities. In the evening, it has cool air and so walking or lying down on benches in the beachfront will prove to be real treat from the day's heat
-from the sun.
+**[Sousse](/africa/tunisia/sousse)** (Boujaffar Beach) is popular with families and package tourists and is backed by the expected row of hotels. The beach is well-maintained and the water sports options are plentiful. Good if you want organised amenities; less good if you want peace.
 
-**Kerkennah Beach Tunisia**
+**Raf Raf**, north of [Bizerte](/africa/tunisia/bizerte), is often cited as the most beautiful beach in Tunisia -- a wide arc of fine white sand with turquoise water and sand dunes at one end. Less developed than the central coast and worth the detour.
 
-Tourists can have the ultimate relaxation on the stunning beaches of Kerkennah where the waters are fresh. Kerkennah is actually a group of small
-islands and buses are available as transport to take visitors there. Apart from the beautiful beaches like Mkaren Khalifa, tourists can visit the House
-of Farhat Hached and ruins of Borj Elhissar. You may like to visit during festival time. The Mermaid Festival is held in summer and the Octopus
-Festival in October.
+**[Tabarka](/africa/tunisia/tabarka)** in the northwest has a different character entirely: rocky inlets, clear water excellent for diving, a Genoese castle on a promontory, and far fewer tourists than the resort belt. The coral and marine life around Tabarka are among the best in the Mediterranean.
 
-**Hammamet Beach Tunisia**
-
-It is a long stretch of smooth white sand of 40 miles and the clear sea located at the Gulf of Hammamet. You can go and enjoy camel riding along the
-shore. Or while taking a walk, you might as well head down to Medina where you can do some shopping and haggle or bargain on items you like.
-
-**Tabarka Beach Tunisia**
-
-Tabarka Beach is one of the most scenic spots there is for those who prefer walking to driving to absorb the beauty. The seaside has miles of white
-sand and clear blue waters. The corals and rugged rocks that are along the mountain that have the Genoese castle overlooking the sea on it provide an
-added natural beauty.
-
-**Raf Raf Beach Tunisia**
-
-Mesmerize yourself with the turquoise waters and feel its thousands of years of clear crystal beauty as you arrive from the road climb. It's the finest
-among Tunisian beaches. With its long stretch of white sand, you can enjoy the beach and at the same time play with the sand dunes along side.
-
-**Contributors**
-December 29, 2009
+**Kerkennah Islands**, reached by ferry from [Sfax](/africa/tunisia/sfax), offer flat, shallow beaches popular with Tunisian families rather than package tourists. Quiet, genuinely local in character, and good for a day or two off the main tourist trail.

@@ -3,8 +3,6 @@ title: "De Panne - Belgian Coast"
 type: location
 ---
 
-Travel Guide
-
 **De Panne is also known as the green pearl of the Belgian Coast because of its four natural reserves.**
 
 **It is resort city on the Belgian coast, but it is different from the rest because it boosts the widest beaches of Belgium and because one third (1/3) of all Belgian dunes (340hectares) can be found in De Panne. **

@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 10,366,179(July 2000 est.)
+Belarus has a population of around 9.4 million (2024 estimate), having declined steadily since independence due to emigration and a low birth rate. The emigration accelerated sharply after the 2020 election crisis, when hundreds of thousands of Belarusians left — many of them young, educated, and politically active.
 
-**Age structure:**
+Belarusians are predominantly East Slavic. The largest minority groups are Russians (around 8%), Poles (around 3%), and Ukrainians. There are smaller Jewish and Roma communities. Poles are concentrated in the Grodno region near the Polish border, and the area retains a distinctly different cultural flavour.
 
-*0-14 years:* 19% (male 982,959; female 942,062)
+The dominant religion is Eastern Orthodox Christianity, with a significant Roman Catholic minority concentrated in the west of the country. Relations between the two communities are generally cordial. Religious observance has increased since independence, and churches — many of them beautifully restored — are central to civic life.
 
-*15-64 years:* 68% (male 3,411,684; female 3,614,453)
+Both Belarusian and Russian are official languages, but Russian dominates in everyday urban life. Belarusian is more widely spoken in rural areas and has experienced a cultural revival among younger, often opposition-minded Belarusians who see the language as a marker of national identity. Speaking even a few words of Belarusian is appreciated, particularly outside the capital.
 
-*65 years and over:* 13% (male 466,929; female 948,632) (July 2000 est.)
+Belarusians tend to be reserved with strangers but warm once acquaintance is established. Hospitality is taken seriously — being invited to someone's home is a genuine honour. The country's traumatic history — the near-total destruction of the Jewish population in World War II, the mass graves at Kuropaty, the disaster at Chernobyl — shapes a collective memory that coexists uneasily with the regime's heavily managed version of the past.
 
-**Population growth rate:** -0.17% (2000 est.)
-
-**Birth rate:** 9.27 births/1 000 population (2000 est.)
-
-**Death rate:** 13.96 deaths/1 000 population (2000 est.)
-
-**Net migration rate:** 3.01 migrant(s)/1 000 population (2000 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.94 male(s)/female
-
-*65 years and over:* 0.49 male(s)/female (2000 est.)
-
-**Infant mortality rate:** 14.63 deaths/1 000 live births (2000 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 68 years
-
-*male:* 61.83 years
-
-*female:* 74.48 years (2000 est.)
-
-**Total fertility rate:** 1.25 children born/woman (2000 est.)
-
-**Nationality:**
-
-*noun:* Belarusian(s)
-
-*adjective:* Belarusian
-
-**Ethnic groups:** Byelorussian 77.9% Russian 13.2% Polish 4.1% Ukrainian 2.9% other 1.9%
-
-**Religions:** Eastern Orthodox 80% other (including Roman Catholic Protestant Jewish and Muslim) 20% (1997 est.)
-
-**Languages:** Byelorussian Russian other
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 98%
-
-*male:* 99%
-
-*female:* 97% (1989 est.)
+The 2020 presidential election and its aftermath fractured society. Many Belarusians opposed Lukashenko's claimed victory and participated in mass protests; many others, particularly older and rural populations, either supported the regime or kept their heads down. Those divisions remain raw.

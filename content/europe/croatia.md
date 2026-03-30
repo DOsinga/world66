@@ -1,17 +1,16 @@
 ---
 title: "Croatia"
 type: location
-latitude: 45.365844
-longitude: 15.657521
+latitude: 45.1
+longitude: 15.2
 ---
 
-Croatia is a beautiful small country situated on the Adriatic coast. It is known as the country of a thousand islands. If you have ever dreamt about being on a small island alone with someone, this is the place for you. If you are a nature lover, Croatia offers: camping, mountain hiking/biking, spelunking, rafting, scuba diving and skydiving. Besides its natural beauty, it also offers: a unique history, a unique mixture of cuisines, many internationally recognized hotels and helpful individuals.
+Croatia stretches along the eastern Adriatic coast, offering one of Europe's most varied travel experiences within a small country: a walled medieval city at Dubrovnik, over a thousand islands ranging from tiny rocky outcrops to substantial inhabited places, Roman ruins repurposed as living neighbourhoods in Split, UNESCO-listed national parks, and an Istrian peninsula with its own distinct Italian-inflected culture.
 
+It's been one of Europe's most popular summer destinations since the 1990s, and the crowds are real — particularly in Dubrovnik in July and August. Come in May, June, or September and you'll find the same beauty with considerably less company.
 
- [Zagreb](/europe/croatia/zagreb) is the capital of the country. It may not attract as many visitors as the coastal towns of [Split](/europe/croatia/split) or [Zadar](/europe/croatia/zadar) or [Dubrovnik](/europe/croatia/dubrovnik) but is well worth a visit. There are many museums in town and at night there are lots of things going on.
+[Zagreb](/europe/croatia/zagreb) is the capital, a proper Central European city with museums, café culture, and a good street food scene. Most visitors skip it in favour of the coast, but it rewards a couple of days. The Dalmatian coast runs from Zadar south through [Split](/europe/croatia/split), [Makarska](/europe/croatia/makarska), and down to [Dubrovnik](/europe/croatia/dubrovnik) — each with its own character. Offshore, [Hvar](/europe/croatia/hvar), [Korčula](/europe/croatia/korcula), [Brač](/europe/croatia/brac), and [Vis](/europe/croatia/island_vis) are the most visited islands, though the Kornati archipelago and the quieter northern islands reward exploration.
 
+Inland, [Plitvice Lakes National Park](/europe/croatia/plitvice) is Croatia's most famous natural attraction — terraced lakes and waterfalls in a forested canyon, and deservedly popular. Istria in the northwest is known for hilltop medieval towns like Motovun, excellent truffles and olive oil, and the Roman amphitheatre in [Pula](/europe/croatia/pula).
 
- The Croation coast is among the most beautiful in the world. It has unique cities like [Split](/europe/croatia/split) with its palace of Diocletian or [Dubrovnik](/europe/croatia/dubrovnik) which was the rival of Venice for centuries, great almost deserted beaches and more than 1001 islands to choose from.
-
-
- [Plitvice](/europe/croatia/plitvice) is Croatia's most famous National Park. It has many lakes and waterfalls and is ideal for hiking or trekking.
+Croatia adopted the euro in 2023 and joined the Schengen Area. The country is safe, well-organised for tourism, and increasingly expensive, particularly in peak season.

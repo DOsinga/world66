@@ -3,42 +3,26 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-The national airline is *Sabena (SN)*.
+Brussels Airport (BRU) in Zaventem, 13 km northeast of the city, is Belgium's main international gateway. A direct train runs from the airport to Brussels-Midi, Brussels-Central, and Brussels-Nord every 15-20 minutes; the journey takes about 20 minutes. Taxis to the city centre cost around €45-50.
 
-For free advice on air travel from the UK call the *Air Travel Advisory Bureau* in the UK on (0171) 636 5000 (London) *or* (0161) 832 2000 (Manchester).
+Charleroi Airport (CRL), 55 km south of Brussels, is used primarily by budget carriers including Ryanair. Buses connect it to Brussels-Midi (about 1 hour). Don't confuse the two airports when booking.
 
-Approximate flight times
+## By Train
 
-From *London* to Brussels is 55 minutes and to Antwerp is 50 minutes. From *Los Angeles* to Brussels is 16 hours. From *New York *to Brussels is 10 hours.
+Train is the most comfortable and often fastest way into Belgium from neighbouring countries.
 
-International airports:
+**From the UK:** Eurostar runs from London St Pancras to Brussels-Midi in around 2 hours. There are typically a dozen or more departures daily. Book ahead for the best fares.
 
-*Brussels Zaventem (BRU)* (Web site: http://www.brusselsairport.be) is 13km (8 miles) northeast of the city (travel time – 35 minutes). Trains to the city depart every 20 minutes (travel time – approximately 15 minutes). Return is from Gare Centrale/Gare du Nord and Gare du Midi. The Airport City Express connects Brussels South with the airport running every 20 minutes between 0600-2400 (journey time – 15-20 minutes). Buses run to and from the city every 45 minutes. Taxis to the city cost approximately BFr1200. Hotel courtesy coaches go to Holiday Inn Novotel and Sofitel. Airport facilities include car parking car hire *(Alamo Avis Budget Europcar InterRent *and *Hertz*) post office (0800-1900) banks (0700-2200) bars restaurants incoming and outgoing duty-free shops selling a wide range of goods (including mini-computers) and conference and business facilities.
+**From France, the Netherlands, Germany:** High-speed Eurostar services (the red trains, formerly Thalys) connect Brussels with Paris (1h22), Amsterdam (1h50), and Cologne (1h50). Regular intercity trains also run from Amsterdam and Cologne. Brussels-Midi is the main hub for all international arrivals.
 
-*Antwerp (ANR)* (Deurne) is 3km (2 miles) east of the city. There is a regular bus service (no. 16) to Central Station. Taxis are available. Airport facilities include an outgoing duty-free shop car hire *(Budget *and *Hertz*)* * bank (0900-1200 and 1330-1900) and bar/restaurant (0700-2300). There is also a regular bus service from Antwerp to *Brussels Airport* which is free to *Sabena* passengers flying Business class or on a Eurobudget fare.
+## By Sea
 
-*Ostend (OST)* (Web site: http://www.ostendairport.be) 5km (3 miles) from the city has car parking facilities car hire foreign exchange a restaurant a bar and a duty-free shop.
+Ferry services still connect Belgium to the UK, though they've become less popular since the Channel Tunnel opened. P&O Ferries runs between Hull and Zeebrugge (overnight crossing). Seasonal services may also operate from Ramsgate or Dover to Ostend or Zeebrugge.
 
-*Liège (LGG)*. There are taxis and a regular bus service to the centre 8km (5 miles) away.
+## By Road
 
-Departure tax:
+Belgium's motorway network connects seamlessly with France, the Netherlands, Luxembourg, and Germany. The E40 runs from Calais through Ghent and Brussels to Cologne; the E19 connects Paris with Antwerp and Amsterdam. All motorways in Belgium are free of charge — no tolls.
 
-None.
-
-Sea
-
-Antwerp is one of Europe's busiest commercial ports but cross-Channel services generally operate out of Ostend or Zeebrugge. *Hoverspeed:* Dover–Ostend (travel time – 2 hours);* North Sea Ferries: *Hull–Zeebrugge.
-
-Rail
-
-There are good rail links with the rest of Europe. See *Travel – Internal* section for information on budget travel.
-
-Eurostar:
-
-There are nine daily connections from London Waterloo to Brussels Midi. For further information and reservations tel: (0990) 186 186.
-
-Road
-
-Excellent road links of all categories with neighbouring countries. See *Travel – Internal *section for information on documentation and traffic regulations.
+Driving into Belgium from any EU/Schengen country involves no border formalities.

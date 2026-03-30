@@ -1,30 +1,16 @@
 ---
-title: "Sights"
+title: 'Sights'
 type: section
 ---
 
-The Mekong River lies to the south of the town and Mount Phousi affords a dramatic view of the entire area. The Royal Palace, the National Museum and the countless pagodas offer the visitor a wealth of site-seeing opportunities.  
+Luang Prabang's old town is compact enough to explore on foot, with temples, museums, and viewpoints within easy walking distance.
 
-**Sights**
+**Royal Palace Museum (Haw Kham)** was the royal residence until 1975 and now houses the royal throne, religious treasures, and the sacred Phra Bang Buddha image. It sits on the banks of the Mekong facing Mount Phousi. Dress modestly -- no shorts or sleeveless tops. Open Monday to Friday, 8am to 11.30am and 1.30pm to 4pm.
 
-**National Museum/ Royal Palace Museum**
+**Wat Xieng Thong** is the most beautiful temple in Luang Prabang and one of the finest in Southeast Asia. Built in 1560 by King Setthathirath, it features sweeping tiered roofs in the classic Luang Prabang style and exquisite glass mosaic panels on the rear wall depicting the tree of life. The temple complex includes several chapels and a royal funeral carriage house.
 
-The National Museum used to be the Royal Palace (Haw Kham) before. It houses Royal throne of Lan Xang kingdom in its original splendour, and many other religious treasures. It is located on the bank of the Mekong River, facing Mount Phusi. Admission: 1100 Kip. Please wear decent clothes.
+**Mount Phousi** rises in the center of the old town peninsula. Climb the 300-plus steps for a panoramic view of the town, the Mekong, the Nam Khan, and the surrounding mountains. Sunset draws crowds, so arrive early for a good spot. A gilded stupa sits at the summit.
 
-openinghours: Mon-Fri 8.30 am - 10.30 am
+**Wat Mai** was built in 1821 and served as the residence of the Buddhist patriarch. The five-tiered roof is classic Luang Prabang style, and the gilded bas-relief on the front veranda is particularly fine.
 
-**Wat Xiengthong (Golden City Temple)**
-
-Situated on the bank of the Mekong River Wat Xiengthong was constructed in 1559/1560 A.D. by king Say Setthathirath. Is is probably the most beautiful monastery of Luang Prabang and represents the typical Lao art style. Many old and beautiful religious artifacts of the period between the sixteent [more..](/asia/laos/luangprabang/sights/watxiengthonggoldencitytemple)
-
-**Wat Mai**
-
-The temple was built in 1821 A.D., during the reign of king Manthatourath. It was once the residence of the Patriach of the Buddhist clergy. The five-tiered roof of the wooden Sim is the traditional Luang Prabang style.  
-
-**Lu village (Baan Lu) **
-
-Lu village is located only 3 km from the centre of Luang Prabang. It is famous for cotton and silk weaving, and some beautifully hand-crafted souvenirs. The Lu people of Ban Phanom came originally from Sip Song Panna in the southern Chinese province of Yunnan.
-
-**Wat Visoun (Wat Wisunalat) **
-
-The temple was constructed during the reign of King Visounarat around 1520. The phrabang, the fine gold Buddha image, the religious symbol of the Kingdom, was enshrined here from 1504 to 1715 A.D., and from 1866 to 1874 A.D. In 1942, it was turned into a Museum of Religious Arts, and housed coll [more..](/asia/laos/luangprabang/sights/watvisounwatwisunalat)
+**Wat Visoun** is the oldest active temple in town, originally built in 1513. It houses a museum of religious art with an interesting collection of wooden Calling for Rain Buddhas. The adjacent That Makmo stupa is known locally as the 'watermelon stupa' for its rounded shape.

@@ -3,14 +3,22 @@ title: "Practical Information"
 type: section
 ---
 
-Money is the Kuwaiti "Dinar",KD,and is equivalent to about $3US. Check the current conversation rate for an exact figure. Coins are "fils" where 1000 fils equals 1KD. Kuwait it a very wealthy society, clean and modern with a mix of cultures and people. 
+**Currency**: The Kuwaiti Dinar (KWD) is the world's highest-valued currency. One dinar is worth roughly $3.25 USD. It is divided into 1,000 fils. ATMs are everywhere and credit cards are widely accepted. Money changers in the souks and malls offer competitive rates for all major currencies.
 
-Kuwait is a Muslim society and follows Muslim law based on Islamic religion as set forth in The Quran, but the Christian religion is accepted and free to practice. Observance of the Muslim holiday, The Holy Month of Ramadan, must be followed, when eating, drinking, and smoking in public are strictly prohibited until after sunset. Failure to comply can result in fines and jail time. Pork, pornography, alcohol and drugs are also illegal and heavily enforced. 
+**Language**: Arabic is the official language, but English is widely spoken, especially in shops, restaurants, and hotels. Most signs are posted in both Arabic and English.
 
-Many Kuwaiti women are "covered" (wearing an abia and hijab, a black "robe" from head to toe-men wear white "robes") and therefore all women should dress conservatively avoiding short skirts, shorts or sleeveless clothes. Some western men do wear shorts, but it is not recommended. Women should also avoid staring or smiling at Arab men, since this is a showing of interest and will be taken as such. On the upside, crime is low and women are safe to walk about without fear. Many travel books warn of "harrassemnt" toward women, but this is misleading. Arab men may show an interest in talking to or dating a western woman, especially blondes, but ignoring any such interest will quickly give them the message. 
+**Religion and customs**: Kuwait is a Muslim country and visitors should respect local customs. During Ramadan, eating, drinking, and smoking in public during daylight hours is strictly prohibited -- violations can result in fines or detention. Women should dress modestly, avoiding short skirts, shorts, and sleeveless tops. While Kuwaiti women often wear the abaya and hijab, Western women are not expected to cover their hair, but conservative clothing is appreciated. Avoid pointing the soles of your shoes at anyone, and do not photograph people without permission, especially women.
 
-Take care when sitting to never let the sole of your shoe face directly at another person since this is a sign of insult and avoid taking photographs of Kuwaiti people without permission, especially women. 
+**Alcohol**: Completely illegal. You cannot buy, sell, import, or consume alcohol anywhere in Kuwait. This is strictly enforced.
 
-Kuwait has long, hot, dry summers and shorter, somtimes wet winters. Temperatures easily reach in the 100 F during summer and most shops close down midday year round (12:30-4:30). The weekend is Thursday and Friday. Friday being the holy day equivalent to the Christain Sunday and many stores are closed until evening. It is best to check hours of operation before venturing out. 
+**Safety**: Kuwait is one of the safest countries in the Middle East. Violent crime is rare and the streets are safe to walk at night. The main danger is the traffic -- Kuwaiti roads have a high accident rate. Old minefields from the 1990 Gulf War have been cleared, but stick to marked paths if you venture into the desert.
 
-Arabic is the official language although English is widely understood and most larger signs are posted in English and Arabic. The Arab Times publishes a newspaper in English and the "What's On" page provides a good source for local events.
+**Weekend**: Friday and Saturday. Friday is the holy day, and many shops are closed until the evening. Government offices and banks are closed on both days.
+
+**Electricity**: 240V, British-style three-pin plugs (Type G).
+
+**Phone and internet**: The country code is +965. Mobile coverage is excellent and free Wi-Fi is available in most hotels, cafes, and malls.
+
+**Time zone**: GMT+3, year round. There is no daylight saving time.
+
+**Health**: No special vaccinations are required. Tap water is safe to drink (it is desalinated) but most people drink bottled water. The summer heat is the biggest health risk -- stay hydrated and avoid prolonged sun exposure from May to September.

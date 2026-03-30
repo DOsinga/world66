@@ -6,20 +6,20 @@ This document describes the standard structure for a well-maintained city page. 
 
 ## Standard section structure
 
-Every city should have the same sections in the same order. The `order` frontmatter field controls sidebar position; sections without `order` sort alphabetically after the ordered ones.
+Every city should have the same sections in the same order. Ordering is controlled by the `SECTION_ORDER` dict in `guide/models.py` — no `order` field needed in the `.md` files.
 
-| Slug | Title | order | Notes |
-|------|-------|-------|-------|
-| `day_guides` | Curated Itineraries | 1 | Blog-sourced itineraries |
-| `things_to_do` | Things to Do | 2 | Sights + museums merged, with category filters |
-| `eating_out` | Eating Out | 3 | |
-| `bars_and_cafes` | Bars and Cafes | 4 | Covers bars, cafes, and nightlife |
-| `shopping` | Shopping | 7 | Only if there is real content |
-| `day_trips` | Day Trips | 8 | |
-| `beaches` | Beaches | 9 | Only where relevant (coastal cities) |
-| `when_to_go` | When to Go | 10 | |
-| `getting_there` | Getting There | 11 | |
-| `getting_around` | Getting Around | 12 | |
+| Slug | Title | Notes |
+|------|-------|-------|
+| `day_guides` | Curated Itineraries | Blog-sourced itineraries |
+| `things_to_do` | Things to Do | Sights + museums merged, with category filters |
+| `eating_out` | Eating Out | |
+| `bars_and_cafes` | Bars and Cafes | Covers bars, cafes, and nightlife |
+| `shopping` | Shopping | Only if there is real content |
+| `day_trips` | Day Trips | |
+| `beaches` | Beaches | Only where relevant (coastal cities) |
+| `when_to_go` | When to Go | |
+| `getting_there` | Getting There | |
+| `getting_around` | Getting Around | |
 
 **Do not use separate `sights` and `museums` sections.** Consolidate everything into `things_to_do` with category filters. If a city has existing `sights/` and `museums/` directories, migrate them (see below).
 
@@ -79,7 +79,6 @@ All sights, museums, galleries, and notable neighbourhoods go in a single `thing
 ---
 title: "Things to Do"
 type: section
-order: 2
 ---
 
 Brief intro paragraph about what to see and do in the city.
@@ -231,7 +230,6 @@ Day trip destinations should be real locations in the hierarchy, not POIs buried
 ---
 title: "Day Trips"
 type: section
-order: 8
 linked_locations:
   - europe/italy/lazio/frascati
   - europe/italy/lazio/ostiaantica
@@ -262,15 +260,15 @@ Delete any old POI files in `day_trips/` and add redirects pointing to the real 
 ```
 city/
   city.md                   # location file
-  day_guides.md             # Curated Itineraries, order: 1
-  things_to_do.md           # Things to Do, order: 2
-  eating_out.md             # Eating Out, order: 3
-  bars_and_cafes.md         # Bars and Cafes, order: 4
-  shopping.md               # Shopping, order: 7 (if applicable)
-  day_trips.md              # Day Trips, order: 8
-  when_to_go.md             # When to Go, order: 10
-  getting_there.md          # Getting There, order: 11
-  getting_around.md         # Getting Around, order: 12
+  day_guides.md             # Curated Itineraries
+  things_to_do.md           # Things to Do
+  eating_out.md             # Eating Out
+  bars_and_cafes.md         # Bars and Cafes
+  shopping.md               # Shopping (if applicable)
+  day_trips.md              # Day Trips
+  when_to_go.md             # When to Go
+  getting_there.md          # Getting There
+  getting_around.md         # Getting Around
   day_guides/               # guide entry POIs (one per itinerary)
   things_to_do/             # all sights/museums/galleries/neighbourhoods with category fields
   eating_out/               # restaurant POIs

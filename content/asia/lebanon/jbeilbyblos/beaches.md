@@ -1,10 +1,10 @@
 ---
-title: "Beaches in Jbeil"
+title: "Beaches"
 type: section
 ---
 
-Lebanon has amazing beaches along the shore from the north (Jbeil) till the south (Rmeilleh).
-The advantage of theses beaches is that even in winter you can go eat at the restaurants and enjoy the wonderfull view of the sunset.
+The coast around Byblos has several beach spots, though the shoreline is mostly rocky rather than sandy. The main appeal is the combination of swimming with spectacular sunset views over the Mediterranean.
 
-**Contributors**
-September 15, 2006
+Several beach clubs and waterfront restaurants operate along the coast north and south of the old town, offering sun loungers, pools and food. In summer these get busy, especially on weekends. Even in cooler months, the seaside restaurants make a pleasant spot for lunch with a view.
+
+For sandy beaches, you are better off heading south to [Tyre](/asia/lebanon/tyre) or north toward Batroun. But for a swim after exploring the ruins and the old harbour, the rocky coves near Byblos are perfectly fine.

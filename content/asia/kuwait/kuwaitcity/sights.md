@@ -3,28 +3,18 @@ title: "Sights"
 type: section
 ---
 
-**Sights**
+**Kuwait Towers** -- The country's most iconic landmark. Three blue-and-green striped towers on a promontory overlooking the Gulf. The main tower has a revolving observation deck and restaurant with panoramic views. [More...](/asia/kuwait/kuwaitcity/sights/kuwaittowers)
 
-**Kuwait Towers**
+**National Museum** -- Four buildings and a planetarium housing the As-Sabah collection of Islamic Art, one of the most comprehensive in the world, plus pearl-diving relics and archaeological finds from Failaka Island. Badly damaged during the Iraqi occupation but now largely restored. [More...](/asia/kuwait/kuwaitcity/sights/nationalmuseum)
 
-The Kuwait Towers have become the most famous landmark in the country. These three unique towers have a dual function as both entertainment facilities and water reservoirs. The upper sphere of the main tower has a revolving observation deck with a cafeteria that gives the visitor a full panoramic [more..](/asia/kuwait/kuwaitcity/sights/kuwaittowers)
+**Sadu House** -- A fine example of a pre-oil era house near the National Museum. It exhibits Bedouin textiles including camel bags, tent dividers, carpets, and cushions, and hosts weaving demonstrations. [More...](/asia/kuwait/kuwaitcity/sights/saduhouse)
 
-**Sadhu House**
+**Bayt Al-Badr** -- An old merchant's house next to Sadu House, built between 1838 and 1848. It has a beautiful example of the carved front doors that were once a feature of old Kuwait, and occasionally hosts handicraft exhibitions. [More...](/asia/kuwait/kuwaitcity/sights/baytalbadr)
 
-Located near the National Museum on the Seif, Sadu House (the House of Weaving ) is a fine example of a pre-oil era house. It exhibits Bedouin camel bags and decorations, tent dividers, carpets and cushions. 
+**Grand Mosque** -- One of the largest mosques in the world, with stunning architecture and beautifully maintained gardens. Free guided tours are available and provide a genuine introduction to Islamic worship and culture.
 
-**lion's gate**
+**Seif Palace** -- Built in 1896 with original Islamic mosaic tilework and a distinctive gold-tiled roof. The official seat of the Emir. Visible from the outside; the interior suffered badly during the Iraqi occupation.
 
-The first wall around the City was built in the 1760s, the second in 1814, and the last in 1920. This was demolished in 1957 but its five gates were left standing as monuments to the past. These are Maqsab Gate ( by the Seif down from the Sheraton Hotel) Jahra Gate (inside the roundabout at the b [more..](/asia/kuwait/kuwaitcity/sights/oldcitywallgates)
+**Kuwait Zoological Garden** -- In Omariya, this well-landscaped zoo was rebuilt after the war and reopened in 1993. A pleasant outing for families, with a focus on education and conservation as much as entertainment.
 
-**National Museum**
-
-Located near the National Assembly on the Seif, the National Museum comprises four buildings and planetarium. It houses the As-Sabah collection of Islamic Art, one of the most comprehensive in the world. Other buildings house pearl-diving relics, ethnographical artefacts and archaeological materi [more..](/asia/kuwait/kuwaitcity/sights/nationalmuseum)
-
-**Bayt Al-Badr**
-
-An old house located next to As-Sadu house, Bayt Al-Badr was built between 1838 and 1848 with a good example of the famous front doors of old Kuwait, exhibitions of local handicrafts are sometimes displayed there.   There are several other old pre-oil houses along the Seif which have been renov [more..](/asia/kuwait/kuwaitcity/sights/baytalbadr)
-
-**Kuwait Zoological Garden **
-
-Located in Omariya, the meticusly landscapped zoological garden was reopened on February 18, 1993 after two years of massive reconstruction and restocking. A delight to both adults and children, this place is not only for watching the animals, but is a center for education, preservation and propa [more..](/asia/kuwait/kuwaitcity/sights/kuwaitzoologicalgarden)
+**Liberation Tower** -- At 372 metres, the fifth tallest telecommunications tower in the world. Built to celebrate Kuwait's liberation from Iraqi occupation. The ceramic-tiled base is impressive from street level.

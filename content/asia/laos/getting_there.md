@@ -1,18 +1,18 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**Points of Interest**
+**By air.** Wattay International Airport in [Vientiane](/asia/laos/vientiane) is the main gateway, with direct flights from Bangkok, Hanoi, Ho Chi Minh City, Kuala Lumpur, Seoul, and several Chinese cities. Luang Prabang International Airport also handles flights from Bangkok, Chiang Mai, Hanoi, and Siem Reap. Lao Airlines is the national carrier. Budget airlines including AirAsia and Vietnam Airlines serve both airports.
 
-**By train**
+**By rail.** The Laos-China Railway connects Vientiane to Kunming in China via Luang Prabang and Boten, with a direct daily service taking around 9 hours. This is now one of the most scenic and practical ways to enter Laos from the north. On the Thai side, trains run from Bangkok to Nong Khai, from where you cross the Friendship Bridge into Vientiane.
 
-There are no railways in Laos but the Thai system stretches from Bangkok via Nakhon Ratchasima to Nong Khai on the Laos/Thailand border. A ferry and a bridge links the Lao side of the Mekong 19km (12 miles) east of Vientiane.   [more..](/asia/laos/gettingthere/bytrain)
+**By road from Thailand.** The most popular land crossing is the Friendship Bridge between Nong Khai (Thailand) and Vientiane. Other crossings include Chiang Khong to [Huay Xai](/asia/laos/houeixay) in the north, Mukdahan to [Savannakhet](/asia/laos/savannakhet), and Chong Mek to [Pakse](/asia/laos/pakse). All are straightforward with visa on arrival available.
 
-** By road**
+**By road from Vietnam.** Several border crossings link Laos and Vietnam. The busiest are Na Meo/Nam Xoi (to Sam Neua), Nam Can/Nong Het (to Phonsavan), Cau Treo/Nam Phao (to the central corridor), and Lao Bao/Dansavanh (to Savannakhet). International buses run from Hanoi and several Vietnamese cities.
 
-It is possible to enter Laos from Thailand at Nong Khai over the Friendship Bridge. Other border crossings include Chiang Kong (Thailand) – Houei Xay (Laos) in the north Mukdahan (Thailand) – Savannakhet (Laos) and Chong Mek (between Pakse and Ubon Ratchathani). It is possible to enter Laos by road from Vietnam either at Lao Bao or at the new border post of Lak Xao near Vinh. Laos can also be entered from China. Overland travel to Cambodia is not feasible owing to security risks.   [more..](/asia/laos/gettingthere/byroad)
+**By road from Cambodia.** The crossing at Dong Kralor/Veun Kham connects southern Laos (Si Phan Don area) with Stung Treng in Cambodia. International buses link Pakse with Phnom Penh and Siem Reap.
 
-**By air**
+**By road from China.** The Boten border crossing in the far north connects to Mohan in Yunnan province. The Laos-China Railway also crosses here.
 
-The national airline of Laos is Lao Aviation (QV) which serves the international routes from Vientiane to Hanoi (Vietnam) Bangkok Phnom Penh (Cambodia) Chiang Mai (Thailand) Kunming (China) and Ho Chi Minh City (Vietnam). Thai International flies from Bangkok Vietnam Airlines flies from Hanoi and Royal Air Cambodge flies from Phnom Pen.    [more..](/asia/laos/gettingthere/byair)
+**By boat.** The classic two-day slow boat from Huay Xai to Luang Prabang on the Mekong remains popular, stopping overnight in Pak Beng. Faster speedboats also run this route but are noisy, uncomfortable, and not recommended.

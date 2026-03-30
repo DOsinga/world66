@@ -1,8 +1,8 @@
 ---
-title: "Nam Ngum Dam"
+title: 'Nam Ngum Dam'
 type: poi
 latitude: 18.530606
 longitude: 102.547621
 ---
 
-The dam and its turbines, about 90 kilometres from Vientiane, direction Luang Prabang, generate electricity for much of the country. The area is very picturesque. Hundreds of islets are scattered all over the lake. In some places enormous tree trunks jut out of the water. Boat tours on the lake are a favourite pastime. Take an early bus from the Morning Market, you can hire a motorcycle to get there but it is not recommended since it is quite far and your body will be in pain from the trip.
+The Nam Ngum reservoir, about 90 kilometres north of Vientiane on the road toward Luang Prabang, is a large artificial lake created by one of Laos's main hydroelectric dams. The scenery is attractive, with hundreds of small islands dotting the lake and drowned tree trunks jutting from the water. Boat tours are available and make for a pleasant day out. Take an early bus from Vientiane's bus station.

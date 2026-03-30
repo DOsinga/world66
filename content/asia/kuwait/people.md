@@ -3,76 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 1 913 285 (July 1998 est.)
+Kuwait has one of the most unusual demographic profiles in the world. Only about 30% of the population of roughly 4.5 million are Kuwaiti nationals. The rest are expatriate workers -- Indians, Egyptians, Filipinos, Bangladeshis, Pakistanis, and other Arabs -- who form the backbone of the country's service economy, construction industry, and domestic workforce.
 
-*note:* includes 1 168 185 non-nationals (July 1998 est.)
+Kuwaiti society is tribal and family-oriented. Extended families are close-knit, and the diwaniya -- a regular social gathering, traditionally held in a separate reception room in Kuwaiti homes -- remains central to social and political life. Men gather to discuss business, politics, and community affairs over tea and coffee. It is a uniquely Kuwaiti institution and one that visitors occasionally get invited to.
 
-**Age structure:**
+The country is predominantly Muslim, split roughly between Sunni and Shia communities. Kuwait is more tolerant than some of its neighbours -- there are established Christian churches, and Hindu and Sikh communities worship freely. Women have had the right to vote since 2005 and are increasingly present in business and government, though society remains conservative by Western standards.
 
-*0-14 years:* 32% (male 338 933; female 279 087)
+Arabic is the official language, but English is so widely spoken that you can get by easily without any Arabic. That said, learning a few phrases -- *marhaba* (hello), *shukran* (thank you) -- goes a long way and is appreciated.
 
-*15-64 years:* 66% (male 811 713; female 444 679)
+Kuwaitis are known for their hospitality. If you are invited into a home, expect to be overwhelmed with food and tea. It is polite to accept at least one cup of the cardamom-scented Arabic coffee that will be offered repeatedly. The pace of life is relaxed, conversations are unhurried, and generosity is a point of pride.
 
-*65 years and over:* 2% (male 23 642; female 15 231) (July 1998 est.)
-
-**Population growth rate:** 4.1% (1998 est.)
-
-*note:* this rate reflects the continued post-Gulf crisis return of expatriates
-
-**Birth rate:** 20.97 births/1 000 population (1998 est.)
-
-**Death rate:** 2.29 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 22.31 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.21 male(s)/female
-
-*15-64 years:* 1.82 male(s)/female
-
-*65 years and over:* 1.55 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 10.74 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.78 years
-
-*male:* 74.76 years
-
-*female:* 78.91 years (1998 est.)
-
-**Total fertility rate:** 3.44 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Kuwaiti(s)
-
-*adjective:* Kuwaiti
-
-**Ethnic groups:** Kuwaiti 45% other Arab 35% South Asian 9% Iranian 4% other 7%
-
-**Religions:** Muslim 85% (Sunni 45% Shi'a 40%) Christian Hindu Parsi and other 15%
-
-**Languages:** Arabic (official) English widely spoken
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 78.6%
-
-*male:* 82.2%
-
-*female:* 74.9% (1995 est.)
-
- 
-
-**Points of Interest**
-
-**more info**
-
-I was in kuwait with the US military and I talk about the beduions that were around and I want people to see there lifestyle. I noticed that alot of them lived very poor even though they have nice cars and probley very nice things in there tents, where they live. I would like to see more about th [more..](/asia/kuwait/people/moreinfo)
+The Bedouin heritage is still visible in Kuwait, particularly in the desert areas outside the city, where some families maintain traditional camps and keep camels and falcons. The annual camel racing season is a fascinating window into this older way of life.

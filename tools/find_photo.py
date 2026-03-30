@@ -2,14 +2,18 @@
 """
 Find and assign copyright-free photos to World66 content pages.
 
-Searches Wikimedia Commons, Unsplash, Pexels, and Pixabay for landscape
-photos, uses Gemini Vision to pick the best match, and saves it next to
-the markdown file with frontmatter updates.
+Searches Wikimedia Commons and Flickr for landscape photos, uses an AI CLI
+tool to pick the best match, and saves it next to the markdown file with
+frontmatter updates.
+
+Supports Gemini CLI, OpenAI Codex CLI, and Cline CLI. Auto-detects which
+is installed, or use --cli to force one.
 
 Usage:
     python tools/find_photo.py /europe/netherlands/amsterdam
     python tools/find_photo.py --batch --type location
     python tools/find_photo.py --batch --dry-run
+    python tools/find_photo.py --cli codex /europe/france/paris
 """
 
 import argparse
@@ -17,7 +21,10 @@ import io
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -242,7 +249,87 @@ def search_flickr(query: str) -> list[Candidate]:
 
 
 # ---------------------------------------------------------------------------
-# Thumbnail creation and Gemini evaluation
+# AI CLI adapters for image classification
+# ---------------------------------------------------------------------------
+
+class CLIAdapter:
+    """Base for AI CLI adapters that classify images."""
+
+    name: str
+
+    def run(self, prompt: str, image_paths: list[Path]) -> str:
+        """Send prompt + images to CLI, return text response."""
+        raise NotImplementedError
+
+
+class GeminiAdapter(CLIAdapter):
+    """Gemini CLI — uses Google OAuth, no API key needed."""
+
+    name = 'gemini'
+
+    def run(self, prompt: str, image_paths: list[Path]) -> str:
+        file_refs = ' '.join(f'@{p}' for p in image_paths)
+        result = subprocess.run(
+            ['gemini', '-p', f'{prompt} {file_refs}'],
+            capture_output=True, text=True, timeout=120
+        )
+        if result.returncode != 0:
+            raise RuntimeError(f'gemini failed: {result.stderr}')
+        return result.stdout.strip()
+
+
+class CodexAdapter(CLIAdapter):
+    """OpenAI Codex CLI — uses OpenAI login."""
+
+    name = 'codex'
+
+    def run(self, prompt: str, image_paths: list[Path]) -> str:
+        cmd = ['codex', 'exec', '--full-auto']
+        for p in image_paths:
+            cmd.extend(['-i', str(p)])
+        cmd.append(prompt)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        if result.returncode != 0:
+            raise RuntimeError(f'codex failed: {result.stderr}')
+        return result.stdout.strip()
+
+
+class ClineAdapter(CLIAdapter):
+    """Cline CLI — configurable model provider."""
+
+    name = 'cline'
+
+    def run(self, prompt: str, image_paths: list[Path]) -> str:
+        cmd = ['cline', '-y']
+        for p in image_paths:
+            cmd.extend(['-i', str(p)])
+        cmd.append(prompt)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        if result.returncode != 0:
+            raise RuntimeError(f'cline failed: {result.stderr}')
+        return result.stdout.strip()
+
+
+CLI_ADAPTERS = [GeminiAdapter, CodexAdapter, ClineAdapter]
+
+
+def get_cli_adapter(force: str = None) -> CLIAdapter:
+    """Detect available CLI or use forced choice."""
+    if force:
+        for cls in CLI_ADAPTERS:
+            if cls.name == force:
+                if not shutil.which(force):
+                    raise RuntimeError(f'{force} is not installed')
+                return cls()
+        raise RuntimeError(f'Unknown CLI: {force}. Choose from: {", ".join(c.name for c in CLI_ADAPTERS)}')
+    for cls in CLI_ADAPTERS:
+        if shutil.which(cls.name):
+            return cls()
+    raise RuntimeError('No supported AI CLI found. Install one of: gemini, codex, cline')
+
+
+# ---------------------------------------------------------------------------
+# Thumbnail creation and image evaluation
 # ---------------------------------------------------------------------------
 
 def download_image(url: str) -> bytes | None:
@@ -270,14 +357,9 @@ def make_thumbnail(image_bytes: bytes) -> bytes | None:
         return None
 
 
-def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_text: str, gemini_key: str) -> int | None:
-    """Use Gemini Vision to pick the best photo. Returns candidate index or None."""
-    from google import genai
-    from google.genai import types
-
-    client = genai.Client(api_key=gemini_key)
-
-    parts = [
+def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_text: str, cli: CLIAdapter) -> int | None:
+    """Use AI CLI to pick the best photo. Returns candidate index or None."""
+    prompt = (
         f'You are selecting the best photo for a travel guide page. '
         f'Below are {len(thumb_data)} candidate photos numbered 0 to {len(thumb_data) - 1}.\n\n'
         f'Page content:\n{page_text[:1000]}\n\n'
@@ -287,35 +369,32 @@ def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_t
         f'3. How well it represents the place to a traveler\n\n'
         f'If NONE of the photos are suitable, respond with just "NONE".\n'
         f'Otherwise respond with just the number (0-{len(thumb_data) - 1}) of the best photo.'
-    ]
+    )
 
-    for i, thumb in enumerate(thumb_data):
-        parts.append(f'\nPhoto {i}:')
-        parts.append(types.Part.from_bytes(data=thumb, mime_type='image/jpeg'))
+    with tempfile.TemporaryDirectory() as tmpdir:
+        image_paths = []
+        for i, data in enumerate(thumb_data):
+            path = Path(tmpdir) / f'photo_{i}.jpg'
+            path.write_bytes(data)
+            image_paths.append(path)
 
-    try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=parts,
-        )
-        answer = response.text.strip()
-
-        if 'NONE' in answer.upper():
+        try:
+            answer = cli.run(prompt, image_paths)
+        except Exception as e:
+            print(f'  {cli.name} evaluation failed: {e}')
             return None
 
-        # Extract first number from response
-        match = re.search(r'\d+', answer)
-        if match:
-            idx = int(match.group())
-            if 0 <= idx < len(thumb_data):
-                return idx
-
-        print(f'  Gemini returned unexpected answer: {answer}')
+    if 'NONE' in answer.upper():
         return None
 
-    except Exception as e:
-        print(f'  Gemini evaluation failed: {e}')
-        return None
+    match = re.search(r'\d+', answer)
+    if match:
+        idx = int(match.group())
+        if 0 <= idx < len(thumb_data):
+            return idx
+
+    print(f'  {cli.name} returned unexpected answer: {answer}')
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -393,7 +472,7 @@ def save_progress(processed: set):
 # Main pipeline
 # ---------------------------------------------------------------------------
 
-def process_page(content_path: str, gemini_key: str, force: bool = False) -> bool:
+def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> bool:
     """Process a single page. Returns True if a photo was saved."""
     md_path = resolve_md_path(content_path)
     if not md_path:
@@ -446,14 +525,14 @@ def process_page(content_path: str, gemini_key: str, force: bool = False) -> boo
         print(f'  No valid thumbnails for: {content_path}')
         return False
 
-    print(f'  Evaluating {len(thumb_data)} candidates with Gemini...')
+    print(f'  Evaluating {len(thumb_data)} candidates with {cli.name}...')
 
-    # Ask Gemini to pick the best
+    # Ask AI to pick the best
     page_text = f'Title: {meta.get("title", "")}\n\n{body[:1500]}'
-    best_idx = pick_best_photo(valid_candidates, thumb_data, page_text, gemini_key)
+    best_idx = pick_best_photo(valid_candidates, thumb_data, page_text, cli)
 
     if best_idx is None:
-        print(f'  Gemini: no suitable photo found')
+        print(f'  {cli.name}: no suitable photo found')
         return False
 
     winner = valid_candidates[best_idx]
@@ -515,19 +594,19 @@ def find_all_pages(page_type: str = 'location') -> list[str]:
 
 
 def main():
+    cli_names = [c.name for c in CLI_ADAPTERS]
     parser = argparse.ArgumentParser(description='Find photos for World66 content pages')
     parser.add_argument('path', nargs='?', help='Content path (e.g., /europe/netherlands/amsterdam)')
-    parser.add_argument('--gemini-key', help='Gemini API key (default: GEMINI_API_KEY env var)')
+    parser.add_argument('--cli', choices=cli_names, help='Force a specific AI CLI (default: auto-detect)')
     parser.add_argument('--batch', action='store_true', help='Process all pages')
     parser.add_argument('--type', default='location', help='Page type filter for batch mode (default: location)')
     parser.add_argument('--force', action='store_true', help='Replace existing images')
     parser.add_argument('--dry-run', action='store_true', help='List pages without processing')
     args = parser.parse_args()
 
-    gemini_key = args.gemini_key or os.environ.get('GEMINI_API_KEY')
-    if not gemini_key:
-        print('Error: Gemini API key required. Set GEMINI_API_KEY or use --gemini-key')
-        sys.exit(1)
+    if not args.dry_run:
+        cli = get_cli_adapter(args.cli)
+        print(f'Using {cli.name} for image classification')
 
     if args.batch:
         pages = find_all_pages(args.type)
@@ -549,7 +628,7 @@ def main():
                     continue
 
                 print(f'\n[{i + 1}/{len(pages)}]')
-                if process_page(content_path, gemini_key, args.force):
+                if process_page(content_path, cli, args.force):
                     success += 1
 
                 processed.add(content_path)
@@ -557,13 +636,13 @@ def main():
                 time.sleep(2)  # rate limit between pages
 
         except KeyboardInterrupt:
-            print(f'\n\nInterrupted. Progress saved.')
+            print('\n\nInterrupted. Progress saved.')
             save_progress(processed)
 
         print(f'\nDone: {success} photos saved, {skipped} skipped (already processed)')
 
     elif args.path:
-        process_page(args.path, gemini_key, args.force)
+        process_page(args.path, cli, args.force)
 
     else:
         parser.print_help()

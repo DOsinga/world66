@@ -1,25 +1,12 @@
 ---
-title: "Museums in Kuwait city"
+title: "Museums"
 type: section
 ---
 
-**Museums of Kuwait City**
+**Kuwait National Museum** -- Inaugurated in 1983, this is the country's most important museum. It was devastated during the Iraqi invasion -- looted and partially burned -- but restoration has been ongoing and several exhibits are now open. The highlight is the As-Sabah collection of Islamic art, one of the most comprehensive in the world. An audio exhibit in English details the Iraqi invasion and the Kuwaiti resistance. Located near the Seif Palace on the waterfront.
 
-Kuwait City is home to several museums dedicated to the preservation and knowledge of Islamic art and history. If you wish to increase your understanding of Kuwait and Islam's deep history visit the Kuwait National Museum and the Tariq Majab Museum.
+**Tareq Rajab Museum** -- A private museum housing over 30,000 artefacts of Islamic art, including ceramics, metalwork, jewellery, costumes, and an exceptional collection of Arabic calligraphy and historical maps. Free admission. This museum survived two invasions and remains one of the best-curated collections in the Gulf.
 
-**Kuwait National Museum**
+**Science and Natural History Museum** -- A good introduction to Kuwait's petroleum industry, with exhibits spanning from the early days of oil exploration to modern extraction. The planetarium offers a galaxy show nightly at 6 PM. Worth a visit for understanding the industry that built the country.
 
-The Kuwait National Museum was inaugurated in 1983 and is home to some of Kuwait's most beautiful artifacts. Sadly, the Kuwait National Museum was mostly destroyed and looted during the Iraq war and subsequent occupation, but fortunately restoration has begun and several exhibits are open to the public. The National Museum also includes an exhibit (with English audio) detailing the Iraqi invasion and the defense by the Kuwait army and allied forces.
-
-**The Tariq Majab Museum**
-
-The Tariq Majab Museum (which does not charge an admission fee) is home to over 30,000 priceless artifacts. This museum has survived 2 invasions and has never given up it's goal of preservation and education of Kuwait's culture. The jewel of the museum is it's Calligraphy wing. Dedicated to the mapping of the Islamic world, it is an in-depth look into the ancient world.
-
-**Science and Natural History Museum**
-
-A visit to the Science and Natural History museum in Kuwait City will give you a good idea of the industry and lifestyle in modern Kuwait. The most notable exhibit is on the petroleum industry (Kuwait's largest industry). The petroleum exhibit contains artifacts and interesting displays from the industry's beginning to present. The Science and Natural History Museum also has a Planetarium that includes a galaxy show every night at 6 p.m.
-
-**Contributors**
-February 02, 2010
-
-January 30, 2010
+**Al Shaheed Park Museums** -- The park houses two small but well-designed museums: the Habitat Museum (focused on Kuwait's natural environment) and the Memorial Museum (covering the country's history and liberation). Both are free and air-conditioned, making them a welcome respite on hot days.

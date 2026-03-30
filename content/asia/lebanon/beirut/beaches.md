@@ -1,31 +1,14 @@
 ---
-title: "Beaches in Beirut"
+title: "Beaches"
 type: section
 ---
 
-**
-**
+Beirut sits on the Mediterranean, but the city's beaches are not its strongest suit. Most of the coastline is rocky or occupied by private beach clubs that charge admission fees.
 
-**Beirut Beaches** present an exotic vacationing pastime, complete with unspoiled aquamarine waves beating against infinite stretches of pearly white sand. Most of the beaches in Beirut are perfect holiday spots, with sun that gives you an enviable tan and delectable Turkish delicacies served in beachside cafes.
+**The Corniche and Raouche** are not beaches as such, but the seaside promenade is where Beirut comes to walk, jog and watch the sunset. The Pigeon Rocks at Raouche are the most photographed natural feature in the city.
 
-**Party Beaches**
+**Private beach clubs** are the main way Beirutis enjoy the sea. Expect entry fees of $15-30 on weekdays, more on weekends, which typically include a sunbed, pool access and sometimes food credit. Popular options include Sporting Club, Riviera, La Plage and Long Beach. Standards and atmosphere vary -- some are family-oriented, others are party beaches with DJs and champagne.
 
-For beaches that guarantee a great party, La Plage in Beirut is the best example. The sea and sand aside, there’s loud rock music and lots of champagne to be had here. Riviera, known for its poolside club parties, is a great party spot for young people. St. George’s Yatch Club, the ritziest upscale club in the place, gets its name from Hotel St. Georges, which can be viewed from the beach’s edge.
+**Public beaches** near Beirut are limited. Ramlet al-Bayda, south of Raouche, is the main public sandy beach in the city. It can get crowded and is not always clean, but it is free.
 
-The beaches Corniche and Ras Beirut are popular for their picturesque shorelines. Corniche for its seaside promenade that offers a majestic view of the Mediterranean, and Ras Beirut for its sandy stretch and salty sea breeze. Corniche is extremely popular among joggers and bikers who like to take in the beauty of the city and the shore.
-
-**Family-Friendly Beaches**
-
-For those who enjoy the tranquility and serenity of the seaside, Military Beach and Long Beach are seriously recommended. These are both beaches best suited for family vacationing. Calming in its exquisite scenery, Long Beach is frequented by people who prefer the tranquility of the sea-line rather than the hustle and bustle of other popular beach spots. Military Beach, with its cement gray huts, is another popular family beach option. You can enjoy a game of basketball on the beach or go jogging along its pristine sands. It’s an ideal spot for a daytime family getaway.
-
-Despite the allure of the beaches in Beirut, you will notice that most of the beach spots are rarely visited by native women. This is due to the conservative views of the Lebanese culture that discourage women from mingling with men in public places. So don’t be surprised when you come across women-only beaches, like Aajram and Costa Brava.
-
-**Beirut Beach Locations:**
-
-**St. George’s Yatch Club: **Ain el Mreisseh, Beirut
-**Corniche: **Next to Manara (near the Beirut Lighthouse), Beirut
-**Ras Beirut: **Manara, Beirut
-**Women’s-only beach of Aajram: **Aajram, Beirut
-
-**Contributors**
-March 22, 2010
+**For better beaches**, head south to [Tyre](/asia/lebanon/tyre), which has the best sandy beach in Lebanon -- long, clean and public. North of Beirut, the coastline around [Byblos](/asia/lebanon/jbeilbyblos) and Batroun has some decent spots, though many are rocky. The beach clubs along the coast between Beirut and Byblos offer good swimming with sea views and sunset restaurants.

@@ -1,11 +1,8 @@
 ---
-title: "Grave of Explorer 'Henry Mouhot'"
-type: location
+title: "Grave of Henri Mouhot"
+type: poi
+latitude: 19.862000
+longitude: 102.170000
 ---
 
-Some 6 km from Luang Prabang is the grave of the discoverer of Angkor Wat of Cambodia.
-
-The grave is tucked away in the jungle but very well worth a trip, which can be combined with a trip to an elefant camp nearby.
-
-**Contributors**
-November 02, 2007
+About 6 kilometres from Luang Prabang, tucked away in the jungle near the Nam Khan river, is the grave of Henri Mouhot, the French naturalist and explorer who brought Angkor Wat to Western attention in the 1860s. He died of malaria near Luang Prabang in 1861. The grave was restored and makes a worthwhile short trip, which can be combined with a visit to an elephant camp nearby. A footbridge crosses the river to reach the site.

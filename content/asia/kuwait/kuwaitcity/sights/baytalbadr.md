@@ -1,6 +1,10 @@
 ---
 title: "Bayt Al-Badr"
 type: poi
+latitude: 29.374100
+longitude: 47.967200
 ---
 
-An old house located next to As-Sadu house, Bayt Al-Badr was built between 1838 and 1848 with a good example of the famous front doors of old Kuwait, exhibitions of local handicrafts are sometimes displayed there.   There are several other old pre-oil houses along the Seif which have been renovated and preserved including the old British Political Agency building opposite the Dhow Harbour. In the area just inland in Sharq there are several interesting broken down old houses awaiting preservation.
+An old merchant's house located next to Sadu House, Bayt Al-Badr was built between 1838 and 1848. It features a fine example of the elaborately carved front doors that were once a hallmark of wealthy Kuwaiti homes. Exhibitions of local handicrafts are occasionally displayed here.
+
+Several other pre-oil houses along the Seif have been renovated and preserved, including the old British Political Agency building opposite the Dhow Harbour. In the Sharq area just inland, a few atmospheric old houses still await restoration -- worth a wander if you are interested in what Kuwait looked like before the oil boom.

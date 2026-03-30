@@ -1,36 +1,18 @@
 ---
-title: "7 Day Itinerary in Kuwait city"
+title: "7 Day Itinerary"
 type: section
 ---
 
-Located right in the middle of Kuwait, Kuwait City is a world-class metropolis boasting high-rise buildings, stylish commercial centers and famous museums. Behind its rapid technological progress lies a rich culture and age-old traditions that will delight travelers. If you want to experience both, the soothing tranquility and the dynamic energy of the Arab world, Kuwait City is the perfect destination.
+**Day 1: Kuwait Towers and the waterfront** -- Start at the Kuwait Towers for the panoramic view, then walk the Corniche southward. Have lunch at one of the waterfront cafes and end the day exploring the Seif Palace area.
 
-**Day One: A View from the Top**
+**Day 2: History and culture** -- Visit the Kuwait National Museum and the Tareq Rajab Museum in the morning. After lunch, take a free guided tour of the Grand Mosque. Stroll through Al Shaheed Park in the late afternoon.
 
-Start your 7-day trip with a breathtaking view of Kuwait City from the magnificent Kuwait Towers, one of the state’s most well-known landmarks. The main tower houses a revolving observation platform that offers a panoramic view of the entire city. The lower part of the main tower houses several exquisite dining facilities.
+**Day 3: The souk and local food** -- Spend the morning in Souk Al-Mubarakiya. Eat machboos and shawarma at the market stalls. In the afternoon, explore the old souk area and the gold market. Try traditional Kuwaiti desserts -- lugaimat with date syrup.
 
-**Day Two: History and Art**
+**Day 4: Water and fun** -- Head to Aqua Park for a day of pools and slides (April-October), or visit the Kuwait Scientific Centre in [Salmiya](/asia/kuwait/salmiya) for the aquarium, discovery centre, and IMAX cinema.
 
-Explore Kuwait’s rich history by visiting its wide array of museums. Learn all about ancient Kuwait by going to the Kuwait National Museum and the Tareq Rajab Museum, where visitors can admire various vintage artwork, jewelry, costumes, musical instruments and archaeological relics from the ancient Arab world. These destinations are a must for travelers interested in ancient art and history.
+**Day 5: Failaka Island** -- Take the morning ferry to Failaka Island. Explore the Greek ruins, the abandoned village, and the beaches. Pack a lunch and make it a full day. Return on the evening ferry.
 
-**Day Three: Gastronomic Treats**
+**Day 6: Salmiya and shopping** -- Explore [Salmiya](/asia/kuwait/salmiya)'s Salem Al-Mubarak shopping street and Marina Mall. Visit the Marina Crescent for waterfront dining. If it is a Friday, detour to the Friday Market for rugs, antiques, and the full chaotic experience.
 
-To experience local gastronomic delights, make sure to treat your taste buds with delectable Middle Eastern fare. For a quick snack, treat yourself to an authentic shawarma from Badar Al Badoor near the Safir Hotel. For lunch or dinner, you can try lentil soup and grilled chicken from Villa Fayrouz on Istaqlal Street. Both restaurants are located within the city.
-
-**Day Four: Water Pleasures **
-
-If you’re the type of traveler who enjoys beaches and water parks, there’s no better way to spend the day than visiting Aqua Park on Arab Gulf Street. Opened in 1995, it is the first and largest water park in the region. It has different pools, slides, a man-made river, a go-kart track and a paintball field. Aqua Park is open from April to October.
-
-**Day Five: Dive the Deep Sea**
-
-If you still can’t get enough aquatic adventure, why don’t you try diving? Scuba diving is one of the fastest growing water sports in Kuwait. Contact the Alboom Marine Center to ask about their diving trips.
-
-**Day Six: Explore the Islands**
-
-If you’re still not satisfied with your tan, why not enjoy the sun some more and explore the Kuwaiti islands? You can take a nice 1-day trip by boat to Failaka or any of Kuwait’s islands.
-
-**Day Seven: Shoppers’ Delight**
-
-The perfect place to go for souvenirs is Souk Al Mubarakiya in the downtown region. Here you can find gold merchandise, jewelry and traditional Arab wares. You can schedule a Friday for Souk Al-Juma'a, or “Friday Market,” which offers everything from new and secondhand fabrics, electronics and furniture to live goats and chickens for sale at very low prices.
-
-Kuwait City is a charming Middle Eastern region that steadfastly holds on to its rich heritage despite the avant-garde technological developments and a prosperous economy.
+**Day 7: Souvenirs and farewell** -- Visit The Avenues mall for any last shopping, or return to Souk Al-Mubarakiya for spices, saffron, and gold jewellery as gifts. Have a farewell dinner at one of the city's excellent restaurants -- Villa Fayrouz or Asha's for something special.

@@ -3,90 +3,14 @@ title: "Books"
 type: section
 ---
 
-Please note that most are books, but some entries are music and other items available for sale on the internet. The "buy the book" link will most likely not work for these.
+**Lonely Planet Central Asia** by Stephen Lioy et al. -- The standard backpacker guidebook for the region, with a solid Kyrgyzstan chapter covering practical information, trekking routes and accommodation. Updated regularly.
 
-**Books**
+**Kyrgyzstan** by Laurence Mitchell (Bradt Travel Guides) -- The only dedicated English-language guidebook to the country. Thorough coverage of trekking routes, cultural context and off-the-beaten-path destinations. Essential if you are spending more than a week.
 
-**Lonely Planets Central Asia**
+**The Day Lasts More Than a Hundred Years** by Chingiz Aitmatov -- Aitmatov is Kyrgyzstan's most famous writer, and this novel blends Kyrgyz legend with Soviet-era realism. It captures the tension between tradition and modernity that still defines the country. His other novels, including *Jamilia* (which Louis Aragon called "the most beautiful love story in the world"), are also worth seeking out.
 
+**Manas** -- The Kyrgyz national epic, one of the longest poems in the world at roughly half a million lines. It tells the story of the hero Manas and his descendants, and is still performed by manaschi (oral storytellers) at festivals. Full English translations are hard to find, but abridged versions exist. Understanding Manas is key to understanding Kyrgyz identity.
 
+**The Great Game** by Peter Hopkirk -- Not specifically about Kyrgyzstan, but essential background reading for anyone traveling in Central Asia. The 19th-century rivalry between Britain and Russia for control of the region shaped borders and politics that persist today.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423586/ref=ase_osingacom?v=glance&s=books)
-
-author: Andrew Humphreys, John King, John Noble
-
-isbn: 0864423586
-
-subject: travel
-
-**Kyrgyzstan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0822528142/ref=ase_osingacom?v=glance&s=books)
-
-author: Lerner Geography Department (Editor)
-
-isbn: 0822528142
-
-subject: culture
-
-**Kazakstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan:Country Studies**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/157980165X/ref=ase_osingacom?v=glance&s=books)
-
-author: Library of Congress Federal Research Division..
-
-isbn: 157980165X
-
-subject: culture
-
-**Kyrgyzstan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9057023903/ref=ase_osingacom?v=glance&s=books)
-
-author: J. Anderson
-
-isbn: 9057023903
-
-subject: history
-
-**Oil and Gas Resources of the Fergana Basin**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0788104888/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0253204828 /ref=ase_osingacom?v=glance&s=books)
-
-author: Chingiz Aitmatov
-
-isbn: 0253204828
-
-subject: literature
-
-**Calming The Ferghana Valley:...**
-
-Of all the regions of the former Soviet Union, Central Asia is potentially one of the most explosive and certainly one of the least understood. It is also growing rapidly in importance to U.S. national security, commercial, and foreign policy interests: it has vast oil, gas, gold, and other resou [more..](/asia/kyrgyzstan/books/calmingtheferghanavalley)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0870784145/ref=ase_osingacom?v=glance&s=books)
-
-author: Nancy Lubin, Keith Martin, Barnett R. Rubin
-
-isbn: 0870784145
-
-**Manas**
-
-The Manas is the great Epic story of Kyrgystan. (ISBN number 8804423471 refers to an Italian edition, and Barnes and Noble (buy the book link) doesn't presently carry it or an English edition)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/8804423471 /ref=ase_osingacom?v=glance&s=books)
-
-author: Unknown
-
-isbn: 8804423471
-
-subject: History
+**Apples Are from Kazakhstan** by Christopher Robbins -- A witty, readable account of Central Asia that covers Kyrgyzstan's post-Soviet transformation alongside its neighbors. Good for understanding the region's recent history without wading through academic texts.

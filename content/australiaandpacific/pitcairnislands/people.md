@@ -3,44 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 50 (July 1998 est.)
+Pitcairn's population hovers around 35 to 50 people, making it the least populated British Overseas Territory and one of the smallest permanent communities on the planet. The exact number shifts as islanders move abroad — usually to New Zealand or Australia — and occasionally return.
 
-**Age structure:**
+Almost everyone on the island is a direct descendant of the nine Bounty mutineers and the Tahitian men and women who sailed with Fletcher Christian to Pitcairn in 1790. The surnames are immediately recognisable from the history books: Christian, Young, Warren, Brown. Eight generations in, the community is small enough that almost everyone is related to everyone else.
 
-*0-14 years:* NA
+The island's first language is English, but many islanders also speak Pitkern — a creole derived from 18th-century English and Tahitian, developed in isolation over more than two centuries. Visitors will understand most of what is said to them; Pitkern between islanders is another matter.
 
-*15-64 years:* NA
+The community converted to Seventh-day Adventism in the 1880s, brought by an American missionary ship. The faith remains central to island life today. Saturday is the Sabbath; Sunday is treated as the first day of the working week. The church is the social anchor of the community.
 
-*65 years and over:* NA
-
-**Population growth rate:** -0.6% (1998 est.)
-
-**Birth rate:** NA births/1 000 population
-
-**Death rate:** NA deaths/1 000 population
-
-**Net migration rate:** NA migrant(s)/1 000 population
-
-**Infant mortality rate:** NA deaths/1 000 live births
-
-**Life expectancy at birth:**
-
-*total population:* NA
-
-*male:* NA
-
-*female:* NA
-
-**Total fertility rate:** NA children born/woman
-
-**Nationality:**
-
-*noun:* Pitcairn Islander(s)
-
-*adjective:* Pitcairn Islander
-
-**Ethnic groups:** descendants of the Bounty mutineers and their Tahitian wives
-
-**Religions:** Seventh-Day Adventist 100%
-
-**Languages:** English (official) Tahitian/English dialect
+The population decline is a genuine concern. Young people leave for education and work, many do not return, and the island struggles to attract permanent settlers. The government has at various times actively sought migrants willing to take up residency, though the conditions of island life — extreme isolation, limited infrastructure, no secondary school — are not for everyone.

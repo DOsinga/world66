@@ -11,9 +11,10 @@ The Italian cities (Florence, Rome, Venice, Milan, Naples) are already done and 
    - `top_5_must_dos.md`, `budget_travel_idea.md`, `family_travel_idea.md`
    - `practical_informat.md`, `7_day_itinerary.md`, `history_1.md`
    - `festivals.md` (content belongs in `when_to_go`)
-   - `books.md`, `cybercafs.md`, `webcams.md`
+   - `cybercafs.md`, `webcams.md`
    - Any duplicates (`nightlife_and_ente.md`, `museums_1.md`, `day_trips_1.md`, etc.)
    - Empty placeholder sections ("We currently have no...")
+3. **Replace `books.md`** with 3–5 literary novel recommendations (not travel guides). See LOCATIONS.md for the format. Delete the old travel-guide POIs and write new ones.
 3. **Fix section titles** — remove city name suffixes:
    - "Bars and Cafes in London" → "Bars and Cafes"
    - "Getting There in Paris" → "Getting There"

@@ -3,112 +3,28 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Fiction**
 
-**Fodor's Israel '99:The Complete Guide with Biblical Sites, Desert Adventures and Seaside Resorts**
+*A Tale of Love and Darkness* by Amos Oz — A memoir-novel about growing up in Jerusalem in the final years of the British Mandate and the early years of the state. Oz is Israel's most celebrated writer, and this is his masterpiece. Essential reading before a visit to Jerusalem.
 
+*My Michael* by Amos Oz — A quieter, more intimate novel set in 1950s Jerusalem, about a woman whose marriage slowly suffocates her. Beautiful and melancholy.
 
+*To the End of the Land* by David Grossman — A mother leaves home so she won't be there to receive the knock on the door if her soldier son is killed. One of the most powerful novels to come out of Israel's relationship with its wars.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679000976/ref=ase_osingacom?v=glance&s=books)
+*The Source* by James A. Michener — A sprawling historical novel set on an archaeological dig at a fictional site in the Galilee, spanning thousands of years of history. Long, but worth it if you're going north.
 
-author: Fodor's
+*Suddenly, a Knock on the Door* by Etgar Keret — Short, sharp, often surreal stories from Israel's most distinctive contemporary voice. Keret captures the strange, dark humor of Tel Aviv.
 
-isbn: 0679000976
+*Someone to Run With* by David Grossman — A coming-of-age story set in Jerusalem's streets, accessible and propulsive.
 
-subject: travel
+**History and non-fiction**
 
-**Fodor's Exploring Israel '99**
+*From Beirut to Jerusalem* by Thomas L. Friedman — A Pulitzer Prize-winning account of the Middle East in the 1980s by a journalist who spent years on the ground. Still one of the clearest guides to understanding the region's political dynamics.
 
+*My Promised Land* by Ari Shavit — An Israeli journalist's account of his country's history from the early settlers to the present, unflinching about the contradictions at the heart of Zionism. Controversial, important.
 
+*The Lemon Tree* by Sandy Tolan — The story of a Palestinian family's home and the Israeli family that moved in after 1948, told through the friendship between the two families. An accessible, human window into the conflict.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679035567/ref=ase_osingacom?v=glance&s=books)
+*1948* by Benny Morris — The definitive history of the Israeli War of Independence by one of Israel's "New Historians," based on declassified Israeli archives. Detailed but authoritative.
 
-author: Fodor Travel Publications,Fodors Travel
-
-isbn: 0679035567
-
-subject: travel
-
-**Frommer's Israel**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/002862050X/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Ullian
-
-isbn: 002862050X
-
-subject: travel
-
-**Culture Shock!:Israel**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558680888/ref=ase_osingacom?v=glance&s=books)
-
-author: Dick Winter
-
-isbn: 1558680888
-
-subject: culture
-
-**Israel:The Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0865053111/ref=ase_osingacom?v=glance&s=books)
-
-author: Debbie Smith
-
-isbn: 0865053111
-
-subject: culture
-
-**The Second Republic:Politics in Israel**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566430526/ref=ase_osingacom?v=glance&s=books)
-
-author: Asher Arian
-
-isbn: 1566430526
-
-subject: culture
-
-**Gideon's Spies:The Secret History of the Mossad**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312199821/ref=ase_osingacom?v=glance&s=books)
-
-author: Gordon Thomas
-
-isbn: 0312199821
-
-subject: history
-
-**From Beirut to Jerusalem:Updated with a New Chapter**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0385413726/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas L. Friedman,Thomas L. Freidman
-
-isbn: 0385413726
-
-subject: history
-
-**The Mythic Past:Biblical Archaeology and the Myth of Israel**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0465006221/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas L. Thompson
-
-isbn: 0465006221
-
-subject: history
+*Righteous Victims* by Benny Morris — A broader history of the Zionist-Arab conflict from 1881 to 2001, for those who want the full sweep.

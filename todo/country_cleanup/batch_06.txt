@@ -1,5 +1,4 @@
 africa/sudan
 africa/swaziland
 africa/tanzania
-africa/togo
 africa/tunisia

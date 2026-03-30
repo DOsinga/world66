@@ -3,30 +3,28 @@ title: "Sights"
 type: section
 ---
 
-**Sights**
+Monaco packs a surprising number of worthwhile sights into its two square kilometres. The main concentration is split between Monaco-Ville (the old town on the rock) and Monte Carlo (the casino district on the newer ground below).
+
+The Oceanographic Museum is the standout. Prince Albert I founded it in 1910, and Jacques-Yves Cousteau ran it for decades — the aquarium on the lower floors is genuinely excellent, with species you won't find elsewhere. The terrace café looks along the Italian Riviera.
+
+Monaco-Ville rewards a wander: narrow streets, the cathedral housing the tombs of the princes, and the palace with its daily changing of the guard at 11:55am. In Monte Carlo, even if you don't gamble, it's worth paying the €18 entry fee to see the Casino's Belle Époque interiors — Charles Garnier designed both this and the Paris Opéra.
 
 **Monaco Cathedral**
 
-This cathedral feels positively modern by European standards (it was built in 1875) but it’s worth a look because it houses the tombs of the former princes of Monaco and it has a particularly fine mosaic in the dome above the altar (an audience of saints faces the congregation from recesses in [more..](/europe/monaco/sights/monacocathedral)
+Built in 1875 in Romanesque-Byzantine style, the cathedral is the burial place of the princes of Monaco, including Grace Kelly (Princess Grace), who died in 1982. Her tomb draws a steady stream of visitors. The mosaic in the dome above the altar is particularly fine.
 
 **Naval Museum**
 
-This museum has less universal appeal than some of the other themed collections in Monaco. It will be fascinating to those interested in ships and naval history but will be of only limited interest to everyone else. There are more than 180 miniature ship models on display (many from the prince’ [more..](/europe/monaco/sights/navalmuseum)
+More than 180 miniature ship models, many from the prince's personal collection. Will fascinate naval history enthusiasts; specialist interest for others.
 
-**Larvotto beach **
+**Larvotto Beach**
 
-If you’re not staying at a beach hotel and your hotel doesn’t have arrangements for guests to use a private beach you (and day-trippers from France) will end up on Larvotto Beach. Showers cabanas restaurants and shops are available and as the sole public beach it can get quite crowded in high [more..](/europe/monaco/sights/larvottobeach)
+Monaco's only public beach, in the east of the principality. Showers, cabanas, restaurants, and shops are available. It gets crowded in summer — this is where day-trippers and non-hotel-guests end up. Private beach clubs adjoin it with more space and services for a fee.
 
 **National Museum**
 
-Monaco’s public museums tend to reflect the passions of its royalty but this one showcases a commoner’s collection and it is fascinating idiosyncratic and not just a little creepy. A villa designed by Charles Garnier (who also designed the Paris and Monte Carlo opera houses) is home to thousa [more..](/europe/monaco/sights/nationalmuseum)
+Housed in a villa designed by Charles Garnier, the museum holds a remarkable collection of antique dolls and automata — thousands of them. Peculiar and fascinating in equal measure.
 
-**Princess Grace rose garden**
+**Princess Grace Rose Garden**
 
-An extraordinary collection of roses beautifully displayed along a network of intersecting walkways. If you don’t already know the myriad sizes shapes colors and scents in which roses arise you’re in for a treat—there are 150 varieties represented (if you’re already a rose lover you’ll [more..](/europe/monaco/sights/princessgracerosegarden)
-
-**Wax museum of the princes of monaco**
-
-This Museum was Evil. I walked into the place and broswed the plexiglass displays of the old guys called"Princes" more like Princessess. Then I noticed something out of the corner of my eye. I turned around, Prince Ranier was staring me in the eye. His body pasition was ready and catlik [more..](/europe/monaco/sights/waxmuseumoftheprincesofmonaco)
-
-**Museum of prehistoric anthropology **
+An extraordinary collection of 150 rose varieties laid out along intersecting walkways near the Fontvieille district. Best visited in late spring when the roses are in bloom.

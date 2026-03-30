@@ -1,59 +1,16 @@
 ---
 title: "Festivals"
 type: section
-address: "hhttp://www.akacijualeja.lt/"
-email: "kulautuva-sen@takas.lt"
-phone: "8 37 543223"
-url: "www.akacijualeja.lt"
 ---
 
-Add Lithuania festivals below
+Lithuania has a rich festival calendar rooted in both Catholic tradition and older Baltic folk customs. The two overlap in interesting ways — pagan elements survived in many celebrations that were officially Christianised over the centuries.
 
-**Contributors**
-August 05, 2005
+**Užgavėnės** (February/March) is Lithuania's pre-Lenten carnival, a noisy, colourful affair involving elaborate masks, the burning of an effigy called Morė (representing winter), and the eating of pancakes. It has strong pagan roots and is celebrated across the country, with events in most cities.
 
-### [Akaciju aleja](/europe/lithuania/festivals/akaciju_aleja)
+**Kaziukas Fair** (around 4 March, Vilnius) is one of the oldest and most popular folk markets in the Baltics, held around the feast day of St Casimir, Lithuania's patron saint. Gedimino Prospektas fills with hundreds of stalls selling traditional crafts — woven textiles, amber jewellery, carved wooden objects, and the distinctive verbos (dried flower arrangements). The atmosphere is festive and the street food is good.
 
-Lithuanian traditional song contest...
+**The Song and Dance Celebration** (Dainų Šventė) is a massive choral and folk dance festival held every four years in Vilnius. Tens of thousands of performers participate in a tradition recognised by UNESCO as Intangible Cultural Heritage. If your visit happens to coincide with it, go.
 
+**Joninės / Rasos** (around 24 June) is the midsummer celebration, one of the most joyful nights of the Lithuanian year. Bonfires are lit, people jump over flames, and young women float flower wreaths on rivers to predict their futures. The celebrations are particularly atmospheric in rural areas and national parks.
 
-
-[[rate it]](/europe/lithuania/festivals/akaciju_aleja)
-
-tel: 8 37 543223
-
-url: [www.akacijualeja.lt](http://www.akacijualeja.lt/kontaktai.html)
-
-address: hhttp://www.akacijualeja.lt/
-
-email:
-
-## Destinations in Lithuania
-
-- [Vilnius](/europe/lithuania/vilnius)
-- [Kaunas](/europe/lithuania/kaunas)
-- [Druskininkai](/europe/lithuania/druskininkai)
-- [Siauliai](/europe/lithuania/siauliai)
-- [Klaipeda](/europe/lithuania/klaipeda)
-- [Trakai](/europe/lithuania/trakai)
-
-- [Nida and the neringa peninsula](/europe/lithuania/nidaandtheneringapeninsula)
-- [Rumsiskes](/europe/lithuania/rumsiskes)
-- [Kernave](/europe/lithuania/kernave)
-- [Palanga](/europe/lithuania/palanga)
-- [Alytus](/europe/lithuania/alytus)
-- [Panevezys](/europe/lithuania/panevezys)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**Vilnius Jazz Festival** (October) is one of the biggest jazz events in the region, drawing international performers for a week of concerts in the old town and beyond.

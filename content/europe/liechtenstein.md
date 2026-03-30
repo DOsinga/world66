@@ -5,24 +5,10 @@ title: Liechtenstein
 type: location
 ---
 
-High in the mountain range of the Alps, Liechtenstein is not only landlocked, but only borders landlocked countries as well. This small country is ruled by a real prince, His highness Hans-Adam of Liechtenstein. One of the oldest royal families in Europe.
+Wedged between Switzerland and Austria in the Rhine Valley, Liechtenstein is one of the world's smallest countries and one of only two that are doubly landlocked — surrounded entirely by landlocked neighbours. It is a genuine principality, still ruled by Prince Hans-Adam II of the House of Liechtenstein, one of Europe's oldest noble families. The royal family does not just lend the place its name; they actively govern and the prince retains considerable constitutional powers.
 
-From [Switzerland](/europe/switzerland) or [Austria](/europe/austria) it is a nice trip to Liechtenstein. The things the ministate offers are not very different form those of the bigger neighbours, but the atmosphere is somewhat special. The entire country has a police force of 22 men and one dog for their protection, for example.
+Despite its tiny size (just 160 square kilometres, smaller than Washington D.C.), Liechtenstein punches well above its weight. It has one of the highest GDPs per capita in the world, a thriving financial sector, and a surprising density of good museums. The country uses the Swiss franc, shares an open border with Switzerland, and functionally operates as an extension of the Swiss economic zone.
 
-[Vaduz](/europe/liechtenstein/vaduz) is the capital and the only city of some size. It is an attractive place and worth a visit.
+Most people visit as a day trip from Zurich, Bregenz, or St. Gallen, but Liechtenstein rewards those who stay longer. The Rhine valley floor is flat and easy cycling country; the eastern mountains rise steeply and offer serious hiking in summer and a small ski resort at Malbun in winter. The pace is quiet, the villages are well-kept, and the landscape along the river is genuinely lovely.
 
-We do not have an editor for this region. If you are interested click here.
-
-## Destinations in Liechtenstein
-
-[Eschen-nendeln](/europe/liechtenstein/eschennendeln)
-[Triesenberg](/europe/liechtenstein/triesenberg)
-[Ruggell](/europe/liechtenstein/ruggell)
-[Gamprin-bendern](/europe/liechtenstein/gamprinbendern)
-[Vaduz](/europe/liechtenstein/vaduz)
-[Schaan](/europe/liechtenstein/schaan)
-[Malbun](/europe/liechtenstein/malbun)
-[Triesen](/europe/liechtenstein/triesen)
-[Planken](/europe/liechtenstein/planken)
-[Schellenberg](/europe/liechtenstein/schellenberg)
-[Mauren-schaanwald](/europe/liechtenstein/maurenschaanwald)
+[Vaduz](/europe/liechtenstein/vaduz) is the capital and the focus of most visits. [Malbun](/europe/liechtenstein/malbun) is worth the drive up for winter sports or mountain hiking.

@@ -1,49 +1,20 @@
 ---
 title: "Practical Information"
 type: section
-type: "Money matters"
 ---
 
-**Currency**
+**Currency.** Lithuania uses the euro (€), which replaced the litas in January 2015. ATMs are plentiful in cities and most towns. Cards are accepted almost everywhere; cash is still expected at smaller guesthouses, rural markets, and some traditional restaurants. American Express is accepted at fewer places than Visa and Mastercard.
 
-The local currency is the Lithuanian Litas (LTL)
+**Visas.** Lithuania is part of the Schengen Area. Citizens of the EU, US, UK, Canada, Australia, and most Western countries can enter without a visa for stays up to 90 days in any 180-day period. From 2026, non-EU visitors from visa-exempt countries will need to register for ETIAS (the EU's online travel authorisation system) before arrival — it costs €20 and is valid for three years.
 
-### [tax cabs](/europe/lithuania/practical_informat/tax_cabs)
+**Language.** Lithuanian is the official language. English is widely spoken by younger Lithuanians in cities. Russian is understood by many older residents. In rural areas outside Vilnius, you may find less English — a few words of Lithuanian are appreciated.
 
-The best way of getting a taxi in Vilnius is dialing one of the short numbers 1411, 1444, 1421, etc. If you take a taxi cab in the street, probably you will have to pay double price for your trip. (If you are in a hurry - just find a cab and dial a number shown on the side of the car - you are usualy told to get inside it, and you save some money)
+**Wi-Fi and mobile.** Lithuania consistently ranks among the best-connected countries in Europe. Free Wi-Fi is available in most cafes, restaurants, hotels, and public spaces. Local SIM cards are cheap and data is fast.
 
-type: Money matters
+**Tipping.** Not obligatory, but 10% is standard in restaurants for good service. Rounding up the bill is acceptable for taxis and smaller expenses.
 
+**Electricity.** 220V, Type F (two-pin European) sockets. Bring an adapter if you're coming from the UK or North America.
 
+**Emergency number.** 112 (works for police, ambulance, and fire).
 
-[[rate it]](/europe/lithuania/practical_informat/tax_cabs)
-
-## Destinations in Lithuania
-
-- [Vilnius](/europe/lithuania/vilnius)
-- [Kaunas](/europe/lithuania/kaunas)
-- [Druskininkai](/europe/lithuania/druskininkai)
-- [Siauliai](/europe/lithuania/siauliai)
-- [Klaipeda](/europe/lithuania/klaipeda)
-- [Trakai](/europe/lithuania/trakai)
-
-- [Nida and the neringa peninsula](/europe/lithuania/nidaandtheneringapeninsula)
-- [Rumsiskes](/europe/lithuania/rumsiskes)
-- [Kernave](/europe/lithuania/kernave)
-- [Palanga](/europe/lithuania/palanga)
-- [Alytus](/europe/lithuania/alytus)
-- [Panevezys](/europe/lithuania/panevezys)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**Health.** Lithuania has a good public healthcare system. EU citizens with a European Health Insurance Card (EHIC) are entitled to treatment. Travel insurance covering medical costs is recommended for everyone else.

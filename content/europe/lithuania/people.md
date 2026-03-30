@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 3 600 158 (July 1998 est.)
+Lithuania has a population of around 2.8 million, a figure that has been falling steadily since independence due to emigration to Western Europe — particularly the UK, Germany, and Ireland. The country is one of the least densely populated in the EU.
 
-**Age structure:**
+Lithuanians make up roughly 84% of the population. Poles are the largest minority, concentrated in the southeast around Vilnius (the city and surrounding Vilnius region historically had a large Polish-speaking population). Russians account for about 5%, mainly in the cities. A small Karaite community — a Turkic-speaking group with a distinct religion — has lived in [Trakai](/europe/lithuania/trakai) for centuries.
 
-*0-14 years:* 20% (male 376 034; female 360 446)
+The dominant religion is Roman Catholicism, which played a significant role in the resistance to Soviet occupation. The Church remains culturally important even as active practice has declined among younger generations.
 
-*15-64 years:* 67% (male 1 155 733; female 1 238 671)
+Lithuanian is the official language and one of the oldest living Indo-European languages, preserving features that have disappeared from most other European tongues. Russian is widely understood by older generations. English is common among anyone under 40, particularly in Vilnius and Kaunas — you'll rarely have trouble communicating in the cities.
 
-*65 years and over:* 13% (male 159 526; female 309 748) (July 1998 est.)
-
-**Population growth rate:** -0.45% (1998 est.)
-
-**Birth rate:** 10.57 births/1 000 population (1998 est.)
-
-**Death rate:** 12.94 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -2.09 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.93 male(s)/female
-
-*65 years and over:* 0.52 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 14.75 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 68.83 years
-
-*male:* 62.76 years
-
-*female:* 75.21 years (1998 est.)
-
-**Total fertility rate:** 1.46 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Lithuanian(s)
-
-*adjective:* Lithuanian
-
-**Ethnic groups:** Lithuanian 80.6% Russian 8.7% Polish 7% Byelorussian 1.6% other 2.1%
-
-**Religions:** primarily Roman Catholic others include Lutheran Russian Orthodox Protestant evangelical Christian Baptist Islam Judaism
-
-**Languages:** Lithuanian (official) Polish Russian
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 98%
-
-*male:* 99%
-
-*female:* 98% (1989 est.)
+Lithuanians have a reputation for being reserved with strangers, but warm once the ice is broken. Don't be put off by a serious first impression. A small gift or a willingness to share a drink goes a long way.

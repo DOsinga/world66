@@ -3,18 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air**
 
-Europe can be reached by surface transport from Africa and Asia. Getting there from the other continents involves flying.
+Luxembourg Airport (Findel), just 6 km east of the city centre, is served by around fifteen airlines. Luxair, the national carrier, connects to most major European hubs. Low-cost options include Ryanair, easyJet, and Volotea, with routes to destinations across Western and Southern Europe. The airport is connected to Luxembourg City by bus (line 16) and, since March 2025, by tram — about 20 minutes to the city centre, free of charge.
 
- **Air**
+**By train**
 
- Europe has lot's of airconnections with all the other continents, except for Antarctica. Indeed, for some connections from Asia to the America's it makes sense to pick up a flight to Europe and then head on. London, Paris, Amsterdam and the bigger German cities have competitive markets for cheap flights. Return Flights to North America (mostly New York) can be had for under 250 Euro. The rest of the world has some excellent connections too.
+Luxembourg City station sits at the centre of a well-connected rail network. The TGV Est from Paris takes just over two hours and runs several times a day. Direct trains also run from Brussels (under three hours), Cologne (roughly three and a half hours), and Trier (45 minutes). Eurostar connections through Brussels are straightforward. The national rail company is CFL (chemins de fer luxembourgeois); check timetables at [cfl.lu](https://www.cfl.lu).
 
- Note that the cheapest flight tend to use cheapish Eastern European Airlines. Most of them are ok, but connections tend to be unpractical - although if you pay attention you can get a free hotel night thrown in.
+**By car**
 
- **Surface**
+Luxembourg sits at the junction of three countries and is easy to reach by motorway from France, Germany, and Belgium. There are no border formalities within the Schengen Area. Note that fuel is notably cheaper in Luxembourg than in neighbouring countries, so you'll often find German and French drivers filling up just across the border.
 
- Asia and Europe share the longest continent border of the planet, though most people will cross from/to Asia in Istanbul, where a bridge spans the gap between the continent. Taking the transiberian express is another possiblity. From Greece there are boats to Turkey, Cyprus, Israel, Syria and Libanon.
+**By bus**
 
- To Africa the most used route is without doubt the crossing of the Street of Gibraltar, which is easily done, but there are also ships between France and Algeria and from Italy to Tunis, Lybia and Egypt.
+FlixBus and several regional operators run coaches from major European cities to Luxembourg City. Journey times are longer than train, but tickets are often cheaper, particularly from Paris and Amsterdam.

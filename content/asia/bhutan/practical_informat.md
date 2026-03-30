@@ -3,47 +3,18 @@ title: "Practical Information"
 type: section
 ---
 
-The national currency of Bhutan is the Ngultrum (Nu.) valued at par with the Indian Rupee, which is also used in the country. As of midyear 2004, the Ngultrum's exchange value hung at about Nu. 45 to the US Dollar.
-Visa and American Express credit cards are accepted in few places but have a limited use and most businesses will add 7% to the cost of the merchandise. It is said that travellers cheques as well as US and Hong Kong Dollars, Pound Sterling, French and Swiss Francs, Euro, and Japanese Yen can be exchanged at local banks and at most hotels but often this in not the case. US Currency or Indian Ruppees are the only sure bets. Ngultrum is useless outside of Bhutan so don't change more than you need.
-Though Indian Rs work, remember not to carry denominations more than Rs 100/- as they are not accepted at most locations.
+**Money** -- The national currency is the Ngultrum (Nu.), pegged at par with the Indian Rupee. Indian Rupees are accepted everywhere, but only in denominations of 100 or less -- larger notes are often refused. US dollars are useful for paying the SDF and visa fees but not widely accepted in shops. Credit cards work at some upscale hotels in [Thimphu](/asia/bhutan/thimphu) and [Paro](/asia/bhutan/paro) but expect a surcharge of 5-7%. ATMs exist in the main towns but are unreliable. Bring enough cash in US dollars or Indian Rupees for your trip and exchange at the Bank of Bhutan.
 
-**Contributors**
-March 18, 2005
+**Language** -- Dzongkha is the national language, but English is widely spoken in towns and by anyone in the tourism industry. In remote eastern villages, you may struggle without some Dzongkha. A few useful phrases: *Kuzu Zangpo* (hello), *Kadrin chhe* (thank you), *Ga de bay ye?* (how are you?).
 
-March 30, 2007
+**Internet and phones** -- Mobile coverage exists in the main valleys but drops out quickly in rural areas. Wi-Fi is available at hotels in [Thimphu](/asia/bhutan/thimphu) and [Paro](/asia/bhutan/paro) but tends to be slow. You can buy a Bhutanese SIM card (B-Mobile or TashiCell) on arrival in Paro, which is useful for basic communication. Do not expect to work remotely from Bhutan.
 
-June 30, 2005
+**Electricity** -- 230V, 50Hz with Indian-style round pin plugs (Type D and Type G). Power cuts happen, especially outside the main towns. Bring a universal adapter and a portable charger.
 
-**Currency**
+**Safety** -- Bhutan is one of the safest countries in Asia. Violent crime against tourists is virtually unheard of. Petty theft is rare but not impossible in border towns like [Phuntsholing](/asia/bhutan/phuntsholing). The main safety risks are road accidents on mountain highways and altitude sickness above 3,000 metres.
 
-The local currency is the Bhutan Ngultrum (BTN)
+**Altitude** -- [Thimphu](/asia/bhutan/thimphu) sits at 2,300 metres and [Paro](/asia/bhutan/paro) at 2,200 metres, which is enough to cause mild symptoms in some people. If you are heading higher on treks, take acclimatisation seriously. Drink plenty of water and ascend gradually.
 
-## Destinations in Bhutan
+**What to wear** -- Dress modestly, especially when visiting dzongs and monasteries. Long sleeves and long trousers or skirts are required. Remove your shoes before entering temples. Hats must be removed inside dzongs. Outside of religious sites, casual dress is fine, but Bhutanese appreciate visitors who make an effort.
 
-- [Thimphu](/asia/bhutan/thimphu)
-- [Bumthang](/asia/bhutan/bumthang)
-- [Wangdiphodrang](/asia/bhutan/wangdiphodrang)
-- [Lhuntsi](/asia/bhutan/lhuntsi)
-- [Gangten](/asia/bhutan/gangten)
-- [Kurtey](/asia/bhutan/kurtey)
-
-- [Phuntsholing](/asia/bhutan/phuntsholing)
-- [Punakha](/asia/bhutan/punakha)
-- [Paro](/asia/bhutan/paro)
-- [Tongsa](/asia/bhutan/tongsa)
-- [Tashigang](/asia/bhutan/tashigang)
-- [Punakha](/asia/bhutan/punakha)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**Tipping** -- Not traditionally expected but increasingly common in tourism. A tip of $5-10 per day for your guide and $3-5 for your driver is appreciated at the end of a trip.

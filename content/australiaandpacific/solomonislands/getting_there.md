@@ -3,28 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-The national airline *Solomon Airlines (IE)* operates flights from Australia and New Zealand. *Qantas* offers three flights a week from Brisbane to Honiara. Other airlines serving the Solomon Islands include *Air Nauru* *Air Pacific* and *Western Pacific Air Services*. *Polynesian Airways *offers a 'Polypass' which allows the holder to fly anywhere on the airline's network: Sydney (Australia) Melbourne (Australia) Auckland (New Zealand) Wellington (New Zealand) Samoa American Samoa Rarotonga Tonga Honolulu and Fiji. The pass is valid for 1 year. Once a reservation has been made and travel begun all travel must be completed within 45 days.
+Honiara International Airport (HIR), also known as Henderson Field, is the main entry point. It sits on Guadalcanal, about 13km east of Honiara city centre. Taxis and minibuses cover the transfer in around 20 minutes.
 
-Approximate flight time
+Solomon Airlines is the national carrier and flies to Honiara from Brisbane (four times weekly), Nadi in Fiji, Port Moresby, and Port Vila. Fiji Airways connects through Nadi, which is the main regional hub for onward connections from Tokyo, Singapore, Los Angeles, and Vancouver. Air Niugini and Air Vanuatu also serve Honiara.
 
-From Honiara to *London* is 29 hours 45 minutes excluding stopover in Brisbane.
+There are no direct flights from Europe or North America to Honiara. The usual routing is via Brisbane or Nadi. Expect total journey times of 20+ hours from Europe, 30+ hours from the US east coast.
 
-International airport:
+Most arrivals land in the evening. The airport has basic facilities: currency exchange, a few shops, ATM. Arrange accommodation in Honiara for your first night regardless of which island you're ultimately heading to — onward domestic flights rarely connect same-day.
 
-*Honiara (HIR)* (Henderson Field) on Guadalcanal Island 13km (8 miles) from Honiara (travel time  20 minutes). Bus and taxi services are available. Facilities include bank/bureau de change left luggage duty-free shops (for scheduled international flights) and car hire (*Avis* and *Budget*).
+## By Sea
 
-Departure tax
+Honiara is the main international port. Cargo ships occasionally carry passengers from neighbouring countries, but there is no regular international passenger ferry service. Visiting yachts arrive year-round, and the Solomons is a popular stop on the Pacific circuit.
 
-SI$40. Transit passengers and children under two years are exempt.
+## Departure Tax
 
-Sea
-
-International ports are Honiara (Guadalcanal Island) and Yandina (Rennell Island). There are plans to build a new deep-sea harbour at Noro on New Georgia which will replace the port at Gizo. The cargo line *Bank* offers a limited number of passenger places*.*
-
-* *
-
-
-
-x
+A departure tax is levied on international flights. Check the current rate when booking, as it changes periodically and may or may not be included in your ticket price.

@@ -3,58 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 509 190 (July 2003 est.) 
+The Solomon Islands has a population of around 700,000 people spread across nearly 1,000 islands. The vast majority are Melanesian; smaller Polynesian communities live on the remote outer atolls, particularly the Polynesian Outliers in the far south and east.
 
-**Age structure:** 
+The country is extraordinarily diverse. Linguists count over 70 distinct languages (not dialects — languages), making the Solomons one of the most linguistically dense places on earth relative to population. Solomon Islands Pijin serves as the bridge between communities, and most Solomon Islanders are at least trilingual: their local language, Pijin, and English.
 
-*0-14 years:* 42.9% (male 111 333; female 107 062) 
+Society is organised around clans and the *wantok* system — literally "one talk", meaning shared language and origin. Wantok ties create strong obligations of mutual support, hospitality, and sharing. Visitors who are taken in by a family are joining this web, however briefly. It makes travel here feel genuinely personal.
 
-*15-64 years:* 54% (male 139 072; female 135 729) 
+Most Solomon Islanders are Christian, with Anglican, Catholic, and various evangelical denominations all present. Traditional beliefs (*kastom*) coexist with Christianity rather than being replaced by it. Ceremonies, land rights, and dispute resolution in rural areas still follow customary processes.
 
-*65 years and over:* 3.1% (male 7 754; female 8 248) (July 2003 est.) 
-
-**Population growth rate:** 2.83% (2003 est.) 
-
-**Birth rate:** 32.45 births/1 000 population (2003 est.) 
-
-**Death rate:** 4.12 deaths/1 000 population (2003 est.) 
-
-**Net migration rate:** 0 migrant(s)/1 000 population (2003 est.) 
-
-**Sex ratio:** 
-
-*at birth:* 1.05 male(s)/female 
-
-*under 15 years:* 1.04 male(s)/female 
-
-*15-64 years:* 1.02 male(s)/female 
-
-*65 years and over:* 0.94 male(s)/female (2003 est.) 
-
-**Infant mortality rate:** 22.88 deaths/1 000 live births (2003 est.) 
-
-**Life expectancy at birth:** 
-
-*total population:* 72.1 years 
-
-*male:* 69.64 years 
-
-*female:* 74.68 years (2003 est.) 
-
-**Total fertility rate:** 4.34 children born/woman (2003 est.) 
-
-**Nationality:** 
-
-*noun:* Solomon Islander(s) 
-
-*adjective:* Solomon Islander 
-
-**Ethnic groups:** Melanesian 93% Polynesian 4% Micronesian 1.5% European 0.8% Chinese 0.3% other 0.4% 
-
-**Religions:** Anglican 45% Roman Catholic 18% Baptist 9% United (Methodist/Presbyterian) 12% Seventh-Day Adventist 7% other Protestant 5% traditional beliefs 4% 
-
-**Languages:** Melanesian pidgin in much of the country is lingua franca English spoken by 1%-2% of population 
-
-*note:* 120 indigenous languages 
-
-**Literacy:** NA
+The population is young and predominantly rural. Outside Honiara and the few provincial capitals, most people live in small coastal villages, subsisting on gardens, fishing, and some cash cropping (copra, cocoa). Life moves at a different pace — patient, community-oriented, and tied to the rhythms of the sea.

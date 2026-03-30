@@ -3,60 +3,12 @@ title: "Beaches"
 type: section
 ---
 
-Singapore beaches are still maintaining environmentallt "Green". The air population is still low due to it surrounding by sea. There are few beaches in Singapore nice to visit and spend whole day enjoyment there. 
+Singapore is not a beach destination in the way that Bali or Thailand are. The water is murky from shipping traffic, the sand on most beaches is imported, and you are never far from the sound of a container ship. But there are decent stretches of coast for a few hours of sun and swimming, and the East Coast is genuinely pleasant for cycling and eating seafood.
 
-East Coast Park: Along airport parkway between the airport and the central business district, the East Coast Park is the most popular outdoor activitoes for Singaporeans. You can hiring equipment for canoeing, wind surfing, cycling and roller blading. And your can book a BBQ oven for cooking. There are alots of shady parts and the wind are blowing with nice fresh air. 
+**East Coast Park** is the main beach for Singaporeans. A long strip of reclaimed land stretching east from the Marina area, it has a cycling path, BBQ pits, seafood restaurants, and a calm, artificial lagoon for swimming and watersports. Rent a bicycle or blade at one of the outlets along the park connector path. The East Coast Seafood Centre here is one of the better places to eat chilli crab and black pepper crab — the defining dishes of Singapore seafood cooking.
 
-Sentosa Beach : Beside sandy white beaches, there are many man-made attractions and lots of beach activities such as pedal cars, aqua-bikes, fun bugs, canoes, windsurfing and swimming. There is also fascinating flora and fauna, historical enclaves, adventure theme parks and golf. With several five-star hotels, romantic dining under the stars and night time entertainment including a musical fountain, a night market and the Enchanted Grove of Tembusu, Sentosa has everything a visitor could desire in a holiday venueIn addition to its many other attractions, 
+**Sentosa Island** has three beaches on its southern shore: Siloso, Palawan, and Tanjong. These are the closest Singapore gets to a resort beach — white sand (brought in by the truckload), beach bars, volleyball nets, and watersports rental. The water is swimmable but not particularly clear. The beaches are crowded on weekends and during school holidays.
 
-Changi Beach : This beach is has one of the oldest coastal parks in Singapore, this place brings back memories for Singaporeans who frequented this area in the 60s and 70s. The beach with beauty white sand extends into the park at places to form a continuous stretch of wide open area dotted with coconut palms, BBQ pits, Park benches and Shelters. There is jogging track and other amenities were added. Visitors can now jog or cycle along the winding tracks from Changi Point to Changi Ferry Terminal and back. This is the place where everybody would like to gather over the weekends for picnics, swimming, barbecues or overnight camping. Sitting by the beach, you can look out to the sea overlooking Pulau Ubin, enjoy the gentle breeze of the sea, the lovely noise created by coconut palms and listen to the waves rolling onto the white sandy beach. Bring your own food here, or you can get some at the nearby Changi Village.
+**Changi Beach Park**, in the far northeast near the airport, is quieter and more local. Looking out across the Johor Strait to Malaysia, with coconut palms and BBQ shelters along the shore, it has a relaxed kampung (village) atmosphere. The nearby Changi Village hawker centre is one of the good ones.
 
-Minor corrections on 03 October 04
-
-**all**
-
-**Famous Islamic Rstnt Pte Ltd-Restaurant **
-
-Address: Airport Blvd B1 Changi Airport Passenger Terminal 1 Singapore 819642
-
-email: islamic@pacific.net.sg
-
-Tel: +65 6546 4456
-
-**Underwater World Singapore-Sentosa**
-
-Fax: +65-6275-0036
-
-Address: 80 Siloso Road Sentosa Singapore 098969
-
-email: uwspl@underwaterworld.com.sg
-
-Tel: +65-6275-0030
-
-**Sijori Resort Sentosa Singapore**
-
-Fax: +65-6299-9827
-
-Address: 22 Beach View, Sentosa Singapore 098679
-
-email: hotelenq@online.com.sg
-
-Tel: +65-6299-6007
-
-**Singapore Cable Car (Pte) Ltd **
-
-Fax: +65 6276 3195
-
-Address: 109 Mt Faber Rd Singapore 099203
-
-email: cablecar@singnet.com.sg
-
-Tel: +65 6270 8855
-
-**Sentosa Discovery Tours Pte Ltd **
-
-Fax: 6274 0525
-
-Address: 109 Mt Faber Rd Singapore 099203
-
-email: sdtours@singnet.com.sg
+**Pulau Ubin** is a small island reached by bumboat (S$4 each way) from Changi Point Ferry Terminal. The island has almost no cars, some remaining wooden kampung houses, and mangrove forest. Hire a bicycle at the jetty and explore for the afternoon. The Chek Jawa wetlands at the eastern tip support remarkable biodiversity for something so close to a major city.

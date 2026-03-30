@@ -1,23 +1,28 @@
 ---
-title: "When to Go in China"
+title: "When to Go"
 type: section
 ---
 
-Following is a **China when to go** guide that will provide tourists with information about the different climates in the country. This will help tourists decide on an appropriate time to visit China.
+China is so large that there's no single best time to visit — it depends entirely on where you're going. The country spans tropical beaches in Hainan, permafrost in Manchuria, and a high-altitude desert plateau in Tibet. That said, **spring (April–May) and autumn (September–October) are the best seasons for most of the country**: mild temperatures, relatively low rainfall, and the summer crowds gone.
 
-The Yangtze River is the official dividing line between the north and south of China. On the whole, the climate in the country is dominated by wet monsoons and dry seasons. These tend to result in huge temperature differences in summer and winter. Southern winds that come from coastal regions at lower altitudes during summer are moist and warm. Northern winds that come from high altitude regions in the winter are normally dry and cold. However, the climate in China differs from 1 region to another because of its complex and extensive topography.
+## Spring (March–May)
 
-**Northern China**
+A good time almost everywhere. Temperatures in [Beijing](/asia/china/beijing) and [Xi'an](/asia/china/xian) reach a comfortable 15–25°C. Fruit trees blossom in [Yunnan](/asia/china/yunnanprovince), cherry blossoms appear in eastern China, and the rice paddies around [Guilin](/asia/china/guilin) are at their greenest. Avoid the week around the Qingming Festival (early April) when Chinese travelers clog domestic transport.
 
-Summer months in northern parts of China are from May to August. Temperatures in most of these regions rise to about 20 degrees C or slightly more. However, temperatures in Beijing, which is located towards the northeast of China, can rise to about 38 degrees C in the summer. This tends to coincide with the rainy season in the city. Winter in the northern part of China is from December to March. Winters can be biting cold and often drop to about -40 degrees. It is possible for tourists to see snow covered sand dunes in these areas. The city is quite dry and temperatures in Beijing drop to about -20 degrees at night. Spring and autumn are probably the best times to visit the north. Day time temperatures fall between 20 and 30 degrees and drop a great deal at night.
+## Summer (June–August)
 
-**Southern China
+Peak season for tourists and the most difficult time to travel. It's hot and humid in most of eastern China, with temperatures in the Yangtze River cities (Wuhan, Nanjing, Chongqing) regularly hitting 38°C or more. Typhoons affect the southern coast from July to September. [Tibet](/asia/china/tibet), [Yunnan](/asia/china/yunnanprovince), and Inner Mongolia are better options in summer — cooler, greener, and less crowded than the big-city circuits.
 
-**The summer season in the south near Guangzhou usually witnesses typhoons from July to September. During these months, temperatures can rise to about 38 degrees. Winters in these areas are quite short, starting in January and ending in March. It isn’t as cold here as compared to the north; however, tourists are advised to bring along warm clothes when visiting this part of China. Sometimes it rains a lot, making the region cold and wet. The best time to visit this part of China is during spring and autumn.
+## Autumn (September–October)
 
-**Central China
+The best season for most travelers. Temperatures drop to comfortable levels, the summer rains ease off, and the landscape — particularly in [Hunan](/asia/china/hunan), [Guilin](/asia/china/guilin), and northern China — is visually spectacular. The catch: the first week of October is National Day Golden Week, when hundreds of millions of Chinese travel simultaneously. Every train, plane, hotel, and tourist site becomes extremely crowded. Either avoid that week entirely or book everything months in advance.
 
-**Summers in the Yangtze River Valley are humid and quite long ranging from April to October. Temperatures are usually very high during this time. Nanjing, Wuhan and Chongqing are 3 cities on the Yangtze River that are known to be very hot during summer. In winter, temperatures drop well below the freezing point and can sometimes be as cold as Beijing. Rainfall in this region is also very unpredictable. On an average, precipitation levels reach to about 30 inches a year.
+## Winter (November–February)
 
-**Contributors**
-April 12, 2010
+Cold in the north, mild in the south. [Beijing](/asia/china/beijing) can drop to -20°C at night in January; [Harbin](/asia/china/harbin) is colder still — which is precisely the point, as the January Ice and Snow Festival is spectacular. Southern destinations like Hainan, [Guangzhou](/asia/china/guangzhou), and [Hong Kong](/asia/china/hongkong) are pleasant in winter when the rest of the country freezes. Fewer tourists, cheaper prices.
+
+Chinese New Year (late January or February, varying by year) brings the world's largest annual human migration. During the two-week Spring Festival period, transport is fully booked, prices spike, and many businesses close. Extraordinary if you want to see the celebrations; very difficult if you're trying to move around.
+
+## Tibet
+
+The best months to visit are May, June, September, and October — the plateau is accessible and the skies are clear. July and August bring the monsoon; winter is bitterly cold and many guesthouses close.

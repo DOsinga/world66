@@ -3,16 +3,44 @@ title: "Highlights"
 type: section
 ---
 
-**The Great Wall** is everything you imagine and more — but skip the overcrowded Badaling section. Head to Mutianyu for restored wall with fewer crowds, or Jinshanling for a wilder, half-ruined stretch where you can walk for hours without seeing another tourist. The wall snaking across mountain ridges at sunset is one of those sights that actually lives up to the hype.
+China's highlights span an almost impossible range: ancient imperial monuments, surreal natural landscapes, minority cultures, cutting-edge cities, and one of the great culinary traditions on earth.
 
-**The Terracotta Warriors** in [Xi'an](/asia/china/xian) remain astonishing. Thousands of life-sized soldiers, each with a unique face, standing guard for over 2,000 years. While you are in Xi'an, the Muslim Quarter's street food is reason enough to linger.
+## The Great Wall
 
-**Guilin and Yangshuo** deliver the karst landscape that defines Chinese painting — limestone towers rising from green rice paddies, the Li River winding between them. Rent a bicycle in [Yangshuo](/asia/china/yangshuo) and get lost on the back roads.
+The wall snakes over mountains and through deserts for thousands of kilometers — no single visit captures its full scale. The sections within reach of [Beijing](/asia/china/beijing) (Mutianyu, Simatai, Jinshanling) are the most accessible. Simatai and Jinshanling are less restored and more atmospheric; get there early.
 
-**Yunnan province** is China's most diverse corner. [Tiger Leaping Gorge](/asia/china/yunnanprovince) is one of the world's great hikes, Dali and Lijiang have old-town charm (Lijiang gets crowded, Dali less so), and the terraced rice fields of Yuanyang flood with water in winter to create a mirror landscape.
+## The Forbidden City, Beijing
 
-**Zhangjiajie** has the towering sandstone pillars that inspired Avatar's floating mountains. The glass skywalks are tourist traps, but the national park itself is otherworldly.
+The imperial palace complex in central [Beijing](/asia/china/beijing) is one of the largest in the world: 980 buildings arranged around a sequence of courtyards, throne halls, and gardens. Three hours is enough to walk through; a full day rewards slower exploration of the outer sections most tourists rush past.
 
-**Chengdu** is worth visiting for the food alone — fiery Sichuan hotpot, dan dan noodles, mapo tofu — and the giant panda breeding center lets you see these animals up close.
+## The Terracotta Army, Xi'an
 
-**[Hong Kong](/asia/china/hongkong)** operates on its own frequency. The harbor, the dim sum, the hiking trails on Lantau and the Dragon's Back, the density and energy of a city where bamboo scaffolding still goes up next to glass towers.
+Over 8,000 life-sized clay soldiers buried with China's first emperor in 210 BC. Three excavation pits are open to view, each at a different stage of archaeology. The scale and quality of the craftsmanship still astonishes. [Xi'an](/asia/china/xian) itself is worth a couple of extra days.
+
+## Li River and Guilin Karst
+
+The landscape around [Guilin](/asia/china/guilin) — limestone peaks rising sharply out of flat rice paddies, reflected in slow river water — is the quintessential Chinese landscape painting made real. Take the boat from Guilin to Yangshuo, then explore the countryside around Yangshuo by bicycle.
+
+## Mogao Caves, Dunhuang
+
+Hidden in desert cliffs outside [Dunhuang](/asia/china/dunhuang), nearly 500 cave temples filled with Buddhist murals and statues. The caves were carved over a thousand years by monks and pilgrims on the Silk Road. Some murals survive in extraordinary color. One of the most remarkable historical sites in Asia.
+
+## West Lake, Hangzhou
+
+[Hangzhou](/asia/china/hangzhou)'s West Lake has been inspiring poets, painters, and garden designers for a thousand years. Marco Polo called the city the finest in the world. The lake itself is ringed with pagodas, causeways, and tea plantations. Best in the morning before the tour groups arrive.
+
+## Lhasa and the Tibetan Plateau
+
+[Lhasa](/asia/china/tibet/lhasa) sits at 3,650 meters, surrounded by mountains, with the Potala Palace rising above the valley on a rocky hill. The Jokhang Temple is the spiritual heart of Tibetan Buddhism — pilgrims from across the plateau circle it day and night, prostrating on the stone pavement. [Tibet](/asia/china/tibet) requires a permit and some altitude acclimatization, but rewards the effort.
+
+## Old Shanghai
+
+The Bund — [Shanghai](/asia/china/shanghai)'s waterfront of Art Deco and neoclassical buildings facing the futuristic Pudong skyline across the river — is one of the great urban vistas anywhere. The old city's narrow alleyways (shikumen) survive in a few areas, increasingly hemmed in by development.
+
+## Yunnan Province
+
+The most ethnically diverse province in China, [Yunnan](/asia/china/yunnanprovince) offers a completely different China: subtropical, multiethnic, beautiful. Lijiang's old town, Tiger Leaping Gorge, the rice terraces of Yuanyang, Shangri-La's monasteries. It borders Myanmar, Laos, and Vietnam, and the cultural mix reflects that.
+
+## Jiuzhaigou Valley, Sichuan
+
+A nature reserve in the mountains of northern Sichuan, famous for its turquoise lakes, waterfalls, and forests. UNESCO World Heritage Site. The colors of the water — fed by mineral-rich springs — are genuinely improbable. Book entry well in advance; numbers are capped.

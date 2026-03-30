@@ -895,7 +895,6 @@ img { max-width: 100%; height: auto; }
 .poi-table-name {
   width: 30%;
   font-weight: bold;
-  white-space: nowrap;
 }
 
 .poi-table-name a {

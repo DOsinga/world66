@@ -1,5 +1,0 @@
-asia/uzbekistan
-asia/vietnam
-asia/yemen
-australiaandpacific/americansamoa
-australiaandpacific/australia

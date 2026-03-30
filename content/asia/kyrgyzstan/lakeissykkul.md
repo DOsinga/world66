@@ -5,10 +5,10 @@ latitude: 42.226649
 longitude: 79.880393
 ---
 
-Lake Issyk-Kul is one of the major attractions of Kyrgystan. Located in the east of the country, it can be reached from [Bishkek](/asia/kyrgyzstan/bishkek) or Naryn by bus or taxi.
+Lake Issyk-Kul is the jewel of Kyrgyzstan and one of the great natural wonders of Central Asia. It is the world's second-largest alpine lake, stretching 182 kilometers from east to west and up to 60 kilometers wide, sitting at 1,607 meters in a basin ringed by the snow-capped peaks of the Tian Shan. The name means "warm lake" in Kyrgyz -- despite the altitude, it never freezes, thanks to its depth, slight salinity and thermal activity.
 
+The north shore is the more developed side, with beach resorts around Cholpon-Ata that fill with Kazakh and Russian holidaymakers in July and August. It has a Soviet-era resort feel, with sanatoriums and pebbly beaches. The south shore is quieter, more scenic and the better choice for travelers interested in mountains rather than sunbathing. From the south side you have access to the Jeti Oguz Valley, Barskoon gorge and other trekking routes.
 
- The region around the lake is stunningly beautiful and is great for anyone who loves the outdoor. Hiking is superb is the hills and mountains around, on the lake itself you can sail, surf, row, scuba div and fish and for the more adventurous there are always activities like helicopter skiing.
+[Karakol](/asia/kyrgyzstan/karakol), at the eastern end of the lake, is the main base for hiking and adventure sports. Cholpon-Ata, on the north shore, has an interesting open-air museum of petroglyphs dating back to the second millennium BC.
 
-
- The lake has length of 113 miles (182 kilometres), a width of up to 38 miles, and a surface area of 2,445 square miles (6,332 square kilometres). It reaches 2,303 feet in depth and has a volume of 416 cubic miles. The lake's name, which derives from a word for "hot lake", alludes to the fact that it does not freeze over during the winter, even though the lake is situated at an altitude of 5,278 feet.
+The lake region is easily reached from [Bishkek](/asia/kyrgyzstan/bishkek) -- marshrutkas and shared taxis to Cholpon-Ata take four to five hours, and to Karakol five to six hours. In summer, the road around the lake is well-maintained and the scenery along the way is spectacular.

@@ -3,116 +3,18 @@ title: "Books"
 type: section
 ---
 
-Icelanders are a very literate nation. The best present you can give an Icelander is often a book. Publishing is especially voluminous around Christmas, as books are the gift of choice. Although Iceland is a very small country, it boasts a Nobel laureate in literature. Halldor Laxness (1902-1998) was one of the most beloved authors in Iceland. He received the 1955 Nobel Prize in literature "for his vivid epic power which has renewed the great narrative art of Iceland".
+Iceland has a publishing culture out of all proportion to its size. Books are the traditional Christmas gift — the annual flood of new publications before Christmas even has a name, Jólabókaflóð (the Christmas book flood). Icelanders buy and read more books per capita than almost any other nation.
 
+**The Sagas** are the starting point. Written in the 13th century but set in the 9th and 10th centuries, the Icelandic family sagas are among the great works of world literature. Njáls Saga is the most widely read — a sprawling story of feuds, law, and fate in early Iceland. Egils Saga follows the life of the poet-warrior Egill Skallagrímsson. Laxdæla Saga is more romantic, centering on the tragic figure of Guðrún. All are available in translation from Penguin Classics.
 
+**Halldór Laxness** (1902–1998) received the Nobel Prize in Literature in 1955. His novel Independent People (Sjálfstætt fólk) — the story of a stubborn Icelandic sheep farmer's struggle for independence — is widely considered the essential modern Icelandic novel. Under the Glacier is stranger and more experimental. Iceland's Bell is a historical epic set in the 18th century.
 
-**Books**
+**Arnaldur Indriðason** is Iceland's most internationally successful crime writer. His Reykjavik murder mysteries — Jar City, Silence of the Grave, Hypothermia — are tightly plotted and atmospheric. They give a good sense of Icelandic society, memory, and landscape.
 
-**Fodor's Scandinavia:The Complete Guide to Denmark, Finland, Iceland, Norway and Swedan**
+**The Sagas of Icelanders** (Penguin Classics, edited by Örnólfur Thorsson) is a good single-volume introduction to the saga literature, with several complete sagas and substantial extracts.
 
+**The Draining Lake and Outrage** by Arnaldur Indriðason are good for crime fiction specifically set in Reykjavik.
 
+**Moonstone: The Boy Who Never Was** by Sjón — short, strange, and beautifully written, set in Reykjavik during the 1918 flu pandemic.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679035311/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Inc Staff Fodor's T..
-
-isbn: 0679035311
-
-subject: travel
-
-**Iceland, Greenland and the Faroe Islands:Travel Survival Kit**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424531/ref=ase_osingacom?v=glance&s=books)
-
-author: Deanna Swaney
-
-isbn: 0864424531
-
-subject: travel
-
-**Iceland:Land of the Sagas**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0375752676/ref=ase_osingacom?v=glance&s=books)
-
-author: David Roberts,Jon Krakauer (Photographer)
-
-isbn: 0375752676
-
-subject: travel
-
-**Ring of Seasons:Iceland - Its Culture and History**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/047210926X/ref=ase_osingacom?v=glance&s=books)
-
-author: Terry G. Lacy
-
-isbn: 047210926X
-
-subject: culture
-
-**Icelandic Journals**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1899197257/ref=ase_osingacom?v=glance&s=books)
-
-author: William Morris,Foreword by Fiona MacCarthy,Ma..
-
-isbn: 1899197257
-
-subject: culture
-
-**Hidden Class:Culture and Class in a Maritime Setting: Iceland 1880-1942**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/8772882794/ref=ase_osingacom?v=glance&s=books)
-
-author: Finnur MagnGusson
-
-isbn: 8772882794
-
-subject: culture
-
-**Gunnar's Daughter**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/014118020X/ref=ase_osingacom?v=glance&s=books)
-
-author: Sigrid Undset,Arthur G. Chater
-
-isbn: 014118020X
-
-subject: history
-
-**A History of Scandinavia:Norway, Sweden, Denmark, Finland and Iceland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0816609365/ref=ase_osingacom?v=glance&s=books)
-
-author: T. K. Derry
-
-isbn: 0816609365
-
-subject: history
-
-**Ring of Seasons:Iceland - Its Culture and History**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/047210926X/ref=ase_osingacom?v=glance&s=books)
-
-author: Terry G. Lacy
-
-isbn: 047210926X
-
-subject: history
+For travel reading, the Lonely Planet Iceland and Bradt Iceland guides are thorough. The website guidetoiceland.is is useful for practical planning.

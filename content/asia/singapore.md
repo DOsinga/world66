@@ -5,8 +5,14 @@ latitude: 1.357107
 longitude: 103.819499
 ---
 
-Singapore is an island city located at the tip of Peninsula Malaysia. It is well-known for being one of the richest, most well organized countries in the world. Singapore is an island with "1000 shopping malls" or so they say. Despite the hot climate, it is a tropical paradise for most tourists. This great diversity of lifestyles, cultures and religions thrives within the framework of a regulated society. Singapore's "FINE" city reputation is well-earned, and in fact, many will admire at once the clean, modern metropolis. Surrounded by artificially 'ordered' parks, its tall housing projects are populated by almost 4 million people - whose smiling native charms often belie underlying tensions of the way the island is progressing after 30 years of development. 
+Singapore is a city-state on a small island at the southern tip of the Malay Peninsula, and it works harder than almost anywhere on earth to justify its own existence. No natural resources, no agricultural land, no hinterland — just 730 square kilometres of reclaimed and original island, six million people, and an economy that has grown from colonial trading port to one of the wealthiest places in the world within a single lifetime.
 
-Highlights of Singapore include some of the ethnic parts of town: Arab street, Chinatown, Colonial District, Orchard road and Little India. 
+The country is genuinely multicultural in a way that most places only claim to be. Three-quarters of the population is ethnic Chinese, with Malay and Indian communities making up most of the rest. Four languages share official status — English, Malay, Mandarin, and Tamil — and the city reflects this layering in its food, its temples, its street names, and its festivals. Chinatown, Little India, and the Arab Quarter (Kampong Glam) are not tourist reconstructions; people live, work, and worship in them.
 
-South of Singapore are a few beautiful islands that are well worth visiting. The most visited is Sentosa island. It is a playground for people of all ages. See the Sentosa island section for more information. Nothing here, really....
+What strikes first-time visitors is the cleanliness and order. The laws are real — fines for littering, for chewing gum in certain contexts, for failing to flush a public toilet — and they are enforced. Some travelers find this oppressive; others find it a relief. The streets are safe, the public transport is exceptional, and things work. The flip side is a certain smoothness, a sense that rough edges have been sanded down.
+
+The food is the reason many people come back. Singapore's hawker centres — open-air food courts where dozens of stalls each specialise in one dish — serve some of the best and most affordable eating in the world. The UNESCO recognition of hawker culture in 2020 only confirmed what anyone who has eaten a plate of chicken rice at Maxwell Food Centre already knew.
+
+Singapore has changed fast. The Marina Bay waterfront, with its extraordinary Gardens by the Bay and the gravity-defying Marina Bay Sands hotel, bears almost no resemblance to the photographs from the 1970s. The city keeps building, keeps reclaiming land from the sea, keeps reinventing itself. The old shophouse neighbourhoods — Tiong Bahru, Joo Chiat, Tanjong Pagar — have been preserved with care and are now among the most pleasant places to spend an afternoon.
+
+It is a small island. You can see its main sights in three or four days. But for food, architecture, and sheer urban efficiency, it rewards more time than that.

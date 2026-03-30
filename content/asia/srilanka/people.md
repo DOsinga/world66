@@ -3,68 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 18 933 558 (July 1998 est.)
+Sri Lanka has a population of around 22 million. The majority — about 75% — are Sinhalese, predominantly Buddhist, living mainly in the south, west, and central parts of the island. Tamils make up roughly 15%, divided between Sri Lankan Tamils (mostly Hindu, concentrated in the north and east) and Indian Tamils (brought as laborers by the British, concentrated in the tea-growing Hill Country). Sri Lankan Muslims account for about 9%, speaking Tamil but maintaining a distinct cultural identity. A small Burgher community — descendants of Dutch and Portuguese colonial administrators — is scattered mainly in Colombo.
 
-*note:* since the outbreak of hostilities between the government and armed Tamil separatists in the mid-1980s several hundred thousand Tamil civilians have fled the island; as of late 1996 63 068 were housed in refugee camps in south India another 30 000-40 000 lived outside the Indian camps and more than 200 000 Tamils have sought political asylum in the West
+This diversity has a complicated history. The civil war between the government and the Tamil Tigers (LTTE), which ran from 1983 to 2009, left deep scars in the north and east. For visitors, the war's effects are most visible in the landscape of those regions — slow reconstruction, memorials, a certain wariness toward strangers from the wrong ethnic group in some communities. In general, though, travelers find Sri Lanka a warm and hospitable country across all communities.
 
-**Age structure:**
+Sinhalese and Tamil are the official languages. Sinhala is an Indo-Aryan language related to no other living language; Tamil belongs to the Dravidian family and is also spoken in South India. English is the language of government, higher education, and commerce, and it is spoken by a significant portion of the educated population, especially in cities. Getting by with English alone is easy almost everywhere on the tourist trail.
 
-*0-14 years:* 28% (male 2 673 194; female 2 556 926)
+Sri Lanka has a high literacy rate — around 92% — and the population is generally well-educated, well-informed, and curious about the world. Travelers are often surprised by the quality of conversation they can have at a guesthouse or on a long train journey.
 
-*15-64 years:* 66% (male 6 126 759; female 6 385 450)
-
-*65 years and over:* 6% (male 579 329; female 611 900) (July 1998 est.)
-
-**Population growth rate:** 1.12% (1998 est.)
-
-**Birth rate:** 18.4 births/1 000 population (1998 est.)
-
-**Death rate:** 5.96 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.25 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.95 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 16.33 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 72.55 years
-
-*male:* 69.82 years
-
-*female:* 75.41 years (1998 est.)
-
-**Total fertility rate:** 2.12 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Sri Lankan(s)
-
-*adjective:* Sri Lankan
-
-**Ethnic groups:** Sinhalese 74% Tamil 18% Moor 7% Burgher Malay and Vedda 1%
-
-**Religions:** Buddhist 69% Hindu 15% Christian 8% Muslim 8%
-
-**Languages:** Sinhala (official and national language) 74% Tamil (national language) 18%
-
-*note:* English is commonly used in government and is spoken by about 10% of the population
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 90.2%
-
-*male:* 93.4%
-
-*female:* 87.2% (1995 est.)
+Buddhism pervades Sinhalese culture in ways you will notice constantly: the white dagobas (dome-shaped reliquary mounds) visible from the road, the sound of temples at dusk, the saffron-robed monks on public buses, the poya days (full moon holidays) when alcohol is difficult to buy and some businesses close. Dress modestly when visiting temples — shoulders and knees covered, shoes off at the entrance.

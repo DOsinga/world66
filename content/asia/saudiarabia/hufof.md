@@ -1,4 +1,0 @@
----
-title: "hufof"
-type: location
----

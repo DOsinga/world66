@@ -5,8 +5,6 @@ latitude: 27.000697
 longitude: 49.653216
 ---
 
-We currently have no information about Jubail.
+Jubail is one of the world's largest industrial cities, built largely from scratch since the 1970s as Saudi Arabia's petrochemical hub. It is not on most tourist itineraries, but if you are passing through the Eastern Province it is worth knowing about for its surprisingly good beaches and the relatively unspoiled coastline to its north.
 
-If you do know any general information about Jubail, please [Edit this article].
-
-If you know any hotels in Jubail or restaurants in Jubail, please [[Add].](/destinations/addItemWizard?addwhere=asia/middleeast/saudiarabia/jubail)
+The Royal Commission Jubail operates a nature reserve area, and the waters off Jubail are a habitat for dugongs and sea turtles — the Arabian Gulf coast here is less developed than the stretch around Khobar.

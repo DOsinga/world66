@@ -3,24 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**By air**
 
-Sri Lanka's national airline is *Air Lanka (UL)*.
+Nearly all travelers arrive at Bandaranaike International Airport (CMB), in Katunayake, about 35km north of [Colombo](/asia/srilanka/colombo). It is a reasonably modern airport that operates around the clock.
 
-Approximate flight times
+SriLankan Airlines (UL) is the national carrier and flies to European, Middle Eastern, and Asian hubs. Most travelers from Europe route through the Gulf — Emirates via Dubai, Qatar Airways via Doha, and Etihad via Abu Dhabi all have frequent connections. Singapore Airlines and Malaysia Airlines connect through Southeast Asia. From London, direct or single-stop flights take around 10–12 hours. From Sydney, expect 13–15 hours via a hub.
 
-From Colombo to *London* is 13 hours 45 minutes to *Hong Kong* is 5 hours 10 minutes to the *Seychelles* is 3 hours 55 minutes and to *Tokyo* is 12 hours.
+A second international airport, Mattala Rajapaksa International (HRI) near Hambantota, handles very little traffic and is rarely a practical option for tourists.
 
-International airport
+From the airport to [Colombo](/asia/srilanka/colombo), a metered taxi costs around LKR 3,000–4,500 (USD 10–15). The Katunayake Expressway has reduced driving time to about 45 minutes outside of rush hour. There is also a train from Katunayake to Colombo Fort (roughly 1.5 hours; very cheap), but services can be infrequent and involve a transfer.
 
-*Colombo Bandaranayake (CMB)* (Katunayake) is 32km (20 miles) from the city. Buses go to the city every 30 minutes. Taxis are available. There are trains to Maradana station (1.6km/1 mile from the city centre); travel time – 1 hour 25 minutes. There are full duty-free facilities at Colombo airport as well as a restaurant bar snack bar bank (24 hours) post office tourist information (24 hours) and car hire.
+Most visa-on-arrival countries now require an Electronic Travel Authorization (ETA) arranged online in advance (USD 50 for most nationalities as of 2025). Check current requirements before you travel — the system has had periods of instability.
 
-Departure tax
+**By sea**
 
-SLRs500. Transit passengers and children under two years are exempt.
-
-Sea
-
-International ports include Colombo Talaimannar Trincomalee and Galle. Passenger services to Sri Lanka are operated by *Flagship Cruises Holland America Nauru Line Norwegian American P&O Royal Viking CIT *and* Cunard. *Cargo/passenger lines running services to Sri Lanka include *Bank Hauraise Lloyd Triestine *and *Swedish American.*
-
-* *
+There are no regular international ferry services to Sri Lanka. Occasional cruise ships call at Colombo and [Galle](/asia/srilanka/galle), but Sri Lanka is not on a practical overland or sea route from anywhere.

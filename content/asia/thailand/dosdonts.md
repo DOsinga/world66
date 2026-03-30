@@ -1,6 +1,6 @@
 ---
 title: "Do's & Don'ts"
-type: location
+type: section
 ---
 
 Thai people have a deep, traditional reverence for the Royal Family, and a visitor should be careful to show respect for the King, the Queen and the Royal Children. This includes, for example, standing up in the cinema as the royal anthem is played before every movie starts. You also should stand still, when at public places as the railway stations the anthem is played as well. 

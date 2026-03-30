@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 4 297 629 (July 1998 est.)
+Turkmenistan has a population of around 6 million people. The vast majority — roughly 85 percent — are ethnic Turkmens, a Turkic-speaking people whose origins lie in the nomadic tribes of the Central Asian steppes. Uzbeks make up about 5 percent of the population; Russians, once more numerous, have emigrated heavily since independence. Smaller communities of Kazakhs, Azerbaijanis, and others make up the rest.
 
-**Age structure:**
+The Turkmens are divided into tribes, and tribal identity remains important. The dominant tribes are the Tekke (concentrated around Ashgabat and Mary), the Yomut (along the Caspian), and the Ersari (in the east near Uzbekistan). Each tribe has its own carpet patterns, dress traditions, and dialect. In the cities this is less visible, but in rural areas tribal distinctions still shape daily life.
 
-*0-14 years:* 39% (male 843 839; female 813 837)
+Islam arrived in the 8th century and is practiced by the great majority of Turkmens, though in a relatively relaxed form shaped by the long influence of Sufism. Soviet-era secularism still runs deep in urban areas. The government has kept Islam firmly under state control and does not permit independent religious activity.
 
-*15-64 years:* 57% (male 1 211 477; female 1 249 085)
+The nomadic past is not just history. Horses are raised and prized; the Akhal-Teke breed — lean, metallic-coated, extraordinarily elegant — is a national symbol and appears on the coat of arms. Carpet weaving is a female craft handed down through generations, and Turkmen carpets (characterized by deep reds and geometric patterns) are among the most sought-after in the world.
 
-*65 years and over:* 4% (male 67 842; female 111 549) (July 1998 est.)
-
-**Population growth rate:** 1.6% (1998 est.)
-
-**Birth rate:** 26.24 births/1 000 population (1998 est.)
-
-**Death rate:** 8.7 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.58 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.6 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 72.89 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 61.3 years
-
-*male:* 57.68 years
-
-*female:* 65.11 years (1998 est.)
-
-**Total fertility rate:** 3.26 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Turkmen(s)
-
-*adjective:* Turkmen
-
-**Ethnic groups:** Turkmen 77% Uzbek 9.2% Russian 6.7% Kazakh 2% other 5.1% (1995)
-
-**Religions:** Muslim 89% Eastern Orthodox 9% unknown 2%
-
-**Languages:** Turkmen 72% Russian 12% Uzbek 9% other 7%
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 98%
-
-*male:* 99%
-
-*female:* 97% (1989 est.)
+Turkmen hospitality is genuine and generous. An invitation to a family home is not to be taken lightly or refused if possible. You will be offered tea, bread, and whatever food the household has. This tradition of welcoming strangers is older than any government.

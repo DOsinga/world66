@@ -3,42 +3,28 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Thailand's national airline is *Thai Airways International (TG).*
+Thailand's two main international airports are both near [Bangkok](/asia/thailand/bangkok). **Suvarnabhumi Airport (BKK)** handles the majority of international flights and is the hub for Thai Airways, as well as numerous foreign carriers. It sits about 30km east of the city centre; the Airport Rail Link runs to the centre in around 30 minutes. **Don Mueang Airport (DMK)**, the older of the two, handles low-cost carriers including AirAsia, Nok Air, and Lion Air. It's 25km north of the centre and connected by bus and expressway.
 
-For free advice on air travel from the UK call the Air Travel Advisory Bureau in the UK on (0171) 636 5000.
+**Phuket International Airport (HKT)** has direct international connections to Europe, the Middle East, and across Asia — useful if your goal is the southern islands and you'd rather skip Bangkok entirely. **Chiang Mai International Airport (CNX)** handles regional connections from within Asia. **Koh Samui Airport (USM)** is a smaller private airport operated by Bangkok Airways.
 
-Approximate flight times
+Most European and North American travellers will find Bangkok the easiest entry point, with direct or one-stop connections from virtually every major city. Budget carriers from the Middle East and across Asia make one-stop Bangkok fares very competitive.
 
-From Bangkok to *London* is 11 hours; to *Manila* is 3 hours 10 minutes; to *Singapore* is 2 hours 15 minutes and to *Sydney* is 9 hours 30 minutes.
+## Visa Exemption
 
-International
+Citizens of most Western countries, plus Japan, South Korea, Australia, and around 90 other nationalities, can enter Thailand without a visa for stays of up to 60 days. You may extend this once at an immigration office for an additional 30 days.
 
-* *
+On arrival you'll need to have completed the **Thailand Digital Arrival Card (TDAC)** online — this replaced the old paper TM6 form in 2025. Fill it out within three days before your flight; it's free. Officially you should also carry proof of funds (20,000 THB per person) and an onward or return ticket, though in practice most travellers are not asked.
 
-Airports:
+Nationals not covered by the exemption can apply for a Visa on Arrival at the airport for a 15-day stay. Longer trips require a tourist visa arranged in advance at a Thai embassy.
 
-*Bangkok International (BKK)* (Don Muang) is 22km (14 miles) north of the city (travel time  40-60 minutes). There is a 24-hour bus service to the city centre. Trains also run to the city centre (travel time  30-45 minutes). Limousines are available at all hours: service is every 20 minutes depending on flights. Taxis are also available. There is a direct coach service to Pattaya at 0900 1200 and 1900 returning at 0630 1400 and 1830. Airport facilities include 24-hour left luggage 24-hour first aid chemist (0600-2100) duty-free shop (0600-0200) * *24-hour banks/bureaux de change restaurant 24-hour bar and snack bars inside the departure lounge 24-hour post office situated inside the departure lounge 24-hour nursery car hire accommodation and insurance bureaux (0700-2200).
+## Overland
 
-*Chiang Mai International Airport (CNX)* 15km (9 miles) from the city (travel time  20 minutes). Taxi service is available to the city centre. Airport facilities include car hire banks/bureaux de change (0830-1530) restaurant (0800-2200) and bar (2100-0200).
+Thailand shares land crossings with Malaysia, Cambodia, Laos, and Myanmar. The most used are the crossing into Laos at **Nong Khai** (connected by rail from Bangkok) and into Cambodia at **Aranyaprathet** (Poipet side). The Malaysia crossing at **Padang Besar** has regular rail connections to both Bangkok and Kuala Lumpur; the journey to Singapore takes around 48 hours by train.
 
-*Phuket International Airport (HKT)* is 35km (22 miles) northwest of Phuket. Buses and taxis are available to the city centre. Airport facilities include left luggage duty-free shops (0700-2100) first aid (0800-2200) banks post office (0830-2000) restaurant and snack bars (0700-2100) car hire and tourist information.
+Overland crossings into Myanmar are limited and not all are open to foreign tourists — check the current situation before planning a border crossing.
 
-*Hat Yai International* *(HDY) *has recently been opened; so far it is only used for flights to Asian destinations and domestic flights. The nearest town is Songkhla (approximately 20km/12.5 miles away). Taxis bus and train services are available.
+## By Sea
 
-Departure tax:
-
-Bt500 for all international departures. Transit passengers and children under two years of age are exempt.
-
-Sea
-
-The main international port is Bangkok. Limited passenger services are available. Cargo/passenger lines: *Ben Shipping Glen Hansa Polish Ocean Royal Inter-Ocean *and* States Steamship.*
-
-Rail
-
-Through trains operate to Kuala Lumpur with daily connections to Singapore and to the borders with Cambodia (at Aranyaprathet) and Laos (at Nong Khai). The journey to Singapore takes 48 hours.
-
-Road
-
-There are international roads from Malaysia Myanmar and Laos. Roads into Cambodia are not officially open to tourist traffic.
+There are no major international passenger sea routes into Thailand. Short ferry crossings from Malaysia's Langkawi and Penang serve the southern Thai border towns of Satun and Hat Yai. Cruise ships dock at Laem Chabang (near [Pattaya](/asia/thailand/pattaya)) and occasionally at [Phuket](/asia/thailand/phuket).

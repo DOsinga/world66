@@ -5,65 +5,19 @@ latitude: 34.917416
 longitude: 32.889903
 ---
 
-Aphrodite - The Island of Love
+Cyprus is the third-largest island in the Mediterranean — Greek in character in the south, Turkish in the north, and divided since 1974. The division is the defining fact of modern Cyprus and the first thing any traveler needs to understand: roughly 37% of the island is administered by Turkish Cyprus (the Turkish Republic of Northern Cyprus, recognized only by Turkey), while the Republic of Cyprus controls the south and is a member of the European Union.
 
+The island is genuinely beautiful. The Troodos Mountains rise to over 1,900 meters and hold a scatter of Byzantine painted churches — many UNESCO-listed. The coastline ranges from wild turtle-nesting beaches on the Akamas Peninsula to the packed resort strips of Ayia Napa. Roman mosaics at Paphos and the ruins of Kourion rank among the best archaeological sites in the eastern Mediterranean.
 
+Winters are mild and sunny. Summers are extremely hot — 40°C inland is not unusual in July and August. The island comes alive in spring, when wild flowers cover the hillsides and temperatures are comfortable for walking.
 
+## Destinations
 
- For those Cyprus devotees who know and love the island this introduction may have little to offer other than as a reminder of just what the island is all about. For those not yet familiar with Cyprus, the best (and often used) adjectives that would top the list when writing copy such as this, would undoubtedly include 'sun-kissed','sharply contrasting','unhurried', 'irresistible', 'fascinating' and such like.
-
-
-
-
- This is not to suggest that the island is perfect. Like any venue it has its 'warts and all' negative points but, on balance, we suggest that many thousands of visitors have been delighted for every one that has encountered any failings. The people themselves, at the root of Cyprus's famous hospitality, are a fascinating blend of Roman, Byzantine, Greek and British influenced
- characteristics and traits.
-
-
-
-
- The Cypriots, however, are proud of their individuality and warmth of character.
-
-
-
-
- They will welcome strangers into their homes and lives much quicker than those from the countries which influenced Cyprus over the years. The heady mix of Mediterranean weather and cuisine, a low cost of living, and the ease with which one can communicate, makes Cyprus such a favorite among the West Europeans, particularly the British.
-
-
-
-
- In many parts of Cyprus you will find a life style little changed from centuries ago, when the pace of life was slower and simple pleasures were gained from an
- equally simple life.
-
-Wherever you travel in Cyprus you will not be far from blossoms, fruit and the sights and sounds of the Mediterranean.
-
-
- Cyprus has made sure it caters for more sophisticated demands with widespread facilities for  fishing, golf, cycling, sailing/yachting, swimming, nature
- treks, and water sports.
-
-
-
-
-
-
- There can be few more pleasurable experiences than sitting in the open air on a balmy Cyprus night enjoying a full scale 'meze' in the company of Greek friends.
- Eat, drink and be merry, indeed. 
-
-
-
-
- Although Greek is the national language of Cyprus, English is spoken almost everywhere with the exception of some remote villages
-
-Just bathe in a certain spot when Aphrodite's
- rocks stand out of the sea and legend says you will live five years longer.
- According to Homer  Aphrodite, the Greek Goddess of love and beauty, was
- born from the soft sea foam near Paphos
-
-In Paphos itself, take a trip back through
- Christianity at the St. Paul Pillar and St.
- Solomon Catacombs Enjoy the picturesque
- harbour and castle.
- 
- 
- Bill Guerin
-
-www.cypruspropertynetwork.co.uk
+- [Nicosia](/asia/cyprus/nicosia) — the divided capital, part Greek, part Turkish, with a walkable old city and the only divided capital in the world
+- [Limassol](/asia/cyprus/limassol) — the main port and commercial hub, with a lively waterfront and Cyprus's wine country nearby
+- [Paphos](/asia/cyprus/paphos) — UNESCO mosaics, ancient harbour, and the legend of Aphrodite's birthplace
+- [Larnaca](/asia/cyprus/larnaca) — the main entry point for most visitors, with the main international airport
+- [Ayia Napa](/asia/cyprus/ayianapa) — famous beach resort; hedonistic in summer, quieter out of season
+- [Kourion](/asia/cyprus/kourion) — spectacular clifftop ruins with a restored Roman theatre
+- [Lefkara](/asia/cyprus/lefkara) — hill village renowned for lace and silver
+- [Northern Cyprus](/asia/cyprus/northerncyprus) — Kyrenia, Famagusta, Bellapais, and Salamis; a different world, accessed through the Green Line

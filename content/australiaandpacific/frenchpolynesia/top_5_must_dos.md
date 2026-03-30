@@ -3,27 +3,22 @@ title: "Top 5 Must Do's in French Polynesia"
 type: section
 ---
 
-Papeete, Tahiti is a beautiful island located in the South Pacific. There is never a shortage of fun things to do on this amazing island. Here are the **top 5 must do's **while in Papeete.
+**1. Drift dive through Tiputa Pass, Rangiroa.**
 
-**1. Natura Exploration 4WD Tours.**
+The pass between the ocean and the lagoon at Rangiroa is one of the world's great dive sites. At the right state of the tide, the current sweeps you through at speed while sharks, dolphins, and manta rays go about their business around you. The sensation of being carried effortlessly through a living river of marine life is unlike anything else in diving. Even if you don't dive, drift snorkelling through the shallower edges of the pass is extraordinary. Plan your visit around the tidal schedule — the dive centres on the island know it by heart.
 
-Taking the 4WD tour is a great way to see and learn about the island. Your tour guide will not only point out beautiful sights but give you valuable information on the ego logical issues of the island. While on your tour you will enjoy fresh local food and drinks. Make sure to bring your camera and sunscreen.
+**2. Take the ferry to Moorea and rent a scooter.**
 
-**2. Shark Feeding**
+Most people arriving in Papeete are in a hurry to get somewhere expensive. The smarter move is to take the 30-minute catamaran to Moorea (about USD 8), rent a scooter, and spend a day riding the coastal road. Cook's Bay and Opunohu Bay cut deep into the island, framed by jagged green peaks. You can stop at a fruit stand, eat lunch at a roadside snack bar for almost nothing, and be back in Papeete by evening having seen some of the most beautiful scenery in the Pacific for well under USD 50.
 
-Shark feeding is an activity for those who seek adventure. You will go out with a guide and watch reef sharks get hand fed. Being this close to the sharks is an amazing experience that you will not forget. Your guide will normally give you some educational information about the sharks that he or she is feeding.
+**3. Eat at the Papeete roulottes.**
 
-**3. Water sports**
+Every evening, a line of food trucks sets up along the Papeete waterfront. Pull up a plastic stool, order a bowl of poisson cru and a plate of grilled fish, and spend a couple of hours watching the ferries come and go across the harbour. The food is good, the prices are reasonable by French Polynesian standards, and this is where the city actually eats. It is a reminder that not everything here requires an overwater bungalow.
 
-Papeete, Tahiti is known for having beautiful beaches. There is a wide variety of beach activities and water sports that can be done in Papeete. Snorkeling and scuba diving are popular activities since the ocean waters are very warm and clear. You can also try kite boarding which is becoming a very popular activity. If you just want to lay on the beach and catch some sun rays then Papeete offers that as well. Hitting the beach and the ocean waters should be on the top of your list of things to do in Papeete.
+**4. Go to the Marquesas.**
 
-**4. Sunset Cruise**
+This is the long trip — a 3.5-hour flight from Papeete, or a 16-day round voyage on the cargo-passenger ship Aranui. The Marquesas have no lagoons, no beach-resort infrastructure, and very limited tourist facilities. What they do have is dramatic volcanic landscape, a rich artistic tradition (the tattooing, carving, and tapa work here are among the finest in Polynesia), ancient archaeological platforms in the forest, and the graves of Gauguin and Jacques Brel at Atuona on Hiva Oa. Travellers who make the effort consistently say it was the highlight of their time in French Polynesia.
 
-Enjoy watching the sunset over the Pacific Ocean while on beautiful catamaran. Your cruise usually last about two hours and you will enjoy traditional Tahitian cocktails. This is a perfect activity if you are looking to add a little romance to your trip. Along with seeing the sunset your captain will be pointing out different points of interest. Make sure to bring your camera to capture all the special moments.
+**5. Watch the Heiva in July.**
 
-**5. Open Air Market**
-
-You probably won't find commercialized shopping in Tahiti. You will find a open air market that offers souvenirs and hand crafted items. The market also offers fresh produce, meats and fish. If you are looking for a fresh lei (flower necklace) then the market is a great place to find them. Keep in mind that trying to bargain is not customary in Tahiti.
-
-**Contributors**
-May 07, 2010
+If your visit falls in July, make time for the Heiva competitions. The traditional dance groups compete with a seriousness of purpose that makes it clear this is not a tourist performance — this is how Polynesian culture has been transmitted and contested for generations. The costumes are elaborate, the movements precise, and the drumming intense. Tickets are available in Papeete for the main competitions; the sporting events (outrigger racing, stone lifting) are often free to watch along the waterfront.

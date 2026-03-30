@@ -3,66 +3,16 @@ title: "People"
 type: section
 ---
 
-**Population:** 802 611 (July 1998 est.)
+Fiji's population of around 930,000 is split broadly between two main communities: indigenous iTaukei Fijians and Indo-Fijians, the descendants of indentured laborers brought from India by the British between 1879 and 1916. For much of the 20th century the two communities were roughly equal in size, but a series of coups beginning in 1987 triggered large-scale emigration of Indo-Fijians to Australia, New Zealand, and Canada. Today iTaukei Fijians make up about 57% of the population, Indo-Fijians around 37%, with smaller communities of part-Europeans, Rotumans, and Pacific Islanders making up the rest.
 
-**Age structure:**
+The two communities have largely distinct cultural lives. Indigenous Fijians are predominantly Methodist Christian; their society is organized around villages and clans, with chiefs playing a significant ceremonial role. Indo-Fijians are mostly Hindu, with a Muslim minority; they speak Fiji Hindi, a dialect that evolved from the mix of languages the laborers brought with them, and maintain strong connections to Indian customs while having developed a distinctly Fijian-Indian identity over five generations.
 
-*0-14 years:* 34% (male 139 713; female 134 220)
+English is the official language and widely spoken. In practice, you'll hear Fijian, Hindi, and English switching fluidly in any mixed-community setting.
 
-*15-64 years:* 63% (male 251 646; female 251 425)
+The political history of Fiji is genuinely complex. There have been four coups (1987 twice, 2000, and 2006), most rooted in tensions over land rights and political representation between the two communities. The 2013 constitution introduced equal citizenship regardless of ethnicity. The country returned to elected government in 2014 and has since had peaceful transfers of power.
 
-*65 years and over:* 3% (male 12 051; female 13 556) (July 1998 est.)
+Fijians have a reputation for friendliness that is not tourist-brochure cliché. The concept of "kerekere" — making requests of others with an expectation of generosity — runs through social life. Visitors who engage respectfully with village communities, bringing a small gift of kava root as a sevusevu (customary greeting), will find this warmth reciprocated.
 
-**Population growth rate:** 1.28% (1998 est.)
+**Languages:** English (official), iTaukei Fijian, Fiji Hindi
 
-**Birth rate:** 22.92 births/1 000 population (1998 est.)
-
-**Death rate:** 6.25 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -3.92 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.89 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 16.65 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 66.29 years
-
-*male:* 63.92 years
-
-*female:* 68.78 years (1998 est.)
-
-**Total fertility rate:** 2.74 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Fijian(s)
-
-*adjective:* Fijian
-
-**Ethnic groups:** Fijian 49% Indian 46% European other Pacific Islanders overseas Chinese and other 5%
-
-**Religions:** Christian 52% (Methodist 37% Roman Catholic 9%) Hindu 38% Muslim 8% other 2%
-
-*note:* Fijians are mainly Christian Indians are Hindu and there is a Muslim minority (1986)
-
-**Languages:** English (official) Fijian Hindustani
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 91.6%
-
-*male:* 93.8%
-
-*female:* 89.3% (1995 est.)
+**Religions:** Methodist Christian (majority iTaukei), Hindu (majority Indo-Fijian), Muslim minority

@@ -1,18 +1,14 @@
 ---
-title: 'Food'
+title: "Food"
 type: section
 ---
 
-Bruneian cuisine draws from Malay, Chinese, Indian, and Indonesian traditions, with its own distinct character. Meals tend to be rice-based, generously spiced, and often accompanied by sambal (chili paste). Eating out is remarkably cheap -- a filling meal at a local stall costs BND1-3.
+All food sold in Brunei is halal. There is no alcohol available anywhere in the country — officially, at least. Non-Muslim visitors may bring a limited personal allowance of alcohol through customs for private consumption, but you will not find it in restaurants, hotels, or shops.
 
-**Ambuyat** is the national dish and something every visitor should try at least once. It is a sticky, translucent paste made from sago starch, eaten by twirling it around a bamboo fork called a chandas and dipping it into various sauces (cacah). The ambuyat itself is essentially flavorless -- the sauces do all the work. Restaurants like Aminah Arif in [Bandar Seri Begawan](/asia/brunei/bandarseribegawan) are well known for serving it.
+The national dish, if there is one, is ambuyat — a sticky, translucent paste made from sago starch, eaten by twirling it around a bamboo fork and dipping it into a tangy sauce called cacah, often served alongside fried fish, beef rendang, or vegetables. It is an acquired texture but worth trying at least once.
 
-**Nasi katok** is the country's most popular everyday meal: a simple packet of rice, fried chicken, and sambal, sold at stalls across the country for just BND1. It is Brunei's answer to fast food, and every local has a favorite nasi katok spot.
+More immediately approachable is nasi katok: a simple plate of steamed rice, fried chicken, and sambal chilli available from small stalls and kiosks around the clock for a dollar or two. It is the everyday meal of Brunei and impossible to get wrong.
 
-**Beef rendang** is slow-cooked beef in coconut milk and spices until the sauce reduces to a thick, dark, intensely flavored coating. Brunei's version is drier and more concentrated than the Indonesian or Malaysian variants.
+The hawker food scene in Bandar Seri Begawan draws on Malay, Chinese, and Indian traditions. Rice and noodle dishes dominate. Roti canai with curry, laksa in a coconut broth, and various noodle soups are all easy to find. The night markets are the best places to eat affordably and sample the range.
 
-**Satay** -- skewered and grilled meat served with peanut sauce -- is everywhere, particularly at night markets. The Gadong Night Market in BSB is the best place to try it alongside dozens of other dishes.
-
-Other dishes worth seeking out include **nasi lemak** (coconut rice with sambal, anchovies, and egg), **laksa** (spicy noodle soup), **roti prata** (flaky flatbread with curry), **kelupis** (glutinous rice wrapped in leaves), and **penyaram** (sweet crispy pancakes sometimes called the "Borneo tart").
-
-Brunei does not have a bar or pub culture -- alcohol is banned for sale throughout the country. Non-Muslims over 17 may import two bottles of spirits or wine per entry for private consumption. Coffee culture is strong, though, and you will find good espresso at cafes in BSB's Gadong area and at the capital's newer specialty coffee shops.
+Given Brunei's significant Chinese population, Chinese-Malaysian food is widely available — particularly in towns like Kuala Belait. The food culture is less celebrated than in neighboring Malaysia or Singapore, but it is genuinely good and extremely affordable. Eating out is cheap by any measure: a proper meal rarely costs more than a few Brunei dollars.

@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 29 045 (July 1998 est.)
+About 34,000 people live in Gibraltar — one of the most densely populated territories in the world. Despite the small number, Gibraltarians have a strong and distinct sense of identity that is neither simply British nor Spanish.
 
-**Age structure:**
+The current population is the product of centuries of immigration. When Britain took possession of Gibraltar in 1704, almost all of the existing Spanish inhabitants left. Over the following decades, settlers arrived from Genoa, Malta, Portugal, Morocco, Menorca, and Britain itself. Sephardic Jewish families from North Africa established a significant community that remains culturally influential today. The result is a genuinely multicultural society, even by the standards of a cosmopolitan era.
 
-*0-14 years:* 20% (male 3 131; female 2 731)
+Gibraltarians are British citizens and hold British passports, but they maintain their own institutions, parliament, and legal system. The relationship with Spain has been complicated — Spain maintained a total border closure from 1969 until 1985, and sovereignty remains formally contested. Two referendums (1967 and 2002) have both produced overwhelming votes to remain British, with the 2002 vote rejecting a proposal for joint sovereignty by 98.5% to 1.5%.
 
-*15-64 years:* 66% (male 10 835; female 8 262)
+The local language is Llanito (pronounced "yah-nee-to") — a fluid, unselfconscious mix of Andalusian Spanish and British English, seasoned with Genoese, Maltese, Arabic, and Haketia (Judeo-Spanish). A conversation in Llanito might shift languages mid-sentence, sometimes mid-word, in a way that feels natural to locals and bewildering to outsiders. Llanito is a marker of Gibraltarian identity — a way of being neither purely British nor purely Spanish. Linguists note that the vernacular is under some pressure from standard English, particularly among younger generations who have grown up with social media and streaming services.
 
-*65 years and over:* 14% (male 1 684; female 2 402) (July 1998 est.)
-
-**Population growth rate:** 0.43% (1998 est.)
-
-**Birth rate:** 13.01 births/1 000 population (1998 est.)
-
-**Death rate:** 8.78 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.1 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.15 male(s)/female
-
-*15-64 years:* 1.31 male(s)/female
-
-*65 years and over:* 0.7 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.61 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 78.19 years
-
-*male:* 74.9 years
-
-*female:* 81.64 years (1998 est.)
-
-**Total fertility rate:** 2.19 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Gibraltarian(s)
-
-*adjective:* Gibraltar
-
-**Ethnic groups:** Italian English Maltese Portuguese Spanish
-
-**Religions:** Roman Catholic 74% Protestant 11% (Church of England 8% other 3%) Muslim 8% Jewish 2% none or other 5% (1981)
-
-**Languages:** English (used in schools and for official purposes) Spanish Italian Portuguese Russian
-
-**Literacy:**
-
-*definition:* NA
-
-*total population:* above 95%
-
-*male:* NA%
-
-*female:* NA%
+Religion remains a visible part of daily life. The majority of Gibraltarians are Roman Catholic, though the territory has historically been home to significant Anglican, Jewish, Muslim, and Hindu communities. The Ibrahim-al-Ibrahim Mosque at Europa Point and the synagogues in the old town are both actively used.

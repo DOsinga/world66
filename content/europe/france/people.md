@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 58 804 944 (July 1998 est.)
+France has around 68.6 million people (2025), making it the fourth most populous country in Europe. Some 75% of the population lives in urban areas. Paris and its metropolitan region alone accounts for around 12 million people — more than a sixth of the country's population.
 
-**Age structure:**
+The French are diverse. Historically a Celtic and Latin people with Germanic, Flemish, and Basque minorities, France has also seen significant immigration over the past century from southern Europe, North Africa, West Africa, and Southeast Asia. Estimates suggest that roughly 40% of the population has some form of immigrant ancestry. This diversity shapes French food, music, football, and daily life in ways that are often underappreciated by visitors who come expecting a monoculture.
 
-*0-14 years:* 19% (male 5 674 417; female 5 411 685)
+France is a proudly secular state. The principle of laïcité — the strict separation of religion from public life — is taken seriously, sometimes contentiously. Historically Catholic, France today has a large Muslim minority (the largest in Western Europe) and significant Jewish and Protestant communities. In practice, religious observance has declined sharply and many French identify as non-religious.
 
-*15-64 years:* 65% (male 19 243 919; female 19 182 933)
+Regional identity is strong. Bretons, Alsatians, Basques, Corsicans, and Occitans all maintain distinct languages, customs, and senses of identity that sit alongside French national identity rather than being absorbed by it.
 
-*65 years and over:* 16% (male 3 759 565; female 5 532 425) (July 1998 est.)
-
-**Population growth rate:** 0.31% (1998 est.)
-
-**Birth rate:** 11.68 births/1 000 population (1998 est.)
-
-**Death rate:** 9.12 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.58 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 0.67 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 5.69 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 78.51 years
-
-*male:* 74.6 years
-
-*female:* 82.62 years (1998 est.)
-
-**Total fertility rate:** 1.63 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Frenchman(men) Frenchwoman(women)
-
-*adjective:* French
-
-**Ethnic groups:** Celtic and Latin with Teutonic Slavic North African Indochinese Basque minorities
-
-**Religions:** Roman Catholic 90% Protestant 2% Jewish 1% Muslim (North African workers) 1% unaffiliated 6%
-
-**Languages:** French 100% rapidly declining regional dialects and languages (Provencal Breton Alsatian Corsican Catalan Basque Flemish)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99%
-
-*male:* 99%
-
-*female:* 99% (1980 est.)
+The French have a well-earned reputation for formality in social situations — introductions, greetings, and certain social rituals matter. First names come later than in Anglophone cultures. But this formality is not coldness; once you're in, French hospitality can be warm and generous. The stereotype of Parisian rudeness often reflects the friction between visitors' expectations and a city of 12 million people going about their lives.

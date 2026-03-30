@@ -5,8 +5,12 @@ latitude: 36.128593
 longitude: -5.347476
 ---
 
-The Rock of Gibraltar sits at the southernmost tip of Europe with a land frontier to [Spain](/europe/spain) on its northern front. It rests at the crossroads of the Atlantic Ocean and the Mediterranean Sea. The stretch of water that separates Gibraltar from north Africa is called the Strait of Gibraltar and throughout history has played a strategic part in battles fought and won to control the western Mediterranean seaways. Intrinsically linked with the sea, Gibraltar is one of the busiest Ports of Call in the Mediterranean. 
- In the ancient times, right through the age of empires and in the global conflicts of our own century, Gibraltar has stood guard over this Mediterranean, its unique position making it the focus of a continuous struggle for power. This spectacular rock monolith covers a land area of about six square kilometres. 
+Gibraltar is one of those places that shouldn't quite exist — a 6.5-square-kilometre British territory on the southern tip of Spain, within sight of Morocco, fiercely proud of its identity and stubbornly resistant to the obvious logic that it should belong to someone else. The Rock of Gibraltar, that massive limestone ridge rising 426 metres from the narrow isthmus, has defined the territory's history and still dominates everything about it.
 
+It sits at the entrance to the Mediterranean where the Atlantic meets a sea that has been at the centre of world trade and conflict for three millennia. Phoenicians, Carthaginians, Romans, Moors, and eventually the British all recognised what the location meant. Britain has held it since 1704, and after referendums in 1967 and 2002 — both producing votes of around 99% to remain British — the question of sovereignty is unlikely to go anywhere soon, despite ongoing Spanish claims.
 
- Steeped in history dating .
+For visitors, Gibraltar offers a compact and surprising few days. The Rock itself contains an extraordinary amount: hand-carved siege tunnels, limestone caverns with spectacular formations, the famous Barbary macaques, and views across two continents on a clear day. The town below is a curious blend of British pub culture, Spanish language, Genoese culinary heritage, and a Sephardic Jewish tradition that goes back centuries. The local vernacular, Llanito, switches between English and Andalusian Spanish in ways that are genuinely unique.
+
+Gibraltar is often visited as a day trip from the Costa del Sol, but it deserves at least a night or two to get past the cruise-ship crowds and into the quieter rhythms of the place. The border crossing can be slow — occasionally over an hour by car — but once through, the territory is entirely walkable.
+
+The currency is the Gibraltar pound, alcohol is cheap and untaxed, and the Rock is worth more than the couple of hours most visitors give it.

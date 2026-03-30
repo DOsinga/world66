@@ -3,112 +3,28 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Travel and Cultural Background**
 
-**Fodor's Paris '99**
+*A Year in Provence* by Peter Mayle (1989) — The book that introduced Provence to a generation of Anglophone readers. Some find it a little smug, but it captures the light, the food, and the exasperating pace of rural French life perfectly. Its sequel *Toujours Provence* is equally enjoyable.
 
+*The Identity of France* by Fernand Braudel (1986) — A monumental history of France by one of its greatest historians, tracing how geography, climate, and agriculture shaped French civilization. Dense but rewarding.
 
+*Almost French* by Sarah Turnbull (2002) — An Australian journalist moves to Paris and navigates French social codes, bureaucracy, and the unwritten rules of French life. Warm, funny, and honest about the difficulties.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/067900131X/ref=ase_osingacom?v=glance&s=books)
+**History**
 
-author: Fodor Travel Publications
+*Citizens* by Simon Schama (1989) — The definitive popular history of the French Revolution in English. Vivid, opinionated, and excellent.
 
-isbn: 067900131X
+*D-Day: June 6, 1944* by Stephen Ambrose — The standard popular account of the Normandy landings. Essential reading before visiting the beaches and cemeteries of Normandy.
 
-subject: travel
+*Napoleon* by Andrew Roberts (2014) — A comprehensive and sympathetic biography of France's most consequential figure, drawing on sources unavailable to earlier biographers.
 
-**Monet's Years at Giverny:Beyond Impressionism**
+**Fiction**
 
+*Les Misérables* by Victor Hugo (1862) — Set against the backdrop of post-Napoleonic Paris and the 1832 uprising. Hugo's portrait of poverty, law, and redemption is as compelling now as when it was written.
 
+*Madame Bovary* by Gustave Flaubert (1857) — The definitive French provincial novel. Flaubert's portrait of boredom and romantic delusion in rural Normandy is still shocking in its precision.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810981386/ref=ase_osingacom?v=glance&s=books)
+*The Sun Also Rises* by Ernest Hemingway (1926) — Much of it is set in Paris and the Basque country of northern Spain. Hemingway's Paris of the 1920s remains one of the most vivid literary portraits of the city.
 
-author: Daniel Wildenstein,James N. Wood
-
-isbn: 0810981386
-
-subject: culture
-
-**Picasso:Portrait of Picasso as a Young Man**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0765473194/ref=ase_osingacom?v=glance&s=books)
-
-author: Norman Mailer,Designed by Laura Hammond Hough
-
-isbn: 0765473194
-
-subject: culture
-
-**Culture Shock!:France**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155868056X/ref=ase_osingacom?v=glance&s=books)
-
-author: Sally Adamson Taylor,Trigg (Illustrator)
-
-isbn: 155868056X
-
-subject: culture
-
-**The Sun Also Rises**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0684800713/ref=ase_osingacom?v=glance&s=books)
-
-author: Ernest Hemingway,Designed by Dierdre C. Amtho..
-
-isbn: 0684800713
-
-subject: history
-
-**A Tale of Two Cities**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566193230/ref=ase_osingacom?v=glance&s=books)
-
-author: Charles Dickens
-
-isbn: 1566193230
-
-subject: history
-
-**D-Day:June 6, 1944: The Climactic Battle of World War II**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/068480137X/ref=ase_osingacom?v=glance&s=books)
-
-author: Stephen E. Ambrose
-
-isbn: 068480137X
-
-subject: history
-
-**Encore Provence:New Adventures in the South of France**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679441247/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Mayle
-
-isbn: 0679441247
-
-subject: travel
-
-**Eyewitness Travel Guide:Paris**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1564581853/ref=ase_osingacom?v=glance&s=books)
-
-author: DK Travel Writers
-
-isbn: 1564581853
-
-subject: travel
+*Suite Française* by Irène Némirovsky (2004, posthumously published) — A novel written during the German occupation of France, found in a notebook decades after its author was killed at Auschwitz. Heartbreaking and extraordinary.

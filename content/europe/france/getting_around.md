@@ -3,16 +3,22 @@ title: "Getting Around"
 type: section
 ---
 
-**Points of Interest**
+**By Train**
+
+France has some of the fastest and most comfortable trains in Europe. The TGV (Train à Grande Vitesse) connects [Paris](/europe/france/paris) to most major cities at speeds up to 320 km/h. [Lyon](/europe/france/alpes/lyon), [Marseille](/europe/france/midi/cotedazur/marseille), [Bordeaux](/europe/france/aquitaine/bordeaux), Nantes, and [Lille](/europe/france/nord/lille) are all under three hours from the capital. Book through SNCF Connect (sncf-connect.com) or Trainline — early bookings get significantly cheaper fares.
+
+Regional TER trains are the workhorses for shorter hops and connect smaller towns not served by TGV. Passes such as the Eurail France Pass can offer good value if you plan to travel frequently.
 
 **By Car**
 
-The Autoroutes of France are a great way of getting to one part of the country to another. They are in perfect shape, the places to stop (aire de repos) are always very well organized -in summer they often have activities for children- but there is one backdraw: peage. That means that you have to pay to use the autoroute, you get a ticket when you go on the autoroute and have to give the ticket and pay when you get off. It is always possible to pay with creditcard so you don't have to have small change in your wallet.  [more..](/europe/france/gettingaround/bycar)
+The autoroute network is excellent and in very good condition. The downside is the péage — toll charges accumulate fast on long drives across the country. You pay when you exit, and credit cards are accepted at most toll plazas. Petrol is expensive by North American standards. For scenic travel, the routes nationales and départementales are toll-free and often more rewarding.
 
-**By Train**
+Traffic in and around Paris is bad. Don't drive there unless you have to. The rest of France is fine.
 
-France has the fastest trains in Europe. The TGV (Train a Grande Vitesse i.e. Very Fast Train) take syou from [Paris](/europe/france/paris) to most major cities at an average speed of some 200 km an hour. [Nantes](/europe/france/normandybrittany/nantes), [Lyon](/europe/france/alpes/lyon), [Marseille](/europe/france/midi/cotedazur/marseille), [Lille](/europe/france/nord/lille), [Brussels](/europe/belgium/brussels) and [London](/europe/unitedkingdom/england/london) are all very close to Paris by TGV. There is no point in taking the plane if you can fly by train. [more..](/europe/france/gettingaround/bytrain)
+**By Bus**
 
-**On Foot**
+FlixBus and BlaBlaBus serve intercity routes at low cost, especially useful for destinations not well covered by rail. Journey times are longer, but prices can be very competitive.
 
-The Grand Randonee is a footpath that takes you from one end to France to the other. In every region of France there are branches of the GR. The total length of the footpaths is 140000 km, that's about 4 times around the globe. [more..](/europe/france/gettingaround/onfoot)
+**On Foot and by Bike**
+
+France has over 140,000 km of marked footpaths, including the long-distance Grande Randonnée (GR) network. More than 50 GR routes criss-cross the entire country, making multi-day walks easy to plan almost anywhere. The Loire Valley, Provence, and Alsace all have excellent dedicated cycling routes through spectacular countryside. Many cities have bike-share schemes for getting around town.

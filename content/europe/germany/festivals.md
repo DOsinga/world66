@@ -3,12 +3,18 @@ title: "Festivals"
 type: section
 ---
 
-**Oktoberfest**
+Germany takes its festivals seriously. From mid-sized cities to small villages, the calendar is dense with events — religious, seasonal, cultural, and just plain celebratory.
 
-Germany is famous throughout Europe, and indeed the world, for it's many festivals held at various times throughout the year. The most famous arguably being Oktoberfest, an annual beer festival held in Munich. Approximately 6 million liters of Bavarian beer are drunk at this festival! Entry to this is entirely free and non-ticketed.
+**Oktoberfest** (Munich, late September–early October) is the most famous, drawing over 6 million visitors to the Theresienwiese fairgrounds each year. The mayor of Munich taps the first keg to open proceedings, and from there it's two weeks of Bavarian beer, fairground rides, brass bands, and enormous quantities of roast chicken and pretzels. Entry to the grounds is free, but getting a seat in the big tents — especially on weekends — without a reservation is increasingly difficult. Book accommodation in Munich months in advance.
 
-The festival begins with an opening ceremony during which the mayor of Munich taps open a keg of beer to symbolize the commencement of the festivities. The festival itself lasts for approximately 2 weeks and there is a wide range of activities for all ages. Obviously, there is plenty to drink but you can also choose to enjoy the many thrilling fairground rides, shopping, eating or just taking in the atmosphere and watching the world go by.
+**Karneval** (February–March) is Germany's equivalent of Mardi Gras. Cologne and Düsseldorf go completely overboard: parades, costumes, public drinking, and five days of organised chaos in the week before Lent. The Cologne Rosenmontag parade is one of the biggest street events in Europe. Mainz, Munich (where it's called Fasching), and many other cities hold their own versions.
 
-**Starkbierzeit**
+**Berlinale** (Berlin, February) is one of the world's most prestigious film festivals, attracting major directors and stars and running serious competition alongside public screenings. If you're in Berlin in February and interested in film, it's worth checking what's available to the public.
 
-Another Munich beer festival is the Starkbierzeit which is German for "strong beer festival"--the title being self explanatory! The Starkbierzeit occurs during the Christian period of Lent where fasting and abstinence are encouraged. Legend has it that this practice dates
+**Christmas Markets** (Advent season, late November through December 24) are a genuine highlight of winter travel in Germany. Nuremberg's *Christkindlesmarkt* is the most visited and touristy; for something more atmospheric, try the markets in Erfurt, Dresden, Regensburg, or Freiburg. Almost every town has one — some are more commercial than others, but even a modest market with a cup of Glühwein and a Lebkuchen in the cold is hard to dislike.
+
+**Starkbierzeit** (Munich, March) is a Bavarian spring beer festival held during Lent — historically a workaround by monks who brewed strong beer to sustain themselves through fasting. The Paulaner brewery on the Nockherberg hosts the main celebration.
+
+**Beethoven Easter Festival** (Bonn, April) and **Bayreuth Festival** (Bayreuth, July–August, dedicated to Richard Wagner) represent Germany's serious classical music calendar. Wagner tickets are legendarily hard to obtain; waiting lists run for years.
+
+Wine festivals animate the Mosel, Rhine, and Franconia wine regions throughout autumn.

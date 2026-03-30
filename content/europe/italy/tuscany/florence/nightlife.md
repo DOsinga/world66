@@ -1,4 +1,5 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Nightlife"
 type: section
+order: 6
 ---

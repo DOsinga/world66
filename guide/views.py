@@ -53,6 +53,11 @@ def location_or_section(request, path):
     if page.page_type == "section":
         pois = page.pois()
 
+    # Collect distinct categories from POIs (for filter UI)
+    poi_categories = []
+    if page.page_type == "section" and pois:
+        poi_categories = sorted(set(p.category for p in pois if p.category))
+
     # Map context — validate lat/lng as floats
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
@@ -81,6 +86,7 @@ def location_or_section(request, path):
         "markers_json": mark_safe(json.dumps(markers)),
         "tags": page.tags,
         "is_poi": page.page_type == "poi",
+        "poi_categories": poi_categories,
     })
 
 
@@ -107,7 +113,7 @@ def tag_index(request, tag):
     return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
 
 
-_SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks"}
+_SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks", "things_to_do"}
 
 
 def _marker_from_page(page, highlight=False):

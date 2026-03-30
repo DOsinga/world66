@@ -1,6 +1,7 @@
 ---
 title: "Day Trips"
 type: section
+order: 8
 address: "Frascati Rome"
 phone: "Villa Aldobrandini ,+39 06 9420331"
 ---

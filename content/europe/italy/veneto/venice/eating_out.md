@@ -1,6 +1,7 @@
 ---
 title: "Eating Out"
 type: section
+order: 3
 ---
 
 Venice is unique. It is, however, unique to all, approximately 22 million visitors that pay a visit to the city every year and it especially the tourism that makes Venice flourish these days. The Venetians know this and you are about to find out soon as well. Especially in the high season and around Piazza San Marco, you will have to pay a lot for food (and accommodation) which certainly does not always mean good value. 

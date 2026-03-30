@@ -1,6 +1,7 @@
 ---
 title: "Bars and Cafes"
 type: section
+order: 4
 address: "Via di Tor Millina, 00186, Roma"
 ---
 

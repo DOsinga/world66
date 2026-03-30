@@ -1,13 +1,14 @@
 ---
-title: "San Pietro In Vincoli"
+title: "San Pietro in Vincoli"
 type: poi
-address: "4/a Piazza San Pietro in Vincoli"
-opening_hours: "open daily 07.00-12.30 and 15.30-18.00"
-phone: "Tel. 06 48 82 865"
-url: "roma.katolsk.no"
-zipcode: "00184 Roma"
-latitude: 45.417414
-longitude: 7.459508
+address: "Piazza di San Pietro in Vincoli 4a, 00184 Rome"
+opening_hours: "Daily 08:00–12:30, 15:00–19:00"
+admission: "Free"
+latitude: 41.8940
+longitude: 12.4979
+tags: ["3 Days in Rome"]
 ---
 
-St. Peter in Chains was first built around 442 AD, and has been modified many times since. A shrine before the altar contains the chains that held St. Peter when he was imprisoned. To the right of the altar is a grand statue, the centerpiece of which is Moses. The statue of Moses was created by Michelangelo, while the surrounding works were done by his students. This church is a little tucked away but is fairly close to the Colliseum.
+A 5th-century basilica near the Colosseum, housing two things worth seeing: the chains (vincoli) said to have bound St. Peter in Jerusalem, displayed in a reliquary under the high altar, and Michelangelo's Moses. The seated Moses — part of the never-completed tomb of Pope Julius II — is one of Michelangelo's most powerful sculptures. The horns on Moses's head are a medieval mistranslation of the Hebrew word for "rays of light."
+
+Tucked down a side street and easily missed, which means it's often quiet. Five minutes' walk from the Colosseum.

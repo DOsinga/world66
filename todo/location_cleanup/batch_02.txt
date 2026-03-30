@@ -1,0 +1,5 @@
+europe/sweden/stockholm
+europe/denmark/copenhagen
+europe/norway/oslo
+europe/hungary/budapest
+europe/czechrepublic/prague

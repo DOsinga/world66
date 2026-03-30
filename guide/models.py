@@ -96,6 +96,10 @@ class Page:
             return [t.strip() for t in raw.split(",") if t.strip()]
         return []
 
+    @property
+    def category(self):
+        return self.meta.get("category", "")
+
     def breadcrumbs(self):
         crumbs = []
         parts = self.path.split("/")

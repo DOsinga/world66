@@ -1,11 +1,13 @@
 ---
 title: "Il Gesù"
 type: poi
-type: "Churches"
-latitude: 37.50931
-longitude: 15.069771
+address: "Piazza del Gesù, 00186 Rome"
+opening_hours: "Daily 07:00–12:30, 16:00–19:45"
+admission: "Free"
+latitude: 41.8952
+longitude: 12.4769
 ---
 
-Il Gesù, or the church of the *Santissimo nome di Gesù*, is the mother church of the Jesuit order . Build between 1568 and 1575 this baroque church was the principal example for almost all Jesuit churches around the world. In the nave the flock had to be assembled and educated. The most important weapons in the counterreformation were education and a whole new army of Saints. This education is evident in the frescos that ornate the nave and depict the triumph of the Name of Christ. The fresco inside the cupola is also by Bacicca, who shows here he’s a master of foreshortening. Vignola designed the church; Giacomo della Porta made the façade and finished the cupola.
+The mother church of the Jesuit order, built between 1568 and 1584 to designs by Vignola (nave) and Giacomo della Porta (façade). Its wide single nave — designed to pack in large congregations for sermons — became the template for Jesuit churches across the world. The ceiling fresco by Baciccia, the Triumph of the Name of Jesus (1679), is one of the most theatrical pieces of illusionistic Baroque painting in Rome: figures and angels seem to tumble out of the ceiling into the church below.
 
-type: Churches
+The tomb of St. Ignatius of Loyola is in the left transept, with a lapis lazuli globe said to be the largest in the world. Often quiet in the mornings.

@@ -1,6 +1,7 @@
 ---
 title: "When to Go"
 type: section
+order: 10
 ---
 
 Rome is an amazing place to visit any time of year, but there are definite benefits and drawbacks to each of the four seasons. Here is a rundown of what you can expect in each season so that you can best decide when you should visit Rome.

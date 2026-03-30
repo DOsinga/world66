@@ -1,6 +1,7 @@
 ---
 title: "Sights"
 type: section
+order: 2
 ---
 
 Naples and the region around is filled with historic sights. Although the structural conditions of some important sights have been neglected for several years, one must admit, that the city has improved a lot.

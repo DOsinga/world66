@@ -1,20 +1,13 @@
 ---
-title: "Spada Gallery"
+title: "Galleria Spada"
 type: poi
-address: "Via Capodiferro, 3"
-opening_hours: "9am - 7pm, sun 9am - 1pm, closed mon"
-phone: "6861158"
-type: "Museums"
-latitude: 45.701265
-longitude: 9.665776
+address: "Piazza Capodiferro 13, 00186 Rome"
+opening_hours: "Tue–Sun 08:30–19:30; closed Mon"
+admission: "€5"
+latitude: 41.8944
+longitude: 12.4709
 ---
 
-The Spada Gallery is housed in the Palace of the same name, once the property of Cardinal Girolamo Capodiferro (1501-1559). After the death of Cardinal Capodiferro the Palace passed to the Mignanelli family and was then bought in 1632 by Cardinal Bernardino Spada (1594-1661), who, from the moment he took up residence, decided not only to set up the basis of an art collection, but also decided on a series of modificatios employing various painters, sculptors and architets. Among the latter was Francesco Borromini who created the famous Perspective Gallery. The Gallery includes works of Gaspar Dughet, Guido Reni, Annibale Carracci, Jan Brueghel il Vecchio, etc.
+A small gallery of 17th-century paintings housed in a 16th-century palazzo near Campo de' Fiori, with works by Guido Reni, Annibale Carracci, and Jan Brueghel. The main reason to visit is Borromini's Perspective Gallery — a colonnade that appears to be 37 metres long but is actually only 8, using forced perspective and a shrinking floor plan to create the illusion. A marble warrior at the far end appears full-size but is under a metre tall.
 
-
- Take buses: 926, 19, 306
-
-
- Entrance fee: £ 4.000
-
-type: Museums
+One of Rome's more engaging minor sights. Rarely crowded.

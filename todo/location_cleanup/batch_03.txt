@@ -1,0 +1,5 @@
+europe/greece/athens
+asia/turkey/istanbul
+europe/unitedkingdom/scotland/edinburgh
+europe/germany/northrhinewestphalia/cologne
+europe/croatia/dubrovnik

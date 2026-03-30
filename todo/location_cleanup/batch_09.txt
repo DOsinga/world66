@@ -1,0 +1,5 @@
+southamerica/peru/lima
+southamerica/colombia/bogota
+australiaandpacific/australia/newsouthwales/sydney
+australiaandpacific/australia/victoria/melbourne
+australiaandpacific/newzealand/auckland_region/auckland

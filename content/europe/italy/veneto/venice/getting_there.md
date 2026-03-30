@@ -1,6 +1,7 @@
 ---
 title: "Getting There"
 type: section
+order: 11
 ---
 
 Flights to Venice arrive at the Marco Polo Airport on the eastern edge of the lagoon. From there, you take an ACTV bus nr. 5 to the city centre, which leaves every 30 minutes. Other, more expensive, options are the ATVO buses or waterbuses. 

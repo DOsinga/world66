@@ -1,6 +1,7 @@
 ---
 title: "Getting Around"
 type: section
+order: 12
 ---
 
 **by bus:**

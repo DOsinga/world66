@@ -1,6 +1,7 @@
 ---
-title: "Bars and Cafes in Milan"
+title: "Bars and Cafes"
 type: section
+order: 4
 ---
 
 Dining out in Milan is undoubtedly an

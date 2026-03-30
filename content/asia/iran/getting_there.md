@@ -1,28 +1,16 @@
 ---
-title: "Getting there"
+title: "Getting There"
 type: section
 ---
 
-You can get to **Iran** either by air, see, rail or by road.
+**By air** is the most practical option for most visitors. Tehran has two international airports: Imam Khomeini International Airport (IKA), 35 km south of the city, handles most international traffic; the older Mehrabad Airport (THR) is used for some domestic and regional routes. Mashhad, Isfahan, and Shiraz also receive international flights.
 
- 
+Iran Air operates routes to Europe and neighboring countries, but European carriers have reduced services since sanctions tightened. Turkish Airlines, Emirates, Qatar Airways, Flydubai, and several other Middle Eastern and Asian carriers serve Tehran regularly. Dubai and Istanbul are the most convenient hubs for connections from Europe or North America. Expect flight times of around 5–6 hours from Istanbul or Dubai, 8–9 hours from London.
 
-**Air:** Iran's national airline *Iran Air* (IR)operates three direct flights per week to Tehran from London (Heathrow). Other airlines serving Iran include Air France, British Airways, KLM, Lufthansa and Swissair
+**By land** from Turkey is the main overland route. Buses run between Istanbul and Tehran via Ankara and the Gürbulak/Bazargan border crossing, typically taking 30–40 hours. The border is reasonably efficient but can be slow during holidays. Buses also connect Tehran to Erzurum in eastern Turkey. A train runs between Istanbul and Tehran on the Trans-Asia Express, though the journey takes several days and schedules are unreliable — worth it for the experience rather than the speed.
 
-Approximate flight time: From London to Tehran is 6 hours.
+From Turkmenistan, the Gaudan/Sarakhs crossing is the main route. Pakistan's Taftan crossing is possible but the Baluchestan border region on the Pakistani side has security concerns — check current conditions carefully.
 
-Actually, the national airline, Iran Air, has daily flights to main European capitals, but flights are normally over-booked and it could be difficult to obtain confirmed seats without prior booking. At least 9 other international airlines have weekly flights to and from Iran. Dubai is often used for connecting flights to and from Iran and has regular connections with Singapore and other Asian countries as well as Europe. All visitors are advised to arrange for confirmed reservations out of Iran before undertaking travel to the country. It is also necessary to reconfirm their return flights at least 72 hours before their departure from Iran.
+**By sea,** ferries run from Baku (Azerbaijan) across the Caspian to Bandar-e Anzali or Bandar-e Turkmen, though schedules are irregular and can be disrupted. In the south, ferries connect UAE ports with Bandar-e Abbas and Kish Island.
 
-The best airticket prices can be obtained at the Priceline.com. The connection to the site is provided at the Links section.
-
- **Local Transport**
-
- There is an Airport Taxi Service office located at a kiosk just opposite the arrival lounge's exit door. The cab rates are around Rls 20000 (US$ 4) depending to destination, and has to be paid at the kiosk which issues a receipt and assigns a cab. There are also freelance cab drivers around, (not recommended) the fees should be negotiated in advance. International airport: Tehran (THR) (Mehrabad) is 5km (3 miles) west of the city. Airline buses are available to the city (travel time – 45 minutes) for approximately IR100. Taxis are also available to the city centre for approximately IR10,000 (travel time – 30 minutes). Airport facilities include a 24-hour bank, 24-hour post office, 24-hour restaurant, snack bar, 24-hour duty-free shop, gift shops, 24-hour tourist information and first aid/vaccination facilities. 
-
- For immediate expenses, it is advisable to change on arrival up to 20 US Dollar notes at the Bank Melli's branch inside the terminal. You will see the branch as soon as you pass through immigration and passport check and before stepping on the escalator. 
-
-  **Sea:** The main port was Khorramshahr until its destruction during the war with Iraq. The ports of Abbas and Bushehr are to be found in the Persian Gulf and Nowshahr and Anzelli on the Caspian Sea. P&O connects Iranian ports with Persian Gulf States and Karachi.  
-
-**Rail:** The Qom-Zahedan Line, when completed, will link Europe with India. Several other lines connect from remote provinces. Frontier stations are Razi (for Turkey), Djolfa (for the CIS) and Kerman (for bus link with Pakistan). Contact the Embassy or Iranian Islamic Republic Railways.
-
- **Road:** No reliable international through road links. There are various routes possible from Turkey and Pakistan, but these are not recommended. Cars can also be put on boats at Venice or Brindisi and picked up at Ezmir.
+**Airport transport:** Imam Khomeini Airport is connected to central Tehran by metro (Line 1, around 45 minutes, inexpensive). Taxis are available at fixed rates from official booths in the arrivals hall — agree on the fare before getting in any unofficial cab.

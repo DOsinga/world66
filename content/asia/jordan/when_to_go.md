@@ -1,31 +1,14 @@
 ---
-title: "When to Go in Jordan"
+title: "When to Go"
 type: section
 ---
 
-One of the countries of the Middle-East that has a variety of weathers is **Jordan. When to go** to this place should be determined by the time of the year and the activities that can be done.
+**Spring (March to May)** is the best time to visit. Temperatures are warm without being punishing — 15-25°C in most areas — and the landscape, especially in the north, is green and sometimes in flower. The crowds at Petra and Wadi Rum are manageable, and outdoor activities like hiking are at their best.
 
-**Spring**
+**Autumn (September to November)** runs a close second. The heat of summer has broken, temperatures are pleasant, and the sea at [Aqaba](/asia/jordan/aqaba) is warm — September is particularly good for diving and snorkeling. October is popular; book ahead if you plan to visit then.
 
-Spring is one of the best seasons in Jordan. When to go is best explained by the climate. The month of May brings the beginning of dry and sunny days in Jordan. Tourists are better off visiting Jordan during April and May. March is the end of the rainy season. April and May are ideal for tourists to explore Jordan, because the days are sunny, the weather is not very hot and most of Jordan's attractions are outdoors.
+**Summer (June to August)** is hot, especially in the desert. Daytime temperatures in Wadi Rum and Aqaba regularly exceed 40°C. Petra is exposed and uncomfortable in the middle of the day. If you do visit in summer, start early, retreat to shade by noon, and do not underestimate how much water you need. Crowds thin out and some accommodation prices drop.
 
-Tourists can visit Petra during the Spring. Petra is a building that was carved out of a large rock. The weather is ideal to go outdoors and explore Jordan.
+**Winter (December to February)** is mild in [Aqaba](/asia/jordan/aqaba) and bearable in [Amman](/asia/jordan/amman), but can be cold, wet, and occasionally snowy in the highlands. Petra in winter light has a stark beauty, and you will practically have it to yourself. Pack warm layers — nights in the desert are cold year-round, and northern Jordan in January is genuinely chilly.
 
-**Summer**
-
-The heat of the summer sun intensifies on July and August. During the months of July and August Jordan is hit by dry winds and sand storms. The Khasim is dry wind that hits Jordan from the Southeast. This wind produces sand storms that hinder visibility making it hard to travel on land, water and air.
-
-The strong winds make the heat unbearable, the temperature can go from hot to hotter and the sand tends to get on people's eyes. People cannot be outdoors during the strong winds.
-
-**Fall**
-
-During June and September Jordan is hit by the Shamal. The Shamal is wind that hits Jordan from the Northeast. This natural phenomenon lasts from 1 day to 3 days. The activities in Jordan come to a halt during this time. Fishers do not leave the harbor and airplanes do not take off because the visibility is low and the winds are very strong.
-
-The month of November marks the beginning for the rainy season. Rain falls all the way to December and January. However the rain is not as strong and it gives tourists relief from the dry desert weather that Jordan has.
-
-**Winter**
-
-December and January bring rain to the region. The highests part of the country gets snow a few times. January tends to be the coldest month of the year. The winters are also a good time in Jordan. When to go is best decided if the weather allows tourists be be outdoors.
-
-**Contributors**
-April 20, 2010
+**Ramadan** falls at different times each year due to the Islamic lunar calendar. During this month, many cafes and restaurants close during the day, alcohol is less available, and the pace of life shifts. It is not a bad time to visit — evenings during Ramadan are lively, and there is a particular atmosphere — but you need to be flexible.

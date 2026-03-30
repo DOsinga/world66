@@ -1,7 +1,7 @@
 ---
 title: "Posto di Conversazione"
 type: poi
-category: "Local"
+category: "Trattoria"
 address: "Via Molino delle Armi 3, 20123 Milan"
 opening_hours: "Mon–Sat 12:00–14:30, 19:00–22:30; closed Sun"
 latitude: 45.4589

@@ -1,7 +1,7 @@
 ---
 title: "Dar Poeta"
 type: poi
-category: "Pizza"
+category: "Pizzeria"
 address: "Vicolo del Bologna 45, 00153 Rome"
 opening_hours: "Daily 12:00–midnight"
 latitude: 41.8897

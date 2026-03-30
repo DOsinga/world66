@@ -1,7 +1,7 @@
 ---
 title: "Armando al Pantheon"
 type: poi
-category: "Local"
+category: "Trattoria"
 address: "Salita dei Crescenzi 31, 00186 Rome"
 opening_hours: "Mon–Fri 12:30–15:00, 19:00–23:00; Sat 12:30–15:00; closed Sun"
 latitude: 41.8987

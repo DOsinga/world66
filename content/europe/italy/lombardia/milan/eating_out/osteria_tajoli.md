@@ -1,7 +1,7 @@
 ---
 title: "Osteria Tajoli"
 type: poi
-category: "Local"
+category: "Trattoria"
 address: "Via Amedei 4, 20123 Milan"
 opening_hours: "Mon–Sat 12:00–15:00, 19:00–23:00; closed Sun"
 latitude: 45.4622

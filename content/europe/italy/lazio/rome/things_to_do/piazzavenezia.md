@@ -1,18 +1,13 @@
 ---
-title: "Piazza Venezia"
+title: "Piazza Venezia & the Vittoriano"
 type: poi
 category: "Sight"
-type: "Hotspots"
+address: "Piazza Venezia, 00186 Rome"
+admission: "Free (exterior); rooftop lift €7"
 latitude: 41.8963
-longitude: 12.482347
+longitude: 12.4823
 ---
 
-Orient yourself facing the large marble monument (Vittoriano/'Wedding Cake') to the south. Take a brief look to your right at the balcony of Palazzo Venezia from which Mussolini used to orate.
- 
+The monumental centre of Rome, dominated by the vast white marble Vittoriano — the monument to King Victor Emmanuel II, Italy's first king after unification in 1861. Romans call it the Wedding Cake or the Typewriter; most visitors find it overwhelming. The altar at the centre is Italy's Tomb of the Unknown Soldier, guarded around the clock. The free rooftop terrace (or €7 lift to the very top) gives one of the best panoramic views in the city.
 
-Dominating the square, the Vittoriano is the monument to King Victor Emanuele, the unifier of Italy. (The 1870 Resorgimento - Italy is a young country, despite its ancient heritage.) Gaudy to some, the Italians derisively call it the Wedding Cake or the Typewriter. The flame in the center and the military guards mark Italy's tomb of the Unknown Soldier. 
- 
-
-Cross the square toward the right side of the Wedding Cake (or 'Typewriter') and go up the street (via del Teatro Marcello). On your left after you pass the monument you'll see some ruins. They're the remains of a Roman insula. The insulae were apartment houses. Looking down, you'll see where ground level was 2000 years ago. Insulae were as tall as 6-7 stories. Roadways were quite narrow (10-20 feet) and so the streets were dark and smelly.
-
-type: Hotspots
+The adjacent Palazzo Venezia, a 15th-century palace, was where Mussolini gave his speeches from the balcony on the right. The square itself is the informal centre of Rome — all roads lead here.

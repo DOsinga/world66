@@ -1,16 +1,14 @@
 ---
-title: "When to Go in Andorra"
+title: "When to Go"
 type: section
 ---
 
-**Skiing Season in Andorra la Vella
-**
-Find the answer to your **Andorra la Vella when to go** query by considering the average temperatures and understanding the activities available in the town. Andorra la Vella is the picturesque capital of Andorra in Europe. It is located in the eastern part of the Pyrenees. Andorra la Vella is a famous tourist destination nestled between Spain and France. Although known for the skiing, Andorra la Vella is also famous for its relaxed way of life, spas and massages.
+Andorra has two clear seasons that drive most tourism, with a quieter shoulder period in between.
 
-#### **Climatic Considerations**
+**Winter (December–April)**: The main draw is skiing. Grandvalira, the largest ski area in the Pyrenees with over 200 km of pistes, and the smaller Vallnord (Pal-Arinsal) and Ordino-Arcalís resorts typically open in late November and run through Easter, sometimes into early May. December and January are quietest; February and March are peak season with higher prices and fuller slopes. The snow is generally reliable above 1,800 metres.
 
-The region witnesses a temperate climate. It is located at an elevation of 3,356 feet and is the highest capital city in Europe. The winters are extremely cold, and the summers are warm and dry. The temperature in January averages around -1 degree Celsius. During summer, the temperature rises to a maximum of 25 degree Celsius.
+**Summer (June–September)**: Hiking and mountain biking take over. Temperatures are warm but rarely oppressive — the capital sits at 1,023 metres, the passes at over 2,400 metres. The trails are uncrowded compared to the Pyrenees' more famous routes. Wildflowers are spectacular in June. The Meritxell national festival on September 8 marks the end of summer.
 
-#### **Activities**
+**Spring and autumn**: The shoulder months are quiet. Some mountain restaurants and ski-resort hotels close entirely. But the scenery is beautiful and the roads are empty. Good for a peaceful visit or a stop on a cross-Pyrenees drive.
 
-Andorra la Vella is a well-known skiing destination. The skiing season starts in the first week of December and ends during Easter. Certain resorts stay open till the first week of May. December is also the time of the famous festival of Purissima. There are also several theater and musical performances which take place during other times of year.
+Andorra la Vella averages around -1°C in January and 24°C in July. The mountains are much colder, and snow can fall at altitude any month of the year.

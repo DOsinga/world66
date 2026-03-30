@@ -5,8 +5,6 @@ latitude: 40.920633
 longitude: 46.757101
 ---
 
-Travel Guide
-
 Mingechaur is an ancient town and since the 1940s a significant centre of light industry, including the production of cotton and woollen textiles, knitwear, household items, souvenirs, and assorted consumer goods.
 
 The population today is almost 100.000 and the archaeological findings in the area revealed human occupation dating as far back as 5000 years ago, a prosperous town from the Albanian period and rich strata for other periods, revealing a intense trading and manufacturing activity.

@@ -32,7 +32,3 @@ station go south (the main road towards [Vanadzor](/europe/armenia/vanadzor)) so
 southern part of the town (very close to rail tracks) turn right and go
 uphill until you reach the village after a couple of curves.
 
-See also http://en.wikipedia.org/wiki/Odzun
-
-**Contributors**
-April 22, 2005

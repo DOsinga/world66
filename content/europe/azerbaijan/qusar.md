@@ -5,11 +5,9 @@ latitude: 41.449868
 longitude: 48.288893
 ---
 
-Travel Guide
+Located under the backdrop of sacred mount Shahdag (4243m), on the right bank of the river Qusar, the north-eastern town of the same name is the next best thing to a capital for the Lezgin minority, which extends north into Russia.
 
-Located under the backdrop of sacred mount Shahdag (4243m), on the right bank of the river Qusar, the north-eastern town of the same name is the next best thing to a capital for the [Lezgin](/europe/az-lezgin.html) minority, which extends north into Russia.
-
-The town develops in a east-west direction, along the river. If you arrive by bus you'll disembark at the bus station in the eastern extreme of town, near the always busy bazaar and the bridge leading to [Quba](/europe/az-quba.html).
+The town develops in a east-west direction, along the river. If you arrive by bus you'll disembark at the bus station in the eastern extreme of town, near the always busy bazaar and the bridge leading to [Quba](/europe/azerbaijan/quba).
 
 On the way to the centre you'll come accross the cinema . The main square gathers around it the Lezgin National Theatre , the hotel , the post office and is not far from the stadium and the Lezgin National Museum . In the western side of the town is located the recently built mosque, the wedding house and an odd monument with an airplane.
 

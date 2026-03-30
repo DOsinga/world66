@@ -1,13 +1,15 @@
 ---
 title: "Ani"
 type: location
-latitude: 40.177711
-longitude: 44.512623
+latitude: 40.5075
+longitude: 43.5728
 ---
 
-Travel Guide
+**Note:** Ani is located in Turkey (Kars province), just across the Akhurian River from the Armenian border. It is not accessible from the Armenian side, as the Turkish-Armenian border remains closed. Visitors must reach it from [Kars](/asia/turkey/kars) in eastern Turkey.
 
-Earliest History Bronze and Iron age settlements have been excavated on the site, so have possible Uruatian buildings. There is re-used classical masonry in the citadel walls and the remains of what is probably a Zoroastrian fire temple. Ani is first mentioned by Armenian chroniclers in the 5th century A.D. as a strong castle built on a hilltop and a possession of the Kamsarakan dynasty.
+Ani was the medieval capital of the Bagratid Armenian kingdom from 961 to 1045 AD, a city of perhaps 100,000–200,000 people that rivalled Constantinople in its day. It was known as "the city of a thousand and one churches." Today it is a UNESCO World Heritage Site and one of the most extraordinary ruined cities in the world — vast, haunting, and largely unrestored.
+
+**Earliest History** Bronze and Iron age settlements have been excavated on the site, so have possible Uruatian buildings. There is re-used classical masonry in the citadel walls and the remains of what is probably a Zoroastrian fire temple. Ani is first mentioned by Armenian chroniclers in the 5th century A.D. as a strong castle built on a hilltop and a possession of the Kamsarakan dynasty.
 
 In the middle of the 7th century Armenia was invaded and conquered by the Arabs. The ethnic makeup of the population was little changed by this invasion, but it destroyed the existing power structures and paved the way for the eventual emergence of new ruling dynasties. By the end of the 9th century Armenia had regained most of her former independence - but was divided into numerous kingdoms and principalities. The two most powerful Armenian kingdoms were those of the Artzruni dynasty, who were based around Lake Van, and the Bagratid dynasty, who ruled most of north-eastern Armenia and who would eventually have their capital at Ani.
 

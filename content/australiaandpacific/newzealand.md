@@ -5,22 +5,12 @@ latitude: -41.500083
 longitude: 172.834408
 ---
 
-New Zealand is situated in the South Pacific ocean, between latitude 34'S and 47'S. The country runs roughly north-south with mountain ranges down much of its length. Its two main islands cover 266,200 sq km (103,735 sq miles), about the size of Japan or California and slightly larger than Great Britain. 
- 
+New Zealand is remote by any measure — a two-island nation in the South Pacific, about 2,000km southeast of Australia. The North Island and South Island together cover roughly 268,000 sq km, home to around 5 million people. That ratio of space to population is part of the point: the landscape is extraordinary and the crowds are manageable.
 
-Comparable in size and/or shape to Great Britain, Colorado and Japan, New Zealand has a population of only 3.8 million - making it one of the world's least crowded countries. It is a haven for those seeking peace, rejuvenation and relaxation as well as a playground for thrillseekers and adventurers. A temperate climate with relatively small seasonal variation makes it a year-round holiday destination. 
- 
+The scenery runs the full range. In the North Island you get active volcanoes, geothermal mud pools, long surf beaches, and the deep harbours of [Auckland](/australiaandpacific/newzealand/auckland) and [Wellington](/australiaandpacific/newzealand/wellington). The South Island has the Southern Alps running its spine — glaciers descending toward the Tasman Sea on the West Coast, fiords cutting into the southwest at Milford Sound and Doubtful Sound, and the lakes and vineyards of [Queenstown](/australiaandpacific/newzealand/queenstown) and [Wanaka](/australiaandpacific/newzealand/wanaka).
 
-New Zealand's spectacularly beautiful landscape includes vast mountain chains, steaming volcanoes, sweeping coastlines, deeply indented fiords and lush rainforests. 
- 
+New Zealand has been isolated from other landmasses for around 80 million years, which produced a unique ecology: the kiwi, the tuatara, and a forest that evolved without land mammals. Much of that is gone now, but the country is serious about conservation. Offshore islands, fenced sanctuaries, and pest eradication programmes have brought several species back from the edge.
 
-New Zealand's separation from other land masses for more than 100 million years has allowed many ancient plants and animals to survive and evolve in isolation. Complementing our unique flora and fauna is a landscape that contains an unrivalled variety of landforms. In a couple of days' drive it is possible to see everything from mountain ranges to sandy beaches, lush rainforests, glaciers and fiords and active volcanoes.
+Maori arrived around 700 years ago. Europeans — mostly British — colonised from the 1840s. The tension between the Treaty of Waitangi's two versions (English and Maori) is still very much alive, and New Zealand is actively grappling with Treaty settlements, te reo Maori revival, and what bicultural partnership actually looks like in practice. It's worth paying attention to.
 
-
- [Auckland](/australiaandpacific/newzealand/auckland) is the best place to start exploring the North of the country. It's a great city and offers you everything you want.
-
-[Wellington](/australiaandpacific/newzealand/wellington) is located on a nice spot on the southern tip of the North Island. There are regulare ferry services to the South Island form here.
- [Christchurch](/australiaandpacific/newzealand/christchurch) is the largest town on the South Island. Many activities can be organized from here. Trekking to Mount Cook is just one of the many things you can do. 
- 
-
-Courtesy of:**100% Pure New Zealand**
+The main cities — [Auckland](/australiaandpacific/newzealand/auckland), [Wellington](/australiaandpacific/newzealand/wellington), and [Christchurch](/australiaandpacific/newzealand/christchurch) — are all easy to navigate and genuinely pleasant. [Rotorua](/australiaandpacific/newzealand/rotorua) is the centre of Maori tourism. The [Bay of Islands](/australiaandpacific/newzealand/bayofislands) in Northland is where much of the country's colonial history began. For serious wilderness, head to [Fiordland](/australiaandpacific/newzealand/south_island), [Abel Tasman](/australiaandpacific/newzealand/nelson), or the Tongariro Alpine Crossing on the Central Plateau.

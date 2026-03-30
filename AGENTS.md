@@ -66,6 +66,11 @@ POI files live inside section directories: `content/europe/netherlands/amsterdam
 ### Allowed frontmatter properties for POIs
 address, phone, url, email, opening_hours, closing_time, price, admission, isbn, author, connections, getting_there, accessibility, zipcode, price_per_night
 
+## Key documentation
+
+- **[LOCATIONS.md](LOCATIONS.md)** — how to structure a city properly: section ordering, the `things_to_do` category-filter approach, adding POIs from curated itineraries
+- **[STYLE.md](STYLE.md)** — voice, tone, and writing conventions
+
 ## Contributing content
 
 Your role is to improve this travel guide. The content was originally written by travelers between 1999 and 2018, then restored from the Wayback Machine. Much of it is outdated. Research destinations and update or add content.
@@ -133,6 +138,78 @@ Create `content/asia/japan/tokyo/tokyo.md` with `type: location`, then add secti
 - `guide/templates/guide/page.html` — unified template, adapts based on `page.page_type`.
 
 The `type` field in frontmatter is the source of truth. Directory filtering in the sidebar uses it: if a directory contains only `poi` type files, it's a section directory (containing POIs), not a sub-location.
+
+## Adding curated itineraries to a city
+
+When asked to "add curated itineraries" for a city, follow these steps exactly.
+
+### What the feature does
+
+Each curated itinerary is a real blog post or travel guide written by someone who knows the city. The World66 entry links out to the original post and adds all the places it mentions as proper POIs — tagged so the tag page aggregates the guide entry and all its places together.
+
+### Step-by-step
+
+**1. Research**
+Find 2–3 well-written, specific itineraries for the city (blog posts, travel guides). Prefer posts that name specific restaurants, cafes, sights and bars rather than generic advice. Search for e.g. "one day in Rome itinerary" or "48 hours in Florence blog".
+
+**2. Create the section**
+Create `content/{path}/day_guides.md`:
+```yaml
+---
+title: "Curated Itineraries"
+type: section
+order: 1
+---
+
+Curated itineraries for spending time in {City}, drawn from travellers who know it well.
+```
+`order: 1` makes it appear second in the sidebar (after General), before Sights and Eating Out.
+
+**3. Create the guide entry for each itinerary**
+Create `content/{path}/day_guides/{slug}.md` — one file per itinerary. These are POIs within the section:
+```yaml
+---
+title: "One Day in Rome — Walks of Italy"
+type: poi
+url: "www.walksofitaly.com/blog/rome/one-day-in-rome"
+tags: ["One Day in Rome"]
+---
+
+A well-paced single-day itinerary from a Rome-based tour company, covering the Colosseum area in the morning, the centro storico at lunch, and the Vatican in the afternoon. Practical and realistic about timing.
+```
+- The `url` field renders as a clickable link that opens in a new tab
+- The tag (e.g. `"One Day in Rome"`) is the key that links the guide to its places — use the same tag on every POI the itinerary mentions
+- Keep the description to 2–3 sentences: what makes this guide worth reading, who it's for, what it covers
+
+**4. Add the places as POIs**
+For each place the itinerary mentions, check if a POI already exists in the relevant section directory. If it does, add the tag. If it doesn't, create a new POI file in the correct section (`sights/`, `eating_out/`, `bars_and_cafes/`):
+```yaml
+---
+title: "Trattoria da Enzo al 29"
+type: poi
+address: "Via dei Vascellari 29, Rome"
+opening_hours: "Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun"
+latitude: 41.889
+longitude: 12.472
+tags: ["One Day in Rome"]
+---
+
+A no-frills Roman trattoria in Trastevere...
+```
+
+Make sure the relevant sections exist (`sights.md`, `eating_out.md`, `bars_and_cafes.md`) — create them if not.
+
+**5. Update existing POIs**
+If a place already has a POI file, add the new tag to its existing `tags` list rather than creating a duplicate.
+
+**6. Commit and push**
+Stage all new and modified files, commit with a message like `Add curated itineraries for {City}`, and push to the working branch.
+
+### Tag naming convention
+Use `"One Day in {City}"`, `"48 Hours in {City}"`, `"3 Days in {City}"` etc. — match the itinerary's framing. The tag becomes the URL at `/tags/{tag}`.
+
+### File naming
+Slugs from the blog title: `one_day_rome.md`, `48_hours_florence.md`. Lowercase, underscores, no special characters.
 
 ## Don't
 

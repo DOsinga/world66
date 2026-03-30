@@ -942,6 +942,54 @@ img { max-width: 100%; height: auto; }
   margin-right: 5px;
 }
 
+/* POI category filter */
+.poi-filter-bar {
+  margin-bottom: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.poi-filter-btn {
+  padding: 4px 14px;
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 13px;
+  color: #444;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.poi-filter-btn:hover {
+  background: #d0e8f5;
+  border-color: #7ab;
+}
+
+.poi-filter-btn.poi-filter-active {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: #fff;
+}
+
+.poi-table tbody tr.hidden {
+  display: none;
+}
+
+.poi-category-badge {
+  display: inline-block;
+  padding: 1px 7px;
+  background: #eef3f7;
+  border: 1px solid #c8d8e4;
+  border-radius: 3px;
+  font-size: 11px;
+  color: #567;
+  margin-right: 6px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
 /* Tags */
 .tags {
   margin-top: 20px;

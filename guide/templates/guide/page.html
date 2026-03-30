@@ -127,15 +127,24 @@
 {% endif %}
 
 {% if page.page_type == "section" and pois %}
+{% if poi_categories %}
+<div class="poi-filter-bar">
+  <button class="poi-filter-btn poi-filter-active" data-filter="">All</button>
+  {% for cat in poi_categories %}
+  <button class="poi-filter-btn" data-filter="{{ cat }}">{{ cat }}</button>
+  {% endfor %}
+</div>
+{% endif %}
 <table class="poi-table">
   <thead>
     <tr><th>Place</th><th>Details</th></tr>
   </thead>
   <tbody>
     {% for poi in pois %}
-    <tr>
+    <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
       <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
       <td class="poi-table-details">
+        {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
         {% for key, value in poi.properties.items %}
         <span class="poi-detail">
           <span class="poi-detail-key">{{ key }}</span>
@@ -153,6 +162,28 @@
     {% endfor %}
   </tbody>
 </table>
+{% if poi_categories %}
+<script>
+(function () {
+  var bar = document.querySelector('.poi-filter-bar');
+  if (!bar) return;
+  bar.addEventListener('click', function (e) {
+    var btn = e.target.closest('.poi-filter-btn');
+    if (!btn) return;
+    bar.querySelectorAll('.poi-filter-btn').forEach(function (b) { b.classList.remove('poi-filter-active'); });
+    btn.classList.add('poi-filter-active');
+    var filter = btn.getAttribute('data-filter');
+    document.querySelectorAll('.poi-table tbody tr').forEach(function (row) {
+      if (!filter || row.getAttribute('data-category') === filter) {
+        row.classList.remove('hidden');
+      } else {
+        row.classList.add('hidden');
+      }
+    });
+  });
+})();
+</script>
+{% endif %}
 {% endif %}
 
 {% if tags %}

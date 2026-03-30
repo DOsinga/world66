@@ -3,152 +3,12 @@ title: "People"
 type: section
 ---
 
-What makes "Ticos" (Costa Ricans) so different?
+Costa Ricans call themselves *ticos* (women: *ticas*). The nickname comes from a linguistic habit: where most Spanish speakers use *-ito* as a diminutive, Costa Ricans use *-ico* — so *momento* becomes *momentico*. Visitors from other countries started calling them *ticos*, and it stuck.
 
- This is a common question. The answer lies in the country’s history and culture. Costa Rica has a mostly peaceful past. From the very beginning, Costa Ricans have been exposed to little violence. During colonial times, it was one of the few parts of Latin America settled by people more interested in creating a pleasant place to live and start a family than in exploiting the indigenous people and their gold.
+The country has around 5 million people, with roughly 60% living in the Central Valley. The population is predominantly mestizo; about 2% is Afro-Caribbean, concentrated along the Caribbean coast where English Creole is widely spoken alongside Spanish. Several indigenous groups — Bribri, Cabécar, Boruca, and others — live in the mountains and southern Caribbean zone, though their total numbers are small.
 
- Most "ticos" are still as warm hearted and friendly as their ancestors. Hospitality, respect and friendship are enjoyed by visitors.
+Costa Ricans are generally friendly and relatively reserved by Central American standards. Hospitality is genuine. The phrase *pura vida* — literally "pure life" — functions as hello, goodbye, thank you, you're welcome, and a general affirmation that everything is fine. Use it freely; ticos will appreciate it.
 
- Where did the word "tico" come from?
+The country has a strong tradition of peace, democracy, and environmental conservation that locals take genuine pride in. The army was abolished in 1948. Education is taken seriously — literacy is above 97% — and the public healthcare system, while uneven in quality, is one of the better ones in Latin America. These facts come up in conversation naturally and without boasting; they're simply part of how Costa Ricans understand their country.
 
- Costa Ricans often use the diminutive form of words to be more courteous or friendly. They use, however, "ico", instead the more common "-ito". Although "-ico" is a correct form of the diminutive, it is rarely used in other Spanish speaking countries. The word "momento" (moment) thus become "momentico" (a little moment) and even "momentitico" (a very brief moment). Hence, people from other countries started calling Costa Ricans "ticos". 
-
-
-
-**Population:** 3 604 642 (July 1998 est.)
-
-**Age structure:**
-
-*0-14 years:* 34% (male 620 496; female 591 299)
-
-*15-64 years:* 61% (male 1 120 118; female 1 093 099)
-
-*65 years and over:* 5% (male 82 893; female 96 737) (July 1998 est.)
-
-**Population growth rate:** 1.95% (1998 est.)
-
-**Birth rate:** 22.89 births/1 000 population (1998 est.)
-
-**Death rate:** 4.15 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.72 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.02 male(s)/female
-
-*65 years and over:* 0.86 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 13.1 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 75.93 years
-
-*male:* 73.5 years
-
-*female:* 78.48 years (1998 est.)
-
-**Total fertility rate:** 2.81 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Costa Rican(s)
-
-*adjective:* Costa Rican
-
-**Ethnic groups:** white (including mestizo) 96% black 2% Amerindian 1% Chinese 1%
-
-**Religions:** Roman Catholic 95%
-
-**Languages:** Spanish (official) English spoken around Puerto Limon
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 94.8%
-
-*male:* 94.7%
-
-*female:* 95% (1995 est.)
-
-What makes "Ticos" (Costa Ricans) so different? 
-
- This is a common question. The answer lies in the country’s history and culture. Costa Rica has a mostly peaceful past. From the very beginning, Costa Ricans have been exposed to little violence. During colonial times, it was one of the few parts of Latin America settled by people more interested in creating a pleasant place to live and start a family than in exploiting the indigenous people and their gold. 
-
- Most "ticos" are still as warm hearted and friendly as their ancestors. Hospitality, respect and friendship are enjoyed by visitors. 
-
- Where did the word "tico" come from? 
-
- Costa Ricans often use the diminutive form of words to be more courteous or friendly. They use, however, "ico", instead the more common "-ito". Although "-ico" is a correct form of the diminutive, it is rarely used in other Spanish speaking countries. The word "momento" (moment) thus become "momentico" (a little moment) and even "momentitico" (a very brief moment). Hence, people from other countries started calling Costa Ricans "ticos".  
-
- 
-
-
-
-**Population:** 3 604 642 (July 1998 est.) 
-
-**Age structure:** 
-
-*0-14 years:* 34% (male 620 496; female 591 299) 
-
-*15-64 years:* 61% (male 1 120 118; female 1 093 099) 
-
-*65 years and over:* 5% (male 82 893; female 96 737) (July 1998 est.) 
-
-**Population growth rate:** 1.95% (1998 est.) 
-
-**Birth rate:** 22.89 births/1 000 population (1998 est.) 
-
-**Death rate:** 4.15 deaths/1 000 population (1998 est.) 
-
-**Net migration rate:** 0.72 migrant(s)/1 000 population (1998 est.) 
-
-**Sex ratio:** 
-
-*at birth:* 1.05 male(s)/female 
-
-*under 15 years:* 1.05 male(s)/female 
-
-*15-64 years:* 1.02 male(s)/female 
-
-*65 years and over:* 0.86 male(s)/female (1998 est.) 
-
-**Infant mortality rate:** 13.1 deaths/1 000 live births (1998 est.) 
-
-**Life expectancy at birth:** 
-
-*total population:* 75.93 years 
-
-*male:* 73.5 years 
-
-*female:* 78.48 years (1998 est.) 
-
-**Total fertility rate:** 2.81 children born/woman (1998 est.) 
-
-**Nationality:** 
-
-*noun:* Costa Rican(s) 
-
-*adjective:* Costa Rican 
-
-**Ethnic groups:** white (including mestizo) 96% black 2% Amerindian 1% Chinese 1% 
-
-**Religions:** Roman Catholic 95% 
-
-**Languages:** Spanish (official) English spoken around Puerto Limon 
-
-**Literacy:** 
-
-*definition:* age 15 and over can read and write 
-
-*total population:* 94.8% 
-
-*male:* 94.7% 
-
-*female:* 95% (1995 est.)
+Spanish is the official language. English is widely spoken in tourist areas and among educated professionals in the cities. On the Caribbean coast, English Creole (Mekatelyu) is the first language for many residents.

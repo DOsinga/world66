@@ -1,8 +1,14 @@
 ---
 title: "Visa"
-type: location
+type: section
 ---
 
-A valid passport and visa, if required, is necessary for entry into Belize. American, Canadian and Caricom citizens may be allowed entry into Belize without a passport, providing that Belize Immigration is informed at least one (1) week in advance, so that the airlines they are using, and the Immigration Officer at the port of entry are informed prior to making the trip. Nevertheless they need to say what other form of identification will be used to travel. The serial number of identification is necessary. There is a US$25.00 for this exemption. All other nationalities need to travel with a valid passport. 
+Citizens of the US, Canada, UK, EU countries, Australia, New Zealand, and most other Western nations do not need a visa to enter Belize as a tourist. You'll receive a 30-day stay on arrival, extendable up to six months total (apply at the Immigration and Nationality Department; there's a fee per extension).
 
- **Visas**  United States citizens and Nationals of the European Community member nations do not require visas. Visas are required for the Nationals of the following countries: Afghanistan, Albania, Algeria, Angola, Argentina, Bangladesh, Bolivia, Bosnia, Brazil, Central African Republic, Chad, China, Columbia, Cuba, El Salvador, Ethiopia, Haiti, Honduras, India, Japan, Korea (North and South), Libya, Monaco, Mongolia, Morocco, Nicaragua, Nigeria,,Pakistan, Panama, Peru, Switzerland, Taiwan, Thailand, Ukraine, and Zaire.   FEES
+All travelers are required to fill in Belize's digital Embarkation/Disembarkation e-form before arrival. Find it at the official Belize immigration website (immigration.gov.bz).
+
+Your passport must be valid for at least three months beyond your date of entry. You may be asked to show proof of onward travel (return ticket or ticket to a third country).
+
+**Exit tax:** All visitors pay an exit tax when leaving. Currently around BZ$57.50 if departing by air, or BZ$20 at land and sea borders. Many airlines include this in the ticket price — check before you travel.
+
+For countries not covered above, check current requirements at the Belize Immigration and Nationality Department (immigration.gov.bz) or the nearest Belizean consulate.

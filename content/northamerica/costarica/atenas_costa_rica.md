@@ -3,7 +3,4 @@ title: "Atenas, Costa Rica"
 type: location
 ---
 
-Travel Guide
-
-Atenas town is located about 30 minutes on the main road to Jaco Beach and Manuel Antonio National Park.
-We have a Bed & Breakfast builded up in the in hills of Atenas.
+Atenas is a small town in the Central Valley, about 30 minutes west of San José on the main road toward Jacó and Manuel Antonio. It sits at around 700 meters elevation in the coffee-growing hills and has a pleasant climate. It's not a major tourist destination but works as a quiet base for day trips.

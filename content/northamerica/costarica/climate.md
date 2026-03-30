@@ -1,72 +1,18 @@
 ---
 title: "Climate"
-type: location
+type: section
 ---
 
-The climate is idyllic. In the lowlands -which are dry in the Pacific Northwest and humid elsewhere- daytime temperatures range in the eighties to nineties F° (high twenties to mid-thirties C°). Usually in the seventies F° (low to mid-twenties C°) at middle elevations, the mercury can fall as low as the forties and fifties F° (five to mid-tens C°) at the top of the mountains. Costa Rica can be broadly categorized into four major climatic zones:
+Costa Rica has a tropical climate with no real winter, but altitude and location create very different conditions across the country.
 
- The wet lowlands:
+**Central Valley (San José and surroundings):** Year-round temperatures of 17–26°C (63–79°F), with a distinct dry season from December to April and regular afternoon rains from May to November. Many visitors find this the most comfortable climate in the country.
 
- The Caribbean and the Southern Pacific lowlands have short dry seasons and high temperatures. Rainfall is usually lighter along the coast, increasing proportionally as it moves further inland and altitude increases.
+**Pacific coast (Guanacaste, Nicoya Peninsula):** The northwest has the driest climate, with a pronounced dry season (December–April) and hot temperatures in the low-to-mid 30s°C (90s°F). Further south along the Pacific, the dry season is shorter and the coast is wetter.
 
- Lowlands with a dry season:
+**Caribbean coast:** Rain year-round, with no true dry season, though February–April and September–October are relatively drier. Temperatures are consistently warm and humid, 25–30°C (77–86°F).
 
- Most of the Guanacaste province and some of Puntarenas have high temperatures and a long dry season.
+**Mountains (above 1,500 m):** Cool and often misty. Monteverde and the Chirripó highlands can drop into single digits Celsius at night. Cloud forest zones receive heavy rainfall throughout the year.
 
- Temperate climate:
+**Arenal area:** Often cloudy and wet, even when the rest of the country is dry. The volcano is frequently obscured; clear views require early morning visits or some luck.
 
- Areas located between 3,000 - 5,000 feet above the sea level, such as the Central Valley, have defined dry seasons and the most comfortable of the climates.
-
- Mountain climate:
-
- Any area at an altitude higher than 5,000 feet has cooler temperatures. At altitudes over 10,000 feet, even reaches the freezing point. The weather is usually humid, with occasional fog or frost.
-
- Annual Rainfall for Major Areas:
-
-  Central Valley: 1.100-2.500 mm 43-98 inches
-
- Northern Pacific: 1.400-4.300 mm 55-98 inches
-
- Central Pacific: 2.300-4.300 mm 91-169 inches
-
- Southern Pacific: 2.300-4.000 mm 91-157 inches
-
- Atlantic Region: 2.000-4.500 mm 79-177 inches
-
-
-
- The Northwest has a fairly well-defined dry season ("verano" or summer) December to April. The dry season is a month or two shorter along the southern Pacific coast. July also tends to be a dry month on the Pacific slope.
-
-The climate is idyllic. In the lowlands -which are dry in the Pacific Northwest and humid elsewhere- daytime temperatures range in the eighties to nineties F° (high twenties to mid-thirties C°). Usually in the seventies F° (low to mid-twenties C°) at middle elevations, the mercury can fall as low as the forties and fifties F° (five to mid-tens C°) at the top of the mountains. Costa Rica can be broadly categorized into four major climatic zones: 
-
-The wet lowlands: 
-
-The Caribbean and the Southern Pacific lowlands have short dry seasons and high temperatures. Rainfall is usually lighter along the coast, increasing proportionally as it moves further inland and altitude increases. 
-
-Lowlands with a dry season: 
-
-Most of the Guanacaste province and some of Puntarenas have high temperatures and a long dry season. 
-
-Temperate climate: 
-
-Areas located between 3,000 - 5,000 feet above the sea level, such as the Central Valley, have defined dry seasons and the most comfortable of the climates. 
-
-Mountain climate: 
-
-Any area at an altitude higher than 5,000 feet has cooler temperatures. At altitudes over 10,000 feet, even reaches the freezing point. The weather is usually humid, with occasional fog or frost. 
-
-Annual Rainfall for Major Areas: 
-
-Central Valley: 1.100-2.500 mm 43-98 inches 
-
-Northern Pacific: 1.400-4.300 mm 55-98 inches 
-
-Central Pacific: 2.300-4.300 mm 91-169 inches 
-
-Southern Pacific: 2.300-4.000 mm 91-157 inches 
-
-Atlantic Region: 2.000-4.500 mm 79-177 inches 
-
-
-
-The Northwest has a fairly well-defined dry season ("verano" or summer) December to April. The dry season is a month or two shorter along the southern Pacific coast. July also tends to be a dry month on the Pacific slope.
+The rainy season (*invierno*) typically runs May through November, with the heaviest rains in September and October. Afternoons bring brief intense downpours rather than all-day rain.

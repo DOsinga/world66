@@ -1,10 +1,14 @@
 ---
 title: "Cayman Islands"
 type: location
+latitude: 19.3133
+longitude: -81.2546
 ---
 
-The Caymans have one of the highest living standards in the world with a GDP/capita of some 70.000 dollars. This is mostly due to their position as a major financial centre - and then there is tourism too. The islands, located just south of [Cuba](/northamerica/cuba) attract one million visitors every year. The largest island, [Grand cayman](/northamerica/caymanislands/grandcayman) is just nine miles long and 12 miles wide...
+Three small British Overseas Territory islands sitting in the western Caribbean, about 150 miles south of Cuba. The Cayman Islands are one of the world's wealthiest places per capita — a status built on offshore finance and high-end tourism rather than agriculture or industry. Expect polished infrastructure, immaculate beaches, and prices to match.
 
- Supposing you come to tan and not to whitewash, the Caymans offer terrific diving, white beaches, lots of sunshine and classy accommodation and restaurants - they are a bit expensive though.
+The diving is genuinely world-class. The islands sit on the edge of the Cayman Trench, offering spectacular wall dives, healthy coral, and crystal-clear water. Stingray City on Grand Cayman, where southern stingrays gather in the shallows of the North Sound, is one of the most visited marine encounters in the Caribbean. Little Cayman's Bloody Bay Wall is considered one of the best dive sites on the planet.
 
- [Grand cayman](/northamerica/caymanislands/grandcayman) receives most visitors, with [Seven Mile Beach](/northamerica/caymanislands/sevenmilebeach) as the main hub. [Cayman brac](/northamerica/caymanislands/caymanbrac) and [Little cayman](/northamerica/caymanislands/littlecayman) are quieter but possibly even more expensive.
+[Grand Cayman](/northamerica/caymanislands/grandcayman) is the main island and handles almost all international flights. George Town is the capital and the stop for cruise ships; Seven Mile Beach to the north is where most hotels and resorts are concentrated. [Cayman Brac](/northamerica/caymanislands/caymanbrac) is a hillier, more rugged island known for its caves and rock-climbing as well as diving. [Little Cayman](/northamerica/caymanislands/littlecayman) is tiny, quiet, and mostly visited by serious divers.
+
+These islands are not a budget destination. Even budget choices are expensive by Caribbean standards. That said, the quality of services, food, and infrastructure is consistently high, and violent crime is rare.

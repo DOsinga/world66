@@ -1,5 +1,0 @@
-europe/vaticancity
-northamerica/anguilla
-northamerica/aruba
-northamerica/bahamas
-northamerica/barbados

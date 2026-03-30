@@ -1,56 +1,16 @@
 ---
-title: "Festivals in Vatican City"
+title: "Festivals"
 type: section
 ---
 
-Being as Vatican City is the center of the Catholic Church, all **Vatican City festivals**,
-whether dedicated to art or music or any other theme, are held with the
-higher purpose of celebrating and becoming closer to God. Most of these
-festivals are, in fact, related to the arts, and often profits
-from the events go to charity or various organizations supporting the
-arts. In addition to concerts and art shows, Vatican City is also, more
-obviously, known for the many festivals celebrated in the Catholic
-Church, such as Christmas and Easter among others. These celebrations
-occur worldwide, but the Catholic festivals of the Vatican are the most
-extravagant.
+Vatican City's major events follow the Catholic liturgical calendar. These are not festivals in the secular sense — they are religious observances that happen to draw enormous crowds.
 
-**Festival Corale Internazionale di Roma**
+**Easter** is the most significant event of the year. Good Friday begins with the Via Crucis (Stations of the Cross) procession at the Colosseum, led by the Pope. Holy Saturday brings the Easter Vigil Mass in St. Peter's Basilica. On Easter Sunday, the Pope celebrates Mass in St. Peter's Square and delivers the Urbi et Orbi blessing ("to the city and to the world") from the central balcony. Crowds in the square run to hundreds of thousands. Book accommodation in Rome very far in advance if you plan to be here for Easter.
 
-This incredible 5-day festival, called the Rome International Choral
-Festival in English, brings together many talented choral groups from
-around the globe. Performances are held in both Saint Peter's
-Basilica in Vatican City and the Santa Maria Sopra Minerva in Rome. The
-2010 event is scheduled for July 1 through July 5.
+**Christmas** runs from Christmas Eve through the Epiphany on January 6. Midnight Mass on December 24 is celebrated in St. Peter's Basilica with the Pope presiding; it is broadcast worldwide. On Christmas Day, the Pope gives the Urbi et Orbi blessing from the basilica balcony. St. Peter's Square is decorated with a large Christmas tree and a nativity scene throughout December.
 
-**Festival Internazionale di Musica e Arte Sacra**
+**Festival Internazionale di Musica e Arte Sacra** takes place each autumn across Rome's four major basilicas, including St. Peter's. The festival features the Vienna Philharmonic and other leading ensembles performing sacred music. Tickets are expensive — the cheapest seats start at around €250 — but the concerts in these spaces are genuinely extraordinary.
 
-The International Festival of Sacred Music and Art is a huge event
-spread throughout Saint Paul's Basilica, the Saint Mary Major Basilica,
-the Saint John Lateran Basilica, and of course, the famous Saint
-Peter's Basilica in Vatican City. The festival occurs in autumn and
-features the Vienna Philharmonic, among other groups. It is held in
-order to keep sacred music alive in our culture and to help people find
-God within themselves. The event is not cheap, the most inexpensive
-tickets are 250 euro per person, but the money goes to an organization
-made to preserve the heritage of sacred music.
+**Festival Corale Internazionale di Roma** (Rome International Choral Festival) is a five-day event in early July bringing choral groups from around the world to perform in St. Peter's Basilica and other Roman churches. Entry to many performances is free or low-cost.
 
-**Christmas**
-
-Christmas is one of the most important festivals in the Catholic
-Church. In Vatican City the entire celebration lasts from December 24
-to January 6. St. Peter's square is adorned with a beautiful
-Christmas tree and a nativity scene. On Christmas Eve, a massive midnight
-mass is held in St. Peter's Square, while on Christmas day, the Pope
-announces his Christmas message from his balcony.
-
-**Easter**
-
-The event begins with the Good Friday gathering. A huge cross is
-displayed surrounded by torches and the stations of the cross are
-recited in various languages so that everyone can understand.
-Afterward, the Pope gives a blessing to the crowd. Out of all of the
-masses held in Italy for Easter, the most popular is the one that takes
-place in Saint Peter's Basilica. The Pope leads this mass.
-
-**Contributors**
-March 26, 2010
+**Papal canonisations** occur several times a year and fill St. Peter's Square beyond capacity. If you happen to be in Rome during a canonisation, expect extraordinary crowds and significant disruption to normal Vatican access.

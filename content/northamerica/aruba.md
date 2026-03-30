@@ -1,6 +1,14 @@
 ---
 title: "Aruba"
 type: location
+latitude: 12.5211
+longitude: -69.9683
 ---
 
-Aruba is a lively island with with high-rise resorts and posh casinos lining its white-sand beaches. You'll find plenty of things to do, too: sunbathing, world-class windsurfing and waterskiing by day, and discos, cabarets, dinner shows and high-stakes gambling at night. Aruba was acquired by the Dutch in the 17th century. However, it's no longer officially a member of the Netherlands Antilles group. Since 1986, it has been a "separate entity within the Kingdom of the [Netherlands](/europe/netherlands) ." But because of its proximity to Bonaire and Curacao , the other members of the so-called "ABC Islands," many people continue to lump them together. Actually, all three islands have been influenced as much by [Venezuela](/southamerica/venezuela) . Aruba is just 24 km (approx. 15 miles) off the coast of Venezuela. It is mostly flat and arid, scattered with fields of cacti and aloe plants. To get updated information on the island of Aruba visit our website at: www.aruba.com
+Aruba is a small, flat island sitting just 27 km off the coast of Venezuela — far enough south to sit outside the main hurricane belt, which is a large part of its appeal. The trade winds blow steadily almost every day of the year, keeping the heat manageable and making it one of the Caribbean's top windsurfing destinations.
+
+The island is mostly arid: cacti, divi-divi trees bent permanently westward by the wind, and scrubby desert vegetation cover the interior, while the western coast is lined with the calm, white-sand beaches that fill most of the brochures. The contrast between the rugged, rocky windward coast and the smooth resort strip to the west is striking.
+
+Since 1986, Aruba has been a "constituent country" of the Kingdom of the Netherlands — separate from the Netherlands Antilles, with its own constitution and flag. Dutch influence shows in the architecture of Oranjestad and in a general orderliness, but the culture is genuinely its own. The local language, Papiamento, is a creole mixing Spanish, Portuguese, Dutch, African and Arawak roots, and most Arubans speak four or five languages comfortably.
+
+About 110,000 people live here, drawn from over 90 nationalities. The Arawak were the island's first inhabitants; Spanish colonizers arrived in 1499, and the Dutch took control in 1636. That layered history shows in the food, the festivals, and the easy, outward-looking character of the people.

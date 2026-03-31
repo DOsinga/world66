@@ -1,29 +1,32 @@
 ---
-title: "Practical Information in Bandar Seri Begawan"
+title: 'Practical Information'
 type: section
 ---
 
-Bandar Seri Begawan is the capital of Brunei, the smallest and richest country in Southeast Asia. Its wealth comes mainly from its oil resources.
-Currency
-The Brunei dollar and the Singapore dollar are both accepted here legally. So if you are arriving at Brunei from Singapore you do not need to change your currency here.
-Population
-Brunei is a very small country with a low population of about 46,300 people. They are very friendly and easy to get along with.
-Language
-The official language of this country is Malay, though they speak other languages such as English as well.
-Visa Information
-U.S. passport-holders should have at least six months remaining validity on their passport before entering Brunei whether for business or pleasure. They can obtain visas upon arrival for up to 90 days at no charge. There is an airport departure tax as well. Others too can obtain visas on arrival.
-Health and safety
-The following vaccinations are recommended for people visiting this country.
-Hepatitis A: Recommended for all travelers over one year.
-Hepatitis B: Recommended for all non-immune travelers at potential risk for acquiring this infection. It is recommended for long-term travelers and expatriates, as well as any traveler requesting protection against hepatitis B infection.
-Influenza: Vaccination is recommended for all travelers who are more than 6 months old and who have not received a flu shot in the previous 12 months.
-Japanese Encephalitis: Travelers staying in rural areas are recommended to go in for this vaccination if the duration of their trip exceeds 3 to 4 weeks. Vaccination is also advised for expatriates living in this country.
-Apart from this all travelers must take precautions against mosquito bites.
-Polio: This is recommended for all travelers who are more than 18 years old.
-Rabies: Vaccination is recommended for travelers spending time outdoors in rural areas. Children especially should be vaccinated as they are at higher risk.
-Routine Immunizations: All routine immunizations should be followed.
-Typhoid: Vaccination against typhoid is recommended for all travelers.
-All travelers are recommended to get comprehensive health insurance including air ambulance insurance before visiting this country.
-Local customs and etiquette
-As a strict Islamic country they prohibit drinking in public. Do not break this ban as it could land you in trouble. Women too are asked to dress modestly in accordance with Islamic norms.
-By following the health norms prescribed for foreigners one can have a safe and healthy trip to Brunei.
+## Money
+
+The Brunei dollar (BND) and Singapore dollar are interchangeable at par. ATMs are easy to find in the Gadong area and at shopping centers. Credit cards work at hotels and larger restaurants, but bring cash for markets, food stalls, and water taxis.
+
+## Language
+
+Malay is the official language, but English is widely spoken. Most signs and menus are bilingual. Locals are friendly and happy to help if you are lost.
+
+## Alcohol
+
+Brunei is a dry country -- you cannot buy alcohol anywhere. Non-Muslims over 17 may bring in two bottles of spirits or wine each time they enter the country, for private consumption only. Drinking in public is illegal and strictly enforced.
+
+## Dress Code
+
+BSB is a conservative city. Women should cover shoulders and knees, especially when visiting mosques, where headscarves and robes are provided at the entrance. Men should wear long trousers rather than shorts when visiting religious sites. Away from mosques, smart casual dress is fine.
+
+## Mosques
+
+The Omar Ali Saifuddien Mosque and Jame'Asr Hassanil Bolkiah Mosque are open to non-Muslim visitors outside prayer times. Remove your shoes before entering. Robes are available at the entrance for visitors who need them. Photography is usually permitted but ask first.
+
+## Safety
+
+BSB is extremely safe. Walking around at night is not a problem, though most of the city is quiet and dark after 9pm simply because everything has closed. The usual common-sense precautions apply.
+
+## Internet
+
+Wi-Fi is available at most hotels and many cafes. Mobile data SIM cards can be purchased at the airport and in shopping malls -- DST and Progresif are the two main providers.

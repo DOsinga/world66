@@ -3,34 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-Tours to Bhutan can be arranged through travel agents abroad, or by directly contacting tour operators in Bhutan. If the booking is made through a travel agent abroad, that travel agent will contact a tour operator in Bhutan who will be responsible for making local arrangements (visa, Druk-Air reservation, tour programs etc.).
+There are two ways into Bhutan: by air to [Paro](/asia/bhutan/paro) or overland from India through [Phuntsholing](/asia/bhutan/phuntsholing).
 
-  There are two ways to enter Bhutan: by air at Paro or by road through India at the border town of Phuntsholing. *Druk Air (KB)* the national airline of Bhutan operates flights from Delhi and Calcutta (India) Dhaka (Bangladesh) Bangkok (Thailand) and Khatmandu (Nepal).   *Druk Air *flies twice weekly to Delhi via Kathmandu and three times weekly to Bangkok via Calcutta and Dhaka. For details on flights and fares, vist the Drukair website at www.drukair.com.
+**By air** -- Paro International Airport is the only international airport and one of the most dramatic in the world, with the runway wedged between mountains at 2,200 metres. Only two airlines serve Bhutan: Druk Air (the national carrier) and Bhutan Airlines. Between them, they fly to Bangkok, Delhi, Kathmandu, Kolkata, Dhaka, Singapore, and a handful of other cities. Flights are weather-dependent and delays or cancellations are common, especially in winter and monsoon season. Book early in peak season -- seats fill fast.
 
- ***Visa Formalities ***
+**Overland** -- The most common land entry point is [Phuntsholing](/asia/bhutan/phuntsholing) on the Indian border in the southwest. From there, a spectacular but gruelling 6-hour drive climbs through subtropical forest to [Thimphu](/asia/bhutan/thimphu). Other land crossings at Gelephu and Samdrup Jongkhar are open to tourists but far less convenient. Indian nationals can enter more freely through these border points.
 
- All applications for tourist visas will be submitted by tour operators in advance to allow one week's time for processing. Three copies of original passport photographs must be submitted. 
+**Visa requirements** -- All visitors except citizens of India, Bangladesh, and the Maldives need a visa. You cannot get one yourself -- your licensed tour operator or approved hotel submits the application on your behalf. The visa costs $40, and you will receive an e-visa clearance letter that you must present to board your flight. Allow at least a week for processing.
 
- Visitors must obtain 'Visa Clearance' from the Ministry of Foreign Affairs, Thimphu, before departing for Bhutan. Visa Clearance is also required for obtaining DrukAir ticket from their local agents. 
+**The Sustainable Development Fee** -- On top of the visa, every international visitor (except citizens of India, Bangladesh, and the Maldives) must pay a Sustainable Development Fee of $100 per adult per night ($50 for children aged 6 to 12, free for under-6s). This fee does not include accommodation, food, transport, or guide services -- those are additional costs arranged through your operator. The SDF is Bhutan's way of ensuring high-value, low-impact tourism. It is non-negotiable and has been confirmed through at least 2027.
 
- Actual visa is stamped on arrival at the port of entry on payment of US$20 for a 15 day visa. A 6-month extension of visa can be obtained in Thimphu on payment of Nu. 510 if required.
-
- ***Daily Tourist Tariff***
-
-  Peak Season Rates For The Months Of March, April, May, September, October, and November
-
-$200 per person per day for 3 or more in a group
-
-$230 per person per day for 2 in a group
-
-$240 per day for a single individual
-
- Off Season Rates For The Months Of June, July, August, December, January, and February
-
-$165 per person per day for 3 or more in a group
-
-$195 per person per day for 2 in a group
-
-$205 per day for a single individual
-
- The above prices include all hotel accommodations, food, ground transportation, an English speaking guide, trekking equipment(except tents), a cook, and pack animals if necessary.  The rates quoted above are set by the Royal Government of Bhutan.
+**Booking** -- You must arrange your trip through a licensed Bhutanese tour operator or an approved hotel. The Tourism Council of Bhutan maintains a list of licensed operators. Many international travel agents can arrange bookings, but the on-the-ground arrangements will always be handled by a Bhutanese company.

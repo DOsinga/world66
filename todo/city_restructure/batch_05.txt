@@ -1,0 +1,5 @@
+europe/germany/berlin
+europe/germany/munich
+europe/austria/vienna
+europe/czech_republic/prague
+europe/hungary/budapest

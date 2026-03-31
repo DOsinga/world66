@@ -1,0 +1,5 @@
+europe/italy/lazio/rome
+europe/italy/campania/naples
+europe/italy/tuscany/florence
+europe/italy/veneto/venice
+europe/italy/lombardia/milan

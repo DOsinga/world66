@@ -1,0 +1,5 @@
+asia/japan/tokyo
+asia/japan/kyoto
+asia/thailand/bangkok
+asia/vietnam/hanoi
+asia/india/jaipur

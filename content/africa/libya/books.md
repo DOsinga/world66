@@ -3,88 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Good books specifically about Libya are hard to find outside specialist libraries, but a few are worth tracking down.
 
-**Tunisia Handbook with Libya**
+**Travels in Arabia Deserta** by Charles Doughty (1888) covers the wider region and established the template for serious desert travel writing.
 
+**The Libyan Desert** by W.J. Harding King (1903) is a classic account of Saharan exploration in what is now southeastern Libya. Available in reprint editions.
 
+**Libya: The History of Gaddafi's Pariah State** by Ronald Bruce St John is a solid political history covering the colonial period through the revolution. Readable and well-researched.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844248673/ref=ase_osingacom?v=glance&s=books)
+**The Return** by Hisham Matar (2016) — a Libyan-British novelist returns to Benghazi after the revolution to search for his father, disappeared by the Gaddafi regime in the 1990s. It won the Pulitzer Prize and is the most important book written about modern Libya. Essential reading before any visit.
 
-author: Anne McLachlan,Keith McLachlan
+**Libya: From Colony to Revolution** by Ronald Bruce St John (revised edition 2012) gives the clearest account of Libyan history from the Italian conquest to the fall of Gaddafi.
 
-isbn: 0844248673
+**Alone Across the Sahara** by Jean-Claude Guilbert — one of several accounts of trans-Saharan travel that pass through Libyan territory. Useful for the Fezzan region.
 
-subject: travel
-
-**Tunisia Handbook:With Libya**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0900751916/ref=ase_osingacom?v=glance&s=books)
-
-author: A. McLachlan
-
-isbn: 0900751916
-
-subject: travel
-
-**Extramural Sanctuary of Demeter and Persephone at Cyrene, Libya:The East Greek, Island and Laconian Pottery**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0934718555/ref=ase_osingacom?v=glance&s=books)
-
-author: Gerald P. Schaus,Donald White (Editor)
-
-isbn: 0934718555
-
-subject: travel
-
-**Cultures of the World Set 6:Kenya, Libya, Nigeria, South Africa, Turkey, Zimbabwe**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1854355716/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Malcolm
-
-isbn: 1854355716
-
-subject: culture
-
-**Pan Am 103:The Lockerbie Coverup**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0964010410/ref=ase_osingacom?v=glance&s=books)
-
-author: William C. Chasey
-
-isbn: 0964010410
-
-subject: history
-
-**Libya since Independence:Oil and State-Building**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0801485355/ref=ase_osingacom?v=glance&s=books)
-
-author: Dirk Vandewalle
-
-isbn: 0801485355
-
-subject: history
-
-**Egypt Handbook with Libya**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844248940/ref=ase_osingacom?v=glance&s=books)
-
-author: Anne McLachlan,Keith McLachlan
-
-isbn: 0844248940
-
-subject: history
+For the Roman sites, the guidebook **Libya: The Bradt Travel Guide** by Daniel McLaughlin (last updated 2008) was the standard reference for pre-revolution travel. It's now outdated on practical matters but still useful for historical and archaeological background on Leptis Magna, Sabratha, and Cyrene.

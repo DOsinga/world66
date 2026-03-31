@@ -1,22 +1,14 @@
 ---
-title: 'Getting There'
+title: "Getting There"
 type: section
 ---
 
-## By Air
+The only international airport is Brunei International Airport (BWN) on the outskirts of Bandar Seri Begawan. Royal Brunei Airlines flies direct to Kuala Lumpur, Singapore, Bangkok, Jakarta, Manila, Hong Kong, Dubai, and London. Budget carriers connect to the region as well, and flights from most Southeast Asian hubs take under three hours.
 
-Brunei International Airport (BWN) is located about 11 km from [Bandar Seri Begawan](/asia/brunei/bandarseribegawan). Royal Brunei Airlines is the national carrier, with direct flights to Singapore, Kuala Lumpur, Bangkok, Hong Kong, Melbourne, London, and several other destinations. AirAsia and Cebu Pacific also operate routes to Kuala Lumpur and Manila respectively, though schedules change frequently.
+Overland entry from Malaysia is straightforward. From Miri in Sarawak, buses run to Bandar Seri Begawan in around two to three hours, crossing the Sungai Tujoh border. The journey is cheap — expect to pay around 50 to 70 Malaysian ringgit — and border formalities are quick for most nationalities. From Kota Kinabalu in Sabah, the Sipitang Express bus operates three days a week (Tuesday, Thursday, Saturday), departing early morning and taking most of the day, though you can also break the journey and cross via Labuan.
 
-From Europe, the most common routing is through Singapore or Kuala Lumpur. From North America, connections through Seoul, Tokyo, or Hong Kong work well.
+Via Labuan: ferries run from Kota Kinabalu to Labuan island (roughly three hours), and then from Labuan to Brunei (around two hours). Multiple departures daily in each direction, though schedules shift seasonally — confirm before you go. This route offers a scenic alternative to the long bus ride.
 
-Taxis from the airport to central BSB cost around BND25-30. There is also a bus service (line 23/24) for BND1, though it does not run late at night.
+Note that Brunei sits in two separate chunks of territory, divided by a strip of Malaysia. Road travel between Bandar Seri Begawan and Bangar in the Temburong district requires a short transit through Malaysia or — more commonly — the daily speedboat service up the Brunei River.
 
-## By Land
-
-You can enter Brunei overland from Sarawak, Malaysia. The main border crossing is at Kuala Lurah, between Limbang and Bandar Seri Begawan. Buses run between Miri and BSB (around 3-4 hours, with two border crossings since the road passes through Brunei's two separate territories). PHLS Express and Jesselton Express operate this route.
-
-There is also a crossing from Sarawak's Limbang Division into the Temburong District at Labu/Pandaruan.
-
-## By Sea
-
-Speedboats connect Brunei with Pulau Labuan (a Malaysian island off the coast of Sabah) in about 30 minutes. From Labuan you can catch ferries to Kota Kinabalu. Boats depart from the Serasa Ferry Terminal in Muara, about 25 km northeast of BSB.
+Most nationalities do not need a visa for visits up to 30 or 90 days. US and Canadian citizens are visa-free for 90 days. EU and UK citizens get 30 days. Check with your nearest Brunei embassy if you are unsure. All visitors must complete an e-Arrival Card online before traveling (air, land, or sea entry).

@@ -1,24 +1,16 @@
 ---
-title: 'Brunei'
+title: "Brunei"
 type: location
-latitude: 4.9431
-longitude: 114.9425
+latitude: 4.5353
+longitude: 114.7277
 ---
 
-Brunei is one of the smallest and wealthiest countries in Southeast Asia, a sliver of oil-rich land on the northern coast of Borneo, entirely surrounded by the Malaysian state of Sarawak. Officially known as Brunei Darussalam -- the "Abode of Peace" -- it is a sultanate that has been ruled by the same royal family for over six centuries.
+Brunei is a sultanate the size of a large county, tucked into the northwest coast of Borneo and surrounded on three sides by the Malaysian state of Sarawak. It is one of the smallest and wealthiest countries in Asia — its oil and gas revenues have made it one of the highest per-capita income nations in the world, and the benefits are visible everywhere: free healthcare, no income tax, heavily subsidized petrol, and roads that would not embarrass Germany.
 
-What strikes most visitors first is the contrast. The capital, [Bandar Seri Begawan](/asia/brunei/bandarseribegawan), has golden-domed mosques and a lavish royal palace, yet just a short boat ride away you find yourself in pristine primary rainforest that has never been logged. The country is quiet, orderly, and prosperous. Streets are clean, crime is virtually nonexistent, and petrol costs next to nothing.
+What makes Brunei unusual, beyond the money, is how it wears its wealth. There are no casinos, no nightclubs, and no alcohol sold anywhere in the country. The Sultan — one of the richest individuals on earth — lives in the Istana Nurul Iman, a palace with 1,788 rooms, and governs under a philosophy called Melayu Islam Beraja: Malay identity, Islamic values, and royal authority. This is not a country trying to become somewhere else.
 
-Brunei is a strictly Islamic country. Alcohol cannot be purchased anywhere in the country, and the Sharia Penal Code applies to Muslims and non-Muslims alike for certain offenses. This makes nightlife essentially nonexistent in the Western sense, but it also means Brunei feels remarkably safe and calm compared to its Southeast Asian neighbors.
+For travelers willing to accept those terms, Brunei is a genuine surprise. The capital, [Bandar Seri Begawan](/asia/brunei/bandarseribegawan), is clean and quiet, with gold-domed mosques that rival anything in the Islamic world and a vast water village — Kampong Ayer — where some 30,000 people live above the Brunei River on stilts. Beyond the city, the Temburong district holds some of the most pristine rainforest left on Borneo, accessible by longboat and explored via a spectacular canopy walkway.
 
-The country is split into two parts by a wedge of Sarawak. The western portion holds the capital and most of the population, while the eastern Temburong District is almost entirely covered in rainforest. The Ulu Temburong National Park is the highlight here -- a canopy walkway rising 50 meters above the forest floor gives you views across unbroken jungle stretching to the horizon.
+Brunei sits on Borneo, the world's third-largest island, and shares it with the Malaysian states of Sabah and Sarawak, and Indonesian Kalimantan. The country is actually split in two by a strip of Malaysian territory — the main part contains the capital and most of the population, while the smaller Temburong district to the east is connected by road through Malaysia or by speedboat up the river.
 
-Most travelers pass through Brunei quickly, often as a side trip from Sabah or Sarawak. That is a mistake. Give it two or three days and you will find a genuinely different Southeast Asian experience: Kampong Ayer, the world's largest water village; the spectacular Omar Ali Saifuddien Mosque; mangrove river cruises where proboscis monkeys swing through the trees; and some of the best and cheapest street food in Borneo.
-
-## Destinations
-
-- [Bandar Seri Begawan](/asia/brunei/bandarseribegawan) -- the capital and main base for exploring the country
-- [Bangar](/asia/brunei/bangar) -- gateway to the Temburong District and the rainforest
-- [Kuala Belait](/asia/brunei/kualabelait) -- oil town near the Sarawak border
-- [Seria](/asia/brunei/seria) -- headquarters of Brunei's oil industry
-- [Kota Batu](/asia/brunei/kotabatu) -- historic area near the capital with the Brunei Museum
+Destinations within Brunei include the capital [Bandar Seri Begawan](/asia/brunei/bandarseribegawan), the oil town of [Seria](/asia/brunei/seria), the border town of [Kuala Belait](/asia/brunei/kualabelait), and the gateway to Temburong, [Bangar](/asia/brunei/bangar).

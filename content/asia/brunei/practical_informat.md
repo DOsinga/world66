@@ -1,42 +1,32 @@
 ---
-title: 'Practical Information'
+title: "Practical Information"
 type: section
 ---
 
-## Currency
+**Currency**
 
-The Brunei dollar (BND) is pegged at par with the Singapore dollar, and Singapore dollars are accepted everywhere in Brunei at a 1:1 rate. ATMs are widely available in [Bandar Seri Begawan](/asia/brunei/bandarseribegawan) and accept international cards (Visa, Mastercard). Credit cards are accepted at hotels and larger restaurants, but smaller stalls and markets deal in cash only.
+The Brunei dollar (BND) is the local currency, pegged 1:1 to the Singapore dollar — both are accepted interchangeably in Brunei, which is useful if you are arriving from Singapore. ATMs are widely available in the capital and larger towns. Card payments work in most hotels, supermarkets, and restaurants, but carry cash for markets, small stalls, water taxis, and transport.
 
-## Visas
+**Visas**
 
-Many nationalities can enter Brunei visa-free for up to 90 days, including citizens of the US, UK, EU countries, Canada, Australia, and most ASEAN nations. Your passport must be valid for at least six months beyond your arrival date. All visitors must complete a mandatory E-Arrival Card online before arrival, regardless of visa status. You may also be asked to show proof of medical insurance covering your stay.
+Most nationalities do not need a visa for stays up to 30 or 90 days. US and Canadian citizens: 90 days visa-free. EU, UK, and most Western European citizens: 30 days. All visitors must fill in an online e-Arrival Card before entry, regardless of nationality or entry point (air, land, or sea).
 
-## Language
+**Alcohol**
 
-Malay is the official language, but English is widely spoken and understood, especially in the capital. Signs and menus are often bilingual.
+Alcohol is not sold anywhere in the country. Non-Muslim visitors may bring a small personal allowance through customs: two bottles of wine or spirits and twelve cans of beer per person. This is for private consumption only.
 
-## Safety
+**Health**
 
-Brunei is one of the safest countries in Southeast Asia. Violent crime is extremely rare, and petty crime is uncommon. The main risks are limited to minor opportunistic theft -- keep an eye on your belongings as you would anywhere.
+No vaccinations are required for entry from most countries, but standard Southeast Asia precautions apply: hepatitis A and typhoid are worth considering, and malaria prophylaxis is sometimes recommended for trips to the Temburong rainforest interior. Dengue fever is present year-round. Use repellent. Tap water in urban areas is generally safe but bottled water is cheap and widely available.
 
-## Laws and Customs
+**Safety**
 
-Brunei is a conservative Islamic state governed by Sharia law alongside civil law. Key things to know:
+Brunei is one of the safest countries in the world. Petty crime is rare, violent crime is extremely unusual, and travelers of all kinds report feeling comfortable. The main rules to be aware of are the alcohol ban, the ban on public smoking in almost all spaces (including parks and transport), and modest dress expectations near mosques. Consequences for drug offences are severe — the country operates under strict laws and penalties.
 
-- **Alcohol** cannot be purchased anywhere in Brunei. Non-Muslims over 17 may bring in two bottles of spirits or wine per entry for private consumption. Drinking in public is illegal.
-- **Dress modestly**, particularly when visiting mosques. Women should cover their shoulders and knees; men should wear long trousers.
-- **Ramadan** restrictions apply to eating, drinking, and smoking in public during daylight hours in the fasting month.
-- **Public criticism** of the Sultan, the royal family, or Islam is illegal.
-- **Homosexuality** is criminalized under Brunei law.
+**Electricity and Communications**
 
-## Health
+Power outlets are the UK three-pin type, 240V/50Hz. Mobile coverage is excellent in urban areas and most of Brunei proper, though sparse in the Temburong interior. SIM cards are cheap and easy to buy. Internet is fast and reliable in the capital.
 
-No vaccinations are required for entry, but hepatitis A, hepatitis B, typhoid, and routine immunizations are recommended. Mosquito-borne diseases (dengue fever) exist, so bring insect repellent. Tap water is generally safe to drink in BSB, though bottled water is cheap and widely available. Medical facilities in the capital are good, and public healthcare is heavily subsidized.
+**Money and Costs**
 
-## Electricity
-
-Brunei uses UK-style three-pin plugs (Type G) at 240V/50Hz.
-
-## Time Zone
-
-Brunei is UTC+8, the same as Singapore, Malaysia, and Hong Kong.
+Brunei is relatively affordable for visitors from Western countries. A decent meal at a local hawker stall costs 2–5 BND. A taxi across town is 5–10 BND. Entry to most museums and attractions is free or nearly so. The main cost is likely accommodation, which is more limited than in neighboring Malaysia — budget options start around 25–40 BND per night.

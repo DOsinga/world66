@@ -3,18 +3,16 @@ title: "Practical Information"
 type: section
 ---
 
-**Visas.** Many nationalities can get a 30-day visa on arrival at Bangladeshi airports for US$50. An e-visa system is also available. Check visa.gov.bd for current eligibility. Some countries still require advance application at a Bangladeshi embassy.
+**Visas:** Most visitors need a visa. Citizens of many Western countries can obtain a visa on arrival at Dhaka airport for $50 USD (cash only), valid for 15–30 days. The process can be slow and is not guaranteed — applying in advance through the Bangladeshi embassy or the official e-visa portal is safer. Some nationalities require a visa before arrival regardless.
 
-**Money.** The currency is the Bangladeshi taka (BDT). ATMs accepting international cards are common in [Dhaka](/asia/bangladesh/dhaka), [Chittagong](/asia/bangladesh/chittagong), and [Sylhet](/asia/bangladesh/sylhet) but scarce in smaller towns. Bring US dollars or euros as backup -- moneychangers are widespread. Credit cards are accepted only at upmarket hotels and restaurants in major cities.
+**Currency:** The taka (BDT) is the local currency. ATMs are widely available in Dhaka and major cities but scarce in rural areas. Carry cash when traveling outside the main towns. US dollars and euros are exchangeable at banks and authorized money changers; street exchange is not recommended.
 
-**Language.** Bengali (Bangla) is the national language and the source of deep cultural pride. English is widely understood in cities, hotels, and among educated Bangladeshis, but in rural areas and with rickshaw drivers you will need basic Bengali phrases or a translation app. Learning a few words of Bangla goes a long way.
+**Health:** Drink bottled or purified water throughout the country. The risk of mosquito-borne diseases (dengue, malaria) exists, especially in the hill tracts and during and after the monsoon. Consult a travel health clinic before your trip and take appropriate precautions. Standard food hygiene rules apply — street food from busy stalls with high turnover is generally fine.
 
-**Safety.** Bangladesh is generally safe for travelers, and violent crime against foreigners is rare. Petty theft and pickpocketing occur in crowded areas. The Chittagong Hill Tracts (Bandarban, Rangamati, Khagrachari) are a restricted area requiring permits, and some governments advise against travel there. Political strikes (hartals) can shut down transport with little notice -- check the local news. During cyclone season (April-June and October-November), follow weather advisories closely.
+**Safety:** Bangladesh is safer for travelers than its reputation suggests. Petty theft exists in Dhaka, as it does in any large city. Political demonstrations can turn volatile with little warning — avoid large gatherings. The US and UK governments periodically issue advisories about security; check these before traveling. The Chittagong Hill Tracts require a permit from the Home Ministry or local DC office; rules change periodically.
 
-**Health.** Drink only bottled or purified water. Hepatitis A and typhoid vaccinations are recommended; hepatitis B, Japanese encephalitis, and rabies vaccines are worth considering for longer stays. Malaria prophylaxis is advisable if visiting the Chittagong Hill Tracts or the Sundarbans. Dengue fever is a risk during and after the monsoon -- use insect repellent.
+**Language:** Bangla (Bengali) is the official language. English is widely understood in Dhaka and among educated Bangladeshis across the country.
 
-**Electricity.** 220V, 50Hz. Plugs are a mix of types C, D, G, and K. Bring a universal adapter. Power cuts are common outside Dhaka.
+**Internet and phones:** Mobile coverage is good across most of the country. Local SIM cards are cheap and easy to obtain at the airport with a passport. Data is inexpensive. Wi-Fi is available in most hotels and cafes in Dhaka and larger cities.
 
-**Dress.** Bangladesh is a conservative, predominantly Muslim country. Both men and women should dress modestly -- long trousers or skirts and covered shoulders. Women will attract less unwanted attention in loose-fitting clothing. Swimwear is only appropriate at private hotel pools, not on public beaches.
-
-**Connectivity.** Local SIM cards from Grameenphone, Robi, or Banglalink are cheap and widely available. Mobile data coverage is decent in urban areas but patchy in rural regions.
+**Electricity:** 220–240V AC, 50Hz. Plugs are typically round two- or three-pin (Type C/D/G). Power cuts are common outside major cities — a torch is useful.

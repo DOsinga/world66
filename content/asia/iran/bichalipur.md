@@ -1,4 +1,0 @@
----
-title: "Bichalipur"
-type: location
----

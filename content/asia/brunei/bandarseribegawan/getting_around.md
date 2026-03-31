@@ -1,10 +1,16 @@
 ---
-title: "Getting Around"
+title: 'Getting Around'
 type: section
 ---
 
-Bandar Seri Begawan (BSB) is only part of a larger urban sprawl that comprises Brunei's major population center. It happens to be the location of the capital, but much business is developing in Muara and other "suburbs."
+BSB's city center is compact enough to walk, though the heat and humidity will slow you down. The main sights -- the Omar Ali Saifuddien Mosque, Kampong Ayer waterfront, and the central markets -- are all within walking distance of each other. Getting to the Gadong commercial and dining district, about 3 km away, requires transport.
 
- There are city buses that ply the major roads of the area, but they are infrequently used. Most peoople seem to have cars or use taxis, which are relatively inexpensive. The main bus station is near the "downtown" area not far from the waterfront by the mall, under a large building. From there you can get to many places, but in some cases you may not be able to get back if it is late. Most everything shuts down by 8 or 9 pm.
+**Buses** -- The Franchise Bus system runs six color-coded routes through BSB and out to Gadong, Muara, and the airport. Fares are a flat BND1. Service runs from around 6am to 8pm, though buses are infrequent and can be confusing for newcomers. The TransportBN app helps with routes.
 
- It's probably best to take a taxi as the buses seem to take long routes or drop you off at an undisclosed location. Be sure to ask the driver where to get off. Most people speak English and are very helpful. I was offered a ride from the airport into town by a friendly local!
+**Taxis** -- Metered taxis start at BND3.50. They can be hard to find on the street, so it is best to call ahead or ask your hotel to book one. The Dart ride-hailing app is a local alternative that works like Grab and is often cheaper.
+
+**Water taxis** -- Essential for reaching Kampong Ayer and for river crossings. You will see them lined up along the waterfront. A short trip costs BND2-5, negotiable. Just wave and one will pull up.
+
+**Car rental** -- The most practical option if you plan to explore beyond BSB. Roads are in excellent condition, traffic is light, and petrol is cheap. Rental agencies operate from the airport and major hotels.
+
+Most of BSB shuts down by 9pm. If you are out late, make sure you have a way to get back to your hotel, as public transport stops early and street taxis become scarce after dark.

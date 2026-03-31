@@ -1,0 +1,5 @@
+north_america/united_states/new_york
+north_america/united_states/san_francisco
+north_america/united_states/chicago
+north_america/united_states/new_orleans
+north_america/canada/montreal

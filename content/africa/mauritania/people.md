@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 2 511 473 (July 1998 est.)
+Mauritania's population is around 4.5 million, roughly split between two broad groups that have very different histories and cultures — and have not always coexisted comfortably.
 
-**Age structure:**
+The Moors (or Maures) of the north are Arabic-speaking and of Berber-Arab descent. They dominate political and economic life and are divided into a complex social hierarchy of warrior tribes, religious scholars, artisans, and — at the bottom — haratin, descendants of formerly enslaved people. Many Moors are traditionally nomadic or semi-nomadic, though urbanisation has accelerated significantly since the 1970s droughts. They eat couscous, drink sweet mint tea in elaborate three-glass ceremonies, and are culturally closer to Morocco and the Maghreb than to sub-Saharan Africa.
 
-*0-14 years:* 46% (male 584 303; female 583 526)
+The Black African communities of the south — Halpulaar (Fula), Soninke, and Wolof — live mostly along the Senegal River valley and in the towns of the south. Culturally and linguistically they are oriented toward Senegal, and many maintain strong ties across the border. They are predominantly Muslim, like the rest of the country, but with distinct religious traditions including veneration of Sufi saints.
 
-*15-64 years:* 51% (male 624 144; female 660 478)
+The relationship between these groups is one of the defining tensions in Mauritanian society. In 1989–1991, communal violence between Moors and Black Africans led to tens of thousands of Black Mauritanians being expelled to Senegal and Mali. Many were only able to return after 2007.
 
-*65 years and over:* 3% (male 24 813; female 34 209) (July 1998 est.)
+Slavery was practiced widely across all communities for centuries. France attempted to abolish it several times during the colonial period without lasting effect. It was officially abolished at independence and again in 1981, but criminalisation only came in 2007. Anti-Slavery International and local groups continue to document cases of people living in conditions of servitude, particularly among the haratin. Progress has been made but the legacy is deep.
 
-**Population growth rate:** 2.52% (1998 est.)
-
-**Birth rate:** 44.46 births/1 000 population (1998 est.)
-
-**Death rate:** 14.59 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -4.65 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.94 male(s)/female
-
-*65 years and over:* 0.73 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 78.22 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 49.99 years
-
-*male:* 46.95 years
-
-*female:* 53.11 years (1998 est.)
-
-**Total fertility rate:** 6.41 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Mauritanian(s)
-
-*adjective:* Mauritanian
-
-**Ethnic groups:** mixed Maur/black 40% Maur 30% black 30%
-
-**Religions:** Muslim 100%
-
-**Languages:** Hasaniya Arabic (official) Pular Soninke Wolof (official) French
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 37.7%
-
-*male:* 49.6%
-
-*female:* 26.3% (1995 est.)
+Despite these divisions, daily life involves a great deal of interaction between communities, especially in Nouakchott, which has drawn people from across the country. Hospitality is a genuine and strong value in Mauritanian culture — a stranger arriving at a tent or home can expect tea, food, and shelter before questions are asked.

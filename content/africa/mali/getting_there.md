@@ -3,16 +3,28 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+*Africa > Mali > Getting There*
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+## By air
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+All international flights arrive at **Modibo Keïta International Airport** (BKO), 15 kilometres south of central [Bamako](/africa/mali/bamako). The airport is named after Mali's first president.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+The best-connected route is from Paris. **Air France** runs seasonal direct flights from Charles de Gaulle; **Corsair** operates year-round flights from Paris Orly. Between them, there are usually several departures a week. From elsewhere in Europe you will typically connect via Paris or connect within Africa.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+Within West Africa, **Air Senegal**, **Air Côte d'Ivoire**, and regional carriers connect Bamako to Dakar, Abidjan, Ouagadougou, and other regional hubs. These connections are useful for onward travel but schedules change frequently — book and reconfirm.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+Domestic airports at Mopti, Gao, and Timbuktu receive internal flights from Bamako. Service has been irregular due to security conditions; check current availability.
 
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+## By land
+
+Overland entry into Mali carries significant risk. Most Western governments advise against it. Armed groups have attacked vehicles on major routes, and road conditions are poor.
+
+The most viable land crossing historically was from [Senegal](/africa/senegal) via Kayes, on the railway line from Dakar. The Dakar–Bamako railway is functional but slow and unreliable; the journey takes two to three days. The road from the Senegalese border to Kayes is paved but security has deteriorated.
+
+Border crossings from [Burkina Faso](/africa/burkinafaso) in the south, and from [Guinea](/africa/guinea) and [Côte d'Ivoire](/africa/cotedivoire) in the southwest, were used by travellers historically. All should be considered high-risk at present. The routes through the north — from [Algeria](/africa/algeria), [Niger](/africa/niger), or [Mauritania](/africa/mauritania) — are effectively closed to independent travellers due to jihadist activity.
+
+If you are travelling overland despite the risks, go with a local guide who has current intelligence, travel in convoy where possible, and avoid night driving.
+
+## Visas
+
+Mali does not issue visas on arrival. You must obtain a visa before travelling. Applications are made at Malian embassies and consulates abroad. Note that Mali has expelled French, Danish, and other Western diplomatic missions since the 2021 coup; check whether your country's embassy is still operational in Bamako, and whether Mali maintains a diplomatic presence in your country.

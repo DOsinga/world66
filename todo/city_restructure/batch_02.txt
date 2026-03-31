@@ -1,0 +1,5 @@
+europe/italy/emiliaromagna/bologna
+europe/italy/emiliaromagna/ravenna
+europe/italy/liguria/genoa
+europe/italy/campania/sorrento
+europe/italy/sicily/palermo

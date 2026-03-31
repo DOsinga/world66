@@ -3,32 +3,22 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Airlines serving Côte d'Ivoire include *Air Afrique* *Air France* *Egyptair* *Swissair *and *TAP Air Portugal*. Côte d'Ivoire has a shareholding in Air Afrique.
+The main entry point is Félix Houphouët-Boigny International Airport in [Abidjan](/africa/ivorycoast/abidjan) (IATA: ABJ), located about 16 km southeast of the city centre. It is well connected to Paris, Brussels, Casablanca, Addis Ababa, Nairobi, Dubai, and several other West African capitals. Air France, Ethiopian Airlines, Royal Air Maroc, and Turkish Airlines are among the carriers with regular service. Flight time from Paris is roughly 6 hours; from New York around 11 hours with a connection.
 
-Approximate flight time
+A second airport at Yamoussoukro handles some regional traffic but is not a practical international entry point for most travellers.
 
-From Abidjan* *to *London* is 6 hours to *New York *is 12 hours.
+## Visas
 
-International airports:
+Most nationalities need a visa. The e-visa is the easiest option: apply online through the official SNEDAI portal before you travel (snedai.com/e-visa). It is issued within 48 hours, valid for 90 days, and must be used on arrival at Abidjan airport. If you plan to enter overland, you will need to arrange a paper visa from the Ivorian embassy in advance, as e-visas are only accepted at the Abidjan airport.
 
-*Abidjan (ABJ) *(Port Bouet Airport) is 16km (10 miles) southeast of Abidjan (travel time  25 minutes). Buses and taxis are available to the city. Airport facilities include duty-free shop (24 hours) restaurant shops and car hire (*Avis*).
+Yellow fever vaccination is mandatory — you must show your certificate on arrival.
 
-*Yamoussoukro* (San Pedro Airport) has recently been upgraded to international standard.
+## By Road
 
-Departure tax:
+Land borders connect to Ghana in the east, Burkina Faso and Mali in the north, and Guinea and Liberia in the west. Road quality varies considerably; the main corridors to Ghana and Burkina Faso are generally passable. Border procedures can be slow and crossings should ideally be done in daylight. Check current conditions before heading to the Liberian or Guinean borders.
 
-CFAfr 3000 for African destinations and CFAfr 5000 for all other departures.
+## By Rail
 
-Sea
-
-There are no regular passenger sailings but cargo liners provide limited accommodation for passengers travelling from Europe. The *Royal Viking *line operates a cruise to Abidjan.
-
-Rail
-
-There are two through trains with sleeping and restaurant cars from Abidjan to Ouagadougou (Burkina Faso) daily (travel time  25-27 hours). Those intending to travel should be aware that the Burkina Faso rail network is under constant threat of closure because of financial difficulties; check with the appropriate authorities before finalising arrangements.
-
-Road
-
-There are road links of varying quality from Kumasi (Ghana) and from Burkina Faso Guinea and Liberia and Mali.
+The historic Abidjan–Ouagadougou rail line, once one of West Africa's great train journeys, has been suspended for years due to track deterioration. Do not count on it.

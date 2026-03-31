@@ -3,16 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+## By Air
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+The main gateway is **Roberts International Airport** (IATA: ROB), located near Harbel in Margibi County, about 60 km east of Monrovia. Transfer to the capital takes around an hour by road.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+Airlines with regular scheduled service include Brussels Airlines (Brussels), Turkish Airlines (Istanbul), Ethiopian Airlines (Addis Ababa), Kenya Airways (Nairobi), Royal Air Maroc (Casablanca), ASKY Airlines (Lomé), and Air Côte d'Ivoire (Abidjan). Accra in Ghana is the most frequent connection, useful for linking up with onward West African routes. There are no direct flights from North America or Asia — route via Europe or a West African hub.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+There is also a smaller domestic airport, **Spriggs Payne Airport**, within Monrovia itself, used mainly for charter and internal flights.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+## By Land
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+Road borders are open with Guinea to the north, Sierra Leone to the northwest, and Côte d'Ivoire to the east. The crossing from Sierra Leone at Bo Waterside is the most commonly used by independent travelers coming from Freetown. From Guinea, the Ganta–Nzérékoré route is feasible. Road conditions on all these routes can be rough, particularly in the rainy season (May–October), when unpaved stretches become impassable for ordinary vehicles.
 
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+Bush taxis and minibuses connect border towns with Monrovia, but journeys are slow. Budget for delays.
+
+## By Sea
+
+No regular passenger ferry service operates to Liberia. Cargo ships occasionally carry passengers but this is not a practical option for most travelers.

@@ -3,16 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Eswatini is a small landlocked kingdom surrounded by South Africa on three sides and Mozambique to the east.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+**By Air**
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+King Mswati III International Airport near Sikhuphe, in the Lubombo region, is the country's main international airport. It handles a handful of regional routes, most usefully from Johannesburg (OR Tambo). The older Matsapha Airport near [Manzini](/africa/swaziland/manzini) is now used primarily for charter flights.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+Most international travellers fly into Johannesburg and then travel overland. The drive from OR Tambo to [Mbabane](/africa/swaziland/mbabane) takes roughly four hours.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+**By Road**
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+There are several road border crossings between Eswatini and South Africa, open during daylight hours. The main ones are Ngwenya/Oshoek (on the main road from Johannesburg, the busiest), Mahamba (from Piet Retief), and Lavumisa/Golela (south, from Durban). Crossing from Mozambique is possible at the Lomahasha/Namaacha post in the north-east.
 
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+Shared minibus taxis run between Johannesburg's Park Station and [Manzini](/africa/swaziland/manzini). They are cheap and frequent but can be crowded and slow at busy border crossings. Intercape and other coach operators run scheduled services from Johannesburg and Durban with a stop in Manzini.

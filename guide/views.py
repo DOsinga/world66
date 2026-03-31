@@ -150,6 +150,32 @@ def _collect_markers(page, sections, locations, pois):
     return markers
 
 
+def _image_path(page):
+    """Build the content-relative path to a page's hero image."""
+    image = page.meta.get('image', '')
+    if not image:
+        return None
+    # Check both possible locations for the image file
+    for candidate in [
+        f'{page.path}/{image}',                                          # inside directory
+        f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,  # next to .md
+    ]:
+        if (CONTENT_DIR / candidate).is_file():
+            return candidate
+    return None
+
+
+def content_image(request, path):
+    """Serve an image file from the content directory."""
+    file_path = (CONTENT_DIR / path).resolve()
+    if not file_path.is_relative_to(CONTENT_DIR.resolve()):
+        raise Http404
+    if not file_path.is_file() or file_path.suffix.lower() not in ('.jpg', '.jpeg', '.png', '.webp'):
+        raise Http404
+    return FileResponse(open(file_path, 'rb'))
+
+
+
 def _safe_float(value):
     """Return value as float, or None if invalid."""
     if value is None:

@@ -23,7 +23,7 @@ Every city should have the same sections in the same order. Sections are ordered
 
 **Do not use separate `sights` and `museums` sections.** Consolidate everything into `things_to_do` with category filters. If a city has existing `sights/` and `museums/` directories, migrate them (see below).
 
-**Do not use a separate `nightlife` section.** Nightlife POIs (clubs, late-night bars) go in `bars_and_cafes` alongside bars and cafes. If a city has an existing `nightlife/` directory, move any good POIs into `bars_and_cafes/` and add a redirect. Most old World66 nightlife POI data is outdated junk — delete it rather than migrating it.
+**Do not use a separate `nightlife` section.** Nightlife POIs (clubs, late-night bars) go in `bars_and_cafes` alongside bars and cafes. If a city has an existing `nightlife/` directory, move any good POIs into `bars_and_cafes/` and delete the rest. Most old World66 nightlife POI data is outdated junk.
 
 ### What to delete
 
@@ -57,13 +57,6 @@ The first of Ferrante's four Neapolitan novels... [2-4 sentences on what the boo
 ```
 
 Aim for 3–5 books per city. Prefer novels set in the city or its region; short story collections and narrative non-fiction (Saviano's *Gomorrah*, Levi's *Christ Stopped at Eboli*) are fine when they're genuinely illuminating. Avoid: guidebooks, coffee-table books, general Italian history, books only tenuously connected to the city.
-
-Add redirects in `redirects.json` for all deleted sections:
-```json
-"europe/italy/city/sights":    "europe/italy/city/things_to_do",
-"europe/italy/city/museums":   "europe/italy/city/things_to_do",
-"europe/italy/city/nightlife": "europe/italy/city/bars_and_cafes"
-```
 
 ---
 
@@ -188,14 +181,6 @@ When a city already has `sights/` and `museums/` with POIs:
 4. Delete junk POIs: sports venues, commercial tours, empty entries, wrong-country content
 5. Check for missing major sights — add them
 6. Delete old `sights/` and `museums/` directories and their `.md` section files
-7. Add redirects for all old URLs
-
-```json
-"europe/italy/city/sights":           "europe/italy/city/things_to_do",
-"europe/italy/city/museums":          "europe/italy/city/things_to_do",
-"europe/italy/city/sights/some_poi":  "europe/italy/city/things_to_do/some_poi",
-"europe/italy/city/museums/some_poi": "europe/italy/city/things_to_do/some_poi"
-```
 
 ---
 
@@ -308,7 +293,7 @@ Brief overview of day trip options from the city.
 
 The template automatically renders these as a table linking to the real location pages. If a destination doesn't have a location page yet, create one in the correct place in the hierarchy before adding it here.
 
-Delete any old POI files in `day_trips/` and add redirects pointing to the real location URLs.
+Delete any old POI files in `day_trips/`.
 
 ---
 

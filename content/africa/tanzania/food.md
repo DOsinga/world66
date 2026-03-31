@@ -13,10 +13,10 @@ Tanzanian food is more interesting than its reputation suggests. The mainland ha
 
 **Wali wa nazi** (rice cooked in coconut milk) is the gateway to the coastal style of cooking, where Arab, Indian, and Swahili influences come together. On the coast and in [Zanzibar](/africa/tanzania/zanzibar), the food becomes distinctly more fragrant and spiced — cloves, cinnamon, cumin, cardamom — a product of centuries of trade.
 
-**Zanzibar pizza** is actually a folded street pancake filled with eggs, vegetables, and meat, fried on a griddle. Find them at Forodhani Gardens in Stone Town in the evenings.
+**Zanzibar pizza** is actually a folded street pancake filled with eggs, vegetables, and meat, fried on a griddle. Nothing like Italian pizza, and much better than the name implies. Find them at Forodhani Gardens in Stone Town in the evenings.
 
-**Maandazi** are lightly sweetened fried dough triangles, eaten for breakfast with very sweet tea. They're ubiquitous and good.
+**Maandazi** are lightly sweetened fried dough triangles, eaten for breakfast with very sweet tea (chai). They're ubiquitous and good.
 
-For drinks, **Kilimanjaro** and **Safari** are the main local lagers. Fresh sugarcane juice and passion fruit juice are excellent where available. Coffee is grown in the highlands around Kilimanjaro and Mbeya — finding a good cup of it actually served in Tanzania takes some hunting, as most export-quality coffee leaves the country.
+For drinks, **Kilimanjaro** and **Safari** are the main local lagers. Fresh sugarcane juice and passion fruit juice are excellent where available. Coffee is grown in the highlands around Kilimanjaro and Mbeya, though finding a good cup of it actually served in Tanzania requires some hunting — most export-quality coffee leaves the country.
 
 Vegetarians are reasonably well served in towns, where bean stews, lentils, and vegetable curries are common. In remote areas, options narrow to ugali and greens.

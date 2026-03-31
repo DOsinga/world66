@@ -9,24 +9,24 @@ The Serengeti is the centrepiece of Tanzanian tourism, and for good reason. The 
 
 ## Ngorongoro Crater
 
-A collapsed volcanic caldera with a floor that holds one of the densest concentrations of wildlife in Africa. Elephant, lion, hippo, flamingo, and large populations of black rhino (rare elsewhere in Tanzania) all live within the crater walls. Day visits are well run; you descend with a guide in a 4WD and spend several hours on the crater floor.
+A collapsed volcanic caldera with a floor that holds one of the densest concentrations of wildlife in Africa. Elephant, lion, hippo, flamingo, and large populations of black rhino (rare elsewhere in Tanzania) all live within the crater walls. Day visits are well run; you descend with a guide in a 4WD and spend several hours on the crater floor. It feels like a nature documentary, which some people love and others find slightly unreal.
 
 ## Mount Kilimanjaro
 
-At 5,895 metres, Kilimanjaro is Africa's highest peak and one of the world's most accessible major summits — no technical climbing experience required. Most climbers take the Marangu or Machame routes, ascending over five to eight days with acclimatisation stops. The base town is [Moshi](/africa/tanzania/moshi); [Arusha](/africa/tanzania/arusha) also serves as a hub.
+At 5,895 metres, Kilimanjaro is Africa's highest peak and one of the world's most accessible major summits — no technical climbing experience required. Most climbers take the Marangu or Machame routes, ascending over five to eight days with acclimatisation stops. Summit success rates vary considerably with fitness and weather, but reaching Uhuru Peak is genuinely achievable with preparation. The base town is [Moshi](/africa/tanzania/moshi); the nearby city of [Arusha](/africa/tanzania/arusha) also serves as a hub.
 
 ## Zanzibar
 
-The island is famous for its beaches, its Stone Town, and its spice history. Stone Town — a UNESCO World Heritage Site — is a dense warren of carved doors, narrow alleys, mosques, and former merchant houses reflecting centuries of Arab, Indian, and Swahili culture. The north and east coast beaches at Nungwi, Kendwa, and Matemwe are excellent. The food, shaped by the spice trade, is a genuine reason to visit. See [Zanzibar](/africa/tanzania/zanzibar) for more.
+The island is famous for its beaches, its Stone Town, and its spice history. Stone Town — a UNESCO World Heritage Site — is a dense warren of carved doors, narrow alleys, mosques, and former merchant houses reflecting centuries of Arab, Indian, and Swahili culture. The beaches at Nungwi, Kendwa, and Matemwe on the north and east coasts are excellent. Snorkelling and diving are popular. The food, shaped by the spice trade, is a genuine reason to visit. See [Zanzibar](/africa/tanzania/zanzibar) for more.
 
 ## Selous Game Reserve / Nyerere National Park
 
-The largest game reserve in Africa, in the remote south of Tanzania, with far fewer visitors than the northern parks. Boat safaris on the Rufiji River are a highlight. Large elephant herds, wild dog, lion, crocodile, and hippo.
+The largest game reserve in Africa (now partially redesignated as Nyerere National Park) lies in the remote south of Tanzania. Far fewer visitors than the northern parks, with boat safaris on the Rufiji River a genuine highlight. Large elephant herds, wild dog, lion, crocodile, and hippo. Getting there requires a flight or a long road journey, which keeps it quiet.
 
 ## Ruaha National Park
 
-Tanzania's largest national park, two hours from [Iringa](/africa/tanzania/iringa) on a good road. Often described by regular visitors as the best park in the country — dramatic landscape, very few other tourists, exceptional predator sightings, and huge elephant herds. See [Ruaha National Park](/africa/tanzania/ruaha_national_par).
+Tanzania's largest national park, two hours from [Iringa](/africa/tanzania/iringa) on a good road. Often described by regular visitors as the best park in the country — dramatic landscape, very few other tourists, exceptional predator sightings, and huge elephant herds. The Great Ruaha River is the centrepiece. See [Ruaha National Park](/africa/tanzania/ruaha_national_par).
 
 ## Mahale Mountains and Gombe
 
-On the shores of Lake Tanganyika in western Tanzania, these two parks protect wild chimpanzee populations. Mahale, with its dramatic mountain backdrop and remote setting, is the more celebrated; Gombe is where Jane Goodall conducted her famous research. Both require effort to reach, but tracking habituated chimps in the forest is unlike anything on the standard northern circuit.
+On the shores of Lake Tanganyika in western Tanzania, these two parks protect wild chimpanzee populations. Mahale, with its dramatic mountain backdrop and remote setting, is the more celebrated; Gombe is where Jane Goodall conducted her famous research. Both require effort to reach, but the experience of tracking habituated chimps in the forest is unlike anything on the standard northern circuit.

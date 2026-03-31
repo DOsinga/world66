@@ -5,7 +5,8 @@ latitude: 24.935154
 longitude: 14.617331
 ---
 
-Al Gatrun, little more than a desert village with one filling station and a Niger consulate is your last stop on your way to [Niger](/africa/niger) or to [Chad](/africa/chad).
+Al Qatrun (also Al Gatrun) is a small desert oasis in the Fezzan, close to the borders of Niger and Chad. It is largely a transit point for southward travel rather than a destination in itself, with a fuel station, basic supplies, and a Niger consulate that was historically used by travelers crossing into Niger.
 
+The Italian colonial-era fort at the edge of town has been used as a camping ground in the past and marks the historic limit of Italian administration in the deep south.
 
- Mohammed Tager of the Wadi Alhikma Travel & Tourism Agency (Tel/Fax: 0735-2901) runs a camping ground in the old Italian Fort which is very nice. Mohammed organisea guides for Chad ($600) or Niger ($400). It is possible to do it yourself however. Go to Tajarhi, 80km south of Gatrun to wait there for the convoys. One warning: conoys are not very regular. Most of the traffic consists of Niger-bound smugglers passing through at night.
+Travel south from Al Qatrun toward the Chadian or Nigerien borders is extremely difficult and should not be attempted without specialist desert logistics, a guide, and thorough security research. The region sees significant movement of smuggled goods and people, and the security situation in the Libya-Niger-Chad triangle has been volatile for years. The consular presence that made this crossing more straightforward in earlier decades may no longer be functioning.

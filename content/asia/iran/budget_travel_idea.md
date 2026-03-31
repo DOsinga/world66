@@ -1,25 +1,26 @@
 ---
-title: "Budget Travel Ideas in Iran"
+title: "Budget Travel Ideas"
 type: section
 ---
 
-Following is an **Iran budget travel** guide that highlights the different ways in which tourists can save their money while visiting this country.
+Iran is one of the most affordable destinations in Asia once you are inside the country. The cost of transport, food, and accommodation is dramatically lower than European standards, and even tourist attractions charge modest entry fees. The challenge is primarily getting there and dealing with currency logistics.
 
-**Getting Around**
+**Getting around cheaply**
 
-Compared to American or European standards, Iranian transport is very affordable, mainly because of the abundance of fuel. Budget tourists will find that flying within the country is very cheap and costs only about $40. This is especially useful for tourists on a schedule. However, for a more budget friendly way of traveling, tourists can opt for the domestic bus network in Iran. It costs barely $4 to $5 to travel from Esfahan to Shiraz by an air conditioned first class bus. Tourists who are on a budget can also travel by Savari, or local shared taxis, for a more comfortable journey without worrying about high fares.
+The VIP bus network is the budget traveler's best friend. Isfahan to Shiraz costs around $8, Tehran to Mashhad around $10, Isfahan to Yazd around $6. These are first-class fares with comfortable reclining seats — there is no need to opt for the cheaper regular buses unless you want to. Domestic flights are also cheap by international standards ($30–50) if you need to cover long distances quickly. Savari (shared taxis) in cities are very cheap for short trips.
 
-**Hotels**
+**Accommodation**
 
-There are many cheap hotels in the different cities in Iran that offer tourists comfortable accommodations. Nader Hotel and New Naderi Hotel are 2 of the cheapest hotels in Tehran. Room rates start at $30, depending on the type of room you choose. There are many 3-star hotels in this city that offer good accommodation for about $60 or more. Amir Kabir in Kashan, Ava Hotel in Isfahan, Arg Hotel in Siraz, Amin Hotel in Kerman are among the many other budget friendly hotels in Iran. Tourists on a tight budget can also opt to stay in cheap mehmanpazir and mosaferkhuneh that can be found in most cities.
+Budget travelers can find hostel dormitories and simple guesthouses in all major cities for around $10–15 per person. Suites and private rooms in mid-range guesthouses — often in beautiful traditional courtyard houses in the old cities — run $25–50, which represents excellent value. Traditional guesthouses (mehmanpazir, mosaferkhaneh) can be cheaper still, though the category encompasses a wide range of quality. Note that staying in private homes is not permitted for tourists.
 
-**Dining Out**
+**Food**
 
-Most Iranians prefer to dine at home and for this reason, there are very few decent restaurants in most cities. However, budget travelers can be sure that local food is the best way to save money and also sample an authentic Iranian cuisine. Chelo morgh and chelo kebabs are the most common kinds of foods, although they have a number of variations. Tourists can also find a number of fast food restaurants that serve pizzas, burgers, sandwiches and falafels for about $2 to $3. Iran also boasts of numerous tea houses that serve light meals and traditional snacks that start at about $1.
+Eating cheaply is easy. A plate of chelo kebab at a small restaurant costs $2–4. Fast-food places serving pizza, sandwiches, and falafel are everywhere and charge $1–3. Tea houses offer light meals and snacks at very low prices. The main expense is if you go to a proper sit-down restaurant in a tourist area, where prices are higher — though still modest by most standards.
 
-**Attractions**
+**Free and cheap sights**
 
-There are a number of attractions in Iran that budget tourists will enjoy seeing. Imam Square in Esfahan is one of the best places to visit. This is a World Heritage Site with gardens, mosques, fountains and artistically constructed buildings. Tourists should also visit Tehran Bazaar where a lot of interesting things can be found. The Golestan Palace and Holy Shrine of Emam Khomeini are some of the other places tourists should visit in Tehran. Besides these, budget tourists can also enjoy theme parks and museums in Iran as entry fees for these places are relatively low.
+Many of Iran's greatest sights are outdoors or very cheap to enter. Walking the old city of [Yazd](/asia/iran/yazd) costs nothing. The bazaars of [Tehran](/asia/iran/tehran), [Tabriz](/asia/iran/tabriz), and Isfahan are free. Naqsh-e Jahan Square in Isfahan is a public space. Entry to [Persepolis](/asia/iran/persepolis) costs around $5–8 for foreign visitors — reasonable for one of the world's great archaeological sites.
 
-**Contributors**
-April 08, 2010
+**Currency note**
+
+Bring enough cash for your entire trip. You cannot use international bank cards anywhere in Iran. Plan ahead, keep some in reserve, and exchange as needed at licensed money changers (sarrafis) rather than banks, which offer worse rates.

@@ -1,25 +1,16 @@
 ---
-title: "When to Go in Iran"
+title: "When to Go"
 type: section
 ---
 
-In **Iran, when to go **can vary from time to time. Ideal visiting times also depend on the part of Iran you wish to visit. The climate of this region ranges from subtropical to arid and semiarid, depending on the location. Iran is a cultural area known for its fascinating wildlife and interesting animal species, so no matter when you go, you are sure to see something worthwhile. Below is more information on the climate to expect while traveling to Iran at different times of the year.
+Iran has a wide range of climates — from the subtropical Caspian coast to the parched central plateau to the cold northwest — and the best time to visit depends on where you are going.
 
-**Iran's Variable Climate**
+**Spring (March–May)** is the most popular time and the best for most of the country. Temperatures are mild across the plateau, wildflowers appear in the mountains, and the light is good. The major caveat is Nowruz, the Persian New Year, which falls around March 20–21. For the two weeks around Nowruz, Iranians travel in huge numbers, accommodation is scarce and expensive, and some historical sites become very crowded. Book well in advance if traveling over Nowruz, or avoid it if you can.
 
-Iran has a dynamic climate, and the weather you encounter while traveling will vary from region to region. The northwestern area of Iran is known for its cold winters with heavy snowfall and subfreezing temperatures in December and January. Fall and spring in the northwest are moderate, and summers are very hot and dry.
+**Autumn (September–November)** is the other excellent season. Temperatures drop to comfortable levels, the summer heat has passed, and crowds thin out. This is a good time for [Isfahan](/asia/iran/isfahan), [Shiraz](/asia/iran/shiraz), and [Yazd](/asia/iran/yazd). The Caspian coast stays green and pleasant into October.
 
-In the southern part of Iran, winters are moderate and comfortable, while summers are extremely hot. Summer temperatures in the southern region are known to exceed 38 degrees Celsius (100.4 degrees Farenheit) in the month of July. Certain areas in the southern part of Iran can also be humid, in addition to hot.
+**Summer (June–August)** is brutal in most of the country. Temperatures on the central plateau and in the south regularly exceed 40°C (104°F). The desert cities — Yazd, Kerman — are at their harshest. The exceptions are the mountains around Tehran and the ski resorts of the Alborz, which are pleasant in summer and used for hiking. The Caspian coast is warm and humid but not extreme.
 
-For the most part, Iran has an arid climate; the majority of its annual precipitation occurs from October to April, and averages about 25 centimeters. In contrast, the mountain valleys of the Zagros and the Caspian coastal plain average 50 centimeters of yearly rainfall. But the rainiest area of all is the western part of the Caspian, which receives nearly 100 centimeters a year.
+**Winter (December–February)** is cold in the mountains and northwest — Tabriz and Ardabil can be genuinely frigid with heavy snow. The south (Shiraz, Bandar-e Abbas, the Persian Gulf islands) is mild and often the best time to visit these areas. Tehran is cold but usually manageable. The Dizin and Shemshak ski resorts near Tehran operate December through March and attract domestic visitors in large numbers.
 
-**Arid Climate and Temperatures**
-
-Because Iran features mainly a arid climate, summers in this region are known to be extremely hot, no matter what area you visit. If you are sensitive to heat and prefer a more mild climate, the best time to visit Iran is probably not in the summer months. Ideally, you should travel to Iran in the spring or fall, which generally have the mildest weather conditions and most moderate temperatures. If you're traveling to the southern region of Iran, winter can be an ideal time to visit, as the temperatures during this time are usually mild and cool. If you're visiting the northwest area, on the other hand, you may want to avoid the winter months, as winters can be quite cold and snowy there.
-
-**What to Wear In Iran**
-
-When traveling to Iran in the summer, you will need clothing that is very lightweight and breathable. Fall and spring temperatures are usually mild, so clothing should be lightweight, cotton, and comfortable. Winter clothing will depend on the area you visit, but should be much heavier than summer clothing. The northwest region gets the coldest, so you will want to have heavy winter gear if visiting this area during winter.
-
-**Contributors**
-March 17, 2010
+**Ramadan** falls in a different part of the solar calendar each year (shifting about eleven days earlier annually). During Ramadan, restaurants may be closed during daylight hours, and some attractions have adjusted hours. Travel is possible during Ramadan — the evenings come alive — but it requires more planning around food and timing.

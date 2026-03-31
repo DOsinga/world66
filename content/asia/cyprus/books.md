@@ -3,66 +3,10 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Hostage to History: Cyprus from the Ottomans to Kissinger** by Christopher Hitchens is the best short account of how Cyprus ended up divided. Polemical and readable, it traces the roles of Britain, Greece, Turkey, and the US in creating and sustaining the partition. Essential background reading.
 
-**Let's Go Greece '99**
+**A Piece of Cake** by Colin Thubron (part of his *Journey into Cyprus* published as *Journey into Cyprus*) is an account of a walk across the island made in the 1970s, just before partition. It captures a Cyprus that no longer exists and is all the more valuable for that.
 
+**The DK Eyewitness Travel Guide: Cyprus** is the most practical modern guidebook for the Republic of Cyprus, with strong coverage of archaeological sites and decent maps.
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312194846/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0887295118/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Publications,Tony Halliday (Editor),M..
-
-isbn: 0887295118
-
-subject: travel
-
-**Cyprus**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844201391/ref=ase_osingacom?v=glance&s=books)
-
-author: NTC Publishing Group
-
-isbn: 0844201391
-
-subject: travel
-
-**Tetralogy of Time:Stories of Cyprus: Nostos Books on Modern Greek History and Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0932963099/ref=ase_osingacom?v=glance&s=books)
-
-author: G. Philippou Pierdes,Theofanis G. Stavrou (Ed..
-
-isbn: 0932963099
-
-subject: culture
-
-**Riding with the Lion:In Search of Mystical Christianity**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/073722973X/ref=ase_osingacom?v=glance&s=books)
-
-author: Kyriacos C. Markides
-
-isbn: 073722973X
-
-subject: history
-
-**Hostage to History:Cyprus from the Ottomans to Kissinger**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1859841899/ref=ase_osingacom?v=glance&s=books)
-
-author: Christopher Hitchens
-
-isbn: 1859841899
-
-subject: history
+**The Bitter Lemons of Cyprus** by Lawrence Durrell is a memoir of the years he spent in a hill village near Kyrenia in the 1950s, during the EOKA independence struggle. The writing is beautiful; the politics are more complicated — Durrell worked for the British colonial government at the time. Worth reading alongside something that gives the Cypriot perspective.

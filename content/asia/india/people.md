@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 984 003 683 (July 1998 est.)
+India is the most populous country on earth, with over 1.4 billion people. That figure means little until you experience the reality of it: the density of Indian cities, the constant press of humanity at railway stations and markets, and the extraordinary diversity that comes from fitting this many people into one country.
 
-**Age structure:**
+Hinduism is practiced by roughly 80% of the population. Islam is the faith of about 14%, making India home to one of the world's largest Muslim populations — some 200 million people. Christianity, Sikhism, Buddhism, and Jainism all have significant followings; the subcontinent was the birthplace of several of these religions.
 
-*0-14 years:* 34% (male 174 578 403; female 164 755 937)
+The social structure is still heavily shaped by the caste system, though its legal standing has been progressively dismantled since independence and attitudes — especially in cities and among younger generations — have shifted considerably. Caste remains relevant in rural areas and in marriage decisions across social classes.
 
-*15-64 years:* 61% (male 310 995 355; female 288 344 336)
+India is genuinely multilingual. There are over 20 constitutionally recognized languages and some estimates count hundreds of distinct languages and thousands of dialects. Hindi (in various forms) is the lingua franca of the north. Tamil, Telugu, Kannada, and Malayalam dominate the south, where Hindi is less widely spoken than English. Bengali, Gujarati, Marathi, Punjabi, and Assamese each have tens of millions of speakers.
 
-*65 years and over:* 5% (male 23 051 278; female 22 278 374) (July 1998 est.)
+The literacy rate is around 77% overall, with significant gaps between states (Kerala is over 95%) and between urban and rural populations. English-language education is widespread at secondary level and above in cities, which is why India has such a large professional class that communicates in English with ease.
 
-**Population growth rate:** 1.71% (1998 est.)
-
-**Birth rate:** 25.91 births/1 000 population (1998 est.)
-
-**Death rate:** 8.69 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.08 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 1.08 male(s)/female
-
-*65 years and over:* 1.04 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 63.14 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 62.9 years
-
-*male:* 62.11 years
-
-*female:* 63.73 years (1998 est.)
-
-**Total fertility rate:** 3.24 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Indian(s)
-
-*adjective:* Indian
-
-**Ethnic groups:** Indo-Aryan 72% Dravidian 25% Mongoloid and other 3%
-
-**Religions:** Hindu 80% Muslim 14% Christian 2.4% Sikh 2% Buddhist 0.7% Jains 0.5% other 0.4%
-
-**Languages:** English enjoys associate status but is the most important language for national political and commercial communication Hindi the national language and primary tongue of 30% of the people Bengali (official) Telugu (official) Marathi (official) Tamil (official) Urdu (official) Gujarati (official) Malayalam (official) Kannada (official) Oriya (official) Punjabi (official) Assamese (official) Kashmiri (official) Sindhi (official) Sanskrit (official) Hindustani a popular variant of Hindu/Urdu is spoken widely throughout northern India
-
-*note:* 24 languages each spoken by a million or more persons; numerous other languages and dialects for the most part mutually unintelligible
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 52%
-
-*male:* 65.5%
-
-*female:* 37.7% (1995 est.)
+Indian hospitality is genuine. Strangers on trains will share food, ask endless questions about your life, and offer opinions on everything. Saying no to tea is almost impolite. If someone invites you to their home, accept if you can — the experience of sharing a meal in an Indian family's house is worth more than most sights on the tourist trail.

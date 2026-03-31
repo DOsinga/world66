@@ -158,12 +158,10 @@ Create `content/{path}/day_guides.md`:
 ---
 title: "Curated Itineraries"
 type: section
-order: 1
 ---
 
 Curated itineraries for spending time in {City}, drawn from travellers who know it well.
 ```
-`order: 1` makes it appear second in the sidebar (after General), before Sights and Eating Out.
 
 **3. Create the guide entry for each itinerary**
 Create `content/{path}/day_guides/{slug}.md` — one file per itinerary. These are POIs within the section:

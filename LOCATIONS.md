@@ -6,7 +6,7 @@ This document describes the standard structure for a well-maintained city page. 
 
 ## Standard section structure
 
-Every city should have the same sections in the same order. Ordering is controlled by the `SECTION_ORDER` dict in `guide/models.py` — no `order` field needed in the `.md` files.
+Every city should have the same sections in the same order. Sections are ordered alphabetically by their filename slug — no `order` field needed in the `.md` files.
 
 | Slug | Title | Notes |
 |------|-------|-------|
@@ -218,7 +218,7 @@ type: section
 
 Curated itineraries for spending time in {City}, drawn from travellers who know it well.
 ```
-The `day_guides` slug is in `SECTION_ORDER` in `guide/models.py` — no `order` field needed.
+No `order` field needed — sections sort alphabetically by slug.
 
 **3. Create a guide entry for each itinerary**
 Create `content/{path}/day_guides/{slug}.md`:

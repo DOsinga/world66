@@ -3,25 +3,22 @@ title: "Top 5 Must Do's in Tunisia"
 type: section
 ---
 
-Tunisia is a country placed between the stark beauty of the Sahara and the glittering blue of the Mediterranean. The contrast of sand and water provides ensures there are many things on a tourists in **Tunisia must do’s** list.
+**1. The Bardo Museum, Tunis**
 
-**Touring the Sahara
-**
-Taking a jeep or camel ride into the sandy Sahara is quite a trip for adventurous tourists willing to take the heat. Tourists usually start at the oasis town Tozeur at the edge of the desert. The best tours are overnight and visit the fortified villages called Ksours. Booking a tour in advance is the best method and can cost anywhere from 60TD (Tunisian Dollars) to 150TD. It is possible to hire camels or jeeps and a guide in the city but the quality and price may not be as good.
+The Bardo contains one of the greatest collections of Roman mosaics anywhere in the world, pulled from sites across Tunisia over more than a century of excavation. The building itself -- a former 13th-century palace -- is worth seeing in its own right. Allow at least two hours. You'll come out knowing a great deal more about what Roman North Africa actually looked like.
 
-**City of Carthage**
+**2. Carthage**
 
-15km East of Tunis, Carthage is a historical site visitors must do in Tunisia. Rebuilt after being destroyed by the Romans in 146BC, it is easy to spend an entire day wandering through the various Roman ruins such as the amphitheatre, forums, bathhouses and other sites. It is possible to buy a multiple-entry ticket that allows tourists to wander from one site to another. Be sure to bring money, the ticket is not very expensive, but food, drinks and souvenirs will all add up.
+Fifteen kilometres from [Tunis](/africa/tunisia/tunis), the ruins of Carthage sprawl across a residential suburb in a way that is both confusing and strangely moving. A single ticket covers multiple sites including the Punic ports, the Antonine Baths (the third largest in the Roman world), and the Tophet -- the Phoenician burial ground that caused such controversy in antiquity. Nothing is as overwhelming as Rome's Colosseum, but the cumulative effect of so many layers of history in one place is remarkable.
 
-**Bardo Museum**
+**3. The Amphitheatre at El Jem**
 
-For only 6TD plus 1TD to bring a camera into the museum, the Bardo Museum is an inexpensive yet fascinating tourist attraction. The Bardo museum contains one of the largest collections of Roman mosaics in Africa, as well as statues, figurines and other Roman, Punic and early Catholic artefacts from all over Tunisia. Built in the 13th century the building itself is fun to explore.
+The third-largest amphitheatre in the Roman world sits in the middle of a small town in central Tunisia, virtually unannounced. The scale is genuinely astonishing -- it held 35,000 spectators. You can walk the underground passages beneath the arena floor where animals and gladiators waited. The surrounding town of [El Jem](/africa/tunisia/eljem) has almost nothing else in it, which makes the amphitheatre feel all the more improbable.
 
-**City of Sousse**
+**4. The Desert South**
 
-For a relaxing vacation Sousse is the perfect city of orchards, resorts and sandy beaches. Over 1 million visitors come every year to enjoy the dry summers by lying on the beach or swimming in the Mediterranean. With a host of hotels, clubs, casinos, beaches, and sports there is a lot of modern conveniences for tourists. The museums, traditional bazaars, and the easy routes to historical sites the more activity oriented visitors can also enjoy themselves.
+[Matmata](/africa/tunisia/matmata) with its cave dwellings, [Douz](/africa/tunisia/douz) at the edge of the Grand Erg Oriental, [Tozeur](/africa/tunisia/tozeur) with its extraordinary 14th-century medina and palm groves, and the mountain oasis at [Chebika](/africa/tunisia/chebika) with its waterfall hidden in the rock -- the south of Tunisia is genuinely dramatic. The landscape changes fast and the distances between towns are real desert distances. Do this by car if you can.
 
-**City of Maktar**
+**5. Sidi Bou Said**
 
-The ancient city Maktar is renowned for its scenic views as well as the Roman Temples to Jupiter and Apollo. Like Carthage the ruins are quite impressive and deserve to be placed on Tunisia’s must do list.
-Contributed by Daniel Clarke
+The blue-and-white clifftop village above [Tunis](/africa/tunisia/tunis) is admittedly a tourist magnet, but for good reason. The views across the Bay of Tunis to the capital, the traditional painted wooden birdcages hanging in the doorways, the tea with pine nuts at one of the cafes on the main square -- it is genuinely beautiful, and you can walk here from the Carthage ruins if you don't mind a short uphill climb.

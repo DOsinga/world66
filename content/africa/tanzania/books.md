@@ -3,108 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Africa: A Biography of the Continent** by John Reader — The best single-volume history of sub-Saharan Africa, placing Tanzania's ancient human history (including Olduvai Gorge) in continental context. Essential reading before any serious trip to the region.
 
-**Tanzania**
+**Through a Window: My Thirty Years with the Chimpanzees of Gombe** by Jane Goodall — Goodall's landmark account of her research at Gombe Stream, one of the finest records of sustained wildlife observation ever written. Particularly relevant before visiting Gombe.
 
+**The Shadow of Kilimanjaro** by Rick Ridgeway — A travel memoir covering the landscape between Kilimanjaro and the coast on foot. Vivid and unpretentious.
 
+**Scramble for Africa** by Thomas Pakenham — The history of European colonisation, including German East Africa (today's Tanzania), told in energetic narrative form. Explains a great deal about what you will see on the ground.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844289620/ref=ase_osingacom?v=glance&s=books)
+**Serengeti Shall Not Die** by Bernhard and Michael Grzimek — The book that helped establish Serengeti as a protected park, written in the 1950s. Still worth reading for its portrait of the ecosystem before mass tourism.
 
-author: Lisa Asch,Peter Blackwell
+**The Zanzibar Chest** by Aidan Hartley — A foreign correspondent's memoir partly set in East Africa during the turbulent 1990s. Sharp and honest about the region.
 
-isbn: 0844289620
-
-subject: travel
-
-**The Shadow of Kilimanjaro:On Foot Across East Africa**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0805053891/ref=ase_osingacom?v=glance&s=books)
-
-author: Rick Ridgeway
-
-isbn: 0805053891
-
-subject: travel
-
-**Spectrum Guide to Tanzania**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566562341/ref=ase_osingacom?v=glance&s=books)
-
-author: Na,Staff Camerapix (Compiler)
-
-isbn: 1566562341
-
-subject: travel
-
-**Tanu Women:Gender and Culture in the Making of Tanganyikan Nationalism, 1955-1965**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0435074210/ref=ase_osingacom?v=glance&s=books)
-
-author: Susan Geiger
-
-isbn: 0435074210
-
-subject: culture
-
-**Toward an African Christianity:Inculturation Applied**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0809133814/ref=ase_osingacom?v=glance&s=books)
-
-author: Eugene Hillman
-
-isbn: 0809133814
-
-subject: culture
-
-**Christianity and African Culture:Conservative German Protestant Missionaries in Tanzania, 1900-1940**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-subject: culture
-
-**My Life with the Chimpanzees**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0671562711/ref=ase_osingacom?v=glance&s=books)
-
-author: Jane Goodall
-
-isbn: 0671562711
-
-subject: history
-
-**Through a Window :My Thirty Years with the Chimpanzees of Gombe**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0395599253/ref=ase_osingacom?v=glance&s=books)
-
-author: Jane Goodall
-
-isbn: 0395599253
-
-subject: history
-
-**East Africa Handbook 1999 with Kenya, Tanzania, Uganda and Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844249785/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0-7414-0028-6/ref=ase_osingacom?v=glance&s=books)
-
-isbn: 0-7414-0028-6
-
-author: Joseph L. Mbele
+For practical guidance, the Lonely Planet *Tanzania* guide is reliable and regularly updated. The Bradt guide offers more depth on off-the-beaten-path destinations.

@@ -1,4 +1,0 @@
----
-title: "Hermauns"
-type: location
----

@@ -302,10 +302,10 @@ Delete any old POI files in `day_trips/`.
 | City | Path | Notes |
 |------|------|-------|
 | Milan | `europe/italy/lombardia/milan` | Original `things_to_do` implementation |
-| Rome | `europe/italy/lazio/rome` | Migrated from `sights/` + `museums/`, 10 POIs with `story:` fields |
-| Florence | `europe/italy/tuscany/florence` | Still uses `sights/` — migrate when revisiting |
-| Venice | `europe/italy/veneto/venice` | Still uses `sights/` — migrate when revisiting |
-| Naples | `europe/italy/campania/naples` | Still uses `sights/` — migrate when revisiting |
+| Rome | `europe/italy/lazio/rome` | `things_to_do` + category filters, 10 POIs with `story:` fields |
+| Florence | `europe/italy/tuscany/florence` | `things_to_do` + category filters, curated itineraries |
+| Venice | `europe/italy/veneto/venice` | `things_to_do` + category filters, curated itineraries |
+| Naples | `europe/italy/campania/naples` | `things_to_do` + category filters, curated itineraries |
 
 ### Standard city structure
 

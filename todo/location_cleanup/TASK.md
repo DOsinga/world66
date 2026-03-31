@@ -17,26 +17,15 @@ The Italian cities (Florence, Rome, Venice, Milan, Naples) are already done and 
 3. **Fix section titles** — remove city name suffixes:
    - "Bars and Cafes in London" → "Bars and Cafes"
    - "Getting There in Paris" → "Getting There"
-4. **Add `order` fields** to all kept sections per the standard order:
-   - Curated Itineraries: 1, Sights/Things to Do: 2, Eating Out: 3, Bars and Cafes: 4
-   - Museums: 5, Nightlife: 6, Shopping: 7, Day Trips: 8, Beaches: 9
-   - When to Go: 10, Getting There: 11, Getting Around: 12
-5. **Add redirects** in `redirects.json` for any deleted section URLs
-6. **Add curated itineraries** per CLAUDE.md — find 2–3 good blog itineraries, create guide entries, add tagged POIs
-7. **Review POIs** in existing section directories:
+4. **Add curated itineraries** per CLAUDE.md — find 2–3 good blog itineraries, create guide entries, add tagged POIs
+5. **Review POIs** in existing section directories:
    - Delete spam, junk, or obviously wrong entries (sports venues, gibberish, wrong-country content)
    - Check every POI has `latitude` and `longitude` — add if missing, fix if wrong
    - Verify coordinates are plausible for the city (wrong-country coords are common in old World66 data)
    - Ensure all major sights are covered — if a well-known attraction is missing, add it
    - Update outdated content (prices in lire, defunct businesses) where clearly wrong
-   - Add `category` fields to sights POIs if converting to `things_to_do` approach
-8. **Commit** as "Update: City Name" — one commit per city
-
-## When to use `things_to_do` vs `sights`
-
-Use the `things_to_do` + category-filter approach (like Milan) when the city has a good mix of museums, architecture, sights, and neighbourhoods and you're creating fresh POIs. Use `sights` (like Florence/Rome/Venice) when the city already has established `sights/` content worth keeping.
-
-See LOCATIONS.md for full detail on both approaches.
+   - Add `category` fields to all sights POIs in `things_to_do/`
+6. **Commit** as "Update: City Name" — one commit per city
 
 ## Batch files
 
@@ -57,8 +46,8 @@ python3 tools/list_cities.py
 
 | City | Path | Notes |
 |------|------|-------|
-| Milan | `europe/italy/lombardia/milan` | `things_to_do` + category filters, full cleanup |
-| Florence | `europe/italy/tuscany/florence` | `sights` approach, curated itineraries |
-| Rome | `europe/italy/lazio/rome` | `sights` approach, curated itineraries |
-| Venice | `europe/italy/veneto/venice` | `sights` approach, curated itineraries |
-| Naples | `europe/italy/campania/naples` | `sights` approach, curated itineraries |
+| Milan | `europe/italy/lombardia/milan` | Original `things_to_do` implementation |
+| Rome | `europe/italy/lazio/rome` | `things_to_do` + category filters, 10 POIs with `story:` fields |
+| Florence | `europe/italy/tuscany/florence` | `things_to_do` + category filters, curated itineraries |
+| Venice | `europe/italy/veneto/venice` | `things_to_do` + category filters, curated itineraries |
+| Naples | `europe/italy/campania/naples` | `things_to_do` + category filters, curated itineraries |

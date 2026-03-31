@@ -163,6 +163,13 @@
 </div>
 {% endif %}
 
+{% if page.meta.story %}
+<div class="story-box">
+  <div class="story-box-label">A story</div>
+  {{ page.meta.story }}
+</div>
+{% endif %}
+
 {% if locations and page.page_type == "location" and locations|length > 30 %}
 <div class="destinations-section">
   <h2>All {{ locations|length }} Destinations</h2>

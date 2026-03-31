@@ -419,6 +419,26 @@ img { max-width: 100%; height: auto; }
   margin-bottom: 4px;
 }
 
+/* Story box — historical anecdote on POI pages */
+.story-box {
+  background: #fdf8f0;
+  border-left: 3px solid #c8a55a;
+  padding: 14px 18px;
+  margin: 20px 0;
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+.story-box-label {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #9a7030;
+  margin-bottom: 6px;
+}
+
 /* Info box — structured properties */
 .info-box {
   background: var(--cream);

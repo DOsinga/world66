@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 15 446 231 (July 1998 est.)
+Côte d'Ivoire has a population of around 30 million and is one of the most ethnically diverse countries in West Africa, with over 60 distinct groups. The country's post-independence economic boom drew labour migrants from across the region — today Burkinabè, Malians, and other West Africans make up a substantial portion of the population, particularly in the cocoa-growing regions of the southwest.
 
-**Age structure:**
+The major ethnic clusters are the Akan peoples (including the Baoulé and Agni) in the centre and east, the Krou (Bété, Guéré, Wobé) in the west and southwest, the Gur (Sénoufo, Lobi) in the north, and the Mande (Dioula, Malinké) in the northwest. The Baoulé are the single largest group.
 
-*0-14 years:* 47% (male 3 629 286; female 3 590 782)
+French is the official language, but most daily communication happens in local languages. Dioula functions as a lingua franca across much of the country and is particularly useful for getting around outside Abidjan. In the capital, you will encounter Nouchi — an exuberant Abidjan street French blended with local vocabulary that reflects the city's energy and irreverence.
 
-*15-64 years:* 51% (male 4 049 355; female 3 842 508)
+Religion is roughly split between Islam (predominantly in the north) and Christianity (predominantly in the south), with a significant proportion of the population maintaining traditional animist beliefs alongside one or the other. These traditions rarely clash — shared neighbourhoods and intermarriage across religious lines are common.
 
-*65 years and over:* 2% (male 170 120; female 164 180) (July 1998 est.)
-
-**Population growth rate:** 2.41% (1998 est.)
-
-**Birth rate:** 42.15 births/1 000 population (1998 est.)
-
-**Death rate:** 16.12 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.96 migrant(s)/1 000 population (1998 est.)
-
-*note:* of the more than 350 000 refugees that fled to Cote d'Ivoire since 1989 to escape the civil war in Liberia only about 210 000 remained in Cote d'Ivoire according to a 1997 census
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.01 male(s)/female
-
-*15-64 years:* 1.05 male(s)/female
-
-*65 years and over:* 1.03 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 95.95 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 46.24 years
-
-*male:* 44.73 years
-
-*female:* 47.8 years (1998 est.)
-
-**Total fertility rate:** 5.97 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Ivorian(s)
-
-*adjective:* Ivorian
-
-**Ethnic groups:** Baoule 23% Bete 18% Senoufou 15% Malinke 11% Agni foreign Africans (mostly Burkinabe and Malians about 3 million) non-Africans 130 000 to 330 000 (French 30 000 and Lebanese 100 000 to 300 000)
-
-**Religions:** Muslim 60% Christian 12% indigenous 25% (some of these are also numbered among the Christians and Muslims)
-
-**Languages:** French (official) 60 native dialects with Dioula the most widely spoken
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 40.1%
-
-*male:* 49.9%
-
-*female:* 30% (1995 est.)
+The country is young. The median age is around 18, which is visible everywhere: markets are noisy with young vendors, streets are animated, and music is omnipresent. The Ivorian music scene — which gave West Africa coupé-décalé and produced artists like Magic System — has influenced the entire region.

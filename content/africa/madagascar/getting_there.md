@@ -3,32 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Madagascar's national airline is *Air Madagascar (MD)*.
+Almost everyone arrives at **Ivato International Airport (TNR)**, 16km north of Antananarivo. The main carriers are Air France (Paris), Ethiopian Airlines (Addis Ababa), Kenya Airways (Nairobi), Corsair (Paris), and Air Austral (Réunion). From Europe, Paris is the most common gateway, with Paris–Tana taking around 11 hours direct.
 
-Approximate flight time
+There are also smaller international airports at **Nosy Be** (with connections to Réunion and Mayotte) and **Toamasina** (with regional flights). Nosy Be handles charter flights from Europe during peak tourist season.
 
-From Antananarivo to *London* is 13 hours 50 minutes (including connection in Paris). There are regular flights from Madagascar to R&eacute;union Mauritius Kenya Tanzania the Comoro Islands and the Seychelles.
+Ivato airport has ATMs, a currency exchange desk, and the predictable chaos of a busy African gateway. Allow plenty of time for immigration queues. Taxis into central Tana cost around €15–20; agree on the price before you get in. There is no useful bus service from the airport.
 
-International airports
+## Visas
 
-*Antananarivo (TNR) * 17km (11 miles) from the city. Airport facilities include restaurant and bureau de change (open during arrivals and departures of international flights). It is linked by a regular bus service to the* Air Madagascar *office and the Hilton Hotel (the centre for Madagascar Airtours). Taxis asking special higher rates are also available at the airport.
+Most nationalities require a visa. A visa on arrival is available for stays up to 30 days (around €35), payable in euros or US dollars cash — cards are not accepted at the immigration desk. Stays up to 15 days attract a reduced €10 administrative fee. An e-visa for up to 60 days can be arranged before departure (allow at least a week for processing). Your passport must be valid for at least 6 months from entry date.
 
-Further airports are at *Nossi B&eacute; *(links to the Seychelles);
+## By Sea
 
-*Mahajanga* (links to East Africa and the Comoro Islands);
-
-*Toamasina* (links to Mauritius and R&eacute;union islands);
-
-and *Arivonimamo*
-
-(international standby airport) which is 45km (28 miles) from the capital.
-
-Departure tax:
-
-FFr100 on most international flights; FFr80 for flights within the region. Transit passengers and children under 2 years are exempt.
-
-Sea
-
-International tour operators promote Madagascar as a stopping place on extended cruises of the Indian and western Pacific Oceans. Expensive private cruises can be arranged from the USA and Europe. Toamasina is the main port.
+No regular international ferry services connect Madagascar to the African mainland or neighbouring islands. Cruise ships occasionally call at Toamasina, Nosy Be, and Mahajanga. Toamasina is the country's main commercial port. Getting to Madagascar by sea as an independent traveler is not practical.

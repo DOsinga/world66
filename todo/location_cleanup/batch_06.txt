@@ -1,0 +1,5 @@
+asia/nepal/kathmandu
+africa/egypt/cairo
+africa/morocco/marrakesh
+africa/southafrica/capetown
+africa/kenya/nairobi

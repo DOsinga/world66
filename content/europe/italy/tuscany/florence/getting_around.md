@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Florence"
+title: "Getting Around"
 type: section
 ---
 

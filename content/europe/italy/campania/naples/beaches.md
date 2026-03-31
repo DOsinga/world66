@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Naples"
+title: "Beaches"
 type: section
 ---
 

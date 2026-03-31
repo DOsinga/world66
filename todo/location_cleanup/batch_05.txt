@@ -1,0 +1,5 @@
+asia/china/beijing
+asia/china/shanghai
+asia/india/maharashtra/mumbai
+asia/india/delhi
+asia/vietnam/hanoi

@@ -1,0 +1,5 @@
+northamerica/canada/ontario/toronto
+northamerica/canada/britishcolumbia/vancouver
+northamerica/mexico/mexicocity
+southamerica/argentina/buenosaires
+southamerica/brazil/riodejaneiro

@@ -1,26 +1,19 @@
 ---
 title: "Getting There"
 type: section
+order: 11
 ---
 
-- like the Romans said. This is more or less still true today.
+**By air**
 
-  **by car:**
+Rome has two airports. **Fiumicino (FCO)** — Leonardo da Vinci — is the main international hub, 26km southwest of the city. The fastest way into town is the **Leonardo Express** train to Stazione Termini (€14, 32 minutes, every 15 minutes). The cheaper option is the **FL1 regional train** (€8, 45–60 minutes) which stops at Trastevere, Ostiense, Tuscolana, and Tiburtina — useful if you're not staying near Termini. Taxis from Fiumicino to the city centre are a fixed €50.
 
- You can easily reach Rome by car. Four motorways lead to the urban ring road (A 12 from Fiumicino - west, A 1 from Firenze and Orvieto - north, A 24 from northeast which includes A 25 from Pescara, A 1 from Napoli - south). Using the motorways costs a fee of about 10.000 ITL per 100 km. Motor-way Informations you can get at 'Società Autostrade', Tel. 39/6/43632121 (24 hour service)
+**Ciampino (CIA)** is used by Ryanair and some charter operators, 20km southeast. There is no rail link — the standard option is a **Terravision or SIT shuttle bus** to Termini (€6, ~45 minutes). Taxis are a fixed €31 to the city centre.
 
-  **by air:**
+**By train**
 
- Airport Leonardo da Vinci, generally known as **Fiumicino**, handles most scheduled flights. It is located 26km (16mi) southwest of the city. Rome's other airport is **Ciampino** about 20km (12mi) southeast of the city and is used by the majority of charter flights. Telephone nubers are:
+Rome's main station is **Stazione Termini**, on the eastern edge of the historic centre. High-speed Frecciarossa and Italo services connect Rome to **Florence** (1h 20min), **Milan** (3h), **Naples** (1h 10min), and **Venice** (3h 45min). Book in advance on trenitalia.com or italotreno.it — early fares can be well under half the walk-up price. Tiburtina station handles some long-distance and overnight trains.
 
- Fiumicino: +39/6/65951 and
+**By car**
 
- Ciampino: +39/6/794941.
-
- One of the most convenient ways to get into town is by the Stazione Termini direct train, which usually runs hourly from the airport Fiumicino. You can also get a train from the airport to Trastevere Ostiense and Tiburtina. There's also a night bus service to Stazione Tiburtina. If you're driving an autostrada runs from the airport to the city via EUR - it's a 45-minute drive and will cost you a small fortune by taxi. From Ciampino you can catch a *COTRAL bus* which connects with a subway to Stazione Termini or you can drive down the Via Appia Nuova.
-
-  **by train:**
-
- Rome's main railroad station (stazione centrale Roma termini) you will reach by every train station in Italy. It is situated east of the historic city centre. Within an 15min walk you can easily reach Santa Maria Maggiore, San Pietro in Vincoli, Piazza Vittorio, Colosseo or Museo Nazionale Romano.
-
- FF. SS Termini, piazza dei Cinquecento, Tel. +39/6/4775
+Four motorways feed into Rome's ring road (the Grande Raccordo Anulare): the A1 from Florence and Milan to the north, the A1 from Naples to the south, the A24 from the northeast, and the A12 from Fiumicino to the west. Driving into the historic centre is restricted by a **ZTL (Zona a Traffico Limitato)** — cameras enforce the zone automatically and fines are sent to your home address. If your hotel is inside the ZTL, the hotel can register your plate to exempt you for the duration of your stay; ask when you book.

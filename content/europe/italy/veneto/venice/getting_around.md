@@ -1,6 +1,7 @@
 ---
 title: "Getting Around"
 type: section
+order: 12
 ---
 
 To explore the city is by foot and the second best way is also by foot. Besides giving you the opportunity to roam the narrow streets and the piazzas, it is the quickest way too: you can cross the city in approximately an hour. Sometimes it might be quicker to take a short-cut across the water instead of following the bends of the bridges and alleys. One way of doing this is taking the “vaporetto”, or waterbus. They leave frequently and cover important parts of the city. The tickets, which can be purchased at the landing stages and at shops which show the ACTV sign, costs about € 5,- (valid for one hour) . If you plan to use the “vaporetto” more often, it might be an idea to buy a 24-hour ticket (€ 10,50) or a three-day pass (€ 22,-). 

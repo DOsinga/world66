@@ -1,6 +1,7 @@
 ---
 title: "Beaches"
 type: section
+order: 9
 ---
 
 **As many people know,** coasts are always changing. Forces from

@@ -1,6 +1,7 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Nightlife"
 type: section
+order: 6
 ---
 
 It is most probable that you have less nights to spend in Venice than possibilities to go out. Theatres, cinemas, pubs and bars offer pleasure and diversion from dusk till dawn. Some of the greater discos are located outside around Mestre or Jesolo but even in the heart of Venice you will find small and cosy pubs or clubs. Pay attention to the fact that some of the discos have limited opening hours (mostly Wed & Sat, special summer opening hours).

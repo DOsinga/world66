@@ -1,6 +1,7 @@
 ---
-title: "Museums in Naples"
+title: "Museums"
 type: section
+order: 5
 ---
 
 There are a lot of **Naples museums** that you can visit while you are in the city of Naples in Italy. Due to the rich history, art, architecture and culture of Naples, a lot of museums were created. In fact, the city is considered as one of the cultural capitals of Italy. Thus, if you are traveling to Naples, here are some of the best museums that you can visit in the area.

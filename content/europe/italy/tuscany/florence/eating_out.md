@@ -1,6 +1,7 @@
 ---
-title: "Eating Out in Florence"
+title: "Eating Out"
 type: section
+order: 3
 ---
 
 Florence, Italy is a city that is known as a tourist destination. There is plenty of romance in the air around this city so let&rsquo;s not forget the romantic foods to try. Below are some excellent restaurants that will fuel the romantic appetite as well as the food appetite.

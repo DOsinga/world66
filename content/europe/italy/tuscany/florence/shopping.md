@@ -1,6 +1,7 @@
 ---
 title: "Shopping"
 type: section
+order: 7
 address: "Palazzo Lardarel Via Tornabuoni 19"
 email: "info@officinadetornabuoni.com"
 phone: "055.210628"

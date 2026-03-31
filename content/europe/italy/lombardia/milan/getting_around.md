@@ -1,6 +1,7 @@
 ---
-title: "Getting Around in Milan"
+title: "Getting Around"
 type: section
+order: 12
 ---
 
 In Milan, transportation is never an issue. There's always a way to get around, whether it be the metro, the bus, taxis or even your own two feet.

@@ -1,7 +1,6 @@
 ---
 title: "Getting There"
 type: section
-order: 11
 ---
 
 **By air**

@@ -1,7 +1,6 @@
 ---
 title: "When to Go"
 type: section
-order: 10
 ---
 
 This **Florence when to go **guide tells you the right time to visit this Tuscan city. Florence attracts many people from all over the globe because it is richly steeped in history, offering tourists an excellent insight into the past. Not only this, Florence also has many gardens, museums, art galleries and places to eat. The best time to visit Florence is during the months of September through December, when the weather is cooler and the tourists have disappeared.

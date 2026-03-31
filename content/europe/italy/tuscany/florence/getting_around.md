@@ -1,7 +1,6 @@
 ---
 title: "Getting Around"
 type: section
-order: 12
 ---
 
 When visiting Florence, Italy you really need to know about **Florence transportation** because this place is virtually filled with tourists. At certain times of the year, the number of tourists is double the number of locals. Due to Florence&rsquo;s history and many architectural and cultural landmarks, tourists flock to this place; that is why you need to know the available transportation in order to make the most out of your vacation.

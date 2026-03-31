@@ -1,7 +1,6 @@
 ---
 title: "Bars and Cafes"
 type: section
-order: 4
 ---
 
 **Laze Around in One of Florence's Wine Cafes **

@@ -1,7 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-order: 3
 address: "Salita Santa Anna di Palazzo, Trav. Via Chiaia"
 phone: "+39 (0)81 - 416928"
 ---

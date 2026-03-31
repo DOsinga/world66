@@ -1,7 +1,6 @@
 ---
 title: "Day Trips"
 type: section
-order: 8
 ---
 
 There is so much to do and see in Naples, you may think twice about taking time out of your Naples trip for a side trip. If you really don't want to leave Naples for more than a day, you're in luck! There are quite a few day trips that you can take from Naples (on any given day of the week) and still be make it back in time for dinner or to enjoy a concert. Continue reading through the listings to find out about some of the most popular Naples day trips and read about a few off-the-wall day trips that shouldn't be missed.

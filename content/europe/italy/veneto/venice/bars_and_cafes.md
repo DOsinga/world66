@@ -1,7 +1,6 @@
 ---
 title: "Bars and Cafes"
 type: section
-order: 4
 ---
 
 hi

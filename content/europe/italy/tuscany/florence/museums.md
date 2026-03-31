@@ -1,7 +1,6 @@
 ---
 title: "Museums"
 type: section
-order: 5
 ---
 
 sfkjsdfksdfkdf ddddddddddddd

@@ -1,7 +1,6 @@
 ---
 title: "Beaches"
 type: section
-order: 9
 ---
 
 The Italian city of Naples is the third largest in the entire country of Italy. It's considered to be an exciting port and many cruise lines stop here during their voyage. Naples is also well known for being the birthplace of one of the world's favorite foods - pizza. The city has many areas of attraction, including **Naples Beaches** which are not always well known, but still beautiful little hideaways to explore. Whether you're stopping in port briefly, or spending your entire vacation here, Naples is a fascinating place with many sights to see, and perfect for romantics too.

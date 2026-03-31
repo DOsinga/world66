@@ -1,7 +1,6 @@
 ---
 title: "When to Go"
 type: section
-order: 10
 ---
 
 **

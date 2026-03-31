@@ -1,7 +1,6 @@
 ---
 title: "Sights"
 type: section
-order: 2
 ---
 
 Florence is packed with sights. From the Middle Ages onward the Florentines have been very busy constructing palazzi, churches and convents. For more than 400 years it has been one of the leading cultural cities in Italy.

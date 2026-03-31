@@ -1,7 +1,6 @@
 ---
 title: "Day Trips"
 type: section
-order: 8
 ---
 
 Milan is a beautiful sprawling city with much to be admired. It can also be an excellent base from which to see other nearby sites. Here are a few that you can see within a day, though you may find some to be so beautiful that you'll wish to stay a bit longer.

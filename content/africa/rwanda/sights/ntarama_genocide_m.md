@@ -1,23 +1,12 @@
 ---
 title: "Ntarama Genocide Memorial"
 type: poi
-type: "Memorials"
+latitude: -2.076
+longitude: 30.053
 ---
 
-**Ntarama Genocide Memorial**, just 20 minutes away from
-the Nyamata memorial, is also worth visiting. Like the Nyamata
-memorial, this site was a church before the genocide, and was
-nationalized to serve as a memorial after thousands of people were
-killed within its walls. The church itself is similar to Nyamata, with
-victims' clothing and remains visible to offer proof of what happened
-there, but Ntarama also has a peaceful memorial garden and wall of
-names in the back of its compound. Ask the resident guide for a tour in
-English or French, and remember to give them a donation for the site
-afterwards; it gets almost no support from the government. To get
-there, take the highway from Kigali to Nyamata and follow the signs for
-the Ntarama memorial, before you reach Nyamata.
+The Ntarama memorial, about 20 minutes' drive from Nyamata, is a church where several thousand people were killed in April 1994. Like the nearby Nyamata memorial, the building has been preserved as it was found after the genocide: victims' clothing, bones, and personal effects remain visible inside.
 
-**Contributors**
-October 22, 2008
+Ntarama also has a memorial garden and a wall of names behind the church — a quieter, more contemplative space than the church interior itself. A resident guide offers tours in English or French; donate at the end, as the site receives little government funding.
 
-type: Memorials
+Take the highway from Kigali toward Nyamata and follow signs for Ntarama before you reach the town.

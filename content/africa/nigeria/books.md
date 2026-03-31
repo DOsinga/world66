@@ -3,110 +3,20 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Nigerian literature is exceptional — some of the best writing in the English language of the past century has come from here.
 
-**Alhaji:A Peace Corps Adventure in Nigeria**
+**Things Fall Apart** by Chinua Achebe (1958) — The starting point for any reading on Nigeria. Set in an Igbo village at the moment of colonial contact, it is the most widely read African novel ever published. Short, precise, and devastating. Read it before you go.
 
+**Arrow of God** by Chinua Achebe (1964) — Achebe's third novel, and by many accounts his finest. Set in 1920s Igboland, it follows a chief priest caught between tradition and colonial power. More complex than *Things Fall Apart*.
 
+**Half of a Yellow Sun** by Chimamanda Ngozi Adichie (2006) — A novel set before and during the Biafran War (1967–70), one of the most traumatic events in Nigerian history. Adichie writes with enormous empathy and clarity. Essential for understanding the Igbo southeast and modern Nigerian identity.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1564740986/ref=ase_osingacom?v=glance&s=books)
+**Purple Hibiscus** by Chimamanda Ngozi Adichie (2003) — Her debut, set in contemporary Enugu. A quietly devastating novel about a devout Catholic family. Excellent on the textures of middle-class Nigerian life.
 
-author: Jane Brown Hirsch
+**Season of Anomy** by Wole Soyinka (1973) — A dense, allegorical novel by Nigeria's Nobel laureate, written in response to the Biafran War. Soyinka is more accessible through his memoir *Aké: The Years of Childhood* — a beautiful account of growing up in Abeokuta in the 1940s.
 
-isbn: 1564740986
+**Americanah** by Chimamanda Ngozi Adichie (2013) — A novel about a young Nigerian woman who moves to the United States for university. Sharply observed on race, identity, and the experience of return. Very good on Lagos as seen through the eyes of someone coming back after years away.
 
-subject: travel
+**The Africa House** by Christina Lamb (1999) — Not Nigeria specifically, but a useful companion to reading about West Africa's colonial legacy and post-independence history.
 
-**Architectures of Nigeria:Architectures of the Hausa and Yoruba Peoples and the Many Peoples**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0905788370/ref=ase_osingacom?v=glance&s=books)
-
-author: Kevin Carroll
-
-isbn: 0905788370
-
-subject: travel
-
-**Journal of an Expedition up the Niger and Tshadda Rivers Undertaken by MacGregor Laird in 1854:Undertaken by Maegre..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0714618667/ref=ase_osingacom?v=glance&s=books)
-
-author: Samuel Crowther
-
-isbn: 0714618667
-
-subject: travel
-
-**Yourba Dance :The Semiotics of Movement and Body Attitude in a Nigerian Culture**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0865435634/ref=ase_osingacom?v=glance&s=books)
-
-author: Omofolabo S. Ajayi
-
-isbn: 0865435634
-
-subject: culture
-
-**Benin:Lords of the River**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0791031349/ref=ase_osingacom?v=glance&s=books)
-
-author: Philip Koslow
-
-isbn: 0791031349
-
-subject: culture
-
-**Omuluabi:Ulli Beier, Yoruba Society and Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0865437211/ref=ase_osingacom?v=glance&s=books)
-
-author: Wole Ogundele,Preface by Wole Soyinka
-
-isbn: 0865437211
-
-subject: culture
-
-**At Her Majesty's Request:An African Princess in Victorian England**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0590486691/ref=ase_osingacom?v=glance&s=books)
-
-author: Walter Dean Myers
-
-isbn: 0590486691
-
-subject: history
-
-**The Burden of Memory, the Muse of Forgiveness**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195122054/ref=ase_osingacom?v=glance&s=books)
-
-author: Wole Soyinka
-
-isbn: 0195122054
-
-subject: history
-
-**Limericks :Too Gross/or Two Dozen Dirty Dozen Stanzas**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0393045307/ref=ase_osingacom?v=glance&s=books)
-
-author: Isaac Asimov,John Ciardi
-
-isbn: 0393045307
-
-subject: history
+**Nigeria: A New History of a Turbulent Century** by Richard Bourne (2015) — The clearest single-volume political history of Nigeria from independence to the present. Sober and well-sourced.

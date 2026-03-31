@@ -127,7 +127,7 @@ def _collect_markers(page, sections, locations, pois):
     return markers
 
 
-def _image_path(page) -> str | None:
+def _image_path(page):
     """Build the content-relative path to a page's hero image."""
     image = page.meta.get('image', '')
     if not image:

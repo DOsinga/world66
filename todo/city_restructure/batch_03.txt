@@ -1,5 +1,0 @@
-europe/italy/sicily/catania
-europe/italy/sicily/siracusa
-europe/italy/campania/pompeii
-europe/italy/veneto/verona
-europe/italy/piemonte/turin

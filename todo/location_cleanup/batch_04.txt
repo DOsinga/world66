@@ -1,5 +1,0 @@
-asia/japan/tokyo
-asia/thailand/bangkok
-asia/china/hongkong
-asia/indonesia/bali
-asia/japan/honshu/kyoto

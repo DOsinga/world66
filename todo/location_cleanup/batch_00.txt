@@ -1,5 +1,0 @@
-europe/unitedkingdom/england/london
-europe/france/paris
-europe/netherlands/amsterdam
-europe/germany/berlin
-europe/spain/catalonia/barcelona

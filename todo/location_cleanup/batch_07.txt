@@ -1,5 +1,0 @@
-northamerica/unitedstates/newyorkstate/newyork
-northamerica/unitedstates/california/losangeles
-northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco
-northamerica/unitedstates/illinois/chicago
-northamerica/unitedstates/florida/miami

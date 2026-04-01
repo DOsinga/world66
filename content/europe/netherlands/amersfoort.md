@@ -9,12 +9,10 @@ image_license: "CC BY 4.0"
 image_attribution: "acediscovery"
 ---
 
-Amersfoort is one of The Netherlands best kept secrets. It's a cute little town some half hour by train from [Amsterdam](/europe/netherlands/amsterdam), and only 10 minutes from [Utrecht](/europe/netherlands/utrecht).
+Amersfoort is one of the Netherlands' best-kept secrets — a proper medieval city half an hour by train from [Amsterdam](/europe/netherlands/amsterdam) and just ten minutes from [Utrecht](/europe/netherlands/utrecht), yet largely ignored by tourists. Their loss.
 
-Amersfoort has a nice historic centre, where the network of streets and canals is much like it was in the Middle Ages. Compared to Amsterdam the canals are small quiet and intimate, and bordered by some lovely gardens. A single big Tower (Lange Jan / Tall John) standing on the market square is the real focal point of the city. The Joriskerk on the Hof is worth a visit as well. Amersfoort is actually on of the few Dutch cities that has nice squares. These are best enjoyed during the Amersfoort Jazz festival when there are bands playing in all of the medieval centre.
+The old centre is remarkably intact. The street plan and canals are still much as they were in the Middle Ages, but where Amsterdam's canals are grand and busy, Amersfoort's are small, quiet, and bordered by gardens. The Lange Jan — a church tower that has stood alone on its square since the church it belonged to blew up in 1787 — is the focal point. The Joriskerk on the Hof is worth a look, and Amersfoort is one of the few Dutch cities with genuinely pleasant squares, best enjoyed during the Keistad Jazz Festival in May when bands play on every one of them.
 
-On the outer ring of canals around the old city you find Muurhuizen, with very nice mansions and old monasteries. It is very pleasant to walk around these center or visit the nearby castle and local museums. Another nice thing to do is to take a boat trip on the canals.
+Walk the outer ring of canals and you reach the Muurhuizen — grand mansions and former monasteries built directly into the medieval city wall. The Koppelpoort, a combined land-and-water gate from 1425, still controls entry to the city and still works. The Mondriaanhuis, birthplace of Piet Mondriaan, traces how a boy from a small Dutch town became one of modern art's most recognisable figures. And on the crossing outside city hall, Sofie the traffic light — the only one in the Netherlands showing a woman — has been quietly making a point since someone installed her anonymously in 2000.
 
-One of the key attractions is the Mondriaan-huis, former home of the famous Dutch painter. The much less famous modern painter Armando also has a museum dedicated to his person.
-
-For hard core feminists a pilgrimage to see Amersfoorts famous traffic lights is necessary. The only traffic lights I know of in the whole world that show a woman crossing the street (or waiting to cross).
+It is a city for walking, sitting on a terrace with a beer from De Drie Ringen (the local brewery), and discovering things at a pace that Amsterdam no longer allows.

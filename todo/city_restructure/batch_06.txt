@@ -1,5 +1,0 @@
-europe/greece/athens
-europe/portugal/lisbon
-europe/ireland/dublin
-europe/denmark/copenhagen
-europe/sweden/stockholm

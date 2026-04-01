@@ -30,7 +30,6 @@ asia/turkey/istanbul
 europe/italy/lombardia/bergamo
 asia/iran/pasargadae
 africa/egypt/luxor
-europe/netherlands/amersfoort
 europe/italy/liguria/italianriviera
 europe/france/midi/cotedazur
 europe/france/midi/languedoc

@@ -96,9 +96,10 @@ The `type` field in frontmatter is the source of truth. Directory filtering in t
 - Don't create a database or migrations — the filesystem is the data store
 - Don't change the URL structure — it matches the original World66 paths
 
-## PR expectations
+## Working with Git
 
-- Try to separate changes to the code from changes to the content from changes to the instruction markdowns
-  if you need to, open multiple PRs.
-- We squash PRs when they are ready to merge
+- Don't work on main — create a branch for your work. Always branch off `origin/main`, not wherever you happen to be.
+- Use worktrees if you are doing multiple things at the same time.
+- Try to separate changes to the code from changes to the content from changes to the instruction markdowns — open multiple PRs if needed.
+- We squash PRs when they are ready to merge.
 

@@ -472,44 +472,25 @@ def save_progress(processed: set):
 # Main pipeline
 # ---------------------------------------------------------------------------
 
-def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> bool:
-    """Process a single page. Returns True if a photo was saved."""
-    md_path = resolve_md_path(content_path)
-    if not md_path:
-        print(f'  Not found: {content_path}')
-        return False
-
-    text = md_path.read_text(encoding='utf-8', errors='replace')
-    meta, body = _parse_frontmatter(text)
-
-    # Skip if already has image (unless force)
-    if meta.get('image') and not force:
-        print(f'  Skipped (already has image): {content_path}')
-        return False
-
-    slug = md_path.stem
-    print(f'Processing: {content_path}')
-
-    # Build search query
+def _search_candidates(content_path: str, meta: dict) -> tuple[list[Candidate], list[bytes], list[str]]:
+    """Search for photo candidates, download thumbnails. Returns (valid_candidates, thumb_data, sources_searched)."""
     query = build_search_query(content_path, meta)
-    print(f'  Search query: {query}')
+    print(f'  Search query: {query}', file=sys.stderr)
 
-    # Search all sources
+    sources_searched = ['wikimedia']
+    if os.environ.get('FLICKR_API_KEY'):
+        sources_searched.append('flickr')
+
     candidates = []
     for name, search_fn in [
-        ('Wikimedia', search_wikimedia),
-        ('Flickr', search_flickr),
+        ('wikimedia', search_wikimedia),
+        ('flickr', search_flickr),
     ]:
         results = search_fn(query)
-        print(f'  {name}: {len(results)} candidates')
+        print(f'  {name}: {len(results)} candidates', file=sys.stderr)
         candidates.extend(results)
-        time.sleep(0.5)  # brief pause between sources
+        time.sleep(0.5)
 
-    if not candidates:
-        print(f'  No candidates found for: {content_path}')
-        return False
-
-    # Download and create thumbnails
     thumb_data = []
     valid_candidates = []
     for c in candidates:
@@ -521,13 +502,117 @@ def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> boo
             thumb_data.append(thumb)
             valid_candidates.append(c)
 
+    return valid_candidates, thumb_data, sources_searched
+
+
+def process_page_no_classify(content_path: str, force: bool = False) -> dict:
+    """Search for candidates and return JSON-serializable result without AI classification."""
+    md_path = resolve_md_path(content_path)
+    if not md_path:
+        return {'path': content_path, 'error': f'Not found: {content_path}'}
+
+    text = md_path.read_text(encoding='utf-8', errors='replace')
+    meta, body = _parse_frontmatter(text)
+
+    if meta.get('image') and not force:
+        return {'path': content_path, 'skipped': True, 'reason': 'already has image'}
+
+    slug = md_path.stem
+    print(f'Processing: {content_path}', file=sys.stderr)
+
+    valid_candidates, thumb_data, sources_searched = _search_candidates(content_path, meta)
+
     if not thumb_data:
-        print(f'  No valid thumbnails for: {content_path}')
+        return {
+            'path': content_path,
+            'md_file': str(md_path.relative_to(CONTENT_DIR.parent)),
+            'title': meta.get('title', ''),
+            'candidates': [],
+            'sources_searched': sources_searched,
+            'thumb_dir': None,
+        }
+
+    # Save thumbnails to deterministic temp dir
+    thumb_dir = Path(tempfile.gettempdir()) / f'find_photo_{slug}'
+    thumb_dir.mkdir(parents=True, exist_ok=True)
+
+    candidate_list = []
+    for i, (c, data) in enumerate(zip(valid_candidates, thumb_data)):
+        thumb_path = thumb_dir / f'thumb_{i}.jpg'
+        thumb_path.write_bytes(data)
+        candidate_list.append({
+            'index': i,
+            'thumb_path': str(thumb_path),
+            'url': c.url,
+            'source': c.source,
+            'width': c.width,
+            'height': c.height,
+            'license': c.license,
+            'attribution': c.attribution,
+            'source_page': c.source_page,
+        })
+
+    return {
+        'path': content_path,
+        'md_file': str(md_path.relative_to(CONTENT_DIR.parent)),
+        'title': meta.get('title', ''),
+        'candidates': candidate_list,
+        'sources_searched': sources_searched,
+        'thumb_dir': str(thumb_dir),
+    }
+
+
+def process_page_select(content_path: str, select_meta: dict) -> bool:
+    """Download and save a pre-selected photo. Returns True on success."""
+    md_path = resolve_md_path(content_path)
+    if not md_path:
+        print(f'  Not found: {content_path}', file=sys.stderr)
+        return False
+
+    slug = md_path.stem
+    url = select_meta['url']
+    print(f'Downloading selected photo: {url[:80]}...', file=sys.stderr)
+
+    full_bytes = download_image(url)
+    if not full_bytes:
+        print(f'  Failed to download selected photo', file=sys.stderr)
+        return False
+
+    filename = save_photo(full_bytes, md_path, slug)
+    update_frontmatter(
+        md_path, filename,
+        select_meta.get('source_page', ''),
+        select_meta.get('license', ''),
+        select_meta.get('attribution', ''),
+    )
+    return True
+
+
+def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> bool:
+    """Process a single page with AI classification. Returns True if a photo was saved."""
+    md_path = resolve_md_path(content_path)
+    if not md_path:
+        print(f'  Not found: {content_path}')
+        return False
+
+    text = md_path.read_text(encoding='utf-8', errors='replace')
+    meta, body = _parse_frontmatter(text)
+
+    if meta.get('image') and not force:
+        print(f'  Skipped (already has image): {content_path}')
+        return False
+
+    slug = md_path.stem
+    print(f'Processing: {content_path}')
+
+    valid_candidates, thumb_data, _ = _search_candidates(content_path, meta)
+
+    if not thumb_data:
+        print(f'  No valid candidates for: {content_path}')
         return False
 
     print(f'  Evaluating {len(thumb_data)} candidates with {cli.name}...')
 
-    # Ask AI to pick the best
     page_text = f'Title: {meta.get("title", "")}\n\n{body[:1500]}'
     best_idx = pick_best_photo(valid_candidates, thumb_data, page_text, cli)
 
@@ -538,10 +623,8 @@ def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> boo
     winner = valid_candidates[best_idx]
     print(f'  Winner: {winner.source} — {winner.source_page}')
 
-    # Download full resolution
     full_bytes = download_image(winner.url)
     if not full_bytes:
-        # Try other candidates as fallback
         for i, c in enumerate(valid_candidates):
             if i == best_idx:
                 continue
@@ -555,14 +638,13 @@ def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> boo
         print(f'  Failed to download winning photo')
         return False
 
-    # Save and update
     filename = save_photo(full_bytes, md_path, slug)
     update_frontmatter(md_path, filename, winner.source_page, winner.license, winner.attribution, force)
     return True
 
 
-def find_all_pages(page_type: str = 'location') -> list[str]:
-    """Find all content pages of a given type, return as content paths."""
+def find_all_pages(page_type: str = 'location', prefix: str = None) -> list[str]:
+    """Find all content pages of a given type, optionally filtered by path prefix."""
     import yaml
 
     pages = []
@@ -590,6 +672,9 @@ def find_all_pages(page_type: str = 'location') -> list[str]:
             content_path = str(rel.with_suffix(''))
         pages.append(content_path)
 
+    if prefix:
+        prefix = prefix.strip('/')
+        pages = [p for p in pages if p.startswith(prefix)]
     return pages
 
 
@@ -600,22 +685,65 @@ def main():
     parser.add_argument('--cli', choices=cli_names, help='Force a specific AI CLI (default: auto-detect)')
     parser.add_argument('--batch', action='store_true', help='Process all pages')
     parser.add_argument('--type', default='location', help='Page type filter for batch mode (default: location)')
+    parser.add_argument('--prefix', help='Content path prefix for batch filtering (e.g., europe/netherlands)')
+    parser.add_argument('--no-classify', action='store_true', help='Output JSON with candidates instead of AI classification')
+    parser.add_argument('--select-meta', help='JSON metadata of chosen candidate (use with path)')
+    parser.add_argument('--output', help='Write JSON output to file instead of stdout (use with --no-classify)')
     parser.add_argument('--force', action='store_true', help='Replace existing images')
     parser.add_argument('--dry-run', action='store_true', help='List pages without processing')
     args = parser.parse_args()
 
-    if not args.dry_run:
+    if args.prefix and not args.batch:
+        parser.error('--prefix requires --batch')
+    if args.output and not args.no_classify:
+        parser.error('--output requires --no-classify')
+
+    # --select-meta mode: save a pre-selected photo
+    if args.select_meta:
+        if not args.path:
+            parser.error('--select-meta requires a content path')
+        try:
+            meta = json.loads(args.select_meta)
+        except json.JSONDecodeError as e:
+            print(f'Invalid --select-meta JSON: {e}', file=sys.stderr)
+            sys.exit(2)
+        if process_page_select(args.path, meta):
+            sys.exit(0)
+        else:
+            sys.exit(2)
+
+    # Determine if we need a CLI adapter
+    cli = None
+    if not args.no_classify and not args.dry_run:
         cli = get_cli_adapter(args.cli)
-        print(f'Using {cli.name} for image classification')
+        print(f'Using {cli.name} for image classification', file=sys.stderr)
 
     if args.batch:
-        pages = find_all_pages(args.type)
-        print(f'Found {len(pages)} {args.type} pages')
+        pages = find_all_pages(args.type, args.prefix)
+        print(f'Found {len(pages)} {args.type} pages', file=sys.stderr)
 
         if args.dry_run:
             for p in pages:
                 print(f'  {p}')
             return
+
+        if args.no_classify:
+            results = []
+            for i, content_path in enumerate(pages):
+                print(f'\n[{i + 1}/{len(pages)}]', file=sys.stderr)
+                result = process_page_no_classify(content_path, args.force)
+                results.append(result)
+                time.sleep(1)
+
+            output = json.dumps(results, indent=2)
+            if args.output:
+                Path(args.output).write_text(output)
+                print(f'Written to {args.output}', file=sys.stderr)
+            else:
+                print(output)
+
+            has_candidates = any(r.get('candidates') for r in results)
+            sys.exit(0 if has_candidates else 1)
 
         processed = load_progress()
         success = 0
@@ -633,7 +761,7 @@ def main():
 
                 processed.add(content_path)
                 save_progress(processed)
-                time.sleep(2)  # rate limit between pages
+                time.sleep(2)
 
         except KeyboardInterrupt:
             print('\n\nInterrupted. Progress saved.')
@@ -642,7 +770,18 @@ def main():
         print(f'\nDone: {success} photos saved, {skipped} skipped (already processed)')
 
     elif args.path:
-        process_page(args.path, cli, args.force)
+        if args.no_classify:
+            result = process_page_no_classify(args.path, args.force)
+            output = json.dumps(result, indent=2)
+            if args.output:
+                Path(args.output).write_text(output)
+                print(f'Written to {args.output}', file=sys.stderr)
+            else:
+                print(output)
+            sys.exit(0 if result.get('candidates') else 1)
+        else:
+            success = process_page(args.path, cli, args.force)
+            sys.exit(0 if success else 1)
 
     else:
         parser.print_help()

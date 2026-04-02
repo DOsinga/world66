@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Bir Billing"
+title: 'Day Trips'
 type: section
 ---
 

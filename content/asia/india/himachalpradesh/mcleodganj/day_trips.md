@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Mcleodganj"
+title: 'Day Trips'
 type: section
 ---
 

@@ -1,23 +1,11 @@
 ---
 title: "Majerle's Sports Grill"
 type: poi
-address: "Address:	 24 North 2nd Street Phoenix, AZ 85004"
-phone: "Address:	 24 North 2nd Street Phoenix, AZ 85004"
-price: "fair"
-type: "American"
+address: '24 North 2nd Street Phoenix, AZ 85004'
+phone: '602-253-0118'
+price: 'fair'
+latitude: 33.4489
+longitude: -112.0714
 ---
 
-Majerle’s Sports Grill is owned by the iconic basketball player, Dan “Thunder Dan” Majelre. Priding itself on being located in the oldest commercial building in the city, Majelre’s offers up amazing lunch, happy hours, and drinks for a more than reasonable rate. When it comes to eating out in Phoenix, Majelre’s ranks up among the top tier of sports bars in the area. Located a mere block from the new Phoenix Suns stadium, Majelre’s is the perfect destination for people looking to grab a bite to eat before or after an exciting basketball game. The staff is energetic and always available to help.
-
-**Contributors**
-April 30, 2009
-
-type: American
-
-
-
-tel: Address: 24 North 2nd Street Phoenix, AZ 85004
-
-address: Address: 24 North 2nd Street Phoenix, AZ 85004
-
-PriceOfMenu: fair
+Majerle's Sports Grill is owned by former Phoenix Suns player Dan "Thunder Dan" Majerle. Located in the oldest commercial building in the city, just a block from the Suns arena, it is the perfect spot for a bite before or after a basketball game. The menu leans heavy on bar-food staples, the happy hour is generous, and the staff keeps things moving.

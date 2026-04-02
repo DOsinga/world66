@@ -1,17 +1,8 @@
 ---
-title: "When to Go in Bir Billing"
+title: 'When to Go'
 type: section
-email: "lalitgarg@hotmail.com"
 ---
 
-guide requrement
+The best season for paragliding runs from the first week of October through the end of November. After that, snow arrives and lasts until late February. Spring starts in early March and runs through mid-May, though after mid-April conditions become too bumpy for paragliding.
 
-### [Lalit Garg](/asia/india/himachalpradesh/bir_billing/when_to_go/lalit_garg)
-
-The best season for paragliding starts from first week of october and last upto november end. After that I starts to snow and snow last upto end of feburary. Spring season starts from first week of March and last upto mid May. Though after mid april, it is too bumpy for paragliding.
-
-Also, if you are interested in lama dance and visiting monestries, october and march are the best. Their is teaching at Sherabling sometime between end of March and April.
-
-
-
-email: lalitgarg@hotmail.com
+If you're interested in lama dances and visiting monasteries, October and March are ideal. Sherab Ling monastery holds teachings sometime between late March and April.

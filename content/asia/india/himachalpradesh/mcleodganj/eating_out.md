@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Mcleodganj"
+title: 'Eating Out'
 type: section
 ---
 

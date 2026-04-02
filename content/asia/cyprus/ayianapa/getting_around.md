@@ -3,4 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-i would just like to warn people about hiring out bike my friend Jamie guy rented out a bike that was not properly cheaked it so happen that he was involed in an accident were the brakes failed he was unable to control the bike and had an head on collision with an lamp post an sadly lost his life i can t metion the company because i may get sued so just a word of warning i would not want to have any other family and friends go throught what we have had to go through
+Ayia Napa is compact enough to walk around, and most hotels, beaches, and nightlife are within a 15-minute walk of The Square. For beaches further out (Konnos Bay, Ayia Thekla), you will need transport.
+
+Local buses connect Ayia Napa to Protaras and Paralimni regularly during the day. Scooter and quad bike rentals are popular -- just make sure to check the brakes and condition of any vehicle before you ride. Taxis are available but can be expensive for short trips; agree on a price before getting in.

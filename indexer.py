@@ -39,42 +39,31 @@ def _url_path(rel_path):
         return "/".join(parts[:-1])
     return "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
 
-_SECTION_SLUGS = {
-    "accommodation", "accommodations", "accommodationandfood", "accommocation",
-    "activities", "bars_and_cafes", "beaches", "books", "day_trips",
-    "eating_out", "festivals", "food", "getting_around", "getting_there",
-    "highlights", "history", "landmarks", "museums", "nightlife",
-    "nightlife_and_ente", "people", "placestostay", "practical_informat",
-    "shopping", "sights", "things_to_do", "toursevents", "top_5_must_dos",
-}
+def _is_location_dir(directory):
+    """Check if a directory represents a location (not a section)."""
+    # dir/dir.md pattern
+    candidate = directory / f"{directory.name}.md"
+    if candidate.is_file():
+        text = candidate.read_text(encoding="utf-8", errors="replace")
+        meta, _ = _parse_frontmatter(text)
+        return meta.get("type", "location") == "location", meta.get("title", directory.name)
+    # parent/dir.md sibling pattern
+    sibling = directory.parent / f"{directory.name}.md"
+    if sibling.is_file():
+        text = sibling.read_text(encoding="utf-8", errors="replace")
+        meta, _ = _parse_frontmatter(text)
+        return meta.get("type", "location") == "location", meta.get("title", directory.name)
+    return None, None  # unknown — no .md file defines this directory
 
 def _find_parent_location(path):
     """Walk up from path to find the nearest ancestor location title."""
     current = path.parent
     while current != CONTENT_DIR and current != CONTENT_DIR.parent:
-        candidate = current / f"{current.name}.md"
-        if candidate.is_file() and candidate != path:
-            text = candidate.read_text(encoding="utf-8", errors="replace")
-            meta, _ = _parse_frontmatter(text)
-            if meta.get("type", "location") == "location":
-                return meta.get("title", current.name)
-            # It's a section dir — skip and keep walking up
-        elif not candidate.is_file():
-            # No dir/dir.md — check sibling .md or infer from name
-            # Match section slugs including numbered variants like eating_out_1
-            base = current.name.rstrip("0123456789").rstrip("_")
-            if base in _SECTION_SLUGS:
-                current = current.parent
-                continue
-            sibling = current.parent / f"{current.name}.md"
-            if sibling.is_file():
-                text = sibling.read_text(encoding="utf-8", errors="replace")
-                meta, _ = _parse_frontmatter(text)
-                if meta.get("type", "location") == "location":
-                    return meta.get("title", current.name)
-                # section — skip
-            elif any(current.glob("*.md")):
-                return current.name.replace("_", " ").title()
+        is_loc, title = _is_location_dir(current)
+        if is_loc is True:
+            if current / f"{current.name}.md" != path:
+                return title
+        # Either a section or unknown — keep walking up
         current = current.parent
     return ""
 

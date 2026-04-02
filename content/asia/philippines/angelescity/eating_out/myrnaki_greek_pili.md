@@ -1,33 +1,11 @@
 ---
-title: "Myrnaki Greek Pilipino Restaurant"
+title: "Myrnaki Greek-Filipino Restaurant"
 type: poi
-accessibility: "car/yeepnee/trike"
-address: "Mt Makiling str"
-email: "info@myrnaki.com"
-phone: "09185745745"
-price: "220PHP"
-type: "Greek"
-url: "www.myrnaki.com"
+address: "Mt. Makiling Street, Balibago, Angeles City"
+phone: "0918-574-5745"
+url: "http://www.myrnaki.com"
+latitude: 15.1680
+longitude: 120.5930
 ---
 
-Myrnaki is a small restaurant located in an authentic Philippine nipa hut.
-You can enjoy delicius greek and philipino dishes for a low price.
-Souvlaki, mousaka, and, of course, Greek salads with feta chees are what you’ll find on the menu here.
-
-type: Greek
-
-
-
-
-
-accessibility: car/yeepnee/trike
-
-tel: 09185745745
-
-url: [www.myrnaki.com](http://www.myrnaki.com)
-
-address: Mt Makiling str
-
-PriceOfMenu: 220PHP
-
-email: info@myrnaki.com
+A small restaurant set in an authentic nipa hut, Myrnaki serves an unusual mix of Greek and Filipino dishes at low prices. Souvlaki, moussaka, and Greek salads with feta cheese share the menu with local favorites.

@@ -1,22 +1,22 @@
 ---
-title: "Getting Around in Angeles City"
+title: "Getting Around"
 type: section
 ---
 
-**Choose From Taxis and Trikes When Traveling In Angeles City
+Getting around Angeles City is cheap and straightforward, though not always comfortable. The main options are tricycles, jeepneys, and taxis, each with their own quirks.
 
-**If you are visiting **Angeles City**,** transportation **is very easy, as there are different options to choose from.
+**Tricycles**
 
-**Trike
+The most common way to get around locally. A motorbike with a small passenger sidecar, tricycles are slow but cheap and available everywhere. They are not permitted on major roads near the airport or the expressway, so they work best for short hops within the city.
 
-**Tourists who are visiting Angeles City and want a different traveling experience must opt for trikes, which are more like tricycles. They have a small passenger cabin attached to them, which is not comfortable for everyone. Trikes move at a relatively low speed, and this makes them one of the safest modes of transport. However, because of their speed, trikes are permitted only on certain roads. For instance, they are not allowed in the area surrounding the airport.
+**Jeepneys**
 
-**Taxi
+The iconic Philippine public transport — colorful, crowded, and running all day and night at very low fares. Jeepneys connect Angeles City to surrounding towns and cities. They tend to be packed with commuters, so they are not ideal if you are carrying heavy luggage, but they are hard to beat for price and availability.
 
-**If you are looking for convenient transportation in Angeles City, taxis are a good option. However, they are not available all over the city. Most taxis are meant for taking visitors to and from the airport. They are also used for touring the Clark Freeport Zone. Most taxis in Angeles City are owned by private services.
+**Taxis**
 
-**Jeepney
+Less common than you might expect. Most taxis in Angeles City operate as airport transfers or serve the Clark Freeport Zone. They are metered, but agreeing on a fare before you get in is wise for longer trips.
 
-**Those who don&rsquo;t want to spend a lot on traveling can opt for a jeepney. This is a colourful small bus which is available all day and night and at very affordable rates. As most jeepneys connect various cities and towns together, they tend to be crowded with locals who travel on a daily basis. For this reason, tourists with large bags or heavy luggage should avoid traveling in jeepneys.
+**Buses**
 
-Tourists can also find regular buses that provide transportation around the city. These are larger than jeepneys, and fares vary with the distance.
+Regular buses run between Angeles City and other major cities, including Manila. Larger and more comfortable than jeepneys, with fares that vary by distance. Both ordinary and air-conditioned services are available.

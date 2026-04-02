@@ -23,10 +23,13 @@
         <img src="{% static 'images/logo.gif' %}" alt="World66" class="logo-img">
         <span class="logo-ribbon">The Travel Guide <em>You Write</em></span>
       </a>
-      <form class="site-search" action="/search" method="get" role="search">
-        <input type="search" name="q" placeholder="Search destinations&hellip;" value="{{ request.GET.q|default:'' }}" aria-label="Search destinations">
-        <button type="submit" aria-label="Search">&#128269;</button>
-      </form>
+      <div class="site-search-wrap">
+        <form class="site-search" action="/search" method="get" role="search">
+          <input type="search" name="q" placeholder="Search destinations&hellip;" value="{{ request.GET.q|default:'' }}" autocomplete="off" aria-label="Search destinations">
+          <button type="submit" aria-label="Search">&#128269;</button>
+        </form>
+        <ul class="site-search-dropdown" id="header-search-dropdown"></ul>
+      </div>
     </div>
 
     <nav class="top-nav">
@@ -92,6 +95,73 @@
     }
   });
   overlay.addEventListener('click', closeSidebar);
+})();
+</script>
+<script>
+(function() {
+  var input = document.querySelector('.site-search input[name="q"]');
+  var dropdown = document.getElementById('header-search-dropdown');
+  if (!input || !dropdown) return;
+  var timer, controller, selected = -1;
+
+  function doSearch(q) {
+    if (controller) controller.abort();
+    if (!q) { dropdown.innerHTML = ''; dropdown.style.display = 'none'; return; }
+    controller = new AbortController();
+    fetch('/api/search?q=' + encodeURIComponent(q), {signal: controller.signal})
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        selected = -1;
+        var results = data.results.slice(0, 8);
+        if (!results.length) { dropdown.innerHTML = ''; dropdown.style.display = 'none'; return; }
+        dropdown.innerHTML = '';
+        for (var i = 0; i < results.length; i++) {
+          var li = document.createElement('li');
+          var a = document.createElement('a');
+          a.href = results[i].url;
+          var title = document.createTextNode(results[i].title);
+          a.appendChild(title);
+          if (results[i].location) {
+            var loc = document.createElement('span');
+            loc.className = 'search-result-location';
+            loc.textContent = results[i].location;
+            a.appendChild(loc);
+          }
+          li.appendChild(a);
+          dropdown.appendChild(li);
+        }
+        var more = document.createElement('li');
+        more.className = 'site-search-more';
+        var ma = document.createElement('a');
+        ma.href = '/search?q=' + encodeURIComponent(q);
+        ma.textContent = 'All results\u2026';
+        more.appendChild(ma);
+        dropdown.appendChild(more);
+        dropdown.style.display = 'block';
+      })
+      .catch(function(e) { if (e.name !== 'AbortError') console.error(e); });
+  }
+
+  input.addEventListener('input', function() {
+    clearTimeout(timer);
+    var q = input.value.trim();
+    timer = setTimeout(function() { doSearch(q); }, 150);
+  });
+
+  input.addEventListener('keydown', function(e) {
+    var items = dropdown.querySelectorAll('li a');
+    if (!items.length) return;
+    if (e.key === 'ArrowDown') { e.preventDefault(); selected = Math.min(selected + 1, items.length - 1); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); selected = Math.max(selected - 1, -1); }
+    else if (e.key === 'Escape') { dropdown.style.display = 'none'; selected = -1; return; }
+    else if (e.key === 'Enter' && selected >= 0) { e.preventDefault(); items[selected].click(); return; }
+    else return;
+    for (var i = 0; i < items.length; i++) items[i].parentNode.classList.toggle('active', i === selected);
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.site-search-wrap')) { dropdown.style.display = 'none'; selected = -1; }
+  });
 })();
 </script>
 {% block extra_js %}{% endblock %}

@@ -1,8 +1,10 @@
 ---
-title: "Albufeira"
+title: 'Albufeira'
 type: location
 latitude: 37.088241
 longitude: -8.252634
 ---
 
-Albufeira is about 40 km west of the Faro airport, which will cost you half an hour via the highway IP1. Although Albufeira is known as a major tourist resort, it is amazing that you still find hardly any tourists in the old center. When coming from the Tunnel (every tourist will end up there) turn right and you will arrive at the central place of Albufeira with all its restaurants. From there you may continue through the narrow touristic streets,
+Albufeira is the Algarve's biggest resort town, about 40 km west of [Faro](/europe/portugal/algarve/faro) airport. It draws huge crowds in summer, but the old town centre is surprisingly untouristy -- narrow lanes, Moorish-influenced architecture, and small restaurants where locals still outnumber visitors.
+
+The town splits into two distinct zones. The old town clusters around a central square with whitewashed buildings and steep cobbled streets leading down to Fisherman's Beach. The new town sprawls around the Montechorro Strip, a long street of bars, clubs, and souvenir shops that caters mainly to British and Irish holidaymakers. The beaches on either side are excellent -- wide, sandy, and backed by golden sandstone cliffs.

@@ -1,12 +1,8 @@
 ---
-title: "Things to do"
+title: 'Things to Do'
 type: section
 ---
 
-Skiing, snowboarding, gambling, checking out the pretty sunsets, paddling a kayak through downtown in the city's new whitewater park... there's plenty to do in Reno.
+Skiing, snowboarding, gambling, kayaking through downtown in the Truckee River whitewater park, checking out the pretty sunsets over the Sierra Nevada -- there is plenty to do in Reno.
 
-**all**
-
-Get Married
-
-Hey, you're in Reno... wander on down to the Arch of Reno Wedding Chapel (www.archofreno.com) on Virginia St. to tie the knot Nevada style.
+The main casinos downtown include the Cal Neva Club, the Colonial Casino, and the Nugget, all within walking distance on Virginia Street and Second Street. But if you want a break from the tables, head to the National Automobile Museum for one of the world's largest collections of antique cars, or wander down to the Arch of Reno Wedding Chapel on Virginia Street to tie the knot Nevada style.

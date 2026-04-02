@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Faro"
+title: 'Getting Around in Faro'
 type: section
 ---
 

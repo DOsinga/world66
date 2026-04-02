@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Faro"
+title: 'Beaches in Faro'
 type: section
 ---
 
@@ -47,7 +47,3 @@ beach where you can check out flamingos, sandwich terns, and many
 others. Both of these beaches have gorgeous views and are nice places
 to simply relax and soak up some sun.
 
-**Contributors**
-January 28, 2010
-
-February 02, 2010

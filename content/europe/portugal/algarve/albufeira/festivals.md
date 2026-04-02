@@ -1,5 +1,5 @@
 ---
-title: "Festivals in Albufeira"
+title: 'Festivals in Albufeira'
 type: section
 ---
 
@@ -53,7 +53,3 @@ November begins with the celebration of All Saint's Day. In addition to this, No
 
 December is again a busy month with the Portugal's Independence Day on December 1. On December 25 there is a Christmas concert performed by the Algarve Orchestra. Finally on December 31, the year ends with a celebration of fireworks and musical shows.
 
-**Contributors**
-January 18, 2010
-
-January 26, 2010

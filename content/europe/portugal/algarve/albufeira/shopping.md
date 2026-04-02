@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Albufeira"
+title: 'Shopping in Albufeira'
 type: section
 ---
 
@@ -21,7 +21,3 @@ Located on the EN125 just outside the city limits of Albufeira is a large shoppi
 
 The strip in Albufeira is definitely not everyone's cup of tea. There are several shops and places to eat, mostly catering to the tourist trade. However, it is worth a trip to grab some gifts, souvenirs or necessary beach items you may have run out of or forgotten. The strip begins close to Praia Oura and might be worth a quick walk through even if the blaring music and endless supply of Irish pubs isn't for you.
 
-**Contributors**
-January 14, 2010
-
-January 19, 2010

@@ -1,39 +1,18 @@
 ---
-title: "7 Day Itinerary in Rimini"
+title: '7 Day Itinerary'
 type: section
 ---
 
-Rimini is Italy's leading entertainment destination. This upscale beach resort has been around for a long time and features a large number of bars, cafes and swanky beach promenades. There are theme resorts for enthusiastic families and a host of nightclubs for nocturnal party animals. There are also several restaurants where you can spend the evening enjoying a delicious Mediterranean meal. The **Rimini itinerary** plans a 7 day travel schedule to help visitors enjoy the charm of this coastal Italian hotspot.
+**Day One: Colle di Covignano.** Travel up Via Covignano to reach this green hill above the city -- a haven of meadows and quiet, far from the crowds. In summer, a perfect place to cool down on the grass or take a stroll.
 
-**Day One: A Wonder Awaits You!**
+**Day Two: [Ravenna](/europe/italy/emiliaromagna/ravenna) and [San Marino](/europe/sanmarino).** Head to [Ravenna](/europe/italy/emiliaromagna/ravenna), under an hour away, to see the stunning Byzantine mosaics that earned eight monuments UNESCO World Heritage status. On the way back, stop at the Republic of [San Marino](/europe/sanmarino) for a look at the world's oldest republic.
 
-Travel down via Covignano and reach Colle di Covignano, an exquisite haven of lush greenery unbelievably far from the crowds and traffic. This is an ideal place to go to during summers; tourists can cool down on the grass listening to music or take a casual stroll through the surrounding meadows.
+**Day Three: Markets and shopping.** Browse the beachfront shops, then head to the old town for the street markets along Piazza Cavour (Wednesday and Saturday mornings). An antique market runs on Tuesday evenings in summer in Marina Centro.
 
-**Day Two: Exploring Further...**
+**Day Four: [Bologna](/europe/italy/emiliaromagna/bologna) by day, Rimini by night.** Spend the day in [Bologna](/europe/italy/emiliaromagna/bologna), a wonderful university city with shaded arcades and great food. Return for Rimini's nightlife -- try the Carnaby Club for three floors of music and dancing.
 
-Tourists can then proceed to Ravenna, located a few hours away by car. This little city has a fine reputation for its mosaics and the stunning 8 monuments that are designated as World Heritage Sites. Nearer to the city is the Republic of San Marino. Historians and collectors are fascinated by it, as it makes its own postage stamps.
+**Day Five: Roman Rimini.** Visit the **Augustus Arch**, the **Tiberius Bridge**, the **Domus del Chirurgo** (a fascinating archaeological area with Roman mosaics), **Castel Sismondo**, and the **Tempio Malatestiano**.
 
-**Day Three: Shopping**
+**Day Six: The beach.** Spend the day on Rimini's 15-km stretch of sandy beach. Try some water sports, have lunch at a beachfront restaurant, and watch the sunset.
 
-There are lots of shops on the beachfront in Rimini targeting, as one would expect, tourists seeking bikinis and bronzing lotions. And the old town, nearby, has active street markets providing anything from fresh food to antiques and offers fantastic opportunities for browsing and ‘window shopping.’ The leading market is along Piazza Cavour on Wednesday and Saturday mornings, and an antique market is run on Tuesday evenings in summer in Marino Centro.
-
-**Day Four: Clubs**
-
-Visit Bologna, a wonderful university city with lots of attractions for people in a spirited mood. The shops are hidden from the sun with a lining of ceilings that give plenty of shade to the shoppers. Rimini is known as the “Las Vegas of Europe”. Enjoy the nightlife in Rimini with a delightful pub crawl. The Carnaby Club is one of the most fun clubs in Rimini.
-
-**Day Five: Historical Retreat**
-
-Visit the Augustus Arch, a Roman arch that celebrates the glory of the Roman emperor. The Tiberius Bridge offers a splendid view to the visitors. Other attractions are Domus of the Surgeon - a fascinating archaeological area, Castel Sismondo- a magnificent castle and Tempio Malatestiano, an extraordinarily created monument.
-
-**Day Six: Shell Museum**
-
-This is a treat for tourists who enjoy beachside activities like bathing, fishing and collecting shells on the beach. Rimini's small museum, The Shell Museum, is an interesting one. It boasts of 8,000 beautiful shells and other unique collections.
-
-**Day Seven: Fun in Water!**
-
-Rimini hosts a 15 km stretch of beach that has a relaxing atmosphere. Mini-cruises and motor boat excursions are offered.
-
-With gorgeous beaches, monuments, splendid sights and a throbbing nightlife, Rimini is quite an attractive destination for people of all ages.
-
-**Contributors**
-February 07, 2010
+**Day Seven: On the water.** Take a mini-cruise or motor boat excursion along the coast. A relaxing way to end the week.

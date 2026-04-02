@@ -1,6 +1,8 @@
 ---
-title: "When to Go in Varkala"
+title: "When to Go"
 type: section
 ---
 
-High speed internet cafe. Global communications, near bus stop, maithanam, varkala. Phone 9400967281,9995718615, email : gcvarkala@gmail.com
+The best time to visit Varkala is October through March, when the weather is warm and dry with comfortable humidity. December and January are peak season — expect higher prices and more crowds on the cliff path. The southwest monsoon hits from June through August, bringing heavy rain and rough seas; many guesthouses and restaurants close during this period.
+
+The Onam harvest festival in August or September is Kerala's biggest celebration, with flower arrangements, feasts, and boat races. If you are in the area during this time, the festivities are worth catching. The annual pilgrimage season at Sivagiri Mutt around late December also draws large crowds.

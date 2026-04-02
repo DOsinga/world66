@@ -1,24 +1,8 @@
 ---
-title: "Getting There in Varkala"
+title: "Getting There"
 type: section
-address: "Panchakshari, Koduvazhanoor PO, TVPM"
-email: "rsanurag@yahoo.com"
-phone: "9895443302"
-type: "By Air"
 ---
 
-Travel by train from trivandrum
+Varkala has its own railway station on the main Kerala line, making the train the easiest way to arrive. Trains from Thiruvananthapuram (Trivandrum) take about an hour; from Kollam about thirty minutes. Several daily services run in each direction.
 
-### [Anurag R S](/asia/india/kerala/varkala/getting_there/anurag)
-
-From Thiruvananthapurm railway station and bus station, we will get trains and buses directly to Varkala. This is an around 1-hour journey. We can also get taxi from the capital city. It will be fine if u fix the fair before hiring a taxi. Important destinations there were Sivagiri Mutt, Janardhana swamy temple, and also a fort nearby named Anjengo Fort. The beach is sorrounded by cliff and it's one the best silent beaches in India.
-
-type: By Air
-
-
-
-tel: 9895443302
-
-address: Panchakshari, Koduvazhanoor PO, TVPM
-
-email: rsanurag@yahoo.com
+By bus, frequent services from Trivandrum take around ninety minutes. An auto-rickshaw or taxi from Trivandrum airport costs more but gets you door to door — agree on the fare before you set off. The nearest airport is Trivandrum International, about fifty kilometers south.

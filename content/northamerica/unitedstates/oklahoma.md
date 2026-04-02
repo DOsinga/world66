@@ -1,25 +1,16 @@
 ---
-title: "Oklahoma"
+title: 'Oklahoma'
 type: location
 latitude: 34.955082
 longitude: -97.268406
 ---
 
-Many people in the world associate Oklahoma City with a terriorist act, while others think of the state as a desolate and windswept depression-era landscape that's described in Steinbeck's ***The Grapes of Wrath***.
+Oklahoma surprises people. Many associate it with the 1995 bombing or the dust-bowl despair of Steinbeck's *The Grapes of Wrath*, but the reality is a state with wide-open landscapes, deep Native American heritage, and two genuinely interesting cities.
 
-While the former is aware of it's past and celebrates the human sprit discovered from the tragic events of April 19, 1995; The latter is far from true now.
+[Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity), the capital, has reinvented itself with a lively Bricktown entertainment district, a moving National Memorial, and diverse cultural neighborhoods. [Tulsa](/northamerica/unitedstates/oklahoma/tulsa), the second city, is an art-deco gem built on oil money, with nationally renowned museums and a food scene that draws on Midwestern, Southern, and Southwestern traditions.
 
-There is a suprising amount to see and do in Oklahoma. With over 50 state parks and 2 National Historic sites, one National Battlefield in
-[Washita](/northamerica/unitedstates/oklahoma/washita) a National park in
-[Chickasaw](/northamerica/unitedstates/oklahoma/chickasaw), seven full-service resorts and 11 challenging golf courses, Oklahoma has a lot to offer year round.
+Beyond the cities, Oklahoma is outdoor country. Over 50 state parks, the Wichita Mountains Wildlife Refuge near [Lawton](/northamerica/unitedstates/oklahoma/lawton), and the Chickasaw National Recreation Area near [Ardmore](/northamerica/unitedstates/oklahoma/ardmore) offer hiking, camping, rock climbing, and fishing. The state has 48 towns along Historic Route 66, making it one of the best stretches for a road trip on the Mother Road.
 
-With over half a million people in the city and a metropolitan population of over 1.2 million, Oklahoma City is the biggest city in the state and is the state capital.
-[Tulsa](/northamerica/unitedstates/oklahoma/tulsa) is the other urban center. Both cities offer all the excitement and amenities of other big cities, with lots of outdoor opportunities just around the corner.
-[Bartlesville](/northamerica/unitedstates/oklahoma/bartlesville), just outside of Tulsa, is home to Frank Lloyd Wright's Price Tower which was the architect's only skyscraper.
+Oklahoma's Native American history runs deep. The state is home to 39 tribal nations, and places like [Tahlequah](/northamerica/unitedstates/oklahoma/tahlequah) (capital of the Cherokee Nation), [Pawhuska](/northamerica/unitedstates/oklahoma/pawhuska) (Osage Nation), and [Muskogee](/northamerica/unitedstates/oklahoma/muskogee) (Five Civilized Tribes Museum) offer real insight into Indigenous culture past and present. [Boley](/northamerica/unitedstates/oklahoma/boley), one of the few surviving all-Black towns from the early 1900s, is a significant stop for anyone interested in American history.
 
-## Destinations in Oklahoma
-
-[Oklahoma City](/world/northamerica/unitedstates/oklahoma/oklahomacity)
-[Tulsa](/world/northamerica/unitedstates/oklahoma/tulsa)
-[Stillwater](/world/northamerica/unitedstates/oklahoma/stillwater)
-[Midwest City](/world/northamerica/unitedstates/oklahoma/midwestcity)
+Route 66 towns like [Claremore](/northamerica/unitedstates/oklahoma/claremore) (Will Rogers Memorial), [Sapulpa](/northamerica/unitedstates/oklahoma/sapulpa) (glass and pottery heritage), [Chandler](/northamerica/unitedstates/oklahoma/chandler), and [El Reno](/northamerica/unitedstates/oklahoma/el_reno) give you the classic small-town Oklahoma experience. [Bartlesville](/northamerica/unitedstates/oklahoma/bartlesville) has Frank Lloyd Wright's only skyscraper, the Price Tower, and the Woolaroc Ranch with its western art collection and roaming buffalo.

@@ -1,21 +1,12 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
-type: "By Road"
-url: "www.greyhound.com"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
-Like most major cities, there are many ways to get to Oklahoma City. Here is a list of the best.
+**By air**, Will Rogers World Airport (OKC) is the main gateway, served by most major US carriers with direct flights to Dallas, Denver, Chicago, Houston, Atlanta, and other hubs.
 
-**Contributors**
-April 21, 2005
+**By car**, Oklahoma City sits at the crossroads of I-35 (north-south) and I-40 (east-west). I-44 (the Turner Turnpike) connects to [Tulsa](/northamerica/unitedstates/oklahoma/tulsa) in about 90 minutes.
 
-### By Bus
+**By bus**, Greyhound, Trailways, and Jefferson Lines serve the downtown bus terminal at 421 W Sheridan Ave.
 
-Oklahoma City has an original (but run down) bus terminal downtown at
-421 W Sheridan Ave. Trailways, Jefferson Lines, and Greyhound serve the
-city.
-
-type: By Road
+**By train**, Amtrak's Heartland Flyer runs daily between Oklahoma City and Fort Worth, Texas, with the station downtown.

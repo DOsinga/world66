@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-some things that you can do in Damascus is, go look at historical sites
+Damascus packs several thousand years of history into a walkable old city. The Umayyad Mosque and the souks get the most attention, but the museums and quieter corners of the Christian quarter reward a slower pace.

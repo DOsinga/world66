@@ -1,22 +1,8 @@
 ---
-title: "BACOLOD FIREWORKS FESTIVAL"
+title: 'Bacolod Fireworks Festival'
 type: poi
-accessibility: "Jeepneys and Taxi's"
-address: "SM CITY"
-date: "december"
-latitude: 7.049076
-longitude: 125.587953
+address: 'SM City, Bacolod'
+date: 'December'
 ---
 
-FIREWORKS OLYMPICS, held by SM CITY BACOLOD
-
-**Contributors**
-December 20, 2007
-
-
-
-accessibility: Jeepneys and Taxi's
-
-date: december
-
-address: SM CITY
+An annual fireworks competition held at SM City Bacolod in December. A spectacular way to close out the year.

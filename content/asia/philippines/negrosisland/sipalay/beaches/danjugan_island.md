@@ -1,30 +1,9 @@
 ---
-title: "Danjugan Island"
+title: 'Danjugan Island'
 type: poi
-address: "Sipalay City"
+address: 'Sipalay City'
 latitude: 9.749127
 longitude: 122.40406
 ---
 
-Very Beautiful, one of the World's Best Island Paradise.
-
-**Contributors**
-November 29, 2006
-
-
-
-
-
-address: Sipalay City
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A protected marine and terrestrial reserve off the coast of Sipalay. Salt water lagoons, diverse marine life, and lush vegetation. Home to the endangered white-breasted sea eagle.

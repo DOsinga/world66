@@ -1,18 +1,18 @@
 ---
-title: "Things to Do in Manchester"
+title: 'Things to Do'
 type: section
 ---
 
-**Manchester Things to Do **are diverse and plentiful. World-class galleries, theaters, cinemas, and first-rate shopping can all be found within the compact city center, and the drinking and dining scene caters to all tastes and budgets. Manchester's nightlife is famous the world over, and partiers won't want to miss the opportunity to hit the dance floor here.
+Manchester has a lot to offer the culturally curious. Although the city looks rather modern, some of its highlights are architectural -- the Cathedral and the Town Hall in particular. For those interested in how this industrial city came into being, a visit to the Museum of Science and Industry is essential. The museum offers not only exhibitions and hands-on scientific experiments but also recreated houses and streets from earlier Manchester.
 
-**Cultural Manchester**
+The city centre is prettier than it first appears. Look above the shop windows and you will find buildings in all styles, many different colours and stone types. Two buildings worth seeking out are the **Royal Exchange Theatre** in the former Cotton Exchange, which has a daytime cafe and an impressive interior, and the **Town Hall**, a neo-Gothic masterpiece with arches, corners, bridges, alleys and beautiful masonry. If the Great Hall is not in use you can see the wall paintings depicting events from Manchester's history.
 
-Culture vultures will find rich pickings in Manchester. The city prides itself on its diverse arts scene, and it's possible to take in everything from contemporary art to foreign films during a trip here. Manchester Art Gallery, the Chinese Arts Center, and Urbis offer diverse visual arts, while the Lowry Centre in nearby Salford is dedicated to the late LS Lowry, Manchester's most celebrated artist. Film fans should not miss the Cornerhouse on Oxford Road. This small, independent cinema shows limited-release foreign films and art house movies downstairs, while the upstairs bar features inventive DJ sets that make good use of film soundtracks. Of the city's many theaters, the Royal Exchange and Library Theatre host quality productions in an intimate setting, while the Palace Theatre on Oxford Road is the place for big budget shows and children's theater.
+**Castlefield** is a favourite spot for architecture -- named after the remains of a Roman fortress, it has old bridges and red-brick buildings from the heyday of the Industrial Revolution.
 
-** Dining in Manchester**
+**Manchester Cathedral**, restored and extended in Victorian times, retains visible remains of its medieval church. The side chapels and carvings are worth seeing, and there are accounts of the damage from the 1940 Blitz and the 1996 IRA bomb. Free entrance. Victoria Street.
 
-With an ethnically diverse population and a thriving culinary scene, Manchester offers the opportunity to sample food from across the world. The independent cafe bars of the Northern Quarter and Oxford Street are all excellent places to try imported beers and tasty, imaginative and inexpensive food, while those looking for more formal dining can take their pick from Italian pizza and pasta, Spanish tapas, Greek mezze, and even Mongolian barbeque. Manchester's Chinatown is the largest in Europe, and there are some excellent quality Chinese restaurants to be found here. Meanwhile, spicy types should make a beeline for Rusholme and Manchester's famous Curry Mile - here, visitors will find the largest concentration of Indian restaurants in the UK.
+**Town Hall**, designed by Alfred Waterhouse and completed in 1877, is a neo-Gothic palatial building with sculptures, stained glass windows, paintings and carved stone. The magnificent banqueting hall has painted murals depicting the history of Manchester. Free entrance. Albert Square.
 
-**Live Music and Nightlife**
+**Barton Arcade** on Deansgate is a beautifully restored Victorian glass arcade with shops and offices.
 
-Manchester has a reputation as a party city, and its musical history is much celebrated. Nightlife in the city is as diverse as it is lively - from sweatboxes pumping out underground dance sounds to vast discotheques and super-exclusive cocktail bars. Live music can be heard every night of the week, whether it's a major show at one of the city's arenas or stadiums, or an up and coming local bar at one of the legendary small venues such as the Roadhouse or Night and Day Cafe.
+Manchester Art Gallery, the Chinese Arts Centre and Urbis offer diverse visual arts, while the Lowry Centre in nearby Salford is dedicated to LS Lowry, Manchester's most celebrated artist. The Cornerhouse on Oxford Road shows limited-release foreign films and art house movies.

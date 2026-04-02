@@ -1,16 +1,10 @@
 ---
-title: "Bars and Cafes in Manchester"
+title: 'Bars and Cafes'
 type: section
 ---
 
-**Have a Drink at a Great Bohemian Bar in ****Manchester******
+**The Odd Bar**, at 30-32 Thomas Street in the Northern Quarter, is not only a great place to have a drink and make some new friends, but also a place where you can taste delicious food from an award-winning menu.
 
-When you&rsquo;re looking for something that stands out from all the regular **Manchester**** bars and cafes**, you will surely discover the Odd Bar on 30-32 Thomas Street in the Northern Quarter of Manchester. This bar is not only a great place to have a drink and make some new friends, but it is also a place where you can taste some delicious food from an award-winning menu.
+The classy interior and well-selected decor create a personality that most other bars lack. Highlights include a giant cinema screen projecting classic black and white films and movies by local filmmakers, monthly art exhibitions and numerous free DJ events.
 
-#### **The Atmosphere**
-
-The main thing that makes this bar different from the rest is the atmosphere. The classy interior and well-selected d&eacute;cor create a personality that most other bars lack. Some of the unique highlights are the giant cinema screen, projecting classic black and white movies and movies by local filmmakers, the monthly art exhibitions showing the work of local talents and the numerous free DJ events. All of these guarantee for a memorable experience.
-
-#### **The Menu**
-
-The Odd Bar offers a fantastic selection of beer from all over the world, including Czech, German, Thai and Argentinean. They have it all. Wine connoisseurs can choose from a wide selection of wines, and if you like stronger drinks you can choose from over 40 of the most renowned alcohol brands. You can complement your drinks with some excellent food. The also menu offers choices for vegetarians and vegans. Try the Odd&rsquo;s Saucy Steak Frites and Baaaburger or the vegetarian Loony Halloumi Sandwich.
+The Odd Bar offers a fantastic selection of beer from all over the world, including Czech, German, Thai and Argentinean. The menu offers choices for vegetarians and vegans -- try the Saucy Steak Frites and Baaaburger or the Loony Halloumi Sandwich.

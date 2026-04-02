@@ -1,14 +1,16 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**all**
+**By Air**
 
-**BritRail Passes**
+Manchester has an international airport with flights to many destinations across Europe and to the USA. The airport is less than 30 minutes from the city centre. A taxi from the city centre to Manchester Airport costs around 10 to 15 pounds in average traffic conditions.
 
-BritRail passes give you the the freedom to travel England, Scotland, and Wales at your own pace (Ireland package available).
+**By Train**
 
-**Manchester Airport**
+Manchester has two main railway stations -- Piccadilly and Victoria -- with frequent services to London (about two hours), Birmingham, Liverpool, Leeds and Edinburgh. The city is well connected to the rest of the UK rail network.
 
-Manchester has an international airport with flights to many airports on the continent and in the USA. The City's International Airport is less than 30minutes from the city-centre and the city's second airport, Glasgow Prestwick is within easy reach with its own purpose built rail station. A taxi from the city centre to Manchester Airport currently costs about £10.00 in average traffic conditions.  [more..](/europe/unitedkingdom/england/manchester_liverp/manchester/gettingthere/manchesterairport)
+**By Road**
+
+Manchester sits at the junction of several major motorways. The M6 connects it to the south and north of England, the M62 links it to Liverpool and Leeds, and the M56 provides access from the south-west.

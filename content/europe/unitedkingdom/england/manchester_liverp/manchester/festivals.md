@@ -1,18 +1,12 @@
 ---
-title: "Festivals in Manchester"
+title: 'Festivals'
 type: section
 ---
 
-**Manchester Festivals** represent the cultural influences that define the city of Manchester. Counted among the most-populous and commercially-developed cities of England, Manchester has managed to maintain its cultural connection. This aspect is best defined by the Manchester Festivals discussed below:
+**Manchester International Festival** is a biennial arts festival held in July, featuring world premieres of new works across visual arts, theatre and music. It is one of the most important cultural events in the north of England.
 
-**Rotherham Children's Book Festival**
+**Manchester Day** in June sees a colourful parade through the city centre with floats, music and street performances celebrating the city and its communities.
 
-This is among the most popular of contemporary, literary festivals of Manchester. Held usually during the last two weeks of July, it is hosted at the Rotherham Arts Centre. Rotherham is considered an intellectual part of Manchester and it boasts of many libraries. The festival is celebrated in the form of many events, spread across Manchester. This festival is ideally suited for family visitors. People can look forward to spending a few days in the company of teachers, authors, poets and school students from Manchester and neighboring cities. Most of the events are themed around story-telling sessions. Often well-known faces from the British media attend the event. Children can participate in cartoon-making and craft-making sessions. Another event includes small walking-tours around Manchester. This is aimed at helping the visitors get acquainted with the reading culture of Manchester&rsquo;s citizens.
+**Salford Dragon Boat Festival** is an annual event held during the summer at Salford Quays near the Lowry. Teams of rowers race dragon boats more than 40 feet long, accompanied by cultural events, fund-raiser parties and daytime picnics along the waterfront.
 
-- **Venue: **Rotherham Arts Centre, near** **Walker Place, Rotherham, Manchester
-
-**Salford Dragon Festival**
-
-An annual festival, held during July, the Salford Boat Festival engages mass participation across the United Kingdom. Various cultural events are arranged as a part of the pre-race activities. This includes fund-raiser parties and daytime picnics. Visitors should participate in this festival to get acquainted with the social customs of Manchester. However, the most popular event is the dragon boat-racing. Each of the dragon boats is more than 40-feet long and driven by at least 18 rowers. The race brings-out loud celebrations and cheering where teams representing various councils and boroughs participate for the prize.
-
-- **Venue:** along the Lowry, near Pier 8, Salford Quays, Manchester
+**Manchester Pride** takes place over the August Bank Holiday weekend in and around the Gay Village on Canal Street. It is one of the biggest Pride celebrations in the UK, with a parade, live music, and events across the city.

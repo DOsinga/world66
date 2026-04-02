@@ -3,9 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-The best way to get to Interlaken is by either train or PostAuto.
+Interlaken has two train stations: Interlaken West (closer to downtown) and Interlaken East (the starting point for mountain railways). Both are well connected to the Swiss rail network. Direct trains run from Bern in about an hour, and from Zurich or Basel with one change. The PostAuto bus network covers routes not served by rail.
 
-For more information go to [Getting Around in Switzerland](/europe/switzerland/getting_around).
-
-**Contributors**
-September 23, 2005
+The nearest airports are Bern (about an hour by train) and Zurich (two and a half hours). Budget carriers like EasyJet serve both.

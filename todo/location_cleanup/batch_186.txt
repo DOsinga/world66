@@ -1,6 +1,5 @@
 europe/georgia/gori/tianeti
 northamerica/bahamas/andros
-northamerica/bahamas/exumas
 northamerica/unitedstates/oklahoma/oolagah
 northamerica/unitedstates/ohio/getting_there_1
 northamerica/unitedstates/northcarolina/ocean_isle

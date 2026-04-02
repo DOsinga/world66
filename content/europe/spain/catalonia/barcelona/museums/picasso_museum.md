@@ -6,6 +6,7 @@ latitude: 41.385104
 longitude: 2.181201
 ---
 
+
 As one would probably predict based on the name of the place, the
 Picasso Museum has nothing but Picasso paintings. Make sure you set
 aside a few hours to accomodate this event. Waiting in line is at

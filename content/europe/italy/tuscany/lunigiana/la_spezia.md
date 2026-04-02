@@ -1,32 +1,14 @@
 ---
 title: "La Spezia"
 type: location
-latitude: 44.238366
-longitude: 9.691233
+latitude: 44.1024
+longitude: 9.8241
 ---
 
-Although best known as a naval base La Spezia is a surprisingly elegant city best seen on foot. Exotic palm-studded gardens line the sea front before giving way to the magnificent nineteenth-century gardens and the airy shaded arcades of the Via Chiodo. The classical architecture, wide avenues and arcades in turn give way to the old town centre. Today the centre of the town is a pedestrian area. The bustling Via del Prone is lined with small shops and stalls whilst the elegance of the Piazza Sant' Agostino speaks of an earlier time. 
+La Spezia is best known as a naval base and a jumping-off point for the Cinque Terre, but the city itself deserves more than a passing glance. Exotic palm-studded gardens line the seafront before giving way to the airy shaded arcades of Via Chiodo and the wide nineteenth-century avenues. The classical architecture feels almost Parisian in places, then gives way abruptly to the narrow lanes of the old town centre, now a pleasant pedestrian area.
 
-The site was inhabited in Roman times, but little is known of its history before 1276, when it was sold to Genoa by the Fieschi family. It became a maritime prefecture in the French Empire and then part of the Duchy of Genoa in the Kingdom of Sardinia. After the transfer of the military fleet from Genoa in 1857, it became a naval headquarters, and in 1923 it became the provincial capital. It was severely damaged by bombing in World War II. Notable landmarks include the medieval Castel S. Giorgio, the 15th-century cathedral (rebuilt since 1945), and the naval arsenal (1861–69, rebuilt since 1945), with the adjacent naval museum. The archaeological museum has a collection of menhirs (prehistoric monoliths) cut in the form of human figures and of Roman artifacts from the nearby ancient city of Luni. 
+The city has deep roots. Inhabited since Roman times, it passed through the hands of the Fieschi family, the Republic of Genoa, and Napoleon's French Empire before becoming a naval headquarters in the 1850s. World War II bombing destroyed much of the city, but reconstruction preserved the broad layout and key landmarks: the medieval Castel San Giorgio, the fifteenth-century cathedral, and the naval arsenal with its adjacent museum.
 
-For all its history and elegance La Spezia is also a modern city. As well as museums and libraries housing works of art from 4,000 BC to the present day, there are contemporary buildings including the new Kennedy shopping centre on the edge of town. 
+La Spezia is a working Italian city, not a museum piece. The bustling Via del Prione is lined with small shops and cafes, and the Piazza Sant'Agostino still has the unhurried elegance of an earlier era. The archaeological museum holds a remarkable collection of prehistoric menhirs carved in human form, plus Roman artifacts from the nearby ancient city of Luni.
 
-This same mix of ancient and modern can be seen in the secular and religious festivals held every year from the Festival of San Giuseppe, Patron Saint of the city, to the Festival Internationale del Jazz. 
-
-La Spezia is also very convenient for access to The Cinque Terre either by boat or train. 
-
-Events: 
-
-San Giuseppe, Patron Saint of the city (19th March)
-
-Palio del Golfo - boat race (1st Sunday in August)
-
-San Venerio, Patron Saint of the Gulf (13th September) 
-
-Festival Internationale del Jazz
-
-Biennale Golfo dei Poeti, International art exhibition
-
-New Year's Eve celebrations in the city
-
-Minor corrections on 18 September 04
+The city is extremely convenient for the Cinque Terre, reachable in minutes by train or by ferry in good weather. Portovenere and Lerici are also easy day trips from here.

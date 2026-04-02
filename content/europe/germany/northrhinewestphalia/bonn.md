@@ -1,22 +1,12 @@
 ---
 title: "Bonn"
 type: location
-latitude: 50.735262
-longitude: 7.102463
+latitude: 50.7374
+longitude: 7.0982
 ---
 
-Bonn may not be able to compete with the great cities of the world or even Germany, but it is a place of many attractions consisting of three once independent towns and numerous villages each with its own character and surrounded by beautiful countryside. 
+Bonn spent half a century as West Germany's unlikely capital -- a small Rhineland city thrust into the spotlight after the war, then quietly returned to civilian life when the government moved to Berlin in 1999. The result is a place with outsized cultural institutions and a relaxed university-town feel that catches visitors off guard.
 
+The city's roots run deeper than Cold War politics. For centuries Bonn was the residence of the Electors of Cologne, and their baroque palaces still define the skyline. The main university building occupies the former electoral palace, connected by the elegant Poppelsdorfer Allee to a second palace surrounded by botanical gardens. Beethoven was born here in 1770, and his legacy permeates the city -- from his birthplace museum on the Bonngasse to the annual Beethovenfest that draws international orchestras each autumn.
 
-
-
-
-
-
-
-
-
-
-For 50 years, Bonn has been identified with the German federal government, which established itself in the Gronau district between the town centres of Bonn and Bad Godesberg in 1949. The river view is now dominated by the parliamentary office building "Langer Eugen". A red arrow-like steel sculpture, "L'illume" by Marc di Suvero, on the Rhine embankment points out the former Parliament House to stollers on the promenade and passengers on the river boats alike. 
-
-But, in fact, Bonn's tradition as capital is much older: it served for centuries as the residence of the elector of Cologne, one of the more important princes of the Holy Roman Empire. From this time date the baroque palaces of Bonn, Poppelsdorf and Brühl (15 km/10 mi northwest of Bonn) and the spa of Bad Godesberg.
+The Museumsmeile along the road to Bad Godesberg packs four major museums into a single stretch, while the compact old town around the Marktplatz keeps its medieval street plan and a lively daily market. The Rhine promenade at the Alter Zoll offers one of the best river views in western Germany, looking across to the Siebengebirge hills. With over 30,000 students, Bonn has no shortage of affordable restaurants, lively bars, and the kind of easy-going atmosphere that makes it a genuinely pleasant place to spend a few days.

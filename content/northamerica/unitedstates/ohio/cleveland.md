@@ -1,12 +1,14 @@
 ---
-title: "Cleveland"
+title: 'Cleveland'
 type: location
 latitude: 41.499657
 longitude: -81.693677
 ---
 
-Cleveland is located on the shores of Lake Erie. It's quite a busy town with many things going on. One of the main attractions is that Cleveland is home to the Rock and Roll Hall of Fame! Where else can you relive the soundtrack of your life? In the museum you can experience over 50 exhibits, dynamic cinema presentations plus the world's largest single collection of rock and roll artifacts. 
+Cleveland sits on the southern shore of Lake Erie, a city that punches well above its weight in culture, food, and music. It is home to the **Rock and Roll Hall of Fame**, one of the most visited museums in the Midwest, and its cultural institutions in University Circle rival those of cities twice its size.
 
-Other attractions include the Botanical Gardens, which feature an indoor rainforest and butterfly sanctuary, beautiful outdoor gardens including a rose garden, Japanese garden, and an award-winning herb garden. Nearby is the free Cleveland Museum of Art featuring Picasso, Ansel Adams, Warhol, and more. Some of the best food in town can be found in Little Italy, right up the hill from the Gardens.
+The city's neighborhoods are its real strength. **Ohio City** has the magnificent [West Side Market](/northamerica/unitedstates/ohio/cleveland/sights/west_side_market) and the **Great Lakes Brewing Company**. **Tremont** mixes art galleries with dive bars and cutting-edge restaurants on oddly arranged streets. **Little Italy** serves old-world cuisine alongside contemporary interpretations near the intersection of Mayfield and Murray Hill Road. **Coventry Village** draws the college crowd with bookshops, cafes, and the intimate Grog Shop music venue. The **Warehouse District** downtown is where young professionals dress up and fill the sidewalk tables of chic restaurants along W. 6th Street.
 
-[Cuyahoga Valley](/northamerica/unitedstates/ohio/cuyahogavalley) and Garfield National Historic Site in Mentor can be seen as day trips from Cleveland.
+University Circle packs more cultural, educational, and medical institutions into a single square mile than almost anywhere else in the country. The free **Cleveland Museum of Art** features works by Picasso, Warhol, and Ansel Adams. The **Botanical Gardens** have an indoor rainforest, butterfly sanctuary, and beautiful outdoor gardens. **Rockefeller Park** stretches from University Circle to the lake, with cultural gardens honoring the city's many ethnic communities.
+
+Cleveland is also a serious food city. Downtown delis proclaim world-famous corned beef, Slavic Village and Chinatown offer authentic ethnic cooking, and the 24-hour diners along W. 117th make greasy-spoon dining an art form. [Cuyahoga Valley National Park](/northamerica/unitedstates/ohio/cuyahogavalley) is right on the doorstep for day trips.

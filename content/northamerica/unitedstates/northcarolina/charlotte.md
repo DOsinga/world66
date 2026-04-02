@@ -1,14 +1,14 @@
 ---
-title: "Charlotte"
+title: 'Charlotte'
 type: location
 latitude: 35.227209
 longitude: -80.843083
 ---
 
-Charlotte has a long history and walking through the center of the city is like walking back in the 18-th century. 
+Charlotte is North Carolina's largest city and the second-largest banking center in the United States after New York. But beyond the glass towers of Uptown, the city has genuine Southern character and a history that stretches back to the eighteenth century.
 
-The Historic Latta Plantation, Historic Rosedale or just an easy stroll through one of Charlotte's beautiful historic neighborhoods are highlights that give you an impression of what life in the Old South was like. 
+Walking through the center of the city is like walking back in time. The **Historic Latta Plantation**, **Historic Rosedale**, and the beautiful historic neighborhoods give you an impression of what life in the Old South was like. Charlotte was twice occupied by enemy troops during the Revolution, earning it the nickname "The Hornet's Nest" for the fierce resistance of its residents.
 
-For people interested in modern stuff, head for the Discovery Place, one of the nation's top hands-on science museums with a Planetarium and Omnimax Theatre. Recent Omnimax treats have included "Michael Jordan...to the Max". 
+For something more modern, **Discovery Place** is one of the nation's top hands-on science museums, with a planetarium and IMAX theatre. The city's food scene has grown considerably, with a concentration of good restaurants in the South End and NoDa districts.
 
-Nightlife in Charlotte can be very exciting too. Take a stroll down Tryon Street or a trolley tour through the South End district end you can get a taste of all the restaurants and bars that are on offer.
+Nightlife in Charlotte can be lively. Tryon Street downtown and the South End district are lined with restaurants and bars. A trolley connects many of the South End venues, making it easy to explore on a night out.

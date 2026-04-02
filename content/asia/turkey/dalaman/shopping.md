@@ -1,32 +1,24 @@
 ---
-title: "Shopping in Dalaman"
+title: "Shopping"
 type: section
 ---
 
-There are always places to shop in the Dalaman area. From the traditional bazaars to the high end designer style shops, every taste is catered to.
+Shopping in the Dalaman area ranges from traditional bazaars and weekly markets to small village shops. Prices are generally reasonable, and haggling is expected and enjoyed.
 
 **Markets**
 
-There are markets in Koycegiz, Marmaris, Ortaca and Fethiye. All of these markets are very similar, and you'll often spot the same sales people in each location. Fethiye market, which takes place on a Tuesday, is the largest in the Dalaman area. There is also a specific tourist market in Sarigerme. Potential shoppers at this market should note that it is not cheaper than the shops in the village, and that stall owners in this market can be pushy and rude at times. No locals actually shop here, and a potentially better option would be to visit the aforementioned shops in the village.
+Weekly markets run in Koycegiz, Marmaris, Ortaca, and [Fethiye](/asia/turkey/fethiye). The Fethiye Tuesday market is the largest in the area — pungent spices, fresh produce, and the inevitable "designer" watches and clothing. You will often spot the same sellers at different markets. Sarigerme has a tourist-oriented market, but it is no cheaper than the village shops and the stallholders can be pushy. Locals avoid it. The Saturday market in [Dalyan](/asia/turkey/dalyan) is worth a visit for both fresh produce and souvenirs.
 
-Be careful while perusing these tourist markets. As in all countries, opportunistic thieves are not uncommon, although nothing to be unnecessarily worried about. Use common sense and do not keep valuables on display.
+**Haggling**
 
-**Hotel Shops**
+The Turkish love to haggle. Let the shopkeeper quote first, then negotiate in good spirits. Once you agree on a price, it is rude not to buy. In smaller shops, expect to be offered apple tea — accept it, it is part of the experience.
 
-On the whole and as a general rule, hotel shops in this area have what they consider as a captive audience market, and therefore charge well over the going price for items which could be purchased for half the cost in the local shops.
+**Carpets**
 
-**Haggling and Bargaining**
+Carpet weaving in Turkey dates back to around 7,000 BC. There are numerous carpet shops in the Dalaman region, and buying a handwoven Turkish carpet can be a memorable purchase if you know what you are looking for.
 
-The Turkish love to haggle. When you're quoted a price and it seems too high, feel free to try to cut the shopkeeper down a little. This must always be done in good spirits, and bear in mind that once a price is agreed upon, it's rude not to buy. Also, let the shopkeeper quote their asking price before offering an idea of what you expect to buy the item for!
+**Practical Tips**
 
-It is normal in the smaller shops in Turkey for the shopkeeper to invite you to drink some apple tea with him. As a rule, shopkeepers in the Dalaman area are very welcoming and as with the rest of the county, are very hospitable to tourists.
+Shops are generally open from 8am to 10pm, and even later in summer. Jewellery is a good buy in the larger shopping areas of Marmaris, though counterfeit watches and goods are everywhere. The Grand Bazaar at Dalaman Airport is convenient for last-minute gifts but extremely overpriced. Hotel shops are similarly inflated — buy in town instead.
 
-**Carpet Shops**
-
-Carpet weaving in Turkey can be traced back as far as 7,000 B.C. There are many carpet shops in the Dalaman region.
-
-**Places of Interest and Handy Tips**
-
-The Grand Bazaar at Dalaman Airport is good for picking up those last minute gifts, but is extremely pricey. Shops are generally open from 8:00am until 10:00pm or even later in the summer months. Jewelry is a good buy, especially in the larger shopping areas of Marmaris, but be aware of the amount of counterfeit watches and other items in circulation.
-
-Dalaman has an extensive range of fairly priced shops.
+Keep valuables secure at busy markets. Opportunistic theft is not common but not unheard of either.

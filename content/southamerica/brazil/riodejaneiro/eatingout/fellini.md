@@ -4,7 +4,6 @@ type: poi
 address: "Rua General Urquiza 104, Leblon"
 phone: "(21) 2511-3600"
 price: "about R$15-R$25"
-type: "International"
 url: "www.fellini.com.br"
 latitude: -22.986401
 longitude: -43.223521
@@ -15,22 +14,3 @@ For those who lives or visits the Zona Sul of Rio, Fellini is the best option in
 **------------------------------------------
 
 **
-
-**Contributors**
-September 11, 2007
-
-February 07, 2008
-
-type: International
-
-
-
-
-
-tel: (21) 2511-3600
-
-url: [www.fellini.com.br](http://www.fellini.com.br)
-
-address: Rua General Urquiza 104, Leblon
-
-PriceOfMenu: about R$15-R$25

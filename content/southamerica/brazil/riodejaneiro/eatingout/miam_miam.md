@@ -4,7 +4,6 @@ type: poi
 address: "Rua General Góes Monteiro, 34 - Botafogo"
 phone: "(21) 2244-0125"
 price: "$$$"
-type: "International"
 url: "www.miammiam.com.br"
 ---
 
@@ -15,20 +14,3 @@ url: "www.miammiam.com.br"
 **To drink ask for the pineapple with pepper drink, mad with absolut pepper, lemon, pineapple and mint.**
 
 **If you want to revives the good memories of a homeade food made with sophistication, and stop by a nice place to eat, go to Miam Miam!**
-
-**Contributors**
-August 04, 2008
-
-type: International
-
-
-
-
-
-tel: (21) 2244-0125
-
-url: [www.miammiam.com.br](http://www.miammiam.com.br)
-
-address: Rua General Góes Monteiro, 34 - Botafogo
-
-PriceOfMenu: $$$

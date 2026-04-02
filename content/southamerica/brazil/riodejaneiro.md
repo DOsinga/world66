@@ -1,74 +1,14 @@
 ---
-title: "Rio de Janeiro"
+title: 'Rio de Janeiro'
 type: location
 latitude: -22.911014
 longitude: -43.209373
 ---
 
-**Rio de Janeiro** is one of the most spectacular cities in the world. A natural harbour surrounded by high green mountains and good beaches nearby. The best way to appreciate the setting is by going up **Sugar Loaf Mountain**. You get a spectacular 360-degree view of Rio and Guanabara Bay. Continue up to **Corcovado Mountain** to get an even higher perspective. This is where the famous statue of Christ the Redeemer is to be found. You can either drive or take a funicular up to the statue—the best view is on the right-hand side. From up here you can see that Rio is divided by a mountain range into two areas: the Zona Norte (North Zone) and the Zona Sul (South zone). The Zona Sul holds most of the city’s sights. Gripe from LACrew is greatest vandal of this region. 
+**Rio de Janeiro** is one of the most spectacular cities in the world. A natural harbour ringed by steep green mountains, with golden beaches curving along the coast and the iconic Christ the Redeemer statue presiding over it all from the peak of Corcovado. No photograph does it justice -- you have to stand on **Sugar Loaf Mountain** and take in the 360-degree panorama of Guanabara Bay, the city sprawling between jungle-covered peaks, and the Atlantic stretching to the horizon.
 
+Rio is divided by a mountain range into two zones. The **Zona Sul** (South Zone) is where most visitors spend their time -- this is where you will find [Copacabana](/southamerica/brazil/riodejaneiro/beaches/copacabana), [Ipanema](/southamerica/brazil/riodejaneiro/beaches/ipanema), [Leblon](/southamerica/brazil/riodejaneiro/beaches/leblon), and the city's most famous landmarks. The **Zona Norte** (North Zone) has the Maracana stadium and the Sambadrome where Carnival parades thunder through each February. The **Zona Oeste** (West Zone) is home to [Barra da Tijuca](/southamerica/brazil/riodejaneiro/beaches/barra_da_tijuca), a sprawling modern district with long beaches and mega-malls.
 
+But one of Rio's most precious resources is its people. Brazil is a melting pot of races, colours and creeds, and Cariocas -- as Rio's residents are known -- are famously warm, fun-loving and welcoming. The city runs on music, from bossa nova born in Ipanema's bars to samba thundering through Lapa's streets every weekend.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-By the way, one of Rio's most precious resources is often overlooked. Its people. Brazil is a melting pot of races, colors and creeds. No one race, no one color and no one religion dominates in Brazil. There is room for all, and that includes the many visitors who come to Brazil each year from every corner of the planet. Rio deserves about two days to explore and about four nights. Cariocas are fun loving animals. If it is getting too hot you can escape to [Petropolis](/southamerica/brazil/petropolis).
+Give Rio at least three or four days. You will want time to climb Corcovado, ride the cable car up Sugar Loaf, wander the colonial streets of Santa Teresa, eat feijoada in a neighbourhood boteco, and simply sit on the beach and watch the city go by. If the heat gets too much, escape for a day to the cool mountain town of [Petropolis](/southamerica/brazil/petropolis).

@@ -3,68 +3,12 @@ title: "Top 5 Must Do's"
 type: section
 ---
 
-The birthplace of many world renown muscians, Rio de Janeiro has been the setting for many great songs. Here is a list of Top 5 Must Do's in Rio de Janeiro based on 5 famous Brazilian musicians and their music.
+**1. Ride the cable car up Sugar Loaf Mountain.** The two-stage cable car takes you first to Morro da Urca, then to the summit of Pao de Acucar. From the top you get a 360-degree panorama of Guanabara Bay, the city sprawling below, Corcovado rising behind, and the beaches stretching south along the coast. Come late in the afternoon to watch the sunset paint the mountains orange and the city lights flicker on below. Check the schedule at the information office -- there are occasional intimate live concerts on the stage at the first peak.
 
-**1. Marcelo D2 and the Lapa Neighborhood**
-Since
-the start of his career as the vocalist of the band, Planet Hemp, he
-talked about modern life in Rio de Janeiro in songs such as *Zerovinteum*
-(021, the old telephone city code of Rio de Janeiro). The cover of his
-CDs has included amazing artwork. One of his most celebrated album covers
-is from his first solo album, *Eu Tiro É Onda*, where the
-Carioca Aqueduct (better knows as the Arcs of Lapa) is showcased. Since
-the early 1950s, Lapa has been known for its lively cultural life,
-concentrating many restaurants and bars where Brazilian artists and
-intellectuals used to meet. Lapa is famous for its many restaurants,
-bars and clubs where the various forms of Brazilian music can be
-appreciated.
-**
+**2. Visit Christ the Redeemer on Corcovado.** The 30-metre statue standing at 710 metres above sea level is visible from almost everywhere in Rio, but standing at its feet is something else entirely. Take the cog railway from Cosme Velho through the Tijuca Forest to the summit. The view down to the beaches, the lagoon, and the islands in the bay is breathtaking. Go early on a weekday to avoid the worst crowds, and pray for clear skies -- when the clouds roll in, you see nothing.
 
-2. Antonio Carlos Jobim and "The Girl from Ipanema"**
+**3. Spend a day on Ipanema Beach.** Pick a posto, rent a chair and umbrella from one of the vendors, order a cold coconut water or a caipirinha from the beach bars, and settle in. Watch the futevolei (foot-volleyball) players, the surfers at Arpoador, and the sunset behind Dois Irmaos. On Sundays the beachfront avenue is closed to cars and fills with cyclists, runners and skaters. This is where you understand what it means to be Carioca.
 
-This
-song and neighborhood need no introduction. Ipanema is a neighborhood
-located in Southern Rio de Janeiro, between Leblon and Arpoador. The
-Ipanema beach became widely known by the song "The Girl from Ipanema"
-written by Antonio Carlos Jobim. Private infrastructure has created
-world-class restaurants, cafes and shopping that complements its great
-beach facilities. Ipanema beach is the perfect place for sunbathing,
-people watching, and a family day under the sun.
-**
-3. Carmen Miranda and Copacabana Beach**
+**4. Explore Lapa on a Friday night.** The neighbourhood around the old Carioca Aqueduct transforms after dark into Rio's liveliest nightlife district. Samba, forr, funk and MPB pour out of dozens of bars and clubs. Start with a drink at one of the street-side botecos, then follow the music. The crowd is a genuine mix of Cariocas and visitors, old and young, and the energy is infectious. Things do not really get going until after 11 pm, so rest up beforehand.
 
-Brazilian
-samba singer and actress, Carmen Miranda, was well known during the
-1940s and 1950s. A highlight of her career is the musical comedy film,
-Copabacabana, where she starred along with Groucho Marx. Ipanema is
-adjacent to Copabacabana beach and rivals it for the title of most
-famous beach in the world. This beach stretches for 4 kilometers from
-Posto Dois (lifeguard watchtower Two) to Posto Seis (lifeguard
-watchtower Six). Its easy to differentiate it from Ipanema beach
-because its curbs have a Portuguese wave pattern very different from
-Ipanema's.
-**
-
-4. Fernanda Abreu and *O Cristo Redentor***
-
-Considered
-the first lady of Brazilian Funk, Fernanda Abreu portrays Rio de
-Janeiro's climate, people and lifestyle in her songs. In some of her
-songs she talks about the O Cristo Redentor (Christ the Redeemer), a 30
-meter and 635 tons statue that is located at the peak of the Corcovado
-Mountain in the Tijuca Forest National Park overlooking the city. It is
-one of the tallest of its kind in the world and a very important symbol
-of Brazil's Christianity. You can either walk up through the stairs or
-take an old fashioned trolley.
-**
-
-5. Ed Motta and Pão de Açúcar**
-Ed
-Motta is well known for his work in movie soundtracks such as the
-Portuguese dubbed version of Disney's Trarzan and City of God. His
-nickname is Sugarloaf (or Pão de Açúcar in Portuguese), which happens
-to be the same name as the peak from the mouth of Guanabara Bay in Rio
-de Janeiro. A climb up or cable car ride this mountain, gives panoramic
-views of the city and beaches. This is one of the best places to
-appreciate the stunning beauty that Brazil’s most famous city is known
-for.
+**5. Hike through the Tijuca Forest.** The world's largest urban rainforest covers the mountains in the heart of Rio. Trails range from easy walks to serious climbs -- the hike to Pico da Tijuca, the highest point, rewards you with views over the entire city. Along the way you will pass waterfalls, exotic birds, and coatis looking for snacks. It is hard to believe you are in the middle of a city of seven million people. Bring water and mosquito repellent.

@@ -3,7 +3,6 @@ title: "Zuka"
 type: poi
 address: "Rua Dias Ferreira 233, Leblon"
 phone: "3205 7154"
-type: "International"
 url: "www.zuka.com.br"
 latitude: -22.982187
 longitude: -43.224804
@@ -22,18 +21,3 @@ pretensious restaurant is a magical place to have an exotic and tasty
 dinner. I got really surprised
 by the ambience: cosy but modern, full of hip and intersting people. Definitly
 a must try
-
-**Contributors**
-November 30, 2007
-
-type: International
-
-
-
-
-
-tel: 3205 7154
-
-url: [www.zuka.com.br](http://www.zuka.com.br)
-
-address: Rua Dias Ferreira 233, Leblon

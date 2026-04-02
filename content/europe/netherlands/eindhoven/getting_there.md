@@ -3,10 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-The easiest way to reach Eindhoven is to take the plane directly to Eindhoven Airport. Since not much flights land in this city, you will probably travel from Amsterdam's airport Schiphol or Rotterdam's airport.
+Eindhoven Airport handles a steady stream of budget flights (Ryanair, Transavia, Wizz Air) from across Europe. The airport is about 8 km west of the centre; bus 400 or 401 runs to the central station in 20 minutes.
 
-First one is about 3 hours drive from Eindhoven. By train you have to take the one heading for Amersfoort/Enschede and then get out at Duivendrecht. Here you continue your journey with the train to Utrecht CS/Eindhoven or Utrecht CS/Maastricht (total traveltime is 2,5 hrs).
-
- When arriving at Rotterdam you can take the train in direction Gouda/Utrecht and get out at Utrecht. The trains you then can take to Eindhoven are the ones to Hertogenbosch/Eindhoven, Hertogenbosch/Maastricht, Dordrecht/Venlo or Dordrecht/Heerlen (about 1,5 hrs).
-
- Tour buses will probably arrive at the central station in Eindhoven which is very close to its city-centre.
+If you fly into Amsterdam Schiphol, take a direct intercity train to Eindhoven Centraal (about 1 hour 20 minutes). From Rotterdam, the train takes roughly 1 hour with a change at Breda. Tour buses and long-distance coaches arrive at the central station, which is a short walk from the city centre.

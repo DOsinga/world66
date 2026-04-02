@@ -1,23 +1,10 @@
 ---
-title: "Beaches"
+title: 'Beaches'
 type: section
 ---
 
-NEW WEST END BEACH IS GOOD FOR BEACH-GOERS
+Dauphin Island has two main beach areas. The public beach near the pier and Red School is the traditional spot, with easy access and the island's main cluster of restaurants nearby.
 
-Only a few weeks ago Bienville Boulevard on Dauphin Island's west side came to an abrupt end among dunes, debris and a barren expanse of beach rarely visited by anyone other than the locals. But now that somewhat forgotten tract of real estate is open to the public at the new West End Beach park.
+The **West End Beach** park on the island's west side offers a more resort-like experience. Two hundred palm trees line the entrance, and the Tiki Village of authentic structures imported from Bali houses food vendors, souvenir shops, and water sport gear. There are restrooms, changing areas, showers, and canvas shade structures with misting systems. Lifeguards and security are on duty. Entry is $20 per vehicle, but walk-ins are free.
 
-At 400-feet deep and stretching from the gulf side to the bay, the WEB, as it's known locally, was designed as a family-friendly, themed alternative to the long time public "playground" near the Red School and pier.
-
-More like a tropical resort than a typical gulf coast beach, the park features two-hundred palm trees lining the entrance and strategically placed throughout the property. The Tiki Village of authentic structures imported from Bali houses vendors serving up food and drinks, souvenirs, water sport and fishing gear, beach umbrellas, and more.
-
-A 32-foot long portable stainless comfort station provides clean restrooms and changing areas for beach-goers, with shower-off facilities nearby. The WEB's canvas-topped shade structures are outfitted with misting systems to offer a cool escape from the summer sun.
-
-While swimmers enjoy the Gulf sand and surf, anglers can fish the bay side of the West End Beach among acres of natural vegetation and wildlife.
-
-Given its family-oriented nature, the WEB will be staffed with lifeguards and security to help ensure a pleasant experience for guests.
-
-There is a $20.00 charge per vehicle to enter the West End Beach, but walk-ins are free.
-
-**Contributors**
-June 16, 2008
+The west end beach stretches from the Gulf side to the bay, so anglers can fish the bay side among natural vegetation while swimmers enjoy the Gulf surf on the other.

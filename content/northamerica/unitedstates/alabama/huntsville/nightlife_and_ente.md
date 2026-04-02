@@ -1,8 +1,6 @@
 ---
-title: "Nightlife and Entertainment"
+title: 'Nightlife and Entertainment'
 type: section
 ---
 
-Downtown Huntsville has the Jazz Factory and Humphrey's for live music and drinks until morning.
-
-Humprey's has no cover charge and live music nightly, for a list of bands or more information: http://www.washingtonsq.com/band.htm
+Downtown Huntsville has a small but lively scene. **The Jazz Factory** and **Humphrey's** are the main spots for live music and drinks. Humphrey's has no cover charge and live music nightly.

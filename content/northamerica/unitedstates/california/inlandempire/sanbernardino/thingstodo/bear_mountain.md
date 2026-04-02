@@ -1,21 +1,7 @@
 ---
-title: "Bear Mountain"
+title: 'Bear Mountain'
 type: poi
-email: "info@bigbearmountainresorts.com"
-type: "Skiing"
-url: "www.bearmountain.com"
-latitude: 42.044991
-longitude: -73.454586
+url: 'www.bearmountain.com'
 ---
 
-Now associated with Snow Summit this was known as Moonridge and Goldmine previously.
-
-type: Skiing
-
-
-
-
-
-url: [www.bearmountain.com](http://www.bearmountain.com)
-
-email: info@bigbearmountainresorts.com
+Previously known as Moonridge and Goldmine, Bear Mountain is now part of Big Bear Mountain Resorts alongside Snow Summit. Together they form Southern California's premier ski destination in the [Big Bear Lake](/northamerica/unitedstates/california/inlandempire/bigbearlake) area.

@@ -1,20 +1,14 @@
 ---
-title: "When to Go in Alexandria"
+title: 'When to Go'
 type: section
 ---
 
-If you're planning a trip to **Alexandria, when to go** will likely be on your mind. For travel to Alexandria, when to go should include consideration of several factors: weather, peak travel time and the culture. Here's a look at each and what you can expect so that when you take your trip to Egypt you'll be happy about your time choice.
+Alexandria's Mediterranean climate makes it comfortable for much of the year, and significantly more pleasant than [Cairo](/africa/egypt/cairo) in summer.
 
-**Weather**
+**Winter (November to April)** -- Mild and pleasant, with daytime temperatures around 18 to 22 degrees C and cooler evenings dropping to around 10 degrees. Some rain falls between December and February. This is the peak tourist season for Egypt as a whole, so expect higher prices and busier hotels.
 
-- **Winter** in Alexandria lasts from November through April and is very mild. Temperatures usually hover around 20 to 22 degrees C, with drops to around 10 degrees C at night. Bring plenty of layers so that you're prepared for both the warmer days and the cooler evenings.
-- **Summer **is from May through October and is much warmer, with temperatures usually between 30 and 32 degrees C during the day, again with cooler nights. The drop in temperature at night isn't as drastic in the summer, but you'll probably still want a light jacket or scarf just in case. It can get humid, but sea breezes keep the days cool and bearable.
+**Summer (May to October)** -- Warmer, with daytime temperatures between 28 and 32 degrees C. Sea breezes keep the heat bearable, which is exactly why Egyptians from Cairo and the Delta descend on the city in July and August. Beaches get crowded, restaurants fill up, and the city buzzes with a summer-resort energy. Prices are lower for foreign tourists, but expect congestion.
 
-**Peak Travel Time**
+**Ramadan** -- The holy month shifts through the calendar year. During Ramadan, most restaurants and cafes close until sunset, and the pace of daily life slows considerably during daylight hours. Evenings, by contrast, become lively with iftar meals and socializing.
 
-- **Tourists **flock to Egypt and Alexandria between December and March, with November to February being the peak travel times. Book flights and hotels early, and keep in mind that costs will be higher.
-- **Locals **from other areas of Egypt arrive on the doorstep of Alexandria in the hotter summer months of July and August, as the days are usually much cooler by the sea than in other areas of Egypt. Prices at this time are still cheaper for tourists, but be aware that shops, restaurants and transportation can become congested.
-
-**Culture**
-
-- **Ramadan** occurs in the ninth month of the Islamic calendar (usually August, occasionally including several days or weeks in July or September). If you're visiting Alexandria, and when to go is a consideration, keep in mind that during Ramadan most establishments are closed until nightfall.
+The best time for sightseeing is **October to November** or **March to April** -- warm enough for the beach, cool enough for walking, and outside both the tourist peak and the Egyptian summer rush.

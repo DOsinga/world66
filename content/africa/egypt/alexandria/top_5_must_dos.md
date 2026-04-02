@@ -1,26 +1,24 @@
 ---
-title: "Top 5 Must Do's in Alexandria"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-**Alexandria must do's** include a wide range of interests, and will appeal to lovers of history, archaeology, nature, and more. Whether you're 5 or 85, with friends or with your family, you'll want to see the best that Alexandria has to offer. Here's a look at the top 5 Alexandria must do's, all of which make excellent additions to your trip itinerary.
+**1. The Bibliotheca Alexandrina**
 
-**1. The Library of Alexandria**
-
-While the world still mourns and speculates over the loss of the Great Library of Alexandria of ancient times, you can still visit the new Library of Alexandria. First, roam around the outside of the building to take a look at the sundial that only tells the time when you stand on a stone and allow your own shadow to be the time-keeper. You can also search for your native tongue carved into the walls of the library. The library itself contains several specialized libraries, four museums, a planetarium, and numerous exhibitions and research centers.
+The new Library of Alexandria is one of the most ambitious cultural buildings of the twenty-first century. Before you go inside, walk around the exterior: stand on the sundial and let your own shadow tell the time, then search for your native script among the alphabets carved into the walls. Inside, you will find several specialized libraries, four museums, a planetarium, and rotating exhibitions. It is a conscious echo of the ancient Library, and it works.
 
 **2. The Citadel of Qaitbey**
 
-Visit the fort of Alexandria for a peak into history that goes far beyond the 1480's, when the fort itself was built. Fort Qaitbey was built on the site of the Lighthouse of Alexandria, one of the wonders of the ancient world. See if you can spot remains of the lighthouse in the structure of the fort. You can head inside to see the Naval Museum, or, if you're interested in the marine life, visit the aquarium built next door.
+This fifteenth-century fort was built on the exact site of the Lighthouse of Alexandria, one of the Seven Wonders of the ancient world. Look carefully and you can spot pieces of the original lighthouse incorporated into the fort's walls. Inside is a small Naval Museum, and next door an aquarium. The views from the ramparts across the Eastern Harbor are excellent.
 
-**3. Beaches in Alexandria**
+**3. The Beaches at Sunset**
 
-Nature lovers are sure to enjoy Alexandria's location along the banks of the Mediterranean Sea. Wonder down to the beach just before sunset to enjoy absolutely incredible views as the coast quickly blazes before slowly descending into soft pinks and purples. You can watch the fishermen from the sea wall, join the kids in a game of soccer in the sand, or just relax and perhaps wade in the water. The beaches in Alexandria are the perfect way to end the day's activities before enjoying a delicious meal in the city.
+Alexandria's relationship with the sea is the thing that sets it apart from every other city in Egypt. Walk down to the corniche just before sunset to watch the light turn golden over the Mediterranean. Fishermen cast from the sea wall, kids play football on the sand, and the whole city seems to pause for a moment. It is the perfect way to end a day of sightseeing before heading to dinner.
 
-**4. The Roman Theater**
+**4. The Roman Theater at Kom el-Dikka**
 
-The open-air museum situated around the Roman Theater includes ancient artifacts from around Alexandria, including pieces that were once a part of the Lighthouse of Alexandria. There are also several sphinxes and statues of various pharaohs of Egypt. The theater itself is still impressive, with its key focal point being the stone situated in the center where you can stand, speak in the softest of whispers, and hear your voice amplified to a shout that can be heard throughout the stadium.
+The open-air museum around the Roman theater holds ancient artifacts recovered from across Alexandria, including pieces that were once part of the Lighthouse. There are sphinxes and pharaonic statues scattered about. The theater itself is small but beautifully preserved, and its acoustic trick is famous: stand on the central stone, speak in the softest whisper, and hear your voice amplified to a shout that fills the entire space.
 
-**5. Diving in Alexandria**
+**5. Diving the Underwater Ruins**
 
-While it's great to see the artifacts that have been recovered in Alexandria, why not take advantage of the opportunity to see many of them still* in situ*? Book a diving trip to explore the Mediterranean sea around the city, including the sight of the Lighthouse of Alexandria. You'll see remnants of the lighthouse itself, Roman columns, sphinxes, Cleopatra's city, and more. It's an incredible experience that ranks high in Alexandria must do's.
+While it is one thing to see Alexandria's recovered artifacts in museums, it is quite another to see them still in situ on the seabed. Book a diving trip to explore the submerged remains of the Lighthouse, Roman columns, sphinxes, and the ruins of Cleopatra's royal quarter. It is an experience unique to Alexandria and one of the most remarkable dives in the Mediterranean.

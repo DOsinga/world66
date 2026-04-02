@@ -1,10 +1,10 @@
 ---
 title: "Boothbay Harbor"
 type: location
-latitude: 43.851252
-longitude: -69.627804
+latitude: 43.8513
+longitude: -69.6278
 ---
 
-Travel Guide
+Boothbay Harbor is a classic Maine coastal village on a protected inlet about an hour north of Portland. The harbor is the center of activity -- whale watching and puffin cruises depart from the waterfront, and the shops and restaurants along the narrow streets cater to summer visitors without feeling entirely overrun.
 
-Content coming soon.
+The Coastal Maine Botanical Gardens, just outside town, are worth the trip on their own. In June the town hosts Windjammer Days, when tall ships fill the harbor.

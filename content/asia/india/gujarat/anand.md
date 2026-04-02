@@ -1,17 +1,8 @@
 ---
-title: "Anand"
+title: 'Anand'
 type: location
 latitude: 22.558656
 longitude: 72.962723
 ---
 
-It is located between Ahmedabad and Vadodara. Anand is known as Milk
-Capital of India, because of Sardar Patel starts Co-operative movement
-, and Dr. Verghese kurian leads GCMMF (Gujarat Co-operative Milk
-Marketing Federation).
-
-It is also main Junction of Ahmedabad-Vadodara Expressway - 1.
-
-Any Train from Ahmedabad Mumbai route connect it.
-
-Distance : 65 Kms from Ahmedabad and 39 Kms from Vadodara.
+Anand sits between [Ahmedabad](/asia/india/gujarat/ahmedabad) and [Vadodara](/asia/india/gujarat/vadodara) on the main railway line, about 65 km from Ahmedabad and 39 km from Vadodara. It is known as the Milk Capital of India -- this is where Dr Verghese Kurien built the cooperative dairy movement that became Amul and transformed India's dairy industry. The Amul Dairy plant can be visited, and the story of the cooperative is one of India's great development successes.

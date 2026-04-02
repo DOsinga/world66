@@ -1,12 +1,10 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-There are Three Options as usual. By Air, By Road and By Rail.
+**By Rail:** The nearest railway station is at Veraval, 7 km away, with connections to [Ahmedabad](/asia/india/gujarat/ahmedabad) and other Gujarat cities. Local taxis and rickshaws are available from the station.
 
-  **By Road: ** Somnath is well connected by road via Veraval. Other diatances: Bhavnagar 266 kms, Junagadh 80 kms, Chowad 26 kms, Porbandar 122 kms, Ahmedabad 400 kms and Bombay 889 kms. If you are going by car, it might be a wise idea to take a Road Map Route from the nearest ** WIAA ** Office, which costs some 20 Rs. Go to the 'looking for other WIAA' on the www.wiaa.com site if you want to ind more info mon India. Gor getting around in the city, there are plenty of local taxis and rickshaws available.
+**By Air:** The nearest airport is at Keshod, 55 km away, with limited domestic connections.
 
-  **By Air: ** The nearest airport is at Keshod and connected by Vayudoot Services, which is at 55 kms from the city.
-
-  **By Rail: ** The nearest railway station is at Veraval at a distance of 7 Kms and is well connected with Ahmedabad.
+**By Road:** Somnath is well connected by road via Veraval. Key distances: [Junagadh](/asia/india/gujarat/junagadh) 80 km, Porbandar 122 km, Bhavnagar 266 km, [Ahmedabad](/asia/india/gujarat/ahmedabad) 400 km, Mumbai 889 km. State transport buses run on most routes.

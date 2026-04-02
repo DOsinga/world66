@@ -1,8 +1,10 @@
 ---
-title: "Nightlife and Entertainment"
+title: 'Nightlife and Entertainment'
 type: section
 ---
 
-Unfortunately Ahmedabad doesn't really boast a vibrant nightlife, however when it comes to Art and Entertainment, there's one stop you can't miss. The Darpana Academy of Performing Arts, founded by Mrinalini Sarabhai in 1949 is one of India's most prestigious performing arts institutions. The school offers short and long term courses in Classical Indian Dance, Music, Theatre, Martial Arts and Puppetry. Natarani, its amphitheatre is home to the Vikram Sarabhai International Arts Festival that runs in December every year, bringing to Ahmedabad artists from all over the world. Natarani also has frequent performances through out the year. For more information contact: admn@darpana.com or call (079) 2755 1289
+Gujarat is a dry state, so there are no bars or clubs. Ahmedabad's entertainment scene revolves around performing arts, cinema, and late-night street food instead.
 
-Moreover, Gujarat is a dry state- which means they DO NOT serve you booze. So the night life part of it is dead.
+The **Darpana Academy of Performing Arts**, founded by Mrinalini Sarabhai in 1949, is one of India's most prestigious performing arts institutions. Its amphitheatre, Natarani, hosts frequent performances of classical Indian dance, music, and theatre throughout the year, and the **Vikram Sarabhai International Arts Festival** brings international artists to Ahmedabad every December.
+
+The city has a thriving multiplex cinema scene, and the late-night food stalls around Manek Chowk -- which transforms from a jewellery market by day into a street food paradise after dark -- are the closest thing Ahmedabad has to nightlife.

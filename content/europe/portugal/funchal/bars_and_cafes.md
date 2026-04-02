@@ -1,14 +1,38 @@
 ---
-title: "Bars and Cafes in Funchal"
+title: "Bars and Cafes"
 type: section
 ---
 
-Portuguese really like to party which is why in this small municipality there are a decent number of **Funchal Bars and Cafes**. When the lights go down the streets of Funchal are beginning to start hopping with folks making their way to the place they like to drink and dance. They have many different styles of establishments where they hang out, from the local small quiet pub to the live music venues at hotels and the casino. No matter if you are just looking to quench your thirst or you want to go out and have a good time, Funchal has it here for you.
+Funchal is not a late-night city. During the week most places wind down early, but Friday and Saturday nights bring the town to life with bars, clubs, and hotel entertainment running into the small hours. The scene ranges from quiet harbor-side drinks to full-on nightclubs with samba shows.
 
-#### Bars With Live Entertainment
+**Beer House**
 
-Go to the casino and have a drink at the many bars situated around the gaming floor then go downstairs to the Copacabana and be entertained with live music or a dj. In the Tivoli Ocean Park Hotel you will find the Moonlight Bar. Dancers and singers perform a variety of musicals on Thursday otherwise the bar has excellent drinks at nice prices. Another hotel bar is the Awards Bar at the Monumental Lido Hotel. This bar is well-known for attracting upper class clientele. The atmosphere here is comfortable and relaxing.
+Sit at the end of the marina with a glass of the house-brewed beer or local wine and watch the sun set over the water. Simple, well-positioned, and exactly what you want after a day of walking.
 
-#### Easy and Relaxing Cafes
+**Joe's Bar**
 
-If you happen to like the view of the ocean then the Beer House is just the place for you. You can try their homemade beer or a glass of wine as you sit at the end of the Marina watching the sunset on the water. Another popular bar here is Joe's Bar. The locals will tell you this is considered to be the best cocktail lounge in all of Funchal. They have delicious cocktails and the place has frequent specials.
+Ask the locals where to get the best cocktails in Funchal and they will point you here. Frequent specials and a reliable atmosphere.
+
+**Casino Copacabana**
+
+Head to the casino for a drink at the bars around the gaming floor, then go downstairs to the Copacabana for live music or a DJ set. The casino itself has slot machines and table games with a dress code.
+
+**Moonlight Bar**
+
+In the Tivoli Ocean Park Hotel. Dancers and singers perform variety musicals on Thursday nights. Good drinks at reasonable prices the rest of the week.
+
+**Formula 1**
+
+One of the few clubs open during the week until the early hours. Multiple dance floors plus gambling machines, table football, and snooker on the upper level.
+
+**Fugitivo**
+
+Near the Casino Park Hotel, Fugitivo is popular for its colorful samba shows performed by Brazilian dancers. Worth a visit even if nightclubs are not normally your thing.
+
+**O Molhe**
+
+A disco built on top of an old fort, enclosed in glass so you can see the city and the sea while dancing. There is also an open-air bar on the terrace. Open Friday and Saturday from midnight to 6 a.m.
+
+**Vespas**
+
+The biggest disco in Funchal and the most popular with locals. Open Wednesday through Sunday from midnight to 6 a.m., plus the night before any public holiday.

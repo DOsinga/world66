@@ -1,14 +1,12 @@
 ---
 title: "Uchumachi"
 type: poi
-latitude: -16.211577
-longitude: -67.713257
+latitude: -16.2116
+longitude: -67.7133
 ---
 
-Coroico is built on one of the flanks of the Uchumachi. The 2500 meter high mountain is inviting for a climb, because of the views, the forest and its orchids. From an altitude of 2100 meter the mountain is natural reservation, hence most of it is forested (especially on the south flank).
-A classic hike in Coroico is the walk to the summit . This is a bit of a scam: the mountain top is about 15 kilometres long, and the highest point is at the other side of the mountain. Still, the forest on the top of the mountain is pretty, and on clear days the views are worth the three hour climb.
-Big part of the climb is not covered by forest, so you might get burned by the sun. On cloudy days, you might see a cloud coming your way, and passing right by you. Sometimes you can climb above the clouds. Passed the second forest there is a split: the branch on the right goes to the top, where there is a ritual site where the Ayamara come to say grace to Pacha Mama or the Uchumachi. The branch on the left continues through the cloudforest for at least two hours.
-A good base for walks in the Uchumachi forest is Hotel La Finca , half an hour by minibus on the road to Carmen Pampa. They have a couple of paths, just below the cliff that separates top from flanks.
+The 2,500-metre mountain that Coroico is built on. Above 2,100 metres it is a nature reserve, mostly covered in cloudforest rich with orchids.
 
-**Contributors**
-January 13, 2007
+The classic hike is the three-hour climb to the summit — though "summit" is slightly misleading, as the mountaintop ridge stretches about 15 kilometres and the highest point is at the far end. The forest on top is beautiful, and on clear days the views justify the effort. Much of the lower climb is exposed to sun, so bring protection. On cloudy days you may find yourself walking through the clouds or even above them. Near the top the path splits: right leads to an Aymara ritual site dedicated to Pacha Mama; left continues through cloudforest for at least two more hours.
+
+Hotel La Finca, half an hour by minibus toward Carmen Pampa, makes a good base for walks in the Uchumachi forest.

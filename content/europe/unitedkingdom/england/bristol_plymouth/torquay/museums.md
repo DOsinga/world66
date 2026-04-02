@@ -1,22 +1,8 @@
 ---
-title: "Museums"
+title: 'Museums'
 type: section
 ---
 
-**all**
+**Torquay Museum** -- 529 Babbacombe Rd. Tel: 01803 293975. The oldest museum in Devon, with collections on natural history and local archaeology.
 
-Torquay Museum
-
-
-
-address: 529, Babbacombe Rd, Torquay Devon TQ1 1HG
-
-tel: 01803 293975
-
-Torre Abbey Historic House & Gallery
-
-
-
-address: The Kings Drive, Torquay Devon TQ2 5JE
-
-tel: 01803 293593
+**Torre Abbey Historic House & Gallery** -- The Kings Drive. Tel: 01803 293593. A medieval monastery turned stately home with art collections and gardens.

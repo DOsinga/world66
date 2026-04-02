@@ -1,12 +1,10 @@
 ---
-title: "Day Trips in Argeles sur Mer"
+title: "Day Trips"
 type: section
 ---
 
-Planning **Argeles sur Mer Day Trips **will afford you the opportunity to see more of the country and the continent during your stay in France on the coast of the Mediterranean Sea. If you can fit a day or two into your travel itinerary, make plans to visit any of the following locations:
+Argeles-sur-Mer is well placed for day trips along the coast and into the Pyrenees. [Perpignan](/europe/france/midi/cotedazur/perpignan) is just 20 minutes north by car and makes a natural first outing, with its mix of French, Spanish, and Catalan architecture, including the Cathedrale St-Jean. From Perpignan you can also catch trains to other parts of France and into [Spain](/europe/spain).
 
-**Perpignan**
+South along the coast, the fishing village of [Collioure](/europe/france/midi/cotedazur/collioure) is a short drive away and well worth the trip for its harbour, Matisse connections, and anchovy tradition. Further south, the road crosses into Spain and reaches the Costa Brava.
 
-Start your day trips only about 15 miles north of Argeles sur Mer in Perpignan, a slightly larger metropolitan area from which you can take train rides to other areas in France and Europe. Driving to Perpignan from Argeles sur Mer takes only about 20 minutes each way.
-
-Perpignan's architecture is unique in that it mixes French, Spanish and Catalan styles. You can see this in sites such as the Cathedrale St-Jean, which dates
+The Musee d'Art Moderne in [Ceret](/europe/france/midi/ceret), about 30 km inland, was co-founded by Picasso and Matisse and houses an excellent collection of 20th-century art. The town itself, nestled in the foothills, is charming and makes for a good half-day visit.

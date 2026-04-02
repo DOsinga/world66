@@ -1,10 +1,6 @@
 ---
-title: "Things to do in Bonn"
+title: "Things to Do"
 type: section
 ---
 
-Get trains.
-
-We currently have no Things to do listed in Bonn.
-
-If you do know any Things to do in Bonn, please [Add].
+Bonn punches well above its weight for a city its size. The Museumsmeile alone could fill two days, Beethoven's birthplace is a pilgrimage for music lovers, and the old town rewards an afternoon of wandering between baroque churches and the bustling Marktplatz.

@@ -1,54 +1,22 @@
 ---
-title: "When to Go in Guadalajara"
+title: "When to Go"
 type: section
 ---
 
-When you think of a Mexican vacation my guess is you think of the
-summer months as your ideal travel time. While many people do spend
-summer in Guadalajara, the spring and fall are not only cooler but
-easier on the budget. While swimming in the Lake Chapala may not be on
-the agenda for a cooler vacation, there are still plenty of things to
-keep you busy.
+Guadalajara sits at 1,500 metres elevation, which keeps temperatures pleasant year-round. Expect warm days (mid-20s to low 30s Celsius) and cool nights. The rainy season runs June to October with afternoon downpours that clear quickly.
 
-**
+Spring and autumn are the sweet spot -- comfortable temperatures, fewer crowds, and lower prices than the winter high season. Summer works fine if you do not mind occasional rain, and the greenery is at its best.
 
-Beat the Summer Heat: Come During Spring or Fall**
+**Fiestas de Octubre** -- The entire month of October is one long party: music, dancing, food, carnivals, art displays, and street entertainment. This is Guadalajara at its most exuberant.
 
-Although you won’t be swimming in Lake Chapala visiting it and the town
-of Chapala in the cooler seasons is still a great day trip right
-outside of Guadalajara. With no high rises and a small town atmosphere
-many locals and tourists alike use this gorgeous setting to relax on
-the weekends after a hectic week. The is also a wide array of locally
-produced sweets and desserts available in Chapala. Tasting the local
-fare is a great excuse for indulging in these local sweet treats.
+**International Mariachi Festival** -- Late August brings mariachi groups from across Mexico and beyond. Live concerts fill the centre plazas, and the atmosphere is electric.
 
-**Activities in Cooler Weather**
+**Founding Day** -- February 14 marks the anniversary of the city's founding. Two weeks of parties, marathons, and live music follow, centred on the main plazas and the university.
 
-Another great town to visit right outside of Guadalajara is Tequila.
-You guessed it this is where tequila got its name from. With Jose
-Cuervo’s and Suarza’s tequila distilleries nearby this is a fun way to
-spend a cool day. Both distilleries offer tours.
+**Romeria de la Virgen de Zapopan** -- In mid-October, massive parades honour the city's patron saint.
 
-The city zoo, historic walking tour and rodeos are all better enjoyed in a slightly cooler April than a hot July.
+**Feria de Tonala** -- A handicrafts festival running from late March into April, centred on the Tonala neighbourhood. Good for picking up ceramics and pottery.
 
-**Summer Activities**
+**Day of the Dead** -- November 2 is observed at local cemeteries and in the museums. An interesting time to see local traditions.
 
-If you do choose to visit Guadalajara during the summer take some time
-to cool off watching Folkloric Ballet. The ballet is performed every
-Sunday. You can also choose to cool off by visiting Tobolandia, a water
-park with a man made river and big water slides. You can even visit
-Selva Magica, the local amusement park designed with the young and old
-in mind. With over thirty five rides you are sure to find one that will
-tickle your fancy.
-
-There is nothing better than a warm summer morning in Guadalajara spent
-on the golf course. There is a local saying that “hardly a day goes by
-when one cannot play golf in Guadalajara,” and boy do the locals know
-what they are talking about. With beautiful grounds and even better
-views the local country clubs will have you wanting to play a second
-round.
-
-No matter when you choose to go be prepared to soak up the culture and
-the food. Whether it be a walking tour of the most historic areas of
-Guadalajara or a round of golf on one of the magnificent golf courses
-you won’t be able to choose a bad time to visit.
+**International Book Fair** -- A two-week expo in late November extending into December, one of the largest in the Spanish-speaking world. Exhibitions, concerts, and author appearances.

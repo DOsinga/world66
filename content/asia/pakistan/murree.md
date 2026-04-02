@@ -1,18 +1,14 @@
 ---
 title: "Murree"
 type: location
-latitude: 33.905683
-longitude: 73.392674
+latitude: 33.9070
+longitude: 73.3943
 ---
 
-Travel Guide
+Known as the Queen of Hills, Murree sits at 2,300 meters in the Pir Panjal foothills, just an hour's drive northeast of [Islamabad](/asia/pakistan/islamabad). The British established it as a hill station in 1851, and it has been Pakistan's most popular summer retreat ever since.
 
-We currently have no information about Murree.
+The town stretches along a ridge between two famous viewpoints. At the northeast end, Kashmir Point looks across the Jhelum Valley into Azad Kashmir. At the southwest end, Pindi Point faces back toward Rawalpindi and Islamabad. Between them runs The Mall, a pedestrian strip of shops, restaurants, and people-watching that fills up every evening in summer.
 
-If you do know any general information about Murree, please [Edit this article].
+Murree is at its best from May to August, when families from the plains escape the heat. Winters bring snowfall that transforms the pine-covered hills, though many businesses close or scale back. The surrounding Galyat area offers excellent day trips to Nathia Gali, Ayubia National Park, and the Bhurban plateau.
 
-If you know any hotels in Murree or restaurants in Murree, please [[Add].](/destinations/addItemWizard?addwhere=asia/pakistan/murree)
-
-Murree is known as the Queen of Hills. Murree is only an hour's drive northeast of [Islamabad](/asia/pakistan/islamabad) and an ideal getaway if you are tired of the heta of the capital. Murree is one of the most popular summer resorts in Pakistan.
-
-At the northeast end is Kashmir Point, with views across the valley of the Jhelum River into Azad Kashmir. At the southwest end is Pindi Point, looking back towards Rawalpindi and Islamabad. Between the two runs The Mall, at the center of, which is the main shopping area, where most people congregate. Chair Lifts in Murree give a ride from Bansara Gali (below Murree) to Pindi Point, the other to the top of Patriata hill (on the road to Karor).
+The town retains traces of its colonial past in its churches, cemeteries, and the Gothic-style Lawrence College. But it is very much a Pakistani hill town now, crowded and lively, with corn-on-the-cob vendors on every corner and families piling into chairlifts for the ride up to Patriata.

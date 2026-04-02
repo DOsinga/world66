@@ -1,12 +1,12 @@
 ---
-title: "Belo horizonte"
+title: "Belo Horizonte"
 type: location
-latitude: -19.922732
-longitude: -43.945095
+latitude: -19.9227
+longitude: -43.9451
 ---
 
-Belo Horizonte is the 4th largest city in Brazil coming after [Sao Paulo](/southamerica/brazil/saopaulo), [Rio de Janeiro](/southamerica/brazil/riodejaneiro) and [Salvador](/southamerica/brazil/salvador). You'll find this city at about 2/3 of the way from Brasilia to Rio. It is the capital of Minas Gerais state. The name means Beautiful Horizon. The city of Belo Horizonte was completely built on a plan corresponding to that of Washington D.C., with a very long highway circling the whole city. 
+Belo Horizonte is Brazil's fourth-largest city and the capital of Minas Gerais state. The name means "Beautiful Horizon," and it earns it — the city is built on rolling hills completely surrounded by mountains, giving you sweeping views from nearly everywhere. Designed at the end of the 19th century on a grid modeled after Washington D.C., the wide, tree-lined avenues still give the center a sense of order, even as the city has grown far beyond its original plan.
 
-Belo is build on several hills and completely surrounded by mountains. The constant rising and falling of the streets sometimes makes navigation a bit tricky, but the wide avenues lined with trees are always easy guidelines. Unfortunately, the growth of the population has been bigger than anticipated 100 years ago. So there's a lot of poorly build architecture and slums, but also still some excellent colonial buildings. You should not miss the fin-de siecle buildings around the Praca da Liberdade and the market on Av Afonso Pena, each sunday. 
+The growth brought some rough edges — there is plenty of uninspired concrete alongside the remaining colonial buildings — but it also brought energy. Belo Horizonte is one of Brazil's great food cities, famous for its comida mineira, a hearty cuisine built on pork, beans, greens, and cheese. The bar scene is legendary even by Brazilian standards, and the Savassi neighborhood pulses with life most nights of the week.
 
-Located about 100 kms from Belo Horizonte you will find the charming city of [Ribeirao Preto](/southamerica/brazil/ribeiraopreto) (which means ‘Black Gold’), a colonial city with great churches and impressive pieces of work.
+Don't miss the fin-de-siecle buildings around Praca da Liberdade, the enormous Sunday market on Avenida Afonso Pena, and the Pampulha district where Oscar Niemeyer left his mark. The surrounding region is rich too — the colonial gold-mining towns of [Ouro Preto](/southamerica/brazil/ouropreto) and Congonhas are easy day trips, and the caves and mountain parks of Minas Gerais are within reach.

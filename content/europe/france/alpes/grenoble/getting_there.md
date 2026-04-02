@@ -1,51 +1,12 @@
 ---
 title: "Getting There"
 type: section
-type: "By Rail"
 ---
 
-Here are some information on how to get to Grenoble.
+Grenoble is well connected by rail and reasonably served by air, though most international visitors fly into Lyon or Geneva and transfer.
 
-**Contributors**
-February 08, 2006
+**By train.** The TGV connects Grenoble to Paris Gare de Lyon in about three hours via Lyon Part-Dieu. Regional TER trains run frequently to Lyon (1.5 hours), Chambéry, and Valence. The train station (Gare de Grenoble) is centrally located, a short tram ride from the old town.
 
-### [By Train](/europe/france/alpes/grenoble/getting_there/by_train)
+**By air.** Grenoble-Isère Airport (GNB) is about 50 km northwest of the city, mainly used by seasonal ski-charter flights. It is small and only open during limited hours. A bus runs into town, or you can take a taxi (around 70 euros, 35–45 minutes). Lyon-Saint Exupéry Airport, about 100 km away, has far more flights and a direct bus connection to Grenoble. Geneva Airport (180 km) is another option — about two hours by car, though cross-border train connections are slow.
 
-Grenoble can be reached by TGV via Lyon.
-
-type: By Rail
-
-
-
-[[rate it]](/europe/france/alpes/grenoble/getting_there/by_train)
-
-### [By Air](/europe/france/alpes/grenoble/getting_there/by_air)
-
-Grenoble Airport is about 50km from the city. Low cost airlines such
-as EasyJet and Ryanair both service this airport. Its a very small
-airport, only open in mornings and afternoons, so don't expect to hang
-around there for long.
-
-There is a bus service into town, or you can take private taxi for
-around 70 Euros (or share one - its cheaper), or hire a car from the
-usual agencies. Expect some delays due to traffic at rush hour. Should
-take around 35-45 minutes to get into town.
-
-Lyon airport is about 100 km away, and has more flights. Lyon
-airport (St Exupery) is [more..](/europe/france/alpes/grenoble/getting_there/by_air)
-
-type: By Air
-
-
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**By car.** Grenoble sits at the junction of the A48 (from Lyon), A41 (from Chambéry/Geneva), and A51 (from Gap/the south). Driving from Lyon takes about an hour, from Geneva about 90 minutes.

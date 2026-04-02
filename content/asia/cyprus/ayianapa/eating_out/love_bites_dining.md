@@ -1,33 +1,10 @@
 ---
-title: "Love Bites Dining spot"
+title: "Love Bites"
 type: poi
-accessibility: "within town"
-address: "11, Odyssea Eliti street"
-email: "parischr@spidernet.com.cy"
-phone: "+357-23721838"
-price: "30 euro"
-type: "International"
-url: "www.ayianapatv.tv"
+address: "11 Odyssea Eliti Street, Ayia Napa"
+phone: "+357 23 721838"
+latitude: 34.9890
+longitude: 33.9960
 ---
 
-Love bites is an exclusive restaurant like no other in Ayia Napa.Having been there with my wife we had a fantastic experience and what a surprise to discover it. It is almost hidden for people to discover. Excellent service, imaginative food and fine wines. The music was ambient and romantic. The place made our holiday and it is highly reccomended. Love bites has a long hstory in gastronomy as it was a fine dining restaurant since 1986.
-
-Tip: After your dinner relax in the lush designer Bombay lounge also under the same establishment and even enjoy the shisha.
-
-type: International
-
-
-
-
-
-accessibility: within town
-
-tel: +357-23721838
-
-url: [www.ayianapatv.tv](http://www.ayianapatv.tv)
-
-address: 11, Odyssea Eliti street
-
-PriceOfMenu: 30 euro
-
-email: parischr@spidernet.com.cy
+A fine dining restaurant that has been around since 1986, tucked away on a quiet street off the main strip. The menu leans international with imaginative presentation and a good wine list. The atmosphere is more intimate and romantic than most places in town -- a genuine change of pace from the typical Ayia Napa dining experience. Worth booking ahead in high season.

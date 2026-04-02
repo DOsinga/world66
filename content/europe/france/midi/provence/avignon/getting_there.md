@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Avignon"
+title: "Getting There"
 type: section
 ---
 
@@ -14,7 +14,7 @@ summer tourist season when thousands of Parisians as well as northern
 Europeans head south during July and August. It is best to avoid travel
 by car during the summer.
 
-**Gettting there by train**: Avignon is less than three hours from
+**Getting there by train**: Avignon is less than three hours from
 central Paris on the TGV, or high speed train, and a little over three
 hours from Charles De Gaulle Airport. There are two stops, one in the
 city center at the city's original renovated train station, the second
@@ -30,5 +30,3 @@ inexpensive train connections to Avignon. The journey takes 60-90
 minutes depending on the number of stops. There are car rental
 facilities at the airport as well.
 
-**Contributors**
-September 22, 2009

@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Hallowell offers many locations for excellent fare. Among them are Slate's, The Liberal Cup, the Lucky Garden and Bangkok Thai restaurants.
+Hallowell punches above its weight for dining. The Liberal Cup is a brewpub with solid food and house-brewed ales. Slates is a local favorite for brunch and lunch. Lucky Garden and Bangkok Thai cover Chinese and Thai respectively.

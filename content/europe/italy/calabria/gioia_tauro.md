@@ -1,8 +1,12 @@
 ---
 title: "Gioia Tauro"
 type: location
-latitude: 38.423974
-longitude: 15.898995
+latitude: 38.4240
+longitude: 15.8990
 ---
 
-Gioia Tauro (Metauros – formally a Greek city during the Magna Graecia era) is a growing village by the sea in the province of Reggio Calabria. Gioia Tauro is located between Naples and Palermo, the next closest town is Palmi which is 7 Km due south. Palmi was "discovered" at the turn of the century by the English aristocracy and today is considered the "jewel" of the Costa Viola for its trendy shopping and sandy beaches. Gioia Tauro is located in the gulf of Gioia, (it holds the second largest port in Europe… after Rotterdam). On a clear day, you can see Sicily and the Aeolian islands AKA Lipari Islands, from the Costa Viola. The “Cittadella” is the oldest part of Gioia Tauro where you can find St. Antonio’s Church and several baroque style buildings with beautiful portals; you can see the ruins of the necropolis in the “contrada Petra” (Petra’s Quarter) and the ruins of a roman villa. In Gioia Tauro Marina along the lungo mare is the century old Gaslini citrus plant.
+Gioia Tauro sits on the Tyrrhenian coast in the province of Reggio Calabria, the site of ancient Metauros, a Greek city of Magna Graecia. Today it is best known for its port, the second-largest container terminal in the Mediterranean after Rotterdam.
+
+The Cittadella is the oldest quarter, home to the church of Sant'Antonio and several baroque buildings with handsome portals. Ruins of a Roman necropolis and villa can be found in the contrada Petra. Along the lungomare, the century-old Gaslini citrus plant is a local landmark.
+
+On clear days you can see Sicily and the Aeolian Islands from the Costa Viola coast nearby. [Palmi](/europe/italy/calabria/gioia_tauro), 7 km south, was discovered by the English aristocracy at the turn of the century and remains popular for its beaches and shopping.

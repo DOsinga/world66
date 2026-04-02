@@ -1,12 +1,14 @@
 ---
 title: "Algiers"
 type: location
-latitude: 36.772933
-longitude: 3.058845
+latitude: 36.7538
+longitude: 3.0588
 ---
 
-Algeria’s capital and major port (pop. 2 500 000) has been called the “White City” because of the light-colored stones that make up its older structures. It’s beautiful and alluring but walking its streets remains extremely dangerous. Thus far attacks on foreigners have mostly been opportunistic with gunmen bumping into foreigners in marketplaces and busy streets almost at random. (There seems to have been little surveillance of victims beforehand.) The best survival strategy remains minimizing the time spent exposed on the street—and staying away from obvious tourist places including the 450-year-old Casbah which remains the soul of the city. The hotels are reasonably safe; most top hotels are protected by armed guards. Survival is generally a matter of keeping one’s head down. Dressing down is also important: The last thing you want to do is stand out on the street.
+Algeria's capital sprawls along the Mediterranean coast, a city of steep hills and white buildings that earned it the nickname la Blanche — the White City. Close to three million people live here, making it the largest city in the Maghreb.
 
-For a great view of the city and its bay drive up to the Couvent d’Afrique. The lookout is high on a hill and the view from there is exceptional.
+The heart of the city is the [Casbah](/africa/algeria/algiers/things_to_do/casbah), a UNESCO World Heritage Site where roughly 100,000 people still live in a medieval tangle of narrow alleys and Ottoman-era houses. Below it, the French colonial centre has broad boulevards, arcaded buildings and pavement cafes that could almost be Marseille. The contrast between the two is what makes Algiers unlike anywhere else.
 
-There are several day or overnight trips that can be taken from Algiers: Ski during the winter at Chrea or Yakouren see the apes at Chiffa Gorge visit the beautiful (ruined) towns of Tipasa Djemila and Timgad and drive out to the ruins at Tenes and Cherchell. (The drive there through beautiful mountain scenery is half the attraction.) Excluding side trips Algiers can easily be seen in two nights.
+The city has real edge. Security has improved enormously since the dark years of the 1990s, but petty crime remains common and some neighbourhoods are best avoided after dark. Dress down, keep valuables out of sight, and stay alert — the same advice that applies in any large North African city. That said, the rewards are genuine: the views from Notre Dame d'Afrique, the Bardo Museum's prehistoric collections, the couscous at a backstreet Casbah stall.
+
+For a great overview of the city and its sweeping bay, drive up to the Couvent d'Afrique. The lookout sits high on a hill and the panorama is exceptional. Several worthwhile day trips are within reach: the Roman ruins at [Tipasa](/africa/algeria/tipasa), the mountain gorge at Chiffa, and the ski slopes at Chrea in winter. Excluding side trips, Algiers can be seen comfortably in two or three days.

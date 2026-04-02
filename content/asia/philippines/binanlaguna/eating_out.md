@@ -1,34 +1,26 @@
 ---
-title: "Eating Out in Binan Laguna"
+title: "Eating Out"
 type: section
 ---
 
-Once you get to check out all the different **Binan Laguna restaurants**, you will enjoy a variety of cuisine. You can enjoy the Filipino flavors, seafood, pasta and many other great choices.
+Binan's food scene runs from quick Filipino comfort food to sit-down restaurants with wider menus. The local favourites lean heavily on grilled meats, seafood, and the ever-present silog breakfast platters.
 
-#### Nanay&rsquo;s Pancit Malabon
+#### Nanay's Pancit Malabon
 
-The Nanay&rsquo;s Pancit Malabon restaurant is a great place to stop for any kind of food. You can start off with one of the local favorites and Filipino dishes and also order some of the seafood dishes which are made to order.
+A reliable stop for Filipino dishes and made-to-order seafood. The pancit Malabon — thick rice noodles in a rich shrimp sauce — is the signature.
 
 #### Jollibee
 
-The Jollibee restaurant is a great place to enjoy a BBQ menu, breads, cakes, burgers, pasta, seafood, Filipino cuisine and much more. It is fun to stop and get something light or to enjoy a variety of different foods. This is one of the Binan Laguna restaurants you should try on vacation if you want to try the food from the local area because they will have many of the local favorites for you to enjoy.
+The ubiquitous Filipino fast-food chain has a strong presence in Binan. Good for burgers, fried chicken, and the sweet-style spaghetti that Filipinos love. Not adventurous, but consistently decent and cheap.
 
 #### Chibugan
 
-The Chibugan restaurant serves many different dishes including starters, grill items, tea, Bahay and seafood. If you want to try something different and are looking for a variety of dishes, this is a great place to stop. If you are looking for some traditional foods and local flavors of the area, you can find them at this restaurant.
+A varied menu covering grilled items, seafood, and Filipino home-style cooking. A solid choice if you want to sample local flavours without committing to a single cuisine.
 
-jolibee
+#### Max's Restaurant
 
-### [Max's Restaurant](/asia/philippines/binanlaguna/eating_out/maxs_restaurant)
+A well-known chain famous for its fried chicken. The Binan branch in Pacita Complex serves chicken, lumpia, pasta carbonara, and what many regulars consider the best garlic bread around. Clean, air-conditioned, and good service.
 
-What a wonderful restaurant.. Clean, nice airconditon, good service and great food. I had chicken.. ..lumpia..a ground pork and vegetables, wrapped dish and ..pasta carbonara..just perfect.. and their garlic bread, ahhhhhh.. The best garlic bread ever...
-
-type: Fast food
-
-
-
-tel: (049) 869-00-80
-
-url: [www.maxschicken.com](http://www.maxschicken.com/)
-
-address: Phase 1 Pacita Complex,brgy.Nueva San Pedro Laguna
+- Phone: (049) 869-00-80
+- Website: [maxschicken.com](http://www.maxschicken.com/)
+- Address: Phase 1 Pacita Complex, Brgy. Nueva, San Pedro, Laguna

@@ -1,14 +1,12 @@
 ---
 title: "Les Beaux de Provence"
 type: location
-latitude: 43.234892
-longitude: 5.413336
+latitude: 43.7445
+longitude: 4.7952
 ---
 
-Amazing, that's the first word that springs to mind thinking about Les Beaux de Provence. This it true for both the village itself and the landscape surrounding it.
+Les Beaux de Provence is built on a narrow rock plateau with steep cliffs on every side, which made it an impregnable stronghold in medieval times. Today the drama of the setting remains the main draw.
 
-The village itself is built on a rock plateau which is about a hundred metred wide and 500 metres tall. It's got steep cliffs on all sides making it an untakable stronghold in medieval times.
+The ruined castle sprawls across the upper plateau, with views in every direction over the olive groves and vineyards of Les Alpilles. The village below has reinvented itself as an artists' colony, with galleries and craft shops lining the steep stone lanes.
 
-Next to the village was one a castele. Now there are only ruins left. They are definitely worth a visit because the castle area (entrance fee €7,50 for adults, €5,50 for students) spans about two thirds of the whole plateau. From the plateau the view of the surrounding countryside with it's patchwork of olive trees and vineyards is magnificent.
-
-The other side of the village looks in the direction of "Les Alpilles", the strangely formed rock formations which can be found in the area between Les Beaux the Provence and [Saint Remy de Provence](/europe/france/midi/provence/saint_remy_de_prov).
+On the far side, the strange limestone formations of Les Alpilles stretch toward [Saint Remy de Provence](/europe/france/midi/provence/saint_remy_de_prov). The whole area is superb for walking and driving, with hilltop villages and quiet roads winding through some of the most beautiful landscape in Provence.

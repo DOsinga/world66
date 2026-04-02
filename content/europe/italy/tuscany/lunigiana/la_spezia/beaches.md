@@ -1,53 +1,18 @@
 ---
-title: "Beaches in La Spezia"
+title: "Beaches"
 type: section
 ---
 
-La Spezia, a city located in the Ligurian region of Italy, has long been
-a commercial harbor and also an Italian military location. Surrounded
-by mountains, it's a typical Mediterranean port and has the perfect
-weather for spending time at the nearby **La Spezia Beaches**.
-Sitting on the coast directly at the center of the The Gulf of La
-Spezia, the city offers several beach areas for anyone who loves scuba
-diving, fishing and water sports.
+La Spezia sits at the centre of its gulf, and while the city itself is not a beach destination, some fine stretches of sand and pebble are within easy reach along the coast.
 
-**Lerici Beaches and the Gulf of Poets**
+**Lerici and the Gulf of Poets**
 
-The
-Gulf of Poets is also known as The Gulf of La Spezia, and was named
-this due to the fact that many of the world's most famous poets have
-visited and even died here. The beaches in this area boast a great deal
-of natural beauty including jagged cliffs and grottoes to explore, in
-addition to the many small fishing villages located here. Lerici, also
-called 'The Pearl of the Gulf' is the largest fishing village in the
-area and sits directly across from the town of Portovenere. At Lerici,
-you'll find the remains of a 13th century castle in the old quarter
-section which looks out over the bay. Lerici is a multi-time winner of
-the European title "Bandiera Blu," or the Blue Flag, an award given to
-seaside resorts for their clean beaches, unpolluted waters and quality
-of service.
+The Gulf of La Spezia, named for the poets who visited (and in some cases died) here, curves around to Lerici on the eastern shore. Lerici is the largest fishing village in the area, with a thirteenth-century castle overlooking the bay and beaches clean enough to have won multiple European Blue Flag awards. Jagged cliffs and small grottoes line the coast between the villages.
 
-**Levanto Beaches**
+**Levanto**
 
-Levanto is a commune in
-the Province of La Spezia and features a couple of beautiful beach
-areas. The main beach is close to the village and has an untouched
-natural environment that's perfect for hiking and exploring. The sands
-on this beach are very fine and a beautiful off-white color. You'll find
-clean blue waters, unique natural rock formations and views of the
-antiquated buildings and properties in the surrounding mountains. It's a
-rather long and narrow beachfront, but still perfect for basking in the
-sun, swimming or engaging in other water sports. Bonassola Beach is
-also close to the village of Levanto. This beach features both small
-pebbles and fine sands. The beachfront here is shorter and narrower and
-sits at a sloping angle.
+North of the Cinque Terre, Levanto has a long, narrow beach of fine off-white sand backed by an unspoiled natural landscape. The waters are clean and blue, and the views up to the old buildings in the surrounding hills are lovely. Nearby Bonassola has a shorter stretch of pebbles and sand at a gentle slope.
 
-**Fiumaretta and Sarzana Beaches**
+**Fiumaretta and Sarzana**
 
-Sarzana
-and Fiumaretta are also communes of the area and each has their own
-beautiful beach. Sarzana Beach consists of both pebbles and sand, but is
-a darker shade than some of the neighboring beaches. It's a long
-stretch of beach, but it's narrow and perfect for lounging in the sun or
-strolling along the water. Fiumaretta has very fine sands that are
-whiter than most, and it has amazing rock formations.
+At the southern end of the gulf, Sarzana Beach is a long, narrow strip of darker sand and pebbles. Fiumaretta, just along the coast, has finer, whiter sand and some striking rock formations.

@@ -1,30 +1,18 @@
 ---
-title: "Getting There in Argeles sur Mer"
+title: "Getting There"
 type: section
 ---
 
-When planning your trip to **Argeles sur Mer, getting there **should
-be the first piece of planning you do. In order to save money that you
-can use toward your trip in the city or to see more of the country or
-continent, you should pick the method of transportation that most appeals to you:
+Argeles-sur-Mer is on the Mediterranean coast of southern France, close to the Spanish border. The nearest city with good transport connections is Perpignan, about 20 minutes north by car.
 
-**Plane**
+### By Air
 
-The most direct way to fly to Argeles sur Mer is to bypass Paris and land in one of the closer cities by the Mediterranean, such as Marseilles
-or Barcelona. Flights from North America to Marseilles take 11 to 16
-hours and cost $500 to $2500, depending on your starting location,
-seating arrangement and how many stops you make. Flights from the east coast will cost less and take less time.
+The closest airports are Perpignan-Rivesaltes (30 km) and Barcelona-El Prat (200 km). Marseille and Montpellier airports are further but well-connected by train. Flying into Barcelona or Marseille often offers cheaper fares and more route options.
 
-**Train**
+### By Train
 
-Much of Europe is connected by train and Argeles sur Mer is no exception. If you fly into Paris or another large European city, you can hop on a train to get to Argeles sur Mer or nearby Perpignan. A train ride from Paris will cost about €105 and take about 9 hours, allowing you to view much of the French countryside. Closer cities of interest connected to Argeles sur Mer include Montpelier, Barcelona and Marseilles.
+Argeles-sur-Mer has its own train station on the line between Perpignan and Cerbere (the Spanish border). From Paris, the journey takes about 5 to 6 hours via the TGV to Perpignan, then a local train. Direct trains also connect Perpignan to Montpellier, Marseille, and Barcelona.
 
-**Cruise**
+### By Car
 
-Argeles sur Mer is located along the Mediterranean Sea, so taking a
-cruise from North America or another part of Europe can give you a
-leisurely, relaxing trip to your destination. If you can't find a
-cruise directly to Argeles sur Mer, try a cruise to Barcelona or Marseilles, both of which are a short train trip from Argeles sur Mer. Cruise length and price depends on your starting location, but you can expect the trip to last at least 7 to 10 days and cost $500 to $4000.
-
-**Contributors**
-March 25, 2010
+From Perpignan, take the D914 south along the coast. From Barcelona, cross the border at Le Perthus and head east. The drive from Barcelona is about 2.5 hours.

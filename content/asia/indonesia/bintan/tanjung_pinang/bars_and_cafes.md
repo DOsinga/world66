@@ -3,28 +3,6 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Restoran Surya Indah
+Nightlife in Tanjung Pinang is low-key. Most evenings revolve around the waterfront food stalls or hotel bars rather than clubs. The Santai Lounge at the Comfort Hotel & Resort is a decent spot for a cocktail, and the Panorama Hotel has a rooftop cafe with views over the harbour.
 
-Jl Seijang Laut No 06
-
-Tanjung Pinang, Kepulauan Riau
-
-Serve many kind of fresh seafood like fish, crab, prawn, squid, scallops, etc.
-
-Do visit us!
-
-Best regard
-
-Rest Surya Indah
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+For something livelier, you will need to head to the resort strip on Bintan's north coast. La Luna Beach Club has an open-air bar and disco right on the sand, open Friday through Sunday. The Bintan Lagoon Resort has Silk, a proper nightclub with a younger crowd, and a karaoke lounge.

@@ -1,6 +1,8 @@
 ---
 title: "The Circunvalacion"
 type: poi
+latitude: -16.1900
+longitude: -67.7300
 ---
 
-Circumventing Coroico lays an almost perfectly flattened patch of land, which is on parts used as a road, as a path, or not used at all. It was constructed in the 1940s, as a part of the never finished rail connection between La Paz and the Yungas (see C.3.). You can even make out a big flattened spot, where the Coroico Railway Station was planned. Even though there is no train, it is useful: one of the easiest walks in the area uses this abandoned project. It lacks spectacular attractions like waterfalls and rivers, but it makes up for that in being a great introduction to local gastronomy, agriculture, forest, wildlife and views. So me parts of the trip follow rarely taken paths, where you might meet snakes, peculiar birds, squirrels and abundant butterflies. You’ll walk through coffee and banana plantations, see terraced coca fields and grasslands, walk under mango trees and along citrus plantations. Whenever the weather and the trees allow, you’ll be treated to a great view of the Rio Coroico Valley . And on your way
+A flat path circling Coroico along the bed of a never-finished 1940s railway to La Paz. You can still make out the flattened area where the Coroico station was planned. It is the easiest walk in the area and a fine introduction to local life: the path passes through coffee and banana plantations, terraced coca fields, mango trees and citrus orchards. Some stretches follow rarely used trails where you may spot snakes, birds, squirrels and clouds of butterflies. On clear days the views over the Rio Coroico valley are superb.

@@ -1,18 +1,9 @@
 ---
-title: "Da Franco"
+title: 'Da Franco'
 type: poi
-address: "Saalburgstrasse 41"
-type: "Italian"
+address: 'Saalburgstrasse 41'
 latitude: 50.126784
 longitude: 8.70691
 ---
 
-Da Franco is a real Italian pizzeria. It is outside of the main tourist areas in the in Bornheim. Pizzas and Pastas for about € 7,-
-
-type: Italian
-
-
-
-
-
-address: Saalburgstrasse 41
+A real Italian pizzeria outside the main tourist areas in Bornheim. Pizzas and pastas for about 7 euros.

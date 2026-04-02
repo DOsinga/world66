@@ -1,9 +1,9 @@
 ---
-title: "Getting There in Rudesheim"
+title: 'Getting There'
 type: section
 ---
 
-When planing your trip to **Rudesheim**, **Getting There** is always at the top of the list. Rudesheim is Germany’s largest tourist attraction. Some of the main draws are the excellent wine made here along with the beautiful landscape and the scenic Old Town. Getting to **Rudesheim** takes some careful planning but is well worth the trouble it takes to get there.
+Rudesheim is easiest to reach via Frankfurt am Main, either by car or by train.
 
 **Getting There by Plane**
 
@@ -19,4 +19,3 @@ If you are already in German ground, you can take the train to Bingen and then y
 
 The other passenger ferry is closer to the station but does not run as late as the vehicle ferry does. Make sure and check your times before you arrive at the ferry. If you do not mind paying the expense of a taxi then you can take one to Rudesheim . Depending on what area you are coming from expect to pay anywhere from 50 euro and up.
 
-No matter how you to decide to go about getting to** Rudesheim** you will not be disappointed once you arrive.

@@ -1,13 +1,9 @@
 ---
-title: "Getting There in Frankfurt"
+title: 'Getting There'
 type: section
 ---
 
-**Finding the Best Ways to Get to the Busiest City in Germany
-**
-
-When visiting **Frankfurt, getting there** can be accomplished by either plane or train. Frankfurt is one of the busiest spots in Germany, with hundred thousands of people arriving at and leaving the city every day, so public transportation is widely available.**
-**
+Frankfurt is one of the busiest transport hubs in Germany, with hundreds of thousands of people arriving and leaving every day. Getting here by plane or train is straightforward.
 
 **Arriving by Plane
 **

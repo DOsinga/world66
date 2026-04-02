@@ -1,9 +1,9 @@
 ---
-title: "Bars and Cafes in Frankfurt"
+title: 'Bars and Cafes'
 type: section
 ---
 
-Frankfurt is a transportation and financial hub of Europe so there are plenty of **Frankfurt bars and cafes** found in all areas of the city. If you are looking for ambiance or just want to try some different cuisines you can find it all in Frankfurt.
+Frankfurt has plenty of bars and cafes in all areas of the city. If you are looking for ambiance or just want to try some different cuisines you can find it all here.
 
 **Have a Cocktail and Meet New People**
 
@@ -27,7 +27,3 @@ Cafe Bar Marigold on Zeil 1 has a great ambiance and you can easily lose track o
 
 A café that specializes in coffee and tea from around the world is Kante. They also offer some light food choices, but it is the drinks that bring in the customers. Heidinger IV is a café and bakery found in the European Central Bank building. The sweets are gorgeous and delicious and they also offer sandwiches and wraps.
 
-**Contributors**
-April 08, 2010
-
-April 07, 2010

@@ -1,10 +1,14 @@
 ---
-title: "Varkala"
+title: 'Varkala'
 type: location
 latitude: 8.734043
 longitude: 76.725285
 ---
 
-Most travellers spend some time at the popular Kovalam beach, south of Trivandrum. Varkala, north of the state's capital, was less easily reachable, but always worth the extra effort. High red rocks, coconut trees and unspoiled sea with high waves, that is the wonderful sight of the Arabian Sea coastline. 
+Varkala is Kerala's most dramatically situated beach, perched beneath towering red laterite cliffs about 50 km north of [Thiruvananthapuram](/asia/india/kerala/thiruvananthapuram). Where [Kovalam](/asia/india/kerala/kovalam) has become crowded and commercial, Varkala still has a more relaxed, bohemian feel, though that is changing fast.
 
-However, it seems to be that Varkala is turning into a new Kovalam beach or maybe even a new Goa. It is quite touristy these days: there is a train station, there are many hotels and you can buy 'grass' in nearly every cafe. Quite some female travellers feel at ease in this 'new Paradise' to such an extent that they don't take into consideration anymore the beach dresscodes in India. Remember that Varkala still is a place where Indian families spend their day off.
+The main stretch is Papanasam Beach, named "Destroyer of Sins" for the springs that emerge from the cliff face. The Janardhana Swamy Temple, over 2,000 years old, sits at the southern end. Along the cliff top, a path lined with restaurants, shops and guesthouses runs for about a kilometre, offering spectacular views of the sea below. At sunset, the whole cliff lights up in shades of gold and red.
+
+Varkala has become a popular yoga destination, with several centres offering classes and retreats. The Sivagiri Mutt, founded by the philosopher and social reformer Sree Narayana Guru, draws thousands of pilgrims and is worth a visit for its peaceful hilltop setting.
+
+The beach has strong currents, so swim with caution. The best season is October through March, when the weather is sunny and dry. During the monsoon months the sea gets rough and many of the cliffside establishments close.

@@ -1,10 +1,14 @@
 ---
-title: "Kochi"
+title: 'Kochi'
 type: location
 latitude: 9.967903
 longitude: 76.244438
 ---
 
-Kochi or Cochin is a really neat and compact town in Kerala. The town has a distinct european feel, due to the fact that it was controled by the Portugese, Dutch and English who each left buildings and foot prints in the culture. It is a very nice town to walk around and has quite some sights of it self.
+Kochi, also known as Cochin, is Kerala's most cosmopolitan city and a fascinating place to walk around. The old Fort Cochin area has a distinctly European feel, shaped by centuries of Portuguese, Dutch and British rule, each of whom left buildings, churches and cultural footprints that still define the neighbourhood.
 
-It is a reasonable base to do an excursion to the backwaters of Kerala. The rivers around Kochi are not as wide as further down south and you get to see much more. There are a number of small travel agents that allow you to book these tours or transport options for further travel.
+The iconic Chinese fishing nets along the waterfront are the city's most photographed sight, but there is much more: the 16th-century Santa Cruz Cathedral, the Mattancherry Palace with its remarkable Hindu murals, the Paradesi Synagogue in the old Jewish quarter, and quiet streets lined with crumbling colonial warehouses. Fort Cochin is compact enough to explore on foot in a day, and the atmosphere is unlike anywhere else in India.
+
+Kochi is also a good base for backwater excursions. The waterways around the city are narrower than those further south, so you get closer to village life. Several small travel agents in Fort Cochin can arrange boat trips, canoe tours or onward transport.
+
+The city has a growing arts scene, with the Kochi-Muziris Biennale (held every two years) turning Fort Cochin into one of Asia's most important contemporary art events. The food is excellent too, with a mix of Kerala seafood, Syrian Christian cooking and the inevitable Kashi Art Cafe, which draws visitors as much for its chocolate cake as for its exhibitions.

@@ -1,18 +1,14 @@
 ---
-title: "Festivals"
+title: 'Festivals'
 type: section
 ---
 
-**The State Festival**
+**Onam** is Kerala's biggest festival, celebrated in August or September during the Malayalam month of Chingam. It marks the mythical return of King Mahabali, and the entire state comes alive for about ten days. Families lay elaborate flower carpets (pookalam) at their doorsteps, prepare the grand sadya feast on banana leaves, and villages stage snake boat races (vallam kali) on the backwaters. The Nehru Trophy Boat Race on Punnamada Lake near [Alappuzha](/asia/india/kerala/alappuzha) is the most famous of these, with massive snake boats crewed by over a hundred rowers each.
 
-' Onam' is the state festival of Kerala. It is being celebrated as per the Kerala yearing system known as Kollavarsham. Mostly it is celebrated in Augest-September and the entire state will be in a festive mood then.
+**Vishu** falls in mid-April and marks the Malayalam new year and the beginning of the harvest season. The highlight is the vishukkani, an auspicious arrangement of fruits, vegetables, gold and flowers that family members view first thing in the morning. The state flower, kanikkonna (golden shower tree), blooms everywhere during this time, draping the landscape in yellow.
 
-**The Harvest Festival**
+**Thrissur Pooram** is the most spectacular temple festival in Kerala, held at [Thrissur](/asia/india/kerala/thrissur) in April or May. Two rival groups of caparisoned elephants face off in a display of parasols, drums and fireworks that draws enormous crowds. The percussion ensemble (panchavadyam) builds to a thunderous crescendo that you feel in your chest.
 
-' Vishu' is the harvest festival of Kerala. Again it is being celebrated as per Kollavarsham and it used to comes in the middle of March. Its is the beginning of summer season and the speciality of this festival is that you can find 'Kanikkonna', the state flower all over the state like a golden blanket.
+**Theyyam** is a ritual art form unique to northern Kerala, particularly around Kannur. Performers in elaborate costumes and face paint embody local deities in trance-like dances that are part worship, part theatre. The theyyam season runs roughly from October to May, and catching a performance in a village shrine is one of Kerala's most extraordinary experiences.
 
-**Religious Festivals**
-
-Kerala is a secular state and you can find people from lot many religions leaving in harmony. Religious festivals a many to be listed.
-
-Minor corrections on 14 January 05
+Kerala also celebrates Christmas with great enthusiasm, particularly among the Syrian Christian community, and Eid is marked with feasting across the state's Muslim communities. The sheer number of temple festivals, church feasts and mosque celebrations means there is almost always something happening somewhere in Kerala.

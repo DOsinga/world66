@@ -1,76 +1,18 @@
 ---
-title: "Day Trips"
+title: 'Day Trips'
 type: section
-url: "sagunabaug.com"
 ---
 
-** Ananda Valley ........ ** **Just 51 Km From Pune
-**
+Pune's location at the edge of the Western Ghats makes it an excellent base for day trips. You can reach ancient forts, caves, hill stations, and wildlife sanctuaries within a couple of hours.
 
-Visit AnandaValley.Com
+**Sinhagad Fort** stands on a cliff 25 km southwest of Pune and is the most popular day trip in the region. The fort is famous for the battle in which Shivaji's general Tanaji Malusare scaled the sheer rock face to recapture it from the Mughals. You can drive most of the way up or take the steep trek from the base village. At the top, local women sell fresh buttermilk (taak), bhakri, and pitla -- a simple Maharashtrian meal that tastes better up here than anywhere else. Go early on weekdays to avoid the weekend crowds.
 
-Discover the joys of the countryside…… Roam the rolling hills, listen to the birds’ song, and cool yourself by the lakes…...
+**Karla and Bhaja Caves** are rock-cut Buddhist monasteries dating from the second century BC, carved into the hillside near [Lonavala](/asia/india/maharashtra/lonavala). Karla has the largest and best-preserved chaitya (prayer hall) in India, with massive teak beams still intact after two thousand years. Bhaja, a short drive away, is smaller but more atmospheric, with fewer visitors and carved reliefs of horsemen and dancers. Both can be combined into a single morning trip.
 
-And to top it all, savor the taste of authentic native food….. Nestled in the foothills of the Sahyadri, near Rajgurunagar, is the beautiful and evergreen AnandaValley- a place for never ending joy..
+**[Lonavala](/asia/india/maharashtra/lonavala) and Khandala** are twin hill stations on the Mumbai-Pune expressway, about 65 km from Pune. The scenery is at its best during and just after the monsoon, when waterfalls cascade off every cliff. Lonavala is known for chikki (a brittle made from jaggery and nuts) -- buy it from any of the dozens of shops lining the main road.
 
-What more you can also enjoy staying in a tent here.
-A lazy evening at the cafeteria by the lake and the colorful sunset is all that you can wish for a perfect relaxed evening
+**Rajgad Fort** was Shivaji's first capital, perched at 1,400 meters about 60 km from Pune. The trek is more demanding than Sinhagad -- roughly three hours up -- but the views from the top stretch across the entire Sahyadri range. Carry water and food, as there is nothing available at the summit.
 
-### [Saguna Baug](/asia/india/maharashtra/pune/day_trips/saguna_baug)
+**Bhimshankar Wildlife Sanctuary** lies about 100 km north of Pune in the Sahyadri hills. It is one of the few places where you might spot the Indian giant squirrel (shekru), Maharashtra's state animal. The sanctuary is also a Jyotirlinga pilgrimage site. The drive through the ghats is beautiful but winding -- start early.
 
-Saguna Baug is a dream becoming reality, dream of a Gandhian freedom fighter, popularly known as Harikaka Bhadsavle, being developed by his son. The dream envisage in late 60’s was to set up a strong farming outfit, which will effectively support the family of this social worker and thus will set an example for those who are running away from farming profession. The son, Shekhar, returned in 1976 from U.S.A. to follow up the goal.
-
-After toiling for first few years, Saguna Baug stands on a very strong footing with its almost 55 % objectives well within reach. Now [more..](/asia/india/maharashtra/pune/day_trips/saguna_baug)
-
-
-
-[[rate it]](/asia/india/maharashtra/pune/day_trips/saguna_baug)
-
-url: [sagunabaug.com](http://sagunabaug.com/)
-
-### [Saguna Baug](/asia/india/maharashtra/pune/day_trips/saguna_baug_1)
-
-Saguna Baug is a dream becoming reality, dream of a Gandhian freedom fighter, popularly known as Harikaka Bhadsavle, being developed by his son. The dream envisage in late 60’s was to set up a strong farming outfit, which will effectively support the family of this social worker and thus will set an example for those who are running away from farming profession. The son, Shekhar, returned in 1976 from U.S.A. to follow up the goal.
-
-After toiling for first few years, Saguna Baug stands on a very strong footing with its almost 55 % objectives well within reach. Now [more..](/asia/india/maharashtra/pune/day_trips/saguna_baug_1)
-
-
-
-[[rate it]](/asia/india/maharashtra/pune/day_trips/saguna_baug_1)
-
-url: [sagunabaug.com](http://sagunabaug.com/)
-
-### [Saguna Baug](/asia/india/maharashtra/pune/day_trips/saguna_baug_2)
-
-Saguna Baug is a dream becoming reality, dream of a Gandhian freedom fighter, popularly known as Harikaka Bhadsavle, being developed by his son. The dream envisage in late 60’s was to set up a strong farming outfit, which will effectively support the family of this social worker and thus will set an example for those who are running away from farming profession. The son, Shekhar, returned in 1976 from U.S.A. to follow up the goal.
-
-After toiling for first few years, Saguna Baug stands on a very strong footing with its almost 55 % objectives well within reach. Now [more..](/asia/india/maharashtra/pune/day_trips/saguna_baug_2)
-
-
-
-[[rate it]](/asia/india/maharashtra/pune/day_trips/saguna_baug_2)
-
-url: [sagunabaug.com](http://sagunabaug.com/)
-
-### [Agri Tourism Baramati Dist Pune](/asia/india/maharashtra/pune/day_trips/agri_tourism_baram)
-
-**Agri Tourism Baramati : contact Mr Pandurang Taware 098220 90005**
-****
-**How well is your Agri Tourism Destination is connected?**
-** **
-The Agri Tourism Unit in Malegaon Tal Baramati is well connected by Airways; Railways and Roadways.
-** **
-** Nearest International Airport : Pune Airport ** 102 Kms.
-Nearest Railhead [more..](/asia/india/maharashtra/pune/day_trips/agri_tourism_baram)
-
-
-
-[[rate it]](/asia/india/maharashtra/pune/day_trips/agri_tourism_baram)
-
-tel: 020- 2553 5599
-
-url: [www.agritourism.in](http://www.agritourism.in)
-
-address: Agri Tourism Development Organization
-
-email: pandurang@agritourism.in
+**Bedsa Caves** are a quieter alternative to Karla and Bhaja, tucked away in the hills near Kamshet. The cave monastery is smaller but the approach walk through farmland and forest is lovely, and you are likely to have the place to yourself.

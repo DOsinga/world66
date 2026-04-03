@@ -1,12 +1,8 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-## Different kinds of Eating Out
+Grenoble has a good range of restaurants from traditional French to international cuisines. The streets around Place Grenette and the old town are the best hunting ground for bistros and brasseries. Chez Le Per'Gras near the Bastille cable car station is well placed for a meal with a view. La Taverne on Boulevard Marechal Lyautey is a reliable traditional choice.
 
-[Traditional](/europe/france/alpes/grenoble/eatingout?subsection=Traditional)
-
-[Italian](/europe/france/alpes/grenoble/eatingout?subsection=Italian)
-
-[Oriental](/europe/france/alpes/grenoble/eatingout?subsection=Oriental)
+Italian restaurants are well represented thanks to the proximity of Turin, and there are several good Asian options around the Gare area. Prices are generally reasonable for a French city of this size.

@@ -1,51 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
-type: "By Rail"
 ---
 
-Here are some information on how to get to Grenoble.
+Grenoble is well connected by rail, with TGV services from Paris taking about three hours via Lyon. Lyon-Saint-Exupery is the nearest major airport, about 100 km away, with regular bus transfers to the city. Grenoble's own small airport at Saint-Geoirs handles seasonal flights from budget carriers but has limited hours.
 
-**Contributors**
-February 08, 2006
-
-### [By Train](/europe/france/alpes/grenoble/getting_there/by_train)
-
-Grenoble can be reached by TGV via Lyon.
-
-type: By Rail
-
-
-
-[[rate it]](/europe/france/alpes/grenoble/getting_there/by_train)
-
-### [By Air](/europe/france/alpes/grenoble/getting_there/by_air)
-
-Grenoble Airport is about 50km from the city. Low cost airlines such
-as EasyJet and Ryanair both service this airport. Its a very small
-airport, only open in mornings and afternoons, so don't expect to hang
-around there for long.
-
-There is a bus service into town, or you can take private taxi for
-around 70 Euros (or share one - its cheaper), or hire a car from the
-usual agencies. Expect some delays due to traffic at rush hour. Should
-take around 35-45 minutes to get into town.
-
-Lyon airport is about 100 km away, and has more flights. Lyon
-airport (St Exupery) is [more..](/europe/france/alpes/grenoble/getting_there/by_air)
-
-type: By Air
-
-
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+By car, Grenoble sits at the junction of the A48 and A480 motorways. Turin is roughly two hours east via the Frejus tunnel, and Geneva about ninety minutes north. During ski season, shuttle buses run regularly from both airports and from the city to nearby resorts.

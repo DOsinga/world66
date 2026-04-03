@@ -1,8 +1,8 @@
 ---
-title: "Bulguksa Temple"
+title: 'Bulguksa Temple'
 type: poi
-latitude: 35.788995
-longitude: 129.33089
+latitude: 35.7890
+longitude: 129.3309
 ---
 
 The most famous temple in Korea, Bulguksa, is ideally located a short distance from the Ulsan area that can be comfortably covered within a day. It’s difficult to fathom how one could be disappointed with the sight unless you are there with the tourist hoards.

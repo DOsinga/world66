@@ -1,14 +1,8 @@
 ---
-title: "Springfield"
+title: 'Springfield'
 type: location
-latitude: 39.799017
-longitude: -89.643957
+latitude: 39.7990
+longitude: -89.6440
 ---
 
-Mayor Davlin describes his city as follows:
-
-As Illinois' capital city, Springfield is a hub of government action, business activity, arts and cultural affairs. With a City population of over 112,000, Springfield offers a great business climate, an expanding medical community, superb public services, and friendly, caring neighborhoods.
-
-We think Springfield is wonderful place to live, work and visit. 
-
-But heck, he is the mayor.
+The state capital of Illinois and, above all, Lincoln country. Springfield is where Abraham Lincoln lived for 24 years before moving to the White House, and his presence is everywhere -- from the Lincoln Home National Historic Site to the Abraham Lincoln Presidential Library and Museum, one of the best presidential libraries in the country. The old State Capitol where Lincoln delivered his "House Divided" speech has been restored. Route 66 runs through town, adding another layer of Americana. It is not a big city, but for American history it is hard to beat.

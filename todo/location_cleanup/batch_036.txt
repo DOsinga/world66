@@ -18,7 +18,6 @@ europe/spain/aragon/teruel/sights_1
 europe/greece/crete/hania
 europe/unitedkingdom/scotland/inverness
 africa/benin/cotonou
-europe/france/normandybrittany/honfleur
 europe/unitedkingdom/england/leicester_notting/northampton
 africa/southafrica/gardenroute/knysna
 northamerica/unitedstates/california/placentia

@@ -2,7 +2,6 @@ asia/lebanon/baalbek
 asia/myanmar/pyay
 asia/laos/laos
 northamerica/unitedstates/kansas/wellington
-asia/pakistan/pakpattan
 asia/israel/golanheights
 asia/indonesia/sleman
 australiaandpacific/bakerisland/bakerisland

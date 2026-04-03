@@ -1,19 +1,10 @@
 ---
-title: "Pavillion"
+title: 'Pavillion'
 type: poi
-address: "Hotel Ashoka, College Square, Cuttack"
-phone: "2647509"
-type: "Local"
+address: 'Hotel Ashoka, College Square, Cuttack'
+phone: '2647509'
+latitude: 20.4625
+longitude: 85.8828
 ---
 
-Hotel Ashoka one of the first hotels in Cuttack. It's restaurent called Pavillion servers Indian, Mughlia, Chinese, Continental as well as local delicacies. They take up outdoor catering as well as marriage party orders. so guys what u waiting for head up to Hotel Ashoka on College square !!!
-
-type: Local
-
-
-
-
-
-tel: 2647509
-
-address: Hotel Ashoka, College Square, Cuttack
+Hotel Ashoka is one of the oldest hotels in Cuttack. Its restaurant, Pavillion, serves Indian, Mughlai, Chinese, and continental food as well as local Odishan dishes. They also handle outdoor catering and event orders.

@@ -1,10 +1,8 @@
 ---
-title: "Ghatgaon"
+title: 'Ghatgaon'
 type: location
-latitude: 21.459899
-longitude: 85.893061
+latitude: 21.4599
+longitude: 85.8931
 ---
 
-Travel Guide
-
-Place where the bi.ggest **Tarini Maa Mandir** is situated
+Ghatgaon is known for the Tarini Maa Mandir, one of the largest temples dedicated to Goddess Tarini in the region. It draws pilgrims from across Odisha and neighbouring states.

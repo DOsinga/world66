@@ -1,9 +1,8 @@
 ---
-title: "Swotsti Plaza"
+title: 'Swosti Plaza'
 type: poi
-type: "Indian and Pakistani"
+latitude: 20.2716
+longitude: 85.8401
 ---
 
-Swotsti Plaza is another good star hotel and restaurant which offers good food and luxurious accomodation. they ahve a swimming pool also.
-
-type: Indian and Pakistani
+Another well-known hotel restaurant in Bhubaneswar offering good food and a swimming pool. The multi-cuisine menu covers Indian and continental options.

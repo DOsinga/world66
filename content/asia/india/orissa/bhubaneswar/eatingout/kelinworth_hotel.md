@@ -1,9 +1,8 @@
 ---
-title: "Kelinworth Hotel"
+title: 'Kenilworth Hotel'
 type: poi
-type: "International"
+latitude: 20.2747
+longitude: 85.8235
 ---
 
-Not to mention it's a great hotel(3star) in the heart of city near kalpana square. serves both veg & non veg. Luxurious rooms. nNice place to stay.
-
-type: International
+A three-star hotel near Kalpana Square in the heart of the city. The restaurant serves both vegetarian and non-vegetarian food with a multi-cuisine menu. Also a comfortable place to stay.

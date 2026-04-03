@@ -1,10 +1,8 @@
 ---
-title: "Hinjilicut"
+title: 'Hinjilicut'
 type: location
-latitude: 19.485655
-longitude: 84.744269
+latitude: 19.4857
+longitude: 84.7443
 ---
 
-Travel Guide
-
-my city
+Hinjilicut is a small town in Ganjam district, south of Berhampur. It serves as a local market centre for the surrounding agricultural area.

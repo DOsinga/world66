@@ -1,5 +1,5 @@
 ---
-title: "Bargarh"
+title: 'Bargarh'
 type: location
 latitude: 21.231992
 longitude: 83.565274

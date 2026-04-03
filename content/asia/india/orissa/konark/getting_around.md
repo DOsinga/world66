@@ -1,6 +1,6 @@
 ---
-title: "Getting Around in Konark"
+title: 'Getting Around'
 type: section
 ---
 
-Mostly by walk. Believe me, you will really enjoy it. Otherwise, cycle rickshaws are always at your disposal.
+Konark is small enough to explore on foot, and walking is genuinely the best way to take it in. Cycle rickshaws are available for those who prefer a ride.

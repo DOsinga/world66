@@ -1,5 +1,5 @@
 ---
-title: "Jajpur"
+title: 'Jajpur'
 type: location
 latitude: 20.874679
 longitude: 86.121539

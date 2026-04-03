@@ -1,18 +1,9 @@
 ---
-title: "Mayfair Lagoon"
+title: 'Mayfair Lagoon'
 type: poi
-address: "Jaydev Vihar"
-type: "First Class"
-latitude: 20.29291
-longitude: 85.820793
+address: 'Jaydev Vihar'
+latitude: 20.2929
+longitude: 85.8208
 ---
 
-If you are searching for a true international experince, try this one. Ambience is great. Its a Multi Cuisine restaurant. But its on the Costlier side.
-
-type: First Class
-
-
-
-
-
-address: Jaydev Vihar
+If you are looking for a proper international dining experience in Bhubaneswar, this is it. The ambience is excellent and the multi-cuisine restaurant is among the best in the city. Expect to pay premium prices.

@@ -1,5 +1,5 @@
 ---
-title: "Balangir"
+title: 'Balangir'
 type: location
 latitude: 20.609518
 longitude: 83.167303

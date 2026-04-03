@@ -1,10 +1,8 @@
 ---
-title: "PATTAMUNDAI"
+title: 'Pattamundai'
 type: location
-latitude: 20.562644
-longitude: 86.590807
+latitude: 20.5626
+longitude: 86.5908
 ---
 
-Travel Guide
-
-**hi this is cool guy**
+Pattamundai is a town in Kendrapara district known for its Durga Puja celebrations, which are among the most elaborate in the district.

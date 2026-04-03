@@ -1,6 +1,6 @@
 ---
-title: "Bars and Cafes in Lansing"
+title: 'Bars and Cafes'
 type: section
 ---
 
-There are plenty of bars and cafes in Lansing to unwind at.
+Lansing's bar scene benefits from a large college-town population. East Lansing has the livelier student-oriented spots, while downtown Lansing and Old Town offer more relaxed options. The Exchange on East Michigan Avenue features live jazz and blues nightly with no cover charge, plus a good cigar selection. Dusty's Cellar in Okemos is a nationally recognized wine bar with excellent food.

@@ -1,14 +1,10 @@
 ---
-title: "Lansing"
+title: 'Lansing'
 type: location
-latitude: 42.733825
-longitude: -84.55463
+latitude: 42.7338
+longitude: -84.5546
 ---
 
-**Selected purely for its centralized location, the wilderness hamlet of Lansing became the state capital of Michigan in 1847. [Detroit](/northamerica/unitedstates/michigan/detroit), the largest city in the state was passed over because of its potentially unsafe international border with [Canada](/northamerica/canada). In the 1850's Michigan farmers lobbied to start one of America's first independent colleges of scientific agriculture. Carved out of the woods east of Lansing it is now known as Michigan State University.**
+Lansing became Michigan's state capital in 1847, chosen purely for its central location after [Detroit](/northamerica/unitedstates/michigan/detroit) was passed over due to its proximity to the Canadian border. What was then a wilderness hamlet has grown into a mid-sized city anchored by state government and Michigan State University in neighboring East Lansing.
 
-
- Lansing's status is mostly defined as being the seat of state government. The state capitol's construction was completed in 1879, during the Civil War, and it remains Lansing's defining landmark. President Linclon insisted the construction continue because the Capitol stood for the union he was fighting for. It was one of the first state capitols to be modeled after the nation's Capitol and is the preeminent U.S. example of Victorian painted decoration.
-
-
- Some of Lansing's popular attractions include the State Capitol, the Michigan Historical Museum, Riverfront Park and River Trail, Museum Drive, and Potter Park and Zoo.
+The State Capitol, completed in 1879, is Lansing's defining landmark and one of the finest examples of Victorian painted decoration in any American statehouse. The Michigan Historical Museum nearby traces the state's history from prehistoric times through the auto era. Along the Grand River, the River Trail connects downtown to the charming Old Town district, full of galleries, restaurants, and festivals throughout the year. Potter Park Zoo and the R.E. Olds Transportation Museum round out the city's attractions.

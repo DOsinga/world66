@@ -1,8 +1,8 @@
 ---
-title: "Getting Around"
+title: 'Getting Around'
 type: section
 ---
 
-Visit six of San Francisco's best attractions for one low price. Save over 50% and avoid ticket lines. Buy Citypass at the first attraction visited. 707/253-1222 Fax: 707/256-0490 www.citypass.net E-mail: mg@citypass.net 
+San Francisco is compact and walkable, though the hills will test your legs. The MUNI system of buses, light rail, and historic streetcars covers the entire city and is cheap and reliable. The iconic cable cars are fun but slow and touristy -- the F-line vintage streetcars along Market Street and the Embarcadero are a better deal and just as charming.
 
-CityPass is all right, but pricey unless you plan on visiting most of the attractions offered or taking nonstop cable car rides for a week.
+BART (Bay Area Rapid Transit) connects San Francisco to the East Bay, the airport, and the Peninsula. For getting around the city itself, consider renting a bike -- the ride across the Golden Gate Bridge to Sausalito is one of the great urban cycling experiences.

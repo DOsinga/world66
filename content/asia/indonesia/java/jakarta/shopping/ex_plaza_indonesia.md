@@ -1,21 +1,9 @@
 ---
-title: "EX Plaza Indonesia"
+title: 'EX Plaza Indonesia'
 type: poi
-address: "MH Husni Thamrin"
-type: "Shopping centers and malls"
-latitude: -6.184091
-longitude: 106.82269
+address: 'MH Husni Thamrin'
+latitude: -6.1841
+longitude: 106.8227
 ---
 
-Shopping mal with many facilities, from cinema [called EX], gym to live performance. There's a hub, connecting bridge from EX to Plaza Indonesia at the 2nd floor. Open until 3am in the weekend. Situated in the very heart of Jakarta.
-
-**Contributors**
-May 15, 2006
-
-type: Shopping centers and malls
-
-
-
-
-
-address: MH Husni Thamrin
+Shopping mall with cinema, gym, and live performance spaces. A connecting bridge links it to Plaza Indonesia at the 2nd floor. Open until 3am on weekends. Situated in the very heart of Jakarta.

@@ -1,13 +1,8 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 
-Mirota Batik, Souvenir Center in Malioboro
+Jalan Malioboro is the main shopping strip and always crowded. Batik is the thing to buy -- Mirota Batik on the north side of Beringharjo Market is a reliable one-stop shop for batik cloth, wall hangings, puppets, kris daggers, and other Javanese crafts, with prices from Rp 10,000 for small items up to Rp 200,000 for antiques. Beringharjo Market itself is worth a wander for textiles and spices.
 
-If you want a unique shopping experience goods in jogja and served by friendly people who are dressed in typical jogja, try the gift shop go Mirota Batik. Located on the north side Beringharjo market, orange-painted walls must be accessible browning. With prices range between 10,000 ,00-50 .000,00 for a variety of wall hangings, door hangers, and many other crafts, and prices began to Rp200.000, 00 for antiques, kris, and puppets, batik Mirota could be an alternative which offers you the convenience of choosing the best gift you want from the city of Yogyakarta.
-
-As one of the central souvenirs and gifts along Malioboro, Mirota Batik has a special place in the hearts of overseas and domestic tourists. Stores that once located near the clock gede Beringharjo market across is to provide a variety of handicraft products jogja force. Mirota Batik also provides a place for craft works, though not stylish jogja, jogja made public. Have you ever seen a miniature guitar, both electric and acoustic, which was displayed along Malioboro sidewalk? Or miniature "pit Onthel" (moped) made from raw steel and aluminum? Or maybe miniature tricycles, big motor, or bemo made of wood? Everything you can enjoy your selection and once in Mirota Batik.
-
-Read more at: www.tourthewonder.com
-www.paketrupiah.com
+The sidewalk vendors along Malioboro sell miniature guitars, mopeds made from recycled metal, and wooden tricycles -- fun souvenirs at bargain prices if you are willing to haggle.

@@ -1,8 +1,10 @@
 ---
-title: "El Mapais"
+title: 'El Malpais'
 type: location
+latitude: 34.8800
+longitude: -107.9700
 ---
 
-El Malpais National Monument and Conservation Area was El Mapais preserves 114,277 acres of which 109,260 acres are federal and 5,017 acres are private. El Malpais means "the badlands" but contrary to its name this unique area holds many surprises, many of which researchers are now unraveling. Volcanic features such as lava flows, cinder cones, pressure ridges and complex lava tube systems dominate the landscape. Closer inspection reveals unique ecosystems with complex relationships. Sandstone bluffs and mesas border the eastern side, providing access to vast wilderness.
+El Malpais means "the badlands," but this national monument near [Grants](/northamerica/unitedstates/newmexico/grants) is full of surprises. Lava flows, cinder cones, pressure ridges, and complex lava tube cave systems dominate a landscape that looks like another planet. Sandstone bluffs and mesas line the eastern edge, and the hiking ranges from easy nature trails to serious backcountry exploration.
 
-  For more than 10,000 years people have interacted with the El Malpais landscape. Historic and archeological sites provide reminders of past times. More than mere artifacts, these cultural resources are kept alive by the spiritual and physical presence of contemporary Indian groups, including the Puebloan peoples of Acoma, Laguna,and Zuni, and the Ramah Navajo. These tribes continue their ancestral uses of El Malpais including gathering herbs and medicines, paying respect, and renewing ties.
+For more than 10,000 years people have lived with this landscape. The Puebloan peoples of [Acoma](/northamerica/unitedstates/newmexico/laguna), [Laguna](/northamerica/unitedstates/newmexico/laguna), and [Zuni](/northamerica/unitedstates/newmexico/zuni), along with the Ramah Navajo, maintain spiritual ties to El Malpais and continue ancestral uses of the land.

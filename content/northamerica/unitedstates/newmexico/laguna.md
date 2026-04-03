@@ -1,10 +1,8 @@
 ---
-title: "Laguna"
+title: 'Laguna'
 type: location
-latitude: 35.040423
-longitude: -107.426628
+latitude: 35.0404
+longitude: -107.4266
 ---
 
-Travel Guide
-
-In Cibola County, just north of Exit 114 off I-40, the Pueblo of Laguna sits on a small hill, with the gorgeous San Jose de Laguna church dominating the town. They put on a great feast day (September 15 every year) and all are welcome. Arts and crafts are available in and around town. Check in at the tribal offices to visit the little church. Limited services at the pueblo, but Laguna also operates the little Dancing Eagle Casino (west to Exit 108, then south) and the huge Route 66 Casino (east of pueblo at Exit 140).
+Just north of Exit 114 off I-40 in Cibola County, the Pueblo of Laguna sits on a small hill with the gorgeous San Jose de Laguna church dominating the skyline. The feast day on September 15 is a wonderful event, open to all visitors. Arts and crafts are available in and around town, and you can check in at the tribal offices to visit the little church. Services at the pueblo itself are limited, but Laguna also operates the Dancing Eagle Casino to the west and the larger Route 66 Casino to the east.

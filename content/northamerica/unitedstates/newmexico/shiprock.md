@@ -1,13 +1,11 @@
 ---
-title: "Shiprock"
+title: 'Shiprock'
 type: location
-latitude: 36.785814
-longitude: -108.684495
+latitude: 36.7858
+longitude: -108.6845
 ---
 
-Travel Guide
-
-In Navajo it's "Naat'aanii Nez", or "Tall Leader". Home to a famous annual fair and located near a mythical landmark, Shiprock is a sprawling Navajo Nation community in the four corners region. Plenty of fast food restaurants and service stations await the weary traveler, but there is no lodging, despite years of attempts by the local Navajos to get a motel project constructed. Maybe one day this will happen. Nearby Farmington has plenty of lodging for those interested in staying in the area.
+In Navajo it is "Naat'aanii Nez", or "Tall Leader". Home to a famous annual fair and located near a mythical landmark, Shiprock is a sprawling Navajo Nation community in the four corners region. Plenty of fast food restaurants and service stations await the weary traveler, but there is no lodging, despite years of attempts by the local Navajos to get a motel project constructed. Maybe one day this will happen. Nearby Farmington has plenty of lodging for those interested in staying in the area.
 
 The towering Shiprock monolith is a volcanic neck, called "Rock with wings" in the Navajo language. A couple of dirt roads go near the rock, but no climbing or hiking around the rock is allowed. It's easy to photograph, since the bleak landscape ensures few obstructions to the view.
 

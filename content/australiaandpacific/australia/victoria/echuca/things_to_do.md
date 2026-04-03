@@ -1,15 +1,6 @@
 ---
-title: "Things to do"
+title: 'Things to Do'
 type: section
 ---
 
-**The Great Aussie Beer Shed** is a one of kind museum, focussing on a collection of over 16000 beer cans and other beer related items from Australia and around the world, put together by The Great Aussie Beer Shed's owner Neil Thomas. There is also an extensive collection of Australiana, such as Furphy Water Carts, a Coolgardie Safe, World War 1 canon and Australian Farm Equipment from 1800's.
-
-The Great Aussie Beer Shed can be found at 377 Mary Ann Road, Echuca.
-
-http://www.greataussiebeershed.com.au
-
-**Contributors**
-November 08, 2006
-
-March 14, 2006
+Echuca sits on the Murray River and is best known for its restored historic port, where you can take a paddle steamer cruise on one of the world's largest collections of operating paddle steamers. The port precinct has heritage buildings, shops, and a working sawmill. The Great Aussie Beer Shed on Mary Ann Road houses a quirky collection of over 16,000 beer cans alongside Australiana like Furphy Water Carts and vintage farm equipment.

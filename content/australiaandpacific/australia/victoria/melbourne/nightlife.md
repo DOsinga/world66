@@ -1,4 +1,0 @@
----
-title: "Nightlife"
-type: section
----

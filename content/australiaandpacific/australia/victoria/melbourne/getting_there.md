@@ -1,12 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-chris
+Most flights arrive at Melbourne Tullamarine Airport, about 25 minutes northwest of the city centre. The SkyBus express shuttle runs frequently to Southern Cross Station. A taxi or rideshare to the CBD costs around AUD 60-70. There is no train connection to the airport.
 
-All overseas flights, QANTAS flights, Virgin blue flights, and Jetstar flights (except jetstar flights from Sydney & Brisbane) go to Melbourne-Tullamarine airport. Jetstar flights from Sydney and Brisbane land in Avalon airport.
-
-To get to/from Tullamarine airport, you can either drive, Catch a Taxi, or The Airport Bus (AU$15 one way). There are no train or tram services to the airport.
-
-The city centre is about 20 mins drive, Western suburbs about 30 mins, northern suburbs, 30 mins, And south-eastern suburbs up to an hour away.
+Some budget carriers, including some Jetstar services, use Avalon Airport near Geelong, about an hour southwest. Check which airport your flight uses before booking ground transport. V/Line trains connect Melbourne to regional Victoria from Southern Cross Station, and interstate trains and buses also depart from there.

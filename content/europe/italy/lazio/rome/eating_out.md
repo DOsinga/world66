@@ -1,8 +1,6 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-Rome, pasta, wine, pizza. Here is no need to search for restaurants. Everywhere you will find small and cheap but nice **trattorie**, **osterie** and **ristoranti**. Prices, even in the centre, are reasonable and the quality remains of a fair standard. Many nice places are to be found in the Centro Storico, along Via Cavour and around Stazione Termini. Similarly, you can eat cheaply in the Borgo district around the Vatican.
-
-  **Trastevere** is Rome’s traditional restaurant ghetto – touristy now, but still the home of some fine and reasonably priced places. **Testaccio** is also a popular evening place with good selection of restaurants and pizzerias. Of course there is a huge selection of both Italian and international restaurants, but we live for the "god in italy" version and warmly recommend the local.
+Roman cuisine is gloriously simple and fiercely traditional. The city runs on four canonical pasta dishes -- cacio e pepe, carbonara, amatriciana, and gricia -- plus thin-crust pizza, supplì (fried rice balls), and some of the world's best gelato. Trastevere is the traditional restaurant district, touristy now but still home to genuinely good trattorias. Testaccio is where Romans themselves go for a night out, while the Centro Storico, Via Cavour, and the streets around Termini station are packed with options at every price point.

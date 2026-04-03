@@ -1,27 +1,6 @@
 ---
-title: "Books"
+title: 'Books'
 type: section
 ---
 
-Some very interesting and useful information booklets published
-by the Rome Tourist Board in PDF format could be found here:
-http://www.romaturismo.com/v2/richiestamateriali/en/richiestamateriali.html
-
-**Contributors**
-July 07, 2006
-
-## Destinations in Rome
-
-- [Trastevere](/europe/italy/lazio/rome/trastevere)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Robert Hughes' *Rome: A Cultural, Visual, and Personal History* is the definitive modern portrait of the city. For ancient Rome, Mary Beard's *SPQR* is both scholarly and readable. On the fiction side, Carlo Emilio Gadda's *That Awful Mess on the Via Merulana* captures the city's chaotic charm, and Elena Ferrante's Neapolitan novels include vivid Roman passages. For walking tours, pick up a copy of Rosamond Lancaster's *Pilgrim's Rome* or any of the locally published neighborhood guides available at bookshops around Termini.

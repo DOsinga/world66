@@ -1,17 +1,9 @@
 ---
-title: "Tarquinia"
+title: 'Tarquinia'
 type: poi
-address: "Tarquina Rome"
-phone: "Tarquina National Museum, +39 0766-856039"
+phone: '+39 0766 856039'
+latitude: 42.2494
+longitude: 11.7558
 ---
 
-Tarquinia is home to some of the most spectacular tombs in all of Italy. Highlights include the Tarquinia National Museum and the Etruscan Necropolis. Housed in a Gothic palace from the mid-15th century, Tarquinia National Museum features a wide variety of exhibits such as gold jewelry and decorated sarcophagi (tombs). One of the biggest attractions on site is a pair of terra cotta winged horses, in Hellenistic style that is considered a masterpiece of Etruscan art. Tombs, paintings and more can be found at Etruscan Necropolis (+39 0766-856308). To get to Tarquinia, take one of eight buses daily from the Via Lepanto stop in Rome (2-hour trip) or take the diretto train from the Roma Ostiense station (50-minute trip). Bus schedules: +39 0766-856384.
-
-**Contributors**
-May 22, 2008
-
-
-
-tel: Tarquina National Museum, +39 0766-856039
-
-address: Tarquina Rome
+Home to some of the most spectacular Etruscan tombs in Italy. The Tarquinia National Museum, housed in a 15th-century Gothic palace, displays gold jewelry, decorated sarcophagi, and a masterpiece pair of terra cotta winged horses. The Etruscan Necropolis features painted tombs that are a UNESCO World Heritage Site. Reachable by train from Roma Ostiense (about 50 minutes) or by Cotral bus from Via Lepanto (2 hours).

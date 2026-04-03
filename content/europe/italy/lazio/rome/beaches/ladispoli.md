@@ -1,15 +1,9 @@
 ---
-title: "Ladispoli"
+title: 'Ladispoli'
 type: poi
-address: "Ladispoli"
-latitude: 41.953722
-longitude: 12.073465
+address: 'Ladispoli'
+latitude: 41.9537
+longitude: 12.0735
 ---
 
-Beautiful beach located 45 minutes from the centre of Rome. Black sands. 5-10 minute walk from train station (Ladispoli). 22 euros for 2 sun loungers and a parasol all day. Not too busy. Plenty places to eat round about. Would highly recommend!
-
-
-
-
-
-address: Ladispoli
+A beautiful black-sand beach about 45 minutes from central Rome by train. The beach is not too busy, sun loungers and parasols are available for hire, and there are plenty of places to eat nearby. A 5-10 minute walk from Ladispoli train station.

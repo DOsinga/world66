@@ -1,11 +1,9 @@
 ---
 title: "Yarmouth"
 type: location
-latitude: 43.800913
-longitude: -70.187578
+latitude: 41.7059
+longitude: -70.2286
 ---
-
-Travel Guide
 
 Three villages make up the 17 square mile town of Yarmouth Cape Cod:
 West Yarmouth, Yarmouthport, and South Yarmouth. Each village has a

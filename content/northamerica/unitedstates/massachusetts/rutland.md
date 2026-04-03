@@ -1,11 +1,9 @@
 ---
 title: "Rutland"
 type: location
-latitude: 43.608479
-longitude: -72.972477
+latitude: 42.3698
+longitude: -71.9480
 ---
-
-Travel Guide
 
 Rutland is a residential hill town which is the geographic center of
 the Commonwealth, and also the highest town between the Berkshires and

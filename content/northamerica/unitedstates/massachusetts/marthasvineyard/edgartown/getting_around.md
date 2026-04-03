@@ -1,13 +1,6 @@
 ---
-title: "Getting Around"
+title: 'Getting Around'
 type: section
 ---
 
-Edgartown is a small town and everything is located within walking distance.
-
-There are several places renting bikes if you are interested in heading
-further away and a local bus goes from the parking lot to downtown as
-parking can be a problem during the summer.
-
-**Contributors**
-November 01, 2005
+Edgartown is a small town and everything is within walking distance. Bike rentals are available if you want to head further afield, and a local shuttle bus runs from the parking lot to downtown, which is helpful since parking can be difficult during summer.

@@ -1,25 +1,10 @@
 ---
-title: "The Steamship Authority"
+title: 'The Steamship Authority'
 type: poi
-phone: "(508) 477-8600"
-type: "By Sea"
-url: "www.steamshipauthority.com"
+phone: '508-477-8600'
+url: 'www.steamshipauthority.com'
+latitude: 41.5239
+longitude: -70.6718
 ---
 
-This is the most popular way to get to the Island, it is also the
-cheapest and the only option if you wish to bring your car with you.
-
-Frequent departures from Woods Hole to Vineyard Haven or Oak Bluffs with year around service.
-
-**Contributors**
-November 01, 2005
-
-type: By Sea
-
-
-
-
-
-tel: (508) 477-8600
-
-url: [www.steamshipauthority.com](http://www.steamshipauthority.com/)
+The most popular and cheapest way to get to Martha's Vineyard, and the only option if you want to bring your car. Frequent departures from Woods Hole to Vineyard Haven or Oak Bluffs, with year-round service.

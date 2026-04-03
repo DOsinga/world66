@@ -1,11 +1,9 @@
 ---
 title: "Rockland"
 type: location
-latitude: 41.151932
-longitude: -74.035727
+latitude: 42.1307
+longitude: -70.9076
 ---
-
-Travel Guide
 
 The Rockland area is full of forests, wildlife, lakes, ponds,
 beaches and parks for fishing, swimming, hiking, hunting, and boating.

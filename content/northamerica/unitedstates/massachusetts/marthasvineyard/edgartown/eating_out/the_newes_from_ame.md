@@ -1,35 +1,11 @@
 ---
-title: "The Newes from America Pub"
+title: 'The Newes from America Pub'
 type: poi
-address: "23 Kelley Street"
-price: "$8-15"
-type: "American"
-url: "www.kelley-house.com"
-latitude: 42.147155
-longitude: -71.413572
+address: '23 Kelley Street'
+price: '$8-15'
+url: 'www.kelley-house.com'
+latitude: 41.3882
+longitude: -70.5122
 ---
 
-Old-world style pub offering big selection of bar food and a wide choice of beers.
-
-Popular amoung locals as-well as visitors, central location. Very crowded during evenings in the peak season.
-
-Has the famous oven baked burrito that many visitors talk about for days.
-
-Friendly athmosphere with moderate noise levels.
-
-When you buy a beer you will receive a wodden nickel, collect 1000 and your name will go one of the bar stools.
-
-**Contributors**
-November 01, 2005
-
-type: American
-
-
-
-
-
-url: [www.kelley-house.com](http://www.kelley-house.com/dining.shtml)
-
-address: 23 Kelley Street
-
-PriceOfMenu: $8-15
+Old-world style pub with a big selection of bar food and a wide choice of beers. Popular with locals and visitors alike, in a central location. Very crowded during evenings in peak season. The famous oven-baked burrito is something visitors talk about for days. When you buy a beer you receive a wooden nickel -- collect 1,000 and your name goes on one of the bar stools.

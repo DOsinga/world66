@@ -3,16 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air**
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+The main entry point is Nouakchott-Oumtounsy International Airport (NKC), which has connections to Paris, Casablanca, Dakar, and a handful of other African cities. Air France, Royal Air Maroc, and Transavia all fly here. Flights from Europe typically connect through Paris or Casablanca. There is also an airport at Nouadhibou for those arriving from or continuing to the north.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**Visa**
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+Since January 2025, Mauritania no longer issues visas on arrival. All visitors who require a visa must apply in advance for an e-Visa through the Mauritanian immigration authority website. Allow at least two to four weeks for processing. The standard 30-day tourist visa costs around €55 / $60. Longer visas (90, 360, and 720 days) are also available. A yellow fever vaccination certificate is required for entry.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+Check the current situation before travelling — visa rules have changed several times in recent years.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+**By land**
 
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+The main overland crossings are from Morocco via the Western Sahara into Nouadhibou, from Senegal at Rosso (the main crossing on the Senegal River), and from Mali. The Morocco crossing is well-travelled but involves crossing no-man's-land in a convoy; take local advice on conditions. The Rosso crossing involves a river ferry and can be slow.
+
+Overland travel from Mali is possible in theory but most of the border region is currently considered unsafe due to jihadist activity — check current travel advisories carefully before attempting this route.

@@ -1,8 +1,8 @@
 ---
-title: 'Getting Around'
+title: "Getting Around"
 type: section
 ---
 
-Grenoble has an efficient tram and bus network run by TAG that covers the city and its suburbs well. The five tram lines are the backbone of the system and run frequently. A single ticket works across trams and buses. The compact old town is easily walkable, and the city has an extensive cycling network with a bike-share scheme called Metrovelo.
+Grenoble's centre is compact and flat, making walking the best way to see the old town. For longer distances, the city has an excellent tram and bus network run by TAG (Transports de l'Agglomération Grenobloise), with five tram lines and dozens of bus routes. Single tickets are cheap, and day passes are good value.
 
-The famous Bastille cable cars are both a transport link and an attraction in themselves, carrying passengers from the riverside up to the fortress in a few minutes. For day trips to ski resorts or surrounding valleys, Transisere buses connect to most destinations within the department.
+The Métrovélo bike-share system has stations across the city and is a popular way to get around — Grenoble is one of France's most cycle-friendly cities, with dedicated lanes on most main roads. For trips to ski resorts, the Transisère bus network connects to the surrounding valleys.

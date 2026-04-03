@@ -41,4 +41,3 @@ arrange homestays. You can also ask the Debed hotel manager (actually
 she will offer it to you) to prepare some dinner at the similar cost
 and quality as at Flora.
 
-http://en.wikipedia.org/wiki/Alaverdi

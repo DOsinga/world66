@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Naples"
+title: "Bars and Cafes"
 type: section
 ---
 

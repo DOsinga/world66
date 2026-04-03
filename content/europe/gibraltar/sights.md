@@ -1,26 +1,20 @@
 ---
-title: "Sights in Gibraltar"
+title: "Sights"
 type: section
 ---
 
-**Gibraltar sights** are a breath of fresh air from most of the hustling urban locales in Spain. Though Gibraltar is sited at the southernmost tip of the Spanish subcontinent, and is a relaxing place to spend your time. Spain was once a strong military base, but then the military stronghold died down considerably. Now it&rsquo;s largely considered a tourist haven and attracts huge number of visitors throughout the year. The points of attraction for the tourists are many in number, and each of them is equally fascinating.
+Almost everything worth seeing in Gibraltar is either on or inside the Rock itself. The Upper Rock Nature Reserve covers around 40% of the territory and contains the main attractions — book a Rock Tour by taxi or minibus if you want to cover the highlights efficiently, or walk up on your own if you have the energy and a few hours. Note that the cable car is currently closed for refurbishment (expected around 2028); alternatives are the Rock Tour taxis, minibuses, and footpaths.
 
-**The Famous Rock Tour
-**
-This tour lasts approximately an hour and half. It begins from the Botanic Gardens and ends at the Ape&rsquo;s Den. A cable car will take you to the top of the rock. The places covered in this tour include:
+**St Michael's Cave** is the centrepiece of any Rock visit. This network of limestone caverns, formed over millions of years by rainwater dissolving through the rock, runs to extraordinary depth — a lower system discovered in 1942 descends to an underground lake. The main chambers have been turned into a concert hall with good acoustics; events are held here regularly. Even without a concert, the cave formations are spectacular.
 
-Caves of St Michael – These caves are famous for all their glorious stalagmites and stalactites. The amazing part about this place is that you can catch a concert that is held deep within the caves.
+**The Great Siege Tunnels** tell the story of the most sustained military siege in modern history. Between 1779 and 1783, a combined Spanish and French force blockaded Gibraltar for three years and seven months. British soldiers hand-carved tunnels through the limestone to position artillery at otherwise inaccessible angles. The tunnels were expanded again during World War II. Walking through them gives a visceral sense of both the scale of the effort and the claustrophobia of the defenders. The WWII tunnels (City Under Siege exhibition) are a separate, extensive attraction in their own right.
 
-The Siege Tunnels – This tunnel has a rich history. It was carved in order to defend Gibraltar from 1779 and 1783, when the Great Siege occurred. Initially, the tunnel was only 82 feet long, but after the World War II came to an end, the tunnel measured an astounding length of 30 miles. Once you enter the tunnel, you get a feel that it will go on forever.
+**The Barbary Macaques** are Gibraltar's most photographed residents. Around 300 of these tailless monkeys (technically not apes, despite the local name) live wild on the Rock, organised into several troops. They are genuinely wild animals and will steal food, bags, cameras, and anything else that takes their fancy — keep your belongings close. According to legend, British rule will last only as long as the apes remain. Whether or not you believe that, the Governor's office takes their welfare seriously.
 
-**Moorish Castle**
+**The Moorish Castle** stands on the upper western slope of the Rock and dates back to the 8th century, though most of what you see today is the 14th-century Tower of Homage. HM Prison Gibraltar occupies part of the complex, which adds an oddly contemporary element to the history.
 
-This castle in Gibraltar is another exciting tourist spot. This castle was rebuilt in the year 1933, and is believed to be one of the largest visited tourist spots in the Spanish sub-continent. Its dominant features will simply make you awe-struck. Its fortified walls, buildings, and gates are quite remarkable. The HM Prison of Gibraltar is housed in a significant portion of the castle.
+**Europa Point** is the southernmost tip of Gibraltar, and on a clear day the African coast of Morocco is visible just 23 kilometres across the Strait. The lighthouse dates to 1841. Nearby is the Ibrahim-al-Ibrahim Mosque, a gift from King Fahd of Saudi Arabia inaugurated in 1997 — an unexpectedly beautiful building in this most British of territories.
 
-**Europa Point**
+**The Gibraltar Museum** on Bomb House Lane covers the territory's history from Neanderthal skull finds to the Great Siege. Particularly worth seeing are the Moorish baths, excavated beneath the building and considered among the best-preserved medieval baths in Europe. Admission is inexpensive and the museum is compact enough to see in under two hours.
 
-Being the southernmost tip of Gibraltar, Europa Point is another fascinating Gibraltar sight. When standing at the point, you can catch a spectacular view of the African coast, which lies at a close proximity of 14 miles. Here you can obtain an assortment of refreshments as well as souvenirs here. Another brilliant attraction near the Europa Point is the Ibrahim-al-Ibrahim Mosque. This architectural marvel was a gift from the monarch of Saudi Arabia, King Fahd. This building took about two years to construct, and the cost came around &pound;5 million. The official inauguration of this building took place on August 8, 1997.
-**
-Eastern Beach**
-
-This is the most popular beach in Gibraltar. Like other beaches, this one is also sparkling clear, with azure waters and blue skies. The beach is remarkably being wide and long, and houses a number of facilities. Other beaches that you may frequent are Catalan Bay, Little Bay, and Sandy Bay.
+**Alameda Botanic Gardens** at the southern end of Main Street are a peaceful alternative to the Rock. Free to enter, with good views across the bay, they make a pleasant half-hour stop.

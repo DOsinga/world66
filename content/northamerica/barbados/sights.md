@@ -3,56 +3,18 @@ title: "Sights"
 type: section
 ---
 
-Barbados is a picturesque island paradise. There are many
-activities for you and your family to enjoy. Some tourists like to
-stay in their resort, while others like to venture out of the resort
-confines and take in cultural and natural sites. Barbados has great
-sights that will interest both history and nature lovers.
+Barbados rewards those who venture beyond the beach. The island has a surprisingly dense concentration of historical sites, natural attractions, and working rum distilleries.
 
-**Welchman Hall Gully**
+**Harrison's Cave** in the central uplands is the most spectacular natural attraction on the island — a system of limestone caverns with stalactites, stalagmites, streams, and underground waterfalls. Tram tours run through the cave system; there's also an "Early Explorers" spelunking tour for those who want to go deeper. Book in advance, particularly in peak season.
 
-Nature lovers are sure to enjoy Welchman Hall Gully in Barbados. It
-is the most easily accessible tropical landscape in Barbados. This is
-the first natural area of its kind in Barbados was purchased by
-Barbados National Trust in 1962. This lush and enchanting gully is
-filled with species of wild plants and exotic birds. Playful Green
-Monkeys live here, you can watch them play in their natural habitat. Contact Welchman Hall Gully for feeding times if you want to be 100%
-sure to see them.
+**Bridgetown and its Garrison** is a UNESCO World Heritage Site. The Garrison Historic Area — just south of the capital — preserves the most intact British colonial military complex in the Caribbean. The Barbados Museum, housed in the old military prison, is one of the best in the region. In the city itself, the Careenage waterfront, Parliament Buildings, and the 17th-century Nidhe Israel Synagogue (one of the oldest in the Americas) are all worth your time.
 
-**Ocean Park**
+**Andromeda Botanic Gardens** on the east coast is a compact but beautifully maintained collection of tropical plants, set on a hillside above the Atlantic. Good for birdwatching. Budget about an hour and a half.
 
-Ocean Park is Barbados unique Marine Aquarium. You can gaze at the
-aquatic life in a number of simulated natural environments. There are
-fresh water exhibits, salt water exhibits and Mini Golf. Tickets cost
-more than a movie but there are discounts for families of five or
-more. Don’t show up too late because the park closes early between 5
-and 6 pm.
+**Welchman Hall Gully** in the Scotland District is a forested ravine managed by the Barbados National Trust — a good place to see green monkeys in their natural habitat. Check feeding times if you want a guaranteed sighting.
 
-**Underwater Submarine Tours**
+**Francia Plantation** is an early 20th-century plantation house open for tours. The interior has impressive antique furnishings and the house itself is architecturally distinctive — built by a Frenchman via Brazil, with Brazilian hardwood floors. Closed on weekends.
 
-Experience Barbados from the perspective of a scuba diver and climb
-aboard a submarine. This undersea voyage takes you to places where you
-can be close to colorful tropical fish in their own habitat. These
-submarine tours are fully narrated to satisfy all the curious questions
-you think of on your journey. The submarine is fun but it is expensive
-for only one hour of actual submarine time.
+**Mount Gay Rum Distillery** near Bridgetown offers tours of what claims to be the world's oldest rum brand (established 1703). Even if you're not particularly interested in rum production, the tasting at the end is worth it.
 
-**Andromeda Botanic Gardens**
-
-The Andromeda Botanic Gardens is world renowned for its diverse
-collection of tropical plants. Set in a picturesque landscape above
-the slopes of the Atlantic Ocean it houses rare species of trees, palms
-and succulents. Birdwatchers will be enchanted as these unusual
-botanical specimens draw equally unusual birds to this magical place. The ticket price is reasonable and the entrance fee for children is
-half the price of the adults. There is free parking and the entire
-visit takes about an hour and a half.
-
-**Francia Plantation**
-
-The Francia Plantation in Barbados is an impressive plantation
-mansion built by a Frenchmen who landed in Barbados via Brazil. The
-majestic entrance hall features hardwood floors made with rare
-Brazilian Sucupira wood. The collection of antique furniture in this
-historic red roofed Italian villa is really just to die for.
-Unfortunately, none of it is for sale. This Barbados tourist
-attraction is cheap and closed on weekends.
+**Hunte's Gardens** in the Scotland District is a private tropical garden created by horticulturist Anthony Hunte in a former gully. Hunte himself is often on hand, and his enthusiasm for the place is infectious. Unconventional and wonderful.

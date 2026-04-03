@@ -1,12 +1,10 @@
 ---
 title: "Katahdin"
 type: location
-latitude: 45.903847
-longitude: -68.91454
+latitude: 45.9038
+longitude: -68.9215
 ---
 
-Katahdin is the end of the Apalachian Trail, or the beginning, depends on which way you are coming. Whitewater Rafting, Kayaking, Canoeing, Fishing, Boating, Foliage Viewing, Hiking, Photography, Snowmobiling, Moose Watching Tours: Four seasons of outdoor excitement and wonder await you in the Katahdin Region.
+Mount Katahdin is the highest point in Maine and the northern terminus of the Appalachian Trail -- or the beginning, depending on which direction you are walking. The mountain stands in Baxter State Park, just 23 miles from Interstate 95, but feels like pure wilderness.
 
-Visitors are sure to find delights any time of year with a variety of accommodations available. Breathtaking Mt. Katahdin stands majestically greeting visitors as they drive into the region. Baxter State Park is 23 short miles from Interstate 95. Pure wilderness.
-
-The region encompasses the following towns: Millinocket, Medway, Patten, Sherman and Brownville.
+The Katahdin region offers four seasons of outdoor activity: whitewater rafting, kayaking, fishing, hiking, and moose watching in summer; snowmobiling and cross-country skiing in winter. The surrounding towns of Millinocket, Medway, Patten, Sherman, and Brownville provide basic services and accommodations.

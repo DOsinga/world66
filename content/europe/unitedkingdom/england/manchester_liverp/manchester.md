@@ -1,12 +1,14 @@
 ---
-title: 'Manchester'
+title: "Manchester"
 type: location
-latitude: 53.479489
-longitude: -2.245115
+latitude: 53.4808
+longitude: -2.2426
 ---
 
-Manchester powered the Industrial Revolution with its cotton mills and today it is one of the most vibrant cities in England. The rebuilding after the 1996 IRA bomb and the 2002 Commonwealth Games transformed the city centre, and the investment has not stopped since. The galleries and museums are outstanding -- the Museum of Science and Industry, Manchester Art Gallery, the Lowry and the Imperial War Museum North are all worth a visit.
+Manchester is a city that keeps reinventing itself. From the engine room of the Industrial Revolution to the birthplace of Britpop, it has always punched above its weight. The IRA bomb of 1996 flattened the city centre; Manchester rebuilt it bigger and better, then did the same again for the 2002 Commonwealth Games. The result is a confident, compact city with world-class museums, a famous music scene, and some of the best eating in northern England.
 
-The city centre is compact and walkable, concentrated around Piccadilly Gardens. The Northern Quarter is the bohemian heart of the city, full of vintage shops, independent bars and record stores. Manchester is also famous for the bands it produces -- from the Smiths and the Stone Roses to Oasis -- and new talent always finds a stage, whether in one of the many pubs or clubs the nightlife scene has to offer.
+The centre clusters around Piccadilly Gardens, with high-street shopping on Market Street and the enormous Arndale Centre. Just north, the Northern Quarter is the city's creative heart: independent record shops, vintage clothing stores, and a dense concentration of bars and cafes. South along Oxford Road, a long university corridor gives the city a youthful energy that feeds directly into its nightlife.
 
-Chinatown, near Piccadilly Gardens, has charming eating houses serving excellent food. A few miles south of the centre, in Rusholme, fans of Indian food will find plenty of restaurants along the famous Curry Mile. The Barton Arcade on Deansgate is a beautifully restored Victorian glass arcade, and Heaton Park to the north offers 600 acres of green space.
+Chinatown, a few blocks from Piccadilly Gardens, is one of Europe's largest. Further south in Rusholme, the famous Curry Mile lines Wilmslow Road with dozens of Indian and Pakistani restaurants. Over in Salford Quays, the Lowry arts centre and the Imperial War Museum North sit on the regenerated waterfront.
+
+Manchester is also a football city, home to both Manchester United at Old Trafford and Manchester City at the Etihad Stadium. Match days transform the city, but even midweek, the sporting heritage is hard to miss.

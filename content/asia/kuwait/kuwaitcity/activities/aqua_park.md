@@ -1,30 +1,11 @@
 ---
 title: "Aqua Park"
 type: poi
-address: "Kuwait City"
-email: "fth08@hotmail.com"
-phone: "-"
-type: "Swimming"
-url: "-"
-zipcode: "-"
-latitude: 29.379653
-longitude: 47.973417
+address: "Arab Gulf Street, Kuwait City"
+latitude: 29.389000
+longitude: 48.000000
 ---
 
-Aqua Park is just the place you would want to go to. It is located next to the beautiful Kuwait Towers. It is a water village with different kinds of slides lovely view of beaches. Also it has a variety of resturants and it is located in the best place ever. If you want to enjoy Kuwait go there.
+The first and largest water park in the Gulf region, Aqua Park sits right next to the Kuwait Towers on the waterfront. Opened in 1995, it has a range of pools and water slides for all ages, a man-made river for lazy floating, a go-kart track, and a paintball field. There are several restaurants on site.
 
-type: Swimming
-
-
-
-
-
-zipcode: -
-
-email: fth08@hotmail.com
-
-address: Kuwait City
-
-url: [-](http://-)
-
-tel: -
+Open from April to October, it is one of the most popular ways to beat the brutal summer heat. The location is hard to beat -- you can see the Kuwait Towers from the pools. It gets crowded on weekends and holidays, so arrive early if you can.

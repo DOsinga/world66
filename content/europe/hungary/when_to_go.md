@@ -1,16 +1,14 @@
 ---
-title: "When to Go in Hungary"
+title: "When to Go"
 type: section
 ---
 
-**Enjoy Hungary at its Peak**
+Hungary has four distinct seasons. Summer is the most popular time to visit but also the most crowded and expensive; spring and autumn are often a better choice.
 
-It is important to consider several things in your **Hungary when to go **plan. Hungary is a landlocked country which is located in the center of continental Europe. It is a very beautiful country that is blessed with four different seasons. The climate in Hungary makes this particular country very interesting as the scenic views change along with its seasons.
+**Spring (April–May)** is lovely — mild temperatures, blooming countryside, and fewer crowds than summer. The Budapest Spring Festival in late March brings concerts, opera, and arts events to the capital. May is arguably the best month: warm enough to sit outside, quiet enough to get into restaurants without a reservation.
 
-**Winter Sports: November to January**
+**Summer (June–August)** is peak season. Budapest is busy and can feel hot and humid. Lake Balaton fills with Hungarian holidaymakers and European tourists. The big draw is the Sziget Festival in August, one of Europe's largest music festivals, held on an island in the Danube. The Street of Hungarian Flavours food festival runs around August 20 (Hungary's national holiday, St. Stephen's Day), with stalls and open-air celebrations across the country.
 
-Winter in Hungary can be very harsh considering that the temperature can drop as low as 29 degrees C; the country is the best place to experience winter sporting events. In fact, Hungary holds small ice skating competitions which are held in a city park called V&aacute;rosliget from November to February. This particular competition is usually attended by locals but foreigners are also invited to participate in the skating competitions. You can also head off to K&eacute;kestet&otilde;, M&aacute;traszentl&aacute;szl&oacute;, B&aacute;nk&uacute;t and M&aacute;traszentistv&aacute;n to enjoy a ski trip.
+**Autumn (September–October)** is excellent for wine tourism. The Tokaj harvest festival happens in October, and Eger's Bull's Blood Festival celebrates the famous red wine of the region. The weather stays warm well into September, prices drop, and Budapest's ruin bars are at their atmospheric best.
 
-**Budapest Spring Festival**
-
-This festival began in 1981 to commemorate Budapest's, Hungary's capital city, cultural heritage. The Budapest Spring Festival is usually celebrated in the last two weeks of March, annually. This celebration is also known as the "festival of festivals" because it used to cover a wide range of artistic activities. Now, the emphasis of the festival is known for its symphony orchestra concerts, ballet and opera performances that are always held in the most important concert halls and theaters.
+**Winter (December–February)** is cold, sometimes bitterly so. The upside is that Budapest's Christmas markets — at Vörösmarty Square and around St. Stephen's Basilica — are among the best in Central Europe. Thermal baths become genuinely appealing rather than just touristy in winter. January and February are quiet and cheap.

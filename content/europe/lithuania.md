@@ -5,11 +5,10 @@ latitude: 55.35
 longitude: 23.75
 ---
 
-Lithuania is the southernmost of the three ex Soviet Republics on the Baltic. Lithuania has a long history behind itself as a proud kingdom and once stretched to the Black See, some 2000 kilometers further to the south.
+Lithuania is the southernmost of the three Baltic states, sandwiched between Latvia to the north, Belarus to the east, Poland to the south, and the Russian exclave of Kaliningrad to the southwest. It's a small country — about the size of Ireland — but one with outsized history and a genuinely distinct character.
 
+For centuries Lithuania was a major European power. The Grand Duchy of Lithuania at its peak in the 15th century stretched from the Baltic to the Black Sea, making it one of the largest states on the continent. That history is still visible: in the UNESCO-listed old town of [Vilnius](/europe/lithuania/vilnius), in the castles and fortifications around [Kaunas](/europe/lithuania/kaunas), in the Jewish cemeteries and memorials that bear witness to the near-total destruction of what was once called the Jerusalem of Europe.
 
- Since then the country has shrunk a lot. But what's left is certainly worth exploring. A good starting point is [Vilnius](/europe/lithuania/vilnius), the Jerusalem of Europe as it was called at the turn of the century. Other places of interest include the cities of [Kaunas](/europe/lithuania/kaunas) and [Klaipeda](/europe/lithuania/klaipeda).
- 
+Modern Lithuania joined the EU and NATO in 2004 and has been a confident, outward-looking country ever since. Vilnius in particular has transformed into a lively European capital with good restaurants, a thriving arts scene, and one of the best-preserved Baroque old towns in Northern Europe. Outside the capital, the country rewards exploration: the port city of [Klaipeda](/europe/lithuania/klaipeda), the spa resort of [Druskininkai](/europe/lithuania/druskininkai), the haunting Hill of Crosses near [Siauliai](/europe/lithuania/siauliai), and the extraordinary Curonian Spit — a narrow sand dune peninsula shared with Russia and protected as a UNESCO World Heritage Site.
 
-
- World66.com does not have an editor for this region. If you are interested click here.
+Lithuania is an easy country to travel. English is widely spoken by younger people, prices are reasonable by Western European standards, and the infrastructure is good. It tends to be overlooked compared to its Baltic neighbours, which makes it all the more rewarding.

@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 4 599 785 (July 1998 est.)
+Papua New Guinea has a population of around 10 million people, the vast majority of whom live in rural areas. It is one of the most ethnically fragmented countries in the world: over 800 distinct language groups exist, each typically associated with its own clan structure, territory, and traditions. Many communities have historically had little contact with their neighbours, which explains both the extraordinary linguistic diversity and the persistence of inter-clan conflict.
 
-**Age structure:**
+The population is predominantly Melanesian, with Papuan, Micronesian, and Polynesian minorities in different parts of the country. The Highlands are the most densely populated region, with large groups including the Huli, Enga, and Melpa. The Huli of the Tari area are particularly well known for their elaborate wigs — made from their own hair — and dramatic face paint.
 
-*0-14 years:* 40% (male 936 206; female 888 427)
+Christianity is widespread (more than 90% of the population identifies as Christian, across Catholic, Lutheran, Anglican, and evangelical denominations), but it sits alongside rather than having replaced traditional animist beliefs and practices. Spirit houses, initiation ceremonies, and beliefs about magic and sorcery remain important in many communities.
 
-*15-64 years:* 57% (male 1 374 471; female 1 263 750)
+The majority of Papua New Guineans are subsistence farmers. Coffee, cocoa, palm oil, and copra are the main cash crops. The country also has significant mineral wealth — gold, copper, and liquefied natural gas — but revenues have not translated into broad improvements in living standards. Urban migrants, many living in settlements on the edges of Port Moresby and Lae, face a very different set of pressures from their rural counterparts.
 
-*65 years and over:* 3% (male 62 593; female 74 338) (July 1998 est.)
-
-**Population growth rate:** 2.27% (1998 est.)
-
-**Birth rate:** 32.37 births/1 000 population (1998 est.)
-
-**Death rate:** 9.65 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.09 male(s)/female
-
-*65 years and over:* 0.84 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 57.09 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 58.06 years
-
-*male:* 57.18 years
-
-*female:* 58.98 years (1998 est.)
-
-**Total fertility rate:** 4.26 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Papua New Guinean(s)
-
-*adjective:* Papua New Guinean
-
-**Ethnic groups:** Melanesian Papuan Negrito Micronesian Polynesian
-
-**Religions:** Roman Catholic 22% Lutheran 16% Presbyterian/Methodist/London Missionary Society 8% Anglican 5% Evangelical Alliance 4% Seventh-Day Adventist 1% other Protestant sects 10% indigenous beliefs 34%
-
-**Languages:** English spoken by 1%-2% pidgin English widespread Motu spoken in Papua region
-
-*note:* 715 indigenous languages
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 72.2%
-
-*male:* 81%
-
-*female:* 62.7% (1995 est.)
+The concept of *wantok* — literally "one talk," meaning people who speak the same language — is fundamental to social life. Obligations to your wantok group govern employment, housing, and sharing of resources. It can be a tremendous support network; it also creates difficulties in building impartial public institutions.

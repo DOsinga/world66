@@ -1,6 +1,10 @@
 ---
 title: "Arnun"
 type: location
+latitude: 33.3283
+longitude: 35.4403
 ---
 
-Although a relatively small town Arnun has an impressive sight: Beaufort Castle which sits atop a 1 000-ft/305-m cliff overlooking the Litani River. Many conquerors have walked along the battlements of this Crusader castle. However the castle was damaged during the civil war and it lies within the Israeli self-declared security zone. We recommend that travelers stay away from the area at this time. 40 mi / 65 km south of Beirut.
+Arnun is a small town in southern Lebanon notable for Beaufort Castle (Qalaat al-Shaqif), a Crusader fortress perched atop a 300-metre cliff overlooking the Litani River. The castle has a dramatic history -- it changed hands many times between Crusaders, Mamluks, Ottomans and modern militias, and was used as a military position during the civil war and subsequent conflicts.
+
+The castle was damaged during fighting but remains an imposing sight. Southern Lebanon was heavily affected by conflict in 2024, and travelers should check current conditions and security advisories before visiting this area. Arnun is about 65 km south of [Beirut](/asia/lebanon/beirut).

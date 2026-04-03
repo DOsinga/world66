@@ -3,16 +3,10 @@ title: "Festivals"
 type: section
 ---
 
-Jordan is having a Tourism and Hospitality Careers Forum on 31 July - 1st August, 2007. This is the first careers forum for the travel, tourism and hospitality industry in the Kingdom. It will be a kind of festival because its attracting major players in tourism and employers will be directlty presented to discuss, develop and initiate project opportunities in Jordanian tourism.
+**Jerash Festival of Culture and Arts** is the big one. Held annually in late July and early August in the ruins of the ancient Roman city of [Jerash](/asia/jordan/jerash), the festival brings together music, theatre, dance, and poetry from across the Arab world and beyond. Concerts take place in the ancient Southern and Northern Theatres, with the colonnaded ruins lit up at night. It runs for around two weeks and draws large crowds, both Jordanian and international. Performances range from classical Arabic music to contemporary Arab pop. If you are in Jordan during this period, it is worth timing a visit to Jerash around it.
 
-The careers forum is organized by the Jordan Inbound Tour Operators Association whose officials believe that the even is in line with the Jordan National Tourism Stratagy to upgrade the status of the tourism industry in Jordan, and equip it with the right and skilled labour force.
+**Eid al-Fitr** and **Eid al-Adha** are the two major Islamic holidays. Eid al-Fitr marks the end of Ramadan and is celebrated with family gatherings, new clothes, and sweet pastries. Eid al-Adha, the Feast of Sacrifice, is marked by the slaughter of an animal and the sharing of meat with family, neighbors, and those in need. Both Eids involve public holidays; government offices, banks, and many businesses close for several days.
 
-The Career Forum is being supported by the USAID/Jordan Development Tourism Project (Siyaha) which is itself involved in product development of the tourism industry in Jordan.
+**Ramadan** is not a festival in the usual sense, but it transforms daily life. Days are quiet; evenings come alive. Restaurants and cafes that are closed by day fill up at sunset for the iftar meal. Street food vendors appear, families gather, and cities take on a particular festive atmosphere after dark. Visiting during Ramadan gives a genuine window into Jordanian culture, though it requires adjusting your expectations around meal times and opening hours.
 
-Presently it is working on a number of projects that include Madaba and Wadi Rum and has just embarked on a national awareness strategy to among the local population to increase awareness and appreciation of the tourism product in Jordan.
-
-The Career Forum falls within this overall development strategy and perspective to upgrade the occupational professionalism of the tourism industry by seeking to set standards among the local populations.
-
-JITOA has been working on promoting the careers forum for the last three months. Tours operators, Travel agents, hoteliers, restaurants, event management companies will be participating in the two-day event, and there are across the board jobs from housekeepers, account executives, clerks, to executive chefs, all will be required.
-
-The career forum is a sign of the times for Jordanian tourism as the sector contributes between 10 and 12 percent of the country's domestic national product.
+**Independence Day** (May 25) marks Jordan's independence from British rule in 1946 and is celebrated with military parades and public festivities in Amman.

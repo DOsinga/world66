@@ -1,20 +1,26 @@
 ---
 title: "Getting Around"
 type: section
-url: "www.atp.com.mt"
 ---
 
-Please find practical information on transport below.
+Malta is small — the main island is only 27 km long — so distances are manageable, but the roads are narrow and traffic in the central belt can be bad.
 
-**Contributors**
-August 09, 2006
+**By bus**
 
-### [By bus](/europe/malta/getting_around/by_bus)
+Malta Public Transport runs an extensive bus network of over 120 routes, all radiating from Valletta Bus Terminus. This is the simplest and cheapest way to get around. A single ticket costs €2 in winter and €2.50 in summer, valid for two hours (so transfers are free within that window). Night services and express routes cost €3. For a longer stay, the 7-day Explore Card (€25) gives unlimited travel across Malta and Gozo. Download the Tallinja app for route planning and real-time arrivals.
 
-The site of the Public Transport Association, or as it is known in Maltese: Assocjazzjoni Trasport Pubbliku ATP , is very useful for finding bus routes, bus fares and timetables.
+The downside: buses get crowded at peak hours and can be slow on busy routes. Travel mid-morning or early afternoon where possible.
 
-All busses have a relegious icon at the front to which passengers cross themselves before taking a seat. The reasons why will become apparent should you decide to catch the bus!
+**By ferry**
 
+The Gozo Channel ferry runs from Cirkewwa (northern Malta) to Mgarr on Gozo roughly every 45 minutes; the crossing takes 25 minutes. The fare of €4.65 per adult (return) is paid on the Gozo side. In summer, a direct fast ferry from Valletta to Gozo takes about 45 minutes.
 
+A short harbour ferry connects Valletta to Sliema (the Sliema ferry) and to the Three Cities (Birgu/Vittoriosa). Both are pleasant and faster than going round by road — well worth taking.
 
-url: [www.atp.com.mt](http://www.atp.com.mt/index.html)
+**By car**
+
+Renting a car gives you flexibility for exploring the quieter parts of the island, particularly around the cliffs and rural northwest. Malta drives on the left — a legacy of British rule that catches many continental European visitors off guard. Parking in Valletta requires a permit; most visitors park in Floriana and walk in.
+
+**By taxi**
+
+eCabs and Bolt operate app-based taxis at reasonable rates. Official white taxis are metered. Agree on a price before getting in if you use a non-metered cab.

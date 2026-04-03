@@ -1,12 +1,15 @@
 ---
-title: 'Centrale Montemartini'
+title: "Centrale Montemartini"
 type: poi
-category: 'Museums'
-address: 'Via Ostiense, 106'
-phone: '+39 06 57991'
-url: 'www.centralemontemartini.org'
+category: "Museum"
+address: "Via Ostiense 106, 00154 Rome"
+url: "www.centralemontemartini.org"
+opening_hours: "Tue–Sun 09:00–19:00; closed Mon"
+admission: "€7.50 full, €6.50 reduced"
 latitude: 41.8665
 longitude: 12.4780
 ---
 
-A former power station converted into a museum displaying 450 Greek and Roman sculptures from the Capitoline Museums. The juxtaposition of classical marble statues against industrial turbines and machinery creates one of Rome's most striking and unusual exhibition spaces.
+Around 450 Greek and Roman sculptures from the Capitoline Museums collection displayed in a decommissioned early-20th-century power station in the Ostiense district. The contrast between white marble gods and athletes and the giant turbines and boilers of the industrial plant is genuinely striking — this is one of Rome's most atmospheric museum spaces.
+
+Worth the short metro ride from the centre (Garbatella on Line B). Far less crowded than the Capitoline Museums proper.

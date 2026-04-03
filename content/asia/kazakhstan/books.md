@@ -3,112 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Kazakhs** by Martha Brill Olcott — the definitive English-language account of Kazakh history and society, from the nomadic era through Soviet rule to independence. Dense but authoritative.
 
-**The Kazakhs**
+**Kazakhstan: Unfulfilled Promise** by Martha Brill Olcott — a follow-up focused on the post-independence period, examining why Kazakhstan's oil wealth hasn't translated into genuine political reform. Honest and critical.
 
+**Apples Are from Kazakhstan** by Christopher Robbins — a British journalist's account of traveling through Kazakhstan in the early 2000s. Entertaining and skeptical, it captures the strangeness of the early post-Soviet period and the country's contradictions.
 
+**The Silk Roads: A New History** by Peter Frankopan — Kazakhstan sits at the heart of this sweeping history of the routes connecting East and West. Essential reading for understanding why Central Asia mattered for so long.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0817993525/ref=ase_osingacom?v=glance&s=books)
+**Cattle Car to Kazakhstan** by Ruzena Berler — memoir of a Jewish doctor deported by the Soviets during World War II. A human account of the dark chapter when hundreds of thousands of people were forcibly relocated to Kazakhstan from Ukraine, the Caucasus, and elsewhere.
 
-author: Martha Brill Olcott
-
-isbn: 0817993525
-
-subject: travel
-
-**Kazakhstan :A Faint-Hearted Democracy**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/087003099X/ref=ase_osingacom?v=glance&s=books)
-
-author: Martha Brill Olcott,Martha B. Olcot
-
-isbn: 087003099X
-
-subject: travel
-
-**Kazakhstan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0822528150/ref=ase_osingacom?v=glance&s=books)
-
-author: Lerner Geography Department,Geography Departm..
-
-isbn: 0822528150
-
-subject: travel
-
-**The Kazakhs**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0817993525/ref=ase_osingacom?v=glance&s=books)
-
-author: Martha Brill Olcott
-
-isbn: 0817993525
-
-subject: culture
-
-**Kazakhstan :A Faint-Hearted Democracy**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/087003099X/ref=ase_osingacom?v=glance&s=books)
-
-author: Martha Brill Olcott,Martha B. Olcot
-
-isbn: 087003099X
-
-subject: culture
-
-**Kazakhstan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0822528150/ref=ase_osingacom?v=glance&s=books)
-
-author: Lerner Geography Department,Geography Departm..
-
-isbn: 0822528150
-
-subject: culture
-
-**The Kazakhs**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0817993525/ref=ase_osingacom?v=glance&s=books)
-
-author: Martha Brill Olcott
-
-isbn: 0817993525
-
-subject: history
-
-**Kazakhstan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0822528150/ref=ase_osingacom?v=glance&s=books)
-
-author: Lerner Geography Department,Geography Departm..
-
-isbn: 0822528150
-
-subject: history
-
-**Cattle Car to Kazakhstan:A Woman Doctor's Triumph of Courage in World War II**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0533127815/ref=ase_osingacom?v=glance&s=books)
-
-author: Ruzena Berler
-
-isbn: 0533127815
-
-subject: history
+**Absurdistan** by Gary Shteyngart — fiction, not Kazakhstan specifically, but Shteyngart's darkly comic portrait of post-Soviet Central Asian dysfunction captures something true about the region's contradictions. Good reading for the long train ride to Astana.

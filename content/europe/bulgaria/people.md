@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 8 240 426 (July 1998 est.)
+Bulgaria has a population of around 6.4 million — down sharply from 9 million in 1990, largely due to emigration to Western Europe after EU accession in 2007. It's one of the EU's demographic stories: an aging population, low birth rate, and a generation of young Bulgarians who left for better wages in Germany, Spain, and the UK. Those who stayed have built something: a small but genuine creative and tech scene, mainly in Sofia.
 
-**Age structure:**
+Around 84% of the population are ethnic Bulgarians. Turks make up about 8–9%, concentrated in the Rhodope region and northeast Bulgaria, a legacy of the Ottoman period. Roma are the third-largest group, officially around 4–5% but estimated higher in reality. There are small communities of Armenians, Russians, and Greeks, particularly in Plovdiv and the coast.
 
-*0-14 years:* 16% (male 696 131; female 662 335)
+The Bulgarian Orthodox Church has been central to national identity since the 9th century, when Saints Cyril and Methodius developed the Glagolitic script — the precursor to Cyrillic — to translate the scriptures. Religion is more cultural than practiced for many Bulgarians today, but monasteries remain places of genuine pilgrimage and community life.
 
-*15-64 years:* 68% (male 2 756 695; female 2 812 192)
+Bulgarians have a reputation for hospitality that isn't marketing copy — arriving at a home without being offered coffee, rakia, and food requires considerable effort. Expect directness, a certain wry humor about the country's troubles, and genuine warmth toward visitors who make an effort.
 
-*65 years and over:* 16% (male 564 698; female 748 375) (July 1998 est.)
-
-**Population growth rate:** -0.6% (1998 est.)
-
-**Birth rate:** 8.08 births/1 000 population (1998 est.)
-
-**Death rate:** 13.24 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.8 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 0.98 male(s)/female
-
-*65 years and over:* 0.75 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 12.78 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 71.96 years
-
-*male:* 68.39 years
-
-*female:* 75.74 years (1998 est.)
-
-**Total fertility rate:** 1.14 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Bulgarian(s)
-
-*adjective:* Bulgarian
-
-**Ethnic groups:** Bulgarian 85.3% Turk 8.5% Gypsy 2.6% Macedonian 2.5% Armenian 0.3% Russian 0.2% other 0.6%
-
-**Religions:** Bulgarian Orthodox 85% Muslim 13% Jewish 0.8% Roman Catholic 0.5% Uniate Catholic 0.2% Protestant Gregorian-Armenian and other 0.5%
-
-**Languages:** Bulgarian secondary languages closely correspond to ethnic breakdown
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 98%
-
-*male:* 99%
-
-*female:* 97% (1992 est.)
+One cultural note worth knowing: Bulgarians nod their head to mean "no" and shake it to mean "yes" — the opposite of most of the world. This causes real confusion and is not a myth.

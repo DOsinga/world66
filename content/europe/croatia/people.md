@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 4 671 584 (July 1998 est.)
+Croatia has a population of around 3.9 million — a figure that has been falling for decades due to emigration and low birth rates, a trend that accelerated after EU accession in 2013 brought freedom of movement. Croats make up roughly 90% of the population; the largest minority group is Serbs, concentrated mainly in eastern Slavonia. The 1991–1995 war significantly altered the country's ethnic composition, and the legacy of that period is still felt, though rarely discussed with strangers.
 
-**Age structure:**
+Croats are predominantly Catholic — the Church remains a significant cultural and social force, particularly outside the major cities. Religion and national identity are closely intertwined.
 
-*0-14 years:* 17% (male 411 022; female 389 354)
+Croatian (Hrvatski) is the official language and a South Slavic language closely related to Serbian and Bosnian, though the question of linguistic distinction carries political weight. Regional dialects vary considerably — Dalmatian Croatian sounds quite different from the Zagreb standard.
 
-*15-64 years:* 68% (male 1 591 716; female 1 592 485)
+The country divides informally into several distinct cultural regions: cosmopolitan [Zagreb](/europe/croatia/zagreb) and the continental interior; Istria in the northwest, which has a strong Italian cultural influence; and Dalmatia along the coast, which has its own Mediterranean character and feels quite different from inland Croatia. Slavonians in the east are proud of their traditions, wine, and the land.
 
-*65 years and over:* 15% (male 262 471; female 424 536) (July 1998 est.)
+Dalmatians in particular have a reputation for being relaxed, sociable, and proud. In the coastal towns, sitting in a cafe for three hours over one coffee is not laziness — it's a way of life (fjaka). Visitors who try to rush Croatians are usually met with polite bewilderment.
 
-**Population growth rate:** 0.13% (1998 est.)
-
-**Birth rate:** 10.45 births/1 000 population (1998 est.)
-
-**Death rate:** 11.14 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 1.94 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.07 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.61 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 8 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 73.75 years
-
-*male:* 70.43 years
-
-*female:* 77.28 years (1998 est.)
-
-**Total fertility rate:** 1.54 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Croat(s)
-
-*adjective:* Croatian
-
-**Ethnic groups:** Croat 80% Serb 10% Muslim 0.9% Hungarian 0.5% Slovenian 0.5% others 8.1% (1991)
-
-**Religions:** Catholic 76.5% Orthodox 11.1% Slavic Muslim 1.2% Protestant 0.4% others and unknown 10.8%
-
-**Languages:** Croatian 96% other 4% (including Italian Hungarian Czechoslovak and German)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 97%
-
-*male:* 99%
-
-*female:* 95% (1991 est.)
+English is widely spoken among younger Croatians, especially in tourist areas. German and Italian are also common in some regions due to tourism history.

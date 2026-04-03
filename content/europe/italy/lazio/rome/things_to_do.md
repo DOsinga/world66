@@ -1,6 +1,8 @@
 ---
-title: 'Things to Do'
+title: "Things to Do"
 type: section
 ---
 
-Rome is an open-air museum where every street reveals another layer of history. Beyond the headline sights -- the Colosseum, the Pantheon, St. Peter's -- there are hundreds of churches hiding Renaissance masterpieces, ancient ruins tucked beneath modern buildings, and piazzas that have served as gathering places for two thousand years. Budget at least a week and you will still only scratch the surface.
+Rome's sights span 2,500 years of continuous history, from republican-era temples to Baroque fountains to contemporary art foundations. The centro storico holds most of the major monuments within walking distance of each other; the Vatican is a separate half-day; the Borghese Gallery and the Ostiense district require short trips out.
+
+Use the filters below to browse by type.

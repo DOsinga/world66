@@ -1,16 +1,14 @@
 ---
-title: "Getting Around in Dominica"
+title: "Getting Around"
 type: section
 ---
 
-**All Aboard a Gua Gua!**
+Getting around Dominica requires some patience. The roads are mountainous, winding, and in places poorly maintained — the island has the steepest and most dramatic road network in the eastern Caribbean. Drive slowly. After heavy rain, watch for landslides and washed-out sections, especially on secondary roads.
 
-**Dominican Republic transportation** services consists of three main types of transportation as follows.
+**Minibuses** are the local option for getting between towns and villages. They're privately owned, identified by an "H" on the licence plate, and depart when full rather than on a fixed schedule. Fares are cheap — EC$2 to EC$11 depending on distance, well under $5 USD. Most routes radiate from Roseau's main bus stand. Service runs during the day; after dark, you'll need a taxi.
 
-**Gua Gua**
+**Taxis** are available and don't run on meters — agree on the fare before you get in. Registered taxis display a "Nature Island's Standard of Excellence" sticker on the windscreen. Standard fares are posted at the ferry terminal and Douglas-Charles Airport, which gives you a reference point.
 
-Pronounced (gwa-gwa), these small and battered buses serve as a means of transportation on the island. They're a very inexpensive way to get around while experiencing the culture of the local area. The taxi routes are consistent and regularly running, but they can also become quite crowded. If you want to travel with these buses you'll want to hold your cash tight and close.
+**Car rental** is the best option for exploring the interior and getting to trailheads on your own schedule. You'll need to obtain a local driving permit (US$12, available from rental agencies). Drive on the left. A 4WD is worthwhile for accessing more remote areas. Fuel is available in Roseau and Portsmouth.
 
-**Taxis**
-
-If you want to use a private taxi as opposed to the public ones, you should note that they are available, but can pose a danger. You'll want to make sure you see your driver's license. Unlike the gua-guas, rates here are not preset. You can bargain for a better rate. Make sure to negotiate the price before accepting the ride. When you schedule a taxi through a service, you will be given a confirmation number. Make sure the confirmation number is read
+Between Roseau and Portsmouth — the island's two main towns — the west coast road passes small villages, sea views, and the Macoucherie Rum Distillery near Salisbury, one of the oldest in the Caribbean and worth a stop.

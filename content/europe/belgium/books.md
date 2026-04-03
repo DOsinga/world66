@@ -3,112 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**A Tall Man in a Low Land** by Harry Pearson — A British journalist's affectionate, funny account of travelling through Belgium in the 1990s. Captures the country's understated oddness better than most travel writing. Still the best introduction to the place.
 
-**German Defensive Batteries and Gun Emplacements:On the Normandy Beaches Invasion: D-Day June 6, 1944**
+**In Flanders Fields** by Leon Wolff — A clear-eyed account of the Third Battle of Ypres (Passchendaele) in 1917. Essential reading before visiting the WWI battlefields around [Ypres](/europe/belgium/ypres).
 
+**The Sorrow of Belgium** by Hugo Claus — The defining Flemish novel, following a boy's coming of age under German occupation during WWII. Dense and rewarding; gives a feel for Flemish culture and memory unlike anything else.
 
+**Michael Jackson's Great Beers of Belgium** by Michael Jackson (the beer writer, not the singer) — The canonical guide to Belgian beer, from a writer who did more than anyone to introduce Belgian brewing to the wider world. Useful before, during, and after any trip.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887407552/ref=ase_osingacom?v=glance&s=books)
+**The Flemish Primitives** (various art history titles) — Before visiting Bruges or Ghent, reading up on Jan van Eyck, Rogier van der Weyden, and Hans Memling pays dividends. The collections in those cities are world-class and easy to underestimate without context.
 
-author: Karl-Heinz Schmeelke,Michael Schmeelke
-
-isbn: 0887407552
-
-subject: history
-
-**On the Fields of Glory:The Battlefields of the 1815 Campaign**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1853672327/ref=ase_osingacom?v=glance&s=books)
-
-author: Andrew Uffindell,Michael Corum
-
-isbn: 1853672327
-
-subject: history
-
-**Claras Story**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0827605064/ref=ase_osingacom?v=glance&s=books)
-
-author: Clara Isaacman,Designed by Joan A. Grossman
-
-isbn: 0827605064
-
-subject: history
-
-**Rick Steves' France, Belgium and the Netherlands 1999**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1562614622/ref=ase_osingacom?v=glance&s=books)
-
-author: Rick Steves,Steve Smith
-
-isbn: 1562614622
-
-subject: travel
-
-**Frommer's Amsterdam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028626001/ref=ase_osingacom?v=glance&s=books)
-
-author: George McDonald,Arthur Frommer
-
-isbn: 0028626001
-
-subject: travel
-
-**Eyewitness Travel Guide:Amsterdam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/078940186X/ref=ase_osingacom?v=glance&s=books)
-
-author: DK Travel Writers,Christopher Catling
-
-isbn: 078940186X
-
-subject: travel
-
-**Michael Jackson's Great Beers of Belgium**
-
-**Robert Cosgrove:** Anyone who knows great beer, knows Michael Jackson. If you are interested in beer and you are traveling to Belgium, this is the book you need to get.
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0762404035/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Jackson
-
-isbn: 0762404035
-
-subject: culture
-
-**Culture Shock!:The Netherlands**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155868400X/ref=ase_osingacom?v=glance&s=books)
-
-author: Hunt Janin
-
-isbn: 155868400X
-
-subject: culture
-
-**Rene Magritte**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566197384/ref=ase_osingacom?v=glance&s=books)
-
-author: Jacques Meuris
-
-isbn: 1566197384
-
-subject: culture
+**Tintin** by Hergé — If you're going to Brussels, re-reading a few Tintin albums first is not a bad idea. The comics are rooted in mid-20th century Belgian life, and the Hergé Museum in Louvain-la-Neuve (an easy day trip from Brussels) is excellent.

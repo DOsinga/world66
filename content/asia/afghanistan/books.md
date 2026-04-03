@@ -3,110 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Road to Oxiana** by Robert Byron -- The classic of Central Asian travel writing. Byron journeyed through Persia and Afghanistan in 1933-34, and his account of Herat, Balkh and the Afghan landscape remains one of the finest pieces of travel prose ever written. Essential reading.
 
-**An Afghanistan Picture Show:Or, how I Saved the World**
+**An Unexpected Light** by Jason Elliot -- Elliot traveled through Afghanistan during the civil war of the 1990s, and his book weaves together history, culture and personal experience with extraordinary grace. The best modern travel book on the country.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0374101051/ref=ase_osingacom?v=glance&s=books)
+**The Places In Between** by Rory Stewart -- Stewart walked across central Afghanistan in January 2002, just weeks after the fall of the Taliban. A remarkable, spare account of hospitality, landscape and a country in ruins.
 
-author: William T. Vollmann
+**The Kite Runner** by Khaled Hosseini -- The novel that introduced Afghanistan to millions of Western readers. Set between 1970s Kabul and post-2001 Afghanistan, it captures the world that was lost and the wounds that remain.
 
-isbn: 0374101051
+**An Afghanistan Picture Show** by William T. Vollmann -- Vollmann's account of his quixotic attempt to help the mujahideen in the 1980s. Part memoir, part war reportage, entirely strange and honest.
 
-subject: history
+**The Hazaras of Afghanistan** by Sayed Askar Mousavi -- A scholarly but accessible history of the Hazara people, the persecuted Shia minority of the central highlands. Useful for understanding one of Afghanistan's most complex ethnic dynamics.
 
-**Afghanistan Primer**
+**Adventures in Afghanistan** by Louis Palmer -- A personal account of travels through Afghanistan that captures the country's wild landscapes and warm people.
 
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1576870472/ref=ase_osingacom?v=glance&s=books)
-
-author: Edward Grazda
-
-isbn: 1576870472
-
-subject: history
-
-**The Hazaras of Afghanistan:An Historical, Cultural, Economic and Political Study**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312173865/ref=ase_osingacom?v=glance&s=books)
-
-author: Sayed Askar Mousavi
-
-isbn: 0312173865
-
-subject: history
-
-**An Afghanistan Picture Show:Or, how I Saved the World**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0374101051/ref=ase_osingacom?v=glance&s=books)
-
-author: William T. Vollmann
-
-isbn: 0374101051
-
-subject: travel
-
-**Adventures in Afghanistan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0863040535/ref=ase_osingacom?v=glance&s=books)
-
-author: Louis Palmer
-
-isbn: 0863040535
-
-subject: travel
-
-**Husband, Lover, Spy:A True Story**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/188402503X/ref=ase_osingacom?v=glance&s=books)
-
-author: Janice Pennington,Abreu Carlos De
-
-isbn: 188402503X
-
-subject: culture
-
-**Music in the Culture of Northern Afghanistan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0816504989/ref=ase_osingacom?v=glance&s=books)
-
-author: Mark Slobin
-
-isbn: 0816504989
-
-subject: culture
-
-**Transit Problems of Three Asian Land-Locked Countries:Afghanistan, Nepal and Laos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0942182561/ref=ase_osingacom?v=glance&s=books)
-
-author: Martin I. Glassner
-
-isbn: 0942182561
-
-subject: culture
-
-**The Road to Oxiana**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195030672/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Byron,Paul Fussell
-
-isbn: 0195030672
-
-subject: travel
+**Music in the Culture of Northern Afghanistan** by Mark Slobin -- For those interested in Afghan musical traditions, this ethnomusicological study covers the rich musical heritage of the northern regions.

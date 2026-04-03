@@ -3,29 +3,22 @@ title: "Top 5 Must Do's in Jordan"
 type: section
 ---
 
-Jordan is home to some of the Middle East's most astounding sights. Here are some **Jordan must do’s** for your visit.
+**1. Walk into Petra through the Siq**
 
-**1. Amman**
+The approach to [Petra](/asia/jordan/petra) is the best entrance in archaeology. The Siq — a narrow slot-canyon — winds for over a kilometer through towering walls of layered sandstone, narrowing until you can almost touch both sides. Then it opens, suddenly, onto the Treasury: a two-story carved facade the color of salmon and rose, impossibly ornate and impossibly large. The shock of it, after the walk, is something you will not forget. Give yourself at least two full days — the monastery, the High Place of Sacrifice, the colonnaded street, and the Royal Tombs all repay the effort.
 
-Unless you're traveling in from elsewhere in the region, you must begin your trip through Jordan from its capital city, Amman. This beautiful city is called the "White City" because of all its white houses. It is a city of stark contrasts, since it is home to remnants of the Roman city of Philadelphia, but is ultra-modern at the same time. The capital is a living museum of Roman, Golden Age and Byzantine Muslim architecture.
+**2. Sleep in the Wadi Rum desert**
 
-**2. Petra**
+[Wadi Rum](/asia/jordan/wadirum) is best appreciated slowly. A jeep tour gives you the scale of it — the red sand floor, the 300-meter sandstone monoliths, the silence. But the reason to stay overnight in a Bedouin camp is the sky. Away from any city light, the stars over Wadi Rum are extraordinary. Wake before dawn, watch the light change on the rock faces, and drink tea from a fire. It sounds like a cliche; it is also genuinely one of the best things you can do in Jordan.
 
-To complete your trip to Jordan, you must head into the countryside, starting with the splendorous city of Petra. Once called the capital of an Arab dynasty known as the Nabataeans, this red-colored city was hewn from the sandstone walls of a massive canyon. Petra is only accessible via a narrow gorge with high walls. The most famous structure is the Khazneh, or Treasury. Its spectacular façade is the very first structure that you will see when entering the city. The Winged Lions Temple is also not to be ignored. Neither should you miss the ruin that used to be an 8,000-seat amphitheatre. The monastery is equally mesmerizing.
+**3. Float in the Dead Sea**
 
-**3. Wadi Rum**
+At 430 meters below sea level, the [Dead Sea](/asia/jordan/deadsea) is the lowest point on earth, and its water is so dense with salt and minerals that you cannot sink. You simply lie back and float, staring across to the West Bank. The mud is supposed to have therapeutic properties — smear it on, let it dry, rinse off. Keep your face out of the water; it stings badly. Go in the morning, before the sun gets high.
 
-A top must do in Jordan is heading into the wilderness to Wadi Rum. This area offers its visitors the most stunning desert landscapes found anywhere in the world.
+**4. Spend a morning at Jerash before the crowds**
 
-In Wadi Rum, being a large desert playground, activities are restricted, as the area is protected and one has to pay an entrance fee. Visitors can spend their time as they wish, but it is safer and more fun to hire an enlisted guide or join an available tour. There is an unrestricted range of activities, from short SUV or camel trips to lengthy desert explorations, lasting several days.
+Most travelers drive past [Jerash](/asia/jordan/jerash) on the way to somewhere else. That is a mistake. The ruins of the Roman city of Gerasa are among the best-preserved in the world: a vast oval plaza surrounded by colonnades, a cardo maximus with original paving stones, two theatres, temples, baths. Get there by nine in the morning and it is all yours. By eleven the tour groups arrive. The difference is enormous.
 
-**4. Aqaba**
+**5. Drive the King's Highway**
 
-Another top must do in Jordan is to visit Aqaba, with its balmy winter and idyllic setting. Aqaba is the all year-round aquatic playground of the Jordanites. The pulsating marine life and clear waters of the Aqaba Gulf are so conducive to diving that they are acknowledged to be among the best in the world. The Aqaba Gulf, as an inland sea, has minimal strong currents; therefore, its waters stay warm and clear almost throughout the year. Conditions are perfect for taking underwater pictures of the exotic fish and plant life. These also offer excellent snorkeling and diving sessions.
-
-**5. Mount Nebo**
-
-This monastery, situated on a hill with a view over the Holy Land, is alleged to be the burial place of Moses. The custodians are Franciscan monks, including Father Picirillo, who is an archaeologist and has written many books on the Holy Land’s history and archaeology. The monastery contains some of the most impressive mosaics seen in the world.
-
-**Contributors**
-March 29, 2010
+The Desert Highway gets you from Amman to Aqaba in three hours. The King's Highway takes most of a day. The difference is everything Jordan has to offer: Byzantine mosaics in [Madaba](/asia/jordan/madaba), the canyon views of the Wadi Mujib, the Crusader castle at [Karak](/asia/jordan/karak), the smaller castle at [Shobak](/asia/jordan/shobak), and finally the approach to Petra. Rent a car, fill it with water and snacks, and do not rush. This is the road the ancient traders used, and it is still the best way to see the country's backbone.

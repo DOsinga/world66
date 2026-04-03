@@ -23,7 +23,7 @@ At the seaside, the coastline of Abruzzo is varied: low and sandy shores to the 
 
 ## Destinations in Abruzzo
 
-[Abruzzo National Park](/world/europe/italy/abruzzo/abruzzonationalpark)
-[Aquila](/world/europe/italy/abruzzo/aquila)
-[Montesilvano](/world/europe/italy/abruzzo/montesilvano)
-[Roseto degli Abruzzi](/world/europe/italy/abruzzo/rosetodegliabruzzi)
+[Abruzzo National Park](/europe/italy/abruzzo/abruzzonationalpark)
+[Aquila](/europe/italy/abruzzo/aquila)
+[Pescara](/europe/italy/abruzzo/pescara)
+[Montesilvano](/europe/italy/abruzzo/montesilvano)

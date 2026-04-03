@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 1 236 914 658 (July 1998 est.)
+China has a population of around 1.4 billion — among the most populous countries in the world, recently overtaken by India. The Han Chinese make up about 92% of the population. The remaining 8% comprises 55 officially recognized ethnic minorities, including the Zhuang, Hui, Manchu, Uyghur, Miao, Yi, Tibetan, and Mongol peoples.
 
-**Age structure:**
+The minority groups are concentrated in the frontier regions: Uyghurs and Kazakhs in [Xinjiang](/asia/china/xinjiangprovince), Tibetans on the plateau and in Sichuan and Yunnan, Mongols in Inner Mongolia, and a great variety of smaller groups — Miao, Dong, Bai, Naxi, Dai — scattered across [Yunnan](/asia/china/yunnanprovince) and Guizhou. These communities maintain distinct languages, dress, architecture, and festivals. Traveling in the southwest gives you a very different sense of China than the eastern cities.
 
-*0-14 years:* 26% (male 169 347 516; female 149 897 253)
+The official language is Mandarin (Putonghua), based on the Beijing dialect. But China's linguistic diversity is far greater than that. Cantonese is spoken by tens of millions in Guangdong and [Hong Kong](/asia/china/hongkong). The Shanghai dialect is largely mutually unintelligible with Mandarin. Hokkien, Hakka, and dozens of other regional varieties exist alongside entirely different language families in Tibet and Xinjiang.
 
-*15-64 years:* 68% (male 431 164 591; female 404 513 208)
+China is officially atheist but religion is very much present. Buddhism is practiced widely, particularly in its Tibetan and Mahayana forms. Taoism has deep roots. Islam is the religion of the Hui and Uyghur communities. Christianity has a significant following, particularly in the south. In practice, many Chinese hold a pragmatic mix of beliefs rather than strict adherence to one tradition.
 
-*65 years and over:* 6% (male 38 398 920; female 43 593 170) (July 1998 est.)
+China has urbanized dramatically over the past forty years. More than 60% of the population now lives in cities, compared to under 20% in 1980. The gap between coastal cities and inland rural areas remains large — in income, infrastructure, and opportunity.
 
-**Population growth rate:** 0.83% (1998 est.)
-
-**Birth rate:** 15.73 births/1 000 population (1998 est.)
-
-**Death rate:** 6.99 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.41 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.15 male(s)/female
-
-*under 15 years:* 1.13 male(s)/female
-
-*15-64 years:* 1.07 male(s)/female
-
-*65 years and over:* 0.88 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 45.46 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 69.59 years
-
-*male:* 68.32 years
-
-*female:* 71.06 years (1998 est.)
-
-**Total fertility rate:** 1.8 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Chinese (singular and plural)
-
-*adjective:* Chinese
-
-**Ethnic groups:** Han Chinese 91.9% Zhuang Uygur Hui Yi Tibetan Miao Manchu Mongol Buyi Korean and other nationalities 8.1%
-
-**Religions:** Daoism (Taoism) Buddhism Muslim 2%-3% Christian 1% (est.)
-
-*note:* officially atheist but traditionally pragmatic and eclectic
-
-**Languages:** Standard Chinese or Mandarin (Putonghua based on the Beijing dialect) Yue (Cantonese) Wu (Shanghaiese) Minbei (Fuzhou) Minnan (Hokkien-Taiwanese) Xiang Gan Hakka dialects minority languages (see Ethnic divisions entry)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 81.5%
-
-*male:* 89.9%
-
-*female:* 72.7% (1995 est.)
+The one-child policy, in place from 1980 to 2015 and replaced by a three-child policy in 2021, has shaped family structure profoundly. A generation of only children is now in its thirties and forties. The birth rate has been declining steadily and China now faces an aging population challenge.

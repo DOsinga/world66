@@ -1,12 +1,10 @@
 ---
 title: "Kennebunkport"
 type: location
-latitude: 43.361499
-longitude: -70.477113
+latitude: 43.3615
+longitude: -70.4771
 ---
 
-Travel Guide
+Kennebunkport is a fishing port and tourist town on Maine's southern coast. The old section is worth a slow walk -- shops, galleries, and restaurants line the streets near the harbor, and several beaches are within easy reach.
 
-Kennebunkport is a town located along Maine's Atlantic coastline. It is a fishing seaport and tourist town with shops, beaches, marinas and a beautiful area for just walking in the old section.
-
-Numerous beaches, fishing ports and tourist towns exist adjacent or nearby including Ogunquit and Perkins Cove, that a slow leisurely drive along the waterfront in the Kennebunkport area is recommended to see all the sights and shorelines.
+A leisurely drive along the waterfront connects Kennebunkport to neighboring Ogunquit and Perkins Cove, each with its own stretch of shoreline and small-town charm. The area is popular with weekenders from Boston, so summer weekends can be crowded.

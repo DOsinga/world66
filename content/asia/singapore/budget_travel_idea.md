@@ -3,38 +3,16 @@ title: "Budget Travel Ideas in Singapore"
 type: section
 ---
 
-Singapore has the reputation of being an expensive city, however it is still accessible to budget travelers. By looking for deals and visiting free tourist sites you can explore Singapore on a budget.
+Singapore has a reputation as an expensive city, and for good reason — hotels, alcohol, and tourist attractions cost what you would expect in a wealthy metropolis. But the basics are manageable, and the food is extraordinary value.
 
-**Travel**
+**Food.** Eat at hawker centres for every meal and you will spend S$5–12 per person per sitting. This is not a sacrifice; the food at Maxwell Food Centre or Old Airport Road is as good as anything in the city at any price. Avoid the restaurants in tourist areas (Clarke Quay, Boat Quay) and the food courts in shopping malls, which charge more for worse food. The neighbourhood kopitiam is the cheapest and most authentic breakfast: kaya toast, two eggs, and kopi for under S$5.
 
-Budget airlines can offer a cheaper way to reach Singapore. Avoid traveling in high season as tickets will be more expensive during this time. Flying in the middle of the week usually offers cheaper fares. Research online well in advance of your trip in order to find bargain tickets. However, don't forget to add on airport taxes and any additional costs when calculating the total price of a ticket. Beware of extra charges that may result in your ticket being more expensive than expected such as some airlines charging extra for baggage.
+**Transport.** The MRT and buses are excellent and cheap. A day of getting around on public transport costs S$5–10. Do not take taxis unless you need to; they are roughly five times more expensive than the MRT for the same journey.
 
-**Transport**
+**Accommodation.** Budget dormitory hostels in Little India and Chinatown cost S$25–50 per night. Guesthouses in the same neighbourhoods run from S$60–100 for a private room. Avoid staying on Orchard Road, which is the most expensive area.
 
-Use public transport to cut costs. Singapore has a good public transport system that is convenient to use. The MRT and buses provide useful forms of public transport.
+**Free sights.** The National Museum permanent galleries are free. The National Gallery permanent collection is free. The Gardens by the Bay grounds are free (the conservatories charge). The Esplanade has free outdoor performances most evenings. Chinatown, Little India, and Kampong Glam cost nothing to walk through. The Southern Ridges trail is free. The Changi Museum is free. The Singapore Botanic Gardens — a UNESCO World Heritage site — are free.
 
-**Eating**
+**Alcohol.** Singapore's sin taxes make alcohol expensive everywhere. If you want to drink cheaply, buy from a supermarket or convenience store before 10:30pm (off-licence sales are banned after that). A beer at 7-Eleven costs around S$3 versus S$12–15 in a bar.
 
-Find out where locals eat as this will usually be a good source of delicious and inexpensive food. Avoid eating in areas with a lot of tourists or at a chain or fast food restaurants as these are normally more expensive.
-
-**Accommodations**
-
-Budget hotels are available that offer cheaper rates. Avoid traveling during peak season as accommodation is more expensive during this time.
-
-**Sightseeing**
-
-There are many sites to visit in Singapore that are free of charge.
-
-- Raffles Hotel: This colonial hotel was founded in 1887 and has a rich history. It is expensive to stay at but the museum is free to visit and you can soak up the atmosphere of the hotel. The museum displays photographs and antiques. Many famous writers and Hollywood stars have stayed in at hotel. Make sure that you are appropriately dressed when visiting the hotel.
-- Cavenaugh Bridge: This Victorian style bridge offers beautiful views over the river.
-- Singapore Botanical Garden: Escape from the hustle and bustle of the city to relax in these peaceful gardens. The gardens stretch across 52 hectares and boast an abundance of spectacular flowers as well as a variety of tree species. Go on the jungle walk to enjoy the scenery and get some exercise.
-- National Singapore Museum: Free exhibitions offer a chance for tourists to learn more about Singapore's history
-- Bus: Take a public bus around the city which is a cheap way to take in all the sites and people-watch.
-- Singapore City Gallery: Enjoy perusing through the art at Singapore gallery for free. It also offers amazing views of the city.
-
-**Shopping**
-
-Chinatown and Little India are good places to shop for bargains. Clothes, antiques and souvenirs make worthwhile purchases. These areas are also rich with history and offer a worthwhile tourist attraction even if you do not want to buy anything. The Srimariamman Temple, which is the oldest Hindu temple in Singapore, is located in Chinatown.
-
-**Contributors**
-January 05, 2010
+A realistic daily budget for a traveller staying in a hostel dorm, eating at hawker centres, and using public transport is around S$60–80.

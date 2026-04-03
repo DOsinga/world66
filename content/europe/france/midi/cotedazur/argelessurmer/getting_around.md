@@ -1,22 +1,22 @@
 ---
-title: "Getting Around in Argeles sur Mer"
+title: "Getting Around"
 type: section
 ---
 
-**Cote D&rsquo;Azur Getting Around** is easy because it has a tramway, bus lines and rental car services. All of these services make it easier for tourists to find their way around Argeles sur Mer.
+Argeles-sur-Mer is small enough that you can walk between the old village, the beach, and the port in about 20 minutes. For trips further afield, there are a few options.
 
-**Tramway De Nice**
+### Bus
 
-Tramway De Nice is another popular Cote D&rsquo;Azur form of transportation. Admission prices are only $1.30 per rider, and there are additional discount for week passes, and book bundle tickets. Stops for the Tramway De Nice include Jean Medecin shopping district, Place Massena, Nice football stadium, and Old Town through piazza of Place Garibaldi.
+Local buses run daily throughout the year (except bank holidays) and connect the town to Perpignan and neighbouring villages. A single ride costs about 1.50 euros.
 
-**Ligne D&rsquo;Azur**
+### Train d'Argeles-sur-Mer (TAM)
 
-The Ligne D&rsquo;Azure is a bus route that runs through 24 local communes such as St. Laurent du Var, Nice, Cagnes Sur Mer, La Gaude, St. Martin du var, St. Jeannet.
+A free shuttle service that operates year-round, including out of season from October through May. Useful for getting between the village, beach, and port without a car.
 
-Tickets for Ligne D&rsquo;Azur can be purchased directly from the bus, from vending machines, or from outlets and agencies, including the airport. A single ride pass will cost travelers one euro, or one USD, while an unlimited week pass will cost around $15.00 euro, or $17.00 USD.
+### Bike
 
-**Rental Cars and Taxi Services**
+Cycling is a good way to explore the flat coastal area and the quieter roads into the foothills. Several places in town rent bikes.
 
-Taxi services in Cote D&rsquo;Azur are easily accessed from almost any curb in the city, however, because the city streets are so small, and most attractions are within walking distance of each other, Taxis generally charge a minimum fee of eight euros or 10 USD. Many travelers prefer to walk or ride a bike opposed to any other type of public transportation, so they don&rsquo;t get stuck in traffic.
+### Car
 
-One of the best tips for Argeles sur Mer Getting around is using a taxi cab.
+A rental car is handy for day trips to Collioure, Ceret, Perpignan, or into Spain. Parking can be tight in summer, especially near the beach.

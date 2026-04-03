@@ -3,50 +3,10 @@ title: "When to Go"
 type: section
 ---
 
-In order to decide when to visit Dubrovnik, it is
-important to assess your priorities. Each season comes with new opportunities to make the most of your time in Croatia.**
+Summer is peak season and Dubrovnik feels it. July and August bring warm seas and long days but also cruise-ship crowds that can overwhelm the old town. The Dubrovnik Summer Festival runs from mid-July to late August, filling Renaissance courtyards and fortresses with theatre, music, and dance performances.
 
-Summer**
+May, June, and September are the sweet spot. The weather is warm, the sea is swimmable from late May onward, and the old town is far more manageable. Prices drop from the summer highs.
 
-The summer is by far the most popular time of the year to
-visit Dubrovnik. The water is warm
-and the beaches (or rocky outcroppings as the case may be) are full. The architectural and historical sites
-are busiest during this “high season”, open consistently with
-long hours. Tour companies run
-numerous day trips and excursions to tourist attractions outside of the city
-center. The weather can be very
-warm, but since many summer visitors want to enjoy the Adriatic, this is
-considered ideal. A full program
-of exhibitions, performances and events is organized as part of the Dubrovnik
-Summer Festival.**
+Autumn lingers on the Adriatic coast. Swimming is often comfortable into early October, though the bura winds from the Dinaric Alps can pick up in late autumn and disrupt ferries and flights.
 
-Fall**
-
-Summer on the Adriatic coast extends into the months that
-may be considered autumnal other places. The sea usually stays warm enough for comfortable swimming into
-September and sometimes even early October. Typically, the weather is milder than in the summer, but still generally
-good. The exception to this is the
-“bura” winds that come from the Dinaric Alps; they are strongest in the late
-fall and can interrupt transportation schedules (especially plane and smaller ferries). “Bura” winds can make sea crossings nearly impossible.**
-
-Winter**
-
-The Dubrovnik Council for Tourism has very clearly defined the “high” and “low” seasons for public attractions such as the City Walls,
-the Rector’s Palace, the Sponza Palace, the Aquarium and the Maritime History
-Museum. The “low” season begins
-November 1st and continues until April 1st. While lodging prices are usually
-reduced, tourists visiting during this time may also find that attractions are
-closed or have limited opening hours. Locals that rent holiday apartments or rooms during the
-summer often do not do so during the slower months. In the smaller towns surrounding Dubrovnik, particularly in
-the Elafiti archipelago, one will find many shuttered businesses, restaurants,
-and holiday apartments.**
-
-Spring**
-
-Early spring can be rainy in Croatia and since so many of
-Dubrovnik’s sights are outdoors, this is less than ideal. The tourist season begins around the
-Easter holidays, although many hotels and resorts consider this “mid-season”
-and offer intermediate prices. Spring dips in the Adriatic, even the southern Adriatic, are not for the
-faint of heart; the water temperatures can be chilly through mid-May. Many restaurants, tourist offices, and
-visitor amenities do not resume their full slate of offerings and services until
-June 1st.
+Winter is the quiet season. From November through March, many restaurants and attractions operate on reduced hours or close entirely. Accommodation is cheaper, and you may have the city walls nearly to yourself, but the smaller towns and islands around Dubrovnik largely shut down. Spring can be rainy, and the sea stays cold until mid-May.

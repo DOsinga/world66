@@ -1,6 +1,10 @@
 ---
-title: 'Day Trips'
+title: "Day Trips"
 type: section
+linked_locations:
+  - europe/italy/lazio/frascati
+  - europe/italy/lazio/ostiaantica
+  - europe/italy/lazio/tarquinia
 ---
 
-The countryside around Rome rewards exploration. The hilltop wine town of Frascati is a quick bus ride away, Tarquinia holds spectacular Etruscan tombs, and the ancient harbor of Ostia Antica offers ruins that rival Pompeii without the crowds. All are easy to reach by public transport and make for a welcome change of pace from the intensity of the city.
+Rome is well placed for day trips: Frascati and the Castelli Romani hills are 30 minutes by train, Ostia Antica (Rome's ancient harbour) is 35 minutes on the metro, and Tarquinia's Etruscan tombs are under two hours. Tivoli, with Hadrian's Villa and Villa d'Este, is another classic.

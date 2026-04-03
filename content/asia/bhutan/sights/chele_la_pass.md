@@ -1,43 +1,10 @@
 ---
 title: "Chele La Pass"
 type: poi
-type: "Landmarks"
 latitude: 27.369877
 longitude: 89.346673
 ---
 
-Chele La Pass at over 13,000 ft to the west above the Paro Valley is
-the highest road pass in the country and has amazing views of the
-Himilaya and most significantly the magnificent Jhomolari, Bhutan's
-most sacred peak at over 22,000 feet. It is a one and a half hour drive
-from the valley floor in Paro to the pass. It can be ridden on a
-mountain bike but the climb is a long one. It is great fun to free
-wheel down either into the Haa Valley on the other side of ## Destinations in Bhutan
+At 3,988 metres, Chele La is the highest motorable road pass in Bhutan, reached by a 1.5-hour drive west from Paro town. On a clear morning the views are extraordinary: a long sweep of Himalayan peaks including Jomolhari (7,329 m) dominating the skyline to the north. In late March and April the slopes are covered with rhododendrons in bloom.
 
-- [Thimphu](/asia/bhutan/thimphu)
-- [Bumthang](/asia/bhutan/bumthang)
-- [Wangdiphodrang](/asia/bhutan/wangdiphodrang)
-- [Lhuntsi](/asia/bhutan/lhuntsi)
-- [Gangten](/asia/bhutan/gangten)
-- [Kurtey](/asia/bhutan/kurtey)
-
-- [Phuntsholing](/asia/bhutan/phuntsholing)
-- [Punakha](/asia/bhutan/punakha)
-- [Paro](/asia/bhutan/paro)
-- [Tashigang](/asia/bhutan/tashigang)
-- [Tongsa](/asia/bhutan/tongsa)
-- [Punakha](/asia/bhutan/punakha)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The pass also connects the Paro Valley to the Haa Valley on the western side — a less-visited valley with a more traditional character and some good trekking. Cycling up from Paro is a long, lung-testing climb; the descent into either valley on the far side is the reward.

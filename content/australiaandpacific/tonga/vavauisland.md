@@ -1,12 +1,10 @@
 ---
-title: "Vava'u island"
+title: "Vava'u Island"
 type: location
 latitude: -18.623147
 longitude: -174.002138
 ---
 
-We currently have no information about Vava'u island.
+Vava'u is the main island of the [Vava'u Group](/australiaandpacific/tonga/vavau_group), Tonga's northern island cluster. The port town of Neiafu is here, and it serves as the base for whale watching, sailing, diving, and exploration of the surrounding islands.
 
-If you do know any general information about Vava'u island, please [Edit this article].
-
-If you know any hotels in Vava'u island or restaurants in Vava'u island, please [[Add].](/destinations/addItemWizard?addwhere=australiaandpacific/tonga/vavauisland)
+See the [Vava'u Group](/australiaandpacific/tonga/vavau_group) page for full information.

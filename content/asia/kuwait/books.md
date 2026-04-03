@@ -3,88 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Ottoman Gulf: The Creation of Kuwait, Saudi Arabia, and Qatar** by Frederick F. Anscombe -- Essential background reading on how Kuwait became the nation it is today. Covers the Ottoman period and the geopolitical manoeuvring that shaped the modern Gulf states.
 
-**This Way Gulf States**
+**Freya Stark in Iraq and Kuwait** by Malise Ruthven -- A collection from the legendary travel writer's journeys through the region in the mid-20th century. Stark's observations on Kuwait before oil transformed the country are vivid and invaluable.
 
-A handy travel guide that fits in your pocket, and your budget, while offering a wide variety of useful information!
+**Kuwait Transformed** by Farah Al-Nakib -- A fascinating account of how Kuwait City changed from a compact, walkable town of mud-brick houses to a sprawling, car-dependent metropolis in just a few decades. Essential for understanding why the city looks and feels the way it does.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/2-88452-099-6/ref=ase_osingacom?v=glance&s=books)
+**The Sirens of Baghdad** by Yasmina Khadra -- A novel set in Iraq that captures the wider regional tensions that have shaped Kuwait's modern identity, including the trauma of the 1990 invasion.
 
-author: JPM Publications
-
-isbn: 2-88452-099-6
-
-subject: Kuwait, Bahrain, Qatar, United Arab Emirates, Oman, Yemen
-
-**Freya Stark in Iraq and Kuwait**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1859640044/ref=ase_osingacom?v=glance&s=books)
-
-author: Malise Ruthven,St. Antony's College
-
-isbn: 1859640044
-
-subject: travel
-
-**Freya Stark in the Levant**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1859640036/ref=ase_osingacom?v=glance&s=books)
-
-author: Freya Stark,Malise Ruthven
-
-isbn: 1859640036
-
-subject: travel
-
-**Hornets over Kuwait**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1557508356/ref=ase_osingacom?v=glance&s=books)
-
-author: Jay A. Stout
-
-isbn: 1557508356
-
-subject: culture
-
-**Hometown**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0380729210/ref=ase_osingacom?v=glance&s=books)
-
-author: Marsha Qualey
-
-isbn: 0380729210
-
-subject: culture
-
-**Wealth-Building Secrets as Practiced by the World's Richest People :What the Kuwaitis Can Teach You about Getting R..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0873649761/ref=ase_osingacom?v=glance&s=books)
-
-author: William Beaver
-
-isbn: 0873649761
-
-subject: culture
-
-**The Ottoman Gulf:The Creation of Kuwait, Saudi Arabia, and Qatar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0231108397/ref=ase_osingacom?v=glance&s=books)
-
-author: Frederick F. Anscombe
-
-isbn: 0231108397
-
-subject: history
+**Days of Fear** by John Levins -- A gripping firsthand account of the Iraqi invasion and occupation of Kuwait in 1990-91, written by an Australian journalist who was there. Brings recent history to life in a way that guidebooks cannot.

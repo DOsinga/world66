@@ -5,4 +5,20 @@ latitude: 2.034931
 longitude: 45.341918
 ---
 
-With a population of about 1 million, Mogadishu is the largest city and chief seaport. The city has a rich 1,000-year history. Persian and Arab traders founded Mogadishu in the 10th century and intermarried with the local population. One of the earliest Arab settlements on the East African coast, the city was a leading commercial port by the 13th century; it went into a period of decline by the 16th century. The port was under the control of the sultan of Zanzibar, and of the Italian government in the late 19th and early 20th centuries. Mogadishu finally became capital of an independent Somalia in 1960.From 1992 to 1995 Mogadishu became the center of a United Nations (UN) operation intended to restore government and to ease famine caused in part by Somalia's civil war. With a new government it seems like peace is returning to the city. There are still many refugees in town but slowly life is getting
+Mogadishu — Xamar in Somali — is Somalia's capital and largest city, with a population of around 2.5 million. It is one of the oldest continuously inhabited cities in East Africa, founded by Arab and Persian traders in the 10th century. By the 13th century it was a wealthy commercial hub trading gold, ivory, and cloth with the Arabian Peninsula and India. The port was later controlled by the sultan of Zanzibar and then the Italian colonial government before Mogadishu became capital of independent Somalia in 1960.
+
+The city is known globally for the events of 1991–2006, when it became a byword for failed statehood and urban warfare. Bombed-out buildings still stand in several districts. But Mogadishu has changed since the early 2010s. A functioning federal government, new roads, and a resilient population have brought parts of the city back to life. The Lido Beach area draws families on weekends. Cafes and restaurants have opened along Maka al-Mukarama road. A new port terminal handles growing commercial traffic.
+
+Do not be misled by this partial recovery. Al-Shabaab continues to attack Mogadishu regularly. Car bombings, suicide attacks, and targeted assassinations occur monthly. The city is not safe for casual tourism, and the risks are not manageable through ordinary precautions.
+
+## What to See
+
+The **Hamarweyne** district is the old Arab-era quarter, with coral-stone buildings, narrow lanes, and the city's oldest mosques, including the **Arba'a Rukun Mosque** (1268) and the **Fakr ad-Din Mosque** (1269). Both are among the oldest surviving structures in sub-Saharan Africa. Civil war damage is visible but restoration work is ongoing.
+
+**Lido Beach** is a long white-sand beach where Somalis come to relax in the evenings and on Fridays. It was the site of a major al-Shabaab attack in 2023 but has since reopened. Visit with local guidance.
+
+The **National Museum of Somalia** (Garesa Museum) was partially restored after years of looting and holds Somali artifacts, colonial-era photographs, and traditional objects. Check current opening status before visiting.
+
+## Practicalities
+
+The airport is within the fortified African Union Mission zone; most NGOs and international organizations are based in the same compound. Outside it, movement requires coordination with local security contacts. Accommodation options include a small number of functioning hotels in the Hamarweyne and Wadajir districts. Do not arrive without a fixed contact and a security plan.

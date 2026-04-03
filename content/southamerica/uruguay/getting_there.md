@@ -3,26 +3,26 @@ title: "Getting There"
 type: section
 ---
 
-Air 
+## By air
 
-Uruguay's national airline is *Primeras Líneas Uruguayas de Navegación Aérea (PLUNA) (PU)*. 
+Carrasco International Airport (MVD) in Montevideo is Uruguay's main international gateway, located about 19 km east of the city centre. Direct flights operate from a handful of South American hubs — Buenos Aires, São Paulo, Santiago — as well as Miami and Madrid. If you're coming from Europe or North America, expect at least one connection.
 
-Approximate flight times 
+PLUNA, Uruguay's former national carrier, ceased operations in 2012. The main airlines serving Montevideo today include Aerolíneas Argentinas, LATAM, Iberia, and American Airlines. Budget carriers have been slower to establish themselves here, so fares can be higher than in neighbouring countries.
 
-From Montevideo to *London* is 15 hours 15 minutes (including 1 hour 30 minutes stopover in Madrid) and to *New York* is 14 hours. 
+## By ferry from Argentina
 
-International airport 
+The ferry from Buenos Aires is the classic entry point and one of the most enjoyable ways to arrive. Two companies operate the crossing:
 
-*Montevideo (MVD)* (Carrasco) is 19km (12 miles) from the city (travel time – 35 minutes). There is an airport bus to the city centre. Taxis are also available. Facilities include a duty-free shop (0700-last flight) a post office restaurants car rental and a bank/bureau de change (0900-2100). 
+**Buquebus** runs a fast catamaran service direct to Montevideo (around 2 hours 15 minutes) and also to Colonia del Sacramento (about 1 hour). Colonia crossings are cheaper and very frequent — it's a popular day-trip option from Buenos Aires.
 
-Departure tax 
+**Seacat / Colonia Express** offers additional sailings to Colonia, often at lower prices. From Colonia, buses connect to Montevideo in about 2.5 hours.
 
-US$12 is levied on international departures (US$6 to Buenos Aires). 
+Ferry tickets can be booked online in advance; during January and February (peak season) and Carnaval, popular departures sell out quickly.
 
-Sea 
+## By bus from Brazil
 
-Montevideo the main international port is served by cargo lines from the USA and Europe. There is a night-ferry service from Buenos Aires to Montevideo (the crossing takes ten hours). There are also services from Colonia (160km/100 miles west of Montevideo) to Buenos Aires by steamer and a thrice-daily hydrofoil service. 
+Long-distance buses connect Montevideo with Porto Alegre (around 12–14 hours), Rio de Janeiro, and São Paulo. Companies including COT and CYNSA operate cross-border routes; services are comfortable with reclining seats. The border crossing at Rivera–Livramento (opposite the Brazilian city of Santana do Livramento) is the most commonly used road entry from Brazil.
 
-Road 
+## By road from Argentina
 
-Coaches and *ONDA* and *TTL* buses travel regularly between Brazil and Uruguay – these are modern coaches with bar TV WC and radio. The travel time between Montevideo and Porto Alegre (Brazil) is 14 hours; to Rio de Janeiro (Brazil) is 59 hours. Buses run by *COIT* depart weekly for Asunción and Iguazú Falls in Paraguay while another service also weekly links Montevideo and Santiago in Brazil.
+If you're driving or taking a bus, you can cross via the Fray Bentos–Puerto Unzué bridge or the Colón–Paysandú bridge. Road conditions are good once in Uruguay.

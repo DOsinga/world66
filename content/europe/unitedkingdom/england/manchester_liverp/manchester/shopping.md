@@ -1,18 +1,10 @@
 ---
-title: 'Shopping'
+title: "Shopping"
 type: section
 ---
 
-Manchester is a paradise for shoppers, with everything from vast shopping centres to chic boutiques. The compact city centre is easily navigated on foot, and the many cafe bars are great places to recharge during a spree.
+Manchester is one of the best shopping cities in northern England. The compact centre makes it easy to cover a lot of ground on foot, from the massive Arndale Centre and the high-street chains on Market Street to the designer labels in Selfridges and Harvey Nichols at Exchange Square.
 
-**Designer Shopping**
+For something more interesting, head to the Northern Quarter. Oldham Street and the surrounding lanes are packed with independent shops selling vintage clothing, rare vinyl, and second-hand books. Oi Polloi stocks cool menswear, Rags to Bitches is the go-to for women's vintage, and Oxfam Originals offers charity-shop treasure hunting with a curated edge.
 
-Selfridges has two branches in the city, housing designer labels in everything from clothes to kitchenware. Harvey Nichols sits nearby at Exchange Square, and the Triangle shopping centre is home to boutiques selling designer goods.
-
-**High Street Shopping**
-
-Market Street and the Arndale Shopping Centre house branches of all the UK's top high street fashion stores. Primark on Market Street offers bang-on-trend clothing for incredibly cheap prices, and TK Maxx across the road has designer brands at slashed prices. King Street sees pricier chains such as Karen Millen and Ted Baker alongside more affordable ones.
-
-**The Northern Quarter**
-
-Trendy individuals looking for something different should head for the Northern Quarter. This once run-down district is now home to numerous independent stores selling everything from vintage fashion to rare vinyl. Rags to Bitches on Oldham Street has vintage finds for women, while Oi Polloi has cool and kooky items for men. Oxfam Originals offers used clothes, books and records, with proceeds going to the charity.
+The Triangle shopping centre near the cathedral carries a mix of high-end and independent brands, while King Street has the more upmarket chain stores. Primark on Market Street is one of the largest in the country if you want cheap, current fashion.

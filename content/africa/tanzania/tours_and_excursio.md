@@ -3,50 +3,24 @@ title: "Tours and Excursions"
 type: section
 ---
 
-**Northern Parks**
+Most visitors to Tanzania book their national park visits through a tour operator, and for the northern circuit this is strongly recommended. Self-driving is expensive and logistically difficult; a guided tour in a 4WD vehicle with a knowledgeable driver-guide makes the experience significantly better. [Arusha](/africa/tanzania/arusha) is the base for most northern circuit operators.
 
-The most developed, but unspoilt, Tanzanian tourist route is the Northern circuit which encompasses many of the parks and reserves in Northern Tanzania. The circuit includes many famous national parks and landmarks:
+## Northern Circuit
 
-• **Serengeti National Park**
+The classic route combines the [Serengeti](/africa/tanzania/serengetinationalpark), the [Ngorongoro Crater](/africa/tanzania/ngorongorocrater), [Tarangire National Park](/africa/tanzania/tarangire_np), and Lake Manyara. A five- to seven-day circuit covers the main highlights. The northern circuit has the widest range of operators and prices. You can find good value shopping around in Arusha, but be cautious of very cheap deals — operators cutting corners on park fees or vehicle maintenance do exist.
 
-• **Ngorongoro Conservation Area**
+## Southern Circuit
 
-• **Mount Kilimanjaro**
+The southern parks — Selous/Nyerere National Park and [Ruaha](/africa/tanzania/ruaha_national_par) — see far fewer visitors than the north. Getting there requires a flight or a long road journey, which pushes costs up. What you gain is a more exclusive experience and, in Selous, the option of boat safaris on the Rufiji River. Walking safaris with an armed ranger are also permitted in the south, unlike the northern parks.
 
-Africa's highest mountain.
+## Western Parks
 
-Other famous parks include:
+Mahale Mountains and Gombe Stream, both on the shores of Lake Tanganyika, are among the most remote parks in Africa. Chimpanzee tracking is the primary activity. Mahale has a reputation as one of the finest wildlife experiences in East Africa — small groups, habituated chimps, beautiful mountain backdrop. Both parks require dedicated planning and most visitors fly in.
 
-• **Tarangire National Park**
+## Kilimanjaro Climbs
 
-• **Lake Manyara National Park**
+Climbing [Kilimanjaro](/africa/tanzania/kilimanjaro) must be done through a licensed operator with registered guides and porters. The Machame route (6–7 days) and Marangu route (5–6 days) are the most popular. Allow adequate time for acclimatisation — going too fast is the primary reason people fail to summit. Operators in [Moshi](/africa/tanzania/moshi) and [Arusha](/africa/tanzania/arusha) range from excellent to unreliable; ask for references and verify their KINAPA registration.
 
-• **Arusha National Park**
+## Zanzibar
 
- 
-
-!-- 
-
-       
-
-    Probably the most important consideration for any visitor to Tanzania is the  time of year. Broadly speaking the rains fall in East Africa between April and May,  and November. See **climate** for more. 
-
-          **Southern Parks**
-
-In the south of Tanzania lie some of the most untouched game reserves in Africa:
-
-• **Selous Game Reserve**
-
-Remote and wild, the Selous is the largest game reserve in Africa. The Rufiji River flows through the reserve attracting great herds of Tanzania elephant and allowing the visitor to experience the reserve by boat. The reserve has the largest number of elephants out of all the reserved wildlife areas in the country. It also has a wide variety of other animals including lion, wild dog and crocodiles.
-
-• **Ruaha National Park**
-
-Due to its relative inaccessibility Ruaha is Africa as it once was yet with all the comforts that today's traveller expects. The name derives from the great Ruaha River which flows along its entire border creating spectacular gorges. The Ruaha protects a wide variety of habitats including evergreen forest and swamp and contains the largest elephant population of Tanzania.
-
-**Western Parks**
-
-In Western Tanzania, on the banks of Lake Tanganyika, lie two parks that are famous for their wild chimpanzees and the research that goes on into animal behaviour.
-
-• **Mahale Mountains National Park**
-
-• **Gombe Stream National Park**
+Most Tanzania itineraries combine a mainland safari with time on [Zanzibar](/africa/tanzania/zanzibar). Spice tours, dolphin swimming at Kizimkazi, and snorkelling at Mnemba Atoll are the most popular organised excursions from Zanzibar. Stone Town is walkable independently. East coast beaches are straightforward to manage on your own.

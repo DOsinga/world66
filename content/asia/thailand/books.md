@@ -3,122 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Thailand: A Short History** by David K. Wyatt is the standard one-volume history — clear, scholarly, and genuinely readable. It covers the rise of the Thai kingdoms from Sukhothai through Ayutthaya and the modernising Chakri dynasty to the late twentieth century. If you want to understand why the country looks and feels the way it does, start here.
 
-**Thailand:A Short History**
+**The Railway Man** by Eric Lomax is the memoir of a British officer who survived the construction of the Burma-Thailand Railway as a prisoner of war under the Japanese. Brutal and ultimately remarkable — about survival, memory, and an extraordinary act of reconciliation with a former captor. Essential reading before visiting [Kanchanaburi](/asia/thailand/kanchanaburi).
 
+**Very Thai** by Philip Cornwel-Smith is a witty, illustrated guide to the textures of everyday Thai life — spirit houses, noodle shops, pink taxis, the culture of *sanuk*. Not a narrative but endlessly useful for understanding what you're looking at.
 
+**Bangkok 8** by John Burdett is a crime novel set in the Thai capital, narrated by a Buddhist detective. It's over-the-top in places but captures the city's chaos, contradictions, and noir atmosphere better than most straightforward guides.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300035829/ref=ase_osingacom?v=glance&s=books)
+**The Beach** by Alex Garland launched a thousand backpacker fantasies — and arguably ruined a few Thai islands in the process. Worth reading for context: it tells you a great deal about the traveller mythology that still clings to the southern islands.
 
-author: David K. Wyatt
-
-isbn: 0300035829
-
-subject: history
-
-**The Railway Man:A True Story of War, Remembrance and Forgiveness**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0345406680/ref=ase_osingacom?v=glance&s=books)
-
-author: Eric Lomas,Eric Lomax
-
-isbn: 0345406680
-
-subject: history
-
-**Anna and the King of Siam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0381981355/ref=ase_osingacom?v=glance&s=books)
-
-author: Margaret Landon
-
-isbn: 0381981355
-
-subject: history
-
-**Lonely Planet Thailand:Travel Survival Kit**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424116/ref=ase_osingacom?v=glance&s=books)
-
-author: Joe Cummings
-
-isbn: 0864424116
-
-subject: travel
-
-**Eyewitness Travel Guide:Thailand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0789419491/ref=ase_osingacom?v=glance&s=books)
-
-author: DK Travel Writers,Rosalyn Thiro (Editor)
-
-isbn: 0789419491
-
-subject: travel
-
-**Lonely Planet Thailand's Islands & Beaches '98**
-
-** Einar Sjo:** 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425406/ref=ase_osingacom?v=glance&s=books)
-
-author: Joe Cummings,Nicko Goncharoff
-
-isbn: 0864425406
-
-subject: travel
-
-**Hush!:A Thai Lullaby**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0531095002/ref=ase_osingacom?v=glance&s=books)
-
-author: Minfong Ho,Holly Meade (Illustrator)
-
-isbn: 0531095002
-
-subject: culture
-
-**The Railway Man:A True Story of War, Remembrance and Forgiveness**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0345406680/ref=ase_osingacom?v=glance&s=books)
-
-author: Eric Lomas,Eric Lomax
-
-isbn: 0345406680
-
-subject: culture
-
-**Culture Shock!:Thailand**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558680586/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Cooper,Nanthapa Cooper
-
-isbn: 1558680586
-
-subject: culture
-
-**The revolutionary King**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-author: William stevenson
-
-subject: True sequel to the king and I
+**Anna and the King of Siam** by Margaret Landon, the fictionalised account of Welsh schoolteacher Anna Leonowens at the Siamese court in the 1860s, takes considerable liberties with history. Read alongside Wyatt to keep perspective.

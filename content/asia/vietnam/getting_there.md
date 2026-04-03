@@ -3,52 +3,32 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Vietnam's national airline is *Vietnam Airlines (VN)*.* *The most usual routes to Vietnam are from Bangkok Kuala Lumpur Hong Kong Taipei Manila Singapore and Paris. Most Asian carriers have flights to Vietnam as do *Qantas *and* Air France*.
+Vietnam's main international gateways are Noi Bai Airport (HAN) in Hanoi and Tan Son Nhat Airport (SGN) in Ho Chi Minh City. Da Nang (DAD) also receives direct international flights, particularly from elsewhere in Asia, and is a useful option if you're heading straight to central Vietnam.
 
-Approximate flight time
+Most visitors fly into either Hanoi or Ho Chi Minh City. Common routes come from Bangkok, Singapore, Kuala Lumpur, Hong Kong, Tokyo, Seoul, and major European and Australian cities. Vietnam Airlines is the national carrier; budget airlines including VietJet, Bamboo Airways, and low-cost regional carriers also fly in from across Asia.
 
-From Hanoi to *London* is 17 hours including 2 hours stopover in Bangkok.
+The flight from London to Hanoi takes around 11–12 hours direct, or longer with a stopover.
 
-International airports:
+## Visas
 
-*Noi Bai International Airport (HAN) *at Noi Bai is 45km (28 miles) from Hanoi. Buses and a few taxis are available.
+Most nationalities now qualify for Vietnam's e-visa, valid for up to 90 days with single or multiple entry. Apply at [evisa.gov.vn](https://evisa.gov.vn) before you travel — it typically takes three to five business days and costs around US$25. Check the official site for current fees, as they change.
 
-*Tan Son Nhat International Airport (SGN) *is 7km (4.5 miles) from Ho Chi Minh City. Buses and a few taxis are available.
+Citizens of certain countries (including ASEAN members, some European nationalities, and others) may qualify for visa-free entry. Confirm your status before travel. The old "visa on arrival" system still exists for air entry but requires pre-arranged approval letters; the e-visa is simpler and recommended.
 
-Departure tax:
+Visas specify entry and exit points. If you plan to exit overland after entering by air, check the terms of your visa before you go.
 
-US$10 (payable in Dollars or Dông).
+## Overland
 
-Sea:
+Vietnam shares land borders with China, Laos, and Cambodia. The main crossings include:
 
-The major ports are Ho Chi Minh City Vung Tau Haiphong Da Nang and Ben Thuy. International cruise facilities are available.
+- **China:** Lao Cai (for Yunnan/Kunming by rail), Lang Son (for Nanning)
+- **Laos:** Lao Bao (Highway 9), Nam Can, Bo Y, and others
+- **Cambodia:** Moc Bai (for Ho Chi Minh City), Xa Mat, and several crossings near the Mekong Delta
 
-Rail
+Bus services connect the major border towns. Trains run between Lao Cai and Hanoi (overnight sleeper), with Chinese rail connections onward from Lao Cai to Kunming.
 
-It is now possible to cross into China by rail from Lao Cai to Kunming in the Yunnan province of China or through Lang Son to Nanning.
+## By Sea
 
-Road
-
-There are routes to China through Lang Son Cambodia through Moc Bai and also to Laos at Lao Bao and Cau Trieu.
-
-Note
-
-It is important to remember that all Vietnamese visas are issued with a specified exit point. If this exit point needs to be altered it must be done so at an immigration office or through a travel agent in Hanoi or Ho Chi Minh City.
-
- 
-
-***Asean Airpass*** 
-
-6 Asian companies have joined forces in an effort to turn off crisis in tourism industry, and they are now offering an "Asian Airpass". Companies participating include Thai Airways, Garuda, Singapore Airlines, Vietnam Airlines, Philippine Airways and Malaysian. The deal is the following: You have to fly from your home to any Asian destination with one of the carriers. You could f.i. fly to Singapore or Bangkok.  
-
-You need to buy the pass at home for 270 US$. This entitles you to 3 flights within Asia with one of these carriers. This pass has to be bought at the same time you purchase your international flight, and it has to be booked outside Asean countries. Open jaws are not permitted, except within 1 country. So travel must be contiguous.
-
-  Domestic flights are permitted except in Vietnam and the Philippines.
-
- Maximum stay is two months.
-
- Extra flights can be purchased at 90 US$ for one.
-
- You cannot do the same trip twice (f.i. Singapore-BKK-Singapore-BKK)!!
+Major ports at Ho Chi Minh City, Haiphong, Da Nang, and Vung Tau handle cargo and occasional international cruise arrivals.

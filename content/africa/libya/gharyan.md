@@ -5,20 +5,8 @@ latitude: 32.171587
 longitude: 13.021145
 ---
 
-Travel Guide
+Gharyan (also Gharian) is the main town of the Nafusa Mountains, about 90 km south of Tripoli on the road toward Ghadames. It sits at around 900 metres elevation, which makes it noticeably cooler than the coast in summer.
 
-**Gharyan** or **Gharian** (Arabic: غريان‎) is a town in northwestern Libya, in Al Jabal al Gharbi District. Prior to 2007 it was the administrative seat of Gharyan District. Gharyan is one of the largest towns in the Nafusa Mountains.//
+The town was one of the centres of Libyan resistance during the Italian invasion of 1911-32. Several important figures in that resistance were from Gharyan. It later became a centre of opposition to Gaddafi, and in 2019 it was briefly seized by forces loyal to General Haftar during the campaign for Tripoli before being retaken by government forces.
 
-History
-
-Gharyan was on the trade routes both south to Fezzan and over the
-Nafusa Mountains. By 1884 the Ottomans had established a mayor and town
-council in Gharyan.[1]
-
-It was considered the center of Libyan resistance against the
-Italian invasion in the early 20th century. Many famous Libyan figures
-during the Italian invasion were from Gharyan such as Asharif
-Alghyriany.citation needed]
-Economy
-
-Grain and figs are grown for local consumption, with olives and saffron[2] for both local use and export. Gharyan is also well-known for its ceramics industry.
+Gharyan is known for its ceramics industry — the local clay tradition produces glazed pots and bowls that are sold throughout western Libya. Grain, olives, and figs are grown in the surrounding hills. It's a reasonable lunch stop or overnight break if you're driving south toward Ghadames.

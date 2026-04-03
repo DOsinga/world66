@@ -1,12 +1,14 @@
 ---
-title: "Port-au-prince"
+title: "Port-au-Prince"
 type: location
+latitude: 18.5944
+longitude: -72.3074
 ---
 
-Port-au-Prince feels like a small town. In reality it has more than one million inhabitants and it's by far the largest city of the country. The fact remains that there are mostly two-story buildings and only two “skyscrapers” (both less than 20 stories).
+Port-au-Prince is Haiti's capital and by far its largest city, with well over two million people in the metropolitan area. Despite its size, much of it feels like an overgrown market town — low-slung buildings climbing steep hillsides, tap-taps threading through traffic, street vendors on every corner.
 
- Port-au-Prince is a nice and pleasant town, it has quite a few interesting sights. One of the most interesting aspects is that there everywhere you will find people busy with their trades on the sidewalks. this gives the town a very pretty atmosphere. Be warned, however, at night Port-au-Prince can be a bit dangerous. Do not go out on the streets by yourself.
+The city has always been divided between the crowded lower city near the waterfront and the cooler residential areas of Pétion-Ville and the hills above, where middle-class and wealthier Haitians live. This geography has become sharper since 2021: gang territories have consumed large swaths of the lower city, and movement between neighborhoods requires local knowledge and current information.
 
- The environment of Port-au-Prince is very beautiful. You can make great daytrips to the small towns and villages in the hills. See the section on daytrips for more details.
+Before the current crisis, Port-au-Prince had genuine attractions: the Iron Market (Marché de Fer), rebuilt after the 2010 earthquake; the Musée du Panthéon National (MUPANAH) on the Champs de Mars; the art galleries of Pétion-Ville; and the Cathedral of Our Lady, its collapsed nave left as a memorial to earthquake victims. The food in the city's restaurants — particularly the better Pétion-Ville spots — was excellent.
 
- The beaches in the city are not so great, but nearby you will find some excellent beaches where you can relax. See the section on beaches for more details.
+The 2010 earthquake killed an estimated 200,000 people and flattened large parts of the city. Reconstruction was uneven and incomplete. The current gang crisis has displaced over a million residents of the metropolitan area. Port-au-Prince will need peace, and time, before it can welcome travelers again.

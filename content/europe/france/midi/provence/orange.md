@@ -5,8 +5,6 @@ latitude: 44.137131
 longitude: 4.807878
 ---
 
-Orange is a very beautiful city, full of Roman sights, the Roman theatre being the best example. As soon as you come inside the gates you will find yourself in the midst of Roman civilization with the Arch of Triumph (three arches) standing majestically over the city.
- Another marvel, listed as a monument of the world, is the famous Antique Theater built in the early days af Christianity. It is the only Roman theater in Europe to have conserved its stage wall. Today, thousands of spectators attend various cultural events held here.
+Orange is a small Provencal city with two extraordinary Roman monuments. The Theatre Antique is the only Roman theatre in Europe with its original stage wall still intact — a massive stone facade that looms over the audience. In summer it hosts the Choregies d'Orange, one of France's oldest music festivals. The Arc de Triomphe, on the northern edge of town, is a triple-arched monument celebrating Caesar's victories.
 
-
- The old city should also attract your attention with its narrow streets, well restored façades, and its ancient shady squares. The heart of Orange has such an aura of old fashioned country Provence that one would believe oneself in a Provençal village! The greatest pleasure is just strolling about taking in the charm and discovering the treasures.
+Between the two landmarks, the old centre is a quiet grid of narrow streets, restored facades, and shady squares. It feels more like a large village than a city, which is part of the charm. Orange makes a natural stop between [Avignon](/europe/france/midi/provence/avignon) and the northern Rhone valley.

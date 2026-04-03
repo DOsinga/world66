@@ -1,58 +1,22 @@
 ---
-title: "Day Trips in Aix-en-provence"
+title: "Day Trips"
 type: section
 ---
 
-**North and Northwest of Aix: The Luberon and Les Alpilles**
-Like miniature mountain ranges, the
-rugged limestone outcroppings of the Luberon and the Alpilles dominate
-the area between Aix and Avignon. A drive through either area will
-uncover a multitude of picturesque villages where visitors can stop for
-lunch on plane-tree shaded squares and shop for lavender-scented gifts,
-Provençal fabrics, and santons (figures of artisans, village people,
-and farmers that populate a Christmas nativity scene). The medieval
-village of Les Baux has been transformed in the past forty years from a
-hill top ruin to a thriving artists' colony. The Christmas Eve mass in
-the local church celebrates the shepherds with a midnight procession.
-St Rémy is known for its excavations of Roman ruins and the nearby
-asylum where Van Gogh had himself committed. He painted one of his most
-memorable landscapes, Starry Night, while residing in the area.
+Aix sits at a crossroads of very different landscapes. Within an hour's drive you can reach limestone gorges, hilltop villages, the Mediterranean coast, or the wild Camargue wetlands.
 
-**South of Aix: Les Calanques**
+**North and Northwest: The Luberon and Les Alpilles**
 
-The limestone peaks of the Provençal
-interior descend sharply to the shimmering waters of the Mediterranean
-forming a craggy shoreline accessible in most places only by boat or on
-foot. Boat trips from Cassis or La Ciotat explore this fjord-like
-coastline called les calanques. Divers can discover underwater caves
-and walkers can reach the beaches of the calanques on footpaths that
-lead from the interior. Marseille, the second largest city in France
-and home to a large North African immigrant population, is on the
-western end of the calanques area. The Vieux Port (Old Port) is a
-colorful collection of leisure and fishing boats with a fish market
-held here daily. It is the perfect place to dine on one of the
-signature dishes of Provence, bouillabaise, a hearty fish stew.
+The rugged limestone ridges of the Luberon and the Alpilles dominate the area between Aix and Avignon. A drive through either will uncover picturesque villages where you can stop for lunch on plane-tree-shaded squares and shop for lavender-scented gifts, Provencal fabrics, and santons. The medieval village of [Les Beaux de Provence](/europe/france/midi/provence/les_beaux_de_prove) has transformed from a hilltop ruin into a thriving artists' colony. [Saint Remy de Provence](/europe/france/midi/provence/saint_remy_de_prov) is known for its Roman ruins and the asylum where Van Gogh painted Starry Night.
 
-**West of Aix: La Camargue**
+**South: Les Calanques**
 
-Here, the delta of the Rhone River
-extends over several hundred square miles much of it in protected
-nature preserves. Come here to see flamingos, wild horses, and the
-famous black bulls that are raised for Provençal bull fights (the
-bulls aren't killed in this version). In Saintes-Maries-de-la-Mer,
-European gypsies come in May and October to honor their saint, a
-servant of two Marys who supposedly arrived on these shores from
-Palestine following the death of Christ.**
+The limestone peaks of the Provencal interior drop sharply to the Mediterranean, forming a craggy shoreline accessible mostly by boat or on foot. Boat trips from Cassis explore this fjord-like coastline. Divers can discover underwater caves, and walkers can reach secluded beaches on footpaths from the interior. Marseille, France's second city, sits on the western end of the calanques area. The Vieux Port is the perfect place to try bouillabaisse, the hearty Provencal fish stew.
 
-Northeast of Aix: Gorges du Verdon**
+**West: La Camargue**
 
-Also known as the Grand Canyon of the
-Verdon, this is one of the most spectacular and nerve-racking drives in
-France. There is a north rim and south rim option but neither are for
-the faint-hearted. Because a full drive around the canyon takes a day,
-this should be an overnight trip from Aix. Hiking and rafting are other
-possibilities for visitors who want more activity and a closer view of
-the canyon.
+The Rhone delta extends over several hundred square miles, much of it in protected nature reserves. Come here to see flamingos, wild horses, and the famous black bulls raised for Provencal bullfights (the bulls are not killed in this version). In Saintes-Maries-de-la-Mer, European gypsies gather in May and October for their pilgrimage.
 
-**Contributors**
-August 29, 2009
+**Northeast: Gorges du Verdon**
+
+Also known as the Grand Canyon of the Verdon, this is one of the most spectacular drives in France. There is a north rim and south rim option, and neither is for the faint-hearted. A full circuit takes a day, so plan an overnight. Hiking and rafting offer a closer view of the canyon.

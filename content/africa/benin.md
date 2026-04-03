@@ -1,23 +1,29 @@
 ---
-title: "Benin"
-type: location
 latitude: 9.529347
 longitude: 2.258441
+title: Benin
+type: location
 ---
 
-Benin has played a major role in the Slave trade in the 17-th and 18-th century. From that period you will find many monuments reminding the traveler of the tragic sort of those deported to the West Indies and Brazil.
+Benin is one of West Africa's most fascinating small countries -- the birthplace of voodoo, the heart of the old Dahomey kingdom, and a major center of the Atlantic slave trade. It packs extraordinary history and culture into a slender strip of land between Togo and Nigeria, running from the palm-lined coast up through savanna to the Atakora mountains in the north.
 
+The French colonial legacy runs deep. [Cotonou](/africa/benin/cotonou), the economic capital, has its own "Boul' Mich" and you will see Beninois strolling with a baguette under one arm and a French newspaper under the other. But the country's identity runs much deeper than its colonial overlay. The Fon, Yoruba, and dozens of other peoples maintain vibrant traditions, and voodoo -- born here before it traveled to Haiti and Brazil with enslaved people -- remains a living religion practiced openly.
 
- After that the French have colonialized the country and the have left a profound mark on the country. It is in many aspects a very French country. [Cotonou](/africa/benin/cotonou) even has its own Boul' Mich and you will see Beninois walking there with a baguette under one arm and a French newspaper under the other.
+The south holds the main attractions for most visitors. [Ouidah](/africa/benin/ouidah), the old slave port 40 km west of Cotonou, is the emotional heart of the country, with its Route des Esclaves leading to the beach where millions were shipped across the Atlantic. [Abomey](/africa/benin/abomey), 100 km north, preserves the UNESCO-listed royal palaces of the Dahomey kings and their fearsome all-female warrior regiment. [Ganvie](/africa/benin/ganvie), sometimes called the Venice of Africa, is a village built entirely on stilts in a lake just north of Cotonou. [Porto Novo](/africa/benin/portonovo), the official capital, has a quieter charm with its own museums and royal palace.
 
+Head north and the landscape shifts from coastal lowlands to rolling hills and eventually the dramatic Atakora range, where the [Somba villages](/africa/benin/sombavillages) with their fortified tower houses (tatas) feel like a different world entirely. Further north still, Pendjari National Park is one of the best wildlife reserves in West Africa, with elephants, lions, hippos, and buffalo in a landscape that sees far fewer visitors than the parks of East and Southern Africa.
 
- From Cotonou it is 20 minutes to [Porto novo](/africa/benin/portonovo) with its museums and royal palace. The slave port of [Ouidah](/africa/benin/ouidah) with many historical sites and museums is 40 Kms west of Cotonou. To [Abomey](/africa/benin/abomey), the ancient capital of Dahomey it is 100km north. All main roads are paved and in good condition.
+Benin is not a luxury destination. Roads in the south are decent but deteriorate as you head north, accommodation is basic outside Cotonou, and you will need patience and a sense of humor. French is essential -- English gets you almost nowhere. But for travelers interested in history, culture, and getting genuinely off the beaten path, Benin rewards handsomely.
 
+## Destinations in Benin
 
- [Ganvie](/africa/benin/ganvie), "the Venice of Africa" a village build on stakes in the lake is a few kilometres north of Cotonou.
-
-
- 
-
-
- World66.com does not have an editor for this region. If you are interested click here.
+[Cotonou](/africa/benin/cotonou)
+[Ouidah](/africa/benin/ouidah)
+[Abomey](/africa/benin/abomey)
+[Porto Novo](/africa/benin/portonovo)
+[Ganvie](/africa/benin/ganvie)
+[Grand Popo](/africa/benin/grandpopo)
+[Parakou](/africa/benin/parakou)
+[Djougou](/africa/benin/djougou)
+[Somba villages](/africa/benin/sombavillages)
+[National parks](/africa/benin/nationalparks)

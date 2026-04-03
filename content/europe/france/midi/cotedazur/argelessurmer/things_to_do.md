@@ -1,16 +1,34 @@
 ---
-title: "Things to do in Argeles sur Mer"
+title: "Things to Do"
 type: section
 ---
 
-There are many** Argeles sur Mer things to do** that will keep you busy during your stay. Since it’s located at the foot of the Albères Mountains, hiking and mountain biking are big in this region. For a historical perspective, visitors can view Roman ruins and castles. Ocean lovers can enjoy a variety of water sports. There is something for everyone in this Côte de Vermeille town.
+Argeles-sur-Mer offers a good mix of beach activities, mountain walks, and Catalan heritage. The town sits at the foot of the Alberes range, so you are never far from a trail, and the coastline shifts from sand to rocky coves within a short walk.
 
-**Food for Thought**
+### The Coastal Path
 
-Gastronomic adventures are a central part of visiting new places. Take a trip to the town market for a light lunch. It is open on Wednesday and Saturday mornings. Around 60 vendors set up stands at Place de la Republique, the main plaza.
+The sentier littoral runs from the Mas Larrieu nature reserve south to the port, passing rocky coves and the quiet beach at Le Racou. You can walk the whole stretch in a couple of hours, or pick up a guided tour in summer. It is one of the highlights of the area.
 
-Seafood, Mediterranean dishes and Spanish fusion are favorites here. If you’re down at the port, stop for seafood at Restaurant Le Bouchon. Le Manurevas is another good option that’s located in the same area. It specializes in Catalan cuisine and has a great ocean view.
+### Castle of Valmy
 
-**Castle Country**
+Just 3 km from town, this striking castle was built in the early 1900s by a Danish architect. You cannot go inside, but the surrounding park is open to all and has fountains, nature trails, waterfalls, and panoramic views of the mountains, the coast, and the town below. The park also hosts the International Art Exhibition and several festivals throughout the year.
 
-Just 3 kilometers from town is the Castle of Valmy. This place looks like it came straight out of a fairy tale. It was built in the 1900s by a Danish architect. Although the castle is not open to visitors, the Valmy Park (adjacent to it) is open to all. If a medieval castle interests you, go to Taxo. This village dates
+### Notre-Dame dels Prats
+
+The parish church in the centre of the old village dates from the 14th century. Its Gothic bell tower is visible from a distance, and the interior holds more than 100 works depicting 30 different saints. Major restoration was completed in 2008.
+
+### Casa de les Alberes
+
+Opened in 2003, this small museum charts the traditions of Argeles-sur-Mer through artifacts from the 19th and 20th centuries. Tools, artwork, and a Catalan library share the space. No reservations needed.
+
+### Perapertusa Castle
+
+A short drive into the hills takes you to the ruins of this Cathar fortress perched on a mountaintop. The walk up is steep but the views stretch to Spain and Andorra on a clear day. A medieval festival is held here each year.
+
+### Hiking and Mountain Biking
+
+The Alberes foothills have well-marked trails for both walkers and mountain bikers. You can do anything from a gentle morning loop to a full day in the mountains. Several outfits in town rent bikes and organise guided excursions.
+
+### Water Sports
+
+The beaches offer surfing, windsurfing, scuba diving, and snorkelling. The rocky creeks near Plage des Pins are particularly good for diving. The Tramontane and Marin winds make this stretch of coast one of the more challenging spots for windsurfing in southern France.

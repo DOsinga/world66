@@ -1,43 +1,22 @@
 ---
-title: "Eating Out in Bandar Seri Begawan"
+title: 'Eating Out'
 type: section
 ---
 
-Bandar Seri Begawan is the capital of Brunei. Brunei food is a lot
-like Chinese food with international influences. They have adapted
-things like Indonesian, Lebanese, Thai, Japanese and Indian flavors
-into their cuisine. Common meals in the area include staples like fish
-and rice. Fresh fruits and wheat products are also prevalent in the
-area. Some popular dishes are Ambuyat (also known as edible glue), beef
-rendang, nasi lemark, puteri nanas and Satay; they also eat a lot of
-spicy beef dishes and chocolate. Most of the dishes are spicy and are
-served with rice probably to drown the low fire in your mouth.
-Restaurants in the area are very affordable with the average price
-around $10 to $20 if not less. The restaurants seem to serve mostly
-foods that are commonplace like traditional Brunei cuisine. You can
-find some restaurants with international cuisine and chains or fast
-food places like Dairy Queen, Pizza Hut and McDonald.
+Eating out in BSB is cheap, flavorful, and best done at street level. The city does not have much of a fine dining scene, but what it lacks in white tablecloths it makes up for in honest, well-spiced food at prices that seem almost absurdly low.
 
-**Food Stands**
+## Night Markets and Food Stalls
 
-The best places to get some of the best foods of the area in Bandar
-Dert Begwan are open air food stands. There are places all over the
-city that sell cheap variations of Brunei traditional dishes. The most
-popular food stand food is satay. Satay is a skewer of spicy in Thai
-cooking. It can also be served with cucumbers, onions and ketupat (rice
-in a napah leaf). Regardless of how it's served it is one of the most
-popular of local favorites and getting it at one of the open air food
-stands is the singularly best way to get it. You can find a majority of
-these places near the riverfront and prices are always under $10.
+The **Gadong Night Market** (Pasar Pelbagai Barangan Gadong) is where you should eat. Open from around 4pm every evening, it is a huge covered market where dozens of vendors sell grilled chicken, satay, nasi katok, grilled fish, kuih (local sweets), and fresh fruit juices. Most dishes cost BND1-3. The market is thoroughly local -- you will rarely see another tourist here.
 
-**Sit Down Restaurants**
+The **Tamu Kianggeh** open-air market along the Kianggeh River is good for breakfast and lunch, with stalls selling nasi lemak, kuih, and fresh produce.
 
-Other than the fast food and chain
-restaurants you'll find in the area there are a few restaurants that
-are locally owned and serve traditional food. Amina Arif Restaurant is
-one of the best places in the area to get Ambuyat. Ambuyat is made from
-sago that comes from trees. They make a paste out of the sago and then
-you eat it with cadas; dipping it into a hot sauce before eating it.
-Other good restaurants in the area are Regent's Rang Machel, Thien
-Thien Restaurant, The Atrium Cafe and Kedia Makan Dan Minum Hajah
-Halimah.
+## Restaurants
+
+**Aminah Arif Restaurant** is the most well-known spot for ambuyat, Brunei's national dish. The sticky sago paste comes with an array of dipping sauces and side dishes. It is an essential experience even if the ambuyat itself is an acquired taste. The restaurant also serves excellent beef rendang and other Malay dishes.
+
+**Thien Thien Restaurant** on Jalan Residency is a local favorite for chicken rice -- simple, perfectly executed, and popular enough that it fills up at lunch.
+
+**Kaizen Sushi** and several other Japanese restaurants in the Gadong area reflect the Japanese influence in Brunei's food scene. For Indian food, **Seri Indah** and **Ideal Curry House** serve good roti prata and curries.
+
+International fast food chains (McDonald's, KFC, Pizza Hut) are present in the Gadong shopping area and various malls, though you would be missing out if you chose them over the local options.

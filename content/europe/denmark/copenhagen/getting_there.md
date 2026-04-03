@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-With direct flights to/from 112 cities world-wide, several international train-connections to/from Scandinavia and the rest of Europe, direct links to the European E-highway system, international ship & ferryboat connections, Copenhagen is easy to reach from any location.
+Copenhagen Airport (Kastrup) has direct flights to over 100 cities and is connected to the city centre by metro in about 15 minutes. International trains run from Hamburg, Stockholm, and Malmo, with the Oresund Bridge linking Copenhagen directly to southern Sweden. Several ferry routes connect the city to Oslo and other Scandinavian ports. The European motorway network reaches Copenhagen via the E20 and E47.

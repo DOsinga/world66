@@ -72,9 +72,9 @@ Only where health is a real planning concern — tropical countries, places with
 
 Our most opinionated page. Five experiences, numbered, each with a substantial paragraph. Mix different types of activity. See STYLE.md for how to write these.
 
-## Sections that belong on city pages only
+## Sections that don't belong on country pages
 
-Do not create these at the country level. They are too specific for a whole country and belong on individual city or region pages:
+These are too specific for a whole country and belong on city or region pages:
 
 - **Eating Out** — specific restaurants
 - **Bars & Cafes** — specific bars and cafes
@@ -83,16 +83,9 @@ Do not create these at the country level. They are too specific for a whole coun
 - **Museums** — specific museums
 - **Day Trips** — excursions from a specific base
 - **Beaches** — specific beaches (cover the best ones in Highlights instead)
-
-## Sections to delete
-
-These are legacy sections from the original World66 that no longer add value. Delete them when encountered:
-
-- `tours_and_excursio.md` — almost always spam or empty
-- `webcams.md` — obsolete
-- `budget_travel_idea.md` — almost always empty
-- `family_travel_idea.md` — almost always empty
-- `senior_travel_idea.md` — almost always empty
+- **Tours & Excursions** — almost always spam or empty
+- **Webcams** — obsolete
+- **Budget/Family/Senior Travel Ideas** — legacy empty sections
 
 ## Principles
 
@@ -101,4 +94,3 @@ These are legacy sections from the original World66 that no longer add value. De
 - **Quality over completeness.** A country with a good overview, solid practical information, and a vivid highlights page is well-served. Don't create stub sections just to fill the list.
 - **Link generously.** Every city, region, or place mentioned should link to its page if one exists.
 - **Be honest.** If a country is difficult, expensive, dangerous, or boring, say so. Travelers trust a guide that tells the truth.
-- **Clean up existing sections too.** When reviewing a country, check all existing sections — not just the ones you're creating. Fix markdown artifacts (`**** **`, `&ldquo;`, `&rsquo;`, `&prime;`), remove SEO-style openers ("**Country X festivals** are a major..."), fix broken links, and tighten the writing. The content may be fine but the formatting often needs work.

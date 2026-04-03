@@ -3,46 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 19 989 (July 1998 est.)
+Cook Islanders are Polynesian, sharing cultural and linguistic roots with the Maori of New Zealand and the people of the Society Islands. The population of around 17,000 is concentrated on Rarotonga; the outer islands are sparsely inhabited and many have been losing people steadily to the cities. Because Cook Islanders hold New Zealand citizenship, emigration is easy — and far more Cook Islanders live in New Zealand and Australia than in the islands themselves.
 
-**Age structure:**
+The culture is communal and family-centred. Extended families often share land and resources, and social obligations — to family, church, and village — are taken seriously. Christianity is deeply embedded in island life, with the Cook Islands Christian Church being the most prominent denomination. Sunday observance is real: shops close, traffic disappears, and families gather for church and meals.
 
-*0-14 years:* NA
+Languages are English and Cook Island Maori (Rarotongan), which is closely related to New Zealand Maori. All signs and official communications are in English, and you will have no trouble getting around without any Maori. A few words of greeting, however, go a long way: *Kia orana* is the standard hello and means something like "may you live long."
 
-*15-64 years:* NA
-
-*65 years and over:* NA
-
-**Population growth rate:** 1.06% (1998 est.)
-
-**Birth rate:** 22.52 births/1 000 population (1998 est.)
-
-**Death rate:** 5.2 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -6.71 migrant(s)/1 000 population (1998 est.)
-
-**Infant mortality rate:** 24.7 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 71.14 years
-
-*male:* 69.2 years
-
-*female:* 73.1 years (1998 est.)
-
-**Total fertility rate:** 3.19 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Cook Islander(s)
-
-*adjective:* Cook Islander
-
-**Ethnic groups:** Polynesian (full blood) 81.3% Polynesian and European 7.7% Polynesian and non-European 7.7% European 2.4% other 0.9%
-
-**Religions:** Christian (majority of populace are members of the Cook Islands Christian Church)
-
-**Languages:** English (official) Maori
-
-**Literacy:** NA
+Islanders are generally warm and hospitable toward visitors but not given to excessive performance of it. The friendliness is genuine rather than cultivated for tourism, which makes it more pleasant. Be respectful in villages, particularly around churches on Sundays. Dress modestly when visiting inland communities; beachwear is for the beach.

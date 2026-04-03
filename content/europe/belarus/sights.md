@@ -3,36 +3,32 @@ title: "Sights"
 type: section
 ---
 
-If you have ever wondered what there is to see in Belarus besides statues of Lenin, you’ve come to the right place. Belarus has its sights, and they are not all remnants of the Soviet Era, although there are plenty of those too. Belarus is filled with churches, museums, and plenty of non-Lenin statues. 
-
-**Sights**
-
-**Mount of Glory**
-
-This hill, topped by four bayonets, was built from the scorched earth of the nine "Hero Cities" of the USSR and battlegrounds of WWII in honour of the Red Army. It was built in the area of the last battle in Belarus.
-
-address: Junction of Minsk and Minsk II Highways
-
-**Khatyn Memorial**
-
-On March 22, 1943, Nazis destroyed the village of Khatyn, burning alive 149 people including 75 children. A grief-stricken man carrying a child in his arms is the first thing you see as you enter the memorial. An eternal flame burns between three silver birch trees, marking the one in every four [more..](/europe/belarus/sights/khatynmemorial)
-
-address: 54km north on the Vitebsk highway, tel. (+375-17) 27 71 59.
-
-**Kuropaty**
-
-Kuropaty are the killing fields discovered in 1988. Evidence showed that perhaps 250,000 people, from Belarus, Poland and the Baltic states were shot in the back of the head by the Soviets between 1937 and 1941. 
-
-address: 15km north of Minsk city centre, 2km from Zelyoniy Luh
-
-**Narac Lake**
-
-Narac is the biggest lake in Belarus. It is a beautiful place to get away from the crowds and enjoy Belarusian nature. The natives come here to fish and reside at a sanatorium nearby, you can try it too. Other lakes include Selyava Lake near Borisov (100km north east of Minsk) and the Braslav l [more..](/europe/belarus/sights/naraclake)
-
-address: 130km north of Minsk. Buses from Central Station
+Belarus is not an obvious tourist destination, but it has real things to see: two UNESCO World Heritage Sites, one of Europe's last primeval forests, Soviet-era monuments on a grand scale, and a capital city that is a near-perfect preserved specimen of Stalinist urban planning. The country rewards curiosity.
 
 **Mir Castle**
 
-The red brick **Mir Castle** is currently being restored, but one tower and the courtyard are open to visitors. With a lake, a village and an Orthodox church nearby, one can have a pleasurable time away from the hustle and bustle of Minsk.
+The red-brick Mir Castle, a UNESCO World Heritage Site, is one of the best-preserved medieval fortresses in Eastern Europe. Built in the early 16th century in the Gothic style, it was later modified with Renaissance elements and surrounded by a formal park and lake. The interior museum is well presented. Located 100km southwest of Minsk, it's usually combined with a visit to Nesvizh Palace on a day trip. Address: village of Mir, Grodno Region.
 
-address: 100km south of Minsk, off the Brest highway
+**Nesvizh Palace**
+
+The Radziwill family's baroque palace and its formal gardens sit in the town of Nesvizh, 120km southwest of Minsk. It's the grandest aristocratic estate in the country, and the palace interior — restored and opened to visitors — is impressive by any standard. Also a UNESCO World Heritage Site. Often visited on the same day as Mir Castle.
+
+**Belovezhskaya Pushcha National Park**
+
+The park protects one of the last remnants of the primeval forest that once blanketed the European lowlands. It straddles the border with Poland (where it continues as Bialowieza Forest). The main attraction is the European bison — around 500 live in the park, and guided tours give a good chance of seeing them. The park is 340km southwest of Minsk near Brest. Accommodation is available on site.
+
+**Khatyn Memorial**
+
+On March 22, 1943, the Nazi SS burned the village of Khatyn, killing 149 of its inhabitants including 75 children. The memorial, built in 1969, is one of the most affecting war monuments in Europe — a landscape of symbolic chimneys, each with a bell that rings on the hour. Over 600 Belarusian villages were destroyed during the occupation. Located 54km north of Minsk on the Vitebsk highway.
+
+**Kuropaty**
+
+A forest site 15km north of Minsk where the NKVD executed between 30,000 and 250,000 people between 1937 and 1941. The scale of the killings is disputed; the forest still contains mass graves. The site is politically sensitive — the Lukashenko government has repeatedly tried to diminish its significance — which makes it all the more important to visit.
+
+**Mount of Glory (Kurgan Slavy)**
+
+A large Soviet-era war memorial east of Minsk, topped by four bayonets and built from soil collected at WWII battle sites across the USSR. Monumental and strange, it's a good example of the high Soviet commemorative style. Located at the junction of the Minsk and Minsk II highways.
+
+**Minsk itself**
+
+The capital was almost entirely destroyed in World War II and rebuilt in a grand Stalinist style under Stalin's direct supervision. The result is one of the most architecturally coherent Soviet cities still standing — wide boulevards, pompous civic buildings, and a Metro that is genuinely beautiful. See the [Minsk](/europe/belarus/minsk) page for more.

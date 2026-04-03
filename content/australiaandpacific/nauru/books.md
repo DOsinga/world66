@@ -3,64 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+There is not a large body of travel writing about Nauru, which is part of what makes it interesting.
 
-**Case Concerning Certain Phosphate Lands in Nauru:Nauru v. Australia**
+**The Nauru File** — various journalists and researchers have written about Australia's offshore processing arrangement from an investigative angle. The Refugee Council of Australia and the Australian Broadcasting Corporation have extensive archives if you want to understand the detention centre before arriving.
 
+**Nauru: Environmental Devastation under International Trusteeship** by Christopher G. Weeramantry (ISBN 0195532899) is the most serious academic treatment of what phosphate mining did to the island and to international law. Weeramantry later became a judge on the International Court of Justice and Nauru's legal battles against Australia over environmental damage were partly his work.
 
+**Pacific Ruin: The Phosphate History** — the broader story of phosphate island mining across the Pacific is told in various environmental history books. Banaba (Ocean Island) and Christmas Island share aspects of Nauru's story and reading about the region gives context for what you will see.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9210706986/ref=ase_osingacom?v=glance&s=books)
-
-author: International Court of Justice (Compiler)
-
-isbn: 9210706986
-
-subject: travel
-
-**Case Concerning Certain Phosphate Lands in Nauru (Nauru VS. Australia):Preliminary Objections Judgment of 26 June 1..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9210706749/ref=ase_osingacom?v=glance&s=books)
-
-author: Nations United (Editor)
-
-isbn: 9210706749
-
-subject: travel
-
-**Case Concerning Certain Phosphate Lands in Nauru (Nauru VS. Australia):Preliminary Objections Judgment of 26 June 1..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9210706749/ref=ase_osingacom?v=glance&s=books)
-
-author: Nations United (Editor)
-
-isbn: 9210706749
-
-subject: culture
-
-**Case Concerning Certain Phosphate Lands in Nauru:Nauru v. Australia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9210706986/ref=ase_osingacom?v=glance&s=books)
-
-author: International Court of Justice (Compiler)
-
-isbn: 9210706986
-
-subject: culture
-
-**Nauru:Environmental Devastation under International Trusteeship**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195532899/ref=ase_osingacom?v=glance&s=books)
-
-author: Christopher G. Weeramantry
-
-isbn: 0195532899
-
-subject: history
+For general Pacific context, try Paul Theroux's **The Happy Isles of Oceania**, which captures the strangeness of travelling in Micronesia and Polynesia without visiting Nauru specifically.

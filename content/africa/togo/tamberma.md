@@ -3,8 +3,8 @@ title: "Tamberma"
 type: location
 ---
 
-Some 65,000 Tamberma live in the savannahas of Togo, just north of [Kara](/africa/togo/kara). They practice subsistance farming growing millet, sorguhm, yams, and a variety of other crops. Domestic goats, cattle and guinea fowl supply meat, although hunting and fishing also supplement the diet.
+Some 65,000 Batammariba people live in the savannahs of northern Togo, just north of [Kara](/africa/togo/kara). They practice subsistence farming, growing millet, sorghum, yams, and a variety of other crops. Domestic goats, cattle, and guinea fowl supply meat, though hunting and fishing also supplement the diet.
 
-The women operate a well-developed market exhange system using both money and cowrey shells as the media for exchange. Extended family units live in highly distinctive two-storied compounds built with extensive layers of sun dried mud with conical thatched roofs almost resembling minature castles. These are the resaon to come here.
+The women operate a well-developed market exchange system using both money and cowrie shells. Extended family units live in highly distinctive two-storied compounds built from layers of sun-dried mud, with conical thatched roofs that resemble miniature castles. The Koutammakou landscape where these buildings are concentrated is a UNESCO World Heritage site — and the main reason to make the journey north.
 
- The best time to visit Tamberma is in the dry season. Head for Kande where you will be assieged by guides offering you trips and huts, haggle and you can get reasonable prices.
+The best time to visit is in the dry season, between November and March. Head for Kande, where guides will approach you readily; haggle a little and you can arrange a reasonable price for a village tour.

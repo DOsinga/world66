@@ -3,82 +3,12 @@ title: "Tours and Excursions"
 type: section
 ---
 
-These are few of popular attraction in Singapore 
+Singapore is compact enough that most visitors navigate it independently, but organised tours can be useful for specific themes, particularly WWII history and nature.
 
-Orchard Roads, Boat Quay, Little India, Chinatown, Singapore Botanic Gardens, Singapore Million Dollar Duck Race (The), Singapore Zoological Gardens, Singapore Discovery Centre, Sentosa and many others..
+**WWII history self-guided tour.** Singapore's WWII history is among the most significant in Southeast Asia, and most of the key sites are accessible without a guide. Start at the Battle Box (Fort Canning Hill), the underground British command centre where the decision to surrender was made. Then to Reflections at Bukit Chandu, a memorial museum at the site of the last stand of the Malay Regiment. Kranji War Cemetery in the north contains the graves of over 4,000 Allied servicemen. The Changi Museum (free) covers the POW years. The Ford Factory at Bukit Timah — where the formal surrender took place — now houses a museum documenting the fall of Singapore. This can all be done in one day with a hire car or Grab; public transport to each site is possible but slow.
 
-Minor corrections on 03 October 04
+**Trishaw tours.** Bumboat rides along the Singapore River (departing from Clarke Quay or Boat Quay) and trishaw rides through Chinatown are available as organised tours; both are short, touristic, and moderately overpriced, but the river is pleasant at night from the water.
 
-**all**
+**Cycling tours.** Several operators run guided cycling tours around the historical districts, often in the early morning before the heat builds. Useful if you want context alongside the route. Alternatively, rent a bicycle at East Coast Park or Pulau Ubin and explore independently.
 
-**New Shan Travel Service**
-
-New Shan Travel incorporated in 1972, has gained itself a strong foothold in the Singapore travel industry. From an initial setup of 8 staff providing ticketing services, its present staff network of 130 now provides a full range of travel related services. Amongst the services provided are world-wide ticketing, in-house and airline packaged tours, hotel bookings, visa arrangements, cruises, golf tours and tournaments, GSA representations and air freight forwarding. [more..](/asia/singapore/tours_and_excursio/new_shan_travel_se)
-
-zipcode: Singapore 069113
-
-url: [www.newshan.com](http://www.newshan.com)
-
-address: 20, Maxwell Road, #01-02, Maxwell House, Singapore 069113
-
-tel: 6221-9333
-
-email: tours@newshan.com.sg
-
-**WW2 Singapore**
-
-Dont take a tour company - do it yourself easy - visit kranji War Cemetery and personal graves, visit the Ford Factory used in the surrender with Percival and Yamashita, visit Bukit Timah, Changi, Selerang Barracks and a number of other WW2 Singapore museums and places of war interest. See the book: A Different Brand Of English - a comprehensive trave guide to WW2 Singapore and Thailand. [more..](/asia/singapore/tours_and_excursio/ww2_singapore)
-
-email: info@poseidonbooks.com
-
-**Sentosa Twilight**
-
-Get away from the hustle and bustle of the city to Sentosa - the resort island of peace and tranquility. Enjoy a scenic cable car ride and catch a bird's eye view of Singapore's skyline and it's busy port. On the island, visit the Images of Singapore, which houses the Pioneers of Singapore, Surrender Chamber and Festivals of Singapore museum. Next, visit the Underwater World, Asia's largest and most innovatiive tropical oceanarium that is home to over 2,5000 marine animals. Tour ends with a coach ride email: bali@lotusasiatours.com
-
-tel: +62 361 701001
-
-**IndoFalcon**
-
-email: travel@indofalcon.com.sg
-
-address: 1 Maritime Square #11-18 HarbourFront Centre, Singapore 099253
-
-tel: +65 6270 6778
-
-**Sunny Holidays**
-
-email: enq@sunnyholidays.com.sg
-
-address: 200 Victoria Street # 01-70, Parco Bugis Junction, Singapore 188021
-
-tel: +65 6767 6868.
-
-**Crest Travel & Tours Pte Ltd **
-
-email: crestzz@singnet.com.sg
-
-address: 111 North Bridge Rd #07-25 Singapore
-
-tel: +65 6337 9189
-
-**SH Tours **
-
-email: wenleong@sanstours.com
-
-address: 100 kim seng Road, #02-02/03, Kime Seng Plaza, Singapore 2394278
-
-tel: +65 734 2174
-
-** RMG Tours Pte Ltd**
-
-email: sales@rmgtours.com
-
-address: 109C Amoy Street SINGAPORE 069929
-
-tel: +65 6220 8722
-
-**CitiTourist Services **
-
-email: customercare@cititourist.com
-
-tel: +65 93 836 846
+**The Singapore Tourism Board** runs the Singapore Visitor Centre at Orchard Road and at Suntec City; staff can advise on tours and current events.

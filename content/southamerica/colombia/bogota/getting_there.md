@@ -1,10 +1,6 @@
 ---
-title: "Getting there"
+title: "Getting There"
 type: section
 ---
 
-**Points of Interest**
-
-**By air**
-
-Most visitors enter the country by air. The airport is located 11 km from the centre. There are two terminals. The national airline is called AVIANCA. The terminal Puente Aereo is used by them main[more..](/southamerica/colombia/bogota/gettingthere/byair)
+Most visitors arrive at El Dorado International Airport (BOG), about 13 km west of the centre. Taxis from the airport use a fixed-rate system based on zones -- buy a ticket at the official taxi stand inside the terminal. The ride to La Candelaria or the Zona Rosa takes 30 to 60 minutes depending on traffic. There are also airport buses and the TransMilenio bus rapid transit connects to the city. AVIANCA is the main Colombian airline, with domestic flights to most cities. Long-distance buses arrive at the Terminal de Transporte in the west of the city.

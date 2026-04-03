@@ -1,25 +1,22 @@
 ---
-title: "Day Trips in Angeles City"
+title: "Day Trips"
 type: section
 ---
 
-**Angeles City day trips **are a great way to extend your vacation in the Philippines. Why not head to one of the nearby cities or volcanoes for some added adventure? Here's a look at some nearby locations to help you get the most out of your visit to Angeles City. Day trips are definitely the way to go!
+Angeles City's location in Central Luzon makes it a good base for day trips. Volcanoes, historic towns, and duty-free shopping are all within easy reach.
 
-**Clark (Air Force City) **- Distance: 5.2 kilometers
+**Clark Freeport Zone** — 5 km
 
-The closest destination is most probably Clark, where you can get your fill of shopping and nightlife. The area is famous for duty-free shopping and late night casinos. You can get your fill of a variety of foods at the many restaurants and take in a bit of leisure time with a trip to any of the golf courses and country clubs.
+The closest excursion is barely a trip at all. The former U.S. air base has been transformed into an economic zone with duty-free shopping, casinos, golf courses, and restaurants. Worth a half-day at least.
 
-**San Fernando** - Distance: 17.3 kilometers
+**San Fernando** — 17 km
 
-This city is most famous for two of its annual festivals: the Good Friday Lenten Rites performed every Easter and the Giant Lantern Festival each December. They are definitely the best times to visit. However, year round you can enjoy other aspects of the town. The Archdiocesan Museum and Archives holds antiques, artwork and various church paraphernalia from the 17th century onwards and be sure to stop at the cathedral as well. There are also many lantern factories that can be visited, an interesting activity in this place where they make the biggest lanterns in the world. Finally, Hilaga Philippines is a cultural village with exhibits to showcase the four regions of Luzon, as well as a swimming pool, rock climbing center and live music.
+The capital of Pampanga province is best known for two dramatic festivals: the Good Friday Lenten Rites at Easter, when volunteers are crucified in a Passion Play, and the Giant Lantern Festival each December. Year-round you can visit the Archdiocesan Museum, the cathedral, and the lantern factories that produce the biggest lanterns in the world.
 
-**Mt. Arayat **- Distance: 17.9 kilometers
+**Mt. Arayat** — 18 km
 
-Start out at Arayat National Park with a picnic on a sunny day. You can see the natural waterfalls or swim in any of the park's three full-sized swimming pools. The natural spring waters are said to be very good for the skin. You can then hike up to the top of this dormant volcano for incredible vistas over Luzon. You may even catch sight of some of the steam that occasionally rises from fissures in the ground.
+Start with a picnic in Arayat National Park, where natural waterfalls and three full-sized swimming pools fed by spring water make for a relaxing afternoon. From there you can hike to the summit of this dormant volcano for panoramic views over Luzon.
 
-**Mt. Pinatubo** - Distance: 25.1 kilometers
+**Mt. Pinatubo** — 25 km
 
-This Angeles City day trip is perhaps the most thrilling, as it brings a bit of danger along. The volcano last erupted in 1991 with devastating force. Today you can schedule a trek (you'll require a guide) to the crater lake at the top, where you can go for a dip or admire the views. There's a shorter trail available in the summer, but be prepared to take the longer one during the rainy season. Either way, it's not meant for those who aren't at least in decent physical shape. You can also visit Pinatubo Spa Town for a mud bath and massage or a dip in the hot springs.
-
-**Contributors**
-March 11, 2010
+The most dramatic day trip in the region. The volcano's devastating 1991 eruption left a stunning crater lake at the summit. You will need a guide for the trek, which takes most of a day — shorter in summer, longer during the rainy season. Not for the unfit. At the base, Pinatubo Spa Town offers mud baths, massages, and hot springs for recovery.

@@ -3,18 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-Air
+Getting to Afghanistan is difficult and requires serious advance planning. Most countries advise against all travel, and standard tourist infrastructure does not exist.
 
-Afghanistan's national airline is *Ariana Afghan Airlines (FG)*. PO Box 76 Afghan Air Authority Building Ansari Wat Kabul. Tel: (9251) 21015. At the time of writing the only available but sporadic service to Kabul is with *Ariana Afgan Airlines* from Islamabad and Dubai. Passengers should contact the Ariana office in Delhi (tel: (11) 331 1432).
+**By air:** Kabul International Airport (KBL) is the main entry point. A handful of airlines operate flights, primarily from the Gulf states and Pakistan. Kam Air and Ariana Afghan Airlines run limited services to Dubai, Islamabad and a few other regional destinations. Flight schedules are unreliable and change without notice. There are no direct flights from Europe or North America.
 
-The coalition in the north operates an international airline  *Balkh Airlines* which offers a regular service to Peshawar Pakistan Mashed and Iran.
+**By land:** Overland crossings exist with [Pakistan](/asia/pakistan) (Torkham near [Jalalabad](/asia/afghanistan/jalalabad), Chaman near [Kandahar](/asia/afghanistan/kandahar)), [Iran](/asia/iran) (Islam Qala near [Herat](/asia/afghanistan/herat)), and the Central Asian republics (Hairatan near [Mazar-i-Sharif](/asia/afghanistan/mazarisharif)). Border crossings may close without warning. The security situation along most land borders ranges from uncertain to dangerous.
 
-International airport
+**Visas:** The Taliban government issues visas, but the process is opaque and varies. Some travelers have obtained visas on arrival at Kabul airport; others have arranged them through Taliban consulates in Pakistan or Iran. Requirements change frequently. There is no reliable online application system. You should contact a specialized travel agency with current Afghan experience before attempting entry.
 
-*Kabul Airport (KBL)* is 16km (10 miles) from the city (tel: (9251) 61001). Airport facilities include banking buffet-bar car park post office and restaurant (opening hours: 0700-2400). Taxis are available to the city centre (travel time  30 minutes). Airport facilities in Kabul have been expanded and new airports have been built near the border.
-
-*At the time of writing the airport was closed and all flights were being directed to a military airbase in Kabul.*
-
-Road
-
-Overland travel is currently very risky in some parts of the country and the official advice is that it should be avoided. Buses operate along the Asia Highway which links Afghanistan to Iran and Pakistan. There are good road links from Mazar-i-Sharif and Herat to the countries in the north.
+**A word of honesty:** Afghanistan is not a country you enter lightly. If you go, you need a clear plan, local contacts, and an acceptance of the risks involved. Most travel insurance policies explicitly exclude Afghanistan.

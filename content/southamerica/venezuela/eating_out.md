@@ -3,8 +3,14 @@ title: "Eating Out"
 type: section
 ---
 
-Getting into the Venezuelan ways of eating is an experience no one will be disappointed by. Their very traditional "areperias", found on virtually every corner, are a feast for the taste buds. Do not be discouraged by the look of the places; western standards may not always apply but the food surely is delicious! Try the typical, venezuelan cheese (white, mozzarella-type), the "carne asada" and the chicken :) 
+Venezuelan food is built around a handful of staples that appear at virtually every meal: arepas, black beans (caraotas negras), white rice, plantains, and shredded beef. The national dish is pabellón criollo — all four of these on one plate, topped with a fried egg in some versions. It's simple, filling, and genuinely good.
 
-The main foods eaten by the common people is rice, chicken, yams ("yucca") used very much in the same way as potatoes, plantains ("platano") and black beans. The traditional meal consists of chicken, black beans, rice and yam.
+The arepa is the great constant of Venezuelan life. These thick cornmeal patties are grilled, baked, or fried and split open to hold fillings ranging from cheese and ham to pulled chicken to black beans and avocado. Every neighborhood has an arepera, open from morning to late night. The quality varies but the best are excellent. The reina pepiada — shredded chicken with avocado — is worth seeking out.
 
-Minor corrections on 15 June 04
+At Christmas, hallacas dominate: corn dough stuffed with a slow-cooked stew of beef, pork, chicken, olives, and raisins, wrapped in plantain leaves and steamed. Each family has its own recipe, and making them is a multi-day communal ritual.
+
+Along the coast and in the east, fresh fish and seafood are central. Empanadas de cazón (fried cornmeal turnovers filled with seasoned shark) are a popular street food along the eastern coast. Ceviche and grilled fish are found anywhere near the sea.
+
+Tropical fruits are extraordinary: passion fruit (maracuyá), soursop (guanábana), tamarind, and the Venezuelan specialty, the chinola, make for remarkable juices. Ask for a batido (fruit blended with milk) or a jugo natural at any small restaurant.
+
+The economic crisis has made eating out in Venezuela a somewhat unpredictable experience outside tourist areas and wealthier neighborhoods. Shortages mean menus don't always reflect what's available. In areas popular with tourists — Mérida, the coast, Canaima — restaurants catering to travelers are generally well-stocked and accept US dollars.

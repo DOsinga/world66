@@ -3,110 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Catch a Fire: The Life of Bob Marley** by Timothy White — The authoritative biography of Marley, tracing his life from the Trenchtown ghetto to global icon. Essential reading before or after visiting Kingston.
 
-**Rule of the Bone**
+**The Harder They Come** by Michael Thelwell — A novelisation of the 1972 Perry Henzell film, following a rural youth who becomes a reggae singer and outlaw in Kingston. Vivid portrait of Jamaican society and Patois culture.
 
+**A Brief History of Seven Killings** by Marlon James — A Booker Prize-winning novel centred on the 1976 assassination attempt on Bob Marley, told through a chorus of voices across decades of Jamaican history. Demanding but brilliant.
 
+**Reggae Explosion: The Story of Jamaican Music** by Chris Salewicz and Adrian Boot — A well-illustrated cultural history of Jamaican music from mento through ska, rocksteady, reggae, and dancehall.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0060927240/ref=ase_osingacom?v=glance&s=books)
+**Rule of the Bone** by Russell Banks — A novel partly set in Jamaica, following a teenage drifter who ends up living with a Rastafarian in the mountains. Less about Jamaica as travel than Jamaica as backdrop to a coming-of-age story.
 
-author: Russell Banks,Arturo Patten
-
-isbn: 0060927240
-
-subject: travel
-
-**How Stella Got Her Groove Back**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0451197410/ref=ase_osingacom?v=glance&s=books)
-
-author: Terry McMillan
-
-isbn: 0451197410
-
-subject: travel
-
-**Lonely Planet Jamaica '96**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423721/ref=ase_osingacom?v=glance&s=books)
-
-author: Christopher P. Baker
-
-isbn: 0864423721
-
-subject: travel
-
-**Catch a Fire:The Life of Bob Marley**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/080506009X/ref=ase_osingacom?v=glance&s=books)
-
-author: Timothy White
-
-isbn: 080506009X
-
-subject: culture
-
-**Marley and Me:The Real Bob Marley Story**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1569800448/ref=ase_osingacom?v=glance&s=books)
-
-author: Don Taylor,Mike Henry
-
-isbn: 1569800448
-
-subject: culture
-
-**Bob Marley:Songs of Freedom**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0140244131/ref=ase_osingacom?v=glance&s=books)
-
-author: Adrian Boot,Chris Salewicz,Rita Marley (Intro..
-
-isbn: 0140244131
-
-subject: culture
-
-**Reggae, Rasta, Revolution:Jamaican Music from Ska to Dub**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028647289/ref=ase_osingacom?v=glance&s=books)
-
-author: Chris Potash (Editor)
-
-isbn: 0028647289
-
-subject: history
-
-**Reggae Bloodlines :In Search of the Music and Culture of Jamaica**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0306804964/ref=ase_osingacom?v=glance&s=books)
-
-author: Stephen Davis, Simon Peter (Photographer)
-
-isbn: 0306804964
-
-subject: history
-
-**Afro-Creole:Power, Opposition, and Play in the Caribbean**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0801483255/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard D. E. Burton
-
-isbn: 0801483255
-
-subject: history
+**How Stella Got Her Groove Back** by Terry McMillan — A lighter read: a successful woman takes a Jamaican holiday and falls for a much younger man. The novel that did more than any other to position Jamaica as a romance destination for American readers.

@@ -5,8 +5,10 @@ latitude: 57.313171
 longitude: 25.274855
 ---
 
-Travel Guide
+Cesis is the most appealing town in the Gauja Valley and arguably the best-preserved medieval settlement in the Baltics. It's about 90 minutes from Riga by train and makes an easy day trip, though an overnight stay lets you see it more slowly.
 
-Cesis is two hours from Riga by bus -- and it's a trip worth making. Home to Cesu beer and nestling in the heart of the Gauja National Park, Cesis is a quiet and relaxed little town (pop. approx 20,000) with a place in Latvian history. It was in 1279 when during a battle warriors carried a dying leader away in a white flag only to find when the body was removed the two broad swathes of maroon dried blood and the white bar formed by the dead mans body made up a standard that today make up the Latvian national flag. It's seen its fair share of conflict both before and sincel -- the castle which is as at May 2008 undergoing renovation was built by the Knights of the Sword and more recently it also saw a turning point in the countrys struggle for freedom as in 1919 the remains of the german Landeswehr were defeating paving the way for the interwar republic.
+The town's centrepiece is **Cesis Castle** (Cēsu pils), a 13th-century fortress of the Livonian Order. The ruins are substantial and atmospheric; the visit includes a museum and a medieval tower you can climb with lanterns provided, since it has no electric lighting. Beside the ruins stands a 19th-century manor house (Jaunā pils) that now serves as the local history museum.
 
-Its old town is well worth a wander and the town has given birth to a number of Latvian cultural figures and the 13th century Jana baznica/St. John's church with its panarama views from the tower is rewarding. Or you could always try some of the local brews from the Cesu brewery!
+The old town around the castle is quiet and well-kept, with wooden and stone buildings lining cobbled streets. **St John's Church** (Jāņa baznīca) is a large Gothic church from the 13th century with a tower offering views over the valley and surrounding forests. The local brewery, Cesu Alus, has been operating since 1590, making it one of the oldest in Northern Europe; the beer is worth trying.
+
+The town has historical resonance for Latvians: in 1919, the decisive battle that repelled the German Landeswehr and secured the future of the independent Latvian republic was fought nearby.

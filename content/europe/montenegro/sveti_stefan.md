@@ -5,8 +5,10 @@ latitude: 42.255651
 longitude: 18.89695
 ---
 
-Travel Guide
+Sveti Stefan is the most photographed spot in Montenegro — a turreted medieval village on a small island, connected to the shore by a narrow sandy causeway, with pink-sand beaches on both sides. If you've seen a postcard of Montenegro, this is probably it.
 
-This is the main tourist resort in Montenegro consisting of two luxury hotels and many surrounding lesser accommodations. Many English visitors stay here and once you've visited you can see why. White shingle and pebble beaches with crystal blue sea, backed by a shaded promenade with fantastic little cafes that are filled with the dodgy sound of "Balkan" Euro pop! For the first time in many years, I truly felt I could spend a weeklong beach holiday somewhere, that somewhere being Sveti Stefan.
+Since 2007 the island itself has been operated as a private luxury hotel by Aman Resorts (Aman Sveti Stefan). Access is restricted to hotel guests. The entry fee that used to allow day visitors to walk around the village is no longer available — the whole island is private.
 
-Since 2007 the Island of Sveti Stefani has been in private hands and no longer open to visitors.
+What remains for non-guests is still excellent: the two beaches flanking the causeway (Miločer and Sveti Stefan beach) are among the best on the coast, with clear water, fine sand, and the island as a backdrop. Miločer beach to the south, sheltered by pine trees, is especially good. There are cafes and restaurants on the mainland promenade.
+
+Sveti Stefan is about 6km south of [Budva](/europe/montenegro/budva). Buses run regularly, or it's a pleasant 30-minute walk along the coastal path from Budva via Pržno.

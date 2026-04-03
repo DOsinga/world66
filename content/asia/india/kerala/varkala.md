@@ -1,14 +1,12 @@
 ---
-title: 'Varkala'
+title: "Varkala"
 type: location
-latitude: 8.734043
-longitude: 76.725285
+latitude: 8.7333
+longitude: 76.7167
 ---
 
-Varkala is Kerala's most dramatically situated beach, perched beneath towering red laterite cliffs about 50 km north of [Thiruvananthapuram](/asia/india/kerala/thiruvananthapuram). Where [Kovalam](/asia/india/kerala/kovalam) has become crowded and commercial, Varkala still has a more relaxed, bohemian feel, though that is changing fast.
+Varkala is Kerala's cliff-top beach town, and it looks like nothing else on this coast. A long laterite cliff drops straight down to the Arabian Sea, its red-brown face lined with coconut palms and topped by a path of restaurants, shops, and guesthouses. The beach below — Papanasam, the "destroyer of sins" — stretches golden and wide beneath the bluff.
 
-The main stretch is Papanasam Beach, named "Destroyer of Sins" for the springs that emerge from the cliff face. The Janardhana Swamy Temple, over 2,000 years old, sits at the southern end. Along the cliff top, a path lined with restaurants, shops and guesthouses runs for about a kilometre, offering spectacular views of the sea below. At sunset, the whole cliff lights up in shades of gold and red.
+The town has been a Hindu pilgrimage site for centuries, centered on the 2,000-year-old Janardhana Swami Temple. That spiritual heritage gives Varkala a different feel from Goa's party beaches. Yoga shalas and Ayurvedic clinics are everywhere, and the pace stays slow even as tourism has grown.
 
-Varkala has become a popular yoga destination, with several centres offering classes and retreats. The Sivagiri Mutt, founded by the philosopher and social reformer Sree Narayana Guru, draws thousands of pilgrims and is worth a visit for its peaceful hilltop setting.
-
-The beach has strong currents, so swim with caution. The best season is October through March, when the weather is sunny and dry. During the monsoon months the sea gets rough and many of the cliffside establishments close.
+Varkala has changed since the days when getting here was an effort. The train station is convenient, hotels and restaurants line the cliff path, and the place draws a steady stream of backpackers and families alike. It is more developed than it used to be, but the dramatic coastline — red cliffs, crashing waves, coconut groves — still delivers.

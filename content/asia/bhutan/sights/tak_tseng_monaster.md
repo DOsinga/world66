@@ -1,50 +1,12 @@
 ---
-title: "Taktsang Monastery (Tiger Nest)"
+title: "Taktsang Monastery (Tiger's Nest)"
 type: poi
-type: "Monasteries"
 latitude: 27.491932
 longitude: 89.363445
 ---
 
-The beautiful and sacred Taktsang Monastery located about 20 minutes drive north of [Paro](/asia/bhutan/paro) is a must see. The place where the Guru Rimpoche flew over the Himilaya from Tibet in the 7th century on the back of a flying Tigress is said to be the origin of Bhuddism in Bhutan. From the parking lot at the base of the hill it is about a 2 hour hike to the best view point. It is often closed to the public but just seeing it from the outside is well worth the effort.
+The most iconic sight in Bhutan: a cluster of monastery buildings clinging to a near-vertical granite cliff 900 metres above the floor of the Paro Valley. Guru Rinpoche (Padmasambhava) is believed to have flown here from Tibet on the back of a tigress in the 8th century to meditate in a cave below, introducing Tantric Buddhism to Bhutan. The monastery buildings were constructed in 1692 around that cave.
 
-**Contributors**
-June 29, 2005
+The hike from the road is 4-5 km return, gaining about 500 m. Most people take 2-3 hours up and 1.5-2 hours down. The first section is steep through pine forest; there's a café at the midpoint with views across to the monastery. The final approach descends into a gorge and then climbs back up to the main entrance. Bring water and go early — morning light on the white buildings is best, and clouds often close in by afternoon.
 
-January 11, 2006
-
-type: Monasteries
-
-
-
-
-
-## Destinations in Bhutan
-
-- [Thimphu](/asia/bhutan/thimphu)
-- [Bumthang](/asia/bhutan/bumthang)
-- [Wangdiphodrang](/asia/bhutan/wangdiphodrang)
-- [Lhuntsi](/asia/bhutan/lhuntsi)
-- [Gangten](/asia/bhutan/gangten)
-- [Kurtey](/asia/bhutan/kurtey)
-
-- [Phuntsholing](/asia/bhutan/phuntsholing)
-- [Paro](/asia/bhutan/paro)
-- [Tongsa](/asia/bhutan/tongsa)
-- [Punakha](/asia/bhutan/punakha)
-- [Tashigang](/asia/bhutan/tashigang)
-- [Punakha](/asia/bhutan/punakha)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The monastery is open to visitors most days but does close periodically, especially during religious ceremonies. Remove shoes and hats inside, and leave bags and cameras at the entrance.

@@ -1,18 +1,14 @@
 ---
-title: "Bars and Cafes in Argeles sur Mer"
+title: "Bars and Cafes"
 type: section
 ---
 
-**Try a New Beer in Argeles sur Mer**
+The port area is the centre of Argeles-sur-Mer's drinking scene, with terrace bars overlooking the boats. In summer, the beachfront bars along Argeles Plage stay open late and the whole strip comes alive after dark.
 
-****The** Argeles sur Mer bars and cafes** reflect the charm of the French lifestyle. The Mediterranean coast is close to Argeles sur Mer, and it is located near the border of Spain. Beautiful, pristine beaches and the sights of the eastern Pyrenees make this a perfect place to indulge in windsurfing. The streets and the port in Argeles sur Mer attract a lot of tourists year-round. However, it is the bars and cafes of this region which take entertainment to a whole new level.
+### Biere du Monde
 
-#### **Biere du Monde
-**
+A French-style bar in the port area, about 25 km from Perpignan. It has both indoor and terrace seating, and doubles as a solid tapas spot. The real draw is the beer cellar, which stocks bottles from all over the world -- Belgian, German, Cuban, Jamaican Red Stripe, and plenty more. You can buy gift boxes to take home. Open 11:00 to 01:00.
 
-This French styled bar is located just 25 km from Perpignan in the port area of Argeles sur Mer. Once you are in the port area, you can easily spot this bar. The bar has both indoor and terrace seating. Guests here can relax on the terrace area with a bottle of beer. This bar also doubles as a tapas heaven. The bar is open from 11:00 a.m. to 1:00 a.m.
+### Argeles Plage
 
-#### **Beer Cellar
-**
-
-Biere du Monde also has a beer cellar, well-known for its collection of beer from all over the world. You will find Belgian beer here, chilled to perfection and served at the right temperature. There are several German brews on the menu. Step into the bar cellar and sample a few from the collection. Sample a few unusual varieties like Cuban beer or the Red Stripe from the land of Jamaica. You can even buy gift boxes of the beer of your choice.
+The beachfront strip has a large variety of bars and restaurants. On summer evenings the whole area takes on a festive atmosphere, with something for every taste -- from quiet drinks to dancing until late. Indigo, one of the clubs along the strip, runs a foam party on Friday nights.

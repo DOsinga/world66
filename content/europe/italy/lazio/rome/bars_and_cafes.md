@@ -1,6 +1,8 @@
 ---
-title: 'Bars and Cafes'
+title: "Bars and Cafes"
 type: section
 ---
 
-Roman nightlife revolves around outdoor tables, wine bars, and late-night cocktail spots rather than big clubs. Trastevere and Testaccio are the main evening districts, while Campo de' Fiori fills with a young international crowd after dark. For a quieter drink, try the wine bars tucked into the lanes around Piazza Navona or the Monti neighborhood. Most Romans start the evening with an aperitivo -- a Spritz or Negroni served with complimentary snacks -- around 7pm.
+Rome's bar culture runs from early morning espresso at a standing counter to late-night aperitivo crowds spilling into cobblestone squares. The city doesn't have a concentrated nightlife district — the best bars are scattered through Trastevere, Pigneto, Monti, and Prati. Nightlife in the tourist centre is mostly tourist-facing; the locals are in the outer neighbourhoods.
+
+The aperitivo hour (roughly 18:00–21:00) is when Rome's bars are at their best: drinks come with small snacks, the light is golden, and the pace is sociable rather than frantic. For serious nightclubs, the Ostiense and Testaccio areas have the most consistent options, often in converted industrial spaces.

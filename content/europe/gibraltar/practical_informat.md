@@ -1,26 +1,24 @@
 ---
-title: "Practical Information in Gibraltar"
+title: "Practical Information"
 type: section
 ---
 
-**Gibraltar Practical Information** is essential for travelers traveling to this part of the world. Situated between the Mediterranean Sea and the Atlantic Ocean, Gibraltar is one of the best places of tourist interest.
+**Currency**: Gibraltar uses the Gibraltar pound (GIP), which is pegged 1:1 to the British pound. UK pound notes are accepted everywhere, but Gibraltar pound notes are not accepted back in the UK — exchange any leftovers before you leave. Euros are widely accepted in shops and restaurants, though you'll usually get change in Gibraltar pounds. Major credit and debit cards are accepted almost everywhere.
 
-**Currency**
+**Language**: English is the official language and the language of schools, government, and business. Spanish is spoken widely and many Gibraltarians switch naturally between the two. The local vernacular is Llanito (pronounced "yah-nee-to"), a fluid mix of Andalusian Spanish and British English with traces of Maltese, Portuguese, Italian, and Haketia (a form of Judeo-Spanish). Visitors won't need anything other than English, but Llanito is fascinating to listen to.
 
-The standard Gibraltar currency is the Gibraltar pound, which is equivalent to the British pound. Gibraltar also accepts euro. You will find numerous currency change units in Gibraltar for foreign tourists. Most of the shops in Gibraltar also accept all major credit and debit cards.
+**Population**: approximately 34,000 people live in Gibraltar, making it one of the most densely populated territories in the world. Gibraltarians are British citizens with their own distinct identity — neither quite British nor Spanish.
 
-**Weather**
+**Taxes and shopping**: Gibraltar is outside the EU customs area and has no VAT. This makes alcohol, tobacco, electronics, and perfumes significantly cheaper than in the UK or Spain. Main Street is the main shopping drag.
 
-During winters, it can become chilly. However, snow or frost is a rare sight. Even during winters, you can see the sun shining. Summers are usually hot. Not much rainfall occurs in summers. The best months to visit Gibraltar are the spring months, when you will find lovely warm weather. Levanter and Poniente winds are common to Gibraltar.
+**Climate**: Mediterranean, with warm dry summers and mild wet winters. July and August temperatures average around 27–30°C. January is the coolest month at around 13–16°C. The Levanter — a persistent easterly wind — can push a banner of cloud over the top of the Rock even on otherwise clear days. The Poniente is the westerly that brings warmth from Spain.
 
-**Language**
+**Electricity**: UK-standard plugs (Type G, 230V). European plugs need an adaptor.
 
-Though English is the official language in Gibraltar, many people prefer to speak Spanish and Arabic. Most of the people of Gibraltar are bilingual.
+**Time zone**: Central European Time (CET/CEST), not UK time — Gibraltar follows Spanish time, not Greenwich.
 
-**Transport**
+**Phone**: country code +350. UK mobile roaming charges apply as if you are outside the UK. Spanish networks do not cover Gibraltar.
 
-Because of its small size, Gibraltar has a limited public transportation system. Buses run throughout Gibraltar, except the Upper Rock. Gibraltar lacks an extensive railway network. Gibraltar Airport is the only airport here, situated close to the Spain border. Sea remains crucial to Gibraltar's transport links.
+**Health**: excellent public healthcare. EU GHIC cards (the successor to the EHIC) are not valid in Gibraltar — it is a British overseas territory, not an EU country. UK travellers are entitled to emergency treatment at St Bernard's Hospital under a reciprocal arrangement, but private travel insurance is advisable.
 
-**Attractions**
-
-There are a number of tourist attractions in Gibraltar. Its location itself is a great attraction to many tourists. Other important sights worth visiting are Cable Car, St Michael's Cave, Moorish Castle, Great Siege Tunnels, Gibraltar Museum, Dolphin Tour and Alameda Gardens.
+**Tourist office**: located at Cathedral Square (Duke of Kent House). The Visit Gibraltar website (visitgibraltar.gi) is also good for current events and listings.

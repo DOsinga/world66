@@ -5,8 +5,6 @@ latitude: 49.679313
 longitude: 6.443098
 ---
 
-We currently have no information about Grevenmacher.
+Grevenmacher is the main town of the Moselle wine region, sitting on the river at the border with Germany. It is an easy and pleasant place to spend a few hours: a small historic centre, wine caves open for tasting, and a butterfly garden (Jardin des Papillons) that is popular with families. The town hosts the Grevenmacher Wine and Grape Festival each September, one of the most convivial annual events in the country.
 
-If you do know any general information about Grevenmacher, please [Edit this article].
-
-If you know any hotels in Grevenmacher or restaurants in Grevenmacher, please [[Add].](/destinations/addItemWizard?addwhere=europe/luxembourg/grevenmacher)
+The surrounding wine villages — Ahn, Wormeldange, Machtum — are all within easy cycling distance along the Moselle cycle path.

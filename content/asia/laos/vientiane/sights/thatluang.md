@@ -1,8 +1,8 @@
 ---
-title: "That Luang"
+title: 'Pha That Luang'
 type: poi
 latitude: 17.976664
 longitude: 102.63649
 ---
 
-The most famous landmark of Vientiane is That Luang (Royal Stupa) which was constructed in 1566 by King Setthatirat and restored in 1935. The stupa is situated 3km north of the centre of the city.
+The most important national monument in Laos, Pha That Luang is a gold-covered Buddhist stupa that appears on the national seal and currency. Originally built in the 3rd century, it was rebuilt in 1566 by King Setthatirat and restored in 1935 after being ransacked by invaders. The stupa sits 3 kilometres north of the city center, surrounded by a cloister with Buddha images. The That Luang Festival in November is the largest religious festival in Laos.

@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 212 941 810 (July 1998 est.)
+Indonesia is the fourth most populous country in the world, with around 275 million people. That number conceals the extraordinary diversity within. The country has more than 700 distinct ethnic groups speaking over 700 languages. The national motto — *Bhinneka Tunggal Ika*, meaning "Unity in Diversity" — is genuinely apt.
 
-**Age structure:**
+The **Javanese** are the largest single group, making up roughly 40 percent of the population and dominating national politics and culture. The Sundanese of West Java, the Batak of Sumatra, the Balinese, the Dayak peoples of Kalimantan, the Toraja of Sulawesi, the Ambonese of Maluku — each has its own distinct traditions, architecture, music, and in many cases religion.
 
-*0-14 years:* 31% (male 33 311 867; female 32 361 468)
+**Bahasa Indonesia** is the national language, taught in all schools and used in government, media, and business. It is relatively straightforward to learn the basics — the grammar is simple and the vocabulary manageable. Outside cities and tourist areas, English is limited; a few words of Bahasa Indonesia go a long way. Javanese, Sundanese, Balinese, and dozens of other local languages are spoken at home.
 
-*15-64 years:* 65% (male 69 215 722; female 69 578 527)
+Around **87 percent** of Indonesians are Muslim, making it the largest Muslim-majority country in the world. But Indonesian Islam is generally moderate, shaped by centuries of interaction with Hindu-Buddhist and animist traditions. You will hear the call to prayer five times a day across most of the country; you will also see temples, festivals, and offerings that predate Islam by centuries. Bali is predominantly Hindu. Parts of eastern Indonesia — Flores, Maluku, Papua — are largely Christian.
 
-*65 years and over:* 4% (male 3 744 314; female 4 729 912) (July 1998 est.)
-
-**Population growth rate:** 1.49% (1998 est.)
-
-**Birth rate:** 23.1 births/1 000 population (1998 est.)
-
-**Death rate:** 8.22 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 0.99 male(s)/female
-
-*65 years and over:* 0.79 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 59.23 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 62.49 years
-
-*male:* 60.28 years
-
-*female:* 64.81 years (1998 est.)
-
-**Total fertility rate:** 2.61 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Indonesian(s)
-
-*adjective:* Indonesian
-
-**Ethnic groups:** Javanese 45% Sundanese 14% Madurese 7.5% coastal Malays 7.5% other 26%
-
-**Religions:** Muslim 87% Protestant 6% Roman Catholic 3% Hindu 2% Buddhist 1% other 1% (1985)
-
-**Languages:** Bahasa Indonesia (official modified form of Malay) English Dutch local dialects the most widely spoken of which is Javanese
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 83.8%
-
-*male:* 89.6%
-
-*female:* 78% (1995 est.)
+Indonesian culture places great value on social harmony and indirect communication. Confrontation is avoided; a "yes" may mean "perhaps" or "I understand." Visitors who are patient, show interest in local customs, and avoid public shows of frustration will find Indonesians among the most hospitable people in Asia. Dress modestly when visiting temples or mosques — a sarong or shawl is usually available to borrow at the entrance.

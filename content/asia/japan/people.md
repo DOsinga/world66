@@ -3,64 +3,24 @@ title: "People"
 type: section
 ---
 
-**Population:** 125 931 533 (July 1998 est.)
+Japan has a population of around 125 million, concentrated mainly in the great urban corridors of Honshu — the Tokyo-Yokohama megapolis, the Keihanshin region (Osaka, Kyoto, Kobe), and Nagoya. The countryside is thinning out fast; rural depopulation is one of Japan's most visible long-term trends.
 
-**Age structure:**
+Japanese society is ethnically very homogeneous — over 98% of the population is Japanese. The largest minorities are Zainichi Koreans and Chinese, along with smaller communities from Brazil, the Philippines, and elsewhere. The indigenous Ainu people of Hokkaido were only formally recognized as indigenous in 2019.
 
-*0-14 years:* 15% (male 9 802 921; female 9 342 254)
+**Religion**
 
-*15-64 years:* 69% (male 43 486 840; female 43 135 979)
+Most Japanese nominally follow both Shinto and Buddhism — these coexist so comfortably that the word "both" barely captures it. Shinto shrines and Buddhist temples stand side by side across the country. Weddings tend to follow Shinto or Western Christian form; funerals are typically Buddhist. Many Japanese would not describe themselves as religious in any strong sense, but visit shrines at New Year and observe ancestral rites at O-bon in August.
 
-*65 years and over:* 16% (male 8 388 242; female 11 775 297) (July 1998 est.)
+**Social culture**
 
-**Population growth rate:** 0.2% (1998 est.)
+The concept of omotenashi — wholehearted hospitality — explains a lot about how Japan treats visitors. Service in shops, restaurants, and transport is attentive and sincere, not performative. On the flip side, there's an expectation of consideration from guests too: queue patiently, keep the noise down on trains, don't leave messes.
 
-**Birth rate:** 10.26 births/1 000 population (1998 est.)
+Japan's famous group orientation and deference to social harmony are real, but so is a wry, dry sense of humor that sometimes catches visitors off guard. Younger urban Japanese are increasingly individualistic, and the image of the salaryman swallowed by a rigid corporate culture, while not extinct, is changing.
 
-**Death rate:** 7.94 deaths/1 000 population (1998 est.)
+**Language**
 
-**Net migration rate:** -0.36 migrant(s)/1 000 population (1998 est.)
+Japanese (Nihongo) is one of the world's more complex languages to learn: three writing systems, a subtle system of honorifics, and very limited overlap with European languages. That said, getting around Japan without it is perfectly feasible, especially in cities where signage is often bilingual. Making an effort at basic words — arigatou, sumimasen, hai — is always appreciated.
 
-**Sex ratio:**
+**Age**
 
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.01 male(s)/female
-
-*65 years and over:* 0.71 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 4.1 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 80 years
-
-*male:* 76.91 years
-
-*female:* 83.25 years (1998 est.)
-
-**Total fertility rate:** 1.46 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Japanese (singular and plural)
-
-*adjective:* Japanese
-
-**Ethnic groups:** Japanese 99.4% other 0.6% (mostly Korean)
-
-**Religions:** observe both Shinto and Buddhist 84% other 16% (including Christian 0.7%)
-
-**Languages:** Japanese
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99% (1970 est.)
-
-*male:* NA%
-
-*female:* NA%
+Japan is one of the world's oldest societies. Around 30% of the population is over 65, and the birth rate remains well below replacement level. The effects are visible: shuttered shops in rural towns, elderly workers in convenience stores, and a debate about immigration that shows no sign of resolution.

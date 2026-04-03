@@ -3,110 +3,24 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Travel and Natural History**
 
-**Papua New Guinea**
+*Papua New Guinea* by Rowan McKinnon (Lonely Planet) — the standard practical guide, updated periodically. Solid on logistics and region-by-region coverage.
 
+*The Coral Triangle* by Lyndon DeVantier and Emre Turak — for divers, an authoritative account of the marine environment of the region surrounding PNG.
 
+**History**
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424027/ref=ase_osingacom?v=glance&s=books)
+*Into the Crocodile Nest* by Benedict Allen — Allen's 1987 account of crossing the Sepik basin on foot, full of detail on village life and the physical demands of the lowland forest.
 
-author: Adrian Lipscomb,Jon Murray,Rowan McKinnon
+*The Siege of Rabaul* by Henry Sakaida — covers the Japanese occupation of New Britain during WWII and the battles around Rabaul.
 
-isbn: 0864424027
+*The Pacific War* by John Costello — places the Kokoda campaign and the battles in PNG waters into the broader context of the Pacific theatre.
 
-subject: travel
+**Anthropology and Culture**
 
-**The Undiscovered Country**
+*Sex and Temperament in Three Primitive Societies* by Margaret Mead — classic, controversial anthropological work that drew on fieldwork in PNG. Read it as a product of its time, not as settled fact.
 
+*Pigs for the Ancestors* by Roy Rappaport — a study of ritual, ecology, and warfare among the Tsembaga Maring of the Highlands. Foundational reading for understanding how Highland societies worked before significant outside contact.
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0805061983/ref=ase_osingacom?v=glance&s=books)
-
-author: Samantha Gillison
-
-isbn: 0805061983
-
-subject: travel
-
-**Lonely Planet Papua New Guinea Phrasebook**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0908086903/ref=ase_osingacom?v=glance&s=books)
-
-author: John Hunter
-
-isbn: 0908086903
-
-subject: travel
-
-**Patterns of Culture**
-
- 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0395500885/ref=ase_osingacom?v=glance&s=books)
-
-author: Ruth Benedict,Foreword by Mary Catherine Bate..
-
-isbn: 0395500885
-
-subject: culture
-
-**Sambia Sexual Culture:Essays from the Field**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0226327523/ref=ase_osingacom?v=glance&s=books)
-
-author: Gilbert Herdt
-
-isbn: 0226327523
-
-subject: culture
-
-**Sex and Temperament in Three Primitive Societies**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0688060161/ref=ase_osingacom?v=glance&s=books)
-
-author: Margaret Mead
-
-isbn: 0688060161
-
-subject: culture
-
-**Mission Possible**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0842338810/ref=ase_osingacom?v=glance&s=books)
-
-author: Marilyn Laszlo,Luci Tumas
-
-isbn: 0842338810
-
-subject: history
-
-**The Seige of Rabaul**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1883809096/ref=ase_osingacom?v=glance&s=books)
-
-author: Henry Sakaida
-
-isbn: 1883809096
-
-subject: history
-
-**Patterns of Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0395500885/ref=ase_osingacom?v=glance&s=books)
-
-author: Ruth Benedict,Foreword by Mary Catherine Bate..
-
-isbn: 0395500885
-
-subject: history
+*Black and White: The Papua New Guinea Journals* by Sean Dorney — an Australian journalist's decades of experience covering PNG from independence onwards. Informed and honest about the country's political difficulties.

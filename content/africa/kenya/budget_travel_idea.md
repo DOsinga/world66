@@ -1,25 +1,16 @@
 ---
-title: "Budget Travel Ideas in Kenya"
+title: "Budget Travel Ideas"
 type: section
 ---
 
-The following **Kenya budget travel** guide will help you save money while enjoying a great holiday in this beautiful country.
+Kenya is not a cheap country by African standards, but it's very possible to travel here without burning through money — if you're willing to travel the way Kenyans travel.
 
-**Traveling**
+**Getting around:** Matatus (minibuses) and long-distance buses are the backbone of Kenyan public transport and are genuinely cheap. The Akamba, Easy Coach, and Modern Coast bus companies run reliable services between major towns. Nairobi to Mombasa by bus costs around KES 1,200–1,500 (roughly USD 9–11). The Standard Gauge Railway is slightly more but worth it for the comfort and scenery. Avoid night buses on minor roads.
 
-For tourists who are looking to save some money on traveling within Kenya, road travel is probably the best option. The best budget traveling option in the country is definitely a bus. You can find regular bus services in and around cities. They seat up to 30 passengers and are reliable and fairly clean. However, ensure that you travel during the day and pick a reliable coach company if you plan on traveling long distances in buses. Tourists who are looking for a budget-friendly yet faster way to travel in the country can opt for flying with Fly540, a low cost airline. Kenya also has a rail network, but it is very slow and is considered to be risky for foreigners.
+**Eating:** Local restaurants called *hotelis* are everywhere and cost almost nothing. A plate of ugali with sukuma wiki (braised kale) and stewed beef runs KES 150–250. Street food — roast maize, mandazi (fried doughnuts), samosas, roasted groundnuts — fills gaps cheaply. Budget more in Nairobi, where cafes aimed at the middle class charge international prices. In coastal towns, fresh fish from the market is excellent value.
 
-**Accommodation**
+**Accommodation:** Nairobi has a good hostel scene, particularly in Westlands and around the CBD. Budget guesthouses in upcountry towns are basic but functional and cost KES 600–1,200 per night. On the coast, Diani Beach has some budget guesthouses away from the resort strip; Lamu has affordable guesthouses in town.
 
-One of the best things about accommodation in Kenya is that it can suit tourists with any budget. Every city in the country has a number of cheap hotels that offer basic facilities for a comfortable stay. Bermuda Hotel, Meridian Court Hotel and Ngara Youth Hostel are some of the popular budget hotels in Nairobi. Mtwapa Creek Villa and The Beach- Bar Restaurant and Camp Lodge are 2 popular budget friendly hotels in Mombasa that offer good facilities at low rates. If you are visiting Lamu, Shella Sea Breeze and Lamu- Island Villa are 2 hotels that are great for tourists with a tight budget.
+**Safari on a budget:** This is the hard one. Game park entry fees are high — Maasai Mara costs around USD 100 per person per day just to enter, on top of accommodation and transport. The most economical approach is joining a group safari from Nairobi. Several operators run 3-day budget camping safaris to the Mara for USD 250–350 per person all-in, sharing a vehicle with 5–6 others. It's not luxurious, but you see the same wildlife. Alternatively, Nairobi National Park (just 7km from the city centre) has lower fees and is accessible by public transport from the city — you can see lions and rhinos for a fraction of the cost of getting to the Mara.
 
-**Attractions**
-
-Kenyan beaches are among the top attractions in the country. Soft white sand and rich blue water awaits tourists at all the beaches along the country’s coast line. Beaches in Malindi, Lamu and Mombasa are ideal for relaxing and sunbathing. Tourists that are looking for a more interesting way to spend their time here can take a trip to the Gedi ruins, which are close to Watamu and Malindi. This Swahili settlement was founded in the 12th century and consists of a mosque, palace and houses. Tourists staying in Mombasa can also visit the attractions on the beach road that is to the north of the city. These include the Ngomongo Villages and Bamburi Quarry Nature Trail.
-
-**Eating**
-
-There are a number of restaurants in Kenya that offer good food at affordable prices. An ideal way to save on eating is by dining in local restaurants. These offer authentic Kenyan dishes at reasonable rates. K’osewe’s in Nairobi is one of the best restaurants that offer traditional Kenyan food. There are many other restaurants that serve international cuisines like Italian, Thai, Lebanese and French food at reasonable rates. Avoid eating out in restaurants inside major hotels to save money. Drinking Kenya’s local beers, Tusker Lager and White Cap Lager is a good way to save on your alcohol purchases as imported beers are quite expensive.
-
-**Contributors**
-March 26, 2010
+**The coast:** Away from the big resort hotels, the Kenyan coast is relatively affordable. A good guesthouse in Watamu or Malindi runs USD 20–30. A full plate of grilled fish at a local restaurant costs KES 400–600. The budget traveler's reward here is Lamu: expensive to reach by air, but the guesthouses are cheap and there's almost nothing to spend money on beyond food and dhow trips.

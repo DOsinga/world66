@@ -3,24 +3,28 @@ title: "Festivals"
 type: section
 ---
 
-There is always something going on in Kenya. Kenyan people are very sociable by nature, and fun festivals are known to sprout up anywhere at any time. To keep up on festivals, concerts, sports tournaments, and parties, read the *Daily Nation* Newspaper. For a few shilling you can get all the latest local and international news, as well as some tips on festivals all over the country. See the Links section for the Daily Nation on the Web.
+There is always something going on in Kenya. Kenyan people are sociable by nature, and festivals sprout up anywhere and at any time. To keep up on concerts, sports tournaments, and events, the *Daily Nation* newspaper is the best local source.
 
-  Here are a few annual festivals to give you an idea of the fun to be had in Kenya.
+**International Camel Derby — Maralal (July)**
 
-  **International Camel Derby:**
+The most entertaining possible way to spend a weekend in northern Kenya. The Derby is held every July in Maralal, a town in the traditional homelands of the Samburu — close relatives of the Maasai, but noticeably better dressed. The race is based at the Yare Club and Campground outside town, where you can camp cheaply or get a room. There is an amateur competition open to anyone who wants to ride — for a few thousand shillings you pick a camel, hire a handler to run behind it with a stick, and take your chances. Every camel is ornery. Many sit down mid-race. You will lose. You will not mind.
 
- Perhaps the most fun possible in one weekend is the annual International Camel Derby. The Derby is held every July in a town called Maralal in northern Kenya and everyone is invited for a hell of a good time. The area is the traditional homelands of the Samuru tribe, close relatives to the Maasai of southern Kenya and Tanzania. They wear red cloth, as the Maasai do, but the Samuru are incredibly clean, and are by far the smartest dressers of Kenya. The race is based at Yare Club and Campground, a few km out of town, where you are free to camp for KSh 200, or get a nice room.
+**Nairobi Restaurant Week (October)**
 
-  There is an amateur competition and a professional race. The amateur class is open to anyone wishing to ride. Get there on Friday or early Saturday if you wish to register for the race. All camels available to ride hang out outside of the Yare Club. You, the prospective rider, must pick a good one. For a few thousand Kenyan shillings, you can pick your own camel, hire a handler to run behind your camel and hit it with a stick, and take a chance at winning a lot of money. You can be sure that every camel is ornery, and many are known to sit down in the middle of the race. No matter how you do, you can be sure of two things: You’ll leave with a hang-over from celebrating for two days straight, and you’ll be so sore you won’t be able to sit comfortably for days.
+An increasingly popular event in which restaurants across the city offer set menus at reduced prices. A good time to eat well in Nairobi without the usual expense of the top-end places.
 
-  See the section entitled *Maralal* under Northern Kenya for more information on the town itself.
+**Lamu Cultural Festival (November)**
 
-   **The Nakuru Rugby Tournament:**
+Held annually on Lamu island, this three-day festival celebrates Swahili culture with dhow races, donkey races, poetry, henna competitions, and traditional food. The island gets busy but the festival is genuinely community-driven rather than put on for tourists. One of the best things happening on the Kenyan coast.
 
- Every May in Nakuru there’s a Rugby Tournament. A dozen or so teams of ten players from all over Kenya show up to strut their stuff. There are many excellent players and everyone plays hard. There’s tons of beer for sale starting at 8:00 am, a bar with music blaring and people dancing, and people hitting each other at high speeds. I ask you, what else could a guy want?
+**Koroga Festival — Nairobi (various dates)**
 
-  There are other Rugby and Football tournaments throughout the year in several major Kenyan cites. Keep an eye out in the Daily Nation for sports action in your area.
+An outdoor music festival in Nairobi focused on Afro-fusion, Afrobeats, and jazz. Held several times a year at Safari Park Hotel grounds. Well-organized, good food and drink on site, strong lineup of Kenyan and international artists.
 
-   **The ISK 4th of July Party:**
+**Madaraka Day (June 1)**
 
- Every July 4th, the American Embassy puts on an Independence Day party at the International School of Kenya outside of Nairobi. Everyone is invited, not only Americans. The party is made up of mostly of Embassy employees, Peace Corps Volunteers, and U.S. Marines, all trying to prove they’re the best and toughest in Kenya by who can drink the most beers in a day (Peace Corps always wins). There’s tons of American food for sale, like hamburgers, hotdogs, and pizza, and you can even buy a Budweiser from the Marines. Food and drinks are expensive, and you must purchase coupons on the gate that you use to buy stuff. You must by KSh 300 worth of coupons to enter. There’s softball, Frisbee, and a swimming pool to keep you busy. There is also a raffle, where you can buy tickets for a chance to win a round-trip ticket to anywhere from Swiss Air, or free weekends at nice resort hotels across the country. Those left standing at 4:00 pm arrange more fun that night.
+Kenya's national holiday marking the day in 1963 when the country achieved internal self-rule. Marked with public celebrations in Nairobi and other cities. Not a big tourist event, but if you happen to be there it gives a sense of the country's history.
+
+**Jamhuri Day (December 12)**
+
+Independence Day — Kenya became fully independent in 1963. Marked with parades, flags, and a generally festive atmosphere. The largest celebrations are in Nairobi.

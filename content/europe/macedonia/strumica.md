@@ -11,4 +11,3 @@ Strumica and the Strumica Valley enjoy a temperate Mediteranean climate, especia
 
 Due to its unique Mediteranean climate, the Strumica Valley is the largest producer of early market garden produce in Macedonia. Other agricultural products include poppy, cotton, tobacco, sesame, peanuts, and anasaon, a rare culture used to produce the famous Macedonian Mastika, which is also made in Strumica. Apart from agriculture, Strumica is also known for its textile and the non-metals and ceramics industries. 
 
-For more information, visit www.strumicaonline.com

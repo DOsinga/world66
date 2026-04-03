@@ -5,8 +5,8 @@ latitude: 24.163162
 longitude: 120.647828
 ---
 
-We currently have no information about Taichung.
+Taichung is Taiwan's third-largest city and, in recent years, one of the most liveable. It sits in the centre of the western plain, with the mountains of the Central Mountain Range rising to the east. The climate is milder than Taipei — less rain, less typhoon exposure — and the city has developed a strong café, art, and design culture.
 
-If you do know any general information about Taichung, please [Edit this article].
+The Taichung National Theater (designed by Toyo Ito, opened 2016) is an extraordinary building — all curved concrete and interlocking caves — worth seeing even if nothing is on. The Rainbow Village is a curious survival: a single retired soldier named Huang Yung-fu painted his entire neighbourhood in vivid murals in the 1990s, saving it from demolition by accident when it went viral. The National Museum of Natural Science is well done and popular with families.
 
-If you know any hotels in Taichung or restaurants in Taichung, please [[Add].](/destinations/addItemWizard?addwhere=asia/northeastasia/taiwan/taichung)
+Taichung is a good base for Sun Moon Lake (about 90 minutes by bus) and the surrounding Nantou County highlands.

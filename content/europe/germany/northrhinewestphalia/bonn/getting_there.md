@@ -3,12 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Bonn has good rail connections to major cities in Germany and Europe. Three international airports are within easy reach:
+Bonn has good rail connections to major German and European cities. Three international airports are within easy reach.
 
- Köln/Bonn (CGN), 12 mi/20 km north, local bus service (30 min)
+Koln/Bonn Airport (CGN) is just 20 km north, connected by local bus in about 30 minutes. Dusseldorf Airport (DUS) is 70 km north -- take mainline rail to Dusseldorf Hauptbahnhof, then suburban rail to the airport (about 1 hour 10 minutes total). Frankfurt Airport (FRA) is 150 km southeast with direct mainline trains taking around 1 hour 40 minutes.
 
- Düsseldorf (DUS), 45 mi/70 km north, mainline rail service to Düsseldorf Hauptbahnhof, connecting with suburban rail service to the airport (1 h 10 min)
-
- Frankfurt (FRA), 90 mi/150 km southeast, direct mainline rail service (1 h 40 min)
-
- For rail service inquiries visit German Railways TravelService.
+Bonn's Hauptbahnhof sits in the city centre with frequent ICE and regional trains to Cologne (20 minutes), Koblenz, and beyond.

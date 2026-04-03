@@ -1,36 +1,14 @@
 ---
 title: "Damascus"
 type: location
-latitude: 33.51307
-longitude: 36.309581
+latitude: 33.5138
+longitude: 36.2765
 ---
 
-Damascus is the capital of Syria and one of the oldest cities in the world that is still inhabited. It is a big lively, and somewhat dirty city with a big old center with small winding streets and a large covered suq.
+Damascus is the capital of Syria and one of the oldest continuously inhabited cities in the world. It is big, lively, and a little rough around the edges, with a sprawling old centre of narrow winding streets and one of the great covered souks of the Middle East.
 
-The old city center is one of the most important sights and should not be missed. It contains different markets, several important mosques and shrines, most famous among the is the Omayyad Mosque and is surrounded by massive walls. Furthermore, Damascus has a few good museums, the National Museum being the best among them.
+The Old City is the heart of the visit. Enclosed by massive Roman-era walls, it holds the Umayyad Mosque, Saladin's mausoleum, the ancient Street Called Straight, and a labyrinth of markets selling everything from spices to brocade. South of the mosque, the Azem Palace offers a glimpse of 18th-century Damascene life. The Christian quarter around Bab Touma and Bab Sharqi is quieter, full of small churches and the underground Chapel of Ananias where, according to tradition, St Paul regained his sight.
 
-If you want to relax a bit in the old city, there are several really relaxing tea houses just behind the Omayyad mosque where you can sit and sip for hours. If that's not enough you can go to a real Hammam (Turkish bath).
+When you need a break from sightseeing, duck into one of the tea houses just behind the Umayyad Mosque and sit for an hour, or head to a hammam for a proper soak. For the best view of the city, take a taxi up to Mount Kassioun at sunset, when the lights of the Ghouta spread out below.
 
-
- Damascus owns everything to the river Barada. Descending like a torrent from the Anti-Lebanon range, this narrow but abundant river, joined by a hundred smaller streams, cascades down the gorges of Ain al Fijeh. Then it meanders for a while beside the Beirut road, giving pleasure to the patrons of restaurants and cafés along its lush green banks, before losing itself in myriad branches and ditches. These fertilizing waters have produced the Ghouta, a vast expanse of gardens fields and orchards, the oasis from which Damascus gets much of its food.
- 
- 
- Qassiun - Salhiyeh - General view
- 
- 
- 
- Ancient map of Damascus
- 
- 
- 
- Mosque - Sinan Pasha
- 
- 
- 
- The Ghouta is a place for recreation too (there are many swimming pools, "casinos" and sports arenas there), and is very much appreciated by the inhabitants of a city that suffers all too often from the drying dusty winds that blow over it from the desert and the nearby mountain.
-
-
- By channeling the Barada it has been possible to create gardens right to the very heart of the lower town. To the north-west however the city has flung itself far up the rocky slopes of the Jabal Qassiun, whose summit (1,115 m) is topped by a television mast.
-
-
- These higher parts of the city are populous and poor, with the exception of the district known as Al Mouhajarine (bounded to the south by the rue Beirouny, and the rue Nazem Basha), where great modern blocks face out over the vast urban panorama extending away to meet the green Ghouta. Saahat Khorshid, a small square where several bus lines have their terminus, offers a similar view; there is a café there with several terraces from which to enjoy it. A new road has now been built up the mountain from the other side, emerging near the summit to command another fine view over the city.
+Damascus owes its existence to the Barada River, which descends from the Anti-Lebanon range and fans out into the channels that feed the Ghouta, a vast expanse of gardens, orchards and fields. To the northwest the city climbs the rocky slopes of Jabal Kassioun, where the poorer and more densely packed neighbourhoods give way to the upscale district of Al Mouhajarine, with its modern apartment blocks and panoramic views over the urban sprawl.

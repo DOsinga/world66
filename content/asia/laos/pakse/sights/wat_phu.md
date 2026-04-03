@@ -1,26 +1,14 @@
 ---
-title: "Wat Phu"
+title: 'Wat Phu'
 type: poi
-address: "Champassak"
-opening_hours: "8am - 4.30pm"
-type: "Landmarks"
+address: 'Champasak'
+opening_hours: '8am - 4.30pm'
 latitude: 14.882847
 longitude: 105.842079
 ---
 
-The oldest structures in this pre and intra Angkorian site are 6th century. Much is still intact. Located on a hill with beautiful flowering trees, it is quite picturesque. There is a great view from the top. Look for the crocodile and elephant up the top and the holy spring. The associated museum has a number of artifacts and some English explanations of the various figures you will see.
+Wat Phu is a ruined Khmer Hindu temple complex at the base of Phu Kao mountain in Champasak province, about 45 kilometres south of Pakse. The oldest structures date from the 6th century, predating Angkor Wat by several hundred years. The site climbs a forested hillside in three terraced levels, with carved lintels, galleries, and a sanctuary at the top where a holy spring emerges from the rock.
 
-Sabaidee GHII offers a day trip from Pakse to Champassak, Wat Phu and another associated site complete with visit to a local village and the mekong. A 4WD car, driver, guide, plenty of cold bottled water and a (large) picnic are included. It costs US$48 total for up to 6 people. There is no minimum number of people for the tour to be held, as long as the $48 is paid.
+Look for the crocodile stone and the elephant sculpture near the summit. The views over the Mekong plain from the upper level are beautiful. A small museum near the entrance displays artifacts from the site with English explanations. The annual Wat Phu Festival in February draws pilgrims and features traditional music and buffalo fighting.
 
-**Contributors**
-September 04, 2005
-
-type: Landmarks
-
-
-
-
-
-openingHours: 8am - 4.30pm
-
-address: Champassak
+The site is easily reached as a day trip from Pakse. You can arrange transport through guesthouses or take a local bus to Champasak town and hire a tuk-tuk the last few kilometres.

@@ -1,10 +1,10 @@
 ---
-title: "Sothern Highlands"
+title: "Southern Highlands"
 type: location
 ---
 
-Travel Guide
+The Southern Highlands are one of Tanzania's least-visited regions, and that's part of the appeal. The landscape south of the Great Ruaha is cooler, greener, and more densely forested than the northern plains — wattle and tea plantations around Njombe, dramatic escarpments along the Rift Valley edge, and the highland forests of Udzungwa to the east.
 
-one of the least known destinations in Tanzania, the region lies south of Great Ruaha. The small city of Mbeya provides accomodation for all budgets. The city should be used as a base for travel around Southern Highlands with its high altitude climate, wooded forests, waterfalls and onwards to Matema Beach on Lake Malawi.
+The small city of Mbeya is the main hub, with accommodation at various price points and good connections by bus along the TAZARA corridor. From Mbeya you can reach Matema Beach on Lake Malawi — a quiet stretch of freshwater shoreline that makes a good break from game parks. The [Udzungwa National Park](/africa/tanzania/udzungwa_national) is accessible from Mang'ula, further east, and offers serious hiking through endemic-rich highland forest.
 
-This area is ideal for developemnet of health and nature cure resorts, golf courses, nature trails and those interested in being at peace with nature.
+This area rewards travellers willing to move at a slower pace and without fixed expectations. Roads off the main highways deteriorate quickly, and local transport is basic.

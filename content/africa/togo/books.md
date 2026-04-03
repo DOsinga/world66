@@ -3,94 +3,10 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**An African in Greenland** by Tété-Michel Kpomassie is one of the great travel books. A teenager from Togo discovers a book about Greenland and spends years working his way north, eventually living among the Inuit. Warm, funny, and full of wonder — a book about belonging and strangeness from an unexpected perspective.
 
-**The Ends of the Earth:From Togo to Turkmenistan, from Iran to Cambodia: A Journey to the Frontiers of Anarchy**
+**The Village of Waiting** by George Packer is a memoir about the author's two years as a Peace Corps volunteer in Togo in the early 1980s. Honest and reflective, it captures the rhythms of village life, the frustrations of development work, and the complexity of being an outsider trying to help.
 
+**Wax Cloth and Global Trade** by Nina Sylvanus traces the story of how Togolese market women became central figures in the global textile trade, particularly the famous Dutch-printed wax cloth that has become synonymous with West African fashion. Illuminating for anyone who wants to understand the economic life of Lomé's grand marché.
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679751238/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert D. Kaplan
-
-isbn: 0679751238
-
-subject: travel
-
-**Letters from Togo**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0877453403/ref=ase_osingacom?v=glance&s=books)
-
-author: Susan Louise Blake
-
-isbn: 0877453403
-
-subject: travel
-
-**An African in Greenland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0708914616/ref=ase_osingacom?v=glance&s=books)
-
-author: TGetGe-Michel Kpomassie
-
-isbn: 0708914616
-
-subject: travel
-
-**Roman Theater and Society:E. Togo Salmon Papers I**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0472107216/ref=ase_osingacom?v=glance&s=books)
-
-author: William J. Slater,E. Togo Salmon Conference 1..
-
-isbn: 0472107216
-
-subject: culture
-
-**Roman Coins and Public Life under the Empire:E. Togo Salmon Papers II**
-
-money
-
-dollars
-
-cents
-
-toonies
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0472108751/ref=ase_osingacom?v=glance&s=books)
-
-author: E. Togo Salmon Conference,George M. Paul (Edi..
-
-isbn: 0472108751
-
-subject: history
-
-**Togo Murano:Master Architect of Japan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/084781887X/ref=ase_osingacom?v=glance&s=books)
-
-author: Botond Bognar,Togo Murano
-
-isbn: 084781887X
-
-subject: history
-
-**Tenure and Alley Farming in the Humid Zone of West Africa:Final Report of Research in Cameroon, Nigeria, and Togo**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0934519153/ref=ase_osingacom?v=glance&s=books)
-
-author: Steven W. Lawry,Douglas M. Stienbarger
-
-isbn: 0934519153
-
-subject: history
+**Smugglers, Secessionists, and Loyal Citizens on the Ghana-Togo Frontier** by Paul Nugent is a detailed history of the borderlands between Ghana and Togo — a region that was split between British and French colonial rule and whose people have navigated these artificial divisions ever since. Essential reading if you are crossing between the two countries or curious about the Ewe people on both sides.

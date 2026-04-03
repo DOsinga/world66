@@ -3,19 +3,22 @@ title: "Top 5 Must Do's"
 type: section
 ---
 
-Traveling to India can be a deeply spiritual and eye-opening journey for many, while others enjoy the amazing cuisine or vibrant party atmosphere in some of the areas. Whatever your agenda, here are 5 things you should not miss when traveling to India:
+## 1. See the Taj Mahal at Dawn
 
-**Ride in an Auto Rickshaw**
-These small black and yellow three wheelers run rampant on Indian roads throughout the expansive country and are a must-experience attraction during your time in India. Generally inexpensive, these small vehicles weave in and out of cars and give you a whole new perspective on the traffic that fills Indian streets. Be sure to negotiate where you are going and how much the trip will cost before taking off, and enjoy this unique travel type firsthand.
+Go early. The Taj Mahal is one of those rare places where reality actually exceeds reputation — but it fills up fast. Arrive as the gates open around dawn, when the light is extraordinary and the crowds are thin. The building was designed to be perfect from every angle; take your time walking around it, not just photographing it from the front. Buy your ticket in advance and factor in Agra's traffic if you're traveling from Delhi.
 
-**Eat Biriyani **
-Available in vegetable, chicken, beef and mutton, this quintessential Basmati rice dish is something to take in on your trip to India, as anywhere else you try biriyani it will just not taste the same. The Hyderabadi version is by far the most famous, so if you will be in the south near Hyderabad, be sure to check it out. Otherwise, there are many restaurants throughout southern states that offer Hyderabad-style biriyanis that are just as mouth watering.
+## 2. Take an Overnight Train
 
-**Take a Houseboat Cruise**
-Enjoy the backwaters of Kerala aboard a houseboat, or Kettuvallam, made entirely of planks of Jackwood tied together with a strong rope. These amazing boats--that use not a single nail in their construction--last generations and come complete with bedrooms, bathrooms and a kitchen. Enjoy relaxation at its finest as you navigate the waters with the help of your houseboat’s crew made up of a guide, cook and oarsman. Take an overnight journey and enjoy some of Kerala’s famous cuisine.
+The Indian rail network covers 67,000 kilometres and carries millions of people every day. Booking a 2AC or 3AC sleeper on an overnight route — say, Delhi to Jaipur, Varanasi to Kolkata, or Mumbai to Goa — is one of the great travel experiences in Asia. Your compartment will fill with families, students, and businesspeople who are invariably curious about where you're from and where you're going. Chai wallah visits are regular, the food trolleys are unpredictable, and the landscape scrolls past for hours.
 
-**Enjoy Beer and Spicy Starters**
-No trip to India is complete without a look into the social culture of Indians. Stop by a pub or other nightspot to try Indian beers like Kingfisher or Taj Mahal, or experience any of the various varieties of Indian rum. Order some spicy starters such as Chicken Tikka, Masala Papads or Chicken Manchurian and sit back and enjoy.
+## 3. Spend a Morning on the Ghats of Varanasi
 
-**Hit the Beach**
-Possessing some of the finest beaches in the world, Indian beaches are filled with lush greenery and golden sands. Goa and Kovalam Beach in Kerala are the most popular in the country, but there are beaches up and down the Indian peninsula and you can easily transverse the country to enjoy a dip in the Indian Ocean, Arabian Sea and Bay of Bengal during your trip.
+Varanasi on the Ganges is one of the oldest cities on earth and the holiest in Hinduism. Rent a boat before dawn and drift along the waterfront as the city wakes up: pilgrims bathing, bells ringing at the riverside temples, the perpetual fires at Manikarnika Ghat where the dead are cremated. It is confronting, beautiful, and utterly unlike anywhere else. Stay long enough to attend an evening aarti ceremony, when priests perform elaborate rituals with fire on the main ghat.
+
+## 4. Spend Time in Rajasthan
+
+One of the most visually dramatic regions in India — possibly in the world. The fort at Jaisalmer rises from the Thar Desert like a sandcastle come to life. Jaipur's bazaars sell jewellery, textiles, and spices in roofed markets of extraordinary colour. Udaipur, built around a lake with a palace rising from the water, is as romantic as it sounds. Travel between cities by train rather than by bus if you can. Pushkar, the small pilgrimage town with a sacred lake and an annual camel fair, is worth a detour.
+
+## 5. Eat
+
+Indian food is not one cuisine but dozens. The thali — a tray of small dishes served with rice and bread — varies entirely between regions. A South Indian thali served on a banana leaf in Tamil Nadu bears no resemblance to a Rajasthani dal baati churma or a Bengali fish curry. Street food is one of India's great pleasures: dosas for breakfast in Chennai, chaat and golgappas in Delhi, vada pav in Mumbai, and fish fry at any Kerala coastal town. Eat where the locals eat, follow the crowds to the busy stalls, and take the first week gently if your stomach is adjusting.

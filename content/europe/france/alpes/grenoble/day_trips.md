@@ -1,8 +1,18 @@
 ---
-title: 'Day Trips'
+title: "Day Trips"
 type: section
 ---
 
-Grenoble's position at the crossroads of three mountain ranges and two international borders makes it one of the best bases for day trips in the Alps. The ski resorts of [Alpe d'Huez](/europe/france/alpes/alpdhuez) and Chamrousse are less than an hour away, and in summer the same mountains offer superb hiking and cycling. Lac d'Achard and Lac du Crozet are popular half-day hikes with stunning alpine views.
+Grenoble's position at the meeting point of three Alpine valleys makes it an excellent base for day trips. The mountains are the obvious draw — skiing in winter, hiking and biking to mountain lakes in summer — but you are also within striking distance of Lyon, Geneva, and even Turin.
 
-Turin is about two hours by car or train, making it an easy cross-border excursion for Italian food and Baroque architecture. Geneva is ninety minutes north by road. Closer to home, the Chartreuse Regional Park and the Vercors plateau offer dramatic gorges, quiet villages, and some of the best rock climbing in the region.
+**Mountain lakes.** Lac Achard and Lac Robert are less than an hour away and offer stunning Alpine scenery. In summer, you can cycle from Grenoble through the countryside to reach them.
+
+**Ski resorts.** L'Alpe d'Huez, Les Deux Alpes, and Chamrousse are all accessible by bus from Grenoble. The Transisère buses run regularly during ski season.
+
+**Chartreuse.** The Chartreuse massif north of Grenoble is superb for hiking and is home to the monastery where the famous liqueur is still produced. You can visit the Caves de la Chartreuse in Voiron, about 25 km from the city.
+
+**Lyon.** An hour and a half by TER train, Lyon is France's gastronomic capital and has a magnificent old town, excellent museums, and a vibrant food scene.
+
+**Geneva.** About 90 minutes by car, Geneva offers lakeside parks, the Jardin Anglais with its floral clock, and the International Reformation Monument.
+
+**Turin.** Two hours by car or train, Turin has over a hundred museums, baroque architecture, and the famous Egyptian Museum — the largest outside Cairo.

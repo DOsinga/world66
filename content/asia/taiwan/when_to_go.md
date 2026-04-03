@@ -1,16 +1,14 @@
 ---
-title: "When to Go in Taiwan"
+title: "When to Go"
 type: section
 ---
 
-**When to Visit Taiwan's Beauty and Splendor**
+Taiwan has a subtropical climate with significant variation between north and south, and between the west coast and the mountainous interior. The short version: autumn is the best time to visit; summer is the worst.
 
-This **Taiwan when to go** guide takes you to this beautiful place in East Asia, which was formerly called Formosa. Formosa means beauty, which so aptly describes this tropical country.
+**Spring (March–May)** is pleasant — mild temperatures, cherry blossoms in the mountains, and the tea harvest season in the hills around Alishan and Nantou. Rain is possible but generally not heavy in the south and centre.
 
-**Best Months **
+**Summer (June–September)** is hot, humid, and firmly within typhoon season. Temperatures in Taipei regularly exceed 35°C with high humidity. Typhoons can arrive with little warning and shut down transport, close hiking trails, and cause serious flooding. That said, plenty of people visit in summer and many typhoons miss the island entirely. If you're flexible with your plans, it can work out fine.
 
-Taiwan has wet weather from January to March. Subtropical climate and monsoon rains are regular experiences. The southern part of Taiwan has more pleasant winter months than the northern part. The northern part can be uncomfortable for people who are not used to cold temperatures. The best time to go is during the months of September to November. During these months, you can enjoy sightseeing more because the weather will not be as humid as in the summer. Most tourists visit the country during summer months because of the dry weather, but it can be humid.&Acirc;
+**Autumn (October–November)** is the prime season. Temperatures drop to comfortable levels, rainfall lessens, skies clear, and the island turns golden. October in particular is excellent for hiking, cycling, and travelling the east coast.
 
-**Outdoor Activities **
-
-Beach enthusiasts can visit during the months of May to October or June to November for sightseeing. Take safety precautions, however, because the weather is sometimes erratic. You may want to carry an umbrella regularly. During winter months, you can visit the southern parts of the country where you can still take part in outdoor events. If you plan to visit, choose September to November because prices will be lower, and the local attractions will not be as crowded as in the summer. Finding lodging will also be easier. The Chinese New Year is a great event to witness, but it is difficult to find a hotel unless you have reserved somewhere in advance.
+**Winter (December–February)** is mild in the south and can be chilly and grey in Taipei. It's the best season for hot springs — Beitou near Taipei and Jiaoxi near Yilan are popular choices. The east coast gets more sunshine than the north in winter. Chinese New Year (late January or February) is a major event but brings heavy domestic travel; book accommodation early if you want to be in a big city.

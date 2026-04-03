@@ -1,20 +1,14 @@
 ---
-title: "When to Go in Dominica"
+title: "When to Go"
 type: section
 ---
 
-****
+The dry season runs from February through May and is the best time to visit. Trails are passable, rivers are lower, and the weather is reliably good. This is also the period for Carnival (Mas Dominik), held in the days before Ash Wednesday — usually late February or early March — which brings street parties, parades, and calypso competitions to Roseau.
 
-If you&rsquo;re wondering what the various **Dominican Republic**** when to go** options are, keep in mind that the weather is the last thing you should worry about. They call the climate in the Dominican Republic the Endless Summer. More specifically, the climate is tropical with temperatures holding steady values of about 28 to 31 degrees Celsius (81 to 87 degrees Fahrenheit) throughout the year. The air is very humid, which creates an impression for higher temperatures; however, sea breezes mitigate this effect. Here&rsquo;s what should be your primary concern when trying to decide when to visit the country.
+The wet season runs from June through November, coinciding with hurricane season. Dominica's rugged terrain makes it particularly vulnerable to landslides and flooding during heavy rainfall. Hurricane Maria in 2017 demonstrated how serious this can be. Travel is still possible in the wet season and the island is considerably cheaper, but expect trail closures, muddy conditions, and the possibility of disrupted transport. Some hikers prefer the wet season for the lush colours and cooler temperatures; if you go, check conditions locally before heading into the hills.
 
-**Wet Season**
+October brings the **World Creole Music Festival**, one of the Caribbean's best music events, drawing performers from across the Creole-speaking world — Dominica, Martinique, Guadeloupe, Haiti, Reunion. It takes place over three days in late October and the island fills up. Book accommodation well in advance.
 
-Don&rsquo;t visit the Dominican Republic during the wet season. The wet season lasts from May to October. Humidity increases drastically and it becomes really hard to stand out the heat. In addition, strong winds and hurricanes start occurring in August and September, and they're not very safe to be around.
+**Jazz 'n Creole**, held in May at Fort Shirley in Cabrits National Park, is a smaller, more relaxed festival worth catching if you're there at the right time.
 
-**Tourist Seasons**
-
-Of course, the tourist seasons are the best time to visit the Dominican Republic. However, the prices of most hotels and services double. The two major tourist seasons last from December to February (whale watching) and from July to August (sunbathing and water activities).
-
-**November**
-
-November is maybe the best option for budget travelers. Prices are
+December through January is the beginning of another quieter period before the carnival rush. Whale watching — humpbacks offshore — is good from January to March.

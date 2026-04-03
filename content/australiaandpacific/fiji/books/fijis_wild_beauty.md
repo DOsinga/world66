@@ -1,17 +1,8 @@
 ---
-title: "FIJI'S WILD BEAUTY - A photographic guide to coral reefs of the South Pacific"
+title: "Fiji's Wild Beauty: A Photographic Guide to Coral Reefs of the South Pacific"
 type: poi
 author: "Achim Nimmerfroh"
 isbn: "978-3-925919-82-4"
 ---
 
-More than 750 images display the underwater world of the " Soft Coral Capital"
-and its inhabitating creatures photographed in their natural environment...
-
-[](http://www.amazon.com/exec/obidos/ASIN/978-3-925919-82-4/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-author: Achim Nimmerfroh
-
-isbn: 978-3-925919-82-4
+Over 750 photographs of Fiji's underwater world, from soft corals to the creatures that inhabit them. More visual document than travel guide, but a good companion for divers heading to Rainbow Reef or the Namena Marine Reserve.

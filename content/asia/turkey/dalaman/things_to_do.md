@@ -1,25 +1,28 @@
 ---
-title: "Things to do in Dalaman"
+title: "Things to Do"
 type: section
 ---
 
-Dalaman is filled with variety, from spectacular nightlife, to relaxing spas and thermal springs, you're sure to find plenty of entertaining activities to make your vacation to Turkey a success.
+Dalaman itself is light on attractions, but the surrounding region packs in ancient ruins, thermal baths, white-water rafting, and some of Turkey's finest beaches. Most activities are a short bus or car ride from town.
 
-**Beaches and Watersports**
+**Beaches and Water Sports**
 
-Being home to the most spectacular beaches in Turkey, you'll have no difficulty in finding a beach to suit you in Dalaman. Oludeniz, which means "calm" or "dead" is said to be the most beautiful beach in the country. It has clear, turquoise water, which is actually cleaner than most drinking water if you remove the salt. Lush, green foliage surrounds the area, as well. There are a variety of places where you can take diving lessons, go canoeing, para-sailing or banana boating. To go scuba diving in Dalaman, it is required that you go with a guide because the government is concerned that people will steal ancient artifacts from the many archaeological sites along the coast. Other gorgeous beaches perfect for swimming, scuba diving, snorkeling, and sunbathing are Patara, Icmeler, Olu Deniz, and Caliz.
+The coast around Dalaman is outstanding. Oludeniz, meaning "calm sea," is often called the most beautiful beach in Turkey — clear turquoise water backed by lush green hills. Diving, canoeing, parasailing, and banana boating are all on offer. To scuba dive, you must go with a registered guide, as the government protects the many underwater archaeological sites along this coast. Other excellent beaches include Patara, Icmeler, and Iztuzu, the last of which is a protected nesting ground for loggerhead turtles and remains beautifully unspoiled as a result.
 
-Marmaris boasts a long stretch of beach with volcanic, black sand lined with lively bars and restaurants that stay open well into the night. Besides the beach, you must take advantage of the great water parks in Marmaris, including the AquaDream Water Park and the Atlantis Water Park. AquaDream has 10 adult slides, a children's area with slides, a wave pool, excellent views, and a restaurant. Atlantis has a great combination of tube slides, speed slides, and children's slides to enjoy with your family.
+Sarsala Cove, just 12 km from Dalaman, is a clean and natural spot with a small beach surrounded by forest. For something more lively, Marmaris has a long stretch of volcanic black sand lined with bars and restaurants, plus the AquaDream and Atlantis water parks.
 
-**Archaeological Ruins**
+**Ruins and Ancient Sites**
 
-To see the more traditional side of Turkey, Fethiye is the town to visit. Fethiye is located in the hills leading up to Mount Mendes and has typical restaurants and markets of the region. You can take a 12-island cruise from the town and see Gemile Island with its Byzantine ruins. More than 2,000 years ago, Fethiye was an important town called Telmessos which was later destroyed by earthquakes. All that is left from the old town are the Lycian stone sarcophagi and the Tomb of Amyntas, carved into an imposing cliff face, which can still be visited today. There are also some great hiking and horseback riding excursions available in the area.
+The Dalaman region sits on the ancient Lycian coast. [Fethiye](/asia/turkey/fethiye) was once the important city of Telmessos, and you can still visit the Lycian stone sarcophagi and the Tomb of Amyntas, carved into an imposing cliff face. The rock-cut tombs of Kaunos, near [Dalyan](/asia/turkey/dalyan), are equally striking — try to see them lit up at night. Along the Kapda Peninsula, the largely untouched ruins of Kyra, Lydia, and Lissia show evidence of Byzantine architecture. A 12-island cruise from Fethiye takes you past Byzantine ruins on Gemile Island.
 
-**Beauty and Relaxation**
+**Spas and Mud Baths**
 
-A trip to the Therme Maris Spa Hotel is quite a treat. You can buy a day pass and enjoy hours of massages, working out in the fitness center, tanning in the solarium, having natural body and face peels, going in the sauna, etc. Also included, is access to the 3 outdoor pools and indoor thermal pool, jacuzzi, and mud bath. Since it is located on Dalaman Beach, you also have the opportunity to feed the loggerhead turtles.
+The sulphur mud baths at [Dalyan](/asia/turkey/dalyan) are a local highlight. A cheap boat ride gets you there, and the experience is memorable — slather yourself in mineral-rich mud, let it dry in the sun, then rinse off in warm sulphur pools. The mud is said to help with skin conditions and rheumatism. For a more conventional spa, Sultaniye Thermal Spa has waters ranging from 32 to 42 degrees, enriched with chloride, bromide, and hydrogen sulphide. The Therme Maris Spa Hotel offers day passes with pools, massages, a solarium, and access to the beach where you can spot loggerhead turtles.
 
-Another stress relieving pleasure is the mud baths in Dalyan. It costs only a few dollars to take a boat to the baths. You can slather yourself in sulphur rich mud, containing rejuvenating and healing properties, and even have a mud war if you want! Afterward, you must sit and dry in the sun to fully experience its benefits. When the mud has dried completely on your skin, take a cold, high pressure shower. Some say the pressure is a little too harsh for comfort, but sitting in warm sulfur water after the shower more than relieves any discomfort.
+**Nature and Outdoor Activities**
 
-**Contributors**
-October 30, 2009
+The Dalaman River is popular for white-water rafting. The walk from Gokbel to Iztuzu takes two to three hours through peaceful countryside, ending at the beach — bring your swimming gear. The Dalyan Delta offers excellent birdwatching, with storks, cranes, kingfishers, and sparrowhawks. Horseback riding and hiking excursions are available around Fethiye.
+
+**Marmaris Castle and Museum**
+
+In nearby Marmaris, the castle has stood in some form since 3000 BC and was written about by Herodotus. It now houses an archaeological museum that costs only a few lira to enter. The surrounding Tepe Mahallesi district is worth a wander for its traditional architecture.

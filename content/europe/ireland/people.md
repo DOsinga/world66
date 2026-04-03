@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 3 619 480 (July 1998 est.)
+Ireland has a population of about 5.2 million in the Republic (as of the mid-2020s), with a further 1.9 million in Northern Ireland. The country is far more cosmopolitan than it was a generation ago: the economic boom of the 1990s and 2000s brought significant immigration, particularly from Eastern Europe, and Ireland now has substantial Polish, Romanian, Brazilian, and Nigerian communities alongside longer-established British and other European migrants.
 
-**Age structure:**
+The Irish have a well-earned reputation for sociability and for talking — to strangers, in pubs, at length, about almost anything. This isn't performance for tourists; it's genuinely how things work. A stop at a local pub in a small town often turns into an unexpectedly long conversation.
 
-*0-14 years:* 22% (male 406 741; female 384 459)
+The country changed rapidly in the late 20th and early 21st centuries. Ireland voted to legalise same-sex marriage in 2015 (the first country in the world to do so by popular vote) and to remove a constitutional ban on abortion in 2018. The Catholic Church, which once had an overwhelming influence on Irish society, has lost much of its moral authority following a series of abuse scandals. Catholicism remains culturally embedded but far fewer people practice actively than in previous generations.
 
-*15-64 years:* 67% (male 1 218 514; female 1 200 214)
+Irish (Gaelic) is the first official language, but English is what people actually speak in daily life almost everywhere. Irish is taught in schools and spoken natively in the Gaeltacht communities of the west and northwest, where you'll hear it on the streets and in the pubs. The language has a fierce loyalty among its speakers and a complex political history. Outside the Gaeltacht, most Irish people have some Irish from school but wouldn't claim fluency.
 
-*65 years and over:* 11% (male 173 978; female 235 574) (July 1998 est.)
-
-**Population growth rate:** 0.36% (1998 est.)
-
-**Birth rate:** 13.49 births/1 000 population (1998 est.)
-
-**Death rate:** 8.51 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.39 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.07 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 1.02 male(s)/female
-
-*65 years and over:* 0.74 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.04 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.19 years
-
-*male:* 73.44 years
-
-*female:* 79.11 years (1998 est.)
-
-**Total fertility rate:** 1.82 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Irishman(men) Irishwoman(men) Irish (collective plural)
-
-*adjective:* Irish
-
-**Ethnic groups:** Celtic English
-
-**Religions:** Roman Catholic 93% Anglican 3% none 1% unknown 2% other 1% (1981)
-
-**Languages:** Irish (Gaelic) spoken mainly in areas located along the western seaboard English is the language generally used
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 98% (1981 est.)
-
-*male:* NA%
-
-*female:* NA%
+The Irish diaspora is enormous relative to the country's size — an estimated 70 million people worldwide claim Irish ancestry, concentrated in the United States, Britain, Australia, and Canada. This gives Ireland a particular kind of international profile, one that visitors from those countries often find makes their welcome warmer.

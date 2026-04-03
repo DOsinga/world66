@@ -1,22 +1,22 @@
 ---
-title: "Eating Out in Dalaman"
+title: "Eating Out"
 type: section
 ---
 
-Cuisine from Dalaman stems from traditional Ottoman dishes. Being located along waterways, the food of Dalaman is rich in fish, vegetables, anchovies, and sardines. Other staples are dishes made with lamb, rice, yogurt, eggplants, onions, garlic, lentils, pistachios, almonds, cumin, thyme, etc., the list goes on and on. Yogurt is such an important staple food that it is even used in Ayran, a typical Turkish drink. Cheese is sometimes used, but it is always made from sheep milk. When at a restaurant in Dalaman the soup always comes first; it could be tomato, lentil, fish, or another soup. Coffee and tea are common drinks to go along with a meal. Some common meals and snacks are doner kebabs, rolls of lamb on a skewer turned parallel to the grill, rice with a small fish called Hamsili Pilav, p and Borek, flaky pastries stuffed with cheese, meat, or potatoes.
+Dalaman's food draws on traditional Ottoman cooking, with an emphasis on fresh fish, lamb, vegetables, and yoghurt. The restaurants here are mostly family-run, inexpensive, and serve generous portions of home-cooked food.
 
-**General Restaurant Information**
+**What to Eat**
 
-The Dalaman region has many restaurants. Westernized fast food chains have, in recent years, come onto the restaurant scene. However, most Dalaman locals still prefer their more traditional dishes, such as Kofte or Borek, and even sell them as fast food to compete with the chains. Restaurants in the area are usually family owned and very cheap, providing fresh, home cooked meals in a friendly environment.
+Doner kebabs are everywhere, but look beyond them. Hamsili Pilav (rice with small fish) is a regional specialty. Borek — flaky pastries stuffed with cheese, meat, or potatoes — makes an excellent snack. Soups always come first: try the lentil or fish varieties. Kofte (meatballs) is another staple, prepared differently at every restaurant. Dolma, the Turkish name for any stuffed vegetable, turns up on practically every menu.
 
-**Vegetarians and Vegans**
-
-Eating out is easy for vegetarians, as main courses are often made completely out of vegetable foods. Spinich, cabbage, eggplant, and artichoke are often used. Dolma is the Turkish name for any stuffed vegetable, and stuffed vegetables can be found in practically every restaurant. Fried eggplant and pepper is also a popular summer dish.
+Vegetarians do well here. Main courses are often entirely plant-based — spinach, cabbage, eggplant, and artichoke dishes are common, and fried eggplant with pepper is a popular summer option.
 
 **Drinks**
 
-There are a few locally produced beers in Dalaman including Marmara34, Efes Pilsen, and Tekel Birasi. Wines are becoming more well known; the Turkish brands are Kayra, Diren, and Corvus, along with several others. Turkish coffee is popular and made dark and thick with sugar. Other common drinks that can be found in Dalaman are ayran, shira, salgam, sahlep, boza, and raki, and alcoholic drink made with anise.
+Local beers include Efes Pilsen and Marmara34. Turkish wine is improving — look for Kayra, Diren, and Corvus. Turkish coffee is made dark and thick with sugar. Other drinks worth trying are ayran (a yoghurt drink), sahlep, and raki.
 
-**Traditional Restaurants**
+**Where to Eat**
 
-Traditional Turkish restaurants are always cheaper than their foreign counterparts. The more luxurious and exotic the food, the pricier the place. Keep in mind that the more expensive places do not necessarily have better food or quality. The Sofra Restaurant is cozy and offers Turkish specialties as well as steaks and Dondurma, prices are cheap and the people are friendly. The Dalaman Restaurant also specializes in Turkish meals and soft drinks. For a restaurant with a lot of pride in Dalaman, go to the O Yes Restaurant. The owners proudly cook up delicious traditional dishes from their beloved country for a low price. Other typical places include the Sec Restaurant and the Nil Restaurant. To hang out with the locals, the Belideye Park Cafe is the perfect place to go. Offering cheap snacks, drinks, and ice cream, it's an excellent place to relax and meet new people. For traditional fast food, stop by one of the many Doner Kebab stands.
+**Sofra Restaurant** is cozy and cheap, serving Turkish specialties alongside steaks and dondurma (ice cream). **Dalaman Restaurant** focuses on traditional meals. **O Yes Restaurant** is run by proud locals cooking up traditional dishes at low prices. **Sec Restaurant** and **Nil Restaurant** are other reliable options.
+
+Go where the locals go — every street seems to have a hidden gem. Just avoid the airport: prices there are roughly double what you would pay in town.

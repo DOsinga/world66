@@ -1,12 +1,16 @@
 ---
 title: "Fishing"
-type: location
+type: section
 ---
 
-Giant marlin, sailfish beyond number, high-jumping tarpon, record-class snook and a dozen or more hard hitting fresh water species… Costa Rica has them all!
+Costa Rica has a strong reputation for sport fishing on both coasts, with very different species on each side.
 
- Fishing just doesn’t get any better than you will find in friendly, peaceful Costa Rica, and because this is a small nation, it’s possible to enjoy it all on a single visit, perhaps with a day of white water rafting and a volcano and rain forest tour thrown in.
+**Pacific coast** is known for sailfish and marlin — the waters off the Osa Peninsula and the Guanacaste coast are considered among the world's best for billfish. Quepos and Los Sueños (near Jacó) are the main Pacific fishing centers, with large fleets of charter boats. Roosterfish, dorado (mahi-mahi), and wahoo are also abundant.
 
- The fishing areas on both coasts are serviced by regularly scheduled in-country airlines and charter flights. There is always plenty of action someplace in the country, but it varies with migratory patterns, seasons and prevailing wind, weather, currents and other natural conditions at any given time. The best time to come fishing in Costa Rica? Whenever you can get here!
+**Caribbean coast** offers tarpon and snook, particularly around Barra del Colorado and Tortuguero in the north. Tarpon fishing here is legendary: fish regularly exceed 100 lbs. Most fishing is done in the river mouths and lagoon systems.
 
- This section has been edited with material from  Travel Excellence . Visit their website for more information.
+**Freshwater:** Rainbow bass (*guapote*), machaca, and other tropical freshwater species can be found in rivers and lakes around the country. Laguna de Arenal is a popular freshwater fishing spot.
+
+**Seasons:** Pacific sailfish peak December–April on the southern coast and May–November in the north. Tarpon and snook are fished year-round on the Caribbean. Marlin run December–May.
+
+Most sportfishing operates as catch-and-release, which is encouraged for billfish. Some operators are certified with the Costa Rican Sportfishing Federation. Charter fishing trips typically run $400–$1,200 per day depending on the boat size and location.

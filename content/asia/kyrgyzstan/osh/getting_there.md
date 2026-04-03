@@ -3,6 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Osh can be reached from [Bishkek](/asia/kyrgyzstan/bishkek) but it requires some real traveling. The road takes you over two 3000m (9840ft) plus passes, the road is rough, hair-raising and occasionally blocked by rockfalls and avalanches. Snow fills the passes from October-November until February-March; the road is kept open to cars, but is dangerous during these winter months. No regular buses traverse the whole route, so you'll need to change buses, probably at Toktogul.
+## From Bishkek
 
- It is probably easier to come her from the [Ferghana Valley](/asia/uzbekistan/ferghanavalley) in Uzbekistan. But this option may require some extra paperwork.
+The overland route from [Bishkek](/asia/kyrgyzstan/bishkek) to Osh is one of Central Asia's great road trips -- and one of its most grueling. The 600-kilometer road crosses two passes above 3,000 meters, with rough stretches, hairpin bends and occasional rockfalls. Shared taxis take 10-12 hours; buses are slower. Snow closes or complicates the passes from roughly November to March.
+
+A much easier option is to fly. Domestic flights between Bishkek and Osh take about an hour and cost from around $50. Several carriers operate the route, including Asman Airlines and Tez Jet.
+
+## From Uzbekistan
+
+Osh sits close to the Fergana Valley, and there are border crossings into Uzbekistan to the west. You can reach Osh from Andijan or other Fergana Valley cities, though border procedures can be slow and unpredictable. Check current visa requirements for Uzbekistan before planning this route.
+
+## From Tajikistan
+
+Following the 2025 border agreement between Kyrgyzstan and Tajikistan, crossings in the Batken region to the southwest have reopened. This remains a less-traveled route and conditions should be checked locally before attempting it.

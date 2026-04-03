@@ -1,8 +1,14 @@
 ---
-title: 'When to Go'
+title: "When to Go"
 type: section
 ---
 
-Grenoble has four distinct seasons, and each brings a different reason to visit. Winter (December to March) is prime ski season, with temperatures around freezing and snow on the surrounding slopes lasting well into April. Summer (June to August) is warm, reaching around 27C, and ideal for hiking, cycling, and paragliding in the mountains.
+Grenoble has four distinct seasons, each with a reason to visit. The surrounding mountains shield the city from the worst northern winds, but winters are cold and summers can be hot.
 
-Spring and autumn are the quieter shoulder seasons and good for exploring the city itself. September can be rainy, but October brings spectacular alpine foliage. The mountain setting shelters Grenoble from the worst northern winds, so winters feel less harsh than the altitude might suggest.
+**Winter** (December–March) brings snow and freezing nights, with daytime temperatures around 4–5°C. The ski resorts surrounding the city are the main draw — slopes stay open into late April. Skating rinks and tobogganing hills appear in town.
+
+**Spring** (April–May) warms up to 15–18°C and is ideal for hiking. The Écrins National Park comes alive with wildflowers, and the city shakes off winter without the summer crowds.
+
+**Summer** (June–August) hits 25–30°C. Outdoor cafes fill up, paragliding and canyoning are in full swing, and the cultural calendar peaks. The Grenoble Jazz Festival (March) and the Cabaret Frappé Music Festival (late July, in the Jardin de Ville) are the standout events. The Open Air Short Film Festival in July screens films outdoors at Place Saint-André.
+
+**Autumn** (September–November) brings cooler temperatures and rain, but the foliage around the forts and in the Chartreuse is spectacular. The Festival des 38 Rugissants celebrates world and nomadic music across multiple venues in the city.

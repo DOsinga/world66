@@ -5,8 +5,10 @@ latitude: 30.961335
 longitude: 46.105388
 ---
 
-Ur of the Chaldees is mentioned in the Bible as the birthplace of Abraham and it was the capital of the ancient civilisation of Sumeria. The archeoligical site was first excavated in 1922-34 by Sir Leonard Woolley. 
+Ur of the Chaldees is mentioned in the Bible as the birthplace of Abraham and was the capital of Sumeria during its greatest period of power. The site was first excavated between 1922 and 1934 by the British archaeologist Sir Leonard Woolley, whose discoveries — particularly the Royal Tombs — transformed understanding of the ancient world.
 
-Teh excabavtions are located near the town of Nasiriya, which is the best place from where to arrange a visit. 
+The ruins lie near the town of [An Nasiriyah](/asia/iraq/annasiriyah), which is the base from which to arrange a visit. The site is within sight of a large military airbase, giving it a slightly surreal character.
 
-In former days the city stood on the banks of the Euphrates, but the river has changed its course. The earliest buildings date from 4000BC, and there is an impressive ziggurat (pyramid-shaped tower), as well as some royal tombs in a good state of preservation. These tombs are thought to date from about 2600-2000BC. It is one of the most impressive archeological remains in Iraq.
+The most impressive structure is the ziggurat of Ur-Nammu, built around 2100 BC and dedicated to the moon god Nanna. Two of its three original tiers survive and the structure is remarkably well-preserved for its age — the massive sloping brick walls rise from the flat plain with considerable drama. The Royal Tombs, from around 2600–2000 BC, yielded extraordinary gold objects, lyres, headdresses, and evidence of human sacrifice at burial — all now in museums in Baghdad, London, and Philadelphia.
+
+Standing at Ur on a quiet day, looking out across the flat alluvial plain toward the Euphrates, is one of the more genuinely affecting experiences Iraq offers. The oldest layers here date to before 4000 BC.

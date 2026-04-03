@@ -1,41 +1,10 @@
 ---
 title: "Getting There"
 type: section
-type: "By Air"
-url: "www.airpacific.com"
 ---
 
-Fiji is most easily reached by air - so flying is the fastest and most
-economical way of getting there. Fiji has international airports in
-Suva and Nadi. Flights to Nadi tend to be cheaper and are more frequent.
+Nearly all visitors arrive by air at Nadi International Airport (NAN) on the west coast of Viti Levu. This is where you should fly into regardless of where you're headed — it has far more international routes and cheaper fares than Suva's Nausori Airport.
 
-Citizens of the following countries do not require a visa to enter
-Fiji: Antigua & Barbuda, Argentina, Australia, Bahamas, Bangaldesh,
-Barbados, Belgium, Belize, Botswana, Brazil, Brunei, Bulgaria, Canada,
-Chile, Columbia, Cyprus, Czech Republic, Denmark, Dominica, Estonia,
-Germany, Micronesia, Finland, France, Gambia, Ghana, Greece, Grenada,
-Guyana, Hungary, Iceland, India, Indonesia, Israel, Italy, Jamaica,
-Japan, Kenya, Kiribati, Latvia, Liechtenstein,Lesotho,Luxebourg,
-Malawi, Malaysia, Maldives, Malta, Mauritius, Mexico, Moldova, Monaco,
-Netherlands, New Zealand,Nigeria, Norway, Pakistan, Pacific Islands,
-Paraguay, Peru, the Phillipines, Poland,Portugal,Republic of Ireland,
-Romania, South Korea, Spain, Swaziland, Sweden, Switzerland, Taiwan,
-Tanzania, Thailand,Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu,
-Uganda, Ukraine, United Kingdom, USA, Uruguay,Venezuela, Yugoslavia,
-Zambia, Zimbabwe.
+Fiji Airways operates the most routes, with direct flights from Los Angeles, San Francisco, and Honolulu in North America, and from Sydney, Melbourne, Brisbane, and Adelaide in Australia. Qantas and Virgin Australia also fly from Australia. From Auckland the flight takes about three hours; from Sydney, around four; from Los Angeles, about ten.
 
-Travellers from the above countries are granted a 4 month visitor visas upon arrival.
-
-**Contributors**
-February 23, 2005
-
-March 07, 2005
-
-June 16, 2005
-
-### Air Pacific
-
-Air Pacific is the official airline of Fiji. It flies into Suva and
-Nadi. Flights to Suva tend to be less frequent and more expensive.
-
-type: By Air
+Citizens of Australia, New Zealand, the US, UK, Canada, and most EU countries receive a free four-month visitor permit on arrival. Your passport must be valid for at least six months beyond your planned departure date. Check current requirements with the [Fiji Immigration Department](https://www.immigration.gov.fj) if you're unsure — visa rules do change.

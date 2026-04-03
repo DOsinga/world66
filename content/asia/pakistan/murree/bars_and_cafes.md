@@ -1,38 +1,6 @@
 ---
 title: "Bars and Cafes"
 type: section
-address: "Shangrila Resort Hotel"
 ---
 
-...
-
-**Contributors**
-May 15, 2009
-
-### [The Huqqa Pani Lounge](/asia/pakistan/murree/bars_and_cafes/the_huqqa_pani_lou)
-
-The Huqqa Pani Lounge with its gracious old world charm serves a variety of fruit flavored tobacco or sheesha. Apart from the snakes and drinks, the room offers a wonderful and relaxing atmosphere with a glorious view of Murree and the surrounding hills.
-
-
-
-address: Shangrila Resort Hotel
-
-### [Hotel Move-N-pick Murree](/asia/pakistan/murree/bars_and_cafes/hotel_movenpick)
-
-**Hotel Move-N-Pick Murree**
-Well furnished and fully carpeted rooms with all facilities
-Telephone
-Cable TV
-Hot & Cold Water
-Elegant Furniture
-Beautiful Panoramic View and clean environment
-24-Hrs room Service
-Qualified and [more..](/asia/pakistan/murree/bars_and_cafes/hotel_movenpick)
-
-
-
-accessibility: By Road
-
-tel: +92-300-6939968
-
-address: Hall Road,Murree
+Murree has no bars or pubs. Holders of foreign passports can find alcohol only at the PC Bhurban Hotel outside town. What Murree does have is a lively cafe scene along The Mall, with sheesha lounges and chai stops that stay open late into the evening.

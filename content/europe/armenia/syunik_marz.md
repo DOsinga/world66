@@ -5,8 +5,6 @@ latitude: 39.203322
 longitude: 46.402114
 ---
 
-Travel Guide
-
 Syunik is the at the southern tip of Armenia. It forms a bridge to Iran, and thus is critically important to landlocked Armenia's trade.
 
 Touristically, the province is rich in nature and in architectural monuments. The jewel in the crown of Syunik for the last thousand years has been the stunning Tatev Monastery.

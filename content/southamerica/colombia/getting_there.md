@@ -1,41 +1,24 @@
 ---
-title: "Getting There in Colombia"
+title: "Getting There"
 type: section
 ---
 
-Columbia is officially known as Republic of Columbia and is
-located in the northwest of South America. Brazil and Venezuela lie toward the east,
-Peru and Ecuador to the south, the Caribbean Sea in the north and Panama and
-Pacific Ocean to the northwest and west, respectively. Colombia is a popular tourist destination
-for many people because of its natural beauty. The best time to visit Columbia
-is when it is not raining.
+## By Air
 
-**Air**
+Most international visitors fly into **El Dorado International Airport** in Bogotá (BOG), which handles the majority of international traffic. It's a major hub for Avianca and connects directly to North America, Europe, and the rest of Latin America. Other entry points include José María Córdova Airport in Medellín (MDE), Rafael Núñez Airport in Cartagena (CTG), and Alfonso Bonilla Aragón in Cali (CLO) — useful if you want to begin your trip on the Caribbean coast or in the coffee region.
 
-You can reach Columbia by air which is comfortable and
-faster. Colombia is served by the El Dorado International Airport located 12
-kilometers from the city. Taxis and buses are available to transport passengers
-to and from the airport. Several international airlines operate flights to Colombia. Some of them are American Airlines, Varig, Iberia and British Airways.
+Direct flights to Bogotá operate from Miami, New York, Madrid, London, Amsterdam, and most major Latin American cities. Flight times from Miami are around three hours; from New York, about five.
 
-**Water**
+## Visas
 
-Since Columbia is surrounded by sea from 3 sides it is
-very easy to reach the country by water. Several shipping companies operate
-cruise lines to Colombia. The main ports are Santa Marta, Cartagena, Turnaco, Buenaventura
-and Barranquilla. You can get on a cruise ship from the Caribbean Islands, U.S.,
-Venezuela, Mexico and Central America to get to Colombia.
+Citizens of most Western European countries, the US, Canada, Australia, New Zealand, and most Latin American nations do not need a visa for tourist stays of up to 90 days (extendable to 180 days in a calendar year). Check with the nearest Colombian consulate if you're unsure about your nationality. Your passport should have at least six months of validity remaining.
 
-**Road**
+## By Land
 
-Though there are roadways that lead to Colombia, the journey
-is long and tiring, but not impossible. There are buses that travel
-in and out of Colombia but if you are looking to get to Colombia to enjoy your
-holiday, traveling by bus is not a good idea. Additionally, you need to have proper visas
-and papers from your local embassy to travel by road into Colombia.
+Overland entry is possible from Ecuador (via Ipiales/Rumichaca), Venezuela (via Cúcuta), and Panama, though the Panama land border doesn't technically exist — there is no road through the Darién Gap, and this route is not recommended for safety reasons. Most travellers crossing from Panama do so by boat (Colón to Cartagena) or fly.
 
-**Contributors**
-January 24, 2010
+The Ecuador crossing at Rumichaca is straightforward and well-used. Coming from Venezuela via Cúcuta has become more unpredictable due to the political situation on the Venezuelan side — check current conditions before attempting it.
 
-January 26, 2010
+## By Sea
 
-January 29, 2010
+Cruise ships call at Cartagena, Santa Marta, and Barranquilla. Cartagena is one of the busiest cruise ports in the Caribbean. There are also irregular passenger/cargo boat services from Colón, Panama, to Cartagena for those sailing or backpacking the isthmus.

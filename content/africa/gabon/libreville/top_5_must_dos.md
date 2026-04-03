@@ -1,46 +1,14 @@
 ---
-title: "Top 5 Must Do's in Libreville"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-If you are traveling to Gabon in all likelihood you will be spending
-a couple days in Libreville, the capital city. Libreville is French for
-Freetown, and is located near the Gulf of Guinea. There are many things
-to do in Freetown, and here are the Top 5 Must Do's:
+1. **Marche du Mont-Bouet** -- Libreville's sprawling central market is chaotic, noisy, and completely absorbing. Stalls selling smoked fish, tropical fruit, fabric, traditional medicines, and bushmeat stretch across several blocks. Come in the morning when the market is at its busiest. Keep your valuables secure and be prepared to bargain, though prices are generally fair. The market gives you a better sense of Gabonese daily life than anything else in the capital.
 
-1. **Marche du Mont Bouet **is located in the city center, and is
-the hub of shopping activity in Libreville (one of the best markets in
-the region). You are bound to find just about anything at the Marche du
-Mont-Bouet including fruits, vegetables, meats, animals, fabric,
-clothing, household items, gold, silver, medicine, arts and crafts.
-Beware of pickpockets; keep your money and valuables hidden at all
-times. Bargaining is generally ok, but prices are fairly reasonable.
-Across from the market, you can see a prison, wide open and surrounded
-by a tall concrete wall.
+2. **Pongara National Park and the turtles** -- A boat ride across the estuary takes you to Pongara, where from October to March leatherback turtles come ashore to lay their eggs. Watching one of these enormous creatures haul herself up the sand by torchlight is extraordinary. Outside turtle season, Ekwata Beach is still a lovely, quiet stretch of coast.
 
-2. **Pongara National Park **is located along the southern shores
-of the Gabon estuary, east of the Congo Basin Forest. Pongara is one of
-Gabon's national treasures, and a must see while visiting Gabon. Within
-this national park Gabon has created a safe haven for numerous
-endangered and threatened species such as the leatherback turtles (at
-Pongara point the shoreline acts as a breeding ground from October to
-March), hawksbill turtles, green turtles, gorillas, and elephants.
-Ekwata Beach is located within the Pongara National Park and is a
-quiet, lovely, serene beach to take a nice break from the hustle and
-bustle of the city.
+3. **Musee des Arts et Traditions** -- This small but excellent museum houses a collection of Gabonese masks, carved figures, and musical instruments from the country's many ethnic groups. The ritual masks are particularly striking. A visit here gives you context for the cultural traditions of the interior and takes about an hour.
 
-3. **Musee des Arts et Traditions du Gabon (Museum of Art and Culture) **gives
-you an insightful look into Gabon's art and culture, with an impressive
-collection of statues and ritual masks. The masks are the rite of
-passage to many of Gabon's tribal groups, and the purpose of each masks
-vary. Some of the masks, such as the helmet mask, called the mwesa,
-with four faces surmounted on each side was used by the Imbong
-villagers in anti-witchcraft rites. Don't miss the impressive collection of
-musical instruments as well.
+4. **Eglise Saint-Michel de Nkembo** -- This church is worth visiting for its remarkable carved wooden columns depicting biblical scenes rendered in a distinctly Gabonese style. Come on Sunday morning for the full experience: the congregation fills the church, the singing is powerful, and the atmosphere is joyful.
 
-4. **Palais Presidentiel (Presidential Palace) **was built in
-1970 by President Bongo and is a shining example of what a little oil
-money can buy (the cost to build this palace was approximately $800
-million US). The Palace is not open to the public, so visitors will
-have to admire the adorned palace from the outside. Even a visit to the
-exterior grounds will leave an impression. Unfortunately, photographs of the Presedential Palace are forbidden.
+5. **Pointe Denis beaches** -- A 30-minute boat ride from the port brings you to this sandy peninsula across the estuary. The beaches are clean, the water is warm, and the pace is wonderfully slow. Bring food and water, or eat at one of the simple beachside restaurants. It is the best quick escape from the city's heat and traffic.

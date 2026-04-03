@@ -1,10 +1,14 @@
 ---
 title: "Haiti"
 type: location
+latitude: 18.9712
+longitude: -72.2852
 ---
 
-Haiti is a fascinating country to visit for those with a feel for history.
+Haiti occupies the western third of Hispaniola, the island it shares with the Dominican Republic. It was the first Black republic in the world, winning independence from France in 1804 after the only successful slave revolution in history — a fact that has shaped its identity, its relationship with the outside world, and the fierce pride of its people ever since.
 
-Although preservation has not been a priority for very many of the numerous Haitien governments, benign neglect has left the countryside covered with remnants of the wars for freedom, the defeat of the Slaver Empire.
+The country is strikingly beautiful: a landscape of dramatic mountains, turquoise coastline, and lush valleys. Its culture is one of the most distinctive in the Caribbean — a fusion of African, French, and indigenous Taino traditions expressed through Vodou, vibrant carnival, intricate painting, iron sculpture, and a cuisine unlike anything else in the region.
 
- The adventure tourist can find much of interest to see and do. One of the best places to start exploring the country is the capital city of [Port-au-prince](/northamerica/haiti/portauprince). It offers many good sights and there are some excellent beaches nearby. Another nice place to go is [Cap haitien](/northamerica/haiti/caphaitien), which offers very good beaches nearby as well as some nice things to do and see.
+**Travel warning.** As of early 2026, Haiti is not safe to visit. Gang violence has escalated sharply since 2021 and gangs now control an estimated 80–90% of Port-au-Prince, as well as large parts of the Artibonite and Central departments. Kidnapping, armed robbery, and random violence are serious risks. The US, Canada, UK, and most other governments advise against all travel. Toussaint Louverture International Airport in Port-au-Prince has suffered repeated closures after aircraft were hit by gunfire. This guide describes Haiti as it has been and can be again — for when conditions improve.
+
+Despite the crisis, Haitians continue to build and create. The diaspora (concentrated in New York, Miami, Montreal, and Paris) maintains deep ties to the country. International NGOs, journalists, and aid workers operate there, often based in Cap-Haïtien in the north, which has remained more accessible than the capital. Some visitors do still reach Haiti — particularly the north — with careful planning and local support. But anyone doing so should understand the risks clearly and make arrangements accordingly.

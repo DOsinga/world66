@@ -1,12 +1,14 @@
 ---
 title: "Assur"
 type: location
-latitude: 33.331604
-longitude: 44.361733
+latitude: 35.454833
+longitude: 43.259778
 ---
 
-We currently have no information about Assur.
+Assur (also written Ashur) was the first capital of the Assyrian empire and the religious center of Assyrian civilization for over two thousand years. The site lies on a rocky promontory above the west bank of the Tigris, about 100 km south of Mosul. It is a UNESCO World Heritage Site.
 
-If you do know any general information about Assur, please [Edit this article].
+The excavations here, carried out largely by German archaeologists in the early 20th century, revealed palaces, temples, and the great ziggurat dedicated to the god Ashur. The ruins require some imagination — they are not as immediately dramatic as Nineveh — but the setting above the Tigris is striking and the site is genuinely ancient. The oldest layers date to the 3rd millennium BC.
 
-If you know any hotels in Assur or restaurants in Assur, please [[Add].](/destinations/addItemWizard?addwhere=asia/middleeast/iraq/assur)
+The site was placed on UNESCO's List of World Heritage in Danger in 2003 due to a proposed dam that would have flooded much of it. The dam project has been suspended, but the threat periodically resurfaces.
+
+Access is easiest from Mosul, though the road passes through areas still affected by the aftermath of the ISIS period. Check security conditions before visiting.

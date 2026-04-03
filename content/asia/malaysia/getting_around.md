@@ -1,31 +1,32 @@
 ---
-title: "Getting Around in Malaysia"
+title: "Getting Around"
 type: section
 ---
 
-There are many ways to travel while in Malaysia. Below are the most common
-modes and the experiences you can expect from each.
+Malaysia has excellent transport infrastructure by Southeast Asian standards, and getting between major destinations is straightforward and affordable.
 
-**Traveling by Taxi**
+**Flights**
 
-Taxis in Malaysia are a little different than taxis in New York. In Malaysia a taxi is usually a man, bike pedaling you throughout the city.
-Some bicycles have roofs and others do not. You need to be careful if you get one without
-a roof in case there is bad weather or a sudden downpour. Luckily these are very
-cheap modes of transportation and are the most common.
+AirAsia and Malaysia Airlines connect Peninsular Malaysia to Sabah and Sarawak in Borneo, and this is the only practical way to cross between the two halves of the country. Domestic flights are cheap if booked in advance -- KL to Kota Kinabalu can be as little as RM100 one way. Firefly and Batik Air also serve domestic routes.
 
-**Traveling By Bus**
+**Trains**
 
-Getting around Malaysia by bus is the second most preferred. It is a little
-more than a taxi, but can take you the longer distances. Taxis are only good
-for getting around in city. Bus travel is usually a tour bus style or a bus
-which will take you from one end of the city to another. You need to make sure ahead of time if there will be any stops in between.
+KTM (Keretapi Tanah Melayu) operates comfortable trains along the west coast of the Peninsula, from Singapore through [Johor Bahru](/asia/malaysia/johorbahru) and [Kuala Lumpur](/asia/malaysia/kualalumpur) up to Butterworth (for [Penang](/asia/malaysia/penang)). The ETS (Electric Train Service) is fast and air-conditioned -- KL to Butterworth takes about four hours. A slower jungle railway runs up the interior through Gua Musang to [Kota Bharu](/asia/malaysia/kotabharu), which is a scenic and memorable ride.
 
-**Traveling by Moped or Bike**
+Within KL, the LRT, MRT and monorail cover the city well. The MRT Putrajaya line, completed in 2023, has expanded coverage significantly.
 
-Mopeds or bikes can be rented if you want to do the work yourself. This is
-very common and there are thousands of these all around the city and markets at
-one time. This can be a really fun experience if you wanted to be adventurous
-and try it yourself.
+**Buses**
 
-Malaysia offers many fun, unique, cheap and adventurous forms of
-transportation—making for an unforgettable travel destination.
+Long-distance buses are the cheapest way to get around the Peninsula. Services run frequently between all major cities from terminals like TBS (Terminal Bersepadu Selatan) in KL. Buses are air-conditioned, often with reclining seats, and fares are low. In Borneo, buses connect the main towns, though services are less frequent and roads can be rough in remote areas.
+
+**Taxis and ride-hailing**
+
+Grab is ubiquitous throughout Malaysia and is almost always cheaper and more reliable than traditional taxis. In cities, it is the easiest way to get around. Metered taxis exist but many drivers still try to negotiate fixed fares, especially from airports and tourist spots.
+
+**Car rental**
+
+Roads in Peninsular Malaysia are excellent, and driving is a good option if you want to explore at your own pace. Drive on the left. The North-South Expressway runs the length of the Peninsula. In Borneo, a car is useful for reaching national parks and more remote areas, though some roads require a 4WD.
+
+**Boats**
+
+Ferries connect the mainland to islands like [Langkawi](/asia/malaysia/langkawi), [Tioman](/asia/malaysia/tiomanisland), the Perhentians and Redang. In Sarawak, longboats and express boats are sometimes the only way to reach river communities and longhouses.

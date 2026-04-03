@@ -1,5 +1,0 @@
-africa/ivorycoast
-africa/kenya
-africa/lesotho
-africa/liberia
-africa/libya

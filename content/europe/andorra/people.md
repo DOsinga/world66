@@ -3,56 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 64 716 (July 1998 est.)
+Andorra has a population of around 80,000 — tiny, and unusual in that native Andorrans are a minority in their own country, making up only about 30% of residents. The rest are mainly Spanish (roughly 35%), Portuguese (15%), and French (7%), with smaller communities from across Europe and South America.
 
-**Age structure:**
+This came about through decades of immigration driven by the booming retail and tourism economy. Andorran citizenship is notoriously difficult to obtain — you typically need 20 years of residency — so most long-term residents remain foreign nationals. The result is a country with a distinctly cosmopolitan daily life alongside a small, tight-knit community of Andorran families who can trace their roots back centuries.
 
-*0-14 years:* 14% (male 4 819; female 4 474)
+The official language is Catalan, and it's taken seriously as a marker of national identity. Schools teach in Catalan, official signage is in Catalan, and speaking a few words will be appreciated. Most people switch easily between Catalan, Spanish, and French; English is common in tourist areas.
 
-*15-64 years:* 73% (male 25 448; female 22 028)
+Roman Catholicism remains important — the country's patron saint, Our Lady of Meritxell, is the focus of the national holiday on September 8. The church plays a visible role in public life, though the society is broadly secular in practice.
 
-*65 years and over:* 13% (male 4 041; female 3 906) (July 1998 est.)
-
-**Population growth rate:** 1.5% (1998 est.)
-
-**Birth rate:** 10.48 births/1 000 population (1998 est.)
-
-**Death rate:** 5.35 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 9.84 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.07 male(s)/female
-
-*15-64 years:* 1.15 male(s)/female
-
-*65 years and over:* 1.03 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 4.09 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 83.45 years
-
-*male:* 80.54 years
-
-*female:* 86.54 years (1998 est.)
-
-**Total fertility rate:** 1.23 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Andorran(s)
-
-*adjective:* Andorran
-
-**Ethnic groups:** Spanish 61% Andorran 30% French 6% other 3%
-
-**Religions:** Roman Catholic (predominant)
-
-**Languages:** Catalan (official) French Castilian
-
-**Literacy:** NA
+Andorrans have one of the highest life expectancies in the world — consistently above 80 years for men, over 85 for women — a fact attributed to clean mountain air, a Mediterranean-influenced diet, and a functioning healthcare system.

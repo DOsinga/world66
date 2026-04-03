@@ -3,112 +3,22 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Travel and history**
 
-**The Crossing Place :A Journey among the Armenians**
+*The Crossing Place: A Journey among the Armenians* by Philip Marsden — The best travel book about Armenia. Marsden travels through the diaspora communities of the Middle East, Eastern Europe, and the Caucasus tracing what it means to be Armenian. Beautifully written and still relevant.
 
+*Black Dog of Fate* by Peter Balakian — A memoir that moves between an Armenian-American childhood in New Jersey and the genocide history buried within his family. One of the most powerful accounts of how the genocide lives on across generations.
 
+*A Problem from Hell: America and the Age of Genocide* by Samantha Power — Contains an important chapter on Armenia and the 1915 genocide, and helped bring the subject to a wider American audience.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1568360525/ref=ase_osingacom?v=glance&s=books)
+**Fiction**
 
-author: Philip Marsden,Designed by Peter Sourian
+*The Forty Days of Musa Dagh* by Franz Werfel — A novel based on the true story of Armenians who resisted deportation by retreating to a mountain. Written in 1933, it remains the most-read fictional account of the genocide.
 
-isbn: 1568360525
+*My Name Is Red* by Orhan Pamuk — Not about Armenia directly, but set in Ottoman Istanbul during a period that illuminates the world the Armenians inhabited before 1915.
 
-subject: travel
+**Background**
 
-**History of the Armenians, Vol. 4**
+*Looking toward Ararat: Armenia in Modern History* by Ronald Grigor Suny — A scholarly but readable account of Armenian history from the 19th century onwards. Good for understanding the context behind everything you see.
 
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0674395719/ref=ase_osingacom?v=glance&s=books)
-
-author: of Chorene Moses,Robert W. Thomson (Translato..
-
-isbn: 0674395719
-
-subject: travel
-
-**Notebooks of a Lyric Poet, Avetik S. Isahakian, 1875-1957**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0819180513/ref=ase_osingacom?v=glance&s=books)
-
-author: Avetik¦ Isahakyan,Leon Der Megrian
-
-isbn: 0819180513
-
-subject: travel
-
-**Armenian Sacred and Folk Music:Komitas**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0700706372/ref=ase_osingacom?v=glance&s=books)
-
-author: E. Gulbekian (Translator)
-
-isbn: 0700706372
-
-subject: culture
-
-**Medieval Armenian Culture**
-
-hello
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0891307265/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas J. Samuelian
-
-isbn: 0891307265
-
-subject: culture
-
-**Classical Armenian Culture:Influences and Creativity**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0891305661/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas J. Samuelian
-
-isbn: 0891305661
-
-subject: culture
-
-**Armenia:A Rugged Land, an Enduring People**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0382394585/ref=ase_osingacom?v=glance&s=books)
-
-author: Lucine Kasbarian
-
-isbn: 0382394585
-
-subject: history
-
-**The Armenians**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0963138103/ref=ase_osingacom?v=glance&s=books)
-
-author: John M. Douglas
-
-isbn: 0963138103
-
-subject: history
-
-**Looking toward Ararat:Armenia in Modern History**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0253207738/ref=ase_osingacom?v=glance&s=books)
-
-author: Ronald Grigor Suny
-
-isbn: 0253207738
-
-subject: history
+*History of the Armenians* by Moses of Chorene — The 5th-century chronicle that remains the foundation of Armenian historical identity. More for the serious reader than the casual traveller, but extraordinary as an artefact.

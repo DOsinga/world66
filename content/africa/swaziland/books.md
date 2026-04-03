@@ -3,112 +3,20 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Reading on Eswatini in English is limited but there are a few worthwhile starting points.
 
-**Lonely Planet South Africa, Lesotho and Swaziland**
+**Travel Guides**
 
+The most practical current option is Bradt's *Swaziland* guide (most recent edition covers Eswatini), which is thorough on wildlife parks, hiking, and practical logistics. Lonely Planet covers Eswatini as part of *South Africa, Lesotho & Swaziland*, which is useful if you are combining your visit with the wider region.
 
+**History and Culture**
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425082/ref=ase_osingacom?v=glance&s=books)
+*Swaziland: A Political History* by Alan R. Booth is a solid academic account of how the kingdom navigated colonialism and emerged as an independent state in 1968. It is dry in places but thorough.
 
-author: Jon Murray,Jeff Williams,Richard Everist
+Hilda Kuper's *An African Aristocracy: Rank Among the Swazi* (1947) is an older classic of social anthropology — still the foundational text for understanding Swazi royal culture, the Incwala ceremony, and the political role of the monarchy.
 
-isbn: 0864425082
+*All the King's Animals: The Return of Endangered Wildlife to Swaziland* by Cristina Kessler, with a foreword by King Mswati III, tells the story of the country's remarkable conservation efforts in the 1990s.
 
-subject: travel
+**Fiction**
 
-**South Africa Swaziland & Lesotho**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1860110940/ref=ase_osingacom?v=glance&s=books)
-
-author: Rupert Isaacson
-
-isbn: 1860110940
-
-subject: travel
-
-**Lonely Planet South Africa, Lesotho and Swaziland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425082/ref=ase_osingacom?v=glance&s=books)
-
-author: Jon Murray,Jeff Williams,Richard Everist
-
-isbn: 0864425082
-
-subject: culture
-
-**South Africa Swaziland & Lesotho**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1860110940/ref=ase_osingacom?v=glance&s=books)
-
-author: Rupert Isaacson
-
-isbn: 1860110940
-
-subject: culture
-
-**Swaziland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0516200208/ref=ase_osingacom?v=glance&s=books)
-
-author: Ettagle Blauer,Jason Laure
-
-isbn: 0516200208
-
-subject: history
-
-**All the King's Animals:The Return of Endangered Wildlife to Swaziland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1563973642/ref=ase_osingacom?v=glance&s=books)
-
-author: Cristina Kessler,Foreword by Mswati III
-
-isbn: 1563973642
-
-subject: history
-
-**Touring Southern Africa:Independent Holidays in South Africa, Botswanan, Namibia, Lesotho, Swaziland, Mozambique an..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844247596/ref=ase_osingacom?v=glance&s=books)
-
-author: Melissa Shales
-
-isbn: 0844247596
-
-subject: travel
-
-**Touring Southern Africa:Independent Holidays in South Africa, Botswanan, Namibia, Lesotho, Swaziland, Mozambique an..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844247596/ref=ase_osingacom?v=glance&s=books)
-
-author: Melissa Shales
-
-isbn: 0844247596
-
-subject: culture
-
-**Studies in the Economic History of Southern Africa:South Africa, Lesotho and Swaziland, Vol. 2**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0714640727/ref=ase_osingacom?v=glance&s=books)
-
-author: Zbigniew A. Konczacki (Editor),Timothy M. Sha..
-
-isbn: 0714640727
-
-subject: history
+Eswatini does not yet have a substantial tradition of English-language fiction set within the country, though writers from the wider Southern African literary tradition — Nadine Gordimer, J.M. Coetzee, Petina Gappah — provide useful context for the region.

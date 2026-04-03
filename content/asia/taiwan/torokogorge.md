@@ -1,10 +1,14 @@
 ---
-title: "Toroko gorge"
+title: "Taroko Gorge"
 type: location
+latitude: 24.157617
+longitude: 121.617428
 ---
 
-One of Taiwan's premiere tourist attractions is the Toroko Gorge. The gorge is best explored from Hualien a town of 100,000 people.
+Taroko Gorge is Taiwan's most spectacular natural sight — a marble canyon carved by the Liwu River, with walls rising hundreds of metres on either side of the road. The gorge sits at the heart of Taroko National Park, which stretches from sea level up into the high mountains of the Central Range.
 
-The Toroko Gorge is a spectacular marble canyon. The few human constructions actually add to the place. There are the red suspension bridges, temples set in mountains and, most famously, the Eternal Spring Shrine. The Shrine is built over a waterfall and dedicated to the 450 people who died making the Cross-Island Highway that runs along the gorge. The Highway certainly gives a feeling of how hard it was to build here. The amazing route is precariously cut right into the side of the gorge. 
+The gorge is best explored from Hualien, a city of about 100,000 people on the east coast. The main road through the gorge follows the Liwu River upstream, cutting right into the cliff face in places and passing through tunnels blasted from marble. A few human constructions actually enhance the place: red suspension bridges, temples set into the rock, and most famously the Eternal Spring Shrine — a red pavilion built over a waterfall, dedicated to the 450 workers who died constructing the Cross-Island Highway.
 
-Beyond Toroko, the road goes up into the high mountains of central Taiwan where there are incredible views of numerous peaks lined with terraced slopes. At one point, I drove into the clouds and had the mist blowing through the car. The mountain drive went up to 3,200 m (10,500 ft) high, the highest road in Asia outside Nepal and Tibet. The highest point was near Hohuanshan, where slippery grassy trails went to the peak.
+Beyond the gorge, the road climbs up into the high mountains of central Taiwan. The scenery becomes extraordinary — peaks lined with terraced slopes, clouds drifting through the valleys, and at the highest points, views stretching to distant summits. The road reaches over 3,200 metres, making it one of the highest paved roads in Asia outside Nepal and Tibet. Hohuanshan, near the summit area, has hiking trails that push to the ridgeline.
+
+A day trip from Hualien will give you the main gorge; a night or two in the mountains allows you to reach the upper reaches and avoid the day-tripper crowds at the lower trailheads.

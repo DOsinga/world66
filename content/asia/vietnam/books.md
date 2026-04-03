@@ -3,112 +3,24 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## Travel and Culture
 
-**Lonely Planet Vietnam**
+**The Rough Guide to Vietnam** and **Lonely Planet Vietnam** are the standard practical companions, updated regularly. Lonely Planet is more widely available in-country.
 
+**Catfish and Mandala** by Andrew X. Pham — a Vietnamese-American journalist cycles through Vietnam retracing his family's history. One of the more honest and literary accounts of the country and its diaspora.
 
+**A Dragon Apparent** by Norman Lewis (1951) — a travel classic. Lewis traveled through Indochina before the wars, and his account of the landscapes and people remains vivid and unsettling. The contrast with what came after gives it an extra dimension.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864426380/ref=ase_osingacom?v=glance&s=books)
+**The Quiet American** by Graham Greene (1955) — set in Saigon and the Mekong Delta during the French war. Fiction, but it reads as prophecy about American involvement. Essential context.
 
-author: Mason Florence,Robert Storey
+## History and War
 
-isbn: 0864426380
+**The Sympathizer** by Viet Thanh Nguyen — Pulitzer Prize-winning novel told from the perspective of a North Vietnamese spy embedded with South Vietnamese refugees. A complex, darkly funny reckoning with the war and its aftermath.
 
-subject: travel
+**Fire in the Lake** by Frances FitzGerald (1972) — a Pulitzer-winning account of Vietnam's history and culture in the context of the American war. Dense but essential.
 
-**When Heaven and Earth Changed Places :A Vietnamese Woman's Journey from War to Peace**
+**When Heaven and Earth Changed Places** by Le Ly Hayslip — memoir of a Vietnamese woman who survived the war from the Vietnamese civilian side. Oliver Stone adapted it for film.
 
+**Dispatches** by Michael Herr — journalism that reads like war fiction. The American war correspondent experience at its most visceral.
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0452271681/ref=ase_osingacom?v=glance&s=books)
-
-author: Le Ly Hayslip,With Jay Wurts
-
-isbn: 0452271681
-
-subject: travel
-
-**Fodor's Exploring Vietnam '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679034692/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Inc Staff Fodor's T..
-
-isbn: 0679034692
-
-subject: travel
-
-**Culture Shock!:Vietnam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558682422/ref=ase_osingacom?v=glance&s=books)
-
-author: Graphic Arts Center,Claire Ellis
-
-isbn: 1558682422
-
-subject: culture
-
-**A Wall of Names:The Story of the Vietnam Veterans Memorial (Step into Reading Books Series: A Step 4 Book)**
-
- 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679801693/ref=ase_osingacom?v=glance&s=books)
-
-author: Judy Donnelly,Paul Wenzel (Illustrator)
-
-isbn: 0679801693
-
-subject: culture
-
-**PT Boats at War:World War II to Vietnam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0760304998/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Haenggi (Editor),Norman Polmar,Samuel..
-
-isbn: 0760304998
-
-subject: culture
-
-**Vietnam:Decisive Battles**
-
-Who won Tet Offensive?
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0760713715/ref=ase_osingacom?v=glance&s=books)
-
-author: John Pimlott
-
-isbn: 0760713715
-
-subject: history
-
-**A Dangerous Friend**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0395856981/ref=ase_osingacom?v=glance&s=books)
-
-author: Ward Just,Ward S. Just,Janet Silver (Editor..
-
-isbn: 0395856981
-
-subject: history
-
-**Argument Without End :In Search of Answers to the Vietnam Tragedy**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1891620223/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert S. McNamara,With Herbert Y. Schandler
-
-isbn: 1891620223
-
-subject: history
+**The Pentagon Papers** and a range of memoir literature round out the historical record; the Vietnamese side of the war is less well represented in English, which is itself worth noting.

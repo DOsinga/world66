@@ -73,32 +73,65 @@ Reading recommendations that span the continent or capture its spirit. Travel wr
 
 Climate patterns across the continent. Best times for different regions. Monsoons, dry seasons, shoulder seasons. When are the crowds, when is it cheapest. This is especially useful for continents with dramatically different climate zones.
 
+### Highlights (`highlights.md`)
+
+The big reasons to visit this continent — the places, experiences, and landscapes that define it. This is the continent-level equivalent of the country highlights page. Mix different types: nature, history, food, adventure, culture, cities. A traveler reading this should come away with a shortlist of places they want to go.
+
+Link generously to country and city pages. This section helps travelers who know they want to visit "somewhere in Africa" or "somewhere in Asia" narrow it down.
+
 ### Things to Do (`things_to_do.md`)
 
 Big-picture activities that define travel on this continent. Safari in Africa, trekking in Asia, road-tripping in North America, island-hopping in the Pacific. Not an exhaustive list — a curated overview of the experiences that make this continent distinctive.
 
+### Food (`food.md`)
+
+A continent-level overview of the food landscape. What are the major culinary traditions? How does the food change as you move across regions? What should a traveler expect and seek out? This isn't about specific restaurants — it's about cuisines, ingredients, and food cultures at the macro level. Every continent has a food story worth telling.
+
+## Sections to delete
+
+These are legacy sections from the original World66 that don't belong at the continent level. Delete them when encountered:
+
+- `tours_and_excursio.md` — spam or empty
+- `travel_guide.md` — generic SEO content
+- `beaches.md` — belongs on country/city pages
+- `getting_there.md` — belongs on country pages (exception: Antarctica, where it makes sense)
+- `budget_travel_idea.md`, `family_travel_idea.md`, `senior_travel_idea.md` — legacy empty sections
+- `webcams.md` — obsolete
+- Any city-level sections (eating_out, bars_and_cafes, nightlife, shopping, museums, day_trips)
+
+## Cleanup rules
+
+When reviewing continent pages, apply the same cleanup rules as for countries:
+
+- **Fix markdown artifacts** — `**** **`, `&ldquo;`, `&rsquo;`, `&prime;`, `"/>` and other HTML entity junk
+- **Replace CIA World Factbook data dumps** — especially in `people.md`
+- **Replace dead Amazon links** — in `books.md`, rewrite as inline prose recommendations
+- **Remove SEO-style openers** — no "**Africa travel** is a major..." keyword-stuffed intros
+- **Fix outdated references** — defunct airlines, old currencies, 1990s prices
+- **Remove spam** — tour operator ads, hotel listings, personal emails, gibberish files
+
 ## What we currently have vs. what we need
 
 ### Africa
-Solid overview. Sections complete: getting_around, health, books, practical_informat, when_to_go, things_to_do. Overview could still use a refresh.
+Overview could use a refresh. Has: getting_around, health, books, practical_informat, when_to_go, things_to_do. Missing: people, highlights, food.
 
 ### Asia
-Overview has typos and outdated framing ("Hippies going from London to Australia") — needs a refresh. Spurious city-level sections cleaned up. Sections complete: getting_around, health, practical_informat, when_to_go, things_to_do. Also has food.md and language.md (legacy content, could be reviewed).
+Overview needs a refresh (typos, outdated "hippies" framing). Has: getting_around, health, practical_informat, when_to_go, things_to_do, food (legacy), books. Missing: people, highlights. Legacy language.md could be reviewed.
 
 ### Europe
-Good overview. Sections complete: getting_around, practical_informat, when_to_go, things_to_do. Health not needed.
+Good overview. Has: getting_around, practical_informat, when_to_go, things_to_do, people, books. Health not needed. Missing: highlights, food.
 
 ### North America
-Now covers US, Canada, Greenland, Mexico, Central America, and the Caribbean (merged from the former "Central America & the Caribbean" continent). Overview rewritten. Sections complete: getting_around, health, practical_informat, books, people, when_to_go, things_to_do.
+Overview rewritten. Has: getting_around, health, practical_informat, books, people, when_to_go, things_to_do. Missing: highlights, food. Delete: tours_and_excursio.
 
 ### South America
-Good overview with personality. Sections complete: getting_around, health, practical_informat, books, when_to_go, things_to_do.
+Good overview with personality. Has: getting_around, health, practical_informat, books, when_to_go, things_to_do. Missing: people, highlights, food. Delete: tours_and_excursio.
 
 ### Australia and Pacific
-Overview is okay but brief. Spurious city-level sections cleaned up. Sections complete: getting_around, health, practical_informat, when_to_go.
+Overview is brief. Has: getting_around, health, practical_informat, when_to_go, people, books, things_to_do. Missing: highlights, food. Delete: travel_guide.
 
 ### Antarctica
-Appropriately short overview. Sections complete: getting_there, getting_around, books, people, when_to_go, things_to_do.
+Appropriately short. Has: getting_there (makes sense here), getting_around, books, people, when_to_go, things_to_do. Missing: highlights. Food/health not applicable.
 
 ## Principles
 

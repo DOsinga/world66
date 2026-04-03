@@ -3,12 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Innumerable places have set meals for little money. One of the classical ways to find out which of them are good is just to follow the crowd. Go in and see what the people are eating. There are a number of good vegetarian, Chinese and Italian restaurants in town. We are eagerly awaiting your recommendations as well. 
-
-## Categories
-
-[Local](/southamerica/colombia/bogota/eatingout?subsection=Local)
-
-[Chinese](/southamerica/colombia/bogota/eatingout?subsection=Chinese)
-
-[Vegetarian](/southamerica/colombia/bogota/eatingout?subsection=Vegetarian)
+Bogota eats well and cheaply. The set lunch (almuerzo corriente) is the backbone of daily dining -- soup, a main of meat or chicken with rice, salad, and plantain, plus juice, for a few thousand pesos. Follow the crowds to find the good ones. Street food is everywhere: empanadas, arepas stuffed with cheese, and corn on the cob. For something more refined, the restaurants in the Zona G (around Calle 69 and Carrera 6) serve excellent Colombian and international food. Vegetarian options have improved enormously -- try the places around La Candelaria.

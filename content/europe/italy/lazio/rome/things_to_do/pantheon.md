@@ -1,11 +1,16 @@
 ---
-title: 'Pantheon'
+title: "Pantheon"
 type: poi
-category: 'Churches and monuments'
-address: 'Piazza della Rotonda'
-phone: '+39 06 68300230'
+category: "Sight"
+address: "Piazza della Rotonda, 00186 Rome"
+url: "www.pantheonroma.com"
+opening_hours: "Mon–Sat 09:00–19:00; Sun 09:00–18:00; closed public holidays"
+admission: "€5"
 latitude: 41.8986
-longitude: 12.4768
+longitude: 12.4769
+tags: ["48 Hours in Rome", "3 Days in Rome"]
 ---
 
-The best-preserved building of ancient Rome and home to the largest unreinforced concrete dome ever built. The interior measures 43.4 meters in both diameter and height, and light enters through the famous 9-meter oculus at the top -- visit during a rainstorm for the dramatic effect of rain falling through the opening. Originally built by Agrippa in 27 BC, it was entirely rebuilt by Emperor Hadrian, who modestly kept the original inscription. In 609 AD it became one of the first pagan temples converted to a Christian church. Admission is free but a reservation is required.
+The best-preserved ancient building in the world, built by Emperor Hadrian around AD 125 on the site of an earlier temple. The concrete dome — 43.3 metres in diameter, identical to the height of the building — was the largest in the world for over 1,300 years and remains an engineering marvel. The oculus at its apex, 8.7 metres wide, is the building's only light source.
+
+Arrive as early as possible — it fills fast and the interior is difficult to appreciate in a crowd. Raphael is buried here, as are two Italian kings. Now a church, so mass is celebrated on Sundays and at festival times.

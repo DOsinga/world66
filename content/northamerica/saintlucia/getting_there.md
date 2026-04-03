@@ -3,22 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-Air:
+Saint Lucia has two airports. Hewanorra International Airport (UVF), near Vieux Fort in the south, is the main gateway for international flights. George F. L. Charles Airport (SLU), just outside Castries in the north, handles regional inter-island traffic.
 
-St Lucia is served by *Air Canada (AC)* *American Airlines (AA)* *British Airways (BA) *and by *British West Indian Airways (BWIA).*
+Most long-haul visitors fly into Hewanorra. American Airlines operates direct flights from Charlotte, Miami, and Philadelphia. United flies from Chicago and Newark. British Airways has direct service from London. Air Canada connects from Toronto. From Hewanorra it is about a 90-minute drive to Castries and the north of the island — a taxi costs around US$70–80.
 
-Approximate flight times
+If you are arriving from elsewhere in the Caribbean, George F. L. Charles Airport is more convenient for Castries. Regional carriers including LIAT and interCaribbean serve routes from Barbados, Trinidad, Antigua, and other islands.
 
-From Castries to *London* (via Barbados) is 10 hours 20 minutes to *Barbados* is 30 minutes to *Los Angeles* is 9 hours to *New York* is 5 hours and to *Singapore* is 33 hours.
+By sea, Saint Lucia is a popular cruise port. The main facilities are at Pointe Seraphine in Castries, with a second terminal at Port Castries. Soufrière and Vieux Fort also receive smaller vessels.
 
-International airports
+A high-speed catamaran service connects Saint Lucia to Martinique, Guadeloupe, and Dominica, operated by L'Express des Îles — a good option if you want to explore multiple islands without flying.
 
-*Vigie (SLU) *and *Hewanorra (UVF) *3km (2 miles) and 67km (42 miles) from Castries respectively. Taxis or buses are available from both airports to Castries. Both runways are equipped for jets. Airport facilities at Vigie include a bar/restaurant and car hire; at Hewanorra there is a bar/restaurant left luggage and lockers (0800-1600) shops tourist information outgoing duty-free shop and car hire *(Avis Budget Dollar Hertz *and *National).*
-
-Departure tax
-
-EC$40. Transit passengers and children under 12 years are exempt.
-
-Sea
-
-*Caribbean Express* a high-speed catamaran service operates between St Lucia and Martinique Guadeloupe and Dominica. St Lucia is also served by a number of cruise lines as well as local passenger/freight lines. Lines include *Cunard Costa P&O *and* Sun Line.* The main ports are Castries Vieux Fort and Soufri&egrave;re. The duty-free port at Pointe Seraphine offers 2-berth cruise ship facilities duty-free shopping restaurants and bars; it may be visited by anyone although a current passport and an airline ticket are required to make duty free purchases (further information in the *Shopping* section). There are plans for the construction of two additional cruise-ship berths at Pointe Seraphine.
+Departure tax is included in most airline tickets. Check your ticket before arriving at the airport.

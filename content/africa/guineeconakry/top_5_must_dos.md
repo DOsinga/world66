@@ -1,66 +1,24 @@
 ---
-title: "Top 5 Must Do's in Guinee Conakry"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-Guinee Conakry is a country located in West Africa and is formerly known as French Guinea. **Guinee Conakry must do's **range
-from cave exploration to hiking in the highlands, as this is a land of
-fascinating geographical areas and beautiful scenery. Popular must do's
-in Guinee Conakry include:
+**1. Hike the Fouta Djallon**
 
-**1. Explore the Kakimbon Caves**
+The sandstone highlands of central Guinea are the country's greatest natural treasure. Trek between Fulani villages, swim in natural pools beneath waterfalls, and camp on canyon rims with views that stretch forever. The falls at Ditinn, Kambadaga, and Kinkon are all spectacular. Base yourself in [Dalaba](/africa/guineeconakry/dalaba) or [Labe](/africa/guineeconakry/labe) and hire a local guide -- trails are not marked and getting lost is easy. The best hiking season is November to January.
 
-Located
-in the village of Ratoma are the Kakimbon caves which hold many
-interesting legends as well as religious importance by the local Baga
-people. Considered a sacred place by locals, visitors can explore the
-scenic caves and learn of the many riveting stories and legends the
-Kakimbon Caves is known for.
+**2. Visit the Iles de Los**
 
-**2. Discover the ****Îles de Los**
+Take a pirogue from [Conakry](/africa/guineeconakry/conakry) to this small island archipelago and leave the chaos of the capital behind. Ile de Kassa is the liveliest, packed with Guinean families on weekends. Ile de Roume is quieter and has a fascinating history tied to the slave trade. Bring your own food and water, and arrange your return boat before the boatman disappears.
 
-Îles
-de Los is a group of islands lying off Conakry that consists of 3 main
-islands: Roume, Kassa, and Tamara. It is here travelers can relax on
-the beaches of the islands and soak up the sun. The Ile de Kassa is
-where visitors can go and experience a lively and vibrant atmosphere,
-particularly on the weekends. Conveniently, the Îles de Los can be
-reached by boat from the mainland and can make an excellent intimate
-retreat.
+**3. Explore Kankan's Malinke heritage**
 
-**3. Hike in the Fouta Djallon**
+[Kankan](/africa/guineeconakry/kankan) is the spiritual capital of the Malinke people and was once part of the great Mali Empire. The Grande Mosquee, the covered market with its arched entrances, and the general rhythm of life here feel deeply West African. The journey from Conakry is long (500 km by bush taxi) but gives you a real sense of the country's scale and diversity.
 
-The Fouta
-Djallon is known as the land of waters, fruit, faith, and freedom and
-is a popular area for hiking and backpacking. The highlands of the
-Fouta Djallon are famous for their scenic hills and picturesque terrain
-and consist of primarily rolling grasslands. The highest point in the
-highlands is known as Mount Loura, which rises to 1,515 meters. It is
-also a green and lush area due to the heavy rainfall it receives during
-the year. The Fouta Djallon is sometimes referred to as the "Water
-tower of West Africa" because it is home to 3 major rivers- the Niger,
-the Gambia, and the Senegal.
+**4. Climb Mount Nimba**
 
-**4. Shop in Katikan and Kindia
+At 1,752 meters, Mount Nimba is the highest point in Guinea and a UNESCO World Heritage Site. The mountain straddles three countries and harbors species found nowhere else, including the viviparous Nimba toad. The hike to the summit is demanding but the views across the forest canopy into Liberia and Ivory Coast are magnificent. Access from [Nzerekore](/africa/guineeconakry/nzerekore) requires a guide and advance planning.
 
-**
+**5. Catch live music in Conakry**
 
-The town of Katikan is noted for its many open air markets
-and is a place where visitors can find interesting local keepsakes.
-This is a great place for travelers to spend the day exploring the
-numerous markets and unique souvenirs. In addition, located outside of
-Conakry is the town of Kindia, known for its cloth and weaving
-products. In Kindia, visitors can stop by an indigo dyeing center and
-the cloth market that resides within the town.
-
-**5. Admire ****Le Voile de la Mariée**
-
-Le
-Voile de la Mariée is a beautifully scenic river located in Guinee
-Conakry and is a place where tourists can enjoy the rich green
-surroundings. The river itself is overlooked by a 230 foot rock and joins the River Sabende. This a lovely place to sit back and admire the beauty of West Africa and of Guinee Conakry.
-
-**Contributors**
-February 19, 2010
-
-February 14, 2010
+Guinea is a musical powerhouse. The djembe drum originates here, and [Conakry](/africa/guineeconakry/conakry) has a live music scene that punches far above its weight. Neighborhood bars, cultural centers, and the annual Festival International Kora et Cordes (December) all offer chances to hear world-class musicians in intimate settings. Ask around when you arrive -- there is always something happening.

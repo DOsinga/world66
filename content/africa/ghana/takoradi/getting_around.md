@@ -11,7 +11,7 @@ Once you arrive in Takoradi, you might want to rent a car and drive around. Howe
 
 **By Bus**
 
-If you don&rsquo;t want to ride a plane you can take a bus which would lead you to Takoradi. Traveling time would take more than three or more hours. Takoradi has one bus station namely, Intercity STC Coaches. It is just three blocks away from the Market Circle and is found right at the highway road.
+If you don't want to ride a plane you can take a bus which would lead you to Takoradi. Traveling time would take more than three or more hours. Takoradi has one bus station namely, Intercity STC Coaches. It is just three blocks away from the Market Circle and is found right at the highway road.
 
 **By Rail**
 

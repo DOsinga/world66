@@ -1,21 +1,12 @@
 ---
-title: "Beaches in Benin city"
+title: "Beaches"
 type: section
 ---
 
-**Benin City-Beaches** are great thanks to West Africa’s tropical climate and the warm waters received from the mid-Atlantic Ocean. Some beaches try to attract tourists with ultra-modern facilities, while others simply stand out as serene, beautiful get-a-ways. Almost all of the beaches near Benin City are calm, making them ideal for a family vacation. Three beaches in particular best exemplify what the Nigerian coast has to offer.
+Benin City is inland, but the Nigerian coastline is reachable for a day out. The beaches south of Lagos — a few hours' drive — are the closest options. They are calm, warm, and largely undeveloped.
 
-**Akodo Beach**
+**Akodo Beach** (also called Eko Tourist Beach) is the most developed option, with an amusement park, hotel facilities, and a swimming beach. It is geared toward tourists and priced accordingly.
 
-Akodo Beach, or Eko Tourist Beach, is a beach that was (as its name suggests) designed to bring in tourism from all around the world. Being that this is a tourist beach, Akodo features some of the most high-class attractions anywhere, especially with respect to other beaches near Benin City. Akodo features an amusement park, luxury hotels and spas, and a peaceful swimming beach. Be prepared to splurge for this trip as almost anything to do at this beach will be pricey. Although some attractions like a game of table tennis will only cost two hundred Naria (less than $2), things like that can quickly add up if you aren’t careful.
+**Eleko Beach**, near the Lekki Peninsula, is quieter and more relaxed. A small entry fee gets you onto a peaceful stretch of sand with no hawkers or distractions. There are no facilities, so bring your own food and water.
 
-**Eleko Beach**
-
-Eleko Beach is close by the Lekki Peninsula and is much quieter than Akodo Beach. You normally have to pay a hundred Naria (less than $1) to enter, but it’s worth it; it’s one of the nicest beaches along the coastline. Eleko Beach is not bothered by any traders or distractions, and it is the perfect place to find peace and tranquility. There aren’t any facilities on the beach, however, so it’s recommended that you bring your own lunch and maybe a frisbee or football.
-
-**Coconut Beach**
-
-Coconut Beach is a historic town that was once believed to be the center of a slave trade ring in the 19th century, and is appropriately named because of the many coconut trees that surround it. You can find it 20 miles from the border of Nigeria and the Republic of Benin. The coastal town of Badagry is close by and it will carry various sundries that you might enjoy on your outing. If you are out and away from the coconut trees, the tropical sun will be beating down hard, particularly at mid-day. Visitors who are unaccustomed to this should bring a hat and plenty of sunscreen.
-
-**Contributors**
-April 15, 2010
+**Coconut Beach**, near the border town of Badagry about 20 miles from the Republic of Benin, is surrounded by coconut palms and has a somber history as a former slave trade site. The nearby town of Badagry has food and supplies. Bring sun protection — there is little shade away from the tree line.

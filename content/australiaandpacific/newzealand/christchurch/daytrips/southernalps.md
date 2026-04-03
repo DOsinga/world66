@@ -1,8 +1,0 @@
----
-title: "Southern Alps"
-type: poi
-latitude: -44.018064
-longitude: 169.585266
----
-
-Inland from Christchurch lie the magnificent Southern Alps - only an hour from the city. The village of Arthurs Pass makes an ideal base for all kinds of activities, and you can also experience the TranzAlpine rail trip - one of the world's most spectacular train journeys that takes you from Christchurch to Greymouth.

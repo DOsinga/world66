@@ -5,17 +5,12 @@ latitude: 43.732349
 longitude: 7.427683
 ---
 
-Monaco is for the rich and famous. But also for those, who dream of being rich and famous. The mini state on the Mediterranean is like one big Club Med (drinks are not included). Most people don't stay in Monaco but do it as a daytrip from the French or Italian Riviera. The present territory of the Principality of Monaco covers 195 hectares (1.95 Km"), 31 of which have been entirely reclaimed from the sea! 
- 
- 
- 
+Monaco is one of the world's smallest countries — 2.1 square kilometres wedged between France and the sea — and one of the most densely packed with wealth. The glittering yachts, the casino, the Grand Prix circuit threading through city streets: it's a place where ostentation has been elevated to an art form. But it's also genuinely worth visiting, even if you're not a billionaire.
 
+Most people come on a day trip from Nice or the Italian Riviera. That's usually enough. Monaco doesn't have the depth of a full destination, but it rewards a few hours of wandering — up to Monaco-Ville, the old rock-top quarter with the palace and cathedral, then down to Monte Carlo for the casino and the Oceanographic Museum perched on the cliffs.
 
- The population is close to 30.000 more than 83% of whom are foreigners; Monegasques number about 5.000. The official language is French but Italian and English widely spoken and understood. There's also a Monegasque language (a very colorful dialect) used by the old nationals but also again studied in the schools of the Principality.
- 
- 
- 
+The principality is ruled by the Grimaldi family, who have held power since 1297 (with a few interruptions). Prince Albert II has been on the throne since 2005. Despite appearances, Monaco takes environmental issues seriously — Albert has been outspoken on climate and ocean conservation, and the Oceanographic Museum founded by his great-great-grandfather Prince Albert I reflects a genuine scientific tradition.
 
+About 38,000 people live here, representing nearly 150 nationalities. Monegasques — actual citizens — now make up roughly 24% of the population, the largest single group ahead of French and Italian residents. French is the official language; Italian and English are widely spoken. There's also Monégasque, a dialect related to old Genoese Ligurian, which the principality has been working to revive in schools.
 
- The Catholic religion is the state religion, freedom of worship, however, is guaranteed by the Constitution. The national holiday is celebrated on 19 November. The sovereignty of Monaco is today indisputable, undisputed and internationally recognized but it has not always been so, as its history demonstrates. You can best wander around in the city instead of taking the bus.
- The unit of currency is the French Franc.
+The currency is the euro. Roman Catholicism is the state religion, though freedom of worship is guaranteed. The national holiday falls on 19 November.

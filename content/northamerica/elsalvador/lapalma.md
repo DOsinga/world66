@@ -1,6 +1,12 @@
 ---
 title: "La Palma"
 type: location
+latitude: 14.3233
+longitude: -89.1698
 ---
 
-I am sure that you have seen all of that brightly colored paint on wood; keyholders, trivets, napkin holders etc. Well, La Palma is where these items are made. It seems that everyone in town has two jobs and one of them has to do with art. The city is about two hours drive north of San Salvador and about fifteen minutes from the Honduran border. The area is mountainous and cool. The highest point in El Salvador is on a ridge behind the city. I recommend taking a trip up there. The views are magnificent and the other side of the ridge is the verdant cabbage basket of El Salvador. The Hotel La Palma is a good place to stay. About $10.00 per night with hot showers and pleasant rooms. The restaurant at the hotel is fine too. A lot of Salvadorans drive up for the weekends to get out of the heat.
+La Palma is a small mountain town about two hours north of San Salvador, close to the Honduran border. It is best known for its distinctive folk art — brightly colored paintings and handicrafts on wood, featuring geometric patterns and village scenes. The style was developed by artist Fernando Llort in the 1970s and spread through the town to the point where seemingly half the residents make their living producing it. You will find the work on keychains, trivets, boxes, tiles, and paintings in workshops and stalls throughout town.
+
+The setting is cool and mountainous, a welcome change from the heat of the capital and coast. Cerro El Pital, the highest point in El Salvador at 2,730 metres, lies on a ridge behind the town. The drive up is scenic and the views from the top — on a clear day — reach into Honduras and across El Salvador's highland interior.
+
+The town itself is small and unhurried. It is a popular weekend escape for Salvadorans from the capital looking for cooler air and local crafts.

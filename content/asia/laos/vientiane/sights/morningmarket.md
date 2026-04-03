@@ -1,8 +1,8 @@
 ---
-title: "Morning Market"
+title: 'Morning Market'
 type: poi
-latitude: 17.400099
-longitude: 104.823391
+latitude: 17.969340
+longitude: 102.614006
 ---
 
-At the Talat Sao (Morning Market) you can find all kinds of different shops. It's well known for jewelry , clothes etc. This is also a good place to change money officially. Outside there's a food market with cheap road restaurants. Here you can change your money on the black market, but take care while changing.
+The Talat Sao (Morning Market) is Vientiane's central market, a sprawling covered complex where you can find everything from Lao silk and jewelry to electronics and household goods. Despite the name, it is open all day. The surrounding streets have cheap food stalls and money changers. A modern shopping mall adjoins the original market building.

@@ -1,19 +1,18 @@
 ---
 title: "Libreville"
 type: location
-latitude: 0.408652
-longitude: 9.441885
+latitude: 0.4087
+longitude: 9.4419
 ---
 
-"/>
+Libreville is Gabon's capital and its only real city. Perched on the Gabon Estuary facing the Atlantic, it is a surprisingly cosmopolitan place with French restaurants, air-conditioned shopping centers, and a level of polish that most of Central Africa cannot match. If you have been traveling rough through the region, Libreville will feel like a different world.
 
-Libreville is the capital of Gabon. It is a very posh city and offers lots of attractions that are hard to find in the neighboring countries or in the countryside. Golf, tennis, horseback riding, bowling, squash, shpping centres, sailing. If you need a break from the adventurous traveling most of Central Africa offers you, you have picked the rights spot.
+That polish comes at a price. Libreville is one of the most expensive cities in Africa, and the cost of everything from taxis to meals will remind you that this is an oil-rich capital. Budget travelers will need to be resourceful.
 
+The Boulevard de l'Independance runs along the waterfront and is your main point of orientation. The heart of the city lies between the Presidential Palace and the commercial district. The palace, built by Omar Bongo in the 1970s at a rumored cost of $800 million, is not open to the public but is impressive even from outside. Photography of the palace is forbidden.
 
- Be sure to bring some cash, howver, because Libreville is not a cheap place to go.
+The **Eglise Saint-Michel de Nkembo** is worth a visit, especially on Sunday morning when the congregation fills the church with song. The carved wooden columns inside are remarkable. The **Musee des Arts et Traditions** houses a fine collection of Gabonese masks, carvings, and musical instruments, and gives useful context for the cultural traditions you may encounter elsewhere in the country.
 
+The **Marche du Mont-Bouet** is one of the great markets of Central Africa. It sprawls across several blocks and sells everything: fish, produce, bushmeat, fabric, traditional medicines, household goods. Come with a sense of adventure and keep your valuables secure, as pickpockets are active.
 
- The boulevard the l'Independance runs along the water and is your primary point of orientation in town. The heart of the city is between the presidential palace and the Novotel.
-
-
- Things not to be missed include the presidential palace (posh posh posh), the Egilse St.Michel (best on sunday morning; the carved columns are great) and the Musee des Arts et Traditions (masks, musical instruments etc.).
+Libreville is also the jumping-off point for most of Gabon's national parks and for the short boat trip to Pointe Denis, a sandy peninsula across the estuary with beaches and calm water.

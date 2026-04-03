@@ -1,8 +1,12 @@
 ---
 title: "Jasper"
 type: location
-latitude: 52.875234
-longitude: -118.082429
+latitude: 52.8737
+longitude: -117.9543
 ---
 
-When the explorer David Thompson arrived in the area, he established Jasper’s first permanent habitation, a way-station for voyageurs, in 1811. Jasper National Park was formed in 1907. The town of Jasper is located in the heart of the National Park, and at the end of the phenomenal Icefields Parkway. This community of 4,500 provides a beautiful alpine backdrop for many year-round activities, and is an excellent centre for touring. Visit the Jasper Yellowhead Museum and Archives.
+Jasper sits at the heart of the largest national park in the Canadian Rockies, a small mountain town of around 4,500 people surrounded by an almost absurd amount of wilderness. Unlike its busier neighbour Banff to the south, Jasper has kept a quieter, more laid-back character. The town itself is compact and walkable, with most restaurants and shops clustered along Patricia Street and Connaught Drive.
+
+The park is the real draw. The Icefields Parkway connecting Jasper to Lake Louise is one of the great drives in North America, passing glaciers, turquoise lakes, and waterfalls the whole way. Maligne Lake, with its famous Spirit Island, is worth a half-day trip. Athabasca Falls pounds through a narrow canyon with a force that makes the viewing platforms tremble. In winter, the dark skies here are spectacular — Jasper is a designated Dark Sky Preserve.
+
+David Thompson established the first permanent settlement here in 1811 as a fur trade way-station. The national park followed in 1907, and the town has been welcoming travellers ever since. It fills up fast in summer, so book ahead if you are visiting between June and September.

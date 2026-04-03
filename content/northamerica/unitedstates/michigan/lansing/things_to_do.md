@@ -1,8 +1,6 @@
 ---
-title: 'Things to Do'
+title: "Things to Do"
 type: section
 ---
 
-Lansing offers a solid mix of museums, parks, and events for a state capital. The Michigan Historical Museum and the MSU Museum on the university campus cover the region's natural and cultural history. Impression 5 Science Center on Museum Drive is excellent for families. Potter Park Zoo, along the Red Cedar River, is compact but well kept.
-
-Old Town hosts a lively calendar of festivals including the Bluesfest in September, Jazzfest in August, and Oktoberfest in October. In East Lansing, the Wharton Center for Performing Arts brings touring Broadway shows and concerts to the Michigan State campus.
+Lansing's attractions cluster around a few themes: state government history, the university campus in East Lansing, and a surprisingly strong museum corridor along Museum Drive near the Grand River. The State Capitol is the obvious starting point, but the museums and Potter Park Zoo make for a full day without leaving the riverfront area.

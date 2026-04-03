@@ -5,6 +5,8 @@ latitude: 33.697969
 longitude: 35.564743
 ---
 
-On the road between [Beiteddine](/asia/lebanon/beiteddine) and [Beirut](/asia/lebanon/beirut) Deir al-Qamar is a very scenic town with many well-preserved historical buildings.
+Deir el Qamar ("Monastery of the Moon") is a scenic little town on the road between [Beirut](/asia/lebanon/beirut) and [Beiteddine](/asia/lebanon/beiteddine) in the Chouf Mountains. It served as the capital of Mount Lebanon from the 16th to the 19th century and has some of the best-preserved traditional architecture in the country -- stone houses with red-tiled roofs, old churches, a Druze palace and a central square lined with historic buildings.
 
-Nearby is the famous Castle Mousa. It was built by a man with a strange fetish for things medieval. It belongs in a category with Bavaria’s Neuschwanstein and Disneyland’s castle but trust us it’s even less authentic.
+The town is small enough to explore on foot in an hour or two. It is usually combined with a visit to the Palace of Beiteddine, a few kilometres further up the road.
+
+Nearby is **Castle Mousa**, built single-handedly by a man with an obsession for all things medieval. It is not historically authentic -- think Neuschwanstein crossed with a folk museum -- but it is entertaining and children love it.

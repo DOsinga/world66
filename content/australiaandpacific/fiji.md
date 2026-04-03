@@ -5,21 +5,21 @@ latitude: -18.12397
 longitude: 179.012274
 ---
 
-Fiji is one of these paradise on earth islands in the Pacific. But the island has more to offer than just beaches where you can bum, and water where you can snorkel. 
+Fiji is an archipelago of 333 islands scattered across the South Pacific, about halfway between New Zealand and Hawaii. Most people come for the beaches, the diving, and the reliably warm weather — and Fiji delivers all of that. But the islands also have a cultural life, a complicated political history, and landscapes that range from coastal reef to interior rainforest.
 
-There are many scenic and historic attractions in Fiji. The capital, [Suva](/australiaandpacific/fiji/suva), has many old shops and markets with various foods, artefacts, handicrafts and especially seafood. Places of historic interest include the National Museum, situated in the lush surrounds of Thurston Gardens next to Government House and the old Parliament Buildings. Other sites of interest on Fiji include the Cultural Centre at Orchid Island, just outside of Suva, the mysterious earthworks at Taveuni and the old colonial houses (situated around Fiji). 
+The two main islands, [Viti Levu](/australiaandpacific/fiji/vitilevu) and [Vanua Levu](/australiaandpacific/fiji/vanualevu), hold most of the population. The capital [Suva](/australiaandpacific/fiji/suva) is on Viti Levu's southeast coast — a proper city with markets, colonial buildings, and a good museum. The main international airport is at [Nadi](/australiaandpacific/fiji/nadi) on the west side of the same island, which is where nearly everyone arrives.
 
-The ethnic variety of Fiji society can be seen mainly in the towns. There are powerfully built Fijians dressed in wrap-around sulus, numerous Indians, men in Western clothes, women wearing colourful saris and a scattering of European, Chinese and other Pacific Islanders. One tradition of both the Indians and Fijians is the practice of fire-walking. Fijian fire-walking has its origin in legend, while Indian fire-walking is done for religious reasons; although tourists can pay to see these ceremonies, the ritual remains a religious penance and not merely a tourist attraction. Cruises on large schooners or yachn comfortable coaches are also available. 
+The outer islands are where Fiji's reputation for diving and snorkeling is built. [Taveuni](/australiaandpacific/fiji/taveuni), the "Garden Island," has the famous Rainbow Reef and the Great White Wall — among the best soft coral diving in the world. The [Yasawa Islands](/australiaandpacific/fiji/yasawaislands) offer a string of budget resorts, traditional villages, and the Blue Lagoon. [Ovalau](/australiaandpacific/fiji/ovalau) has Levuka, Fiji's first colonial capital, and is off the usual tourist track.
 
-For the hardier, hiking in the mountains with dramatic views of the islands is another option. Sarah Rocks
+Fiji's society is a mix of indigenous Fijians and Indo-Fijians, the descendants of indentured laborers brought from India in the late 19th century. The two communities have different languages, religions, and customs, though they live alongside each other throughout the islands. This cultural layering is part of what makes Fiji interesting beyond the beach resorts.
 
 ## Destinations in Fiji
 
-[Vanua levu](/australiaandpacific/fiji/vanualevu)
-[Nadi](/australiaandpacific/fiji/nadi)
-[Ovalau](/australiaandpacific/fiji/ovalau)
-[Suva](/australiaandpacific/fiji/suva)
-[Yasawa islands](/australiaandpacific/fiji/yasawaislands)
-[Viti levu](/australiaandpacific/fiji/vitilevu)
-[Taveuni](/australiaandpacific/fiji/taveuni)
-[Fiji City](/australiaandpacific/fiji/fijicity)
+- [Suva](/australiaandpacific/fiji/suva) — the capital, worth a couple of days
+- [Nadi](/australiaandpacific/fiji/nadi) — gateway city, airport hub
+- [Viti Levu](/australiaandpacific/fiji/vitilevu) — the main island
+- [Vanua Levu](/australiaandpacific/fiji/vanualevu) — Fiji's second-largest island, quieter and less visited
+- [Taveuni](/australiaandpacific/fiji/taveuni) — diving, rainforest, Rainbow Reef
+- [Yasawa Islands](/australiaandpacific/fiji/yasawaislands) — beaches, snorkeling, budget resorts
+- [Ovalau](/australiaandpacific/fiji/ovalau) — colonial history, Levuka
+- [Lautoka](/australiaandpacific/fiji/lautoka) — Fiji's second city, sugar industry

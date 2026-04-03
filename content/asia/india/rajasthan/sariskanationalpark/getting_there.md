@@ -1,16 +1,6 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**By Rail:**
-
- The Nearest Railway Station is at Alwar that is at a distance of 20 Kms.
-
-  **By Air:**
-
- The Nearest Airport is at Jaipur at a distance of 110 Kms.
-
-  **By Road:**
-
- The motor road is good enough to travel and available from Alwar.
+Sariska is most easily reached from Alwar, just 35 km away by road. The nearest railway station is Alwar (20 km from the park entrance), connected to Delhi and Jaipur. The nearest airport is Jaipur, about 110 km south. Most visitors arrange jeep transfers from Alwar or come by private car from Delhi or Jaipur.

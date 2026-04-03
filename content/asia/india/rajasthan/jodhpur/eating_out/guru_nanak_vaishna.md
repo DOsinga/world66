@@ -1,23 +1,10 @@
 ---
-title: "Guru Nanak Vaishnav Dhaba"
+title: 'Guru Nanak Vaishnav Dhaba'
 type: poi
-address: "Poata-b road, Jodhpur"
-phone: "09783831313"
-price: "nominal"
-type: "Indian and Pakistani"
+address: 'Paota-B Road, Jodhpur'
+phone: '09783831313'
+latitude: 26.2830
+longitude: 73.0220
 ---
 
-We provide Indian famous Punjabi food at very reasonable price.
-We have no other branches.
-
-type: Indian and Pakistani
-
-
-
-
-
-tel: 09783831313
-
-address: Poata-b road, Jodhpur
-
-PriceOfMenu: nominal
+A no-frills Punjabi dhaba serving generous portions of dal, roti, and sabzi at low prices. Popular with locals for a quick, filling meal. No branches elsewhere despite what imitators may claim.

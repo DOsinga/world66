@@ -1,8 +1,10 @@
 ---
-title: "Jodhpur"
+title: 'Jodhpur'
 type: location
-latitude: 26.296772
-longitude: 73.035143
+latitude: 26.2968
+longitude: 73.0351
 ---
 
-Jodhpur is mainly known for its impressive Meherangarh Fort. Located at the top of the hill and reached by quite a climb, it offers some excellent views of the old and new city. The fort itself, with its enormous gateways, palaces and museums, easily take up one of your days in Jodhpur. Jodhpur is a nice city. It is not as big as Jaisalmer and not as small as Jaisalmer. The old city offers winding streets with colourful street markets and blue houses (those belonging to the Brahmins) alternated with white houses.
+Jodhpur is dominated by the Mehrangarh Fort, one of the most impressive in India. Perched on a 125-meter cliff above the city, its massive walls seem to grow directly from the rock. The fort alone could fill a day, with its ornate palaces, excellent museum, and sweeping views of the old city below -- a dense cluster of houses painted in shades of blue, originally a Brahmin tradition that the whole neighborhood has adopted.
+
+The old city beneath the fort is a tangle of winding lanes, street markets, and stepped wells. The clock tower market (Ghanta Ghar) is the liveliest bazaar, selling spices, textiles, handicrafts, and the local specialty: mirchi bada (chili fritters). Jodhpur sits at the edge of the Thar Desert and makes a logical stop between [Jaipur](/asia/india/rajasthan/jaipur) and [Jaisalmer](/asia/india/rajasthan/jaisalmer).

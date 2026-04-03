@@ -1,10 +1,8 @@
 ---
-title: "Motta S. Anastasia"
+title: 'Motta S. Anastasia'
 type: location
-latitude: 37.46482
-longitude: 14.935524
+latitude: 37.4648
+longitude: 14.9355
 ---
 
-Travel Guide
-
-**We lived in Motta for 3 years while my husband was stationed at NAS Sigonella. The town sometimes gets a bad reputation, but we fell in love with it! What an amazing city to live in! Loved being close to the base but still living on the Italian culture. Can't wait to go back and remember all the good times......**
+Motta Sant'Anastasia is a small town near Catania, dominated by a Norman castle perched on a striking basalt rock formation. The castle and the views from its base are the main draw. The town is close to the NATO base at NAS Sigonella and has a small but authentic local character.

@@ -1,8 +1,8 @@
 ---
-title: "Stromboli"
+title: 'Stromboli'
 type: location
-latitude: 38.793027
-longitude: 15.210851
+latitude: 38.7930
+longitude: 15.2109
 ---
 
 Stromboli is one of the most spectacular active volcanoes in the world. A small island in the mediterranean that consists of little more than a big volcanoe. It's a great hike to the top of the volcano and it is possible to spend the night there and see lava and other volcanic activities in the darkness. Be sure to bring warm clothing, because even in summer it can be really cold and windy at the top. 

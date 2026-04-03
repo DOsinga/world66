@@ -1,13 +1,11 @@
 ---
-title: "Pantelleria"
+title: 'Pantelleria'
 type: location
-latitude: 36.831458
-longitude: 11.94504
+latitude: 36.8315
+longitude: 11.9450
 ---
 
-Travel Guide
-
-If you're looking for a beautiful island in Italy where you can relax,
+If you are looking for a beautiful island in Italy where you can relax,
 enjoy the sun, sea, and natural mineral hot springs, then consider a
 trip to Pantelleria. Most visitors are vacationers from Europe, but I
 also had the rare treat a few years back, when an Italian friend who

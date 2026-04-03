@@ -1,12 +1,8 @@
 ---
-title: "Downtown"
+title: 'Downtown'
 type: location
-latitude: 34.047996
-longitude: -118.2521
+latitude: 29.7604
+longitude: -95.3698
 ---
 
-That Familiar Skyline...
-
-## Destinations in Downtown
-
-[Theatre District](/northamerica/unitedstates/texas/houston/downtown/theatredistrict)
+Houston's downtown has been revitalized in recent years, with Bayou Place anchoring the entertainment scene and the Theater District offering world-class ballet, symphony, opera, and theater. The Heritage Society Museum and Sam Houston Park provide a window into the city's past.

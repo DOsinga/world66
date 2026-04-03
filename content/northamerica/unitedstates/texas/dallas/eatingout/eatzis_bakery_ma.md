@@ -1,30 +1,11 @@
 ---
-title: "Eatzi's Bakery, Market, & Restaurant"
+title: "Eatzi's Bakery, Market & Restaurant"
 type: poi
-address: "3403 Oak Lawn Ave"
-email: "webmaster@eatzis.com"
-phone: "214-526-1515"
-price: "Varies $1 to ?"
-type: "French"
-url: "www.eatzis.com"
-latitude: 32.811018
-longitude: -96.806469
+address: '3403 Oak Lawn Ave'
+phone: '214-526-1515'
+url: 'www.eatzis.com'
+latitude: 32.8110
+longitude: -96.8065
 ---
 
-Eatzi's provides 'chef crafted meal solutions.' A team of onsite chefs provide meal preparation before your eyes at a variety of stations that resemble a miniature european market. Food is excellent in quality and reasonable in price.
-
-type: French
-
-
-
-
-
-tel: 214-526-1515
-
-url: [www.eatzis.com](http://www.eatzis.com/)
-
-address: 3403 Oak Lawn Ave
-
-PriceOfMenu: Varies $1 to ?
-
-email: webmaster@eatzis.com
+Eatzi's provides chef-crafted meal solutions with a team of onsite chefs preparing food before your eyes at stations resembling a miniature European market. Food is excellent in quality and reasonable in price.

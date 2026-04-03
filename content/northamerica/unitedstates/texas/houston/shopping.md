@@ -1,6 +1,6 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 
-Houston's Galleria is a must see for the die-hard shopper and the penny pincher alike. Not only does it have over 300 stores of all varieties, but it also has a skating rink. 16 million people visit the complex each year, and the mall recently added an addition creating room for new stores.
+The Galleria is Houston's flagship shopping destination, with over 300 stores, an ice rink, and 16 million visitors a year. But the city's best shopping is often in its neighborhoods: Rice Village for boutiques, the Heights for vintage finds, and Chinatown for everything from imported groceries to electronics.

@@ -1,12 +1,8 @@
 ---
-title: "Big Bend National Park"
+title: 'Big Bend National Park'
 type: location
-latitude: 29.333248
-longitude: -103.194172
+latitude: 29.3332
+longitude: -103.1942
 ---
 
-Words cannot describe its beauty.
-
-The downside: it's a 3 hour drive to Del Rio, and then another 3 hours from there to San Antonio. Even flying from within the US it will take a day to get here. And stock up on food and water no later than Del Rio (check out Wal Mart in Uvalde if possible) - this is the isolated desert. There are no strip malls. There is barely potable water in the towns on the park's west.
-
-Check out: http://en.wikipedia.org/wiki/Big_Bend and http://en.wikipedia.org/wiki/Big_Bend_National_Park
+Big Bend is one of the most remote and spectacular national parks in the country, with desert canyons, the Rio Grande, and the Chisos Mountains creating landscapes that feel like another planet. The isolation is both the appeal and the challenge: it is a three-hour drive to Del Rio, then another three hours to [San Antonio](/northamerica/unitedstates/texas/sanantonio). Stock up on food, water, and fuel before you arrive, as there is nothing resembling a strip mall for a very long way. The reward is some of the darkest night skies in North America and hiking that ranges from easy river walks to serious backcountry treks.

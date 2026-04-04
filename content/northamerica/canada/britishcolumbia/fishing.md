@@ -1,8 +1,6 @@
 ---
 title: "Fishing"
-type: location
-latitude: 56.941917
-longitude: -92.440529
+type: section
 ---
 
-British Columbia features a wide variety of fishing options: saltwater, freshwater (lakes or rivers), off shore, from the beach, associated with wilderness travel, or from public piers in a city. Toughest decisions will be where to fish, and what to fish for.
+British Columbia offers an exceptional variety of fishing — saltwater and freshwater, offshore and from the beach, in wilderness rivers or off public piers in the city. Salmon is the main event: chinook, coho, sockeye, pink, and chum all run in BC waters, and the province issues detailed regulations by species and region. Steelhead fishing on rivers like the Skeena, Babine, and Dean draws dedicated anglers from around the world. For freshwater fishing, the Interior lakes hold rainbow trout, lake trout, and kokanee. A provincial fishing licence is required and available online from the BC government.

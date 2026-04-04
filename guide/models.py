@@ -204,28 +204,6 @@ def load_page(path):
     return None
 
 
-@lru_cache(maxsize=1)
-def load_search_index():
-    """Return a list of (title_lower, title, url_path) for all content pages."""
-    entries = []
-    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
-        result = _load_md(md_file)
-        if not result:
-            continue
-        meta, _ = result
-        title = meta.get("title", "")
-        if not title:
-            continue
-        rel = md_file.relative_to(CONTENT_DIR)
-        parts = list(rel.parts)
-        stem = parts[-1][:-3]
-        if len(parts) >= 2 and stem == parts[-2]:
-            url_path = "/".join(parts[:-1])
-        else:
-            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
-        entries.append((title.lower(), title, url_path, meta.get("type", "location")))
-    return entries
-
 
 @lru_cache(maxsize=1)
 def load_tag_index():

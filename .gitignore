@@ -6,6 +6,7 @@ tools/image_progress.json
 tools/locations.json
 tools/site_index.json
 tools/*.tmp
+search.db
 venv/
 staticfiles/
 __pycache__/

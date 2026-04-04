@@ -1,9 +1,7 @@
-asia/india/maharashtra/nashik
 asia/india/haryana/hansi
 europe/greece/santorini
 asia/india/andhrapradesh/nellore
 asia/india/uttaranchal/karanprayag
-europe/austria/wels
 northamerica/canada/alberta/banff/tours
 europe/albania/butrint
 asia/israel/eilat
@@ -46,5 +44,4 @@ asia/india/andhrapradesh/paloncha
 northamerica/unitedstates/newyorkstate/ithaca_tompkins_c
 europe/spain/galicia/pontevedra_city
 asia/pakistan/sargodha/bhagatawala__chak_1
-europe/germany/saxonyanhalt
 europe/portugal/lisbon/toursdaytrips

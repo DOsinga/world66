@@ -5,7 +5,6 @@ asia/india/maharashtra/ratnagiri
 europe/unitedkingdom/england/york
 asia/thailand/trang
 europe/greece/mani
-europe/greece/kos
 europe/italy/tuscany/florenceprovince/sievevalley/pontassieve/footpaths
 asia/china/henan_province/luoyang
 europe/croatia/porec
@@ -33,7 +32,6 @@ asia/india/karnataka/shimoga
 northamerica/unitedstates/california/losangeles/pasadena
 asia/india/andhrapradesh/khammam
 asia/india/maharashtra/mumbai/goa
-africa/togo/kara
 northamerica/unitedstates/texas/fort_worth
 europe/france/midi/languedoc/montpellier/walks
 asia/pakistan/burewala

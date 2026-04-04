@@ -11,8 +11,6 @@ africa/ivorycoast/bondoukou
 europe/unitedkingdom/england/gloucestershire
 northamerica/canada/alberta/jasper/outdoors
 europe/spain/la_mancha/toledo/europe/spain/la_mancha/toledo
-africa/burkinafaso/ouagadougou
-northamerica/belize/belmopan
 asia/pakistan/aliot_village
 northamerica/unitedstates/california/ventura
 northamerica/unitedstates/california/roots_restaurant_a/ventura

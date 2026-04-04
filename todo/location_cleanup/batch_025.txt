@@ -43,7 +43,6 @@ europe/bosniaandherzegovina/tuzla
 australiaandpacific/newzealand/marlborough/milfordsound
 northamerica/unitedstates/newyorkstate/the_finger_lakes
 asia/pakistan/chitral
-europe/ireland/kilkenny
 africa/morocco/tafraoute
 australiaandpacific/vanuatu/efate
 europe/netherlands/arnhem

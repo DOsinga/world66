@@ -1,6 +1,5 @@
 asia/myanmar/inlelake
 africa/somaliland/hargeisa
-northamerica/unitedstates/arkansas/hotsprings
 northamerica/thecaribbean/jamaica
 southamerica/brazil/angradosreis
 europe/france/normandybrittany/falaise

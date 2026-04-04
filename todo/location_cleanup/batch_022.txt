@@ -40,9 +40,6 @@ asia/india/andhrapradesh/adilabad
 europe/unitedkingdom/england/newcastle_and_nort/northumberland
 asia/jordan/ajlun
 europe/spain/galicia/lugo
-asia/thailand/phitsanulok
-europe/portugal/sintra
-australiaandpacific/newzealand/south_island
 northamerica/mexico/tulum
 asia/india/maharashtra/jalgaon
 europe/unitedkingdom/england/bristol_plymouth/cornwall

@@ -1,6 +1,7 @@
 ---
 title: "Clock Tower"
 type: poi
+category: Sight
 type: "Fountains and statues"
 latitude: 36.886837
 longitude: 30.705852

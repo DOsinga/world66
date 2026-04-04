@@ -1,6 +1,7 @@
 ---
 title: "Bird paradise of izimir"
 type: poi
+category: Sight
 type: "Hotspots"
 ---
 

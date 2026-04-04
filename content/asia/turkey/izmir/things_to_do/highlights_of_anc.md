@@ -1,6 +1,7 @@
 ---
 title: "Highlights of Ancient Ephesus"
 type: poi
+category: Sight
 address: "Sultanahmet"
 email: "info@turkeytravelservice.com"
 phone: "+90 532 340 01 52"

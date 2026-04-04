@@ -1,6 +1,7 @@
 ---
 title: "The Ataturk Museum"
 type: poi
+category: Sight
 address: "Atatürk Cad. No: 24  Alsancak - iZMiR"
 phone: "+ 90 232 421 70 26"
 type: "Hotspots"

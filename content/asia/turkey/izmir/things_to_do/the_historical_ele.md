@@ -1,6 +1,7 @@
 ---
 title: "The Historical Elevator"
 type: poi
+category: Sight
 address: "Mithatpasa Cad. Dario Moreno Street Karatas Konak"
 opening_hours: "open whole day"
 phone: "(232) 255 5420-227 5843"

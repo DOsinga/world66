@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Izmir"
+title: "Getting There"
 type: section
 ---
 

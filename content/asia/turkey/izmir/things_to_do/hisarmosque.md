@@ -1,6 +1,7 @@
 ---
 title: "Hisar Mosque"
 type: poi
+category: Sight
 type: "Mosques"
 latitude: 38.421492
 longitude: 27.133587

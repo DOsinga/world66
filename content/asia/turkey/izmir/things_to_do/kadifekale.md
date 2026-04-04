@@ -1,6 +1,7 @@
 ---
 title: "Kadifekale"
 type: poi
+category: Sight
 type: "Hotspots"
 latitude: 38.413784
 longitude: 27.144956

@@ -1,6 +1,7 @@
 ---
 title: "Havra Street"
 type: poi
+category: Sight
 type: "general"
 ---
 

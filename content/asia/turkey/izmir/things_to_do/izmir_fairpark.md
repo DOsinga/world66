@@ -1,6 +1,7 @@
 ---
 title: "Izmir Fair&Park"
 type: poi
+category: Sight
 type: "Hotspots"
 ---
 

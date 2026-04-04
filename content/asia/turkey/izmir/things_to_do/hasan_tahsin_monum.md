@@ -1,6 +1,7 @@
 ---
 title: "Hasan Tahsin Monument"
 type: poi
+category: Sight
 type: "Memorials"
 ---
 

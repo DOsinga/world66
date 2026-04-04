@@ -5,16 +5,10 @@ latitude: 19.567032
 longitude: 76.416456
 ---
 
-Bordering on the Indian Ocean in the west, Maharashtra occupies the western and central areas of the subcontinent and extends over the Sahyadri Mountains. The to-and-fro of people caused the state's present cosmopolitan character. At the same time, however, it has been able to keep up its typical Maharashtrian spirit -not in the least because of the various Marathi tribes that still prevail in the region. 
+Maharashtra is India's second most populous state and one of its most diverse — a vast territory that stretches from the frenetic energy of Mumbai on the Arabian Sea coast, east across the Deccan Plateau to the edge of Vidarbha. It has ancient cave temples, fort-studded hills, a long and dramatic coastline, and a culture that runs from Bollywood glamour to traditional Warli art.
 
-Thriving [Mumbai](/asia/india/maharashtra/mumbai) (formerly known as Bombay) is the state?s capital and one of India?s biggest cities. It?s a dynamic metropolitan city that has a lot to offer to its visitors. There are plenty of museums to visit, interesting sights to see, such as the Gateway of India, and a lovely promenade along the sea to take a stroll and a sparkling nightlife. Mumbai, or Bollywood, is also the cradle of the Indian film industry. Better known as ?Bollywood?, it produces nearly as many films as its American equivalent. Don?t forget to pay a visit to the Elephanta Island with its impressive Hindu caves. 
+Mumbai is the obvious entry point and deserves time in its own right — the Gateway of India, the chaos of Dharavi, the waterfront promenade at Marine Drive, and the art deco architecture of South Mumbai are all worth your attention. But the city can exhaust you quickly, and Maharashtra has a lot more to offer once you're ready to move.
 
-When you?ve had it with the crowded big city, its might be an idea to set off for [Mahabaleshwar](/asia/india/maharashtra/mahabaleshwar). This hill station offers fresh air, impressive views of the surroundings and some excellent walking trails, not only to travellers from around the world but also to the inhabitants of Mumbai and [Pune](/asia/india/maharashtra/pune), a young and cosmopolitan city. 
+The cave complexes at [Ellora](/asia/india/maharashtra/ellora) and [Ajanta](/asia/india/maharashtra/ajanta_caves) near [Aurangabad](/asia/india/maharashtra/aurangabad) are among the finest archaeological sites in Asia. Ellora's Kailasa Temple — an entire temple carved from a single hillside — is genuinely breathtaking. Ajanta's painted Buddhist caves, some dating to the 2nd century BC, are quieter and arguably more moving. Both are UNESCO World Heritage Sites and reason enough to visit Maharashtra.
 
-[Aurangabad](/asia/india/maharashtra/aurangabad) is a pleasant town to spend some time. It is known for its mausoleum of Aurangazeb?s wife, Bibi ka Maqbara. Besides that, it serves as a good operation-base for exploration of the Daytrips. The Ajanta caves are even older than the ones at Ellora and one can see astonishing carvings and the predecessors of the frescoes. 
-
-The [Konkan](/asia/india/maharashtra/konkantheunadulteratedexperience) region is indeed one of the most exciting parts of the state of Maharashtra. The serene natural character of the region along with a large number of unexplored beaches offer a wonderful travelling experience. If you enjoy the landscape, you are in for an exciting trip. 
-
-
-
-Last Modified on 2nd February, 2004.
+[Mahabaleshwar](/asia/india/maharashtra/mahabaleshwar) and [Lonavala](/asia/india/maharashtra/lonavala) are the classic hill station escapes, cool and green during the monsoon when the rest of the state bakes. The [Konkan](/asia/india/maharashtra/konkan) coast — the narrow strip between the Western Ghats and the sea — offers beaches, fishing villages, and seafood that rival Goa without the crowds. [Pune](/asia/india/maharashtra/pune) is a city worth a day or two for its vibrant food scene, strong university culture, and the legacy of the Peshwa empire at Shaniwar Wada.

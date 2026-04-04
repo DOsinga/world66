@@ -1,11 +1,8 @@
 europe/austria/imst
-europe/belgium/liege
 europe/russia/dagestan
 northamerica/unitedstates/arizona/phoenix/malofuerte
 asia/india/maharashtra/alibag
-northamerica/canada/ontario/ottawa
 africa/southafrica/pretoria
-europe/unitedkingdom/england/bristol_plymouth/bristol
 asia/india/rajasthan/bagroda_fatehpur
 northamerica/panama/panamacity
 europe/austria/salzburg
@@ -18,7 +15,6 @@ asia/china/shanxiprovince/pingyao
 northamerica/unitedstates/california/losangeles/westhollywood
 australiaandpacific/newzealand/hawkes_bay
 northamerica/unitedstates/florida/st_augustine
-europe/spain/andalucia/marbella
 africa/southafrica/portelizabeth
 europe/armenia/ani
 europe/italy/piemonte/turin/toursdaytrips
@@ -29,14 +25,11 @@ northamerica/unitedstates/hawaii/kauai
 asia/vietnam/nhatrang
 northamerica/unitedstates/southdakota
 asia/philippines/southern_leyte
-africa/senegal/dakar
 europe/italy/tuscany/pisa
 asia/philippines/tagaytay
 northamerica/unitedstates/texas/houston
 europe/sweden/trollhttan
-asia/china/tianjin
 northamerica/unitedstates/florida/thepanhandle
-asia/japan/kyushu
 europe/italy/campania/capri
 europe/italy/marche
 africa/tanzania/zanzibar

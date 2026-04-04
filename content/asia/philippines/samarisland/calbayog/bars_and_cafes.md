@@ -1,6 +1,10 @@
 ---
-title: 'Bars and Cafes'
+title: Bars and Cafes
 type: section
 ---
 
-Nightlife in Calbayog is low-key but friendly. The Movie House, a converted cinema on Magsaysay Boulevard, is easily the best venue in town -- it hosts live bands playing Western rock, reggae, and local music on a large stage, with entrance at about 20 pesos and beers around 60 pesos. Other options include the Kamalig Music Lounge in Brgy. Rawis for live acoustic sets and pica-pica, and Estudio for a quieter evening with drinks and conversation.
+Calbayog nightlife revolves around simple bars and music lounges where cold San Miguel and live bands are the main attractions. Most places are cheap even by Philippine standards — a night out rarely costs more than a few hundred pesos.
+
+**The Movie House** on Magsaysay Boulevard is the standout venue. A former cinema converted into a live music hall and disco, it has a proper stage, back projections, and an impressive grandstand seating level above the bar. Local bands play classic rock, reggae, hip hop, and occasionally traditional tribal music. Entry is around 20 pesos, beers around 60.
+
+**Cobra's Den** on the main highway is a good stopover spot with friendly staff and karaoke. **Kamalig Music Lounge** in Barangay Rawis has a cosy atmosphere, live music, and a dance floor. **Estudio** is the quieter option — acoustic music, finger food (pica-pica), and conversation. **Manuwel's Music Lounge** in Barangay Obrero keeps the music going all night and takes requests.

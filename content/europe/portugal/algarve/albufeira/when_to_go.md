@@ -1,5 +1,5 @@
 ---
-title: 'When to Go in Albufeira'
+title: "When to Go"
 type: section
 ---
 
@@ -17,3 +17,5 @@ Many will argue that these 2 seasons are actually the best time to visit Albufei
 
 Although the prices, crowds and temperatures all rise at this time of year, Albufeira still attracts visitors of all ages. The beaches will be full of bathers and swimmers so get there early and book your spot. Be prepared for higher prices in restaurants and hotels. One advantage that summer brings is that all facilities will be open for business. Some places will close or limit their hours in the off season due to the drop in tourists. In fact, making reservations in some instances is a good idea. Summer time is when Albufeira is at its peak and those that want to experience it as full capacity should visit during the high season.
 
+**Contributors**
+January 19, 2010

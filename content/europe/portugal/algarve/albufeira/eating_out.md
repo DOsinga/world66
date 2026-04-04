@@ -1,5 +1,5 @@
 ---
-title: 'Eating Out in Albufeira'
+title: "Eating Out"
 type: section
 ---
 
@@ -33,3 +33,7 @@ For those who like their meals to come with a side order of music and mayhem, th
 
 There are plenty of places to eat out in Albufeira without blowing the holiday budget sky high. For the late night crowd, burger vans line the streets after dark, and there are plenty of places to grab an inexpensive pizza or kebab at any time of day. Plates of the day are good value in sit-down restaurants, and the market held in the town square is a great place to stock up on tasty goodies for a picnic. For something special that won´t break the bank, try the acclaimed Dom Marcos restaurant at Rua Alves Correia 100, which has won rave reviews for its excellent food and service, as well as for its very fair prices.
 
+**Contributors**
+January 17, 2010
+
+January 26, 2010

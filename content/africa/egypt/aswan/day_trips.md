@@ -1,25 +1,17 @@
 ---
-title: "Day Trips in Aswan"
+title: Day Trips
 type: section
+linked_locations:
+  - africa/egypt/luxor
+  - africa/egypt/abusimbel
 ---
 
-Aswan is a lovely place to spend some time, but if you'd like to see more of Egypt there are plenty of nearby places that make for excellent day trips. Here are a few of the most popular sites that are easy to reach and well worth the trip.
+Aswan is a natural base for exploring Upper Egypt. The Nile valley temples at Kom Ombo and Edfu lie between here and [Luxor](/africa/egypt/luxor), making them easy stops on a cruise or day trip by road.
 
-**Kom Ombo**
+**Kom Ombo** — About 45 kilometres north. The unusual double temple is half dedicated to the crocodile god Sobek and half to the falcon god Haroeris. Look for the ancient mummified crocodile, the Nilometer, and the wall carvings depicting medical instruments and an Egyptian calendar.
 
-Twenty-eight miles north of Aswan is the incredible Kom Ombo Temple. Half of the temple is dedicated to the crocodile-headed god, and as you enter you can see an ancient, mummified crocodile. There is also a large well-like structure that scientists hypothesize may have been used to keep crocodiles. You can also find the ancient Nilometer that was used to measure the height of the Nile river and therefore the amount of taxes to be paid. Of further interest are two of the wall carvings found in the temple. One depicts the various medical instruments and what they were used for, and another is an ancient Egyptian calendar.
+**Edfu** — About 105 kilometres north. The Temple of Horus is the best-preserved temple in Egypt, having spent most of its existence buried in sand. The falcon statues and reliefs depicting the defeat of Seth are impressive.
 
-**Edfu**
+**[Luxor](/africa/egypt/luxor)** — About 200 kilometres north. The Valley of the Kings, Karnak, the Temple of Luxor — be prepared to turn your day trip into two or three days.
 
-Edfu is located 65 miles north of Aswan and has several interesting sites. The Temple of Horus is the main attraction, with its many falcon statues and hieroglyphics depicting the death of the god Seth, enemy of Horus. It is the most preserved temple in Egypt due to its having been buried in sand for most of its existence. You can also visit the nearby ancient settlement of Tell Edfu. Hierakonpolis is another site in the area that contains the earliest painted tomb of Egypt.
-
-**Luxor**
-
-Luxor is perhaps the most visited place in all of Egypt, being the location of the Valley of the Kings. The city is located 81 miles north of Aswan. Apart from the Valley of the Kings and the tomb of King Tut you can visit the Valley of the Queens, the Colossi of Memnon, the Temple of Karnak, the Temple of Luxor, and Luxor Museum. Be prepared to turn your day trip into a two or three day trip!
-
-**Abu Simbel**
-
-You'll have to leave early to make the 143 mile trip south to Abu Simbel. The Temple of Rameses II with its giant, imposing statues is definitely a must-see, as is the Temple of Nefertiti next to it. These temples would have been at the bottom of Lake Nasser were it not for the efforts to move them to higher ground, complete with fake mountain. If you want to get the best effect, drive down the night before and catch the sunrise over Lake Nasser that guilds the temples in gold.
-
-**Contributors**
-August 28, 2009
+**[Abu Simbel](/africa/egypt/abusimbel)** — About 280 kilometres south. Leave early or drive down the night before to catch the sunrise over Lake Nasser gilding the four colossal statues of Ramesses II. The temples were moved block by block, complete with an artificial mountain, to save them from the rising waters of the dam.

@@ -1,5 +1,5 @@
 ---
-title: 'Getting There in Albufeira'
+title: "Getting There"
 type: section
 ---
 
@@ -15,3 +15,7 @@ The nearest airport to Albufeira is in Faro. For visitors that are flying in fro
 
 For travelers coming from North America, their first port of call will likely be Lisbon. From here the passengers can either catch a connecting flight to Faro or travel by surface transport on to Albufeira. By train there are 5 trains daily from the main train station in Lisbon to Albufeira. The journey takes about 3 and 1/2 hours and costs between 18-20 euros. There are frequent buses from Lisbon to Albufeira as well. The journey time is about the same and there is little difference in price. However something you may wish to consider when choosing your method of transport is that the train station in Albufiera is about 4 miles out of town so an extra bus journey or taxi will likely be required. The bus station is quite centrally located.
 
+**Contributors**
+January 19, 2010
+
+January 10, 2010

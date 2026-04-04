@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Marseille"
+title: Getting There
 type: section
 ---
 

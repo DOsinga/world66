@@ -1,14 +1,14 @@
 ---
-title: "Marseille"
+title: Marseille
 type: location
-latitude: 43.296174
-longitude: 5.369953
+latitude: 43.2962
+longitude: 5.3700
 ---
 
-Marseille is the second biggest city of France. The city is located on tthe shores of the Mediterranean coast. It was founded by the Greeks some 2 500 years ago. Nowadays, it is a lively, picturesque and rundown industrial port city. 
+Marseille is France's oldest and second-largest city, founded by Greek sailors from Phocaea around 600 BCE. It sits in a dramatic setting on the Mediterranean coast, built around the Vieux-Port and climbing up the hills behind it. The golden statue of the Virgin Mary atop Notre-Dame de la Garde watches over the whole city from the highest point.
 
-Siights include the Notre-Dame-de-la-Garde, the Cathedral Museum of the Roman Docks, the Puget sculptures at the town hall and 5th-century St. 
+This is not the [Paris](/europe/france/paris) of picture postcards. Marseille is raw, diverse, noisy, and unapologetically itself. The city's population is a mix of North African, Comorian, Armenian, Italian, and old Provençal communities, and that diversity shows up in the food, the street life, and the atmosphere. The Vieux-Port is the heart of the city — fishermen still sell the morning catch on the quay, and the surrounding streets are packed with restaurants serving bouillabaisse, the city's signature fish stew.
 
-"The rise of Marseille as a genuine destination for tourists cannot be ignored and has been the most striking feature of 1998". Although the effects of the World Cup cannot be ignored, these effects were only felt the dates on which matches were played. The increases due to the World Cup only account for 15% of the increased number of visitors in 1998.Setting aside the "World Cup effect", it remains clear that the number of tourists has increased over previous years. Sectors such as cruises, business travel, cultural theme-based holidays and marine holidays are being given priority. 
+Beyond the port, the Panier quarter is the oldest neighbourhood, a tangle of steep streets with colourful shuttered houses and street art. The Cathédrale de la Major, an enormous Romanesque-Byzantine striped cathedral, sits at the edge of the Panier overlooking the sea. Further along the coast, the Corniche Kennedy runs for five kilometres above the water, with views out to the Frioul islands and the Château d'If — the island fortress made famous by Alexandre Dumas.
 
-The image of the city is changing profoundly and, shedding old stereotypes, Marseille now finds itself fashionable in fields such as cinema, theatre, music, sport, fashion, cruises and congresses. Without abandoning anything of its rich history, Marseille is now presenting a new face to the world.As the President of the Marseille Board of Tourism and Congresses Domnique Vlasto wrote "Our objective is to make Marseille the new tourist venue in the Mediterranean." This objective is now being achieved.
+South of the city, the Calanques — dramatic limestone inlets with turquoise water — are one of the most spectacular stretches of coastline in [France](/europe/france). You can hike, kayak, or take a boat trip to reach them.

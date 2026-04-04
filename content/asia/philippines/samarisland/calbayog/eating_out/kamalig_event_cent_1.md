@@ -1,8 +1,8 @@
 ---
-title: 'Kamalig Event Center'
+title: Kamalig Event Center
 type: poi
-address: 'Brgy. Rawis, Calbayog City, Samar'
-phone: '(055) 209 1311'
+address: "Brgy. Rawis, Calbayog City, Samar"
+phone: "(055) 209 1311"
 ---
 
-Casual dining using local Samar ingredients in internationally inspired dishes. The ambiance is relaxed and the staff friendly. Also serves as a venue for events and parties. About 200 pesos per person on average.
+A casual dining spot in Barangay Rawis that uses local ingredients to create dishes inspired by recipes from around the world. The ambiance is relaxed and the staff friendly. Kamalig also hosts events — weddings, birthdays, and parties. Budget around 200 pesos per person for a meal.

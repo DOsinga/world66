@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Aswan"
+title: Eating Out
 type: section
 ---
 

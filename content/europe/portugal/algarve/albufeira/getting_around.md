@@ -1,5 +1,5 @@
 ---
-title: 'Getting Around in Albufeira'
+title: "Getting Around"
 type: section
 ---
 

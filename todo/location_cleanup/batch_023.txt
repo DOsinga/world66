@@ -6,8 +6,6 @@ europe/serbia/kosovoprovince/pristina
 northamerica/canada/quebec/montreal/goingout
 northamerica/unitedstates/maryland/baltimore
 europe/austria/innsbruck
-europe/unitedkingdom/wales/swansea
-asia/india/kerala/kochi
 northamerica/mexico/culiacan
 africa/togo/lome
 australiaandpacific/australia/queensland/cairns
@@ -38,13 +36,11 @@ europe/italy/liguria/italianriviera/paradisegulf
 asia/thailand/ayutthaya
 asia/philippines/zambales
 southamerica/colombia/gorgona
-europe/greece/zakinthos
 europe/italy/veneto/padua
 asia/thailand/chiangmai/toursevents
 africa/gabon/libreville
 asia/turkey/alanya
 europe/switzerland/zermatt
-asia/japan/tokyo/shibuya
 asia/indonesia/irianjaya
 northamerica/unitedstates/california/losangeles/westlosangeles
 europe/spain/navarre

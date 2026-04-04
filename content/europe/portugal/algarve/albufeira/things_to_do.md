@@ -1,38 +1,33 @@
 ---
-title: 'Things to do in Albufeira'
+title: "Things to Do"
 type: section
 ---
 
-Albufeira offers more than just beaches, though those are excellent too. Between its old town, historic churches, and lively strip, there is plenty to fill several days.
-
-**Roman Wall Remains**
-
-A small piece of the original Roman wall still stands on Rua Joaquim Pedro Samora. The massive 1755 earthquake levelled most of it, but what remains is a tangible link to Albufeira's ancient past. The ruins of the old castle are nearby, though little survived the earthquake and a subsequent fire.
-
-**Igreja do Sao Sebastiao**
-
-The outside of this church is modest, but the interior is worth the visit. The gilded altar stands over a 14th century statue of Our Lady of Orada clutching the baby Jesus.
-
-**Capela da Misericordia**
-
-The oldest building still standing in Albufeira. The 15th century Gothic architecture alone makes it worth a stop.
-
-**Igreja da Matriz**
-
-Consecrated in 1800, this church replaced the original destroyed in the 1755 earthquake. Its bell tower, added in 1869 to house a set of eight bells, is the most striking feature.
-
-**Tapete Magico Crafts Workshop**
-
-Tapete Magico sells handwoven tablecloths, carpets, and mats created by physically and mentally disabled artisans who have been taught to work hand looms. Ask for a tour or demonstration -- the owners love showing off their employees' work.
-
-**The Strip**
-
-The Montechorro Strip runs from the Hotel Montechorro down to the sea, lined with cafes, bars, and souvenir shops. It is a definite tourist trap, heavy on Irish pubs and loud music, but worth a wander for the atmosphere. In the evening it transforms into Albufeira's main nightlife zone.
+When it comes to Albufeira, things to do are not a problem. Albufeira is a beach resort town on the southern coast of Portugal in a region known as the Algarve. However, this fact doesn't mean that the only thing to do is lie on the sand all day and soak up the sun. There are several places of interest one can explore in Albufeira.
 
 **Praia dos Barcos**
 
-'The beach of the boats' earns its name from the old fishing boats left on the shore between uses. Beyond the photogenic scene, the beach itself is fine for sunbathing and swimming.
+Translated from Portuguese, this means "the beach of the boats." The beach earned its name due to all the abandoned fishing boats that litter the shore. The owners, who are old fisherman leave them to lie in between uses. The boats make an interesting scene but the beach is also perfect for sunbathing and swimming.
 
-**Praia da Oura**
+**Igreja do Sao Sebastiao**
 
-Golden sand right next to the resort strip, close to shops and cafes. Convenient and popular, but it gets crowded in high season.
+The outside of this church is sweet and charming but what makes the visit worthwhile is the altar. The gilded altar stands over a 14th century statue of Our Lady of Orada who is clutching the baby Jesus. The church makes a wonderful religious and historical site.
+
+**Capela da Misericordia**
+
+Its claim to fame is that it is the oldest building still standing in Albufeira. The architecture, a gothic style from the 15th century, is worth a visit.
+
+**Tapete Magico Crafts Workshop**
+
+This is a must see. Tapete Magico sells handwoven crafts all created by the physically and mentally disabled. Handwoven table cloths, carpets and mats are all for sale from people who have been taught the workings of a hand loom. Those who would like a small tour or demonstration need only ask. The owners love showing off the works of their employees and their project.
+
+**Igreja da Matriz**
+
+This church was consecrated in 1800. It is important for 2 reasons. First, it replaced the original church which was destroyed in the 1755 earthquake. Second, the most striking feature of the church is its bell tower. It was added to the church in 1869 to house a set of 8 bells.
+
+**Praia da Oro**
+
+Translated from Portuguese, it means "golden beach." This portion of the Albufeira beach literally touches the resort that shares its name. Praia da Oro is full of golden sand and is close to many of the shops and cafes. It is the perfect spot for those who desire the perfect beach experience.
+
+**Contributors**
+January 19, 2010

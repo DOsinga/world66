@@ -1,5 +1,4 @@
 asia/srilanka/colombo
-europe/switzerland/basel
 asia/malaysia/kuala_kubu_baru_1
 northamerica/unitedstates/delaware
 australiaandpacific/australia/newsouthwales/byronbay
@@ -19,7 +18,6 @@ asia/turkey/kusadasi
 europe/spain/galicia/cies_islands
 asia/india/maharashtra/mahabaleshwar
 europe/sweden/bors
-europe/netherlands/ijmuiden
 asia/thailand/chaam
 northamerica/canada/nunavut/socialmatters
 northamerica/unitedstates/california/centralcoast/monterey
@@ -41,7 +39,6 @@ asia/turkey/troy
 europe/france/midi/basqueregion/biarritz
 europe/italy/campania/calitri
 asia/pakistan/sargodha/bhagatawala__chak_1/rabwah
-asia/pakistan/azad_kashmir/bagh
 northamerica/unitedstates/florida/tampabayarea/tampa
 europe/spain/centralspain/salamanca
 northamerica/unitedstates/newyorkstate/newyork/citytours

@@ -4,7 +4,6 @@ europe/italy/marche/ascoli_piceno
 europe/romania/brasov
 northamerica/virginislands/stthomas
 europe/belarus/hrodna_grodno
-asia/india/kerala/ottapalam
 africa/morocco/chaouen
 northamerica/unitedstates/missouri/columbia
 europe/unitedkingdom/england/lakedistrict
@@ -12,11 +11,9 @@ europe/germany/hesse/frankfurt
 asia/bangladesh/dhaka
 northamerica/canada/alberta/calgary/sports
 asia/india/westbengal/darjeeling
-europe/portugal/castelo_branco
 asia/india/maharashtra/vengurla
 northamerica/unitedstates/iowa
 europe/germany/berlin/schoneberg
-asia/china/nanjing
 southamerica/peru/ayabaca
 northamerica/unitedstates/mississippi/jackson
 europe/germany/rhinelandpalatinate/trier/barspubs
@@ -27,7 +24,6 @@ europe/france/midi/pyrenees/perpignan
 europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor
 southamerica/brazil/salvador
 asia/india/orissa/bargarh
-northamerica/unitedstates/newyorkstate/syracuse
 asia/taiwan/taichung
 europe/italy/liguria/thecinqueterre
 europe/serbiaandmontenegro/belgrade
@@ -35,7 +31,6 @@ asia/malaysia/kualakububaru
 africa/kenya/nationalparksandreserves/mountkenyanp
 europe/ireland/athlone
 asia/india/jammuandkashmir/bhadarwah
-asia/japan/honshu/nagoya
 europe/macedonia/ohrid
 europe/unitedkingdom/scotland/standrews
 northamerica/unitedstates/maine/portlandmaine

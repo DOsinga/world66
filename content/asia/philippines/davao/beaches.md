@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Davao"
+title: "Beaches"
 type: section
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "When to Go in California"
+title: "When to Go"
 type: section
 ---
 

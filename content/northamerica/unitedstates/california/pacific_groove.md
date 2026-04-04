@@ -1,5 +1,5 @@
 ---
-title: "Pacific Groove"
+title: "Pacific Grove"
 type: location
 ---
 

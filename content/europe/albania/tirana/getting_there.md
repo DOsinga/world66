@@ -3,12 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-POSITION OF AIRPORT : 18MLS/29KMS FROM TIRANA 
+Tirana International Airport Nënë Tereza (TIA) is 17km northwest of the city. Direct flights operate to most major European cities; budget carriers including Wizz Air serve several routes. A dedicated airport bus connects the terminal to the city centre; taxis are also available (agree on the fare before setting out).
 
-ENQUIRIES PHONE NUMBER: (355) 42 23938/62930 
-
-FLIGHT INFORMATION NO : (355) 42 63369/62137 OPEN: 0600-2200 
-
-TERMINALS DECODING : NOT APPLICABLE 
-
-AIRPORT TAX : INCLUDED IN THE TICKET PRICE
+By road, Tirana is connected to Durrës (38km west, around 40 minutes) by a motorway — the main port of entry from Italy by ferry. Buses from Kosovo, North Macedonia, and Montenegro arrive at the main bus terminals on the city outskirts. There is no international rail service; the domestic Albanian rail network is limited.

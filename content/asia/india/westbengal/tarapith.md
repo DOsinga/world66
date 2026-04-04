@@ -5,8 +5,10 @@ latitude: 24.115199
 longitude: 87.796868
 ---
 
-Travel Guide
+Tarapith is a small town in Birbhum district, about 230 km from Kolkata, built around one of the most significant Tantric temples in Bengal. The temple is dedicated to goddess Tara, a fierce Tantric form of the divine mother, and draws pilgrims practising the Shakta tradition from across eastern India.
 
-Tarapith is a small town near Rampurhat in Birbhum district of West Bengal. The Tantric Hindu temple is dedicated to goddess Tara, a fearsome Tantric aspect of the Hindu Divine Mother. Tarapith is also famous for Bamakhepa, known as the 'mad saint', who worshiped in the temple and resided in the cremation grounds as a mendicant and practised and perfected Yoga and the Tantric art. Bama Khepa dedicated his entire life to the worship of mother Tara. His ashram is also located close to the temple.
+The town is also inseparable from Bamakhepa, a 19th-century mystic known as the "mad saint," who lived, worshipped, and meditated in the adjacent cremation grounds (shmashana) and is regarded as a siddha — one who has attained spiritual perfection. The cremation grounds are active; sadhus and Tantric practitioners meditate here, particularly at night. Visiting the shmashana is a disquieting experience that is entirely different from the more conventional temple circuit. Bamakhepa's ashram is near the temple.
 
-Geographically, Tarapith is located at 24.11°N 87.80°E on the banks of the Dwarka River in West Bengal. It is located in the flood plains amidst green paddy fields. The town is located 6 km from Rampurhat Sub-Division in the Birbhum district. Rampurhat is the nearest railway station from Kolkata.
+The town itself is a pilgrimage settlement — roughly 350 lodges of varying quality, a concentration of sweet shops and flower sellers around the temple entrance, and not much else. The atmosphere is intense and very specifically Bengali Hindu rather than generic. Rampurhat, the nearest large town with a railway station, is 6 km away; most trains from Kolkata (Sealdah) take about 3.5 hours to reach Rampurhat.
+
+Nearby places worth combining: Bolpur Shantiniketan (the university town founded by Tagore), Bakreshwar (a thermal spring and temple), and Nalhati.

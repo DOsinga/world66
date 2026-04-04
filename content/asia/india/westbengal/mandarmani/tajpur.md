@@ -1,10 +1,8 @@
 ---
 title: "Tajpur"
 type: location
-latitude: 25.859477
-longitude: 85.661332
+latitude: 21.652673
+longitude: 87.723145
 ---
 
-Travel Guide
-
-4 hours drive from kolkata a virgin sea beach at Purba Midnapur.There is few resort/hotel in this place. Its better to book in advance from kolkata . for details and booking contact 9831417919 / (033) 40078155/28631365
+Tajpur is a quiet beach about 4 hours by road from Kolkata in Purba Midnapur district, close to Mandarmani. It is less developed and less visited than Digha, which is a recommendation in itself. The beach is wide, largely clean, and backed by casuarina trees. A handful of beach resorts and simple guesthouses provide accommodation; booking ahead from Kolkata is advisable on weekends.

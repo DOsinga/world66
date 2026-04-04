@@ -3,52 +3,14 @@ title: "Nightlife and Entertainment in Calcutta"
 type: section
 ---
 
-Calcutta is the capital of West Bengal. Right off the east bank of River Hooghly, Calcutta is the 8th
-largest metropolitan area in the world. Though Calcutta is mostly known
-for its artistic and revolutionary history, there are some great bars
-and nightclubs to be had.
+Calcutta is not a late-night city by the standards of Delhi or Mumbai — most things close by midnight — but there is more going on than visitors expect, particularly around the Park Hotel cluster and in the southern neighbourhoods.
 
-**Someplace Else**
+**The Park Hotel (17 Park Street)** is the centre of Calcutta nightlife. Someplace Else, the basement bar modelled on a British pub, has live music most evenings and is regarded as the best bar in the city. Happy hour runs until 8pm. Tantra, the club in the same hotel, is the city's leading dance venue — loud, dark, and aimed at the under-30 crowd. Roxy (cocktail bar) and Aqua (al-fresco bar) round out the options in the same building.
 
-The Park Hotel is a five star hotel on Park Avenue in Calcutta. The
-Park Hotel is the Mecca of nightlife with four of the best spots for
-your nocturnal activities. One of the hot spots is Someplace Else.
-Modeled after a British style pub, Someplace Else is a bar that is
-friendly to western visitors. With a mix of music offered from the
-DJ, you will hear lots of sounds straight from India to the United
-States. The pub is regarded as the best in town by many reviews and a
-must for any music lovers. Happy hour ends at about 8pm so arrive early
-for good deals on drinks.
+**Live music and arts:** The Academy of Fine Arts on Cathedral Road has a large hall that hosts traditional music, dance performances, and theatre. What's on is listed in the local newspapers and the Cal Calling listings. Kala Mandir and Rabindra Sadan also host regular classical performances. Bengalis take their arts seriously and there is usually something worth attending.
 
-**Tantra**
+**Film:** Nandan on AJC Bose Road is the state-subsidised film centre with a good programme of Bengali, Hindi, and international cinema. Star Theatre and other venues show Bengali films.
 
-Another of Park Hotel’s nightlife venues is Tantra. Tantra is an
-international dance club that is one of the city’s top nightclubs.
-Mostly aimed at the under 30 crowd, Tantra has loud pumping music and a
-pristine dance floor. The atmosphere is buzzing with excitement till
-you hit the relaxing area off the other side of the bar. There, long
-flowing curtains and big cushions greet you to bring your heart rate
-down. This wouldn’t be the best place for conversation or chilling with
-friends but you’ll definitely have a great time if you’re looking for
-dancing and drinks.
+**Pubs and bars:** Beyond the Park Hotel, Blue Fox on Park Street is an old-school option. The rooftop bars in some of the newer hotels (ITC Sonar, the Oberoi) serve cocktails with city views but at high prices.
 
-**Roxy and Aqua**
-
-Park Hotel is also home to Roxy (a trendy cocktail bar) and Aqua (al
-fresco dining and bar). Both are open to the public as late night
-hangouts for friends.
-
-**Fine Arts**
-
-If bars and clubs aren’t exactly your scene you may be interested in
-the variety of traditional live music that Calcutta offers. The Academy
-of Fine Arts is an art gallery that also offers entertainment from time
-to time. They have a large hall that is a venue for many traditional
-musicians, dancers and plays. To find out what is being offered in the
-area look at the local newspapers and Cal Calling.
-
-Calcutta is home to a wide variety of nightclubs, bars, pubs, discos
-and event venues. From high paced dance clubs to traditional classical
-music and everything in between, Calcutta is a mix of modern and
-traditional Indian culture. You’ll be sure to find some kind of
-excitement in the area.
+Calcutta's best evening activity is often simply walking — along the Maidan at dusk, down Park Street when the restaurants are filling up, or crossing the Howrah Bridge on foot to watch the city lights on the river.

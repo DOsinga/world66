@@ -1,28 +1,14 @@
 ---
 title: "Getting There"
 type: section
-type: "By Road"
 ---
 
-Access
+Digha is 187 km southwest of Kolkata in East Midnapore district.
 
-Air :
-[Calcutta](/asia/india/calcutta) is the nearest airport which is about 210 kms away from Digha.
+**By train:** The Tamralipta Express and the Digha Kandari Express run from Howrah directly to Digha, taking about 3.5–4 hours. The station is in Old Digha, close to most accommodation.
 
-Rail: Though Contai Road (37 kms) is the nearest railway station for Digha but
-Kharagpur ( km from Digha & km from Howrah) and
-Mechheda ( km from Digha and km from Howrah) on the South-Eastern Railway are the most convenient railheads for Digha from where buses are available which takes 4 hours.
+**By bus:** CSTC state buses run from Kolkata's Esplanade bus stand to Digha throughout the day. Private buses also use this route; the journey takes around 4–5 hours depending on Kolkata traffic.
 
-Road: Calcutta-Howrah-Mechheda-Norghat-Contai-Ramnagar-Digha: 185 km.
+**By road:** Take NH116 (the Kolaghat road) out of Kolkata heading southwest, then follow signs toward Digha. The drive takes about 4 hours by car.
 
-Train no. 2867A from Howrah to Digha every Sunday at 7-55AM
-
-### [AJ](/asia/india/westbengal/digha/getting_there/aj)
-
-by bus
-
-type: By Road
-
-
-
-[[rate it]](/asia/india/westbengal/digha/getting_there/aj)
+The nearest airport is Kolkata (CCU), approximately 187 km away.

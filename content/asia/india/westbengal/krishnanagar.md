@@ -5,6 +5,8 @@ latitude: 23.405848
 longitude: 88.495893
 ---
 
-Travel Guide
+Krishnanagar is a district headquarters in Nadia, about 2.5 hours by train from Kolkata's Sealdah station. It is named after Raja Krishnachandra, the 18th-century king whose palace still stands in the town. The palace has historical significance but is not in great shape; it is worth a look.
 
-The place is only 2.5hr away from Kolkata. A very good place to visit for a single day. Someone can start journey from Sialdah at morning by train and visit some attractive places in Krishnanagar, and come back at night. The name Krishnanagar came from the name of the king Raja Krishnachandra. You can visit his palace. It is having lots of historical values. You can go to the bank of Jalangi river. The most attractive place in Krishnanagar is the Ghurni. Ghurni is world famous for its clay-art. Without going you can't imagine how much beautiful, attractive, colourful models or expressions can be made using clay. Persons who are involved with this work known as Patra. They sell their creations also. For transportation in side the city you can depend on the Cycle Rikswas(Some time you need to bargain with them). You can spend 2-3 hours in the Ghurni itself.
+The real reason to visit is Ghurni, a neighbourhood on the edge of town that has been a centre of clay sculpture for at least three centuries. The Patras — the families who carry on the craft — make astonishingly detailed and painted figures of gods, historical characters, and everyday Bengali life from the local clay. Several studios are open to visitors and sell finished pieces. The figures range from small affordable pieces to large commissions. Walking through Ghurni's lanes while craftsmen work is a genuinely interesting hour or two.
+
+The bank of the Jalangi River is pleasant in the evening. Krishnanagar makes a good day trip from Kolkata or an overnight stop on the way to or from Nabadwip, which is just 15 km away.

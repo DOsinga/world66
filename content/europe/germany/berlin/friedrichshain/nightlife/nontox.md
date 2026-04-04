@@ -1,27 +1,10 @@
 ---
 title: "Non Tox"
 type: poi
-address: "Mühlenstr. 12"
-admission: "7-15 DM"
-connections: "U+S Warschauer Str"
-opening_hours: "We+Fr from 10pm, Sa from 11pm, Su from 1pm"
-type: "Disco &Dancing"
-latitude: 52.566867
-longitude: 13.40511
+address: "Mühlenstraße 12, Friedrichshain"
+opening_hours: "Wed+Fri from 10pm, Sat from 11pm, Sun from 1pm"
+latitude: 52.501820
+longitude: 13.442360
 ---
 
-Alternative music, underground lives in style with gothic, dark electronics and other not quite so dismal sounds. Meanwhile in this neighbourhood one disco after another with a trendy concept is going bust.
-
-type: Disco &Dancing
-
-
-
-
-
-address: Mühlenstr. 12
-
-connections: U+S Warschauer Str
-
-openings: We+Fr from 10pm, Sa from 11pm, Su from 1pm
-
-admission: 7-15 DM
+Alternative club along the East Side Gallery strip, running gothic, dark electronics, and underground music. One of the few Friedrichshain venues that resisted the generic techno template.

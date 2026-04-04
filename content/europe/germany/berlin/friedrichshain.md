@@ -1,8 +1,8 @@
 ---
 title: "Friedrichshain"
 type: location
-latitude: 51.601214
-longitude: 14.571887
+latitude: 52.512290
+longitude: 13.454520
 ---
 
 In the old working-class district south of Karl-Marx-Allee you can discover a nice neighbourhood. Lots of students have moved in here since 1991 or simply transferred over the Spree from Kreuzberg because rents in the old houses were quite low. If you like places with rather austere charm where style isn't so important and prices are rock bottom, Friedrichshain is just the right district for you. 

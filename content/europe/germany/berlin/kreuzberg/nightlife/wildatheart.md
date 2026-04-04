@@ -1,14 +1,11 @@
 ---
 title: "Wild at Heart"
 type: poi
-address: "WienerStr 20"
-connections: "U Görlitzer Bahnhof"
-phone: "+49 (0)30 - 611 70 10"
-type: "Dancing"
-latitude: 45.688441
-longitude: 13.789777
+address: "Wiener Straße 20, Kreuzberg"
+phone: "+49 30 6117010"
+opening_hours: "Daily from 8pm, open end"
+latitude: 52.498460
+longitude: 13.430680
 ---
 
-This club is the place to get rid of excess energy at its parties, concerts or with a magnificent frozen margarita. Or vice versa, daily from 8pm, open end
-
-type: Dancing
+A Kreuzberg rock and punk bar with live concerts, parties, and a frozen margarita that earns its reputation. High energy, loud, and unapologetically messy — exactly what Wiener Straße nightlife should be.

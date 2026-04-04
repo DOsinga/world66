@@ -1,22 +1,10 @@
 ---
 title: "Die Busche"
 type: poi
-address: "Mühlenstr.11-12"
-connections: "U+S Warschauer Str."
-opening_hours: "We, Fr+Sa from early evening"
-type: "Disco &Dancing"
-latitude: 51.333294
-longitude: 12.55194
+address: "Mühlenstraße 11-12, Friedrichshain"
+opening_hours: "Wed, Fri-Sat from early evening"
+latitude: 52.501820
+longitude: 13.442360
 ---
 
-Gay meeting place, already famous in communist times for it's exuberant evenings it atrracts a huge crowd of young homosexuals from Berlin's outskirts and Brandenburg, often dressed in style, bad tempered lesbians etc...
-
-type: Disco &Dancing
-
-
-
-address: Mühlenstr.11-12
-
-connections: U+S Warschauer Str.
-
-openings: We, Fr+Sa from early evening
+One of Berlin's oldest gay clubs, dating back to GDR times when it operated as a rare sanctioned space for gay Berliners. Still attracts a mixed crowd from across the city and beyond. Wednesday, Friday, and Saturday nights.

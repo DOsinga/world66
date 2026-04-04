@@ -1,40 +1,11 @@
 ---
 title: "Sandsation"
 type: poi
-accessibility: "Friday and Saturday 10 a.m. to midnight; Sunday to Thursday 10 a.m. to 10 p.m."
-address: "Berlin, near the Hauptbahnhof"
+address: "Near Hauptbahnhof, Berlin"
 email: "info@sandsation.de"
-type: "Going to the Beach"
 url: "www.sandsation.de"
+latitude: 52.525100
+longitude: 13.369200
 ---
 
-For about 4 years now "sand-fanatics" from all over the world come to Berlin. What for? Near the newly inaugurated Hauptbahnhof the International Sandsculpture Festival "*Sandsation*" opens its gates every summer to present carvers and their works from all over the world.
-
-The artists give their imagination full scope. There are pyramids, animals, indian godesses and children playing. Sometimes they look like having directly arisen from a Dali painting. Some of the sand artworks are several meters high and each has its own allure.
-And if you have enough of strolling around, sit down in one of the canvas chairs in the party area or get a cocktail at one of the bars. If it wasn't for the sometimes rainy Berlin weather you could feel just like in a Baccardi commercial! What a pity that the sculptures just live for a summer...
-
-**Entrance fee**:
-6 Euro
-
-**Location**:
-A short walk from the Hauptbahnhof (Lehrter Bahnhof )
-www.sandsation.com/news_en.php?i d=15
-- Map:
-www.sandsation.com/location_en.php
-
-**Contributors**
-June 17, 2006
-
-June 20, 2006
-
-type: Going to the Beach
-
-
-
-accessibility: Friday and Saturday 10 a.m. to midnight; Sunday to Thursday 10 a.m. to 10 p.m.
-
-url: [www.sandsation.de](http://www.sandsation.de)
-
-address: Berlin, near the Hauptbahnhof
-
-email: info@sandsation.de
+Every summer, sand sculptors from around the world build an outdoor gallery near the Hauptbahnhof — pyramids, animals, abstract forms, some several metres tall. It's a surprisingly engaging spectacle. There are bars and canvas chairs if you want to sit with a drink and watch the crowds go by. The sculptures last only through the season.

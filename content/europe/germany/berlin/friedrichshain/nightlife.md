@@ -1,10 +1,6 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Nightlife"
 type: section
 ---
 
-## Categories
-
-[Bars & Cafes](/europe/germany/berlin/friedrichshain/nightlife?subsection=Bars%20%26%20Cafes)
-
-[Disco &Dancing](/europe/germany/berlin/friedrichshain/nightlife?subsection=Disco%20%26Dancing)
+Friedrichshain has been one of Berlin's clubbing centres since the early 1990s. The strip along Mühlenstraße near the East Side Gallery and Warschauer Brücke is where the major clubs concentrate — including Berghain (Warschauer Straße), the most famous techno club in the world, with its notoriously selective door. The Simon-Dach-Straße area is for bar-hopping; the Revaler Straße club complex is where things get properly industrial.

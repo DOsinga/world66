@@ -52,7 +52,3 @@ gaze at the stars. If you do spend the night outdoors, avoid hiking
 without a guide too far from your lodge or campsite, as the mountain
 trails are vast and difficult to see at night.
 
-**Contributors**
-January 21, 2010
-
-January 26, 2010

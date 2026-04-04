@@ -1,57 +1,12 @@
 ---
-title: "Things to do in Hiawassee GA"
+title: "Things to Do in Hiawassee"
 type: section
 ---
 
-Just 1 hour from Atlanta is **Hiawassee, GA where things to do**
-include numerous outdoor activities, wine tastings and spa retreats.
-Known for its vibrantly colored landscapes which offer a stark contrast
-from its urban neighbor, visitors can explore the finest outdoor
-attractions the area has to offer while still being in reach of plenty
-of diverse entertainment to stay busy throughout a trip to the city.
+Hiawassee is primarily an outdoor destination. The town sits on Lake Chatuge in the Blue Ridge Mountains, about two hours north of Atlanta, surrounded by the Chattahoochee National Forest.
 
-**Outdoor Sports in Hiawassee**
+Whitewater rafting is popular, with outfitters running trips on the Hiawassee, Toccoa, Nantahala, and Chattooga rivers at varying difficulty levels. The Appalachian Trail passes nearby; hiking ranges from easy waterfall walks to strenuous ridge hikes. Fly fishing for trout is excellent year-round throughout the mountain rivers. Boating and kayaking on Lake Chatuge is straightforward — various rentals are available.
 
-Whitewater rafting is a growing attraction in the area with many
-outfitters offering tours on the nearby rivers. There are several
-adventure levels to choose from to ensure that the trip is suitable for
-all members of your party.
+The Georgia Mountain Fairgrounds hosts the annual Georgia Mountain Fair in August and a fall festival in October. Pioneer Village on the fairgrounds preserves historic mountain buildings. The Hamilton Rhododendron Garden, also on the fairgrounds, is spectacular in late spring with over 3,000 plants including a rare yellow azalea.
 
-Fly fishing is a popular sport in the area with locals heading to the
-Hiawassee River, as well as the neighboring Toccoa, Tallulah, Nantahala
-and Chatooga Rivers to fish for trout year round.
-
-Boats provide another great way to explore the area. There are numerous
-companies renting every kind of boat to visitors, so no need to bring
-your own along. Whether you want to rent a ski boat, pontoon boat, or
-fishing boat, there are numerous companies in Hiawassee ready to help
-you.
-
-Hiking is a really popular activity here and visitors can walk a stretch
-of the Appalachian Trail and choose levels of difficulty ranging from
-easy to strenuous.
-
-**Other Things to Do in Hiawassee**
-
-If you are not an outdoor enthusiast or the weather is not nice, there
-are many indoor activities to keep you busy in Hiawassee. Check out some
-of the local art galleries downtown to see the best in local artists
-and artisans, or spend the afternoon shopping for antiques in any of the
-number of local antique malls and shops.
-
-For a more relaxing day, visit one of the areas spas for a massage, body
-treatment or to just be pampered. Afterward, stop by one of the areas
-many wineries in this area that is fast becoming the "wine belt" of
-Georgia.
-
-Hiawassee is a great place to visit with many activities to keep you
-busy throughout your stay. Situated so close to Atlanta, it is a great
-place for a day trip or weekend adventure to restore your senses and
-spend a little time outside of the hustle and bustle of city life.
-
-**Contributors**
-January 25, 2010
-
-January 26, 2010
-
-January 29, 2010
+Brasstown Bald, the highest point in Georgia at 4,784 feet, is a worthwhile half-day excursion about 30 minutes from Hiawassee. A visitor center at the summit covers the area's natural history; on clear days you can see four states.

@@ -25,5 +25,3 @@ Located in Helen Georgia, the Troll Tavern offers a variety of dishes including 
 
 Both of these bars are located in the Ridges Resort and Club at Lake Chatuge. In a setting where the decor matches the name, The Moosehead Lounge is open for cocktails and snacks 7 nights a week and offers a cozy lodge where family and friends can mingle over drinks. If your plan is dancing, then Mermaids is the place to go. Mermaids hosts a full service bar, current top 40 music and plenty of space to dance. There are varying schedules for the seasons, but generally Mermaids is open every Friday and Saturday from 9:00 p.m. to 2:00 a.m.
 
-**Contributors**
-February 02, 2010

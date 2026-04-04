@@ -5,11 +5,6 @@ latitude: 34.075596
 longitude: -84.294596
 ---
 
-Travel Guide
+Alpharetta is an affluent suburb of Atlanta in north Fulton County, about 26 miles north of downtown. It's a significant tech hub — dozens of major technology companies have offices here — and has developed a pleasant, walkable town center around Alpharetta City Center in recent years.
 
-**Alpharetta** is a city in north Fulton County, Georgia, United States. According to a 2008 estimate, Alpharetta's population is 65,168.
-
-Selected for its location next to a spring, it began as a
-campground, originally known as New Prospect Camp Ground until late
-1858. Officially chartered on December 11 of that year, Alpharetta (supposedly Greek for "first town") served as the county seat of Milton County until the end of 1931 when Milton merged with Fulton County to avoid bankruptcy during the Great Depression.
-Despite its poor start, and being one of the farthest-out large suburbs in metro Atlanta, it now features several mid-rise buildings, which are home to many high-tech companies including Hewlett-Packard, UPS Supply Chain Solutions, RedPrairie, Radiant Systems, Infor, Lucent, Nortel, IBM, Sun Microsystems, AT&T, Siemens, Verizon, Verizon Wireless, Alltel, E-Trade, Hansgrohe, General Electric, and ChoicePoint.
+For visitors, Alpharetta is primarily a base for exploring north Atlanta or a stop on the way to the north Georgia mountains. The town center has good restaurants and a farmers market on Saturdays. The Ameris Bank Amphitheatre is a major outdoor concert venue that draws big-name acts throughout the summer.

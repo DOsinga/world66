@@ -49,7 +49,3 @@ jewelry, leggings, belts, ties, backpacks, hats and scarves. The shoes
 range from casual to dress, from camping to clogs and from boots to high
 heels. Ask about special orders for special-width feet.
 
-**Contributors**
-January 15, 2010
-
-January 19, 2010

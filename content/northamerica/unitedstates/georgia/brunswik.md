@@ -1,4 +1,0 @@
----
-title: "Brunswik"
-type: location
----

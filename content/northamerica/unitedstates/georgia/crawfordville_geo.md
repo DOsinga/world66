@@ -5,8 +5,4 @@ latitude: 33.553994
 longitude: -82.89619
 ---
 
-Travel Guide
-
-Crawfordville is the county seat of Taliaferro County, one of the smallest and poorest counties in Georgia. Several movies have been made in this picturesque small town, including "Coward of the County," starring Kenny Rogers.
-
-Crawfordville was the home of Alexender H. Stephens, Vice President of the Confederte States of America, 1861-1865. Stephens' home, Liberty Hall, is preserved as a part of the Alexander H. Stephens State Historic Park and is open for tours.
+Crawfordville is the county seat of Taliaferro County, one of the smallest and most rural counties in Georgia. The main draw for visitors is Alexander H. Stephens State Historic Park, which preserves Liberty Hall, the home of Alexander H. Stephens — Vice President of the Confederate States of America (1861–1865). Stephens' home is open for tours, and the park includes a small Confederate museum.

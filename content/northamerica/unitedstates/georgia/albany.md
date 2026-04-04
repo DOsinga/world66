@@ -1,11 +1,10 @@
 ---
 title: "Albany"
 type: location
-latitude: 42.651167
-longitude: -73.754968
+latitude: 31.578825
+longitude: -84.15574
 ---
 
-Albany, located just 40 miles from Interstate 75, is the state's sixth largest city. Albany is known as Georgia's "Good Life City!" which by itself is a reason to come and discover this place.
+Albany is the largest city in southwest Georgia and the seat of Dougherty County. It sits on the Flint River about 170 miles south of Atlanta. Not a common tourist destination, but it has a surprisingly strong arts and cultural scene for a mid-size Southern city.
 
-
- Albany has a rich Cultural life. The Carnegie library located in the centre is the location of the city's Arts Council and gives info on everything that's going on. The building itself is impressive and a historci landmark.
+The Albany Civil Rights Institute on Whitney Avenue tells the story of the Albany Movement, one of the early campaigns of the Civil Rights era — the city was a significant battleground in the early 1960s. The Albany Museum of Art holds one of the best collections of traditional African art in the Southeast. The Flint RiverQuarium, a freshwater aquarium on the Flint River, is popular with families.

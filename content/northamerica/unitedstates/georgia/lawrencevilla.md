@@ -1,4 +1,0 @@
----
-title: "Lawrencevilla"
-type: location
----

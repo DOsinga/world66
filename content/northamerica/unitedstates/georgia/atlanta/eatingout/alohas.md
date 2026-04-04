@@ -6,10 +6,4 @@ latitude: 33.827735
 longitude: -84.495478
 ---
 
-The best pad thai and one of the best Thai places in town. Try the Penang, the Pad Thai, the spring rolls, and the crab rangoon.
-
-**Danny Aloha's** Magic Wings & **Aloha** Spices
-
-3100 Highland Pkwy, Suite 8
-
-Smyrna, GA
+One of the best Thai places in the Atlanta area. Try the Penang curry, the pad Thai, and the spring rolls.

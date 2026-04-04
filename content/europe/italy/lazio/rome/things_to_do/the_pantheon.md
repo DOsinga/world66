@@ -1,20 +1,15 @@
 ---
 title: "The Pantheon"
 type: poi
-address: "Historic Center of Rome - Piazza del Rotonda"
+category: "Architecture"
+address: "Piazza della Rotonda"
 phone: "+39 06 68300230"
-type: "Other"
+opening_hours: "Mon–Sat 9:00am–7:30pm, Sun 9:00am–6:00pm"
+admission: "€5"
+latitude: 41.898616
+longitude: 12.476833
 ---
 
-The 141 foot dome is the major attraction here and until 1436, it was the largest dome in the world. At more than 1,800 years old, the Pantheon offers a look back into the great Roman Empire. The Pantheon is located in the historic center of Rome – Piazza del Rotonda, surrounded by numerous cafes, street vendors, and bustle.
+The Pantheon is the best-preserved building from ancient Rome — nearly 2,000 years old and still structurally intact. The unreinforced concrete dome, 43m in diameter with an 8.9m oculus open to the sky, was the largest in the world until the 15th century. Emperor Hadrian rebuilt it around 125 AD, keeping the original inscription honoring Agrippa. The interior proportions are perfect: the height from floor to oculus equals the diameter. Raphael and two Italian kings are buried here.
 
-**Contributors**
-May 22, 2008
-
-type: Other
-
-
-
-tel: +39 06 68300230
-
-address: Historic Center of Rome - Piazza del Rotonda
+Free on the first Sunday of the month. The square outside, Piazza della Rotonda, is perpetually busy with cafes and street vendors — have an espresso at one of them, but don't pay tourist prices for a sit-down meal here.

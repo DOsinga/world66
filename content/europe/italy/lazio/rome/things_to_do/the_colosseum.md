@@ -1,28 +1,16 @@
 ---
 title: "The Colosseum"
 type: poi
-address: "Piazza del Colosseo Rome"
-email: "rpv@ntl.sympatico.ca"
+category: "Architecture"
+address: "Piazza del Colosseo, 1"
 phone: "+39 06 39967700"
-type: "Other"
-url: "www.pierreci.it"
-latitude: 41.890234
-longitude: 12.491164
+url: "www.colosseo.it"
+opening_hours: "Daily from 9:00am, closing time varies by season (approx 4:30pm in winter, 7:15pm in summer)"
+admission: "€16 (includes Roman Forum and Palatine Hill, valid 2 days)"
+latitude: 41.889808
+longitude: 12.488831
 ---
 
-The Colosseum attracts more visitors than any other historic structure in Rome. Tough to miss, the Colosseum reaches 159 feet into the sky and it measures a massive 616 feet by 511 feet. This ancient amphitheater was the setting for public entertainment such as the infamous (and cruel) gladiator combat spectacles as well as other forms of “entertainment.” The Colosseum, which could accommodate 55,000 spectators pouring in from more than eight different entrances, features Corinthian, Doris, and Ionic styles – the ancient world’s classical styles.
+The Colosseum is the defining image of Rome — an elliptical amphitheatre 188m long and 50m high, built in just ten years following 70 AD and capable of holding 50,000 spectators. Paid for with loot from the Jewish Wars, it hosted gladiatorial contests, wild animal hunts, and public spectacles for over four centuries. The arena floor is long gone, exposing the hypogeum — the underground network of tunnels and cages where animals and fighters waited.
 
-**Contributors**
-May 22, 2008
-
-type: Other
-
-
-
-tel: +39 06 39967700
-
-url: [www.pierreci.it](http://www.pierreci.it)
-
-address: Piazza del Colosseo Rome
-
-email: rpv@ntl.sympatico.ca
+Book tickets online in advance: queues at the door can be brutal, especially in summer. The combined ticket also covers the Roman Forum and Palatine Hill next door, worth using on the same day or the next.

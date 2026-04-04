@@ -1,20 +1,11 @@
 ---
-title: "Museum of Roman Civilization"
+title: "Museum of Roman Civilization (EUR)"
 type: poi
-address: "The City of Esposizione Universale Roma (EUR)"
+category: "Museum"
+address: "Piazza Giovanni Agnelli, 10 (EUR district)"
 phone: "+39 06 5926041"
-type: "Other"
+latitude: 41.832082
+longitude: 12.478099
 ---
 
-This museum is a little out of the way, but it is a must see for all visitors to Rome. Located in the modern city Esposizione Universale Roma (or EUR), the Museum of Roman Civilization (Museo della Civilta Romana) is considered one of Rome’s most unique and interesting museums. The building itself is divided into 59 sections – each an illustration of the history of Roman civilization. EUR is located roughly 4.3 miles south the historic city center.
-
-**Contributors**
-May 22, 2008
-
-type: Other
-
-
-
-tel: +39 06 5926041
-
-address: The City of Esposizione Universale Roma (EUR)
+An unusual museum in Rome's EUR district, 6km south of the historic centre. The building is divided into 59 sections tracing Roman civilization from origins to the late empire, using scale models, casts, and reproductions. The centrepiece is a 1:250 scale model of Rome as it was in the 4th century AD — extraordinarily detailed and genuinely impressive. Temporarily closed for renovation as of 2023; check before visiting. Reachable by Metro B to EUR Fermi.

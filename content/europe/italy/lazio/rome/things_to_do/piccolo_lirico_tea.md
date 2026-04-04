@@ -1,24 +1,13 @@
 ---
-title: "Trajan’s Market"
+title: "Trajan's Markets"
 type: poi
-address: "Via Quattro Novembre 144"
-phone: "+39 06 67900487"
-type: "Other"
-latitude: 45.045773
-longitude: 9.686939
+category: "Architecture"
+address: "Via Quattro Novembre, 94"
+phone: "+39 06 06608"
+opening_hours: "Tue–Sun 9:30am–7:30pm"
+admission: "€15 (includes Trajan's Column viewpoint)"
+latitude: 41.895729
+longitude: 12.485669
 ---
 
-Considered an excellent example of urban Roman architecture. Built between 107 and 110 A.D., the market consists of warehouses, offices, and shops. Goods such as wine, oil, vegetables, fruits, and other groceries were sold here. The market also contains two spacious halls that were used for educational seminars, speeches, and concerts. Location: Via Quattro Novembre 144 on the Via de Fori Imperali at the opposite end of the Colosseum.
-
-**Contributors**
-May 22, 2008
-
-type: Other
-
-
-
-
-
-tel: +39 06 67900487
-
-address: Via Quattro Novembre 144
+The best-preserved example of ancient Roman commercial architecture, built between 107 and 110 AD alongside Trajan's Forum. A multi-storey complex of over 150 shops, offices, and market halls built into the slope of the Quirinal Hill. The modern Museo dei Fori Imperiali inside brings the Imperial Fora to life with models and artefacts. Located on Via dei Fori Imperiali between Piazza Venezia and the Colosseum.

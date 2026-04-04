@@ -1,20 +1,13 @@
 ---
-title: "Journey Through the Baths of Caracalla"
+title: "Baths of Caracalla"
 type: poi
-address: "Southeast of ancient Rome’s center at Viale delle Terme di Caracalla"
+category: "Architecture"
+address: "Viale delle Terme di Caracalla, 52"
 phone: "+39 06 39967700"
-type: "Other"
+opening_hours: "Mon 9:00am–2:00pm; Tue–Sun 9:00am–1hr before sunset"
+admission: "€8"
+latitude: 41.879219
+longitude: 12.492432
 ---
 
-Built between 212 and 219 A.D., the Baths of Caracalla (more than 50 baths) was the second largest baths complex in ancient Rome. While the complex was originally decorated with elaborate mosaics and statues, only several still remain. However, at 27 acres and room for 1,700 people, the ruins are still well worth the visit as it is quite a magnificent site. The Baths of Caracalla is located just southeast of ancient Rome’s center at Viale delle Terme di Caracalla. +39 06 39967700
-
-**Contributors**
-May 22, 2008
-
-type: Other
-
-
-
-tel: +39 06 39967700
-
-address: Southeast of ancient Rome’s center at Viale delle Terme di Caracalla
+The second-largest bathing complex in ancient Rome, built between 212 and 217 AD under Emperor Caracalla. The ruins cover 27 acres and once accommodated 1,600 bathers simultaneously, with hot rooms, cold plunges, libraries, gardens, and elaborate mosaic floors. Much of the decorative programme is gone, but the scale remains overwhelming. Worth seeing for anyone interested in Roman engineering. The Rome Opera company performs outdoor performances here in summer.

@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-Rome, pasta, wine, pizza. Here is no need to search for restaurants. Everywhere you will find small and cheap but nice **trattorie**, **osterie** and **ristoranti**. Prices, even in the centre, are reasonable and the quality remains of a fair standard. Many nice places are to be found in the Centro Storico, along Via Cavour and around Stazione Termini. Similarly, you can eat cheaply in the Borgo district around the Vatican.
+Rome's food is straightforward, ingredient-driven, and not particularly varied — but when it's good, it's very good. The Roman classics are cacio e pepe (pasta with pecorino and black pepper), carbonara (egg, guanciale, pecorino), amatriciana (tomato, guanciale, pecorino), and coda alla vaccinara (braised oxtail). Pizza here is thin and crisp, not Neapolitan. Artichokes are a local obsession in spring — carciofi alla giudia (deep-fried whole) or alla romana (braised with herbs).
 
-  **Trastevere** is Rome’s traditional restaurant ghetto – touristy now, but still the home of some fine and reasonably priced places. **Testaccio** is also a popular evening place with good selection of restaurants and pizzerias. Of course there is a huge selection of both Italian and international restaurants, but we live for the "god in italy" version and warmly recommend the local.
+Avoid restaurants immediately adjacent to major tourist sites — the Pantheon, the Colosseum, and the Vatican are surrounded by mediocre food at inflated prices. Walk two streets away in any direction and prices drop. **Trastevere** and **Testaccio** have the best concentration of genuine trattorias, though Trastevere has become increasingly touristy. **Campo de' Fiori** and the streets around it are lively in the evening.
+
+Lunch is typically 1–3pm; dinner from 8pm, with most Romans eating at 9pm or later. Many places close one day a week (often Sunday or Monday) and for several weeks in August.

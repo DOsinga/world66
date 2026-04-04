@@ -1,17 +1,10 @@
 ---
-title: "Bioparco and Villa Borghese"
+title: "Villa Borghese"
 type: poi
-type: "Other"
-url: "ww.bioparco.it"
+category: "Neighbourhood"
+url: "www.bioparco.it"
+latitude: 41.914050
+longitude: 12.491584
 ---
 
-If you want to take a break from all of the museums, you can take a stroll through Villa Borghese or visit the Bioparco – Rome Zoo, which sits in the center of the park. Villa Borghese is the largest public park in Rome and it also houses several museums, although there is plenty to do besides museum hopping here. The 148-acre park also has fountains, lakes, temples, and statues to explore.
-
-**Contributors**
-May 22, 2008
-
-type: Other
-
-
-
-url: [ww.bioparco.it](http://ww.bioparco.it)
+Rome's largest public park, 80 hectares of gardens, fountains, artificial lakes, and statues on the hill above the historic centre. The main draw is the Borghese Gallery (advance booking required), but the park itself is pleasant for a walk or picnic away from the marble and cobblestones. The Bioparco zoo sits in the northeast corner of the park. Reachable via Metro A to Spagna (walk up the steps) or Flaminio.

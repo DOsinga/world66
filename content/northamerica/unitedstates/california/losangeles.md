@@ -5,22 +5,12 @@ latitude: 34.053691
 longitude: -118.242766
 ---
 
-Los Angeles is a city for everything; one thinks of New York for big business, St. Paul or Minneapolis for wholesome living and Tampa for retiring. 
+Los Angeles is the most misread city in America. People arrive expecting beaches and celebrities and leave having barely grazed the surface of a place that is in fact enormous, ethnically complex, architecturally surprising, and—if you put in the work—genuinely thrilling. It is not a city you can understand from a tour bus. It rewards curiosity and a willingness to drive.
 
-L.A. has two of the best Universities in the nation (UCLA and USC), a multi-billion dollar job and business market, the world's entertainment industry and homes within minutes of scenic beaches, celebrities, corporate centre's such as Fox Hills, Century City and of course Downtown L.A. 
+The best version of LA is found in its neighborhoods: the Korean BBQ joints of Koreatown that stay packed until 2am, the Japanese gardens and galleries of Little Tokyo, the taco trucks on Whittier Boulevard in East LA, the brutalist architecture of downtown's Civic Center, the mid-century modernist houses tucked into the Hollywood Hills. Each feels like a separate city with its own rhythms and rules. The freeways connect them but don't define them.
 
-Naturally the wide variety of views featuring everything from any kind of neighborhood imaginable to beaches, mountains, snowing hills, forests, vast parks, deserts, industrial portions of El Segundo or the city of Vernon make for fantastic motion-picture production opportunities. 
+The coastline is spectacular and largely free. From Malibu down through Santa Monica, Venice, Manhattan Beach, and Hermosa, the beaches are wide, public, and served by a bike path that runs for 22 miles along the water. The light here in the late afternoon — the famous California light — is genuinely different from anywhere else, and it explains why the film industry ended up here in the first place.
 
-Thinking of all of this, it is not difficult to understand why Los Angeles is a national monument itself, always a landmark in the making. 
+Culture runs deeper than the entertainment industry mythology suggests. The Getty Center alone justifies a trip, and the LA County Museum of Art, the Hammer, MOCA, and the Broad together make up one of the more serious concentrations of contemporary art in the world. Griffith Observatory, free to enter, sits above the city in Griffith Park and offers views that stretch on clear days all the way to Catalina Island.
 
-Los Angeles bustles by day and sparkles by night. Get a great view of the show from the top of one of downtown's high-rise hotels. Head to Olvera Street, where the city's roots as a Mexican outpost come alive in colorful shops and restaurants. El Pueblo de Los Angeles Historic Monument encompasses 27 buildings of historical or architectural significance. Tour the 1818 Avila Adobe, the city's oldest home. 
-
-A must-see for both its art and architecture is the Museum of Contemporary Art, a building as stunning as the art exhibited inside. Other architectural showpieces are the Italianate Renaissance-style Biltmore Hotel, facing renewed Pershing Square, and the Beaux Arts-style Central Library, as well as the newly opened Disney Concert Hall in downtown. Mission-style Union Station captures the heyday of train travel. Music and theater fans adore the Music Center's Dorothy Chandler Pavilion, often site of the Academy Awards. 
-
-Los Angeles' multi-ethnic society provides many opportunites for travelers to experience various cultures, foods and colorful traditions. LA's African-American community is celebrated for its exceptional jazz clubs and ethnic restaurants. 
-
-Asia's influence on L.A. is considerable. Visit Japanese restaurants, gardens, and upscale shops in Little Tokyo. Take in the Japanese-American National Museum for an intriguing look at the Japanese experience in this country. Explore more Asian culture in Chinatown, a favorite dining destination. 
-
-Attention baseball fans! During the season, catch a ball at nearby Dodger Stadium. 
-
-Don't miss the Getty Center while you are in L.A. Admission is free and the center holds some of the most beautiful pieces of art I have ever seen. Plan to spend the whole day there - there really is that much to see!
+Come for at least five days. Rent a car. Download a parking app. Eat at a taco truck at least once. Get lost.

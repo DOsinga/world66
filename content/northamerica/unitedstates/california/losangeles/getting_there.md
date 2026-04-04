@@ -3,7 +3,7 @@ title: "Getting There"
 type: section
 ---
 
-The most common way to get to Los Angeles, is by way of the Los Angeles International Airport (LAX) which serves as a portal/gateway between the United States and the Pacific, South America and Asia. There are other airports in [Long Beach](/northamerica/unitedstates/california/losangeles/longbeach), [Burbank](/northamerica/unitedstates/california/losangeles/burbank) and [Ontario](/northamerica/canada/ontario/ontario).
+The most common way to get to Los Angeles, is by way of the Los Angeles International Airport (LAX) which serves as a portal/gateway between the United States and the Pacific, South America and Asia. There are other airports in [Long Beach](/northamerica/unitedstates/california/losangeles/longbeach), [Burbank](/northamerica/unitedstates/california/losangeles/burbank) and Ontario (inland, about 40 miles east of downtown).
 
 Also, LA is served by train via Amtrak and Metrolink.
 

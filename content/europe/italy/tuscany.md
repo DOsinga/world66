@@ -1,16 +1,16 @@
 ---
 title: "Tuscany"
 type: location
-latitude: 43.458654
-longitude: 11.13892
+latitude: 43.7711
+longitude: 11.2486
 ---
 
-Tuscany, Toscana in Italian, is the best known Italian province and the name alone evokes an image of sun, dolce vita and pittoresque little towns. 
+Tuscany is the region that built the Renaissance and still has the landscape to prove it — rolling hills stitched with cypress rows, vineyards running to the horizon, and hilltop towns that look painted on. It earned its mythic reputation honestly, and the challenge here isn't finding something worth seeing but deciding what to skip.
 
-This image is quite correct, actually. Tuscany deserves its reputation and is worth a visit both for those who just want a holiday to relax, read a book and sit in the sun as well as those going for the high brow culture. Furthermore the Tuscan region has delicious food and great wines, a combination that makes life very enjoyable under the Tuscan sun. 
+Florence anchors the northwest and is unmissable: the Uffizi alone could occupy you for days. But Tuscany rewards those who venture beyond it. Siena's medieval city centre rivals Florence's in beauty and has none of the same crowds, especially outside summer. San Gimignano's towers and Lucca's intact city walls are among the best-preserved medieval streetscapes in Europe. Volterra, carved from alabaster cliffs, feels genuinely off the radar.
 
-The Tuscan cities such as [Florence](/europe/italy/tuscany/florence), [Pisa](/europe/italy/tuscany/pisa), [Cortona](/europe/italy/tuscany/cortona), [Lucca](/europe/italy/tuscany/lucca) or [Siena](/europe/italy/tuscany/siena) house many sights and all have an old historic town where you can wander around for hours. 
+The food and wine are a serious draw in themselves. Chianti Classico, Brunello di Montalcino, and Vino Nobile di Montepulciano are world-class wines made in small towns you can actually visit. Pecorino from Pienza, lardo di Colonnata, and the brutal simplicity of a Florentine bistecca all reflect a region that takes its ingredients seriously and doesn't need to dress them up.
 
-Siena has a very interesting historic town, but is most famous for the "Palio", a medieval horse race where different parts of town all have a horse race through the historic centre of town. 
+The coast and islands are an underrated counterpoint to the art-city circuit. Elba offers good hiking, clear water, and beaches without the crowds of the Amalfi coast. The Maremma in the south is wild and flat — hot springs at Saturnia, the hilltop drama of Pitigliano — and feels like a different country from Florence.
 
-The Isle of [Elba](/europe/italy/tuscany/elba) also has outstanding facilitities for anyone on a summer holiday: hiking, going to the beach and visiting historical towns can all be done on the same day.
+Spring and autumn are the right times to come. Summers are hot, expensive, and packed; winter is quiet and cheap but many smaller towns go into hibernation.

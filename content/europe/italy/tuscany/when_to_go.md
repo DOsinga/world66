@@ -1,27 +1,16 @@
 ---
-title: "When to Go in Tuscany"
+title: "When to Go"
 type: section
 ---
 
-Tuscany encompasses a wide range of geography including coastal areas, hills, mountains and valleys. The weather is naturally slightly different with each area, but there are enough similarities in the seasons to help you plan the best time to visit any city in Tuscany. Just keep in mind that the coasts and valleys are usually hotter in the summer, while hilly areas tend to get more rain.
+Tuscany has four distinct seasons, and the timing of your visit matters more here than in most Italian regions because the crowds and prices swing dramatically.
 
-**Winter**
+**Spring (March–May)** is the best window for most visitors. Wildflowers blanket the hills, temperatures are comfortable for walking, and the tourist masses haven't arrived yet. Expect some rain in April, but nothing disruptive.
 
-The Tuscan winter lasts from December through February and is usually cold and dry. The mountains get a good amount of snow and are very popular for skiers. Nights are cold, and daytime temperatures range between 3 and 13 degrees C. December gets a fair amount of rain, and January is generally the coldest month. If you don't mind the chill, winter can be an excellent time for sightseeing, as there are very few tourists and you can really get a feel for the museums, churches and cities. Another benefit is that prices are usually a lot lower in the off-season.
+**Summer (June–August)** is hot, expensive, and extremely crowded — particularly in Florence and the Cinque Terre coast nearby. If you come in summer, aim for an agriturismo with a pool and treat the cities as early-morning or evening destinations. The hills are cooler than the valleys and coast.
 
-**Spring**
+**Autumn (September–November)** rivals spring for landscape beauty. Harvest season brings wine and olive festivals, truffle markets, and the best food of the year. September is warm and still busy; October is near-perfect; November gets wet.
 
-From March through May the temperatures hover between 6 and 23 degrees C. The wildflowers begin to make an appearance, and the scenery is usually spectacular. Be prepared for a fair amount of rain in April and May, though this will taper off as it gets closer to summer. Early spring usually sees a dip in prices, as the peak season hasn't yet arrived. The warmer temperatures make outdoor activities and sightseeing much more enjoyable.
+**Winter (December–February)** is quiet and cheap. You'll have the museums largely to yourself and hotels drop their prices significantly. The downside is that many smaller towns and rural restaurants close up, and the hills can get genuinely cold.
 
-**Summer**
-
-Summertime is hot, and from June through August the temperatures will steadily climb, reaching 30 degrees C or warmer. This is the peak season, and it is always hot and always crowded. Prices seem to rise with the temperature. This is not the best time to do sightseeing, but if your idea of a holiday is a private villa with a pool, then it can be absolutely perfect. The days begin to cool as the rains start in mid-August.
-
-**Autumn**
-
-September through November are usually wet, with November getting the most rain. Temperatures are much more comfortable for sightseeing, ranging from 7 to 27 degrees C, just be sure to carry an umbrella. There are still a fair amount of sunny days that can make your trip enjoyable. The autumn colors are another bonus to this time of year.
-
-It is also worth mentioning that most of the festivals are concentrated in the summer and autumn, when Tuscan treasures like truffles, olives, wine and chestnuts are plentiful. You can witness medieval fairs, regattas, fireworks, horseshoes and dancing. The winter also boats the carnival, a major event before the coming Lenten season. Keep in mind that the highest prices occur around Christmas, Easter and summer holidays.
-
-**Contributors**
-September 03, 2009
+Most festivals — medieval pageants, wine harvests, the Siena Palio in July and August — cluster in summer and early autumn.

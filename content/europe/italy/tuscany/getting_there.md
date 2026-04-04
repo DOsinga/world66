@@ -1,24 +1,10 @@
 ---
-title: "Getting There in Tuscany"
+title: "Getting There"
 type: section
 ---
 
-Holiday Tuscany offers you unpublished itineraries of the whole of Tuscany , furthermore
-a complete list of tourist residences: the best agritourism in Tuscany and
-the most economical bed and breakfast, places to spend a holiday in total
-freedom in Tuscany . The
-itineraries foretell the most beautiful towns in Tuscany : Lucca , Florence ,
-Collodi and Pinocchio Park ,
-Montecatini Terme and the Spas of Monsummano where you can unite a relaxing
-holiday with Spas, with a fairytale afternoon in the marvellous Pinocchio Park . Or perhaps visit the ancient walls of Lucca in
-the morning and go shopping in the luxurious town of Montecatini
-Terme in the evening, always with the possibility of
-staying in typical Tuscan properties and near the best restaurants in the area.
-Left to follow our routes and courses, rediscover an aspect of Tuscany less
-known to the tourist mass, rich with fascination and magic. With Holiday
-Tuscany your holiday in Tuscany will
-be unique and memorable.
+The main gateway is Pisa's Galileo Galilei Airport (PSA), which handles most international and low-cost flights into the region. Florence has its own smaller airport (FLR) with connections to major European hubs. From either airport, trains and buses reach Florence, Siena, Lucca, and other Tuscan cities in under two hours.
 
-For your travel in Tuscany visit Pinocchio Park, Collodi Butterfly House, Garzoni Garden.
+By rail, Tuscany sits on the main Milan–Rome axis. High-speed trains (Frecciarossa, Italo) stop at Florence Santa Maria Novella station in about 1.5 hours from Rome and 1.75 hours from Milan. From Florence you can connect to most other Tuscan cities by regional trains or bus.
 
-More info: http://www.pinocchio.it/park.htm
+Driving into Tuscany from the north or south is straightforward on the A1 autostrada (Milan–Naples). Having a car becomes essential once you want to reach smaller hilltop towns — public transport thins out considerably beyond the main train corridor.

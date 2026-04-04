@@ -3,19 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-Public transport in Tuscany is reasonably good - trains are connecting
-[Pisa](/europe/italy/tuscany/pisa),
-[Lucca](/europe/italy/tuscany/lucca),
-Firenze,
-[Prato](/europe/italy/tuscany/prato),
-Pistoia,
-[Siena](/europe/italy/tuscany/siena) and
-[Arezzo](/europe/italy/tuscany/arezzo). Regular buses serve the cities off the train track such as
-Volterra,
-[San Gimignano](/europe/italy/tuscany/sangimignano),
-Montalcino,
-[San Luis Potosi](/northamerica/mexico/sanluispotosi). As long as you travel between these towns, public transport isn't a problem at all. To go off the beaten tracks, it is still best to have your own means of transport.
+The main cities — Florence, Pisa, Lucca, Prato, Pistoia, Siena, and Arezzo — are all connected by train and make for easy day trips without a car. Regional buses fill in the gaps and reach towns like Volterra, San Gimignano, and Montalcino that sit off the rail network.
 
-Cab rates
+Beyond the main corridors, a car makes an enormous difference. The countryside between Siena and the Val d'Orcia, the Maremma coast, and the smaller wine towns are all but inaccessible by public transport. Roads are generally good and the scenic drives are part of the experience — the SR2 through Chianti and the SP146 in the Val d'Orcia are classics.
 
-Vintage car rental. Zephyrus is the only company in Italy offering vintage convertible car rental. It offers the hotel reservation, the vintage spider rental, the 24H assistance and a Road-Book to visit Tuscany, Lazio and Umbria from a new point of view. On the web: www.zephyrus.it
+Cycling is popular in the flatter areas around Lucca (where you can ride along the top of the city walls) and in the Chianti hills for those who want the workout. Rental bikes are easy to find in most towns.

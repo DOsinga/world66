@@ -1,12 +1,9 @@
 ---
-title: "Things to do in Lago Maggiore"
+title: "Things to Do"
 type: section
 ---
 
-At **Lago Maggiore things to do** are easy to find. There is an
-abundance of sports to enjoy for both thrill seekers and those looking
-for a relaxing trip into nature. The natural surroundings provides the
-perfect backdrop for all activities and creates a relaxing atmosphere.
+The lake and its surrounding mountains offer everything from lazy boat rides to hang gliding, with plenty of trekking and watersports in between.
 
 **Watersports**
 
@@ -53,7 +50,3 @@ paths to chose from. From walking around flatter terrain in natural
 reserves near the lake to paths that wind through the mountains. There
 are treks to suit all fitness and skill levels. Guides are available.
 
-**Contributors**
-February 17, 2010
-
-February 17, 2010

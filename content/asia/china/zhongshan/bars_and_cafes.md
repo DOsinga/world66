@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Zhong Shan"
+title: "Bars and Cafes"
 type: section
 ---
 

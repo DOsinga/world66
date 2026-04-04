@@ -1,8 +1,8 @@
 ---
 title: "Lon Wa Buddhist Temple"
 type: poi
+category: Sight
 address: "J.P. Cabaguio Avenue"
-type: "Churches and Cathedrals"
 latitude: 7.087679
 longitude: 125.623683
 ---

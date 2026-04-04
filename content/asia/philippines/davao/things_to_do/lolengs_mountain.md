@@ -1,8 +1,8 @@
 ---
 title: "Loleng's Mountain Spring Resort"
 type: poi
+category: Sight
 address: "Toril, Davao City"
-type: "Parks, Gardens and Zoos"
 latitude: 7.026937
 longitude: 125.409233
 ---

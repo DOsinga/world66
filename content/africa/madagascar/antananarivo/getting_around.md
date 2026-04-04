@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Antananarivo"
+title: "Getting Around"
 type: section
 ---
 

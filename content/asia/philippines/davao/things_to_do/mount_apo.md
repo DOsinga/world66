@@ -1,7 +1,7 @@
 ---
 title: "Mount Apo National Park"
 type: poi
-type: "Parks, Gardens and Zoos"
+category: Sight
 latitude: 6.947052
 longitude: 125.274259
 ---

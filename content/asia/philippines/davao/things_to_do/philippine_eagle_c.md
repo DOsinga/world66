@@ -1,8 +1,8 @@
 ---
 title: "Philippine Eagle Conservation Centre"
 type: poi
+category: Sight
 address: "Baguio District"
-type: "Hotspots"
 latitude: 7.17091
 longitude: 125.321074
 ---

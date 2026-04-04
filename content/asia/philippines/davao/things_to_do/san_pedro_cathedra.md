@@ -1,8 +1,8 @@
 ---
 title: "San Pedro Cathedral"
 type: poi
+category: Sight
 address: "San Pedro St., Davao City"
-type: "Churches and Cathedrals"
 latitude: 7.07805
 longitude: 125.548858
 ---

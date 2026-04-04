@@ -1,7 +1,7 @@
 ---
 title: "Coral Garden"
 type: poi
-type: "Hotspots"
+category: Sight
 latitude: 13.51193
 longitude: 120.943816
 ---

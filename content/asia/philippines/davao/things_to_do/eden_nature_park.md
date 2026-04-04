@@ -1,10 +1,10 @@
 ---
 title: "Eden Nature Park"
 type: poi
+category: Sight
 address: "Eden, Toril"
 email: "info@edennaturepark.com.ph"
 phone: "+63 82 299-1020, +639189307590"
-type: "Parks, Gardens and Zoos"
 url: "www.edennaturepark.com.ph"
 latitude: 7.031887
 longitude: 125.397809

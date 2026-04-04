@@ -1,8 +1,8 @@
 ---
 title: "Shrine of the Infant Jesus"
 type: poi
+category: Sight
 address: "Shrine Hills, Matina, Davao City"
-type: "Churches and Cathedrals"
 latitude: 7.070794
 longitude: 125.577932
 ---

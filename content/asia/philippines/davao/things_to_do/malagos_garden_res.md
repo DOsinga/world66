@@ -1,8 +1,8 @@
 ---
 title: "Malagos Garden Resort"
 type: poi
+category: Sight
 address: "Baguio District, Davao City"
-type: "Parks, Gardens and Zoos"
 latitude: 7.17091
 longitude: 125.321074
 ---

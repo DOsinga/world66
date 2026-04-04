@@ -1,7 +1,7 @@
 ---
 title: "White Water Rafting"
 type: poi
-type: "Hotspots"
+category: Sight
 latitude: 8.475202
 longitude: 124.638832
 ---

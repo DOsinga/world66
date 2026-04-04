@@ -1,8 +1,8 @@
 ---
 title: "Sea Wall of Davao, a.k.a Davao's Bay Walk"
 type: poi
+category: Sight
 address: "Matina Aplaya, Davao City"
-type: "Landmarks"
 latitude: 7.04447
 longitude: 125.56873
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Crocodile Farm and Davao Wild Water Adventure"
 type: poi
+category: Sight
 address: "Davao Crocodile Park, River Front, Corporate City Diversion Highway"
-type: "Hotspots"
 ---
 
 Here you'll find lots of crocodiles, a few taken from the Davao River. They

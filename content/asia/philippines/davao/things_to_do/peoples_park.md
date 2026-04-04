@@ -1,7 +1,7 @@
 ---
 title: "People's Park"
 type: poi
-type: "Parks, Gardens and Zoos"
+category: Sight
 latitude: 7.070933
 longitude: 125.608788
 ---

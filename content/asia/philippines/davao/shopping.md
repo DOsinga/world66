@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Davao"
+title: "Shopping"
 type: section
 ---
 

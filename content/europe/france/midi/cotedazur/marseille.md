@@ -5,10 +5,8 @@ latitude: 43.296174
 longitude: 5.369953
 ---
 
-Marseille is the second biggest city of France. The city is located on tthe shores of the Mediterranean coast. It was founded by the Greeks some 2 500 years ago. Nowadays, it is a lively, picturesque and rundown industrial port city. 
+Marseille is the oldest city in France — founded by Greek sailors around 600 BC — and it still feels like a port that has seen everything. It's the second biggest city in the country, rough around the edges in places, and far more interesting than the pampered resorts to the east.
 
-Siights include the Notre-Dame-de-la-Garde, the Cathedral Museum of the Roman Docks, the Puget sculptures at the town hall and 5th-century St. 
+The Vieux-Port is the heart of the city, a working harbour surrounded by seafood restaurants and the morning fish market. Above it on a hill sits Notre-Dame-de-la-Garde, a 19th-century basilica with exceptional views across the city and the islands. The Panier neighbourhood behind the port is the oldest part of Marseille — steep streets, washing strung between windows, and the impressive Vieille Charité complex, now a museum.
 
-"The rise of Marseille as a genuine destination for tourists cannot be ignored and has been the most striking feature of 1998". Although the effects of the World Cup cannot be ignored, these effects were only felt the dates on which matches were played. The increases due to the World Cup only account for 15% of the increased number of visitors in 1998.Setting aside the "World Cup effect", it remains clear that the number of tourists has increased over previous years. Sectors such as cruises, business travel, cultural theme-based holidays and marine holidays are being given priority. 
-
-The image of the city is changing profoundly and, shedding old stereotypes, Marseille now finds itself fashionable in fields such as cinema, theatre, music, sport, fashion, cruises and congresses. Without abandoning anything of its rich history, Marseille is now presenting a new face to the world.As the President of the Marseille Board of Tourism and Congresses Domnique Vlasto wrote "Our objective is to make Marseille the new tourist venue in the Mediterranean." This objective is now being achieved.
+The Calanques — a series of steep limestone inlets along the coast south of the city — are stunning and accessible by boat, foot, or bus. If you have time for one thing outside the city centre, make it the Calanques.

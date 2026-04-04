@@ -5,12 +5,8 @@ latitude: 43.700936
 longitude: 7.268391
 ---
 
-Nice is really one of these places everybody has heard of or has seen in television and cinema. James Bond was here of course and the most of the rich and beautiful, the jet set, from the fifties through the sixties and seventies. Some say it is not the hottest spot anymore but many stars have bought houses and villas along the coast ('French Riviera' is one of the most beautiful coast lines in Europe).
+Nice is the real city of the Côte d'Azur — not just a resort but a place people actually live. The old town (Vieux-Nice) is a dense grid of Italianate facades, ochre and terracotta, with a daily market on the Cours Saleya that sells flowers and produce in the morning and antiques in the afternoon. The Promenade des Anglais runs along a wide pebbly beach; the pebbles are a surprise if you're expecting sand, but the water is clear and deep blue.
 
-Especially in spring it is a great place to be due to its mild climate...
+There's a higher density of museums here than almost anywhere else in the south of France. The Musée Matisse sits on a hill in the Cimiez neighbourhood above town, next to a Roman amphitheatre. The Musée d'Art Moderne et d'Art Contemporain (MAMAC) is free on Sundays and has a rooftop terrace with good views.
 
-And there is much more to do. There's a higher density of museums in Nice than in many comparable French cities. If you decide to forgo the pleasures of the pebbly beach and devote your time to visiting some of the best-respected museums in the south of France.
-
-The "authentic" Nicoise live in Vieille Ville, the Old Town, beginning at the foot of "the Rock" and stretching out from place Massena. Sheltered by sienna-tiled roofs, many of the Italianate facades suggest 17th-century Genoese palaces. The old town is a maze of narrow streets, teeming with local life and studded with the least expensive restaurants in Nice. Buy an onion pizza (la pissaladiere) from one of the local vendors. Many of the old buildings are painted a faded Roman gold, and their banners are multicolored laundry flapping in the sea breezes. And there are many more sights not to be missed.
-
-Check them out.
+The airport is 6 kilometres west of the centre, and the city connects by train along the coast to Monaco, Menton, and the Italian border, and inland up to Digne-les-Bains via the narrow-gauge Train des Pignes.

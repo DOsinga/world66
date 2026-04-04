@@ -5,12 +5,6 @@ latitude: 43.55152
 longitude: 7.013442
 ---
 
-"Cannes, "Star" of the Riviera is a magical city, a place of pleasures : sport, gastronomy, leisure, 
- shows, discovery. Cannes gives to every instant of your days and nights the personal touch that transforms your life into a festival."
+Cannes is expensive, self-aware, and makes no apologies for it. The Croisette — the wide boulevard running along the beach — is lined with grand hotels and designer boutiques, and the whole town is calibrated around the Film Festival in May and the parade of wealth in the harbour year-round.
 
-That's at least what the local authorities think.
-
-
- Cannes is a very expensive city. It does have great restaurants, hotels, clubs and good beaches and it is a nice place to hang out.
-
-But the town caters mostly for people who don't minding spending a lot, so if you are on a tight budget, you can give it a miss.
+That said, it works. The old port is pretty, the market on the Rue Meynadier is excellent, and the Île Sainte-Marguerite offshore is easy to reach and has a fortress where the Man in the Iron Mask was imprisoned. If you're on a tight budget, give it a miss — but for a day or an afternoon it's worth seeing.

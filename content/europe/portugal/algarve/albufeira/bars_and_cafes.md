@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Albufeira"
+title: "Bars and Cafes"
 type: section
 ---
 

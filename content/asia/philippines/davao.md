@@ -5,8 +5,6 @@ latitude: 7.064831
 longitude: 125.608062
 ---
 
-Travel Guide
-
 Davao City is located deep in the heart of the Philippines' exotic south, in the southeastern portion of [Mindanao Island](/asia/philippines/mindanaoisland). It is a highly urbanized city that serves as the major economic, financial, and educational centre of the entire island. The city which falls nominally under the province of Davao del Sur Province, is bounded on the north by Davao and Compostela Valley provinces, on the east by Davao Gulf, on the south by Davao del Sur, and on the west by North Cotabato province.
 
 Davao serves as the gateway to the island of Mindanao, being serviced by several national as well as international air and sea carriers. The brand new Davao International Airport (the busiest on the island) now handles international flights to Singapore, Hong Kong, Indonesia, and the Republic of Palau (Micronesia). The seaport meanwhile handles a sizable traffic of goods bound for Japan, China, the USA and the Middle East.

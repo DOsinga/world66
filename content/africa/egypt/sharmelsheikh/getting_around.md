@@ -3,23 +3,16 @@ title: "Getting Around"
 type: section
 ---
 
-**Sharm el Sheikh Transportation**
+Getting around Sharm el-Sheikh is straightforward. The city is spread out along the coast, so walking works for short distances within Na'ama Bay but not between neighbourhoods.
 
-The easiest method for travel while visiting the town of Sharma el
-Sheikh, in Egypt, is by taxi. The only thing that an adventurer
-to this arid and dry beauty in the desert has to do is raise their arm
-(either one will do), then almost instantly, a cab appears. The amount of taxis
-that will come flying up will startle the traveler, who will
-wonder where they were all hiding. There is no definition to this
-occurrence except that waiting for a cab in Sharm el Sheikh is like
-waiting for the town to heat up - it never stops.
+**Taxis**
 
-**Methods of Travel in Sharm el Sheikh**
+Taxis are the most common way to get around and are plentiful — raising your hand almost anywhere will produce one within seconds. Use only the blue-and-white licensed taxis; avoid unlicensed vehicles. Always negotiate the fare before you get in, as meters are rarely used. Short trips within Na'ama Bay should cost a few Egyptian pounds; longer trips across town cost more.
 
-While the blue and white taxis (only use these) are the preferred
-mode of transportation in Sharm el Sheikh, the cab is not the only game
-in town. There is the bi-pedal motivational movement otherwise known as
-walking to get from point A to point B, and while this is great for
-short jaunts to the market or the store, it's quite a different story
-for a long adventure. One must recall at all times this is the Mideast
-and the desert. Hot and risky, so take a cab and save us all some worry.
+**Buses**
+
+Local minibuses run between Sharm el-Maya (the Old Market), Na'ama Bay, and Sharks Bay for E£1–2 per trip. They are crowded and don't run to a fixed schedule, but they're cheap and generally reliable for the main route.
+
+**Rental Cars and Quad Bikes**
+
+Car rental is available from hotels and agencies in Na'ama Bay. Driving in Sharm is manageable by Egyptian standards. Quad bikes can be rented for desert excursions — ask at your hotel.

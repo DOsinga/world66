@@ -1,16 +1,16 @@
 ---
 title: "Bergamo"
 type: location
-latitude: 45.756656
-longitude: 9.754219
+latitude: 45.6983
+longitude: 9.6773
 ---
 
-Bergamo is divided in two parts with quite a distinct atmosphere. The **Citta Alta** is the old part of town, it has small steep streets with old houses and many churches, the **Citta Bassa** brings you the fast paced Italian life of the industrialized north. 
+Bergamo is two cities stacked on top of each other, and they couldn't be more different. Città Alta — the upper town — sits on a hill encircled by massive Venetian walls, its medieval lanes lined with churches, towers, and palaces. Città Bassa is the working northern Italian city down below: efficient, commercial, and considerably less romantic. Most visitors head straight up the funicular and barely come back down.
 
+The crown of the upper city is Piazza Vecchia, a nearly perfect medieval square framed by the Palazzo della Ragione, the civic library, and Contarini's fountain. Directly behind it, through an archway, is the Piazza del Duomo, home to the extraordinary Basilica di Santa Maria Maggiore — a Romanesque church stuffed with Lorenzo Lotto frescoes, carved wooden panels, and a celebrated organ. The whole cluster is one of the finest civic spaces in Lombardy.
 
+Bergamo takes genuine pride in Gaetano Donizetti, who was born here in 1797. The Donizetti Museum is small but well-curated, and every autumn the Donizetti Opera Festival fills the Teatro Donizetti on the main boulevard below. The Accademia Carrara, just outside the walls on the lower city side, holds a top-tier collection of northern Italian painting including major Lotto, Raphael, and Titian works.
 
+The Venetian walls themselves — Le Mura — are worth a dedicated walk. Built from 1561 onwards, they're remarkably intact and you can stroll the ramparts for over three kilometers with views stretching out over the Po Valley toward Milan on clear days. At the far end of the upper city, a second funicular carries you up to San Vigilio and the ruins of a medieval castle above the treeline.
 
-
-Most travelers head for the Citta Alta immediatelly. The main attractions are the Piazza Vecchia with its Renaissance buildings such as the Biblioteca Civica (1594) and the Palazzo della Regione (1199). The Piazza del Duomo is just around the corner; the Duomo is well worth a visit and has a wonderful marble facade. 
-
-There are a few other churches worth seeing such as the San Michele (13-th century) and the Sant'Andrea. The Porta Sant'Agostina is the main gate, built in the 16-th century to defend the city. Another interesting gate is the San Giacomo gate.
+Bergamo sits 40 km northeast of Milan and is served by Orio al Serio airport — one of Ryanair's main Italian hubs. The train from Milan Centrale or Milano Porta Garibaldi takes about 50 minutes.

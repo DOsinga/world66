@@ -1,10 +1,11 @@
 ---
 title: "Urban Trekking"
 type: poi
-address: "via G. Greppi 8, Bergamo"
-email: "info@prenditempo.com"
-phone: "+39  340 0982887"
+address: "Via G. Greppi 8, Bergamo"
+phone: "+39 340 0982887"
 url: "www.prenditempo.com"
+latitude: 45.698300
+longitude: 9.676500
 ---
 
 Urban

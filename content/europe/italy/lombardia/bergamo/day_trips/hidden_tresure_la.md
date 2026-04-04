@@ -1,7 +1,9 @@
 ---
-title: "Hidden Tresure: Lake Endine"
+title: "Lake Endine"
 type: poi
-address: "Endine Lake"
+address: "Lago di Endine, Bergamo province"
+latitude: 45.7900
+longitude: 9.9600
 ---
 
 One of the least known lakes in Lombardy,** Lake Endine**, with its mountains and landscape reflected in the water, offers a **very suggestive sight**. It’s a quiet, relaxing place of entertainment, off the beaten track. It’s a sort of outdoor gym for water sports (sailing, windsurf, canoeing and boat racing) and a well-known place for fishing, in winter, with its frozen waters. It offers a very particular sight at this height.

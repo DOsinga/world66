@@ -1,11 +1,11 @@
 ---
 title: "Agritourism Prati Parini Restaurant and Rooms"
 type: poi
-address: "Ca' Chinaglio (Sedrina)"
+address: "Ca' Chinaglio, Sedrina, Bergamo"
 phone: "0345 60 245"
-price: "€20"
-type: "Italian"
 url: "www.agriturismopratiparini.com"
+latitude: 45.800800
+longitude: 9.614200
 ---
 
 An ecotourism farm that raises brown alpine cows and makes formagelle and taleggio cheese and butter. There are cattle, pigs and courtyard animals. All of these products can be bought or used in the restaurant. A small mountain hut has been reactivated at Parini Fields at 850 m. altitude and reacheable only by a foot trail (a 30 minute's walk) along an antique trail through the woods.

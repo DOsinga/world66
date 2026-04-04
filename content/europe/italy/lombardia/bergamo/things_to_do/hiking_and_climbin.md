@@ -1,8 +1,9 @@
 ---
 title: "Hiking and Climbing in the Mountains"
 type: poi
-type: "Hiking"
 url: "www.bergamonet.com"
+latitude: 45.8500
+longitude: 9.7000
 ---
 
 Breathtaking views, trails and mountain refuges are abundant. The hiking trip called "The Tour of the Refuges" takes about a week and covers many different refuges. Reservations are necessary for sleeping and there is restaurant service also.

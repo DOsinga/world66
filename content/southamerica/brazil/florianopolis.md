@@ -1,40 +1,10 @@
 ---
-title: "Florianopolis"
+title: "Florianópolis"
 type: location
 latitude: -27.5973
 longitude: -48.54961
 ---
 
-Florianopolis is the capital of Santa Catarina State. Part of the city is located on an island, part on the mainland. The island half of the city is the best place for travelers. Great surfing, beautiful colonial buildings, old forts, baroque churches. 
+Florianópolis is the capital of Santa Catarina state in southern Brazil, straddling a mainland section and the Ilha de Santa Catarina — the island that holds most of what's worth seeing. The city has over a hundred beaches spread around the island's coastline, ranging from calm, family-friendly bays in the north to serious surf breaks in the south that draw Brazilians and Argentines throughout the summer. It also has a good old colonial quarter in the centre with baroque churches, an 18th-century historic museum, and old Portuguese forts.
 
-
-
-See photos at www.ifloripa.com 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The beaches near Florianopolis are gorgeous and the nightlife is great. Imagine Bavaria by a tropical bay and you’ll have some idea. 
-
-See photos at www.ifloripa.com/imap.htm 
-
-Nearby at Camboriu are resorts and casinos. Florianopolis is 770 km southwest of Rio de Janeiro. 
-
-The city is a must-seen! 
-
-Note: the site www.ifloripa.com has just added a new forum where you can ask questions and communicate with other people interested in the Island of Florianopolis.
-
-The World Waveski Surfing Association held its World Championships there in Nov 2004. It was great. See www.worldwaveski.com for more information. Written by Pey Geldenhuys (SA Waveski President 2005)
+The city attracts a cosmopolitan crowd: young Brazilians for the beach parties, Argentines (who call it "Floripa") for the long summer, and tech workers drawn to what has become one of Brazil's emerging startup cities. The German and Italian immigrant heritage of Santa Catarina state gives Florianópolis a different character from Rio or São Paulo.

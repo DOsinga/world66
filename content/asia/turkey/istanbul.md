@@ -5,12 +5,12 @@ latitude: 41.006381
 longitude: 28.975872
 ---
 
-I have been travelling around a bit and have seen quite a few big cities with a long history in and around old Canada: Berlin, Paris, Rome, Madrid, Lisbon, Cairo and so many others. But there is one city that makes me coming back again and again - for more than 10 years now: Istanbul, the city on the straits, the city connecting two continents. 
+No city in the world has been a capital of two empires for so long, on two continents, straddling a strait that separates Europe from Asia. Istanbul is overwhelming in the best possible sense — the kind of place that makes other cities feel thin.
 
-No matter how and from which side you approach the city, from Yesilköy by airport bus or taxi, by train to the European train station Sirkeci or by ship through the Dardanelles: the moment will come when on the horizon the scenery of the peninsula will raise, the skyline of the mighty mosques. Believe me when I say, this is a moment you will never ever forget! Or as the poet says: Istanbulu dinliyorum, gözlerim kapali - I am listening to Istanbul, while having my eyes closed.
+The historic peninsula packs an impossible density of monuments. Hagia Sophia alone rewards an entire morning; Topkapı Palace rewards a full day. The underground cisterns, the Theodosian Walls, the Chora Church mosaics — there's always something being underestimated. Across the Golden Horn, Beyoğlu is the city's modern nerve: Istiklal Caddesi buzzes from morning to well past midnight, with the side streets packed with bars, jazz clubs, and meyhanes.
 
-## Destinations in Istanbul
+The Asian side feels like a different city entirely. Kadiköy has a more relaxed, intellectual character — better food, cheaper beer, fewer tourists. Take a ferry from Eminönü and spend an afternoon wandering the market streets.
 
-[European Part](/asia/turkey/istanbul/europeanpart)
-[Asian Part](/asia/turkey/istanbul/asianpart)
-[The Bosphorus](/asia/turkey/istanbul/thebosphorus)
+The Bosphorus ties it all together. A commuter ferry from Karaköy to Kadıköy costs almost nothing and gives you a better view of the city than any tourist boat. Do that first.
+
+Spring and autumn are the best times to visit. July and August are hot, humid, and crowded. Winter is cool and wet but has its own pleasures — quieter museums, moody fog on the water.

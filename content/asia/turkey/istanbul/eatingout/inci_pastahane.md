@@ -1,28 +1,9 @@
 ---
-title: "Inci Pastahane"
+title: "İnci Pastanesi"
 type: poi
-accessibility: "Yes"
-address: "Istiklal Cadd"
-price: "Cheap"
-type: "Local"
+address: "Istiklal Caddesi, Beyoğlu"
+latitude: 41.032000
+longitude: 28.977500
 ---
 
-Inci Pastahane looking at the decor has been around for 60+ years ... and if you can read the old newspaper clippings .. then you can figure out how old it really is.
-
-People come here for one reason - a plate of their profiteroles - with its crème / custard filling, smothered in delicious chocolate sauce.
-
-The way you do this is ... walk in, pay your 5YTL and get yourself a plate. Grab a seat if you can and eat up. Its so popular on weekends people will stand and eat this.
-
-Inci is about half down the Istiklal Cadd from Taksim Square and opposite the Mavi Jeans main store.
-
-type: Local
-
-
-
-
-
-accessibility: Yes
-
-address: Istiklal Cadd
-
-PriceOfMenu: Cheap
+A 60-year-old pastry shop on Istiklal with one star attraction: profiteroles. You pay at the counter, take a plate, find a seat if you're lucky, and eat. On weekends people stand to eat them. The décor hasn't changed in decades and that's exactly the point.

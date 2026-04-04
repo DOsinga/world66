@@ -1,24 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Golf"
 ---
 
-A Golfer's Paradise
-
-Abu Dhabi is home to 3 distinctive golf courses each with immaculate
-greens, clubhouses and lush fairways, making it the perfect destination for
-golf novices, enthusiasts and pros.
-
-**Contributors**
-January 21, 2007
-
-### Abu Dhabi Golf Club
-
-An oasis of tranquility and beauty carved out of the desert, just 10 minutes
-from Abu Dhabi International Airport and 30 minutes from the city centre,
-the Abu Dhabi Golf Club by Sheraton boasts world-class golfing facilities, a
-striking clubhouse with three floors of restaurants, a fully equipped
-executive meeting room, an extensive sports and fitness club.
-
-type: Golf
+Abu Dhabi's main attractions span from ancient forts to contemporary art. The Sheikh Zayed Grand Mosque is the obvious starting point, but the Louvre Abu Dhabi and the Corniche waterfront are equally worth your time. The heritage district around Qasr Al Hosn fort gives a sense of what the city looked like before the oil era.

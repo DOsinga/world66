@@ -4,6 +4,8 @@ type: poi
 address: "271 W 23rd St, New York 10011 Btwn 7th & 8th Ave"
 phone: "212-463-8000"
 price: "$5-10 dollars"
+latitude: 40.746100
+longitude: -74.000000
 type: "American"
 url: "www.trailerparklounge.com"
 ---

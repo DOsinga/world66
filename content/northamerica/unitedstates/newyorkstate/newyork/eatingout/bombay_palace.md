@@ -3,6 +3,8 @@ title: "Bombay Palace"
 type: poi
 address: "30 W 52nd St (btwn 5th & 6th)"
 phone: "212-541-7777"
+latitude: 40.760100
+longitude: -73.977700
 type: "Indian and Pakistani"
 ---
 

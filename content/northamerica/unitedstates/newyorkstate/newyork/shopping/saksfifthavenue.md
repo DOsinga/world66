@@ -2,6 +2,8 @@
 title: "SAKS FIFTH AVENUE"
 type: poi
 address: "Fifth Avenue at 49th Street"
+latitude: 40.758200
+longitude: -73.976900
 phone: "212.753.4000"
 ---
 

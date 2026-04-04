@@ -3,6 +3,8 @@ title: "Quantum Leap Restaurant"
 type: poi
 address: "6560 Fresh Meadow Ln Flushing, NY 11356"
 phone: "(718) 461-1307"
+latitude: 40.759600
+longitude: -73.820200
 type: "Vegetarian"
 ---
 

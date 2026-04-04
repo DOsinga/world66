@@ -1,23 +1,12 @@
 ---
 title: "New York Botanical Garden"
 type: poi
+category: "Sight"
 address: "Bronx River Parkway at Fordham Road"
 phone: "718-817-8700"
-type: "Spa and Sauna"
 url: "www.nybg.org"
+latitude: 40.862656
+longitude: -73.877969
 ---
 
-The New York Botanical Garden is one of the oldest botanical gardens in America – it is also one of the largest. The New York Botanical Garden features 50 gardens and collections, horticultural displays in several pavilions, Haupt Conservatory, and dozens of walking trails. The sight covers 250 acres, including approximately 50 acres of New York’s original Forest.
-
-**Contributors**
-May 18, 2008
-
-type: Spa and Sauna
-
-
-
-tel: 718-817-8700
-
-url: [www.nybg.org](http://www.nybg.org)
-
-address: Bronx River Parkway at Fordham Road
+One of the largest botanical gardens in the western hemisphere, spread across 250 acres in the Bronx including 50 acres of original New York forest. The Victorian-era Enid Haupt Conservatory alone is worth the trip — a soaring glass structure housing rainforest, desert, and aquatic plants. Go in spring for the cherry blossoms or in winter for the annual model train show through miniature NYC landmarks.

@@ -3,6 +3,8 @@ title: "Pisticci"
 type: poi
 address: "125 La Salle St. (between 122nd and 123rd Streets),"
 phone: "(212) 932-3500"
+latitude: 40.812100
+longitude: -73.960900
 price: "$"
 type: "Italian"
 ---

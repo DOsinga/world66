@@ -1,23 +1,12 @@
 ---
-title: "Bird-Watching at Prospect Park Audubon Center"
+title: "Prospect Park Audubon Center"
 type: poi
-address: "Enter on Lincoln Road or Flatbush Avenue at Empire Boulevard"
+category: "Sight"
+address: "Enter on Lincoln Road or Flatbush Avenue at Empire Boulevard, Brooklyn"
 phone: "718-287-3400"
-type: "Other"
 url: "www.prospectparkaudubon.com"
+latitude: 40.660645
+longitude: -73.969414
 ---
 
-Besides taking an electric boat ride or renting a pedal boat for exploration, Prospect Park Audubon Center also offers bird-watching tours. These exciting tours offer a front seat to the more than 200 species that can be found here. Visitors to Prospect Park Audubon Center can also take a tour to learn about nature in the park or explore the many interactive exhibits available onsite. Also onsite is the Visitor Center Boathouse. Enter on Lincoln Road or Flatbush Avenue at Empire Boulevard.
-
-**Contributors**
-May 18, 2008
-
-type: Other
-
-
-
-tel: 718-287-3400
-
-url: [www.prospectparkaudubon.com](http://www.prospectparkaudubon.com)
-
-address: Enter on Lincoln Road or Flatbush Avenue at Empire Boulevard
+The only urban Audubon Center in the country, based in the boathouse on Prospect Park Lake in Brooklyn. Over 200 bird species have been recorded in the park, and guided birdwatching tours run regularly. You can also rent pedal boats or take an electric boat ride on the lake — a nice break from the grind of Manhattan sightseeing.

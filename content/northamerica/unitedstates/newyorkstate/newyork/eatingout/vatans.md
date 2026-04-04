@@ -5,7 +5,7 @@ address: "409 3rd Ave @ 41st"
 phone: "212-689-5666"
 type: "Indian and Pakistani"
 zipcode: "10016-8103"
-latitude: 40.65261
+latitude: 40.748100
 longitude: -74.009828
 ---
 

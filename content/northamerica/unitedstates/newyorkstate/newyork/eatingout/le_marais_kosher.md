@@ -3,6 +3,8 @@ title: "Le Marais (kosher)"
 type: poi
 address: "46th between 6th & 7th Aves"
 price: "$20-70"
+latitude: 40.757900
+longitude: -73.987400
 type: "French"
 url: "www.lemarais.net"
 ---

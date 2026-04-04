@@ -1,52 +1,10 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-Rio has restaurants to suit every taste and budget with options for every size of group from two to many hundreds. Eating out is a major attraction with the Cariocas themselves so you can expect the best, be it that you choose top quality French cuisine, or something more traditionally Brazilian, such as barbecue or a filling feijoada.  
+Rio has restaurants for every taste and budget. The quintessential Brazilian meal is **churrasco** -- slow-grilled meats brought to your table on skewers in an endless parade. Rodizio-style churrascarias charge a fixed price and keep the meat coming until you flip your card to red. For something more traditionally Carioca, try **feijoada** -- a rich black bean stew with pork, served with rice, farofa and orange slices. [Casa da Feijoada](/southamerica/brazil/riodejaneiro/eatingout/casa_da_feijoada) in Ipanema serves it every day, not just the traditional Saturday.
 
-**all**
+The seafood is excellent, particularly in Santa Teresa where [Sobrenatural](/southamerica/brazil/riodejaneiro/eatingout/sobrenatural) serves Amazonian-influenced fish dishes in a colonial house. Ipanema and Leblon have the highest concentration of upscale restaurants -- [Zuka](/southamerica/brazil/riodejaneiro/eatingout/zuka) on Rua Dias Ferreira is a standout for contemporary Brazilian cuisine. For vegetarians, [Semente](/southamerica/brazil/riodejaneiro/eatingout/semente) in Lapa has a solid vegan menu with a juice bar.
 
-**Restaurante Sírio e Libanês**
-
-Good for falafel and other Lebanese specialities.
-
-address: Rua Senhor dos Passos,217 - Centro
-
-tel: 224 5676
-
-**Associação Macrobiotica **
-
-The only Macrobiotic restaurant in Rio.
-
-**Semente **
-
-Vegan restaurant with a juice bar.  
-
-address: Rua Joaquim Silva, 138 Lapa
-
-tel: 21-242-5165
-
-**Health's **
-
-Best vegetarian option with a juice bar and a salad bar.  
-
-address: R. Senador Dantas, 84, Loja 'G' (Crosstr. Centro)
-
-tel: 21-240-5388
-
-**Carretão Churrascaria**
-
-A really great place to have churrasco, the Brazilian word for slow-grilled meats. If you like meat, this is *the place* in Copacabana to get it. The price is fairly reasonable for Americans and Europeans, considering that to get a comperable meal at an off-peak hour at a similar establishment in Chicago costs around USD 30 [more..](/southamerica/brazil/riodejaneiro/eatingout/carretochurrascaria)
-
-address: Rua Ronald de Carvalho, 55 A e B - Praça do Lido, Copacabana - 22021-020 - Rio de Janeiro - RJ
-
-tel: (21) 2543-2666
-
-PriceOfMenu: R$ 21,90
-
-email: carretao@carretao.com.br
-
-priceofmenu: R$ 21,90
-
-zipcode: CEP: 22021-020
+Eating out in Rio is generally affordable by European or North American standards, and portions are generous. Many restaurants offer *prato feito* (fixed plate) lunches for very reasonable prices.

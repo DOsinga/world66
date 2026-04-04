@@ -1,16 +1,12 @@
 ---
-title: "Yogyakarta"
+title: 'Yogyakarta'
 type: location
-latitude: -7.977838
-longitude: 110.367226
+latitude: -7.9778
+longitude: 110.3672
 ---
 
-Yogya is the main centre of Javanese culture. [Solo](/asia/indonesia/java/solo) is a good runner up, but Yoghya is the number one for traditional dance, Wayang and music. 
+Yogya is the heart of Javanese culture. Founded in 1755 as the capital of the Mataram kings, it retains its sultanate to this day -- the current Sultan still lives in the Keraton, the sprawling 18th-century palace that is really a city within a city. This is the place to experience gamelan music, wayang shadow puppetry, classical dance, and batik-making at their best. [Solo](/asia/indonesia/java/solo) is a worthy runner-up, but Yogya is number one.
 
-Yogya was founded in 1755 and was the capital of the Mataram kings when the Duthc came along. The Dutch granted the kings the title of Sultan of the territory of Yogyakarta. 
+The city is also a lively, youthful place. Around 100,000 students attend its universities, which gives Yogya an energy that the courtly traditions alone would not explain. Jalan Malioboro is the main drag -- always crowded, lined with shops and food stalls, and the center of gravity for travelers. Most of the cheaper hotels are clustered along this street and the Prawirotaman area to the south.
 
-Yoghya has more than just culture. It is a very lively city and a shoppers delight. Jalan Maliobor is the main street and it is always crowded. Most of the shops and cheaper hotels are along this street. 
-
-The key attraction of Yogyakarta is the Keraton, the Sultan's Palace. This huge complex was built in the 18th century, and is actually a city within the city with luxurious pavilions and in which the current Sultan still resides. 
-
-Yoghyakart is an excellent strating place to take day trips from. The Borobudur, the Dieng Plateau and Solo can all be visited from here.
+Yogya is an excellent base for day trips. [Borobudur](/asia/indonesia/java/borobudur), the world's largest Buddhist monument, is 42km away. The Hindu temples of Prambanan are just 7km east. The Dieng Plateau and [Solo](/asia/indonesia/java/solo) are both within easy reach. You could spend a week here without running out of things to do.

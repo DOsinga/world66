@@ -1,6 +1,6 @@
 ---
-title: "Getting There in Bhattarika"
+title: 'Getting There'
 type: section
 ---
 
-108 Kms from Cuttack. Regular bus facilities available from Cuttack.
+Bhattarika is 108 km from Cuttack. Regular bus services run from Cuttack throughout the day.

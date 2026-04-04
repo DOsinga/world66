@@ -1,12 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-underage lolita lesbians | free lesbian anime | russian lesbian | watch lesbian movies | lesbian literature | hardcore lesbian orgy | lesbian story
-http://rvlu.ch/phpBB/viewtopic.php?p=53469
-http://www.gbgland.co.uk/phpbb/viewtopic.php?p=124045
-http://www.daski.dk/phpbb/viewtopic.php?p=2015
-http://my.surfclub.ru/phpbb/viewtopic.php?p=9685
-http://php.tzege.com/viewtopic.php?p=148441
-http://www.smartcoder.net/forum/viewtopic.php?p=12517
+San Francisco International Airport (SFO) is the main gateway, located about 13 miles south of downtown. BART runs directly from the airport to the city center in about 30 minutes. Oakland International Airport (OAK) across the Bay is often cheaper for flights and connects to San Francisco via BART as well.
+
+If you are driving, Interstate 80 brings you across the Bay Bridge from the east, and US-101 enters from the south and across the Golden Gate Bridge from the north. Amtrak serves the Bay Area via Emeryville station, with a connecting bus to San Francisco.

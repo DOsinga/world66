@@ -1,13 +1,8 @@
 ---
-title: "Day Trips"
+title: 'Day Trips in the Algarve'
 type: section
-email: "geral@mouriscastours.com"
-phone: "+351963857776"
 ---
 
-Historic Tour
+**Roman Heritage Tour** -- The Romans left a deep mark on the Algarve. A circuit through the region takes in Roman mosaics at the Faro museum, the 11th century castle and Church of Santa Maria in [Tavira](/europe/portugal/algarve/tavira), and the archaeological site at Cerro da Vila near Vilamoura, where a Roman settlement once thrived on the lagoon margins.
 
-### [Roman Tour
-
-The romans showed in the whole Algarve for a deep transformation of living. In this circuit we will see:The famous existent Roman tiles in the museum of Faro. Tavira has Roman tracks where we'll visit the XI century castle, the Church of Santa Maria and the old quarter.Cerro da Vila was one of the chosen areas for Romans settlement, due to the privileged location in the margins of a lagoon with easy connection to the sea, that allowed to shelter the ships in the continuation of the different stages of their comercial routes.The Romans give a new pulse to the economics activities developing the salt fish industry, the agriculture and the mine exploration of the copper and iron.
-more..](/europe/portugal/algarve/day_trips/roman_tour)
+**Age of Discovery Tour** -- [Sagres](/europe/portugal/algarve/sagres) and Lagos were the launching points for Portugal's 15th century voyages of discovery. Visit Prince Henry the Navigator's fortress at Sagres, the wind compass rose, and the old port at Lagos where many expeditions began.

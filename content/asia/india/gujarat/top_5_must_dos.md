@@ -1,57 +1,24 @@
 ---
-title: "Top 5 Must Do's in Gujarat"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-The **Gujarat Must Do's** guide is your
-recourse to planning your Gujarat itinerary. Being one of the best
-tourist places in India, with a vibrant life, Gujarat promises fun and
-entertainment to tourists and locals alike. Plan your Gujarat tour in a
-way that you can participate in every entertainment activity here.
+**1. See Lions at Gir Forest**
 
-**1. Water Sports on Gujarat Beaches**
+The Asiatic lion survives only in the Gir Forest of Gujarat -- making this one of the world's great wildlife experiences. Jeep safaris from Sasan Gir take you through dry deciduous forest where the chances of spotting the king of the jungle are genuinely good. The forest is also home to leopards, spotted deer, and the unique four-horned antelope.
 
-Gujarat boasts numerous pristine beaches. Somnath beach, Ahmedpur
-Mandvi beach, Chorwad Beach, Kutch Mandvi Beach, Gopnath beach and
-Dwarka beach are some of the serene beaches in Gujarat. Swimming in the
-turquoise waters of the Arabian Sea is an exhilarating experience.
-Strolling on these beaches provides relaxation from the humdrum of the
-buzzing city life. The view of fishermen catching fish in their fish
-trawlers is simply stupendous. You can also participate in fun and
-frolic activities. Riding a water scooter, wind surfing, paragliding,
-skiing, sailing offer more than mere entertainment.
+**2. Walk the White Rann under a Full Moon**
 
-**2. Traveling by Royal Orient Train**
+The Great Rann of [Kutch](/asia/india/gujarat/kutch) is a vast salt marsh that dries into a blinding white expanse stretching to the horizon. Visit during a full moon and the effect is otherworldly -- white ground merging into a starlit sky. The Rann Utsav festival from November to February offers tent accommodation right on the edge.
 
-Being one of the most exotic trains, the Royal Orient Train offers a
-journey worth remembering. Journey by this special train is a thrilling
-experience, something that gives you the feel of being part of the era
-of the royal India. You will simply love traveling to Gujarat and
-Rajasthan by this train.
+**3. Dance through Navratri**
 
-3. **Wildlife Safari **
+Gujarat's nine-night Navratri festival, usually in October, is the most exhilarating cultural experience in the state. Join thousands of people in traditional dress dancing the Garba and Raas in massive open-air venues in [Ahmedabad](/asia/india/gujarat/ahmedabad) or [Vadodara](/asia/india/gujarat/vadodara). The energy, colour, and music go until the small hours every night for nine nights straight.
 
-Gujarat boasts a number of wildlife parks. The Gir Forest National
-Park safari is your best recourse to seeing the Asiatic Lions from near.
-The Blackbuck National Park safari gives you the chance to see Black
-Bucks jumping everywhere. Camping in this park is another exciting
-activity you must try during your Gujarat excursion.
+**4. Descend into Rani ki Vav**
 
-**4. Boat Riding in Nal Sarovar Bird Sanctuary **
+The [Queen's Stepwell at Patan](/asia/india/gujarat/patan) is a UNESCO World Heritage Site and one of the most extraordinary structures in India. Seven stories deep, carved with over 800 sculptures, it was designed not just for water but as a subterranean temple. The detail and preservation are stunning.
 
-Ride on a man-driven boat to reach the** **Nal Sarovar Bird
-Sanctuary, which extends for about 120 square kilometers. Watching over
-250 species of birds that have migrated from Siberia and Europe is a
-sight worth catching in your camera. For a bird lover, the perfect time
-to flock to Nal Sarovar is from November to February.
+**5. Climb Mount Girnar**
 
-**5. Exploring Gujarat Archaeological Sites**
-
-Boasting over 400 archeological sites, Gujarat is ideal for exploring
-historical monuments and excavation sites. Explore the
-Champaner-Pavagadh archaeological zone, a UNESCO World Heritage Site,
-replete with grand temples, mosques and forts. Bhadra Tower, Panch Kuwa
-gate, Jami Masjid, Jain temples are some of the historical monuments
-that must form a part of your Gujarat itnierary. These archeological
-sites and historical monuments have brought Gujarat on the world map and
-made it immensely popular for its archeological and historical tourism.
+The sacred hill above [Junagadh](/asia/india/gujarat/junagadh) has over 10,000 stone steps leading to Jain and Hindu temples at the summit. Start before dawn and climb with pilgrims as the sun rises over the Saurashtra plain. It is demanding but deeply rewarding -- one of those rare experiences that is both physical challenge and spiritual journey.

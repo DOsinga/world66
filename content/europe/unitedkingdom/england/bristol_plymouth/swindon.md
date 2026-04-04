@@ -1,22 +1,10 @@
 ---
-title: "Swindon"
+title: 'Swindon'
 type: location
 latitude: 51.561533
 longitude: -1.785432
 ---
 
-Swindon really does not have anything out of the ordinary for any
-tourist other than the relief you feel when leaving. So it has a
-railway museum...must be a great town then. Any place whose main
-tourist attraction is a museum centered around a bygone rail era is
-showing how little it really has to offer. Want to visit a french,
-lebanese or greek restaurant for a sit down after a trip to Swindons
-premier attraction? Sorry, the Swindonian culture precludes any
-culinary delights that do not include Italian or Indian cuisine. You'll
-have to go to Bath or Bristol for that. Swindon has grown immensely in
-recent times. Sadly this has only resulted in congested roads and
-substandard shopping facilities. You'll also find the town has no
-architecture of note, unless you consider the link centre or the
-renault building (as featured in a James Bond flick) the pinnacle of
-architectural achievements. The nightlife in Swindon is great if you
-are into the pubs with music pumping. It's like a flash
+Swindon is not a destination most people would travel to for its own sake, but it has its merits. The town grew rapidly around the Great Western Railway works in the 19th century, and the STEAM Museum of the Great Western Railway is genuinely worth a visit if you have any interest in industrial history.
+
+The town has expanded enormously in recent decades, bringing traffic congestion and unremarkable retail parks. The nightlife is mainly pub-based. For a wider choice of restaurants or a proper day out, [Bath](/europe/unitedkingdom/england/bristol_plymouth/bath) and [Bristol](/europe/unitedkingdom/england/bristol_plymouth/bristol) are both within easy reach. Swindon does make a practical base for exploring the Wiltshire countryside, [Avebury](/europe/unitedkingdom/england/bristol_plymouth/avebury) and the Ridgeway.

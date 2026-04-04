@@ -1,9 +1,10 @@
 ---
-title: "Practical Information in Bristol, Plymouth and the South-West"
+title: 'Practical Information'
 type: section
 ---
 
-Bristol, England is an award-winning destination which has been on a meteoric rise in prominence with a series of awards and accolades including one of the world’s top 10 cities to visit. It is no wonder the city is turning heads with its luxury hotels, 5-star bed and breakfast destinations and Bristol new $35 million retail development; Cabot Circus will give even the most discriminating shopper pause. From the Visitors will be hard pressed to decide what to do first. Should it be to visit one of the city s many museums or rock climbing in the Avon Gorge? Should you take a guided tour on a City Sightseeing Bus or and unusual species at Bristol Zoo Gardens? With so many options, sometimes deciding what to do is the hardest part.
+The south-west is well connected to the rest of England. Train services from London Paddington reach [Bristol](/europe/unitedkingdom/england/bristol_plymouth/bristol) in under two hours, [Bath](/europe/unitedkingdom/england/bristol_plymouth/bath) in 90 minutes, and [Exeter](/europe/unitedkingdom/england/bristol_plymouth/devon/exeter) in about three hours. The M4 motorway runs west to Bristol and south Wales, while the M5 heads south through Somerset and Devon.
 
-**Contributors**
-January 20, 2009
+Bristol Airport serves domestic and European destinations. Exeter Airport has a smaller range of flights. [Plymouth](/europe/unitedkingdom/england/bristol_plymouth/devon/plymouth) has ferry connections to Brittany in France and Santander in Spain via Brittany Ferries.
+
+The region is large and a car is useful for exploring the countryside, national parks and smaller villages. Bus services connect the main towns but become infrequent in rural areas. The Devon and Cornwall coastline is well served by the South West Coast Path for walkers.

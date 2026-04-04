@@ -1,6 +1,8 @@
 ---
-title: "Sights"
+title: 'Sights'
 type: section
 ---
 
-Morbi was ruled by jadeja family. There are few statues of Morbi rulers in Morbi. The oldest being that of Maharaja Thakor Waghji next one is that of Maharaja Lakhdhirsinhji whose statue stands near Mani Mandir also known as Willingdon Secretariate. The third being that one of Maharaja Mahendrasinh outside Town Hall.
+Morbi was ruled by the Jadeja family, and statues of its rulers dot the town. The oldest is of Maharaja Thakor Waghji. Near the Mani Mandir (also known as Willingdon Secretariat) stands the statue of Maharaja Lakhdhirsinhji, and outside the Town Hall is the statue of Maharaja Mahendrasinh.
+
+The **Mani Mandir** itself is an impressive palace that served as the seat of the Morbi rulers. The **Hanging Bridge** over the Machchu river and **Victoria Garden** are the other main sights.

@@ -1,32 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**By Road:**
+Udaipur has good connections by air, rail, and road. Maharana Pratap Airport (UDR) has daily flights to Delhi, Mumbai, and Jaipur, with some seasonal routes to other cities.
 
- Udaipur is well connected with Agra 630 Kms, Delhi 670 Kms, Bombay 739 Kms, Ahmedabad 260 Kms, Ajmer 265 Kms, Chittaurgarh 115 Kms,Jaipur 405 Kms and Jodhpur by 275 Kms.
-
-  **By Rail:**
-
- Udaipur is connected by rail with cities and towns in and around Rajasthan. Check ** Railway Timetable ** for more information.
-
-  **Trains available from Udaipur:**
-
- Delhi Sarai Rohilla to Udaipur (Chetak Express - 9615) Daily, Time: 14.10
-
- Delhi Sarai Rohilla to Udaipur (Delhi Sarai Rohila Ahmedabad Express - 9943) Daily, Time: 21.00
-
-  **By Air:**
-
- Connecting flights from Bombay, Delhi, Jaipur and Jodhpur are available, approximate fare is Rs3500 Onwards. You can check **Check** which flight is available for you and which is the most convenient to you. Also check out **Alliance Air.**
-
-  For more information, you can contact:
-
- **Tourist Reception Centre**
-
- Fateh Memorial
-
- Suraj Pol
-
- Tel: +91 294 411535
+By rail, Udaipur is connected to Delhi (12 hours by Chetak Express), Ahmedabad (6-7 hours), Jaipur (8-9 hours), and Chittorgarh (2 hours). The city station is centrally located. By road, distances are: Ahmedabad 260 km, Chittorgarh 115 km, Jaipur 405 km, Jodhpur 275 km, Delhi 670 km, and Mumbai 739 km. The tourist reception center at Fateh Memorial, Suraj Pol can provide current transport information.

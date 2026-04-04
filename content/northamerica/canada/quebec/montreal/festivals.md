@@ -1,82 +1,24 @@
 ---
-title: "Festivals in Montreal"
+title: 'Festivals'
 type: section
-address: "5445 De Gaspe. suite #710"
-date: "september 29th to october 3rd"
-email: "fred@popmontreal.com"
-phone: "514-842-1919"
-url: "www.popmontreal.com"
 ---
 
-The sheer number of **Montreal festivals **means that there will
-likely be some kind of festival to entertain you during your trip to
-Montreal. Here is just a handful of the kinds of diverse festivals that
-take place in Montreal throughout the year:
+Montreal calls itself the festival capital of North America, and the claim is hard to argue with. From late spring through early fall, there is almost always something happening, and several of these events are genuinely world-class.
 
-**Festival Montreal en Lumiere (Montreal High Lights Festival)**
+**Montreal International Jazz Festival** runs for about ten days at the end of June and into July. Hundreds of concerts -- many of them free on outdoor stages around the Quartier des Spectacles -- draw over two million visitors. Even if you are not a jazz fan, the atmosphere is infectious. Book accommodation early.
 
-Held for ten days during February, the High Lights Festival is
-easily one of the most popular winter festivals in all of Canada as
-around 750,000 people attend annually. The largest culinary festival in
-Canada, the festival also focuses on art and culture as well as serving
-as a celebration of light. The brilliant artistic array of electric
-lights on the long, dark winter nights is a sight to behold.
+**Just for Laughs** (Juste pour Rire) is the largest comedy festival in the world, taking over the city for most of July. French-language shows run in the first half, English in the second. The lineup ranges from amateur street performers to international headliners. Past performers include Jerry Seinfeld, John Cleese, and Dave Chappelle. Many outdoor shows are free.
 
-You can sample global and Canadian cuisine and wine at an expansive
-festival ground that covers Old Montreal, Quays of the Old Port and the
-Place des Festivals. Enjoy music, light shows and art on display. Since the festival never ends during the festivities, the Metro stays running 24/7 to accommodate all of the traffic.
+**Osheaga Music and Arts Festival** is a major outdoor music festival held on Parc Jean-Drapeau in early August. The lineup leans toward indie rock, electronic, and hip-hop, with big-name headliners and a beautiful island setting.
 
-**Juste pour Rire** **(Just for Laughs)**
+**Montreal World Film Festival** (Festival des Films du Monde) runs for about 12 days in late August and early September. It is the only competitive North American film festival accredited by FIAPF, and it skews toward international and independent cinema rather than Hollywood fare.
 
-The largest comedy festival in the world is held in Montreal every
-July for nearly the entire month. Featuring French-speaking comedians
-for the first half of the festival and English-speaking comedians for
-the second half of the festival, comedians from around the world give
-shows, show movies and engage in street performances. Amateur,
-professional and world-famous comedians alike appear during the
-festivities. Past participants include celebrities such as Jon Stewart,
-Jeff Foxworthy, Tim Allen, Jerry Seinfeld, John Cleese, Jason Alexander and Bill Cosby.
+**POP Montreal** is an independent music and arts festival in late September, showcasing emerging artists from around the world alongside local talent. Venues are scattered across Mile End and the Plateau, and the atmosphere is more intimate and underground than the bigger festivals.
 
-Because the festivities last practically all month long, you can
-pick and choose which parts of the festival you want to attend. You'll
-also be sure to fit in at least one event during any trip in the month
-of July, so you won't have to worry about missing out on the
-festivities even when your travel itinerary is hectic.
+**Festival Montreal en Lumiere** (High Lights Festival) brightens up February with ten days of food, art, and light installations. It is the largest winter festival in the country, centered on Old Montreal and the Quartier des Spectacles. The metro runs all night during the festival.
 
-**Le Festival des Films du Monde (Montreal World Film Festival)**
+**Fete des Neiges** at the end of January celebrates winter with ice carving, skating, tube slides, and outdoor activities in Parc Jean-Drapeau.
 
-For 12 days in late August and early September, the only competitive North American film festival with FIAPF (Paris-based International Federation of Film Producers Association) accreditation is held in Montreal. Featuring both small and large-budget films from around the world, but with few (if any) films made in Hollywood, the Montreal World Film Festival is a chance to push aside the typical Hollywood blockbuster and see what the rest of the world has to offer to advance the art of movie-making.
+**Canadian Grand Prix** in early June brings Formula 1 racing to the Circuit Gilles-Villeneuve on Ile Notre-Dame -- one of only two F1 races in North America. The weekend transforms the city.
 
-Awards are given to the best films, actors, actresses, directors and behind-the-scenes technicians in these films from around the world. There's even a Canadian student film competition.
-
-**Contributors**
-March 19, 2010
-
-March 18, 2010
-
-### [POP Montréal international music festival](/northamerica/canada/quebec/montreal/festivals/pop_montral_inte)
-
-POP Montreal International Music Festival is
-an annual not-for-profit curated cultural event that
-champions independence in the arts by presenting
-emerging and celebrated artistic talents from
-around the world.
-Launched by friends and colleagues in 2002 from
-the collective impulse to create a meaningful and
-vibrant cultural festival, POP Montreal is now entering
-its ninth year as a permanent fixture on the
-Montreal festival map and the international music
-circuit. Each year, the five-day festival presents
-more than 600 artists to audiences of over [more..](/northamerica/canada/quebec/montreal/festivals/pop_montral_inte)
-
-
-
-tel: 514-842-1919
-
-url: [www.popmontreal.com](http://www.popmontreal.com)
-
-date: september 29th to october 3rd
-
-address: 5445 De Gaspe. suite #710
-
-email: fred@popmontreal.com
+**Fete Nationale** on June 24th is Quebec's national holiday, marked by a big parade and celebrations across the city. A great time to see Montreal in a patriotic mood.

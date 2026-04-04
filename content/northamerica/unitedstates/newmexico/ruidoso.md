@@ -1,14 +1,12 @@
 ---
-title: "Ruidoso"
+title: 'Ruidoso'
 type: location
-latitude: 33.33158
-longitude: -105.673099
+latitude: 33.3316
+longitude: -105.6731
 ---
 
-Travel Guide
+Nestled in the White Mountains of southern New Mexico at 6,900 feet, Ruidoso offers alpine relief from the pounding desert heat of the surrounding lowlands. The town sits on the edge of the Mescalero Apache Indian Reservation and is a popular year-round destination with diverse outdoor activities in both summer and winter.
 
-Located in the heart of the White Mountains of southern New Mexico and on the northern edge of the Mescalaro Apache Indian Reservation, the mountain hamlet of Ruidoso (pop 8,500) offers alpine relief at an elevation of 6900 feet from the pounding desert heat of the surrounding lands. Ruidoso is a popular year round destination, offering the most diverse recreational opportunities of any southern New Mexican town and bases the majority of its economy on catering to the hoards of visitors that cross its borders annually. Outdoor recreationalists will find Ruidoso has a variety of activities at its doorstep, both in summer and winter, and a quaint small mountain town appeal that works as a retreat for the soul as well as the body. Visitors looking to round out their recreational quests will find Ruidoso supports a virile artist community and is loaded with galleries to explore. Ruidoso is also well known for its horse racing track, Ruidoso Downs, and its active nightlife.
+Ruidoso supports a thriving artist community with galleries worth exploring, and is well known for its horse racing track at Ruidoso Downs. Dining ranges from cheap home-cooked American meals to more ambitious fare. Book accommodations well in advance for racetrack weekends and holidays -- the town fills up fast.
 
-Ruidoso has a good selection of accommodations for visitors to choose from, though the majority of them are rented far in advance for racetrack weekends and popular holidays so advanced reservations are encouraged. Dining in Ruidoso is also rather diverse, with options ranging from home-cooked American meals on the cheap to expensive menus influenced by five star cuisine from around the world.
-
-Ruidoso is best accessed via NM Highway 70 from Alamogordo to the west. To learn more about Ruidoso, select a topic of interest from the left-hand navigation bar.
+The best approach is via NM Highway 70 from [Alamogordo](/northamerica/unitedstates/newmexico/alamogordo) to the west.

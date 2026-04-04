@@ -29,5 +29,3 @@ Ohiopyle is best known for the state park where the adventurous can enjoy some w
 
 Just two hours north of Pittsburgh lies another major Pennsylvania city, Erie. Here you can shop downtown and visit the various museums or even Splash Lagoon, an indoor water park. Visit Lake Erie and Presque Isle State Park for some beach fun, or head into the Presque Isle Downs and Casino for a bit of excitement.
 
-**Contributors**
-August 27, 2009

@@ -1,10 +1,8 @@
 ---
-title: "Ocean Isle"
+title: 'Ocean Isle Beach'
 type: location
-latitude: 32.784463
-longitude: -79.789826
+latitude: 33.891944
+longitude: -78.428889
 ---
 
-Travel Guide
-
-Ocean Isle Beach, NC is a quiet, unspoiled, family beach located just north of Myrtle Beach, SC.
+Ocean Isle Beach is a quiet, unspoiled family beach on the southern North Carolina coast, just north of Myrtle Beach, South Carolina. The island has managed to avoid the heavy commercial development of its neighbors, making it a good choice for families looking for a peaceful week by the water.

@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Faro"
+title: 'Day Trips in Faro'
 type: section
 ---
 

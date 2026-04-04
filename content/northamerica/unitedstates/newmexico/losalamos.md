@@ -1,10 +1,8 @@
 ---
-title: "Los Alamos"
+title: 'Los Alamos'
 type: location
-latitude: 35.88137
-longitude: -106.298959
+latitude: 35.8814
+longitude: -106.2990
 ---
 
-Located between [Santa Fe](/northamerica/unitedstates/newmexico/santafe) and [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque), Los Alamos is a good base for visiting Best Bandelier National Park.
-
-Known for mesas, sheer-walled canyons, and the ancestral Pueblo dwellings found among them, Bandelier also includes over 23,000 acres of designated Wilderness. It was named for Adolph Bandelier, a 19th-century anthropologist. Proclaimed on February 11, 1916.
+Los Alamos is best known as the birthplace of the atomic bomb, and the national laboratory still dominates the town. But the real draw for visitors is Bandelier National Monument, located between [Santa Fe](/northamerica/unitedstates/newmexico/santafe) and [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque). Bandelier preserves ancestral Pueblo dwellings in sheer-walled canyons and across forested mesas, with over 23,000 acres of designated wilderness. The Bradbury Science Museum in town covers the Manhattan Project history and is free to visit.

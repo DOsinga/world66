@@ -1,6 +1,6 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 
-Bournemouth has a large variety of shops. Check out the ones listed below for some great stuff!
+Bournemouth has a good range of shops, with the main shopping area centred around the town centre and the Castlepoint retail park.

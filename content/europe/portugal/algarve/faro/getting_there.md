@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Faro"
+title: 'Getting There in Faro'
 type: section
 ---
 
@@ -35,5 +35,3 @@ trips to be delayed. Also, night departures are quite limited. However,
 traveling by bus and train does offer a better idea of the land and it
 does provide plenty of great photo opportunities.
 
-**Contributors**
-March 26, 2010

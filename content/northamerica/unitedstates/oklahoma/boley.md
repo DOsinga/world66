@@ -1,16 +1,14 @@
 ---
-title: "Boley"
+title: 'Boley'
 type: location
 latitude: 35.493489
 longitude: -96.483611
 ---
 
-Travel Guide
+Located on Highway 62 in Okfuskee County in central Oklahoma, Boley is a town of about 1,100 people and one of the most significant towns in Black American history. Established on September 22, 1904, Boley is one of the few surviving towns originally founded as an all-Black community.
 
-Located on Highway 62 in Okfuskee on Central Oklahoma, Boley is a town of 1,100 people and is a significant town in Black history. Established on September 22, 1904, Boley is one of the few towns that still exist that were originally established as all Black communities. The town was incorporated in 1905 as Boley, Creek Nation, Indian Territory, and became Boley, Oklahoma in 1907 when statehood was established.
+By 1911 Boley had a population of 4,000 and was thriving. It was home to the first Black-owned electric company and the first Black-owned bank in the United States. Booker T. Washington called it "the most enterprising, and in many ways the most interesting of the Negro towns in the U.S."
 
-By 1911 Boley had a population of 4,000 people. Boley afforded opportunities to its African-American residents that were largely unavailable in other towns. So the early days saw a boom in business and growth. It was home to the first Black-owned electric company and the first Black-owned bank in the United States. Booker T. Washington stated that Boley was “the most enterprising, and in many ways the most interesting of the Negro towns in the U. S.”
+Boley's downtown district is on the National Register of Historic Places. The **Farmers and Merchants State Bank**, the first Black-owned bank in the country, is worth visiting -- its president was killed during a robbery attempt by members of Pretty Boy Floyd's gang on November 2, 1932, but townspeople shot the robbers before they could escape. The **Annual Memorial Day Boley Rodeo** has been a popular event since 1961.
 
-Boley's downtown district is on the National Register of Historic Places. Travellers will want to visit Farmers and Merchants State Bank, the first Black-owned bank in the United States. The bank president was killed in a robbery attempt by members of Pretty Boy Floyd's gang on November 2, 1932. The robbers, two white and one black, were killed by townspeople before they could complete the robbery. Other significant places in Boley's history include the Boley High School. And the Annual Memorial Day Boley Rodeo has been a popular event since 1961.
-
-Hannibal B. Johnson wrote about a boy growing up in Boley in his book *No Place Like Home: A Story about an All Black, All American Town*. It is a fictional story about twelve-and-a-half-year-old-boy Charles "Charlie" Jackson in 1920 -- a time when Boley was a thriving Black Mecca.
+Hannibal B. Johnson's book *No Place Like Home: A Story about an All Black, All American Town* tells the fictional story of a boy growing up in Boley in 1920, when the town was at its peak.

@@ -1,10 +1,8 @@
 ---
-title: "Montrose"
+title: 'Montrose'
 type: location
-latitude: 38.437539
-longitude: -108.240386
+latitude: 29.7459
+longitude: -95.3940
 ---
 
-The Montrose area is known as Houston's gayest neighborhood and -- as so often happens -- its most bohemian neighborhood as well. Tony antique shops share the blocks with tatoo parlors and piercing palaces. Gay bars cluster around Pacific Street, while shopping is centered on the busy intersection of Montrose and Westheimer. 
-
-Come in June for the Westheimer Street Fair and stay for the largest nighttime gay pride parade in the US. Don't forget to bring your sunscreen and mosquito repellent, and dress for a hot and steamy Texas summer.
+Montrose is Houston's most bohemian neighborhood. Antique shops share the blocks with tattoo parlors and piercing studios. Gay bars cluster around Pacific Street, while shopping centers on the busy intersection of Montrose and Westheimer. Come in June for the Westheimer Street Fair and the largest nighttime gay pride parade in the US. Bring sunscreen and mosquito repellent, and dress for a hot and steamy Texas summer.

@@ -1,9 +1,9 @@
 ---
-title: "Day Trips in Rudesheim"
+title: 'Day Trips'
 type: section
 ---
 
-Planning for **Rudesheim day trips **need not be difficult, as there are a lot of interesting places where you can visit for your day trip in Rudesheim. Rudesheim is located in Rhine Gorge. What is interesting about this place is that it is part of the UNESCO World Heritage Sites, considering that it is an ancient wine-making town. Although spending the day within Rudesheim is enough to fill your senses, there are a lot of interesting places around Rudesheim that are worthy of your visit; one of these places is the hiking trail in Rheinsteig.
+Rudesheim sits in the UNESCO-listed Rhine Gorge, and the surrounding area has plenty to explore beyond the town itself.
 
 **Hiking Trails in Rheinsteig**
 

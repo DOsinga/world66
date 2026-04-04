@@ -1,22 +1,11 @@
 ---
-title: "Economy Book and Video Center"
+title: 'Economy Book and Video Center'
 type: poi
-address: "Via Torino 130"
-phone: "+39 06 4746877"
-type: "Book shops"
-latitude: 41.901336
-longitude: 12.495782
+category: 'Book shops'
+address: 'Via Torino 130'
+phone: '+39 06 4746877'
+latitude: 41.9013
+longitude: 12.4958
 ---
 
-Economy Book and Video Center sells books of all kinds, in English only. You can find a wide selection of new and used books here, as well as greeting cards, videos, and more.
-
-**Contributors**
-May 22, 2008
-
-type: Book shops
-
-
-
-tel: +39 06 4746877
-
-address: Via Torino 130
+English-language bookshop near Termini with a wide selection of new and used books, plus greeting cards and videos. A good stop for English readers looking to stock up on holiday reading.

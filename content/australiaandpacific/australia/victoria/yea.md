@@ -1,14 +1,8 @@
 ---
-title: "Yea"
+title: 'Yea'
 type: location
-latitude: -37.213047
-longitude: 145.422469
+latitude: -37.2130
+longitude: 145.4225
 ---
 
-Travel Guide
-
-Yea ( 37°12′S, 145°25′E) is a town in Victoria, Australia. It is in the Murrindindi Shire local government area. Located 109 km north-east of Melbourne via the Melba Highway, Yea sits at the junction with the Goulburn Valley Highway, and 172 metres above sea-level. At the 2001 census, Yea had a population of 969.
-
-The area was occupied by the Woiwurung people before white settlement. The first Europeans in the area were a party of explorers lead by William Hovell and Hamilton Hume who crossed the Yea River near the location of current day Yea in 1824. Their favourable report of the grazing land they had seen contributed to the formation of a new settlement that is now known as the state of Victoria.
-
-The first settlers in the district were overlanders from New South Wales, who arrived in 1837. By 1839, settlements and farms dotted the area along the Goulburn River.
+A quiet country town about two hours northeast of Melbourne, Yea sits at the junction of the Melba and Goulburn Valley highways. The surrounding Murrindindi Shire is pastoral countryside with good fishing on the Yea River and access to the forests of the Great Dividing Range. It is a popular stop for travelers heading to the ski fields or the High Country.

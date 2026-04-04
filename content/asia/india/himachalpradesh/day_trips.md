@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Himachal Pradesh"
+title: 'Day Trips'
 type: section
 ---
 

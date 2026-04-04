@@ -1,30 +1,7 @@
 ---
-title: "Oklahoma City Antique District"
+title: 'Oklahoma City Antique District'
 type: poi
-address: "10rh and May Streets"
-type: "Antiques"
+address: '10th and May Streets'
 ---
 
-There are numerous shops that have antiques and collectibles that can be found in the Antique District of Oklahma City. Located just north of the Oklahoma Fairgrounds, the Antique Dirstrict starts with several antique malls and shop at the Intersection of 10th and May and runs several blocks up May Street. Shops included in this area include: Ancient of Days Antique Mall
-Antique Alley
-Antique Co-op
-Apple Orchard Antique Mall
-Bare Necessities
-Buckboard Antiques
-Carousel Horse Antiques
-Clyde's Antiques
-May Antique Centre
-Memory Market
-Mike's Antiques
-Pack Rats
-Select Interiors
-Villa Antique Mall
-
-**Contributors**
-February 22, 2008
-
-type: Antiques
-
-
-
-address: 10rh and May Streets
+The Antique District of Oklahoma City lies just north of the fairgrounds, starting at the intersection of 10th and May and running several blocks up May Street. Dozens of shops cluster here, including Ancient of Days Antique Mall, Antique Alley, Apple Orchard Antique Mall, Buckboard Antiques, Carousel Horse Antiques, May Antique Centre, Memory Market, Pack Rats, and Villa Antique Mall among others.

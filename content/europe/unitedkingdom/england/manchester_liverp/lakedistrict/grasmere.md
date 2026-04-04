@@ -1,13 +1,10 @@
 ---
-title: "Grasmere"
+title: 'Grasmere'
 type: location
 latitude: 54.459388
 longitude: -3.024366
 ---
 
-Grasmere is an attractive village situated at roughly the geographical centre of the Lake District. It is of particular interest to fans of the poet, William Wordsworth who went to live in Dove Cottage for about eight years before and after his marriage until eventually increased family size made it too small.
+Grasmere is an attractive village at roughly the geographical centre of the Lake District. It is of particular interest to fans of the poet William Wordsworth, who lived in Dove Cottage for about eight years before and after his marriage, until his growing family made the cottage too small. Dove Cottage and the Wordsworth Museum are well worth a visit.
 
-The Website for Dove Cottage and the Wordsworth Museum is www.wordsworth.org.uk
-
-**Contributors**
-December 07, 2004
+The village is also famous for its gingerbread, made to a secret recipe at the tiny Sarah Nelson's shop beside the churchyard where Wordsworth is buried.

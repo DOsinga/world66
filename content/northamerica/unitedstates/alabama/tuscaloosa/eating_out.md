@@ -1,9 +1,6 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-Tuscaloosa is the world capital of barbecue. Although Dreamland gets all the hype, it's a far cry from the real thing. Woodrow's on University Blvd. is the best in the world-- Carolina-style, thin, spicy sauce. Addictive. Take a thermos to buy extra sauce for your fridge.
-
-**Contributors**
-March 16, 2005
+Tuscaloosa takes its barbecue seriously. **Dreamland** gets all the national hype, but locals will tell you it is a far cry from the best. **Woodrow's** on University Boulevard is the real deal -- Carolina-style, thin, spicy sauce that is genuinely addictive. Bring a thermos and buy extra sauce for your fridge.

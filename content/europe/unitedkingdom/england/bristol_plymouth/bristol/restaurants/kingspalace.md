@@ -1,15 +1,6 @@
 ---
-title: "Kings Palace"
+title: 'Kings Palace'
 type: poi
-address: "64, Main Rd Cleeve, Bristol Avon BS49 4PF"
-phone: "01934 832591"
-type: "general"
 ---
 
-type: general
-
-
-
-address: 64, Main Rd Cleeve, Bristol Avon BS49 4PF
-
-tel: 01934 832591
+64 Main Rd, Cleeve. Tel: 01934 832591.

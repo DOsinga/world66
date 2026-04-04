@@ -1,12 +1,14 @@
 ---
-title: "Hershey"
+title: 'Hershey'
 type: location
 latitude: 40.285029
 longitude: -76.653466
 ---
 
-Home to Hershey Park, the Hershey Chocolate manufacturing facility, and Chocolate World, Hershey is a beautiful old town where the smell of chocolate lingers in the air. Even the lampposts are shaped like Hershey kissses. 
+Hershey is the town that chocolate built. Milton S. Hershey founded both the chocolate company and the town itself, and the scent of cocoa still drifts through the streets. Even the lampposts are shaped like Hershey Kisses.
 
-Lush farmland surrounds the city, where much of the milk in the milk chocolate is produced. Hershey is also home to some world class medical facilities, the Hershey Medical Center. 
+Hersheypark is the main attraction -- a full-scale amusement park with roller coasters, water rides, and a zoo. Chocolate World next door offers free factory tours that walk you through the chocolate-making process, ending with a free sample. The town also has Hershey Gardens, a 23-acre botanical garden that started as Milton Hershey's rose garden.
 
-Hershey is also known for its boys' home for orphaned children, commissioned by Milton S. Hershey himself.
+Hershey Medical Center, part of Penn State Health, is a world-class medical facility and a major employer. Milton Hershey also founded a school for orphaned children that still operates today, funded by the Hershey Trust. The surrounding countryside is lush dairy farmland -- much of the milk in the milk chocolate comes from local farms.
+
+Hershey is about 15 minutes east of [Harrisburg](/northamerica/unitedstates/pennsylvania/harrisburg) and makes an easy day trip from [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia), roughly 90 minutes to the southeast.

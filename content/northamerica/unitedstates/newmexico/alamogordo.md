@@ -1,10 +1,8 @@
 ---
-title: "Alamogordo"
+title: 'Alamogordo'
 type: location
-latitude: 32.899882
-longitude: -105.960208
+latitude: 32.8999
+longitude: -105.9602
 ---
 
-Travel Guide
-
-Located in southeastern New Mexico, **Alamogordo** is the gateway to the “Land of Enchantment,” as the state is known. Actually, locals and residents of the state refer to Alamogordo simply as “Alamo,” and it is packed full of interesting things to do, sights to see and great New Mexican cuisine to sample. The Alamo Zoo is the oldest in the southwest. For museums, check out the Old Toy Train Depot. White Sands National Monument is a mere 15 miles away, perfect for a day trip. Also check out Oliver Lee State Park, just south of the town, a site of historic battles between the Apache tribes in the area and the U.S. Army.
+Locals call it simply "Alamo," and this southeastern New Mexico town packs more in than you might expect. [White Sands](/northamerica/unitedstates/newmexico/whitesands) is just 15 miles away, making Alamogordo the natural base for visiting the dunes. The zoo is the oldest in the Southwest, and the Old Toy Train Depot makes for a quirky museum stop. Oliver Lee State Park, just south of town, sits in a dramatic canyon that was once the site of battles between Apache tribes and the U.S. Army.

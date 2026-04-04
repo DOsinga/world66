@@ -1,16 +1,12 @@
 ---
-title: "Jaipur"
+title: 'Jaipur'
 type: location
-latitude: 26.915458
-longitude: 75.818982
+latitude: 26.9154
+longitude: 75.8190
 ---
 
-The Prince of Wales came to visit Jaipur, the capital of Rajasthan, in 1867. In order to show their hospitality, the city was painted pink (pink being the colour in Rajput culture to express hospitality), hence Jaipur’s surname: ‘the pink city’. Not only the remnants of the old city parts give a colourful impression. In Jaipur, many tribal people dress up in their traditional costumes and sell bangles and other handicrafts at one of the many street markets. These markets are especially concentred in the older area of the city that is enclosed within a long wall (at least within what is left of it) with seven gates.
+Jaipur, the capital of Rajasthan, earned its nickname 'the Pink City' when the old town was painted terracotta-pink in 1876 for the visit of the Prince of Wales. The color has stuck, and the walled old city remains a startling sight -- a grid of broad avenues lined with uniform pink buildings, teeming with traffic, traders, and tourists.
 
+The city's big draws are genuinely impressive. The Hawa Mahal (Palace of the Winds) is that famous facade with 953 tiny windows, built so the women of the royal household could watch street life without being seen. The City Palace complex, the Jantar Mantar observatory, and the massive Amber Fort 11 km north of town could fill two or three days on their own.
 
- 
- The jewellery markets are good places to spend your time and money. The Iswari Minar Swarga Sul minaret and the city palace are both interesting historical sights and landmarks. Both the Jantar Mantar (observatory) and the central museum will keep you from the city’s hustle and bustle for quite some time.
-
-
- 
- However, the main reason why Jaipur is famous is because of its Hawa Mahal, or ‘Palace of the Winds’. Although you might expect it to be a bit more impressive, it sure makes a strange impression to see this red sand-stone palace amidst all Jaipur’s recent hustle and bustle. The story goes that the ladies of Singh’s harem where not allowed to go outside, but that they were allowed to look outside without being spotted by the ordinary people. Hence they all got their own window and in case you’re wondering, don’t start counting. There are 953 of those little windows that served as a gateway to a little glimpse of city life and, probably, freedom.
+Jaipur is also a serious shopping city. The bazaars of the old town sell gemstones, blue pottery, block-printed fabrics, and leather mojari shoes. Johari Bazaar for jewelry, Bapu Bazaar for textiles, and Tripolia Bazaar for lac bangles are the main ones to target. Be prepared for aggressive touts, especially around the main tourist sites -- this is one of the most heavily touristed cities in India, and the hassle factor is real.

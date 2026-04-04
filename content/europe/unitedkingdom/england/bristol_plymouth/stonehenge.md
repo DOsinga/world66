@@ -1,13 +1,8 @@
 ---
-title: "Stonehenge"
+title: 'Stonehenge'
 type: location
 latitude: 51.178829
 longitude: -1.826183
 ---
 
-**Stonehenge** is a well-known Neolithic period stone monument
-located on the [Salisbury](/europe/unitedkingdom/england/bristol_plymouth/salisbury) Plain in Wiltshire, England. It is
-administered by English Heritage and forms a World Heritage Monument.
-Another more extensive stone circle is located at [Avebury](/europe/unitedkingdom/england/bristol_plymouth/avebury).
-
-Minor corrections by [wojsyl](/world/member/wojsyl) on 22 March 05
+**Stonehenge** is a well-known Neolithic stone monument on the [Salisbury](/europe/unitedkingdom/england/bristol_plymouth/salisbury) Plain in Wiltshire, England. It is administered by English Heritage and forms a UNESCO World Heritage Site. Another more extensive stone circle is located at [Avebury](/europe/unitedkingdom/england/bristol_plymouth/avebury).

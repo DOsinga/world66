@@ -1,6 +1,8 @@
 ---
-title: "Getting There in Surabaya"
+title: 'Getting There'
 type: section
 ---
 
-I will probably be denleitg my account soon, since you have decided to force the channel change on everyone. I for one, am not for it and refuse to be controlled. So unless, you change it soon, I will be gone, effectively silenced by the Powers That Be. It probably won't have any effect, since I'm only one of many, but I think it worth it to stand up for my principles. Thanks for nothing, and farewell. ~Tara >:(
+Juanda International Airport handles domestic flights from across Indonesia and some international connections. From the airport, taxis and ride-hailing apps are the easiest way into the city center, about 30 minutes away.
+
+Trains arrive at Gubeng Station from [Jakarta](/asia/indonesia/java/jakarta), [Yogyakarta](/asia/indonesia/java/yogyakarta), and [Solo](/asia/indonesia/java/solo). Interstate buses use the Bungurasih terminal south of the city. Ferries to [Bali](/asia/indonesia/bali) depart from Ketapang at the eastern tip of Java, reachable by bus or train.

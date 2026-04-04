@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Bir Billing"
+title: 'Shopping'
 type: section
 ---
 

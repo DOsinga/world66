@@ -1,16 +1,12 @@
 ---
-title: "Jakarta"
+title: 'Jakarta'
 type: location
-latitude: -6.175405
-longitude: 106.827168
+latitude: -6.1754
+longitude: 106.8272
 ---
 
-Jakarta has been in the news quite often lately, but most certainly not for its 'tourist sights'. When the recurrent polical chaos reached its zenith again, the streets of Jakarta showed their grim face, packed with protesting and rioting idealists, fighting the protruding political system. Unfortunately, more rule than exception. After some time, things cool down again for a certain time and the tourists show their faces again.
+Most travelers use Jakarta as a starting or ending point -- catch a flight at Soekarno-Hatta, take a ferry to another island, and spend as little time as possible in between. The city's reputation is chaotic traffic, oppressive heat, and not much to see. This is a shame, because Jakarta has more character than it gets credit for.
 
+The old Dutch quarter around Taman Fatahillah is where colonial Batavia comes alive -- cobblestone squares, warehouses turned into museums, and the Wayang puppet museum. The Monas (National Monument) towers over Merdeka Square, and directly below it, Istiqlal Mosque faces the colonial Gereja Katedral in a deliberate symbol of religious coexistence. Down at the old harbour of Sunda Kelapa, traditional wooden schooners still dock alongside the fish market.
 
- 
- Most travelers use Jakarta as the starting or final point of their destination, whether this is taking a boat to one of the other islands or taking a plane at the Soekarno-Hatta airport. This means that they normally don't go beyond the 'Jalan Jaksa', the area whick is packed with hostels and restaurants. 'Jakarta, love it or leave it', this motto seems to roam the streets around Jalan Jaksa.
-
-
- 
- This is a shame, because although Jakarta does not have to offer that many sights, this commercial centre of Java does have some interesting points. One can find, besides several museums, the heart of the old Dutch town at 'Taman Fatillah'. 'Soekarno's last erection', the Monas, rules over Merdeka Square. When you've had it, take a look at the incoming boats at the old harbour, 'Sunda Kepala', or jump on one of the gigantic ships that sets off for Sumatra when your love-hate relationship has come to an end, in favour of the latter....
+Most backpackers never get beyond Jalan Jaksa, the strip of cheap hostels and restaurants in the center. But the Kemang neighborhood to the south has the best expat bars and restaurants, the malls of Senayan and Grand Indonesia are air-conditioned cities unto themselves, and the street food -- Padang restaurants, satay stalls, nasi goreng carts -- is outstanding. Jakarta is a love-it-or-leave-it city, and it takes a few days to start loving it.

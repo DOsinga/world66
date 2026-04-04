@@ -1,71 +1,30 @@
 ---
-title: "Wildlife"
-type: location
-latitude: 21.245642
-longitude: 70.821501
+title: 'Wildlife'
+type: section
 ---
 
-The state Gujarat offers a great diversity of habitats and has a lot to offer to those that love wildlife. The deep forests at Dang and the Gir give shelter to various sorts of animals, including some of the rarest species that can only be found in Gujarat, such as the Asian lion, the wild ass, the Indian bustard, the four horned antelope (Chowsingha). There are also special bird sanctuaries and an excellent maritime park, when you’re more into the ways of the water. The list that follows is by no means satisfactory and gives only a few names of the many sanctuaries in Gujarat
+Gujarat has a remarkable diversity of wildlife habitats -- from the dry deciduous forests of Gir to the salt marshes of the Rann, the wetlands of Nal Sarovar to the coral reefs of the Marine National Park. Several species found nowhere else in the world survive here.
 
-**all**
+### Gir National Park
 
-**Blackbuck National Park**
+The only place in the world outside Africa where you can see lions in the wild. The Asiatic lion population has recovered from just 15 animals around 1910 to over 600 today. The forest also shelters leopards, sambar deer, spotted deer, nilgai, the unique four-horned antelope (chowsingha), and marsh crocodiles at Kamleshwar Dam. Excellent birdwatching too. Contact: Deputy Conservator of Forests, Sasan. Phone: +91-2877-85541.
 
-This national park has over 1500 blackbucks and jackals.
+### Wild Ass Sanctuary
 
-address: Deputy Conservator of Forests, Bhavnagar
+In the Little Rann of [Kutch](/asia/india/gujarat/kutch), this sanctuary protects the Indian wild ass along with blue bulls, blackbuck, chinkara gazelles, jackals, and wolves. Contact: Deputy Conservator of Forests, Dhrangadhra. Phone: +91-2754-23016.
 
-tel: +91-278-428644
+### Blackbuck National Park
 
-**Nalsarovar Bird Sanctuary**
+Near Bhavnagar, this park has over 1,500 blackbuck and is one of the best places to see these graceful antelopes. Contact: Deputy Conservator of Forests, Bhavnagar. Phone: +91-278-428644.
 
+### Marine National Park
 
- 
+Near [Jamnagar](/asia/india/gujarat/jamnagar), India's first marine sanctuary. At low tide you can walk among the coral reefs and see sponges, sea urchins, octopuses, and marine creatures that blur the line between plant and animal. Contact: Conservator of Forests, Marine National Park, Jamnagar. Phone: +91-288-552077.
 
-**Narayan Sarovar Chinkara Sanctuary**
+### Nal Sarovar Bird Sanctuary
 
+A vast wetland about 60 km from [Ahmedabad](/asia/india/gujarat/ahmedabad), home to over 250 species of migratory birds from November to February, including flamingos, pelicans, and cranes from Siberia and Europe.
 
+### Other Sanctuaries
 
-**Tessore Sloth Bear Sanctuary**
-
-
-
-**Vansda National Park**
-
-
-
-**Thol Wildlife Sanctuary**
-
-
-
-**Porbandar Bird Sanctuary**
-
-
-
-**Shoolpaneshwar Wildlife Sanctuary**
-
-
-
-**Gir National Park**
-
-The main attractions here are the Gir lion, panthers, the Sambar, the Chital (spotted deer), the Nilgai (blue bull), the Chinkara and the Chowsingha . There is also a crocodile farm situated in the forest.
-
-address: Deputy Conservator of Forests, Sasan
-
-tel: +91-2877-85541
-
-**Marine National Park**
-
-Main attractions are plants that look like animals and animals that look like plants. There are also a lot of turtles, shrimps, sponges, sea urchins and octopuses.
-
-address: Conservator of Forests, Marine National Park , Jamnagar.
-
-tel: +91-288-552077
-
-**Wild Ass Sanctuary**
-
-Main attractions are the wild ass, blue bulls, black bucks, chinkaras, jackals and wolves.
-
-address: Deputy Conservator of Forests, Dhrangadhra.
-
-tel: +91-2754-23016
+**Narayan Sarovar Chinkara Sanctuary**, **Shoolpaneshwar Wildlife Sanctuary**, **Vansda National Park**, **Thol Wildlife Sanctuary**, and **Porbandar Bird Sanctuary** are all worth visiting for wildlife enthusiasts with more time.

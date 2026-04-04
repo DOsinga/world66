@@ -1,16 +1,10 @@
 ---
-title: "Shepparton"
+title: 'Shepparton'
 type: location
-latitude: -36.383163
-longitude: 145.398887
+latitude: -36.3832
+longitude: 145.3989
 ---
 
-Travel Guide
+Shepparton calls itself the Food Capital of Australia, and the claim is not entirely tongue-in-cheek. This Goulburn Valley city, about two and a half hours north of Melbourne, is the centre of a major food-processing region. SPC and other manufacturers have long been the backbone of the local economy.
 
-Shepparton is often described as the "Food Capital" of Australia. It lies in the heart of the Goulburn Valley, about 2.5 hours drive north of Melbourne.
-
-Shepparton is a regional city with a diverse industry and commerce base which has flourised around the strength of its food manufacturing. Shepparton Preserving Company, Campbell's Soups and Ardmona Cannery are some of the biggest employers.
-
-The city centre is flat. In fact everything about Shepparton is flat. The only hills you'll find are shared by the city cemetery and golf course. The golfers don't call the 8th hole "coronary hill" for nothing.
-
-If you're looking for things to do, Shepparton is a very sporty place. Tennis, golf, water sports, walking, cycling. Just about any type of sport is catered for with the abundant grounds and facilities.
+The city itself is flat as a pancake. The golfers at the local course call the 8th hole "coronary hill" and they are only half joking. But Shepparton is a sporty place with good facilities for tennis, golf, water sports, and cycling, and the Shepparton Art Museum is a genuine surprise for a regional city.

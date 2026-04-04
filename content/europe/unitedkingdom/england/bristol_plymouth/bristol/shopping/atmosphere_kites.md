@@ -1,15 +1,6 @@
 ---
-title: "Atmosphere Kites"
+title: 'Atmosphere Kites'
 type: poi
-address: "137 St Georges Rd, Hotwells, Bristol, BS1 5UW .UK"
-email: "enq@atmospherekites.com"
-phone: "0117 9087153"
-type: "Speciality shops"
-url: "www.atmospherekites.com"
 ---
 
-Exciting **Kite shop** which is at the cutting edge of Power Kiting. It also sell a whole range of extreme sports equipment from Off- Road Unicycles, Freebords and Dirtsurfers.
-
-Specialises in circus equipment, juggling and some very strange toys.
-
-type: Speciality shops
+A kite shop at the cutting edge of power kiting, also selling extreme sports equipment including off-road unicycles, freebords and dirtsurfers. They specialise in circus equipment, juggling gear and unusual toys. Located at 137 St Georges Rd, Hotwells. Tel: 0117 908 7153.

@@ -1,16 +1,8 @@
 ---
-title: "Things to do"
+title: 'Things to Do'
 type: section
 ---
 
-Meadow Brook Hall and Gardens: An American Castle
+Beyond the major museums, Detroit and its suburbs offer plenty to keep you busy. The Henry Ford Museum and Greenfield Village in Dearborn can easily fill a full day, with everything from JFK's limousine to Thomas Edison's laboratory. The Motown Museum is a must for music lovers. Belle Isle, a 982-acre island park in the Detroit River, has an aquarium, conservatory, and great skyline views.
 
-Meadow Brook Hall is the fourth largest historic house museum
-in the United States and is renowned for its superb craftsmanship,
-architectural detailing and grand scale. Built between 1926 and 1929
-as the residence of Matilda Dodge Wilson (widow of auto pioneer John
-Dodge) and her second husband, lumber broker Alfred G. Wilson,
-the 110-room, 88,000-square-foot, Tudor-revival style mansion is
-complete with vast collections of original art and furnishings.
-
-www.meadowbrookhall.org
+In the northern suburb of Bloomfield Hills, Meadow Brook Hall is the fourth-largest historic house museum in the United States. This 110-room Tudor-revival mansion was built between 1926 and 1929 for Matilda Dodge Wilson, widow of auto pioneer John Dodge. The surrounding grounds and nature trails are worth exploring.

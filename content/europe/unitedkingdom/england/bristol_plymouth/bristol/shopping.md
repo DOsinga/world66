@@ -1,41 +1,6 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
-address: "137 St Georges Rd, Hotwells, Bristol, BS1 5UW .UK"
-email: "enq@atmospherekites.com"
-phone: "0117 9087153"
-type: "Speciality shops"
-url: "www.atmospherekites.com"
 ---
 
-### [Atmosphere Kites](/europe/unitedkingdom/england/bristol_plymouth/bristol/shopping/atmosphere_kites)
-
-Exciting **Kite shop** which is at the cutting edge of Power Kiting. It also sell a whole range of extreme sports equipment from Off- Road Unicycles, Freebords and Dirtsurfers.
-
-Specialises in circus equipment, juggling and some very strange toys.
-
-type: Speciality shops
-
-
-
-[[rate it]](/europe/unitedkingdom/england/bristol_plymouth/bristol/shopping/atmosphere_kites)
-
-tel: 0117 9087153
-
-url: [www.atmospherekites.com](http://www.atmospherekites.com)
-
-address: 137 St Georges Rd, Hotwells, Bristol, BS1 5UW .UK
-
-email:
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Bristol offers a good range of shopping, from the large Cabot Circus development in the centre to independent shops in areas like Gloucester Road, Clifton Village and Stokes Croft.

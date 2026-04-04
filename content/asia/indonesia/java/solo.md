@@ -1,14 +1,10 @@
 ---
-title: "Solo"
+title: 'Solo'
 type: location
-latitude: -7.569249
-longitude: 110.828448
+latitude: -7.5692
+longitude: 110.8284
 ---
 
-A train ride of one hour takes you from [Yogyakarta](/asia/indonesia/java/yogyakarta) to Solo. Formerly known as Surakarta, Solo used to be the capital of the Mataram kings. In many ways Solo is just as important for Javanese culture as Yogya. There are two royal Palaces here, Solo is a major centre for the Batik industry, and has many schools for dance, wayang and traditional music.
+An hour by train from [Yogyakarta](/asia/indonesia/java/yogyakarta), Solo (formally Surakarta) was the capital of the Mataram kings and remains one of Java's most important cultural centers. There are two royal palaces here, Solo is a major center for the batik industry, and it has schools for traditional dance, wayang, and gamelan music.
 
-
- Solo is a pretty laidback city and it can be a relief to stay here for a few days. Compare it to Yogya and you find attractions and sights that are just as good but a lot less tourists to share them with.
-
-
- The Jalan Slmaet Riyadi is the main street. Most accommodation is clustered around the Yos Sudarso and the A Dahlan streets. East of here is the old part of town with temples, palaces and other sights.
+Solo is a notably more relaxed city than Yogya. The attractions and culture are just as good, but there are far fewer tourists to share them with. Jalan Slamet Riyadi is the main street. Most accommodation clusters around the Yos Sudarso and A. Dahlan streets, with the old part of town -- temples, palaces, and markets -- to the east.

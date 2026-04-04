@@ -1,5 +1,5 @@
 ---
-title: "Festivals in Faro"
+title: 'Festivals in Faro'
 type: section
 ---
 
@@ -23,7 +23,3 @@ Faro residents celebrate All Saints Day (November 1), Independence Day (December
 
 Any of these diverse events in the city make a great time to visit Faro. You will see some traditional culture and overall fun atmosphere that will make your trip to Faro all that more memorable for years to come.
 
-**Contributors**
-February 03, 2010
-
-February 26, 2010

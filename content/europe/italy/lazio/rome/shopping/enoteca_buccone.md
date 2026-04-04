@@ -1,27 +1,12 @@
 ---
-title: "Enoteca Buccone"
+title: 'Enoteca Buccone'
 type: poi
-address: "Via Ripetta 19/20"
-phone: "+39 06 3612154"
-type: "Speciality shops"
-url: "www.enotecabuccone.com"
-latitude: 41.909038
-longitude: 12.476213
+category: 'Speciality shops'
+address: 'Via Ripetta 19/20'
+phone: '+39 06 3612154'
+url: 'www.enotecabuccone.com'
+latitude: 41.9090
+longitude: 12.4762
 ---
 
-Choose a bottle or two from the finest selection of wines in all of Rome. This historic wine shop (since the 1800s) is located in the coach house of a former noble townhouse -- a Rome landmark. In addition to a wonderful assortment of wines, including rare vintages that cost several hundred dollars or more, Buccone also sells beer, sodas, water, candy, sweets, biscuits, cheeses, oil, and vinegar. Buccone's small restaurant serves light lunches and dinners. **FYI**: Buccone will ship your wines back home for you. How's that for excellent service?
-
-**Contributors**
-May 23, 2008
-
-type: Speciality shops
-
-
-
-
-
-tel: +39 06 3612154
-
-url: [www.enotecabuccone.com](http://www.enotecabuccone.com)
-
-address: Via Ripetta 19/20
+A historic wine shop operating since the 1800s, housed in the coach house of a former noble townhouse. The selection ranges from everyday bottles to rare vintages costing several hundred euros. They also stock cheese, olive oil, and other Italian delicacies, and will ship wines internationally. A small restaurant on site serves light lunches.

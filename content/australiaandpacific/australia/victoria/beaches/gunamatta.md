@@ -1,9 +1,8 @@
 ---
-title: "Gunamatta"
+title: 'Gunnamatta'
 type: poi
-type: "general"
-latitude: -34.055428
-longitude: 151.149879
+latitude: -38.4764
+longitude: 144.8884
 ---
 
-type: general
+A long, exposed ocean beach on the Mornington Peninsula with consistent surf and a raw, windswept beauty. Strong rips make it better suited to experienced swimmers and surfers. The clifftop walking track offers spectacular coastal views.

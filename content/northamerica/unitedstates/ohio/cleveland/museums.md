@@ -1,28 +1,16 @@
 ---
-title: "Museums"
+title: 'Museums'
 type: section
-address: "751 Erieside Ave"
-url: "www.rockhall.com"
 ---
 
-There is hardly a museum that Cleveland doesn't have. Many of its museums are considered very prestigeous and were heavily endowed by the many wealthy industrialists who lived in Cleveland in the early twentieth century during the country's great age of philanthropy. Cleveland's cultural institutional legacy continues with relatively new museums that add to the mix of more established ones. Downtown museums are found along the lake in the North Coast District, but most of the city's museums are found in University Circle. It is believed that more cultural, educational and medical insitutions are concentrated within a square mile than anywhere else in the world.
+Cleveland has a remarkable concentration of museums, many heavily endowed by the wealthy industrialists who lived here during the early twentieth century. Downtown museums line the lakefront in the North Coast District, but most are found in **University Circle**, where more cultural, educational, and medical institutions are concentrated within a square mile than almost anywhere else in the world.
 
-### [Rock and Roll Hall of Fame](/northamerica/unitedstates/ohio/cleveland/museums/rock_and_roll_hall)
+### Rock and Roll Hall of Fame
 
-Since this museum's openning on downtown Cleveland's lakefront in the mid-nineties it quickly became the number one tourist attraction in the city. The museum of course has the most extensive collection of Rock and Roll memorabilia under one roof open to the public than anywhere else in the world. The museum is beautiful example of modern architecture, and designed by world famous architect I.M. Pei. The gift shop alone is a reason to visit the museum, and you can find many hard to find items for purchase here. The Rock and Roll Hall of Fame is within [more..](/northamerica/unitedstates/ohio/cleveland/museums/rock_and_roll_hall)
+The number one tourist attraction in Cleveland. The museum has the most extensive collection of rock and roll memorabilia open to the public anywhere in the world, housed in a striking modern building designed by I. M. Pei on the downtown lakefront. The gift shop alone is worth a visit, with many hard-to-find items. Opened in the mid-1990s and has drawn visitors ever since.
 
+751 Erieside Ave. [rockhall.com](http://www.rockhall.com/)
 
+### The Cultural Gardens
 
-[[rate it]](/northamerica/unitedstates/ohio/cleveland/museums/rock_and_roll_hall)
-
-url: [www.rockhall.com](http://www.rockhall.com/)
-
-address: 751 Erieside Ave
-
-### [The cultural gardens](/northamerica/unitedstates/ohio/cleveland/museums/the_cultural_garde)
-
-These are sort of an outdoor museum. If you go to culturalgardens.org you will see this amazing tribute to almost 40 countries. These gardens act as a tribute to our history and the people that have shaped the cultural history of Cleveland. Sculptures, gardens, fountains, monuments, are all examples of this wonderfully designed area. It is ever changing, and you will without a doubt run into people from all over the world there.
-
-
-
-[[rate it]](/northamerica/unitedstates/ohio/cleveland/museums/the_cultural_garde)
+An outdoor museum of sorts in Rockefeller Park. Almost 40 countries are represented with dedicated gardens featuring sculptures, fountains, and monuments honoring the ethnic groups that shaped Cleveland's cultural history. Visit [culturalgardens.org](http://culturalgardens.org) for details. You will likely run into people from all over the world here.

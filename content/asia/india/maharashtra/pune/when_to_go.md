@@ -1,53 +1,16 @@
 ---
-title: "When to Go in Pune"
+title: 'When to Go'
 type: section
 ---
 
-In the heat of the summer a great place to beat the heat is in the
-mild climate of **Pune. When to go** is determined by your
-interests, as Pune can be great all year round. However, hill stations
-like those that surround Pune are most popular in India when the rest of
-the country is sweltering in the heat because, at 559 meters above sea
-level, the city remains pleasant and cool. The beautiful flora and fauna
-in the area make Pune an ideal travel destination for anyone visiting
-India.
+Pune's elevated position on the Deccan Plateau gives it a more temperate climate than much of India, but the seasons still matter.
 
-**Weather in Pune
-**
+**October to February** is the best time to visit. Daytime temperatures hover around 25-30°C (77-86°F), nights can drop to 10-12°C (50-54°F), and the air is dry and clear. December and January are the coolest months -- you will want a light jacket for evenings. This is also the season for the Sawai Gandharva classical music festival and pleasant conditions for fort treks.
 
-Pune's climate is considered to be a cool one by Indian standards.
-Temperatures here range from 40 degrees to 98 degrees, making it a great
-place to be throughout the entire year, especially when surrounding
-areas reach upwards of 100 degrees.
+**March to May** gets progressively hotter, with temperatures reaching 38-40°C (100-104°F) in April and May. The city empties out as anyone who can heads to hill stations. However, May brings dramatic pre-monsoon thunderstorms that cool things down temporarily and provide spectacular sunsets.
 
-The best time for visit Pune, in terms of weather, is October through
-March. Weather at this time will be mild, humidity low and there will be
-little to no rainfall. The summer in Pune begins in April and lasts
-through July and can be quite stifling. During May there are many strong
-thunderstorms that lower the temperature significantly.
+**June to September** is the monsoon season. Pune receives moderate rainfall -- less than the coast but enough to turn the Sahyadri hills a vivid green. The hill stations of [Lonavala](/asia/india/maharashtra/lonavala) and [Khandala](/asia/india/maharashtra/lonavala) are at their most beautiful during and just after the rains, with waterfalls everywhere. Roads can be tricky, especially to forts and remote areas, and landslides occasionally close the Mumbai-Pune expressway. If you do not mind getting wet, the monsoon has its own appeal.
 
-Beginning in July and lasting through to August or September is the
-monsoon season, where the humidity rises and rains makes many roads
-impassible and many conditions dangerous. If you do not mind the rain,
-during the rainy season Pune is also vibrant and beautiful with the
-nearby hill stations of Lonavala and Khandala, luxurious and green at this time. Typical days in the rainy season reach
-the mid-70s and drop into the 40s at night.
+**August-September** brings Ganesh Chaturthi, Pune's biggest festival. The city is packed and accommodation fills up well in advance, but the atmosphere is unforgettable. Book early if you want to experience it.
 
-Pune temperatures do not reach extremes and rarely does one feel too hot.
-However, just because there is not agonizing heat does not mean that the
-sun is any less intense. It is important to use sunscreens throughout
-your stay as well as take measures to keep your skin covered and out of
-direct sunlight.
-
-**Pune During a Festival**
-
-Another great time to visit Pune is during a festival when the whole
-city will come alive. September brings the Ganesh Panchami, a fantastic
-festival where large idols of Ganesh are created and ultimately immersed
-at the end of the 10-day festival. If you plan on visiting Pune during
-any of its annual festivals, be sure to book accommodations well in
-advance to ensure that you will not have a problem upon arriving, as
-many places fill up with the crowds of national tourists.
-
-**Contributors**
-February 22, 2010
+Pune's altitude means the sun is strong year-round, even when temperatures are comfortable. Use sunscreen and stay hydrated regardless of the season.

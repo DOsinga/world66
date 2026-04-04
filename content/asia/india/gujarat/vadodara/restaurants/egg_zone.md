@@ -1,16 +1,7 @@
 ---
-title: "EGG ZONE"
+title: 'Egg Zone'
 type: poi
-address: "Near Goodies Bakery, Natubhai Circle, Race Course, Vadodara"
-type: "Indian and Pakistani"
+address: 'Near Goodies Bakery, Natubhai Circle, Race Course, Vadodara'
 ---
 
-Egg lovers? this is the place you want to go and enjoy the mouth watering egg specialities. Along with that, vegeterain and non vegeterain meal combos are also served there. Overall, a good fast-food place ideal for student life.
-
-type: Indian and Pakistani
-
-
-
-
-
-address: Near Goodies Bakery, Natubhai Circle, Race Course, Vadodara
+A fast-food spot popular with students, specialising in egg dishes of every kind. Also serves vegetarian and non-vegetarian meal combos.

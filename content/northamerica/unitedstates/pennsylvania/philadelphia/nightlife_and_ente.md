@@ -1,96 +1,14 @@
 ---
-title: "Nightlife and Entertainment"
+title: 'Nightlife and Entertainment'
 type: section
-address: "2006 Fairmount Ave"
-closing_time: "10 pm"
-email: "info@vinology.com"
-phone: "215-965-1514"
-type: "Wine bars"
-url: "www.vinology.com"
-latitude: 39.967092
-longitude: -75.170536
 ---
 
-Philadelphia is a classic of the East Coast mold: a decaying manufacturing powerhouse that re-invents itself as a cultural mecca.
+Philadelphia has a thriving nightlife scene that ranges from dive bars to world-class music venues, with a particularly strong wine culture -- the city has one of the finest BYOB restaurant scenes in the country.
 
-The best example of this phenomenon is the city's burgeoning wine culture. The region sports an up-and-coming wine region, it also has one of the finest BYO scenes in the county. It even has its own wine school!
+**The Wine School of Philadelphia** is a not-for-profit school that trains winemakers and sommeliers, but its wine tasting classes are open to the public. The individual classes are geared to enthusiasts and make for a great evening out. Several instructors are former or current writers for Wine Spectator and Wine & Spirits. No food is served, so eat beforehand. Address: 2006 Fairmount Ave. Tel: 215-965-1514.
 
-Philadelphia is quickly becoming a destination for wine enthusiasts across the east coast.
+**World Cafe Live** houses the WXPN-FM broadcast studio and two performance spaces. Downstairs Live seats up to 650 and hosts everything from acoustic acts to world-beat contemporary artists. Both levels have full kitchens and bars, and the venue is wheelchair accessible and smoke-free. Address: 3025 Walnut Street. Tel: 215-222-1400. Website: [worldcafelive.com](http://www.worldcafelive.com).
 
-### [The Wine School of Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/the_wine_school_of)
+**Chickie's & Pete's** is Philadelphia's legendary sports bar. Fans of the Phillies, Eagles, Flyers, and Sixers pack this place to watch games on the many TVs while eating the famous crab fries, mussels, and spicy buffalo chicken sandwiches. It is loud, lively, and authentically Philly. Address: 4010 Robbins Ave. Tel: 215-338-3060.
 
-The school is a not-for-profit school that trains winemakers and sommeliers. However, its wine tasting classes are open to the public.
-
-These individual wine classes are geared to the wine enthusiast, and are a very good way to spend an evening. Several of the instructors are also former & current writers for Wine Spectator, Style, and Wine & Spirits.
-
-Food is not served at this establishment, so it is recommended to eat prior to the class.
-
-type: Wine bars
-
-
-
-[[rate it]](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/the_wine_school_of)
-
-ClosingTime: 10 pm
-
-tel: 215-965-1514
-
-url: [www.vinology.com](http://www.vinology.com)
-
-address: 2006 Fairmount Ave
-
-email: info@vinology.com
-
-### [World Cafe Live](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/world_cafe_live)
-
-The restaurant itself includes two separate facilities: a cafe and restaurant that accommodates 100 seated or 200 standing, and a dazzling music hall that comfortably seats 300 and expands to accommodate 650 standing. There are full kitchens and bars on both levels, staffed with experienced banquet chefs, bar crew and a professional wait staff. The entire facility is wheelchair accessible, 100% smoke-free and wired for sound and video, with a state-of-the-art projection system and a 14' drop-down screen on the main stage. A free wireless network is also available.
-
-type: Concerts
-
-
-
-tel: 215.222.1400
-
-url: [www.worldcafelive.com](http://www.worldcafelive.com)
-
-address: 3025 Walnut Street
-
-email: jmuscatello@worldcafelive.com
-
-### [Chickie's & Pete's Cafe](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/chickies__petes)
-
-Chickie’s and Pete’s is the true legend in this sports town. A long-time favorite sports bar and restaurant for the locals, it’s a must for tourists as well. Fans of Philadelphia's major teams like the Phillies and the Eagles head to Chickie's & Pete's for beer, seafood and watching the many conveniently placed TVs. For tourists wanting an authentic, local sports experience, it will be hard to beat Chickie's & Pete's for fun and atmosphere. Stop in for a beer then sample the bar’s famous crab fries, mussels or spicy buffalo chicken sandwiches. Be sure and head to [more..](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/chickies__petes)
-
-type: Pubs
-
-
-
-tel: 215.338.3060
-
-address: 4010 Robbins Ave, Philadelphia, Pennsylvania
-
-### [Chickie's & Pete's Cafe](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/chickies__petes_1)
-
-Chickie’s and Pete’s is the true legend in this sports town. A long-time favorite sports bar and restaurant for the locals, it’s a must for tourists as well. Fans of Philadelphia's major teams like the Phillies and the Eagles head to Chickie's & Pete's for beer, seafood and watching the many conveniently placed TVs. For tourists wanting an authentic, local sports experience, it will be hard to beat Chickie's & Pete's for fun and atmosphere. The café also features live music events, too. Stop in for a beer then sample the bar’s famous crab fries, mussels or spicy [more..](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/chickies__petes_1)
-
-type: Pubs
-
-
-
-tel: 215.338.3060
-
-address: 4010 Robbins Ave., Philadelphia, Pennsylvania
-
-### [Trocadero Theater](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/trocadero_theater)
-
-Head to the Trocadero Theater in Philly’s Chinatown and experience a renowned entertainment palace. A former burlesque theater, the “Troc” hosts many live music shows and special events. Enjoy a wide range of music from hip-hop to rock in this mid-sized venue. Take in a show at the Troc where every vantage point is a good one. The Trocadero Theater is perfectly situated for a night out on the town. Have dinner at one of the many great restaurants in Chinatown and then enjoy a lively show. The crowds tend to be college-aged, but it depends on what bands are performing. [more..](/northamerica/unitedstates/pennsylvania/philadelphia/nightlife_and_ente/trocadero_theater)
-
-type: Theatres
-
-
-
-tel: 215-922-5483
-
-url: [www.thetroc.com](http://www.thetroc.com/)
-
-address: 1003 Arch St., Philadelphia, Pennsylvania
+**Trocadero Theater** in Chinatown is a former burlesque theater that now hosts live music from hip-hop to rock in an intimate mid-sized venue where every vantage point is a good one. Have dinner at one of Chinatown's restaurants beforehand and make a night of it. Address: 1003 Arch St. Tel: 215-922-5483. Website: [thetroc.com](http://www.thetroc.com/).

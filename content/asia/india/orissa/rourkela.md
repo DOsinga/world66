@@ -1,16 +1,12 @@
 ---
-title: "Rourkela"
+title: 'Rourkela'
 type: location
-latitude: 22.230926
-longitude: 84.86787
+latitude: 22.2309
+longitude: 84.8679
 ---
 
-There is a nursery rhyme in Oriya that reads:* "Rourkelare Dina raati, Gadhaa hue luha kete Jati"* . (which means "Rourkela is busy day and night, with making of iron of many kinds") Rourkela (in the Sundergarh district), the steel city of Orissa came into existence in the late fifties with the implementation of first five year plan of India and the tribal land culminated into a beautiful township. Rourkela boasts one of the most modern and largest steel plant of India built with a Indo-German collaboration. Rourkela Steel Plant, owned by SAIL (Steel Authority of India Ltd.) is one of the first few fully integrated steel plants.
+Rourkela is Odisha's steel city, built in the late 1950s around one of India's largest and most modern integrated steel plants, a collaboration between India and Germany. Situated on the banks of the Brahmani River in Sundargarh district, it has grown into Odisha's second largest city with a population of around 500,000.
 
-Rourkela is well-connected to the rest of India by direct trains with excellent communication facilities to Calcutta (Kolkata), Bhubaneswar, Mumbai, New Delhi, Chennai and Bangalore. Rourkela is also connected to [Bhubaneswar](/asia/india/orissa/bhubaneswar) by air. 
+Despite its industrial origins, Rourkela is well-planned and surprisingly green. The National Institute of Technology (NIT) campus is one of India's premier technical institutions. The city is well connected by rail to Kolkata, Bhubaneswar, Mumbai, and Delhi, and has flight connections to Bhubaneswar.
 
-Rourkela, situated on the bank of river Bramhani is the second largest city of Orissa with a population of around 500 thousands. It has the distinction of having 100 per cent literacy. A lot of small and big industrial units have come up around Rourkela since its inception. Kanshbahal, Kalunga and Rajgangpur are the few other industrial towns close to Rourkela. National Institute of Technology (NIT), the erstwhile Regional Engineering College, Rourkela is one of the premier technologyl institution of India. 
-
-It is one of the most cosmoplitan cities of India producing some of the best talents in areas of technology and medicene. A matured education system and a congenial environment has always been its forte.
-
-There are few places of tourist attractions near Rourkela which includes Ved Vyas and Mandira Dam. Ved Vyas is considered as a sacred place for Oriyas and is considered as the birth place of Ved Vyas, the author of The Mahabharata. The Ved Vyas is very famous for Shiva Ratri Festival. Ved Vyas temple is situated near the confluence of three rivers Shankh, Koel and Saraswati to form River Brahmani. The Indira Gandhi Park of Rourkela is the largest park in Orissa.
+The main attractions are outside the city itself. Vedavyas, at the sacred confluence of three rivers, is an important pilgrimage site. Mandira Dam and the Indira Gandhi Park, the largest park in Odisha, are popular with locals. The spectacular Khandadhar waterfall, the highest in the state, makes an excellent day trip.

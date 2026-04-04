@@ -1,5 +1,5 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 

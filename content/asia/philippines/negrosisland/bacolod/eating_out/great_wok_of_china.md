@@ -1,21 +1,10 @@
 ---
-title: "Great Wok Of China"
+title: 'Great Wok of China'
 type: poi
-address: "B.S. Aquino Drive, Villamonte"
-phone: "434-1995"
-type: "Chinese"
+address: 'B.S. Aquino Drive, Villamonte, Bacolod City'
+phone: '434-1995'
 latitude: 10.670284
 longitude: 122.963899
 ---
 
-Craving for great chinese food? Then Great Wok is the place!
-
-type: Chinese
-
-
-
-
-
-tel: 434-1995
-
-address: B.S. Aquino Drive, Villamonte
+Solid Chinese food on B.S. Aquino Drive. A reliable choice when you want something different from the usual Bacolod fare.

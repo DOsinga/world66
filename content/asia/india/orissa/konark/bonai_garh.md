@@ -1,14 +1,8 @@
 ---
-title: "Bonai garh"
+title: 'Bonai Garh'
 type: location
+latitude: 21.6917
+longitude: 84.9667
 ---
 
-Travel Guide
-
-Boani garh is one of the subdidivision small town of Sundar garh district in Orissa.
-
-This small town is bounded from it's three sides by river Brahmani and is approx 60 kms from Rourkela - on the way of Rourkela - Bhubeneswar NH 23.
-
-Recently some private small industies ike spnge Iron etc were set up to upgrade the local people income. All most 70% of Iron ore mines from where Rourkela Steel plant gettng to burn are transported from Bonai garh subdivison area. Also you can get to visit the ruined Palace of Bonai garh Maharaja.
-
-.
+Bonai Garh is a small subdivision town in Sundargarh district, bounded on three sides by the Brahmani River. It lies about 60 km from Rourkela on NH-23 towards Bhubaneswar. The ruined palace of the former Bonai Garh Maharaja is the main point of interest.

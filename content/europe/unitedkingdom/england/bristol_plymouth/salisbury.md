@@ -1,5 +1,5 @@
 ---
-title: "Salisbury"
+title: 'Salisbury'
 type: location
 latitude: 51.069061
 longitude: -1.795413

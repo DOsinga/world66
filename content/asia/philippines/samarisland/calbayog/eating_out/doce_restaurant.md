@@ -1,32 +1,10 @@
 ---
-title: "Doce Restaurant & Lounge"
+title: 'Doce Restaurant and Lounge'
 type: poi
-accessibility: "Easy"
-address: "MAHARLIKA GARDEN  Brgy. Bagacay, Calbayog City  Western Samar, Philippines"
-phone: "Mobile: 09178868748. Landline: (055)533-9818"
-price: "₱₱₱"
-type: "Local"
-url: "www.docerestaurant.com"
+address: 'Maharlika Garden, Brgy. Bagacay, Calbayog City'
+phone: '(055) 533-9818'
+url: 'www.docerestaurant.com'
+opening_hours: '5:00 pm - 3:00 am daily'
 ---
 
-Cuisine - Filipino and Pizza
-Parking - Street
-Attire - Casual
-Payment Methods - Cash Only
-Takes Reservations, Walk-Ins Welcome, Good For Groups, Good For Kids, Take Out, Catering, Waiter Service and Outdoor Seating
-Mon - Sun: 5:00 pm - 3:00 am
-Website: http://www.docerestaurant.com/
-
-type: Local
-
-
-
-accessibility: Easy
-
-tel: Mobile: 09178868748. Landline: (055)533-9818
-
-url: [www.docerestaurant.com](http://www.docerestaurant.com/)
-
-address: MAHARLIKA GARDEN Brgy. Bagacay, Calbayog City Western Samar, Philippines
-
-PriceOfMenu: ₱₱₱
+Filipino food and pizza in a casual outdoor setting in Brgy. Bagacay. Cash only. Good for groups and families, with reservations accepted. Open late, making it one of the few evening dining options in Calbayog.

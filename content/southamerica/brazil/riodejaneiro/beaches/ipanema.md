@@ -1,10 +1,10 @@
 ---
-title: "Ipanema"
+title: 'Ipanema'
 type: poi
-latitude: -19.799995
-longitude: -41.713881
+latitude: -22.987
+longitude: -43.205
 ---
 
-Ipanema is another beach connected with the Copacabana. Ipanema is a little bit less built-up than Copacabana and the beach is probably cleaner. Praia de Arpoadar at the Copacabana end of Ipanema is a great place to watch the sufers. There is no artificial light at night. ** Jo Lehl:** A dream at 3 o clock in the night. 
- sitting at the coconut hut, sipping on a cold beer and see the yellow lights of the fawelas.
- After one night of fear, I loved it. **hendrickx :**
+Made famous by the bossa nova classic "The Girl from Ipanema", this beach is arguably Rio's most beautiful. Less built-up than Copacabana, with cleaner sand and the dramatic twin peaks of Dois Irmaos (Two Brothers) framing its western end. Each *posto* (lifeguard station) draws a different crowd -- families, surfers, the gay community around Posto 8.
+
+The Arpoador rock at the Copacabana end of Ipanema is the best place in Rio to watch the sunset. On clear evenings, crowds gather and applaud as the sun drops behind the mountains. The surf here is also good, particularly for beginners.

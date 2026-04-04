@@ -5,8 +5,6 @@ latitude: 41.523875
 longitude: -70.669402
 ---
 
-Travel Guide
-
 Woods Hole is a salty, sea spray village that brings the Nobel
 Laureate and the local fisherman together in harmony. It is a village
 of the past, with many seafaring tales, and it is a village of the

@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Faro"
+title: 'Bars and Cafes in Faro'
 type: section
 ---
 
@@ -25,7 +25,3 @@ If you are looking for a quiet place to have a drink, but want something with a 
 
 This café has a younger clientele, so older tourists might not feel as comfortable here. If you are looking for a nice place to grab a drink Taberna Da Se is a nice place to go, and they even feature live music on occasion. On nicer nights, you can enjoy the outdoor seating, if you show up early enough to get a table.
 
-**Contributors**
-February 11, 2010
-
-February 26, 2010

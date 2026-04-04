@@ -1,36 +1,34 @@
 ---
-title: "7 Day Itinerary in Pune"
+title: '7 Day Itinerary in Pune'
 type: section
 ---
 
-A week in Pune is insufficient to cover all the tourist attractions around the city. The following 7-day **Pune itinerary** will help you to visit as many places as possible.
+A week gives you enough time to see the city properly and make a few excursions into the surrounding hills.
 
-**Day 1- Raja Dinkar Kelkar Museum and Shaniwar Wada**
+**Day 1 -- Arrival and Old City**
 
-The Raja Dinkar Kelkar Museum is situated close to Bajirao Road in the heart of Pune City. It holds a collection of Indian handicrafts brought from across different states of the country. Raja Dinkar Kelkar Museum also has a recreation of the famous ‘Mastani Mahal’ which is one of the masterpieces in this museum. The museum contains around 36 different sections which incorporates a carved palace. Do not forget to visit the pottery sections which are over 2,000 years old. A trip to Pune is incomplete without a visit to Shaniwar Wada, which is also located in the main city near the Deccan Gymkhana.
+Start with Shaniwar Wada, the fortified palace of the Peshwa rulers. The massive walls and brass-studded gates survived the fire that gutted the interior in 1827 -- catch the light and sound show in the evening for a dramatic retelling of the Maratha story. From there, walk through the old city to the Raja Dinkar Kelkar Museum on Bajirao Road, where a single collector spent forty years assembling 15,000 artifacts including carved doors, lamps, musical instruments, and the reconstructed Mastani Mahal.
 
-Shaniwar Wada is a historic fort and a symbol of Pune culture. The fort was built by the Peshwas and is endowed with elegant brass studded gates along with lotus pools. Visit the Raja Dinkar Kelkar Museum in the morning and the Shaniwar Wada in the evening to catch the ‘Light and Sound’ show. You can get a glimpse of the Maratha history through the laser show.
+**Day 2 -- Temples and Caves**
 
-**Day 2 – Tribal Museum and the Mahatma Phule Museum
+Climb the 108 steps to Parvati Hill in the morning for panoramic views and the hilltop temple complex. Then head to the Pataleshwar Caves in Shivajinagar -- an eighth-century rock-cut Shiva temple carved from a single boulder, hidden improbably among modern buildings. End the day at Aga Khan Palace for its Gandhi museum and peaceful gardens.
 
-**Allot the second day to the popular Pune museums. The Tribal Museum is located off Koregaon Road near Pune Station (East). This museum is well-known for the number of historic artifacts. The artifacts have been specially brought from the Sahyadri and Gondhwa regions in Maharashtra. End your day with a visit to the Mahatma Phule Museum. You can get a chance to view several agricultural and handicraft articles in this museum. It was established in 1890 and is located on Ghole Road in Shivaji Nagar.
+**Day 3 -- Sinhagad Fort**
 
-**Day 3- Parvati Hill Temples
+Leave early for the 25 km drive to Sinhagad, then trek up to the fort. Spend the morning exploring the ruins and soaking in the views. Eat the local lunch of bhakri, pitla, and buttermilk at the top. You will be back in Pune by early afternoon with time for some shopping on Laxmi Road or FC Road.
 
-**You will need an entire day for this destination. The Parvati Hill temples is situated atop a hillock and you can get a vertical glimpse of the entire Pune City. You will have to climb a steep flight of 108 steps that lead to the Parvati temple. The Parvati museum located here contains portraits of Peshwas along with ancient manuscripts and coins.
+**Day 4 -- Karla and Bhaja Caves**
 
-**Day 4- Pune University and Fergusson College
-**
-Pune is also famous for the Poona University. This stately mansion designed in Italian-Gothic style is the most sought after university in India. It is also one of the oldest universities in the country. Fergusson College is another ancient monument built in the year 1885. The college has a beautiful tree-lined campus surrounded with beautiful hills in the background.
+A full day trip to the ancient Buddhist caves near [Lonavala](/asia/india/maharashtra/lonavala). Start with Karla, the larger and more impressive site, then drive the short distance to Bhaja. If you have time on the way back, stop at the Lonavala viewpoints and pick up some chikki.
 
-**Day 5 - Bhimshankar Wildlife Sanctuary
-**
-Allot 1 day for visiting this wildlife sanctuary. It was declared as an official wildlife sanctuary in 1974. Situated at an angle of 2100 feet to 3800 feet, the wildlife sanctuary is spread across 3 districts. You can also get a glimpse of the western tropical hill forests in this reserve.
+**Day 5 -- Koregaon Park and University**
 
-**Day 6 - Pataleshwar Caves
+A more relaxed day. Visit the Osho International Meditation Resort in Koregaon Park (you can take a visitor tour even if you are not meditating). Wander through Osho Teerth Park nearby. In the afternoon, explore the Pune University campus, a pleasant Italian-Gothic estate that was once the Governor's monsoon residence.
 
-**Pataleshwar caves are situated in Pune city and have an ancient eighth century rock cut temple. This magnificent temple has been carved out of a single huge boulder. The presence of gigantic pillars along with a Shiva shrine and Nandi temple has added to the popularity of Pataleshwar caves.
+**Day 6 -- Rajgad or Bhimshankar**
 
-**Day 7 – Bund Garden
-**
-Bund Garden is also known as Mahatma Gandhi Udyan and was built by Sir Jamshedji Jeejeebhoy. It is located on the bank of the Mula-Mutha, just 2 km away from the Pune railway station. You can also enjoy a boat ride or a horseback ride in the evening. Do not forget to taste the mouth-watering local ‘Chat-cuisine’ available at Bund Garden.
+For the adventurous, trek to Rajgad Fort -- Shivaji's first capital. This is a full-day commitment with a three-hour climb each way. Alternatively, drive to Bhimshankar Wildlife Sanctuary in the Sahyadri hills for forest walks and a chance to spot the Indian giant squirrel.
+
+**Day 7 -- Food and Markets**
+
+Spend your last day eating and shopping. Start with breakfast at Vaishali on FC Road (a Pune institution for South Indian food), explore Tulsi Baug and Laxmi Road, have misal pav at Bedekar, and wind down with an evening at one of Koregaon Park's cafes or bars.

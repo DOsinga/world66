@@ -1,4 +1,0 @@
----
-title: "Tattamanglam"
-type: location
----

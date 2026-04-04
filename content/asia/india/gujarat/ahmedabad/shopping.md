@@ -1,44 +1,12 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 
-**BANDHEJ**
+Ahmedabad is famous for its textiles, particularly bandhani (tie-dye) and block-printed fabrics. The best shopping is a mix of upmarket shops and bustling street markets.
 
- Shree Krishna Towers,
+**Law Garden** is the most popular evening market, with rows of vendors selling traditional Gujarati embroidered clothing, mirror-work bags, and handicrafts. Prices are negotiable -- start at half the asking price.
 
- Mithakali Six Roads,
+**Rani no Hajiro** and **Manek Chowk** in the old city are colourful bazaars for jewellery, textiles, and street food. The narrow lanes around Dhalgarwad are the place for traditional bandhani fabrics.
 
- Navrangapura
-
- Ahmedabad-380009.
-
- **SANSKRUTI**
-
- Suryarath Building,
-
- Pandhwati,
-
- Navrangpura,
-
- Ahmedabad-380009.
-
- **HASTKALA**
-
- 84/85, Kamdhenu Complex,
-
- Opposite Sahajanand College,
-
- Ahmedabad-380015.
-
- **KHAZANA**
-
- Aniket,
-
- C G Road,
-
- Navrangpura,
-
- Ahmedabad-380009.
-
- Last Modified on 12th January, 2002.
+For a more curated experience, **Bandhej** in Navrangpura and **Khazana** on C.G. Road offer high-quality Gujarati textiles and handicrafts in air-conditioned comfort.

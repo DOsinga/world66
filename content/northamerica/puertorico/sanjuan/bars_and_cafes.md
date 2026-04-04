@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in San juan"
+title: "Bars and Cafes"
 type: section
 ---
 

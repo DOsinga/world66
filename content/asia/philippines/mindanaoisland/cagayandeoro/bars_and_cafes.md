@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Cagayan de Oro"
+title: "Bars and Cafes"
 type: section
 ---
 

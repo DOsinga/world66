@@ -3,68 +3,14 @@ title: "Practical Information"
 type: section
 ---
 
-Montreal
-is the second largest city in Canada and the second largest French
-speaking city in the world, only after Paris. The mixture of English
-and French speaking cultures, combined with the influx of African and
-South American immigrants, has created an eclectic atmosphere in the
-rich cultural setting that is the city of Montreal. Here are a couple
-of practical tips during your visit to Montreal.
-**
+**Language:** Montréal is officially French-speaking. The Québécois French is distinct from European French — different pronunciation, vocabulary and slang. Most residents in central Montréal are bilingual, and most services are available in English. That said, making an effort with French is always appreciated, and in some neighbourhoods and businesses it's genuinely necessary.
 
-Language**
+**Money:** The currency is the Canadian dollar (CAD). Credit cards are accepted almost everywhere. Tipping is expected: 15–20% in restaurants, 15% in taxis.
 
-It's
-important to understand that the French used in Canada is different
-from the French used in France. Even if you're fluent in French, don't
-be surprised to hear unusual phrases or slang! The province of Quebec
-and its capital city, Montreal, have developed its own style of French
-throughout the years and the citizens of Montreal are very proud of it.
-A large majority of people are bilingual, however don't take it wrong
-if a local switches to English after hearing your French. Just keep
-smiling and be glad that they are willing to help you with directions
-or tips.
-**
+**Climate:** Summers are warm and humid (July averages around 26°C), winters are genuinely cold and snowy (January averages -9°C with heavy snowfall). Spring and autumn are short but pleasant. The city is well prepared for winter — snowploughs are out constantly and the underground city allows people to avoid the cold.
 
-The Best Time To Visit**
+**Safety:** Montréal is a generally safe city. Standard precautions apply in the Metro and in tourist areas. The neighbourhood of Hochelaga in the east end has a higher crime rate and is worth being aware of.
 
-The
-best time to visit Montreal is, without a doubt, the summer. During the
-summer, the city of Montreal is full with cultural and social events,
-especially festivals. The city's biggest festival is the Just for
-Laughs comedy festival, gathering so many performing comics that it
-generates enough TV material for a whole year! Reruns of the Just for
-Laughs shows are available throughout the year at Canadian TV stations.
-Other important festivals are the Montreal International Jazz Festival,
-the Montreal World Film Festival, the Francofolies (celebrates French
-speaking cultures), Vues D'Afriques Music Festival and the Montreal
-Fireworks Festival.
-**
+**Hockey:** The Montréal Canadiens (the Habs) are a religion in this city. They have won 24 Stanley Cup championships — more than any other team. If you can get tickets to a game at the Bell Centre, go. The atmosphere is unlike any other sporting event in North America.
 
-Hockey****
-
-**
-Canada's
-favorite past time is a religion in Montreal. Montreal's official
-hockey team, the Montreal Canadiens, is one of the original six teams
-of the National Hockey League (NHL) and has a record of 24 Stanley Cup
-championships. If you have the opportunity of watching a hockey game in
-Montreal, don't think it twice! It's a "religious" experience during
-your stay in Montreal!
-
-**Public Transportation**
-The
-evolution of the city of Montreal, particularly its off island suburbs,
-has made it very cumbersome to develop its road system. Therefore,
-traffic is a serious problem in the city. However, this problem has
-also worked as a mixed blessing because Montreal has been able to
-develop an extraordinary public transportation system that combines
-railways, metro lines, and buses. Montreal's metro system has 68
-stations, each one designed by a different architect. Also, the metro
-system is one of the quietest one in the world because its trains run
-on rubber tires. Talk about a smooth ride! The Montreal public
-transportation system is so effective that just in 2007, it had about
-15.7 million passengers!
-
-**Contributors**
-August 19, 2009
+**Public transit:** The STM Metro has 68 stations across four lines. Buses connect the areas the Metro doesn't reach. A day pass is good value. The Metro runs until about 1am Sunday to Friday, 1:30am on Saturday.

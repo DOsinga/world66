@@ -1,21 +1,12 @@
 ---
 title: "Kapaleeswarar Temple"
 type: poi
-address: "Kapaleeswarar Temple"
-opening_hours: "6 am - 12 pm 4 pm - 10 pm"
-type: "Landmarks"
+address: "Kapaleeswarar Koil Street, Mylapore, Chennai"
+opening_hours: "6:00-12:00, 16:00-22:00"
 latitude: 13.033741
 longitude: 80.269843
 ---
 
-Kapaleeswarar temple is situated in Mylapore a suburb of Chennai. The main deity, Lord Shiva, is worshipped as Kapaleeswarar and the Goddess as Katpahavalli. Mention of this temple in the old devotional hymns by Hindu 'Nayanmars' who lived during the 7th century is evident that this temple had been in existence for more than a thousand years. Some scholars cast doubt as to the age of the present building as the architecture and the images in this temple point to a period of about 300 years ago. They believe that the original temple had been in the Santhome area near the sea as recent archaeological excavations in that area point to the presence of a temple during that period. However, this temple has become very famous and attracts thousands of devotees especially during festival days.
+Chennai's most important Hindu temple, in the Mylapore neighbourhood. Dedicated to Shiva (worshipped here as Kapaleeswarar) and the goddess Karpagambal, the temple has been a centre of Shaivite devotion since at least the 7th century, when it was praised by Tamil saints. The current structure dates from around the 16th century.
 
-type: Landmarks
-
-
-
-
-
-openingHours: 6 am - 12 pm 4 pm - 10 pm
-
-address: Kapaleeswarar Temple
+The 37-metre gopuram is the visible landmark of the Mylapore neighbourhood. The temple tank (theertham) is the site of the Arubathimoovar festival in March-April, one of Chennai's biggest religious events. Open for non-Hindu visitors in the outer precincts.

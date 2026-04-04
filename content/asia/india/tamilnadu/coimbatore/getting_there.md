@@ -3,23 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**By Air**
+**By Air**: Coimbatore Airport (CJB) is 12 km from the city centre, with direct domestic connections to Chennai, Mumbai, Bengaluru, Delhi, and Hyderabad, plus international flights to Singapore, Dubai, Sharjah, and Colombo.
 
-Coimbatore Airport is 12 km from the city and is directly connected with
-Singapore, Sharjah, Colombo with Silk Air, Air Arabia, Srilankan Airlines. Plenty of flights to all the major cities in India also.
+**By Rail**: Coimbatore Junction is the main station, on the main line between Chennai and Trivandrum via Madurai. Frequent services to Chennai (7-8 hours), Bengaluru (7 hours), Madurai (3 hours), and Trivandrum (8 hours). Coimbatore is also the railhead for the Nilgiri Mountain Railway — a UNESCO Heritage narrow-gauge line that climbs to Ooty via Mettupalayam.
 
-**By Rail**
-
-There are two railway stations in Coimbatore city (Coimbatore
-Junction and the Coimbatore North Railway Station), however the
-Coimbatore Junction is the main railway station. Many important
-trains pass through the city like Trivandrum New Delhi Kerala Express,
-Trivandrum-Nizamuddin Express, Coimbatore-Nizamuddin Kongu Express
-(Delhi bound), Kanyakumari-Bangalore Express, Bangalore-Coimbatore
-Intercity Express (Bangalore bound), Chennai- Coimbatore Cheran
-Express, Chennai-Coimbatore Kovai Express, Chennai-Coimbatore Intercity
-Express (Chennai bound) etc. There are a number of other trains, which
-also pass through Coimbatore.
-
-**Contributors**
-January 10, 2005
+**By Bus**: The main bus stand is centrally located with frequent services to Chennai, Bengaluru, Ooty (3 hours), Kodaikanal (5 hours), and towns across Kerala including Calicut and Kochi.

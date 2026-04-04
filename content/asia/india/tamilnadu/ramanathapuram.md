@@ -5,8 +5,10 @@ latitude: 9.520558
 longitude: 78.518463
 ---
 
-We currently have no information about Ramanathapuram.
+Ramanathapuram is the district headquarters of the district that contains Rameshwaram, and most travellers pass through it on their way to that far more famous island. The town itself has a quiet, faded grandeur from its time as the seat of the Sethupati Rajas, a dynasty that controlled this coastal region for several centuries and whose alliance with the Rameshwaram temple brought them great prestige.
 
-If you do know any general information about Ramanathapuram, please [Edit this article].
+The **Ramalinga Vilasam Palace** (also known as Ram Vilas Palace) in the town centre contains portraits of the Sethupati rulers and murals depicting their dealings with the British and battles with the Marathas. It's rarely visited and not always easy to gain access, but worth trying.
 
-If you know any hotels in Ramanathapuram or restaurants in Ramanathapuram, please [[Add].](/destinations/addItemWizard?addwhere=asia/southasia/india/tamilnadu/ramanathapuram)
+The district is on the Gulf of Mannar, and the seafood — particularly fresh fish, prawns, and crab — is excellent and cheap. This is a predominantly Muslim area along the coast, reflecting centuries of Arab trading contact.
+
+For most travellers, Ramanathapuram is a brief stop en route to [Rameshwaram](/asia/india/tamilnadu/rameshwaram), 60 km further east.

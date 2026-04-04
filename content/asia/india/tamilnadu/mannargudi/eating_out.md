@@ -1,8 +1,6 @@
 ---
-title: "Eating Out"
+title: "Eating Out in Mannargudi"
 type: section
 ---
 
-**Narayanan International**
-
-Nice Lake view restaurant Located Near Thiruparkadal Lake, famous lake for its fishing.
+Mannargudi is a temple town and the food reflects it — this is solidly vegetarian territory. South Indian tiffin breakfasts (idli, dosa, vada) and rice-based lunch plates are the staples. Narayanan International near Thiruparkadal Lake is popular with locals for its setting and reliable cooking.

@@ -3,28 +3,14 @@ title: "Sights in Rameshwaram"
 type: section
 ---
 
-Rameshwaram is a beautiful island situated at the very tip of the Indian peninsula, and **Rameshwaram sights** are known for their breathtaking landscape and spectacular temples. This place is also known to be one of the most significant pilgrimages for the Indian folks. According to mythology, it is the place where Lord Rama built a bridge to rescue his wife Sita from the evil Ravana who abducted her. Here, the Lord also performed a worship ritual whereby he prayed to Lord Shiva to cleanse away all his sins that he had committed by killing Ravana.
+Rameshwaram is one of the holiest sites in Hinduism, associated with the Ramayana story of Lord Rama’s crossing to Sri Lanka, and most of its sights have religious significance. Even travellers with no interest in pilgrimage will find the landscape striking: a low island at the very tip of the Indian peninsula, connected to the mainland by a bridge over open sea.
 
-Some also hold the belief that a visit to Rameshwaram completes their pilgrimage. There are some people who also refer this place as ‘Benaras of the South’. Some of the major Rameshwaram sights that attract tourists from all across the globe include:
+**Ramanathaswamy Temple** is the centrepiece. Built from the 12th century onwards and substantially expanded in the 17th, it has some of the longest temple corridors in India — nearly 1,300 metres of carved granite columns. The 22 sacred wells inside, each reputedly tasting different, are part of the ritual bathing that pilgrims perform. Non-Hindus can walk the corridors but are not permitted into the inner sanctum.
 
-**Ramanathswamy Temple**
+**Agnitheertham** is the beach directly in front of the temple where pilgrims bathe at dawn. Thousands of people wading into the sea as the sun rises is a powerful sight.
 
-This temple was established around the seventeenth century. It is sited towards the eastern part of the island of Rameshwaram. The major attraction of this temple is in the form of 1200 columns made of granite. The main fame of this temple can be attributed to the gate tower that is 54 meters tall and the magnificent corridors and flamboyant columns that adorns the temple. There are as many as 22 sacred wells constructed within the temple. It is believed that water in each of the wells tastes different from the other.
+**Dhanushkodi**, 18 km from town, is a ghost village destroyed by a cyclone in 1964 and never rebuilt. Ruins of a railway station, church, and houses stand on a spit of sand where the Bay of Bengal meets the Indian Ocean. Only the Kothandaramaswamy Temple survived intact. The drive out on a sandy track past fishing villages is worth the effort.
 
-**Agnitheertam
-**
-This is yet another famous tourist destination that attracts people from all over the globe. This is a place that is rich in historical significance. This is the place where Lord Rama worshipped Lord Shiva to absolve him from the sin of killing the evil Ravana.
+**Gandamadana Parvatham** is a two-storey shrine on the island’s highest point, with views across the Ramanathaswamy Temple and — on clear days — Sri Lanka’s coastline across the strait.
 
-**Erwadi**
-
-This place is located 24 kilometers from the island of Rameshwaram, and it is mostly frequented by Muslim pilgrims. The tomb of Ibrahim Sahid Aulia is situated here. Most of the Muslim pilgrims visit this place during the month of December. It is also during this month that the annual festival is celebrated, where the pilgrims pay homage to the revered saint.
-
-**Dhanushkodi**
-
-This place has derived its name from the bow of Lord Rama. It is again located in the eastern part of the Rameshwaram Island. It is located within 8 kilometers of the island. The cyclones that hit this place in the year 1963 completely marred the beauty and charm of Dhanushkodi. Except for the Kothandaramaswamy temple, nothing else could be restored. This temple is known for the idols of Rama, Sita, Lakshmana and Hanuman.
-
-**Gandamadana Parvatham**
-
-This shrine is famous for the imprint of the feet of Lord Rama, which has been placed on a wheel or ‘Chakra’. This shrine is situated at the highest altitude on this island.
-
-Other places sited close to this island and are a must-visit on your Rameshwaram trip include Ramanathapuram, Uthirakosamangai, Tirupullani and Sethu. If you are looking for an escapade from the hustle and bustle of the maddening urban crowd, there cannot be a better place than Rameshwaram, with its spiritual warmth and divine grace.
+**Erwadi**, 24 km from Rameshwaram, is an important Muslim pilgrimage site housing the tomb of Ibrahim Sahid Aulia. The annual festival in December draws pilgrims from across south India.

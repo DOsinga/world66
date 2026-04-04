@@ -5,34 +5,8 @@ latitude: 11.646962
 longitude: 78.210696
 ---
 
-Travel Guide
+Salem is a large industrial city in north-central Tamil Nadu, surrounded on three sides by hills. It's a significant steel production centre and a busy transport hub, but most travellers pass through it rather than stopping here.
 
-Salem (Tamil: சேலம்) is a city and a
+The main reason to stop is **Yercaud**, a hill station 30 km northeast at 1,600 metres altitude in the Shevaroy Hills. The road up offers good views and the top has a lake, botanical garden, and the relative cool of the Ghats. It's less visited than Ooty or Kodaikanal and correspondingly less developed — which is either a drawback or a selling point depending on your preferences. Kiliyur Falls, a few kilometres from the town, drops 300 metres and is worth the short walk.
 
-corporation in Salem district in the Indian state of Tamil Nadu. Located
-
-in the north central part of the southernmost state of India, it is the
-
-fifth-largest city of Tamil Nadu, after Chennai,Madurai,
-
-Coimbatore and Trichy .Almost completely surrounded by hills, Salem
-
-is also a part of the Kongu Nadu (Coimbatore and Erode) region Salem is
-
-at the base of the renowned tourist destination of Yercaud hills, which
-
-offers breathtaking views both along the ride up the hill and from the
-
-peak. There are also remote sites of beauty such as Kiliyur Falls.
-
-Yercaud is at an altitude of 1600 m above mean sea level.
-
-The city is surrounded by a natural amphitheater of hills formed by the
-
-Nagaramalai to the north, the Jeragamalai to the south, the Kanjanamalai
-
-to the west, and Godumalai to the east. It is divided by the
-
-Thirumanimuthar in the main division. The fort is the oldest building in
-
-town.
+Salem itself has a fort (the oldest building in town, though not much is left) and a reasonable museum. The Sugavaneswarar Temple is the main religious site in town.

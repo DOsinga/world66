@@ -5,10 +5,8 @@ latitude: 10.857331
 longitude: 78.693085
 ---
 
-Travel Guide
+Srirangam is a river island in the Cauvery near Tiruchirappalli, and almost the entire island is occupied by the Sri Ranganathaswamy Temple — one of the largest functioning temple complexes in the world. The temple has seven concentric enclosure walls, the outermost of which is over 4 km in circumference and contains shops, houses, and streets. The innermost sanctum houses the reclining form of Lord Vishnu as Sri Ranganatha.
 
-Srirangam, the abode of the Supreme Lord, Sri Ranganatha, the reclining form of Lord Vishnu, is situated in an island surrounded by the revered river Cauvery, near Tiruchirappalli. Lush green mango groves, banana gardens, Coconut groves add color to the island. Srirangam is the foremost among the eight shrines of Lord Vishnu.
+The Rajagopuram, the southern gateway tower, is 73 metres tall with 13 tiers and is considered the tallest temple tower in Asia. Construction began in the medieval Chola period and continued under successive dynasties. The temple is listed as a UNESCO Tentative World Heritage Site.
 
-It is one of the most important among the 108 pilgrim centres in the whole of India. The shrine has glorious spiritual and cultural hertitage and is held in great reverence by all Hindus, particularly the vaishnavites. The entire complex is full of architectural marvel. It draws a lot of devotees from all parts of the world. The ‘Rajagopuram’ is 236 feet high with 13 tiers and is the tallest temple tower in Asia.
-
-The objective of this site is to provide useful information to the devotees / tourists and also provide platform to spread the glory of this place. This is currently a non-profit site and you are free to use this information. You also can be a part of making this site useful and informative.
+Srirangam is a short auto-rickshaw or bus ride from Tiruchirappalli (Trichy) city centre, making it an easy half-day excursion. The island also has the Jambukeswarar Temple, a Shiva shrine, worth visiting on the same trip.

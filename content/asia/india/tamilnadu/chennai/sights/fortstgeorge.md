@@ -1,11 +1,8 @@
 ---
 title: "Fort St. George"
 type: poi
-type: "general"
 latitude: 13.079862
 longitude: 80.284669
 ---
 
-Fort St. George was built in 1653 by the British East India Company. Today, the building of the old fort house the state administrative offices, the legislative assembly, and a museum devoted to the history of the East India Company. A banqueting hall built in the Greek style is still used for civic functions.
-
-type: general
+Built in 1644 by the British East India Company, Fort St George is the oldest surviving English fort in India. The fort complex now houses the Tamil Nadu Legislative Assembly and government offices. The **Fort Museum** inside is open to visitors and contains portraits of colonial governors, artefacts from the early East India Company period, and memorabilia from the British era in Madras. The Cornwallis Cupola and St Mary's Church (1680, the oldest Anglican church in India) are within the fort.

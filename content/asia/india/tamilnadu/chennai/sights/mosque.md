@@ -1,11 +1,9 @@
 ---
-title: "Mosque"
+title: "Thousand Lights Mosque"
 type: poi
-type: "Religious Buildings"
-latitude: 28.58975
-longitude: 77.212237
+address: "Anna Salai, Thousand Lights, Chennai"
+latitude: 13.059
+longitude: 80.258
 ---
 
-Thousand Lights Mosque is a centuries old shrine that has been re-designed as a mosque with walls bearing recently-painted sayings from the Holy Koran. The original Mosque was constructed by Nawab Umdat-Ul-Umrah in 1800.
-
-type: Religious Buildings
+One of Chennai's most prominent mosques, originally constructed in 1800 by Nawab Umdat-Ul-Umrah. The current white-domed structure dates from a later reconstruction and is a landmark on Anna Salai. Particularly busy on Fridays.

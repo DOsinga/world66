@@ -3,9 +3,12 @@ title: "Day Trips"
 type: section
 ---
 
-Places to visit (within 3-4 hours of driving distance): Mammalapuram: Earlier known as Mahabalipuram has an old beach temple which is now a World Heritage Site. Also a few other temples and a monolithic rock carving structure with caves that were lived in by the Pandavas during their 14 year exile (refer the Mahabharata for details). A light house and the drive (on the scenic East Coast Road, along the sea) from Chennai to Mahabs (as its fondly called) make this a must-visit. Kancheepuram: Old temples and Silks... Pondicherry: Laid-back life, French Buildings & Dining, Auroville... you will definitely want to change this to at least a two day trip or more.Please.. do
+Several destinations within 2-3 hours of Chennai are worth a day trip.
 
-**Contributors**
-August 30, 2004
+**[Mahabalipuram](/asia/india/tamilnadu/mahabalipuram)** (60 km south via the scenic East Coast Road along the Bay of Bengal) has Pallava rock-cut temples and shore temples from the 7th-8th centuries — some of the finest early Dravidian architecture in India. Easy by bus or taxi in a day.
 
-April 07, 2005
+**[Kanchipuram](/asia/india/tamilnadu/kanchipuram)** (75 km southwest) is the ancient Pallava capital with over 100 temples and the silk weaving workshops that produce the famous Kanchipuram saris. Also easy in a day.
+
+**[Pondicherry](/asia/india/tamilnadu/pondicherry)** (160 km south) warrants an overnight but can technically be done as a very long day trip. The French Quarter, Sri Aurobindo Ashram, and Auroville are the draws.
+
+**Crocodile Bank** (50 km south on the East Coast Road) is India's largest crocodilian conservation centre — worth a stop on the way to Mahabalipuram, especially with children.

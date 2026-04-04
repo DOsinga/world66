@@ -3,15 +3,12 @@ title: "Sights"
 type: section
 ---
 
-**Kamakshi Amman Temple** is situated right in the centre of the town (ten minutes walk from bus-stand). though architecturally not as impressive as many other south-Indian temples, it is well-known for its religious importance.
+Kanchipuram's temples are the main reason to visit. The city has over 100, but a handful stand out.
 
-**Vaikuntha Perumal Temple** is one of the most beautiful, and still ignored by tourists. what attracts is the roughness because of time. if ASI (Archiological Survey of India- Government body looking after conservation of old monuments in India) did not do much damage to it, it would have been the best sight. the temple is run by ASI and hence hassle free from temple priests, though be careful as sometimes the priest here too can robe you off your few Rupees.
+**Kailasanatha Temple** (8th century) is the oldest surviving temple in Kanchipuram and one of the finest examples of early Pallava architecture. Built from sandstone by King Rajasimha, its compact courtyard of small shrines has a quietly beautiful quality that the larger later temples lack. Under Archaeological Survey of India (ASI) management, so no pressure from priests.
 
-**Kailasanatha Temple** is another one in the range of most beautiful temples. most interesting is the courtyard just inside the main entrance. this temple too is under ASI.
+**Vaikuntha Perumal Temple** (8th century) is another Pallava gem, with carved narrative panels running around the mandapam depicting stories of the Pallava kings. Equally low-key and beautiful. Also under ASI.
 
-**Ekambaranathar Temple** though very crowded, is worth visit. it is one of the larger temples in Kanchi which is frequently visited by locals as well as people from surrounding region.
+**Ekambaranathar Temple** is the largest temple in the city, dedicated to Shiva. The 59-metre gopuram dominates the skyline. The 1,000-pillared mandapam and a mango tree in the compound said to be 3,500 years old are the highlights. Busy with local worshippers; the spiritual atmosphere is real.
 
-**Contributors**
-December 11, 2006
-
-December 12, 2006
+**Kamakshi Amman Temple** at the town centre is a major Shakti pilgrimage site. Architecturally less striking than the Pallava temples, but religiously significant across south India. Expect crowds on festival days.

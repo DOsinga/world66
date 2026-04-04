@@ -1,11 +1,8 @@
 ---
 title: "River Bus"
 type: poi
+latitude: 30.044388
+longitude: 31.233056
 ---
 
-Apart from the taxis, buses and metros which are known in all kinds of cities, Cairo has its river bus. Like a bus, it follows specific routes, but on the Nile, not on the road. They are mostly used by the Cairenes and very convenient. Although they don't go very fast, they don't suffer from traffic jams. One of the stops is next to the Ramses Hilton. If one of your destinations is along side the Nile, just ask at your hotel whether a river bus goes there.
-
-It's possible to take a river bus to the Coptic Quarter where a lot of churches, an enormous Coptic cemetry and the Coptic Museum are located. To get there, ask for Misr al-Qadima (Old-Cairo) at the river bus stop. After getting off the boat, cross the street and walk into the neighbourhood that's alongside it. Most of your way will consist of a market and small shops. Just walk straight ahead and once in a while ask for Mar Girgis, which is the metro station next to the Coptic Quarter.
-
-**Contributors**
-December 10, 2005
+Cairo's river bus runs set routes along the Nile and is mainly used by locals — it's a surprisingly pleasant way to travel if your destination is riverfront. The stop near the Ramses Hilton is a useful reference point. To reach the Coptic Quarter, board at a central stop and ask for Misr al-Qadima; get off and walk inland toward the Mar Girgis metro station.

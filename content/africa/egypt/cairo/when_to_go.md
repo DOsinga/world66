@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Cairo"
+title: "When to Go"
 type: section
 ---
 
@@ -19,5 +19,3 @@ From May through October the summer heat can become unbearable, reaching 40 degr
 
 There are a few other factors to keep in mind when planning your trip to Cairo. In the summertime prices can be driven up by the amount of tourists from neighboring countries who are escaping their own countries' oppressive heat for the slightly milder Egyptian summers. Prices also tend to peak at Christmas and Easter, when many tourists book their holidays. Also, during Ramadan it can be difficult to do things during the day, though the nightlife is definitely more colorful. One last thing worth noting is that if you're going to be taking any [day trips](/africa/egypt/cairo/day_trips) into the desert, especially in the winter, you should bring heavy layers and a winter jacket.
 
-**Contributors**
-August 31, 2009

@@ -5,30 +5,10 @@ latitude: 30.044388
 longitude: 31.235726
 ---
 
-Cairo is one of the greatest cities to explore, but it is not a fairytale city, with beautiful minarets and pitturesque bazars. Of course it has those, but they are not the essence of Cairo. Cairo is exciting, alive and with over 10 million people an overcrowded city. 
+Cairo is not a beautiful city in any conventional sense — it is too large, too chaotic, too loud for that. With somewhere between 15 and 20 million people depending on where you draw the boundaries, it is Africa's largest city and the Arab world's cultural capital, and it operates at a volume and density that takes a few days to adjust to. But it is one of the most compelling cities on earth to explore, and the rewards for sticking with it are extraordinary.
 
+The obvious starting points are the Egyptian Museum and the Pyramids at Giza — and yes, they are as overwhelming as advertised. The museum alone could absorb two or three full days; the Tutankhamun collection and the royal mummy room are genuinely staggering. The Pyramids, meanwhile, sit at the edge of the desert in a way that photographs never quite capture: they are bigger than you expect, and the desert behind them stretches to the horizon.
 
+But the real texture of Cairo lives in its older layers. Islamic Cairo — a warren of medieval streets, mosques, and markets stretching north from the Citadel — is one of the world's great urban environments. Al-Azhar Mosque has been at the centre of Islamic scholarship for over a thousand years; Ibn Tulun, built in 879 AD, has a quiet grandeur that the more tourist-heavy sites lack. The Coptic Quarter, clustered around the old Roman Fortress of Babylon, contains churches dating to the 4th century and a museum that few visitors outside the religious studies world seem to discover.
 
-
-
-
-
-
-
-
-
-
-
-The city of Cairo is also full of sights of different kinds. There are remains from the Pharaonic days, there are museums, there are loads of islamic monuments. See the special sights section for details for all these attractions. 
-
-
-
-
-
-Just walking around downtown and in the older residential parts inside the wall of the city where craftsmen work on the sidewalks outside their homes is also a real pleasure. It is easy to meet real Cairenes that are eager to discuss anything with you. Some of them try to lure you to their carpetshop, others are really interested and interesting to talk with. 
-
-
-
-
-
-Be sure to visit the bazar of Khan el Khalili to do some shopping, see shopping section for details.
+Away from the monuments, Cairo rewards wandering. Downtown — the elegant grid of streets laid out in the late 19th century on Haussmann lines — is full of faded art deco buildings, street food stalls, and ahwas (traditional cafés) where men play backgammon and watch the street. Khan al-Khalili bazaar has been running since 1382 and sells everything from spices to gold jewellery to handmade copper ware; bargain hard and enjoy it. The Nile is there throughout, and a felucca ride at dusk — particularly from the quieter southern banks at Maadi — offers a rare moment of calm in an otherwise relentless city.

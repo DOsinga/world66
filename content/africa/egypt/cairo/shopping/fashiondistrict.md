@@ -1,11 +1,8 @@
 ---
-title: "Fashion district"
+title: "Fashion District"
 type: poi
-latitude: 30.018297
-longitude: 31.412714
+latitude: 30.088889
+longitude: 31.325556
 ---
 
-Cairo is the fashion center of the Arabic world and it is very interesting to have a look in the Cairo fashion scene. Most of the popular places are centered in Heliopolis. A number of new and hip boutiques have set shop, particularly on Horreya street (off El Mirghany), all in colorful and modern decoration.
-
-
- For details on the trendy places, try out this site** Sherry:** wanna check out first
+Cairo's contemporary fashion scene is concentrated in Heliopolis, particularly around Horreya Street off El Mirghany. A cluster of boutiques here sells locally designed clothing in colourful, modern spaces — a good alternative to the souvenir bazaars if you're looking for something wearable rather than decorative.

@@ -1,36 +1,8 @@
 ---
-title: "Rent a car"
+title: "Rent a Car"
 type: poi
-latitude: 27.911994
-longitude: 34.318712
+latitude: 30.044388
+longitude: 31.235726
 ---
 
-Auto Elite Rent a Car
-
-
- Tel: 3024288, Fax: 3461533
-
-
- Avis
-
-
- Tel: 3547400, Fax: 3562464
-
-
- 
- Budget Rent a Car
-
-
- Tel: 3400070, Fax: 3413790,
-
-
- Europcar
-
-
- Tel: 3474712, Fax: 3036123
-
-
- Hertz
-
-
- Tel: 3474172, Fax: 3446627
+All major international car hire companies operate in Cairo, including Avis, Hertz, Budget, and Europcar. Driving in the city itself is not recommended — the traffic is genuinely chaotic and navigation without Arabic is difficult — but a car is useful for day trips to Saqqara, Memphis, or the desert oases.

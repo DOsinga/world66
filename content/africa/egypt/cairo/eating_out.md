@@ -1,8 +1,6 @@
 ---
-title: "Eating out"
+title: "Eating Out"
 type: section
 ---
 
-If you have the opportunity, go to the Felfela restaurant, near Midan el Tahrir: it is an absolute must. The food is excellent, inexpensive, and the atmosphere is delightful.
-
-Look for Casinos along the Nile shore, especially in summer. These are places where you can relax outdoors, enjoy a snack and immerse yourselves in the unique Egyptian atmosphere.
+Cairo's street food scene is one of the best in Africa. Downtown Felfela, near Midan Tahrir, has been turning out excellent Egyptian food at low prices for decades — the ful medames and kofta are classics. For a more atmospheric evening, look for the open-air casinos along the Nile (not gambling establishments — in Egyptian usage "casino" means an outdoor restaurant or café), especially in summer when Cairenes pile out onto the waterfront to eat and watch the river.

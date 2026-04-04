@@ -1,9 +1,8 @@
 ---
 title: "Taxi"
 type: poi
-latitude: 27.132352
-longitude: 33.827702
+latitude: 30.044388
+longitude: 31.235726
 ---
 
-Taxis are metered. Insist that the driver uses the meter or fix a price in advance. 
- ** Keith Hekman:** The taxis in cairo have not used their meeters for years. They work quite well, but it is the riders responsibility to know the fare in advance. When you arrive to the place, get out, and hand the exact change back through the window. Then walk away. The driver may complain, but ignore him, if you know you have given him a fair price. I have found that most of the taxi drivers are nice. The key is self confidence (and a little bit of Arabic helps as well)
+Taxis are everywhere in Cairo and easy to hail. The meters are rarely used — agree on a price before you get in, or simply pay what you know to be a fair amount on arrival and walk away confidently. Keep small notes: handing over a large bill makes the negotiation harder. Solo women should sit in the back; it's not unusual for drivers to pick up additional passengers along the route.

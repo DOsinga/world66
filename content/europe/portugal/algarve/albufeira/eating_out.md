@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Albufeira"
+title: "Eating Out"
 type: section
 ---
 

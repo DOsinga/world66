@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Albufeira"
+title: "Shopping"
 type: section
 ---
 

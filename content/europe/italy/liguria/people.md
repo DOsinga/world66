@@ -3,16 +3,6 @@ title: "People"
 type: section
 ---
 
-Liguria had very important people both in ancient and modern times. It would be very hard to speak about them all and so we just name and higlight some of them asking the others to forgive. Christopher Columbus is surely the most famous (Unfortunately the Ancient Genoa Republic which lent money every where in Europe did not trust that simple man called ... what?..Christopher Columbus? Who is he? And his strange ideas about this new continents. The Spanish Crown did it. History could not be changed, otherwise, if our Ancient Republic would have been wiser ...nowadays... all South American continent would probably be speaking Genoise....) 
+Liguria has produced an improbable number of world-historical figures for such a small region. Christopher Columbus was born in Genoa around 1451. Andrea Doria, the republic's greatest admiral, shaped 16th-century Mediterranean politics. Giuseppe Garibaldi — the general who unified Italy — was born in Nice when it was still Ligurian. Goffredo Mameli, who wrote the Italian national anthem, was a Genoese student of nineteen.
 
-But there was also Andrea Doria the clever and powerful Admiral of the Republic, member of one of the ancient families who still has important descendants in Genoa nowadays. Giuseppe Garibaldi the 2 Worlds heroe, Giuseppe Mazzini one of the Italian Unification architect, Nino Bixio one of the "1000" to start to fight for the Italian unification, Goffredo Mameli the author of the national hymn, Nicolò Paganini the most famous violinist of all times. 
-
-Coming down to nowadays: Eugenio Montale was born in Genoa, he won the Nobel Literature Prize with poems composed along the typical Ligurian villages of The 5 Lands along the coast, nominated Human Cultural Heritage by Unesco. Fabrizio De Andrè probably the best Italian songwriter, Renzo Piano one of the most famous architect in the world. He is the one that redesigned the [Genoa](/europe/italy/liguria/genoa) Expo Area in 1992. 
-
-
-
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy. 
-
-pelos@tn.village.it 
-
-http://www.global.village.it/~pelos/index.htm
+More recently: Niccolò Paganini was born in Genoa and became the most technically virtuosic violinist in history. Eugenio Montale, also from Genoa, won the Nobel Prize for Literature in 1975 — his poetry is deeply rooted in the Cinque Terre landscape. Fabrizio De André, perhaps Italy's greatest singer-songwriter, spent much of his life on a farm in Sardinia but was Genoese to his bones. Renzo Piano, who redesigned Genoa's waterfront and went on to design the Pompidou Centre and the Shard, grew up watching ships being built in the port.

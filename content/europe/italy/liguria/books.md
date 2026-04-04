@@ -3,52 +3,7 @@ title: "Books"
 type: section
 ---
 
-**Books**
-
-**Columbus Documents**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558881565/ref=ase_osingacom?v=glance&s=books)
-
-author: Luciano F. Farina, Robert W. Tolf
-
-isbn: 1558881565
-
-subject: The original documents
-
-**A Celebration of the Culture, Lifestyle and Food of**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0847820076/ref=ase_osingacom?v=glance&s=books)
-
-author: Various
-
-isbn: 0847820076
-
-subject: Liguria's culture and food
-
-**The Merchants of Genoa and Turkey**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0521642213/ref=ase_osingacom?v=glance&s=books)
-
-author: Kate Fleet
-
-isbn: 0521642213
-
-subject: Trading between Genoese and the Tur
-
-**Recipes from Paradise**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0316710717/ref=ase_osingacom?v=glance&s=books)
-
-author: Fred Plotkin
-
-isbn: 0316710717
-
-subject: Liguria's recipes
+- **Enchanted Liguria: A Celebration of the Culture, Lifestyle and Food of the Italian Riviera** — a lovingly detailed portrait of the region's food, crafts, and landscape
+- **Recipes from Paradise** (Fred Plotkin) — Ligurian recipes with genuine depth; the definitive English-language cookbook for the region
+- **Columbus Documents** (Luciano Farina & Robert Tolf) — an English-language guide to the original Genoese archival records on Columbus's origins
+- **The Merchants of Genoa and Turkey** (Kate Fleet) — for those interested in the medieval trading republic and its reach across the Mediterranean

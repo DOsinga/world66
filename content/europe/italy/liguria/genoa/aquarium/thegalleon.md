@@ -1,8 +1,9 @@
 ---
-title: "The galleon"
-type: location
+title: "The Neptune Galleon"
+type: poi
+category: "Sight"
+latitude: 44.406500
+longitude: 8.919800
 ---
 
-"/>
-
- The galleon "Neptune", the principal setting for Roman Polanski's film "Pirates" is the fruit of several years' research and hard work. Intended originally as no more than a simple "floating stage", through the impetus given by the film producer Mr Tarak Ammar is turned into an authentic three-master of some size (62 metres long by 16 metres wide) capable of sailing on the high seas at a speed of 5 knots. Building the "Neptune" took two years and cost 8,2 million dollars. The galeon was assembled in Tunisia and launched in march 1985. Carthago films decided to convert the "Neptune" into a permanent exhibition of "Pirates" and open it to the public.
+The three-masted galleon moored at the Porto Antico was built for Roman Polanski's *Pirates* (1986) at a cost of $8.2 million. At 62 metres long, it's a faithful replica of a 17th-century sailing ship and now serves as a permanent exhibition. It's a genuinely impressive piece of film-making history sitting right on the waterfront.

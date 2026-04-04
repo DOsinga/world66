@@ -1,36 +1,12 @@
 ---
 title: "Aqua Roma"
 type: poi
-address: "29/F, One Peking, 1 Peking Road, Tsimshatsui, Kowloon, Hong Kong"
-email: "info@aqua.com.hk"
+address: "29/F, One Peking, 1 Peking Road, Tsim Sha Tsui"
 phone: "+852 3427 2288"
-price: "$380 per person"
-type: "Italian"
 url: "www.aqua.com.hk"
+email: "info@aqua.com.hk"
+latitude: 22.2954
+longitude: 114.1688
 ---
 
-Located in Kowloon ’s new designer fashion capital, One Peking, aqua redefines destination dining with its ultra-stylish interiors, stunning harbour and city views, and its innovative combination of Italian and Japanese cuisine.
-
-As you ascend onto the catwalk, you will witness a contemporary tribute to Italian chic with seamlessly tiered banquette seating that guarantees an uninterrupted harbour view from every table.
-
-aqua roma focuses on modern Italian cooking from the south. Choose from a selection of antipasti, Hong Kong ’s best thin crust pizzas, hand-made pastas fresca and al dente risottos, plus a sumptuous array of mains such as the oven-baked sea bass with potato scales on a light caponata and a Sangiovese wine reduction.
-
-Don’t miss Marco’s signature dessert platter with our all-time bestsellers: tiramisu a la Brindisi + panacotta. They defy description!
-
-For more information please visit our website www.aqua.com.hk.
-
-type: Italian
-
-
-
-
-
-tel: +852 3427 2288
-
-url: [www.aqua.com.hk](http://www.aqua.com.hk)
-
-address: 29/F, One Peking, 1 Peking Road, Tsimshatsui, Kowloon, Hong Kong
-
-PriceOfMenu: $380 per person
-
-email: info@aqua.com.hk
+Italian restaurant on the 29th floor of One Peking with floor-to-ceiling windows overlooking Victoria Harbour. Modern Italian cooking — thin-crust pizzas, hand-made pastas, risotto — with the harbour as the view. The sister Japanese restaurant Aqua Spirit is on the same floor. Expensive (around HK$600+ per person), but the setting is hard to beat for a special evening. Reservations required; harbour-view tables go fast.

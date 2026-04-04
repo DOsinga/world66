@@ -1,71 +1,10 @@
 ---
-title: "When to Go in Kowloon"
+title: "When to Go"
 type: section
 ---
 
-**Chinese New Year**
+See the main [When to Go](/asia/china/hongkong/when_to_go) page for Hong Kong's overall climate and seasons — weather is the same across the territory.
 
-Beginning with Chinese New Year, late January to mid February, the
-temperature and clear dry skies alternate with longer spells of cold
-wind and dank mist that can run unbroken for weeks. Mountaintops
-occasionally show night time frost (the appearance of frost is always a
-headline story in local tabloids), and beaches at this time of the
-year are largely deserted. This last statement could mean for some
-beach enthusiasts that it's a great time to enjoy all of the beach for
-themselves.
+One event worth timing a visit around: the annual birthday of the Monkey God (Tai Shing Pek Kwan) in late September or early October. The celebration in Mong Kok is one of Hong Kong's more unusual public religious events — the temple medium enters a trance, claims possession by the god, and demonstrates supernatural immunity to pain. Crowds, incense, and a general festive atmosphere. The exact date moves with the lunar calendar; check locally for the current year's date.
 
-**Rainy Season**
-
-Hong Kong's rainy season usually starts around mid March. The temperature rises and humidity thickens, causing frequent
-showers. Skies tend to be cloudy and heavy rainstorms happen almost
-every afternoon. Despite the rain, this season is popular with most
-Kowloon visitors because it's not nearly as hot as the high summer
-season.
-
-**High Summer**
-
-This is the one time of the year that you have to watch out for. Mid
-May to September is high summer, and also the time in which the
-unpredictable typhoon season takes place. Throughout this season, the
-sun shines most of the day and it is a must to wear sunblock,
-especially for children. The humidity stays around the 90 percent. Most
-people flock to the malls so that they can enjoy air conditioning. When
-visiting the shopping centers, it is a good idea to dress in layers
-to avoid catching a cold during the switch between hot and cold
-air. People with asthma, respiratory problems and tendencies to get the
-flu easily, should avoid visiting Hong Kong during this time.
-
-**Last week of September**
-
-The last week of September is a great time to visit the Mongkok area
-of Kowloon because there you can experience the annual birthday
-celebration of the Monkey God. During this celebration, the Monkey God worshipers produce a bizarre show that is very entertaining. The main
-players in this celebration are the medium (who speaks for the Monkey
-God) and the interpreter (who translates the language that is only
-known to the Monkey God, the medium and the interpreter). The medium
-first prays until the Monkey God takes over his body and proceeds to
-use his medium's body to prove his supernatural powers. For openers, the
-medium will plunge his hands into boiling oil without any burns or
-discomfort being inflicted upon himself. Thus, the demonstration
-continues, eventually ending with a grand feast and street block party.
-
-**Dry Monsoons**
-
-This is the most popular time of the year for visitors because it
-provides consistently not too warm days and blue clear skies. The dry
-monsoon season starts in the first weeks of September. Visitors flock
-to Kowloon during October and November because of the nights with low
-humidity and cool weather, which is perfect for walking around and doing
-some shopping.
-
-**December**
-
-From December through early January, the same weather pattern of the
-dry monsoon season continues: sunny days with cool nights. At this
-period there is a gradual shift to unpredictable weather. This time of
-the year is great for those visitors looking to do a lot of sightseeing
-by walking around Kowloon. The weather is not too hot and not too cold,
-it's just right.
-
-**Contributors**
-December 23, 2009
+**Lunar New Year** (late January to mid-February) is the biggest annual event across all of Kowloon. The Temple Street Night Market winds down, many shops close for several days, and family gatherings dominate. The New Year fair in Victoria Park (Hong Kong Island side) and the flower markets in Mong Kok (Prince Edward area) are worth visiting in the run-up. The New Year fireworks over Victoria Harbour, viewed from the Tsim Sha Tsui promenade, are spectacular if you can get a position.

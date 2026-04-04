@@ -3,19 +3,20 @@ title: "Day Trips"
 type: section
 ---
 
-Take a break from the hustle and bustle of Hong Kong by escaping to a more tranquil location for the day. These are a few of the best day trips from the island of Hong Kong.
+Hong Kong's position in the Pearl River Delta makes it an excellent base for short trips across the border or to nearby destinations.
 
 **Macau**
 
-Macau is the only European colony that has ever existed in China. Founded by the Portuguese in the 16th Century, this city, although no longer owned by Portugal, is probably the most popular destination near Hong Kong. Ferries leave for Macau every 15 minutes, 24 hours a day, and cost about HK $142 or $18 USD one-way. The transfer takes an hour, more or less, and is rather scenic on a pleasant, sunny day. While there, try some exotic foods spiced with tumeric, cinnamon, or coconut milk. Relax on the black sands of Hac Sa Beach if you can endure the short but rough bus ride there. Street signs use the Roman Alphabet, but be sure to get a map just in case, as it's easy to get lost. Also, a trip to Macau just isn't complete without a visit to one of its many over-the-top casinos.
+The former Portuguese colony, returned to China in 1999, is an hour away by high-speed ferry. Ferries leave from the Macau Ferry Terminal in Sheung Wan and the China Ferry Terminal in Tsim Sha Tsui every 15 minutes, around the clock; one-way fares are around HK$170–200. The old Cotai district retains colonial Portuguese architecture — narrow streets, pastel buildings, the ruins of St Paul's — in striking contrast to the Las Vegas-scale casino resorts that now dominate the newer Cotai strip. The egg tart (pastel de nata) here is better than anywhere else in the region. For a beach, the black-sand Hac Sa beach is worth the short bus ride.
 
-**Zhuhai**
+**Shenzhen**
 
-To get to Zhuhai, take a ferry from Hong Kong for HK $340 or $44 USD round trip. It's about 1 hour 10 minutes one-way. Zhuhai is blessed with a spectacular coastline, therefore, its fresh seafood is a huge attraction both for tourists and locals. Try the "Baked Yin Hen" or the "Lotus Root of Baifeng Lake", both are favorites of the locals. Don't forget to ease your troubles away be sampling a variety of high quality teas in the Three Gui Pavilion while enjoying the view of Xianglu Bay and the famous sculpture of the fisher girl. Zhuhai is the city that most Hong Kongers visit to relax and get away.
+Cross the border at Lo Wu (East Rail Line from Kowloon, 45 minutes) or Lok Ma Chau and you're in one of China's fastest-growing cities. Shenzhen has transformed from a fishing village into a metropolis of 13 million in 40 years. It's primarily a shopping day trip for Hong Kongers — electronics at Huaqiangbei, clothing markets — but also has genuine attractions including the OCT Contemporary Art Terminal (OCAT) and an increasingly interesting restaurant scene. Bring your Chinese visa.
 
 **Guangzhou**
 
-A 2 hour train ride will get you to the wealthy city of Guangzhou. There are a variety of attractions with historical and cultural significance in the area. Yuexiu Park is a tranquil, scenic place filled with famous monuments such as the Zhenhai Tower and the Five-Ram Sculpture. For a real treat, take a boat ride on the Pearl River in the evening, the lights and view of the city will make your trip a memorable one. Guangzhou also has some great snack foods; test out the double-skin milk, dim sums, steamed vermicelli rolls, and wonton noodles among others. From Hong Kong the train ticket to the city costs approximately $24 USD one-way.
+A 48-minute high-speed train ride from West Kowloon station (trains run frequently, book ahead) brings you to China's third-largest city. Guangzhou is the capital of Cantonese culture — the food here, particularly dim sum and roast meats, is exceptional. Shamian Island preserves European colonial architecture from the treaty port era. The Chen Clan Ancestral Hall is an extraordinary example of traditional Cantonese decorative architecture.
 
-**Contributors**
-January 22, 2007
+**Zhuhai**
+
+A ferry from the China Ferry Terminal (around 1 hour) reaches this relaxed city on the western shore of the Pearl River Delta. Known for its seafood, particularly along the Jiuzhou Cove waterfront. The Three Gui Pavilion area offers a slower pace and decent tea. Zhuhai is where many Hong Kongers go when they want to relax.

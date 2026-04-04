@@ -1,59 +1,12 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Hong Kong is a simple to navigate, tourist friendly city . Their clean and extensive subway, bus and ferry system
-make getting around to all the sights in Hong Kong
-without a car a pleasure. Hong Kong is as
-urban as it gets but you might be surprised to know you can go hiking up
-mountainous dirt trails not to far from the city. The government in Hong Kong takes their green spaces seriously. As a result
-of these policies there are many protected wildlife areas in Hong
-Kong. Only thirty percent of the land in Hong
-Kong has been developed.
+Hong Kong is easy to explore and surprisingly varied. The MTR, buses, and ferries connect the main attractions without much effort, and the dense geography means you can pack a lot into a short visit.
 
-**Sai Kung Park**
+The obvious starting points are [Victoria Peak](/asia/china/hongkong/things_to_do/victoria_peak) for the skyline view and the [Star Ferry](/asia/china/hongkong/things_to_do/star_ferry) crossing for the harbour perspective. The [Temple Street Night Market](/asia/china/hongkong/things_to_do/temple_street) in Yau Ma Tei is worth an evening, and the [Tian Tan Buddha](/asia/china/hongkong/things_to_do/tian_tan_buddha) on Lantau makes for an excellent half-day trip. [Ocean Park](/asia/china/hongkong/things_to_do/ocean_park) suits families and anyone who wants a full day of rides, animals, and spectacle.
 
-Sai
-Kung Park is
-located in the East of New Territories overlooks a scenic peninsula. This park
-also provides trails with impressive panoramic seascapes. This
-area has a lot to offer including the Sheung
-Yiu Folk
-Museum, the Lion
-Nature Education
-Center, the Sai
-Kung Country
-Parks, the Clear
-Water Bay
-Country Park,
-two temples and a Golf Course that is open to the public. You can take a bus to get there
-but only on Sunday’s and holidays.
+For something more active, [Dragon's Back Trail](/asia/china/hongkong/things_to_do/dragons_back_trail) on the southeast of Hong Kong Island is one of the best urban hikes in Asia — three hours along a ridge with sea views on both sides, finishing at Big Wave Bay beach. The government parks in the New Territories offer longer hiking routes for those with more time.
 
-**Dragon's Back Trail **
-
-Dragon’s Back trail on Hong Kong
-Island was granted the award for best
-urban hike in Asia by Time magazine. And best
-of all it is only a twenty minute taxi ride from downtown. The views are
-breath-taking and panoramic from the hiking trail. You can see Clear Water Bay to the east and Stanley Peninsula
-to the west. Most people start their three and a half hour hike from To Tei Wan
-and end up at Big Wave Bay 8.5 kilometers later. To get there take the subway
-MTR Shau Kei Wan Station, Then you can take a taxi or try bus # 9 to To Tei
-Wan.
-
-**Tolo Harbor Cycling Track**
-
-The city of Hong
-Kong has created a wonderful bike trial that runs
-through the countryside, called the Tolo Harbor Cycling Track. This biking
-trail starts in Sha Tin and ends in Tai Po. There are several places to rent a
-bike so don’t worry that you did not bring yours from home.
-
-**Hong Kong Beaches**
-
-Don’t forget the beach! There are enough beaches in Hong
-Kong territory to visit a new one every day for a month. If there is a beach,
-there are water sports. You can go kayaking, wind surfing, sailing and water
-skiing from the beaches on the outlying islands. To get to the outlying island
-use the Hong Kong ferry system.
+The Sai Kung peninsula in the eastern New Territories deserves a mention: take the ferry to one of the uninhabited islands for swimming, or hire a sampan from the village pier. The Sha Tin Racecourse, one of the world's largest, hosts meetings on Saturday and Sunday from September to June — worth going if you want to see where Hong Kong's gambling enthusiasm gets channelled in public.

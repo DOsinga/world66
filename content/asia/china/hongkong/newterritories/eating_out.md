@@ -3,20 +3,10 @@ title: "Eating Out"
 type: section
 ---
 
-***ASRA indian restaurant***
+Eating options in the New Territories range from the seafood restaurants of Sai Kung to suburban shopping mall food courts to old-school dai pai dong (open-air cooked food stalls) in the market towns.
 
-Shop 15&19,1/F.Shatin Galleria,18-24 Shan Mei St.,Fotan,N.T.,Shatin,HK
+**Sai Kung** is the standout destination for seafood. The restaurants along the waterfront and on Sai Kung promenade have tanks outside with live fish, prawns, crab, and shellfish — you point at what you want and it's cooked to order. Prices are negotiable. On summer weekends the waterfront fills up and tables are hard to find without a wait.
 
-Ph:00852 31880852, Fax:31880175,E-Mail:[orders@asra.com.hk](/asia/china/hongkong/newterritories/eating_out)
+**Sha Tin** has a wide range of restaurants in its shopping malls (New Town Plaza has a large food court) and in the older market streets around the MTR station. For something more local, the village restaurant clusters around Pat Heung and Yuen Long in the northwest serve traditional Hakka dishes and clay-pot rice.
 
-Website: www.asra.com.hk
-
-Location: Fotan railway station-EXIT B (5 minutes walk)
-
-Business Hrs:Everyday (Lunch:11am-3pm, Dinner:5pm-10pm,Happy Hrs:5pm-7pm)
-
-Free parking during dinner time.
-
-Welcome to Asra Indian Restaurant ! The Indian food experience at Asra will give you a glimpse of heaven - it is sublime and beautiful.
-
-ASRA serves a-la-carte,set dinner,set lunch,food delivery,take away,& catering service.ASRA is famous for authentic indian kebab & curry.Good atmosphere,friendly staff & tasty food.Its a nice place,lot of choices for veg & non veg.
+The New Territories also has a visible South Asian community in areas like Tsuen Wan and Yuen Long, with genuine Indian and Pakistani restaurants not primarily aimed at tourists.

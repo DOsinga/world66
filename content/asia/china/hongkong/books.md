@@ -3,112 +3,14 @@ title: "Books"
 type: section
 ---
 
-**all**
+**A Borrowed Place: The History of Hong Kong** by Frank Welsh is the most thorough single-volume history — long but readable, covering the territory from the Opium Wars through the 1997 handover. Essential background for anyone who wants to understand why the place looks and functions the way it does.
 
-**Frommer's Hong Kong**
+**East and West: China, Power, and the Future of Asia** by Christopher Patten, Hong Kong's last governor, is partly a memoir of the handover negotiations and partly a polemic about Western engagement with China. Partisan, but vivid and worth reading alongside Welsh.
 
+**Hong Kong: Epilogue to an Empire** by Jan Morris captures the city in 1988, just under a decade before the handover, with the particular atmospheric clarity that Morris brings to cities. A good read on a plane heading there.
 
+**Gweilo: Memories of a Hong Kong Childhood** by Martin Booth recalls growing up in 1950s Hong Kong as the son of a British army officer. Unusual ground-level view of the colonial city.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028626052/ref=ase_osingacom?v=glance&s=books)
+**Hong Kong Action Cinema** by Bey Logan remains the definitive guide to the film industry that produced Bruce Lee, Jackie Chan, and John Woo — relevant context given how much of Hong Kong's global cultural export has come through cinema.
 
-author: Beth Reiber,Arthur Frommer
-
-isbn: 0028626052
-
-subject: travel
-
-**East and West:China, Power, and the Future of Asia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0812930002/ref=ase_osingacom?v=glance&s=books)
-
-author: Christopher Patten
-
-isbn: 0812930002
-
-subject: history
-
-**Hong Kong Action Cinema**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0879516631/ref=ase_osingacom?v=glance&s=books)
-
-author: Bey Logan
-
-isbn: 0879516631
-
-subject: history
-
-**A Borrowed Place:The History of Hong Kong**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1568361343/ref=ase_osingacom?v=glance&s=books)
-
-author: Frank Welsh,Maya Rao (Editor)
-
-isbn: 1568361343
-
-subject: history
-
-**Fodor's Hong Kong '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679001603/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 0679001603
-
-subject: travel
-
-**Fodor's Citypack Hong Kong '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679002472/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor's,Sean Sheehan,Pat Levy
-
-isbn: 0679002472
-
-subject: travel
-
-**Culture Shock!:Hong Kong**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558681671/ref=ase_osingacom?v=glance&s=books)
-
-author: Betty Peh-Ti Wei,Elizabeth Li
-
-isbn: 1558681671
-
-subject: culture
-
-**Trainspotting:A Screenplay, Vol. 1**
-
-***jiiji***
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0786882212/ref=ase_osingacom?v=glance&s=books)
-
-author: John Hodge,Irvine Welsh
-
-isbn: 0786882212
-
-subject: culture
-
-**Hong Kong Action Cinema**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0879516631/ref=ase_osingacom?v=glance&s=books)
-
-author: Bey Logan
-
-isbn: 0879516631
-
-subject: culture
+For contemporary fiction set in the city, **Neon Gods** by Natasha Bowen and the crime novels of Jason Y. Ng offer different angles on the modern city.

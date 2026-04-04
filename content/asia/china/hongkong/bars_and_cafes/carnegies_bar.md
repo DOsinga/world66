@@ -1,23 +1,10 @@
 ---
-title: "Carnegies Bar"
+title: "Carnegie's Bar"
 type: poi
-address: "G/F 53-55 Lockhart Rd. Wan Chai Hong Kong"
+address: "G/F 53-55 Lockhart Rd, Wan Chai"
 phone: "2866 6289"
+latitude: 22.2779
+longitude: 114.1740
 ---
 
-A great place for a night out. Good beer, great food and very drunk patrons dancing on the bar after 11pm (they put up a special brass frame so that they don't fall off!).
-
-The staff are great, fun friendly and helpful. If you are going to be in HK for a while ask for a membership card and you'll get 10% off everything.
-
-The bar stays open until 4 or 5 am most days. Happy "hour" from 11am until around 6pm. Themed nights (Monday, aircrew; Wednesday, ladies night, etc.) add to the fun. The kitchen closes at 11pm, but there is an all-night pizza place next door and they will deliver to your table, with the approval (even the help) of the bar staff.
-
-Contributors
-September 30, 2004 new by mposen
-
-
-
-
-
-tel: 2866 6289
-
-address: G/F 53-55 Lockhart Rd. Wan Chai Hong Kong
+A Wan Chai institution on Lockhart Road, Carnegie's is a lively pub with good beer, a kitchen that stays open until 11pm, and patrons who end up dancing on the bar later in the evening (there's a brass railing to prevent falls). The bar runs until 4 or 5am most nights. Happy "hour" runs from 11am to around 6pm. Themed nights throughout the week — Monday is traditionally aircrew night, Wednesday is ladies' night. Membership cards are available for regulars and give a 10% discount.

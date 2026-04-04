@@ -1,6 +1,6 @@
 ---
 title: "Practical Information"
-type: location
+type: section
 ---
 
 **Practical addresss**

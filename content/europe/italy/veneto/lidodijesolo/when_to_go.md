@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Lido di Jesolo"
+title: "When to Go"
 type: section
 ---
 

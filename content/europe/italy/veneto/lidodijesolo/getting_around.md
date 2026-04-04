@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Lido di Jesolo"
+title: "Getting Around"
 type: section
 ---
 

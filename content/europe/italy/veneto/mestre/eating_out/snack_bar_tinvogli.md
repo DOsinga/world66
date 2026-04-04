@@ -8,8 +8,8 @@ phone: "+390418010124"
 price: "6€"
 type: "Italian"
 url: "N"
-latitude: 41.902457
-longitude: 12.494855
+latitude: 45.4943
+longitude: 12.2418
 ---
 
 Very cozy and warm snack bar with a huge range of italian paninis and tramezzini (typical home made Venetian sandwich) to choose from, but you can also get salads and main courses. All is very good quality and not pricy.

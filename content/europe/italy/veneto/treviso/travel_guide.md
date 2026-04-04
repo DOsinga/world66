@@ -1,5 +1,5 @@
 ---
-title: "Travel Guide in Treviso"
+title: "Travel Guide"
 type: section
 ---
 

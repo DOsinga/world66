@@ -1,11 +1,12 @@
 ---
 title: "I tre Mercanti"
 type: poi
-address: "Ponte della Guerra, Saint Mark"
+address: "Castello 5364, near Ponte della Guerra, San Marco"
 email: "info@itremercanti.it"
-phone: "+390415222901"
-type: "Speciality shops"
+phone: "+39 041 522290"
 url: "www.itremercanti.it"
+latitude: 45.436315
+longitude: 12.339359
 ---
 
 **I Tre Mercanti**

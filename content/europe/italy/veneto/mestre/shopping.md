@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Mestre"
+title: "Shopping"
 type: section
 ---
 

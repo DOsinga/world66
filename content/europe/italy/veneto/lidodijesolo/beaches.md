@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Lido di Jesolo"
+title: "Beaches"
 type: section
 ---
 

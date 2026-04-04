@@ -1,6 +1,6 @@
 ---
 title: "Day Trips"
-type: location
+type: section
 ---
 
 "/>

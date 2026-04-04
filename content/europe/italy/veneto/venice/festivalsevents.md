@@ -1,6 +1,6 @@
 ---
 title: "Festivals & Events"
-type: location
+type: section
 ---
 
 **general**

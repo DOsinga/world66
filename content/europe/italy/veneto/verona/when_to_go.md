@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Verona"
+title: "When to Go"
 type: section
 ---
 

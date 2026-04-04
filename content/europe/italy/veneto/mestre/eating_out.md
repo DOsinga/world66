@@ -1,10 +1,10 @@
 ---
-title: "Eating Out in Mestre"
+title: "Eating Out"
 type: section
 ---
 
-Mestre is an area in Italy that is similar to what Americans would call a suburb off Venice. Here are some of **Mestre Restaurants**. One can choose to eat right there in Mestre or visit the nearby city of Venice to sample fine food. **
-**
+Mestre has a solid restaurant scene that most Venice-bound travellers overlook. The quality is good and the prices are substantially lower than the lagoon side. Fish features heavily — the proximity to the Adriatic means supply chains are short.
+
 
 **La Cascina**
 

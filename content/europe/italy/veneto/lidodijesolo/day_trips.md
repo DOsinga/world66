@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Lido di Jesolo"
+title: "Day Trips"
 type: section
 ---
 

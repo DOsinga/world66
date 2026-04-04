@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Padua"
+title: "Day Trips"
 type: section
 ---
 

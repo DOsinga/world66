@@ -1,8 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-The main thing you should do in Venice is walk around and get lost in the many calle's (alleys) and capmpo's (squares). All parts of Venice are equelly beautiful so you'd better stay away from the crowded Piazza San Marco (St Mark's square) area.
+The main thing to do in Venice is walk — get off the main tourist routes and into the back calli and campi that most visitors never find. Every district has its own character. Dorsoduro is quieter and more residential, Cannaregio has the old Jewish ghetto, Castello is less visited and feels more like a real city.
 
-Of course, taking a ride in a gondola is one of the main attractions of Venice but they tend to be very expensive (€60 for 30 to 60 minutes). Bargaining might help though.
+A gondola ride costs around €60 for 30–40 minutes (more after sunset) — negotiate the price before you get in. For a fraction of the cost, take the traghetto across the Grand Canal: the standing gondola ferry used by locals, about 50 cents a crossing.

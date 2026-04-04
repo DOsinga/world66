@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Mestre"
+title: "Beaches"
 type: section
 ---
 

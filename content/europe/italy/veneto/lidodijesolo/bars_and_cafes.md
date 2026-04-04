@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Lido di Jesolo"
+title: "Bars and Cafes"
 type: section
 ---
 

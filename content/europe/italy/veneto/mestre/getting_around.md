@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Mestre"
+title: "Getting Around"
 type: section
 ---
 

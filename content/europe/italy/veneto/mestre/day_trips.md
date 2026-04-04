@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Mestre"
+title: "Day Trips"
 type: section
 ---
 

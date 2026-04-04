@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Lido di Jesolo"
+title: "Shopping"
 type: section
 ---
 

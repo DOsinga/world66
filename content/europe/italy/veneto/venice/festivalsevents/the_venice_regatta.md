@@ -1,8 +1,9 @@
 ---
 title: "The Venice Regatta - Vogalonga"
-type: location
-email: "yaporat@gmail.com"
-url: "www.carnifest.com"
+type: poi
+url: "www.vogalonga.com"
+latitude: 45.437191
+longitude: 12.33459
 ---
 
 The Regatta (naval review) Vogalonga is held, yearly, in Venice in mid

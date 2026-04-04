@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Verona"
+title: "Bars and Cafes"
 type: section
 ---
 

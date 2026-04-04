@@ -1,5 +1,5 @@
 ---
-title: "Things to do in Verona"
+title: "Things to Do"
 type: section
 ---
 

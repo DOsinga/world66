@@ -1,22 +1,18 @@
 ---
-title: "Getting Around in England"
+title: "Getting Around"
 type: section
 ---
 
-**England transportation** is reliable and very safe. You will find that getting around England is very easy and there are several methods of transportation available.
+England has an extensive rail network that connects most cities, and it's generally the fastest and most comfortable way to move around. Book in advance through National Rail for the best fares — full-price walk-up tickets are expensive. For rural areas, a hire car opens up the countryside far more than buses will.
 
-**Walking**
+**By Train**
 
-England offers hundreds of miles of foot paths. Walking around England is a good way to see the sites and the beautiful landscape. The rights of pedestrians are protected in England and even though some of the paths are on private property you are still protected.
+The National Rail network reaches most cities and towns. Intercity journeys — London to Manchester, London to York, London to Bristol — are quick and frequent. Book ahead online for significantly lower fares. Railcards (16-25, Two Together, Senior) cut a third off most journeys.
 
-**Taxis and Car Hire**
+**By Bus**
 
-Taxis are readily available in all major cities. The taxis are metered so you will not have to worry about negotiating a price. You also have the option of hiring a car while on your holiday. Hiring a car can be expensive but the benefits can outweigh the price. Using a rental car will allow you to see the city and countryside on your own time and in a relaxed setting.
+National Express runs long-distance coach routes at budget prices, though journeys take considerably longer than trains. For local travel within cities, buses work well and are cheap. In London, the Oyster card or contactless payment covers the Tube, buses, and overground trains.
 
-**Trains**
+**By Car**
 
-England has one of the biggest railroad networks in the world. You can get almost anywhere in the country via railroad. Traveling by train also allows you to see the countryside while traveling. The train system tends to be a little more expensive than buses and other public transportation.
-
-**Air Travel**
-
-Air travel is not as common in England as it is in other parts of the world. If you do need to get to another city fast the option is available. Keep in mind that traveling by air is the most expensive option and you should book in advance if possible.
+Hiring a car is the best way to explore rural England — the Lake District, the Cotswolds, Devon and Cornwall. Drive on the left, watch for narrow country lanes, and plan for motorway congestion near cities, especially the M25 around London.

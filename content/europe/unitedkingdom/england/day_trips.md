@@ -1,18 +1,22 @@
 ---
-title: "Day Trips in England"
+title: "Day Trips"
 type: section
 ---
 
-Taking **England Day Trips** during your excursion to England can enrich your travel experience. Be sure to set aside at least a day and plan on either of these exciting day trips:
+England's compact size and good rail network make day trips genuinely easy. From London you can reach most of southern England's highlights in under two hours, and Paris is only a train ride away. The cities themselves — Bath, Oxford, Cambridge, York — are obvious choices, but the countryside rewards a day out too.
+
+**Bath**
+
+An hour and fifteen minutes from London Paddington, Bath packs Roman baths, Georgian architecture, and a walkable city centre into a very pleasant day. The Royal Crescent and the Circus are worth seeing even from the outside.
+
+**Oxford or Cambridge**
+
+Both are under an hour from London. Wander the colleges, punt on the river, and have lunch in a pub. Cambridge is flatter and arguably more picturesque on the water; Oxford has more of a living city around it.
 
 **Paris, France**
 
-In only about 2 1/2 hours, you can get to Paris from London by taking a ride on the Chunnel (underwater tunnel) that crosses the English Channel. Take the Eurostar high-speed train from London's St. Pancras station to Paris' Gare du Nord Station for between about US$62 and US$400 each way, depending on whether you want economy or first class tickets and how far in advance you book.
-
-While you won't be able to see all Paris has to offer in a day, you can write up a must-see list that includes any of the most iconic locations, such as the Louvre, the Eiffel Tower, the Champs Elysees, the Sacre Coeur and Notre Dame. Don't forget to include a dinner at one of the best restaurants in the world, which you'll find in Paris!
+The Eurostar from St Pancras to Paris Gare du Nord takes about 2h15. It's a long day but entirely doable — arrive in time for a morning museum, lunch, and an afternoon walk before catching an evening train back.
 
 **Edinburgh, Scotland**
 
-Part of the same United Kingdom, but quite a different destination entirely, Scotland is another optimal day trip location from England and Edinburgh is the capital and one of its most popular cities. From King's Cross Station in London, you can take a train to Edinburgh in about 4 hours and 20 minutes or 4 hours and 50 minutes for about US$23 to US$420 each way (depending on which class you're seated).
-
-While in Edinburgh, you can visit Edinburgh Castle, the Scottish Parliament Building, Old Town, New Town and a plethora of other locations in this picturesque, lush and vibrant city. Or you can sign up for a complete tour of the city, even including the fare from and to London.
+A four-and-a-half-hour train from King's Cross puts you in a completely different country in spirit, with Edinburgh Castle, the Royal Mile, and Arthur's Seat all within walking distance of the station.

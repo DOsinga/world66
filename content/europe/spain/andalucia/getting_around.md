@@ -3,16 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-Whereas the train lines between Málaga, Algeciras, Córdoba and Granada are picturesque and at times spectacular, in general it's buses which provide the most useful transport. 
+Buses are the backbone of Andalucian transport and connect cities, towns and villages far more comprehensively than the rail network. The main train lines — linking Málaga, Algeciras, Córdoba and Granada — are scenic and worth taking for their own sake, but for flexibility buses win. Most inter-city routes run frequently and cheaply, and the major bus stations in Seville, Málaga and Granada are well-organised.
 
-The following sites are particularly useful: 
-
-http://www.andalucia.com/travel/bus/home.htm 
-
-http://www.estabus.emtsam.es/ - why don't more cities have a site like this? Seceral buslines available from here 
-
-http://www.continental-auto.es/continental/ventbi.php 
-
-
-
-Minor corrections by [davidx](/world/member/davidx) on 27 October 04
+Renting a car is the only practical way to explore the white villages and rural interior. Roads through the sierras are narrow but well-maintained, and driving through the Serranía de Ronda or along the coast between Tarifa and Cádiz ranks among the best road trips in southern Europe.

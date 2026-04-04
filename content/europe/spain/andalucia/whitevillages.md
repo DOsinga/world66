@@ -1,6 +1,8 @@
 ---
-title: "White villages"
+title: "White Villages"
 type: location
+latitude: 36.7468
+longitude: -5.1609
 ---
 
 The white hill towns or Pueblos Blancos and the landscapes surrounding them are the most spectacular sights in Andulacia. They lie within the triangle formed by the coasts of the Atlantic (the Costa de la Luz) and the Mediterranean (the Costa del Sol) to the south and the Sierra de Algodonales to the north. 

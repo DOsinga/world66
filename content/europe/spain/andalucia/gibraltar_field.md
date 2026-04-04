@@ -1,6 +1,8 @@
 ---
-title: "Gibraltar field"
+title: "Campo de Gibraltar"
 type: location
+latitude: 36.1408
+longitude: -5.4531
 ---
 
 Gibraltar field is located in south Andalucia, the capital is Algeciras and it is an important, economical and historic place. The north is full of tupid forrests where "almost is always raining" with beautiful towns like Jimena, Grazalema, or Alcalá de los Gazules. The coast is cover with long, fine gold sands beaches like Bolonia Beach with the Roman Ruins in the middle of the beach, Tarifa the paradise of surf or Zahara de los Atunes. The capital

@@ -1,23 +1,14 @@
 ---
 title: "Lombardia"
 type: location
-latitude: 45.570369
-longitude: 9.773252
+latitude: 45.4654
+longitude: 9.1859
 ---
 
-Lombardia is the richest region of Italy. This is also where the Lega Nord, the independence movement of the North of Italy, has its roots. Despite the opinion of this small group of people, Lombardia is very Italian.
+Lombardia is Italy's economic engine and its most populous region — yet it contains some of the country's most beautiful landscapes. The Alps form its northern edge, dropping through foothills and lake districts before flattening into the broad Po Valley. Within a couple of hours you can go from Milan's fashion boutiques to mountain villages that haven't changed much in a century.
 
+Milan dominates the region and deserves its reputation: the Duomo, the Last Supper, the Brera gallery, the Castello Sforzesco — it's a serious art city that also happens to be the centre of Italian fashion and finance. But Lombardia rewards those who push past it. Bergamo Alta is one of northern Italy's finest medieval hill towns, compact and walkable, with views across the plains that stretch all the way to Milan on a clear day. Mantua, ringed by lakes and stuffed with Renaissance frescoes, is genuinely undervisited.
 
- [Milan](/europe/italy/lombardia/milan), its capital is also one of the leading cities in the world of fashion. It has a large number of monuments and you can spend days just in the town of Milan.
+The lakes are the region's great draw for outsiders, and justifiably so. Como has an elegant, slightly aristocratic feel — grand villas, manicured gardens, steep hillsides — that Lake Garda, bigger and more touristic, can't quite match. Maggiore, shared with Piemonte and Switzerland, has its own quieter charm. All three are best explored by ferry rather than car.
 
-
- In the North of Lombardia there are a few very pretty lakes, the Lago di Como, the Lago di Lugano, the [Lago Maggiore](/europe/italy/lombardia/lagomaggiore). A little to the west, actually in [Piemonte](/europe/italy/piemonte) is the smaller but equally charming Lago d'[Orta](/europe/italy/piemonte/orta). The lakeside villages are very nice, you can take boat trips on the lakes and visit the islands in the lakes. The city of [Como](/europe/italy/lombardia/como) is well worth a visit as well. For centuries is has been an important rival of Milan and it has as much history and a smany sights as het bigger city, but without the traffic jams and the crowds.
-
-
- Further East is [Bergamo](/europe/italy/lombardia/bergamo). Bergamo Alta has one of northern Italy's loveliest centres, fresh mountain air, wanderable streets and a lively, yet easygoing pace. It's a favourite weekend retreat for people from Milan, so if you have the choice you will find the place much quieter during weekdays.
-
-
- All the way in the east you find the charming [Lago di Garda](/europe/italy/lombardia/lagodigarda), another very beautiful lake region with charming towns and great looking counrtyside.
-
-
- South of Milan you find the medieval cities of Cremona, Pavia and [Mantua](/europe/italy/lombardia/mantua). Of these Mantua is the most attractive one.
+South of Milan, the Po Valley is less glamorous but has its moments: Pavia with its medieval towers and university, Cremona where the world's finest violins are still made, and the Certosa di Pavia, one of the most extravagant pieces of Renaissance architecture in Italy. Lombardia is a region where you keep finding things you didn't know to look for.

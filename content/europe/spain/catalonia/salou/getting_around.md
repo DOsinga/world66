@@ -1,12 +1,9 @@
 ---
-title: "Getting Around in Salou"
+title: "Getting Around"
 type: section
 ---
 
-**Air Travel**
-
-Though small, Salou is located a mere 15 minutes away from the Reus airport. The airport features 10 airlines that offer flights all over Europe. Upon arrival 3 bus lines are available for transport from the airport. They are synchronized with flight arrival times for maximum convenience. Another option is to fly into
-Barcelona, which is only 1 hour from Salou. Buses are also available from Barcelona to Salou. Several train stations are also accessible by bus.
+Salou is compact enough to walk around, and local buses connect the resort to nearby towns and the airport. For trips to Barcelona or Tarragona, trains and buses run frequently.
 
 **Train Travel**
 

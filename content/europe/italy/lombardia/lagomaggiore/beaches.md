@@ -1,11 +1,9 @@
 ---
-title: "Beaches in Lago Maggiore"
+title: "Beaches"
 type: section
 ---
 
-This **Lago Maggiore Beaches **intro guide will help you decide where to go to enjoy the surf and sand.
-
-Lago Maggiore offers 166 km of shore line. There are several public beaches along the coast.
+Lago Maggiore offers 166 km of shoreline with public beaches scattered along the coast. The water is clean and calm, and several beaches have received Blue Flag awards. Here are some of the best spots.
 
 **Angera**
 
@@ -43,5 +41,3 @@ Ispra offers small sand and pebble beaches protected by tall trees. The area is 
 
 Arona is located in the northern part of Lago Maggiore. The beach here is called "Le Rocchette" and offers basic amenities as well as a bar / restaurant. A nearby shipyard, Motonaurica Verbano, offers a pool, sailing club and restaurant.
 
-**Contributors**
-February 19, 2010

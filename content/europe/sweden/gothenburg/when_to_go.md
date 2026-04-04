@@ -1,14 +1,12 @@
 ---
-title: "When to Go in Gothenburg"
+title: "When to Go"
 type: section
 ---
 
-Find the answer to your **Gothenburg when to go **query by reading this guide. Gothenburg crowns the southwestern coast of Sweden and comprises of an urban population. With a seaside location and port area, this place is one of the main tourist centers in the region. Your visit to Gothenburg will be mainly dependent on the weather and climatic conditions. Read on and plan your tip accordingly.
+June through August is when Gothenburg comes alive. The days are long -- up to 17 hours of daylight in midsummer -- and the city's cafes and bars move outdoors. Temperatures sit in the mid-teens to low twenties Celsius, which counts as warm by Swedish standards. This is also when the archipelago is at its best for swimming and island hopping.
 
-**Ideal Time**
+Spring (April to May) is pleasant and less crowded. Winter (November to March) is dark and cold, with only about seven hours of daylight, though the Christmas markets at Liseberg are worth a visit.
 
-The best time to visit Gothenburg is anytime from June to August. These are the summer months and there are several activities that take place. The cafes and bars have open air seating. The days are longer, hence notches up the entertainment factor with museums and malls staying open till late evenings. As this is the major tourist season, the flight tickets could be expensive, but the hotels extend summer packages offering good discounts to the guests. Spring is also a beautiful time to visit Gothenburg. May, June and July is when Gothenburg turns its charm on with picturesque surroundings and an overall romantic atmosphere. Spring is the time when the whole city rejoices after a dark winter.
+**Festivals**
 
-**When Not to Visit**
-
-The winters in Gothenburg are best if avoided. It commences in the month of October and goes on till March. Even though skiing might be on your mind, Gothenburg might not prove to be the best ski location, as the pitch dark winters do not make for a safe skiing expedition.
+The Hammarkullekarnevalen in late May or early June is a colourful three-day carnival with a street procession, salsa dancing, and Caribbean music. The Gothenburg Music Festival at the end of June brings bands and orchestras marching along the Avenyn. Throughout August, the Gothenburg Dance and Theatre Festival takes over stages across the city. On 13 December, the Lucia Festival features a traditional choir procession led by a young girl wearing a crown of candles.

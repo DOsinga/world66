@@ -5,12 +5,10 @@ latitude: 43.700936
 longitude: 7.268391
 ---
 
-Nice is really one of these places everybody has heard of or has seen in television and cinema. James Bond was here of course and the most of the rich and beautiful, the jet set, from the fifties through the sixties and seventies. Some say it is not the hottest spot anymore but many stars have bought houses and villas along the coast ('French Riviera' is one of the most beautiful coast lines in Europe).
+Nice is the undisputed capital of the [Cote d'Azur](/europe/france/midi/cotedazur), and it earns that title not just through glamour but through character. The city has a split personality: the wide, formal sweep of the Promenade des Anglais along the seafront, and the tumbling, narrow-laned old town behind it, where laundry flaps from sienna-coloured facades and the smell of socca drifts from corner vendors.
 
-Especially in spring it is a great place to be due to its mild climate...
+The "authentic" Nicoise live in Vieille Ville, the Old Town, beginning at the foot of the Rock and spreading out from Place Massena. Many of the Italianate facades suggest 17th-century Genoese palaces. Buy a pissaladiere from one of the street vendors and wander -- the old town is a maze of small streets teeming with local life and some of the least expensive restaurants in the city.
 
-And there is much more to do. There's a higher density of museums in Nice than in many comparable French cities. If you decide to forgo the pleasures of the pebbly beach and devote your time to visiting some of the best-respected museums in the south of France.
+Nice has a higher density of museums than many comparable French cities. The Matisse and Chagall museums in the Cimiez neighbourhood, the contemporary art museum (MAMAC) overlooking the old town, and dozens of smaller galleries make this a serious art destination. If the weather turns, you will not run out of things to do indoors.
 
-The "authentic" Nicoise live in Vieille Ville, the Old Town, beginning at the foot of "the Rock" and stretching out from place Massena. Sheltered by sienna-tiled roofs, many of the Italianate facades suggest 17th-century Genoese palaces. The old town is a maze of narrow streets, teeming with local life and studded with the least expensive restaurants in Nice. Buy an onion pizza (la pissaladiere) from one of the local vendors. Many of the old buildings are painted a faded Roman gold, and their banners are multicolored laundry flapping in the sea breezes. And there are many more sights not to be missed.
-
-Check them out.
+The pebbly beach is not to everyone's taste, but the light along this coast is extraordinary -- it is the same light that drew Matisse, Chagall, and Renoir to settle here. The Promenade des Anglais stretches for kilometres along the seafront, perfect for a morning run or an evening stroll. And from Nice, the rest of the Riviera is within easy reach: [Monaco](/europe/france/midi/cotedazur/monaco), [Cannes](/europe/france/midi/cotedazur/cannes), and the hilltop villages of the hinterland are all short bus or train rides away.

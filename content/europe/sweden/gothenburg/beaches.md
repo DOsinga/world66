@@ -1,9 +1,9 @@
 ---
-title: "Beaches in Gothenburg"
+title: "Beaches"
 type: section
 ---
 
-When it comes to **Gothenburg beaches**, the biggest problem is to decide which one of the dozens of beaches to choose. The city of Gothenburg stands in the center of the beautiful and wild West Coast Archipelago, a collection of thousands of bigger and smaller islands. The archipelago is characterized by rocky shores, sandy beaches, skerries, cliffs and wild natural scenery. The beaches here are natural and unique and the islands can be very picturesque.
+Gothenburg sits in the centre of the West Coast Archipelago, a collection of thousands of islands characterized by rocky shores, sandy beaches, skerries, and wild natural scenery. The hardest part is choosing which beach to visit.
 
 **Island Hopping in the Archipelago**
 

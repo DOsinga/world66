@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Music Row"
+title: "Eating Out"
 type: section
 ---
 

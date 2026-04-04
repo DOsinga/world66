@@ -1,16 +1,12 @@
 ---
 title: "Nashville"
 type: location
-latitude: 36.162277
-longitude: -86.774298
+latitude: 36.1623
+longitude: -86.7743
 ---
 
-***Viva Nashvegas!*** One of the South's premier tourist destinations, Nashville offers something for everyone. From its reputation as the epicenter of country music to being the "Athens of the South," Nashville provides a vast array of musical events, museums, shopper-tunities and landmarks to make any vacation here memorable and meaningful. 
+Nashville is the capital of Tennessee and the undisputed centre of the American country music industry. It has been drawing musicians, songwriters, and record labels since the Grand Ole Opry broadcast its first show in 1925, and the weight of that history is still visible and audible throughout the city — in the studios on Music Row, in the live music on Broadway, in the Country Music Hall of Fame, and in the listening rooms where careers are still being built.
 
+That said, Nashville has grown into a genuinely varied city. The "Athens of the South" nickname comes from its unusually high concentration of universities and from the Parthenon in Centennial Park — a full-scale concrete replica of the Athenian original, built for the Tennessee Centennial Exposition in 1897. The restaurant scene has moved well past the meat-and-three tradition, though those canteens survive and are still some of the best eating in town. Hot chicken — the fiery fried chicken invented here — has become a national phenomenon but is still best at Prince's or 400 Degrees in East Nashville.
 
-
-## Destinations in Nashville
-
-[General Jackson Riverboat Cruise](/northamerica/unitedstates/tennessee/nashville/generaljacksonriverboatcruise)
-[Music Row](/northamerica/unitedstates/tennessee/nashville/musicrow)
-[The Blue Bird Cafe](/northamerica/unitedstates/tennessee/nashville/thebluebirdcafe)
+Downtown is compact and walkable. The Broadway honky-tonk strip, with its live music in every bar from mid-morning, is one of the more persistently festive streets in America. The East Nashville and Germantown neighbourhoods have become the city's creative centres, with independent restaurants and music venues spread through the pre-war housing stock.

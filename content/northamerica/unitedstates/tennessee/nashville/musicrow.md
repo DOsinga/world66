@@ -1,8 +1,8 @@
 ---
 title: "Music Row"
 type: location
-latitude: 32.693079
-longitude: -96.38995
+latitude: 36.1484
+longitude: -86.7952
 ---
 
 Just down Demonbreun street out of Downtown is the core of the country music industry, Music Row. You'll know you've reached it when you pass the sculpture shown to the right of this article. You can't miss it. Alan leQuire's "Musica" was commissioned by the city to serve as a landmark... a twenty foot-tall "front door" to music row if you will. It depicts nine... "spirits" dancing and expressing themselves... musically... naked. One writer quipped, "it's a reminder how you can lose your shirt *and* your pants in the country music business." 

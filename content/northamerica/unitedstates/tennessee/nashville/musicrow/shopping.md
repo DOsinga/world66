@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Music Row"
+title: "Shopping"
 type: section
 ---
 

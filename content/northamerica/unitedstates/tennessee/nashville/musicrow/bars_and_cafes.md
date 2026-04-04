@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Music Row"
+title: "Bars and Cafes"
 type: section
 ---
 

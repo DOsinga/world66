@@ -1,5 +1,5 @@
 ---
-title: "Things to Do in Music Row"
+title: "Things to Do"
 type: section
 ---
 

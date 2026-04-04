@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Nashville"
+title: "Shopping"
 type: section
 ---
 

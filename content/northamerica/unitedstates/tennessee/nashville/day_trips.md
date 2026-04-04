@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Nashville"
+title: "Day Trips"
 type: section
 ---
 

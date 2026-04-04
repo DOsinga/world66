@@ -5,10 +5,14 @@ latitude: 40.345875
 longitude: 15.237878
 ---
 
-The National Park of Cilento and Vallo di Diano is the second italian Park, what surface is concerned. However,it is a park of fairly new institution. The landscape and vegetation of the park are very interesting. 
- You will find a lot of charming and impressive caves and bays. The zone is full of prehistoric "ruins" and it is known that it was already inhabited in the Paleolitic era (500.000 b.C.).
+*Europe > Italy > Campania > Parco del Cilento*
 
+The Cilento and Vallo di Diano National Park covers nearly 180,000 hectares of southern Campania, making it one of the largest protected areas in Italy. It was designated a UNESCO World Heritage Site together with the ancient cities of Paestum and Velia. The landscape is varied: limestone mountains rising above 1,800m, a long coastline with sea caves and sandy beaches, chestnut forests, and river gorges.
 
- Not only nature lovers will love this Park. Infact in the neighborhood there is plenty of huge discos for the lovers of the "night life". Shuttle buses organized from the discos themselves will bring you right on the dancing floor, from practically every of the many camping and villages in the Park. This has, of course, 
- some drawback, sometimes this buses are not really on time and you may have to wait 1 hour for them. 
- But, of course, you'll have still all the night in front of you...
+The park has been inhabited since the Palaeolithic and contains traces of every subsequent culture — Greek, Roman, Lombard, Norman. The Greek temples at [Paestum](/europe/italy/campania/paestum) are just outside the northern boundary; the ruins of Velia (another Greek city, founded 540 BC) are within the park near Ascea Marina.
+
+Walking is the main activity — there are marked trails across Monte Cervati (the highest point, 1,898m) and along the coast. The caves at Pertosa-Auletta include an underground river accessible by boat. Scuba diving is popular along the rocky southern coast around Camerota.
+
+The villages of the interior — Pisciotta, Vallo della Lucania, Laurino — are small and traditional, largely unvisited. The coast is more developed but less crowded than the Amalfi coast to the north.
+
+Getting here without a car is difficult. The A3 motorway passes through the eastern edge of the park.

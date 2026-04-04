@@ -1,14 +1,6 @@
 ---
-title: "Eating Out"
+title: "Eating Out in Caserta"
 type: section
 ---
 
-**all**
-
-**Taverna degli Amici**
-
-Elegant but cosy restaurant located in the hills of Caiazzo. They are famous for their anitpasta and - not to be missed - the "linguine allo scoglio". They got a "premio Italia".
-
-fax: +39 823 868673
-
-address: Via Giovannizzi, 81013 Caiazzo, Caserta
+**Taverna degli Amici** (Via Giovannizzi, Caiazzo, about 20km from Caserta). Elegant but friendly restaurant in the hills of Caiazzo, known for its antipasto selection and linguine allo scoglio. Award-winning. Fax: +39 0823 868673.

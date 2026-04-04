@@ -3,12 +3,6 @@ title: "Bars and Cafes in Naples"
 type: section
 ---
 
-The list of **Naples Bars and Cafes** provides information on a variety of entertainment spots for both the young and old. Naples is known for its many castles and other places of historical interest, and is currently the capital of the Campania region in Italy. Aside from the city's rich culture, history and architecture, you can also find a number of bars and cafes that could make you feel relaxed or get your party mood started. Here are two recommendations for you to enjoy while you visit this vibrant Italian city in.
+Neapolitans take their coffee seriously. An espresso here is typically darker, stronger, and cheaper than anywhere else in Italy — the tradition of paying for a stranger's coffee (caffè sospeso, or "suspended coffee") is genuine and still practised. Stand at the bar; sitting down typically costs more.
 
-**La Bavarese**
-
-In addition to its popular wide selection of quality wines, you can also relax with La Bavarese&rsquo;s great live music. You can stay at their "summer" balcony and "winter" room, wherein you can appreciate the originality of their interiors and rustic designs. Furthermore, you can enjoy a variety of drinks, beers, sandwiches and other tasty snacks. La Bavarese also has available parking facilities.
-
-**Cafeteria Bellavia**
-
-Filled with intricate designs of precious materials, this caf&eacute; offers a wide range of chocolates and sumptuous home-made pastries. Aside from these, you can dig in to their ice creams and other pre-packed snacks. These can be accompanied by a cup of richly-brewed coffee. You can also relax and take a sample of their liquors and other alcoholic drinks at any time of the day. Cafeteria Bellavia is located near the central Piazza Amedeo, in the neighborhood of Vomero.
+For drinking in the evening, the best areas are **Piazza Bellini** in the historic centre — where bars spread their tables across the square — and the **Chiaia** district, which has Naples' most polished aperitivo scene. The streets around Via San Pasquale in Chiaia are dense with small wine bars that fill up most evenings. Bars along the seafront in Posillipo are popular in summer.

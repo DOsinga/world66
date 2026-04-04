@@ -1,17 +1,10 @@
 ---
 title: "Forcella Market"
 type: poi
-address: "Between piazza Garibaldi and corso Umberto"
-type: "Markets"
+address: "Between Piazza Garibaldi and Corso Umberto, Naples"
+opening_hours: "9:00-12:00"
+latitude: 40.849722
+longitude: 14.263333
 ---
 
-Forcella Market is an open-air market that has been described as "an incredible place where you can find anything, legal or not." Just a few things bargain hunters can expect to find here include: leather, perfume, accessories, alcohol, and locally made knick-knacks of all kinds. Forcella Market is located between piazza Garibaldi and corso Umberto and it's open from 9:00 a.m. to noon.
-
-**Contributors**
-June 10, 2008
-
-type: Markets
-
-
-
-address: Between piazza Garibaldi and corso Umberto
+One of Naples' most chaotic street markets, sprawling between Piazza Garibaldi and Corso Umberto. Leather goods, perfume, accessories, alcohol, and local items of every description. Not a tourist market — this is where Neapolitans shop for bargains, and not everything for sale is officially sourced. Worth a walk through even if you don't buy anything.

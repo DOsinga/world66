@@ -1,25 +1,10 @@
 ---
-title: "Castel dell’Ovo (Castle of the Egg)"
+title: "Castel dell'Ovo"
 type: poi
-address: "Via Eldorado n. 3"
-email: "casteldellovo@commune.napoli.it"
-phone: "+39 0 81 795 4593"
-type: "Hiking"
+address: "Via Eldorado 3, Naples"
+phone: "+39 081 795 4593"
 latitude: 40.828056
 longitude: 14.248284
 ---
 
-Overlooking the Gulf of Naples, on the islet of Megaride is this 2,000-year-old fortress constructed by Frederick II. The site is believed to be that of the Parthenope – the original Greek settlement. Visitor’s can explore the exterior of the castle – which offers panoramic views, but the interior is for private events only.
-
-**Contributors**
-June 09, 2008
-
-type: Hiking
-
-
-
-tel: +39 0 81 795 4593
-
-address: Via Eldorado n. 3
-
-email: casteldellovo@commune.napoli.it
+The oldest castle in Naples sits on the tiny islet of Megaride at the edge of the harbour. Built on the site believed to be the original Greek settlement of Parthenope, the castle is 2,000 years old in its foundations. The exterior and ramparts are open for free; the interior is used for private events. The views across the Bay of Naples are excellent. Open most mornings from 9 a.m.

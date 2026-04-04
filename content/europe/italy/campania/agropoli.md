@@ -5,6 +5,10 @@ latitude: 40.346905
 longitude: 14.996553
 ---
 
-Travel Guide
+*Europe > Italy > Campania > Agropoli*
 
-The Village of [Agropoli](/europe/italy/campania) is the perfect spot to discover the Campania region and bears witness of the presence of ancient Greek settlers, who built the temple of Artemis on the promontory. The following settlers where the Romans. The Byzantines made it a safe landing place, fortifying it and giving it the name Acropolis from the old Greek language: “acro and polis / high and town“ In 882 a.d. the town fell under Saracen control which lasted until 915 a.d. when it came under the rule of the church which lastet until the 15.th century. Various noble families controlled Agropoli straight after the rule of the church. In the 16th and 17th century Agropoli and its inhabitants became particularly the target of barbarian invasions and its population fell to just a hundred souls, mostly women and children. Today Agropoli is the main gate to the Cilento Coast and its National Park which is considered a World Heritage Site unde the control and protection of the UNESCO. Agropoli counts nearly 25 thousand inhabitants and has plenty of clean sand beaches and loads of history around worth your visit.
+Agropoli is the main town on the southern stretch of Campania coast, at the northern edge of the Cilento National Park (a UNESCO World Heritage Site). The name comes from the Greek *akropolis* — the Byzantine settlers who fortified the promontory were making a direct reference to Athens. Before them came the Greeks, who built a temple to Artemis here; before them, the indigenous Lucanian people.
+
+The historic centre occupies the promontory above the modern town and harbour, with a castle and narrow streets that retain something of their medieval character. The lower town and seafront are functional rather than beautiful but have clean beaches, good seafood restaurants, and the infrastructure for a beach holiday.
+
+Agropoli makes a practical base for the Cilento — [Paestum](/europe/italy/campania/paestum) is 15 km north, the Cilento coast extends south, and the Cilento hills are accessible by car. The town has a train station on the Naples-Reggio Calabria line, about 1 hour 20 minutes from Naples.

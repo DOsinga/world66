@@ -1,21 +1,8 @@
 ---
-title: "The Ribeira Sacra"
+title: "Casa Santo Estevo — Ribeira Sacra Walking and Cycling"
 type: poi
-address: "Ribas de Miño 4"
-email: "casasantoestevo@ribeirasacra.com"
-phone: "0034 - 982452734"
-url: "www.ribeirasacra.com"
 latitude: 42.921213
 longitude: -7.523143
 ---
 
-The Casa Santo Estevo does not do organised
-tours in large groups, but they will accompany groups of up to four people on
-either walking or mountain bike journeys around the local area, if booked in
-advanced. The owners are an English/Dutch couple and they speak several
-languages.
-
-http://www.ribeirasacra.com
-
-**Contributors**
-June 25, 2005
+An English-Dutch couple based at Ribas de Miño run small guided trips (up to four people) through the Ribeira Sacra by foot or mountain bike. No large groups, bookable in advance. A low-key, personal way to explore the river canyons and monastery country of this beautiful inland valley. Contact via ribeirasacra.com.

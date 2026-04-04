@@ -1,33 +1,16 @@
 ---
 title: "Day Trips"
 type: section
-email: "paris@parisauthentic.com"
-url: "www.parisauthentic.com"
 ---
 
-There are many things to do in Paris. I myself love to go shopping there the stores are excellent!
+Paris is ideally placed for day trips. The Paris Basin is large and flat, the rail connections are excellent, and within an hour or two in any direction you can be at a royal palace, a great forest, a cathedral city, or a village that inspired the Impressionists.
 
-### [paris authentic](/europe/france/paris/day_trips/paris_authentic)
+**Versailles** is the obvious choice and justifiably so — the palace, the formal gardens, and the Grand Canal are on a scale that takes a full day to absorb properly. Take the RER C from central Paris (45 minutes, €7.30 return); the palace is a 10-minute walk from Versailles-Rive Gauche station. Book timed-entry tickets online well in advance, especially for summer.
 
-Personal visits, excursions & tours in a unique Parisian concept!
+**[Chantilly](/europe/france/paris/day_trips/chantilly)** (50km north) offers the Château de Chantilly with its remarkable art collection, the extraordinary baroque stables, and a great forest for walking. Fast train from Gare du Nord.
 
-Have you ever visited one
-of those cities that are steeped in history and renowned for its
-monuments, its specialities and its culture?
+**[Giverny](/europe/france/paris/day_trips/the_village_of_giv)** (80km north-west) is where Monet lived and created his famous water gardens. Train to Vernon from Gare Saint-Lazare, then a short taxi or bike ride. Worth the effort in May and June when the gardens are at their best.
 
-Now, it's time for you to become a legend!
+**Fontainebleau** (65km south-east) has a magnificent royal forest — the largest in France — and a château that was home to French kings from François I to Napoleon III. The forest has exceptional rock climbing and is popular with Parisian weekenders. RER D from Gare de Lyon, then a short bus ride.
 
-Paris Authentic offers you the chance to fully experiment the French way of life with personal tours in Paris.
-
-"Blue,
-White and Red" in colour, in a perfect state and completely secured,
-our 2 CV cars by Citroen will allow you a nostalgic come back into the
-history of Paris.
-
-No doubt, this [more..](/europe/france/paris/day_trips/paris_authentic)
-
-
-
-url: [www.parisauthentic.com](http://www.parisauthentic.com)
-
-email:
+**Épernay** (130km east) is the centre of the Champagne wine region. The Avenue de Champagne is lined with the great Champagne houses — Moët & Chandon, Perrier-Jouët, Pol Roger — most of which offer cellar tours. TGV from Gare de l'Est, just over an hour.

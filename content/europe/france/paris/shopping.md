@@ -3,58 +3,20 @@ title: "Shopping"
 type: section
 ---
 
-If Paris had no monuments, it would still be great to go there just for the shopping. No other town has so many exquisite shops and so many well-known designers. Well, let's face it: there is only one Paris. Here are some of the main shopping places. 
+Paris remains one of the great shopping cities, from the grand couture houses of the 8th arrondissement to the flea markets of the northern suburbs. You can spend €5 or €5,000 and find something worth buying either way.
 
-**Shops**
+**Department Stores**
 
-**Tati**
+Galeries Lafayette (40 Boulevard Haussmann) and Printemps (64 Boulevard Haussmann) stand directly opposite each other in the 9th arrondissement. Lafayette's original building has a magnificent Art Nouveau glass dome dating from 1912; the food hall in the basement is worth a visit regardless of whether you buy anything. Both stores carry everything from cosmetics to ready-to-wear to housewares. Le Bon Marché on the Left Bank (24 Rue de Sèvres) is smaller, more expensive, and more refined; its food hall, La Grande Épicerie, is the best upmarket supermarket in Paris.
 
-If you like shopping an do not have enough money to visit Cartier or Chanel, Tati is where the French go. There is a real big Tati in Barbes but there are several others all in Paris. You can find them at La Republique, Temple and Opera among others. They are open form 10:00 to 19:00 on weekdays [more..](/europe/france/paris/shopping/tati)
+**Markets**
 
-**Flea Market (OHIO)**
+The Saint-Ouen flea market (Marché aux Puces de Saint-Ouen), at the Porte de Clignancourt, is the largest antique market in the world — over 2,000 dealers spread across several separate markets, open Saturday through Monday. Arrive early; the best pieces are gone by mid-morning. Bargaining is expected and mostly friendly. The Marché d'Aligre (12th arrondissement) is a good all-round food and flea market, very Parisian, very unsanitised.
 
-The Saint Ouen Flea Market at the Porte de Clignancourt draws a crowd of about 70.000 Parisiens every weekend. For this reason alone, you may consider going there. There is also a good flea market in Montreuil.
+**Fashion**
 
-The Flea market is actually the biggest in the world with over 2000 salesme [more..](/europe/france/paris/shopping/fleemarket)
+The rue du Faubourg Saint-Honoré (8th) is the address for the luxury maisons — Chanel, Cartier, Hermès, Lanvin. The Marais has the best concentration of independent boutiques, particularly around rue de Bretagne and rue Vieille du Temple. The 2nd arrondissement around rue Réaumur and rue du Mail has become a centre for young French designers.
 
-**Les Halles**
+**Specialist Shops**
 
-Built at the places where the markets were held in earlier days, the shopping mall of Les Halles has an ideal location right in the center of Paris, between the Louvre and the Notre Dame. In Les Halles you can find almost anything. There is a huge bookstore, called FNAC, there are several possibi [more..](/europe/france/paris/shopping/leshalles)
-
-address: city centre
-
-**Samaritaine**
-
-This is the way all malls should be. A classical building with great views from the roof terrace cafe. And sure, plenty of things you would want to buy. 
-
-address: 19 Rue de la Monnaie, 1st Arrondissement (Near Pont-Neuf)
-
-**Au printemps**
-
-What a building! This is your place to be when you are on a shopping spree.  
-
-address: 64, boulevard Haussmann, 8th Arrondissement
-
-**Galeries Lafayette**
-
-Practically accross the street from Printemps. Lafayette has a beautiful glass and steel dome, and an Art Nouveau staircase built in 1912 by the architect Cahnautin. The store - all 10 stories of it - is classified as an historic monument. The Galeries is open from 9:30 to 19:00 from monday to sa [more..](/europe/france/paris/shopping/galerieslafayette)
-
-**Cartier**
-
-Looking for jewels? This is where you want you could afford to buy them. Serving all royalty since the Czar in the 19-th century. There are seven Cartier shops in Paris, including one onthe airport and one in the Galerie Lafayette, but the real one is one the Place Vendôme, at number 7 and 23.
-
-address: Place Vendôme
-
-**Chanel**
-
-You say Paris, you say Chanel. From Coco to Gabrielle, Chanel is one of the oldest *maison de couture* in business. They added perfumes to their clothing lines in 1921 and recently started doing watches and jewelry as well. Across the street from Cartier.
-
-**Frederic Delliaux, l'Atelier**
-
-A small new boutique in the Marais which sells mainly leather clothing, very well tailored. Also has accessories and other clothing made by other designers.
-
-address: 4, rue du roi de sicile, Paris 75004
-
-tel: +33 1 40 29 03 53
-
-email: contact@fredericdelliaux.com
+Paris is extraordinary for specialist food shops: fromageries, charcuteries, chocolate shops, and wine cellars of a quality rarely seen elsewhere. The area around Palais-Royal and the covered passages (Galerie Vivienne, Galerie Véro-Dodat) is good for rare books, stamps, and curiosities.

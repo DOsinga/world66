@@ -5,27 +5,32 @@ latitude: 33.66493
 longitude: 75.162958
 ---
 
-**Jammu** and **Kashmir** are the two regions that are the most densely populated, hence the state’s name. The Jammu region is better known as the land of temples and beautiful palaces. [Jammu](/asia/india/jammuandkashmir/jammu), the capital, is the major city you’ll pass on your way to the Kashmir region. 
- 
- The Kashmir region is very famous for its natural beauty and popularly known as 'Paradise on Earth' or 'The Valley', because of the area that stretches out between the Himalayas and the Pir Panjal Mountain Range. Its capital [Srinagar](/asia/india/jammuandkashmir/srinagar) is a wonderful colourful city with many museums and gardens. From Srinagar, you can do some excellent daytrips or set off for one of the hill stations from which to start your trekking.
+India's northernmost state divides neatly into three very different worlds. Jammu in the south is a Hindu pilgrimage city and the jumping-off point for the mountains. The Kashmir Valley in the middle is one of the most beautiful places in Asia — lakes, Mughal gardens, snow-capped peaks — and one of the most politically fraught. Ladakh in the east is high-altitude desert, Buddhist monasteries on cliff-faces, and some of the most dramatic scenery on earth.
 
+The state has been disputed territory since Partition in 1947, and armed conflict between India and Pakistan has periodically disrupted life here. The 1990s were particularly difficult, with militant violence effectively shutting down tourism for nearly a decade. Things have changed considerably since then — tourists return in large numbers every summer — but it is worth checking the current security situation before visiting, especially if you plan to travel outside the main tourist areas.
 
- The eastern region is known as Ladakh with a large Buddhist population and better known as the Indian version of Tibet. It is an interesting area with an overdose of astonishing views and multiple opportunities for trekking, rafting and walking. Ladakh lies between an altitude of 9000 feet to 25000 feet. Ladakh is mounted by the Great Himalaya and the Karakoram Mountain ranges. Dras Zanskar and the Suru Valley in the Himalaya region receive heavy snow in winter. It is said that only in Ladakh you can suffer from sunstroke and frostbite at the same time. The people, region and the culture of Ladakh are much alike the Tibet and the Central Asia. Many villages are crowned with a Gompa or Monastery. [Leh](/asia/india/jammuandkashmir/leh) is a lovely town with the impressive Leh Palace dominating the town. 
- 
+**Kashmir Valley**
 
+[Srinagar](/asia/india/jammuandkashmir/srinagar) is the summer capital and the heart of Kashmir. The city sits on Dal Lake, ringed by mountains, and the combination of Mughal gardens, wooden mosques, and the famous houseboats makes it unlike anywhere else in India. The surrounding valley offers some excellent day trips: [Gulmarg](/asia/india/jammuandkashmir/gulmarg) is the top skiing destination in India (the gondola is worth riding even in summer), and [Pahalgam](/asia/india/jammuandkashmir/pahalgam) is the base for trekking toward Kolahoi Glacier and the start of the Amarnath pilgrimage route.
 
- 
- It might be a wise idea to check out the latest news on the situation in Kashmir. Although it is relatively safe for tourists, Kashmir still is a disputed territory and the fighting between Pakistan and India still claims lives.
+**Ladakh**
 
+[Leh](/asia/india/jammuandkashmir/ladakh/leh) is Ladakh's capital and the logical base. At 3,521 m, altitude sickness is a genuine concern — take at least two days to acclimatise before doing anything strenuous. The monasteries scattered around the valley are the main draw: Hemis, Thiksey, Diskit, and Alchi are all worthwhile. The rivers — Indus, Zanskar, Shyok — offer serious whitewater rafting. Trek routes in the Markha Valley and across the Stok Kangri are among the best in the Himalayas.
 
- 
- 
- Last Modified on 02nd January, 2003.
+Getting into Ladakh requires either flying to Leh (highly recommended) or driving the Manali–Leh or Srinagar–Leh highways, both of which are open only from around June to October.
+
+**Jammu and the foothills**
+
+[Jammu](/asia/india/jammuandkashmir/jammu) itself is mainly a transit stop, but it has a pleasant old bazaar and the Raghunath Temple complex is worth an hour. [Vaishno Devi](/asia/india/jammuandkashmir/vaishnodevi), the mountain shrine 61 km north of Jammu, draws millions of Hindu pilgrims annually and is one of the most visited religious sites in India. [Patnitop](/asia/india/jammuandkashmir/patnitop) is a quiet hill station in the forests above Jammu, good for a peaceful overnight stop on the way north.
 
 ## Destinations in Jammu and Kashmir
 
 [Srinagar](/asia/india/jammuandkashmir/srinagar)
-[Leh](/asia/india/jammuandkashmir/leh)
+[Leh](/asia/india/jammuandkashmir/ladakh/leh)
 [Jammu](/asia/india/jammuandkashmir/jammu)
+[Gulmarg](/asia/india/jammuandkashmir/gulmarg)
+[Pahalgam](/asia/india/jammuandkashmir/pahalgam)
 [Vaishnodevi](/asia/india/jammuandkashmir/vaishnodevi)
 [Patnitop](/asia/india/jammuandkashmir/patnitop)
+[Ladakh](/asia/india/jammuandkashmir/ladakh)
+[Kishtwar](/asia/india/jammuandkashmir/kishtwar)

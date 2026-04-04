@@ -1,16 +1,31 @@
 ---
-title: "Baden-Wurttemberg"
+title: "Baden-Württemberg"
 type: location
 latitude: 48.53775
 longitude: 9.041169
 ---
 
-Baden-Württemberg is together with [Bavaria](/europe/germany/bavaria) the largest Southern region in Germany. Famous tourist attractions are the [Black Forest](/europe/germany/badenwrttemberg/blackforest) with its sparkling mineral springs. The best known spa (and also casino) here is [Baden-Baden](/europe/germany/badenwrttemberg/badenbaden) which is visited for its healing water. [Freiburg](/europe/germany/badenwrttemberg/freiburg) is also called the gateway to the Black forest. This university-city has a lot of architectical work to offer, and a lot of south German atmosphere as well. Another older university town situated in the north of Baden-Württemberg is [Heidelberg](/europe/germany/badenwrttemberg/heidelberg), the most famous place on the river Rhine. 
+Baden-Württemberg is Germany's southwestern corner, sharing borders with France and Switzerland, and it contains some of the most varied and rewarding landscape in the country. The Black Forest rolls across the west, the Rhine defines the French border, Lake Constance sits in the south like an inland sea, and the Swabian highlands fill the middle. It's a prosperous, well-organised region — home to Mercedes-Benz and Porsche, to the oldest university in Germany, and to thermal spas that have been operating since the Romans.
 
+The [Black Forest](/europe/germany/badenwrttemberg/blackforest) (Schwarzwald) is the defining landscape: dense spruce and fir, cuckoo clock workshops, and small spa towns that have been drawing visitors for centuries. [Baden-Baden](/europe/germany/badenwrttemberg/badenbaden) is the most elegant of these, with thermal baths, a casino in a building that once impressed Marlene Dietrich, and a festival season that fills the Festspielhaus with serious music. Further south, [Freiburg](/europe/germany/badenwrttemberg/freiburg) is the university city at the forest's edge, one of the sunniest places in Germany, with a magnificent Gothic Münster and a daily farmers' market in its shadow.
 
+[Stuttgart](/europe/germany/badenwrttemberg/stuttgart), the capital, is different in character — hilly, industrial, unexpectedly green. The city's vineyards extend right to the edge of the suburbs, which is unusual enough to be worth mentioning. The Mercedes-Benz Museum and Porsche Museum are both genuinely worth a visit even if you don't care about cars. [Heidelberg](/europe/germany/badenwrttemberg/heidelberg), an hour to the north, is the Germany of postcards: a ruined hilltop castle, a river, a medieval old town, and a university founded in 1386. It draws enormous numbers of tourists, especially in summer, but earns its reputation.
 
+[Tübingen](/europe/germany/badenwrttemberg/tubingen) is Heidelberg's less famous but arguably more liveable rival: a timber-framed old town on a hilltop above the Neckar, another ancient university, and a pace of life that moves at student speed. [Ulm](/europe/germany/badenwrttemberg/ulm), on the Danube at the Bavarian border, has the tallest church spire in the world and a compact old town that was largely rebuilt after wartime destruction.
 
+In the south, [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance) (Bodensee) offers a gentler, more Mediterranean mood: palms on the promenade, ferries crossing to Austria and Switzerland, and a cycling route that circuits the entire lake. [Mannheim](/europe/germany/badenwrttemberg/mannheim), in the north, is a working industrial city built on a grid — unusual in Germany — and has an underrated music and arts scene.
 
-The capital of this region is [Stuttgart](/europe/germany/badenwrttemberg/stuttgart) which is full of green areas and is an very open city. For other interesting places visit [Friedrichshafen](/europe/germany/badenwrttemberg/friedrichshafen), [Lake constance](/europe/germany/badenwrttemberg/lakeconstance), [Schiltach](/europe/germany/badenwrttemberg/schiltach), [Tubingen](/europe/germany/badenwrttemberg/tubingen) or [Ulm](/europe/germany/badenwrttemberg/ulm) in this region. 
+### Cities and regions
 
-Great importance is attached in Baden-Württemberg to the upkeep of traditional customs, encouraging a sense of identity with the State and interest in local history. The State Government promotes a wide range of activities and projects which are intended to help keep alive age-old customs and local specialities in a wide range of fields from dialects and poetry to costumes, music and other forms of local expression. It also makes available subsidies for associations in our State dedicated to the preservation of local heritage and which are based in Baden-Württemberg.
+- [Stuttgart](/europe/germany/badenwrttemberg/stuttgart)
+- [Heidelberg](/europe/germany/badenwrttemberg/heidelberg)
+- [Freiburg](/europe/germany/badenwrttemberg/freiburg)
+- [Black Forest](/europe/germany/badenwrttemberg/blackforest)
+- [Baden-Baden](/europe/germany/badenwrttemberg/badenbaden)
+- [Tübingen](/europe/germany/badenwrttemberg/tubingen)
+- [Ulm](/europe/germany/badenwrttemberg/ulm)
+- [Karlsruhe](/europe/germany/badenwrttemberg/karlsruhe)
+- [Mannheim](/europe/germany/badenwrttemberg/mannheim)
+- [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance)
+- [Ludwigsburg](/europe/germany/badenwrttemberg/ludwigsburg)
+- [Speyer](/europe/germany/badenwrttemberg/speyer)

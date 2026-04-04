@@ -1,37 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-type: "Local"
 ---
 
-There are restaurants offering snacks and Food both Veg and Non
-Veg to its customers.
-In Non veg dishes only goat/lamb meat, chicken, fish and eggs is served.
-
-Mostly boiled rice is prepared in the restaurants.
-
-Some restaurents
-prepared chappatis. Some hotels also prepared chinese dish (only
-noodles) marked as chinese food.
-
-Bhadarwah is famous for cultivation of
-Rajma (kidney beans).
-
-There are bakeries in Bhadarwah preparing fresh
-bread and other bakery snacks.
-Coke, Pepsi, sealed snacks are available in Bhadarwah.
-
-There are also whisky and beer shops selling Indian whisky and Indian beer.
-
-**Contributors**
-July 09, 2006
-
-### [Hotel Surya](/asia/india/jammuandkashmir/bhadarwah/eating_out/hotel_surya)
-
-Hotel Surya has a pure vegeterian restaurent offering Indian and Chinese dishes.
-
-type: Local
-
-
-
-[[rate it]](/asia/india/jammuandkashmir/bhadarwah/eating_out/hotel_surya)
+Food options in Bhadarwah are simple. Restaurants offer Indian meals — rice, dal, chapatis, and either vegetarian or meat dishes (goat, chicken, fish). Bhadarwah is known locally for its rajma (kidney beans), which appear on most menus. There are bakeries producing fresh bread and snacks, and basic Chinese-style noodle dishes are available in some places. Beer and Indian spirits are available.

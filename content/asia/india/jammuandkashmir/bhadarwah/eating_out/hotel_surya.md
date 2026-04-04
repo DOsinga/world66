@@ -1,14 +1,8 @@
 ---
 title: "Hotel Surya"
 type: poi
-type: "Local"
-latitude: 27.166823
-longitude: 78.0068
+address: "Jai Road, Bhadarwah"
+phone: "01997-244216"
 ---
 
-Hotel Surya has a pure vegeterian restaurent offering Indian and Chinese dishes.
-
-**Contributors**
-July 08, 2006
-
-type: Local
+Hotel Surya is one of the main places to stay and eat in Bhadarwah, offering simple Indian and Chinese vegetarian dishes. Also has basic rooms available.

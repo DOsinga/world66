@@ -1,13 +1,10 @@
 ---
 title: "Kashmir"
 type: location
-latitude: 26.26442
-longitude: 71.60275
+latitude: 34.083656
+longitude: 74.797371
 ---
 
-Travel Guide
+Kashmir refers to the central valley region of Jammu and Kashmir — the densely populated, heavily contested, and startlingly beautiful stretch between the Himalayas and the Pir Panjal range. [Srinagar](/asia/india/jammuandkashmir/srinagar) is the capital and the main base for exploring the valley.
 
-Kashmir is one of the most beautiful parts of northern India.
-[Srinagar](/asia/india/jammuandkashmir/srinagar) is the capital and a very good base for exploring the region.
-
-For more info see: [Jammu and Kashmir](/asia/india/jammuandkashmir)
+For full information on the region, see [Jammu and Kashmir](/asia/india/jammuandkashmir).

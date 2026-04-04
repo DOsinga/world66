@@ -1,22 +1,12 @@
 ---
 title: "Leh Palace"
 type: poi
-type: "Palaces"
 latitude: 34.165948
 longitude: 77.586203
 ---
 
-Leh Palace is a nine storey structure built in the 17'th Century by Ladakh ruler of the time, Sengge Namgyal. The palace towers over the regional capital like a smaller version of the Potala in Lhasa, and provides stunning views across the valleys and to the mountains south of the capital.
+Leh Palace is a nine-storey structure built in the 17th century by Ladakhi ruler Sengge Namgyal. It towers over the old city like a smaller version of the Potala in Lhasa, with stunning views across the valley and to the mountains to the south.
 
-Leh palace was eventually vacated when the King and Queen built and moved to Stok palace, which is around 10 miles away on the Southern side of the Indus.
+The palace was abandoned when the royal family moved to Stok Palace about 15 km away. It is now maintained by the Archaeological Survey of India. A further 20-minute walk up the hill from the palace reaches Tsemo Gompa, with good views over the valley.
 
-Shows of traditional dancing and singing are put on in the palace grounds in the evenings.
-
-The walk from Leh town square through winding alleys and up a steep, scree covered slope should not be attempted until you've aclimatised to the altitude. It takes about 20 minutes to reach the palace.
-
-A further 20 minutes walk up the hill from the palace is the Tsemo Gompa.
-
-**Contributors**
-March 09, 2006
-
-type: Palaces
+Allow 20 minutes for the walk from the main bazaar through winding alleys and up a steep slope — do not attempt it until you have acclimatised to the altitude.

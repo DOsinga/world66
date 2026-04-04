@@ -1,39 +1,14 @@
 ---
 title: "Sights"
 type: section
-type: "Monasteries"
-latitude: -20.190009
-longitude: 57.481837
 ---
 
-Alchi
+Leh and its surroundings are extraordinarily rich in historical and religious sites. The town itself has the Leh Palace and Shanti Stupa within walking distance; the Indus Valley stretching east and west holds monasteries at almost every bend.
 
-### [Shey Palace](/asia/india/jammuandkashmir/ladakh/leh/sights/shey_palace)
+Key sites in the town: Leh Palace (the old royal residence dominating the old city), Shanti Stupa (Japanese-built white stupa above Changspa with panoramic views), Tsemo Gompa (above the palace, smaller but with good views), and the old Leh Mosque in the main bazaar.
 
-**Shey ** built in 1645 as a summer residence for the kings of Ladakh, is the oldest palace in Ladakh. The gompa houses a gilded copper two-story image of the seated Buddha.
+Down the Indus Valley east of Leh: Shey (15 km, old palace and large Buddha statue), Thiksey (17 km, impressive eleven-storey monastery and large Maitreya Buddha statue), Hemis (40 km, the richest monastery in Ladakh, famous for its June–July festival and museum of thangkas).
 
-type: Monasteries
+West of Leh: Alchi (70 km, the most important monument in Ladakh for its medieval murals, completely unlike anything else in the region), Likir (60 km, active monastery with large golden Buddha statue), Lamayuru (125 km, possibly the oldest monastery in Ladakh, extraordinary lunar landscape).
 
-
-
-### [Leh Palace](/asia/india/jammuandkashmir/ladakh/leh/sights/leh_castle)
-
-Leh Palace is a nine storey structure built in the 17'th Century by Ladakh ruler of the time, Sengge Namgyal. The palace towers over the regional capital like a smaller version of the Potala in Lhasa, and provides stunning views across the valleys and to the mountains south of the capital.
-
-Leh palace was eventually vacated when the King and Queen built and moved to Stok palace, which is around 10 miles away on the Southern side of the Indus.
-
-Shows of traditional dancing and singing are put on in the palace grounds in the [more..](/asia/india/jammuandkashmir/ladakh/leh/sights/leh_castle)
-
-type: Palaces
-
-
-
-### [Leh Japanese Monastery](/asia/india/jammuandkashmir/ladakh/leh/sights/leh_japanese_monas)
-
-The Japanese Monastry perches on a mountain to the west of Leh. Built in the 20th Century its style is in contrast to other monasteries that you'll see in the area. That said it has a pleasing symmetery and the 25 square meter platform that hangs over the valley side makes an incredible viewing area, especially in the morning.
-
-Sometimes you can find monks giving classes to school children on the viewing platform, framed by the 6000m+ mountains to the south.
-
-A breathtaking view and as is the case with most things in Leh, the walk to the monastery shouldn't be [more..](/asia/india/jammuandkashmir/ladakh/leh/sights/leh_japanese_monas)
-
-type: Monasteries
+Allow at least three full days to cover the main valley sites. Most monasteries charge a small entrance fee.

@@ -1,77 +1,18 @@
 ---
 title: "Shopping"
 type: section
-address: "Goni Khan"
-email: "majidbachh@yahoo.com"
-phone: "0194 2480371"
-type: "Speciality shops"
-url: "www.zaibaish.com"
-latitude: 34.068544
-longitude: 74.806701
 ---
 
-### [Zaibaish](/asia/india/jammuandkashmir/srinagar/shopping/zaibaish)
+Kashmir produces some of the finest handicrafts in India, and Srinagar is the best place to buy them. The main categories worth seeking out:
 
-They call themselves the family clothing centre... A good place if u
-are looking for traditional kashmiri wedding suits. TA variety of
-suiting material for men is also available.
+**Pashmina shawls** — genuine Pashmina is 100% cashmere from the Changthangi goat, extremely soft and lightweight. Much of what is sold as "Pashmina" is actually a blend or synthetic. Government emporiums are a safer bet for quality; prices for genuine handwoven Pashmina start high and go higher.
 
-type: Speciality shops
+**Carpets** — Kashmiri hand-knotted carpets (wool on cotton or pure silk) are among the finest in Asia. The knot count determines quality; silk carpets are the most prized and expensive. Major carpet shops line Boulevard Road and Residency Road.
 
+**Papier-mâché** — lacquered boxes, trays, vases, and ornaments hand-painted with floral and geometric designs. Good quality pieces are individually painted; machine-printed versions are cheap and obvious once you know what to look for.
 
+**Walnut woodcarvings** — bowls, trays, and decorative pieces carved from local walnut. The craft workshops are in the old city.
 
-[[rate it]](/asia/india/jammuandkashmir/srinagar/shopping/zaibaish)
+**Crewel embroidery** — floral patterns worked in wool on fabric, used for curtains, cushion covers, and bedspreads.
 
-tel: 0194 2480371
-
-url: [www.zaibaish.com](http://www.zaibaish.com)
-
-address: Goni Khan
-
-email:
-
-### [Kashmir Shawl Emporium](/asia/india/jammuandkashmir/srinagar/shopping/kashmirshawlemporium)
-
-type: general
-
-
-
-[[rate it]](/asia/india/jammuandkashmir/srinagar/shopping/kashmirshawlemporium)
-
-address: Auqaf Building, Badshah Chowk
-
-tel: 423161
-
-### [Taha Shawl Factory](/asia/india/jammuandkashmir/srinagar/shopping/tahashawlfactory)
-
-type: general
-
-
-
-[[rate it]](/asia/india/jammuandkashmir/srinagar/shopping/tahashawlfactory)
-
-address: Auquaf Building, Boulevard Road
-
-tel: 62241
-
-### [Tibetan Gift House](/asia/india/jammuandkashmir/srinagar/shopping/tibetangifthouse)
-
-type: general
-
-
-
-[[rate it]](/asia/india/jammuandkashmir/srinagar/shopping/tibetangifthouse)
-
-address: Shop No. 6/13, Boulevard Road
-
-tel: 74316 (pp)
-
-### [Kashmir Shawl Factory](/asia/india/jammuandkashmir/srinagar/shopping/kashmirshawlfactory)
-
-type: general
-
-
-
-address: Kara Building, 1st Floor
-
-tel: 470882
+The main shopping areas are Lal Chowk, Polo View, and Boulevard Road. The government Handicrafts Emporium on Residency Road is a useful benchmark for quality and price. Persistent sales pressure is standard — take your time and be willing to walk away.

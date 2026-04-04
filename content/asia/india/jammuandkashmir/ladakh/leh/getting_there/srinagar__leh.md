@@ -1,27 +1,12 @@
 ---
 title: "Srinagar - Leh"
 type: poi
-type: "By Road"
 latitude: 34.149064
 longitude: 77.574455
 ---
 
-National Highway 1 (NH1) connects Leh with Srinagar. The distance of
-475km can be covered in one and a half days. The road however passes
-through the insurgency hit areas of Kargil and Kashmir. Though Indian
-Army has practically fortified the road, a very feeble chance of
-Pakistani barrage or militant strike remains.
+National Highway 1 connects Leh with Srinagar over 434 km, passing through Kargil and crossing Zoji La (3,528 m). The journey takes one long day or, more comfortably, two days with an overnight in Kargil. The road is open roughly June to October.
 
-The route is Leh - Lemayuru - Kargil - Drass - Sonamarg - Srinagar
+The route passes through dramatic scenery — the Drass valley (one of the coldest inhabited places on earth in winter), the Kargil War memorial at Dras, and the beautiful Suru Valley. Sonamarg, a popular hill station, is the last town before the Zoji La pass.
 
-Time your travel properly. One needs to cross Zojilla Pass between the
-towns of Drass and Sonamarg. This pass is closed for traffic between
-4p.m. and 4a.m. There are also some time restrictions on civilian
-traffic in and out of Kargil. Stay updated.
-
-Jammu Kashmir State Road Transport Corporation buses ply on this route.
-
-**Contributors**
-August 12, 2005
-
-type: By Road
+JKSRTC buses run this route; private shared Sumos are faster. Note that Zoji La has time restrictions on civilian traffic — check current rules before setting out, as they can change with security situations. The political context along this route has improved considerably since the 1990s but stays worth monitoring.

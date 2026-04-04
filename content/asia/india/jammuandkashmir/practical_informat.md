@@ -1,41 +1,26 @@
 ---
 title: "Practical Information"
 type: section
-accessibility: "24 hours"
-address: "Lari Pora Pahalgam Kashmir"
-email: "mountmagic786@yahoo.co.in"
-phone: "09418007867"
-type: "Tourist information"
-url: "mountainmagictours.com"
 ---
 
-I have visited Srinagar a few times and my recommendations are
-Grand Palace if you want to spend avg Rs 10,000 a day per Room
-Grand Mumtaz if you want to spend avg 7000 a day per Room
-Green Acre if you want to spend less then 3500 a day.
-Personally, I prefer Green Acre, situated in the most posh location of the valley; website address: www.wazirhotels.com . In my opinion, the best budget hotel for families. Have a small restaurant for in-house guest only. The hospitality in this hotel was awesome and so is the food. The staff is extremely cooperative which made my stay very comfortable. Not to mention just 1-2 km from lake and the main market. Very Centrally Located.
+**Visas**
 
-**Contributors**
-February 19, 2007
+Most foreign nationals require an Indian visa to visit Jammu and Kashmir, obtained before arrival. The e-Tourist Visa is available online and covers most nationalities for stays up to 90 days. Some areas near the borders with Pakistan and China require additional Inner Line Permits, which are issued locally with minimal paperwork.
 
-### [Mountain Magic Trek,n,Tours Pahalgam Kashmir](/asia/india/jammuandkashmir/practical_informat/mountain_magic_tre)
+**Money**
 
-Mountain Magic Trek n Tours is a professional travel and tour operator based in Dharamsala, Himachal Pradesh and Kashmir. We offer unmatched, memorable holidays at comfortable price. Whether you want to enjoy the peaceful atmosphere of Himachal with high mountains, cool air, bending rivers or want to stay the luxurious house boats of Dal lake in Kashmir, we provide every kind of travel facility.
+The Indian rupee (INR) is the currency. ATMs are available in Srinagar, Jammu, and Leh, but can be unreliable in smaller towns and essentially nonexistent in remote Ladakhi valleys. Carry enough cash when heading into the mountains. Card payments are accepted at upscale hotels but not at most guesthouses, houseboats, or markets. Keep smaller notes for local transport and markets.
 
-We have a track record and experience in the travel industry for about 20 years and many satisfied clients from all over the world. We specialize in General holiday, Jeep [more..](/asia/india/jammuandkashmir/practical_informat/mountain_magic_tre)
+**Language**
 
-type: Tourist information
+Kashmiri and Dogri are the main local languages; Urdu is the official language and widely understood. In Ladakh, Ladakhi and Hindi are spoken. English is widely understood in tourist areas, hotels, and guesthouses. In rural areas you may need some Hindi.
 
+**Safety**
 
+The security situation in the Kashmir Valley has improved significantly since the 1990s and early 2000s. Tourist areas of Srinagar, Gulmarg, and Pahalgam see large numbers of visitors each summer. That said, the region is politically sensitive — check current travel advisories before visiting, as the situation can change. Avoid political gatherings, follow local guidance during curfews, and keep your guesthouse owner informed of your movements in remote areas.
 
-[[rate it]](/asia/india/jammuandkashmir/practical_informat/mountain_magic_tre)
+Ladakh is generally very peaceful and considered safe to travel independently. Altitude sickness is the main health risk here — ascend slowly and rest properly.
 
-accessibility: 24 hours
+**Communications**
 
-tel: 09418007867
-
-url: [mountainmagictours.com](http://mountainmagictours.com)
-
-address: Lari Pora Pahalgam Kashmir
-
-email:
+Mobile coverage is limited outside main towns, and data connectivity in Ladakh is unreliable. Some foreign SIM cards may not work in J&K due to security restrictions — check with your carrier in advance.

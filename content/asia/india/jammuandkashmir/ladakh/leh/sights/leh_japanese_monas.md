@@ -1,13 +1,10 @@
 ---
-title: "Leh Japanese Monastery"
+title: "Shanti Stupa"
 type: poi
-type: "Monasteries"
+latitude: 34.166111
+longitude: 77.572778
 ---
 
-The Japanese Monastry perches on a mountain to the west of Leh. Built in the 20th Century its style is in contrast to other monasteries that you'll see in the area. That said it has a pleasing symmetery and the 25 square meter platform that hangs over the valley side makes an incredible viewing area, especially in the morning.
+The Shanti Stupa (also called the Leh Japanese Monastery after the Buddhist order that funded its construction in the 1980s) perches on a ridge about 1 km west of Leh, above the village of Changspa. The white stupa is decorated with colourful reliefs depicting scenes from the Buddha's life and enshrines relics.
 
-Sometimes you can find monks giving classes to school children on the viewing platform, framed by the 6000m+ mountains to the south.
-
-A breathtaking view and as is the case with most things in Leh, the walk to the monastery shouldn't be attempted until you've acclimatised to the altitude.
-
-type: Monasteries
+The platform at the top offers extraordinary views over Leh and the Indus Valley, particularly at sunrise and sunset. The walk up takes about 20 minutes from Changspa — do not attempt it without acclimatising first.

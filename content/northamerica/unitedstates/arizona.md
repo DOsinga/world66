@@ -1,33 +1,16 @@
 ---
 title: "Arizona"
 type: location
-latitude: 34.395342
-longitude: -111.763275
+latitude: 34.0489
+longitude: -111.0937
 ---
 
-Arizona is located in the South West of the United States. It is a
-landlocked state and for a large part covered by desert. These deserts
-are one of the main attractions.
+Arizona is a state of extremes. The northern plateau country is high, cold in winter, and split open by the Grand Canyon — one of the genuinely awe-inspiring places on earth. The southern lowlands are Sonoran Desert: hot, saguaro-studded, and beautiful in a way that takes some time to see. Between them runs a corridor of mountain ranges, old mining towns, and red-rock landscapes that most visitors never reach.
 
-[Phoenix](/northamerica/unitedstates/arizona/phoenix) the
-capital is an easy going city and a good base for exploring the rest of
-the state. Arizona is still asociated very much with the spirit of the
-wild west. For anyone interest in the the 1880s, when gunfighters
-stalked throughout southern Arizona, a visit to [Tombstone](/northamerica/unitedstates/arizona/tombstone) is a must. The
+Phoenix is the capital and the logical base for exploring the state's centre and south. It sprawls across the Valley of the Sun with the urgency of a city that grew too fast, but it has good food, excellent museums, and easy access to Sedona's red rocks to the north and Tucson's Sonoran culture to the south. Sedona itself has been discovered to within an inch of its life, but the landscape around it — Cathedral Rock, Oak Creek Canyon — remains extraordinary.
 
-[Grand Canyon](/northamerica/unitedstates/arizona/grandcanyon) national park is located in the North of Arizona, it is without a doubt the most visited attraction of the state.
+The real draw for most people is the Grand Canyon's South Rim, accessible year-round and deservedly crowded in summer. Less visited but equally worthwhile are the dozens of national monuments scattered across the state: Canyon de Chelly in the northeast, where Navajo families still farm the canyon floor; the cliff dwellings at Navajo National Monument; and the alien landscape of the Petrified Forest, where 225-million-year-old logs have crystallised into coloured stone.
 
-A must see for all visitors to the Southwest; which was rated
-the "Most Beautiful Place in America", is none-other than the enchanted land of [Sedona](/northamerica/unitedstates/arizona/sedona).
+Tucson is Arizona's most characterful city — smaller than Phoenix, with a strong Mexican cultural influence, a serious food scene built around Sonoran cuisine, and the University of Arizona giving it a livelier edge. The borderlands south of Tucson, running toward Tombstone and the Chiricahua Mountains, are some of the most historically layered and visually dramatic country in the Southwest.
 
-[Navajo National Monument](/northamerica/unitedstates/arizona/navajonationalmonument)
-offers a unique insight in the precolumbian cultures of this region.
-The houses the cliffdwellers made here are truly impressive.
-
-[Sierra Vista](/northamerica/unitedstates/arizona/sierravista)
-is a cracked out little town south of Tucson by about 70 miles. It's
-full of weirdos and bizzaro people. A newcome luminary is "BibleMan",
-aka "Bible-Biker". He's an elderly bum who rides a bicycle covered in
-buckets scrawled with jesus things. He is frequently spotted infront of
-the Jack In The Box restaurant on Fry Blvd, barking at passing traffic
-and carrying a child-sized acoustic guitar.
+The best time to visit depends on where you're going. The desert south is ideal October through April; summers are brutal. The Grand Canyon and Flagstaff plateau are pleasant in summer and spectacular in winter when snow falls on the canyon rim. Whatever you plan, give yourself more time than you think you need — Arizona punishes rushing.

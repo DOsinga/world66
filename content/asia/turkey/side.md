@@ -1,16 +1,12 @@
 ---
 title: "Side"
 type: location
-latitude: 36.766444
-longitude: 31.38922
+latitude: 36.7664
+longitude: 31.3892
 ---
 
-**Side** (pronounced 'see day')
+Side (pronounced "see-day") is a small beach and archaeology town on Turkey's Mediterranean coast, about 75km east of Antalya. It occupies a narrow peninsula barely 300 metres wide, with the sea visible from almost any point in the old town. That old town itself is extraordinary: the ruins of a Roman city were simply built over as the centuries passed, and today the narrow lanes are lined with two-storey stone houses growing directly out of ancient walls.
 
-is situated on the Mediterranean coast approximately 75 kilometers from one of Turkey's largest cities' Antalya. This unique seaside resort lies on a small, flat peninsula which is 300 meters wide and 800 meters long and is just packed to the brim with archaeological wonders and surrounded on both sides by the deep, blue water of the Med. At certain points along the main street that runs through the centre and down to the quaint fishing harbour, you can look between the buildings and streets and see the sea on either sides.
+The two main attractions are the **Roman Theatre** — one of the best-preserved in Turkey, seating 15,000, with a full outer wall still standing — and the **Temple of Apollo**, whose five remaining columns stand on a headland above the sea at sunset in a way that stops people in their tracks. Between them is the Roman agora and an archaeological museum housed in the old Roman baths.
 
-Side was once an important commercial town. With its large merchant fleet it traded with the countries of the eastern and western Mediterranean and served as a port for many parts of inner Turkey. Side was a slave market from which African slaves were sold and also a center for piracy. After this period, Side turned to legitimate commerce and still prospered.
-
-Whilst Side has become extremely popular with European and Turkish holidaymakers alike, it has managed to retain its ‘quaintness’ and authenticity. Due to its abundance of archaeological treasures, all the architecture in the old part of Side is of a certain style – pretty, two – storey stone buildings with varnished, wooden balconies all along the labyrinth of narrow, winding alleyways.
-
-Side has just everything you could want. For the culture – vulture there is obviously a treasure chest of ancient history all around which includes: The Amphitheatre dating
+Side is simultaneously an authentic ancient site and a busy resort. The beaches on either side of the peninsula are good, and the town fills up with German and Turkish tourists in summer. Out of season it is quieter and considerably more pleasant.

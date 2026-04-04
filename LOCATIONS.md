@@ -54,23 +54,6 @@ Specific restaurants, trattorias, street food stalls. Each POI in `eating_out/`.
 
 Bars, cafes, gelaterias, and nightlife. Do not use a separate `nightlife` section — nightlife POIs go here.
 
-### Curated Itineraries (`day_guides.md`)
-
-Blog-sourced itineraries that link out to real travel posts. Each itinerary is a POI in `day_guides/` with a `url:` to the original post and a `tags:` list. The tag connects the guide entry to the places it mentions — every POI the itinerary covers carries the same tag.
-
-```yaml
----
-title: "One Day in Rome — Walks of Italy"
-type: poi
-url: "www.walksofitaly.com/blog/rome/one-day-in-rome"
-tags: ["One Day in Rome"]
----
-
-A well-paced single-day itinerary covering the Colosseum in the morning, the centro storico at lunch, and the Vatican in the afternoon.
-```
-
-Tag naming: `"One Day in {City}"`, `"48 Hours in {City}"`, `"3 Days in {City}"` — match the itinerary's framing. The tag becomes the URL at `/tags/{tag}`. A POI can carry multiple tags.
-
 ### Shopping (`shopping.md`)
 
 Only if there is real content — markets, shopping districts, notable shops.
@@ -160,6 +143,6 @@ Do not publish a POI without coordinates. If you cannot determine them, leave th
 |------|------|-------|
 | Milan | `europe/italy/lombardia/milan` | Original `things_to_do` implementation |
 | Rome | `europe/italy/lazio/rome` | Category filters, story fields, neighbourhood POIs |
-| Florence | `europe/italy/tuscany/florence` | Category filters, curated itineraries |
-| Venice | `europe/italy/veneto/venice` | Category filters, curated itineraries |
-| Naples | `europe/italy/campania/naples` | Category filters, curated itineraries |
+| Florence | `europe/italy/tuscany/florence` | Category filters |
+| Venice | `europe/italy/veneto/venice` | Category filters |
+| Naples | `europe/italy/campania/naples` | Category filters |

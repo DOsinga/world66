@@ -3,8 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-One day tours of amsterdam environs
-
-### Blijburg
-
-In the north east of Amsterdam there is a beach called Blijburg-beach. This tiny beach is still in development, but verry relaxing on a hot summer day. There is a place where you can get some food and refreshments. Because of the development in the area its's not sure if the beach wil still be there in the summer of 2006
+Amsterdam is not a beach city, but it has a few decent options within city limits. Blijburg aan Zee on the artificial island of IJburg in the east is the main urban beach — sandy, with a popular bar and food stalls, busy on hot summer weekends. The Amsterdamse Bos in the south has a swimming pond (Bosbaan) that draws locals in summer.

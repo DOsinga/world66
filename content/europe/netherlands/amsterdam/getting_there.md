@@ -3,10 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Amsterdam is easily accessable by rail, bus, boat, car and air depending on which country you are travelling from. Travel is relatively cheap and frequent.
-
-For train travel, visit the website of the Dutch Railways: www.ns.nl
-
-Cheap flights are available to and from Amsterdam. In the UK, I recommend Cheap Flights Online, especially for some good lastminute deals.
-
-If you want to travel by bus which is very cheap, check out Eurolines
+Schiphol is one of Europe's main hubs with direct flights from almost everywhere. From the airport, trains to Central Station run every 10–15 minutes and take about 20 minutes. By train from the rest of Europe, Amsterdam is directly connected to Paris (Thalys, 3.5hrs), Brussels (2hrs), London (Eurostar via Brussels, 4hrs) and most German cities. Eurolines and Flixbus serve Amsterdam by coach from across Europe for the budget-conscious.

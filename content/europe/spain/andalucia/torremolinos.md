@@ -5,8 +5,6 @@ latitude: 36.624284
 longitude: -4.499545
 ---
 
-Torremolinos is a seaside resort not too far from [Malaga](/europe/spain/andalucia/malaga). It offers most amenities you expect on the Spanish coast: there are hotels with swimming pools, with bars and restaurants. Although you may find it hard to believe that just forty years ago Torremolinos was little more than a sleepy village, the old La Carihuela fishermans quarter still exists. The streets of the quarter have been pedestrianised making a pleasant walk. Many of the original cottages still exist and not all have been turned into bars or shops. Some have stood still in time. It's best to wander around the area early one morning before the tourists wake up and see a different world.
+Torremolinos is a no-apologies beach resort on the Costa del Sol, 14 km west of Málaga. It was essentially invented by mass tourism in the 1950s and 60s — the hotels and development came early and came fast. That history is part of what makes it interesting: La Carihuela, the old fishermen's quarter at the western end of town, survived relatively intact and still has whitewashed cottages, local seafood restaurants, and a pace that predates the package holiday.
 
-
- 
- In general, however, the wave of tourists who descended on the town in the fifties and sixties changed the face of Torremolinos for ever, which doesn't mean you can't enjoy yourself here. The Aquapark near the Palacio de Congresos has Europe’s largest water-slide and is a great attraction for children - and grown-ups who are still young at heart.
+The town's 9 km of beach are broad and sandy, backed by a promenade with chiringuito bars. Benalmádena is walkable along the coast. The gay-friendly Nogalera neighbourhood gives Torremolinos a different character from most Costa del Sol resorts.

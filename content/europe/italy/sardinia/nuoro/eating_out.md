@@ -3,20 +3,12 @@ title: "Eating Out"
 type: section
 ---
 
-"/>
-
-
-
-**all**
+Nuoro is in the Barbagia region, and the food here is inland Sardinian rather than coastal — roast meats, porceddu (suckling pig), handmade pasta, and local cheeses rather than fish and seafood. Look for restaurants serving cucina barbaricina, the traditional mountain cuisine.
 
 **Ciusa**
 
-Great pizzeria.
-
-address: 53, Via Ciusa
+53, Via Ciusa. A good pizzeria, popular with locals. Reliable and affordable.
 
 **Sa Bertula**
 
-Near the station this is a good option for a pasta meal.
-
-address: 119, Via Sicilia
+119, Via Sicilia, near the station. A good option for pasta and simple Sardinian dishes. Unpretentious and reasonably priced.

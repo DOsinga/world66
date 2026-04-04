@@ -1,57 +1,22 @@
 ---
-title: "Nightlife and Entertainment in Porto Cervo"
+title: "Nightlife and Entertainment"
 type: section
 ---
 
-**Porto Cervo nightlife** is exuberant and probably one of the
-best in the world. In fact, this is one of the places that most
-celebrities come to when they want to party into the wee hours of the
-morning. Following are some popular clubs and bars which you can visit
-if you are looking for an exciting nightlife and entertainment in the
-city.
+Porto Cervo's nightlife is expensive, exclusive, and in full swing only in July and August. Outside those months, most venues close.
 
-**The Billionaire Club
+**Billionaire Club**
 
-**This is definitely the
-most popular nightclub in Porto Cervo, mainly because world famous
-celebrities party there. This is the best place to be if you want to rub
-shoulders with some of the world’s rich and famous. But you should be
-warned that it’s very difficult to get into this club, especially if you
-are a man. Single women often find a way into the club. Those who plan
-to get in should remember that the dress code is smart and chic.
+The most famous club on the Costa Smeralda, associated with a clientele of footballers, celebrities, and the very rich. Getting in requires the right connections or the right look; it is notoriously selective. Dress code is strict. Prices are extreme by any standard.
 
-**Leeward
-Disco
+**Phi Beach**
 
-**If you can’t get into the Billionaire Club, this is
-definitely an alternative, especially for those who want to dance the
-night away. This nightclub is unique, dynamic and exciting. This club
-has different rooms that are designed interestingly with marble and
-wood. The club offers good music, refreshing drinks and tasty food,
-making it one of the best nightclubs in the area. A number of famous
-names have visited this club as well. While it may not be all that tough
-to get into this club, it is certainly expensive. Visitors should keep
-in mind that this club is only open during high season from May to
-September.
+An open-air beach club at Baia Sardinia, about 8 km from Porto Cervo. Transitions from daytime beach to evening club. Better music than the Billionaire Club and slightly less forbidding at the door.
 
-**Lord Nelson Pub
+**Lord Nelson Pub**
 
-**For those who prefer
-quiet evenings, visiting the Lord Nelson Pub is a good idea. Located at
-Porto Cervo’s marina, this is a completely English pub and looks like
-something out of the early 1980s. The place is usually empty until
-around 11 p.m. but fills up soon after that. Drinks here are fairly
-cheap compared to most clubs and restaurants in the area. The Lord
-Nelson Pub is especially great during the off-season, when most of the
-other clubs and pubs in Porto Cervo are closed.
-**
-Café Prince****
+At the marina, one of the more accessible options — a British-style pub that draws a mixed crowd including local sailing crews. Stays open into the off-season when most other venues have closed.
 
-**Tourists
-who are looking for a subtle way of spending an evening should visit
-Café Prince which is situated on the Piazza de la Principle. Visitors
-can choose to either sit in the open, out on the square ,or in the
-stylish interiors adorned with modern art. You can sit back and enjoy a
-few drinks, but if you want something non-alcoholic, try the original
-fresh lemonade. Also, try the Bellini here as it is some of the best
-you’ll ever taste.
+**Café Prince**
+
+On the Piazza de la Principe, a relaxed café-bar with outdoor seating on the square. Good for an aperitivo or a post-dinner drink without the full nightclub experience.

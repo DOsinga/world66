@@ -3,8 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Eating out near the harbour
+Olbia has good restaurants for a town of its size. The Corso Umberto and the streets around it have the most options. Fish and seafood dominate menus, with the catch from the Gulf of Olbia genuinely fresh. Look for *zuppa gallurese* (a baked bread-and-cheese dish, rich and filling) as a local speciality.
 
-We currently have no Eating Out listed in Olbia.
-
-If you do know any Eating Out in Olbia, please [Add].
+The port area has several casual spots good for a quick meal before or after a ferry crossing.

@@ -1,18 +1,18 @@
 ---
-title: "Bars and Cafes in Cagliari"
+title: "Bars and Cafes"
 type: section
 ---
 
-There are a lot of fun **Cagliari bars and cafes** to see while you are in the city. You can find a number of places to stop and sit outside along the streets, enjoy a coffee or find a light meal.
+Cagliari has a genuine café culture, centred on the long arcaded stretch of Via Roma along the port and spreading into the Marina and Stampace quarters. Aperitivo hour (roughly 6–9pm) is taken seriously here, with bars putting out free snacks with drinks.
 
-#### Ristorante Jannas
+**Caffè Svizzero**
 
-The Ristorante Jannas is a great place to sit inside and relax with a glass of wine or a coffee. There are light meals served with a traditional Italian style, and you can enjoy the expanded selection of different wines available.
+One of the oldest cafés in the city, on Largo Carlo Felice. The hot chocolate and pastries are the things to order. A good place for breakfast or a mid-morning coffee; the interior retains its old-fashioned character.
 
-#### Caffe Svizzero
+**Caffe Lisboa**
 
-The Caffe Svizzero is one of the old coffeehouses in the city. You can enjoy the many coffee drinks they serve, and light meals are also available. One of the local favorites is the hot chocolate with cream which can be paired with any of the menu items. If you want to see old Italian buildings with a great choice of coffees, this is one of the Cagliari bars and cafes you might like.
+A popular spot in the Marina quarter for aperitivo and evening drinks. Good selection of wines and cocktails. Lively atmosphere on Friday and Saturday evenings.
 
-#### Caf&eacute; Lisboa
+**Ristorante Jannas**
 
-The Caf&eacute; Lisboa is a great place to stop for a a drink or a small meal. There are modern cuisine items available and a great selection of wines and cocktails. You can relax in the dining area or at the bar. They serve a variety of starters and small meals full of Italian spices and local favorites. You can select one of the many wines available or enjoy one of the coffee drinks.
+A relaxed wine bar and restaurant in Castello. The wine list is strong on Sardinian labels — Cannonau, Vermentino, Carignano del Sulcis. Snacks and light meals available.

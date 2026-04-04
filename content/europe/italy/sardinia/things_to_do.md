@@ -1,18 +1,22 @@
 ---
-title: "Things to do in Sardinia"
+title: "Things to Do"
 type: section
 ---
 
-Sardinia is blessed with natural beauty. Travelers to the Italian region can't help but to spend their stay outdoors, and Sardinia is not short of exciting activities to entice visitors.
+Sardinia rewards those who go beyond the beach. The island's interior holds Bronze Age fortresses, cork-oak forests, and mountain plateaus where small wild horses roam. The coastline offers world-class diving among caves and wrecks. And the food and wine culture — built on pecorino, bottarga, pane carasau, and Cannonau — is reason enough to travel here.
 
-**Diving Adventures**
+**Archaeology**
 
-The waters surrounding Sardinia are perfect for diving. It's one of the best ways to see the true beauty of Sardinia's coastlines. There are a variety and abundance of marine life that can be viewed. Giant groupers are commonly seen. Caves are also a common siting on dives off Sardinia's coast. In some cases there are night dives, which are incredibly exhilarating. The wreck of a French merchant boat can additionally be explored, but the site is for more advanced divers. Most dive groups offer equipment in the price, which ranges from 40 to 250 Euros. Dive time and the number of dive sites that are visited depends on the package travelers choose. The majority of dive groups are seasoned in dealing with tourists and speak English. Novice and experienced divers are welcomed to see the Mediterranean marine life firsthand.
+The island is dotted with *nuraghi* — mysterious Bronze Age stone towers built by the Nuragic people between 1800 and 1300 BC. There are an estimated 7,000 on the island. The finest is [Su Nuraxi di Barumini](/europe/italy/sardinia/sunuraxi), a UNESCO World Heritage Site south of [Nuoro](/europe/italy/sardinia/nuoro). The Tharros ruins on the Sinis Peninsula, an old Phoenician and Roman port on the west coast, are another highlight — set on a headland above the sea with views that make the ruins feel almost secondary.
 
-**Giara di Gesturi**
+**Diving and water sports**
 
-Giara di Gesturi is a place in which time seems to stand still. The plateau is covered in cork oak trees which are surrounded by a thick grass covering. Wildflowers are sometimes found sporadically peeking out of the grass. Horses and goats roam freely on the untamed land. They seem to add the magical feeling that one receives when they visit Giara di Gesturi. Hiking is welcomed and an occasional horseback ride can be arranged through the locals. Travelers should most certainly bring their camera, because Giara di Gesturi is meant to be captured on film. Visitors will feel as if they were transported to a simpler, more pure time. Giara di Gesturi will only intensify your feelings about Sardinia. Try to wear comfort and reliable shoes if you'll be hiking because the ground can be uneven.
+The waters around Sardinia are among the clearest in the Mediterranean. The Capo Caccia promontory near [Alghero](/europe/italy/sardinia/alghero) is famous for the Grotta di Nettuno (Neptune's Grotto), a dramatic sea cave accessible by sea or down 654 steps. Wrecks off the southwest coast attract experienced divers. La Maddalena Archipelago National Park to the north offers snorkelling in marine-protected waters. Windsurfing is popular along the west coast, especially around Porto Pollo and the Gulf of Oristano.
 
-**Barumini**
+**Walking and hiking**
 
-Barumini is the home of an ancient village and one of the most important archaeological sites in the region. The complex at Barumini is the main focus of interest. The massive castle-like structure was constructed during the Bronze Age and officially uncovered in 1950. The structure is very well preserved considering the actual age of the building. Visitors can tour the breathtaking complex and view all the tiny details closely. If you are not familiar with Italian, it would be best to go out of your way to get a tour guide who speaks English. You'll surely be curious about sections of the complex, and understanding your tour guide is beneficial. Wear sunscreen because you will be outside a majority of the day without any covering.
+The Gennargentu massif in central Sardinia reaches 1,834 metres at Punta La Marmora. The area around Orgosolo and the Supramonte plateau above Dorgali offers serious walking with spectacular gorges, including the Gola Su Gorropu — sometimes called Europe's deepest canyon. The Giara di Gesturi, an ancient basalt plateau south of [Nuoro](/europe/italy/sardinia/nuoro), is an easier walk where you can spot the indigenous wild ponies known as *cavallini della Giara*.
+
+**Beaches**
+
+Sardinia's beaches genuinely deserve their reputation. The Costa Smeralda's turquoise water is stunning. But the more interesting beaches are elsewhere: the white dunes of Piscinas on the Costa Verde (backed by 19th-century mining ruins), La Pelosa near Stintino in the north, and the pink-sand beach of Budelli in the La Maddalena Archipelago. See the [beaches](/europe/italy/sardinia/beaches) section for more.

@@ -1,18 +1,20 @@
 ---
-title: "Eating Out in Cagliari"
+title: "Eating Out"
 type: section
 ---
 
-There are a lot of great choices of **Cagliari restaurants**. The city provides a variety of places to enjoy modern cuisine or Italian traditional dishes. You can find some great spots to stop and relax for a great dinner.
+Cagliari has a good restaurant scene anchored in Sardinian and broader Italian cooking. The Marina district (between the port and the Castello hill) has the highest concentration of restaurants. The Villanova and Stampace quarters have more local, less tourist-facing options.
 
-#### Antica Hostaria
+Look for bottarga (cured grey mullet roe, grated over pasta), fregola (a toasted semolina pasta, often served with clams), and *malloreddus* (small ridged gnocchi with sausage and saffron). Fresh tuna is excellent in season (spring and early summer). The covered Mercato di San Benedetto on Via Cocco Ortu is one of the biggest indoor markets in Italy — worth a visit even if you're not buying.
 
-The Antica Hostaria is a great place for fine cuisine in the city. It is more expensive than some of the other restaurants, but if you want to experience elegant dining and traditional Italian dishes, it is worth the price. Choose from the available and enjoy a light meal or a full meal that is prepared and served slowly for you to relax and enjoy.
+**Antica Hostaria**
 
-#### Sa Domu Sarda
+A refined option for traditional Sardinian cuisine in the Marina quarter. The menu changes with the season — expect excellent pasta and fish dishes. Book ahead in summer.
 
-The Sa Domu Sarda restaurant is a great place to stop if you are looking for a relaxing dinner and many choices. You can take your time and enjoy the selections of wine, the starters to enjoy before your meal and the Italian cuisine served for full course meals. If you want to experience the city, this is one of the Cagliari restaurants you should try.
+**Sa Domu Sarda**
 
-#### Trilogy
+A friendly trattoria serving hearty Sardinian food — roast meats, hearty pasta, local cheeses. Good wine list with a focus on Sardinian labels. Relaxed atmosphere.
 
-The Trilogy restaurant offers you a variety of seafood, fish, pasta and meat dishes. If you would like to start out with a fish platter before your meal, you can enjoy it with one of the many types of wine served at the restaurant. You can also follow it with a pasta dish or other Italian cuisine choice.
+**Trilogy**
+
+Reliable for seafood, fish, and pasta. Good for a fish starter followed by a pasta course. On the busier side in summer.

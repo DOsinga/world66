@@ -3,12 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-**all**
+**By air**
 
-**By Air**
+Cagliari Elmas Airport (CAG) is about 7 km from the city centre. It receives direct flights from most major Italian cities and from many European destinations, especially in summer. The airport bus (ARST) runs to the city's main train station (Piazza Matteotti) in about 15 minutes.
 
-Daily flights from most big Italian cities arrive at Cagliari airport, some 15 minutes out of twon on the Lagoon called the Stagno di Cagliari. ** michele:** a
+**By ferry**
 
-**Ferry**
+The port lies right in the city centre on Via Roma. Overnight ferries run to Civitavecchia (near Rome), Genoa, Livorno, Naples, and Palermo. There are also less frequent sailings to Tunis. If you're taking a car in summer, book well in advance — space sells out. Tirrenia and Grimaldi Lines are the main operators.
 
-The port lies right in the city centre. Overnight ferrys take you to [Civitavecchia](/europe/italy/lazio/civitavecchia), [Genoa](/europe/italy/liguria/genoa), Livorno, [Naples](/europe/italy/campania/naples) and [Sicily](/europe/italy/sicily). There are also less frequent lines to [Tunis](/africa/tunisia/tunis) in Tunisia. If you are taking a car in the summer month, it is essential to book in advance.  [more..](/europe/italy/sardinia/cagliari/gettingthere/ferry)
+**By train**
+
+Cagliari is the main hub of the Sardinian rail network. Trains connect north to [Oristano](/europe/italy/sardinia/oristano), [Sassari](/europe/italy/sardinia/sassari), and [Olbia](/europe/italy/sardinia/olbia), though journey times are long. The main station is at Piazza Matteotti.

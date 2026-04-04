@@ -3,8 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-As long as you stay in the city you do not need anything but to good legs, but if you want to go to one of the beaches of the island you will need a car.
+Carloforte town is small and easily covered on foot. The town centre, harbour, and main piazza are all within a few minutes' walk of each other.
 
-We currently have no Getting Around listed in Carloforte.
-
-If you do know any Getting Around in Carloforte, please [Add].
+To reach the island's beaches — particularly the good ones on the west coast such as La Bobba and Girin — you'll need a car, scooter, or bicycle. All three can be hired in Carloforte. The island roads are narrow and winding; a scooter or bicycle suits the terrain better than a car for most purposes.

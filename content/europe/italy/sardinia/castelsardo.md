@@ -5,29 +5,10 @@ latitude: 40.910466
 longitude: 8.718313
 ---
 
-Travel Guide
+Castelsardo is a small medieval town on a dramatic headland in the northwest of Sardinia, about 30 km northeast of [Sassari](/europe/italy/sardinia/sassari). The old town climbs steeply up to a castle built by the Doria family in the 12th century, and the walk around the castle walls to the Cathedral of Sant'Antonio Abate is one of the best short urban walks on the island — views across the Gulf of Asinara are exceptional.
 
-Castelsardo a small medieval town situated in the
-North West of Sardinia.
+The town is famous for basket weaving. Walking through the narrow lanes of the old town, you'll often find local women sitting on their doorsteps, working on the distinctive woven baskets and bags made from dwarf palm and asphodel. The castle houses a small museum dedicated to this craft.
 
-The historic centre is a bit of a climb but well worth it.
-Take the scenic walk around the castle walls leading up to the cathedral. From
-here you can enjoy some wonderful views across the bay of Asinara. The castle
-was built by the Doria family in the 12 th century, close by you can
-see the 16 th century church of Santa Maria and the bell tower of the
-Cathedral of Sant’Antonio Abate. The
-town itself is well known for basket weaving quite often when you are wondering
-around the little lanes you will find the locals sitting on their doorsteps
-producing their craft. If you want to get a further insight into basket weaving
-you can visit the museum which is located within the castle.
+Below the old centre, the newer town has good restaurants and a small beach. More extensive beaches are at Lu Bagnu, just a couple of minutes by car.
 
-The town has ample restaurants, cafes/bars, hotels and
-supermarkets both in the historic centre and the newer areas. It has its own small beach but there are
-more extensive beaches in Lu Bagnu around 2 minutes by car.
-
-During the summer months the town has many processions and
-concerts. However, the most famous is the Lunissanti which takes place during
-Easter weekend which involves
-processions and finishing with an evening torchlight parade. The town is also
-enchanting during Christmas and New Year with concerts, parades in medieval
-costume ending in a wonderful firework display on New Years Eve.
+The most famous event is the Lunissanti, a procession held during Holy Week that ends with a torchlight parade through the old town on Easter Monday evening — genuinely atmospheric and worth timing a visit around.

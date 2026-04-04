@@ -1,58 +1,22 @@
 ---
-title: "Things to do in Porto Cervo"
+title: "Things to Do"
 type: section
 ---
 
-There are a number of **Porto Cervo things to do **for tourists.
-The marina is probably the most active part of this Italian port town,
-and you will always find boats going out or coming into the harbor. This
-tourist destination is mostly popular for its beautiful beaches. But,
-there are a few other things that you can do in addition to visiting the
-beaches. Following is a list of Porto Cervo things to do for tourists
-visiting this popular port town.
+Porto Cervo is designed for leisure. The focus is on beaches, yachting, and the social scene, not cultural sightseeing. That said, there are a few things worth noting.
 
-**Visit Church
-Stella Maris**
+**The marina**
 
-Overlooking the Old Port of Porto Cervo is the
-Catholic Church of Stella Maris. It was designed by Michele Busiri Vici
-and built in the 1960s. The church is a masterpiece of contemporary
-architecture. Above the church’s entrance is a barreled organ that was
-recently restored. This idea was planned by Tommaso Demartino, a great
-architect. On the inside of the church, visitors can view unusual
-donations and artworks. Visitors will also get a strong scent of wood
-from the local juniper trees that have been used to make the furniture.
+The Sotto Vento marina is one of the largest and most well-equipped in the Mediterranean, with over 700 berths. Even if you don't have a yacht, walking the pontoons in the evening to see the boats is part of the Porto Cervo experience. The Piazzetta above the marina is where people gather for the passeggiata and an evening drink.
 
-**Tee
-Off at Pervo Golf Club
+**Stella Maris church**
 
-**This is one of the best attractions
-in Porto Cervo, especially for golf lovers. Those who want to enjoy a
-relaxing round of gold should visit the Pervo Golf Club, which is
-located at Cala di Volpe. Set between the Cala di Volpe Bay and Gulf of
-Pervo, this is an 18 hole course that was designed by Robert Trent Jones
-Sr. The course’s vibrant and natural green color appears to blend with
-the emerald green colored sea, creating a stunning appearance. This is
-one of the most beautiful and challenging golf courses, making it a
-memorable experience for visitors.
+A small contemporary church above the Old Port, designed by Michele Busiri Vici. Inside, there's a painting attributed to El Greco (a *Mater Dolorosa*) donated by the Aga Khan. It's an unusual find in this context. Open to visitors.
 
-**Take a Trip to Santa Teresa
-di Gallura
-****
-**If you are looking to get away from the crowds of
-the city center, head for Santa Teresa di Gallura. This is a quiet town
-that is perfect for tourist families who want to relax. There are some
-beautiful beaches like Marmorata and Capo Testa that tourists can visit
-in this small region. Santa Teresa di Gallura also boasts of many small
-restaurants and cafes that serve local and continental cuisines. Local
-people are friendly and the weather is best during May and September.
+**Golf**
 
-**See
-Capo Ferro
-****
-**This is one of the most eminent sights in Porto
-Cervo that tourists shouldn’t miss. Capo Ferro is a lofty piece of rocky
-land that juts out from the sea. The outcrop measures about 46 meters
-in height, making it possible to see even from the town. There is a
-lighthouse that is mounted atop this section of land, which serves as a
-primary indication of the town to those coming by sea.
+The Pevero Golf Club, 4 km from Porto Cervo at Cala di Volpe, is an 18-hole course designed by Robert Trent Jones Sr., set between two bays with views over the sea. One of the most scenic courses in Italy.
+
+**Sailing events**
+
+The Maxi Yacht Rolex Cup (September) is the headline event, but there are regattas throughout the summer season from the [Costa Smeralda Yacht Club](http://www.yccs.it).

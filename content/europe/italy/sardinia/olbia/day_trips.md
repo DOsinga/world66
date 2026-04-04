@@ -1,64 +1,26 @@
 ---
-title: "Day Trips in Olbia"
+title: "Day Trips"
 type: section
 ---
 
-Olbia is one of the towns associated with the
-tourist area of Costa Smeralda, and there are many sights within Olbia to keep a
-traveler occupied as well as several possibilities for interesting
-day trips for travelers wishing to spread a wider net over the surrounding
-area.
+Olbia sits at the northeast corner of Sardinia with easy access to some of the island's best destinations.
 
-**Tavolara **
+**Tavolara**
 
-Only 10 kilometers from Olbia, Tavolara is a scenic sea spot for travelers
-desiring a day of outdoor activities.
+A 566-metre limestone monolith rising from the sea 15 km east, accessible by boat from Porto San Paolo. The marine reserve around the base has exceptional diving and snorkelling. Boat trips run in summer from the nearby coast.
 
-The clear waters are particularly popular for scuba diving due to notable
-underwater coral and a variety of fish. There are also many hiking possibilities
-among interesting flora and fauna.
+**Arzachena and the prehistoric monuments**
 
-Tavolara is also the location of the Italian film festival and a vintage car
-rally.
+25 km north. The area around Arzachena has a dense concentration of Nuragic and Neolithic sites: the Li Muri necropolis, the Giants' Graves of Li Loghi and Coddu Vecchiu, and the Nuraghe Albucciu. A half-day by car covers most of them.
 
-**Arzachena**
+**La Maddalena Archipelago**
 
-Like Olbia, Arzachena is also very near the popular Costa Smeralda tourist
-area, but Arzachena also offers attractions of its own.
+Ferries from Palau (40 km north) cross to the [La Maddalena](/europe/italy/sardinia/lamaddelena) island in 15 minutes. The archipelago national park has some of the best beaches in Sardinia and the Garibaldi house-museum on Caprera.
 
-It is only 25 kilometers from Olbia, and it contains many intriguing
-historical points of interest, including the Grave of Gigante and the Neolothic
-necropolis of Li Muriand.
+**Costa Smeralda**
 
-Also, between the months of April and October, polo matches can
-regularly be seen at nearby Gershan.
-
-**Porto**** Cervo**
-
-Another nearby village, Porto Cervo, was designed by the
-respected architect Luigi Vietti, and the marina is characterized by a variety
-of shops and an impressively active shipyard.
-
-Porto Cervo is near the exclusive Yacht Club Costa Smerald. The Sardinia Cup
-sailing regatta is held annually each September, and galas are regularly held
-for boating enthusiasts.
+30 minutes south by car. [Porto Cervo](/europe/italy/sardinia/costasmeralda/portocervo) and the surrounding coast are worth a drive even if the designer boutiques aren't your thing — the scenery is genuinely extraordinary.
 
 **Nuoro**
 
-Accessible by rail or road, the ancient town of Nuoro is famous for being
-picturesquely located on the slopes of Mount Ortobene.
-
-It is also possible to explore Mount Ortebene. At the top of the mountain is the
-bronze statue of Christ the Redeemer by Vincenzo Jerace, and at the foot of the
-mountain is the archeological area that includes the Domus de Janas tombs.
-
-**Ajaccio******
-
-A commune of France, Ajaccio is the capital of the region of Corsica. It is a
-long, but pleasant day trip from Olbia. The ferry ride between the 2 locations
-takes about 3 1/2 hours, but it can be a beautiful and relaxing
-journey.
-
-Ajaccio itself is noted for its cathedral and the Genoese towers, but its
-most notable historical sight is the house in which Napoleon Bonaparte was born
-in 1769.
+90 minutes south on the SS131. [Nuoro](/europe/italy/sardinia/nuoro) is the gateway to the wild Barbagia interior — the Ethnographic Museum is one of the best on the island.

@@ -1,67 +1,32 @@
 ---
-title: "Practical Information in Sardinia"
+title: "Practical Information"
 type: section
-address: "Coastal road Cagliari Villasimius km. 19,4"
-email: "roger.dr@tiscali.it"
-phone: "070 786082"
-type: "Tourist information"
 ---
 
-Visa and Passport
+**Visas and entry**
 
-Most travelers do not need a visa but unless you come from another european state you would need a
-passport .
+Sardinia is part of Italy and therefore the European Union. EU citizens need only a national ID card. Visitors from the US, Canada, Australia, and most other countries can enter without a visa for stays of up to 90 days under the Schengen agreement.
 
-Getting There
+**Money**
 
-Flying is the easier way to enter Sardinia. Most tourists come in through Elmas airport
+The currency is the Euro. ATMs are widely available in all towns and at airports. Credit cards are accepted at most hotels and restaurants, though smaller bars and rural agriturismi often prefer cash. Tipping is not expected but is appreciated — rounding up the bill or leaving a euro or two is the norm.
 
-in Cagliari, but some international charter companies also use Alghero or Olbia airports.
+**Language**
 
-You might also want to give a look to boat transportation althought it takes from 12 to 24 hours from the mainland to the island.
-Getting Around
+Italian is the official language. In [Alghero](/europe/italy/sardinia/alghero), Catalan is still spoken by some locals and is co-official. In the mountainous interior around [Nuoro](/europe/italy/sardinia/nuoro), you'll encounter Sardinian (Sardo), which sounds more like Latin than modern Italian. English is spoken at most tourist-facing businesses in coastal resorts; less so in smaller inland towns.
 
-Public transportation is not very efficient but cheap and easy. If you plan to move around a lot consider renting a car.Hotels
+**Time zone**
 
-The quality of hotels in Sardinia ranges from excellent to bad. To help you avoid the bad ones, you might want to contact a local tour operator as Hosteras.it who provides a complete guide of available hotels, motels and bed-and-breakfasts all over Sardinia.
+Central European Time (CET), UTC+1 in winter and UTC+2 in summer (CEST, from late March to late October).
 
-Time ZoneSardinia time zone
-is +1 GMT, meaning 1 hours later than London. It does have summer
-time, so in the summer the time difference is reduced by one hour for
-those countries that do have summer time.Money
-Sardinia's currency
-is the Euro (EUR).
+**Safety**
 
-**Contributors**
-March 17, 2009
+Sardinia is one of Italy's safer regions. Petty theft can occur around busy ports and ferry terminals in summer — keep an eye on bags. Driving on mountain roads requires attention; single-track lanes and steep drops are common.
 
-### [Café Restaurant Van Gogh](/europe/italy/sardinia/practical_informat/caf_restaurant_v)
+**Health**
 
-Travelling in a new region, cuisine is a perfect way
-to capture the essence of the place
+No vaccinations are required. The Italian national health system covers EU visitors with a European Health Insurance Card (EHIC). Pharmacies (*farmacie*) are well stocked and pharmacists can advise on minor ailments. The main hospitals are in Cagliari, Sassari, and Olbia.
 
-RESTAURANT VAN GOGH
+**When to go**
 
-Traditional Sardinian food,
-freshly prepared and beautifully
-presented
-Afternoon light meals and salads,
-lunches and dinners
-Meat, fish, vegetarian and bio
-Prix fix lunch menus
-Location easy to reach on S.P. 17 at km.19,4
-Well signposted
-English, French, German etc. spoken
-Facilities for children,
-Good parking, lovely garden terrace
-Panoramic setting, sun kissed [more..](/europe/italy/sardinia/practical_informat/caf_restaurant_v)
-
-type: Tourist information
-
-
-
-tel: 070 786082
-
-address: Coastal road Cagliari Villasimius km. 19,4
-
-email: roger.dr@tiscali.it
+See the separate [when to go](/europe/italy/sardinia/when_to_go) section. In brief: May–June and September–October give the best combination of warm weather, open beaches, and manageable crowds.

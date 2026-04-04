@@ -3,8 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Alghero's Fertilia Airport (AHO) is 12 km north of town and receives direct flights from many European cities, including London (Ryanair), various German cities, and several Italian airports. A bus service (Volabus) connects the airport to the city centre; taxis are also available.
 
-From [Sassari](/europe/italy/sardinia/sassari) there are regular trains which stop at the station outside of town. A shuttle bus takes you to the centre.
+From [Sassari](/europe/italy/sardinia/sassari), regular trains take about 35 minutes and arrive at Alghero station, which is on the outskirts of town — a shuttle bus runs to the centre. Buses from Sassari also run more frequently and drop you at Via Catalogna near the old town, which is more convenient.
 
-Buses arrive near the city centre in Via Catalogna.
+From [Cagliari](/europe/italy/sardinia/cagliari), the drive north via the SS131 takes about two hours.

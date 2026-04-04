@@ -1,16 +1,7 @@
 ---
 title: "Da Pietro"
 type: poi
-address: "20, Via Macchin"
-type: "general"
+address: "20, Via Macchin, Alghero"
 ---
 
-Good restaurant with excellent seafood.
-
-type: general
-
-
-
-
-
-address: 20, Via Macchin
+A reliable choice for seafood in the old town. Simple, honest cooking — the grilled fish and seafood pasta are both good. Not the cheapest place on the strip but worth it.

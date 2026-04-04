@@ -1,18 +1,7 @@
 ---
 title: "Mazzini"
 type: poi
-address: "59, Via Mazzini"
-type: "Italian"
-latitude: 44.487364
-longitude: 11.364201
+address: "59, Via Mazzini, Alghero"
 ---
 
-Good for pizza's and cheap pasta meals.
-
-type: Italian
-
-
-
-
-
-address: 59, Via Mazzini
+A good budget option for pizza and pasta. Popular with locals for lunch. Nothing fancy but solid Italian cooking at reasonable prices.

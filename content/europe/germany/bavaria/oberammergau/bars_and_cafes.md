@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Oberammergau"
+title: "Bars and Cafes"
 type: section
 ---
 

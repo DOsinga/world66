@@ -5,8 +5,6 @@ latitude: 2.610838
 longitude: 98.902308
 ---
 
-Lake Toba is on most itineraries of travellers going to Sumatra. The lake is set in the caldera of a giant volcano and it's the largest lake of South East Asia. Right in the middle there is an island Pulau Samosir, which is about the size of
-[Singapore](/world/asia/singapore). 
+Lake Toba is the largest volcanic lake in the world, formed by a supervolcanic eruption roughly 74,000 years ago that left a caldera 100 kilometres long and 30 kilometres wide. The lake sits at 900 metres above sea level in the highlands of North Sumatra, giving it a cool, pleasant climate that makes it a welcome escape from the heat of Medan, less than 200 km away. Rising from the lake's centre is Samosir Island, a landmass roughly the size of Singapore that functions almost as a world within a world.
 
-The climate is pleasant and the setting is cool as well. This makes Lake Toba a favourite get away for people living in less-than-appealing city of
-[Medan](/world/asia/indonesia/sumatra/medan). Medan is less than 200 km away and many buses make the trip every day.
+Samosir is the heartland of the Batak people, one of Indonesia's most culturally distinct groups. Traditional Batak houses with their curved roofs, ancient stone chairs at Ambarita where kings once dispensed justice, and the grave of King Sidabutur at Tomok give the island a depth that most Indonesian lake destinations lack. Tuk Tuk, a peninsula jutting into the lake from Samosir's eastern shore, is where travellers base themselves — small guesthouses, woodcarving workshops, and boat rentals line its shores.

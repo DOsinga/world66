@@ -1,20 +1,16 @@
 ---
 title: "Oxford"
 type: poi
-address: "Oxford Information Centre, 15-16 Broad Street"
-phone: "01865 726871"
-url: "www.oxford.gov.uk"
+address: "Oxford, Oxfordshire"
+url: "www.experienceoxfordshire.org"
+latitude: 51.752
+longitude: -1.258
 ---
 
-From the famous Radcliffe Camera (1737-1749) to the University Church of St. Mary the Virgin (1280), visitors will lose themselves in the many amazing and historic sights Oxford has to offer. Roughly 62 miles north of London, Oxford is also home to prestigious Balliol College, St. John's College, Christ Church College, and of course the world famous Oxford University. The Ashmolean Museum and the historic Sheldonian Theater (1664-1668) are definite must-sees as well. Don't forget to climb the tower at University Church of St. Mary the Virgin for a beautiful panoramic view of the city. For more information about touring Oxford, visit the Oxford Information Centre at 15-16 Broad Street, Ph: 01865 726871, *www.oxford.gov.uk/tourism*. You can also visit the Oxford University website at www.ox.ac.uk.
+Oxford is 60 miles northwest of London, an hour by train from Paddington or Marylebone. The university — one of the oldest in the English-speaking world, founded in the 12th century — occupies much of the city centre, with 38 colleges spread across the medieval streets. Most college grounds are open to visitors; Christ Church, with its great hall (the model for Hogwarts), and Magdalen, with its deer park and cloisters, are the most rewarding.
 
-**Contributors**
-May 17, 2008
+The Ashmolean Museum is one of Britain's oldest public museums and has an excellent collection covering ancient Egypt, Greece, and Rome through to the present — all free. The Bodleian Library, one of the great research libraries of the world, runs tours of its historic buildings. Climb the tower of the University Church of St Mary the Virgin for a panoramic view of the spires.
 
+The Covered Market on Market Street, running since 1774, is a good place to eat cheaply.
 
-
-tel: 01865 726871
-
-url: [www.oxford.gov.uk](http://www.oxford.gov.uk/tourism)
-
-address: Oxford Information Centre, 15-16 Broad Street
+Trains from London Paddington (Chiltern Railways from Marylebone is often faster and cheaper). Allow a full day.

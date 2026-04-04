@@ -1,54 +1,12 @@
 ---
-title: "Things to do"
+title: "Things to Do in London"
 type: section
 ---
 
-**Area Guides in London** (more to add)
+London's attraction as a destination rests partly on sheer quantity — there is more to see and do here than in most entire countries — and partly on the fact that a large proportion of its greatest institutions are free. The British Museum, the National Gallery, the Natural History Museum, the Victoria and Albert Museum, the Tate Modern, and the Science Museum all charge nothing for their permanent collections. This is unusual by world standards and means that a week in London can be culturally rich regardless of budget.
 
-**Brixton
+The obvious sights — [Tower of London](/europe/unitedkingdom/england/london/things_to_do/tower_of_london), [Tower Bridge](/europe/unitedkingdom/england/london/things_to_do/tower_bridge), the [London Eye](/europe/unitedkingdom/england/london/things_to_do/london_eye) — are obvious for reasons: they are genuinely impressive. But the city rewards going slightly off the main tourist routes. [Hampstead Heath](/europe/unitedkingdom/england/london/things_to_do/hampstead_heath) gives you open countryside within the city. [Greenwich](/europe/unitedkingdom/england/london/things_to_do/greenwich) combines maritime history, Royal Observatory, and one of the best city views. [Leighton House](/europe/unitedkingdom/england/london/things_to_do/leighton_house) is one of the strangest and most beautiful domestic interiors in Europe.
 
-** Brixton sits in South London, right at
-the bottom of the Victoria Line. It has a large Afro-Caribbean
-population, orginiating from the 1940s and 50s, when Britain invited
-large numbers from the West Indies to fill the job gaps. It still has
-an edgy reputation left over from the race riots in the 80s and the
-drugs problems that still plague the area. However you're only likely
-to hear a hushed whisper of "skunk, weed", just ignore it and keep
-walking.
+For parks, [Hyde Park](/europe/unitedkingdom/england/london/things_to_do/hyde_park) is the centrepiece but the Royal Parks network extends east to St James's Park and Green Park, both ideal for walking between sights in the Westminster area.
 
-Brixton is a colourful, unique area, that is like nowhere else in London. There are several [markets](/europe/unitedkingdom/england/london/shopping/brixton) stretching across the town where you can pick up all manner of exotic foods, textiles and jewellery.
-
-Brixton
-has several galleries to peruse, there's a photographer's gallery
-called Photofusion which is an interesting little gallery with
-darkroom facilities. But also check out Birxton Art Gallery, which
-has been around for over 20 years and continues to
-hold contemporary multicultural exhibitions.
-
-There
-is a large evangelical Christian presence in Brixton, and there are
-plenty of entertaining preachers spreading the message. From lone
-preachers, to choirs to groups of MCs, all can be seen outside KFC
-(Brixton's Speaker's Corner).
-
-For entertainment there's the [Ritzy Cinema](/europe/unitedkingdom/england/london/nightlife/ritzy_cinema),
-which shows a mix of foreign films and Hollywood hits as well
-as hosting different cultural events in their two bars. [Brixton Academy](/europe/unitedkingdom/england/london/nightlife/brixton_academy), which regularly attracts some of the biggest artists to play there (including Madonna's last UK gig).
-
-If you fancy some fresh air, then try a ten minute walk from town
-centre to Brockwell Park, a huge expanse of green hills. It contains
-the famous Brixton Lido, as well as a park for the kids. Stand on the
-highest point, and you see a good view of London.
-
-If you are
-especially interested in the history and culture of Brixton, then try
-Brixton Tours ( www.brixtontours.co.uk). Or try Brixton's Library
-(next to the [Ritzy Cinema](/europe/unitedkingdom/england/london/nightlife/ritzy_cinema)), which has a few books on the local history of the area.
-
-There is too many bars and clubs in Brixton to mention here. But for a quick tasty bite try [Fujiyama](/europe/unitedkingdom/england/london/eatingout/fujiyama) (Japanese noodles), or for something a little more swish try [Bug](/europe/unitedkingdom/england/london/eatingout/bug),
-hidden under St Matthew's Church. The bars vary from a few remaining
-old man pubs, to stylish bars and full on clubs, it all depends on your
-taste and the size of your wallet.
-
-**Contributors**
-August 23, 2005
+Walking is underrated as a way to see London. The South Bank walk from Westminster Bridge to Tower Bridge is one of the great urban strolls. The canal towpath through Regent's Park to Camden is another. The City of London on a Sunday morning, when the streets are empty and the churches are open, is a different city from the weekday financial district.

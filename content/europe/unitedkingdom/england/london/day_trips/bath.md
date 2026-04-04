@@ -1,22 +1,16 @@
 ---
 title: "Bath"
 type: poi
-address: "Church Yard"
-phone: "0906 711-2000"
-url: "www.visitbath.co"
-latitude: 35.125205
-longitude: 33.938562
+address: "Bath, Somerset"
+url: "www.visitbath.co.uk"
+latitude: 51.381
+longitude: -2.359
 ---
 
-Located around 113 miles west of London, visitors to Bath will spend an entire day exploring Roman baths, museums, and having tea -- so this London side trip is well worth the drive or train ride. Major points of interest include: *The Pump Room and Roman Baths*, *Sally Lunn's Refreshment House and Museum*, *Bath Abby*, *The* *Circus and the Museum of Costume* (www.museumofcostume.com), and *Royal Crescent*. If you're looking for the perfect place to grab a hearty meal, visit *Number Five* at 5 Argyle Street (Ph: 01225 444499). For more information about Bath, visit the Bath Tourist Information Centre at Abby Church Yard. The phone number is 0906 711-2000. *www.visitbath.co*
+Bath is 115 miles west of London by road, reachable in about 90 minutes by direct train from Paddington. It is one of the most complete Georgian cities in Europe — virtually the entire centre is built from honey-coloured Bath stone, laid out in the 18th century with the Circus, the Royal Crescent, and the Pump Room as its set pieces.
 
-**Contributors**
-May 17, 2008
+The Roman Baths are the main attraction: a remarkably intact first and second-century bathing complex built around the sacred spring that gives the city its name. The water is still warm (46°C at source) and still flows at the same rate it has for 10,000 years. The audio guide is genuinely good.
 
+The Royal Crescent is one of the most famous pieces of residential architecture in Britain — 30 Georgian terraced houses arranged in a sweeping arc on the hill above the city. You can tour No. 1 Royal Crescent, restored to its 18th-century appearance.
 
-
-tel: 0906 711-2000
-
-url: [www.visitbath.co](http://www.visitbath.co)
-
-address: Church Yard
+Allow a full day. Trains run regularly from London Paddington.

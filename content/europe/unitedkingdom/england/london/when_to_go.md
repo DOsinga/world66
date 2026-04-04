@@ -1,55 +1,16 @@
 ---
-title: "When to Go in London"
+title: "When to Go to London"
 type: section
 ---
 
-One of the world’s most visited cities, London is awash with tourists
-all year round. The city’s many attractions are worth a visit at any
-time of year, and the changeable climate means that visitors should
-come prepared for any weather eventuality. During the winter months of
-December, January and February, chilly weather is pretty much
-guaranteed, but visitors are more likely to see grey skies and
-drizzly rain than heavy snowfall. Summers in the city can be very hot
-and sticky, but umbrellas should be kept at the ready in case of sudden
-downpours. Spring and autumn are pleasant times to visit London, with
-plenty of crisp clear days and fewer tourists than during the key
-holiday seasons.
+London is a year-round destination with no bad season for visiting, only different trade-offs.
 
-**Summer in the City**
+**Spring (March–May)** is arguably the best time to go: the days are lengthening, the parks are coming back to life, and the tourist crowds have not yet hit their peak. April and May can be genuinely lovely — Kew Gardens, Hyde Park, and the South Bank in particular. Rain is always possible but rarely sustained.
 
-The crowds that swarm
-London during the summer high season can make the city feel stifling on
-hot, humid summer days. The months of July and August see the city at
-both its busiest and hottest, and although temperatures rarely exceed
-30°, it can feel an awful lot hotter when trying to navigate the busy
-Tube (underground train) system. The summer months offer the best
-chance to bask in sunshine in London, but May and June tend to be less
-crowded and slightly fresher than July and August. Visitorsc can expect
-long queues and higher accommodation prices during summer, but the
-city’s parks, gardens and café bars are wonderful places to be when the
-sun beats down.
+**Summer (June–August)** is London at its most energetic: long evenings, outdoor dining, the parks full of sunbathers, major events including Wimbledon, the Proms, and various outdoor festivals. The downside is that the city is extremely busy in July and August, accommodation prices peak, and the Tube becomes a reliable misery on hot days (most of the network lacks air conditioning). May and June are better summer alternatives.
 
-**Warming Winter Treats**
+**Autumn (September–November)** is underrated. The tourist crowds thin noticeably in September, prices drop, and the cultural season — theatre, galleries, exhibitions — gets properly underway. October brings changeable weather but the city feels more itself with fewer visitors.
 
-London hits another
-tourist high season in December, but this is one of the best places in
-the world for Christmas shopping. The switching on of London’s
-impressive Christmas lights displays, which takes place in early
-November, has become a major event for the city, with crowds gathering
-to watch celebrities switch on the lights at free ceremonies across the
-West End. The city’s pubs and bars are great places to warm up with a
-drink and a bite to eat during the winter chill, and London’s buzzing
-nightlife makes this a key city for partiers to celebrate New Year.
+**Winter (December–February)** divides visitors. December in London is genuinely atmospheric: the Christmas lights across the West End, carol services in the churches, ice rinks, and a city that takes the season seriously. January and February are the quietest and cheapest months to visit, with lower accommodation prices and shorter queues everywhere. Cold and grey, but the museums and theatres are as good as ever.
 
-**Bargain Breaks**
-
-Visitors
-looking for a cheap break to London would be wise to visit London
-during the low seasons of November 1 to December 1 and from January to
-March. Prices plummet in line with the temperatures, and London’s many
-excellent galleries, museums and shows, together with a nightlife and
-dining scene that excels whatever the weather, rain needn’t stop play
-during an off-season visit to London.
-
-**Contributors**
-January 19, 2010
+The one thing that never applies to London is the idea that bad weather is a reason not to visit. The city is built for indoor culture.

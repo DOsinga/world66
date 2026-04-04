@@ -1,9 +1,9 @@
 ---
-title: "Day Trips in Salou"
+title: "Day Trips"
 type: section
 ---
 
-Salou is surrounded by some interesting sights, all of which can be explored in a day, if you plan carefully. The **Salou day trips** guide offers visitors some ideas for quick getaways near this fascinating Catalonian city.
+Tarragona is just 10 km north with its Roman amphitheatre and aqueduct, and [Barcelona](/europe/spain/catalonia/barcelona) is two and a half hours away by train. Montserrat makes for a dramatic mountain excursion.
 
 **Montserrat**
 
@@ -23,5 +23,3 @@ Barcelona, being the capital of Spain, boasts of numerous bars, shops and restau
 
 The region near Salou is covered by several sites of religious and historical importance along with quaint towns that feature lovely vintage homes and markets.
 
-**Contributors**
-February 23, 2010

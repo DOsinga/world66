@@ -5,14 +5,10 @@ latitude: 43.654203
 longitude: 3.67467
 ---
 
-The Occitans speak thier own language and some even propagate independence from "Paris". To a foreigner however, this region may seem quintessential French. The peaceful little villages near the high mountains, impressive old cities, the good food and the joie de vivre are all so "French".
+Languedoc sits in the warm south of France, stretching from the Rhône delta west to the Pyrenees and north into the Massif Central. It's a region with its own language — Occitan — its own food, and a history shaped as much by Cathar heresy and royal crusades as by Mediterranean sun. Despite what the Paris-centric narrative would have you believe, this is not quite France in the usual sense. It feels older, rougher around the edges, and more interesting for it.
 
-Highlights in the region include [Carcassone](/europe/france/midi/languedoc/carcassone) a completely walled medieval town and the cities of [Toulouse](/europe/france/midi/languedoc/toulouse), one of the most stylish cities of the country and [Montpellier](/europe/france/midi/languedoc/montpellier), a fascinating pastiche of all the architectural eras of France—medieval structures stand next to 18th-century buildings and free-form modern designs.
+The cities alone make the journey worthwhile. Montpellier is young and restless, with one of France's oldest universities and a centre that jumps between medieval lanes and striking modern architecture. Toulouse, the "Pink City", is all warm brick and big plazas — the kind of place where people actually eat dinner at a table rather than rushing. Carcassonne's walled citadel is one of the best-preserved medieval fortifications in Europe, and manages to be genuinely impressive even through the tourist crowds.
 
-## Destinations in Languedoc
+Beyond the cities, the landscape rewards the curious. The Haut-Languedoc interior — the Monts de l'Espinouse, the Sidobre, the Monts de Lacaune — is barely known outside France. The Pays Cathare to the south around Carcassonne is haunted by ruined hilltop castles where heretics were besieged and burned in the 13th century. The Canal du Midi, a 17th-century feat of engineering, runs through the whole region and makes for one of the most pleasant long-distance cycle routes in Europe.
 
-[Montpellier](/europe/france/midi/languedoc/montpellier)
-[Toulouse](/europe/france/midi/languedoc/toulouse)
-[Carcassone](/europe/france/midi/languedoc/carcassone)
-[Perpignan](/europe/france/midi/languedoc/perpignan)
-[Albi](/europe/france/midi/languedoc/albi)
+The wine is serious and underpriced. The food — cassoulet, brandade, oysters from the Bassin de Thau — is honest and regional. This is a destination that rewards slow travel.

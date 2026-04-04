@@ -1,13 +1,8 @@
 ---
-title: "Peoria"
+title: 'Peoria'
 type: location
-latitude: 40.693861
-longitude: -89.589101
+latitude: 40.6939
+longitude: -89.5891
 ---
 
-Travel Guide
-
-**Peoria, Illinois** is the largest city in Illinois.
-
-Peoria has become famous as a representation of the average American City b
-Peoria is also headquarters for Caterpillar Inc., one of the 30 companies composing the Dow Jones Industrial Average
+Peoria sits on the Illinois River in central Illinois and has long been considered a bellwether for mainstream America -- "Will it play in Peoria?" is the classic test of Middle American appeal. The city is the global headquarters of Caterpillar Inc. and has a pleasant riverfront district with restaurants and parks. The Peoria Riverfront Museum covers art, science, and history under one roof.

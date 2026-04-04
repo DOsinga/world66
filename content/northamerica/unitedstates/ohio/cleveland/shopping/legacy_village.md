@@ -1,25 +1,11 @@
 ---
-title: "Legacy Village"
+title: 'Legacy Village'
 type: poi
-address: "25001 Cedar Rd."
-phone: "216.382.3871"
-type: "Shopping centers and malls"
-url: "www.legacy-village.com"
+address: '25001 Cedar Rd.'
+phone: '216.382.3871'
+url: 'www.legacy-village.com'
 latitude: 41.501363
 longitude: -81.500184
 ---
 
-Legacy Village has a niche in furniture, houswares, and eating out. It is an attractive mainstreet shopping center across the street from Beachwood Place. Here you will find the excellent bookstore of Joseph-Beth, Crate and Barrel, Restoration Hardware, and Arhaus Furniture. Lush boutique is also a must-shop for young female adults in the Cleveland area.
-
-**Contributors**
-April 05, 2006
-
-type: Shopping centers and malls
-
-
-
-tel: 216.382.3871
-
-url: [www.legacy-village.com](http://www.legacy-village.com/)
-
-address: 25001 Cedar Rd.
+An attractive main-street shopping center across from Beachwood Place, focused on furniture, housewares, and dining. Joseph-Beth bookstore, Crate and Barrel, Restoration Hardware, and Arhaus Furniture are the anchors.

@@ -1,8 +1,12 @@
 ---
-title: "Modhera"
+title: 'Modhera'
 type: location
 latitude: 23.581665
 longitude: 72.140412
 ---
 
-Modhera, which is situated at about 99 kms from Ahmedabad, is famous for its Sun Temple that dates from the 11th century. The Sun Temple was built in 1026 AD by Bhimdeva, one of the Solanki Rajput Kings. It is definitely one of the finest examples of architecture that reminds of the Sun Temple at Konark and the carvings at Khajuraho. The temple is built in such a manner that the sun light, peeping into the temple from all sides, falls directly on the statue of the god. The main entrace is a look-a-like of the gate of Torana, which is beautifully carved. The arches mount on a kirti stambha. The temple also features a beautiful garden and is situated near the banks of the river Pushpawati. The temple's walls are decorated with carvings and there are a lot of various interesting statues of gods and goddesses.
+Modhera is famous for its Sun Temple, built in 1026 AD by Bhimdev I of the Solanki dynasty. About 99 km from [Ahmedabad](/asia/india/gujarat/ahmedabad), it is one of the finest examples of medieval Indian temple architecture, comparable to the Sun Temple at Konark and the carvings at Khajuraho.
+
+The temple is designed so that sunlight falls directly on the image of the sun god at the equinoxes. The entrance gate is elaborately carved, and the walls are covered with intricate sculptures of gods, goddesses, and everyday life. In front of the temple is a stunning stepped tank, the Surya Kund, surrounded by over a hundred small shrines. The setting near the banks of the river Pushpavati adds to the atmosphere.
+
+Modhera makes a good day trip from Ahmedabad, ideally combined with [Patan](/asia/india/gujarat/patan) and [Siddhpur](/asia/india/gujarat/siddhpur), which are on the same route.

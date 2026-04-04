@@ -1,36 +1,12 @@
 ---
-title: "Asheville"
+title: 'Asheville'
 type: location
 latitude: 35.595363
 longitude: -82.550841
 ---
 
-"Land of the Sky" 
+Asheville feels like a scaled-down San Francisco set against the Blue Ridge Mountains -- creative, independent, and full of surprises. The city has reinvented itself from a quiet mountain town into one of the South's most interesting destinations, with a thriving arts scene, more craft breweries per capita than almost anywhere in America, and the kind of farm-to-table food culture that bigger cities envy.
 
-Area attractions: 
+The Biltmore Estate is the headline attraction -- George Vanderbilt's 250-room chateau is the largest private home in the country, and the grounds include gardens, a winery, and miles of trails. But downtown Asheville is the real draw. The art deco architecture along Haywood Street, the street musicians on Pack Square, and the independent shops on Wall Street give the city a creative energy that is hard to fake.
 
-Biltmore House, Gardens & Winery 
-
-National Forests, Biking Trails
-
-Bel Chere festival in the summer
-
-Brewfest in the Fall
-
-Asheville feels like a scaled down San Francisco minus the waterfront (and the chilling fog) set against the beautiful Blue Ridge Mountains.
-
-Downtown: Great Food Picks:
-
-Carribean/Southwest/Mex-Try Salsa's near Pack Square around the corner from the Noodle Shop below.
-
-Vegetarian:The Laughing Seed Cafe on Wall Street
-
-Chinese:The Noodle Shop (the appetizers - ginger carrots,potatoes and spring rolls) are worth the stop for a quick bite. Also on Pack Square.
-
-Bookstore: Malaprops (just ask everyone knows where it is downtown)
-
-Desert:The Chocolate Fetish. If you think you know what chocolate is based on Hershey's this will be a turning point in your life- recommendation: Dark Chocolate Truffles.
-
-
-
-This is a great city to spend some time in.
+The surrounding mountains offer year-round outdoor activities. The Blue Ridge Parkway passes right through, offering some of the most scenic driving in the eastern United States. Hiking trails are everywhere, from easy walks to challenging summit climbs in Pisgah National Forest.

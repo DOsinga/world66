@@ -1,12 +1,14 @@
 ---
-title: "Winston-Salem"
+title: 'Winston-Salem'
 type: location
 latitude: 36.099813
 longitude: -80.244052
 ---
 
-Winston-Salem is the fifth-largest city in North Carolina and is rich in history. Moravians came and settled here in the 1700's and established the first women's school in the US, Salem Academy, and later a women's college - Salem College. The local medical school, Bowman Gray School of Medicine has one of the most prestigious cardiology departments in the country, and Wake Forst University is well-known in sports. There is also the tradition of tobacco as evident in RJ Reynolds, as well as Hanes in textiles, and Sara Lee Corporation manufactures hosiery (Hanes Hosiery and L'eggs) and knits (Hanes and Champion knitwear).
+Winston-Salem is the fifth-largest city in North Carolina and one of the most historically interesting. Moravians settled here in the 1700s, establishing what became Salem -- they founded the first women's school in the United States (Salem Academy) and later Salem College, both still in operation. The tobacco industry made the city wealthy through R.J. Reynolds, and the textile tradition lives on through Hanes and the hosiery business.
 
-If you are interested in history then visit Old Salem and be sure to visit the Moravian Bakery. Winston-Salem also has a thriving arts culture and is home to Wake Forest University, Winston Salem State University and Salem College. In addition, the NC School of the Arts is located here. As a result, the downtown area has an increasing number of restaurants and art galleries.
+**Old Salem** is the essential stop -- a restored Moravian settlement where costumed interpreters demonstrate eighteenth-century crafts and daily life. Do not miss the **Moravian Bakery** for sugar cake and lovefeast buns, recipes that have not changed in centuries.
 
-Tanglewood Park is nearby and is nice place to spend a day with a lake, golf park, equesterian center and bike trails.
+The city has a thriving arts culture, driven in part by the **University of North Carolina School of the Arts**. Downtown has a growing number of restaurants and art galleries, and the **Reynolda House Museum of American Art**, set in the former country estate of R.J. Reynolds, houses an impressive collection in a stunning setting.
+
+**Tanglewood Park** nearby is a pleasant day out, with a lake, golf courses, an equestrian center, and bike trails spread across the former estate of the Reynolds family.

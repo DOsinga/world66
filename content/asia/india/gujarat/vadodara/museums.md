@@ -1,14 +1,12 @@
 ---
-title: "Museums"
+title: 'Museums'
 type: section
-phone: "91265426372"
 ---
 
-The museum was established in 1961.The museum is run by a private trust. the museum is noted for its modern display. The collection includes copies of Greek, Roman and later European sculpture, Masterpieces of European oil paintings, sculptures by Felici, French furniture etc. The museum collections fall into many catagories. However, it is noted for oil paintings by Ravi Varma, sculptures made of marble greeco-Roman arts, chinese and Japanese art etc. The oil paintings representing members of the then Gaekwad princely ruling family are striking. Visiting Hours : 10.30 a.m. to 5.30 p.m. Closed : Monday and important public holidays. Admission Fee : Rs.10/- for adults Rs. 5/- for children. Rs.50/- for educational group.
+### Maharaja Fateh Singh Museum
 
-**Contributors**
-December 27, 2005
+Located in the Laxmi Vilas Palace grounds, this museum has a remarkable collection including European oil paintings by Murillo and Raphael, sculptures by Felici, copies of Greek and Roman sculpture, Chinese and Japanese art, and French furniture. The oil paintings of the Gaekwad princely family by Raja Ravi Varma are particularly striking. Open 10:30 to 17:30, closed Monday and public holidays.
 
-### Maharaja Fatehsinh Museum
+### Baroda Museum and Picture Gallery
 
-Museum collections fall into many catagories. The collection includes very rare articles and ancient collectibles which also has 'Blue skeleton'.
+Situated in the beautiful Sayaji Baug park, this is one of Gujarat's finest museums. The collection spans art, archaeology, geology, and ethnography, with a particularly good gallery of Mughal miniatures and European paintings.

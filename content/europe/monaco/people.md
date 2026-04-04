@@ -3,56 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 32 035 (July 1998 est.)
+Monaco has a population of around 38,000, making it the most densely populated sovereign state in the world. The mix of nationalities is extraordinary: nearly 150 different nationalities are registered as residents, with Monegasques, French, Italians, and British making up the largest groups.
 
-**Age structure:**
+Monegasques themselves — people with Monegasque citizenship — now represent about 24% of residents, roughly 9,200 people. This is actually a recent shift: for most of the 20th century, French nationals were the majority. Citizenship is tightly controlled and largely passed through the paternal line, though naturalisation is possible after long residence. The result is a citizenry that is acutely conscious of its status and identity.
 
-*0-14 years:* 17% (male 2 730; female 2 659)
+The overwhelming majority of Monaco's working population commutes in from France and Italy daily — around 50,000 cross-border workers each day, outnumbering the resident population. The principality has almost no unemployment.
 
-*15-64 years:* 64% (male 9 934; female 10 463)
+French is the official language and the language of government, education, and daily life. Italian is widely spoken, especially in the east of the principality near the Italian border. English is well understood in hotels, restaurants, and tourist areas. Monégasque, a dialect related to old Genoese Ligurian, is spoken by older Monegasques and is taught in schools as part of an effort to preserve it.
 
-*65 years and over:* 19% (male 2 300; female 3 949) (July 1998 est.)
-
-**Population growth rate:** 0.4% (1998 est.)
-
-**Birth rate:** 10.71 births/1 000 population (1998 est.)
-
-**Death rate:** 11.86 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 5.18 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 0.95 male(s)/female
-
-*65 years and over:* 0.58 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.6 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 78.41 years
-
-*male:* 74.79 years
-
-*female:* 82.21 years (1998 est.)
-
-**Total fertility rate:** 1.7 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Monegasque(s) or Monacan(s)
-
-*adjective:* Monegasque or Monacan
-
-**Ethnic groups:** French 47% Monegasque 16% Italian 16% other 21%
-
-**Religions:** Roman Catholic 95%
-
-**Languages:** French (official) English Italian Monegasque
-
-**Literacy:** NA
+Roman Catholicism is the state religion; the cathedral in Monaco-Ville is the spiritual centre of the principality. Other faiths are freely practiced.

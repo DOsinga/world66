@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 1 207 844 (July 1998 est.)
+Gabon has a small population of around 2.3 million, spread across a country the size of Colorado. Most people live in Libreville and a handful of other towns, leaving vast stretches of forest virtually uninhabited. It is one of the most urbanized countries in Africa, with over 80% of the population living in cities.
 
-**Age structure:**
+The Gabonese are ethnically diverse, with around 40 Bantu-speaking groups. The **Fang** are the largest group, dominant in the north and in Libreville, and politically influential. The **Myene** live along the coast and were historically the first to interact with European traders. The **Punu** and **Nzebi** are prominent in the south, and the **Teke** in the southeast. Despite this diversity, ethnic tensions are relatively muted compared to neighboring countries, partly because no single group is large enough to dominate completely.
 
-*0-14 years:* 33% (male 202 364; female 202 249)
+A significant expatriate community lives in Libreville, particularly French, Lebanese, and West African workers drawn by the oil economy.
 
-*15-64 years:* 61% (male 372 157; female 364 806)
+**Bwiti** is the most distinctive element of Gabonese spiritual life. This centuries-old tradition, rooted in ancestor worship and the use of iboga (a powerful psychoactive plant), is practiced across ethnic lines and coexists with Christianity. Bwiti ceremonies, involving all-night rituals with drumming, dancing, and iboga consumption, are a profound part of Gabonese identity. Some operators offer iboga experiences to foreigners, but approach these with respect -- this is a sacred tradition, not a recreational drug trip.
 
-*65 years and over:* 6% (male 32 718; female 33 550) (July 1998 est.)
+Christianity is the majority religion, with Catholicism especially widespread. Islam is a small minority, mainly among immigrants. In practice, most Gabonese blend Christian and traditional beliefs without seeing any contradiction.
 
-**Population growth rate:** 1.48% (1998 est.)
-
-**Birth rate:** 28 births/1 000 population (1998 est.)
-
-**Death rate:** 13.23 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 1.02 male(s)/female
-
-*65 years and over:* 0.97 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 85.43 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 56.51 years
-
-*male:* 53.55 years
-
-*female:* 59.56 years (1998 est.)
-
-**Total fertility rate:** 3.81 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Gabonese (singular and plural)
-
-*adjective:* Gabonese
-
-**Ethnic groups:** Bantu tribes including four major tribal groupings (Fang Eshira Bapounou Bateke) other Africans and Europeans 154 000 including 6 000 French and 11 000 persons of dual nationality
-
-**Religions:** Christian 55%-75% Muslim less than 1% animist
-
-**Languages:** French (official) Fang Myene Bateke Bapounou/Eschira Bandjabi
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 63.2%
-
-*male:* 73.7%
-
-*female:* 53.3% (1995 est.)
+French is the lingua franca and the language of education, government, and business. Gabonese French has its own rhythm and slang, and conversations among friends will often mix French with local languages. The Gabonese are generally warm and welcoming to visitors, though reserved at first. Hospitality is important, and sharing food is a cornerstone of social interaction.

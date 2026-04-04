@@ -1,5 +1,5 @@
 ---
-title: "Jharsuguda"
+title: 'Jharsuguda'
 type: location
 latitude: 21.801937
 longitude: 83.971396

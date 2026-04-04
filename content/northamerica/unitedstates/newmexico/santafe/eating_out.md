@@ -1,18 +1,6 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-Santa Fe is known for its wonderful restaurants, all types of cuisine are available from casual pubs and cafes to white tablecloth fine dining.
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Santa Fe punches well above its weight when it comes to food. The restaurant scene ranges from casual New Mexican joints serving enchiladas smothered in green chile to white-tablecloth fine dining with creative Southwestern fusion. Cafe Pasqual's on Don Gaspar Avenue is a longtime favorite for brunch. For a splurge, the Compound on Canyon Road is hard to beat. Budget travelers should seek out the breakfast burritos -- they are enormous and cheap.

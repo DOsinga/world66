@@ -3,66 +3,16 @@ title: "People"
 type: section
 ---
 
-**Population:** 28 337 071 (July 1998 est.) 
+Kenya has a population of around 56 million (2024) and is one of the most ethnically diverse countries in Africa, with more than 40 distinct groups. Most are Bantu-speaking agricultural peoples from the central and western regions, but the country also has significant Nilotic and Cushitic communities.
 
+The **Kikuyu** are the largest group, making up roughly 22% of the population, and dominate the fertile central highlands around Mt Kenya. Historically farmers and traders, they have a strong presence in business and politics. The **Luhya** (14%) of western Kenya and the **Luo** (13%) of the Lake Victoria region are also major groups. The Luo are traditionally fishermen and have produced some of Kenya's most prominent politicians and thinkers — Barack Obama's father was Luo.
 
+The **Kalenjin** (about 12%) are highland pastoralists and farmers from the Rift Valley, best known internationally for producing a disproportionate number of the world's great long-distance runners. The **Kamba** of southeastern Kenya are historically known as traders and skilled craftspeople.
 
-**Age structure:** 
+The **Maasai** are perhaps the most internationally recognized group, though they make up a small fraction of the population. Their seminomadic cattle-herding culture and distinctive red clothing have made them emblematic of Kenya in the global imagination. Many Maasai live as they always have, moving with their herds. Some have adapted to tourism as a livelihood; most simply live their lives with minimal interest in how outsiders perceive them.
 
-*0-14 years:* 44% (male 6 248 260; female 6 109 443) 
+Along the coast, the **Swahili** people represent centuries of mixing between Bantu Africans and Arab, Persian, and Indian traders. Swahili culture is Muslim in character, deeply influenced by the sea trade that shaped the coast for over a thousand years.
 
-*15-64 years:* 54% (male 7 609 631; female 7 607 810) 
+The two official languages are **English** and **Kiswahili**. English is used in government, higher education, and business. Kiswahili is the national lingua franca, spoken across ethnic lines everywhere. In cities, you will also encounter **Sheng** — a fast-moving street slang that blends Kiswahili, English, and various tribal languages, particularly among younger Nairobians.
 
-*65 years and over:* 2% (male 333 881; female 428 046) (July 1998 est.) 
-
-**Population growth rate:** 1.71% (1998 est.) 
-
-**Birth rate:** 31.68 births/1 000 population (1998 est.) 
-
-**Death rate:** 14.19 deaths/1 000 population (1998 est.) 
-
-**Net migration rate:** -0.35 migrant(s)/1 000 population (1998 est.) 
-
-**Sex ratio:** 
-
-*at birth:* 1.03 male(s)/female 
-
-*under 15 years:* 1.02 male(s)/female 
-
-*15-64 years:* 1 male(s)/female 
-
-*65 years and over:* 0.78 male(s)/female (1998 est.) 
-
-**Infant mortality rate:** 59.38 deaths/1 000 live births (1998 est.) 
-
-**Life expectancy at birth:** 
-
-*total population:* 47.57 years 
-
-*male:* 47.02 years 
-
-*female:* 48.13 years (1998 est.) 
-
-**Total fertility rate:** 4.07 children born/woman (1998 est.) 
-
-**Nationality:** 
-
-*noun:* Kenyan(s) 
-
-*adjective:* Kenyan 
-
-**Ethnic groups:** Kikuyu 22% Luhya 14% Luo 13% Kalenjin 12% Kamba 11% Kisii 6% Meru 6% other African 15% non-African (Asian European and Arab) 1% 
-
-**Religions:** Protestant (including Anglican) 38% Roman Catholic 28% indigenous beliefs 26% Muslim 6% other 2% 
-
-**Languages:** English (official) Swahili (official) numerous indigenous languages 
-
-**Literacy:** 
-
-*definition:* age 15 and over can read and write 
-
-*total population:* 78.1% 
-
-*male:* 86.3% 
-
-*female:* 70% (1995 est.)
+Kenya is predominantly Christian (roughly 85%), with a significant Muslim minority (about 11%) concentrated on the coast and in the northeast. Traditional beliefs remain important in many communities alongside formal religion.

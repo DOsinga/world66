@@ -1,4 +1,0 @@
----
-title: "Thamai"
-type: location
----

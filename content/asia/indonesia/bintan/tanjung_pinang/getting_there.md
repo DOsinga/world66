@@ -3,28 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Restoran Surya Indah
+Most visitors arrive by ferry from Singapore. There are five to seven crossings daily, the journey takes about two hours, and a return ticket costs around $54. Ferries dock at Sri Bintan Pura terminal in the centre of town.
 
-Jl Seijang Laut No 06
+Book ahead for weekend and holiday travel -- ferries fill up fast. It is also worth reconfirming your return ticket at the ferry company's office (not the terminal) before your travel date.
 
-Tanjung Pinang, Kepulauan Riau
-
-Serve many kind of fresh seafood like fish, crab, prawn, squid, scallops, etc.
-
-Do visit us!
-
-Best regard
-
-Rest Surya Indah
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Tanjung Pinang also has Raja Haji Fisabilillah Airport with domestic flights to Jakarta, Batam, and other Indonesian cities. For international arrivals, flying to Singapore and taking the ferry across is usually the cheapest and simplest route.

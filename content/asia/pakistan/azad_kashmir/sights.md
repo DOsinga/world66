@@ -1,6 +1,0 @@
----
-title: "Sights"
-type: section
----
-
-HOTEL HOLIDAYS IN KASHMIR IS SITUATED IN THE CITY OF EAST MIRPUR AZAD KASHMIR

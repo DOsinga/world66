@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Mcleodganj"
+title: 'Shopping'
 type: section
 ---
 

@@ -1,26 +1,6 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
-address: "shop 4 killians walk Bendigo"
-email: "cvcellars@vic.chariot.net.au"
-phone: "03 5442 2770"
-type: "Speciality shops"
-latitude: -36.760244
-longitude: 144.280847
 ---
 
-### [Central Victoria Cellars](/australiaandpacific/australia/victoria/bendigo/shopping/central_victoria_c)
-
-This shop is convienently located in the centre of town.
-
-If you are unable to visit cellar doors in the region, this store stocks all local wines and produce. Great place to visit for local gifts to take home with you.
-
-type: Speciality shops
-
-
-
-tel: 03 5442 2770
-
-address: shop 4 killians walk Bendigo
-
-email: cvcellars@vic.chariot.net.au
+Bendigo's compact city centre has a mix of antique shops, local boutiques, and specialty stores. The region is known for its wines and local produce, so a bottle shop stocking local vintages makes a good stop if you cannot get out to the cellar doors.

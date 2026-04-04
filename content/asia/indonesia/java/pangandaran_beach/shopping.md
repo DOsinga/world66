@@ -1,16 +1,6 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 
-Silver and Batik
-
-Jl Kidang Pananjung 136
-
-Pandangaran 46396
-
-tel 0265 639405
-
-small family business providing made to order batik painting, silver,
-wood and handicraft objects. they also have an outlet in Pasar
-wiasata Blok F
+Pangandaran has a handful of craft shops selling batik, silver jewelry, and wooden handicrafts. **Silver and Batik** on Jl Kidang Pananjung 136 (tel: 0265 639405) is a small family business offering made-to-order batik paintings, silverwork, and wood carvings. They also have an outlet at Pasar Wisata Blok F.

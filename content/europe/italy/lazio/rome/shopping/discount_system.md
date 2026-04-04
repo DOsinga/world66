@@ -1,10 +1,11 @@
 ---
-title: "Discount System"
+title: 'Discount System'
 type: poi
-address: "Via Panisperna 209"
-phone: "+39 06 4746545"
-latitude: 41.896336
-longitude: 12.490429
+category: 'Speciality shops'
+address: 'Via Panisperna 209'
+phone: '+39 06 4746545'
+latitude: 41.8963
+longitude: 12.4904
 ---
 
-Designer discount outlet selling Armani, Fendi, Valentino, and other Italian labels at discounts of up to 50% off retail. Worth a look if you're after designer labels at less than boutique prices.
+Designer fashion at up to 50% off retail. You will find Armani, Fendi, Valentino, and other Italian labels at serious discounts. Worth the detour if you want quality without the full Via Condotti price tag.

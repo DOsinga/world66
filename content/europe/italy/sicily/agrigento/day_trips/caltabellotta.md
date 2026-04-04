@@ -1,20 +1,10 @@
 ---
-title: "Caltabellotta"
+title: 'Caltabellotta'
 type: poi
-latitude: 37.577341
-longitude: 13.216548
+latitude: 37.5773
+longitude: 13.2165
 ---
 
-Caltabellotta is a hilltop village, reached by bus from Sciacca which is itself a bus ride from Agrigento. If you have to wait in Sciacca, it's pleasant to walk up to the top of the unspoilt town.
+A dramatic hilltop village reached by bus from Sciacca, which is itself a bus ride from Agrigento. The winding road takes you further and further up the mountainside, and the village only reveals its real charms when you reach the top.
 
-The ride to Caltabellotta is delightful, taking you by a winding road further and further up. The village itself only reveals its real delights when you reach the top. Early in the year, if you go through the road tunnel to the other side of the mountain, it is like going to a place with a different climate - colder and far more windy. Do it though or you will miss a terrific view. 
-
-From the bus stop side get to the top on your right as you face the mountain for the interesting church and superlative views over the rooftops.
-
-If you are going in the afternoon take a drink with you as all the high bars seem to be closed during the siesta.
- 
- 
-
-Address: Caltabellotta
-
-Url: [www.caltabellotta3000.it](http://www.caltabellotta3000.it)
+There is a tunnel through the ridge to the other side, where the climate shifts abruptly from balmy to windswept. Do not miss it, or you will miss the best views. The church near the summit is worth the climb. If you are going in the afternoon, take a drink with you as the bars tend to close for siesta.

@@ -1,19 +1,10 @@
 ---
-title: "Caltabellotta"
+title: 'Caltabellotta'
 type: location
-latitude: 37.577341
-longitude: 13.216548
+latitude: 37.5773
+longitude: 13.2165
 ---
 
-Travel Guide
+Caltabellotta is one of the highest villages in Sicily, perched on a rugged hilltop near Sciacca on the south coast. The bus ride up from Sciacca winds right up the mountainside and is half the fun. The village itself is crammed onto every available ledge below the crest.
 
-Caltabellotta is a town on a high hill near Sciacca, from where it can be reached by local bus. It is a lovely trip
-as the road winds right up the mountain side from not much above sea
-level. it then winds through the town itself until it emerges just
-below the crest. The crest itself is very rugged but below it not a mm
-of space is wasted.
-
-There is a tunnel to the other side of the
-crest that seems to link two distinct climates, balmy and warm on one
-side, windswept and grey on the other. To the right of the crest there
-is an interesting church.
+There is a tunnel through the ridge that seems to connect two different climates: balmy and warm on one side, windswept and grey on the other. The church near the summit is worth finding, and the views over the rooftops and countryside are superb.

@@ -3,112 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**A Golden Age** by Tahmima Anam is the best place to start. Set in Dhaka in 1971, it follows a widow and her two children through the Bangladesh Liberation War. Beautifully written and grounded in the details of the city, it makes history feel immediate rather than distant.
 
-**Lonely Planet India & Bangladesh '95 Travel Atlas**
+**A History of Bangladesh** by Willem van Schendel is the most readable scholarly history of the country — from the ancient delta civilization through the Mughal period, British colonial rule, partition, and the formation of Bangladesh in 1971. If you want to understand what you are looking at, read this first.
 
+**1971** by Srinath Raghavan examines the Liberation War through the lens of Cold War geopolitics — how India, Pakistan, the United States, China, and the Soviet Union all played a role in the events that created Bangladesh. Essential for understanding why 1971 still matters.
 
+**Banker to the Poor** by Muhammad Yunus tells the story of how Yunus developed the concept of microcredit and founded the Grameen Bank in rural Bangladesh. Whatever you think of the model's later complications, this is a vivid portrait of rural poverty and one man's response to it.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864422709/ref=ase_osingacom?v=glance&s=books)
+**The Hungry Tide** by Amitav Ghosh is set in the Sundarbans — the mangrove delta that straddles the India-Bangladesh border. It is fiction, but it captures the landscape, the tiger, the fishing communities, and the tension between conservation and livelihood better than anything else written about this region.
 
-author: Lonely Planet (Editor),Hugh Finlay
-
-isbn: 0864422709
-
-subject: travel
-
-**Lonely Planet Slowly Down the Ganges**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864426313/ref=ase_osingacom?v=glance&s=books)
-
-author: Eric Newby,Wanda Newby
-
-isbn: 0864426313
-
-subject: travel
-
-**Lonely Planet Bangladesh '96:Travel Survival Kit**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864422962/ref=ase_osingacom?v=glance&s=books)
-
-author: Alex Newton,Jon Murray,Betsy Wagenhauser
-
-isbn: 0864422962
-
-subject: travel
-
-**Traditional Culture and Modern Systems:Administering Primary Education in Bangladesh**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0819195812/ref=ase_osingacom?v=glance&s=books)
-
-author: Muhammad Hedayet Hossain
-
-isbn: 0819195812
-
-subject: culture
-
-**Home Gardening in South Asia:The Complete Handbook**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0915173298/ref=ase_osingacom?v=glance&s=books)
-
-author: Aminuzzaman Talukder
-
-isbn: 0915173298
-
-subject: culture
-
-**Banker to the Poor:Micro-Lending and the Battle against World Poverty**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1891620118/ref=ase_osingacom?v=glance&s=books)
-
-author: Mohammed Yunus,Muhammad Yunus,Alan Jolis
-
-isbn: 1891620118
-
-subject: history
-
-**Betrayal of East Pakistan**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195777271/ref=ase_osingacom?v=glance&s=books)
-
-author: A. A.K. Niazi
-
-isbn: 0195777271
-
-subject: history
-
-**Country Boats of Bangladesh:Social and Economic Development and Decision-Making in Inland Water Transport**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1853390275/ref=ase_osingacom?v=glance&s=books)
-
-author: Eirik G. Jansen,Antony J. Dolman,Alf M. Jerve..
-
-isbn: 1853390275
-
-subject: culture
-
-**A Guide to the Birds of India, Pakistan, Nepal, Bangladesh, Bhutan, SRI Lanka, and the Maldives**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0691006873/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard Grimmett,Carol Inskipp,Tim Inskipp
-
-isbn: 0691006873
-
-subject: history
+**Slowly Down the Ganges** by Eric Newby follows the river from the Himalayas to the Bay of Bengal. The Bangladesh sections are brief, but the book is a classic of travel writing and captures the water-world of the delta with real affection.

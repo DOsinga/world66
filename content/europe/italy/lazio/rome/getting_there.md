@@ -5,14 +5,14 @@ type: section
 
 **By air**
 
-Rome has two airports. **Fiumicino** (Leonardo da Vinci), 30km southwest, handles most scheduled international and domestic flights. The Leonardo Express train runs direct from Fiumicino to Stazione Termini every 15 minutes, taking 32 minutes (€14). Regional trains (cheaper at €8) run the same route with intermediate stops and take a few minutes longer. A licensed taxi from Fiumicino to central Rome is a flat rate of €48.
+Rome has two airports. **Fiumicino (FCO)** — Leonardo da Vinci — is the main international hub, 26km southwest of the city. The fastest way into town is the **Leonardo Express** train to Stazione Termini (€14, 32 minutes, every 15 minutes). The cheaper option is the **FL1 regional train** (€8, 45–60 minutes) which stops at Trastevere, Ostiense, Tuscolana, and Tiburtina — useful if you're not staying near Termini. Taxis from Fiumicino to the city centre are a fixed €50.
 
-**Ciampino** airport, 15km southeast, is used mainly by Ryanair and other budget carriers. Shuttle buses run to Termini (approx €6, 45 min). Taxis charge a flat rate of €30 to central Rome.
+**Ciampino (CIA)** is used by Ryanair and some charter operators, 20km southeast. There is no rail link — the standard option is a **Terravision or SIT shuttle bus** to Termini (€6, ~45 minutes). Taxis are a fixed €31 to the city centre.
 
 **By train**
 
-Stazione Termini is Rome's main rail hub, well connected to all major Italian cities. High-speed Frecciarossa trains link Rome to Florence (1h 30min), Milan (3h), Naples (1h 10min), and Venice (3h 45min). Book through Trenitalia or Italo in advance for the best fares.
+Rome's main station is **Stazione Termini**, on the eastern edge of the historic centre. High-speed Frecciarossa and Italo services connect Rome to **Florence** (1h 20min), **Milan** (3h), **Naples** (1h 10min), and **Venice** (3h 45min). Book in advance on trenitalia.com or italotreno.it — early fares can be well under half the walk-up price. Tiburtina station handles some long-distance and overnight trains.
 
 **By car**
 
-Four motorways feed into the Grande Raccordo Anulare (GRA), Rome's ring road: A1 from the north (Florence, Milan) and south (Naples), A24 from the northeast, and A12 from Fiumicino. Driving into central Rome is impractical — the ZTL (limited traffic zones) cover most of the historic centre and foreign-registered cars are automatically fined by cameras. Use a park-and-ride on the outskirts.
+Four motorways feed into Rome's ring road (the Grande Raccordo Anulare): the A1 from Florence and Milan to the north, the A1 from Naples to the south, the A24 from the northeast, and the A12 from Fiumicino to the west. Driving into the historic centre is restricted by a **ZTL (Zona a Traffico Limitato)** — cameras enforce the zone automatically and fines are sent to your home address. If your hotel is inside the ZTL, the hotel can register your plate to exempt you for the duration of your stay; ask when you book.

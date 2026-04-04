@@ -3,20 +3,24 @@ title: "Getting There"
 type: section
 ---
 
-**Air**
+## By Air
 
-The national airline is Kyrgyzstan Airlines (K2). It offers a weekly connection from Istanbul. The airport is subject to fuel shortages and is periodically shut. When it is open, connections from Europe and the USA are via Moscow or Almaty (see *Kazakhstan* section). There are direct flights to Bishkek from Hannover and Stuttgart. Discussions are underway to open direct flights to India and Pakistan. Other airlines serving Kyrgyzstan include *Siberia Airlines * *Uzbekistan Airways* and *Azerbaijan Hava Yollary.*
+Most international flights arrive at Manas International Airport, about 25 kilometers north of [Bishkek](/asia/kyrgyzstan/bishkek). Turkish Airlines and Pegasus fly direct from Istanbul, and there are regular connections through Moscow on Aeroflot and other Russian carriers. Smaller airlines including Air Manas, Avia Traffic and Asman Airlines connect Bishkek with cities across Central Asia and beyond.
 
-Another option which may be available is to fly into Almaty via * KLM (Royal Dutch) Airlines * and take their limosine bus service directly to Bishkek. At the time when I used it, this was a free service by KLM.
+[Osh](/asia/kyrgyzstan/osh) has a smaller international airport with limited connections, mainly to Russia and some domestic routes.
 
-**Rail**
+If you are coming from Europe or North America, Istanbul is the most convenient hub. Flights from Istanbul take about four hours. Flying via Almaty in neighboring Kazakhstan is another option, particularly if you are combining the two countries.
 
-There are rail connections with the Russian Federation (the journey to Moscow takes three days) and with the other Central Asian republics. There are some plans to build a railway straight over the Tian Shan into Kashgar, but this might as well be wishful thinking of Chinese engineers. On the other hand, they did build the Korakoram highway, so you never know...
+## By Land
 
- **Bus**
+**From Kazakhstan:** The main crossing is at Korday, on the road between Almaty and [Bishkek](/asia/kyrgyzstan/bishkek). Shared taxis and buses make the run in three to four hours. There are additional crossings in the south and east of the country.
 
- The main international road links are with Kazakhstan and Uzbekistan, and there are also two crossing points into China.
+**From Uzbekistan:** Buses run between Tashkent and Bishkek (10-12 hours), crossing through Kazakh territory en route. In the south, you can cross between the Fergana Valley and [Osh](/asia/kyrgyzstan/osh).
 
- There are regular Bus links from Bishkek to Tashkent (10-12 hours) and Almaty (4 hours); use the long-distance (*zapadni*) bus station in Bishkek. Note that the bus to Tashkent uses actually crosses into Kazakhstan, but a separate visa is not needed (though this may be subject to change in the future). There is a direct service to Osh from Tashkent via the Fergana Valley
+**From Tajikistan:** Border crossings between Kyrgyzstan and Tajikistan reopened in 2025 after a bilateral agreement settled longstanding border disputes. Crossings are now possible in the Batken region in the south.
 
- Crossing into China can be done, but only over the Torugart pass and needs some planning ahead. See the seperate Torugart location for details.
+**From China:** The Torugart and Irkeshtam passes connect Kyrgyzstan with Kashgar in China's Xinjiang region. Both require advance planning. The Torugart pass is the more established route but has strict regulations about crossing independently; most travelers use a local travel agency to arrange transport and permits. The Irkeshtam pass is somewhat more straightforward.
+
+## Visas
+
+Kyrgyzstan has the most liberal visa policy in Central Asia. Citizens of the EU, US, UK, Canada, Australia, Japan, South Korea and many other countries can enter visa-free for up to 60 days. The Sapar visa, introduced in 2025, streamlined the process for longer stays up to 90 days. If you need a visa, e-visas are available online and cost around $60.

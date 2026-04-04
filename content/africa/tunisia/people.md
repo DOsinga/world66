@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 9 380 404 (July 1998 est.)
+Tunisia has around 12 million people -- a population that is in practice a long mix of Berber, Arab, Phoenician, Roman and Ottoman influences. Official categories describe Tunisians as overwhelmingly Arab, but genetic and cultural evidence suggests most Tunisians have deep Amazigh (Berber) ancestry that centuries of Arabisation have overlaid. The Berber language (Tamazight) is still spoken in a handful of southern villages -- including Chenini, [Matmata](/africa/tunisia/matmata) and parts of [Jerba](/africa/tunisia/jerba) -- but is not officially recognised.
 
-**Age structure:**
+About 98% of the population is Muslim. Tunisia has always been a relatively moderate version of Islam: alcohol is legally sold, women have had the right to divorce since 1956, and polygamy was banned at independence. The country's Jewish community -- one of the oldest in the world -- is centred on [Jerba](/africa/tunisia/jerba), where the El Ghriba synagogue draws pilgrims from across the diaspora every spring.
 
-*0-14 years:* 32% (male 1 526 743; female 1 433 503)
+The 2011 revolution (the first of the Arab Spring uprisings) toppled President Ben Ali after 23 years in power. Tunisia went on to produce a functioning democratic constitution in 2014, though subsequent years have seen the drift back toward more concentrated executive power. Regardless of the politics, Tunisians you meet tend to be proud of their country's relative stability and open culture compared to regional neighbours.
 
-*15-64 years:* 63% (male 2 933 487; female 2 947 189)
-
-*65 years and over:* 5% (male 275 411; female 264 071) (July 1998 est.)
-
-**Population growth rate:** 1.43% (1998 est.)
-
-**Birth rate:** 20.07 births/1 000 population (1998 est.)
-
-**Death rate:** 5.06 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.73 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.08 male(s)/female
-
-*under 15 years:* 1.07 male(s)/female
-
-*15-64 years:* 1 male(s)/female
-
-*65 years and over:* 1.04 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 32.64 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 73.1 years
-
-*male:* 71.72 years
-
-*female:* 74.58 years (1998 est.)
-
-**Total fertility rate:** 2.44 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Tunisian(s)
-
-*adjective:* Tunisian
-
-**Ethnic groups:** Arab 98% European 1% Jewish and other 1%
-
-**Religions:** Muslim 98% Christian 1% Jewish and other 1%
-
-**Languages:** Arabic (official and one of the languages of commerce) French (commerce)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 66.7%
-
-*male:* 78.6%
-
-*female:* 54.6% (1995 est.)
+Arabic is the official language, with Tunisian Arabic (Darija) the everyday spoken form -- distinct enough from Egyptian or Levantine Arabic that speakers from elsewhere sometimes struggle. French is a genuine second language, used in business, education and government, and understood almost universally. In tourist areas English is increasingly common, but French remains far more useful outside the main resorts.

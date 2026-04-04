@@ -3,12 +3,16 @@ title: "Limon"
 type: location
 ---
 
-Puerto Limon is the country's most important port. It was built on the site of an old Indian village called Cariari. At this place actually Colombos landed on his last voyage to this continent.Many travelers bypass Limón completely the beaches to the south beckon, after all but the city deserves a look. Christopher Columbus first set foot here in 1502. You can, too Most of the habitants of the city are black. Visitors should see the palm promenade and tropical flowers of the Parque Vargas. As you are in the Caribbean you should take part in Limon's nightlife, but beware of strolling around alone at night. 
+Limón province covers the entire Caribbean coast of Costa Rica, from the Nicaraguan border in the north to the Panamanian border in the south. It has a distinct character from the rest of the country — Afro-Caribbean culture, English Creole spoken alongside Spanish, reggae and calypso, coconut-based cooking, and a slower pace.
 
- Limon is also a good base to to some interesting trips to some of Costa Rica's natural parks. Visit the Cahuita National Park & Puerto Viejo, the Gandoca Manzanillo Wildlife Refuge. If you are into sports go biking or snorkeling in Punta Uva Hitoy-Cerere Biological Reserve.
+Puerto Limón, the provincial capital and main port, is where Christopher Columbus landed in 1502. Many travelers pass through on their way to the beaches south of the city. It's worth a stop: the Parque Vargas has fine tropical plantings, and the city comes alive in October during Carnival (see [Festivals](/northamerica/costarica/festivals)).
 
- All in all, many travelers bypass Limón completely the beaches to the south, but the city deserves a look.    
+South of Limón city, the coast runs through Cahuita, Puerto Viejo, Manzanillo, and the Gandoca-Manzanillo wildlife refuge before reaching the Panamanian border. This stretch has some of the best beaches and most relaxed towns in Costa Rica.
 
-## Destinations in Limon
+North of Limón, the Tortuguero canals cut through jungle lowlands to one of the world's most important sea turtle nesting sites.
 
-[Cahuita](/northamerica/costarica/limon/cahuita)
+## Destinations in Limón
+
+[Cahuita](/northamerica/costarica/cahuita)
+
+[Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_ta)

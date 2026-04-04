@@ -1,8 +1,8 @@
 ---
-title: "Cairo"
-type: location
 latitude: 30.044388
 longitude: 31.235726
+title: Cairo
+type: location
 ---
 
 Cairo is not a beautiful city in any conventional sense — it is too large, too chaotic, too loud for that. With somewhere between 15 and 20 million people depending on where you draw the boundaries, it is Africa's largest city and the Arab world's cultural capital, and it operates at a volume and density that takes a few days to adjust to. But it is one of the most compelling cities on earth to explore, and the rewards for sticking with it are extraordinary.

@@ -3,66 +3,18 @@ title: "People"
 type: section
 ---
 
-**Population:** 3 421 775 (July 1998 est.)
+Armenia's population is around 3 million, though emigration — long a feature of Armenian life — means the true figure is hard to pin down. The diaspora is enormous: estimates suggest 7–10 million Armenians live outside the country, concentrated in Russia, the USA, France, and Lebanon. The relationship between Armenia and its diaspora is close, sometimes tense, and constantly negotiated.
 
-**Age structure:**
+Around 98% of the population is ethnically Armenian. The largest minority groups are Yezidis (a Kurdish-speaking religious minority, concentrated in the Aragatsotn and Ararat regions) and Russians. Following the 2023 events in Nagorno-Karabakh, over 100,000 ethnic Armenians from that region relocated to Armenia, adding to the population but also to social and economic pressure.
 
-*0-14 years:* 26% (male 460 191; female 441 906)
+**Religion**
 
-*15-64 years:* 65% (male 1 092 652; female 1 139 916)
+The Armenian Apostolic Church is the national church and the world's oldest state church, established in 301 AD. Around 94% of Armenians identify with it. The church has its own liturgy, calendar, and distinctive architecture — the cross-dome church with a conical spire is one of the defining images of the country. [Echmiadzin](/europe/armenia/echmiadzin), the seat of the Catholicos (the church's spiritual leader), functions as a kind of religious capital.
 
-*65 years and over:* 9% (male 119 464; female 167 646) (July 1998 est.)
+Religion is woven into everyday life and national identity. Animal sacrifice (matagh) is still practised at some churches on feast days and Sundays.
 
-**Population growth rate:** -0.36% (1998 est.)
+**Character**
 
-**Birth rate:** 13.52 births/1 000 population (1998 est.)
+Armenians are proud of their history, resilient in the face of adversity, and generally warm to visitors. Hospitality is taken seriously — being invited for food or drink is common, and refusing is considered impolite. The 1915 Genocide, in which an estimated 1–1.5 million Armenians were killed by Ottoman forces, shapes national consciousness profoundly; awareness of this is part of understanding the country.
 
-**Death rate:** 8.82 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -8.29 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.95 male(s)/female
-
-*65 years and over:* 0.71 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 40.77 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 66.73 years
-
-*male:* 62.45 years
-
-*female:* 71.23 years (1998 est.)
-
-**Total fertility rate:** 1.69 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Armenian(s)
-
-*adjective:* Armenian
-
-**Ethnic groups:** Armenian 93% Azeri 3% Russian 2% other (mostly Yezidi Kurds) 2% (1989)
-
-*note:* as of the end of 1993 virtually all Azeris had emigrated from Armenia
-
-**Religions:** Armenian Orthodox 94%
-
-**Languages:** Armenian 96% Russian 2% other 2%
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99%
-
-*male:* 99%
-
-*female:* 98% (1989 est.)
+Yerevan has a cosmopolitan, educated urban culture quite different from the more traditional countryside. The café scene is genuine, the restaurants are good, and there is a lively arts and music scene. Outside the capital, life moves more slowly and Russian is more useful than English.

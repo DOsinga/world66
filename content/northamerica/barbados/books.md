@@ -3,124 +3,14 @@ title: "Books"
 type: section
 ---
 
-Review and purchase books about Barbados
+**In the Castle of My Skin** by George Lamming (1953) is the essential Barbadian novel — a semi-autobiographical coming-of-age story set in a rural village in the 1930s and 40s, tracing the end of colonial Barbados through a boy's eyes. It remains one of the great Caribbean novels in English.
 
-**all**
+**The Pleasures of Exile** by George Lamming (1960) is part essay, part memoir, part literary criticism, and entirely worth reading if you want to understand how Barbadians and other Caribbean writers think about colonialism, language, and identity. Dense but rewarding.
 
-**THE CLIFF - Recipes by Paul Owens**
+**Barbadian Popular Music and the Politics of Caribbean Culture** by Curwen Best examines Barbadian music culture from tuk to calypso to soca — the first academic work devoted exclusively to the subject. Useful background if you're attending Crop Over.
 
-**** One of the best selling books in Barbados for the last 3 years. Superb recipes from the preferred restaurant of celebrities in Barbados, all presented in a simple to follow format.*** 
+**Parish behind God's Back: The Changing Culture of Rural Barbados** by George and Sharon Gmelch is an anthropological study of a rural Barbadian village, updated across several decades. It gives a grounded picture of how life has changed (and what hasn't) away from the tourist coast.
 
-The Cliff Restaurant in Barbados enjoys a first rate reputation in many parts of th [more..](/northamerica/barbados/books/the_cliff__recipe_1)
+**Natural Rebels: A Social History of Enslaved Black Women in Barbados** by Hilary McD. Beckles is a landmark work of Caribbean history, recovering the specific experiences of enslaved women in the plantation economy. The history of slavery is inescapable in Barbados — this book is one of the better ways to engage with it seriously.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/976-8078-97-9/ref=ase_osingacom?v=glance&s=books)
-
-isbn: 976-8078-97-9
-
-author: Miller Publishing Company
-
-**THE CLIFF - Recipes by Paul Owens**
-
-**** One of the best selling books in Barbados for the last 3 years. Superb recipes from the preferred restaurant of celebrities in Barbados, all presented in a simple to follow format.***
-
-The Cliff Restaurant in Barbados enjoys a first rate reputation in many parts of the [more..](/northamerica/barbados/books/the_cliff__recipe)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/976-8078-97-9/ref=ase_osingacom?v=glance&s=books)
-
-isbn: 976-8078-97-9
-
-author: Miller Publishing Company
-
-**Barbadian Popular Music and the Politics of Caribbean Culture**
-
-This work is the first academic book devoted exclusively to the study of Barbadian popular music and music culture. It examines a number of musical styles and phenomena including tuk, spouge, folk, calypso, soca, ringbang, gospel and dancehall/dub.
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0870471112/ref=ase_osingacom?v=glance&s=books)
-
-author: Curwen Best
-
-isbn: 0870471112
-
-subject: culture
-
-**Frommer's Jamaica & Barbados**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028622650/ref=ase_osingacom?v=glance&s=books)
-
-author: Darwin Porter,Danforth Prince
-
-isbn: 0028622650
-
-subject: travel
-
-**Fodor's Pocket Barbados:The Best of the Island with Great Beaches and Local Shopping**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679035206/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodors Travel
-
-isbn: 0679035206
-
-subject: travel
-
-**The Adventure Guide to Barbados**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1556507070/ref=ase_osingacom?v=glance&s=books)
-
-author: Harry S. Pariser
-
-isbn: 1556507070
-
-subject: travel
-
-**Parish behind God's Back:The Changing Culture of Rural Barbados**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0472066269/ref=ase_osingacom?v=glance&s=books)
-
-author: George Gmelch,Sharon B. Gmelch
-
-isbn: 0472066269
-
-subject: culture
-
-**Fodor's Pocket Barbados:The Best of the Island with Great Beaches and Local Shopping**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679035206/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodors Travel
-
-isbn: 0679035206
-
-subject: history
-
-**Natural Rebels :A Social History of Enslaved Black Women in Barbados**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0813515114/ref=ase_osingacom?v=glance&s=books)
-
-author: Hilary McD. Beckles
-
-isbn: 0813515114
-
-subject: history
-
-**Rough Guide to Barbados**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858283280/ref=ase_osingacom?v=glance&s=books)
-
-author: Adam Vaitilingham
-
-isbn: 1858283280
-
-subject: history
+For practical travel, the **Rough Guide to Barbados** remains a solid reference for orientation, beaches, and accommodation.

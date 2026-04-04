@@ -1,19 +1,14 @@
 ---
-title: "Kutch"
+title: 'Kutch'
 type: location
 latitude: 23.583333
 longitude: 70.0
 ---
 
-Gujarat can be divided into three parts, Kutch being one of them. Kutch lies rather isolated from the rest of Gujarat and is divided into two main parts, being Little Rann and Big Rann. The two names are derived from the river Rann that floods large parts of the area during the monsoon. The good thing about this is that it attracts a lot of special waterbirds. The Shivrati festival is quite famous because of its folk dances, live music and markets. 
+Kutch is Gujarat's most distinctive region, a vast semi-arid landscape that feels more like Rajasthan or even the Middle East than the rest of Gujarat. The Great Rann and Little Rann are enormous salt marshes that flood during monsoon and dry into blinding white expanses the rest of the year. During the full moon, the white Rann stretching to the horizon under moonlight is one of Gujarat's most magical sights.
 
-The major sea port is [Kandla](/asia/india/gujarat/kutch/kandla) and the two major cities are [Gandhidham](/asia/india/gujarat/kutch/gandidam) and [Bhuj](/asia/india/gujarat/kutch/bhuj). 
+The region is famous for its traditional crafts -- embroidery, block printing, bandhani tie-dye, and lacquer work. The villages around [Bhuj](/asia/india/gujarat/kutch/bhuj) are home to communities of artisans whose work is among the finest in India. The Little Rann is also home to the Indian wild ass, which you can spot on a safari.
 
-In January 2001, Gujarat was hit by a severe earthquake. Except for the natural surroundings, Bhuj vanished. Disappeared into nothingness. Many of its inhabitans were killed and Gujarat will never be the same again, let alone Bhuj.
+In January 2001, a devastating earthquake struck Kutch, destroying much of [Bhuj](/asia/india/gujarat/kutch/bhuj) and killing thousands. The region has rebuilt, but the earthquake remains a defining moment in its recent history.
 
-## Destinations in Kutch
-
-[Bhuj](/asia/india/gujarat/kutch/bhuj)
-[Kandla](/asia/india/gujarat/kutch/kandla)
-[Gandhidham](/asia/india/gujarat/kutch/gandidam)
-[Lakhapur](/asia/india/gujarat/kutch/lakhapur)
+The major port is [Kandla](/asia/india/gujarat/kutch/kandla) and the two main cities are [Gandhidham](/asia/india/gujarat/kutch/gandidam) and [Bhuj](/asia/india/gujarat/kutch/bhuj). Bhuj is the main base for travellers exploring the region.

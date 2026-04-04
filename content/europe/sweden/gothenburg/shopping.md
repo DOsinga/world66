@@ -1,9 +1,9 @@
 ---
-title: "Shopping in Gothenburg"
+title: "Shopping"
 type: section
 ---
 
-**Gothenburg shopping** is all about fun and fashion. Shopping is such an integral part in this Swedish city that there are a series of streets catering to the shopaholics. Read on to find out more about the shopping scene in Gothenburg.
+Gothenburg has excellent shopping, from the massive Nordstan mall to the vintage boutiques and craft shops in the Haga district. The Avenyn is the main commercial artery, but the most interesting finds are often a street or two off it.
 
 **Nordstan**
 

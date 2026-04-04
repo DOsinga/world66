@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Calbayog"
+title: Beaches
 type: section
 ---
 

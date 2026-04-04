@@ -1,12 +1,9 @@
 ---
-title: "Lake Geneva"
+title: 'Lake Geneva'
 type: poi
-address: "Lake Geneva Area Convention & Visitors Bureau, 201 Wrigley Drive, Lake Geneva WI, 53147"
-email: "staff@lakegenevawi.com"
-phone: "262-248-4416"
-url: "www.lakegenevawi.com"
+url: 'www.visitlakegeneva.com'
+latitude: 42.5917
+longitude: -88.4334
 ---
 
-Lake Geneva has always been a favorite weekend getaway for Chicagoans, residents of Indiana, and many cities within Wisconsin's borders such as Milwaukee. At roughly 79 miles from Chicago or around 1-1/2 hour drive from Chicago, visitors from the city can spend a full day at Lake Geneva, and make it address: Lake Geneva Area Convention & Visitors Bureau, 201 Wrigley Drive, Lake Geneva WI, 53147
-
-email: staff@lakegenevawi.com
+A favorite weekend escape for Chicagoans since the Gilded Age, when wealthy families built summer estates along the lakeshore. The drive is about 90 minutes. Take the Geneva Lake Shore Path for a 21-mile walk that circles the entire lake, passing grand old mansions along the way. In summer, rent a boat or take a steamboat cruise. In winter, the area offers cross-country skiing and ice fishing. Downtown Lake Geneva has enough shops and restaurants to fill an afternoon.

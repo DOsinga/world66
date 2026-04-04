@@ -1,18 +1,14 @@
 ---
-title: "When to Go in Qatar"
+title: "When to Go"
 type: section
 ---
 
-The nation of Qatar in the Persian Gulf has spent its energies into modernization. The stereotypical Arabia that some go in search of is nearly lost. Over the past decade the country has attracted a lot of international attention. Tourists are welcomed and westerners allowed to be westerners. However, due to the climate there are certain times of the year that make the decision on Qatar, when to go quite easy.
+Qatar sits in the Arabian Desert, and its climate is shaped by that fact. Summer is extreme; winter is genuinely pleasant.
 
-**Summer**
+**October to April** is the time to go. Temperatures range from around 15°C overnight to the mid-20s in the day in December and January, rising to low 30s by March and April. Evenings in winter can be surprisingly chilly. This is when outdoor life happens — desert trips, coastal walks, the beach. Most cultural events, sports fixtures, and festivals are scheduled in these months.
 
-Unless you like it hot, do not visit Qatar during the summer months. From May to nearly October the temperature averages 35 degrees C or close to 90 degrees F. Also, it isn't uncommon for the mercury to rise above 50 C/120 F. Keep in mind that the humidity can topple 90 percent, making the air heavy, hot and unbearable. Sandstorms are also a common occurrence in the country during the summer months. Fortunately, those who choose to brave the summer heat will find nearly every building is air conditioned.
+**May through September** is hot in ways that reshape daily life. Temperatures regularly exceed 40°C and routinely touch 45°C, with high humidity making it feel worse. Being outside for any length of time during the middle of the day is genuinely dangerous. Everything moves indoors. If you visit in summer, you will spend most of your time in air-conditioned malls, hotels, and museums, which is fine if that is what you want.
 
-**Winter**
+**Ramadan** moves through the calendar year by year (as an Islamic lunar month). During Ramadan, daytime eating and drinking in public is prohibited, many restaurants only open after sunset, and the pace of the city changes. Non-Muslim visitors are welcome, but need to be respectful. The evenings of Ramadan — when the fast breaks at Iftar — are lively and worth experiencing if you are around.
 
-Winter in Qatar is almost like spring in the northern regions of the United States. There are warm days, cool nights and even the occasional rain shower. Throughout December and January the average daily temperature can easily rise to the mid 70s. Nights can be quite chilly but seldom cold.
-
-**Fall and Spring**
-
-The Autumn months from October and November and the spring months of April and May are nice times to visit. The weather is quite warm but not as oppressively hot as in the summer. Mid to high 80s and even the low 90s is common. The nights will still get cool and the occasional cool breeze will bring some relief.
+The **FIFA World Cup was held in November–December 2022**, an unusual schedule chosen specifically to avoid summer heat. Qatar got to use all eight stadiums in agreeable weather, and the infrastructure legacy remains.

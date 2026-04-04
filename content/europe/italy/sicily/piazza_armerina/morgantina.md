@@ -1,12 +1,10 @@
 ---
-title: "Morgantina"
+title: 'Morgantina'
 type: location
-latitude: 42.443815
-longitude: 11.745908
+latitude: 37.4310
+longitude: 14.4790
 ---
 
-Travel Guide
+The archaeological site of Morgantina lies in east-central Sicily, about two kilometres from the modern town of Aidone in the province of Enna. The site covers a two-kilometre ridge called Serra Orlando and a neighbouring hill called Cittadella.
 
-The archaeological site of Morgantina is located in east central Sicily. It is sixty kilometres (forty miles) from the coast of the Ionian Sea, in the province of Enna. The closest modern town is Aidone, two kilometres southwest of the site. The site consists of a two-kilometre long ridge running southwest–northeast, known as Serra Orlando, and a neighboring hill at the northeast called Cittadella. Morgantina was inhabited in several periods. The earliest major settlement was made at Cittadella and lasted from about 1000/900 to about 450 BCE. The other major settlement was located on Serra Orlando, and existed from about 450 BCE to about 50 CE. Morgantina has been the subject of archaeological investigation since the early 20th century.
-
-Serra Orlando was identified as Morgantina by Kenan Erim following the discovery of a number of coins bearing the Latin word HISPANORUM. Erim (in an article in 1958) used these coins and passages from Livy to argue that the city found at Serra Orlando was in fact the ancient city of Morgantina.
+Morgantina was inhabited from around 1000 BCE to about 50 CE and has been the subject of archaeological excavation since the early 20th century. The remains include a well-preserved agora, a theatre, and residential quarters. Many of the finest finds, including the celebrated Venus of Morgantina, are now displayed in the museum at Aidone.

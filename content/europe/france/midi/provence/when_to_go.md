@@ -1,61 +1,19 @@
 ---
-title: "When to Go in Provence"
+title: "When to Go"
 type: section
 ---
 
-**Weather**
-Provence enjoys a temperate
-Mediterranean climate so there is really no time that is a bad time to
-go - at least weatherwise. Winters are mild with only rare episodes of
-freezing temperatures or snow, spring and fall bring frequent
-pleasantly warm days and cool nights. Summer can be very hot and dry.
+Provence enjoys a Mediterranean climate with mild winters, warm springs, and hot, dry summers. There is really no bad time to visit, but the season you choose will shape the experience.
 
-Strong winds, called the Mistral, blow
-down the Rhone River valley from northern Europe bringing refreshing
-breezes on hot summer days but blustery conditions other times of the
-year. The Mistral is largely responsible for the exceptionally sunny
-skies that reign throughout much of the year. In fall, winter, spring
-or even early summer, the Mistral can bring uncharacteristically cold
-weather to Provence especially in the higher elevations to the north.
-Locals report that Mistral winds blow for 3, 6, 9 days - always in
-multiples of three. It can be relentless flinging unsecured windows and
-doors open, pitching roof tiles onto the ground (hence the stones you
-may see on the rooftops of houses and farm buildings), and making it
-difficult to walk or bicycle. During the summer, Mistral winds can
-exacerbate wildfires that regularly devastate the Provençal countryside.
+**The Mistral** is the defining weather feature. This strong wind blows down the Rhone valley from northern Europe, bringing clear skies but sometimes biting cold even in early summer. Locals say it blows in multiples of three days. It can be relentless, flinging open windows and making cycling difficult, but it is also responsible for the extraordinarily sunny skies that Provence is known for.
 
-**Tourist Crowds
+**Summer crowds** are the main reason to consider visiting outside July and August. Provence is the playground for much of northern Europe, and French families clog the roads heading south during those months. Prices peak, restaurant tables are hard to come by, and traffic on the main toll road from Paris can back up for hours. If you can visit in June or September, you will get good weather, lower prices, and far fewer people.
 
-**Provence is the playground for much of
-(dreary and rainy) northern Europe and, because Europeans get several
-weeks of paid vacation, the months of July and August are particularly
-busy. Prices are the highest for everything during these two months;
-tables at restaurants can be hard to come by; tourist attactions and
-tickets for the regions' well-known festivals (the theater festival in
-Avignon or the music festival in Orange) are in great demand. If it is
-at all possible to visit the area in June (before French schools let
-out) or September, do so. The weather is generally good but hotel rooms
-and rental houses are cheaper. The summer months also bring traffic
-jams along not only the regional roads heading to the sea but the large
-arteries carrying families from Paris and other points north. The
-weekend that falls between the months of July and August (or straddles
-those two months) has been known to have traffic backups of 6-8 hours
-on the main toll road from Paris.
+**Events worth timing a trip around:**
 
-**Suggested events**-
-Easter - In Arles, the Easter Feria
-celebrates Provençal culture with bullfights in the Roman amphitheater
-and three days of festivities.
-- Late spring - Shepherds move their
-flocks through Provençal villages to the cooler, more verdant grazing
-grounds of higher elevations during the Transhumance festivals.
-- May 24 and 25 - European gypsies arrive in Saintes-Maries-de-la-Mer for a pilgrimmage.
-- Last weekend in June - In Tarascon, a local festival celebrates a victory against an evil dragon, the Tarasque.
-- September - Wine and olive festivals
-- Mid- to late October - Second gypsy pilgrimmage
-- November-December - Santon fairs
-throughout Provence feature the "little saints," hand-crafted
-characters that represent village people around the Christmas creche.
-
-**Contributors**
-August 31, 2009
+- Easter in Arles brings the Easter Feria, with bullfights in the Roman amphitheatre and three days of festivities
+- Late spring sees the Transhumance, when shepherds move their flocks through villages to higher pastures
+- Late May brings the gypsy pilgrimage to Saintes-Maries-de-la-Mer
+- July sees the famous theatre festival in Avignon and the music festival at the Roman theatre in Orange
+- September and October bring wine and olive harvest festivals throughout the region
+- November and December feature santon fairs across Provence, showcasing the hand-crafted figurines that populate the traditional Christmas creche

@@ -1,50 +1,18 @@
 ---
-title: "Festivals in Saudi Arabia"
+title: "Festivals"
 type: section
 ---
 
-The following is a brief on **Saudi Arabia â€“ When to go**.
-The timing of the year is crucial to the perfect holiday in the Kingdom
-of Saudi Arabia, since the weather can be very hot and during festival
-periods, it can be bursting at its seams with people. Grasping the
-right time to head down for a vacation in Saudi Arabia can be a real
-art, and hereâ€™s how.
+Saudi Arabia's festival calendar has expanded dramatically since the country opened to tourism. Events that would have been unimaginable a decade ago — international music concerts, film festivals, motorsport, comedy shows — now run regularly.
 
-**Climate**
+**Riyadh Season** is the country's biggest entertainment extravaganza, running from October through March across [Riyadh](/asia/saudiarabia/riyadh). It spans hundreds of events: concerts by international and Arab artists, food festivals, sporting events, theatrical shows, and theme parks. It has become one of the largest entertainment seasons in the world by attendance.
 
-The summers of Saudi Arabia are immensely hot, with temperatures
-regularly reaching 50 degrees Celsius/122 degrees F in the summer. Then
-again, the temperature of the place depends greatly on the region that
-you have decided to visit â€“ the central parts of the Kingdom are the
-ones with the scorching hot sun and the desert sand, when summers are
-often the killer periods in the year. The coastal areas, however, rarely
-go above 38 degrees C/100 degrees F, although it can still be very
-warm. However, those choosing to go to the mountainous areas can
-rejoice. Although the sun can be intense in these areas, the temperature
-in the sun rarely goes above 35 degrees C/95 degrees F in the summer,
-and can be much cooler in the shade. Try to avoid the summer, as the
-heat can be a true obstacle to moving around, particularly in the main
-areas such as Riyadh, the capital and its surrounding areas.
+**Jeddah Season** runs concurrently and brings similar events to [Jeddah](/asia/saudiarabia/jeddah), with a stronger emphasis on music and waterfront events. Outdoor concerts on the Corniche are a highlight.
 
-That being said, it is advisable to avoid the winter season as well,
-considering that the desert areas can be bitterly cold. It is not so
-much an issue in the capital areas, but it is an issue in the desert
-areas â€“ and the activities in the desert areas are fully cancelled.
-During this period, the rains in the coastal areas are torrential as
-well, so be sure to avoid those areas in the winter period.
+**AlUla Moments Festival** brings world-class music to the ancient landscape of AlUla, with stages set against Nabataean rock formations. The cool winter months (December–February) are when AlUla is at its most beautiful, and the festival takes advantage of this.
 
-**Festivals**
+**National Day** (September 23) marks the founding of the Kingdom of Saudi Arabia. Expect fireworks, public celebrations, and plenty of green and white everywhere.
 
-The main festival that causes crowding is the Hajj, the Muslim
-pilgrimage that occurs in December. The holy city of Mecca is located in
-Saudi Arabia, so during the few days preceding and after the Hajj
-period, the country is overrun with pilgrims, and the shops are
-generally closed â€“ with hotels operating for pilgrims rather than
-tourists and shops selling festival goods rather than ordinary
-provisions. This is possibly the worst time for a tourist to come, since
-there are no activities, and there is the winter to consider as well.
-That said, it would probably be wise to avoid the month of Ramadan as
-well, during the period in August to September. It is the fasting month,
-and being an entirely Muslim country, Saudi Arabiaâ€™s food industry
-comes to a halt and there is generally nothing much to sample during
-this period.
+**Eid al-Fitr** and **Eid al-Adha** are the two main Islamic holidays, celebrated with family gatherings, feasts, and gifts. Much of the country shuts down for several days around each one. Both follow the lunar calendar and shift approximately 11 days earlier each year.
+
+**Hajj** draws millions of Muslim pilgrims to Mecca and is one of the largest human gatherings on earth. Non-Muslim visitors cannot attend, and the practical effect is country-wide strain on transport and accommodation during Hajj week.

@@ -3,31 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-There are a lot of options to get to Coroico from La Paz:
+Most travellers come from [La Paz](/southamerica/bolivia/lapaz), about three hours away. The options range from cheap and safe to spectacular and terrifying.
 
-* You can take the **bus **on the safe new road. 3 hours, US$ 2.
-* You can take a **taxi **on the old or the new road. 2 to 4 hours, US$ 50.
-* Do one of the most spectacular **bikerides **in the world. US$ 35 to 80.
-* Walk down a well preserved **Incatrail**. 3 or 1,5 days.
-* Walk along the **former train track **through the cloud forest. 2 days.
-**
-**There also is a daily bus from Rurrenabaque.**
+**By bus.** Four minibus companies run from Villa Fatima in La Paz to Coroico, departing when full between 8am and 5:30pm. The fare is around Bs 15 (US$2). All buses now take the paved new road, so the ride is straightforward if not exactly comfortable for tall people. In La Paz, take a cab or city bus to Villa Fatima and ask for "donde salen los minibuses a Coroico."
 
-Going with the bus**
-Four companies offer transport service from [La Paz](/southamerica/bolivia/lapaz) to Coroico. They generally use minibuses, which are not all too comfortable for large people. Sometimes you might find a somewhat bigger bus.
-Buses from the three companies leave when full in Villa Fatima, a La Paz neighbourhood. Take a cab or any city bus that says “Villa Fatima”, and ask for drop of at “Donde salen los minibuses a Coroico”.
-All buses now take the new road (road number 1 on the map), which is paved all the way to Yolosita. The ride to Coroico need not be scary.
-Buses leave when full from 8 a.m. to 5.30 p.m. and cost Bs. 15 (US$ 2).
+**By taxi.** Coroico taxi drivers charge around US$50 (Bs 400) for the trip from La Paz. Contact a hotel in Coroico to arrange one.
 
-Palmeras; Villa Fátima- C. Sagárnaga 2214009- 2895507
-Totaí; Villa Fátima- Plaza Principal 2216592- 71502894
-Yungueña; Villa Fátima- Plaza Principal 2213513 -2895513
-Trans Totaí; Villa Fátima- Plaza principal 2211616-71907791
+**By bicycle.** The most famous way to arrive. Agencies in La Paz drive you up to La Cumbre at 4,700 metres, then you descend by bike through the clouds and into the jungle. The better-known agencies are Gravity (on the Prado) and Downhill Madness (Sagarnaga Street), charging US$50-70. Budget agencies on Sagarnaga start at US$35. Service usually includes breakfast, transport to the start, lunch in Coroico, and a ride back.
 
-**Taxi**
-It’s a small chance a La Paz taxista will want to take you to Coroico (for a good price). Coroico taxi drivers charge US$ 50 (Bs. 400) for the service. Contact a hotel in Coroico for practical information.
+**On foot.** Two spectacular multi-day treks end near Coroico: the well-preserved Inca trail (1.5 to 3 days) and the old train track route through cloudforest (2 days).
 
-**Bicycles**
-The most popular way to get to Coroico is by bicycle. Several agencies offer the trip. First you drive up to la Cumbre (4700 meters a.s.l.). From the freezing cold you descend on asphalt until Chuspipata. After descending 1700 meters at 50 kmph, you enter the jungle. Basically, the one way dirt road (number 2 on the map) now only serves bicycle traffic. Don’t worry about it not being exciting enough though: every mistake might get punished by a 500 meter fall down the roadside cliff.
-
-The most highly rated agencies are Gravity (on the Prado) and Downhill Madness (on the Sagarnaga Street). They charge 50 to 70 US$ depending on the bike. In the Sagarnaga Street a lot of cheaper agencies can be found (from US$ 35). For a more individual experience, go with the Coroico agency (see Services – Bicycles of this file). Service generally includes breakfast, the minibus to La Cumbre, snack, lunch in a hotel in Coroico and transport
+**From Rurrenabaque.** There is a daily bus connection.

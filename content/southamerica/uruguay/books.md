@@ -3,66 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Open Veins of Latin America** by Eduardo Galeano — Galeano was Uruguayan and this is his most famous work: a polemic history of Latin America's exploitation by colonial and imperial powers. Essential background reading for the region, and a window into the political culture that shaped Uruguay's progressive politics.
 
-**Lonely Planet Argentina, Uruguay & Paraguay**
+**Memory of Fire** (trilogy) by Eduardo Galeano — A more personal and literary work, blending history, myth, and fiction to retell the story of the Americas from pre-conquest to the 20th century.
 
+**Voices of Time** by Eduardo Galeano — Short pieces on Latin American politics and culture, accessible and beautifully written.
 
+**The Soccer War** by Ryszard Kapuściński — Includes an account of the 1966 World Cup in Uruguay among its dispatches on conflict and politics in Latin America.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423365/ref=ase_osingacom?v=glance&s=books)
-
-author: Wayne Bernhardson,Maria Massolo (Photographer..
-
-isbn: 0864423365
-
-subject: travel
-
-**Teatro Uruguayo Contemporaneo**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/8437503191/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/1571310231/ref=ase_osingacom?v=glance&s=books)
-
-author: Tessa Bridal
-
-isbn: 1571310231
-
-subject: history
-
-**A Miracle, A Universe:Settling Accounts with Torturers**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0226893944/ref=ase_osingacom?v=glance&s=books)
-
-author: Lawrence Weschler,Lawrence Wechler
-
-isbn: 0226893944
-
-subject: history
-
-**Uruguay**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0516026070/ref=ase_osingacom?v=glance&s=books)
-
-author: Marion Morrison
-
-isbn: 0516026070
-
-subject: travel
-
-**Repression, Exile, and Democracy:Uruguayan Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0822312689/ref=ase_osingacom?v=glance&s=books)
-
-author: SaGul Sosnowski,Louise B. Popkin (Editor)
-
-isbn: 0822312689
-
-subject: culture
+**A Miracle, A Universe: Settling Accounts with Torturers** by Lawrence Weschler — Documents the human rights abuses under Uruguay's military dictatorship (1973–1985) and the fraught process of reconciliation that followed. Illuminating for understanding modern Uruguayan politics.

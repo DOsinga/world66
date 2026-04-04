@@ -1,31 +1,12 @@
 ---
-title: "Marion"
+title: 'Marion'
 type: location
-latitude: 32.793166
-longitude: -94.344488
+latitude: 35.684167
+longitude: -82.009167
 ---
 
-Travel Guide
+Marion is the county seat of [McDowell County](/northamerica/unitedstates/northcarolina/mcdowell_county) in the North Carolina mountains, sitting between Lake Lure and [Asheville](/northamerica/unitedstates/northcarolina/asheville) on the edge of the Pisgah National Forest.
 
-In Marion, Main Street offers bookstores, antiques,
-auctions and the McDowell County Arts
-Council for crafts and evening community theater. Whatever you do, don’t miss the art for sale at
-Creative Framing adjacent to the Crooked Door Coffee House (upstairs
-near the pavilion). Wine Ruels offers an upscale and delicious menu, wines, and a full
-bar. A gourmet treat! Jazz or blues performances are seasonal on
-the weekends. Carolina Chocolatiers is another great lunch spot serving lunch
-sandwiches, specials or salads and wine.
-Bruce’s Fabulous Foods on Main Street is the
-home of 101 cheesecakes—try the key lime variety!
+Main Street is the center of town life, with bookstores, antiques shops, and the **McDowell County Arts Council** for local crafts and community theater. **Wine Ruels** serves an upscale menu with wines and a full bar, with jazz or blues performances on seasonal weekends. **Carolina Chocolatiers** is a good lunch spot, and **Bruce's Fabulous Foods** is home to 101 varieties of cheesecake -- the key lime is the one to try.
 
-In Pleasant
-Gardens, half-way between Old Fort and
-Marion, Eco Cove House is a vacation
-rental located on a 117 acre wildlife preserve adjacent to the Pisgah National
-Forest. Turkey, water fowl, songbirds,
-fox, deer, and bears visit at various times of the year and koi swim in an acre
-pond. Nearby, Little Sienna, is a wonderful Italian
-restaurant. It also sports a daily and
-evening buffet. Brown bagging is
-allowed, so don’t forget your favorite bottle of vino to compliment your
-meal!
+In Pleasant Gardens, halfway between [Old Fort](/northamerica/unitedstates/northcarolina/old_fort) and Marion, **Little Sienna** is a well-regarded Italian restaurant with a daily buffet. Brown-bagging is allowed, so bring your own wine.

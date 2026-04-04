@@ -3,112 +3,28 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## Fiction
 
-**Lonely Planet Argentina, Uruguay & Paraguay**
+**Ficciones** by Jorge Luis Borges — The essential Argentine book. Short stories that blend philosophy, mathematics, and imagination into something entirely new. Borges spent most of his life in Buenos Aires, and his labyrinthine Buenos Aires is still recognizable.
 
+**The Aleph** by Jorge Luis Borges — Another essential Borges collection, with the title story set in a house in Buenos Aires's San Telmo neighborhood.
 
+**Santa Evita** by Tomás Eloy Martínez — A novel built around the strange afterlife of Eva Perón's embalmed body. Obsessive and brilliant.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423365/ref=ase_osingacom?v=glance&s=books)
+**Kiss of the Spider Woman** by Manuel Puig — Two men in a Buenos Aires prison, one of them a gay man who recounts old films to pass the time. A masterpiece of Latin American literature.
 
-author: Wayne Bernhardson,Maria Massolo (Photographer..
+**The Tango Singer** by Tomás Eloy Martínez — A New York student comes to Buenos Aires searching for a legendary tango singer. As much a portrait of the city as a novel.
 
-isbn: 0864423365
+## Non-fiction & history
 
-subject: travel
+**In Patagonia** by Bruce Chatwin — The book that put Patagonia on the literary map. Eccentric, literary, and not entirely reliable, but wonderful.
 
-**Insight Argentina**
+**The Motorcycle Diaries** by Ernesto Che Guevara — Guevara's journal of the 1952 road trip he took as a young medical student through South America, including Argentina.
 
+**On Argentina** by Jorge Luis Borges — Essays, poems, and stories through which Borges explored his homeland. A valuable companion for anyone visiting Buenos Aires.
 
+## Tango
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887296068/ref=ase_osingacom?v=glance&s=books)
+**Tango: The Art History of Love** by Robert Farris Thompson — A wide-ranging cultural history of tango from its origins to the present.
 
-author: Insight Publications
-
-isbn: 0887296068
-
-subject: travel
-
-**Buenos Aires Alive and the Best of Argentina**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1556506805/ref=ase_osingacom?v=glance&s=books)
-
-author: Arnold Greenburg
-
-isbn: 1556506805
-
-subject: travel
-
-**Tango:The Dance, the Song, the Story**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0500279799/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard Martin,Artemis Cooper,Maria Susana Az..
-
-isbn: 0500279799
-
-subject: culture
-
-**Paper Tangos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0822321912/ref=ase_osingacom?v=glance&s=books)
-
-author: Julie M. Taylor,J. M. Taylor
-
-isbn: 0822321912
-
-subject: culture
-
-**Tango and the Political Economy of Passion**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0813316383/ref=ase_osingacom?v=glance&s=books)
-
-author: Marta E. Savigliano
-
-isbn: 0813316383
-
-subject: culture
-
-**Blood and Honor**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0515121940/ref=ase_osingacom?v=glance&s=books)
-
-author: W.E.B. Griffin
-
-isbn: 0515121940
-
-subject: history
-
-**Tango:The Dance, the Song, the Story**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0500279799/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard Martin,Artemis Cooper,Maria Susana Az..
-
-isbn: 0500279799
-
-subject: history
-
-**Argentina, 1516-1987:From Spanish Colonization to Alfonsin**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0520061780/ref=ase_osingacom?v=glance&s=books)
-
-author: David Rock
-
-isbn: 0520061780
-
-subject: history
+**Paper Tangos** by Julie Taylor — An anthropologist's memoir of learning tango in Buenos Aires, with sharp observations about Argentine gender relations and politics.

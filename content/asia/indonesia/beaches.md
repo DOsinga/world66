@@ -1,31 +1,20 @@
 ---
-title: "Beaches in Indonesia"
+title: "Beaches"
 type: section
 ---
 
-Indonesia forms the second longest shoreline in the world, second only to Canada. Because of this, it has many beautiful beaches. **Indonesia Beaches** have clear warm water, pine and coconut trees lining the sand, and lovely marine life. Bali especially is the home to many great beaches, as are Java and many other islands.
+Indonesia has tens of thousands of kilometres of coastline and beaches ranging from the famous and crowded to the genuinely deserted. A few worth knowing about:
 
-**Bali Beaches**
+**Bali** has the most visited beaches in the country. Kuta is the original surf beach, now wall-to-wall with bars and surf schools — fun if you want action, relentless if you don't. Seminyak and Canggu have displaced Kuta somewhat for the older set. Nusa Dua is calmer and more family-oriented. Padang Padang and Balangan on the Bukit Peninsula are quieter, with excellent surf. The beach at Amed on Bali's east coast is black volcanic sand, excellent for snorkelling.
 
-Bali has the most stunning and popular beaches in [Indonesia](/asia/indonesia/day_trips). Lovina Beach is an exotic place with activities like scuba diving, snorkeling and sailing. This beach has very lively nightlife. Sanur Beach is the most visited beach in Indonesia because of its stunning natural beauty. One side of the beach has rocky cliffs, and the other side is flanked by coconut and pine trees. The water is pure aqua blue, and has marine life such as sharks, dolphins, turtles, and moray eels.
+**The Gili Islands** (off northwest [Lombok](/asia/indonesia/lombok)) — Gili Trawangan, Gili Air, and Gili Meno — are three small coral-ringed islands with white sand, turquoise water, and no motorised vehicles. Gili T is the party island; Gili Meno is quiet and suitable for couples. All three have good snorkelling and diving with sea turtles.
 
-Dreamland Beach offers many watersports and recreational activities, and is one of the most popular beaches in Bali for diving and surfing. There are also camping facilities on the beach. Jimbaran Beach is the ideal white sandy beach. This natural beach has some very good resorts, equipped with almost all types of recreational and watersports activities. Gentle tides make Jimbaran Beach a great place for swimming.
+**Lombok** has [Bali](/asia/indonesia/bali)'s beaches without Bali's crowds. Kuta Lombok (different from Kuta Bali) is a good base for some excellent surf breaks on the south coast. Selong Belanak is a wide, calm bay ideal for beginners.
 
-Pasir Putih Beach, a wide, white sand beach, is less developed than the others. Its serene shoreline is flanked by tall palm and bamboo trees.
+**Sumba** has a long stretch of coastline that remains largely undeveloped. Nihiwatu (now branded Nihi Sumba) has been called the world's best hotel and sits on one of the best left-hand waves in Indonesia. The beach at Tarimbang in East Sumba is remote and excellent.
 
-**Java Beaches**
+**The Banda Islands** in [Maluku](/asia/indonesia/maluku) have beaches that see almost no visitors — perfect white sand and water so clear that snorkelling is like floating in an aquarium. The journey is long, but the isolation is the point.
 
-East Java has some wonderful beaches to offer. Rapang Beach is one of them. This pristine, white sandy beach is a treat for the eye. The horseshoe-shaped coastline is very developed in terms of facilities, and features villas, resorts, restaurants, and bars for tourists to enjoy. Scuba diving, snorkeling and surfing are also available on the beach.
+**Tanjung Kelayang** on [Belitung](/asia/indonesia/belitung) is a beach backed by huge granite boulders, with small uninhabited offshore islands accessible by local fishing boat. Still relatively unknown.
 
-Grajagan Beach, located around 50 kilometers from Jakarta, is an exotic beach surrounded by lovely mangrove trees and teak forest. A small fishing village on the beach adds an extra dimension to the beauty of the beach. Within a few kilometers of the beach, there are some very beautiful lakes, which are also major attractions for tourists.
-
-**Sumatra Beaches**
-
-Sumatra's west coast does not have many beaches, but its east coast does. Palau Bintan is a small island that preserves its natural beauty by not offering many modern amenities. The beach gives you absolute peace of mind, serving as an escape from hectic city life.
-
-**Other Beaches**
-
-Lombak has a nice beach named Kuta Beach, which is very good for surfing. Bira Beach in Sulawesi looks different than other Indonesia beaches, and has several hundred lovely wooden houses lined up along the beach. The vegetation in this area is still untouched.
-
-**Contributors**
-April 06, 2010
+The south coast of Java — from Pelabuhan Ratu to the national parks of the far east — has powerful surf and dramatic cliffs. These are not swimming beaches, but they are beautiful and wild.

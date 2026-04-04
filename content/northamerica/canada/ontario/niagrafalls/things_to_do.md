@@ -1,10 +1,6 @@
 ---
-title: "Things to do in Niagara falls"
+title: "Things to Do"
 type: section
-address: "61 Melville Street in Niagara on the Lake, Ontario, Canada or 3050 Niagara Parkway, Niagara Falls, Ontario, Canada"
-phone: "1-888-438-4444"
-type: "Other"
-url: "www.niagarafallslive.com"
 ---
 
 The natural beauty that is Niagara Falls automatically lends itself to outdoor activities, and there are many ways to appreciate the great outdoors with a variety of things to do.

@@ -1,5 +1,5 @@
 ---
-title: "Kendrapara"
+title: 'Kendrapara'
 type: location
 latitude: 20.547516
 longitude: 86.529617

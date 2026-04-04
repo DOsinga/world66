@@ -3,88 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Black Lamb and Grey Falcon** by Rebecca West (1941) is the classic account of Yugoslavia before World War II, including extended sections on Croatia and Dalmatia. Dense, brilliant, and opinionated — essential reading for anyone wanting depth beyond the tourist surface.
 
-**Lonely Planet Croatia**
+**Croatia: A Nation Forged in War** by Marcus Tanner is a solid history covering Croatian identity from the medieval period through the 1990s war. Clear and unsentimental.
 
+**The Culture of Lies** by Dubravka Ugrešić is a sharp collection of essays by Croatia's most provocative contemporary writer, examining nationalism, identity, and the cultural disorientation of the post-Yugoslav period. Ugrešić was effectively exiled for writing it.
 
+**Café Europa: Life After Communism** by Slavenka Drakulić gives a ground-level account of the post-communist transition across Central and Eastern Europe, including Croatia. She writes with precision and bite.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864426461/ref=ase_osingacom?v=glance&s=books)
+**Balli di Sfessania** — for something different: Croatia's Dalmatian coast and islands have inspired a small shelf of sailing and travel memoirs. Tristan Jones's *Saga of a Wayward Sailor* includes time in the Adriatic; more recently, *To the Baltic with Bob* by Griff Rhys Jones touches on the Croatian coast.
 
-author: Jeanne Cliver
+**Lonely Planet Croatia** remains the most practical current guidebook for on-the-ground detail. The Rough Guide to Croatia is a good alternative.
 
-isbn: 0864426461
-
-subject: travel
-
-**Emissary of Light:A Vision of Peace**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0446674192/ref=ase_osingacom?v=glance&s=books)
-
-author: James F. Twyman
-
-isbn: 0446674192
-
-subject: travel
-
-**Emissary of Light:My Adventures with the Secret Peacemakers**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0446523003/ref=ase_osingacom?v=glance&s=books)
-
-author: James F. Twyman
-
-isbn: 0446523003
-
-subject: travel
-
-**The Culture of Lies:Antipolitical Essays**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/027101847X/ref=ase_osingacom?v=glance&s=books)
-
-author: Dubravka Ugresic,Thomas Cushman (Editor),Celi..
-
-isbn: 027101847X
-
-subject: culture
-
-**A Croatian Composer:Notes toward the Study of Joseph Haydn**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0836968816/ref=ase_osingacom?v=glance&s=books)
-
-author: William Henry Hadow
-
-isbn: 0836968816
-
-subject: culture
-
-**A History of Croatia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566193966/ref=ase_osingacom?v=glance&s=books)
-
-author: Stephen Gazi
-
-isbn: 1566193966
-
-subject: history
-
-**croatia:A Nation Forged in War**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300076681/ref=ase_osingacom?v=glance&s=books)
-
-author: Marcus Tanner
-
-isbn: 0300076681
-
-subject: history
+For fiction, **The Ministry of Pain** by Dubravka Ugrešić follows Croatian exiles in Amsterdam grappling with the loss of Yugoslavia — unsettling and very good.

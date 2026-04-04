@@ -1,14 +1,12 @@
 ---
-title: "Kendal"
+title: 'Kendal'
 type: location
 latitude: 54.328448
 longitude: -2.746468
 ---
 
-Kendal used to be a major point of passing for most traffic from the south of England to the [Lake District](/europe/unitedkingdom/england/manchester_liverp/lakedistrict) Now it is passed by a major dual carriageway and, being somewhat easier to navigate, can be enjoyed for its own sake.
+Kendal used to be a major stopping point for traffic heading south to the [Lake District](/europe/unitedkingdom/england/manchester_liverp/lakedistrict). Now it is bypassed by a major dual carriageway and, being somewhat easier to navigate, can be enjoyed for its own sake.
 
-There are more places to stay than could be easily justified by current traffic but it is an attractive town with numerous narrow yards and lanes branching off the main street.
+There are more places to stay than current traffic would justify, but it is an attractive town with numerous narrow yards and lanes branching off the main street. Kendal is also famous for its mint cake, the sugar-and-peppermint confection that has fuelled mountaineers on expeditions including the first ascent of Everest.
 
-The town enjoys an association with the late Alfred Wainwright, whose guides to walking in the Lake District may well be sold for evermore.
-
-http://www.visitcumbria.com/sl/kendal.htm
+The town enjoys an association with the late Alfred Wainwright, whose illustrated guides to walking in the Lake District remain beloved classics.

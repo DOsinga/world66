@@ -1,5 +1,5 @@
 ---
-title: "Paradeep"
+title: 'Paradeep'
 type: location
 latitude: 20.279738
 longitude: 86.612273

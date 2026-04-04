@@ -3,44 +3,22 @@ title: "Top 5 Must Do's in Thailand"
 type: section
 ---
 
-**1. Pim Buranaket Folklore Museum**
+**1. Wander the ruins of Ayutthaya**
 
-In Phitsanulok, in northern Thailand, is an intriguing museum which explores
-the native culture of the area. Items ranging from baskets to pots to kitchen
-utensils to agricultural tools can all be found in the Pim Buranaket Folklore
-Museum. It gives you an intimate look at traditional life and culture in
-Thailand for a minimal entrance fee.
+[Ayutthaya](/asia/thailand/ayutthaya), two hours from Bangkok by train, was once one of the largest cities in Asia — the capital of a kingdom that thrived for over four centuries. The Burmese sacked it in 1767 and never rebuilt it, leaving one of the most atmospheric ruin complexes in Southeast Asia. Headless Buddhas sit amid crumbling brick chedis; banyans have grown roots around stone faces; temple courtyards are quiet in the early morning before the tour groups arrive. Rent a bicycle and give yourself a full day.
 
-**2. Flight of the Gibbon**
+**2. Float a krathong at Loy Krathong in Chiang Mai**
 
-For a real adrenaline rush in Bankok, go on the Flight of the Gibbon zipline. It´s basically an exciting nature tour through the exotic Thai
-jungle. The views are spectacular, and the ziplines are safe and professionally managed.
-Best of all, 10 percent of Flight of the Gibbon profits goes toward restoring the
-rainforest and helping protect the gibbon. There are also 2 day packages
-available where you can go on an elephant trek, a night safari, a tarzan swing,
-a gibbon jungle gym, a zip line tour, and much more. Packages are all inclusive and cost about $165 U.S. per person.
+On the full moon of November, [Chiang Mai](/asia/thailand/chiangmai) combines two festivals in one night. Locals float banana-leaf baskets (*krathong*) with candles and incense on the river and moat, while hundreds of paper lanterns (*khom loi*) rise simultaneously into the night sky above the old city. The sight of thousands of glowing lights drifting into the dark is one of the most beautiful things you will see anywhere. Book accommodation weeks in advance.
 
-**3. Sukko Cultural Spa and Wellness**
+**3. Eat your way down Yaowarat Road in Bangkok's Chinatown**
 
-To take a relaxing break from the stresses of traveling, head to the Sukko
-Cultural Spa and Wellness Center. You can have a calming massage or a purifying
-treatment to soothe you from head to toe. The staff is well-trained and
-comforting and provides you with a ritual welcome ceremony upon arrival. Treat
-yourself to a steam bath, a seafood dinner, or a dip in the jacuzzi as well.
+Bangkok's Chinatown district comes fully alive after dark, when the pavements fill with carts and stalls serving roast duck, seafood noodles, fried oysters, dim sum, and shark fin soup alongside newer fusion dishes. Walk the length of Yaowarat Road grazing as you go — a plate here, a bowl there — and don't stop until you're full. Best on a weekday evening when the crowds are manageable.
 
-**4. Searobin Samui PADI Dive Center**
+**4. Dive the Similan Islands**
 
-Have you ever wanted to learn to scuba dive? If so, consider taking a course
-at Searobin in Koh Samui. Located at the Choeng Mon Beach Hotel, this dive
-center is environmentally aware, making sure to never
-cause any damage to corals or the reef system in general. Courses are reasonably
-priced and all equipment is new and in working order.
+The Similan Islands, a protected archipelago in the Andaman Sea, are consistently rated among the top dive sites in Asia. The water is clear, the coral is relatively healthy, the marine life is diverse — leopard sharks, manta rays, sea turtles, schools of barracuda. The islands are accessible from Khao Lak (north of Phuket) on liveaboard boats, typically running from October to May. If you don't dive, snorkelling from the islands is also excellent.
 
-**5. Chopsticks Hill - Khao Takiab**
+**5. Take the overnight train to Chiang Mai**
 
-This somewhat touristy hill in Hua hin is actually a place you shouldn´t
-miss. Scattered with temples and small booths full of vendors selling their
-wares, you may be surprised and fascinated to find a large population of monkeys
-inhabiting the area. Fruits and nuts are available at various stalls to feed the
-monkeys and get a closer look at them. The entire hill is quiet and relaxing as
-well--perfect to escape from the sometimes hectic towns.
+Thailand has one of Southeast Asia's more pleasurable train systems, and the overnight sleeper from Bangkok to [Chiang Mai](/asia/thailand/chiangmai) is a proper journey rather than just a transfer. You board at Hua Lamphong station in the evening, pull back the curtain to watch Bangkok's suburbs give way to countryside, then sleep as the train climbs toward the north. Arrive in the morning cool. First-class sleepers with private berths are comfortable and surprisingly affordable. Book a few days ahead at any main station.

@@ -1,11 +1,8 @@
 ---
-title: "Piazza"
+title: "Piazza Centre"
 type: poi
-type: "Book shops"
 latitude: 51.4417
-longitude: 5.476269
+longitude: 5.4763
 ---
 
-Indoor shopping centre that has various shops like H&M, Perry Sport, Zara and more...
-
-type: Book shops
+Indoor shopping mall near the central station with a mix of fashion chains (H&M, Zara, Perry Sport) and a food court. Nothing extraordinary, but handy for everyday shopping.

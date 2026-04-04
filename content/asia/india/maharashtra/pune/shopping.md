@@ -1,68 +1,20 @@
 ---
-title: "Shopping in Pune"
+title: 'Shopping in Pune'
 type: section
 ---
 
-The **Pune Shopping
-**scene is bursting with options and will offer you a fun
-experience. It is a great blend of local products tailored to meet
-the style of the traveler. From branded goods to handicrafts, you
-name it and you will find it in Pune.**
-****
-****FabIndia**
+Pune shopping ranges from chaotic street markets to polished malls, and the best experiences are in the former.
 
-FabIndia
-is the pride of the Indian textile industry. It is a retail chain
-that sells ethnic Indian products. These are made by craftsmen in the
-rural areas of India. It is popular for its Kurtas which are
-traditional Indian wear, worn by men as well as women. Located on the
-Sassoon Road, it carries other items like skirts, shirts and tops all
-made out of eco-friendly materials.**
-****
-****Laxmi Road **
+**Laxmi Road** is Pune's most iconic shopping street -- a long, crowded bazaar that sells everything from silk sarees to kitchen utensils. The saree shops are the main draw, with an overwhelming selection of Paithani and Kolhapuri silk. It is closed on Mondays. Go with patience and comfortable shoes.
 
-The
-Laxmi road is a good representation of an Indian bazaar. It has
-series of shops and is forever bustling with activity. With the
-exception of Mondays, the shops here are open to visitors throughout
-the week. Go window shopping at the various saree shops. The crowd
-might be a little overwhelming, but don't get too flustered, it has a
-way to grow on you.**
-****
-**
-**The Chor Bazaar**
+**Tulsi Baug** is the traditional heart of Pune shopping, a dense warren of stalls near Laxmi Road specializing in puja items, jewelry, textiles, and household goods. The atmosphere is pure old Pune -- noisy, colorful, and endlessly interesting even if you are not buying.
 
-This
-shopping venue is rightly called the Chor Bazaar. The literal
-translation of the word Chor is "thief." Shopping in this bazaar is a
-steal, as they stock up everything from a safety pin to computer
-hardware and apparel at a nominal price. It would be good to go with
-a local as Chor bazaar is filled with people trying to outsmart you.
-You will come out with better haggling skills if you are with a local.**
-****
-**
-**The Bombay Store**
+**Fashion Street** near MG Road is the place for cheap clothing, shoes, and bags. Everything is priced for bargaining, so never accept the first price. Quality varies, but you can find decent basics at a fraction of mall prices.
 
-Located
-on the busiest and the coolest street in Pune, The Bombay Store is
-the pride of India. Started before independence, this store has been
-around for over 100 years now. The first store was established in the
-city of Mumbai, but today has its presence all over India. The store
-in Pune, will take you through a shopping experience like no other.
-With its tasteful interiors, it is a great place to buy
-Pashmina silk scarfs and home accessories like candle stands, tableware
-and souvenirs.**
-****
-****Just Antiques**
+**FabIndia** on Sassoon Road sells well-made Indian clothing, textiles, and home goods produced by rural craftspeople. It is a good place to pick up kurtas, cotton shirts, and scarves without the haggling.
 
-Just
-Antiques is located at the Koregaon Park and is the right place to buy
-authentic Rajasthani furniture and home accessories. Even if you do
-not plan on buying anything, this is a must see shopping spot in
-Pune. You
-will be mesmerized by the intricate work and exceptional designs of their products.
+**The Bombay Store** on FC Road has been around for over a century, selling curated Indian handicrafts, Pashmina scarves, home decor, and souvenirs. The quality is reliable and the prices fair, if not cheap.
 
-**Contributors**
-February 19, 2010
+**Just Antiques** in Koregaon Park is worth a browse even if you are not in the market for Rajasthani furniture. The carved wooden pieces and vintage brassware are beautiful, and the owner is happy to talk you through the provenance of each piece.
 
-February 12, 2010
+For modern shopping, Phoenix Marketcity in Viman Nagar and Amanora Mall in Hadapsar have the usual mix of international and Indian brands, food courts, and cinemas.

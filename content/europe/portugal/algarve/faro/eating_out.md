@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Faro"
+title: 'Eating Out in Faro'
 type: section
 ---
 
@@ -34,7 +34,3 @@ Faro has many local restaurants to offer its visiting tourists, and
 will be a sure favorite for carnivorous wine drinkers eating (and
 drinking) on a budget!
 
-**Contributors**
-January 29, 2010
-
-February 02, 2010

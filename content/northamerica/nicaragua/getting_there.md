@@ -3,30 +3,24 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Nicaragua's national airline is *Nicaraguenses de Avaci&oacute;n NICA (6Y). *Other airlines serving Nicaragua are* American Airlines Canadian Airlines International Compa&ntilde;ia Panamena de Aviacion Continental Airlines* and *Iberia*. Services are available to El Salvador Canada Costa Rica Panama Mexico Honduras Guatemala Spain and the USA.
+The main entry point is Augusto César Sandino International Airport (MGA) in Managua, about 12km east of the city center. Airlines serving Managua include Avianca, Copa Airlines, American Airlines, United Airlines, Spirit, and Aeromexico, with connections through Miami, Houston, Fort Lauderdale, San Salvador, Panama City, and Mexico City. From Europe, connections typically go via Miami or a Latin American hub.
 
-Approximate flight times:
+A second airport, Punta Huete (NMG), is under development north of Managua as a future international hub, but as of 2026 most international traffic still uses Sandino.
 
-From *London* to Managua is 31 hours including stopovers in Toronto and Miami; from Madrid is 13 hours; from *Miami* is 2 hours 30 minutes.
+Departure tax is included in the ticket price on most airlines, but verify this when booking.
 
-International airport
+## By Road
 
-*Managua (MGA) *(Augusto Cesar Sandino) is 12km (7 miles) from the city (travel time  15 minutes). A taxi service runs to the city. Airport facilities include a bank (0830-1600) duty-free shop (0500-2000) refreshments and car rental (*Budget*).
+The Pan-American Highway runs through Nicaragua via Estelí and Managua, connecting to Honduras in the north and Costa Rica in the south. Most travelers crossing overland use the Peñas Blancas border with Costa Rica (the busiest crossing) or El Espino/Las Manos for Honduras.
 
-Departure tax
+International bus companies including Ticabus and Transnica run daily services between Managua and other Central American capitals — Guatemala City, San Salvador, Tegucigalpa, San José. These are comfortable long-distance coaches, not the local chicken buses. Book a day or two ahead in high season.
 
-US$20 on all departures; children under two years are exempt.
+## By Sea
 
-Sea
+Small passenger boats and occasional cargo vessels connect the Caribbean coast and the Corn Islands, but there's no regular international ferry service. The Pacific ports at Corinto and Puerto Sandino handle cargo shipping but not passenger arrivals.
 
-Major ports are Corinto Puerto Sandino El Bluff and Puerto Cabezas which are served by shipping lines from Nicaragua as well as Central American North American and European countries.
+## Visas
 
-Road
-
-The Pan-American Highway runs through Nicaragua via Esteli and Managua.
-
-Bus:
-
-There are daily bus services between Managua and most Central American capitals. Services are provided by *Nicabus * *Ticabus *and *Transnica*. Tickets are sold up to five days in advance and all border documentation must be completed before the ticket is issued.
+Citizens of the US, Canada, the EU, the UK, Australia, and New Zealand can enter visa-free and stay up to 90 days. You'll need to complete an immigration form online before arrival (recommended at least 7 days in advance) and pay a US$10 tourist card fee at the border or airport. Your passport must be valid for at least 6 months beyond your entry date.

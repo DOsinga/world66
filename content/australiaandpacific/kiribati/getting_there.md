@@ -3,22 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Air
+Kiribati has two international airports: Bonriki International Airport (TRW) on South Tarawa, and Cassidy International Airport (CXI) on Kiritimati (Christmas Island). They are not connected to each other by international flights — you have to fly in and out of each separately.
 
-Kiribati is mainly served by *Air Nauru *and *Air Marshall Islands. *The national airline *Air Tungaru (VK) *flies to Hawaii (Honolulu) and Fiji. *Air Kiribati* provides a weekly connection between Christmas Island and Honolulu. *All Nippon Airways *is developing a direct service from Japan to Christmas Island linking with US airlines *Aloha *and *Continental. *
+**Fiji Airways** is the main carrier. It flies Nadi–Tarawa twice a week (Mondays and Thursdays) and operates a Honolulu–Kiritimati route weekly, departing Honolulu on Tuesdays and returning Wednesdays. This makes Honolulu the most convenient gateway for Kiritimati.
 
-Approximate flight time
+**Nauru Airlines** operates two weekly services into Tarawa from Brisbane, routing via Nauru. One service continues onwards to Kiritimati, Majuro, and Pohnpei, making it useful for island-hopping across Micronesia and the central Pacific.
 
-From *London* to Tarawa via Sydney and Nauru is 30 hours 30 minutes (excluding stopover time).
+**Air Kiribati** is the domestic flag carrier and handles inter-island flights within the Gilbert Islands. It does not operate international routes.
 
-International airports
+Non-US citizens flying to Kiritimati via Honolulu may need a valid US visa for the transit. Check requirements well in advance — the US transit visa rules apply even for brief airport connections.
 
-*Tarawa (TRW)* and *Christmas Island (CXI)*.
+The departure tax is included in most airline ticket prices, but confirm at time of booking.
 
-Departure tax
-
-A$10 except for children under 2 years and transit passengers.
-
-Sea
-
-International ports are Tarawa Banaba and Christmas Island all served by the following cargo lines: *Pacific Forum Line Bank Line Daiwa Line Tanker Ship (McDonald Hamilton) *and* China Navigation Co. *
+There is no regular international passenger shipping service to Kiribati. Occasional cargo vessels call at Tarawa, Banaba, and Kiritimati, but these are not a reliable way in for most travellers.

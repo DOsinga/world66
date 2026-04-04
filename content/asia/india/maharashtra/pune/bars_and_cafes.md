@@ -1,62 +1,18 @@
 ---
-title: "Bars and Cafes in Pune"
+title: 'Bars and Cafes in Pune'
 type: section
 ---
 
-The
-**Pune Bars and Cafes** will astonish you with their presence and
-ambiance. Pune is a student city and is also developing as a major
-software hub. This translates into a greater student and youth
-population. To cater to their entertainment need, bars and cafes have
-mushroomed all over the city. Wine bars, Beer bars, lounges and cafes
-contribute to the colorful nightlife in Pune city. Read on to find
-out few of the bars and cafes to visit in Pune.**
-****
-Entresol Bar**
+Pune's bar and cafe scene has exploded in the last decade, driven by its large student population and booming IT sector. Koregaon Park and Kalyani Nagar are the main nightlife strips, but good spots are scattered across the city.
 
-Located
-in the Le Meridien Hotel, a night out at Entresol Bar will be a true
-5-star experience. It is considered to be one of the best bars in
-Pune. Featuring high quality wine and liquor, they are well known for their
-Margaritas and Mojitos. They serve Indian accompaniments like grilled
-prawns and cottage cheese as well as other international finger food.**
-****
-Thousand Oaks**
+**Thousand Oaks** is a Pune institution -- part cafe, part bar, with outdoor seating, good kebabs, and live music on weekends. The oak-lined interior gives it a distinctly un-Indian feel. It is one of those places where you will run into half the city on a Saturday night.
 
-Thousand
-Oaks is a cafe cum bar, popular for the kebabs and excellent music.
-It has an outdoor seating area and the indoors bar section lined with oak wood. This is a favorite place for the young souls in Pune
-to hang out.**
-****
-****Zanizi Bar**
+**The Irish Village** in Koregaon Park does a creditable job of recreating a pub atmosphere, with draught beer and a busy outdoor area. It gets packed on weekends but is pleasantly relaxed on weekday evenings.
 
-Zanzi
-Bar is well known for its unique innovations. It was the first in Pune to
-launch the Caipiroska in 5 varied flavors. This Vodka-based drink comes in fruit flavors and is a must have. Even though
-this drink is the star attraction, you will find beer, wine and
-liquors of your choice. The food comprises of Arabian, Indian and
-Chinese. The hummus and the chicken tikka will leave you wanting for
-more.**
-****
-****The
-Soul Purpose Bar**
+**Pagdandi Books Chai Cafe** in Baner is more cafe than bar -- a bookshop-cafe hybrid with excellent chai, filter coffee, and a quiet atmosphere perfect for reading or working. No alcohol, but worth visiting for the vibe alone.
 
-Soul
-Purpose Bar is an elite lounge bar. It is located at the Deccan
-Rendezvous. A favorite bar, it is highly appreciated for it ambiance and
-food. The music is not overbearing and provides a great backdrop for a quiet evening and a time to catch up with your friends. The
-cocktails and the Pina coladas are out of this world.**
-****
-****Kiva Bar**
+**Effingut Brewerkz** is one of Pune's best craft breweries, with rotating taps and a knowledgeable staff. The Koregaon Park location has a rooftop terrace. If you are interested in India's growing craft beer scene, this is where to try it.
 
-Kiva
-bar follows a Mediterranean theme. The ambiance is set with warm and
-cozy seating. The interiors are done keeping the youth in mind. It is
-a contemporary style bar. This bar is considered to be one of the
-hottest in the city. Music, cocktails, beer and a lounge is what this
-lounge offers. Unwind and soak in the ambiance.
+**Elephant & Co.** on FC Road serves cocktails in a quirky, eclectic setting. It is popular with the college crowd and gets loud later in the evening, but the drinks are well made and reasonably priced.
 
-**Contributors**
-February 19, 2010
-
-February 12, 2010
+Most bars in Pune close by midnight or 1 AM. Expect to pay between 200 and 500 rupees for a cocktail, less for beer. Many places enforce a cover charge on weekends.

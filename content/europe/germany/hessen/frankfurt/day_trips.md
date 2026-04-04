@@ -1,9 +1,9 @@
 ---
-title: "Day Trips in Frankfurt"
+title: 'Day Trips'
 type: section
 ---
 
-**Frankfurt Day Trips** can make a stay in Frankfurt a memorable one. The most popular places around Frankfurt include the following:
+Frankfurt's central location makes it an excellent base for day trips. The most popular destinations include the following:
 
 **Heidelberg **
 
@@ -17,5 +17,3 @@ Located 120 miles southwest of Frankfurt, Trier is the oldest city in Germany, d
 
 Located at the confluence of the Main and Rhine Rivers in Germany, Mainz is an ideal place for a day trip from Frankfurt. Mainz has an array of interesting spots to captivate the minds of tourists. The most visited attractions here include Mainz Cathedral, the Markt, the Gutenberg Museum, Chagall Windows and the Town Hall. The colossal Dom St. Martin and St. Stephan Cathedral, one of the oldest castles built in the late 10th century are interesting to see. Markt and the Guttenberg Museum have a collection of old books. Chagall Windows, on the other hand, is a fascinating Gothic church with windows decorated and colored by Marc Chagall who used 18 hues of blue to make this masterpiece.
 
-**Contributors**
-March 26, 2010

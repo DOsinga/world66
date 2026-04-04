@@ -5,8 +5,10 @@ latitude: 43.700936
 longitude: 7.268391
 ---
 
-Nice is the real city of the Côte d'Azur — not just a resort but a place people actually live. The old town (Vieux-Nice) is a dense grid of Italianate facades, ochre and terracotta, with a daily market on the Cours Saleya that sells flowers and produce in the morning and antiques in the afternoon. The Promenade des Anglais runs along a wide pebbly beach; the pebbles are a surprise if you're expecting sand, but the water is clear and deep blue.
+Nice is the undisputed capital of the Côte d'Azur, and it earns that title not just through glamour but through character. The city has a split personality: the wide, formal sweep of the Promenade des Anglais along the seafront, and the tumbling, narrow-laned old town behind it, where laundry flaps from sienna-coloured facades and the smell of socca drifts from corner vendors.
 
-There's a higher density of museums here than almost anywhere else in the south of France. The Musée Matisse sits on a hill in the Cimiez neighbourhood above town, next to a Roman amphitheatre. The Musée d'Art Moderne et d'Art Contemporain (MAMAC) is free on Sundays and has a rooftop terrace with good views.
+The authentic Niçois live in Vieille Ville, the Old Town, beginning at the foot of the Rock and spreading out from Place Masséna. Many of the Italianate facades suggest 17th-century Genoese palaces. Buy a pissaladière from one of the street vendors and wander — the old town is a maze of small streets teeming with local life and some of the least expensive restaurants in the city.
 
-The airport is 6 kilometres west of the centre, and the city connects by train along the coast to Monaco, Menton, and the Italian border, and inland up to Digne-les-Bains via the narrow-gauge Train des Pignes.
+Nice has a higher density of museums than many comparable French cities. The Matisse and Chagall museums in the Cimiez neighbourhood, the contemporary art museum (MAMAC) overlooking the old town, and dozens of smaller galleries make this a serious art destination. If the weather turns, you will not run out of things to do indoors.
+
+The pebbly beach is not to everyone's taste, but the light along this coast is extraordinary — it is the same light that drew Matisse, Chagall, and Renoir to settle here. The Promenade des Anglais stretches for kilometres along the seafront, perfect for a morning run or an evening stroll. And from Nice, the rest of the Riviera is within easy reach: Monaco, Cannes, and the hilltop villages of the hinterland are all short bus or train rides away.

@@ -3,80 +3,36 @@ title: "Practical Information"
 type: section
 ---
 
-**General information **
+**Currency**
 
-The health-care system in the Czech Republic is in transition. For Czechs and those with Czech health insurance, medical care is free. There are, however, a number of drawbacks - government funds for maintaining health-care facilities are low, and many physicians still earn less money than office workers - a holdover from the days of communism. Many doctors and nurses leave the profession after their required time of government service to seek higher paying jobs in the private sector. Nevertheless, the quality of health care in the Czech Republic is satisfactory in terms of world standards.
+The currency is the Czech koruna (CZK, Kč). Czechia is an EU member but has not adopted the euro. Credit cards are widely accepted in cities, hotels, and most restaurants. ATMs are easy to find. Avoid currency exchange booths in tourist areas — they often have poor rates and hidden fees. Bank ATMs and larger exchange offices (směnárna) give much better deals.
 
-A number of privately-funded clinics have opened which cater mostly to foreigners. Staff and physicians speak English and provide care based on Western-style models and charge Western-style fees. Private insurance may be accepted. There are also Western-trained doctors with private practices in Prague. The best way to find them is "word-of-mouth". They don't always accept insurance or credit cards.
+**Language**
 
-Long - term visits
+Czech is a Slavic language and not easy to pick up quickly. English is widely spoken in Prague and in tourist-facing businesses elsewhere. In smaller towns and villages, German is sometimes more useful than English. A few words of Czech — dékuji (thank you), prosím (please/you're welcome), dobrý den (hello) — are always appreciated.
 
-If your purpose of stay in the Czech Republic is Employment, Business or Studying, it is compulsory for you to obtain a health insurance through one of the Czech health insurance companies. In such cases, your health care will be provided under the same conditions as for Czech citizens and you will not be required to pay for medical care if you visit a Czech medical facility. This does not apply to most private clinics where you will be charged for the services. If you have children, be sure to bring their vaccination and allergy records with you because their school may require them.
+**Health**
 
-It is also a good idea to bring a 6 to 12 months' supply of any medication that you take regularly. Ask your physician to write down the generic names of your medications, which may be available in the Czech Republic under a different brand name. You may also want to bring copies of pertinent medical and dental records and prescriptions. Having an extra pair of eyeglasses or contact lenses is a good idea too.
+The Czech healthcare system is solid. EU citizens should carry an EHIC card for access to public healthcare. Non-EU visitors should carry travel insurance. For minor issues, a pharmacy (lékárna) can help — pharmacists often speak enough English for basic needs. Emergency services are reliable.
 
-Short - term visits
+Emergency numbers: 112 (general European emergency), 155 (ambulance), 158 (police), 150 (fire).
 
-If your purpose of stay is tourism or business and you intend to stay just for a short period of time, you can arrange short - term health insurance through VZP. You can also travel to the Czech Republic with your own travel health insurance from your home country.
+**Safety**
 
-Need a doctor
+Czechia is a safe country by any measure. The main concerns in Prague are pickpocketing in tourist areas and on trams (especially lines 22 and 23), and overcharging at certain bars and nightclubs. Read your bar bill carefully before paying. Outside the capital, petty crime is rare.
 
-In the case of a true emergency, you should call for an ambulance. Dial 155 for service throughout the Czech Republic. No card or coin is needed for this number from any pay phone. If you don't speak Czech it would be a good idea to have someone who does act as an interpreter.
+**Money and Costs**
 
-If you don't need an ambulance but need to get to the hospital, take a taxi to Na Homolce Hospital in Prague 5 or Nemocnice Motol in Prague 5. The foreigner's clinic there will be able to provide a physician who speaks English. If you don't have Czech health insurance, you will be charged for services.
+Czechia is significantly cheaper than Western Europe, though Prague has crept up in price and is no longer the bargain it once was. A good restaurant meal in Prague costs around 300–500 CZK; outside the capital noticeably less. Beer in a local pub runs 40–60 CZK per half-litre — rising steeply in tourist-facing Prague establishments.
 
-To buy even a simple aspirin, it is necessary to go to a pharmacy, or "lekarna". You can find pharmacies on most main streets in the center of Prague. There are few pharmacies that stay open 24 hours. The closest one to the center is the Pharmacy at Belgicka 37 (close to Namesti Miru). **
+**Communications**
 
-Medical emergencies**
+Wi-Fi is widely available in hotels, cafes, and most restaurants. Czech SIM cards are cheap and easy to buy — useful for longer stays. EU phone plans work without roaming charges for EU residents.
 
-Palackeho 5, Prague 1-New Town.
-Tel. 224 949 181
+**Electricity**
 
-Sokolska 27, Prague 2.
-Tel. 29 81 16
+230V, 50Hz. Standard European two-pin plugs (Type E/F). UK and US visitors need adaptors.
 
-Konevova 205, Prague 3.
-Tel. 68 486 85
+**Opening Hours**
 
-Pacovska 31, Prague 4.
-Tel. 290 057 917
-
-Kartouzska 6, Prague 5.
-Tel. 257 323 219
-
-Pod Marjankou 12, Prague 6.
-Tel. 220 513 643
-
-Dukelskych hrdinu 1, Prague 7.
-Tel. 233 370 391
-
-Bulovka hospital, Prague 8.
-Tel. 282 842 222
-
-Sokolovska 304, Prague 9.
-Tel. 266 310 372
-
-Nad Olsinami 4, Prague 10.
-Tel. 278 125 09 Dental emergencies
-
-In Prague 1, tel. 224 946 981 (Mon.-Fri. 7-7, Sat.-Sun. 24 hours)
-
-In Prague 4, tel. 290 057 932 (Mon.-Fri. 7-7, Sat.-Sun. 24 hours) 24-hour pharmacies
-
-Palackeho 5, Prague 1-New Town.
-Tel. 2494 6982
-
-Belgicka 37, Prague 2.
-Tel. 2251 3396
-
-Soukalova 3355, Prague 4.
-Tel. 402 1638
-
-Stefanikova 6, Prague 5.
-Tel. 5732 0918
-
-Heydukova 10, Prague 8.
-Tel. 6631 0899
-
-**Contributors**
-August 21, 2006
+Shops typically open Monday–Friday 9:00–18:00, Saturday 9:00–13:00. Many close Sunday or have reduced hours. Supermarkets and malls keep longer hours. Museums are usually closed on Mondays.

@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 3 625 388 (July 1998 est.)
+New Zealand has a population of around 5 million — a small number for a country of this size, which is part of why the wilderness feels so accessible.
 
-**Age structure:**
+The population is majority European descent (Pakeha), but Maori make up about 17% and Pacific Islanders around 8%. Asian New Zealanders, many with roots in China, India, and South Korea, account for roughly 15% and are concentrated in Auckland. The country is significantly more diverse than its marketing imagery often suggests.
 
-*0-14 years:* 23% (male 427 776; female 407 074)
+Maori are the tangata whenua — the people of the land. Their ancestors arrived from Eastern Polynesia around 700 years ago and developed a sophisticated culture based on tribal identity (iwi and hapu), oral history, and deep connection to land and sea. The 19th century brought colonisation, land confiscation, and significant population loss. The Treaty of Waitangi (1840) remains the founding document of the New Zealand state and the subject of ongoing political and legal dispute. Since the 1970s there has been a strong Maori cultural renaissance: te reo Maori (the language) is now an official language and taught in schools, and Treaty settlements have returned some land and resources to iwi.
 
-*15-64 years:* 65% (male 1 188 468; female 1 181 002)
+New Zealanders have a reputation for being outdoorsy, practical, and relatively informal. The "she'll be right" attitude — a relaxed confidence that things will work out — is real, though it can shade into complacency about things that probably deserve more attention.
 
-*65 years and over:* 12% (male 182 253; female 238 815) (July 1998 est.)
+Rugby union is the national sport and a genuine source of national identity. The All Blacks are the most successful international rugby team in history by most measures, and test match weeks bring the country to a kind of collective attention.
 
-**Population growth rate:** 1.04% (1998 est.)
-
-**Birth rate:** 14.89 births/1 000 population (1998 est.)
-
-**Death rate:** 7.6 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 3.06 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.01 male(s)/female
-
-*65 years and over:* 0.76 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.37 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 77.55 years
-
-*male:* 74.35 years
-
-*female:* 80.91 years (1998 est.)
-
-**Total fertility rate:** 1.91 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* New Zealander(s)
-
-*adjective:* New Zealand
-
-**Ethnic groups:** New Zealand European 74.5% Maori 9.7% other European 4.6% Pacific Islander 3.8% Asian and others 7.4%
-
-**Religions:** Anglican 24% Presbyterian 18% Roman Catholic 15% Methodist 5% Baptist 2% other Protestant 3% unspecified or none 33% (1986)
-
-**Languages:** English (official) Maori
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99% (1980 est.)
-
-*male:* NA%
-
-*female:* NA%
+[Auckland](/australiaandpacific/newzealand/auckland) is where most people live — around a third of the national population is concentrated in the greater Auckland region. [Wellington](/australiaandpacific/newzealand/wellington) is the capital and the political and cultural centre. [Christchurch](/australiaandpacific/newzealand/christchurch), still rebuilding more than a decade after the 2010–11 earthquakes, is the main city of the South Island.

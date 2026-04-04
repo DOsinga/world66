@@ -1,19 +1,10 @@
 ---
-title: "Waxy´s Bar"
+title: "Waxy's Bar"
 type: poi
-address: "71b vinicus de Moraes"
-phone: "22472808"
+address: '71b Vinicius de Moraes, Ipanema'
+phone: '22472808'
+latitude: -22.986
+longitude: -43.203
 ---
 
-Waxy´s is one of the newest bars in Ipanima! A very popular hang out for gringo´s and locals. Waxy´s offers live music and entertainment 7 nights a week. Located at 71b Vinicus de moraes in Ipanima, it is located in a very safe area and in the centre of all the activity!
-
-**Contributors**
-January 13, 2010
-
-
-
-
-
-tel: 22472808
-
-address: 71b vinicus de Moraes
+A popular Ipanema bar with live music and entertainment seven nights a week. Draws a good mix of travellers and locals. Located on a safe, lively stretch in the heart of Ipanema's bar district.

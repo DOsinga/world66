@@ -1,12 +1,10 @@
 ---
-title: "Ambarawa"
+title: 'Ambarawa'
 type: location
-latitude: -7.265508
-longitude: 110.401694
+latitude: -7.2655
+longitude: 110.4017
 ---
 
-Travel Guide
+A small town on the junction of the national road between [Yogyakarta](/asia/indonesia/java/yogyakarta) and [Semarang](/asia/indonesia/java/semarang), Ambarawa is mostly forgotten today but played an important role during the Indonesian independence struggle -- the Battle of Ambarawa (Palagan Ambarawa) is still commemorated locally.
 
-Ambarawa, famous nationalwide by the credo Palagan Ambarawa. Small city that forgotten nowadays but became one of the important basecamp of National heroes during Dutch occupancy in World War II. A small city in the junction of national road between Jogjakarta to Semarang and accessible to several small cities nearby like Salatiga, Magelang and Bandungan.
-
-There are several tourist spots in Ambarawa like Rawa Pening and Train Museum Ambarawa a.k.a Koening Willem I Spoorweg. And from this city, the travelers can go further to Bandungan flower market and Candi Gedung Songo at the hills of Gunung Ungaran.
+The main draws for visitors are Rawa Pening Lake, beautiful at sunrise, and the Ambarawa Train Museum where you can ride colonial-era steam locomotives through mountain scenery. From here you can continue to the Bandungan flower market and the Hindu temple complex of Candi Gedung Songo on the slopes of Gunung Ungaran. [Salatiga](/asia/indonesia/java/salatiga) and Magelang are also easily reached.

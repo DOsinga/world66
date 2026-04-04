@@ -1,13 +1,8 @@
 ---
 title: "Arabian Sands"
 type: poi
-author: "Wilfried Thesiger"
+author: "Wilfred Thesiger"
 isbn: "0140095144"
-subject: "Travel"
-latitude: 19.955186
-longitude: 56.271056
 ---
 
-One of the best books in its kind! 
-
-[](http://www.amazon.com/exec/obidos/ASIN/0140095144/osingacom?creative=125581&camp=2321&link_code=as1)
+Thesiger's account of crossing the Empty Quarter twice in the late 1940s — a portrait of the Bedouin world and the end of a way of life. One of the great travel books. Essential reading before any trip to southern Oman.

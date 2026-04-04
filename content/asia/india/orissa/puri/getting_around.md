@@ -1,10 +1,6 @@
 ---
-title: "Getting Around"
+title: 'Getting Around'
 type: section
 ---
 
-Autorickshaws, hand-pulled rickshaws, Rented Cycles.
-
-We currently have no Getting Around listed in Puri.
-
-If you do know any Getting Around in Puri, please [Add].
+Puri is compact enough to explore on foot, but auto-rickshaws, hand-pulled rickshaws, and rented bicycles are all readily available for getting around town and along the beachfront.

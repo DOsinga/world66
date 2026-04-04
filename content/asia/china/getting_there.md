@@ -3,38 +3,32 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-The national airline is *Air China* *(CA). *
+China's main international hubs are [Beijing](/asia/china/beijing) (Capital International, PEK, and the newer Daxing International, PKX), [Shanghai](/asia/china/shanghai) (Pudong, PVG, for international flights; Hongqiao, SHA, for domestic), [Guangzhou](/asia/china/guangzhou) (Baiyun, CAN), [Hong Kong](/asia/china/hongkong) (HKG), and Chengdu (Tianfu, TFU). Most long-haul flights land at Beijing or Shanghai.
 
-Approximate flight time
+Flight times are roughly 10 hours from London, 14 hours from New York, 12 hours from Los Angeles, and 11 hours from Sydney. Air China, China Eastern, and China Southern are the three main national carriers. Major international airlines — British Airways, Lufthansa, Emirates, Cathay Pacific, Singapore Airlines — also serve China's main cities.
 
-From *London* to Beijing is approximately 10 hours from *New York* is 22 hours from *Los Angeles *is 12 hours and from *Sydney *is 12 hours.
+Note that several airports have two terminals with no internal connection; check which terminal your flight uses before arranging transport.
 
-International airports
+## Visas
 
-*Beijing/Peking (BJS/PEK)* airport (Capital International Central) is 26km (16 miles) northeast of the city (travel time  90 minutes by bus 40 minutes by taxi).
+Citizens of around 45 countries — including most of the EU, Australia, New Zealand, and Singapore — can enter China visa-free for up to 30 days. Always verify current requirements before traveling, as the list of eligible countries can change.
 
-*Guangzhou/Canton *airport (Baiyun) is 7km (4 miles) from the city (travel time  20 minutes).
+If you need a visa, apply at a Chinese embassy or consulate in advance. Tourist visas (L visa) are usually issued for single or double entry. Applications typically require a passport photo, bank statements, and sometimes a hotel booking.
 
-*Shanghai (SHA) *airport (Hongqiao) is 12km (7.5 miles) southwest of the city (travel time  20 minutes).
+The 144-hour transit visa exemption applies at major airports for nationals of 54 countries transiting through China to a third country — useful for breaking up a long journey.
 
-Facilities at the above airports include taxis duty-free shops banks/bureaux de change bars and restaurants.
+Since late 2025, travelers can complete the entry health declaration card online before arrival through the National Immigration Administration.
 
-There are also airports at other major cities throughout the country.
+## By Train
 
-Departure tax
+International rail services connect Beijing to Moscow via the Trans-Siberian Railway — either through Mongolia (crossing the Gobi Desert) or through Manchuria. Both journeys take around 6 days; book well in advance. A high-speed train runs between Hong Kong and Guangzhou, taking about 50 minutes, continuing to other mainland cities.
 
-RMBY90. Children under 12 are exempt.
+## By Sea
 
-Sea
+Ferries connect Shanghai and Tianjin with Osaka and Kobe in Japan, and Qingdao and Weihai with South Korea. A high-speed ferry runs between Hong Kong and Macau (about an hour). There is no longer a significant departure tax — that information from the early 2000s is obsolete.
 
-Principal seaports are Qingdao (Tsingtao) Shanghai Fuzhou (Foochow) Guangzhou (Canton) and Hong Kong/Kowloon. *Pearl Cruises *operate over 20 cruises a year to China. Other cruise lines are* Royal Viking Sitmar *and *CTC. *There is a regular (once or twice weekly) ferry service linking Tianjin with Kobe in Japan and the west coast of South Korea.
+## Overland
 
-Rail
-
-International services run twice a week from Beijing to Moscow (Russian Federation) and Pyongyang (Korea DPR). Due to demand it may be necessary to book up to two months in advance. A regular train service runs from Hong Kong to Guangzhou (Canton) which is of a higher standard than internal trains in China. There are several trains daily.
-
-Road
-
-The principal road routes into China follow the historical trade routes through Myanmar India the former Soviet republics and Mongolia.
+China shares land borders with 14 countries. The main crossings used by independent travelers are: from Vietnam at Friendship Pass near [Nanning](/asia/china/nanning); from Kyrgyzstan via the Torugart Pass to Kashgar; from Pakistan over the Khunjerab Pass to [Tashkorgan](/asia/china/tashkorgan); and from Mongolia at Erlian. Border formalities and crossing hours vary; research your specific crossing in advance.

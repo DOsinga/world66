@@ -1,8 +1,8 @@
 ---
-title: "Museum District"
+title: 'Museum District'
 type: location
-latitude: 29.724701
-longitude: -95.387839
+latitude: 29.7247
+longitude: -95.3878
 ---
 
-An assortment of Museums and galleries covering almost any interest can be found here...
+Houston's Museum District packs 19 museums into a walkable area just south of downtown. The Museum of Fine Arts, Houston Museum of Natural Science, and the Menil Collection are the headliners, but smaller institutions like the Buffalo Soldiers National Museum and the Czech Center Museum are worth seeking out. Several museums offer free admission on certain days.

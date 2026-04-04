@@ -5,13 +5,8 @@ latitude: 5.377056
 longitude: -52.957159
 ---
 
-Sinnamary (3000 inhabitants), on the other extremity of the space Center with reference to [Kourou](/southamerica/frenchguiana/kourou), has kept every thing from its creole charm. Sinnamary streches out by the river with many restaurant (creole and indonesian) and with its craft industry and gold works.
+Sinnamary is a small Creole town of around 3,000 people on the coast between Kourou and Saint-Laurent-du-Maroni. Unlike its neighbor Kourou, shaped by the space industry, Sinnamary has kept its quiet creole character — wooden houses along the river, a modest market, and a relaxed pace that coastal French Guiana doesn't always offer.
 
+The town sits at the mouth of the Sinnamary River and is a good base for river excursions. Pirogue trips can be arranged to upriver destinations including Saut Caouanne, Saut Tigre, Takari, and the dramatic Saut Lucifer. Trips along the Grégoire Creek are another option. Local boatmen can be hired at the riverfront.
 
- Sinnamary is an excellent base for making trips on the Sinnamary river. Possible excursions include trips to Saut Caouenne, Saut Tigre, Takari or Saut Lucifer. A boating trip on the Gregoire Creek are another good option.
-
-
-
-
- 
- Outside the town, and before the CSG, you can find the "hotel du Fleuve", which is one of the most beautifull of F.Guiana.
+Outside town on the road toward the CSG (Guiana Space Centre), the Hôtel du Fleuve occupies a fine position on the river and is considered one of the better-situated guesthouses in French Guiana.

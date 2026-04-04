@@ -3,46 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 83 976 (July 1998 est.)
+The I-Kiribati (pronounced "ee-Kiribas") are Micronesian, with some Polynesian influence in the southern Gilberts. The population is around 120,000, the great majority living on the Gilbert Islands — above all on the crowded South Tarawa atoll, which holds about half the national population in a thin strip of land no more than a few hundred metres wide in places.
 
-**Age structure:**
+Life has always revolved around the ocean. The I-Kiribati are skilled sailors, fishers, and navigators; children learn to swim and fish before they can read. Land is not just real estate — in Kiribati, the word for land and the word for people share deep roots. Ancestral land holds shrines, burial sites, and the stories of who a family is. The dispossession that climate change threatens is not just material but existential.
 
-*0-14 years:* NA
+The social unit is the extended family (utu), and obligations to family — sharing food, labour, resources — take precedence over individual accumulation. Visitors who spend time with a family will be fed generously and expected to eat generously in return.
 
-*15-64 years:* NA
+Languages spoken are Gilbertese (also called Taetae ni Kiribati) and English. English is an official language and widely understood in Tarawa; on outer islands you will manage better with a few words of Gilbertese and a lot of goodwill.
 
-*65 years and over:* NA
+Christianity is dominant — about half the population is Catholic, most of the rest Protestant. Sunday is quiet almost everywhere.
 
-**Population growth rate:** 1.82% (1998 est.)
-
-**Birth rate:** 26.46 births/1 000 population (1998 est.)
-
-**Death rate:** 7.62 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.66 migrant(s)/1 000 population (1998 est.)
-
-**Infant mortality rate:** 49.69 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 62.61 years
-
-*male:* 60.79 years
-
-*female:* 64.68 years (1998 est.)
-
-**Total fertility rate:** 3.13 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* I-Kiribati (singular and plural)
-
-*adjective:* I-Kiribati
-
-**Ethnic groups:** Micronesian
-
-**Religions:** Roman Catholic 53% Protestant (Congregational) 41% Seventh-Day Adventist Baha'i Church of God Mormon 6% (1985 est.)
-
-**Languages:** English (official) Gilbertese
-
-**Literacy:** NA
+About 97% of the population is I-Kiribati. The small remainder includes some Chinese-Kiribati mixed-heritage families, a legacy of Chinese migration in the 19th and 20th centuries, and a small community of expat workers and aid workers mostly based in Tarawa.

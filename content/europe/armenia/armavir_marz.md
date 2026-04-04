@@ -5,8 +5,6 @@ latitude: 40.163382
 longitude: 44.29412
 ---
 
-Travel Guide
-
 This dry and flat plain is a continuation of [Ararat Marz](/europe/armenia/ararat_marz) and similar in many respects. The main attraction is Echmiadzin Cathedral, its surrounding compound and the other churches in the city. Sardarapat is the other big attraction, with a soaring monument marking the site of the battle in which tiny Armenia routed the Turkish invasion after WWI, saving itself from complete destruction. Along with the monument is Armenia's largest ethnographic museum, with an excellent collection of Armenian artifacts from life in the Armenian highlands thousands of years ago, all the way up to the time of the genocide.
 
 Sites:

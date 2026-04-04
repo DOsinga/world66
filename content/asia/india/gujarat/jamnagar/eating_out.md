@@ -1,9 +1,6 @@
 ---
-title: "Eating Out in Jamnagar"
+title: 'Eating Out'
 type: section
 ---
 
-7 Seas Restaurant at Hotel President is 24 Hours Multi cuisine restaurant featuring fine Indian, Continental, Chinese & Sea Food... Mocktails, Starters, Soups, Main Courses, Deserts...
-
-**Contributors**
-February 08, 2006
+Jamnagar has good Gujarati thali restaurants and some multi-cuisine options. **7 Seas Restaurant** at Hotel President is a popular 24-hour restaurant serving Indian, Continental, Chinese, and seafood.

@@ -1,9 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Ground Floor Chimes Specialty Store, Governor Sales Street Davao City"
-phone: "(082) 225-8898"
-type: "International"
 ---
 
 Here are some fun places to dine when in Davao City. There's Chinese, European, Irish, Filipino restaurants specializing in fresh seafood, grilled goodies and other native delicacies.

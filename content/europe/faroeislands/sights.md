@@ -1,40 +1,22 @@
 ---
-title: "Sights in Faroe Islands"
+title: "Sights"
 type: section
-type: "Landmarks"
 ---
 
-Breeding seabirds can be seen on many steep cliffs. The best place for puffins and gannets is Mikines, whereas Nolsoy has one of the world's greatest colony of storm petrels.
+The Faroes' greatest attractions are geological and ecological: improbable cliff faces, sea stacks, fjords carved by glaciers, and birdlife in concentrations that will stop you in your tracks.
 
-Oyster Catchers are extremely common and skuas, both great and arctic are frequently seen.
+**Mykines** is the most celebrated island for wildlife. The westernmost of the Faroes, it hosts thousands of puffins in summer — they nest all over the western headland, and you can walk among them. Gannets nest on the sea stack just off the lighthouse. Boat or helicopter access means numbers are limited; book the ferry from Sørvágur well ahead.
 
-On the other hand, the only bird of prey on the islands is the merlin.
+**Vestmanna bird cliffs** on [Streymoy](/europe/faroeislands/streymoy) are best seen by boat. Tour operators run trips from Vestmanna into sea caves and beneath towering stacked cliffs, with kittiwakes, fulmars, guillemots, and razorbills at close range.
 
-**Contributors**
-July 15, 2008
+**Kirkjubøur**, also on [Streymoy](/europe/faroeislands/streymoy), is one of the most important historical sites in the Faroes. The roofless shell of Magnus Cathedral (13th century, never completed) stands next to St Olaf's Church, still in use and dating in some form to the 12th century. Nearby is Kirkjubøargarður, a farmhouse where the same family has lived for over 800 years — one of the oldest continuously inhabited wooden houses in the world.
 
-May 12, 2005
+**Saksun** in northern [Streymoy](/europe/faroeislands/streymoy) is a favourite destination: a tiny village in a green bowl of mountains, with a tidal lagoon where the sea once ran. The local museum occupies a 19th-century farmhouse.
 
-### [Streymoy](/europe/faroeislands/sights/streymoy)
+**Tjørnuvík** and **Eiðisvatn** offer views of the sea stacks Risin og Kellingin (the Giant and the Witch) off the northern coast of [Eysturoy](/europe/faroeislands/eysturoy) — best seen from the beach at Tjørnuvík on [Streymoy](/europe/faroeislands/streymoy).
 
-Streymoy is the largest of the Færoe Islands and includes the capital, Torshavn. There are numerous places of interest and/or beauty. Kirkjubour is a most interesting place with a ruin of a cathedral, St Magnus, that was never finished and a church, St Olaf's, that goes ### [Eysturoy](/europe/faroeislands/sights/eysturoy)
+**Gásadalur waterfall** on [Vágar](/europe/faroeislands/vagar) drops directly from cliff to sea in one of the most photographed landscapes in the Faroes. The village was only connected by road in 2004; before that, the postman came on foot over the mountain.
 
-This is the second largest island with the highest mountain. There is a fabulous mountain road between Eiði, in the north-west of the island, and Gjovk, a village where there is a remankable cleft in the rocks forming a relatively sheltered harbour.
+**Nólsoy** is a short ferry ride from [Tórshavn](/europe/faroeislands/torshavn) and home to one of the world's largest colonies of storm petrels. They return to their burrows after dark, so a full wildlife experience requires an overnight stay.
 
-There are other delightful roads in the north-east leading to Elduvik and Oyndarfjordur, the site of rocking stones in the sea - the stones being a bit underwhelming but the road and the village doing far more than compensating.
-
-The south of the island is supposedly less dramatic but has a lake near Nes highly [more..](/europe/faroeislands/sights/eysturoy)
-
-type: Landmarks
-
-
-
-### [Eysturoy](/europe/faroeislands/sights/eysturoy_1)
-
-This is the second largest island with the highest mountain. There is a fabulous mountain road between Eiði, in the north-west of the island, and Gjovk, a village where there is a remankable cleft in the rocks forming a relatively sheltered harbour.
-
-There are other delightful roads in the north-east leading to Elduvik and Oyndarfjordur, the site of rocking stones in the sea - the stones being a bit underwhelming but the road and the village doing far more than compensating.
-
-The south of the island is supposedly less dramatic but has a lake near Nes highly [more..](/europe/faroeislands/sights/eysturoy_1)
-
-type: Landmarks
+Bird watchers will find the islands rewarding throughout. Oystercatchers are everywhere. Great and Arctic skuas are common. The only bird of prey is the merlin.

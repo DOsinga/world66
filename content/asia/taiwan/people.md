@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 21 908 135 (July 1998 est.)
+Taiwan has a population of around 23 million. The majority — roughly 95% — are Han Chinese, divided broadly into two groups: the Hoklo (Minnan-speaking descendants of early migrants from Fujian province) and the Hakka (who came mainly from Guangdong). Mainland Chinese who arrived with the Nationalist government after 1949 and their descendants make up a smaller but historically influential minority.
 
-**Age structure:**
+The indigenous Austronesian peoples of Taiwan — the island's original inhabitants — number around 560,000 and are recognised as 16 official tribal groups. Their traditional territories are mainly in the mountains and along the east coast. The Amis, Paiwan, Atayal, and Bunun are among the largest groups. Indigenous culture, music, and food have gained significant visibility in recent decades.
 
-*0-14 years:* 22% (male 2 543 524; female 2 367 077)
+Mandarin is the official language and the medium of schooling and public life. Taiwanese (Hokkien/Min-nan) is widely spoken at home and in markets, particularly among older generations and in the south. Hakka is also heard in communities around Hsinchu and Miaoli. Indigenous languages are making a partial comeback through education programmes.
 
-*15-64 years:* 69% (male 7 730 185; female 7 472 525)
+The dominant religion is a syncretic mix of Buddhism, Taoism, and folk religion — the three are woven together in everyday practice rather than kept strictly separate. You'll see incense burning in temples that house Buddhist bodhisattvas alongside Taoist deities. Christianity has a significant presence, particularly among some indigenous communities.
 
-*65 years and over:* 9% (male 963 797; female 831 027) (July 1998 est.)
-
-**Population growth rate:** 0.94% (1998 est.)
-
-**Birth rate:** 14.79 births/1 000 population (1998 est.)
-
-**Death rate:** 5.42 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.02 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.08 male(s)/female
-
-*under 15 years:* 1.07 male(s)/female
-
-*15-64 years:* 1.03 male(s)/female
-
-*65 years and over:* 1.16 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 6.34 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.82 years
-
-*male:* 73.82 years
-
-*female:* 80.05 years (1998 est.)
-
-**Total fertility rate:** 1.77 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Chinese (singular and plural)
-
-*adjective:* Chinese
-
-**Ethnic groups:** Taiwanese (including Hakka) 84% mainland Chinese 14% aborigine 2%
-
-**Religions:** mixture of Buddhist Confucian and Taoist 93% Christian 4.5% other 2.5%
-
-**Languages:** Mandarin Chinese (official) Taiwanese (Min) Hakka dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 86%
-
-*male:* 93%
-
-*female:* 79% (1980 est.)
-
-*note:* literacy for the total population increased to 92.65% in 1997
+Taiwanese society tends to be outgoing and hospitable toward foreigners. People will go out of their way to help a lost stranger. The food culture is taken seriously — where to eat and what to order are subjects of genuine enthusiasm. Night markets are social institutions as much as food venues.

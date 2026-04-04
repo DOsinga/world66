@@ -1,21 +1,14 @@
 ---
-title: "Festivals in Ontario"
+title: 'Festivals'
 type: section
 ---
 
-**ONTARIO ANNUAL EVENTS: ****Family friendly events hosted by the City of Ontario and its Inland Empire neighbors add extra fun to any visit here. Some of the area's more popular annual events are listed here. For details visit the websites listed or call the event locations directly:
+Ontario and the surrounding Inland Empire host a busy calendar of annual events.
 
-December - Christmas on Euclid Arts & Crafts Fair in Ontario -- www.ci.ontario.us or call 909-984-2458
+**Christmas on Euclid Arts & Crafts Fair** -- Ontario's festive December market on historic Euclid Avenue features local artisans and holiday cheer.
 
-February - NASCAR Sprint Series Race & Fanzone at the Auto Club Speedway - www.autoclubspeedway.com or 909-429-5000
+**NASCAR at Auto Club Speedway** -- The speedway in nearby Fontana hosts major NASCAR races in February and October, drawing tens of thousands of fans.
 
-June - Annual Temmecula Valley Balloon & Wine Festival - www.tvbwf.com - 951-676-6713
+**Temecula Valley Balloon & Wine Festival** -- Held each June in nearby [Temecula](/northamerica/unitedstates/california/inlandempire/temecula), this festival combines hot-air balloon flights with tastings from the valley's wineries.
 
-July & August - American Independence Day Star-Spangled Celebration at Westwind Park in Ontario AND Summer Concerts in the Park (R. Jack Mercer Community Bandstand) -- www.ci.ontario.us or call 909-395-2020
-
-September - Rancho Cucamonga Grape Fest - www.ranchochamber.org or call 909-987-1012
-
-October - NASCAR Pepsi 500 Race & Fanzone at the Auto Club Speedway - www.autoclubspeedway.com or 909-429-5000**
-
-**Contributors**
-April 01, 2010
+**Rancho Cucamonga Grape Harvest Festival** -- A September celebration of the Cucamonga Valley's wine-growing heritage, with grape stomping, live music, and local food.

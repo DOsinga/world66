@@ -1,27 +1,34 @@
 ---
-title: "Things to do in Silvassa"
+title: "Things to Do"
 type: section
 ---
 
-There are several **Silvassa things to do** that should not be missed in this town located on the west coast of India. Silvassa is an industrial hub for India as the city has many factories and is mainly a manufacturing center. Besides the industry there are many gardens and historic places to visit. The Wari culture originated here and it was once a Portuguese colony which has created an Indo-Portuguese culture.
+Silvassa's main attractions are its gardens, lakes, and forest parks, plus a handful of cultural sites left over from its Portuguese and tribal past. Most are free or very cheap, and everything is within a short auto-rickshaw ride.
 
-**Do Not Miss the Gardens**
+**Hirwa Van Garden**
 
-The gardens and forests near Silvassa are the main tourist draw and the Hirwa Van Gardens should not be missed. Hirwa translates to "green forest." You can reach the Hirwa Van gardens by taking the Silvassa to Dadra Road. It is a perfect spot to stop for a picnic lunch and enjoy the waterfalls, arches and stone walls. The lawn is planted with a range of colorful flowers. This garden is completely man-made but has enough beautiful spots for you to enjoy a relaxing afternoon in the gardens.
+Hirwa means "green forest," and this man-made garden on the Silvassa-Dadra road lives up to the name. A small cascading waterfall, stone arches, colourful flowerbeds, and shaded lawns make it one of the best picnic spots in the territory. There is also a children's amusement park with rides. The garden is dedicated to the tribal forest goddess Hirwa.
 
-The Island Garden is just outside of the city and has been planted around a small lake. This garden has been featured in several Bollywood films so it may be familiar. There are waves of colored flowers flowing together, beautiful wooden bridges to walk over, real thatched huts and plenty of paths for those that love to walk. You also can rent a paddle boat to go out on the lake.
+**Van Ganga Lake and Island Garden**
 
-**Experience the Safari**
+About 5 km from town, Van Ganga Lake is Silvassa's most photographed spot and has been used as a Bollywood filming location. The Island Garden wraps around the lake, connected by Japanese-style wooden bridges over the water. Walking trails, thatched huts, and paddle boats are all available. Go in the late afternoon when the light hits the fountains.
 
-A great day for everyone is a visit to the Lion Safari Wildlife Park. This park is in the wildlife sanctuary and has been surrounded by a wall. You will ride in a caged vehicle and view the Asiatic lions. This can be quite thrilling for those never having been on safari before.
+**Tribal Cultural Museum**
 
-**The Beauty of Dudhi**
+Near the Tourist Information Centre in the heart of town, this museum is a good introduction to the Warli, Kokna, and Koli tribes of Dadra and Nagar Haveli. Displays include life-size dioramas, hand-carved wooden masks, hunting tools, fishing equipment, and traditional ornaments. Worth an hour.
 
-Actually getting to Dudhi may be the best part as the road has gorgeous scenery and plenty of bends and curves to make it exciting. Dudhi has the Damanganga River. There are plenty of water leisure sports available at the Madhuban dam. You also can relax and enjoy the view as the elegance and natural beauty of the surroundings make it a popular tourist spot.
+**Our Lady of Piety Church**
 
-**A Bit of Portuguese History**
+Built by the Portuguese in 1889, this is one of the oldest churches in India still in active use. The exterior archways and the interior painting of the Last Supper are the highlights. A feast for Our Lady of Piety is held annually in late October.
 
-There are actually many Catholic churches in town due to the influx of Portuguese. The Our Lady of Piety church was built at the end of the 19th century by the Portuguese. The church itself is quite magnificent with gorgeous external archways. It is also a reminder of the dominance of the Portuguese on this area before independence.
+**Lion Safari Wildlife Park (Vasona)**
 
-**Contributors**
-April 08, 2010
+A walled enclosure in the wildlife sanctuary where you ride through in a caged vehicle to see Asiatic lions brought from the Gir Forest. The park covers about 20 hectares and is home to deer and other wildlife as well. A bit touristy, but genuinely thrilling if you have never been nose-to-nose with a lion.
+
+**Madhuban Dam and Water Sports**
+
+Located at Dhuni, about 40 km from Silvassa, the Madhuban Dam on the Damanganga River offers jet skis, speed boats, kayaks, and paddle boats. The drive there through the forested hills is scenic in its own right, with plenty of curves and views.
+
+**Bindrabin Temple**
+
+An ancient Shiva temple on the banks of the River Sakartod, just outside town. Men and women come each morning to offer prayers. This is an active religious site, so dress modestly and be respectful.

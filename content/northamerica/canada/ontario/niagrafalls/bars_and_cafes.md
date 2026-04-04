@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Niagara falls"
+title: "Bars and Cafes"
 type: section
 ---
 

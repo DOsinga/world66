@@ -1,9 +1,8 @@
 ---
-title: "Beaches"
+title: 'Beaches'
 type: section
 ---
 
-There are few good beaches along Lake Erie. Its shoreline is more cliff-like than beach-like, however there are a few beaches. Very near downtown is Edgewater State Park with excellent views of the Cleveland skyline and many park areas for picnics. Huntington Beach west of Cleveland in Bay Village is located in a charming lakefront suburb and attracts a very nice family crowd. Mentor Headlands beach east of Cleveland is the largest and most attractive natural beach in the Cleveland area. Most beaches in Greater Cleveland are very popular for having picnics, sunbathing, and watching sunsets, but not so much swimming.
+Lake Erie's shoreline near Cleveland is more cliff-like than sandy, but a few beaches are worth visiting. **Edgewater State Park** is very near downtown with excellent views of the Cleveland skyline and plenty of park areas for picnics. **Huntington Beach** in Bay Village, west of Cleveland, is in a charming lakefront suburb and attracts a nice family crowd. **Mentor Headlands**, east of the city, is the largest and most attractive natural beach in the area.
 
-**Contributors**
-April 05, 2006
+Most beaches around Greater Cleveland are popular for picnics, sunbathing, and watching sunsets over the lake, but swimming is limited.

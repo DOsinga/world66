@@ -1,5 +1,5 @@
 ---
-title: "Museums in Rudesheim"
+title: 'Museums'
 type: section
 ---
 

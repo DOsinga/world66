@@ -1,20 +1,30 @@
 ---
-title: "Festivals in Guatemala"
+title: "Festivals"
 type: section
 ---
 
-Guatemala is famous for its numerous festivals held throughout the year and **Antigua Guatemala Festivals** are just some of the most sought-after activities of tourists and locals alike. Festivals bring life and color to every country and they attract people to come to your place. No wonder, Antigua has a lot to offer everybody.
+Guatemala's festival calendar is rich with both Christian and pre-Hispanic Maya traditions, often woven together in ways that make the country's cultural complexity visible.
 
-Antigua Guatemala Festivals are not just about partying and having fun. They also feature the unique culture and traditions of Antigua. Added to these are the different beauty spots and local attractions like the Merced Church, Plaza de Armas, Santa Clara and El Carmen. If you want to make the best out of your stay in Guatemala, better join and witness their Antigua Guatemala Festivals such as the following:
+**Semana Santa (Holy Week, March or April)**
 
-**Semana Santa**
+The most spectacular festival in Central America. Antigua is the center of it. Brotherhoods carry enormous floats bearing religious statues through the streets on their shoulders, sometimes for hours, to the accompaniment of drums and incense. In the days before the processions, families lay elaborately patterned alfombras — carpets made from dyed sawdust, flower petals, and pine needles — in the streets, only to be walked over and destroyed by the procession. The contrast between the labor of creation and the ritual destruction is moving. Book accommodation months in advance; Antigua fills completely.
 
-This festival is the highlight in all of Guatemala. Every year tourists flock in the streets of Antigua just to witness this grand event. It is conducted during Easter or Holy Week when religious individuals come to Antigua and join the Easter parade. One of the things people look forward to is the display of paintings made from colored sawdust. This tradition started back in the 16th century, attracting art lovers and other painters around the world every year. During this time, other events like horse races and kite flying are also held to entertain visitors. Since it is during the Semana Santa that Antigua is packed with people, you better book your reservations ahead of time. It is also practical to arrive earlier to avoid traffic and book your accommodations ahead of time.
+**Todos Santos horse races (November 1)**
 
-**Santo Tomas Festival**
+In the highland Mam Maya town of Todos Santos Cuchumatán, All Saints' Day is marked by an extraordinary horse race in which riders charge back and forth along the main street, taking drinks of chicha (corn liquor) at each pass until many are barely able to stay in the saddle. It is chaotic, vivid, and genuinely local — very few tourists make it to this remote town in the Cuchumatanes Mountains.
 
-The Quiche village comes alive every December, not only to celebrate Christmas but to honor their patron saint, Santo Tomas. Meanwhile, the Indians come together to exchange Cofradias and also to commemorate their own mythological gods. They also perform the Palo Volador where Indians fly, suspended in the air by the ropes, at the plaza. You can easily find great bargains in the marketplace which you can bring home to your family and friends.
+**Día de los Muertos / Giant kite festival (November 1)**
 
-**Antigua Arts Festival**
+In Santiago Sacatepéquez and Sumpango, near Antigua, enormous handmade kites up to 20 metres across are flown over the cemetery on All Saints' Day to guide spirits back to earth. The kite-making is a community effort lasting weeks, and the resulting designs are extraordinary.
 
-The Antigua Arts Festival is attended by art aficionados and performers from around the world. This celebration is hosted by Antigua twice a year. The festival showcases the talents of locals and those who have established their names in the field of performing arts. This is the best place to watch ballet dancers, opera and classical music singers perform their best.
+**Santo Tomás festival (December, Chichicastenango)**
+
+Chichicastenango's patron saint festival in mid-December features the Palo Volador — men suspended by ropes from a tall pole, spinning outward as the ropes unwind, in a pre-Hispanic ritual that predates Spanish arrival. Combined with the Thursday market, it is one of the most intense days in the highland calendar.
+
+**La Quema del Diablo (December 7)**
+
+Across Guatemala, families drag their household rubbish into the street on the night of December 7 and burn it in bonfires, sometimes with an effigy of the devil. The symbolism is purification before the Feast of the Immaculate Conception. In Guatemala City and Antigua, the streets fill with smoke and flame.
+
+**Folklore Festival, Cobán (late July/early August)**
+
+The National Folklore Festival in Cobán draws indigenous representatives from across the country for music, dance, and the election of a Rabin Ajaw ("Daughter of the King") — a Maya beauty queen chosen for knowledge of Mayan language and tradition rather than Western beauty standards.

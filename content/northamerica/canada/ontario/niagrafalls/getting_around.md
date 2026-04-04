@@ -1,10 +1,6 @@
 ---
 title: "Getting Around"
 type: section
-address: "5776 Desson Ave"
-email: "info@seesight-tours.com"
-phone: "1-800-961-6584"
-url: "www.seesight-tours.com"
 ---
 
 Getting around the greater Niagara Region can be very simple and inexpensive if you know how to get around.

@@ -3,56 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 10 444 (July 1998 est.)
+Tuvaluans are Polynesian, closely related to the peoples of Samoa and Tonga. The population is around 11,000, of which roughly half live on [Funafuti Atoll](/australiaandpacific/tuvalu/funafutiatoll). The outer islands are home to tight-knit communities where traditional social structures remain strong.
 
-**Age structure:**
+Social life is organised around the *falekaupule* — the traditional assembly of island elders — which handles community decisions, dispute resolution, and the maintenance of customary practice. The church (predominantly the Church of Tuvalu, a Congregationalist denomination) is central to daily life; Sunday is genuinely observed as a day of rest and worship across all the islands.
 
-*0-14 years:* 35% (male 1 875; female 1 804)
+The Tuvaluan language belongs to the Polynesian branch of the Austronesian family and is most closely related to Samoan and Ellicean. English is widely spoken and is used in schools, government, and with visitors. On the outer islands, English is less common among older residents.
 
-*15-64 years:* 60% (male 2 980; female 3 290)
+Hospitality is genuine and direct. Visitors are welcomed, often with food and conversation. There is no tourist performance here — people are curious about strangers because strangers are genuinely rare. A willingness to sit, share a meal, and talk slowly will get you further than any guidebook.
 
-*65 years and over:* 5% (male 226; female 269) (July 1998 est.)
-
-**Population growth rate:** 1.4% (1998 est.)
-
-**Birth rate:** 22.6 births/1 000 population (1998 est.)
-
-**Death rate:** 8.62 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.91 male(s)/female
-
-*65 years and over:* 0.84 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 26.23 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 63.88 years
-
-*male:* 62.72 years
-
-*female:* 65.09 years (1998 est.)
-
-**Total fertility rate:** 3.11 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Tuvaluan(s)
-
-*adjective:* Tuvaluan
-
-**Ethnic groups:** Polynesian 96%
-
-**Religions:** Church of Tuvalu (Congregationalist) 97% Seventh-Day Adventist 1.4% Baha'i 1% other 0.6%
-
-**Languages:** Tuvaluan English
-
-**Literacy:** NA; noteeducation is free and compulsory from ages 6 through 13
+Tuvalu's future is uncertain in ways that weigh on its people. The prospect of losing their homeland — not eventually, but within the lifetimes of people living now — is not something Tuvaluans approach abstractly. Many have family members already living in Fiji, New Zealand, or Australia. The 2023 Falepili Union with Australia formalised a pathway for permanent migration, but opinions on it are divided. Staying, adapting, and fighting for recognition on the international stage is as much a part of Tuvaluan identity as any language or tradition.

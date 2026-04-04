@@ -1,17 +1,10 @@
 ---
-title: "When to Go in Tanjung Pinang"
+title: "When to Go"
 type: section
 ---
 
-The capital of Bintan Island, Tanjung Pinang, is a beautiful seaport city in the country of Indonesia. To answer the question of **Tanjung Pinang, When to go**? one would have to be knowledgeable of the city's climate and the differences in the seasons.
+Tanjung Pinang sits close to the equator and is hot and humid year-round. Temperatures hover around 30 degrees Celsius with little seasonal variation. The main distinction is between the wetter and drier months.
 
-**Weather and Climate
-**
+The rainy season runs roughly from October to March, with the heaviest downpours in November and December. Rain usually comes in short, intense bursts rather than all-day drizzle. The dry season from April to September is the most comfortable time to visit, with lower humidity and calmer seas for island hopping.
 
-The city is close to the equator and offers a tropical climate year round. Tanjung Pinang hardly has a bad day and rarely gets serve thunderstorms. The seasons change very little with rainfall being the judge on weather. In the higher areas, the weather, of course, is cooler and thinner. Snow covers the mountaintops and chills the bones if there for too long. The city is surrounded mostly by water, causing the humidity level to be very high. The days are filled with dry winds and even during the winter months the winds can maintain significant strength, cutting like paper. The spring season is very calm and relaxing. As summer rolls in, the temperatures climb. The humidity reaches highs, too. When fall comes along, temperatures ease and the humidity become bearable.
-**Monsoon Season
-**
-
-Monsoon season happens between the months of June and September. The rainfall comes in different patterns during the year adding to the build up of water throughout the land. This monsoon season accounts for 8 percent of all rain that comes to the land. Though the monsoon can do damage, it also offers relief to area. Once the monsoon season has passed, the air is cooler. During the winter months, the temperatures drop to levels that are more comfortable.
-
-After the monsoon season has passed, the fall and winter months offer the best time to visit the city of Tanjung Pinang. The weather is nice and the water is calm.
+The biggest local event is the Tanjung Pinang International Dragon Boat Festival, held annually on the seafront facing Penyengat Island since 1979. It typically falls in October and draws teams from across the region, with canoe races, diving contests, and cultural performances alongside the main dragon boat races. Chinese New Year in January or February brings street parades with dragons and lions, and Indonesia's Independence Day on August 17 fills the town with festivities.

@@ -1,5 +1,0 @@
-northamerica/cuba
-northamerica/dominica
-northamerica/elsalvador
-northamerica/greenland
-northamerica/grenada

@@ -3,15 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurant Hotel Swiss Chalet** is a cosy place to dine out enjoying
-excellent Swiss, Filipino and International cuisine. Hotel and
-Restaurant are wireless Hotspot free for all guests. Dine out and stay
-out to enjoy excellent food and luxury rooms managed by Swiss
-management.
-
-The address for reservations is: Santos Street
-corner Real Street
-Balibago Angeles City
-Tel: (+63) 45 888 2618
-email:
-info@swisschaletph.com
+Pampanga is the culinary capital of the Philippines, and Angeles City lives up to that reputation. Sisig — the sizzling, sour, spicy dish made from chopped pig face — was invented here, and you will find versions of it everywhere. Beyond Filipino food, the Clark Freeport Zone has attracted a surprising range of international restaurants, from French fine dining to Greek home cooking.

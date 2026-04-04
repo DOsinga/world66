@@ -5,14 +5,12 @@ latitude: -14.27967
 longitude: -170.636687
 ---
 
-Travel Guide
+Alega (pronounced Alenga) is a small village on Tutuila's south coast, about 10 kilometres east of Pago Pago. The beach here is one of the better snorkeling spots on the island.
 
-Situated roughly 10 kilometres outside of Pago Pago, the stunning village of Alega (pronounced Alenga) offers breathtaking scenery, hair-raising snorkelling and the chilled out atmosphere of a desert island.
+The beach is village-owned, and you'll need to get permission from the matai (chief) before using it — look for Tisa's Barefoot Bar at the east end of the beach, where you can arrange access. Tisa's is a well-known local institution, built from salvaged timber and natural materials, and serves drinks in a setting that feels genuinely Pacific.
 
-Owned by the villagers, permission to use the beach or swim must be sought from the village *matai * or chief, Candyman. He can be found in Tisa's Barefoot Bar along with bar-owner and wife, Tisa. hugging the east end of the beach, Tisa's is a bar run entirely from recycled or natural resources. The bar itself is built from a mish-mash of palms and ship wreckage. Whilst primarily a bar, there is also room for accommodation but at the moment only a *fale* or hut sleeping five.
+Snorkeling is best at the edge of the channel that runs through the bay toward open water. There's a rope and buoy to hold — useful, since the current at the channel mouth is strong. The reef drops off sharply and the marine life is rich. Shark sightings (mostly reef sharks at depth) are not uncommon when conditions are clear.
 
-The beach itself, is like many other's in the South Pacific, shally azure waters protected by treacherous outer reef. There is a channel leading to the open sea and as such the currents 25 metres and through the central area of the bay are extremely dangerous. However, the best snorkelling to be had is at the edge of this current flow but there is a bouy and rope on which to hang. If you do, you'll be treated to a five metre long, two metre wide and forty-five metre deep drop-off. If you brave these conditions, the marine life is spectactular. In clement weather, you have visibility reaching the bottom, and when this occurs you have a unique view and cross-section of reef life from the surface the ocean floor. If the tide is in, reef sharks may be spotted lurking at about twenty to twenty-five metres.
+The channel current is genuinely dangerous. Swim only when the sea is calm and stay attached to the rope when at the drop-off. Don't venture into the open channel.
 
-Alega also hosts and annual tatoo festival in which many artists from all over Polynesia gravitate towards this tiny corner of the Pacific. Along with this many other events are held throughout the year but, like most villages in the Samoas, please refrain from disturbing the village on Sundays as you will be most unwelcome.
-
-It may be a bugger to get to but American Samoa is well worth it.
+Alega hosts an annual tattoo festival drawing artists from across Polynesia. Like all Samoan villages, it observes Sunday strictly — don't visit on a Sunday without a specific invitation.

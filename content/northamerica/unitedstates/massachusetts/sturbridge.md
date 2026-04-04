@@ -5,8 +5,6 @@ latitude: 42.108438
 longitude: -72.080777
 ---
 
-Travel Guide
-
 Sturbridge is probably most famous for the Old Sturbridge Village
 living history museum. Sturbridge offers an exciting shopping, dining,
 and recreation destination. Located in southern central Massachusetts,

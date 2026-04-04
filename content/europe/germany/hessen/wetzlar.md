@@ -5,48 +5,12 @@ latitude: 50.570561
 longitude: 8.531245
 ---
 
-Travel Guide
+Wetzlar, in central Hesse, features an amazingly well-preserved and restored Old Town with historic plazas, a 13th-century cathedral and scores of half-timbered houses. The city was temporary home to Goethe in 1772, and his time here inspired *The Sorrows of Young Werther*.
 
-**Wetzlar**, in central Hesse, features an amazingly well-preserved
-and restored Old Town (Altstadt), with historic plazas, a 13th century
-Cathedral (Dom) and scores of half-timbered houses.
+The tightly woven ensemble of buildings in the Altstadt spans Romanesque to Baroque, preserved and extensively restored to look much as it did in the late 18th century. The great squares of Buttermarkt, Fischmarkt, Eisenmarkt and Kornmarkt give the old centre its character, each named after the trades that once filled them.
 
-Wetzlar's historic Old Town offers plenty of old buildings,
-museums, and since it was temporary home to the famous writer Goethe
-back in 1772.
+The Dom is one of Wetzlar's landmark buildings. Construction began in 1230 and is famously still not finished. It incorporates so many architectural styles that it reads like a stone album of German ecclesiastical architecture, yet the interior is remarkably harmonious, with 14th-century frescoes and an unusual Pieta from 1380.
 
-The tightly woven ensemble of historic buildings and houses in the
-Old Town (Altstadt) with its half-timbered houses and stone buildings
-from Romanesque (Wetzlar Cathedral) to Gothic to Renaissance and Baroque
-is to a great extent as it was in the late 18th century, preserved and
-extensively restored. Thus the great squares of Buttermarkt/Domplatz (Butter Market/Cathedral Square), Fischmarkt (Fish Market), Eisenmarkt (Iron Market), Kornmarkt (Corn Market), and the former Franziskanerhof (Franciscan Yard), now called Schillerplatz.
+There are many noteworthy buildings to visit if time permits, including the Lottehaus, Jerusalemhaus, and the Reichskammergerichtsmuseum. Otherwise, just strolling casually through these old streets, looking at the shops and stopping for dinner at one of the restaurants is a fine way to spend an afternoon. At night there are many pubs open, some of them offering live music.
 
-You definitely want to visit Wetzlar's Dom (Cathedral). It is one of
-Wetzlar's landmark buildings. Building work began on the cathedral in
-1230 and is still not finished. It is the successor to a former Church of the Saviour
-consecrated in 897. Wetzlar's Dom incorporates so many styles that it
-is like a stone album of German ecclesiastical architecture. Each master
-seems to have had his own ideas. Yet, it is remarkably harmonious on
-the inside with a trove of art treasures, including 14th-century
-frescoes and an unusual Pieta from 1380.
-
-There are many noteworthy buildings to visit (e.g., the Lottehaus,
-Jerusalemhaus, and the Reichskammergerichtsmuseum) if time permits.
-Alternatively, just strolling casually through these old and small
-streets, looking at the shops, perhaps having dinner in one of the
-restaurants, and a dessert, for example ice cream at an Italian ice
-cafe.
-
-At night there are many pubs open, some of them also offer live music.
-
-If you want to spend more time in Wetzlar to explore in more depth we
-recommend doing so over several days. There is a tourist information
-booth at Domplatz 8 which provides detailed maps, recommended tours etc.
-
-The tour we recommend initially should take about 2-3 hours and is offered by Wetzlar's tourist information office.**Additional travel info:**
-
-Park your car at the Lahninsel
-(parking is free there). From there you have a good starting point and
-access through Wetzlar's historic Old-town. You can see the Lahn river
-there, with a great view to the 13th-century Lahn Bridge (Alte
-Lahnbrücke.)
+If you want to explore in more depth, spend several days. There is a tourist information booth at Domplatz 8 with detailed maps and recommended tours. Park your car at the Lahninsel, where parking is free, for a good starting point into the historic centre with views of the Lahn river and the 13th-century Alte Lahnbrücke.

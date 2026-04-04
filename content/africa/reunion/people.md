@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 705 053 (July 1998 est.)
+Réunion has a population of around 900,000. The island was uninhabited when French settlers arrived in the 17th century; its entire population descends from settlers, enslaved people, and later waves of indentured labourers from India, as well as migrants from China, Madagascar, and the Comoros.
 
-**Age structure:**
+The population today reflects this layered history. People of primarily African and Malagasy descent (known as Créoles) form the largest group at around 35%. People of Indian origin — most with Tamil roots — make up roughly a quarter of the population, and those of European (primarily French) descent another quarter. The remaining population includes people of Chinese, Malay, and Comorian heritage, along with a large mixed-heritage community. The French constitution bans ethnic classification in official censuses, so all figures are estimates.
 
-*0-14 years:* 32% (male 116 705; female 111 262)
+The everyday language is Réunionese Creole (Kréol réyoné) — a French-based creole with deep roots in Malagasy and Tamil. It is not mutually intelligible with French or with other Indian Ocean creoles. Most Réunionnais are bilingual in Creole and French, with French used for education, government, and the media. If you speak French, you will get by; if you only speak English, you may find communication more difficult than on Mauritius.
 
-*15-64 years:* 62% (male 214 914; female 221 502)
+Religion reflects the diversity: Roman Catholicism is the most widely practised faith, alongside Hinduism (particularly strong among the Tamil community, with colourful temples visible across the island), Islam, and Buddhism. The major Tamil festival of **Cavadee**, during which devotees perform acts of mortification including body piercing, is among the most striking religious spectacles in the Indian Ocean.
 
-*65 years and over:* 6% (male 16 846; female 23 824) (July 1998 est.)
-
-**Population growth rate:** 1.81% (1998 est.)
-
-**Birth rate:** 22.78 births/1 000 population (1998 est.)
-
-**Death rate:** 4.67 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.97 male(s)/female
-
-*65 years and over:* 0.7 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 7.09 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 75.4 years
-
-*male:* 72.36 years
-
-*female:* 78.6 years (1998 est.)
-
-**Total fertility rate:** 2.67 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Reunionese (singular and plural)
-
-*adjective:* Reunionese
-
-**Ethnic groups:** French African Malagasy Chinese Pakistani Indian
-
-**Religions:** Roman Catholic 94% Hindu Islam Buddhist
-
-**Languages:** French (official) Creole widely used
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 79%
-
-*male:* 76%
-
-*female:* 80% (1982 est.)
+Music is the other marker of identity. **Maloya** — a form rooted in the experience of enslaved people, closer in spirit to the blues than to the more upbeat sega of Mauritius — is unique to Réunion. It was suppressed for decades by authorities who saw it as politically subversive, and its revival is bound up with the island's sense of Creole cultural identity. You will hear it performed at festivals and in bars.

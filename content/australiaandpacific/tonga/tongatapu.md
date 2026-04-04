@@ -5,24 +5,10 @@ latitude: -21.166707
 longitude: -175.1982
 ---
 
-Tongatapu is the largest island in the Kingdom of Tonga. It is home to two thirds of its people. A roughly triangular shaped island measures about 34 km across from west to east. Most of the island is less than 17 meters above sea level. The capital [Nukualofa](/australiaandpacific/tonga/tongatapu/nukualofa), is a slow paced city of about 30,000 inhabitants.
+Tongatapu is the largest island in Tonga and home to about two-thirds of the country's population. It's flat — most of the island barely rises above sea level — and roughly triangular, about 34km from west to east. The north coast is a low reef platform; the south and east coasts meet steep limestone cliffs dropping into deep water.
 
+Most visitors arrive here first, since Fua'amotu International Airport sits on the southern part of the island, about 21km from the capital. Nuku'alofa, on the north coast, is a low-key city of around 30,000 — a waterfront, a market, a palace behind a white fence, and not much that demands your time beyond a day or two.
 
- The archeological site of Haamonga is very impressive and should not be missed. [Mua](/australiaandpacific/tonga/tongatapu/mua) is a good place from where to see it.
- 
+The best reason to explore Tongatapu itself is the **Ha'amonga 'a Maui Trilithon** at the island's northeast tip — ancient limestone gateway stones from around 1200 AD, impressively large and set in quiet surroundings. The **blowholes at Houma** on the south coast are worth a detour when the swell is up; waves force through the reef with considerable force and noise. **Kolovai Beach** on the west end of the island is the place to swim, and the area's flying fox colony (one of the largest fruit bat populations in the Pacific) roosts in the casuarina trees there.
 
-
- The island is an area of raised reef limestone on a deep base of volcanic sedimentary rock. The low northern cost is a reef platform, in places up to 200 meters in width. The high windward side of the eastern coast is known as "lilu" has a narrow reef ledge varying in height from 6 to 46 meters. The highest point of 65 meters lays between the airport village of Fu'amotu and Nakolo. 
-
-
- The south and east coasts face very deep water. See the blowholes at Houma. Here waves crash against the reef and through blowholes create spectacular sights. From south east coast the island of "Eua is visible. Tongatapu has no rivers are streams. Tongatapu's drinking water supply come from underground, called the water lens. Rainwater falling on the islands permutes and floats on top of the heavier sea water. This water is pumped up for the town supply. Rainwater collected in tanks is an alternative source of drinking water for many a Tongan home.
-
-
- 
-
-## Destinations in Tongatapu
-
-[Nukualofa](/australiaandpacific/tonga/tongatapu/nukualofa)
-[Ha'amonga](/australiaandpacific/tonga/tongatapu/haamonga)
-[Mua](/australiaandpacific/tonga/tongatapu/mua)
-[Kolovai Beach](/australiaandpacific/tonga/tongatapu/kolovaibeach)
+Tongatapu's drinking water comes from underground — rainwater percolates down and floats on top of the heavier saltwater below, forming a lens that's pumped for the town supply. Rainwater tanks supplement this at most homes.

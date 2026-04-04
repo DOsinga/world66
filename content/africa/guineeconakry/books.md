@@ -3,112 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**To Timbuktu** by Mark Jenkins. A vivid account of a Niger River expedition that passes through Guinea and captures the spirit of West African travel -- the breakdowns, the hospitality, the absurdity, and the beauty.
 
-**To Timbuktu**
+**The Fortunes of Africa** by Martin Meredith. A sweeping history of the continent that gives essential context for understanding Guinea's place in West Africa, from the Mali Empire through colonialism to independence.
 
+**African Guitar: Solo Fingerstyle Guitar Music from the Western Sahel** -- not a book but a companion resource for understanding Guinea's extraordinary musical heritage. The country produced some of Africa's greatest musicians, and reading about the djembe and balafon traditions before visiting enriches the experience enormously.
 
+**Camara Laye's The Dark Child** (L'Enfant Noir). A memoir of growing up in colonial Guinea, widely considered one of the finest works of African literature. Laye's descriptions of Malinke village life around [Kankan](/africa/guineeconakry/kankan) remain vivid and moving.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0688163424/ref=ase_osingacom?v=glance&s=books)
-
-author: Mark Jenkins
-
-isbn: 0688163424
-
-subject: travel
-
-**Papua New Guinea**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424027/ref=ase_osingacom?v=glance&s=books)
-
-author: Adrian Lipscomb,Jon Murray,Rowan McKinnon
-
-isbn: 0864424027
-
-subject: travel
-
-**Mouse Practice**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0590682202/ref=ase_osingacom?v=glance&s=books)
-
-author: Emily Arnold McCully
-
-isbn: 0590682202
-
-subject: culture
-
-**Patterns of Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0395500885/ref=ase_osingacom?v=glance&s=books)
-
-author: Ruth Benedict,Foreword by Mary Catherine Bate..
-
-isbn: 0395500885
-
-subject: culture
-
-**Throwim Way Leg:Tree-Kangaroos, Possums, and Penis Gourds -- On the Track of Unknown Mammals in Wildest New Guinea**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0871137313/ref=ase_osingacom?v=glance&s=books)
-
-author: Tim Flannery,Tim F. Flannery
-
-isbn: 0871137313
-
-subject: travel
-
-**Sambia Sexual Culture:Essays from the Field**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0226327523/ref=ase_osingacom?v=glance&s=books)
-
-author: Gilbert Herdt
-
-isbn: 0226327523
-
-subject: culture
-
-**Throwim Way Leg:Tree-Kangaroos, Possums, and Penis Gourds -- On the Track of Unknown Mammals in Wildest New Guinea**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0871137313/ref=ase_osingacom?v=glance&s=books)
-
-author: Tim Flannery,Tim F. Flannery
-
-isbn: 0871137313
-
-subject: history
-
-**The Seige of Rabaul**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1883809096/ref=ase_osingacom?v=glance&s=books)
-
-author: Henry Sakaida
-
-isbn: 1883809096
-
-subject: history
-
-**Mission Possible**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0842338810/ref=ase_osingacom?v=glance&s=books)
-
-author: Marilyn Laszlo,Luci Tumas
-
-isbn: 0842338810
-
-subject: history
+**Lonely Planet West Africa** covers Guinea in a practical chapter that is one of the few up-to-date English-language guides available. Essential if you are traveling independently.

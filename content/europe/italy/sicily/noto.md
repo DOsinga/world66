@@ -1,10 +1,10 @@
 ---
-title: "Noto"
+title: 'Noto'
 type: location
-latitude: 36.890886
-longitude: 15.070645
+latitude: 36.8909
+longitude: 15.0706
 ---
 
-Situated in the south-eastern corner of Sicily, Noto is famous for its Baroque architecture, and since 2002 it has been part of the UNESCO World Heritage Site 'Late Baroque Towns of the Val di Noto'.
+Noto is the jewel of Sicilian Baroque. Rebuilt entirely after the 1693 earthquake, the town is a masterpiece of unified urban design, all honey-coloured limestone, theatrical facades, and ornate balconies. It has been a UNESCO World Heritage Site since 2002.
 
-Minor corrections by [RichardOsinga](/world/member/richardosinga) on 25 May 04
+The main street, Corso Vittorio Emanuele, is the showcase, lined with churches and palaces that glow golden in the late afternoon light. Noto is small enough to see in a few hours, but the atmosphere and the excellent gelato from Caffe Sicilia make it worth lingering.

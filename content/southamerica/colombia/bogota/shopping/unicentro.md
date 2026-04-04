@@ -1,8 +1,8 @@
 ---
 title: "Unicentro"
 type: poi
-latitude: 4.702159
-longitude: -74.041281
+latitude: 4.7022
+longitude: -74.0413
 ---
 
-Big shopping centre, take the Unicentro bus from the centre north on Cra 10.** norma:** It is a good place because you can find; not only sops, but cinemas, restaurants, banks etc...
+One of Bogota's largest shopping centres, in the north of the city. Department stores, cinemas, restaurants, and banks under one roof. Take the Unicentro bus north on Carrera 10 from the centre.

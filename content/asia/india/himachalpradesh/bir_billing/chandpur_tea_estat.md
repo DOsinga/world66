@@ -1,5 +1,5 @@
 ---
-title: "Chandpur Tea Estate - Palampur Kangra Valley"
+title: 'Chandpur Tea Estate'
 type: location
 ---
 

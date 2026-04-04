@@ -5,15 +5,13 @@ latitude: 48.85521
 longitude: 2.387194
 ---
 
-There are numerous interesting things just around Paris. The palaces of
-[Versailles](/europe/france/around_paris/versailles) and, a little further afield,
-[Fontainebleau](/europe/france/around_paris/fontainebleau) are true highlights of any trip to France. Disneyland Paris is an attraction of quite a different nature - but it does draw a crowd.
+The Île-de-France region around [Paris](/europe/france/paris) is worth exploring beyond the city limits. The grand palace of [Versailles](/europe/france/around_paris/versailles) — built by Louis XIV to project absolute royal power — is an unmissable day trip, though it draws enormous crowds in summer; go early or on a weekday. A little further south, the palace of [Fontainebleau](/europe/france/around_paris/fontainebleau) is less visited and equally impressive, surrounded by a magnificent forest that's world-renowned for bouldering.
 
-Minor corrections by [RichardOsinga](/world/member/richardosinga) on 12 May 04
+Disneyland Paris, near Marne-la-Vallée, draws its own crowd and is well-run by European theme park standards.
 
-## Destinations in Around Paris
+## Destinations Around Paris
 
-[Rueil-Malmaison](/world/europe/france/around_paris/rueilmalmaison)
-[Meaux](/world/europe/france/around_paris/meaux)
-[Versailles](/world/europe/france/around_paris/versailles)
-[Fontainebleau](/world/europe/france/around_paris/fontainebleau)
+[Versailles](/europe/france/around_paris/versailles)
+[Fontainebleau](/europe/france/around_paris/fontainebleau)
+[Rueil-Malmaison](/europe/france/around_paris/rueilmalmaison)
+[Meaux](/europe/france/around_paris/meaux)

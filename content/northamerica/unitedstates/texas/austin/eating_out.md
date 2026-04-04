@@ -1,6 +1,6 @@
 ---
-title: "Eating out"
+title: 'Eating Out'
 type: section
 ---
 
-A favorite Austinite Tex-Mex restauraunt is Chuy's. Though often crowded, the atmosphere is wonderful and the food is delicious. Not to mention the huge portions of food. There are several locations, but this local prefers the south location on Barton Springs Road just a few minutes from Interstate Highway 35. The prices are fair, but on the higher side so you might want to try one of the other dozens of Tex-Mex eateries if you're keeping a tighter budget.
+Austin's food scene punches well above its weight. Tex-Mex is everywhere and ranges from cheap taquerias to sit-down institutions like Chuy's on Barton Springs Road. The barbecue is legendary, the food truck culture thrives, and South Congress and East Austin are packed with inventive restaurants.

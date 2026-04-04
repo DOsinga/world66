@@ -1,9 +1,9 @@
 ---
-title: "Eating Out in Gothenburg"
+title: "Eating Out"
 type: section
 ---
 
-**Gothenburg restaurants** give you a combination of a great food and an excellent atmosphere. Below are some of the best places to get authentic Swedish as well as international food.
+Gothenburg is Sweden's best seafood city, and the restaurants along the harbour and in the Linnestaden neighbourhood make the most of it. Expect to pay more than you might in southern Europe, but the quality is high.
 
 **Sj&ouml;magasinet**
 

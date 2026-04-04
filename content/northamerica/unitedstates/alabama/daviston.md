@@ -1,10 +1,12 @@
 ---
-title: "Daviston"
+title: 'Daviston'
 type: location
 latitude: 33.052899
 longitude: -85.639678
 ---
 
-On the morning of 27 March 1814, General Andrew Jackson and an army of 3,300 men consisting of Tennessee militia, United States regulars and both Cherokee and Lower Creek allies attacked Chief Menawa and 1,000 Upper Creek or Red Stick warriors fortified in the "horseshoe" bend of the Tallapoosa River. To seal off the bend of the river, the Upper Creeks built an incredibly strong 400 yard long barricade made of dirt and logs. As the Cherokee and Lower Creek warriors swam the Tallapoosa and attacked from the rear, Jackson launched the militia and regular soldiers against the barricade.
+Daviston is a small town in east-central Alabama, notable as the location of Horseshoe Bend National Military Park. On March 27, 1814, General Andrew Jackson and an army of 3,300 -- Tennessee militia, U.S. regulars, Cherokee, and Lower Creek allies -- attacked Chief Menawa and 1,000 Red Stick Creek warriors fortified in a bend of the Tallapoosa River.
 
-Facing overwhelming odds, the Red Sticks fought bravely yet ultimately lost the battle. Over 800 Upper Creeks died at Horseshoe Bend defending their homeland. This was the final battle of the Creek War of 1813-14, which is considered part of the War of 1812. In a peace treaty signed after the battle, both the Upper and Lower Creeks were forced to give the United States nearly 20 million acres of land in what is today Alabama and Georgia. The victory here brought Andrew Jackson national attention and helped him to be elected the seventh President of the United States in 1828. This 2,040-acre park preserves the site of the battle.
+The Red Sticks had built a 400-yard barricade of dirt and logs across the neck of the horseshoe bend. While Cherokee and Lower Creek warriors swam the river to attack from the rear, Jackson's forces stormed the barricade. Over 800 Red Sticks died defending their homeland in one of the bloodiest battles of the Creek War. The subsequent treaty forced the Creek to cede nearly 20 million acres in what is now Alabama and Georgia, and the victory launched Andrew Jackson toward the presidency.
+
+The 2,040-acre park preserves the battlefield with a visitor center, hiking trails, and a driving trail along the river.

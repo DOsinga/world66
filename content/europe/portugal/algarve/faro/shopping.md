@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Faro"
+title: 'Shopping in Faro'
 type: section
 ---
 
@@ -50,7 +50,3 @@ in the various malls and shops by the time you leave, you can always
 pick up more things at the duty free in the Faro Airport, which offers
 a variety of shops.
 
-**Contributors**
-February 09, 2010
-
-February 02, 2010

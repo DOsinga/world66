@@ -1,50 +1,14 @@
 ---
-title: "Festivals"
+title: 'Festivals'
 type: section
-address: "2900 S. Riverside Dr."
-date: "Dec. 4 - Jan. 2, 2006"
-email: "staff@riverparks.org"
-phone: "918.596.2001"
-url: "www.riverparks.org"
 ---
 
-Many festivals and events can be found in Tulsa throughout the year. Mayfest, Juneteenth, Oktoberfest (one of the best in the country), The Tulsa State Fair, Gateway International Balloon Festival, Jazz on Greenwood are all big draws for tourists. Other big attractions are Tulsa Philharmonic Orchestra, Tulsa Performing Arts Center, Tulsa Ballet, and the Tulsa Opera. Christmas Lights in the Park can be seen at the River Parks Pedestrian Bridge in December.
+Tulsa has a strong calendar of festivals and cultural events throughout the year.
 
-**Contributors**
-December 18, 2006
+**Mayfest** in May is a major downtown arts and music festival. **Juneteenth** celebrations honor African American heritage. **Tulsa Oktoberfest** at River West Festival Park (2100 S. Jackson) is one of the best Oktoberfests in the country, with Bavarian bands, German food -- pretzels, bratwurst, kartoffelpuffer -- and craft vendors. It runs every October.
 
-### [Christmas Lights in the Park](/northamerica/unitedstates/oklahoma/tulsa/festivals/christmas_lights_i)
+The **Gateway International Balloon Festival** and **Jazz on Greenwood** are popular draws. The **Tulsa State Fair** fills Expo Square each fall.
 
-Christmas Lights in the Park is located at River Parks Pedestrian Bridge from December 4 to January 2.
+For performing arts, the city supports the Tulsa Philharmonic Orchestra, the Tulsa Ballet, and the Tulsa Opera, all performing at the Tulsa Performing Arts Center downtown.
 
-
-
-tel: 918.596.2001
-
-url: www.riverparks.org
-
-date: Dec. 4 - Jan. 2, 2006
-
-address: 2900 S. Riverside Dr.
-
-email: staff@riverparks.org
-
-### [Tulsa Oktoberfest](/northamerica/unitedstates/oklahoma/tulsa/festivals/tulsa_oktoberfest)
-
-Tulsa's Oktoberfest is one of the best in the Country. Many bands from Bavaria and Austria play all the favorites, including "The Chicken Dance" and polkas of every kind. There are many things for families to do, including children's crafts and carnival rides. Art and gifts from around the world are available from the vendors at Oktoberfest.
-
-Perhaps the biggest draw for Oktoberfest is the food and drinks. Food from Germany includes: Bavarian pretzels (with salt and cheese sauce, of course), brattwurst, german barbeque, kartoffelpuffer (potato [more..](/northamerica/unitedstates/oklahoma/tulsa/festivals/tulsa_oktoberfest)
-
-
-
-accessibility: Handicapped Accessible
-
-tel: 918.744.9700
-
-url: [www.tulsaoktoberfest.org](http://www.tulsaoktoberfest.org/index-1.html)
-
-date: October
-
-address: 2100 S. Jackson (River West Festival Park)
-
-email: info@tulsaoktoberfest.org
+**Christmas Lights in the Park** at the River Parks Pedestrian Bridge (2900 S. Riverside Dr.) runs through December and into January.

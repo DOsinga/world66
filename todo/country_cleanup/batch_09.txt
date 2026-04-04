@@ -1,5 +1,0 @@
-asia/cyprus
-asia/easttimor
-asia/india
-asia/indonesia
-asia/iran

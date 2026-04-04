@@ -1,27 +1,9 @@
 ---
-title: "MUSHU"
+title: 'Mushu'
 type: poi
-accessibility: "Jeepneys and Taxi's"
-address: "20th street"
-price: "A-"
-type: "Japanese"
-latitude: 37.7605
-longitude: -122.388577
+address: '20th Street, Bacolod City'
+latitude: 10.68
+longitude: 122.97
 ---
 
-A new nice japanese bar and resto along lacson.
-
-**Contributors**
-December 20, 2007
-
-type: Japanese
-
-
-
-
-
-accessibility: Jeepneys and Taxi's
-
-address: 20th street
-
-PriceOfMenu: A-
+A Japanese bar and restaurant along Lacson Street. A good option for sushi and Japanese fare in Bacolod.

@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Calcutta"
+title: 'Bars and Cafes'
 type: section
 ---
 

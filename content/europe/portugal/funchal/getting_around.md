@@ -1,17 +1,18 @@
 ---
-title: "Getting Around in Funchal"
+title: "Getting Around"
 type: section
 ---
 
-There are various **Funchal Transportation** options available. The city has only automobile transport, as Madeira Island has no train lines. Transportation is good and reliable, and you can count on good services. Here are the best choices:**
-**
+Madeira has no trains, so getting around Funchal means taxis, buses, or walking. The city is hilly but compact, and transport is reliable.
 
-**Taxi
-**
+**Taxi**
 
-Taxi services are widely available in Funchal. They can be easily distinguished, as all of the cars are painted in yellow and have blue stripes on both sides. They also have a taxi sign on top. Taxi rates are regulated by the government, although it is not an unusual thing for the drivers to work on a kilometer basis, without turning their taximeter on. It is important to either disagree with that (in order to avoid frauds) and insist that the meter is on, or negotiate the price prior to taking the ride. Along with Portuguese, many of the drivers speak Spanish and English at a fluent level. If you have extended transportation needs, hiring a taxi for the whole day is possible, too.
+Taxis are everywhere, painted yellow with blue stripes and a sign on top. Rates are government-regulated, but some drivers prefer to negotiate a flat rate rather than use the meter. Insist on the meter to avoid overpaying, or agree on a price before you get in. Many drivers speak English and Spanish. Hiring a taxi for a full day is also an option for exploring outside the city.
 
-**Bus
-**
+**Bus**
 
-Buses are also a good option for traveling around Funchal. Again, they are yellow in color, just like the taxis. They are very punctual, and you will rarely have to wait on a bus stop for more than 5 minutes. Ticket prices vary. You can buy a ticket from the driver for about $1.8, but with a double ticket for $1.7 bought in advance, you can take 2 rides, thus saving more than $1. There are also guided sightseeing buses that drive you around town. Riding on them costs around $10.
+Yellow buses run frequently through the city. You will rarely wait more than five minutes. A ticket from the driver costs about 1.80 euros; pre-purchased double tickets (two rides for 1.70 euros) save money. Sightseeing buses with commentary run around the main attractions for about 10 euros.
+
+**Aerobus**
+
+A dedicated bus service between the airport and Funchal. TAP passengers ride free; others pay 5 euros.

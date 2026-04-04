@@ -3,17 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-One of the best ways to get around Israel is by train and buses. Sure, a car will get you from point A to point B directly, but the trains are so much fun and do not stop for traffic. Israel has pushed forward in modernizing its train system.
+**Trains.** Israel Rail (rail.co.il) has modernized significantly. Fast trains connect Ben Gurion Airport directly to Tel Aviv and Jerusalem. The main coastal line runs between Tel Aviv and Haifa frequently, with trains continuing north toward Nahariya. Tickets are cheap — a Tel Aviv–Jerusalem fare is around 30 NIS. On Shabbat (Friday evening to Saturday evening) trains do not run. Plan around this if you're traveling on weekends.
 
-For train schedules, fees, and lines, go to: www.israrail.org.il
+**Buses.** Egged operates the national intercity bus network and covers virtually everywhere trains don't reach — the Negev, Galilee towns, the Dead Sea area, and Eilat. Dan runs most buses within and around Tel Aviv. A single bus journey within a city costs around 6 NIS. Buses also stop on Shabbat in most cities, though some Arab towns run services throughout the week.
 
-From the Ben Gurion International Airport to the Northern most city of Naharia, many places are accesible by new double decker trains. It would only cost a few dollars to travel from Tel Aviv to Jerusalem or Haifa. It also a great place to strike up a conversation with Israelis.
+**Shared taxis (sherut).** The sherut is an Israeli institution: a shared minibus or large taxi that runs fixed routes at fixed fares, usually slightly more than the bus but faster and running on Shabbat when nothing else does. In Tel Aviv and Jerusalem sheruts run fixed routes through the city center. Very useful on Saturday.
 
-The trains are extremely safe and has a clean track record.
+**Taxis.** Metered taxis are widely available. All licensed taxis have a meter — always insist the driver uses it (in Hebrew: "tefal et ha-moneh, bevakasha"). Tipping is not expected. Apps like Gett and Yango operate across Israel and are often more convenient than flagging a cab.
 
-**Contributors**
-March 02, 2006
+**Car rental.** Renting a car opens up the Galilee, the Negev, and smaller towns that buses don't reach easily. Roads are good and signposting is in Hebrew, Arabic, and English. Note that Israeli rental vehicles cannot generally be taken into the West Bank or Jordan, so check the rental terms carefully if you plan to cross borders.
 
-### Taxis in Israel
-
-ALL taxis have a meter. Just ask the driver to turn it on (Tafeel Mone Bevakasha!). If you are going long distance, then it's worth haggling. You don't have to tip in Israel. Taxis are a rather cheap source of getting around town. Some taxi drivers double as guides, especially in Jerusalem.
+**West Bank travel.** If you're visiting the West Bank — Bethlehem, Hebron, Ramallah, Jericho, Nablus — note that Palestinian license-plated taxis and buses often provide the most practical connections from the checkpoints. Israeli buses rarely cross. Palestinian-run shared taxis (service taxis) are the standard way to get around within the West Bank.

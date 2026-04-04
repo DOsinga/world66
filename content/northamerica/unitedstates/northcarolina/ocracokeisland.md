@@ -1,8 +1,12 @@
 ---
-title: "Ocracoke Island"
+title: 'Ocracoke Island'
 type: location
 latitude: 35.127959
 longitude: -75.922081
 ---
 
-A small island off the coast of North Carolina, accessible only by Ferry, Ocracoke Island offers the perfect location for a retreat. With long stretches of unspoiled beaches where magnificent sunrises and sunsets splash wondrous colors across the Atlantic Ocean, this island provides the nurturing beauty of Mother Nature at her finest. The Island provides opportunities for moonlight gatherings on the sand, for running barefoot up the sand dunes, for gazing across marshes, and meandering through the woodlands of this sleepy little island hideaway. Free time can be spent exploring the little village, going for leisurely walks along the beach, going deep-sea fishing, watching the wild ponies and birds galore, renting bicycles for exploring, touring the island's nineteenth century lighthouse, and whatever else the island and ocean offer.
+Ocracoke Island is a small island off the coast of North Carolina, accessible only by ferry, and one of the most peaceful places on the East Coast. Long stretches of unspoiled beach, magnificent sunrises and sunsets over the Atlantic, and a pace of life that is genuinely slow make this a retreat in every sense.
+
+The island's small village has just enough -- restaurants, a few shops, a bookstore, an ice cream parlor -- without any of the commercial clutter of the mainland beaches. Free time here means exploring by bicycle, walking barefoot along the dunes, going deep-sea fishing, watching the wild ponies and shorebirds, or touring the island's nineteenth-century lighthouse. Ocracoke was also the site of Blackbeard's last stand; the pirate was killed here in 1718, and the story is told at several spots around the village.
+
+The ferry ride from Hatteras takes about an hour and is free. Ferries from Cedar Island and Swan Quarter take longer and require reservations, especially in summer.

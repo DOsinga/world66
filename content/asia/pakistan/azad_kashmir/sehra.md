@@ -1,10 +1,8 @@
 ---
-title: "Sehra"
+title: 'Sehra'
 type: location
-latitude: 24.878018
-longitude: 67.152588
+latitude: 33.8200
+longitude: 73.7300
 ---
 
-Travel Guide
-
-Sehra is a beautiful town of Dist. Poonch azad kashmir.
+Sehra is a small town in Poonch district of Azad Kashmir, set in the hills south of Rawalakot.

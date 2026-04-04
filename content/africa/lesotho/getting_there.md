@@ -3,16 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Lesotho is entirely surrounded by South Africa, so all entry comes through one of its roughly a dozen border crossings with South Africa — or by air into Moshoeshoe I International Airport outside Maseru.
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+**By air.** The main airport is Moshoeshoe I International Airport (MSU), about 18km south of Maseru. There are scheduled connections to Johannesburg (O.R. Tambo) and Cape Town. Alternatively, fly into Johannesburg and cross the border by road — this is what most visitors do.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**By road.** The busiest and most convenient crossing is Maseru Bridge (open 24 hours), which connects directly to the N8 toward Bloemfontein and Johannesburg. Ficksburg Bridge in the north is another popular option. For the most dramatic entry, the Sani Pass on the eastern side climbs 1,332 metres in 9 kilometres through the Drakensberg escarpment — extraordinary scenery, but a 4x4 is required and the crossing closes at 18:00.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+Most Western passport holders (EU, UK, US, Australia, New Zealand, Canada) can enter Lesotho visa-free for up to 14 to 30 days depending on nationality. EU citizens may stay up to 90 days. South Africans enter visa-free for 30 days. Nationals of other countries can apply for an e-Visa online through the official Lesotho e-Visa portal — approval typically takes 72 hours.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
-
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
-
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+Your passport should be valid for at least six months beyond your planned departure date.

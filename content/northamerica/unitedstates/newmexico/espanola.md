@@ -1,12 +1,10 @@
 ---
-title: "Espanola"
+title: 'Espanola'
 type: location
-latitude: 36.002801
-longitude: -106.057801
+latitude: 36.0028
+longitude: -106.0578
 ---
 
-Travel Guide
+If you have been in New Mexico for any amount of time, you will have heard the cruel jokes locals tell about Espanola. Ignore them -- this is actually a pretty interesting town sitting in a beautiful valley at the confluence of the Rio Grande and Rio Chama.
 
-If you've been in New Mexico for any amount of time, you're bound to run into some of the cruel jokes that locals tell about Espanola. Be comforted that this is just mean spirited jealousy, because seedy Espanola is actually a pretty interesting town sitting in a beautiful valley.
-
-Nearby attractions include Ojo Caliente hot springs, Santa Fe to the south, the nearby San Juan Pueblo, and Santa Clara Pueblo to the west.Espanola, New Mexico The Jewel of Northern New Mexico. Espanola was founded in 1598 by Spain as the first capitol of New Mexico. It sits in the northern Rio Grande Valley between the Jemez Mountains and Truchas Peaks, and is a very convenient base for exploring northern New Mexico. Espanola has many lodging options and the best selection of restaurants. Don't miss the world-class local artists.
+Founded in 1598 by Spain as the first capital of New Mexico, Espanola sits in the northern Rio Grande Valley between the Jemez Mountains and Truchas Peaks. It is a very convenient base for exploring northern New Mexico. Nearby attractions include [Ojo Caliente](/northamerica/unitedstates/newmexico/ojo_caliente) hot springs, [Santa Fe](/northamerica/unitedstates/newmexico/santafe) to the south, and several pueblos. The town has good restaurants and some world-class local artists working in traditional and contemporary styles.

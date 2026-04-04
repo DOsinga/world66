@@ -1,14 +1,14 @@
 ---
 title: "Lansing"
 type: location
-latitude: 42.733825
-longitude: -84.55463
+latitude: 42.7325
+longitude: -84.5555
 ---
 
-**Selected purely for its centralized location, the wilderness hamlet of Lansing became the state capital of Michigan in 1847. [Detroit](/northamerica/unitedstates/michigan/detroit), the largest city in the state was passed over because of its potentially unsafe international border with [Canada](/northamerica/canada). In the 1850's Michigan farmers lobbied to start one of America's first independent colleges of scientific agriculture. Carved out of the woods east of Lansing it is now known as Michigan State University.**
+Lansing became Michigan's state capital in 1847 almost by accident. The legislature wanted a seat of government far from the Canadian border, away from [Detroit](/northamerica/unitedstates/michigan/detroit) and its perceived vulnerability. They picked a tiny settlement in the woods of Ingham County, and a capital city grew up around the decision.
 
+The State Capitol, completed in 1879, remains Lansing's defining landmark. Modeled after the nation's Capitol in Washington, it is one of the finest examples of Victorian painted interior decoration in the United States. President Lincoln insisted construction continue during the Civil War as a symbol of the union he was fighting to preserve.
 
- Lansing's status is mostly defined as being the seat of state government. The state capitol's construction was completed in 1879, during the Civil War, and it remains Lansing's defining landmark. President Linclon insisted the construction continue because the Capitol stood for the union he was fighting for. It was one of the first state capitols to be modeled after the nation's Capitol and is the preeminent U.S. example of Victorian painted decoration.
+Beyond government, Lansing's identity is shaped by Michigan State University, located in neighboring East Lansing. The university started in the 1850s when Michigan farmers lobbied for one of the country's first agricultural colleges, and it has grown into one of the largest universities in the nation. Its campus brings energy, culture, and a young population to an otherwise mid-sized Midwestern capital.
 
-
- Some of Lansing's popular attractions include the State Capitol, the Michigan Historical Museum, Riverfront Park and River Trail, Museum Drive, and Potter Park and Zoo.
+The Grand River runs through the center of the city, and its riverfront trail connects downtown to Old Town, Lansing's original settlement and now its most characterful neighborhood. Old Town's stretch of galleries, restaurants, and small shops is where the city feels most alive, particularly during the many festivals that fill its streets from spring through fall.

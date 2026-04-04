@@ -1,16 +1,16 @@
 ---
-title: "When to Go in Funchal"
+title: "When to Go"
 type: section
 ---
 
-**The Best Time to Go to Funchal**
+Funchal has a mild subtropical climate year-round. Summer temperatures sit around 25 degrees Celsius, winter rarely drops below 15. The driest and warmest months are April through September, which is also when the city's festival calendar is busiest. November through February brings rain, with up to 11 inches of precipitation per month and frequent heavy showers.
 
-If you are planning a visit to **Funchal**,** when to go **is what you need to carefully consider. Funchal is the largest city and capital of Madeira. The best time to go to Funchal is during summer, when there are a lot of festivals that are happening.
+**Madeira Flower Festival** (April/May) fills the streets with flower-covered floats, parades, and the "Wall of Hope" decorated by local children. Best experienced on foot.
 
-**Spring and Summer Are the Best Times**
+**Funchal Jazz Festival** (June/July) brings concerts and jam sessions celebrating both classic and contemporary jazz.
 
-The climate in Funchal is relatively warm, just like the Mediterranean. However, the best time to go here is during spring and summer, which happens from April to August. During this time, the temperature is relatively warm and ranges from 20.9 Celsius to 25.6 Celsius, which makes these months a perfect time to go to the beach without any problems with rain. Further, there are a lot of festivals that are held during these times, such as the Flower Festival and the Jazz Festival which happens every year during the months of April and August, respectively.
+**Madeira Wine Festival** (September) marks the grape harvest. The festival begins in nearby Camara de Lobos with a live harvest show where grapes are gathered and pressed by foot. In Funchal, the celebrations continue with light and sound shows.
 
-**Avoid Funchal during the Wet Season**
+**Festival do Atlantico** (June) lights up Funchal Bay with fireworks displays every Saturday evening throughout the month.
 
-So as not to spoil your beach adventure in Funchal, you should not go here during the months of November to February, as the city gets a lot of precipitation during that time. During these months, the precipitation ranges from 9 to 11 inches. Moreover, 15 days on each of these months experience torrential downpours. If you happen to visit Funchal during these times, then you will be spending most of your time inside your hotel room.
+**New Year's Eve** is Funchal's biggest night. The fireworks display over the bay is one of the largest in the world and draws visitors from across Europe.

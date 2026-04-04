@@ -5,16 +5,8 @@ latitude: 36.365917
 longitude: 140.473174
 ---
 
-Mito is the perfect Japanese little, big city, close to Hitachi-naka, where I lived. Mito is situated in the southeast of Honshu Island 125 km north of Tokyo. It is the capital of Ibaraki prefecture and has a wonderful mix of old and new. 
+Mito is the capital of Ibaraki prefecture, about 125 km north of Tokyo. It is best known for Kairakuen, one of Japan's three great gardens, which draws large crowds in late February and March when its 3,000 plum trees bloom.
 
-It is well known for its "Nato" (A food incidentially that most foreigners hate... Took me 6 months to stomach it!). The above picture is Nato wrapped in the traditional manner. You can find it not wrapped like this easily in stores.
+The city also has a strong association with natto — fermented soybeans, stringy in texture and sharp in flavour — which is considered a local speciality and is eaten for breakfast throughout the region. It is an acquired taste that most visitors either dislike immediately or grow to appreciate over time.
 
-Nato is sort of a stringy bean food. Nothing good in texture, but add some soy sauce and you might ONLY hate it. (Again... 6 months) 
-
-Scenic spots worth seeing include the imperial park. It looks stunning during the cherry blossums. In the off-centre of the park lies two rather beautiful Go boards. 
-
-Go is currently a very popular game within Japan. One I personally love and live for. Think of it as Chess, if Chess were complex and hard while being simple to grasp. 
-
-Also within Mito is the "Art Tower". Personally, I was never really taken by it. It is merely an interesting looking building, that reminds me of the falic CN tower. 
-
-In all, my second home is Mito. A beautiful city. LOTS to see and do, without the problems of a big city. The people are friends and understanding.
+Mito Castle (Mito-jo) no longer stands in its original form, but the Kodokan — the school established by the Mito branch of the Tokugawa clan in 1841 — survives and gives a sense of the city's historical weight during the late Edo period.

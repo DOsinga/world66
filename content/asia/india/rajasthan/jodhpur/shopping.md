@@ -1,13 +1,8 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 
-**Bandhini
-**At Kapra Bazaar, look out for bandhini and lahariya (hand-dyed) fabrics worn by the locals. Tie-dyed in small motifs or in wave-like strips, on cotton, chiffon or silk, these are available as sarees , Jodhpuri coats, Rajasthani dresses (Odhna's), salwar-kameez sets, yardages used for turbans. At **Shah AnopChand & Company**, Kandoi Bazar you will found all types of Rajasthani Odhna's including tie dye, prints etc at a very suitable prices.
+Jodhpur is a great city for shopping, especially textiles and spices. At Kapra Bazaar, look for bandhani (tie-dyed) and lahariya (wave-pattern) fabrics on cotton, chiffon, or silk. The clock tower market has stalls selling Mathania's deep red chili, which is famous across India for its color and flavor.
 
-Shopping for spices in Jodhpur is an intriguing experience; buy Mathaniya's red chili that is quite famous for its deep red color. Heaps of red chili on the pavement stalls create delightful vistas against the vast Jodhpur desert skyline.
-
-Jodhpur is a veritable shopper's paradise. There are so many markets to fulfill your thrust of shopping viz. **Tripolia bazaar, Sarafa bazar, Sardarpura Market, Sojati Gate, National Handloom** is most popular departmental shop where you will found all type of accessories and cloths situated in Nai Sarak and if you are tired with shopping take Jodhpur speciality- **Mrichi bada and some sweets** available near this shop. Jodhpur is home to many talented and skilled craftsmen like textile dyers, metal engravers and'die-makers, and probably the last of the tailors of the classic 'Jodhpur' breeches. Specially Jodhpuri suit gives you a royal identity to your dressing.
-
-Page Edit by Rajan Gothi
+Tripolia Bazaar, Sarafa Bazaar, and the Sardarpura area are the main shopping streets. Jodhpur is known for its skilled tailors, and you can have traditional Jodhpuri suits and breeches made to measure in a day or two. The National Handloom shop on Nai Sarak is a reliable department store for textiles and accessories.

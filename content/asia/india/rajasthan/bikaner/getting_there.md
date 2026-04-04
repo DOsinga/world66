@@ -1,12 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**By Road:** Well connected by a Good Motorable road with Jaipur 335 Kms, Delhi 495 Kms, Jodhpur 247 Kms and Jaisalmer by 335 Kms.
+Bikaner is well connected by road and rail but has no commercial airport. The nearest airports are at Jodhpur (240 km) and Jaipur (335 km).
 
-  **By Rail:** Well connected with all the Major Cities and Towns of Rajasthan as well as Bombay, Delhi and Calcutta. Please check your Railway **Details and Time Table** here.
-
-  **By Air:** No direct flights are available to Bikaner, But the Nearest Airport is at Jodhpur at 240 Kms distance.
-
-  Last Modified on 10th December, 2002.
+By rail, Bikaner has direct trains to Delhi (about 10 hours), Jaipur (6-7 hours), and Jodhpur (5 hours). The train station is centrally located. By road, national highways connect Bikaner to Jaipur (335 km), Delhi (495 km), Jodhpur (247 km), and Jaisalmer (335 km). State buses and private operators run regular services on all these routes.

@@ -1,19 +1,7 @@
 ---
-title: "Barbe-Q-Nation"
+title: 'Barbeque Nation'
 type: poi
-accessibility: "easy"
-address: "R C Dutt Road, Vadodara"
-type: "Indian and Pakistani"
+address: 'R.C. Dutt Road, Vadodara'
 ---
 
-Best restaurant in town. Very good taste
-
-type: Indian and Pakistani
-
-
-
-
-
-accessibility: easy
-
-address: R C Dutt Road, Vadodara
+A popular grill restaurant chain with a live barbecue concept at your table. R.C. Dutt Road, Alkapuri.

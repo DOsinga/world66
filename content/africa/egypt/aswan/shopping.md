@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Aswan"
+title: Shopping
 type: section
 ---
 

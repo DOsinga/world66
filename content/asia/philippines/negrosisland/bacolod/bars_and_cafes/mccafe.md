@@ -1,20 +1,9 @@
 ---
-title: "McCafe"
+title: 'McCafe'
 type: poi
-address: "Lacson Street, Bacolod City"
+address: 'Lacson Street, Bacolod City'
 latitude: 10.6696
 longitude: 122.950352
 ---
 
-It opened in September 2005. It was the first McCafe in the Philippines. It is also
-
-the only McCafe outside Makati city. It serves international coffee delights and cakes.
-
-**Contributors**
-July 23, 2006
-
-
-
-
-
-address: Lacson Street, Bacolod City
+Opened in 2005 as the first McCafe in the Philippines and still the only one outside Makati. International coffee drinks and cakes on Lacson Street.

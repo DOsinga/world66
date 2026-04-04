@@ -1,60 +1,28 @@
 ---
-title: "Getting Around in Jordan"
+title: "Getting Around"
 type: section
 ---
 
-**Jordan Transportation **facilities have undergone a substantial
-improvement over the last decade, owing to the increasing influx of
-foreign visitors. Visitors have the following options for getting around
-in Jordan:
+**By Car**
 
-**Traveling by Taxis**
+A rental car is the best way to see Jordan, particularly if you want to drive the King's Highway through [Madaba](/asia/jordan/madaba), [Karak](/asia/jordan/karak), and on to [Petra](/asia/jordan/petra). The main tourist sites are spread across the country, and public transport between them is patchy. Driving here is easier than in many Middle Eastern countries — roads are reasonable and distances manageable. An international driving permit is officially required alongside your home license.
 
-The traffic can be chaotic at some times and hence, most tourists
-prefer to use the taxis. The taxis are** **meter-operated, and the
-taxi drivers have a reputation of being courteous to overseas visitors. A
-local taxi can be easily hired for a day for a daytime trip. Visitors
-can also share a taxi with locals or other tourists. This is a common practice in most
-cities of Jordan, and helps people save upon traveling costs. Taxis to
-destinations like Petra and other cities around Amman should be booked
-in advance. The yellow-colored taxis are on par with any international
-cab service. A more basic version of the taxis is also available. These
-are the white-colored taxis that charge a bit less and are often
-covered with Arabic quotes. Often called the "service," these taxis
-should be used only if you have a basic understanding of the city
-routes.
+The three main arteries are the Desert Highway (fast, direct, connects Amman to Aqaba), the King's Highway (slower, scenic, passes through most of the interesting middle of the country), and the Dead Sea Highway (runs along the western rift valley).
 
-**Traveling by Rental Cars**
+**By Bus**
 
-Car rentals are easily available with minimal documentation. However,
-for driving in Jordan, you need to have an international driving
-permit. There are three arterial roads that should be clearly
-understood before driving in Jordan:
+JETT runs air-conditioned coaches on the main tourist routes — Amman to Petra, Amman to Aqaba, Amman to the Dead Sea — at reasonable prices. These are comfortable and worth using if you are sticking to the main sights. For other routes, local minibuses are the alternative: they are cheap but run on no fixed schedule, leaving only when full. Do not plan anything time-sensitive around them.
 
-The Desert Highway that stretches from the city of Irbid to Aqaba;
+**By Taxi**
 
-the Dead Sea Highway that connects Jordan’s Dead Sea ports to Aqaba;
+Taxis are plentiful in [Amman](/asia/jordan/amman) and the larger towns. Yellow taxis in Amman should use meters; in practice, you may need to insist. White "service" taxis run fixed routes between cities — you share the vehicle with other passengers and leave when full. They are faster and cheaper than buses for inter-city travel on popular routes.
 
-Kings' Highway, the chosen route for traveling between Amman
-and Wadi Mousa.
+Hiring a private taxi for a full day is a sensible option for routes like Amman to [Jerash](/asia/jordan/jerash), or for exploring the King's Highway at your own pace. Agree on a price before you set off.
 
-**Traveling by**** Buses
+**Getting Around Amman**
 
-**
+Amman is built on a series of hills (jabals), and most neighborhoods are oriented around numbered traffic circles. Streets have names on maps but are rarely signposted — locals navigate by landmarks and circles. Taxis are the easiest way to get around the city; the city bus network exists but is confusing for visitors.
 
-Minibuses are the most dependable form of local transport across
-Jordan. The fares are cheap and the service, though not systematic, is
-very thorough. The local bus services between Amman and northern Aqaba
-are probably the best. There are some government coaches, too. Most of the minibuses are run by JETT.
-There are some air-conditioned buses as well, but they are a bit more difficult to find.
+**In Remote Areas**
 
-**Finding Your Way in Jordan**
-
-Amman is the commercial nerve-point of Jordan. It consists of several "jabals," or small hills, along which all the popular neighborhoods are
-based. When traveling in Amman and other surrounding cities, try to
-locate a destination by asking for landmarks. Most of the streets here
-don’t have commonly recognizable names. Many of the jabals have popular
-traffic roundabouts. These traffic junctions are referred to as "circles" and they serve as pointers to many popular destinations.
-
-**Contributors**
-April 02, 2010
+For [Wadi Rum](/asia/jordan/wadirum), most visitors arrange jeep trips and guides through desert camps in advance. The remote Eastern Desert and the fringes of the King's Highway can be difficult without your own transport.

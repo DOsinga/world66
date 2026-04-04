@@ -1,6 +1,14 @@
 ---
-title: "Carib Territory"
+title: "Kalinago Territory"
 type: location
+latitude: 15.4800
+longitude: -61.2800
 ---
 
-Carib territory is a 3700 acres national park where the people of the Caribs continue to live their traditional lives. The Caribs are interesting, outgoing people and their basketry motifs have been passed down generation by generation. Today they are primarily occupied in farming and fishinfg - pretty much like other Dominicans.
+Kalinago Territory — formerly called Carib Territory — is a 3,700-acre reserve on Dominica's northeast coast, home to around 3,000 Kalinago people, the last remaining indigenous Carib community in the Caribbean. It is a place where people actually live and work, not a museum recreation.
+
+The Kalinago Barana Aute cultural village offers guided tours where you can watch basket weaving (using traditional geometric motifs passed down through generations), canoe building from the trunks of giant gommier trees, and cassava bread baking on open fires. The baskets are some of the best craft work in the Caribbean and worth buying.
+
+Most Kalinago today are farmers and fishermen, living much as other Dominicans do, but the territory has preserved important aspects of Kalinago language, crafts, and governance. The community is led by a democratically elected Chief.
+
+The road through the territory hugs dramatic clifftops above the Atlantic coast — one of the most scenic drives on the island. Allow a half-day at minimum.

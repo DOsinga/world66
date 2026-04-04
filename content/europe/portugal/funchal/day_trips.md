@@ -1,18 +1,14 @@
 ---
-title: "Day Trips in Funchal"
+title: "Day Trips"
 type: section
 ---
 
-If you&rsquo;re wondering what **Funchal day trips** to take, you definitely have a lot of options. Any decision you take won&rsquo;t be wrong – the surrounding area offers some lovely sights. Anyway, here are a couple of options that are worthy.**
-**
+Madeira is a small island with dramatic landscapes, so almost anywhere is reachable as a day trip from Funchal. The roads wind through mountains and along sea cliffs, and every direction offers something different.
 
-**Monte
-**
+**Monte**
 
-The small town of Monte is located less than 3km northeast of Funchal. Here, you can experience the famous toboggan ride. The toboggan is a wooden sledge that has 2 passenger seats and is navigated by 2 drivers, dressed in traditional white uniforms. The toboggan ride itself is an exciting downhill journey to Funchal and lasts less than 10 minutes, with the speed reaching up to 50 km/h. Other interesting sights in Monte are the Nossa Senhora do Monte Church (an impressive church dating from the 18-th century) and the beautiful Monte Palace Garden (a tropical garden hosting few thousand plant species).**
-**
+Less than three kilometers northeast of Funchal, Monte is an easy half-day trip. The main draw is the toboggan ride, a wicker sled steered by drivers in white uniforms that hurtles downhill back to Funchal in under ten minutes. Also worth visiting are the Nossa Senhora do Monte Church, dating from the 18th century, and the Monte Palace Tropical Garden with its thousands of plant species.
 
-**The Deserted ****Islands****
-**
+**Ilhas Desertas**
 
-The Deserted Islands or Ilhas Desertas are 3 small volcanic islands located about 16km southeast of the shores of Funchal. Boat trips are possible from the Funchal harbor and cost roughly $100. The islands are called Chao, Deserta Grande and Bugio, and are uninhabited, with Deserta Grande usually being the end point of the trip from Funchal. The Deserted Islands are home to 16 species of birds, rabbits, feral goats, different rodents, reptiles, tarantulas and a small population of monk seals, which makes them a must-visit for every nature lover. They are an established nature reserve.
+The Deserted Islands are three uninhabited volcanic islands about 16 kilometers southeast of Funchal. Boat trips run from the harbor and cost roughly 100 euros. Deserta Grande is the usual destination. The islands are a nature reserve, home to 16 bird species, tarantulas, and a small population of Mediterranean monk seals.

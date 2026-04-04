@@ -1,6 +1,6 @@
 ---
-title: "Getting There in Chilika"
+title: 'Getting There'
 type: section
 ---
 
-The nearest airport is Bhubaneswar. From any part of Orissa, you can take a train or a bus to come to Chilika. The nearest Railway Station is at Balugaon and Rambha on S. E, Railways with directions to Calcutta, Puri, Madras, Hyderabad, etc. On road, National High Way No. 5 touches Chilika at Balugaon, Barkul, and Rambha.
+The nearest airport is Bhubaneswar. Balugaon and Rambha are the nearest railway stations, on the South Eastern Railway with connections to Kolkata, Puri, Chennai, and Hyderabad. NH-5 touches Chilika at Balugaon, Barkul, and Rambha, and buses run frequently from Bhubaneswar and Puri.

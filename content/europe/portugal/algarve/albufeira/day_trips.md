@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Albufeira"
+title: "Day Trips"
 type: section
 ---
 

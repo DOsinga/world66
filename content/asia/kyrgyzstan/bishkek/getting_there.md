@@ -3,12 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-Bishkek is definitely the travel hub for Kyrgyzstan, allthough for connections further afield, Alma Aty, three hours over the border in the Kazakstan might be a good alternative. There are frequent busses, so that's no problem. Note that the busses to Tashkent cross into Kazakstan also, though nobody checks your passport and a visa is not needed. 
+## By Air
 
-**Air** 
+Manas International Airport lies 25 kilometers north of the city. Turkish Airlines and Pegasus fly direct from Istanbul, Aeroflot from Moscow, and regional carriers connect to cities across Central Asia. A taxi from the airport to the city center costs around 800-1,200 KGS and takes 30-40 minutes. Some hotels arrange airport transfers.
 
-Although there are some flights on Kyrgyzstan Airlines to Osh, Jala-Abad and some other destinations, airtravel is not the safest way to get around in Kyrgyzstan. Most flights are done with Yak-40, which look more like busses than airplanes. However, if you want to get there fast, check for details on the airport, 4.5 kilometer out of town, since the local travel agents don't seem to sell tickets to individuals. 
+## By Road
 
-**Train 
+**From Almaty (Kazakhstan):** Shared taxis and buses run the route in three to four hours via the Korday border crossing. Departures are frequent from the bus station.
 
-**
+**From Osh:** A grueling 10-12 hour drive over two mountain passes above 3,000 meters. Shared taxis leave daily from the bus station. Domestic flights (around $50, one hour) are a much better option if available.
+
+**From Tashkent (Uzbekistan):** Buses take 10-12 hours and cross briefly into Kazakh territory.
+
+The main bus station for long-distance departures is on Alma-Atinskaya Street. Note that the old Western Bus Station (zapadni) is no longer operational.

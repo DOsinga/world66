@@ -1,22 +1,11 @@
 ---
-title: "Boston Harbor Islands"
+title: 'Boston Harbor Islands'
 type: poi
-address: "Boston Harbor Islands"
-phone: "617-223-8666"
-url: "www.bostonislands.com"
-latitude: 42.280182
-longitude: -70.954017
+address: 'Boston Harbor Islands'
+phone: '617-223-8666'
+url: 'www.bostonharborislands.org'
+latitude: 42.2802
+longitude: -70.9540
 ---
 
-If your Boston vacation happens to take place during the warm summer months, why not set aside a day or two of your Boston trip to enjoy swimming, kayaking or camping? The Boston Harbor Islands offer this and more! The islands are only a quick ferry ride from Boston’s Long Wharf, South Boston’s EDIC Pier, Qunicy’s Fore River Shipyard, and Hingham’s Hingham Shipyard and Hull at Pemberton Point. Trips are typically one half hour and ferries usually leave for the islands (Georges Island, Spectacle Island, Thompson Island, and Grape, Bumpkin, Peddocks, and Lovells Islands) every hour starting at 9:00 a.m. -- depending on season. Georges Island is home to historic Fort Warren (1833), and Grape, Bumpkin, Peddocks, and Lovells Islands are popular for picnicking and camping.
-
-**Contributors**
-May 31, 2008
-
-
-
-tel: 617-223-8666
-
-url: [www.bostonislands.com](http://www.bostonislands.com)
-
-address: Boston Harbor Islands
+If your Boston trip falls during the warm summer months, set aside a day for the Harbor Islands. A quick ferry ride from Long Wharf takes you to Georges Island (home to historic Fort Warren from 1833), Spectacle Island, and several others. Swimming, kayaking, picnicking, and camping are all available. Ferries typically run hourly starting at 9am, season depending.

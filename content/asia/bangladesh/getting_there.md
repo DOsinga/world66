@@ -3,17 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-To get to Bangladesh, you can use the most efficient way, depending on where you are coming from.
+Most international travelers arrive by air at Hazrat Shahjalal International Airport in Dhaka. It is the main hub and handles the bulk of international traffic. A second international airport, Shah Amanat International Airport in [Chittagong](/asia/bangladesh/chittagong), handles some regional flights. Several major airlines fly direct to Dhaka from the Middle East, Southeast Asia, and South Asia. There are no direct flights from North America or Europe — you will connect through Dubai, Doha, Kuala Lumpur, Singapore, or another hub.
 
-If you are going from India, Bhutan or Myanmar, you can come by air, rail, sea or road.
+Travelers coming from India have more options. There are bus and train connections between Kolkata and Dhaka, and a rail link between Agartala (Tripura) and Akhaura. Overland crossings are generally straightforward, but queues at the Benapole–Petrapole border crossing (the main road crossing between Kolkata and Dhaka) can be very long. A faster option is the Maitree Express train, which runs between Kolkata and Dhaka Cantonment several times a week.
 
-If you are coming from elsewhere, use air.
-
-The major airport in Bangladesh is Zia International Airport Dhaka.
-
-The second largest airport is the Chittagong Airport in Chittagong, Bangladesh.
-
-About 60-40% of all the airlines in this world have flights available to Dhaka, Bangladesh.
-
-**Contributors**
-March 21, 2008
+**Visas:** Citizens of many countries can get a visa on arrival at Dhaka airport, valid for 15–30 days, for a $50 USD fee payable in cash. However, the process can be slow and is not guaranteed — it is safer to apply in advance at a Bangladeshi embassy or through the e-visa portal. Processing typically takes a few weeks. Check current requirements carefully before traveling.

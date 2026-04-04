@@ -1,0 +1,18 @@
+---
+title: "Food"
+type: section
+---
+
+Italy's food is regional in a way that most countries' is not. What you eat in Bologna is not what you eat in Naples or Palermo, and an Italian will tell you — firmly — that this matters. The genius of Italian cooking is not variety for variety's sake but precision: a few ingredients, treated correctly, at the right time of year.
+
+**The basics.** Coffee in Italy means espresso, short and strong. A cappuccino is a breakfast drink; ordering one after lunch will earn you a look of mild horror. Bread comes with most meals but is not meant to be dipped in olive oil before the food arrives — that is a foreign invention. The menu typically runs antipasto (starter), primo (pasta or risotto), secondo (meat or fish), and dolce (dessert). Most Italians do not eat all four courses at every meal.
+
+**Pasta.** Every region has its own shapes, sauces, and strong opinions about whose are better. In [Bologna](/europe/italy/emiliaromagna/bologna) it is tagliatelle al ragù — not spaghetti bolognese, which doesn't exist here. In [Rome](/europe/italy/lazio/rome) it is cacio e pepe, carbonara, and amatriciana, all made with guanciale (cured pig cheek) rather than bacon. In the south you'll find pasta dishes made with dried pasta and tomato-based sauces; in the north, fresh egg pasta and butter or cream sauces are more common. In [Naples](/europe/italy/campania/naples) they will tell you pizza is the thing, not pasta, and they are not wrong.
+
+**Regional specialties.** Emilia-Romagna is the acknowledged gastronomic capital: Parma ham (prosciutto di Parma), Parmigiano-Reggiano, mortadella from Bologna, fresh tortellini, and traditional balsamic vinegar from Modena are all made here. [Tuscany](/europe/italy/tuscany) offers bistecca alla Fiorentina (a huge T-bone, charcoal-grilled, served rare or not at all), ribollita (a bread and vegetable stew), and the local Chianina beef. [Piemonte](/europe/italy/piemonte) has white truffles (season: October–December), Barolo and Barbaresco wines, and tajarin, a very thin egg pasta. [Liguria](/europe/italy/liguria) gives you pesto alla Genovese — the original, made with small-leaf Ligurian basil and pine nuts. [Sicily](/europe/italy/sicily) has its own world entirely: arancini (fried rice balls), pasta with sardines and wild fennel, caponata, and the best street food in Italy.
+
+**Wine.** Italy produces more wine than any other country, and almost every region has its own DOC and DOCG designations. The most celebrated: Barolo and Barbaresco (Piemonte), Chianti Classico (Tuscany), Brunello di Montalcino (Tuscany), Amarone (Veneto), Sagrantino di Montefalco (Umbria), and Aglianico del Vulture (Basilicata). House wine in a trattoria is generally cheap and perfectly drinkable. Don't sniff at it.
+
+**Eating out.** A trattoria is a family-run restaurant with a short menu and no pretension — usually the best option. A ristorante is more formal and expensive. An osteria is originally a simple wine bar with food; the word is now used loosely. An enoteca is a wine bar, often serving excellent food. Avoid restaurants with photographs on the menus and touts in the doorway near major tourist sites — these are almost always bad value. Lunch (12:30–3pm) is cheaper than dinner; many trattorias do a fixed-price lunch menu (menù del giorno) that represents excellent value.
+
+**Coffee culture.** Standing at the bar for your coffee is the local custom and usually cheaper than sitting at a table. The surcharge for table service can be substantial in tourist areas. A cornetto (Italian croissant, less buttery than the French version) with a cappuccino is a perfectly good Italian breakfast.

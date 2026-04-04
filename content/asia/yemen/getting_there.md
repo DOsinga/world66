@@ -3,32 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**Important:** Yemen's airports and ports have been severely affected by the civil war. The situation changes frequently. Check current government travel advisories before any plans.
 
-The Republic of Yemen's national airline is *Yemen Airways (Yemenia) (IY)*.
+**Air**
 
-Approximate flight times
+Before the war, Yemen's main international airport was Sana'a International (SAH), 13 km north of the capital. Aden (ADE), Ta'izz (TAI), and Hodeidah (HOD) also had international connections. Yemen Airways (Yemenia) was the national carrier, operating routes to the Gulf states, Egypt, Jordan, and Djibouti.
 
-From London to *Sana'a* is 10 hours (direct) and to *Aden* is 9 hours excluding stopover time.
+Since 2015, Sana'a airport has been closed to commercial flights for extended periods due to the conflict and blockade. Aden International Airport has been the main functioning gateway to government-held territory. Seiyun Airport in Hadramawt and Socotra Airport have also handled some flights. Schedules are erratic and subject to sudden suspension. In early 2026, all flights to Socotra were suspended due to renewed fighting on the mainland.
 
-International airports:
+When commercial connections exist, the most practical routes are via Dubai, Amman, Cairo, or Djibouti.
 
-*Sana'a (SAH)* (El-Rahaba) is 13km (8 miles) north of the city (travel time  30 minutes). Transport to the city centre is by taxi. Airport facilities include a bank/bureau de change duty-free shop baggage facilities and restaurants (all open 24 hours) as well as car hire.
+**Sea**
 
-*Ta'izz (TAI) *(al-Janad) is 4km (2.5 miles) from the city (travel time  10 minutes). Taxis buses and hire cars are available.
+Aden is the main port for government-held territory. Hodeidah on the Red Sea was Yemen's most important commercial port before the war; it has been extensively damaged and was the focus of a major military campaign in 2018. There is a ferry connection between Djibouti and Aden, though this has operated irregularly.
 
-*Hodeida (HOD) *is 8km (5 miles) from the city. Taxis buses and car hire are available.
+**Land**
 
-*Aden (ADE) *(Khormaksar) is 11km (7 miles) from the city (travel time  20 minutes). Limited bus and taxi services available.
-
-Departure tax
-
-US$10 (US$3 for children under two years).
-
-Sea
-
-The main international ports are Aden Hodeida Mokha Sulif and Lohenja. Cargo vessels with passenger berths call at Hodeida. *Norwegian American* operates a shipping service to Aden.
-
-Road
-
-Driving to Yemen is not recommended but there are routes from Riyadh Mecca and Jeddah (in Saudi Arabia) to Sana'a.
+There are road crossings from Saudi Arabia into Houthi-controlled northern Yemen and into government-held areas in the south and east. These are not practically accessible to most travellers and cross-border movement requires coordination with relevant authorities.

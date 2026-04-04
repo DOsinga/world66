@@ -5,10 +5,8 @@ latitude: 23.332378
 longitude: 22.084033
 ---
 
-Kufra is as far away as you can get in Libya. It's reported that nothing has been done to meet the tourist's needs. With reservations: There are no hotels here.
+Kufra is as remote as it gets in Libya — an oasis cluster in the far southeast, near the Egyptian and Sudanese borders, closer to Khartoum than to Tripoli. There are no tourist facilities here, and reaching it requires serious preparation.
 
+The oasis sits above enormous underground aquifers, part of the Nubian Sandstone Aquifer System, which made it an important stop on trans-Saharan caravan routes for centuries. The Great Man-Made River project, one of the world's largest irrigation engineering projects, was designed to pipe this fossil water north to the coast. Construction began under Gaddafi and the system partially functions, though it has suffered from conflict-related disruption and funding shortfalls.
 
- Kufra is an oasis based on enormous underground water reservoirs. While it once was started large expansion schemes for the region, the economy in it has made the Libyan governments turn to the unique Great Man-Made River. Great Man-Made River is going to bring water through pipelines from Kufra to the coastal areas. Only a strong economy as the Libyan could afford a plan like this, but the whole thing seems to become far more expensive than once planned.
-
-
- Kufr is also the starting point for a Sahara crossing to Chad to [Ounianga](/africa/chad/ounianga). This is not an easy trip, and I have not heard of anyone doing it recently, but it is supposed to be possible.
+Kufra was historically a starting point for trans-Saharan crossings south to Chad. That route is extremely difficult and involves genuine desert navigation. It is not practicable for individual travelers and requires specialist logistics and current security knowledge.

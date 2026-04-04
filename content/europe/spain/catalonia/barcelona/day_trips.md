@@ -1,28 +1,16 @@
 ---
-title: "Daytrips"
+title: 'Day Trips'
 type: section
 ---
 
-There are some interesting cities in the vicinity of Barcelona that lend themselves perfectly to an interesting daytrip. The Salvador Dali Museum in Figueres, reached easily by train, is definitely worth a day of your trip to Barcelona.
+Barcelona makes an excellent base for exploring Catalonia. Several fascinating destinations lie within easy reach by train or car.
 
-**Points of Interest**
+**[Montserrat](/europe/spain/catalonia/montserrat)** (55 km) is a dramatic mountain monastery perched on jagged sandstone peaks. The Benedictine monastery dates to the 9th century, and the boys' choir sings at 1pm on weekdays. Take the rack railway from Monistrol for stunning views.
 
-**Tarragona**
+**[Figueres](/europe/spain/catalonia/figueres)** (140 km) is home to the Salvador Dali Theatre-Museum, designed by Dali himself. The museum is as surreal and bizarre as the artist, and easily worth the train journey. RENFE trains run several times daily.
 
-In [Tarragona](/europe/spain/catalonia/tarragona) you can see Roman ruins and is about an hour’s drive south along the coast. 
+**[Girona](/europe/spain/catalonia/girona)** (100 km) is a beautiful medieval city with a well-preserved Jewish quarter, a striking cathedral and excellent restaurants. High-speed trains from Barcelona Sants take about 40 minutes.
 
-**Salou**
+**[Sitges](/europe/spain/catalonia/sitges)** (40 km) is the nearest attractive beach town, known for its lively atmosphere, cosmopolitan culture and pretty waterfront. Easy to reach by commuter train.
 
-If you are an amusement park fan stop by Port Aventura a mega theme park at [Salou](/europe/spain/catalonia/salou) (60 mi/100 km south of Barcelona). Owned in part by the Anheuser-Busch Co. the park is designed with Catalonian Chinese Mexican Polynesian and Wild West [more..](/europe/spain/catalonia/barcelona/daytrips/salou)
-
-**Montserrat**
-
-[Montserrat](/europe/spain/catalonia/montserrat) is a breathtaking 9th-century monastery in a mountain setting 35 mi/55 km north of Barcelona. 
-
-**Figueres**
-
-The Salvador Dali Museum can be found in the town of [Figueres](/europe/spain/catalonia/figueres) about 75 mi/125 km north of Barcelona. The museum is a must-see because Dali designed the museum himself: It echoes his bizarre personality—look for the photo of the ar [more..](/europe/spain/catalonia/barcelona/daytrips/figueres)
-
-**Sitges**
-
-[Sitges](/europe/spain/catalonia/sitges) is the prettiest and most popular resort in Barcelona's immediate environs and has an excellent beach.
+**[Tarragona](/europe/spain/catalonia/tarragona)** (100 km) has some of the finest Roman ruins in Spain, including an amphitheatre overlooking the sea. About an hour south along the coast.

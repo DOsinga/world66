@@ -1,18 +1,14 @@
 ---
-title: "Viipuri"
+title: "Viipuri (Vyborg)"
 type: location
 latitude: 60.158476
 longitude: 23.080537
 ---
 
-**VIIPURI (VIBORG)**
+Vyborg — *Viipuri* in Finnish — was Finland's second-largest city until it was ceded to the Soviet Union in 1944 at the end of the Continuation War. Today it is part of Russia's Leningrad Oblast, about 70 km west of St Petersburg.
 
-Nowadays a part of the Russian state of Karelia, Vyborg (*Viipuri* in Finnish) was once Finland's second biggest city and a large cultural center hosting a famous opera festival. 
+The city had a major Finnish and Swedish cultural presence for centuries, and the Savonlinna Opera Festival was originally held here before being moved after the war. The medieval castle, old town, and waterfront retain much of their historic character despite decades of Soviet-era changes.
 
-The opera festival was moved to Savonlinna after Vyborg was ceded to the Soviet Union in 1944, while most of the other institutions relocated to Lappeenranta. 
+**Note**: As of 2022, the Russia–Finland border is closed to regular tourist travel and all road, rail, and ferry crossings between the two countries are suspended. Day trips and cruises from Lappeenranta through the Saimaa Canal to Vyborg are not currently possible. Check the current situation before making any plans.
 
-From Lappeenranta, there are one-day round trip cruises through the Saimaa canal and daily busses from the downtown terminal. If you prefer renting a car, be prepared for unexpectedly long lineups at the border, and sometimes paranoid Russian officials. 
-
-**Important**: citizens of most countries must request a visa **from within their country of origin** before entering Russia. 
-
-Vyborg Tourist Info (in English, Finnish and Russian).
+For those with an interest in Finland's lost Karelia, the area is a subject of significant historical memory and literature. The Karelian Association in Finland preserves documentation and memories of the displaced communities.

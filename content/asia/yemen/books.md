@@ -3,112 +3,12 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Motoring with Mohammed: Journeys to Yemen and the Red Sea** by Eric Hansen (1991) is one of the best travel accounts of Yemen ever written — funny, observant, and full of genuine affection for the country. Hansen crashed in the Red Sea in the 1970s and returned years later to retrieve his journals from a Yemeni family who had kept them. The story takes him across the country in a style that would be impossible today.
 
-**Motoring with Mohammed:Journeys to Yemen and the Red Sea**
+**Eating the Flowers of Paradise: A Journey through the Drug Fields of Ethiopia and Yemen** by Kevin Rushby (1998) follows the qat trade across the Horn of Africa and up into the Yemeni highlands. It's a sharp piece of travel writing that explains qat culture from the inside.
 
+**Yemen: Travels in Dictionary Land** by Tim Mackintosh-Smith (1997) is the definitive literary account of Sana'a and Yemeni culture. Mackintosh-Smith moved to the old city and spent years there; his knowledge of Arabic and his feel for Yemeni life are unmatched. He also wrote two sequels tracing the travels of the medieval Arab explorer Ibn Battuta. Highly recommended as background reading.
 
+**The Architecture of Yemen and its Reconstruction** by Selma Al-Radi is a scholarly but accessible account of Yemeni vernacular architecture — the tower houses, the painted windows, the decorated facades — for those who want to understand what they're looking at in Sana'a and the Hadramawt.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/067973855X/ref=ase_osingacom?v=glance&s=books)
-
-author: Eric Hansen
-
-isbn: 067973855X
-
-subject: travel
-
-**Eating the Flowers of Paradise:A Journey through the Drug Fields of Ethiopia and Yemen**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0312217943/ref=ase_osingacom?v=glance&s=books)
-
-author: Kevin Rushby
-
-isbn: 0312217943
-
-subject: travel
-
-**Yemen**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0894107119/ref=ase_osingacom?v=glance&s=books)
-
-author: Laurence Deonna,Corinne Borel (Translator)
-
-isbn: 0894107119
-
-subject: travel
-
-**Ancient Yemen:Some General Trends of Evolution of the Sabaic Language and Sabaean Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0199222371/ref=ase_osingacom?v=glance&s=books)
-
-author: A. V. Korotaev,Andrey Korotayev
-
-isbn: 0199222371
-
-subject: culture
-
-**The Jews of Yemen :Studies in Their History and Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9004112650/ref=ase_osingacom?v=glance&s=books)
-
-author: Joseph Tobi
-
-isbn: 9004112650
-
-subject: culture
-
-**In the High Yemen**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0404563236/ref=ase_osingacom?v=glance&s=books)
-
-author: Hugh Scott
-
-isbn: 0404563236
-
-subject: culture
-
-**Lonely Planet Yemen**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423195/ref=ase_osingacom?v=glance&s=books)
-
-author: Pertti Hamalainen
-
-isbn: 0864423195
-
-subject: history
-
-**Motoring with Mohammed:Journeys to Yemen and the Red Sea**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/067973855X/ref=ase_osingacom?v=glance&s=books)
-
-author: Eric Hansen
-
-isbn: 067973855X
-
-subject: history
-
-**Jews, Pagans and Christians in Conflict**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9004065601/ref=ase_osingacom?v=glance&s=books)
-
-author: David Rokeah
-
-isbn: 9004065601
-
-subject: history
+**Yemen: Unknown Arabia** by Tim Mackintosh-Smith and photographs by various contributors is a more visual introduction to the country, suitable as a companion to the literary accounts above.

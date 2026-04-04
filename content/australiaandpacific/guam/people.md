@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 148 060 (July 1998 est.)
+Guam's population is around 160,000, but the island feels larger than that — it has the density and the traffic of a real city, especially in the Tamuning-Tumon corridor. The indigenous Chamorro people make up roughly 37% of the population. Filipinos are the next largest group at about 26%, followed by white Americans (mostly military and their families, who add another 30,000 or so to the de facto population), and smaller communities of Chuukese, Korean, and Chinese residents.
 
-**Age structure:**
+The Chamorro have been here for at least 3,500 years, arriving as expert seafarers from Southeast Asia. Three centuries of Spanish colonialism (from 1668), followed by American rule from 1898, Japanese occupation during World War II, and then US territory status since 1944 have shaped a culture that is genuinely its own — Catholic but not Spanish, American but not mainland, Pacific but distinct from Polynesia.
 
-*0-14 years:* 34% (male 25 972; female 24 097)
+Chamorro is still spoken, particularly among older residents and in cultural contexts, though English is the everyday language of business, school, and government. You'll hear a mix on the street. Learning a few words — *håfa adai* (hello), *si yu'us ma'åse'* (thank you) — will earn you genuine warmth.
 
-*15-64 years:* 60% (male 47 357; female 42 189)
-
-*65 years and over:* 6% (male 4 244; female 4 201) (July 1998 est.)
-
-**Population growth rate:** 1.5% (1998 est.)
-
-**Birth rate:** 25.04 births/1 000 population (1998 est.)
-
-**Death rate:** 4.42 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -5.59 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.07 male(s)/female
-
-*15-64 years:* 1.12 male(s)/female
-
-*65 years and over:* 1.01 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 8.28 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.7 years
-
-*male:* 74.12 years
-
-*female:* 79.44 years (1998 est.)
-
-**Total fertility rate:** 3.58 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Guamanian(s)
-
-*adjective:* Guamanian
-
-**Ethnic groups:** Chamorro 47% Filipino 25% white 10% Chinese Japanese Korean and other 18%
-
-**Religions:** Roman Catholic 98% other 2%
-
-**Languages:** English Chamorro Japanese
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 99%
-
-*male:* 99%
-
-*female:* 99% (1990 est.)
+The military presence is large and unavoidable: about 27% of the island is occupied by US military bases. It's a fact of life here, economically important and politically complex. Chamorros have no voting representation in the US Congress and cannot vote for president, which fuels an ongoing, often quiet conversation about self-determination. Don't be surprised if locals bring it up — they're generally happy to talk about it.

@@ -1,23 +1,10 @@
 ---
-title: "Freemans Clothing"
+title: "Freeman's Clothing"
 type: poi
-address: "400 N Saint Paul St, ste 105"
-phone: "2147401114"
-type: "Speciality shops"
-latitude: 53.043534
-longitude: -2.206493
+address: '400 N Saint Paul St, Ste 105'
+phone: '214-740-1114'
+latitude: 32.7870
+longitude: -96.7985
 ---
 
-Big store in downtown Dallas selling urban clothing, shoes and accessiores for men and women.
-
-Brands such as Apple Bottoms, Sean John, Ecko, PellePelle, Avirex, Azzure, Southpole, Lugz, 310, ect.
-
-Decent prices too!
-
-type: Speciality shops
-
-
-
-tel: 2147401114
-
-address: 400 N Saint Paul St, ste 105
+A big store in downtown Dallas selling urban clothing, shoes, and accessories for men and women. Carries brands like Sean John, Ecko, PellePelle, Avirex, Azzure, and Southpole at decent prices.

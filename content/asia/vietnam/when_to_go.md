@@ -1,34 +1,24 @@
 ---
-title: "When to Go in Vietnam"
+title: "When to Go"
 type: section
 ---
 
-When visiting **Vietnam, when to go** is definitely something to consider carefully. Vietnam has a mostly tropical climate, but due to the vast variations in geography, the seasonal weather in North, Central and South Vietnam differs quite a bit. Here's a look at what you can expect in the different regions of Vietnam, so when to go will be an easier decision to make.
+Vietnam is a long, narrow country and weather varies significantly between north, center, and south. There is no single "best time" that works for all regions simultaneously.
 
-**North Vietnam**
+## North Vietnam
 
-If you're planning to tour North Vietnam, when to go will probably depend on whether you're looking for tropical weather or not. North Vietnam's weather can be divided into two seasons: summer and winter.
+The north (Hanoi, Halong Bay, Sapa) has four distinct seasons. **Spring (March–April)** and **autumn (September–November)** are the most comfortable, with mild temperatures and reasonable visibility. Summer (May–August) is hot and humid, with occasional typhoons. Winter (December–February) can be cold and grey, especially in the mountains — Sapa sometimes sees frost. Halong Bay is bleakly atmospheric in winter mist but can be choppy.
 
-- **Summer** - From May to September is high season in North Vietnam due to the beautiful summer weather. The days are usually fairly sunny with little in the way of typhoons or rain. Temperatures vary between 22 degrees C and a balmy 32 degrees C.
-- **Winter **- On the other hand, October through April makes for a chilly winter season. Cold air from China descends into the region and temperatures plummet to around 12 degrees C, especially in the mornings and evenings. However, days can still reach around 28 degrees C. In the mountains you'll find occasional frost and snow, but not enough to do any damage to your travel plans. Most days are cloudy with light rains.
+## Central Vietnam
 
-**Central Vietnam**
+The center (Hue, Hoi An, Da Nang) has its wet and dry seasons reversed from the south. The **dry season runs from February to August**, with clear weather and beach conditions at their best. The wet season (September–January) brings heavy rain and occasional typhoons, especially October–November when flooding around Hoi An is common. The shoulder months of February–March are a sweet spot.
 
-Central Vietnam, like South Vietnam, has a wet and dry season. These are caused by the South Monsoons that occur from May to September and the North Monsoons that occur from October through April. Essentially, there's a switch in the direction of the winds, from south to north, respectively.
+## South Vietnam
 
-- **Dry Season **- May through September sees days that are mostly dry and sunny, though rains have been known to occur toward the end of the season. Temperatures stay between 23 and 33 degrees C.
-- **Wet Season **- From October through April is Central Vietnam's wet season. Downpours that are the result of typhoons in the South China Sea are common. Other days there is frequent light rain and cloud cover. Most of the rains occur before February, with the remaining few months being more pleasant. Temperatures are similar to the dry season.
+The south (Ho Chi Minh City, Mekong Delta, Phu Quoc) has a simpler split: **dry season November–April**, wet season May–October. The wet season doesn't mean constant rain — downpours are typically short and heavy, and mornings often stay clear. The driest months are December–February and that's peak season for beach destinations like Phu Quoc.
 
-**South Vietnam**
+## Practical Advice
 
-Due to location and geography, South Vietnam's seasons are the opposite of Central Vietnam. The rains come with the North Monsoons rather than the South. Bear in mind that the weather is usually calmer in the months that see a transition between the winds, namely April into May and September into October.
+**Tet** (Lunar New Year, usually January or February) is Vietnam's biggest holiday. Prices rise sharply, many businesses close, and transport books out weeks in advance. Millions of people travel home to their villages. It's worth experiencing if you're prepared for the disruption, but don't plan on smooth logistics.
 
-- **Wet Season - **The wet season occurs between May and September, with the beginning and end months being two of the best to visit the area. Showers are often short and heavy, so don't be completely put off of visiting at this time. Temperatures range between 23 and 33 degrees C.
-- **Dry Season - **October to April marks the dry season, with hot sunny days that are ideal for beach goers. Temperatures are similar to the wet season, ranging from 21 to 34 degrees C.
-
-One more thing to keep in mind is the holiday season. Prices go up drastically at Christmas and the Lunar New Year as Vietnamese natives living abroad return home for the holidays. Furthermore, most places will be closed as those in the cities return to their ancestral homes in villages.
-
-**Contributors**
-March 16, 2010
-
-March 18, 2010
+If you're doing the classic north-to-south (or reverse) route, **February to April** and **September to November** tend to work reasonably well across most of the country. Avoid peak holiday periods unless you book well ahead.

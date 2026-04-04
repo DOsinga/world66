@@ -1,23 +1,10 @@
 ---
 title: "Nyamata Genocide Memorial"
 type: poi
-type: "Memorials"
 latitude: -2.148958
 longitude: 30.093763
 ---
 
-**Nyamata Genocide Memorial** is a worthwhile complement
-to the Gisozi Memorial Centre in Kigali. Located in the town of
-Nyamata, 40 minutes south of Kigali on a newly paved road, the memorial
-is located in a church where over 5000 people were killed during the
-1994 genocide. Visitors take a short tour and see the evidence of the
-genocide that remains there today - victims' clothing piled on benches,
-the roof pockmarked with bullet holes, and the open crypts behind the
-church that hold the remains of over 40,000 people from the area. An
-extremely moving look into one of the places where the genocide was
-carried out.
+The Nyamata memorial is located 40 minutes south of Kigali in the town of Nyamata, along a good paved road. Over 5,000 people sought refuge in this Catholic church in April 1994 and were killed here. The building remains as it was: victims' clothing piled on the pews, the roof marked by bullet holes, the tabernacle forced open. Behind the church, open crypts hold the remains of more than 40,000 people from the surrounding area.
 
-**Contributors**
-October 22, 2008
-
-type: Memorials
+It is a genuinely moving and harrowing visit. The memorials at Ntarama (nearby) and Murambi (near Gikongoro) offer a similar experience; seeing at least one of these sites outside Kigali gives a more grounded sense of how the genocide was carried out across the country.

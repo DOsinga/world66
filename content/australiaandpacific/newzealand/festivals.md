@@ -1,35 +1,18 @@
 ---
 title: "Festivals"
 type: section
-date: "sept"
-url: "www.worldofwearableart.com"
 ---
 
-**Contributors**
-November 22, 2006
+**Matariki** (June/July) is the Maori New Year, marked by the rising of the Matariki star cluster (Pleiades) in the winter sky. It became a public holiday in 2022 — the date shifts each year according to the lunar calendar, usually falling in late June or early July. Events across the country range from star-gazing nights and hangi feasts to concerts, lantern festivals, and school performances. Wellington and Auckland both hold major programmes.
 
-### [World of Wearable Arts (WOW)](/australiaandpacific/newzealand/festivals/world_of_wearable)
+**Waitangi Day** (6 February) marks the signing of the Treaty of Waitangi in 1840. Celebrations and commemorations take place at Waitangi in the [Bay of Islands](/australiaandpacific/newzealand/bayofislands), where the original signing happened. It's a public holiday and the tone mixes national pride with ongoing conversation about what the Treaty means in practice.
 
-Every year around late September, Wellington boost the biggest event in NZ, World of Wearable Arts Show. Designers, fashion industry and models compete for the price that are now an international recognised event with guests and contributors from all over the world. The fashion show is a little different, as the models wear art on their bodies and not ordinary clothes.
+**World of Wearable Art (WOW)** (September/October, Wellington) is one of New Zealand's most distinctive events. Designers from around the world compete to create wearable art pieces that are then performed on stage in a spectacular theatrical show. Tickets sell out well in advance.
 
+**Kāwhia Kai Festival** (February, Kāwhia) celebrates Maori food culture — hangi, seafood, and wild pork served in woven flax baskets. Held near Hamilton on the west coast of the North Island, it draws visitors from around the country.
 
+**Marlborough Wine Festival** (February, Marlborough) is the country's largest wine event, held in the Marlborough wine region at the top of the South Island, where most of New Zealand's sauvignon blanc is made.
 
-[[rate it]](/australiaandpacific/newzealand/festivals/world_of_wearable)
+**Pasifika Festival** (March, Auckland) is the world's largest celebration of Pacific Island cultures — music, food, crafts, and performances from the many Pacific communities that have made Auckland their home.
 
-url: [www.worldofwearableart.com](http://www.worldofwearableart.com/)
-
-date: sept
-
-### [Top Christmas Events in Auckland](/australiaandpacific/newzealand/festivals/top_christmas_even)
-
-If you enjoy celebrating Christmas and want to join in with Christmas in Auckland celebrations, then you can. What’s great about these events is that they are absolutely FREE, that’s right you don’t need to buy tickets or do any advanced booking, just come along with families and friends and join in with the fun and enjoy! At all these events you will get the chance to unite together with the crowds and sing along to the all time favorite Christmas carols. This year (2006) there are going to be five Christmas events and yes they are all FREE. They have been offered by [more..](/australiaandpacific/newzealand/festivals/top_christmas_even)
-
-
-
-[[rate it]](/australiaandpacific/newzealand/festivals/top_christmas_even)
-
-url: [www.no1guide.co.nz](http://www.no1guide.co.nz/)
-
-date: 22nd Novemeber 2006
-
-email:
+**ANZAC Day** (25 April) is shared with Australia. Dawn services at war memorials across the country mark the Gallipoli landing of 1915. A public holiday; most businesses close.

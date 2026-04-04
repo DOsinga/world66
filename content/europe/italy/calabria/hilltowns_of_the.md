@@ -1,14 +1,12 @@
 ---
 title: "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)"
 type: location
+latitude: 39.1410
+longitude: 16.2340
 ---
 
-Travel Guide
+The hilltowns of the Savuto valley sit in the geographic centre of Calabria, perched on ridges above the river. Towns like Grimaldi, Malito, and Aiello Calabro are small, quiet, and largely overlooked by tourism, but they represent something essential about the region: communities that sent their sons and daughters to Canada, Argentina, Brazil, Australia, and beyond, yet still endure.
 
-These towns are a paradox: they are your typical "modern" Calabrian hilltowns, but unlike any other: Reknown as the home of the *scalidde,* its immigrants have contributed to the building of Canada, Argentina, Brazil, the USA and Australia (not to mention the rest of Italy and Europe!).
+**Grimaldi** (population around 2,200) is the geographical centre of Calabria. The old town feels medieval, which is odd given that the original settlement was destroyed by an earthquake in the 18th century and rebuilt at a different location entirely. The ruins of the first town are still nearby. In summer, the place comes alive when emigrants and their descendants return for the holidays.
 
-**Grimaldi**, a town of about 2200 people is the region's geographical centre. Today Grimaldi comprises of a somewhat abandoned old town, of no particular beauty, preceded on the autoroute by suburban style houses (with lawns and fences) at various stages of completion. Great in summer when many former residents and/or their offspring and families visit... fairly close to ocean beaches, italian farms and night life in the nearby resorts.
-
-The old town feels very medieval... which is quite odd because the original town was apparently destroyed by an earthquake in the 18th century, and was completely rebuilt at an entirely different location. The ruins of the original town are nearby.
-
-If you dare to visit, go by any of the several bars and say "hello". Better still, discuss politics and life with the locals- you will be the centre of attention!
+Stop in at one of the bars and say hello. Better yet, discuss politics and life with the locals. You will be the centre of attention.

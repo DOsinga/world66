@@ -13,4 +13,4 @@ For most people it is hard to think Vantaa as one of the largest cities in Finla
 
 City has long history in agriculture serving the needs of the nations capital. Nowadays the city is split with large motorways running from Helsinki through Vantaa with the capitol area circumferential road "Kehä III". The infrastructure has divided city in small isolated suburbs, but there are still lot of cultivated fields alongside the motorways as a reminder of the past.
 
-Vantaa doesn't have much of places of interest. You might still enjoy Heureka Science Center or Viherpaja Japanese and Cactus Garden, both located near Tikkurila. For museum enthusiasts there is The Finnish Aviation Museum near the airport and then ofcourse The Vantaa Agricultural Museum.****
+Vantaa has a few places worth a stop: the Heureka science centre near Tikkurila, the Finnish Aviation Museum near the airport, and the Vantaa Agricultural Museum. Most visitors pass through on the way to or from Helsinki-Vantaa Airport without stopping — and that's fine.

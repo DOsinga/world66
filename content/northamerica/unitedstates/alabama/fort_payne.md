@@ -1,18 +1,10 @@
 ---
-title: "Fort Payne"
+title: 'Fort Payne'
 type: location
 latitude: 34.444255
 longitude: -85.719689
 ---
 
-Travel Guide
+Fort Payne sits in the northeastern corner of Alabama and is the gateway to Little River Canyon National Preserve. The Little River flows for most of its length atop Lookout Mountain before dropping into a dramatic canyon system -- forested uplands, waterfalls, sandstone cliffs, and boulder-strewn pools that are spectacular in any season.
 
-Fort Payne is located in the northeastern corner of Alabama. The town is an excellent
-base for exploring the Little River Canyon, now protected as a National Preserve. The Little River flows for
-most of its length atop Lookout Mountain. The
-river and canyon systems are spectacular Appalachian Plateau landscapes
-any season of the year. Forested uplands, waterfalls, canyon rims and
-bluffs, stream riffles and pools, boulders, and sandstone cliffs offer
-settings for a variety of recreational activities. Natural resources
-and cultural heritage come together to tell the story of the Preserve,
-a special place in the Southern Appalachians.
+The town is also the hometown of the country supergroup Alabama, and the Alabama Fan Club and Museum chronicles the band's history. Fort Payne itself is a small, quiet place, useful mainly as a base for exploring the canyon and the surrounding Southern Appalachian landscape.

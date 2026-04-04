@@ -1,59 +1,30 @@
 ---
-title: "Budget Travel Ideas in China"
+title: "Budget Travel Ideas"
 type: section
 ---
 
-Although China is increasingly becoming a First World country
-with its rising economy and living standards, **China budget travel**
-is very much a reality and, in some ways, the country is even cheaper
-than some of its Asian neighbors.
+China is not as cheap as it was in the 1990s, but it remains good value compared to Western Europe, Japan, or Australia. You can travel comfortably on a modest budget if you eat local food, take trains rather than flights, and stay in hostels or budget guesthouses.
 
-**Money Matters**
+## Food
 
-Traveler's
-cheques tend to give you a better rate of exchange than withdrawing
-money from ATMs using your VISA or Cirrus cards, although certain
-currencies such as Russian roubles cannot be exchanged for Chinese yuan.
-It's always safe to have a store of U.S. dollars on your person in case
-you run into trouble.
+Eating where Chinese people eat is both the cheapest and most interesting option. Noodle shops, dumpling stalls, and canteen-style restaurants serving rice dishes with meat and vegetables cost 15–30 yuan (around $2–4) for a filling meal. Street food — lamb skewers in Xinjiang, steamed buns in Shanghai, spicy Sichuan noodles in Chengdu — is often the best food you'll eat in China and costs almost nothing. Avoid tourist-oriented restaurants near major sights; they charge twice the price for inferior versions of the same dishes.
 
-**Food, Drink and
-Accommodations**
+## Transport
 
-Food is relatively cheap in
-China, especially if you avail yourself to the delicious street food
-such as noodles and local beers. Accommodations can be misleading
-- don't be put off by the fancy facades of luxury-looking hotel
-complexes - they usually also contain pretty cheap dorms for shoestring
-travelers, thus making China budget travel feasible vis a vis
-accommodations. Alternatively, there is a growing number of serviced
-apartments especially in the big cities like Shanghai which are
-essentially cheaper and usually better-maintained than hotels.
+High-speed trains are excellent value for longer journeys. The Beijing–Shanghai bullet train costs around 550 yuan (about $75) second class — comparable to a budget airline fare but much more comfortable. Overnight sleeper trains are the budget traveler's friend: a hard sleeper berth from Beijing to Xi'an costs around 200 yuan and saves a night's accommodation. Book through Trip.com or the 12306 app.
 
-**Transport
-Issues**
+Within cities, metro and bus fares are extremely cheap — typically 2–6 yuan per journey. Use Didi for taxis to avoid being overcharged.
 
-Train travel in China can be cheap if you
-know a few tricks. Because the train reservation system is so complex,
-you'll often find that many tickets for sleeper seats go unsold and you
-can only get them if you pay for a lower-class seat, get onto the train
-and then upgrade. This only works for 2nd class sleeper seats because
-1st class ones are usually almost as expensive as a flight ticket so
-hardly worth the bother.
+## Accommodation
 
-Given the strict rules and weeks of
-bureaucratic sorting-out, it's not worth trying to drive yourself around
-China by car. This would not be a good option to take if you are
-insistent upon China budget travel.
+Hostels in China are numerous, clean, and cheap — dormitory beds in major cities run 60–120 yuan per night. Budget guesthouses (often called 快捷酒店, express hotels) offer private rooms for 150–300 yuan. Book through Trip.com or Booking.com; rates fluctuate significantly.
 
-**Things to Do**While
-the costs of exhibitions and monument and museum entrance fees are rather
-high, there are plenty of attractions that are free or at least very
-cheap. A must-see is Victoria Park in Hong Kong where you can enjoy a
-pleasant stroll and see truly panoramic vistas of the city. At night
-these views become particularly spectacular, especially as you look over
-the greener areas of Hong Kong to the west. Among all the China
-budget travel things to do, Victoria Park is incredibly worthwhile.
+## Sights
 
-**Contributors**
-April 12, 2010
+Museum admission has become expensive in recent years — the Forbidden City costs 60 yuan, the Terracotta Army 120 yuan. But many of China's best experiences cost little or nothing: walking the city walls of Xi'an (45 yuan), cycling around Yangshuo, hiking to viewpoints in Huangshan, or simply spending time in a neighborhood that hasn't been turned into a tourist attraction. The parks, temples, and street life of any Chinese city are free.
+
+## Practical Tips
+
+- Avoid travel during Golden Week holidays (Chinese New Year, May 1, October 1) — prices spike and transport sells out.
+- Forget traveler's cheques — no one takes them. Set up Alipay with a foreign card for digital payments; it's how the country runs.
+- Bargaining is expected in markets but not in shops with price tags.

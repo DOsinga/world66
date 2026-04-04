@@ -1,103 +1,12 @@
 ---
-title: "Eating Out in Durham"
+title: 'Eating Out in Durham'
 type: section
-accessibility: "excellent- no stairs and large free car park"
-address: "durham county cricket club, riverside, chester le street"
-email: "lian.henderson@durhamccc.co.uk"
-phone: "0191 3883335"
-price: "£15 three courses, main courses from £5.95"
-type: "Local"
-url: "www.durhamccc.co.uk"
 ---
 
-Food is a distinctive highlight to a visit to Durham. In fact, Durham boasts some of North Carolina's most notable chefs and restaurants. More than 300 restaurants can be found in Durham, with fare ranging from good ol' North Carolina barbecue to grilled steaks to fresh seafood and with styles ranging from tradtional favorites to more exceptional fare, such as Caribbean, Ethiopian, and Middle or Far Eastern.
+Durham has quietly become one of the best food cities in the South. More than 300 restaurants serve everything from North Carolina barbecue to Ethiopian, Caribbean, and Far Eastern cuisine.
 
-### [austins bistro](/northamerica/unitedstates/northcarolina/durham/eating_out/austins_bistro)
+The city's restaurant scene is concentrated in a few areas. The **American Tobacco Campus** and nearby **Brightleaf Square** have several good options within walking distance. **Ninth Street**, near Duke's East Campus, is a strip of independent restaurants and coffee shops popular with students and locals alike.
 
-austins bistro at durham county cricket club:-
+For classic North Carolina barbecue, **Picnic** on West Main Street does excellent pulled pork. **Dame's Chicken and Waffles** is a Durham institution. For something more upscale, **Mateo Bar de Tapas** on West Main Street serves Spanish-inspired small plates in a lively atmosphere.
 
-I have enjoyed many a pleasant evening at this cricket club bistro.
-
-Their menus continue to be fresh and enticing whilst the staff are friendly and nothing is too much trouble.
-
-You can literally ask for any dish you fancy as my friend is very picky and the chef was so accomodating! this is rare these days in my opinion.
-
-i can not fault this restaurant and feel the need to tell anyone who will listen how great it is!
-
-luckily i live locally and enjoy their special evenings such as [more..](/northamerica/unitedstates/northcarolina/durham/eating_out/austins_bistro)
-
-type: Local
-
-
-
-accessibility: excellent- no stairs and large free car park
-
-tel: 0191 3883335
-
-url: [www.durhamccc.co.uk](http://www.durhamccc.co.uk)
-
-address: durham county cricket club, riverside, chester le street
-
-PriceOfMenu: £15 three courses, main courses from £5.95
-
-email: lian.henderson@durhamccc.co.uk
-
-### [austins bistro](/northamerica/unitedstates/northcarolina/durham/eating_out/austins_bistro_1)
-
-austins bistro at durham county cricket club:-
-
-I have enjoyed many a pleasant evening at this cricket club bistro.
-
-Their menus continue to be fresh and enticing whilst the staff are friendly and nothing is too much trouble.
-
-You can literally ask for any dish you fancy as my friend is very picky and the chef was so accomodating! this is rare these days in my opinion.
-
-i can not fault this restaurant and feel the need to tell anyone who will listen how great it is!
-
-luckily i live locally and enjoy their special evenings such as [more..](/northamerica/unitedstates/northcarolina/durham/eating_out/austins_bistro_1)
-
-type: Local
-
-
-
-accessibility: excellent- no stairs and large free car park
-
-tel: 0191 3883335
-
-url: [www.durhamccc.co.uk](http://www.durhamccc.co.uk)
-
-address: durham county cricket club, riverside, chester le street
-
-PriceOfMenu: £15 three courses, main courses from £5.95
-
-email: lian.henderson@durhamccc.co.uk
-
-### [austins bistro](/northamerica/unitedstates/northcarolina/durham/eating_out/austins_bistro_2)
-
-austins bistro at durham county cricket club:-
-
-I have enjoyed many a pleasant evening at this cricket club bistro.
-
-Their menus continue to be fresh and enticing whilst the staff are friendly and nothing is too much trouble.
-
-You can literally ask for any dish you fancy as my friend is very picky and the chef was so accomodating! this is rare these days in my opinion.
-
-i can not fault this restaurant and feel the need to tell anyone who will listen how great it is!
-
-luckily i live locally and enjoy their special evenings such as [more..](/northamerica/unitedstates/northcarolina/durham/eating_out/austins_bistro_2)
-
-type: Local
-
-
-
-accessibility: excellent- no stairs and large free car park
-
-tel: 0191 3883335
-
-url: [www.durhamccc.co.uk](http://www.durhamccc.co.uk)
-
-address: durham county cricket club, riverside, chester le street
-
-PriceOfMenu: £15 three courses, main courses from £5.95
-
-email: lian.henderson@durhamccc.co.uk
+Durham's food truck scene is also worth exploring -- several regular gatherings happen around the city, especially near the Durham Food Hall in the old downtown.

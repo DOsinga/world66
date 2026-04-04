@@ -1,10 +1,9 @@
 ---
-title: "The tea gardens"
+title: 'The Tea Gardens'
 type: poi
-latitude: -32.617005
-longitude: 152.079981
+address: '2-4 Bronte Rd, Bondi Junction'
+latitude: -33.8930
+longitude: 151.2501
 ---
 
-This bar is one of the more popular in the Bondi Junction area. With a luxurious interior and stylish clientele, it attracts a pleasant mix of socialites and locals. On top of this the dining service is remarkable for it's quality and price. A truly one off bar, and an unforgetable experience.
-
-address: 2-4 Bronte Rd, Bondi Junction, Sydney, 2022 NSW
+One of the more popular bars in the Bondi Junction area. Luxurious interior, stylish clientele, and a dining menu that punches above its weight for both quality and price.

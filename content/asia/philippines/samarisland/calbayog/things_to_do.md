@@ -1,5 +1,5 @@
 ---
-title: "Things to do in Calbayog"
+title: Things to Do
 type: section
 ---
 

@@ -1,24 +1,18 @@
 ---
 title: "Nightlife and Entertainment"
 type: section
-type: "Clubs and dancing"
 ---
 
-Here are a few places to spend your night in.
+Nightlife in Kuwait City is unlike anywhere else in the Gulf. With alcohol completely banned, the evening scene revolves around cafes, restaurants, shisha lounges, and family entertainment rather than bars and clubs.
 
-**Contributors**
-January 10, 2006
+The liveliest evenings are **Thursdays** (the start of the weekend), when families and friends crowd into restaurants and cafes across the city for long, social dinners. The **Marina Crescent** area in [Salmiya](/asia/kuwait/salmiya) is one of the best spots for an evening out, with waterfront restaurants and the Hard Rock Cafe in its striking glass pyramid.
 
-### ["Dolls" Club
+**Shisha lounges** are popular across the city. Smoking flavoured tobacco from a water pipe while sitting outdoors on a warm evening is a quintessential Gulf experience. Many restaurants and cafes offer shisha alongside food and drinks.
 
-A new club called "Dolls" - the first and only of its kind -
-is opening in Kuwait City in about a month. The lack of alcoholic
-drinks in the country will not affect by any means the visitors'
-entertainment since the staff is specially selected to meet the extreme
-need for nightlife in the city of Kuwait. The "Dolls"'s interior
-and the colors are realized in provocative-futuristic style - almost
-geometrical lines and glitters of red, grey and metal. In this
-surrounding atmosphere the names of the drinks sound even more exotic
-even more when served by the European ladies-staff more..](http://www2.world66.com/asia/kuwait/kuwaitcity/nightlife_and_ente/dolls_club)
+**Bowling** at Cozmo in Salmiya is a popular evening activity, with well-maintained lanes, billiards, darts, and a games arcade. Open until 1 AM.
 
-type: Clubs and dancing
+**Cinema** is huge in Kuwait. The Avenues mall and other large malls have modern multiplexes showing Hollywood, Bollywood, and Arabic films. Some films are censored more heavily than in Western countries.
+
+**Al-Shaab Gardens** (Shaab Leisure Park) in Salmiya is a large amusement park open until midnight, with rides, ice skating, roller skating, restaurants, and a multi-purpose theatre.
+
+Most entertainment closes by midnight or 1 AM. This is not a late-night city, but the evenings can be pleasant and social, especially in the cooler months when outdoor dining and strolling are comfortable.

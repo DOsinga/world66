@@ -1,8 +1,14 @@
 ---
-title: "Lieser"
-type: location
 latitude: 49.919055
 longitude: 7.020769
+title: Lieser
+type: location
 ---
 
-Lieser is a very typical - and therefore very nice - place at the Mosel(la). The castle is worth a walk, and there are excellent wines available ...
+Travel Guide
+
+Lieser is a village in the rural district of Bernkastel-Wittlich in the vicinity of the town of Bernkastel-Kues. The village was named by the stream Lieser which flows into the river Mosel near the village.
+
+For more information goto: http://en.wikipedia.org/wiki/Lieser
+
+One of exiting buildings in Lieser: http://www.schloss-lieser.eu/

@@ -1,14 +1,18 @@
 ---
-title: "Things to Do in Wiesbaden"
+title: 'Things to Do'
 type: section
 ---
 
-Your **Wiesbaden Things to Do** list will consist of a whole range of activities. This southwestern city in Germany attracts tourists due to its rich cultural heritage. Read on to find out the main attractions in this city.
-**
-Park of Warmer Damm**
+Wiesbaden's attractions range from Roman-era hot springs to hilltop viewpoints and elegant 19th-century architecture. The Neroberg, the Kurhaus and the surrounding parks are the main draws.
 
-A visit to this park is a must. Warmer Damm is a park located right behind the Hessian Theater. The park covers four and one-half hectares of land. The main attraction is located right at the center of the park. There is a pond that covers two blocks of area and has a jet fountain. You will be able to view aquatic birds at this park all year round. The park has tall trees and lush green surroundings. Throughout the park you will find sculpture and other pieces of art.
+**Neroberg**
 
-**Kunsthaus**
+An absolute must-see. This hill within the city limits rises just under 250 metres and is a popular spot for both residents and visitors. You can take a nature hike, visit the Russian church, and enjoy one of the best views of the city. The Nerobergbahn funicular, built in 1888 and powered entirely by the weight of water and gravity, takes you up 80 metres in about half a kilometre. It runs every 15 minutes between April and October.
 
-Art has no barriers and the Kunsthaus is a prime example of the same. This German art gallery attracts tourists from around the world, to take in the view of this Mecca for art. The building itself goes
+**Warmer Damm**
+
+This park sits right behind the Hessian Theater and covers four and a half hectares. At its centre is a pond with a jet fountain, surrounded by tall trees, sculpture and lush greenery. Aquatic birds can be spotted year round.
+
+**Kurhaus and Casino**
+
+The Kurhaus, built in Neo-classical style by Friedrich von Thiersch around 1907, is one of Wiesbaden's most striking buildings. Inside is the famous casino, which has been part of the city's landscape since the late 1700s. The spa house alone is worth a visit.

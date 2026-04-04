@@ -1,12 +1,10 @@
 ---
-title: "Pushkar"
+title: 'Pushkar'
 type: location
-latitude: 26.487647
-longitude: 74.557848
+latitude: 26.4876
+longitude: 74.5578
 ---
 
-Pushkar, surrounded by five rivers (namely, Suprabha, Prachi Nanda, Saraswati, Kanaka and Pushkar) and over fifty ghats, is a worthwhile stop on your trip to Rajasthan. The place is just 12 kms from Ajmer. It is believed that, the person who bathes in one of the rivers, will get his one way ticket to heaven instead of being doomed to an endless circle of reincarnations. Pushkar is also known as the City of Brahma because the famous Temple dedicated to Lord Brahma, the only one you'll find in India, is located here.
+Pushkar is a tiny, atmospheric town built around a sacred lake, just 15 km from [Ajmer](/asia/india/rajasthan/ajmer). It is one of the holiest sites in Hinduism, home to one of the very few temples in India dedicated to Lord Brahma. Over fifty ghats (stepped bathing areas) line the lake, and the town has a devout, vegetarian character -- no meat, eggs, or alcohol are sold in the old town center.
 
-
- 
- However, the main reason why Pushkar is known and attracts many visitors is because of the annual camel fair. In October and November, this colourful camel and cattle fair will keep you occupied for days. The main attractions are the selling and buying of cattle and the impressive camel race. Over 300,000 people from all over the world and all over the country attend this festival.
+The main reason Pushkar makes international headlines is the annual camel fair, held in October or November (dates follow the Hindu lunar calendar). For a few days, the desert on the edge of town fills with tens of thousands of camels, horses, and cattle, along with traders, performers, and over 300,000 visitors. Camel races, folk music, and mustache competitions are part of the spectacle. Outside of fair season, Pushkar is a mellow backpacker stop with cheap guesthouses, rooftop cafes, and a relaxed pace. The rose gardens surrounding the town produce most of India's rose essence and rose water.

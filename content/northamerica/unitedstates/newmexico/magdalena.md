@@ -1,13 +1,8 @@
 ---
-title: "Magdalena"
+title: 'Magdalena'
 type: location
-latitude: 34.11699
-longitude: -107.243372
+latitude: 34.1170
+longitude: -107.2434
 ---
 
-Travel Guide
-
-A charming little high desert semi-ghost, Magdalena is a genuine wild west icon. The end of the "hoof highway" from Arizona, for decades Magdalena was a busy shipping point on the Santa Fe railroad, where hundreds of thousands of cattle were sold and shipped out on the trains. Now a sleepy little burg in the shadows of the Magdalena Mountains, this interesting town offers historic buildings, a neat museum, and other offbeat attractions to the traveler seeking something different and unique.
-
-More information on
-*Magdalena Travel*
+A charming high desert semi-ghost town and genuine wild west icon. Magdalena was the end of the "hoof highway" from Arizona -- for decades a busy shipping point on the Santa Fe railroad where hundreds of thousands of cattle were sold and loaded onto trains. Now a sleepy little burg in the shadows of the Magdalena Mountains, it offers historic buildings, a small museum, and offbeat attractions for the traveler seeking something different.

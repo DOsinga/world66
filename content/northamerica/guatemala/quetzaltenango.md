@@ -1,4 +1,0 @@
----
-title: "Quetzaltenango"
-type: location
----

@@ -1,6 +1,6 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
 ---
 
-Bandhani , the most auspicious piece of Saari to wear for an Indian bride & Wiwes , is manufactured here and got a fame from long history of cricket loving Family of the ruler.
+Jamnagar is one of the best places in Gujarat to buy bandhani textiles -- the intricate tie-dye work that produces the distinctive patterns on saris and other fabrics. The craft has a long tradition here, and you can find a wide range of quality and price in the bazaars of the old city.

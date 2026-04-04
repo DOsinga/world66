@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 5 080 004 (July 1998 est.)
+Sierra Leone has a population of around 8.5 million (2024 estimate). The country is ethnically diverse, with 18 recognized ethnic groups. The Temne are the largest group, concentrated in the north, and the Mende the second-largest, dominant in the south and east. The two groups together make up well over half the population. Other significant groups include the Limba, Kono, and Mandingo.
 
-**Age structure:**
+The Krio community — descendants of freed slaves from Britain, Jamaica, and Nova Scotia who were settled in the Freetown area from the late 18th century onward — account for around 2% of the population but have been historically influential in law, medicine, and education. Krio culture and language remain central to Freetown's identity.
 
-*0-14 years:* 45% (male 1 130 728; female 1 167 084)
+About 78% of the population is Muslim, around 20% Christian, with the remainder following indigenous beliefs. The two faiths coexist peacefully; it's common for families to include members of both. Religious tolerance is a genuine feature of Sierra Leonean society, not just a talking point.
 
-*15-64 years:* 52% (male 1 257 901; female 1 367 902)
-
-*65 years and over:* 3% (male 79 113; female 77 276) (July 1998 est.)
-
-**Population growth rate:** 4.01% (1998 est.)
-
-**Birth rate:** 46.16 births/1 000 population (1998 est.)
-
-**Death rate:** 17.25 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 11.18 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 0.96 male(s)/female
-
-*15-64 years:* 0.91 male(s)/female
-
-*65 years and over:* 1.02 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 129.38 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 48.57 years
-
-*male:* 45.56 years
-
-*female:* 51.66 years (1998 est.)
-
-**Total fertility rate:** 6.23 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Sierra Leonean(s)
-
-*adjective:* Sierra Leonean
-
-**Ethnic groups:** 20 native African tribes 90% (Temne 30% Mende 30% other 30%) Creole 10% (descendents of freed Jamaican slaves who were settled in the Freetown area in the late-eighteenth century) refugees from Liberia's recent civil war small numbers of Europeans Lebanese Pakistanis and Indians
-
-**Religions:** Muslim 60% indigenous beliefs 30% Christian 10%
-
-**Languages:** English (official regular use limited to literate minority) Mende (principal vernacular in the south) Temne (principal vernacular in the north) Krio (English-based Creole spoken by the descendents of freed Jamaican slaves who were settled in the Freetown area a lingua franca and a first language for 10% of the population but understood by 95%)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write in English Mende Temne or Arabic
-
-*total population:* 31.4%
-
-*male:* 45.4%
-
-*female:* 18.2% (1995 est.)
+Around 60% of the population is under 25, and the country is largely rural — many people live from subsistence farming, fishing, and small-scale trade. Sierra Leone remains one of the world's poorer countries by GDP, but it has a resilient, entrepreneurial population that kept basic civic life going through the war years and the 2014-2016 Ebola crisis.

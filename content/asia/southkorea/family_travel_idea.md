@@ -1,29 +1,26 @@
 ---
-title: "Family Travel Ideas in South Korea"
+title: "Family Travel Ideas"
 type: section
 ---
 
-One might think that in **South Korea family travel** would be difficult, but that's not the case. There are plenty of places to visit in South Korea that will keep the adults interested, the teenagers entertained and the children happy. Here's a look at some of the top places for family travel in South Korea.
+South Korea works well for families. It is safe, transport is easy, food options are plentiful, and Koreans are generally very welcoming to children. The main challenge is the heat and humidity of July and August; spring and autumn are far more comfortable with young children.
 
-**Lotte World**
+**Gyeongbokgung Palace**
 
-Located in Seoul is an indoor amusement park that is open all year round. There are wild roller coasters for your older children and tame rides for your little ones. There's also a pool complete with water slides and a skating rink with a viewing area. This amusement park is so much more than that, with a shopping center, hotel and even a folk museum within its boundaries.
+The changing of the royal guard at Gwanghwamun Gate — twice daily in elaborate historical costume — is reliably popular with children of all ages. The palace grounds are large enough to wander without a specific plan, and you can rent hanbok (traditional Korean dress) for a few thousand won and have your photos taken.
 
-**Daejeon Zooland**
+**Lotte World (Seoul)**
 
-The second largest zoo in Korea is extremely family friendly. You can hop a bus for an African Safari through the area where lions, elephants and giraffes roam free, or you can see the mountain goats and deer on the Mountain Safari. There are tigers, monkeys, reptiles and seals along with tons of birds, and there are animal shows throughout the day. There's also a sculpture park and even an amusement park with several roller coasters and other wild rides.
+An enormous year-round indoor and outdoor theme park in central Seoul. Roller coasters, a folk museum, an indoor lake, an ice rink, and parades. The indoor section means it works in any weather. Located next to Lotte World Tower, the fifth tallest building in the world, with an observation deck near the top.
 
-**Yongpyong Resort**
+**Everland (Gyeonggi Province)**
 
-Located in Pyeongchang is the largest ski resort in South Korea. It includes skiing, sled riding, bowling, karaoke rooms and a swimming pool. There are various play areas designed for children of different ages, including infants, toddlers and school children. There's a beauty parlor for mom, and an indoor driving range for dad. In the spring the skiing gives way for golf, but the rest of the facilities remain open all year.
+Korea's largest outdoor theme park, about an hour south of Seoul by bus. More traditional theme park in structure than Lotte World: rides, roller coasters, a safari park with lions and elephants, and seasonal floral gardens. Busy on weekends; worth going mid-week if possible.
 
-**Gyeongbok Palace**
+**Jeju Island**
 
-If you want to introduce your family to a bit of culture, bring them to Gyeongbok Palace in Seoul. You can witness the changing of the guards, a very popular attraction with kids, before touring the complex. View the throne room, banquet hall, living quarters and pavilions all set among beautiful lakes. There's also a sculpture park, and on the corner of the grounds is the National Folk Museum for some additional information on Korean life that's sure to interest everyone in your family.
+The easiest Korean destination for families with curious children. You can explore lava tubes (Manjanggul cave is walkable and genuinely impressive), visit the haenyeo diving women on the south coast, hike on the lower slopes of Hallasan, and swim in warm water at beaches that are calmer than the mainland coasts.
 
-**Contributors**
-February 02, 2010
+**Haeundae (Busan)**
 
-January 28, 2010
-
-January 29, 2010
+The beach scene at Busan in summer is family-friendly and lively. The SEA LIFE Busan Aquarium at Haeundae includes shark tanks and a glass tunnel walk-through. Geumgang Park, accessible by cable car, is good for half a day above the city.

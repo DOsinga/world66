@@ -1,18 +1,30 @@
 ---
-title: "When to Go in Chile"
+title: "When to Go"
 type: section
 ---
 
-When you are planning a trip to **Punta Arenas**, **when to go** will depend on what you are planning on doing once you arrive. There is plenty to enjoy during all seasons. This area is located at the southernmost tip of the country so it gets quite cold in the winter and is still fairly cool in the summer. Many people tend to visit Argentina as well as Chile when they travel to Punta Arenas as the two countries meet at the southern tip of the continent. In fact, you can easily drive from one to the other in a few hours.
+Chile's extreme length means that the "best time to visit" depends entirely on where you are going and what you want to do.
 
-#### During the Spring and Summer
+**Northern Chile (Atacama)**
 
-The spring and summer months are the warmest times of the year. Punta Arenas is in the southern hemisphere so the summer months run from December to about May. The temperature ranges from 15 to 20 degrees C. This area is always rather rainy so you want to always bring rain gear. If you want to go hiking or visit any of the natural parks or nature areas, this is the season to visit. Keep in mind that travel can be expensive as the Christmas holidays fall into this period. If you are going to travel to Chile at this time then booking as far in advance as possible is your best bet to keep the price down.
+The Atacama is the driest place on earth and can be visited year-round. Daytime temperatures are warm to hot regardless of season, but nights are cold even in summer. The shoulder seasons of April–May and September–October are pleasant. Avoid late January and February if you can — occasional flash flooding ("aluviones") can close roads in the desert.
 
-#### The Winter Months
+**Central Chile (Santiago, Valparaíso, wine valleys)**
 
-Winter is when the town puts on its carnival. Chileans from the region and many visitors flock to the town to see the many decorated floats, costume parade, music and dancing. There are fireworks down at the waterfront and many other festivities. This is also when the Magellan Penguin splash occurs as many people jump in to the Strait of Magellan for a swim in the middle of the winter. There are no mountains in or near Punta Arenas but you can view glaciers. The scenic cruises are particularly spectacular during the winter months. This is considered the low season with more affordable rates.
+The central zone has a classic Mediterranean climate. Summers (December–February) are hot and dry, occasionally reaching 35°C in Santiago. Smog can be a problem in the capital during winter inversions. Spring (September–November) and autumn (March–May) are ideal — mild temperatures, good visibility, and fewer crowds.
 
-#### When to Cruise
+**Lakes District and Chiloé**
 
-Punta Arenas is a main stop for cruise ships from Argentina and Santiago on the way to the Antarctic, so working Antarctica into your itinerary is not hard. However, cruising is best done during the spring and fall months. No matter the season, it gets quite cold. Most sailings depart at the end of October and the last departures are in January.
+December to February is peak season here — warmer, drier, and busy. The rest of the year is increasingly wet as you go south. Autumn has beautiful colours in the forests, and crowds thin out noticeably after March.
+
+**Patagonia and Torres del Paine**
+
+The hiking season runs from late October to late April, peaking in December–February. Summer here is short, unpredictable, and windy — even in January expect wind, rain, and rapid weather changes. Book huts and campsites on the W and O circuits well in advance for the high season. Shoulder months (November, March–April) offer fewer people and sometimes more stable weather.
+
+**Easter Island**
+
+The island is pleasant year-round. February brings the Tapati Rapa Nui festival — a wonderful time to visit, but accommodation fills up months ahead. October–December is generally the driest period.
+
+**Bear in mind**
+
+Chile's seasons are the reverse of the northern hemisphere: summer is December–February, winter is June–August. School holidays in January–February drive up prices and crowds at popular sites. The September Fiestas Patrias (around the 18th) is a major national holiday when Chileans travel domestically — transport and accommodation in popular areas book out fast.

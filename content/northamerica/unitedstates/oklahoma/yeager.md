@@ -1,10 +1,8 @@
 ---
-title: "Yeager"
+title: 'Yeager'
 type: location
-latitude: 37.39177
-longitude: -82.521542
+latitude: 35.184
+longitude: -96.074
 ---
 
-Travel Guide
-
-Located in Hughes County, Oklahoma, Yeager is a town of less than 100 people.
+Located in Hughes County, Yeager is a tiny town of fewer than 100 people in east-central Oklahoma.

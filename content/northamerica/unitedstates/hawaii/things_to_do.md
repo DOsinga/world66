@@ -1,45 +1,22 @@
 ---
-title: "Things to do in Hawaii"
+title: 'Things to do in Hawaii'
 type: section
 ---
 
-Hawaii
-is a great tourist destination, but sometimes visitors only focus on the
-most publicized activities. Try some of these outdoor alternatives to
-experience Hawaii through a local's point of view.**
+Hawaii is a great destination, but sometimes visitors only focus on the most publicized activities. Try some of these outdoor alternatives to experience Hawaii through a local's point of view.
 
-Oahu Island: ****Kayak to Mokulua Islands
+**Kayak to the Mokulua Islands (Oahu)**
 
-**Kailua and Lanikai
-beaches are great destinations to get away from the crowds of Waikiki
-and experience beaches in a more natural state. From these two beaches,
-you will be able to access the two Mokulua Islands. The larger one is called Moku Nui and the smaller one is called Moku Iki. Located about one mile off Lanikai beach and about 2 miles from Kailua Beach, Moku Nui and Moku Iki are bird sanctuaries with more than 12 species of seabirds. There are several kayak rental places around Kailua. Make sure to bring sunscreen, water, a life jacket and reef shoes. Snorkel gear is optional, but highly recommended.**
+Kailua and Lanikai beaches are great destinations to get away from the crowds of Waikiki and experience beaches in a more natural state. From these two beaches you can access the Mokulua Islands, about a mile offshore. The larger one, Moku Nui, and the smaller Moku Iki are bird sanctuaries with more than twelve species of seabirds. Several kayak rental places operate around Kailua. Bring sunscreen, water, a life jacket, and reef shoes. Snorkel gear is optional but highly recommended.
 
-Maui Island: Hike Haleakala Volcano
+**Hike Haleakala Volcano (Maui)**
 
-**
-This dormant volcano has 27 miles of hiking trails inside its crater and is open 24/7 365 days out of the year, except during severe weather conditions. The Haleakala Volcano park is an hour away from Kahului
-in Maui. Then it's about a 30 minute drive though the volcano park to
-reach its summit at 10,023 feet above sea level. It's really important
-that you plan ahead for sudden, cold winds (about 35 to 40 degrees F)
-and high altitude breathlessness, especially if you're planning to
-see the sunrise. The sunrise is spectacular, so don't forget
-your camera! Call (808) 572-4400 to request a permit and pack warm clothes, food and
-water for the long hike.**
+This dormant volcano has 27 miles of hiking trails inside its crater and is open year-round except during severe weather. The park is about an hour from Kahului, then a 30-minute drive through the park to the summit at 10,023 feet. Plan for cold winds (temperatures can drop to 35-40 degrees Fahrenheit) and high-altitude breathlessness, especially if you are going for the sunrise. The sunrise is spectacular -- do not forget your camera. Pack warm clothes, food, and water for the long hike.
 
-Kahoolawe Island: An Once in a Month Experience
+**Volunteer on Kahoolawe**
 
-**
-Once the target for U.S. military bombing practice during World War II, Kahoolawe Island has received over $400 million to restore it to its natural state. The organization Protect Kahoolawe
-organizes access to the island once a month so that volunteers can help
-lay seed of native Hawaiian plant species and can take a day-long
-hike to learn about Kahoolawe Island's cultural sites. This island is a sacred place and you only have one day out of the month to experience it; don't miss this opportunity! **
+Once used for US military bombing practice during World War II, Kahoolawe Island has received over $400 million for restoration. The organization Protect Kahoolawe organizes access once a month so volunteers can help plant native Hawaiian species and take a day-long hike to learn about the island's cultural sites. This is a sacred place and access is limited -- do not miss the opportunity if you can get a spot.
 
-Kauai Island: Experience Hanalei River**
+**Paddle the Hanalei River (Kauai)**
 
-This Hanalei River in Kauai offers an easy, yet very rewarding, 2 mile upstream paddle to the Hanalei Wildlife Refuge. The Hanalei River is safe and has slow currents, but make sure not to go too far into the open ocean. When
-entering and exiting the river, watch out for other paddlers and water
-sport enthusiasts. Also, bring a hat, water and sunblock lotion.
-
-**Contributors**
-July 21, 2009
+The Hanalei River on [Kauai](/northamerica/unitedstates/hawaii/kauai) offers an easy yet rewarding two-mile upstream paddle to the Hanalei Wildlife Refuge. The river is safe with slow currents, but do not go too far toward the open ocean. Watch for other paddlers when entering and exiting the river. Bring a hat, water, and sunscreen.

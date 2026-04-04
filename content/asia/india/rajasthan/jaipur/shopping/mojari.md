@@ -1,20 +1,10 @@
 ---
-title: "Mojari"
+title: 'Mojari'
 type: poi
-accessibility: "central"
-address: "Shiv Heera Path,Chomu House,"
-type: "Speciality shops"
-url: "www.mojari.com"
+address: 'Shiv Heera Path, Chomu House, Jaipur'
+url: 'www.mojari.com'
+latitude: 26.9218
+longitude: 75.7987
 ---
 
-10 Mts from [karan's guesthouse](/asia/india/rajasthan/jaipur/accommodation/karans_guesthouse) is Mojari ( a Rajasthan Government division) selling traditional Rajasthani footwear.
-
-type: Speciality shops
-
-
-
-accessibility: central
-
-url: [www.mojari.com](http://www.mojari.com )
-
-address: Shiv Heera Path,Chomu House,
+A Rajasthan government emporium selling traditional Rajasthani mojari (leather shoes with embroidered uppers). The quality is reliable and prices are fixed, which makes it a good alternative to bargaining in the bazaars. Located centrally, a short walk from the old city.

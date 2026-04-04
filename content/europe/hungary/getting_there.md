@@ -3,36 +3,24 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-The national airline is *Mal&eacute;v (MA)* operating flights to 37 cities. *Aeroflot* *British Airways* *Air France* *KLM* *Lufthansa* *Swissair* and others offer regular services to Budapest.
+Budapest Ferenc Liszt International Airport (BUD) is Hungary's main gateway, located about 24 km southeast of the city centre. Almost all international flights arrive here. The airport has two terminals: 2A handles Schengen flights and 2B handles non-Schengen flights including the UK, US, and Asia.
 
-For free advice on air travel from the UK call the Air Travel Advisory Bureau in the UK on (0171) 636 5000 (London) *or* (0161) 832 2000 (Manchester).
+From the airport into the city, the easiest option is the 100E Airport Express bus, which runs directly to Deák Ferenc Square in central Pest. The journey takes around 30–40 minutes and costs around 1,200 HUF. Bus 200E also connects the airport to the Kőbánya-Kispest metro station (line M3) around the clock. A direct train runs from the Ferihegy stop (a short walk from Terminal 2) to Keleti station in Budapest in about 25–30 minutes. Taxis from the airport to the city centre cost roughly 8,000–10,000 HUF; use the official taxi rank and agree on a price before getting in, or use a metered cab.
 
-Approximate flight time
+## By Train
 
-From London to *Budapest* is 2 hours 20 minutes.
+Budapest is well connected by rail to the rest of Europe. Direct intercity trains run from Vienna (about 2.5 hours), Prague (around 7 hours), Bratislava (2.5 hours), Krakow, Warsaw, Bucharest, and other major cities. Most international trains arrive at Budapest Keleti station. Tickets can be booked through [MÁV](https://jegy.mav.hu/) or Raileurope.
 
-International airport:
+## By Bus
 
-*Budapest Ferihegy (BUD)* 16km (10 miles) from the city (travel time  30 minutes). There are now two terminals one of which is used exclusively by *Mal&eacute;v Air France *and* Lufthansa. *Facilities include a duty-free shop florist newsagent restaurant and bar bureaux de change (0600-2300) banks (0830-1600) tourist information centre (0700-2300) gift shop and post office (0830-1600). Regular coach and bus services are available to the city costing around Ft600 for the centrum bus and approximately Ft1200 for the airport minibus. Taxis are available at all times. The major car hire companies are represented.
+FlixBus and Eurolines connect Budapest to many European cities. Arrivals are typically at Stadionok or Népliget bus stations.
 
-River:
+## By Car
 
-From April 4 to October 1 there is a daily hydrofoil service run by *MAHART* between Vienna and Budapest (except Sunday). The journey costs approximately US$75 and takes six hours. Reservations must be made at least 21 days in advance to avoid a US$20 surcharge. 20kg of luggage may be carried free of charge. Passengers arriving by boat are advised to reserve a taxi through the shipping line as none are readily available on the dock. For further details contact *MAHART *at Belgr&aacute;d rakpart 1056 Budapest. Tel: (1) 318 1704 *or *318 1586 *or *266 4198. Fax: (1) 318 7740 (E-mail: mahart-tours@aux.net).
+Hungary is easy to reach by motorway from Austria (via Vienna on the M1), Slovakia, and other neighbours. A motorway vignette (matrica) is required for driving on Hungarian motorways; you can buy one online or at petrol stations near the border. The vignette system is enforced electronically — no sticker, just your registration plate.
 
-Rail
+## By River
 
-Direct rail links connect Hungary to 16 European cities and there are three international trains daily to Budapest. Inter-Rail Eurotrain and RES concessions are valid on the Hungarian State Railways *(M&Aacute;V)*. Between Dresden and Budapest there is a car transport system. The *Wiener Waltzer* from Basel travels via Zurich Salzburg and Vienna to Budapest arriving at 1430. First- and second-class day carriages run from Basel through to Budapest and both sleeping cars and couchettes (the latter second-class only) as far as Vienna. There is a minibar service in Switzerland and Austria and a dining car in Hungary. The most convenient route from London is via Ramsgate/Ostend joining the *Ostend/Vienna* *Express* (with sleeping cars and couchettes to Vienna).
-
-Luggage allowances:
-
-35kg for adults 15kg for children.
-
-Note:
-
-Travellers leaving Hungary by train must pay their fare in convertible currency. Most generally recognised international concessionary tickets are accepted in Hungary. For further details contact* M&Aacute;V* at Budapest VI Andr&aacute;ssy &uacute;t 35. Tel: (1) 342 8948 *or *461 5500 (reservations and timetables). Fax: (1) 342 8342. Seat reservations are strongly advised for all services.
-
-Road
-
-Route via The Netherlands Belgium and Austria and from Vienna via the E5 Transcontinental Highway which passes near Bratislava (Slovak Republic). Bus connections are available from most major European cities.
+From April to late October, a hydrofoil service operated by MAHART connects Vienna and Budapest. The journey takes about 5.5 hours and is more scenic than fast. Book in advance, especially in summer.

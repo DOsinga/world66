@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Barcelona"
+title: 'When to Go'
 type: section
 ---
 
@@ -27,5 +27,3 @@ Another thing to consider when planning your trip is whether or not it coincides
 
 One last thing to keep in mind is that peak season lasts from June to September, and prices are often higher.
 
-**Contributors**
-September 08, 2009

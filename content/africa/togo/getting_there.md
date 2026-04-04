@@ -3,16 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air**
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+Lomé–Tokoin International Airport (LFW) is Togo's only international airport, handling all flights in and out of the country. Air France connects Lomé directly to Paris, and Ethiopian Airlines is often the easiest option if you are coming from elsewhere in Africa or from Asia. Brussels Airlines also serves Lomé from Europe. From the US, you will typically route through Paris, Brussels, or Addis Ababa.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+**By land**
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+Togo shares borders with Ghana to the west, Benin to the east, and Burkina Faso to the north. The most-used overland entry point is the Aflao–Lomé border with Ghana, a busy crossing just minutes from central [Lomé](/africa/togo/lome). From Benin, the Hillacondji–Sanvee Condji crossing east of Lomé is equally straightforward. Overland transport from Burkina Faso is possible through the north, with the main crossing at Cinkassé, but the road is long and the final stretch can be rough.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+Bush taxis and minibuses link Lomé to Accra, Cotonou, and other regional capitals — a practical and affordable option if you are already in the region. The journey from Accra is around three to four hours.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+**Yellow fever**
 
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+A yellow fever vaccination certificate is required for entry. Carry the card, as it is checked at the airport and sometimes at land borders.

@@ -3,12 +3,34 @@ title: "Practical Information"
 type: section
 ---
 
-Besides hotels and B&Bs hostels are a good low budget option. Hostels provide simple, budget accomodation primarily in shared rooms. They are good places to get to know other travellers. In Germany, as in many countries, two flavors exist: international youth hostels and independent hostels. 
+## Money
 
+Germany uses the euro (€). Card payment is widely accepted, but Germany has historically been a cash-heavy society — smaller restaurants, markets, and rural guesthouses often prefer or require cash. Carry some euros for day-to-day use. ATMs (called Geldautomaten) are found everywhere.
 
+## Language
 
-International Youth Hostels ("Jugendherbergen") are owned and run by the association "Deutsches Jugendherbergswerk" (DJH), which is part of the Hostelling International (HI) network. Their more than 600 hostels are spread all over Germany in big and small cities as well as in the country side. Not only individual travellers are guests, but also by school classes and other youth groups. To sleep there, you have to be or become a member in a youth hostel organisation belonging the HI network (http://www.hihostels.com). Detailed information about this and each of their hostels can be found on the DJH's Website (http://www.jugendherberge.de/international/). 
+German is the official language. English is widely spoken in cities, tourist areas, and among younger people. In rural eastern Germany, English is less common. A few words of German go a long way — locals appreciate the effort.
 
+## Tipping
 
+Tipping is expected but not rigidly structured. In restaurants, rounding up the bill or adding 5–10% is standard. Tell the server the total you want to pay rather than leaving cash on the table ("Das stimmt so" means "keep the change"). Taxi drivers also expect a round-up.
 
-Privately run independent hostels are an attractive alternative for a similar price. More than 60 already exist in Germany, getting more and more every year. They are located in bigger cities, espcially in [Berlin](/europe/germany/berlin), [Munich](/europe/germany/bavaria/munich), [Dresden](/europe/germany/saxony/dresden), and [Hamburg](/europe/germany/hamburg). Only few are in the country side. Sometimes run by former travellers, hostels refrain from having strict rules. Especially small ones are frequently places where you can feel at home. There is no need to be a member in some organisation to sleep there. About half of the hostels have organized themselves in a "Backpacker Network" (http://www.backpacker-network.de/), which provides a list of their members hostels. A more complete list is Marcus's hostel list (http://www.hostel-list.de/). If you are interested in other traveller's opinions about hostels try http://www.hostelz.com/.
+## Accommodation
+
+Germany has a well-developed hostel network. The DJH (Deutsches Jugendherbergswerk) operates over 450 official youth hostels as part of the Hostelling International network — membership is required and easy to obtain online. Independent hostels in [Berlin](/europe/germany/berlin), [Munich](/europe/germany/bavaria/munich), [Hamburg](/europe/germany/hamburg), and [Dresden](/europe/germany/saxony/dresden) are often more relaxed and don't require membership.
+
+## Opening Hours
+
+Shops are generally open Monday to Saturday, with limited Sunday opening. Many smaller shops still close for lunch in smaller towns. Supermarkets in larger cities tend to stay open until 10pm.
+
+## Pharmacies
+
+Pharmacies (Apotheken) are well stocked. Outside business hours, a notice on the door will point you to the nearest duty pharmacy (Notdienstapotheke).
+
+## Emergency Numbers
+
+Police: 110. Fire and ambulance: 112. Both work from any phone.
+
+## Electricity
+
+230V / 50Hz, with standard European two-pin round plugs (Type F). Visitors from North America and the UK need an adapter.

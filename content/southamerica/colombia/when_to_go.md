@@ -1,17 +1,16 @@
 ---
-title: "When to Go in Colombia"
+title: "When to Go"
 type: section
 ---
 
-Brandon Anderson
+Colombia sits close to the equator, so temperatures don't change dramatically by season — what changes is how much it rains. The country has two dry seasons and two wet seasons, though the timing varies by region.
 
-When you are planning a trip to **Colombia**, **when to go** plays a major factor. There are many rainforests and high grasslands throughout Colombia due to the heavy rainfall and close proximity to the equator and much weather variation as you decrease and increase in elevation. As you climb to the peaks, the weather becomes thin and cold. As you sink to the lower levels, the weather is dense, humid and very often hot. The Pacific coast, of Colombia, is where you will find the most rainfall in the cities of Buenaventura, Tumaco and Jurado, which lie directly on the coastline.
+The main dry season runs from **December to March**, which is also the busiest time for travellers. The Caribbean coast, Cartagena, and the coffee region are at their most pleasant. Prices are higher at Christmas and New Year, and accommodation books up fast. January and February are particularly good: settled weather, manageable crowds, and Carnaval de Barranquilla falls in February.
 
-As it is close to the equator, you will not find a large difference in the climate changing as the seasons pass. The months of spring, summer and autumn have the most rainfall and reach high temperatures in the hundreds during July and the beginning of August. With the days being very hot, the water evaporation level is very high, producing large clouds, resulting in serve thunderstorms. The winter months and the very beginning of spring have the least amount of rainfall. As the weather cools, mostly in December and early January, there is not as much water evaporation to produce rainfall.
+A shorter dry season runs from **July to August**. This is a good time for trekking — Tayrona National Park, Ciudad Perdida, and the highlands see good conditions. Medellín's Feria de las Flores takes place in early August.
 
-The different regions of Colombia do not go through the same weather patterns. Though much of the country experiences the hot weather that comes with being by the equator, they all do not endure the effects at the same time. If you have not decided when you want to visit Columbia, the best time is during the months of December through March. This is also the busiest season, having the most travelers from around the world. You definitely want to avoid a visit to Colombia the months of May, June and July when the heavy rainfall begins. In addition, the months of October to the beginning of December produce heavy rain, a build from the summer.
+The wet seasons — **April to June** and **October to November** — bring heavy rainfall, especially on the Pacific coast, which is one of the wettest places on earth year-round. The Andes and Amazon regions also get significant rain during these months. Travel is still very possible: most sights remain open, buses run, and you'll share them with fewer tourists. Trails get muddy but the scenery is greener.
 
-Furthermore, one should bring with them thin clothes to keep cool while in the heat. Even in the winter months, the weather can be warm. As for during the rainy seasons, rain gear would be need and recommends. If you are traveling to the high peaks of the country, where the weather can get cold, one should bring with them heavy clothing and mid-top shoes or boots. Even with the rain though, Colombia has a wonderful climate.
+**Altitude matters more than season** for temperature. Bogotá at 2,600m is cool year-round (typically 7–18°C). Medellín at 1,500m earns its "city of eternal spring" nickname (22–28°C). Cartagena on the Caribbean is hot and humid throughout the year (30–35°C). Pack layers if you're moving between highlands and coast.
 
-**Contributors**
-January 29, 2010
+Tayrona National Park closes for parts of February (around Semana Santa if it falls then) and in late October for environmental regeneration. Check before you go.

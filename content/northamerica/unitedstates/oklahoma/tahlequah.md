@@ -1,10 +1,8 @@
 ---
-title: "Tahlequah"
+title: 'Tahlequah'
 type: location
 latitude: 35.91537
 longitude: -94.969956
 ---
 
-Travel Guide
-
-Located in Cherokee County, Oklahoma, Tahlequah is a city of over 14,000 people. Tahlequah is probably best known as the home of Northeastern Oklahoma State University and birthplace of Cherokee Chief Wilma Mankiller. A horse that was sometimes used as publicity for Mr. Ed (television) is burried there.
+Located in Cherokee County, Tahlequah is a city of over 14,000 people. It is the capital of the Cherokee Nation and home to Northeastern State University. Cherokee Chief Wilma Mankiller, the first woman to serve as principal chief of a major Native American tribe, was born here. Lakes Tenkiller and Fort Gibson are both nearby.

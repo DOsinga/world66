@@ -1,9 +1,9 @@
 ---
-title: "Shopping in Lago Maggiore"
+title: "Shopping"
 type: section
 ---
 
-There is plenty of** Lago Maggiore shopping** to be had on this gorgeous lake in Northern Italy. Lake Maggiore is found on the south side of the Alps, and is the longest and the second-largest lake in Italy. The climate is quite mild year-round, and the water temperature ranges from 15 to 22 degrees Celsius.
+The lakeside towns have weekly open-air markets with local produce, artisan goods, and souvenirs. The Alessi factory outlet near Omegna is a draw for design lovers, and the larger towns have a decent mix of boutiques and chain stores.
 
 **Weekly Open Air Markets**
 
@@ -23,5 +23,3 @@ There are two large shopping centers found in Gravellona Toce. They are directly
 
 In Arona there are several larger shops and discount outlets. One such discount outlet, Sergio Tacchini, sells sportswear and leisure wear. Just follow the main roads and you will drive by the shopping districts.
 
-**Contributors**
-April 06, 2010

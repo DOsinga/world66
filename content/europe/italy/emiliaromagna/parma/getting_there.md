@@ -1,20 +1,12 @@
 ---
-title: "Getting There in Parma"
+title: 'Getting There'
 type: section
 ---
 
-**Flying to Parma**
+**By air.** Parma has its own airport (PMF) with mostly domestic flights and some connections to London Stansted. If you cannot find direct flights, Milan Malpensa (MXP) or [Bologna](/europe/italy/emiliaromagna/bologna) Airport (BLQ) are good alternatives.
 
-Parma has its own international airport (PMF); most of the flights originate in Italy but there are flights between Parma and London Stansted. If you cannot find direct flights to Parma Airport, Milan Malpensa Airport (MXP) or Bologna Airport (BLQ) is a suitable alternative.
+**By train.** Train service to Parma is frequent, convenient, and reasonably priced. Trains run every hour from [Bologna](/europe/italy/emiliaromagna/bologna) Central Station -- the trip takes one hour. There are also hourly trains to Milan (about 80 minutes by InterCity) and frequent services from [Modena](/europe/italy/emiliaromagna/modena) and Piacenza.
 
-**By Train**
+**By bus.** TEP is the regional bus company. Buses leave from the Piazzale dalla Chiesa in front of the train station. The most frequent route runs from Busseto via Soragna (80 minutes).
 
-As in most of Italy, train service to Parma is frequent, convenient and reasonably priced. Trains run every hour from the Bologna’s Central Station. The trip from Bologna to Parma takes one hour and costs approximately 5 Euro. There are also hourly trains to Milan. A direct service train (InterCity) departs Milan hourly; it costs 16 Euro and takes 80 minutes. There are also frequent trains to Parma from Modena and Piacenza.
-**
-By Bus**
-
-TEP is the regional bus company. Buses leave from the Piazzale dalla Chiesa in front of the train station. The most frequent bus route runs to Parma from Busseto via Soragna. The trip from Busseto takes 80 minutes and costs 4 Euro.
-**
-Driving to Parma
-
-**If you are arriving by car, the exit for Parma is on the A1 highway (Bologna-Milan). You can also reach the city from the A15. Cars are not allowed in the city center. The easiest place to leave a car is the parking garage on Viale Toschi. There are also ticketed (“pay and display”) parking spaces available near the train station.
+**By car.** The exit for Parma is on the A1 highway ([Bologna](/europe/italy/emiliaromagna/bologna)-Milan). You can also reach the city from the A15. Cars are not allowed in the city centre. The easiest place to park is the garage on Viale Toschi, or the pay-and-display spaces near the train station.

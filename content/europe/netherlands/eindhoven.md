@@ -1,14 +1,12 @@
 ---
 title: "Eindhoven"
 type: location
-latitude: 51.439265
-longitude: 5.478633
+latitude: 51.4416
+longitude: 5.4697
 ---
 
-When you know Philips there's no doubt you also know it's 'birth-city' Eindhoven, by the locals known as the 'City of Light' at leaest with those that never made it to Paris. There's more about this city than the Philips bulb museum, though very little that's not connected in some way to this multinational.
+Eindhoven is a city that runs on invention. Philips built its first light bulb factory here in 1891, and that spirit of making things never left. Today the fifth-largest city in the Netherlands is the country's design and technology capital, home to the High Tech Campus (nicknamed "the smartest square kilometre in Europe"), the Design Academy, and Dutch Design Week every October.
 
+The city does not have the canal-house charm of Amsterdam or the medieval centre of Utrecht. What it has instead is energy: a compact, bikeable core with good museums, a famously long bar street (Stratumseind), and a creative scene that punches well above its weight. PSV Eindhoven, the football club born out of Philips Sport Vereniging, keeps the city passionate on match days.
 
- The internationally known soccer club PSV originated from this company and is still sponsered by Philips. After an exciting soccergame you can relax in one of the nice cafés and bars or maybe a disco. Take a look at Eindhovens diverse nightlife.
-
-
- During the day there will be much things left to see and to do, for some ideas take a look at museums and daytrips.
+Eindhoven works well as a short city break or a base for exploring Noord-Brabant. Fly into Eindhoven Airport on one of the many budget carriers, rent a bike, and give it two or three days.

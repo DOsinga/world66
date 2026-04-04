@@ -1,25 +1,14 @@
 ---
-title: "Munnar"
+title: 'Munnar'
 type: location
 latitude: 10.086996
 longitude: 77.060091
 ---
 
-Munnar is the nature-lover’s paradise. Snuggling in the green and serene Kannan Devan Hills, lies the quite and restful resort of Munnar, at an altitude of 1524 m and 136 km off Cochin.
+Munnar is Kerala's most popular hill station, set at 1,500 metres in the Western Ghats about 130 km east of [Kochi](/asia/india/kerala/kochi). The landscape is stunning: rolling hills covered in tea plantations as far as you can see, with low clouds drifting through the valleys and the air noticeably cool after the heat of the lowlands.
 
+The town itself is not much to look at, but the surroundings are spectacular. The Kannan Devan tea plantations are among the highest in the world, and you can visit the Tea Museum to learn about the processing and buy tea directly from the estate. The drive up from Kochi winds through forests and spice gardens and is an experience in itself.
 
- 
- Panoramic views of low-flying clouds and mist filled valleys make it a pretty little heaven with a cool bracing climate. It was opened up out of virgin forests a century ago by pioneering planters. 
+Nearby, the Eravikulam National Park is the best place in India to see the endangered Nilgiri tahr, a stocky mountain goat that grazes on the high grasslands. The park is also home to the Neelakurinji flower, which blooms once every twelve years, turning the hillsides blue. Anaimudi, South India's highest peak at 2,695 metres, lies within the park boundaries.
 
-
- Within its remote and elderly churches - gracious, stone-structures with ancient chandeliers and rosewood pews. A little beyond lies Anaimudi, South India's highest peak. In the vicinity is the Eravikulam National Park, the home of the endangered Nilgiri Tahr that roams on a stretch of grassland or is seen climbing the pinnacles of the undulating hills. 
-
-
- Here we can have a glimpse of a Gaur, Langur, Lion-tailed macaque, and Elephants roaming in herds.
-
-
- 
- The Kundale Tea Plantation - An area surrounding a lovely lake that offers some of the most stunning views of the region. It offers the best opportunity you are ever likely to have to see the tea plantations, to watch tea being picked, to learn how tea is processed, to smell the sweet scent of tea wafting through the air and to buy the tea directly from the gardens. 
-
-
- The Kundale Tea Plantation - An area surrounding a lovely lake that offers some of the most stunning views of the region. It offers the best opportunity you are ever likely to have to see the tea plantations, to watch tea being picked, to learn how tea is processed, to smell the sweet scent of tea wafting through the air and to buy the tea directly from the gardens.
+Munnar gets genuinely cold at night between December and February, so bring a jacket. The monsoon months of June to September bring heavy rain but also a dramatic, misty beauty.

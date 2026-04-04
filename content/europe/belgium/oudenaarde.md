@@ -5,6 +5,4 @@ latitude: 50.84337
 longitude: 3.604144
 ---
 
-Travel Guide
-
 Oudenaarde center of the Flemish Ardennes

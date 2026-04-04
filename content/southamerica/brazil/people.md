@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 169 806 557 (July 1998 est.)
+Brazil has around 215 million people, making it the sixth most populous country in the world. The population is a product of five centuries of migration and mixing — Indigenous peoples, Portuguese colonisers, African people brought over as enslaved labour, and successive waves of immigration from Germany, Italy, Japan, Lebanon, and elsewhere. The result is one of the most ethnically diverse societies on earth.
 
-*note:* Brazil took a census in August 1996 which showed a total of 157 079 573; this figure is about 5% lower than projections by the US Census Bureau which is close to the implied underenumeration of 4.6% for 1991; since the full results of the census have not been released for analysis the numbers shown for Brazil do not take into consideration the results of this 1996 census
+The southeast is where most Brazilians live. São Paulo and Rio de Janeiro together account for around 35 million people. The south — Paraná, Santa Catarina, and Rio Grande do Sul — has a distinct European flavour, with visible German and Italian heritage in cities like [Gramado](/southamerica/brazil/gramado), [Blumenau](/southamerica/brazil/blumenal), and Caxias do Sul. The northeast has the strongest African cultural inheritance, and Bahia in particular feels culturally closer to West Africa than to southern Europe.
 
-**Age structure:**
+Portuguese is the official and near-universal language, spoken in a manner distinct enough from European Portuguese that speakers from Portugal often complain they can barely understand Brazilian television. Dialects and accents vary significantly by region — a Carioca (Rio native) and a Gaúcho (southerner) sound quite different to one another.
 
-*0-14 years:* 30% (male 26 090 859; female 25 132 122)
+The national religion is nominally Roman Catholicism — Brazil has more Catholics than any other country — but practice is often loose, and evangelical Protestantism has grown dramatically in recent decades. Candomblé and Umbanda, Afro-Brazilian spiritual traditions that blend Catholic saints with African orixás (deities), are practised widely in Bahia and Rio.
 
-*15-64 years:* 65% (male 54 199 642; female 55 769 122)
+Brazilians are famously sociable. Hospitality is genuine, physical contact in conversation is normal, and punctuality is flexible (the concept of "Brazilian time" is not a myth). Football (futebol) is close to a civic religion — a World Cup match can empty the streets of a city. Music is woven into daily life in a way that still catches visitors off guard: samba, forró, baião, bossa nova, axé, pagode, and funk carioca each have their own regional identity and social role.
 
-*65 years and over:* 5% (male 3 499 272; female 5 115 540) (July 1998 est.)
-
-**Population growth rate:** 1.24% (1998 est.)
-
-**Birth rate:** 20.92 births/1 000 population (1998 est.)
-
-**Death rate:** 8.53 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.03 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.97 male(s)/female
-
-*65 years and over:* 0.68 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 36.96 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 64.36 years
-
-*male:* 59.39 years
-
-*female:* 69.59 years (1998 est.)
-
-**Total fertility rate:** 2.33 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Brazilian(s)
-
-*adjective:* Brazilian
-
-**Ethnic groups:** white (includes Portuguese German Italian Spanish Polish) 55% mixed white and black 38% black 6% other (includes Japanese Arab Amerindian) 1%
-
-**Religions:** Roman Catholic (nominal) 70%
-
-**Languages:** Portuguese (official) Spanish English French
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 83.3%
-
-*male:* 83.3%
-
-*female:* 83.2% (1995 est.)
+Inequality remains a defining feature of Brazilian society. The country has made significant progress in reducing poverty since the 2000s, but the gap between rich and poor remains stark. The favelas that climb Rio's hillsides and ring São Paulo's edges are home to millions of working Brazilians, not the urban footnotes they're sometimes treated as in travel writing.

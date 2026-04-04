@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Faro"
+title: 'When to Go in Faro'
 type: section
 ---
 
@@ -21,7 +21,3 @@ When deciding when to go to Faro, travelers should be aware that during the high
 
 Faro has a lively calendar of festivals and events, and there is plenty going on here at any time of the year. Each spring (dates vary, but usually between May and June) there is a major music festival event in Faro, which attracts some big names in classical music and opera. Easter is a lively occasion, with parades, music and dancing. The city’s annual motorbike festival, held each July, sees bikers flocking to Faro for music, drinking, dancing and more. While visitors are unlikely to experience a white Christmas in Faro, the city’s sparkling decorations and cheery atmosphere make this a pleasant place to spend the festive season. New Year celebrations are lively too, but again, book in advance if you want to be sure of a bed for the night.
 
-**Contributors**
-February 26, 2010
-
-February 07, 2010

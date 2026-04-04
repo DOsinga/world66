@@ -3,194 +3,30 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## Fiction & Literature
 
-**Fodor's Exploring Turkey '99**
+**My Name Is Red** by Orhan Pamuk (1998) — A murder mystery set among the Ottoman manuscript painters of 16th-century Istanbul, exploring the tension between East and West, tradition and modernity. Pamuk is Turkey's Nobel laureate; his books are the entry point for serious engagement with Turkish literature. His memoir **Istanbul: Memories and the City** is equally essential — an elegy for the city he grew up in, saturated with the concept of *huzun* (melancholy).
 
+**The Black Book** by Orhan Pamuk — A more disorienting, layered Istanbul novel, built around a journalist searching for his missing wife through the layers of the city's hidden life.
 
+**Memed, My Hawk** by Yashar Kemal (1955) — The classic of Turkish literature: a Robin Hood story set in the Taurus mountains, about a peasant boy who becomes an outlaw to resist a brutal landlord. Yashar Kemal was a nominee for the Nobel Prize many times; his work gives you southern Anatolia in a way no guide can.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679032177/ref=ase_osingacom?v=glance&s=books)
+**The Museum of Innocence** by Orhan Pamuk (2008) — A love story set in Istanbul across the 1970s-2000s, obsessive and melancholy and deeply embedded in the texture of Istanbul middle-class life.
 
-author: Fodor Travel Publications,Fodor's Travel
+## History & Non-Fiction
 
-isbn: 0679032177
+**Lords of the Horizons: A History of the Ottoman Empire** by Jason Goodwin — A graceful, literary history of the Ottoman Empire, more impressionistic than academic, and a fine companion for anyone traveling through the former empire's heartland.
 
-subject: travel
+**Turkey Unveiled** by Hugh Pope and Nicole Pope — A rigorous but readable account of modern Turkey's politics, culture, and divisions, written by two long-serving foreign correspondents. A bit dated now but still the best single book for understanding the country's modern fault lines.
 
-**Lonely Planet Turkey '97**
+**The Emergence of Modern Turkey** by Bernard Lewis — The scholarly standard on Ataturk's reforms and the creation of the modern Turkish republic. Dense but foundational.
 
+**Birds Without Wings** by Louis de Bernières (2004) — A sweeping novel set in a mixed Greek-Turkish village in Anatolia during World War I and the subsequent population exchanges. Heartbreaking, historically grounded, and the best imaginative account of the destruction of the Ottoman world and the catastrophe of the population exchanges.
 
+**Midnight at the Pera Palace: The Birth of Modern Istanbul** by Charles King — The story of Istanbul in the 1920s-30s as the city became a haven for Russian emigres, spies, and writers.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423640/ref=ase_osingacom?v=glance&s=books)
+## Travel Writing
 
-author: Tom Brosnahan,Pat Yale
+**Turkey: A Travel Survival Kit** by Tom Brosnahan (various editions) — The original backpacker's bible for Turkey, though now dated. The author's website turkeytravelplanner.com is still useful.
 
-isbn: 0864423640
-
-subject: travel
-
-**Fodor's Turkey '99:The Complete Guide with Ottoman Sites, Ancient Ruins and the Best Beach Resorts**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679000623/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor's,Natasha Lesser (Editor)
-
-isbn: 0679000623
-
-subject: travel
-
-**The Gold of Troy:Searching for Homer's Fabled City**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810933942/ref=ase_osingacom?v=glance&s=books)
-
-author: Vladimir P. Tolstikov,Michail Yu. Treister
-
-isbn: 0810933942
-
-subject: culture
-
-**Turkey from the Air**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0865651515/ref=ase_osingacom?v=glance&s=books)
-
-author: Yann Arthus-Bertrand,Janine Trotereau
-
-isbn: 0865651515
-
-subject: culture
-
-**The Black Book**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0156003295/ref=ase_osingacom?v=glance&s=books)
-
-author: Orhan Pamuk,Guneli Gun (Translator)
-
-isbn: 0156003295
-
-subject: culture
-
-**Lords of the Horizons:A History of the Ottoman Empire**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0805040811/ref=ase_osingacom?v=glance&s=books)
-
-author: Jason Goodwin
-
-isbn: 0805040811
-
-subject: history
-
-**The Road from Home:A True Story of Courage, Survival, and Hope**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/068814425X/ref=ase_osingacom?v=glance&s=books)
-
-author: David Kherdian
-
-isbn: 068814425X
-
-subject: history
-
-**Turkey Unveiled:A History of Modern Turkey**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0879518987/ref=ase_osingacom?v=glance&s=books)
-
-author: Hugh Pope,Nicole Pope
-
-isbn: 0879518987
-
-subject: history
-
-**Istanbul : The Imperial City **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0140244611 /ref=ase_osingacom?v=glance&s=books)
-
-author: John Freely
-
-isbn: 0140244611
-
-subject: travel
-
-**Memed My Hawk **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1860463916 /ref=ase_osingacom?v=glance&s=books)
-
-author: Yashar Kemal
-
-isbn: 1860463916
-
-subject: literature
-
-**SALMAN THE SOLITARY**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1860463894/ref=ase_osingacom?v=glance&s=books)
-
-author: Yashar Kemal
-
-isbn: 1860463894
-
-subject: literature
-
-**Turkish Stories from Four Decades **
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0894106872 /ref=ase_osingacom?v=glance&s=books)
-
-author: Aziz Nesin
-
-isbn: 0894106872
-
-subject: literature
-
-**The Emergence of Modern Turkey **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195003446 /ref=ase_osingacom?v=glance&s=books)
-
-author: Bernard Lewis
-
-isbn: 0195003446
-
-subject: history
-
-**Islam and the West **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195090616/ref=ase_osingacom?v=glance&s=books)
-
-author: Bernard Lewis
-
-isbn: 0195090616
-
-subject: culture
-
-**The Antiquities of Constantinople **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0934977011/ref=ase_osingacom?v=glance&s=books)
-
-author: Pierre Gilles
-
-isbn: 0934977011
-
-subject: culture
+**On the Road to Kandahar** by Jason Burke — Not specifically about Turkey but covers the region; useful context for the southeast and Turkish foreign policy.

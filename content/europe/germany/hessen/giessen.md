@@ -11,4 +11,3 @@ Giessen is characterized by its University, the second oldest and second largest
 
 The surrounding Region Middle Hassia has a strong nature attitude: green highlands with picturesque castles are connected by hiking routes. Canoeing on the River Lahn is very popular.
 
-Minor corrections on 30 July 04

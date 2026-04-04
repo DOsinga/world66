@@ -1,6 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
 ---
 
-granny pictures | amateur wives | anime | hentai shemale | real swingers | silk stockings | busty mature http://shortlinks.co.uk/4zc http://shortlinks.co.uk/521 http://shortlinks.co.uk/54y http://shortlinks.co.uk/51f http://shortlinks.co.uk/4ym http://shortlinks.co.uk/4z2
+Bangkok's bar scene runs the full spectrum, from rooftop cocktail lounges with skyline views to sweaty live music joints where the beer is cold and the band plays until the small hours. The main nightlife strips are along Silom Road, Sukhumvit Road, and around Siam Square. By law, bars close at 1 or 2 am, but the reality is often more flexible. Expect to find something happening every night of the week.

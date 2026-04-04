@@ -1,11 +1,10 @@
 ---
-title: "Alcantara gorges"
+title: 'Alcantara Gorges'
 type: location
+latitude: 37.8770
+longitude: 15.1764
 ---
 
-Travel Guide
+The Gole dell'Alcantara are a dramatic series of gorges carved by the Alcantara river through ancient basalt lava flows from Mount Etna. The sheer canyon walls, formed into striking prismatic columns, rise up to 50 metres high in places.
 
-We are glad to introduce you the botanical and geological park “Gole Alcantara”.
-Situated along the river Alcantara, the park cover an area valuable in its environmental, historical, cultural and geological qualities, all surrounded by huge agricultural extends whose products are source of particular satisfaction.
-We have personally appreciated the uncontaminated wildness of this nature and have made as much as possible to guarantee its own protection and increase in value.
-We want to offer our costumers the opportunity to taste the flavours of this land and to enjoy the sensations that the park can give. We would like to let them feel part of the environment instead of simply guests. We are, in fact, firmly persuaded that to guard for the future the past heritage, is the best way to live and enjoy the present.
+In summer you can wade into the gorge itself, though the water is bracingly cold even in August. The botanical and geological park at the entrance offers easier walks along the rim. The gorges are about halfway between Taormina and the Etna area, making them a natural stop on a day trip between the two.

@@ -25,5 +25,3 @@ There's not much going on in this sleepy fishing town, but underwater is the gen
 
 For incredible beaches and reefs, head to Bohol. You can also check out the chocolate hills, a famous landmark, or visit the tiny tarsiers at the Philippine Tarsier Foundation. Go dolphin watching or explore the numerous caves and waterfalls. And don't miss out on some of Bohol's incredible churches, a sight to behold in themselves.
 
-**Contributors**
-December 19, 2009

@@ -1,16 +1,10 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
-type: "By Rail"
-url: "www.indianrail.gov.in"
 ---
 
-Page under construction
+**By Rail:** Surat is on the main Mumbai-Ahmedabad railway line, one of the busiest in India. Multiple daily trains connect to Mumbai Central (4-5 hours) and [Ahmedabad](/asia/india/gujarat/ahmedabad) (4-5 hours). Most trains between Mumbai and Ahmedabad stop at Surat.
 
-### Getting Surat from Mumbai ( Bombay )
+**By Air:** Surat airport has domestic flights to major Indian cities including Delhi, Bangalore, and Hyderabad.
 
-Take the ticket to Surat from Mumbai Central Railway Station. There one can get the reservation ticket or can have ordinary ticket. Reservation costs around 89+ INR in most of the general Trains with 2nd class fare.
-
-There are around 4+ direct daily trains from Mumbai Central to Surat. Most of the trains travel upto Ahmedabad via Surat.
-
-type: By Rail
+**By Road:** Surat is on the NH48 (Mumbai-Ahmedabad highway), about 280 km from Mumbai and 265 km from Ahmedabad. State transport and private buses run frequently on both routes.

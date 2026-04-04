@@ -1,8 +1,10 @@
 ---
-title: "Davidson"
+title: 'Davidson'
 type: location
-latitude: 35.790238
-longitude: -80.211505
+latitude: 35.499167
+longitude: -80.848611
 ---
 
-Home to world-famous Davidson College, the town of Davidson, North Carolina has plenty to offer tourists. From its classic small town Soda Shop, to its ultra-intellectual mountaineering-themed Summit Coffee, it's the ideal place to relax and have great conversation with the locals. Its quaint Main Street also has plenty of shopping for everything from gnomes to horse tack. Looking for something to do after hours? Davidson College regularly offers concerts, plays, and other performances in its Duke Family Performance Hall.
+Davidson is a small college town north of [Charlotte](/northamerica/unitedstates/northcarolina/charlotte), home to Davidson College. Main Street has a classic small-town feel -- a soda shop, Summit Coffee (popular with the mountaineering-inclined intellectual crowd), and shops selling everything from garden gnomes to horse tack.
+
+Davidson College regularly hosts concerts, plays, and other performances in its **Duke Family Performance Hall**, giving the town a cultural life well beyond what its size would suggest. It is an easy day trip from Charlotte and worth a stop for anyone passing through on I-77.

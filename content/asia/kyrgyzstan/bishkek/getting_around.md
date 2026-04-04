@@ -3,18 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-**Bus**
+## Bus and Marshrutka
 
- Soviet style public busses cruise the street on ever changing routes. Ask locals which bus to get on. Prices are low and busses are crowded. Some schoolbuses are less crowded and slightly more expensive.
+Buses and marshrutkas (minibuses) cover the city on fixed routes. They are cheap (around 10-15 KGS) and frequent, though crowded during rush hour. Routes change occasionally, so ask locals or check maps apps for current routes.
 
- **Taxi**
+## Taxi
 
- Regular taxis are sometimes hard to find. On the other hand, most normal cars will double as taxis and can be flagged down easily. Make sure to establish a price before you set off, to avoid problems later. It also helps to have your destination written down in Cyrillic.
+The easiest way to get around is by taxi. Yandex Go works well in Bishkek and gives you a fixed price before you ride. Otherwise, almost any car can be flagged down as an informal taxi -- agree on a price before getting in, and have your destination written in Cyrillic if possible. A ride across the city center rarely costs more than 150-200 KGS.
 
- Don't be surprised if the driver agrees on a price with you, but then doesn't know where you actually want to go. It probably means you're paying too much, or at least enough to take you anywhere within the city. The driver will find you the address by asking around and his command of the local language will make him more efficient in this then you would.
+## On Foot
 
- **Car hire**
-
- Try the usual suspects or one of the travel agents. It won't come cheap though. Count on at least a hundred dollars or euro a day. It doesn't seem to make much of a difference if you take a driver or drive yourself.
-
- A cheaper option might be to go to the long distance bus station and find a driver their, tell him what you want and bargain your head off. This way you should be able to get it for about half the price.
+The city center is flat and walkable. The grid layout makes navigation straightforward, and the tree-lined boulevards are pleasant in summer. Most things a visitor needs -- restaurants, travel agencies, the main bazaar -- are within a reasonable walking distance of each other in the central area.

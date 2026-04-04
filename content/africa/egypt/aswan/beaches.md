@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Aswan"
+title: Beaches
 type: section
 ---
 

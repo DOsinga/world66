@@ -13,5 +13,3 @@ Don't miss the Birdcage, where Bermudian policeman stand and direct the traffic.
 
 There are a couple of small parks, including Albuoy's Point.
 
-**Contributors**
-September 08, 2005

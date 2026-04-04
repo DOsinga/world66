@@ -1,20 +1,14 @@
 ---
 title: "Kaunas"
 type: location
-latitude: 54.898214
-longitude: 23.904482
+latitude: 54.8985
+longitude: 23.9036
 ---
 
-Best city in Lithuania
+Lithuania's second city sits at the confluence of the Nemunas and Neris rivers, and many Lithuanians will tell you it is the most Lithuanian city of all. During the interwar years Kaunas served as the provisional capital, and that era left behind a remarkable collection of Art Deco and modernist architecture now recognised by UNESCO.
 
-Kaunas is 80 km west of Vilius. It is the second city of the country and according to most Lithanians the most Lithanian city of all. 
+The most atmospheric part of town is the Old Centre around the **Town Hall** square, where 16th-century merchant houses line cobbled streets. The Town Hall itself — nicknamed the White Swan for its slender tower — is the centrepiece. Northwest of the square stand the remains of **Kaunas Castle**, first built in the mid-14th century to hold off the Teutonic Knights. Only fragments of wall and a round tower survive, but the setting at the rivers' junction is dramatic. Northeast, the **Cathedral** dates from the era of Vytautas the Great, though most of its current form is 18th-century Baroque.
 
-The most attractive part of the city is the old Centre, the area around the **Town Hall**. The old centre is located between two rivers, the Neris and the Nemunas. on the Town Hall square there are quite a few old merchant houses dating from the 16-th century, but the Town Hall itself is the most impressive structure. 
+The modern city stretches east along **Laisves aleja** (Freedom Avenue), a broad, tree-lined pedestrian boulevard running 1.6 km through the New Town. At its far end, the Church of St Michael the Archangel dominates Independence Square, alongside the Mykolas Zilinskas Art Gallery — home to one of the strongest art collections in the Baltics.
 
-Northeast of here the **Cathedral** dates from the times of Vytautas the Great, but most of what you see now is from the 18-th century. Northwest of the Townhall square are the remains of the **Kaunas Castle**. There are a few walls left and part of a tower but with a bit of imagination you can see the Tuetonic Knights storming the walls. 
-
-The new town is east from the old town. The Laisves aleja, or Freedom Avenue is a big pedestrianized shopping street that runs right through it. At the end of Freedom Avenue you find the Church of St.Michael the Archangel whcih looms over Nepriklasomybes Aikste (independance square). Also on the sqaure is the Mykolas Zilinkas Art Museum which has one of the best collections in the Baltic States. 
-
-A rather curious museum is the **Devil's Museum** officially known as the A. Zmuidzinavicius Art Museum. It houses a big collection of devil figures, including a represantation of Hitler and Stalin dancing aroudn a heap of lithanian skulls. 
-
-Before WWII Kaunas had a large Jewish population. Just out of town are Vijampole the old Jewish getto -als known as Slobodka- and the Ninth Fort Museum where the jews were kept by the Nazis while awaiting execution.
+Kaunas has an unusual density of museums. The **Devil's Museum** houses over 3,000 devil figures from around the world, including a notorious carving of Hitler and Stalin dancing over Lithuanian skulls. The **Ninth Fort**, just outside town, is a sobering memorial — originally part of the city's defensive ring, it became a Nazi execution site during WWII and is now a museum documenting those crimes. The former Jewish ghetto of Slobodka (Vilijampole) lies across the Neris and is worth visiting for the history alone.

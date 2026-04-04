@@ -5,16 +5,12 @@ latitude: 47.305712
 longitude: 28.974868
 ---
 
-Travel Guide
+Orheiul Vechi is a natural and archaeological reserve about 60 km north of Chisinau, set in a dramatic limestone canyon where the Raut river loops back on itself. The site has been inhabited for thousands of years — by Dacians, Mongols, Tatars, and others — but what draws visitors today are the cave churches and medieval fortifications carved directly into the cliff face.
 
-This is a beautiful place in Moldova, it is quiet and calm place. The churches were closed during the communist era but have since been restored. There is an information centre and restaurant on the road near the start of the path up towards the churches.
+The cave monastery complex is still active. A resident Orthodox monk occupies one of the chambers; if he is present, he will let you descend the stairs into the restored altar chamber and onto the outside terrace, which hangs over the valley with no railing. Further up the cliff is a more traditionally built church, beautifully frescoed inside.
 
-Approaching the complex on the road from Orhei there is a wonderful view of the complex, so don't forget to stop there. Also look to the other side, where there is a village and a church with green spires.
+The approach road from [Orhei](/europe/moldova/orhei) offers a spectacular view of the entire bend of the river — worth stopping for before you walk up to the complex. On the opposite hillside, a village and a church with green spires complete the picture.
 
-You can enter the first church when the resident monk is there. Inside after going down the stairs you can see the restored altar. For a view of the valley go on to the outside terrace (no rail so be careful). Look further inside to see the original living quarters of the monks, not for those who are tall though!
+There is a small information centre and restaurant near the start of the path. The site can get busy with tour groups in summer; early morning visits are quieter.
 
-Further up the complex is the more traditional church, beautifully restored inside with frescos of the apostles. It is currently used of services for the local community.
-
-If coming from Chisinau, the easiest (and most expensive) way of getting to Orheiul Vechi is by private vehicle and even better with a guide who can advise of the history of the complex.
-
-Along with the wine cellars, Orheuil Vechi is the place not to be missed during a visit to Moldova.
+Getting here independently requires a marshrutka to Orhei and then a local taxi for the final stretch. A private car from Chisinau — ideally with a guide who knows the history — is the most practical option. Along with the wine cellars, this is the place in Moldova not to miss.

@@ -1,21 +1,6 @@
 ---
-title: "Getting Around"
+title: 'Getting around'
 type: section
 ---
 
-The City had a superb traffic, wide roads and PUV's(public utility vehicles). Traffic is not a concern in the city.
-
-**Contributors**
-July 23, 2006
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Bacolod is easy to navigate. The roads are wide by Philippine standards and traffic is manageable. Jeepneys run fixed routes through the city, tricycles are everywhere for short hops, and metered taxis are available. The main commercial strip along Lacson Street is walkable.

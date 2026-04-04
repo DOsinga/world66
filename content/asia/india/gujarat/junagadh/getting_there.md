@@ -1,10 +1,10 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**By Rail:** Junagadh is well connected with Ahmedabad.
+**By Rail:** Junagadh is well connected by rail to [Ahmedabad](/asia/india/gujarat/ahmedabad) and other cities in Gujarat.
 
-  **By Air:** The nearest airport is at ** Keshod** at a distance of 35 Kms and also Rajkot which is at a distance of 100 kms and flights are available from Gujarat Airways and you can proceed towards Junagadh.
+**By Air:** The nearest airports are at Keshod (35 km) and [Rajkot](/asia/india/gujarat/rajkot) (100 km), both with connections to major Indian cities.
 
-  **By Road**: Good connections to Rajkot, some 100 kms away. Other distances: Keshod 35 kms, Somnath 95 kms, Jamnagar 180 kms, Porbandar 107 kms, Palitana 215 kms, Ahmedabad 317 kms and Bombay 800 kms. Gujarat Government ST Buses also run on this route between Junagadh and Bhavnagar, Dwarka, Somnath, Baroda, Porbandar, Palitana and Ahmedabad.
+**By Road:** Good road connections to [Rajkot](/asia/india/gujarat/rajkot) (100 km), Somnath (95 km), Porbandar (107 km), [Jamnagar](/asia/india/gujarat/jamnagar) (180 km), and [Ahmedabad](/asia/india/gujarat/ahmedabad) (317 km). Government ST buses run frequently on all these routes.

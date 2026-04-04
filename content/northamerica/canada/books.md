@@ -3,138 +3,36 @@ title: "Books"
 type: section
 ---
 
-If you would like to recommend a book about any aspect of Canada or Canadians, please do so.
+A selection of books that illuminate Canada — its landscape, history, and people.
 
-**Books**
+**Fiction**
 
-**Owls: Whoo Are They?**
+*The Stone Angel* by Margaret Laurence — a Manitoba novel and one of the classics of Canadian literature. Laurence's Manawaka cycle is a good entry point into prairie writing.
 
+*The English Patient* by Michael Ondaatje — Booker Prize-winning novel from one of Canada's most celebrated writers.
 
+*Life of Pi* by Yann Martel — opens in Pondicherry but the Canadian imagination is all over it. Won the Booker Prize in 2002.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0-87842-336-2/ref=ase_osingacom?v=glance&s=books)
+*The Handmaid's Tale* by Margaret Atwood — dystopian fiction that is also a meditation on Canadian geography and American politics just over the border.
 
-author: Kila Jarvis & Denver W. Holt
+*Obasan* by Joy Kogawa — a quiet, devastating novel about Japanese-Canadian internment during the Second World War.
 
-isbn: 0-87842-336-2
+**Non-Fiction and History**
 
-subject: Bird Identification
+*The Inconvenient Indian* by Thomas King — witty, angry, and essential on the history and present of Indigenous peoples in North America.
 
-**Brian McFarlane's History of Hockey**
+*The Discovery of France* notwithstanding, Peter Newman's multi-volume *The Canadian Establishment* remains the definitive portrait of English-Canadian business elites.
 
+*The Danger Tree* by David Macfarlane — a family memoir about Newfoundland before and after the First World War. Beautiful writing.
 
+**Travel and Landscape**
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1-57167-145-5/ref=ase_osingacom?v=glance&s=books)
+*The Bush Garden* by Northrop Frye — literary criticism but also a sustained meditation on Canadian identity and the concept of "garrison mentality."
 
-author: Brian McFarlane
+*Canadian Wilderness* (photography) by various — many excellent photography books capture the sheer scale and variety of Canadian landscape.
 
-isbn: 1-57167-145-5
+**Hockey**
 
-subject: Hockey
+*The Game* by Ken Dryden — part memoir, part meditation on hockey's place in Canadian life. Still the best book about the sport.
 
-**Rand McNally Deluxe Road Atlas and Travel Guide 1999:United States Canada Mexico**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0528840363/ref=ase_osingacom?v=glance&s=books)
-
-author: Rand McNally
-
-isbn: 0528840363
-
-subject: travel
-
-**National Geographic Road Atlas:United States-Canada-Mexico 1999**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1572624000/ref=ase_osingacom?v=glance&s=books)
-
-author: National Geographic Society
-
-isbn: 1572624000
-
-subject: travel
-
-**Firehouse Cooking:Food from North America's Bravest**
-
-** bob adams:** great cookbook, buy it from the website firehouse-cooking.com and you can send an email to get a signed edition....the one on that sight, by the author is way better than other printed editions [more..](/northamerica/canada/books/firehousecookingfoodfromnorthamericasbravest)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/051718818X/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert G. Adams,Greg Suriano,R.G. Adams
-
-isbn: 051718818X
-
-subject: Cooking
-
-**The Internet Business Guide**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1575210045/ref=ase_osingacom?v=glance&s=books)
-
-author: Rosalind Resnick,Dave Taylor
-
-isbn: 1575210045
-
-subject: Internet
-
-**North America's Greatest Fishing Lodges (Sports Afield Guide):More than 250 Hotspots in the U. S. Canada and Caribb..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/157223105X/ref=ase_osingacom?v=glance&s=books)
-
-author: John E. Ross,K. T. Anders
-
-isbn: 157223105X
-
-subject: Fishing
-
-**The Audubon Society Field Guide to North American Trees:Eastern Edition**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0394507606/ref=ase_osingacom?v=glance&s=books)
-
-author: Elbert Luther Little,Sonja Bullaty (Photograp..
-
-isbn: 0394507606
-
-subject: Tree Identification
-
-**The Field Guide to Western Birds**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0395911737/ref=ase_osingacom?v=glance&s=books)
-
-author: Mariner Books,Roger Tory Peterson (Illustrato..
-
-isbn: 0395911737
-
-subject: Bird Identification
-
-**An Instant Guide to Wildflowers:The Most Familiar Species of North American Wildflowers Described and Illustrated i..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0517616750/ref=ase_osingacom?v=glance&s=books)
-
-author: Pamela Forey,P. Forey,Cecilia Fitzsimons
-
-isbn: 0517616750
-
-subject: Wildflower Identification
-
-**Weeds of Canada & The Northern United States**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0-88864-311-X/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard Dickinson & France Royer
-
-isbn: 0-88864-311-X
-
-subject: Noxious Weeds and Their Identification
+*Scotty Bowman: A Life in Hockey* by Eric Duhatschek — biography of the winningest coach in NHL history.

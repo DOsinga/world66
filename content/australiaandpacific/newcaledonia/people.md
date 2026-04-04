@@ -3,64 +3,16 @@ title: "People"
 type: section
 ---
 
-**Population:** 194 197 (July 1998 est.)
+New Caledonia's population of around 265,000 (2025 census) is one of the most ethnically diverse in the Pacific — and one of the most politically divided.
 
-**Age structure:**
+**Kanaks** are the indigenous Melanesian people and make up about 41% of the population. Kanak society is organized around clans and linked to ancestral land. There are 28 distinct Kanak language groups, though French is the common language. Kanaks are concentrated in the North Province, the Loyalty Islands, and the rural east coast of Grande Terre; they are underrepresented in Noumea.
 
-*0-14 years:* 30% (male 29 423; female 28 320)
+**Caldoches** are Europeans born in New Caledonia, descended mainly from French settlers, convicts transported in the 19th century, and labor immigrants. They make up around 24% of the population and tend to be strongly pro-France. Caldoche rural culture — cattle farming, rodeos, a certain frontier self-reliance — is distinct from metropolitan French culture.
 
-*15-64 years:* 65% (male 63 444; female 62 055)
+**Zoreilles** (or "Z'oreilles") are people born in metropolitan France who have come to New Caledonia to live and work. They represent another significant European group and are generally more recently arrived than Caldoches.
 
-*65 years and over:* 5% (male 5 202; female 5 753) (July 1998 est.)
+The rest of the population includes Wallisians and Futunans (around 8%), Polynesians from various islands, Indonesians (descendants of 20th-century indentured laborers), and Vietnamese. These communities add considerable cultural texture to Noumea in particular.
 
-**Population growth rate:** 1.64% (1998 est.)
+The 2024 riots exposed and deepened the tension between communities. France's push to expand the provincial electoral roll was seen by Kanaks as a deliberate effort to dilute their political voice. The violence that followed left real damage — economic, physical, and social — that is still being repaired. Visiting travelers may encounter checkpoints, road blocks, or tense political conversations, particularly outside Noumea. Approach these subjects with respect and genuine curiosity rather than neutrality.
 
-**Birth rate:** 21.08 births/1 000 population (1998 est.)
-
-**Death rate:** 4.84 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.15 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1.02 male(s)/female
-
-*65 years and over:* 0.9 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 12.71 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 75.01 years
-
-*male:* 71.75 years
-
-*female:* 78.44 years (1998 est.)
-
-**Total fertility rate:** 2.46 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* New Caledonian(s)
-
-*adjective:* New Caledonian
-
-**Ethnic groups:** Melanesian 42.5% European 37.1% Wallisian 8.4% Polynesian 3.8% Indonesian 3.6% Vietnamese 1.6% other 3%
-
-**Religions:** Roman Catholic 60% Protestant 30% other 10%
-
-**Languages:** French 28 Melanesian-Polynesian dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 91%
-
-*male:* 92%
-
-*female:* 90% (1976 est.)
+New Caledonia's languages, customs, and sense of identity remain genuinely interesting to engage with. The Tjibaou Cultural Centre in Noumea, designed by Renzo Piano and dedicated to the memory of Kanak leader Jean-Marie Tjibaou, is the best starting point for understanding Kanak culture.

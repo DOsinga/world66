@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 4 905 827 (July 1998 est.)
+Togo has around 40 ethnic groups, but two dominate the cultural landscape. The Ewe and Mina live mainly in the south and have historically controlled commerce and the educated professions. The Kabre (also spelled Kabiye) are the largest group in the north and have traditionally provided most of the country's military and civil service personnel. This north-south divide has shaped Togolese politics since independence.
 
-**Age structure:**
+Most people speak French as the language of schools, government, and business. In daily life, Ewe and Mina are heard across the south, while Kabre and related languages dominate the north. In [Lomé](/africa/togo/lome)'s markets you will hear a fluid mix of all of them.
 
-*0-14 years:* 48% (male 1 190 812; female 1 180 739)
+About 40% of the population practices indigenous religions, often involving vodun (voodoo), which originated here and spread to Haiti through the slave trade. Christianity and Islam each account for roughly 30%. In practice, many Togolese blend elements of all three, especially around birth, death, and seasonal ceremonies.
 
-*15-64 years:* 49% (male 1 175 570; female 1 252 274)
+The Kabre are known for the Evala wrestling festival, a male initiation rite held in July in the hills around [Kara](/africa/togo/kara). Young men compete in traditional wrestling matches over several days, attracting crowds from across the country. It is one of the most vivid cultural events in West Africa and well worth timing a visit around.
 
-*65 years and over:* 3% (male 48 483; female 57 949) (July 1998 est.)
-
-**Population growth rate:** 3.52% (1998 est.)
-
-**Birth rate:** 45.23 births/1 000 population (1998 est.)
-
-**Death rate:** 10 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 0.93 male(s)/female
-
-*65 years and over:* 0.83 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 79.8 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 58.78 years
-
-*male:* 56.52 years
-
-*female:* 61.12 years (1998 est.)
-
-**Total fertility rate:** 6.6 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Togolese (singular and plural)
-
-*adjective:* Togolese
-
-**Ethnic groups:** native African (37 tribes; largest and most important are Ewe Mina and Kabre) 99% European and Syrian-Lebanese less than 1%
-
-**Religions:** indigenous beliefs 70% Christian 20% Muslim 10%
-
-**Languages:** French (official and the language of commerce) Ewe and Mina (the two major African languages in the south) Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 51.7%
-
-*male:* 67%
-
-*female:* 37% (1995 est.)
+Togolese social life is warm and gregarious. Greetings matter — take a moment to acknowledge shopkeepers and strangers before getting down to business. In villages, accepting a small gesture of hospitality is polite.

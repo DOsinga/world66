@@ -1,52 +1,24 @@
 ---
-title: "Getting There in Western Samoa"
+title: "Getting There"
 type: section
 ---
 
-When planning your trip to **Western Samoa**, **Getting There**
-is one of the main questions in travelers' minds. Here are some tips on
-how to get to Western Samoa.
+Samoa's main international gateway is Faleolo International Airport (APW), about 35 km west of Apia on Upolu. The drive into town takes 30 to 40 minutes by taxi or shuttle.
 
-**Know all the Many Names of
-Western Samoa**
+**By air**
 
-Western Samoa is officially known as the
-Independent State of Samoa. In the past, it has also been known as
-Western Samoa or German Samoa. Common reference to Western Samoa as just
-Samoa is not uncommon. Citizens of the United States prefer to refer to
-Samoa as American Samoa.
+Airlines flying direct to Faleolo include Air New Zealand (Auckland), Fiji Airways (Nadi, Honolulu), Qantas (Sydney), Virgin Australia (Sydney, Brisbane), and Samoa Airways, which connects Apia to Auckland, Sydney, and Pago Pago. Most travellers from North America connect through Auckland, Sydney, or Honolulu.
 
-**Western Samoa Geography**
+A second airport, Maota Airport on Savai'i, handles domestic and some regional flights.
 
-Western
-Samoa is made of 2 islands: Upolu and Savaii. The capital is Apia and
-is located on Upolu
+**From the airport**
 
-**Getting There by Plane**
+Taxis and shared shuttles meet arriving flights. Agree on a fare before getting in — the ride to Apia costs roughly WST 80–100 by taxi. Several car rental desks operate at the terminal.
 
-When
-looking for air fare to Western Samoa, you will have to use the Faleolo
-International Airport located about a 40 km (about 25 miles)
-drive away from downtown Apia on Upolu island. Direct flights to and
-from Faleolo International Airport are available only from Los Angeles,
-Auckland and Tonga (through Air Pacific), Honolulu and Nadi (through
-Inter Island Airways), Maota, Pago Pago and Tongatapu (through
-Polynesian Airlines), and Auckland, Brisbane and Sydney (through
-Polynesian Blue).
+**By sea**
 
-Most flights departing from North America have a
-connecting flight through Honolulu, Hawaii, so it is a good idea to look
-into building a short visit on the Hawaiian Islands on your way to
-Western Samoa.
+There is no regular passenger ferry service to international destinations, but cruise ships call at Apia port. The Samoa Shipping Corporation ferry between Mulifanua (Upolu) and Salelologa (Savai'i) is the main link between the two islands — see Getting Around.
 
-**Pay Attention to Weather Warnings**Western
-Samoa can be heavily affected by many weather conditions such as
-hurricanes, flash floods and tsunamis. It is very important that you
-keep track of these natural weather events through the news prior to
-your departure. Some airlines may not provide refunds due if your
-flight is canceled due to a natural weather event, so make sure to
-check the refund policy prior regarding these types of weather
-conditions that can cause cancellations.
+**Entry requirements**
 
-**Contributors**
-March 30, 2010
+Most nationalities receive a free 60-day visitor permit on arrival. You need a valid return or onward ticket and a passport valid for at least six months. Check current requirements with the Samoa Immigration office before travel.

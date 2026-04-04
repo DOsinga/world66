@@ -3,12 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Basically from any point of the world you can get to Saint Petersburg by air, water, road or railroad.
-
-For the best airticket prices, please, check the Priceline.com, the connection to the site is provided at the Links section.
-
-## Categories
-
-[By air](/europe/russia/stpetersburg/gettingthere?subsection=By%20air)
-
-[By train](/europe/russia/stpetersburg/gettingthere?subsection=By%20train)
+Most international visitors arrive at Pulkovo Airport, about 20 km south of the city center. The Allegro high-speed train connects St Petersburg to Helsinki in around three and a half hours, and the Sapsan runs to Moscow in about four hours from Moskovsky Station. Overnight sleeper trains from Moscow are a classic experience. Cruise ships dock at the Marine Facade passenger terminal on Vasilyevsky Island.

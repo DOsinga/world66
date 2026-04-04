@@ -1,8 +1,12 @@
 ---
-title: "Savannakhet"
+title: 'Savannakhet'
 type: location
 latitude: 16.500196
 longitude: 105.715595
 ---
 
-**Savannakhet** is located in the south of the country. Actually Southern Laos is the most "Laotic" region of the country. The province of Savannakhet has approx. 700.000 habitants. About 150.000 are living in the capital of the province. The city is actually located opposite of the small Thai town of Mukdahan. What can you see there. There are a number of buildings in the central business district that remind the visitor of Laos old French colonial heritage. Besides that you can witness some Chinese influence. Furthermore the knowledgeable spectator might notice the Vietnamese influence. A Mahayana Buddhist temple is the most obvious proof for that. If you want to enter Thailand you have to cross the river between 8:30 am and 5 pm. A ferry brings you to the Thai side. No special permission is necessary.
+Savannakhet is the second-largest city in Laos and the capital of its most populous province. Sitting on the Mekong opposite the Thai town of Mukdahan, it has a sleepy charm with crumbling French colonial buildings in its old quarter, a handful of Chinese shophouses, and a Vietnamese-influenced Mahayana Buddhist temple alongside the usual Lao wats.
+
+The city is mainly a transit point for travelers crossing between Thailand and Vietnam -- the east-west corridor runs through here to the Vietnamese border at Lao Bao. But it is worth a night if you are passing through. The old town is pleasant for a wander, the riverside is attractive at sunset, and the Dinosaur Museum on the outskirts displays fossils found in the province.
+
+The surrounding countryside has some interesting destinations. The Heuan Hin stone formation (sometimes called the Lao Stonehenge) and the That Ing Hang stupa, one of the most revered in southern Laos, are both within easy reach. The Ho Chi Minh Trail ran through Savannakhet Province, and UXO clearance continues in the area.

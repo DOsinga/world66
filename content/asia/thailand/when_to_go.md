@@ -1,20 +1,26 @@
 ---
-title: "When to Go in Thailand"
+title: "When to Go"
 type: section
 ---
 
-In recent years, [Thailand](/asia/thailand) has become one of the most popular travel destinations in Asia. For those who are planning a trip there, knowing the weather in various parts of Thailand, when to go and other factors will contribute to a more enjoyable vacation.
+Thailand has three seasons: cool and dry (November to February), hot (March to May), and rainy (June to October). The cool season is the most popular time to visit, with temperatures in the mid-20s°C and clear skies. By April the heat in inland cities can push well past 38°C.
 
-**Weather Conditions**
+The rainy season is not the disaster some guides imply. Rain usually comes in afternoon bursts rather than all-day downpours, and the countryside is lushly green. Prices drop, crowds thin out, and accommodation is easier to find. If you're mainly interested in temples and cities, the wet season is perfectly manageable.
 
-Although it is known that Thailand is located close to the equator, the weather is not constant throughout the year. The weather conditions vary from one part of Thailand to another. Generally, the best time to visit the country is between the months of November and February, because the temperature is not extremely high and it rains very little during this time. If you are planning to visit the northern provinces, it is not that bad to travel during the hot season, which lasts from March to May, or the early part of the rainy season, from June to July. Many places in the northern part of Thailand are situated at high elevations, and the temperature is moderate in these places.
+## Northern Thailand
 
-Traveling to central and northeastern Thailand anytime between March and May may not be a good idea, because the temperature may soar to as high as, or more than, 40°C. The southern part of the country experiences high temperature throughout the year because it is nearer to the equator. However, it draws many locals and tourists during the hot season because it has many islands and [beaches](/asia/thailand/beaches) that offer a refreshing vacation.
+The cool season (November to February) is ideal for trekking around [Chiang Mai](/asia/thailand/chiangmai) and [Chiang Rai](/asia/thailand/chiangrai). By March the heat builds. The burning season from March to April also brings haze to the north — air quality can be poor and visibility deteriorates.
 
-**Tourist Seasons**
+## Southern Thailand: West Coast
 
-If you are aware of the tourist seasons in Thailand and know when to go, you will be able to plan your vacation according to your preferences. For those who enjoy partying and making friends during their vacations, the best time to visit Thailand is during the peak tourist season, which lasts from November to end of March, as well as the secondary peak season from July to August. During these times, you will find lots of tourists at popular [attractions](/asia/thailand/sights) around the country, and the nightlife in major cities will be more vibrant. However, you need to be prepared to pay for higher accommodation and [tour](/asia/thailand/tours_and_excursio) rates. If you want to take advantage of discounted [accommodation](/asia/thailand/accommodation) rates and have a peaceful and quiet vacation, you should travel to Thailand during the low tourist seasons.
+[Phuket](/asia/thailand/phuket), [Krabi](/asia/thailand/krabi), and the Andaman coast are best from November to April, when the southwest monsoon has passed and seas are calm. The wet season (May to October) brings heavy rain and rough water; many dive operators stop running trips, and some smaller islands effectively close.
 
-**Festivals**
+## Southern Thailand: East Coast
 
-Thailand receives more tourists during November and April because the 2 most important [festivals](/asia/thailand/festivals) of the country are celebrated during these months. The Loy Krathong festival usually takes place in November while the Thai New Year, or Songkran, is celebrated on April 13.
+[Koh Samui](/asia/thailand/kohsamui), [Koh Phangan](/asia/thailand/kohphangan), and [Koh Tao](/asia/thailand/kohtao) on the Gulf side follow a different rhythm. Their peak season runs roughly December through August. October and November can be genuinely wet.
+
+## Festivals Worth Timing Around
+
+**Songkran** (Thai New Year, April 13–15) is a nationwide water festival — streets fill with water fights, and most things shut down for several days. It's chaotic, joyful, and hard to ignore. [Chiang Mai](/asia/thailand/chiangmai) puts on the most famous celebrations.
+
+**Loy Krathong** (full moon in November) is the festival of floating offerings — candle-lit lotus-shaped baskets set adrift on rivers and lakes. Combined with the Yi Peng sky lantern festival in [Chiang Mai](/asia/thailand/chiangmai), it's one of the most visually striking nights of the year anywhere in Asia.

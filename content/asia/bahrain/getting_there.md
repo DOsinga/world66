@@ -3,24 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**By air.** Bahrain International Airport (BAH) is the main gateway, located on Muharraq island about 7 kilometers northeast of [Manama](/asia/bahrain/manama). Gulf Air, Bahrain's national carrier, uses it as a hub with connections across the Middle East, South Asia, and Europe. Major international airlines including British Airways, Lufthansa, Emirates, and several low-cost carriers also serve the airport. Flight time from London is around 6.5 hours, from New York roughly 14 hours.
 
-Approximate flight times
+The airport was extensively renovated and a new terminal opened in 2021. Facilities are modern and well-equipped. Taxis to central Manama take about 15 minutes and cost around BD 3-5. Ride-hailing apps also work at the airport.
 
-From Bahrain to *London* is 6 hours to *Los Angeles *is 21 hours and to *New York* is 14 hours.
+**By road.** The King Fahad Causeway connects Bahrain to Dhahran in Saudi Arabia's Eastern Province. The drive takes about 90 minutes including the border crossing, which can be very slow on Thursday and Friday evenings when Saudi visitors head to Bahrain for the weekend. A toll of BD 3 is payable when leaving Bahrain. You will need a valid Saudi visa to use the causeway in the Saudi direction, and a Bahrain visa or e-visa for the return.
 
-International airport
-
-*Bahrain International (BAH)* (Muharraq) is 6.5km (4 miles) northeast of Manama. Many international carriers such as *Air India Alitalia American Airlines British Airways Gulf Air KLM Kuwait Airways Royal Jordanian Saudia Turkish Airlines *and *Yemenia Yemen Airways *use the airport which also links with over 300 regional flights a week. Bus and taxi services run across the causeway to the main island (travel time - 15 minutes). Airport facilities include banks duty-free shops first aid bars snack bars restaurants nursery tourist information (all 24-hour) post office (open 0700-1500 and 1700-0100) car hire and car parking.
-
-Departure tax:
-
-BD3 for international departures except for children under two years of age.
-
-Sea
-
-There are three main ports of entry for dhows and other seafaring craft at Mina Salman Mina Manama and Mina Muharraq. These ports offer a quick and efficient entry into the country from all parts of the world. The deep-water oil tanker terminals are on the north east side of the island.
-
-Road:
-
-A car drive to Dhahran (Eastern Province of Saudi Arabia) takes approximately one and a half hours from Bahrain using the King Fahad Causeway. A toll fee of BD2 is payable by persons driving out of Bahrain. Normal Saudi Arabian visa regulations apply.
+**By sea.** Bahrain has several ports, but there are no regular passenger ferry services. Private yachts and dhows can enter at Mina Salman or Mina Manama.

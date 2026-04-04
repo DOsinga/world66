@@ -5,8 +5,12 @@ latitude: 39.745869
 longitude: 20.020999
 ---
 
-Butrint is a major archeoligal site in Albania. It has been included in the World Heritage list of UNESCO.
+Butrint is Albania's most impressive archaeological site and a UNESCO World Heritage Site. It occupies a small forested peninsula between the Straits of Corfu and Lake Butrint, about 18 km south of [Saranda](/europe/albania/saranda).
 
+The site has been inhabited since prehistoric times and has served, in succession, as an Illyrian settlement, a Greek colony, a Roman city, a Byzantine bishopric, and a Venetian outpost. Each era left something behind, and the density of ruins in a compact area is remarkable. A Greek theatre, Roman baths, an early Christian baptistery with one of the most complete mosaic floors in the Balkans, Byzantine basilicas, and a Venetian tower are all within a short walk of each other.
 
+The setting adds to the atmosphere: tall trees shade the paths, the lake is visible through the vegetation, and in the early morning or late afternoon the site feels genuinely remote and ancient. It is less crowded than comparable sites in Greece or Italy.
 
-Butrint occupies a small peninsula between the Straits of Corfu and Lake Butrint. Inhabited since prehistoric times, Butrint has been the site of a Greek colony, a Roman city, and a bishopric. Following a period of prosperity under Byzantine administration, then a brief occupation by the Venetians, the city was abandoned in the late Middle Ages after marshes formed in the area. The present archaeological site is a repository of the ruins representing each period in the city’s development. The limits of the World Heritage site were expanded in 1999 to include not only the walled city from the Greek and Roman period (approximately 16 ha), but an additional 184 ha to better protect the site.
+A ferry crossing connects the main ruins to the Venetian triangular castle on the opposite bank — worth doing.
+
+Butrint is easily visited as a day trip from Saranda. A taxi or bus gets you to the gate; most people spend two to three hours on site. The national park surrounding the ruins protects wetlands of significant ecological value.

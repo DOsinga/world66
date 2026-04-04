@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Apart from the usual marchrutny (shared taxis) and larger busses, there is also a twice daily train connecting Batumi with [Tbilisi](/europe/georgia/tbilisi), leaving the latter at 9am and 9pm. The journey takes about ten hours, which makes the day train a bit of a waste of time; the night train is comfortable and at 7 US$ cheaper then most hotels.
+Batumi has an international airport with connections to Istanbul and several European cities. From [Tbilisi](/europe/georgia/tbilisi) there are shared taxis (marshrutky), larger buses, and a twice-daily train. The night train is the most comfortable option — it leaves Tbilisi at 9pm and arrives in the morning, costs around 7 USD, and is generally cheaper than a night's accommodation.

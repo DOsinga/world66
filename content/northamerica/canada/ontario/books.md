@@ -3,54 +3,12 @@ title: "Books"
 type: section
 ---
 
-If you would like to recommend a book on any aspect of Ontario, this is the place to describe the book.
+Ontario has inspired a rich body of nature writing and field guides, particularly around its exceptional birding, botany, and wilderness areas. These are worth picking up before you head out into the province's parks and forests.
 
-**all**
+**Forest Plants of Central Ontario** by Brenda Chambers, Karen Legasy & Cathy V. Bentley (ISBN: 1-55105-061-7) — A solid field guide for identifying the trees, shrubs, and wildflowers of Ontario's mixed forests.
 
-**Forest Plants of Central Ontario**
+**Wetland Plants of Ontario** by Steven G. Newmaster, Alan G. Harris & Linda J. Kershaw (ISBN: 1-55105-059-5) — Detailed coverage of Ontario's wetland flora, useful anywhere around the Great Lakes shoreline.
 
+**Ontario Birds** by Chris Fisher (ISBN: 1-555105-069-2) — A compact field guide covering the province's most commonly seen species, good for Point Pelee visits.
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1-55105-061-7/ref=ase_osingacom?v=glance&s=books)
-
-author: Brenda Chambers, Karen Legasy & Cathy V. Bentley
-
-isbn: 1-55105-061-7
-
-subject: Plant Identification
-
-**Wetland Plants of Ontario**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1-55105-059-5/ref=ase_osingacom?v=glance&s=books)
-
-author: Steven G. Newmaster, Alan G. Harris & Linda J. Kershaw
-
-isbn: 1-55105-059-5
-
-subject: Plant Identification
-
-**Ontario Birds**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1-555105-069-2/ref=ase_osingacom?v=glance&s=books)
-
-author: Chris Fisher
-
-isbn: 1-555105-069-2
-
-subject: Bird Identification
-
-**Animal Tracks of Ontario**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1-55105-109-5/ref=ase_osingacom?v=glance&s=books)
-
-author: Ian Sheldon
-
-isbn: 1-55105-109-5
-
-subject: Wildlife
+**Animal Tracks of Ontario** by Ian Sheldon (ISBN: 1-55105-109-5) — Handy pocket guide for reading what's been through the woods ahead of you.

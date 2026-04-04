@@ -1,6 +1,6 @@
 ---
-title: "Books in Southern France"
+title: "Books"
 type: section
 ---
 
-These are some awesome books to assist in your travels around Southern France.
+A few well-chosen books make any trip to southern France richer. Peter Mayle's *A Year in Provence* is the obvious starting point, but the region has inspired far better writing — from Lawrence Durrell's portraits of Provence to Neal Ascherson on the Mediterranean.

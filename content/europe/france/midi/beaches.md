@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Southern France"
+title: "Beaches"
 type: section
 ---
 

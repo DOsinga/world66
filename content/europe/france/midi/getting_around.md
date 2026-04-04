@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Southern France"
+title: "Getting Around"
 type: section
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Southern France"
+title: "When to Go"
 type: section
 ---
 

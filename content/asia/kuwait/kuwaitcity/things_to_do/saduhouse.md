@@ -1,6 +1,7 @@
 ---
 title: "Sadu House"
 type: poi
+category: "Museum"
 latitude: 29.374000
 longitude: 47.967000
 ---

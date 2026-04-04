@@ -1,6 +1,7 @@
 ---
 title: "Aqua Park"
 type: poi
+category: "Sight"
 address: "Arab Gulf Street, Kuwait City"
 latitude: 29.389000
 longitude: 48.000000

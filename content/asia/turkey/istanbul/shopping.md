@@ -3,8 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-shopping in istanbul
-
-We currently have no Shopping listed in Istanbul.
-
-If you do know any Shopping in Istanbul, please [Add].
+The Grand Bazaar is the famous starting point but far from the only option. The Spice Bazaar (Mısır Çarşısı) near Eminönü is less frantic and better for food items — dried fruits, spices, Turkish delight. For textiles and everyday goods, the streets around the bazaar are often cheaper than inside it. Nişantaşı is Istanbul's upmarket shopping district for international and Turkish designer brands.

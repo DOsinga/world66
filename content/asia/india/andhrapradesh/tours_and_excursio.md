@@ -3,15 +3,6 @@ title: "Tours and Excursions"
 type: section
 ---
 
-If you are in Hydrebad
+The APTDC (Andhra Pradesh Tourism Development Corporation) runs comprehensive day and overnight tours from Hyderabad, making it easy to reach sites that are difficult to get to independently. Their offices are at the start of Tankbund Road next to Lumbini Park, near the reservoir (tel: 040-23453036 or 040-23298456), and include a central reservation desk and restaurant.
 
-The easiest option is to get to the APTDC offices at the start of the Tankbund Road next to Lumbini Park near the reservoir Phone 040 23453036 or 040 23298456
-
-The complex contains a central reservation system as well as a restaurant
-
-There are comprehensive day and night tours of Hydrebad including one covering the excellent Golconda Sound and Light show
-
-There are several day tours including tours to the Buddhist ruins at Nagarjunasagar 160km east of Hydrebad.
-
-**Contributors**
-July 15, 2005
+Tours cover Hyderabad city including the Golconda Sound and Light show, as well as day trips to the Buddhist ruins at Nagarjunasagar 160km east of the city.

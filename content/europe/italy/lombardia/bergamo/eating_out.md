@@ -1,20 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Colle Aperto, 2/4, Città Alta"
-phone: "035 247997"
-type: "Italian"
-url: "www.lamarianna.it"
-latitude: 45.707523
-longitude: 9.658307
 ---
 
-There are all kinds of restaurants for every taste and pocketbook. Be sure to try ice cream, too!
-
-**Contributors**
-May 21, 2005
-
-### Display all
-or display just:
-
-[First Class](/europe/italy/lombardia/bergamo/eating_out?subsection=First%20Class)
+Bergamo has a strong local food identity built around polenta, cheeses, and game from the Alpine valleys. In Città Alta, the restaurants on and around Piazza Vecchia cater to tourists and charge accordingly — but they're not all bad. Better value is often found in the side streets off Via Gombito or in the lower city around Via San Tomaso. Casoncelli (stuffed pasta in butter and sage) is the dish to order.

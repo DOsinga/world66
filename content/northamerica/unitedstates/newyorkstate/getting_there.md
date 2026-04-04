@@ -1,38 +1,14 @@
 ---
-title: "Getting There in New York State"
+title: "Getting There"
 type: section
 ---
 
-**Welcome to the Big Apple**
+New York State is one of the most connected places in North America, and getting there is rarely a problem. Most international travelers arrive at one of the three major New York City airports, while domestic travelers have additional options across the state.
 
-New York is one of the states in the United States that has the most
-widely recognized landmarks in the world. From the Empire State
-Building to the Statue of Liberty to the New York City Hall, you will
-have a lot of fun seeing the sights of this great state. New York is the
-most populated state in the whole United States, so it has one of the
-most comprehensive transportation systems.
+**By Plane**
 
-**Getting There by Plane**
+John F. Kennedy International Airport (JFK) handles the bulk of international traffic and is a major hub for Delta and JetBlue. LaGuardia (LGA) is closer to Manhattan and focused on domestic routes. Newark Liberty (EWR) in New Jersey is a third option with good connections to Midtown via NJ Transit. For upstate destinations, Buffalo Niagara International (BUF), Albany International (ALB), and Syracuse Hancock (SYR) handle regional flights.
 
-The John F. Kennedy International Airport (IATA airport code: JFK)
-serves the New York state and it is the busiest airport in the United
-States. There are several dozens of local and international
-airlines that offer direct flights to and from New York from several
-destinations around the world. This airport is the main hub forJetBlue
-Airways and is one of the main international hubs for Delta Air Lines, so
-it is a good idea to start your air ticket search through these 2
-airlines. The JFK airport is just a 12-mile (about 18 km) drive away from Lower Manhattan.
+**By Car, Bus, and Train**
 
-Other airports that serve New York City are the Newark Liberty International Airport (IATA airport code: EWR) and the LaGuardia Airport (IATA airport code: LGA).
-
-**Getting There by Car, Bus and Train**
-It's also possible to arrive to New York State by car, bus and
-train but only travel these ways if you have plenty of time available.
-Driving distances are big not only in the United States but also in
-New York state. If you secure your flight with enough time in advance,
-air travel can save you both time and money.
-
-**Contributors**
-January 25, 2010
-
-January 26, 2010
+Amtrak serves New York City from Boston, Washington DC, Chicago, and beyond. The Adirondack line runs north from Penn Station to Montreal, passing through the Hudson Valley and the Champlain Valley — one of the more scenic train rides in the Northeast. Long-distance buses (Greyhound, Trailways, and Megabus) connect New York City to most major upstate cities at low cost.

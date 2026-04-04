@@ -1,9 +1,9 @@
 ---
-title: "Beaches in New York State"
+title: "Beaches"
 type: section
 ---
 
-While New York is not usually the first place that comes to mind when one thinks of beaches, the state boasts a number of lovely beaches along the Atlantic Ocean where visitors can boat, fish or just relax. Year after year, **New York State Beaches,** on Long Island in particular, continue to draw visitors from around the world with their miles of beautiful coastline and wide variety of attractions, including fine restaurants, festivals, shopping and recreational activities.
+New York isn't usually the first place that comes to mind for beaches, but Long Island delivers miles of Atlantic coastline that keeps people coming back. From the surf breaks at Rockaway to the old-money dunes of the Hamptons and the car-free calm of Fire Island, there's more variety here than most people expect.
 
 **New York City**
 

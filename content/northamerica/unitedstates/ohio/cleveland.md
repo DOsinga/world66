@@ -5,8 +5,10 @@ latitude: 41.499657
 longitude: -81.693677
 ---
 
-Cleveland is located on the shores of Lake Erie. It's quite a busy town with many things going on. One of the main attractions is that Cleveland is home to the Rock and Roll Hall of Fame! Where else can you relive the soundtrack of your life? In the museum you can experience over 50 exhibits, dynamic cinema presentations plus the world's largest single collection of rock and roll artifacts. 
+Cleveland sits on the southern shore of Lake Erie and has spent the past few decades proving it's more than a punchline. The Rock and Roll Hall of Fame is the obvious draw, but the city earns its visit on its own terms — through University Circle, one of the most concentrated cultural districts in the country, through the West Side Market, through the distinct neighborhoods of Ohio City, Tremont, and Little Italy.
 
-Other attractions include the Botanical Gardens, which feature an indoor rainforest and butterfly sanctuary, beautiful outdoor gardens including a rose garden, Japanese garden, and an award-winning herb garden. Nearby is the free Cleveland Museum of Art featuring Picasso, Ansel Adams, Warhol, and more. Some of the best food in town can be found in Little Italy, right up the hill from the Gardens.
+University Circle alone packs the Cleveland Museum of Art (free admission, world-class collection), the Cleveland Botanical Garden with its indoor rainforest and butterfly sanctuary, and dozens of other institutions into a square mile. Little Italy sits just uphill, good for dinner before or after.
 
-[Cuyahoga Valley](/northamerica/unitedstates/ohio/cuyahogavalley) and Garfield National Historic Site in Mentor can be seen as day trips from Cleveland.
+Ohio City, just west of downtown, is where the city feels most alive day to day. The West Side Market on West 25th is the anchor — a 1912 Beaux-Arts market hall that's still running exactly as intended, with vendors whose families have held stands for generations. Great Lakes Brewing Company is around the corner and not optional.
+
+Tremont, south of Ohio City, is the artists' neighborhood: galleries, dive bars, upscale restaurants, and architecturally notable churches on crooked streets cut off from the rest of the city by freeways. It has a genuinely distinct character. Cuyahoga Valley National Park and the James Garfield National Historic Site in Mentor make good day trips.

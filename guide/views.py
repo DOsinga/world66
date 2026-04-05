@@ -5,11 +5,11 @@ from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import Http404, JsonResponse
+from django.http import FileResponse, Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page, load_tag_index
+from .models import CONTENT_DIR, load_page, load_tag_index
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
@@ -72,6 +72,12 @@ def location_or_section(request, path):
     # Collect map markers from children
     markers = _collect_markers(page, sections, locations, pois)
 
+    # Hero image
+    image_path = _image_path(page)
+    hero_image_url = f'/content-image/{image_path}' if image_path else None
+    hero_image_source = page.meta.get('image_source', '') if image_path else ''
+    hero_image_license = page.meta.get('image_license', '') if image_path else ''
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
@@ -87,6 +93,9 @@ def location_or_section(request, path):
         "continent_slug": continent_slug,
         "is_continent": is_continent,
         "markers_json": mark_safe(json.dumps(markers)),
+        "hero_image_url": hero_image_url,
+        "hero_image_source": hero_image_source,
+        "hero_image_license": hero_image_license,
         "tags": page.tags,
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,

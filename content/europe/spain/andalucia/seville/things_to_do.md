@@ -1,11 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Cuesta Sport Gym is conveniently located in the center of Seville next to Plaza de Alfalfa. It´s a great place for study abroad students and everyone else who would like to stay in shape while spending time in Seville.
-
-Most of the staff can speak Spanish and English, so there shouldn´t be any language problems. In addition to cardio and weightlifting equipment, the gym also offers personal trainers, personalized diets, therapeutic and sport massages, and a range of classes such as Pilates and Indoor Cyclying (Spinning). The four floors of the facility include saunas in the mens´ and womens´ locker rooms, an elevator, and free internet access (Wi-Fi) to all members.
-
-**Contributors**
-June 28, 2007
+Seville is a walking city — almost everything worth seeing is in or near the old centre, packed into a compact area either side of the Cathedral. Start there: the Cathedral, the Giralda bell tower, and the neighbouring Real Alcázar easily fill a morning between them. Wander afterwards through the narrow lanes of **Barrio Santa Cruz**, stop for tapas, and cross the river in the evening to **Triana** for flamenco. The **Plaza de España** and **María Luisa Park** are worth a separate half-day trip, as is the **Museo de Bellas Artes** in a former Mercedarian convent — a small but excellent collection of Spanish Golden Age painting, particularly strong on Murillo and Zurbarán (both Sevillian).

@@ -1,5 +1,5 @@
 ---
-title: "Nightlife and Entertainment in Corfu"
+title: "Nightlife and Entertainment"
 type: section
 ---
 

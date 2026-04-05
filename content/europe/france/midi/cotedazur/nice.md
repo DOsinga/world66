@@ -1,8 +1,10 @@
 ---
-title: "Nice"
+title: Nice
 type: location
 latitude: 43.700936
 longitude: 7.268391
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Nice is the undisputed capital of the [Cote d'Azur](/europe/france/midi/cotedazur), and it earns that title not just through glamour but through character. The city has a split personality: the wide, formal sweep of the Promenade des Anglais along the seafront, and the tumbling, narrow-laned old town behind it, where laundry flaps from sienna-coloured facades and the smell of socca drifts from corner vendors.

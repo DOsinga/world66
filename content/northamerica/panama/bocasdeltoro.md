@@ -1,6 +1,8 @@
 ---
-title: "Bocas del toro"
+title: Bocas del toro
 type: location
+done:
+  location_cleanup: 2026-04-04
 ---
 
 The Bocas del Toro Archipelago is close to the border with [Costa Rica](/northamerica/costarica). The islands offer the visitor a number of attractions: luxurious rain forests with an abundance of fauna and flora, sunny islands, beaches that compete with the Caribbean best, coral reefs in crystal clear water, mangrove islets in a lake-like scenery, guaymi indian villages and a national marine park that protects examples of the ecosystems and natural resources coexisting within the Archipelago boundaries, as a tribute to our future generations.

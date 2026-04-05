@@ -1,8 +1,10 @@
 ---
-title: "Tucson"
+title: Tucson
 type: location
 latitude: 32.222876
 longitude: -110.974847
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Tucson is Arizona's second largest city and the home of the University of Arizona. 

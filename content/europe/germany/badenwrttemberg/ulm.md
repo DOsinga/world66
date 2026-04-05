@@ -1,8 +1,10 @@
 ---
-title: "Ulm"
+title: Ulm
 type: location
 latitude: 48.398497
 longitude: 9.991246
+done:
+  location_cleanup: 2026-04-04
 ---
 
 The towns of Ulm and Neu-Ulm on the banks of the river Danube are divided by the boundary between the Federal Lands of Baden-Württemberg and Bavaria. More than 170,000 people live here. Despite of the boundary the two towns do a lot of things together, whether in economy, tourism, culture, traffic or in providing leisure facilities. Most striking are perhaps the important traffic routes which meet there in the heart of Southern Germany.

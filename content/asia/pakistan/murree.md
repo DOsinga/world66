@@ -1,8 +1,10 @@
 ---
-title: "Murree"
+title: Murree
 type: location
-latitude: 33.9070
+latitude: 33.907
 longitude: 73.3943
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Known as the Queen of Hills, Murree sits at 2,300 meters in the Pir Panjal foothills, just an hour's drive northeast of [Islamabad](/asia/pakistan/islamabad). The British established it as a hill station in 1851, and it has been Pakistan's most popular summer retreat ever since.

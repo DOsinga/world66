@@ -1,8 +1,10 @@
 ---
-title: "Santa Marta"
+title: Santa Marta
 type: location
 latitude: 11.2408
-longitude: -74.1990
+longitude: -74.199
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Santa Marta is South America's oldest surviving city, founded in 1525 on a bay where the Sierra Nevada de Santa Marta drops steeply to the Caribbean. That collision of mountain and sea defines the place: snow-capped peaks loom behind tropical beaches, and the surrounding national parks hold some of Colombia's most spectacular landscapes.

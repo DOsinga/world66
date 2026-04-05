@@ -1,8 +1,10 @@
 ---
-title: "Pereira"
+title: Pereira
 type: location
 latitude: 4.8133
 longitude: -75.6961
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Pereira sits at the heart of Colombia's Coffee Triangle, 1,400 meters up in the western Andes. It is the capital of Risaralda and the largest city in the Zona Cafetera, the region that produces much of Colombia's famous coffee. The climate stays warm year-round, hovering between 21 and 30 degrees, and the surrounding mountains are green and dramatic.

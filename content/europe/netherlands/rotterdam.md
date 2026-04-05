@@ -1,8 +1,10 @@
 ---
-title: "Rotterdam"
+title: Rotterdam
 type: location
 latitude: 51.9225
 longitude: 4.4792
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Rotterdam is the Netherlands' second city and its most architecturally daring. Levelled by German bombing in 1940, it rebuilt itself as a modernist experiment -- a skyline of bold towers, avant-garde housing, and bridges that have made it a pilgrimage site for architecture fans worldwide.

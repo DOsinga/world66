@@ -1,8 +1,10 @@
 ---
-title: "Grenoble"
+title: Grenoble
 type: location
 latitude: 45.1885
 longitude: 5.7245
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Grenoble sits at the confluence of the Drac and Isere rivers, hemmed in by three mountain ranges — the Chartreuse, Vercors, and Belledonne. The setting is dramatic: snow-capped peaks visible from almost every street corner, the Bastille fortress looming above the old town. It hosted the 1968 Winter Olympics, and the outdoors still define the city's character.

@@ -1,8 +1,10 @@
 ---
-title: "Kaunas"
+title: Kaunas
 type: location
 latitude: 54.8985
 longitude: 23.9036
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Lithuania's second city sits at the confluence of the Nemunas and Neris rivers, and many Lithuanians will tell you it is the most Lithuanian city of all. During the interwar years Kaunas served as the provisional capital, and that era left behind a remarkable collection of Art Deco and modernist architecture now recognised by UNESCO.

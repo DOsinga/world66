@@ -29,12 +29,22 @@ a:hover { color: var(--red); text-decoration: underline; }
 
 img { max-width: 100%; height: auto; }
 
+/* Full-viewport background map (shown instead of body background-image) */
+#background-map {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background: #f0f0ec;
+}
+
 /* --- Page container --- */
 #page {
   max-width: 980px;
   margin: 0 auto;
   background: #fff;
   box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+  position: relative;
+  z-index: 1;
 }
 
 /* ==========================================================================
@@ -65,8 +75,8 @@ img { max-width: 100%; height: auto; }
   position: relative;
   overflow: hidden;
   transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-  /* Background image bleeds through from body when in photo mode */
   background: transparent;
+  pointer-events: none; /* let clicks pass through to background map */
 }
 
 .hero.hero-expanded {
@@ -77,11 +87,17 @@ img { max-width: 100%; height: auto; }
 .hero-layer {
   position: absolute;
   inset: 0;
+  pointer-events: auto; /* maps inside hero strip need to be interactive */
 }
 
 .hero-map-layer {
   background: #f0f0ec;
 }
+
+/* Re-enable pointer events on hero interactive elements */
+.hero-toggle-bar,
+.hero-expand-btn,
+.hero-attribution { pointer-events: auto; }
 
 /* Attribution link bottom-left */
 .hero-attribution {

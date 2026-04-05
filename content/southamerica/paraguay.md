@@ -3,6 +3,10 @@ title: "Paraguay"
 type: location
 latitude: -23.316593
 longitude: -58.169345
+image: paraguay.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:General_view_-_Trinidad_(Paraguay).JPG"
+image_license: "CC BY-SA 3.0"
+image_attribution: "Maurice Chédel"
 ---
 
 Paraguay is an introvert country that borders on Bolivia, Brazil and Argentina. During a large part of this century it was one of the most notorious and durable police states, but it now is gradually getting used to being a republic. 

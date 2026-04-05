@@ -3,6 +3,10 @@ title: "Belgium"
 type: location
 latitude: 50.640281
 longitude: 4.666715
+image: belgium.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Spa_So1JPG.jpg"
+image_license: "CC BY 3.0"
+image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT" title="User:Jean-Pol GRANDMONT">Jean-Pol GRANDMONT</a>"
 ---
 
 Belgium is a small, densely packed country in north-western Europe, squeezed between France, the Netherlands, Germany, and Luxembourg. It is easy to underestimate — it gets overlooked by travellers heading to Paris or Amsterdam — but it is one of the most rewarding destinations on the continent.

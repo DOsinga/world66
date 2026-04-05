@@ -3,6 +3,10 @@ title: "Georgia"
 type: location
 latitude: 42.315407
 longitude: 43.356892
+image: georgia.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:The_alpine_landscapes_of_northwestern_Georgia,_southeastern_Europe.jpg"
+image_license: "CC BY 2.0"
+image_attribution: "Lodian"
 ---
 
 Georgia sits at the crossroads of Europe and Asia, tucked between the Greater Caucasus mountains in the north and bordered by the Black Sea to the west, Turkey to the south, Armenia and Azerbaijan to the south and east, and Russia to the north. It is a small country — about the size of Ireland — but remarkably varied: subtropical coastline, glaciated high peaks, arid semi-desert, and deep river gorges all within a few hours' drive of each other.

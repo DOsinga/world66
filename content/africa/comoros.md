@@ -3,6 +3,10 @@ latitude: -12.204518
 longitude: 44.283296
 title: Comoros
 type: location
+image: comoros.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Volcan_Karthala_vue_de_la_caldeira_13_08_2019.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Lolodevenelles&amp;action=edit&amp;redlink=1" class="new" title="User:Lolodevenelles (page does not exist)">Lolodevenelles</a>"
 ---
 
 The Comoros islands sit in the Mozambique Channel between Madagascar and the African mainland, and they are one of the least visited countries on earth. That is a shame and also part of the appeal. This is a place where volcanic peaks rise from turquoise water, the air smells of ylang-ylang and cloves, and the culture is a fascinating blend of African, Arab, Malagasy, and French influences that you will not find anywhere else.

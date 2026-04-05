@@ -3,6 +3,10 @@ title: "Mali"
 type: location
 latitude: 17.5707
 longitude: -3.9962
+image: mali.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Timbuktu_street_scene.jpg"
+image_license: "CC BY 2.0"
+image_attribution: "Flickr user: upyernose Haverford <a rel="nofollow" class="external free" href="https://www.flickr.com/people/upyernoz/">https://www.flickr.com/people/upyernoz/</a>"
 ---
 
 *Africa > Mali*

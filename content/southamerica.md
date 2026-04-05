@@ -1,6 +1,10 @@
 ---
 title: "South America"
 type: location
+image: southamerica.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Perú,_2015-07-30,_DD_47.JPG"
+image_license: "CC BY-SA 4.0"
+image_attribution: "<bdi><a href="https://www.wikidata.org/wiki/Q28147777" class="extiw" title="d:Q28147777"><span title="Spanish photographer">Diego Delso</span></a></bdi>"
 ---
 
 South America is one of the most varied places on Earth. In the span of a single continent you get the world's largest rainforest, the longest mountain range, the driest desert, the highest navigable lake, and some of the most biodiverse terrain anywhere. It is also a place of extraordinary cities, ancient civilizations, and a human mix — indigenous, African, European, Asian — that has produced distinctive cultures in every country.

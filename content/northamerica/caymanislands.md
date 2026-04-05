@@ -3,6 +3,10 @@ title: "Cayman Islands"
 type: location
 latitude: 19.3133
 longitude: -81.2546
+image: caymanislands.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Traditional_caymanian_home_east_end.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Lhb1239&amp;action=edit&amp;redlink=1" class="new" title="User:Lhb1239 (page does not exist)">Lhb1239</a>"
 ---
 
 Three small British Overseas Territory islands sitting in the western Caribbean, about 150 miles south of Cuba. The Cayman Islands are one of the world's wealthiest places per capita — a status built on offshore finance and high-end tourism rather than agriculture or industry. Expect polished infrastructure, immaculate beaches, and prices to match.

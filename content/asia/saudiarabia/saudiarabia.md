@@ -3,6 +3,10 @@ title: "Saudi Arabia"
 type: location
 latitude: 24.0
 longitude: 45.0
+image: saudiarabia.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Rub_al_khali_sunset_Nov_2007.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Javierblas&amp;action=edit&amp;redlink=1" class="new" title="User:Javierblas (page does not exist)">Javierblas</a>"
 ---
 
 *Asia > Saudi Arabia*

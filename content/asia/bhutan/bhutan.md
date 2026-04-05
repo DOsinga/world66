@@ -3,6 +3,10 @@ title: "Bhutan"
 type: location
 latitude: 27.5142
 longitude: 90.4336
+image: bhutan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Paro_Dzong_(15656348118).jpg"
+image_license: "CC BY 2.0"
+image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/67769030@N07">Arian Zwegers</a> from Brussels, Belgium"
 ---
 
 Bhutan is the last great Himalayan kingdom, a country the size of Switzerland wedged between India and Tibet where Gross National Happiness is official policy and television arrived only in 1999. It is one of the most tightly controlled tourism destinations on earth, and that is exactly what makes it extraordinary.

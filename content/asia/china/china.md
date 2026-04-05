@@ -3,6 +3,10 @@ title: "China"
 type: location
 latitude: 35.8617
 longitude: 104.1954
+image: china.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Gateofheavenlypeace.JPG"
+image_license: "Public domain"
+image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Scottmeltzer" title="User:Scottmeltzer">Scott Meltzer</a>"
 ---
 
 China is not one country so much as a continent pretending to be one. It stretches from subarctic forests in Manchuria to tropical beaches on Hainan, from the Tibetan Plateau at 4,500 meters to the neon canyons of Shanghai. The sheer scale is hard to grasp until you are sitting on a train for twenty hours and realize you have not left the same province.

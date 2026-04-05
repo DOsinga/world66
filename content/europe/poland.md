@@ -3,6 +3,10 @@ title: "Poland"
 type: location
 latitude: 52.215933
 longitude: 19.134422
+image: poland.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:02860_Kraków,_zespół_Wzgórza_Wawelskiego.jpg"
+image_license: "CC BY-SA 3.0 pl"
+image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Daniel.zolopa" title="User:Daniel.zolopa">Daniel.zolopa</a>"
 ---
 
 Poland is one of Europe's most underrated travel destinations — a large country with a rich, often painful history, remarkable cities, and landscapes that range from Baltic beaches to Tatra mountain peaks. It has been rebuilt, reinvented, and reopened to the world over the past few decades, and it rewards travelers who go beyond the obvious.

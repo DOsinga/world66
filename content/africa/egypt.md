@@ -3,6 +3,10 @@ latitude: 26.254049
 longitude: 29.267547
 title: Egypt
 type: location
+image: egypt.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Berthold_Werner" title="User:Berthold Werner">Berthold Werner</a>"
 ---
 
 Egypt is one of the world's great destinations, and has been for thousands of years. The monuments are staggering in scale and age, the Nile Valley is lush and beautiful, and the culture -- ancient and modern -- is endlessly fascinating. It is also loud, chaotic, and occasionally exhausting. That is part of the deal.

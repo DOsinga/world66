@@ -3,6 +3,10 @@ latitude: 49.487197
 longitude: 31.271832
 title: Ukraine
 type: location
+image: ukraine.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Chocim_stronghold_front.jpg"
+image_license: "CC BY 3.0"
+image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Galileo01" title="User:Galileo01">Galileo01</a>"
 ---
 
 Ukraine is one of Europe's largest countries, a place of extraordinary depth — ancient cities, rolling steppes, the forested Carpathians in the west, and the Black Sea coast in the south. Before the Russian invasion of February 2022, it was drawing more visitors every year, and [Lviv](/europe/ukraine/lviv) had become one of the continent's most beloved cities for weekend breaks.

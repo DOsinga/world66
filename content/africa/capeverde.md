@@ -3,6 +3,10 @@ title: "Cape Verde"
 type: location
 latitude: 15.94
 longitude: -23.96
+image: capeverde.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: "<a href="//commons.wikimedia.org/wiki/User:HenriqueRosaFotografia" title="User:HenriqueRosaFotografia">HenriqueRosaFotografia</a>"
 ---
 
 Cape Verde is an archipelago of ten volcanic islands scattered in the Atlantic Ocean, 500 kilometers off the west coast of Africa. It is a place where African warmth meets Portuguese colonial history, where music drifts out of every bar, and where the landscape shifts from Saharan desert to lush green valleys in the space of a short ferry ride. The Cape Verdeans call their particular brand of longing *sodade* -- a cousin of Portuguese *saudade* -- and you will hear it in every note of the morna music that Cesaria Evora made famous.

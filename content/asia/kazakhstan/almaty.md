@@ -1,8 +1,10 @@
 ---
-title: "Almaty"
+title: Almaty
 type: location
 latitude: 43.236392
 longitude: 76.945728
+done:
+  location_cleanup: 2026-04-04
 ---
 
 **ALMATY** (uhl-muh-TEE, former Alma-Ata) is the former capital of Kazakhstan. It is the most populated city in Kazakhstan at present. Its population is over a million people. Even though Astana (then Akmola) became the capital in 1995; Almaty is often called the Southern Capital. It can be rightfully called the most beautiful city in the country. 

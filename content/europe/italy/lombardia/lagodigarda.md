@@ -5,18 +5,10 @@ latitude: 45.662431
 longitude: 10.686157
 ---
 
-Lago di Garda is located on the border of [Lombardia](/europe/italy/lombardia), [Conegliano Veneto](/europe/italy/veneto/coneglianoveneto) and [Trentino Alto Adige](/europe/italy/trentinoaltoadige). It is one of the most beautiful places in Italy and that's saying quite a lot. Over the centuries the lake has always been very popular with holiday makers. 
+Lake Garda is the largest lake in Italy, straddling the borders of Lombardia, Veneto, and Trentino. It stretches 52 kilometres from the broad, flat southern end near Peschiera to the narrow Alpine fjord at its northern tip near Riva del Garda. The contrast between the two ends is striking: the south is gentle and Mediterranean in feel, planted with olive groves and vineyards; the north is dramatic, with mountains dropping directly into the water and fierce winds that have made it a windsurfing and kitesurfing destination.
 
-The area has been rich in well-known products since Ancient Times: marble and wine, which were exported in all parts of the world. Worth a special mention is the “Riviera degli Olivi”, the long golden shore running along the lake for 50 kilometres (from Peschiera to Malcesine). 
+The lake has been a holiday destination since Roman times. The poet Catullus had a villa at Sirmione; Mussolini chose Salò on the western shore as the seat of his puppet government in 1943; Goethe passed through and wrote about it in his Italian Journey. The result is a lake that is both scenically spectacular and historically rich.
 
-Places of interest on the lake include [Lazise](/europe/italy/lombardia/lagodigarda/lazise), [Peschiera](/europe/italy/lombardia/lagodigarda/peschiera) and [Sirmione](/europe/italy/lombardia/lagodigarda/sirmione). A special site is the Vittoriale in [Gardone](/europe/italy/lombardia/lagodigarda/gardone) just north of [Salo](/europe/italy/lombardia/lagodigarda/salo). Here you find the house of Gabriele d'Annunzio, an Italian writer, who managed to collect a heap of interesting stuff in his house. 
+The western (Lombardia) shore is the more dramatic, with the narrow Gardesana road carved into cliffs above the water. Gardone and Salò are the main towns. The eastern (Veneto) shore is sunnier and more popular with Italian holidaymakers. Lazise, Bardolino, and Malcesine are the main stops. The southern tip is the most tourist-heavy, particularly around Sirmione and Garda, but also the most accessible from Milan, Verona, and Brescia.
 
-From the Lago di Garda day trips can be made to [Verona](/europe/italy/veneto/verona) the [Valpolicella](/europe/italy/veneto/valpolicella) with its excellent wines and [Mantua](/europe/italy/lombardia/mantua)..
-
-## Destinations in Lago di Garda
-
-[Sirmione](/europe/italy/lombardia/lagodigarda/sirmione)
-[Salo](/europe/italy/lombardia/lagodigarda/salo)
-[Gardone](/europe/italy/lombardia/lagodigarda/gardone)
-[Peschiera](/europe/italy/lombardia/lagodigarda/peschiera)
-[Lazise](/europe/italy/lombardia/lagodigarda/lazise)
+Day trips from the lake to Verona (45 minutes) and Mantua (one hour) are easy and rewarding. The Valpolicella wine country lies between the lake and Verona.

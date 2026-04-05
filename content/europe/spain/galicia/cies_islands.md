@@ -1,14 +1,16 @@
 ---
-title: "Cies Islands"
+title: Cíes Islands
 type: location
-latitude: 42.199049
-longitude: -8.902985
+latitude: 42.2139
+longitude: -8.904
+done:
+  location_cleanup: 2026-04-05
 ---
 
-The Cíes Islands are one of the main tourist attractions in the south of Galicia. They were declared a Natural Reserve in 1980 and part of "The Archipelago Atlantic Islands National Park" in 2002. The archipelago, situated at the mouth of the Ria of Vigo, is formed by three main islands: Monteagudo, Monte Faro and San Martiño, along with small islets such as Agoeira, Viños, Carabelos and O Ruzo.
+The Cíes Islands are three small granite islands off the mouth of the Ría de Vigo, in the south-western corner of Galicia — one of the most spectacular natural places in Spain, and the centrepiece of the Illas Atlánticas National Park. The British newspaper *The Guardian* once called the long curved beach connecting the two northern islands, **Praia de Rodas**, the most beautiful beach in the world. That is the kind of claim that normally deserves a raised eyebrow; here it is genuinely defensible. The sand is powder-fine, the water is a shocking turquoise, and behind the beach a shallow lagoon is filled by the incoming tide.
 
-In addition to its beaches, the other main attraction of the Cíes (which have their own microclimate) is its cliffs and the so-called beehives and cacholas –round cavities produced in the surface of the rocks that end up merging together, giving rise to large hollows such as those of La Campana and the Alto del Príncipe. A similar process gives rise to pías (holes) in horizontal surfaces and fiurnas (caverns), of which there are 18 in the islands.
+The islands have been protected since 1980 and are now subject to strict visitor quotas — only around 1,800 people are allowed ashore per day in summer, and you need a permit (available free online through the Xunta de Galicia's website) before you can buy a ferry ticket. That cap is what keeps the place from being overrun. Once you step off the boat, the islands are entirely car-free: a network of walking paths leads to the lighthouse on Monte Faro (the highest point, about 175 metres, with a 360-degree view that on clear days reaches to Portugal), to the seabird observatories on the clifftops, and to a handful of quieter beaches on the western side. The cliffs on the Atlantic-facing side are one of the most important breeding colonies for yellow-legged gulls, shags, and common murres in Europe, and the noise during spring nesting is astonishing.
 
-The first human settlement (Celtic) of which we have proof is the “castro” (fortified settlement) on the slope of Monte Faro, which dates from the beginning of the Iron Age. The Romans also made mention of the Cíes and settled there, as shown by ceramics, tiles and references by Strabon, Pliny or Ptolemy. In the Middle Ages the islands were visited by Normans and in the 11th century the first communities of Benedictine hermits appeared.
+There is a small campsite on the middle island if you want to stay overnight (reservations required, and book well ahead for July and August), a single bar-restaurant at the landing area, and nothing else — no shops, no hotels, no fresh water beyond the taps near the beach. Bring everything you need for the day. Boats leave regularly in summer (roughly May to October) from **Vigo**, **Baiona**, and **Cangas**, and the crossing takes about 45 minutes. In winter the islands are closed to visitors.
 
-In the 16th century the corsair Drake and Berber pirates landed on the Cíes Isles. The continuous invasions lead to the abandonment of the islands from 1700 to the 19th century, when the first lighthouse was built. A Norwegian whaling factory was located on the islands during the second half of the 20th century. Nowadays, only game wardens and a native remain on the island throughout the year.
+Combine a day on the Cíes with a meal of seafood in Vigo — the mussel rafts visible from the boat on the way out supply much of what you'll eat — and you have one of the best days of travel available anywhere on the Iberian Peninsula.

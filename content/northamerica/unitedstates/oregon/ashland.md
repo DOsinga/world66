@@ -1,8 +1,8 @@
 ---
 title: "Ashland"
 type: location
-latitude: 40.788737
-longitude: -82.236039
+latitude: 42.194500
+longitude: -122.709400
 ---
 
 Home of the Oregon Shakespeare Festival, Ashland is full of cultural opportunities. There are also nine other theatre groups, featuring a wide variety of performances, including musicals, comedy and experimental theatre. Shakespeare and other plays are presented in the Oregon Shakespeare Festival's outdoor Elizabethan Theater and the Angus Bowmer Theatre or the Black Swan. Music is everywhere in Ashland, with opera, bluegrass, folk singing and chamber music being only some of the offerings for visitors. 

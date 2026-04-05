@@ -1,12 +1,14 @@
 ---
-title: "Romania"
+title: Romania
 type: location
 latitude: 45.985213
 longitude: 24.685923
 image: romania.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>'
+image_source: https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>
+done:
+  country_cleanup: 2026-03-29
 ---
 
 In December 1989, Romania was reborn as a free nation. Now this multifaceted country is welcoming tourists to enjoy a wonderfully varied heritage of traditional culture, scnic splendour and leisure opportunities. A resurgence of endeavour and enthusiasm is reinvigorating the country's tourist facilities to create a holiday destination unique in southern Europe.

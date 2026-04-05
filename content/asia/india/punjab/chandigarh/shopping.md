@@ -1,21 +1,6 @@
 ---
-title: "Shopping"
+title: "Shopping in Chandigarh"
 type: section
-email: "info@allindiaflorist.com"
-type: "Antiques"
-url: "www.allindiaflorist.com"
-latitude: 10.673995
-longitude: 76.186901
 ---
 
-info@allindiaflorist.com
-
-Flowers to Chandigarh Send Flowers by Chandigarh Local Florist
-
-### [Flowers to Chandigarh Send Flowers by Chandigarh Local Florist
-
-All India Florist send flowers to Chandigarh. Send local florist gifts to Chandigarh. Online flower delivery of fresh cut flowers floral arrangements, cakes, chocolate and other gifts to Chandigarh for wedding anniversary or birthday the same day at low prices
-
-http://www.allindiaflorist.com/flowers-to-chandigarh.htm](/asia/india/punjab/chandigarh/shopping/flowers_to_chandig)
-
-type: Antiques
+Chandigarh's best shopping is in Sector 17, the pedestrianised city-centre plaza that Le Corbusier designed as the commercial heart of the grid. You'll find clothing, handicrafts and Punjabi phulkari embroidery alongside the usual Indian bazaar staples. Sector 22 is busier and more local in character. For fixed-price Punjab handicrafts, the government emporia on Sector 17 are reliable.

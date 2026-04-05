@@ -3,100 +3,20 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## Travel Guides
 
-**Lonely Planet Madagascar and the Comoros**
+**Bradt Travel Guide: Madagascar** by Hilary Bradt — The standard reference for independent travelers. Bradt has covered Madagascar more thoroughly than anyone else, and the guide is regularly updated. Worth having in your bag. ISBN: 1898323534
 
+**Lonely Planet Madagascar** by Paul Greenway and Deanna Swaney — Solid for general orientation and city coverage, though the Bradt guide has more depth on wildlife and remote areas. ISBN: 0864424965
 
+## Wildlife
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424965/ref=ase_osingacom?v=glance&s=books)
+**Mammals of Madagascar** by Nick Garbutt — The reference work on lemurs and other Malagasy mammals, dense with species information and good photographs. ISBN: 0300077513
 
-author: Paul Greenway,Deanna Swaney
+**Madagascar Wildlife** by Hilary Bradt, Derek Schuurman, and Nick Garbutt — A compact field companion covering mammals, birds, reptiles, and plants. Useful for ticking off species as you go. ISBN: 1564409473
 
-isbn: 0864424965
+**Guide to the Birds of Madagascar** by Olivier Langrand — Comprehensive guide to the island's remarkable endemic bird life. ISBN: 0300043104
 
-subject: travel
+## Culture & History
 
-**Guide to Madagascar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1898323534/ref=ase_osingacom?v=glance&s=books)
-
-author: Hilary Bradt
-
-isbn: 1898323534
-
-subject: travel
-
-**Madagascar:How to Get There, What to See, Where to Stay**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1868125858/ref=ase_osingacom?v=glance&s=books)
-
-author: Marco Turco
-
-isbn: 1868125858
-
-subject: travel
-
-**Ritual, History, and Power:Selected Papers in Anthropology**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0485195585/ref=ase_osingacom?v=glance&s=books)
-
-author: Maurice Bloch
-
-isbn: 0485195585
-
-subject: culture
-
-**Ritual, History and Power:Selected Papers in Anthropology**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0485196581/ref=ase_osingacom?v=glance&s=books)
-
-author: Maurice Bloch
-
-isbn: 0485196581
-
-subject: culture
-
-**Guide to the Birds of Madagascar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300043104/ref=ase_osingacom?v=glance&s=books)
-
-author: Olivier Langrand,H. R. Philip (Translator)
-
-isbn: 0300043104
-
-subject: history
-
-**Mammals of Madagascar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300077513/ref=ase_osingacom?v=glance&s=books)
-
-author: Nick Garbutt
-
-isbn: 0300077513
-
-subject: history
-
-**Madagascar Wildlife**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1564409473/ref=ase_osingacom?v=glance&s=books)
-
-author: Hilary Bradt,Derek Schuurman,Nick Garbutt
-
-isbn: 1564409473
-
-subject: history
+**Ritual, History and Power: Selected Papers in Anthropology** by Maurice Bloch — Scholarly but illuminating on Merina society and the ancestor veneration practices that shape everyday life. ISBN: 0485195585

@@ -1,12 +1,10 @@
 ---
-title: "Monferrato"
+title: 'Monferrato'
 type: location
-latitude: 45.324086
-longitude: 8.423028
+latitude: 45.3241
+longitude: 8.4230
 ---
 
-Travel Guide
+Monferrato is Piedmont's rolling wine country, a landscape of hilltop villages, fortified castles, and vineyards that stretches between the provinces of [Asti](/europe/italy/piemonte/asti) and Alessandria. The wines here are among Italy's finest -- Barbera d'Asti, Grignolino, and the sweet, fizzy Moscato d'Asti all come from these hills, and the wine cellars are welcoming and unpretentious.
 
-Monferrato's primarily hilly terrain is known throughout the world for its many and wonderful wines. Spanning across a vast area of the province of Turin on the southeast and Cuneo on the northeast.
-The rich land, products, agreeable climate and invidious position have historically spurred feuds and the development of "signorie" since the middle ages. The many fortified castles are a constant reminder of this. These castles are surrounded by small villages which offer the unique products of the land, most of which have been cultivated in the old fashion sense. Along with Asti and Alessandria, rich in cultural heritage and monuments, it's worthy to visit the lively wine cellars of the area which offer some of the finest wines in the world. Also explore the town of Acqui Teme, well known since the Roman era for its thermal spas. Or see Valenza, famous for its gold factories.
-Monferrato offers an infinite number of hidden treasures to discover along the Frachigena way which historically linked the Mediterranean Sea to the rest of Europe and crossed directly through the Monferrato region during the middle ages. A journey here means a walk through the various paths and routes, immersed in green countryside that truly provides unforgettable emotions.
+The area is studded with medieval castles, a legacy of centuries of feudal rivalries, each surrounded by small villages that produce local specialties the old-fashioned way. The Via Francigena, the ancient pilgrim route linking the Mediterranean to northern Europe, passes directly through the region. Acqui Terme, known since Roman times for its thermal baths, and the gold-working town of Valenza are both worth a detour.

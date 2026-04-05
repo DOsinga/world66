@@ -3,12 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-The best and cheapest transport option on Barbados is the bus. There are three kinds of buses: government-operated public buses which have the most extensive routes; a privately operated minibus system; and route taxis.
+Barbados is small enough that you can drive from one end to the other in under an hour, but getting around without your own wheels requires patience.
 
-* Now boarding (9K)*
+**Buses** are the cheapest option. Three networks overlap: the government-operated Transport Board buses (blue with yellow stripe), private minibuses (yellow with blue stripe), and route taxis (ZR vans, yellow with maroon stripe). All charge a flat fare of BBD 3.50 (about USD 1.75) regardless of distance. The Transport Board has the most comprehensive routes; minibuses and ZRs are faster but more chaotic. The main hub is Bridgetown's two bus terminals: Probyn Street (north and east routes) and Princess Alice Highway (south and west routes).
 
-Renting a car is another good way of getting around. None of the island's many car rental agencies is affiliated with a major international rental chain so just call to book a car and someone will swing by your hotel to pick you up. Temporary driving permits are required; they can be obtained for a small fee through your rental agency. In Barbados you drive on the left.
+**Car rental** is the most practical way to explore the island at your own pace. No international chains operate here — there are plenty of local agencies, most of which will deliver the car to your hotel. You'll need a temporary driving permit (obtained through the rental agency for around BBD 10). Drive on the left. Petrol stations are scattered around the island. Parking in Bridgetown can be frustrating; use one of the car parks near the Cheapside Market.
 
-Taxis are also available and fares are fixed by the government. However vehicles are unmetered so establish a fare in advance especially if you hire a taxi for a sightseeing tour. Bicycles can be rented in Hastings and Maxwell.
+**Taxis** are plentiful but unmetered. Fares are government-regulated, but agree on a price before you get in, especially for longer journeys or sightseeing tours. Hiring a taxi driver for a half-day island tour is a popular option and can be good value if you negotiate upfront.
 
-Barbados' Grantley Adams International Airport is on the island's southern coast 16km (10mi) southeast of Bridgetown. Few car rental agencies have booths at the airport but most will pick customers up. Otherwise travelers have a choice of catching a taxi to their destination or simply walking out onto the road and catching a local bus.
+**Cycling** is possible but not for the faint-hearted — roads are narrow, traffic moves fast, and drivers are not always courteous to cyclists. Bikes can be rented in Hastings and Maxwell on the south coast.
+
+**From the airport:** Grantley Adams International Airport (BGI) is on the south coast, about 13km east of Bridgetown. Taxis are available outside arrivals. You can also walk to the main road and catch a bus, though this requires some navigating with luggage.

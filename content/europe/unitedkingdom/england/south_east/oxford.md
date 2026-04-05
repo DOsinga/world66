@@ -1,12 +1,14 @@
 ---
-title: "Oxford"
+title: 'Oxford'
 type: location
 latitude: 51.752013
 longitude: -1.25785
 ---
 
-The main reason why most people visit Oxford (less than two hours from London) is to fancy themselves a student at the famous Oxford University. Although the university is not as exclusive anymore as it used to be in the old days, the rowing contests between Oxford and Cambridge still take place and many of the colleges are not open to the public when the stressful time of important exams shows its face again to the students with a good scholarship or a copiously filled wallet. However, when they are accessible to the public, the thirty university 'castles' are a must-see.
+Oxford is one of the world's great university cities. Less than two hours from [London](/europe/unitedkingdom/england/london), it draws visitors who come to wander between the ancient colleges, admire the honey-coloured stone architecture and imagine themselves as students among the "dreaming spires" that poet Matthew Arnold made famous.
 
-The colleges are scattered all throughout town and altered with historical buildings showing the impressive architectural character of several periods. Take for example the Bodleain Libray, which is the second-largest library in the country. Magdalen College, with its cloisters and deer park, was the learning school of Oscar Wilde. Hertford College is the place to go to when you want to see one of Oxford's other famous sights, the Bridge of Sighs, which design was based on the Ponte dei Sospori in Venice.
+The university dates back some 800 years, and its thirty-odd colleges are scattered throughout the city centre, interspersed with churches, libraries and museums. The Bodleian Library is one of the oldest in Europe. Magdalen College, with its cloisters and deer park, was where Oscar Wilde studied. Hertford College is the place to see the Bridge of Sighs, modelled on its Venetian namesake. Christ Church is the grandest of them all, its Great Hall the inspiration for Hogwarts in the Harry Potter films.
 
-Besides that, Oxford is prepared for its students and visitors and offers besides historical sights and several good museums, a vibrant shopping and commercial area with plenty of shops, restaurants and cafes. So it's up to you to decide whether you indulge in a rowing trip on the River Cherwell, walk the cobbled streets or see a Shakesperian play performed in one of the many theatres...
+Beyond the colleges, Oxford has the excellent Ashmolean Museum (the oldest public museum in Britain), the wonderfully eccentric Pitt Rivers Museum with its shrunken heads and totem poles, and a lively commercial centre with good restaurants, pubs and shops. The River Cherwell invites punting in summer, and the covered market in the city centre has been trading since 1774.
+
+The colleges are not always open to the public, particularly during exam periods in late spring, so check before you visit. When they are open, you could spend days exploring them and still not see them all.

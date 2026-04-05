@@ -1,9 +1,9 @@
 ---
-title: "Getting Around in Gothenburg"
+title: "Getting Around"
 type: section
 ---
 
-Gothenburg, along the western coast of Sweden, is definitely a walking-friendly city, and with the intricate system of trams and busses – not to mention bike rentals and taxis – **Gothenburg&rsquo;s transportation** system makes it easy to explore all the city&rsquo;s wonders!
+Gothenburg is a walking-friendly city with a good tram and bus network. The historic tram system is the most convenient way to reach attractions outside the immediate centre, and ferries connect to the archipelago islands.
 
 **Tram and Bus**
 

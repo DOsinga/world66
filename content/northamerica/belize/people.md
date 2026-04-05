@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 230 160 (July 1998 est.) 
+Belize has a population of around 440,000 — small even by Central American standards. The ethnic mix is one of the most diverse in the region, and it shapes daily life, food, music, and language in ways that make the country genuinely interesting.
 
-**Age structure:** 
+**Mestizo** (mixed Spanish-Maya heritage) is the largest group, making up roughly 53% of the population, concentrated in the north and west. **Creole** Belizeans — descended from enslaved Africans and British settlers — account for around 26% and are the dominant group in Belize City. They gave the country Kriol, the widely spoken English-based Creole that you'll hear everywhere.
 
-*0-14 years:* 42% (male 49 486; female 47 596) 
+**Maya** communities (around 11%) include three distinct groups: the Yucatec Maya in the north, the Mopan Maya in the west, and the Kekchi Maya in the south. All maintain traditional practices to varying degrees.
 
-*15-64 years:* 54% (male 63 259; female 61 567) 
+**Garifuna** (around 7%) are descendants of Afro-Caribbean and Arawak people, settled mainly in the south — in [Dangriga](/northamerica/belize/dangriga), [Hopkins](/northamerica/belize/hopkins), and [Punta Gorda](/northamerica/belize/puntagorda). Their music (punta, paranda) and food are among Belize's most distinctive cultural contributions. Garifuna Settlement Day on November 19 is the biggest celebration of the year.
 
-*65 years and over:* 4% (male 4 048; female 4 204) (July 1998 est.) 
+Smaller communities include Mennonites — you'll see their distinctive dress and horse-drawn carts, especially around Orange Walk and Cayo — who arrived from Mexico and Canada in the 1950s and are major agricultural producers. There are also Lebanese, Chinese, and Indian communities in the towns.
 
-**Population growth rate:** 2.42% (1998 est.) 
-
-**Birth rate:** 31.05 births/1 000 population (1998 est.) 
-
-**Death rate:** 5.5 deaths/1 000 population (1998 est.) 
-
-**Net migration rate:** -1.38 migrant(s)/1 000 population (1998 est.) 
-
-**Sex ratio:** 
-
-*at birth:* 1.05 male(s)/female 
-
-*under 15 years:* 1.04 male(s)/female 
-
-*15-64 years:* 1.03 male(s)/female 
-
-*65 years and over:* 0.96 male(s)/female (1998 est.) 
-
-**Infant mortality rate:** 32.36 deaths/1 000 live births (1998 est.) 
-
-**Life expectancy at birth:** 
-
-*total population:* 68.97 years 
-
-*male:* 67.01 years 
-
-*female:* 71.03 years (1998 est.) 
-
-**Total fertility rate:** 3.87 children born/woman (1998 est.) 
-
-**Nationality:** 
-
-*noun:* Belizean(s) 
-
-*adjective:* Belizean 
-
-**Ethnic groups:** mestizo 44% Creole 30% Maya 11% Garifuna 7% other 8% 
-
-**Religions: ** Roman Catholic 62% Protestant 30% (Anglican 12% Methodist 6% Mennonite 4% Seventh-Day Adventist 3% Pentecostal 2% Jehovah's Witnesses 1% other 2%) none 2% other 6% (1980) 
-
-**Languages:** English (official) Spanish Mayan Garifuna (Carib) 
-
-**Literacy:** 
-
-*definition:* age 14 and over has ever attended school 
-
-*total population:* 70.3% 
-
-*male:* 70.3% 
-
-*female:* 70.3% (1991 est.) 
-
-*note:* other sources list the literacy rate as high as 75%
+English is the official language, but the daily reality is multilingual: Kriol as a common tongue, Spanish in the west and north, Garifuna on the southern coast, and several Maya languages in villages.

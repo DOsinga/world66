@@ -1,9 +1,0 @@
----
-title: "OTTOMAN (turkish)"
-type: poi
-address: "U luzickeho seminare 23, Praha 1"
-latitude: 50.089878
-longitude: 14.409918
----
-
-Open: Daily. 12.00-01.00. Good starters menu. Reasonable food. (AMEX, MC, V)

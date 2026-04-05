@@ -3,18 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+**By air**
 
-Europe can be reached by surface transport from Africa and Asia. Getting there from the other continents involves flying.
+Lennart Meri Tallinn Airport is 4km from the city centre. It's well connected to European hubs: direct flights operate from London, Helsinki, Amsterdam, Frankfurt, Stockholm, Warsaw, and more. Budget carriers including Ryanair and Wizz Air have expanded routes. Flights from North America connect through a European hub.
 
- **Air**
+From the airport, buses 2 and 15 run to the city centre and take about 20 minutes.
 
- Europe has lot's of airconnections with all the other continents, except for Antarctica. Indeed, for some connections from Asia to the America's it makes sense to pick up a flight to Europe and then head on. London, Paris, Amsterdam and the bigger German cities have competitive markets for cheap flights. Return Flights to North America (mostly New York) can be had for under 250 Euro. The rest of the world has some excellent connections too.
+**By ferry**
 
- Note that the cheapest flight tend to use cheapish Eastern European Airlines. Most of them are ok, but connections tend to be unpractical - although if you pay attention you can get a free hotel night thrown in.
+The Helsinki–Tallinn crossing is one of the busiest ferry routes in the world. Tallink Silja, Viking Line, and Eckerö Line all run the route several times daily; the crossing takes about two hours on a fast ferry. Overnight ferries connect Tallinn and Stockholm (around 16 hours). Ferries arrive at the passenger terminal in central Tallinn, a short walk or taxi ride from the Old Town.
 
- **Surface**
+**By bus**
 
- Asia and Europe share the longest continent border of the planet, though most people will cross from/to Asia in Istanbul, where a bridge spans the gap between the continent. Taking the transiberian express is another possiblity. From Greece there are boats to Turkey, Cyprus, Israel, Syria and Libanon.
+Lux Express and FlixBus operate long-distance coaches from Riga, Vilnius, Warsaw, and St Petersburg. The main bus station (Tallinn Bussijaam) is next to the train station.
 
- To Africa the most used route is without doubt the crossing of the Street of Gibraltar, which is easily done, but there are also ships between France and Algeria and from Italy to Tunis, Lybia and Egypt.
+**By rail**
+
+There is no direct rail link from Western Europe to Estonia. The planned Rail Baltica high-speed line will eventually connect Tallinn to Warsaw and Western Europe, but it is not yet operational.

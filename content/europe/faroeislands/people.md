@@ -3,58 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 41 834 (July 1998 est.)
+About 55,000 people live in the Faroe Islands, roughly half of them in and around [Tórshavn](/europe/faroeislands/torshavn). The Faroese are a North Atlantic people descended from Norse settlers who arrived around the 9th century, mixed with Celtic inhabitants from earlier waves of settlement. They are fiercely proud of their identity — neither quite Scandinavian nor quite British — and have maintained a distinct language and culture against considerable historical pressure.
 
-**Age structure:**
+**Language** is a mark of that pride. Faroese (Føroyskt) is a West Nordic language closely related to Icelandic and to Old Norse, and it survived centuries of Danish administration during which it was banned from schools and official life. Today it is the first language of daily life, taught in schools, and used in parliament and the church. Danish is also widely spoken, and most younger Faroese speak English well.
 
-*0-14 years:* 23% (male 4 971; female 4 777)
+The society is small and tight-knit. People know each other across the islands in a way that has almost disappeared in larger countries. Crime is low, trust in institutions is high, and the sense of community is genuine rather than performed.
 
-*15-64 years:* 62% (male 13 896; female 12 034)
+Religion plays a meaningful role. The established church is the Church of the Faroe Islands (Lutheran), and attendance is higher than in most of Scandinavia. The Plymouth Brethren also have a strong presence — an unusual legacy of 19th-century British missionary activity that shaped Faroese culture in lasting ways, including a tradition of temperance.
 
-*65 years and over:* 15% (male 2 759; female 3 397) (July 1998 est.)
-
-**Population growth rate:** -1.72% (1998 est.)
-
-**Birth rate:** 13.08 births/1 000 population (1998 est.)
-
-**Death rate:** 8.84 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -21.42 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1.15 male(s)/female
-
-*65 years and over:* 0.81 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 10.5 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 78.43 years
-
-*male:* 75.53 years
-
-*female:* 81.45 years (1998 est.)
-
-**Total fertility rate:** 2.36 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Faroese (singular and plural)
-
-*adjective:* Faroese
-
-**Ethnic groups:** Scandinavian
-
-**Religions:** Evangelical Lutheran
-
-**Languages:** Faroese (derived from Old Norse) Danish
-
-**Literacy:** NA
-
-*note:* similar to Denmark proper
+The Faroese economy is built primarily on fishing and aquaculture; farmed Atlantic salmon from the Faroes is exported worldwide. The islands receive a substantial block grant from Denmark, though there is an active and ongoing political debate about independence.

@@ -5,24 +5,19 @@ latitude: 24.720882
 longitude: 93.922939
 ---
 
-Manipur has a few unique sights. It has the biggest fresh water lake in India, the Loktak Lake, which is a veritable miniature inland sea. In the lake there are small islands of floating weed on which the lake people and the dancing deer live. 
+Manipur — the "jewelled land" — is one of India's smallest and most isolated states, tucked up against the Myanmar border in the far north-east. The Manipur valley is in fact a green plateau at about 700 metres, ringed by mist-topped forested mountains, with rice fields stretching flat between them. Most of the state's three million people are Meiteis who live on this plateau; the surrounding hills are home to dozens of Naga and Kuki-Chin tribes, each with their own language, dress and traditions.
 
+The star sight is **Loktak Lake**, the largest freshwater lake in north-east India, dotted with *phumdis* — the extraordinary floating islands of matted vegetation on which the local fisherfolk build their huts and the last wild population of the rare Sangai (the "dancing deer") picks its way across the reeds. **Keibul Lamjao**, on the south edge of the lake, is the world's only floating national park, created to protect the Sangai. Manipur is also famously the birthplace of **polo** — played here as *sagol kangjei*, horse hockey, long before the British adopted it — and it remains a village sport rather than an elite one.
 
- Manipur is also well known as the homeland of the game of Polo. It is known locally as Sagol Kangjei, or horse hockey. While polo has become an elitist game everywhere else in the world, in Manipur it is played in the remotest villages, though the rules are slightly different from those of modern polo. 
-
-
- The so- called Manipur valley is really a plateau about 700 meteres high, watered by rivers threading out of the dark, mist-topped, ranges. Bright green fields stretch all the way to the distant mountains. 
- 
- 
- 
- 
+The state has been troubled by insurgency and ethnic conflict for decades, and travel can be complicated; permits are no longer required for Indian citizens but may be for foreigners depending on current rules. For those who do make it, the reward is a part of India that feels genuinely unlike anywhere else on the subcontinent: Tibeto-Burman faces, bamboo houses on stilts, women running the markets, and a landscape more reminiscent of highland Myanmar than of the Ganges plain.
 
 ## Destinations in Manipur
 
-[Imphal](/asia/india/manipur/imphal)
-[Mao](/asia/india/manipur/mao)
-[Ukhrul](/asia/india/manipur/ukhrul)
-[Tengnoupal](/asia/india/manipur/tengnoupal)
-[Moirang](/asia/india/manipur/moirang)
-[Khongjom](/asia/india/manipur/khongjom)
-[Churachandpur](/asia/india/manipur/churachandpur)
+- [Imphal](/asia/india/manipur/imphal) — the capital, with the Kangla Fort and the famous women's market, Ima Keithel
+- [Moirang](/asia/india/manipur/moirang) — on the shore of Loktak Lake, important in the 1944 INA campaign
+- [Ukhrul](/asia/india/manipur/ukhrul) — hill town in the Tangkhul Naga heartland
+- [Mao](/asia/india/manipur/mao)
+- [Tengnoupal](/asia/india/manipur/tengnoupal)
+- [Khongjom](/asia/india/manipur/khongjom)
+- [Churachandpur](/asia/india/manipur/churachandpur)
+- [Kakching](/asia/india/manipur/kakching)

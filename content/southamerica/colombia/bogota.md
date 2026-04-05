@@ -1,32 +1,14 @@
 ---
 title: "Bogota"
 type: location
-latitude: 4.653382
-longitude: -74.083633
+latitude: 4.7110
+longitude: -74.0721
 ---
 
-Most visitors begin their trip to Colombia in the capital: {**Bogota**.} Also known as Santa Fe de Bogota the city is set at an altitude of 22640 meter (over 18000 feet) with high ranges of the Cordillera to the east and it can happen that you need some time to adjust to this altitude, if you are coming from lower parts of the country or flying in. 
+Bogota sits at 2,640 metres in the eastern Andes, a sprawling capital of eight million people where colonial churches share blocks with glass towers and street art covers every spare wall. The altitude catches newcomers off guard -- the air is thin, the sun surprisingly strong, and the temperature hovers around 14 degrees year-round. Give yourself a day to adjust before tackling the hills.
 
+The historic heart is **La Candelaria**, a tight grid of cobblestoned streets lined with painted colonial houses, universities, and more museums per block than anywhere else in South America. **Plaza Bolivar** anchors the district, flanked by the cathedral, the congress, and the Palace of Justice. From here it is a short walk to the **Museo del Oro**, home to the world's largest collection of pre-Columbian gold, and the **Museo Botero**, where Fernando Botero's rotund figures share space with Picassos and Dalís.
 
+The cable car up **Monserrate** is the one thing every visitor does, and for good reason -- the view from 3,150 metres over the city and the savanna beyond is extraordinary. Go on a clear morning. The northern neighbourhoods around the Zona Rosa and Parque de la 93 are where Bogotanos go out at night: salsa clubs, craft beer bars, upscale restaurants. The contrast with the grittier south is sharp.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Most of the sights of the city are in the historic central neighborhood of **La Gioconda. **The **Plaza Bolivar** is the principle square and is where the seat of government is. The buildings around it are built in colonial style with wide-eaved balconies. Nearby is the cathedral which is worth a visit. 
-
-Bogota’s most breathtaking museum is the **Museo del Inca **(Inca Museum). For more information on this museum and others visit our museums section. Downtown Bogota with shops, offices and bank is also an interesting area to stroll around. Most of the best hotels are located in the North of the city. The same aplies for the better restaurants. Possible day trips from Bogota include a trip to the salt mines of [Zipaquira](/southamerica/colombia/zipaquira) ), where you would find a whole cathedral built inside the salt mines. Another pleasant excursion from Bogota is Antioquia .
+Bogota is the jumping-off point for day trips to the salt cathedral of [Zipaquira](/southamerica/colombia/zipaquira), the colonial village of Villa de Leyva, and the lakes and páramo of the surrounding highlands. Spend at least three days here -- the city rewards those who slow down and wander.

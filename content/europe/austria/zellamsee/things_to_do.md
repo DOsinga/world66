@@ -1,18 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Other"
-url: "www.sbg.at"
 ---
 
-03.9-10.9
+In winter the focus is skiing and snowboarding across the Schmittenhöhe and Kitzsteinhorn-Kaprun areas, which together form the Europa Sports Region. One lift pass covers both. The Kitzsteinhorn glacier allows skiing year-round. Snowshoeing, winter hiking, and ice skating are alternatives for non-skiers.
 
-### [Horse Back Riding](/europe/austria/zellamsee/things_to_do/horse_back_riding)
+In summer, Zeller See is the town's main draw — clean, swimmable from June to September, with a municipal lido (Strandbad), pedal and rowing boats for hire, and boat trips to the far shore. The lake path circles the entire shoreline in around 3 hours on foot. Mountain biking trails descend from the Schmittenhöhe, and there are well-marked hiking routes at all levels from the valley floor up to alpine terrain.
 
-**Reitclub Porsche **is situated in Schüttdorf about 3,5 kilometers from Zell am See, in the southern part of the lake. There're about 40 ponies and half blood horses, which are suitable for beginners and advanced riders. Lessons are kept in an indoor hall and outside in the nature.
-
-type: Other
-
-
-
-url: [www.sbg.at](http://www.sbg.at/porsche-reitclub/)
+The Church of St Hippolytus in the old town centre dates from the Romanesque period and has notable medieval carved figures. The Vogtturm (watchtower) now houses the local history museum, covering the region from prehistoric times through the Nawab-era — including exhibits on the area's agricultural and alpine traditions.

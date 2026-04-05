@@ -1,19 +1,10 @@
 ---
 title: "Explore the Banffshire Coast"
 type: poi
-type: "Trekking"
-url: "www.banffshirecoast.com"
+category: "Sight"
+address: "Banffshire Coast, Aberdeenshire"
+latitude: 57.6900
+longitude: -2.6500
 ---
 
-Explore the Banffshire coast from [Cullen](/europe/unitedkingdom/scotland/cullen) to [Pennan](/europe/unitedkingdom/scotland/pennan) visit the variety of wonderful beaches at [Cullen](/europe/unitedkingdom/scotland/cullen), Sandend, [Banff](/northamerica/canada/alberta/banff) and Cullykhan. Cliffs at [Cullen](/europe/unitedkingdom/scotland/cullen), Findlater Castle, Tarlair, [Gardenstown](/europe/unitedkingdom/scotland/gardenstown), and the amazing Troup Head packed with all types of sea birds.
-
-**Contributors**
-February 12, 2006
-
-type: Trekking
-
-
-
-
-
-url: [www.banffshirecoast.com](http://www.banffshirecoast.com)
+The Banffshire coast between Cullen and Pennan is one of the most dramatic stretches of the Scottish mainland, with sandstone cliffs, sea stacks, and a series of small fishing villages. Key points include Sandend Bay, the ruins of Findlater Castle perched on a headland, the cliff colony of seabirds at Troup Head, and the remote villages of Gardenstown and Pennan. Coastal walking is excellent throughout.

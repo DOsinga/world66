@@ -1,10 +1,8 @@
 ---
-title: "Ada"
+title: 'Ada'
 type: location
-latitude: 38.839894
-longitude: -83.50517
+latitude: 34.7696
+longitude: -96.6783
 ---
 
-Travel Guide
-
-Located in Pontotoc County, Oklahoma, Ada is a city of over 15,600 people. Evangelist Oral Roberts was born in Ada.
+Located in Pontotoc County in south-central Oklahoma, Ada is a city of over 15,600 people. Evangelist Oral Roberts was born here. The city is the headquarters of the Chickasaw Nation and home to East Central University.

@@ -3,11 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-The most common way to get around in Lima is by taxi. As with anywhere in Peru, passengers must always negotiate the price of the trip before entering the vehicle. This is important so that passengers don't end up pay far more than they should for a ride.
+Lima is vast and sprawling, but most visitors spend their time in a fairly small triangle — the historic centre, Miraflores, and Barranco — and for that, **taxis** (or, increasingly, Uber and Cabify) are the simplest option. Metered taxis are rare: with a street cab you negotiate the fare before getting in, and foreigners should expect to be quoted double the local rate. Uber is cheap, honest and widely used.
 
-Passengers should take caution and keep an eye on valuables at all times. A common trick for pedestrians is to walk up to a taxi, reach in an open window, and take off with a passenger's possession that is in plain sight. It is always a good idea to put larger bags and backpacks in the trunk and out of sight.
+Lima's one modern **Metro line** (Linea 1) runs along the eastern edge of the city and is not much use for sightseeing; a second line through the centre is under long-running construction. The cheap and fast **Metropolitano** bus-rapid-transit system is genuinely useful — its main line runs the full length of the city from Chorrillos in the south through Barranco and Miraflores to the historic centre and beyond. The local *micros* and *combis* (minibuses) are chaotic, cheap, and not recommended unless you speak Spanish and have time to work out the routes.
 
-Lima is a place where passengers should be especially careful when riding in taxis at night. Most drivers are okay, but it is regularly reported that taxi drivers have stolen money from passengers late at night.
-
-**Contributors**
-December 14, 2006
+Safety: Lima is much safer than it was twenty years ago, but pickpockets and phone snatchers are still a problem in the centre, at busy markets, and around bus stations. Avoid unmarked taxis at night.

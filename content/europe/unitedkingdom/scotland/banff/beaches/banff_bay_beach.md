@@ -1,9 +1,10 @@
 ---
 title: "Banff Bay Beach"
 type: poi
+category: "Sight"
+address: "Banff Bay, Banff AB45"
+latitude: 57.6718
+longitude: -2.5155
 ---
 
-Situated at the mouth of the river Deveron just below the Deveron Bridge is a nice small beach convenient from the town, usually lots of birds around and the occasional seal.
-
-**Contributors**
-February 12, 2006
+A small sheltered beach at the mouth of the River Deveron, just below the Deveron Bridge. The location attracts wading birds and occasional seals and is an easy walk from the town centre.

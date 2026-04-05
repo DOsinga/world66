@@ -1,16 +1,10 @@
 ---
-title: "Alwar"
+title: 'Alwar'
 type: location
-latitude: 27.414005
-longitude: 76.617039
+latitude: 27.5530
+longitude: 76.6346
 ---
 
-Alwar, 170 Kms south of Delhi, is the oldest city in Rajasthan and is a popular city with archaeologists because of its historically interesting sights. You will also find many monuments around Alwar that are named after Pandavas. The city has a beautiful lake and a picturesque valley.
+Alwar is one of the oldest cities in Rajasthan, sitting 170 km south of Delhi at the edge of the Aravalli Range. The city itself has a handsome palace, a hilltop fort (Bala Quilla), and the peaceful Jai Samand Lake, but most visitors come for the Sariska Tiger Reserve just 35 km away.
 
-
- 
- The Sariska Sanctuary is only some kilometres away from Anwar and is declared a tiger reserve. It is located in the Aravali Hills and beside the fact that you might spot a tiger here, there are other impressive rare birds and plants to be seen. If you want to have more information on Sariska, check out the Sariska National Parks section.
-
-
- 
- Last Modified on 10th December, 2002.
+Sariska is smaller and less visited than Ranthambore, which works in its favor. Tiger sightings are less reliable, but you will have the Aravalli hills largely to yourself, along with leopards, nilgai, and an impressive variety of birdlife. The Neemrana Fort Palace, a heritage hotel built into a 15th-century fort between Alwar and Delhi, is one of the most atmospheric places to stay in the region.

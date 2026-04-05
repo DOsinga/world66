@@ -1,31 +1,26 @@
 ---
-title: "Budget Travel Ideas in South Korea"
+title: "Budget Travel Ideas"
 type: section
 ---
 
-In **South Korea, budget travel** is entirely possible. If you're trying to travel the country on a shoe-string budget, here are a few tips to help you save money on everything from accommodations to souvenirs.
+South Korea is not Southeast Asia cheap, but it is considerably cheaper than Japan, and a resourceful traveler can get by well on a modest daily budget.
 
-**Accommodations **
+**Accommodation**
 
-Hotels can greatly increase the cost of your trip, but South Korea has an easy solution: the jjimjilbang. These public bath houses can be used for overnight stays for the equivalent of just $ 5 to 15 U.S. You'll be provided with pajamas and a couple of towels, and you'll have access to steam rooms, hot tubs, cold pools and a dark and quiet sleeping area. You'll even be given a key to a locker, so you know your stuff will be safe.
+The *jjimjilbang* — a public sauna and bathhouse — is the classic budget option. For around 10,000–15,000 won (roughly $7–11) you get access to the baths, steam rooms, and a communal sleeping area. You are given pyjamas and a towel; there are usually snacks and sometimes a TV lounge. It is perfectly decent and gives you a genuine slice of Korean daily life. Guesthouses and hostels are the next step up. *Yeogwan* (Korean-style inns with floor sleeping) are found in most towns and are usually clean and inexpensive.
 
 **Food**
 
-If you're going to save money on food then you're going to have to eat like a local. But half of the experience of traveling is trying out new things, so saving money is just a bonus. For the cheapest eats try things like samgyupsal, a local barbecue that is basically thick rashers of bacon marinaded in various sauces and cooked right on the table. You then use lettuce leaves to make a little pouch with a few fixings, and it costs you less than $3. Or you can grab a friend and head out for some dakgalbi, a spicy mixture made of chicken and cabbage that's sure to please the palate and the wallet.
+Eating Korean food rather than anything imported is the obvious way to save money, and it is also the better option. A filling bowl of *gukbap* (rice soup) or *kimbap* (rice rolls) from a basic restaurant costs 4,000–7,000 won. Street food — *tteokbokki*, *odeng* (fish cake), *hotteok* (sweet pancakes) — fills the gaps for almost nothing. Supermarket chain convenience stores like CU and GS25 sell decent prepared food, triangular *jumeokbap* rice balls, and hot food around the clock.
 
-**Travel **
+**Transport**
 
-Get yourself a T-money card to save on metro and bus fares, and if you're going to take the train then hold out for the Mugunghwa. It's slightly smaller and makes more stops than either the Saemaul or the KTX, but you'll save a few dollars. Taxis are always an expensive option, but if you find you have to take one, make sure you hop into a white or gray cab rather than the "luxury" black cabs.
+A T-money card saves money on every bus and metro journey. The metro in Seoul is one of the cheapest and most efficient in the world. For intercity travel, slower Mugunghwa trains are significantly cheaper than KTX; express buses from the terminal are usually the cheapest option of all and perfectly comfortable.
 
 **Sights**
 
-Rather than heading into the many museums that cost money, visit the hundreds of temples, palaces and parks that are outdoors, exceedingly beautiful, and free. You'll get a better feel for both Korean history and Korean life today. There are always plenty of locals around who are willing to give you a bit of a tour. Just smile and say "hello."
+Many of the best things in Korea are free or very cheap: national parks charge small entrance fees, palaces cost 3,000–5,000 won, temples are generally free or ask a small donation. Hiking is free. Markets are free. Watching the changing of the guard at Gyeongbokgung is free.
 
 **Shopping**
 
-Whatever you do, avoid foreign imports, especially when grocery shopping. And when you're out searching for the perfect souvenir to bring home to cousin Mildred, remember to haggle. You're sure to shave a couple of dollars off of the price, if not halve it completely. Just remember to be polite.
-
-**Contributors**
-February 02, 2010
-
-January 28, 2010
+Haggling is possible at outdoor markets — polite but direct — and you can often shave 20–30% off the asking price. Avoid foreign imports; locally produced food, cosmetics, and clothing are cheaper and often better.

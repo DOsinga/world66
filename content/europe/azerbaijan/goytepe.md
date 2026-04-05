@@ -5,9 +5,7 @@ latitude: 39.119731
 longitude: 48.595135
 ---
 
-Travel Guide
-
-Formerly known as Priship, this small town is located on the southern part of [Celilabad / Jalilabad](/europe/az-celilabad.html) rayon, on the road leading south to [Masalli](/europe/az-masalli.html), [Astara](/europe/az-astara.html) and the Iranian border.
+Formerly known as Priship, this small town is located in the southern part of the Jalilabad rayon, on the road leading south to [Masally](/europe/azerbaijan/masally), [Astara](/europe/azerbaijan/astara) and the Iranian border.
 
 G ö ytepe used to house a Soviet garrison but now both military and civilian Russians are gone. The main attraction are the numerous old Russian houses, built in wood in the northern style. There is also an Orthodox church, which lies semi-abandoned as there is no longer a Christian community.
 

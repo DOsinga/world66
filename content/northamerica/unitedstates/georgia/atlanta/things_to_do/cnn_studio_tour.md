@@ -1,12 +1,11 @@
 ---
 title: "CNN Studio Tour"
 type: poi
-address: "One CNN Center, Marietta St & Techwood Dr, Atlanta, GA 30303"
+category: "Sight"
+address: "One CNN Center, Marietta St NW & Techwood Dr, Atlanta, GA"
 phone: "(404) 827-2300"
-url: "www.cnn.com/tour"
-opening_hours: "Daily 9am–5pm; closed major holidays"
-latitude: 33.758741
-longitude: -84.395875
+latitude: 33.7584
+longitude: -84.3963
 ---
 
-A 50-minute walking tour through the world headquarters of CNN, including views over the main studio floor. The tour explains how a 24-hour news network operates. Tickets should be booked in advance. Located in the CNN Center complex adjacent to Centennial Olympic Park.
+A 55-minute walking tour through the world's largest news gathering operation, including a look at working broadcast sets and control rooms. Tours run every 15 minutes daily from 9am to 5pm, closed on major holidays.

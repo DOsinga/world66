@@ -1,27 +1,30 @@
 ---
-title: "Things to do in Benin city"
+title: "Things to Do"
 type: section
 ---
 
-**Benin City: Things to do**. Benin City is filled with wonderful attractions and destinations that are both visually and intellectually stimulating. Beyond the standard fare of nightclubs and restaurants, there are a few locations that anyone looking to broaden their perspective on African culture should visit.
+Benin City's main attractions are rooted in its imperial past. The Benin Empire left behind palaces, sculptures, and ceremonial traditions that still define the city. Most sights cluster around King's Square in the city center, making it easy to visit several in a single morning.
 
-**Benin Museum**
+**Benin City National Museum**
 
-The Benin Museum is located in the city center around King’s square and houses some of the world’s rarest artwork and sculpture, mostly pertaining to artifacts related to the Benin Empire (1440-1897). It has artwork like bronze figures, terra-cottas and cast iron pieces portraying scenes from the Benin Empire that range from daily life of the Bini people to the profiles of Edo kings. Benin Brass work is some of the most remarkable craftsmanship in the world and of course these pieces are one of a kind and cannot be seen anywhere outside of Nigeria. The museum also holds modern artwork, much of which was created by the local Nigerians.
+The National Museum on King's Square houses some of the rarest Benin bronzes still in Nigeria — cast bronze figures, terra-cotta pieces, and iron sculptures depicting scenes from the Benin Empire (1440–1897). The collection includes both ancient court art and modern work by local artists. Given how much was looted by the British in 1897, what remains here is precious.
 
-**The Oba’s Palace**
+**The Oba's Palace**
 
-During the reign of the Benin Empire, the “Oba” (or King) resided in the Oba’s Palace. The palace also acted as a fortress and stronghold for when the British invaded Nigeria in 1897. This monumental architectural masterpiece is adorned with paintings and brass works that were notable for their era. It is also surrounded by larger-than-life statues that depict members of Nigerian nobility.
-
-**Ogba Zoo**
-
-Founded in 1915, the Obga Zoo is a refuge to much of Benin City’s local wildlife. It also houses more than 10 hectares of trees, plants and other vegetation. Obga Zoo has served partially as a recreational park for the animals and has provided scientific and intellectual value for Nigeria.
+The Oba's Palace near King's Square dates back centuries and served as both royal residence and fortress. The architecture is adorned with paintings and brass works, and the grounds feature imposing statues of Nigerian nobility. The palace remains the seat of the Oba of Benin and is still used for ceremonies and audiences.
 
 **Emotan Statue**
 
-The **Emotan Statue** is perhaps Benin City’s most well-known piece of artwork. The statue was erected in honor of Emotan, a patriotic woman who traded foodstuffs with the Portuguese during the 15th century. She warned the Ogun, an Edo State king, of impending dangers on many occasions and risked her life to do so. For this reason, a statue was placed at the very spot where Emotan used to display her goods in the Edo market. To this day, anyone (including the Oba himself) who wants to conduct a ceremony of any kind must pay homage to this status.
+Benin City's most recognized piece of public art honors Emotan, a market woman who traded with the Portuguese in the 15th century and repeatedly warned the Edo king of dangers at great personal risk. The statue stands at the spot where she once displayed her goods. By tradition, anyone conducting a public ceremony — including the Oba himself — must first pay homage here.
 
-**Contributors**
-April 04, 2010
+**Ogba Zoo**
 
-April 13, 2010
+Founded in 1915, the Ogba Zoo sits about 6 km from the city center and covers some 20 hectares of trees and parkland. It serves as a refuge for local wildlife and a recreational park for families. The grounds are pleasant for a walk even if the animal collection is modest by international standards.
+
+**Benin Moat (Iya)**
+
+The ancient moat system that once encircled the Benin Empire is considered one of the largest man-made earthworks in the world. While much has been encroached upon by urban growth, sections of the moat survive and offer a striking reminder of the city's former scale and defensive engineering.
+
+**Holy Aruosa Cathedral**
+
+Believed to be the oldest church in Nigeria, the Holy Aruosa Cathedral reflects the deep spiritual traditions of the Edo people. It is worth a visit for its historical significance and the unique blend of Christian and traditional Edo worship.

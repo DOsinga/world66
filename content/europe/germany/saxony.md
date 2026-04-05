@@ -1,26 +1,14 @@
 ---
 title: "Saxony"
 type: location
-latitude: 50.92958
-longitude: 13.458505
+latitude: 50.9296
+longitude: 13.4585
 ---
 
-Saxony ("Sachsen" in German) has a rich history and cultural heritage. In former times it was one of the most important German kingdoms and between 1949 and 1989 Sachsen was the highest developed state in former East-Germany. You can comprehend, that Saxony had a varied history and was divided several times in the past before it became to the state it currently is. Saxony is highly industrialized and therefore not the cleanest German state, but besides this, it has a lot of cultural sights to offer.
+Saxony (Sachsen) is the southeastern corner of Germany, bordered by Poland to the east and the Czech Republic to the south. It was once one of the most powerful kingdoms in Europe, and the remnants of that wealth are everywhere: in the Baroque splendour of [Dresden](/europe/germany/saxony/dresden), in the porcelain factories of [Meissen](/europe/germany/saxony/meissen), in the Gothic cathedrals of [Bautzen](/europe/germany/saxony/bautzen), and in the landscapes of the Erzgebirge mountains and the Sächsische Schweiz national park.
 
+[Dresden](/europe/germany/saxony/dresden) is the jewel — the rebuilt Frauenkirche, the Zwinger palace, and the Semperoper make it one of the finest Baroque cities in Europe, despite being almost completely destroyed in 1945. [Leipzig](/europe/germany/saxony/leipzig), historically the city of trade fairs and Bach, is the region's second city — younger, grittier, and increasingly creative. [Meissen](/europe/germany/saxony/meissen) is a gentle day trip from Dresden with its blue-and-white porcelain tradition dating to 1710.
 
- 
-[Dresden](/europe/germany/saxony/dresden), situated on the river Elbe, is the cultural center and the former capital of the Saxon kings. It is still one of the most beautiful cities in Germany with a huge architectural heritage and very large cultural offers. In
-[Chemnitz](/europe/germany/saxony/chemnitz), formerly known as the Karl-Marx Stadt, Saxony's business heart pulses. Chemnitz is a modern city with extensive green areas and an exciting landscape all around.
-[Meissen](/europe/germany/saxony/meissen) is worldwide famous for its precious porcelain. The town of Meissen, founded over one thousand years ago, likes to think of itself as the cradle of Saxony.
+The Sächsische Schweiz national park east of Dresden is the most dramatic landscape in the region — sandstone pillars and gorges carved by the Elbe, excellent for hiking and rock climbing. The Erzgebirge (Ore Mountains) along the Czech border was the medieval centre of silver mining and still produces intricate wooden crafts.
 
-
- 
- But just as different as the sax are, are the regions of Saxony, in which they live: the pulse of urban Dresden - the more quiet regions of Saxony, like the Erzgebirge or the
-[Sachsische schweiz](/europe/germany/saxony/sachsischeschweiz) or the hidden treasures on Saxony's Silver Road (Silberstrasse).
-
-## Destinations in Saxony
-
-[Dresden](/world/europe/germany/saxony/dresden)
-[Leipzig](/world/europe/germany/saxony/leipzig)
-[Chemnitz](/world/europe/germany/saxony/chemnitz)
-[Meissen](/world/europe/germany/saxony/meissen)
+Getting around by train is easy: the ICE connects Dresden and Leipzig to the wider German network, and regional trains reach the smaller towns.

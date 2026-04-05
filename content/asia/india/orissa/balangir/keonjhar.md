@@ -1,5 +1,5 @@
 ---
-title: "Keonjhar"
+title: 'Keonjhar'
 type: location
 latitude: 21.5
 longitude: 85.5

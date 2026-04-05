@@ -1,21 +1,10 @@
 ---
 title: "NE Dive"
 type: poi
-type: "Swimming"
-url: "www.northeastdive.co.uk"
-latitude: 52.0474
-longitude: -1.362078
+category: "Sight"
+address: "Banff Harbour, Banff AB45"
+latitude: 57.6703
+longitude: -2.5175
 ---
 
-Scuba diving at Banff Harbour.
-
-**Contributors**
-February 12, 2006
-
-type: Swimming
-
-
-
-
-
-url: [www.northeastdive.co.uk](http://www.northeastdive.co.uk/)
+NE Dive offers scuba diving from Banff Harbour. The Banffshire coast has clear water with varied marine life including kelp forests, crabs, and occasional seals.

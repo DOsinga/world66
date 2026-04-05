@@ -1,18 +1,16 @@
 ---
-title: "Montréal"
+title: 'Montreal'
 type: location
 latitude: 45.503182
 longitude: -73.569806
 ---
 
-Canada's second-largest city sits on an island in the St. Lawrence River, and it does things differently from the rest of the country. Montréal is officially French-speaking — about 55% of the population are native francophones — but it has always been a bilingual, polyglot city, and that collision of cultures gives it a particular energy you don't find elsewhere in North America. Food, nightlife, architecture and music are all taken seriously here, and the city's warmth survives even the most brutal winters.
+Montreal is the beating heart of French-speaking North America and one of the most culturally rich cities on the continent. Built on an island in the St. Lawrence River, it blends European charm with North American energy in a way no other city quite manages. The locals call it *joie de vivre* -- joy of living -- and you will feel it in the packed terrasses on summer evenings, the underground city humming through winter, and the seemingly endless cycle of festivals that keeps the streets alive year-round.
 
-The island is dominated by Mount Royal, the 233-metre hill at its centre that gives the city its name. Below the mountain, the city spreads out in a rough grid broken by the old neighbourhoods: [Old Montréal](/northamerica/canada/quebec/montreal/things_to_do/old_montreal) along the waterfront, the dense residential streets of the Plateau, the immigrant neighbourhood of Mile End, and downtown's underground city of shopping malls and Metro corridors.
+The city is a genuine melting pot. French is the mother tongue, but English is everywhere, and waves of immigration from Haiti, North Africa, Italy, Greece, Portugal, and Latin America have layered the culture and especially the food. You will hear conversations shift between languages mid-sentence. This is not Paris and it is not New York -- it is something entirely its own.
 
-The food scene is one of the best in North America. The smoked meat sandwich — aged, spiced brisket on rye — is the local institution; [Schwartz's](/northamerica/canada/quebec/montreal/eating_out/schwartz_smoked_meat) on boulevard Saint-Laurent has been serving it since 1928. Poutine (fries with cheese curds and gravy) is everywhere. The BYOB restaurant culture, where you bring your own wine and pay no corkage, makes eating out considerably more affordable than comparable cities.
+Montreal's neighborhoods each have a distinct personality. The cobblestoned streets of **Old Montreal** feel like stepping into a French port town, with the [Notre-Dame Basilica](/northamerica/canada/quebec/montreal) and the Old Port as anchors. The **Plateau Mont-Royal** is bohemian and walkable, lined with colorful row houses, independent bookshops, and some of the best restaurants in the city. **Mile End** is the creative quarter -- bagel shops, coffee roasters, street art, and music venues. **Downtown** has the skyscrapers, the shopping, and the underground city that connects 33 kilometers of tunnels, malls, and metro stations. **The Village** is one of North America's largest LGBTQ+ neighborhoods, especially vibrant during summer when Sainte-Catherine Street becomes a pedestrian zone.
 
-Montréal has a festival for every month. The Jazz Festival and Just for Laughs comedy festival are international-scale events; dozens of smaller festivals fill the summer calendar. The outdoor concert stages in the Quartier des Spectacles mean the city centre is effectively a free music venue from June to September.
+You cannot visit Montreal without trying a **smoked meat sandwich** -- thick-cut, peppery, piled on rye bread with mustard. **Schwartz's** on Saint-Laurent has been serving them since 1928 and the line out the door is part of the experience. The other essential is **poutine** -- fries, cheese curds, and gravy -- which ranges from classic greasy-spoon versions to creative gourmet interpretations all over town.
 
-Winters are genuinely harsh — up to three metres of snow a year, temperatures regularly below -20°C with wind chill. The city doesn't shut down; it adapts. The 33-kilometre underground city, the world's largest, connects Metro stations, offices, hotels and shopping centres. Cross-country skiing on Mount Royal is possible from December. The Quebec Winter Carnival in nearby Québec City is worth a day trip.
-
-**Getting there:** Montréal-Trudeau Airport (YUL) has direct flights across North America and to Europe. VIA Rail connects to Québec City (3 hours), Ottawa (2 hours) and Toronto (5 hours).
+The city is a major transportation hub with direct flights from across North America and Europe into Trudeau International Airport (YUL), and easy highway and rail connections to [Toronto](/northamerica/canada/ontario/toronto), [Ottawa](/northamerica/canada/ontario/ottawa), [Quebec City](/northamerica/canada/quebec/quebeccity), and the US northeast.

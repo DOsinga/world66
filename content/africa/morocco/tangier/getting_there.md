@@ -3,16 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-From Spain, ferries run regularly (several a day) from both Tarifa and Algeciras. From Tarifa the fast ferry is only 35 minutes but you should not expect any of these lines to run on schedule. Expect delays of up to several hours. Also, from Spain to Morocco there is a time change. During summer (daylight savings) the difference is two hours earlier in Morocco. In the winter, it is only one hour early than in Spain.
+Tangier is one of the easiest Moroccan cities to reach. Fast ferries run several times a day from Tarifa in Spain, taking about 35 minutes, though delays are common. Longer ferry services also operate from Algeciras. Keep in mind the time difference: Morocco is one hour behind Spain in winter, two hours in summer.
 
-Some of the companies that run ferries include:
+The city's Ibn Battouta Airport has flights to several European cities and Moroccan destinations. The new high-speed train (Al Boraq) connects Tangier to Casablanca in just over two hours via Rabat and Kenitra, making rail a comfortable option if you are already in Morocco.
 
-FRS: http://www.frs.es/
-Trasmediterranea: https://www..es
-FerriMaroc: http://www.ferrimaroc.com/
-EuroFerrys: http://www.euroferrys.com/
-Comarit: http://www.comarit.com
-
-Once you arrive, the CTM (national bus line) station is only seconds walk from the gate of the port. Do not take a taxi there, you do not need it.
-
-The train station (ONCF) is further: Take a petit taxi and do not pay more than 50Dirham. Try to get the fare on the meter. If this is the case, you will probably pay about 10Dh.
+From the ferry port, the CTM bus station is a short walk away. For the train station, take a petit taxi: the metered fare should be around 10 to 15 dirhams.

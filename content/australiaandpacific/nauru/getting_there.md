@@ -3,22 +3,18 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Nauru's national airline is *Air Nauru (ON).*
+The only practical way to reach Nauru is by air. Nauru Airlines (formerly Air Nauru, IATA code ON) operates the island's sole air links. As of 2025, the airline flies from Brisbane (Australia), Nadi (Fiji), and Tarawa (Kiribati), with connections onward to Micronesian islands including Pohnpei, Majuro, and Palau. Brisbane and Nadi are the main entry points for international travellers, both offering worldwide connections.
 
-Approximate flight time
+Flights are infrequent — typically a few times a week per route — and schedules change regularly. Runway works at Nauru International Airport (INU) are periodically scheduled, which can disrupt services. Check the Nauru Airlines website (nauruair.com) for current schedules before booking anything else.
 
-From *London* to Nauru Island is 31 hours including stopovers in Hong Kong Manila Koror and Guam.
+The airport is a short drive from the main settlement of Yaren. Taxis and informal lifts are available on arrival.
 
-International airport:
+## Visas
 
-*Nauru Island (INU). *There are buses to the town available after every arriving flight costing approximately A$1. Taxis are also available. Airport facilities include restaurant snack bar bar shops and tourist information.
+Nearly all visitors require a visa in advance. A handful of Pacific island nationalities receive visa-on-arrival, but most travellers — including those from Australia, the United States, and Europe — need to apply beforehand. The fee is around A$100 and processing can take several weeks, so apply at least a month before travel. Contact the Nauru consulate or embassy in your country, or the Department of Foreign Affairs in Nauru.
 
-Departure tax:
+## By Sea
 
-A$10 per person on departure. Passengers under 12 years of age are exempt.
-
-Sea
-
-The international port is Nauru*.* Main sealinks are with Australia New Zealand and Japan. Coastal hazards force commercial vessels to moor some way offshore at what are reputed to be the deepest permanent anchorages in the world.
+There is no regular passenger shipping service to Nauru. Cargo vessels call periodically, but arranging passage is difficult and unreliable. The open ocean approach is complicated by deep-water anchorages — the reef prevents vessels from docking close to shore — so freight and fuel are offloaded by barge. Unless you are arriving on a yacht, fly.

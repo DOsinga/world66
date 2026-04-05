@@ -1,10 +1,9 @@
 ---
-title: "Oh Calcutta!"
+title: 'Oh! Calcutta'
 type: poi
-address: "3rd Floor, Forum Shopping Mall, 10/3 Elgin Road, Kolkata 700020"
-price: "₹1500-2000 for two"
-latitude: 22.536186
-longitude: 88.355892
+address: 'The Forum, 10/3 Elgin Road, Kolkata 700020'
+latitude: 22.5385
+longitude: 88.3504
 ---
 
-The best restaurant in the city for refined Bengali cooking. The space is elegant, the service attentive, and the kitchen understands that Bengali food is not simply about heat. The tomato kashundi (a sharp mustard condiment with tomato), the bekti meuniere with lemon butter, and the ata'r paayesh (rice pudding with custard apples) are all signatures. The lunch thali is excellent value. Reservations are advisable on weekends.
+Possibly the best restaurant in the city when you consider the space, decor, service, and above all the food. Oh! Calcutta strives for fusion cuisine that retains the character of Bengal. The tomato kashundi, the bekti meuniere with lemon butter, and the rice pudding flavored with custard apple are all outstanding. Not cheap by Kolkata standards, but worth every rupee for a special meal.

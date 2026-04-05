@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Rarotonga"
+title: "Bars and Cafes"
 type: section
 ---
 

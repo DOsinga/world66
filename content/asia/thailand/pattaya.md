@@ -1,22 +1,12 @@
 ---
 title: "Pattaya"
 type: location
-latitude: 12.936692
+latitude: 12.9367
 longitude: 100.8865
 ---
 
-Travel Guide
+Pattaya is Thailand's original beach resort, 147km southeast of [Bangkok](/asia/thailand/bangkok) on the Gulf of Thailand. It has an enormous amount of infrastructure built up around tourism — sprawling beach road, shopping malls, seafood restaurants, bars — and a reputation it has been working hard to move past. The city is brash and busy, and it delivers what it promises: reliable beaches, good food at every price point, and easy transport to offshore islands and the surrounding Chonburi province.
 
-We currently have no information about Pattaya.
+Jomtien Beach, south of the main strip, is quieter and better for swimming. Ko Larn, a small island 45 minutes by speedboat, has cleaner water and good snorkelling. The Sanctuary of Truth — a massive hand-carved teakwood temple under construction since 1981 — is one of the more unusual sights in Thailand. Nong Nooch Tropical Garden, 15km south, is known for its elephant shows, Thai dance performances, and botanical collections.
 
-If you do know any general information about Pattaya, please [Edit this article].
-
-If you know any hotels in Pattaya or restaurants in Pattaya, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/thailand/pattaya)
-
-Located 147 kilometers southeast of [Bangkok](/asia/thailand/bangkok) or only about two-hour drive, Pattaya is Thailand's premier beach resort and annually attracts hundreds of thousand of pleasure-seeking tourist from all over the world. Visitors can windsurf, water ski, swim, sunbath, snorkel, sail, or take trips to offshore coral island. They can rent water scooters to explore Pattaya bay, and motorcycles and jeeps to explore neighbouring-beaches such as the increasingly Hat Jom Thian, just south of Pattaya, where accommodation is also available.
-
-Pattaya boasts an incredible choice of accommodation to suit every pocket. Facilities range from air conditioned opulence to basic simplicity. Essentially, the visitor has the choice of luxury hotels with private-beaches; bayside hotels and bungalow; and "inland" economy-class hotels and guest houses.
-
-Pattaya offers some of Thailand's choicest seafood in several specialty restaurants. Steak houses and fast-food outlets provide attractive alternatives and gourmets and gourmands alike find satisfaction in restaurants featuring French, Italian, Swiss, German, Hungarian, Scandinavian, English, Indian, Moslem, Japanese, Chinese and Thai Cuisines.
-
-From families to individual visitors, Pattaya offers something for everyone and all the ingredients for a truly memorable holiday.
+Pattaya works best as a base for exploring eastern Thailand or as a long weekend from Bangkok. The city itself is not pretty, but the food is excellent, the water is warm, and getting there and around is straightforward.

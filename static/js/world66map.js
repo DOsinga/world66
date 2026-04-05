@@ -196,7 +196,8 @@ function initCountryMap(elementId, continentSlug, bounds) {
 
 /* ---- Location map: markers for child locations/POIs, expandable ---- */
 
-function initLocationMap(elementId, markers) {
+function initLocationMap(elementId, markers, options) {
+    options = options || {};
     const map = L.map(elementId, {
         zoomControl: false,
         attributionControl: false,
@@ -204,18 +205,19 @@ function initLocationMap(elementId, markers) {
     });
 
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-        maxZoom: 16,
+        maxZoom: 18,
     }).addTo(map);
 
     const group = L.featureGroup();
 
     markers.forEach(function(m) {
+        const isHighlight = !!m.highlight;
         const marker = L.circleMarker([m.lat, m.lng], {
-            radius: 6,
-            fillColor: W66_RED,
-            fillOpacity: 1,
+            radius: isHighlight ? 8 : 5,
+            fillColor: isHighlight ? W66_RED : '#999',
+            fillOpacity: isHighlight ? 1 : 0.65,
             color: '#fff',
-            weight: 2,
+            weight: isHighlight ? 2 : 1,
         }).addTo(group);
 
         if (m.name) {
@@ -233,9 +235,9 @@ function initLocationMap(elementId, markers) {
     group.addTo(map);
 
     if (markers.length > 1) {
-        map.fitBounds(group.getBounds().pad(0.1));
+        map.fitBounds(group.getBounds().pad(0.15));
     } else if (markers.length === 1) {
-        map.setView([markers[0].lat, markers[0].lng], 10);
+        map.setView([markers[0].lat, markers[0].lng], options.isPoi ? 15 : 10);
     }
 
     L.control.attribution({position: 'bottomright', prefix: false})
@@ -251,9 +253,9 @@ function initLocationMap(elementId, markers) {
             function refitMap() {
                 map.invalidateSize();
                 if (markers.length > 1) {
-                    map.fitBounds(group.getBounds().pad(0.1));
+                    map.fitBounds(group.getBounds().pad(0.15));
                 } else if (markers.length === 1) {
-                    map.setView([markers[0].lat, markers[0].lng], 13);
+                    map.setView([markers[0].lat, markers[0].lng], options.isPoi ? 15 : 10);
                 }
             }
 

@@ -1,25 +1,28 @@
 ---
-title: "When to Go in Angeles City"
+title: "When to Go"
 type: section
 ---
 
-If you've decided to visit **Angeles City, when to go** may still be playing on your mind. While most consider the Philippines to have only 2 seasons, wet and dry, there are actually 3 seasons in Luzon. Here's a look at Angeles City and the weather in winter, summer and the rainy season, and what you can expect from each.
+Angeles City has three distinct seasons, and when you visit will shape your experience. The dry months from November to May are the most comfortable, but the rainy season has its own appeal if you don't mind afternoon downpours.
 
-**Winter**
+**Cool and Dry (December–February)**
 
-From December to February is winter in Angeles City. The weather is usually quite cool and very dry. These months generally see the least rainfall, along with the summer. Keep in mind that the temperature does tend to dip drastically come nightfall, so you're going to want to pack layers and a few warm sweaters. Average temperatures range between 13 and 23 degrees C.
+The most pleasant time to visit. Days are dry and temperatures are manageable, ranging between 13 and 23 degrees Celsius. Nights can get surprisingly cool, so bring a layer or two.
 
-**Summer**
+**Hot and Dry (March–May)**
 
-Once March hits it's play time in Angeles City. When to go usually follows the summer season, from March to May. The days are still dry but the temperature jumps from cool to hot. This is the best time if you want to visit some of the nearby beaches or take up some water sports in Subic Bay, as the water is warmer. You still might want a wrap for the evenings, however. Temperatures tend to hover between 16 and 32 degrees C.
+Summer hits hard — temperatures climb to 32 degrees Celsius and the days are long and sunny. This is the best time for beaches and watersports in Subic Bay, though you will want shade by midday.
 
-**Rainy Season**
+**Rainy Season (June–November)**
 
-Most of the year is taken up by the rainy season, which lasts from June through November. During this time period thunderstorms and typhoons (hurricanes) are relatively common occurrences. Typhoons will generally last for between 1 and 3 days, with heavy rains that often result in floods and business closings. However, don't let this deter you from visiting at this time. Most of the days are characterized by brief rains limited to the afternoons, and sunny days are not unheard of. It's also a bit cooler with some nice breezes that temper the lasting summer heat. Just be sure to bring your umbrella.
+Most of the year is wet. Typhoons and heavy thunderstorms are common, sometimes lasting one to three days and causing floods and business closures. Between the storms, though, most days see only brief afternoon rains, and sunny stretches are not unusual. The temperatures are cooler and the breezes pleasant.
 
-**Events**
+**Festivals**
 
-If you'd like to experience a bit of culture on your trip to Angeles City, your "when to go" list should try to encompass a local festival. The 2 biggest occur in nearby [San Fernando](/northamerica/trinidadandtobago/sanfernando). Every Easter there are demonstrations of penance culminating in a Passion Play that includes volunteers being nailed to crosses. December heralds the lantern festival, with parades that showcase the works of locals who are responsible for the biggest lanterns in the world. Both events are sights to behold, and are definitely worth a visit. They even conveniently fall during the dry period!
+The Philippine International Hot Air Balloon Fiesta takes place at Clark Field in January or February. It is the biggest aviation sports event in the Philippines — hundreds of colorful balloons fill the sky over four days, alongside kite-flying, skydiving, and remote-controlled plane competitions.
 
-**Contributors**
-March 15, 2010
+The Tigtigan Terakan keng Dalan street music festival hits Angeles City on the last Friday and Saturday of October. Professional and amateur bands take over the streets for a night of music and dancing that runs into the early hours.
+
+Nearby San Fernando hosts two major events worth the short trip: the Good Friday Lenten Rites at Easter, culminating in a Passion Play with actual crucifixions, and the Giant Lantern Festival each December, with parades showcasing the world's biggest lanterns. Both fall conveniently in the dry season.
+
+The Sisig Festival takes place each December at SM City Clark, celebrating the sizzling pork dish that was invented in Angeles City. Expect cooking competitions and plenty of free samples.

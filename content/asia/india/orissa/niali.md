@@ -1,5 +1,5 @@
 ---
-title: "Niali"
+title: 'Niali'
 type: location
 latitude: 20.145421
 longitude: 86.094663

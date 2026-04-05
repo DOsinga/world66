@@ -1,49 +1,10 @@
 ---
-title: "Punakha"
+title: "Punakha Dzong"
 type: poi
-type: "Monasteries"
 latitude: 27.584286
 longitude: 89.859309
 ---
 
-A three and a half hour drive from the town of Paro is the
-Punakha Dzong which sits at the confluence of two rivers, one
-considered male, the other female. The Dzong itself is massive and
-beautiful and worth the drive over. It burned about 10-12 years ago and
-was just rededicated about a year and a half ago.
+Punakha Dzong sits at the confluence of the Pho Chhu and Mo Chhu rivers — the "male" and "female" rivers — an hour's drive east of Thimphu over the Dochula Pass. It's consistently named the most beautiful dzong in the country, and the setting earns it: whitewashed walls and gilded rooflines against the river junction, with jacaranda trees in purple bloom around the complex in spring.
 
-type: Monasteries
-
-
-
-
-
-## Destinations in Bhutan
-
-- [Thimphu](/asia/bhutan/thimphu)
-- [Bumthang](/asia/bhutan/bumthang)
-- [Wangdiphodrang](/asia/bhutan/wangdiphodrang)
-- [Lhuntsi](/asia/bhutan/lhuntsi)
-- [Gangten](/asia/bhutan/gangten)
-- [Kurtey](/asia/bhutan/kurtey)
-
-- [Phuntsholing](/asia/bhutan/phuntsholing)
-- [Punakha](/asia/bhutan/punakha)
-- [Paro](/asia/bhutan/paro)
-- [Tashigang](/asia/bhutan/tashigang)
-- [Tongsa](/asia/bhutan/tongsa)
-- [Punakha](/asia/bhutan/punakha)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Built in 1637 by Zhabdrung Ngawang Namgyal, the unifier of Bhutan, it served as the capital until 1955 and still functions as the winter headquarters of the Je Khenpo (chief monk). The interior is richly painted. The Punakha Tshechu in February or March is one of the most dramatic in the country.

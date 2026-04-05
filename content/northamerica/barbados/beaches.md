@@ -1,55 +1,18 @@
 ---
-title: "Beaches in Barbados"
+title: "Beaches"
 type: section
 ---
 
-Barbados has incredible white sandy beaches with diverse
-conditions depending on which side of the island you are visiting. The
-southern coast has medium to large waves, perfect for water
-sports such as surfing, windsurfing, and body surfing. The western coast is the best if you want a
-peaceful spot with calm waters excellent for swimming and snorkeling.
-The beaches to
-avoid, if you're planning on doing any water sports, are the eastern
-and northern beaches. The powerful waves from the Atlantic Ocean are
-huge and create dangerous currents making swimming or even just bathing
-in the water impossible. However, if you're just looking for a beach
-with an awesome view, the northern and eastern coasts are quite
-impressive to behold.
+All beaches in Barbados are public. Every stretch of sand on the island is accessible to everyone, regardless of what hotel or private estate fronts it — access routes are legally required. This is one of the things that makes Barbados stand out from more stratified Caribbean islands.
 
-**Crane Beach**
+The character of the beaches changes dramatically depending on which coast you're on.
 
-This beach was voted as the most beautiful beach on the island at
-one time. It is located right in front of a gorgeous old hotel and has
-big, but not too dangerous, waves that can be fun to jump in or to body
-surf in. The sand is soft, fine, and white, and the beach itself is
-never too crowded.
+**West coast** (the Caribbean side) has the calm, clear water and fine white sand that feature in most of the postcards. Currents are gentle, snorkelling is good, and the water temperature is warm year-round. This is where the big luxury hotels cluster — Sandy Lane, The Sandpiper, Coral Reef Club. The beach in front of Sandy Lane is impeccably maintained and open to all; it's not exactly a crowd-free experience but the water is excellent.
 
-**Bathsheba**
+**South coast** has more energy. The Atlantic rollers wrap around the island's southeastern tip and produce consistent surf suitable for beginners and intermediate surfers. Accra Beach (also called Rockley Beach) near Bridgetown is one of the most popular and well-serviced beaches on the island, with beach chairs, bars, and watersports rentals. Worthing and Dovecot beaches are quieter alternatives nearby. The St. Lawrence Gap area is walking distance from several south coast beaches and has the island's liveliest nightlife.
 
-This is the beach of a small fishing village; usually its quite
-tranquil, but watch out, because when there are surfing contests,
-Bathsheba is packed with locals and tourists alike. The waves are large
-due to the trade winds, for that reason, surfing is so popular
-there. However, there are small tide pools with reefs that can be of
-interest as well. All along the coast you'll find tasty restaurants and
-luxury hotels.
+**East coast** is exposed to the full force of the Atlantic. The waves are powerful and the currents are strong — swimming is dangerous and not recommended at most east coast beaches. What you get instead is dramatic scenery: crashing surf, rocky outcrops, and green hillsides running down to the shore. Bathsheba, a small village on the east coast, is the spiritual home of Barbadian surfing; the large mushroom-shaped rock formations offshore are iconic. Surfers come for the Soup Bowl, a world-class break just north of the village.
 
-**Sandy Lane Bay**
+**Crane Beach** on the southeast coast is consistently rated among the most beautiful on the island. Sheltered by cliffs, with pinkish-tinged sand and turquoise water, it's accessible via the Crane Resort (which charges a fee to non-guests for use of their facilities, but the beach itself is free).
 
-Sandy Lane is out in front of a huge luxury resort, but the beach is
-public, as are all of the beaches in Barbados. It is probably the
-cleanest and most well maintained beach on the island. It's not exactly
-a bay, but Sandy Lane is well protected from dangerous currents. The
-waves are tiny and there is no undertow.
-
-**Bath**
-
-The name Bath suits this beach perfectly; the waters are as calm and
-warm as in a bathtub. Swimming is excellent in Bath and there is a
-lifeguard on duty during the day. Picnicking is common at this pristine
-beach and there are several eateries nearby. Conveniently, changing
-facilities and parking are also available.
-
-### [Beaches](/northamerica/barbados/beaches/beaches)
-
-Barbados has incredible white sandy beaches which have diverse conditions depending on which side of the island you are on. The southern coast has medium to large waves which are perfect for water sports such as surfing, windsurfing, and body surfing, but not so good for snorkeling or swimming. The western coast is the best if you want a peaceful spot with calm waters excellent for swimming and snorkeling. This side of the island is perfect if you have kids. The beaches to avoid, if you're planning on doing any water sports, are the eastern and northern beaches. The [more..](/northamerica/barbados/beaches/beaches)
+**Bath Beach** on the east coast is one of the few east coast beaches where swimming is safe — a shallow, reef-protected bay with calm water. Lifeguards are on duty. There are changing facilities, picnic tables, and a small restaurant.

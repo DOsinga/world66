@@ -2,10 +2,12 @@
 title: "Trastevere"
 type: poi
 category: "Neighbourhood"
-latitude: 41.889455
-longitude: 12.469660
+admission: "Free"
+latitude: 41.8893
+longitude: 12.4703
+tags: ["48 Hours in Rome", "3 Days in Rome"]
 ---
 
-Rome's most characterful neighbourhood, across the Tiber from the historic centre. The medieval street grid is still intact — narrow cobblestone lanes, ochre facades, ivy-covered walls, and small piazzas. The Basilica di Santa Maria in Trastevere, with its 12th-century mosaics, is one of Rome's oldest churches and worth seeing even if you only visit one church. The neighbourhood gets noisy at night when it fills with both tourists and Romans out to eat and drink.
+Rome's most atmospheric neighbourhood — a tangle of cobblestone alleys, ivy-draped medieval buildings, and ochre-and-terracotta facades west of the Tiber. It was Rome's working-class neighbourhood for centuries (the name means "across the Tiber") and is now dense with restaurants, bars, and trattorias. The Basilica di Santa Maria in Trastevere, with its 12th-century mosaics, is the architectural centrepiece.
 
-Come in the morning for the quieter atmosphere and the weekly Sunday market at Porta Portese (early morning until 2pm, running along Via Portuense) which sells everything from antiques to clothes to junk.
+Best explored on foot in the evening, when the alleys come alive. For food, Bar San Calisto for a cheap spritz, Tonnarello for cacio e pepe, or Dar Poeta for pizza. Avoid the most tourist-facing restaurants on the main square; the best places are a few alleys in.

@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 135 135 195 (July 1998 est.)
+Pakistan has a population of around 235 million — the fifth most populous country in the world — with a very young demographic: well over half the population is under 30. It is an intensely diverse country, divided by language, ethnicity, class, and geography in ways that a first-time visitor may find surprising.
 
-*note:* population figures based on 1981 national census results1998 census results are pending
+The largest group is the **Punjabis**, who make up roughly 45% of the population and dominate the political and military establishment. **Pashtuns** (around 15%) live mainly in Khyber Pakhtunkhwa and the tribal belt; their culture places a high value on hospitality and personal honor, and a Pashtun host can be almost insistently generous. **Sindhis** populate the south and have a culture of their own — Sufi music and devotion runs deep here, and the shrines of saints like Lal Shahbaz Qalandar draw enormous crowds. **Baloch** people inhabit the vast southwestern province of Balochistan; they are the smallest of the major groups despite living in the country's largest province by area. In the north, **Gilgit-Baltistani** peoples — speaking Shina, Burushaski, Wakhi, and Balti — are culturally and linguistically distinct from everyone else.
 
-**Age structure:**
+**Urdu** is the lingua franca that ties the country together, but it is the mother tongue of only about 8% of the population — mainly Muhajirs, the Muslim refugees who came from India after partition in 1947 and settled largely in Karachi and other Sindhi cities. English functions as the language of government, higher education, and the urban elite.
 
-*0-14 years:* 42% (male 29 083 284; female 27 425 172)
+Pakistan is a predominantly Muslim country and Islam shapes the rhythm of daily life — prayer times, the fast of Ramadan, the festivals of Eid. Within Islam, the country holds a complex sectarian mix of Sunni and Shia Muslims, Sufi traditions, Ahmadis, and smaller groups. The **Kalash people** of Chitral are a notable exception — a small non-Muslim minority with their own ancient religion, language, and customs who have managed to preserve their culture against the odds.
 
-*15-64 years:* 54% (male 37 432 059; female 35 731 170)
-
-*65 years and over:* 4% (male 2 716 739; female 2 746 771) (July 1998 est.)
-
-**Population growth rate:** 2.2% (1998 est.)
-
-**Birth rate:** 34.38 births/1 000 population (1998 est.)
-
-**Death rate:** 10.69 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.71 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.06 male(s)/female
-
-*15-64 years:* 1.05 male(s)/female
-
-*65 years and over:* 0.99 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 93.48 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 59.07 years
-
-*male:* 58.23 years
-
-*female:* 59.96 years (1998 est.)
-
-**Total fertility rate:** 4.91 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Pakistani(s)
-
-*adjective:* Pakistani
-
-**Ethnic groups:** Punjabi Sindhi Pashtun (Pathan) Baloch Muhajir (immigrants from India and their descendants)
-
-**Religions:** Muslim 97% (Sunni 77% Shi'a 20%) Christian Hindu and other 3%
-
-**Languages:** Punjabi 48% Sindhi 12% Siraiki (a Punjabi variant) 10% Pashtu 8% Urdu (official) 8% Balochi 3% Hindko 2% Brahui 1% English (official and lingua franca of Pakistani elite and most government ministries) Burushaski and other 8%
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 37.8%
-
-*male:* 50%
-
-*female:* 24.4% (1995 est.)
+Hospitality is not a cliché here. Pakistanis will invite strangers to eat with them, insist on paying the bill, and go to considerable inconvenience to help a traveler who looks lost. This can feel overwhelming, but it's genuine.

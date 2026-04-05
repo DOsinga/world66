@@ -3,92 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Out of Africa** by Isak Dinesen (Karen Blixen) — The classic account of a Danish woman farming coffee in colonial Kenya in the early 20th century. The writing is beautiful and the landscape descriptions have never been bettered. Read it knowing that it reflects the world of European settlers; the Africans in the book exist largely as background to her experience. It's still essential.
 
-**Out of Africa and Shadows on the Grass**
+**Born Free** by Joy Adamson — The true story of Elsa the lioness, raised by Joy and George Adamson in Kenya and eventually returned to the wild. The book that put wildlife conservation on the global map. The Sheldrick Wildlife Trust, which today rehabilitates orphaned elephants in Nairobi, carries this spirit forward.
 
+**I Dreamed of Africa** by Kuki Gallmann — An Italian woman who moves to a vast ranch in northern Kenya and suffers devastating losses. More emotional than Dinesen, more recent, and gives a vivid picture of the Laikipia Plateau and its wildlife.
 
+**The Flame Trees of Thika** by Elspeth Huxley — A childhood memoir of growing up on a settler farm near present-day Thika in the early 1900s. Charming and observant.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679724753/ref=ase_osingacom?v=glance&s=books)
+**Weep Not, Child** by Ngũgĩ wa Thiong'o — The first novel published in English by an East African, set during the Mau Mau uprising of the 1950s. Ngũgĩ is Kenya's most important novelist; this is the place to start. *A Grain of Wheat* is his masterpiece but harder going.
 
-author: Isak Dinesen
+**Petals of Blood** by Ngũgĩ wa Thiong'o — A longer, more ambitious novel set after independence, tracing corruption and class in the new Kenya. Devastating and important.
 
-isbn: 0679724753
+**The Constant Gardener** by John le Carré — A thriller set in Nairobi and northern Kenya, built around the pharmaceutical industry's exploitation of African populations. Not a light read but gripping, and le Carré clearly knows the country.
 
-subject: travel
-
-**Out of Africa**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679600213/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0864424604/ref=ase_osingacom?v=glance&s=books)
-
-author: Hugh Finlay,Geoff Crowther
-
-isbn: 0864424604
-
-subject: travel
-
-**Fielding's Kenya:Best Hotels, Lodges and Homestays**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1569521468/ref=ase_osingacom?v=glance&s=books)
-
-author: Bridget Glenday,Susan Southwick,Joan Westley
-
-isbn: 1569521468
-
-subject: culture
-
-**Making Ethnic Ways :Communities and Their Transformations in Taita, Kenya, 1800-1950**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0325001049/ref=ase_osingacom?v=glance&s=books)
-
-author: Bill Bravman
-
-isbn: 0325001049
-
-subject: culture
-
-**Toward an African Christianity:Inculturation Applied**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0809133814/ref=ase_osingacom?v=glance&s=books)
-
-author: Eugene Hillman
-
-isbn: 0809133814
-
-subject: culture
-
-**East Africa Handbook 1999 with Kenya, Tanzania, Uganda and Ethiopia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844249785/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0805053891/ref=ase_osingacom?v=glance&s=books)
-
-author: Rick Ridgeway
-
-isbn: 0805053891
-
-subject: history
-
-**Born Free:A Lioness of Two Worlds**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/039474635X/ref=ase_osingacom?v=glance&s=books)
-
-author: Joy Adamson
-
-isbn: 039474635X
-
-subject: history
+**Safari: A Chronicle of Adventure** by Bartle Bull — A history of the safari from the 19th century to the present, combining history, personal memoir, and natural history. Good background if you're heading into the bush.

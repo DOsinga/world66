@@ -1,10 +1,14 @@
 ---
-title: "Copan"
+title: "Copán"
 type: location
+latitude: 14.8394
+longitude: -89.1416
 ---
 
-Copan is one of the largest and most impressive of all the Mayan centers discovered so far. It consists of pyramids, temples but the speciality of the house is the 21 stone pillars or stelae with exquisite carved likenesses of ancient Copan kings. [Tikal](/northamerica/guatemala/tikal) in Guatemala may be bigger, and [Chichen Itza](/northamerica/mexico/yucatan/chichenitza) may have bigger pyramids} but Copan has better sculptures. 
+Copán is one of the great Mayan cities, and arguably the most artistically accomplished. While [Tikal](/northamerica/guatemala/tikal) in Guatemala may be larger and [Chichén Itzá](/northamerica/mexico/yucatan/chichenitza) more famous, Copán has the finest sculpture in the Mayan world: 21 stone stelae carved with extraordinary detail, each a portrait monument to a ruling king. The hieroglyphic stairway — the longest known Mayan inscription — is here too.
 
-The Maya built Copan in one of the most beautiful areas of Honduras on the banks of the Copan River in a fertile valley with a near-perfect climate. 
+The site occupies a beautiful fertile valley on the Copán River near the Guatemalan border, at an elevation of about 640 metres. The climate is mild and the setting green. Only a fraction of the estimated 4,000 structures have been fully excavated, and tunneling into existing pyramids has revealed intact earlier temples beneath — including the Rosalila Temple, found completely preserved inside a later structure. A full-scale replica is on display in the Museum of Mayan Sculpture in the adjacent town.
 
-The Copan Archaeological Park covers 74 130 acres/30 025 hectares at an elevation of 2 100 ft/640 meters. Only a fraction of the ruins have been excavated but as jungle growth is cleared away from each new section and more mounds are tunneled into even more wondrous things appear.
+The nearby town of **Copán Ruinas** is small and pleasant, with good restaurants and guesthouses clustered around the main square. It's well set up for travelers and easy to reach by bus from San Pedro Sula (about 3 hours) or by crossing the border from Guatemala at El Florido (a short minibus ride).
+
+Allow at least a full day for the ruins, ideally two. The site is open daily; guides are available at the entrance.

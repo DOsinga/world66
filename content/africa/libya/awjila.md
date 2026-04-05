@@ -19,9 +19,4 @@ The main activities of the people in Awjila are agriculture and working for the 
 
 The main crops are dates from the many verities of palm trees, tomatoes, and cereals.
 
-Recently Awjila aquired an extra importance as it will be the best and most convenient site for viewing the sun eclipse on march 29 2006.
-
-More about Awjila will be added later on including some photos.
-
-**Contributors**
-August 14, 2005
+Awjila is a remote destination, and reaching it requires either a vehicle or willingness to wait for infrequent shared transport from Agedabia.

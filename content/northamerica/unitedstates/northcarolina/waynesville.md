@@ -1,20 +1,12 @@
 ---
-title: "Waynesville"
+title: 'Waynesville'
 type: location
 latitude: 35.488748
 longitude: -82.988872
 ---
 
-A great city to visit. Set in the heart of the blue Ridge
-mountains. This town hosts the one of the greatest celebrations
-of culture in the world "Folkmoot"!!
+Waynesville is a charming mountain town just minutes from [Asheville](/northamerica/unitedstates/northcarolina/asheville) and Maggie Valley. The downtown Main Street is lined with independent shops, galleries, and restaurants that reward a slow afternoon of browsing.
 
-You can learn more about folkmoot at http://www.folkmoot.com.
+The town's biggest event is **Folkmoot**, an international folk festival that brings dance troupes from around the world to perform in the mountains of North Carolina. It is one of the most remarkable cultural celebrations in the region, and worth timing a visit around if you can.
 
-Waynesville is full of main street shops and attractions. Just
-minutes from Asheville and Maggie Valley, make this town a stop on your
-next road trip or vacation, you will not be disappointed.
-
-The restaurants and bars are great!!
-
-One of the best motels to stay at is "The Lodge". This place was really great and was a great bargain!
+Waynesville makes a good base for exploring the surrounding mountains, with easy access to the Blue Ridge Parkway and Great Smoky Mountains National Park. The restaurants and bars downtown are surprisingly good for a town this size.

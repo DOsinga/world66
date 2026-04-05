@@ -1,22 +1,22 @@
 ---
-title: "Srilanka"
+title: "Sri Lanka"
 type: location
 latitude: 7.555494
 longitude: 80.713785
+image: srilanka.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Nuwara_Eliya_2013_01.JPG"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Cherubino" title="User:Cherubino">Cherubino</a>'
 ---
 
-Travel Guide
+Sri Lanka is an island of extraordinary variety. In the space of a few hours you can move from the frenetic energy of [Colombo](/asia/srilanka/colombo) to the cool mist of the Hill Country, from ancient ruined cities to beaches that go on for miles. It is a small country — about the size of Ireland — but it packs in more history, wildlife, and landscape than many places ten times its size.
 
-We currently have no information about Srilanka.
+The central highlands are the island's dramatic core. Tea estates drape the hillsides above [Ella](/asia/srilanka/ella) and Nuwara Eliya, and the train ride from Kandy through the mountains is one of the great railway journeys in Asia. [Kandy](/asia/srilanka/kandy) itself is worth a few days — the Temple of the Tooth is Sri Lanka's most sacred site, and the Esala Perahera festival in July or August draws vast processions of elaborately decorated elephants.
 
-If you do know any general information about Srilanka, please [Edit this article].
+The north and east hold the oldest cities on the island. [Anuradhapura](/asia/srilanka/anuradapura) was a great capital for a thousand years; its dagobas are enormous, serene, and still active places of pilgrimage. Nearby, Sigiriya — a palace perched on a sheer rock rising from the jungle — is one of the most dramatic archaeological sites in South Asia. [Polonnaruwa](/asia/srilanka/polannaruwa) and [Dambulla](/asia/srilanka/dambulla) complete what is usually called the Cultural Triangle.
 
-If you know any hotels in Srilanka or restaurants in Srilanka, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/srilanka)
+The south and west coasts have the beaches most visitors come for. [Galle](/asia/srilanka/galle) has a handsome Dutch colonial fort, excellent restaurants, and a genuinely pleasant old town. [Unawatuna](/asia/srilanka/unawatuna), Mirissa, and [Arugam Bay](/asia/srilanka/arugam_bay) on the east coast are where you go to surf or simply stop moving for a while. Yala National Park, near [Tissamaharama](/asia/srilanka/tissamaharama), has the highest density of leopards of any national park in the world.
 
-Sri Lanka is the teardrop that falls from the southern tip of India and is becoming increasingly popular as a travel destination –and not only for sports fanatics who want to play a proper game of cricket. About twenty million people reside on this relatively small island that used to bear the name Ceylon. Although a lot of people come over to Sri Lanka to have a nice beach holiday (finished off with a touch of culture), there is definitely more to see and to do than sunbathing on one of the many excellent beaches. Hikkaduwa, for example, is very well-known for its beach-resorts and for its brooding turtles.
+Sri Lanka has had a difficult recent history. A civil war between the government and the Tamil Tigers (LTTE) ran from 1983 to 2009, devastating the north and east. The tsunami of December 2004 killed over 35,000 people. Since the war ended the country rebuilt fast, and tourism has grown considerably. An economic crisis in 2022 caused severe hardship — fuel shortages, power cuts, and political upheaval — but by 2024 stability had largely returned and the country was open and welcoming again.
 
-Colombo is the place where Sri Lanka’s hustle and bustle takes place. Although it is not such a big city, this is the place where the commercial heart beats and where you can see some of the tallest buildings in Asia. In the northern part of the city is the fort area, where you can find the British fort, dating from the 19th century, and other remnants of the former colonial power. When you set off for Galle, which was the capital city when the Dutch ruled before the British invaded the Pearl of the Orient, you can visit the world heritage fort complex.
-
-And this is only the beginning. In Kurunegala, you can feast your eyes with coconut plantations and paddy fields. The country’s hilly southern part offers a perfect place for tea plantations and the accompanying villages, such as Nuwara Eliya. Dense rainforests cover the south-western part and this is the area to go to when you want to see wildlife. There are several possibilities of staying over-night in national parks, such as Ruhunu and Wilpattu, for those who want to wake up with the trumpeting of an elephant.
-
-Sri Lanka is unfortunately also known for its bloodshed. The LTTE, the Liberation Tigers of Tamil Eelam, have fought 20 years for a separate country for the Tamil people in the northern part of the island. Now there is a cease fire and they are negotiating with the majority Sinhalese for a solution within a single country.
+For travelers, Sri Lanka rewards patience. The roads are slow, the tuk-tuks are everywhere, and trains run late. But the food is excellent, the people are genuinely warm, and the sheer density of things worth seeing — ruins, wildlife, tea country, coastline — makes it one of the most satisfying trips in Asia.

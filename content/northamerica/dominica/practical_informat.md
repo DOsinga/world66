@@ -1,25 +1,18 @@
 ---
-title: "Practical Information in Dominica"
+title: "Practical Information"
 type: section
 ---
 
-Before visiting this Caribbean country of tropical beauty, you'll want to read up on **Dominican Republic practical information** before your next visit so that you can better understand how locals live.
+**Language:** English is the official language and is spoken universally. You'll also hear Dominican Creole (Kwéyòl), a French-based Creole patois shared with Martinique and Guadeloupe, in everyday conversation.
 
-**Geography**
+**Currency:** The East Caribbean Dollar (XCD), pegged to the US dollar at roughly EC$2.70 to US$1. US dollars are widely accepted but change is given in EC dollars. Credit cards work at most hotels and larger restaurants; carry cash for markets, minibuses, and smaller establishments.
 
-It is important to take note of what part of the country you plan to visit before your arrival, as different parts of the island are under different control. While two thirds of the island are part of Hispaniola, one third of the island located on the western shores is controlled by Haiti.
+**Entry:** Citizens of the US, Canada, UK, EU, and most Commonwealth countries do not need a visa. You'll need a valid passport (six months' validity required), a return or onward ticket, and proof of accommodation. Since October 2024, Dominica requires visitors to complete an online immigration form (embarkation/disembarkation card) within three days of travel at edcard.dominica.gov.dm. You'll receive a QR code to present on arrival.
 
-**Hurricane Season**
+**Health:** No vaccinations are required for entry. Tap water is generally safe in Roseau and major towns; in more remote areas, stick to bottled or treated water. Sun and heat are strong at this latitude — use sunscreen and drink plenty of water on hikes.
 
-You should also note that the Dominican Republic lies in the middle of the hurricane belt and is often the target of tropical storms. You should note that the times of greatest activity are the months of June through October. Although travel to the region is often cheaper in these months, you may encounter poor weather.
+**Electricity:** 230V, 50Hz. UK-style three-pin plugs are standard. US visitors will need an adapter and possibly a converter.
 
-**Transportation Fees
-**
+**Phone and internet:** Mobile coverage is decent in towns but patchy in the interior. Wi-Fi is available at most hotels. Local SIM cards from Digicel or Flow are inexpensive if you need data for navigation on the trails.
 
-As soon as you arrive in The Dominican Republic, you will be charged a fee of USD $10, also payable with the Euro, but not with local currency. This is for your tourist card to travel within the country. You will also be charged USD $20 to leave. If you're flying a major carrier, the fee will be included in your ticket price.
-
-**Currency and Language**
-
-The official language is Spanish, though English is also widely spoken. You may also hear Haitian Creole French if you're in he Haitian areas of the country.
-
-The official currency is the Dominican Peso. You can trade your US dollars or Euros for Dominican Pesos at the airport and many other places, but be careful of how much you exchange. Some locations do not exchange local currency back into dollars or Euros.
+**Safety:** Dominica is generally considered safe. The main concern on trails is getting lost or caught in rapidly changing mountain weather — hire a guide for serious hikes and tell someone your plans.

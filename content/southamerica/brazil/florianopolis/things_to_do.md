@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-There is a german community in Florianopolis (**Deutsche Florianopolis Community**). If you try to find a job, or just want to learn about the island, get in contact with this community. These people answer 100% and will help you as a community can help you. Write an email to: info@cynthia-machado.eu , or visit the website: http://cynthia-machado.eu
+Surfing and beach activities dominate the agenda. The best surf breaks are Praia Mole, Joaquina, Barra da Lagoa, and Mocambique on the eastern coast — Praia Mole is the current favourite for its consistent waves and beautiful setting between forested hills. The colonial old town has the Museu Histórico de Santa Catarina in an 18th-century Baroque palace on Praça 15 de Novembro, worth visiting even in good beach weather. Forte Santana, under the Hercílio Luz Bridge, houses a small military museum. Dune-buggy tours across the Joaquina sand dunes are a popular half-day activity.

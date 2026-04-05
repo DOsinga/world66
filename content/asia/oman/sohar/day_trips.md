@@ -1,18 +1,10 @@
 ---
-title: "Day Trips in Sohar"
+title: "Day Trips"
 type: section
 ---
 
-A tourist interested in exploring the area should take a **Sohar Day Trip** to get a better feel of this amazing land. The city of Sohar is an ancient fishing and seaport located in the country of Oman.
+**Rustaq** is 130km south of Sohar via the mountain road and is one of the most rewarding half-day trips on the Batinah coast: a large Omani fort (one of the biggest in the country), hot springs at Al Thowarah, and a traditional souk. The drive through the Hajar foothills is attractive.
 
-**Copper Mines**
+**Nakhl Fort**, 100km south toward Muscat, is another worthwhile stop: an imposing fort on a rock outcrop and natural hot springs at its base. More accessible from Muscat but reachable from Sohar in around 90 minutes.
 
-Oman historically has been a huge producer of copper. Copper extraction began 5,000 years ago, and there are still three modern mines in operation today. There are an estimated 20 million metric tons copper left in the mines. The mines provide a steady portion of the Oman economy. The ancient copper mines have retained a number of artifacts helping historians piece together Oman&rsquo;s ancient history. For history buffs this is excellent to learn about Oman and its past. The Jebel Akhdar, also known as the green mountain, is near the mines. This for nature lovers in the group, they can hike along the rim and enjoy the scenery.
-
-**Wadi Bani Khalid**
-
-Wadi Bani Khalid a valley by Sohar, person would need then a day to explore this beautiful area. Framed by high cliffs Wadi Bani Khalid maintains a constant flow of water throughout the area. Wadi Bani Khalid a wonderful for people to spend a lazy day. Visitors and locals come to the area to picnic in the surround parks. People can try their hands fishing in the pools or enjoy the natural springs. There are a number of caves for people to explore in addition to the water.
-
-**Oman Fort**
-
-Oman Forts are one of the best attractions in the area, some believing that the forts can be traced
+**Wadi Heebi**, 65km inland, is a green valley with an old agricultural village — a quiet detour if you have a 4WD and time to spare. The copper mining region in the Oman mountains is historically significant but requires a guide or good local knowledge to visit properly.

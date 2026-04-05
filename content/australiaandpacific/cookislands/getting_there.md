@@ -3,22 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-Air
+All international flights land at Rarotonga International Airport (RAR), about 3km west of Avarua. It is a small airport — there is no jetbridge, just stairs down to the tarmac — but it handles arrivals smoothly and the duty-free shop, currency exchange, and car rental desks are all there.
 
-There are direct flights from Los Angeles, [Hawaii](/northamerica/unitedstates/hawaii) and [Tahiti](../../frenchpolynesia/tahiti) to the east, and from [Fiji](../../fiji) and New Zealand to the south and west. Air New Zealand are the major international airline servicing the Cook Islands with Aloha Airlines offering a weekly seasonal flight from Hawaii between October to April.
+**Air New Zealand** operates the most frequent service, with daily flights from Auckland (about 3h 45m) and connections from Sydney, Los Angeles, and London. **Hawaiian Airlines** runs a weekly service from Honolulu. **Jetstar** operates several flights per week from Sydney. From Europe, the standard routing is via London to Los Angeles then onward via Honolulu or Auckland — expect a total journey of 24 hours or more.
 
-Approximate flight time:
+One thing to be aware of: flights from New Zealand cross the International Date Line, which means you arrive in the Cook Islands the day before you departed Auckland. This confuses most people at least once.
 
-From Rarotonga to *London* is 24 hours (*Air New Zealand* flies via Los Angeles and Honolulu).
+No visa is required for stays up to 31 days for most nationalities. New Zealand passport holders get 90 days. You will need to show a return or onward ticket and proof of accommodation.
 
-International airport
+**Inter-island flights** are operated by Air Rarotonga, which serves most of the southern group islands and several in the north using small turboprop aircraft. Flights to Aitutaki take about 45 minutes; to the outer islands up to 4 hours. Day trips to Aitutaki by air are common and popular. Schedules depend on demand, so book ahead, especially in peak season.
 
-*Rarotonga (RAR)* is 3km (2 miles) west of Avarua (travel time  10 minutes). Hotel coaches meet each flight. Taxis and buses are also available. The airport facilities are open according to flight arrivals and departures and include duty-free shops bank/bureau de change bars shops and car rental (*Avis* and *Budget*).
-
-Departure tax:
-
-NZ$25 for passengers over 12 years of age; NZ$10 for passengers aged 2-12 years.
-
-Sea
-
-Cargo/passenger lines operating to the Cook Islands are run by *Cook Islands Shipping Limited* *New Zealand Motor Vessel Company* and *EXCIL  Express Cook Islands Line*.
+By sea, cargo vessels run between Rarotonga and the outer islands, but schedules are irregular and passage is rarely practical for time-limited travellers. Cruise ships call at Rarotonga occasionally; the harbour is small and passengers are tendered ashore.

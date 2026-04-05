@@ -1,33 +1,12 @@
 ---
 title: "Sights"
 type: section
-email: "hargeisa6(@yahoo.com"
-type: "Hotspots"
 ---
 
-Here are a few hotspots in Somaliland.
+Somaliland's most compelling attractions are at some remove from ordinary tourism infrastructure, which is part of what makes them so remarkable to visit.
 
-**Contributors**
-July 23, 2006
+The Laas Geel cave paintings are the headline. Discovered in 2002 by a French archaeological team, these prehistoric rock shelters about 55km northeast of Hargeisa contain images of cattle, humans, and wild animals that are among the oldest and best-preserved in all of Africa. The paintings are still vivid — ochre, red, and white against the rock face — showing cattle with decorated coats being tended by human figures, likely in a ritual or religious context. The site is largely unfenced and not heavily managed, which adds to the sense of discovery.
 
-### [Laas Gaa'l](/africa/somaliland/sights/laas_gaal)
+Berbera's beaches and old Ottoman-British townscape are a second reason to travel. The coastline along the Gulf of Aden is spectacular and virtually tourist-free. The Salahley savanna area west of Hargeisa offers access to traditional nomadic life — you can visit families in portable aqal (nomadic dwellings), watch camel herding, and see a way of life that is genuinely ancient.
 
-The most significan't Neolithic rock painting in the whole of Africa. This rock etchings was recently discovered at Laas Ga'al outside Hargeisa, the capital of Somaliland. Even under the scorching sun, the paintings have strong, vibrant colours and stark outlines, showing the ancient inhabitants of the area worshipping cattle.
-
-type: Hotspots
-
-
-
-[[rate it]](/africa/somaliland/sights/laas_gaal)
-
-email:
-
-### [Salahley Savanah](/africa/somaliland/sights/salahley_savanah)
-
-The Somali people are traditionally a pastoralist society who spend most of their time looking after their livestock. Here at Salahley you will find not only a beautiful savanah country side but also you will be able to experience the nomadic lifestyle of the Somali people. You will see traditional Aqal-Somali (A portable nomadic house), you will see men milking shecamels, you will see little girls looking after sheep and goats in the open savanah areas.
-
-type: Hotspots
-
-
-
-[[rate it]](/africa/somaliland/sights/salahley_savanah)
+For those who make it to the far north, the town of Laasqoray (Xiis) on the Sanaag coast is isolated and historically interesting. Check current security conditions before heading east.

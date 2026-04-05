@@ -3,112 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+A few books worth reading before or during a trip to Colombia.
 
-**Gaviotas:A Village to Reinvent the World**
+**One Hundred Years of Solitude** by Gabriel García Márquez — Colombia's most famous novel, and the one that put the country on the literary map. Set in the fictional town of Macondo, it draws heavily on the Caribbean coast where García Márquez grew up. Not a guidebook, but it'll change how you see the place.
 
+**Love in the Time of Cholera** by Gabriel García Márquez — more accessible than Solitude, and set in a fictional Caribbean city clearly modelled on Cartagena and Barranquilla. A good read for the coast.
 
+**Gaviotas: A Village to Reinvent the World** by Alan Weisman — the story of a Colombian experiment in sustainable technology built deep in the Llanos. Quietly inspiring and unlike anything else written about the country.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0930031954/ref=ase_osingacom?v=glance&s=books)
+**The Motorcycle Diaries** by Ernesto Che Guevara — Guevara's journey through South America passed through Colombia. Not solely about Colombia, but offers a vivid portrait of the continent in the early 1950s.
 
-author: Alan Weisman
+**Killing Pablo** by Mark Bowden — a detailed account of the hunt for Pablo Escobar. Reads like a thriller, grounded in solid reporting. Essential background if you're spending time in Medellín.
 
-isbn: 0930031954
-
-subject: travel
-
-**Colombia Handbook**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0844249491/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Pollard,Ben Box (Editor)
-
-isbn: 0844249491
-
-subject: travel
-
-**In Trouble Again:A Journey Between the Orinoco and the Amazon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679727140/ref=ase_osingacom?v=glance&s=books)
-
-author: Redmond O'Hanlon,Marty Asher (Editor)
-
-isbn: 0679727140
-
-subject: travel
-
-**Black Frontiersmen:Afro-Hispanic Culture of Ecuador and Colombia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0881331996/ref=ase_osingacom?v=glance&s=books)
-
-author: Norman E. Whitten
-
-isbn: 0881331996
-
-subject: culture
-
-**Colombia in Focus:A Guide to the People, Politics and Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0853459703/ref=ase_osingacom?v=glance&s=books)
-
-author: Jan Rocha
-
-isbn: 0853459703
-
-subject: culture
-
-**Speaking Relationally :Culture, Communication, and Interpersonal Connection**
-
-chapter one
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1572302771/ref=ase_osingacom?v=glance&s=books)
-
-author: Kristine L. Fitch
-
-isbn: 1572302771
-
-subject: culture
-
-**Gaviotas:A Village to Reinvent the World**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0930031954/ref=ase_osingacom?v=glance&s=books)
-
-author: Alan Weisman
-
-isbn: 0930031954
-
-subject: history
-
-**In Trouble Again:A Journey Between the Orinoco and the Amazon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679727140/ref=ase_osingacom?v=glance&s=books)
-
-author: Redmond O'Hanlon,Marty Asher (Editor)
-
-isbn: 0679727140
-
-subject: history
-
-**Botero:New Works on Canvas**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0847820645/ref=ase_osingacom?v=glance&s=books)
-
-author: Ana Maria Escallon,Fernando Botero (Illustrat..
-
-isbn: 0847820645
-
-subject: history
+**Colombia Handbook** by Peter Pollard — one of the more thorough printed guidebooks, now somewhat dated but still useful for deeper background on smaller destinations.

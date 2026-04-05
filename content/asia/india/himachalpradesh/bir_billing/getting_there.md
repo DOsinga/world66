@@ -1,28 +1,6 @@
 ---
 title: "Getting There"
 type: section
-address: "himachal travels"
-email: "himachaltravels@sancharnet.in"
-phone: "01892-221428-453"
-zipcode: "176219"
 ---
 
-Air: Kangra has its own domestic airport at Gaggal, which is 7km away from
-[Kangra](/asia/india/himachalpradesh/kangra) town and about 40 km from Palampur. There are straight flights from Delhi to Guggal. 
-
-Rail :
-[Pathankot](/asia/india/punjab/pathankot) is the nearest railhead. There is an overnight train from
-[Delhi](/asia/india/delhi) to Pathankot. From Pathankot Palampur is connected by narrow guage railway. One can also take a bus or taxi to Bir from Pathankot. 
-
-Road : There are ordinary, semi deluxe or deluxe buses available from Delhi and other major towns of Himachal Pradesh to
-[Dharamsala](/asia/india/himachalpradesh/dharamsala),
-[Palampur](/asia/india/himachalpradesh/palampur),
-Baijnath,
-[Dadra and Nagar Haveli](/asia/india/dadraandnagarhaveli) or
-[Mandi](/asia/india/himachalpradesh/mandi). All
-Kulu-
-[Manali](/asia/india/himachalpradesh/manali)buses go via Mandi. Bir can be reached easily from all these towns by buses or taxi. 
-
-[himachal
-
-getting to bir himachal more..](/asia/india/himachalpradesh/bir_billing/getting_there/himachal)
+**By air**, the nearest airport is **Gaggal** (Kangra Airport), about 70 km away, with a few flights daily from Delhi. **By rail**, the narrow-gauge Kangra Valley Railway stops at Ahju station, about 3 km from Bir — a slow but scenic ride from Pathankot. The nearest broad-gauge railhead is **Pathankot**, connected to Delhi by overnight train; from there it is a 4–5 hour drive or bus ride. **By road**, ordinary and deluxe buses run daily from Delhi (12–14 hours), Chandigarh and Dharamsala to Baijnath; Bir is a short taxi ride from Baijnath bus stand. Shared taxis from Dharamsala and McLeod Ganj (3 hours) are the easiest option if you are already in the area.

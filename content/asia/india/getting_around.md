@@ -3,18 +3,28 @@ title: "Getting Around"
 type: section
 ---
 
-The best way to get around in India is the train. But booking a train can be a bit of a hassle. Most trains are booked 15 days before they leave, but fortunately there are the famous quota, more specificly the tourist and emergency quota. The bigger tourist centres like Mumbai, have a special counter where you can buy the tourist quota tickets, they are sold the day before the train leaves. Be there early because tickets to places like Goa are sold very quickly. At smaller stations you can make use of the emergency quota. Buy a waiting list ticket and go to Station Manager and ask for a emergency ticket. Should do the job (most of the time).
+## Train
 
-When you are at the booking office before buying the ticket you should fill in a booking form, for this you need the train number and the train name. To get this information buy the very handy trains at a glance, a must have for the train traveller in India.
+The train is the best way to travel long distances in India. The network is vast, the prices are reasonable, and for overnight journeys a reserved sleeper car beats every other option: comfortable berths, air conditioning, and a parade of curious fellow passengers who will likely engage you in lengthy conversations about education, politics, and cricket.
 
-Once the fun and novelty of this process wares off, there is an easier way to get tickets. Most guesthouses and hotels will send someone to the station to buy tickets for you. There is usually a service charge- anywhere from rs10- rs100 (at the posher places). The time saved can allow another half day of sightseeing or errands.
+Book tickets in advance — popular routes fill up weeks ahead. The official booking site is [irctc.co.in](https://www.irctc.co.in). A helpful booklet called *Trains at a Glance* lists all services with numbers and times; buy it at larger stations. If you're stuck, major tourist centres have special counters selling "tourist quota" tickets for the following day. At smaller stations, ask the stationmaster about the emergency quota.
 
-If you have the money, Second Class Sleeper trains are reccomended for longer trips. Seating is reserved so you won't end up in a compartment with sixteen people, the beds are comfortable, there is air conditioning, and breakfast is served (delicious Idley in the south) and always, of course, endless cups of chai.
+Most guesthouses will arrange ticket purchases for a small fee — worth it if you're short on time.
 
-Train travel is one of the most pleasing and fun experiences you will have in India. Your fellow passengers are very curious about travellers, and will likely engage you in long (and sometimes fascinating) conversations about politics, education, travel, family and career. Seeing the vast countryside roll by while relaxing in a nice air conditioned pullman beats any other long distance travel option hands down.
+## Bus
 
-If you must, and sometimes you must, another way to get around is by bus. There all kinds of buses, the normal, luxe, deluxe, ultra deluxe and sleeper bus are some of them. The buses in India are a bit chaotic. The easiest are the private buses the go from one tourist place to another, for instance from Goa to Hampi. The state owned buses go between all major cities. The moment some of these arrive at the bus station (the ones without seat reservation) they are attacked by the people waiting at station. People will throw in their bags through the window to get a place, because once your bag is on a seat it is yours. Less quick people will get a standing place (even on night buses), and normal people like most tourist will have to wait... So my advice if you travel by bus get a reserved seat.
+Buses go where trains don't, which is much of the country. Quality ranges from modern private coaches on tourist routes (Goa to Hampi, say) to state-run buses that are crowded, slow, and involve a lot of horn-honking over deeply potholed roads. On unreserved state buses, people throw bags through windows to claim seats before boarding — your safest move is to book a reserved seat whenever possible.
 
-Buses are not a pleasant mode of transportation, between the constant honking of the bus and other vehicles on the road and the potholes that will make your head bump against the ceiling, you will have to shove your knees in your nostrils. But sometimes there is just no other way.
+Overnight "sleeper buses" run on many tourist routes and can save a night's accommodation cost, though the quality of sleep depends heavily on road conditions.
 
-For those of us that have a little more money there is always the airplane. You can book tickets at the more reliable travelagents, but make sure they copy your personal details correctly on the application form of the ticket else you will have nasty complications at the airport. There are regular flights between all big cities in India.
+## Domestic Flights
+
+Flying saves enormous amounts of time on longer routes. IndiGo, Air India, SpiceJet, and Vistara operate dense domestic networks. Fares are competitive if booked ahead; last-minute prices can be steep. The main hubs are Delhi, Mumbai, Bengaluru, Chennai, Hyderabad, and Kolkata.
+
+## Local Transport
+
+Auto-rickshaws are the default short-distance option in most cities — three-wheeled, noisy, and essential. Always agree on a fare before setting off, or insist on the meter. In some cities, app-based ride services (Ola, Uber) work well and eliminate the negotiation.
+
+Taxis are available in larger cities. Ola and Uber are reliable and generally cheaper than unmetered cabs.
+
+Metro systems operate in Delhi, Mumbai, Bengaluru, Chennai, Kolkata, Hyderabad, and several other cities — fast, cheap, and air-conditioned.

@@ -1,9 +1,8 @@
 ---
-title: "Lu village (Baan Lu)"
+title: 'Ban Phanom Weaving Village'
 type: poi
-type: "general"
+latitude: 19.882000
+longitude: 102.155000
 ---
 
-Lu village is located only 3 km from the centre of Luang Prabang. It is famous for cotton and silk weaving, and some beautifully hand-crafted souvenirs. The Lu people of Ban Phanom came originally from Sip Song Panna in the southern Chinese province of Yunnan.
-
-type: general
+Ban Phanom is a weaving village about 3 kilometres east of Luang Prabang's center. The Lu people who live here originally came from Sip Song Panna in southern China's Yunnan province and are known for their cotton and silk weaving. You can watch weavers at their looms and buy textiles directly. It makes a pleasant bicycle ride from town.

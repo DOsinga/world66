@@ -11,7 +11,7 @@ Home to one of the world's largest fresh water lake, Lake Winnipeg, just an hour
 
 Take the train up to Churchill (a two-day trip across beautiful prairie) and see the polar bears, an incredibly popular destination. Or hike through the dozens of provincial and national parks located in Manitoba, including Bird's Hill, Riding Mountain and the Whiteshell. 
 
-Or stay in many of the bed and breakfasts in the numourous prairie towns and see a sunrise like you've never seen before, or watch a wicked prairie thunderstorm. 
+Or stay in many of the bed and breakfasts in the numerous prairie towns and see a sunrise like you've never seen before, or watch a wicked prairie thunderstorm. 
 
 Manitoba truly is a destination for the adventurous at heart.
 

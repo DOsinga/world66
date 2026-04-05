@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Nice"
+title: "Beaches"
 type: section
 ---
 

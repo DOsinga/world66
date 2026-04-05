@@ -1,18 +1,14 @@
 ---
-title: "Sydney"
+title: 'Sydney'
 type: location
-latitude: -33.869844
-longitude: 151.208285
+latitude: -33.8698
+longitude: 151.2083
 ---
 
-When flying to Australia, the foreign traveller is most likely to arrive in Sydney. The airport is located to the South of the city in Botany Bay, where Cook originally arrived. This bay was originally intended as the place for the city Sydney, but the subsequent fleet found an even more beautiful spot in Port Jackson Harbour: there where the Opera House and the Sydney Bridge are located. 
+Sydney is built around one of the most beautiful natural harbours in the world, and that harbour shapes everything about the city. The Opera House and Harbour Bridge are the famous landmarks, but the real pleasure is in how water threads through daily life here -- ferries crisscrossing the harbour, coastal walks connecting beach after beach, and that particular quality of light bouncing off the Pacific.
 
+The city sprawls, but the parts that matter to visitors are fairly compact. The CBD, Circular Quay and The Rocks sit on the south shore of the harbour. Cross the bridge or take a ferry and you reach the leafy North Shore and Manly. Head east and you hit the string of ocean beaches from Bondi to Coogee. To the west, the inner suburbs of Newtown, Glebe and Surry Hills have the best eating and nightlife.
 
+Sydney is genuinely multicultural and that shows most clearly in its food. Chinatown around Haymarket is excellent, the Vietnamese restaurants on King Street in Newtown are outstanding, and you can find everything from Ethiopian to Peruvian if you know where to look. The seafood is superb -- the fish markets at Pyrmont are worth a visit even if you are not cooking.
 
-
-
-And that is probably where you want to go after you arrive deadly tired in Sydney. It has been a long flight -- from where-ever you came from. Change some money on the airport and then jump in a cab. And let it drive you to your hotel 'downtown' (in the 'city' they say here). It's going to cost you approximately $35 Australian dollars ($23 US). You can also take the yellow-green airport-to-city buses, if you want to save money. 
-
-Whether arriving in the winter or summer, in rain or sun, two things strike you about Sydney the first time you'll arrive: (1) what a mess the traffic is (said to improve before the Olympics in 2000) and (2) what a beautiful landscape Sydney is built in. 
-
-But to really enjoy Sydney, why don't you experience 'A Perfect Day in Sydney'?
+The climate is mild year-round but Sydney is at its best in the southern spring and autumn (September to November and March to May), when the weather is warm without the humidity and crowds of peak summer. Winters are cool but rarely cold, and the city gets about 340 sunny days a year.

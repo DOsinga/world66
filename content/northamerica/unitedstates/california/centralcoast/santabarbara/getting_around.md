@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Santa Barbara"
+title: "Getting Around"
 type: section
 ---
 

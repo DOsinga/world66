@@ -1,10 +1,6 @@
 ---
-title: "Eating Out in Atlanta"
+title: "Eating Out"
 type: section
 ---
 
-Atlanta's food scene has grown enormously in the past decade. Southern comfort food is still the backbone — fried chicken, barbecue, and soul food — but the city's international population has produced a genuinely diverse dining landscape.
-
-For classic Southern cooking, Mary Mac's Tea Room on Ponce de Leon has been feeding Atlantans since 1945. Buford Highway, northeast of downtown, is one of the best strips of authentic international restaurants in the American South, running through Vietnamese, Korean, Chinese, Mexican, and more.
-
-The neighborhoods of Inman Park, Virginia-Highland, and Ponce City Market concentrate many of the city's most interesting restaurants. Little Five Points is good for cheap, eclectic eats. Midtown is better for upscale dining.
+Atlanta has a genuinely good food scene, strongest in Virginia Highlands and Inman Park. Southern cooking — fried chicken, biscuits, collard greens — is done seriously here, not as a tourist performance. Buford Highway, a stretch northeast of downtown, has some of the best Korean and Vietnamese restaurants in the American South.

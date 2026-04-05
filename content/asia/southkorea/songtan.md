@@ -5,8 +5,4 @@ latitude: 37.075356
 longitude: 127.054366
 ---
 
-Songtan is in Pyeongtaek, about an hours drive south of Seoul. Going there you will pass Suwon City, take the Osan Ciy exit, and continue south to Songtan City.
-
-Songtan you have the Shin-Jang shopping and entertainment district right outside of Osan AB's main gate. There is shopping for leather goods, silk goods, knock-off clothing and shoes, bootleg games / DVDs, and mink blankets.
-
-Songtan is most famous for the 40 bars and hostess clubs that it is home to. The girls that work at these clubs include Filipinas, Koreans, and Russians.
+Songtan is a small city in Pyeongtaek, about an hour's drive south of Seoul, closely associated with Osan Air Base. The Shin-Jang district outside the base's main gate has shops selling leather goods, silk, and clothing. It is a minor stop on the way south, of interest mainly to those with a connection to the base.

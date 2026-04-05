@@ -1,42 +1,32 @@
 ---
-title: "Practical Information in Tajikistan"
+title: "Practical Information"
 type: section
 ---
 
-General info about Tajikistn...
+## Money
 
-Airport: Dushanbe Airport (DYU) is 1 mile (2km) south of the city. Bus nos. 3 and 12, and trains 3 and 4, run to the city centre 0600-1800 (travel time - 20 minutes).
-If you would like to fly into Dushanbe you can fly with Turkish airways via Istanbul or the New Somone Airline is pretty good flies via Dubai and Sharja and Urumqi.
-or Tajikistan airways.
-or you can get there overland from Uzbekistan through Penjikent or even Khujand you can reach from Tashkent.
-the most popular route is now a days from Uzbekistan througk Penjikent, Iskandrkul lake the to Pamir highway to Kyrgyzstan
+The Tajikistani somoni (TJS) is the currency. Dollar and euro notes in good condition are easy to exchange in cities; bring cash. ATMs exist in Dushanbe and Khujand, but outside cities they are rare or unreliable. Carry sufficient somoni before heading into the mountains or to Penjikent. Card payments are limited to upmarket hotels and some shops in Dushanbe.
 
-which snow leopard tours run a daily departures from Dushanbe to Kyrgyzstan as well from Uzbekistan.
-they can arrange LOI as well visa service www.snowleopardtours.com.
-there are few new hotels Dushanbe higher end is Hayat regency, Tajikistan hotel Serena hotel is under construction which is suppose to be open in 2010, middle range is Avesto, mercury,
+## Safety
 
-there are heaps for local restaurant in town.
-if you are looking for drinks i would recommend the Irish pub.
-but there are many local ones as well.
-if you are visiting Pamir area please be aware to bring warm clothings as it gets pretty cold there.
+Tajikistan is generally safe for travelers. Crime targeting tourists is rare. The eastern border with Afghanistan and areas near the Kyrgyz border in the north have occasional tensions; check current advisories before travel. The civil war of the 1990s is long over and the country has been stable for decades. The main risks are altitude sickness, road accidents on mountain roads, and the occasional landslide closing a route.
 
-Climate: In Dushanbe, temperatures vary between a minimum -13°C (8°F) in December/January to a maximum 33°C (91°F) in July/August.
+## Health
 
-Food & Drink : Traditional Tajik meals start with sweet dishes such as halwa and tea and then progress to soups and meat before finishing with plov. Plov is made up of scraps of mutton, shredded yellow turnip and rice, fried in a large wok, and is a staple dish in all the Central Asian republics. The appetising shashlyk (skewered chunks of mutton grilled over charcoal, served with raw sliced onions) and lipioshka (round unleavened bread) are often sold on street corners and served in restaurants: the Vastoychny bar restaurant in Dushanbe (on Prospekt Rudaki near the Hotel Tajikistan) serves particularly good shashlyk. Manty (large noodle sacks of meat), samsa (samosas) and chiburekki (deep-fried dough cakes) are all popular as snacks. Shorpur is a meat and vegetable soup; laghman is similar to shorpur, but comes with noodles. In the summer, Tajikistan is awash with fruit: its grapes and melons were famous throughout the former Soviet Union. The bazaars also sell pomegranates, apricots, plums, figs and persimmons. Little of the food served in hotels indicates its Tajik heritage : borcht is beetroot soup, entrecote are well-done steaks, cutlet are grilled meatballs, and strogan is the local equivalent of beef Stroganoff. Pirmeni, originating in Ukraine, are small boiled noodle sacks of meat and vegetables similar to ravioli, sometimes in a vegetable soup, sometimes not.
+No vaccinations are specifically required, but hepatitis A, typhoid, and routine jabs are sensible. Altitude sickness is a real concern in the Pamirs — ascend slowly, stay hydrated, and don't ignore symptoms. The water in cities is generally safe to drink; in the mountains use purification tablets or a filter. Pharmacies in Dushanbe are well stocked; elsewhere, bring what you need.
 
-Tea or chai is the most widespread drink on offer and can be obtained almost anywhere. Beer, wine, vodka, brandy and sparkling wine (shampanski) are intermittently available in many restaurants. If the restaurant is unable to supply it, it is acceptable to bring your own. Kefir, a thick drinking yoghurt, is often served with breakfast.
+## Climate
 
-Nightlife : There are no restaurants operating in the evenings except for the one in the Hotel Oktyabrskaya which shuts at 2200. There is a dollar bar in the basement of the Hotel Tajikistan which is open some evenings. The Ayni opera and ballet theatre on Prospekt Rudaki is still operating, albeit with a reduced programme of matinees. The streets of Dushanbe are deserted after 2000.
+[Dushanbe](/asia/tajikistan/dushanbe) has a continental climate: hot summers (up to 40°C in July–August) and cold winters (down to -10°C in January). Mountain areas are dramatically colder — the Pamirs at altitude can freeze overnight in summer. Snow closes high passes from roughly November to May.
 
-Shopping : Shortages are the norm in Tajikistan; there is a bazaar and street market behind the Hotel Tajikistan where it is possible to buy food and sometimes handicrafts. Shokhmansur (also known as Zilyoni) Bazaar near Ploshchad Ayni also sells food. There is a souvenir shop on the corner of Prospekt Rudaki and ulitsa Ismail Somoni, under an art gallery which exhibits and sells the work of local artists. Shopping hours : Food shops open Mon-Sat 0900-1700.
+## Communications
 
-Visa and LOI to Tajikistan: I am a citizen of EU, but my girl-friend is Japan, so not to risk, i made our visas in advance by 12 euros per person
+Mobile coverage is reasonable in cities and along main roads. In the Pamirs, Beeline has coverage in some areas; elsewhere expect no signal. Buy a local SIM (Tcell, Beeline, or Megafon) at the airport or any phone shop — cheap and usually no ID required. Wi-Fi is available in most guesthouses in Dushanbe and increasingly along the Pamir Highway.
 
-through http://www.tajikistanvisa.land.ru/
+## Customs and etiquette
 
-Special Events : There is a carnival of Navruz (the beginning of the Persian New Year), when a special dish called sumalak is prepared from germinating wheat. Other events celebrated are tied to the Muslim calendar.
+Remove shoes when entering homes and some guesthouses. Bread should not be placed upside down. When meeting older people or in formal settings, a hand on the heart and a slight bow is a respectful greeting. Modest dress is appreciated outside cities — covered shoulders and knees for women in rural areas.
 
-Social Conventions : Lipioshka (bread) should never be laid upside down, and it is normal to remove shoes, but not socks, when entering someone’s house. Shorts are rarely seen in Tajikistan and, worn by females, are likely to provoke unwelcome attention from the local male population
+## Navruz
 
-**Contributors**
-December 08, 2008
+The Persian New Year (March 21) is the biggest national holiday, with celebrations including music, traditional games, and the preparation of sumalak, a sweet porridge made from sprouted wheat. If your timing allows, it is a rewarding time to be in the country.

@@ -1,50 +1,16 @@
 ---
-title: "When to Go in Saudi Arabia"
+title: "When to Go"
 type: section
 ---
 
-The following is a brief on **Saudi Arabia â€“ When to go**.
-The timing of the year is crucial to the perfect holiday in the Kingdom
-of Saudi Arabia, since the weather can be very hot and during festival
-periods, it can be bursting at its seams with people. Grasping the
-right time to head down for a vacation in Saudi Arabia can be a real
-art, and hereâ€™s how.
+The best time to visit most of Saudi Arabia is **October to April**, when temperatures are tolerable and the desert landscape is at its most welcoming. Spring (March–April) is particularly pleasant: daytime temperatures in [Riyadh](/asia/saudiarabia/riyadh) hover around 25°C, the desert can turn green after rains, and the light in the northwest canyon country is extraordinary.
 
-**Climate**
+Summer (June–August) is brutal in most of the country. Riyadh regularly hits 45°C. Coastal cities like [Jeddah](/asia/saudiarabia/jeddah) are somewhat cooler but intensely humid. The exception is the Asir region in the southwest, where the mountains around Abha stay comfortably cool — often around 20°C — even in July, with clouds rolling in off the Indian Ocean. If you are visiting in summer, Asir is where you want to be.
 
-The summers of Saudi Arabia are immensely hot, with temperatures
-regularly reaching 50 degrees Celsius/122 degrees F in the summer. Then
-again, the temperature of the place depends greatly on the region that
-you have decided to visit â€“ the central parts of the Kingdom are the
-ones with the scorching hot sun and the desert sand, when summers are
-often the killer periods in the year. The coastal areas, however, rarely
-go above 38 degrees C/100 degrees F, although it can still be very
-warm. However, those choosing to go to the mountainous areas can
-rejoice. Although the sun can be intense in these areas, the temperature
-in the sun rarely goes above 35 degrees C/95 degrees F in the summer,
-and can be much cooler in the shade. Try to avoid the summer, as the
-heat can be a true obstacle to moving around, particularly in the main
-areas such as Riyadh, the capital and its surrounding areas.
+Winter (December–February) is mild and comfortable in most places. Desert nights can be cold, dropping near freezing on the central plateau. But the days are clear and sunny, and this is when Saudis themselves head out to camp in the desert.
 
-That being said, it is advisable to avoid the winter season as well,
-considering that the desert areas can be bitterly cold. It is not so
-much an issue in the capital areas, but it is an issue in the desert
-areas â€“ and the activities in the desert areas are fully cancelled.
-During this period, the rains in the coastal areas are torrential as
-well, so be sure to avoid those areas in the winter period.
+## Hajj and Ramadan
 
-**Festivals**
+The Hajj pilgrimage draws millions of visitors to Mecca and causes country-wide strain on transport and accommodation for one week each Islamic calendar year (dates shift forward roughly 11 days annually). Non-Muslim visitors will find the country crowded and prices elevated at this time. It is generally not ideal for tourism.
 
-The main festival that causes crowding is the Hajj, the Muslim
-pilgrimage that occurs in December. The holy city of Mecca is located in
-Saudi Arabia, so during the few days preceding and after the Hajj
-period, the country is overrun with pilgrims, and the shops are
-generally closed â€“ with hotels operating for pilgrims rather than
-tourists and shops selling festival goods rather than ordinary
-provisions. This is possibly the worst time for a tourist to come, since
-there are no activities, and there is the winter to consider as well.
-That said, it would probably be wise to avoid the month of Ramadan as
-well, during the period in August to September. It is the fasting month,
-and being an entirely Muslim country, Saudi Arabiaâ€™s food industry
-comes to a halt and there is generally nothing much to sample during
-this period.42
+Ramadan changes the rhythm of daily life significantly: restaurants only open after dark, business hours shorten, and eating, drinking, or smoking in public during daylight is off-limits for everyone. Some travelers find the evening atmosphere during Ramadan uniquely vibrant. Others find the daytime constraints difficult. Either way, be respectful of local customs.

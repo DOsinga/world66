@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 5 690 727 (July 1998 est.)
+Libya's population is around 7 million, concentrated heavily in a narrow coastal strip. The vast Saharan interior — which makes up 90% of the country's area — is nearly empty. Tripoli holds close to a third of the population.
 
-*note:* includes 144 363 non-nationals (July 1998 est.)
+The country is ethnically diverse but often described as homogeneous. The majority are Arab-Berber, descendants of the Amazigh (Berber) people who inhabited North Africa before the Arab conquest of the 7th century, and who largely assimilated into Arab culture over the following centuries. Significant Amazigh (Berber) communities remain, particularly in the Nafusa Mountains and in oasis towns like Ghadames and Awjila, where distinct Berber languages are still spoken. The Tuareg, a nomadic Berber people, inhabit the far southwest near Ghat and the Algerian border. The Tebu, a Saharan people of Nilo-Saharan origin, live in the far southeast.
 
-**Age structure:**
+Islam shapes daily life: nearly all Libyans are Sunni Muslim, and the rhythm of the day follows prayer times. Hospitality to strangers is a genuine cultural value — travelers who made it to Libya before 2011 consistently describe being invited into homes and plied with tea, a pattern that continues despite the conflict.
 
-*0-14 years:* 48% (male 1 399 354; female 1 351 442)
+The revolution of 2011 and the subsequent civil wars have deeply fractured Libyan society along regional, tribal, and ideological lines. The division between west (Tripolitania) and east (Cyrenaica) has ancient roots and has been politically significant since independence. The south (Fezzan) has its own distinct character and loyalties. Understanding these divisions matters if you're trying to understand what you're seeing.
 
-*15-64 years:* 49% (male 1 412 067; female 1 361 372)
-
-*65 years and over:* 3% (male 81 711; female 84 781) (July 1998 est.)
-
-**Population growth rate:** 3.68% (1998 est.)
-
-**Birth rate:** 43.95 births/1 000 population (1998 est.)
-
-**Death rate:** 7.15 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1.04 male(s)/female
-
-*65 years and over:* 0.96 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 55.81 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 65.44 years
-
-*male:* 63.21 years
-
-*female:* 67.78 years (1998 est.)
-
-**Total fertility rate:** 6.18 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Libyan(s)
-
-*adjective:* Libyan
-
-**Ethnic groups:** Berber and Arab 97% Greeks Maltese Italians Egyptians Pakistanis Turks Indians Tunisians
-
-**Religions:** Sunni Muslim 97%
-
-**Languages:** Arabic Italian English all are widely understood in the major cities
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 76.2%
-
-*male:* 87.9%
-
-*female:* 63% (1995 est.)
+Libya had one of the highest standards of living in Africa under Gaddafi, thanks to oil revenue distributed through subsidised food, fuel, and services. Much of that infrastructure has deteriorated since 2011. Youth unemployment and displacement are significant problems; large numbers of Libyans have left the country since the revolution.

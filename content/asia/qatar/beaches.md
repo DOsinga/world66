@@ -1,66 +1,16 @@
 ---
-title: "Beaches in Qatar"
+title: "Beaches"
 type: section
 ---
 
-Surrounded
-by Arab countries, Qatar has been traditionally characterized as a
-desert. But with one side of the country facing the sea, Qatar has some
-amazing beaches to offer. **Qatar Beaches** are really beautiful and
-very clean. As with many of the oil-rich Arab nations, Qatar has a
-special relationship with the luxurious. The Qatari beach experience is
-no exception in this respect!
-**
+Qatar's coastline is longer than it looks on a map — the peninsula has both an east-facing Arabian Gulf coast and a west-facing coast toward Bahrain. The water is warm and calm for most of the year. Beaches are best visited October through April.
 
-Khor
-Al Udeid**
+**Khor Al Udeid (The Inland Sea)** in the southeast is the most dramatic beach experience in Qatar. The sea cuts inland through towering sand dunes, creating a sheltered lagoon with Saudi Arabia's pink cliffs on the far shore. There are no facilities; you need a 4WD to reach the final stretch. Go early in winter weekends, as it gets busy with camping Qataris. Bring everything you need — there is nothing for miles. Worth every bit of the effort.
 
-Otherwise
-known as the inland sea, Khor al Udeid is situated on the southeast tip
-of Qatar. The land formation of the place is such that the sea pierces
-the land, creating an inland beach that divides Qatar from Saudi Arabia.
-Each side of the sea provides a different view – the Qatari side has
-magnificent white sand dunes, while the Saudi side has pink cliffs that
-stretch high above the ground. Beach activities are common but largely
-undeveloped, being largely a fishing village. Just sit back and enjoy
-the unspoiled beauty of the place.
-**
+**Sealine Beach** near Mesaieed, about 40 km south of Doha, is more accessible and has some facilities. The waves are stronger here than on the sheltered east coast, which makes it popular with kitesurfers. The dunes behind the beach are a popular spot for dune bashing with ATVs — loud and not for everyone, but the landscape is impressive.
 
-Doha**
+**Fuwairat Beach** on the northeast coast is quieter and wilder than anything near Doha. The cliffs have been eroded into striking formations, and between April and July green turtles nest here. If you visit during turtle season, go at night with a guide and keep noise and light to a minimum.
 
-Those
-looking for a more central location can choose beaches near Doha, the
-capital city of Qatar. These are largely prime beaches – kept private by
-the various luxury hotels that are around the area. The Four Seasons
-Hotel keeps a private beach, available strictly for guests. For those
-who prefer not to splurge, Palm Tree Island is the perfect place for
-you. A sand bar laced with beautiful, clear waters, the island is a
-five-minute boat ride from the newly established Al-Corniche along the
-Doha Bay.
-**
+**Beaches near Doha** are largely controlled by hotels, which keep their stretches private for guests. The public Corniche doesn't have a swimmable beach, but there are a few accessible spots if you explore the coast north of the city. Al Wakra has a small public beach that is pleasant enough.
 
-Fuwairat
-Beach**
-
-Located
-north of Doha, the Fuwairat Beach is unique in its own way. Standing
-along the narrow strip of beach, it is difficult to ignore the hanging
-rock structures that appear along the cliffs. These rock formations,
-caused by many years of corrosion by wind and tide, create patterns and
-shadows along the beach that appear spectacular in the sunset. In the
-turtle season, this beach is the nesting ground, and it is common to see
-turtles and wildlife lovers along the sand at low tide.
-**
-
-Mesaieed
-Beach**
-
-Another
-beach located along the southern coast of Qatar, the Mesaieed Beach is
-smaller than most others listed here. However, with strong winds and
-waves, the beach is popular among both tourists and locals alike. The
-consistent winds allow for the popular sport of surfing on this beach,
-and on weekends, this place is usually crowded with people.
-Qatar
-offers so many beautiful beaches, all perfect with fine, white sand and
-turquoise waters, yet with each of their own unique characteristics.
+The sea temperature is comfortable from October through May (20–28°C) and genuinely hot in summer, though swimming in 35°C water during 45°C air temperatures is an experience that has its own particular character.

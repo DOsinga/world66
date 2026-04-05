@@ -3,12 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-"/>
+Two main routes run through the country: the paved road along the south bank of the river and the dirt road along the north bank. Public transport on the south side is handled by GTSC buses, while the north bank relies mostly on bush taxis -- shared vehicles that leave when full.
 
-There are two main routes through the country: the tar road along the southern side of the river and the dirt road along the northern bank. Transport upcountry along the southern side is mainly the business of the Gambia Public Transport Corporation buses while northern-side travel is mostly by bush taxi.
+Local taxis are widely available. Yellow 'town taxis' handle short trips around [Banjul](/africa/gambia/banjul) and the coastal resort areas. Green 'tourist taxis' can go anywhere in the country and are the easiest way to arrange day trips. Agree on a fare before getting in -- meters do not exist.
 
-Local taxis are widely available with fares depending on the distance and duration of the trip. 'Town taxis' are painted yellow and are used mostly for local trips around Banjul and the Atlantic Coast resorts. 'Tourist taxis' are painted green and can go anywhere in the country.
+Minibuses (known as gelli-gelli) are the cheapest way to travel between towns. They are crowded, slow, and stop constantly, but they go everywhere. For longer distances, shared sept-places (seven-seat cars) run the main routes.
 
-The River Gambia used to be the primary transport route between Banjul and Georgetown but not anymore. There are private charters available for those who wish to follow the ways of old but currently there are no scheduled commercial boats plying the route.
+The Barra-Banjul ferry is essential for crossing the river mouth. The crossing takes about 35 minutes and runs regularly, though delays and long vehicle queues are common. If you are on foot, the wait is shorter.
 
-Car rental agencies are present in the major tourist areas and despite the country's British heritage driving is on the right. For the eco-conscious or the terminally macho hiring a bicycle for a few days or a week is a perfect way to get around this flat bike-friendly country. Rentals are available in tourist areas and locals are sometimes willing to rent theirs out to visitors where no formal facilities exist.
+Despite the country's British colonial heritage, driving is on the right. Car rental is available in the tourist areas, though the roads upcountry are rough and a 4x4 is advisable beyond the south bank highway. Cycling is a fine way to get around -- the country is flat and compact. Rentals are available in tourist areas and locals will sometimes rent out their own bicycles where no formal hire exists.

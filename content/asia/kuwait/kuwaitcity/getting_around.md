@@ -1,38 +1,14 @@
 ---
-title: "Getting Around in Kuwait city"
+title: "Getting Around"
 type: section
 ---
 
-**Getting Around in Beautiful Kuwait City
-**
+Kuwait City is built for cars, not pedestrians. The roads are wide, well-paved, and well-signposted in Arabic and English, but walking between areas is often impractical due to distances and the lack of pavements.
 
-As a tourist, you need to be aware of **Kuwait city transportation**
-options so that you can have a pleasant stay here in the capital of
-Kuwait. The city is found in the center of the country along the shore
-of Persian Gulf. Kuwait city is indubitably the economic center of the
-emirate.
+**Taxis** are the easiest option for visitors. Orange taxis can be flagged on the street, while white call taxis are booked through hotels or by phone and are more reliable. Meters are rarely used -- negotiate your fare before getting in. Ride-hailing apps (Careem, Uber) work well and take the guesswork out of pricing.
 
-**Transportation**
+**Buses** are cheap but confusing. Route numbers correspond to destinations, but schedules are erratic. They are used mainly by the city's large expatriate workforce rather than tourists.
 
-Kuwait city has well-paved networks of roads and superhighways. The
-city has no railway system, but the city bus service lines. When you
-ride the bus, you need to know the bus number because the number
-corresponds to the bus’s destination. If not, you can read the
-destination on the front side of the bus pr you can also ask the driver
-if the bus is going to pass by your destination before sitting down,
-just to make sure.
+**Rental cars** give you the most freedom. You will need an international licence, though some agencies are flexible. Be prepared for aggressive driving -- Kuwait City is notorious for fast, unpredictable motorists. Take extra care on the highways.
 
-You can also hire a car and drive around town by yourself. You need
-to own an international license in order to drive but some rental
-services will allow you to drive without an international license at a
-higher cost. Taxis are also available in Kuwait city. The taxis abound
-near hotels and if you are far from one, better call the taxi service
-numbers to have them pick you up.
-
-**Safety**
-
-Kuwait city is notorious for its bad drivers. So, when driving that
-rented car take heed of the motorists around you and be very vigilant
-because locals drive too fast and sometimes neglect to follow the
-rules. Traveling by bus is generally safe, but women are advised to
-wear modest clothing to avoid harassment.
+Within the central area, particularly around Souk Al-Mubarakiya and the waterfront, walking is feasible and pleasant, especially in the cooler months. The trip to [Salmiya](/asia/kuwait/salmiya) takes about 10 minutes by taxi.

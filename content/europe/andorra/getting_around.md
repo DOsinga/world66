@@ -1,15 +1,14 @@
 ---
-title: "Getting Around in Andorra"
+title: "Getting Around"
 type: section
 ---
 
-You won&rsquo;t probably need any **Andorra**** la Vella transportation** during your stay, since the town is small. Everything is easily reachable by walking. You can walk from one end of the town to the other in about an hour. However, if you have time or physical constraints or want to be able to move around the nearby suburbs, you can always take one of the public buses or rent a car.
+Andorra is tiny — about 470 square kilometres — and the main road, the CG-1, links the Spanish border through Andorra la Vella to the French border in less than 30 km. You can drive end-to-end in under an hour, traffic permitting.
 
-#### **Public Buses
-**
+**On foot**: Andorra la Vella's compact centre is easily walkable. The famous shopping mile along Avinguda Meritxell and Avinguda Carlemany can be covered in 20 minutes at a stroll. Most historic sights in the Barri Antic are also within easy walking distance.
 
-There are about 6 public bus lines serving Andorra la Vella and the surrounding towns. Buses run from 7 a.m. to 10 p.m. Fares are very affordable and depend on the distance of your trip. If you want to go from one end of the town to the other, for example, you will have to pay no more than $1.75 as of summer 2010. The vehicles serving the various bus lines are painted in yellow. They are small, comfortable and well-maintained.
+**By bus**: A network of colour-coded public bus lines connects the capital with all seven parishes. Services run from early morning until around 21:00. Fares are low (around €1.50–€3 depending on distance). The Mou-te app is the easiest way to plan routes and check timetables. In winter, ski resorts run their own free shuttle buses between villages and slopes.
 
-#### **Car Rental**
+**By car**: Many visitors rent a car, especially for reaching the higher parishes of Ordino, Canillo, and Encamp, or the ski areas. Roads are generally well-maintained but mountain passes can close in bad weather. Fuel and car hire are cheaper than in neighbouring France or Spain. Parking in Andorra la Vella is plentiful and affordable.
 
-Car rental is a common option for moving around Andorra la Vella. There are two companies which rent cars in the town. These are If Rent on Baixada del Moli and Pyrenees Rent a Car on Meritxell Avenue. Both offer a wide selection of vehicles and accident insurance. The prices start from $80 per vehicle daily for runs of up to 400 kilometers, which is more than enough for moving around the whole country.
+**Note**: There are no taxis in the traditional sense, but rideshare-style services operate, and hotels can usually arrange transfers.

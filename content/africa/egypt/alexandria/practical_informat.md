@@ -1,46 +1,22 @@
 ---
-title: "Practical Information in Alexandria"
+title: 'Practical Information'
 type: section
 ---
 
-**Alexandria practical information **will help you get on your way when traveling through Egypt. Here's a quick look at common Alexandria practical information, including emergency numbers and general statistics. Hopefully with careful planning and useful tips, you'll have a safe and fun trip to Alexandria.
+**Language** -- Arabic is the main language. English is widely spoken in tourist areas and hotels.
 
-**Formal Name: **Alexandria
+**Currency** -- Egyptian Pound (EGP). Banks and ATMs are readily available. Try to break larger bills into smaller denominations at banks, and save your change for small shops, restaurants, and tips. Major credit cards are accepted at larger establishments.
 
-**Country: **Egypt
+**Visas** -- Most visitors can purchase an Egyptian visa on arrival at the airport for around 25 USD, valid for 30 days. Check current requirements for your nationality before traveling.
 
-**Language: **Arabic (English widely spoken in tourist areas)
+**Airport** -- Borg El Arab Airport (HBE) is located about 40 kilometers southwest of the city center. Alexandria International Airport has been closed to commercial flights.
 
-**Size: **2,679 square km
+**Electricity** -- 220V, 50Hz. Plugs have two round pins (European style).
 
-**Population: **Over 4.1 million people
+**Time zone** -- UTC+2. Egypt does not observe daylight saving time.
 
-**Population Density: **Roughly 1,550 people per square km
+**Emergency numbers** -- Ambulance: 123. Police: 122. Tourist police: 126. Fire: 180.
 
-**Voltage: **220 V; 50 Hz
+**Safety** -- Alexandria is generally safe for tourists, though you should take the usual precautions with valuables on public transport and in crowded markets. The tourist police are helpful and can be reached on 126.
 
-**Outlets: **Two round pins
-
-**Visas: **Available upon arrival. Most visitors to Alexandria can purchase an Egyptian visa at the airport for just 15 USD. The visa is good for 30 days of travel, providing you have a valid passport.
-
-**Country Code: **+20
-
-**Area Code: **3
-
-**Currency: **Egyptian Pound
-
-**Banking: **Banks and ATM's are readily available in Alexandria. Try to get change your larger bills from the ATM into smaller bills at the bank whenever possible. Also, use large bills at bigger establishments and keep change for smaller shops and restaurants and for tips. Major credit cards and traveler's cheques, and sometimes U.S. dollars, are also acceptable at many larger shops, restaurants and hotels.
-
-**Airport: **Borg al Arab Airport is located approximately 25 km from Alexandria. Alexandria International Airport has been closed to commercial flights.
-
-**Time Zone: **EST (UTC + 2); No daylight saving time
-
-**Emergency Number (Ambulance): **123
-
-**Emergency Police Number: **122
-
-**Emergency Tourist Police Number: **126
-
-**Emergency Number (Fire): **180
-
-**Embassies: **There are many foreign embassies located within Alexandria. Check to see if yours is located in Alexandria or in Cairo.
+**Embassies** -- Several countries maintain consulates in Alexandria. Check whether yours is in Alexandria or [Cairo](/africa/egypt/cairo).

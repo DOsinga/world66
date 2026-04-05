@@ -1,14 +1,34 @@
 ---
-title: "Getting Around Naples"
+title: "Getting Around"
 type: section
 ---
 
-The best way to see the historic centre is on foot — the streets are too narrow and congested for anything else to make sense. For longer distances, public transport is the practical option. A single ticket works across buses, trams, metro, and funiculars.
+The only way to really get around Naples and stay sane is to walk. However, Naples is a large, sprawling city, so sooner or later it's recommendable to use the means of public transport (bus, trolley and subway). It may be a bit complicated but it's in any case better than going by private car or taxi. Furthermore it is the best solution to avoid heavy traffic jams. The public transport ticket is the same no matter which way of transport you use, you can buy it at counters in the metro/train/funicolare stations and in all the shops that show the logo **Gira Napoli - Napoli Pass**.
 
-**Metro:** Two lines. Line 1 (Metropolitana Collinare) runs from the north of the city to Piazza Dante and on to the Museo stop near the Archaeological Museum. Line 2 connects Piazza Garibaldi to Pozzuoli via the Mergellina and Campi Flegrei area. Line 1 stations in the centre are genuinely impressive — several were built as underground art installations.
 
-**Bus:** New express R-lines (marked with an R before the number, e.g., R1) are reliable and frequent, with intervals of five minutes or less. Older routes are less predictable.
+ 
+ **Bus:**
 
-**Funiculars:** Four funicular lines climb the Vomero hill. The most useful for tourists are Centrale (from Via Toledo) and Montesanto (from Piazza Montesanto). The views from the top are worth the ride even if you have nowhere specific to go.
 
-**Driving:** Don't. Traffic in Naples operates by a logic all its own — red lights are treated as advisory, lanes are suggestions, and mopeds materialise from every direction. If you have a rental car, leave it at your hotel or a garage and collect it on the way out of the city.
+ Don't expect to find timetables at the bus stop, counting on regular buses was until a couple of years ago impossible in Naples, due to the very chaotic and complex traffic, you will at most find the interval of time between two consecutive buses. Nowadays, however, the situation has greatly improved and the new bus lines, characterized by an **R** in front of their number (eg. R1), are quite fast and if you'll loose one you won't have to wait more than 5 minutes for the next one to arrive.
+
+
+ 
+ **Metro:**
+
+
+ You will find that there are 2 metro networks. One starts from the Gianturco passing by Napoli-Piazza Garibaldi, the railway station, and goes to Pozzuoli, the local call this just *Metropolitana* or "Metropolitana di Piazza Garibaldi". This serves the hystorical centrum and is the one you'll most likely use as tourist. Be a bit careful when using the Metropolitana, specially in the dead hours. The second and newest line serves for the moment the newest part of the city leaving from Piazza Vanvitelli and going to Secondigliano, in the near future also this metro should arrive to Napoli-Piazza Garibaldi. The local call this *Metropolitana Collinare* to distingush it from the previous one.
+
+
+ 
+ **Funiculars:**
+
+
+ A really nice way to get a perfect view on the city is using the funiculars scaling the hill of the Vomero from stations at Piazza Montesanto, Amadeo and Augusto.
+
+
+ 
+ **By car:**
+
+
+ Note: If you rent a car to tour Italy you should be very careful in Naples. It’s not that the city is more crowded than Rome or Florence or that the roads are in worse condition. But somehow the way the traffic flows the indomitable Neapolitan spirit and the complete disregard for traffic laws combine to make driving in Naples a harrowing experience. (It has been said that Neapolitans hesitate at green lights because they know everyone runs red lights — in fact Neapolitans treat red lights as stop signs.) If you do decide to bring a car into the city make sure you leave nothing of value in it not even in the trunk. Break-ins are common. And while we’re on the subject of warnings do not wear flashy jewelry, carry much cash in your wallet (or even carry a purse or wallet at all for that matter). Pickpocketing and purse snatching are rampant.

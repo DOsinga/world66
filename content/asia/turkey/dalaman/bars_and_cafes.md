@@ -1,41 +1,22 @@
 ---
-title: "Bars and Cafes in Dalaman"
+title: "Bars and Cafes"
 type: section
 ---
 
-Dalaman, situated between the sea and mountains, is an area of natural beauty and fast becoming a favorite hotspot for travelers to Turkey. Other attractions include its hot weather, beautiful countryside, interesting architecture, huge beach, ancient ruins and plenty of bars, shops, restaurant, and cafes. Hisaronu offers a range of trendy bars and restaurants popular with both locals and tourists, with specialties that will keep you coming back for more, like the alcoholic drink ‘raki’, fruit and apple teas, sweets including ‘baklava’ and pastries, Turkish kebabs, ‘borek’, sweet breads and fresh fish. Prices are lower than other resort towns, as tourism is relatively new to this region. English is the main language spoken in most of the Dalaman bars and cafes, which makes it easy to order local food.
+Dalaman's bar and cafe scene is modest but pleasant, with prices lower than the resort towns along the coast. Most places are locally owned and welcoming to visitors. For wilder nightlife, Marmaris is a short taxi ride away — Bar Street there is legendary for its laser shows, karaoke bars, and late-night energy.
 
-Here are some of the best bars and cafes to visit in Dalaman:
+**Belideye Park Cafe** is a local favourite, tucked behind the main coach station. No alcohol, but it is a relaxed spot to meet people and enjoy the fountain that switches on at 8pm in summer.
 
-Belideye Park Café
+**Turku Cafe** sits near the main road and serves traditional food with live Turkish music in the evenings.
 
-This affordable café is a favorite with locals and is located behind the main coach station for easy access. No alcohol is served here, and it's the perfect place to meet friends and enjoy the fountain that starts at 8 p.m. during the summer.
+**Camilik Cafe** offers buffet-style food in a parkland setting opposite the main square.
 
-Turku Café
+**Cafe Bunka**, at Gocek Marina, is a Japanese-style cafe with green tea, sushi, and sake in a more upscale setting.
 
-This restaurant offers traditional food and live Turkish music during the evenings, and is situated close to the main road in Dalaman.
+**Bengi Cafe and Restaurant** is a small venue on one of the main streets, known for its chicken casserole — a good lunch spot with people-watching potential.
 
-Camilik Café
+**Dolphin Restaurant and Bar** has a full a la carte menu and grilled dishes, with the option to sit by the pool.
 
-This café serves buffet style food and is set in a parkland, opposite to the main square.
+**Palmiye Restaurant and Bar** serves steaks and mezes with Turkish cocktails and wines, indoors or out.
 
-Café Bunka
-
-This Japanese café is located at Gocek Marina, where you can relax and enjoy their green tea, sushi and saki in luxurious surroundings.
-
-Bengi Café and Restaurant
-
-This trendy little venue, located on one of the main streets, serves a renowned chicken casserole. This is an ideal place for lunch and people watching.
-
-Dolphin Restaurant and Bar
-
-This bar offers a full a la carte menu, as well as popular grilled food and classic bar sides. You can choose to sit inside or lounge outside by the pool.
-
-Palmiye Restaurant and Bar
-
-This venue offers indoor and outdoor dining and boasts a menu of succulent steaks and mouth-watering mezes, accompanied with a selection of Turkish cocktails or wines.
-
-Dalaman bars and cafes are worth visiting to try some of the various food and drinks that are native to this region. Food offers a lot about the history and culture of an area, and should always be part of your traveling experience.
-
-**Contributors**
-November 04, 2009
+For a taste of the local drinking culture, try raki (anise-flavoured spirit) with mezes, or the ubiquitous apple tea. Fruit teas and Turkish coffee are available practically everywhere.

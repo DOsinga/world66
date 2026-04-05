@@ -1,5 +1,0 @@
-northamerica/guadeloupe
-northamerica/guatemala
-northamerica/haiti
-northamerica/honduras
-northamerica/jamaica

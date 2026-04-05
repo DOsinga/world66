@@ -1,26 +1,30 @@
 ---
 title: "Midway Islands"
 type: location
-latitude: 28.241754
-longitude: -177.37543
+latitude: 28.2072
+longitude: -177.3735
+image: midwayislands.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Starr_080531-4690_Eragrostis_variabilis.jpg"
+image_license: "CC BY 3.0"
+image_attribution: '<a rel="nofollow" class="external text" href="http://www.hear.org/starr/">Forest &amp; Kim Starr</a>'
 ---
 
-"/>
+Midway Atoll is a small American territory in the north-central Pacific, roughly 1,300 miles northwest of Honolulu. It sits near the far end of the Hawaiian archipelago and consists of three low-lying coral islands — Sand Island, Eastern Island, and Spit Island — surrounded by about 580,000 acres of reef and lagoon. The Hawaiian name for the atoll is Pihemanu, meaning "the loud din of birds," which tells you almost everything you need to know about the place.
 
-Midway is a small American atoll in the Pacific. For a long time it was not open to visitors, but it can now be reached by planbe from 
+Midway is not open to the public. The US Fish & Wildlife Service manages it as a National Wildlife Refuge, and since the visitor program was suspended in 2013 due to budget cuts, general tourism has been closed. Only staff, contractors, and volunteers working on conservation or airfield operations are permitted on the islands. There is no commercial air service, no accommodation for visitors, and no sign that this will change soon. If you're hoping to visit, check the FWS website for any updates, but don't count on it.
 
-[Honolulu](/northamerica/unitedstates/hawaii/honolulu). 
+## Wildlife
 
-The island offers one of the world's most spectacular wildlife experiences. Nearly two million birds call it home for much of each year, including the world's largest population of Laysan Albatross, or "gooney birds". Endangered Hawaiian monk seals, green sea turtles and spinner dolphins inhabit Midway's crystal blue lagoon. 
+About three million seabirds nest at Midway each year, making it one of the most important seabird colonies on Earth. The atoll hosts 67–70 percent of the world's Laysan albatross population and around 35–40 percent of the global black-footed albatross population. The birds, known locally as "gooney birds," are famously unbothered by human presence — they nest practically on the runway and along every trail on Sand Island.
 
+Wisdom, a female Laysan albatross banded in 1956, is the world's oldest known wild bird. She still returns to Midway every year to nest, and has raised an estimated 40 chicks over her lifetime.
 
+The lagoon is home to Hawaiian monk seals, one of the world's most endangered marine mammals, along with green sea turtles and spinner dolphins. The reef system is healthy and largely undisturbed.
 
-Midway became an "overlay" refuge in 1988, while still under the primary jurisdiction of the Navy. With the closure of Naval Air Facility Midway Island in 1993, there began a transition from bullets to birds, a change in mission from national defense to wildlife conservation. 
+## History
 
-Midway was the last link in a global telegraph system, inaugurated by a message from President Teddy Roosevelt on the Fourth of July, 1903, a prominent landing site for Pan Am Clippers enroute across the Pacific Ocean in the late 1930's and the focus of a 1942 land and sea battle that changed the tide of war in the Pacific; 
+The US took possession of Midway in 1867, making it one of the country's first overseas territories. The atoll became a strategic communications hub — part of a transpacific telegraph cable in 1903, then a stop on Pan Am's China Clipper route in the late 1930s.
 
-The naval air facility that played a pivotal role in support of the Korean War, the Cold War and the Vietnam War. 
+The Battle of Midway, fought June 4–7, 1942, was a decisive turning point in the Pacific War. American forces, having broken Japanese naval codes, ambushed an attacking Japanese fleet and sank four aircraft carriers. The battle stopped Japanese expansion in the Pacific and shifted the balance of the war. The atoll is now also a National Memorial to that battle.
 
-Now, for the first time since the Clippers landed in Midway's lagoon, this special place is open to the public. Visitors now arrive on flights from Honolulu to enjoy the wildlife, dive and fish in the lagoon and explore the many sites that reflect Midway's rich heritage. 
-
-To book a holiday, visit Midwayisland website
+The Navy operated an air station at Midway through the Cold War and into the 1990s. The base closed in 1993, and management was transferred to the US Fish & Wildlife Service. The islands have been recovering ever since.

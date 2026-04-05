@@ -1,10 +1,22 @@
 ---
-title: "Eating Out in Naples"
+title: "Eating Out"
 type: section
+address: "Salita Santa Anna di Palazzo, Trav. Via Chiaia"
+phone: "+39 (0)81 - 416928"
 ---
 
-Naples is one of the great eating cities of Italy. The question is not whether you will eat well but whether you will manage to stop. Pizza here is a different creature from anything you've had elsewhere — thin, soft, slightly charred, and only ever as good as the ingredients. The rules are strict: San Marzano tomatoes, buffalo mozzarella, good olive oil. Any pizzeria with a long queue of Neapolitans at lunchtime is worth joining.
+While you are in Naples you will surely want to try the famous Neapolitan pizza and other local specialties. That is indeed a very smart choice also for a low budget, as in most places you will not spend more than 15.000 Lire for a pizza and a beer. 
 
-Beyond pizza, the city's food is relentlessly seafood-focused. **Vermicelli alle vongole** (pasta with clams), **spaghetti ai frutti di mare**, grilled whole fish, and fried seafood fritters are the backbone of most menus. Offal features heavily in the street food: fried pizza stuffed with ricotta and salami, cuoppo of fried fish and vegetables, braised tripe. The pastry shops are exceptional — try **sfogliatella** (a shell-shaped pastry with a ricotta filling) and **babà** (rum-soaked yeast cake) wherever you find them.
+**The food front:** 
 
-In the Posillipo neighbourhood, several restaurants sit directly above the sea and combine serious food with views that justify the taxi ride.
+The most naturally Neapolitan dishes are **vermicelli** (small pasta) with clams, mussels, smaller shellfish, **ziti** (a type of pasta) with **ragù** (meat sauce), Italian style fritters, fritters of squid and mullet, steamed polyps or oven-baked lamb. 
+
+Without question, **pizza** is the symbol of Naples. Naples is known worldwide for this genuine and delicious dish. However, in Naples the pizza is different: whether because of the delicious odor in the air, in the oil, in the flavor of the water, or for the simplicity with which it is made, it is certain that in Naples "pizza" has a special flavor. 
+
+The city is also famous for sweets that change with the seasons: **struffoli** (cookies with Strega liqueur, honey, and candied sprinkles), **pastiere** (cakes made with **ricotta**, coarse flour, candied fruits, and orange syrup), **zeppole** (cookies made from black cherry liqueur, fried or cooked in the oven, for St. Joseph’s Day), **cassatae** (cake made from ricotta cheese, almond paste, and pieces of chocolate), **monachine** (in English, "little monks"), **sfogliate** rich with cream and layered high, frolle (sweet crumbly pastry made from flour, egg, butter and sugar), **babà** (made with light flour), eggs, and yeast and bathed in rum punch), **millefoglie** (layers of sweet cream and thin pastry shell), **mimose** (Angel Food cake, known in Italian as pasta di spagna, with cream). 
+
+These delicious sweets are always accompanied by coffee or flavored liqueurs such as **rosolio, limoncello or nocillo** - the latter is walnut-flavored.
+
+Brandi
+
+This pizzeria own its fame mainly to the fact that they invented the pizza Margherita, their pizza is good. However if you are looking for a unexpensive meal this is surely not the place you want to go to.

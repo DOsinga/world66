@@ -3,100 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+*Africa > Mali > Books*
 
-**To Timbuktu**
+**Mali Blues: Travelling to an African Beat** by Lieve Joris is the best introduction to the country for travellers. The Belgian writer's account of her 1993 journey through Senegal and Mali — following a Malian blues singer — captures the texture of West African life, music, and friendship with extraordinary vividness. One of the best travel books about the region.
 
+**To Timbuktu** by Mark Jenkins recounts his kayaking expedition down the Niger River toward the legendary city. Adventurous and readable; a good companion if you are planning river travel.
 
+**In the Shadow of the Sahara** and other writing by Dervla Murphy covers her bicycle journey through Mali. Murphy's mix of sharp observation and genuine affection for the people she meets works well in a Malian context.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0688163424/ref=ase_osingacom?v=glance&s=books)
+**The Broken Road** by Patrick Leigh Fermor does not cover Mali, but for the context of great travel writing set in difficult countries, it is instructive.
 
-author: Mark Jenkins
+**Sundiata: An Epic of Old Mali**, collected and translated by D.T. Niane, is the foundational epic of the Mali Empire — the story of Sundiata Keïta, founder of the empire, as told by griots. Essential background if you want to understand what the griot tradition actually preserves. Several English translations are available.
 
-isbn: 0688163424
+**Waiting for Rain: Life and Development in Mali, West Africa** by Lewis W. Lucke is a development worker's account of living and working in Mali. More practical and less poetic than the travel accounts, but useful for understanding the country's underlying challenges.
 
-subject: travel
-
-**Mali Blues:Traveling to an African Beat**
-
-** Pieter:** This colourful, lively book by the Amsterdam based Belgian writer Lieve Joris lets you look at Africa in a different way. It describes a trip to Senegal and Mali in 1993. The writer meets all kinds of people, including Kar Kar, a Mali blues singer. Recommended! 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864425325/ref=ase_osingacom?v=glance&s=books)
-
-author: Lieve Joris,Sam Garrett (Translator)
-
-isbn: 0864425325
-
-subject: travel
-
-**The Wild Goose Chronicles**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0879058609/ref=ase_osingacom?v=glance&s=books)
-
-author: Trent Harris
-
-isbn: 0879058609
-
-subject: travel
-
-**The Healing Drum:African Wisdom Teachings**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0892812567/ref=ase_osingacom?v=glance&s=books)
-
-author: Yaya Diallo,Mitchell Hall
-
-isbn: 0892812567
-
-subject: culture
-
-**The Making of Bamana Sculpture:Creativity and Gender**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0521444845/ref=ase_osingacom?v=glance&s=books)
-
-author: Sarah C. Brett-Smith
-
-isbn: 0521444845
-
-subject: culture
-
-**The Hatseller and the Monkeys**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0590960695/ref=ase_osingacom?v=glance&s=books)
-
-author: Baba Wague Diakite
-
-isbn: 0590960695
-
-subject: history
-
-**Waiting for Rain:Life and Development in Mali, West Africa**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0815805292/ref=ase_osingacom?v=glance&s=books)
-
-author: Lewis W. Lucke
-
-isbn: 0815805292
-
-subject: history
-
-**Sundiata:Lion King of Mali**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0395764815/ref=ase_osingacom?v=glance&s=books)
-
-author: David Wisniewski (Illustrator)
-
-isbn: 0395764815
-
-subject: history
+For music, the liner notes to any of Ali Farka Touré's albums — particularly *Talking Timbuktu* (with Ry Cooder) or *Savane* — are worth reading for their discussion of the links between West African music and the American blues. Toumani Diabaté's recordings similarly come with excellent context about the kora and the griot tradition.

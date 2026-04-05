@@ -1,12 +1,18 @@
 ---
 title: "Australia and Pacific"
 type: location
+image: australiaandpacific.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Uluru-Kata_Tjuta_National_Park,_Uluru,_Kuniya_Walk_--_2019_--_3615.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: '<bdi><a href="https://www.wikidata.org/wiki/Q34788025" class="extiw" title="d:Q34788025"><span title="German photographer and mathematician">Dietmar Rabich</span></a></bdi>'
 ---
 
-The Pacific. Doesn't it dream up images of blue water and wonderful islands? Because of their relative isolation from the super-powers that is more or less still true. Although they were last to be discovered, Australia and the Pacific islands were a fine addition to planet Earth.
+This is a vast and varied part of the world — a continent-sized country, a small archipelago of adventure tourism, and dozens of Pacific island nations spread across the largest ocean on earth. What ties them together is distance. Everything here is far from everywhere else, which is precisely what has made it worth coming.
 
- [Australia](/australiaandpacific/australia) has a very diverse climate. Dry deserts, almost tropcial rainforest and a temperate climate. This makes that when it comes to natural beauty, Australia is definitely worth seeing. And although most of the cities are young, they are attractive places to be.
+[Australia](/australiaandpacific/australia) is bigger than most people expect and more diverse than the clichés suggest. The outback is genuinely remote and stunning. The Great Barrier Reef is one of the natural wonders of the world. The cities — Sydney, Melbourne, Brisbane — are among the most livable on the planet. And the wildlife really is that strange: kangaroos, wombats, platypuses, and creatures that exist nowhere else on earth.
 
- [New Zealand](/australiaandpacific/newzealand) is also a great place for travelers. A laid back atmosphere and more adventure tourism opportunities than there are dreamt of in your philosophy: hiking, biking, caving and raving. 
+[New Zealand](/australiaandpacific/newzealand) punches well above its size. Two islands, a couple of million people, and more dramatic scenery per square kilometre than almost anywhere. Fiords, volcanoes, glaciers, vineyards, and some of the best long-distance walking tracks in the world. It's also one of the easier countries to travel independently — infrastructure is good, distances are manageable, and New Zealanders are genuinely welcoming.
 
- The Pacific has this paradise like atmosphere written all over it, and this is with good reason. A stay on the islands really relaxes you. There is a lot to see from a cultural point of view as well. Small island groups like [Niue](/australiaandpacific/niue), [French Polynesia](/australiaandpacific/frenchpolynesia) or [Tonga](/australiaandpacific/tonga) make for the perfect relaxing holiday. [Western Samoa](/australiaandpacific/westernsamoa) and [American Samoa](/australiaandpacific/americansamoa) arguably represent the largest population of polynesian people and they take pride in a strong culture that has survived outside incursions amazingly well.
+The Pacific islands are another thing entirely. [Fiji](/australiaandpacific/fiji), [Tonga](/australiaandpacific/tonga), [French Polynesia](/australiaandpacific/frenchpolynesia), [Vanuatu](/australiaandpacific/vanuatu), the Samoas — each has its own character, but they share a pace of life that's hard to find elsewhere. Things happen slowly here, communities are tight-knit, and the ocean is everywhere. That can feel like paradise or like frustration, depending on what you're after.
+
+Getting around this region takes planning. Distances are enormous and flights between island nations are expensive. But for travelers willing to slow down and let the journey unfold, Australia and the Pacific offer experiences that are genuinely hard to replicate anywhere else.

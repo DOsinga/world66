@@ -1,15 +1,9 @@
 ---
 title: "St. Peter's Basilica"
 type: poi
-category: "Architecture"
-address: "Piazza San Pietro, Vatican City"
-url: "www.vatican.va"
-opening_hours: "Daily 7:00am–7:00pm (Apr–Sep), 7:00am–6:30pm (Oct–Mar); dome closes 1 hour earlier"
-admission: "Free (dome climb: €6 on foot, €8 by lift)"
-latitude: 41.902149
-longitude: 12.453387
+category: 'Churches and monuments'
+latitude: 41.9022
+longitude: 12.4539
 ---
 
-The largest church in the world took over a century to complete and brought in Michelangelo, Bramante, Raphael, and Bernini along the way. The dome — Michelangelo's design, finished after his death — dominates the Roman skyline. Inside, Bernini's bronze baldachin over the high altar and his colonnade framing St. Peter's Square are the defining set pieces. Michelangelo's Pietà is in the first chapel on the right; it's behind glass after an attack in 1972.
-
-Climb the dome for sweeping views over Rome and the Vatican gardens. Dress code is strictly enforced: no bare shoulders or knees.
+The center of the Catholic world, built over the grave of St. Peter. The present building replaced Constantine's original basilica, with work spanning from the mid-15th to the 18th century. Michelangelo designed the great dome, which you can climb for unforgettable views over Rome. Inside, Bernini's bronze baldachin over the high altar was cast using copper stripped from the Pantheon's roof. Entry is free but expect long queues and strict dress codes -- covered shoulders and knees are required.

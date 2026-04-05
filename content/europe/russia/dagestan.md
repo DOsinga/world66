@@ -5,18 +5,15 @@ latitude: 43.0
 longitude: 47.0
 ---
 
-Dagestan is a republic within the Russian federation. Located between the Caspian sea on the East and Caucasus mountains on the West, it is one of the most attractive places in that part of the globe. 
- 
+Dagestan is a republic of the Russian Federation on the western shore of the **Caspian Sea**, at the eastern end of the Caucasus range. It is roughly the size of Scotland and home to around three million people, but those people belong to more than thirty distinct ethnic groups — **Avars**, **Dargins**, **Kumyks**, **Lezgins**, **Laks**, **Tabasarans** and many others — each with its own language. Dagestan is, by several measures, the most linguistically diverse place in Europe, and the name itself means "Land of Mountains" in Turkic.
 
-In size it is close to Scotland. With population of just above 2 million people, Dagestan is the homeland to over 36 different nationalities, and each one of those nationalities has its own unique language. Such combination of languages, cultures, types of landscape and customs makes it a one of a kind place in the world. 
- 
+For most of its history Dagestan has been a highland frontier between empires — Persian, Ottoman, Russian — and the landscape still shows it. The highland villages are built like small fortresses, clinging to impossibly steep slopes, with defensive towers rising above the roofs; many of the best known, like **Gamsutl** (an Avar "ghost village" abandoned in the 2000s) and **Chokh**, have seen an unlikely renaissance as domestic tourism has discovered them. **Sulak Canyon**, at over 1,900 metres deep, is one of the deepest canyons in the world. The Caspian coast has beaches and long-vanished khanates; the mountains hold ancient watchtowers, rock-cut tombs, and the stone circles of the Caucasus bronze age.
 
-The capital of Makhachkala is the most important town and the best place to start exploring the many aun's in the neighborhood. 
- [Derbent](/europe/russia/dagestan/derbent)is an attractive city with very old roots. Tidib is set stunningly in the mountains and the watchtower is an important monument. 
- 
+The capital, **Makhachkala**, is a busy modern port city and the main transport hub. Most travellers, however, head straight for **[Derbent](/europe/russia/dagestan/derbent)** — Russia's oldest continuously inhabited city, founded in the 5th century CE, whose UNESCO-listed **Naryn-Kala citadel** and the parallel walls running down to the Caspian Sea once formed the main gate through the Caucasus between the Persian and the steppe worlds.
 
-These days, however, Dagestan is going through the times of heavy unrest, both political and ethnical. 
+Dagestan went through decades of political and militant Islamist unrest in the 1990s and 2000s; the situation has stabilised considerably since then, but the region still requires more caution than most of European Russia, and Western travel advisories may apply. Check current guidance before planning any trip.
 
 ## Destinations in Dagestan
 
-[Derbent](/europe/russia/dagestan/derbent)
+- [Derbent](/europe/russia/dagestan/derbent)
+- [Tabasaran](/europe/russia/dagestan/tabasaran)

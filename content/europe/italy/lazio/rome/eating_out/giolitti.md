@@ -1,9 +1,9 @@
 ---
-title: "Giolitti"
+title: 'Giolitti'
 type: poi
-address: "Via degli Uffici del Vicario, 40"
-latitude: 41.901164
-longitude: 12.476946
+address: 'Via degli Uffici del Vicario, 40'
+latitude: 41.9003
+longitude: 12.4786
 ---
 
-A Roman institution and one of the city's oldest gelaterias, open since 1900. Around 70 flavours available, and the quality is solid even if the place trades heavily on its reputation. A few minutes' walk from the Pantheon — worth stopping here rather than at the tourist-trap gelato stalls outside.
+A Roman institution near the Pantheon, once considered to have the best gelato in Italy. Still very good, with a choice of over 70 flavors. The interior is old-fashioned and grand. Pay at the cash register first, then take your receipt to the counter.

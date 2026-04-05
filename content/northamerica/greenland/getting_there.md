@@ -1,40 +1,24 @@
 ---
 title: "Getting There"
 type: section
-type: "By Air"
 ---
 
-For most travellers to Greenland flying is the only option. Air Greenland flies from Denmark to Kangerlussuaq most weekdays in summer (less often in winter) and to [Narsarsuaq](/northamerica/greenland/narsarsuaq) 1-3 times a week depending on season. Air Greenland also flies once a week from Baltimore in July and August. The company can then connect you throughout Greenland with their commuter flights in either Dash-7 aircraft or Bell Helicopter. The flight to Greenland from Europe would be in a 757 or A330 aircraft. It is important to realise that weather conditions can be extreme with delayed and cancelled flights as a consequence.
+Flying is the only practical way to reach Greenland. There are no passenger ships from Europe or North America, and no road or rail connection to anywhere.
 
-IMPORTANT All flights between Baltimore and Greenland for 2008 have been cancelled. See www.airgreenland.com
+## From Europe
 
-**Contributors**
-March 14, 2008
+**Air Greenland** ([airgreenland.com](https://www.airgreenland.com)) operates the primary connections. Flights from Copenhagen to Nuuk run several times a week year-round. There are also seasonal flights from Copenhagen to Narsarsuaq (southwest Greenland) and Ilulissat. Journey time from Copenhagen to Nuuk is around four hours.
 
-### [Icelandair](/northamerica/greenland/getting_there/torsten)
+**Icelandair** ([icelandair.com](https://www.icelandair.com)) flies from Reykjavik to Nuuk, Ilulissat, Kulusuk, and Narsarsuaq. Using Iceland as a hub is a good option if you want to combine both destinations, and Reykjavik–Ilulissat is one of the most scenic approaches.
 
-There' i also the possibility of flying from Reykjavik, Iceland (REK) to Kulusuk (KUS) taking Icelandair ( www.icelandair.is). Flights run once a week during winter, increased scheduled flight during summer. Fares start from ISK 15000 one way. This way you can combine your vacation in Iceland and Greenland...! There are great deals awailable for flights to Iceland either from Europe or the States.
+## From North America
 
-type: By Air
+**United Airlines** launched twice-weekly direct flights between New York Newark (EWR) and Nuuk (GOH) in summer 2025, running June through August. This was made possible by the opening of Nuuk's new international airport in November 2024, whose extended 2,200-metre runway can handle wide-body jets.
 
+Air Greenland also operates seasonal summer flights from North America; check their website for current routes.
 
+## Arriving in Greenland
 
-[[rate it]](/northamerica/greenland/getting_there/torsten)
+Most international travelers arrive at **Nuuk Airport (GOH)**. Domestic connections from Nuuk reach Ilulissat, Sisimiut, Kangerlussuaq, Narsarsuaq, and other towns via Air Greenland's commuter fleet. Book domestic legs well in advance, especially in summer — seats sell out.
 
-### [http://www.airgreenland.com/](/northamerica/greenland/getting_there/httpwwwairgree)
-
-In summer of 2006 Greenland Air ( http://www.airgreenland.com/) started an American connection out of Baltimore. Between July 3 and August 14, 2008 they will have a weekly flight on Thursdays.
-
-Travel on!
-
-type: By Air
-
-
-
-tel: +299 34 34 34
-
-url: [www.airgreenland.com](http://www.airgreenland.com/USA-Greenland/)
-
-address: P. O. Box 1012, GL-3900 Nuuk
-
-email:
+Weather delays are common throughout the year. Build flexibility into your itinerary, particularly if you have onward flights to catch.

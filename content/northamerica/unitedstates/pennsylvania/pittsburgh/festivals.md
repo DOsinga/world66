@@ -1,28 +1,8 @@
 ---
-title: "Festivals"
+title: 'Festivals'
 type: section
 ---
 
-Pittsburgh's festivals often make good use of the three rivers. In a large, diverse city, anything is a cause for celebration.
+Pittsburgh's festivals make good use of the three rivers and reflect the city's extraordinary ethnic diversity -- at least 25-30 different nationalities settled here during the coal and steel era, and many hold their own annual celebrations.
 
-**all**
-
-**Pittsburgh Irish Festival**
-
-*Times*:
-
-Friday (2004-09-10) 4pm-12 midnight
-
-Saturday (2004-09-11) 11am-12 midnight
-
-Sunday (2004-09-12) 9am-7pm
-
-bookingurl: [www.pghirishfest.org/](http://www.pghirishfest.org/)
-
-email: nan@pghirishfest.org
-
-address: Station Square, Pittsburgh, PA - Chevrolet Amphitheatre at Station Square
-
-date: September 10-12, 2004
-
-tel: 412-422-1113
+**Pittsburgh Irish Festival** takes place each September at Station Square, with three days of Irish music, dance, food, and culture. Website: [pghirishfest.org](http://www.pghirishfest.org/). Tel: 412-422-1113.

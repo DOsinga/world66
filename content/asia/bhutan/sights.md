@@ -1,72 +1,20 @@
 ---
 title: "Sights"
 type: section
-type: "Monasteries"
 ---
 
-Here are a few suggestions for a visit.
+Bhutan's most striking sights are its **dzongs** — the fortress-monasteries that served as both defensive strongholds and administrative centres for each valley. Most are still active as government offices and religious institutions. They follow a broadly similar architecture: massive whitewashed stone walls with a tower in the courtyard, ornate wood-and-plaster interiors decorated with murals and gilded statues. Access for visitors is usually permitted in the courtyards and outer sections; the inner sanctums are often restricted.
 
-**Contributors**
-June 30, 2005
+The **Tiger's Nest** (Paro Taktsang) is the most iconic sight in the country — a clutch of monastery buildings pinned to a cliff face 900 metres above the Paro Valley floor. The hike to reach it takes most people 2-4 hours return. See the Highlights section for more.
 
-### [Punakha](/asia/bhutan/sights/punakha)
+**Punakha Dzong** sits at the confluence of two rivers an hour's drive east of Thimphu. It's widely considered the most beautiful dzong in the country. The interior is richly painted and worth time spent exploring. Spring brings purple jacaranda blossom around the walls.
 
-A three and a half hour drive from the town of Paro is the
-Punakha Dzong which sits at the confluence of two rivers, one
-considered male, the other female. The Dzong itself is massive and
-beautiful and worth the drive over. It burned about 10-12 years ago and
-was just rededicated about a year and a half ago.
+**Tashichho Dzong** in Thimphu is the seat of the national government and the Central Monastic Body. It was substantially rebuilt in the 1960s. You can visit in the late afternoon when government offices close. Its gleaming white walls against the valley backdrop make for good photography.
 
-type: Monasteries
+**Rinpung Dzong** in Paro, connected to the road by a traditional covered wooden bridge, houses the district administration and a monastery. The Paro Tshechu is held in its courtyard each spring.
 
+**Chele La Pass** (3,988 m), about an hour's drive west of Paro town, is the highest motorable road pass in the country and offers sweeping views of the Himalayan crestline on clear days — including Jomolhari (7,329 m). In spring, rhododendrons cover the slopes in red and pink.
 
+**Kyichu Lhakhang** in the Paro valley is one of the oldest temples in Bhutan, believed to have been founded in the 7th century by the Tibetan king Songtsen Gampo as part of a series of temples built to pin down a supine demoness across the Himalayas. It's a small, active place of worship, genuinely atmospheric.
 
-[[rate it]](/asia/bhutan/sights/punakha)
-
-### [Chele La Pass](/asia/bhutan/sights/chele_la_pass)
-
-Chele La Pass at over 13,000 ft to the west above the Paro Valley is
-the highest road pass in the country and has amazing views of the
-Himilaya and most significantly the magnificent Jhomolari, Bhutan's
-most sacred peak at over 22,000 feet. It is a one and a half hour drive
-from the valley floor in Paro to the pass. It can be ridden on a
-mountain bike but the climb is a long one. It is great fun to free
-wheel down either into the Haa Valley on the other side of ### [Taktsang Monastery (Tiger Nest)](/asia/bhutan/sights/tak_tseng_monaster)
-
-The beautiful and sacred Taktsang Monastery located about 20 minutes drive north of [Paro](/asia/bhutan/paro) is a must see. The place where the Guru Rimpoche flew over the Himilaya from Tibet in the 7th century on the back of a flying Tigress is said to be the origin of Bhuddism in Bhutan. From the parking lot at the base of the hill it is about a 2 hour hike to the best view point. It is often closed to the public but just seeing it from the outside is well worth the effort.
-
-type: Monasteries
-
-
-
-[[rate it]](/asia/bhutan/sights/tak_tseng_monaster)
-
-## Destinations in Bhutan
-
-- [Thimphu](/asia/bhutan/thimphu)
-- [Bumthang](/asia/bhutan/bumthang)
-- [Wangdiphodrang](/asia/bhutan/wangdiphodrang)
-- [Lhuntsi](/asia/bhutan/lhuntsi)
-- [Gangten](/asia/bhutan/gangten)
-- [Kurtey](/asia/bhutan/kurtey)
-
-- [Phuntsholing](/asia/bhutan/phuntsholing)
-- [Punakha](/asia/bhutan/punakha)
-- [Paro](/asia/bhutan/paro)
-- [Tongsa](/asia/bhutan/tongsa)
-- [Tashigang](/asia/bhutan/tashigang)
-- [Punakha](/asia/bhutan/punakha)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+For major sights outside the western valleys — particularly in Bumthang and the east — see the individual destination pages.

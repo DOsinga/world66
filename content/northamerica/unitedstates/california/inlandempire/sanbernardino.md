@@ -1,15 +1,12 @@
 ---
-title: "San Bernardino"
+title: 'San Bernardino'
 type: location
-latitude: 34.825302
-longitude: -116.083314
+latitude: 34.108345
+longitude: -117.289757
 ---
 
-Lower elevations, too, can offer high-level entertainment. More than 280 acres of parks, lakes, and recreation areas are within the city limits of San Bernardino. Let your youngsters experiment with hands-on exhibits at A Special Place Children's Museum. Spend an evening listening to music by the San Bernardino Civic Light Opera Company at the California Theatre of the Performing Arts or appreciating world-class entertainment at the Glen Helen Blockbuster Pavilion. Weekends, from April to June, 1,000 brilliantly costumed performers parade in 30 acres of meadows near tree-lined lakes at the Renaissance Pleasure Faire. If you love cars, don't miss the Route 66 Rendezvous Festival, a three-day event in September that draws 160,000 automotive-nostalgia buffs who cruise the highway in their "rods." 
+San Bernardino sits at the foot of the San Bernardino Mountains where Route 66 meets the pass between the desert and the coast. The city has a rough-around-the-edges reputation, but it rewards curious visitors with more than 280 acres of parks, lakes, and recreation areas within the city limits.
 
+The California Theatre of the Performing Arts, built in 1928 in opulent Spanish-Moorish style, hosts the San Bernardino Symphony Orchestra and touring stage productions. Car enthusiasts should not miss the Route 66 Rendezvous Festival in September, a three-day event that draws over 160,000 people to watch classic rods cruise the highway. The Route 66 Museum occupies the site of the original McDonald's brothers restaurant -- the real birthplace of the franchise, long before Ray Kroc.
 
- Drive to Redlands to see the Marmalade Mansions, 300 restored Victorian-era homes built by early residents who became wealthy in the citrus industry. On your way, stop at the San Bernardino County Museum to learn about regional archaeology, geology, history, and art. Also, check out the Asistencia, an 1830s outpost of Los Angeles' Mission San Gabriel.
-
-
- 
- The nearby communities of [Yucaipa](/northamerica/unitedstates/california/inlandempire/yucaipa), Oak Glen, and Cherry Valley comprise the region's apple-orchard country. You'll find farms that invite you to pick your own fruit, sip cider or specialty wines, enjoy folk entertainment, and take a hayride.
+Nearby, the casinos at San Manuel and Morongo draw crowds for gaming and live entertainment. From here you can easily reach the mountain communities of [Big Bear Lake](/northamerica/unitedstates/california/inlandempire/bigbearlake) and Lake Arrowhead, or head east to the apple-orchard country of [Yucaipa](/northamerica/unitedstates/california/inlandempire/yucaipa), Oak Glen, and Cherry Valley, where farms invite you to pick your own fruit, sip cider, and take a hayride.

@@ -1,15 +1,6 @@
 ---
-title: "Bells Diner"
+title: 'Bells Diner'
 type: poi
-address: "1-3, York Rd Montpelier, Bristol Avon BS6 5QB"
-phone: "0117 924 0357"
-type: "general"
 ---
 
-type: general
-
-
-
-address: 1-3, York Rd Montpelier, Bristol Avon BS6 5QB
-
-tel: 0117 924 0357
+1-3 York Rd, Montpelier. Tel: 0117 924 0357.

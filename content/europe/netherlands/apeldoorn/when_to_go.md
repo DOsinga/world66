@@ -1,14 +1,10 @@
 ---
-title: "When to Go in Apeldoorn"
+title: "When to Go"
 type: section
 ---
 
-****Considering your **Apeldoorn**** when to go **options, rest assured that you can visit the city at any time of the year. Apeldoorn isn&rsquo;t rich in sights. It has only a zoo, an amusement park and a couple of historical monuments. All of them can be seen both in summer and in the winter, without missing anything. Read the following details on the weather in the summer and in the winter, in order to make a when to go decision which best suites your personal taste.
+Summer (May to September) is the best time to visit. Temperatures hover around 20-22°C, the outdoor attractions are open, and the Veluwe forests are at their greenest. That said, rain is a constant -- expect at least 15 wet days a month even in summer, so bring an umbrella.
 
-**Summer**
+Winter is mild but grey. Temperatures rarely drop below freezing and snow is uncommon, but it rains more than 20 days a month and daylight is short. Most outdoor attractions close for the season.
 
-The summer of Apeldoorn is cool and very pleasant. It lasts roughly from May to September. Temperatures don&rsquo;t exceed 22 degrees Celsius (72 degrees Fahrenheit) and drop no lower than 12 degrees Celsius (54 degrees Fahrenheit) at night. Rainfall levels are at their minimum, but it still rains at least 15 days per month, with precipitation holding steady levels of about 7cm (almost 3 inches). That&rsquo;s why it is always a good idea to have a decent umbrella with you, because you never know where the rain may find you.
-
-**Winter**
-
-The winter of Apeldoorn is mild, but rainy. Temperatures are always above the freezing point, so snow is rarely seen. However, rain falls over 20 days per month and precipitation reaches levels of about 15cm (almost 6 inches). Days are also much shorter than in the summer. The coldest months are January and December, when the temperatures reach 1 degree Celsius (34 degrees Fahrenheit).
+The **Jazz in the Woods** festival in late May or early June is Apeldoorn's biggest cultural event, with open-air concerts spread across the Berg en Bos park. The **Dragon Boat Festival** is a long-running tradition with races and open-air performances. The **Sunsation Festival** in July brings poetry, theatre and music to the city around the summer solstice.

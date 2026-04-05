@@ -3,25 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Restoran Surya Indah
-Jl Seijang Laut No 06
-Tanjung Pinang, Kepulauan Riau
+Tanjung Pinang is a seafood town through and through. Crab, prawns, squid, and local mollusks come straight off the boats and onto your plate, often for under $5. Padang-style restaurants are everywhere, serving rice with a spread of small dishes -- sambal, rendang, fried fish, vegetables -- and you pay for what you eat.
 
-Serve many kind of fresh seafood like fish, crab, prawn, squid, scallops, etc.
-Do visit us!
-
-Best regard
-
-Rest Surya Indah
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Chinese-Indonesian food is equally strong here. Bak kut teh (pork rib soup), otak-otak (grilled fish cake), and char kway teow are local staples. The food stalls around the waterfront market are the best place to start, especially in the evening when the whole area fills with smoke and the smell of grilling seafood.

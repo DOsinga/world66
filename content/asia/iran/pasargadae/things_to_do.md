@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Pasargadae is a pure archaeological site — no shops, no restaurants, just ruins on a plain. Everything worth seeing is within walking distance of the entrance. Come for the monuments themselves; they're old enough and significant enough to speak for themselves.
+Pasargadae is an open-air archaeological site spread across a wide plateau. The ruins are well spaced — allow at least two hours to walk between them and take in the setting. The site is managed and there is a small entrance fee.

@@ -5,6 +5,10 @@ latitude: 64.176705
 longitude: -51.736144
 ---
 
-Nuuk is the capital of Greenland and located on the southwest coast, some 300 km from [Qaqortoq](/northamerica/greenland/qaqortoq).
+Nuuk is the capital of Greenland, situated on a peninsula on the southwest coast, some 300 km north of Qaqortoq. With around 20,000 inhabitants it is by far the largest city in Greenland, home to roughly a third of the country's entire population. It feels small by any international standard but has the cultural and political weight of a capital: parliament, university, national museum, and since November 2024, a new international airport capable of handling transatlantic flights directly.
 
-The modern history of Greenland and Nuuk has its beginning in 1721, when Hans Egede, a Norwegian missionary founded the first European all-year colony and trading post. Hans Egede actually came to Greenland to convert the Catholic Norse into Lutherans and to re-establish contact, but soon realized that the Norse were no more. Instead he became the apostle of Greenland. Initially Egede's colony was situated on 'Haabets Ø' (Island of Hope), but it became obvious that the island wasn't suitable, so on the 29th August 1728 the town of Nuuk/Godthaab was founded, and the Danish colonization initiated. Life in the early colony was not easy. In the years 1733-34 a small pox epidemic killed most of the native population and Hans Egede's wife. Hans Egede went
+The city was founded in 1728 by Hans Egede, a Norwegian Lutheran missionary who had come to Greenland seeking the descendants of the Norse settlers. He found none, but stayed to work among the Inuit and became a central figure in the Danish colonization of Greenland. A statue of Egede overlooks the old colonial harbor. The National Museum of Greenland nearby is one of the best in the Arctic, with exhibits on Inuit culture, Norse settlement, and the famous Qilakitsoq mummies — 15th-century Inuit mummies found naturally preserved by the cold.
+
+The Katuaq cultural center, designed to resemble the aurora borealis, serves as a concert hall, cinema, and gallery. The old colonial quarter around Nuuk fjord is worth an afternoon on foot. The food scene has developed considerably — there are several good restaurants serving local ingredients.
+
+Nuuk sits at the mouth of a spectacular fjord system. Day trips by boat into the surrounding landscape — icebergs, uninhabited islands, whale watching in season — are easily arranged.

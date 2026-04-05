@@ -1,74 +1,18 @@
 ---
 title: "Getting Around"
 type: section
-address: "kuala lumpur,malaysia"
-email: "iena_pisces08@yahoo.com"
-phone: "-"
 ---
 
-Iran Travel Information
+Iran is a large country, and getting between cities requires some planning. The good news is that the transport network is reasonably comprehensive and cheap by international standards.
 
-Iran is a wide country in southwest of Asia neighboring the Caspian Sea. Turkmenistan, Azerbaijan, Turkey and Iraq. All southern borders of the country end to the shores of the Persian Gulf and Sea of Oman. Total terrestrial borders of Iran are 6032 km. And total water borders are 2700 km. Unique landscapes such as limpid water springs, Pomegranate orchards, pistachio gardens, rows of Lombardy poplars, decampment of nomads in different seasons, cheliferous nights, rocks, mountains, endless high and low lands, extinct volcanoes, luxuriant forests of Alborz mountain range, and coastlines of the Caspian sea are among the eye-catching and memorable landscapes of Iran’s nature which leaves unique memories in the minds of tourists.
+**Buses** are the backbone of intercity travel. VIP buses (also called "Volvo" buses, though they come in various makes) offer reclining seats, air conditioning, and onboard refreshments. They are comfortable for overnight journeys and genuinely cheap — a ticket from Tehran to Isfahan runs around $6–8, Tehran to Shiraz around $10–12. Regular buses are even cheaper. Book a day or two in advance on popular routes, especially around Nowruz in late March. The main bus terminals (terminal) in each city are typically on the outskirts — take a taxi to get there.
 
-Iran’s landscapes vary remarkably at different seasons. The average annual temperature from northwest to southeast of the country and varies from 10 degree Centigrade in Azerbaijan to 25-30 degree Centigrade in the south and southeast. Iran enjoys a considerable climate diversity, which is subjected to various seasons in different parts of the country, in a way that in some areas, the coldness of winter and the warmth of summer can be seen simultaneously. Thus the weather in Iran must be judged regionally.
+**Trains** are comfortable, scenic, and a good option for certain routes. Tehran connects by rail to Mashhad (a popular overnight sleeper), Isfahan, Yazd, Tabriz, Shiraz, and Kerman. Rail travel is slower than flying but lets you see the landscape and meet people. Book through the Raja Rail website or at stations — some routes sell out, especially overnight sleepers in high season.
 
-According to latest census made in 2006, the population of Iran was a little more than 70 million. Gross domestic product is composed of four sectors: agriculture, industry & mine, services & oil. Iran is the bright place of Zoroastrian. One of the oldest prophets of the world and founder of Zoroastrian religion, and about 99.5% of people are Muslims.
+**Domestic flights** are inexpensive and worth it for longer distances given Iran's size. Tehran to Mashhad or Tehran to Shiraz start around $30–50 one way. Carriers include Iran Air, Mahan Air, and Iran Aseman Airlines. Booking online from outside Iran can be tricky due to payment restrictions — your travel agency or a local booking agent can usually help. Arrive well in advance and reconfirm, as flights are sometimes delayed or rescheduled.
 
-In the constitution of I.R.Iran, religions of Zoroastrian, Christian, and Jewish are recognized officially and their disciples have equal political, social and economic rights like Muslims.
+**Taxis** are everywhere in cities and essential for getting around. Shared taxis (savari) follow fixed routes and pick up multiple passengers — they are very cheap. Private taxis can be negotiated or, increasingly, hailed through ride-hailing apps. **Snapp** (Iran's equivalent of Uber) works in Tehran and major cities and is the most convenient option: fares are fixed, displayed in the app, and paid in cash. It removes the need to negotiate and has largely transformed urban transport.
 
-The government of Iran is Islamic Republic, which was founded after Islamic Revolution in 1979. Iran is situated on the way of Central and East Asia to western countries. As a result different ethnic groups live in Iran like Farsi, Kurds, Lors, Bauchis, Bakhtiaris, Azari Turks, Turkmen, Ghashghiis, Taleshians, and Arabs. So there are many varieties in the language of these groups and even sometimes in their appearance.
+**Driving** is possible but demanding. Iranian traffic is aggressive and road conditions vary. In cities like Tehran the driving can be genuinely chaotic. Intercity roads are generally decent but desert roads and mountain passes require care. An International Driving Permit is required alongside your home licence. Fuel is remarkably cheap due to subsidies.
 
-The common official language and handwriting is ["Farsi"](/travel/iran/persian_phrasebook.php) , The first of Farvardin (March 21) is beginning of New year in Iran according Solar calendar which is the best time for tourists. The official Flag of Iran is in three colors green, white and red colors.
-
-The best mean for traveling to Iran is airplane. An organized railway connects most of the important cities of Iran to each other. And coaches are alternative to all the cities of Iran.
-
-Best time to visit Iran :
-
-Iran lies in a continental climate with great diversities, being a vast country, Iran has regions with different temperatures even at a specific period of time.
-Being situated inside a dry belt of the globe and because of the check imposed by the Alborz and Zagros ranges the plateau has a dry desert peculiarity. Winter temperatures often fall below freezing specially in the mountains, while summers are usually hot. In the northern coastal areas of the Caspian Sea climate is mild and humid. The southern parts and the Persian Gulf region have rather a hot and humid weather with pleasant winters. Therefore, because of these climatic diversities one can enjoy from winter sports while at the same time within a few hours of travel it is possible to swim in the warm waters of the Persian Gulf.
-
-How to get there :
-
-[Visa To Iran](/travel/iran/visa_to_iran.php)
-
-[Flights To Iran](/travel/airfares/index.php)
-
-Most airlines operate scheduled weekly flights from and to Tehran, including Iran Air the national carrier. Flights reconfirmation must be made 72 hours prior to departure .
-For all passengers entering and visiting Iran , a valid passport bearing an entry visa is required."Iran Travel" agency makes facilities for this procedure through Ministry of Foreign Affairs .
-
-[How to dress :](/images/Dress_Iran.jpg)
-
-According to Islamic law and social beliefs, it is necessary for all ladies to have a manteau and scarf .
-
-Banking hours and currency :
-
-Banks are open from 09:00 to 16:00 Saturday to Wednesday and 09:00 to 13:30 Thursday. Friday is a public holiday.
-The unit of currency is Rial. Each 10 Rials make 1 toman. According to the latest statistics each American Dollar is approximately equal to 9000 Iranian Rials. Foreign currencies should be declared upon arrival on a special form .Exchange of these currencies are possible through Bank Melli of Iran. The preferred currency of exchange in Iran is US $ , only selected shops accept master cards and visa credit cards.
-
-Time :
-
-Local time of the capital, Tehran is three and half hours ahead of G.M.T.
-
-[Iran Tourist Attractions](/travel/iran_tourist_attractions/)
-
-Comfortable hotels, motels by the coast of Caspian Sea,the largest lake of the world the most attractive tourist center among Iranians, which is very famous for her Caviar all around the world. Ski resorts at Dizin, Shemshak, Ab Ali and Tochal slopes around Tehran make ideal places for winter sports and mountaineering. Kish island is also one the main attractions among the population because of her location in the southern waters of the Persian Golf one can enjoy water sports, and being a free port it is being visited by thousands of eager shoppers in a year.
-
-What to buy :
-
-Fantastic handicrafts are well known all over the world for instance, tribal rugs of amazing colors and designs,carpets,hand carved silver,brass and copper trays of Isfahan, batik silk, hand printed cottons. Potteries, ceramics and glass ware, leather works, inlaid wood works and miniatures paintings.
-
-Electrical current:
-
-The electrical current in Iran is 220 V 50 Hertz.
-
-### [azlina](/asia/iran/getting_around/azlina)
-
-i would like to know how much will be the cost for bus fare in iran. im preparing myself to get there...
-
-
-
-tel: -
-
-address: kuala lumpur,malaysia
-
-email: iena_pisces08@yahoo.com
+**Local transport** in cities includes metro systems in Tehran (extensive and cheap), Isfahan, Mashhad, Shiraz, and Tabriz. Tehran's metro is the most useful for visitors, connecting the main bus terminal, the bazaar, and key neighborhoods.

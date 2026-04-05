@@ -1,13 +1,14 @@
 ---
-title: "Sights"
+title: 'Sights'
 type: section
-address: "East Sussex BN1 1EE"
-phone: "01273 290900"
-url: "www.royalpavilion.org.uk"
 ---
 
-[Brighton Pavillion
+**Royal Pavilion** is Brighton's unmissable landmark. George IV transformed a simple farmhouse into this extraordinary Indian-style palace between 1783 and 1830, with opulent Chinese-inspired interiors that have to be seen to be believed. The Banqueting Room alone, with its huge dragon chandelier, is worth the entrance fee.
 
-George, the Prince of Wales and Prince Regent (he became King George IV) and his morganatic wife, bought a small farm house in what was then the village of brighthelmstone. "Prinny's" penchant for sea bathing helped to transform this small rural community into a mecca of high society.
-...
-Over a period of nearly fifty years, from 1783 (when he was only 21) to his death in 1830, George transformed the simple home. First, the farmhouse was incorporated into the Marine Pavilion. In 1803, William Porden built the huge Royal Stables in the Indian style, which soon dwarfed the Pavilion itself. Finally, John Nash took seven years to add sumptuous state rooms to the Pavilion and recreate the exterior into the Indian/Chinese edifice we see today. more..](/world/europe/unitedkingdom/england/south_east/brighton/sights/brighton_pavillion)
+**The Piers** define the Brighton seafront. The Palace Pier is the working one, packed with amusement arcades, fairground rides and fish and chip stalls. The West Pier, ravaged by storms and fires, stands as an elegant iron skeleton slowly dissolving into the sea. It is oddly beautiful.
+
+**The Lanes and North Laine** are Brighton's shopping and browsing quarters. The Lanes are the original medieval streets, now full of antique shops and jewellers. North Laine (note the different spelling) is the bohemian neighbour, with vintage shops, independent cafes and record stores.
+
+**Booth Museum of Natural History** on Dyke Road is a wonderfully eccentric Victorian museum with hundreds of taxidermied birds in glass cases, butterfly collections and animal skeletons. Free admission.
+
+**Brighton Beach** is shingle, not sand, but don't let that put you off. In summer the seafront is alive with bars, cafes and buskers. The beach stretches east towards the Marina and west towards Hove, where the crowds thin out.

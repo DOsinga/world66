@@ -1,22 +1,7 @@
 ---
-title: "Jasmin Indian Restaurant"
+title: 'Jasmin Indian Restaurant'
 type: poi
-address: "Road no. 13, Pakse"
-price: "About US$1.50 per dish"
-type: "Indian and Pakistani"
-latitude: 15.091144
-longitude: 105.8325
+address: 'Road No. 13, Pakse'
 ---
 
-Pleasant tables on the sidewalk and inside. Good service. All the usual Indian fare with vegetarian a specialty.
-
-**Contributors**
-September 04, 2005
-
-type: Indian and Pakistani
-
-
-
-address: Road no. 13, Pakse
-
-PriceOfMenu: About US$1.50 per dish
+A popular Indian and Pakistani restaurant with tables on the sidewalk and inside. Good service and all the usual Indian fare, with vegetarian dishes a specialty. Affordable, with most dishes around $2-3.

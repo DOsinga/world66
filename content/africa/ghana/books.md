@@ -3,112 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Ghana: The Bradt Travel Guide** by Philip Briggs is the most comprehensive and regularly updated guidebook for the country. Briggs knows West Africa intimately and the practical detail is excellent. Essential if you are planning to travel independently beyond Accra and the coast.
 
-**Guide to Ghana**
+**The Beautiful Ones Are Not Yet Born** by Ayi Kwei Armah is a landmark Ghanaian novel set in the final days of Nkrumah's government. It is bleak, poetic, and captures the disillusionment of post-independence Africa better than almost any other book. Not a light read, but a rewarding one.
 
+**Homegoing** by Yaa Gyasi traces two branches of a Ghanaian family -- one that stayed and one that was taken into slavery -- across eight generations. A sweeping, powerful novel that connects Cape Coast Castle to the present day. Read it before visiting the slave forts and they will hit even harder.
 
+**The Fall of the Asante Empire** by Robert B. Edgerton tells the story of the hundred-year war between the Ashanti kingdom and the British for control of the Gold Coast. Essential background for understanding Kumasi and Ashanti culture.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1898323690/ref=ase_osingacom?v=glance&s=books)
+**Kwame Nkrumah: A Biography** by David Birmingham is a concise account of Ghana's first president, the father of African independence. Nkrumah's legacy is everywhere in Ghana -- from Black Star Square in Accra to the national football team's nickname -- and this book gives you the context.
 
-author: Philip Briggs,Annabel Milne (Illustrator),Hil..
+**My First Coup d'Etat** by John Dramani Mahama (a former president of Ghana) is a memoir of growing up in Ghana through a series of military coups. Warm, funny, and illuminating about what daily life looked like during the country's turbulent middle decades.
 
-isbn: 1898323690
-
-subject: travel
-
-**Oh Africa, My Africa:A Personal Encounter with the Ghanaian People and the Culture of Africa**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0964013401/ref=ase_osingacom?v=glance&s=books)
-
-author: Nancy H. Sweet
-
-isbn: 0964013401
-
-subject: travel
-
-**At Christmas and on Rainy Days:Transport, Travel and the Female Traders of Accra**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1859721729/ref=ase_osingacom?v=glance&s=books)
-
-author: Margaret Grieco (Editor),Jeff Turner (Editor)..
-
-isbn: 1859721729
-
-subject: travel
-
-**Asafo!:African Flags of the Fante**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0500276846/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter Adler,Nicholas Barnard
-
-isbn: 0500276846
-
-subject: culture
-
-**Oh Africa, My Africa:A Personal Encounter with the Ghanaian People and the Culture of Africa**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0964013401/ref=ase_osingacom?v=glance&s=books)
-
-author: Nancy H. Sweet
-
-isbn: 0964013401
-
-subject: culture
-
-**Drum Damba:Talking Drum Lessons**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0941677109/ref=ase_osingacom?v=glance&s=books)
-
-author: David Locke,Lawrence Aynesmith (Editor)
-
-isbn: 0941677109
-
-subject: culture
-
-**Kofi and His Magic**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0517704536/ref=ase_osingacom?v=glance&s=books)
-
-author: Maya Angelou,Margaret Courtney-Clarke (Photog..
-
-isbn: 0517704536
-
-subject: history
-
-**The Fall of the Asante Empire :The Hundred-Year War for Africa's Gold Coast**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0029089263/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert B. Edgerton
-
-isbn: 0029089263
-
-subject: history
-
-**Kwame Nkrumah:The Father of African Nationalism**
-
- 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0821412426/ref=ase_osingacom?v=glance&s=books)
-
-author: David Birmingham
-
-isbn: 0821412426
-
-subject: history
+**Drum Damba: Talking Drum Lessons** by David Locke is for anyone interested in Ghanaian music. It covers the rhythms and techniques of traditional drumming, which is central to Ghanaian culture and celebrations.

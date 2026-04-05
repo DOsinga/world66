@@ -3,14 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Bolivia has two main international airports. Viru Viru International Airport (VVI) in [Santa Cruz](/southamerica/bolivia/santacruz) handles the most international traffic, with direct connections to Lima, Buenos Aires, Bogotá, São Paulo, and Miami. El Alto International Airport (LPB), perched at 4,061 metres above sea level just outside [La Paz](/southamerica/bolivia/lapaz), is the highest commercial airport in the world and serves flights from the same regional hubs plus Madrid. Flying into La Paz is spectacular but the altitude hits hard — give yourself time to acclimatise before rushing anywhere.
 
-Most flights from the USA, Europe and neighboring countries land in the airport of La Paz and the city of Santa Cruz. La Paz has the highest airport in the world it is located in what is called "El Alto", it takes half an hour to descend to city by taxi, I mean literaly descend you go down and see a beautiful scenery; La Paz is sorrounded by mountains.
+Boliviana de Aviación (BoA) is the national carrier and operates international routes alongside LATAM, Avianca, and American Airlines. Prices can be steep compared to neighbouring countries; if you're combining Bolivia with Peru or Ecuador, check whether routing through Lima saves money.
 
-If you arrive in Santa Cruz which is a tropical area compared to La Paz, it is also nice in both cities you find 3 or 4 star hotels, also more affordable. Taxis are very cheap in La Paz , more expensive in Santa Cruz but one dollar you might go any place in the city. It might take $9 dollars to get from the airport to the city of La Paz, still cheap compared to other countries. For more information check Getting Theremy webpage.
+**Overland from Peru** is the classic approach. Buses run from Puno along Lake Titicaca to Copacabana, where you cross the border by ferry at the Straits of Tiquina and continue to La Paz — the whole journey takes around six to seven hours. The catamaran service from Puno to La Paz via the lake is more comfortable but considerably more expensive.
 
-The airlines that go Bolivia from the USA are American Airlines and LLoyd Aereo Boliviano (LAB). Both are good lines so far I only used American Airlines because I live in Milwaukee, WI.
+**From Chile**, the main overland crossing is at Tambo Quemado/Chungará on the Arica–La Paz route. Buses make the run from Arica (Chile) to La Paz in around ten hours. A second crossing at Ollague connects Calama (Chile) to Uyuni, useful if you're heading straight for the salt flats from San Pedro de Atacama.
 
-Now that political turmoil is over because of the coca plantations normality is ok and tourists can visit Bolivia without any problem, I wrote this paragraph on October 15, 2000; have a good time in Bolivia.
+**From Argentina**, buses from Villazón (on the Argentine border) to Potosí or La Paz are well-travelled. Tupiza, a beautiful little town near the border, is worth a night or two in itself.
 
-June 15, 2004 addition: Note that although there are flights into La Paz and Sucre, these flights are typically much more expensive than other flights to the continent. If your travels take you to neighboring countries, be sure to check out the airfares through Lima, for example. Round-trip airfare from Newark, NJ into Quito, Ecuador, and out of Lima were more than $200 cheaper than the same trip leaving out of Santa Cruz or La Paz. The overland travel is inexpensive (if uncomfortable), and can often be worked into a terrific itinerary that covers all that you might want of Bolivia.
+**From Brazil**, the crossing at Quijarro/Puerto Suárez connects to Santa Cruz by train or bus.
+
+All visitors must register with the SIGEMIG migration system before or on arrival. US citizens no longer need a tourist visa as of December 2025; most European, Canadian, Australian, and New Zealand passport holders have been visa-free for years. Check your country's current status before you go, as requirements change. A yellow fever vaccination certificate is required if you've recently been in certain neighbouring countries, and is strongly recommended regardless if you plan to visit the lowland jungle areas.

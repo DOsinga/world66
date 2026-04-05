@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 12 336 572 (July 1998 est.) 
+Ecuador has a population of around 18 million. The majority — roughly 77% — identify as mestizo, of mixed Spanish and indigenous descent. Indigenous peoples make up about 7%, with the Kichwa (Quechua speakers of the Sierra) by far the largest group. The Afro-Ecuadorian community, concentrated on the northern coast and in the Chota Valley, accounts for around 5%. Smaller groups include Montubios (coastal mixed-heritage farmers) and communities of European descent.
 
-**Age structure:** 
+In the Amazon region, fourteen officially recognized indigenous nationalities still maintain distinct languages and traditional ways of life, including the Shuar, Waorani, Siona-Secoya, and Cofán. Some groups remain largely isolated and their lands are protected, at least in principle, from oil extraction — a long-running source of political conflict.
 
-*0-14 years:* 36% (male 2 253 920; female 2 175 402) 
+The highland indigenous communities are among the most visible in South America. Markets like [Otavalo](/southamerica/ecuador/otavalo) showcase extraordinary weaving traditions that go back centuries; the Otavalos in particular are well-travelled traders you'll encounter across the continent, selling textiles and playing Andean music. Their distinctive long braids, white shirts, and dark ponchos make them immediately recognizable.
 
-*15-64 years:* 60% (male 3 636 637; female 3 725 766) 
+Most Ecuadorians identify strongly with their region — coastal *costeños* and highland *serranos* have distinct cultures, accents, and food traditions, and will often tell you so unprompted. Rivalry between Quito and Guayaquil is affectionate but real.
 
-*65 years and over:* 4% (male 254 432; female 290 415) (July 1998 est.) 
-
-**Population growth rate:** 1.86% (1998 est.) 
-
-**Birth rate:** 23.16 births/1 000 population (1998 est.) 
-
-**Death rate:** 5.17 deaths/1 000 population (1998 est.) 
-
-**Net migration rate:** 0.56 migrant(s)/1 000 population (1998 est.) 
-
-**Sex ratio:** 
-
-*at birth:* 1.05 male(s)/female 
-
-*under 15 years:* 1.04 male(s)/female 
-
-*15-64 years:* 0.98 male(s)/female 
-
-*65 years and over:* 0.88 male(s)/female (1998 est.) 
-
-**Infant mortality rate:** 32.07 deaths/1 000 live births (1998 est.) 
-
-**Life expectancy at birth:** 
-
-*total population:* 71.8 years 
-
-*male:* 69.19 years 
-
-*female:* 74.54 years (1998 est.) 
-
-**Total fertility rate:** 2.75 children born/woman (1998 est.) 
-
-**Nationality:** 
-
-*noun:* Ecuadorian(s) 
-
-*adjective:* Ecuadorian 
-
-**Ethnic groups:** mestizo (mixed Amerindian and Spanish) 55% Amerindian 25% Spanish 10% black 10% 
-
-**Religions:** Roman Catholic 95% 
-
-**Languages:** Spanish (official) Amerindian languages (especially Quechua) 
-
-**Literacy:** 
-
-*definition:* age 15 and over can read and write 
-
-*total population:* 90.1% 
-
-*male:* 92% 
-
-*female:* 88.2% (1995 est.)
+Roman Catholicism remains the dominant religion, though Evangelical Christianity has grown significantly in the past few decades, especially in indigenous communities. Spanish is the official language; Kichwa is co-official in highland indigenous territories.

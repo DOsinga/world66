@@ -1,18 +1,18 @@
 ---
-title: "Barcelona"
+title: 'Barcelona'
 type: location
 latitude: 41.38258
 longitude: 2.177073
 ---
 
-Barcelona is a charming, cosmopolitan port on the shores of the Mediterranean sea. 
- This prosperous and bilingual (Spanish and Catalan) metropolis measures up to a city such as Madrid: its museums, theaters, art galleries and nightlife area of an impressive high standard. Besides that, this art and design centre has a lot of interesting sights to offer to its visitors. 
- The best place to watch people go by, to stroll or simply relax, is 'Las Ramblas', a pedestrian street with dozens of outdoor cafes. Here, you’ll find flower-stands, book kiosks and small market stalls where they sell birds and small animals. You’ll also find an endlessly fascinating flowing receptacle of pageant-jugglers, singers, dancers, puppeteers, sidewalk artists, living statues and assorted oddballs on parade. Nearby is 'Plaça Real', with plenty of bars and restaurants, and 'Palau Guell', built by the Catalan architectural genius Antoni Gaudí in his undulating art-nouveau style.
+Barcelona is one of those rare cities that genuinely lives up to its reputation. The capital of Catalonia sprawls along the Mediterranean coast, hemmed in by hills and sea, and packs more architectural spectacle, street life and sheer creative energy into its neighbourhoods than most countries manage in their entirety.
 
+Start at [Las Ramblas](/europe/spain/catalonia/barcelona/things_to_do/lesramblas), the famous tree-lined promenade running from Placa de Catalunya down to the harbour. Flower stalls, book kiosks, street performers and an endless parade of people make this one of the great walks in Europe. Duck off the Ramblas into the Barri Gotic, the medieval Gothic Quarter, where narrow winding streets hide tapas bars, churches and the kind of small squares that make you want to sit down with a glass of wine and stay forever.
 
- 
- After having seen these sights, stroll the narrow winding streets of the 'Barri Gotic', the medieval Gothic quarter full of interesting tapas bars and cafes. Check out Picasso’s old hangout, 'Els Quatre Gats', which has been renovated without losing its bohemian charm. Or head for the old Barceloneta section on the waterfront. This working-class area, which was always slightly rundown and scruffy-looking, is now packed with paella restaurants. The new beach area, which runs from Barceloneta to the Olympic village, is much cleaner than the old beach area. Although some people believe that it has been cleaned up considerably, it might be a wise idea to stay out of the water. Fortunately, the beach itself is already a feast for the eyes (and ears), with its huge and roaring waves.
+What truly sets Barcelona apart is Antoni Gaudi. His buildings are everywhere: the fantastical [Sagrada Familia](/europe/spain/catalonia/barcelona/things_to_do/parcgell) still rising skyward a century after his death, the dreamlike [Casa Batllo](/europe/spain/catalonia/barcelona/things_to_do/casabatll) and [La Casa Mila](/europe/spain/catalonia/barcelona/things_to_do/lacasamila) on the elegant Passeig de Gracia, the whimsical [Parc Guell](/europe/spain/catalonia/barcelona/things_to_do/parcgell) on the hillside above. No other architect has shaped a city's identity so completely.
 
+Beyond Gaudi, Barcelona offers the [Picasso Museum](/europe/spain/catalonia/barcelona/museums/picasso_museum) in a row of medieval palaces, the [Miro Foundation](/europe/spain/catalonia/barcelona/things_to_do/miromuseum) on Montjuic hill, and a food scene that ranges from market stalls at [La Boqueria](/europe/spain/catalonia/barcelona/shopping/boqueria) to some of the most inventive restaurants in the Mediterranean. The city's beaches, rebuilt for the 1992 Olympics, stretch from the old fishing quarter of Barceloneta all the way to the modern Port Olimpic.
 
- 
- Catalans are known for their independent spirit and their sense of humour —Salvador Dali was a Catalan and his bizarre sense of humour is just one example of the region’s endearing weirdness. Spring is the best time to visit Barcelona, you can expect a temperature of round and about 20 degrees. During summer, it can get very hot (about 35 degrees) and crowded (because of the cultural events). Barcelona will be as expensive as you want it to be. Attention: Barcelona is pretty rich and so prices are much higher than somewhere else in Spain. Still, restaurants are relatively cheap and for a hotel, three meals and a night out, count on some 145 Euro for two persons.
+Catalans are proud, independent-spirited people who speak their own language alongside Spanish. Barcelona reflects this confidence. It is not trying to be Madrid. It is something entirely its own, a city that feels both deeply rooted and restlessly modern. Prices are higher than much of Spain, but you can still eat and drink well without spending a fortune, especially if you explore beyond the tourist centres.
+
+Spring and autumn are the best times to visit, with pleasant temperatures and fewer crowds. Summer can be brutally hot and packed with visitors, while August sees many local businesses close as Barcelonians head for cooler territory.

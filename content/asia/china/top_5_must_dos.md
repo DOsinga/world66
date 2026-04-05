@@ -3,29 +3,22 @@ title: "Top 5 Must Do's in China"
 type: section
 ---
 
-China is blessed with some of most eminent attractions in the world. **China Must Do's** involve sightseeing, river cruising and trekking.
+**1. Walk the Great Wall**
 
-**1. Guilin**
+Not just see it — walk it. The sections near [Beijing](/asia/china/beijing) most visited by tourists (Badaling, Mutianyu) are well-restored and accessible. But if you have the energy, go to Simatai or Jinshanling, where the wall runs wild over ridgelines with no guardrails and no crowds. Get up there at dawn before the tour groups arrive. It's one of those places that genuinely lives up to its reputation: you stand on a crumbling watchtower looking out over forested mountains in every direction and understand why it was built here.
 
-Situated in the northeastern zone of Guangxi, Gullin is said to be the most beautiful city in all of [China](/asia/china/beaches_1). Surrounded by lush green mountains, stupendous rock formations, and mysterious caves, this city is inhabited by 12 ethnicities and 1,260,000 people. Blessed with pleasant weather year-round, the city offers an array of fascinating sights including the breathtaking Li River, Elephant Trunk Hill, Yangshuo, and Longsheng.
+**2. The Terracotta Army at Xi'an**
 
-A cruise down the Li River will show you the heavenly sights of luscious hills and their reflections upon the clear blue water of the river. Situated at the convergence of the Taohua and Lijian Rivers, Elephant Hill is shaped like an elephant drinking water. Yangshuo and Longsheng are two beautiful towns famed for breathtaking landscapes, surrounding hills and water.
+In 1974, a farmer digging a well in Shaanxi province hit something. Archaeologists have since excavated over 8,000 life-sized clay soldiers, horses, and chariots buried with China's first emperor, Qin Shi Huang, around 210 BC. Each soldier's face is different. The scale of it is staggering — and archaeologists estimate the main tomb itself has never been opened. [Xi'an](/asia/china/xian) is also a city worth spending a couple of days in, with its intact city walls and excellent Muslim quarter.
 
-**2. Yangtze River Cruise**
+**3. The Li River and Guilin Karst**
 
-Celebrated as the longest river in China and the third longest in the world, Yangtze River flows across 11 provinces and cities of China, including Qinghai, Tibet, Sichuan, Hunan, Hubei, Yunnan, Shanghai and Anhui. A Yangtze River Cruise is an exciting affair that gives the tourists an opportunity to enjoy the fascinating sights of the 3 gorges of Yangtze namely, Qutang Gorge, Wu Gorge and Xiling Gorge. Besides, the breathtaking view of Fengdu Ghost City and the astounding architecture of Shinaozhai will take your breath away.
+The landscape around [Guilin](/asia/china/guilin) is the one on the Chinese 20-yuan note — limestone peaks rising hundreds of meters straight out of flat farmland, their reflections in the water of the Li River. A boat cruise from Guilin to Yangshuo takes about four hours through some of the most arresting natural scenery in the world. The downstream town of Yangshuo is a good place to base yourself for a day or two of cycling through the villages.
 
-**3. Beijing Zoo**
+**4. The Mogao Caves at Dunhuang**
 
-Located in the western part of Beijing City, Beijing Zoo is the largest zoo in China. Expanding across a terrain of over 50,000 square meters, this zoo is home to over 7,000 animals of about 600 species. The residents of the zoo include the red panda, the Sichuan golden monkey, huge sea turtles, Manchurian tigers, Tibetan Yaks, and African zebras and giraffes. Set before a beautiful backdrop of lush green hills, small streams, and a variety of trees, this zoo offers an excellent landscape view. Beijing Zoo is also famed for being the breeding ground of rare animals as well as a prime center for zoological research and conservation programs.
+Out in the far west, where China gives way to desert, [Dunhuang](/asia/china/dunhuang) was an oasis town on the Silk Road. In the sand cliffs nearby, Buddhist monks carved nearly 500 caves over a thousand years — filling them with murals, painted statues, and manuscripts. The colors are extraordinary: ochre, lapis, vermillion, green, surviving in the dry desert air. The best caves require a special permit and must be visited with a guide, but even the standard tour is one of the most remarkable things you can do in China.
 
-**4. The Great Wall of China**
+**5. Lhasa and the Tibetan Plateau**
 
-Your China trip will be incomplete if you leave the country without viewing the Great Wall of China. Built in the 7th century B.C., the Great Wall was originally a bulwark to protect Chinese Empire from foreign invasion. Extending about 6,400 kilometers, this wall runs through 8 provinces of China, including Shanghai and Beijing.
-
-**5. Jiuzhaigou Trekking**
-
-Jiuzhaigou is a beautiful valley located in the north western Sichuan province. About 50 kilometers in length, this place has hundreds of stunning lakes flanked by equally beautiful waterfalls. Trekking down Jiuzhaigou Valley will reveal the natural treasures that this place boasts. From Jiuzhaigou, you may traverse through Shuzheng, Rize, and Zezawa Valley. You can also spend the evening sitting around a campfire here, digging into the delicious barbequed meats.
-
-**Contributors**
-March 27, 2010
+The scale of [Tibet](/asia/china/tibet) is hard to grasp until you're there — a plateau the size of Western Europe, most of it above 4,000 meters, framed by the highest mountains on earth. [Lhasa](/asia/china/tibet/lhasa) itself is a city of contrasts: the Potala Palace and Jokhang Temple at its center, surrounded by a sprawling modern Chinese city. The pilgrims who walk the Barkhor circuit around the Jokhang, spinning prayer wheels, tell you more about Tibetan Buddhism than any book can. Note that Tibet requires a special permit in addition to a China visa; arrange this in advance through a registered tour operator.

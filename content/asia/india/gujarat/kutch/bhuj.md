@@ -1,12 +1,12 @@
 ---
-title: "Bhuj"
+title: 'Bhuj'
 type: location
 latitude: 23.247245
 longitude: 69.668339
 ---
 
-Bhuj is the biggest city in the [Kutch](/asia/india/gujarat/kutch) . It is a very old city and worth a visit. It is also an ideal starting point for visiting the Rann of Kutch, a nature reserve where you may see tha famous wil ass of Rann. 
+Bhuj is the largest city in [Kutch](/asia/india/gujarat/kutch) and the ideal base for exploring the region. It is a very old city with a fascinating old walled quarter, several palaces, and the excellent **Aina Mahal** (Hall of Mirrors), a palace with Venetian glass interiors built by a Kutchi craftsman who spent years studying in Europe.
 
-In January 2001, Gujarat was hit by a severe earthquake. Except for the natural surroundings, Bhuj vanished. Disappeared into nothingness. Many of its inhabitans were killed and Gujarat will never be the same again, let alone Bhuj. 
+The city was devastated by the 2001 earthquake but has been largely rebuilt. What draws most visitors today are the surrounding craft villages, where communities of artisans produce exquisite embroidery, each village with its own distinct style and patterns. Day trips to the Rann of Kutch, where you can see the Indian wild ass, are easily arranged from Bhuj.
 
-It is worth to visit the place. Bhuj has very good community of craftsman and it is known for it.
+The **Kutch Museum**, the oldest museum in Gujarat, has a good collection of Kutchi embroidery, silverwork, and local artefacts.

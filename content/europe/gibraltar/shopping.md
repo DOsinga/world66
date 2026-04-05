@@ -3,8 +3,12 @@ title: "Shopping"
 type: section
 ---
 
-Gibraltar is one of the few remaining VAT free holiday destinations in Europe, offering its visitors a unique and diverse tax free shopping experience.
+Gibraltar has no VAT, which makes it one of the few genuinely tax-free shopping destinations left in Europe. This draws cross-border shoppers from Spain, particularly for alcohol, tobacco, electronics, and perfume — categories where the price difference is noticeable.
 
-  In addition to the numerous perfumeries, electrical stores and jewellers, Gibraltar’s Main Street is home to many British and European chain stores such as Benetton, BHS, Top Shop, Dorothy Perkins and the Body Shop, not to mention the last remaining Marks & Spencer's in continental Europe.   The introduction of late night shopping on Thursday nights, means extra time for some retail therapy! 
+Main Street is the main commercial strip, running nearly the full length of the town centre. It's pedestrianised for much of its length and lined with everything from international chains to family-run jewellers and perfumeries. British brands are well represented — there's a Marks & Spencer, and most of the standard high street names have a presence.
 
-  Main Street, Gibraltar's principal shopping thoroughfare, runs almost the length of town and most shops have windows packed with goods of all kinds at attractive prices.   The range, originating from all over world, is tremendous. Items to look out for include jewellery, fine glassware, leather goods, watches, eyewear and the latest in hi-fi technology and TV's.
+For locally specific purchases, the tourist shops around Casemates Square and on Main Street sell the usual souvenirs (fridge magnets, Rock of Gibraltar keyrings, Barbary Macaque plushies) alongside Gibraltar-specific items like local stamps, which have a following among collectors, and bottles of locally-produced Calentita condiments and preserves.
+
+The Calentita Night food festival in June is also a good occasion to pick up local food products directly from producers.
+
+Shopping hours are broadly UK-standard, though many smaller shops still close for a long lunch. Thursday evenings have late-night shopping. On Sundays, most shops are closed — an increasingly rare experience in retail.

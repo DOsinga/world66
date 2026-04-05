@@ -3,40 +3,16 @@ title: "Museums"
 type: section
 ---
 
-You will gain a full knowedge of Singaopore after you visiting these Museums Asia Civilisations Museum, Armenian, Asian Civilisations Museum, Empress Place, Singapore Art Museum, Singapore History Museum and Singapore Philatelic Museum. You can obtain all these Museums information from National Heritage Board.
+Singapore has invested heavily in its museums, and several are genuinely excellent. Most are managed by the National Heritage Board and offer free entry to the permanent collections, with charges for special exhibitions.
 
-Minor corrections on 03 October 04
+**National Museum of Singapore** (93 Stamford Road) — the main national history museum, housed in a colonial building with a modern extension. The Singapore History Gallery is the essential introduction to the country: from Malay sultanate to British colony to Japanese occupation to independence. Well-designed and honest about the difficult parts. Free for permanent galleries.
 
-**all**
+**Asian Civilisations Museum** (1 Empress Place, on the Singapore River) — a serious and well-curated museum of Asian art and civilisation, covering China, Southeast Asia, South Asia, and the Islamic world. The Tang Shipwreck collection — ceramics recovered from a 9th-century Arab dhow that sank in the Belitung Strait — is extraordinary.
 
-**National Heritage Board (NHB)**
+**National Gallery Singapore** (St Andrew's Road) — occupying the former Supreme Court and City Hall buildings, this is the largest visual art museum in Southeast Asia, with the world's most comprehensive collection of Singaporean and Southeast Asian art. The architecture alone is worth the visit; the permanent collection is free.
 
-** **
+**Peranakan Museum** (39 Armenian Street) — dedicated to the Peranakan (Straits Chinese) culture that developed among Chinese settlers who married into the local Malay community over centuries. Intricate beaded shoes, elaborate wedding costumes, and beautifully crafted furniture. Small and focused; one of the best museums in the country.
 
-Fax: +65 6337 1265
+**Changi Museum** (1000 Upper Changi Road North) — documents the Japanese occupation and the experiences of Allied prisoners of war held at Changi. Quietly affecting. Free entry. The replica chapel is the emotional centre.
 
-Address: 140 Hill Street MICA Building, #03-02, Singapore 179369
-
-email: nhb_feedback@nhb.gov.sg
-
-Tel: +65 6338 0000
-
-**Shop by Banyan Tree-Museum-Museum Shops**
-
-Fax: +65 6462 4883
-
-Address: Head Office-211 Upper Bukit Timah Road Singapore 588182
-
-email: museumshop@banyantree.com
-
-Tel: +65 6849 5761
-
-**National Universrity of Singapore (NUS)**
-
-Fax: +65 6775 9330
-
-Address: 10 Kent Ridge Crescent, Singapore 119260
-
-email: qsmanager@nus.edu.
-
-Tel: +65 6775 6666
+**Indian Heritage Centre** (5 Campbell Lane, Little India) — traces the history of Indian communities in Singapore and Southeast Asia. Relatively new and well-designed, covering both colonial-era indentured labourers and more recent migration.

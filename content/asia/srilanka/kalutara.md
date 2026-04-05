@@ -5,8 +5,6 @@ latitude: 6.57453
 longitude: 80.028631
 ---
 
-Travel Guide
-
 Situated approximately 42km south of Colombo,
 this town is well known for quality bamboo basket and mats and
 the finest tasting mangosteens. Kalutara's golden beach is fringed

@@ -1,12 +1,10 @@
 ---
-title: "Ciudad juarez"
+title: "Ciudad Juárez"
 type: location
 latitude: 31.690798
 longitude: -106.425321
 ---
 
-Ciudad Juarez, Mexico's fifth largest city, is located on the Mexico (Chihuahua) and American (Texas) border. It is only minutes from the city of El Paso,TX. It is a very lively city with lots of entertainment, sport events and nightlife. 
+Ciudad Juárez sits directly across the Rio Grande from El Paso, Texas, connected by several international bridges and functioning as one of the world's largest border communities. It is Chihuahua state's most populous city and a major manufacturing centre. The city gained a difficult international reputation in the 2000s due to cartel violence, though the security situation has improved considerably since.
 
-There are a number of colonial churches which are well worth a visit. Directly across from the Main Plaza Our Lady of Guadelupe has very old paintings and altars. The Cathedral nextdoor, neo-clasical facade of recent construction, is built where the old graveyard used to be. 
-
-For a great shopping experience head for the Mercado Tipico or the Mercado Juarez. The Mercado Tipico is a beautiful colorful old city market filled with art-folklore-music and of course mariachis. This very liked tourist spot always has something exciting going on. Don't leave Cd. Juarez visiting it. The Mercado Juarez is the oldest city market. It features curious shopping, groceries shopping, authentic mexican food and music, played by mariachis and "norteno" groups. This is also a must visit !
+For visitors from El Paso, crossing the bridge at the end of El Paso Street puts you directly on Avenida Juárez, a half-mile of shops, restaurants, pharmacies, and music stands. The colonial churches around the Plaza Principal are genuine and unhurried: the Catedral and the Mission de Guadalupe are worth the visit. The Museum of History in the old Customs House building is free and covers the Mexican Revolution — fitting given that the final battle was fought on these streets in 1911 and the peace treaties were signed here.

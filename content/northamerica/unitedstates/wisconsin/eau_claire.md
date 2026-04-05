@@ -5,15 +5,6 @@ latitude: 44.811349
 longitude: -91.498494
 ---
 
-Travel Guide
+Eau Claire — pronounced "Oh Claire", from the French *eaux claires*, "clear waters" — is a small Wisconsin college town of around 70,000 people, set at the confluence of the Chippewa and Eau Claire rivers in the state's north-west. It was built on lumber: in the 1880s this was the biggest sawmill town on the Chippewa, and the old logging heritage is still what most of its attractions are about. Today it lives off the **University of Wisconsin–Eau Claire**, a handful of tech and healthcare employers, and a surprisingly lively music and craft-beer scene that punches above its weight for a city this size.
 
-Eau Claire is a small city (population 61,704 from 2000 census) located in northwest Wisconsin. The city's name (pronounced "O'Claire") comes from the French phase "Eaux Claires", meaning "Clear Waters" as the city is located at the confluence of the Eau Claire and Chippewa Rivers.
-
-Eau Claire is the headquarters for Menards, Presto Industries and Silver Spring Gardens, with other major employers in education, healthcare and technology.
-
-Eau Claire is home to several universities and colleges, including the University of Wisconsin-Eau Claire (UWEC), the private (Church of the Lutheran Confession Synod) Immanuel Lutheran College, and the Chippewa Valley Technical College (CVTC).
-
-As a small college town, entertainment options are limited, but diverse enough to satisfy most visitors and residents. Some of the more unique destinations include 1) Carson Park - which includes Paul Bunyan Logging Camp, Chippewa Valley Museum, and Carson Park Baseball Stadium (where Hank Aaron got his start and the Eau Claire Express, a Northern League minor team, & Caveliers amateur team now play). 2) Water Street - strip of college bars and shops near UWEC, 3) shopping districts - Oakwood Mall area, re-developed downtown, etc, 4) Jacob Leinenkugel Brewing Company - small national brewery in nearby Chippewa Falls, 5) etc.
-
-More information on
-*Eau Claire Travel*
+For visitors the best single stop is **Carson Park**, a wooded peninsula on Half Moon Lake that holds the **Paul Bunyan Logging Camp** (an open-air museum of the 19th-century timber industry), the **Chippewa Valley Museum**, and a minor-league baseball stadium where a teenage Hank Aaron played his first professional season in 1952. **Water Street**, on the edge of the UWEC campus, is the college-bar strip and the best place for live music. Just up the road in **Chippewa Falls**, the **Leinenkugel Brewing Company** has been making beer since 1867 and still runs free tours. Downtown Eau Claire has been quietly reinvented over the last decade around the **Pablo Center at the Confluence** and the riverside **Phoenix Park**, home to a summer farmers' market and the Eaux Claires music festival when it runs.

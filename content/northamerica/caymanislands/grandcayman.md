@@ -1,8 +1,12 @@
 ---
-title: "Grand cayman"
+title: "Grand Cayman"
 type: location
+latitude: 19.3133
+longitude: -81.2546
 ---
 
-Grand Cayman is exactly as the name suggests the biggest of the Cayman islands. The capital George Town is located in the West of the island, some 20 km to the est is East End. Between the two you find many resorts and great beaches.
+Grand Cayman is the largest of the three Cayman Islands and handles the vast majority of visitors. The capital, George Town, sits on the western shore. Seven Mile Beach stretches north from the capital — this is where most hotels, restaurants, and tourist activity is concentrated. The eastern side of the island is quieter, more residential, and largely overlooked by visitors in a hurry.
 
- The main attractions are the Cayman Turtle Farm and the nearby region known as Hell because of its moonscape of black lava. The West Bay is filled with 200-year old lanes and foodpaths where you'll see a catalog of the islands architecture ranging from gingerbread cottages to wattle-and-daub cabins.
+The main draw is the water. Seven Mile Beach is one of the Caribbean's finest stretches of sand, calm and clear, with good snorkelling offshore. Stingray City in the North Sound is the island's most famous attraction. The Cayman Turtle Centre in West Bay is popular with families. Diving off the western and northern shores is excellent, with the Kittiwake wreck near Seven Mile Beach a particular highlight.
+
+George Town fills up dramatically on cruise ship days, when thousands of day-trippers pour through. The shops and streets around the waterfront become very congested. If you want a quieter experience of the capital, check ship schedules and plan accordingly.

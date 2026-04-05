@@ -1,56 +1,12 @@
 ---
-title: "When to Go in Silvassa"
+title: "When to Go"
 type: section
 ---
 
-Those interested in wild life and eco-tourism should never miss an
-opportunity to visit the beautiful capital of Dadra and Nagar Haveli, **Silvassa. When to Go** is always a big question in the mind of tourists. Read
-below to learn about your options.
+Silvassa sits near the Arabian Sea in the foothills of the Western Ghats, giving it a relatively mild climate year-round. Winter (November to February) is the best time to visit, with pleasant temperatures and clear skies ideal for outdoor activities.
 
-**Sivassa Geography**
+**Summer (March to May)** brings temperatures between 25 and 39 degrees. May is the hottest month. If you can handle the heat, the National Tribal Art and Food Festival (May 1-7) is worth timing a visit around. Tribal artists from across India gather to exhibit and sell Madhubani, Kangra, and Warli paintings, while the food festival serves tribal cuisine from many regions.
 
-Situated in the foothills of the Western Ghats in India, Silvassa is a
-major tourist hub for trekkers. It is well known for its tribal
-population and wild life. Home to cascading water falls, meandering
-rivers, and lush green forest areas, this small town is a paradise
-for nature lovers.
+**Monsoon (June to August)** sees moderate rainfall thanks to the sheltering Western Ghats. The landscape turns lush green and the waterfalls are at their best. The Monsoon Magic Festival runs from mid-July to mid-August, with rain dances, musical concerts, cross-country runs, and monsoon painting competitions.
 
-Silvassa is located near Arabian Sea and the Daman Ganga River. Both
-play a significant role in the weather condition of the town.
-
-**When to Go**
-
-Due to its proximity to the sea, Silvassa experiences relatively unvarying climate
-conditions throughout the year. Summers here are mostly warm, and winters are cool. Rainfall is scant in the region, which makes
-it very favorable for touring throughout the year. You can pack your
-bags and visit this beautiful town whenever you'd like.
-**Summer
-**
-
-Summer in Silvassa starts in March and lasts until May. The
-temperature ranges from 25 to 39 degrees centigrade, with May
-recording the highest temperatures. However, if you are used to touring in extreme
-temperatures then visiting Silvassa will not be a problem during this
-time of the year. You can enjoy The National Tribal Art and Food
-Festival in the month of May.
-**Monsoon
-**
-
-Monsoon lasts from June to August, with low rainfall due to the
-Western Ghats. Therefore, this is also pleasant time to visit Silvassa.
-This is also the time when you can participate in the Monsoon Magic
-Festival, which starts in June. Activities include Monsoon Cross Country
-Run, Monsoon Raga (musical concert), rain dance and Monsoon Moments.
-**Winter
-**
-
-Winter is the best time to visit. The season lasts from November to
-February, with temperatures very pleasant for outdoor activities. Apart
-from Holi, Navratras and Diwali, you can also participate in the Tarpa
-Festival in the month of December. Activities in Tarpa Festival include
-boating, a tattoo painting competition, swimming, and much more. It is the
-festival that highlights tribal culture and tradition. The Kite Festival
-in the month of January is another great attraction for the tourists.
-
-**Contributors**
-April 06, 2010
+**Winter (November to February)** is the most comfortable season. The Tarpa Festival (December 23-31) celebrates the tribal culture of Dadra and Nagar Haveli through folk dance, boating, swimming, and traditional art competitions. The Kite Festival around Makar Sankranti in January fills the sky with colour. Nariyeli Purnima in August marks the beginning of the fishing season with prayers and celebrations along the coast.

@@ -3,16 +3,22 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+## By Air
 
-**By Air** Generally speaking it is easiest to come to Africa via Europe. As a rule the country that was the former Colonial Power now has the cheapest flights. If you are going to Cote d'Ivoire, try France for example. Paris has regular cheap flights to almost all ex-colonies.
+Aden Adde International Airport (MGQ) in Mogadishu is the main international gateway. It is managed by Turkish company Favori LLC and has a reasonably modern terminal. Direct flights operate from Istanbul (Turkish Airlines), Nairobi, Addis Ababa, Dubai, Doha, Cairo, Djibouti, and Kampala. Ethiopian Airlines and flydubai are among the more reliable options for connections.
 
- This means that London and Paris provide the best basis for entering Africa. In Europe, Amsterdam, Frankfurt and to a lesser degree Rome also offer good possibilities. Cheap tickets to countries like the Gambia are easily found.
+The airport has been targeted by mortar attacks and has closed at short notice in the past. Build flexibility into any travel plan.
 
- When coming from Asia, East and South Africa is most easy to access. Delhi is some sort of a hub for travel to East Africa.
+Bossaso Airport (BSA) in Puntland handles regional flights from Nairobi via African Express Airways and connections within the Horn of Africa region. Garowe and Galkayo also have functional airstrips used by UN agencies and NGOs.
 
- For people in the US, it is probably worth looking for bargains via London or Paris. Otherwise the best place to start looking is arguably New York.
+Somali Airlines, grounded for three decades, was reviving in late 2025 with two Airbus A320s, but check current status before counting on it.
 
- **By boat** Although it sure is a Romantic idea, traveling by boat is often more expensive and always more time consuming than flying. It is however a good option when you want to go to Morocco, Tunisia or Egypt from southern Europe, or in the case of Egypt from Jordan. To Egypt and East Africa from India or Singapore is possible, but it takes a long time and is either quiet expensive or not comfortable at all.
+## Visas
 
-**By land** Coming to Africa by land from Asia is only possible at the border crossing between Israel and Egypt. The border is open.
+Somalia introduced an eVisa system in August 2025. Applications can be submitted at evisa.gov.so. Most nationalities require a visa; citizens of Rwanda and Malaysia can enter for 30 days without one. Ensure your passport is valid for at least six months beyond your date of entry.
+
+Note that Somaliland operates its own separate entry system — a Somali visa does not grant entry to Somaliland.
+
+## By Land
+
+Land crossings exist with Ethiopia and Kenya but are not recommended for independent travelers. Road security is poor to nonexistent on most border approaches, and the routes pass through territory with active al-Shabaab presence. The main crossing points with Ethiopia are at Tog Wajaale (for Somaliland/Hargeisa) and Dobley (for the south, dangerous). The Liboi crossing into Kenya near Kismayo is in an active conflict zone.

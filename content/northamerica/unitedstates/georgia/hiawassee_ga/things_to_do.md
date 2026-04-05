@@ -1,12 +1,6 @@
 ---
-title: "Things to Do in Hiawassee"
+title: "Things to Do"
 type: section
 ---
 
-Hiawassee is primarily an outdoor destination. The town sits on Lake Chatuge in the Blue Ridge Mountains, about two hours north of Atlanta, surrounded by the Chattahoochee National Forest.
-
-Whitewater rafting is popular, with outfitters running trips on the Hiawassee, Toccoa, Nantahala, and Chattooga rivers at varying difficulty levels. The Appalachian Trail passes nearby; hiking ranges from easy waterfall walks to strenuous ridge hikes. Fly fishing for trout is excellent year-round throughout the mountain rivers. Boating and kayaking on Lake Chatuge is straightforward — various rentals are available.
-
-The Georgia Mountain Fairgrounds hosts the annual Georgia Mountain Fair in August and a fall festival in October. Pioneer Village on the fairgrounds preserves historic mountain buildings. The Hamilton Rhododendron Garden, also on the fairgrounds, is spectacular in late spring with over 3,000 plants including a rare yellow azalea.
-
-Brasstown Bald, the highest point in Georgia at 4,784 feet, is a worthwhile half-day excursion about 30 minutes from Hiawassee. A visitor center at the summit covers the area's natural history; on clear days you can see four states.
+Outdoor recreation drives most visits. The Hiawassee River and nearby Toccoa, Tallulah, and Chattooga rivers offer good trout fishing, and several outfitters run whitewater rafting trips at various difficulty levels. Lake Chatuge has calm water for kayaking and motorboating; boat rentals are available locally. The Appalachian Trail passes through the nearby mountains with trailheads accessible within a short drive. The Georgia Mountain Fairgrounds on the lake hosts the annual Georgia Mountain Fair each summer and a 10-day fall festival in October; Anderson Music Hall there has concerts year-round. The ArtWorks Artisan Center in town sells handmade work from over 50 regional artists.

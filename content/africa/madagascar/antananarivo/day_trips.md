@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Antananarivo"
+title: "Day Trips"
 type: section
 ---
 

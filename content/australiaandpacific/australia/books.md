@@ -3,62 +3,16 @@ title: "Books"
 type: section
 ---
 
-**all**
+**In a Sunburned Country** (also published as *Down Under*) by Bill Bryson is the obvious starting point. Bryson travels the length of Australia with genuine curiosity and dry wit, and manages to make even the parliamentary debates of nineteenth-century Victoria entertaining. It starts with the true and baffling story of how Australia once lost a prime minister at sea. Funny, informative, and hard to put down before a trip.
 
-**Throwim Way Leg:Tree-Kangaroos, Possums, and Penis Gourds -- On the Track of Unknown Mammals in Wildest New Guinea**
+**Cloudstreet** by Tim Winton is Australia's great domestic novel — two working-class Perth families sharing a house across twenty years, from the 1940s to the 1960s. Sprawling, warm, and unsentimental. Winton is the country's most important living novelist, and this is his masterpiece.
 
+**Tracks** by Robyn Davidson is the account of Davidson's solo walk (with four camels and a dog) from Alice Springs to the Indian Ocean in 1977. Still one of the great Australian adventure narratives, and a portrait of the Western desert landscape that sticks with you.
 
+**The Fatal Shore** by Robert Hughes is the definitive history of the convict settlement of Australia. It's a brutal, meticulous, and magnificently written account of transportation and colonisation. Essential background for understanding how the country was made.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0871137313/ref=ase_osingacom?v=glance&s=books)
+**My Place** by Sally Morgan is a seminal work of Indigenous Australian writing — a woman's account of discovering, against the silence of her family, that she has Aboriginal heritage. First published in 1987, it remains important and readable.
 
-author: Tim Flannery,Tim F. Flannery
+**The Narrow Road to the Deep North** by Richard Flanagan won the Booker Prize in 2014. Set partly in Tasmania and partly on the Burma-Thailand railway, it follows an Australian surgeon through wartime captivity. Harrowing and beautifully written.
 
-isbn: 0871137313
-
-subject: travel
-
-**Eyewitness Travel Guide:Australia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0789435314/ref=ase_osingacom?v=glance&s=books)
-
-author: DK Travel Writers,Dorling Kindersley
-
-isbn: 0789435314
-
-subject: travel
-
-**Culture Shock:Australia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558680942/ref=ase_osingacom?v=glance&s=books)
-
-author: Ilsa Sharp
-
-isbn: 1558680942
-
-subject: culture
-
-**Mutant Message Down Under**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0060926317/ref=ase_osingacom?v=glance&s=books)
-
-author: Marlo Morgan,Carri Garrison (Illustrator)
-
-isbn: 0060926317
-
-subject: travel
-
-**Down Under - in a sunburned country**
-
-An often quirky travel writer, Bill Bryson has been famous for some time for picking out the funniest bits of travelling. His book on Australia 'Down Under / In a sunburned country' starts with the hilarious but true story of how a nation lost its Prime Minister.
-
-Barely a page goes by wi [more..](/australiaandpacific/australia/books/down_under__in_a)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/055299703X /ref=ase_osingacom?v=glance&s=books)
-
-author: Bill Bryson
-
-isbn: 055299703X
+**Carpentaria** by Alexis Wright is a challenging but rewarding novel set in a fictional Gulf of Carpentaria town, told through an Aboriginal perspective. It won the Miles Franklin Award and represents a different Australia from the coastal cities most visitors see.

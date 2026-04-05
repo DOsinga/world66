@@ -19,4 +19,4 @@ Most shops are open from 10 a.m. to 5.30 p.m., Monday to Thursday, from 10 to 6 
 
 **"The Board"**
 
-"The Board" is the local expression for the open meat and fish market to be found in all towns of Greenland. Here, you can buy the day's harvest: seal, whale, musk, reindeer, fish and berries - straight from the fishers, hunters and pickers! The Board, whose Greenlandic name is Kalaaliaraq ("The [more..](/northamerica/greenland/shopping/theboard)
+"The Board" (Greenlandic: *kalaaliaraq*) is the open meat and fish market found in all towns. Here, you can buy the day's harvest — seal, whale, musk ox, reindeer, fish, and berries — direct from hunters, fishers, and pickers. It is one of the most genuine and photogenic aspects of Greenlandic daily life.

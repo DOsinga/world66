@@ -3,112 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Baghdad Sketches** by Freya Stark — Stark traveled Iraq in the 1920s and 1930s when it was a newly created British mandate territory. Her account of Baghdad, the rivers, and the people is warm, precise, and still vivid. A good companion for anyone visiting the country.
 
-**The Demonic Comedy :Some Detours in the Baghdad of Saddam Hussein**
+**The Demonic Comedy: Some Detours in the Baghdad of Saddam Hussein** by Paul Roberts — A Canadian journalist's dispatches from Saddam's Iraq. Dark, clear-eyed, and often grimly funny about a country in the grip of a peculiar kind of totalitarianism. Useful context for understanding what preceded the 2003 invasion.
 
-** Steve:** The Demonic Comedy is a series of trips through Iraq with Canadian journalist Paul Roberts. His topic is serious but the dark humour he finds on his journeys makes this book more accessible to the jaded modern reader. Most of us don't want to read the normal, boring, and [more..](/asia/iraq/books/thedemoniccomedysomedetoursinthebaghdadofsaddamhussein)
+**Guests of the Sheik** by Elizabeth Warnock Fernea — An American anthropologist's account of living in a traditional Iraqi village in the 1950s, following her husband's fieldwork. A rare close-up portrait of rural Iraqi life from an outsider perspective, still widely read and respected.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0374138230/ref=ase_osingacom?v=glance&s=books)
+**Drinking the Sea at Gaza** — For broader regional context, several books cover the Mesopotamian legacy.
 
-author: Paul Roberts
+**The Great War for Civilisation** by Robert Fisk — A long, angry, essential account of the modern Middle East by a veteran correspondent who covered Iraq across decades. Not an Iraq book specifically, but the chapters on Iraq are among the best journalism written about the country.
 
-isbn: 0374138230
+**The Bookseller of Kabul** and similar works capture the feel of a society under pressure; for Iraq specifically, **Night Draws Near** by Anthony Shadid is the finest piece of reporting from the early years of the 2003 occupation — a Pulitzer Prize-winning account told through the lives of ordinary Iraqis.
 
-subject: travel
+**Ancient Iraq** by Georges Roux — The definitive introduction to Mesopotamian history from the Sumerians to the Arab conquest. Dense but readable. Essential if you intend to visit the archaeological sites.
 
-**Baghdad Sketches**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810160234/ref=ase_osingacom?v=glance&s=books)
-
-author: Freya Stark,Barbara Kreiger (Introduction)
-
-isbn: 0810160234
-
-subject: travel
-
-**Visions in the Stone:Journey to the Source of Hidden Knowledge**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0895560577/ref=ase_osingacom?v=glance&s=books)
-
-author: E. J. Gold
-
-isbn: 0895560577
-
-subject: travel
-
-**The Geonim of Babylonia and the Shaping of Medieval Jewish Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300070470/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Brody
-
-isbn: 0300070470
-
-subject: culture
-
-**Culture**
-
-the culture kin denmark
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/6700/ref=ase_osingacom?v=glance&s=books)
-
-author: Denmark
-
-isbn: 6700
-
-subject: culture
-
-**The Ancient Road:From Aleppo to Baghdad in the Days of the Ottoman Empire**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0710305567/ref=ase_osingacom?v=glance&s=books)
-
-author: John S. Guest
-
-isbn: 0710305567
-
-subject: culture
-
-**Guests of the Sheik:An Ethnography of an Iraqi Village**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0385014856/ref=ase_osingacom?v=glance&s=books)
-
-author: Elizabeth Warnock Fernea
-
-isbn: 0385014856
-
-subject: history
-
-**Ancient Mesopotamia:Portrait of a Dead Civilization**
-
-** Amanda Stanley:** 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0226631877/ref=ase_osingacom?v=glance&s=books)
-
-author: A. Leo Oppenheim,Preface by Erica Reiner
-
-isbn: 0226631877
-
-subject: history
-
-**The Cultural Atlas of Mesopotamia and the Ancient Near East**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0816022186/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Roaf,Michael March (Editor),Graham Ba..
-
-isbn: 0816022186
-
-subject: history
+**The Cultural Atlas of Mesopotamia and the Ancient Near East** by Michael Roaf — A comprehensive, well-illustrated reference for the archaeology and history of the region.

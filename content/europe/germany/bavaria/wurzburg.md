@@ -1,24 +1,12 @@
 ---
-title: "Wurzburg"
+title: "Würzburg"
 type: location
 latitude: 49.793372
 longitude: 9.930978
 ---
 
-Wurzburg (better: Würzburg), centrally situated in Germany, is surrounded by the forested hills of the Spessart, Rhön and Steigerwald. The city straddles the River Main some 60 km north of [Rothenburg](/europe/germany/bavaria/rothenburg) and is situated about 110km north west of [Nuremberg](/europe/germany/bavaria/nuremberg). Wuerzburg is Bavaria's fourth largest metropolis and the capital of Lower Franconia. Its 88 square kilometers are home to about 126.000 people.
+**Würzburg** is a city of about 130,000 people in northern Bavaria, set on both banks of the **Main** river in a fertile basin surrounded by the forested hills of the Spessart, Rhön and Steigerwald. It is the capital of **Lower Franconia** (*Unterfranken*), a region with its own strong identity — more Catholic, more wine-oriented and more Mediterranean-feeling than the rest of Bavaria — and one of the main wine-producing areas of Germany, specialising in the distinctive bottle-shaped *Bocksbeutel* flask and in refined dry Rieslings and Silvaner. For travellers, Würzburg is also the northern starting point of the **Romantic Road** (*Romantische Straße*), the signposted scenic route that runs south through Rothenburg ob der Tauber, Dinkelsbühl, Augsburg and eventually to Füssen and the Bavarian Alps.
 
+The city's great monument is the **Residenz**, the vast 18th-century palace built for the prince-bishops of Würzburg by the baroque architect **Balthasar Neumann**. It is widely considered the finest baroque palace in Germany and is a UNESCO World Heritage Site. Its monumental staircase rises into an enormous unsupported vaulted ceiling painted in 1752–53 by **Giovanni Battista Tiepolo** — the largest single fresco ever created, a personification of the four continents that is one of the most extraordinary painted ceilings in Europe. Other rooms worth the visit are the **Imperial Hall** (*Kaisersaal*) and the **Hofkirche**. Miraculously, the Residenz survived the devastating 1945 bombing of the city that destroyed nearly everything else.
 
- 
- The Main-Franconian region lies in a basin below the wooded mountains of the Spessart which guarantees a mild climate and makes it possible to cultivate wine grapes even at this latitude. The high proportion of open land to industrialized area makes for clean air, peace and quiet. There is a network of footpaths as well as extensive bike paths throughout the region, all well-marked and clearly shown on local maps.
-
-
- 
- During the night of March 16, 1945 Wurzburg got the same treatment from Allied bombers that Nuremberg had received two month before. Huge parts of the city, amongst them some priceless historical monuments, were destroyed completely. Today Wurzburg is one of the main tourist attractions of Franconia due to its world famous “Residenz” palace, its strong connection to the German Romantic Road and last but not least its wine.
-
-
- 
- The Wuerzburg cultural scene encompasses the classics and the avant garde, a fondness for local traditions and an openness to the world. Popular events such as the Mozart Festival, a world-class festival of classical music or the Africa Festival, one of Europe's major festivals of African music, attract hundreds of thousands visitors every year.
-
-
- 
- There are 600 classical concerts annually and countless performances of modern music in clubs, bistros and arenas. The culture, as well as the daily life, of the past - from the greatest of German sculptors, Tilmann Riemenschneider, back over 3000 years to classical antiquity and the ancient Egyptians - is on view at the Museum of Main-Franconia in the Marienburg Fortress and in the small but extraordinary collection of the Martin Wagner Museum , located in Würzburg's splendid archepiscopal Residence, the world-famous masterpiece of the great baroque architect Balthasar Neumann, considered by many to be the greatest baroque palace in Europe.
+Above the river on the opposite bank rises the **Marienberg Fortress**, the former residence of the prince-bishops, reached by a steep climb or by a small ferry and a bus. The fortress now houses two museums, including the **Museum für Franken** with one of the finest collections of German Gothic sculpture in the country — especially the works of **Tilman Riemenschneider** (c. 1460–1531), the late-Gothic master who lived and worked in Würzburg and whose emotional, almost pre-modern wood figures are the defining art of the region. Down in the old town, the **Alte Mainbrücke** (Old Main Bridge) is lined with baroque statues of saints and is the classic place to buy a glass of wine from one of the adjacent Weinstuben on a summer evening and watch the sun set over the fortress — an essential Würzburg ritual known locally as **"Brückenschoppen"**.

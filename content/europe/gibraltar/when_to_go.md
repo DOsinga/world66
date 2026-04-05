@@ -1,16 +1,16 @@
 ---
-title: "When to Go in Gibraltar"
+title: "When to Go"
 type: section
 ---
 
-**The Best Time to Visit Gibraltar**
+Gibraltar's Mediterranean climate makes it a year-round destination, but the timing of your visit makes a real difference.
 
-If you are visiting **Gibraltar, when to go** is probably what you need to decide. Gibraltar is a British territory and is located in the southern part of the Iberian Peninsula. In the past it housed the British navy and the economy of Gibraltar was largely driven by it. Today, it is turning into a major tourist destination owing to its beautiful vistas and various historically significant landmarks.
+**Spring (April–June)** is arguably the best time. Temperatures are warm (20–25°C), the crowds are manageable, and the Rock is at its most scenic. The Calentita food festival in June is a good reason to visit in early summer.
 
-**The Weather**
+**Summer (July–August)** is hot and busy. Day-trippers pour in from the Costa del Sol and cruise ships dock almost daily. July and August temperatures regularly hit 30°C. If you're planning to explore the Upper Rock on foot, go early in the morning. On the plus side, evenings are lively and the beaches are at their best.
 
-Your visit to Gibraltar will be largely based on the weather conditions. This region witnesses a temperate climate. Winter is windy and does not witness snowfall and frost; however, frequent showers are experienced during winters. The minimum temperature during winter is 13 degree C and maximum is 18 degrees. Summer is normally hot and humid and the temperature rises to 30 degree C.
-**
-Best Time**
+**Autumn (September–October)** brings National Day on September 10 — one of the best times to experience Gibraltarian culture, with the whole territory dressed in red and white. October is also the month of the Gibraltar International Jazz Festival. Temperatures drop to a comfortable 20–25°C and crowds thin out after the summer.
 
-As a general rule, the best time to visit Gibraltar is in the months between April and October. However, summer sets in by June and lasts until August. The heat is not unbearable during this time, and Gibraltar does witness a flow of tourists during this period. You can walk on the famous rocks and enjoy the views during this season. Also the Barbary Macaques breed of monkeys come out to play on the rocks and keep the visitors entertained. But if you are not fond of summers, especially the humidity, then you might want to consider traveling to Gibraltar during winter.
+**Winter (November–March)** is quiet and mild — rarely below 13°C, and snow essentially unheard of. Rainfall picks up, particularly December through February, and some tourist operations run on reduced schedules. That said, a winter visit has a charm of its own, with short queues and a chance to see everyday Gibraltar without the summer rush.
+
+One weather note: the Levanter wind pushes a distinctive cloud cap over the top of the Rock, visible from Spain. It doesn't affect the town much but can reduce the views from the Upper Rock.

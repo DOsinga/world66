@@ -1,12 +1,28 @@
 ---
-title: "Eating Out in Montréal"
+title: 'Eating Out'
 type: section
 ---
 
-Montréal has one of the best food scenes in North America. The city's French heritage shows in the quality of bread, cheese and pastry, but the real character of Montréal cooking is the collision of that tradition with Québécois comfort food, the Jewish deli legacy of the old immigrant neighbourhoods, and a wide range of immigrant cuisines.
+Montreal is one of the great food cities of North America. The French culinary tradition runs deep, but waves of immigration have created a dining scene that is wildly diverse and consistently excellent, often at prices that would shock visitors from Toronto or New York.
 
-The unmissable local specialties are the **smoked meat sandwich** — aged brisket on rye with mustard and a pickle — and **poutine**: fries topped with cheese curds and brown gravy. For smoked meat, [Schwartz's](/northamerica/canada/quebec/montreal/eating_out/schwartz_smoked_meat) on boulevard Saint-Laurent is the institution; Dunn's and Ben's have their partisans too. For poutine, Chez Claudette at Laurier and Saint-Denis is known for creative variations.
+## The Essentials
 
-The best restaurant neighbourhoods are the Plateau (rue Saint-Denis and the streets around it), Mile End (boulevard Saint-Laurent north of avenue du Mont-Royal), and Old Montréal. Rue Prince-Arthur and avenue Duluth are known for BYOB restaurants where you bring your own wine and pay no corkage — a Montréal tradition that makes dining considerably cheaper.
+**Schwartz's** (3895 Boulevard Saint-Laurent) has been serving Montreal smoked meat since 1928. The line is always out the door, the space is cramped, and the meat -- hand-cut, thick-sliced, on rye with mustard -- is legendary. No credit cards. Nearby **The Main** is the local counter-argument, slightly less famous but equally devoted to the craft.
 
-[Au Pied de Cochon](/northamerica/canada/quebec/montreal/eating_out/au_pied_de_cochon) is the most celebrated restaurant in the city, known for its extravagant use of foie gras and duck.
+**Poutine** is everywhere, from late-night chip trucks to upscale restaurants putting their own spin on it. For the classic greasy-spoon version, try **La Banquise** on Rue Rachel, open 24 hours with dozens of variations. **Chez Claudette** on Laurier near Saint-Denis is another favorite with creative interpretations.
+
+**Montreal bagels** are distinct from New York bagels -- smaller, sweeter, denser, and wood-fired. The eternal rivalry is between **Fairmount Bagel** (open 24 hours) and **St-Viateur Bagel** in Mile End. Try both and pick a side.
+
+## Neighborhoods for Eating
+
+The **Plateau** and **Mile End** are packed with bistros, brunch spots, and BYOB restaurants -- Quebec's generous BYOB policy means you can bring your own wine to many restaurants and skip the markup. **Old Montreal** has fine dining and atmospheric terrace restaurants. **Chinatown** along Rue de la Gauchetiere is small but lively, with dim sum and pho. **Little Italy** around the Jean-Talon Market has excellent Italian and increasingly diverse options. The market itself is one of the best in North America -- go for the produce, the cheese, the charcuterie, and the people-watching.
+
+## Notable Restaurants
+
+**Joe Beef** (2491 Rue Notre-Dame Ouest) is the restaurant that put Montreal's Little Burgundy neighborhood on the culinary map. Reservations are hard to get. Next door, the same team runs **Liverpool House** and **Vin Papillon**, both excellent.
+
+**Au Pied de Cochon** (536 Avenue Duluth Est) is chef Martin Picard's temple of Quebecois excess -- foie gras poutine, duck in a can, and portions designed for serious appetites.
+
+**Toque!** (900 Place Jean-Paul-Riopelle) is Montreal's standard-bearer for fine dining, with a focus on Quebec ingredients prepared with French technique. Dress up.
+
+For a more casual but outstanding meal, **Damas** on Avenue Van Horne serves exceptional Syrian cuisine, and **Barroco** in Old Montreal does beautiful small plates in a candlelit stone-walled room.

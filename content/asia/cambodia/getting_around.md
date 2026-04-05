@@ -1,19 +1,32 @@
 ---
 title: "Getting Around"
 type: section
-email: "linzi.khun@gmail.com"
 ---
 
-**Tour Guide & Travel Arrangement Assistance**
+## By Bus
 
-Angkor is a truly unique holiday destination where you can experience the mystic and splendour of an ancient civilisation while still enjoying the comfort of modern amenities. My name is Sopheap(nickname Tee) and I am an experienced tour consultant living in Siem Reap, the modern-day city in Cambodia where the ancient Angkor is situated. Please visit my weblog at www.angkorholiday.blogspot.com or call me at +855 12 478 612 if you need assistance or advice about holidaying in Angkor.
+Buses are the standard way to travel between cities. The network connects Phnom Penh, Siem Reap, Sihanoukville, Battambang, and Kampot comfortably, with air-conditioned coaches that run on set schedules. Fares are cheap — Phnom Penh to Siem Reap costs around US$7–12, with the journey taking five to six hours. Book tickets through guesthouses, travel agents, or directly with companies like Giant Ibis, Mekong Express, or Capitol Tours. Giant Ibis is the most reliable for comfort and punctuality.
 
-### [Tuk-Tuk, Cyclo and Moto](/asia/cambodia/getting_around/tuktuk_cyclo_and)
+For the northeast (Kratie, Stung Treng, Ratanakiri), buses exist but roads can be rough, especially in wet season. Budget extra time.
 
-In modern Cambodia, most people own cars and this is how they travel. But some still travel by foot or **tuk-tuk**, perhaps **cyclo **or **moto. **Cyclo is cheap, you can travel long distances with very little money, but it takes more time as the person on the back has to pedal, turn and stop with his own two legs. Many people can fit on a cyclo, but no one considers the pedaler and how much weight he has to carry. Moto is slightly more expensive but isnt as safe as there is no helmet law in Cambodia, only the most of three or four [more..](/asia/cambodia/getting_around/tuktuk_cyclo_and)
+## By Air
 
+Domestic flights connect Phnom Penh to Siem Reap (about 45 minutes) and are worth considering if your time is tight. Airlines include Cambodia Angkor Air and several smaller carriers. Prices have dropped considerably and are often competitive with the bus if you book ahead.
 
+## By Boat
 
-[[rate it]](/asia/cambodia/getting_around/tuktuk_cyclo_and)
+The boat between Phnom Penh and Siem Reap along the Tonle Sap was a classic traveler route, but services have become less reliable and the road is faster. Some scenic Mekong routes remain, particularly in the north. Check locally for current availability.
 
-email:
+## Tuk-tuks and Motos
+
+Within towns, tuk-tuks (a motorbike pulling a covered cart) are the standard tourist transport. A short trip in Phnom Penh or Siem Reap costs US$1–3. For full-day hire — including trips to Angkor — expect to pay US$15–25. The Indian-style auto-rickshaw (enclosed cabin) has also become common.
+
+Moto-taxis (motorbike taxis) are cheaper but less comfortable and helmets are rarely provided. Use them for short hops in smaller towns.
+
+## Ride-Hailing Apps
+
+In Phnom Penh and Siem Reap, apps like **Grab**, **PassApp**, and **Tada** work well for booking tuk-tuks and cars at fixed prices. This is more reliable than haggling on the street and cashless payment is possible.
+
+## Renting a Motorbike or Bicycle
+
+Bicycles are practical and popular in Siem Reap for getting to the temples — the distances are manageable and the flat terrain helps. Motorbike hire is available in most towns (around US$5–10/day) though the roads demand some experience. Driving licenses are rarely checked but driving carefully is essential — road safety standards are low.

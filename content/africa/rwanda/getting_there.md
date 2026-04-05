@@ -3,26 +3,23 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**By air**
 
-There is no direct commercial air service to Rwanda from the UK at present.
+Kigali International Airport (KGL) is the main entry point. RwandAir, the national carrier, offers direct flights to London Heathrow and Paris CDG, and connects across Africa. Other airlines with good connections include Brussels Airlines, Ethiopian Airlines, Kenya Airways, KLM, Qatar Airways, and Turkish Airlines. Most long-haul itineraries from Europe or North America involve a stop in Nairobi, Addis Ababa, or the Gulf.
 
-Approximate flight time
+The airport is about 10km east of Kigali city centre. Taxis and ride-hailing apps (Yego, Bolt) serve the route.
 
-From Kigali to *London *is 13 hours including stopovers.
+**Visas**
 
-International airport
+Most nationalities can get a visa on arrival or obtain an e-visa in advance at irembo.gov.rw. The standard tourist visa costs $50 (single entry, 30 days) or $70 (multiple entry). Citizens of the East African Community (Uganda, Kenya, Tanzania, etc.) enter without a visa. Your passport must be valid for at least six months.
 
-*Kigali (KGL)* (Gregoire Kayibanda) 12km (7.5 miles) east of Kigali (travel time  25 minutes). Airport facilities include bar duty-free shop post office and currency exchange. Coach and taxi services are available.
+Yellow fever vaccination proof is required if you are arriving from a yellow fever risk country.
 
-Departure tax:
+**By road**
 
-US$20.
+Rwanda borders Uganda, Tanzania, Burundi, and the Democratic Republic of Congo. The main overland entry points are:
 
-Road
-
-International routes are available from the surrounding countries of the Democratic Republic of Congo Uganda and Tanzania. Visitors are advised to exercise extreme caution due to political instability. Driving is generally not recommended and can be dangerous.
-
-Bus
-
-There is a twice-weekly service from Kampala in Uganda to Kigali (Wednesday and Saturday).
+- **Uganda** via Gatuna/Katuna border (road from Kampala). Well-used, straightforward. Daily buses connect Kampala and Kigali (about 8–10 hours).
+- **Tanzania** via Rusumo border. Long journey from Dar es Salaam or Arusha, but doable.
+- **Burundi** via Nemba or Kagitumba crossings. Exercise caution; check current advisories before crossing into Burundi.
+- **DRC** crossings exist at Gisenyi/Goma and Cyangugu/Bukavu but the DRC side has long-running security issues. Avoid unless you have specific, current local knowledge.

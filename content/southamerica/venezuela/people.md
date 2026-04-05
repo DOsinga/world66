@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 22 803 409 (July 1998 est.)
+Venezuela has a population of around 28 million people, though the ongoing economic and political crisis has driven an estimated 7 to 8 million Venezuelans to emigrate since 2014 — one of the largest displacement crises in the Western Hemisphere. Colombia, Peru, Ecuador, Chile, and Spain have received the largest numbers.
 
-**Age structure:**
+The population is predominantly mestizo, reflecting centuries of mixing between indigenous, European, and African ancestry. About 67 percent identify as mestizo, 21 percent as white (largely of Spanish, Italian, or Portuguese descent), and roughly 10 percent as Afro-Venezuelan. Indigenous Amerindian communities make up about 2 percent of the population and live mainly in the Amazon region, the Delta Amacuro, and along the Orinoco. The state recognizes more than 40 distinct indigenous peoples, including the Warao, Yanomami, Pemón, and Wayuu.
 
-*0-14 years:* 34% (male 3 979 045; female 3 733 364)
+Spanish is the official language. Several dozen indigenous languages are spoken, with Warao and Wayuunaiki having the most speakers.
 
-*15-64 years:* 62% (male 7 054 525; female 7 011 814)
+Despite severe hardship, Venezuelans are known for their warmth and pride in their country's natural beauty, food, and music. The crisis has brought out both the worst — in terms of urban insecurity — and the best, with strong community networks, humor, and resilience. Visitors who make genuine contact with Venezuelans typically find them generous and hospitable.
 
-*65 years and over:* 4% (male 469 799; female 554 862) (July 1998 est.)
-
-**Population growth rate:** 1.77% (1998 est.)
-
-**Birth rate:** 22.96 births/1 000 population (1998 est.)
-
-**Death rate:** 4.98 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.27 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.08 male(s)/female
-
-*under 15 years:* 1.07 male(s)/female
-
-*15-64 years:* 1.01 male(s)/female
-
-*65 years and over:* 0.85 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 27.52 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 72.66 years
-
-*male:* 69.68 years
-
-*female:* 75.87 years (1998 est.)
-
-**Total fertility rate:** 2.7 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Venezuelan(s)
-
-*adjective:* Venezuelan
-
-**Ethnic groups:** mestizo 67% white 21% black 10% Amerindian 2%
-
-**Religions:** nominally Roman Catholic 96% Protestant 2%
-
-**Languages:** Spanish (official) native dialects spoken by about 200 000 Amerindians in the remote interior
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 91.1%
-
-*male:* 91.8%
-
-*female:* 90.3% (1995 est.)
+The country is overwhelmingly Roman Catholic, though evangelical Protestant churches have grown significantly. A distinctly Venezuelan syncretic tradition called the Cult of María Lionza, blending indigenous, African, and Catholic elements, is practiced widely, particularly in Yaracuy state.

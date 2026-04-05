@@ -1,14 +1,12 @@
 ---
 title: "Atlanta"
 type: location
-latitude: 33.754466
-longitude: -84.389815
+latitude: 33.7545
+longitude: -84.3898
 ---
 
-Atlanta is the capital of Georgia and the dominant city of the American South, home to around six million people in the metro area. It hosted the 1996 Summer Olympics and is headquarters to Delta Air Lines, Coca-Cola, CNN, and the Centers for Disease Control. Hartsfield-Jackson Airport is one of the busiest in the world, which makes Atlanta an easy place to get to — and a common stopover.
+Atlanta is the capital of Georgia and the largest city in the American South, a sprawling, car-dependent metropolis with a surprisingly good cultural centre. Downtown holds the Georgia Aquarium, the World of Coca-Cola museum, and Centennial Olympic Park, remnant of the 1996 Games. Midtown has the High Museum of Art and the Atlanta Botanical Garden. The Martin Luther King Jr. National Historic Site in Sweet Auburn is one of the more affecting memorial sites in the country.
 
-The city’s most important site is the Martin Luther King Jr. National Historic Site in the Sweet Auburn neighborhood, preserving his birth home, the Ebenezer Baptist Church where he preached, and the King Center. For families or first-time visitors, the Georgia Aquarium and the nearby World of Coca-Cola on the edge of downtown can fill a full day. The High Museum of Art in Midtown is the best art museum in the Southeast.
+The city spreads across a series of distinct neighbourhoods. Virginia Highlands and Inman Park are pleasant on foot, with good restaurants and independent shops. Buckhead, to the north, is where the nightlife concentrates — large venues, upmarket bars, and a density of restaurants. The BeltLine trail connects many of these neighbourhoods and is the best way to navigate between them without a car.
 
-Atlanta’s neighborhoods are worth exploring on their own terms. Inman Park, Virginia-Highland, and Little Five Points are walkable, character-filled areas good for restaurants, bars, and independent shopping. The Atlanta BeltLine — a 22-mile loop of former railway corridors converted into trails and parks — has transformed several inner neighborhoods and is a pleasant way to move between them.
-
-The city sprawls enormously and is heavily car-dependent outside the MARTA rail corridors. Plan your base carefully if you’re relying on public transport.
+Atlanta was almost completely destroyed during Sherman's March to the Sea in 1864 and rebuilt rapidly in the following decades, which is why the architecture is mostly modern. The city has been a centre of the civil rights movement — Martin Luther King Jr. was born here — and that history is taken seriously, not turned into kitsch. Plan at least two days to see the major sites properly.

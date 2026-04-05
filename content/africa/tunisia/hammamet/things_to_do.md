@@ -1,19 +1,6 @@
 ---
-title: "Things to do in Hammamet"
+title: "Things to Do"
 type: section
 ---
 
-Hammamet, Tunisia, is a town found along the Northernmost peninsula
-of Africa, just a few miles shy of being called the Northernmost city
-on the continent. Hammamet is a coastal town in an alcove
-along the Mediterranean Sea, called the Gulf of Hammamet, where 50,000
-residents call home. Each year thousands of European tourists make
-their way here to bask in the sun and frolic along the
-wonderful beaches. Tourism has been kind to Hammamet, and during its
-peak tourist season the population can be triple what it is with
-residents alone. Food, shopping and leisure are as plentiful as the
-amount of diverse tourists. There is no shortage of things to see and
-experience in Hammamet.
-
-**Site of Pupput**** **is an ancient city of ruins that can be
-explored for a mere 3 DT. The site dates
+The Medina is the most rewarding part of Hammamet for walking: enter through the fortified gate, follow the lanes to the kasbah at the top for views over the sea and the old town, and browse the pottery and craft workshops on the way back out. The Roman site of Pupput (entrance around 3 DT) is 3 km from the centre and has well-preserved mosaic floors and baths from a prosperous 2nd-century town. The beaches — particularly south of the Medina — are wide and clean. The morning fish market near the harbour is worth an early start to watch the boats come in with the catch. Traditional hammams (Arab baths) operate in the Medina for those wanting to do as the locals do.

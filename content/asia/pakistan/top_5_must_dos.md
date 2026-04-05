@@ -1,32 +1,24 @@
 ---
-title: "Top 5 Must Do's in Pakistan"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-Pakistan has a rich history and this is reflected by the many sites that are worth visiting during your trip. Out of the abundance of tourist attractions there are 5 sites that are must sees.
+**1. Drive the Karakoram Highway**
 
-**Shalimar Gardens**
+The KKH runs from [Islamabad](/asia/pakistan/islamabad) to the Chinese border at Khunjerab Pass (4,693m), threading through the gorges of the Indus and Hunza rivers with views of Nanga Parbat, Rakaposhi, and the glaciers above the [Hunza Valley](/asia/pakistan/hunzavalley). The road itself is an engineering feat — blasted through solid rock by Chinese and Pakistani workers over twenty years. You can do the full journey by bus in three days or take your time, stopping at Chilas, Gilgit, and Karimabad. The section between [Gilgit](/asia/pakistan/gilgit) and the pass is among the finest mountain scenery in the world.
 
-The Shamil gardens are located 5 km from the old city. They are a UNESCO World Heritage Site. Shahjehan, who was a great patron of architecture during the Mughal area, built the Shalimar gardens during the 16th century. From the 16th until the 19th century the gardens were used as royal gardens by the Mughals and their splendor reflects this royal heritage. In 1818 the gardens fell into a state of disrepair as the Sikh ruler of that time turned them into a stable area. During British rule, the gardens were restored and the public was granted access to the gardens. When Pakistan gained independence, the Pakistani government launched further restoration projects to create the magnificent Shalimar gardens that we see today.
+**2. Explore Lahore's Mughal City**
 
-The gardens consist of 3 terraces that are each raised 4 to 5 meters. The terraces are named "Bestower of Pleasure," "Bestower of Goodness" and "Bestower of Life." A complex irrigation system was built where the "Shah Nahar" canal was located in the gardens and was used as a water source and for the abundance of fountains. The Shalimar gardens contain magnificent palaces, mosques, canals and flower
-beds. The garden spans over 80 acres and on the outskirts of the area a brick wall surrounds it. State receptions are held at these gardens. The gardens are a perfect
-way to escape from the city and take a relaxing walk. A suggestion for
-a day's outing is to have a picnic in one of the gardens.
-**
-The Silk Road**
+Spend at least two full days in old [Lahore](/asia/pakistan/lahore). The Badshahi Mosque, the Lahore Fort, the Wazir Khan Mosque with its extraordinary tile work, and the Delhi Gate are all within walking distance of each other. At night, the food street near Fort Road is where the city eats: seekh kebabs, nihari, and karahi served at outdoor tables under the walls of the old city. If you are there in March, the Shalimar Gardens during Mela Chiraghan — the festival of lamps — is worth arranging your timing around.
 
-The silk road has a pivotal role in history as it was an important trading route. The route goes through the Himalayas and across the Indus River. In the Himalayan mountain range is K-2 which is not only a magnificent site but also a legend amongst climbers.
+**3. Visit Moenjodaro**
 
-**Clifton Beach**
+Most visitors to the subcontinent head to India for ancient history. Moenjodaro in Sindh is a better story: a planned city of 40,000 people built before the Pyramids were finished, with running water and brick-laid streets, whose collapse around 1900 BC remains unexplained. The site is remote, rarely crowded, and genuinely moving. You can fly from [Karachi](/asia/pakistan/karachi) or take the overnight train to Larkana. See [Moenjodaro](/asia/pakistan/moenjodaro).
 
-Located in Karachi, Clifton beach is a beautiful beach that is a must see attraction for beach lovers who visit Pakistan.
+**4. Trek in the Karakoram**
 
-**Taxila**
+Pakistan has five of the world's fourteen 8,000-metre peaks, including K2. You don't need to attempt them — some of the finest trekking in the world is at lower altitudes. The Concordia trek to the base of K2 takes about two weeks and ends at the junction of the four great glaciers. Shorter options around [Skardu](/asia/pakistan/skardu) or [Hunza](/asia/pakistan/hunzavalley) are accessible for reasonably fit walkers. The trekking season runs May to October; hire a local guide.
 
-Taxila is an ancient city which boasts many archeological ruins that are must see tourist attractions. Taxila is a UNESCO World Heritage Site located 35 km from Islamabad. The city is rich with art culture and local traditions. It also is a significant site for tourists interested in Buddhism because, historically, the city has links with Buddhism and many of the ruins reflect this.
+**5. Attend the Shandur Polo Festival**
 
-**Contributors**
-January 16, 2010
-
-January 26, 2010
+Every July, the Chitral and Gilgit teams meet at Shandur Pass (3,734m) for three days of free-style polo at the highest polo ground in the world. The matches are rough and fast, with no helmets and minimal rules. Around them: folk music, bonfires, impromptu dancing, and a crowd from across the region. Getting there requires a two-day drive from [Chitral](/asia/pakistan/chitral) or [Gilgit](/asia/pakistan/gilgit) along roads that test most vehicles, which makes it feel appropriately remote. Book accommodation in advance.

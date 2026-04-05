@@ -1,14 +1,16 @@
 ---
-title: "Eating Out"
+title: "Food"
 type: section
 ---
 
-Bhutanese dishes follow simple recipes, but they taste very good. At least, that is what I think and some of my foreigner friends have told me. They are hot and spicy. The staple food of the Bhutanese is rice, vegetables and meat. Bhutanese don't eat unusual meat like the meat of rat, dog, horse or snakes. But they eat beef, pork, chicken and yak-meat.
+Bhutanese food is simple, hearty, and far spicier than most visitors expect. Chili peppers are treated as a vegetable here, not a condiment, and they appear in almost every dish. If you cannot handle heat, say so early and often -- your guide and cook can usually dial it back.
 
-  If you are interested to learn more about Bhutanese food, please visit the Bhutanese food site created by a Bhutanese student at thinley.tripod.com/recipe/index.html or a site called 'Food of the Shangrila' at http://www.culinarypleasures.com/bhutan.htm. 
+**Ema datshi** is the national dish: fat green or red chilis stewed in a thick sauce of local cheese. It is served at virtually every meal with red rice, Bhutan's staple grain, which has a nutty flavour and slightly sticky texture. Variations include *kewa datshi* (potatoes and cheese), *shamu datshi* (mushrooms and cheese), and *shakam datshi* (dried beef and cheese). If you eat only one Bhutanese dish, make it ema datshi -- it is simple, fiery, and addictive.
 
- For those on a normal tourist visa, the cost of all meals served is covered by the 'fixed daily tourist tariff'. If you are a tourist who has paid 'fixed daily rates', you don't have to pay any extra money irrespective of the kind of meals you order. For the tourists, Chinese, Indian, and Continental dishes are served. If you want to experiment, you can also try the hot Bhutanese dishes.
+**Phaksha paa** is pork stewed with dried red chilis and radishes, rich and deeply flavoured. **Jasha maroo** is a spicy chicken curry with tomatoes and chili. **Momos** -- Tibetan-style dumplings filled with meat or cheese -- are everywhere and make an excellent snack. Buckwheat pancakes and noodles are specialties of the [Bumthang](/asia/bhutan/bumthang) valley.
 
- For tourists on treks, meals served may be simple but nutritious and tasty. Meals are normally served buffet style in the hotels.
+Yak meat and yak cheese appear frequently, especially at higher altitudes. The dried yak cheese (*chugo*) sold in markets is rock-hard and meant to be chewed slowly over hours -- it is an acquired taste. Bhutanese butter tea (*suja*), made with yak butter and salt rather than sugar, is another taste that takes getting used to. Ara, a locally distilled rice or wheat spirit, is offered at festivals and in homes.
 
- The 'fixed daily rate' includes all meals in Bhutan and may include complimentary mineral water, beer and local drinks. Your last meal served by your tour operator will be the breakfast on the day of your departure from Bhutan.
+For visitors on a standard tour, meals are typically buffet-style in hotels and include a mix of Bhutanese, Indian, Chinese, and continental dishes. The Bhutanese options are always worth trying. Hotel food can be bland, so if your guide invites you to eat at a local restaurant or farmhouse, accept -- the food will be better and the experience far more memorable.
+
+[Thimphu](/asia/bhutan/thimphu) has the best restaurant scene in the country, with a growing number of cafes and restaurants serving both local and international food. Outside the capital, options narrow quickly, but the home-cooked meals arranged by tour operators are often the highlight of a trip.

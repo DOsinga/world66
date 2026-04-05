@@ -3,100 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**The Baltic Revolution: Estonia, Latvia, Lithuania and the Path to Independence** by Anatol Lieven (1993) remains the definitive account of the collapse of Soviet power in the Baltics. Lieven was there as a journalist; his reporting is sharp and his analysis has aged well.
 
-**Lonely Planet Estonia, Latvia and Lithuania**
+**Between Shades of Gray** by Ruta Sepetys (2011) is a novel about a Lithuanian teenager deported to Siberia in 1941. Written for younger readers but powerful for any age, it's an accessible entry point into a history that many Westerners know little about.
 
+**Forest of the Gods** by Balys Sruoga (published posthumously, 1957) is a darkly sardonic memoir of the author's time in the Stutthof concentration camp. One of the most important works of 20th-century Lithuanian literature.
 
+**The Jews of Lithuania: A History of a Remarkable Community 1316–1945** by Masha Greenbaum (ISBN: 9652291323) chronicles the extraordinary Jewish civilisation that flourished in Vilnius — the Jerusalem of Europe — and was almost entirely destroyed during the Second World War.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424167/ref=ase_osingacom?v=glance&s=books)
+**Beginning with My Streets: Essays and Recollections** by Czesław Miłosz (translated by Madeline Levine, ISBN: 0374110107) — Miłosz was born in what is now Lithuania and his essays about the city of Vilnius and the lost world of the eastern borderlands are beautiful and melancholy.
 
-author: John Noble,Nicola Williams,Robin Gauldie
-
-isbn: 0864424167
-
-subject: travel
-
-**Lithuania, Latvia, Estonia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0939010305/ref=ase_osingacom?v=glance&s=books)
-
-author: Jim Haynes
-
-isbn: 0939010305
-
-subject: travel
-
-**Beginning with My Streets:Essays and Recollections**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0374110107/ref=ase_osingacom?v=glance&s=books)
-
-author: Czeslaw Milosz,Madeline G. Levine (Translator..
-
-isbn: 0374110107
-
-subject: travel
-
-**From the Old Marketplace**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0674325044/ref=ase_osingacom?v=glance&s=books)
-
-author: Joseph Buloff,Joseph Singer (Translator)
-
-isbn: 0674325044
-
-subject: culture
-
-**Lithuania**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887343414/ref=ase_osingacom?v=glance&s=books)
-
-author: Rupert Brooke,William-Alan Landes (Editor)
-
-isbn: 0887343414
-
-subject: culture
-
-**There Once Was a World:A Nine-Hundred-Year Chronicle of the Shtetl of Eishyshok**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0316232521/ref=ase_osingacom?v=glance&s=books)
-
-author: Yaffa Eliach
-
-isbn: 0316232521
-
-subject: history
-
-**The Baltic Revolution:Estonia, Latvia, Lithuania and the path to Independence**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300060785/ref=ase_osingacom?v=glance&s=books)
-
-author: Anatol Lieven
-
-isbn: 0300060785
-
-subject: history
-
-**The Jews of Lithuania:A History of a Remarkable Community 1316-1945**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9652291323/ref=ase_osingacom?v=glance&s=books)
-
-author: Masha Greenbaum
-
-isbn: 9652291323
-
-subject: history
+**Lonely Planet Estonia, Latvia & Lithuania** is the standard practical travel guide, updated regularly, covering all three Baltic states in one volume.

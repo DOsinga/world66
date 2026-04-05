@@ -1,16 +1,10 @@
 ---
-title: "Festivals"
+title: 'Festivals'
 type: section
 ---
 
-The Big Spring Jam is a weekend long music festival held outdoors, downtown in Big Spring Park. There are usually 5+ stages of live music, starting around noon and ending around midnight. Tickets are sold by the day or weekend passes. Information on bands and driving directions can be found at : http://www.bigspringjam.org/
+**Big Spring Jam** -- A weekend-long outdoor music festival in Big Spring Park downtown. Multiple stages run from noon to midnight, with a wide range of musical acts. Tickets are sold by the day or as weekend passes.
 
+**Panoply Arts Festival** -- Also in Big Spring Park, usually one weekend in late April. Stages feature music, dance, and performing arts, alongside craft booths, face painting, and plenty of food vendors.
 
-
-Panoply Arts Festival also happens in Big Spring Park downtown. It is usually one weekend in late April. There are stages with music, dance and other talented performers. There are booths that sell crafts and paint faces and of course lots of food venders where you can buy everything either fried or on a stick. Information at http://www.panoply.org/
-
-All summer long there are free outdoor concerts on Monday nights in Huntsville, usually at Big Spring Park or Monte Sano ampitheatre. 
-
-
-
-http://www.huntsville.org/calendar.php is a good place to look for other events.
+All summer long, free outdoor concerts take place on Monday nights, usually at Big Spring Park or the Monte Sano amphitheatre.

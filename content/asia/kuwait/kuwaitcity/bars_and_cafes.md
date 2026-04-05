@@ -1,33 +1,18 @@
 ---
-title: "Bars and Cafes in Kuwait city"
+title: "Bars and Cafes"
 type: section
 ---
 
-Sameera Kumar
+There are no bars in Kuwait -- alcohol is completely illegal. But the cafe culture is thriving, and Kuwaitis take their coffee and tea seriously. Evenings out revolve around cafes, shisha lounges, and late-night dessert spots.
 
-Kuwait City is the capital of Kuwait. Known as the economic, political and cultural capital of the Middle East, this city today has become an international destination for businessmen and tourists alike. Bars and Cafes have found their unique place in the city’s modern outlook. Here is a list of the most happening Bars and Cafes of Kuwait City.
+**Cafe Royal** in the JW Marriott Hotel is a polished spot with good sandwiches, salads, and excellent breakfasts. The atmosphere is relaxed and young.
 
-**Café Royal**
+**Hard Rock Cafe** in the Marina World glass pyramid in [Salmiya](/asia/kuwait/salmiya) offers American food and rock memorabilia in a waterfront setting. Open until midnight and one of the livelier spots in town, even without alcohol.
 
-Housed in JW Marriot Hotel, this splendidly designed café is the perfect place to unwind. The atmosphere at Café Royal is inspiringly young with soothing music, tongue tickling bites and heady beverages. Recommended are the sandwiches and salads here. Breakfasts at Cafe Royal are the best your appetite and taste buds can ask for!
+**Cafe Le** at the Kuwait Towers offers a panoramic view of the city from 82 metres up. The coffee and light bites are secondary to the spectacle, but it is worth the visit. Open from 8 AM to 11:30 PM.
 
-**Hard Rock Café**
+**Edam** in the Radisson SAS Hotel lobby near Salmiya is a cosy spot popular with shoppers and hotel guests. The beachfront location is a pleasant bonus. Open from 9 AM to 11 PM.
 
-Situated in the hugely popular Marina World in a glass pyramid, Hard Rock Café rocks! The café can seat around 350 while it serves American cuisine and music at its best. The waterfront ambiance multiplies the experience as your senses rock and roll to the energy only a Hard Rock Café can serve you on a platter!
+Traditional **Arabic coffee houses** can be found throughout the old souk area. The cardamom-scented Arabic coffee is served in tiny cups and refilled repeatedly -- it is the social glue of Kuwaiti culture. Tea houses are equally popular, offering a variety of herbal and black teas.
 
-**Edam**
-
-The lobby of Radisson SAS Hotel is the address of this cozy café. Eedam is popular among in-house guests and shoppers at Salmiya shopping area around Salwa region for its expansive menu of snacks and beverages. Open from 9 AM to 11 PM on all days, its beachfront location is a big plus!
-
-**Café (Le)**
-
-If you would prefer to relax, sip and enjoy the breathtaking panoramic view of Kuwait City, head for Café (Le). At the Kuwait Towers in the Al Waha region, this place offers a range of café specialty delicacies. Open from 8 AM till 11.30 PM, 100 guests can be comfortably served here anytime. The spectacle beckons!
-
-**Lobby Café**
-
-At the Oasis Hotel’s Lobby find a gem of a place to chill out! The light meals here are a must try. The list and quality of food and drinks here is exceptional. A perfect place to share a few quick bites and laughs with family and friends. The best part is- this oasis of a café is open 24 hours. Hop by whenever you feel like!
-
-Many more bars and cafes dot the map of Kuwait City. The Salwa area throbs with modern energy with a host of hangout places. If you are in Kuwait, remember to plan your outings as most bars, cafes and restaurants close around midnight.
-
-**Contributors**
-January 29, 2010
+Most cafes close around midnight, so plan your evenings accordingly. The Salmiya area has the highest concentration of late-night options.

@@ -3,8 +3,6 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Rome's bar culture runs on espresso. The rule is simple: stand at the bar (al banco) and you pay half what you pay sitting down. A proper Roman breakfast is a cornetto and a cappuccino standing up. Coffee after lunch is always a short espresso — ordering a cappuccino in the afternoon marks you as a tourist.
+Rome's bar culture runs from early morning espresso at a standing counter to late-night aperitivo crowds spilling into cobblestone squares. The city doesn't have a concentrated nightlife district — the best bars are scattered through Trastevere, Pigneto, Monti, and Prati. Nightlife in the tourist centre is mostly tourist-facing; the locals are in the outer neighbourhoods.
 
-For evening drinking, the most atmospheric areas are around Campo de' Fiori, Trastevere, and the streets near Piazza Navona. The Pigneto neighbourhood in the east has a more local crowd. Aperitivo hour (6–9pm) often includes free snacks at bars charging €7–10 for a drink — worth doing if you haven't eaten.
-
-Wine bars (enoteche) are a better option than pubs if you want to drink well: good local and regional wines by the glass, boards of cheese and charcuterie, and prices that don't require a second mortgage.
+The aperitivo hour (roughly 18:00–21:00) is when Rome's bars are at their best: drinks come with small snacks, the light is golden, and the pace is sociable rather than frantic. For serious nightclubs, the Ostiense and Testaccio areas have the most consistent options, often in converted industrial spaces.

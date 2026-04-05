@@ -1,24 +1,7 @@
 ---
-title: "Korean Barbecue Restaurant"
+title: 'Korean Barbecue Restaurant'
 type: poi
-address: "Road no. 46, Pakse"
-price: "US$2.60 for huge beef hotpot (cook yourself at table) for 2 people & 0.67 cents for a large bottle of beer."
-type: "Cheap"
-latitude: 15.091144
-longitude: 105.8325
+address: 'Road No. 46, Pakse'
 ---
 
-Delicious hotpot restaurant. You cook your meat on a type of barbeque over hot coals at your table. Huge amounts of noodles, water, stock and vegetables are provided so that you cook your own meal. Delicious. Good service. Locals happy to show unsure tourists how to make their meal.
-
-**Contributors**
-September 04, 2005
-
-type: Cheap
-
-
-
-
-
-address: Road no. 46, Pakse
-
-PriceOfMenu: US$2.60 for huge beef hotpot (cook yourself at table) for 2 people & 0.67 cents for a large bottle of beer.
+A fun cook-your-own-meal hotpot restaurant where you grill meat over hot coals at your table. Huge portions of noodles, vegetables, and stock are provided. The locals are happy to show confused tourists how it works. Very cheap -- expect to pay around $3-4 for a large meal for two with beer.

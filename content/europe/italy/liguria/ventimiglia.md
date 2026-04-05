@@ -5,19 +5,8 @@ latitude: 43.791762
 longitude: 7.603313
 ---
 
-The **Ventimiglia** of today is composed of the upper town of medieval origin,
- built on the top of the "Cavo" hill, and of the new lower town in the alluvial plain between the river Roja and the torrent Nervia, where the ancient Ligurian people Intemelii and then the Romans once settled.
- 
+**Ventimiglia** is the westernmost town on the Italian Riviera — so close to France that its train station is the last stop before the border, and the cross-border French influence is felt everywhere, from the shops selling to French day-trippers to the bilingual street signs and the boulangeries on the main street. It sits at the mouth of the **Roja** river, between the limestone cliffs of the coast and the steep inland valleys that climb up into the Ligurian Alps.
 
-The Ventimiglia region is very various from a geographical and a climatical point of view. The valley of the Roja, the only river of the Imperia region
- running nevertheless mostly in France, is characterized by steep and deep gorges rich in woods and small
- lakes, studded with few but picturesque mountain villages; the coast westwards between the mouth of the
- Roja and the French border near Mentone, on the contrary, has a typical mediterranean vegetation and
- offers such an exceptionally mild climate that it favoured in the last century the creation of the
- acclimatization park of
-Sights. 
- 
+The town has two distinct parts. The **old town** (*Centro Storico*) climbs a hill above the river, a tangle of stepped medieval lanes, Romanesque churches and crumbling palaces. It is quiet, untouristy, and feels genuinely lived-in — a pleasant half-day wander. The **new town** on the flat ground east of the river is where the train station, the shops and the long, well-used pebble **beach** are. Every **Friday** the town hosts one of the largest open-air markets in Italy — a vast sprawl of stalls selling clothes, leather, cheese and local produce that draws bargain-hunting French visitors from the entire Côte d'Azur and turns Ventimiglia for the day into one of the busiest places on the Italian coast.
 
-The extreme western strip of the coast is famous for the presence of the **Balzi Rossi caves**, imposing cliffs sheer to the sea characterized by the
- typical reddish colour where prehistoric man found a shelter for milleniums, leaving many evidences
- of his presence.
+Just outside the town, two sites are genuinely worth a detour. The **Balzi Rossi Caves** — "red cliffs" — at the French border are a cluster of prehistoric caves where Palaeolithic humans left some of the most remarkable art and burials in Europe, including the "Balzi Rossi Venus" figurines; a small site museum displays the finds. The famous **Hanbury Botanical Gardens** at Capo Mortola, a 19th-century English garden created on a cliff above the sea by the tea merchant Sir Thomas Hanbury, hold one of the finest collections of Mediterranean and subtropical plants in Europe. Ventimiglia is also a useful base for excursions into the hinterland villages of the Roja valley (by the narrow-gauge **Cuneo–Ventimiglia railway**) and, across the border, into Monaco, Menton and the rest of the French Riviera.

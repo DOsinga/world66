@@ -3,18 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-Air
+Almost everyone arrives by air. Velana International Airport (MLE) on Hulhulé Island, 2 km from Malé, is the main entry point. The crossing to Malé takes about 10 minutes by public ferry or a few minutes by speedboat. Resort representatives meet arriving flights and handle onward transfers directly.
 
-The national airline is *Air Maldives (L6)* operating international services from a number of countries in the region such as India Malaysia Sri Lanka and the United Arab Emirates and also from Europe. Other airlines running services to Mal&eacute; include *Aeroflot* *Austrian Airlines* *Malaysia Airlines* and *Singapore Airlines* which operates daily flights into Mal&eacute; from Singapore.
+A wide range of airlines serve Malé, including Emirates, Qatar Airways, Singapore Airlines, Turkish Airlines, British Airways, SriLankan Airlines, Malaysia Airlines, Air India, and Etihad, among others. From London the flight time is around 10–11 hours with a stopover; from the Gulf it is around 3–4 hours.
 
-Approximate flight time
+Maldivian (formerly Island Aviation) and Manta Air operate domestic flights and seaplanes connecting Malé to the outer atolls.
 
-From Mal&eacute; to *London *is 11 hours (excluding stopover).
+**Visa:** Citizens of all countries receive a free 30-day visa on arrival. You need a confirmed accommodation booking and a return ticket. All travelers must complete an online IMUGA traveler declaration within 96 hours before arrival.
 
-International airport:
-
-*Hulule International (MLE) *(Mal&eacute;)* *(Web site: http://maldive.com/tour/arrival.html)* *on Hulule Island is 2km (1.2 miles) from Mal&eacute; (travel time by boat  15 minutes). Boats from the various island resorts meet each arriving plane to take visitors to their respective accommodation. If an advance booking has been made representatives of the resorts will receive tourists at the airport and will take care of all onward transport arrangements. Airport facilities include left luggage first aid bank duty-free shops snack bar post office and restaurant.
-
-Departure tax:
-
-US$10.
+**Departure tax** is included in airline tickets — there is no separate payment required at the airport.

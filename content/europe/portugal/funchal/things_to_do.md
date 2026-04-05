@@ -1,26 +1,42 @@
 ---
-title: "Things to Do in Funchal"
+title: "Things to Do"
 type: section
 ---
 
-While visiting **Funchal**,** Things to Do** are going to range from outdoor activities such as swimming or hiking, to indoor activities that include shopping and museums. When looking for fun things to do in Funchal there is going to be something for everyone.
+Funchal is best enjoyed outdoors. Ride a cable car over the rooftops to Monte, watch whales from a boat off the coast, or wander through gardens that bloom year-round in the subtropical air. The city has enough churches, museums, and viewpoints to fill several days, but the real draw is the combination of sea, mountains, and mild weather that makes everything feel slightly more vivid than it should.
 
 **Helicopter Rides**
 
-One of the best ways to get a different view of the city is to go up in a helicopter. There are numerous helicopter tours available to choose from and they all vary in length. One of the more popular rides is the Bay of Funchal, which is about a 10-minute ride. However, in order to go up in a helicopter there have to be at least four people, but no more than five. The weather must also be good so the helicopter can take off.
+One of the best ways to see the city is from the air. Several operators run helicopter tours of varying lengths from Funchal. The Bay of Funchal circuit takes about ten minutes. You need at least four passengers to fly, and the weather has to cooperate.
 
 **Monte Cable Car**
 
-A very unique way to see the city of Funchal is by going up above the city in a cable car. The Monte Cable Car begins its journey at Alimirante Reis, which is located in the old city of Funchal. After boarding the cable car you will go on a 15-minute ride that covers more than 12,000 feet of the city of Funchal. From the cable car you will be able to see the Monte Palace Tropical Garden from a bird's eye view.
+The cable car departs from Almirante Reis in the old town and climbs for fifteen minutes over the rooftops to Monte, covering more than 3,600 meters. From the gondola you get a bird's-eye view of the Monte Palace Tropical Garden and the terraced hillsides above the city.
 
 **Whale and Dolphin Watching**
 
-You can go out on boats to spot whales and dolphins traveling by. When the ocean rapidly drops off by the coast you can often spot whales and dolphins while standing on shore. While out on a boat or standing along the shores you can sometimes spot Sei and Fin Whales, and you can even find sperm and humpback whales. In terms of dolphins you can find a large variety of them including bottle nose and common dolphins.
+The Atlantic drops off steeply just beyond the coast, which means deep-water species pass close to shore. Boat trips from the marina regularly spot bottlenose and common dolphins, and in season you may see sperm whales, sei whales, and humpbacks.
 
 **Monte Toboggan Rides**
 
-These toboggan rides used to be the main transportation to Funchal for the people who live in Monte, but now they simply serve as a major tourist attraction. The toboggan ride allows you to travel quickly down the mountain to Funchal inside of a wicker sled that is attached to wooden runners. Two men steer the toboggan and use their boots as brakes. The ride takes about 10 minutes and covers 1.2 miles, while reaching speeds of up to 30 mph.
+Once the main transport from Monte to the city center, the wicker toboggans are now purely a tourist attraction, and a genuinely thrilling one. Two drivers in white steer the sled down steep streets using their rubber-soled boots as brakes. The ride covers about two kilometers in ten minutes, reaching speeds up to 50 km/h.
 
 **Big Game Fishing**
 
-If you're looking for a unique fishing experience, something that many people claim to be a once in a lifetime event, you will want to grab a spot on one of the boats available in Funchal's Marina for big game fishing. You'll be able to catch blue marlin or big eye tuna during the months of June to September. Other months you might even be lucky enough to catch a blue shark or even a hammerhead. Newcomers don't have to worry because you will also receive a course in how to handle the rod and reel for big game fishing.
+Boats leave from Funchal's marina for deep-sea fishing. Blue marlin and big-eye tuna run from June to September; other months may bring blue sharks or hammerheads. Operators provide gear and instruction for newcomers.
+
+**Lido Promenade**
+
+The seafront promenade stretches along the coast lined with palm trees and gardens. It connects several bathing complexes and restaurants, and offers wide views across the water. A good place for an evening walk.
+
+**Gardens of Madeira**
+
+Funchal has gardens everywhere, from carefully maintained public parks to wild hillside terraces. The Municipal Garden in the city center covers 8,300 square meters of flowers and plants from Madeira and around the world. The Monte Palace Tropical Garden, reached by cable car, is the most spectacular.
+
+**Igreja de Sao Pedro**
+
+Construction of this church began in 1590 but was not completed until the 18th century because the design was changed repeatedly. The delays produced something beautiful. Walk up Calcada de Santa Clara and look back at the church tower to see the distinctive rooster atop colorful tiles.
+
+**Madeira Story Centre**
+
+An interactive museum near the cable car station that walks you through the island's history, from its volcanic origins through the first Portuguese settlements to the present. Allow about an hour.

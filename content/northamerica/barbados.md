@@ -1,18 +1,23 @@
 ---
 title: "Barbados"
 type: location
+latitude: 13.1939
+longitude: -59.5432
+image: barbados.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Bridgetown_Promenade.jpg"
+image_license: "CC BY-SA 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/30624156@N00">Loozrboy</a> from Toronto, Canada'
 ---
 
-Barbados is the most easterly of the Caribbean chain of islands. It lies well to the east of the West Indies, making it the most windward of the Windward Islands. With it's 430 square kilometres, it's just a small drop of land in the Caribbean sea, but 97 kilometres of coastline make Barbados great destination for an active holiday.
+Barbados is the most easterly island in the Caribbean — it sits alone in the Atlantic, well east of the main arc of the Lesser Antilles. This position shapes everything about it: the trade winds that keep the east coast surf-blown and wild, the coral aquifer that makes the tap water some of the purest in the Caribbean, and a certain self-assurance that comes from an island that has always stood slightly apart.
 
-Barbados is predominantly flat with only a few gently rolling hills to the north, but the differences between the east and west coast are quite dramatic. The west coast is the Caribbean side. Here beaches are made of fine white sand and there are natural coral reefs. There's a lot of hotel development, but the coastline remains attractive none the less. The Atlantic side is less developed and more ruggedy. There is a lively surf as the sea pounds the more rocky shoreline.
+At 430 square kilometres, it's small enough to drive end-to-end in under an hour, but the differences between coasts are dramatic. The west coast is the Caribbean side — calm turquoise water, fine white sand, luxury hotels. The east coast faces the full force of the Atlantic: crashing surf, rocky outcrops, and a dramatic, largely undeveloped shoreline. The centre of the island rises into the Scotland District, a surprising landscape of rolling green hills.
 
-On such a small and crowded Island it's hard to leave the beaten track. Just go for water sports and beach activities. The coral structure of the island acts as a natural filter and the waters of Barbados are amongst the purest in the world.
+Barbados was a British colony from 1625 until independence in 1966, and the influence runs deep — driving on the left, cricket as a near-religion, Anglican churches at every crossroads, a Parliament building that has been in continuous session since 1639. But "Little England" never quite captured it. The culture is Caribbean first: Crop Over, calypso, rum punch, the Friday night fish fry at Oistins. In 2021 Barbados became a republic, removing the British monarch as head of state — a gesture that felt long overdue to most Bajans.
 
-A stay on the island is not complete without a visit to it's capital [Bridgetown](/northamerica/barbados/bridgetown) were life centers around Trafalgar square, which gives away it's colonial link to Britain, and some still refer to to Island as "Little England".
+Tourism is the main industry, and the island is experienced at it. The infrastructure is good, the people are genuinely welcoming, and the beaches live up to the brochures. What Barbados does less well is solitude — this is a busy island, and the west coast in particular can feel like a continuous hotel strip. If you want to find the quieter Barbados, head east.
 
 ## Destinations in Barbados
 
 [Bridgetown](/northamerica/barbados/bridgetown)
-[Speightstown](/northamerica/barbados/speightstown)
-[Holetown](/northamerica/barbados/holetown)
+[Christ Church](/northamerica/barbados/christchurch)

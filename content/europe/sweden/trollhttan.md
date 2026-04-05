@@ -5,18 +5,6 @@ latitude: 58.282793
 longitude: 12.290861
 ---
 
-Travel Guide
+Trollhättan is an industrial town of about 60,000 people on the **Göta River**, 75 km north of Gothenburg in western Sweden. The town grew up in the 18th and 19th centuries around the dramatic **Trollhättan Falls**, where the Göta drops 32 metres through a narrow rocky gorge — for centuries one of the most powerful waterfalls in Europe, and the site of some of the earliest large-scale hydroelectric power generation in Scandinavia. The falls are still the town's signature feature, though today the river is mostly diverted through the power stations and canal locks and the original falls only run during the annual summer "waterfall days" (usually in July). When they do, the effect is spectacular.
 
-Trollhättan is a city with about 55 000 inhabitants situated along the Göta River 75 km north of Göteborg. The city was earlier most famous for its heavy industry, the locks, and the waterfalls.
-
-In older times Trollhättan was a city where the power of the falls was used as can be seen in the [History section](/europe/sweden/trollhttan/history).
-
-Today Trollhättan is a modern city where the two most prominent industries are Volvo Aero and Saab Automobile.
-
-Together with its neighbour [Vänersborg](/europe/sweden/vnersborg) the area is known as Tvåstad (twin cities).
-
-Saab Automobile is one of Swedens two major car makers whereas Volvo Aero is a maker of aircraft engines and aerospace parts.
-
-On the cultural side Trollhättan has recently become one of the important film making centres in Sweden.
-Film i Väst or "Trollywood".
-Some more or less well known productions are "Fucking Åmål", "Tillsammans" (Together), "Noll Tolerans" (Zero tolerance), "Livvakterna" (The body guards) etc
+The other reason Trollhättan is known across Sweden is its industry. **Saab Automobile** was based here from 1947 until the company's collapse in 2011, and **Volvo Aero** (now GKN Aerospace) still makes aircraft engine parts in the town. More recently, the city has rebranded itself as **"Trollywood"** — the Film i Väst studios, founded in 1992, have made Trollhättan one of the three most productive film-making centres in Scandinavia, with Lukas Moodysson's *Show Me Love* (*Fucking Åmål*) and *Together*, Lars von Trier's *Dogville*, and most of the Swedish industry's big co-productions shot in and around the town. The **Innovatum Science Center**, with its exhibits on local industrial history and a cable-car ride over the falls, is the main visitor attraction; the old **lock system** on the Göta Canal, one of the great 19th-century Swedish engineering achievements, is the other. Together with its neighbour **Vänersborg**, Trollhättan forms the local "Tvåstad" (twin cities) urban area.

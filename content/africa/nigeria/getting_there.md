@@ -3,36 +3,22 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Nigeria's national airline is *Nigeria Airways (WT).*
+The main international gateway is **Lagos Murtala Muhammed International Airport (LOS)**, in Ikeja, about 22km north of central Lagos. It handles the bulk of international traffic and connects to London, New York, Dubai, Amsterdam, Johannesburg, and most major African hubs. Expect the airport to be busy and the arrivals process to be slow. Watch your belongings — it has a reputation for confusion and opportunistic scams, including people posing as officials.
 
-For free advice on air travel from the UK call the Air Travel Advisory Bureau in the UK on (0171) 636 5000 (London) *or* (0161) 832 2000 (Manchester).
+**Abuja Nnamdi Azikiwe International Airport (ABJ)** is a cleaner, less chaotic alternative and is the better arrival point if you're heading to Abuja or the north. Several European and Middle Eastern carriers serve it alongside the Lagos route.
 
-Approximate flight times:
+**Kano Malam Aminu Kano International Airport (KAN)** serves the north and has connections to other West African cities.
 
-From Lagos to *London* is 7 hours 40 minutes and to *New York* is 12 hours 10 minutes.
+Airlines that fly into Nigeria include British Airways, Virgin Atlantic, Ethiopian Airlines, Air France/KLM, Turkish Airlines, Qatar Airways, Egypt Air, and Royal Air Maroc. Air Peace is the largest Nigerian carrier and operates domestic routes as well as some regional international flights.
 
-International airports:
+A **yellow fever vaccination certificate** is required for entry. Carry the original card — it is checked on arrival.
 
-*Lagos (LOS) *(Murtala Muhammed) is 22km (13 miles) north of Lagos (travel time  40 minutes). Taxis to the city are available. There is a free coach service every 10 minutes. Airport facilities include restaurant bar snack bar bank post office and car hire.
+## By Land
 
-Note
+Nigeria shares land borders with Benin, Niger, Chad, and Cameroon. The most-used crossing is at **Seme** on the Lagos–Cotonou road, which connects to Benin. This is a busy, functional border but can be slow. The crossing into Cameroon at **Mfum** (near Ikom) is used by travellers on the trans-African route. Border crossings in the northeast (toward Chad) and northwest (toward Niger) should be checked for current safety conditions before attempting — the security situation in these regions can change.
 
-Pickpockets and confidence tricksters some posing as local immigration and other government officials are especially common at Murtala Muhammed Airport.
+## By Sea
 
-*Kano (KAN)* is 8km (5 miles) north of Kano (travel time  25 minutes). Buses leave for the city every 10 minutes 0600-2200 and taxis are available. Airport facilities include restaurant bank post office duty-free shop and car hire.
-
-*Abuja (ABV)* is 35km (22 miles) from the city.
-
-Departure tax:
-
-US$35 for international tourists. Transit passengers and children under two years old are exempt.
-
-Sea
-
-Services to Lagos Port Harcourt and Calabar sail from London Liverpool and other European ports.
-
-Road
-
-Links are with Benin Niger Chad and Cameroon. The principal trans-Saharan routes pass through Nigeria from Niger. The principal link with Benin is via the Idoroko border point along the good coast road to Lagos. All land borders with the exception of the border with Chad which was closed in May 1984 have now been reopened.
+Cargo ships occasionally take passengers on the Lagos run from European ports, but this is not a practical option for most travellers. Occasional ferry connections exist between Lagos and Cameroon.

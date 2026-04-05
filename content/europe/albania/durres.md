@@ -5,8 +5,12 @@ latitude: 41.313255
 longitude: 19.446235
 ---
 
-Durres is one of the most important harbour towns of Albania, and quite an important industrial center as well. 
+Durrës is Albania's second city and main port, founded by Greek colonists around 627 BC as Epidamnos (later renamed Dyrrachium by the Romans). It sits 38 km west of Tirana on the Adriatic coast and is the first stop for ferries arriving from Italy.
 
-The city was founded in the 7-th century BC and has been conquered by many invading armies. Although most of these left a few traces in the old town of Durres, the main attraction is the excellent beach near the town. 
+The most significant sight is the Roman amphitheatre, which was discovered in the 1960s and is one of the largest in the Balkans, with a capacity estimated at 15,000–20,000. It sits partly beneath the modern city, and what has been excavated is open and free to walk through. Early Christian mosaics in the vaults are a highlight.
 
-In the center you will find quite a good Archeological Museum, a Museum of History, and the house of Aleksander Moisiu's family which has been turned into a museum.
+The old town retains sections of Byzantine-era city walls, a Venetian tower, and the Archaeological Museum, which holds finds from the Greek, Roman, and Illyrian periods.
+
+Durrës is also Albania's main beach resort for domestic tourists: a long stretch of sandy beach runs south of the city and is heavily developed with hotels and restaurants. It is functional rather than beautiful, but convenient if you arrive by ferry and want a beach day.
+
+The ferry port connects Durrës to Bari (approximately 10 hours) and Ancona (16–19 hours) in Italy. Buses and furgons run frequently to Tirana throughout the day.

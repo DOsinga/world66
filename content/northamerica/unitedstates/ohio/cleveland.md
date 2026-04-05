@@ -1,14 +1,14 @@
 ---
-title: "Cleveland"
+title: 'Cleveland'
 type: location
 latitude: 41.499657
 longitude: -81.693677
 ---
 
-Cleveland sits on the southern shore of Lake Erie and has spent the past few decades proving it's more than a punchline. The Rock and Roll Hall of Fame is the obvious draw, but the city earns its visit on its own terms — through University Circle, one of the most concentrated cultural districts in the country, through the West Side Market, through the distinct neighborhoods of Ohio City, Tremont, and Little Italy.
+Cleveland sits on the southern shore of Lake Erie, a city that punches well above its weight in culture, food, and music. It is home to the **Rock and Roll Hall of Fame**, one of the most visited museums in the Midwest, and its cultural institutions in University Circle rival those of cities twice its size.
 
-University Circle alone packs the Cleveland Museum of Art (free admission, world-class collection), the Cleveland Botanical Garden with its indoor rainforest and butterfly sanctuary, and dozens of other institutions into a square mile. Little Italy sits just uphill, good for dinner before or after.
+The city's neighborhoods are its real strength. **Ohio City** has the magnificent [West Side Market](/northamerica/unitedstates/ohio/cleveland/sights/west_side_market) and the **Great Lakes Brewing Company**. **Tremont** mixes art galleries with dive bars and cutting-edge restaurants on oddly arranged streets. **Little Italy** serves old-world cuisine alongside contemporary interpretations near the intersection of Mayfield and Murray Hill Road. **Coventry Village** draws the college crowd with bookshops, cafes, and the intimate Grog Shop music venue. The **Warehouse District** downtown is where young professionals dress up and fill the sidewalk tables of chic restaurants along W. 6th Street.
 
-Ohio City, just west of downtown, is where the city feels most alive day to day. The West Side Market on West 25th is the anchor — a 1912 Beaux-Arts market hall that's still running exactly as intended, with vendors whose families have held stands for generations. Great Lakes Brewing Company is around the corner and not optional.
+University Circle packs more cultural, educational, and medical institutions into a single square mile than almost anywhere else in the country. The free **Cleveland Museum of Art** features works by Picasso, Warhol, and Ansel Adams. The **Botanical Gardens** have an indoor rainforest, butterfly sanctuary, and beautiful outdoor gardens. **Rockefeller Park** stretches from University Circle to the lake, with cultural gardens honoring the city's many ethnic communities.
 
-Tremont, south of Ohio City, is the artists' neighborhood: galleries, dive bars, upscale restaurants, and architecturally notable churches on crooked streets cut off from the rest of the city by freeways. It has a genuinely distinct character. Cuyahoga Valley National Park and the James Garfield National Historic Site in Mentor make good day trips.
+Cleveland is also a serious food city. Downtown delis proclaim world-famous corned beef, Slavic Village and Chinatown offer authentic ethnic cooking, and the 24-hour diners along W. 117th make greasy-spoon dining an art form. [Cuyahoga Valley National Park](/northamerica/unitedstates/ohio/cuyahogavalley) is right on the doorstep for day trips.

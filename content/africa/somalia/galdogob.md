@@ -5,10 +5,8 @@ latitude: 7.048863
 longitude: 47.206094
 ---
 
-Travel Guide
+Galdogob is a town in the Mudug region of central Somalia, near the Ethiopian border. It is a livestock trading center, with camels, sheep, goats, and cattle passing through for domestic sale and export to Gulf markets during the Hajj season.
 
-Goldogob is the second largest city in the Mudug region of Somalia . It lies approximately 16 kilometers southeast of the border with Ethiopia , and it is a strategic border city.
+The town has remained relatively stable by Somali standards — it sits in a zone where clan structures have maintained local order in the absence of effective central government. Basic services, mobile phone coverage, and local commerce function here. The surrounding area is arid scrubland grazed by nomadic pastoralists.
 
-Galdogob is a rapidly growing city. It has the largest hospital in central Somalia. It has a very reliable electricity and telecommunications sector. The city's fresh water is provided by the Galdogob Water System (GWS), which was founded by a group of local businessmen. All this has helped Galdogob develop into a large metropolitan city. It was, and still is, one of the most peaceful districts of Somalia during and after the fifteen-year absence of a central Somali national government. Visitors to Galdogob will find high-speed internet cafés, hotels, taxis, and all kinds of personal care. Education plays a vital role in the lives of the people, and private schools teach computer skills, English , mathematics, science, and Islamic studies. Galdogob International Airport is undergoing the final stages of the AFIN project, and is expected to be finished in early 2008.
-
-Galdogob also has a thriving livestock industry: thousands of camels , sheep , goats and cattle are bought from Galdogob every year. Livestock in Galdogob District is highest during the Islamic Pilgrimage, when over a thousands of heads of livestock are sold and shipped to Arab states.
+There is little infrastructure for outside visitors and no reason for a traveler to come specifically to Galdogob.

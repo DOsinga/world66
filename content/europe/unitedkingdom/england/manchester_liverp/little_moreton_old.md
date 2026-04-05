@@ -1,8 +1,8 @@
 ---
-title: "Little Moreton Old Hall"
+title: 'Little Moreton Old Hall'
 type: location
+latitude: 53.121944
+longitude: -2.245278
 ---
 
-This hall is everybody's dream of what an old English building should be like - black and white, timbered and astonishingly beautiful. It is situated near the border between Cheshire and Staffordshire and is easily reached by the A34 road.
-
-http://www.theheritagetrail.co.uk/manor%20houses/little%20moreton.htm
+Little Moreton Hall is everybody's dream of what an old English building should be like -- black and white, timbered and astonishingly beautiful. This moated manor house near the border between Cheshire and Staffordshire is one of the finest examples of half-timbered architecture in England. It is managed by the National Trust.

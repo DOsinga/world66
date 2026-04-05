@@ -1,13 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**By Road: **: By Road, Jodhpur is well connected with motorable road with Delhi by 597 Km, Bombay 1051 Kms, Agra 560 Kms, Udaipur 260 Kms, Ahmedabad 442 Kms, Ajmer 198 Kms, Bikaner 240 Kms, Mount Abu 260 Kms and Rajasthan by 175 Kms.
+Jodhpur is well connected by air, rail, and road. Jodhpur Airport has daily flights to Delhi, Mumbai, and Jaipur, with some seasonal routes to Udaipur and Jaisalmer.
 
-**By Rail: **Jodhpur is connected by Rail with Delhi, Agra, Jaisalmer, Jaipur, Udaipur and Ahmedabad.
-
-**By Air: **Well connected with Indian and Private Airlines with Udaipur, Jaisalmer, Jaipur, Delhi and Bombay.
-
-**Contributors**
-January 24, 2006
+By rail, Jodhpur Junction connects to Delhi (10-11 hours), Jaipur (5-6 hours), Jaisalmer (5-6 hours overnight), Udaipur (6-7 hours), and Ahmedabad (7 hours). By road, distances are: Delhi 597 km, Jaipur 335 km, Udaipur 260 km, Jaisalmer 290 km, and Bikaner 240 km. State and private buses run frequently on all major routes.

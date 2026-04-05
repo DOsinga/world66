@@ -1,26 +1,16 @@
 ---
-title: "Bars and Cafes in Damascus"
+title: "Bars and Cafes"
 type: section
 ---
 
-You may be surprised to discover many **Damascus Bars and Cafes** when visiting. The city is known mainly as a tourist destination for its historical sights, but you will convince yourself that there are many places to go out and have a drink as well.
+Damascus has more of a bar and cafe scene than you might expect. The Old City hides several spots behind its ancient walls, from traditional tea houses to modern cocktail bars with DJs and live music.
 
-**Rotana Caf&eacute;**
+**Rotana Cafe** is at the Four Seasons Hotel on Damascus Boulevard, owned by Rotana Audiovisual, the biggest music company in the Arab world. Local artists drift in and out, and there is a music shop attached that hosts CD signings and promos.
 
-Located on Damascus Boulevard at the luxurious Four Seasons Hotel Damascus, Rotana is the trendiest caf&eacute; around. It is owned by Rotana Audiovisual, which is the most popular music company in the Arabic world. That explains why this place is a common meeting point for local artists. Except the caf&eacute; section, Rotana has a well-arranged music shop where CD signings, meetings with stars and new release promos are often hosted.
+**InHouse Coffee** is a western-style cafe sometimes called the Syrian Starbucks. A bit pricey, but the espresso, macchiato and latte are well-prepared. Small live music events happen from time to time.
 
-**InHouse Coffee**
+**Oxygen Bar** occupies a 400-year-old house converted into a sleek nightlife spot. Strict door policy, so dress well. The draw is the arty interior, a good wine list, and live piano and violin music. Expensive but romantic.
 
-Another nice caf&eacute; in Damascus, InHouse Coffee is a western style caf&eacute;, often referred to as the Syrian Starbucks. It is a bit expensive, but serves well-prepared coffee - different varieties of espresso, macchiato and latte. Small live music events are held from time to time as well.
+**Marmar Bar** sits behind the ancient walls and draws a young crowd to its two small rooms. The drinks are cheap by Damascus standards ($3-4), the DJ mixes house and R'n'B with traditional Arab tunes, and local bands play on occasion. Try the local Barda beer.
 
-**Oxygen Bar**
-
-A 400-year-old house transformed into a modern nightlife spot - that is Oxygen Bar. The bar has a very strict door policy, so be sure to dress appropriate. What's more special here is the arty interior, the large selection of fine wines, and the live piano and violin music. Oxygen Bar is a bit expensive, yet a very romantic place. There is a funny story regarding this place, of the owner once asking the American consul to leave.
-
-**Marmar Bar**
-
-Located behind the ancient walls of Damascus, this small two-room bar is something you definitely wouldn't expected to see in a Middle Eastern country. Many young people gather at this place. The bar serves a wide variety of alcoholic drinks and cocktails, and offers a special local beer called Barda. Most of the drinks cost $3 to $4, but that's not all - Marmar Bar has a DJ playing the latest in house, dance and R'n'B music, mixing it with traditional Arab tunes. Live performances of local bands are held from time to time as well.
-
-**Le Piano Bar**
-
-Located on the oldest street of the city (St. Anania), this is the oldest bar in Damascus. It is just a regular piano bar and what makes it more special is the karaoke, consisting of more than 14,000 English language songs and more than 6,000 local songs. Le Piano Bar is a great place to dance, sing and have a drink. Meals are served as well.
+**Le Piano Bar** is on St Anania, the oldest street in the city, and claims to be the oldest bar in Damascus. The main attraction is karaoke with a library of over 14,000 English and 6,000 Arabic songs. Food is served too.

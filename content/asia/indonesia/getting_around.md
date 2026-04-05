@@ -1,25 +1,32 @@
 ---
 title: "Getting Around"
 type: section
-email: "agungyoga@gmail.com"
 ---
 
-PT. Emerald Indonesia tours & travel is a local tour operator with a European/Indonesian management and is based in cultural Torajaland.
-The offer all kind of tours, hotels and tickets around Indonesia.
-Check their website at: www.go2indo.com
+Indonesia is a vast archipelago, and getting between islands nearly always means flying or taking a boat. Within islands, buses and trains do most of the work. The system is imperfect but functional, and getting around is half the adventure.
 
-### [Train](/asia/indonesia/getting_around/train)
+## Domestic Flights
 
-I think by far Plane is the efficient way to travel in Indonesia.
-However, while you're in Java it will be to much to travel by plane.
-I prefer train! Yes.. train!
+For anything over a few hundred kilometres, fly. Domestic flights are cheap — Bali to Makassar, Yogyakarta to Manado, Jakarta to Jayapura — and save days of travel. **Garuda Indonesia** is the most reliable carrier; **Lion Air**, **Batik Air**, and **Citilink** are cheaper but have more delays. Book early for the popular routes (Jakarta–Bali, especially). Budget at least two to three hours for connections through provincial airports.
 
-The only train operator in Indonesia is PT Kereta Api - http://www.infoka.kereta-api.com
+## Ferries and Boats
 
-The network was originally built by the Dutch & Java by far has the best railway network, with trains connecting the capital city of Jakarta with other main cities, i.e. Surabaya both via Semarang on the north coast and via Yogyakarta and Solo through the southern main line.
+The state-owned **Pelni** ferry company operates a network connecting hundreds of Indonesian ports, including the more remote islands. These ships are slow — sometimes days at sea — but cheap and a genuine way to meet Indonesians. Cabins are available in various classes.
 
-Normally, there are 3 [more..](/asia/indonesia/getting_around/train)
+For shorter inter-island hops, speed boats are the norm: Bali to the Gili Islands takes around 90 minutes, Bali to Lombok about the same. In eastern Indonesia, small local boats serve routes that no ferry covers. Schedules can be irregular and boats run in poor conditions, so check the weather before heading out on smaller vessels.
 
+## Trains
 
+The train network is limited to **Java** and parts of **Sumatra**, but within Java it is excellent. Trains connect Jakarta to Yogyakarta (roughly 8 hours by express), Yogyakarta to Surabaya (4–5 hours), and on to Banyuwangi near the Bali ferry crossing. There are three classes: economy (basic), business, and executive (comfortable, air-conditioned, recommended). Buy tickets through the PT Kereta Api website or app, or at the station.
 
-email:
+Indonesia launched its first high-speed rail line (branded **Whoosh**) between Jakarta and Bandung in 2023, cutting the journey from three hours to 45 minutes.
+
+## Buses
+
+Buses are the backbone of overland travel, especially outside Java. For long distances, air-conditioned executive coaches are reasonably comfortable. Local minibuses (*angkot* or *bemo*) serve shorter routes and are cheap but can be cramped and slow. In cities, TransJakarta's bus rapid transit is efficient and cheap.
+
+## Urban Transport
+
+Jakarta has a functional **MRT** and **LRT** network that makes getting around the capital far easier than it was a decade ago. Ride-hailing apps **Gojek** and **Grab** operate in all major cities and are the easiest way to get around at a fair price — use them instead of flagging down random taxis.
+
+Renting a scooter is common on Bali and Lombok. It is cheap and convenient, but the roads are busy and the standard of driving can be alarming. If you are not experienced with motorbikes, a car with driver is a safer and not much more expensive option.

@@ -1,16 +1,16 @@
 ---
-title: "Luxembourg city"
+title: "Luxembourg City"
 type: location
 latitude: 49.599833
 longitude: 6.13572
 ---
 
-Luxembourg City is the heart of the country in cultural, political and social respect. It is not only the country's capital but also one of the three capitals of the European Community (the other two being Strassbourg and Brussels). 
+Luxembourg City is the country's capital and its cultural, political, and financial centre. It sits on a rocky outcrop above the deep gorges of the Alzette and Pétrusse rivers — a setting that gave rise to some of the most impressive fortifications in Europe, and that earned the old town and its fortresses a UNESCO World Heritage listing in 1994.
 
-Moreover, Luxembourg city is a banking centre and cosmopolitan town surrounded by magnificent historical fortifications, classified as world patrimony by UNESCO. The city is very pleasantly situated overlooking the Pétrusse and Alzette Valleys. Luxembourg was founded in 963 AD on a rocky outcrop known as "the Bock", by Sigefroid, Count of Ardennes, who expanded on a roman castillium, thus laying the cornerstone of a fortress that later was to become Luxembourg City. 
+The city is small — around 130,000 inhabitants — but punches hard. It is one of the three official seats of European Union institutions (alongside Brussels and Strasbourg), and home to the European Court of Justice, the European Court of Auditors, and the Secretariat of the European Parliament. This EU presence, combined with a large financial sector, makes Luxembourg City genuinely cosmopolitan: more than 70% of the city's residents are non-Luxembourgish, with Portuguese, French, Italian, and Belgian communities the largest groups.
 
-While in no way comparable in size to most other European capitals, Luxembourg has a lot of charm and its people are justifiably proud of their country. The nation's motto 'Mir wëlle bleiwe wat mir sin' (We want to remain what we are) underlines the uniqueness of Luxembourg. 
+The old town — the Haute Ville — is compact and walkable. The Bock Casemates, a network of underground galleries carved into the rock over centuries, run for 23 kilometres and were once capable of sheltering 35,000 soldiers; today they are one of the most visited sights in the city. The Chemin de la Corniche promenade follows the old ramparts above the Alzette valley with fine views across the Grund neighbourhood below. The Grand Ducal Palace on the Rue du Marché-aux-Herbes is the official residence of the Grand Duke and open for tours in summer.
 
-Apart from the numerous beautiful sights, the city of Luxembourg offers quite a good nightlife with a large number of pubs, cafes and discos despite of its small population of less than 100.000 people. By the way, more than 33% of the capital's population is of foreign origin. The biggest ethnic community is actually from Portugal, rendering a special Latin touch to the city . So it is no suprise that Luxembourg is a fantastic place for eating out, especially as it boasts of more Michelin stars per square mile (or per head of population) than any other country. 
+The Grund, in the valley below the old town, is the liveliest neighbourhood for eating and drinking. The Kirchberg plateau to the east, connected by the new tram, houses the EU institutions and the Philharmonie concert hall. The city has decent nightlife for its size, and a concentration of Michelin-starred restaurants that rivals much larger capitals.
 
-Luxembourg city is an ideal starting point for excursions all over, e.g. for visiting remarkable destinations like Vianden Castle, Wiltz Festival Town or the Abbey Town of Echternach. Getting there is easy on the well-developed road network or by train and coach.
+Luxembourg City makes an excellent base for day trips: [Vianden](/europe/luxembourg/vianden) is 40 km north, [Echternach](/europe/luxembourg/echternach) 30 km northeast, and the Moselle wine villages are under an hour away by public transport — which, since 2020, is free.

@@ -5,6 +5,6 @@ latitude: 54.083359
 longitude: 24.278474
 ---
 
-Travel Guide
+Dzūkija (also known as Aukštaitija Dzūkija) is Lithuania's largest national park, covering dense pine and mixed forests in the southeast of the country near Druskininkai. The Dzūkija region is known for having preserved old Lithuanian folk traditions — music, weaving, and mushroom-picking culture — more than almost anywhere else in the country.
 
-Wonderfull place to spent your holidays in real nature. You can find old Lithuanian villages with national traditions, enjoy small boats trip in small rivers, sleep in open fresh air, listen to birds and forest, find small sand beaches on lakes in forest and have impressive relax. Rest places are well prepared and guest are welcome.
+The park is laced with rivers including the Merkys and Ūla, popular with canoeists. There are hiking trails, traditional villages where some of the oldest wooden architecture in Lithuania survives, and sandy river beaches in the forest. It's an unhurried, genuinely rural part of the country.

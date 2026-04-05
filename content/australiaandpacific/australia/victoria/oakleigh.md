@@ -1,14 +1,8 @@
 ---
-title: "Oakleigh"
+title: 'Oakleigh'
 type: location
-latitude: -37.90063
-longitude: 145.088637
+latitude: -37.9006
+longitude: 145.0886
 ---
 
-Travel Guide
-
-We currently have no information about Oakleigh.
-
-If you do know any general information about Oakleigh, please [Edit this article].
-
-If you know any hotels in Oakleigh or restaurants in Oakleigh, please [[Add].](/destinations/addItemWizard?addwhere=australiaandpacific/australia/victoria/oakleigh)
+Oakleigh is a suburb in Melbourne's southeast and the heart of the city's Greek community. Eaton Mall is packed with Greek bakeries, tavernas, and cafes, making it the best place in Melbourne for a traditional souvlaki or loukoumades. It is a lively spot on weekend evenings.

@@ -1,18 +1,6 @@
 ---
-title: "Day Trips"
+title: 'Day Trips'
 type: section
 ---
 
-"/>
-
-
-
-**all**
-
-**Nandankanan Zoological Park.**
-
- Literally meaning the 'Garden of Pleasure', Nandankanan is a combination of a beautiful botanical garden, a zoo and a sanctuary. Situated 20 kms from Bhubaneshwar, Nandankanan provides perfect escape from the hustle & bustle of the city. The quite enviornment of Nandankanan is set amidst a vast [more..](/asia/india/orissa/bhubaneswar/daytrips/nandankananzoologicalpark)
-
-**Udaygiri and Khandagiri Hills & Caves.**
-
- 7 kms from Bhubaneshwar are the twin hills of Udaygiri and Khandagiri. Built by Kharavela around 1st - 2nd Century BC for Jain monks, they are excellent examples of Jain Cave art. The famous caves of Hathigumpha (elephant cave) in Udaygiri, RaniGumpha (Queen’s cave) also in Udaygiri, wi [more..](/asia/india/orissa/bhubaneswar/daytrips/udaygiriandkhandagirihillscaves)
+Bhubaneswar makes an excellent base for day trips. Nandankanan Zoological Park, 20 km from the city, combines a botanical garden, zoo, and wildlife sanctuary in lush surroundings. The twin hills of Udayagiri and Khandagiri, just 7 km away, hold rock-cut caves dating to the 1st-2nd century BC, carved for Jain monks by King Kharavela. The Hathigumpha (Elephant Cave) and Rani Gumpha (Queen's Cave) are the most impressive.

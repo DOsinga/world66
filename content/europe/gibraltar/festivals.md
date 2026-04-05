@@ -1,16 +1,16 @@
 ---
-title: "Festivals in Gibraltar"
+title: "Festivals"
 type: section
 ---
 
-#### Don't-Miss Festivals in Gibraltar
+Gibraltar packs a surprising number of events into its small calendar. The main ones worth planning around:
 
-Located along the Strait of Gibraltar on the southern coast of Spain, the City of Gibraltar is about a 12-hour drive from Barcelona and about an 8-hour drive from Madrid. If you want to enjoy the best **Gibraltar festivals**, you should visit this city during September in time for the Gibraltar National Day celebration and in March for the Gibraltar Song Festival.
+**National Day (10 September)** is the most important date in the Gibraltarian calendar. It commemorates the 1967 referendum in which Gibraltarians voted overwhelmingly to remain under British sovereignty, and the later 1992 civic celebration that became the template for the modern event. On the day, the entire territory turns out dressed in red and white — Gibraltar's colours. There's a march from the frontier to Casemates Square, speeches, live music, food stalls, and an enormous balloon release. Even if you have no particular stake in the politics, the sense of collective identity is infectious and the atmosphere is genuinely celebratory. Book accommodation well in advance.
 
-#### Gibraltar National Day
+**Calentita Night (June)** is a food festival centred on Gibraltar's national dish — calentita, the baked chickpea flour cake of Genoese origin. The streets fill with stalls serving calentita alongside other local food: Moroccan pinchitos, torta de acelgas (a spinach and egg pie), pan dulce, and more. A good occasion to eat your way through the local culinary traditions that don't always make it onto restaurant menus.
 
-Commemorating the first sovereign referendum of the city, this celebration is the most awaited event of the year. Held every 10th of September at the city&rsquo;s Naval Ground, the celebration starts with a children&rsquo;s competition and a street party where locals and visitors can enjoy Gibraltar&rsquo;s finest local cuisine. The food fair is usually held at the John Mackintosh Square. The main highlights of the celebration are the colorful governor&rsquo;s parade which ends up with the acknowledgment of the recipients of the Gibraltar Medal of Honor. The celebration concludes with the releasing of thousands of red and blue balloons in honor of the builders of the city and its citizens.
+**Gibraltar Fair (end of August)** is a week-long fairground in the Alameda area, popular with local families. Traditional rides, games, food stalls, and live entertainment. More local than tourist, which is part of its appeal.
 
-#### Gibraltar Song Festival
+**Gibraltar International Jazz Festival (October)** has grown into a credible event since its founding. It draws a mix of international names and local talent, with performances in various venues across the territory. Worth checking the lineup if you're visiting in autumn.
 
-If you love music, you should never miss the Gibraltar Song Festival when visiting the city. Started in 1965, the Gibraltar Song Festival went into hiatus for many years until it was revived in 2007. Held during the month of March, the musical competition during the festival attracts hundreds of song writers and performers from different countries around the world. During the festival, visitors can enjoy music in the streets as hundreds of musicians converge in the city to witness the song competition.
+**Christmas and New Year**: the Rock is nicely festive in December — compact enough that the lights and decorations feel dense and cheerful. Christmas shopping is popular with visitors from Spain, who cross the border specifically for the lower prices on alcohol and goods.

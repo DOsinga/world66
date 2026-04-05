@@ -1,5 +1,5 @@
 ---
-title: "Paikmal"
+title: 'Paikmal'
 type: location
 latitude: 20.925481
 longitude: 82.812228

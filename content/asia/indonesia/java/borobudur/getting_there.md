@@ -1,10 +1,8 @@
 ---
-title: "Getting There in Borobudur"
+title: 'Getting There'
 type: section
 ---
 
-Getting there can be easier if youdrive or hire a taxi. But for those who wish to travel budget, can follow the following alternative.
-From Yogya town center, take Trans Yogya bus to Terminal Jombor (fixed rate of IDR3000). From Jombor, try to look for bus direct to Borobudur (rate: IDR20000). Don't expect much on this trip as you'll be travelling with locals, though it'll be quite a nice experience! The whole journey takes about 1hr and once reach Borobudur Terminal, the temple is just within walking distance.
+The easiest option is to hire a taxi or car with driver from [Yogyakarta](/asia/indonesia/java/yogyakarta). For budget travelers, take the Trans Yogya bus to Terminal Jombor, then catch a direct bus to Borobudur (about IDR 20,000). The journey takes around an hour and you will be traveling with locals. From Borobudur bus terminal, the temple is within walking distance.
 
-**Contributors**
-June 12, 2008
+Many hotels and guesthouses in Yogya can arrange sunrise tours that include transport, early entry to the temple, and return by mid-morning.

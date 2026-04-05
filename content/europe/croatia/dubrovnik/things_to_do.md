@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Zaton
-
-Zaton is a town not far from Dubronik that is named after a bay of irresistible beauty in which affluents from Dubrovnik built their summer homes. Set back from the coastline 2 km, Zaton offers safe warm sea, while a well-developed tourist offering guarantees that you will enjoy yourself. http://www.dubrovnik-apartments-bb.com/
+Dubrovnik's old town is itself the main attraction, a walled city that has barely changed in outline since the Republic of Ragusa. The city walls, monasteries, and fortresses are all within walking distance of each other. Most sights cluster along or just off the Stradun, the main limestone-paved street.

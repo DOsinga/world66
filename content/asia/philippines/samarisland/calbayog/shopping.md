@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Calbayog"
+title: Shopping
 type: section
 ---
 

@@ -1,10 +1,6 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-Take a ferry from Messina or Milazzo. Other options are from Naples.
-
-We currently have no Getting There listed in Lipari.
-
-If you do know any Getting There in Lipari, please [Add].
+Take a ferry or hydrofoil from Milazzo or Messina on the Sicilian coast. Other options include boats from Naples. Lipari is the hub of the Aeolian Islands, so most inter-island connections pass through here.

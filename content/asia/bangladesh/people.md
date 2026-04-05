@@ -3,64 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 127 567 002 (July 1998 est.)
+Bangladesh has a population of around 170 million people in an area roughly the size of Greece, making it one of the most densely populated countries in the world. The overwhelming majority are Bengali — sharing language, literature, and much of their culture with the Bengali-speaking population across the border in the Indian state of West Bengal. The 1971 war of independence, fought against the Pakistani army at enormous human cost, remains central to Bangladeshi identity.
 
-**Age structure:**
+About 90 percent of the population is Muslim. Islam shapes daily life — the call to prayer, religious observance, the rhythms of Ramadan and Eid — but the practice is generally moderate, and the culture retains strong pre-Islamic Bengali traditions. Around 9 percent of the population is Hindu, and temples and puja ceremonies are a visible part of life, particularly in Dhaka's old city and in parts of the countryside.
 
-*0-14 years:* 38% (male 24 339 519; female 23 377 955)
+The hill tracts in the southeast are home to a dozen or more indigenous peoples — the Chakma, Marma, Tripura, Mro, and others — who are ethnically, linguistically, and religiously distinct from the Bengali majority. Most are Buddhist or animist. Their relationship with the Bangladeshi state has been complicated by land rights disputes and periods of serious conflict. Visiting these communities respectfully, and where possible with local guides from the communities themselves, is the better approach.
 
-*15-64 years:* 59% (male 38 897 130; female 36 818 818)
-
-*65 years and over:* 3% (male 2 239 638; female 1 893 942) (July 1998 est.)
-
-**Population growth rate:** 1.76% (1998 est.)
-
-**Birth rate:** 28.89 births/1 000 population (1998 est.)
-
-**Death rate:** 10.6 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -0.69 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1.06 male(s)/female
-
-*65 years and over:* 1.18 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 97.67 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 56.66 years
-
-*male:* 56.69 years
-
-*female:* 56.63 years (1998 est.)
-
-**Total fertility rate:** 3.32 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Bangladeshi(s)
-
-*adjective:* Bangladesh
-
-**Ethnic groups:** Bengali 98% Biharis 250 000 tribals less than 1 million
-
-**Religions:** Muslim 88.3% Hindu 10.5% other 1.2%
-
-**Languages:** Bangla (official) English
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 38.1%
-
-*male:* 49.4%
-
-*female:* 26.1% (1995 est.)
+Bangladeshis are, by almost universal traveler report, exceptionally hospitable. Invitations to tea and genuine curiosity about foreigners are common. English is widely spoken in Dhaka, in universities, and in the business world, but not universally in rural areas. Learning even a few words of Bangla will be received warmly.

@@ -1,5 +1,7 @@
 ---
-title: "El Salvador"
+latitude: 13.7942
+longitude: -88.8965
+title: El Salvador
 type: location
 ---
 

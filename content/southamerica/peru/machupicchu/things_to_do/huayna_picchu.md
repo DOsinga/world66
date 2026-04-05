@@ -1,16 +1,9 @@
 ---
 title: "Huayna Picchu"
 type: poi
-type: "Hiking"
-latitude: -13.42174
-longitude: -71.853348
+category: "Sight"
+latitude: -13.15600
+longitude: -72.54700
 ---
 
-Hauyna Picchu is the mountain that appears behind the citadel in the famous pictures of Machupicchu.
-In order to climb to the top, you must register at the entrance to the path. At the time of writing, only 400 people are allowed there every day. So be sure to start it before noon. There is no additional cost.
-After a steep but well maintained uphill path, you reach the top, which is only a bunch of big rocks. Machupicchu is down below, in the valley that surrounds the mountain. Around the valley are more mountains. The awesome view makes it feel like you are on the top of the world.
-
-**Contributors**
-July 18, 2006
-
-type: Hiking
+Huayna Picchu is the sugar-loaf peak that rises behind Machu Picchu in every photograph of the site. A steep, narrow staircase carved by the Incas climbs the side of the mountain in about an hour to a small group of ruins near the summit — almost certainly religious structures built for priests — and a view back over Machu Picchu that is, if anything, even more dramatic than the one from the city itself. Access is strictly limited to **400 people per day** (200 in the early morning, 200 in the late morning), and tickets must be booked weeks to months in advance through the official site. The climb is not for anyone seriously afraid of heights: several sections are on narrow stone stairs with steep drops.

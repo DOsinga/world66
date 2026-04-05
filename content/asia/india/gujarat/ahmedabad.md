@@ -1,10 +1,14 @@
 ---
-title: "Ahmedabad"
+title: 'Ahmedabad'
 type: location
 latitude: 23.021537
 longitude: 72.580057
 ---
 
-Ahmedabad is named after a sultan who founded it in 1411. Besides being the largest city in Gujarat, it is also the second largest prosperous city in western India, covering an area of 204,6 km. The most widely spoken language is Gujarati, with Hindi and English. You might have heard of the city beacuse of one of its famous former residents, Mahatma Gandhi, whose ashram is on the banks of the river Sabarmati and became a national pilgrimage site. 
+Ahmedabad is Gujarat's largest city and its cultural heart, founded by Sultan Ahmed Shah in 1411 on the banks of the river Sabarmati. You might know it as the city where Mahatma Gandhi established his ashram, which remains a national pilgrimage site on the river's western bank.
 
-Ahmedabad is also known for its people and its many traditions. Especially colorful is the festival of Makar Sankranti, which starts at the 14th of January. During this festival, shops are closed and all citizens participate in the multitude of festivities. Don't forget to look up high. You will see a lot of people sitting on the rooftops, and your eyes will be pleased with the sight of kites and more kites in the air.
+The old walled city is a dense, fascinating maze of pols -- traditional neighbourhoods with carved wooden houses, hidden courtyards, and community gates that were locked at night for protection. The heritage walk through the old city, starting from the Swaminarayan Temple in Kalupur and ending at the Jama Masjid, is the best way to experience this side of Ahmedabad. UNESCO recognised the walled city as India's first World Heritage City in 2017.
+
+Modern Ahmedabad sprawls west across the Sabarmati, with broad avenues, malls, and the striking modernist architecture of Le Corbusier and Louis Kahn. The Calico Museum of Textiles, housed in a carved wooden haveli, is one of the finest textile museums in the world.
+
+Gujarat is a dry state, so there is no bar culture to speak of. The city compensates with excellent street food, vibrant night markets at places like Law Garden, and the spectacular Navratri celebrations in October, when the entire city dances through the night for nine days straight. During Makar Sankranti in January, the whole city takes to the rooftops for a massive kite-flying festival -- look up and you will see thousands of kites filling the sky.

@@ -3,12 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-**all**
+Manchester Airport is the largest airport outside London, with direct flights across Europe, North America, and beyond. It is about 25 minutes south of the city centre by train, or around 10 pounds by taxi in normal traffic.
 
-**BritRail Passes**
-
-BritRail passes give you the the freedom to travel England, Scotland, and Wales at your own pace (Ireland package available).
-
-**Manchester Airport**
-
-Manchester has an international airport with flights to many airports on the continent and in the USA. The City's International Airport is less than 30minutes from the city-centre and the city's second airport, Glasgow Prestwick is within easy reach with its own purpose built rail station. A taxi from the city centre to Manchester Airport currently costs about £10.00 in average traffic conditions.  [more..](/europe/unitedkingdom/england/manchester_liverp/manchester/gettingthere/manchesterairport)
+Manchester Piccadilly is the main railway station, with fast, frequent trains from London Euston (just over two hours), Birmingham, Leeds, and Edinburgh. Manchester Victoria serves routes to Liverpool, Yorkshire, and Lancashire. National Express coaches run from most major UK cities and arrive at Chorlton Street bus station, a short walk from Piccadilly Gardens.

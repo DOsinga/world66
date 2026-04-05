@@ -1,10 +1,8 @@
 ---
-title: "Cloudcroft"
+title: 'Cloudcroft'
 type: location
-latitude: 32.957665
-longitude: -105.742721
+latitude: 32.9577
+longitude: -105.7427
 ---
 
-Cloudcroft is a small friendly village with a western appeal. There are plenty of shopping areas and places to eat.
-
-Minor corrections on 13 June 05
+Cloudcroft is a small mountain village perched at nearly 9,000 feet in the Sacramento Mountains, offering cool relief from the desert heat below. The historic Lodge at Cloudcroft dates to the railroad era, and the surrounding Lincoln National Forest has good hiking trails. It makes a pleasant side trip from [Alamogordo](/northamerica/unitedstates/newmexico/alamogordo) or a quiet overnight stop.

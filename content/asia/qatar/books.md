@@ -3,112 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Qatar does not have a large body of travel literature devoted to it — it is too recently opened to tourism for that. These books provide useful context.
 
-**The Ottoman Gulf:The Creation of Kuwait, Saudi Arabia, and Qatar**
+**The Hundred-Year Marathon** by Michael Pillsbury is not about Qatar specifically, but the Gulf geopolitics it touches on help explain Qatar's complicated position between Saudi Arabia, Iran, and the West.
 
+**From Rags to Riches: A Story of Abu Dhabi** by Mohammed Al-Fahim covers the UAE rather than Qatar, but gives a vivid first-person account of what life in the Gulf was like before oil — pearl diving, poverty, desert survival — that translates directly to understanding how completely Qatar's world changed in a generation.
 
+**The Bookseller of Kabul** by Åsne Seierstad is not about Qatar, but if you want to understand conservative Islamic social structures and the position of women and workers in the Gulf, Seierstad's style of embedded reporting is instructive.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0231108397/ref=ase_osingacom?v=glance&s=books)
+**Bedouins of Qatar** by Klaus Ferdinand (1993) is a proper ethnographic study of Bedouin life in Qatar before oil fully transformed the country. Academic in tone but unique as a record of a world that has largely vanished.
 
-author: Frederick F. Anscombe
+**The Ottoman Gulf: The Creation of Kuwait, Saudi Arabia, and Qatar** by Frederick Anscombe traces Qatar's political history through Ottoman administration up to British influence, explaining how the country's boundaries and ruling family came to be.
 
-isbn: 0231108397
-
-subject: travel
-
-**Bedouins of Qatar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0500015732/ref=ase_osingacom?v=glance&s=books)
-
-author: Klaus Ferdinand,Ida Nicolaisen, Carlsberg Fo..
-
-isbn: 0500015732
-
-subject: travel
-
-**The Ottoman Gulf:The Creation of Kuwait, Saudi Arabia, and Qatar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0231108397/ref=ase_osingacom?v=glance&s=books)
-
-author: Frederick F. Anscombe
-
-isbn: 0231108397
-
-subject: culture
-
-**Bedouins of Qatar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0500015732/ref=ase_osingacom?v=glance&s=books)
-
-author: Klaus Ferdinand,Ida Nicolaisen, Carlsberg Fo..
-
-isbn: 0500015732
-
-subject: culture
-
-**The Making of the Modern Gulf States:Kuwait, Bahrain, Qatar, the United Arab Emirates and Oman**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0863722296/ref=ase_osingacom?v=glance&s=books)
-
-author: Rosemarie Said Zahlan,Foreword by Roger Owen
-
-isbn: 0863722296
-
-subject: travel
-
-**The Making of the Modern Gulf States:Kuwait, Bahrain, Qatar, the United Arab Emirates and Oman**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0863722296/ref=ase_osingacom?v=glance&s=books)
-
-author: Rosemarie Said Zahlan,Foreword by Roger Owen
-
-isbn: 0863722296
-
-subject: culture
-
-**The Ottoman Gulf:The Creation of Kuwait, Saudi Arabia, and Qatar**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0231108397/ref=ase_osingacom?v=glance&s=books)
-
-author: Frederick F. Anscombe
-
-isbn: 0231108397
-
-subject: history
-
-**The Making of the Modern Gulf States:Kuwait, Bahrain, Qatar, the United Arab Emirates and Oman**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0863722296/ref=ase_osingacom?v=glance&s=books)
-
-author: Rosemarie Said Zahlan,Foreword by Roger Owen
-
-isbn: 0863722296
-
-subject: history
-
-**Oil and Politics in the Gulf:Rulers and Merchants in Kuwait and Qatar, Vol. 24**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0521466350/ref=ase_osingacom?v=glance&s=books)
-
-author: Jill Crystal
-
-isbn: 0521466350
-
-subject: history
+**The Making of the Modern Gulf States** by Rosemarie Said Zahlan covers Kuwait, Bahrain, Qatar, UAE, and Oman together — useful for understanding the region as a whole and how Qatar's trajectory compares to its neighbors.

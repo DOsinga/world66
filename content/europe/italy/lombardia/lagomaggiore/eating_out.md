@@ -1,15 +1,9 @@
 ---
-title: "Eating Out in Lago Maggiore"
+title: "Eating Out"
 type: section
 ---
 
-There are
-many quality places to choose from when eating out in the city because the **Lago Maggiore restaurants** are famous
-for their mouthwatering dishes and are worth stopping by for lunch or dinner. Strolling
-around and determining where to have the next meal is one of the best ways to
-spend a day soaking up the culture and atmosphere. It is important to remember
-that Siesta is taken quite seriously in this area and it can be difficult to
-find a place with an open kitchen between meals (2 p.m. to 6 p.m.).
+Lake fish is the star of the local kitchen -- perch, pike, and trout prepared simply with fresh herbs and butter. The lakeside towns all have good restaurants, though many close their kitchens between 2 p.m. and 6 p.m. for the midday break.
 
 **La Pescheria**
 
@@ -57,7 +51,3 @@ slice of pizza. The kitchen is family-run and turns out highly reputable and
 personally recommended homemade gnocchi and grilled sausages. The garden
 provides a soft-lit open-air dining experience when the weather is good.
 
-**Contributors**
-February 26, 2010
-
-February 13, 2010

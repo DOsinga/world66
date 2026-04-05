@@ -5,8 +5,6 @@ latitude: 40.082678
 longitude: 49.412082
 ---
 
-Travel Guide
-
 Numerous caves and rock outcroppings surround this village, whose name can be translated as "ravine land". The spurs of the Great Caucasus Range descend to the Caspian along the Djeirankechmez river.
 
 Settled since the 8th millennium BC, the area contains thousands of rock engravings spread over 100 square km depicting hunting scenes, people, ships, constellations, animals, etc.
@@ -19,7 +17,7 @@ The local museum adjacent to the site houses the ornaments, flints, shells, cera
 
 Based on the archeological finds and on content of the petroglyphs, recently it has be theorized that a connection exists between the ancient Azeris and the peoples of Scandinavia, which is not surprising at all, since some of the original habitants of the region, the Medes, were not a Turkic people, but an Indo-European people.
 
-Besides being famous for the petroglyphs the Gobustan are also has some amazing landscape, particularly an area filled with [mud volcanoes](/europe/az-mud-volcanoes.html) , which provide a quasi-lunar horizon. You can find the most spectacular mud volcanoes about 7km south of Gobustan near the road to [Alat](/europe/az-alat.html).
+Besides being famous for the petroglyphs the Gobustan are also has some amazing landscape, particularly an area filled with mud volcanoes, which provide a quasi-lunar horizon. You can find the most spectacular mud volcanoes about 7km south of Gobustan near the road to Alat.
 
 If you are travelling from Baku you can reach Gobustan on the bus to Alat. The main petroglyphs site is about 5km west of Gobustan itself, after the jail. Plan your journey carefuly as currently there is no hotel in Gobustan!
 

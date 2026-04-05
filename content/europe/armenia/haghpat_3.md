@@ -22,7 +22,3 @@ Apart from parking fee (about 100AMD) there is no entrance fee, just
 buy some candles (40AMD/piece) as it's a custom elsewhere at Armenian
 churches.
 
-See also http://en.wikipedia.org/wiki/Haghpat
-
-**Contributors**
-April 22, 2005

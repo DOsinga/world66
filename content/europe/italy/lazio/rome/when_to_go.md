@@ -3,10 +3,12 @@ title: "When to Go"
 type: section
 ---
 
-**Spring (March–May)** is the best time to visit: mild temperatures (15–22°C), long days, and the city at its most photogenic before summer crowds arrive. Easter week is extremely busy and expensive.
+**April–May** and **September–October** are the best months: mild temperatures (18–25°C), long days, and crowds that are heavy but manageable. Spring brings wisteria and outdoor terraces; autumn brings the vendemmia and lower prices than summer.
 
-**Summer (June–August)** is hot and humid, regularly above 30°C, and the city is packed with tourists. Many Romans leave in August, which means some restaurants close for a few weeks but also that the city is quieter in places. Evening temperatures are more comfortable. The outdoor cinema and concert season runs through summer.
+**June–August** is hot (often above 35°C), humid, and intense with tourists. August is particularly strange — most Romans leave, so the city is simultaneously overcrowded with visitors and emptied of locals. Many family-run restaurants and shops close for two weeks in August. If you go in summer, arrive early at major sights and take a long midday break.
 
-**Autumn (September–November)** is another good window. September into October offers warm weather without summer's intensity. Rain increases in November, but crowds and prices drop.
+**Easter** is the most crowded week of the year. The Vatican and centro storico are packed for the entire Holy Week; book accommodation months in advance and expect queues at every sight.
 
-**Winter (December–February)** is the least visited season. Temperatures typically 5–12°C with occasional cold snaps. Christmas brings extra visitors and decorations, particularly around the Vatican. Prices are lower outside Christmas week, and the major sights have shorter queues.
+**November–March** is the quietest and cheapest period. Temperatures are cool (5–15°C) with occasional rain; short winter days reduce sightseeing time. But the museums are far less crowded, the light is beautiful, and hotel rates can drop dramatically. Christmas week is an exception — the city fills up again for the nativity scenes and midnight masses.
+
+Rome's main cultural events tend to fall in May (Notte dei Musei, free museum night), June (Estate Romana outdoor events begin), and October (Rome Film Festival).

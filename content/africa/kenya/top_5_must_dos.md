@@ -3,28 +3,22 @@ title: "Top 5 Must Do's in Kenya"
 type: section
 ---
 
-Following is a list of top 5 **Kenya must do’s** for every tourist visiting this country.
+**1. Watch the Great Migration cross the Mara River**
 
-**1. Explore the Kenyan Beaches**
+Between July and October, over a million wildebeest cross from Tanzania's Serengeti into Kenya's Maasai Mara in search of grass. The river crossings are the dramatic climax: herds hesitating at the bank, then plunging in, while Nile crocodiles wait below. You can't schedule the exact moment — you wait, and when it happens, it's unlike anything else you've seen. Stay at a camp in the northern Mara near one of the main crossing points and go out early.
 
-Kenya is famous for its coastal beaches. Most of the beaches are situated in Mombasa. Lamu and Malindi are some of the other renowned coastal beaches in Kenya. These beaches are well-maintained and you can enjoy some quality time beneath the stretch of coconut palm trees. Beaches in Kenya are also known for their soft white sands and clear water. The beaches in Mombasa, especially in the North Coast are popular among tourists. Some of the popular beaches in the North Coast include Nyali and Mtwapa. You can also visit the largest crocodile farm in Kenya, which is situated on the North Coast of Mombasa, near Nyali Beach. Other beaches are situated in Lamu, Malandi and Watamu. You can also visit the Malandi Marine National Park near Malandi Beach.
+**2. Take the overnight train to Mombasa**
 
-**2. National Parks**
+The Standard Gauge Railway between Nairobi and Mombasa, opened in 2017, is one of Africa's better train journeys. It runs through Tsavo National Park and you have a real chance of seeing elephants, zebras, and other game from the window. The overnight service is comfortable, reasonably priced, and an alternative to the risk of nighttime road travel. It's also just a pleasurable way to travel — the landscape shifts from highland to semi-arid scrub as you descend to the coast.
 
-A visit to Kenya is incomplete without getting a glimpse of Kenyan wildlife.
-The National Parks in Kenya are well-known for their rich wildlife. The national wildlife reserves in Kenya are well-endowed with animals like lions, elephants, leopards and rhinos. Do not forget to carry your digital camera along with you to capture some enticing images. You can explore the wildlife reserve through safari minibuses or 4WD vehicles. If you are adventurous then you can also consider the option of viewing the sights from a hot air balloon. Some of the popular wildlife reserves include Masai Mara National Reserve, Amboseli National Park, Tsavo National Park, Samburu National Reserve and Nairobi National Park.
+**3. Spend several days on the island of Lamu**
 
-**3. Lakes**
+Lamu is one of the oldest continuously inhabited towns on the East African coast, and walking its narrow alleys — where donkeys are still the main transport and the architecture hasn't changed much in centuries — gives you a genuine sense of Swahili civilization at its height. Stay for a few days and take a dhow trip out to Manda Island or down to Shela Beach. The pace slows, the food improves, and the world feels refreshingly distant.
 
-Kenya is also known for its collection of lakes which ranges from freshwater, volcanic to alkaline. Some of the popular lakes include Lake Victoria and Lake Nakuru. Lake Victoria is the second largest fresh water lake in the world. The Nile River originates from this particular lake. Lake Elementatia, Lake Baringo and Bogoria are some of the other popular lakes in Kenya.
+**4. Walk in the Maasai Mara on a guided bush walk**
 
-**4. Excursion Activities**
+Most game drives keep you in a vehicle, which is fine — it's safe and you see more. But a guided walk through the bush, done with a licensed ranger and an armed Maasai guide, is a different experience entirely. You read tracks, smell the air, hear things a vehicle drowns out. It requires finding the right camp and the right guide, but the intimacy with the landscape is something you won't replicate from a Land Cruiser.
 
-You can enjoy your trip to the maximum by indulging in scuba-diving and snorkeling while on the beaches in Kenya. Diving equipment is usually provided by the beach resorts. Some of the other activities which you can try include waterskiing and swimming. Do not venture deeper into the water if you are a novice. You can also try deep-sea fishing, which is a popular tourist activity on the coastal beaches.
+**5. See Lake Nakuru's flamingos at dawn**
 
-**5. Shopping Trips**
-
-Kenya is also famous as a shopping destination. You can enjoy a shopping spree in Mombasa. Try some traditional Kenyan clothes like kikoi and khanga from Bishara Street. Makupa is one of the popular markets in Kenya. If you are interested in collecting souvenirs then do head for the Masai Market.
-
-**Contributors**
-March 26, 2010
+Lake Nakuru in the Rift Valley can hold up to a million lesser flamingos at peak times, coating the shore in pink. The sight at dawn, with the lake turning gold and the flamingos wading through the shallows, is one of Africa's great wildlife spectacles. Nakuru National Park also has both black and white rhinos, making it one of the best places in Kenya to see rhino. The drive from Nairobi takes about two hours, making it easy to combine with a Rift Valley loop.

@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 110 532 242 (July 1998 est.)
+Nigeria has somewhere over 220 million people — the exact figure is disputed, as censuses here have long been politically sensitive. It is by far the most populous country in Africa and among the ten most populous in the world. Lagos alone has an estimated 15 to 20 million inhabitants, making it one of the largest cities on earth.
 
-**Age structure:**
+The ethnic landscape is immensely complex. There are over 250 ethnic groups, but three dominate: the **Hausa-Fulani** in the north (predominantly Muslim), the **Yoruba** in the southwest (mixed Muslim and Christian), and the **Igbo** in the southeast (predominantly Christian). Together these three groups account for roughly two-thirds of the population. The remaining third includes the Ijaw, Tiv, Efik, Ibibio, Kanuri, Nupe, and hundreds of others, many of them in the "middle belt" running across the centre of the country.
 
-*0-14 years:* 45% (male 24 871 855; female 24 661 134)
+Religion divides Nigeria roughly in half: the north is predominantly Muslim, the south predominantly Christian, with a significant minority practising traditional religions or a blend. The divide is not just spiritual — it shapes politics, law (Sharia courts operate in twelve northern states), and daily life. The tensions between communities are real and occasionally violent, but so is the daily coexistence in cities like Lagos and Abuja where people from every background live and work together.
 
-*15-64 years:* 52% (male 29 420 428; female 28 343 567)
+English is the official language and is spoken as a common tongue throughout the country. It is taught in schools and used in government, media, and business. Hausa, Yoruba, and Igbo are the major indigenous languages. Nigerian Pidgin English — a creole mixing English with words and structures from various Nigerian languages — is the true lingua franca of everyday life, spoken and understood almost everywhere.
 
-*65 years and over:* 3% (male 1 627 452; female 1 607 806) (July 1998 est.)
-
-**Population growth rate:** 2.96% (1998 est.)
-
-**Birth rate:** 42.24 births/1 000 population (1998 est.)
-
-**Death rate:** 12.95 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.32 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1 male(s)/female
-
-*15-64 years:* 1.03 male(s)/female
-
-*65 years and over:* 1.01 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 70.74 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 53.55 years
-
-*male:* 52.68 years
-
-*female:* 54.45 years (1998 est.)
-
-**Total fertility rate:** 6.09 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Nigerian(s)
-
-*adjective:* Nigerian
-
-**Ethnic groups:** Hausa Fulani Yoruba Ibo Kanuri Ibibio Tiv Ijaw
-
-**Religions:** Muslim 50% Christian 40% indigenous beliefs 10%
-
-**Languages:** English (official) Hausa Yoruba Ibo Fulani
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 57.1%
-
-*male:* 67.3%
-
-*female:* 47.3% (1995 est.)
+Nigerians have a well-earned reputation for warmth, directness, and an entrepreneurial energy that seems to animate every interaction. The phrase *"hustling"* is used without apology. The culture places enormous value on education, family ties, and community belonging. Guest hospitality is taken seriously — if you are invited to someone's home or to share a meal, accept.

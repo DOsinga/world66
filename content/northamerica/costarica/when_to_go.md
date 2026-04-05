@@ -3,44 +3,14 @@ title: "When to Go"
 type: section
 ---
 
-From our climate section here at World66, you have learned that Costa Rica can be classified
-into four types of climatic zones: the wet lowlands, the lowlands with
-a dry season, the temperate zones above 3,000 to 5,000 feet of sea
-level and the mountain zones above 5,000 feet sea level. Given that
-these climatic zones have well defined climate zones throughout the
-year, it's pretty easy to decide when to visit Costa Rica.
+Costa Rica has two main seasons: dry (*verano*, December through April) and wet (*invierno*, May through November). "Best time to visit" depends entirely on what you're after.
 
-**Lending a Hand
+**Dry season (December–April)** is peak tourist season for the Pacific coast, Guanacaste, and the Central Valley. Roads are passable, beaches are sunny, and hiking trails are accessible. It's also when prices are highest and popular spots like Manuel Antonio and Arenal are busiest. Book accommodation well in advance for December, January, and around Easter (Semana Santa), when Costa Ricans travel domestically in large numbers.
 
-**The
-idyllic climates of Costa Rica, made it a a great setting for the
-development of over 500,000 animal and plant species. However, the
-commercial development of Costa Rica has taken a toll on most of these
-species and now about 25 per cent of these species are under official
-protection. Therefore, it is no surprise is on the rise in Costa Rica.
-A great company to look for is the Green Magic Travel, which organizes
-custom itineraries with volunteer activities. These activities range
-from protecting turtle nests in the Tortuguero National Park to counting endangered rainbow hued scarlet macaw in the Corcovado
-National Park. Did we mention that these national parks are within
-walking distance of the greatest beaches in the world? Do something
-good for the world and do something good for yourself at Costa Rica!**
+**Wet season (May–November)** brings afternoon rains to most of the country, but mornings are often clear and the landscape turns lush and green. Prices drop, crowds thin, and wildlife viewing is excellent. Rivers run high, which is ideal for white-water rafting (the Pacuare and Reventazón rivers are at their best). July is often a dry pocket on the Pacific slope. The Caribbean coast follows its own rhythm: heaviest rains in November–January, drier in February–April and September–October.
 
-Surf's up!**
+**Turtle nesting** peaks at different times by species and location. Leatherbacks nest at Tortuguero and Playa Grande from March to July; green turtles at Tortuguero from July to October; olive ridleys at Ostional (Nicoya) arrive in mass *arrivals* called *arribadas*, most reliably July through December.
 
-With
-temperatures ranging between the eighties and nineties F (high twenties
-to mid thirties C), the beaches of Costa Rica are a great destination
-anytime of the year. We suggest that the best time to hit the beaches
-of Costa Rica, particularly the Manuel Antonio beaches in the southern
-region of Costa Rica, is during the summer season between December and
-April. The calm shores of Manuel Antonio, South Espadilla, North Espadilla and Playitas beaches are the ideal spots to start learning how to surf. **
+**October** is worth singling out: it's Carnival month in Limón, one of the country's best street festivals. The rainy season is also well underway, but if you're heading to the Caribbean, it's a fine time to go.
 
-Ride the River
-
-**During the rainy seasons of the year, between May and November, it's the perfect time to ride the banks of Guanacaste's Tenorio
-River. It's important to point out that you always contact the local
-rafting companies before embarking in your own rafting expedition.
-Flash floodings can happen without a warning, so it's better to play it safe. We suggest that you contact the Rios Tropicales rafting company. Expert guides will guide through amazing water rapids that will get your hear pumping! Rafting packages are available to people of all expertise levels and ages.
-
-**Contributors**
-August 28, 2009
+The Central Valley — where San José and most cities are — has consistently mild weather year-round, usually in the low 20s Celsius (low 70s Fahrenheit), so it's never really a bad time to be there.

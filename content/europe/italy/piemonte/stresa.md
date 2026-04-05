@@ -1,28 +1,10 @@
 ---
-title: "Stresa"
+title: 'Stresa'
 type: location
-latitude: 45.883728
-longitude: 8.539027
+latitude: 45.8837
+longitude: 8.5390
 ---
 
-Stresa is a popular holiday resort in the province of Novara, situated on the west side of Lake Maggiore on the slopes of Mount Mottarone, looking out over the Borromeo islands. The former little fishing village has grown into one of the hotspots on (Lake)
-[Lago Maggiore](/europe/italy/lombardia/lagomaggiore) situated in a central but also panoramic and pictoresque position along the lakeside roadway.
+Stresa is the elegant gateway to the Borromean Islands on the western shore of [Lake Maggiore](/europe/italy/lombardia/lagomaggiore). Once a fishing village, it blossomed into a fashionable resort in the 19th century when English tourists discovered its mild climate and spectacular position on the slopes of Monte Mottarone. The lakefront promenade, lined with Liberty-style hotels and grand villas set among gardens, remains the town's most alluring feature, with views across the water to the islands and the mountains beyond.
 
-
- 
- Since the second half of nineteenth century up to the first decades of the twentieth, when the first English tourists arrived, Stresa, whose hotels and villas built in Liberty style make it unique, assumed its peculiar, elegant look. Until today the lakeside is the most attractive part, with a wide avenue of trees and flowerbeds, lined with hotels and villas set amongst trees. From here you have a panoramic view of the Borromeo islands.
-
-
- 
- Stresa has a few interesting museums and some interesting historical sights, such as the old villas, hidden behind the small alleys. The greater main avenue opens out on to Piazza Marconi, overlooked by the church of Sant’ Ambrogio which was restored in Neo-Classical style by G. Zanoia in 1790. It has a single nave and contains seventeenth century paintings by local artists. Beyond the piazza lies the Villa Ducale which was built within a beautiful park in 1770 and at one time belonged to the philosopher Antonio Rosmini who died there in 1855.
-
-
- 
- However, the wonderful sightseeing over the lake makes Stresa's position a very valuable one: from here you can see a part of
-[Lombardia](/europe/italy/lombardia) with
-[cerro de la silla](/northamerica/mexico/monterrey/cerro_de_la_silla),
-Laveno and the Rock of Calde', as well as the bank of
-[Piemonte](/europe/italy/piemonte) with the Peak of
-Castagnola,
-Pallanza and
-[Monte Sereno](/northamerica/unitedstates/california/monte_sereno) (613 m. above sea level).
+The main draws are the Borromean Islands, reached by regular ferries from the waterfront. Isola Bella, with its Baroque Palazzo Borromeo and terraced gardens, is the showpiece, while Isola dei Pescatori retains the charm of a working fishing village. Back in town, narrow alleys lead past hidden villas, and the main avenue opens onto Piazza Marconi and the neo-classical church of Sant'Ambrogio. The Villa Ducale, once home to philosopher Antonio Rosmini, sits in a beautiful park just south of the centre. A cable car climbs Monte Mottarone for panoramic views across the lake and as far as the Monte Rosa massif.

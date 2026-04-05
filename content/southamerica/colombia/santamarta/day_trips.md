@@ -1,17 +1,14 @@
 ---
-title: "Day Trips in Santa marta"
+title: "Day Trips"
 type: section
+linked_locations:
+  - southamerica/colombia/ciudadperdida
 ---
 
-**Visit the ****Tayrona**** ****National Park****
-**
+Santa Marta is the gateway to some of Colombia's most dramatic landscapes. Tayrona National Park is under an hour away, and the fishing village of Taganga is a short bus or taxi ride over the hill. Longer expeditions include the multi-day trek to [Ciudad Perdida](/southamerica/colombia/ciudadperdida).
 
-Santa Marta is a great tourist destination by itself, but it also offers some great **Santa Marta Day Trips**. One of them is the trip to the magnificent Tayrona National Park. The park is a natural preserve protected by the authorities of the Magdalena Department (the capital of which is Santa Marta). It is located around 34 km northeast of the city, with the road to Riohacha directly leading to the entrance of the park. Tayrona National Park has a total area of 180 square kilometers, with 150 square kilometers of land and 30 square kilometers of sea.
+**Tayrona National Park** -- One of Colombia's flagship natural reserves, about 34 km northeast of the city. The park covers 150 square kilometres of land and 30 of sea, with hiking trails, pristine bays for snorkelling and diving, and the Chairama archaeological site. Entrance is around $10 for foreigners. Camping and indigenous-style ecohabs are available at the Canaveral site.
 
-**Practical Information**
+**Taganga** -- A small fishing village 8 km from Santa Marta, long popular with backpackers. Good for scuba diving, snorkelling, and spear fishing. Small buses leave every hour from Santa Marta (last bus at 9:00 p.m.) or take a taxi. Tour operators here can arrange trips to Tayrona and Ciudad Perdida.
 
-The entrance fee for foreigners is about $10, which is more than double than the fee for locals. However, it is worth every cent, since the park offers some truly breathtaking nature views. If you want to go inside with your vehicle, you&rsquo;ll have to pay an additional fee of $3. The main gathering point for tourists is the Ca&ntilde;averal site. It has two nice yet affordable restaurants, and a camping area with 76 campsites and several indigenous-styled cabins (called "ecohabs"). An ecohab for four people costs around $44 nightly.
-
-**Things to Do**
-
-The Tayrona National Park offers numerous recreational activities. Various nature trails are available for hiking and about 9 different bays offer sunbathing, diving and snorkeling opportunities. Once in Tayrona, you should definitely explore the Chairama City archeological site and its Archeological Museum. Chairama was an ancient indigenous settlement abandoned in the 16th century.
+**[Ciudad Perdida](/southamerica/colombia/ciudadperdida)** -- The "Lost City" of the Tayrona people, reached by a challenging multi-day trek (typically 4-6 days) through the Sierra Nevada. The ruins are spread over 400 hectares and include stone terraces, buildings, and drainage systems. Only go with a licensed guide -- the terrain is serious.

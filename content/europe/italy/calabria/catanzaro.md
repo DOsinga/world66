@@ -5,8 +5,6 @@ latitude: 38.82996
 longitude: 16.431557
 ---
 
-Travel Guide
-
 Catanzaro is the capital of the Province of Catanzaro and also of the region Calabria since 1970 (before then the region capital was [Reggio Calabria](/europe/italy/calabria/reggio) ).
 
 This town rises on a rock and is split into two parts by the steep Fiumarella valley, the two sections being connected by a huge concrete steel bridge (the Viadotto Morandi ), among the highest in Europe, built in 1960 to the design of architect Riccardo Morandi . The beach town Catanzaro Lido, located about 5 kilometers south, has a wide promenade and a harbor for small fishing and pleasure boats.

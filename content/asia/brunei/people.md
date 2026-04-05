@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 315 292 (July 1998 est.)
+Brunei has a population of around 450,000, making it one of the smallest nations in Southeast Asia. The majority — roughly 65 percent — are Malay, with a significant Chinese community of around 10 percent and various indigenous Bornean groups making up most of the rest. A large portion of the workforce consists of foreign workers, primarily from the Philippines, Indonesia, and South Asia.
 
-**Age structure:**
+The official religion is Islam, practiced by the majority of Malays. Buddhism is the main faith of the Chinese community. The country's guiding philosophy — Melayu Islam Beraja — enshrines Malay identity, Islamic values, and the authority of the Sultan as the three pillars of national life. This is not rhetoric; it shapes daily life in visible ways, from the absence of alcohol to the dress codes expected in public spaces and religious sites.
 
-*0-14 years:* 33% (male 53 219; female 50 906)
+The people are generally reserved and polite with strangers. Hospitality is genuine and direct friendliness from locals is common once the initial formality passes. English is widely spoken, particularly among the educated and professional class — Brunei has a high literacy rate and English is taught in schools from an early age alongside Malay.
 
-*15-64 years:* 63% (male 103 949; female 93 370)
+You will find that public behavior codes are somewhat stricter than in neighboring Malaysia. Dress modestly when visiting mosques (bring a scarf or use the ones provided at the entrance). Physical displays of affection between unmarried couples are frowned upon. Ramadan is observed seriously — eating or drinking in public during daylight hours during the fasting month is not done, and some restaurants close during the day.
 
-*65 years and over:* 4% (male 7 569; female 6 279) (July 1998 est.)
-
-**Population growth rate:** 2.44% (1998 est.)
-
-**Birth rate:** 24.92 births/1 000 population (1998 est.)
-
-**Death rate:** 5.17 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 4.61 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.06 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.11 male(s)/female
-
-*65 years and over:* 1.21 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 23.3 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 71.69 years
-
-*male:* 70.17 years
-
-*female:* 73.29 years (1998 est.)
-
-**Total fertility rate:** 3.35 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Bruneian(s)
-
-*adjective:* Bruneian
-
-**Ethnic groups:** Malay 64% Chinese 20% other 16%
-
-**Religions:** Muslim (official) 63% Buddhism 14% Christian 8% indigenous beliefs and other 15% (1981)
-
-**Languages:** Malay (official) English Chinese
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 88.2%
-
-*male:* 92.6%
-
-*female:* 83.4% (1995 est.)
+Despite the constraints on nightlife and alcohol, Brunei is a calm and notably safe place to travel. The violent crime rate is among the lowest in the world, and solo travelers report feeling secure at any hour.

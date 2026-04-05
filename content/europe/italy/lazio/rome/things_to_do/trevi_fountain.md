@@ -1,12 +1,9 @@
 ---
-title: "Trevi Fountain"
+title: 'Trevi Fountain'
 type: poi
-category: "Architecture"
-address: "Piazza di Trevi"
-latitude: 41.900978
-longitude: 12.483285
+category: 'Monuments'
+latitude: 41.9010
+longitude: 12.4833
 ---
 
-Rome's largest baroque fountain and one of its most visited sites. Nicola Salvi completed it in 1762, using the Palazzo Poli as a backdrop, with Neptune at the centre flanked by tritons and seahorses. The tradition of throwing a coin over your shoulder to ensure a return to Rome is harmless enough — a second coin supposedly grants a wish, a third a new romance. The coins are collected and donated to charity.
-
-It's always crowded, but the crowds thin out late at night and the fountain is lit until around 1am. The small alley running beside the fountain leads to the rest of the historic centre.
+Rome's most famous fountain and a magnet for visitors day and night. Legend says tossing a coin over your left shoulder into the fountain guarantees your return to Rome. The baroque masterpiece is fed by an ancient aqueduct renowned for the quality of its water. Visit in the early morning or very late at night to avoid the crowds and see the fountain beautifully illuminated without the press of selfie sticks. Beware of pushy vendors selling flowers and photos.

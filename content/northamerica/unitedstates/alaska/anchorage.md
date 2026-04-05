@@ -1,42 +1,12 @@
 ---
 title: "Anchorage"
 type: location
-latitude: 61.216313
-longitude: -149.894852
+latitude: 61.2163
+longitude: -149.8949
 ---
 
-**Anchorage…** The City of Lights
+Anchorage is Alaska's largest city and the gateway to most of the state's wilderness. It sits between Cook Inlet to the west and the Chugach Mountains to the east, with Denali visible on clear days 130 miles to the north. About 40 percent of Alaska's entire population lives here.
 
+The city itself is largely functional — a grid of low-rise buildings and strip malls rebuilt quickly after a devastating 1964 earthquake — but it has good museums, a lively bar scene on Spenard Road, and the Tony Knowles Coastal Trail running 11 miles along the inlet shoreline. The Anchorage Museum is worth a morning for its coverage of Alaska Native cultures and the state's history.
 
- Anchorage is located in South-Central Alaska. Yes, Anchorage is FAR away from a lot of places… 2,463 road miles from Seattle, 3,608 miles from Los Angeles, 4,499 miles from New York City and 5,074 miles from Miami.
-
-
- Anchorage is situated between the Cook Inlet to the West, The Chugach Mountains to the East and Mt. McKinley approximately 130 air miles to the North (which can be seen through the clear Alaska sky from Anchorage).
-
-
- The Municipal boundaries take up about 2,000 square miles, although most of that is unpopulated at this time.
-
-
- The latest figures that I can find so far on Anchorage is: estimated 1996 population is about 254,269, an increase of more than 12 percent since 1990… 2/5th of the ENTIRE population of Alaska., making it the largest city in the state.
-
-
- Anchorage is where my 3 children and I made our home for three years. Anchorage has just about every organized sport you could possibly want. 
- Anchorage has everything from basketball, baseball and softball to broomball, football and rugby to soccer, hockey and volleyball.
-
-
- There are many miles of trails for walking, hiking and biking. There are also many parks, recreation/community centers and places for children as well as adults to have fun and enjoy themselves.
-
-
- Believe me when I say, “There is something for everyone….”
-
-
- For those of you interested in staying in Anchorage for a while and start or continue you college education, there are 2 universities sit next door to one another. 
- 
-
-## Destinations in Anchorage
-
-[DownTown](/northamerica/unitedstates/alaska/anchorage/downtown)
-[Tudor](/northamerica/unitedstates/alaska/anchorage/tudor)
-[Muldoon Area](/northamerica/unitedstates/alaska/anchorage/muldoonarea)
-[Dimond Area](/northamerica/unitedstates/alaska/anchorage/dimondarea)
-[Minnesota Area](/northamerica/unitedstates/alaska/anchorage/minnesotaarea)
+The real draw is what surrounds the city. Denali is accessible by Alaska Railroad. Kenai Fjords National Park is a train ride south to Seward. Portage Glacier and the town of Girdwood are an hour's drive. Most visitors pass through Anchorage en route to these places, and that's the right way to use it — as a comfortable base with good food and gear shops before heading into the backcountry.

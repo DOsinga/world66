@@ -3,6 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-To find your way around in Eindhoven you can choose between the bus, a (rental) car, or a taxi. The first option is probably the cheapest one which also solves your problem to find a place to park your car (this is rather expensive here, the prices are 0,50 cents per 12 minutes with a maximum of 6,- a day). The city-centre has about 20 car parks
+Eindhoven is flat, compact, and well-supplied with bike lanes. Renting a bicycle is the easiest way to get around, and OV-fiets bikes are available at the central station with an OV-chipkaart.
 
-Taxi's are the most expensive means of transport to get a taxi call (040) 2481199.
+Hermes runs the local bus network if you need to reach the outskirts. Parking in the centre is expensive (expect to pay around EUR 2.50 per hour, with about 20 car parks available). Taxis are pricey by Dutch standards.

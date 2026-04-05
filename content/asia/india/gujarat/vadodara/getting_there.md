@@ -1,20 +1,10 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-** By Rail: ** I have tried to give here the details for your most convinience, so that you can plan accordingly, but it will be Better to check the Exact ** Train Timmings and Details ** here. Vadodara and Baroda are the same Names used, almost everywhere, so dont get confused.
+**By Rail:** Vadodara (listed as both Vadodara and Baroda on timetables) is on the main Mumbai-Delhi railway line, making it one of the best-connected cities in Gujarat. Multiple daily trains run to Mumbai (5-7 hours), [Ahmedabad](/asia/india/gujarat/ahmedabad) (2 hours), and Delhi (12-15 hours). The Shatabdi Express from Mumbai is the fastest option.
 
-  Mumbai to Baroda ( Gujarat Express - 9011) Daily, Time: 5.45
+**By Air:** Vadodara airport has domestic flights to Delhi, Mumbai, Bangalore, and other major cities.
 
- Mumbai to Baroda ( Shatabdi Express - 2009) Except Friday, Time: 6.25
-
- Mumbai to Baroda ( Karnavati Express - 2933) Except Wednesday, Time: 13.40
-
- Mumbai to Baroda ( Saurashtra Express - 9215) Daily, Time: 7.55
-
- Bandra to Baroda (Sayajinagari Express - 2963) Daily, Time: 14.40
-
- Bandra to Baroda ( Bandra Bikaner Express - 4708) Daily, Time: 15.00
-
-  Last modified on 12th January, 2002.
+**By Road:** The Ahmedabad-Vadodara Expressway makes the 100 km journey from [Ahmedabad](/asia/india/gujarat/ahmedabad) quick and comfortable. Vadodara is also on the NH48 connecting Mumbai and Delhi.

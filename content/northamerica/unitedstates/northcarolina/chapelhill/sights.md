@@ -1,10 +1,10 @@
 ---
-title: "Sights"
+title: 'Sights in Chapel Hill'
 type: section
 ---
 
-There are few places more beautiful than Chapel Hill, especially in the Spring. When the chill has left the air, and the dogwoods are blooming, take a scenic walk on the campus of the nation's first public university. Afterwards, head to Franklin Street for dinner, then watch some Tarheel basketball at one of the bars.
+The **University of North Carolina campus** is the main attraction. Take a walk through the oldest quad, past the Old Well (the university's symbol), and through the Coker Arboretum. In spring, the dogwoods and azaleas make this one of the most beautiful college campuses in the country.
 
-If the basketball team is at home, tickets can usually be scalped in front of the Dean Smith Center. Non-ACC games can be purchased fairly cheaply, while ACC games may cost you quite a bit. If you are in town later in the year, try and catch a football game at Kenan Stadium. Tickets can almost always be purchased just outside the gates. Truly a great place to bask in the sun and enjoy a Saturday afternoon.
+**Franklin Street** runs along the edge of campus and is Chapel Hill's commercial heart -- shops, restaurants, bookstores, and bars packed into a walkable stretch. On game nights, it fills with crowds of blue-clad fans.
 
-Chapel Hill is truly a town built around the University, with everything within easy walking distance from campus. Visit the University of North Carolina website at www.unc.edu or the official athletic department website at www.tarheelblue.com.
+Chapel Hill is a town built around its university, and that is its charm. Everything is walkable, the pace is unhurried, and the combination of academic culture and Southern hospitality gives the place a distinctive character.

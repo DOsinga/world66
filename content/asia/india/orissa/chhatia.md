@@ -1,5 +1,5 @@
 ---
-title: "Chhatia"
+title: 'Chhatia'
 type: location
 latitude: 20.609969
 longitude: 86.062596

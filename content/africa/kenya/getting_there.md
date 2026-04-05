@@ -3,42 +3,28 @@ title: "Getting There"
 type: section
 ---
 
-Approximate flight times: 
+## By Air
 
+The main international gateway is **Jomo Kenyatta International Airport (NBO)** in Nairobi, 18km southeast of the city centre. It handles the bulk of long-haul arrivals from Europe, the Middle East, Asia, and North America. The airport has been repeatedly expanded and handles major carriers including Kenya Airways, Ethiopian Airlines, Emirates, Qatar Airways, Turkish Airlines, British Airways, and KLM.
 
+**Wilson Airport**, also in Nairobi, handles domestic and regional flights, including many bush flights to national parks.
 
-From Nairobi to *London* is 10 hours; to *New York *is 17 hours 40 minutes; to *Los Angeles* is 20 hours; to *Singapore* is 13 hours and to *Sydney* is 25 hours. 
+**Moi International Airport (MBA)** in Mombasa serves coastal visitors, with direct flights from Europe (mainly seasonal charters) and connections via Nairobi.
 
-International airports: 
+Typical flight times to Nairobi: London 8.5–9 hours; Dubai 4–5 hours; Amsterdam 9 hours; New York 15–16 hours (usually with a connection).
 
-*Nairobi (NBO) *(Jomo Kenyatta International) is 13km (8 miles) southeast of the city. A *Kenyan Bus Services* bus leaves every 20 minutes as does the *Kenyan Airways* bus (travel time – 40 minutes). Taxis are also available to the city. Airport facilities include an outgoing duty-free shop 24-hour bank/bureau de change post office (0800-1700 Monday to Friday) restaurant/bar and car hire. 
+**Kenya Airways** is the national carrier and flies direct from Nairobi to numerous African cities, London, Amsterdam, Paris, and other European hubs. It has a reasonable safety record and decent service.
 
-*Mombasa (MBA) *(Moi International) is 13km (8 miles) west of the city. There is a regular bus service by* Kenya Airways* to their city centre office in Mombasa (travel time – 20 minutes). Taxis are available. Airport facilities include an outgoing duty-free shop bank (0500-1400) restaurant/bar 24-hour tourist information and car hire. 
+## By Land
 
-Note 
+Kenya shares borders with Tanzania, Uganda, Ethiopia, South Sudan, and Somalia. Most overland travelers cross from **Tanzania** (at Namanga on the main Nairobi–Arusha highway, or Lunga Lunga on the coast) or from **Uganda** (at Malaba or Busia). The Tanzania crossings are well-travelled and straightforward; the Uganda crossings work but can be slow.
 
-Immigration procedures in Kenyan airports are likely to be extremely slow so it is advisable to arrive early. 
+The route from **Ethiopia** via Moyale is open and travelled, but the road conditions on the Ethiopian side are rough. This is a popular overland route for hardier travelers.
 
-Departure tax 
+Travel from **Somalia** or through the northeastern region of Kenya is not currently advisable due to security conditions. Check your government's latest travel advice.
 
-US$20. 
+## By Sea
 
-Sea/lake 
+A passenger/vehicle ferry runs between **Dar es Salaam** (Tanzania) and **Mombasa**, operated by Azam Marine and others. Journey time is around 18 hours overnight. This is a practical option if you are travelling the East African coast.
 
-Short-distance ships sail between Mombasa Dar-es-Salaam and Zanzibar. The ports in the Lake Victoria passenger service include Port Victoria/Kisumu Homa Bay and Mfangano. Passenger and cruise lines that run to Kenya are as follows: *TFC Tours Polish Ocean Hellenic Lines *(from the USA and Red Sea) *Moore/McCormack (USA) Lykes Lines *and* Norwegian American.* 
-
-Ferries in Lake Victoria connect Kisumu in Kenya to Mwanza Musoma and Bukoba in Tanzania. Fares are paid for in the port of embarkation currency. It is also possible to get ferries from Mombasa to Pemba and Zanzibar in Tanzania and also to Chiamboni in Somalia. Enquire locally for details. 
-
-Rail 
-
-There are currently train services to Uganda and Tanzania. 
-
-Road 
-
-Kenya can be entered by road from all neighbouring countries *although some routes may be inadvisable due to uncertain political conditions.* Check with the Foreign and Commonwealth Office if in doubt. Tel: (0171) 238 4503 (Travel Advice Line). 
-
-Travel from Somalia is generally via Liboi where a change of bus will be required. The route from Sudan is currently not recommended due to the civil war in the south. The main crossing points from Tanzania are at Namanga and Lunga Lunga with smaller posts at Isebania and Taveta. Some direct coach services operate. From Uganda there are crossing points at Malaba and Buisa. Note that at Malaba the Kenyan and Ugandan customs posts are about 1km (0.6 miles) apart and no transport between them is available. For all road frontier crossings it is advisable to contact the Kenya AA (PO Box 40087 Nairobi. Tel: (2) 720 341) prior to departure from country of origin for up-to-date information concerning insurance requirements and conditions. 
-
-Note 
-
-The FCO is currently advising travellers to avoid travelling overland through the northeastern province of Kenya; travellers are advised to contact the Travel Advice Line (see above) for up-to-date information. Four-wheel-drive vehicles are recommended for travel in this region.
+Local dhows still operate along the Swahili Coast between Mombasa, Lamu, and Zanzibar for the adventurous. Ask locally for schedules — there are no fixed timetables.

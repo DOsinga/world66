@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Hammamet"
+title: "Bars and Cafes"
 type: section
 ---
 

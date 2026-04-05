@@ -1,5 +1,5 @@
 ---
-title: "Budget Travel Ideas"
+title: 'Budget Travel Ideas'
 type: section
 ---
 

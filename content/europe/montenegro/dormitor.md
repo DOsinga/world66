@@ -1,24 +1,18 @@
 ---
-title: "Dormitor"
+title: "Durmitor National Park"
 type: location
+latitude: 43.1303
+longitude: 19.0144
 ---
 
-Travel Guide
+Durmitor is Montenegro's mountain showpiece — a high limestone plateau in the northwest of the country, declared a UNESCO World Heritage Site in 1980. The park has around 50 peaks over 2000 metres, 18 glacial lakes (the "mountain eyes"), and the Tara Canyon, which at 1300 metres deep is the deepest gorge in Europe.
 
-Dormitor National park located in the north of Montenegro.
+The main base is **Žabljak** (elevation 1450m), the highest town in the Balkans. It's a small, functional mountain town with hotels, restaurants, and equipment hire. The Black Lake (Crno jezero) is a short walk from town — a twin glacial lake in a pine forest below the main massif, very beautiful in morning light. Marked trails fan out from town into the park.
 
-Situated about 80km north of the capital, Dormitor national park is located in Montenegro's ski resort.
-There are a number of hotels in the area.
+**Rafting the Tara Canyon** is the most popular activity and rightly so. Day rafting trips typically cover the lower 18km of the gorge, where most of the rapids are. Trips run from April to October; full-day trips include lunch at a riverside camp. Several operators in Žabljak offer this; it can also be booked from the coast.
 
-Dormitor itself is an outstanding park traversed by the Drina river which seperates Montenegro from it's Balkan neighbour through the **Tara gorge**.
+**Hiking** ranges from half-day lake circuits to multi-day routes across the plateau. The Bobotov Kuk summit (2,523m) is the highest point in Montenegro and a strenuous but non-technical day hike. Take a map — trail marking is inconsistent in places.
 
-**Zabljak **is located near the entrance to the park. Here there is some soviet style accommodations and a number of cheap cafés.
+**Skiing** at Žabljak runs roughly December to March. The ski area is small and the facilities are basic compared to Western European resorts, but the setting is spectacular and prices are much cheaper.
 
-Once in the park, a good meal can be had at the restaurant housed in a log-hut overlooking the '*black-lake*'.
-
-There are many **lakes and walks **signposted.
-
-It's advisable to supply your own **map **unless you have a good knowledge of cyrillic, you may find yourself getting lost.
-There have been a number of deaths in the mountains due to adverse weather conditions.
-
-Make sure you bring your camera. The scenery is **second to none**, surpassing anything else available in Montenegro.
+Durmitor is about 160km from Podgorica (2.5–3 hours by road) and about 200km from the coast. The drive north from the coast is itself scenic, passing through the Tara Canyon on the Tara Bridge (one of the highest road bridges in Europe). A car is essential — public transport to Žabljak is limited. Bring warm layers even in summer; temperatures at altitude can drop sharply.

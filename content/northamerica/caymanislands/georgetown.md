@@ -1,4 +1,0 @@
----
-title: "Georgetown"
-type: location
----

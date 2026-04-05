@@ -3,41 +3,22 @@ title: "Top 5 Must Do's in Pune"
 type: section
 ---
 
-**Pune must do's** include places, museums, historical site and
-gardens. Pune is also called the "Queen of Deccan." It is an important
-center for education and research as well as being a significant
-military base. The variety of things to do means that there is
-something to keep everyone busy while visiting Pune.**
+**1. Eat misal pav for breakfast**
 
-Raja Dinkar Kelkar Museum**
+Pune's signature dish is misal pav -- a bowl of fiery sprouted lentil curry topped with crunchy farsan, chopped onion, and a squeeze of lime, scooped up with soft white bread rolls. Every Punekar has a strong opinion about where to get the best version. Bedekar Misal near Narayan Peth is the classic choice, with a spice level that builds steadily until your forehead is sweating. Katakir Misal in Sadashiv Peth is another contender. Go early; the best places sell out by late morning.
 
-This interesting museum can be found on Bajirao Road. The building is
-an example of Rajasthani architecture. Dr Dinkar G. Kelkar established
-the museum and helped make it into a note worthy place to visit. From
-1920 until 1960 Dr Dinkar collected items for the museum until the
-number of items exceeded 15,000. The museum was given to the Department
-of Archeology in 1962. In the 36 sections of the museum there are 2500
-items on display, including musical instruments and paintings. Among
-the exhibitions in the museum are Indian art, pottery and carved temple
-doors that are on display. There are also statues of religiously significant
-figures. At Raja Dinkar Kelkar Museum visitors can learn more about the
-history and culture of the surrounding area.
+**2. Trek to Sinhagad Fort**
 
-**Shaniwar Wada**
+The climb to Sinhagad is Pune's most beloved outdoor ritual. The fort sits on a cliff 25 km southwest of the city, and the path from the base village winds steeply through scrubby hillside before opening up to dramatic views of the plateau below. At the top, explore the ruined fortifications where Shivaji's general Tanaji Malusare lost his life retaking the fort, then sit down to a simple lunch of bhakri, pitla, and fresh buttermilk served by women from the nearby villages. The combination of history, exercise, and honest food makes this one of the most satisfying days you can spend in Maharashtra.
 
-Shaniwar Wada is a palace that was constructed by the Peshwas in 1736. It is located on Laxmi Road next to Deccan Gymkhana. Unfortunately this magnificent palace was damaged by a fire in 1827. This is still however an important historical site and visitors can see the old fortified wall, brass gates and lotus pool. Every evening there is a light and sound performance which illustrates the history of the Maratha empire.
-**
-Aga Khan Palace**
+**3. Wander through the Raja Dinkar Kelkar Museum**
 
-This magnificent palace boasts Italian arches and beautiful gardens. The palace has historical significance as during 1942 Mahatma Gandhi and Kasturba Gandhi were kept here. The palace was owned by Aga Khan but he donated it in memory of Mahatma Gandhi and Kasturba Gandhi. Inside the palace there are photographs on display and you can learn more about Mahatma Ghandi and the speeches that he made.
+This eccentric, wonderful museum on Bajirao Road houses a single man's forty-year obsession with collecting Indian artifacts. Dr. Dinkar Kelkar gathered over 15,000 objects -- carved doors, terracotta pottery, ivory combs, betel nut cutters, musical instruments, and the showpiece: a fully reconstructed room from Mastani Mahal, Bajirao Peshwa's palace for his beloved. The building itself is a Rajasthani-style townhouse. You could spend an hour or three here and still not see everything.
 
-**Bhimshankar Wildlife Sanctuary
+**4. Watch the Ganesh Chaturthi procession**
 
-**Bhimshankar Wildlife Sanctuary was founded in 1974. It stretches over 3 regions namely Pune, Raigad and Thane. The area has semi-evergreen forests and tropical forests.
+If you can time your visit for August or September, the Ganesh festival is Pune at its most exuberant. The city is credited with starting the public celebration of this festival in 1893, and the ten-day event builds to a spectacular finale when enormous painted clay idols are carried through the streets to the river for immersion. The drumming, dancing, and sheer energy of the crowds are unforgettable. The five Manache Ganpati processions follow a traditional route through the old city and continue through the night.
 
-**Bund Garden**
+**5. Explore the Pataleshwar Caves**
 
-Bund garden otherwise known as Mahatma Gandhi Udyan is situated near the Pune railway station. It was created by Sir Jamshedji Jeejeebhoy. The garden has good views over the surrounding region. Visitors to the park can enjoy boating on the river. Bird watching enthusiasts will enjoy the variety of birds in the area, including migratory birds. Jogging tracks are a good way to get some exercise and are also popular among locals.
-
-**Contributors**
-February 15, 2010
+In the middle of modern Shivajinagar, surrounded by apartment buildings and office towers, sits an eighth-century rock-cut Shiva temple carved from a single enormous boulder. The massive columns, Nandi bull, and Shiva shrine feel like they belong in the countryside near Ellora, not in a busy city neighborhood. The temple is still used by worshippers, and the contrast between the ancient stone and the modern city around it is one of Pune's most striking sights. Entry is free and it takes less than an hour to see, but the impression stays with you.

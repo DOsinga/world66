@@ -1,12 +1,12 @@
 ---
 title: "Georgia Aquarium"
 type: poi
-address: "225 Baker St, Atlanta, GA 30313"
+category: "Sight"
+address: "225 Baker St NW, Atlanta, GA 30313"
 phone: "(404) 581-4000"
 url: "www.georgiaaquarium.org"
-opening_hours: "Daily 9am–6pm (extended summer hours)"
-latitude: 33.763267
-longitude: -84.395117
+latitude: 33.7633
+longitude: -84.3951
 ---
 
-The world's largest aquarium, with over 8 million gallons of fresh and marine water and around 100,000 animals representing 500 species. Whale sharks and beluga whales are the headline attractions. Book tickets online well in advance — popular time slots sell out.
+One of the largest aquariums in the world, with over 8 million gallons of water housing some 100,000 animals across 500 species. The whale shark exhibit is the standout. Book tickets in advance — the aquarium regularly sells out popular time slots, especially on weekends. Allow two to four hours.

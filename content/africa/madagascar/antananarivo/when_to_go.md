@@ -1,11 +1,11 @@
 ---
-title: "When to Go in Antananarivo"
+title: "When to Go"
 type: section
 ---
 
 Following is an **Antananarivo when to go **guide that will help tourists decide the best time to visit this city.
 
-Due to its elevation of 1300 to 1400 meters (approximately 4265 feet) above sea level, Antananarivo has a temperate climate. According to the Koppen climate classification, this Moroccan city features a kind of subtropical highland climate, which makes Antananarivo much cooler than most of the other coastal regions in the country. It is important for tourists to understand that seasons here are the opposite of seasons in the United States or Europe, as Antananarivo falls in the southern hemisphere. This means that summer, the dry season, is from December to March, and the rainy season is from April to November.
+Due to its elevation of 1300 to 1400 meters (approximately 4265 feet) above sea level, Antananarivo has a temperate climate. According to the Koppen climate classification, this Malagasy capital features a kind of subtropical highland climate, which makes Antananarivo much cooler than most of the other coastal regions in the country. It is important for tourists to understand that seasons here are the opposite of seasons in the United States or Europe, as Antananarivo falls in the southern hemisphere. This means that summer, the dry season, is from December to March, and the rainy season is from April to November.
 
 **Dry Season
 

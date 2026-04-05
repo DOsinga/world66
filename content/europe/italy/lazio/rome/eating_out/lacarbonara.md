@@ -1,10 +1,10 @@
 ---
-title: "La Carbonara"
+title: 'La Carbonara'
 type: poi
-address: "Piazza Campo de' Fiori, 23"
-phone: "+39 06 6864783"
-latitude: 41.895588
-longitude: 12.472203
+address: 'Piazza Campo de'' Fiori, 23'
+phone: '+39 06 6864783'
+latitude: 41.8956
+longitude: 12.4722
 ---
 
-Traditional Roman restaurant on Campo de' Fiori, one of the liveliest squares in the historic centre. The location means prices are higher than off-pitch trattorias, but the food is authentic and the setting is hard to beat on a warm evening. Closed Tuesdays.
+One of the most traditional Roman restaurants, set on the evocative Campo de' Fiori square. The classic Roman dishes are well prepared and the outdoor seating in the square is a fine setting for dinner. Closed Tuesday.

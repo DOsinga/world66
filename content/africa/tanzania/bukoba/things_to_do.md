@@ -1,12 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Sporting Facilities**
-
-The Bukoba Club has tennis, snooker, table tennis and darts. Indians play cricket and Africans play football on the open grassy area near the Bukoba Club many afternoons.
-
-The Kaitaba Stadium hosts football matches and other events including concerts and the annual celebrations of Nane Nane (August 8, Farmers' Day).
-
-The Red Cross has a basketball court and the adjacent Nyumba ya Vijana has a volleyball net.
+Bukoba is not a major tourist destination but rewards time spent exploring at the lake's edge. The Kagera Museum near the lakeshore has a wildlife photography exhibition and traditional artefacts from the region. Musira Island is accessible by boat and has a small fishing village. The German colonial buildings near the Lake Hotel are a reminder of early 20th-century history. Nyamukazi fishing village is a 20-minute walk from the centre past the airport. The Bukoba Club has tennis, snooker, and other sports facilities open to visitors.

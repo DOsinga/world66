@@ -1,15 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
-address: "Vamhaz korut, 2 Budapest 1053"
-phone: "+36 1 267 0276"
 ---
 
-For Sale Bar
-
-[For Sale Bar
-
-A real find situated just over the bridge in front of the Gellert hotel (next to Burger King), this place is done out like a stable/wooden cabin, completely covered in Business cards/photo id's/drawings left by other's who have enjoyed its' simple but excellent services. Every table has a large bowl of Monkey nuts to enjoy with your reasonably priced beer (around HFL350 for a Staropramen)- a great place to go whilst your mates are being ripped off at the lappy 'round the corner!
-But that's not all, upstairs there is a fantastic little resaturant with to die for food, again at a reasonable price. The Goulash soup here is excellent and will keep you going for most of the day!
-
-Also has live music playing British covers most evenings we visited. more..](/europe/hungary/budapest/bars_and_cafes/for_sale_bar)
+Budapest has one of Europe's most distinctive drinking scenes. The famous ruin bars of the Jewish Quarter, built in the crumbling courtyards of abandoned apartment buildings, set the tone: cheap drinks, eclectic decor, and a relaxed crowd mixing locals with travelers. Beyond the ruin bars, the city has a deep coffeehouse tradition dating back to the Austro-Hungarian empire, with ornate cafe interiors that rival anything in Vienna. Craft beer, natural wine, and serious cocktail bars have all arrived in recent years, and prices remain well below what you would pay in most Western European capitals.

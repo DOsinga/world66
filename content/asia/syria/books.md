@@ -3,112 +3,26 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## Travel and history
 
-**Lonely Planet Jordan and Syria**
+**The Gates of Damascus** by Lieve Joris (1996) — A Belgian journalist's portrait of Damascus in the early 1990s, told through her friendship with a woman whose husband is a political prisoner. One of the best accounts of ordinary Syrian life, beautifully written.
 
+**From the Holy Mountain** by William Dalrymple (1997) — Dalrymple traces the journey of a 6th-century Byzantine monk through the Middle East and finds a world of Christian communities in decline. The Syria chapters, covering Damascus and Aleppo, are among the finest travel writing on the country.
 
+**Syria: The Fall of the House of Assad** by David Lesch (2012) — An American academic with unusual access to Bashar al-Assad charts the collapse of a regime. Essential modern history.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424272/ref=ase_osingacom?v=glance&s=books)
+**The Ancient Road: From Aleppo to Baghdad in the Days of the Ottoman Empire** by John S. Guest — An account of the old overland route through the heart of Syria and Iraq, with vivid historical detail.
 
-author: Damien Simonis,Hugh Finlay
+## Literature
 
-isbn: 0864424272
+**The Book of Saladin** by Tariq Ali (1998) — A novel about Saladin, told through the eyes of his Jewish secretary. Rich historical fiction set partly in Damascus.
 
-subject: travel
+**The Forty Days of Musa Dagh** by Franz Werfel (1933) — A novel about the Armenian resistance during the 1915 genocide, set along the Syrian coast. Harrowing and important.
 
-**Rough Guide to Syria**
+**No Knives in the Kitchens of This City** by Khaled Khalifa (2013, English translation 2016) — A Syrian novelist's account of a Damascus family across several decades of Ba'athist rule. One of the most important Syrian novels available in English.
 
+## On the civil war
 
+**The Morning They Came For Us** by Janine di Giovanni (2016) — A war correspondent's account of Syria during the worst years of the conflict. Unflinching reportage.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858283310/ref=ase_osingacom?v=glance&s=books)
-
-author: Andrew Beattie,Timothy Pepper,Paul Gray (Edit..
-
-isbn: 1858283310
-
-subject: travel
-
-**The Lonely Planet Gates of Damascus**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423683/ref=ase_osingacom?v=glance&s=books)
-
-author: Lieve Joris,Sam Garrett (Translator)
-
-isbn: 0864423683
-
-subject: travel
-
-**Culture Shock!:Syria**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558682430/ref=ase_osingacom?v=glance&s=books)
-
-author: Coleman South
-
-isbn: 1558682430
-
-subject: culture
-
-**The Ancient Road:From Aleppo to Baghdad in the Days of the Ottoman Empire**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0710305567/ref=ase_osingacom?v=glance&s=books)
-
-author: John S. Guest
-
-isbn: 0710305567
-
-subject: culture
-
-**The Forty Days of Musa Dagh**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0881846686/ref=ase_osingacom?v=glance&s=books)
-
-author: Franz Werfel
-
-isbn: 0881846686
-
-subject: history
-
-**Life and Loyalty:A Study in the Socio-Religious Culture of Syria and Mesopotamia in the Graeco-Roman Period Based o..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9004099964/ref=ase_osingacom?v=glance&s=books)
-
-author: Klaas Dijkstra
-
-isbn: 9004099964
-
-subject: culture
-
-**The Lonely Planet Gates of Damascus**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864423683/ref=ase_osingacom?v=glance&s=books)
-
-author: Lieve Joris,Sam Garrett (Translator)
-
-isbn: 0864423683
-
-subject: history
-
-**The Book of Saladin**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/the book of saladin/ref=ase_osingacom?v=glance&s=books)
-
-author: tariqali
-
-isbn: the book of saladin
-
-subject: history
+**Burning Country: Syrians in Revolution and War** by Robin Yassin-Kassab and Leila Al-Shami (2016) — The most thorough English-language account of the Syrian uprising, drawing on interviews with dozens of Syrians. Required reading for anyone who wants to understand what happened.

@@ -1,18 +1,18 @@
 ---
 title: "Visas"
-type: location
+type: section
 ---
 
-Visa upon arrival in Phnom Penh and Siem Reap
+Almost all nationalities require a visa to enter Cambodia. There are three straightforward options:
 
-  Visa fee: US$ 20 per Visa (Tourist Visa)
+**E-visa (recommended):** Apply online at [evisa.gov.kh](https://www.evisa.gov.kh/) before you travel. A single-entry tourist e-visa costs US$30 and allows a 30-day stay. Apply at least four days before arrival to allow processing time. The e-visa is accepted at Phnom Penh, Siem Reap, and Sihanoukville airports, and at most major land border crossings.
 
-  Processing Time: Approximately 10 - 20 minutes
+**Visa on Arrival:** Available at all three international airports and at major land border crossings. Bring one passport-sized photo and US$30 in cash. Processing takes around 15–20 minutes. The tourist visa (Type T) gives 30 days, single entry.
 
-  Requirements: 1 - Visa application form (to be obtained at the airport) 2 - One passport size photograph 3 - Valid passport 4 - US$ 20 in cash
+**E-Arrival Card:** From January 2025, all travelers arriving by air must complete a Cambodia e-Arrival Card online within seven days before arrival. This is separate from the visa — do not forget to complete it or you may face delays at the airport.
 
-  Procedure: The counter is located on the left hand side of the arrival hall. An immigration officer hands out the application form there. After filling in the form, the applicant should return the form to the counter official along with his passport and photograph. An official will call out the name of the applicant, once the visa is ready. The fee is paid upon collection of the passport and visa.  The visa covers one full page in the passport. 
+**ASEAN nationals** from Brunei, Indonesia, Laos, Malaysia, Philippines, Singapore, Thailand, and Vietnam enjoy visa-free entry for 14–30 days depending on the agreement.
 
- Validity of Visa: The visa is valid for four weeks of travel, within three months from date of issue and is single entry only. 
+Your passport must be valid for at least six months from your date of entry.
 
- General Information It is advisable not to keep copies of the application forms because they change regularly. When travelling to Cambodia overland, it is not possible to obtain a visa at the border posts. Travelers have to present their passport with a valid visa at the border. Obtaining visas for Cambodia is a simple and easy procedure at any Cambodian diplomatic service.
+Visa extensions are possible through guesthouses and travel agents in Phnom Penh and Siem Reap. A standard 30-day extension costs around US$45.

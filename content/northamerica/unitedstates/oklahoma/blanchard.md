@@ -1,10 +1,8 @@
 ---
-title: "Blanchard"
+title: 'Blanchard'
 type: location
-latitude: 40.579164
-longitude: -95.221706
+latitude: 35.138
+longitude: -97.656
 ---
 
-Travel Guide
-
-Singer Jeremy Castle is from Blanchard.
+Blanchard is a small city in McClain County, south of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity). Singer Jeremy Castle is from Blanchard.

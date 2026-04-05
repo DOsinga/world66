@@ -1,16 +1,16 @@
 ---
-title: "Kuwait city"
+title: "Kuwait City"
 type: location
 latitude: 29.379653
 longitude: 47.973417
 ---
 
-Kuwait City is the capital of Kuwait. Although it goes back a long time in history, the present day city is very modern. 
+Kuwait City is the capital and the only real city in Kuwait. It sits on the southern shore of Kuwait Bay, a modern skyline of glass towers rising from what was, just seventy years ago, a small walled town of mud-brick houses and pearl-diving dhows.
 
+The city was almost entirely rebuilt after oil wealth transformed the country in the 1950s and 1960s, and again after the devastation of the 1990 Iraqi invasion. Today it is a sprawling, car-dependent metropolis of wide boulevards, luxury shopping malls, and well-tended waterfront parks. The Kuwait Towers -- three blue-and-green striped spires on a promontory -- are the unmistakable symbol of the city.
 
+But Kuwait City is not all glass and concrete. The old **Souk Al-Mubarakiya** is a wonderfully atmospheric market where spice merchants and gold dealers operate much as they have for generations. The **Grand Mosque**, one of the largest in the world, offers free tours that provide a genuine introduction to Islamic practice. Along the waterfront, the **Seif Palace** with its gold-tiled roof and original Islamic mosaics hints at the city's pre-oil grandeur, though it suffered badly during the Iraqi occupation.
 
-Kuwait City is a bustling metropolis of high-rise office buildings, luxury hotels, wide boulevards and well-tended parks and gardens. Its seaport is used by oil tankers, cargo ships and many pleasure craft. Its most dominant landmark is Kuwait Towers, and its oldest is Seif Palace, built in 1896, whose interior features original Islamic mosaic tilework, though these suffered badly during the Iraqi occupation. 
+The restaurant scene is excellent and diverse. With alcohol banned, Kuwaitis pour their social energy into food, and Thursday nights see families crowding into restaurants across the city for elaborate dinners. The **Scientific Centre** in nearby [Salmiya](/asia/kuwait/salmiya) has the largest aquarium in the Middle East, and **Al Shaheed Park** offers a welcome stretch of greenery in an otherwise arid landscape.
 
-The Kuwait Museum was also stripped of many artefacts – part of it has been renovated and is now open to the public. Rebuilding work has still not begun on the Islamic Museum, which was badly hit during the war. 
-
-ISLAM
+Kuwait City is not a city that reveals itself quickly. Give it a few days, explore the souks on foot, eat at the local places rather than the hotel restaurants, and you will find a city with more character and warmth than its modern facade suggests.

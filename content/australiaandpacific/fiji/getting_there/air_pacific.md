@@ -1,22 +1,7 @@
 ---
-title: "Air Pacific"
+title: "Fiji Airways"
 type: poi
-type: "By Air"
-url: "www.airpacific.com"
+url: "www.fijiairways.com"
 ---
 
-Air Pacific is the official airline of Fiji. It flies into Suva and
-Nadi. Flights to Suva tend to be less frequent and more expensive.
-
-**Contributors**
-February 23, 2005
-
-June 16, 2005
-
-type: By Air
-
-
-
-
-
-url: [www.airpacific.com](http://www.airpacific.com/)
+The national carrier of Fiji, formerly known as Air Pacific. Flies direct to Nadi from Los Angeles, San Francisco, Honolulu, Sydney, Melbourne, Brisbane, Adelaide, and Auckland. Generally reliable, with generous baggage allowances on international routes.

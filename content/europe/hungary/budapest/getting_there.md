@@ -1,22 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-By Air: The international airport, Ferihegy, is a destination reachable from most major european airports. It's located some 25 kilometers from the town center. Hungarian national carrier is Malév. They are the main operators next to Lufthansa, Delta and Air Alitalia
+Budapest is well connected by air, rail, and road. Budapest Ferenc Liszt International Airport, about 25 kilometers southeast of the city center, receives flights from most major European cities and a handful of intercontinental routes. Budget carriers like Wizz Air and Ryanair keep prices competitive. The airport bus 100E runs directly to Deak Ferenc ter in the center for around 2,200 HUF, and taxis to the center cost roughly 8,000 to 10,000 HUF on a fixed tariff.
 
- The recently opened '2B' wing means a great improvement of passenger handling. The old Terminal 1 building is now used for cargo flights only.  By Train:  Budapest has three large international railway stations:
-
- Keleti pályaudvar (Eastern Station) which is the main terminus for international rail services from Western Europe
-
- Nyugati (Western Station) handles international traffic heading east to Romania and Slovakia, and is an sight in it’s own right. Déli is the third, station, at the southern end of the city.
-
-  Check out the Hungarian National Railways 
-
-For information on domestic services call: (36 1) 461-5500
-
- For information on international services call: (36 1) 461-5400
-
-  By Bus: The cheapest way to reach Budapest is probably hitching, but more reliable are the different international bus services.
-
- Most coaches arrive at the downtown Erzsébet tér bus station.  It’s recommended that you check-in at least one hour before departure and often baggage is limited to one suitcase plus hand luggage. More is very unpractical anyway. When arriving from Eastern European countries you probably end up at Nép Stadion.
+By train, Budapest Keleti station handles most international services from Western Europe, including direct connections from Vienna, Prague, Munich, and Zurich. Nyugati station serves routes heading east toward Romania and Slovakia. Rail travel from Vienna takes under three hours and is one of the most pleasant ways to arrive. International bus services, including FlixBus, arrive at Nepliget bus station in southern Pest.

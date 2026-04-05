@@ -1,12 +1,12 @@
 ---
-title: "Ceske budejovice"
+title: "České Budějovice"
 type: location
 latitude: 48.974736
 longitude: 14.474285
 ---
 
-We currently have no information about Ceske budejovice.
+České Budějovice is the regional capital of South Bohemia, best known internationally as the home of Budvar — Budweiser Budvar — one of Czech's most famous breweries and the source of a long-running trademark dispute with the American Anheuser-Busch. The Budvar brewery runs tours and has a good tap room on site.
 
-If you do know any general information about Ceske budejovice, please [Edit this article].
+The old town center is well preserved, built around a large main square (náměstí Přemysla Otakara II) that is one of the largest in the Czech Republic. The Black Tower (Černá věž) offers good views over the town and surrounding countryside.
 
-If you know any hotels in Ceske budejovice or restaurants in Ceske budejovice, please [[Add].](/destinations/addItemWizard?addwhere=europe/czechrepublic/ceskebudejovice)
+České Budějovice makes a useful base for exploring South Bohemia — [Český Krumlov](/europe/czechrepublic/ceskykrumlov) is 25 km to the south, Šumava national park is easily reachable, and several South Bohemian castles are within day-trip range.

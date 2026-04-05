@@ -5,10 +5,8 @@ latitude: 32.120017
 longitude: 20.081217
 ---
 
-Benghazi is the capital of the east of Libya, a part of the country that has more Middle-East atmosphere, whereas the West is a real Maghreb-country. 
+Benghazi is Libya's second city and the capital of the east. It has a different feel from Tripoli — more Middle Eastern in character, more conservative, with its own distinct commercial and political identity. The city sits on the Gulf of Sirte, about 1,000 km east of Tripoli.
 
-Located on the Gulf of Sidra Benghazi (pop. 650 000) is a pretty city filled with parks lakes and fewer ’70s-era concrete buildings than you’ll find in Tripoli. 
+The city played a pivotal role in the 2011 revolution, which began here, and in subsequent years was the scene of some of Libya's worst post-Gaddafi violence, including the 2012 attack on the US consulate and years of fighting between armed groups and the Libyan National Army. The security situation in Benghazi has been relatively calm since the LNA consolidated control around 2017-2019, but it remains tense and travel here requires careful preparation.
 
-The main sights in the city include the Al Muntazah Park, the Zoo, the Al Funduq Market and the large archaeological area. 
-
-The city also has nice beaches and an old-city section housing banks, government buildings, hotels and other commercial enterprises. Plan one day to see Benghazi. *420 mi/675 km west of Tripoli. *The nearby [Jebel Akhdar](/africa/libya/jebelakhdar) region is a good region for hikes but has been off limits for tourists, due to security problems.
+Benghazi has parks, a corniche, a market area, and an old city section, but the tourist infrastructure that existed before 2011 has largely disappeared. The nearby [Jebel Akhdar](/africa/libya/jebelakhdar) is the gateway to ancient Cyrenaica, with the Greek and Roman cities of Cyrene, Apollonia, and Tolmeitha within a few hours' drive — though access to these sites is subject to security conditions on the ground.

@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 4 583 379 (July 1998 est.)
+Nicaragua has a population of around 7 million. The majority are mestizo — of mixed Spanish and indigenous descent — with smaller populations of white Nicaraguans of European descent, Afro-Nicaraguans along the Caribbean coast, and indigenous groups including the Miskito, Sumo (Mayangna), and Rama peoples.
 
-**Age structure:**
+The Caribbean coast is culturally distinct from the Pacific side. Communities there have roots in British colonial history, the African slave trade, and indigenous traditions that predate Spanish contact. English creole is the everyday language in many coastal towns, and the region has a degree of formal autonomy under the two RAAN and RAAS regions.
 
-*0-14 years:* 44% (male 1 017 190; female 1 000 436)
+Spanish is the official language and the daily language of most Nicaraguans. The country has a strong oral and literary tradition — poet Rubén Darío, born in Metapa (now called Ciudad Darío), is considered one of the founders of modernismo and remains a point of national pride. His face appears on the 100-córdoba note.
 
-*15-64 years:* 53% (male 1 191 323; female 1 251 828)
+The population is young — around a third are under 15 — and largely concentrated in the Pacific lowlands around Managua, León, and Granada. Significant emigration to Costa Rica, the US, and Spain has been a feature of the past few decades, driven by economic hardship and, more recently, political instability.
 
-*65 years and over:* 3% (male 52 836; female 69 766) (July 1998 est.)
+Around 85% of Nicaraguans identify as Catholic, though evangelical Protestant churches have grown substantially since the 1980s. Religious observance is high, and Catholic feast days and Holy Week are taken seriously.
 
-**Population growth rate:** 2.92% (1998 est.)
-
-**Birth rate:** 36.04 births/1 000 population (1998 est.)
-
-**Death rate:** 5.8 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.09 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.04 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.95 male(s)/female
-
-*65 years and over:* 0.76 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 42.26 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 66.62 years
-
-*male:* 64.26 years
-
-*female:* 69.08 years (1998 est.)
-
-**Total fertility rate:** 4.28 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Nicaraguan(s)
-
-*adjective:* Nicaraguan
-
-**Ethnic groups:** mestizo (mixed Amerindian and white) 69% white 17% black 9% Amerindian 5%
-
-**Religions:** Roman Catholic 95% Protestant 5%
-
-**Languages:** Spanish (official)
-
-*note:* English- and Amerindian-speaking minorities on Atlantic coast
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 65.7%
-
-*male:* 64.6%
-
-*female:* 66.6% (1995 est.)
+Nicaragua ranks among the poorer countries in Central America by income, but social indicators including literacy and life expectancy have improved considerably since the 1970s. The country has a literacy rate of around 84%.

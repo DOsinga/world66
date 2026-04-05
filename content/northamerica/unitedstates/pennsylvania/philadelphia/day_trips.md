@@ -21,5 +21,3 @@ There are several places in Pennsylvania that are within easy driving distance o
 
 Likewise, the nation's capital is about two and half hours in the other direction. But history enthusiasts will love touring the Capital Building and the White House, not to mention the Smithsonian museums and the monuments scattered around the National Mall.
 
-**Contributors**
-August 26, 2009

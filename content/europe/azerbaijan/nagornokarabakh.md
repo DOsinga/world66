@@ -1,16 +1,20 @@
 ---
-title: "Nagorno-Karabakh"
+title: "Nagorno-Karabakh (Karabakh)"
 type: location
+latitude: 39.8
+longitude: 46.75
 ---
 
-Nagorno-Karabakh (Լեռնային Ղարաբաղ - Lernayin Gharabagh or Արցախ - Artsakh in Armenian, Dağliq Qarabağ in Azeri meaning mountainous black garden) is a region of Azerbaijan, in southern Caucasia, located about 270 km (about 170 mi) west of the Azerbaijani capital of Baku.
+Karabakh (known in Armenian as Artsakh, in Azerbaijani as Qarabağ) is a mountainous region of Azerbaijan that was the site of one of the post-Soviet era's most prolonged and destructive conflicts. The region was under the control of ethnic Armenian forces from the early 1990s until Azerbaijan reasserted full sovereignty in September 2023. The area — including the former separatist capital Khankendi (Stepanakert) and the historically and culturally significant city of [Shusha](/europe/azerbaijan/nagornokarabakh/shusha) — is now firmly under Azerbaijani administration.
 
-The region is predominantly ethnic Armenian, and is under Armenian military control. The local Armenian separatists declared independence from Azerbaijan on December, 1991 and declared the "Nagorno-Karabakh Republic" (NKR). The NKR's sovereign status is not recognized by any country in the world including Armenia. In 1994 a cease-fire was signed between Armenians and Azeris, which ended the military phase of the conflict started in 1988. As a result of the conflict Armenians remain in control of Nagorno-Karabakh and adjacent territories, which represent close to 20 percent of the territory of Azerbaijan
+The conflict left deep scars on both sides. Hundreds of thousands of Azerbaijani internally displaced persons are returning or being resettled. The Armenian population that lived in the region for decades departed almost entirely in the weeks following the Azerbaijani offensive.
 
-Since the cease fire it is possible to travel here but NK is still far from being a normal tourist destination. Capital Stepanakert/Khankendi and Shusha, populated predominantly by Azeris before the conflict, are the most important cities.
+**Shusha** (also spelled Shushi) is perched dramatically on a ridge at 1,400m in the Lesser Caucasus. It was historically considered the cultural capital of Azerbaijan — a centre of Azerbaijani classical music, poetry, and craftsmanship — and is now the focus of an intensive government restoration programme. The old city, heavily damaged during the conflict, is being rebuilt. Jidyr Düzü, a natural plateau outside the city walls, hosts an annual horse-racing and cultural festival.
 
-It is posible to travel the region but you must obtain a"visa" at its "embassy" in Yerevan. After arriving in Stepanakert/Khankendi you must register at the Police and you'll get a registration, a piece of paper with a list of towns you are allowed to travel. Fortunatela Armenian authorities treat you like you haven't left Armenia, so you can return to Armenia without a need to obtain another visa. Azeri authorities refuse entry into their country to anyone with evidence being in Nagorno-Karabakh. And NK representative office now issues visas only into passpot, no longer onto a special sheet of paper.
+**For travellers:** The Karabakh region is accessible, but requires advance planning. You must register your visit with Azerbaijani authorities; tourist information and entry procedures continue to evolve as reconstruction proceeds. Road infrastructure is being rebuilt and access to remote areas may require a permit. Check current requirements before travelling.
 
-## Destinations in Nagorno-Karabakh
+**Note on language:** Both "Nagorno-Karabakh" and "Karabakh" are used in this guide. The former is the internationally familiar name; the latter is preferred in Azerbaijan. "Artsakh" was the Armenian name for the self-declared republic, which no longer exists.
+
+## Destinations in Karabakh
 
 [Shusha](/europe/azerbaijan/nagornokarabakh/shusha)

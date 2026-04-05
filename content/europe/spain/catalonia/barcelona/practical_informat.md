@@ -1,40 +1,16 @@
 ---
-title: "Practical Things"
+title: 'Practical Information'
 type: section
 ---
 
-Although - or maybe because of the fact - Barcelona is a rich city, there are many poor people on the street begging for money, sometimes a bit agressive. Whenever you sit down on a place in a cafe, there will be someone making music and asking for money. Take care of your hand-luggage, there are pick-pockets, too.
+**Language.** Catalan and Spanish are both official languages. Street signs and metro announcements are in Catalan. Everyone speaks Spanish, and English is widely understood in tourist areas, hotels and restaurants. Learning a few words of Catalan (bon dia, gracies, si us plau) is appreciated.
 
-**Points of Interest**
+**Money.** Spain uses the euro. Credit cards are accepted almost everywhere, though some smaller bars and market stalls may be cash-only. ATMs are plentiful.
 
-**Tourist Attention**
+**Safety.** Barcelona is generally safe, but pickpocketing is a real problem, particularly on the Ramblas, in the metro, at the beach and around major tourist sights. Keep valuables out of sight, use a money belt, and watch your bags at outdoor cafes. If you are a victim of crime, the Tourist Attention office at Ramblas 43 is open 24 hours (tel: +34 93 317 7016).
 
-If you have been the victim of a crime, need medical or psychological help, or need temporary documents in the event of loss of the originals you can go to Tourist Attention at the Ramblas 43 which is open 24 hours. 
+**Health.** For emergencies call 112. Hospital Clinic (Villarroel 170, tel: +34 93 454 6000) is centrally located. Pharmacies are well stocked and pharmacists can advise on minor ailments.
 
-address: Ramblas 43
+**Prices.** Barcelona is the most expensive city in Spain, though still cheaper than Paris or London. A meal at a mid-range restaurant costs 15-25 euros per person. Coffee is 1.50-2.50 euros, a beer about the same. Budget travellers can get by on 50-80 euros a day with careful planning.
 
-tel: +34 93 317 7016
-
-**Hospital Clinic**
-
-Ambulance: Creu Roja, tel: 93/300-2020, Emergency doctors: tel: 061. 
-
-address: Villaroel 170
-
-tel: +34 93 454 6000/7000
-
-**Tourist Information**
-
-This is only one of the many tourist offices in Barcelona. Other departments are Palau de Congressos (Av. Maria Cristinas/n, open daily 10-8 during trade fares and congresses only), Ajuntament (Plaça Sant Jaume, open June 24-Sep.,Mon-Fri 9-8; Sat 8:30-2:30) and Palau de la Virreina (La Rambla 9 [more..](/europe/spain/catalonia/barcelona/practicalthings/touristinformation)
-
-address: Plaça de Catalunya
-
-tel: 906 30 12 82.
-
-**Main Police Station**
-
-National Police, tel: 091, Municipal Police, tel: 092 
-
-address: Creu Roja
-
-tel: +34 93 300 2020
+**Tourist information.** The main tourist office is at Placa de Catalunya. Other offices operate at the airport, Sants station, and various points around the old town.

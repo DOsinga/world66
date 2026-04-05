@@ -1,10 +1,8 @@
 ---
-title: "Sacred Heart"
+title: 'Sacred Heart'
 type: location
-latitude: 44.786903
-longitude: -95.351678
+latitude: 35.098
+longitude: -96.948
 ---
 
-Travel Guide
-
-Sacred Heart is a small community in Pottawatomie County, Oklahoma. Author Tony Hillerman (Navaho mysteries, detective novels, and non-fiction) is from Sacred Heart.
+Sacred Heart is a small community in Pottawatomie County. Author Tony Hillerman, known for his Navajo mystery novels, was from Sacred Heart.

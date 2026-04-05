@@ -1,11 +1,6 @@
 ---
-title: "Eating Out in Calbayog"
+title: Eating Out
 type: section
-address: "Purok 3 Brgy Matobato Calbayog City, Samar"
-email: "marcialsgrille_at_gmail.com"
-phone: "(055) 209-3637"
-type: "Local"
-url: "calbayogrestaurant.wordpress.com"
 ---
 
 **Calbayog restaurants** dot this first class city in the province of Samar, Philippines. With Calbayog&rsquo;s rich natural resources like agriculture, aquaculture, livestock and poultry, it is only befitting for this city to serve luscious and mouth watering delicacies. Do visit these restaurants when you are in Calbayog.

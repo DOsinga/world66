@@ -3,42 +3,22 @@ title: "Getting There"
 type: section
 ---
 
-Air
+**By Air**
 
-The national airline is *Royal Jordanian Airlines (RJ).* *British Airways *operate several flights a week from London to *Queen Alia International*. Other airlines serving Jordan include *Air France* *Alitalia* *Air Canada* *KLM * *Malaysia Airlines *and *Olympic Airlines*.
+Most visitors fly into Queen Alia International Airport (AMM), 32 km southeast of [Amman](/asia/jordan/amman). It is well-connected to Europe, the Gulf, and North America. Royal Jordanian is the national carrier, operating direct flights from London, Paris, Frankfurt, New York, and many other cities. Budget and regional carriers also serve Amman from European and Middle Eastern hubs.
 
-Approximate flight time:
+King Hussein International Airport (AQJ) in [Aqaba](/asia/jordan/aqaba) handles some regional and low-cost European flights, making it a useful entry point if you are heading straight to Petra or Wadi Rum.
 
-From* London* to Amman is 5 hours.
+From Queen Alia Airport, a public bus (Airport Express) runs to the 7th Circle area in Amman. Taxis are available from the arrivals hall; agree on a fare before getting in or insist on the meter.
 
-International airport:
+**By Land from Israel and the West Bank**
 
-*Queen Alia International (AMM)* is 32km (20 miles) southeast of the capital to which it is connected by a good highway (travel time approximately 40 minutes). There is a regular bus service (journey time approximately 50 minutes) and taxis are also available. 24-hour facilities include duty-free shops bank/bureau de change and eating and shopping facilities.
+Jordan shares three land crossings with Israel and the West Bank. The most convenient for most travelers is the King Hussein Bridge (Allenby Bridge), northeast of the Dead Sea — but be aware that visas are not issued here. You must have a visa arranged in advance. The other crossings — Sheikh Hussein/Jordan River in the north and Wadi Araba/Yitzhak Rabin near Aqaba — do issue visas on arrival.
 
-Departure tax
+**By Land from Other Neighbors**
 
-JD10 for individual tourists JD25 for Jordanian nationals on international departures. Transit passengers are exempt.
+The Ramtha-Jabir crossing leads to Syria, but the Syrian border situation has been volatile and the route should only be considered after careful research of current conditions. The Saudi border crossing at Aqaba is open for overland travel. There is no practical land route from Iraq for most travelers.
 
-Sea
+**By Sea**
 
-The only port is Aqaba which is on the cruise itineraries for *Swan Hellenic P&O* and *Cunard.*
-
-Sea tax
-
-JD6.
-
-Car and passenger ferries:
-
-Aqaba to Suez and Aqaba to Nueibe operate twice daily and also a high speed hydrofoil service. There is a weekly passenger service to Suez and Jeddah. Contact *Telestar Maritime Agency.*
-
-Rail
-
-No scheduled international services but there are tracks to Syria.
-
-Road
-
-Routes are via Syria and Turkey through Ramtha 115km (70 miles) north of Amman (driving time from Damascus is four hours plus up to three hours delay at the frontier). There is a shared taxi service from Amman to Damascus. Multiple-entry visas may be needed. A coach service runs from Damascus to Irbid or Amman. Public buses and coaches run from Amman to Damascus and Baghdad daily as well as to Allenby Bridge for the crossing to the occupied West Bank. To cross permission is required  apply to the Ministry of the Interior Amman. The granting of permission is usually routine but allow three full working days.
-
-Road tax
-
-JD4.
+Ferries connect [Aqaba](/asia/jordan/aqaba) to Nuweiba on the Sinai coast of Egypt. Both a slower car ferry (3-4 hours) and a faster passenger ferry (1 hour) operate on this route, though schedules are not always reliable. It is a useful connection if you are combining Jordan with Egypt.

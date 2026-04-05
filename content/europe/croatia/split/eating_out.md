@@ -1,22 +1,6 @@
 ---
-title: "Eating Out in Split"
+title: "Eating Out"
 type: section
 ---
 
-There surely are enough **Split restaurants** for every taste, so you will have no difficulties finding a suitable place to eat. Here are some of the better options.**
-**
-
-**No&scaron;tromo
-**
-
-Split is a sea town, and by tradition, every sea town should have its own great seafood restaurant. In Split, this is No&scaron;tromo. It is located on Kraj Svete Marije Street in the Old Town and is open everyday from 11 a.m. to 11 p.m. The restaurant has a warm casual atmosphere and pleasant interior, enriched with lovely paintings of famous Croatian artists. All meals are prepared by an award-winning chef. You can choose from a wide selection of refined wines to accompany the excellent fish specialties. No&scaron;tromo is especially suitable for an elegant dinner.
-
-**Galija
-**
-
-Galija, situated on Kamila TonÄiÄa Street near the fish market, is by no doubt the best pizzeria in Split. The place is small, but very comfortable. It is very popular among the local residents and frequently gets overcrowded. All pizzas in Galija are baked in a brick oven, which makes for their incredible taste. This is undoubtedly the right place to go if you&rsquo;re looking for a delicious lunch or dinner.
-
-**Makrovega
-**
-
-Located on Le&scaron;tina Street, Makrovega is the best place for vegetarians. Its eco-menu consists of a wide variety of veggie, vegan and macrobiotic soups, main dishes and salads, and a number of delicious home-made cakes. The interior is very soft and clean, and guarantees for a special experience.
+Dalmatian cooking is all about the sea and the olive tree: grilled fish, salted anchovies, octopus *peka* (slow-cooked under an iron bell), black risotto made with cuttlefish ink, *pašticada* (slow-braised beef in prune and wine sauce), and good olive oil from the surrounding hills. Look out for the local specialities **crni rižot** (black risotto) and **brudet** (a tomato-based fish stew). The streets inside Diocletian's palace are lined with restaurants — some of them tourist traps — but genuinely good places exist if you look: **Konoba Varoš** in the old town for classic Dalmatian home cooking, **Zinfandel** for something more modern, and **Kadena** on the waterfront for fresh fish with a view. For cheaper options, the *konobas* in Varoš and the bakeries around the Green Market do excellent cheap lunches: *burek*, grilled sardines, and sandwiches with air-dried Dalmatian ham (*pršut*).

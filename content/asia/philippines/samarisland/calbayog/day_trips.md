@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Calbayog"
+title: Day Trips
 type: section
 ---
 

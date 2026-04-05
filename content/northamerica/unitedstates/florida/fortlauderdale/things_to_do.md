@@ -1,10 +1,8 @@
 ---
-title: "Things to do in Fort Lauderdale"
+title: "Things to Do"
 type: section
 ---
 
-Fort Lauderdale Duck Tours
-One of the most favorite of Fort Lauderdale activities is the Fort Lauderdale Duck Tours. This ride on an amphibious vehicle is meant to please as it both rides through the waters and the roads of Fort Lauderdale. The guide is well informed and gives the visitor great historical information about the area as well as tantalizing anecdotes about the people and places it passes. While on board you will sail passed some of the largest and expensive of Florida’s mansions. Then on land, the tour takes the visitor down famous Las Olas Boulevard and other stops. It’s an adventure that will be remembered for many years.
+The two unmissable Fort Lauderdale experiences are both on the water. Jump on the **Water Taxi** — a regular hop-on, hop-off boat service that connects Las Olas, the beach, the cruise port, and the canals — and spend a couple of hours drifting past the mansions of "Millionaires' Row"; it is by far the best way to see the city. Then set aside a morning for **Hugh Taylor Birch State Park**, a sliver of hammock forest squeezed between the beach and the Intracoastal, where raccoons still outnumber joggers.
 
-**Contributors**
-May 27, 2009
+In town, the **Museum of Discovery and Science** on SW 2nd Street has a 50,000-gallon reef aquarium, an IMAX screen, and plenty of hands-on exhibits that make it a good rainy-day stop with children. The **Bonnet House Museum and Gardens** is a whimsical 1920s waterfront estate, a reminder of what the coast looked like before the high-rises arrived. For quieter pleasures, wander **Las Olas Boulevard** or take a **gondola ride** through the canals at sunset. And for an easy half-day out of the city, airboat tours into the **Everglades** leave from several operators along the 27 and Route 41.

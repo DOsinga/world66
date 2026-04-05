@@ -1,22 +1,14 @@
 ---
-title: "Getting Around in Alexandria"
+title: 'Getting Around'
 type: section
 ---
 
-**Alexandria transportation** is plentiful and for the most part very affordable. Whether you're traveling on a budget or with more luxury in mind, you'll find a form of Alexandria transportation that will suit both your wallet and your style. The main ways of getting around the city include taxi, tram, bus and limousine.
+Transport in Alexandria is plentiful and mostly affordable. The city stretches along the coast, so most journeys run east-west along the corniche.
 
-**Taxis**
+**Taxis** -- The black and yellow cabs are everywhere. Most drivers do not use meters, preferring an agreed fare, so ask a local what the going rate is between destinations before flagging one down. Always settle the price before you get in. Drivers are generally friendly but may try to steer you toward shops owned by friends and relatives.
 
-As you enter the city you're sure to notice the plethora of black and yellow cabs on the streets. When getting a cab, check first to see if they use meters. Many taxis don't have meters, but if you spot a meter in the cab then you can try to press the issue. However, most drivers prefer to use an agreed upon fare. The best thing to do is ask a local about the usual fare between places, and expect a bit of inflation for foreigners. Always agree on the fare before getting in the taxi. Drivers are friendly, but you'll occasionally find that they try to get you stop at the shops of friends and relatives.
+**Trams** -- Alexandria has one of the oldest tram systems in the world, and it is still a cheap and pleasant way to get around. Two lines cross the city: on the blue line, the middle car is women-only; on the yellow line, the first car is women-only. A ride costs 25 piastres. The trams are more comfortable than buses and usually less crowded.
 
-**Trams**
+**Buses** -- Cheap but typically packed. Buses cover more of the city than the trams, including more remote neighborhoods. Keep a close eye on your belongings.
 
-One of the oldest tram systems in the world runs in Alexandria. Transportation by tram is cheap and cheerful, with two lines running across the city. The blue line offers the middle car as women only, and the yellow line offers the first car as women only. Trips usually cost 25 piastres. The tram is reliable and less crowded than buses (though not always).
-
-**Buses**
-
-Buses in Alexandria are also cheap, but are usually packed full of locals. Buses stop at more locations, including more remote areas of the city. Be sure to watch your bags on any mode of public transportation.
-
-**Limousines**
-
-For those who favor luxury over price, you can hire a limousine to take you on a guided tour around the city. You'll get the benefit of a private car without haggling over prices. But be warned that the drivers are just as aggressive as taxi drivers when it comes to negotiating the roads.
+**Limousines** -- For a more comfortable option, you can hire a private car with driver for a day tour. The price is higher but you avoid the haggling, and the cars are air-conditioned. Be aware that the drivers negotiate Alexandria's traffic just as aggressively as the taxi drivers.

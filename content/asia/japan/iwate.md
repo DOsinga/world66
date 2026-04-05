@@ -5,14 +5,10 @@ latitude: 39.571376
 longitude: 141.425357
 ---
 
-Travel Guide
+Iwate is the second largest prefecture in Japan by area and one of the least densely populated, covering a large stretch of northern Honshu between the mountains and the Pacific coast. It sits at the heart of the [Tohoku](/asia/japan/tohoku) region.
 
-Iwate is prefecture abundant in natural surroundings from which history
-has unfolded and various cultures have been nurtured. This vast land,
-blessed with rich natural resources, was considered by Miyazawa Kenji
-to be a utopia, which he affectionately referred to as 'Ihatov.'
-Miyazawa praised Iwate as 'a place where anything is possible.' 'If
-people were able to soar above the icy clouds and drift with the great
-wind currents, then traveling north, they would find a place where it
-is possible to talk to the very ants scuttling beneath vast carpets of
-red flowers.'
+The city of Hiraizumi was one of the great cultural centers of 12th-century Japan, when it rivaled Kyoto in grandeur. The Chuson-ji temple complex here, with its Golden Hall (Konjikido), is a UNESCO World Heritage Site and one of the most significant historic sites in northern Japan.
+
+The coastal Sanriku area was devastated by the 2011 earthquake and tsunami, but has been substantially rebuilt. The Sanriku coast itself — rugged, with deep inlets and fishing villages — remains scenic and is accessible via the Sanriku Railway.
+
+The prefecture is associated with the writer and poet Kenji Miyazawa, who spent his life here and wrote about this landscape with enormous affection. His work is still widely read and celebrated across Japan.

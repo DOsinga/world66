@@ -1,19 +1,14 @@
 ---
-title: "When to Go in Philippines"
+title: "When to Go"
 type: section
 ---
 
-In the **Philippines, when to go** can be a crucial part of how your vacation plays out. There are 2 basic seasons in the Philippines, wet and dry, with typhoon season overlapping the wet season. Naturally, there are advantages and disadvantages to consider for both seasons. Here's a quick look at what you can expect:
+The Philippines has two broad seasons: dry (roughly November to May) and wet (June to October). The dry season is when most travelers visit, and for good reason — days are sunny, seas are calm, and island-hopping is straightforward. January through March is particularly pleasant, with temperatures in the mid-to-upper 20s°C and low humidity in most of the country. April and May are dry but hot, pushing toward 38°C in the lowlands.
 
-**Dry Season**
+Typhoon season runs from June through November, with peak intensity in July, August, and September. Typhoons can be severe — they regularly cause flooding, landslides, and flight cancellations across Luzon and the Visayas. That said, the wet season is not without appeal: prices drop significantly, resorts are quiet, and many days between storms are perfectly sunny. The central Visayas — [Cebu](/asia/philippines/cebu) and [Bohol](/asia/philippines/bohol) in particular — are relatively sheltered and remain diveable through much of the rainy season.
 
-For most of the Philippines, the dry season lasts from November to May, with January through May being the most popular times for tourists. The days are usually long and sunny, with humidity staying extremely low and cool breezes blowing through. Keep in mind that as the season progresses the temperature gets warmer, with May hovering around 40 degrees C. If you're going to be traveling around Easter, be sure to book several months in advance, as this is a peak tourist time. However, it can be worth the crowds to witness some of the Easter festivals. You may want to stay away from the extreme eastern side of the country, though, as they actually experience their wet season during the rest of the country's dry spell.
+Mindanao has a different rhythm: much of it receives rain year-round, with no clear dry season, though Davao City tends to be one of the most consistently sunny places in the country.
 
-**Wet Season**
+Divers should note that visibility and sea conditions are generally best from March through May, when the water is at its calmest. Whale shark season in Donsol runs from November through June; in Oslob, Cebu, the sharks are present year-round (though the practice of feeding them is controversial).
 
-From mid-May through October is the wet season in the Philippines, with June through November also being typhoon season. Days are usually hot and humid, with rainfall being common and harsh. The rain peaks between July and September, as typhoons that come near the Philippines unleash harsh winds and several days of downpours. Luzon and the Visayas are the 2 areas that get the most damage from typhoons, but they also experience a bit more dry weather than the rest of the country during this time. The best places to visit during the wet season, however, are the central islands-such as Bohol and Cebu-as they are sheltered from a lot of the rains. It's also worth noting that prices drop dramatically during the wet season, so you're sure to get good deals on hotels and airline tickets. Just be prepared for flight cancellations and scary drives through landslide-prone areas. Worth noting for divers is that it is still possible to get some dives in during the wet season.
-
-**Contributors**
-January 26, 2010
-
-January 22, 2010
+If you're timing a visit around festivals, January is excellent: [Sinulog](/asia/philippines/cebu) in Cebu and Ati-Atihan in Kalibo both fall in the third week of January. February brings Panagbenga (Flower Festival) in [Baguio](/asia/philippines/baguio). Book accommodation well in advance for festival weeks.

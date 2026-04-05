@@ -1,20 +1,28 @@
 ---
-title: "When to Go in India"
+title: "When to Go"
 type: section
 ---
 
-India is a vast country with several different climates, so knowing the weather prediction for when you are going can be difficult. If you plan to visit both the north and the south, you may experience different weather altogether, but generally the best time to visit is in the winter months from October to February.
+India is too large for a single answer. The north and the south have different monsoon patterns, and the mountains are governed by entirely different rules again.
 
-**Weather **
-During the winter, the weather is a bit cooler and many normally wet areas of the Northeast dry out and the hotter South India cools down as well. This is the best time to plan a trip to notable locations such as Delhi, Agra, or Varanasi, as well as to visit Goa or other parts of South India.
+## October to March: the main season
 
-The summer months of March to May in India can be very hot and humid. During this time, you can still have an enjoyable trip, however. Try visiting one of many hill stations to enjoy cooler weather and scenic beauty or go trekking in the Himalayas at this time.
+For most of India — and especially for the classic northern routes (Delhi, Agra, Rajasthan, Varanasi) — October to March is the best window. Temperatures are manageable, skies are mostly clear, and the countryside is green from the retreating monsoon. Peak season runs November to February; expect crowds at major sites and book trains in advance.
 
-The one time that should be avoided, if possible, is monsoon season. During this time extensive raining can cause some serious destruction and make it hard to enjoy your trip. Flooding can be a problem in Kerala because monsoons begin at the end of May, travel north and abate by September, cutting off communications, causing landslides and stopping all travel during this time period. If you are traveling to Andhra Pradesh or Tamil Nadu, be aware they receive a second rainy period between October and December.
+December and January bring cold nights in the north — Rajasthan nights can drop below 10°C — though days remain warm. The south stays pleasant year-round.
 
-**Events **
-If possible, you should work to plan your trip to India around a celebration of event. During the high travel season from October to February, there are many opportunities for experiencing some great Indian culture with many festivals and celebrations. During October and November is Dussehra, Diwali and Durga Puja, as well as the infamous Pushkar Fair in Rajasthan.
+## April and May: summer
 
-In January, you can experience the Republic Day of India and Lohri, a traditional festival for the Punjabis. March brings the festival Holi, the festival of colors, where people line the street to douse others in colorful ink.
+Brutal in the plains. Delhi in May can hit 45°C. Not impossible, but uncomfortable. The hill stations — Shimla, Manali, Darjeeling, Ooty — come into their own; everyone from Delhi and Mumbai heads there to escape the heat. This is also a good time for Himalayan treks before the monsoon arrives.
 
-If you plan on visiting India during a festival time, it is a good idea to do some research on the festival, as some serious crowding and noise may be overwhelming for some visitors. However, if you are up for it, seeing India during a festival is one of the best ways to experience this country so rich in many different cultures and traditions.
+## June to September: monsoon
+
+The southwest monsoon arrives in Kerala around June, sweeps north, and covers most of the country by July. Flooding, landslides, and suspended communications affect the northeast and mountain regions seriously. Goa in monsoon is grey and wet; the famous beaches turn rough. However, the landscape turns dramatically green, prices drop, and tourists thin out significantly.
+
+The northeast — Meghalaya, Assam, Sikkim — receives some of the heaviest rainfall on earth during monsoon season. Travel there is limited.
+
+Andhra Pradesh and Tamil Nadu receive a second rainy season from October to December via the northeast monsoon. Timing a visit to those states accordingly helps.
+
+## Festivals
+
+If you can, plan around a major festival. Diwali (October/November) fills cities with lights and firecrackers. Holi (March) is exuberant and messy and extraordinary in cities like Mathura and Vrindavan. The Pushkar Camel Fair (November) in Rajasthan draws traders and pilgrims from across India. Durga Puja (October) transforms Kolkata into an open-air art gallery and celebration unlike anything else.

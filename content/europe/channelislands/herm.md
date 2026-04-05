@@ -1,10 +1,12 @@
 ---
 title: "Herm"
 type: location
+latitude: 49.4700
+longitude: -2.4580
 ---
 
-Herm Island is 3 miles from the coast of [Guernsey](/europe/channelislands/guernsey). It's a small islands: just a mile and a half long and half a mile wide.
+Herm is tiny — a mile and a half long and half a mile wide — and entirely car-free. It sits three miles east of St Peter Port, Guernsey, and the fast catamaran crossing takes about 20 minutes. Around 60 people live here year-round; in summer day-trippers arrive to walk the clifftop paths, swim off Shell Beach on the north end, and eat at the island's single pub.
 
-There are no cars, no crowds and definitely no stress. It's a quiet place and a good place to visit if you want to relax.
+There are no crowds in any meaningful sense. The island is privately leased from the States of Guernsey and managed as a single estate. Accommodation options are limited to one hotel, some self-catering cottages, and a campsite. There is a small shop and a church. That is more or less everything.
 
-The best way to get to Herm Island is by catamaran ferry from St Peter Port, Guernsey. The trip to the island takes just 20 minutes and boats run 364 days each year. Visitors staying on Herm Island are able to visit the Island of [Sark](/europe/channelislands/sark) on a regular inter island boat service, the journey taking just 20 minutes. There are regular air and sea connections from Guernsey for anyone wanting to visit [Jersey](/europe/channelislands/jersey) or [Alderney](/europe/channelislands/alderney) the other British Channel Islands.
+Shell Beach itself is worth the trip — the beach is composed almost entirely of broken shells carried in by the Atlantic rather than sand, and the water in summer is clear and relatively warm. The southern cliffs offer views across to Sark. If you are based in Guernsey and looking for a quiet half-day, Herm is an easy and rewarding excursion.

@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-Lido di Jesolo is primarily a beach resort and it doesn't pretend otherwise. The 15-kilometre stretch of Adriatic sand is the main draw. Beyond the beach, Aqualandia is a large water park that keeps families occupied for a full day. The old town of Jesolo, a few kilometres inland, has the ruins of an early Christian basilica worth a short visit. Venice is 40 minutes away by bus, making Jesolo a reasonable and significantly cheaper base for lagoon visits.
+The beach is the main activity in Lido di Jesolo. Beyond it, a circuit of beach clubs and sporting facilities lines the waterfront — waterskiing, kitesurfing, and volleyball are all on offer in summer. The annual sand sculpture exhibition (usually June–September) is a well-regarded event, with large-scale works created by international artists along the beach. The best cultural activity is the day trip to [Venice](/europe/italy/veneto/venice), 40 minutes away.

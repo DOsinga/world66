@@ -1,10 +1,6 @@
 ---
-title: "Getting Around"
+title: 'Getting Around'
 type: section
 ---
 
-Sydney has a very good and functional mass transportation system ranging from ferries and buses to trains. Taxies are easily found everywhere and they are not very expensive, while not the most economical way of getting around.
-
-Sydney CityRail
-
-Found at http://www.cityrail.nsw.gov.au/, you can check out the extensive railway network. It is probably the easiest and most economical way of getting around, but you should notice that some extra charges apply for the airport stations and a few other ones.
+Sydney has an extensive public transport network of trains, buses, ferries and light rail, all accessible with a single Opal card. The train network covers the main suburbs and is the fastest way to get between the CBD, the airport and the inner west. Ferries are a pleasure in themselves -- the ride from Circular Quay to Manly is one of the great urban journeys. Buses fill the gaps, particularly to the eastern beaches. Taxis and rideshares are readily available.

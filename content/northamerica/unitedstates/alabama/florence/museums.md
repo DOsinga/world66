@@ -1,52 +1,14 @@
 ---
-title: "Museums"
+title: 'Museums'
 type: section
-address: "620 West College Street, Florence, Al  35630"
-email: "bbroach@florenceal.org"
-opening_hours: "10am-4pm Tues. - Sat."
-phone: "(256) 760-6379"
-url: "www.florenceal.org"
 ---
 
-The Florence Museums System consists of five separate properties. A wide scope of diversity exists naturally in the Florence museums. The City of Florence operates, funds and governs the five museums.
+Florence operates a system of five museums that together cover an impressive range of history and culture.
 
-**Contributors**
-October 13, 2005
+**W.C. Handy Home, Museum and Library** (620 West College Street) -- The restored log cabin where the "Father of the Blues" grew up. The museum houses his trumpet, the piano on which he composed "St. Louis Blues" and "Memphis Blues," and a collection of memorabilia and original manuscripts. Open Tuesday through Saturday, 10am-4pm.
 
-### [W. C. Handy Home, Museum & Library](/northamerica/unitedstates/alabama/florence/museums/w_c_handy_home)
+**Kennedy-Douglass Center for the Arts** (217 E. Tuscaloosa Street) -- Two adjacent historic houses connected by a walkway, serving as the hub for Florence's arts community. The center hosts rotating art exhibitions, meetings of the Shoals Artist Guild, and functions as the administrative center for the museum system and major festivals. Open Monday through Friday, 9am-4pm.
 
-This restored log cabin was the boyhood home of the famous composer known as the "Father of the Blues." The museum houses a lifetime of memorabilia including his trumpet and the piano on which many of his songs were written, such as "St. Louis Blues" and "Memphis Blues." The museum provides scheduled care for the artifacts associated with the Handy family and William Christopher Handy; and it provides exhibits, educational programs, and research activities about Mr. Handy's life. The museum plays an important part in the annual W.C. Handy Music Festival. It [more..](/northamerica/unitedstates/alabama/florence/museums/w_c_handy_home)
+**Florence Indian Mound Museum** -- Located near the Tennessee River at the end of South Court Street, the mound is the largest domiciliary mound in the Tennessee Valley. It may be over a thousand years old, predating the Cherokee, Chickasaw, and Creek peoples. Open Tuesday through Saturday, 10am-4pm.
 
-
-
-[[rate it]](/northamerica/unitedstates/alabama/florence/museums/w_c_handy_home)
-
-tel: (256) 760-6379
-
-openingHours: 10am-4pm Tues. - Sat.
-
-url: [www.florenceal.org](http://www.florenceal.org/cultural/artsandmuseums.html)
-
-address: 620 West College Street, Florence, Al 35630
-
-email: bbroach@florenceal.org
-
-### [The Kennedy-Douglass Center for the Arts](/northamerica/unitedstates/alabama/florence/museums/the_kennedydougla)
-
-The Kennedy-Douglass Center for the Arts houses the administrative office for the Florence museum system and functions as a center for cultural activities including the Kennedy-Douglass volunteers meetings, the Shoals Artist Guild meetings, Arts Alive administration and activities, W.C. Handy Festival activities, and much more. The center also houses a permanent exhibit of historical artifacts and memorabilia, and offers a variety of traveling art exhibitions.
-
-The center consists of two adjacent houses with an added walkway connecting them, and a carriage house to [more..](/northamerica/unitedstates/alabama/florence/museums/the_kennedydougla)
-
-
-
-accessibility: ramps provided
-
-tel: 256-760-6379
-
-openingHours: Monday-Friday 9 a.m.-4 p.m.
-
-url: [www.kennedydouglasscenter.org](http://www.kennedydouglasscenter.org)
-
-address: 217 E. Tuscaloosa Street, Florence, AL 35630
-
-email: bbroach@florenceal.org
+**Pope's Tavern** (203 Hermitage Drive) -- One of the oldest structures in Florence, originally a stagecoach stop, tavern, and inn. During the Civil War it served as a hospital for both Union and Confederate wounded. Open Tuesday through Saturday, 10am-4pm.

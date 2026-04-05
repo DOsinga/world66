@@ -1,16 +1,24 @@
 ---
-title: "Visa information"
-type: location
+title: "Visa Information"
+type: section
 ---
 
-**Getting In**: Citizens of the United States, Canada and most western European and Latin America nations do not need visas to enter Costa Rica. U.S. citizens planning to stay fewer than 90 days can also enter the country with a phone ID and a copy of their birth certificate, and a tourist card that can be obtained from their airline when they depart the United States.
+## Entry requirements
 
-Citizens holding valid passports from the following country's are permitted to stay in Costa Rica for 90 days without a visa:
+Most nationalities do not need a visa to enter Costa Rica as a tourist. Citizens of the United States, Canada, the United Kingdom, all EU countries, Australia, New Zealand, Japan, and most of Latin America can enter with a valid passport and stay up to 90 days (some nationalities up to 180 days). Your passport should have at least six months' validity remaining.
 
- Argentina, Holland and dependencies, Norway, South Korea, Austria, Hungary, Panama, Spain, Belgium, Israel Paraguay, Sweden, Canada, Italy, Poland, Switzerland,  Denmark, Japan, Portugal, United Kingdom, Finland, Liechtenstein, Puerto Rico, United States of America,  Germany, Luxembourg, Romania, Uruguay. 
+All visitors must show proof of onward or return travel at the border. You will also need to show sufficient funds — technically $100 per month of intended stay, though this is rarely checked strictly.
 
- Citizens holding valid passports from the following country's are allowed to stay in Costa Rica for 30 days without a visa, though once in the country, they can solicit a "Prórroga de Turismo" from the Immigration office (Migración), which allows them to stay a total of 90 days:
+## Overstays
 
- Albania, Colombia, Jamaica, San Marino,  Antigua & Barbuda, Czech, Kenya, St. Lucia,  Australia, Republic Dominica, Kuwait, St. Vincent, Saudi, Bahamas, El Salvador, Mexico, Arabia,  Bahrain, France and dependencies, Monaco, Singapore,  Barbados, Grenada, New Zealand, Slovakia,  Belize, Guatemala, Oman, Suriname, Bolivia, Guyana, Philippines, Taiwan, Bulgaria, Honduras, Qatar, Trinidad & Tobago, Chile, Iceland, San Cristobal, United Arab Emirates, Vatican, Venezuela. 
+Overstaying your permitted time results in fines starting at around $100 per month, and can lead to deportation or a bar on future entry. The fine must generally be paid before you leave the country.
 
- Citizens of all country's not listed above must obtain a visa from a Costa Rican embassy or consulate before travelling there.
+## Extending your stay
+
+Tourist stays can sometimes be extended at the immigration office (Dirección General de Migración y Extranjería) in San José, but it is bureaucratic and slow. The traditional approach — leaving and re-entering across the Nicaraguan or Panamanian border to reset the clock — is commonly done but is now treated with more scrutiny. Costa Rican immigration can refuse re-entry if they believe you are living in the country on a tourist visa.
+
+## Vaccination requirements
+
+If you are arriving from certain countries with yellow fever (particularly in sub-Saharan Africa and parts of South America), a yellow fever vaccination certificate is required for entry. Check the current list with a travel clinic or the Costa Rican embassy before departure.
+
+For the most current visa rules, consult the Costa Rican immigration authority (DGME) or your country's embassy.

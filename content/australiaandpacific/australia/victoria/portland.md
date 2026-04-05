@@ -1,12 +1,10 @@
 ---
-title: "Portland"
+title: 'Portland'
 type: location
-latitude: -38.345623
-longitude: 141.60423
+latitude: -38.3456
+longitude: 141.6042
 ---
 
-Portland was founded in the 1830's, which makes it the oldest town in Victoria. It once was a base for whaling, but now the town thrives on the aluminium production. It still has over 200 well maintained heritage buildings, giving the town a pleasant old feel. You can visit a few museums on Portlands history, and learn about the early settling days.
+Founded in the 1830s, Portland is the oldest town in Victoria. It started as a whaling station and now thrives on aluminium production, but the town's character comes from its 200-plus well-maintained heritage buildings that give the streets a pleasant old-world feel.
 
-
- 
- Talk a walk around the still thriving harbour and smell the sea. The harbour is also a great place for recreational fishing. Most areas of the port are accesible to recreational fishermen, including the Lee Breakwater wharf, that stretches into open water for 1 km. The industrial areas are not open to the public because of the heavy traffic and custom regulations, but guided tours are available.
+Take a walk around the harbour and breathe in the sea air. Most of the port is open to recreational fishing, including the Lee Breakwater wharf, which stretches a kilometre into open water. Several small museums cover Portland's whaling and early settlement history.

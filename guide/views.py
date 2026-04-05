@@ -1,14 +1,17 @@
 import json
+import sqlite3
 from functools import lru_cache
 from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import Http404
+from django.http import Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page
+from .models import load_page, load_tag_index
+
+SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
 @lru_cache(maxsize=1)
@@ -53,6 +56,11 @@ def location_or_section(request, path):
     if page.page_type == "section":
         pois = page.pois()
 
+    # Collect distinct categories from POIs (for filter UI)
+    poi_categories = []
+    if page.page_type == "section" and pois:
+        poi_categories = sorted(set(p.category for p in pois if p.category))
+
     # Map context — validate lat/lng as floats
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
@@ -79,15 +87,78 @@ def location_or_section(request, path):
         "continent_slug": continent_slug,
         "is_continent": is_continent,
         "markers_json": mark_safe(json.dumps(markers)),
+        "tags": page.tags,
+        "is_poi": page.page_type == "poi",
+        "poi_categories": poi_categories,
     })
 
 
-def _marker_from_page(page):
+def search(request):
+    query = request.GET.get("q", "").strip()
+    has_db = SEARCH_DB.is_file()
+    return render(request, "guide/search.html", {
+        "query": query,
+        "has_db": has_db,
+    })
+
+
+def search_api(request):
+    query = request.GET.get("q", "").strip()
+    if not query or not SEARCH_DB.is_file():
+        return JsonResponse({"results": []})
+
+    conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+    conn.row_factory = sqlite3.Row
+    try:
+        # Split into words, quote each, add * to last for prefix matching
+        # "berlin cycling" → "berlin" "cycling"*
+        words = query.split()
+        parts = ['"' + w.replace('"', '""') + '"' for w in words[:-1]]
+        parts.append('"' + words[-1].replace('"', '""') + '"*')
+        fts_query = " ".join(parts)
+        rows = conn.execute(
+            """SELECT title, url_path, page_type, location
+               FROM docs
+               WHERE docs MATCH ?
+               ORDER BY
+                   CASE WHEN lower(title) = lower(?) THEN 0
+                        WHEN lower(title) LIKE (lower(?) || '%') THEN 1
+                        ELSE 2
+                   END,
+                   rank
+               LIMIT 30""",
+            (fts_query, query, query),
+        ).fetchall()
+        results = [
+            {"title": row["title"], "url": "/" + row["url_path"],
+             "page_type": row["page_type"], "location": row["location"] or ""}
+            for row in rows
+        ]
+    except sqlite3.OperationalError:
+        results = []
+    finally:
+        conn.close()
+
+    return JsonResponse({"results": results})
+
+
+def tag_index(request, tag):
+    index = load_tag_index()
+    pages = index.get(tag, [])
+    if not pages and tag not in index:
+        raise Http404
+    return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
+
+
+_SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks", "things_to_do"}
+
+
+def _marker_from_page(page, highlight=False):
     """Extract a map marker dict from a page, or None if no coords."""
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
     if lat is not None and lng is not None:
-        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url()}
+        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url(), "highlight": highlight}
     return None
 
 
@@ -97,6 +168,7 @@ def _collect_markers(page, sections, locations, pois):
     For locations: markers come from child locations (cities in a country).
     For sections: markers come from POIs.
     Also gathers POIs from all sections (including their subdirectories).
+    Sights-section POIs are flagged highlight=True.
     """
     markers = []
     seen = set()
@@ -114,10 +186,37 @@ def _collect_markers(page, sections, locations, pois):
 
     # Gather POIs from inside each section's subdirectory
     for section in sections:
+        is_sight = section.slug in _SIGHT_SLUGS
         for poi in section.pois():
-            add(_marker_from_page(poi))
+            add(_marker_from_page(poi, highlight=is_sight))
 
     return markers
+
+
+def _image_path(page):
+    """Build the content-relative path to a page's hero image."""
+    image = page.meta.get('image', '')
+    if not image:
+        return None
+    # Check both possible locations for the image file
+    for candidate in [
+        f'{page.path}/{image}',                                          # inside directory
+        f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,  # next to .md
+    ]:
+        if (CONTENT_DIR / candidate).is_file():
+            return candidate
+    return None
+
+
+def content_image(request, path):
+    """Serve an image file from the content directory."""
+    file_path = (CONTENT_DIR / path).resolve()
+    if not file_path.is_relative_to(CONTENT_DIR.resolve()):
+        raise Http404
+    if not file_path.is_file() or file_path.suffix.lower() not in ('.jpg', '.jpeg', '.png', '.webp'):
+        raise Http404
+    return FileResponse(open(file_path, 'rb'))
+
 
 
 def _safe_float(value):

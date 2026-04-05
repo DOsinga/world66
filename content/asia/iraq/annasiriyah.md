@@ -1,15 +1,12 @@
 ---
-title: "An nasiriyah"
+title: "An Nasiriyah"
 type: location
 latitude: 31.043996
 longitude: 46.239939
 ---
 
-Located in Southeast Iraq, on the Euphrates River, an Nasariyah is a provincial capital andthe center of a date-growing region. Founded in 1870, the city was captured by the British in 1915.
+An Nasiriyah is the capital of Dhi Qar Governorate in southeastern Iraq, on the Euphrates River. Founded in 1870, it is a provincial city of around 800,000 people and the main gateway for visiting the nearby ruins of [Ur](/asia/iraq/ur), one of the oldest cities in the world.
 
+The city itself is a working Iraqi provincial town with little specific to recommend it to travelers, but it is a necessary stop on any southern archaeological itinerary.
 
- 
- The main reason to visit is because the city is a good base for visiting the nearby ruins of [Ur](/asia/iraq/ur). 
-
-
- East of Nasariyah the marshes begin. Made famous by "the Marsh Arabs" of Wilfred Thesiger, the area is now in pretty bad shape and the main reason to visit is probably best described as "Eco-disaster tourism". Government water control projects have drained most of the inhabited marsh areas by drying up or diverting the feeder streams and rivers; a once sizable population of Shi'a Muslims, who have inhabited these areas for thousands of years has been displaced.
+To the east of Nasiriyah begin the Mesopotamian marshes — one of the largest wetland systems in the world and home to the Marsh Arabs (Madan), who have lived here in reed houses on artificial floating islands for thousands of years. Saddam Hussein deliberately drained most of the marshes in the early 1990s as a measure of collective punishment against Shia communities who had rebelled after the Gulf War. After 2003, water was restored and large portions of the marsh have recovered. The area now has UNESCO World Heritage status, shared with the surrounding ancient cities. Boat trips through the marshes can be arranged in Nasiriyah.

@@ -1,25 +1,29 @@
 ---
 title: "Papua New Guinea"
 type: location
-latitude: -5.681607
-longitude: 144.248908
+latitude: -6.314993
+longitude: 143.955550
+image: papuanewguinea.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Kokoda_airstrip_2008.jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/photos/32005048@N06">W. Chapman</a> from Australia'
 ---
 
-Travel Guide
+Papua New Guinea is one of the most linguistically and culturally diverse countries on earth. More than 800 languages are spoken here — roughly a tenth of all the world's languages — in a country of fewer than ten million people. Much of the interior remains accessible only by small plane or on foot, and there are communities in the highlands that had no contact with the outside world until the 1930s.
 
-We currently have no information about Papua New Guinea.
+This is not a destination for travelers who want smooth roads and easy logistics. Infrastructure is poor, crime is a genuine concern in Port Moresby and other cities, and tribal violence continues to flare in parts of the Highlands. Medical facilities are limited; if you are seriously ill, you will need evacuation to Australia. Go in knowing this and you will be fine. Many travelers who make the effort to get here come back saying it was the most vivid place they have ever visited.
 
-If you do know any general information about Papua New Guinea, please [Edit this article].
+The rewards are real. The coral reefs off Milne Bay and around New Britain rank among the best diving in the world, full of WWII wrecks, pristine walls, and extraordinary marine life. The Highlands produce some of the finest Arabica coffee you will ever taste and host spectacular sing-sing festivals where hundreds of clans dress in feathers, shells, and body paint and come together to dance. The Sepik River, brown and slow and enormous, is lined with villages where master carvers produce some of the Pacific's most celebrated art.
 
-If you know any hotels in Papua New Guinea or restaurants in Papua New Guinea, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/papuanewguinea)
+The country occupies the eastern half of the island of New Guinea and includes hundreds of offshore islands, among them New Britain, New Ireland, Bougainville, and the Trobriand Islands. The Highlands run down the spine of the mainland, rising above 4,500 metres at Mount Wilhelm. The coasts are lower, wetter, and fringed with reefs. Port Moresby, the capital, sits on the southern coast and is everyone's arrival point, though it is not representative of the country at large.
 
-Situated in the South Pacific, Papua New Guinea is a developing country unspoilt and breathtakingly beautiful
- 
+## Destinations
 
-When you arrive at [Port moresby](/asia/papuanewguinea/portmoresby), capital of Papua New Guinea, or [Lae](/asia/papuanewguinea/lae) the second largest town, the first impression would be of any developing modern city trying to cope up with growth and expansion. Make a trip into the countryside and you will find that Papua New Guinea is still a Lost World, unspoilt and breathtakingly beautiful. A country that was known to the Europeans from as early as 16th century, modern developments and relations with the outer world are rather recent phenomena in Papua New Guinea. Contacts with the outside world is still peripheral in many places. Most of the interior region of the country is inaccessible by roads and flying or trekking are the only way to reach these places. 
- 
-
-The phenomenon of great seclusion has in someway helped in preserving the variety, traditions, and lifestyles of its people. The people here speak more than 700 different languages, and you won’t fail to notice this once you arrive in Papua New Guinea. It has a terrain that makes remarkable impression with its diversity, which ranges from high-rise mountains to coral reefs to palm-fringed, white-sand beaches. An average Guinese consider himself more of the Pacific than of Asia. 
- 
-
-As the development is limited and options for getting high-quality services few, most of the day-to-day necessities come for a higher price than usual. Before venturing out, remember that the country is still facing many problems on the political front and crime rate is high, warranting adequate security precautions.
+- [Port Moresby](/asia/papuanewguinea/portmoresby) — the capital and main entry point
+- [Lae](/asia/papuanewguinea/lae) — the second city, industrial, on Huon Gulf
+- [Madang](/asia/papuanewguinea/madang) — the prettiest town in PNG, known for diving
+- [Rabaul](/asia/papuanewguinea/rabaul) — volcanic harbour, WWII history, East New Britain
+- [Sepik River](/asia/papuanewguinea/sepikriver) — river journey, wood carving, remote villages
+- [Trobriand Islands](/asia/papuanewguinea/trobriand_islands) — islands famous for yam culture and cricket
+- [New Ireland](/asia/papuanewguinea/newireland) — quiet island, Malagan art, good diving
+- [Bougainville](/asia/papuanewguinea/bougainville) — autonomous region with a complex recent history

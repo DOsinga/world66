@@ -1,11 +1,8 @@
 ---
-title: "Torquay"
+title: 'Torquay'
 type: poi
-type: "general"
-latitude: -38.326655
-longitude: 144.313408
+latitude: -38.3267
+longitude: 144.3134
 ---
 
-The famous Bells Beach is located here.
-
-type: general
+The surf capital of Victoria and home to the famous Bells Beach, where the world's longest-running surf competition takes place each Easter. The town itself is full of surf shops and cafes, and the Australian National Surfing Museum is worth a look.

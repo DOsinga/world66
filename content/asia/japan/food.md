@@ -1,34 +1,38 @@
 ---
-title: "Eating Out"
+title: "Food"
 type: section
 ---
 
-The Japanese have developed a cooking tradition that is quite different from any other on the planet. It is very subtle - raw fish and vegetables play a pivotal role, as do soy and soy products.
+Japanese cuisine is one of the great food cultures of the world — precise, seasonal, and extraordinarily varied. The popular image of sushi and ramen is just the beginning.
 
-**all**
+**Sushi and sashimi**
 
-**Yakitori**
+Sushi (vinegared rice with fish or other toppings) has a history going back four centuries. Contrary to what many visitors expect, a lot of sushi contains no raw fish at all — tamago (egg), cucumber, and pickled vegetables are standard. Sashimi is raw fish served on its own. Both are widely available everywhere from upscale omakase restaurants (where the chef chooses for you, at prices that can exceed ¥30,000 per person) to conveyor-belt kaiten sushi where individual plates run ¥100–300.
 
-Yakitori means grilled chicken and that's basically what it is. Mostly served with beer (lots of it) it is a cheap way to chow.
+**Ramen**
 
-**Sushi**
+Each region has its own style. Sapporo is famous for miso ramen; Fukuoka for tonkotsu (pork bone broth, rich and creamy); Tokyo for soy-based shoyu ramen; Kyoto for a lighter, delicate broth. A bowl costs ¥800–1,200 at a dedicated ramen shop. Lunch is usually the same menu as dinner at lower prices.
 
-With a 400 year hsitory, Sushi is the most Japanese of Japanese food. The name Sushi refers to anything served with vinegared rice - it's not just raw fish. Even for vegetarinas Sushi is a good option.
+**Izakaya**
 
- Sushi bars serve both Sushi ans Sashimi. Sashimi is plain slices of rwa fish, Sushi is fi [more..](/asia/japan/food/sushi)
+The izakaya is Japan's pub — a casual place for drinking beer or sake while grazing through small plates. Yakitori (grilled chicken skewers), edamame, karaage (fried chicken), and pickles are typical starting points. You can eat well here for ¥2,000–3,000 a head including drinks.
 
-**Tonkatsu**
+**Other essentials**
 
-Tongkatsu is pork breaded and deep fried. Inside the crust, the meat is soft and tender. Popular for lunch and served with cabbage and rice. Refills of the rice & cabbage are usually free. Ask for Okawari.
+- **Tempura**: fish and vegetables in a light, crispy batter. The technique came from Portuguese missionaries in the 16th century; the Japanese perfected it.
+- **Tonkatsu**: pork cutlet breaded and deep-fried, served with shredded cabbage and a thick Worcestershire-style sauce. Good, cheap lunch.
+- **Unagi**: grilled eel, lacquered with a sweet soy glaze and served over rice. A midsummer speciality, though available year-round.
+- **Okonomiyaki**: a thick savory pancake with cabbage, meat, and seafood, topped with mayo and sauce. The Osaka and Hiroshima versions differ significantly — locals have strong opinions about which is correct.
+- **Onigiri**: triangular rice balls wrapped in nori (seaweed), filled with pickled plum, tuna, or salmon. Sold everywhere in convenience stores for around ¥100–150. One of Japan's great everyday foods.
 
-**Tempura**
+**Kaiseki**
 
-Fish and vegetables dipped in batter and fried for a short period is one of my favourites. It is interesting to know that the Japanes learned the cooking technique from the Portuguese in the 16-th century. They are great pupils... 
+The high end of Japanese cuisine is kaiseki — a multi-course meal following seasonal ingredients and careful presentation. Expect ten or more small courses. The best experiences are in Kyoto, and in onsen ryokan where kaiseki dinner is often included in the room rate.
 
-**Teppanyaki**
+**Vegetarians and vegans**
 
-Food cooked on a steel grill. In upscale restaurants the cook will come to your tableand cook it right before your eyes. If you are on a budget and like the taste of Teppanyaki, head for okonomiyaki (cheap) restaurants where you can do the hard work yourself.
+Japanese cuisine uses dashi (fish stock) in many broths, including things that look vegetarian. Tofu, tempura, and soba can often contain it. Strict vegetarians should learn the phrase "niku nashi, sakana nashi" (no meat, no fish) and expect some trial and error, particularly outside cities. Vegan-friendly options are improving rapidly in Tokyo and Kyoto.
 
-**Unagi**
+**Eating out**
 
-WAND TANGUnagi or eel is a real Japanese delicacy: to the extent that there are many restaurants which specialise in serving it. Commonly unagi is basted with a rice wine/soy sauce mixture, grilled and then served with rice. Culinary daredevils can also try eel liver soup as a side orde [more..](/asia/japan/food/unagi)
+Many restaurants display plastic food models or photo menus in the window — point if words fail. You pay at the till on the way out, not to the server. It is considered rude to eat and drink while walking; sit down and enjoy.

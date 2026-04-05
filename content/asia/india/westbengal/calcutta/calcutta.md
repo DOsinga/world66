@@ -1,18 +1,12 @@
 ---
-title: "Calcutta (Kolkata)"
+title: 'Calcutta'
 type: location
-latitude: 22.572646
-longitude: 88.363895
+latitude: 22.5726
+longitude: 88.3639
 ---
 
-*Asia > India > West Bengal > Calcutta*
+Kolkata -- still called Calcutta by most of its residents and all of its admirers -- is unlike any other Indian city. It is crumbling and grand, intellectual and chaotic, desperately poor and culturally wealthy. As the capital of British India until 1911, it accumulated some of the subcontinent's finest colonial architecture, and as the hometown of Rabindranath Tagore, Satyajit Ray, and Mother Teresa, it holds an outsized place in India's cultural life.
 
-Calcutta — officially Kolkata since 2001 — is one of India's great cities, and one of its most misunderstood. Outsiders tend to know it from the headlines: poverty, chaos, Mother Teresa. The city is all of those things, but it is also India's intellectual capital, a place of bookshops and coffee house debates, of Rabindranath Tagore and a Nobel Prize tradition, of the most theatrical festival season in the country. Give it a few days and it will almost certainly win you over.
+The city sprawls along the east bank of the Hooghly River in the steamy lowlands of West Bengal. Central Kolkata clusters around the Maidan, a vast green park flanked by the white marble Victoria Memorial at one end and the busy streets of Esplanade at the other. To the north lie the dense, atmospheric lanes of old Calcutta -- Kumartuli where clay idol-makers work year-round, the flower market at Mullik Ghat, and the frenetic bazaars near Howrah Bridge. South Kolkata is leafier and more residential, home to the city's best restaurants and the intellectual hubs around Jadavpur and Ballygunge.
 
-The city sits on the east bank of the Hooghly, a distributary of the Ganges, and was the capital of British India from 1772 until 1911 when the capital was moved to Delhi. That colonial inheritance is everywhere: in the Victorian buildings along Chowringhee, in the grand lawns of the Maidan, in the Victoria Memorial's gleaming white marble. But Calcutta wears its history lightly. The city has been through independence, Partition, the trauma of the 1943 Bengal famine, communist rule for 34 years, and now rapid modernisation. It absorbs all of it.
-
-The heart of the old city is around BBD Bagh (Dalhousie Square), where the Writers' Building and the General Post Office overlook a tank full of green water. Southward lies the Maidan, a vast open park where cricketers play on weekends and the Victoria Memorial stands at the southern end like a displaced piece of London. Park Street was once the social centre of British Calcutta and still has some of the city's best restaurants and clubs. Across the Hooghly, reached by the Howrah Bridge or the Rabindra Setu, is Howrah, a city in its own right with one of India's busiest railway stations.
-
-Durga Puja, the festival honouring the goddess Durga, is the high point of the Calcutta year. For five days in October, the city essentially shuts down normal business and turns to elaborately constructed pandals — temporary shrines of extraordinary artistic ambition — that crowd every neighbourhood. The entire city becomes a street party. If you can be in Calcutta during Durga Puja, go.
-
-The best time to visit is October through February, when temperatures are manageable and the festival season is in full swing. The monsoon (June to September) brings floods and chaos but also a distinct mood. Avoid March through May if heat is a concern — it can reach 40°C with high humidity before the rains break it.
+What makes Kolkata special for travelers is its texture. This is a city where hand-pulled rickshaws still work the streets, where tea is served in clay cups at corner stalls, and where people will stop to debate poetry or politics with a stranger. The food is outstanding -- Bengali cuisine is one of India's great regional traditions, and the city's Mughlai, Chinese, and street food scenes are equally strong. Kolkata is not always easy, but it is always deeply rewarding.

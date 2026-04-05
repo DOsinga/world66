@@ -1,14 +1,12 @@
 ---
-title: "Dallas - The Big D!"
+title: 'Dallas'
 type: location
-latitude: 40.862076
-longitude: -73.911775
+latitude: 32.7767
+longitude: -96.7970
 ---
 
-Dallas, Texas is the second largest city in Texas (behind Houston) and the seventh largest city in the US. With a population of well over 1 million people, and suburbs which triple that number, Dallas has a wide variety of attractions and activities for everyone. 
+Dallas is big, bold, and unapologetic about it. The second-largest city in Texas and seventh-largest in the US, it has the skyline, the sports teams, and the shopping to back up its swagger. This is the birthplace of Neiman Marcus, home to the Dallas Cowboys, Mavericks, and Stars, and a city where people dress up just to go to the grocery store.
 
-Home to the Dallas Cowboys, Dallas Mavericks, Dallas Stars and Texas Rangers, Dallas is a sports lover's paradise. Hundreds of golf courses dot the landscape in North Texas and dozens of lakes provide fishing and skiing opportunities for those who love the water (and those trying to escape the Texas heat). 
+But Dallas is more than flash. Deep Ellum pulses with live music and street art. The Arts District downtown is one of the largest in the country. And the food scene has evolved well beyond steakhouses, though you should still eat a good steak while you are here.
 
-The summer months in Texas can be a bit stifling, with temperatures hovering around 100 degrees Fahrenheit! However, Texans have definitely adapted to their environs - and those who try to keep up are in for a wild ride. From Deep Ellum, The West End, Uptown, Restaurant Row and Lower Greenville, to the neighborhood bars/restaurants you stumble across in your explorations, you will not be disappointed. Southern hospitality and charm actually mean something in Dallas. 
-
-Oh! And dress your best. London may have Harrod's, and New York may have Saks, but Dallas is the home and birthplace of Neiman Marcus - and they won't let you forget it!!
+Summers are punishing, with temperatures hovering around 100 degrees Fahrenheit, but Texans have adapted. From the West End to Uptown to Lower Greenville, the bars and restaurants keep the city alive well past dark. Southern hospitality is real here, and the locals mean it when they say "y'all come back."

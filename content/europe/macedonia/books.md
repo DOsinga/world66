@@ -3,64 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Good writing specifically about North Macedonia is limited in English, but these are useful starting points.
 
-**Studies in Macedonian Language Literature, and Cul**
+**Nikos Kazantzakis — Journey to the Morea** — The Greek novelist travelled through the southern Balkans in the early 20th century. His observations on Macedonia (then under Ottoman rule and contested by multiple nationalist movements) are vivid and literary.
 
-Proceedings of the First North American-Macedonian Conference..
+**Misha Glenny — The Balkans: Nationalism, War and the Great Powers, 1804–1999** — The best single-volume history of the region in English. Puts North Macedonia's turbulent 20th century — Balkan Wars, Yugoslav period, 1991 independence, 2001 conflict — in context.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/093004276X/ref=ase_osingacom?v=glance&s=books)
+**John Phillips — Macedonia: Warlords and Rebels in the Balkans** — A journalist's account of the 2001 insurgency and its aftermath. Readable and on the ground.
 
-author: Benjamin A. Stolz
+**Rebecca West — Black Lamb and Grey Falcon** — West's massive 1941 travel memoir covers Yugoslavia in depth, including Macedonia. Dated in its politics but still the most literary account of the region.
 
-isbn: 093004276X
-
-subject: culture
-
-**Orion and the Conqueror**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0812523768/ref=ase_osingacom?v=glance&s=books)
-
-author: Ben Bova
-
-isbn: 0812523768
-
-subject: travel
-
-**Orion and the Conqueror**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0812523768/ref=ase_osingacom?v=glance&s=books)
-
-author: Ben Bova
-
-isbn: 0812523768
-
-subject: history
-
-**The Generalship of Alexander the Great**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0306803712/ref=ase_osingacom?v=glance&s=books)
-
-author: John F. C. Fuller
-
-isbn: 0306803712
-
-subject: history
-
-**Alexander the Great and the Logistics of the Macedonian Army**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0520042727/ref=ase_osingacom?v=glance&s=books)
-
-author: Donald W. Engels
-
-isbn: 0520042727
-
-subject: history
+**Slavko Janevski** — North Macedonia's best-known novelist, author of *The Village of Miron's Bell* (1952), considered the first novel written in modern Macedonian. Not widely translated but worth seeking out.

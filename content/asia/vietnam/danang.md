@@ -5,16 +5,8 @@ latitude: 16.068
 longitude: 108.212
 ---
 
-Travel Guide
+**Da Nang** is the largest city on Vietnam's central coast and, increasingly, one of the most interesting places in the country. It sits roughly halfway between Hanoi and Ho Chi Minh City, on a broad crescent of bay where the Han River meets the South China Sea, backed by the forested bulk of the **Marble Mountains**. For most of the 20th century it was known to Western travellers only as the large American airbase during the Vietnam War — the first US Marines waded ashore at **China Beach** just south of the city in March 1965, and Da Nang's airport handled more flights than any other in the world during the war years. In the 21st century the city has reinvented itself as one of Vietnam's most prosperous and best-planned urban centres, with a string of new luxury resorts along the beach and a reputation as the easiest big Vietnamese city to live in.
 
-Da Nang city is one of five biggiest cities of Vietnam with 1255 km2 and 876,500 people. It is located in the central Vietnam and a beach city.
+The signature sights are mostly geological. The **Marble Mountains** (*Ngũ Hành Sơn*) — five limestone and marble hills rising abruptly out of the flat coastal plain — contain dozens of Buddhist caves, grottoes and pagodas that have been sacred pilgrimage sites for centuries; the tunnels honeycombing the largest peak were also used by Viet Cong fighters during the war. The **Ba Na Hills** station, an hour inland, is a French-built hilltop resort at 1,487 metres with a cooler climate, a cable car (one of the longest single-span cable cars in the world), and the instantly-Instagrammable **Golden Bridge** held up by two enormous stone hands. The excellent **Museum of Cham Sculpture** in the city centre holds the finest collection of **Cham** Hindu art in the world — a reminder that this coast was once the heart of the long-vanished Cham kingdom, whose great temple city of **My Son** lies 40 km to the south-west.
 
-Da Nang with international airport and sea port is considered as the centre of economics, medecine and transportation of the central Vietnam.
-
-There are many attractive tourist sites in Da Nang: Cham Museum- the finest Cham scuplture in the world, lovely Da Nang beach, the Marble mountains and Ba Na hills - the lovely four season site in the Ba Na Mountain. And, to stay in Da Nang, it is very easy to find a hotel along the Han River ( Da Nang River) or more luxury hotel on the Da Nang beach. For food, the travellers can find many restaurants at Tran Phu treet.
-
-For the festivals, Da Nang often organizes the international firework festival at the end of March.
-
-Da Nang city is also close to Hoi An ancient city (45 km) and Hue city- the old capital of Vietnam (100km).
-
-Thus, the travellers can visit Hoi An ancient town or the royal tombs and palaces in Hue within one day
+The **My Khe Beach** (the old American "China Beach") and the stretch of coast south to **Hoi An** are lined with resort hotels. **Hoi An** itself — a UNESCO-listed old trading port with wooden merchant houses, Japanese covered bridges, and some of the best food in Vietnam — is a 45-minute drive south and should be on everybody's itinerary; most travellers base themselves in Hoi An and day-trip into Da Nang rather than the other way round. The old imperial capital of **Hue**, 100 km north over the spectacular **Hai Van Pass**, is the other obvious day trip.

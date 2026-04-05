@@ -1,11 +1,10 @@
 ---
-title: "Victoria Memorial"
+title: 'Victoria Memorial'
 type: poi
-address: "Victoria Memorial Hall, 1 Queens Way, Kolkata 700071"
-opening_hours: "10:00-17:00, closed Monday"
-admission: "₹30 Indians, ₹500 foreigners"
-latitude: 22.54508
-longitude: 88.342643
+category: 'landmark'
+address: '1 Queens Way, Kolkata 700071'
+latitude: 22.5448
+longitude: 88.3426
 ---
 
-Built in white Makrana marble and completed in 1921, the Victoria Memorial was raised as a tribute to Queen Victoria and remains Kolkata's most striking monument. The building is a hybrid of Mughal and British Renaissance architecture, topped by a bronze winged figure of Victory that rotates in the wind. Inside, the collection ranges from oil paintings of British India to Mughal manuscripts, coins, and memorabilia of the Raj. The surrounding gardens are pleasant and well maintained — a good place to walk in the early evening when the temperature drops. The sound-and-light show on the lawn most evenings is worth catching.
+Built in 1921 as a tribute to Queen Victoria, this spectacular white marble monument is Kolkata's most recognizable landmark. The building houses a fascinating museum of paintings, sculptures, and memorabilia from the British Raj, including rare portraits of Calcutta's colonial era and weapons from the Indian Rebellion of 1857. The surrounding gardens are beautifully maintained and worth a stroll in the early evening when the building is lit up. Allow a couple of hours for the museum and grounds.

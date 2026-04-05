@@ -3,38 +3,24 @@ title: "Getting There"
 type: section
 ---
 
-Air
+## By Air
 
-Senegal's national airline is *Air Senegal (DS).*
+The main entry point is **Blaise Diagne International Airport** (DSS), which replaced the old Léopold Sédar Senghor airport in 2017 and sits about 45 km east of central Dakar, near Diass. It is larger and more modern than its predecessor, though the distance from the city means transfers take 45–60 minutes by road.
 
-Approximate flight times
+Direct flights from Europe are plentiful. Air France, Brussels Airlines, Iberia, TAP, and Transavia all fly from major European hubs. Turkish Airlines connects via Istanbul. From the United States, Delta flies non-stop from New York (JFK) year-round; it is currently the only US carrier on the route. Air Senegal operates regional connections within West Africa and to Europe. Royal Air Maroc connects via Casablanca.
 
-From Dakar to *London* is 6 hours 10 minutes to *New York* is 8 hours 10 minutes and to *Paris* is 7 hours.
+Getting from the airport to Dakar: official taxis and shared minibuses are available at the arrivals exit. The TER commuter train now links the airport area to downtown Dakar — an affordable and reliable option that takes around 45 minutes to Dakar's Hann station.
 
-International airport
+## By Road
 
-*Dakar (DKR) *(Leopold Sedar Senghor) is 17km (10.5 miles) northwest of the city (travel time  25 minutes). Airport facilities include duty-free shop bar/restaurant bank/bureau de change (0800-1400) post office (24 hours) and car hire. Regular coach and bus services go to and from Dakar. Metered taxis are available.
+**From Mauritania:** The main crossing is at Rosso, on the Senegal River. The road on both sides is paved. Shared taxis (sept-places) and buses connect Dakar to Nouakchott via Saint Louis.
 
-Departure tax:
+**From Guinea-Bissau:** The crossing at São Domingos is the most used. Roads are unpaved in places and conditions can deteriorate in the rainy season.
 
-CFAfr1500.
+**From Guinea and Mali:** Tambacounda is the transit hub for both routes. The road to Mali via Kidira and Kayes is long but passable.
 
-Sea
+**Through the Gambia:** The trans-Gambian highway crosses the River Gambia by ferry at Farafenni. Delays at the crossing are common; allow extra time.
 
-There are regular sailings from France the Canary Islands Morocco Spain and several South American and West African ports. Fares tend to be expensive. The main port is Dakar.
+## By Sea
 
-Rail
-
-There are two passenger trains (one Senegalese and one Malian) with restaurant and sleeping cars running from Bamako Mali twice a week. The journey can take 30-36 hours. It is advisable to travel on the Senegalese train (well up to Western standards) rather than the Malian train (very basic indeed).
-
-Roads
-
-Roads from Mauritania are tarred and in good condition; the best place to cross the border is at Rosso. Roads from Guinea-Bissau are not yet tarred; there is a border crossing at S&atilde;o Domingo. There is a route from Senegal to Mali via Tambacounda. There is access across the Sahara by a 5500km (2120-mile) road that runs from Algeria via Mali. The trans-Gambian highway crosses the River Gambia by ferry. There is a good network of
-
-Buses
-
-and
-
-Taxis
-
-running across the major borders.
+Occasional ferry services connect Dakar with the Canary Islands and with other West African ports. Schedules are irregular. The main sea terminal is in Dakar's port.

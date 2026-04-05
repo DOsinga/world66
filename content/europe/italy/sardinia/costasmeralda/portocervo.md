@@ -1,14 +1,12 @@
 ---
 title: "Porto Cervo"
 type: location
-latitude: 41.131898
-longitude: 9.535365
+latitude: 41.1319
+longitude: 9.5354
 ---
 
-Porto Cervo is the social centre of the [Costa Smeralda](/europe/italy/sardinia/costasmeralda), designed in the 1960s by the Aga Khan and the architect Luigi Vietti as a planned resort for the very wealthy. It still plays that role: mega-yachts line the Sotto Vento marina, designer boutiques (Hermès, Bulgari, Valentino) fill the curved pedestrian streets of the Piazzetta, and the nightlife in high season is serious money.
+Porto Cervo is the social and nautical centre of the Costa Smeralda, the stretch of northeastern Sardinian coast developed from the early 1960s by a consortium led by Aga Khan IV. The town was built almost from scratch to a design intended to evoke a traditional Sardinian village while accommodating one of the most exclusive yacht marinas in the Mediterranean. The result is a planned village of whitewashed architecture, bougainvillea, and boutiques arranged around a natural harbour.
 
-The scenery is genuinely beautiful — granite headlands, turquoise water, and a shoreline of small coves and beaches. Spiaggia del Pevero and Cala Granu are among the best beaches near the resort.
+The marina holds hundreds of superyachts through summer and is the centrepiece of the Costa Smeralda yachting scene, hosting prestigious regattas including the Rolex Cup. The surrounding coast has some of the finest beaches in Italy: Liscia Ruja, Capriccioli, and Cala di Volpe are among the best known, with white sand and water in shades of green and blue that give the coast its name (Smeralda means emerald).
 
-The Costa Smeralda Yacht Club hosts the Maxi Yacht Rolex Cup in September, one of the major events on the European sailing calendar.
-
-For visitors who aren't staying at a four-star hotel, Porto Cervo is worth a drive-through to see the scenery and gawp at the yachts, but you won't eat cheaply here.
+Porto Cervo operates almost entirely as a luxury resort, with prices to match. The Church of Stella Maris above the old harbour contains a painting attributed to El Greco. The season runs from May to September; outside these months the town is largely closed.

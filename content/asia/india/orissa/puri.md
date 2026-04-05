@@ -1,5 +1,5 @@
 ---
-title: "Puri"
+title: 'Puri'
 type: location
 latitude: 19.807608
 longitude: 85.825254

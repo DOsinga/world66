@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Niagara falls"
+title: "Eating Out"
 type: section
 ---
 

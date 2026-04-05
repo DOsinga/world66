@@ -1,56 +1,12 @@
 ---
-title: "Saputara"
+title: 'Saputara'
 type: location
 latitude: 20.579669
 longitude: 73.747888
 ---
 
-Travel Guide
+Saputara is Gujarat's only hill station, perched on a plateau at about 1,000 metres in the Dang forest area of the Sahyadri Range. The climate is cool even in summer, with temperatures rarely exceeding 28 degrees. The name means "abode of serpents" -- a snake image on the banks of the river Sarpagana is worshipped by the local Adivasi people.
 
-*** G ***ujarat's
-picturesque hill station is perched on a plateau in the
-Dang forest area of the Sahyadri Range. At an altitude
-of about 1000m.
+The town has been developed as a planned hill resort with parks, a lake with boating, a ropeway, and a small museum. It is a popular weekend getaway for families, especially from [Surat](/asia/india/gujarat/surat) (164 km) and Mumbai. The surrounding Dang forests offer good walking, and excursions can be made to the wildlife sanctuary at Mahal Bardipara (60 km) and the Gira Waterfalls (52 km).
 
-It has a cool bracing climate, the highest temperature even in
-the summer months not exceeding 28 Degrees C. Saputara means the
-Adobe of Serpents and a snake image on the banks of the river
-Sarpagana is worshipped by the Adivasis on festivals like Holi.
-
-Saputara
-has been developed as a planned hill resort with all the necessary
-ameneties like hotels, parks, swimming pools , boat club, theatres
-and a museum to ensure an enjoyable holiday in the cool of the
-hills. Saputara is only 164kms, from Surat.
-
-**Places
-to visit
-
-** Excursions
-from Saputara can be made to the wild life sanctuary in the Mahal
-Bardipara forest, 60 kms from resort and the Gira Waterfalls 52kms
-away.
-
-**How
-to get there ?**
-
-**Air
-**
-
-Nearest Airport is Mumbai (Bombay).
-
-**Rail
-**
-
-Nearest Railway Station is Waghai, on the Bilimoria-Waghai narrow
-guage section of the Western Railway. For those coming from Gujarat
-via Surat or Ahmedabad or even from Mumbai (Bombay) Bilimoria
-is the most convenient rail head as direct bus service is available
-from there.
-
-**Road
-**
-
-State transport buses and private luxury coaches connect various
-centres of Gujarat and Maharashtra. It is situated 409 Kms from
-Ahmedabad and 51 Kms.from Waghai.
+**Getting there:** The nearest airport is Mumbai. The nearest railway station is Waghai on the Bilimora-Waghai line. State transport buses and private coaches connect Saputara to major cities in Gujarat and Maharashtra. From [Ahmedabad](/asia/india/gujarat/ahmedabad), it is 409 km.

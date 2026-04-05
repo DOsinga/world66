@@ -3,6 +3,10 @@ title: "San Marino"
 type: location
 latitude: 43.945862
 longitude: 12.458306
+image: sanmarino.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:View_of_Mount_Titano_-_San_Marino.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Commonists" title="User:Commonists">Commonists</a>'
 ---
 
 San Marino is the fifth smallest country in the world and one of the oldest republics, founded in AD 301 by a Christian stonemason fleeing Roman persecution. Perched on the slopes of Monte Titano and entirely surrounded by Italy, this microstate packs a surprising amount into its 61 square kilometers.

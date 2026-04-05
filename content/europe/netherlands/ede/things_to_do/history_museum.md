@@ -1,28 +1,14 @@
 ---
-title: "History Museum"
+title: "Historisch Museum Ede"
 type: poi
+category: "Museum"
 address: "Museumplein 7, 6711 NA Ede"
 email: "info@historischmuseumede.nl"
-opening_hours: "Tueday till Saturday 2 pm till 5 pm, Sunday 2 pm till 4 pm, Monday Closed"
-phone: "+31(0)318-619554"
-type: "Hotspots"
+opening_hours: "Tue–Sat 14.00–17.00; Sun 14.00–16.00; closed Mondays"
+phone: "+31 (0)318 619 554"
 url: "www.historischmuseumede.nl"
 latitude: 52.043143
 longitude: 5.668141
 ---
 
-The historical museum Ede is located in the former Ede-Centrum railway station, built in 1902. This building is a monument and has been renovated by the local authorities in 1990.
-
-type: Hotspots
-
-
-
-tel: +31(0)318-619554
-
-openingHours: Tueday till Saturday 2 pm till 5 pm, Sunday 2 pm till 4 pm, Monday Closed
-
-url: [www.historischmuseumede.nl](http://www.historischmuseumede.nl/)
-
-address: Museumplein 7, 6711 NA Ede
-
-email: info@historischmuseumede.nl
+Ede's local history museum is housed in the former Ede-Centrum railway station, a small listed building from 1902 that was renovated in 1990. The displays cover the history of the town and the surrounding Veluwe — pre-history, heather-and-sheep farming, and the cavalry barracks that once made Ede a military town — in a modest, pleasant way.

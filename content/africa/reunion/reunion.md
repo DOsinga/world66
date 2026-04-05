@@ -1,12 +1,15 @@
 ---
-title: "Réunion"
+title: Réunion
 type: location
 latitude: -21.1151
 longitude: 55.5364
 image: reunion.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:2015-05-27-LaReunion_0855-0171+Takamaka_08.JPG"
-image_license: "CC BY-SA 4.0"
-image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Nop112233&amp;action=edit&amp;redlink=1" class="new" title="User:Nop112233 (page does not exist)">Nop112233</a>'
+image_source: https://commons.wikimedia.org/wiki/File:2015-05-27-LaReunion_0855-0171+Takamaka_08.JPG
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Nop112233&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Nop112233 (page does not exist)">Nop112233</a>
+done:
+  country_cleanup: 2026-03-31
 ---
 
 *Africa > Réunion*

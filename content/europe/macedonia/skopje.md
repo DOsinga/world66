@@ -1,8 +1,10 @@
 ---
-title: "Skopje"
+title: Skopje
 type: location
 latitude: 41.996182
 longitude: 21.431921
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Skopje is the capital and by far the largest city in North Macedonia. At first glance it can be disorienting — a city centre packed with neo-baroque monuments, statues of warriors, and triumphal arches erected as part of the "Skopje 2014" urban redesign project. The effect is surreal and controversial. Look past it, and you'll find one of the most interesting Ottoman bazaars in the Balkans.

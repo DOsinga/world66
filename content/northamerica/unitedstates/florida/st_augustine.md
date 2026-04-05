@@ -1,8 +1,10 @@
 ---
-title: "St. Augustine"
+title: St. Augustine
 type: location
 latitude: 29.8947
 longitude: -81.3145
+done:
+  location_cleanup: 2026-04-05
 ---
 
 St. Augustine is the **oldest continuously occupied European settlement** in what is now the United States, founded by the Spanish in 1565 — more than half a century before the Pilgrims landed at Plymouth Rock. Tucked on the Atlantic coast of northern Florida about halfway between Jacksonville and Daytona Beach, it retains a genuinely un-American feel: the cobbled lanes, coquina-stone fortifications, and colonial houses of its old town make it look and feel more like a small Spanish colonial city in Latin America than anywhere else on the US east coast.

@@ -1,8 +1,10 @@
 ---
-title: 'Houston'
+title: Houston
 type: location
 latitude: 29.7589
 longitude: -95.3677
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Houston is the largest city in Texas and the fourth-largest in the United States, but it does not feel like a cold metropolis. The people are genuinely friendly, and the city's diversity is staggering, with consulates from 77 nations and a restaurant scene that ranges from Vietnamese pho in Midtown to Nigerian suya in Alief.

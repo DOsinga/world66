@@ -1,14 +1,18 @@
 ---
-title: "Day Trips in Santorini"
+title: "Day Trips"
 type: section
 ---
 
-Planning **Santorini Day Trips** might seem challenging to first-time visitors in Santorini—one of Greece's most historically-significant cities. This is primarily because Santorini puts forth so many options that making a choice becomes difficult. To ease such apprehensions, some handy pointers for planning Santorini Day Trips have been listed below:
+Santorini's position in the southern Cyclades makes it a natural base for exploring the caldera islands and nearby archaeological sites. The most rewarding excursions can be done independently with a ferry or local tour, and most take a full day.
 
-**Explore Natural Splendor of Caldera**
+**Caldera Islands: Nea Kameni and Palea Kameni**
 
-Along the outskirts of Santorini lies a small town called Caldera. Visitors can begin early in the morning and actually walk down to Caldera. From here, small excursions can be undertaken. The options include undertaking a boat-ride to visit some of the lesser-known villages that are part of Santorini&rsquo;s rural society. Further, visitors can seek the help of local tour guides and visit two, ancient archaeological sites that provide an enlightening glimpse into the early, Roman civilization. In Caldera, visitors can take a bus-ride to reach Athinios port. Here, a boat can be rented for reaching Nea Kameni—an active lava islet. A second, active volcanic site is located nearby, called Palea Kameni.
+The two volcanic islets in the centre of the caldera are the island's most popular day trip. Nea Kameni is an active lava islet — you can walk to the steaming summit crater in about 20 minutes. Palea Kameni nearby has a hot spring where you can swim in warm, sulphurous orange water. Boats leave from Athinios port and the old port below Fira; half-day group tours are easy to join.
 
-**Explore Historic Riches of Ancient Thira**
+**Ancient Thira**
 
-Along the eastern edge of the Santorini Island lies an important archaeological site—called Thira or Ancient Thira. Visitors should reserve an entire day for this day trip since there is a bit of hiking involved. Thira is located along a hilltop and thus, some serious walking needs to be done. However, the ascent also provides an exotic view of the neighboring islands. The sites located at the top of hilltop are believed to date
+On the ridge of Mesa Vouno between Kamari and Perissa, Ancient Thira is a Hellenistic and Roman town with remains of temples, a theatre, markets, and baths. The site is accessed by a steep road — you can drive, take a taxi, or hike up from Perissa (about 45 minutes). The views from the ridge across to both coastlines are excellent.
+
+**Thirassia**
+
+The small inhabited island on the western arc of the caldera is the quietest part of the Santorini group. Ferries and tour boats stop at the fishing village of Korfos. It gives a sense of what Santorini looked like before mass tourism, with fewer than 300 permanent residents and almost no development above the port.

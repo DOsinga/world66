@@ -1,8 +1,0 @@
----
-title: "PLANDRE >BARYOUT KAKRA"
-type: location
----
-
-Travel Guide
-
-MY DISTICK IS PLANDRE VILLAG BARYOUT POST OFFIC REHEMABAD

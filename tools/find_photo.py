@@ -29,6 +29,7 @@ import time
 from dataclasses import dataclass
 from pathlib import Path
 
+import frontmatter
 import httpx
 from PIL import Image
 from dotenv import load_dotenv
@@ -63,18 +64,10 @@ class Candidate:
 # Path resolution (mirrors guide/models.py logic)
 # ---------------------------------------------------------------------------
 
-def _parse_frontmatter(text: str) -> tuple[dict, str]:
-    """Parse YAML frontmatter and body from markdown text."""
-    if text.startswith('---'):
-        match = re.match(r'^---\s*\n(.*?)\n---\s*\n(.*)$', text, re.DOTALL)
-        if match:
-            import yaml
-            try:
-                meta = yaml.safe_load(match.group(1)) or {}
-            except Exception:
-                meta = {}
-            return meta, match.group(2)
-    return {}, text
+def _load_post(md_path: Path) -> tuple[dict, str]:
+    """Load a markdown file. Returns (meta, body)."""
+    post = frontmatter.load(md_path)
+    return post.metadata, post.content
 
 
 def resolve_md_path(content_path: str) -> Path | None:
@@ -418,36 +411,14 @@ def save_photo(image_bytes: bytes, md_path: Path, slug: str) -> str:
     return filename
 
 
-def update_frontmatter(md_path: Path, filename: str, source_url: str, license_str: str, attribution: str, force: bool = False):
+def update_frontmatter(md_path: Path, filename: str, source_url: str, license_str: str, attribution: str):
     """Update the markdown file's frontmatter with image fields."""
-    text = md_path.read_text(encoding='utf-8', errors='replace')
-
-    if not text.startswith('---'):
-        print(f'  Warning: no frontmatter in {md_path}')
-        return
-
-    end = text.find('\n---', 3)
-    if end == -1:
-        print(f'  Warning: malformed frontmatter in {md_path}')
-        return
-
-    frontmatter = text[3:end]
-    body = text[end + 4:]
-
-    # Remove old image fields if --force
-    if force:
-        for field in ('image:', 'image_source:', 'image_license:', 'image_attribution:'):
-            frontmatter = re.sub(rf'\n{re.escape(field)}[^\n]*', '', frontmatter)
-
-    # Add new fields
-    new_fields = (
-        f'\nimage: {filename}'
-        f'\nimage_source: "{source_url}"'
-        f'\nimage_license: "{license_str}"'
-        f'\nimage_attribution: "{attribution}"'
-    )
-    new_text = f'---{frontmatter}{new_fields}\n---{body}'
-    md_path.write_text(new_text, encoding='utf-8')
+    post = frontmatter.load(md_path)
+    post['image'] = filename
+    post['image_source'] = source_url
+    post['image_license'] = license_str
+    post['image_attribution'] = attribution
+    md_path.write_text(frontmatter.dumps(post, sort_keys=False) + '\n', encoding='utf-8')
     print(f'  Updated frontmatter: {md_path}')
 
 
@@ -511,8 +482,7 @@ def process_page_no_classify(content_path: str, force: bool = False) -> dict:
     if not md_path:
         return {'path': content_path, 'error': f'Not found: {content_path}'}
 
-    text = md_path.read_text(encoding='utf-8', errors='replace')
-    meta, body = _parse_frontmatter(text)
+    meta, body = _load_post(md_path)
 
     if meta.get('image') and not force:
         return {'path': content_path, 'skipped': True, 'reason': 'already has image'}
@@ -595,8 +565,7 @@ def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> boo
         print(f'  Not found: {content_path}')
         return False
 
-    text = md_path.read_text(encoding='utf-8', errors='replace')
-    meta, body = _parse_frontmatter(text)
+    meta, body = _load_post(md_path)
 
     if meta.get('image') and not force:
         print(f'  Skipped (already has image): {content_path}')
@@ -639,24 +608,16 @@ def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> boo
         return False
 
     filename = save_photo(full_bytes, md_path, slug)
-    update_frontmatter(md_path, filename, winner.source_page, winner.license, winner.attribution, force)
+    update_frontmatter(md_path, filename, winner.source_page, winner.license, winner.attribution)
     return True
 
 
 def find_all_pages(page_type: str = 'location', prefix: str = None) -> list[str]:
     """Find all content pages of a given type, optionally filtered by path prefix."""
-    import yaml
-
     pages = []
     for md_file in sorted(CONTENT_DIR.rglob('*.md')):
-        text = md_file.read_text(encoding='utf-8', errors='replace')
-        if not text.startswith('---'):
-            continue
-        match = re.match(r'^---\s*\n(.*?)\n---', text, re.DOTALL)
-        if not match:
-            continue
         try:
-            meta = yaml.safe_load(match.group(1)) or {}
+            meta = frontmatter.load(md_file).metadata
         except Exception:
             continue
         if meta.get('type') != page_type:

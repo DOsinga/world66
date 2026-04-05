@@ -3,10 +3,6 @@ title: "Yemen"
 type: location
 latitude: 15.5527
 longitude: 48.5164
-image: yemen.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Shaharah_bridge.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard Gagnon</a>"
 ---
 
 **Travel warning:** Yemen has been in active civil war since 2014. Virtually every government in the world advises against all travel to the country. The conflict between Houthi forces (controlling much of the north, including Sana'a) and the internationally recognized government (based in Aden) has killed hundreds of thousands of people and created one of the world's worst humanitarian crises. Landmines, air strikes, armed checkpoints, and kidnapping remain serious risks. Do not travel to Yemen without an exceptional reason and professional security support.

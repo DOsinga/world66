@@ -3,10 +3,6 @@ title: "Armenia"
 type: location
 latitude: 40.769627
 longitude: 44.673665
-image: armenia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Khor_Virap_Monastery_and_Mount_Ararat,_Armenia.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "Andrew Behesnilian (<a href="//commons.wikimedia.org/wiki/User:MrAndrew47" title="User:MrAndrew47">MrAndrew47</a>)"
 ---
 
 Armenia is one of the oldest Christian nations on earth, a small landlocked country in the South Caucasus wedged between Turkey, Georgia, Azerbaijan, and Iran. It is compact — you can cross the whole country in a few hours — but remarkably dense with ancient monasteries, Roman-era temples, medieval fortresses, volcanic mountains, and one of the largest alpine lakes in the world.

@@ -3,10 +3,6 @@ title: "Gibraltar"
 type: location
 latitude: 36.128593
 longitude: -5.347476
-image: gibraltar.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:View_of_the_Rock_of_Gibraltar_from_the_Strait.jpg"
-image_license: "CC BY 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/46198971@N06">rob Stoeltje</a>"
 ---
 
 Gibraltar is one of those places that shouldn't quite exist — a 6.5-square-kilometre British territory on the southern tip of Spain, within sight of Morocco, fiercely proud of its identity and stubbornly resistant to the obvious logic that it should belong to someone else. The Rock of Gibraltar, that massive limestone ridge rising 426 metres from the narrow isthmus, has defined the territory's history and still dominates everything about it.

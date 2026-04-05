@@ -3,10 +3,6 @@ title: "Taiwan"
 type: location
 latitude: 23.973937
 longitude: 120.982018
-image: taiwan.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Alishan_Forest_Staircase2.JPG"
-image_license: "CC BY-SA 4.0"
-image_attribution: "User: (WT-shared) Jpatokal at  wts wikivoyage"
 ---
 
 Taiwan is a small island of about 36,000 square kilometres sitting 160km off the southeastern coast of China. The Portuguese who first mapped it in the 16th century called it Formosa — beautiful — and the name fits. A central mountain range runs almost the entire length of the island, with over 200 peaks above 3,000 metres. The coast is dramatic, the forests dense, and the valleys terraced with rice and tea. Against all that natural backdrop, Taiwan has also built one of the most sophisticated and liveable urban cultures in Asia.

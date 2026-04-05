@@ -3,10 +3,6 @@ title: "Pakistan"
 type: location
 latitude: 30.3753
 longitude: 69.3451
-image: pakistan.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Moenjodaro(a)_by_Usman_Ghani.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Usman.pg&amp;action=edit&amp;redlink=1" class="new" title="User:Usman.pg (page does not exist)">Usman.pg</a>"
 ---
 
 *Asia > Pakistan*

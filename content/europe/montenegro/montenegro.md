@@ -3,10 +3,6 @@ title: "Montenegro"
 type: location
 latitude: 42.708678
 longitude: 19.37439
-image: montenegro.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Gornji_manasti_sa_konakom_-_panorama_2008.jpg"
-image_license: "Public domain"
-image_attribution: "William Hall"
 ---
 
 Montenegro — meaning "Black Mountain" in Venetian Italian — packs an extraordinary amount of landscape into a country smaller than Connecticut. In a four-hour drive you can move from a medieval walled harbour town on the Adriatic, past a lake that straddles the Albanian border, and up into a high mountain plateau with glacial lakes and one of Europe's deepest river canyons.

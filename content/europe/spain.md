@@ -3,10 +3,6 @@ title: "Spain"
 type: location
 latitude: 39.326068
 longitude: -4.837979
-image: spain.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Cuatro_Torres_Business_Area.JPG"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Eurostarshoteles&amp;action=edit&amp;redlink=1" class="new" title="User:Eurostarshoteles (page does not exist)">Eurostarshoteles</a>"
 ---
 
 Spain is more than bullfights, flamenco dancers and crowded beaches. It's a spectacular and diverse country, the north resembling the rolling, green hills of Ireland and the south giving you a taste of Moroccan landscapes and architecture. Its tremendous history is reflected in its prehistoric cave paintings, Moorish palaces, crumbling castles, Roman ruins, Gothic and Renaissance cathedrals as well as some very unique modern architecture. The uniqueness of Spain lies in the separate kingdoms which made up the original Spanish nation. These regions remain diverse in their language, culture, cuisine and art. These regions include: Andalucía, [Aragon](/europe/spain/aragon), Asturias, Basque Country, the Balearic Islands, the Canary Islands, Cantabria, Castilla La Mancha, Castilla León, Catalonia, Extremadura, Galicia, La Rioja, Madrid, Murcia, Navarra and Valencia. Areas of interest are not limited to each region, here are some highlights:

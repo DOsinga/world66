@@ -3,10 +3,6 @@ title: "Lithuania"
 type: location
 latitude: 55.35
 longitude: 23.75
-image: lithuania.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Trakai_Island_Castle_03.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Dudva" title="User:Dudva">Dudva</a>"
 ---
 
 Lithuania is the southernmost of the three Baltic states, sandwiched between Latvia to the north, Belarus to the east, Poland to the south, and the Russian exclave of Kaliningrad to the southwest. It's a small country — about the size of Ireland — but one with outsized history and a genuinely distinct character.

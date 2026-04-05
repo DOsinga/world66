@@ -3,10 +3,6 @@ title: "Chile"
 type: location
 latitude: -31.761336
 longitude: -71.31877
-image: chile.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Parinacota_volcano.jpg"
-image_license: "CC BY-SA 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/photos/mtchm/">mtchm</a> from -"
 ---
 
 Chile has the honour of being the thinnest country in the world if you compare its length with its width. The country is so long that in the north you will find the dryest of deserts and in the south you are on the closest point to the South Pole.

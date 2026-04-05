@@ -3,11 +3,6 @@ title: "Tuvalu"
 type: location
 latitude: -8.640521
 longitude: 179.158292
-image: tuvalu.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Funafuti_Plage_w.jpg"
-image_license: "CC BY-SA 2.0"
-image_attribution: "<ul><li>Original: Stefan Lins</li>
-<li>Modifications: The original uploader was <a href="https://en.wikipedia.org/wiki/lb:User:Cornischong" class="extiw" title="w:lb:User:Cornischong">Cornischong</a> at <a href="https://en.wikipedia.org/wiki/lb:" class="extiw" title="w:lb:">Luxembourgish Wikipedia</a>.</li></ul>"
 ---
 
 Tuvalu is one of the world's smallest and most remote nations — nine coral atolls scattered across the central Pacific, with a total land area of just 26 square kilometres and a population of around 11,000. It is also, almost certainly, the most endangered country on earth. Sea levels are rising at roughly five millimetres per year here, faster than the global average, and much of Tuvalu sits less than two metres above the tide. The question of whether the country will still exist in its current form by the end of this century is not abstract; it shapes politics, identity, and daily life.

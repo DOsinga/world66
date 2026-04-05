@@ -3,10 +3,6 @@ title: "Ireland"
 type: location
 latitude: 52.865196
 longitude: -7.97946
-image: ireland.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:2019_Trim_Castle_4.jpg"
-image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:B%C3%A4rwinkel,Klaus" title="User:Bärwinkel,Klaus">Bärwinkel,Klaus</a>"
 ---
 
 The **Republic of Ireland** occupies most of a small island on the northwest edge of Europe. It is a country of green hills, bogland, stone walls, and coast — and also of cities that punch well above their weight in terms of pubs, literature, and life. The Irish are genuinely welcoming to strangers, and traveling here rarely feels like hard work.

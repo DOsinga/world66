@@ -3,10 +3,6 @@ latitude: 46.825039
 longitude: 103.849974
 title: Mongolia
 type: location
-image: mongolia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg"
-image_license: "Public domain"
-image_attribution: "Corporal Brandon Rodriguez"
 ---
 
 Mongolia is one of the last places on earth where the land still feels genuinely empty. Twice the size of France but with fewer people than Sydney, it is a country of vast grasslands, crumbling desert and bone-white mountains — and a culture shaped entirely by the demands of that landscape.

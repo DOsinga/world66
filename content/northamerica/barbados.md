@@ -3,10 +3,6 @@ title: "Barbados"
 type: location
 latitude: 13.1939
 longitude: -59.5432
-image: barbados.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Bridgetown_Promenade.jpg"
-image_license: "CC BY-SA 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/30624156@N00">Loozrboy</a> from Toronto, Canada"
 ---
 
 Barbados is the most easterly island in the Caribbean — it sits alone in the Atlantic, well east of the main arc of the Lesser Antilles. This position shapes everything about it: the trade winds that keep the east coast surf-blown and wild, the coral aquifer that makes the tap water some of the purest in the Caribbean, and a certain self-assurance that comes from an island that has always stood slightly apart.

@@ -3,10 +3,6 @@ title: "United Kingdom"
 type: location
 latitude: 54.702354
 longitude: -3.276575
-image: unitedkingdom.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg"
-image_license: "CC BY 2.0"
-image_attribution: "Andrew Colin"
 ---
 
 Hi there, my name is Richard and being English I consider that I own the world. I will set my football hooligans on you if you dare think otherwise! O ya and we lick Bush's ass!!!!!

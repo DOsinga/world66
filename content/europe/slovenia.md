@@ -3,10 +3,6 @@ title: "Slovenia"
 type: location
 latitude: 46.119944
 longitude: 14.815333
-image: slovenia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:AC_A2_-_Viadukt_Moste_01.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Meho29" title="User:Meho29">Mihael Grmek</a>"
 ---
 
 Slovenia is a small country that packs an extraordinary amount of diversity into its 20,000 square kilometers. Alpine peaks, turquoise lakes, underground caves, vineyards, and a short stretch of Adriatic coastline all lie within a couple of hours' drive of each other. It is one of Europe's most rewarding destinations, particularly for travelers who love the outdoors.

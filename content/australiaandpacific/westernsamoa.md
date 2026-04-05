@@ -3,10 +3,6 @@ title: "Western Samoa"
 type: location
 latitude: -13.76939
 longitude: -172.12005
-image: westernsamoa.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:View_at_Salelologa_wharf_-_Samoa_2009.jpg"
-image_license: "CC BY 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/photos/54205326@N00">Sarah Kelemen</a>"
 ---
 
 The Samoa Islands are located in the Pacific Ocean. Western Samoa is an independent country. [American Samoa](/australiaandpacific/americansamoa) is part of the United States. Both groups of islands were discoverd by the same ecplorer Jacon Roggeveen and share one culture. 

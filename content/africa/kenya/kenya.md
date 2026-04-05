@@ -3,10 +3,6 @@ title: "Kenya"
 type: location
 latitude: 0.0236
 longitude: 37.9062
-image: kenya.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Mt_Kenya_landscape.jpg"
-image_license: "CC BY 2.0"
-image_attribution: "<a href="//www.flickr.com/people/40098061@N00" class="extiw" title="flickruser:40098061@N00">saragoldsmith</a>"
 ---
 
 *Africa > Kenya*

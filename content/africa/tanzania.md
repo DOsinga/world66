@@ -3,10 +3,6 @@ title: "Tanzania"
 type: location
 latitude: -6.524712
 longitude: 35.787844
-image: tanzania.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Ngorongoro_2012_05_29_2253_(7500941860).jpg"
-image_license: "CC BY-SA 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/10299779@N03">Harvey Barrison</a> from Massapequa, NY, USA"
 ---
 
 Tanzania is one of the great travel destinations of Africa. It has the continent's highest mountain, its most famous wildlife migration, its most storied spice island, and a coastline that has drawn traders and explorers for over a thousand years. Most visitors come for the safari parks — and they are extraordinary — but the country rewards those who look further.

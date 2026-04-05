@@ -3,10 +3,6 @@ title: "Sweden"
 type: location
 latitude: 59.674971
 longitude: 14.520858
-image: sweden.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Öresundsbron_från_Lernacken.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Jorchr" title="User:Jorchr">Jorchr</a>"
 ---
 
 Being the largest of the Scandinavian countries, Sweden offers you many opportunities for cultural and outdoor activities. Visit the cities and explore the country's glorious past or the life in a cosmopolitan and modern society. If you need rest from the hectic city life, just leave for the countryside, and vast forests, 90000 lakes, mountains and the beautiful sea await you.

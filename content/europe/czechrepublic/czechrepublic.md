@@ -3,10 +3,6 @@ title: "Czech Republic"
 type: location
 latitude: 49.8175
 longitude: 15.4730
-image: czechrepublic.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:CD-RJ_als_EC_73.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:N%C3%96LB_Mh&amp;action=edit&amp;redlink=1" class="new" title="User:NÖLB Mh (page does not exist)">NÖLB Mh</a>"
 ---
 
 Officially called Czechia since 2016, though Czech Republic remains widely used, this landlocked country in the heart of Central Europe punches well above its weight as a travel destination. It packs medieval old towns, fairytale castles, rolling Bohemian countryside, and one of the world's great beer cultures into a compact and very easy-to-navigate country.

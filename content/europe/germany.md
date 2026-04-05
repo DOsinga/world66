@@ -3,10 +3,6 @@ title: "Germany"
 type: location
 latitude: 51.163818
 longitude: 10.447831
-image: germany.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<b><a href="//commons.wikimedia.org/wiki/User:Der_Wolf_im_Wald" title="User:Der Wolf im Wald">Thomas Wolf</a></b>, <small><a rel="nofollow" class="external text" href="http://www.foto-tw.de">www.foto-tw.de</a></small>"
 ---
 
 From the High Alps in the South, the Bavarian plain, and the flowing hills of central Germany to the coast of the North and Baltic Sea: it all looks like a miniature train landscape packed with the nicest of old towns, medieval houses, gothic churches and small villages.

@@ -3,10 +3,6 @@ title: "Zimbabwe"
 type: location
 latitude: -18.455496
 longitude: 29.746841
-image: zimbabwe.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Bus-stop.jpg"
-image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Tarisai.m&amp;action=edit&amp;redlink=1" class="new" title="User:Tarisai.m (page does not exist)">Tarisai.m</a>"
 ---
 
 Zimbabwe is one of southern Africa's most rewarding destinations, a country of staggering natural beauty and deep cultural heritage that has endured decades of economic turmoil with remarkable resilience. From the thundering curtain of [Victoria Falls](/africa/zimbabwe/victoriafalls) to the ancient stone ruins of [Great Zimbabwe](/africa/zimbabwe/greatzimbabwe), this is a place that stays with you.

@@ -3,10 +3,6 @@ title: "Sudan"
 type: location
 latitude: 15.5527
 longitude: 32.5324
-image: sudan.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Badr_Airlines_Ilyushin_Il-76TD.jpg"
-image_license: "GFDL"
-image_attribution: "UR-SDV"
 ---
 
 Sudan is a country of extraordinary history and extraordinary suffering. Along the banks of the Nile, the ancient Nubian kingdoms built more pyramids than Egypt and left behind temples and royal cities that still stand in the desert. The people are, or were, among the most famously hospitable in Africa. The landscapes — from the Sahara in the north to the Red Sea hills in the east — are genuinely beautiful.

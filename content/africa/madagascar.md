@@ -3,10 +3,6 @@ title: "Madagascar"
 type: location
 latitude: -18.92496
 longitude: 46.441642
-image: madagascar.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Katta_család.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "Veszprémi Állatkert"
 ---
 
 *Africa > Madagascar*

@@ -3,10 +3,6 @@ title: "Slovakia"
 type: location
 latitude: 48.741152
 longitude: 19.452865
-image: slovakia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Vysoké_Tatry_vyfocené_z_Lysé_hory.jpg"
-image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Penguin9" title="User:Penguin9">Oleksandr Dede</a>"
 ---
 
 Slovakia is a small, landlocked country in the heart of Central Europe that consistently surprises visitors. Its capital [Bratislava](/europe/slovakia/bratislava) sits just 60 km from Vienna, making it one of the most accessible and affordable destinations in the region. But the real draw lies beyond the capital -- in the dramatic peaks of the High Tatras, the medieval mining towns of central Slovakia, and a countryside dotted with more castles per capita than almost anywhere in Europe.

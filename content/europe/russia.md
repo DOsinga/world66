@@ -3,10 +3,6 @@ title: "Russia"
 type: location
 latitude: 64.686314
 longitude: 97.745306
-image: russia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Moscow_-_Red_Square,_the_Kremlin_Wall_and_Lenin's_Mausoleum.jpg"
-image_license: "CC BY 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:%D0%AE%D1%80%D0%B8%D0%B9_%D0%94.%D0%9A." title="User:Юрий Д.К.">Юрий Д.К.</a>"
 ---
 
 Russia is the largest country on earth, stretching from the Baltic Sea to the Pacific Ocean across eleven time zones. It is a land of extremes -- vast Siberian wilderness, imperial cities of staggering grandeur, and a cultural heritage that produced Tolstoy, Tchaikovsky, and Tarkovsky. For travelers willing to navigate the bureaucracy, the rewards are immense.

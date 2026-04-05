@@ -3,10 +3,6 @@ latitude: 9.529347
 longitude: 2.258441
 title: Benin
 type: location
-image: benin.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Benin_-_Aeroporto_de_Cotonou_-_Entrada.JPG"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Vitorabdala&amp;action=edit&amp;redlink=1" class="new" title="User:Vitorabdala (page does not exist)">Vitorabdala</a>"
 ---
 
 Benin is one of West Africa's most fascinating small countries -- the birthplace of voodoo, the heart of the old Dahomey kingdom, and a major center of the Atlantic slave trade. It packs extraordinary history and culture into a slender strip of land between Togo and Nigeria, running from the palm-lined coast up through savanna to the Atakora mountains in the north.

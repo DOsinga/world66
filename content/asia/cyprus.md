@@ -3,10 +3,6 @@ title: "Cyprus"
 type: location
 latitude: 34.917416
 longitude: 32.889903
-image: cyprus.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Near_Trodos,_Cyprus_(8132780501).jpg"
-image_license: "CC BY 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/97006177@N00">Michal Osmenda</a> from Brussels, Belgium"
 ---
 
 Cyprus is the third-largest island in the Mediterranean — Greek in character in the south, Turkish in the north, and divided since 1974. The division is the defining fact of modern Cyprus and the first thing any traveler needs to understand: roughly 37% of the island is administered by Turkish Cyprus (the Turkish Republic of Northern Cyprus, recognized only by Turkey), while the Republic of Cyprus controls the south and is a member of the European Union.

@@ -3,10 +3,6 @@ title: "Denmark"
 type: location
 latitude: 55.670249
 longitude: 10.333328
-image: denmark.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:MikkelH" class="mw-redirect" title="User:MikkelH">Mikkel Houmøller</a>"
 ---
 
 Denmark is small, flat, and extraordinarily livable. It occupies the Jutland peninsula and some 400 inhabited islands, jutting northward between the North Sea and the Baltic. Germany is its only land border. Norway and Sweden lie across the straits to the north and east.

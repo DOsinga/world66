@@ -3,14 +3,6 @@ title: "Netherlands"
 type: location
 latitude: 52.243498
 longitude: 5.634323
-image: netherlands.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:International_Court_of_Justice_HQ_2006.jpg"
-image_license: "Public domain"
-image_attribution: "<a href="https://en.wikipedia.org/wiki/International_Court_of_Justice" class="extiw" title="w:International Court of Justice">International Court of Justice</a>; originally uploaded by <a href="https://en.wikipedia.org/wiki/User:Yeu_Ninje" class="extiw" title="w:User:Yeu Ninje">Yeu Ninje</a> at <a class="external text" href="https://en.wikipedia.org">en.wikipedia</a>."
-image: netherlands.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:The_windmills_of_Kinderdijk.JPG"
-image_license: "CC BY-SA 3.0 nl"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Tarod" title="User:Tarod">Tarod</a>"
 ---
 
 The Netherlands is a small, flat, densely populated country in the northwest corner of Europe, wedged between [Germany](/europe/germany) and [Belgium](/europe/belgium) with its face turned towards the North Sea. It is far more interesting than the stereotype of windmills and tulips suggests — though the windmills and tulips are genuinely worth seeing.

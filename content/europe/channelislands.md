@@ -3,10 +3,6 @@ title: "Channel Islands"
 type: location
 latitude: 49.372
 longitude: -2.364
-image: channelislands.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Châté_Lîzabé_d'l'Hèrmitage_2009_c.jpg"
-image_license: "Public domain"
-image_attribution: "Man vyi"
 ---
 
 The Channel Islands sit closer to the coast of Normandy than to England — just 14 miles from France at their nearest point — yet they are British Crown dependencies with their own parliaments, legal systems, and tax rules. They are not part of the United Kingdom and not part of the EU, which gives them an unusual autonomy that shapes everything from prices to alcohol policy.

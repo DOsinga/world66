@@ -49,19 +49,6 @@ img { max-width: 100%; height: auto; }
   transition: background 0.3s;
 }
 
-/* When map is expanded into hero, the page image migrates to the header */
-#header.header-hero-image {
-  background-image: var(--hero-image);
-  background-size: cover;
-  background-position: center 40%;
-}
-
-#header.header-hero-image .header-top,
-#header.header-hero-image .top-nav,
-#header.header-hero-image .breadcrumbs {
-  background: rgba(255, 255, 255, 0.82);
-  backdrop-filter: blur(4px);
-}
 
 .header-inner {
   max-width: 980px;
@@ -78,41 +65,22 @@ img { max-width: 100%; height: auto; }
   position: relative;
   overflow: hidden;
   transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  /* Background image bleeds through from body when in photo mode */
+  background: transparent;
 }
 
 .hero.hero-expanded {
   height: 65vh;
 }
 
-.hero-image {
-  /* Background image is set on body; hero is transparent to show through */
-  background: transparent;
-  cursor: default;
+/* Layers inside hero (map layer, etc.) — fill the full hero strip */
+.hero-layer {
+  position: absolute;
+  inset: 0;
 }
 
-/* Hero map zone — full-viewport-width strip, positioned via JS to sit below header */
-.hero-map-zone {
-  display: none;
-  position: fixed;
-  left: 0;
-  right: 0;
-  height: 200px;
+.hero-map-layer {
   background: #f0f0ec;
-  z-index: 9000;
-}
-
-.hero-map-zone #location-map {
-  width: 100%;
-  height: 100%;
-}
-
-.hero.hero-showing-map .hero-map-zone {
-  display: block;
-}
-
-.hero.hero-showing-map .hero-expand-btn,
-.hero.hero-showing-map .hero-attribution {
-  display: none;
 }
 
 /* Attribution link bottom-left */
@@ -132,6 +100,38 @@ img { max-width: 100%; height: auto; }
 }
 .hero-attribution:hover { opacity: 1; color: #fff; text-decoration: none; }
 
+/* Photo / Map toggle bar — top-right of hero */
+.hero-toggle-bar {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  display: flex;
+  gap: 0;
+  z-index: 20;
+}
+
+.hero-toggle-btn {
+  background: rgba(255,255,255,0.88);
+  color: var(--text);
+  border: 1px solid rgba(0,0,0,0.18);
+  padding: 4px 12px;
+  font-size: 12px;
+  font-family: Verdana, Arial, sans-serif;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.hero-toggle-btn:first-child { border-radius: 4px 0 0 4px; }
+.hero-toggle-btn:last-child  { border-radius: 0 4px 4px 0; border-left: none; }
+
+.hero-toggle-btn:hover { background: #fff; color: var(--red); }
+
+.hero-toggle-btn.hero-toggle-active {
+  background: var(--red);
+  color: #fff;
+  border-color: var(--red-dark);
+}
+
 /* Expand/collapse chevron button */
 .hero-expand-btn {
   position: absolute;
@@ -148,102 +148,88 @@ img { max-width: 100%; height: auto; }
   cursor: pointer;
   opacity: 0.7;
   transition: opacity 0.15s;
-  z-index: 10;
-}
-.hero-expand-btn:hover { opacity: 1; background: rgba(0,0,0,0.65); }
-
-/* Map toggle button top-right */
-.hero-map-btn {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  background: rgba(255,255,255,0.9);
-  color: var(--text);
-  border: 1px solid rgba(0,0,0,0.15);
-  border-radius: 4px;
-  padding: 5px 12px;
-  font-size: 13px;
-  font-family: Verdana, Arial, sans-serif;
-  cursor: pointer;
-  z-index: 10;
-  transition: background 0.15s;
-}
-.hero-map-btn:hover { background: #fff; color: var(--red); }
-
-/* Map pane — hidden by default, slides in over the image */
-.hero-map-pane {
-  position: absolute;
-  inset: 0;
-  display: none;
   z-index: 20;
 }
-.hero-map-pane.hero-map-pane-open {
-  display: block;
-}
-
-.hero-map-close {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  background: rgba(255,255,255,0.92);
-  color: var(--text);
-  border: 1px solid rgba(0,0,0,0.15);
-  border-radius: 4px;
-  padding: 5px 12px;
-  font-size: 13px;
-  font-family: Verdana, Arial, sans-serif;
-  cursor: pointer;
-  z-index: 10000;
-  pointer-events: all;
-}
-.hero-map-close:hover { background: #fff; color: var(--red); }
-
-/* Leaflet map inside hero (both image-toggle and map-only modes) */
-.hero-map-leaflet {
-  width: 100%;
-  height: 100%;
-}
-
-/* Map-only hero */
-.hero-map {
-  background: #f0f0ec;
-}
+.hero-expand-btn:hover { opacity: 1; background: rgba(0,0,0,0.65); }
 
 /* ==========================================================================
    Content-area map / photo preview box
    ========================================================================== */
 
-.content-map-preview {
+.content-preview {
   position: relative;
   margin: 0 0 20px 0;
   height: 200px;
   border: 1px solid var(--border);
   border-left: 3px solid var(--red);
   overflow: hidden;
-  cursor: pointer;
+  transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  background: #f0f0ec;
 }
 
-.content-map-leaflet {
-  width: 100%;
-  height: 100%;
+.content-preview.content-preview-expanded {
+  height: 50vh;
 }
 
-/* Expand button on the content map preview */
-.content-map-expand-btn {
+/* Layers inside content preview (map, photo) — fill the box */
+.content-preview-layer {
   position: absolute;
-  top: 8px;
+  inset: 0;
+}
+
+.content-photo-layer {
+  background-size: cover;
+  background-position: center;
+}
+
+/* Map / Photo toggle bar — bottom-right of content preview */
+.content-toggle-bar {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  display: flex;
+  gap: 0;
+  z-index: 1000;
+}
+
+.content-toggle-btn {
+  background: rgba(255,255,255,0.88);
+  color: var(--text);
+  border: 1px solid rgba(0,0,0,0.18);
+  padding: 3px 10px;
+  font-size: 12px;
+  font-family: Verdana, Arial, sans-serif;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.content-toggle-btn:first-child { border-radius: 4px 0 0 4px; }
+.content-toggle-btn:last-child  { border-radius: 0 4px 4px 0; border-left: none; }
+
+.content-toggle-btn:hover { background: #fff; color: var(--red); }
+
+.content-toggle-btn.content-toggle-active {
+  background: var(--red);
+  color: #fff;
+  border-color: var(--red-dark);
+}
+
+/* Expand button — top-right of content preview */
+.content-expand-btn {
+  position: absolute;
+  top: 6px;
   right: 8px;
   z-index: 1000;
-  background: rgba(255,255,255,0.9);
-  border: 1px solid rgba(0,0,0,0.15);
+  background: rgba(255,255,255,0.88);
+  border: 1px solid rgba(0,0,0,0.18);
   border-radius: 4px;
-  padding: 4px 8px;
-  font-size: 15px;
+  padding: 3px 10px;
+  font-size: 16px;
   line-height: 1;
   cursor: pointer;
   color: var(--text);
 }
-.content-map-expand-btn:hover { background: #fff; color: var(--red); }
+.content-expand-btn:hover { background: #fff; color: var(--red); }
 
 .header-top {
   padding: 14px 20px 10px;
@@ -781,22 +767,6 @@ img { max-width: 100%; height: auto; }
   font-weight: bold;
 }
 
-/* Fullscreen map overlay (map-only hero expand button) */
-.map-expand-btn {
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  z-index: 1000;
-  background: rgba(255,255,255,0.9);
-  border: 1px solid rgba(0,0,0,0.15);
-  border-radius: 4px;
-  padding: 5px 10px;
-  font-size: 16px;
-  line-height: 1;
-  cursor: pointer;
-  color: var(--text);
-}
-.map-expand-btn:hover { background: #fff; color: var(--red); }
 
 /* Content image — float right like original */
 .content-image {

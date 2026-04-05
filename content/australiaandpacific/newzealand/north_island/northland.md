@@ -17,4 +17,3 @@ Places in Northland include:
 
 [Bay of islands](/australiaandpacific/newzealand/bayofislands) including [Kerikeri](/australiaandpacific/newzealand/kerikeri) and [Romantic Russell](/australiaandpacific/newzealand/romanticrussell)
 
-Minor corrections on 11 January 05

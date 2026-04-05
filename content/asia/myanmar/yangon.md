@@ -5,11 +5,10 @@ latitude: 16.796713
 longitude: 96.160992
 ---
 
-Myanmar’s capital has its very special charm, although some people rate Yangoon as very crowded and noisy. The many shady parks and beautiful lakes have earned a reputation as the garden city of the East. Its unmistakably colonial style buildings, open markets and wide treelined avenues endow it with a strange mix of old world charm and modern vitality. 
+Yangon is Myanmar's largest city and commercial capital, a sprawling place of lakes, pagodas, and crumbling colonial buildings set against a backdrop of street vendors and trishaws. It is not as frantic as Bangkok or as clean as Singapore, but it has a character all its own — slow-moving and atmospheric in a way that most of Southeast Asia no longer is.
 
+The Shwedagon Pagoda dominates the skyline and is the undisputed centrepiece of any visit. The glistening gold-covered stupa, reputedly 2,500 years old, towers over Singuttara Hill and draws pilgrims from across Myanmar. Allow a few hours here, particularly at dusk when the light is at its best.
 
- Every evening the streets of downtown Yangoon turn into one big supermarket. Streetvendors sell almost everything. You can also have a cheap meal on the streets. 
+Downtown Yangon preserves one of Asia's most intact grids of British colonial architecture. The grand but decaying buildings along Strand Road and the streets surrounding Bogyoke Market were built in the early 20th century and remain largely unchanged. Walking these streets at any hour offers a vivid sense of the colonial era. The Strand Hotel, though expensive, is worth visiting for a drink at the bar.
 
-The highlight of the cityscape is the famous Shwedagon Pagoda – especially near sunset. It towers above the Yangon landscape with a serenity so unique that it is often considered as one of the wonders of the world. According to legend, this glistening gold covered pagoda was built over two and a half thousand years ago as a place of Buddhist worship. 
- 
- Other sights of Yangon are the 2200 year old Sule Pagoda (with one of Buddha’s hair), the Botataung Pagoda and the Kyauk Htat Gyi Pagoda with the 233 ft./71m long Reclining Buddha. After Mandalay, Yangon became capital of Burma in 1885.
+The evening street markets that spread across the downtown area after dark are another highlight. Street vendors set up along most major roads selling food, clothing, and everyday goods. It is one of the best places in the country to eat cheaply and well on the street.

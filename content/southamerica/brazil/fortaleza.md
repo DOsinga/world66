@@ -1,8 +1,10 @@
 ---
-title: "Fortaleza"
+title: Fortaleza
 type: location
 latitude: -3.730451
 longitude: -38.521799
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Fortaleza is the capital of Ceará state and one of Brazil's largest cities, with about 2.5 million people, on the Atlantic coast in the northeast. It is primarily a beach city: the urban beaches of Praia de Iracema and Praia do Meireles line the Avenida Beira Mar, which comes alive every evening with food stalls, craft markets, and street performers. The ocean breeze keeps temperatures bearable year-round, and the trade winds make the northeast coast ideal for kitesurfing.

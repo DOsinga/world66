@@ -1,8 +1,10 @@
 ---
-title: "Miri"
+title: Miri
 type: location
 latitude: 4.39401
 longitude: 113.98802
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Miri is a city of about 300,000 on the northern coast of Sarawak, Malaysian Borneo, close to the Brunei border. It was built on oil — the first oil well in Malaysia was drilled here in 1910 on Canada Hill, which now has a small petroleum museum — and the city retains traces of its colonial-era boom in its waterfront and older districts. Today Miri is primarily known as the gateway to two of Borneo's most spectacular natural destinations.

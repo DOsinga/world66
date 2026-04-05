@@ -1,6 +1,8 @@
 ---
 title: "Prizren"
 type: location
+lat: 42.2139
+long: 20.7397
 ---
 
 Prizren is one of the most beautiful towns of the Kosova. It is located on the slopes of the Sharr Mountains and on the banks of the river Bistrica. The old centre has many beautiful houses with balconies facing gardens full of foliage. Numerous narrow, winding streets work their way up to the Kalaja - the old fortress dominating the town. 

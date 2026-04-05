@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Ullal"
+title: "Day Trips"
 type: section
 ---
 

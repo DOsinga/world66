@@ -1,26 +1,10 @@
 ---
 title: "Nightlife and Entertainment"
 type: section
-closing_time: "4 AM"
-type: "Clubs and dancing"
 ---
 
-Lots going on, specially in the summer on weekend nights. If you like classic dark, smoky basement jazz, start at Zanzibar where the reknowned Zanziband often plays. It is just off Mother Teresa Street, one street further south from Iliria Hotel.
+Lots going on, especially in summer on weekend nights. For classic dark, smoky basement jazz, try Zanzibar — just off Mother Teresa Street, one block south of the Iliria Hotel — where the Zanziband often plays. Zebra bar near the University is also good and less smoky.
 
-Zebra bar near the University is also good and not nearly as smoky.
+On Friday and Saturday nights, live bands play at Movie Club, a large outdoor bar opposite the OSCE behind the Irish pub. Early evening, Kaqa is ideal — a garden bar with a pond in the middle, lively crowd, and good people-watching. After 10pm on weekends it fills up fast.
 
-On Fri and Sat night, from 9-1am, live bands at Movie Club (big outside bar opposite OSCE behind the Irish). Saturday Energy band plays there, who are very good cover band.
-
-Early evening, Kaqa is perfect with its pond in the middle of the garden, lively crowd and good people-watching. After 10pm on weekends, it becomes very crowded.
-
-After 1am, if you fancy body-on-body dancing in the world's narrowest bar, nothing beats the Irish. Stays open til they kick you out around sunrise.
-
-Omikron - new Greek bar with food, stylish, but mostly international crowd. Just up alley behind Irish.
-
-Terambire: New local bar up steps opposite military statue on Mother Teresa. Near university. Great architectural design, very cool young people.
-
-### Club Spray
-
-Club Spray is perhaphs the most famous club in the Kosova area. Besides having a great crowd packing the dance floor every weakend, club Spray is also Famous for bringing quality music, such as many DJ's from London, and Europe in general.
-
-type: Clubs and dancing
+After 1am, the Irish bar stays open till sunrise and is famous for body-on-body dancing in what may be the world's narrowest space. Omikron (just up the alley behind the Irish) is a stylish Greek bar with food, drawing a largely international crowd. Terambire, up the steps opposite the military statue on Mother Teresa Street near the university, has great architectural design and a young local crowd.

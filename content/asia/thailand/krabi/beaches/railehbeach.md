@@ -1,8 +1,9 @@
 ---
-title: "Rai Leh Beach"
+title: "Railay Beach"
 type: poi
+category: "Sight"
+latitude: 8.0100
+longitude: 98.8380
 ---
 
-The west side of the headland features a beautiful curved beach backed by limestone cliffs and jungle which provide contrast with the flat blue waters of the Andaman sea. The very picture of tropical paradise, it is a favourite place for climbers and water sport enthusiasts. Accommodation choice is surprisingly varied for such a small area - everything to luxury resort style to the most basic bungalows, and a few restaurants and bars provide the basic necessities. High season is busy, but it's also worth making a trip in low season when most activities can still be enjoyed, and monsoon weather changes provide spectacular views over the ocean. The east side of Rai Leh Beach is home mostly to mangroves, some accommodation and restaurants. Pre-tsunami, this was where the budget bungalows were located. 
-
-Rai Leh West was the beach to get transport to Ao Nang, Rai Leh east was for boats to Krabi, though the latter required 10 passengers and it was ultimately quicker to go to Ao Nang and take the bus instead.
+The most beautiful beach on the Krabi coast and one of the best-known in Thailand. The small Railay peninsula is cut off from the mainland by a wall of limestone cliffs that make it inaccessible by road — everyone arrives by long-tail boat from Ao Nang (about 15 minutes) or Krabi Town (around 45). The west side, **Railay West**, is a long curve of white sand set against dramatic cliffs, a favourite of rock climbers and sunset-watchers; the east side, **Railay East**, faces mangroves and has the cheaper accommodation. Between the two, **Phra Nang Beach** — a short walk over the headland — is a jewel of a cove hemmed in by caves, with warm shallow water and the bizarre local custom of leaving wooden phalluses in the Princess Cave as offerings for fertility.

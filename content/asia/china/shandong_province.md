@@ -5,30 +5,11 @@ latitude: 36.398987
 longitude: 118.505569
 ---
 
-Shandong is often considered to be the seat of Chinese culture. Located
-along the East coast of China between Hebei and Jiangsu provinces it
-juts out into the East China Sea. If China looks like a chicken, then
-Shandong province looks like a vulture.
+Shandong is one of the historical cradles of Chinese civilisation — a flat, densely populated province on the Yellow Sea coast between Beijing and Shanghai, best known as the birthplace of **Confucius** and **Sun Tzu**. Both men were born here within a century of each other, and their ideas — one shaping Chinese ethics for 2,500 years, the other shaping its military thinking — still give Shandong a certain weight in the Chinese imagination. The province is also the origin of two of China's most famous exports: silk and Tsingtao beer.
 
-There are a number of famous cities in Shadong Province. Jinan is the
-capitol of the province located along the primary north-south rail line
-along the East coast and is known for Baotou springs. [Tai'an](/asia/china/shandong_province/taian), an hour
-south of Jinan, is known for Taishan (Tai mountain). Qufu, an hour
-south of Tai'an, was the home of Confucius (K'ung Fu Tzu). [Qingdao](/asia/china/qingdao)
-was a German treaty port and is now a beautiful coastal city with sandy
-beaches and German architecture. It's also home of China's best beer, Tsingtao (old spelling of Qingdao).
-Weifang, located on the eastern end of the province, is known for its
-yearly kite festival. Yantai on the Northern coast is known for its
-apples.
-
-Shandong is considered a seat of Chinese culture for a couple reasons.
-The main reason is that it was the home of Confucius. The saying of
-Confucius can be found in **The Analects**. Confucian thought was (and still is) the foundation of tradition Chinese culture and relationships. Also, Sun Tzu, author of **The Art of War**, lived in Shandong. Shandong is also known for its silk and porcelain.
-
-**Contributors**
-June 07, 2005
+For travellers the obvious destinations form a neat north–south line. **[Qingdao](/asia/china/shandong_province/qingdao)**, on the coast, is a former German treaty port with leafy streets, red-tiled roofs, and a 19th-century European quarter that looks more Bavarian than Chinese; it is where the famous beer is brewed, and its beaches are the best within a day of Beijing. Inland, **[Tai'an](/asia/china/shandong_province/taian)** sits at the foot of **Tai Shan**, the holiest of China's five sacred Taoist mountains, climbed by pilgrims since before the first emperor. A short hop further south, **Qufu** is the hometown of Confucius and holds his enormous family temple, mansion, and cemetery — a UNESCO ensemble unlike anything else in China. The provincial capital **Jinan** is famous for its springs; **Weifang**, on the east, for its international kite festival; and **Yantai**, at the northern tip, for apples and wine.
 
 ## Destinations in Shandong Province
 
-[Qingdao](/asia/china/shandong_province/qingdao)
-[Tai'an](/asia/china/shandong_province/taian)
+- [Qingdao](/asia/china/shandong_province/qingdao)
+- [Tai'an](/asia/china/shandong_province/taian)

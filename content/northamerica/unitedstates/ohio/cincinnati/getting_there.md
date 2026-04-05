@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Cincinnati"
+title: "Getting There"
 type: section
 ---
 

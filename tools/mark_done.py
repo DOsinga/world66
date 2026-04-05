@@ -27,14 +27,16 @@ import frontmatter
 
 def mark_done(path: Path, task: str, date: dt.date) -> str:
     post = frontmatter.load(path)
-    done = post.get("done") or {}
+    done = post.get("done")
+    if done is None:
+        done = {}
     if not isinstance(done, dict):
         raise ValueError(f"{path}: existing `done` field is not a mapping")
     action = "updated" if task in done else "added"
     done[task] = date
     post["done"] = done
     # sort_keys=False preserves existing field order in the frontmatter.
-    path.write_text(frontmatter.dumps(post, sort_keys=False) + "\n")
+    path.write_text(frontmatter.dumps(post, sort_keys=False) + "\n", encoding="utf-8")
     return action
 
 

@@ -28,7 +28,7 @@ IMAGE_KEYS = {"image", "image_source", "image_license", "image_attribution"}
 
 FRONTMATTER_RE = re.compile(r"^(---\s*\n)(.*?)(\n---\s*\n?)(.*)$", re.DOTALL)
 ATTR_LINE_RE = re.compile(
-    r'^image_attribution: "(.*?)"\s*$', re.DOTALL | re.MULTILINE
+    r'^image_attribution: "(.*?)"\s*$', re.MULTILINE
 )
 KEY_RE = re.compile(r"^([a-z_]+):")
 

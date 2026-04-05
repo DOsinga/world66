@@ -32,7 +32,11 @@ def run():
         if not filepath.exists():
             continue
 
-        post = frontmatter.load(filepath)
+        try:
+            post = frontmatter.load(filepath)
+        except Exception as e:
+            print(f"Warning: skipping {filepath}: {e}")
+            continue
         if "latitude" in post.metadata and "longitude" in post.metadata:
             continue
 

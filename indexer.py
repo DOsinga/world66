@@ -72,7 +72,15 @@ def index_file(conn, path):
     if row and row[0] == mtime and row[1] == h:
         return
 
-    title, body, page_type = extract(path)
+    try:
+        try:
+        title, body, page_type = extract(path)
+    except Exception as e:
+        print(f"Warning: skipping {path}: {e}")
+        return
+    except Exception as e:
+        print(f"Warning: skipping {path}: {e}")
+        return
     url_path = _url_path(path.relative_to(CONTENT_DIR))
     location = _find_parent_location(path)
     conn.execute("DELETE FROM docs WHERE path=?", (rel,))

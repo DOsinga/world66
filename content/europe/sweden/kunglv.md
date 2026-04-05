@@ -1,15 +1,14 @@
 ---
-title: "Kungälv"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 57.870795
 longitude: 11.979962
+title: Kungälv
+type: location
 ---
 
-Travel Guide
+Kungälv sits on the Nordre Älv river, just 20 kilometres north of Gothenburg — close enough for a day trip, substantial enough to deserve one. The town's history goes back a thousand years, and it shows: the ruins of Bohus Fästning loom over the river from a rocky island, and the old town centre around Gamla Torget still has its cobbled streets and wooden houses painted in warm colours.
 
-The town of Kungälv is situated on the west coast of Sweden, just north of [Göteborg](/europe/sweden/gothenburg).
-The long coastline and beautiful archipelago makes it a perfect place for sailing, fishing and swimming. Kungälv has fields, rocks and woods with designated rambling paths and cycling tracks, golf courses and tennis courts. In the wildlife reserve of Svartedalen you can fish for trout and salmon. (Fishing licences available on site).
-There´s a lot to do and a lot to see. Enjoy the scenic beauty, the events and the entertainment! Kungälv has a superb position by the river Nordre Älv.
-The ruins of the fortress, Bohus Fästning, are a proud monument of the fascinating history of the town, which dates back a thousand years. The well preserved old town centre consists of Torget (the old square), the church and the cobbled streets Östra gatan and Västra gatan, along which there are wooden houses, built centuries ago.
-The island in the river - Fästningsholmen - is an open invitation to a picnic. In Kungälv you will find a good selection of shops and modern shopping centres as well as an open air market. There are cafés and restaurants and large car parks.
-The galleries in Kungälv put on interesting exhibitions and artists and craftsmen sell their creations. You are welcome to visit the local library, where you will find a weekly newspaper and magazines in English.
+The medieval quarter is the heart of Kungälv. Östra Gatan and Västra Gatan wind between 17th and 18th-century timber buildings, and the church square anchors it all. Nytorget, the newer square, has a statue commemorating the 1101 meeting of the three Scandinavian kings — Sweden, Norway, and Denmark — a moment that shaped the region's borders for centuries.
+
+Beyond the old town, Kungälv opens up to the wider west-coast landscape: the Nordre Älv delta, the Svartedalen nature reserve with trout and salmon fishing, and easy access to the Gothenburg archipelago for sailing and swimming.

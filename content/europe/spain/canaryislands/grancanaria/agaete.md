@@ -5,10 +5,6 @@ latitude: 28.10085
 longitude: -15.702348
 ---
 
-Travel Guide
+Agaete is a small town of around 5,800 people on Gran Canaria's northwest coast, at the mouth of a green valley that produces the only commercially grown coffee in Europe. It feels genuinely local — not a resort — with a compact fishing harbour at El Puerto de las Nieves from which fast ferries cross to Tenerife in under an hour.
 
-Agaete is a town of 5,800 people located in the Northwest of Gran Canaria. There are ferries leaving from El Puerto de las Nieves on a daily basis heading to Tenerife. The journey takes less than an hour.
-
-Agaete is known all over the Canary Islands for its yearly festivities of La Rama, taking place early in August every year and attracting thousands of people from all over the Archipelago.
-
-La Rama is also celebrated in El Valle de Agaete in late June.
+The valley behind the town, Valle de Agaete, is worth a wander: banana plantations, citrus groves, and terraced gardens climb towards the mountains. In late August the town holds La Rama, one of the most important festivals in the Canary Islands, drawing crowds from across the archipelago for a procession in which branches are carried down from the mountains to the sea — a survival of an ancient Guanche rain-calling ritual.

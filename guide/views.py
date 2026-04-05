@@ -9,7 +9,7 @@ from django.http import Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page, load_tag_index
+from .models import CONTENT_DIR, load_page, load_tag_index
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 

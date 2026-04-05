@@ -16,7 +16,7 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 
 2. **Pick a shard**
    - Look in `todo/$ARGUMENTS/` for `.txt` batch files.
-   - Pick one at random from the first 10 available (alphabetically).
+   - Pick one at random from the first 10 available (alphabetically). Pick at random, run an actual script.
    - Read the shard file to get the list of items to process.
 
 3. **Check for existing PRs**

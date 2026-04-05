@@ -1,8 +1,10 @@
 ---
-title: "Kingston"
+title: Kingston
 type: location
-latitude: 17.9970
+latitude: 17.997
 longitude: -76.7936
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Kingston is Jamaica's capital and by far its largest city — home to about a third of the island's population. It's the cultural engine of the country: reggae and dancehall were born here, the national museums are here, and the city's creative energy is unlike anywhere else in the Caribbean. Most package tourists never come, which means those who do have the major sights largely to themselves.

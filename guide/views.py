@@ -5,7 +5,7 @@ from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import Http404, JsonResponse
+from django.http import FileResponse, Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 

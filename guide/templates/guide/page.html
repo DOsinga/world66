@@ -92,17 +92,10 @@
 
 {% block hero %}
 {% if hero_image_url %}
-<div id="hero" class="hero hero-image" style="background-image: url('{{ hero_image_url }}')">
+<div id="hero" class="hero hero-image">
   <div class="hero-overlay"></div>
   {% if hero_image_source %}
   <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
-  {% endif %}
-  {% if markers_json != "[]" or lat and lng %}
-  <button class="hero-map-btn" id="hero-map-btn" aria-label="Show map">&#x1F5FA; Map</button>
-  <div class="hero-map-pane" id="hero-map-pane">
-    <div id="location-map" class="hero-map-leaflet"></div>
-    <button class="hero-map-close" id="hero-map-close" aria-label="Show image">&#x2715; Close map</button>
-  </div>
   {% endif %}
   <button class="hero-expand-btn" id="hero-expand-btn" aria-label="Expand image" title="Show more">&#8964;</button>
 </div>
@@ -113,13 +106,35 @@
 {% elif markers_json != "[]" or lat and lng %}
 <div id="hero" class="hero hero-map">
   <div id="location-map" class="hero-map-leaflet"></div>
-  <button class="map-expand-btn" aria-label="Fullscreen map" title="Fullscreen">&#x26F6;</button>
 </div>
 {% endif %}
 {% endblock %}
 
+{% block body_style %}
+{% if hero_image_url %}<style>body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;background-attachment:fixed;}</style>{% endif %}
+{% endblock %}
+
 {% block content %}
 <h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
+
+{% if hero_image_url and markers_json != "[]" or hero_image_url and lat and lng %}
+<div class="content-map-preview" id="content-map-preview">
+  <div class="content-map-preview-inner">
+    <div id="location-map" class="content-map-leaflet"></div>
+    <div class="content-map-preview-image" id="content-preview-image" style="background-image:url('{{ hero_image_url }}')"></div>
+  </div>
+  <div class="content-map-toggle">
+    <button class="content-map-btn active" id="btn-map" data-target="map">Map</button>
+    <button class="content-map-btn" id="btn-photo" data-target="photo">Photo</button>
+  </div>
+</div>
+{% elif not hero_image_url and markers_json != "[]" or not hero_image_url and lat and lng %}
+<div class="content-map-preview" id="content-map-preview">
+  <div class="content-map-preview-inner">
+    <div id="location-map" class="content-map-leaflet"></div>
+  </div>
+</div>
+{% endif %}
 
 {% if page.properties %}
 <div class="info-box">
@@ -234,70 +249,48 @@ initCountryMap('country-map', '{{ continent_slug|escapejs }}');
 </script>
 {% elif markers_json != "[]" %}
 <script>
-{% if hero_image_url %}
-(function() {
-  var mapPane = document.getElementById('hero-map-pane');
-  var mapBtn = document.getElementById('hero-map-btn');
-  var closeBtn = document.getElementById('hero-map-close');
-  var mapInitialized = false;
-  if (!mapBtn) return;
-  mapBtn.addEventListener('click', function() {
-    mapPane.classList.add('hero-map-pane-open');
-    mapBtn.style.display = 'none';
-    if (!mapInitialized) {
-      initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
-      mapInitialized = true;
-    }
-  });
-  closeBtn.addEventListener('click', function() {
-    mapPane.classList.remove('hero-map-pane-open');
-    mapBtn.style.display = '';
-  });
-})();
-{% else %}
 initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
-{% endif %}
 </script>
 {% elif lat and lng %}
 <script>
-{% if hero_image_url %}
-(function() {
-  var mapPane = document.getElementById('hero-map-pane');
-  var mapBtn = document.getElementById('hero-map-btn');
-  var closeBtn = document.getElementById('hero-map-close');
-  var mapInitialized = false;
-  if (!mapBtn) return;
-  mapBtn.addEventListener('click', function() {
-    mapPane.classList.add('hero-map-pane-open');
-    mapBtn.style.display = 'none';
-    if (!mapInitialized) {
-      initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
-      mapInitialized = true;
-    }
-  });
-  closeBtn.addEventListener('click', function() {
-    mapPane.classList.remove('hero-map-pane-open');
-    mapBtn.style.display = '';
-  });
-})();
-{% else %}
 initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
-{% endif %}
 </script>
 {% endif %}
 {% if hero_image_url %}
 <script>
 (function() {
+  // Expand/collapse hero image
   var hero = document.getElementById('hero');
-  var btn = document.getElementById('hero-expand-btn');
-  if (!hero || !btn) return;
-  var expanded = false;
-  btn.addEventListener('click', function() {
-    expanded = !expanded;
-    hero.classList.toggle('hero-expanded', expanded);
-    btn.innerHTML = expanded ? '&#8963;' : '&#8964;';
-    btn.title = expanded ? 'Show less' : 'Show more';
-  });
+  var expandBtn = document.getElementById('hero-expand-btn');
+  if (hero && expandBtn) {
+    var expanded = false;
+    expandBtn.addEventListener('click', function() {
+      expanded = !expanded;
+      hero.classList.toggle('hero-expanded', expanded);
+      expandBtn.innerHTML = expanded ? '&#8963;' : '&#8964;';
+      expandBtn.title = expanded ? 'Show less' : 'Show more';
+    });
+  }
+
+  // Map/photo toggle in content preview
+  var btnMap = document.getElementById('btn-map');
+  var btnPhoto = document.getElementById('btn-photo');
+  var mapEl = document.querySelector('.content-map-leaflet');
+  var photoEl = document.getElementById('content-preview-image');
+  if (btnMap && btnPhoto && mapEl && photoEl) {
+    btnMap.addEventListener('click', function() {
+      mapEl.style.display = '';
+      photoEl.style.display = 'none';
+      btnMap.classList.add('active');
+      btnPhoto.classList.remove('active');
+    });
+    btnPhoto.addEventListener('click', function() {
+      mapEl.style.display = 'none';
+      photoEl.style.display = '';
+      btnMap.classList.remove('active');
+      btnPhoto.classList.add('active');
+    });
+  }
 })();
 </script>
 {% endif %}

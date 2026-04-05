@@ -1,15 +1,14 @@
 ---
-title: "Schoneberg"
+title: Schöneberg
 type: location
-latitude: 52.482157
-longitude: 13.35519
+latitude: 52.4821
+longitude: 13.3552
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Not only the locals in Schöneberg enjoy carousing in the area between the U-Bahn stations Nollendorfplatz and Eisenacher Straße. Schöneberg inhabitants are known for their style, even if non-style is in, and have no trouble bridging the blatant lifestyle gap between Kreuzberg and Wilmersdorf. The whole area is full of places offering the best in modern living - or is it only trendy? Way-out shoes, exclusive antique shops, gracious interiors, elegant restaurants and erotic, innovative clothes. 
+Schöneberg is one of Berlin's quieter, more settled neighbourhoods — a leafy district of 19th-century apartment blocks, bookshops, and café-lined squares that sits south of the Tiergarten between Mitte and Wilmersdorf. It was a separate city until 1920 and still feels a touch bourgeois compared to Kreuzberg next door, but the area around Nollendorfplatz has been the beating heart of gay Berlin since the 1920s, when Christopher Isherwood lived here and wrote the stories that became *Cabaret*. There is a plaque on the building where he lodged, at Nollendorfstraße 17.
 
+The streets between Nollendorfplatz and Winterfeldtplatz are Schöneberg at its best: tree-lined, walkable, full of independent shops and places to sit outside. Winterfeldtplatz itself is the neighbourhood's social centre, with one of the best farmers' markets in the city on Wednesdays and Saturdays — locals come for the flowers, the cheese, and the morning coffee. From there, Goltzstraße and Akazienstraße run south, lined with bistros, wine bars, and the kind of unhurried cafés where an afternoon slides by. KaDeWe, the department store at Wittenbergplatz, is on the northern edge — Europe's biggest and worth visiting for the sixth-floor food hall alone.
 
- One of the oldest and biggest dance temples is the Metropol at Nollendorfplatz. This includes the Loft, venue of legendary concerts, like Café Swing opposite. Genuine Schönebergers gather on Saturday mornings before 2 pm to go shopping at Winterfeldtmarkt and start the day amid the easy-going bustle wearing dark glasses after the long Friday nights. On the days when there's no market, inline skaters and various other kinds of boarders turn the flat expanse of the square into an arena. The surrounding cafés, Sidney, Berio and Belmundo invite you to a big leisurely breakfast. Habibi, one of the best falafel bars in the city, is also directly on Winterfeldtplatz. You can spend the whole day at Tim's Canadian Deli. Breakfast from 8 am, and later you can tuck into muffins, chicken wings, spare ribs, burgers and all those other tasty Canadian delicacies. But the place to get really soused is Green Door nearby. Watch out for the bouncers at the door!
-
-
- 
- Off the south side of the square, to the right in Hohenstaufenstraße is the scene pub Mutter. Further on in Goltzstraße is a whole array of pubs and cafés. After the Indian institution Rani you find the famous Café M, with Lux next door. They offer big cups of their highly popular café au lait at any time of day or night. Good cocktails are professionally mixed in Mr. Hu's Bar. And close by is Havanna with salsa, latino and hiphop on three dance floors. There's no lack of culinary delights here either: along with Indian food, there are snack bars for hot dogs, pizza, Tex-Mex and much more. It's well worth peeping into the side streets and strolling down Akazienstraße towards Hauptstraße - the network of cafés, restaurants and bars is getting more intricate all the time.
+Come here if you want a less frenetic, more residential Berlin — good restaurants, quiet streets, and the occasional reminder that this was where Marlene Dietrich was born, where David Bowie lived in the 1970s, and where Berlin's gay culture has been most at home for a century.

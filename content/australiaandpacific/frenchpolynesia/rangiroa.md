@@ -1,10 +1,16 @@
 ---
-title: "Rangiroa"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: -15.122446
 longitude: -147.546209
+title: Rangiroa
+type: location
 ---
 
-The island of Rangiroa is a perfect atoll, and I've been told it's the second largest lagoon in the world. The only inhabited part is an 8 km strip of land with the airport, the island only "Bora Bora"-style resort, many small pensions and just about as many scuba center as you dare to imagine. Apparently, scuba diving here is among the best of the world. On this island, you're really segregated from the rest of the world, so you can only eat, drink and get in the water. There are plenty of excursions available and the atoll is absolutely lovely, with its reef and its many smaller lagoons. Don't expect to find a TV, or at least not one receiving much of a signal!, but be merry since Rangiroa is home of the only internet access point of all the Tuamotu archipelagos! The lagoon is absolutely gorgeous, with ton of fish and beautiful snorkeling if you're not in scuba diving or are not certified. Drift snorkeling across Tiputa Pass is a great experience not to be missed if you want to seize the chance to swim with dolphin and admire the beautiful sea life. The locals are friendly and incredibly nice, and all together this is an island you should not miss if you plan to visit French Polynesia!
+Rangiroa is one of the largest atolls in the world — a thin necklace of coral islets enclosing a turquoise lagoon so vast it has its own weather. The inhabited strip runs about 10 km along the northern rim; everywhere else is open water, reef, and sky. There are no mountains, no rivers, no traffic lights. Just coral, coconut trees, and the Pacific.
 
-Minor corrections on 06 January 05
+The reason most people come is diving. Tiputa Pass and Avatoru Pass are among the best drift dives on the planet: strong tidal currents pull you through channels crowded with grey reef sharks, manta rays, barracuda, and dolphins. Even snorkelers can drift the pass at slack tide and find themselves eye-to-eye with sharks in clear water. The lagoon is calm and warm — good for beginners, too.
+
+Beyond the passes, boat excursions reach the Blue Lagoon (Lagon Bleu) and Pink Sands (Les Sables Roses) on the far side of the atoll. These are half-day trips worth taking: shallow water over pale sand in shades that don't photograph accurately. The fish park at Lagon Vert lets you swim with large tame sharks and rays.
+
+Life on Rangiroa is genuinely simple. Most accommodation is small family-run pensions offering half-board. The single paved road runs the length of Avatoru islet; bikes are the right way to travel it. Come expecting to eat, sleep, dive, and watch the stars — they're extraordinary this far from city lights.
